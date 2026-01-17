@@ -1,18 +1,18 @@
 ---
-document_datetime: 2024-09-17 15:35:06
-document_pages: 47
+document_datetime: 2026-01-16 16:30:13
+document_pages: 48
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/kerendia-epar-product-information_en.pdf
 document_name: kerendia-epar-product-information_en.pdf
 version: success
-processing_time: 15.3630944
-conversion_datetime: 2025-12-19 11:54:46.86466
+processing_time: 16.501048
+conversion_datetime: 2026-01-17 13:25:13.486636
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.64.1
-  docling-core: 2.55.0
+  docling-serve: 1.10.0
+  docling-jobkit: 1.8.1
+  docling: 2.68.0
+  docling-core: 2.59.0
   docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-parse: 4.7.3
   python: cpython-313 (3.13.11)
   plaform: macOS-26.2-arm64-arm-64bit-Mach-O
 ---
@@ -116,8 +116,6 @@ Table 2 : Continuation of finerenone treatment and dose adjustment
 | Current serum potassium (mmol/L) | ≤ 4.8        | Increase to 20 mg finerenone once daily *                                                        | Maintain 20 mg once daily                                                            |
 | Current serum potassium (mmol/L) | > 4.8 to 5.5 | Maintain 10 mg once daily                                                                        | Maintain 20 mg once daily                                                            |
 | Current serum potassium (mmol/L) | > 5.5        | Withhold finerenone. Consider re-starting at 10 mg once daily when serum potassium ≤ 5.0 mmol/L. | Withhold finerenone. Re-start at 10 mg once daily when serum potassium ≤ 5.0 mmol/L. |
-
-* maintain 10 mg once daily, if eGFR has decreased &gt; 30% compared to the previous measurement
 
 ## Missed dose
 
@@ -518,13 +516,17 @@ Table 4 : Analysis of the primary and secondary time-to-event endpoints (and the
 | All-cause hospitalisation                                                                  | 1,263 (44.6)                                           | 22.56                                                  | 1,321 (46.5)                                           | 23.87                                                  | 0.95 (0.88; 1.02) **                                   |
 | Composite of kidney failure, sustained eGFR decline ≥ 57% or renal death                   | 252 (8.9)                                              | 3.64                                                   | 326 (11.5)                                             | 4.74                                                   | 0.76 (0.65; 0.90) **                                   |
 
-* Treatment with 10 or 20 mg once daily in addition to maximum tolerated labelled doses of ACEi or ARB. ** p = not statistically significant after adjustment for multiplicity
+CI:
 
-CI: Confidence interval
+Confidence interval
 
-HR: Hazard ratio
+HR:
 
-pyr: patient-years
+Hazard ratio
+
+pyr:
+
+patient-years
 
 <div style=\"page-break-after: always\"></div>
 
@@ -555,13 +557,17 @@ Table 5: Analysis of the primary and secondary time-to-event endpoints (and thei
 | All-cause hospitalisation                                                                  | 1,573 (42.7)                                          | 16.91                                                 | 1,605 (43.8)                                          | 17.52                                                 | 0.97 (0.90; 1.04) **                                  |
 | Composite of kidney failure, sustained eGFR decline ≥ 57% or renal death                   | 108 (2.9)                                             | 0.95                                                  | 139 (3.8)                                             | 1.23                                                  | 0.77 (0.60; 0.99) **                                  |
 
-* Treatment with 10 or 20 mg once daily in addition to maximum tolerated labelled doses of ACEi or ARB. ** not statistically significant after adjustment for multiplicity
+CI:
 
-CI: Confidence interval
+Confidence interval
 
-HR: Hazard ratio
+HR:
 
-pyr: patient-years
+Hazard ratio
+
+pyr:
+
+patient-years
 
 <div style=\"page-break-after: always\"></div>
 
@@ -759,11 +765,15 @@ Detailed information on this medicinal product is available on the European Medi
 
 <div style=\"page-break-after: always\"></div>
 
-## A. MANUFACTURER RESPONSIBLE FOR BATCH RELEASE
+## A. MANUFACTURERS RESPONSIBLE FOR BATCH RELEASE
 
-Name and address of the manufacturer responsible for batch release
+Name and address of the manufacturers responsible for batch release
 
 Bayer AG Kaiser-Wilhelm-Allee 51368 Leverkusen Germany
+
+Bayer HealthCare Manufacturing S.r.l. Via delle Groane, 126 20024 Garbagnate Milanese Italy
+
+The printed package leaflet of the medicinal product must state the name and address of the manufacturer responsible for the release of the concerned batch.
 
 ## B. CONDITIONS OR RESTRICTIONS REGARDING SUPPLY AND USE
 
@@ -798,15 +808,15 @@ An updated RMP should be submitted:
 
 ## A. LABELLING
 
+<div style=\"page-break-after: always\"></div>
+
 ## PARTICULARS TO APPEAR ON THE OUTER PACKAGING
 
 CARTON for 10 mg (blisters and bottle)
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
-Kerendia 10 mg film-coated tablets
-
-finerenone
+Kerendia 10 mg film-coated tablets finerenone
 
 ## 2. STATEMENT OF ACTIVE SUBSTANCE
 
@@ -821,13 +831,9 @@ Contains lactose. Read the package leaflet before use.
 ## Film-coated tablet
 
 - 14 film-coated tablets
-
 - 28 film-coated tablets
-
 - 98 film-coated tablets
-
 - 100 × 1 film-coated tablets
-
 - 100 film-coated tablets
 
 ## 5. METHOD AND ROUTE OF ADMINISTRATION
@@ -845,8 +851,6 @@ Keep out of the sight and reach of children.
 ## 8. EXPIRY DATE
 
 EXP
-
-<div style=\"page-break-after: always\"></div>
 
 <div style=\"page-break-after: always\"></div>
 
@@ -936,7 +940,10 @@ EXP
 
 <div style=\"page-break-after: always\"></div>
 
-10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
+<div style=\"page-break-after: always\"></div>
+
+| 10.   | SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS ORWASTEMATERIALS DERIVED FROMSUCH MEDICINAL PRODUCTS, IF APPROPRIATE   |
+|-------|--------------------------------------------------------------------------------------------------------------------------------------|
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
@@ -951,16 +958,10 @@ EU/1/21/1616/005 - 100 tablets (bottle)
 Lot
 
 14. GENERAL CLASSIFICATION FOR SUPPLY
-
 15. INSTRUCTIONS ON USE
-
 16. INFORMATION IN BRAILLE
-
 17. UNIQUE IDENTIFIER - 2D BARCODE
-
 18. UNIQUE IDENTIFIER - HUMAN READABLE DATA
-
-<div style=\"page-break-after: always\"></div>
 
 <div style=\"page-break-after: always\"></div>
 
@@ -992,6 +993,8 @@ Lot
 |------|---------|
 
 Mon. Tue. Wed. Thu. Fri. Sat. Sun.
+
+31
 
 <div style=\"page-break-after: always\"></div>
 
@@ -1150,7 +1153,7 @@ Keep out of the sight and reach of children.
 
 ## 7. OTHER SPECIAL WARNING(S), IF NECESSARY
 
-## 8. EXPIRY DATE
+8. EXPIRY DATE
 
 EXP
 
@@ -1193,8 +1196,9 @@ Lot
 
 Kerendia 20 mg tablets finerenone
 
-| 2.   | NAMEOFTHEMARKETINGAUTHORISATION HOLDER   |
-|------|------------------------------------------|
+2.
+
+NAME OF THE MARKETING AUTHORISATION HOLDER
 
 Bayer AG (Bayer Logo)
 
@@ -1212,6 +1216,8 @@ Lot
 |------|---------|
 
 Mon. Tue. Wed. Thu. Fri. Sat. Sun.
+
+38
 
 <div style=\"page-break-after: always\"></div>
 
@@ -1247,8 +1253,6 @@ Lot
 ## B. PACKAGE LEAFLET
 
 <div style=\"page-break-after: always\"></div>
-
-<!-- image -->
 
 ## Package leaflet: Information for the patient
 
@@ -1468,11 +1472,8 @@ Possible signs of high potassium level in the blood may include weakness or tire
 
 common (may affect up to 1 in 10 people)
 
-- -
-- low blood pressure (hypotension)
-
-Possible signs of low blood pressure may include dizziness, lightheadedness, fainting.
-
+- -low blood pressure (hypotension)
+- Possible signs of low blood pressure may include dizziness, lightheadedness, fainting.
 - -itching (pruritus)
 
 ## Reporting of side effects
@@ -1522,13 +1523,19 @@ Each calendarised transparent blister contains 14 film-coated tablets.
 
 Not all pack sizes may be marketed.
 
-## Marketing Authorisation Holder
+Marketing Authorisation Holder 51368 Leverkusen
 
-Bayer AG 51368 Leverkusen Germany
+Bayer AG Germany
+
+<div style=\"page-break-after: always\"></div>
 
 ## Manufacturer
 
-Bayer AG Kaiser-Wilhelm-Allee 51368 Leverkusen Germany
+You can find out who made Kerendia by looking at what is printed after 'Lot' on the carton, blisters or bottle label.
+
+If the batch number starts with 'BX', it is: Bayer AG Kaiser-Wilhelm-Allee 51368 Leverkusen Germany
+
+If the batch number starts with 'IT', it is: Bayer HealthCare Manufacturing S.r.l. Via delle Groane, 126 20024 Garbagnate Milanese Italy
 
 <div style=\"page-break-after: always\"></div>
 
@@ -1550,9 +1557,7 @@ Bayer s.r.o. Tel: +420 266 101 111
 
 ## Danmark
 
-Bayer A/S
-
-Tlf: +45 45 23 50 00
+Bayer A/S Tlf: +45 45 23 50 00
 
 ## Deutschland
 
@@ -1578,11 +1583,15 @@ Tel: +34-93-495 65 00
 
 ## France
 
-Bayer HealthCare Tél (N° vert): +33-(0)800 87 54 54
+Bayer HealthCare
+
+Tél (N° vert): +33-(0)800 87 54 54
 
 ## Hrvatska
 
-Bayer d.o.o. Tel: +385-(0)1-6599 900
+Bayer d.o.o.
+
+Tel: +385-(0)1-6599 900
 
 ## Ireland
 
@@ -1590,9 +1599,7 @@ Bayer Limited Tel: +353 1 216 3300
 
 ## Ísland
 
-Icepharma hf.
-
-Sími: +354 540 8000
+Icepharma hf. Sími: +354 540 8000
 
 ## Italia
 
@@ -1612,7 +1619,9 @@ Tel: +371 67 84 55 63
 
 ## Lietuva
 
-UAB Bayer Tel. +37 05 23 36 868
+UAB Bayer
+
+Tel. +37 05 23 36 868
 
 ## Luxembourg/Luxemburg
 
@@ -1660,11 +1669,15 @@ Tel: +40 21 529 59 00
 
 ## Slovenija
 
-Bayer d. o. o. Tel: +386 (0)1 58 14 400
+Bayer d. o. o.
+
+Tel: +386 (0)1 58 14 400
 
 ## Slovenská republika
 
-Bayer spol. s r.o. Tel. +421 2 59 21 31 11
+Bayer spol. s r.o.
+
+Tel. +421 2 59 21 31 11
 
 ## Suomi/Finland
 
@@ -1672,7 +1685,9 @@ Bayer Oy Puh/Tel: +358- 20 785 21
 
 ## Sverige
 
-Bayer AB Tel: +46 (0) 8 580 223 00
+Bayer AB
+
+Tel: +46 (0) 8 580 223 00
 
 <div style=\"page-break-after: always\"></div>
 

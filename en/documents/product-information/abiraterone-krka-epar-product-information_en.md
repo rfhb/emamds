@@ -1,18 +1,18 @@
 ---
-document_datetime: 2026-01-13 15:28:21
+document_datetime: 2026-01-16 14:25:21
 document_pages: 38
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/abiraterone-krka-epar-product-information_en.pdf
 document_name: abiraterone-krka-epar-product-information_en.pdf
 version: success
-processing_time: 11.9280963
-conversion_datetime: 2026-01-14 07:17:34.161334
+processing_time: 13.7598003
+conversion_datetime: 2026-01-17 13:35:07.809681
 docling_version:
   docling-serve: 1.10.0
   docling-jobkit: 1.8.1
   docling: 2.68.0
   docling-core: 2.59.0
   docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-parse: 4.7.3
   python: cpython-313 (3.13.11)
   plaform: macOS-26.2-arm64-arm-64bit-Mach-O
 ---

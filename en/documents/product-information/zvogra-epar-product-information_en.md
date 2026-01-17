@@ -1,18 +1,18 @@
 ---
-document_datetime: 2026-01-05 13:04:07
-document_pages: 35
+document_datetime: 2026-01-14 11:42:33
+document_pages: 36
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/zvogra-epar-product-information_en.pdf
 document_name: zvogra-epar-product-information_en.pdf
 version: success
-processing_time: 9.1741099
-conversion_datetime: 2026-01-06 07:23:08.98351
+processing_time: 10.1357336
+conversion_datetime: 2026-01-17 13:33:33.806867
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.66.0
-  docling-core: 2.57.0
+  docling-serve: 1.10.0
+  docling-jobkit: 1.8.1
+  docling: 2.68.0
+  docling-core: 2.59.0
   docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-parse: 4.7.3
   python: cpython-313 (3.13.11)
   plaform: macOS-26.2-arm64-arm-64bit-Mach-O
 ---
@@ -606,7 +606,7 @@ EU/1/25/1981/001 [1 vial] EU/1/25/1981/002 [3 vials] EU/1/25/1981/003 [4 vials]
 
 ## 9. DATE OF FIRST AUTHORISATION/RENEWAL OF THE AUTHORISATION
 
-Date of first authorisation:
+Date of first authorisation: 17   November 2025
 
 ## 10. DATE OF REVISION OF THE TEXT
 
@@ -631,7 +631,13 @@ Alvotech hf Sæmundargata 15-19 102 Reykjavik Iceland
 
 Name and address of the manufacturer(s) responsible for batch release
 
-Alvotech hf Sæmundargata 15-19 102 Reykjavik Iceland
+Sæmundargata 15-19
+
+Alvotech hf 102 Reykjavik Iceland
+
+STADA Arzneimittel AG Stadastrasse 2-18 61118 Bad Vilbel Germany
+
+The printed package leaflet of the medicinal product must state the name and address of the manufacturer responsible for the release of the concerned batch.
 
 ## B. CONDITIONS OR RESTRICTIONS REGARDING SUPPLY AND USE
 
@@ -653,13 +659,16 @@ An updated RMP should be submitted:
 
 - At the request of the European Medicines Agency;
 - Whenever the risk management system is modified, especially as the result of new information being received that may lead to a significant change to the benefit/risk profile or as the result of an important (pharmacovigilance or risk minimisation) milestone being reached.
-- Additional risk minimisation measures
+
+## · Additional risk minimisation measures
+
+<div style=\"page-break-after: always\"></div>
 
 Additional risk minimisation measures are in place for the following safety concern:
 
 - ⦁ Osteonecrosis of the jaw
 
-Patient reminder card
+## Patient reminder card
 
 <div style=\"page-break-after: always\"></div>
 
@@ -735,11 +744,7 @@ Keep the vial in the outer carton in order to protect from light.
 
 STADA Arzneimittel AG
 
-Stadastrasse 2-18
-
-61118 Bad Vilbel
-
-Germany
+Stadastrasse 2-18 61118 Bad Vilbel Germany
 
 ## 12. MARKETING AUTHORISATION NUMBER(S)
 
@@ -1012,17 +1017,27 @@ Each pack contains one, three or four single use vials. Not all pack sizes may b
 
 STADA Arzneimittel AG Stadastrasse 2-18 61118 Bad Vilbel Germany
 
-## Manufacturer
+## Manufacturers
 
 Alvotech hf Sæmundargata 15-19 102 Reykjavik Iceland
 
+STADA Arzneimittel AG Stadastrasse 2-18 61118 Bad Vilbel Germany
+
 For any information about this medicine, please contact the local representative of the Marketing Authorisation Holder:
 
-België/Belgique/Belgien EG (Eurogenerics) NV Tél/Tel: +32 24797878 България STADA Bulgaria EOOD Teл.: +359 29624626
+## België/Belgique/Belgien
 
-Lietuva UAB 'STADA Baltics' Tel: +370 52603926 Luxembourg/Luxemburg EG (Eurogenerics) NV Tél/Tel: +32 24797878
+EG (Eurogenerics) NV Tél/Tel: +32 24797878
+
+Lietuva UAB 'STADA Baltics' Tel: +370 52603926
 
 <div style=\"page-break-after: always\"></div>
+
+## България
+
+STADA Bulgaria EOOD
+
+Teл.: +359 29624626
 
 ## Česká republika
 
@@ -1092,11 +1107,9 @@ Tel: +39 028310371
 
 ## Κύπρος
 
-STADA Arzneimittel AG
+STADA Arzneimittel AG Τηλ: +30 2106664667
 
-Τηλ: +30 2106664667
-
-Latvija
+## Latvija
 
 UAB 'STADA Baltics'
 
@@ -1112,8 +1125,10 @@ Detailed information on this medicine is available on the European Medicines Age
 
 - Before administration, the Zvogra solution should be inspected visually. The solution may contain trace amounts of translucent to white proteinaceous particles. Do not inject the solution if it is cloudy, discoloured or if it contains many particles or foreign particulate matter.
 - Do not shake.
-- To avoid discomfort at the site of injection, allow the vial to reach room temperature (up to 25 ºC) before injecting and inject slowly.
-- The entire contents of the vial should be injected.
+
+## Luxembourg/Luxemburg
+
+EG (Eurogenerics) NV Tél/Tel: +32 24797878
 
 ## Magyarország
 
@@ -1123,7 +1138,9 @@ Tel.: +36 18009747
 
 ## Malta
 
-Pharma.MT Ltd. Tel: + 356 21337008
+Pharma.MT Ltd.
+
+Tel: + 356 21337008
 
 ## Nederland
 
@@ -1145,7 +1162,7 @@ Tel: +43 136785850
 
 ## Polska
 
-STADA Poland Sp. z.o o.
+STADA Poland Sp. z o.o.
 
 Tel: +48 227377920
 
@@ -1179,7 +1196,7 @@ STADA Nordic ApS, Suomen sivuliike
 
 Puh/Tel: +358 207416888
 
-## Sverige
+Sverige
 
 STADA Nordic ApS
 
@@ -1187,6 +1204,8 @@ Tel: +45 44859999
 
 <div style=\"page-break-after: always\"></div>
 
+- To avoid discomfort at the site of injection, allow the vial to reach room temperature (up to 25 ºC) before injecting and inject slowly.
+- The entire contents of the vial should be injected.
 - A 27 gauge needle is recommended for the administration of denosumab.
 - The vial should not be re-entered.
 

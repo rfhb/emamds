@@ -1,18 +1,18 @@
 ---
-document_datetime: 2024-01-16 15:42:29
+document_datetime: 2026-01-16 12:55:52
 document_pages: 70
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/terrosa-epar-product-information_en.pdf
 document_name: terrosa-epar-product-information_en.pdf
 version: success
-processing_time: 19.9725928
-conversion_datetime: 2025-12-28 13:28:52.437984
+processing_time: 19.3867817
+conversion_datetime: 2026-01-17 13:23:04.261532
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.66.0
-  docling-core: 2.57.0
+  docling-serve: 1.10.0
+  docling-jobkit: 1.8.1
+  docling: 2.68.0
+  docling-core: 2.59.0
   docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-parse: 4.7.3
   python: cpython-313 (3.13.11)
   plaform: macOS-26.2-arm64-arm-64bit-Mach-O
 ---
@@ -185,7 +185,7 @@ Of patients in the teriparatide trials, 82.8% of the teriparatide patients and 8
 
 The adverse reactions associated with the use of teriparatide in osteoporosis clinical trials and post-marketing exposure are summarised in Table 1.
 
-The following convention has been used for the classification of the adverse reactions: very common (≥1/10), common (≥1/100 to &lt;1/10), uncommon (≥1/1 000 to &lt;1/100), and rare (≥1/1 0 000 to &lt;1/1 000).
+The following convention has been used for the classification of the adverse reactions: very common (≥1/10), common (≥1/100 to &lt;1/10), uncommon (≥1/1 000 to &lt;1/100), and rare (≥1/10 000 to &lt;1/1 000).
 
 Table 1. Adverse drug reactions
 
@@ -268,7 +268,7 @@ Teriparatide is a bone formation agent to treat osteoporosis. The skeletal effec
 
 Independent risk factors, for example, low BMD, age, the existence of previous fracture, family history of hip fractures, high bone turnover and low body mass index should be considered in order to identify women and men at increased risk of osteoporotic fractures who could benefit from treatment.
 
-Premenopausal women with glucocorticoid-induced osteoporosis should be considered at high risk for fracture if they have a prevalent fracture or a combination of risk factors that place them at high risk for fracture (e.g., low bone density [e.g., Tscore ≤-2], sustained high dose glucocorticoid therapy [e.g., ≥7.5 mg/day for at least 6 months], high underlying disease activity, low sex steroid levels).
+Premenopausal women with glucocorticoid-induced osteoporosis should be considered at high risk for fracture if they have a prevalent fracture or a combination of risk factors that place them at high risk for fracture (e.g., low bone density [e.g., T-score ≤-2], sustained high dose glucocorticoid therapy [e.g., ≥7.5 mg/day for at least 6 months], high underlying disease activity, low sex steroid levels).
 
 ## Postmenopausal osteoporosis
 
@@ -303,7 +303,7 @@ During a median of 18 months following discontinuation of teriparatide, there wa
 
 In an open-label study, 503 postmenopausal women with severe osteoporosis and a fragility fracture within the previous 3 years (83% had received previous osteoporosis therapy) were treated with teriparatide for up to 24 months. At 24 months, the mean increase from baseline in lumbar spine, total hip and femoral neck BMD was 10.5%, 2.6 % and 3.9% respectively. The mean increase in BMD from 18 to 24 months was 1.4%, 1.2%, and 1.6% at the lumbar spine, total hip and femoral neck, respectively.
 
-A 24-month, randomised, double-blind, comparator-controlled Phase 4 study included 1 360 postmenopausal women with established osteoporosis. 680 subjects were randomised to teriparatide and 680 subjects were randomised to oral risedronate 35 mg/week. At baseline, the women had a mean age of 72.1 years and a median of 2 prevalent vertebral fractures; 57.9% of patients had received previous bisphosphonate therapy and 18.8% took concomitant glucocorticoids during the study. 1 013 (74.5%) patients completed the 24-month follow-up. The mean (median) cumulative dose of glucocorticoid was 474.3 (66.2) mg in the teriparatide arm and 898.0 (100.0) mg in the risedronate arm. The mean (median) vitamin D intake for the teriparatide arm was 1 433 IU/day (1 400 IU/day) and for the risedronate arm was 1 191 IU/day (900 IU/day). For those subjects who had baseline and follow-up spine radiographs, the incidence of new vertebral fractures was 28/516 (5.4%) in teriparatide- and 64/533 (12.0%) in risedronate-treated patients, relative risk (95% CI) = 0.44 (0.290.68), p&lt;0.0001. The cumulative incidence of pooled clinical fractures (clinical vertebral and non-vertebral fractures) was 4.8% in teriparatide and 9.8% in risedronate-treated patients, hazard ratio (95% CI) = 0.48 (0.32-0.74), p=0.0009.
+A 24-month, randomised, double-blind, comparator-controlled Phase 4 study included 1 360 postmenopausal women with established osteoporosis. 680 subjects were randomised to teriparatide and 680 subjects were randomised to oral risedronate 35 mg/week. At baseline, the women had a mean age of 72.1 years and a median of 2 prevalent vertebral fractures; 57.9% of patients had received previous bisphosphonate therapy and 18.8% took concomitant glucocorticoids during the study. 1 013 (74.5%) patients completed the 24-month follow-up. The mean (median) cumulative dose of glucocorticoid was 474.3 (66.2) mg in the teriparatide arm and 898.0 (100.0) mg in the risedronate arm. The mean (median) vitamin D intake for the teriparatide arm was 1 433 IU/day (1 400 IU/day) and for the risedronate arm was 1 191 IU/day (900 IU/day). For those subjects who had baseline and follow-up spine radiographs, the incidence of new vertebral fractures was 28/516 (5.4%) in teriparatide- and 64/533 (12.0%) in risedronate-treated patients, relative risk (95% CI) = 0.44 (0.290.68), p &lt;0.0001. The cumulative incidence of pooled clinical fractures (clinical vertebral and non-vertebral fractures) was 4.8% in teriparatide and 9.8% in risedronate-treated patients, hazard ratio (95% CI) = 0.48 (0.32-0.74), p=0.0009.
 
 ## Male osteoporosis
 
@@ -325,7 +325,7 @@ teriparatide significantly increased lumbar spine BMD (7.2%) compared with alend
 
 At 36 months, analysis of spinal X-rays from 169 alendronate patients and 173 teriparatide patients showed that 13 patients in the alendronate group (7.7%) had experienced a new vertebral fracture compared with 3 patients in the teriparatide group (1.7%) (p=0.01). In addition, 15 of 214 patients in the alendronate group (7.0%) had experienced a non-vertebral fracture compared with 16 of 214 patients in the teriparatide group (7.5%) (p=0.84).
 
-In premenopausal women, the increase in BMD from baseline to 18 month endpoint was significantly greater in the teriparatide group compared with the alendronate group at the lumbar spine (4.2% versus -1.9%; p&lt;0.001) and total hip (3.8% versus 0.9%; p=0.005). However, no significant effect on fracture rates was demonstrated.
+In premenopausal women, the increase in BMD from baseline to 18 month endpoint was significantly greater in the teriparatide group compared with the alendronate group at the lumbar spine (4.2% versus -1.9%; p&lt;0.001) and total hip (3.8% versus 0.9%; p=0.005 ). However, no significant effect on fracture rates was demonstrated.
 
 ## 5.2 Pharmacokinetic properties
 
@@ -393,9 +393,9 @@ Pack sizes:
 
 Terrosa 1 cartridge or 3 cartridges.
 
-Terrosa cartridge and pen pack: 1 inner carton of Terrosa cartridge (containing 1 cartridge) and 1 inner carton of Terrosa Pen
+Terrosa cartridge and pen pack:
 
-(containing 1 pen).
+1 inner carton of Terrosa cartridge (containing 1 cartridge) and 1 inner carton of Terrosa Pen (containing 1 pen).
 
 Not all pack sizes may be marketed.
 
@@ -431,7 +431,7 @@ Gedeon Richter Plc. Gyömrői út 19 -21. 1103 Budapest Hungary
 
 ## 8. MARKETING AUTHORISATION NUMBER(S)
 
-EU/1/16/1159/001 [1 cartridge] EU/1/16/1159/002 [3 cartridges] EU/1/16/1159/003 [cartridge and pen pack]
+EU/1/16/1159/001 [1 cartridge ] EU/1/16/1159/002 [3 cartridges ] EU/1/16/1159/003 [cartridge and pen pack ]
 
 ## 9. DATE OF FIRST AUTHORISATION / RENEWAL OF THE AUTHORISATION
 
@@ -699,7 +699,7 @@ of new bone on trabecular and cortical bone surfaces by preferential stimulation
 
 Independent risk factors, for example, low BMD, age, the existence of previous fracture, family history of hip fractures, high bone turnover and low body mass index should be considered in order to identify women and men at increased risk of osteoporotic fractures who could benefit from treatment.
 
-Premenopausal women with glucocorticoid-induced osteoporosis should be considered at high risk for fracture if they have a prevalent fracture or a combination of risk factors that place them at high risk for fracture (e.g., low bone density [e.g., Tscore≤-2], sustaine d high dose glucocorticoid therapy [e.g., ≥7.5 mg/day for at least 6 months], high underlying disease activity, low sex steroid levels).
+Premenopausal women with glucocorticoid-induced osteoporosis should be considered at high risk for fracture if they have a prevalent fracture or a combination of risk factors that place them at high risk for fracture (e.g., low bone density [e.g., Tscore≤-2], sustained high dose glucocorticoid therapy [e.g., ≥7.5 mg/day for at least 6 months], high underlying disease activity, low sex steroid levels).
 
 ## Postmenopausal osteoporosis
 
@@ -748,7 +748,7 @@ All patients were offered 1 000 mg calcium per day and at least 400 IU vitamin D
 
 The efficacy of teriparatide in men and women (N = 428) receiving sustained systemic glucocorticoid therapy (equivalent to 5 mg or greater of prednisone for at least 3 months) was demonstrated in the 18month primary phase of a 36-month, randomised, double-blind, comparator-controlled study (alendronate 10 mg/day). Twenty-eight percent of patients had one or more radiographic vertebral fractures at baseline. All patients were offered 1 000 mg calcium per day and 800 IU vitamin D per day.
 
-This study included postmenopausal women (N = 277), premenopausal women (N = 67), and men (N = 83). At baseline, the postmenopausal women had a mean age of 61 years, mean lumbar spine BMD T-score of -2.7, median prednisone equivalent dose of 7.5 mg/day, and 34% had one or more radiographic vertebral fractures; premenopausal women had a mean age of 37 years, mean lumbar spine BMD Tscore of -2.5, median prednisone equivalent dose of 10 mg/day, and 9% had one or more radiographic vertebral fractures; and men had a mean age of 57 years, mean lumbar spine BMD Tscore of -2.2, median prednisone equivalent dose of 10 mg/day, and 24% had one or more radiographic vertebral fractures.
+This study included postmenopausal women (N = 277), premenopausal women (N = 67), and men (N = 83). At baseline, the postmenopausal women had a mean age of 61 years, mean lumbar spine BMD Tscore of -2.7, median prednisone equivalent dose of 7.5 mg/day, and 34% had one or more radiographic vertebral fractures; premenopausal women had a mean age of 37 years, mean lumbar spine BMD Tscore of -2.5, median prednisone equivalent dose of 10 mg/day, and 9% had one or more radiographic vertebral fractures; and men had a mean age of 57 years, mean lumbar spine BMD Tscore of -2.2, median prednisone equivalent dose of 10 mg/day, and 24% had one or more radiographic vertebral fractures.
 
 Sixty-nine percent of patients completed the 18-month primary phase. At the 18-month endpoint, teriparatide significantly increased lumbar spine BMD (7.2%) compared with alendronate (3.4%) (p&lt; 0.001). Teriparatide increased BMD at the total hip (3.6%) compared with alendronate (2.2%) (p&lt; 0.01), as well as at the femoral neck (3.7%) compared with alendronate (2.1%) (p&lt; 0.05). In patients treated with teriparatide, lumbar spine, total hip and femoral neck BMD increased between 18
 
@@ -860,7 +860,7 @@ Gedeon Richter Plc. Gyömrői út 19 -21. 1103 Budapest Hungary
 
 ## 8. MARKETING AUTHORISATION NUMBER(S)
 
-EU/1/16/1159/004 [1 pre-filled pen] EU/1/16/1159/005 [3 pre-filled pens]
+EU/1/16/1159/004 [1 pre-filled pen ] EU/1/16/1159/005 [3 pre-filled pens ]
 
 ## 9. DATE OF FIRST AUTHORISATION / RENEWAL OF THE AUTHORISATION
 
@@ -887,7 +887,7 @@ Detailed information on this medicinal product is available on the website of th
 
 Name and address of the manufacturer of the biological active substance
 
-Richter-Helm BioLogics GmbH &amp; Co. KG Dengelsberg 24796 Bovenau GERMANY
+Richter BioLogics GmbH Dengelsberg 24796 Bovenau GERMANY
 
 Name and address of the manufacturer responsible for batch release
 
@@ -1006,9 +1006,9 @@ Hungary
 
 ## 12. MARKETING AUTHORISATION NUMBER(S)
 
-EU/1/16/1159/001 [1 cartridge]
+EU/1/16/1159/001 [1 cartridge ]
 
-EU/1/16/1159/002 [3 cartridges]
+EU/1/16/1159/002 [3 cartridges ]
 
 ## 13. BATCH NUMBER
 
@@ -1098,17 +1098,13 @@ Do not freeze.
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
-Gedeon Richter Plc.
-
-Gyömrői út 19 -21.
-
-1103 Budapest
-
-Hungary
+Gedeon Richter Plc. Gyömrői út 19 -21. 1103 Budapest Hungary
 
 ## 12. MARKETING AUTHORISATION NUMBER(S)
 
-EU/1/16/1159/003    [cartridge and pen pack]
+EU/1/16/1159/003    [cartridge and pen pack
+
+]
 
 ## 13. BATCH NUMBER
 
@@ -1219,7 +1215,7 @@ Lot
 
 Terrosa cartridge
 
-## 17. UNIQUE IDENTIFIER - 2D BARCODE
+17. UNIQUE IDENTIFIER - 2D BARCODE
 
 <div style=\"page-break-after: always\"></div>
 
@@ -1229,6 +1225,8 @@ Terrosa cartridge
 |-------|----------------------------------------|
 
 37
+
+<div style=\"page-break-after: always\"></div>
 
 ## MINIMUM PARTICULARS TO APPEAR ON BLISTERS OR STRIPS
 
@@ -1261,8 +1259,6 @@ Store in a refrigerator.
 28 doses
 
 Use only with Terrosa Pen.
-
-<div style=\"page-break-after: always\"></div>
 
 <div style=\"page-break-after: always\"></div>
 
@@ -1363,9 +1359,11 @@ Gedeon Richter Plc. Gyömrői út 19 -21. 1103 Budapest Hungary
 
 ## 12. MARKETING AUTHORISATION NUMBER(S)
 
-EU/1/16/1159/004 [1 pre-filled pen]
+EU/1/16/1159/004 [1 pre-filled pen
 
-EU/1/16/1159/005 [3 pre-filled pens]
+]
+
+EU/1/16/1159/005 [3 pre-filled pens ]
 
 ## 13. BATCH NUMBER
 
@@ -1377,9 +1375,9 @@ Lot
 
 ## 16. INFORMATION IN BRAILLE
 
-Terrosa pre-filled pen
-
 <div style=\"page-break-after: always\"></div>
+
+Terrosa pre-filled pen
 
 <div style=\"page-break-after: always\"></div>
 
@@ -1395,12 +1393,11 @@ PC SN NN
 
 <div style=\"page-break-after: always\"></div>
 
-| MINIMUM PARTICULARS TO APPEAR ONSMALLIMMEDIATE PACKAGING UNITS   |
-|------------------------------------------------------------------|
-| LABEL                                                            |
+MINIMUM PARTICULARS TO APPEAR ON SMALL IMMEDIATE PACKAGING UNITS
 
-| 1.   | NAMEOFTHEMEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION   |
-|------|-------------------------------------------------------------|
+LABEL
+
+## 1. NAME OF THE MEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION
 
 Terrosa 20 mcg/80 mcL injection teriparatide
 
@@ -1540,7 +1537,17 @@ gauge between 29 G and 31 G (diameter 0.25 - 0.33 mm) and a length between 5 mm 
 
 Before the first use, insert the cartridge into the pen. For the correct use of this medicine it is very important to closely follow the detailed Instructions for Use of your pen which are provided with the pen.
 
-Use a new injection needle for each injection to prevent contamination and safely dispose of the needle after use. Never store your pen with the needle attached. Never share your pen with others. Do not use your Terrosa Pen to inject any other medicine (e.g. insulin). The pen is customised for use with Terrosa only. Do not refill the cartridge.
+Use a new injection needle for each injection to prevent contamination and safely dispose of the needle after use.
+
+Never store your pen with the needle attached.
+
+Never share your pen with others.
+
+Do not use your Terrosa Pen to inject any other medicine (e.g. insulin).
+
+The pen is customised for use with Terrosa only.
+
+Do not refill the cartridge.
 
 Do not transfer the medicine into a syringe.
 
@@ -1709,9 +1716,7 @@ push button; display window; threaded rod; flange; Terrosa cartridge; peel foil;
 
 Write down the first injection date of each new cartridge. This helps you to know when the 28 daily doses per cartridge are used (see section 2 'Warnings and precautions' and section 3 'Preparing the pen for use' in the Package leaflet of Terrosa).
 
-Follow the instructions every time you insert a new Terrosa cartridge into your Terrosa Pen. Do not repeat this before each daily injection, otherwise you will not have enough Terrosa for 28 days.
-
-Read the patient information leaflet for Terrosa cartridge provided separately.
+Follow the instructions every time you insert a new Terrosa cartridge into your Terrosa Pen. Do not repeat this before each daily injection, otherwise you will not have enough Terrosa for 28 days. Read the patient information leaflet for Terrosa cartridge provided separately.
 
 ## A: Remove the pen cap.
 
@@ -2214,7 +2219,11 @@ Prepare everything you need : · alcohol swabs · the prefilled pen · a pen nee
 1. Preparing your pen
 2. 1/a Remove pen cap
 
-<!-- image -->
+T
+
+?
+
+9
 
 <div style=\"page-break-after: always\"></div>
 
@@ -2256,13 +2265,11 @@ Prepare everything you need : · alcohol swabs · the prefilled pen · a pen nee
 
 Your pen contains 28 fixed doses of 80 microliters. This fixed dose should be set for every daily injection.
 
-Startposition
+<!-- image -->
 
 <!-- image -->
 
-兰
-
-Loadedposition
+<!-- image -->
 
 <div style=\"page-break-after: always\"></div>
 

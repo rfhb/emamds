@@ -1,18 +1,18 @@
 ---
-document_datetime: 2026-01-13 14:06:13
+document_datetime: 2026-01-16 11:04:49
 document_pages: 32
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/winlevi-epar-product-information_en.pdf
 document_name: winlevi-epar-product-information_en.pdf
 version: success
-processing_time: 7.4830051
-conversion_datetime: 2026-01-14 07:16:56.043636
+processing_time: 7.5485902
+conversion_datetime: 2026-01-17 13:29:25.103009
 docling_version:
   docling-serve: 1.10.0
   docling-jobkit: 1.8.1
   docling: 2.68.0
   docling-core: 2.59.0
   docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-parse: 4.7.3
   python: cpython-313 (3.13.11)
   plaform: macOS-26.2-arm64-arm-64bit-Mach-O
 ---
@@ -78,7 +78,7 @@ Total daily dose should not exceed four (4) fingertip units (corresponding to ap
 
 For adults and adolescents, to achieve the therapeutic effect, it is recommended to treat for three months. After three months of treatment, it is recommended that the physician evaluates the continued improvement of the patient. Thereafter, regular assessment every three months of the skin and of the status of the patient should determine if continued use of the product is needed taking into account the status of the disease and the safety profile of the treatment.
 
-In adolescents, the physician may decide to conduct the first evaluation visit earlier than three months, depending on the patient's adherence to treatment and/or safety considerations (see sections 4.4 and 4.8).
+In adolescents, the physician may decide to conduct the first evaluation visit earlier than three months, depending on the patient's adherence to treatment and/or safety considerations (see section s 4.4 and 4.8).
 
 ## Renal or hepatic impairment
 
@@ -290,7 +290,7 @@ The safety and efficacy of clascoterone cream 10 mg/g applied twice daily for 12
 
 Of these 1 440 randomised subjects, 19 (1.3%) were 9 to 11 years of age, 641 (44.5%) were 12 to 17 years of age, and 780 (54.2%) were 18 years of age or older. Among adults and adolescents, 62% of the subjects were female and 91% were Caucasian. At baseline, subjects had a mean inflammatory lesion count of 42.4 and a mean non-inflammatory lesion count of 61.4. Approximately 83% of subjects had an IGA score of 3.
 
-Efficacy was assessed by three co-primary endpoints: proportion of subjects in each treatment group achieving 'success' at Week 12, with 'success' defined as an IGA score of ' clear (score=0)' or 'almost clear (score=1)' AND at least a 2-point reduction in IGA compared to baseline, absolute
+Efficacy was assessed by three co-primary endpoints: proportion of subjects in each treatment group achieving 'success' at Week 12, with 'success' defined as an IGA score of ' clear (score=0)' or 'almost clear (score=1)' AND at least a 2 -point reduction in IGA compared to baseline, absolute
 
 <div style=\"page-break-after: always\"></div>
 
@@ -415,9 +415,9 @@ Discard the unused product 1 month after first opening.
 
 ## 6.4 Special precautions for storage
 
-Once dispensed to patient: before opening, store in a refrigerator (2 °C - 8 °C). After the first opening,
+Prior to dispensing: store in a refrigerator (2 °C - 8 °C). Once dispensed to patient: before opening, store in a refrigerator (2 °C - do not store above 25 °C.
 
-Prior to dispensing: store in a refrigerator (2 °C - 8 °C). do not store above 25 °C.
+8 °C). After the first opening,
 
 Do not freeze.
 
@@ -442,6 +442,8 @@ Cassiopea S.p.A. Via C. Colombo, 1 Lainate, 20045 Milan Italy
 ## 8. MARKETING AUTHORISATION NUMBER(S)
 
 <div style=\"page-break-after: always\"></div>
+
+EU/1/25/1927/001 EU/1/25/1927/002 EU/1/25/1927/003
 
 ## 9. DATE OF FIRST AUTHORISATION/RENEWAL OF THE AUTHORISATION
 
@@ -504,7 +506,7 @@ The Checklist for healthcare professionals should contain the following key elem
 - HPA-axis suppression:
 - o Provide clear instruction on correct use of Winlevi (dose, administration schedule and site of application for adult and adolescent, respectively)
 - o Inform  patients  about  the  risk  of  HPA-axis  suppression  and  advice  on  signs  and  symptoms suggestive of this condition
-- o Monitor patient's adherence to the recommendation on correct use at follow-up visits
+- o Monitor patient's adherence to the recommendation on correct use at follow -up visits
 
 o Consider  measuring  morning  serum  cortisol  levels  if  HPA  axis  suppression  is  suspected  and referring  the  patient  for  endocrinological  evaluation.  Treatment  should  be  interrupted  if  HPA  axis suppression is confirmed
 
@@ -541,7 +543,9 @@ CARTON
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
-Winlevi 10 mg/g cream clascoterone
+Winlevi 10 mg/g cream
+
+clascoterone
 
 ## 2. STATEMENT OF ACTIVE SUBSTANCE(S)
 
@@ -610,8 +614,8 @@ Lot
 | 14.   | GENERAL CLASSIFICATION FOR SUPPLY   |
 |-------|-------------------------------------|
 
-| 15.   | INSTRUCTIONS ONUSE   |
-|-------|----------------------|
+| 15.   | INSTRUCTIONS ON USE   |
+|-------|-----------------------|
 
 | 16.   | INFORMATION IN BRAILLE   |
 |-------|--------------------------|
@@ -623,8 +627,8 @@ Winlevi
 
 2D barcode carrying the unique identifier included.
 
-| 18.   | UNIQUE IDENTIFIER - HUMANREADABLE DATA   |
-|-------|------------------------------------------|
+| 18.   | UNIQUE IDENTIFIER -HUMANREADABLE DATA   |
+|-------|-----------------------------------------|
 
 PC SN
 
@@ -703,8 +707,8 @@ Lot
 | 14.   | GENERAL CLASSIFICATION FOR SUPPLY   |
 |-------|-------------------------------------|
 
-| 15.   | INSTRUCTIONS ONUSE   |
-|-------|----------------------|
+| 15.   | INSTRUCTIONS ON USE   |
+|-------|-----------------------|
 
 | 16.   | INFORMATION IN BRAILLE   |
 |-------|--------------------------|
@@ -712,8 +716,8 @@ Lot
 | 17.   | UNIQUE IDENTIFIER - 2D BARCODE   |
 |-------|----------------------------------|
 
-| 18.   | UNIQUE IDENTIFIER - HUMANREADABLE DATA   |
-|-------|------------------------------------------|
+| 18.   | UNIQUE IDENTIFIER -HUMANREADABLE DATA   |
+|-------|-----------------------------------------|
 
 22
 
@@ -749,7 +753,9 @@ Cassiopea S.p.A.
 
 ## PATIENT CARD
 
-Patient card for Winlevi 10 mg/g cream - For women and girls who are able to become pregnant
+## Open here for patient card
+
+## Patient card for Winlevi -For women and girls who are able to become pregnant
 
 ## Contraception and pregnancy prevention
 
@@ -777,7 +783,9 @@ Keep this card for at least 10 days after stopping treatment.
 
 ## Package leaflet: Information for the patient
 
-## Winlevi 10 mg/g cream clascoterone
+## Winlevi 10 mg/g cream
+
+## clascoterone
 
 This medicine is subject to additional monitoring. This will allow quick identification of new safety information. You can help by reporting any side effects you may get. See the end of section 4 for how to report side effects.
 
@@ -799,7 +807,7 @@ This medicine is subject to additional monitoring. This will allow quick identif
 
 ## 1. What Winlevi is and what it is used for
 
-Winlevi contains the active substance clascoterone that belongs to a group of medicines known as 'anti-acne preparations'.
+Winlevi contains the active substance clascoterone that belongs to a group of medicines known as 'anti -acne preparations' .
 
 Winlevi cream is a medicine used in adults and adolescents from 12 years of age and older to treat acne vulgaris. Acne vulgaris is a common skin condition that causes pimples, blackheads, and whiteheads that can affect the face, chest and back. In adolescents the use must be limited to the face only.
 
@@ -936,7 +944,7 @@ See section 2 'Warnings and precautions' for information on what to do if you ex
 
 <div style=\"page-break-after: always\"></div>
 
-Application site reactions such as redness, peeling, dryness, itching, stinging/burning of the skin, may be experienced with the use of Winlevi. See section 2 'Warnings and precautions' for information on what to do if you experience such symptoms.
+Application site reactions such as redness, peeling, dryness, itching, stinging/burning of the skin, may be experienced with the use of Winlevi . See section 2 'Warnings and precautions' for information on what to do if you experience such symptoms.
 
 Winlevi may cause the following side effects:
 
@@ -945,7 +953,7 @@ Common (may affect up to 1 in 10 people)
 - -Application site pain, dryness, redness, and excessive hair growth
 - -Lower-than-normal levels of a stress hormone called cortisol
 
-## Rare (may affect up to 1 in 1 000 people)
+Rare (may affect up to 1 in 1 000 people)
 
 - -Hypersensitivity (allergic reactions) at the site of application,
 - -Acne
@@ -966,7 +974,7 @@ Do not use this medicine after the expiry date which is stated on the carton and
 
 Discard the unused product 1 month after first opening.
 
-Store in a refrigerator (2 °C - 8 °C). Once opened: do not store above 25 °C. Do not freeze.
+Store in a refrigerator (2 °C -8 °C). Once opened: do not store above 25 °C. Do not freeze.
 
 Do not throw away any medicines via wastewater or household waste. Ask your pharmacist how to throw away medicines you no longer use. These measures will help protect the environment.
 
@@ -1013,9 +1021,9 @@ Glenmark Pharmaceuticals Nordic AB Sweden Tlf./Puh/Tel/Sími: + 46 40 35 48 10 i
 
 ## AT, DE
 
-INFECTOPHARM Arzneimittel und Consilium GmbH Germany
+INFECTOPHARM Arzneimittel und Consilium
 
-Tel: + 49 6252 957000 kontakt@infectopharm.com
+GmbH Germany Tel: + 49 6252 957000 kontakt@infectopharm.com
 
 ## España
 
@@ -1025,25 +1033,21 @@ infospain@glenmarkpharma.com
 
 ## France
 
-Laboratoires Bailleul
-
-Tél: + 33 (0)1 56 33 11 11 vigilance-reclamation@bailleul.com
+Laboratoires Bailleul Tél: + 33 (0)1 56 33 11 11 vigilance-reclamation@bailleul.com
 
 ## Ελλάδα
 
-IASIS PHARMA Τηλ: + 30 210 2311031
-
-iasis@iasispharma.gr
+IASIS PHARMA Τηλ: + 30 210 2311031 iasis@iasispharma.gr
 
 ## This leaflet was last revised in
 
-Magyarország Mediner Kft. Tel.: +36 52 535 708 info@mediner.hu
+## Magyarország
+
+Mediner Kft. Tel.: +36 52 535 708 info@mediner.hu
 
 ## Italia
 
-InfectoPharm S.r.l. Tel: + 39 02 007066 1
-
-info-ita@infectopharm.com
+InfectoPharm S.r.l. Tel: + 39 02 007066 1 info-ita@infectopharm.com
 
 ## Nederland
 
@@ -1059,15 +1063,11 @@ Laboratório Medinfar - Produtos Farmacêuticos Tel: + 351 214 997 461 medinfar@
 
 ## România
 
-IASIS PHARMACEUTICALS SRL Tel.: +40 720 536008
-
-iasis@iasispharma.ro
+IASIS PHARMACEUTICALS SRL Tel.: +40 720 536008 iasis@iasispharma.ro
 
 ## Slovenská republika
 
-Glenmark Pharmaceuticals SK, s.r.o. Tel: + 421 2 20 255 041
-
-info-sk@glenmarkpharma.com
+Glenmark Pharmaceuticals SK, s.r.o. Tel: + 421 2 20 255 041 info-sk@glenmarkpharma.com
 
 <div style=\"page-break-after: always\"></div>
 

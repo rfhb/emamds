@@ -1,18 +1,18 @@
 ---
-document_datetime: 2025-12-29 13:03:28
+document_datetime: 2026-01-14 15:33:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/abiraterone-accord.html
 document_name: abiraterone-accord.html
 version: success
-processing_time: 0.1352575
-conversion_datetime: 2025-12-30 19:58:30.539752
+processing_time: 0.1469504
+conversion_datetime: 2026-01-17 13:24:43.770965
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.66.0
-  docling-core: 2.57.0
+  docling-serve: 1.10.0
+  docling-jobkit: 1.8.1
+  docling: 2.68.0
+  docling-core: 2.59.0
   docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-parse: 4.7.3
   python: cpython-313 (3.13.11)
   plaform: macOS-26.2-arm64-arm-64bit-Mach-O
 ---
@@ -25,8 +25,6 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 abiraterone Medicine Human Authorised
-
-On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -105,7 +103,7 @@ English (EN) (140.84 KB - PDF)
 
 [View](/en/documents/overview/abiraterone-accord-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-811)
+[Other languages (22)](#file-language-dropdown-105)
 
 български (BG) (161.93 KB - PDF)
 
@@ -301,11 +299,11 @@ English (EN) (772.68 KB - PDF)
 
 **First published:** 05/05/2021
 
-**Last updated:** 06/05/2025
+**Last updated:** 14/01/2026
 
 [View](/en/documents/product-information/abiraterone-accord-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-342)
+[Other languages (24)](#file-language-dropdown-108)
 
 български (BG) (1.09 MB - PDF)
 
@@ -315,7 +313,7 @@ English (EN) (772.68 KB - PDF)
 
 **Last updated:**
 
-06/05/2025
+14/01/2026
 
 [View](/bg/documents/product-information/abiraterone-accord-epar-product-information_bg.pdf)
 
@@ -327,7 +325,7 @@ español (ES) (1.03 MB - PDF)
 
 **Last updated:**
 
-06/05/2025
+14/01/2026
 
 [View](/es/documents/product-information/abiraterone-accord-epar-product-information_es.pdf)
 
@@ -339,7 +337,7 @@ español (ES) (1.03 MB - PDF)
 
 **Last updated:**
 
-06/05/2025
+14/01/2026
 
 [View](/cs/documents/product-information/abiraterone-accord-epar-product-information_cs.pdf)
 
@@ -351,7 +349,7 @@ dansk (DA) (1003.87 KB - PDF)
 
 **Last updated:**
 
-06/05/2025
+14/01/2026
 
 [View](/da/documents/product-information/abiraterone-accord-epar-product-information_da.pdf)
 
@@ -363,7 +361,7 @@ Deutsch (DE) (1013.27 KB - PDF)
 
 **Last updated:**
 
-06/05/2025
+14/01/2026
 
 [View](/de/documents/product-information/abiraterone-accord-epar-product-information_de.pdf)
 
@@ -375,7 +373,7 @@ eesti keel (ET) (901.33 KB - PDF)
 
 **Last updated:**
 
-06/05/2025
+14/01/2026
 
 [View](/et/documents/product-information/abiraterone-accord-epar-product-information_et.pdf)
 
@@ -387,7 +385,7 @@ eesti keel (ET) (901.33 KB - PDF)
 
 **Last updated:**
 
-06/05/2025
+14/01/2026
 
 [View](/el/documents/product-information/abiraterone-accord-epar-product-information_el.pdf)
 
@@ -399,7 +397,7 @@ français (FR) (1.18 MB - PDF)
 
 **Last updated:**
 
-06/05/2025
+14/01/2026
 
 [View](/fr/documents/product-information/abiraterone-accord-epar-product-information_fr.pdf)
 
@@ -411,7 +409,7 @@ hrvatski (HR) (1.03 MB - PDF)
 
 **Last updated:**
 
-06/05/2025
+14/01/2026
 
 [View](/hr/documents/product-information/abiraterone-accord-epar-product-information_hr.pdf)
 
@@ -423,7 +421,7 @@ hrvatski (HR) (1.03 MB - PDF)
 
 **Last updated:**
 
-06/05/2025
+14/01/2026
 
 [View](/is/documents/product-information/abiraterone-accord-epar-product-information_is.pdf)
 
@@ -435,7 +433,7 @@ italiano (IT) (1.14 MB - PDF)
 
 **Last updated:**
 
-06/05/2025
+14/01/2026
 
 [View](/it/documents/product-information/abiraterone-accord-epar-product-information_it.pdf)
 
@@ -447,7 +445,7 @@ latviešu valoda (LV) (1.2 MB - PDF)
 
 **Last updated:**
 
-06/05/2025
+14/01/2026
 
 [View](/lv/documents/product-information/abiraterone-accord-epar-product-information_lv.pdf)
 
@@ -459,7 +457,7 @@ lietuvių kalba (LT) (1.29 MB - PDF)
 
 **Last updated:**
 
-06/05/2025
+14/01/2026
 
 [View](/lt/documents/product-information/abiraterone-accord-epar-product-information_lt.pdf)
 
@@ -471,7 +469,7 @@ magyar (HU) (1.18 MB - PDF)
 
 **Last updated:**
 
-06/05/2025
+14/01/2026
 
 [View](/hu/documents/product-information/abiraterone-accord-epar-product-information_hu.pdf)
 
@@ -483,7 +481,7 @@ Malti (MT) (1.31 MB - PDF)
 
 **Last updated:**
 
-06/05/2025
+14/01/2026
 
 [View](/mt/documents/product-information/abiraterone-accord-epar-product-information_mt.pdf)
 
@@ -495,7 +493,7 @@ Nederlands (NL) (1.03 MB - PDF)
 
 **Last updated:**
 
-06/05/2025
+14/01/2026
 
 [View](/nl/documents/product-information/abiraterone-accord-epar-product-information_nl.pdf)
 
@@ -507,7 +505,7 @@ norsk (NO) (1.01 MB - PDF)
 
 **Last updated:**
 
-06/05/2025
+14/01/2026
 
 [View](/no/documents/product-information/abiraterone-accord-epar-product-information_no.pdf)
 
@@ -519,7 +517,7 @@ polski (PL) (1.13 MB - PDF)
 
 **Last updated:**
 
-06/05/2025
+14/01/2026
 
 [View](/pl/documents/product-information/abiraterone-accord-epar-product-information_pl.pdf)
 
@@ -531,7 +529,7 @@ português (PT) (1.17 MB - PDF)
 
 **Last updated:**
 
-06/05/2025
+14/01/2026
 
 [View](/pt/documents/product-information/abiraterone-accord-epar-product-information_pt.pdf)
 
@@ -543,7 +541,7 @@ română (RO) (1.18 MB - PDF)
 
 **Last updated:**
 
-06/05/2025
+14/01/2026
 
 [View](/ro/documents/product-information/abiraterone-accord-epar-product-information_ro.pdf)
 
@@ -555,7 +553,7 @@ slovenčina (SK) (1.12 MB - PDF)
 
 **Last updated:**
 
-06/05/2025
+14/01/2026
 
 [View](/sk/documents/product-information/abiraterone-accord-epar-product-information_sk.pdf)
 
@@ -567,7 +565,7 @@ slovenščina (SL) (1.41 MB - PDF)
 
 **Last updated:**
 
-06/05/2025
+14/01/2026
 
 [View](/sl/documents/product-information/abiraterone-accord-epar-product-information_sl.pdf)
 
@@ -579,7 +577,7 @@ Suomi (FI) (1.13 MB - PDF)
 
 **Last updated:**
 
-06/05/2025
+14/01/2026
 
 [View](/fi/documents/product-information/abiraterone-accord-epar-product-information_fi.pdf)
 
@@ -591,11 +589,11 @@ svenska (SV) (1016.77 KB - PDF)
 
 **Last updated:**
 
-06/05/2025
+14/01/2026
 
 [View](/sv/documents/product-information/abiraterone-accord-epar-product-information_sv.pdf)
 
-**Latest procedure affecting product information:** VR/0000269200 05/05/2025
+**Latest procedure affecting product information:** R/0000286405 19/12/2025
 
 icon globe
 
@@ -621,7 +619,7 @@ English (EN) (17.65 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/abiraterone-accord-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-850)
+[Other languages (24)](#file-language-dropdown-545)
 
 български (BG) (44.15 KB - PDF)
 
@@ -941,7 +939,7 @@ Accord Healthcare S.L.U.
 
 Edificio Este Planta 6a
 
-Opinion adopted 25/02/2021 Marketing authorisation issued 26/04/2021 Revision 4
+Opinion adopted 25/02/2021 Marketing authorisation issued 26/04/2021 Revision 5
 
 ## Assessment history
 
@@ -953,9 +951,11 @@ Collapse section
 
 Abiraterone Accord : EPAR - Procedural steps taken and scientific information after authorisation
 
-English (EN) (268.31 KB - PDF)
+English (EN) (153.11 KB - PDF)
 
 **First published:** 06/05/2025
+
+**Last updated:** 14/01/2026
 
 [View](/en/documents/procedural-steps-after/abiraterone-accord-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf)
 
@@ -1011,7 +1011,7 @@ English (EN) (450.42 KB - DOCX)
 
 [View](/en/documents/product-information-tracked-changes/abiraterone-accord-epar-product-information-tracked-changes_en.docx)
 
-[Other languages (24)](#file-language-dropdown-830)
+[Other languages (24)](#file-language-dropdown-307)
 
 български (BG) (509.99 KB - DOCX)
 
@@ -1219,7 +1219,7 @@ English (EN) (66.45 KB - PDF)
 
 [View](/en/documents/other/questions-and-answers-generic-medicines_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-573)
+[Other languages (22)](#file-language-dropdown-597)
 
 български (BG) (93.16 KB - PDF)
 
@@ -1485,7 +1485,7 @@ svenska (SV) (67.11 KB - PDF)
 
 [View](/sv/documents/other/questions-and-answers-generic-medicines_sv.pdf)
 
-**This page was last updated on** 06/05/2025
+**This page was last updated on** 14/01/2026
 
 ## Share this page
 

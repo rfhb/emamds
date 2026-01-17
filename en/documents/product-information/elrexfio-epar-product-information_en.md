@@ -1,18 +1,18 @@
 ---
-document_datetime: 2025-09-17 10:11:19
+document_datetime: 2026-01-16 16:06:49
 document_pages: 39
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/elrexfio-epar-product-information_en.pdf
 document_name: elrexfio-epar-product-information_en.pdf
 version: success
-processing_time: 12.5641967
-conversion_datetime: 2025-12-27 15:00:05.475165
+processing_time: 13.2567986
+conversion_datetime: 2026-01-17 12:55:42.196392
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.66.0
-  docling-core: 2.57.0
+  docling-serve: 1.10.0
+  docling-jobkit: 1.8.1
+  docling: 2.68.0
+  docling-core: 2.59.0
   docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-parse: 4.7.3
   python: cpython-313 (3.13.11)
   plaform: macOS-26.2-arm64-arm-64bit-Mach-O
 ---
@@ -86,15 +86,23 @@ Table 1. ELREXFIO dosing schedule
 | Every 2 weeks dosing d,e   | Week 25-48: day 1     | Full treatment dose | 76 mg once every two weeks  |
 | Every 4 weeks dosing d,f,g | Week 49 onward: day 1 | Full treatment dose | 76 mg once every four weeks |
 
+e.
+
+For patients who have achieved a response.
+
+f. For patients who have received at least 24 weeks of treatment at the every two week schedule.
+
+g. For patients who maintained the response.
+
 Note: See Table 5 for recommendations on restarting ELREXFIO after dose delays.
 
 ## Recommended pre-treatment medicinal products
 
 The following pre-treatment medicinal products should be administered approximately 1 hour prior to the first three doses of ELREXFIO, which includes step-up dose 1, step-up dose 2, and the first full treatment dose as described in Table 1 to reduce the risk of CRS (see section 4.4):
 
--  paracetamol 500 mg orally (or equivalent)
--  dexamethasone 20 mg orally or intravenously (or equivalent)
--  diphenhydramine 25 mg orally (or equivalent)
+- paracetamol 500 mg orally (or equivalent)
+- dexamethasone 20 mg orally or intravenously (or equivalent)
+- diphenhydramine 25 mg orally (or equivalent)
 
 Prophylactic antimicrobials and anti-virals should be considered according to local institutional guidelines (see section 4.4).
 
@@ -116,11 +124,11 @@ Table 2. Recommendations for management of CRS
 
 | Grade a                    | Presenting symptoms                                                                                                                                                                                                                                                                           | Actions                                                                                                                                                                                                                                                                                                                                        |
 |----------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Grade 1                    | Temperature ≥ 38 °C b                                                                                                                                                                                                                                                                         |  Withhold treatment until CRS resolves. c  Provide supportive therapy.                                                                                                                                                                                                                                                                       |
-| Grade 2                    | Temperature ≥ 38 °C with either:  Hypotension responsive to fluid and not requiring vasopressors, and/or  Oxygen requirement of low-flow nasal cannula d or blow-by                                                                                                                         |  Withhold treatment until CRS resolves. c  Provide supportive therapy.  Monitor patients daily for 48 hours following the next dose of ELREXFIO. Instruct patients to remain within proximity of a healthcare facility.                                                                                                                     |
-| Grade 3 (First occurrence) | Temperature ≥ 38 °C with either:  Hypotension requiring one vasopressor with or without vasopressin, and/or  Oxygen requirement of high-flow nasal cannula d , facemask, non-rebreather mask, or Venturi mask                                                                               |  Withhold treatment until CRS resolves. c  Provide supportive therapy, which may include intensive care.  Administer pre-treatment medicinal products prior to the next dose of ELREXFIO.  Monitor patients daily for 48 hours following the next dose of ELREXFIO. Instruct patients to remain within proximity of a healthcare facility. |
-| Grade 3 (Recurrent)        | Temperature ≥ 38 °C with either:  Hypotension requiring one vasopressor with or without vasopressin, and/or  Oxygen requirement of high-flow nasal cannula d , facemask, non-rebreather mask, or Venturi mask                                                                               |  Permanently discontinue therapy.  Provide supportive therapy, which may include intensive care.                                                                                                                                                                                                                                             |
-| Grade 4                    | Temperature ≥ 38 °C with either:  Hypotension requiring multiple vasopressors (excluding vasopressin), and/or  Oxygen requirement of positive pressure (e.g., continuous positive airway pressure [CPAP], bilevel positive airway pressure [BiPAP], intubation, and mechanical ventilation) |  Permanently discontinue therapy.  Provide supportive therapy, which may include intensive care.                                                                                                                                                                                                                                             |
+| Grade 1                    | Temperature ≥ 38 °C b                                                                                                                                                                                                                                                                         | • Withhold treatment until CRS resolves. c • Provide supportive therapy.                                                                                                                                                                                                                                                                       |
+| Grade 2                    | Temperature ≥ 38 °C with either: • Hypotension responsive to fluid and not requiring vasopressors, and/or • Oxygen requirement of low-flow nasal cannula d or blow-by                                                                                                                         | • Withhold treatment until CRS resolves. c • Provide supportive therapy. • Monitor patients daily for 48 hours following the next dose of ELREXFIO. Instruct patients to remain within proximity of a healthcare facility.                                                                                                                     |
+| Grade 3 (First occurrence) | Temperature ≥ 38 °C with either: • Hypotension requiring one vasopressor with or without vasopressin, and/or • Oxygen requirement of high-flow nasal cannula d , facemask, non-rebreather mask, or Venturi mask                                                                               | • Withhold treatment until CRS resolves. c • Provide supportive therapy, which may include intensive care. • Administer pre-treatment medicinal products prior to the next dose of ELREXFIO. • Monitor patients daily for 48 hours following the next dose of ELREXFIO. Instruct patients to remain within proximity of a healthcare facility. |
+| Grade 3 (Recurrent)        | Temperature ≥ 38 °C with either: • Hypotension requiring one vasopressor with or without vasopressin, and/or • Oxygen requirement of high-flow nasal cannula d , facemask, non-rebreather mask, or Venturi mask                                                                               | • Permanently discontinue therapy. • Provide supportive therapy, which may include intensive care.                                                                                                                                                                                                                                             |
+| Grade 4                    | Temperature ≥ 38 °C with either: • Hypotension requiring multiple vasopressors (excluding vasopressin), and/or • Oxygen requirement of positive pressure (e.g., continuous positive airway pressure [CPAP], bilevel positive airway pressure [BiPAP], intubation, and mechanical ventilation) | • Permanently discontinue therapy. • Provide supportive therapy, which may include intensive care.                                                                                                                                                                                                                                             |
 
 a. Based on American society for transplantation and cellular therapy (ASTCT) 2019 grading for CRS.
 
@@ -128,7 +136,7 @@ b. Attributed to CRS. Fever may not always be present concurrently with hypotens
 
 c. See Table 5 for recommendations on restarting ELREXFIO after dose delays.
 
-d. Low-flow nasal cannula is ≤ 6 L/min, and high-flow nasal cannula is &gt; 6 L/min.
+d. Lowflow nasal cannula is ≤ 6 L/min, and high-flow nasal cannula is &gt; 6 L/min.
 
 <div style=\"page-break-after: always\"></div>
 
@@ -138,17 +146,17 @@ Other causes of neurologic symptoms should be ruled out. Patients should be imme
 
 Table 3. Recommendations for management of ICANS
 
-| Grade a                    | Presenting symptoms b                                                                                                                                                                                                                                                                                                                                   | Actions                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    |
-|----------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Grade 1                    | ICE score 7-9 c Or depressed level of consciousness d : awakens spontaneously.                                                                                                                                                                                                                                                                          |  Withhold treatment until ICANS resolves. e  Monitor neurologic symptoms and consider consultation with a neurologist for further evaluation and management.  Consider non-sedating, anti-seizure medicinal products (e.g., levetiracetam) for seizure prophylaxis.                                                                                                                                                                                                                                                                                                                                                                                     |
-| Grade 2                    | ICE score 3-6 c Or depressed level of consciousness d : awakens to voice.                                                                                                                                                                                                                                                                               |  Withhold treatment until ICANS resolves. e  Administer dexamethasone f 10 mg intravenously every 6 hours. Continue dexamethasone use until resolution to Grade 1 or less, then taper.  Monitor neurologic symptoms and consider consultation with a neurologist and other specialists for further evaluation and management.  Consider non-sedating, anti-seizure medicinal products (e.g., levetiracetam) for seizure prophylaxis.  Monitor patients daily for 48 hours following the next dose of ELREXFIO. Instruct patients to remain within proximity of a healthcare facility.                                                                 |
-| Grade 3 (First occurrence) | ICE score 0-2 c or depressed level of consciousness d : awakens only to tactile stimulus, or seizures d , either:  any clinical seizure, focal or generalised, that resolves rapidly, or  non-convulsive seizures on electroencephalogram (EEG) that resolve with intervention, or raised intracranial pressure: focal/local oedema on neuroimaging d |  Withhold treatment until ICANS resolves. e  Administer dexamethasone f 10 mg intravenously every 6 hours. Continue dexamethasone use until resolution to Grade 1 or less, then taper.  Monitor neurologic symptoms and consider consultation with a neurologist and other specialists for further evaluation and management.  Consider non-sedating, anti-seizure medicinal products (e.g., levetiracetam) for seizure prophylaxis.  Provide supportive therapy, which may include intensive care.  Monitor patients daily for 48 hours following the next dose of ELREXFIO. Instruct patients to remain within proximity of a healthcare facility. |
+| Grade a                    | Presenting symptoms b                                                                                                                                                                                                                                                                                                                                   | Actions                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         |
+|----------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Grade 1                    | ICE score 7-9 c Or depressed level of consciousness d : awakens spontaneously.                                                                                                                                                                                                                                                                          | • Withhold treatment until ICANS resolves. e • Monitor neurologic symptoms and consider consultation with a neurologist for further evaluation and management. • Consider non-sedating, anti-seizure medicinal products (e.g., levetiracetam) for seizure prophylaxis.                                                                                                                                                                                                                                                                                                                                                                                                          |
+| Grade 2                    | ICE score 3-6 c Or depressed level of consciousness d : awakens to voice.                                                                                                                                                                                                                                                                               | • Withhold treatment until ICANS resolves. e • Administer dexamethasone f 10 mg intravenously every 6 hours. Continue dexamethasone use until resolution to Grade 1 or less, then taper. • Monitor neurologic symptoms and consider consultation with a neurologist and other specialists for further evaluation and management. • Consider non-sedating, anti-seizure medicinal products (e.g., levetiracetam) for seizure prophylaxis. • Monitor patients daily for 48 hours following the next dose of ELREXFIO. Instruct patients to remain within proximity of a                                                                                                           |
+| Grade 3 (First occurrence) | ICE score 0-2 c or depressed level of consciousness d : awakens only to tactile stimulus, or seizures d , either: • any clinical seizure, focal or generalised, that resolves rapidly, or • non-convulsive seizures on electroencephalogram (EEG) that resolve with intervention, or raised intracranial pressure: focal/local oedema on neuroimaging d | healthcare facility. • Withhold treatment until ICANS resolves. e • Administer dexamethasone f 10 mg intravenously every 6 hours. Continue dexamethasone use until resolution to Grade 1 or less, then taper. • Monitor neurologic symptoms and consider consultation with a neurologist and other specialists for further evaluation and management. • Consider non-sedating, anti-seizure medicinal products (e.g., levetiracetam) for seizure prophylaxis. • Provide supportive therapy, which may include intensive care. • Monitor patients daily for 48 hours following the next dose of ELREXFIO. Instruct patients to remain within proximity of a healthcare facility. |
 
 <div style=\"page-break-after: always\"></div>
 
-| Grade 3 (Recurrent)   | ICE score 0-2 c or depressed level of consciousness d : awakens only to tactile stimulus, or seizures d , either:  any clinical seizure, focal or generalised, that resolves rapidly, or  non-convulsive seizures on electroencephalogram (EEG) that resolve with intervention, or raised intracranial pressure: focal/local oedema on neuroimaging d                                                                                                                                                                                                                                                                                                                        |  Permanently discontinue treatment.  Administer dexamethasone f 10 mg intravenously every 6 hours. Continue dexamethasone use until resolution to Grade 1 or less, then taper.  Monitor neurologic symptoms and consider consultation with a neurologist and other specialists for further evaluation and management.  Consider non-sedating, anti-seizure medicinal products (e.g., levetiracetam) for seizure prophylaxis.  Provide supportive therapy, which may include intensive care.                                                                                                           |
+| Grade 3 (Recurrent)   | ICE score 0-2 c or depressed level of consciousness d : awakens only to tactile stimulus, or seizures d , either: • any clinical seizure, focal or generalised, that resolves rapidly, or • non-convulsive seizures on electroencephalogram (EEG) that resolve with intervention, or raised intracranial pressure: focal/local oedema on neuroimaging d                                                                                                                                                                                                                                                                                                                        | • Permanently discontinue treatment. • Administer dexamethasone f 10 mg intravenously every 6 hours. Continue dexamethasone use until resolution to Grade 1 or less, then taper. • Monitor neurologic symptoms and consider consultation with a neurologist and other specialists for further evaluation and management. • Consider non-sedating, anti-seizure medicinal products (e.g., levetiracetam) for seizure prophylaxis. • Provide supportive therapy, which may include intensive care.                                                                                                           |
 |-----------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Grade 4               | ICE score 0 c Or, depressed level of consciousness d either:  patient is unarousable or requires vigorous or repetitive tactile stimuli to arouse, or  stupor or coma, or seizures d , either:  life-threatening prolonged seizure (>5 minutes), or  repetitive clinical or electrical seizures without return to baseline in between, or motor findings d :  deep focal motor weakness such as hemiparesis or paraparesis, or raised intracranial pressure / cerebral oedema d , with signs/symptoms such as:  diffuse cerebral oedema on neuroimaging, or  decerebrate or decorticate posturing, or  cranial nerve VI palsy, or  papilloedema, or  Cushing's triad |  Permanently discontinue treatment.  Administer dexamethasone f 10 mg intravenously every 6 hours. Continue dexamethasone use until resolution to Grade 1 or less, then taper.  Alternatively, consider administration of methylprednisolone 1 000 mg per day intravenously for 3 days.  Monitor neurologic symptoms and consider consultation with a neurologist and other specialists for further evaluation and management.  Consider non-sedating, anti-seizure medicinal products (e.g., levetiracetam) for seizure prophylaxis.  Provide supportive therapy, which may include intensive care. |
+| Grade 4               | ICE score 0 c Or, depressed level of consciousness d either: • patient is unarousable or requires vigorous or repetitive tactile stimuli to arouse, or • stupor or coma, or seizures d , either: • life-threatening prolonged seizure (>5 minutes), or • repetitive clinical or electrical seizures without return to baseline in between, or motor findings d : • deep focal motor weakness such as hemiparesis or paraparesis, or raised intracranial pressure / cerebral oedema d , with signs/symptoms such as: • diffuse cerebral oedema on neuroimaging, or • decerebrate or decorticate posturing, or • cranial nerve VI palsy, or • papilloedema, or • Cushing's triad | • Permanently discontinue treatment. • Administer dexamethasone f 10 mg intravenously every 6 hours. Continue dexamethasone use until resolution to Grade 1 or less, then taper. • Alternatively, consider administration of methylprednisolone 1 000 mg per day intravenously for 3 days. • Monitor neurologic symptoms and consider consultation with a neurologist and other specialists for further evaluation and management. • Consider non-sedating, anti-seizure medicinal products (e.g., levetiracetam) for seizure prophylaxis. • Provide supportive therapy, which may include intensive care. |
 
 Abbreviations: Immune effector cell-associated encephalopathy (ICE).
 
@@ -156,9 +164,7 @@ a. Based on American society for transplantation and cellular therapy (ASTCT) 20
 
 b. Management is determined by the most severe event, not attributable to any other cause.
 
-c.
-
-- If patient is arousable and able to perform ICE assessment, assess: Orientation (oriented to year, month, city, hospital=4 points); Naming (name 3 objects, e.g., point to clock, pen, button=3 points); Following commands (e.g., 'show me 2 fingers' or 'close your eyes and stick out your tongue'=1 point); Writing (ability to write a standard sentence=1 point); and Attention (count backwards from 100 by ten=1 point). If patient is unarousable and unable to perform ICE assessment (Grade 4 ICANS)=0 points.
+- c. If patient is arousable and able to perform ICE assessment, assess: Orientation (oriented to year, month, city, hospital=4 points); Naming (name 3 objects, e.g., point to clock, pen, button=3 points); Following c ommands (e.g., 'show me 2 fingers' or 'close your eyes and stick out your tongue'=1 point); Writing (ability to write a standard sentence=1 point); and Attention (count backwards from 100 by ten=1 point). If patient is unarousable and unable to perform ICE assessment (Grade 4 ICANS)=0 points.
 
 d. Not attributable to any other cause.
 
@@ -172,11 +178,11 @@ Table 4. Recommended actions for other adverse reactions
 
 | Adverse reactions                                             | Severity                                                                                           | Actions                                                                                                                     |
 |---------------------------------------------------------------|----------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------|
-| Haematologic adverse reactions (see section 4.8)              | Absolute neutrophil count less than 0.5 × 10 9 /L                                                  |  Withhold treatment until absolute neutrophil count is 0.5 × 10 9 /L or higher. b                                          |
-| Haematologic adverse reactions (see section 4.8)              | Febrile neutropenia                                                                                |  Withhold treatment until absolute neutrophil count is 1 × 10 9 /L or higher and fever resolves. b                         |
-| Haematologic adverse reactions (see section 4.8)              | Haemoglobin less than 8 g/dL                                                                       |  Withhold treatment until haemoglobin is 8 g/dL or higher. b                                                               |
-| Haematologic adverse reactions (see section 4.8)              | Platelet count less than 25 000/mcL Platelet count between 25 000/mcL and 50 000/mcL with bleeding |  Withhold treatment until platelet count is 25 000/mcL or higher and no evidence of bleeding. b                            |
-| Other* non-haematologic adverse reactions a (see section 4.8) | Grade 3 or 4                                                                                       |  Withhold treatment until recovery to Grade 1 or less or baseline. b  Permanently discontinue if recovery does not occur. |
+| Haematologic adverse reactions (see section 4.8)              | Absolute neutrophil count less than 0.5 × 10 9 /L                                                  | • Withhold treatment until absolute neutrophil count is 0.5 × 10 9 /L or higher. b                                          |
+| Haematologic adverse reactions (see section 4.8)              | Febrile neutropenia                                                                                | • Withhold treatment until absolute neutrophil count is 1 × 10 9 /L or higher and fever resolves. b                         |
+| Haematologic adverse reactions (see section 4.8)              | Haemoglobin less than 8 g/dL                                                                       | • Withhold treatment until haemoglobin is 8 g/dL or higher. b                                                               |
+| Haematologic adverse reactions (see section 4.8)              | Platelet count less than 25 000/mcL Platelet count between 25 000/mcL and 50 000/mcL with bleeding | • Withhold treatment until platelet count is 25 000/mcL or higher and no evidence of bleeding. b                            |
+| Other* non-haematologic adverse reactions a (see section 4.8) | Grade 3 or 4                                                                                       | • Withhold treatment until recovery to Grade 1 or less or baseline. b • Permanently discontinue if recovery does not occur. |
 
 a. Based on National cancer institute common terminology criteria for adverse events (NCI-CTCAE), Version 5.0.
 
@@ -199,7 +205,7 @@ Table 5. Recommendations for restarting therapy with ELREXFIO after dose delay
 | Step-up dose 2 (32 mg)          | 2 weeks or less (≤ 14 days)                                                   | Restart at 76 mg. a                                                                                        |
 | Step-up dose 2 (32 mg)          | Greater than 2 weeks to less than or equal to 4 weeks (15 days and ≤ 28 days) | Restart at step-up dose 2 (32 mg). a If tolerated, increase to 76 mg 1 week later.                         |
 | Step-up dose 2 (32 mg)          | Greater than 4 weeks (> 28 days)                                              | Restart step-up dosing schedule at step-up dose 1 (12 mg). a                                               |
-| Any full treatment dose (76 mg) | 12 weeks or less (≤ 84 days)                                                  | Restart at 76 mg.                                                                                          |
+| Any full treatment dose (76 mg) | 12 weeks or less ( ≤ 84 days)                                                 | Restart at 76 mg.                                                                                          |
 | Any full treatment dose (76 mg) | Greater than 12 weeks (> 84 days)                                             | Restart step-up dosing schedule at step-up dose 1 (12 mg). a If tolerated, increase to 76 mg 1 week later. |
 
 a. Administer pre-treatment medicinal products prior to the ELREXFIO dose.
@@ -216,7 +222,7 @@ If a dose is missed, the dose should be administered as soon as possible, and th
 
 ## Elderly
 
-No dose adjustment is necessary (see sections 5.1 and 5.2).
+No dose adjustment is necessary (see sections 5.1 and 5.2).
 
 ## Renal impairment
 
@@ -276,7 +282,7 @@ Due to the potential for ICANS, patients should be advised not to drive or opera
 
 ## Infections
 
-Severe, life-threatening, or fatal infections have been reported in patients receiving ELREXFIO (see section 4.8). New or reactivated viral infections occurred during therapy with ELREXFIO, including cytomegalovirus infection/reactivation. Progressive multifocal leukoencephalopathy (PML) has also occurred during therapy with ELREXFIO.
+Severe, life-threatening, or fatal infections have been reported in patients receiving ELREXFIO (see section 4.8). New or reactivated viral infections occurred during therapy with ELREXFIO, including cytomegalovirus infection/reactivation. Progressive multifocal leukoencephalopathy (PML), which can be fatal, has also occurred during therapy with ELREXFIO.
 
 Treatment should not be initiated in patients with active infections. Patients should be monitored for signs and symptoms of infection prior to and during treatment with ELREXFIO and treated appropriately. ELREXFIO should be withheld based on the severity of the infection as indicated in Table 4 for other non-haematologic adverse reactions (see section 4.2).
 
@@ -300,7 +306,7 @@ The safety of immunisation with live viral vaccines during or following treatmen
 
 ## Excipients
 
-This medicinal product contains less than 1 mmol (23 mg) sodium per dose, that is to say essentially 'sodium-free.'
+This medicinal product contains less than 1 mmol (23 mg) sodium per dose, that is to say essentially 'sodium -free.'
 
 ## 4.5 Interaction with other medicinal products and other forms of interaction
 
@@ -342,66 +348,67 @@ Due to the potential for ICANS, patients receiving ELREXFIO are at risk of depre
 
 ## Summary of the safety profile
 
-The most frequent adverse reactions are CRS (57.9%), anaemia (54.1%), neutropenia (45.9%), fatigue (44.8%), upper respiratory tract infection (42.6%), injection site reaction (38.3%), diarrhoea (41.5%), pneumonia (38.3%), thrombocytopenia (36.1%), lymphopenia (30.1%), decreased appetite (27.3%),
+The most frequent adverse reactions are CRS (57.9%), anaemia (54.1%), neutropenia (45.9%), fatigue (44.8%), upper respiratory tract infection (43.2%), injection site reaction (38.3%), diarrhoea (42.1%), pneumonia (38.3%), thrombocytopenia (36.6%), lymphopenia (30.1%), decreased appetite (27.3%),
 
 <div style=\"page-break-after: always\"></div>
 
-pyrexia (28.4%), rash (27.9%), arthralgia (25.7%), hypokalaemia (23.5%), nausea (21.9%), dry skin (21.9%) and dyspnoea (20.8%).
+pyrexia (29.0%), rash (27.9%), arthralgia (26.8%), hypokalaemia (23.5%), nausea (21.9%), dry skin (21.9%) and dyspnoea (20.8%).
 
-Serious adverse reactions are pneumonia (31.7%), sepsis (15.8%), CRS (12.6%), anaemia (5.5%), upper respiratory tract infection (5.5%), urinary tract infection (3.8%), febrile neutropenia (2.7%), diarrhoea (2.7%), dyspnoea (2.2%) and pyrexia (2.2%).
+Serious adverse reactions are pneumonia (31.7%), sepsis (15.8%), CRS (12.6%), anaemia (5.5%), upper respiratory tract infection (5.5%), urinary tract infection (3.8%), febrile neutropenia (3.3%), diarrhoea (2.7%), dyspnoea (2.7%) and pyrexia (2.2%).
 
 ## Tabulated list of adverse reactions
 
-Table 6 summarises adverse reactions reported in patients who received ELREXFIO at the recommended dosing regimen (N=183 including 64 patients with prior BCMA-directed antibody drug conjugate [ADC] or chimeric antigen receptor [CAR] T cell therapy [supportive Cohort B]). The median duration of treatment was 4.1 (range: 0.03 to 20.3) months. The safety data of ELREXFIO was also evaluated in the all-treated population (N=265) with no additional adverse reactions identified.
+Table 6 summarises adverse reactions reported in patients who received ELREXFIO at the recommended dosing regimen (N=183 including 64 patients with prior BCMA-directed antibody drug conjugate [ADC] or chimeric antigen receptor [CAR] T cell therapy [supportive Cohort B]). The median duration of treatment was 4.1 (range: 0.03 to 35.9) months. The safety data of ELREXFIO was also evaluated in the all-treated population (N=265) with no additional adverse reactions identified.
 
 Adverse reactions are listed according to the MedDRA system organ classification and by frequency. Frequency categories are defined as very common (≥ 1/10), common (≥ 1/100 to &lt; 1/10), uncommon (≥ 1/1 000 to &lt; 1/100), rare (≥ 1/10 000 to &lt; 1/1 000), very rare (&lt; 1/10 000) and not known (frequency cannot be estimated from the available data). Within each frequency grouping, where relevant, adverse reactions are presented in order of decreasing seriousness.
 
 Table 6. Adverse reactions in multiple myeloma patients treated with ELREXFIO in MagnetisMM-3 at the recommended dose
 
-| System organ class                              | Adverse reaction                                               | Frequency (All grades)   | N=183         | N=183            |
-|-------------------------------------------------|----------------------------------------------------------------|--------------------------|---------------|------------------|
-| System organ class                              | Adverse reaction                                               | Frequency (All grades)   | Any grade (%) | Grade 3 or 4 (%) |
-| Infections and infestations                     | Pneumonia a                                                    | Very common              | 38.3          | 25.7             |
-| Infections and infestations                     | Sepsis b                                                       | Very common              | 18.6          | 13.1             |
-| Infections and infestations                     | Upper respiratory tract infection                              | Very common              | 42.6          | 6.0              |
-| Infections and infestations                     | Urinary tract infection                                        | Very common              | 13.7          | 6.0              |
-| Infections and infestations                     | Cytomegalovirus infection c                                    | Common                   | 9.3           | 2.2              |
-| Blood and lymphatic system disorders            | Neutropenia                                                    | Very common              | 45.9          | 44.3             |
-| Blood and lymphatic system disorders            | Anaemia                                                        | Very common              | 54.1          | 42.6             |
-| Blood and lymphatic system disorders            | Thrombocytopenia                                               | Very common              | 36.1          | 26.2             |
-| Blood and lymphatic system disorders            | Lymphopenia                                                    | Very common              | 30.1          | 27.9             |
-| Blood and lymphatic system disorders            | Leucopenia                                                     | Very common              | 18.6          | 13.1             |
-| Blood and lymphatic system disorders            | Febrile neutropenia                                            | Common                   | 2.7           | 2.7              |
-| Immune system disorders                         | Cytokine release syndrome                                      | Very common              | 57.9          | 0.5              |
-| Immune system disorders                         | Hypogammaglobulinaemi a                                        | Very common              | 16.4          | 2.7              |
-| Metabolism and nutrition disorders              | Decreased appetite                                             | Very common              | 27.3          | 1.1              |
-| Metabolism and nutrition disorders              | Hypokalaemia                                                   | Very common              | 23.5          | 9.3              |
-| Metabolism and nutrition disorders              | Hypophosphataemia                                              | Common                   | 6.6           | 0.5              |
-| Nervous system disorders                        | Peripheral neuropathy d                                        | Very common              | 16.9          | 1.1              |
-| Nervous system disorders                        | Headache                                                       | Very common              | 19.7          | 0                |
-| Nervous system disorders                        | Immune effector cell-associated neurotoxicity syndrome (ICANS) | Common                   | 3.3           | 1.1              |
-| Respiratory, thoracic and mediastinal disorders | Dyspnoea                                                       | Very common              | 20.8          | 4.9              |
-| Gastrointestinal disorders                      | Diarrhoea                                                      | Very common              | 41.5          | 2.7              |
-| Gastrointestinal disorders                      | Nausea                                                         | Very common              | 21.9          | 0                |
+| System organ class                   | Adverse reaction                                                | Frequency (All grades)   | N=183         | N=183            |
+|--------------------------------------|-----------------------------------------------------------------|--------------------------|---------------|------------------|
+| System organ class                   | Adverse reaction                                                | Frequency (All grades)   | Any grade (%) | Grade 3 or 4 (%) |
+| Infections and infestations          | Pneumonia a                                                     | Very common              | 38.3          | 25.7             |
+| Infections and infestations          | Sepsis b                                                        | Very common              | 18.6          | 13.1             |
+| Infections and infestations          | Upper respiratory tract infection                               | Very common              | 43.2          | 6.0              |
+| Infections and infestations          | Urinary tract infection                                         | Very common              | 13.7          | 6.0              |
+| Infections and infestations          | Cytomegalovirus infection c                                     | Common                   | 9.3           | 2.2              |
+| Infections and infestations          | Progressive multifocal leukoencephalopathy                      | Uncommon                 | 0.5 *         | 0                |
+| Blood and lymphatic system disorders | Neutropenia                                                     | Very common              | 45.9          | 44.3             |
+| Blood and lymphatic system disorders | Anaemia                                                         | Very common              | 54.1          | 42.6             |
+| Blood and lymphatic system disorders | Thrombocytopenia                                                | Very common              | 36.6          | 26.2             |
+| Blood and lymphatic system disorders | Lymphopenia                                                     | Very common              | 30.1          | 27.9             |
+| Blood and lymphatic system disorders | Leukopenia                                                      | Very common              | 18.6          | 13.1             |
+| Blood and lymphatic system disorders | Febrile neutropenia                                             | Common                   | 3.3           | 3.3              |
+| Immune system disorders              | Cytokine release syndrome                                       | Very common              | 57.9          | 0.5              |
+| Immune system disorders              | Hypogammaglobulinaemi a                                         | Very common              | 16.9          | 2.7              |
+| Metabolism and nutrition disorders   | Decreased appetite                                              | Very common              | 27.3          | 1.1              |
+| Metabolism and nutrition disorders   | Hypokalaemia                                                    | Very common              | 23.5          | 9.3              |
+| Metabolism and nutrition disorders   | Hypophosphataemia                                               | Common                   | 6.6           | 0.5              |
+| Nervous system disorders             | Peripheral neuropathy d                                         | Very common              | 17.5          | 1.1              |
+| Nervous system disorders             | Headache                                                        | Very common              | 19.7          | 0                |
+| Nervous system disorders             | Immune effector cell- associated neurotoxicity syndrome (ICANS) | Common                   | 3.3           | 1.1              |
 
 <div style=\"page-break-after: always\"></div>
 
 Table 6. Adverse reactions in multiple myeloma patients treated with ELREXFIO in MagnetisMM-3 at the recommended dose
 
-| Skin and subcutaneous tissue disorders               | Rash e                  | Very common   |   27.9 |   0 |
-|------------------------------------------------------|-------------------------|---------------|--------|-----|
-|                                                      | Dry skin                | Very common   |   21.9 | 0   |
-| Musculoskeletal and connective tissue disorders      | Arthralgia              | Very common   |   25.7 | 1.6 |
-| General disorders and administration site conditions | Injection site reaction | Very common   |   38.3 | 0   |
-|                                                      | Pyrexia                 | Very common   |   28.4 | 3.3 |
-|                                                      | Fatigue                 | Very common   |   44.8 | 6   |
-| Investigations                                       | Transaminases increased | Very common   |   16.9 | 5.5 |
+| Respiratory, thoracic and mediastinal disorders      | Dyspnoea                | Very common   |   20.8 |   4.9 |
+|------------------------------------------------------|-------------------------|---------------|--------|-------|
+| Gastrointestinal disorders                           | Diarrhoea               | Very common   |   42.1 |   2.7 |
+| Gastrointestinal disorders                           | Nausea                  | Very common   |   21.9 |   0   |
+| Skin and subcutaneous tissue disorders               | Rash e                  | Very common   |   27.9 |   0   |
+| Skin and subcutaneous tissue disorders               | Dry skin                | Very common   |   21.9 |   0   |
+| Musculoskeletal and connective tissue disorders      | Arthralgia              | Very common   |   26.8 |   1.6 |
+| General disorders and administration site conditions | Injection site reaction | Very common   |   38.3 |   0   |
+| General disorders and administration site conditions | Pyrexia                 | Very common   |   29   |   3.3 |
+| General disorders and administration site conditions | Fatigue                 | Very common   |   44.8 |   6   |
+| Investigations                                       | Transaminases increased | Very common   |   17.5 |   5.5 |
 
-- a. Pneumonia includes pneumonia, COVID-19 pneumonia, bronchopulmonary aspergillosis, lower respiratory tract infection, lower respiratory tract infection bacterial, lower respiratory tract infection fungal, pneumocystis jirovecii pneumonia, pneumonia adenoviral, pneumonia bacterial, pneumonia cytomegaloviral, pneumonia fungal, pneumonia influenzal, pneumonia pseudomonal, pneumonia viral, atypical pneumonia, coronavirus pneumonia, pneumonia haemophilus, pneumonia pneumococcal, pneumonia respiratory syncytial viral, pneumonia aspiration.
-- b. Sepsis includes sepsis, bacteraemia, device related bacteraemia, device related sepsis, escherichia bacteraemia, escherichia sepsis, klebsiella sepsis, pseudomonal sepsis, septic shock, staphylococcal bacteraemia, staphylococcal sepsis, streptococcal sepsis, urosepsis, campylobacter bacteraemia.
-- c. Cytomegalovirus infection includes cytomegalovirus infection reactivation, cytomegalovirus infection, cytomegalovirus chorioretinitis, cytomegalovirus gastroenteritis, cytomegalovirus viraemia.
-- d. Peripheral neuropathy includes peripheral sensory neuropathy, paraesthesia, peripheral sensorimotor neuropathy, dysaesthesia, neuropathy peripheral, peripheral motor neuropathy, Guillain-Barre syndrome, hypoaesthesia, neuralgia, polyneuropathy.
-- e. Rash incudes dermatitis exfoliative, dermatitis exfoliative generalised, erythema, palmar-plantar erythrodysaesthesia syndrome, rash, rash erythematous, rash macular, rash maculo-papular, rash pustular, symmetrical drug-related intertriginous and flexural exanthema, epidermolysis.
+- a. Pneumonia includes atypical pneumonia, bronchopulmonary aspergillosis, coronavirus pneumonia, COVID-19 pneumonia, lower respiratory tract infection, lower respiratory tract infection bacterial, lower respiratory tract infection fungal, pneumocystis jirovecii pneumonia, pneumonia, pneumonia adenoviral, pneumonia aspiration, pneumonia bacterial, pneumonia cytomegaloviral, pneumonia fungal, pneumonia haemophilus, pneumonia influenzal, pneumonia pneumococcal, pneumonia pseudomonal, pneumonia respiratory syncytial viral, pneumonia viral.
+- b. Sepsis includes bacteraemia, campylobacter bacteraemia, device related bacteraemia, device related sepsis, escherichia bacteraemia, escherichia sepsis, klebsiella sepsis, pseudomonal sepsis, sepsis, septic shock, staphylococcal bacteraemia, staphylococcal sepsis, streptococcal sepsis, urosepsis.
+- c. Cytomegalovirus infection includes cytomegalovirus chorioretinitis, cytomegalovirus gastroenteritis, cytomegalovirus infection, cytomegalovirus infection reactivation, cytomegalovirus viraemia.
+- d. Peripheral neuropathy includes dysaesthesia, Guillain-Barre syndrome, hypoaesthesia, neuralgia, neuropathy peripheral, paraesthesia, peripheral motor neuropathy, peripheral sensorimotor neuropathy, peripheral sensory neuropathy, polyneuropathy.
+- e. Rash incudes dermatitis exfoliative, dermatitis exfoliative generalised, epidermolysis, erythema, palmar-plantar erythrodysaesthesia syndrome, rash, rash erythematous, rash macular, rash maculo-papular, rash pustular, symmetrical drug-related intertriginous and flexural exanthema.
 
 ## Description of selected adverse reactions
 
@@ -409,21 +416,21 @@ Table 6. Adverse reactions in multiple myeloma patients treated with ELREXFIO in
 
 CRS occurred in 57.9% of patients who received ELREXFIO at the recommended dosing schedule, with Grade 1 CRS in 43.7%, Grade 2 in 13.7% and Grade 3 in 0.5% of patients. Most patients experienced CRS after the first step-up dose (43.2%) or the second step-up dose (19.1%), with 7.1% of patients having CRS after the first full treatment dose and 1.6% of patients after a subsequent dose. Recurrent CRS occurred in 13.1% of patients. The median time to onset of CRS was 2 (range: 1 to 9) days after the most recent dose, with a median duration of 2 (range: 1 to 19 days) days.
 
-Among patients who developed CRS, associated symptoms included fever (99.0%), hypotension (21.0%), and hypoxia (11.4%) and 34% received tocilizumab (or siltuximab) and 15.1% received corticosteroids for treatment of CRS.
+Among patients who developed CRS, associated symptoms included fever (98.1%), hypotension (20.8%), and hypoxia (11.3%) and 34.0% received tocilizumab (or siltuximab) and 15.1% received corticosteroids for treatment of CRS.
 
 ## Immune effector cell-associated neurotoxicity syndrome (ICANS)
 
 ICANS occurred in 3.3% of patients following treatment with ELREXFIO at the recommended dosing schedule, with Grade 1 ICANS in 0.5%, Grade 2 in 1.6% and Grade 3 in 1.1% of patients. The majority of patients had ICANS after the first step-up dose (2.7%), 1 (0.5%) patient had ICANS after the second step-up dose and 1 (0.5%) patient had ICANS after a subsequent dose. Recurrent ICANS occurred in 1.1% of patients. The median time to onset was 3 (range: 1 to 4) days after the most recent dose with a median duration of 2 (range: 1 to 18) days.
 
-The onset of ICANS can be concurrent with CRS, following resolution of CRS, or in the absence of CRS. The most frequent symptoms of ICANS included a depressed level of consciousness and Grade 1 or Grade 2 Immune Effector Cell-Associated Encephalopathy (ICE) scores (see Table 3). Among patients who developed ICANS, 66.7% received corticosteroids, 33.3% received tocilizumab (or siltuximab), 33.3% received levetiracetam and 16.7% received anakinra for treatment of ICANS.
-
-## Reporting of suspected adverse reactions
-
-Reporting suspected adverse reactions after authorisation of the medicinal product is important. It allows continued monitoring of the benefit/risk balance of the medicinal product. Healthcare
+The onset of ICANS can be concurrent with CRS, following resolution of CRS, or in the absence of CRS. The most frequent symptoms of ICANS included a depressed level of consciousness and Grade 1 or Grade 2 Immune Effector Cell-Associated Encephalopathy (ICE) scores (see Table 3).
 
 <div style=\"page-break-after: always\"></div>
 
-professionals are asked to report any suspected adverse reactions via the national reporting system listed in Appendix V.
+Among patients who developed ICANS, 66.7% received corticosteroids, 33.3% received tocilizumab (or siltuximab), 33.3% received levetiracetam and 16.7% received anakinra for treatment of ICANS.
+
+## Reporting of suspected adverse reactions
+
+Reporting suspected adverse reactions after authorisation of the medicinal product is important. It allows continued monitoring of the benefit/risk balance of the medicinal product. Healthcare professionals are asked to report any suspected adverse reactions via the national reporting system listed in Appendix V.
 
 ## 4.9 Overdose
 
@@ -455,47 +462,54 @@ During treatment with elranatamab at the recommended dose in the MagnetisMM-3 st
 
 ## Relapsed or refractory multiple myeloma
 
-The efficacy of ELREXFIO monotherapy was evaluated in patients with relapsed or refractory multiple myeloma in an open-label, non-randomised, multi-centre, Phase 2 study (MagnetisMM-3). The study included patients who were refractory to at least one proteasome inhibitor (PI), one immunomodulatory agent (IMiD) and one anti-CD38 monoclonal antibody. MagnetisMM-3 included 123 patients naïve to prior BCMA-directed therapy (pivotal Cohort A). Patients had measurable disease by international myeloma working group (IMWG) criteria at enrolment. The study included patients with an ECOG score of ≤ 2, adequate baseline bone marrow (absolute neutrophil count ≥ 1.0 × 10 9 /L, platelet count ≥ 25 × 10 9 /L, haemoglobin level ≥ 8 g/dL), renal (CrCL ≥ 30 mL/min), and hepatic [aspartate aminotransferase (AST) and alanine transaminase (ALT) ≤ 2.5 × upper limit of normal (ULN)], total bilirubin ≤ 2 × ULN] function, and left-ventricular ejection fraction ≥ 40%. Patients with smouldering multiple myeloma, active plasma cell leukaemia, amyloidosis, POEMS (polyneuropathy, organomegaly, endocrinopathy, monoclonal plasma cell disorder, skin changes) syndrome, stem cell transplant within 12 weeks prior to enrolment, active infections, and clinically significant neuropathies and cardiovascular disease, were excluded from the study.
+The efficacy of ELREXFIO monotherapy was evaluated in patients with relapsed or refractory multiple myeloma in an open-label, non-randomised, multi-centre, Phase 2 study (MagnetisMM-3). The study included patients who were refractory to at least one proteasome inhibitor (PI), one immunomodulatory agent (IMiD) and one anti-CD38 monoclonal antibody. MagnetisMM-3 included 123 patients naïve to prior BCMA-directed therapy (pivotal Cohort A). Patients had measurable disease by international myeloma working group (IMWG) criteria at enrolment. The study included patients with an ECOG score of ≤ 2, adequate baseline bone marrow (absolute neutrophil count ≥ 1.0 × 10 9 /L, platelet count ≥ 25 × 10 9 /L, haemoglobin level ≥ 8 g/dL), renal (CrCL ≥ 30 mL/min),
 
 <div style=\"page-break-after: always\"></div>
 
+and hepatic [aspartate aminotransferase (AST) and alanine transaminase (ALT) ≤ 2.5 × upper limit of normal (ULN)] , total bilirubin ≤ 2 × ULN] function, and leftventricular ejection fraction ≥ 40%. Patients with smouldering multiple myeloma, active plasma cell leukaemia, amyloidosis, POEMS (polyneuropathy, organomegaly, endocrinopathy, monoclonal plasma cell disorder, skin changes) syndrome, stem cell transplant within 12 weeks prior to enrolment, active infections, and clinically significant neuropathies and cardiovascular disease, were excluded from the study.
+
 Patients received subcutaneous administration of ELREXFIO at step-up doses of 12 mg on Day 1 and 32 mg on Day 4 of treatment, followed by the first full treatment dose of ELREXFIO (76 mg) on Day 8 of treatment. Thereafter, patients received 76 mg once weekly. After 24 weeks, in patients who achieved an IMWG response category of partial response or better with responses persisting for at least 2 months, the dosing interval was changed from every week to every 2 weeks, and from every 2 weeks to every 4 weeks after at least 24 weeks of 76 mg every 2 weeks dosing (see section 4.2).
 
-Among the 123 patients treated in pivotal Cohort A, the median age was 68 (range: 36 to 89) years with 19.5% of patients ≥ 75 years of age. 44.7% were female; 58.5% were White, 13.0% were Asian, 8.9% were Hispanic/Latino, and 7.3% were Black. Disease stage (R-ISS) at study entry was 22.8% in Stage I, 55.3% in Stage II, and 15.4% in Stage III. The median time since initial diagnosis of multiple myeloma to enrolment was 72.9 (range: 16 to 228) months. Patients had received a median of 5 prior lines of therapy (range: 2 to 22); with 96.0% who received ≥ 3 prior lines of therapy. 96.7% were triple-class refractory and 95.9% refractory to their last line of therapy. 68.3% received prior autologous stem cell transplantation, and 5.7% received prior allogenic stem cell transplantation. High-risk cytogenetics [t(4;14), t(14;16), or del(17p)] were present in 25.2% of patients. 31.7% of patients had extramedullary disease [presence of any plasmacytoma (extramedullary and/or paramedullary) with a soft-tissue component] by blinded independent central review (BICR) at baseline.
+Among the 123 patients treated in pivotal Cohort A, the median age was 68 (range: 36 to 89) years with 19.5% of patients ≥ 75 years of age. 44.7% were female; 58.5% were White, 13.0% were Asian, 8.9% were Hispanic/Latino, and 7.3% were Black. Disease stage (R-ISS) at study entry was 22.8% in Stage I, 55.3% in Stage II, and 15.4% in Stage III. The median time since initial diagnosis of multiple myeloma to enrolment was 72.9 (range: 16 to 228) months. Patients had received a median of 5 prior lines of therapy (range: 2 to 22); with 96.0 % who received ≥ 3 prior lines of therapy. 96.7% were triple-class refractory and 95.9% refractory to their last line of therapy. 68.3% received prior autologous stem cell transplantation, and 5.7% received prior allogenic stem cell transplantation. High-risk cytogenetics [t(4;14), t(14;16), or del(17p)] were present in 25.2% of patients. 31.7% of patients had extramedullary disease [presence of any plasmacytoma (extramedullary and/or paramedullary) with a soft-tissue component] by blinded independent central review (BICR) at baseline.
 
 Efficacy results were based on response rate and duration of response (DOR), as assessed by BICR based on the IMWG criteria. Efficacy results from pivotal Cohort A are shown in Table 7. The median (range) follow-up from initial dose for responders was 27.9 (3.6, 36.8) months.
 
 Table 7. Efficacy results for MagnetisMM-3 in pivotal Cohort A
 
-|                                                                                                                                                                                                                                                          | BCMA-directed therapy naïve patients (pivotal Cohort A)   |
-|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------|
-| Objective response rate (ORR: sCR+CR+VGPR+PR), n (%) (95% CI)                                                                                                                                                                                            | 75 (61.0%) (51.8, 69.6)                                   |
-| Stringent complete response (sCR)                                                                                                                                                                                                                        | 20 (16.3%)                                                |
-| Complete response (CR)                                                                                                                                                                                                                                   | 26 (21.1%)                                                |
-| Very good partial response (VGPR)                                                                                                                                                                                                                        | 23 (18.7%)                                                |
-| Partial response (PR)                                                                                                                                                                                                                                    | 6 (4.9%)                                                  |
-| Complete response rate (sCR+CR), n (%) (95% CI)                                                                                                                                                                                                          | 46 (37.4%) (28.8, 46.6)                                   |
-| Time to first response (months) Number of responders Median Range                                                                                                                                                                                        | 75 1.22 (0.9, 7.4)                                        |
-| Number of responders Median (95% CI) Rate at 12 months (95% CI) Rate at 24 months (95% CI) MRD-negativity rate a in patients achieving CR or sCR and evaluable forMRD (31 of the 46 patients who reached CR/sCR were evaluable for MRD) n (%) 95% CI (%) | 75 NE (NE, NE) 73.4 (61.4, 82.1) 66.9 (54.4, 76.7)        |
-|                                                                                                                                                                                                                                                          | 28 (90.3%) (74.2, 98.0)                                   |
+|                                                                                                                                | BCMA-directed therapy naïve patients (pivotal Cohort A) All treated (N=123)   |
+|--------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------|
+| Objective response rate (ORR: sCR+CR+VGPR+PR), n (%) (95% CI)                                                                  | 75 (61.0%) (51.8, 69.6)                                                       |
+| Stringent complete response (sCR)                                                                                              | 20 (16.3%)                                                                    |
+| Complete response (CR)                                                                                                         | 26 (21.1%)                                                                    |
+| Very good partial response (VGPR)                                                                                              | 23 (18.7%)                                                                    |
+| Partial response (PR)                                                                                                          | 6 (4.9%)                                                                      |
+| Complete response rate (sCR+CR), n (%) (95% CI)                                                                                | 46 (37.4%) (28.8, 46.6)                                                       |
+| Time to first response (months) Number of responders Median Range                                                              | 75 1.22 (0.9, 7.4)                                                            |
+| Duration of response (DOR) (months) Number of responders Median (95% CI) Rate at 12 months (95% CI) Rate at 24 months (95% CI) | 75 NE (NE, NE) 73.4 (61.4, 82.1) 66.9 (54.4, 76.7)                            |
+
+<div style=\"page-break-after: always\"></div>
+
+Table 7. Efficacy results for MagnetisMM-3 in pivotal Cohort A
+
+| n (%)      | 28 (90.3%)   |
+|------------|--------------|
+| 95% CI (%) | (74.2, 98.0) |
 
 Abbreviations: CI=confidence interval; NE=not estimable; MRD=minimal residual disease.
 
 a. By threshold 10 -5 , next generation sequencing clonoSEQ assay (Adaptive Biotechnologies).
 
-<div style=\"page-break-after: always\"></div>
-
 ## Paediatric population
 
 The European Medicines Agency has waived the obligation to submit the results of studies with ELREXFIO in all subsets of the paediatric population in multiple myeloma (see section 4.2 for information on paediatric use).
 
-This medicinal product has been authorised under a so-called 'conditional approval' scheme. This means that further evidence on this medicinal product is awaited.
+This medicinal product has been authorised under a socalled 'conditional approval' scheme. This means that further evidence on this medicinal product is awaited.
 
 The European Medicines Agency will review new information on this medicinal product at least every year and this SmPC will be updated as necessary.
 
 ## 5.2 Pharmacokinetic properties
 
-Pharmacokinetic parameters are presented as geometric mean (coefficient of variation [CV]%) for unbound elranatamab unless otherwise specified. The Cmax and AUCtau of elranatamab after the first subcutaneous dose increased in a dose proportional manner over the evaluated dose range via subcutaneous administration (~ 6 to 76 mg). The median accumulation ratio after 24 weeks of weekly dosing relative to the first subcutaneous dose of elranatamab 76 mg for Cmax and AUCtau was 6.6-fold and 11.2-fold, respectively. The predicted Cavg , C max , and C trough and the observed Ctrough of elranatamab are presented in Table 8.
+Pharmacokinetic parameters are presented as geometric mean (coefficient of variation [CV]%) for unbound elranatamab unless otherwise specified. The Cmax and AUCtau of elranatamab after the first subcutaneous dose increased in a dose proportional manner over the evaluated dose range via subcutaneous administration (~ 6 to 76 mg). The median accumulation ratio after 24 weeks of weekly dosing relative to the first subcutaneous dose of elranatamab 76 mg for Cmax and AUCtau was 6.6-fold and 11.2-fold, respectively. The predicted Cavg, Cmax, and Ctrough and the observed Ctrough of elranatamab are presented in Table 8.
 
 Table 8. Pharmacokinetic parameters of elranatamab following the recommended dose
 
@@ -523,11 +537,11 @@ The predicted mean bioavailability of elranatamab was 56.2% when administered su
 
 Based on the population pharmacokinetic model, the predicted mean volume of distribution of unbound elranatamab was 4.78 L, 69% (CV) for the central compartment, and 2.83 L for the peripheral compartment.
 
+<div style=\"page-break-after: always\"></div>
+
 ## Elimination
 
 The predicted geometric mean half-life of elranatamab is 22, 64% (CV) days at week 24 following doses of 76 mg weekly. Based on the population pharmacokinetic model, the predicted mean elranatamab clearance was 0.324 L/day, 100% (CV).
-
-<div style=\"page-break-after: always\"></div>
 
 ## Special populations
 
@@ -535,7 +549,7 @@ No clinically relevant differences in the pharmacokinetics of elranatamab were o
 
 ## Renal impairment
 
-No studies of elranatamab in patients with renal impairment have been conducted. Results of population pharmacokinetic analyses indicate that mild renal impairment (60 mL/min/1.73 m 2  ≤ eGFR &lt; 90 mL/min/1.73 m 2 ) or moderate renal impairment (30 mL/min/1.73 m 2 ≤ eGFR &lt; 60 mL/min/1.73 m 2 ) did not significantly influence the pharmacokinetics of elranatamab. Limited data are available from patients with severe renal impairment (eGFR less than 30 mL/min/1.73 m 2 ).
+No studies of elranatamab in patients with renal impairment have been conducted. Results of population pharmacokinetic analyses indicate that mild renal impairment (60 mL/min/1.73 m 2 ≤ eGFR &lt; 90 mL/min/1.73 m 2 ) or moderate renal impairment (30 mL/min/1.73 m 2 ≤ eGFR &lt; 60 mL/min/1.73 m 2 ) did not significantly influence the pharmacokinetics of elranatamab. Limited data are available from patients with severe renal impairment (eGFR less than 30 mL/min/1.73 m 2 ).
 
 ## Hepatic impairment
 
@@ -561,9 +575,9 @@ Edetate disodium L-histidine L-histidine hydrochloride monohydrate Polysorbate 8
 
 ## 6.2 Incompatibilities
 
-In the absence of compatibility studies, this medicinal product must not be mixed with other medicinal products.
-
 <div style=\"page-break-after: always\"></div>
+
+In the absence of compatibility studies, this medicinal product must not be mixed with other medicinal products.
 
 ## 6.3 Shelf life
 
@@ -591,9 +605,7 @@ For storage conditions after first opening of the medicinal product, see section
 
 ## ELREXFIO 40 mg/mL solution for injection
 
-1.1 mL solution in a vial (Type 1 glass) with a stopper (butyl rubber) and an aluminium seal with a flip-off cap containing 44 mg of elranatamab.
-
-Pack size of 1 vial.
+1.1 mL solution in a vial (Type 1 glass) with a stopper (butyl rubber) and an aluminium seal with a flip-off cap containing 44 mg of elranatamab. Pack size of 1 vial.
 
 ## ELREXFIO 40 mg/mL solution for injection
 
@@ -633,13 +645,15 @@ Pfizer Europe MA EEIG Boulevard de la Plaine 17 1050 Bruxelles Belgium
 
 ## 8. MARKETING AUTHORISATION NUMBER(S)
 
-EU/1/23/1770/001 EU/1/23/1770/002
+EU/1/23/1770/001
+
+EU/1/23/1770/002
 
 ## 9. DATE OF FIRST AUTHORISATION/RENEWAL OF THE AUTHORISATION
 
 Date of first authorisation: 07 December 2023
 
-Date of latest renewal: 13 November 2024
+Date of latest renewal: 08 September 2025
 
 ## 10. DATE OF REVISION OF THE TEXT
 
@@ -673,7 +687,7 @@ Medicinal product subject to restricted medical prescription (see Annex I: Summa
 
 ## C. OTHER CONDITIONS AND REQUIREMENTS OF THE MARKETING AUTHORISATION
 
-##  Periodic safety update reports (PSURs)
+## · Periodic safety update reports (PSURs)
 
 The requirements for submission of PSURs for this medicinal product are set out in the list of Union reference dates (EURD list) provided for under Article 107c(7) of Directive 2001/83/EC and any subsequent updates published on the European medicines web-portal.
 
@@ -681,27 +695,27 @@ The marketing authorisation holder (MAH) shall submit the first PSUR for this pr
 
 ## D. CONDITIONS OR RESTRICTIONS WITH REGARD TO THE SAFE AND EFFECTIVE USE OF THE MEDICINAL PRODUCT
 
-##  Risk management plan (RMP)
+## · Risk management plan (RMP)
 
 The marketing authorisation holder (MAH) shall perform the required pharmacovigilance activities and interventions detailed in the agreed RMP presented in Module 1.8.2 of the marketing authorisation and any agreed subsequent updates of the RMP.
 
 An updated RMP should be submitted:
 
--  At the request of the European Medicines Agency;
--  Whenever the risk management system is modified, especially as the result of new information being received that may lead to a significant change to the benefit/risk profile or as the result of an important (pharmacovigilance or risk minimisation) milestone being reached.
+- At the request of the European Medicines Agency;
+- Whenever the risk management system is modified, especially as the result of new information being received that may lead to a significant change to the benefit/risk profile or as the result of an important (pharmacovigilance or risk minimisation) milestone being reached.
 
 <div style=\"page-break-after: always\"></div>
 
-##  Additional risk minimisation measures
+## · Additional risk minimisation measures
 
 The MAH shall ensure that in each Member State where ELREXFIO is marketed, all patients/carers who are expected to use elranatamab have access to/are provided with the Patient Alert Card which will inform and explain to patients the risks of CRS and neurologic toxicities, including ICANS. The Patient Alert Card also includes a warning message for healthcare provider treating the patient that the patient is receiving elranatamab.
 
 The Patient Alert Card will contain the following key messages:
 
--  A description of the key signs and symptoms of CRS and ICANS
--  Reminder that they should remain within proximity of a healthcare facility, and be monitored for signs and symptoms daily for 48 hours after administration of the first 2 step-up doses
--  A description of when to seek urgent attention from the healthcare provider or seek emergency help, should signs and symptoms of CRS or ICANS present themselves
--  The prescribing physician's contact details
+- A description of the key signs and symptoms of CRS and ICANS
+- Reminder that they should remain within proximity of a healthcare facility, and be monitored for signs and symptoms daily for 48 hours after administration of the first 2 step-up doses
+- A description of when to seek urgent attention from the healthcare provider or seek emergency help, should signs and symptoms of CRS or ICANS present themselves
+- The prescribing physician's contact details
 
 ## E. SPECIFIC OBLIGATION TO COMPLETE POST-AUTHORISATION MEASURES FOR THE CONDITIONAL MARKETING AUTHORISATION
 
@@ -769,8 +783,6 @@ Store in a refrigerator.
 
 Do not freeze.
 
-<div style=\"page-break-after: always\"></div>
-
 Store in the original carton in order to protect from light.
 
 10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
@@ -787,7 +799,7 @@ EU/1/23/1770/001
 
 Lot
 
-14. GENERAL CLASSIFICATION FOR SUPPLY
+## 14. GENERAL CLASSIFICATION FOR SUPPLY
 
 15. INSTRUCTIONS ON USE
 
@@ -804,6 +816,8 @@ Justification for not including Braille accepted.
 PC SN
 
 NN
+
+<div style=\"page-break-after: always\"></div>
 
 <div style=\"page-break-after: always\"></div>
 
@@ -889,7 +903,7 @@ Store in the original carton in order to protect from light.
 
 <div style=\"page-break-after: always\"></div>
 
-| 10.   | SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS ORWASTEMATERIALS DERIVED FROMSUCHMEDICINAL PRODUCTS, IF APPROPRIATE   |
+| 10.   | SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS ORWASTEMATERIALS DERIVEDFROMSUCH MEDICINAL PRODUCTS, IF APPROPRIATE   |
 |-------|-------------------------------------------------------------------------------------------------------------------------------------|
 
 | 11.   | NAMEANDADDRESS OF THE MARKETING AUTHORISATION HOLDER   |
@@ -897,8 +911,8 @@ Store in the original carton in order to protect from light.
 
 Pfizer Europe MA EEIG Boulevard de la Plaine 17 1050 Bruxelles Belgium
 
-| 12. MARKETING AUTHORISATION NUMBER(S)   |
-|-----------------------------------------|
+| 12.   | MARKETING AUTHORISATION NUMBER(S)   |
+|-------|-------------------------------------|
 
 EU/1/23/1770/002
 
@@ -910,8 +924,8 @@ Lot
 | 14.   | GENERAL CLASSIFICATION FOR SUPPLY   |
 |-------|-------------------------------------|
 
-| 15.   | INSTRUCTIONS ONUSE   |
-|-------|----------------------|
+| 15.   | INSTRUCTIONS ON USE   |
+|-------|-----------------------|
 
 | 16.   | INFORMATION IN BRAILLE   |
 |-------|--------------------------|
@@ -923,8 +937,8 @@ Justification for not including Braille accepted.
 
 2D barcode carrying the unique identifier included.
 
-| 18.   | UNIQUE IDENTIFIER -HUMANREADABLEDATA   |
-|-------|----------------------------------------|
+| 18.   | UNIQUE IDENTIFIER -HUMANREADABLE DATA   |
+|-------|-----------------------------------------|
 
 PC SN NN
 
@@ -971,15 +985,15 @@ Lot
 
 ## ELREXFIO 40 mg/mL solution for injection
 
-elranatamab
+## elranatamab
 
 This medicine is subject to additional monitoring. This will allow quick identification of new safety information. You can help by reporting any side effects you may get. See the end of section 4 for how to report side effects.
 
 ## Read all of this leaflet carefully before you are given this medicine because it contains important information for you.
 
--  Keep this leaflet. You may need to read it again.
--  If you have any further questions, ask your doctor or nurse.
--  If you get any side effects, talk to your doctor or nurse. This includes any possible side effects not listed in this leaflet. See section 4.
+- Keep this leaflet. You may need to read it again.
+- If you have any further questions, ask your doctor or nurse.
+- If you get any side effects, talk to your doctor or nurse. This includes any possible side effects not listed in this leaflet. See section 4.
 
 ## What is in this leaflet
 
@@ -1016,9 +1030,9 @@ Tell your doctor or nurse about all of your medical conditions before you are gi
 
 ## Tell your doctor or nurse right away if you experience any of the following:
 
--  Signs of a condition known as 'cytokine release syndrome' (CRS). CRS is a serious immune reaction with symptoms such as fever, difficulty breathing, chills, headache, low blood pressure, fast heartbeat, feeling dizzy, and increased levels of liver enzymes in the blood.
--  Effects on your nervous system. Symptoms include feeling confused, feeling less alert, or having difficulty speaking or writing. Some of these may be signs of a serious immune reaction called 'immune effector cell-associated neurotoxicity syndrome' (ICANS).
--  Signs and symptoms of an infection such as fever, chills, fatigue, or difficulty breathing.
+- Signs of a condition known as 'cytokine release syndrome' (CRS). CRS is a serious immune reaction with symptoms such as fever, difficulty breathing, chills, headache, low blood pressure, fast heartbeat, feeling dizzy, and increased levels of liver enzymes in the blood.
+- Effects on your nervous system. Symptoms include feeling confused, feeling less alert, or having difficulty speaking or writing. Some of these may be signs of a serious immune reaction called 'immune effector cell -associated neurotoxicity syndr ome' (ICANS) .
+- Signs and symptoms of an infection such as fever, chills, fatigue, or difficulty breathing.
 
 Tell your doctor or nurse if you notice any signs of the above.
 
@@ -1072,7 +1086,7 @@ Some people may feel tired, dizzy, or confused while receiving ELREXFIO. Do not 
 
 ## ELREXFIO contains sodium
 
-ELREXFIO contains less than 1 mmol sodium (23 mg) per dose, that is to say essentially 'sodium-free.'
+ELREXFIO contains less than 1 mmol sodium (23 mg) per dose, that is to say essentially 'sodium -free.'
 
 ## 3. How ELREXFIO is given
 
@@ -1082,11 +1096,11 @@ You will receive ELREXFIO under the supervision of a healthcare professional exp
 
 ELREXFIO is given as follows:
 
--  You will receive a first step-up dose of 12 mg on Day 1 of Week 1.
--  You will then receive a second step-up dose of 32 mg on Day 4 of Week 1.
--  From Week 2 to Week 24 (Day 1), you will receive a full treatment dose of 76 mg once a week, as long as you are getting benefit from ELREXFIO.
--  From Week 25 to Week 48 (Day 1), your doctor may change your treatment from once a week to once every two weeks, as long as your cancer has responded to ELREXFIO treatment.
--  From Week 49 (Day 1) onwards, your doctor may change your treatment from once every two weeks to once every four weeks, as long as your cancer continues to respond to ELREXFIO treatment.
+- You will receive a first step-up dose of 12 mg on Day 1 of Week 1.
+- You will then receive a second step-up dose of 32 mg on Day 4 of Week 1.
+- From Week 2 to Week 24 (Day 1), you will receive a full treatment dose of 76 mg once a week, as long as you are getting benefit from ELREXFIO.
+- From Week 25 to Week 48 (Day 1), your doctor may change your treatment from once a week to once every two weeks, as long as your cancer has responded to ELREXFIO treatment.
+- From Week 49 (Day 1) onwards, your doctor may change your treatment from once every two weeks to once every four weeks, as long as your cancer continues to respond to ELREXFIO treatment.
 
 You should stay close to a healthcare facility for 48 hours after each of the first two step-up doses in case you have side effects. Your doctor will monitor you for side effects for 48 hours after each of your first two doses.
 
@@ -1100,9 +1114,9 @@ You may get a reaction at the injection site including, redness of the skin, pai
 
 You will be given medicines one hour before each of your first three doses of ELREXFIO. These help to lower the chance of side effects, such as cytokine release syndrome (see section 4). These medicines may include:
 
--  Medicines to reduce the risk of fever (such as paracetamol)
--  Medicines to reduce the risk of inflammation (corticosteroids)
--  Medicines to reduce the risk of an allergic reaction (antihistamines, such as diphenhydramine)
+- Medicines to reduce the risk of fever (such as paracetamol)
+- Medicines to reduce the risk of inflammation (corticosteroids)
+- Medicines to reduce the risk of an allergic reaction (antihistamines, such as diphenhydramine)
 
 <div style=\"page-break-after: always\"></div>
 
@@ -1130,17 +1144,28 @@ Get medical help straight away if you get any of the following serious side effe
 
 ## Very common (may affect more than 1 in 10 people):
 
--  Cytokine release syndrome, a serious immune reaction that may cause fever, difficulty breathing, chills, dizziness or light-headedness, fast heartbeat, increased liver enzymes in your blood;
--  Low levels of neutrophils (a type of white blood cell that fights infection; neutropenia);
--  Low levels of antibodies called 'immunoglobulins' in the blood (hypogammaglobulinaemia), which may make infections more likely;
--  Infection, which may include fever, chills, fatigue, or shortness of breath.
+- Cytokine release syndrome, a serious immune reaction that may cause fever, difficulty breathing, chills, dizziness or light-headedness, fast heartbeat, increased liver enzymes in your blood;
+- Low levels of neutrophils (a type of white blood cell that fights infection; neutropenia);
+- Low levels of antibodies called 'immunoglobulins' in the blood (hypogammaglobulinaemia), which may make infections more likely;
+- Infection, which may include fever, chills, fatigue, or shortness of breath.
 
-## Common (may affect up to 1 in 10 people):
+## Common (may affect more than 1 in 100 people):
 
--  Immune effector cell-associated neurotoxicity syndrome (ICANS), a serious immune reaction that may cause effects on your nervous system. Some of the symptoms are:
+- Immune effector cell-associated neurotoxicity syndrome (ICANS), a serious immune reaction that may cause effects on your nervous system. Some of the symptoms are:
 - o Feeling confused
 - o Feeling less alert
 - o Having difficulty speaking or writing
+
+## Uncommon (may affect more than 1 in 1 000 people):
+
+- Progressive Multifocal Leukoencephalopathy (PML), a serious and potentially fatal brain infection. Some of the symptoms are:
+- o Blurred, loss of or double vision
+- o Difficulty speaking
+- o Weakness in an arm or a leg
+- o A change in the way you walk or problems with your balance
+- o Persistent numbness
+- o Decreased sensation or loss of sensation
+- o Memory loss or confusion
 
 Tell your doctor right away if you notice any of the above-listed serious side effects.
 
@@ -1148,38 +1173,37 @@ Tell your doctor right away if you notice any of the above-listed serious side e
 
 Other side effects are listed below. Tell your doctor or nurse if you get any of these side effects.
 
-## Very common (may affect more than 1 in 10 people):
-
--  Low levels of red blood cells (anaemia)
--  Feeling tired or weak
--  Nose and throat infection (upper respiratory tract infection)
--  Reactions at or near the injection site, including redness of the skin, itching, swelling, pain, bruising, rash, or bleeding
--  Diarrhoea
--  Lung infection (pneumonia)
--  Low levels of blood platelets (cells that help blood to clot; thrombocytopenia)
--  Low levels of a type of lymphocytes, a type of white blood cell (lymphopenia)
-
 <div style=\"page-break-after: always\"></div>
 
--  Fever (pyrexia)
--  Decreased appetite
--  Skin rash
--  Dry skin
--  Pain in your joints (arthralgia)
--  Low levels of potassium in the blood (hypokalaemia)
--  Feeling sick (nausea)
--  Headache
--  Difficulty breathing (dyspnoea)
--  Blood poisoning (sepsis)
--  Low number of white blood cells (leucopenia)
--  Increased level of liver enzymes in the blood (transaminases increased)
--  Nerve damage in legs and/or arms that may cause tingling, numbness, pain, or loss of sensation (peripheral neuropathy)
--  Infection of the parts of the body that collect and pass out urine (urinary tract infection)
+## Very common (may affect more than 1 in 10 people):
 
-## Common (may affect up to 1 in 10 people):
+- Low levels of red blood cells (anaemia)
+- Feeling tired or weak
+- Nose and throat infection (upper respiratory tract infection)
+- Reactions at or near the injection site, including redness of the skin, itching, swelling, pain, bruising, rash, or bleeding
+- Diarrhoea
+- Lung infection (pneumonia)
+- Low levels of blood platelets (cells that help blood to clot; thrombocytopenia)
+- Low levels of a type of lymphocytes, a type of white blood cell (lymphopenia)
+- Fever (pyrexia)
+- Decreased appetite
+- Skin rash
+- Dry skin
+- Pain in your joints (arthralgia)
+- Low levels of potassium in the blood (hypokalaemia)
+- Feeling sick (nausea)
+- Headache
+- Difficulty breathing (dyspnoea)
+- Blood poisoning (sepsis)
+- Low number of white blood cells (leucopenia)
+- Increased level of liver enzymes in the blood (transaminases increased)
+- Nerve damage in legs and/or arms that may cause tingling, numbness, pain, or loss of sensation (peripheral neuropathy)
+- Infection of the parts of the body that collect and pass out urine (urinary tract infection)
 
--  Low level of phosphates in the blood (hypophosphataemia)
--  Low number neutrophils in the blood, combined with a fever (febrile neutropenia)
+## Common (may affect more than 1 in 100 people):
+
+- Low level of phosphates in the blood (hypophosphataemia)
+- Low number neutrophils in the blood, combined with a fever (febrile neutropenia)
 
 ## Reporting of side effects
 
@@ -1191,7 +1215,7 @@ ELREXFIO will be stored at the hospital or clinic by your doctor.
 
 Keep this medicine out of the sight and reach of children.
 
-Do not use this medicine after the expiry date which is stated on the carton and the vial label after 'EXP'. The expiry date refers to the last day of that month.
+Do not use this medicine after the expiry date which is stated on the carton and the vial label after ' EXP ' . The expiry date refers to the last day of that month.
 
 Store in a refrigerator (2 °C to 8 °C). Do not freeze.
 
@@ -1199,17 +1223,19 @@ Store in the original carton in order to protect from light.
 
 Chemical and physical in-use stability after opening the vial, including storage in prepared syringes, has been demonstrated for 7 days at 2 °C to 8 °C and 24 hours at up to 30 °C.
 
-From a microbiological point of view, the product should be used immediately. If not used immediately, in-use storage times and conditions prior to use are the responsibility of the user and would normally not be longer than 24 hours at 2 °C to 8 °C, unless preparation has taken place in controlled and validated aseptic conditions.
-
-Do not use this medicine if you notice discolouration or other visible signs of deterioration.
+From a microbiological point of view, the product should be used immediately. If not used immediately, in-use storage times and conditions prior to use are the responsibility of the user and
 
 <div style=\"page-break-after: always\"></div>
+
+would normally not be longer than 24 hours at 2 °C to 8 °C, unless preparation has taken place in controlled and validated aseptic conditions.
+
+Do not use this medicine if you notice discolouration or other visible signs of deterioration.
 
 ## 6. Contents of the pack and other information
 
 ## What ELREXFIO contains
 
--  The active substance is elranatamab. ELREXFIO comes in two different package sizes:
+- The active substance is elranatamab. ELREXFIO comes in two different package sizes:
 - o One 1.1 mL vial contains 44 mg of elranatamab (40 mg/mL).
 - o One 1.9 mL vial contains 76 mg of elranatamab (40 mg/mL).
 
@@ -1235,9 +1261,17 @@ Pfizer NV/SA
 
 Tél/Tel: +32 (0)2 554 62 11
 
+## Latvija
+
+Pfizer Luxembourg SARL filiāle Latvijā Tel: +371 670 35 775
+
 ## България
 
 Пфайзер Люксембург САРЛ, Клон България Тел.: +359 2 970 4333
+
+## Lietuva
+
+Pfizer Luxembourg SARL filialas Lietuvoje Tel: +370 52 51 4000
 
 ## Česká republika
 
@@ -1245,17 +1279,37 @@ Pfizer, spol. s r.o.
 
 Tel: +420 283 004 111
 
+## Magyarország
+
+Pfizer Kft.
+
+Tel: +36-1-488-37-00
+
 ## Danmark
 
 Pfizer ApS
 
 Tlf.: +45 44 20 11 00
 
+## Malta
+
+Vivian Corporation Ltd.
+
+Tel: +356 21344610
+
 ## Deutschland
 
 PFIZER PHARMA GmbH
 
 Tel: +49 (0)30 550055 51000
+
+## Nederland
+
+Pfizer bv
+
+Tel: +31 (0)800 63 34 636
+
+<div style=\"page-break-after: always\"></div>
 
 ## Eesti
 
@@ -1269,33 +1323,63 @@ Pfizer Ελλάς A.E.
 
 Τηλ: +30 210 6785 800
 
-## Latvija
+## España
 
-Pfizer Luxembourg SARL filiāle Latvijā Tel: +371 670 35 775
+Pfizer, S.L.
 
-## Lietuva
+Tel: +34 91 490 99 00
 
-Pfizer Luxembourg SARL filialas Lietuvoje
+## France
 
-Tel: +370 52 51 4000
+Pfizer
 
-## Magyarország
+Tél: +33 (0)1 58 07 34 40
 
-Pfizer Kft.
+## Hrvatska
 
-Tel: +36-1-488-37-00
+Pfizer Croatia d.o.o.
 
-## Malta
+Tel: +385 1 3908 777
 
-Vivian Corporation Ltd.
+## Ireland
 
-Tel: +356 21344610
+Pfizer Healthcare Ireland Unlimited Company
 
-## Nederland
+Tel: 1800 633 363 (toll free)
 
-Pfizer bv
++44 (0)1304 616161
 
-Tel: +31 (0)800 63 34 636
+## Ísland
+
+Icepharma hf.
+
+Sími: +354 540 8000
+
+## Italia
+
+Pfizer S.r.l.
+
+Tel: +39 06 33 18 21
+
+## Κύπρος
+
+Pfizer Ελλάς Α . Ε . (Cyprus Branch)
+
+Τηλ: +357 22 817690
+
+## This leaflet was last revised in
+
+This medicine has been given ' conditional approval ' . This means that there is more evidence to come about this medicine.
+
+The European Medicines Agency will review new information on this medicine at least every year and this leaflet will be updated as necessary.
+
+## Other sources of information
+
+Detailed information on this medicine is available on the European Medicines Agency web site: https://www.ema.europa.eu.
+
+------------------------------------------------------------------------------------------------------------------------
+
+The following information is intended for healthcare professionals only:
 
 ## Norge
 
@@ -1309,23 +1393,11 @@ Pfizer Corporation Austria Ges.m.b.H.
 
 Tel: +43 (0)1 521 15-0
 
-## España
-
-Pfizer, S.L.
-
-Tel: +34 91 490 99 00
-
 ## Polska
 
 Pfizer Polska Sp. z o.o.
 
 Tel: +48 22 335 61 00
-
-## France
-
-Pfizer
-
-Tél: +33 (0)1 58 07 34 40
 
 ## Portugal
 
@@ -1333,41 +1405,17 @@ Laboratórios Pfizer, Lda.
 
 Tel: +351 21 423 5500
 
-## Hrvatska
-
-Pfizer Croatia d.o.o.
-
-Tel: +385 1 3908 777
-
 ## România
 
 Pfizer Romania S.R.L.
 
 Tel: +40 (0) 21 207 28 00
 
-## Ireland
-
-Pfizer Healthcare Ireland Unlimited Company
-
-Tel: 1800 633 363 (toll free)
-
-+44 (0)1304 616161
-
 ## Slovenija
 
 Pfizer Luxembourg SARL
 
-Pfizer, podružnica za svetovanje s področja
-
-farmacevtske dejavnosti, Ljubljana
-
-Tel: +386 (0)1 52 11 400
-
-## Ísland
-
-Icepharma hf.
-
-Sími: +354 540 8000
+Pfizer, podružnica za svetovanje s področja farmacevtske dejavnosti, Ljubljana Tel: +386 (0)1 52 11 400
 
 ## Slovenská republika
 
@@ -1375,23 +1423,11 @@ Pfizer Luxembourg SARL, organizačná zložka
 
 Tel: +421 2 3355 5500
 
-## Italia
-
-Pfizer S.r.l.
-
-Tel: +39 06 33 18 21
-
 ## Suomi/Finland
 
 Pfizer Oy
 
 Puh/Tel: +358 (0)9 430 040
-
-## Κύπρος
-
-Pfizer Ελλάς Α.Ε. (Cyprus Branch)
-
-Τηλ: +357 22 817690
 
 ## Sverige
 
@@ -1401,27 +1437,11 @@ Tel: +46 (0)8 550-520 00
 
 <div style=\"page-break-after: always\"></div>
 
-## This leaflet was last revised in
-
-This medicine has been given 'conditional approval'. This means that there is more evidence to come about this medicine.
-
-The European Medicines Agency will review new information on this medicine at least every year and this leaflet will be updated as necessary.
-
-## Other sources of information
-
-Detailed information on this medicine is available on the European Medicines Agency web site: https://www.ema.europa.eu.
-
-------------------------------------------------------------------------------------------------------------------------
-
-The following information is intended for healthcare professionals only:
-
 ELREXFIO 40 mg/mL solution for injection is supplied as ready-to-use solution that does not need dilution prior to administration. Do not shake.
 
 ELREXFIO is a clear to slightly opalescent, and colourless to pale brown solution. The solution should not be administered if it is discoloured or contains particulate matter.
 
 Aseptic technique should be used to prepare and administer ELREXFIO.
-
-<div style=\"page-break-after: always\"></div>
 
 ## Preparation instructions
 
@@ -1429,13 +1449,11 @@ ELREXFIO 40 mg/mL solution for injection vials are for single use only.
 
 ELREXFIO should be prepared following the instructions below (see Table 1) depending on the required dose. It is suggested to use a 44 mg/1.1 mL (40 mg/mL) single dose vial for each one of the step-up doses.
 
-Table 1. Preparation instructions for ELREXFIO
-
-| Required dose               | Dose volume   |
-|-----------------------------|---------------|
-| 12 mg (Step-up dose 1)      | 0.3 mL        |
-| 32 mg (Step-up dose 2)      | 0.8 mL        |
-| 76 mg (Full treatment dose) | 1.9 mL        |
+| Table 1. Preparation Required dose   | instructions for ELREXFIO Dose volume   |
+|--------------------------------------|-----------------------------------------|
+| 12 mg (Step-up dose 1)               | 0.3 mL                                  |
+| 32 mg (Step-up dose 2)               | 0.8 mL                                  |
+| 76 mg (Full treatment dose)          | 1.9 mL                                  |
 
 After opening, the vial and dosing syringe should be used immediately. If not used immediately, in-use storage times and conditions prior to use are the responsibility of the user and would normally not be longer than 24 hours at 2 °C to 8 °C, unless preparation has taken place in controlled and validated aseptic conditions. After opening, including storage in syringes prepared in an aseptic environment, ELREXFIO is stable for 7 days at 2 °C to 8 °C and 24 hours at up to 30 °C.
 

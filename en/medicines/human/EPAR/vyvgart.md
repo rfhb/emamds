@@ -1,18 +1,18 @@
 ---
-document_datetime: 2025-12-29 08:55:35
+document_datetime: 2026-01-15 12:38:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/vyvgart.html
 document_name: vyvgart.html
 version: success
-processing_time: 0.1166142
-conversion_datetime: 2025-12-30 01:51:05.764926
+processing_time: 0.1345026
+conversion_datetime: 2026-01-17 13:04:50.386352
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.66.0
-  docling-core: 2.57.0
+  docling-serve: 1.10.0
+  docling-jobkit: 1.8.1
+  docling: 2.68.0
+  docling-core: 2.59.0
   docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-parse: 4.7.3
   python: cpython-313 (3.13.11)
   plaform: macOS-26.2-arm64-arm-64bit-Mach-O
 ---
@@ -25,8 +25,6 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 efgartigimod alfa Medicine Human Authorised
-
-On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -125,7 +123,7 @@ English (EN) (144.42 KB - PDF)
 
 [View](/en/documents/overview/vyvgart-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-416)
+[Other languages (22)](#file-language-dropdown-6)
 
 български (BG) (166.01 KB - PDF)
 
@@ -405,17 +403,17 @@ English (EN) (711.96 KB - PDF)
 
 Vyvgart : EPAR - Product Information
 
-English (EN) (1.76 MB - PDF)
+English (EN) (1.54 MB - PDF)
 
 **First published:** 12/09/2022
 
-**Last updated:** 30/07/2025
+**Last updated:** 15/01/2026
 
 [View](/en/documents/product-information/vyvgart-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-74)
+[Other languages (24)](#file-language-dropdown-198)
 
-български (BG) (2.6 MB - PDF)
+български (BG) (1.99 MB - PDF)
 
 **First published:**
 
@@ -423,11 +421,11 @@ English (EN) (1.76 MB - PDF)
 
 **Last updated:**
 
-30/07/2025
+15/01/2026
 
 [View](/bg/documents/product-information/vyvgart-epar-product-information_bg.pdf)
 
-español (ES) (2.65 MB - PDF)
+español (ES) (2.04 MB - PDF)
 
 **First published:**
 
@@ -435,11 +433,11 @@ español (ES) (2.65 MB - PDF)
 
 **Last updated:**
 
-30/07/2025
+15/01/2026
 
 [View](/es/documents/product-information/vyvgart-epar-product-information_es.pdf)
 
-čeština (CS) (2.44 MB - PDF)
+čeština (CS) (1.93 MB - PDF)
 
 **First published:**
 
@@ -447,11 +445,11 @@ español (ES) (2.65 MB - PDF)
 
 **Last updated:**
 
-30/07/2025
+15/01/2026
 
 [View](/cs/documents/product-information/vyvgart-epar-product-information_cs.pdf)
 
-dansk (DA) (2.53 MB - PDF)
+dansk (DA) (1.95 MB - PDF)
 
 **First published:**
 
@@ -459,11 +457,11 @@ dansk (DA) (2.53 MB - PDF)
 
 **Last updated:**
 
-30/07/2025
+15/01/2026
 
 [View](/da/documents/product-information/vyvgart-epar-product-information_da.pdf)
 
-Deutsch (DE) (2.56 MB - PDF)
+Deutsch (DE) (2 MB - PDF)
 
 **First published:**
 
@@ -471,11 +469,11 @@ Deutsch (DE) (2.56 MB - PDF)
 
 **Last updated:**
 
-30/07/2025
+15/01/2026
 
 [View](/de/documents/product-information/vyvgart-epar-product-information_de.pdf)
 
-eesti keel (ET) (2.46 MB - PDF)
+eesti keel (ET) (1.93 MB - PDF)
 
 **First published:**
 
@@ -483,11 +481,11 @@ eesti keel (ET) (2.46 MB - PDF)
 
 **Last updated:**
 
-30/07/2025
+15/01/2026
 
 [View](/et/documents/product-information/vyvgart-epar-product-information_et.pdf)
 
-ελληνικά (EL) (2.59 MB - PDF)
+ελληνικά (EL) (2.02 MB - PDF)
 
 **First published:**
 
@@ -495,11 +493,11 @@ eesti keel (ET) (2.46 MB - PDF)
 
 **Last updated:**
 
-30/07/2025
+15/01/2026
 
 [View](/el/documents/product-information/vyvgart-epar-product-information_el.pdf)
 
-français (FR) (2.69 MB - PDF)
+français (FR) (2.01 MB - PDF)
 
 **First published:**
 
@@ -507,11 +505,11 @@ français (FR) (2.69 MB - PDF)
 
 **Last updated:**
 
-30/07/2025
+15/01/2026
 
 [View](/fr/documents/product-information/vyvgart-epar-product-information_fr.pdf)
 
-hrvatski (HR) (2.56 MB - PDF)
+hrvatski (HR) (1.91 MB - PDF)
 
 **First published:**
 
@@ -519,11 +517,11 @@ hrvatski (HR) (2.56 MB - PDF)
 
 **Last updated:**
 
-30/07/2025
+15/01/2026
 
 [View](/hr/documents/product-information/vyvgart-epar-product-information_hr.pdf)
 
-íslenska (IS) (2.48 MB - PDF)
+íslenska (IS) (1.91 MB - PDF)
 
 **First published:**
 
@@ -531,11 +529,11 @@ hrvatski (HR) (2.56 MB - PDF)
 
 **Last updated:**
 
-30/07/2025
+15/01/2026
 
 [View](/is/documents/product-information/vyvgart-epar-product-information_is.pdf)
 
-italiano (IT) (2.52 MB - PDF)
+italiano (IT) (1.89 MB - PDF)
 
 **First published:**
 
@@ -543,11 +541,11 @@ italiano (IT) (2.52 MB - PDF)
 
 **Last updated:**
 
-30/07/2025
+15/01/2026
 
 [View](/it/documents/product-information/vyvgart-epar-product-information_it.pdf)
 
-latviešu valoda (LV) (2.57 MB - PDF)
+latviešu valoda (LV) (1.96 MB - PDF)
 
 **First published:**
 
@@ -555,11 +553,11 @@ latviešu valoda (LV) (2.57 MB - PDF)
 
 **Last updated:**
 
-30/07/2025
+15/01/2026
 
 [View](/lv/documents/product-information/vyvgart-epar-product-information_lv.pdf)
 
-lietuvių kalba (LT) (2.53 MB - PDF)
+lietuvių kalba (LT) (1.94 MB - PDF)
 
 **First published:**
 
@@ -567,11 +565,11 @@ lietuvių kalba (LT) (2.53 MB - PDF)
 
 **Last updated:**
 
-30/07/2025
+15/01/2026
 
 [View](/lt/documents/product-information/vyvgart-epar-product-information_lt.pdf)
 
-magyar (HU) (2.25 MB - PDF)
+magyar (HU) (2.04 MB - PDF)
 
 **First published:**
 
@@ -579,11 +577,11 @@ magyar (HU) (2.25 MB - PDF)
 
 **Last updated:**
 
-19/12/2025
+15/01/2026
 
 [View](/hu/documents/product-information/vyvgart-epar-product-information_hu.pdf)
 
-Malti (MT) (3.04 MB - PDF)
+Malti (MT) (2.14 MB - PDF)
 
 **First published:**
 
@@ -591,11 +589,11 @@ Malti (MT) (3.04 MB - PDF)
 
 **Last updated:**
 
-30/07/2025
+15/01/2026
 
 [View](/mt/documents/product-information/vyvgart-epar-product-information_mt.pdf)
 
-Nederlands (NL) (2.51 MB - PDF)
+Nederlands (NL) (1.92 MB - PDF)
 
 **First published:**
 
@@ -603,11 +601,11 @@ Nederlands (NL) (2.51 MB - PDF)
 
 **Last updated:**
 
-30/07/2025
+15/01/2026
 
 [View](/nl/documents/product-information/vyvgart-epar-product-information_nl.pdf)
 
-norsk (NO) (2.49 MB - PDF)
+norsk (NO) (1.87 MB - PDF)
 
 **First published:**
 
@@ -615,11 +613,11 @@ norsk (NO) (2.49 MB - PDF)
 
 **Last updated:**
 
-30/07/2025
+15/01/2026
 
 [View](/no/documents/product-information/vyvgart-epar-product-information_no.pdf)
 
-polski (PL) (2.55 MB - PDF)
+polski (PL) (2.03 MB - PDF)
 
 **First published:**
 
@@ -627,11 +625,11 @@ polski (PL) (2.55 MB - PDF)
 
 **Last updated:**
 
-30/07/2025
+15/01/2026
 
 [View](/pl/documents/product-information/vyvgart-epar-product-information_pl.pdf)
 
-português (PT) (2.52 MB - PDF)
+português (PT) (1.95 MB - PDF)
 
 **First published:**
 
@@ -639,11 +637,11 @@ português (PT) (2.52 MB - PDF)
 
 **Last updated:**
 
-30/07/2025
+15/01/2026
 
 [View](/pt/documents/product-information/vyvgart-epar-product-information_pt.pdf)
 
-română (RO) (2.54 MB - PDF)
+română (RO) (1.93 MB - PDF)
 
 **First published:**
 
@@ -651,11 +649,11 @@ română (RO) (2.54 MB - PDF)
 
 **Last updated:**
 
-30/07/2025
+15/01/2026
 
 [View](/ro/documents/product-information/vyvgart-epar-product-information_ro.pdf)
 
-slovenčina (SK) (2.47 MB - PDF)
+slovenčina (SK) (1.82 MB - PDF)
 
 **First published:**
 
@@ -663,11 +661,11 @@ slovenčina (SK) (2.47 MB - PDF)
 
 **Last updated:**
 
-30/07/2025
+15/01/2026
 
 [View](/sk/documents/product-information/vyvgart-epar-product-information_sk.pdf)
 
-slovenščina (SL) (2.52 MB - PDF)
+slovenščina (SL) (1.94 MB - PDF)
 
 **First published:**
 
@@ -675,11 +673,11 @@ slovenščina (SL) (2.52 MB - PDF)
 
 **Last updated:**
 
-30/07/2025
+15/01/2026
 
 [View](/sl/documents/product-information/vyvgart-epar-product-information_sl.pdf)
 
-Suomi (FI) (2.58 MB - PDF)
+Suomi (FI) (1.96 MB - PDF)
 
 **First published:**
 
@@ -687,11 +685,11 @@ Suomi (FI) (2.58 MB - PDF)
 
 **Last updated:**
 
-30/07/2025
+15/01/2026
 
 [View](/fi/documents/product-information/vyvgart-epar-product-information_fi.pdf)
 
-svenska (SV) (2.52 MB - PDF)
+svenska (SV) (1.94 MB - PDF)
 
 **First published:**
 
@@ -699,11 +697,11 @@ svenska (SV) (2.52 MB - PDF)
 
 **Last updated:**
 
-30/07/2025
+15/01/2026
 
 [View](/sv/documents/product-information/vyvgart-epar-product-information_sv.pdf)
 
-**Latest procedure affecting product information:** II/0020 19/06/2025
+**Latest procedure affecting product information:** VR/0000291882 11/12/2025
 
 icon globe
 
@@ -729,7 +727,7 @@ English (EN) (45.7 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/vyvgart-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-994)
+[Other languages (24)](#file-language-dropdown-752)
 
 български (BG) (60.34 KB - PDF)
 
@@ -1054,7 +1052,7 @@ Argenx
 
 Industriepark-Zwijnaarde 7
 
-Opinion adopted 23/06/2022 Marketing authorisation issued 10/08/2022 Revision 9
+Opinion adopted 23/06/2022 Marketing authorisation issued 10/08/2022 Revision 10
 
 ## Assessment history
 
@@ -1066,13 +1064,21 @@ Collapse section
 
 Vyvgart : Procedural steps taken and scientific information after the authorisation
 
+English (EN) (157.99 KB - PDF)
+
+**First published:** 15/01/2026
+
+[View](/en/documents/procedural-steps-after/vyvgart-procedural-steps-taken-scientific-information-after-authorisation_en.pdf)
+
+Vyvgart : Procedural steps taken and scientific information after the authorisation (archive)
+
 English (EN) (182.59 KB - PDF)
 
 **First published:** 26/09/2022
 
-**Last updated:** 30/07/2025
+**Last updated:** 15/01/2026
 
-[View](/en/documents/procedural-steps-after/vyvgart-procedural-steps-taken-scientific-information-after-authorisation_en.pdf)
+[View](/en/documents/procedural-steps-after/vyvgart-procedural-steps-taken-scientific-information-after-authorisation-archive_en.pdf)
 
 Vyvgart : Orphan maintenance assessment report (post authorisation)
 
@@ -1198,7 +1204,7 @@ English (EN) (136.83 KB - PDF)
 - [A Worldwide Pregnancy Safety Study to Assess Maternal, Foetal, and Infant Outcomes Following Exposure to Efgartigimod alfa during Pregnancy and/or Breastfeeding - post-authorisation study](https://catalogues.ema.europa.eu/study/1000000005)
 - [A non-interventional, post-authorisation safety study of patients treated with efgartigimod alfa - post-authorisation study](https://catalogues.ema.europa.eu/study/1000000019)
 
-**This page was last updated on** 30/07/2025
+**This page was last updated on** 15/01/2026
 
 ## Share this page
 

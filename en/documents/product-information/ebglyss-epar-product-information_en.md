@@ -1,18 +1,18 @@
 ---
-document_datetime: 2025-12-08 09:48:26
+document_datetime: 2026-01-15 10:20:44
 document_pages: 56
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/ebglyss-epar-product-information_en.pdf
 document_name: ebglyss-epar-product-information_en.pdf
 version: success
-processing_time: 12.590877
-conversion_datetime: 2025-12-30 08:55:08.711894
+processing_time: 13.9555114
+conversion_datetime: 2026-01-17 13:41:03.967475
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.66.0
-  docling-core: 2.57.0
+  docling-serve: 1.10.0
+  docling-jobkit: 1.8.1
+  docling: 2.68.0
+  docling-core: 2.59.0
   docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-parse: 4.7.3
   python: cpython-313 (3.13.11)
   plaform: macOS-26.2-arm64-arm-64bit-Mach-O
 ---
@@ -1507,9 +1507,13 @@ Not all pack sizes may be marketed.
 
 <div style=\"page-break-after: always\"></div>
 
-## Marketing Authorisation Holder and Manufacturer
+## Marketing Authorisation Holder
 
 Almirall, S.A. Ronda General Mitre, 151 08022 Barcelona Spain
+
+## Manufacturer
+
+Industrias Farmacéuticas Almirall, S.A. Ctra. de Martorell 41-61 08740 Sant Andreu de la Barca, Barcelona Spain
 
 For any information about this medicine, please contact the local representative of the Marketing Authorisation Holder:
 
@@ -1521,11 +1525,11 @@ Tél/Tel: +32 (0)2 771 86 37
 
 ## Ísland
 
-Vistor hf.
+Vistor ehf.
 
 Sími: +354 535 70 00
 
-## България/ Eesti/ Ελλάδα/ España/ Hrvatska/ Κύπρος/ Latvija/ Lietuva/ Magyarország/ Malta/ România/ Slovenija
+България/ Eesti/ Ελλάδα/ España/ Hrvatska/ Κύπρος/ Latvija/ Lietuva/ Magyarország/ Malta/ România/ Slovenija
 
 Almirall, S.A.
 
@@ -1539,7 +1543,7 @@ Tel.: +39 02 346181
 
 ## Česká republika/Slovenská republika
 
-## Almirall s.r.o
+Almirall s.r.o
 
 Tel: +420 739 686 638
 
@@ -1549,11 +1553,11 @@ Almirall B.V.
 
 Tel: +31 (0) 30 711 15 10
 
-## Danmark/ Norge/ Suomi/Finland/ Sverige
+## Danmark/ Norge/ Sverige
 
 Almirall ApS
 
-Tlf/ Puh/Tel: +45 70 25 75 75
+Tlf/Tel: +45 70 25 75 75
 
 ## Österreich
 
@@ -1581,15 +1585,19 @@ Tél.: +33(0)1 46 46 19 20
 
 ## Portugal
 
-Almirall - Produtos Farmacêuticos, Lda.
-
-Tel.: +351 21 415 57 50
+Almirall - Produtos Farmacêuticos, Lda. Tel.: +351 21 415 57 50
 
 ## Ireland
 
 Almirall, S.A.
 
 Tel: +353 1800 849322
+
+## Suomi/Finland
+
+Orion Corporation
+
+Puh/Tel: +358 10 4261
 
 ## This leaflet was last revised in .
 
@@ -1859,11 +1867,11 @@ The effects of this medicine in pregnant women are not known. It is better to av
 
 It is not known whether lebrikizumab can pass into breast milk. If you are breast-feeding or are planning to breast-feed, talk to your doctor before using this medicine. You and your doctor should decide if you will breast-feed or use Ebglyss. You should not do both.
 
+<div style=\"page-break-after: always\"></div>
+
 ## Driving and using machines
 
 Ebglyss is unlikely to influence your ability to drive and use machines.
-
-<div style=\"page-break-after: always\"></div>
 
 ## Ebglyss contains polysorbates
 
@@ -1903,15 +1911,13 @@ If you have forgotten to inject a dose of Ebglyss, talk to your doctor, pharmaci
 
 ## If you stop using Ebglyss
 
-Do not stop using Ebglyss without speaking to your doctor first.
+Do not stop using Ebglyss without speaking to your doctor first. If you have any further questions on the use of this medicine, ask your doctor, pharmacist or nurse.
 
-If you have any further questions on the use of this medicine, ask your doctor, pharmacist or nurse.
+<div style=\"page-break-after: always\"></div>
 
 ## 4. Possible side effects
 
 Like all medicines, this medicine can cause side effects, although not everybody gets them.
-
-<div style=\"page-break-after: always\"></div>
 
 Common (may affect up to 1 in 10 people)
 
@@ -1962,15 +1968,17 @@ Ebglyss is a clear to opalescent, colourless to slightly yellow to slightly brow
 
 Not all pack sizes may be marketed.
 
-## Marketing Authorisation Holder and Manufacturer
+## Marketing Authorisation Holder
 
 Almirall, S.A. Ronda General Mitre, 151 08022 Barcelona Spain
 
+## Manufacturer
+
+Industrias Farmacéuticas Almirall, S.A. Ctra. de Martorell 41-61 08740 Sant Andreu de la Barca, Barcelona Spain
+
 For any information about this medicine, please contact the local representative of the Marketing Authorisation Holder:
 
-## België/Belgique/Belgien
-
-Luxembourg/Luxemburg
+## België/Belgique/Belgien Luxembourg/Luxemburg
 
 Almirall N.V
 
@@ -1978,7 +1986,7 @@ Tél/Tel: +32 (0)2 771 86 37
 
 ## Ísland
 
-Vistor hf.
+Vistor ehf.
 
 Sími: +354 535 70 00
 
@@ -1994,9 +2002,7 @@ Almirall SpA
 
 Tel.: +39 02 346181
 
-## Česká republika/Slovenská republika
-
-Almirall s.r.o
+## Česká republika/Slovenská republika Almirall s.r.o
 
 Tel: +420 739 686 638
 
@@ -2006,11 +2012,11 @@ Almirall B.V.
 
 Tel: +31 (0) 30 711 15 10
 
-## Danmark/ Norge/ Suomi/Finland/ Sverige
+## Danmark/ Norge/ Sverige
 
 Almirall ApS
 
-Tlf/ Puh/Tel: +45 70 25 75 75
+Tlf/Tel: +45 70 25 75 75
 
 ## Österreich
 
@@ -2047,6 +2053,12 @@ Tel.: +351 21 415 57 50
 Almirall, S.A.
 
 Tel: +353 1800 849322
+
+## Suomi/Finland
+
+Orion Corporation
+
+Puh/Tel: +358 10 4261
 
 ## This leaflet was last revised in .
 

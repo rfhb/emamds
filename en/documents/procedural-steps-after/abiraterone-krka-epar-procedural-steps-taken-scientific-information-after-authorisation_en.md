@@ -1,18 +1,18 @@
 ---
-document_datetime: 2026-01-05 16:13:53
+document_datetime: 2026-01-16 14:20:15
 document_pages: 3
 document_pathfilename: www.ema.europa.eu/en/documents/procedural-steps-after/abiraterone-krka-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf
 document_name: abiraterone-krka-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf
 version: success
-processing_time: 1.8943318
-conversion_datetime: 2026-01-06 07:23:54.735415
+processing_time: 1.879474
+conversion_datetime: 2026-01-17 13:21:01.968756
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.66.0
-  docling-core: 2.57.0
+  docling-serve: 1.10.0
+  docling-jobkit: 1.8.1
+  docling: 2.68.0
+  docling-core: 2.59.0
   docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-parse: 4.7.3
   python: cpython-313 (3.13.11)
   plaform: macOS-26.2-arm64-arm-64bit-Mach-O
 ---

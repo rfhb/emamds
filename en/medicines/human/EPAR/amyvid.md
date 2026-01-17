@@ -1,18 +1,18 @@
 ---
-document_datetime: 2025-12-29 11:28:33
+document_datetime: 2026-01-16 14:50:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/amyvid.html
 document_name: amyvid.html
 version: success
-processing_time: 0.1086171
-conversion_datetime: 2025-12-31 04:01:03.200429
+processing_time: 0.1194158
+conversion_datetime: 2026-01-17 13:04:36.643917
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.66.0
-  docling-core: 2.57.0
+  docling-serve: 1.10.0
+  docling-jobkit: 1.8.1
+  docling: 2.68.0
+  docling-core: 2.59.0
   docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-parse: 4.7.3
   python: cpython-313 (3.13.11)
   plaform: macOS-26.2-arm64-arm-64bit-Mach-O
 ---
@@ -25,8 +25,6 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 florbetapir (18F) Medicine Human Authorised
-
-On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -113,7 +111,7 @@ English (EN) (121.92 KB - PDF)
 
 [View](/en/documents/overview/amyvid-epar-summary-public_en.pdf)
 
-[Other languages (21)](#file-language-dropdown-538)
+[Other languages (21)](#file-language-dropdown-486)
 
 български (BG) (136.62 KB - PDF)
 
@@ -371,17 +369,17 @@ svenska (SV) (121.69 KB - PDF)
 
 Amyvid : EPAR - Product Information
 
-English (EN) (730.83 KB - PDF)
+English (EN) (590.79 KB - PDF)
 
 **First published:** 23/01/2013
 
-**Last updated:** 21/10/2024
+**Last updated:** 16/01/2026
 
 [View](/en/documents/product-information/amyvid-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-78)
+[Other languages (24)](#file-language-dropdown-945)
 
-български (BG) (853.55 KB - PDF)
+български (BG) (681.26 KB - PDF)
 
 **First published:**
 
@@ -389,11 +387,11 @@ English (EN) (730.83 KB - PDF)
 
 **Last updated:**
 
-21/10/2024
+16/01/2026
 
 [View](/bg/documents/product-information/amyvid-epar-product-information_bg.pdf)
 
-español (ES) (568.24 KB - PDF)
+español (ES) (569.15 KB - PDF)
 
 **First published:**
 
@@ -401,11 +399,11 @@ español (ES) (568.24 KB - PDF)
 
 **Last updated:**
 
-21/10/2024
+16/01/2026
 
 [View](/es/documents/product-information/amyvid-epar-product-information_es.pdf)
 
-čeština (CS) (786.67 KB - PDF)
+čeština (CS) (621 KB - PDF)
 
 **First published:**
 
@@ -413,11 +411,11 @@ español (ES) (568.24 KB - PDF)
 
 **Last updated:**
 
-21/10/2024
+16/01/2026
 
 [View](/cs/documents/product-information/amyvid-epar-product-information_cs.pdf)
 
-dansk (DA) (673.4 KB - PDF)
+dansk (DA) (630.04 KB - PDF)
 
 **First published:**
 
@@ -425,11 +423,11 @@ dansk (DA) (673.4 KB - PDF)
 
 **Last updated:**
 
-21/10/2024
+16/01/2026
 
 [View](/da/documents/product-information/amyvid-epar-product-information_da.pdf)
 
-Deutsch (DE) (738.36 KB - PDF)
+Deutsch (DE) (593.58 KB - PDF)
 
 **First published:**
 
@@ -437,11 +435,11 @@ Deutsch (DE) (738.36 KB - PDF)
 
 **Last updated:**
 
-21/10/2024
+16/01/2026
 
 [View](/de/documents/product-information/amyvid-epar-product-information_de.pdf)
 
-eesti keel (ET) (746.67 KB - PDF)
+eesti keel (ET) (602.48 KB - PDF)
 
 **First published:**
 
@@ -449,11 +447,11 @@ eesti keel (ET) (746.67 KB - PDF)
 
 **Last updated:**
 
-21/10/2024
+16/01/2026
 
 [View](/et/documents/product-information/amyvid-epar-product-information_et.pdf)
 
-ελληνικά (EL) (749.54 KB - PDF)
+ελληνικά (EL) (752.87 KB - PDF)
 
 **First published:**
 
@@ -461,11 +459,11 @@ eesti keel (ET) (746.67 KB - PDF)
 
 **Last updated:**
 
-21/10/2024
+16/01/2026
 
 [View](/el/documents/product-information/amyvid-epar-product-information_el.pdf)
 
-français (FR) (789.18 KB - PDF)
+français (FR) (614.66 KB - PDF)
 
 **First published:**
 
@@ -473,11 +471,11 @@ français (FR) (789.18 KB - PDF)
 
 **Last updated:**
 
-21/10/2024
+16/01/2026
 
 [View](/fr/documents/product-information/amyvid-epar-product-information_fr.pdf)
 
-hrvatski (HR) (778.58 KB - PDF)
+hrvatski (HR) (638.12 KB - PDF)
 
 **First published:**
 
@@ -485,11 +483,11 @@ hrvatski (HR) (778.58 KB - PDF)
 
 **Last updated:**
 
-21/10/2024
+16/01/2026
 
 [View](/hr/documents/product-information/amyvid-epar-product-information_hr.pdf)
 
-íslenska (IS) (618.51 KB - PDF)
+íslenska (IS) (643.61 KB - PDF)
 
 **First published:**
 
@@ -497,11 +495,11 @@ hrvatski (HR) (778.58 KB - PDF)
 
 **Last updated:**
 
-21/10/2024
+16/01/2026
 
 [View](/is/documents/product-information/amyvid-epar-product-information_is.pdf)
 
-italiano (IT) (727.68 KB - PDF)
+italiano (IT) (607.17 KB - PDF)
 
 **First published:**
 
@@ -509,11 +507,11 @@ italiano (IT) (727.68 KB - PDF)
 
 **Last updated:**
 
-21/10/2024
+16/01/2026
 
 [View](/it/documents/product-information/amyvid-epar-product-information_it.pdf)
 
-latviešu valoda (LV) (927.01 KB - PDF)
+latviešu valoda (LV) (773.87 KB - PDF)
 
 **First published:**
 
@@ -521,11 +519,11 @@ latviešu valoda (LV) (927.01 KB - PDF)
 
 **Last updated:**
 
-21/10/2024
+16/01/2026
 
 [View](/lv/documents/product-information/amyvid-epar-product-information_lv.pdf)
 
-lietuvių kalba (LT) (782.77 KB - PDF)
+lietuvių kalba (LT) (655.39 KB - PDF)
 
 **First published:**
 
@@ -533,11 +531,11 @@ lietuvių kalba (LT) (782.77 KB - PDF)
 
 **Last updated:**
 
-21/10/2024
+16/01/2026
 
 [View](/lt/documents/product-information/amyvid-epar-product-information_lt.pdf)
 
-magyar (HU) (818.16 KB - PDF)
+magyar (HU) (685.39 KB - PDF)
 
 **First published:**
 
@@ -545,11 +543,11 @@ magyar (HU) (818.16 KB - PDF)
 
 **Last updated:**
 
-21/10/2024
+16/01/2026
 
 [View](/hu/documents/product-information/amyvid-epar-product-information_hu.pdf)
 
-Malti (MT) (703.97 KB - PDF)
+Malti (MT) (727.04 KB - PDF)
 
 **First published:**
 
@@ -557,11 +555,11 @@ Malti (MT) (703.97 KB - PDF)
 
 **Last updated:**
 
-21/10/2024
+16/01/2026
 
 [View](/mt/documents/product-information/amyvid-epar-product-information_mt.pdf)
 
-Nederlands (NL) (695.75 KB - PDF)
+Nederlands (NL) (560.68 KB - PDF)
 
 **First published:**
 
@@ -569,11 +567,11 @@ Nederlands (NL) (695.75 KB - PDF)
 
 **Last updated:**
 
-21/10/2024
+16/01/2026
 
 [View](/nl/documents/product-information/amyvid-epar-product-information_nl.pdf)
 
-norsk (NO) (625.74 KB - PDF)
+norsk (NO) (617.59 KB - PDF)
 
 **First published:**
 
@@ -581,11 +579,11 @@ norsk (NO) (625.74 KB - PDF)
 
 **Last updated:**
 
-21/10/2024
+16/01/2026
 
 [View](/no/documents/product-information/amyvid-epar-product-information_no.pdf)
 
-polski (PL) (839.86 KB - PDF)
+polski (PL) (642.09 KB - PDF)
 
 **First published:**
 
@@ -593,11 +591,11 @@ polski (PL) (839.86 KB - PDF)
 
 **Last updated:**
 
-21/10/2024
+16/01/2026
 
 [View](/pl/documents/product-information/amyvid-epar-product-information_pl.pdf)
 
-português (PT) (688.39 KB - PDF)
+português (PT) (548.68 KB - PDF)
 
 **First published:**
 
@@ -605,11 +603,11 @@ português (PT) (688.39 KB - PDF)
 
 **Last updated:**
 
-21/10/2024
+16/01/2026
 
 [View](/pt/documents/product-information/amyvid-epar-product-information_pt.pdf)
 
-română (RO) (696.69 KB - PDF)
+română (RO) (721.59 KB - PDF)
 
 **First published:**
 
@@ -617,11 +615,11 @@ română (RO) (696.69 KB - PDF)
 
 **Last updated:**
 
-21/10/2024
+16/01/2026
 
 [View](/ro/documents/product-information/amyvid-epar-product-information_ro.pdf)
 
-slovenčina (SK) (799.76 KB - PDF)
+slovenčina (SK) (661.6 KB - PDF)
 
 **First published:**
 
@@ -629,11 +627,11 @@ slovenčina (SK) (799.76 KB - PDF)
 
 **Last updated:**
 
-21/10/2024
+16/01/2026
 
 [View](/sk/documents/product-information/amyvid-epar-product-information_sk.pdf)
 
-slovenščina (SL) (708.7 KB - PDF)
+slovenščina (SL) (636.75 KB - PDF)
 
 **First published:**
 
@@ -641,11 +639,11 @@ slovenščina (SL) (708.7 KB - PDF)
 
 **Last updated:**
 
-21/10/2024
+16/01/2026
 
 [View](/sl/documents/product-information/amyvid-epar-product-information_sl.pdf)
 
-Suomi (FI) (755.93 KB - PDF)
+Suomi (FI) (604.07 KB - PDF)
 
 **First published:**
 
@@ -653,11 +651,11 @@ Suomi (FI) (755.93 KB - PDF)
 
 **Last updated:**
 
-21/10/2024
+16/01/2026
 
 [View](/fi/documents/product-information/amyvid-epar-product-information_fi.pdf)
 
-svenska (SV) (731.38 KB - PDF)
+svenska (SV) (580.71 KB - PDF)
 
 **First published:**
 
@@ -665,11 +663,11 @@ svenska (SV) (731.38 KB - PDF)
 
 **Last updated:**
 
-21/10/2024
+16/01/2026
 
 [View](/sv/documents/product-information/amyvid-epar-product-information_sv.pdf)
 
-**Latest procedure affecting product information:** IB/0047/G 18/10/2024
+**Latest procedure affecting product information:** VR/0000315508 16/01/2026
 
 icon globe
 
@@ -695,7 +693,7 @@ English (EN) (33.04 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/amyvid-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-795)
+[Other languages (24)](#file-language-dropdown-127)
 
 български (BG) (34.94 KB - PDF)
 
@@ -1009,7 +1007,7 @@ Eli Lilly Nederland B.V.
 
 Papendorpseweg 83
 
-Opinion adopted 18/10/2012 Marketing authorisation issued 14/01/2013 Revision 15
+Opinion adopted 18/10/2012 Marketing authorisation issued 14/01/2013 Revision 16
 
 ## Assessment history
 
@@ -1021,13 +1019,21 @@ Collapse section
 
 Amyvid : EPAR - Procedural steps taken and scientific information after authorisation
 
+English (EN) (133.17 KB - PDF)
+
+**First published:** 16/01/2026
+
+[View](/en/documents/procedural-steps-after/amyvid-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf)
+
+Amyvid : EPAR - Procedural steps taken and scientific information after authorisation (archived)
+
 English (EN) (162.74 KB - PDF)
 
 **First published:** 16/05/2013
 
 **Last updated:** 21/10/2024
 
-[View](/en/documents/procedural-steps-after/amyvid-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf)
+[View](/en/documents/procedural-steps-after/amyvid-epar-procedural-steps-taken-scientific-information-after-authorisation-archived_en.pdf)
 
 ## Initial marketing authorisation documents
 
@@ -1077,7 +1083,7 @@ English (EN) (73.42 KB - PDF)
 
 - [Medicines](https://www.ema.europa.eu/en/search?f%5B0%5D=ema_search_topics%3A61)
 
-**This page was last updated on** 21/10/2024
+**This page was last updated on** 16/01/2026
 
 ## Share this page
 

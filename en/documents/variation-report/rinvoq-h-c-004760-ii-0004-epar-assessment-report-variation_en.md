@@ -1,11 +1,11 @@
 ---
-document_datetime: 2023-09-21 20:20:05
-document_pages: 1
+document_datetime: 2026-01-17 13:12:34.451366
+document_pages: 187
 document_pathfilename: www.ema.europa.eu/en/documents/variation-report/rinvoq-h-c-004760-ii-0004-epar-assessment-report-variation_en.pdf
 document_name: rinvoq-h-c-004760-ii-0004-epar-assessment-report-variation_en.pdf
 version: success
-processing_time: 317.0176055
-conversion_datetime: 2026-01-17 13:17:55.339495
+processing_time: 255.7858453
+conversion_datetime: 2026-01-17 23:24:27.033253
 docling_version:
   docling-serve: 1.10.0
   docling-jobkit: 1.8.1

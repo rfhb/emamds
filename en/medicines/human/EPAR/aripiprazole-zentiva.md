@@ -1,18 +1,18 @@
 ---
-document_datetime: 2025-12-29 11:20:03
+document_datetime: 2026-01-16 16:24:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/aripiprazole-zentiva.html
 document_name: aripiprazole-zentiva.html
 version: success
-processing_time: 0.1538058
-conversion_datetime: 2025-12-30 22:16:56.12726
+processing_time: 0.1570308
+conversion_datetime: 2026-01-17 13:11:21.643236
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.66.0
-  docling-core: 2.57.0
+  docling-serve: 1.10.0
+  docling-jobkit: 1.8.1
+  docling: 2.68.0
+  docling-core: 2.59.0
   docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-parse: 4.7.3
   python: cpython-313 (3.13.11)
   plaform: macOS-26.2-arm64-arm-64bit-Mach-O
 ---
@@ -25,8 +25,6 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 aripiprazole Medicine Human Authorised
-
-On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -119,7 +117,7 @@ English (EN) (100.03 KB - PDF)
 
 [View](/en/documents/overview/aripiprazole-zentiva-epar-summary-public_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-23)
+[Other languages (22)](#file-language-dropdown-651)
 
 български (BG) (124.19 KB - PDF)
 
@@ -399,17 +397,17 @@ English (EN) (59.84 KB - PDF)
 
 Aripiprazole Zentiva : EPAR - Product Information
 
-English (EN) (332.13 KB - PDF)
+English (EN) (350.58 KB - PDF)
 
 **First published:** 30/07/2015
 
-**Last updated:** 17/07/2025
+**Last updated:** 16/01/2026
 
 [View](/en/documents/product-information/aripiprazole-zentiva-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-481)
+[Other languages (24)](#file-language-dropdown-483)
 
-български (BG) (468.12 KB - PDF)
+български (BG) (421.13 KB - PDF)
 
 **First published:**
 
@@ -417,11 +415,11 @@ English (EN) (332.13 KB - PDF)
 
 **Last updated:**
 
-17/07/2025
+16/01/2026
 
 [View](/bg/documents/product-information/aripiprazole-zentiva-epar-product-information_bg.pdf)
 
-español (ES) (331.71 KB - PDF)
+español (ES) (290.24 KB - PDF)
 
 **First published:**
 
@@ -429,11 +427,11 @@ español (ES) (331.71 KB - PDF)
 
 **Last updated:**
 
-17/07/2025
+16/01/2026
 
 [View](/es/documents/product-information/aripiprazole-zentiva-epar-product-information_es.pdf)
 
-čeština (CS) (436.99 KB - PDF)
+čeština (CS) (407.96 KB - PDF)
 
 **First published:**
 
@@ -441,11 +439,11 @@ español (ES) (331.71 KB - PDF)
 
 **Last updated:**
 
-17/07/2025
+16/01/2026
 
 [View](/cs/documents/product-information/aripiprazole-zentiva-epar-product-information_cs.pdf)
 
-dansk (DA) (412.8 KB - PDF)
+dansk (DA) (718.41 KB - PDF)
 
 **First published:**
 
@@ -453,11 +451,11 @@ dansk (DA) (412.8 KB - PDF)
 
 **Last updated:**
 
-17/07/2025
+16/01/2026
 
 [View](/da/documents/product-information/aripiprazole-zentiva-epar-product-information_da.pdf)
 
-Deutsch (DE) (358.17 KB - PDF)
+Deutsch (DE) (328.03 KB - PDF)
 
 **First published:**
 
@@ -465,11 +463,11 @@ Deutsch (DE) (358.17 KB - PDF)
 
 **Last updated:**
 
-17/07/2025
+16/01/2026
 
 [View](/de/documents/product-information/aripiprazole-zentiva-epar-product-information_de.pdf)
 
-eesti keel (ET) (418.73 KB - PDF)
+eesti keel (ET) (369.3 KB - PDF)
 
 **First published:**
 
@@ -477,11 +475,11 @@ eesti keel (ET) (418.73 KB - PDF)
 
 **Last updated:**
 
-17/07/2025
+16/01/2026
 
 [View](/et/documents/product-information/aripiprazole-zentiva-epar-product-information_et.pdf)
 
-ελληνικά (EL) (531.45 KB - PDF)
+ελληνικά (EL) (498.39 KB - PDF)
 
 **First published:**
 
@@ -489,11 +487,11 @@ eesti keel (ET) (418.73 KB - PDF)
 
 **Last updated:**
 
-17/07/2025
+16/01/2026
 
 [View](/el/documents/product-information/aripiprazole-zentiva-epar-product-information_el.pdf)
 
-français (FR) (735.69 KB - PDF)
+français (FR) (397.94 KB - PDF)
 
 **First published:**
 
@@ -501,11 +499,11 @@ français (FR) (735.69 KB - PDF)
 
 **Last updated:**
 
-17/07/2025
+16/01/2026
 
 [View](/fr/documents/product-information/aripiprazole-zentiva-epar-product-information_fr.pdf)
 
-hrvatski (HR) (394.87 KB - PDF)
+hrvatski (HR) (369.96 KB - PDF)
 
 **First published:**
 
@@ -513,11 +511,11 @@ hrvatski (HR) (394.87 KB - PDF)
 
 **Last updated:**
 
-17/07/2025
+16/01/2026
 
 [View](/hr/documents/product-information/aripiprazole-zentiva-epar-product-information_hr.pdf)
 
-íslenska (IS) (305.85 KB - PDF)
+íslenska (IS) (290.49 KB - PDF)
 
 **First published:**
 
@@ -525,11 +523,11 @@ hrvatski (HR) (394.87 KB - PDF)
 
 **Last updated:**
 
-17/07/2025
+16/01/2026
 
 [View](/is/documents/product-information/aripiprazole-zentiva-epar-product-information_is.pdf)
 
-italiano (IT) (391.46 KB - PDF)
+italiano (IT) (368.08 KB - PDF)
 
 **First published:**
 
@@ -537,11 +535,11 @@ italiano (IT) (391.46 KB - PDF)
 
 **Last updated:**
 
-17/07/2025
+16/01/2026
 
 [View](/it/documents/product-information/aripiprazole-zentiva-epar-product-information_it.pdf)
 
-latviešu valoda (LV) (415.16 KB - PDF)
+latviešu valoda (LV) (391.15 KB - PDF)
 
 **First published:**
 
@@ -549,11 +547,11 @@ latviešu valoda (LV) (415.16 KB - PDF)
 
 **Last updated:**
 
-17/07/2025
+16/01/2026
 
 [View](/lv/documents/product-information/aripiprazole-zentiva-epar-product-information_lv.pdf)
 
-lietuvių kalba (LT) (413.3 KB - PDF)
+lietuvių kalba (LT) (383.29 KB - PDF)
 
 **First published:**
 
@@ -561,11 +559,11 @@ lietuvių kalba (LT) (413.3 KB - PDF)
 
 **Last updated:**
 
-17/07/2025
+16/01/2026
 
 [View](/lt/documents/product-information/aripiprazole-zentiva-epar-product-information_lt.pdf)
 
-magyar (HU) (413.79 KB - PDF)
+magyar (HU) (387.23 KB - PDF)
 
 **First published:**
 
@@ -573,11 +571,11 @@ magyar (HU) (413.79 KB - PDF)
 
 **Last updated:**
 
-17/07/2025
+16/01/2026
 
 [View](/hu/documents/product-information/aripiprazole-zentiva-epar-product-information_hu.pdf)
 
-Malti (MT) (501.94 KB - PDF)
+Malti (MT) (609.38 KB - PDF)
 
 **First published:**
 
@@ -585,11 +583,11 @@ Malti (MT) (501.94 KB - PDF)
 
 **Last updated:**
 
-17/07/2025
+16/01/2026
 
 [View](/mt/documents/product-information/aripiprazole-zentiva-epar-product-information_mt.pdf)
 
-Nederlands (NL) (371.63 KB - PDF)
+Nederlands (NL) (336.15 KB - PDF)
 
 **First published:**
 
@@ -597,11 +595,11 @@ Nederlands (NL) (371.63 KB - PDF)
 
 **Last updated:**
 
-17/07/2025
+16/01/2026
 
 [View](/nl/documents/product-information/aripiprazole-zentiva-epar-product-information_nl.pdf)
 
-norsk (NO) (310.71 KB - PDF)
+norsk (NO) (289.83 KB - PDF)
 
 **First published:**
 
@@ -609,11 +607,11 @@ norsk (NO) (310.71 KB - PDF)
 
 **Last updated:**
 
-17/07/2025
+16/01/2026
 
 [View](/no/documents/product-information/aripiprazole-zentiva-epar-product-information_no.pdf)
 
-polski (PL) (461.16 KB - PDF)
+polski (PL) (407.37 KB - PDF)
 
 **First published:**
 
@@ -621,11 +619,11 @@ polski (PL) (461.16 KB - PDF)
 
 **Last updated:**
 
-17/07/2025
+16/01/2026
 
 [View](/pl/documents/product-information/aripiprazole-zentiva-epar-product-information_pl.pdf)
 
-português (PT) (323.56 KB - PDF)
+português (PT) (290.22 KB - PDF)
 
 **First published:**
 
@@ -633,11 +631,11 @@ português (PT) (323.56 KB - PDF)
 
 **Last updated:**
 
-17/07/2025
+16/01/2026
 
 [View](/pt/documents/product-information/aripiprazole-zentiva-epar-product-information_pt.pdf)
 
-română (RO) (568.87 KB - PDF)
+română (RO) (435.4 KB - PDF)
 
 **First published:**
 
@@ -645,11 +643,11 @@ română (RO) (568.87 KB - PDF)
 
 **Last updated:**
 
-17/07/2025
+16/01/2026
 
 [View](/ro/documents/product-information/aripiprazole-zentiva-epar-product-information_ro.pdf)
 
-slovenčina (SK) (413.01 KB - PDF)
+slovenčina (SK) (382.41 KB - PDF)
 
 **First published:**
 
@@ -657,11 +655,11 @@ slovenčina (SK) (413.01 KB - PDF)
 
 **Last updated:**
 
-17/07/2025
+16/01/2026
 
 [View](/sk/documents/product-information/aripiprazole-zentiva-epar-product-information_sk.pdf)
 
-slovenščina (SL) (496.4 KB - PDF)
+slovenščina (SL) (366.44 KB - PDF)
 
 **First published:**
 
@@ -669,11 +667,11 @@ slovenščina (SL) (496.4 KB - PDF)
 
 **Last updated:**
 
-17/07/2025
+16/01/2026
 
 [View](/sl/documents/product-information/aripiprazole-zentiva-epar-product-information_sl.pdf)
 
-Suomi (FI) (321.29 KB - PDF)
+Suomi (FI) (425.16 KB - PDF)
 
 **First published:**
 
@@ -681,11 +679,11 @@ Suomi (FI) (321.29 KB - PDF)
 
 **Last updated:**
 
-17/07/2025
+16/01/2026
 
 [View](/fi/documents/product-information/aripiprazole-zentiva-epar-product-information_fi.pdf)
 
-svenska (SV) (367.67 KB - PDF)
+svenska (SV) (350.38 KB - PDF)
 
 **First published:**
 
@@ -693,11 +691,11 @@ svenska (SV) (367.67 KB - PDF)
 
 **Last updated:**
 
-17/07/2025
+16/01/2026
 
 [View](/sv/documents/product-information/aripiprazole-zentiva-epar-product-information_sv.pdf)
 
-**Latest procedure affecting product information:** N/0000284695 15/07/2025
+**Latest procedure affecting product information:** N/0000321433 16/01/2026
 
 icon globe
 
@@ -723,7 +721,7 @@ English (EN) (12.08 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/aripiprazole-zentiva-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-961)
+[Other languages (24)](#file-language-dropdown-649)
 
 български (BG) (29.05 KB - PDF)
 
@@ -1048,7 +1046,7 @@ Zentiva, k.s.
 
 U kabelovny 130
 
-Opinion adopted 23/04/2015 Marketing authorisation issued 25/06/2015 Revision 12
+Opinion adopted 23/04/2015 Marketing authorisation issued 25/06/2015 Revision 13
 
 ## Assessment history
 
@@ -1060,11 +1058,11 @@ Collapse section
 
 Aripiprazole Zentiva : EPAR - Procedural steps taken and scientific information after authorisation
 
-English (EN) (215.18 KB - PDF)
+English (EN) (145.39 KB - PDF)
 
 **First published:** 17/06/2025
 
-**Last updated:** 17/07/2025
+**Last updated:** 16/01/2026
 
 [View](/en/documents/procedural-steps-after/aripiprazole-zentiva-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf)
 
@@ -1126,7 +1124,7 @@ English (EN) (66.45 KB - PDF)
 
 [View](/en/documents/other/questions-and-answers-generic-medicines_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-573)
+[Other languages (22)](#file-language-dropdown-597)
 
 български (BG) (93.16 KB - PDF)
 
@@ -1404,7 +1402,7 @@ English (EN) (127.59 KB - DOCX)
 
 [View](/en/documents/product-information-tracked-changes/aripiprazole-zentiva-epar-product-information-tracked-changes_en.docx)
 
-[Other languages (24)](#file-language-dropdown-7)
+[Other languages (24)](#file-language-dropdown-1)
 
 български (BG) (181.79 KB - DOCX)
 
@@ -1603,7 +1601,7 @@ svenska (SV) (182.58 KB - DOCX)
 - [Generic and hybrid medicines](https://www.ema.europa.eu/en/search?f%5B0%5D=ema_search_topics%3A54)
 - [Medicines](https://www.ema.europa.eu/en/search?f%5B0%5D=ema_search_topics%3A61)
 
-**This page was last updated on** 17/06/2025
+**This page was last updated on** 16/01/2026
 
 ## Share this page
 

@@ -1,18 +1,18 @@
 ---
-document_datetime: 2026-01-13 11:06:00
+document_datetime: 2026-01-15 09:41:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/blincyto.html
 document_name: blincyto.html
 version: success
-processing_time: 0.1458969
-conversion_datetime: 2026-01-14 08:35:08.774373
+processing_time: 0.1528341
+conversion_datetime: 2026-01-17 13:37:53.97827
 docling_version:
   docling-serve: 1.10.0
   docling-jobkit: 1.8.1
   docling: 2.68.0
   docling-core: 2.59.0
   docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-parse: 4.7.3
   python: cpython-313 (3.13.11)
   plaform: macOS-26.2-arm64-arm-64bit-Mach-O
 ---
@@ -58,7 +58,7 @@ Blincyto is used in children aged 1 month and older with Ph-negative ALL, CD19-p
 - has not improved or has come back after two previous therapies or has come back following an allogenic haematopoietic stem cell transplantation (a procedure where the patient's bone marrow is replaced by stem cells from a donor to form new bone marrow that produces healthy cells);
 - has come back for the first time and is considered high risk. Blincyto is used as part of consolidation therapy.
 
-ALL is rare, and Blincyto was designated an 'orphan medicine' (a medicine used in rare diseases) on 24 July 2009. Further information on the orphan designation can be found [here](https://ema.europa.eu/en/medicines/human/orphan-designations/eu309650) .
+ALL is rare, and Blincyto was designated an 'orphan medicine' (a medicine used in rare diseases) on 24 July 2009.
 
 Blincyto contains the active substance blinatumomab.
 
@@ -148,7 +148,7 @@ English (EN) (138.93 KB - PDF)
 
 [View](/en/documents/overview/blincyto-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-668)
+[Other languages (22)](#file-language-dropdown-114)
 
 български (BG) (166.13 KB - PDF)
 
@@ -428,17 +428,17 @@ English (EN) (2.28 MB - PDF)
 
 Blincyto : EPAR - Product Information
 
-English (EN) (1.06 MB - PDF)
+English (EN) (1.07 MB - PDF)
 
 **First published:** 07/12/2015
 
-**Last updated:** 13/01/2026
+**Last updated:** 15/01/2026
 
 [View](/en/documents/product-information/blincyto-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-684)
+[Other languages (24)](#file-language-dropdown-781)
 
-български (BG) (1.39 MB - PDF)
+български (BG) (1.26 MB - PDF)
 
 **First published:**
 
@@ -446,11 +446,11 @@ English (EN) (1.06 MB - PDF)
 
 **Last updated:**
 
-13/01/2026
+15/01/2026
 
 [View](/bg/documents/product-information/blincyto-epar-product-information_bg.pdf)
 
-español (ES) (1.34 MB - PDF)
+español (ES) (1.21 MB - PDF)
 
 **First published:**
 
@@ -458,11 +458,11 @@ español (ES) (1.34 MB - PDF)
 
 **Last updated:**
 
-13/01/2026
+15/01/2026
 
 [View](/es/documents/product-information/blincyto-epar-product-information_es.pdf)
 
-čeština (CS) (1.42 MB - PDF)
+čeština (CS) (1.26 MB - PDF)
 
 **First published:**
 
@@ -470,11 +470,11 @@ español (ES) (1.34 MB - PDF)
 
 **Last updated:**
 
-13/01/2026
+15/01/2026
 
 [View](/cs/documents/product-information/blincyto-epar-product-information_cs.pdf)
 
-dansk (DA) (1.36 MB - PDF)
+dansk (DA) (1.23 MB - PDF)
 
 **First published:**
 
@@ -482,11 +482,11 @@ dansk (DA) (1.36 MB - PDF)
 
 **Last updated:**
 
-13/01/2026
+15/01/2026
 
 [View](/da/documents/product-information/blincyto-epar-product-information_da.pdf)
 
-Deutsch (DE) (1.38 MB - PDF)
+Deutsch (DE) (1.26 MB - PDF)
 
 **First published:**
 
@@ -494,11 +494,11 @@ Deutsch (DE) (1.38 MB - PDF)
 
 **Last updated:**
 
-13/01/2026
+15/01/2026
 
 [View](/de/documents/product-information/blincyto-epar-product-information_de.pdf)
 
-eesti keel (ET) (1.31 MB - PDF)
+eesti keel (ET) (1.19 MB - PDF)
 
 **First published:**
 
@@ -506,11 +506,11 @@ eesti keel (ET) (1.31 MB - PDF)
 
 **Last updated:**
 
-13/01/2026
+15/01/2026
 
 [View](/et/documents/product-information/blincyto-epar-product-information_et.pdf)
 
-ελληνικά (EL) (1.39 MB - PDF)
+ελληνικά (EL) (1.27 MB - PDF)
 
 **First published:**
 
@@ -518,11 +518,11 @@ eesti keel (ET) (1.31 MB - PDF)
 
 **Last updated:**
 
-13/01/2026
+15/01/2026
 
 [View](/el/documents/product-information/blincyto-epar-product-information_el.pdf)
 
-français (FR) (1.42 MB - PDF)
+français (FR) (1.27 MB - PDF)
 
 **First published:**
 
@@ -530,11 +530,11 @@ français (FR) (1.42 MB - PDF)
 
 **Last updated:**
 
-13/01/2026
+15/01/2026
 
 [View](/fr/documents/product-information/blincyto-epar-product-information_fr.pdf)
 
-hrvatski (HR) (1.36 MB - PDF)
+hrvatski (HR) (1.23 MB - PDF)
 
 **First published:**
 
@@ -542,11 +542,11 @@ hrvatski (HR) (1.36 MB - PDF)
 
 **Last updated:**
 
-13/01/2026
+15/01/2026
 
 [View](/hr/documents/product-information/blincyto-epar-product-information_hr.pdf)
 
-íslenska (IS) (1.31 MB - PDF)
+íslenska (IS) (1.18 MB - PDF)
 
 **First published:**
 
@@ -554,11 +554,11 @@ hrvatski (HR) (1.36 MB - PDF)
 
 **Last updated:**
 
-13/01/2026
+15/01/2026
 
 [View](/is/documents/product-information/blincyto-epar-product-information_is.pdf)
 
-italiano (IT) (1.33 MB - PDF)
+italiano (IT) (1.23 MB - PDF)
 
 **First published:**
 
@@ -566,11 +566,11 @@ italiano (IT) (1.33 MB - PDF)
 
 **Last updated:**
 
-13/01/2026
+15/01/2026
 
 [View](/it/documents/product-information/blincyto-epar-product-information_it.pdf)
 
-latviešu valoda (LV) (1.34 MB - PDF)
+latviešu valoda (LV) (1.23 MB - PDF)
 
 **First published:**
 
@@ -578,11 +578,11 @@ latviešu valoda (LV) (1.34 MB - PDF)
 
 **Last updated:**
 
-13/01/2026
+15/01/2026
 
 [View](/lv/documents/product-information/blincyto-epar-product-information_lv.pdf)
 
-lietuvių kalba (LT) (1.41 MB - PDF)
+lietuvių kalba (LT) (1.25 MB - PDF)
 
 **First published:**
 
@@ -590,11 +590,11 @@ lietuvių kalba (LT) (1.41 MB - PDF)
 
 **Last updated:**
 
-13/01/2026
+15/01/2026
 
 [View](/lt/documents/product-information/blincyto-epar-product-information_lt.pdf)
 
-magyar (HU) (1.44 MB - PDF)
+magyar (HU) (1.3 MB - PDF)
 
 **First published:**
 
@@ -602,11 +602,11 @@ magyar (HU) (1.44 MB - PDF)
 
 **Last updated:**
 
-13/01/2026
+15/01/2026
 
 [View](/hu/documents/product-information/blincyto-epar-product-information_hu.pdf)
 
-Malti (MT) (1.57 MB - PDF)
+Malti (MT) (1.37 MB - PDF)
 
 **First published:**
 
@@ -614,11 +614,11 @@ Malti (MT) (1.57 MB - PDF)
 
 **Last updated:**
 
-13/01/2026
+15/01/2026
 
 [View](/mt/documents/product-information/blincyto-epar-product-information_mt.pdf)
 
-Nederlands (NL) (1.33 MB - PDF)
+Nederlands (NL) (1.2 MB - PDF)
 
 **First published:**
 
@@ -626,11 +626,11 @@ Nederlands (NL) (1.33 MB - PDF)
 
 **Last updated:**
 
-13/01/2026
+15/01/2026
 
 [View](/nl/documents/product-information/blincyto-epar-product-information_nl.pdf)
 
-norsk (NO) (1.31 MB - PDF)
+norsk (NO) (1.19 MB - PDF)
 
 **First published:**
 
@@ -638,11 +638,11 @@ norsk (NO) (1.31 MB - PDF)
 
 **Last updated:**
 
-13/01/2026
+15/01/2026
 
 [View](/no/documents/product-information/blincyto-epar-product-information_no.pdf)
 
-polski (PL) (1.39 MB - PDF)
+polski (PL) (1.24 MB - PDF)
 
 **First published:**
 
@@ -650,11 +650,11 @@ polski (PL) (1.39 MB - PDF)
 
 **Last updated:**
 
-13/01/2026
+15/01/2026
 
 [View](/pl/documents/product-information/blincyto-epar-product-information_pl.pdf)
 
-português (PT) (1.34 MB - PDF)
+português (PT) (1.18 MB - PDF)
 
 **First published:**
 
@@ -662,11 +662,11 @@ português (PT) (1.34 MB - PDF)
 
 **Last updated:**
 
-13/01/2026
+15/01/2026
 
 [View](/pt/documents/product-information/blincyto-epar-product-information_pt.pdf)
 
-română (RO) (1.38 MB - PDF)
+română (RO) (1.23 MB - PDF)
 
 **First published:**
 
@@ -674,11 +674,11 @@ română (RO) (1.38 MB - PDF)
 
 **Last updated:**
 
-13/01/2026
+15/01/2026
 
 [View](/ro/documents/product-information/blincyto-epar-product-information_ro.pdf)
 
-slovenčina (SK) (1.47 MB - PDF)
+slovenčina (SK) (1.27 MB - PDF)
 
 **First published:**
 
@@ -686,11 +686,11 @@ slovenčina (SK) (1.47 MB - PDF)
 
 **Last updated:**
 
-13/01/2026
+15/01/2026
 
 [View](/sk/documents/product-information/blincyto-epar-product-information_sk.pdf)
 
-slovenščina (SL) (1.34 MB - PDF)
+slovenščina (SL) (1.23 MB - PDF)
 
 **First published:**
 
@@ -698,11 +698,11 @@ slovenščina (SL) (1.34 MB - PDF)
 
 **Last updated:**
 
-13/01/2026
+15/01/2026
 
 [View](/sl/documents/product-information/blincyto-epar-product-information_sl.pdf)
 
-Suomi (FI) (1.34 MB - PDF)
+Suomi (FI) (1.2 MB - PDF)
 
 **First published:**
 
@@ -710,11 +710,11 @@ Suomi (FI) (1.34 MB - PDF)
 
 **Last updated:**
 
-13/01/2026
+15/01/2026
 
 [View](/fi/documents/product-information/blincyto-epar-product-information_fi.pdf)
 
-svenska (SV) (1.34 MB - PDF)
+svenska (SV) (1.19 MB - PDF)
 
 **First published:**
 
@@ -722,7 +722,7 @@ svenska (SV) (1.34 MB - PDF)
 
 **Last updated:**
 
-13/01/2026
+15/01/2026
 
 [View](/sv/documents/product-information/blincyto-epar-product-information_sv.pdf)
 
@@ -752,7 +752,7 @@ English (EN) (7.92 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/blincyto-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-629)
+[Other languages (24)](#file-language-dropdown-448)
 
 български (BG) (47.62 KB - PDF)
 
@@ -1384,10 +1384,6 @@ Blincyto: measures to avoid medication errors
 
 Reference Number: EMA/677776/2015
 
-Summary:
-
-Educational materials to help use the medicine correctly
-
 English (EN) (106.9 KB - PDF)
 
 **First published:** 08/12/2015
@@ -1408,7 +1404,7 @@ English (EN) (106.9 KB - PDF)
 
 - [Medicines](https://www.ema.europa.eu/en/search?f%5B0%5D=ema_search_topics%3A61)
 
-**This page was last updated on** 13/01/2026
+**This page was last updated on** 15/01/2026
 
 ## Share this page
 

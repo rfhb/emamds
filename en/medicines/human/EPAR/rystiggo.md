@@ -1,18 +1,18 @@
 ---
-document_datetime: 2025-12-29 11:45:04
+document_datetime: 2026-01-16 17:42:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/rystiggo.html
 document_name: rystiggo.html
 version: success
-processing_time: 0.1107572
-conversion_datetime: 2025-12-30 01:29:05.998967
+processing_time: 0.1183933
+conversion_datetime: 2026-01-17 13:39:38.827503
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.66.0
-  docling-core: 2.57.0
+  docling-serve: 1.10.0
+  docling-jobkit: 1.8.1
+  docling: 2.68.0
+  docling-core: 2.59.0
   docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-parse: 4.7.3
   python: cpython-313 (3.13.11)
   plaform: macOS-26.2-arm64-arm-64bit-Mach-O
 ---
@@ -25,8 +25,6 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 rozanolixizumab Medicine Human Authorised
-
-On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -113,7 +111,7 @@ English (EN) (120.5 KB - PDF)
 
 [View](/en/documents/overview/rystiggo-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-685)
+[Other languages (22)](#file-language-dropdown-245)
 
 български (BG) (147.32 KB - PDF)
 
@@ -305,17 +303,17 @@ English (EN) (1.45 MB - PDF)
 
 Rystiggo : EPAR - Product information
 
-English (EN) (835.08 KB - PDF)
+English (EN) (1.11 MB - PDF)
 
 **First published:** 26/02/2024
 
-**Last updated:** 24/10/2025
+**Last updated:** 16/01/2026
 
 [View](/en/documents/product-information/rystiggo-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-549)
+[Other languages (24)](#file-language-dropdown-607)
 
-български (BG) (1.23 MB - PDF)
+български (BG) (960.68 KB - PDF)
 
 **First published:**
 
@@ -323,11 +321,11 @@ English (EN) (835.08 KB - PDF)
 
 **Last updated:**
 
-24/10/2025
+16/01/2026
 
 [View](/bg/documents/product-information/rystiggo-epar-product-information_bg.pdf)
 
-español (ES) (761.57 KB - PDF)
+español (ES) (1.1 MB - PDF)
 
 **First published:**
 
@@ -335,11 +333,11 @@ español (ES) (761.57 KB - PDF)
 
 **Last updated:**
 
-24/10/2025
+16/01/2026
 
 [View](/es/documents/product-information/rystiggo-epar-product-information_es.pdf)
 
-čeština (CS) (834.2 KB - PDF)
+čeština (CS) (1.1 MB - PDF)
 
 **First published:**
 
@@ -347,11 +345,11 @@ español (ES) (761.57 KB - PDF)
 
 **Last updated:**
 
-24/10/2025
+16/01/2026
 
 [View](/cs/documents/product-information/rystiggo-epar-product-information_cs.pdf)
 
-dansk (DA) (849.62 KB - PDF)
+dansk (DA) (736.12 KB - PDF)
 
 **First published:**
 
@@ -359,11 +357,11 @@ dansk (DA) (849.62 KB - PDF)
 
 **Last updated:**
 
-24/10/2025
+16/01/2026
 
 [View](/da/documents/product-information/rystiggo-epar-product-information_da.pdf)
 
-Deutsch (DE) (994.57 KB - PDF)
+Deutsch (DE) (998.46 KB - PDF)
 
 **First published:**
 
@@ -371,11 +369,11 @@ Deutsch (DE) (994.57 KB - PDF)
 
 **Last updated:**
 
-24/10/2025
+16/01/2026
 
 [View](/de/documents/product-information/rystiggo-epar-product-information_de.pdf)
 
-eesti keel (ET) (730.6 KB - PDF)
+eesti keel (ET) (699.52 KB - PDF)
 
 **First published:**
 
@@ -383,11 +381,11 @@ eesti keel (ET) (730.6 KB - PDF)
 
 **Last updated:**
 
-24/10/2025
+16/01/2026
 
 [View](/et/documents/product-information/rystiggo-epar-product-information_et.pdf)
 
-ελληνικά (EL) (795.32 KB - PDF)
+ελληνικά (EL) (1.08 MB - PDF)
 
 **First published:**
 
@@ -395,11 +393,11 @@ eesti keel (ET) (730.6 KB - PDF)
 
 **Last updated:**
 
-24/10/2025
+16/01/2026
 
 [View](/el/documents/product-information/rystiggo-epar-product-information_el.pdf)
 
-français (FR) (747.42 KB - PDF)
+français (FR) (1.05 MB - PDF)
 
 **First published:**
 
@@ -407,11 +405,11 @@ français (FR) (747.42 KB - PDF)
 
 **Last updated:**
 
-24/10/2025
+16/01/2026
 
 [View](/fr/documents/product-information/rystiggo-epar-product-information_fr.pdf)
 
-hrvatski (HR) (782.13 KB - PDF)
+hrvatski (HR) (760.24 KB - PDF)
 
 **First published:**
 
@@ -419,11 +417,11 @@ hrvatski (HR) (782.13 KB - PDF)
 
 **Last updated:**
 
-24/10/2025
+16/01/2026
 
 [View](/hr/documents/product-information/rystiggo-epar-product-information_hr.pdf)
 
-íslenska (IS) (697.96 KB - PDF)
+íslenska (IS) (902.67 KB - PDF)
 
 **First published:**
 
@@ -431,11 +429,11 @@ hrvatski (HR) (782.13 KB - PDF)
 
 **Last updated:**
 
-24/10/2025
+16/01/2026
 
 [View](/is/documents/product-information/rystiggo-epar-product-information_is.pdf)
 
-italiano (IT) (915.59 KB - PDF)
+italiano (IT) (1.12 MB - PDF)
 
 **First published:**
 
@@ -443,11 +441,11 @@ italiano (IT) (915.59 KB - PDF)
 
 **Last updated:**
 
-24/10/2025
+16/01/2026
 
 [View](/it/documents/product-information/rystiggo-epar-product-information_it.pdf)
 
-latviešu valoda (LV) (832.92 KB - PDF)
+latviešu valoda (LV) (796.88 KB - PDF)
 
 **First published:**
 
@@ -455,11 +453,11 @@ latviešu valoda (LV) (832.92 KB - PDF)
 
 **Last updated:**
 
-24/10/2025
+16/01/2026
 
 [View](/lv/documents/product-information/rystiggo-epar-product-information_lv.pdf)
 
-lietuvių kalba (LT) (753.35 KB - PDF)
+lietuvių kalba (LT) (1.12 MB - PDF)
 
 **First published:**
 
@@ -467,11 +465,11 @@ lietuvių kalba (LT) (753.35 KB - PDF)
 
 **Last updated:**
 
-24/10/2025
+16/01/2026
 
 [View](/lt/documents/product-information/rystiggo-epar-product-information_lt.pdf)
 
-magyar (HU) (818.8 KB - PDF)
+magyar (HU) (1.14 MB - PDF)
 
 **First published:**
 
@@ -479,11 +477,11 @@ magyar (HU) (818.8 KB - PDF)
 
 **Last updated:**
 
-24/10/2025
+16/01/2026
 
 [View](/hu/documents/product-information/rystiggo-epar-product-information_hu.pdf)
 
-Malti (MT) (811.08 KB - PDF)
+Malti (MT) (1.14 MB - PDF)
 
 **First published:**
 
@@ -491,11 +489,11 @@ Malti (MT) (811.08 KB - PDF)
 
 **Last updated:**
 
-24/10/2025
+16/01/2026
 
 [View](/mt/documents/product-information/rystiggo-epar-product-information_mt.pdf)
 
-Nederlands (NL) (828.74 KB - PDF)
+Nederlands (NL) (895.07 KB - PDF)
 
 **First published:**
 
@@ -503,11 +501,11 @@ Nederlands (NL) (828.74 KB - PDF)
 
 **Last updated:**
 
-24/10/2025
+16/01/2026
 
 [View](/nl/documents/product-information/rystiggo-epar-product-information_nl.pdf)
 
-norsk (NO) (748.81 KB - PDF)
+norsk (NO) (766.67 KB - PDF)
 
 **First published:**
 
@@ -515,11 +513,11 @@ norsk (NO) (748.81 KB - PDF)
 
 **Last updated:**
 
-24/10/2025
+16/01/2026
 
 [View](/no/documents/product-information/rystiggo-epar-product-information_no.pdf)
 
-polski (PL) (736.11 KB - PDF)
+polski (PL) (744.28 KB - PDF)
 
 **First published:**
 
@@ -527,11 +525,11 @@ polski (PL) (736.11 KB - PDF)
 
 **Last updated:**
 
-24/10/2025
+16/01/2026
 
 [View](/pl/documents/product-information/rystiggo-epar-product-information_pl.pdf)
 
-português (PT) (814.5 KB - PDF)
+português (PT) (995.03 KB - PDF)
 
 **First published:**
 
@@ -539,11 +537,11 @@ português (PT) (814.5 KB - PDF)
 
 **Last updated:**
 
-24/10/2025
+16/01/2026
 
 [View](/pt/documents/product-information/rystiggo-epar-product-information_pt.pdf)
 
-română (RO) (1.24 MB - PDF)
+română (RO) (1.25 MB - PDF)
 
 **First published:**
 
@@ -551,11 +549,11 @@ română (RO) (1.24 MB - PDF)
 
 **Last updated:**
 
-24/10/2025
+16/01/2026
 
 [View](/ro/documents/product-information/rystiggo-epar-product-information_ro.pdf)
 
-slovenčina (SK) (1.13 MB - PDF)
+slovenčina (SK) (874.51 KB - PDF)
 
 **First published:**
 
@@ -563,11 +561,11 @@ slovenčina (SK) (1.13 MB - PDF)
 
 **Last updated:**
 
-24/10/2025
+16/01/2026
 
 [View](/sk/documents/product-information/rystiggo-epar-product-information_sk.pdf)
 
-slovenščina (SL) (1.23 MB - PDF)
+slovenščina (SL) (871.65 KB - PDF)
 
 **First published:**
 
@@ -575,11 +573,11 @@ slovenščina (SL) (1.23 MB - PDF)
 
 **Last updated:**
 
-24/10/2025
+16/01/2026
 
 [View](/sl/documents/product-information/rystiggo-epar-product-information_sl.pdf)
 
-Suomi (FI) (890.35 KB - PDF)
+Suomi (FI) (783.78 KB - PDF)
 
 **First published:**
 
@@ -587,11 +585,11 @@ Suomi (FI) (890.35 KB - PDF)
 
 **Last updated:**
 
-24/10/2025
+16/01/2026
 
 [View](/fi/documents/product-information/rystiggo-epar-product-information_fi.pdf)
 
-svenska (SV) (800.07 KB - PDF)
+svenska (SV) (801.34 KB - PDF)
 
 **First published:**
 
@@ -599,11 +597,11 @@ svenska (SV) (800.07 KB - PDF)
 
 **Last updated:**
 
-24/10/2025
+16/01/2026
 
 [View](/sv/documents/product-information/rystiggo-epar-product-information_sv.pdf)
 
-**Latest procedure affecting product information:** VR/0000282401 18/09/2025
+**Latest procedure affecting product information:** VR/0000320683 16/01/2026
 
 icon globe
 
@@ -629,7 +627,7 @@ English (EN) (46.71 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/rystiggo-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-907)
+[Other languages (24)](#file-language-dropdown-932)
 
 български (BG) (38.24 KB - PDF)
 
@@ -825,12 +823,12 @@ svenska (SV) (15.73 KB - PDF)
 
 ## Product details
 
-Name of medicine Rystiggo Active substance rozanolixizumab International non-proprietary name (INN) or common name rozanolixizumab Therapeutic area (MeSH) Myasthenia Gravis Anatomical therapeutic chemical (ATC) code L04AG16
+Name of medicine Rystiggo Active substance rozanolixizumab International non-proprietary name (INN) or common name rozanolixizumab Therapeutic area (MeSH) Myasthenia Gravis Anatomical therapeutic chemical (ATC) code L04AL02
 
 ### Pharmacotherapeutic group
 
 - Immunosuppressants
-- Monoclonal antibodies
+- neonatal fragment crystallizable receptor (FcRn) inhibitors
 
 ### Therapeutic indication
 
@@ -854,7 +852,7 @@ UCB Pharma
 
 Allée de la Recherche 60
 
-Opinion adopted 09/11/2023 Marketing authorisation issued 05/01/2024 Revision 8
+Opinion adopted 09/11/2023 Marketing authorisation issued 05/01/2024 Revision 9
 
 ## Assessment history
 
@@ -866,11 +864,11 @@ Collapse section
 
 Rystiggo : EPAR - Procedural steps taken and scientific information after the authorisation
 
-English (EN) (147.15 KB - PDF)
+English (EN) (153.42 KB - PDF)
 
 **First published:** 12/05/2025
 
-**Last updated:** 24/10/2025
+**Last updated:** 16/01/2026
 
 [View](/en/documents/procedural-steps-after/rystiggo-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf)
 
@@ -942,7 +940,7 @@ English (EN) (1.29 MB - DOCX)
 
 - [EU/3/20/2272 - orphan designation for treatment of myasthenia gravis](/en/medicines/human/orphan-designations/eu-3-20-2272)
 
-**This page was last updated on** 24/10/2025
+**This page was last updated on** 16/01/2026
 
 ## Share this page
 

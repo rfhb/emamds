@@ -1,18 +1,18 @@
 ---
-document_datetime: 2025-12-29 11:35:50
+document_datetime: 2026-01-16 12:41:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/rivastigmine-hexal.html
 document_name: rivastigmine-hexal.html
 version: success
-processing_time: 0.1084755
-conversion_datetime: 2025-12-30 01:56:25.743517
+processing_time: 0.1208875
+conversion_datetime: 2026-01-17 13:21:37.456589
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.66.0
-  docling-core: 2.57.0
+  docling-serve: 1.10.0
+  docling-jobkit: 1.8.1
+  docling: 2.68.0
+  docling-core: 2.59.0
   docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-parse: 4.7.3
   python: cpython-313 (3.13.11)
   plaform: macOS-26.2-arm64-arm-64bit-Mach-O
 ---
@@ -25,8 +25,6 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 rivastigmine Medicine Human Authorised
-
-On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -107,7 +105,7 @@ English (EN) (76.57 KB - PDF)
 
 [View](/en/documents/overview/rivastigmine-hexal-epar-summary-public_en.pdf)
 
-[Other languages (21)](#file-language-dropdown-240)
+[Other languages (21)](#file-language-dropdown-749)
 
 български (BG) (105.4 KB - PDF)
 
@@ -365,17 +363,17 @@ svenska (SV) (99.06 KB - PDF)
 
 Rivastigmine Hexal  : EPAR - Product Information
 
-English (EN) (482.06 KB - PDF)
+English (EN) (607.67 KB - PDF)
 
 **First published:** 21/12/2009
 
-**Last updated:** 01/12/2025
+**Last updated:** 16/01/2026
 
 [View](/en/documents/product-information/rivastigmine-hexal-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-735)
+[Other languages (24)](#file-language-dropdown-289)
 
-български (BG) (543.38 KB - PDF)
+български (BG) (643.07 KB - PDF)
 
 **First published:**
 
@@ -387,7 +385,7 @@ English (EN) (482.06 KB - PDF)
 
 [View](/bg/documents/product-information/rivastigmine-hexal-epar-product-information_bg.pdf)
 
-español (ES) (560.51 KB - PDF)
+español (ES) (597.2 KB - PDF)
 
 **First published:**
 
@@ -399,7 +397,7 @@ español (ES) (560.51 KB - PDF)
 
 [View](/es/documents/product-information/rivastigmine-hexal-epar-product-information_es.pdf)
 
-čeština (CS) (580.61 KB - PDF)
+čeština (CS) (625.19 KB - PDF)
 
 **First published:**
 
@@ -411,7 +409,7 @@ español (ES) (560.51 KB - PDF)
 
 [View](/cs/documents/product-information/rivastigmine-hexal-epar-product-information_cs.pdf)
 
-dansk (DA) (580.01 KB - PDF)
+dansk (DA) (558.47 KB - PDF)
 
 **First published:**
 
@@ -423,7 +421,7 @@ dansk (DA) (580.01 KB - PDF)
 
 [View](/da/documents/product-information/rivastigmine-hexal-epar-product-information_da.pdf)
 
-Deutsch (DE) (548.02 KB - PDF)
+Deutsch (DE) (599.84 KB - PDF)
 
 **First published:**
 
@@ -435,7 +433,7 @@ Deutsch (DE) (548.02 KB - PDF)
 
 [View](/de/documents/product-information/rivastigmine-hexal-epar-product-information_de.pdf)
 
-eesti keel (ET) (562.73 KB - PDF)
+eesti keel (ET) (593.24 KB - PDF)
 
 **First published:**
 
@@ -447,7 +445,7 @@ eesti keel (ET) (562.73 KB - PDF)
 
 [View](/et/documents/product-information/rivastigmine-hexal-epar-product-information_et.pdf)
 
-ελληνικά (EL) (639.35 KB - PDF)
+ελληνικά (EL) (742.12 KB - PDF)
 
 **First published:**
 
@@ -459,7 +457,7 @@ eesti keel (ET) (562.73 KB - PDF)
 
 [View](/el/documents/product-information/rivastigmine-hexal-epar-product-information_el.pdf)
 
-français (FR) (621.94 KB - PDF)
+français (FR) (637.21 KB - PDF)
 
 **First published:**
 
@@ -471,7 +469,7 @@ français (FR) (621.94 KB - PDF)
 
 [View](/fr/documents/product-information/rivastigmine-hexal-epar-product-information_fr.pdf)
 
-hrvatski (HR) (547.62 KB - PDF)
+hrvatski (HR) (574.88 KB - PDF)
 
 **First published:**
 
@@ -483,7 +481,7 @@ hrvatski (HR) (547.62 KB - PDF)
 
 [View](/hr/documents/product-information/rivastigmine-hexal-epar-product-information_hr.pdf)
 
-íslenska (IS) (564.17 KB - PDF)
+íslenska (IS) (595.41 KB - PDF)
 
 **First published:**
 
@@ -495,7 +493,7 @@ hrvatski (HR) (547.62 KB - PDF)
 
 [View](/is/documents/product-information/rivastigmine-hexal-epar-product-information_is.pdf)
 
-italiano (IT) (562.22 KB - PDF)
+italiano (IT) (662.26 KB - PDF)
 
 **First published:**
 
@@ -507,7 +505,7 @@ italiano (IT) (562.22 KB - PDF)
 
 [View](/it/documents/product-information/rivastigmine-hexal-epar-product-information_it.pdf)
 
-latviešu valoda (LV) (625.18 KB - PDF)
+latviešu valoda (LV) (647.84 KB - PDF)
 
 **First published:**
 
@@ -519,7 +517,7 @@ latviešu valoda (LV) (625.18 KB - PDF)
 
 [View](/lv/documents/product-information/rivastigmine-hexal-epar-product-information_lv.pdf)
 
-lietuvių kalba (LT) (627.13 KB - PDF)
+lietuvių kalba (LT) (676.83 KB - PDF)
 
 **First published:**
 
@@ -531,7 +529,7 @@ lietuvių kalba (LT) (627.13 KB - PDF)
 
 [View](/lt/documents/product-information/rivastigmine-hexal-epar-product-information_lt.pdf)
 
-magyar (HU) (626.14 KB - PDF)
+magyar (HU) (721.93 KB - PDF)
 
 **First published:**
 
@@ -543,7 +541,7 @@ magyar (HU) (626.14 KB - PDF)
 
 [View](/hu/documents/product-information/rivastigmine-hexal-epar-product-information_hu.pdf)
 
-Malti (MT) (655.16 KB - PDF)
+Malti (MT) (705.62 KB - PDF)
 
 **First published:**
 
@@ -555,7 +553,7 @@ Malti (MT) (655.16 KB - PDF)
 
 [View](/mt/documents/product-information/rivastigmine-hexal-epar-product-information_mt.pdf)
 
-Nederlands (NL) (570.08 KB - PDF)
+Nederlands (NL) (610.05 KB - PDF)
 
 **First published:**
 
@@ -567,7 +565,7 @@ Nederlands (NL) (570.08 KB - PDF)
 
 [View](/nl/documents/product-information/rivastigmine-hexal-epar-product-information_nl.pdf)
 
-norsk (NO) (463.04 KB - PDF)
+norsk (NO) (582.97 KB - PDF)
 
 **First published:**
 
@@ -579,7 +577,7 @@ norsk (NO) (463.04 KB - PDF)
 
 [View](/no/documents/product-information/rivastigmine-hexal-epar-product-information_no.pdf)
 
-polski (PL) (620.13 KB - PDF)
+polski (PL) (636.44 KB - PDF)
 
 **First published:**
 
@@ -591,7 +589,7 @@ polski (PL) (620.13 KB - PDF)
 
 [View](/pl/documents/product-information/rivastigmine-hexal-epar-product-information_pl.pdf)
 
-português (PT) (596.55 KB - PDF)
+português (PT) (619.58 KB - PDF)
 
 **First published:**
 
@@ -603,7 +601,7 @@ português (PT) (596.55 KB - PDF)
 
 [View](/pt/documents/product-information/rivastigmine-hexal-epar-product-information_pt.pdf)
 
-română (RO) (546.06 KB - PDF)
+română (RO) (602.43 KB - PDF)
 
 **First published:**
 
@@ -615,7 +613,7 @@ română (RO) (546.06 KB - PDF)
 
 [View](/ro/documents/product-information/rivastigmine-hexal-epar-product-information_ro.pdf)
 
-slovenčina (SK) (587.63 KB - PDF)
+slovenčina (SK) (621.17 KB - PDF)
 
 **First published:**
 
@@ -627,7 +625,7 @@ slovenčina (SK) (587.63 KB - PDF)
 
 [View](/sk/documents/product-information/rivastigmine-hexal-epar-product-information_sk.pdf)
 
-slovenščina (SL) (570.91 KB - PDF)
+slovenščina (SL) (616.4 KB - PDF)
 
 **First published:**
 
@@ -639,7 +637,7 @@ slovenščina (SL) (570.91 KB - PDF)
 
 [View](/sl/documents/product-information/rivastigmine-hexal-epar-product-information_sl.pdf)
 
-Suomi (FI) (577.75 KB - PDF)
+Suomi (FI) (638.21 KB - PDF)
 
 **First published:**
 
@@ -651,7 +649,7 @@ Suomi (FI) (577.75 KB - PDF)
 
 [View](/fi/documents/product-information/rivastigmine-hexal-epar-product-information_fi.pdf)
 
-svenska (SV) (575.07 KB - PDF)
+svenska (SV) (628.83 KB - PDF)
 
 **First published:**
 
@@ -663,7 +661,7 @@ svenska (SV) (575.07 KB - PDF)
 
 [View](/sv/documents/product-information/rivastigmine-hexal-epar-product-information_sv.pdf)
 
-**Latest procedure affecting product information:** N/0000314324 27/11/2025
+**Latest procedure affecting product information:** VR/0000301284 15/01/2026
 
 icon globe
 
@@ -689,7 +687,7 @@ English (EN) (83.2 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/rivastigmine-hexal-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-920)
+[Other languages (24)](#file-language-dropdown-422)
 
 български (BG) (45.94 KB - PDF)
 
@@ -1007,7 +1005,7 @@ Hexal AG
 
 Industriestrasse 25 D-83607 Holzkirchen Germany
 
-Marketing authorisation issued 11/12/2009 Revision 19
+Marketing authorisation issued 11/12/2009 Revision 20
 
 ## Assessment history
 
@@ -1019,11 +1017,11 @@ Collapse section
 
 Rivastigmine Hexal : EPAR - Procedural steps taken and scientific information after authorisation
 
-English (EN) (142.22 KB - PDF)
+English (EN) (147.96 KB - PDF)
 
 **First published:** 20/01/2025
 
-**Last updated:** 01/12/2025
+**Last updated:** 16/01/2026
 
 [View](/en/documents/procedural-steps-after/rivastigmine-hexal-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf)
 
@@ -1089,7 +1087,7 @@ English (EN) (32.38 KB - PDF)
 
 - [Medicines](https://www.ema.europa.eu/en/search?f%5B0%5D=ema_search_topics%3A61)
 
-**This page was last updated on** 01/12/2025
+**This page was last updated on** 16/01/2026
 
 ## Share this page
 

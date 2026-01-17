@@ -1,18 +1,18 @@
 ---
-document_datetime: 2025-03-05 10:31:47
-document_pages: 40
+document_datetime: 2026-01-16 13:47:43
+document_pages: 38
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/alimta-epar-product-information_en.pdf
 document_name: alimta-epar-product-information_en.pdf
 version: success
-processing_time: 9.2059233
-conversion_datetime: 2025-12-19 23:19:02.760253
+processing_time: 9.1273846
+conversion_datetime: 2026-01-17 13:38:29.570391
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.64.1
-  docling-core: 2.55.0
+  docling-serve: 1.10.0
+  docling-jobkit: 1.8.1
+  docling: 2.68.0
+  docling-core: 2.59.0
   docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-parse: 4.7.3
   python: cpython-313 (3.13.11)
   plaform: macOS-26.2-arm64-arm-64bit-Mach-O
 ---
@@ -76,11 +76,11 @@ ALIMTA must only be administered under the supervision of a physician qualified 
 
 ## ALIMTA in combination with cisplatin
 
-The recommended dose of ALIMTA is 500 mg/m 2 of body surface area (BSA) administered as an intravenous infusion over 10 minutes on the first day of each 21-day cycle. The recommended dose of cisplatin is 75 mg/m 2 BSA infused over two hours approximately 30 minutes after completion of the pemetrexed infusion on the first day of each 21-day cycle. Patients must receive adequate anti-emetic treatment and appropriate hydration prior to and/or after receiving cisplatin (see also cisplatin Summary of Product Characteristics for specific dosing advice).
+The recommended dose of ALIMTA is 500 mg/m 2  of body surface area (BSA) administered as an intravenous infusion over 10 minutes on the first day of each 21-day cycle. The recommended dose of cisplatin is 75 mg/m 2 BSA infused over two hours approximately 30 minutes after completion of the pemetrexed infusion on the first day of each 21-day cycle. Patients must receive adequate anti-emetic treatment and appropriate hydration prior to and/or after receiving cisplatin (see also cisplatin Summary of Product Characteristics for specific dosing advice).
 
 ## ALIMTA as single agent
 
-In patients treated for non-small cell lung cancer after prior chemotherapy, the recommended dose of ALIMTA is 500 mg/m 2 BSA administered as an intravenous infusion over 10 minutes on the first day of each 21-day cycle.
+In patients treated for non-small cell lung cancer after prior chemotherapy, the recommended dose of ALIMTA is 500 mg/m 2  BSA administered as an intravenous infusion over 10 minutes on the first day of each 21-day cycle.
 
 ## Pre-medication regimen
 
@@ -108,8 +108,6 @@ Dose adjustments at the start of a subsequent cycle should be based on nadir hae
 | Nadir platelets <50,000 /mm 3 regardless of nadir ANC                                                                      | 75 %of previous dose (both ALIMTA and cisplatin)                                                                           |
 | Nadir platelets <50,000/mm 3 with bleeding a , regardless of nadir ANC                                                     | 50% of previous dose (both ALIMTA and cisplatin)                                                                           |
 
-a These criteria meet the National Cancer Institute Common Toxicity Criteria (CTC v2.0; NCI 1998) definition of ≥CTC Grade 2 bleeding
-
 If patients develop non-haematologic toxicities ≥ Grade 3 (excluding neurotoxicity), ALIMTA should be withheld until resolution to less than or equal to the patient's pre-therapy value. Treatment should be resumed according to the guidelines in Table 2.
 
 | Table 2 - Dose modification table for ALIMTA (as single agent or in combination) and cisplatin- Non-haematologic toxicities a, b   | Table 2 - Dose modification table for ALIMTA (as single agent or in combination) and cisplatin- Non-haematologic toxicities a, b   | Table 2 - Dose modification table for ALIMTA (as single agent or in combination) and cisplatin- Non-haematologic toxicities a, b   |
@@ -119,8 +117,6 @@ If patients develop non-haematologic toxicities ≥ Grade 3 (excluding neurotoxi
 | Any diarrhoea requiring hospitalisation (irrespective of grade) or grade 3 or 4 diarrhoea.                                         | 75 %of previous dose                                                                                                               | 75 %of previous dose                                                                                                               |
 | Grade 3 or 4 mucositis                                                                                                             | 50 %of previous dose                                                                                                               | 100 %of previous dose                                                                                                              |
 
-a National Cancer Institute Common Toxicity Criteria (CTC v2.0; NCI 1998) b Excluding neurotoxicity
-
 In the event of neurotoxicity, the recommended dose adjustment for ALIMTA and cisplatin is documented in Table 3. Patients should discontinue therapy if Grade 3 or 4 neurotoxicity is observed.
 
 | Table 3 - Dose modification table for ALIMTA (as single agent or in combination) and cisplatin - Neurotoxicity   | Table 3 - Dose modification table for ALIMTA (as single agent or in combination) and cisplatin - Neurotoxicity   | Table 3 - Dose modification table for ALIMTA (as single agent or in combination) and cisplatin - Neurotoxicity   |
@@ -128,8 +124,6 @@ In the event of neurotoxicity, the recommended dose adjustment for ALIMTA and ci
 | CTC a Grade                                                                                                      | Dose of ALIMTA (mg/m 2 )                                                                                         | Dose for cisplatin (mg/m 2 )                                                                                     |
 | 0 - 1                                                                                                            | 100 %of previous dose                                                                                            | 100 %of previous dose                                                                                            |
 | 2                                                                                                                | 100 %of previous dose                                                                                            | 50 %of previous dose                                                                                             |
-
-a National Cancer Institute Common Toxicity Criteria (CTC v2.0; NCI 1998)
 
 Treatment with ALIMTA should be discontinued if a patient experiences any haematologic or non-haematologic Grade 3 or 4 toxicity after 2 dose reductions or immediately if Grade 3 or 4 neurotoxicity is observed.
 
@@ -304,18 +298,6 @@ Table 4. Frequencies of all grades adverse drug events regardless of causality f
 |------------------------------------------------|-----------------------------------------|----------------------------------------------|---------------------|
 | Injury, poisoning and procedural complications |                                         | Radiation oesophagitis Radiation pneumonitis | Recall pheno- menon |
 
-a with and without neutropenia
-
-b in some cases fatal
-
-c sometimes leading to extremity necrosis
-
-d with respiratory insufficiency
-
-e seen only in combination with cisplatin
-
-f mainly of the lower limbs
-
 ## Reporting of suspected adverse reactions
 
 Reporting suspected adverse reactions after authorisation of the medicinal product is important. It allows continued monitoring of the benefit/risk balance of the medicinal product. Healthcare professionals are asked to report any suspected adverse reactions via the national reporting system listed in Appendix V.
@@ -368,7 +350,7 @@ b In the ALIMTA/cisplatin arm, randomized and treated (N = 225) and fully supple
 
 A statistically significant improvement of the clinically relevant symptoms (pain and dyspnoea) associated with malignant pleural mesothelioma in the ALIMTA/cisplatin arm (212 patients) versus the cisplatin arm alone (218 patients) was demonstrated using the Lung Cancer Symptom Scale. Statistically significant differences in pulmonary function tests were also observed. The separation between the treatment arms was achieved by improvement in lung function in the ALIMTA/cisplatin arm and deterioration of lung function over time in the control arm.
 
-There are limited data in patients with malignant pleural mesothelioma treated with ALIMTA alone. ALIMTA at a dose of 500 mg/m 2 was studied as a single-agent in 64 chemonaive patients with malignant pleural mesothelioma. The overall response rate was 14.1 %.
+There are limited data in patients with malignant pleural mesothelioma treated with ALIMTA alone. ALIMTA at a dose of 500 mg/m 2  was studied as a single-agent in 64 chemonaive patients with malignant pleural mesothelioma. The overall response rate was 14.1 %.
 
 ## NSCLC, second-line treatment
 
@@ -382,12 +364,14 @@ Limited clinical data from a separate randomized, Phase 3, controlled trial, sug
 
 Table 6. Efficacy of ALIMTA vs docetaxel in NSCLC - ITT population
 
-|                                                                                                              | ALIMTA                          | Docetaxel                       |
-|--------------------------------------------------------------------------------------------------------------|---------------------------------|---------------------------------|
-| Survival Time (months )  Median (m)  95 %CI for median  HR  95 %CI for HR  Non-inferiority p-value (HR) | (n = 283) 8.3 (7.0 - 9.4) (.82  | (n = 288) 7.9 (6.3 - 9.2) 1.20) |
-| Progression free survival (months)  Median  HR (95 %CI)                                                    | (n = 283) 2.9 0.97              | (n = 288) 2.9 1.16)             |
-| Time to treatment failure (TTTF - months)  Median  HR (95 %CI)                                             | (n = 283) 2.3 0.84              | (n = 288) 2.1 .997)             |
-| Response (n: qualified for response)  Response rate (%) (95 %CI)  Stable disease (%)                       | (n = 264) 9.1 (5.9 - 13.2) 45.8 | (n = 274) 8.8 (5.7 - 12.8) 46.4 |
+|                                                                                 | ALIMTA                                | Docetaxel                       |
+|---------------------------------------------------------------------------------|---------------------------------------|---------------------------------|
+| Survival Time (months )  Median (m)  95 %CI for median  HR  95 %CI for HR   | (n = 283) 8.3 (7.0 - 9.4) 0.99 (.82 - | (n = 288) 7.9 (6.3 - 9.2) 1.20) |
+| Progression free survival (months)  Median                                     |                                       |                                 |
+|  HR (95 %CI)                                                                   | (n = 283) 2.9                         | (n = 288) 2.9                   |
+| Time to treatment failure (TTTF - months)  Median                              | 0.97 (.82 - 1.16) (n = 283) 2.3       | (n = 288) 2.1                   |
+|  HR (95 %CI) Response (n: qualified for response)  Response rate (%) (95 %CI) | (n = 264) 9.1 (5.9 - 13.2)            | (n = 274) 8.8 (5.7 - 46.4       |
+|  Stable disease (%)                                                            | 0.84 (.71 - .997) 45.8                | 12.8)                           |
 
 Abbreviations:  CI = confidence interval; HR = hazard ratio; ITT = intent to treat; n = total population size.
 
@@ -462,7 +446,7 @@ The ALIMTA maintenance safety profiles from the two studies JMEN and PARAMOUNT w
 
 ## 5.2 Pharmacokinetic properties
 
-The pharmacokinetic properties of pemetrexed following single-agent administration have been evaluated in 426 cancer patients with a variety of solid tumours at doses ranging from 0.2 to 838 mg/m 2 infused over a 10-minute period. Pemetrexed has a steady-state volume of distribution of 9 l/m 2 . In vitro studies indicate that pemetrexed is approximately 81 % bound to plasma proteins. Binding was not notably affected by varying degrees of renal impairment. Pemetrexed undergoes limited hepatic metabolism. Pemetrexed is primarily eliminated in the urine, with 70 % to 90 % of the administered dose being recovered unchanged in urine within the first 24 hours following administration. In vitro studies indicate that pemetrexed is actively secreted by OAT3 (organic anion transporter. Pemetrexed total systemic clearance is 91.8 ml/min and the elimination half-life from plasma is 3.5 hours in patients with normal renal function (creatinine clearance of 90 ml/min). Between patient variability in clearance is moderate at 19.3 %. Pemetrexed total systemic exposure (AUC) and maximum plasma concentration increase proportionally with dose. The pharmacokinetics of pemetrexed are consistent over multiple treatment cycles.
+The pharmacokinetic properties of pemetrexed following single-agent administration have been evaluated in 426 cancer patients with a variety of solid tumours at doses ranging from 0.2 to 838 mg/m 2  infused over a 10-minute period. Pemetrexed has a steady-state volume of distribution of 9 l/m 2 . In vitro studies indicate that pemetrexed is approximately 81 % bound to plasma proteins. Binding was not notably affected by varying degrees of renal impairment. Pemetrexed undergoes limited hepatic metabolism. Pemetrexed is primarily eliminated in the urine, with 70 % to 90 % of the administered dose being recovered unchanged in urine within the first 24 hours following administration. In vitro studies indicate that pemetrexed is actively secreted by OAT3 (organic anion transporter. Pemetrexed total systemic clearance is 91.8 ml/min and the elimination half-life from plasma is 3.5 hours in patients with normal renal function (creatinine clearance of 90 ml/min). Between patient variability in clearance is moderate at 19.3 %. Pemetrexed total systemic exposure (AUC) and maximum plasma concentration increase proportionally with dose. The pharmacokinetics of pemetrexed are consistent over multiple treatment cycles.
 
 The pharmacokinetic properties of pemetrexed are not influenced by concurrently administered cisplatin. Oral folic acid and intramuscular vitamin B12 supplementation do not affect the pharmacokinetics of pemetrexed.
 
@@ -508,11 +492,15 @@ For storage conditions after reconstitution of the medicinal product, see sectio
 
 ## ALIMTA 100 mg powder for concentrate for solution for infusion
 
-Type I glass vial with rubber stopper containing 100 mg of pemetrexed. Pack of 1 vial. Not all pack sizes may be marketed.
+Type I glass vial with rubber stopper containing 100 mg of pemetrexed. Pack of 1 vial.
+
+Not all pack sizes may be marketed.
 
 ## ALIMTA 500 mg powder for concentrate for solution for infusion
 
-Type I glass vial with rubber stopper containing 500 mg of pemetrexed. Pack of 1 vial. Not all pack sizes may be marketed.
+Type I glass vial with rubber stopper containing 500 mg of pemetrexed. Pack of 1 vial.
+
+Not all pack sizes may be marketed.
 
 ## 6.6 Special precautions for disposal and other handling
 
@@ -542,7 +530,9 @@ As with other potentially toxic anticancer agents, care should be exercised in t
 
 ## 7. MARKETING AUTHORISATION HOLDER
 
-Eli Lilly Nederland B.V. Papendorpseweg 83, 3528 BJ Utrecht The Netherlands
+Eli Lilly Nederland B.V. Orteliuslaan 1000, 3528 BD Utrecht
+
+The Netherlands
 
 ## 8. MARKETING AUTHORISATION NUMBER
 
@@ -557,6 +547,8 @@ Date of latest renewal: 20 September 2009
 ## 10. DATE OF REVISION OF THE TEXT
 
 Detailed information on this product is available on the website of the European Medicines Agency (EMA) https://www.ema.europa.eu.
+
+19
 
 <div style=\"page-break-after: always\"></div>
 
@@ -658,13 +650,14 @@ Read the leaflet for the shelf life of the reconstituted product.
 
 <div style=\"page-break-after: always\"></div>
 
-## 10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
+| 10.   | SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS ORWASTEMATERIALS DERIVED FROMSUCHMEDICINAL PRODUCTS, IF APPROPRIATE   |
+|-------|-------------------------------------------------------------------------------------------------------------------------------------|
 
 Discard unused contents appropriately.
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
-Eli Lilly Nederland B.V. Papendorpseweg 83, 3528 BJ Utrecht The Netherlands
+Eli Lilly Nederland B.V. Orteliuslaan 1000, 3528 BD Utrecht The Netherlands
 
 ## 12. MARKETING AUTHORISATION NUMBER(S)
 
@@ -709,8 +702,7 @@ EXP
 
 Read the leaflet for the shelf life of the reconstituted product.
 
-| 4.   | BATCH NUMBER   |
-|------|----------------|
+## 4. BATCH NUMBER
 
 Lot
 
@@ -718,8 +710,7 @@ Lot
 
 100 mg
 
-| 6.   | OTHER   |
-|------|---------|
+## 6. OTHER
 
 <div style=\"page-break-after: always\"></div>
 
@@ -779,7 +770,7 @@ Discard unused contents appropriately.
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
-Eli Lilly Nederland B.V. Papendorpseweg 83, 3528 BJ Utrecht The Netherlands
+Eli Lilly Nederland B.V. Orteliuslaan 1000, 3528 BD Utrecht The Netherlands
 
 ## 12. MARKETING AUTHORISATION NUMBER(S)
 
@@ -789,23 +780,23 @@ EU/1/04/290/001
 
 Lot
 
-14. CLASSIFICATION FOR SUPPLY
+## 14. CLASSIFICATION FOR SUPPLY
 
 15. INSTRUCTIONS ON USE
 
 16. INFORMATION ON BRAILLE
 
-17. UNIQUE IDENTIFIER - 2D BARCODE
+## 17. UNIQUE IDENTIFIER - 2D BARCODE
 
-2D barcode carrying the unique identifier included.
+- 2D barcode carrying the unique identifier included.
 
 ## 18. UNIQUE IDENTIFIER - HUMAN READABLE DATA
 
-PC
-
-SN
+PC SN
 
 NN
+
+<div style=\"page-break-after: always\"></div>
 
 ## MINIMUM PARTICULARS TO APPEAR ON SMALL IMMEDIATE PACKAGING UNITS
 
@@ -832,8 +823,6 @@ Lot
 500 mg
 
 ## 6. OTHER
-
-<div style=\"page-break-after: always\"></div>
 
 <div style=\"page-break-after: always\"></div>
 
@@ -884,9 +873,7 @@ ALIMTA is also a treatment for patients with advanced stage of lung cancer whose
 
 ## Warnings and precautions
 
-Talk to your doctor or hospital pharmacist before receiving ALIMTA.
-
-If you currently have or have previously had problems with your kidneys, talk to your doctor or hospital pharmacist as you may not be able to receive ALIMTA.
+Talk to your doctor or hospital pharmacist before receiving ALIMTA. If you currently have or have previously had problems with your kidneys, talk to your doctor or hospital pharmacist as you may not be able to receive ALIMTA.
 
 <div style=\"page-break-after: always\"></div>
 
@@ -981,44 +968,41 @@ You must contact your doctor immediately if you notice any of the following:
 
 ## Side effects with ALIMTA may include:
 
-| Very common (may affect more than 1 in 10 people)                                                                                                            |
-|--------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Infection                                                                                                                                                    |
-| Pharyngitis (a sore throat)                                                                                                                                  |
-| Low number of neutrophil granulocytes (a type of white blood cell)                                                                                           |
-| Low white blood cells                                                                                                                                        |
-| Low haemoglobin level                                                                                                                                        |
-| Pain, redness, swelling or sores in your mouth                                                                                                               |
-| Loss of appetite                                                                                                                                             |
-| Vomiting                                                                                                                                                     |
-| Diarrhoea                                                                                                                                                    |
-| Nausea                                                                                                                                                       |
-| Skin rash                                                                                                                                                    |
-| Flaking skin                                                                                                                                                 |
-| Abnormal blood tests showing reduced functionality of kidneys                                                                                                |
-| Fatigue (tiredness)                                                                                                                                          |
-| Common (may affect up to 1 in 10 people)                                                                                                                     |
-| Blood infection                                                                                                                                              |
-| Fever with low number of neutrophil granulocytes (a type of white blood cell)                                                                                |
-| Low platelet count                                                                                                                                           |
-| Allergic reaction                                                                                                                                            |
-| Loss of body fluids                                                                                                                                          |
-| Taste change                                                                                                                                                 |
-| Damage to the motor nerves which may cause muscle weakness and atrophy (wasting) primary in the arms and legs)                                               |
-| Damage to the sensory nerves that may cause lost of sensation, burning pain and unsteady gait                                                                |
-| Dizziness                                                                                                                                                    |
-| Inflammation or swelling of the conjunctiva (the membrane that lines the eyelids and covers the white of the eye                                             |
-| Dry eye                                                                                                                                                      |
-| Watery eyes                                                                                                                                                  |
-| Dryness of the conjunctiva (the membrane that lines the eyelids and covers the white of the eye) and cornea (the clear layer in front of the iris and pupil. |
-| Swelling of the eyelids Eye disorder with dryness, tearing, irritation, and/or pain                                                                          |
-| Cardiac Failure (Condition that affects the pumping power of your heart muscles) Irregular heart rhythm                                                      |
-| Indigestion                                                                                                                                                  |
-| Constipation                                                                                                                                                 |
-| Abdominal pain                                                                                                                                               |
-| Liver: increases in the chemicals in the blood made by the liver pigmentation                                                                                |
-| Increased skin                                                                                                                                               |
-| Itchy skin                                                                                                                                                   |
+| Very common (may affect more than 1 in 10 people)                                                                                                        |
+|----------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Infection                                                                                                                                                |
+| Pharyngitis (a sore throat)                                                                                                                              |
+| Low number of neutrophil granulocytes (a type of white blood cell)                                                                                       |
+| Low white blood cells                                                                                                                                    |
+| Low haemoglobin level                                                                                                                                    |
+| Pain, redness, swelling or sores in your mouth                                                                                                           |
+| Loss of appetite                                                                                                                                         |
+| Vomiting                                                                                                                                                 |
+| Diarrhoea                                                                                                                                                |
+| Nausea                                                                                                                                                   |
+| Skin rash                                                                                                                                                |
+| Flaking skin                                                                                                                                             |
+| Abnormal blood tests showing reduced functionality of kidneys                                                                                            |
+| Fatigue (tiredness)                                                                                                                                      |
+| Common (may affect up to 1 in 10 people)                                                                                                                 |
+| Fever with low number of neutrophil granulocytes (a type of white blood cell)                                                                            |
+| Low platelet count                                                                                                                                       |
+| Allergic reaction                                                                                                                                        |
+| Loss of body fluids                                                                                                                                      |
+| Taste change                                                                                                                                             |
+| Damage to the motor nerves which may cause muscle weakness and atrophy (wasting) primary in the arms and legs)                                           |
+| Damage to the sensory nerves that may cause lost of sensation, burning pain and unsteady gait                                                            |
+| Dizziness                                                                                                                                                |
+| Inflammation or swelling of the conjunctiva (the membrane that lines the eyelids and covers the white                                                    |
+| of the eye                                                                                                                                               |
+| Dry eye Watery eyes                                                                                                                                      |
+| Dryness of the conjunctiva (the membrane that lines the eyelids and covers the white of the eye) cornea (the clear layer in front of the iris and pupil. |
+| and Swelling of the eyelids                                                                                                                              |
+| Eye disorder with dryness, tearing, irritation, and/or pain Cardiac Failure (Condition that affects the pumping power of your heart muscles)             |
+| Indigestion                                                                                                                                              |
+| Constipation                                                                                                                                             |
+| Abdominal pain                                                                                                                                           |
+| Itchy skin                                                                                                                                               |
 
 <div style=\"page-break-after: always\"></div>
 
@@ -1080,7 +1064,7 @@ It is available in packs of 1 vial. Not all pack sizes may be marketed.
 
 ## Marketing Authorisation Holder
 
-Eli Lilly Nederland B.V. Papendorpseweg 83, 3528 BJ Utrecht The Netherlands
+Eli Lilly Nederland B.V. Orteliuslaan 1000, 3528 BD Utrecht The Netherlands
 
 Manufacturer Lilly France S.A.S. rue du Colonel Lilly
 
@@ -1100,7 +1084,7 @@ Tél/Tel: + 32-(0)2 548 84 84
 
 ## България
 
-ТП \"Ели Лили Недерланд\" Б.В. - България тел. + 359 2 491 41 40
+ТП \"Ели Лили Недерланд\" Б.В. -България тел. + 359 2 491 41 40
 
 ## Česká republika
 
@@ -1112,7 +1096,7 @@ Tel: + 420 234 664 111
 
 Eli Lilly Danmark A/S
 
-Tlf: +45 45 26 60 00
+Tlf.: +45 45 26 60 00
 
 ## Deutschland
 
@@ -1128,7 +1112,7 @@ Tel: + 372 6 817 280
 
 ## Ελλάδα
 
-ΦΑΡΜΑΣΕΡΒ - ΛΙΛΛΥ Α.Ε.Β.Ε.
+ΦΑΡΜΑΣΕΡΒ -ΛΙΛΛΥ Α.Ε.Β.Ε.
 
 Τηλ: +30 210 629 4600
 
@@ -1291,23 +1275,3 @@ Gently swirl each vial until the powder is completely dissolved. The resulting s
 7. Pemetrexed solutions are for single use only. Any unused product or waste material should be disposed of in accordance with local requirements.
 
 Preparation and administration precautions: As with other potentially toxic anticancer agents, care should be exercised in the handling and preparation of pemetrexed infusion solutions. The use of gloves is recommended. If a pemetrexed solution contacts the skin, wash the skin immediately and thoroughly with soap and water. If pemetrexed solutions contact the mucous membranes, flush thoroughly with water. Pemetrexed is not a vesicant. There is not a specific antidote for extravasation of pemetrexed. There have been a few reported cases of pemetrexed extravasation, which were not assessed as serious by the investigator. Extravasation should be managed by local standard practice as with other non-vesicants.
-
-<div style=\"page-break-after: always\"></div>
-
-## Annex IV Scientific conclusions and grounds for the variation to the terms of the marketing authorisation(s)
-
-<div style=\"page-break-after: always\"></div>
-
-## Scientific conclusions
-
-Taking into account the PRAC Assessment Report on the PSUR(s) for pemetrexed, the scientific conclusions of PRAC are as follows:
-
-In  view  of  available  data  on  the  pharmacokinetics  of  pemetrexed  and  considering in  vitro studies indicated that pemetrexed is actively secreted by organic anion transporter 3 (OAT3) and IC50 values for  proton  pump  inhibitors,  the  PRAC  considers  a  drug-drug  interaction  between  proton  pump inhibitors and pemetrexed is at least a reasonable possibility. The PRAC concluded that the product information of products containing pemetrexed should be amended accordingly.
-
-Having reviewed the PRAC recommendation, the CHMP agrees with the PRAC overall conclusions and grounds for recommendation.
-
-## Grounds for the variation to the terms of the marketing authorisation(s)
-
-On the basis of the scientific conclusions for pemetrexed the CHMP is of the opinion that the benefit-risk balance of the medicinal product(s) containing pemetrexed is unchanged subject to the proposed changes to the product information
-
-The CHMP recommends that the terms of the marketing authorisation(s) should be varied.

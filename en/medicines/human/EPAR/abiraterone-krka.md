@@ -1,18 +1,18 @@
 ---
-document_datetime: 2026-01-05 16:15:00
+document_datetime: 2026-01-16 14:23:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/abiraterone-krka.html
 document_name: abiraterone-krka.html
 version: success
-processing_time: 0.1290374
-conversion_datetime: 2026-01-06 07:19:54.14284
+processing_time: 0.1451384
+conversion_datetime: 2026-01-17 13:27:14.145509
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.66.0
-  docling-core: 2.57.0
+  docling-serve: 1.10.0
+  docling-jobkit: 1.8.1
+  docling: 2.68.0
+  docling-core: 2.59.0
   docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-parse: 4.7.3
   python: cpython-313 (3.13.11)
   plaform: macOS-26.2-arm64-arm-64bit-Mach-O
 ---
@@ -26,8 +26,6 @@ This medicine is authorised for use in the European Union
 
 abiraterone acetate Medicine Human Authorised
 
-On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
-
 Page contents
 
 ## Page contents
@@ -38,6 +36,7 @@ Page contents
 - [Authorisation details](#authorisation-details)
 - [Assessment history](#assessment-history)
 - [More information on Abiraterone Krka](#more-information-on-abiraterone-krka-1615)
+- [Product information - with tracked changes](#product-information-with-tracked-changes-82824)
 
 - Application under evaluation
 - CHMP opinion
@@ -103,7 +102,7 @@ English (EN) (165.29 KB - PDF)
 
 [View](/en/documents/overview/abiraterone-krka-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-335)
+[Other languages (22)](#file-language-dropdown-233)
 
 български (BG) (199.29 KB - PDF)
 
@@ -293,17 +292,17 @@ English (EN) (173.89 KB - PDF)
 
 Abiraterone Krka : EPAR - Product information
 
-English (EN) (763.24 KB - PDF)
+English (EN) (753.16 KB - PDF)
 
 **First published:** 23/11/2021
 
-**Last updated:** 31/01/2025
+**Last updated:** 16/01/2026
 
 [View](/en/documents/product-information/abiraterone-krka-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-647)
+[Other languages (22)](#file-language-dropdown-774)
 
-български (BG) (728.51 KB - PDF)
+български (BG) (714.96 KB - PDF)
 
 **First published:**
 
@@ -311,11 +310,11 @@ English (EN) (763.24 KB - PDF)
 
 **Last updated:**
 
-31/01/2025
+16/01/2026
 
 [View](/bg/documents/product-information/abiraterone-krka-epar-product-information_bg.pdf)
 
-español (ES) (801.57 KB - PDF)
+español (ES) (791.81 KB - PDF)
 
 **First published:**
 
@@ -323,11 +322,11 @@ español (ES) (801.57 KB - PDF)
 
 **Last updated:**
 
-31/01/2025
+16/01/2026
 
 [View](/es/documents/product-information/abiraterone-krka-epar-product-information_es.pdf)
 
-čeština (CS) (1.61 MB - PDF)
+dansk (DA) (1.54 MB - PDF)
 
 **First published:**
 
@@ -335,23 +334,11 @@ español (ES) (801.57 KB - PDF)
 
 **Last updated:**
 
-31/01/2025
-
-[View](/cs/documents/product-information/abiraterone-krka-epar-product-information_cs.pdf)
-
-dansk (DA) (1.55 MB - PDF)
-
-**First published:**
-
-23/11/2021
-
-**Last updated:**
-
-31/01/2025
+16/01/2026
 
 [View](/da/documents/product-information/abiraterone-krka-epar-product-information_da.pdf)
 
-Deutsch (DE) (600.02 KB - PDF)
+Deutsch (DE) (590.18 KB - PDF)
 
 **First published:**
 
@@ -359,11 +346,11 @@ Deutsch (DE) (600.02 KB - PDF)
 
 **Last updated:**
 
-31/01/2025
+16/01/2026
 
 [View](/de/documents/product-information/abiraterone-krka-epar-product-information_de.pdf)
 
-eesti keel (ET) (748.06 KB - PDF)
+ελληνικά (EL) (1012.81 KB - PDF)
 
 **First published:**
 
@@ -371,23 +358,11 @@ eesti keel (ET) (748.06 KB - PDF)
 
 **Last updated:**
 
-31/01/2025
-
-[View](/et/documents/product-information/abiraterone-krka-epar-product-information_et.pdf)
-
-ελληνικά (EL) (1017.4 KB - PDF)
-
-**First published:**
-
-23/11/2021
-
-**Last updated:**
-
-31/01/2025
+16/01/2026
 
 [View](/el/documents/product-information/abiraterone-krka-epar-product-information_el.pdf)
 
-français (FR) (845.95 KB - PDF)
+français (FR) (836.83 KB - PDF)
 
 **First published:**
 
@@ -395,11 +370,11 @@ français (FR) (845.95 KB - PDF)
 
 **Last updated:**
 
-31/01/2025
+16/01/2026
 
 [View](/fr/documents/product-information/abiraterone-krka-epar-product-information_fr.pdf)
 
-hrvatski (HR) (842.33 KB - PDF)
+hrvatski (HR) (832.79 KB - PDF)
 
 **First published:**
 
@@ -407,11 +382,11 @@ hrvatski (HR) (842.33 KB - PDF)
 
 **Last updated:**
 
-31/01/2025
+16/01/2026
 
 [View](/hr/documents/product-information/abiraterone-krka-epar-product-information_hr.pdf)
 
-íslenska (IS) (793.67 KB - PDF)
+íslenska (IS) (781.91 KB - PDF)
 
 **First published:**
 
@@ -419,11 +394,11 @@ hrvatski (HR) (842.33 KB - PDF)
 
 **Last updated:**
 
-31/01/2025
+16/01/2026
 
 [View](/is/documents/product-information/abiraterone-krka-epar-product-information_is.pdf)
 
-italiano (IT) (917.92 KB - PDF)
+italiano (IT) (904.71 KB - PDF)
 
 **First published:**
 
@@ -431,11 +406,11 @@ italiano (IT) (917.92 KB - PDF)
 
 **Last updated:**
 
-31/01/2025
+16/01/2026
 
 [View](/it/documents/product-information/abiraterone-krka-epar-product-information_it.pdf)
 
-latviešu valoda (LV) (749.64 KB - PDF)
+latviešu valoda (LV) (744.03 KB - PDF)
 
 **First published:**
 
@@ -443,11 +418,11 @@ latviešu valoda (LV) (749.64 KB - PDF)
 
 **Last updated:**
 
-31/01/2025
+16/01/2026
 
 [View](/lv/documents/product-information/abiraterone-krka-epar-product-information_lv.pdf)
 
-lietuvių kalba (LT) (891.48 KB - PDF)
+lietuvių kalba (LT) (878.5 KB - PDF)
 
 **First published:**
 
@@ -455,11 +430,11 @@ lietuvių kalba (LT) (891.48 KB - PDF)
 
 **Last updated:**
 
-31/01/2025
+16/01/2026
 
 [View](/lt/documents/product-information/abiraterone-krka-epar-product-information_lt.pdf)
 
-magyar (HU) (817.07 KB - PDF)
+magyar (HU) (805.12 KB - PDF)
 
 **First published:**
 
@@ -467,11 +442,11 @@ magyar (HU) (817.07 KB - PDF)
 
 **Last updated:**
 
-31/01/2025
+16/01/2026
 
 [View](/hu/documents/product-information/abiraterone-krka-epar-product-information_hu.pdf)
 
-Malti (MT) (712.53 KB - PDF)
+Malti (MT) (700.04 KB - PDF)
 
 **First published:**
 
@@ -479,11 +454,11 @@ Malti (MT) (712.53 KB - PDF)
 
 **Last updated:**
 
-31/01/2025
+16/01/2026
 
 [View](/mt/documents/product-information/abiraterone-krka-epar-product-information_mt.pdf)
 
-Nederlands (NL) (834.73 KB - PDF)
+Nederlands (NL) (823.07 KB - PDF)
 
 **First published:**
 
@@ -491,11 +466,11 @@ Nederlands (NL) (834.73 KB - PDF)
 
 **Last updated:**
 
-31/01/2025
+16/01/2026
 
 [View](/nl/documents/product-information/abiraterone-krka-epar-product-information_nl.pdf)
 
-norsk (NO) (888.94 KB - PDF)
+norsk (NO) (879.37 KB - PDF)
 
 **First published:**
 
@@ -503,11 +478,11 @@ norsk (NO) (888.94 KB - PDF)
 
 **Last updated:**
 
-31/01/2025
+16/01/2026
 
 [View](/no/documents/product-information/abiraterone-krka-epar-product-information_no.pdf)
 
-polski (PL) (1.08 MB - PDF)
+polski (PL) (1.07 MB - PDF)
 
 **First published:**
 
@@ -515,11 +490,11 @@ polski (PL) (1.08 MB - PDF)
 
 **Last updated:**
 
-31/01/2025
+16/01/2026
 
 [View](/pl/documents/product-information/abiraterone-krka-epar-product-information_pl.pdf)
 
-português (PT) (1.31 MB - PDF)
+português (PT) (1.3 MB - PDF)
 
 **First published:**
 
@@ -527,11 +502,11 @@ português (PT) (1.31 MB - PDF)
 
 **Last updated:**
 
-31/01/2025
+16/01/2026
 
 [View](/pt/documents/product-information/abiraterone-krka-epar-product-information_pt.pdf)
 
-română (RO) (733.96 KB - PDF)
+română (RO) (723.28 KB - PDF)
 
 **First published:**
 
@@ -539,7 +514,7 @@ română (RO) (733.96 KB - PDF)
 
 **Last updated:**
 
-31/01/2025
+16/01/2026
 
 [View](/ro/documents/product-information/abiraterone-krka-epar-product-information_ro.pdf)
 
@@ -551,11 +526,11 @@ slovenčina (SK) (1.85 MB - PDF)
 
 **Last updated:**
 
-31/01/2025
+16/01/2026
 
 [View](/sk/documents/product-information/abiraterone-krka-epar-product-information_sk.pdf)
 
-slovenščina (SL) (1.41 MB - PDF)
+slovenščina (SL) (1.28 MB - PDF)
 
 **First published:**
 
@@ -563,11 +538,11 @@ slovenščina (SL) (1.41 MB - PDF)
 
 **Last updated:**
 
-31/01/2025
+16/01/2026
 
 [View](/sl/documents/product-information/abiraterone-krka-epar-product-information_sl.pdf)
 
-Suomi (FI) (1 MB - PDF)
+Suomi (FI) (1016.33 KB - PDF)
 
 **First published:**
 
@@ -575,11 +550,11 @@ Suomi (FI) (1 MB - PDF)
 
 **Last updated:**
 
-31/01/2025
+16/01/2026
 
 [View](/fi/documents/product-information/abiraterone-krka-epar-product-information_fi.pdf)
 
-svenska (SV) (805.41 KB - PDF)
+svenska (SV) (793.71 KB - PDF)
 
 **First published:**
 
@@ -587,11 +562,11 @@ svenska (SV) (805.41 KB - PDF)
 
 **Last updated:**
 
-31/01/2025
+16/01/2026
 
 [View](/sv/documents/product-information/abiraterone-krka-epar-product-information_sv.pdf)
 
-**Latest procedure affecting product information:** N/0007 28/01/2025
+**Latest procedure affecting product information:** R/0000284809 18/12/2025
 
 icon globe
 
@@ -615,7 +590,7 @@ English (EN) (59.53 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/abiraterone-krka-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-940)
+[Other languages (24)](#file-language-dropdown-668)
 
 български (BG) (69.02 KB - PDF)
 
@@ -839,7 +814,7 @@ Krka, d.d., Novo mesto
 
 Šmarješka cesta 6
 
-Opinion adopted 22/04/2021 Marketing authorisation issued 24/06/2021 Revision 4
+Opinion adopted 22/04/2021 Marketing authorisation issued 24/06/2021 Revision 5
 
 ## Assessment history
 
@@ -855,7 +830,7 @@ English (EN) (108.92 KB - PDF)
 
 **First published:** 06/07/2022
 
-**Last updated:** 05/01/2026
+**Last updated:** 16/01/2026
 
 [View](/en/documents/procedural-steps-after/abiraterone-krka-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf)
 
@@ -899,7 +874,7 @@ English (EN) (66.45 KB - PDF)
 
 [View](/en/documents/other/questions-and-answers-generic-medicines_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-944)
+[Other languages (22)](#file-language-dropdown-597)
 
 български (BG) (93.16 KB - PDF)
 
@@ -1165,7 +1140,197 @@ svenska (SV) (67.11 KB - PDF)
 
 [View](/sv/documents/other/questions-and-answers-generic-medicines_sv.pdf)
 
-**This page was last updated on** 05/01/2026
+#### Product information - with tracked changes
+
+The approved product information for this medicine is available below showing the changes since the previous procedure affecting the product information. The same document without tracked changes is above under 'Product information'.
+
+Abiraterone Krka : EPAR - Product information - tracked changes
+
+English (EN) (313.72 KB - DOCX)
+
+**First published:** 16/01/2026
+
+[View](/en/documents/product-information-tracked-changes/abiraterone-krka-epar-product-information-tracked-changes_en.docx)
+
+[Other languages (22)](#file-language-dropdown-301)
+
+български (BG) (325.1 KB - DOCX)
+
+**First published:**
+
+16/01/2026
+
+[View](/bg/documents/product-information-tracked-changes/abiraterone-krka-epar-product-information-tracked-changes_bg.docx)
+
+español (ES) (540.04 KB - DOCX)
+
+**First published:**
+
+16/01/2026
+
+[View](/es/documents/product-information-tracked-changes/abiraterone-krka-epar-product-information-tracked-changes_es.docx)
+
+dansk (DA) (598.69 KB - DOCX)
+
+**First published:**
+
+16/01/2026
+
+[View](/da/documents/product-information-tracked-changes/abiraterone-krka-epar-product-information-tracked-changes_da.docx)
+
+Deutsch (DE) (1.63 MB - DOCX)
+
+**First published:**
+
+16/01/2026
+
+[View](/de/documents/product-information-tracked-changes/abiraterone-krka-epar-product-information-tracked-changes_de.docx)
+
+ελληνικά (EL) (639.72 KB - DOCX)
+
+**First published:**
+
+16/01/2026
+
+[View](/el/documents/product-information-tracked-changes/abiraterone-krka-epar-product-information-tracked-changes_el.docx)
+
+français (FR) (416.59 KB - DOCX)
+
+**First published:**
+
+16/01/2026
+
+[View](/fr/documents/product-information-tracked-changes/abiraterone-krka-epar-product-information-tracked-changes_fr.docx)
+
+hrvatski (HR) (281.13 KB - DOCX)
+
+**First published:**
+
+16/01/2026
+
+[View](/hr/documents/product-information-tracked-changes/abiraterone-krka-epar-product-information-tracked-changes_hr.docx)
+
+íslenska (IS) (370.55 KB - DOCX)
+
+**First published:**
+
+16/01/2026
+
+[View](/is/documents/product-information-tracked-changes/abiraterone-krka-epar-product-information-tracked-changes_is.docx)
+
+italiano (IT) (563.92 KB - DOCX)
+
+**First published:**
+
+16/01/2026
+
+[View](/it/documents/product-information-tracked-changes/abiraterone-krka-epar-product-information-tracked-changes_it.docx)
+
+latviešu valoda (LV) (322.91 KB - DOCX)
+
+**First published:**
+
+16/01/2026
+
+[View](/lv/documents/product-information-tracked-changes/abiraterone-krka-epar-product-information-tracked-changes_lv.docx)
+
+lietuvių kalba (LT) (1.13 MB - DOCX)
+
+**First published:**
+
+16/01/2026
+
+[View](/lt/documents/product-information-tracked-changes/abiraterone-krka-epar-product-information-tracked-changes_lt.docx)
+
+magyar (HU) (842.9 KB - DOCX)
+
+**First published:**
+
+16/01/2026
+
+[View](/hu/documents/product-information-tracked-changes/abiraterone-krka-epar-product-information-tracked-changes_hu.docx)
+
+Malti (MT) (351.86 KB - DOCX)
+
+**First published:**
+
+16/01/2026
+
+[View](/mt/documents/product-information-tracked-changes/abiraterone-krka-epar-product-information-tracked-changes_mt.docx)
+
+Nederlands (NL) (669.33 KB - DOCX)
+
+**First published:**
+
+16/01/2026
+
+[View](/nl/documents/product-information-tracked-changes/abiraterone-krka-epar-product-information-tracked-changes_nl.docx)
+
+norsk (NO) (358.01 KB - DOCX)
+
+**First published:**
+
+16/01/2026
+
+[View](/no/documents/product-information-tracked-changes/abiraterone-krka-epar-product-information-tracked-changes_no.docx)
+
+polski (PL) (556.88 KB - DOCX)
+
+**First published:**
+
+16/01/2026
+
+[View](/pl/documents/product-information-tracked-changes/abiraterone-krka-epar-product-information-tracked-changes_pl.docx)
+
+português (PT) (594.73 KB - DOCX)
+
+**First published:**
+
+16/01/2026
+
+[View](/pt/documents/product-information-tracked-changes/abiraterone-krka-epar-product-information-tracked-changes_pt.docx)
+
+română (RO) (792.92 KB - DOCX)
+
+**First published:**
+
+16/01/2026
+
+[View](/ro/documents/product-information-tracked-changes/abiraterone-krka-epar-product-information-tracked-changes_ro.docx)
+
+slovenčina (SK) (487.87 KB - DOCX)
+
+**First published:**
+
+16/01/2026
+
+[View](/sk/documents/product-information-tracked-changes/abiraterone-krka-epar-product-information-tracked-changes_sk.docx)
+
+slovenščina (SL) (433.18 KB - DOCX)
+
+**First published:**
+
+16/01/2026
+
+[View](/sl/documents/product-information-tracked-changes/abiraterone-krka-epar-product-information-tracked-changes_sl.docx)
+
+Suomi (FI) (628.11 KB - DOCX)
+
+**First published:**
+
+16/01/2026
+
+[View](/fi/documents/product-information-tracked-changes/abiraterone-krka-epar-product-information-tracked-changes_fi.docx)
+
+svenska (SV) (879.35 KB - DOCX)
+
+**First published:**
+
+16/01/2026
+
+[View](/sv/documents/product-information-tracked-changes/abiraterone-krka-epar-product-information-tracked-changes_sv.docx)
+
+**This page was last updated on** 16/01/2026
 
 ## Share this page
 

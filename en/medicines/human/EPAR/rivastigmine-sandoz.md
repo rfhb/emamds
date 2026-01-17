@@ -1,18 +1,18 @@
 ---
-document_datetime: 2025-12-29 12:39:17
+document_datetime: 2026-01-16 12:40:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/rivastigmine-sandoz.html
 document_name: rivastigmine-sandoz.html
 version: success
-processing_time: 0.1134297
-conversion_datetime: 2025-12-30 09:30:48.322169
+processing_time: 0.1093625
+conversion_datetime: 2026-01-17 12:55:56.236614
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.66.0
-  docling-core: 2.57.0
+  docling-serve: 1.10.0
+  docling-jobkit: 1.8.1
+  docling: 2.68.0
+  docling-core: 2.59.0
   docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-parse: 4.7.3
   python: cpython-313 (3.13.11)
   plaform: macOS-26.2-arm64-arm-64bit-Mach-O
 ---
@@ -25,8 +25,6 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 rivastigmine Medicine Human Authorised
-
-On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -115,7 +113,7 @@ English (EN) (76.55 KB - PDF)
 
 [View](/en/documents/overview/rivastigmine-sandoz-epar-summary-public_en.pdf)
 
-[Other languages (21)](#file-language-dropdown-163)
+[Other languages (21)](#file-language-dropdown-994)
 
 български (BG) (106.52 KB - PDF)
 
@@ -373,17 +371,17 @@ svenska (SV) (83.01 KB - PDF)
 
 Rivastigmine Sandoz : EPAR - Product Information
 
-English (EN) (581.84 KB - PDF)
+English (EN) (592.78 KB - PDF)
 
 **First published:** 21/12/2009
 
-**Last updated:** 01/12/2025
+**Last updated:** 16/01/2026
 
 [View](/en/documents/product-information/rivastigmine-sandoz-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-761)
+[Other languages (24)](#file-language-dropdown-367)
 
-български (BG) (578.3 KB - PDF)
+български (BG) (643.07 KB - PDF)
 
 **First published:**
 
@@ -391,11 +389,11 @@ English (EN) (581.84 KB - PDF)
 
 **Last updated:**
 
-01/12/2025
+16/01/2026
 
 [View](/bg/documents/product-information/rivastigmine-sandoz-epar-product-information_bg.pdf)
 
-español (ES) (534.25 KB - PDF)
+español (ES) (597.2 KB - PDF)
 
 **First published:**
 
@@ -403,11 +401,11 @@ español (ES) (534.25 KB - PDF)
 
 **Last updated:**
 
-01/12/2025
+16/01/2026
 
 [View](/es/documents/product-information/rivastigmine-sandoz-epar-product-information_es.pdf)
 
-čeština (CS) (560.33 KB - PDF)
+čeština (CS) (607.9 KB - PDF)
 
 **First published:**
 
@@ -415,11 +413,11 @@ español (ES) (534.25 KB - PDF)
 
 **Last updated:**
 
-01/12/2025
+16/01/2026
 
 [View](/cs/documents/product-information/rivastigmine-sandoz-epar-product-information_cs.pdf)
 
-dansk (DA) (579.47 KB - PDF)
+dansk (DA) (558.42 KB - PDF)
 
 **First published:**
 
@@ -427,11 +425,11 @@ dansk (DA) (579.47 KB - PDF)
 
 **Last updated:**
 
-01/12/2025
+16/01/2026
 
 [View](/da/documents/product-information/rivastigmine-sandoz-epar-product-information_da.pdf)
 
-Deutsch (DE) (580.01 KB - PDF)
+Deutsch (DE) (599.84 KB - PDF)
 
 **First published:**
 
@@ -439,11 +437,11 @@ Deutsch (DE) (580.01 KB - PDF)
 
 **Last updated:**
 
-01/12/2025
+16/01/2026
 
 [View](/de/documents/product-information/rivastigmine-sandoz-epar-product-information_de.pdf)
 
-eesti keel (ET) (582.5 KB - PDF)
+eesti keel (ET) (520.87 KB - PDF)
 
 **First published:**
 
@@ -451,11 +449,11 @@ eesti keel (ET) (582.5 KB - PDF)
 
 **Last updated:**
 
-01/12/2025
+16/01/2026
 
 [View](/et/documents/product-information/rivastigmine-sandoz-epar-product-information_et.pdf)
 
-ελληνικά (EL) (609 KB - PDF)
+ελληνικά (EL) (716.73 KB - PDF)
 
 **First published:**
 
@@ -463,11 +461,11 @@ eesti keel (ET) (582.5 KB - PDF)
 
 **Last updated:**
 
-01/12/2025
+16/01/2026
 
 [View](/el/documents/product-information/rivastigmine-sandoz-epar-product-information_el.pdf)
 
-français (FR) (587.88 KB - PDF)
+français (FR) (637.21 KB - PDF)
 
 **First published:**
 
@@ -475,11 +473,11 @@ français (FR) (587.88 KB - PDF)
 
 **Last updated:**
 
-01/12/2025
+16/01/2026
 
 [View](/fr/documents/product-information/rivastigmine-sandoz-epar-product-information_fr.pdf)
 
-hrvatski (HR) (553.21 KB - PDF)
+hrvatski (HR) (573.07 KB - PDF)
 
 **First published:**
 
@@ -487,11 +485,11 @@ hrvatski (HR) (553.21 KB - PDF)
 
 **Last updated:**
 
-01/12/2025
+16/01/2026
 
 [View](/hr/documents/product-information/rivastigmine-sandoz-epar-product-information_hr.pdf)
 
-íslenska (IS) (532.29 KB - PDF)
+íslenska (IS) (592.07 KB - PDF)
 
 **First published:**
 
@@ -499,11 +497,11 @@ hrvatski (HR) (553.21 KB - PDF)
 
 **Last updated:**
 
-01/12/2025
+16/01/2026
 
 [View](/is/documents/product-information/rivastigmine-sandoz-epar-product-information_is.pdf)
 
-italiano (IT) (535.2 KB - PDF)
+italiano (IT) (662.26 KB - PDF)
 
 **First published:**
 
@@ -511,11 +509,11 @@ italiano (IT) (535.2 KB - PDF)
 
 **Last updated:**
 
-01/12/2025
+16/01/2026
 
 [View](/it/documents/product-information/rivastigmine-sandoz-epar-product-information_it.pdf)
 
-latviešu valoda (LV) (589.87 KB - PDF)
+latviešu valoda (LV) (642.77 KB - PDF)
 
 **First published:**
 
@@ -523,11 +521,11 @@ latviešu valoda (LV) (589.87 KB - PDF)
 
 **Last updated:**
 
-01/12/2025
+16/01/2026
 
 [View](/lv/documents/product-information/rivastigmine-sandoz-epar-product-information_lv.pdf)
 
-lietuvių kalba (LT) (529.37 KB - PDF)
+lietuvių kalba (LT) (637.24 KB - PDF)
 
 **First published:**
 
@@ -535,11 +533,11 @@ lietuvių kalba (LT) (529.37 KB - PDF)
 
 **Last updated:**
 
-01/12/2025
+16/01/2026
 
 [View](/lt/documents/product-information/rivastigmine-sandoz-epar-product-information_lt.pdf)
 
-magyar (HU) (576.22 KB - PDF)
+magyar (HU) (640.75 KB - PDF)
 
 **First published:**
 
@@ -547,11 +545,11 @@ magyar (HU) (576.22 KB - PDF)
 
 **Last updated:**
 
-01/12/2025
+16/01/2026
 
 [View](/hu/documents/product-information/rivastigmine-sandoz-epar-product-information_hu.pdf)
 
-Malti (MT) (633.55 KB - PDF)
+Malti (MT) (705.62 KB - PDF)
 
 **First published:**
 
@@ -559,11 +557,11 @@ Malti (MT) (633.55 KB - PDF)
 
 **Last updated:**
 
-01/12/2025
+16/01/2026
 
 [View](/mt/documents/product-information/rivastigmine-sandoz-epar-product-information_mt.pdf)
 
-Nederlands (NL) (541.77 KB - PDF)
+Nederlands (NL) (608.91 KB - PDF)
 
 **First published:**
 
@@ -571,11 +569,11 @@ Nederlands (NL) (541.77 KB - PDF)
 
 **Last updated:**
 
-01/12/2025
+16/01/2026
 
 [View](/nl/documents/product-information/rivastigmine-sandoz-epar-product-information_nl.pdf)
 
-norsk (NO) (416.8 KB - PDF)
+norsk (NO) (577.49 KB - PDF)
 
 **First published:**
 
@@ -583,11 +581,11 @@ norsk (NO) (416.8 KB - PDF)
 
 **Last updated:**
 
-01/12/2025
+16/01/2026
 
 [View](/no/documents/product-information/rivastigmine-sandoz-epar-product-information_no.pdf)
 
-polski (PL) (586.03 KB - PDF)
+polski (PL) (636.44 KB - PDF)
 
 **First published:**
 
@@ -595,11 +593,11 @@ polski (PL) (586.03 KB - PDF)
 
 **Last updated:**
 
-01/12/2025
+16/01/2026
 
 [View](/pl/documents/product-information/rivastigmine-sandoz-epar-product-information_pl.pdf)
 
-português (PT) (562.6 KB - PDF)
+português (PT) (614.39 KB - PDF)
 
 **First published:**
 
@@ -607,11 +605,11 @@ português (PT) (562.6 KB - PDF)
 
 **Last updated:**
 
-01/12/2025
+16/01/2026
 
 [View](/pt/documents/product-information/rivastigmine-sandoz-epar-product-information_pt.pdf)
 
-română (RO) (539.79 KB - PDF)
+română (RO) (603.52 KB - PDF)
 
 **First published:**
 
@@ -619,11 +617,11 @@ română (RO) (539.79 KB - PDF)
 
 **Last updated:**
 
-01/12/2025
+16/01/2026
 
 [View](/ro/documents/product-information/rivastigmine-sandoz-epar-product-information_ro.pdf)
 
-slovenčina (SK) (576.4 KB - PDF)
+slovenčina (SK) (621.17 KB - PDF)
 
 **First published:**
 
@@ -631,11 +629,11 @@ slovenčina (SK) (576.4 KB - PDF)
 
 **Last updated:**
 
-01/12/2025
+16/01/2026
 
 [View](/sk/documents/product-information/rivastigmine-sandoz-epar-product-information_sk.pdf)
 
-slovenščina (SL) (602.9 KB - PDF)
+slovenščina (SL) (618.08 KB - PDF)
 
 **First published:**
 
@@ -643,11 +641,11 @@ slovenščina (SL) (602.9 KB - PDF)
 
 **Last updated:**
 
-01/12/2025
+16/01/2026
 
 [View](/sl/documents/product-information/rivastigmine-sandoz-epar-product-information_sl.pdf)
 
-Suomi (FI) (531.51 KB - PDF)
+Suomi (FI) (537.67 KB - PDF)
 
 **First published:**
 
@@ -655,11 +653,11 @@ Suomi (FI) (531.51 KB - PDF)
 
 **Last updated:**
 
-01/12/2025
+16/01/2026
 
 [View](/fi/documents/product-information/rivastigmine-sandoz-epar-product-information_fi.pdf)
 
-svenska (SV) (522.78 KB - PDF)
+svenska (SV) (584.78 KB - PDF)
 
 **First published:**
 
@@ -667,11 +665,11 @@ svenska (SV) (522.78 KB - PDF)
 
 **Last updated:**
 
-01/12/2025
+16/01/2026
 
 [View](/sv/documents/product-information/rivastigmine-sandoz-epar-product-information_sv.pdf)
 
-**Latest procedure affecting product information:** N/0000314225 27/11/2025
+**Latest procedure affecting product information:** VR/0000301284 15/01/2026
 
 icon globe
 
@@ -697,7 +695,7 @@ English (EN) (24.48 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/rivastigmine-sandoz-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-97)
+[Other languages (24)](#file-language-dropdown-457)
 
 български (BG) (46 KB - PDF)
 
@@ -1015,7 +1013,7 @@ Sandoz GmbH
 
 Biochemiestrasse 10
 
-Marketing authorisation issued 10/12/2009 Revision 18
+Marketing authorisation issued 10/12/2009 Revision 19
 
 ## Assessment history
 
@@ -1027,11 +1025,11 @@ Collapse section
 
 Rivastigmine Sandoz : EPAR - Procedural steps taken and scientific information after authorisation
 
-English (EN) (142.17 KB - PDF)
+English (EN) (147.61 KB - PDF)
 
 **First published:** 16/01/2025
 
-**Last updated:** 01/12/2025
+**Last updated:** 16/01/2026
 
 [View](/en/documents/procedural-steps-after/rivastigmine-sandoz-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf)
 
@@ -1095,7 +1093,7 @@ English (EN) (32.41 KB - PDF)
 
 - [Medicines](https://www.ema.europa.eu/en/search?f%5B0%5D=ema_search_topics%3A61)
 
-**This page was last updated on** 01/12/2025
+**This page was last updated on** 16/01/2026
 
 ## Share this page
 

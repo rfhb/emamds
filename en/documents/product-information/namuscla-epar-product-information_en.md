@@ -1,18 +1,18 @@
 ---
-document_datetime: 2025-03-19 16:53:26
+document_datetime: 2026-01-16 17:40:11
 document_pages: 29
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/namuscla-epar-product-information_en.pdf
 document_name: namuscla-epar-product-information_en.pdf
 version: success
-processing_time: 8.1718819
-conversion_datetime: 2025-12-21 18:17:35.807833
+processing_time: 8.6595827
+conversion_datetime: 2026-01-17 13:21:23.80343
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.64.1
-  docling-core: 2.55.0
+  docling-serve: 1.10.0
+  docling-jobkit: 1.8.1
+  docling: 2.68.0
+  docling-core: 2.59.0
   docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-parse: 4.7.3
   python: cpython-313 (3.13.11)
   plaform: macOS-26.2-arm64-arm-64bit-Mach-O
 ---
@@ -98,8 +98,8 @@ The whole capsules should be swallowed with water, avoiding the supine position.
 - Hypersensitivity to the active substance, or to any of the excipients listed in section 6.1.
 - Hypersensitivity to any local anaesthetic.
 - Ventricular tachyarrhythmia.
-- Complete heart block (i.e. third-degree atrioventricular block) or any heart block susceptible to evolve to complete heart block (first-degree atrioventricular block with markedly prolonged PR interval (≥ 240 ms) and/or wide QRS complex (≥ 120 ms), second-degree atrioventricular block, bundle branch block, bifascicular and trifascicular block).
-- Myocardial infarction (acute or past), or abnormal Q-waves.
+- Complete heart block (i.e. third-degree atrioventricular block) or any heart block susceptible to evolve to complete heart block (first-degree atrioventricular block with markedly prolonged PR interval (≥ 240 ms) and/or wide QRS complex (≥ 120 ms), second -degree atrioventricular block, bundle branch block, bifascicular and trifascicular block).
+- Myocardial infarction (acute or past), or abnor mal Q -waves.
 - Symptomatic coronary artery disease.
 - Heart failure with mid-range (40-49%) and reduced (&lt;40%) ejection fraction.
 - Atrial tachyarrhythmia, fibrillation or flutter.
@@ -144,15 +144,19 @@ Epileptic patients need to be monitored because mexiletine can increase the freq
 
 CYP2D6 polymorphism may affect mexiletine pharmacokinetics (see section 5.2). Higher systemic exposure is expected in patients who are CYP2D6 poor metabolisers or who take medicinal products that inhibit CYP2D6 (see section 4.5). A period of at least 7 days before dose increase must be respected to ensure that steady-state levels are reached and that mexiletine is well tolerated in all patients, irrespective of CYP450 polymorphism.
 
+## Drug screening
+
+Mexiletine may cross-react in various amphetamine screening assays, which can lead to a falsepositive urine test for amphetamines when Mexiletine is taken.
+
+<div style=\"page-break-after: always\"></div>
+
+Internal Doc Ref: v6.6
+
 ## Smoking
 
 Smoking affects mexiletine pharmacokinetics (see section 4.5). The mexiletine dose may need to be increased if a patient starts smoking and decreased if a patient stops smoking.
 
 ## 4.5 Interaction with other medicinal products and other forms of interaction
-
-<div style=\"page-break-after: always\"></div>
-
-Internal Doc Ref: v6.6
 
 ## Pharmacodynamic interactions
 
@@ -248,7 +252,7 @@ The  most  serious  reported  adverse  reactions  in  patients  treated  with  m
 
 ## Tabulated list of adverse reactions
 
-The adverse reactions are tabulated below by SOC (system organ class) and by frequency, most frequent reactions first, with the following guidelines: very common (≥ 1/10), common (≥ 1/100 to &lt; 1/10), uncommon (≥ 1/1 000 to &lt; 1/100), rare (≥ 1/10 000 to &lt; 1/1 000), very rare (&lt; 1/10 000), not known (cannot be estimated from the available data). Very common and common adverse reactions are derived from data from the MYOMEX study; less common adverse reactions are derived from post-marketing data. Within each frequency grouping, adverse reactions are presented in the order of decreasing seriousness.
+The adverse reactions are tabulated below by SOC (system organ class) and by frequency, most frequent reactions first, with the following guidelines: very common (≥ 1/1 0), common (≥ 1/100 to &lt; 1/10), uncommon (≥ 1/1 000 to &lt; 1/100), rare (≥ 1/10 000 to &lt; 1/1 000), very rare (&lt; 1/10 000), not known (cannot be estimated from the available data). Very common and common adverse reactions are derived from data from the MYOMEX study; less common adverse reactions are derived from post-marketing data. Within each frequency grouping, adverse reactions are presented in the order of decreasing seriousness.
 
 | System organ class                   | Frequency   | Adverse reaction                                                      |
 |--------------------------------------|-------------|-----------------------------------------------------------------------|
@@ -320,7 +324,7 @@ muscles). It improves myotonic symptoms by decreasing muscle stiffness through r
 
 The efficacy and safety of mexiletine in non-dystrophic myotonia was evaluated in MYOMEX, a multi-centre, double-blind, placebo-controlled, cross-over (2 treatment periods of 18 days) study with a 4-day wash-out period in 13 patients with myotonia congenita (MC) and 12 patients with paramyotonia congenita (PC). Age of the overall study population ranged from 20 to 66 years old and about 2/3 of the patients were male. Patients who experienced myotonic symptoms that involved at least 2 segments and that had an impact on at least 3 daily activities were included into the study. The patients were randomized according to a cross-over design to a sequence including the 2 following treatments: a) mexiletine, started at 167 mg/day and titrated by increments of 167 mg every 3 days to reach a maximum dose of 500 mg/day in 1 week or b) placebo. 1
 
-The primary efficacy measure for both MC and PC was the score of stiffness severity as self-reported by the patients on a Visual Analogue Scale (VAS). The VAS is constructed as an absolute measure, with a 100 mm straight horizontal line having the endpoints 'no stiffness at all' (0) and 'worst possible stiffness' (100). The main secondary endpoints were changes in health-related quality of life as measured by individualised neuromuscular quality of life (INQoL) scale and the time needed to stand up from a chair, walk around the chair and sit down again (chair test).
+The primary efficacy measure for both MC and PC was the score of stiffness severity as self-reported by the patients on a Visual Analogue Scale (VAS). The VAS is constructed as an absolute measure, with a 100 mm straight horizontal line having the endpoints 'no stiffness at all' (0) and 'worst possible stiffness' (100). The main secondary endpoints were changes in health-related quality of life as measured by individualised neuromuscular quality of life (IN QoL ) scale and the time needed to stand up from a chair, walk around the chair and sit down again (chair test).
 
 Results for the primary and key secondary endpoints are summarised in the table below.
 
@@ -331,64 +335,47 @@ Results for the primary and key secondary endpoints are summarised in the table 
 | Median VAS value at baseline                                                              | 71.0          | 81.0         |
 | Median VAS value at day 18                                                                | 16.0          | 78.0         |
 | Median VAS absolute change from baseline                                                  | -42.0         | 2.0          |
-| Percentage of patients with an absolute VAS Change from baseline ≥ 50 mmat day 18         | 12/21 (57.1%) | 3/22 (13.6%) |
+| Percentage of patients with an absolute VAS Change from b aseline ≥ 50 mmat day 18        | 12/21 (57.1%) | 3/22 (13.6%) |
 | Effect of treatment (Mixed Effect Linear Model)                                           | p < 0.001     | p < 0.001    |
 | Secondary Analysis Chair test (s)                                                         |               |              |
 | Number of subjects                                                                        | 25            | 25           |
-| Mean (SD) value at baseline                                                               | 7.3 (3.5)     |              |
+| Mean (SD) value at baseline                                                               | 7.3 (3.5)     | 7.3 (3.5)    |
 | Mean (SD) value at day 18                                                                 | 5.2 (1.6)     | 7.5 (4.1)    |
 | Mean (SD) absolute change from baseline                                                   | -2.1 (2.9)    | 0.2 (1.6)    |
-| Effect of treatment (Wilcoxon signed-rank test)                                           | p = 0.0007    |              |
+| Effect of treatment (Wilcoxon signed-rank test)                                           | p = 0.0007    | p = 0.0007   |
 | Secondary Analysis Individualised neuromuscular quality of life - Overall quality of life |               |              |
 | Number of subjects                                                                        | 25            | 25           |
-| Median value at baseline                                                                  | 51.1          |              |
+| Median value at baseline                                                                  | 51.1          | 51.1         |
 | Median value at day 18                                                                    | 23.3          | 48.3         |
 | Median absolute change from baseline                                                      | -25.0         | 1.1          |
-| Effect of treatment (linear mixed model)                                                  | p < 0.001     |              |
+| Effect of treatment (linear mixed model)                                                  | p < 0.001     | p < 0.001    |
 | Secondary Analysis Clinical Global Impression (CGI) Efficacy index                        |               |              |
 | Number of subjects                                                                        | 25            | 25           |
 | CGI as judged efficient by the investigators                                              | 22 (91.7%)    | 5 (20.0%)    |
-
-1  Clinical Study Report refers to 200 mg dose which is the amount of mexiletine hydrochloride (corresponding to 166.62mg mexiletine base)
 
 <div style=\"page-break-after: always\"></div>
 
 Internal Doc Ref: v6.6
 
-| CGI as judged efficient by the patients   | 23 (92.0%)   | 6 (24.0%)   |
-|-------------------------------------------|--------------|-------------|
-| Effect of treatment (Mc Nemar test)       | p < 0.001    |             |
-
-Secondary Analysis
-
-Preference between the 2 treatment periods
-
-| Number of subjects                  | 25         | 25        |
-|-------------------------------------|------------|-----------|
-| Period preferred                    | 20 (80.0%) | 5 (20.0%) |
-| Effect of treatment (binomial test) | p = 0.0041 |           |
-
-Secondary Analysis
-
-## Clinical Myotonia Scale - Severity Global Score
-
-| Number of subjects                       | 25           | 25          |
-|------------------------------------------|--------------|-------------|
-| Mean (SD) value at baseline              | 53.8 (10.0)  | 53.8 (10.0) |
-| Mean (SD) value at day 18                | 24.0 (17.1)  | 47.6 (23.3) |
-| Mean (SD) absolute change from baseline  | -29.8 (16.0) | -6.2 (19.0) |
-| Effect of treatment (linear mixed model) | p < 0.001    | p < 0.001   |
-
-Secondary Analysis
-
-## Clinical Myotonia Scale - Disability Global Score
-
-| Number of subjects                       | 25         | 25         |
-|------------------------------------------|------------|------------|
-| Mean (SD) value at baseline              | 7.8 (2.8)  |            |
-| Mean (SD) value at day 18                | 2.7 (2.6)  | 7.0 (3.8)  |
-| Mean (SD) absolute change from baseline  | -5.1 (3.1) | -0.8 (3.4) |
-| Effect of treatment (linear mixed model) | p < 0.001  |            |
+| CGI as judged efficient by the patients                              | 23 (92.0%)   | 6 (24.0%)   |
+|----------------------------------------------------------------------|--------------|-------------|
+| Effect of treatment (Mc Nemar test)                                  | p < 0.001    | p < 0.001   |
+| Secondary Analysis Preference between the 2 treatment periods        |              |             |
+| Number of subjects                                                   | 25           | 25          |
+| Period preferred                                                     | 20 (80.0%)   | 5 (20.0%)   |
+| Effect of treatment (binomial test)                                  | p = 0.0041   | p = 0.0041  |
+| Secondary Analysis Clinical Myotonia Scale - Severity Global Score   |              |             |
+| Number of subjects                                                   | 25           | 25          |
+| Mean (SD) value at baseline                                          | 53.8 (10.0)  | 53.8 (10.0) |
+| Mean (SD) value at day 18                                            | 24.0 (17.1)  | 47.6 (23.3) |
+| Mean (SD) absolute change from baseline                              | -29.8 (16.0) | -6.2 (19.0) |
+| Effect of treatment (linear mixed model)                             | p < 0.001    | p < 0.001   |
+| Secondary Analysis Clinical Myotonia Scale - Disability Global Score |              |             |
+| Number of subjects                                                   | 25           | 25          |
+| Mean (SD) value at baseline                                          | 7.8 (2.8)    | 7.8 (2.8)   |
+| Mean (SD) value at day 18                                            | 2.7 (2.6)    | 7.0 (3.8)   |
+| Mean (SD) absolute change from baseline                              | -5.1 (3.1)   | -0.8 (3.4)  |
+| Effect of treatment (linear mixed model)                             | p < 0.001    | p < 0.001   |
 
 ## Paediatric population
 
@@ -528,9 +515,13 @@ Internal Doc Ref: v6.6
 
 ## ANNEX II
 
-## A. MANUFACTURER(S) RESPONSIBLE FOR BATCH RELEASE B. CONDITIONS OR RESTRICTIONS REGARDING SUPPLY AND USE C. OTHER CONDITIONS AND REQUIREMENTS OF THE MARKETING AUTHORISATION CONDITIONS OR RESTRICTIONS WITH REGARD TO THE SAFE AND
+- A. MANUFACTURER(S) RESPONSIBLE FOR BATCH RELEASE
 
-## D. EFFECTIVE USE OF THE MEDICINAL PRODUCT
+## B. CONDITIONS OR RESTRICTIONS REGARDING SUPPLY AND USE
+
+## C. OTHER CONDITIONS AND REQUIREMENTS OF THE MARKETING AUTHORISATION
+
+## D. CONDITIONS OR RESTRICTIONS WITH REGARD TO THE SAFE AND EFFECTIVE USE OF THE MEDICINAL PRODUCT
 
 <div style=\"page-break-after: always\"></div>
 
@@ -588,7 +579,7 @@ The Educational guide for HCPs, which should always be read in conjunction with 
 - Throughout treatment with Namuscla:
 - o In patients without cardiac abnormalities, an electrocardiogram (ECG) monitoring should be performed periodically (every 2 years or more frequently, if considered necessary);
 - o In patients with cardiac abnormalities, and in patients prone to such abnormalities, a detailed cardiac evaluation, including ECG should be carried out before and after any dose increase. During  maintenance  treatment,  detailed  cardiac  evaluation  including  ECG,  24-48  hour Holter-monitoring  and  echocardiography,  is  recommended  at  least  annually,  or  more frequently if considered necessary as part of routine cardiac assessment.
-- Namuscla should be stopped immediately if the patient develops  cardiac  abnormalities,  is  not responding or experiencing benefit within Namuscla long-term treatment;
+- Namuscla should be stopped immediately if the patient develops cardiac abnormalities,  is  not responding or experiencing benefit within Namuscla long-term treatment;
 - Highlight  the  risk  of  decreased  Namuscla  clearance  in  patients  with  hepatic  impairment  and provide  guidance  on  how  to  treat  those  patients  in  order  to  prevent  it,  ensuring  Namuscla cautious titration in patients with mild or moderate hepatic impairment (increasing the dose after at  least  2  weeks  of  treatment).  Namuscla  should  not  be  used  in  patients  with  severe  hepatic impairment;
 - HCPs should counsel patients on:
 - o The risk of cardiac arrhythmias (informing about symptoms of arrhythmias, advising patients to  contact  immediately  their  HCP,  or  emergency  centres,  if  they  experience  any  of  these symptoms);
@@ -676,7 +667,8 @@ Internal Doc Ref: v6.6
 
 ## 10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
 
-## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
+| 11.   | NAMEANDADDRESS OF THE MARKETING AUTHORISATION HOLDER   |
+|-------|--------------------------------------------------------|
 
 Lupin Europe GmbH Hanauer Landstraße 139-143, 60314 Frankfurt am Main Germany
 
@@ -693,7 +685,8 @@ Lot
 | 14.   | GENERAL CLASSIFICATION FOR SUPPLY   |
 |-------|-------------------------------------|
 
-15. INSTRUCTIONS ON USE
+| 15.   | INSTRUCTIONS ONUSE   |
+|-------|----------------------|
 
 | 16.   | INFORMATION IN BRAILLE   |
 |-------|--------------------------|
@@ -705,8 +698,8 @@ Namuscla 167
 
 2D barcode carrying the unique identifier included.
 
-| 18.   | UNIQUE IDENTIFIER -HUMANREADABLE DATA   |
-|-------|-----------------------------------------|
+| 18.   | UNIQUE IDENTIFIER - HUMANREADABLE DATA   |
+|-------|------------------------------------------|
 
 PC SN
 
@@ -716,15 +709,15 @@ NN
 
 Internal Doc Ref: v6.6
 
-| MINIMUM PARTICULARS TO APPEAR ONBLISTERS OR STRIPS   |
-|------------------------------------------------------|
-| BLISTERS                                             |
+| MINIMUM PARTICULARS TO APPEAR ONBLISTERS ORSTRIPS   |
+|-----------------------------------------------------|
+| BLISTERS                                            |
 
 | 1.   | NAMEOFTHEMEDICINAL PRODUCT   |
 |------|------------------------------|
 
-| 2.   | NAMEOFTHEMARKETINGAUTHORISATION HOLDER   |
-|------|------------------------------------------|
+| 2.   | NAMEOFTHEMARKETING AUTHORISATION HOLDER   |
+|------|-------------------------------------------|
 
 | 3.   | EXPIRY DATE   |
 |------|---------------|
@@ -753,7 +746,7 @@ EXP
 
 Lot
 
-## 5. OTHER
+5. OTHER
 
 <div style=\"page-break-after: always\"></div>
 
@@ -929,8 +922,7 @@ Contact your doctor or go to your nearest emergency centre immediately if you ex
 - Stevens-Johnson syndrome (SJS): a severe allergic reaction with skin rashes, often in the form of blisters and sores in the mouth and eyes and other mucous membranes. This is a very rare side effect and may affect up to 1 in 10,000 people.
 - A condition called DRESS with blisters of the skin and feeling unwell with fever. This is a very rare side effect and may affect up to 1 in 1,000 people.
 - Arrhythmia and other disorders of the heart rhythm (atrioventricular block, rapid heart rate,
-- ventricular fibrillation). These are common side effects, may affect up to 1 in 10 people, see section
-- 'Warnings and precautions' for symptoms and more information.
+- ventricular fibrillation). These are common side effects, may affect up to 1 in 10 people, see section 'Warnings and precautions' for symptoms and more information.
 - severe allergy to mexiletine (with symptoms such as severe rash with fever); this is a very rare side effect, may affect up to 1 in 1,000 people.
 
 ## Other side effects that may occur:
@@ -1035,9 +1027,7 @@ Internal Doc Ref: v6.6
 
 Hanauer Landstraße 139-143, 60314 Frankfurt am Main Germany
 
-## Lupin Healthcare (UK) Ltd
-
-The Urban Building, second floor, 3-9 Albert Street SL1 2BE Slough, Berkshire, United Kingdom
+Lupin Healthcare (UK) Ltd The Urban Building, second floor, 3-9 Albert Street SL1 2BE Slough, Berkshire, United Kingdom
 
 For any information about this medicine, please contact the local representative of the Marketing Authorisation Holder:
 

@@ -1,18 +1,18 @@
 ---
-document_datetime: 2025-01-29 08:53:39
-document_pages: 63
+document_datetime: 2026-01-16 12:26:55
+document_pages: 62
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/irbesartan-hydrochlorothiazide-teva-epar-product-information_en.pdf
 document_name: irbesartan-hydrochlorothiazide-teva-epar-product-information_en.pdf
 version: success
-processing_time: 12.3953878
-conversion_datetime: 2025-12-24 00:38:44.184603
+processing_time: 12.6696297
+conversion_datetime: 2026-01-17 13:37:12.386932
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.64.1
-  docling-core: 2.55.0
+  docling-serve: 1.10.0
+  docling-jobkit: 1.8.1
+  docling: 2.68.0
+  docling-core: 2.59.0
   docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-parse: 4.7.3
   python: cpython-313 (3.13.11)
   plaform: macOS-26.2-arm64-arm-64bit-Mach-O
 ---
@@ -121,7 +121,7 @@ There is an increased risk of severe hypotension and renal insufficiency when pa
 
 ## Renal impairment and kidney transplantation
 
-When Irbesartan/Hydrochlorothiazide Teva is used in patients with impaired renal function, a periodic monitoring of potassium, creatinine and uric acid serum levels is recommended. There is no experience regarding the administration of Irbesartan/Hydrochlorothiazide Teva in patients with a recent kidney transplantation. Irbesartan/Hydrochlorothiazide Teva should not be used in patients with severe renal impairment (creatinine clearance &lt; 30 ml/min) (see section 4.3). Thiazide diuretic-associated azotaemia may occur in patients with impaired renal function. No dosage adjustment is necessary in patients with renal impairment whose creatinine clearance is ≥ 30 ml/min. However, in patients with mild to moderate renal impairment (creatinine clearance ≥ 30 ml/min but &lt; 60 ml/min) this fixed dose combination should be administered with caution.
+When Irbesartan/Hydrochlorothiazide Teva is used in patients with impaired renal function, a periodic monitoring of potassium, creatinine and uric acid serum levels is recommended. There is no experience regarding the administration of Irbesartan/Hydrochlorothiazide Teva in patients with a recent kidney transplantation. Irbesartan/Hydrochlorothiazide Teva should not be used in patients with severe renal impairment (creatinine clearance &lt; 30 ml/min) (see section 4.3). Thiazide diuretic-associated azotaemia may occur in patients with impaired renal function. No dosage adjustment is necessary in patients with renal impairme nt whose creatinine clearance is ≥ 30 ml/min. However, in patients with mild to moderate renal impairment (creatinine clearance ≥ 30 ml/min but &lt; 60 ml/min) this fixed dose combination should be administered with caution.
 
 ## Dual blockade of the renin-angiotensin-aldosterone system (RAAS)
 
@@ -361,7 +361,7 @@ Among 898 hypertensive patients who received various doses of irbesartan/hydroch
 
 Table 1 gives the adverse reactions observed from spontaneous reporting and in placebo-controlled trials.
 
-The frequency of adverse reactions listed below is defined using the following convention: very common ( ≥ 1/10); common ( ≥ 1/100 to &lt; 1/10); uncommon ( ≥ 1/1,000 to &lt; 1/100); rare ( ≥ 1/10,000 to &lt; 1/1,000); very rare (&lt; 1/10,000). Within each frequency grouping, undesirable effects are presented in order of decreasing seriousness.
+The frequency of adverse reactions listed below is defined using the following convention: very common ( ≥ 1/10); common ( ≥ 1/100 to &lt; 1/10); uncommon ( ≥ 1/1 000 to &lt; 1/100); rare ( ≥ 1/10 000 to &lt; 1/1 000); very rare (&lt; 1/10 000). Within each frequency grouping, undesirable effects are presented in order of decreasing seriousness.
 
 | Table 1. Adverse Reactions In Placebo-Controlled Trials and Spontaneous Reports   | Table 1. Adverse Reactions In Placebo-Controlled Trials and Spontaneous Reports   | Table 1. Adverse Reactions In Placebo-Controlled Trials and Spontaneous Reports                                            |
 |-----------------------------------------------------------------------------------|-----------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------|
@@ -454,11 +454,9 @@ The combination of hydrochlorothiazide and irbesartan produces dose-related addi
 
 Limited clinical data (7 out of 22 patients) suggest that patients not controlled with the 300 mg/12.5 mg combination may respond when uptitrated to 300 mg/25 mg. In these patients, an incremental blood pressure lowering effect was observed for both systolic blood pressure (SBP) and diastolic blood pressure (DBP) (13.3 and 8.3 mmHg, respectively).
 
-Once daily dosing with 150 mg irbesartan and 12.5 mg hydrochlorothiazide gave systolic/diastolic mean placebo-adjusted blood pressure reductions at trough (24 hours post-dosing) of 12.9/6.9 mmHg in patients with mild-to-moderate hypertension. Peak effects occurred at 3-6 hours. When assessed by ambulatory blood pressure monitoring, the combination 150 mg irbesartan and 12.5 mg hydrochlorothiazide once daily produced consistent reduction in blood pressure over the 24 hours period with mean 24-hour placebosubtracted systolic/diastolic reductions of 15.8/10.0 mmHg. When measured by ambulatory blood pressure monitoring, the trough to peak effects of irbesartan/hydrochlorothiazide 150 mg/12.5 mg were 100 %. The trough to peak effects measured by cuff during office visits were 68 % and 76 % for irbesartan/hydrochlorothiazide 150 mg/12.5 mg and irbesartan/hydrochlorothiazide 300 mg/12.5 mg,
+Once daily dosing with 150 mg irbesartan and 12.5 mg hydrochlorothiazide gave systolic/diastolic mean placebo-adjusted blood pressure reductions at trough (24 hours post-dosing) of 12.9/6.9 mmHg in patients with mild-to-moderate hypertension. Peak effects occurred at 3-6 hours. When assessed by ambulatory blood pressure monitoring, the combination 150 mg irbesartan and 12.5 mg hydrochlorothiazide once daily produced consistent reduction in blood pressure over the 24 hours period with mean 24-hour placebosubtracted systolic/diastolic reductions of 15.8/10.0 mmHg. When measured by ambulatory blood pressure monitoring, the trough to peak effects of irbesartan/hydrochlorothiazide 150 mg/12.5 mg were 100 %. The trough to peak effects measured by cuff during office visits were 68 % and 76 % for irbesartan/hydrochlorothiazide 150 mg/12.5 mg and irbesartan/hydrochlorothiazide 300 mg/12.5 mg, respectively. These 24-hour effects were observed without excessive blood pressure lowering at peak and are consistent with safe and effective blood-pressure lowering over the once-daily dosing interval.
 
 <div style=\"page-break-after: always\"></div>
-
-respectively. These 24-hour effects were observed without excessive blood pressure lowering at peak and are consistent with safe and effective blood-pressure lowering over the once-daily dosing interval.
 
 In patients not adequately controlled on 25 mg hydrochlorothiazide alone, the addition of irbesartan gave an added placebo-subtracted systolic/diastolic mean reduction of 11.1/7.2 mmHg.
 
@@ -490,7 +488,7 @@ ACE-inhibitors and angiotensin II receptor blockers should therefore not be used
 
 ALTITUDE (Aliskiren Trial in Type 2 Diabetes Using Cardiovascular and Renal Disease Endpoints) was a study designed to test the benefit of adding aliskiren to a standard therapy of an ACE-inhibitor or an angiotensin II receptor blocker in patients with type 2 diabetes mellitus and chronic kidney disease, cardiovascular disease, or both. The study was terminated early because of an increased risk of adverse outcomes. Cardiovascular death and stroke were both numerically more frequent in the aliskiren group than in the placebo group and adverse events and serious adverse events of interest (hyperkalaemia, hypotension and renal dysfunction) were more frequently reported in the aliskiren group than in the placebo group.
 
-Non-melanoma skin cancer: Based on available data from epidemiological studies, cumulative dosedependent association between HCTZ and NMSC has been observed. One study included a population comprised of 71,533 cases of BCC and of 8,629 cases of SCC matched to 1,430,833 and 172,462 population controls, respectively. High HCTZ use (≥50,000 mg cumulative) was associated wi th an adjusted OR of 1.29 (95% CI: 1.23-1.35) for BCC and 3.98 (95% CI: 3.68-4.31) for SCC. A clear cumulative dose response relationship was observed for both BCC and SCC. Another study showed a possible association between lip cancer (SCC) and exposure to HCTZ: 633 cases of lip-cancer were matched with 63,067 population controls, using a risk-set sampling strategy. A cumulative dose-response relationship was demonstrated with an adjusted OR 2.1 (95% CI: 1.7-2.6) increasing to OR 3.9 (3.0-4.9) for high use (~25,000 mg) and OR 7.7 (5.7-10.5) for the highest cumulative dose (~100,000 mg) (see also section 4.4).
+Non-melanoma skin cancer: Based on available data from epidemiological studies, cumulative dosedependent association between HCTZ and NMSC has been observed. One study included a population comprised of 71 533 cases of BCC and of 8 629 cases of SCC matched to 1 430 833 and 172 462 population controls, respectively. High HCTZ use (≥50,000 mg cumulative) was associat ed with an adjusted OR of 1.29 (95% CI: 1.23-1.35) for BCC and 3.98 (95% CI: 3.68-4.31) for SCC. A clear cumulative dose response relationship was observed for both BCC and SCC. Another study showed a possible association between lip cancer (SCC) and exposure to HCTZ: 633 cases of lip-cancer were matched with 63,067 population controls, using a risk-set sampling strategy. A cumulative dose-response relationship was demonstrated with an adjusted OR 2.1 (95% CI: 1.7-2.6) increasing to OR 3.9 (3.0-4.9) for high use (~25 000 mg) and OR 7.7 (5.7-10.5) for the highest cumulative dose (~100 000 mg) (see also section 4.4).
 
 ## 5.2 Pharmacokinetic properties
 
@@ -506,11 +504,11 @@ Plasma protein binding of irbesartan is approximately 96%, with negligible bindi
 
 ## Linearity/non-linearity
 
-Irbesartan exhibits linear and dose proportional pharmacokinetics over the dose range of 10 to 600 mg. A less than proportional increase in oral absorption at doses beyond 600 mg was observed; the mechanism for this is unknown. The total body and renal clearance are 157-176 and 3.0-3.5 ml/min, respectively. The terminal elimination half-life of irbesartan is 11-15 hours. Steady-state plasma concentrations are attained within 3 days after initiation of a once-daily dosing regimen. Limited accumulation of irbesartan (&lt; 20%) is observed in plasma upon repeated once-daily dosing. In a study, somewhat higher plasma concentrations of irbesartan were observed in female hypertensive patients. However, there was no difference in the half-life
+Irbesartan exhibits linear and dose proportional pharmacokinetics over the dose range of 10 to 600 mg. A less than proportional increase in oral absorption at doses beyond 600 mg was observed; the mechanism for this is unknown. The total body and renal clearance are 157-176 and 3.0-3.5 ml/min, respectively. The terminal elimination half-life of irbesartan is 11-15 hours. Steady-state plasma concentrations are attained within 3 days after initiation of a once-daily dosing regimen. Limited accumulation of irbesartan (&lt; 20%) is observed in plasma upon repeated once-daily dosing. In a study, somewhat higher plasma concentrations of irbesartan were observed in female hypertensive patients. However, there was no difference in the half-life and accumulation of irbesartan. No dosage adjustment is necessary in female patients. Irbesartan AUC and
 
 <div style=\"page-break-after: always\"></div>
 
-and accumulation of irbesartan. No dosage adjustment is necessary in female patients. Irbesartan AUC and Cmax values were also somewhat greater in older subjects (≥ 65 years) than those of young subjects (1840 years). However the terminal half-life was not significantly altered. No dosage adjustment is necessary in older people. The mean plasma half-life of hydrochlorothiazide reportedly ranges from 5-15 hours.
+Cmax values were also somewhat greater in older subjects (≥ 65 years) than those of young subjects (1840 years). However the terminal half-life was not significantly altered. No dosage adjustment is necessary in older people. The mean plasma half-life of hydrochlorothiazide reportedly ranges from 5-15 hours.
 
 ## Biotransformation
 
@@ -532,34 +530,23 @@ In patients with mild to moderate cirrhosis, the pharmacokinetic parameters of i
 
 ## Irbesartan/hydrochlorothiazide
 
-The potential toxicity of the irbesartan/hydrochlorothiazide combination after oral administration was evaluated in rats and macaques in studies lasting up to 6 months. There were no toxicological findings observed of relevance to human therapeutic use.
-
-The following changes, observed in rats and macaques receiving the irbesartan/hydrochlorothiazide combination at 10/10 and 90/90 mg/kg/day, were also seen with one of the two medicinal products alone and/or were secondary to decreases in blood pressure (no significant toxicologic interactions were observed):
-
-- kidney changes, characterized by slight increases in serum urea and creatinine, and hyperplasia/hypertrophy of the juxtaglomerular apparatus, which are a direct consequence of the interaction of irbesartan with the renin-angiotensin system;
-- slight decreases in erythrocyte parameters (erythrocytes, haemoglobin, haematocrit);
-- stomach discoloration, ulcers and focal necrosis of gastric mucosa were observed in few rats in a 6 months toxicity study at irbesartan 90 mg/kg/day, hydrochlorothiazide 90 mg/kg/day, and irbesartan/hydrochlorothiazide 10/10 mg/kg/day. These lesions were not observed in macaques;
-- decreases in serum potassium due to hydrochlorothiazide and partly prevented when hydrochlorothiazide was given in combination with irbesartan.
-
-Most of the above mentioned effects appear to be due to the pharmacological activity of irbesartan (blockade of angiotensin-II-induced inhibition of renin release, with stimulation of the renin-producing cells) and occur
-
-<div style=\"page-break-after: always\"></div>
-
-also with angiotensin converting enzyme inhibitors. These findings appear to have no relevance to the use of therapeutic doses of irbesartan/hydrochlorothiazide in humans.
-
-No teratogenic effects were seen in rats given irbesartan and hydrochlorothiazide in combination at doses that produced maternal toxicity. The effects of the irbesartan/hydrochlorothiazide combination on fertility have not been evaluated in animal studies, as there is no evidence of adverse effect on fertility in animals or humans with either irbesartan or hydrochlorothiazide when administered alone. However, another angiotensin-II antagonist affected fertility parameters in animal studies when given alone. These findings were also observed with lower doses of this other angiotensin-II antagonist when given in combination with hydrochlorothiazide.
+Results in rats and macaques in studies lasting up to 6 months showed that administration of the combination neither augmented any of the reported toxicities of the single components, nor induced any new toxicities. In addition, no toxicologically synergistic effects were observed.
 
 There was no evidence of mutagenicity or clastogenicity with the irbesartan/hydrochlorothiazide combination. The carcinogenic potential of irbesartan and hydrochlorothiazide in combination has not been evaluated in animal studies.
 
+The effects of the irbesartan/hydrochlorothiazide combination on fertility have not been evaluated in animal studies. No teratogenic effects were seen in rats given irbesartan and hydrochlorothiazide in combination at doses that produced maternal toxicity.
+
 ## Irbesartan
 
-There was no evidence of abnormal systemic or target organ toxicity at clinically relevant doses. In nonclinical safety studies, high doses of irbesartan (≥ 250 mg/kg/day in rats and ≥ 100 mg/kg/day in macaques) caused a reduction of red blood cell parameters (erythrocytes, haemoglobin, haematocrit). At very high doses (≥ 500 mg/kg/day) degenerative changes in the kidneys (such as interstitial nephritis, tubular distention, basophilic tubules, increased plasma concentrations of urea and creatinine) were induced by irbesartan in the rat and the macaque and are considered secondary to the hypotensive effects of the medicinal product which led to decreased renal perfusion. Furthermore, irbesartan induced hyperplasia/hypertrophy of the juxtaglomerular cells (in rats at ≥ 90 mg/kg/day, in macaques at ≥ 10 mg/kg/day). All of these changes were considered to be caused by the pharmacological action of irbesartan. For therapeutic doses of irbesartan in humans, the hyperplasia/hypertrophy of the renal juxtaglomerular cells does not appear to have any relevance.
+In non-clinical safety studies, high doses of irbesartan caused a reduction of red blood cell parameters. At very high doses degenerative changes in the kidneys (such as interstitial nephritis, tubular distention, basophilic tubules, increased plasma concentrations of urea and creatinine) were induced in the rat and the macaque and are considered secondary to the hypotensive effects of irbesartan which led to decreased renal
+
+<div style=\"page-break-after: always\"></div>
+
+perfusion. Furthermore, irbesartan induced hyperplasia/hypertrophy of the juxtaglomerular cells. This finding was considered to be caused by the pharmacological action of irbesartan with little clinical relevance.
 
 There was no evidence of mutagenicity, clastogenicity or carcinogenicity.
 
-Fertility and reproductive performance were not affected in studies of male and female rats even at oral doses of irbesartan causing some parental toxicity (from 50 to 650 mg/kg/day), including mortality at the highest dose. No significant effects on the number of corpora lutea, implants, or live foetuses were observed. Irbesartan did not affect survival, development, or reproduction of offspring. Studies in animals indicate that the radiolabelled irbesartan is detected in rat and rabbit foetuses. Irbesartan is excreted in the milk of lactating rats.
-
-Animal studies with irbesartan showed transient toxic effects (increased renal pelvic cavitation, hydroureter or subcutaneous oedema) in rat foetuses, which were resolved after birth. In rabbits, abortion or early resorption was noted at doses causing significant maternal toxicity, including mortality. No teratogenic effects were observed in the rat or rabbit.
+Fertility and reproductive performance were not affected in studies of male and female rats. Animal studies with irbesartan showed transient toxic effects (increased renal pelvic cavitation, hydroureter or subcutaneous oedema) in rat foetuses, which were resolved after birth. In rabbits, abortion or early resorption was noted at doses causing significant maternal toxicity, including mortality. No teratogenic effects were observed in the rat or rabbit. Studies in animals indicate that the radiolabelled irbesartan is detected in rat and rabbit foetuses. Irbesartan is excreted in the milk of lactating rats.
 
 ## Hydrochlorothiazide
 
@@ -569,17 +556,11 @@ Equivocal evidence for a genotoxic or carcinogenic effect was found in some expe
 
 ## 6.1 List of excipients
 
-Tablet core: Povidone Pregelatinized starch (maize) Poloxamer 188
-
-<div style=\"page-break-after: always\"></div>
-
-Microcrystalline cellulose Croscarmellose sodium Colloidal anhydrous silica Magnesium stearate
+Tablet core: Povidone Pregelatinized starch (maize) Poloxamer 188 Microcrystalline cellulose Croscarmellose sodium Colloidal anhydrous silica Magnesium stearate
 
 Film-coating for 150 mg/12.5 mg and 300 mg/12.5 mg strengths: Hypromellose Titanium Dioxide Polyethylene Glycol 6000 (Macrogol) Polyethylene Glycol 400 (Macrogol) Iron Oxide Red Iron Oxide Yellow Iron Oxide Black
 
-Film-coating for 300 mg/25 mg strength: Hypromellose Titanium Dioxide Polyethylene Glycol 6000 (Macrogol) Polyethylene Glycol 400 (Macrogol) Iron Oxide Red Indigotine (Indigo carmine aluminium lake FD&amp;C blue #2)
-
-Iron Oxide Black
+Film-coating for 300 mg/25 mg strength: Hypromellose Titanium Dioxide Polyethylene Glycol 6000 (Macrogol) Polyethylene Glycol 400 (Macrogol) Iron Oxide Red Indigotine (Indigo carmine aluminium lake FD&amp;C blue #2) Iron Oxide Black
 
 ## 6.2 Incompatibilities
 
@@ -588,6 +569,8 @@ Not applicable.
 ## 6.3 Shelf life
 
 2 years.
+
+<div style=\"page-break-after: always\"></div>
 
 ## 6.4 Special precautions for storage
 
@@ -611,15 +594,19 @@ Not all pack sizes may be marketed.
 
 Any unused medicinal product or waste material should be disposed of in accordance with local requirements.
 
-<div style=\"page-break-after: always\"></div>
-
 ## 7. MARKETING AUTHORISATION HOLDER
 
-Teva B.V. Swensweg 5 2031GA Haarlem The Netherlands
+Teva B.V.
+
+Swensweg 5
+
+2031GA Haarlem
+
+The Netherlands
 
 ## 8. MARKETING AUTHORISATION NUMBER(S)
 
-## Irbesartan/Hydrochlorothiazide Teva 150 mg/12.5 mg film-coated tablets
+Irbesartan/Hydrochlorothiazide Teva 150 mg/12.5 mg film-coated tablets
 
 EU/1/09/583/001-024
 
@@ -641,10 +628,6 @@ EU/1/09/583/049-072
 
 EU/1/09/583/075
 
-EU/1/09/583/049-072
-
-EU/1/09/583/075
-
 EU/1/09/583/078
 
 ## 9. DATE OF FIRST AUTHORISATION/RENEWAL OF THE AUTHORISATION
@@ -655,19 +638,21 @@ Date of latest renewal: 11 November 2014
 
 ## 10. DATE OF REVISION OF THE TEXT
 
-Detailed information on this medicinal product is available on the European Medicines Agency web site: http://www.ema.europa.eu/
+<div style=\"page-break-after: always\"></div>
+
+Detailed information on this medicinal product is available on the European Medicines Agency web site: https://www.ema.europa.eu/
 
 <div style=\"page-break-after: always\"></div>
 
 ## ANNEX II
 
-## A. MANUFACTURERS RESPONSIBLE FOR BATCH RELEASE B. CONDITIONS OR RESTRICTIONS REGARDING SUPPLY AND USE C. OTHER CONDITIONS AND REQUIREMENTS OF THE MARKETING AUTHORISATION
+## A. MANUFACTURER(S) RESPONSIBLE FOR BATCH RELEASE B. CONDITIONS OR RESTRICTIONS REGARDING SUPPLY AND USE C. OTHER CONDITIONS AND REQUIREMENTS OF THE MARKETING AUTHORISATION
 
 ## D. CONDITIONS OR RESTRICTIONS WITH REGARD TO THE SAFE AND EFFECTIVE USE OF THE MEDICINAL PRODUCT
 
 <div style=\"page-break-after: always\"></div>
 
-## A. MANUFACTURERS RESPONSIBLE FOR BATCH RELEASE
+## A. MANUFACTURER(S) RESPONSIBLE FOR BATCH RELEASE
 
 Name and address of the manufacturer(s) responsible for batch release
 
@@ -785,8 +770,6 @@ Lot
 
 ## 14. GENERAL CLASSIFICATION FOR SUPPLY
 
-Medicinal product subject to medical prescription.
-
 ## 15. INSTRUCTIONS ON USE
 
 ## 16. INFORMATION IN BRAILLE
@@ -797,12 +780,13 @@ Irbesartan/Hydrochlorothiazide Teva 150 mg/12.5 mg
 
 2D barcode carrying the unique identifier included.
 
-<div style=\"page-break-after: always\"></div>
+## 18. UNIQUE IDENTIFIER - HUMAN READABLE DATA
 
-| 18.   | UNIQUE IDENTIFIER - HUMANREADABLE DATA   |
-|-------|------------------------------------------|
+PC:
 
-PC: SN: NN:
+SN:
+
+NN:
 
 <div style=\"page-break-after: always\"></div>
 
@@ -845,6 +829,11 @@ LOT
 
 ## 5. OTHER
 
+<div style=\"page-break-after: always\"></div>
+
+| 4.   | BATCH NUMBER   |
+|------|----------------|
+
 ## MINIMUM PARTICULARS TO APPEAR ON BLISTERS OR STRIPS
 
 ## CALENDAR BLISTER
@@ -866,8 +855,6 @@ EXP
 LOT
 
 ## 5. OTHER
-
-<div style=\"page-break-after: always\"></div>
 
 Monday Tuesday Wednesday Thursday Friday Saturday Sunday
 
@@ -915,8 +902,6 @@ Keep out of the sight and reach of children.
 
 ## 7. OTHER SPECIAL WARNING(S), IF NECESSARY
 
-<div style=\"page-break-after: always\"></div>
-
 ## 8. EXPIRY DATE
 
 EXP
@@ -929,13 +914,7 @@ White opaque PVC-PVdC - Aluminium blisters: Do not store above 30°C.
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
-Teva B.V.
-
-Swensweg 5
-
-2031GA Haarlem
-
-The Netherlands
+Teva B.V. Swensweg 5 2031GA Haarlem The Netherlands
 
 ## 12. MARKETING AUTHORISATION NUMBER(S)
 
@@ -951,8 +930,6 @@ Lot
 
 ## 14. GENERAL CLASSIFICATION FOR SUPPLY
 
-Medicinal product subject to medical prescription.
-
 ## 15. INSTRUCTIONS ON USE
 
 ## 16. INFORMATION IN BRAILLE
@@ -960,6 +937,8 @@ Medicinal product subject to medical prescription.
 Irbesartan/Hydrochlorothiazide Teva 300 mg/12.5 mg
 
 ## 17. UNIQUE IDENTIFIER - 2D BARCODE
+
+<div style=\"page-break-after: always\"></div>
 
 2D barcode carrying the unique identifier included.
 
@@ -1084,8 +1063,6 @@ Keep out of the sight and reach of children.
 
 ## 7. OTHER SPECIAL WARNING(S), IF NECESSARY
 
-<div style=\"page-break-after: always\"></div>
-
 ## 8. EXPIRY DATE
 
 EXP
@@ -1098,29 +1075,19 @@ White opaque PVC-PVdC - Aluminium blisters: Do not store above 30°C.
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
-Teva B.V.
-
-Swensweg 5
-
-2031GA Haarlem
+Teva B.V. Swensweg 5 2031GA Haarlem
 
 The Netherlands
 
 ## 12. MARKETING AUTHORISATION NUMBER(S)
 
-EU/1/09/583/049-072
-
-EU/1/09/583/075
-
-EU/1/09/583/078
+EU/1/09/583/049-072 EU/1/09/583/075 EU/1/09/583/078
 
 ## 13. BATCH NUMBER
 
 Lot
 
 ## 14. GENERAL CLASSIFICATION FOR SUPPLY
-
-Medicinal product subject to medical prescription.
 
 ## 15. INSTRUCTIONS ON USE
 
@@ -1129,6 +1096,8 @@ Medicinal product subject to medical prescription.
 Irbesartan/Hydrochlorothiazide Teva 300 mg/25 mg
 
 ## 17. UNIQUE IDENTIFIER - 2D BARCODE
+
+<div style=\"page-break-after: always\"></div>
 
 2D barcode carrying the unique identifier included.
 
@@ -1178,7 +1147,12 @@ EXP
 
 LOT
 
-## 5. OTHER
+5. OTHER
+
+<div style=\"page-break-after: always\"></div>
+
+| 4.   | BATCH NUMBER   |
+|------|----------------|
 
 ## MINIMUM PARTICULARS TO APPEAR ON BLISTERS OR STRIPS
 
@@ -1201,8 +1175,6 @@ EXP
 LOT
 
 ## 5. OTHER
-
-<div style=\"page-break-after: always\"></div>
 
 Monday Tuesday Wednesday Thursday Friday Saturday Sunday
 
@@ -1411,13 +1383,13 @@ As for any combination of two active substances, side effects associated with ea
 
 ## Side effects associated with  irbesartan alone:
 
-In addition to the side effects listed above, chest pain, severe allergic reactions (anaphylactic shock), decreased number of red blood cells (anaemia - symptoms may include tiredness, headaches, being short of breath when exercising, dizziness and looking pale), decrease in the number of platelets (a blood cell essential for the clotting of the blood) and low blood sugar levels have also been reported. Rare side effects (may affect up to 1 in 1,000 people): Intestinal angioedema: A swelling in the gut presenting with symptoms like abdominal pain, nausea, vomiting and diarrhoea.
+In addition to the side effects listed above, chest pain, severe allergic reactions (anaphylactic shock), decreased number of red blood cells (anaemia - symptoms may include tiredness, headaches, being short of breath when exercising, dizziness and looking pale), decrease in the number of platelets (a blood cell essential for the clotting of the blood) and low blood sugar levels have also been reported. Rare side effects (may affect up to 1 in 1 000 people): Intestinal angioedema: A swelling in the gut presenting with symptoms like abdominal pain, nausea, vomiting and diarrhoea.
 
 ## Side effects associated with hydrochlorothiazide alone are:
 
 Loss of appetite; stomach irritation; stomach cramps; constipation; jaundice seen as yellowing of the skin and/or whites of the eyes; inflammation of the pancreas characterised by severe upper stomach pain, often with nausea and vomiting; sleep disorders; depression; blurred vision; decrease in vision or pain in your eyes due to high pressure (possible signs of fluid accumulation in the vascular layer of the eye (choroidal effusion) or acute angle-closure glaucoma); lack of white blood cells, which can result in frequent infections, fever; decrease in the number of platelets (a blood cell essential for the clotting of the blood), decreased number of red blood cells (anaemia) characterised by tiredness, headaches, being short of breath when exercising, dizziness and looking pale; kidney disease; lung problems including pneumonia or build-up of fluid in the lungs; increased sensitivity of the skin to the sun; inflammation of blood vessels; a skin disease characterized by the peeling of the skin all over the body; cutaneous lupus erythematosus, which is identified by a rash that may appear on the face, neck, and scalp; allergic reactions; weakness and muscle spasm; altered heart rate; reduced blood pressure after a change in body position; swelling of the salivary glands; high sugar levels in the blood; sugar in the urine; increases in some kinds of blood fat; high uric acid levels in the blood, which may cause gout.
 
-Very rare side effects (may affect up to 1 in 10,000 people): Acute respiratory distress (signs include severe shortness of breath, fever, weakness, and confusion).
+Very rare side effects (may affect up to 1 in 10 000 people): Acute respiratory distress (signs include severe shortness of breath, fever, weakness, and confusion).
 
 Frequency 'not known': Skin and lip cancer (Non-melanoma skin cancer)
 
@@ -1446,8 +1418,9 @@ Do not throw away any medicines via wastewater or household waste. Ask your phar
 ## What Irbesartan/Hydrochlorothiazide Teva contains
 
 -  The active ingredients are irbesartan and hydrochlorothiazide. Each Irbesartan/Hydrochlorothiazide Teva 150 mg/12.5 mg film-coated tablet contains 150 mg irbesartan and 12.5 mg hydrochlorothiazide.
-- 
-- The other ingredients are: Tablet core: povidone, pregelatinized starch (maize), poloxamer 188, microcrystalline cellulose, croscarmellose sodium, colloidal anhydrous silica and magnesium stearate. Tablet coating for 150 mg/12.5 mg strength: hypromellose, titanium dioxide, polyethylene glycol 6000 (macrogol), polyethylene glycol 400 (macrogol), iron oxide red, iron oxide yellow and iron oxide black.
+-  The other ingredients are:
+
+Tablet core: povidone, pregelatinized starch (maize), poloxamer 188, microcrystalline cellulose, croscarmellose sodium, colloidal anhydrous silica and magnesium stearate. Tablet coating for 150 mg/12.5 mg strength: hypromellose, titanium dioxide, polyethylene glycol 6000 (macrogol), polyethylene glycol 400 (macrogol), iron oxide red, iron oxide yellow and iron oxide black.
 
 ## What Irbesartan/Hydrochlorothiazide Teva looks like and contents of the pack
 
@@ -1457,7 +1430,9 @@ Irbesartan/Hydrochlorothiazide Teva is available in pack sizes of 7, 14, 15, 20,
 
 Not all pack sizes may be marketed.
 
-Marketing Authorisation Holder Teva B.V. Swensweg 5 2031GA Haarlem The Netherlands
+## Marketing Authorisation Holder
+
+Teva B.V. Swensweg 5 2031GA Haarlem The Netherlands
 
 ## Manufacturers:
 
@@ -1473,15 +1448,9 @@ For any information about this medicinal product, please contact the local repre
 
 ## België/Belgique/Belgien
 
-## Lietuva
-
 Teva Pharma Belgium N.V./S.A./AG
 
 Tél/Tel: +32 38207373
-
-UAB Teva Baltics
-
-Tel: +370 52660203
 
 ## България
 
@@ -1491,6 +1460,78 @@ Teл
 
 .: +359 24899585
 
+## Česká republika
+
+Teva Pharmaceuticals CR, s.r.o.
+
+Tel: +420 251007111
+
+## Danmark
+
+Teva Denmark A/S
+
+Tlf.: +45 44985511
+
+## Deutschland
+
+TEVA GmbH
+
+Tel: +49 73140208
+
+## Eesti
+
+UAB Teva Baltics Eesti filiaal
+
+Tel: +372 6610801
+
+## Ελλάδα
+
+TEVA HELLAS Α . Ε .
+
+Τηλ: +30 21 18805000
+
+## España
+
+Teva Pharma, S.L.U.
+
+Tel: +34 915359180
+
+## France
+
+Teva Santé
+
+Tél: +33 155917800
+
+## Hrvatska
+
+Pliva Hrvatska d.o.o.
+
+Tel: +385 13720000
+
+## Ireland
+
+Teva Pharmaceuticals Ireland
+
+Tel: +44 2075407117
+
+## Ísland
+
+Teva Pharma Iceland ehf.
+
+Sími: +354 5503300
+
+## Italia
+
+Teva Italia S.r.l.
+
+Tel: +39 028917981
+
+## Lietuva
+
+UAB Teva Baltics
+
+Tel: +370 52660203
+
 ## Luxembourg/Luxemburg
 
 Teva Pharma Belgium N.V./S.A./AG
@@ -1499,39 +1540,19 @@ Belgique/Belgien
 
 Tél/Tel: +32 38207373
 
-## Česká republika
-
-Teva Pharmaceuticals CR, s.r.o.
-
-Tel: +420 251007111
-
 ## Magyarország
 
 Teva Gyógyszergyár Zrt.
 
-Tel: +36 12886400
-
-## Danmark
-
-Teva Denmark A/S
-
-Tlf: +45 44985511
+Tel.: +36 12886400
 
 ## Malta
 
-Teva Pharmaceuticals Ireland
+TEVA HELLAS Α.Ε.
 
-L-Irlanda
+ilGreċja
 
-Τel: +
-
-44 2075407117
-
-## Deutschland
-
-TEVA GmbH
-
-Tel: +49 73140208
+Tel: +30 2118805000
 
 ## Nederland
 
@@ -1539,57 +1560,29 @@ Teva Nederland B.V.
 
 Tel: +31 8000228400
 
-## Eesti
-
-UAB Teva Baltics Eesti filiaal
-
-Tel: +372 6610801
-
 ## Norge
 
 Teva Norway AS
 
 Tlf: +47 66775590
 
-## Ελλάδα
-
-TEVA HELLAS Α . Ε .
-
-Τηλ: +30 21
-
-18805000
-
 ## Österreich
 
-ratiopharm Arzneimittel Vertriebs-GmbH Tel: +43 1970070
+ratiopharm Arzneimittel Vertriebs-GmbH
 
-## España
-
-Teva Pharma, S.L.U.
-
-Tel: +34 913873280
+Tel: +43 1970070
 
 ## Polska
 
 Teva Pharmaceuticals Polska Sp. z o.o.
 
-Tel: +48 223459300
-
-## France
-
-Teva Santé
-
-Tél: +33 155917800
+Tel.: +48 223459300
 
 ## Portugal
 
-Teva Pharma - Produtos Farmacêuticos, Lda. Tel: +351 214767550
+Teva Pharma - Produtos Farmacêuticos, Lda.
 
-## Hrvatska
-
-Pliva Hrvatska d.o.o.
-
-Tel: +385 13720000
+Tel: +351 214767550
 
 ## România
 
@@ -1597,21 +1590,11 @@ Teva Pharmaceuticals S.R.L.
 
 Tel: +40 212306524
 
-## Ireland
-
-Teva Pharmaceuticals Ireland
-
-Tel: +44 2075407117
-
 ## Slovenija
 
-Pliva Ljubljana d.o.o. Tel: +386 15890390
+Pliva Ljubljana d.o.o.
 
-## Ísland
-
-Teva Pharma Iceland ehf.
-
-Sími: +354 5503300
+Tel: +386 15890390
 
 ## Slovenská republika
 
@@ -1619,19 +1602,17 @@ TEVA Pharmaceuticals Slovakia s.r.o.
 
 Tel: +421 257267911
 
-<div style=\"page-break-after: always\"></div>
+## Suomi/Finland
 
-## Italia
+Teva Finland Oy
 
-Teva Italia S.r.l.
-
-Tel: +39 028917981
+Puh/Tel: +358 201805900
 
 ## Κύπρος
 
-TEVA HELLAS Α . Ε . Ελλάδα
+TEVA HELLAS Α . Ε . Ελλάδα Τηλ: +30 2118805000
 
-Τηλ: +30 2118805000
+<div style=\"page-break-after: always\"></div>
 
 ## Latvija
 
@@ -1641,15 +1622,9 @@ Tel: +371 67323666
 
 This leaflet was last revised in {MM/YYYY}.
 
-Detailed information on this medicine is available on the European Medicines Agency (EMA) web site: http://www.ema.europa.eu/
+Detailed information on this medicine is available on the European Medicines Agency (EMA) web site: https://www.ema.europa.eu/
 
-## Suomi/Finland
-
-Teva Finland Oy
-
-Puh/Tel: +358 201805900
-
-## Sverige
+Sverige
 
 Teva Sweden AB
 
@@ -1855,13 +1830,13 @@ As for any combination of two active substances, side effects associated with ea
 
 ## Side effects associated with  irbesartan alone:
 
-In addition to the side effects listed above, chest pain, severe allergic reactions (anaphylactic shock), decreased number of red blood cells (anaemia - symptoms may include tiredness, headaches, being short of breath when exercising, dizziness and looking pale), decrease in the number of platelets (a blood cell essential for the clotting of the blood) and low blood sugar levels have also been reported. Rare side effects (may affect up to 1 in 1,000 people): Intestinal angioedema: A swelling in the gut presenting with symptoms like abdominal pain, nausea, vomiting and diarrhoea.
+In addition to the side effects listed above, chest pain, severe allergic reactions (anaphylactic shock), decreased number of red blood cells (anaemia - symptoms may include tiredness, headaches, being short of breath when exercising, dizziness and looking pale), decrease in the number of platelets (a blood cell essential for the clotting of the blood) and low blood sugar levels have also been reported. Rare side effects (may affect up to 1 in 1 000 people): Intestinal angioedema: A swelling in the gut presenting with symptoms like abdominal pain, nausea, vomiting and diarrhoea.
 
 ## Side effects associated with hydrochlorothiazide alone are:
 
 Loss of appetite; stomach irritation; stomach cramps; constipation; jaundice seen as yellowing of the skin and/or whites of the eyes; inflammation of the pancreas characterised by severe upper stomach pain, often with nausea and vomiting; sleep disorders; depression; blurred vision; decrease in vision or pain in your eyes due to high pressure (possible signs of fluid accumulation in the vascular layer of the eye (choroidal effusion) or acute angle-closure glaucoma); lack of white blood cells, which can result in frequent infections, fever; decrease in the number of platelets (a blood cell essential for the clotting of the blood), decreased number of red blood cells (anaemia) characterised by tiredness, headaches, being short of breath when exercising, dizziness and looking pale; kidney disease; lung problems including pneumonia or build-up of fluid in the lungs; increased sensitivity of the skin to the sun; inflammation of blood vessels; a skin disease characterized by the peeling of the skin all over the body; cutaneous lupus erythematosus, which is identified by a rash that may appear on the face, neck, and scalp; allergic reactions; weakness and muscle spasm; altered heart rate; reduced blood pressure after a change in body position; swelling of the salivary glands; high sugar levels in the blood; sugar in the urine; increases in some kinds of blood fat; high uric acid levels in the blood, which may cause gout.
 
-Very rare side effects (may affect up to 1 in 10,000 people): Acute respiratory distress (signs include severe shortness of breath, fever, weakness, and confusion).
+Very rare side effects (may affect up to 1 in 10 000 people): Acute respiratory distress (signs include severe shortness of breath, fever, weakness, and confusion).
 
 Frequency 'not known': Skin and lip cancer (Non-melanoma skin cancer)
 
@@ -1944,7 +1919,7 @@ Tel: +420 251007111
 
 Teva Denmark A/S
 
-Tlf: +45 44985511
+Tlf.: +45 44985511
 
 ## Deutschland
 
@@ -1960,7 +1935,9 @@ UAB Teva Baltics Eesti filiaal Tel: +372 6610801
 
 TEVA HELLAS Α . Ε
 
-Τηλ: +30 2118805000
+Τηλ: +30 21
+
+18805000
 
 .
 
@@ -1968,7 +1945,7 @@ TEVA HELLAS Α . Ε
 
 Teva Pharma, S.L.U.
 
-Tel: +34 913873280
+Tel: +34 915359180
 
 ## France
 
@@ -2002,9 +1979,7 @@ Tel: +39 028917981
 
 ## Lietuva
 
-UAB Teva Baltics
-
-Tel: +370 52660203
+UAB Teva Baltics Tel: +370 52660203
 
 ## Luxembourg/Luxemburg
 
@@ -2014,27 +1989,25 @@ Tél/Tel: +32 38207373
 
 ## Magyarország
 
-Teva Gyógyszergyár Zrt. Tel: +36 12886400
+Teva Gyógyszergyár Zrt.
+
+Tel.: +36 12886400
 
 ## Malta
 
-Teva Pharmaceuticals Ireland L-Irlanda
+TEVA HELLAS Α.Ε.
 
-Τel: +
+ilGreċja
 
-44 2075407117
+Tel: +30 2118805000
 
 ## Nederland
 
-Teva Nederland B.V.
-
-Tel: +31 8000228400
+Teva Nederland B.V. Tel: +31 8000228400
 
 ## Norge
 
-Teva Norway AS
-
-Tlf: +47 66775590
+Teva Norway AS Tlf: +47 66775590
 
 ## Österreich
 
@@ -2042,7 +2015,9 @@ ratiopharm Arzneimittel Vertriebs-GmbH Tel: +43 1970070
 
 ## Polska
 
-Teva Pharmaceuticals Polska Sp. z o.o. Tel: +48 223459300
+Teva Pharmaceuticals Polska Sp. z o.o.
+
+Tel.: +48 223459300
 
 ## Portugal
 
@@ -2082,9 +2057,9 @@ UAB Teva Baltics filiāle Latvijā
 
 Tel: +371 67323666
 
-## This leaflet was last revised in {MM/YYYY}.
+This leaflet was last revised in {MM/YYYY}.
 
-Detailed information on this medicine is available on the European Medicines Agency (EMA) web site: http://www.ema.europa.eu/
+Detailed information on this medicine is available on the European Medicines Agency (EMA) web site: https://www.ema.europa.eu/
 
 Sverige
 
@@ -2295,13 +2270,13 @@ As for any combination of two active substances, side effects associated with ea
 
 ## Side effects associated with  irbesartan alone:
 
-In addition to the side effects listed above, chest pain, severe allergic reactions (anaphylactic shock), decreased number of red blood cells (anaemia - symptoms may include tiredness, headaches, being short of breath when exercising, dizziness and looking pale), decrease in the number of platelets (a blood cell essential for the clotting of the blood) and low blood sugar levels have also been reported. Rare side effects (may affect up to 1 in 1,000 people): Intestinal angioedema: A swelling in the gut presenting with symptoms like abdominal pain, nausea, vomiting and diarrhoea.
+In addition to the side effects listed above, chest pain, severe allergic reactions (anaphylactic shock), decreased number of red blood cells (anaemia - symptoms may include tiredness, headaches, being short of breath when exercising, dizziness and looking pale), decrease in the number of platelets (a blood cell essential for the clotting of the blood) and low blood sugar levels have also been reported. Rare side effects (may affect up to 1 in 1 000 people): Intestinal angioedema: A swelling in the gut presenting with symptoms like abdominal pain, nausea, vomiting and diarrhoea.
 
 ## Side effects associated with hydrochlorothiazide alone are:
 
 Loss of appetite; stomach irritation; stomach cramps; constipation; jaundice seen as yellowing of the skin and/or whites of the eyes; inflammation of the pancreas characterised by severe upper stomach pain, often with nausea and vomiting; sleep disorders; depression; blurred vision; decrease in vision or pain in your eyes due to high pressure (possible signs of fluid accumulation in the vascular layer of the eye (choroidal effusion) or acute angle-closure glaucoma); lack of white blood cells, which can result in frequent infections, fever; decrease in the number of platelets (a blood cell essential for the clotting of the blood), decreased number of red blood cells (anaemia) characterised by tiredness, headaches, being short of breath when exercising, dizziness and looking pale; kidney disease; lung problems including pneumonia or build-up of fluid in the lungs; increased sensitivity of the skin to the sun; inflammation of blood vessels; a skin disease characterized by the peeling of the skin all over the body; cutaneous lupus erythematosus, which is identified by a rash that may appear on the face, neck, and scalp; allergic reactions; weakness and muscle spasm; altered heart rate; reduced blood pressure after a change in body position; swelling of the salivary glands; high sugar levels in the blood; sugar in the urine; increases in some kinds of blood fat; high uric acid levels in the blood, which may cause gout.
 
-Very rare side effects (may affect up to 1 in 10,000 people): Acute respiratory distress (signs include severe shortness of breath, fever, weakness, and confusion).
+Very rare side effects (may affect up to 1 in 10 000 people): Acute respiratory distress (signs include severe shortness of breath, fever, weakness, and confusion).
 
 Frequency 'not known': Skin and lip cancer (Non-melanoma skin cancer)
 
@@ -2322,7 +2297,6 @@ For Irbesartan/Hydrochlorothiazide Teva packaged in white opaque PVC-PVdC - alum
 <div style=\"page-break-after: always\"></div>
 
 - 
-- 
 
 For Irbesartan/Hydrochlorothiazide Teva packaged in aluminium - aluminium blisters: This medicinal product does not require any special storage conditions.
 
@@ -2332,11 +2306,15 @@ Do not throw away any medicines via wastewater or household waste. Ask your phar
 
 ## What Irbesartan/Hydrochlorothiazide Teva contains
 
-- The active ingredients are irbesartan and hydrochlorothiazide. Each Irbesartan/Hydrochlorothiazide Teva 300 mg/25 mg film-coated tablet contains 300 mg
+- The active ingredients are irbesartan and hydrochlorothiazide.
 
-irbesartan and 25 mg hydrochlorothiazide.
+Each Irbesartan/Hydrochlorothiazide Teva 300 mg/25 mg film-coated tablet contains 300 mg irbesartan and 25 mg hydrochlorothiazide.
 
-The other ingredients are: Tablet core: povidone, pregelatinized starch (maize), poloxamer 188, microcrystalline cellulose, croscarmellose sodium, colloidal anhydrous silica and magnesium stearate. Tablet coating for 300 mg/25 mg strength: hypromellose, titanium dioxide, polyethylene glycol 6000
+-  The other ingredients are:
+
+Tablet core: povidone, pregelatinized starch (maize), poloxamer 188, microcrystalline cellulose, croscarmellose sodium, colloidal anhydrous silica and magnesium stearate.
+
+- Tablet coating for 300 mg/25 mg strength: hypromellose, titanium dioxide, polyethylene glycol 6000
 
 (macrogol), polyethylene glycol 400 (macrogol), iron oxide red, Indigotine (Indigo carmine aluminium lake FD&amp;C blue #2) and iron oxide black.
 
@@ -2392,7 +2370,7 @@ Tel: +420 251007111
 
 Teva Denmark A/S
 
-Tlf: +45 44985511
+Tlf.: +45 44985511
 
 ## Deutschland
 
@@ -2416,7 +2394,7 @@ TEVA HELLAS Α . Ε
 
 Teva Pharma, S.L.U.
 
-Tel: +34 913873280
+Tel: +34 915359180
 
 ## France
 
@@ -2450,9 +2428,7 @@ Tel: +39 028917981
 
 ## Lietuva
 
-UAB Teva Baltics
-
-Tel: +370 52660203
+UAB Teva Baltics Tel: +370 52660203
 
 ## Luxembourg/Luxemburg
 
@@ -2462,25 +2438,25 @@ Tél/Tel: +32 38207373
 
 ## Magyarország
 
-Teva Gyógyszergyár Zrt. Tel: +36 12886400
+Teva Gyógyszergyár Zrt.
+
+Tel.: +36 12886400
 
 ## Malta
 
-Teva Pharmaceuticals Ireland L-Irlanda
+TEVA HELLAS Α.Ε.
 
-Τel: + 44 2075407117
+ilGreċja
+
+Tel: +30 2118805000
 
 ## Nederland
 
-Teva Nederland B.V.
-
-Tel: +31 8000228400
+Teva Nederland B.V. Tel: +31 8000228400
 
 ## Norge
 
-Teva Norway AS
-
-Tlf: +47 66775590
+Teva Norway AS Tlf: +47 66775590
 
 ## Österreich
 
@@ -2488,7 +2464,9 @@ ratiopharm Arzneimittel Vertriebs-GmbH Tel: +43 1970070
 
 ## Polska
 
-Teva Pharmaceuticals Polska Sp. z o.o. Tel: +48 223459300
+Teva Pharmaceuticals Polska Sp. z o.o.
+
+Tel.: +48 223459300
 
 ## Portugal
 
@@ -2530,7 +2508,7 @@ Tel: +371 67323666
 
 ## This leaflet was last revised in {MM/YYYY}.
 
-Detailed information on this medicine is available on the European Medicines Agency (EMA) web site: http://www.ema.europa.eu/
+Detailed information on this medicine is available on the European Medicines Agency (EMA) web site: https://www.ema.europa.eu/
 
 Sverige
 

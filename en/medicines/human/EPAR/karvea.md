@@ -1,18 +1,18 @@
 ---
-document_datetime: 2025-12-29 11:38:10
+document_datetime: 2026-01-16 15:42:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/karvea.html
 document_name: karvea.html
 version: success
-processing_time: 0.152601
-conversion_datetime: 2025-12-30 08:07:07.008408
+processing_time: 0.1609991
+conversion_datetime: 2026-01-17 13:41:53.002749
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.66.0
-  docling-core: 2.57.0
+  docling-serve: 1.10.0
+  docling-jobkit: 1.8.1
+  docling: 2.68.0
+  docling-core: 2.59.0
   docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-parse: 4.7.3
   python: cpython-313 (3.13.11)
   plaform: macOS-26.2-arm64-arm-64bit-Mach-O
 ---
@@ -25,8 +25,6 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 irbesartan Medicine Human Authorised
-
-On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -112,7 +110,7 @@ English (EN) (74.27 KB - PDF)
 
 [View](/en/documents/overview/karvea-epar-summary-public_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-644)
+[Other languages (22)](#file-language-dropdown-473)
 
 български (BG) (101.15 KB - PDF)
 
@@ -382,17 +380,17 @@ svenska (SV) (74.74 KB - PDF)
 
 Karvea : EPAR - Product information
 
-English (EN) (979.96 KB - PDF)
+English (EN) (915.44 KB - PDF)
 
 **First published:** 22/04/2009
 
-**Last updated:** 14/02/2025
+**Last updated:** 16/01/2026
 
 [View](/en/documents/product-information/karvea-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-62)
+[Other languages (24)](#file-language-dropdown-619)
 
-български (BG) (1.18 MB - PDF)
+български (BG) (1.36 MB - PDF)
 
 **First published:**
 
@@ -400,11 +398,11 @@ English (EN) (979.96 KB - PDF)
 
 **Last updated:**
 
-14/02/2025
+16/01/2026
 
 [View](/bg/documents/product-information/karvea-epar-product-information_bg.pdf)
 
-español (ES) (1 MB - PDF)
+español (ES) (490.17 KB - PDF)
 
 **First published:**
 
@@ -412,11 +410,11 @@ español (ES) (1 MB - PDF)
 
 **Last updated:**
 
-14/02/2025
+16/01/2026
 
 [View](/es/documents/product-information/karvea-epar-product-information_es.pdf)
 
-čeština (CS) (1.07 MB - PDF)
+čeština (CS) (1.19 MB - PDF)
 
 **First published:**
 
@@ -424,11 +422,11 @@ español (ES) (1 MB - PDF)
 
 **Last updated:**
 
-14/02/2025
+16/01/2026
 
 [View](/cs/documents/product-information/karvea-epar-product-information_cs.pdf)
 
-dansk (DA) (806.96 KB - PDF)
+dansk (DA) (920.72 KB - PDF)
 
 **First published:**
 
@@ -436,11 +434,11 @@ dansk (DA) (806.96 KB - PDF)
 
 **Last updated:**
 
-14/02/2025
+16/01/2026
 
 [View](/da/documents/product-information/karvea-epar-product-information_da.pdf)
 
-Deutsch (DE) (1.04 MB - PDF)
+Deutsch (DE) (1.18 MB - PDF)
 
 **First published:**
 
@@ -448,11 +446,11 @@ Deutsch (DE) (1.04 MB - PDF)
 
 **Last updated:**
 
-14/02/2025
+16/01/2026
 
 [View](/de/documents/product-information/karvea-epar-product-information_de.pdf)
 
-eesti keel (ET) (775.1 KB - PDF)
+eesti keel (ET) (1011.5 KB - PDF)
 
 **First published:**
 
@@ -460,11 +458,11 @@ eesti keel (ET) (775.1 KB - PDF)
 
 **Last updated:**
 
-14/02/2025
+16/01/2026
 
 [View](/et/documents/product-information/karvea-epar-product-information_et.pdf)
 
-ελληνικά (EL) (1.27 MB - PDF)
+ελληνικά (EL) (1.42 MB - PDF)
 
 **First published:**
 
@@ -472,11 +470,11 @@ eesti keel (ET) (775.1 KB - PDF)
 
 **Last updated:**
 
-14/02/2025
+16/01/2026
 
 [View](/el/documents/product-information/karvea-epar-product-information_el.pdf)
 
-français (FR) (849.74 KB - PDF)
+français (FR) (1.13 MB - PDF)
 
 **First published:**
 
@@ -484,11 +482,11 @@ français (FR) (849.74 KB - PDF)
 
 **Last updated:**
 
-14/02/2025
+16/01/2026
 
 [View](/fr/documents/product-information/karvea-epar-product-information_fr.pdf)
 
-hrvatski (HR) (942.01 KB - PDF)
+hrvatski (HR) (1.01 MB - PDF)
 
 **First published:**
 
@@ -496,11 +494,11 @@ hrvatski (HR) (942.01 KB - PDF)
 
 **Last updated:**
 
-14/02/2025
+16/01/2026
 
 [View](/hr/documents/product-information/karvea-epar-product-information_hr.pdf)
 
-íslenska (IS) (805.76 KB - PDF)
+íslenska (IS) (1.32 MB - PDF)
 
 **First published:**
 
@@ -508,11 +506,11 @@ hrvatski (HR) (942.01 KB - PDF)
 
 **Last updated:**
 
-14/02/2025
+16/01/2026
 
 [View](/is/documents/product-information/karvea-epar-product-information_is.pdf)
 
-italiano (IT) (805.1 KB - PDF)
+italiano (IT) (930.61 KB - PDF)
 
 **First published:**
 
@@ -520,11 +518,11 @@ italiano (IT) (805.1 KB - PDF)
 
 **Last updated:**
 
-14/02/2025
+16/01/2026
 
 [View](/it/documents/product-information/karvea-epar-product-information_it.pdf)
 
-latviešu valoda (LV) (1.04 MB - PDF)
+latviešu valoda (LV) (1.29 MB - PDF)
 
 **First published:**
 
@@ -532,11 +530,11 @@ latviešu valoda (LV) (1.04 MB - PDF)
 
 **Last updated:**
 
-14/02/2025
+16/01/2026
 
 [View](/lv/documents/product-information/karvea-epar-product-information_lv.pdf)
 
-lietuvių kalba (LT) (934.07 KB - PDF)
+lietuvių kalba (LT) (1.15 MB - PDF)
 
 **First published:**
 
@@ -544,11 +542,11 @@ lietuvių kalba (LT) (934.07 KB - PDF)
 
 **Last updated:**
 
-14/02/2025
+16/01/2026
 
 [View](/lt/documents/product-information/karvea-epar-product-information_lt.pdf)
 
-magyar (HU) (664.1 KB - PDF)
+magyar (HU) (1.56 MB - PDF)
 
 **First published:**
 
@@ -556,11 +554,11 @@ magyar (HU) (664.1 KB - PDF)
 
 **Last updated:**
 
-14/02/2025
+16/01/2026
 
 [View](/hu/documents/product-information/karvea-epar-product-information_hu.pdf)
 
-Malti (MT) (1.21 MB - PDF)
+Malti (MT) (1.34 MB - PDF)
 
 **First published:**
 
@@ -568,11 +566,11 @@ Malti (MT) (1.21 MB - PDF)
 
 **Last updated:**
 
-14/02/2025
+16/01/2026
 
 [View](/mt/documents/product-information/karvea-epar-product-information_mt.pdf)
 
-Nederlands (NL) (904.99 KB - PDF)
+Nederlands (NL) (1.48 MB - PDF)
 
 **First published:**
 
@@ -580,11 +578,11 @@ Nederlands (NL) (904.99 KB - PDF)
 
 **Last updated:**
 
-14/02/2025
+16/01/2026
 
 [View](/nl/documents/product-information/karvea-epar-product-information_nl.pdf)
 
-norsk (NO) (753.54 KB - PDF)
+norsk (NO) (960.68 KB - PDF)
 
 **First published:**
 
@@ -592,11 +590,11 @@ norsk (NO) (753.54 KB - PDF)
 
 **Last updated:**
 
-14/02/2025
+16/01/2026
 
 [View](/no/documents/product-information/karvea-epar-product-information_no.pdf)
 
-polski (PL) (960.52 KB - PDF)
+polski (PL) (1.31 MB - PDF)
 
 **First published:**
 
@@ -604,11 +602,11 @@ polski (PL) (960.52 KB - PDF)
 
 **Last updated:**
 
-14/02/2025
+16/01/2026
 
 [View](/pl/documents/product-information/karvea-epar-product-information_pl.pdf)
 
-português (PT) (777.31 KB - PDF)
+português (PT) (1.1 MB - PDF)
 
 **First published:**
 
@@ -616,11 +614,11 @@ português (PT) (777.31 KB - PDF)
 
 **Last updated:**
 
-14/02/2025
+16/01/2026
 
 [View](/pt/documents/product-information/karvea-epar-product-information_pt.pdf)
 
-română (RO) (1.1 MB - PDF)
+română (RO) (1.2 MB - PDF)
 
 **First published:**
 
@@ -628,11 +626,11 @@ română (RO) (1.1 MB - PDF)
 
 **Last updated:**
 
-14/02/2025
+16/01/2026
 
 [View](/ro/documents/product-information/karvea-epar-product-information_ro.pdf)
 
-slovenčina (SK) (1011.6 KB - PDF)
+slovenčina (SK) (1.24 MB - PDF)
 
 **First published:**
 
@@ -640,11 +638,11 @@ slovenčina (SK) (1011.6 KB - PDF)
 
 **Last updated:**
 
-14/02/2025
+16/01/2026
 
 [View](/sk/documents/product-information/karvea-epar-product-information_sk.pdf)
 
-slovenščina (SL) (934.79 KB - PDF)
+slovenščina (SL) (1.21 MB - PDF)
 
 **First published:**
 
@@ -652,11 +650,11 @@ slovenščina (SL) (934.79 KB - PDF)
 
 **Last updated:**
 
-14/02/2025
+16/01/2026
 
 [View](/sl/documents/product-information/karvea-epar-product-information_sl.pdf)
 
-Suomi (FI) (445.29 KB - PDF)
+Suomi (FI) (746.92 KB - PDF)
 
 **First published:**
 
@@ -664,11 +662,11 @@ Suomi (FI) (445.29 KB - PDF)
 
 **Last updated:**
 
-14/02/2025
+16/01/2026
 
 [View](/fi/documents/product-information/karvea-epar-product-information_fi.pdf)
 
-svenska (SV) (424.94 KB - PDF)
+svenska (SV) (761.48 KB - PDF)
 
 **First published:**
 
@@ -676,11 +674,11 @@ svenska (SV) (424.94 KB - PDF)
 
 **Last updated:**
 
-14/02/2025
+16/01/2026
 
 [View](/sv/documents/product-information/karvea-epar-product-information_sv.pdf)
 
-**Latest procedure affecting product information:** VR/0000242076 11/02/2025
+**Latest procedure affecting product information:** VR/0000310720 15/01/2026
 
 icon globe
 
@@ -706,7 +704,7 @@ English (EN) (18.1 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/karvea-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (23)](#file-language-dropdown-181)
+[Other languages (23)](#file-language-dropdown-289)
 
 български (BG) (105.51 KB - PDF)
 
@@ -1006,7 +1004,7 @@ Sanofi Winthrop Industrie
 
 82 Avenue Raspail
 
-Marketing authorisation issued 26/08/1997 Revision 48
+Marketing authorisation issued 26/08/1997 Revision 49
 
 ## Assessment history
 
@@ -1018,9 +1016,11 @@ Collapse section
 
 Karvea : EPAR - Procedural steps taken and scientific information after authorisation
 
-English (EN) (142.26 KB - PDF)
+English (EN) (148.65 KB - PDF)
 
 **First published:** 14/02/2025
+
+**Last updated:** 16/01/2026
 
 [View](/en/documents/procedural-steps-after/karvea-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf)
 
@@ -1042,7 +1042,7 @@ English (EN) (99.42 KB - PDF)
 
 [View](/en/documents/scientific-conclusion/karvea-epar-scientific-conclusions_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-338)
+[Other languages (22)](#file-language-dropdown-86)
 
 български (BG) (136.15 KB - PDF)
 
@@ -1254,7 +1254,7 @@ English (EN) (48.81 KB - PDF)
 
 [View](/en/documents/scientific-conclusion/karvea-h-c-142-a31-0159-epar-scientific-conclusions-grounds-variation-terms-marketing-authorisations-and-detailed-explanation-scientific-grounds-differences-prac-recommendat_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-270)
+[Other languages (22)](#file-language-dropdown-804)
 
 български (BG) (87.49 KB - PDF)
 
@@ -1643,7 +1643,7 @@ English (EN) (511.41 KB - PDF)
 
 - [Medicines](https://www.ema.europa.eu/en/search?f%5B0%5D=ema_search_topics%3A61)
 
-**This page was last updated on** 14/02/2025
+**This page was last updated on** 16/01/2026
 
 ## Share this page
 

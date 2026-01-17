@@ -1,18 +1,18 @@
 ---
-document_datetime: 2025-12-29 14:27:20
+document_datetime: 2026-01-14 14:42:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/abevmy.html
 document_name: abevmy.html
 version: success
-processing_time: 0.3876134
-conversion_datetime: 2025-12-30 02:51:20.555977
+processing_time: 0.1181537
+conversion_datetime: 2026-01-17 12:56:09.96765
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.66.0
-  docling-core: 2.57.0
+  docling-serve: 1.10.0
+  docling-jobkit: 1.8.1
+  docling: 2.68.0
+  docling-core: 2.59.0
   docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-parse: 4.7.3
   python: cpython-313 (3.13.11)
   plaform: macOS-26.2-arm64-arm-64bit-Mach-O
 ---
@@ -25,8 +25,6 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 bevacizumab Medicine Human Authorised
-
-On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -117,7 +115,7 @@ English (EN) (144.37 KB - PDF)
 
 [View](/en/documents/overview/abevmy-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-858)
+[Other languages (22)](#file-language-dropdown-825)
 
 български (BG) (168.73 KB - PDF)
 
@@ -307,17 +305,17 @@ English (EN) (98.06 KB - PDF)
 
 Abevmy : EPAR - Product Information
 
-English (EN) (1.23 MB - PDF)
+English (EN) (860.99 KB - PDF)
 
 **First published:** 27/08/2021
 
-**Last updated:** 09/09/2025
+**Last updated:** 14/01/2026
 
 [View](/en/documents/product-information/abevmy-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-785)
+[Other languages (24)](#file-language-dropdown-374)
 
-български (BG) (1.37 MB - PDF)
+български (BG) (1.12 MB - PDF)
 
 **First published:**
 
@@ -325,11 +323,11 @@ English (EN) (1.23 MB - PDF)
 
 **Last updated:**
 
-09/09/2025
+14/01/2026
 
 [View](/bg/documents/product-information/abevmy-epar-product-information_bg.pdf)
 
-español (ES) (4.98 MB - PDF)
+español (ES) (896.81 KB - PDF)
 
 **First published:**
 
@@ -337,11 +335,11 @@ español (ES) (4.98 MB - PDF)
 
 **Last updated:**
 
-09/09/2025
+14/01/2026
 
 [View](/es/documents/product-information/abevmy-epar-product-information_es.pdf)
 
-čeština (CS) (1.32 MB - PDF)
+čeština (CS) (960.02 KB - PDF)
 
 **First published:**
 
@@ -349,11 +347,11 @@ español (ES) (4.98 MB - PDF)
 
 **Last updated:**
 
-09/09/2025
+14/01/2026
 
 [View](/cs/documents/product-information/abevmy-epar-product-information_cs.pdf)
 
-dansk (DA) (1.33 MB - PDF)
+dansk (DA) (875.53 KB - PDF)
 
 **First published:**
 
@@ -361,11 +359,11 @@ dansk (DA) (1.33 MB - PDF)
 
 **Last updated:**
 
-09/09/2025
+14/01/2026
 
 [View](/da/documents/product-information/abevmy-epar-product-information_da.pdf)
 
-Deutsch (DE) (4.65 MB - PDF)
+Deutsch (DE) (915.5 KB - PDF)
 
 **First published:**
 
@@ -373,11 +371,11 @@ Deutsch (DE) (4.65 MB - PDF)
 
 **Last updated:**
 
-09/09/2025
+14/01/2026
 
 [View](/de/documents/product-information/abevmy-epar-product-information_de.pdf)
 
-eesti keel (ET) (4.15 MB - PDF)
+eesti keel (ET) (899.09 KB - PDF)
 
 **First published:**
 
@@ -385,11 +383,11 @@ eesti keel (ET) (4.15 MB - PDF)
 
 **Last updated:**
 
-09/09/2025
+14/01/2026
 
 [View](/et/documents/product-information/abevmy-epar-product-information_et.pdf)
 
-ελληνικά (EL) (4.77 MB - PDF)
+ελληνικά (EL) (1.04 MB - PDF)
 
 **First published:**
 
@@ -397,11 +395,11 @@ eesti keel (ET) (4.15 MB - PDF)
 
 **Last updated:**
 
-09/09/2025
+14/01/2026
 
 [View](/el/documents/product-information/abevmy-epar-product-information_el.pdf)
 
-français (FR) (5.27 MB - PDF)
+français (FR) (926.09 KB - PDF)
 
 **First published:**
 
@@ -409,11 +407,11 @@ français (FR) (5.27 MB - PDF)
 
 **Last updated:**
 
-09/09/2025
+14/01/2026
 
 [View](/fr/documents/product-information/abevmy-epar-product-information_fr.pdf)
 
-hrvatski (HR) (4.79 MB - PDF)
+hrvatski (HR) (959.92 KB - PDF)
 
 **First published:**
 
@@ -421,11 +419,11 @@ hrvatski (HR) (4.79 MB - PDF)
 
 **Last updated:**
 
-09/09/2025
+14/01/2026
 
 [View](/hr/documents/product-information/abevmy-epar-product-information_hr.pdf)
 
-íslenska (IS) (1.29 MB - PDF)
+íslenska (IS) (1.04 MB - PDF)
 
 **First published:**
 
@@ -433,11 +431,11 @@ hrvatski (HR) (4.79 MB - PDF)
 
 **Last updated:**
 
-09/09/2025
+14/01/2026
 
 [View](/is/documents/product-information/abevmy-epar-product-information_is.pdf)
 
-italiano (IT) (1.34 MB - PDF)
+italiano (IT) (925.04 KB - PDF)
 
 **First published:**
 
@@ -445,11 +443,11 @@ italiano (IT) (1.34 MB - PDF)
 
 **Last updated:**
 
-09/09/2025
+14/01/2026
 
 [View](/it/documents/product-information/abevmy-epar-product-information_it.pdf)
 
-latviešu valoda (LV) (5.38 MB - PDF)
+latviešu valoda (LV) (1012.05 KB - PDF)
 
 **First published:**
 
@@ -457,11 +455,11 @@ latviešu valoda (LV) (5.38 MB - PDF)
 
 **Last updated:**
 
-09/09/2025
+14/01/2026
 
 [View](/lv/documents/product-information/abevmy-epar-product-information_lv.pdf)
 
-lietuvių kalba (LT) (5.54 MB - PDF)
+lietuvių kalba (LT) (1.06 MB - PDF)
 
 **First published:**
 
@@ -469,11 +467,11 @@ lietuvių kalba (LT) (5.54 MB - PDF)
 
 **Last updated:**
 
-09/09/2025
+14/01/2026
 
 [View](/lt/documents/product-information/abevmy-epar-product-information_lt.pdf)
 
-magyar (HU) (5.6 MB - PDF)
+magyar (HU) (1.19 MB - PDF)
 
 **First published:**
 
@@ -481,11 +479,11 @@ magyar (HU) (5.6 MB - PDF)
 
 **Last updated:**
 
-09/09/2025
+14/01/2026
 
 [View](/hu/documents/product-information/abevmy-epar-product-information_hu.pdf)
 
-Malti (MT) (1.52 MB - PDF)
+Malti (MT) (1.03 MB - PDF)
 
 **First published:**
 
@@ -493,11 +491,11 @@ Malti (MT) (1.52 MB - PDF)
 
 **Last updated:**
 
-09/09/2025
+14/01/2026
 
 [View](/mt/documents/product-information/abevmy-epar-product-information_mt.pdf)
 
-Nederlands (NL) (4.72 MB - PDF)
+Nederlands (NL) (883.86 KB - PDF)
 
 **First published:**
 
@@ -505,11 +503,11 @@ Nederlands (NL) (4.72 MB - PDF)
 
 **Last updated:**
 
-09/09/2025
+14/01/2026
 
 [View](/nl/documents/product-information/abevmy-epar-product-information_nl.pdf)
 
-norsk (NO) (5.41 MB - PDF)
+norsk (NO) (891.08 KB - PDF)
 
 **First published:**
 
@@ -517,11 +515,11 @@ norsk (NO) (5.41 MB - PDF)
 
 **Last updated:**
 
-09/09/2025
+14/01/2026
 
 [View](/no/documents/product-information/abevmy-epar-product-information_no.pdf)
 
-polski (PL) (4.73 MB - PDF)
+polski (PL) (999.6 KB - PDF)
 
 **First published:**
 
@@ -529,11 +527,11 @@ polski (PL) (4.73 MB - PDF)
 
 **Last updated:**
 
-09/09/2025
+14/01/2026
 
 [View](/pl/documents/product-information/abevmy-epar-product-information_pl.pdf)
 
-português (PT) (6.54 MB - PDF)
+português (PT) (1006.14 KB - PDF)
 
 **First published:**
 
@@ -541,11 +539,11 @@ português (PT) (6.54 MB - PDF)
 
 **Last updated:**
 
-09/09/2025
+14/01/2026
 
 [View](/pt/documents/product-information/abevmy-epar-product-information_pt.pdf)
 
-română (RO) (5.12 MB - PDF)
+română (RO) (1.01 MB - PDF)
 
 **First published:**
 
@@ -553,11 +551,11 @@ română (RO) (5.12 MB - PDF)
 
 **Last updated:**
 
-09/09/2025
+14/01/2026
 
 [View](/ro/documents/product-information/abevmy-epar-product-information_ro.pdf)
 
-slovenčina (SK) (5.12 MB - PDF)
+slovenčina (SK) (978.99 KB - PDF)
 
 **First published:**
 
@@ -565,11 +563,11 @@ slovenčina (SK) (5.12 MB - PDF)
 
 **Last updated:**
 
-09/09/2025
+14/01/2026
 
 [View](/sk/documents/product-information/abevmy-epar-product-information_sk.pdf)
 
-slovenščina (SL) (1.34 MB - PDF)
+slovenščina (SL) (995.37 KB - PDF)
 
 **First published:**
 
@@ -577,11 +575,11 @@ slovenščina (SL) (1.34 MB - PDF)
 
 **Last updated:**
 
-09/09/2025
+14/01/2026
 
 [View](/sl/documents/product-information/abevmy-epar-product-information_sl.pdf)
 
-Suomi (FI) (4.26 MB - PDF)
+Suomi (FI) (863.63 KB - PDF)
 
 **First published:**
 
@@ -589,11 +587,11 @@ Suomi (FI) (4.26 MB - PDF)
 
 **Last updated:**
 
-09/09/2025
+14/01/2026
 
 [View](/fi/documents/product-information/abevmy-epar-product-information_fi.pdf)
 
-svenska (SV) (4.52 MB - PDF)
+svenska (SV) (845.71 KB - PDF)
 
 **First published:**
 
@@ -601,11 +599,11 @@ svenska (SV) (4.52 MB - PDF)
 
 **Last updated:**
 
-09/09/2025
+14/01/2026
 
 [View](/sv/documents/product-information/abevmy-epar-product-information_sv.pdf)
 
-**Latest procedure affecting product information:** VR/0000295088 09/09/2025
+**Latest procedure affecting product information:** PSUR/0000274402 19/12/2025
 
 icon globe
 
@@ -629,7 +627,7 @@ English (EN) (10.93 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/abevmy-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-115)
+[Other languages (24)](#file-language-dropdown-76)
 
 български (BG) (56.81 KB - PDF)
 
@@ -882,7 +880,7 @@ Biosimilar Collaborations Ireland Limited
 
 Unit 35/36
 
-Opinion adopted 25/02/2021 Marketing authorisation issued 21/04/2021 Revision 10
+Opinion adopted 25/02/2021 Marketing authorisation issued 21/04/2021 Revision 11
 
 ## Assessment history
 
@@ -894,9 +892,11 @@ Collapse section
 
 Abevmy : EPAR - Procedural steps taken and scientific information after authorisation
 
-English (EN) (149.28 KB - PDF)
+English (EN) (147.93 KB - PDF)
 
 **First published:** 09/09/2025
+
+**Last updated:** 14/01/2026
 
 [View](/en/documents/procedural-steps-after/abevmy-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf)
 
@@ -909,6 +909,16 @@ English (EN) (133.54 KB - PDF)
 **Last updated:** 09/09/2025
 
 [View](/en/documents/procedural-steps-after/abevmy-epar-procedural-steps-taken-scientific-information-after-authorisation-archive_en.pdf)
+
+Abevmy-PSUSA-00000403-202502 : EPAR - Scientific conclusions and grounds for the variation to the terms of the marketing authorisation
+
+Reference Number: EMADOC-1700519818-2470418
+
+English (EN) (182.12 KB - PDF)
+
+**First published:** 14/01/2026
+
+[View](/en/documents/scientific-conclusion/abevmy-psusa-00000403-202502-epar-scientific-conclusions-grounds-variation-terms-marketing-authorisation_en.pdf)
 
 Abevmy-H-C-PSUSA-00000403-202202 : EPAR - Scientific conclusions and grounds for the variation to the terms of the marketing authorisation
 
@@ -954,7 +964,7 @@ English (EN) (104.14 KB - PDF)
 
 - [Real-life data study of the French cohort of patients with Rendu Osler disease treatment with bevacizumab:the CoBevaRO study. - post-authorisation study](https://catalogues.ema.europa.eu/study/1000000548)
 
-**This page was last updated on** 11/10/2024
+**This page was last updated on** 14/01/2026
 
 ## Share this page
 

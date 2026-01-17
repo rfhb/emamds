@@ -1,18 +1,18 @@
 ---
-document_datetime: 2025-12-29 07:23:38
+document_datetime: 2026-01-16 12:45:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/ifirmacombi.html
 document_name: ifirmacombi.html
 version: success
-processing_time: 0.1795827
-conversion_datetime: 2025-12-31 05:24:41.38932
+processing_time: 0.1888633
+conversion_datetime: 2026-01-17 13:27:27.788777
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.66.0
-  docling-core: 2.57.0
+  docling-serve: 1.10.0
+  docling-jobkit: 1.8.1
+  docling: 2.68.0
+  docling-core: 2.59.0
   docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-parse: 4.7.3
   python: cpython-313 (3.13.11)
   plaform: macOS-26.2-arm64-arm-64bit-Mach-O
 ---
@@ -25,8 +25,6 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 irbesartan / hydrochlorothiazide Medicine Human Authorised
-
-On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -110,7 +108,7 @@ English (EN) (74.29 KB - PDF)
 
 [View](/en/documents/overview/ifirmacombi-epar-summary-public_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-581)
+[Other languages (22)](#file-language-dropdown-398)
 
 български (BG) (100.98 KB - PDF)
 
@@ -380,17 +378,17 @@ svenska (SV) (73.88 KB - PDF)
 
 Ifirmacombi : EPAR - Product information
 
-English (EN) (262.32 KB - PDF)
+English (EN) (259.38 KB - PDF)
 
 **First published:** 17/03/2011
 
-**Last updated:** 23/05/2025
+**Last updated:** 16/01/2026
 
 [View](/en/documents/product-information/ifirmacombi-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-285)
+[Other languages (24)](#file-language-dropdown-389)
 
-български (BG) (289.67 KB - PDF)
+български (BG) (286.74 KB - PDF)
 
 **First published:**
 
@@ -398,11 +396,11 @@ English (EN) (262.32 KB - PDF)
 
 **Last updated:**
 
-23/05/2025
+16/01/2026
 
 [View](/bg/documents/product-information/ifirmacombi-epar-product-information_bg.pdf)
 
-español (ES) (275.81 KB - PDF)
+español (ES) (272.76 KB - PDF)
 
 **First published:**
 
@@ -410,11 +408,11 @@ español (ES) (275.81 KB - PDF)
 
 **Last updated:**
 
-23/05/2025
+16/01/2026
 
 [View](/es/documents/product-information/ifirmacombi-epar-product-information_es.pdf)
 
-čeština (CS) (257.69 KB - PDF)
+čeština (CS) (254.65 KB - PDF)
 
 **First published:**
 
@@ -422,11 +420,11 @@ español (ES) (275.81 KB - PDF)
 
 **Last updated:**
 
-23/05/2025
+16/01/2026
 
 [View](/cs/documents/product-information/ifirmacombi-epar-product-information_cs.pdf)
 
-dansk (DA) (271.35 KB - PDF)
+dansk (DA) (269.02 KB - PDF)
 
 **First published:**
 
@@ -434,11 +432,11 @@ dansk (DA) (271.35 KB - PDF)
 
 **Last updated:**
 
-23/05/2025
+16/01/2026
 
 [View](/da/documents/product-information/ifirmacombi-epar-product-information_da.pdf)
 
-Deutsch (DE) (277.08 KB - PDF)
+Deutsch (DE) (273.72 KB - PDF)
 
 **First published:**
 
@@ -446,11 +444,11 @@ Deutsch (DE) (277.08 KB - PDF)
 
 **Last updated:**
 
-23/05/2025
+16/01/2026
 
 [View](/de/documents/product-information/ifirmacombi-epar-product-information_de.pdf)
 
-eesti keel (ET) (263.91 KB - PDF)
+eesti keel (ET) (260.39 KB - PDF)
 
 **First published:**
 
@@ -458,11 +456,11 @@ eesti keel (ET) (263.91 KB - PDF)
 
 **Last updated:**
 
-23/05/2025
+16/01/2026
 
 [View](/et/documents/product-information/ifirmacombi-epar-product-information_et.pdf)
 
-ελληνικά (EL) (305.17 KB - PDF)
+ελληνικά (EL) (272.18 KB - PDF)
 
 **First published:**
 
@@ -470,11 +468,11 @@ eesti keel (ET) (263.91 KB - PDF)
 
 **Last updated:**
 
-23/05/2025
+16/01/2026
 
 [View](/el/documents/product-information/ifirmacombi-epar-product-information_el.pdf)
 
-français (FR) (278.04 KB - PDF)
+français (FR) (303.14 KB - PDF)
 
 **First published:**
 
@@ -482,11 +480,11 @@ français (FR) (278.04 KB - PDF)
 
 **Last updated:**
 
-23/05/2025
+16/01/2026
 
 [View](/fr/documents/product-information/ifirmacombi-epar-product-information_fr.pdf)
 
-hrvatski (HR) (247.15 KB - PDF)
+hrvatski (HR) (244.79 KB - PDF)
 
 **First published:**
 
@@ -494,11 +492,11 @@ hrvatski (HR) (247.15 KB - PDF)
 
 **Last updated:**
 
-23/05/2025
+16/01/2026
 
 [View](/hr/documents/product-information/ifirmacombi-epar-product-information_hr.pdf)
 
-íslenska (IS) (264.04 KB - PDF)
+íslenska (IS) (260.42 KB - PDF)
 
 **First published:**
 
@@ -506,11 +504,11 @@ hrvatski (HR) (247.15 KB - PDF)
 
 **Last updated:**
 
-23/05/2025
+16/01/2026
 
 [View](/is/documents/product-information/ifirmacombi-epar-product-information_is.pdf)
 
-italiano (IT) (270.61 KB - PDF)
+italiano (IT) (267.92 KB - PDF)
 
 **First published:**
 
@@ -518,11 +516,11 @@ italiano (IT) (270.61 KB - PDF)
 
 **Last updated:**
 
-23/05/2025
+16/01/2026
 
 [View](/it/documents/product-information/ifirmacombi-epar-product-information_it.pdf)
 
-latviešu valoda (LV) (271.2 KB - PDF)
+latviešu valoda (LV) (272.15 KB - PDF)
 
 **First published:**
 
@@ -530,11 +528,11 @@ latviešu valoda (LV) (271.2 KB - PDF)
 
 **Last updated:**
 
-23/05/2025
+16/01/2026
 
 [View](/lv/documents/product-information/ifirmacombi-epar-product-information_lv.pdf)
 
-lietuvių kalba (LT) (269.3 KB - PDF)
+lietuvių kalba (LT) (266.32 KB - PDF)
 
 **First published:**
 
@@ -542,11 +540,11 @@ lietuvių kalba (LT) (269.3 KB - PDF)
 
 **Last updated:**
 
-23/05/2025
+16/01/2026
 
 [View](/lt/documents/product-information/ifirmacombi-epar-product-information_lt.pdf)
 
-magyar (HU) (276.73 KB - PDF)
+magyar (HU) (273.03 KB - PDF)
 
 **First published:**
 
@@ -554,11 +552,11 @@ magyar (HU) (276.73 KB - PDF)
 
 **Last updated:**
 
-23/05/2025
+16/01/2026
 
 [View](/hu/documents/product-information/ifirmacombi-epar-product-information_hu.pdf)
 
-Malti (MT) (325.47 KB - PDF)
+Malti (MT) (321.13 KB - PDF)
 
 **First published:**
 
@@ -566,11 +564,11 @@ Malti (MT) (325.47 KB - PDF)
 
 **Last updated:**
 
-23/05/2025
+16/01/2026
 
 [View](/mt/documents/product-information/ifirmacombi-epar-product-information_mt.pdf)
 
-Nederlands (NL) (272.13 KB - PDF)
+Nederlands (NL) (268.98 KB - PDF)
 
 **First published:**
 
@@ -578,11 +576,11 @@ Nederlands (NL) (272.13 KB - PDF)
 
 **Last updated:**
 
-23/05/2025
+16/01/2026
 
 [View](/nl/documents/product-information/ifirmacombi-epar-product-information_nl.pdf)
 
-norsk (NO) (267.44 KB - PDF)
+norsk (NO) (264 KB - PDF)
 
 **First published:**
 
@@ -590,11 +588,11 @@ norsk (NO) (267.44 KB - PDF)
 
 **Last updated:**
 
-23/05/2025
+16/01/2026
 
 [View](/no/documents/product-information/ifirmacombi-epar-product-information_no.pdf)
 
-polski (PL) (285.68 KB - PDF)
+polski (PL) (282.5 KB - PDF)
 
 **First published:**
 
@@ -602,11 +600,11 @@ polski (PL) (285.68 KB - PDF)
 
 **Last updated:**
 
-23/05/2025
+16/01/2026
 
 [View](/pl/documents/product-information/ifirmacombi-epar-product-information_pl.pdf)
 
-português (PT) (273.24 KB - PDF)
+português (PT) (268.95 KB - PDF)
 
 **First published:**
 
@@ -614,11 +612,11 @@ português (PT) (273.24 KB - PDF)
 
 **Last updated:**
 
-23/05/2025
+16/01/2026
 
 [View](/pt/documents/product-information/ifirmacombi-epar-product-information_pt.pdf)
 
-română (RO) (275.33 KB - PDF)
+română (RO) (272.44 KB - PDF)
 
 **First published:**
 
@@ -626,11 +624,11 @@ română (RO) (275.33 KB - PDF)
 
 **Last updated:**
 
-23/05/2025
+16/01/2026
 
 [View](/ro/documents/product-information/ifirmacombi-epar-product-information_ro.pdf)
 
-slovenčina (SK) (265.3 KB - PDF)
+slovenčina (SK) (263.69 KB - PDF)
 
 **First published:**
 
@@ -638,11 +636,11 @@ slovenčina (SK) (265.3 KB - PDF)
 
 **Last updated:**
 
-23/05/2025
+16/01/2026
 
 [View](/sk/documents/product-information/ifirmacombi-epar-product-information_sk.pdf)
 
-slovenščina (SL) (264.49 KB - PDF)
+slovenščina (SL) (261.5 KB - PDF)
 
 **First published:**
 
@@ -650,11 +648,11 @@ slovenščina (SL) (264.49 KB - PDF)
 
 **Last updated:**
 
-23/05/2025
+16/01/2026
 
 [View](/sl/documents/product-information/ifirmacombi-epar-product-information_sl.pdf)
 
-Suomi (FI) (275.86 KB - PDF)
+Suomi (FI) (264.37 KB - PDF)
 
 **First published:**
 
@@ -662,11 +660,11 @@ Suomi (FI) (275.86 KB - PDF)
 
 **Last updated:**
 
-23/05/2025
+16/01/2026
 
 [View](/fi/documents/product-information/ifirmacombi-epar-product-information_fi.pdf)
 
-svenska (SV) (258.6 KB - PDF)
+svenska (SV) (255.15 KB - PDF)
 
 **First published:**
 
@@ -674,11 +672,11 @@ svenska (SV) (258.6 KB - PDF)
 
 **Last updated:**
 
-23/05/2025
+16/01/2026
 
 [View](/sv/documents/product-information/ifirmacombi-epar-product-information_sv.pdf)
 
-**Latest procedure affecting product information:** VR/0000258252 08/05/2025
+**Latest procedure affecting product information:** VR/0000308442 15/01/2026
 
 icon globe
 
@@ -704,7 +702,7 @@ English (EN) (42.46 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/ifirmacombi-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (23)](#file-language-dropdown-316)
+[Other languages (23)](#file-language-dropdown-431)
 
 български (BG) (78.12 KB - PDF)
 
@@ -1018,7 +1016,7 @@ Krka, d.d., Novo mesto
 
 Šmarješka cesta 6
 
-Marketing authorisation issued 04/03/2011 Revision 16
+Marketing authorisation issued 04/03/2011 Revision 17
 
 ## Assessment history
 
@@ -1030,9 +1028,11 @@ Collapse section
 
 Ifirmacombi : EPAR - Procedural steps taken and scientific information after authorisation
 
-English (EN) (143.72 KB - PDF)
+English (EN) (147.25 KB - PDF)
 
 **First published:** 23/05/2025
+
+**Last updated:** 16/01/2026
 
 [View](/en/documents/procedural-steps-after/ifirmacombi-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf)
 
@@ -1056,7 +1056,7 @@ English (EN) (119.28 KB - PDF)
 
 [View](/en/documents/scientific-conclusion/angiotensin-ii-receptor-antagonists-sartans-scientific-conclusions-impact-article-53-scientific-opinion-nitrosamines_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-362)
+[Other languages (22)](#file-language-dropdown-900)
 
 български (BG) (145.18 KB - PDF)
 
@@ -1254,7 +1254,7 @@ English (EN) (99.42 KB - PDF)
 
 [View](/en/documents/scientific-conclusion/ifirmacombi-epar-scientific-conclusions_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-205)
+[Other languages (22)](#file-language-dropdown-764)
 
 български (BG) (136.15 KB - PDF)
 
@@ -1468,7 +1468,7 @@ English (EN) (48.81 KB - PDF)
 
 [View](/en/documents/scientific-conclusion/ifirmacombi-h-c-2302-a31-09-epar-scientific-conclusions-grounds-variation-terms-marketing-authorisations-and-detailed-explanation-scientific-grounds-differences-prac-recomme_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-751)
+[Other languages (22)](#file-language-dropdown-16)
 
 български (BG) (87.49 KB - PDF)
 
@@ -1800,7 +1800,7 @@ English (EN) (66.45 KB - PDF)
 
 [View](/en/documents/other/questions-and-answers-generic-medicines_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-573)
+[Other languages (22)](#file-language-dropdown-597)
 
 български (BG) (93.16 KB - PDF)
 
@@ -2076,7 +2076,7 @@ svenska (SV) (67.11 KB - PDF)
 - [Generic and hybrid medicines](https://www.ema.europa.eu/en/search?f%5B0%5D=ema_search_topics%3A54)
 - [Medicines](https://www.ema.europa.eu/en/search?f%5B0%5D=ema_search_topics%3A61)
 
-**This page was last updated on** 23/05/2025
+**This page was last updated on** 16/01/2026
 
 ## Share this page
 

@@ -1,18 +1,18 @@
 ---
-document_datetime: 2025-09-17 10:28:19
+document_datetime: 2026-01-15 15:08:41
 document_pages: 77
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/pemetrexed-pfizer-epar-product-information_en.pdf
 document_name: pemetrexed-pfizer-epar-product-information_en.pdf
 version: success
-processing_time: 48.3454893
-conversion_datetime: 2025-12-21 20:05:54.516004
+processing_time: 54.6403918
+conversion_datetime: 2026-01-17 13:28:35.541342
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.64.1
-  docling-core: 2.55.0
+  docling-serve: 1.10.0
+  docling-jobkit: 1.8.1
+  docling: 2.68.0
+  docling-core: 2.59.0
   docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-parse: 4.7.3
   python: cpython-313 (3.13.11)
   plaform: macOS-26.2-arm64-arm-64bit-Mach-O
 ---
@@ -32,21 +32,19 @@ Pemetrexed Pfizer 1,000 mg powder for concentrate for solution for infusion
 
 ## 2. QUALITATIVE AND QUANTITATIVE COMPOSITION
 
-| Pemetrexed Pfizer 100 mg powder for concentrate for solution for infusion            |
-|--------------------------------------------------------------------------------------|
-| Each vial contains 100 mg of pemetrexed (as pemetrexed disodium hemipentahydrate).   |
-| Excipient with known effect                                                          |
-| Each vial contains approximately 11 mg sodium.                                       |
-| Pemetrexed Pfizer 500 mg powder for concentrate for solution for infusion            |
-| Each vial contains 500 mg of pemetrexed (as pemetrexed disodium hemipentahydrate).   |
-| Excipient with known effect                                                          |
-| Each vial contains approximately 54 mg sodium.                                       |
-| Pemetrexed Pfizer 1,000 mg powder for concentrate for solution for infusion          |
-| Each vial contains 1,000 mg of pemetrexed (as pemetrexed disodium hemipentahydrate). |
-| Excipient with known effect                                                          |
-| Each vial contains approximately 108 mg sodium.                                      |
-| After reconstitution (see section 6.6), each vial contains 25 mg/ml of pemetrexed.   |
-| For the full list of excipients, see section 6.1.                                    |
+| Pemetrexed Pfizer 100 mg powder for concentrate for solution for infusion          |
+|------------------------------------------------------------------------------------|
+| Each vial contains 100 mg of pemetrexed (as pemetrexed disodium hemipentahydrate). |
+| Excipient with known effect                                                        |
+| Each vial contains approximately 11 mg sodium.                                     |
+| Pemetrexed Pfizer 500 mg powder for concentrate for solution for infusion          |
+| Each vial contains 500 mg of pemetrexed (as pemetrexed disodium hemipentahydrate). |
+| Excipient with known effect Each vial contains approximately 54 mg sodium.         |
+| Pemetrexed Pfizer 1,000 mg powder for concentrate for solution for infusion        |
+| with known effect                                                                  |
+| Excipient Each vial contains approximately 108 mg sodium.                          |
+| After reconstitution (see section 6.6), each vial contains 25 mg/ml of pemetrexed. |
+| For the full list of excipients, see section 6.1.                                  |
 
 ## 3. PHARMACEUTICAL FORM
 
@@ -80,7 +78,7 @@ Pemetrexed Pfizer must only be administered under the supervision of a physician
 
 ## Pemetrexed Pfizer in combination with cisplatin
 
-The recommended dose of Pemetrexed Pfizer is 500 mg/m 2 of body surface area (BSA) administered as an intravenous infusion over 10 minutes on the first day of each 21-day cycle. The recommended dose of cisplatin is 75 mg/m 2  BSA infused over two hours approximately 30 minutes after completion of the pemetrexed infusion on the first day of each 21-day cycle. Patients must receive adequate anti-emetic treatment and appropriate hydration prior to and/or after receiving cisplatin (see also cisplatin Summary of Product Characteristics for specific dosing advice).
+The recommended dose of Pemetrexed Pfizer is 500 mg/m 2  of body surface area (BSA) administered as an intravenous infusion over 10 minutes on the first day of each 21-day cycle. The recommended dose of cisplatin is 75 mg/m 2  BSA infused over two hours approximately 30 minutes after completion of the pemetrexed infusion on the first day of each 21-day cycle. Patients must receive adequate anti-emetic treatment and appropriate hydration prior to and/or after receiving cisplatin (see also cisplatin Summary of Product Characteristics for specific dosing advice).
 
 ## Pemetrexed Pfizer as single agent
 
@@ -90,30 +88,30 @@ In patients treated for non-small cell lung cancer after prior chemotherapy, the
 
 To reduce the incidence and severity of skin reactions, a corticosteroid should be given the day prior to, on the day of, and the day after pemetrexed administration. The corticosteroid should be equivalent to 4 mg of dexamethasone administered orally twice a day (see section 4.4).
 
-To reduce toxicity, patients treated with pemetrexed must also receive vitamin supplementation (see section 4.4). Patients must take oral folic acid or a multivitamin containing folic acid (350 to 1000 micrograms) on a daily basis. At least five doses of folic acid must be taken during the seven days preceding the first dose of pemetrexed, and dosing must continue during the full course of therapy and for 21 days after the last dose of pemetrexed. Patients must also receive an intramuscular injection of vitamin B 12 (1000 micrograms) in the week preceding the first dose of pemetrexed and once every three cycles thereafter. Subsequent vitamin B12 injections may be given on the same day as pemetrexed.
+To reduce toxicity, patients treated with pemetrexed must also receive vitamin supplementation (see section 4.4). Patients must take oral folic acid or a multivitamin containing folic acid (350 to 1000 micrograms) on a daily basis. At least five doses of folic acid must be taken during the seven days preceding the first dose of pemetrexed, and dosing must continue during the full course of therapy and for 21 days after the last dose of pemetrexed. Patients must also receive an intramuscular injection of vitamin B12 (1000 micrograms) in the week preceding the first dose of pemetrexed and once every three cycles thereafter. Subsequent vitamin B12 injections may be given on the same day as pemetrexed.
 
 ## Monitoring
 
-Patients receiving pemetrexed should be monitored before each dose with a complete blood count, including a differential white cell count (WCC) and platelet count. Prior to each chemotherapy administration, blood chemistry tests should be collected to evaluate renal and hepatic function. Before the start of any cycle of chemotherapy, patients are required to have the following: absolute neutrophil count (ANC) should be ≥ 1500 cells/mm 3 and platelets should be ≥ 100,000 cells/mm 3 .
+Patients receiving pemetrexed should be monitored before each dose with a complete blood count, including a differential white cell count (WCC) and platelet count. Prior to each chemotherapy administration, blood chemistry tests should be collected to evaluate renal and hepatic function. Before the start of any cycle of chemotherapy, patients are required to have the following: absolute neutrophil count (ANC) should be ≥ 1500 cells/mm 3 an d platelets should be ≥ 100,000 cells/mm 3 .
 
 Creatinine clearance should be ≥ 45 ml/min.
 
 <div style=\"page-break-after: always\"></div>
 
-The total bilirubin should be ≤ 1.5 times upper limit of normal. Alkaline phosphatase (AP), aspartate aminotransferase (AST or SGOT) and alanine aminotransferase (ALT or SGPT) should be ≤ 3 times upper limit of normal. Alkaline phosphatase, AST and ALT ≤ 5 times upper limit of normal is acceptable if liver has tumour involvement.
+The total biliru bin should be ≤ 1.5 times upper limit of normal. Alkaline phosphatase (AP), aspartate aminotransferase (AST or SGOT) and alanine aminotransferase (ALT or SGPT) should be ≤ 3 times upper limit of normal. Alkaline phosphatase, AST and ALT ≤ 5 times upper limit of normal is acceptable if liver has tumour involvement.
 
 ## Dose adjustments
 
 Dose adjustments at the start of a subsequent cycle should be based on nadir haematologic counts or maximum non-haematologic toxicity from the preceding cycle of therapy. Treatment may be delayed to allow sufficient time for recovery. Upon recovery, patients should be re-treated using the guidelines in Tables 1, 2 and 3, which are applicable for Pemetrexed Pfizer used as a single agent or in combination with cisplatin.
 
-| Table 1. Dose modification table for Pemetrexed Pfizer (as single agent or in combination) and cisplatin - Haematologic toxicities   | Table 1. Dose modification table for Pemetrexed Pfizer (as single agent or in combination) and cisplatin - Haematologic toxicities   |
-|--------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------|
-| Nadir ANC < 500/mm 3 and nadir platelets ≥ 50,000/mm 3                                                                               | 75% of previous dose (both Pemetrexed Pfizer and cisplatin)                                                                          |
-| Nadir platelets < 50,000/mm 3 regardless of nadir ANC                                                                                | 75% of previous dose (both Pemetrexed Pfizer and cisplatin)                                                                          |
-| Nadir platelets < 50,000/mm 3 with bleeding a , regardless of nadir ANC                                                              | 50% of previous dose (both Pemetrexed Pfizer and cisplatin)                                                                          |
-| a These criteria meet the National Cancer Institute Common Toxicity Criteria (CTC v2.0; NCI 1998)                                    | a These criteria meet the National Cancer Institute Common Toxicity Criteria (CTC v2.0; NCI 1998)                                    |
+| Table 1. Dose modification table for Pemetrexed Pfizer (as single agent or in combination) and cisplatin - Haematologic toxicities      | Table 1. Dose modification table for Pemetrexed Pfizer (as single agent or in combination) and cisplatin - Haematologic toxicities      |
+|-----------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------|
+| Nadir ANC < 500/mm 3 and nadir platelets ≥ 50,000/mm 3                                                                                  | 75% of previous dose (both Pemetrexed Pfizer and cisplatin)                                                                             |
+| Nadir platelets < 50,000/mm 3 regardless of nadir ANC                                                                                   | 75% of previous dose (both Pemetrexed Pfizer and cisplatin)                                                                             |
+| Nadir platelets < 50,000/mm 3 with bleeding a , regardless of nadir ANC                                                                 | 50% of previous dose (both Pemetrexed Pfizer and cisplatin)                                                                             |
+| a These criteria meet the National Cancer Institute Common Toxicity Criteria (CTC v2.0; NCI 1998) definition of ≥ CTC Grade 2 bleeding. | a These criteria meet the National Cancer Institute Common Toxicity Criteria (CTC v2.0; NCI 1998) definition of ≥ CTC Grade 2 bleeding. |
 
-If patients develop non-haematologic toxicities ≥ Grade 3 (excluding neurotoxicity), Pemetrexed Pfizer should be withheld until resolution to less than or equal to the patient's pre-therapy value. Treatment should be resumed according to the guidelines in Table 2.
+If patients develop nonhaematologic toxicities ≥ Grade 3 (excluding neurotoxicity), Pemetrexed Pfizer should be withheld until resolution to less than or equal to the patient's pre-therapy value. Treatment should be resumed according to the guidelines in Table 2.
 
 | Table 2. Dose modification table for Pemetrexed Pfizer (as single agent or in combination) and cisplatin - Non-haematologic toxicities a, b   | Table 2. Dose modification table for Pemetrexed Pfizer (as single agent or in combination) and cisplatin - Non-haematologic toxicities a, b   | Table 2. Dose modification table for Pemetrexed Pfizer (as single agent or in combination) and cisplatin - Non-haematologic toxicities a, b   |
 |-----------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------|
@@ -208,7 +206,7 @@ Cases of radiation recall have been reported in patients who received radiothera
 
 ## Pemetrexed Pfizer 100 mg powder for concentrate for solution for infusion
 
-This medicinal product contains less than 1 mmol sodium (23 mg) per vial, that is to say essentially 'sodium- free'.
+This medicinal product contains less than 1 mmol sodium (23 mg) per vial, that is to say essentially 'sodium -free' .
 
 ## Pemetrexed Pfizer 500 mg powder for concentrate for solution for infusion
 
@@ -299,31 +297,19 @@ Table 4. Frequencies of all grades adverse drug events regardless of causality f
 
 <div style=\"page-break-after: always\"></div>
 
-| Respiratory, thoracic and mediastinal disorders      |                                                             |                                                                           | Pulmonary embolism Interstitial pneumonitis b,d                                                |           |                                                                                                                                                                                      |                                                        |
-|------------------------------------------------------|-------------------------------------------------------------|---------------------------------------------------------------------------|------------------------------------------------------------------------------------------------|-----------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------|
-| Gastrointes- tinal disorders                         | Stomatitis Anorexia Vomiting Diarrhoea Nausea               | Dyspepsia Constipation Abdominal pain                                     | Rectal haemorrhage Gastrointestina l haemorrhage Intestinal perforation Oesophagitis Colitis e |           |                                                                                                                                                                                      |                                                        |
-| Hepatobiliary disorders                              |                                                             | Alanine aminotransfera se increased Aspartate aminotransfera se increased |                                                                                                | Hepatitis |                                                                                                                                                                                      |                                                        |
-| Skin and subcutaneous tissue disorders               | Rash Skin exfoliation                                       | Hyperpigment ation Pruritus Erythema multiforme Alopecia Urticaria        |                                                                                                | Erythema  | Stevens- Johnson syndrome b Toxic epidermal necrolysis b Pemphigoi d Dermatitis bullous Acquired epidermoly sis bullosa Erythemato -us oedema f Pseudocell- ulitis Dermatitis Eczema |                                                        |
-| Renal and urinary disorders                          | Creatinine clearance decreased Blood creatinine increased e | Renal failure Glomerular filtration rate decreased                        |                                                                                                |           |                                                                                                                                                                                      | Nephrogen ic diabetes insipidus Renal tubular necrosis |
-| General disorders and administration site conditions | Fatigue                                                     | Pyrexia Pain Oedema Chest pain Mucosal inflammation                       |                                                                                                |           |                                                                                                                                                                                      |                                                        |
-| Investigations                                       |                                                             | Gamma- glutamyltransf erase increased                                     |                                                                                                |           |                                                                                                                                                                                      |                                                        |
+| Respiratory, thoracic and mediastinal disorders      |                                                             |                                                                           | Pulmonary embolism Interstitial pneumonitis b,d                                                |           |                                                                                                                                                                                              |                                                        |
+|------------------------------------------------------|-------------------------------------------------------------|---------------------------------------------------------------------------|------------------------------------------------------------------------------------------------|-----------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------|
+| Gastrointes- tinal disorders                         | Stomatitis Anorexia Vomiting Diarrhoea Nausea               | Dyspepsia Constipation Abdominal pain                                     | Rectal haemorrhage Gastrointestina l haemorrhage Intestinal perforation Oesophagitis Colitis e |           |                                                                                                                                                                                              |                                                        |
+| Hepatobiliary disorders                              |                                                             | Alanine aminotransfera se increased Aspartate aminotransfera se increased |                                                                                                | Hepatitis |                                                                                                                                                                                              |                                                        |
+| Skin and subcutaneous tissue disorders               | Rash Skin exfoliation                                       | Hyperpigment ation Pruritus Erythema multiforme Alopecia Urticaria        |                                                                                                | Erythema  | Stevens- Johnson syndrome b Toxic epidermal necrolysis b Pemphigoi d Dermatitis bullous Acquired epidermoly sis bullosa Erythemato -us oedema f Pseudocell- ulitis Dermatitis Eczema Prurigo |                                                        |
+| Renal and urinary disorders                          | Creatinine clearance decreased Blood creatinine increased e | Renal failure Glomerular filtration rate decreased                        |                                                                                                |           |                                                                                                                                                                                              | Nephrogen ic diabetes insipidus Renal tubular necrosis |
+| General disorders and administration site conditions | Fatigue                                                     | Pyrexia Pain Oedema Chest pain Mucosal inflammation                       |                                                                                                |           |                                                                                                                                                                                              |                                                        |
+| Investigations                                       |                                                             | Gamma- glutamyltransf erase increased                                     |                                                                                                |           |                                                                                                                                                                                              |                                                        |
 
 <div style=\"page-break-after: always\"></div>
 
 | Injury, poisoning and procedural complications   | Recall pheno- menon   |
 |--------------------------------------------------|-----------------------|
-
-a with and without neutropenia
-
-b in some cases fatal
-
-c sometimes leading to extremity necrosis
-
-d with respiratory insufficiency
-
-e seen only in combination with cisplatin
-
-f mainly of the lower limbs
 
 ## Reporting of suspected adverse reactions
 
@@ -395,8 +381,8 @@ Table 6. Efficacy of pemetrexed vs. docetaxel in NSCLC - ITT population
 
 |                                                                                                               | Pemetrexed                                                                                                    | Docetaxel                                                                                                     |
 |---------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------|
-| Survival time (months) • Median (m) • 95% CI for median • HR • 95% CI for HR • Non-inferiority p -value (HR)  | (N = 283) 8.3 (7.0-9.4)                                                                                       | (N = 288) 7.9 (6.3-9.2)                                                                                       |
-| Survival time (months) • Median (m) • 95% CI for median • HR • 95% CI for HR • Non-inferiority p -value (HR)  | 0.99 (0.82-1.20) 0.226                                                                                        | 0.99 (0.82-1.20) 0.226                                                                                        |
+| Survival time (months) • Median (m) • 95% CI for median • HR • 95% CI for HR • Non -inferiority p -value (HR) | (N = 283) 8.3 (7.0-9.4)                                                                                       | (N = 288) 7.9 (6.3-9.2)                                                                                       |
+| Survival time (months) • Median (m) • 95% CI for median • HR • 95% CI for HR • Non -inferiority p -value (HR) | 0.99 (0.82-1.20) 0.226                                                                                        | 0.99 (0.82-1.20) 0.226                                                                                        |
 | Progression-free survival (months) • Median • HR (95% CI)                                                     | (N = 283) 2.9                                                                                                 | (N = 288) 2.9                                                                                                 |
 | Progression-free survival (months) • Median • HR (95% CI)                                                     | 0.97 (0.82-1.16)                                                                                              | 0.97 (0.82-1.16)                                                                                              |
 | Time to treatment failure (TTTF - months) • Median • HR (95% CI)                                              | (N = 283) 2.3                                                                                                 | (N = 288) 2.1                                                                                                 |
@@ -416,16 +402,18 @@ The analysis of the impact of NSCLC histology on overall survival demonstrated c
 
 <div style=\"page-break-after: always\"></div>
 
-Table 7. Efficacy of pemetrexed + cisplatin vs. gemcitabine + cisplatin in first-line non-small cell lung cancer - ITT population and histology subgroups
+Table 7. Efficacy of pemetrexed + cisplatin vs. gemcitabine + cisplatin in first-line non-small cell lung cancer -ITT population and histology subgroups
 
-| ITT population and histology subgroups   | Median overall survival in months (95% CI)   | Median overall survival in months (95% CI)   | Median overall survival in months (95% CI)   | Median overall survival in months (95% CI)   | Adjusted hazard ratio (HR) (95% CI)   | Superio rity p - value   |
-|------------------------------------------|----------------------------------------------|----------------------------------------------|----------------------------------------------|----------------------------------------------|---------------------------------------|--------------------------|
-| ITT population and histology subgroups   | Pemetrexed + Cisplatin                       | Pemetrexed + Cisplatin                       | Gemcitabine + Cisplatin                      | Gemcitabine + Cisplatin                      |                                       |                          |
-| ITT population (N = 1725)                | 10.3 (9.8 - 11.2)                            | N = 862                                      | 10.3 (9.6 - 10.9)                            | N = 863                                      | 0.94 a (0.84 - 1.05)                  | 0.259                    |
-| Adenocarcinom a (N = 847)                | 12.6 (10.7 - 13.6)                           | N = 436                                      | 10.9 (10.2 -11.9)                            | N = 411                                      | 0.84 (0.71-0.99)                      | 0.033                    |
-| Large cell (N = 153)                     | 10.4 (8.6 - 14.1)                            | N = 76                                       | 6.7 (5.5 - 9.0)                              | N = 77                                       | 0.67 (0.48-0.96)                      | 0.027                    |
-| Other (N = 252)                          | 8.6 (6.8 - 10.2)                             | N = 106                                      | 9.2 (8.1 - 10.6)                             | N = 146                                      | 1.08 (0.81-1.45)                      | 0.586                    |
-| Squamous cell (N = 473)                  | 9.4 (8.4 - 10.2)                             | N = 244                                      | 10.8 (9.5 - 12.1)                            | N = 229                                      | 1.23 (1.00-1.51)                      | 0.050                    |
+| ITT population and histology subgroups   | Median overall survival in months (95% CI)   | Median overall survival in months (95% CI)   | Median overall survival in months (95% CI)   | Median overall survival in months (95% CI)   | Adjusted hazard ratio (HR)   | Superio rity p -   |
+|------------------------------------------|----------------------------------------------|----------------------------------------------|----------------------------------------------|----------------------------------------------|------------------------------|--------------------|
+| ITT population and histology subgroups   | Pemetrexed + Cisplatin                       | Pemetrexed + Cisplatin                       | Gemcitabine + Cisplatin                      | Gemcitabine + Cisplatin                      | (95% CI)                     | value              |
+| ITT population (N = 1725)                | 10.3 (9.8 - 11.2)                            | N = 862                                      | 10.3 (9.6 - 10.9)                            | N = 863                                      | 0.94 a (0.84 - 1.05)         | 0.259              |
+| Adenocarcinom a (N = 847)                | 12.6 (10.7 - 13.6)                           | N = 436                                      | 10.9 (10.2 - 11.9)                           | N = 411                                      | 0.84 (0.71 - 0.99)           | 0.033              |
+| Large cell (N = 153)                     | 10.4 (8.6 - 14.1)                            | N = 76                                       | 6.7 (5.5 - 9.0)                              | N = 77                                       | 0.67 (0.48 - 0.96)           | 0.027              |
+| Other (N = 252)                          | 8.6 (6.8 - 10.2)                             | N = 106                                      | 9.2 (8.1 - 10.6)                             | N = 146                                      | 1.08 (0.81 - 1.45)           | 0.586              |
+| Squamous cell (N = 473)                  | 9.4 (8.4 - 10.2)                             | N = 244                                      | 10.8 (9.5 - 12.1)                            | N = 229                                      | 1.23 (1.00 - 1.51)           | 0.050              |
+
+Abbreviations: CI = confidence interval; ITT = intent-to-treat; N = total population size.
 
 a Statistically significant for non-inferiority, with the entire confidence interval for HR well below the 1.17645 non-inferiority margin ( p &lt; 0.001).
 
@@ -483,11 +471,11 @@ The pemetrexed maintenance safety profiles from the two studies JMEN and PARAMOU
 
 ## 5.2 Pharmacokinetic properties
 
-The pharmacokinetic properties of pemetrexed following single-agent administration have been evaluated in 426 cancer patients with a variety of solid tumours at doses ranging from 0.2 to 838 mg/m 2 infused over a 10-minute period. Pemetrexed has a steady-state volume of distribution of 9 l/m 2 . In vitro studies indicate that pemetrexed is approximately 81% bound to plasma proteins. Binding was not notably affected by varying degrees of renal impairment. Pemetrexed undergoes limited hepatic metabolism. Pemetrexed is primarily eliminated in the urine, with 70% to 90% of the administered dose being recovered unchanged in urine within the first 24 hours following administration. In vitro studies indicate that pemetrexed is actively secreted by OAT3 (organic anion transporter).
+The pharmacokinetic properties of pemetrexed following single-agent administration have been evaluated in 426 cancer patients with a variety of solid tumours at doses ranging from 0.2 to 838 mg/m 2  infused over a 10-minute period. Pemetrexed has a steady-state volume of distribution of 9 l/m 2 . In vitro studies indicate that pemetrexed is approximately 81% bound to plasma proteins. Binding was not notably affected by varying degrees of renal impairment. Pemetrexed undergoes limited hepatic metabolism. Pemetrexed is primarily eliminated in the urine, with 70% to 90% of the administered dose being recovered unchanged in urine within the first 24 hours following administration. In vitro studies indicate that pemetrexed is actively secreted by OAT3 (organic anion transporter).
 
 Pemetrexed total systemic clearance is 91.8 ml/min and the elimination half-life from plasma is 3.5 hours in patients with normal renal function (creatinine clearance of 90 ml/min). Between-patient variability in clearance is moderate at 19.3%. Pemetrexed total systemic exposure (AUC) and maximum plasma concentration increase proportionally with dose. The pharmacokinetics of pemetrexed are consistent over multiple treatment cycles.
 
-The pharmacokinetic properties of pemetrexed are not influenced by concurrently administered cisplatin. Oral folic acid and intramuscular vitamin B 12 supplementation do not affect the pharmacokinetics of pemetrexed.
+The pharmacokinetic properties of pemetrexed are not influenced by concurrently administered cisplatin. Oral folic acid and intramuscular vitamin B12 supplementation do not affect the pharmacokinetics of pemetrexed.
 
 ## 5.3 Preclinical safety data
 
@@ -513,9 +501,7 @@ Pemetrexed is physically incompatible with diluents containing calcium, includin
 
 ## 6.3 Shelf life
 
-## Unopened vial
-
-3 years
+Unopened vial 3 years
 
 ## Reconstituted and infusion solutions
 
@@ -531,21 +517,11 @@ For storage conditions after reconstitution of the medicinal product, see sectio
 
 ## 6.5 Nature and contents of container
 
-## Pemetrexed Pfizer 100 mg powder for concentrate for solution for infusion
+Pemetrexed Pfizer 100 mg powder for concentrate for solution for infusion Type I glass vial with rubber stopper containing 100 mg of pemetrexed (as pemetrexed disodium hemipentahydrate). Pack of 1 vial.
 
-Type I glass vial with rubber stopper containing 100 mg of pemetrexed (as pemetrexed disodium hemipentahydrate).
+Pemetrexed Pfizer 500 mg powder for concentrate for solution for infusion Type I glass vial with rubber stopper containing 500 mg of pemetrexed (as pemetrexed disodium hemipentahydrate). Pack of 1 vial.
 
-Pack of 1 vial.
-
-## Pemetrexed Pfizer 500 mg powder for concentrate for solution for infusion
-
-Type I glass vial with rubber stopper containing 500 mg of pemetrexed (as pemetrexed disodium hemipentahydrate).
-
-Pack of 1 vial.
-
-Pemetrexed Pfizer 1,000 mg powder for concentrate for solution for infusion Type I glass vial with rubber stopper containing 1,000 mg of pemetrexed (as pemetrexed disodium hemipentahydrate).
-
-Pack of 1 vial.
+Pemetrexed Pfizer 1,000 mg powder for concentrate for solution for infusion Type I glass vial with rubber stopper containing 1,000 mg of pemetrexed (as pemetrexed disodium hemipentahydrate). Pack of 1 vial.
 
 ## 6.6 Special precautions for disposal and other handling
 
@@ -636,7 +612,7 @@ Pemetrexed Pfizer must only be administered under the supervision of a physician
 
 ## Pemetrexed Pfizer in combination with cisplatin
 
-The recommended dose of Pemetrexed Pfizer is 500 mg/m 2 of body surface area (BSA) administered as an intravenous infusion over 10 minutes on the first day of each 21-day cycle. The recommended dose of cisplatin is 75 mg/m 2  BSA infused over two hours approximately 30 minutes after completion of the pemetrexed infusion on the first day of each 21-day cycle. Patients must receive adequate anti-emetic treatment and appropriate hydration prior to and/or after receiving cisplatin (see also cisplatin Summary of Product Characteristics for specific dosing advice).
+The recommended dose of Pemetrexed Pfizer is 500 mg/m 2  of body surface area (BSA) administered as an intravenous infusion over 10 minutes on the first day of each 21-day cycle. The recommended dose of cisplatin is 75 mg/m 2  BSA infused over two hours approximately 30 minutes after completion of the pemetrexed infusion on the first day of each 21-day cycle. Patients must receive adequate anti-emetic treatment and appropriate hydration prior to and/or after receiving cisplatin (see also cisplatin Summary of Product Characteristics for specific dosing advice).
 
 ## Pemetrexed Pfizer as single agent
 
@@ -646,15 +622,15 @@ In patients treated for non-small cell lung cancer after prior chemotherapy, the
 
 To reduce the incidence and severity of skin reactions, a corticosteroid should be given the day prior to, on the day of, and the day after pemetrexed administration. The corticosteroid should be equivalent to 4 mg of dexamethasone administered orally twice a day (see section 4.4).
 
-To reduce toxicity, patients treated with pemetrexed must also receive vitamin supplementation (see section 4.4). Patients must take oral folic acid or a multivitamin containing folic acid (350 to 1000 micrograms) on a daily basis. At least five doses of folic acid must be taken during the seven days preceding the first dose of pemetrexed, and dosing must continue during the full course of therapy and for 21 days after the last dose of pemetrexed. Patients must also receive an intramuscular injection of vitamin B 12 (1000 micrograms) in the week preceding the first dose of pemetrexed and once every three cycles thereafter. Subsequent vitamin B12 injections may be given on the same day as pemetrexed.
+To reduce toxicity, patients treated with pemetrexed must also receive vitamin supplementation (see section 4.4). Patients must take oral folic acid or a multivitamin containing folic acid (350 to 1000 micrograms) on a daily basis. At least five doses of folic acid must be taken during the seven days preceding the first dose of pemetrexed, and dosing must continue during the full course of therapy and for 21 days after the last dose of pemetrexed. Patients must also receive an intramuscular injection of vitamin B12 (1000 micrograms) in the week preceding the first dose of pemetrexed and once every three cycles thereafter. Subsequent vitamin B12 injections may be given on the same day as pemetrexed.
 
 ## Monitoring
 
-Patients receiving pemetrexed should be monitored before each dose with a complete blood count, including a differential white cell count (WCC) and platelet count. Prior to each chemotherapy administration, blood chemistry tests should be collected to evaluate renal and hepatic function. Before the start of any cycle of chemotherapy, patients are required to have the following: absolute neutrophil count (ANC) should be ≥ 1500 cells/mm 3 and platelets should be ≥ 100,000 cells/mm 3 .
+Patients receiving pemetrexed should be monitored before each dose with a complete blood count, including a differential white cell count (WCC) and platelet count. Prior to each chemotherapy administration, blood chemistry tests should be collected to evaluate renal and hepatic function. Before the start of any cycle of chemotherapy, patients are required to have the following: absolute neutrophil count (ANC) should be ≥ 1500 cells/mm 3 an d platelets should be ≥ 100,000 cells/mm 3 .
 
 Creatinine clearance should be ≥ 45 ml/min.
 
-The total bilirubin should be ≤ 1.5 times upper limit of normal. Alkaline phosphatase (ALP), aspartate aminotransferase (AST or SGOT) and alanine aminotransferase (ALT or SGPT) should be ≤ 3 times upper limit of normal. Alkaline phosphatase, AST and ALT ≤ 5 times upper limit of normal is acceptable if liver has tumour involvement.
+The total biliru bin should be ≤ 1.5 times upper limit of normal. Alkaline phosphatase (ALP), aspartate aminotransferase (AST or SGOT) and alanine aminotransferase (ALT or SGPT) should be ≤ 3 times upper limit of normal. Alkaline phosphatase, AST and ALT ≤ 5 times upper limit of normal is acceptable if liver has tumour involvement.
 
 ## Dose adjustments
 
@@ -662,14 +638,14 @@ Dose adjustments at the start of a subsequent cycle should be based on nadir hae
 
 <div style=\"page-break-after: always\"></div>
 
-| Table 1. Dose modification table for Pemetrexed Pfizer (as single agent or in combination) and cisplatin - Haematologic toxicities   | Table 1. Dose modification table for Pemetrexed Pfizer (as single agent or in combination) and cisplatin - Haematologic toxicities   |
-|--------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------|
-| Nadir ANC < 500/mm 3 and nadir platelets ≥ 50,000/mm 3                                                                               | 75% of previous dose (both Pemetrexed Pfizer and cisplatin)                                                                          |
-| Nadir platelets < 50,000/mm 3 regardless of nadir ANC                                                                                | 75% of previous dose (both Pemetrexed Pfizer and cisplatin)                                                                          |
-| Nadir platelets < 50,000/mm 3 with bleeding a , regardless of nadir ANC                                                              | 50% of previous dose (both Pemetrexed Pfizer and cisplatin)                                                                          |
-| a These criteria meet the National Cancer Institute Common Toxicity Criteria (CTC v2.0; NCI 1998)                                    | a These criteria meet the National Cancer Institute Common Toxicity Criteria (CTC v2.0; NCI 1998)                                    |
+| Table 1. Dose modification table for Pemetrexed Pfizer (as single agent or in combination) and cisplatin - Haematologic toxicities      | Table 1. Dose modification table for Pemetrexed Pfizer (as single agent or in combination) and cisplatin - Haematologic toxicities      |
+|-----------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------|
+| Nadir ANC < 500/mm 3 and nadir platelets ≥ 50,000/mm 3                                                                                  | 75% of previous dose (both Pemetrexed Pfizer and cisplatin)                                                                             |
+| Nadir platelets < 50,000/mm 3 regardless of nadir ANC                                                                                   | 75% of previous dose (both Pemetrexed Pfizer and cisplatin)                                                                             |
+| Nadir platelets < 50,000/mm 3 with bleeding a , regardless of nadir ANC                                                                 | 50% of previous dose (both Pemetrexed Pfizer and cisplatin)                                                                             |
+| a These criteria meet the National Cancer Institute Common Toxicity Criteria (CTC v2.0; NCI 1998) definition of ≥ CTC Grade 2 bleeding. | a These criteria meet the National Cancer Institute Common Toxicity Criteria (CTC v2.0; NCI 1998) definition of ≥ CTC Grade 2 bleeding. |
 
-If patients develop non-haematologic toxicities ≥ Grade 3 (excluding neurotoxicity), Pemetrexed Pfizer should be withheld until resolution to less than or equal to the patient's pre-therapy value. Treatment should be resumed according to the guidelines in Table 2.
+If patients develop nonhaematologic toxicities ≥ Grade 3 (excluding neurotoxicity), Pemetrexed Pfizer should be withheld until resolution to less than or equal to the patient's pre-therapy value. Treatment should be resumed according to the guidelines in Table 2.
 
 | Table 2. Dose modification table for Pemetrexed Pfizer (as single agent or in combination) and cisplatin - Non-haematologic toxicities a, b   | Table 2. Dose modification table for Pemetrexed Pfizer (as single agent or in combination) and cisplatin - Non-haematologic toxicities a, b   | Table 2. Dose modification table for Pemetrexed Pfizer (as single agent or in combination) and cisplatin - Non-haematologic toxicities a, b   |
 |-----------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------|
@@ -856,20 +832,10 @@ Table 4. Frequencies of all grades adverse drug events regardless of causality f
 
 <div style=\"page-break-after: always\"></div>
 
-| Injury, poisoning and procedural complications   | Radiation oesophagitis Radiation pneumonitis   | Recall menon   | pheno-   |
-|--------------------------------------------------|------------------------------------------------|----------------|----------|
-
-a with and without neutropenia
-
-b in some cases fatal
-
-c sometimes leading to extremity necrosis
-
-d with respiratory insufficiency
-
-e seen only in combination with cisplatin
-
-f mainly of the lower limbs
+| Injury, poisoning and procedural   | Recall menon   | Radiation oesophagitis Radiation   |
+|------------------------------------|----------------|------------------------------------|
+| complications                      |                |                                    |
+|                                    |                | pneumonitis                        |
 
 ## Reporting of suspected adverse reactions
 
@@ -945,8 +911,8 @@ Table 6. Efficacy of pemetrexed vs. docetaxel in NSCLC - ITT population
 
 |                                                                                                               | Pemetrexed                                                                                                    | Docetaxel                                                                                                     |
 |---------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------|
-| Survival time (months) • Median (m) • 95% CI for median • HR • 95% CI for HR • Non-inferiority p -value (HR)  | (N = 283) 8.3 (7.0-9.4)                                                                                       | (N = 288) 7.9 (6.3-9.2)                                                                                       |
-| Survival time (months) • Median (m) • 95% CI for median • HR • 95% CI for HR • Non-inferiority p -value (HR)  | 0.99 (0.82-1.20) 0.226                                                                                        | 0.99 (0.82-1.20) 0.226                                                                                        |
+| Survival time (months) • Median (m) • 95% CI for median • HR • 95% CI for HR • Non -inferiority p -value (HR) | (N = 283) 8.3 (7.0-9.4)                                                                                       | (N = 288) 7.9 (6.3-9.2)                                                                                       |
+| Survival time (months) • Median (m) • 95% CI for median • HR • 95% CI for HR • Non -inferiority p -value (HR) | 0.99 (0.82-1.20) 0.226                                                                                        | 0.99 (0.82-1.20) 0.226                                                                                        |
 | Progression-free survival (months) • Median • HR (95% CI)                                                     | (N = 283) 2.9                                                                                                 | (N = 288) 2.9                                                                                                 |
 | Progression-free survival (months) • Median • HR (95% CI)                                                     | 0.97 (0.82-1.16)                                                                                              | 0.97 (0.82-1.16)                                                                                              |
 | Time to treatment failure (TTTF - months) • Median • HR (95% CI)                                              | (N = 283) 2.3                                                                                                 | (N = 288) 2.1                                                                                                 |
@@ -966,16 +932,18 @@ The analysis of the impact of NSCLC histology on overall survival demonstrated c
 
 <div style=\"page-break-after: always\"></div>
 
-Table 7. Efficacy of pemetrexed + cisplatin vs. gemcitabine + cisplatin in first-line non-small cell lung cancer - ITT population and histology subgroups
+Table 7. Efficacy of pemetrexed + cisplatin vs. gemcitabine + cisplatin in first-line non-small cell lung cancer -ITT population and histology subgroups
 
-| ITT population and histology subgroups   | Median overall survival in months (95% CI)   | Median overall survival in months (95% CI)   | Median overall survival in months (95% CI)   | Median overall survival in months (95% CI)   | Adjusted hazard ratio (HR) (95% CI)   | Superio rity p - value   |
-|------------------------------------------|----------------------------------------------|----------------------------------------------|----------------------------------------------|----------------------------------------------|---------------------------------------|--------------------------|
-| ITT population and histology subgroups   | Pemetrexed + Cisplatin                       | Pemetrexed + Cisplatin                       | Gemcitabine + Cisplatin                      | Gemcitabine + Cisplatin                      |                                       |                          |
-| ITT population (N = 1725)                | 10.3 (9.8 - 11.2)                            | N = 862                                      | 10.3 (9.6 - 10.9)                            | N = 863                                      | 0.94 a (0.84 - 1.05)                  | 0.259                    |
-| Adenocarcinom a (N = 847)                | 12.6 (10.7 - 13.6)                           | N = 436                                      | 10.9 (10.2 -11.9)                            | N = 411                                      | 0.84 (0.71-0.99)                      | 0.033                    |
-| Large cell (N = 153)                     | 10.4 (8.6 - 14.1)                            | N = 76                                       | 6.7 (5.5 - 9.0)                              | N = 77                                       | 0.67 (0.48-0.96)                      | 0.027                    |
-| Other (N = 252)                          | 8.6 (6.8 - 10.2)                             | N = 106                                      | 9.2 (8.1 - 10.6)                             | N = 146                                      | 1.08 (0.81-1.45)                      | 0.586                    |
-| Squamous cell (N = 473)                  | 9.4 (8.4 - 10.2)                             | N = 244                                      | 10.8 (9.5 - 12.1)                            | N = 229                                      | 1.23 (1.00-1.51)                      | 0.050                    |
+| ITT population and histology subgroups   | Median overall survival in months (95% CI)   | Median overall survival in months (95% CI)   | Median overall survival in months (95% CI)   | Median overall survival in months (95% CI)   | Adjusted hazard ratio (HR)   | Superio rity p -   |
+|------------------------------------------|----------------------------------------------|----------------------------------------------|----------------------------------------------|----------------------------------------------|------------------------------|--------------------|
+| ITT population and histology subgroups   | Pemetrexed + Cisplatin                       | Pemetrexed + Cisplatin                       | Gemcitabine + Cisplatin                      | Gemcitabine + Cisplatin                      | (95% CI)                     | value              |
+| ITT population (N = 1725)                | 10.3 (9.8 - 11.2)                            | N = 862                                      | 10.3 (9.6 - 10.9)                            | N = 863                                      | 0.94 a (0.84 - 1.05)         | 0.259              |
+| Adenocarcinom a (N = 847)                | 12.6 (10.7 - 13.6)                           | N = 436                                      | 10.9 (10.2 - 11.9)                           | N = 411                                      | 0.84 (0.71 - 0.99)           | 0.033              |
+| Large cell (N = 153)                     | 10.4 (8.6 - 14.1)                            | N = 76                                       | 6.7 (5.5 - 9.0)                              | N = 77                                       | 0.67 (0.48 - 0.96)           | 0.027              |
+| Other (N = 252)                          | 8.6 (6.8 - 10.2)                             | N = 106                                      | 9.2 (8.1 - 10.6)                             | N = 146                                      | 1.08 (0.81 - 1.45)           | 0.586              |
+| Squamous cell (N = 473)                  | 9.4 (8.4 - 10.2)                             | N = 244                                      | 10.8 (9.5 - 12.1)                            | N = 229                                      | 1.23 (1.00 - 1.51)           | 0.050              |
+
+Abbreviations: CI = confidence interval; ITT = intent-to-treat; N = total population size.
 
 a Statistically significant for non-inferiority, with the entire confidence interval for HR well below the 1.17645 non-inferiority margin ( p &lt; 0.001).
 
@@ -1033,11 +1001,11 @@ The pemetrexed maintenance safety profiles from the two studies JMEN and PARAMOU
 
 ## 5.2 Pharmacokinetic properties
 
-The pharmacokinetic properties of pemetrexed following single-agent administration have been evaluated in 426 cancer patients with a variety of solid tumours at doses ranging from 0.2 to 838 mg/m 2 infused over a 10-minute period. Pemetrexed has a steady-state volume of distribution of 9 l/m 2 . In vitro studies indicate that pemetrexed is approximately 81% bound to plasma proteins. Binding was not notably affected by varying degrees of renal impairment. Pemetrexed undergoes limited hepatic metabolism. Pemetrexed is primarily eliminated in the urine, with 70% to 90% of the administered dose being recovered unchanged in urine within the first 24 hours following administration. In vitro studies indicate that pemetrexed is actively secreted by OAT3 (organic anion transporter).
+The pharmacokinetic properties of pemetrexed following single-agent administration have been evaluated in 426 cancer patients with a variety of solid tumours at doses ranging from 0.2 to 838 mg/m 2  infused over a 10-minute period. Pemetrexed has a steady-state volume of distribution of 9 l/m 2 . In vitro studies indicate that pemetrexed is approximately 81% bound to plasma proteins. Binding was not notably affected by varying degrees of renal impairment. Pemetrexed undergoes limited hepatic metabolism. Pemetrexed is primarily eliminated in the urine, with 70% to 90% of the administered dose being recovered unchanged in urine within the first 24 hours following administration. In vitro studies indicate that pemetrexed is actively secreted by OAT3 (organic anion transporter).
 
 Pemetrexed total systemic clearance is 91.8 ml/min and the elimination half-life from plasma is 3.5 hours in patients with normal renal function (creatinine clearance of 90 ml/min). Between-patient variability in clearance is moderate at 19.3%. Pemetrexed total systemic exposure (AUC) and maximum plasma concentration increase proportionally with dose. The pharmacokinetics of pemetrexed are consistent over multiple treatment cycles.
 
-The pharmacokinetic properties of pemetrexed are not influenced by concurrently administered cisplatin. Oral folic acid and intramuscular vitamin B 12 supplementation do not affect the pharmacokinetics of pemetrexed.
+The pharmacokinetic properties of pemetrexed are not influenced by concurrently administered cisplatin. Oral folic acid and intramuscular vitamin B12 supplementation do not affect the pharmacokinetics of pemetrexed.
 
 ## 5.3 Preclinical safety data
 
@@ -1081,7 +1049,7 @@ For storage conditions after dilution of the medicinal product, see section 6.3.
 
 ## 6.5 Nature and contents of container
 
-A clear, type I silicon dioxide inner coated glass vial with bromobutyl rubber stopper and an aluminium seal with a plastic 'flip-off' top. The vials may be sheathed in protective ONCO-TAIN sleeves.
+A clear, type I silicon dioxide inner coated glass vial with bromobutyl rubber stopper and an aluminium seal with a plastic 'flip -off' top. The vials may be sheathed in protective ONCO-TAIN sleeves.
 
 One vial contains either 4 ml, 20 ml or 40 ml of the concentrate.
 
@@ -1102,7 +1070,7 @@ Not all pack sizes may be marketed.
 
 <div style=\"page-break-after: always\"></div>
 
-## Preparation and administration precautions
+Preparation and administration precautions
 
 As with other potentially toxic anti-cancer agents, care should be exercised in the handling and preparation of pemetrexed infusion solution. The use of gloves is recommended. If a pemetrexed solution contacts the skin, wash the skin immediately and thoroughly with soap and water. If pemetrexed solutions contact the mucous membranes, flush thoroughly with water. Pemetrexed is not a vesicant. There is not a specific antidote for extravasation of pemetrexed. There have been few reported cases of pemetrexed extravasation, which were not assessed as serious by the investigator. Extravasation should be managed by local standard practice as with other non-vesicants.
 
@@ -1147,20 +1115,20 @@ Medicinal product subject to restricted medical prescription (see Annex I: Summa
 
 ## C. OTHER CONDITIONS AND REQUIREMENTS OF THE MARKETING AUTHORISATION
 
-##  Periodic safety update reports (PSURs)
+## · Periodic safety update reports (PSURs)
 
 The requirements for submission of PSURs for this medicinal product are set out in the list of Union reference dates (EURD list) provided for under Article 107c(7) of Directive 2001/83/EC and any subsequent updates published on the European medicines web-portal.
 
 ## D. CONDITIONS OR RESTRICTIONS WITH REGARD TO THE SAFE AND EFFECTIVE USE OF THE MEDICINAL PRODUCT
 
-##  Risk management plan (RMP)
+## · Risk management plan (RMP)
 
 The marketing authorisation holder (MAH) shall perform the required pharmacovigilance activities and interventions detailed in the agreed RMP presented in Module 1.8.2 of the marketing authorisation and any agreed subsequent updates of the RMP.
 
 An updated RMP should be submitted:
 
--  At the request of the European Medicines Agency;
--  Whenever the risk management system is modified, especially as the result of new information being received that may lead to a significant change to the benefit/risk profile or as the result of an important (pharmacovigilance or risk minimisation) milestone being reached.
+- At the request of the European Medicines Agency;
+- Whenever the risk management system is modified, especially as the result of new information being received that may lead to a significant change to the benefit/risk profile or as the result of an important (pharmacovigilance or risk minimisation) milestone being reached.
 
 <div style=\"page-break-after: always\"></div>
 
@@ -1230,8 +1198,8 @@ Read the package leaflet for the shelf life of the reconstituted product.
 | 9.   | SPECIAL STORAGE CONDITIONS   |
 |------|------------------------------|
 
-| 10.   | SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS ORWASTEMATERIALS DERIVED FROMSUCHMEDICINALPRODUCTS, IF APPROPRIATE   |
-|-------|------------------------------------------------------------------------------------------------------------------------------------|
+| 10.   | SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS ORWASTEMATERIALS DERIVEDFROMSUCH MEDICINAL PRODUCTS, IF APPROPRIATE   |
+|-------|-------------------------------------------------------------------------------------------------------------------------------------|
 
 Discard unused contents appropriately.
 
@@ -1253,8 +1221,8 @@ Lot
 | 14.   | GENERAL CLASSIFICATION FOR SUPPLY   |
 |-------|-------------------------------------|
 
-| 15.   | INSTRUCTIONS ONUSE   |
-|-------|----------------------|
+| 15.   | INSTRUCTIONS ON USE   |
+|-------|-----------------------|
 
 | 16.   | INFORMATION IN BRAILLE   |
 |-------|--------------------------|
@@ -1263,13 +1231,13 @@ Justification for not including Braille accepted.
 
 <div style=\"page-break-after: always\"></div>
 
-| 17.   | UNIQUE IDENTIFIER - 2D BARCODE   |
-|-------|----------------------------------|
+| 17. UNIQUE IDENTIFIER - 2D BARCODE   |
+|--------------------------------------|
 
 2D barcode carrying the unique identifier included.
 
-| 18.   | UNIQUE IDENTIFIER -HUMANREADABLEDATA   |
-|-------|----------------------------------------|
+| 18.   | UNIQUE IDENTIFIER - HUMANREADABLE DATA   |
+|-------|------------------------------------------|
 
 PC SN NN
 
@@ -1375,7 +1343,7 @@ Lot
 
 15. INSTRUCTIONS ON USE
 
-16. INFORMATION IN BRAILLE
+## 16. INFORMATION IN BRAILLE
 
 Justification for not including Braille accepted.
 
@@ -1387,8 +1355,8 @@ Justification for not including Braille accepted.
 
 <div style=\"page-break-after: always\"></div>
 
-| 18.   | UNIQUE IDENTIFIER -HUMANREADABLEDATA   |
-|-------|----------------------------------------|
+| 18.   | UNIQUE IDENTIFIER - HUMANREADABLE DATA   |
+|-------|------------------------------------------|
 
 PC SN NN
 
@@ -1494,7 +1462,7 @@ Lot
 
 15. INSTRUCTIONS ON USE
 
-16. INFORMATION IN BRAILLE
+## 16. INFORMATION IN BRAILLE
 
 Justification for not including Braille accepted.
 
@@ -1502,13 +1470,13 @@ Justification for not including Braille accepted.
 
 <div style=\"page-break-after: always\"></div>
 
-| 17.   | UNIQUE IDENTIFIER - 2D BARCODE   |
-|-------|----------------------------------|
+| 17. UNIQUE IDENTIFIER - 2D BARCODE   |
+|--------------------------------------|
 
 2D barcode carrying the unique identifier included.
 
-| 18.   | UNIQUE IDENTIFIER -HUMANREADABLEDATA   |
-|-------|----------------------------------------|
+| 18.   | UNIQUE IDENTIFIER - HUMANREADABLE DATA   |
+|-------|------------------------------------------|
 
 PC SN NN
 
@@ -1544,7 +1512,7 @@ Lot
 
 ## PARTICULARS TO APPEAR ON THE OUTER PACKAGING
 
-OUTER CARTON
+## OUTER CARTON
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
@@ -1578,9 +1546,7 @@ ONCO-TAIN
 
 ## 5. METHOD AND ROUTE(S) OF ADMINISTRATION
 
-For intravenous use. Dilute before use.
-
-Single use only.
+For intravenous use. Dilute before use. Single use only.
 
 Read the package leaflet before use.
 
@@ -1606,9 +1572,7 @@ Pfizer Europe MA EEIG Boulevard de la Plaine 17 1050 Bruxelles Belgium
 
 ## 12. MARKETING AUTHORISATION NUMBER(S)
 
-EU/1/15/1057/004 100 mg/4 ml vial
-
-EU/1/15/1057/005 500 mg/20 ml vial
+EU/1/15/1057/004 100 mg/4 ml vial EU/1/15/1057/005 500 mg/20 ml vial
 
 EU/1/15/1057/006 1,000 mg/40 ml vial
 
@@ -1628,13 +1592,13 @@ Justification for not including Braille accepted
 
 <div style=\"page-break-after: always\"></div>
 
-| 17.   | UNIQUE IDENTIFIER - 2D BARCODE   |
-|-------|----------------------------------|
+| 17. UNIQUE IDENTIFIER - 2D BARCODE   |
+|--------------------------------------|
 
 2D barcode carrying the unique identifier included.
 
-| 18.   | UNIQUE IDENTIFIER -HUMANREADABLEDATA   |
-|-------|----------------------------------------|
+| 18.   | UNIQUE IDENTIFIER - HUMANREADABLE DATA   |
+|-------|------------------------------------------|
 
 PC SN NN
 
@@ -1733,7 +1697,7 @@ This medicine should not be used in children or adolescents, since there is no e
 
 ## Other medicines and Pemetrexed Pfizer
 
-Please tell your doctor if you are taking any medicine for pain or inflammation (swelling), such as medicines called 'nonsteroidal anti-inflammatory drugs' (NSAIDs), including medicines purchased without a doctor's prescription (such as ibuprofen). There are many sorts of NSAIDs with different durations of activity. Based on the planned date of your infusion of pemetrexed and/or on the status of your kidney function, your doctor needs to advise you on which medicines you can take and when you can take them. If you are unsure, ask your doctor or pharmacist if any of your medicines are NSAIDs.
+Please tell your doctor if you are taking any medicine for pain or inflammation (swelling), such as medicines called 'nonsteroidal anti -inflammatory drugs' (NSAIDs), including medicines purchased without a doctor's prescription (such as ibuprofen). There a re many sorts of NSAIDs with different durations of activity. Based on the planned date of your infusion of pemetrexed and/or on the status of your kidney function, your doctor needs to advise you on which medicines you can take and when you can take them. If you are unsure, ask your doctor or pharmacist if any of your medicines are NSAIDs.
 
 Please inform your doctor if you are taking medicines called proton pump inhibitors (omeprazole, esomeprazole, lansoprazole, pantoprazole and rabeprazole) used to treat heartburn and acid regurgitation.
 
@@ -1763,7 +1727,7 @@ Pemetrexed Pfizer may make you feel tired. Be careful when driving a car or usin
 
 ## Pemetrexed Pfizer 100 mg powder for concentrate for solution for infusion
 
-This medicine contains less than 1 mmol sodium (23 mg) per vial, that is to say essentially 'sodium- free'.
+This medicine contains less than 1 mmol sodium (23 mg) per vial, that is to say essentially 'sodium -free' .
 
 ## Pemetrexed Pfizer 500 mg powder for concentrate for solution for infusion
 
@@ -1801,45 +1765,21 @@ Like all medicines, this medicine can cause side effects, although not everybody
 
 You must contact your doctor immediately if you notice any of the following:
 
--  Fever or infection (respectively, common or very common): if you have a temperature of 38 ºC or greater, sweating or other signs of infection (since you might have fewer white blood cells than normal which is very common). Infection (sepsis) may be severe and could lead to death.
--  If you start feeling chest pain (common) or having a fast heart rate (uncommon).
--  If you have pain, redness, swelling or sores in your mouth (very common).
--  Allergic reaction: if you develop skin rash (very common) / burning or prickling sensation (common), or fever (common). Rarely, skin reactions may be severe and could lead to death. Contact your doctor if you get a severe rash, or itching, or blistering (Stevens-Johnson syndrome or toxic epidermal necrolysis).
--  If you experience tiredness, feeling faint, becoming easily breathless or if you look pale (since you might have less haemoglobin than normal which is very common).
--  If you experience bleeding from the gums, nose or mouth or any bleeding that would not stop, reddish or pinkish urine, unexpected bruising (since you might have less platelets than normal which is common).
--  If you experience sudden breathlessness, intense chest pain or cough with bloody sputum (uncommon) (may indicate a blood clot in the blood vessels of the lungs).
+- Fever or infection (respectively, common or very common): if you have a temperature of 38 ºC or greater, sweating or other signs of infection (since you might have fewer white blood cells than normal which is very common). Infection (sepsis) may be severe and could lead to death.
+- If you start feeling chest pain (common) or having a fast heart rate (uncommon).
+- If you have pain, redness, swelling or sores in your mouth (very common).
+- Allergic reaction: if you develop skin rash (very common) / burning or prickling sensation (common), or fever (common). Rarely, skin reactions may be severe and could lead to death. Contact your doctor if you get a severe rash, or itching, or blistering (Stevens-Johnson syndrome or toxic epidermal necrolysis).
+- If you experience tiredness, feeling faint, becoming easily breathless or if you look pale (since you might have less haemoglobin than normal which is very common).
+- If you experience bleeding from the gums, nose or mouth or any bleeding that would not stop, reddish or pinkish urine, unexpected bruising (since you might have less platelets than normal which is common).
+- If you experience sudden breathlessness, intense chest pain or cough with bloody sputum (uncommon) (may indicate a blood clot in the blood vessels of the lungs).
 
-## Side effects with pemetrexed may include:
+Side effects with pemetrexed may include:
 
-| Very common (may affect more than 1 in 10 people)                                                                 |
-|-------------------------------------------------------------------------------------------------------------------|
-| Infection                                                                                                         |
-| Pharyngitis (a sore throat)                                                                                       |
-| Low number of neutrophil granulocytes (a type of white blood cell)                                                |
-| Low white blood cells                                                                                             |
-| Low haemoglobin level                                                                                             |
-| Pain, redness, swelling or sores in your mouth                                                                    |
-| Loss of appetite                                                                                                  |
-| Vomiting                                                                                                          |
-| Diarrhoea                                                                                                         |
-| Nausea                                                                                                            |
-| Skin rash                                                                                                         |
-| Flaking skin                                                                                                      |
-| Abnormal blood tests showing reduced functionality of kidneys                                                     |
-| Fatigue (tiredness)                                                                                               |
-| Common (may affect up to 1 in 10 people)                                                                          |
-| Blood infection                                                                                                   |
-| Fever with low number of neutrophil granulocytes (a type of white blood cell)                                     |
-| Low platelet count                                                                                                |
-| Allergic reaction                                                                                                 |
-| Loss of body fluids                                                                                               |
-| Taste change                                                                                                      |
-| Damage to the motor nerves which may cause muscle weakness and atrophy (wasting) primary in the arms and legs     |
-| Damage to the sensory nerves that may cause loss of sensation, burning pain and unsteady gait                     |
-| Dizziness                                                                                                         |
-| Inflammation or swelling of the conjunctiva (the membrane that lines the eyelids and covers the white of the eye) |
-| Dry eye                                                                                                           |
-| Watery eyes                                                                                                       |
+Very common (may affect more than 1 in 10 people) Infection Pharyngitis (a sore throat) Low number of neutrophil granulocytes (a type of white blood cell) Low white blood cells Low haemoglobin level Pain, redness, swelling or sores in your mouth Loss of appetite Vomiting Diarrhoea Nausea Skin rash Flaking skin Abnormal blood tests showing reduced functionality of kidneys Fatigue (tiredness)
+
+## Common (may affect up to 1 in 10 people)
+
+Blood infection Fever with low number of neutrophil granulocytes (a type of white blood cell) Low platelet count Allergic reaction Loss of body fluids Taste change Damage to the motor nerves which may cause muscle weakness and atrophy (wasting) primary in the arms and legs Damage to the sensory nerves that may cause loss of sensation, burning pain and unsteady gait Dizziness Inflammation or swelling of the conjunctiva (the membrane that lines the eyelids and covers the white of the eye) Dry eye Watery eyes
 
 <div style=\"page-break-after: always\"></div>
 
@@ -1921,9 +1861,7 @@ Pfizer Europe MA EEIG Boulevard de la Plaine 17 1050 Bruxelles Belgium
 
 ## Manufacturer
 
-Pfizer Service Company BV
-
-Hermeslaan 11 1932 Zaventem Belgium
+Pfizer Service Company BV Hermeslaan 11 1932 Zaventem Belgium
 
 For any information about this medicine, please contact the local representative of the Marketing Authorisation Holder:
 
@@ -1967,9 +1905,9 @@ Tlf.: + 45 44 20 11 00
 
 ## MT
 
-Drugsales Ltd
+Vivian Corporation Ltd.
 
-Tel.: + 356 21 419 070/1/2
+Tel: + 356 2134 4610
 
 ## DE
 
@@ -2101,7 +2039,7 @@ Tel: +386 (0)1 52 11 400
 
 Pfizer Luxembourg SARL, organizačná zložka
 
-Tel: +421-2-3355 5500
+Tel: +421 - 2 - 3355 5500
 
 ## FI
 
@@ -2201,7 +2139,7 @@ This medicine should not be used in children or adolescents, since there is no e
 
 ## Other medicines and Pemetrexed Pfizer
 
-Please tell your doctor if you are taking any medicine for pain or inflammation (swelling), such as medicines called 'nonsteroidal anti-inflammatory drugs' (NSAIDs), including medicines purchased without a doctor's prescription (such as ibuprofen). There are many sorts of NSAIDs with different durations of activity. Based on the planned date of your infusion of pemetrexed and/or on the status of your kidney function, your doctor needs to advise you on which medicines you can take and when you can take them. If you are unsure, ask your doctor or pharmacist if any of your medicines are NSAIDs.
+Please tell your doctor if you are taking any medicine for pain or inflammation (swelling), such as medicines called 'nonsteroidal anti -inflammatory drugs' (NSAIDs), including medicines purchased without a doctor's prescription (such as ibuprofen). There a re many sorts of NSAIDs with different durations of activity. Based on the planned date of your infusion of pemetrexed and/or on the status of your kidney function, your doctor needs to advise you on which medicines you can take and when you can take them. If you are unsure, ask your doctor or pharmacist if any of your medicines are NSAIDs.
 
 Please inform your doctor if you are taking medicines called proton pump inhibitors (omeprazole, esomeprazole, lansoprazole, pantoprazole and rabeprazole) used to treat heartburn and acid regurgitation.
 
@@ -2227,7 +2165,7 @@ Pemetrexed Pfizer may make you feel tired. Be careful when driving a car or usin
 
 ## Pemetrexed Pfizer contains sodium
 
-One 4 ml vial contains less than 1 mmol sodium (23 mg), that is to say essentially 'sodium-free'.
+One 4 ml vial contains less than 1 mmol sodium (23 mg), that is to say essentially 'sodium -free' .
 
 One 20 ml vial contains approximately 54 mg sodium (main component of cooking/table salt). This is equivalent to 2.7% of the recommended maximum daily dietary intake of sodium for an adult.
 
@@ -2259,77 +2197,64 @@ Like all medicines, this medicine can cause side effects, although not everybody
 
 You must contact your doctor immediately if you notice any of the following:
 
--  Fever or infection (respectively, common or very common): if you have a temperature of 38 ºC or greater, sweating or other signs of infection (since you might have fewer white blood cells than normal which is very common). Infection (sepsis) may be severe and could lead to death.
+- Fever or infection (respectively, common or very common): if you have a temperature of 38 ºC or greater, sweating or other signs of infection (since you might have fewer white blood cells than normal which is very common). Infection (sepsis) may be severe and could lead to death.
 
 <div style=\"page-break-after: always\"></div>
 
--  If you start feeling chest pain (common) or having a fast heart rate (uncommon).
--  If you have pain, redness, swelling or sores in your mouth (very common).
--  Allergic reaction: if you develop skin rash (very common) / burning or prickling sensation (common), or fever (common). Rarely, skin reactions may be severe and could lead to death. Contact your doctor if you get a severe rash, or itching, or blistering (Stevens-Johnson syndrome or toxic epidermal necrolysis).
--  If you experience tiredness, feeling faint, becoming easily breathless or if you look pale (since you might have less haemoglobin than normal which is very common).
--  If you experience bleeding from the gums, nose or mouth or any bleeding that would not stop, reddish or pinkish urine, unexpected bruising (since you might have less platelets than normal which is common).
--  If you experience sudden breathlessness, intense chest pain or cough with bloody sputum (uncommon) (may indicate a blood clot in the blood vessels of the lungs).
+- If you start feeling chest pain (common) or having a fast heart rate (uncommon).
+- If you have pain, redness, swelling or sores in your mouth (very common).
+- Allergic reaction: if you develop skin rash (very common) / burning or prickling sensation (common), or fever (common). Rarely, skin reactions may be severe and could lead to death. Contact your doctor if you get a severe rash, or itching, or blistering (Stevens-Johnson syndrome or toxic epidermal necrolysis).
+- If you experience tiredness, feeling faint, becoming easily breathless or if you look pale (since you might have less haemoglobin than normal which is very common).
+- If you experience bleeding from the gums, nose or mouth or any bleeding that would not stop, reddish or pinkish urine, unexpected bruising (since you might have less platelets than normal which is common).
+- If you experience sudden breathlessness, intense chest pain or cough with bloody sputum (uncommon) (may indicate a blood clot in the blood vessels of the lungs).
 
 ## Side effects with pemetrexed may include:
 
-| Very common (may affect more than 1 in 10 people)                                                                                            |
-|----------------------------------------------------------------------------------------------------------------------------------------------|
-| Infection                                                                                                                                    |
-| Pharyngitis (a sore throat)                                                                                                                  |
-| Low number of neutrophil granulocytes (a type of white blood cell)                                                                           |
-| Low white blood cells                                                                                                                        |
-| Low haemoglobin level                                                                                                                        |
-| Pain, redness, swelling or sores in your mouth                                                                                               |
-| Loss of appetite                                                                                                                             |
-| Vomiting                                                                                                                                     |
-| Diarrhoea                                                                                                                                    |
-| Nausea                                                                                                                                       |
-| Skin rash                                                                                                                                    |
-| Flaking skin                                                                                                                                 |
-| Abnormal blood tests showing reduced functionality of kidneys                                                                                |
-| Fatigue (tiredness)                                                                                                                          |
-| Common (may affect up to 1 in 10 people)                                                                                                     |
-| Blood infection                                                                                                                              |
-| Fever with low number of neutrophil granulocytes (a type of white blood cell)                                                                |
-| Low platelet count                                                                                                                           |
-| Allergic reaction                                                                                                                            |
-| Loss of body fluids                                                                                                                          |
-| Taste change                                                                                                                                 |
-| Damage to the motor nerves which may cause muscle weakness and atrophy (wasting) primary in the arms and legs                                |
-| Damage to the sensory nerves that may cause loss of sensation, burning pain and unsteady gait Dizziness                                      |
-| Inflammation or swelling of the conjunctiva (the membrane that lines the eyelids and covers the white the eye)                               |
-| of                                                                                                                                           |
-| Dry eye                                                                                                                                      |
-| Watery eyes                                                                                                                                  |
-| cornea (the clear layer in front of the iris and pupil). Swelling of the eyelids Eye disorder with dryness, tearing, irritation, and/or pain |
-| Cardiac Failure (Condition that affects the pumping power of your heart muscles)                                                             |
-| Irregular heart rhythm                                                                                                                       |
-| Indigestion                                                                                                                                  |
-| Constipation                                                                                                                                 |
+| Very common (may affect more than 1 in 10 people)                                                                                                                                     |
+|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Infection                                                                                                                                                                             |
+| Pharyngitis (a sore throat)                                                                                                                                                           |
+| Low number of neutrophil granulocytes (a type of white blood cell)                                                                                                                    |
+| Low white blood cells                                                                                                                                                                 |
+| Low haemoglobin level                                                                                                                                                                 |
+| Pain, redness, swelling or sores in your mouth                                                                                                                                        |
+| Loss of appetite                                                                                                                                                                      |
+| Vomiting                                                                                                                                                                              |
+| Diarrhoea                                                                                                                                                                             |
+| Nausea                                                                                                                                                                                |
+| Skin rash                                                                                                                                                                             |
+| Flaking skin                                                                                                                                                                          |
+| Abnormal blood tests showing reduced functionality of kidneys                                                                                                                         |
+| Fatigue (tiredness)                                                                                                                                                                   |
+| Common (may affect up to 1 in 10 people)                                                                                                                                              |
+| Blood infection                                                                                                                                                                       |
+| Fever with low number of neutrophil granulocytes (a type of white blood cell)                                                                                                         |
+| Low platelet count                                                                                                                                                                    |
+| Allergic reaction                                                                                                                                                                     |
+| Loss of body fluids                                                                                                                                                                   |
+| Taste change                                                                                                                                                                          |
+| Damage to the motor nerves which may cause muscle weakness and atrophy (wasting) primary in the                                                                                       |
+| arms and legs Damage to the sensory nerves that may cause loss of sensation, burning pain and unsteady gait                                                                           |
+| Dizziness Inflammation or swelling of the conjunctiva (the membrane that lines the eyelids and covers the white                                                                       |
+| of the eye)                                                                                                                                                                           |
+| Dry eye                                                                                                                                                                               |
+| Watery eyes                                                                                                                                                                           |
+| Dryness of the conjunctiva (the membrane that lines the eyelids and covers the white of the eye) and cornea (the clear layer in front of the iris and pupil). Swelling of the eyelids |
+| Eye disorder with dryness, tearing, irritation, and/or pain Cardiac Failure (Condition that affects the pumping power of your heart                                                   |
+| muscles)                                                                                                                                                                              |
+| Irregular heart rhythm                                                                                                                                                                |
+| Indigestion                                                                                                                                                                           |
+| Constipation                                                                                                                                                                          |
 
 <div style=\"page-break-after: always\"></div>
 
-Liver: increases in the chemicals in the blood made by the liver Increased skin pigmentation Itchy skin Rash on the body where each mark resembles a bullseye Hair loss Hives Kidney stop working Reduced functionality of kidney Fever Pain Excess fluid in body tissue, causing swelling Chest pain Inflammation and ulceration of the mucous membranes lining the digestive tract
+Liver: increases in the chemicals in the blood made by the liver Increased skin pigmentation Itchy skin Rash on the body where each mark resembles a bullseye Hair loss Hives Kidney stop working Reduced functionality of kidney Fever Pain Excess fluid in body tissue, causing swelling Chest pain
 
-## Uncommon (may affect up to 1 in 100 people)
-
-Reduction in the number of red, white blood cells and platelets Stroke Type of stroke when an artery to the brain is blocked Bleeding inside the skull Angina (Chest pain caused by reduced blood flow to the heart) Heart attack Narrowing or blockage of the coronary arteries Increased heart rhythm Deficient blood distribution to the limbs Blockage in one of the pulmonary arteries in your lungs Inflammation and scarring of the lining of the lungs with breathing problems Passage of bright red blood from the anus Bleeding in the gastrointestinal tract Ruptured bowel Inflammation of the lining of the oesophagus Inflammation of the lining of the large bowel, which may be accompanied by intestinal or rectal bleeding (seen only in combination with cisplatin) Inflammation, edema, erythema, and erosion of the mucosal surface of the esophagus caused by radiation therapy Inflammation of the lung caused by radiation therapy
-
-## Rare (may affect up to 1 in 1,000 people)
-
-Destruction of red blood cells Anaphylactic shock (severe allergic reaction) Inflammatory condition of the liver Redness of the skin Skin rash that develops throughout a previously irradiated area
-
-## Very rare (affect up to 1 of 10 000 people)
-
-Infections of skin and soft tissues Stevens-Johnson syndrome (a type of severe skin and mucous membranes reaction that may be life threatening) Toxic epidermal necrolysis (a type of severe skin reaction that may be life threatening) Autoimmune disorder that results in skin rashes and blistering on the legs, arms, and abdomen Inflammation of the skin characterized by the presence of bullae which are filled with fluid Skin fragility, blisters and erosions and skin scarring Redness, pain and swelling mainly of the lower limbs Inflammation of the skin and fat beneath the skin (pseudocellulitis) Inflammation of the skin (dermatitis) Skin to become inflamed, itchy, red, cracked, and rough Intensely itchy spots
+Inflammation and ulceration of the mucous membranes lining the digestive tract Uncommon (may affect up to 1 in 100 people) Reduction in the number of red, white blood cells and platelets Stroke Type of stroke when an artery to the brain is blocked Bleeding inside the skull Angina (Chest pain caused by reduced blood flow to the heart) Heart attack Narrowing or blockage of the coronary arteries Increased heart rhythm Deficient blood distribution to the limbs Blockage in one of the pulmonary arteries in your lungs Inflammation and scarring of the lining of the lungs with breathing problems Passage of bright red blood from the anus Bleeding in the gastrointestinal tract Ruptured bowel Inflammation of the lining of the oesophagus Inflammation of the lining of the large bowel, which may be accompanied by intestinal or rectal bleeding (seen only in combination with cisplatin) Inflammation, edema, erythema, and erosion of the mucosal surface of the esophagus caused by radiation therapy Inflammation of the lung caused by radiation therapy Rare (may affect up to 1 in 1,000 people) Destruction of red blood cells Anaphylactic shock (severe allergic reaction) Inflammatory condition of the liver Redness of the skin Skin rash that develops throughout a previously irradiated area Very rare (affect up to 1 of 10 000 people) Infections of skin and soft tissues Stevens-Johnson syndrome (a type of severe skin and mucous membranes reaction that may be life threatening) Toxic epidermal necrolysis (a type of severe skin reaction that may be life threatening) Autoimmune disorder that results in skin rashes and blistering on the legs, arms, and abdomen Inflammation of the skin characterized by the presence of bullae which are filled with fluid Skin fragility, blisters and erosions and skin scarring Redness, pain and swelling mainly of the lower limbs Inflammation of the skin and fat beneath the skin (pseudocellulitis) Inflammation of the skin (dermatitis) Skin to become inflamed, itchy, red, cracked, and rough Intensely itchy spots
 
 <div style=\"page-break-after: always\"></div>
 
-## Not known (frequency cannot be estimated from the available data)
-
-Form of diabetes primarily due to pathology of the kidney
-
-Disorder of the kidneys involving the death of tubular epithelial cells that form the renal tubules
+Not known (frequency cannot be estimated from the available data) Form of diabetes primarily due to pathology of the kidney Disorder of the kidneys involving the death of tubular epithelial cells that form the renal tubules
 
 You might have any of these symptoms and/or conditions. You must tell your doctor as soon as possible when you start experiencing any of these side effects.
 
@@ -2367,7 +2292,7 @@ One vial of 20 ml concentrate contains pemetrexed disodium equivalent to 500 mg 
 
 One vial of 40 ml concentrate contains pemetrexed disodium equivalent to 1,000 mg of pemetrexed.
 
-The other ingredients are monothioglycerol, sodium hydroxide (for pH adjustment) and water for injections. Refer to section 2 'Pemetrexed Pfizer contains sodium'.
+The other ingredients are monothioglycerol, sodium hydroxide (for pH adjustment) and water for injections . Refer to section 2 'Pemetrexed Pfizer contains sodium'.
 
 <div style=\"page-break-after: always\"></div>
 
@@ -2447,9 +2372,9 @@ Tel: + 36 1 488 37 00
 
 ## MT
 
-Drugsales Ltd
+Vivian Corporation Ltd.
 
-Tel.: + 356 21 419 070/1/2
+Tel: + 356 2134 4610
 
 ## NL
 
@@ -2469,17 +2394,13 @@ Pfizer Corporation Austria Ges.m.b.H.
 
 Tel: +43 (0)1 521 15-0
 
+<div style=\"page-break-after: always\"></div>
+
 ## ES
 
 Pfizer, S.L.
 
 Tel: +34 91 490 99 00
-
-## PL
-
-Pfizer Polska Sp. z o.o.
-
-Tel: +48 22 335 61 00
 
 ## FR
 
@@ -2487,33 +2408,15 @@ Pfizer
 
 Tél: + 33 (0)1 58 07 34 40
 
-## PT
-
-Laboratórios Pfizer, Lda.
-
-Tel: + 351 21 423 55 00
-
 ## HR
 
 Pfizer Croatia d.o.o.
 
 Tel: +385 1 3908 777
 
-## RO
-
-Pfizer România S.R.L.
-
-Tel: +40 (0)21 207 28 00
-
 ## IE
 
 Pfizer Healthcare Ireland Unlimited Company Tel: 1800 633 363 (toll free) +44 (0) 1304 616161
-
-## SI
-
-Pfizer Luxembourg SARL
-
-Pfizer, podružnica za svetovanje s področja farmacevtske dejavnosti, Ljubljana Tel: +386 (0)1 52 11 400
 
 ## IS
 
@@ -2521,23 +2424,11 @@ Icepharma hf.
 
 Sími: +354 540 8000
 
-## SK
-
-Pfizer Luxembourg SARL, organizačná zložka
-
-Tel: +421-2-3355 5500
-
 ## IT
 
 Pfizer S.r.l.
 
 Tel: +39 06 33 18 21
-
-## FI
-
-Pfizer Oy
-
-Puh/Tel: +358 (0)9 430 040
 
 ## CY
 
@@ -2545,19 +2436,11 @@ Pfizer Ελλάς Α.Ε. (Cyprus Branch)
 
 Τηλ.: +357 22817690
 
-## SE
-
-Pfizer AB
-
-Tel: +46 (0)8 550 520 00
-
 ## LV
 
 Pfizer Luxembourg SARL filiāle Latvijā
 
 Tel.: + 371 670 35 775
-
-<div style=\"page-break-after: always\"></div>
 
 ## This leaflet was last revised in month YYYY .
 
@@ -2574,6 +2457,46 @@ This leaflet is available in all EU/EEA languages on the European Medicines Agen
 1. Use aseptic technique during dilution of pemetrexed for intravenous infusion administration.
 2. Calculate the dose and the number of Pemetrexed Pfizer vials needed. Each vial contains an excess of pemetrexed to facilitate delivery of label amount.
 3. The appropriate volume of pemetrexed solution must be further diluted to 100 ml with sodium chloride 9 mg/ml (0.9%) solution for injection, without preservative, and administered as an intravenous infusion over 10 minutes.
+
+## PL
+
+Pfizer Polska Sp. z o.o.
+
+Tel: +48 22 335 61 00
+
+## PT
+
+Laboratórios Pfizer, Lda.
+
+Tel: + 351 21 423 55 00
+
+## RO
+
+Pfizer România S.R.L.
+
+Tel: +40 (0)21 207 28 00
+
+## SI
+
+Pfizer Luxembourg SARL Pfizer, podružnica za svetovanje s področja farmacevtske dejavnosti, Ljubljana Tel: +386 (0)1 52 11 400
+
+## SK
+
+Pfizer Luxembourg SARL, organizačná zložka
+
+Tel: +421 - 2 - 3355 5500
+
+## FI
+
+Pfizer Oy
+
+Puh/Tel: +358 (0)9 430 040
+
+## SE
+
+Pfizer AB
+
+Tel: +46 (0)8 550 520 00
 
 <div style=\"page-break-after: always\"></div>
 

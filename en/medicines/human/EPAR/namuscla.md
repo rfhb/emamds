@@ -1,18 +1,18 @@
 ---
-document_datetime: 2025-12-29 14:20:24
+document_datetime: 2026-01-16 17:00:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/namuscla.html
 document_name: namuscla.html
 version: success
-processing_time: 0.106468
-conversion_datetime: 2025-12-30 07:57:51.447208
+processing_time: 0.1164239
+conversion_datetime: 2026-01-17 13:22:18.460997
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.66.0
-  docling-core: 2.57.0
+  docling-serve: 1.10.0
+  docling-jobkit: 1.8.1
+  docling: 2.68.0
+  docling-core: 2.59.0
   docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-parse: 4.7.3
   python: cpython-313 (3.13.11)
   plaform: macOS-26.2-arm64-arm-64bit-Mach-O
 ---
@@ -25,8 +25,6 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 mexiletine hcl Medicine Human Authorised
-
-On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -111,7 +109,7 @@ English (EN) (107.83 KB - PDF)
 
 [View](/en/documents/overview/namuscla-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-71)
+[Other languages (22)](#file-language-dropdown-208)
 
 български (BG) (129.7 KB - PDF)
 
@@ -303,17 +301,17 @@ English (EN) (119.17 KB - PDF)
 
 Namuscla : EPAR - Product information
 
-English (EN) (334.66 KB - PDF)
+English (EN) (169.58 KB - PDF)
 
 **First published:** 01/02/2019
 
-**Last updated:** 19/03/2025
+**Last updated:** 16/01/2026
 
 [View](/en/documents/product-information/namuscla-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-804)
+[Other languages (24)](#file-language-dropdown-983)
 
-български (BG) (473.77 KB - PDF)
+български (BG) (398.17 KB - PDF)
 
 **First published:**
 
@@ -321,11 +319,11 @@ English (EN) (334.66 KB - PDF)
 
 **Last updated:**
 
-19/03/2025
+16/01/2026
 
 [View](/bg/documents/product-information/namuscla-epar-product-information_bg.pdf)
 
-español (ES) (417.9 KB - PDF)
+español (ES) (377.29 KB - PDF)
 
 **First published:**
 
@@ -333,11 +331,11 @@ español (ES) (417.9 KB - PDF)
 
 **Last updated:**
 
-19/03/2025
+16/01/2026
 
 [View](/es/documents/product-information/namuscla-epar-product-information_es.pdf)
 
-čeština (CS) (494.77 KB - PDF)
+čeština (CS) (413.86 KB - PDF)
 
 **First published:**
 
@@ -345,11 +343,11 @@ español (ES) (417.9 KB - PDF)
 
 **Last updated:**
 
-19/03/2025
+16/01/2026
 
 [View](/cs/documents/product-information/namuscla-epar-product-information_cs.pdf)
 
-dansk (DA) (383.47 KB - PDF)
+dansk (DA) (175.12 KB - PDF)
 
 **First published:**
 
@@ -357,11 +355,11 @@ dansk (DA) (383.47 KB - PDF)
 
 **Last updated:**
 
-19/03/2025
+16/01/2026
 
 [View](/da/documents/product-information/namuscla-epar-product-information_da.pdf)
 
-Deutsch (DE) (453.76 KB - PDF)
+Deutsch (DE) (409.52 KB - PDF)
 
 **First published:**
 
@@ -369,11 +367,11 @@ Deutsch (DE) (453.76 KB - PDF)
 
 **Last updated:**
 
-19/03/2025
+16/01/2026
 
 [View](/de/documents/product-information/namuscla-epar-product-information_de.pdf)
 
-eesti keel (ET) (411.98 KB - PDF)
+eesti keel (ET) (349.94 KB - PDF)
 
 **First published:**
 
@@ -381,11 +379,11 @@ eesti keel (ET) (411.98 KB - PDF)
 
 **Last updated:**
 
-19/03/2025
+16/01/2026
 
 [View](/et/documents/product-information/namuscla-epar-product-information_et.pdf)
 
-ελληνικά (EL) (473.49 KB - PDF)
+ελληνικά (EL) (336.81 KB - PDF)
 
 **First published:**
 
@@ -393,11 +391,11 @@ eesti keel (ET) (411.98 KB - PDF)
 
 **Last updated:**
 
-19/03/2025
+16/01/2026
 
 [View](/el/documents/product-information/namuscla-epar-product-information_el.pdf)
 
-français (FR) (533.61 KB - PDF)
+français (FR) (284.25 KB - PDF)
 
 **First published:**
 
@@ -405,11 +403,11 @@ français (FR) (533.61 KB - PDF)
 
 **Last updated:**
 
-19/03/2025
+16/01/2026
 
 [View](/fr/documents/product-information/namuscla-epar-product-information_fr.pdf)
 
-hrvatski (HR) (496.21 KB - PDF)
+hrvatski (HR) (417.65 KB - PDF)
 
 **First published:**
 
@@ -417,11 +415,11 @@ hrvatski (HR) (496.21 KB - PDF)
 
 **Last updated:**
 
-19/03/2025
+16/01/2026
 
 [View](/hr/documents/product-information/namuscla-epar-product-information_hr.pdf)
 
-íslenska (IS) (325.5 KB - PDF)
+íslenska (IS) (280 KB - PDF)
 
 **First published:**
 
@@ -429,11 +427,11 @@ hrvatski (HR) (496.21 KB - PDF)
 
 **Last updated:**
 
-19/03/2025
+16/01/2026
 
 [View](/is/documents/product-information/namuscla-epar-product-information_is.pdf)
 
-italiano (IT) (392.3 KB - PDF)
+italiano (IT) (185.48 KB - PDF)
 
 **First published:**
 
@@ -441,11 +439,11 @@ italiano (IT) (392.3 KB - PDF)
 
 **Last updated:**
 
-19/03/2025
+16/01/2026
 
 [View](/it/documents/product-information/namuscla-epar-product-information_it.pdf)
 
-latviešu valoda (LV) (487.88 KB - PDF)
+latviešu valoda (LV) (405.86 KB - PDF)
 
 **First published:**
 
@@ -453,11 +451,11 @@ latviešu valoda (LV) (487.88 KB - PDF)
 
 **Last updated:**
 
-19/03/2025
+16/01/2026
 
 [View](/lv/documents/product-information/namuscla-epar-product-information_lv.pdf)
 
-lietuvių kalba (LT) (506.42 KB - PDF)
+lietuvių kalba (LT) (417.59 KB - PDF)
 
 **First published:**
 
@@ -465,11 +463,11 @@ lietuvių kalba (LT) (506.42 KB - PDF)
 
 **Last updated:**
 
-19/03/2025
+16/01/2026
 
 [View](/lt/documents/product-information/namuscla-epar-product-information_lt.pdf)
 
-magyar (HU) (454.84 KB - PDF)
+magyar (HU) (280.71 KB - PDF)
 
 **First published:**
 
@@ -477,11 +475,11 @@ magyar (HU) (454.84 KB - PDF)
 
 **Last updated:**
 
-19/03/2025
+16/01/2026
 
 [View](/hu/documents/product-information/namuscla-epar-product-information_hu.pdf)
 
-Malti (MT) (467.36 KB - PDF)
+Malti (MT) (399.77 KB - PDF)
 
 **First published:**
 
@@ -489,11 +487,11 @@ Malti (MT) (467.36 KB - PDF)
 
 **Last updated:**
 
-19/03/2025
+16/01/2026
 
 [View](/mt/documents/product-information/namuscla-epar-product-information_mt.pdf)
 
-Nederlands (NL) (385.13 KB - PDF)
+Nederlands (NL) (179.68 KB - PDF)
 
 **First published:**
 
@@ -501,11 +499,11 @@ Nederlands (NL) (385.13 KB - PDF)
 
 **Last updated:**
 
-19/03/2025
+16/01/2026
 
 [View](/nl/documents/product-information/namuscla-epar-product-information_nl.pdf)
 
-norsk (NO) (373.91 KB - PDF)
+norsk (NO) (167.85 KB - PDF)
 
 **First published:**
 
@@ -513,11 +511,11 @@ norsk (NO) (373.91 KB - PDF)
 
 **Last updated:**
 
-19/03/2025
+16/01/2026
 
 [View](/no/documents/product-information/namuscla-epar-product-information_no.pdf)
 
-polski (PL) (456.96 KB - PDF)
+polski (PL) (390.75 KB - PDF)
 
 **First published:**
 
@@ -525,11 +523,11 @@ polski (PL) (456.96 KB - PDF)
 
 **Last updated:**
 
-19/03/2025
+16/01/2026
 
 [View](/pl/documents/product-information/namuscla-epar-product-information_pl.pdf)
 
-português (PT) (389.01 KB - PDF)
+português (PT) (179.47 KB - PDF)
 
 **First published:**
 
@@ -537,11 +535,11 @@ português (PT) (389.01 KB - PDF)
 
 **Last updated:**
 
-19/03/2025
+16/01/2026
 
 [View](/pt/documents/product-information/namuscla-epar-product-information_pt.pdf)
 
-română (RO) (447.08 KB - PDF)
+română (RO) (294.03 KB - PDF)
 
 **First published:**
 
@@ -549,11 +547,11 @@ română (RO) (447.08 KB - PDF)
 
 **Last updated:**
 
-19/03/2025
+16/01/2026
 
 [View](/ro/documents/product-information/namuscla-epar-product-information_ro.pdf)
 
-slovenčina (SK) (448.86 KB - PDF)
+slovenčina (SK) (277.44 KB - PDF)
 
 **First published:**
 
@@ -561,11 +559,11 @@ slovenčina (SK) (448.86 KB - PDF)
 
 **Last updated:**
 
-19/03/2025
+16/01/2026
 
 [View](/sk/documents/product-information/namuscla-epar-product-information_sk.pdf)
 
-slovenščina (SL) (489.05 KB - PDF)
+slovenščina (SL) (401.32 KB - PDF)
 
 **First published:**
 
@@ -573,11 +571,11 @@ slovenščina (SL) (489.05 KB - PDF)
 
 **Last updated:**
 
-19/03/2025
+16/01/2026
 
 [View](/sl/documents/product-information/namuscla-epar-product-information_sl.pdf)
 
-Suomi (FI) (362.64 KB - PDF)
+Suomi (FI) (323.47 KB - PDF)
 
 **First published:**
 
@@ -585,11 +583,11 @@ Suomi (FI) (362.64 KB - PDF)
 
 **Last updated:**
 
-19/03/2025
+16/01/2026
 
 [View](/fi/documents/product-information/namuscla-epar-product-information_fi.pdf)
 
-svenska (SV) (376.82 KB - PDF)
+svenska (SV) (330.24 KB - PDF)
 
 **First published:**
 
@@ -597,11 +595,11 @@ svenska (SV) (376.82 KB - PDF)
 
 **Last updated:**
 
-19/03/2025
+16/01/2026
 
 [View](/sv/documents/product-information/namuscla-epar-product-information_sv.pdf)
 
-**Latest procedure affecting product information:** R/0014 09/08/2023
+**Latest procedure affecting product information:** VR/0000295982 27/11/2025
 
 icon globe
 
@@ -625,7 +623,7 @@ English (EN) (13.69 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/namuscla-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-214)
+[Other languages (24)](#file-language-dropdown-870)
 
 български (BG) (36.57 KB - PDF)
 
@@ -845,7 +843,7 @@ Lupin Europe GmbH
 
 Hanauer Landstraße 139-143
 
-Opinion adopted 18/10/2018 Marketing authorisation issued 18/12/2018 Revision 6
+Opinion adopted 18/10/2018 Marketing authorisation issued 18/12/2018 Revision 8
 
 ## Assessment history
 
@@ -857,13 +855,21 @@ Collapse section
 
 Namuscla : EPAR - Procedural steps taken and scientific information after authorisation
 
-English (EN) (161.28 KB - PDF)
+English (EN) (127.41 KB - PDF)
+
+**First published:** 16/01/2026
+
+[View](/en/documents/procedural-steps-after/namuscla-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf)
+
+Namuscla : EPAR - Procedural steps taken and scientific information after authorisation (archive)
+
+English (EN) (151.56 KB - PDF)
 
 **First published:** 30/08/2019
 
-**Last updated:** 19/03/2025
+**Last updated:** 16/01/2026
 
-[View](/en/documents/procedural-steps-after/namuscla-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf)
+[View](/en/documents/procedural-steps-after/namuscla-epar-procedural-steps-taken-scientific-information-after-authorisation-archive_en.pdf)
 
 ## Initial marketing authorisation documents
 
@@ -919,7 +925,7 @@ English (EN) (68.51 KB - PDF)
 
 - [Medicines](https://www.ema.europa.eu/en/search?f%5B0%5D=ema_search_topics%3A61)
 
-**This page was last updated on** 19/03/2025
+**This page was last updated on** 16/01/2026
 
 ## Share this page
 

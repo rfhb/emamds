@@ -1,18 +1,18 @@
 ---
-document_datetime: 2025-12-29 07:00:07
+document_datetime: 2026-01-15 15:05:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/bekemv.html
 document_name: bekemv.html
 version: success
-processing_time: 0.1097963
-conversion_datetime: 2025-12-29 23:14:54.467262
+processing_time: 0.1164752
+conversion_datetime: 2026-01-17 13:43:13.653033
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.66.0
-  docling-core: 2.57.0
+  docling-serve: 1.10.0
+  docling-jobkit: 1.8.1
+  docling: 2.68.0
+  docling-core: 2.59.0
   docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-parse: 4.7.3
   python: cpython-313 (3.13.11)
   plaform: macOS-26.2-arm64-arm-64bit-Mach-O
 ---
@@ -25,8 +25,6 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 eculizumab Medicine Human Authorised
-
-On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -121,7 +119,7 @@ English (EN) (113.32 KB - PDF)
 
 [View](/en/documents/overview/bekemv-epar-medicine-overview_en.pdf)
 
-[Other languages (21)](#file-language-dropdown-566)
+[Other languages (21)](#file-language-dropdown-295)
 
 български (BG) (138.02 KB - PDF)
 
@@ -305,17 +303,17 @@ English (EN) (991.4 KB - PDF)
 
 Bekemv : EPAR - Product Information
 
-English (EN) (563.08 KB - PDF)
+English (EN) (539.26 KB - PDF)
 
 **First published:** 15/05/2023
 
-**Last updated:** 22/10/2025
+**Last updated:** 15/01/2026
 
 [View](/en/documents/product-information/bekemv-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-4)
+[Other languages (24)](#file-language-dropdown-590)
 
-български (BG) (823.79 KB - PDF)
+български (BG) (711.45 KB - PDF)
 
 **First published:**
 
@@ -323,11 +321,11 @@ English (EN) (563.08 KB - PDF)
 
 **Last updated:**
 
-22/10/2025
+15/01/2026
 
 [View](/bg/documents/product-information/bekemv-epar-product-information_bg.pdf)
 
-español (ES) (779.97 KB - PDF)
+español (ES) (649 KB - PDF)
 
 **First published:**
 
@@ -335,11 +333,11 @@ español (ES) (779.97 KB - PDF)
 
 **Last updated:**
 
-22/10/2025
+15/01/2026
 
 [View](/es/documents/product-information/bekemv-epar-product-information_es.pdf)
 
-čeština (CS) (761.71 KB - PDF)
+čeština (CS) (651.89 KB - PDF)
 
 **First published:**
 
@@ -347,11 +345,11 @@ español (ES) (779.97 KB - PDF)
 
 **Last updated:**
 
-22/10/2025
+15/01/2026
 
 [View](/cs/documents/product-information/bekemv-epar-product-information_cs.pdf)
 
-dansk (DA) (790.81 KB - PDF)
+dansk (DA) (673.47 KB - PDF)
 
 **First published:**
 
@@ -359,11 +357,11 @@ dansk (DA) (790.81 KB - PDF)
 
 **Last updated:**
 
-22/10/2025
+15/01/2026
 
 [View](/da/documents/product-information/bekemv-epar-product-information_da.pdf)
 
-Deutsch (DE) (823.99 KB - PDF)
+Deutsch (DE) (705.4 KB - PDF)
 
 **First published:**
 
@@ -371,11 +369,11 @@ Deutsch (DE) (823.99 KB - PDF)
 
 **Last updated:**
 
-22/10/2025
+15/01/2026
 
 [View](/de/documents/product-information/bekemv-epar-product-information_de.pdf)
 
-eesti keel (ET) (751.5 KB - PDF)
+eesti keel (ET) (634.05 KB - PDF)
 
 **First published:**
 
@@ -383,11 +381,11 @@ eesti keel (ET) (751.5 KB - PDF)
 
 **Last updated:**
 
-22/10/2025
+15/01/2026
 
 [View](/et/documents/product-information/bekemv-epar-product-information_et.pdf)
 
-ελληνικά (EL) (813.54 KB - PDF)
+ελληνικά (EL) (722.5 KB - PDF)
 
 **First published:**
 
@@ -395,11 +393,11 @@ eesti keel (ET) (751.5 KB - PDF)
 
 **Last updated:**
 
-22/10/2025
+15/01/2026
 
 [View](/el/documents/product-information/bekemv-epar-product-information_el.pdf)
 
-français (FR) (831.36 KB - PDF)
+français (FR) (684.61 KB - PDF)
 
 **First published:**
 
@@ -407,11 +405,11 @@ français (FR) (831.36 KB - PDF)
 
 **Last updated:**
 
-22/10/2025
+15/01/2026
 
 [View](/fr/documents/product-information/bekemv-epar-product-information_fr.pdf)
 
-hrvatski (HR) (761.37 KB - PDF)
+hrvatski (HR) (667.17 KB - PDF)
 
 **First published:**
 
@@ -419,11 +417,11 @@ hrvatski (HR) (761.37 KB - PDF)
 
 **Last updated:**
 
-22/10/2025
+15/01/2026
 
 [View](/hr/documents/product-information/bekemv-epar-product-information_hr.pdf)
 
-íslenska (IS) (689.6 KB - PDF)
+íslenska (IS) (580.95 KB - PDF)
 
 **First published:**
 
@@ -431,11 +429,11 @@ hrvatski (HR) (761.37 KB - PDF)
 
 **Last updated:**
 
-22/10/2025
+15/01/2026
 
 [View](/is/documents/product-information/bekemv-epar-product-information_is.pdf)
 
-italiano (IT) (747.21 KB - PDF)
+italiano (IT) (628.03 KB - PDF)
 
 **First published:**
 
@@ -443,11 +441,11 @@ italiano (IT) (747.21 KB - PDF)
 
 **Last updated:**
 
-22/10/2025
+15/01/2026
 
 [View](/it/documents/product-information/bekemv-epar-product-information_it.pdf)
 
-latviešu valoda (LV) (800.63 KB - PDF)
+latviešu valoda (LV) (691.17 KB - PDF)
 
 **First published:**
 
@@ -455,11 +453,11 @@ latviešu valoda (LV) (800.63 KB - PDF)
 
 **Last updated:**
 
-22/10/2025
+15/01/2026
 
 [View](/lv/documents/product-information/bekemv-epar-product-information_lv.pdf)
 
-lietuvių kalba (LT) (781.37 KB - PDF)
+lietuvių kalba (LT) (679.28 KB - PDF)
 
 **First published:**
 
@@ -467,11 +465,11 @@ lietuvių kalba (LT) (781.37 KB - PDF)
 
 **Last updated:**
 
-22/10/2025
+15/01/2026
 
 [View](/lt/documents/product-information/bekemv-epar-product-information_lt.pdf)
 
-magyar (HU) (773.33 KB - PDF)
+magyar (HU) (664.6 KB - PDF)
 
 **First published:**
 
@@ -479,11 +477,11 @@ magyar (HU) (773.33 KB - PDF)
 
 **Last updated:**
 
-22/10/2025
+15/01/2026
 
 [View](/hu/documents/product-information/bekemv-epar-product-information_hu.pdf)
 
-Malti (MT) (912.59 KB - PDF)
+Malti (MT) (766.82 KB - PDF)
 
 **First published:**
 
@@ -491,11 +489,11 @@ Malti (MT) (912.59 KB - PDF)
 
 **Last updated:**
 
-22/10/2025
+15/01/2026
 
 [View](/mt/documents/product-information/bekemv-epar-product-information_mt.pdf)
 
-Nederlands (NL) (734.7 KB - PDF)
+Nederlands (NL) (635.61 KB - PDF)
 
 **First published:**
 
@@ -503,11 +501,11 @@ Nederlands (NL) (734.7 KB - PDF)
 
 **Last updated:**
 
-22/10/2025
+15/01/2026
 
 [View](/nl/documents/product-information/bekemv-epar-product-information_nl.pdf)
 
-norsk (NO) (761.24 KB - PDF)
+norsk (NO) (639.57 KB - PDF)
 
 **First published:**
 
@@ -515,11 +513,11 @@ norsk (NO) (761.24 KB - PDF)
 
 **Last updated:**
 
-22/10/2025
+15/01/2026
 
 [View](/no/documents/product-information/bekemv-epar-product-information_no.pdf)
 
-polski (PL) (792.72 KB - PDF)
+polski (PL) (686.58 KB - PDF)
 
 **First published:**
 
@@ -527,11 +525,11 @@ polski (PL) (792.72 KB - PDF)
 
 **Last updated:**
 
-22/10/2025
+15/01/2026
 
 [View](/pl/documents/product-information/bekemv-epar-product-information_pl.pdf)
 
-português (PT) (933.37 KB - PDF)
+português (PT) (707.92 KB - PDF)
 
 **First published:**
 
@@ -539,11 +537,11 @@ português (PT) (933.37 KB - PDF)
 
 **Last updated:**
 
-22/10/2025
+15/01/2026
 
 [View](/pt/documents/product-information/bekemv-epar-product-information_pt.pdf)
 
-română (RO) (796.16 KB - PDF)
+română (RO) (675.74 KB - PDF)
 
 **First published:**
 
@@ -551,11 +549,11 @@ română (RO) (796.16 KB - PDF)
 
 **Last updated:**
 
-22/10/2025
+15/01/2026
 
 [View](/ro/documents/product-information/bekemv-epar-product-information_ro.pdf)
 
-slovenčina (SK) (886.84 KB - PDF)
+slovenčina (SK) (734.14 KB - PDF)
 
 **First published:**
 
@@ -563,11 +561,11 @@ slovenčina (SK) (886.84 KB - PDF)
 
 **Last updated:**
 
-22/10/2025
+15/01/2026
 
 [View](/sk/documents/product-information/bekemv-epar-product-information_sk.pdf)
 
-slovenščina (SL) (703.55 KB - PDF)
+slovenščina (SL) (594.56 KB - PDF)
 
 **First published:**
 
@@ -575,11 +573,11 @@ slovenščina (SL) (703.55 KB - PDF)
 
 **Last updated:**
 
-22/10/2025
+15/01/2026
 
 [View](/sl/documents/product-information/bekemv-epar-product-information_sl.pdf)
 
-Suomi (FI) (762.89 KB - PDF)
+Suomi (FI) (642.91 KB - PDF)
 
 **First published:**
 
@@ -587,11 +585,11 @@ Suomi (FI) (762.89 KB - PDF)
 
 **Last updated:**
 
-22/10/2025
+15/01/2026
 
 [View](/fi/documents/product-information/bekemv-epar-product-information_fi.pdf)
 
-svenska (SV) (829.42 KB - PDF)
+svenska (SV) (658.5 KB - PDF)
 
 **First published:**
 
@@ -599,11 +597,11 @@ svenska (SV) (829.42 KB - PDF)
 
 **Last updated:**
 
-22/10/2025
+15/01/2026
 
 [View](/sv/documents/product-information/bekemv-epar-product-information_sv.pdf)
 
-**Latest procedure affecting product information:** VR/0000294785 22/10/2025
+**Latest procedure affecting product information:** VR/0000322712 15/01/2026
 
 icon globe
 
@@ -627,7 +625,7 @@ English (EN) (39.76 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/bekemv-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-748)
+[Other languages (24)](#file-language-dropdown-508)
 
 български (BG) (50.39 KB - PDF)
 
@@ -847,7 +845,7 @@ Amgen Technology (Ireland) UC
 
 Pottery Road
 
-Opinion adopted 23/02/2023 Marketing authorisation issued 19/04/2023 Revision 5
+Opinion adopted 23/02/2023 Marketing authorisation issued 19/04/2023 Revision 6
 
 ## Assessment history
 
@@ -859,11 +857,11 @@ Collapse section
 
 Bekemv : EPAR - Procedural steps taken and scientific information after authorisation
 
-English (EN) (153.08 KB - PDF)
+English (EN) (156.18 KB - PDF)
 
 **First published:** 02/05/2025
 
-**Last updated:** 22/10/2025
+**Last updated:** 15/01/2026
 
 [View](/en/documents/procedural-steps-after/bekemv-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf)
 
@@ -907,7 +905,7 @@ English (EN) (142.5 KB - PDF)
 
 [Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 20 - 23 February 2023](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-20-23-february-2023) 24/02/2023
 
-**This page was last updated on** 22/10/2025
+**This page was last updated on** 15/01/2026
 
 ## Share this page
 

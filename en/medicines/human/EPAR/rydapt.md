@@ -1,18 +1,18 @@
 ---
-document_datetime: 2025-12-29 11:41:42
+document_datetime: 2026-01-14 14:25:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/rydapt.html
 document_name: rydapt.html
 version: success
-processing_time: 0.106957
-conversion_datetime: 2025-12-30 11:47:53.540516
+processing_time: 0.1237373
+conversion_datetime: 2026-01-17 23:17:57.808026
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.66.0
-  docling-core: 2.57.0
+  docling-serve: 1.10.0
+  docling-jobkit: 1.8.1
+  docling: 2.68.0
+  docling-core: 2.59.0
   docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-parse: 4.7.3
   python: cpython-313 (3.13.11)
   plaform: macOS-26.2-arm64-arm-64bit-Mach-O
 ---
@@ -25,8 +25,6 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 midostaurin Medicine Human Authorised
-
-On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -119,7 +117,7 @@ English (EN) (78.59 KB - PDF)
 
 [View](/en/documents/overview/rydapt-epar-summary-public_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-119)
+[Other languages (22)](#file-language-dropdown-904)
 
 български (BG) (107.06 KB - PDF)
 
@@ -399,17 +397,17 @@ English (EN) (65.48 KB - PDF)
 
 Rydapt : EPAR - Product Information
 
-English (EN) (578.66 KB - PDF)
+English (EN) (579.12 KB - PDF)
 
 **First published:** 25/10/2017
 
-**Last updated:** 12/12/2024
+**Last updated:** 14/01/2026
 
 [View](/en/documents/product-information/rydapt-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-484)
+[Other languages (24)](#file-language-dropdown-953)
 
-български (BG) (690.98 KB - PDF)
+български (BG) (689.83 KB - PDF)
 
 **First published:**
 
@@ -417,11 +415,11 @@ English (EN) (578.66 KB - PDF)
 
 **Last updated:**
 
-12/12/2024
+14/01/2026
 
 [View](/bg/documents/product-information/rydapt-epar-product-information_bg.pdf)
 
-español (ES) (631.89 KB - PDF)
+español (ES) (627.24 KB - PDF)
 
 **First published:**
 
@@ -429,11 +427,11 @@ español (ES) (631.89 KB - PDF)
 
 **Last updated:**
 
-12/12/2024
+14/01/2026
 
 [View](/es/documents/product-information/rydapt-epar-product-information_es.pdf)
 
-čeština (CS) (682.84 KB - PDF)
+čeština (CS) (675.24 KB - PDF)
 
 **First published:**
 
@@ -441,11 +439,11 @@ español (ES) (631.89 KB - PDF)
 
 **Last updated:**
 
-12/12/2024
+14/01/2026
 
 [View](/cs/documents/product-information/rydapt-epar-product-information_cs.pdf)
 
-dansk (DA) (599.39 KB - PDF)
+dansk (DA) (596.36 KB - PDF)
 
 **First published:**
 
@@ -453,11 +451,11 @@ dansk (DA) (599.39 KB - PDF)
 
 **Last updated:**
 
-12/12/2024
+14/01/2026
 
 [View](/da/documents/product-information/rydapt-epar-product-information_da.pdf)
 
-Deutsch (DE) (605.25 KB - PDF)
+Deutsch (DE) (623.16 KB - PDF)
 
 **First published:**
 
@@ -465,11 +463,11 @@ Deutsch (DE) (605.25 KB - PDF)
 
 **Last updated:**
 
-12/12/2024
+14/01/2026
 
 [View](/de/documents/product-information/rydapt-epar-product-information_de.pdf)
 
-eesti keel (ET) (586.55 KB - PDF)
+eesti keel (ET) (585.05 KB - PDF)
 
 **First published:**
 
@@ -477,11 +475,11 @@ eesti keel (ET) (586.55 KB - PDF)
 
 **Last updated:**
 
-12/12/2024
+14/01/2026
 
 [View](/et/documents/product-information/rydapt-epar-product-information_et.pdf)
 
-ελληνικά (EL) (689.81 KB - PDF)
+ελληνικά (EL) (687.96 KB - PDF)
 
 **First published:**
 
@@ -489,11 +487,11 @@ eesti keel (ET) (586.55 KB - PDF)
 
 **Last updated:**
 
-12/12/2024
+14/01/2026
 
 [View](/el/documents/product-information/rydapt-epar-product-information_el.pdf)
 
-français (FR) (640.58 KB - PDF)
+français (FR) (664.56 KB - PDF)
 
 **First published:**
 
@@ -501,11 +499,11 @@ français (FR) (640.58 KB - PDF)
 
 **Last updated:**
 
-12/12/2024
+14/01/2026
 
 [View](/fr/documents/product-information/rydapt-epar-product-information_fr.pdf)
 
-hrvatski (HR) (683.49 KB - PDF)
+hrvatski (HR) (682.31 KB - PDF)
 
 **First published:**
 
@@ -513,11 +511,11 @@ hrvatski (HR) (683.49 KB - PDF)
 
 **Last updated:**
 
-12/12/2024
+14/01/2026
 
 [View](/hr/documents/product-information/rydapt-epar-product-information_hr.pdf)
 
-íslenska (IS) (583.48 KB - PDF)
+íslenska (IS) (582.09 KB - PDF)
 
 **First published:**
 
@@ -525,11 +523,11 @@ hrvatski (HR) (683.49 KB - PDF)
 
 **Last updated:**
 
-12/12/2024
+14/01/2026
 
 [View](/is/documents/product-information/rydapt-epar-product-information_is.pdf)
 
-italiano (IT) (612.39 KB - PDF)
+italiano (IT) (608.43 KB - PDF)
 
 **First published:**
 
@@ -537,11 +535,11 @@ italiano (IT) (612.39 KB - PDF)
 
 **Last updated:**
 
-12/12/2024
+14/01/2026
 
 [View](/it/documents/product-information/rydapt-epar-product-information_it.pdf)
 
-latviešu valoda (LV) (669.17 KB - PDF)
+latviešu valoda (LV) (670.36 KB - PDF)
 
 **First published:**
 
@@ -549,11 +547,11 @@ latviešu valoda (LV) (669.17 KB - PDF)
 
 **Last updated:**
 
-12/12/2024
+14/01/2026
 
 [View](/lv/documents/product-information/rydapt-epar-product-information_lv.pdf)
 
-lietuvių kalba (LT) (674.85 KB - PDF)
+lietuvių kalba (LT) (673.74 KB - PDF)
 
 **First published:**
 
@@ -561,11 +559,11 @@ lietuvių kalba (LT) (674.85 KB - PDF)
 
 **Last updated:**
 
-12/12/2024
+14/01/2026
 
 [View](/lt/documents/product-information/rydapt-epar-product-information_lt.pdf)
 
-magyar (HU) (684.84 KB - PDF)
+magyar (HU) (684.17 KB - PDF)
 
 **First published:**
 
@@ -573,11 +571,11 @@ magyar (HU) (684.84 KB - PDF)
 
 **Last updated:**
 
-12/12/2024
+14/01/2026
 
 [View](/hu/documents/product-information/rydapt-epar-product-information_hu.pdf)
 
-Malti (MT) (711.21 KB - PDF)
+Malti (MT) (710.08 KB - PDF)
 
 **First published:**
 
@@ -585,11 +583,11 @@ Malti (MT) (711.21 KB - PDF)
 
 **Last updated:**
 
-12/12/2024
+14/01/2026
 
 [View](/mt/documents/product-information/rydapt-epar-product-information_mt.pdf)
 
-Nederlands (NL) (686.91 KB - PDF)
+Nederlands (NL) (707.56 KB - PDF)
 
 **First published:**
 
@@ -597,11 +595,11 @@ Nederlands (NL) (686.91 KB - PDF)
 
 **Last updated:**
 
-12/12/2024
+14/01/2026
 
 [View](/nl/documents/product-information/rydapt-epar-product-information_nl.pdf)
 
-norsk (NO) (583.53 KB - PDF)
+norsk (NO) (603.99 KB - PDF)
 
 **First published:**
 
@@ -609,11 +607,11 @@ norsk (NO) (583.53 KB - PDF)
 
 **Last updated:**
 
-12/12/2024
+14/01/2026
 
 [View](/no/documents/product-information/rydapt-epar-product-information_no.pdf)
 
-polski (PL) (691.01 KB - PDF)
+polski (PL) (688.65 KB - PDF)
 
 **First published:**
 
@@ -621,11 +619,11 @@ polski (PL) (691.01 KB - PDF)
 
 **Last updated:**
 
-12/12/2024
+14/01/2026
 
 [View](/pl/documents/product-information/rydapt-epar-product-information_pl.pdf)
 
-português (PT) (624.31 KB - PDF)
+português (PT) (621.2 KB - PDF)
 
 **First published:**
 
@@ -633,11 +631,11 @@ português (PT) (624.31 KB - PDF)
 
 **Last updated:**
 
-12/12/2024
+14/01/2026
 
 [View](/pt/documents/product-information/rydapt-epar-product-information_pt.pdf)
 
-română (RO) (706.12 KB - PDF)
+română (RO) (700.68 KB - PDF)
 
 **First published:**
 
@@ -645,11 +643,11 @@ română (RO) (706.12 KB - PDF)
 
 **Last updated:**
 
-12/12/2024
+14/01/2026
 
 [View](/ro/documents/product-information/rydapt-epar-product-information_ro.pdf)
 
-slovenčina (SK) (692.05 KB - PDF)
+slovenčina (SK) (687.85 KB - PDF)
 
 **First published:**
 
@@ -657,11 +655,11 @@ slovenčina (SK) (692.05 KB - PDF)
 
 **Last updated:**
 
-12/12/2024
+14/01/2026
 
 [View](/sk/documents/product-information/rydapt-epar-product-information_sk.pdf)
 
-slovenščina (SL) (679.94 KB - PDF)
+slovenščina (SL) (678.08 KB - PDF)
 
 **First published:**
 
@@ -669,11 +667,11 @@ slovenščina (SL) (679.94 KB - PDF)
 
 **Last updated:**
 
-12/12/2024
+14/01/2026
 
 [View](/sl/documents/product-information/rydapt-epar-product-information_sl.pdf)
 
-Suomi (FI) (608.75 KB - PDF)
+Suomi (FI) (608.08 KB - PDF)
 
 **First published:**
 
@@ -681,11 +679,11 @@ Suomi (FI) (608.75 KB - PDF)
 
 **Last updated:**
 
-12/12/2024
+14/01/2026
 
 [View](/fi/documents/product-information/rydapt-epar-product-information_fi.pdf)
 
-svenska (SV) (578.46 KB - PDF)
+svenska (SV) (578.03 KB - PDF)
 
 **First published:**
 
@@ -693,11 +691,11 @@ svenska (SV) (578.46 KB - PDF)
 
 **Last updated:**
 
-12/12/2024
+14/01/2026
 
 [View](/sv/documents/product-information/rydapt-epar-product-information_sv.pdf)
 
-**Latest procedure affecting product information:** IAIN/0036/G 11/12/2024
+**Latest procedure affecting product information:** VR/0000320179 13/01/2026
 
 icon globe
 
@@ -723,7 +721,7 @@ English (EN) (41.51 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/rydapt-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-626)
+[Other languages (24)](#file-language-dropdown-888)
 
 български (BG) (47.76 KB - PDF)
 
@@ -1047,7 +1045,7 @@ Novartis Europharm Ltd
 
 Frimley Business Park
 
-Opinion adopted 22/06/2017 Marketing authorisation issued 18/09/2017 Revision 13
+Opinion adopted 22/06/2017 Marketing authorisation issued 18/09/2017 Revision 14
 
 ## Assessment history
 
@@ -1059,13 +1057,21 @@ Collapse section
 
 Rydapt : EPAR - Procedural steps taken and scientific information after authorisation
 
+English (EN) (117.32 KB - PDF)
+
+**First published:** 14/01/2026
+
+[View](/en/documents/procedural-steps-after/rydapt-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf)
+
+Rydapt : EPAR - Procedural steps taken and scientific information after authorisation (archive)
+
 English (EN) (174.12 KB - PDF)
 
 **First published:** 02/02/2018
 
-**Last updated:** 12/12/2024
+**Last updated:** 14/01/2026
 
-[View](/en/documents/procedural-steps-after/rydapt-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf)
+[View](/en/documents/procedural-steps-after/rydapt-epar-procedural-steps-taken-scientific-information-after-authorisation-archive_en.pdf)
 
 Rydapt-H-C-PSUSA-00010638-202010 : EPAR - Scientific conclusions and grounds for the variation to the terms of the marketing authorisation
 
@@ -1121,7 +1127,7 @@ English (EN) (75.24 KB - PDF)
 
 - [Medicines](https://www.ema.europa.eu/en/search?f%5B0%5D=ema_search_topics%3A61)
 
-**This page was last updated on** 12/12/2024
+**This page was last updated on** 14/01/2026
 
 ## Share this page
 

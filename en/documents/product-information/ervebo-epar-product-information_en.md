@@ -1,22 +1,24 @@
 ---
-document_datetime: 2025-11-06 13:01:37
-document_pages: 33
+document_datetime: 2026-01-16 16:14:02
+document_pages: 32
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/ervebo-epar-product-information_en.pdf
 document_name: ervebo-epar-product-information_en.pdf
 version: success
-processing_time: 7.3662294
-conversion_datetime: 2025-12-21 13:16:48.570238
+processing_time: 8.2798252
+conversion_datetime: 2026-01-17 13:31:35.471138
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.64.1
-  docling-core: 2.55.0
+  docling-serve: 1.10.0
+  docling-jobkit: 1.8.1
+  docling: 2.68.0
+  docling-core: 2.59.0
   docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-parse: 4.7.3
   python: cpython-313 (3.13.11)
   plaform: macOS-26.2-arm64-arm-64bit-Mach-O
 ---
-## ANNEX I SUMMARY OF PRODUCT CHARACTERISTICS
+## ANNEX I
+
+## SUMMARY OF PRODUCT CHARACTERISTICS
 
 <div style=\"page-break-after: always\"></div>
 
@@ -74,9 +76,9 @@ For precautions to be taken before administering the vaccine, see section 4.4.
 
 For precautions regarding thawing, handling and disposal of the vaccine, see section 6.6.
 
-Ervebo should be administered by the intramuscular route. The preferred site is the deltoid area of the non-dominant arm or in the higher anterolateral area of the thigh.  The vaccine should not be injected intravascularly. No data are available for administration via the subcutaneous or intradermal routes.
+Ervebo should be administered by the intramuscular route. The preferred site is the deltoid area of the non-dominant arm or in the higher anterolateral area of the thigh. The vaccine should not be injected intravascularly. No data are available for administration via the subcutaneous or intradermal routes.
 
-The vaccination injection site or any vesicles must be covered with an adequate bandage (e.g. any adhesive bandage or gauze and tape). This provides a physical barrier to protect against direct contact (see sections 4.4 and 5.3). The bandage may be removed when there is no visible fluid leakage.
+The vaccination injection site or any vesicles must be covered with an adequate bandage (e.g., any adhesive bandage or gauze and tape). This provides a physical barrier to protect against direct contact (see sections 4.4 and 5.3). The bandage may be removed when there is no visible fluid leakage.
 
 The vaccine should not be mixed in the same syringe with any other vaccines or medicinal products.
 
@@ -114,9 +116,9 @@ Vaccine administrators should counsel vaccinees to continue to protect themselve
 
 ## Immunocompromised individuals
 
-Safety and efficacy of Ervebo have not been assessed in immunocompromised individuals. Immunocompromised individuals may not respond as well as immunocompetent individuals to Ervebo. As a precautionary measure, it is preferable to avoid the use of Ervebo in individuals with known immunocompromised conditions or receiving immunosuppressive therapy, including the following conditions:
+Except for people living with HIV with infection controlled through antiretroviral therapy for whom safety and immunogenicity data are available (see sections 4.8 and 5.1), there are no data in immunocompromised individuals. Immunocompromised individuals may not respond as well as immunocompetent individuals to Ervebo. As a precautionary measure, it is preferable to avoid the use of Ervebo in individuals with known immunocompromised conditions or receiving immunosuppressive therapy, including the following conditions:
 
-- Severe humoral or cellular (primary or acquired) immunodeficiency, e.g. severe combined immunodeficiency, agammaglobulinemia, and AIDS or symptomatic HIV infection. A CD4+ T -lymphocyte count threshold for use in asymptomatic HIV-positive individuals has not been established.
+- Severe humoral or cellular (primary or acquired) immunodeficiency, e.g. severe combined immunodeficiency, agammaglobulinemia, or HIV infection with an AIDS defining illness or a CD4+ T-lymphocyte count below 200 cells/mm 3 .
 - Current immunosuppressive therapy, including high doses of corticosteroids. This does not include individuals who are receiving topical, inhaled or low-dose parenteral corticosteroids (e.g. f or asthma prophylaxis or replacement therapy).
 - Diseases of the blood such as leukaemia, lymphomas of any type, or other malignant neoplasms affecting the haematopoietic and lymphatic systems.
 - Family history of congenital or hereditary immunodeficiency, unless the immune competence of the potential vaccine recipient is demonstrated.
@@ -127,23 +129,24 @@ As a precautionary measure, it is preferable to avoid the use of Ervebo during p
 
 ## Transmission
 
-Vaccine virus might be present in biological fluids such as blood, urine, saliva, semen, vaginal fluids, aqueous humor, breast milk, faeces, sweat, amniotic fluid, and placenta. In clinical studies, vaccine virus RNA has been detected by PCR in the plasma of most of the adult participants. Vaccine virus RNA was mainly detected from Day 1 to Day 7. Shedding of vaccine virus has been detected by PCR in urine or saliva in 19 out of 299 adult participants and in skin vesicles in 4 out of 10 adult participants. The vaccine virus RNA was detected in a skin vesicle at 12 days post-vaccination in one of the f our participants.
+Vaccine virus might be present in biological fluids such as blood, urine, saliva, semen, vaginal fluids, aqueous humor, breast milk, faeces, sweat, amniotic fluid, and placenta. In clinical studies, vaccine virus RNA has been detected by PCR in the plasma of most of the adult participants. Vaccine virus RNA was mainly detected from Day 1 to Day 7. Shedding of vaccine virus has been detected by PCR in urine or saliva in 19 out of 299 healthy adult participants and in skin vesicles in 4 out of 10 adult participants. The vaccine virus RNA was detected in a skin vesicle at 12 days post-vaccination in one of the f our participants.
 
-In a Phase 1 study, vaccine viremia and viral shedding were observed more frequently (28/39) in children and adolescents 6 to 17 years of age compared to adults. In a subsequent Phase 2 study, 31.7% (19/60) of children and adolescents 1 to 17 years of age enrolled in a shedding sub-study shed vaccine virus in saliva f ollowing vaccination. Viral shedding was observed more frequently on Day 7 and declined thereafter, with no shedding detected at Day 56.
+In a Phase 1 study, vaccine viremia and viral shedding were observed more frequently (28/39) in children and adolescents 6 to 17 years of age compared to adults. In a Phase 2 study, 31.7% (19/60) of children and adolescents 1 to 17 years of age enrolled in a shedding sub-study shed vaccine virus in saliva following vaccination. Viral shedding was observed more frequently on Day 7 and declined thereafter, with no shedding detected at Day 56. In a subsequent Phase 2 study of adolescents and adults living with HIV, 22.9% (46/201) had detectable vaccine virus RNA in saliva following vaccination. Viral shedding was observed more frequently on Day 7 and declined thereafter, with no shedding detected at Day 28.
 
 Transmission of vaccine virus through close personal contact is accepted as a theoretical possibility. Vaccine recipients should avoid close contact with and exposure of high-risk individuals to blood and bodily fluids f or at least 6 weeks f ollowing vaccination. High-risk individuals include:
 
 - Immunocompromised individuals and individuals receiving immunosuppressive therapy (see section above),
 - Pregnant or breast-feeding women (see section 4.6),
-- Children &lt; 1 year of age.
 
 <div style=\"page-break-after: always\"></div>
+
+## · Children &lt; 1 year of age.
 
 Individuals who develop vesicular rash after receiving the vaccine should cover the vesicles until they heal to minimise the risk of  possible transmission of vaccine virus through open vesicles. Contaminated bandages must be disposed following institutional guidelines or WHO healthcare waste management policy. See section 5.3.
 
 Parents and caregivers of young vaccinees should observe careful hygiene especially when handling bodily waste and fluids for a minimum of 6 weeks after vaccination. Disposable nappies can be sealed in double plastic bags and disposed of in household waste. See section 5.3.
 
-Inadvertent transmission of vaccine virus to animals and livestock is also theoretically possible, see below.
+Inadvertent transmission of  vaccine virus to animals and livestock is also theoretically possible, see below.
 
 Individuals administered Ervebo should not donate blood for at least 6 weeks post-vaccination.
 
@@ -173,7 +176,7 @@ This medicinal product contains less than 1 mmol sodium (23 mg) per dose, that i
 
 ## 4.5 Interaction with other medicinal products and other forms of interaction
 
-## No interaction studies have been performed.
+No interaction studies have been performed.
 
 As there are no data on co-administration of Ervebo with other vaccines, the concomitant use of Ervebo with other vaccines is not recommended.
 
@@ -205,7 +208,7 @@ A risk to the newborns/infants from breast-feeding by vaccinated mothers cannot 
 
 Evaluation of the vaccine virus in animal milk has not been conducted. When Ervebo is administered to f emale rats, antibodies against the vaccine virus were detected in offspring, likely due to acquisition of maternal antibodies via placental transf er during gestation and via lactation. See section 5.3.
 
-A decision must be made whether to discontinue breast-feeding or to abstain from Ervebo taking into account the benefit of breast-feeding for the child and the benefit of therapy f or the woman. In certain circumstances, where alternatives to breast-feeding are limited, the immediate need and health benefits to the inf ant should be taken into consideration and balanced with the mother's need f or Ervebo. Both may present compelling needs that should be considered before vaccination of the mother.
+A decision must be made whether to discontinue breast-feeding or to abstain from Ervebo taking into account the benefit of breast-feeding for the child and the benefit of therapy f or the woman. In certain circumstances, where alternatives to breast-feeding are limited, the immediate need and health benefits to the infant should be taken into consideration and balanced with the mother 's need f or Ervebo. Both may present compelling needs that should be considered before vaccination of the mother.
 
 ## Fertility
 
@@ -213,11 +216,11 @@ There are no data on fertility eff ects in humans.
 
 Animal studies in female rats do not indicate harmful effects (see section 5.3).
 
+<div style=\"page-break-after: always\"></div>
+
 ## 4.7 Effects on ability to drive and use machines
 
-Ervebo has no or negligible influence on the ability to drive and use machines. However, some of the effects mentioned under section 4.8 'Undesirable ef f ects' may temporarily af f ect the ability  to drive or use machines.
-
-<div style=\"page-break-after: always\"></div>
+Ervebo has no or negligible influence on the ability to drive and use machines. However, some of the effects mentioned under section 4.8 'Undesirable ef f ects' may temporarily af f ect the abili ty to drive or use machines.
 
 ## 4.8 Undesirable effects
 
@@ -269,27 +272,21 @@ Table 1: Tabulated summary of adverse reactions in individuals 1 year of age and
 | General disorders and administration site conditions | Injection site swelling | Common                     | Very common |
 | General disorders and administration site conditions | Hyperhidrosis (sweats)  | Common                     | Common      |
 
-§ See description of selected adverse reactions.
+In a clinical study (Protocol 016), pyrexia was reported more frequently in younger children 1 to &lt;3 years of age (83.2%), compared to children 3 to &lt;12 years of age (64.8%), adolescents 12 to 17 years of age (48.3%) and adults (39.2%). Otherwise, the safety profile of Ervebo in children and adolescents 1 to 17 years of age was generally similar to that observed in adults.
 
-† Includes: somnolence, reduced activity and fatigue.
+## Safety in adults and adolescents living with HIV
 
-‡ NA (not applicable): not assessed for this population.
-
-¶ The adverse reactions of abdominal pain, nausea, rash, arthralgia, chills, and hyperhidrosis occurred with a difference of &lt;5% between vaccine and placebo groups.
-
-*The adverse reactions of dizziness and injection site pruritus occurred with a diff erence of &lt;5% between vaccine and placebo groups.
-
-Pyrexia was reported more frequently in younger children 1 to &lt;3 years of age (83.2%), compared to children 3 to &lt;12 years of age (64.8%), adolescents 12 to 17 years of age (48.3%) and adults (39.2%). Otherwise, the safety profile of Ervebo in children and adolescents 1 to 17 years of age was generally similar to that observed in adults.
+In Protocol 015, the safety prof ile of Ervebo in 52 adolescents and 149 adults living with HIV on antiretroviral therapy with an undetectable viral load and a CD4+ T-lymphocyte count greater than or equal to 200 cells/mm 3 was generally consistent with the known safety profile of Ervebo.
 
 ## Description of selected adverse reactions
 
 ## Arthralgia and arthritis
 
-Arthralgia was generally reported in the first few days following vaccination, was mild to moderate in intensity, and resolved within one week after onset. Arthritis (arthritis, joint ef f usion, joint swelling, osteoarthritis, monoarthritis or polyarthritis) was generally reported within the first few weeks following vaccination. In clinical studies with reports of arthritis, the median onsets were between 10 and 12 days (range from 0 to 25 days). Arthritis has been reported by participants in clinical studies at a frequency that ranged from 0% in several protocols to 23.5% in one Phase 1 study. The majority of arthritis reactions were mild to moderate in severity. The median duration of arthritis across clinical studies in which arthritis was reported ranged from 2 days to 81.5 days (including duration of recurrent arthritis) with a maximum of 330 days. The reasons for differences in arthritis reporting across studies are not known but may be due to differences in study populations or outcome reporting. In the Phase 1 study with the highest rate of arthritis, 6 of  24 patients (25%) who reported arthritis after vaccination had persistent joint symptoms two years after vaccination. In a small number of
+Arthralgia was generally reported in the first few days following vaccination, was mild to moderate in intensity, and resolved within one week after onset. Arthritis (arthritis, joint ef f usion, joint swelling, osteoarthritis, monoarthritis or polyarthritis) was generally reported within the first few weeks following vaccination. In clinical studies with reports of arthritis, the median onsets were between 10 and 12 days (range from 0 to 25 days). Arthritis has been reported by participants in clinical studies at a frequency that ranged from 0% in several protocols to 23.5% in one Phase 1 study. The majority of arthritis reactions were mild to moderate in severity. The median duration of arthritis across clinical studies in which arthritis was reported ranged from 2 days to 81.5 days (including duration of
 
 <div style=\"page-break-after: always\"></div>
 
-participants, the vaccine virus was recovered from joint effusion samples, suggestive of a virally mediated process post-vaccination.
+recurrent arthritis) with a maximum of 330 days. The reasons for differences in arthritis reporting across studies are not known but may be due to differences in study populations or outcome reporting. In the Phase 1 study with the highest rate of arthritis, 6 of  24 patients (25%) who reported arthritis after vaccination had persistent joint symptoms two years after vaccination. In a small number of participants, the vaccine virus was recovered from joint effusion samples, suggestive of a virally mediated process post-vaccination.
 
 ## Rash
 
@@ -319,17 +316,15 @@ Ervebo consists of a live, attenuated recombinant vesicular stomatitis virus-bas
 
 ## Clinical immunogenicity and eff icacy
 
-The clinical development program included six Phase 2/3 clinical studies (Protocols 009, 012, 016 and 018). All participants received a single dose of vaccine except for a subset of participants in Protocol 002 (n=30) and Protocol 016 (n=399) who received two doses.
+The clinical development program included seven Phase 2/3 clinical studies (Protocols 009, 010, 011, 012, 015, 016 and 018). All participants received a single dose of vaccine except for a subset of participants in Protocol 002 (n=30), Protocol 015 (n=40) and Protocol 016 (n=385) who received two doses.
+
+<div style=\"page-break-after: always\"></div>
 
 ## Clinical efficacy
 
 Clinical eff icacy of  Ervebo in adults was assessed in Protocol 010.
 
-Protocol 010 (Ring vaccination study) was a Phase 3 open-label cluster-randomised study of ring vaccination (vaccinating contacts and contacts of contacts [CCCs] of index Ebola cases) which evaluated efficacy and safety of  Ervebo in Guinea. In this study, 9 096 participants ≥ 18 years of age who were considered CCCs of an index case with laboratory-confirmed EVD were randomised to immediate (4 539 participants in 51 clusters) or 21 days delayed (4 557 participants in 47 clusters)
-
-<div style=\"page-break-after: always\"></div>
-
-vaccination with Ervebo. Of those 9 096 participants, 4 160 received Ervebo (2 119 participants were vaccinated in the immediate arm and 2 041 participants were vaccinated in the delayed arm). The median age of consenting CCCs was 35 years old. The final primary analysis included 2 108 participants (51 clusters) vaccinated in the immediate arm and 1 429 participants (46 clusters) eligible and consented on Day 0 in the delayed arm.
+Protocol 010 (Ring vaccination study) was a Phase 3 open-label cluster-randomised study of ring vaccination (vaccinating contacts and contacts of contacts [CCCs] of index Ebola cases) which evaluated efficacy and safety of  Ervebo in Guinea. In this study, 9 096 participants ≥ 18 years of age who were considered CCCs of an index case with laboratory-confirmed EVD were randomised to immediate (4 539 participants in 51 clusters) or 21 days delayed (4 557 participants in 47 clusters) vaccination with Ervebo. Of those 9 096 participants, 4 160 received Ervebo (2 119 participants were vaccinated in the immediate arm and 2 041 participants were vaccinated in the delayed arm). The median age of consenting CCCs was 35 years old. The final primary analysis included 2 108 participants (51 clusters) vaccinated in the immediate arm and 1 429 participants (46 clusters) eligible and consented on Day 0 in the delayed arm.
 
 The final primary analysis was to assess efficacy against laboratory confirmed EVD by comparing incidence of cases occurring 10 to 31 days post-randomisation for those vaccinated in the immediate vaccination rings versus incidence of cases for participants who consented on Day 0 in the delayed vaccination rings. Vaccine efficacy was 100% (unadjusted 95% CI: 63.5% to 100%; 95% CI adjusted for multiplicity: 14.4% to 100%) (0 cases in the immediate arm; 10 cases in 4 rings in the delayed arm). Randomisation was stopped after an interim analysis with a p=0.0036 that did not meet the prespecified alpha level of 0.0027. Of the 10 cases, 7 were in contacts, and 3 in contacts-of -contacts. Uncertainties remain as to the level, duration and type of protection given the methodological limitations and the exceptional circumstances experienced during the study.
 
@@ -343,19 +338,19 @@ Protocol 011, named Sierra Leone Study to Introduce a Vaccine against Ebola (STR
 
 Protocol 012 was a Phase 3 randomised, double-blind, placebo-controlled study which evaluated the safety and immunogenicity of three consistency lots and a high dose lot (approximately five times higher than the dose in consistency lots and dose used in other Phase 2/3 studies) of Ervebo compared to normal saline placebo. A total of 1 197 healthy participants 18 to 65 years of age were enrolled in the US, Canada, and Spain.
 
+Protocol 015, named African-Canadian Study of HIV-Infected Adults and a Vaccine for Ebola (ACHIV-Ebola), was a Phase 2, randomised, multi-centre, double-blind, placebo-controlled trial which evaluated the safety and immunogenicity of Ervebo in adult and adolescent participants living with HIV on antiretroviral therapy with an undetectable viral load and a CD4+ T-lymphocyte count greater than or equal to 200 cells/mm 3 who received: a single dose of Ervebo (n=161) or placebo (n=39), or two doses of Ervebo (n=40) or placebo (n=10) administered 56 days apart. In this trial, 65 adolescents 13 to 17 years of age and 186 adults 18 years of age and older were enrolled in Canada, Burkina Faso, and Senegal.
+
+<div style=\"page-break-after: always\"></div>
+
 Protocol 016, named Partnership for Research on Ebola VACcination (PREVAC), was a Phase 2 randomised, double-blind, placebo-controlled study which evaluated the safety and immunogenicity of Ervebo in participants who received: a single dose of Ervebo and normal saline placebo administered 56 days apart, two doses of Ervebo administered 56 days apart, or two doses of normal saline placebo. In this study, 998 children and adolescents 1 to 17 years of age and 1 004 adults 18 years of age and older were enrolled in Guinea, Liberia, Mali and Sierra Leone.
 
 Protocol 018 was a Phase 3 open-label study conducted in Guinea to evaluate the safety and immunogenicity of Ervebo in vaccinated frontline workers 18 years of age and older that was implemented as Part B of the Phase 3 ring vaccination study for Protocol 010. In this study, a total of 2 115 participants were enrolled and 2 016 participants were vaccinated with Ervebo. An immunogenicity sub-study included 1 217 participants who were vaccinated and provided samples for the assessment of immunogenicity.
 
-Immunogenicity data were obtained in Protocol 009 in Liberia, Protocol 011 in Sierra Leone, Protocol 012 in the United States, Canada, and Europe, Protocol 016 in Guinea, Liberia, Mali, and Sierra Leone, and Protocol 018 in Guinea. Gamma irradiation of specimens (f rom regions involved in Ebola outbreaks) was performed to reduce risk of wild-type Ebola virus infection of laboratory
-
-<div style=\"page-break-after: always\"></div>
-
-workers, but increased pre-vaccination glycoprotein enzyme-linked immunosorbent assay (GPELISA) immune responses by approximately 20% and decreased post-vaccination GP-ELISA and plaque reduction neutralisation test (PRNT) immune responses by approximately 20%. Samples from Protocol 012 were not gamma irradiated. Absence of gamma irradiation, lower baseline seropositivity and other factors resulted in a higher immune response in Protocol 012.
+Immunogenicity data were obtained in Protocol 009 in Liberia, Protocol 011 in Sierra Leone, Protocol 012 in the United States, Canada, and Europe, Protocol 015 in Canada, Burkina Faso, and Senegal, Protocol 016 in Guinea, Liberia, Mali, and Sierra Leone, and Protocol 018 in Guinea. Gamma irradiation of specimens (from regions involved in Ebola outbreaks) was performed to reduce risk of  wild-type Ebola virus infection of laboratory workers, but increased pre-vaccination glycoprotein enzyme-linked immunosorbent assay (GP-ELISA) immune responses by approximately 20% and decreased post-vaccination GP-ELISA and plaque reduction neutralisation test (PRNT) immune responses by approximately 20%. Samples from Protocol 012 and Protocol 015 were not gamma irradiated. Absence of gamma irradiation, lower baseline seropositivity and other factors resulted in a higher immune response in Protocol 012.
 
 ## Clinical immunogenicity in adults 18 years of age and older
 
-Immunogenicity testing has been performed in Protocol 009, Protocol 011, Protocol 012, Protocol 016 and Protocol 018, and includes the assessment of binding immunoglobulin G (IgG) specific to purified Kikwit ZEBOV GP by validated GP-ELISA as well as validated neutralisation of vaccine virus by a PRNT.
+Immunogenicity testing has been performed in Protocol 009, Protocol 011, Protocol 012, Protocol 015, Protocol 016 and Protocol 018, and includes the assessment of binding immunoglobulin G (IgG) specific to purified Kikwit ZEBOV GP by validated GP-ELISA as well as validated neutralisation of  vaccine virus by a PRNT.
 
 As shown in Tables 2 and 3, the geometric mean titres (GMT) of GP-ELISA and PRNT increased from pre-vaccination to post-vaccination.
 
@@ -363,72 +358,80 @@ Over 93.8% of vaccine recipients from Protocols 009, 011, 012, 016 and 018 met s
 
 Table 2: Summary of geometric mean titres for the GP-ELISA in adults 18 years of age and older from Protocols 009, 011, 012, 016 and 018 clinical studies
 
-| Time point                   | GMT(n) [95% CI]              | GMT(n) [95% CI]                  | GMT(n) [95% CI]                  | GMT(n) [95% CI]                    | GMT(n) [95% CI]   |
+|                              | GMT(n) [95% CI]              | GMT(n) [95% CI]                  | GMT(n) [95% CI]                  | GMT(n) [95% CI]                    | GMT(n) [95% CI]   |
 |------------------------------|------------------------------|----------------------------------|----------------------------------|------------------------------------|-------------------|
 | Time point                   | Protocol 009 †               | Protocol 011 †                   | Protocol 012 ‡                   | Protocol 016 †                     | Protocol 018 †    |
 | 120.7 (487) [110.8, 131.5]   | 92.7 (503) [85.3, 100.9]     | <36.11 (696) [<36.11, <36.11]    | 140.2 (379) [129.0, 152.4]       | 78.3 (1,123) [74.7, 82.0]          | Baseline          |
 | 999.7 (489) [920.1, 1 086.1] | 964.3 (443) [878.7, 1 058.3] | 1 262.0 (696) [1 168.9, 1 362.6] | 1 241.2 (343) [1 116.4, 1 380.0] | 1 106.5 (1 023) [1 053.4, 1 162.2] | Month 1           |
 | 713.8 (485) [661.4, 770.3]   | 751.8 (383) [690.6, 818.4]   | 1 113.4 (664) [1 029.5, 1 204.0] | NA                               | 1 008.8 (75) [849.8, 1 197.6]      | Month 6           |
 | 664.3 (484) [616.5, 715.8]   | 760.8 (396) [697.6, 829.8]   | 1 078.4 (327) [960.6, 1 210.7]   | 1 088.4 (292) [983.5, 1 204.6]   | NA                                 | Month 12 §        |
-| 766.3 (441) [705.0, 832.9]   | NA                           | 920.3 (303) [820.4, 1 032.3]     | NA                               | NA                                 | Month 24          |
-| 755.7 (434) [691.6, 825.7]   | NA                           | NA                               | NA                               | NA                                 | Month 36          |
-| 835.4 (400) [769.3, 907.2]   | NA                           | NA                               | NA                               | NA                                 | Month 48          |
-| 785.9 (397) [722.3, 855.2]   | NA                           | NA                               | NA                               | NA                                 | Month 60          |
-
-The Full Analysis Set population was the primary population for the immunogenicity analyses in Protocols 009, 011 and 018 and consists of all vaccinated participants with serology data and had a serum sample collected within an acceptable day range.
-
-The Per-Protocol Immunogenicity Population was the primary population for the immunogenicity analyses in Protocol 012 and includes all participants who were compliant with the protocol, received vaccination, were seronegative at Day 1, and had a serum sample at one or more timepoints collected within an acceptable day range.
 
 <div style=\"page-break-after: always\"></div>
 
-The Per-Protocol Immunogenicity Population was the primary population for the immunogenicity analyses in Protocol 016 and includes all vaccinated participants with serology data who were compliant with the protocol and had a serum sample collected within an acceptable day range.
+| Month 24                   | 766.3 (441) [705.0, 832.9]   | NA   | 920.3 (303) [820.4, 1 032.3]   | NA   | NA       |
+|----------------------------|------------------------------|------|--------------------------------|------|----------|
+| 755.7 (434) [691.6, 825.7] | NA                           | NA   | NA                             | NA   | Month 36 |
+| 835.4 (400) [769.3, 907.2] | NA                           | NA   | NA                             | NA   | Month 48 |
+| 785.9 (397) [722.3, 855.2] | NA                           | NA   | NA                             | NA   | Month 60 |
+
+The Full Analysis Set population was the primary population f or the immunogenicity analyses in Protocols 009, 011 and 018 and consists of all vaccinated participants with serology data and had a serum sample collected within an acceptable day range.
+
+The Per-Protocol Immunogenicity Population was the primary population f or the immunogenicity analyses in Protocol 012 and includes all participants who were compliant with the protocol, received vaccination, were seronegative at Day 1, and had a serum sample at one or more timepoints collected within an acceptable day range.
+
+The Per-Protocol Immunogenicity Population was the primary population f or the immunogenicity analyses in Protocol 016 and includes all vaccinated participants with serology data who were compliant with the protocol and had a serum sample collected within an acceptable day range.
 
 n=Number of participants contributing to the analysis.
 
-CI=Confidence interval; GP-ELISA = Glycoprotein Enzyme-Linked Immunosorbent Assay (EU/mL);
+CI=Confidence interval; GP-ELISA = Glycoprotein Enzyme-Linked Immunosorbent Assay (EU/mL); GMT=Geometric mean titre § Protocol 011 from Month 9-12
 
-GMT=Geometric mean titre
-
-§ Protocol 011 from Month 9-12
-
-† Protocols 009, 011, 016 and 018 used gamma irradiation of specimens to reduce risk of wild-type Ebola virus infection of laboratory workers.
-
-‡ Combined consistency lots group
+† Protocols 009, 011, 016 and 018 used gamma irradiation of  specimens to reduce risk of wild-type Ebola virus infection of laboratory workers. ‡ Combined consistency lots group
 
 Table 3: Summary of geometric mean titres for the PRNT in adults 18 years of age and older from Protocols 009, 011, 012, 016 and 018 clinical studies
 
-|                            | GMT(n) [95% CI]            | GMT(n) [95% CI]            | GMT(n) [95% CI]           | GMT(n) [95% CI]              | GMT(n) [95% CI]           |
-|----------------------------|----------------------------|----------------------------|---------------------------|------------------------------|---------------------------|
-|                            | Protocol 009 †             | Protocol 011 †             | Protocol 012 ‡            | Protocol 016 †               | Time point Protocol 018 † |
-| <35 (451) [<35, <35]       | <35 (438) [<35, <35]       | <35 (696) [<35, <35]       | 17.5 (92) [16.7, 18.4]    | <35 (1,107) [<35, <35]       | Baseline                  |
-| 117.1 (490) [106.4, 128.9] | 116.0 (437) [105.7, 127.4] | 202.1 (696) [187.9, 217.4] | 170.1 (98) [144.1, 200.7] | 160.0 (1 024) [151.6, 168.9] | Month 1                   |
-| 76.7 (485) [69.8, 84.2]    | 95.3 (382) [86.3, 105.3]   | 266.5 (664) [247.4, 287.0] | NA                        | 117.0 (75) [96.0, 142.6]     | Month 6                   |
-| 100.2 (485) [91.3, 110.0]  | 119.9 (396) [107.9, 133.2] | 271.4 (327) [243.4, 302.7] | 144.3 (84) [122.2, 170.4] | NA                           | Month 12 §                |
-| NA                         | NA                         | 267.6 (302) [239.4, 299.2] | NA                        | NA                           | Month 24                  |
+|                            | GMT(n) [95% CI]            | GMT(n) [95% CI]            | GMT(n) [95% CI]           | GMT(n) [95% CI]              | GMT(n) [95% CI]   |
+|----------------------------|----------------------------|----------------------------|---------------------------|------------------------------|-------------------|
+| Time point                 | Protocol 009 †             | Protocol 011 †             | Protocol 012 ‡            | Protocol 016 †               | Protocol 018 †    |
+| <35 (451) [<35, <35]       | <35 (438) [<35, <35]       | <35 (696) [<35, <35]       | 17.5 (92) [16.7, 18.4]    | <35 (1,107) [<35, <35]       | Baseline          |
+| 117.1 (490) [106.4, 128.9] | 116.0 (437) [105.7, 127.4] | 202.1 (696) [187.9, 217.4] | 170.1 (98) [144.1, 200.7] | 160.0 (1 024) [151.6, 168.9] | Month 1           |
+| 76.7 (485) [69.8, 84.2]    | 95.3 (382) [86.3, 105.3]   | 266.5 (664) [247.4, 287.0] | NA                        | 117.0 (75) [96.0, 142.6]     | Month 6           |
+| 100.2 (485) [91.3, 110.0]  | 119.9 (396) [107.9, 133.2] | 271.4 (327) [243.4, 302.7] | 144.3 (84) [122.2, 170.4] | NA                           | Month 12 §        |
+| NA                         | NA                         | 267.6 (302) [239.4, 299.2] | NA                        | NA                           | Month 24          |
 
-The Full Analysis Set population was the primary population for the immunogenicity analyses in Protocols 009, 011 and 018 and consists of all vaccinated participants with serology data and had a serum sample collected within an acceptable day range.
+The Full Analysis Set population was the primary population f or the immunogenicity analyses in Protocols 009, 011 and 018 and consists of all vaccinated participants with serology data and had a serum sample collected within an acceptable day range.
 
-The Per-Protocol Immunogenicity Population was the primary population for the immunogenicity analyses in Protocol 012 and includes all participants who were compliant with the protocol, received vaccination, were seronegative at Day 1, and had a serum sample at one or more timepoints collected within an acceptable day range.
+The Per-Protocol Immunogenicity Population was the primary population f or the immunogenicity analyses in Protocol 012 and includes all participants who were compliant with the protocol, received vaccination, were seronegative at Day 1, and had a serum sample at one or more timepoints collected within an acceptable day range.
 
-The Per-Protocol Immunogenicity Population was the primary population for the immunogenicity analyses in Protocol 016 and includes all vaccinated participants with serology data who were compliant with the protocol and had a serum sample collected within an acceptable day range. n=Number of participants contributing to the analysis.
+The Per-Protocol Immunogenicity Population was the primary population f or the immunogenicity analyses in Protocol 016 and includes all vaccinated participants with serology data who were compliant with the protocol and had a serum sample collected within an acceptable day range.
 
-CI=Confidence interval; GMT=Geometric mean titre; PRNT=Plaque Reduction Neutralisation Test § Protocol 011 from Month 9-12
+n=Number of participants contributing to the analysis.
 
-† Protocols 009, 011, 016 and 018 used gamma irradiation of specimens to reduce risk of wild-type Ebola virus infection of laboratory workers.
+CI=Confidence interval; GMT=Geometric mean titre; PRNT=Plaque Reduction Neutralisation Test
 
-‡ Combined consistency lots group
+§ Protocol 011 from Month 9-12
 
-## Paediatric population
+† Protocols 009, 011, 016 and 018 used gamma irradiation of  specimens to reduce risk of wild-type Ebola virus infection of laboratory workers. ‡ Combined consistency lots group
 
-## Clinical immunogenicity in children and adolescents 1 to 17 years of age
+## Immunogenicity in adults and adolescents living with HIV
 
-As shown in Tables 4 and 5, the GMTs of GP-ELISA and PRNT increased from pre-vaccination to post-vaccination. In Protocol 016, 95.7% of  participants met seroresponse criteria def ined as a ≥2 -f old increase f rom baseline and ≥200 EU/mL at any time post-vaccination by GP-ELISA and 95.8% of part icipants met seroresponse criteria def ined as a ≥4 -f old increase f rom baseline at any time post-vaccination by PRNT. At 12 months following vaccination, 93.2% of participants continued to meet the seroresponse criteria for GP-ELISA and 95.3% continued to meet seroresponse criteria for PRNT. Tables 4 and 5 provide a summary of GMTs for the GP-ELISA and for the PRNT, respectively, by age range.
+In Protocol 015, adults and adolescents (13 -17 years) living with HIV on antiretroviral therapy with a CD4+ Tlymphocyte count ≥200 cells/mm³ exhibited sustained immune responses following a single dose of Ervebo. At any time point postvaccination, ≥97.5% of  participants met seroresponse criteria by both GPELISA (≥2 -fold increase f rom baseline and ≥200 EU/mL) and PRNT (≥4 -fold increase from baseline).
+
+In adults, GP-ELISA GMTs rose from 32.3 EU/mL at baseline to 1,170.8 at Month 1, 1,724.0 at Month 6 and 1,942.7 at Month 12. PRNT GMTs increased from 17.8 at baseline to 223.8 at Month 1, 237.5 at Month 6 and 338.0 at Month 12.
+
+In adolescents, GP-ELISA GMTs increased from 36.3 EU/mL at baseline to 1,432.8 at Month 1, 2,256.4 at Month 6 and 2,951.3 at Month 12. PRNT GMTs rose from 17.5 at baseline to 281.9 at Month 1, 293.0 at Month 6 and 440.9 at Month 12.
 
 <div style=\"page-break-after: always\"></div>
 
+## Paediatric population
+
+Clinical immunogenicity in children and adolescents 1 to 17 years of age
+
+## Protocol 016
+
+As shown in Tables 4 and 5, the GMTs of GP-ELISA and PRNT increased from pre-vaccination to post-vaccination. In Protocol 016, 95.7% of  participants met seroresponse criteria def ined as a ≥2 -f old increase f rom baseline and ≥200 EU/mL at any time post-vaccination by GP-ELISA and 95.8% of part icipants met seroresponse criteria def ined as a ≥4 -f old increase f rom baseline at any time post-vaccination by PRNT. At 12 months following vaccination, 93.2% of participants continued to meet the seroresponse criteria for GP-ELISA and 95.3% continued to meet seroresponse criteria for PRNT. Tables 4 and 5 provide a summary of GMTs for the GP-ELISA and for the PRNT, respectively, by age range.
+
 Immune responses after vaccination with Ervebo in children and adolescents were non-inf erior to those in adults at 1 month post -vaccination. The clinical relevance of the immunogenicity data is currently not known.
 
-Table 4: Summary of geometric mean titres for the GP-ELISA in children and adolescents 1 to 17 years of age from Protocol 016 clinical study
+Table 4: Summary of geometric mean titres for the GP-ELISA in children and adolescents 1 to 17 years of age from Protocol 016 clinical study §
 
 | Age            | Baseline GMT(n) [95% CI]   | Month 1 GMT(n) [95% CI]          | Month 12 GMT(n) [95% CI]         |
 |----------------|----------------------------|----------------------------------|----------------------------------|
@@ -436,13 +439,7 @@ Table 4: Summary of geometric mean titres for the GP-ELISA in children and adole
 | 3 to <12 years | 93.3 (180) [80.6, 108.1]   | 1 845.1 (171) [1 552.1, 2 193.4] | 1 368.4 (153) [1 189.3, 1 574.5] |
 | 12 to 17 years | 140.0 (128) [120.9, 162.2] | 2 103.3 (120) [1 772.2, 2 496.4] | 1 451.6 (86) [1 188.6, 1 772.8]  |
 
-The Per-Protocol Immunogenicity Population was the primary population for the immunogenicity analyses in Protocol 016 and includes all vaccinated participants with serology data who were compliant with the protocol and had a serum sample collected within an acceptable day range. n=Number of participants contributing to the analysis.
-
-CI=Confidence interval; GMT=geometric mean titre; GP-ELISA=glycoprotein enzyme-linked immunosorbent assay (EU/mL).
-
-Protocol 016 used gamma irradiation of specimens to reduce risk of wild-type Ebola virus infection of laboratory workers.
-
-Table 5: Summary of geometric mean titres for the PRNT in children and adolescents 1 to 17 years of age from Protocol 016 clinical study
+Table 5: Summary of geometric mean titres for the PRNT in children and adolescents 1 to 17 years of age from Protocol 016 clinical study §
 
 | Age            | Baseline GMT(n) [95% CI]   | Month 1 GMT(n) [95% CI]    | Month 12 GMT(n) [95% CI]   |
 |----------------|----------------------------|----------------------------|----------------------------|
@@ -450,19 +447,15 @@ Table 5: Summary of geometric mean titres for the PRNT in children and adolescen
 | 3 to <12 years | 17.9 (134) [16.9, 18.8]    | 280.4 (114) [241.3, 325.7] | 312.7 (88) [271.0, 360.8]  |
 | 12 to 17 years | 17.5 (111) [17.4, 17.6]    | 273.3 (119) [237.5, 314.6] | 251.7 (85) [215.7, 293.7]  |
 
-The Per-Protocol Immunogenicity Population was the primary population for the immunogenicity analyses in Protocol 016 and includes all vaccinated participants with serology data who were compliant with the protocol and had a serum sample collected within an acceptable day range. n=Number of participants contributing to the analysis.
-
-CI=Confidence interval; GMT=Geometric mean titre; PRNT=Plaque Reduction Neutralisation Test Protocol 016 used gamma irradiation of specimens to reduce risk of wild-type Ebola virus infection of laboratory workers.
-
 Clinical immunogenicity in participants receiving a booster dose
 
-Although an increase in antibody responses was observed in children and adolescents (n=195), and adults (n=194) after a second dose of Ervebo administered on Day 56 (Protocol 016), the increase in antibody titres was not maintained above the single dose regimen (n=386 children and adolescents, n=386 adults) at 12 months post -vaccination.
+<div style=\"page-break-after: always\"></div>
+
+Although an increase in antibody responses was observed in children and adolescents (n=207), and adults (n=222) after a second dose of Ervebo administered on Day 56 (Protocol 015 and Protocol 016), the increase in antibody titres was not maintained above the antibody titres observed af ter a single dose (n=426 children and adolescents, n=507 adults) at 12 months post -vaccination.
 
 ## 5.2 Pharmacokinetic properties
 
 Not applicable.
-
-<div style=\"page-break-after: always\"></div>
 
 ## 5.3 Preclinical safety data
 
@@ -488,11 +481,11 @@ See sections 4.4 and 6.6 for further information.
 
 ## 6.1 List of excipients
 
+<div style=\"page-break-after: always\"></div>
+
 Recombinant human serum albumin Trometamol buffer Water for injections Hydrochloric acid (for pH-adjustment) Sodium hydroxide (for pH-adjustment)
 
 ## 6.2 Incompatibilities
-
-<div style=\"page-break-after: always\"></div>
 
 In the absence of compatibility studies, this medicinal product must not be mixed with other medicinal products.
 
@@ -528,13 +521,17 @@ If breakage/spillage were to occur, disinfectants such as aldehydes, alcohols an
 
 ## 7. MARKETING AUTHORISATION HOLDER
 
-Merck Sharp &amp; Dohme B.V. Waarderweg 39 2031 BN Haarlem The Netherlands
+Merck Sharp &amp; Dohme B.V.
+
+<div style=\"page-break-after: always\"></div>
+
+2031 BN Haarlem
+
+The Netherlands
 
 ## 8. MARKETING AUTHORISATION NUMBER(S)
 
 EU/1/19/1392/001
-
-<div style=\"page-break-after: always\"></div>
 
 ## 9. DATE OF FIRST AUTHORISATION/RENEWAL OF THE AUTHORISATION
 
@@ -650,9 +647,7 @@ EXP
 
 ## 9. SPECIAL STORAGE CONDITIONS
 
-Store and transport frozen at -80 °C to -60 °C.
-
-Do not thaw the vial in a refrigerator. Do not refreeze.
+Store and transport frozen at -80 °C to -60 °C. Do not thaw the vial in a refrigerator. Do not refreeze.
 
 <div style=\"page-break-after: always\"></div>
 
@@ -666,7 +661,9 @@ Any unused vaccine or waste material should be disposed of in compliance with th
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
-Merck Sharp &amp; Dohme B.V. Waarderweg 39 2031 BN Haarlem The Netherlands
+Merck Sharp &amp; Dohme B.V. Waarderweg 39 2031 BN Haarlem
+
+The Netherlands
 
 ## 12. MARKETING AUTHORISATION NUMBER(S)
 
@@ -694,7 +691,9 @@ PC SN NN
 
 <div style=\"page-break-after: always\"></div>
 
-## MINIMUM PARTICULARS TO APPEAR ON SMALL IMMEDIATE PACKAGING UNITS VIAL LABEL
+MINIMUM PARTICULARS TO APPEAR ON SMALL IMMEDIATE PACKAGING UNITS
+
+VIAL LABEL
 
 | 1.   | NAMEOFTHEMEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION   |
 |------|-------------------------------------------------------------|
@@ -799,7 +798,7 @@ Proper hand washing methods are described below;
 
 While in an area affected by Ebola, it is important to avoid the following:
 
-- Contact with blood and body fluids (such as urine, faeces, saliva, sweat, vomit, breast milk, semen, and vaginal f luids).
+- Contact with blood and body fluids (such as urine, faeces, saliva, sweat, vomit, breast milk, semen, and vaginal fluids).
 - Items that may have come in contact with an inf ected person's blood or body f luids (such as clothes, bedding, needles, and medical equipment).
 - Funeral or burial rituals that require handling the body of someone who died from Ebola.
 - Contact with bats, apes and monkeys or with blood, fluids and raw meat prepared from these animals (bushmeat) or meat from an unknown source.
@@ -807,7 +806,7 @@ While in an area affected by Ebola, it is important to avoid the following:
 
 ## In case of rash:
 
-If you get a rash where the skin is broken af ter receiving Ervebo, cover it until it heals. Put the used plasters and bandages in a sealed container, if possible, and throw them in the waste bin to make sure that people with a weak immune system or animals do not come into contact with the plasters and bandages.
+If  you get a rash where the skin is broken af ter receiving Ervebo, cover it until it heals. Put the used plasters and bandages in a sealed container, if possible, and throw them in the waste bin to make sure that people with a weak immune system or animals do not come into contact with the plasters and bandages.
 
 ## Taking care of children that have received Ervebo:
 
@@ -902,7 +901,7 @@ Like all vaccines, Ervebo can cause side effects, although not everybody gets th
 
 ## Serious side effects:
 
-Serious side ef f ects are rare. Get medical care right away if you or your child has symptoms of a severe allergic reaction (anaphylactic reaction), which may include:
+Serious side effects are rare. Get medical care right away if you or your child has symptoms of a severe allergic reaction (anaphylactic reaction), which may include:
 
 - wheezing or trouble breathing,
 - swelling of the face, lips, tongue, or other parts of the body,
@@ -994,11 +993,7 @@ The active substance is a living Vesicular Stomatitis Virus. The surface protein
 
 One dose (1 mL) contains:
 
-Ebola Zaire Vaccine (rVSV∆G -ZEBOV-GP 1,2  live, attenuated) ≥ 72 million pfu 3 1 Recombinant Vesicular Stomatitis Virus (rVSV) strain Indiana with a deletion of the VSV envelope glycoprotein (G) replaced with the Zaire Ebola Virus (ZEBOV) Kikwit 1995 strain surf ace glycoprotein (GP)
-
-2 Produced in Vero cells
-
-3 pfu=plaque-forming units
+Ebola Zaire Vaccine (rVSV∆G -ZEBOV-GP 1,2  live, attenuated) ≥ 72 million pfu 3 1 Recombinant Vesicular Stomatitis Virus (rVSV) strain Indiana with a deletion of the VSV envelope glycoprotein (G) replaced with the Zaire Ebola Virus (ZEBOV) Kikwit 1995 strain surf ace glycoprotein (GP) 2 Produced in Vero cells 3 pfu=plaque-forming units
 
 This product contains genetically modified organisms (GMOs).
 
@@ -1012,145 +1007,13 @@ The other excipients are: recombinant human serum albumin, trometamol buf fer, w
 - Ervebo is a colourless to slightly brownish-yellow liquid.
 - Ervebo is available in a pack of 10 vials.
 
-## Marketing Authorisation Holder
+For any information about this medicine, please contact the Marketing Authorisation Holder
+
+Marketing Authorisation Holder Merck Sharp &amp; Dohme B.V. Waarderweg 39 2031 BN Haarlem The Netherlands                                                       Germany
 
 Manufacturer
 
-Merck Sharp &amp; Dohme B.V. Waarderweg 39 2031 BN Haarlem The Netherlands
-
-Burgwedel Biotech GmbH Im Langen Felde 5 30938 Burgwedel Germany
-
-For any information about this medicine, please contact the local representative of the Marketing Authorisation Holder:
-
-## België/Belgique/Belgien
-
-MSD Belgium Tél/Tel: +32(0)27766211 dpoc\\_belux@msd.com
-
-Lietuva
-
-UAB Merck Sharp &amp; Dohme Tel: +370.5.2780.247 dpoc\\_lithuania@msd.com
-
-## /Beъл/geа/erи/ia
-
-Ме/er/ka  Ша/er/pecyril  и  /Deо/ucyril/em  /Beъл/geа/erи/ia  Е/Ocyril/Ocyril/De, /teел.:  +  359  2  819  3737 info-msdbg@merck.com
-
-## Luxembourg/Luxemburg
-
-MSD Belgium Tél/Tel: +32 (0) 27766211 dpoc\\_belux@msd.com
-
-## Česká republika
-
-Merck Sharp &amp; Dohme s.r.o. Tel: +420 233 010 111 dpoc\\_czechslovak@merck.com
-
-Magyarország
-
-MSD Pharma Hungary Kft. Tel.: + 36.1.888.5300 hungary\\_msd@merck.com
-
-<div style=\"page-break-after: always\"></div>
-
-## Danmark
-
-MSD Danmark ApS Tlf.: + 45 4482 4000 dkmail@msd.com
-
-## Deutschland
-
-MSD Sharp &amp; Dohme GmbH Tel: +49 (0) 89 20 300 4500 medinfo@msd.de
-
-## Eesti
-
-Merck Sharp &amp; Dohme OÜ Tel: +372 6144 200 dpoc.estonia@msd.com
-
-## Ελλάδα
-
-MSD Α.Φ.Ε.Ε.
-
-Τηλ : +30 210 98 97 300 dpoc\\_greece@merck.com
-
-## España
-
-Merck Sharp &amp; Dohme de España, S.A. Tel: +34 91 321 06 00 msd\\_info@merck.com
-
-## France
-
-MSD France
-
-Tél: +33 (0)1 80 46 40 40
-
-## Hrvatska
-
-Merck Sharp &amp; Dohme d.o.o. Tel: +385 1 66 11 333 croatia\\_info@merck.com
-
-## Ireland
-
-Merck Sharp &amp; Dohme Ireland (Human Health) Limited Tel: +353 (0)1 2998700 medinfo\\_ireland@msd.com
-
-## Ísland
-
-Vistor hf. Sími: + 354 535 7000
-
-## Italia
-
-MSD Italia S.r.l. Tel: 800 23 99 89 (+39 06 361911) dpoc.italy@msd.com
-
-## Κύπρος
-
-Merck Sharp &amp; Dohme Cyprus Limited Τηλ: 800 00 673 (+357 22866700) cyprus\\_info@merck.com
-
-## Malta
-
-Merck Sharp &amp; Dohme Cyprus Limited. Tel: 8007 4433 (+356 99917558) malta\\_info@merck.com
-
-## Nederland
-
-Merck Sharp &amp; Dohme B.V. Tel: 0800 9999000 (+31 23 5153153)
-
-medicalinfo.nl@merck.com
-
-## Norge
-
-MSD (Norge) AS
-
-Tlf: +47 32 20 73 00 medinfo.norway@msd.com
-
-## Österreich
-
-Merck Sharp &amp; Dohme Ges.m.b.H.
-
-Tel: +43 (0) 1 26 044 dpoc\\_austria@merck.com
-
-## Polska
-
-MSD Polska Sp. z o.o. Tel.: +48 22 549 51 00 msdpolska@merck.com
-
-## Portugal
-
-Merck Sharp &amp; Dohme, Lda Tel: +351 21 4465700 inform\\_pt@merck.com
-
-## România
-
-Merck Sharp &amp; Dohme Romania S.R.L Tel: + 4021 529 29 00 msdromania@merck.com
-
-## Slovenija
-
-Merck Sharp &amp; Dohme, inovativna zdravila d.o.o. Tel: +386.1.520.4201 msd.slovenia@merck.com
-
-## Slovenská republika
-
-Merck Sharp &amp; Dohme, s. r. o.
-
-Tel: +421 2 58282010 dpoc\\_czechslovak@merck.com
-
-## Suomi/Finland
-
-MSD Finland Oy Puh/Tel: +358 (0)9 804 650 info@msd.fi
-
-## Sverige
-
-Merck Sharp &amp; Dohme (Sweden) AB Tel: +46 77 5700488 medicinskinfo@msd.com
-
-<div style=\"page-break-after: always\"></div>
-
-Latvija SIA Merck Sharp &amp; Dohme Latvija Tel: +371 67025300 dpoc.latvia@msd.com
+Burgwedel Biotech GmbH Im Langen Felde 5 30938 Burgwedel
 
 ## This leaflet was last revised in
 
@@ -1162,9 +1025,11 @@ This leaflet is available in all EU/EEA languages on the European Medicines Agen
 
 ------------------------------------------------------------------------------------------------------------------------
 
+<div style=\"page-break-after: always\"></div>
+
 The following information is intended for healthcare professionals only:
 
-Standard precautions when caring for patients with known or suspected Ebola disease
+## Standard precautions when caring for patients with known or suspected Ebola disease
 
 Vaccination with Ervebo does not eliminate the necessity of standard precautions when caring for patients with known or suspected Ebola disease. All healthcare workers, and other ancillary providers who have been vaccinated, should not alter their practices with regard to safe injection, hygiene, and personal protective equipment (PPE) after vaccination.
 
@@ -1176,7 +1041,7 @@ Standard precautions, as outlined by WHO, include the following:
 - Safe injection practices
 - Safe burial practices
 
-Healthcare workers caring for patients with suspected or confirmed Ebola virus should apply extra inf ection  control measures to prevent contact with the patient's blood and body f luids and contaminated surfaces or materials such as clothing and bedding. When in close contact (within 1 metre) of patients with Ebola Virus Disease, healthcare workers should wear face protection (a face shield or a medical mask and goggles), a clean, non-sterile long-sleeved gown, and gloves (sterile gloves for some procedures).
+Healthcare workers caring for patients with suspected or confirmed Ebola virus should apply extra infection control measures to prevent contact with th e patient's blood and body f luids and contaminated surfaces or materials such as clothing and bedding. When in close contact (within 1 metre) of patients with Ebola Virus Disease, healthcare workers should wear face protection (a face shield or a medical mask and goggles), a clean, non-sterile long-sleeved gown, and gloves (sterile gloves for some procedures).
 
 Laboratory workers are also at risk. Samples taken from humans and animals for investigation of Ebola infection should be handled by trained staff and processed in suitably equipped laboratories.
 
@@ -1188,14 +1053,17 @@ Vaccine administrators should counsel vaccinees to continue to protect themselve
 - Safe sex
 - Avoid contact with bats and non-human primates or blood, fluids and raw meat prepared from these animals (bushmeat) or meat from an unknown source.
 
-Instructions on the handling of the vaccine before administration
-
-<div style=\"page-break-after: always\"></div>
+## Instructions on the handling of the vaccine before administration
 
 - Ervebo is stored frozen at -80 °C to -60 °C and should be removed from the freezer and thawed in less than 4 hours until no visible ice is present. Do not thaw the vial in a ref rigerator as it is not guaranteed that the vial will thaw in less than 4 hours. The thawed vial should then be gently inverted several times prior to withdrawal with the syringe.
 - After thawing, Ervebo should be used immediately; however, in-use stability data have demonstrated that once thawed, the vaccine can be stored for up to 14 days at 2 °C to 8 °C prior to use. At the end of 14 days, the vaccine should be used or discarded. Upon removal from the freezer, the product should be marked with both the date that it was taken out of the freezer and also a new discard date [in place of the labelled expiry date (EXP)]. Once thawed, the vaccine cannot be re-frozen.
 - Ervebo is a colourless to slightly brownish-yellow liquid. Discard the vaccine if particulates are present.
 - Ervebo should be administered intramuscularly. Do not inject the vaccine intravascularly. No data are available for administration via the subcutaneous or intradermal routes.
 - Ervebo should not be mixed in the same syringe with any other vaccines or medicinal products.
-- Withdraw the entire content of Ervebo from the vial using a sterile needle and syringe. The preferred injection site is the deltoid area of the non-dominant arm or in the higher anterolateral area of the thigh. Cover the injection site with gauze or bandage (e.g. any adhesive bandage or gauze and tape) that provides a physical barrier to protect against direct contact with vesicle fluid. The bandage may be removed when there is no visible fluid leakage.
+- Withdraw the entire content of Ervebo from the vial using a sterile needle and syringe. The preferred injection site is the deltoid area of the non-dominant arm or in the higher anterolateral area of the thigh. Cover the injection site with gauze or bandage (e.g. any adhesive bandage or
+
+<div style=\"page-break-after: always\"></div>
+
+gauze and tape) that provides a physical barrier to protect against direct contact with vesicle fluid. The bandage may be removed when there is no visible fluid leakage.
+
 - Any unused vaccine or waste material should be disposed of in compliance with the institutional guidelines for genetically modif ied organisms or biohazardous waste, as appropriate. If breakage/spillage were to occur, disinfectants such as aldehydes, alcohols and detergents are proven to reduce viral inf ection potential after only a few minutes. If f easible, the waste liquid from eye washes should be collected and decontaminated before discarding into the drain.

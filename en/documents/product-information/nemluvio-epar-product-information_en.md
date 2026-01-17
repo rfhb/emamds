@@ -1,20 +1,20 @@
 ---
-document_datetime: 2025-11-10 12:34:22
-document_pages: 46
+document_datetime: 2026-01-14 11:07:12
+document_pages: 48
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/nemluvio-epar-product-information_en.pdf
 document_name: nemluvio-epar-product-information_en.pdf
 version: success
-processing_time: 15.6600032
-conversion_datetime: 2025-12-14 20:40:34.000328
+processing_time: 11.6820606
+conversion_datetime: 2026-01-17 23:19:58.099936
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.64.1
-  docling-core: 2.55.0
+  docling-serve: 1.10.0
+  docling-jobkit: 1.8.1
+  docling: 2.68.0
+  docling-core: 2.59.0
   docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-parse: 4.7.3
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.1-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
 ---
 ## ANNEX I
 
@@ -192,27 +192,21 @@ The most common adverse reactions in atopic dermatitis and prurigo nodularis are
 
 ## Tabulated list of adverse reactions
 
-Table 1 includes all adverse reactions observed in clinical studies presented by system organ class and frequency, using the following categories: very common (≥ 1/10); common (≥ 1/100 to &lt; 1/10); uncommon (≥ 1/1,000 to &lt; 1/100); rare (≥ 1/10,000 to &lt; 1/1,000); very rare (&lt; 1/10,000). Within each frequency grouping, adverse reactions are presented in order of decreasing seriousness.
+Table 1 includes all adverse reactions observed in clinical studies presented by system organ class and frequency, using the following categories: very common (≥ 1/10); common (≥ 1/100 to &lt; 1/10); uncommon (≥ 1/1,000 to &lt; 1/100); rare (≥ 1/10,000 to &lt; 1/1,000); very rare (&lt; 1/10 ,000). Within each frequency grouping, adverse reactions are presented in order of decreasing seriousness.
 
 <div style=\"page-break-after: always\"></div>
 
 Table 1: List of adverse reactions
 
-| MedDRA System Organ Class                            | Frequency   | Adverse reactions                                                                                                                  |
-|------------------------------------------------------|-------------|------------------------------------------------------------------------------------------------------------------------------------|
-| Infections and infestations                          | Common      | Superficial fungal infections* #                                                                                                   |
-| Blood and lymphatic system disorders                 | Uncommon    | Eosinophilia †                                                                                                                     |
-| Immune system disorders                              | Common      | Type I hypersensitivity (incl. urticaria † and angioedema*)                                                                        |
-| Nervous system disorders                             | Common      | Headache* (incl. tension headache)                                                                                                 |
-| Respiratory, thoracic and mediastinal disorders      | Common      | Worsening of asthma* (incl. asthma, wheezing, peak expiratory flow rate decreased)                                                 |
-| Skin and subcutaneous tissue disorders               | Common      | Atopic dermatitis*, Eczema*, Eczema nummular*                                                                                      |
-| General disorders and administration site conditions | Common      | Injection site reactions (incl. erythema, pruritus, haematoma † , pain † , irritation † , bruising*, and injection site oedema † ) |
-
-† Occurred in atopic dermatitis studies
-
-*Occurred in prurigo nodularis studies
-
-# Superficial fungal infections include: body tinea, tinea pedis, onychomycosis, fungal infection, tinea versicolor, tinea cruris, fungal skin infection and fungal foot infection
+| MedDRA System Organ Class                            | Frequency       | Adverse reactions                                                                                                                  |
+|------------------------------------------------------|-----------------|------------------------------------------------------------------------------------------------------------------------------------|
+| Infections and infestations                          | Common          | Superficial fungal infections* #                                                                                                   |
+| Blood and lymphatic system disorders                 | Uncommon        | Eosinophilia †                                                                                                                     |
+| Immune system disorders                              | Common          | Type I hypersensitivity (incl. urticaria † and angioedema*)                                                                        |
+| Nervous system disorders                             | Common          | Headache* (incl. tension headache)                                                                                                 |
+| Respiratory, thoracic and mediastinal disorders      | Common          | Worsening of asthma* (incl. asthma, wheezing, peak expiratory flow rate decreased)                                                 |
+| Skin and subcutaneous tissue disorders               | Common Uncommon | Atopic dermatitis* Eczema* Eczema nummular* Bullous pemphigoid §                                                                   |
+| General disorders and administration site conditions | Common          | Injection site reactions (incl. erythema, pruritus, haematoma † , pain † , irritation † , bruising*, and injection site oedema † ) |
 
 ## Description of selected adverse reactions
 
@@ -282,7 +276,7 @@ Anti-drug antibodies (ADA) were very commonly detected. No evidence of ADA impac
 
 ## Adults and adolescents with atopic dermatitis
 
-The efficacy and safety of nemolizumab with concomitant topical background therapy was evaluated in two randomised, double-blind, placebo-controlled pivotal studies (ARCADIA 1 and ARCADIA 2) that enrolled a total of 1728 subjects 12 years of age and older with moderate-to-severe atopic dermatitis not adequately controlled by topical treatments. Disease severity was defined by an Investigator's Global Assessment (IGA) score of 3 (moderate) and 4 (severe) in the overall assessment of atopic dermatitis, an Ecz ema Area and Severity Index (EASI) score of ≥ 16, a minimum body surface area (BSA) involvement of ≥ 10%, and a Peak Pruritus Numeric Rating Scale (PP NRS) score of ≥ 4.
+The efficacy and safety of nemolizumab with concomitant topical background therapy was evaluated in two randomised, double-blind, placebo-controlled pivotal studies (ARCADIA 1 and ARCADIA 2) that enrolled a total of 1728 subjects 12 years of age and older with moderate-to-severe atopic dermatitis not adequately controlled by topical treatments. Disease severity was defined by an Investigator's Global Assessment (IGA) score of 3 (moderate) and 4 (severe) in the overall assessment of atopic dermatitis, an Eczema Area and Severity Index (EASI) score of ≥ 16, a minimum body surface area (BSA) involvement of ≥ 10%, and a Peak Pruritus Numeric Rating Scale (PP NRS) score of ≥ 4.
 
 Subjects in the studies received initial subcutaneous injections of either nemolizumab 60 mg, followed by 30 mg injections every 4 weeks (Q4W), or matching placebo. Concomitant low and/ or medium potency TCS and/or TCI were administered both in nemolizumab and placebo groups for at least 14 days prior to baseline and continued during the study. Based on disease activity, these concomitant therapies could be tapered and/or discontinued at investigator discretion.
 
@@ -293,11 +287,15 @@ After 16 weeks, subjects achieving either EASI-75 or IGA success continued into 
 Both ARCADIA 1 and ARCADIA 2 assessed the primary endpoints of:
 
 - Proportion of subjects with an IGA success (defined as an IGA of 0 [clear] or 1 [almost clear] and a ≥ 2 -point reduction from baseline) at Week 16
-- Proportion of subjects with EASI75 (≥ 75% improvement in EASI from baseline) at Week 16
+- Proportion of subjects with EASI75 (≥ 75% improvement in EASI f rom baseline) at Week 16
 
-Key secondary endpoints included PP NRS improvement ≥4 from baseline at Weeks 1, 2, 4 and 16, PP NRS &lt; 2 at Week 4 and Week 16, Sleep Disturbance Numeric Rating Scale (SD NRS) improvement ≥ 4 from baseline at Week 16, subjects with both EASI-75 and PP NRS improvement ≥ 4 from baseline at Week 16, and subjects with both IGA success and PP NRS improvement ≥ 4 from baseline at Week 16.
+Key secondary endpoints included PP NRS improvement ≥4 from baseline at Weeks 1, 2, 4 and 16, PP NRS &lt; 2 at Week 4 and Week 16, Sleep Disturbance Numeric Rating Scale (SD NRS) improvement ≥ 4 from baseline at Week 16, subjects with both EASI-75 and PP NRS
 
 <div style=\"page-break-after: always\"></div>
+
+(%)
+
+Proportion of subjects improvement ≥ 4 from baseline at Week 16, and subjects with both IGA success and PP NRS improvement ≥ 4 from baseline at Week 16.
 
 ## Baseline characteristics
 
@@ -305,7 +303,7 @@ In these studies, at baseline, 51.0% of subjects were male, 79.9% were White, an
 
 ## Clinical response
 
-## ARCADIA 1 and ARCADIA 2 - Adults and Adolescents - induction period, Week 0 to Week 16
+ARCADIA 1 and ARCADIA 2 - Adults and Adolescents - induction period, Week 0 to Week 16
 
 Nemolizumab was statistically significantly superior to placebo with respect to skin-related coprimary endpoints IGA success and EASI-75 over 16 weeks (Table 2). Results for both co-primary endpoints were consistent in the severe pruritus population (baseline PP NRS ≥ 7).
 
@@ -318,23 +316,65 @@ Table  2  -  Efficacy  Results  of  nemolizumab  (30  mg  Q4W)  with  concomitan
 | %of subjects with IGA 0 or 1 a                                | 35.6 #                 | 24.6               | 37.7 #                 | 26.0               |
 | %of subjects with EASI-75 a                                   | 43.5*                  | 29.0               | 42.1 #                 | 30.2               |
 
-a Subjects who received rescue treatment or with missing data were considered as non-responders
-
-*p-value &lt; 0.0001, # p-value &lt; 0.001
-
 Strata adjusted p-value is based on the CMH test stratified by PP NRS and IGA score at baseline
 
 Figure 1 - Proportion of subjects with IGA success and EASI-75 from baseline to Week 16 in ARCADIA 1 and ARCADIA 2 Figure 1a.  IGA Success Figure 1b. EASI-75
 
-Weeks
+NEMLUVIO Q4W, ARCADIA 1 (N=620)
+
+Placebo,ARCADIA 1 (N=321)
+
+NEMLUVIO Q4W,ARCADIA2 (N=522)
+
+O
+
+Placebo, ARCADIA 2 (N=265)
+
+BL
+
+4
 
 <!-- image -->
 
+8
+
 Weeks
 
-Significant improvement in pruritus for subjects treated with nemolizumab in ARCADIA 1 and ARCADIA 2 compared to placebo based on PP NRS improvements ≥ 4 and PP NRS percent change from baseline was observed starting at Week 1 and was maintained up to Week 16 (Table 3 and Figure 2). Results were consistent in the severe pruritus population (baseline PP NRS ≥ 7).
+Significant improvement in pruritus for subjects treated with nemolizumab in ARCADIA 1 and ARCADIA 2 compared to placebo based on PP NRS improvements ≥ 4 and PP NRS percent change
+
+80
+
+70
+
+60
+
+50
+
+40
+
+30
+
+20
+
+10
+
+0
+
+12
+
+37.7%
+
+35.6%
+
+26.0%
+
+24.6 %
+
+16
 
 <div style=\"page-break-after: always\"></div>
+
+from baseline was observed starting at Week 1 and was maintained up to Week 16 (Table 3 and Figure 2). Results were consistent in the severe pruritus population (baseline PP NRS ≥ 7).
 
 Table 3 Efficacy results on itch for nemolizumab with concomitant TCS/TCI in ARCADIA 1 and ARCADIA 2 up to Week 16
 
@@ -352,10 +392,6 @@ Table 3 Efficacy results on itch for nemolizumab with concomitant TCS/TCI in ARC
 | At Week 16                                                      | 30.6*                                      | 11.2                                       | 28.4*                                      | 11.3                                       |
 | Mean change from baseline (%)                                   | Mean change from baseline (%)              | Mean change from baseline (%)              | Mean change from baseline (%)              | Mean change from baseline (%)              |
 | At Week 16                                                      | -56.1*                                     | -30.6                                      | -55.6*                                     | -30.3                                      |
-
-a Subjects who received rescue treatment or with missing data were considered as non-responders
-
-*p-value &lt; 0.0001,  § p-value &lt; 0.05
 
 Strata adjusted p-value is based on the CMH test stratified by PP NRS and IGA score at baseline
 
@@ -377,10 +413,6 @@ Table 4 Efficacy on Sleep Disturbance for nemolizumab with concomitant TCS/TCI i
 | Number of subjects randomised and dosed (Baseline PP NRS ≥ 4) a | 620                   | 321               | 522                    | 265                |
 | %of subjects with SD NRS improvement ≥ 4 a                      | 37.9*                 | 19.9              | 33.5*                  | 16.2               |
 | Mean change from baseline (%)                                   | -64.6                 | -38.1             | -59.7                  | -35.4              |
-
-a Subjects who received rescue treatment or with missing data were considered as non-responders
-
-*p-value &lt;0.0001
 
 Strata adjusted p-value is based on the CMH test stratified by PP NRS and IGA score at baseline
 
@@ -417,14 +449,12 @@ Table 6 -Maintenance Period Pooled Efficacy Results for nemolizumab with concomi
 | Week 48 Strata-adjusted proportion difference (%) Strata-adjusted 95% CI | 61.5 11.8 (1.3, 22.3)             | 60.4 10.7 (0.3, 21.0)             | 49.7                                                  |
 | %of subjects with EASI-75 a (95% CI)                                     |                                   |                                   |                                                       |
 | Week 16 (maintenance/baseline)                                           | 96.4                              | 96.4                              | 92.9                                                  |
-| Week 48                                                                  | 76.3                              | 75.7 11.8                         | 63.9                                                  |
-| Strata-adjusted proportion difference (%) Strata-adjusted 95% CI         | 12.4 (2.7, 22.0)                  | (2.1, 21.5)                       |                                                       |
-
-a Subjects who received rescue treatment or with missing data were considered as non-responders
+| Week 48 Strata-adjusted proportion difference                            | 76.3                              | 75.7 11.8                         | 63.9                                                  |
+| (%) Strata-adjusted 95% CI                                               | 12.4 (2.7, 22.0)                  | (2.1, 21.5)                       |                                                       |
 
 ## Clinical efficacy and safety in adults with prurigo nodularis
 
-The efficacy and safety of nemolizumab as monotherapy was evaluated in two randomised, doubleblind, placebo-controlled pivotal studies (OLYMPIA 1 and OLYMPIA 2) that enrolled a total of 560 subjects 18 years of age and older with moderate-to-severe prurigo nodularis.  Disease severity was defined using an Investigator's Global Assessment (IGA) in the overall assessment of prurigo nodularis nodules on a severity scale of 0 to 4. Subjects enrolled in these two studies had an IGA score ≥ 3, severe pruritus as defined by a weekly average of the pe ak pruritus numeric rating scale (PPNRS) score of ≥ 7 on a scale of 0 to 10, and greater than or equal to 20 nodular lesions. OLYMPIA 1 and OLYMPIA 2 assessed the effect of nemolizumab monotherapy on the signs and symptoms of prurigo nodularis, targeting improvement in skin lesions and pruritus over 16 weeks. OLYMPIA 1 had a 24-week treatment period and OLYMPIA 2 a 16-week treatment period.
+The efficacy and safety of nemolizumab as monotherapy was evaluated in two randomised, doubleblind, placebo-controlled pivotal studies (OLYMPIA 1 and OLYMPIA 2) that enrolled a total of 560 subjects 18 years of age and older with moderate-to-severe prurigo nodularis.  Disease severity was defined using an Investigator's Global Assessment (IGA) in the overall assessment of prurigo nodularis nodules on a severity scale of 0 to 4. Subjects enrolled in these two studies had an IGA score ≥ 3, severe pruritus as defined by a weekly average of the peak pruritus numeric rating scale (PPNRS) score of ≥ 7 on a scale of 0 to 10, and greater than or equal to 20 nodular lesions. OLYMPIA 1 and OLYMPIA 2 assessed the effect of nemolizumab monotherapy on the signs and symptoms of prurigo nodularis, targeting improvement in skin lesions and pruritus over 16 weeks. OLYMPIA 1 had a 24-week treatment period and OLYMPIA 2 a 16-week treatment period.
 
 In the nemolizumab treatment group, subjects weighing less than 90 kg received subcutaneous injections of nemolizumab 60 mg (2 injections of 30 mg) at Week 0, followed by 30 mg injections every 4 weeks, and subjects weighing 90 kg or more received subcutaneous injections of nemolizumab 60 mg (2 injections of 30 mg) at Week 0 and every 4 weeks.
 
@@ -758,7 +788,7 @@ Nemluvio can be stored at room temperature (up to 25°C) for a single period of 
 
 Date removed from the refrigerator: \\_\\_/\\_\\_/\\_\\_
 
-## 10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
+10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
@@ -799,7 +829,7 @@ PC SN NN
 
 ## PARTICULARS TO APPEAR ON THE OUTER PACKAGING
 
-## OUTER CARTON OF MULTIPACK (WITH BLUE BOX)
+OUTER CARTON OF MULTIPACK (WITH BLUE BOX)
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
@@ -974,15 +1004,7 @@ Date removed from the refrigerator: \\_\\_/\\_\\_/\\_\\_
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
-Galderma International
-
-La Defense 4, Tour Europlaza
-
-20 Avenue Andre Prothin
-
-92927 Paris La Defense Cedex
-
-France
+Galderma International La Defense 4, Tour Europlaza 20 Avenue Andre Prothin 92927 Paris La Defense Cedex France
 
 ## 12. MARKETING AUTHORISATION NUMBER(S)
 
@@ -1246,6 +1268,7 @@ Nemluvio can cause  allergic (hypersensitivity) reactions.
 ## Uncommon (may affect up to 1 in 100 people)
 
 - Increased number of white blood cells, which can be seen in blood test (eosinophilia)
+- Blisters or fluid-filled spots on skin (signs of a skin condition called bullous pemphigoid)
 
 ## Reporting of side effects
 
@@ -1259,7 +1282,9 @@ Keep this medicine out of the sight and reach of children.
 
 Do not use this medicine after the expiry date which is stated on the label and carton after EXP. The expiry date refers to the last day of that month.
 
-Store in a refrigerator (2°C to 8°C). Do not freeze. Store in the original carton in order to protect from light.
+Store in a refrigerator (2°C to 8°C). Do not freeze.
+
+Store in the original carton in order to protect from light.
 
 If necessary, Nemluvio may be kept at room temperature (up to 25°C) for a single period of up to 90 days. Write the date the pen was removed from the refrigerator in the space provided on the outer carton. Do not use Nemluvio if the expiry date has passed or 90 days after the date it was removed from the refrigerator (whichever is earlier).
 
@@ -1310,7 +1335,7 @@ Tél/Tel : +31 183691919
 
 e-mail : info.benelux@galderma.com
 
-България / Česká republika/ Eesti/ Ελλάδα/ France/ Hrvatska/ Κύπρος/ Latvija/ Lietuva/ Magyarország/ Malta/ România/ Slovenija/ Slovenská republika
+## България / Česká republika/ Eesti/ Ελλάδα / France/ Hrvatska/ Κύπρος / Latvija/ Lietuva/ Magyarország/ Malta/ România/ Slovenija/ Slovenská republika
 
 Galderma International
 
@@ -1320,7 +1345,9 @@ Te л ./Tel/Tél/ Τηλ
 
 e-mail: info.france@galderma.com
 
-## Danmark/ Norge/ Ísland/ Suomi/Finland/ Sverige
+## Danmark/ Norge/ Ísland/ Suomi/Finland/
+
+## Sverige
 
 Galderma Nordic AB
 
@@ -1618,3 +1645,31 @@ Do not rub the injection site.
 <!-- image -->
 
 <!-- image -->
+
+<div style=\"page-break-after: always\"></div>
+
+## ANNEX IV
+
+## SCIENTIFIC CONCLUSIONS AND GROUNDS FOR THE VARIATION TO THE TERMS OF THE MARKETING AUTHORISATION(S)
+
+<div style=\"page-break-after: always\"></div>
+
+## Scientific conclusions
+
+Taking into account the PRAC Assessment Report on the PSUR(s) for nemolizumab, the scientific conclusions of PRAC are as follows:
+
+In view of available data on Bullous Pemphigoid (BP) from the literature, spontaneous reports and clinical trial(s), including
+
+- at least 12 possible cases of BP with close temporal relationship, confirmed BP diagnosis and recovery (with treatment) following withdrawal;
+- and 2 probable literature cases with a close temporal relationship, confirmed BP diagnosis and recovery (with treatment) following withdrawal, without reoccurrence of BP after withdrawal, supportive anti-BP 180 data and excluding the influence of most confounding factors;
+- although the potential mechanism of the AE remains to be elucidated;
+
+the PRAC considers a causal relationship between nemolizumab and Bullous Pemphigoid is at least a reasonable possibility. The PRAC concluded that the product information of products containing nemolizumab should be amended accordingly.
+
+Having reviewed the PRAC recommendation, the CHMP agrees with the PRAC overall conclusions and grounds for recommendation.
+
+## Grounds for the variation to the terms of the Marketing Authorisation(s)
+
+On the basis of the scientific conclusions for nemolizumab the CHMP is of the opinion that the benefit-risk balance of the medicinal product(s) containing nemolizumab is unchanged subject to the proposed changes to the product information
+
+The CHMP recommends that the terms of the marketing authorisation(s) should be varied.

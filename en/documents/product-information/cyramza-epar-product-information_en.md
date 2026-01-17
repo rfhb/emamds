@@ -1,20 +1,20 @@
 ---
-document_datetime: 2025-06-18 11:37:01
+document_datetime: 2026-01-16 14:54:43
 document_pages: 56
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/cyramza-epar-product-information_en.pdf
 document_name: cyramza-epar-product-information_en.pdf
 version: success
-processing_time: 15.9387604
-conversion_datetime: 2025-12-19 05:10:55.531183
+processing_time: 18.3058856
+conversion_datetime: 2026-01-17 13:03:53.290693
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.64.1
-  docling-core: 2.55.0
+  docling-serve: 1.10.0
+  docling-jobkit: 1.8.1
+  docling: 2.68.0
+  docling-core: 2.59.0
   docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-parse: 4.7.3
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.1-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
 ---
 ## ANNEX I
 
@@ -93,10 +93,6 @@ Table 1: Criteria to be met prior to each paclitaxel administration
 | Bilirubin                                                        | < 1.5 x upper limit of normal value (ULN)                                  |
 | Aspartate aminotransferase (AST) /Alanine aminotransferase (ALT) | No liver metastases: ALT/AST ≤ 3 x ULN Liver metastases: ALT/AST ≤ 5 x ULN |
 
-Cyramza as a single agent
-
-The recommended dose of ramucirumab as a single agent is 8 mg/kg every 2 weeks.
-
 ## Colorectal cancer
 
 The recommended dose of ramucirumab is 8 mg/kg every 2 weeks administered by intravenous infusion, prior to FOLFIRI administration. Prior to chemotherapy, patients should have a complete blood count. Criteria to be met prior to FOLFIRI are provided in Table 2.
@@ -170,17 +166,7 @@ Ramucirumab therapy should be temporarily discontinued for at least 4 weeks prio
 
 ## Permanent discontinuation
 
-Ramucirumab therapy should be permanently discontinued in the event of:
-
-Severe arterial thromboembolic events (see section 4.4).
-
-Gastrointestinal perforations (see section 4.4).
-
-Severe bleeding: NCI CTCAE Grade 3 or 4 bleeding (see section 4.4).
-
-Spontaneous development of fistula (see section 4.4).
-
-Hepatic encephalopathy or hepatorenal syndrome (see section 4.4).
+Ramucirumab therapy should be permanently discontinued in the event of: Severe arterial thromboembolic events (see section 4.4). Gastrointestinal perforations (see section 4.4). Severe bleeding: NCI CTCAE Grade 3 or 4 bleeding (see section 4.4). Spontaneous development of fistula (see section 4.4). Hepatic encephalopathy or hepatorenal syndrome (see section 4.4).
 
 ## Paclitaxel dose adjustments
 
@@ -200,8 +186,6 @@ Table 4: FOLFIRI dose reductions
 | Irinotecan            | 180 mg/m 2                    | 150 mg/m 2                    | 120 mg/m 2                    | 100 mg/m 2                    |
 | 5-FU bolus            | 400 mg/m 2                    | 200 mg/m 2                    | 0 mg/m 2                      | 0 mg/m 2                      |
 | 5-FU infusion         | 2,400 mg/m 2 over 46-48 hours | 2,000 mg/m 2 over 46-48 hours | 1,600 mg/m 2 over 46-48 hours | 1,200 mg/m 2 over 46-48 hours |
-
-a 5-FU = 5-fluorouracil.
 
 Table 5: Dose modification of FOLFIRI components due to specific adverse drug reactions (ADRs)
 
@@ -367,7 +351,7 @@ No drug-drug interactions were observed between ramucirumab and paclitaxel. The 
 
 ## 4.6 Fertility, pregnancy and lactation
 
-Women of childbearing potential/Contraception in females
+## Women of childbearing potential/Contraception in females
 
 Women of childbearing potential should be advised to avoid becoming pregnant while on Cyramza and should be informed of the potential hazard to the pregnancy and foetus. Women of childbearing potential should use effective contraception during and up to 3 months after the last dose of ramucirumab treatment.
 
@@ -411,9 +395,7 @@ Tables 6 and 7 below list the adverse drug reactions (ADRs) from placebo control
 
 The following convention has been used for classification of frequency for ADR tables:
 
-Very common ( ≥ 1/10) Common ( ≥ 1/100 to &lt; 1/10) Uncommon ( ≥ 1/1 000 to &lt; 1/100) Rare ( ≥ 1/10 000 to &lt; 1/1 000) Very rare (&lt; 1/10 000)
-
-Not known (cannot be estimated from the available data)
+Very common ( ≥ 1/10) Common ( ≥ 1/100 to &lt; 1/10) Uncommon ( ≥ 1/1 000 to &lt; 1/100) Rare ( ≥ 1/10 000 to &lt; 1/1 000) Very rare (&lt; 1/10 000) Not known (cannot be estimated from the available data)
 
 <div style=\"page-break-after: always\"></div>
 
@@ -432,12 +414,6 @@ Table 6: ADRs reported in patients treated with ramucirumab as monotherapy in ph
 | Skin and subcutaneous tissue disorders              |                              | Rash a                                              |                                |
 | Renal and urinary disorders                         | Proteinuria a,f              |                                                     |                                |
 | General disorders and administration site disorders | Peripheral oedema            | Infusion-related reactions a                        |                                |
-
-a Terms represent a group of events that describe a medical concept rather than a single event or preferred term.
-
-b Includes: hypokalaemia and blood potassium decreased.
-
-c Based on study REACH-2 and REACH (single-agent ramucirumab in HCC). Includes hepatic encephalopathy and hepatic coma.
 
 - d Includes: blood pressure increased and hypertension.
 - e Includes: abdominal pain, abdominal pain lower, abdominal pain upper, and hepatic pain.
@@ -461,12 +437,6 @@ Table 7: ADRs reported in patients treated with ramucirumab in combination with 
 | Skin and subcutaneous tissue disorders              | Alopecia j                                                 | Palmar-plantar erthyrodysaesthesia syndrome g                                              |                 |
 | Renal and urinary disorders                         | Proteinuria a,h                                            |                                                                                            |                 |
 | General disorders and administration site disorders | Fatigue a,i Mucosal inflammation d Peripheral oedema       |                                                                                            |                 |
-
-a Terms represent a group of events that describe a medical concept rather than a single event or preferred term.
-
-b Based on study RAINBOW (ramucirumab plus paclitaxel).
-
-c Based on study RAINBOW (ramucirumab plus paclitaxel). Includes: leukopenia and white blood cell count decreased.
 
 - d Based on study REVEL (ramucirumab plus docetaxel).
 - e Includes: blood pressure increased, hypertension, and hypertensive cardiomyopathy.
@@ -501,8 +471,6 @@ Table 8: ADRs associated with ramucirumab reported in clinical trials and throug
 | Cardiac disorders                                                        |                |            |                                              | Cardiac failure a                |
 | Vascular disorders                                                       |                |            |                                              | Aneurysms and artery dissections |
 | Respiratory, thoracic and mediastinal disorders                          | Dysphonia      |            |                                              |                                  |
-
-a In the post-marketing setting, cardiac failure has been observed for ramucirumab mostly in combination with paclitaxel. See section 4.4.
 
 ## Reporting of suspected adverse reactions
 
@@ -785,7 +753,7 @@ The efficacy and safety of ramucirumab in combination with gemcitabine and docet
 
 ## 5.2 Pharmacokinetic properties
 
-Following the dose regimen of 8 mg/kg every 2 weeks, the geometric means of ramucirumab Cmin prior to administration of the fourth and seventh dose of ramucirumab given as a single agent in advanced gastric cancer patients' serum were 49.5 μg/ml (range of 6.3 -228 μg/ml) and 74.4 μg/ml (range of 13.8-234 μg/ml) , respectively. In HCC patients' serum the geometric means of ramucirumab Cmin prior to administration of the second, fourth and seventh dose of ramucirumab were 23.5 μg/ml (range of 2.9-76.5 μg/ml), 44.1 μg/ml (range of 4.2 -137 μg/ml) and 60.2 μg/ml (range of 18.3-123 μg/ml) , respectively.
+Following the dose regimen of 8 mg/kg every 2 weeks, the geometric means of ramucirumab Cmin prior to administration of the fourth and seventh dose of ramucirumab given as a single agent in advanced gastric cancer patients' serum were 49.5 μg/ml (range of 6.3 -228 μg/ml) and 74.4 μg/ml (range of 13.8-234 μg/ml) , respectively. In HCC patients' serum the geometric means of ramucirumab Cmin prior to administration of the second, fourth and seventh dose of ramucirumab were 23.5 μg/ml (range of 2.9-76.5 μg/ml), 4 4.1 μg/ml (range of 4.2 -137 μg/ml) and 60.2 μg/ml (range of 18.3-123 μg/ml) , respectively.
 
 Following the dose regimen of 8 mg/kg ramucirumab every 2 weeks in combination with FOLFIRI, the geometric means of ramucirumab Cmin were 46.3 μg/ml (range of 7.7-119 μg/ml) and 65.1 μg/ml (range of 14.5-205 μg/ml) prior to administration of the third and fifth dose, respectively, in serum from patients with mCRC.
 
@@ -943,9 +911,11 @@ Administer via infusion pump. A separate infusion line with a protein sparing 0.
 
 Any unused medicinal product or waste material should be disposed of in accordance with local requirements.
 
-## 7. MARKETING AUTHORISATION HOLDER
+7.
 
-Eli Lilly Nederland B.V. Papendorpseweg 83 3528 BJ Utrecht The Netherlands
+MARKETING AUTHORISATION HOLDER
+
+Eli Lilly Nederland B.V. Orteliuslaan 1000 3528 BD Utrecht The Netherlands
 
 ## 8. MARKETING AUTHORISATION NUMBER(S)
 
@@ -1091,9 +1061,9 @@ Keep the vial in the outer carton in order to protect from light.
 
 Eli Lilly Nederland B.V.
 
-Papendorpseweg 83
+Orteliuslaan 1000
 
-3528 BJ Utrecht
+3528 BD Utrecht
 
 The Netherlands
 
@@ -1175,7 +1145,7 @@ Excipients: histidine, histidine monohydrochloride, sodium chloride, glycine, po
 
 ## 4. PHARMACEUTICAL FORM AND CONTENTS
 
-## Concentrate for solution for infusion
+Concentrate for solution for infusion
 
 500 mg/50 ml
 
@@ -1215,9 +1185,7 @@ Keep the vial in the outer carton in order to protect from light.
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
-Eli Lilly Nederland B.V. Papendorpseweg 83 3528 BJ Utrecht
-
-The Netherlands
+Eli Lilly Nederland B.V. Orteliuslaan 1000 3528 BD Utrecht The Netherlands
 
 ## 12. MARKETING AUTHORISATION NUMBER(S)
 
@@ -1575,7 +1543,7 @@ Not all pack sizes may be marketed.
 
 ## Marketing Authorisation Holder
 
-Eli Lilly Nederland B.V. Papendorpseweg 83 3528 BJ Utrecht The Netherlands
+Eli Lilly Nederland B.V. Orteliuslaan 1000 3528 BD Utrecht The Netherlands
 
 ## Manufacturer
 
@@ -1607,11 +1575,15 @@ Eli Lilly Benelux S.A./N.V. Tél/Tel: + 32-(0)2 548 84 84
 
 ## Česká republika
 
-ELI LILLY ČR, s.r.o. Tel: + 420 234 664 111
+ELI LILLY ČR, s.r.o.
+
+Tel: + 420 234 664 111
 
 ## Danmark
 
-Eli Lilly Danmark A/S Tlf: +45 45 26 60 00
+Eli Lilly Danmark A/S
+
+Tlf.: +45 45 26 60 00
 
 ## Deutschland
 
@@ -1619,13 +1591,11 @@ Lilly Deutschland GmbH Tel. + 49-(0) 6172 273 2222
 
 ## Eesti
 
-Eli Lilly Nederland B.V.
-
-Tel: +372 6 817 280
+Eli Lilly Nederland B.V. Tel: +372 6 817 280
 
 ## Ελλάδα
 
-ΦΑΡΜΑΣΕΡΒ -ΛΙΛΛΥ Α.Ε.Β.Ε. Τηλ: +30 210 629 4600
+ΦΑΡΜΑΣΕΡΒ -ΛΙΛΛΥ Α.Ε.Β.Ε. Τηλ : +30 210 629 4600
 
 ## España
 
@@ -1649,15 +1619,23 @@ Icepharma hf. Sími + 354 540 8000
 
 ## Italia
 
-Eli Lilly Italia S.p.A. Tel: + 39- 055 42571
+Eli Lilly Italia S.p.A.
+
+Tel: + 39- 055 42571
 
 ## Κύπρος
 
-Phadisco Ltd Τηλ: +357 22 715000
+Phadisco Ltd
+
+Τηλ: +357 22 715000
 
 ## Latvija
 
-Eli Lilly (Suisse) S.A Pārstāvniecība Latvijā Tel: + 371 67364000
+Eli Lilly (Suisse) S.A Pārstāvniecība Latvijā
+
+Tel:
+
++ 371 67364000
 
 ## Magyarország
 
@@ -1673,7 +1651,9 @@ Eli Lilly Nederland B.V. Tel: + 31-(0) 30 60 25 800
 
 ## Norge
 
-Eli Lilly Norge A.S. Tlf: + 47 22 88 18 00
+Eli Lilly Norge A.S.
+
+Tlf: + 47 22 88 18 00
 
 ## Österreich
 
@@ -1706,10 +1686,6 @@ Oy Eli Lilly Finland Ab Puh/Tel: + 358-(0) 9 85 45 250
 ## Sverige
 
 Eli Lilly Sweden AB Tel: + 46-(0) 8 7378800
-
-## United Kingdom (Northern Ireland)
-
-Eli Lilly and Company (Ireland) Limited Tel: + 353-(0) 1 661 4377
 
 <div style=\"page-break-after: always\"></div>
 

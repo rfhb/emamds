@@ -1,18 +1,18 @@
 ---
-document_datetime: 2025-12-29 11:46:19
+document_datetime: 2026-01-16 16:35:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/ervebo.html
 document_name: ervebo.html
 version: success
-processing_time: 0.1114961
-conversion_datetime: 2025-12-31 02:16:17.84388
+processing_time: 0.1206462
+conversion_datetime: 2026-01-17 13:38:07.820446
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.66.0
-  docling-core: 2.57.0
+  docling-serve: 1.10.0
+  docling-jobkit: 1.8.1
+  docling: 2.68.0
+  docling-core: 2.59.0
   docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-parse: 4.7.3
   python: cpython-313 (3.13.11)
   plaform: macOS-26.2-arm64-arm-64bit-Mach-O
 ---
@@ -25,8 +25,6 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 Ebola Zaire vaccine (rVSV∆G-ZEBOV-GP, live) Medicine Human Authorised
-
-On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -119,7 +117,7 @@ English (EN) (149.82 KB - PDF)
 
 [View](/en/documents/overview/ervebo-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-798)
+[Other languages (22)](#file-language-dropdown-34)
 
 български (BG) (158.88 KB - PDF)
 
@@ -387,11 +385,11 @@ svenska (SV) (145.11 KB - PDF)
 
 Ervebo : EPAR - Risk-management-plan summary
 
-English (EN) (99.58 KB - PDF)
+English (EN) (1012.53 KB - PDF)
 
 **First published:** 12/12/2019
 
-**Last updated:** 22/08/2023
+**Last updated:** 16/01/2026
 
 [View](/en/documents/rmp-summary/ervebo-epar-risk-management-plan-summary_en.pdf)
 
@@ -399,17 +397,17 @@ English (EN) (99.58 KB - PDF)
 
 Ervebo : EPAR - Product information
 
-English (EN) (341.41 KB - PDF)
+English (EN) (325.98 KB - PDF)
 
 **First published:** 12/12/2019
 
-**Last updated:** 06/11/2025
+**Last updated:** 16/01/2026
 
 [View](/en/documents/product-information/ervebo-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-231)
+[Other languages (24)](#file-language-dropdown-836)
 
-български (BG) (312.15 KB - PDF)
+български (BG) (293.94 KB - PDF)
 
 **First published:**
 
@@ -417,11 +415,11 @@ English (EN) (341.41 KB - PDF)
 
 **Last updated:**
 
-06/11/2025
+16/01/2026
 
 [View](/bg/documents/product-information/ervebo-epar-product-information_bg.pdf)
 
-español (ES) (381.91 KB - PDF)
+español (ES) (368.84 KB - PDF)
 
 **First published:**
 
@@ -429,11 +427,11 @@ español (ES) (381.91 KB - PDF)
 
 **Last updated:**
 
-06/11/2025
+16/01/2026
 
 [View](/es/documents/product-information/ervebo-epar-product-information_es.pdf)
 
-čeština (CS) (366.01 KB - PDF)
+čeština (CS) (351.04 KB - PDF)
 
 **First published:**
 
@@ -441,11 +439,11 @@ español (ES) (381.91 KB - PDF)
 
 **Last updated:**
 
-06/11/2025
+16/01/2026
 
 [View](/cs/documents/product-information/ervebo-epar-product-information_cs.pdf)
 
-dansk (DA) (360.19 KB - PDF)
+dansk (DA) (344.8 KB - PDF)
 
 **First published:**
 
@@ -453,11 +451,11 @@ dansk (DA) (360.19 KB - PDF)
 
 **Last updated:**
 
-06/11/2025
+16/01/2026
 
 [View](/da/documents/product-information/ervebo-epar-product-information_da.pdf)
 
-Deutsch (DE) (388.08 KB - PDF)
+Deutsch (DE) (375.79 KB - PDF)
 
 **First published:**
 
@@ -465,11 +463,11 @@ Deutsch (DE) (388.08 KB - PDF)
 
 **Last updated:**
 
-06/11/2025
+16/01/2026
 
 [View](/de/documents/product-information/ervebo-epar-product-information_de.pdf)
 
-eesti keel (ET) (361.12 KB - PDF)
+eesti keel (ET) (346.35 KB - PDF)
 
 **First published:**
 
@@ -477,11 +475,11 @@ eesti keel (ET) (361.12 KB - PDF)
 
 **Last updated:**
 
-06/11/2025
+16/01/2026
 
 [View](/et/documents/product-information/ervebo-epar-product-information_et.pdf)
 
-ελληνικά (EL) (337.97 KB - PDF)
+ελληνικά (EL) (319.48 KB - PDF)
 
 **First published:**
 
@@ -489,11 +487,11 @@ eesti keel (ET) (361.12 KB - PDF)
 
 **Last updated:**
 
-06/11/2025
+16/01/2026
 
 [View](/el/documents/product-information/ervebo-epar-product-information_el.pdf)
 
-français (FR) (368.36 KB - PDF)
+français (FR) (354.23 KB - PDF)
 
 **First published:**
 
@@ -501,11 +499,11 @@ français (FR) (368.36 KB - PDF)
 
 **Last updated:**
 
-06/11/2025
+16/01/2026
 
 [View](/fr/documents/product-information/ervebo-epar-product-information_fr.pdf)
 
-hrvatski (HR) (355.92 KB - PDF)
+hrvatski (HR) (343.42 KB - PDF)
 
 **First published:**
 
@@ -513,11 +511,11 @@ hrvatski (HR) (355.92 KB - PDF)
 
 **Last updated:**
 
-06/11/2025
+16/01/2026
 
 [View](/hr/documents/product-information/ervebo-epar-product-information_hr.pdf)
 
-íslenska (IS) (353.66 KB - PDF)
+íslenska (IS) (339.54 KB - PDF)
 
 **First published:**
 
@@ -525,11 +523,11 @@ hrvatski (HR) (355.92 KB - PDF)
 
 **Last updated:**
 
-06/11/2025
+16/01/2026
 
 [View](/is/documents/product-information/ervebo-epar-product-information_is.pdf)
 
-italiano (IT) (371.63 KB - PDF)
+italiano (IT) (355.63 KB - PDF)
 
 **First published:**
 
@@ -537,11 +535,11 @@ italiano (IT) (371.63 KB - PDF)
 
 **Last updated:**
 
-06/11/2025
+16/01/2026
 
 [View](/it/documents/product-information/ervebo-epar-product-information_it.pdf)
 
-latviešu valoda (LV) (329.81 KB - PDF)
+latviešu valoda (LV) (315.06 KB - PDF)
 
 **First published:**
 
@@ -549,11 +547,11 @@ latviešu valoda (LV) (329.81 KB - PDF)
 
 **Last updated:**
 
-06/11/2025
+16/01/2026
 
 [View](/lv/documents/product-information/ervebo-epar-product-information_lv.pdf)
 
-lietuvių kalba (LT) (366 KB - PDF)
+lietuvių kalba (LT) (352.95 KB - PDF)
 
 **First published:**
 
@@ -561,11 +559,11 @@ lietuvių kalba (LT) (366 KB - PDF)
 
 **Last updated:**
 
-06/11/2025
+16/01/2026
 
 [View](/lt/documents/product-information/ervebo-epar-product-information_lt.pdf)
 
-magyar (HU) (405.93 KB - PDF)
+magyar (HU) (392.56 KB - PDF)
 
 **First published:**
 
@@ -573,11 +571,11 @@ magyar (HU) (405.93 KB - PDF)
 
 **Last updated:**
 
-06/11/2025
+16/01/2026
 
 [View](/hu/documents/product-information/ervebo-epar-product-information_hu.pdf)
 
-Malti (MT) (387.67 KB - PDF)
+Malti (MT) (373.41 KB - PDF)
 
 **First published:**
 
@@ -585,11 +583,11 @@ Malti (MT) (387.67 KB - PDF)
 
 **Last updated:**
 
-06/11/2025
+16/01/2026
 
 [View](/mt/documents/product-information/ervebo-epar-product-information_mt.pdf)
 
-Nederlands (NL) (367.62 KB - PDF)
+Nederlands (NL) (354.92 KB - PDF)
 
 **First published:**
 
@@ -597,11 +595,11 @@ Nederlands (NL) (367.62 KB - PDF)
 
 **Last updated:**
 
-06/11/2025
+16/01/2026
 
 [View](/nl/documents/product-information/ervebo-epar-product-information_nl.pdf)
 
-norsk (NO) (332.29 KB - PDF)
+norsk (NO) (316.11 KB - PDF)
 
 **First published:**
 
@@ -609,11 +607,11 @@ norsk (NO) (332.29 KB - PDF)
 
 **Last updated:**
 
-06/11/2025
+16/01/2026
 
 [View](/no/documents/product-information/ervebo-epar-product-information_no.pdf)
 
-polski (PL) (375.4 KB - PDF)
+polski (PL) (361.67 KB - PDF)
 
 **First published:**
 
@@ -621,11 +619,11 @@ polski (PL) (375.4 KB - PDF)
 
 **Last updated:**
 
-06/11/2025
+16/01/2026
 
 [View](/pl/documents/product-information/ervebo-epar-product-information_pl.pdf)
 
-português (PT) (363.29 KB - PDF)
+português (PT) (354.74 KB - PDF)
 
 **First published:**
 
@@ -633,11 +631,11 @@ português (PT) (363.29 KB - PDF)
 
 **Last updated:**
 
-06/11/2025
+16/01/2026
 
 [View](/pt/documents/product-information/ervebo-epar-product-information_pt.pdf)
 
-română (RO) (367.15 KB - PDF)
+română (RO) (353.32 KB - PDF)
 
 **First published:**
 
@@ -645,11 +643,11 @@ română (RO) (367.15 KB - PDF)
 
 **Last updated:**
 
-06/11/2025
+16/01/2026
 
 [View](/ro/documents/product-information/ervebo-epar-product-information_ro.pdf)
 
-slovenčina (SK) (373.6 KB - PDF)
+slovenčina (SK) (361.28 KB - PDF)
 
 **First published:**
 
@@ -657,11 +655,11 @@ slovenčina (SK) (373.6 KB - PDF)
 
 **Last updated:**
 
-06/11/2025
+16/01/2026
 
 [View](/sk/documents/product-information/ervebo-epar-product-information_sk.pdf)
 
-slovenščina (SL) (344.83 KB - PDF)
+slovenščina (SL) (327.21 KB - PDF)
 
 **First published:**
 
@@ -669,11 +667,11 @@ slovenščina (SL) (344.83 KB - PDF)
 
 **Last updated:**
 
-06/11/2025
+16/01/2026
 
 [View](/sl/documents/product-information/ervebo-epar-product-information_sl.pdf)
 
-Suomi (FI) (368.59 KB - PDF)
+Suomi (FI) (355.5 KB - PDF)
 
 **First published:**
 
@@ -681,11 +679,11 @@ Suomi (FI) (368.59 KB - PDF)
 
 **Last updated:**
 
-06/11/2025
+16/01/2026
 
 [View](/fi/documents/product-information/ervebo-epar-product-information_fi.pdf)
 
-svenska (SV) (350.9 KB - PDF)
+svenska (SV) (336.24 KB - PDF)
 
 **First published:**
 
@@ -693,11 +691,11 @@ svenska (SV) (350.9 KB - PDF)
 
 **Last updated:**
 
-06/11/2025
+16/01/2026
 
 [View](/sv/documents/product-information/ervebo-epar-product-information_sv.pdf)
 
-**Latest procedure affecting product information:** VR/0000305091 31/10/2025
+**Latest procedure affecting product information:** VR/0000280470 27/11/2025
 
 icon globe
 
@@ -721,7 +719,7 @@ English (EN) (60.95 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/ervebo-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-737)
+[Other languages (24)](#file-language-dropdown-796)
 
 български (BG) (66.63 KB - PDF)
 
@@ -943,7 +941,7 @@ Merck Sharp &amp; Dohme B.V.
 
 Waarderweg 39
 
-Opinion adopted 17/10/2019 Marketing authorisation issued 11/11/2019 Revision 12
+Opinion adopted 17/10/2019 Marketing authorisation issued 11/11/2019 Revision 13
 
 ## Assessment history
 
@@ -955,11 +953,11 @@ Collapse section
 
 Ervebo : EPAR - Procedural steps taken and scientific information after authorisation
 
-English (EN) (115.8 KB - PDF)
+English (EN) (140.2 KB - PDF)
 
 **First published:** 19/09/2025
 
-**Last updated:** 06/11/2025
+**Last updated:** 16/01/2026
 
 [View](/en/documents/procedural-steps-after/ervebo-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf)
 
@@ -972,6 +970,18 @@ English (EN) (155.76 KB - PDF)
 **Last updated:** 19/09/2025
 
 [View](/en/documents/procedural-steps-after/ervebo-epar-procedural-steps-taken-scientific-information-after-authorisation-archive_en.pdf)
+
+Ervebo-VR-0000280470 : EPAR - Assessment report - Variation
+
+Adopted
+
+Reference Number: EMADOC-1700519818-2258789
+
+English (EN) (3.29 MB - PDF)
+
+**First published:** 16/01/2026
+
+[View](/en/documents/variation-report/ervebo-vr-0000280470-epar-assessment-report-variation_en.pdf)
 
 Ervebo-H-C-004554-II-0025 : EPAR - Assessment report - Variation
 
@@ -1040,7 +1050,7 @@ English (EN) (104.21 KB - PDF)
 - [Medicines](https://www.ema.europa.eu/en/search?f%5B0%5D=ema_search_topics%3A61)
 - [Vaccines](https://www.ema.europa.eu/en/search?f%5B0%5D=ema_search_topics%3A76)
 
-**This page was last updated on** 06/11/2025
+**This page was last updated on** 16/01/2026
 
 ## Share this page
 

@@ -1,18 +1,18 @@
 ---
-document_datetime: 2025-12-29 07:01:35
+document_datetime: 2026-01-15 15:42:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/pemetrexed-pfizer.html
 document_name: pemetrexed-pfizer.html
 version: success
-processing_time: 0.3087616
-conversion_datetime: 2025-12-31 02:40:17.978445
+processing_time: 0.1405101
+conversion_datetime: 2026-01-17 13:23:18.422459
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.66.0
-  docling-core: 2.57.0
+  docling-serve: 1.10.0
+  docling-jobkit: 1.8.1
+  docling: 2.68.0
+  docling-core: 2.59.0
   docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-parse: 4.7.3
   python: cpython-313 (3.13.11)
   plaform: macOS-26.2-arm64-arm-64bit-Mach-O
 ---
@@ -25,8 +25,6 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 pemetrexed Medicine Human Authorised
-
-On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -107,7 +105,7 @@ English (EN) (166.58 KB - PDF)
 
 [View](/en/documents/overview/pemetrexed-hospira-epar-summary-public_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-100)
+[Other languages (22)](#file-language-dropdown-34)
 
 български (BG) (182.8 KB - PDF)
 
@@ -389,17 +387,17 @@ English (EN) (50.99 KB - PDF)
 
 Pemetrexed Pfizer : EPAR - Product Information
 
-English (EN) (419.85 KB - PDF)
+English (EN) (683.49 KB - PDF)
 
 **First published:** 30/05/2017
 
-**Last updated:** 17/09/2025
+**Last updated:** 15/01/2026
 
 [View](/en/documents/product-information/pemetrexed-pfizer-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-174)
+[Other languages (24)](#file-language-dropdown-665)
 
-български (BG) (802.46 KB - PDF)
+български (BG) (698.4 KB - PDF)
 
 **First published:**
 
@@ -407,11 +405,11 @@ English (EN) (419.85 KB - PDF)
 
 **Last updated:**
 
-17/09/2025
+15/01/2026
 
 [View](/bg/documents/product-information/pemetrexed-pfizer-epar-product-information_bg.pdf)
 
-español (ES) (807.77 KB - PDF)
+español (ES) (789.58 KB - PDF)
 
 **First published:**
 
@@ -419,11 +417,11 @@ español (ES) (807.77 KB - PDF)
 
 **Last updated:**
 
-17/09/2025
+15/01/2026
 
 [View](/es/documents/product-information/pemetrexed-pfizer-epar-product-information_es.pdf)
 
-čeština (CS) (1.03 MB - PDF)
+čeština (CS) (972.69 KB - PDF)
 
 **First published:**
 
@@ -431,11 +429,11 @@ español (ES) (807.77 KB - PDF)
 
 **Last updated:**
 
-17/09/2025
+15/01/2026
 
 [View](/cs/documents/product-information/pemetrexed-pfizer-epar-product-information_cs.pdf)
 
-dansk (DA) (519.76 KB - PDF)
+dansk (DA) (500.95 KB - PDF)
 
 **First published:**
 
@@ -443,11 +441,11 @@ dansk (DA) (519.76 KB - PDF)
 
 **Last updated:**
 
-17/09/2025
+15/01/2026
 
 [View](/da/documents/product-information/pemetrexed-pfizer-epar-product-information_da.pdf)
 
-Deutsch (DE) (745.34 KB - PDF)
+Deutsch (DE) (739.16 KB - PDF)
 
 **First published:**
 
@@ -455,11 +453,11 @@ Deutsch (DE) (745.34 KB - PDF)
 
 **Last updated:**
 
-17/09/2025
+15/01/2026
 
 [View](/de/documents/product-information/pemetrexed-pfizer-epar-product-information_de.pdf)
 
-eesti keel (ET) (428.82 KB - PDF)
+eesti keel (ET) (412.9 KB - PDF)
 
 **First published:**
 
@@ -467,11 +465,11 @@ eesti keel (ET) (428.82 KB - PDF)
 
 **Last updated:**
 
-17/09/2025
+15/01/2026
 
 [View](/et/documents/product-information/pemetrexed-pfizer-epar-product-information_et.pdf)
 
-ελληνικά (EL) (477.55 KB - PDF)
+ελληνικά (EL) (469.08 KB - PDF)
 
 **First published:**
 
@@ -479,11 +477,11 @@ eesti keel (ET) (428.82 KB - PDF)
 
 **Last updated:**
 
-17/09/2025
+15/01/2026
 
 [View](/el/documents/product-information/pemetrexed-pfizer-epar-product-information_el.pdf)
 
-français (FR) (500.99 KB - PDF)
+français (FR) (476.51 KB - PDF)
 
 **First published:**
 
@@ -491,11 +489,11 @@ français (FR) (500.99 KB - PDF)
 
 **Last updated:**
 
-17/09/2025
+15/01/2026
 
 [View](/fr/documents/product-information/pemetrexed-pfizer-epar-product-information_fr.pdf)
 
-hrvatski (HR) (527.91 KB - PDF)
+hrvatski (HR) (500.16 KB - PDF)
 
 **First published:**
 
@@ -503,11 +501,11 @@ hrvatski (HR) (527.91 KB - PDF)
 
 **Last updated:**
 
-17/09/2025
+15/01/2026
 
 [View](/hr/documents/product-information/pemetrexed-pfizer-epar-product-information_hr.pdf)
 
-íslenska (IS) (502.89 KB - PDF)
+íslenska (IS) (475.52 KB - PDF)
 
 **First published:**
 
@@ -515,11 +513,11 @@ hrvatski (HR) (527.91 KB - PDF)
 
 **Last updated:**
 
-17/09/2025
+15/01/2026
 
 [View](/is/documents/product-information/pemetrexed-pfizer-epar-product-information_is.pdf)
 
-italiano (IT) (440.4 KB - PDF)
+italiano (IT) (423.53 KB - PDF)
 
 **First published:**
 
@@ -527,11 +525,11 @@ italiano (IT) (440.4 KB - PDF)
 
 **Last updated:**
 
-17/09/2025
+15/01/2026
 
 [View](/it/documents/product-information/pemetrexed-pfizer-epar-product-information_it.pdf)
 
-latviešu valoda (LV) (804.16 KB - PDF)
+latviešu valoda (LV) (730.76 KB - PDF)
 
 **First published:**
 
@@ -539,11 +537,11 @@ latviešu valoda (LV) (804.16 KB - PDF)
 
 **Last updated:**
 
-17/09/2025
+15/01/2026
 
 [View](/lv/documents/product-information/pemetrexed-pfizer-epar-product-information_lv.pdf)
 
-lietuvių kalba (LT) (453.46 KB - PDF)
+lietuvių kalba (LT) (437.81 KB - PDF)
 
 **First published:**
 
@@ -551,11 +549,11 @@ lietuvių kalba (LT) (453.46 KB - PDF)
 
 **Last updated:**
 
-17/09/2025
+15/01/2026
 
 [View](/lt/documents/product-information/pemetrexed-pfizer-epar-product-information_lt.pdf)
 
-magyar (HU) (641.48 KB - PDF)
+magyar (HU) (619.46 KB - PDF)
 
 **First published:**
 
@@ -563,11 +561,11 @@ magyar (HU) (641.48 KB - PDF)
 
 **Last updated:**
 
-17/09/2025
+15/01/2026
 
 [View](/hu/documents/product-information/pemetrexed-pfizer-epar-product-information_hu.pdf)
 
-Malti (MT) (531.59 KB - PDF)
+Malti (MT) (514.43 KB - PDF)
 
 **First published:**
 
@@ -575,11 +573,11 @@ Malti (MT) (531.59 KB - PDF)
 
 **Last updated:**
 
-17/09/2025
+15/01/2026
 
 [View](/mt/documents/product-information/pemetrexed-pfizer-epar-product-information_mt.pdf)
 
-Nederlands (NL) (563.55 KB - PDF)
+Nederlands (NL) (538.02 KB - PDF)
 
 **First published:**
 
@@ -587,11 +585,11 @@ Nederlands (NL) (563.55 KB - PDF)
 
 **Last updated:**
 
-17/09/2025
+15/01/2026
 
 [View](/nl/documents/product-information/pemetrexed-pfizer-epar-product-information_nl.pdf)
 
-norsk (NO) (449.81 KB - PDF)
+norsk (NO) (432.99 KB - PDF)
 
 **First published:**
 
@@ -599,11 +597,11 @@ norsk (NO) (449.81 KB - PDF)
 
 **Last updated:**
 
-17/09/2025
+15/01/2026
 
 [View](/no/documents/product-information/pemetrexed-pfizer-epar-product-information_no.pdf)
 
-polski (PL) (456.83 KB - PDF)
+polski (PL) (444.41 KB - PDF)
 
 **First published:**
 
@@ -611,11 +609,11 @@ polski (PL) (456.83 KB - PDF)
 
 **Last updated:**
 
-17/09/2025
+15/01/2026
 
 [View](/pl/documents/product-information/pemetrexed-pfizer-epar-product-information_pl.pdf)
 
-português (PT) (1.25 MB - PDF)
+português (PT) (840.74 KB - PDF)
 
 **First published:**
 
@@ -623,11 +621,11 @@ português (PT) (1.25 MB - PDF)
 
 **Last updated:**
 
-17/09/2025
+15/01/2026
 
 [View](/pt/documents/product-information/pemetrexed-pfizer-epar-product-information_pt.pdf)
 
-română (RO) (557.49 KB - PDF)
+română (RO) (535.56 KB - PDF)
 
 **First published:**
 
@@ -635,11 +633,11 @@ română (RO) (557.49 KB - PDF)
 
 **Last updated:**
 
-17/09/2025
+15/01/2026
 
 [View](/ro/documents/product-information/pemetrexed-pfizer-epar-product-information_ro.pdf)
 
-slovenčina (SK) (558.12 KB - PDF)
+slovenčina (SK) (543.17 KB - PDF)
 
 **First published:**
 
@@ -647,11 +645,11 @@ slovenčina (SK) (558.12 KB - PDF)
 
 **Last updated:**
 
-17/09/2025
+15/01/2026
 
 [View](/sk/documents/product-information/pemetrexed-pfizer-epar-product-information_sk.pdf)
 
-slovenščina (SL) (752 KB - PDF)
+slovenščina (SL) (745.01 KB - PDF)
 
 **First published:**
 
@@ -659,11 +657,11 @@ slovenščina (SL) (752 KB - PDF)
 
 **Last updated:**
 
-17/09/2025
+15/01/2026
 
 [View](/sl/documents/product-information/pemetrexed-pfizer-epar-product-information_sl.pdf)
 
-Suomi (FI) (493.46 KB - PDF)
+Suomi (FI) (464.17 KB - PDF)
 
 **First published:**
 
@@ -671,11 +669,11 @@ Suomi (FI) (493.46 KB - PDF)
 
 **Last updated:**
 
-17/09/2025
+15/01/2026
 
 [View](/fi/documents/product-information/pemetrexed-pfizer-epar-product-information_fi.pdf)
 
-svenska (SV) (817.51 KB - PDF)
+svenska (SV) (796.13 KB - PDF)
 
 **First published:**
 
@@ -683,11 +681,11 @@ svenska (SV) (817.51 KB - PDF)
 
 **Last updated:**
 
-17/09/2025
+15/01/2026
 
 [View](/sv/documents/product-information/pemetrexed-pfizer-epar-product-information_sv.pdf)
 
-**Latest procedure affecting product information:** VR/0000278463 11/09/2025
+**Latest procedure affecting product information:** N/0000323208 15/01/2026
 
 icon globe
 
@@ -713,7 +711,7 @@ English (EN) (32.05 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/pemetrexed-pfizer-previously-pemetrexed-hospira-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-926)
+[Other languages (24)](#file-language-dropdown-609)
 
 български (BG) (34 KB - PDF)
 
@@ -1049,7 +1047,7 @@ Pfizer Europe MA EEIG
 
 Boulevard de la Plaine 17
 
-Opinion adopted 23/09/2015 Marketing authorisation issued 19/11/2015 Revision 18
+Opinion adopted 23/09/2015 Marketing authorisation issued 19/11/2015 Revision 19
 
 ## Assessment history
 
@@ -1061,11 +1059,11 @@ Collapse section
 
 Pemetrexed Pfizer (previously Pemetrexed Hospira) : EPAR - Procedural steps taken and scientific information after authorisation
 
-English (EN) (236.37 KB - PDF)
+English (EN) (146.43 KB - PDF)
 
 **First published:** 25/04/2025
 
-**Last updated:** 17/09/2025
+**Last updated:** 15/01/2026
 
 [View](/en/documents/procedural-steps-after/pemetrexed-pfizer-previously-pemetrexed-hospira-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf)
 
@@ -1125,7 +1123,7 @@ English (EN) (218.9 KB - DOCX)
 
 [View](/en/documents/product-information-tracked-changes/pemetrexed-pfizer-previously-pemetrexed-hospira-epar-product-information-tracked-changes_en.docx)
 
-[Other languages (24)](#file-language-dropdown-334)
+[Other languages (24)](#file-language-dropdown-756)
 
 български (BG) (785.02 KB - DOCX)
 
@@ -1324,7 +1322,7 @@ svenska (SV) (455.34 KB - DOCX)
 - [Generic and hybrid medicines](https://www.ema.europa.eu/en/search?f%5B0%5D=ema_search_topics%3A54)
 - [Medicines](https://www.ema.europa.eu/en/search?f%5B0%5D=ema_search_topics%3A61)
 
-**This page was last updated on** 17/09/2025
+**This page was last updated on** 15/01/2026
 
 ## Share this page
 

@@ -1,18 +1,18 @@
 ---
-document_datetime: 2025-12-29 12:18:58
+document_datetime: 2026-01-15 15:14:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/rhokiinsa.html
 document_name: rhokiinsa.html
 version: success
-processing_time: 0.106353
-conversion_datetime: 2025-12-31 04:31:28.634097
+processing_time: 0.1130831
+conversion_datetime: 2026-01-17 23:18:25.312747
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.66.0
-  docling-core: 2.57.0
+  docling-serve: 1.10.0
+  docling-jobkit: 1.8.1
+  docling: 2.68.0
+  docling-core: 2.59.0
   docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-parse: 4.7.3
   python: cpython-313 (3.13.11)
   plaform: macOS-26.2-arm64-arm-64bit-Mach-O
 ---
@@ -25,8 +25,6 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 netarsudil Medicine Human Authorised
-
-On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -106,7 +104,7 @@ English (EN) (128.33 KB - PDF)
 
 [View](/en/documents/overview/rhokiinsa-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-811)
+[Other languages (22)](#file-language-dropdown-764)
 
 български (BG) (102.47 KB - PDF)
 
@@ -286,11 +284,11 @@ svenska (SV) (75.51 KB - PDF)
 
 Rhokiinsa : EPAR - Risk management plan
 
-English (EN) (631.29 KB - PDF)
+English (EN) (629.91 KB - PDF)
 
 **First published:** 03/12/2019
 
-**Last updated:** 19/09/2024
+**Last updated:** 15/01/2026
 
 [View](/en/documents/rmp/rhokiinsa-epar-risk-management-plan_en.pdf)
 
@@ -306,7 +304,7 @@ English (EN) (375.36 KB - PDF)
 
 [View](/en/documents/product-information/rhokiinsa-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-458)
+[Other languages (24)](#file-language-dropdown-978)
 
 български (BG) (422.24 KB - PDF)
 
@@ -620,7 +618,7 @@ English (EN) (19.55 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/rhokiinsa-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-558)
+[Other languages (24)](#file-language-dropdown-824)
 
 български (BG) (41.49 KB - PDF)
 
@@ -845,7 +843,7 @@ Santen Oy
 
 Niittyhaankatu 20
 
-Opinion adopted 19/09/2019 Marketing authorisation issued 19/11/2019 Revision 6
+Opinion adopted 19/09/2019 Marketing authorisation issued 19/11/2019 Revision 7
 
 ## Assessment history
 
@@ -857,11 +855,11 @@ Collapse section
 
 Rhokiinsa : EPAR - Procedural steps taken and scientific information after authorisation
 
-English (EN) (151.13 KB - PDF)
+English (EN) (147.22 KB - PDF)
 
 **First published:** 23/07/2025
 
-**Last updated:** 24/10/2025
+**Last updated:** 15/01/2026
 
 [View](/en/documents/procedural-steps-after/rhokiinsa-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf)
 
@@ -909,7 +907,7 @@ English (EN) (68.98 KB - PDF)
 
 - [Medicines](https://www.ema.europa.eu/en/search?f%5B0%5D=ema_search_topics%3A61)
 
-**This page was last updated on** 24/10/2025
+**This page was last updated on** 15/01/2026
 
 ## Share this page
 

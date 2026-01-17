@@ -1,18 +1,18 @@
 ---
-document_datetime: 2025-12-29 11:53:55
+document_datetime: 2026-01-14 16:15:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/otezla.html
 document_name: otezla.html
 version: success
-processing_time: 0.1208105
-conversion_datetime: 2025-12-31 04:23:17.661497
+processing_time: 0.1120958
+conversion_datetime: 2026-01-17 13:01:09.802168
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.66.0
-  docling-core: 2.57.0
+  docling-serve: 1.10.0
+  docling-jobkit: 1.8.1
+  docling: 2.68.0
+  docling-core: 2.59.0
   docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-parse: 4.7.3
   python: cpython-313 (3.13.11)
   plaform: macOS-26.2-arm64-arm-64bit-Mach-O
 ---
@@ -25,8 +25,6 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 apremilast Medicine Human Authorised
-
-On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -133,7 +131,7 @@ English (EN) (143.31 KB - PDF)
 
 [View](/en/documents/overview/otezla-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-21)
+[Other languages (22)](#file-language-dropdown-271)
 
 български (BG) (177.52 KB - PDF)
 
@@ -413,17 +411,17 @@ English (EN) (7.12 MB - PDF)
 
 Otezla : EPAR - Product Information
 
-English (EN) (614.11 KB - PDF)
+English (EN) (666.41 KB - PDF)
 
 **First published:** 16/02/2015
 
-**Last updated:** 22/10/2024
+**Last updated:** 14/01/2026
 
 [View](/en/documents/product-information/otezla-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-288)
+[Other languages (24)](#file-language-dropdown-764)
 
-български (BG) (815.53 KB - PDF)
+български (BG) (810.83 KB - PDF)
 
 **First published:**
 
@@ -431,11 +429,11 @@ English (EN) (614.11 KB - PDF)
 
 **Last updated:**
 
-22/10/2024
+14/01/2026
 
 [View](/bg/documents/product-information/otezla-epar-product-information_bg.pdf)
 
-español (ES) (772.4 KB - PDF)
+español (ES) (761.65 KB - PDF)
 
 **First published:**
 
@@ -443,11 +441,11 @@ español (ES) (772.4 KB - PDF)
 
 **Last updated:**
 
-28/04/2025
+14/01/2026
 
 [View](/es/documents/product-information/otezla-epar-product-information_es.pdf)
 
-čeština (CS) (856.63 KB - PDF)
+čeština (CS) (815.71 KB - PDF)
 
 **First published:**
 
@@ -455,11 +453,11 @@ español (ES) (772.4 KB - PDF)
 
 **Last updated:**
 
-22/10/2024
+14/01/2026
 
 [View](/cs/documents/product-information/otezla-epar-product-information_cs.pdf)
 
-dansk (DA) (735.33 KB - PDF)
+dansk (DA) (775.93 KB - PDF)
 
 **First published:**
 
@@ -467,11 +465,11 @@ dansk (DA) (735.33 KB - PDF)
 
 **Last updated:**
 
-22/10/2024
+14/01/2026
 
 [View](/da/documents/product-information/otezla-epar-product-information_da.pdf)
 
-Deutsch (DE) (842.31 KB - PDF)
+Deutsch (DE) (820.61 KB - PDF)
 
 **First published:**
 
@@ -479,11 +477,11 @@ Deutsch (DE) (842.31 KB - PDF)
 
 **Last updated:**
 
-22/10/2024
+14/01/2026
 
 [View](/de/documents/product-information/otezla-epar-product-information_de.pdf)
 
-eesti keel (ET) (772.62 KB - PDF)
+eesti keel (ET) (772.96 KB - PDF)
 
 **First published:**
 
@@ -491,11 +489,11 @@ eesti keel (ET) (772.62 KB - PDF)
 
 **Last updated:**
 
-22/10/2024
+14/01/2026
 
 [View](/et/documents/product-information/otezla-epar-product-information_et.pdf)
 
-ελληνικά (EL) (854.83 KB - PDF)
+ελληνικά (EL) (835.88 KB - PDF)
 
 **First published:**
 
@@ -503,11 +501,11 @@ eesti keel (ET) (772.62 KB - PDF)
 
 **Last updated:**
 
-22/10/2024
+14/01/2026
 
 [View](/el/documents/product-information/otezla-epar-product-information_el.pdf)
 
-français (FR) (821.72 KB - PDF)
+français (FR) (815.43 KB - PDF)
 
 **First published:**
 
@@ -515,11 +513,11 @@ français (FR) (821.72 KB - PDF)
 
 **Last updated:**
 
-22/10/2024
+14/01/2026
 
 [View](/fr/documents/product-information/otezla-epar-product-information_fr.pdf)
 
-hrvatski (HR) (802.87 KB - PDF)
+hrvatski (HR) (781.3 KB - PDF)
 
 **First published:**
 
@@ -527,11 +525,11 @@ hrvatski (HR) (802.87 KB - PDF)
 
 **Last updated:**
 
-22/10/2024
+14/01/2026
 
 [View](/hr/documents/product-information/otezla-epar-product-information_hr.pdf)
 
-íslenska (IS) (710.55 KB - PDF)
+íslenska (IS) (757.08 KB - PDF)
 
 **First published:**
 
@@ -539,11 +537,11 @@ hrvatski (HR) (802.87 KB - PDF)
 
 **Last updated:**
 
-22/10/2024
+14/01/2026
 
 [View](/is/documents/product-information/otezla-epar-product-information_is.pdf)
 
-italiano (IT) (803.54 KB - PDF)
+italiano (IT) (790.52 KB - PDF)
 
 **First published:**
 
@@ -551,11 +549,11 @@ italiano (IT) (803.54 KB - PDF)
 
 **Last updated:**
 
-06/11/2024
+14/01/2026
 
 [View](/it/documents/product-information/otezla-epar-product-information_it.pdf)
 
-latviešu valoda (LV) (813.28 KB - PDF)
+latviešu valoda (LV) (797.1 KB - PDF)
 
 **First published:**
 
@@ -563,11 +561,11 @@ latviešu valoda (LV) (813.28 KB - PDF)
 
 **Last updated:**
 
-22/10/2024
+14/01/2026
 
 [View](/lv/documents/product-information/otezla-epar-product-information_lv.pdf)
 
-lietuvių kalba (LT) (800.8 KB - PDF)
+lietuvių kalba (LT) (792.54 KB - PDF)
 
 **First published:**
 
@@ -575,11 +573,11 @@ lietuvių kalba (LT) (800.8 KB - PDF)
 
 **Last updated:**
 
-22/10/2024
+14/01/2026
 
 [View](/lt/documents/product-information/otezla-epar-product-information_lt.pdf)
 
-magyar (HU) (837.69 KB - PDF)
+magyar (HU) (810.86 KB - PDF)
 
 **First published:**
 
@@ -587,11 +585,11 @@ magyar (HU) (837.69 KB - PDF)
 
 **Last updated:**
 
-22/10/2024
+14/01/2026
 
 [View](/hu/documents/product-information/otezla-epar-product-information_hu.pdf)
 
-Malti (MT) (893.9 KB - PDF)
+Malti (MT) (861.65 KB - PDF)
 
 **First published:**
 
@@ -599,11 +597,11 @@ Malti (MT) (893.9 KB - PDF)
 
 **Last updated:**
 
-22/10/2024
+14/01/2026
 
 [View](/mt/documents/product-information/otezla-epar-product-information_mt.pdf)
 
-Nederlands (NL) (793.09 KB - PDF)
+Nederlands (NL) (787.49 KB - PDF)
 
 **First published:**
 
@@ -611,11 +609,11 @@ Nederlands (NL) (793.09 KB - PDF)
 
 **Last updated:**
 
-06/11/2024
+14/01/2026
 
 [View](/nl/documents/product-information/otezla-epar-product-information_nl.pdf)
 
-norsk (NO) (721.58 KB - PDF)
+norsk (NO) (749.57 KB - PDF)
 
 **First published:**
 
@@ -623,11 +621,11 @@ norsk (NO) (721.58 KB - PDF)
 
 **Last updated:**
 
-22/10/2024
+14/01/2026
 
 [View](/no/documents/product-information/otezla-epar-product-information_no.pdf)
 
-polski (PL) (876.02 KB - PDF)
+polski (PL) (868.35 KB - PDF)
 
 **First published:**
 
@@ -635,11 +633,11 @@ polski (PL) (876.02 KB - PDF)
 
 **Last updated:**
 
-22/10/2024
+14/01/2026
 
 [View](/pl/documents/product-information/otezla-epar-product-information_pl.pdf)
 
-português (PT) (781.85 KB - PDF)
+português (PT) (765.67 KB - PDF)
 
 **First published:**
 
@@ -647,11 +645,11 @@ português (PT) (781.85 KB - PDF)
 
 **Last updated:**
 
-22/10/2024
+14/01/2026
 
 [View](/pt/documents/product-information/otezla-epar-product-information_pt.pdf)
 
-română (RO) (809.25 KB - PDF)
+română (RO) (794.47 KB - PDF)
 
 **First published:**
 
@@ -659,11 +657,11 @@ română (RO) (809.25 KB - PDF)
 
 **Last updated:**
 
-06/11/2024
+14/01/2026
 
 [View](/ro/documents/product-information/otezla-epar-product-information_ro.pdf)
 
-slovenčina (SK) (879.53 KB - PDF)
+slovenčina (SK) (827.31 KB - PDF)
 
 **First published:**
 
@@ -671,11 +669,11 @@ slovenčina (SK) (879.53 KB - PDF)
 
 **Last updated:**
 
-22/10/2024
+14/01/2026
 
 [View](/sk/documents/product-information/otezla-epar-product-information_sk.pdf)
 
-slovenščina (SL) (826.18 KB - PDF)
+slovenščina (SL) (805.12 KB - PDF)
 
 **First published:**
 
@@ -683,11 +681,11 @@ slovenščina (SL) (826.18 KB - PDF)
 
 **Last updated:**
 
-22/10/2024
+14/01/2026
 
 [View](/sl/documents/product-information/otezla-epar-product-information_sl.pdf)
 
-Suomi (FI) (744.88 KB - PDF)
+Suomi (FI) (755.92 KB - PDF)
 
 **First published:**
 
@@ -695,11 +693,11 @@ Suomi (FI) (744.88 KB - PDF)
 
 **Last updated:**
 
-22/10/2024
+14/01/2026
 
 [View](/fi/documents/product-information/otezla-epar-product-information_fi.pdf)
 
-svenska (SV) (732.36 KB - PDF)
+svenska (SV) (763.4 KB - PDF)
 
 **First published:**
 
@@ -707,11 +705,11 @@ svenska (SV) (732.36 KB - PDF)
 
 **Last updated:**
 
-22/10/2024
+14/01/2026
 
 [View](/sv/documents/product-information/otezla-epar-product-information_sv.pdf)
 
-**Latest procedure affecting product information:** II/0044/G 21/10/2024
+**Latest procedure affecting product information:** PSUR/0000282235 13/01/2026
 
 icon globe
 
@@ -737,7 +735,7 @@ English (EN) (65.39 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/otezla-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-262)
+[Other languages (24)](#file-language-dropdown-554)
 
 български (BG) (54.56 KB - PDF)
 
@@ -1053,7 +1051,7 @@ Amgen Europe B.V.
 
 Minervum 7061
 
-Marketing authorisation issued 15/01/2015 Revision 24
+Marketing authorisation issued 15/01/2015 Revision 25
 
 ## Assessment history
 
@@ -1065,13 +1063,21 @@ Collapse section
 
 Otezla : EPAR - Procedural steps taken and scientific information after authorisation
 
+English (EN) (157.8 KB - PDF)
+
+**First published:** 14/01/2026
+
+[View](/en/documents/procedural-steps-after/otezla-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf)
+
+Otezla : EPAR - Procedural steps taken and scientific information after authorisation (archive)
+
 English (EN) (216.79 KB - PDF)
 
 **First published:** 08/02/2016
 
-**Last updated:** 22/10/2024
+**Last updated:** 14/01/2026
 
-[View](/en/documents/procedural-steps-after/otezla-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf)
+[View](/en/documents/procedural-steps-after/otezla-epar-procedural-steps-taken-scientific-information-after-authorisation-archive_en.pdf)
 
 Otezla-H-C-003746-II-0044-G : EPAR - Assessment report
 
@@ -1200,7 +1206,7 @@ English (EN) (77.29 KB - PDF)
 
 - [Medicines](https://www.ema.europa.eu/en/search?f%5B0%5D=ema_search_topics%3A61)
 
-**This page was last updated on** 16/07/2025
+**This page was last updated on** 14/01/2026
 
 ## Share this page
 

@@ -1,20 +1,20 @@
 ---
-document_datetime: 2025-07-30 15:01:08
-document_pages: 99
+document_datetime: 2026-01-15 10:13:44
+document_pages: 98
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/vyvgart-epar-product-information_en.pdf
 document_name: vyvgart-epar-product-information_en.pdf
 version: success
-processing_time: 25.0232687
-conversion_datetime: 2025-12-19 05:03:47.40352
+processing_time: 30.0492908
+conversion_datetime: 2026-01-17 13:00:42.134759
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.64.1
-  docling-core: 2.55.0
+  docling-serve: 1.10.0
+  docling-jobkit: 1.8.1
+  docling: 2.68.0
+  docling-core: 2.59.0
   docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-parse: 4.7.3
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.1-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
 ---
 ## ANNEX I
 
@@ -38,7 +38,7 @@ Efgartigimod alfa is a human recombinant immunoglobulin G1 (IgG1)-derived Fc fra
 
 ## Excipient(s) with known effect
 
-Each vial contains 67.2 mg sodium.
+Each vial contains 33.2 mg sodium.
 
 For the full list of excipients, see section 6.1.
 
@@ -46,7 +46,7 @@ For the full list of excipients, see section 6.1.
 
 Concentrate for solution for infusion (sterile concentrate)
 
-Colourless to slightly yellow, clear to slightly opalescent, pH 6.7.
+Colourless to slightly yellow, clear to slightly opalescent, pH 6.
 
 ## 4. CLINICAL PARTICULARS
 
@@ -155,11 +155,11 @@ When non-steroidal immunosuppressants, corticosteroids and anticholinesterase th
 
 ## Sodium
 
-This medicinal product contains 67.2 mg sodium per vial, equivalent to 3.4% of the WHO recommended maximum daily intake of 2 g sodium for an adult. This medicinal product will be further prepared for administration with sodium-containing solution (see section 6.6) and this should be considered in relation to the total sodium intake to the patient from all sources per day.
+This medicinal product contains 33.2 mg sodium per vial, equivalent to 1.7% of the WHO recommended maximum daily intake of 2 g sodium for an adult. This medicinal product will be further prepared for administration with sodium-containing solution (see section 6.6) and this should be considered in relation to the total sodium intake to the patient from all sources per day.
 
 ## Polysorbates
 
-This medicinal product contains 4.1 mg of polysorbate 80 in each vial which is equivalent to 0.2 mg/mL. Polysorbates may cause allergic reactions.
+This medicinal product contains 8.2 mg of polysorbate 80 in each vial which is equivalent to 0.4 mg/mL. Polysorbates may cause allergic reactions.
 
 ## 4.5 Interaction with other medicinal products and other forms of interaction
 
@@ -228,10 +228,6 @@ Table 1.  Adverse reactions
 | Musculoskeletal and connective tissue disorders  | Myalgia             | Common               |
 | Injury, poisoning and procedural complications * | Procedural headache | Common               |
 
-* See paragraph 'Description of selected adverse reactions'
-
-a  From spontaneous post-marketing reporting
-
 ## Description of selected adverse reactions
 
 ## Infections
@@ -278,7 +274,7 @@ In this study, patients had to meet the following main criteria at screening:
 
 - Myasthenia Gravis Foundation of America (MGFA) clinical classification class II, III or IV;
 - Patients with either positive or negative serologic tests for antibodies to AChR;
-- MG-Activities of Daily Living (MG-ADL) total score of ≥ 5;
+- MG-Activities of Daily Living (MGADL) total score of ≥ 5;
 - On stable doses of MG therapy prior to screening, that included acetylcholinesterase (AChE) inhibitors, steroids or non-steroidal immunosuppressive therapy (NSIST), either in combination or alone [NSISTs included but were not limited to azathioprine, methotrexate, cyclosporine, tacrolimus, mycophenolate mofetil, and cyclophosphamide];
 - IgG levels of at least 6 g/L.
 
@@ -390,7 +386,7 @@ No studies have been conducted to assess the carcinogenic and genotoxic potentia
 
 ## 6.1 List of excipients
 
-Sodium dihydrogen phosphate, monohydrate Disodium hydrogen phosphate, anhydrous Sodium chloride Arginine hydrochloride Polysorbate 80 (E433) Water for injections
+L-histidine L-histidine hydrochloride monohydrate L-methionine Sodium chloride Sucrose L-arginine hydrochloride Polysorbate 80 (E433) Water for injections
 
 ## 6.2 Incompatibilities
 
@@ -398,15 +394,15 @@ This medicinal product must not be mixed with other medicinal products except th
 
 ## 6.3 Shelf life
 
-## 3 years
+3 years
 
 Chemical and physical in-use stability has been demonstrated for 24 hours at 2 °C to 8 °C. From a microbiological point of view, unless the method of dilution precludes the risks of microbial contamination, the product should be used immediately. If not used immediately, in-use storage times and conditions are the responsibility of the user.
 
 ## 6.4 Special precautions for storage
 
-Store in a refrigerator (2 °C - 8 °C). Do not freeze.
+Store in a refrigerator (2 °C - 8 °C).
 
-Store in the original package in order to protect from light.
+Do not freeze. Store in the original package in order to protect from light.
 
 For storage conditions after dilution of the medicinal product, see section 6.3.
 
@@ -618,7 +614,7 @@ When non-steroidal immunosuppressants, corticosteroids and anticholinesterase th
 
 ## Sodium
 
-This medicinal product contains less than 1 mmol sodium (23 mg) per vial, that is to say essentially 'sodium-free'.
+This medicinal product contains less than 1 mmol sodium (23 mg) per vial, that is to say essentially 'sodium -free'.
 
 <div style=\"page-break-after: always\"></div>
 
@@ -688,18 +684,6 @@ Table 1.  Adverse reactions
 | Musculoskeletal and connective tissue disorders        | Myalgia                            | Common               |
 | General disorders and administration site conditions * | Injection site reactions c, d      | Very common          |
 | Injury, poisoning and procedural complications *       | Procedural headache e              | Common               |
-
-* See paragraph 'Description of selected adverse reactions'
-
-a From spontaneous post-marketing reporting with intravenous route of administration
-
-b From spontaneous post-marketing reporting.
-
-c Subcutaneous administration only.
-
-d (e.g. injection site rash, injection site erythema, injection site pruritus, injection site pain)
-
-e Intravenous administration only.
 
 ## Description of selected adverse reactions
 
@@ -784,7 +768,7 @@ In this study, patients had to meet the following main criteria at screening:
 <div style=\"page-break-after: always\"></div>
 
 - Patients with either positive or negative serologic tests for antibodies to AChR;
-- MG-Activities of Daily Living (MG-ADL) total score of ≥ 5;
+- MG-Activities of Daily Living (MGADL) total score of ≥ 5;
 - On stable doses of MG therapy prior to screening, that included acetylcholinesterase (AChE) inhibitors, steroids or non-steroidal immunosuppressive therapy (NSIST), either in combination or alone [NSISTs included but were not limited to azathioprine, methotrexate, cyclosporine, tacrolimus, mycophenolate mofetil, and cyclophosphamide];
 - IgG levels of at least 6 g/L.
 
@@ -861,11 +845,11 @@ Table 4.  ANCOVA analysis of percent change from baseline in total IgG level at 
 | N                      | LS Mean                | 95% CI                 | N                      | LS Mean                | 95% CI                 | LS of Mean difference                                   | 95% CI                                                  | p-value                                                 |
 | 41                     | -66.9                  | -69.78, -64.02         | 43                     | -62.4                  | -65.22, -59.59         | -4.5                                                    | -8.53, -0.46                                            | < 0.0001                                                |
 
-AChR-Ab = acetylcholine receptor-antibody; ANCOVA = analysis of covariance; CI = confidence interval; SC = subcutaneous; IV = intravenous; LS = least squares; mITT = modified intent-to-treatment analysis set; N = number of patients per group that were included in the ANCOVA analysis
+AChR-Ab = acetylcholine receptor -antibody; ANCOVA = analysis of covariance; CI = confidence interval; SC = subcutaneous; IV = intravenous; LS = least squares; mITT = modified intent-to-treatment analysis set; N = number of patients per group that were included in the ANCOVA analysis
 
 Efficacy secondary endpoints were comparisons of the percentage of MG-ADL and QMG responders, as defined in study ARGX-113-1704, between both treatment groups. The results in AChR-Ab seropositive population are presented in Table 5.
 
-Table 5.   MG-ADL and QMG responders at day 29 in AChR-Ab seropositive population (mITT analysis set)
+Table 5.  MG-ADL and QMG responders at day 29 in AChR-Ab seropositive population (mITT analysis set)
 
 |        | Efgartigimod alfa SC n/N (%)   | Efgartigimod alfa IV n/N (%)   | Difference Efgartigimod alfa SC- Efgartigimod alfa IV (95% CI)   |
 |--------|--------------------------------|--------------------------------|------------------------------------------------------------------|
@@ -874,7 +858,7 @@ Table 5.   MG-ADL and QMG responders at day 29 in AChR-Ab seropositive populatio
 
 AChR-Ab = acetylcholine receptor-antibody; MG-ADL = Myasthenia Gravis Activities of Daily Living; QMG = Quantitative Myasthenia Gravis; SC = subcutaneous; IV = intravenous; mITT = modified intent-to-treat; n = number of patients for whom the observation was reported; N = number of patients in the analysis set; CI = confidence interval
 
-Exploratory data shows that onset of response was observed within 2 weeks of initial administration in 28/32 (88%) patients treated with efgartigimod alfa subcutaneous and 27/33 (82%) patients treated with efgartigimod alfa intravenous in the AChR-Ab seropositive MG-ADL responders.
+Exploratory data shows that onset of response was observed within 2 weeks of initial administration in 28/32 (88%) patients treated with efgartigimod alfa subcutaneous and 27/33 (82%) patients treated with efgartigimod alfa intravenous in the AChR-Ab serop ositive MG-ADL responders.
 
 Chronic Inflammatory Demyelinating Polyneuropathy
 
@@ -882,11 +866,9 @@ The efficacy of efgartigimod alfa subcutaneous for the treatment of adults with 
 
 Patients had been either on or off CIDP treatment during the 6 months prior to study entry. Those on prior CIDP treatment as well as those off CIDP treatment with no documented evidence of recent CIDP deterioration, entered a treatment-free run-in period, and patients who demonstrated evidence of clinically meaningful deterioration then entered Stage A of the study. Those off CIDP treatment who had recent documented evidence of CIDP deterioration, skipped the run-in period and entered straight into Stage A.
 
-A total of 322 patients were enrolled in Stage A. Patients received up to 12 once weekly injections of efgartigimod alfa subcutaneous 1 000 mg until evidence of clinical improvement (ECI) occurred at 2 consecutive study visits. Subsequently, the patients with confirmed ECI entered Stage B of the study
-
 <div style=\"page-break-after: always\"></div>
 
-and were randomised to receive weekly administrations of either efgartigimod alfa subcutaneous (111 patients) or placebo (110 patients). ECI was defined as clinical improvement on adjusted Inflammatory Neuropathy Cause and Treatment (aINCAT) or improvement on Inflammatory Raschbuilt Overall Disability Scale (I- RODS)/Grip Strength in patients who deteriorated on these scales only prior to Stage A.
+A total of 322 patients were enrolled in Stage A. Patients received up to 12 once weekly injections of efgartigimod alfa subcutaneous 1 000 mg until evidence of clinical improvement (ECI) occurred at 2 consecutive study visits. Subsequently, the patients with confirmed ECI entered Stage B of the study and were randomised to receive weekly administrations of either efgartigimod alfa subcutaneous (111 patients) or placebo (110 patients). ECI was defined as clinical improvement on adjusted Inflammatory Neuropathy Cause and Treatment (aINCAT) or improvement on Inflammatory Raschbuilt Overall Disability Scale (I- RODS)/Grip Strength in patients who deteriorated on these scales only prior to Stage A.
 
 In Stage A, patients had a median age of 54 years (range: 20 to 82 years), a median time since CIDP diagnosis of 2.8 years and median INCAT score of 4.0. Sixty-five percent were male and 66% were White. In Stage B, patients had a median age of 55 years (range: 20 to 82 years), a median time since CIDP diagnosis of 2.2 years and median INCAT score of 3.0. Sixty-four percent were male and 65% were White. Baseline characteristics of Stage B were similar between treatment groups.
 
@@ -905,7 +887,7 @@ Table 6.  Evidence of clinical improvement in patients with CIDP in ARGX-113-180
 
 n = number of patients for whom the observation was reported; N = number of patients in the analysis set
 
-In Stage B, the primary endpoint was defined as the time to the occurrence of the first evidence of clinical deterioration (a 1-point increase in aINCAT compared to Stage B baseline, which was confirmed at a consecutive visit after the first 1-point increase in aINCAT or, a ≥ 2-point increase in aINCAT compared to Stage B baseline). Patients who received efgartigimod alfa subcutaneous remained relapse-free (i.e., no clinical deterioration) significantly longer compared to patients who received placebo, as demonstrated by a hazard ratio of 0.394 [95% CI (0.253; 0.614)]. 31/111 (27.9%) of patients who received efgartigimod alfa subcutaneous during Stage B of the study relapsed compared to 59/110 (53.6%) of patients who received placebo. The results are presented in Table 7 and Figure 2.
+In Stage B, the primary endpoint was defined as the time to the occurrence of the first evidence of clinical deterioration (a 1-point increase in aINCAT compared to Stage B baseline, which was confirmed at a consecutive visit after the first 1point increase in aINCAT or, a ≥ 2-point increase in aINCAT compared to Stage B baseline). Patients who received efgartigimod alfa subcutaneous remained relapse-free (i.e., no clinical deterioration) significantly longer compared to patients who received placebo, as demonstrated by a hazard ratio of 0.394 [95% CI (0.253; 0.614)]. 31/111 (27.9%) of patients who received efgartigimod alfa subcutaneous during Stage B of the study relapsed compared to 59/110 (53.6%) of patients who received placebo. The results are presented in Table 7 and Figure 2.
 
 Table 7.  First evidence of clinical deterioration in patients with CIDP in study ARGX-113-1802 Stage B
 
@@ -937,7 +919,7 @@ Based upon population PK data analysis, the estimated bioavailability with efgar
 
 The mean Ctrough after 4 once weekly administrations with efgartigimod alfa 1 000 mg subcutaneous and efgartigimod alfa 10 mg/kg intravenous were 22.0 µg/mL (37% CV) and 14.9 µg/mL (43% CV), respectively. The AUC0-168h of efgartigimod alfa after administration of one treatment cycle with 1 000 mg subcutaneous and 10 mg/kg intravenous were comparable.
 
-In patients receiving continuous subcutaneous administration of efgartigimod alfa 1 000 mg once weekly, mean Ctrough ranged from 14.9 to 20.1 µg/mL.
+In patients receiving continuous subcutaneous administration of efgartigimod alfa 1 000 mg once weekly, mean Ctrough ranged from 14.9 to 20.1 µ g/mL.
 
 ## Distribution
 
@@ -1011,7 +993,11 @@ From a microbial point of view, unless the method of preparation of the syringe 
 
 ## 6.4 Special precautions for storage
 
-Store in a refrigerator (2 °C - 8 °C). Do not freeze. Store in the original package in order to protect from light.
+Store in a refrigerator (2 °C -8 °C).
+
+Do not freeze.
+
+Store in the original package in order to protect from light.
 
 ## 6.5 Nature and contents of container
 
@@ -1037,23 +1023,17 @@ MARKETING AUTHORISATION HOLDER
 
 argenx BV Industriepark-Zwijnaarde 7 9052 Gent Belgium
 
-8.
-
-MARKETING AUTHORISATION NUMBER(S)
+## 8. MARKETING AUTHORISATION NUMBER(S)
 
 EU/1/22/1674/002
 
-9.
-
-DATE OF FIRST AUTHORISATION/RENEWAL OF THE AUTHORISATION
+## 9. DATE OF FIRST AUTHORISATION/RENEWAL OF THE AUTHORISATION
 
 Date of first authorisation: 10 August 2022
 
-10.
+## 10. DATE OF REVISION OF THE TEXT
 
-DATE OF REVISION OF THE TEXT
-
-Detailed information on this medicinal product is available on the website of the European Medicines Agency http://www.ema.europa.eu.
+Detailed information on this medicinal product is available on the website of the European Medicines Agency https://www.ema.europa.eu.
 
 30
 
@@ -1176,11 +1156,11 @@ As efgartigimod alfa causes transient reduction in IgG levels the risk of infect
 
 ## Injection reactions and hypersensitivity reactions
 
-Injection reactions such as rash or pruritus were reported in the clinical trials (see section 4.8). These were mild to moderate. Cases of anaphylactic reaction have been reported with efgartigimod alfa intravenous in the post-marketing setting. The first administrations of Vyvgart must be performed under the supervision of a healthcare professional (see section 4.2). Patients should be monitored for 30 minutes after administration for clinical signs and symptoms of injection reactions. Should a
+Injection reactions such as rash or pruritus were reported in the clinical trials (see section 4.8). These were mild to moderate. Cases of anaphylactic reaction have been reported with efgartigimod alfa intravenous in the post-marketing setting. The first administrations of Vyvgart must be performed under the supervision of a healthcare professional (see section 4.2). Patients should be monitored for 30 minutes after administration for clinical signs and symptoms of injection reactions. Should a reaction occur and based on the severity of the reaction, appropriate supportive measures should be initiated. Subsequent injections may be cautiously administered, based on clinical evaluation.
 
 <div style=\"page-break-after: always\"></div>
 
-reaction occur and based on the severity of the reaction, appropriate supportive measures should be initiated. Subsequent injections may be cautiously administered, based on clinical evaluation. If an anaphylactic reaction is suspected, administration of Vyvgart should be immediately discontinued and appropriate medical treatment initiated. Patients should be informed of the signs and symptoms of hypersensitivity and anaphylactic reactions and advised to contact their healthcare professional immediately should they occur.
+If an anaphylactic reaction is suspected, administration of Vyvgart should be immediately discontinued and appropriate medical treatment initiated. Patients should be informed of the signs and symptoms of hypersensitivity and anaphylactic reactions and advised to contact their healthcare professional immediately should they occur.
 
 ## Immunisations
 
@@ -1206,7 +1186,7 @@ When non-steroidal immunosuppressants, corticosteroids and anticholinesterase th
 
 ## Sodium
 
-This medicinal product contains less than 1 mmol sodium (23 mg) per pre-filled syringe, that is to say essentially 'sodium-free'.
+This medicinal product contains less than 1 mmol sodium (23 mg) per pre-filled syringe, that is to say essentially 'sodium -free'.
 
 ## Polysorbates
 
@@ -1214,11 +1194,13 @@ This medicinal product contains 2.1 mg of polysorbate 80 in each syringe which i
 
 ## 4.5 Interaction with other medicinal products and other forms of interaction
 
-No interaction studies have been performed.
+## No interaction studies have been performed.
+
+Efgartigimod alfa may decrease concentrations of compounds that bind to the human neonatal Fc Receptor (FcRn), i.e., immunoglobulin products, monoclonal antibodies, or antibody derivatives containing the human Fc domain of the IgG subclass. If possible, it is recommended to postpone the
 
 <div style=\"page-break-after: always\"></div>
 
-Efgartigimod alfa may decrease concentrations of compounds that bind to the human neonatal Fc Receptor (FcRn), i.e., immunoglobulin products, monoclonal antibodies, or antibody derivatives containing the human Fc domain of the IgG subclass. If possible, it is recommended to postpone the initiation of treatment with these products to 2 weeks after the last dose of Vyvgart. As a precaution, patients receiving Vyvgart while on treatment with these products should be closely monitored for the intended efficacy response of those products.
+initiation of treatment with these products to 2 weeks after the last dose of Vyvgart. As a precaution, patients receiving Vyvgart while on treatment with these products should be closely monitored for the intended efficacy response of those products.
 
 Plasma exchange, immunoadsorption, and plasmapheresis may reduce circulating levels of efgartigimod alfa.
 
@@ -1250,13 +1232,13 @@ There is no available data on the effect of efgartigimod alfa on fertility in hu
 
 Vyvgart has no or negligible influence on the ability to drive and use machines.
 
-<div style=\"page-break-after: always\"></div>
-
 ## 4.8 Undesirable effects
 
 ## Summary of the safety profile
 
 The most frequently observed adverse reactions were injection site reactions (33%), upper respiratory tract infections (10.7%) and urinary tract infections (9.5%).
+
+<div style=\"page-break-after: always\"></div>
 
 The overall safety profile of Vyvgart subcutaneous for both cyclic and continuous dose regimens was consistent with the known safety profile of the intravenous formulation.
 
@@ -1277,13 +1259,15 @@ Table 1.  Adverse reactions
 | General disorders and administration site conditions * | Injection site reactions c, d      | Very common          |
 | Injury, poisoning and procedural complications *       | Procedural headache e              | Common               |
 
-* See paragraph 'Description of selected adverse reactions'
+*
+
+See paragraph 'Description of selected adverse reactions'
 
 a From spontaneous post-marketing reporting with intravenous route of administration
 
-b From spontaneous post-marketing reporting.
+b  From spontaneous post-marketing reporting.
 
-c Subcutaneous administration only.
+c  Subcutaneous administration only.
 
 d (e.g. injection site rash, injection site erythema, injection site pruritus, injection site pain)
 
@@ -1295,11 +1279,13 @@ e Intravenous administration only.
 
 In the pooled dataset from two clinical studies in gMG with efgartigimod alfa subcutaneous (n = 168), all injection site reactions were mild to moderate in severity and did not lead to treatment discontinuation. 44.0% (n = 74)) of patients experienced an injection site reaction. Injection site reactions occurred within 24 hours after administration in 78.4% (58/74) of patients and resolved without treatment in 85.1% (63/74) of the patients. The incidence of injection site reactions was the highest in the first treatment cycle, reported in 36.3% (61/168) of patients during the first treatment cycle and decreased to 20.1% (30/149), 15.4% (18/117) and 12.5% (10/80) of patients with the second, third and fourth treatment cycle. In a pooled dataset from 2 clinical studies in patients with CIDP who received continuous administration of efgartigimod alfa subcutaneous the incidence of injection site reactions was 26% (61/235). Analysis by 3-month intervals showed that the percentage of participants with injection-site reactions was highest in the first 3 months of treatment (73 [22.2%] participants) and decreased in subsequent 3-month intervals (range: 0 to 17 [6.8%] participants).
 
-<div style=\"page-break-after: always\"></div>
-
 ## Infections
 
-In the gMG ARGX-113-1704 placebo-controlled study with efgartigimod alfa intravenous, the most frequently reported adverse reactions were infections, and the most reported infections were upper respiratory tract infections (10.7% [n = 9] of patients treated with efgartigimod alfa intravenous and 4.8% [n = 4] of patients treated with placebo) and urinary tract infections (9.5% [n = 8] of patients treated with efgartigimod alfa intravenous and 4.8% [n = 4] of patients treated with placebo). These infections were mild to moderate in severity in patients who received efgartigimod alfa intravenous (≤ Grade 2 according to the Common Terminology Criteria for Adverse Events). Overall, treatment emergent infections were reported in 46.4% (n = 39) of patients treated with efgartigimod alfa intravenous and 37.3% (n = 31) of patients treated with placebo. The median time from treatment initiation to emergence of infections was 6 weeks. Incidence of infections did not increase with subsequent treatment cycles. Treatment discontinuation or temporary interruption of treatment due to an infection occurred in less than 2% of patients. In the placebo-controlled part of the ARGX-113-1802 study in patients with CIDP, continuous administration of efgartigimod alfa subcutaneous was not associated with any increase in the incidence of infections (31.5% [35/111] in the efgartigimod alfa subcutaneous group and 33.6% [37/110] in the placebo group) (see section 5.1).
+In the gMG ARGX-113-1704 placebo-controlled study with efgartigimod alfa intravenous, the most frequently reported adverse reactions were infections, and the most reported infections were upper respiratory tract infections (10.7% [n = 9] of patients treated with efgartigimod alfa intravenous and 4.8% [n = 4] of patients treated with placebo) and urinary tract infections (9.5% [n = 8] of patients treated with efgartigimod alfa intravenous and 4.8% [n = 4] of patients treated with placebo). These infections were mild to moderate in severity in patients who received efgartigimod alfa intravenous (≤ Grade 2 according to the Common Terminology Criteria for Adverse Events). Overall, treatment
+
+<div style=\"page-break-after: always\"></div>
+
+emergent infections were reported in 46.4% (n = 39) of patients treated with efgartigimod alfa intravenous and 37.3% (n = 31) of patients treated with placebo. The median time from treatment initiation to emergence of infections was 6 weeks. Incidence of infections did not increase with subsequent treatment cycles. Treatment discontinuation or temporary interruption of treatment due to an infection occurred in less than 2% of patients. In the placebo-controlled part of the ARGX-113-1802 study in patients with CIDP, continuous administration of efgartigimod alfa subcutaneous was not associated with any increase in the incidence of infections (31.5% [35/111] in the efgartigimod alfa subcutaneous group and 33.6% [37/110] in the placebo group) (see section 5.1).
 
 ## Procedural headache
 
@@ -1325,13 +1311,15 @@ Pharmacotherapeutic group: Immunosuppressants, selective immunosuppressants, ATC
 
 Efgartigimod alfa is a human IgG1 antibody fragment engineered for increased affinity to the neonatal Fc Receptor (FcRn). Efgartigimod alfa binds to FcRn, resulting in a reduction in the levels of circulating IgG including pathogenic IgG autoantibodies. Efgartigimod alfa does not affect the levels of other immunoglobulins (IgA, IgD, IgE or IgM), and does not reduce those of albumin.
 
-<div style=\"page-break-after: always\"></div>
-
 IgG autoantibodies are the underlying cause of the pathogenesis of IgG mediated autoimmune diseases.
 
 In MG these impair neuromuscular transmission by binding to acetylcholine receptors (AChR), muscle-specific tyrosine kinase (MuSK) or low-density lipoprotein receptor-related protein 4 (LRP4).
 
-In CIDP, several lines of evidence point to the key role of IgG autoantibodies in the pathogenesis of this disease. This includes the demonstration of autoreactive IgG antibodies against components of myelinated nerves, passive transfer of CIDP symptoms to animal models using sera or IgG's from patients with CIDP, and the therapeutic effect of plasma exchange and immunoadsorption for treating patients with CIDP.
+In CIDP, several lines of evidence point to the key role of IgG autoantibodies in the pathogenesis of this disease. This includes the demonstration of autoreactive IgG antibodies against components of myelinated nerves, passive transfer of CIDP symptoms to animal models using sera or IgG's from
+
+<div style=\"page-break-after: always\"></div>
+
+patients with CIDP, and the therapeutic effect of plasma exchange and immunoadsorption for treating patients with CIDP.
 
 ## Pharmacodynamic effects
 
@@ -1366,7 +1354,7 @@ In this study, patients had to meet the following main criteria at screening:
 <div style=\"page-break-after: always\"></div>
 
 - Patients with either positive or negative serologic tests for antibodies to AChR;
-- MG-Activities of Daily Living (MG-ADL) total score of ≥ 5;
+- MG-Activities of Daily Living (MGADL) total score of ≥ 5;
 - On stable doses of MG therapy prior to screening, that included acetylcholinesterase (AChE) inhibitors, steroids or non-steroidal immunosuppressive therapy (NSIST), either in combination or alone [NSISTs included but were not limited to azathioprine, methotrexate, cyclosporine, tacrolimus, mycophenolate mofetil, and cyclophosphamide];
 - IgG levels of at least 6 g/L.
 
@@ -1443,7 +1431,7 @@ Table 4.  ANCOVA analysis of percent change from baseline in total IgG level at 
 | N                      | LS Mean                | 95% CI                 | N                      | LS Mean                | 95% CI                 | LS of Mean difference                                   | 95% CI                                                  | p-value                                                 |
 | 41                     | -66.9                  | -69.78, -64.02         | 43                     | -62.4                  | -65.22, -59.59         | -4.5                                                    | -8.53, -0.46                                            | < 0.0001                                                |
 
-AChR-Ab = acetylcholine receptor-antibody; ANCOVA = analysis of covariance; CI = confidence interval; SC = subcutaneous; IV = intravenous; LS = least squares; mITT = modified intent-to-treatment analysis set; N = number of patients per group that were included in the ANCOVA analysis
+AChR-Ab = acetylcholine receptor -antibody; ANCOVA = analysis of covariance; CI = confidence interval; SC = subcutaneous; IV = intravenous; LS = least squares; mITT = modified intent-to-treatment analysis set; N = number of patients per group that were included in the ANCOVA analysis
 
 Efficacy secondary endpoints were comparisons of the percentage of MG-ADL and QMG responders, as defined in study ARGX-113-1704, between both treatment groups. The results in AChR-Ab seropositive population are presented in Table 5.
 
@@ -1464,11 +1452,9 @@ The efficacy of efgartigimod alfa subcutaneous for the treatment of adults with 
 
 Patients had been either on or off CIDP treatment during the 6 months prior to study entry. Those on prior CIDP treatment as well as those off CIDP treatment with no documented evidence of recent CIDP deterioration, entered a treatment-free run-in period, and patients who demonstrated evidence of clinically meaningful deterioration then entered Stage A of the study. Those off CIDP treatment who had recent documented evidence of CIDP deterioration, skipped the run-in period and entered straight into Stage A.
 
-A total of 322 patients were enrolled in Stage A. Patients received up to 12 once weekly injections of efgartigimod alfa subcutaneous 1 000 mg until evidence of clinical improvement (ECI) occurred at 2 consecutive study visits. Subsequently, the patients with confirmed ECI entered Stage B of the study
-
 <div style=\"page-break-after: always\"></div>
 
-and were randomised to receive weekly administrations of either efgartigimod alfa subcutaneous (111 patients) or placebo (110 patients). ECI was defined as clinical improvement on adjusted Inflammatory Neuropathy Cause and Treatment (aINCAT) or improvement on Inflammatory Raschbuilt Overall Disability Scale (I- RODS)/Grip Strength in patients who deteriorated on these scales only prior to Stage A.
+A total of 322 patients were enrolled in Stage A. Patients received up to 12 once weekly injections of efgartigimod alfa subcutaneous 1 000 mg until evidence of clinical improvement (ECI) occurred at 2 consecutive study visits. Subsequently, the patients with confirmed ECI entered Stage B of the study and were randomised to receive weekly administrations of either efgartigimod alfa subcutaneous (111 patients) or placebo (110 patients). ECI was defined as clinical improvement on adjusted Inflammatory Neuropathy Cause and Treatment (aINCAT) or improvement on Inflammatory Raschbuilt Overall Disability Scale (I- RODS)/Grip Strength in patients who deteriorated on these scales only prior to Stage A.
 
 In Stage A, patients had a median age of 54 years (range: 20 to 82 years), a median time since CIDP diagnosis of 2.8 years and median INCAT score of 4.0. Sixty-five percent were male and 66% were White. In Stage B, patients had a median age of 55 years (range: 20 to 82 years), a median time since CIDP diagnosis of 2.2 years and median INCAT score of 3.0. Sixty-four percent were male and 65% were White. Baseline characteristics of Stage B were similar between treatment groups.
 
@@ -1487,7 +1473,7 @@ Table 6.  Evidence of clinical improvement in patients with CIDP in ARGX-113-180
 
 n = number of patients for whom the observation was reported; N = number of patients in the analysis set
 
-In Stage B, the primary endpoint was defined as the time to the occurrence of the first evidence of clinical deterioration (a 1-point increase in aINCAT compared to Stage B baseline, which was confirmed at a consecutive visit after the first 1-point increase in aINCAT or, a ≥ 2-point increase in aINCAT compared to Stage B baseline). Patients who received efgartigimod alfa subcutaneous remained relapse-free (i.e., no clinical deterioration) significantly longer compared to patients who received placebo, as demonstrated by a hazard ratio of 0.394 [95% CI (0.253; 0.614)]. 31/111 (27.9%) of patients who received efgartigimod alfa subcutaneous during Stage B of the study relapsed compared to 59/110 (53.6%) of patients who received placebo. The results are presented in Table 7 and Figure 2.
+In Stage B, the primary endpoint was defined as the time to the occurrence of the first evidence of clinical deterioration (a 1-point increase in aINCAT compared to Stage B baseline, which was confirmed at a consecutive visit after the first 1point increase in aINCAT or, a ≥ 2-point increase in aINCAT compared to Stage B baseline). Patients who received efgartigimod alfa subcutaneous remained relapse-free (i.e., no clinical deterioration) significantly longer compared to patients who received placebo, as demonstrated by a hazard ratio of 0.394 [95% CI (0.253; 0.614)]. 31/111 (27.9%) of patients who received efgartigimod alfa subcutaneous during Stage B of the study relapsed compared to 59/110 (53.6%) of patients who received placebo. The results are presented in Table 7 and Figure 2.
 
 Table 7.  First evidence of clinical deterioration in patients with CIDP in study ARGX-113-1802 Stage B
 
@@ -1519,7 +1505,7 @@ Based upon population PK data analysis, the estimated bioavailability with efgar
 
 The mean Ctrough after 4 once weekly administrations with efgartigimod alfa 1 000 mg subcutaneous and efgartigimod alfa 10 mg/kg intravenous were 22.0 µg/mL (37% CV) and 14.9 µg/mL (43% CV), respectively. The AUC0-168h of efgartigimod alfa after administration of one treatment cycle with 1 000 mg subcutaneous and 10 mg/kg intravenous were comparable.
 
-In patients receiving continuous subcutaneous administration of efgartigimod alfa 1 000 mg once weekly, mean Ctrough ranged from 14.9 to 20.1 µg/mL.
+In patients receiving continuous subcutaneous administration of efgartigimod alfa 1 000 mg once weekly, mean Ctrough ranged from 14.9 to 20.1 µ g/mL.
 
 ## Distribution
 
@@ -1593,7 +1579,9 @@ From a microbial point of view, the product should be used immediately. If not u
 
 ## 6.4 Special precautions for storage
 
-Store in a refrigerator (2 °C - 8 °C). Do not freeze. Store in the original package in order to protect from light.
+Store in a refrigerator (2 °C -8 °C).
+
+Do not freeze. Store in the original package in order to protect from light.
 
 ## 6.5 Nature and contents of container
 
@@ -1648,17 +1636,11 @@ Detailed information on this medicinal product is available on the website of th
 
 Name and address of the manufacturer(s) of the biological active substance(s)
 
-Lonza Biologics, plc. 228 Bath Road Slough Berkshire SL1 4DX United Kingdom
-
 Lonza Biologics Tuas Pte Ltd. 35 Tuas South Avenue 6 Singapore 637377
 
 Lonza Biologics Inc. 101 International Drive Portsmouth NH 03801 United States of America
 
 Name and address of the manufacturer(s) responsible for batch release argenx BV Industriepark-Zwijnaarde 7 9052 Gent Belgium
-
-Propharma Group The Netherlands Schipholweg 73 2316 ZL Leiden The Netherlands
-
-The printed package leaflet of the medicinal product must state the name and address of the manufacturer responsible for the release of the concerned batch.
 
 ## B. CONDITIONS OR RESTRICTIONS REGARDING SUPPLY AND USE
 
@@ -1671,8 +1653,6 @@ Medicinal product subject to restricted medical prescription (see Annex I: Summa
 The requirements for submission of PSURs for this medicinal product are set out in the list of Union reference dates (EURD list) provided for under Article 107c(7) of Directive 2001/83/EC and any subsequent updates published on the European medicines web-portal.
 
 The marketing authorisation holder (MAH) shall submit the first PSUR for this product within 6 months following authorisation.
-
-<div style=\"page-break-after: always\"></div>
 
 ## D. CONDITIONS OR RESTRICTIONS WITH REGARD TO THE SAFE AND EFFECTIVE USE OF THE MEDICINAL PRODUCT
 
@@ -1713,7 +1693,7 @@ Each 20 ml vial contains 400 mg of efgartigimod alfa
 
 ## 3. LIST OF EXCIPIENTS
 
-Excipients: sodium dihydrogen phosphate monohydrate; disodium hydrogen phosphate, anhydrous; sodium chloride; arginine hydrochloride; polysorbate 80; water for injections.
+Excipients: L-histidine; L-histidine hydrochloride monohydrate, L-methionine; sodium chloride; sucrose, L-arginine hydrochloride; polysorbate 80; water for injections.
 
 See the package leaflet for further information
 
@@ -1767,13 +1747,13 @@ Lot
 
 ## 14. GENERAL CLASSIFICATION FOR SUPPLY
 
-15. INSTRUCTIONS ON USE
+## 15. INSTRUCTIONS ON USE
 
 ## 16. INFORMATION IN BRAILLE
 
 Justification for not including Braille accepted.
 
-## 17. UNIQUE IDENTIFIER - 2D BARCODE
+## 17. UNIQUE IDENTIFIER -2D BARCODE
 
 2D barcode carrying the unique identifier included.
 
@@ -1787,9 +1767,7 @@ NN
 
 <div style=\"page-break-after: always\"></div>
 
-## MINIMUM PARTICULARS TO APPEAR ON SMALL IMMEDIATE PACKAGING UNITS
-
-VIAL LABEL
+## MINIMUM PARTICULARS TO APPEAR ON SMALL IMMEDIATE PACKAGING UNITS VIAL LABEL
 
 ## 1. NAME OF THE MEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION
 
@@ -1875,13 +1853,7 @@ Store in the original package in order to protect from light.
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
-argenx BV
-
-Industriepark-Zwijnaarde 7
-
-9052 Gent
-
-Belgium
+argenx BV Industriepark-Zwijnaarde 7 9052 Gent Belgium
 
 ## 12. MARKETING AUTHORISATION NUMBER(S)
 
@@ -1893,7 +1865,7 @@ Lot
 
 ## 14. GENERAL CLASSIFICATION FOR SUPPLY
 
-15. INSTRUCTIONS ON USE
+## 15. INSTRUCTIONS ON USE
 
 ## 16. INFORMATION IN BRAILLE
 
@@ -1909,9 +1881,9 @@ PC
 
 SN
 
-<div style=\"page-break-after: always\"></div>
-
 NN
+
+<div style=\"page-break-after: always\"></div>
 
 <div style=\"page-break-after: always\"></div>
 
@@ -1921,9 +1893,7 @@ NN
 
 ## 1. NAME OF THE MEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION
 
-Vyvgart 1 000 mg injection efgartigimod alfa
-
-Subcutaneous
+Vyvgart 1 000 mg injection efgartigimod alfa Subcutaneous
 
 | 2.   | METHODOFADMINISTRATION   |
 |------|--------------------------|
@@ -1972,9 +1942,8 @@ See the package leaflet for further information
 
 solution for injection
 
-1 pre-filled syringe
-
-4 pre-filled syringes
+- 1 pre-filled syringe
+- 4 pre-filled syringes
 
 ## 5. METHOD AND ROUTE(S) OF ADMINISTRATION
 
@@ -2024,9 +1993,9 @@ EU/1/22/1674/004 4 pre-filled syringes
 
 Lot
 
-14. GENERAL CLASSIFICATION FOR SUPPLY
+## 14. GENERAL CLASSIFICATION FOR SUPPLY
 
-15. INSTRUCTIONS ON USE
+## 15. INSTRUCTIONS ON USE
 
 ## 16. INFORMATION IN BRAILLE
 
@@ -2048,17 +2017,17 @@ NN
 
 <div style=\"page-break-after: always\"></div>
 
-| MINIMUM PARTICULARS TO APPEAR ONBLISTERS ORSTRIPS   |
-|-----------------------------------------------------|
-| TRAY BACKING TEXT                                   |
+| MINIMUM PARTICULARS TO APPEAR ONBLISTERS OR STRIPS   |
+|------------------------------------------------------|
+| TRAY BACKING TEXT                                    |
 
 | 1.   | NAMEOFTHEMEDICINAL PRODUCT   |
 |------|------------------------------|
 
 Vyvgart 1 000 mg solution for injection in pre-filled syringe efgartigimod alfa
 
-| 2.   | NAMEOFTHEMARKETING AUTHORISATION HOLDER   |
-|------|-------------------------------------------|
+| 2.   | NAMEOFTHEMARKETINGAUTHORISATION HOLDER   |
+|------|------------------------------------------|
 
 argenx (as logo)
 
@@ -2202,11 +2171,11 @@ Vyvgart is not expected to influence the ability to drive or use machines.
 
 ## Vyvgart contains sodium
 
-This medicine contains 67.2 mg sodium (main component of cooking/table salt) in each vial. This is equivalent to 3.4% of the recommended maximum daily dietary intake of sodium for an adult. This medicinal product will be further prepared for administration with sodium-containing solution and this should be considered in relation to the total sodium intake to the patient from all sources per day.
+This medicine contains 33.2 mg sodium (main component of cooking/table salt) in each vial. This is equivalent to 1.7% of the recommended maximum daily dietary intake of sodium for an adult. This medicinal product will be further prepared for administration with sodium-containing solution and this should be considered in relation to the total sodium intake to the patient from all sources per day.
 
 ## Vyvgart contains polysorbate
 
-This medicine contains 4.1 mg of polysorbate 80 in each vial which is equivalent to 0.2 mg/mL. Polysorbates may cause allergic reactions. Tell your doctor if you have any known allergies.
+This medicine contains 8.2 mg of polysorbate 80 in each vial which is equivalent to 0.4 mg/mL. Polysorbates may cause allergic reactions. Tell your doctor if you have any known allergies.
 
 <div style=\"page-break-after: always\"></div>
 
@@ -2295,16 +2264,18 @@ The active substance is efgartigimod alfa.
 
 The other ingredients are:
 
-- -sodium dihydrogen phosphate, monohydrate
-- -disodium hydrogen phosphate, anhydrous
+- -L-histidine
+- -L-histidine hydrochloride monohydrate
+- -L-methionine
 - -sodium chloride
-- -arginine hydrochloride
+- -sucrose
+- -L-arginine hydrochloride
 - -polysorbate 80 (E433)
 - -water for injections
 
 ## What Vyvgart looks like and contents of the pack
 
-Vyvgart is presented as a sterile concentrate for intravenous (IV) infusion (20 mL in a vial - pack size of 1).
+Vyvgart is presented as a sterile concentrate for intravenous (IV) infusion (20 mL in a vial -pack size of 1).
 
 Vyvgart is a liquid. It is colourless to slightly yellow, clear to almost clear.
 
@@ -2314,33 +2285,31 @@ argenx BV Industriepark-Zwijnaarde 7 9052 Gent Belgium
 
 <div style=\"page-break-after: always\"></div>
 
-## Manufacturer
-
-Propharma Group The Netherlands Schipholweg 73 2316 ZL Leiden The Netherlands
-
 For any information about this medicine, please contact the local representative of the Marketing Authorisation Holder:
 
 ## België/Belgique/Belgien
 
 argenx BV
 
-Tél/Tel: +32 (0)9 39 69 394/+32 (0)800 54 477
+Tél/Tel:
+
++32 (0)9 39 69 394/+32 (0)800 54 477
 
 medinfobe@argenx.com
 
-## България
+## Ȼɴɥɝɚɪɢɹ
 
 argenx BV
 
-Teл.: +359 (0)800 46 273
+Teл.:
+
++359 (0)800 46 273
 
 medinfobg@argenx.com
 
 ## Česká republika
 
-argenx BV Tel: +420 800 040 854
-
-medinfocz@argenx.com
+argenx BV Tel: +420 800 040 854 medinfocz@argenx.com
 
 ## Danmark
 
@@ -2358,41 +2327,43 @@ argenx BV Tel: +372 800 010 0919
 
 medinfoee@argenx.com
 
-## Ελλάδα
+## ΕȜȜάδα
 
-Medison Pharma Greece Single Member Societe Anonyme
-
-Τηλ: +30 210 0100 188
-
-medinfogr@argenx.com
+Medison Pharma Greece Single Member Societe Anonyme ΤȘȜ: +30 210 0100 188 medinfogr@argenx.com
 
 ## España
 
-argenx Spain S.L. Tel: +34 900 876 188 medinfoes@argenx.com
+argenx Spain S.L. Tel: +34 900 876 188
+
+medinfoes@argenx.com
 
 ## France
 
 argenx France SAS Tél: +33 (0)1 88 89 89 92 medinfofr@argenx.com
 
+## Hrvatska
+
+argenx BV Tel: +385 (0)800 806 524 medinfohr@argenx.com
+
 ## Lietuva
 
-argenx BV
-
-Tel: +370 (0)800 80 052
-
-medinfolt@argenx.com
+argenx BV Tel: +370 (0)800 80 052 medinfolt@argenx.com
 
 ## Luxembourg/Luxemburg
 
 argenx BV
 
-Tél/Tel: +352 800 25 233
+Tél/Tel:
+
++352 800 25 233
 
 medinfolu@argenx.com
 
 ## Magyarország
 
-argenx BV Tel.: +36 800 88 578 medinfohu@argenx.com
+argenx BV
+
+Tel.: +36 800 88 578 medinfohu@argenx.com
 
 ## Malta
 
@@ -2400,7 +2371,9 @@ argenx BV Tel: +356 800 65 101 medinfomt@argenx.com
 
 ## Nederland
 
-argenx BV Tel: +31 (0)800 023 2882 medinfonl@argenx.com
+argenx BV
+
+Tel: +31 (0)800 023 2882 medinfonl@argenx.com
 
 ## Norge
 
@@ -2416,21 +2389,19 @@ medinfoat@argenx.com
 
 ## Polska
 
-argenx BV Tel.: +48 800 005 155 medinfopl@argenx.com
+argenx BV Tel.: +48 800 005 155
+
+medinfopl@argenx.com
 
 ## Portugal
 
 argenx Spain S.L. Sucursal Em Portugal Tel: +351 800 180 844 medinfopt@argenx.com
 
+## România
+
+argenx BV Tel: +40 (0)800 360 912 medinforo@argenx.com
+
 <div style=\"page-break-after: always\"></div>
-
-## Hrvatska
-
-argenx BV
-
-Tel: +385 (0)800 806 524
-
-medinfohr@argenx.com
 
 ## Ireland
 
@@ -2456,11 +2427,11 @@ Tel: +39 800 729 052
 
 medinfoit@argenx.com
 
-## Κύπρος
+## ΚύπȡȠȢ
 
 argenx BV
 
-Τηλ: +357 800 77 122
+ΤȘȜ: +357 800 77 122
 
 medinfocy@argenx.com
 
@@ -2477,14 +2448,6 @@ medinfolv@argenx.com
 ## Other sources of information
 
 Detailed information on this medicine is available on the European Medicines Agency web site: https://www.ema.europa.eu. There are also links to other websites about rare diseases and treatments.
-
-## România
-
-argenx BV
-
-Tel: +40 (0)800 360 912
-
-medinforo@argenx.com
 
 ## Slovenija
 
@@ -2674,7 +2637,7 @@ Vyvgart is not expected to influence the ability to drive or use machines.
 
 ## Vyvgart contains sodium
 
-This medicinal product contains less than 1 mmol sodium (23 mg) per vial, that is to say essentially 'sodium-free'.
+This medicinal product contains less than 1 mmol sodium (23 mg) per vial, that is to say essentially 'sodium -free'.
 
 ## Vyvgart contains polysorbate
 
@@ -2694,7 +2657,7 @@ The recommended dose is 1 000 mg given in cycles of one injection per week for 4
 
 If you are already on intravenous Vyvgart treatment and wish to transition to Vyvgart subcutaneous, you should receive the subcutaneous injection instead of your intravenous infusion at the start of the next treatment cycle.
 
-Chronic inflammatory demyelinating polyneuropathy
+## Chronic inflammatory demyelinating polyneuropathy
 
 The recommended dose is 1 000 mg, one injection per week. Depending on how you respond to treatment, your doctor may change this to 1 injection every 2 weeks.
 
@@ -2736,7 +2699,7 @@ Signs of a serious allergic reaction (anaphylactic reaction) such as swelling of
 
 If you are not sure what the side effects below are, ask your doctor to explain them to you.
 
-Very common (may affect more than 1 in 10 people)
+## Very common (may affect more than 1 in 10 people)
 
 - nose and throat (upper respiratory tract) infections
 - reactions where the injection was given, which may include redness, itching, pain. These injection site reactions are usually mild to moderate and usually occur within a day after the injection.
@@ -2798,19 +2761,17 @@ For any information about this medicine, please contact the local representative
 
 argenx BV
 
-Tél/Tel: +32 (0)9 39 69 394/+32 (0)800 54 477
+Tél/Tel:
+
++32 (0)9 39 69 394/+32 (0)800 54 477
 
 medinfobe@argenx.com
 
 ## Lietuva
 
-argenx BV
+argenx BV Tel: +370 (0)800 80 052 medinfolt@argenx.com
 
-Tel: +370 (0)800 80 052
-
-medinfolt@argenx.com
-
-## България
+## Ȼɴɥɝɚɪɢɹ
 
 argenx BV
 
@@ -2820,7 +2781,11 @@ medinfobg@argenx.com
 
 ## Luxembourg/Luxemburg
 
-argenx BV Tél/Tel: +352 800 25 233 medinfolu@argenx.com
+argenx BV
+
+Tél/Tel: +352 800 25 233
+
+medinfolu@argenx.com
 
 ## Česká republika
 
@@ -2884,13 +2849,15 @@ medinfono@argenx.com
 
 <div style=\"page-break-after: always\"></div>
 
-## Ελλάδα
+## ΕȜȜάδα
 
 Medison Pharma Greece Single Member Societe
 
 Anonyme
 
-Τηλ: +30 210 0100 188
+ΤȘȜ:
+
++30 210 0100 188
 
 medinfogr@argenx.com
 
@@ -2906,7 +2873,9 @@ medinfoes@argenx.com
 
 argenx France SAS
 
-Tél: +33 (0)1 88 89 89 92
+Tél:
+
++33 (0)1 88 89 89 92
 
 medinfofr@argenx.com
 
@@ -2942,11 +2911,11 @@ Tel: +39 800 729 052
 
 medinfoit@argenx.com
 
-## Κύπρος
+## ΚύπȡȠȢ
 
 argenx BV
 
-Τηλ: +357 800 77 122
+ΤȘȜ: +357 800 77 122
 
 medinfocy@argenx.com
 
@@ -2962,7 +2931,7 @@ medinfolv@argenx.com
 
 ## Other sources of information
 
-Detailed information on this medicine is available on the European Medicines Agency web site: http://www.ema.europa.eu. There are also links to other websites about rare diseases and treatments.
+Detailed information on this medicine is available on the European Medicines Agency web site: https://www.ema.europa.eu. There are also links to other websites about rare diseases and treatments.
 
 ## Österreich
 
@@ -3193,10 +3162,6 @@ If you cannot remove all of the liquid from the vial, turn the vial upright to r
 
 <!-- image -->
 
-| Step 16 16a. Turn the vial upright and remove the syringe and transfer needle from the vial. 16b. Using one hand, slide the transfer needle into the cap and scoop upwards to cover the needle. 16c. After the transfer needle is covered, twist the transfer needle cap onto the syringe to fully attach it.   | 16a)      |
-|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------|
-| Step 17 17a. Gently pull and twist the transfer needle counter- clockwise to remove it from the syringe. 17b. Throw away (dispose of) the transfer needle in the sharps container.                                                                                                                              | 17a) 17b) |
-
 <div style=\"page-break-after: always\"></div>
 
 ## Preparing to inject Vyvgart
@@ -3313,9 +3278,7 @@ Note:
 
 If there is a small drop of blood after removing the needle, do not worry. This can happen if the needle nicks the skin during removal. Dab the blood with a sterile piece of gauze and apply gentle pressure. Further bleeding should not occur. Apply a sterile dressing to cover the site.
 
-## Disposing of Vyvgart
-
-## Step 28
+## Disposing of Vyvgart Step 28
 
 Throw away (dispose of) the winged infusion set (with the attached needle and syringe) and the vial into the sharps container.
 
@@ -3425,7 +3388,7 @@ Vyvgart is not expected to influence the ability to drive or use machines.
 
 ## Vyvgart contains sodium
 
-This medicinal product contains less than 1 mmol sodium (23 mg) per syringe, that is to say essentially 'sodium-free'.
+This medicinal product contains less than 1 mmol sodium (23 mg) per syringe, that is to say essentially 'sodium -free'.
 
 ## Vyvgart contains polysorbate
 
@@ -3487,7 +3450,7 @@ Signs of a serious allergic reaction (anaphylactic reaction) such as swelling of
 
 If you are not sure what the side effects below are, ask your doctor to explain them to you.
 
-Very common (may affect more than 1 in 10 people)
+## Very common (may affect more than 1 in 10 people)
 
 - nose and throat (upper respiratory tract) infections
 - reactions where the injection was given, which may include redness, itching, pain. These injection site reactions are usually mild to moderate and usually occur within a day after the injection.
@@ -3549,7 +3512,7 @@ For any information about this medicine, please contact the local representative
 
 argenx BV Tél/Tel: +32 (0)9 39 69 394/+32 (0)800 54 477 medinfobe@argenx.com
 
-## България
+## Ȼɴɥɝɚɪɢɹ
 
 argenx BV
 
@@ -3635,13 +3598,15 @@ medinfono@argenx.com
 
 <div style=\"page-break-after: always\"></div>
 
-## Ελλάδα
+## ΕȜȜάδα
 
 Medison Pharma Greece Single Member Societe
 
 Anonyme
 
-Τηλ: +30 210 0100 188
+ΤȘȜ:
+
++30 210 0100 188
 
 medinfogr@argenx.com
 
@@ -3657,7 +3622,9 @@ medinfoes@argenx.com
 
 argenx France SAS
 
-Tél: +33 (0)1 88 89 89 92
+Tél:
+
++33 (0)1 88 89 89 92
 
 medinfofr@argenx.com
 
@@ -3693,11 +3660,11 @@ Tel: +39 800 729 052
 
 medinfoit@argenx.com
 
-## Κύπρος
+## ΚύπȡȠȢ
 
 argenx BV
 
-Τηλ: +357 800 77 122
+ΤȘȜ: +357 800 77 122
 
 medinfocy@argenx.com
 
@@ -3713,9 +3680,7 @@ medinfolv@argenx.com
 
 ## Other sources of information
 
-Detailed information on this medicine is available on the European Medicines Agency web site:
-
-https://www.ema.europa.eu. There are also links to other websites about rare diseases and treatments.
+Detailed information on this medicine is available on the European Medicines Agency web site: https://www.ema.europa.eu. There are also links to other websites about rare diseases and treatments.
 
 ## Österreich
 
@@ -3791,9 +3756,7 @@ Vyvgart 1 000 mg solution for injection in pre-filled syringe efgartigimod alfa 
 
 In order to improve the traceability of biological medicinal products, the name and the batch number of the administered product should be clearly recorded.
 
-Be sure to read and understand these instructions for use before injecting Vyvgart.
-
-If you or your caregiver are willing to administer Vyvgart, you will get training on how to inject Vyvgart by your healthcare professional. Your healthcare professional should show you or your caregiver how to prepare and inject Vyvgart properly before using it for the first time. A demonstration of proper self-administration under supervision of healthcare professional is considered necessary. It is important that you do not try to inject the medicinal product until you have been trained and you or your caregiver are sure that you understand how to use Vyvgart. Ask your healthcare professional if you have any questions.
+Be sure to read and understand these instructions for use before injecting Vyvgart. If you or your caregiver are willing to administer Vyvgart, you will get training on how to inject Vyvgart by your healthcare professional. Your healthcare professional should show you or your caregiver how to prepare and inject Vyvgart properly before using it for the first time. A demonstration of proper self-administration under supervision of healthcare professional is considered necessary. It is important that you do not try to inject the medicinal product until you have been trained and you or your caregiver are sure that you understand how to use Vyvgart. Ask your healthcare professional if you have any questions.
 
 ## Important information you need to know before injecting Vyvgart subcutaneous
 
@@ -3858,13 +3821,11 @@ Do not use the pre-filled syringe if it has been at room temperature for longer 
 
 - 4.1 Gather the following supplies that are not provided with the pre-filled syringe.
 - 4.2 Wash hands with soap and water.
-
-## 5. Snap off the pre-filled syringe cap and attach the needle
-
+5. Snap off the pre-filled syringe cap and attach the needle
 - 5.1 Carefully open the needle package, remove the needle. Throw away the packaging via the household waste.
-- ·Safety needle
+- ·Safetyneedle
 - Alcoholswab
-- ·Sharps container
+- ·Sharpscontainer
 - Sterilegauze and/ orbandage (As needed)
 
 <!-- image -->
@@ -3877,7 +3838,7 @@ Do not use the pre-filled syringe if it has been at room temperature for longer 
 
 <!-- image -->
 
-## Peelandremove
+## Peel andremove
 
 <!-- image -->
 
@@ -3891,7 +3852,7 @@ Do not use the pre-filled syringe if it has been at room temperature for longer 
 
 ## 7. Pulling back the needle shield and removing the needle cap
 
-- 7.1 Pull the needle shield back.
+7.1 Pull the needle shield back.
 
 Note: The needle shield will be used after the injection to cover the needle and protect from needle-stick injuries.
 

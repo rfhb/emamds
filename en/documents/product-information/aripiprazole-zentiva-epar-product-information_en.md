@@ -1,18 +1,18 @@
 ---
-document_datetime: 2025-07-17 14:25:26
+document_datetime: 2026-01-16 15:49:44
 document_pages: 54
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/aripiprazole-zentiva-epar-product-information_en.pdf
 document_name: aripiprazole-zentiva-epar-product-information_en.pdf
 version: success
-processing_time: 18.1024366
-conversion_datetime: 2025-12-29 22:51:45.545687
+processing_time: 15.5527353
+conversion_datetime: 2026-01-17 13:37:40.080454
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.66.0
-  docling-core: 2.57.0
+  docling-serve: 1.10.0
+  docling-jobkit: 1.8.1
+  docling: 2.68.0
+  docling-core: 2.59.0
   docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-parse: 4.7.3
   python: cpython-313 (3.13.11)
   plaform: macOS-26.2-arm64-arm-64bit-Mach-O
 ---
@@ -728,9 +728,7 @@ Detailed information on this medicinal product is available on the website of th
 
 Name and address of the manufacturer responsible for batch release
 
-S.C. Zentiva S.A. B-dul Theodor Pallady nr.50, sector 3, Bucure ş ti, cod 032266
-
-Romania
+S.C. Zentiva S.A. B-dul Theodor Pallady nr.50, sector 3, Bucure ş ti, cod 032266 Romania
 
 LAMP SAN PROSPERO SPA VIA DELLA PACE 25/A SAN PROSPERO (MO) 41030 Italy
 
@@ -1612,15 +1610,11 @@ LAMP SAN PROSPERO SPA VIA DELLA PACE 25/A SAN PROSPERO (MO) 41030 Italy
 
 For any information about this medicine, please contact the local representative of the Marketing Authorisation Holder:
 
-## België/Belgique/Belgien
+België/Belgique/Belgien Zentiva, k.s. Tél/Tel: +32 (78) 700 112
 
-Zentiva, k.s. Tél/Tel: +32 (78) 700 112 PV-Belgium@zentiva.com
+PV-Belgium@zentiva.com
 
-Lietuva
-
-Zentiva, k.s.
-
-Tel: +370 52152025
+Lietuva Zentiva, k.s. Tel: +370 52152025
 
 PV-Lithuania@zentiva.com
 
@@ -1648,7 +1642,7 @@ Zentiva, k.s. Τηλ : +30 211 198 7510 PV-Greece@zentiva.com
 
 ## España
 
-Zentiva, k.s. Tel: +34 671 365 828 PV-Spain@zentiva.com
+Zentiva Spain S.L.U. Tel: +34 671 365 828 PV-Spain@zentiva.com
 
 ## France
 

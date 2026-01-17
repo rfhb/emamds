@@ -1,18 +1,18 @@
 ---
-document_datetime: 2025-12-04 14:21:50
+document_datetime: 2026-01-16 10:45:11
 document_pages: 70
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/rivastigmine-sandoz-epar-product-information_en.pdf
 document_name: rivastigmine-sandoz-epar-product-information_en.pdf
 version: success
-processing_time: 20.3823697
-conversion_datetime: 2025-12-31 02:51:06.212822
+processing_time: 21.6849786
+conversion_datetime: 2026-01-17 13:23:52.240442
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.66.0
-  docling-core: 2.57.0
+  docling-serve: 1.10.0
+  docling-jobkit: 1.8.1
+  docling: 2.68.0
+  docling-core: 2.59.0
   docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-parse: 4.7.3
   python: cpython-313 (3.13.11)
   plaform: macOS-26.2-arm64-arm-64bit-Mach-O
 ---
@@ -84,6 +84,8 @@ Treatment effect has not been studied in placebo-controlled trials beyond 6 mont
 
 If treatment is interrupted for more than three days, it should be re-initiated at 1.5 mg twice daily. Dose titration should then be carried out as described above.
 
+## Special populations
+
 ## Renal and hepatic impairment
 
 No dose adjustment is necessary for patients with mild to moderate renal or hepatic impairment. However, due to increased exposure in these populations dosing recommendations to titrate according to individual tolerability should be closely followed as patients with clinically significant renal or hepatic impairment might experience more dose-dependent adverse reactions. Patients with severe hepatic impairment have not been studied, however, rivastigmine capsules may be used in this patient population provided close monitoring is exercised (see sections 4.4 and 5.2).
@@ -94,7 +96,7 @@ There is no relevant use of rivastigmine in the paediatric population in the tre
 
 ## 4.3 Contraindications
 
-The use of this medicinal product is contraindicated in patients with known hypersensitivity to the active substance rivastigmine, to other carbamate derivatives or to any of the excipients listed in section 6.1.
+Hypersensitivity to the active substance rivastigmine, to other carbamate derivatives or to any of the excipients listed in section 6.1.
 
 Previous history of application site reactions suggestive of allergic contact dermatitis with rivastigmine patch (see section 4.4).
 
@@ -126,7 +128,7 @@ Electrocardiogram QT prolongation may occur in patients treated with certain cho
 
 <div style=\"page-break-after: always\"></div>
 
-medicinal products known to induce QT prolongation - or torsade de pointes. Clinical monitoring (ECG) may also be required (see sections 4.5 and 4.8).
+medicinal products known to induce QT prolongation and/or torsade de pointes. Clinical monitoring (ECG) may also be required (see sections 4.5 and 4.8).
 
 Rivastigmine may cause increased gastric acid secretions. Care should be exercised in treating patients with active gastric or duodenal ulcers or patients predisposed to these conditions.
 
@@ -230,8 +232,8 @@ Table 1
 | Very common                               | Vomiting                                                                                             |
 | Very common                               | Diarrhoea                                                                                            |
 | Common                                    | Abdominal pain and dyspepsia                                                                         |
-| Rare                                      | Gastric and duodenal ulcers                                                                          |
-| Very rare                                 | Gastrointestinal haemorrhage                                                                         |
+| Rare                                      | Gastric and duodenal                                                                                 |
+| Very rare                                 | ulcers Gastrointestinal haemorrhage                                                                  |
 | Very rare                                 | Pancreatitis                                                                                         |
 | Not known                                 | Some cases of severe vomiting were associated with oesophageal rupture (see section 4.4).            |
 | Hepatobiliary disorders                   |                                                                                                      |
@@ -252,7 +254,7 @@ Table 1
 
 The following additional adverse reactions have been observed with rivastigmine transdermal patches: delirium, pyrexia, decreased appetite, urinary incontinence (common), psychomotor hyperactivity (uncommon), erythema, urticaria, vesicles, allergic dermatitis (not known).
 
-Table 2 shows the adverse reactions reported during clinical studies conducted in patients with dementia associated with Parkinson's disease treated with rivastigmine capsules.
+Table 2 shows the adverse reactions reported in patients with dementia associated with Parkinson's disease treated with rivastigmine capsules.
 
 Table 2
 
@@ -301,8 +303,8 @@ Table 2
 
 <div style=\"page-break-after: always\"></div>
 
-| General disorders and administration site conditions Very common Common Common Common   | Fall Fatigue and asthenia Gait disturbance Parkinson gait   |
-|-----------------------------------------------------------------------------------------|-------------------------------------------------------------|
+| General disorders and administration site conditions   |
+|--------------------------------------------------------|
 
 The following additional adverse reaction has been observed in a study of patients with dementia associated with Parkinson's disease treated with rivastigmine transdermal patches: agitation (common).
 
@@ -310,23 +312,24 @@ Table 3 lists the number and percentage of patients from the specific 24-week cl
 
 Table 3
 
-| Pre-defined adverse events that may reflect worsening of parkinsonian symptoms in patients with dementia associated with Parkinson's disease   | Rivastigmine n (%)          | Placebo n (%)                                  |
-|------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------|------------------------------------------------|
-| Total patients studied Total patients with pre-defined AE(s)                                                                                   | 362 (100) 99 (27.3)         | 179 (100) 28 (15.6)                            |
-| Tremor Fall Parkinson's disease (worsening) Salivary hypersecretion Dyskinesia Parkinsonism Hypokinesia                                        | 37 (10.2) 21 (5.8) 12 (3.3) | 7 (3.9) 11 (6.1) 2 (1.1) 0 1 (0.6) 1 (0.6) 0 0 |
-|                                                                                                                                                | 5 (1.4)                     |                                                |
-|                                                                                                                                                | 5 (1.4)                     |                                                |
-|                                                                                                                                                | 8 (2.2)                     |                                                |
-|                                                                                                                                                | 1 (0.3)                     |                                                |
-| Movement disorder                                                                                                                              | 1 (0.3)                     |                                                |
-| Bradykinesia                                                                                                                                   | 9 (2.5)                     | 3 (1.7)                                        |
-| Dystonia                                                                                                                                       | 3 (0.8)                     | 1 (0.6)                                        |
-| Gait abnormality                                                                                                                               | 5 (1.4)                     | 0                                              |
-| Muscle rigidity                                                                                                                                | 1 (0.3)                     | 0                                              |
-| Balance disorder                                                                                                                               | 3 (0.8)                     | 2 (1.1)                                        |
-| Musculoskeletal stiffness                                                                                                                      | 3 (0.8)                     | 0                                              |
-| Rigors                                                                                                                                         | 1 (0.3)                     | 0                                              |
-| Motor dysfunction                                                                                                                              | 1 (0.3)                     | 0                                              |
+| Pre-defined adverse events that may reflect worsening of parkinsonian symptoms in patients with dementia associated with Parkinson's disease   | Rivastigmine n (%)   | Placebo n (%)            |
+|------------------------------------------------------------------------------------------------------------------------------------------------|----------------------|--------------------------|
+| Total patients studied Total patients with pre-defined AE(s)                                                                                   | 362 (100) 99 (27.3)  | 179 (100) 28 (15.6)      |
+| Tremor Fall Parkinson's disease (worsening)                                                                                                    | 37 (10.2) 21 (5.8)   | 7 (3.9) 11 (6.1) 2 (1.1) |
+|                                                                                                                                                | 12 (3.3)             |                          |
+| Salivary hypersecretion                                                                                                                        | 5 (1.4)              | 0                        |
+| Dyskinesia                                                                                                                                     | 5 (1.4)              | 1 (0.6)                  |
+| Parkinsonism                                                                                                                                   | 8 (2.2)              | 1 (0.6)                  |
+| Hypokinesia                                                                                                                                    | 1 (0.3)              | 0                        |
+| Movement disorder                                                                                                                              | 1 (0.3)              | 0                        |
+| Bradykinesia                                                                                                                                   | 9 (2.5)              | 3 (1.7)                  |
+| Dystonia                                                                                                                                       | 3 (0.8)              | 1 (0.6)                  |
+| Gait abnormality                                                                                                                               | 5 (1.4)              | 0                        |
+| Muscle rigidity                                                                                                                                | 1 (0.3)              | 0                        |
+| Balance disorder                                                                                                                               | 3 (0.8)              | 2 (1.1)                  |
+| Musculoskeletal stiffness                                                                                                                      | 3 (0.8)              | 0                        |
+| Rigors                                                                                                                                         | 1 (0.3)              | 0                        |
+| Motor dysfunction                                                                                                                              | 1 (0.3)              | 0                        |
 
 ## Reporting of suspected adverse reactions
 
@@ -396,7 +399,7 @@ Table 5
 | ITT + RDO population Mean baseline ± SD Mean change at 24 weeks ± SD  | (n=329) 23.8 ± 10.2 2.1 ± 8.2 | (n=161) 24.3 ± 10.5 -0.7 ± 7.5 | (n=329) n/a 3.8 ± 1.4    | (n=165) n/a 4.3 ± 1.5 |
 | Adjusted treatment difference p-value versus placebo                  | 2.88 1 <0.001 1               | 2.88 1 <0.001 1                | n/a 0.007 2              | n/a 0.007 2           |
 | ITT - LOCF population Mean baseline ± SD Mean change at 24 weeks ± SD | (n=287) 24.0 ± 10.3 2.5 ± 8.4 | (n=154) 24.5 ± 10.6 -0.8 ± 7.5 | (n=289) n/a 3.7 ± 1.4    | (n=158) n/a 4.3 ± 1.5 |
-| Adjusted treatment difference p-value versus placebo                  | 3.54 1 <0.001 1               | 3.54 1 <0.001 1                | n/a <0.001               | 2                     |
+| Adjusted treatment difference p-value versus placebo                  | 3.54 1 <0.001 1               | 3.54 1 <0.001 1                | n/a <0.001 2             | n/a <0.001 2          |
 
 ITT: Intent-To-Treat; RDO: Retrieved Drop Outs; LOCF: Last Observation Carried Forward
 
@@ -406,14 +409,14 @@ Although a treatment effect was demonstrated in the overall study population, th
 
 Table 6
 
-| Dementia associated with Parkinson's Disease                         | ADAS-Cog Rivastigmine                       | ADAS-Cog Placebo                     | ADAS-Cog Rivastigmine                  | ADAS-Cog Placebo                       |
-|----------------------------------------------------------------------|---------------------------------------------|--------------------------------------|----------------------------------------|----------------------------------------|
-|                                                                      | Patients with visual hallucinations         | Patients with visual hallucinations  | Patients without visual hallucinations | Patients without visual hallucinations |
-| ITT + RDO population Mean baseline ± SD Mean change at 24 weeks ± SD | (n=107) 25.4 ± 9.9 1.0 ± 9.2                | (n=60) 27.4 ± 10.4 -2.1 ± 8.3        | (n=220) 23.1 ± 10.4 2.6 ± 7.6          | (n=101) 22.5 ± 10.1 0.1 ± 6.9          |
-| Adjusted treatment difference p-value versus placebo                 | 4.27 1 0.002 1                              | 4.27 1 0.002 1                       | 2.09 1 0.015 1 with mild dementia      | 2.09 1 0.015 1 with mild dementia      |
-| ITT + RDO population Mean baseline ± SD Mean change at 24 weeks ± SD | dementia (MMSE (n=87) 32.6 ± 10.4 2.6 ± 9.4 | 10-17) (n=44) 33.7 ± 10.3 -1.8 ± 7.2 | (MMSE (n=237) 20.6 ± 7.9 1.9 ± 7.7     | 18-24) (n=115) 20.7 ± 7.9 -0.2 ± 7.5   |
-| Adjusted treatment difference                                        | 4.73 1                                      | 4.73 1                               | 2.14 1                                 | 2.14 1                                 |
-| p-value versus placebo                                               | 0.002 1                                     | 0.002 1                              | 0.010 1                                | 0.010 1                                |
+| Dementia associated with Parkinson's Disease                         | ADAS-Cog Rivastigmine                        | ADAS-Cog Placebo                             | ADAS-Cog Rivastigmine                    | ADAS-Cog Placebo                         |
+|----------------------------------------------------------------------|----------------------------------------------|----------------------------------------------|------------------------------------------|------------------------------------------|
+|                                                                      | Patients with visual hallucinations          | Patients with visual hallucinations          | Patients without visual hallucinations   | Patients without visual hallucinations   |
+| ITT + RDO population Mean baseline ± SD Mean change at 24 weeks ± SD | (n=107) 25.4 ± 9.9 1.0 ± 9.2                 | (n=60) 27.4 ± 10.4 -2.1 ± 8.3                | (n=220) 23.1 ± 10.4 2.6 ± 7.6            | (n=101) 22.5 ± 10.1 0.1 ± 6.9            |
+| Adjusted treatment difference p-value versus placebo                 | 4.27 1 0.002 1                               | 4.27 1 0.002 1                               | 2.09 1 0.015 1                           | 2.09 1 0.015 1                           |
+|                                                                      | Patients with moderate dementia (MMSE 10-17) | Patients with moderate dementia (MMSE 10-17) | Patients with mild dementia (MMSE 18-24) | Patients with mild dementia (MMSE 18-24) |
+| ITT + RDO population Mean baseline ± SD Mean change at 24 weeks ± SD | (n=87) 32.6 ± 10.4 2.6 ± 9.4                 | (n=44) 33.7 ± 10.3 -1.8 ± 7.2                | (n=237) 20.6 ± 7.9 1.9 ± 7.7             | (n=115) 20.7 ± 7.9 -0.2 ± 7.5            |
+| Adjusted treatment difference p-value versus placebo                 | 4.73 1 0.002                                 | 4.73 1 0.002                                 | 2.14 1 0.010 1                           | 2.14 1 0.010 1                           |
 
 A positive change indicates improvement.
 
@@ -446,6 +449,8 @@ CYP2C9, CYP2C8, CYP2C19, or CYP2B6. Based on evidence from animal studies the ma
 Unchanged rivastigmine is not found in the urine; renal excretion of the metabolites is the major route of elimination. Following administration of 14 C-rivastigmine, renal elimination was rapid and essentially complete (&gt;90%) within 24 hours. Less than 1% of the administered dose is excreted in the faeces. There is no accumulation of rivastigmine or the decarbamylated metabolite in patients with Alzheimer's disease.
 
 A population pharmacokinetic analysis showed that nicotine use increases the oral clearance of rivastigmine by 23% in patients with Alzheimer's disease (n=75 smokers and 549 non-smokers) following rivastigmine oral capsule doses of up to 12 mg/day.
+
+## Special populations
 
 ## Elderly population
 
@@ -609,7 +614,7 @@ Date of first renewal: 11/07/2014
 
 ## 10. DATE OF REVISION OF THE TEXT
 
-Detailed information on this medicinal product is available on the website of the European Medicines Agency: http://www.ema.europa.eu/
+Detailed information on this medicinal product is available on the website of the European Medicines Agency: https://www.ema.europa.eu/
 
 <div style=\"page-break-after: always\"></div>
 
@@ -671,6 +676,8 @@ Treatment effect has not been studied in placebo-controlled trials beyond 6 mont
 
 If treatment is interrupted for more than three days, it should be re-initiated at 1.5 mg twice daily. Dose titration should then be carried out as described above.
 
+## Special populations
+
 ## Renal and hepatic impairment
 
 No dose adjustment is necessary for patients with mild to moderate renal or hepatic impairment.
@@ -685,7 +692,7 @@ There is no relevant use of rivastigmine in the paediatric population in the tre
 
 ## 4.3 Contraindications
 
-The use of this medicinal product is contraindicated in patients with known hypersensitivity to the active substance rivastigmine, to other carbamate derivatives or to any of the excipients listed in section 6.1.
+Hypersensitivity to the active substance rivastigmine, to other carbamate derivatives or to any of the excipients listed in section 6.1.
 
 Previous history of application site reactions suggestive of allergic contact dermatitis with rivastigmine patch (see section 4.4).
 
@@ -816,8 +823,7 @@ Table 1
 | Uncommon                                  | Syncope                                                                                             |
 | Rare                                      | Seizures                                                                                            |
 | Very rare                                 | Extrapyramidal symptoms (including                                                                  |
-|                                           | worsening of Parkinson's disease) syndrome)                                                         |
-| Not known                                 | Pleurothotonus (Pisa                                                                                |
+| Not known                                 | worsening of Parkinson's disease) Pleurothotonus (Pisa syndrome)                                    |
 | Cardiac disorders                         |                                                                                                     |
 | Rare                                      | Angina pectoris                                                                                     |
 | Very rare                                 | Cardiac arrhythmia (e.g. bradycardia, atrio-ventricular block, atrial fibrillation and tachycardia) |
@@ -828,11 +834,11 @@ Table 1
 | Very common                               | Nausea                                                                                              |
 | Very common                               | Vomiting                                                                                            |
 | Very common                               | Diarrhoea                                                                                           |
-| Common                                    | Abdominal pain and dyspepsia                                                                        |
-| Rare                                      | Gastric and duodenal ulcers                                                                         |
-| Very rare                                 | Gastrointestinal haemorrhage                                                                        |
+| Common                                    | Abdominal pain and dyspepsia Gastric and duodenal ulcers                                            |
+| Rare                                      | Gastrointestinal haemorrhage                                                                        |
 | Very rare                                 | Pancreatitis                                                                                        |
-| Not known                                 | Some cases of severe vomiting were associated with oesophageal rupture (see section 4.4).           |
+| Very rare                                 | Some cases of severe                                                                                |
+| Not known                                 | vomiting were associated with oesophageal rupture (see section 4.4).                                |
 | Hepatobiliary disorders                   |                                                                                                     |
 | Uncommon                                  | Elevated liver function tests                                                                       |
 | Not known                                 | Hepatitis                                                                                           |
@@ -851,7 +857,7 @@ Table 1
 
 The following additional adverse reactions have been observed with rivastigmine transdermal patches: delirium, pyrexia, decreased appetite, urinary incontinence (common), psychomotor hyperactivity (uncommon), erythema, urticaria, vesicles, allergic dermatitis (not known).
 
-Table 2 shows the adverse reactions reported during clinical studies conducted in patients with dementia associated with Parkinson's disease treated with rivastigmine capsules.
+Table 2 shows the adverse reactions reported in patients with dementia associated with Parkinson's disease treated with rivastigmine capsules.
 
 Table 2
 
@@ -900,8 +906,8 @@ Table 2
 
 <div style=\"page-break-after: always\"></div>
 
-| General disorders and administration site conditions Very common Common Common Common   | Fall Fatigue and asthenia Gait disturbance Parkinson gait   |
-|-----------------------------------------------------------------------------------------|-------------------------------------------------------------|
+| General disorders and administration site conditions   |
+|--------------------------------------------------------|
 
 The following additional adverse reaction has been observed in a study of patients with dementia associated with Parkinson's disease treated with rivastigmine transdermal patches: agitation (common).
 
@@ -909,23 +915,24 @@ Table 3 lists the number and percentage of patients from the specific 24-week cl
 
 Table 3
 
-| Pre-defined adverse events that may reflect worsening of parkinsonian symptoms in patients with dementia associated with Parkinson's disease   | Rivastigmine n (%)          | Placebo n (%)                                  |
-|------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------|------------------------------------------------|
-| Total patients studied Total patients with pre-defined AE(s)                                                                                   | 362 (100) 99 (27.3)         | 179 (100) 28 (15.6)                            |
-| Tremor Fall Parkinson's disease (worsening) Salivary hypersecretion Dyskinesia Parkinsonism Hypokinesia                                        | 37 (10.2) 21 (5.8) 12 (3.3) | 7 (3.9) 11 (6.1) 2 (1.1) 0 1 (0.6) 1 (0.6) 0 0 |
-|                                                                                                                                                | 5 (1.4)                     |                                                |
-|                                                                                                                                                | 5 (1.4)                     |                                                |
-|                                                                                                                                                | 8 (2.2)                     |                                                |
-|                                                                                                                                                | 1 (0.3)                     |                                                |
-| Movement disorder                                                                                                                              | 1 (0.3)                     |                                                |
-| Bradykinesia                                                                                                                                   | 9 (2.5)                     | 3 (1.7)                                        |
-| Dystonia                                                                                                                                       | 3 (0.8)                     | 1 (0.6)                                        |
-| Gait abnormality                                                                                                                               | 5 (1.4)                     | 0                                              |
-| Muscle rigidity                                                                                                                                | 1 (0.3)                     | 0                                              |
-| Balance disorder                                                                                                                               | 3 (0.8)                     | 2 (1.1)                                        |
-| Musculoskeletal stiffness                                                                                                                      | 3 (0.8)                     | 0                                              |
-| Rigors                                                                                                                                         | 1 (0.3)                     | 0                                              |
-| Motor dysfunction                                                                                                                              | 1 (0.3)                     | 0                                              |
+| Pre-defined adverse events that may reflect worsening of parkinsonian symptoms in patients with dementia associated with Parkinson's disease   | Rivastigmine n (%)   | Placebo n (%)            |
+|------------------------------------------------------------------------------------------------------------------------------------------------|----------------------|--------------------------|
+| Total patients studied Total patients with pre-defined AE(s)                                                                                   | 362 (100) 99 (27.3)  | 179 (100) 28 (15.6)      |
+| Tremor Fall Parkinson's disease (worsening)                                                                                                    | 37 (10.2) 21 (5.8)   | 7 (3.9) 11 (6.1) 2 (1.1) |
+|                                                                                                                                                | 12 (3.3)             |                          |
+| Salivary hypersecretion                                                                                                                        | 5 (1.4)              | 0                        |
+| Dyskinesia                                                                                                                                     | 5 (1.4)              | 1 (0.6)                  |
+| Parkinsonism                                                                                                                                   | 8 (2.2)              | 1 (0.6)                  |
+| Hypokinesia                                                                                                                                    | 1 (0.3)              | 0                        |
+| Movement disorder                                                                                                                              | 1 (0.3)              | 0                        |
+| Bradykinesia                                                                                                                                   | 9 (2.5)              | 3 (1.7)                  |
+| Dystonia                                                                                                                                       | 3 (0.8)              | 1 (0.6)                  |
+| Gait abnormality                                                                                                                               | 5 (1.4)              | 0                        |
+| Muscle rigidity                                                                                                                                | 1 (0.3)              | 0                        |
+| Balance disorder                                                                                                                               | 3 (0.8)              | 2 (1.1)                  |
+| Musculoskeletal stiffness                                                                                                                      | 3 (0.8)              | 0                        |
+| Rigors                                                                                                                                         | 1 (0.3)              | 0                        |
+| Motor dysfunction                                                                                                                              | 1 (0.3)              | 0                        |
 
 ## Reporting of suspected adverse reactions
 
@@ -984,7 +991,7 @@ Table 4
 
 *p&lt;0.05, **p&lt;0.01, ***p&lt;0.001
 
-Clinical studies in dementia associated with Parkinson's disease
+## Clinical studies in dementia associated with Parkinson's disease
 
 The efficacy of rivastigmine in dementia associated with Parkinson's disease has been demonstrated in a 24-week multicentre, double-blind, placebo-controlled core study and its 24-week open-label extension phase. Patients involved in this study had an MMSE (Mini-Mental State Examination) score of 10-24. Efficacy has been established by the use of two independent scales which were assessed at regular intervals during a 6-month treatment period as shown in Table 5 below: the ADAS-Cog, a measure of cognition, and the global measure ADCS-CGIC (Alzheimer's Disease Cooperative Study-Clinician's Global Impression of Change).
 
@@ -995,7 +1002,7 @@ Table 5
 | ITT + RDO population Mean baseline ± SD Mean change at 24 weeks ± SD  | (n=329) 23.8 ± 10.2 2.1 ± 8.2 | (n=161) 24.3 ± 10.5 -0.7 ± 7.5 | (n=329) n/a 3.8 ± 1.4    | (n=165) n/a 4.3 ± 1.5 |
 | Adjusted treatment difference p-value versus placebo                  | 2.88 1 <0.001 1               | 2.88 1 <0.001 1                | n/a 0.007 2              | n/a 0.007 2           |
 | ITT - LOCF population Mean baseline ± SD Mean change at 24 weeks ± SD | (n=287) 24.0 ± 10.3 2.5 ± 8.4 | (n=154) 24.5 ± 10.6 -0.8 ± 7.5 | (n=289) n/a 3.7 ± 1.4    | (n=158) n/a 4.3 ± 1.5 |
-| Adjusted treatment difference p-value versus placebo                  | 3.54 1 <0.001 1               | 3.54 1 <0.001 1                | n/a <0.001               | 2                     |
+| Adjusted treatment difference p-value versus placebo                  | 3.54 1 <0.001 1               | 3.54 1 <0.001 1                | n/a <0.001 2             | n/a <0.001 2          |
 
 ITT: Intent-To-Treat; RDO: Retrieved Drop Outs; LOCF: Last Observation Carried Forward
 
@@ -1011,8 +1018,8 @@ Table 6
 | ITT + RDO population Mean baseline ± SD Mean change at 24 weeks ± SD | (n=107) 25.4 ± 9.9 1.0 ± 9.2        | (n=60) 27.4 ± 10.4 -2.1 ± 8.3       | (n=220) 23.1 ± 10.4 2.6 ± 7.6          | (n=101) 22.5 ± 10.1 0.1 ± 6.9          |
 | Adjusted treatment difference p-value versus placebo                 | 4.27 1 0.002 1                      | 4.27 1 0.002 1                      | 2.09 1 0.015 1                         | 2.09 1 0.015 1                         |
 | ITT + RDO population Mean baseline ± SD Mean change at 24 weeks ± SD | (n=87) 32.6 ± 10.4 2.6 ± 9.4        | (n=44) 33.7 ± 10.3 -1.8 ± 7.2       | (n=237) 20.6 ± 7.9 1.9 ± 7.7           | (n=115) 20.7 ± 7.9 -0.2 ± 7.5          |
-| Adjusted treatment difference p-value versus                         | 4.73 1                              | 4.73 1                              | 2.14 1 1                               | 2.14 1 1                               |
-| placebo                                                              | 0.002 1                             | 0.002 1                             | 0.010                                  | 0.010                                  |
+| Adjusted treatment difference p-value versus                         | 4.73 1                              | 4.73 1                              | 2.14 1                                 | 2.14 1                                 |
+| placebo                                                              | 0.002 1                             | 0.002 1                             | 0.010 1                                | 0.010 1                                |
 
 1 Based on ANCOVA with treatment and country as factors and baseline ADAS-Cog as a covariate. A positive change indicates improvement.
 
@@ -1032,9 +1039,9 @@ Protein binding of rivastigmine is approximately 40%. It readily crosses the blo
 
 ## Biotransformation
 
-Rivastigmine is rapidly and extensively metabolised (half-life in plasma approximately 1 hour), primarily via cholinesterase-mediated hydrolysis to the decarbamylated metabolite. In vitro , this metabolite shows minimal inhibition of acetylcholinesterase (&lt;10%).
+Rivastigmine is rapidly and extensively metabolised (half-life in plasma approximately 1 hour), primarily via cholinesterase-mediated hydrolysis to the decarbamylated metabolite. In vitro metabolite shows minimal inhibition of acetylcholinesterase (&lt;10%).
 
-Based on in vitro studies, no pharmacokinetic interaction is expected with medicinal products metabolised by the following cytochromes isoemzymes: CYP1A2, CYP2D6, CYP3A4/5, CYP2E1,
+, this Based on in vitro studies, no pharmacokinetic interaction is expected with medicinal products metabolised by the following cytochromes isoemzymes: CYP1A2, CYP2D6, CYP3A4/5, CYP2E1,
 
 <div style=\"page-break-after: always\"></div>
 
@@ -1045,6 +1052,8 @@ CYP2C9, CYP2C8, CYP2C19, or CYP2B6. Based on evidence from animal studies the ma
 Unchanged rivastigmine is not found in the urine; renal excretion of the metabolites is the major route of elimination. Following administration of 14 C-rivastigmine, renal elimination was rapid and essentially complete (&gt;90%) within 24 hours. Less than 1% of the administered dose is excreted in the faeces. There is no accumulation of rivastigmine or the decarbamylated metabolite in patients with Alzheimer's disease.
 
 A population pharmacokinetic analysis showed that nicotine use increases the oral clearance of rivastigmine by 23% in patients with Alzheimer's disease (n=75 smokers and 549 non-smokers) following rivastigmine oral capsule doses of up to 12 mg/day.
+
+## Special populations
 
 ## Elderly population
 
@@ -1130,16 +1139,16 @@ Detailed information on this medicinal product is available on the website of th
 
 ## ANNEX II
 
-- A. MANUFACTURER(S) RESPONSIBLE FOR BATCH RELEASE
+- A. MANUFACTURERS RESPONSIBLE FOR BATCH RELEASE
 - B. CONDITIONS OR RESTRICTIONS REGARDING SUPPLY AND USE
 - C. OTHER CONDITIONS AND REQUIREMENTS OF THE MARKETING AUTHORISATION
-- D. CONDITIONS OR RESTRICTIONS WITH REGARDS TO THE SAFE AND EFFECTIVE USE OF THE MEDICINAL PRODUCT
+- D. CONDITIONS OR RESTRICTIONS WITH REGARD TO THE SAFE AND EFFECTIVE USE OF THE MEDICINAL PRODUCT
 
 <div style=\"page-break-after: always\"></div>
 
-## A. MANUFACTURER(S) RESPONSIBLE FOR BATCH RELEASE
+## A. MANUFACTURERS RESPONSIBLE FOR BATCH RELEASE
 
-Name and address of the manufacturer responsible for batch release
+Name and address of the manufacturers responsible for batch release
 
 Hard gelatine capsules Novartis Farmacéutica, S.A. Gran Via de les Corts Catalanes, 764 08013 Barcelona Spain
 
@@ -1149,13 +1158,7 @@ Salutas Pharma Gmbh Otto-Von-Guericke-Allee 1, Barleben, Saxony-Anhalt, 39179, G
 
 Oral solution Novartis Pharma GmbH Roonstrasse 25 D-90429 Nuremberg Germany
 
-Novartis Farmacéutica, S.A.
-
-Gran Via de les Corts Catalanes 764,
-
-08013 Barcelona
-
-Spain
+Novartis Farmacéutica, S.A. Gran Via de les Corts Catalanes 764, 08013 Barcelona Spain
 
 Salutas Pharma Gmbh Otto-Von-Guericke-Allee 1, Barleben, Saxony-Anhalt, 39179, Germany
 
@@ -1167,23 +1170,19 @@ Medicinal product on 'restricted' medical prescription, reserved for use in cert
 
 ## C. OTHER CONDITIONS AND REQUIREMENTS OF THE MARKETING AUTHORISATION
 
-## Pharmacovigilance system
-
-The MAH must ensure that the system of pharmacovigilance, as presented in Module 1.8.1. of the Marketing Authorisation Application, is in place and functioning before and whilst the product is on the market.
-
 Periodic safety update reports (PSURs)
+
+The requirements for submission of PSURs for this medicinal product are set out in the list of Union reference dates (EURD list) provided for under Article 107c(7) of Directive 2001/83/EC and any subsequent updates published on the European medicines web-portal.
 
 <div style=\"page-break-after: always\"></div>
 
-The  PSUR  cycle  of  Rivastigmine  Sandoz  is  aligned  with  the  cross-referred  product,  Exelon,  until otherwise specified.
-
-## D. CONDITIONS OR RESTRICTIONS WITH REGARDS TO THE SAFE AND EFFECTIVE USE OF THE MEDICINAL PRODUCT
+## D. CONDITIONS OR RESTRICTIONS WITH REGARD TO THE SAFE AND EFFECTIVE USE OF THE MEDICINAL PRODUCT
 
 Not applicable.
 
 Risk management plan (RMP)
 
-The marketing authorisation holder (MAH) shall perform the required pharmacovigilance activities and intervention detailed in the agreed RMP presented in Module 1.8.2 of the marketing authorisation and any agreed subsequent updates of the RMP.
+The marketing authorisation holder (MAH) shall perform the required pharmacovigilance activities and interventions detailed in the agreed RMP presented in Module 1.8.2 of the marketing authorisation and any agreed subsequent updates of the RMP.
 
 An updated RMP should be submitted:
 
@@ -1222,9 +1221,9 @@ Each capsule contains 1.5 mg of rivastigmine (as hydrogen tartrate).
 
 - 28 hard capsules
 
-- 56 hard capsules
+56 hard capsules
 
-- 112 hard capsules
+112 hard capsules
 
 ## 5. METHOD AND ROUTE(S) OF ADMINISTRATION
 
@@ -1247,8 +1246,6 @@ EXP
 <div style=\"page-break-after: always\"></div>
 
 Do not store above 30°C.
-
-<div style=\"page-break-after: always\"></div>
 
 ## 10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
 
@@ -1293,6 +1290,8 @@ Rivastigmine Sandoz 1.5 mg
 PC
 
 SN
+
+<div style=\"page-break-after: always\"></div>
 
 NN
 
@@ -1345,9 +1344,9 @@ Each capsule contains 3 mg of rivastigmine (as hydrogen tartrate).
 
 - 28 hard capsules
 
-- 56 hard capsules
+56 hard capsules
 
-- 112 hard capsules
+112 hard capsules
 
 ## 5. METHOD AND ROUTE(S) OF ADMINISTRATION
 
@@ -1446,9 +1445,7 @@ Lot
 | 5.   | OTHER   |
 |------|---------|
 
-Monday Tuesday Wednesday Thursday Friday Saturday
-
-Sunday
+Monday Tuesday Wednesday Thursday Friday Saturday Sunday
 
 ## PARTICULARS TO APPEAR ON THE OUTER PACKAGING
 
@@ -1468,11 +1465,11 @@ Each capsule contains 4.5 mg of rivastigmine (as hydrogen tartrate).
 
 ## 4. PHARMACEUTICAL FORM AND CONTENTS
 
-- 28 hard capsules
+28 hard capsules
 
-- 56 hard capsules
+56 hard capsules
 
-- 112 hard capsules
+112 hard capsules
 
 ## 5. METHOD AND ROUTE(S) OF ADMINISTRATION
 
@@ -1502,9 +1499,7 @@ Do not store above 30°C.
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
-Sandoz GmbH
-
-Biochemiestraße 10
+Sandoz GmbH Biochemiestraße 10
 
 A-6250 Kundl Austria
 
@@ -1556,8 +1551,7 @@ Rivastigmine Sandoz 4.5 mg hard capsules rivastigmine (as hydrogen tartrate)
 
 Sandoz Pharmaceuticals GmbH
 
-| 3.   | EXPIRY DATE   |
-|------|---------------|
+## 3. EXPIRY DATE
 
 EXP
 
@@ -1566,8 +1560,7 @@ EXP
 
 Lot
 
-| 5.   | OTHER   |
-|------|---------|
+## 5. OTHER
 
 Monday Tuesday Wednesday Thursday Friday Saturday Sunday
 
@@ -1589,11 +1582,11 @@ Each capsule contains 6 mg of rivastigmine (as hydrogen tartrate).
 
 ## 4. PHARMACEUTICAL FORM AND CONTENTS
 
-- 28 hard capsules
+28 hard capsules
 
-- 56 hard capsules
+56 hard capsules
 
-- 112 hard capsules
+112 hard capsules
 
 ## 5. METHOD AND ROUTE(S) OF ADMINISTRATION
 
@@ -1746,7 +1739,7 @@ After opening: 1 month
 
 Do not store above 30°C. Do not refrigerate or freeze. Store in an upright position.
 
-## 10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
+10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
@@ -1799,18 +1792,18 @@ PC SN NN
 
 ## B. PACKAGE LEAFLET
 
-<div style=\"page-break-after: always\"></div>
-
 ## Package leaflet: Information for the patient
+
+<div style=\"page-break-after: always\"></div>
 
 Rivastigmine Sandoz 1.5 mg hard capsules Rivastigmine Sandoz 3 mg hard capsules Rivastigmine Sandoz 4.5 mg hard capsules Rivastigmine Sandoz 6 mg hard capsules rivastigmine
 
 ## Read all of this leaflet carefully before you start taking this medicine because it contains important information for you.
 
 - -Keep this leaflet. You may need to read it again.
-- -If you have any further questions, ask your doctor or pharmacist.
+- -If you have any further questions, ask your doctor, pharmacist or nurse.
 - -This medicine has been prescribed for you only. Do not pass it on to others. It may harm them, even if their signs of illness are the same as yours.
-- -If you get any side effects, talk to your doctor or pharmacist. This includes any possible side effects not listed in this leaflet. See section 4.
+- -If you get any side effects, talk to your doctor, pharmacist or nurse. This includes any possible side effects not listed in this leaflet. See section 4.
 
 ## What is in this leaflet
 
@@ -1891,7 +1884,7 @@ Your doctor will tell you whether your illness allows you to drive vehicles and 
 
 ## 3. How to take Rivastigmine Sandoz
 
-Always take this medicine exactly as your doctor has told you. Check with your doctor or pharmacist if you are not sure.
+Always take this medicine exactly as your doctor has told you. Check with your doctor, pharmacist or nurse if you are not sure.
 
 ## How to start treatment
 
@@ -1952,6 +1945,7 @@ You may have side effects more often when you start your medicine or when your d
 -  Trembling or feeling confused
 -  Decreased appetite
 -  Nightmares
+-  Sleepiness
 
 ## Uncommon (may affect up to 1 in 100 people)
 
@@ -1994,11 +1988,12 @@ These patients have some side effects more often. They also have some additional
 
 -  Trembling
 -  Fainting
--  Accidentally falling
 
 <div style=\"page-break-after: always\"></div>
 
-## Common (may affect up to 1 in 10 people)
+##  Accidentally falling
+
+Common (may affect up to 1 in 10 people)
 
 -  Anxiety
 -  Feeling restless
@@ -2007,10 +2002,19 @@ These patients have some side effects more often. They also have some additional
 -  Too much saliva and dehydration
 -  Unusually slow movements or movements you cannot control
 -  The signs of Parkinson's disease get worse or getting similar signs - such as stiff muscles, difficulty in carrying out movements and muscle weakness
+-  Seeing things that are not there (hallucinations)
+-  Depression
+-  High blood pressure
 
 Uncommon (may affect up to 1 in 100 people)
 
 -  Uneven heartbeat and poor control of movements
+-  Low blood pressure
+
+Not known (frequency cannot be estimated from the available data)
+
+-  Pisa syndrome (a condition involving involuntary muscle contraction with abnormal bending of the body and head to one side)
+-  Skin rash
 
 ## Other side effects seen with transdermal patches and which may occur with the hard capsules:
 
@@ -2032,7 +2036,7 @@ If you get any of these side effects, contact your doctor as you may need medica
 
 ## Reporting of side effects
 
-If you get any side effects, talk to your doctor or pharmacist. This includes any possible side effects not listed in this leaflet.
+If you get any side effects, talk to your doctor, pharmacist or nurse. This includes any possible side effects not listed in this leaflet.
 
 You can also report side effects directly via the national reporting system listed in Appendix V. By reporting side effects you can help provide more information on the safety of this medicine.
 
@@ -2085,15 +2089,11 @@ Salutas Pharma Gmbh Otto-Von-Guericke-Allee 1, Barleben, Saxony-Anhalt, 39179, G
 
 For any information about this medicine, please contact the local representative of the Marketing Authorisation Holder:
 
-België/Belgique/Belgien Sandoz nv/sa Tél/Tel.: + 32 2 722 97 97
-
-Luxembourg/Luxemburg
-
-Sandoz nv/sa
-
-Tél/Tel: + 32 2 722 97 97
-
 <div style=\"page-break-after: always\"></div>
+
+## België/Belgique/Belgien
+
+Sandoz N.V. Telecom Gardens, Medialaan 40 B-1800 Vilvoorde Tél/Tel: + 32 (0)2 722 97 97
 
 ## България
 
@@ -2103,53 +2103,29 @@ Teл.: + 359 2 970 47 47
 
 ## Česká republika
 
-Sandoz s.r.o.
-
-Tel: +420 234 142 222
+Sandoz s.r.o. Na Pankráci 1724/129 CZ-14000 Praha 4 - Nusle E-mail: office.cz@sandoz.com Tel: +420 225 775 111
 
 ## Danmark
 
-Sandoz A/S
-
-Tlf.: +45 6395 1000
+Sandoz A/S Edvard Thomsens Vej 14 DK-2300 København S Danmark Tlf: +45 6395 1000 info.danmark@sandoz.com
 
 ## Deutschland
 
-Hexal AG Industriestraße 25 D-83607 Holzkirchen
-
-Tel: + 49 8024 908 0
-
-E-mail: service@hexal.com
+Hexal AG Industriestraße 25 D-83607 Holzkirchen Tel: + 49 8024 908 0 E-mail: service@hexal.com
 
 ## Eesti
 
-Sandoz d.d. Eesti filiaal
-
-Tel: +372 6652400
+Sandoz d.d. Eesti filiaal Pärnu mnt 105 EE-11312 Tallinn Tel: +372 6652400
 
 ## Ελλάδα
 
-SANDOZ HELLAS ΜΟΝΟΠΡΟΣΩΠΗ Α.Ε.
-
-Τηλ: +30 216 600 5000
+SANDOZ HELLAS ΜΟΝΟΠΡΟΣΩΠΗ Α.Ε. Τηλ: +30 216 600 5000
 
 ## España
 
-Centro Empresarial Parque Norte, Edificio Roble
+Sandoz Farmacéutica, S.A Centro Empresarial Parque Norte, Edificio Roble C/ Serrano Galvache Nº 56, 28033 Madrid Tel: +34 900 456 856 registros.spain@sandoz.com
 
-Sandoz Farmacéutica, S.A C/ Serrano Galvache Nº 56, 28033 Madrid Tel: +34 900 456 856 registros.spain@sandoz.com
-
-## France
-
-Sandoz SAS Tél: + 33 1 49 64 48 00
-
-## Ireland
-
-Rowex Ltd. Newtown IE-Bantry Co. Cork P75 V009
-
-Tel: +353 27 50077
-
-Email: patient.safety.ireland@sandoz.net
+Luxembourg/Luxemburg Sandoz N.V. Telecom Gardens, Medialaan 40 B 1800 Vilvoorde Tél/Tel: + 32 (0)2 722 97 97
 
 ## Magyarország
 
@@ -2159,19 +2135,15 @@ Sandoz Hungária Kft. Bartók Béla út 43-47 H-1114 Budapest Tel.: + 36 1 430 2
 
 Sandoz Pharmaceuticals d.d.
 
-Tel: +35699644126
+Tel: +35699644126=
 
 ## Nederland
 
-Sandoz BV Hospitaaldreef 29,
-
-NL-1315 RC Almere Tel: +31 36 5241600 E-mail: info.sandoz-nl@sandoz.com
+Sandoz BV Hospitaaldreef 29, NL-1315 RC Almere Tel: +31 36 5241600 E-mail: info.sandoz-nl@sandoz.com
 
 ## Norge
 
-Sandoz A/S
-
-Tlf: +45 63 95 10 00
+Sandoz A/S Edvard Thomsens Vej 14 DK-2300 København S Danmark Tlf: +45 6395 1000 info.norge@sandoz.com
 
 ## Österreich
 
@@ -2183,43 +2155,31 @@ Sandoz Polska Sp.z o.o. ul. Domaniewska 50 C PL-02-672 Warszawa Tel: + 48 22 549
 
 ## Portugal
 
-Sandoz Farmacêutica Lda.
+Sandoz Farmacêutica, Lda. Quinta da Fonte, Rua dos Malhões nº5, Edifício Q56 D. Pedro I, Piso 0 2770-071 Paço de Arcos Portugal
 
-Tel: +351 21 196 40 00
-
-## România
-
-Sandoz Pharmaceuticals SRL Tel: +40 21 407 51 60
-
-## Slovenija
-
-Lek Pharmaceuticals d.d. Verovškova 57 SI-1526 Ljubljana
-
-Tel: + 386 1 5802111
-
-E-mail: info.lek@sandoz.com
+Tel: +351 211 964 000
 
 <div style=\"page-break-after: always\"></div>
 
+## France
+
+Sandoz SAS 49, avenue Georges Pompidou F-92593 Levallois-Perret Cedex Tél: + 33 1 4964 4800
+
+## Ireland
+
+Rowex Ltd. Newtown IE-Bantry Co. Cork P75 V009 Tel: +353 27 50077
+
 ## Ísland
 
-Sandoz A/S
-
-Sími : +45 63 95 10 00
+Sandoz A/S Edvard Thomsens Vej 14 DK-2300 Kaupmannahöfn S Danmörk Sími : +45 6395 1000 info.danmark@sandoz.com
 
 ## Italia
 
-Sandoz S.p.A.
-
-Tel: + 39 02 812 806 96
+Sandoz S.p.a Largo Umberto Boccioni 1 I-21040 Origgio (VA) Tel: + 39 02 96541
 
 ## Κύπρος
 
-SANDOZ HELLAS ΜΟΝΟΠΡΟΣΩΠΗ Α.Ε.
-
-(Ελλάδα)
-
-Τηλ: +30 216 600 5000
+Sandoz Pharmaceuticals d.d. Τηλ: +357 22 69 0690
 
 ## Latvija
 
@@ -2227,13 +2187,19 @@ Sandoz d.d. Latvia filiāle K.Valdemāra Str. 33 - 29 LV-1010 Riga Tel: + 371 67
 
 ## Lietuva
 
-Sandoz Pharmaceuticals d.d. filialas
-
-Tel: + 370 5 2636037
+Sandoz Pharmaceuticals d.d., Branch Office Lithuania Seimyniskiu Str. 3A LT-09312 Vilnius Tel: + 370 5 2636037
 
 ## This leaflet was last revised in
 
 Detailed information on this medicine is available on the European Medicines Agency (EMA) website: http://www.ema.europa.eu
+
+## România
+
+Sandoz S.R.L. Str Livezeni nr. 7A, Târgu Mureș, 540472 România Tel: +40 21 310 44 30
+
+## Slovenija
+
+Lek Pharmaceuticals d.d. Verovśkova 57 SI-1526 Ljubljana Tel: + 386 1 5802111 E-mail: info.lek@sandoz.com
 
 ## Slovenská republika
 
@@ -2241,15 +2207,19 @@ Sandoz d.d. - organizačná zložka Žižkova 22B SK-811 02 Bratislava Tel: +421
 
 ## Suomi/Finland
 
-Sandoz A/S
-
-Puh/Tel: +358 10 6133 400
+Sandoz A/S Edvard Thomsens Vej 14 DK-2300 Kööpenhamina S/Köpenhamn S Tanska/Finland Puh: +358 010 6133 400 info.suomi@sandoz.com
 
 ## Sverige
 
-Sandoz A/S
+Sandoz A/S Edvard Thomsens Vej 14 DK-2300 Köpenhamn S Danmark Tel: +45 6395 1000
 
-Tel: +45 63 95 10 00
+info.sverige@sandoz.com
+
+## United Kingdom (Northern Ireland)
+
+Sandoz GmbH Biochemiestr. 10 A-6250 Kundl Tel: +43 5338 2000
+
+## uk.drugsafety@sandoz.com
 
 ## Hrvatska
 
@@ -2270,9 +2240,9 @@ E-mail: upit.croatia@sandoz.com
 ## Read all of this leaflet carefully before you start taking this medicine because it contains important information for you.
 
 - -Keep this leaflet. You may need to read it again.
-- -If you have any further questions, ask your doctor or pharmacist.
+- -If you have any further questions, ask your doctor, pharmacist or nurse.
 - -This medicine has been prescribed for you only. Do not pass it on to others. It may harm them, even if their signs of illness are the same as yours.
-- -If you get any side effects, talk to your doctor or pharmacist. This includes any possible side effects not listed in this leaflet.See section 4.
+- -If you get any side effects, talk to your doctor, pharmacist or nurse. This includes any possible side effects not listed in this leaflet.See section 4.
 
 ## What is in this leaflet
 
@@ -2463,6 +2433,7 @@ Very common (may affect more than 1 in 10 people)
 -  Trembling or feeling confused
 -  Decreased appetite
 -  Nightmares
+-  Sleepiness
 
 ## Uncommon (may affect up to 1 in 100 people)
 
@@ -2482,7 +2453,8 @@ Very common (may affect more than 1 in 10 people)
 
 -  High blood pressure
 -  Urinary tract infection
--  Seeing things that are not there (hallucinations)
+- 
+- Seeing things that are not there (hallucinations)
 -  Problems with your heartbeat such as fast or slow heartbeat
 -  Bleeding in the gut - shows as blood in stools or when being sick
 -  Inflammation of the pancreas - the signs include serious upper stomach pain, often with feeling sick (nausea) or being sick (vomiting)
@@ -2518,14 +2490,23 @@ These patients have some side effects more often. They also have some additional
 -  Too much saliva and dehydration
 -  Unusually slow movements or movements you cannot control
 -  The signs of Parkinson's disease get worse or getting similar signs - such as stiff muscles, difficulty in carrying out movements and muscle weakness
+-  Seeing things that are not there (hallucinations)
+-  Depression
+-  High blood pressure
 
 Uncommon (may affect up to 1 in 100 people)
 
 -  Uneven heartbeat and poor control of movements
+-  Low blood pressure
+
+Not known (frequency cannot be estimated from the available data)
+
+-  Pisa syndrome (a condition involving involuntary muscle contraction with abnormal bending of the body and head to one side)
+-  Skin rash
 
 ## Other side effects seen with transdermal patches and which may occur with the oral solution:
 
-Common (may affect up to 1 in 10 people)
+## Common (may affect up to 1 in 10 people)
 
 -  Fever
 -  Severe confusion
@@ -2543,7 +2524,7 @@ If you get any of these side effects, contact your doctor as you may need medica
 
 ## Reporting of side effects
 
-If you get any side effects, talk to your doctor or pharmacist. This includes any possible side effects not listed in this leaflet.
+If you get any side effects, talk to your doctor, pharmacist or nurse. This includes any possible side effects not listed in this leaflet.
 
 You can also report side effects directly via the national reporting system listed in Appendix V. By reporting side effects you can help provide more information on the safety of this medicine.
 
@@ -2559,9 +2540,9 @@ Store in an upright position.
 
 Use Rivastigmine Sandoz oral solution within 1 month of opening the bottle.
 
-Do not throw away any medicines via wastewater or household waste. Ask your pharmacist how to throw away medicines you no longer use. These measures will help protect the environment.
-
 <div style=\"page-break-after: always\"></div>
+
+Do not throw away any medicines via wastewater or household waste. Ask your pharmacist how to throw away medicines you no longer use. These measures will help protect the environment.
 
 ## 6. Content of the pack and other information
 
@@ -2590,23 +2571,17 @@ For any information about this medicine, please contact the local representative
 
 ## België/Belgique/Belgien
 
-Sandoz nv/sa
-
-Tél/Tel.: + 32 2 722 97 97
-
-## Luxembourg/Luxemburg
-
-Sandoz nv/sa
-
-Tél/Tel: + 32 2 722 97 97
+Sandoz N.V. Telecom Gardens, Medialaan 40 B-1800 Vilvoorde Tél/Tel: + 32 (0)2 722 97 97
 
 ## България
+
+Luxembourg/Luxemburg Sandoz N.V. Telecom Gardens, Medialaan 40 B 1800 Vilvoorde Tél/Tel: + 32 (0)2 722 97 97
+
+## Magyarország
 
 Сандоз България КЧТ
 
 Teл.: + 359 2 970 47 47
-
-## Magyarország
 
 Sandoz Hungária Kft. Bartók Béla út 43-47 H-1114 Budapest
 
@@ -2614,25 +2589,15 @@ Tel.: + 36 1 430 2890
 
 E-mail: info.hungary@sandoz.com
 
-Česká republika
-
-Sandoz s.r.o.
-
-Tel: +420 234 142 222
-
-## Malta
-
-Sandoz Pharmaceuticals d.d.
-
-Tel: +35699644126
-
 <div style=\"page-break-after: always\"></div>
+
+## Česká republika
+
+Sandoz s.r.o. Na Pankráci 1724/129 CZ-14000 Praha 4 - Nusle E-mail: office.cz@sandoz.com Tel: +420 225 775 111
 
 ## Danmark
 
-Sandoz A/S
-
-Tlf.: +45 6395 1000
+Sandoz A/S Edvard Thomsens Vej 14 DK-2300 København S Danmark Tlf: +45 6395 1000 info.danmark@sandoz.com
 
 ## Deutschland
 
@@ -2640,9 +2605,7 @@ Hexal AG Industriestraße 25 D-83607 Holzkirchen Tel: + 49 8024 908 0 E-mail: se
 
 ## Eesti
 
-Sandoz d.d. Eesti filiaal
-
-Tel: +372 6652400
+Sandoz d.d. Eesti filiaal Pärnu mnt 105 EE-11312 Tallinn Tel: +372 6652400
 
 ## Ελλάδα
 
@@ -2658,35 +2621,29 @@ Sandoz Farmacéutica, S.A Centro Empresarial Parque Norte, Edificio Roble C/ Ser
 
 ## France
 
-Sandoz SAS Tél: + 33 1 49 64 48 00
+Sandoz SAS 49, avenue Georges Pompidou F-92593 Levallois-Perret Cedex Tél: + 33 1 4964 4800
 
 ## Ireland
 
-Rowex Ltd. Newtown IE-Bantry Co. Cork P75 V009 Tel: +353 27 50077 Email: patient.safety.ireland@sandoz.net
+Rowex Ltd. Newtown IE-Bantry Co. Cork P75 V009
+
+Tel: +353 27 50077
 
 ## Ísland
 
-Sandoz A/S
+## Malta
 
-Sími: +45 63 95 10 00
+Sandoz Pharmaceuticals d.d.
+
+Tel: +35699644126
 
 ## Nederland
 
-Sandoz BV
-
-Hospitaaldreef 29,
-
-NL-1315 RC Almere
-
-Tel: +31 36 5241600
-
-E-mail: info.sandoz-nl@sandoz.com
+Sandoz BV Hospitaaldreef 29, NL-1315 RC Almere Tel: +31 36 5241600 E-mail: info.sandoz-nl@sandoz.com
 
 ## Norge
 
-Sandoz A/S
-
-Tlf: +45 63 95 10 00
+Sandoz A/S Edvard Thomsens Vej 14 DK-2300 København S Danmark Tlf: +45 6395 1000 info.norge@sandoz.com
 
 ## Österreich
 
@@ -2698,35 +2655,37 @@ Sandoz Polska Sp.z o.o. ul. Domaniewska 50 C PL-02-672 Warszawa Tel: + 48 22 549
 
 ## Portugal
 
-Sandoz Farmacêutica Lda. Tel: +351 21 196 40 00
+Sandoz Farmacêutica, Lda. Quinta da Fonte, Rua dos Malhões nº5, Edifício Q56 D. Pedro I, Piso 0 2770-071 Paço de Arcos Portugal
+
+Tel: +351 211 964 000
 
 ## România
 
-Sandoz Pharmaceuticals SRL
-
-Tel: +40 21 407 51 60
+Sandoz S.R.L. Str Livezeni nr. 7A, Târgu Mureș, 540472 România Tel: +40 21 310 44 30
 
 ## Slovenija
 
-Lek Pharmaceuticals d.d. Verovškova 57 SI-1526 Ljubljana Tel: + 386 1 5802111 E-mail: info.lek@sandoz.com
+Lek Pharmaceuticals d.d. Verovśkova 57 SI-1526 Ljubljana Tel: + 386 1 5802111 E-mail: info.lek@sandoz.com
 
 ## Slovenská republika
 
-Sandoz d.d. - organizačná zložka Žižkova 22B SK-811 02 Bratislava Tel: +421 2 48 200 600
-
 <div style=\"page-break-after: always\"></div>
+
+Sandoz A/S Edvard Thomsens Vej 14 DK-2300 Kaupmannahöfn S Danmörk
+
+Sími: +45 6395 1000
+
+info.danmark@sandoz.com
 
 ## Italia
 
-Sandoz S.p.A.
-
-Tel: + 39 02 812 806 96
+Sandoz S.p.a Largo Umberto Boccioni 1 I-21040 Origgio (VA) Tel: + 39 02 96541
 
 ## Κύπρος
 
-SANDOZ HELLAS ΜΟΝΟΠΡΟΣΩΠΗ Α.Ε. (Ελλάδα)
+Sandoz Pharmaceuticals d.d.
 
-Τηλ: +30 216 600 5000
+Τηλ: +357 22 69 0690
 
 ## Latvija
 
@@ -2734,23 +2693,35 @@ Sandoz d.d. Latvia filiāle K.Valdemāra Str. 33 - 29 LV-1010 Riga Tel: + 371 67
 
 ## Lietuva
 
-Sandoz Pharmaceuticals d.d. filialasTel: + 370 5 2636037
+Sandoz Pharmaceuticals d.d., Branch Office
+
+Lithuania Seimyniskiu Str. 3A LT-09312 Vilnius
+
+Tel: + 370 5 2636037
 
 ## This leaflet was last revised in
 
-Detailed information on this medicine is available on the European Medicines Agency (EMA) website: http://www.ema.europa.eu
+Detailed information on this medicine is available on the European Medicines Agency (EMA) website: https://www.ema.europa.eu/
+
+Sandoz d.d. - organizačná zložka Žižkova 22B SK-811 02 Bratislava Tel: +421 2 48 200 600
 
 ## Suomi/Finland
 
-Sandoz A/S
+Sandoz A/S Edvard Thomsens Vej 14 DK-2300 Kööpenhamina S/Köpenhamn S Tanska/Finland Puh: +358 010 6133 400
 
-Puh/Tel: +358 10 6133 400
+info.suomi@sandoz.com
 
 ## Sverige
 
-Sandoz A/S
+Sandoz A/S Edvard Thomsens Vej 14 DK-2300 Köpenhamn S Danmark Tel: +45 6395 1000
 
-Tel: +45 63 95 10 00
+info.sverige@sandoz.com
+
+## United Kingdom (Northern Ireland)
+
+Sandoz GmbH Biochemiestr. 10 A-6250 Kundl Tel: +43 5338 2000
+
+uk.drugsafety@sandoz.com
 
 ## Hrvatska
 

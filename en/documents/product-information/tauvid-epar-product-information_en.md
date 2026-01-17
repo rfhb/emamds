@@ -1,18 +1,18 @@
 ---
-document_datetime: 2024-12-03 16:32:39
+document_datetime: 2026-01-16 15:12:07
 document_pages: 35
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/tauvid-epar-product-information_en.pdf
 document_name: tauvid-epar-product-information_en.pdf
 version: success
-processing_time: 7.0595827
-conversion_datetime: 2025-12-27 20:07:30.868321
+processing_time: 7.1960411
+conversion_datetime: 2026-01-17 13:12:09.168045
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.66.0
-  docling-core: 2.57.0
+  docling-serve: 1.10.0
+  docling-jobkit: 1.8.1
+  docling: 2.68.0
+  docling-core: 2.59.0
   docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-parse: 4.7.3
   python: cpython-313 (3.13.11)
   plaform: macOS-26.2-arm64-arm-64bit-Mach-O
 ---
@@ -222,11 +222,11 @@ Figure 3. AD diagnostic scan examples
 
 <!-- image -->
 
-- A:   Off target binding in the striatum.
+A:   Off target binding in the striatum.
 
 Row 1:  Example of a patient with increased uptake in PLT (solid arrows).
 
-- Row 2:  Example of a patient with increased uptake in PLT and occipital regions (solid arrows).
+Row 2:  Example of a patient with increased uptake in PLT and occipital regions (solid arrows).
 
 Row 3 and 4:  Example of a patient with increased neocortical activity in PLT, occipital lobe (solid arrows) and precuneus (dashed arrows) (row 3: level of temporal lobes, row 4: level of parietal/precuneus).
 
@@ -381,11 +381,11 @@ The diagnostic performance of an AD flortaucipir ( 18 F) pattern to confirm the 
 
 Table 3: Diagnostic performance of flortaucipir ( 18 F) scan among autopsied patients - Studies 1 and 2
 
-| Truth Standard           | Study (N)    | Sensitivity (%) (median and range)   | Specificity (%) (median and range)   |
-|--------------------------|--------------|--------------------------------------|--------------------------------------|
-| B3 NFT (Primary Analysis | Study 1 (64) | 92 (92 - 100)                        | 76 (52 - 92)                         |
-| 1)                       | Study 2      | 89                                   | 77                                   |
-|                          | (82)         | (87 - 94)                            | (63 - 91)                            |
+| Truth Standard           | Study (N)   | Sensitivity (%) (median and range)   | Specificity (%) (median and range)   |
+|--------------------------|-------------|--------------------------------------|--------------------------------------|
+| B3 NFT (Primary Analysis | Study 1     | 92                                   | 76                                   |
+| 1)                       | Study 2     | 89                                   | 77                                   |
+|                          | (82)        | (87 - 94)                            | (63 - 91)                            |
 
 In Study 1, for all cases with a visual read (whether or not the patient came to autopsy; n=105), Fleiss' kappa for inter-reader agreement across the 5 readers was 0.80 (95 % confidence interval 0.74 to 0.86).  In Study 2, the Fleiss' kappa for all cases read including both scans from Study 1 autopsy subjects and scans from subjects with clinically defined MCI and AD (n=241) was 0.87 (95 % confidence interval 0.83 to 0.91).
 
@@ -501,7 +501,7 @@ Any unused radiopharmaceutical or waste material should be disposed of in accord
 
 ## 7. MARKETING AUTHORISATION HOLDER
 
-Eli Lilly Nederland B.V. Papendorpseweg 83 3528 BJ Utrecht The Netherlands
+Eli Lilly Nederland B.V. Orteliuslaan 1000 3528 BD Utrecht The Netherlands
 
 ## 8. MARKETING AUTHORISATION NUMBER(S)
 
@@ -564,9 +564,9 @@ The package must be checked before use and the activity measured using an activi
 
 Withdrawals should be performed under aseptic conditions. The vials must not be opened before disinfecting the stopper, the solution should be withdrawn via the stopper using a single dose syringe fitted with suitable protective shielding and a disposable sterile needle or using an authorised automated application system. If the integrity of this vial is compromised, the product should not be used. For special handling precautions see section 6.6.
 
-Method of preparation
-
 <div style=\"page-break-after: always\"></div>
+
+## Method of preparation
 
 If a larger volume is needed at the time of dose administration, flortaucipir ( 18 F) solution for injection may be diluted aseptically with sodium chloride 9 mg/mL (0.9 %) solution for injection to a maximum dilution of 1:5 prior to administration, e.g., combine 0.5 mL flortaucipir ( 18 F) solution and 2 mL sodium chloride 9 mg/mL (0.9 %) solution for injection. Diluted product must be used within 3 hours of dilution and prior to the radiopharmaceutical expiry, whichever is soonest.
 
@@ -574,7 +574,7 @@ If a larger volume is needed at the time of dose administration, flortaucipir ( 
 
 The radiopharmaceutical dose should be measured by a suitable radioactivity measurement system and inspected for particulate matter or discolouration prior to administration. Only clear solutions, free of visible particles should be used.
 
-Detailed information on this medicinal product is available on the website of the European Medicines Agency http://www.ema.europa.eu.
+Detailed information on this medicinal product is available on the website of the European Medicines Agency https://www.ema.europa.eu.
 
 <div style=\"page-break-after: always\"></div>
 
@@ -645,7 +645,11 @@ SHIELD LABEL
 
 Tauvid 800 MBq/mL solution for injection
 
-flortaucipir ( 18 F)
+18
+
+flortaucipir (
+
+F)
 
 ## 2. STATEMENT OF ACTIVE SUBSTANCE(S)
 
@@ -703,7 +707,7 @@ Any unused material should be disposed of in accordance with local requirements.
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
-Eli Lilly Nederland B.V., Papendorpseweg 83, 3528 BJ Utrecht, The Netherlands.
+Eli Lilly Nederland B.V., Orteliuslaan 1000, 3528 BD Utrecht, The Netherlands.
 
 ## 12. MARKETING AUTHORISATION NUMBER(S)
 
@@ -713,7 +717,7 @@ EU/1/24/1799/001
 
 Lot
 
-## 14. GENERAL CLASSIFICATION FOR SUPPLY
+14. GENERAL CLASSIFICATION FOR SUPPLY
 
 15. INSTRUCTIONS ON USE
 
@@ -737,9 +741,7 @@ VIAL LABEL
 
 ## 1. NAME OF THE MEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION
 
-Tauvid 800 MBq/mL injection flortaucipir (
-
-18 F)
+Tauvid 800 MBq/mL injection flortaucipir ( 18 F)
 
 Intravenous use
 
@@ -839,7 +841,7 @@ Any unused material should be disposed of in accordance with local requirements.
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
-Eli Lilly Nederland B.V., Papendorpseweg 83, 3528 BJ Utrecht, The Netherlands.
+Eli Lilly Nederland B.V., Orteliuslaan 1000, 3528 BD Utrecht, The Netherlands.
 
 ## 12. MARKETING AUTHORISATION NUMBER(S)
 
@@ -857,7 +859,7 @@ Lot
 
 Justification for not including Braille accepted.
 
-17. UNIQUE IDENTIFIER - 2D BARCODE
+## 17. UNIQUE IDENTIFIER - 2D BARCODE
 
 Not applicable
 
@@ -875,9 +877,7 @@ VIAL LABEL
 
 ## 1. NAME OF THE MEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION
 
-Tauvid 1 900 MBq/mL injection flortaucipir ( 18 F)
-
-Intravenous use
+Tauvid 1 900 MBq/mL injection flortaucipir ( 18 F) Intravenous use
 
 ## 2. METHOD OF ADMINISTRATION
 
@@ -1086,7 +1086,7 @@ Tauvid 1 900 MBq/mL solution for injection (injection): One multidose vial of 15
 
 ## Marketing Authorisation Holder
 
-Eli Lilly Nederland B.V., Papendorpseweg 83, 3528 BJ Utrecht, The Netherlands
+Eli Lilly Nederland B.V., Orteliuslaan 1000, 3528 BD Utrecht, The Netherlands
 
 ## Manufacturer
 
@@ -1114,7 +1114,7 @@ ELI LILLY ČR, s.r.o. Tel: + 420 234 664 111
 
 ## Danmark
 
-Eli Lilly Danmark A/S Tlf: +45 45 26 60 00
+Eli Lilly Danmark A/S Tlf.: +45 45 26 60 00
 
 ## Deutschland
 
@@ -1130,7 +1130,9 @@ Eli Lilly Nederland B.V. Tel: +372 6 817 280
 
 ## España
 
-Lilly S.A. Tel: + 34-91 663 50 00
+Lilly S.A.
+
+Tel: + 34-91 663 50 00
 
 ## France
 
@@ -1160,7 +1162,7 @@ Phadisco Ltd Τηλ : +357 22 715000
 
 Eli Lilly (Suisse) S.A Pārstāvniecība Latvijā Tel: +371 67364000
 
-This leaflet was last revised in
+## This leaflet was last revised in
 
 ## Lietuva
 
@@ -1192,7 +1194,9 @@ Tlf: + 47 22 88 18 00
 
 ## Österreich
 
-Eli Lilly Ges.m.b.H. Tel: + 43-(0) 1 711 780
+Eli Lilly Ges.m.b.H.
+
+Tel: + 43-(0) 1 711 780
 
 ## Polska
 
@@ -1212,7 +1216,9 @@ Eli Lilly farmacevtska družba, d.o.o. Tel: +386 (0)1 580 00 10
 
 ## Slovenská republika
 
-Eli Lilly Slovakia s.r.o. Tel: + 421 220 663 111
+Eli Lilly Slovakia s.r.o.
+
+Tel: + 421 220 663 111
 
 ## Suomi/Finland
 
@@ -1224,10 +1230,10 @@ Eli Lilly Sweden AB Tel: + 46-(0) 8 7378800
 
 Detailed information on this medicine is available on the European Medicines Agency web site: https://www.ema.europa.eu.
 
-<div style=\"page-break-after: always\"></div>
-
 ------------------------------------------------------------------------------------------------------------------------
 
 The following information is intended for healthcare professionals only:
+
+<div style=\"page-break-after: always\"></div>
 
 The complete Summary of Product Characteristics (SmPC) of Tauvid is provided in the product package, with the objective to provide healthcare professionals with other additional scientific and practical information about the administration and use of this radiopharmaceutical. Please refer to the SmPC [SmPC should be included in the box].

@@ -1,18 +1,18 @@
 ---
-document_datetime: 2025-12-29 10:30:13
+document_datetime: 2026-01-15 15:30:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/ikervis.html
 document_name: ikervis.html
 version: success
-processing_time: 0.1090928
-conversion_datetime: 2025-12-30 21:29:58.381065
+processing_time: 0.1205308
+conversion_datetime: 2026-01-17 13:22:04.816506
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.66.0
-  docling-core: 2.57.0
+  docling-serve: 1.10.0
+  docling-jobkit: 1.8.1
+  docling: 2.68.0
+  docling-core: 2.59.0
   docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-parse: 4.7.3
   python: cpython-313 (3.13.11)
   plaform: macOS-26.2-arm64-arm-64bit-Mach-O
 ---
@@ -25,8 +25,6 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 ciclosporin Medicine Human Authorised
-
-On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -93,7 +91,7 @@ The Agency's Committee for Medicinal Products for Human Use (CHMP) decided that 
 
 A risk management plan has been developed to ensure that Ikervis is used as safely as possible. Based on this plan, safety information has been included in the summary of product characteristics and the package leaflet for Ikervis, including the appropriate precautions to be followed by healthcare professionals and patients.
 
-Further information can be found in the [Ikervis : EPAR - Risk-management-plan summary](/en/documents/rmp-summary/ikervis-epar-risk-management-plan-summary_en.pdf) .
+Further information can be found in the [Ikervis : EPAR - Risk management plan](/en/documents/rmp/ikervis-epar-risk-management-plan_en.pdf) .
 
 ## Other information about Ikervis
 
@@ -113,7 +111,7 @@ English (EN) (77.11 KB - PDF)
 
 [View](/en/documents/overview/ikervis-epar-summary-public_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-26)
+[Other languages (22)](#file-language-dropdown-803)
 
 български (BG) (103 KB - PDF)
 
@@ -379,15 +377,15 @@ svenska (SV) (75.27 KB - PDF)
 
 [View](/sv/documents/overview/ikervis-epar-summary-public_sv.pdf)
 
-Ikervis : EPAR - Risk-management-plan summary
+Ikervis : EPAR - Risk management plan
 
-English (EN) (310.93 KB - PDF)
+English (EN) (1.46 MB - PDF)
 
 **First published:** 07/05/2015
 
-**Last updated:** 28/04/2023
+**Last updated:** 15/01/2026
 
-[View](/en/documents/rmp-summary/ikervis-epar-risk-management-plan-summary_en.pdf)
+[View](/en/documents/rmp/ikervis-epar-risk-management-plan_en.pdf)
 
 ## Product information
 
@@ -401,7 +399,7 @@ English (EN) (596.14 KB - PDF)
 
 [View](/en/documents/product-information/ikervis-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-943)
+[Other languages (24)](#file-language-dropdown-847)
 
 български (BG) (652.04 KB - PDF)
 
@@ -717,7 +715,7 @@ English (EN) (10.1 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/ikervis-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-858)
+[Other languages (24)](#file-language-dropdown-326)
 
 български (BG) (65.74 KB - PDF)
 
@@ -1027,7 +1025,7 @@ Santen Oy
 
 Niittyhaankatu 20
 
-Marketing authorisation issued 19/03/2015 Revision 10
+Marketing authorisation issued 19/03/2015 Revision 11
 
 ## Assessment history
 
@@ -1039,13 +1037,21 @@ Collapse section
 
 Ikervis : EPAR - Procedural steps taken and scientific information after authorisation
 
+English (EN) (143.91 KB - PDF)
+
+**First published:** 15/01/2026
+
+[View](/en/documents/procedural-steps-after/ikervis-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf)
+
+Ikervis : EPAR - Procedural steps taken and scientific information after authorisation (archive)
+
 English (EN) (746.47 KB - PDF)
 
 **First published:** 23/07/2015
 
-**Last updated:** 27/02/2023
+**Last updated:** 15/01/2026
 
-[View](/en/documents/procedural-steps-after/ikervis-epar-procedural-steps-taken-and-scientific-information-after-authorisation_en.pdf)
+[View](/en/documents/procedural-steps-after/ikervis-epar-procedural-steps-taken-scientific-information-after-authorisation-archive_en.pdf)
 
 ## Initial marketing authorisation documents
 
@@ -1089,7 +1095,7 @@ English (EN) (69.4 KB - PDF)
 
 - [Medicines](https://www.ema.europa.eu/en/search?f%5B0%5D=ema_search_topics%3A61)
 
-**This page was last updated on** 27/02/2023
+**This page was last updated on** 15/01/2026
 
 ## Share this page
 

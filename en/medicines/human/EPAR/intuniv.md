@@ -1,18 +1,18 @@
 ---
-document_datetime: 2025-12-29 11:19:52
+document_datetime: 2026-01-16 16:22:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/intuniv.html
 document_name: intuniv.html
 version: success
-processing_time: 0.1107744
-conversion_datetime: 2025-12-30 22:06:12.610978
+processing_time: 0.1271485
+conversion_datetime: 2026-01-17 13:08:11.712336
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.66.0
-  docling-core: 2.57.0
+  docling-serve: 1.10.0
+  docling-jobkit: 1.8.1
+  docling: 2.68.0
+  docling-core: 2.59.0
   docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-parse: 4.7.3
   python: cpython-313 (3.13.11)
   plaform: macOS-26.2-arm64-arm-64bit-Mach-O
 ---
@@ -25,8 +25,6 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 guanfacine Medicine Human Authorised
-
-On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -127,7 +125,7 @@ English (EN) (77.71 KB - PDF)
 
 [View](/en/documents/overview/intuniv-epar-summary-public_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-66)
+[Other languages (22)](#file-language-dropdown-208)
 
 български (BG) (104.66 KB - PDF)
 
@@ -407,17 +405,17 @@ English (EN) (644.47 KB - PDF)
 
 Intuniv : EPAR - Product Information
 
-English (EN) (341.81 KB - PDF)
+English (EN) (341.84 KB - PDF)
 
 **First published:** 06/10/2015
 
-**Last updated:** 10/06/2024
+**Last updated:** 16/01/2026
 
 [View](/en/documents/product-information/intuniv-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-865)
+[Other languages (24)](#file-language-dropdown-715)
 
-български (BG) (522.2 KB - PDF)
+български (BG) (1.41 MB - PDF)
 
 **First published:**
 
@@ -425,11 +423,11 @@ English (EN) (341.81 KB - PDF)
 
 **Last updated:**
 
-10/06/2024
+16/01/2026
 
 [View](/bg/documents/product-information/intuniv-epar-product-information_bg.pdf)
 
-español (ES) (385.12 KB - PDF)
+español (ES) (366.19 KB - PDF)
 
 **First published:**
 
@@ -437,11 +435,11 @@ español (ES) (385.12 KB - PDF)
 
 **Last updated:**
 
-10/06/2024
+16/01/2026
 
 [View](/es/documents/product-information/intuniv-epar-product-information_es.pdf)
 
-čeština (CS) (486.92 KB - PDF)
+čeština (CS) (728.1 KB - PDF)
 
 **First published:**
 
@@ -449,11 +447,11 @@ español (ES) (385.12 KB - PDF)
 
 **Last updated:**
 
-10/06/2024
+16/01/2026
 
 [View](/cs/documents/product-information/intuniv-epar-product-information_cs.pdf)
 
-dansk (DA) (336.24 KB - PDF)
+dansk (DA) (384.34 KB - PDF)
 
 **First published:**
 
@@ -461,11 +459,11 @@ dansk (DA) (336.24 KB - PDF)
 
 **Last updated:**
 
-10/06/2024
+16/01/2026
 
 [View](/da/documents/product-information/intuniv-epar-product-information_da.pdf)
 
-Deutsch (DE) (358.21 KB - PDF)
+Deutsch (DE) (407.39 KB - PDF)
 
 **First published:**
 
@@ -473,11 +471,11 @@ Deutsch (DE) (358.21 KB - PDF)
 
 **Last updated:**
 
-10/06/2024
+16/01/2026
 
 [View](/de/documents/product-information/intuniv-epar-product-information_de.pdf)
 
-eesti keel (ET) (396.11 KB - PDF)
+eesti keel (ET) (330.67 KB - PDF)
 
 **First published:**
 
@@ -485,11 +483,11 @@ eesti keel (ET) (396.11 KB - PDF)
 
 **Last updated:**
 
-10/06/2024
+16/01/2026
 
 [View](/et/documents/product-information/intuniv-epar-product-information_et.pdf)
 
-ελληνικά (EL) (481.82 KB - PDF)
+ελληνικά (EL) (787.12 KB - PDF)
 
 **First published:**
 
@@ -497,11 +495,11 @@ eesti keel (ET) (396.11 KB - PDF)
 
 **Last updated:**
 
-10/06/2024
+16/01/2026
 
 [View](/el/documents/product-information/intuniv-epar-product-information_el.pdf)
 
-français (FR) (461.24 KB - PDF)
+français (FR) (355.36 KB - PDF)
 
 **First published:**
 
@@ -509,11 +507,11 @@ français (FR) (461.24 KB - PDF)
 
 **Last updated:**
 
-10/06/2024
+16/01/2026
 
 [View](/fr/documents/product-information/intuniv-epar-product-information_fr.pdf)
 
-hrvatski (HR) (504.21 KB - PDF)
+hrvatski (HR) (677.73 KB - PDF)
 
 **First published:**
 
@@ -521,11 +519,11 @@ hrvatski (HR) (504.21 KB - PDF)
 
 **Last updated:**
 
-10/06/2024
+16/01/2026
 
 [View](/hr/documents/product-information/intuniv-epar-product-information_hr.pdf)
 
-íslenska (IS) (348.79 KB - PDF)
+íslenska (IS) (380.84 KB - PDF)
 
 **First published:**
 
@@ -533,11 +531,11 @@ hrvatski (HR) (504.21 KB - PDF)
 
 **Last updated:**
 
-10/06/2024
+16/01/2026
 
 [View](/is/documents/product-information/intuniv-epar-product-information_is.pdf)
 
-italiano (IT) (426.71 KB - PDF)
+italiano (IT) (345.36 KB - PDF)
 
 **First published:**
 
@@ -545,11 +543,11 @@ italiano (IT) (426.71 KB - PDF)
 
 **Last updated:**
 
-10/06/2024
+16/01/2026
 
 [View](/it/documents/product-information/intuniv-epar-product-information_it.pdf)
 
-latviešu valoda (LV) (419.57 KB - PDF)
+latviešu valoda (LV) (693.78 KB - PDF)
 
 **First published:**
 
@@ -557,11 +555,11 @@ latviešu valoda (LV) (419.57 KB - PDF)
 
 **Last updated:**
 
-10/06/2024
+16/01/2026
 
 [View](/lv/documents/product-information/intuniv-epar-product-information_lv.pdf)
 
-lietuvių kalba (LT) (413.86 KB - PDF)
+lietuvių kalba (LT) (689.83 KB - PDF)
 
 **First published:**
 
@@ -569,11 +567,11 @@ lietuvių kalba (LT) (413.86 KB - PDF)
 
 **Last updated:**
 
-10/06/2024
+16/01/2026
 
 [View](/lt/documents/product-information/intuniv-epar-product-information_lt.pdf)
 
-magyar (HU) (431.71 KB - PDF)
+magyar (HU) (530.62 KB - PDF)
 
 **First published:**
 
@@ -581,11 +579,11 @@ magyar (HU) (431.71 KB - PDF)
 
 **Last updated:**
 
-10/06/2024
+16/01/2026
 
 [View](/hu/documents/product-information/intuniv-epar-product-information_hu.pdf)
 
-Malti (MT) (461.01 KB - PDF)
+Malti (MT) (725.17 KB - PDF)
 
 **First published:**
 
@@ -593,11 +591,11 @@ Malti (MT) (461.01 KB - PDF)
 
 **Last updated:**
 
-10/06/2024
+16/01/2026
 
 [View](/mt/documents/product-information/intuniv-epar-product-information_mt.pdf)
 
-Nederlands (NL) (421.77 KB - PDF)
+Nederlands (NL) (400.25 KB - PDF)
 
 **First published:**
 
@@ -605,11 +603,11 @@ Nederlands (NL) (421.77 KB - PDF)
 
 **Last updated:**
 
-10/06/2024
+16/01/2026
 
 [View](/nl/documents/product-information/intuniv-epar-product-information_nl.pdf)
 
-norsk (NO) (339.51 KB - PDF)
+norsk (NO) (378.57 KB - PDF)
 
 **First published:**
 
@@ -617,11 +615,11 @@ norsk (NO) (339.51 KB - PDF)
 
 **Last updated:**
 
-10/06/2024
+16/01/2026
 
 [View](/no/documents/product-information/intuniv-epar-product-information_no.pdf)
 
-polski (PL) (492.76 KB - PDF)
+polski (PL) (762.48 KB - PDF)
 
 **First published:**
 
@@ -629,11 +627,11 @@ polski (PL) (492.76 KB - PDF)
 
 **Last updated:**
 
-10/06/2024
+16/01/2026
 
 [View](/pl/documents/product-information/intuniv-epar-product-information_pl.pdf)
 
-português (PT) (406.11 KB - PDF)
+português (PT) (411.25 KB - PDF)
 
 **First published:**
 
@@ -641,11 +639,11 @@ português (PT) (406.11 KB - PDF)
 
 **Last updated:**
 
-10/06/2024
+16/01/2026
 
 [View](/pt/documents/product-information/intuniv-epar-product-information_pt.pdf)
 
-română (RO) (462.38 KB - PDF)
+română (RO) (707.32 KB - PDF)
 
 **First published:**
 
@@ -653,11 +651,11 @@ română (RO) (462.38 KB - PDF)
 
 **Last updated:**
 
-10/06/2024
+16/01/2026
 
 [View](/ro/documents/product-information/intuniv-epar-product-information_ro.pdf)
 
-slovenčina (SK) (495.21 KB - PDF)
+slovenčina (SK) (732.26 KB - PDF)
 
 **First published:**
 
@@ -665,11 +663,11 @@ slovenčina (SK) (495.21 KB - PDF)
 
 **Last updated:**
 
-10/06/2024
+16/01/2026
 
 [View](/sk/documents/product-information/intuniv-epar-product-information_sk.pdf)
 
-slovenščina (SL) (468.5 KB - PDF)
+slovenščina (SL) (618.15 KB - PDF)
 
 **First published:**
 
@@ -677,11 +675,11 @@ slovenščina (SL) (468.5 KB - PDF)
 
 **Last updated:**
 
-10/06/2024
+16/01/2026
 
 [View](/sl/documents/product-information/intuniv-epar-product-information_sl.pdf)
 
-Suomi (FI) (340.79 KB - PDF)
+Suomi (FI) (350.48 KB - PDF)
 
 **First published:**
 
@@ -689,11 +687,11 @@ Suomi (FI) (340.79 KB - PDF)
 
 **Last updated:**
 
-10/06/2024
+16/01/2026
 
 [View](/fi/documents/product-information/intuniv-epar-product-information_fi.pdf)
 
-svenska (SV) (340.03 KB - PDF)
+svenska (SV) (348.37 KB - PDF)
 
 **First published:**
 
@@ -701,7 +699,7 @@ svenska (SV) (340.03 KB - PDF)
 
 **Last updated:**
 
-10/06/2024
+16/01/2026
 
 [View](/sv/documents/product-information/intuniv-epar-product-information_sv.pdf)
 
@@ -731,7 +729,7 @@ English (EN) (7.19 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/intuniv-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (23)](#file-language-dropdown-177)
+[Other languages (23)](#file-language-dropdown-391)
 
 български (BG) (87.78 KB - PDF)
 
@@ -1050,13 +1048,21 @@ Collapse section
 
 Intuniv : EPAR - Procedural steps taken and scientific information after authorisation
 
+English (EN) (175.18 KB - PDF)
+
+**First published:** 16/01/2026
+
+[View](/en/documents/procedural-steps-after/intuniv-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf)
+
+Intuniv : EPAR - Procedural steps taken and scientific information after authorisation (archive)
+
 English (EN) (193.62 KB - PDF)
 
 **First published:** 08/11/2016
 
-**Last updated:** 10/06/2024
+**Last updated:** 16/01/2026
 
-[View](/en/documents/procedural-steps-after/intuniv-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf)
+[View](/en/documents/procedural-steps-after/intuniv-epar-procedural-steps-taken-scientific-information-after-authorisation-archive_en.pdf)
 
 Intuniv-H-C-PSUSA-00010413-202103 : EPAR - Scientific conclusions and grounds for the variation to the terms of the marketing authorisation
 
@@ -1139,7 +1145,7 @@ English (EN) (68.02 KB - PDF)
 
 - [Medicines](https://www.ema.europa.eu/en/search?f%5B0%5D=ema_search_topics%3A61)
 
-**This page was last updated on** 10/06/2024
+**This page was last updated on** 16/01/2026
 
 ## Share this page
 

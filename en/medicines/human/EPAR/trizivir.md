@@ -1,18 +1,18 @@
 ---
-document_datetime: 2025-12-29 11:57:02
+document_datetime: 2026-01-19 15:18:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/trizivir.html
 document_name: trizivir.html
 version: success
-processing_time: 0.1130363
-conversion_datetime: 2025-12-31 03:02:50.83813
+processing_time: 0.098788
+conversion_datetime: 2026-01-19 22:38:18.497962
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.66.0
-  docling-core: 2.57.0
+  docling-serve: 1.10.0
+  docling-jobkit: 1.8.1
+  docling: 2.68.0
+  docling-core: 2.59.0
   docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-parse: 4.7.3
   python: cpython-313 (3.13.11)
   plaform: macOS-26.2-arm64-arm-64bit-Mach-O
 ---
@@ -26,8 +26,6 @@ This medicine is authorised for use in the European Union
 
 abacavir / lamivudine / zidovudine Medicine Human Authorised
 
-On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
-
 Page contents
 
 ## Page contents
@@ -38,6 +36,7 @@ Page contents
 - [Authorisation details](#authorisation-details)
 - [Assessment history](#assessment-history)
 - [News on Trizivir](#news-on)
+- [Product information - with tracked changes](#product-information-with-tracked-changes-82836)
 - [Topics](#topics)
 
 - Application under evaluation
@@ -108,7 +107,7 @@ English (EN) (128.75 KB - PDF)
 
 [View](/en/documents/overview/trizivir-epar-summary-public_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-66)
+[Other languages (22)](#file-language-dropdown-737)
 
 български (BG) (154.04 KB - PDF)
 
@@ -378,17 +377,17 @@ svenska (SV) (127.58 KB - PDF)
 
 Trizivir : EPAR - Product Information
 
-English (EN) (579.85 KB - PDF)
+English (EN) (697.47 KB - PDF)
 
 **First published:** 09/12/2009
 
-**Last updated:** 29/11/2022
+**Last updated:** 19/01/2026
 
 [View](/en/documents/product-information/trizivir-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-380)
+[Other languages (24)](#file-language-dropdown-113)
 
-български (BG) (891.85 KB - PDF)
+български (BG) (823.49 KB - PDF)
 
 **First published:**
 
@@ -396,11 +395,11 @@ English (EN) (579.85 KB - PDF)
 
 **Last updated:**
 
-29/11/2022
+19/01/2026
 
 [View](/bg/documents/product-information/trizivir-epar-product-information_bg.pdf)
 
-español (ES) (642.6 KB - PDF)
+español (ES) (641.1 KB - PDF)
 
 **First published:**
 
@@ -408,11 +407,11 @@ español (ES) (642.6 KB - PDF)
 
 **Last updated:**
 
-29/11/2022
+19/01/2026
 
 [View](/es/documents/product-information/trizivir-epar-product-information_es.pdf)
 
-čeština (CS) (751.81 KB - PDF)
+čeština (CS) (754.32 KB - PDF)
 
 **First published:**
 
@@ -420,11 +419,11 @@ español (ES) (642.6 KB - PDF)
 
 **Last updated:**
 
-29/11/2022
+19/01/2026
 
 [View](/cs/documents/product-information/trizivir-epar-product-information_cs.pdf)
 
-dansk (DA) (650.42 KB - PDF)
+dansk (DA) (784.72 KB - PDF)
 
 **First published:**
 
@@ -432,11 +431,11 @@ dansk (DA) (650.42 KB - PDF)
 
 **Last updated:**
 
-29/11/2022
+19/01/2026
 
 [View](/da/documents/product-information/trizivir-epar-product-information_da.pdf)
 
-Deutsch (DE) (658.79 KB - PDF)
+Deutsch (DE) (821.29 KB - PDF)
 
 **First published:**
 
@@ -444,11 +443,11 @@ Deutsch (DE) (658.79 KB - PDF)
 
 **Last updated:**
 
-29/11/2022
+19/01/2026
 
 [View](/de/documents/product-information/trizivir-epar-product-information_de.pdf)
 
-eesti keel (ET) (692.33 KB - PDF)
+eesti keel (ET) (823.47 KB - PDF)
 
 **First published:**
 
@@ -456,11 +455,11 @@ eesti keel (ET) (692.33 KB - PDF)
 
 **Last updated:**
 
-29/11/2022
+19/01/2026
 
 [View](/et/documents/product-information/trizivir-epar-product-information_et.pdf)
 
-ελληνικά (EL) (723.33 KB - PDF)
+ελληνικά (EL) (820.66 KB - PDF)
 
 **First published:**
 
@@ -468,11 +467,11 @@ eesti keel (ET) (692.33 KB - PDF)
 
 **Last updated:**
 
-29/11/2022
+19/01/2026
 
 [View](/el/documents/product-information/trizivir-epar-product-information_el.pdf)
 
-français (FR) (678 KB - PDF)
+français (FR) (821.32 KB - PDF)
 
 **First published:**
 
@@ -480,11 +479,11 @@ français (FR) (678 KB - PDF)
 
 **Last updated:**
 
-29/11/2022
+19/01/2026
 
 [View](/fr/documents/product-information/trizivir-epar-product-information_fr.pdf)
 
-hrvatski (HR) (694.95 KB - PDF)
+hrvatski (HR) (666.38 KB - PDF)
 
 **First published:**
 
@@ -492,11 +491,11 @@ hrvatski (HR) (694.95 KB - PDF)
 
 **Last updated:**
 
-29/11/2022
+19/01/2026
 
 [View](/hr/documents/product-information/trizivir-epar-product-information_hr.pdf)
 
-íslenska (IS) (628.97 KB - PDF)
+íslenska (IS) (825.29 KB - PDF)
 
 **First published:**
 
@@ -504,11 +503,11 @@ hrvatski (HR) (694.95 KB - PDF)
 
 **Last updated:**
 
-29/11/2022
+19/01/2026
 
 [View](/is/documents/product-information/trizivir-epar-product-information_is.pdf)
 
-italiano (IT) (648.08 KB - PDF)
+italiano (IT) (765.07 KB - PDF)
 
 **First published:**
 
@@ -516,11 +515,11 @@ italiano (IT) (648.08 KB - PDF)
 
 **Last updated:**
 
-29/11/2022
+19/01/2026
 
 [View](/it/documents/product-information/trizivir-epar-product-information_it.pdf)
 
-latviešu valoda (LV) (751.48 KB - PDF)
+latviešu valoda (LV) (766.07 KB - PDF)
 
 **First published:**
 
@@ -528,11 +527,11 @@ latviešu valoda (LV) (751.48 KB - PDF)
 
 **Last updated:**
 
-29/11/2022
+19/01/2026
 
 [View](/lv/documents/product-information/trizivir-epar-product-information_lv.pdf)
 
-lietuvių kalba (LT) (675.96 KB - PDF)
+lietuvių kalba (LT) (651.55 KB - PDF)
 
 **First published:**
 
@@ -540,11 +539,11 @@ lietuvių kalba (LT) (675.96 KB - PDF)
 
 **Last updated:**
 
-29/11/2022
+19/01/2026
 
 [View](/lt/documents/product-information/trizivir-epar-product-information_lt.pdf)
 
-magyar (HU) (742.42 KB - PDF)
+magyar (HU) (793.93 KB - PDF)
 
 **First published:**
 
@@ -552,11 +551,11 @@ magyar (HU) (742.42 KB - PDF)
 
 **Last updated:**
 
-29/11/2022
+19/01/2026
 
 [View](/hu/documents/product-information/trizivir-epar-product-information_hu.pdf)
 
-Malti (MT) (830.22 KB - PDF)
+Malti (MT) (944.15 KB - PDF)
 
 **First published:**
 
@@ -564,11 +563,11 @@ Malti (MT) (830.22 KB - PDF)
 
 **Last updated:**
 
-29/11/2022
+19/01/2026
 
 [View](/mt/documents/product-information/trizivir-epar-product-information_mt.pdf)
 
-Nederlands (NL) (624.3 KB - PDF)
+Nederlands (NL) (620.93 KB - PDF)
 
 **First published:**
 
@@ -576,11 +575,11 @@ Nederlands (NL) (624.3 KB - PDF)
 
 **Last updated:**
 
-29/11/2022
+19/01/2026
 
 [View](/nl/documents/product-information/trizivir-epar-product-information_nl.pdf)
 
-norsk (NO) (605.18 KB - PDF)
+norsk (NO) (763.88 KB - PDF)
 
 **First published:**
 
@@ -588,11 +587,11 @@ norsk (NO) (605.18 KB - PDF)
 
 **Last updated:**
 
-29/11/2022
+19/01/2026
 
 [View](/no/documents/product-information/trizivir-epar-product-information_no.pdf)
 
-polski (PL) (744.95 KB - PDF)
+polski (PL) (786.35 KB - PDF)
 
 **First published:**
 
@@ -600,11 +599,11 @@ polski (PL) (744.95 KB - PDF)
 
 **Last updated:**
 
-29/11/2022
+19/01/2026
 
 [View](/pl/documents/product-information/trizivir-epar-product-information_pl.pdf)
 
-português (PT) (599.64 KB - PDF)
+português (PT) (733.42 KB - PDF)
 
 **First published:**
 
@@ -612,11 +611,11 @@ português (PT) (599.64 KB - PDF)
 
 **Last updated:**
 
-29/11/2022
+19/01/2026
 
 [View](/pt/documents/product-information/trizivir-epar-product-information_pt.pdf)
 
-română (RO) (712.87 KB - PDF)
+română (RO) (775.16 KB - PDF)
 
 **First published:**
 
@@ -624,11 +623,11 @@ română (RO) (712.87 KB - PDF)
 
 **Last updated:**
 
-29/11/2022
+19/01/2026
 
 [View](/ro/documents/product-information/trizivir-epar-product-information_ro.pdf)
 
-slovenčina (SK) (714.68 KB - PDF)
+slovenčina (SK) (703.78 KB - PDF)
 
 **First published:**
 
@@ -636,11 +635,11 @@ slovenčina (SK) (714.68 KB - PDF)
 
 **Last updated:**
 
-29/11/2022
+19/01/2026
 
 [View](/sk/documents/product-information/trizivir-epar-product-information_sk.pdf)
 
-slovenščina (SL) (654.57 KB - PDF)
+slovenščina (SL) (680.06 KB - PDF)
 
 **First published:**
 
@@ -648,11 +647,11 @@ slovenščina (SL) (654.57 KB - PDF)
 
 **Last updated:**
 
-29/11/2022
+19/01/2026
 
 [View](/sl/documents/product-information/trizivir-epar-product-information_sl.pdf)
 
-Suomi (FI) (607.75 KB - PDF)
+Suomi (FI) (703.93 KB - PDF)
 
 **First published:**
 
@@ -660,11 +659,11 @@ Suomi (FI) (607.75 KB - PDF)
 
 **Last updated:**
 
-29/11/2022
+19/01/2026
 
 [View](/fi/documents/product-information/trizivir-epar-product-information_fi.pdf)
 
-svenska (SV) (605.84 KB - PDF)
+svenska (SV) (780.11 KB - PDF)
 
 **First published:**
 
@@ -672,11 +671,11 @@ svenska (SV) (605.84 KB - PDF)
 
 **Last updated:**
 
-29/11/2022
+19/01/2026
 
 [View](/sv/documents/product-information/trizivir-epar-product-information_sv.pdf)
 
-**Latest procedure affecting product information:** PSUSA/00003144/202212 15/11/2023
+**Latest procedure affecting product information:** VR/0000296309 15/01/2026
 
 icon globe
 
@@ -702,7 +701,7 @@ English (EN) (21.77 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/trizivir-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-293)
+[Other languages (24)](#file-language-dropdown-761)
 
 български (BG) (37.05 KB - PDF)
 
@@ -1034,7 +1033,7 @@ ViiV Healthcare BV
 
 Van Asch van Wijckstraat 55H
 
-Opinion adopted 21/09/2000 Marketing authorisation issued 27/12/2000 Revision 43
+Opinion adopted 21/09/2000 Marketing authorisation issued 27/12/2000 Revision 44
 
 ## Assessment history
 
@@ -1046,13 +1045,21 @@ Collapse section
 
 Trizivir : EPAR - Procedural steps taken and scientific information after authorisation
 
+English (EN) (141.26 KB - PDF)
+
+**First published:** 19/01/2026
+
+[View](/en/documents/procedural-steps-after/trizivir-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf)
+
+Trizivir : EPAR - Procedural steps taken and scientific information after authorisation (archive)
+
 English (EN) (532.24 KB - PDF)
 
 **First published:** 09/12/2009
 
-**Last updated:** 29/11/2023
+**Last updated:** 19/01/2026
 
-[View](/en/documents/procedural-steps-after/trizivir-epar-procedural-steps-taken-and-scientific-information-after-authorisation_en.pdf)
+[View](/en/documents/procedural-steps-after/trizivir-epar-procedural-steps-taken-scientific-information-after-authorisation-archive_en.pdf)
 
 Trizivir-H-C-PSUSA-00003144-202212 : EPAR - Scientific conclusions and grounds for the variation to the terms of the marketing authorisation(s)
 
@@ -1102,11 +1109,217 @@ English (EN) (89.16 KB - PDF)
 
 [Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 19-22 October 2015](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-19-22-october-2015) 23/10/2015
 
+#### Product information - with tracked changes
+
+The approved product information for this medicine is available below showing the changes since the previous procedure affecting the product information. The same document without tracked changes is above under 'Product information'.
+
+Trizivir : EPAR - Product information - tracked changes
+
+English (EN) (157.41 KB - DOCX)
+
+**First published:** 19/01/2026
+
+[View](/en/documents/product-information-tracked-changes/trizivir-epar-product-information-tracked-changes_en.docx)
+
+[Other languages (24)](#file-language-dropdown-304)
+
+български (BG) (649 KB - DOC)
+
+**First published:**
+
+19/01/2026
+
+[View](/bg/documents/product-information-tracked-changes/trizivir-epar-product-information-tracked-changes_bg.doc)
+
+español (ES) (233.17 KB - DOCX)
+
+**First published:**
+
+19/01/2026
+
+[View](/es/documents/product-information-tracked-changes/trizivir-epar-product-information-tracked-changes_es.docx)
+
+čeština (CS) (184.84 KB - DOCX)
+
+**First published:**
+
+19/01/2026
+
+[View](/cs/documents/product-information-tracked-changes/trizivir-epar-product-information-tracked-changes_cs.docx)
+
+dansk (DA) (182.2 KB - DOCX)
+
+**First published:**
+
+19/01/2026
+
+[View](/da/documents/product-information-tracked-changes/trizivir-epar-product-information-tracked-changes_da.docx)
+
+Deutsch (DE) (173.72 KB - DOCX)
+
+**First published:**
+
+19/01/2026
+
+[View](/de/documents/product-information-tracked-changes/trizivir-epar-product-information-tracked-changes_de.docx)
+
+eesti keel (ET) (163.44 KB - DOCX)
+
+**First published:**
+
+19/01/2026
+
+[View](/et/documents/product-information-tracked-changes/trizivir-epar-product-information-tracked-changes_et.docx)
+
+ελληνικά (EL) (195.01 KB - DOCX)
+
+**First published:**
+
+19/01/2026
+
+[View](/el/documents/product-information-tracked-changes/trizivir-epar-product-information-tracked-changes_el.docx)
+
+français (FR) (254.86 KB - DOCX)
+
+**First published:**
+
+19/01/2026
+
+[View](/fr/documents/product-information-tracked-changes/trizivir-epar-product-information-tracked-changes_fr.docx)
+
+hrvatski (HR) (169.83 KB - DOCX)
+
+**First published:**
+
+19/01/2026
+
+[View](/hr/documents/product-information-tracked-changes/trizivir-epar-product-information-tracked-changes_hr.docx)
+
+íslenska (IS) (163.91 KB - DOCX)
+
+**First published:**
+
+19/01/2026
+
+[View](/is/documents/product-information-tracked-changes/trizivir-epar-product-information-tracked-changes_is.docx)
+
+italiano (IT) (154.58 KB - DOCX)
+
+**First published:**
+
+19/01/2026
+
+[View](/it/documents/product-information-tracked-changes/trizivir-epar-product-information-tracked-changes_it.docx)
+
+latviešu valoda (LV) (154.13 KB - DOCX)
+
+**First published:**
+
+19/01/2026
+
+[View](/lv/documents/product-information-tracked-changes/trizivir-epar-product-information-tracked-changes_lv.docx)
+
+lietuvių kalba (LT) (587.5 KB - DOC)
+
+**First published:**
+
+19/01/2026
+
+[View](/lt/documents/product-information-tracked-changes/trizivir-epar-product-information-tracked-changes_lt.doc)
+
+magyar (HU) (201.3 KB - DOCX)
+
+**First published:**
+
+19/01/2026
+
+[View](/hu/documents/product-information-tracked-changes/trizivir-epar-product-information-tracked-changes_hu.docx)
+
+Malti (MT) (173.71 KB - DOCX)
+
+**First published:**
+
+19/01/2026
+
+[View](/mt/documents/product-information-tracked-changes/trizivir-epar-product-information-tracked-changes_mt.docx)
+
+Nederlands (NL) (161.75 KB - DOCX)
+
+**First published:**
+
+19/01/2026
+
+[View](/nl/documents/product-information-tracked-changes/trizivir-epar-product-information-tracked-changes_nl.docx)
+
+norsk (NO) (172.22 KB - DOCX)
+
+**First published:**
+
+19/01/2026
+
+[View](/no/documents/product-information-tracked-changes/trizivir-epar-product-information-tracked-changes_no.docx)
+
+polski (PL) (178.01 KB - DOCX)
+
+**First published:**
+
+19/01/2026
+
+[View](/pl/documents/product-information-tracked-changes/trizivir-epar-product-information-tracked-changes_pl.docx)
+
+português (PT) (167.24 KB - DOCX)
+
+**First published:**
+
+19/01/2026
+
+[View](/pt/documents/product-information-tracked-changes/trizivir-epar-product-information-tracked-changes_pt.docx)
+
+română (RO) (182.21 KB - DOCX)
+
+**First published:**
+
+19/01/2026
+
+[View](/ro/documents/product-information-tracked-changes/trizivir-epar-product-information-tracked-changes_ro.docx)
+
+slovenčina (SK) (575.5 KB - DOC)
+
+**First published:**
+
+19/01/2026
+
+[View](/sk/documents/product-information-tracked-changes/trizivir-epar-product-information-tracked-changes_sk.doc)
+
+slovenščina (SL) (165.95 KB - DOCX)
+
+**First published:**
+
+19/01/2026
+
+[View](/sl/documents/product-information-tracked-changes/trizivir-epar-product-information-tracked-changes_sl.docx)
+
+Suomi (FI) (162.96 KB - DOCX)
+
+**First published:**
+
+19/01/2026
+
+[View](/fi/documents/product-information-tracked-changes/trizivir-epar-product-information-tracked-changes_fi.docx)
+
+svenska (SV) (148.56 KB - DOCX)
+
+**First published:**
+
+19/01/2026
+
+[View](/sv/documents/product-information-tracked-changes/trizivir-epar-product-information-tracked-changes_sv.docx)
+
 #### Topics
 
 - [Medicines](https://www.ema.europa.eu/en/search?f%5B0%5D=ema_search_topics%3A61)
 
-**This page was last updated on** 29/11/2023
+**This page was last updated on** 19/01/2026
 
 ## Share this page
 

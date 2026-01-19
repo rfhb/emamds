@@ -1,18 +1,18 @@
 ---
-document_datetime: 2023-11-29 17:16:29
-document_pages: 52
+document_datetime: 2026-01-19 10:54:33
+document_pages: 50
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/trizivir-epar-product-information_en.pdf
 document_name: trizivir-epar-product-information_en.pdf
 version: success
-processing_time: 19.3296507
-conversion_datetime: 2025-12-29 22:37:11.860617
+processing_time: 15.7338547
+conversion_datetime: 2026-01-19 22:39:14.815239
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.66.0
-  docling-core: 2.57.0
+  docling-serve: 1.10.0
+  docling-jobkit: 1.8.1
+  docling: 2.68.0
+  docling-core: 2.59.0
   docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-parse: 4.7.3
   python: cpython-313 (3.13.11)
   plaform: macOS-26.2-arm64-arm-64bit-Mach-O
 ---
@@ -40,7 +40,7 @@ For the full list of excipients see section 6.1.
 
 Film-coated tablet (tablet).
 
-Blue-green capsule-shaped film-coated tablets engraved with 'GX LL1' on one side.
+Blue-green capsule-shaped filmcoated tablets engraved with 'GX LL1' on one side.
 
 ## 4. CLINICAL PARTICULARS
 
@@ -62,9 +62,9 @@ Therapy should be prescribed by a physician experienced in the management of HIV
 
 The recommended dose of Trizivir in adults (18 years and over) is one tablet twice daily.
 
-<div style=\"page-break-after: always\"></div>
-
 Trizivir can be taken with or without food.
+
+<div style=\"page-break-after: always\"></div>
 
 Where discontinuation of therapy with one of the active substances of Trizivir is indicated, or where dose reduction is necessary separate preparations of abacavir, lamivudine and zidovudine are available.
 
@@ -72,7 +72,7 @@ Where discontinuation of therapy with one of the active substances of Trizivir i
 
 ## Renal impairment
 
-Whilst no dose adjustment of abacavir is necessary in patients with renal dysfunction, lamivudine and zidovudine concentrations are increased in patients with renal impairment due to decreased clearance (see section 4.4). Therefore, as dose adjustments of these may be necessary, it is recommended that separate preparations of abacavir, lamivudine and zidovudine be administered to patients with severe renal impairment (creatinine clearance ≤ 30 mL/min). Physicians should refer to the individual summary of product characteristics of these medicinal products. Trizivir should not be administered to patients with end-stage renal disease (see sections 4.3 and 5.2).
+Whilst no dose adjustment of abacavir is necessary in patients with renal dysfunction, lamivudine and zidovudine concentrations are increased in patients with renal impairment due to decreased clearance (see section 4.4). Therefore, as dose adjustments of these may be necessary, it is recommended that separate preparations of abacavir, lamivudine and zidovudine be administered to patients with severe renal impairment (creatinine clearance  30 mL/min). Physicians should refer to the individual summary of product characteristics of these medicinal products. Trizivir should not be administered to patients with end-stage renal disease (see sections 4.3 and 5.2).
 
 ## Hepatic impairment
 
@@ -110,7 +110,7 @@ Abacavir is associated with a risk for hypersensitivity reactions (HSR) (see sec
 
 The risk for abacavir HSR to occur is high for patients who test positive for the HLA-B*5701 allele. However, abacavir HSRs have been reported at a lower frequency in patients who do not carry this allele.
 
-## Therefore the following should be adhered to:
+Therefore the following should be adhered to:
 
 - HLA-B*5701 status must always be documented prior to initiating therapy.
 - Trizivir should never be initiated in patients with a positive HLA-B*5701 status, nor in patients with a negative HLA-B*5701 status who had a suspected abacavir HSR on a previous abacavir-containing regimen. (e.g. Kivexa, Ziagen, Triumeq)
@@ -161,7 +161,7 @@ An increase in weight and in levels of blood lipids and glucose may occur during
 
 ## Haematological adverse reactions
 
-Anaemia, neutropenia and leukopenia (usually secondary to neutropenia) can be expected to occur in patients receiving zidovudine. These occurred more frequently at higher zidovudine doses (12001500 mg/day) and in patients with poor bone marrow reserve prior to treatment, particularly with advanced HIV disease. Haematological parameters should therefore be carefully monitored (see section 4.3) in patients receiving Trizivir. These haematological effects are not usually observed before four to six week's therapy. For patients with advanced symptomatic HIV disease, it is generally recommended that blood tests are performed at least every two weeks for the first three months of therapy and at least monthly thereafter.
+Anaemia, neutropenia and leukopenia (usually secondary to neutropenia) can be expected to occur in patients receiving zidovudine. These occurred more frequently at higher zidovudine doses (12001500 mg/day) and in patients with poor bone marrow reserve prior to treatment, particularly with advanced HIV disease. Haematological parameters should therefore be carefully monitored (see section 4.3) in patients receiving Trizivir. These haematological effects are not usually observed before four to six week's the rapy. For patients with advanced symptomatic HIV disease, it is generally recommended that blood tests are performed at least every two weeks for the first three months of therapy and at least monthly thereafter.
 
 In patients with early HIV disease haematological adverse reactions are infrequent. Depending on the overall condition of the patient, blood tests may be performed less often, for example every one to three months. Additionally, dose adjustment of zidovudine may be required if severe anaemia or myelosuppression occurs during treatment with Trizivir, or in patients with pre-existing bone marrow compromise e.g. haemoglobin &lt; 9 g/dl (5.59 mmol/l) or neutrophil count &lt; 1.0 x 10 9 /l (see section 4.2). As dose adjustment of Trizivir is not possible separate preparations of zidovudine, abacavir and lamivudine should be used. Physicians should refer to the individual prescribing information for these medicinal products.
 
@@ -229,7 +229,7 @@ The combination of lamivudine with cladribine is not-recommended (see section 4.
 
 ## Excipients
 
-This medicine contains less than 1 mmol sodium (23 mg) per dosage unit, that is to say essentially 'sodium-free'.
+This medicine contains less than 1 mmol sodium (23 mg) per dosage unit, that is to say essentially 'sodium -free'.
 
 ## 4.5 Interaction with other medicinal products and other forms of interaction
 
@@ -257,28 +257,28 @@ Interaction studies have only been performed in adults. The list below should no
 | ANTI-INFECTIVE PRODUCTS                                                                                         | ANTI-INFECTIVE PRODUCTS                                                                                                       | ANTI-INFECTIVE PRODUCTS                                                                                                                                                                                                                                                                                                                                                             |
 | Atovaquone/Abacavir                                                                                             | Interaction not studied.                                                                                                      | As only limited data available the clinical significance is unknown.                                                                                                                                                                                                                                                                                                                |
 | Atovaquone/Lamivudine                                                                                           | Interaction not studied.                                                                                                      | As only limited data available the clinical significance is unknown.                                                                                                                                                                                                                                                                                                                |
-| Atovaquone/Zidovudine (750 mg twice daily with food/200 mg thrice daily)                                        | Zidovudine AUC ↑ 33% Atovaquone AUC ↔                                                                                         | As only limited data available the clinical significance is unknown.                                                                                                                                                                                                                                                                                                                |
+| Atovaquone/Zidovudine (750 mg twice daily with food/200 mg thrice daily)                                        | Zidovudine AUC  33% Atovaquone AUC                                                                                          | As only limited data available the clinical significance is unknown.                                                                                                                                                                                                                                                                                                                |
 | Clarithromycin/Abacavir                                                                                         | Interaction not studied.                                                                                                      | Separate administration of Trizivir and clarithromycin by at least 2 hours                                                                                                                                                                                                                                                                                                          |
 | Clarithromycin/Lamivudine                                                                                       | Interaction not studied.                                                                                                      | Separate administration of Trizivir and clarithromycin by at least 2 hours                                                                                                                                                                                                                                                                                                          |
-| Clarithromycin/Zidovudine (500 mg twice daily/100 mg every 4 hours)                                             | Zidovudine AUC ↓ 12%                                                                                                          | Separate administration of Trizivir and clarithromycin by at least 2 hours                                                                                                                                                                                                                                                                                                          |
+| Clarithromycin/Zidovudine (500 mg twice daily/100 mg every 4 hours)                                             | Zidovudine AUC  12%                                                                                                          | Separate administration of Trizivir and clarithromycin by at least 2 hours                                                                                                                                                                                                                                                                                                          |
 | Trimethoprim/sulfamethoxazole (Co-trimoxazole)/Abacavir                                                         | Interaction not studied.                                                                                                      | No Trizivir dosage adjustment necessary, unless patient has renal impairment (See Section 4.2). When concomitant administration with co- trimoxazole is warranted, patients should be monitored clinically. High doses of trimethoprim/ sulfamethoxazole for the treatment of Pneumocystis jirovecii pneumonia (PCP) and toxoplasmosis have not been studied and should be avoided. |
-| Trimethoprim/sulfamethoxazole (Co-trimoxazole)/Lamivudine (160mg/800mg once daily for 5 days/300mg single dose) | Lamivudine: AUC ↑ 40% Trimethoprim: AUC ↔ Sulfamethoxazole: AUC ↔ (organic cation transporter inhibition)                     | No Trizivir dosage adjustment necessary, unless patient has renal impairment (See Section 4.2). When concomitant administration with co- trimoxazole is warranted, patients should be monitored clinically. High doses of trimethoprim/ sulfamethoxazole for the treatment of Pneumocystis jirovecii pneumonia (PCP) and toxoplasmosis have not been studied and should be avoided. |
+| Trimethoprim/sulfamethoxazole (Co-trimoxazole)/Lamivudine (160mg/800mg once daily for 5 days/300mg single dose) | Lamivudine: AUC  40% Trimethoprim: AUC  Sulfamethoxazole: AUC  (organic cation transporter inhibition)                     | No Trizivir dosage adjustment necessary, unless patient has renal impairment (See Section 4.2). When concomitant administration with co- trimoxazole is warranted, patients should be monitored clinically. High doses of trimethoprim/ sulfamethoxazole for the treatment of Pneumocystis jirovecii pneumonia (PCP) and toxoplasmosis have not been studied and should be avoided. |
 | Trimethoprim/sulfamethoxazole (Co-trimoxazole)/Zidovudine                                                       | Interaction not studied.                                                                                                      | No Trizivir dosage adjustment necessary, unless patient has renal impairment (See Section 4.2). When concomitant administration with co- trimoxazole is warranted, patients should be monitored clinically. High doses of trimethoprim/ sulfamethoxazole for the treatment of Pneumocystis jirovecii pneumonia (PCP) and toxoplasmosis have not been studied and should be avoided. |
 | ANTIFUNGALS                                                                                                     | ANTIFUNGALS                                                                                                                   | ANTIFUNGALS                                                                                                                                                                                                                                                                                                                                                                         |
 | Fluconazole/Abacavir                                                                                            | Interaction not studied.                                                                                                      | As only limited data are available the clinical significance is not known. Monitor for signs of zidovudine toxicity (see section 4.8).                                                                                                                                                                                                                                              |
 | Fluconazole/Lamivudine                                                                                          | Interaction not studied.                                                                                                      | As only limited data are available the clinical significance is not known. Monitor for signs of zidovudine toxicity (see section 4.8).                                                                                                                                                                                                                                              |
-| Fluconazole/Zidovudine (400 mg once daily/200 mg thrice daily)                                                  | Zidovudine AUC ↑ 74% (UGT inhibition)                                                                                         | As only limited data are available the clinical significance is not known. Monitor for signs of zidovudine toxicity (see section 4.8).                                                                                                                                                                                                                                              |
+| Fluconazole/Zidovudine (400 mg once daily/200 mg thrice daily)                                                  | Zidovudine AUC  74% (UGT inhibition)                                                                                         | As only limited data are available the clinical significance is not known. Monitor for signs of zidovudine toxicity (see section 4.8).                                                                                                                                                                                                                                              |
 | ANTIMYCOBACTERIALS                                                                                              | ANTIMYCOBACTERIALS                                                                                                            | ANTIMYCOBACTERIALS                                                                                                                                                                                                                                                                                                                                                                  |
 | Rifampicin/Abacavir                                                                                             | Interaction not studied. Potential to slightly decrease abacavir plasma concentrations through UGT induction.                 | Insufficient data to recommend dosage adjustment.                                                                                                                                                                                                                                                                                                                                   |
 
 | Drugs by Therapeutic Area   | Interaction Geometric mean change (%) (Possible mechanism)   | Recommendation concerning co- administration      |
 |-----------------------------|--------------------------------------------------------------|---------------------------------------------------|
 | Rifampicin/Lamivudine       | Interaction not studied.                                     | Insufficient data to recommend dosage adjustment. |
-| Rifampicin/Zidovudine       | Zidovudine AUC ↓ 48%                                         | Insufficient data to recommend dosage adjustment. |
+| Rifampicin/Zidovudine       | Zidovudine AUC  48%                                         | Insufficient data to recommend dosage adjustment. |
 
 <div style=\"page-break-after: always\"></div>
 
-| (600mg once daily/200 mg thrice daily)                                       | (UGT induction)                                                                                                                                    |                                                                                                                                        |
+| (600 mg once daily/200 mg thrice daily)                                      | (UGT induction)                                                                                                                                    |                                                                                                                                        |
 |------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------|
 | ANTICONVULSANTS                                                              | ANTICONVULSANTS                                                                                                                                    | ANTICONVULSANTS                                                                                                                        |
 | Phenobarbital/Abacavir                                                       | Interaction not studied. Potential to slightly decrease abacavir plasma concentrations through UGT induction.                                      | Insufficient data to recommend dosage adjustment.                                                                                      |
@@ -286,10 +286,10 @@ Interaction studies have only been performed in adults. The list below should no
 | Phenobarbital/Zidovudine                                                     | Interaction not studied. Potential to slightly decrease zidovudine plasma concentrations through UGT induction.                                    | Insufficient data to recommend dosage adjustment.                                                                                      |
 | Phenytoin/Abacavir                                                           | Interaction not studied. Potential to slightly decrease abacavir plasma concentrations through UGT induction.                                      | Insufficient data to recommend dosage adjustment. Monitor phenytoin concentrations.                                                    |
 | Phenytoin/Lamivudine                                                         | Interaction not studied.                                                                                                                           | Insufficient data to recommend dosage adjustment. Monitor phenytoin concentrations.                                                    |
-| Phenytoin/Zidovudine                                                         | Phenytoin AUC ↑↓                                                                                                                                   | Insufficient data to recommend dosage adjustment. Monitor phenytoin concentrations.                                                    |
+| Phenytoin/Zidovudine                                                         | Phenytoin AUC                                                                                                                                    | Insufficient data to recommend dosage adjustment. Monitor phenytoin concentrations.                                                    |
 | Valproic acid/Abacavir                                                       | Interaction not studied.                                                                                                                           | As only limited data are available the clinical significance is not known. Monitor for signs of zidovudine toxicity (see section 4.8). |
 | Valproic acid/Lamivudine                                                     | Interaction not studied.                                                                                                                           | As only limited data are available the clinical significance is not known. Monitor for signs of zidovudine toxicity (see section 4.8). |
-| Valproic acid/Zidovudine (250 mg or 500 mg thrice daily/100 mg thrice daily) | Zidovudine AUC ↑ 80% (UGT inhibition)                                                                                                              | As only limited data are available the clinical significance is not known. Monitor for signs of zidovudine toxicity (see section 4.8). |
+| Valproic acid/Zidovudine (250 mg or 500 mg thrice daily/100 mg thrice daily) | Zidovudine AUC  80% (UGT inhibition)                                                                                                              | As only limited data are available the clinical significance is not known. Monitor for signs of zidovudine toxicity (see section 4.8). |
 | ANTIHISTAMINES (HISTAMINE H2 RECEPTOR ANTAGONISTS)                           | ANTIHISTAMINES (HISTAMINE H2 RECEPTOR ANTAGONISTS)                                                                                                 | ANTIHISTAMINES (HISTAMINE H2 RECEPTOR ANTAGONISTS)                                                                                     |
 | Ranitidine/Abacavir                                                          | Interaction not studied.                                                                                                                           | No dosage adjustment necessary.                                                                                                        |
 | Ranitidine/Lamivudine                                                        | Interaction not studied. Clinically significant interaction unlikely. Ranitidine eliminated only in part by renal organic cation transport system. | No dosage adjustment necessary.                                                                                                        |
@@ -300,35 +300,35 @@ Interaction studies have only been performed in adults. The list below should no
 
 <div style=\"page-break-after: always\"></div>
 
-| Drugs by Therapeutic Area                                                                                    | Interaction Geometric mean change (%) (Possible mechanism)                                                                                                                                                                                                                                                     | Recommendation concerning co- administration                                                                                                                                                                                                              |
-|--------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| CYTOTOXICS                                                                                                   |                                                                                                                                                                                                                                                                                                                |                                                                                                                                                                                                                                                           |
-| Cladribine/Lamivudine                                                                                        | Interaction not studied. In vitro lamivudine inhibits the intracellular phosphorylation of cladribine leading to a potential risk of cladribine loss of efficacy in case of combination in the clinical setting. Some clinical findings also support a possible interaction between lamivudine and cladribine. | Therefore, the concomitant use of lamivudine with cladribine is not recommended (see section 4.4).                                                                                                                                                        |
-| OPIOIDS                                                                                                      |                                                                                                                                                                                                                                                                                                                |                                                                                                                                                                                                                                                           |
-| Methadone/Abacavir (40 to 90mg once daily for 14 days/600mg single dose, then 600mg twice daily for 14 days) | Abacavir: AUC ↔ Cmax ↓ 35% Methadone: CL/F ↑ 22%                                                                                                                                                                                                                                                               | As only limited data are available the clinical significance is not known. Monitor for signs of zidovudine toxicity (see section 4.8). Methadone dosage adjustment unlikely in majority of patients; occasionally methadone re-titration may be required. |
-| Methadone/Lamivudine                                                                                         | Interaction not studied.                                                                                                                                                                                                                                                                                       | As only limited data are available the clinical significance is not known. Monitor for signs of zidovudine toxicity (see section 4.8). Methadone dosage adjustment unlikely in majority of patients; occasionally methadone re-titration may be required. |
-| Methadone/Zidovudine (30 to 90 mg once daily/200 mg every 4 hours)                                           | Zidovudine AUC ↑ 43% Methadone AUC ↔                                                                                                                                                                                                                                                                           | As only limited data are available the clinical significance is not known. Monitor for signs of zidovudine toxicity (see section 4.8). Methadone dosage adjustment unlikely in majority of patients; occasionally methadone re-titration may be required. |
-| RETINOIDS                                                                                                    |                                                                                                                                                                                                                                                                                                                |                                                                                                                                                                                                                                                           |
-| Retinoid compounds (e.g. isotretinoin)/Abacavir                                                              | Interaction not studied. Possible interaction given common pathway of elimination via alcohol dehydrogenase.                                                                                                                                                                                                   | Insufficient data to recommend dosage adjustment.                                                                                                                                                                                                         |
-| Retinoid compounds (e.g. isotretinoin)/Lamivudine No drug interaction studies                                | Interaction not studied.                                                                                                                                                                                                                                                                                       | Insufficient data to recommend dosage adjustment.                                                                                                                                                                                                         |
-| Retinoid compounds (e.g. isotretinoin)/Zidovudine                                                            | Interaction not studied.                                                                                                                                                                                                                                                                                       | Insufficient data to recommend dosage adjustment.                                                                                                                                                                                                         |
-| URICOSURIC                                                                                                   |                                                                                                                                                                                                                                                                                                                |                                                                                                                                                                                                                                                           |
-| Probenecid/Abacavir                                                                                          | Interaction not studied.                                                                                                                                                                                                                                                                                       | As only limited data are available the clinical significance is not known. Monitor for signs of zidovudine toxicity (see section 4.8).                                                                                                                    |
-| Probenecid/Lamivudine                                                                                        | Interaction not studied.                                                                                                                                                                                                                                                                                       | As only limited data are available the clinical significance is not known. Monitor for signs of zidovudine toxicity (see section 4.8).                                                                                                                    |
-| Probenecid/Zidovudine (500 mg four times                                                                     | Zidovudine AUC ↑ 106%                                                                                                                                                                                                                                                                                          | As only limited data are available the clinical significance is not known. Monitor for signs of zidovudine toxicity (see section 4.8).                                                                                                                    |
-| daily/2mg/kg thrice daily)                                                                                   | (UGT inhibition)                                                                                                                                                                                                                                                                                               | As only limited data are available the clinical significance is not known. Monitor for signs of zidovudine toxicity (see section 4.8).                                                                                                                    |
-| MISCELLANEOUS                                                                                                |                                                                                                                                                                                                                                                                                                                |                                                                                                                                                                                                                                                           |
-| Ethanol/Abacavir (0.7 g/kg single dose/600mg single dose)                                                    | Abacavir: AUC ↑ 41% Ethanol: AUC ↔ (Inhibition of alcohol dehydrogenase)                                                                                                                                                                                                                                       | No dosage adjustment necessary.                                                                                                                                                                                                                           |
-| Ethanol/Lamivudine                                                                                           | Interaction not studied.                                                                                                                                                                                                                                                                                       | No dosage adjustment necessary.                                                                                                                                                                                                                           |
-| Ethanol/Zidovudine                                                                                           | Interaction not studied.                                                                                                                                                                                                                                                                                       | No dosage adjustment necessary.                                                                                                                                                                                                                           |
+| Drugs by Therapeutic Area                                                                                       | Interaction Geometric mean change (%) (Possible mechanism)                                                                                                                                                                                                                                                     | Recommendation concerning co- administration                                                                                                                                                                                                              |
+|-----------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| CYTOTOXICS                                                                                                      |                                                                                                                                                                                                                                                                                                                |                                                                                                                                                                                                                                                           |
+| Cladribine/Lamivudine                                                                                           | Interaction not studied. In vitro lamivudine inhibits the intracellular phosphorylation of cladribine leading to a potential risk of cladribine loss of efficacy in case of combination in the clinical setting. Some clinical findings also support a possible interaction between lamivudine and cladribine. | Therefore, the concomitant use of lamivudine with cladribine is not recommended (see section 4.4).                                                                                                                                                        |
+| OPIOIDS                                                                                                         |                                                                                                                                                                                                                                                                                                                |                                                                                                                                                                                                                                                           |
+| Methadone/Abacavir (40 to 90 mg once daily for 14 days/600 mg single dose, then 600 mg twice daily for 14 days) | Abacavir: AUC  Cmax  35% Methadone: CL/F  22%                                                                                                                                                                                                                                                               | As only limited data are available the clinical significance is not known. Monitor for signs of zidovudine toxicity (see section 4.8). Methadone dosage adjustment unlikely in majority of patients; occasionally methadone re-titration may be required. |
+| Methadone/Lamivudine                                                                                            | Interaction not studied.                                                                                                                                                                                                                                                                                       | As only limited data are available the clinical significance is not known. Monitor for signs of zidovudine toxicity (see section 4.8). Methadone dosage adjustment unlikely in majority of patients; occasionally methadone re-titration may be required. |
+| Methadone/Zidovudine (30 to 90 mg once daily/200 mg every 4 hours)                                              | Zidovudine AUC  43% Methadone AUC                                                                                                                                                                                                                                                                            | As only limited data are available the clinical significance is not known. Monitor for signs of zidovudine toxicity (see section 4.8). Methadone dosage adjustment unlikely in majority of patients; occasionally methadone re-titration may be required. |
+| RETINOIDS                                                                                                       |                                                                                                                                                                                                                                                                                                                |                                                                                                                                                                                                                                                           |
+| Retinoid compounds (e.g. isotretinoin)/Abacavir                                                                 | Interaction not studied. Possible interaction given common pathway of elimination via alcohol dehydrogenase.                                                                                                                                                                                                   | Insufficient data to recommend dosage adjustment.                                                                                                                                                                                                         |
+| Retinoid compounds (e.g. isotretinoin)/Lamivudine No drug interaction studies                                   | Interaction not studied.                                                                                                                                                                                                                                                                                       | Insufficient data to recommend dosage adjustment.                                                                                                                                                                                                         |
+| Retinoid compounds (e.g. isotretinoin)/Zidovudine                                                               | Interaction not studied.                                                                                                                                                                                                                                                                                       | Insufficient data to recommend dosage adjustment.                                                                                                                                                                                                         |
+| URICOSURIC                                                                                                      |                                                                                                                                                                                                                                                                                                                |                                                                                                                                                                                                                                                           |
+| Probenecid/Abacavir                                                                                             | Interaction not studied.                                                                                                                                                                                                                                                                                       | As only limited data are available the clinical significance is not known. Monitor for signs of zidovudine toxicity (see section 4.8).                                                                                                                    |
+| Probenecid/Lamivudine                                                                                           | Interaction not studied.                                                                                                                                                                                                                                                                                       | As only limited data are available the clinical significance is not known. Monitor for signs of zidovudine toxicity (see section 4.8).                                                                                                                    |
+| Probenecid/Zidovudine (500 mg four times                                                                        | Zidovudine AUC  106%                                                                                                                                                                                                                                                                                          | As only limited data are available the clinical significance is not known. Monitor for signs of zidovudine toxicity (see section 4.8).                                                                                                                    |
+| daily/2 mg/kg thrice daily)                                                                                     | (UGT inhibition)                                                                                                                                                                                                                                                                                               | As only limited data are available the clinical significance is not known. Monitor for signs of zidovudine toxicity (see section 4.8).                                                                                                                    |
+| MISCELLANEOUS                                                                                                   |                                                                                                                                                                                                                                                                                                                |                                                                                                                                                                                                                                                           |
+| Ethanol/Abacavir (0.7 g/kg single dose/600 mg single dose)                                                      | Abacavir: AUC  41% Ethanol: AUC  (Inhibition of alcohol dehydrogenase)                                                                                                                                                                                                                                       | No dosage adjustment necessary.                                                                                                                                                                                                                           |
+| Ethanol/Lamivudine                                                                                              | Interaction not studied.                                                                                                                                                                                                                                                                                       | No dosage adjustment necessary.                                                                                                                                                                                                                           |
+| Ethanol/Zidovudine                                                                                              | Interaction not studied.                                                                                                                                                                                                                                                                                       | No dosage adjustment necessary.                                                                                                                                                                                                                           |
 
 <div style=\"page-break-after: always\"></div>
 
-| Sorbitol solution (3.2 g, 10.2 g, 13.4 g)/ Lamivudine   | Single dose lamivudine oral solution 300 mg Lamivudine: AUC ↓ 14%; 32%; 36% Cmax ↓ 28%; 52%, 55%.                                                                                                                                                                                                                                                                         | When possible, avoid chronic coadministration of Trizivir with medicinal products containing sorbitol or other osmotic acting poly-alcohols or monosaccharide alcohols (e.g. xylitol, mannitol, lactitol, maltitol). Consider more frequent monitoring of HIV-1 viral load when chronic coadministration cannot be avoided.   |
-|---------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Riociguat/Abacavir                                      | Riociguat ↑ In vitro, abacavir inhibits CYP1A1. Concomitant administration of a single dose of riociguat (0.5 mg) to HIV patients receiving the combination of abacavir/dolutegravir/lamivudine (600mg/50mg/300mg once daily) led to an approximately three-fold higher riociguat AUC (0-∞) when compared to historical riociguat AUC (0-∞) reported in healthy subjects. | Riociguat dose may need to be reduced. Consult the riociguat prescribing information for dosing recommendations.                                                                                                                                                                                                              |
+| Sorbitol solution (3.2 g, 10.2 g, 13.4 g)/ Lamivudine   | Single dose lamivudine oral solution 300 mg Lamivudine: AUC  14%; 32%; 36% Cmax  28%; 52%, 55%.                                                                                                                                                                                                                                                                              | When possible, avoid chronic coadministration of Trizivir with medicinal products containing sorbitol or other osmotic acting poly-alcohols or monosaccharide alcohols (e.g. xylitol, mannitol, lactitol, maltitol). Consider more frequent monitoring of HIV-1 viral load when chronic coadministration cannot be avoided.   |
+|---------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Riociguat/Abacavir                                      | Riociguat  In vitro, abacavir inhibits CYP1A1. Concomitant administration of a single dose of riociguat (0.5 mg) to HIV patients receiving the combination of abacavir/dolutegravir/lamivudine (600 mg/50 mg/300 mg once daily) led to an approximately three-fold higher riociguat AUC (0- ∞) when compared to historical riociguat AUC (0- ∞) reported in healthy subjects. | Riociguat dose may need to be reduced. Consult the riociguat prescribing information for dosing recommendations.                                                                                                                                                                                                              |
 
-Abbreviations: ↑ = Increase; ↓ =decrease; ↔ = no significant change; AUC=area under the concentration versus time curve; Cmax=maximum observed concentration; CL/F=apparent oral clearance
+Abbreviations:  = Increase;  =decrease;  = no significant change; AUC=area under the concentration versus time curve; Cmax=maximum observed concentration; CL/F=apparent oral clearance
 
 Exacerbation of anaemia due to ribavirin has been reported when zidovudine is part of the regimen used to treat HIV although the exact mechanism remains to be elucidated. The concomitant use of ribavirin with zidovudine is not recommended due to an increased risk of anaemia (see section 4.4). Consideration should be given to replacing zidovudine in a combination ART regimen if this is already established. This would be particularly important in patients with a known history of zidovudine induced anaemia.
 
@@ -370,7 +370,7 @@ Studies in animals showed that neither abacavir nor lamivudine nor zidovudine ha
 
 ## 4.7 Effects on ability to drive and use machines
 
-No studies on the effects on the ability to drive and use machines have been performed. The clinical status of the patient and the adverse event profile of Trizivir should be borne in mind when considering the patient's ability to drive or operate machinery.
+No studies on the effects on the ability to drive and use machines have been performed. The clinical status of the patient and the adverse event profile of Trizivir should be borne in mind when considering the patient's ability to drive or operate machiner y.
 
 <div style=\"page-break-after: always\"></div>
 
@@ -471,7 +471,7 @@ Treatment with  zidovudine has been associated with cases of lactic acidosis, so
 
 ## Lipoatrophy
 
-Treatment with zidovudine has been associated with loss of subcutaneous fat which is most evident in the face, limbs and buttocks.  Patients receiving Trizivir  should be frequently examined and questioned for signs of lipoatrophy. When such development is found, treatment with Trizivir should not be continued (see section 4.4).
+Treatment with zidovudine has been associated with loss of subcutaneous fat which is most evident in the face, limbs and buttocks. Patients receiving Trizivir should be frequently examined and questioned for signs of lipoatrophy. When such development is found, treatment with Trizivir should not be continued (see section 4.4).
 
 ## Metabolic parameters
 
@@ -509,7 +509,7 @@ Antivirals for systemic use, antivirals for treatment of HIV infections, combina
 
 ## Mechanism of action
 
-Abacavir, lamivudine and zidovudine are all NRTIs, and are potent selective inhibitors of HIV-1 and HIV-2.All three medicinal products are metabolised sequentially by intracellular kinases to the respective 5 ′ -triphosphate (TP). Lamivudine-TP, carbovir-TP (the active triphosphate form of abacavir) and zidovudine-TP are substrates for and competitive inhibitors of HIV reverse transcriptase (RT). However, their main antiviral activity is through incorporation of the monophosphate form into the viral DNA chain, resulting in chain termination. Abacavir, lamivudine and zidovudine triphosphates show significantly less affinity for host cell DNA polymerases.
+Abacavir, lamivudine and zidovudine are all NRTIs, and are potent selective inhibitors of HIV-1 and HIV-2.All three medicinal products are metabolised sequentially by intracellular kinases to the respective 5  -triphosphate (TP). Lamivudine-TP, carbovir-TP (the active triphosphate form of abacavir) and zidovudine-TP are substrates for and competitive inhibitors of HIV reverse transcriptase (RT). However, their main antiviral activity is through incorporation of the monophosphate form into the viral DNA chain, resulting in chain termination. Abacavir, lamivudine and zidovudine triphosphates show significantly less affinity for host cell DNA polymerases.
 
 No antagonistic effects in vitro were seen with lamivudine and other antiretrovirals (tested agents: abacavir, didanosine and nevirapine). No antagonistic effects in vitro were seen with zidovudine and other antiretrovirals (tested agents: didanosine and interferon-alpha). The antiviral activity of abacavir in cell culture was not antagonized when combined with the nucleoside reverse transcriptase inhibitors (NRTIs) didanosine, emtricitabine, stavudine or tenofovir, the non-nucleoside reverse transcriptase inhibitor (NNRTI) nevirapine, or the protease inhibitor (PI) amprenavir.
 
@@ -531,12 +531,12 @@ The M184V or M184I variants arise in HIV-1 infected patients treated with lamivu
 | Number of Virological Failures | 43                    |
 | Number of On-Therapy Genotypes | 40 (100 %)            |
 | 0                              | K65R                  |
-| L74V 0                         |                       |
-|                                | 0                     |
-| Y115F M184V/I                  | 34 (85 %)             |
+| L74V                           | 0                     |
+| Y115F                          | 0                     |
+| M184V/I                        | 34 (85 %)             |
 | TAMs 1                         | 3 (8 %)               |
 
-1. Number of subjects with ≥ 1 TAM.
+1. Number of subjects with  1 TAM.
 
 TAMs might be selected when thymidine analogs are associated with abacavir. In a meta-analysis of six clinical trials, TAMs were not selected by regimens containing abacavir without zidovudine (0/127), but were selected by regimens containing abacavir and the thymidine analogue zidovudine (22/86, 26 %). In addition, the selection of L74V and K65R was reduced when co-administered with ZDV (K65R: without ZDV: 13/127, 10 %; with ZDV: 1/86, 1 %; L74V: without ZDV: 51/127, 40 %; with ZDV: 2/86, 2 %).
 
@@ -544,7 +544,7 @@ TAMs might be selected when thymidine analogs are associated with abacavir. In a
 
 The M184V or M184I variants arise in HIV-1 infected patients treated with lamivudine-containing antiretroviral therapy and confers high-level resistance to lamivudine. In vitro data tend to suggest that the continuation of lamivudine in anti-retroviral regimen despite the development of M184V might provide residual anti-retroviral activity (likely through impaired viral fitness). The clinical relevance of these findings is not established. Indeed, the available clinical data are very limited and preclude any reliable conclusion in the field. In any case, initiation of susceptible NRTIs should always be preferred to maintenance of lamivudine therapy. Therefore, maintaining lamivudine therapy despite emergence of M184V mutation should only be considered in cases where no other active NRTIs are available. Similarly, the presence of TAMs gives rise to resistance to ZDV.
 
-Clinically significant reduction of susceptibility to abacavir has been demonstrated in clinical isolates of patients with uncontrolled viral replication, who have been pre-treated with and are resistant to other nucleoside inhibitors. In a meta-analysis of five clinical trials where abacavir was added to intensify therapy, of 166 subjects, 123 (74 %) had M184V/I, 50 (30 %) had T215Y/F, 45 (27%) had M41L, 30 (18 %) had K70R and 25 (15%) had D67N. K65R was absent and L74V and Y115F were uncommon ( ≤ 3 %). Logistic regression modelling of the predictive value for genotype (adjusted for baseline plasma HIV-1 RNA [vRNA], CD4+ cell count, number and duration of prior antiretroviral therapies) showed that the presence of 3 or more NRTI resistance-associated mutations was associated with reduced response at Week 4 (p=0.015) or 4 or more mutations at median Week 24 (p ≤ 0.012). In addition, the 69 insertion complex or the Q151M mutation, usually found in combination with A62V, V75I, F77L and F116Y, cause a high level of resistance to abacavir.
+Clinically significant reduction of susceptibility to abacavir has been demonstrated in clinical isolates of patients with uncontrolled viral replication, who have been pre-treated with and are resistant to other nucleoside inhibitors. In a meta-analysis of five clinical trials where abacavir was added to intensify therapy, of 166 subjects, 123 (74 %) had M184V/I, 50 (30 %) had T215Y/F, 45 (27%) had M41L, 30 (18 %) had K70R and 25 (15%) had D67N. K65R was absent and L74V and Y115F were uncommon (  3 %). Logistic regression modelling of the predictive value for genotype (adjusted for baseline plasma HIV-1 RNA [vRNA], CD4+ cell count, number and duration of prior antiretroviral therapies) showed that the presence of 3 or more NRTI resistance-associated mutations was associated with reduced response at Week 4 (p=0.015) or 4 or more mutations at median Week 24 (p  0.012). In addition, the 69 insertion complex or the Q151M mutation, usually found in combination with A62V, V75I, F77L and F116Y, cause a high level of resistance to abacavir.
 
 <div style=\"page-break-after: always\"></div>
 
@@ -566,9 +566,9 @@ Cross-resistance between abacavir, lamivudine or zidovudine and antiretrovirals 
 
 ## Clinical efficacy and safety
 
-One randomised, double blind, placebo controlled clinical study has compared the combination of abacavir, lamivudine and zidovudine to the combination of indinavir, lamivudine and zidovudine in treatment naive patients. Due to the high proportion of premature discontinuation (42% of patients discontinued randomised treatment by week 48), no definitive conclusion can be drawn regarding the equivalence between the treatment regimens at week 48. Although a similar antiviral effect was observed between the abacavir and indinavir containing regimens in terms of proportion of patients with undetectable viral load ( ≤ 400 copies/mL; intention to treat analysis (ITT), 47% versus 49%; as treated analysis (AT), 86% versus 94% for abacavir and indinavir combinations respectively), results favoured the indinavir combination, particularly in the subset of patients with high viral load (&gt;100,000 copies/mL at baseline; ITT, 46% versus 55%; AT, 84% versus 93% for abacavir and indinavir respectively).
+One randomised, double blind, placebo controlled clinical study has compared the combination of abacavir, lamivudine and zidovudine to the combination of indinavir, lamivudine and zidovudine in treatment naive patients. Due to the high proportion of premature discontinuation (42% of patients discontinued randomised treatment by week 48), no definitive conclusion can be drawn regarding the equivalence between the treatment regimens at week 48. Although a similar antiviral effect was observed between the abacavir and indinavir containing regimens in terms of proportion of patients with undetectable viral load (  400 copies/mL; intention to treat analysis (ITT), 47% versus 49%; as treated analysis (AT), 86% versus 94% for abacavir and indinavir combinations respectively), results favoured the indinavir combination, particularly in the subset of patients with high viral load (&gt;100,000 copies/mL at baseline; ITT, 46% versus 55%; AT, 84% versus 93% for abacavir and indinavir respectively).
 
-ACTG5095 was a randomised (1:1:1), double-blind, placebo-controlled trial performed in 1147 antiretroviral naïve HIV-1 infected adults, comparing 3 regimens: zidovudine (ZDV), lamivudine (3TC), abacavir (ABC), efavirenz (EFV) vs ZDV/3TC/EFV vs ZDV/3TC/ABC. After a median follow-up of 32 weeks, the tritherapy with the three nucleosides ZDV/3TC/ABC was shown to be virologically inferior to the two other arms regardless of baseline viral load (&lt; or &gt; 100 000 copies/mL) with 26% of subjects on the ZDV/3TC/ABC arm, 16% on the ZDV/3TC/EFV arm and 13% on the 4 drug arm categorised as having virological failure (HIV RNA &gt;200 copies/mL). At week 48 the proportion of subjects with HIV RNA &lt;50 copies/mL were 63%, 80% and 86% for the ZDV/3TC/ABC, ZDV/3TC/EFV and ZDV/3TC/ABC/EFV arms, respectively. The study Data Safety Monitoring Board stopped the ZDV/3TC/ABC arm at this time based on the higher proportion of patients with virologic failure. The remaining arms were continued in a blinded fashion. After a median follow-up of 144 weeks, 25 % of subjects on the ZDV/3TC/ABC/EFV arm and 26% on the
+ACTG5095 was a randomised (1:1:1), double-blind, placebo-controlled trial performed in 1147 antiretroviral naïve HIV -1 infected adults, comparing 3 regimens: zidovudine (ZDV), lamivudine (3TC), abacavir (ABC), efavirenz (EFV) vs ZDV/3TC/EFV vs ZDV/3TC/ABC. After a median follow-up of 32 weeks, the tritherapy with the three nucleosides ZDV/3TC/ABC was shown to be virologically inferior to the two other arms regardless of baseline viral load (&lt; or &gt; 100 000 copies/mL) with 26% of subjects on the ZDV/3TC/ABC arm, 16% on the ZDV/3TC/EFV arm and 13% on the 4 drug arm categorised as having virological failure (HIV RNA &gt;200 copies/mL). At week 48 the proportion of subjects with HIV RNA &lt;50 copies/mL were 63%, 80% and 86% for the ZDV/3TC/ABC, ZDV/3TC/EFV and ZDV/3TC/ABC/EFV arms, respectively. The study Data Safety Monitoring Board stopped the ZDV/3TC/ABC arm at this time based on the higher proportion of patients with virologic failure. The remaining arms were continued in a blinded fashion. After a median follow-up of 144 weeks, 25 % of subjects on the ZDV/3TC/ABC/EFV arm and 26% on the
 
 <div style=\"page-break-after: always\"></div>
 
@@ -582,7 +582,7 @@ ZDV/3TC/EFV arm were categorised as having virological failure. There was no sig
 
 In antiretroviral-naive patients treated with a combination of abacavir, lamivudine, zidovudine and efavirenz in a small, ongoing, open label pilot study, the proportion of patients with undetectable viral load (&lt;400 copies/mL) was approximately 90% with 80% having &lt;50 copies/mL after 24 weeks of treatment.
 
-Currently there are no data on the use of Trizivir in heavily pre-treated patients, patients failing on other therapies or patients with advanced disease (CD4 cells &lt; 50 cells/mm 3 ).
+Currently there are no data on the use of Trizivir in heavily pre-treated patients, patients failing on other therapies or patients with advanced disease (CD4 cells  50 cells/mm 3 ).
 
 The degree of benefit of this nucleoside combination in heavily pre-treated patients will depend on the nature and duration of prior therapy that may have selected for HIV-1 variants with cross-resistance to abacavir, lamivudine or zidovudine.
 
@@ -596,9 +596,9 @@ Abacavir, lamivudine and zidovudine are rapidly and well absorbed from the gastr
 
 In a pharmacokinetic study in HIV-1 infected patients, the steady state pharmacokinetic parameters of abacavir, lamivudine and zidovudine were similar when either Trizivir alone or the combination tablet lamivudine/zidovudine and abacavir in combination were administered, and also similar to the values obtained in the bioequivalence study of Trizivir in healthy volunteers.
 
-A bioequivalence study compared Trizivir with abacavir 300 mg, lamivudine 150 mg and zidovudine 300 mg taken together. The effect of food on the rate and extent of absorption was also studied. Trizivir was shown to be bioequivalent to abacavir 300 mg, lamivudine 150 mg and zidovudine 300 mg given as separate tablets for AUC0-∞ and Cmax. Food decreased the rate of absorption of Trizivir (slight decrease Cmax (mean 18 - 32 %) and increase tmax (approximately 1 hour), but not the extent of absorption (AUC0-∞ ). These changes are not considered clinically relevant and no food restrictions are recommended for administration of Trizivir.
+A bioequivalence study compared Trizivir with abacavir 300 mg, lamivudine 150 mg and zidovudine 300 mg taken together. The effect of food on the rate and extent of absorption was also studied. Trizivir was shown to be bioequivalent to abacavir 300 mg, lamivudine 150 mg and zidovudine 300 mg given as separate tablets for AUC0- and Cmax. Food decreased the rate of absorption of Trizivir (slight decrease Cmax (mean 18 - 32 %) and increase tmax (approximately 1 hour), but not the extent of absorption (AUC0- ). These changes are not considered clinically relevant and no food restrictions are recommended for administration of Trizivir.
 
-At a therapeutic dose (one Trizivir tablet twice daily) in patients, the mean (CV) steady-state Cmax of abacavir, lamivudine and zidovudine in plasma are 3.49 µg/mL (45%), 1.33 µg/mL (33%) and 1.56 µg/mL (83%), respectively. Corresponding values for Cmin could not be established for abacavir and are 0.14 µg/mL (70%) for lamivudine and 0.01 µg/mL (64%) for zidovudine. The mean (CV) AUCs for abacavir, lamivudine and zidovudine over a dosing interval of 12 hours are 6.39 µg.h/mL (31%), 5.73 µg.h/mL (31%) and 1.50 µg.h/mL (47%), respectively.
+At a therapeutic dose (one Trizivir tablet twice daily) in patients, the mean (CV) steady-state Cmax of abacavir, lamivudine and zidovudine in plasma are 3.49 µg/m L (45%), 1.33 µg/m L (33%) and 1.56 µg/m L (83%), respectively. Corresponding values for Cmin could not be established for abacavir and are 0.14 µg/m L (70%) for lamivudine and 0.01 µg/m L (64%) for zidovudine. The mean (CV) AUCs for abacavir, lamivudine and zidovudine over a dosing interval of 12 hours are 6.39 µg.h/m L (31%), 5.73 µg.h/m L (31%) and 1.50 µg.h/m L (47%), respectively.
 
 A modest increase in Cmax (28%) was observed for zidovudine when administered with lamivudine, however overall exposure (AUC) was not significantly altered. Zidovudine has no effect on the
 
@@ -614,19 +614,19 @@ Interactions involving binding site displacement are not anticipated with Triziv
 
 Data show that abacavir, lamivudine and zidovudine penetrate the central nervous system (CNS) and reach the cerebrospinal fluid (CSF). The mean ratios of CSF/serum lamivudine and zidovudine concentrations 2 - 4 hours after oral administration were approximately 0.12 and 0.5 respectively. The true extent of CNS penetration of lamivudine and its relationship with any clinical efficacy is unknown.
 
-Studies with abacavir demonstrate a CSF to plasma AUC ratio of between 30 to 44%. The observed values of the peak concentrations are 9 fold greater than the IC50 of abacavir of 0.08 µg/mL or 0.26 µM when abacavir is given at 600 mg twice daily .
+Studies with abacavir demonstrate a CSF to plasma AUC ratio of between 30 to 44%. The observed values of the peak concentrations are 9 fold greater than the IC50 of abacavir of 0.08 µg/m L or 0.26 µM when abacavir is given at 600 mg twice daily .
 
 ## Biotransformation
 
 Metabolism of lamivudine is a minor route of elimination. Lamivudine is predominately cleared by renal excretion of unchanged lamivudine. The likelihood of metabolic drug interactions with lamivudine is low due to the small extent of hepatic metabolism (5 - 10%) and low plasma binding.
 
-The 5'-glucuronide of zidovudine is the major metabolite in both plasma and urine, accounting for approximately 50 - 80 % of the administered dose eliminated by renal excretion. 3'-amino-3'deoxythymidine (AMT) has been identified as a metabolite of zidovudine following intravenous dosing.
+The 5' -glucuronide of zidovudine is the major metabolite in both plasma and urine, accounting for approximately 50 - 80 % of the administered dose eliminated by renal excretion. 3' -amino3' -deoxythymidine (AMT) has been identified as a metabolite of zidovudine following intravenous dosing.
 
-Abacavir is primarily metabolised by the liver with approximately 2% of the administered dose being renally excreted, as unchanged compound. The primary pathways of metabolism in man are by alcohol dehydrogenase and by glucuronidation to produce the 5'-carboxylic acid and 5'-glucuronide which account for about 66% of the dose excreted in the urine.
+Abacavir is primarily metabolised by the liver with approximately 2% of the administered dose being renally excreted, as unchanged compound. The primary pathways of metabolism in man are by alcohol dehydrogenase and by glucuronidation to produce the 5' -car boxylic acid and 5' -glucuronide which account for about 66% of the dose excreted in the urine.
 
 ## Elimination
 
-The observed lamivudine half-life of elimination is 18 to 19 hours. The mean systemic clearance of lamivudine is approximately 0.32 l/h/kg, with predominantly renal clearance (&gt;70 %) via the organic cationic transport system. Studies in patients with renal impairment show lamivudine elimination is affected by renal dysfunction. Dose reduction is required for patients with creatinine clearance ≤ 30 mL/min (see section 4.2).
+The observed lamivudine half-life of elimination is 18 to 19 hours. The mean systemic clearance of lamivudine is approximately 0.32 l/h/kg, with predominantly renal clearance (&gt;70 %) via the organic cationic transport system. Studies in patients with renal impairment show lamivudine elimination is affected by renal dysfunction. Dose reduction is required for patients with creatinine clearance  30 mL/min (see section 4.2).
 
 From studies with intravenous zidovudine, the mean terminal plasma half-life was 1.1 hours and the mean systemic clearance was 1.6 l/h/kg. Renal clearance of zidovudine is estimated to be 0.34 l/h/kg, indicating glomerular filtration and active tubular secretion by the kidneys. Zidovudine concentrations are increased in patients with advanced renal failure.
 
@@ -652,7 +652,7 @@ From studies with intravenous zidovudine, the mean terminal plasma half-life was
 
 Abacavir is primarily metabolised by the liver with approximately 2% of abacavir excreted unchanged in the urine. The pharmacokinetics of abacavir in patients with end-stage renal disease is similar to patients with normal renal function, and, therefore, no dose reduction is required in patients with renal impairment.
 
-As dose adjustments of lamivudine and zidovudine may be necessary it is recommended that separate preparations of abacavir, lamivudine and zidovudine be administered to patients with severe renal impairment (creatinine clearance ≤ 30 mL/min). Trizivir is contraindicated in patients with end-stage renal disease (see section 4.3).
+As dose adjustments of lamivudine and zidovudine may be necessary it is recommended that separate preparations of abacavir, lamivudine and zidovudine be administered to patients with severe renal impairment (creatinine clearance  30 mL/min). Trizivir is contraindicated in patients with end-stage renal disease (see section 4.3).
 
 ## Elderly
 
@@ -728,7 +728,7 @@ Not applicable
 
 ## 6.4 Special precautions for storage
 
-Do not store above 30 ° C
+Do not store above 30  C
 
 ## 6.5 Nature and contents of container
 
@@ -740,11 +740,13 @@ Any unused medicinal product or waste material should be disposed of in accordan
 
 ## 7. MARKETING AUTHORISATION HOLDER
 
-ViiV Healthcare BV Van Asch van Wijckstraat 55H 3811 LP Amersfoort Netherlands
+Van Asch van Wijckstraat 55H
+
+ViiV Healthcare BV 3811 LP Amersfoort Netherlands
 
 ## 8. MARKETING AUTHORISATION NUMBER(S)
 
-EU/1/00/156/002 - opaque white PCTFE/PVC-Al Blister pack (60 Tablets)
+EU/1/00/156/002 -opaque white PCTFE/PVC-Al Blister pack (60 Tablets)
 
 EU/1/00/156/003 -Bottle pack (60 Tablets)
 
@@ -797,6 +799,12 @@ An updated RMP should be submitted:
 
 - At the request of the European Medicines Agency;
 - Whenever the risk management system is modified, especially as the result of new information being received that may lead to a significant change to the benefit/risk profile or as the result of an important (pharmacovigilance or risk minimisation) milestone being reached.
+
+## · Additional risk minimisation measures
+
+## Abacavir Hypersensitivity
+
+An 'Alert' card is included in every pack of an ABC containing product, which patients should carry with them at all times. This describes the symptoms of the allergic reaction and warns patients that these reactions can be life-threatening if treatment with an ABC containing product is continued. The alert card also warns the patient that if treatment with an ABC containing product is discontinued due to these type of reactions, then the patient must never take an ABC containing product or any other medicine containing ABC again as it could result in a life-threatening lowering of blood pressure or death.
 
 <div style=\"page-break-after: always\"></div>
 
@@ -860,7 +868,7 @@ EXP
 
 ## 9. SPECIAL STORAGE CONDITIONS
 
-Do not store above 30 ° C
+Do not store above 30  C
 
 10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
 
@@ -880,13 +888,13 @@ LOT
 
 Medicinal product subject to medical prescription.
 
-## 15. INSTRUCTIONS ON USE
+15. INSTRUCTIONS ON USE
 
 16. INFORMATION IN BRAILLE
 
 trizivir
 
-## 17. UNIQUE IDENTIFIER - 2D BARCODE
+17. UNIQUE IDENTIFIER - 2D BARCODE
 
 2D barcode carrying the unique identifier included.
 
@@ -906,8 +914,8 @@ PC: SN: NN:
 
 Trizivir 300 mg/150 mg/300 mg tablets abacavir/lamivudine/zidovudine
 
-| 2.   | NAMEOFTHEMARKETING AUTHORISATION HOLDER   |
-|------|-------------------------------------------|
+| 2.   | NAMEOFTHEMARKETINGAUTHORISATION HOLDER   |
+|------|------------------------------------------|
 
 ViiV Healthcare BV Netherlands
 
@@ -976,7 +984,7 @@ EXP
 
 ## 9. SPECIAL STORAGE CONDITIONS
 
-Do not store above 30 ° C
+Do not store above 30  C
 
 10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
 
@@ -1054,17 +1062,15 @@ EXP
 
 <div style=\"page-break-after: always\"></div>
 
-Do not store above 30 ° C
+Do not store above 30  C
 
 <div style=\"page-break-after: always\"></div>
 
-## 10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
+10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
-ViiV Healthcare BV Van Asch van Wijckstraat 55H 3811 LP Amersfoort
-
-Netherlands
+ViiV Healthcare BV Van Asch van Wijckstraat 55H 3811 LP Amersfoort Netherlands
 
 ## 12. MARKETING AUTHORISATION NUMBER(S)
 
@@ -1080,9 +1086,9 @@ Medicinal product subject to medical prescription.
 
 ## 15. INSTRUCTIONS ON USE
 
-17. UNIQUE IDENTIFIER - 2D BARCODE
+17. UNIQUE IDENTIFIER -2D BARCODE
 
-## 18. UNIQUE IDENTIFIER - HUMAN READABLE DATA
+## 18. UNIQUE IDENTIFIER -HUMAN READABLE DATA
 
 <div style=\"page-break-after: always\"></div>
 
@@ -1104,11 +1110,11 @@ CONTACT YOUR DOCTOR IMMEDIATELY for advice on whether you should stop taking Tri
 
 -  fever
 
-- shortness of breath, sore throat or cough
+- ­ shortness of breath, sore throat or cough
 
-- nausea or vomiting or diarrhoea or abdominal pain
+- ­ nausea or vomiting or diarrhoea or abdominal pain
 
-- severe tiredness or achiness or generally feeling ill
+- ­ severe tiredness or achiness or generally feeling ill
 
 If you have discontinued Trizivir due to this reaction, YOU MUST NEVER TAKE Trizivir, or any medicine containing abacavir ( Kivexa , Ziagen or Triumeq ) again as within hours you may experience a life-threatening lowering of your blood pressure or death.
 
@@ -1145,7 +1151,7 @@ abacavir/lamivudine/zidovudine
 - -This medicine has been prescribed for you only. Do not pass it on to others. It may harm them, even if their signs of illness are the same as yours.
 - -If you get any side effects talk to your doctor or pharmacist immediately . This includes any possible side effects not listed in this leaflet. See section 4.
 
-## IMPORTANT - Hypersensitivity reactions
+## IMPORTANT -Hypersensitivity reactions
 
 Trizivir contains abacavir (which is also an active substance in medicines such as Kivexa, Triumeq and Ziagen ). Some people who take abacavir may develop a hypersensitivity reaction (a serious allergic reaction), which can be life-threatening if they continue to take abacavir containing products . You must carefully read all the information under 'Hypersensitivity reactions' in the panel in Section 4 .
 
@@ -1162,7 +1168,7 @@ The Trizivir pack includes an Alert Card , to remind you and medical staff about
 
 ## 1. What Trizivir is and what it is used for
 
-## Trizivir is used to treat HIV (human immunodeficiency virus) infection in adults .
+Trizivir is used to treat HIV (human immunodeficiency virus) infection in adults .
 
 Trizivir contains three active ingredients that are used to treat HIV infection: abacavir, lamivudine and zidovudine. All of these belong to a group of anti-retroviral medicines called nucleoside analogue reverse transcriptase inhibitors (NRTIs) .
 
@@ -1191,7 +1197,7 @@ Check with your doctor if you think any of these apply to you.
 Some people taking Trizivir are more at risk of serious side effects. You need to be aware of the extra risks:
 
 - if you have moderate or severe liver disease
-- if you have ever had liver disease, including hepatitis B or C (if you have hepatitis B infection, do not stop Trizivir without your doctor's advice, as your hepatitis may come back)
+- if you have ever had liver disease, including hepatitis B or C (if you have hepatitis B infection, do no t stop Trizivir without your doctor's advice, as your hepatitis may come back)
 - if you are seriously overweight (especially if you are a woman)
 
 Talk to your doctor if any of these apply to you before using Trizivir .
@@ -1200,7 +1206,7 @@ You may need extra check-ups, including blood tests, while you are taking your m
 
 ## Abacavir hypersensitivity reactions
 
-Even patients who don't have the HLA-B*5701 gene may still develop a hypersensitivity reaction (a serious allergic reaction). Carefully read all the information about hypersensitivity reactions in Section 4 of this leaflet.
+Even patients who don't have the HLA -B*5701 gene may still develop a hypersensitivity reaction (a serious allergic reaction). Carefully read all the information about hypersensitivity reactions in Section 4 of this leaflet.
 
 ## Risk of cardiovascular events
 
@@ -1212,7 +1218,7 @@ Tell your doctor if you have cardiovascular problems, if you smoke, or have othe
 
 Some people taking Trizivir develop other conditions, which can be serious. You need to know about important signs and symptoms to look out for while you are taking Trizivir.
 
-Read the information 'Other possible side effects of Trizivir' in Section 4 of this leaflet .
+Read the information 'Other possible side effects of Trizivir ' in Section 4 of this leaflet .
 
 ## Other medicines and Trizivir
 
@@ -1297,7 +1303,7 @@ Don't drive or operate machines and have other side effects that make you less a
 
 ## Important information about some of the other ingredients of Trizivir tablets.
 
-This medicine contains less than 1 mmol sodium (23 mg) per dosage unit, that is to say essentially 'sodium-free'.
+This medicine contains less than 1 mmol sodium (23 mg) per dosage unit, that is to say essentially 'sodium -free'.
 
 ## 3. How to take Trizivir
 
@@ -1325,7 +1331,7 @@ It is important to take Trizivir regularly, because if you take it at irregular 
 
 ## If you have stopped taking Trizivir
 
-If you have stopped taking Trizivir for any reason - especially because you think you are having side effects, or because you have other illness:
+If you have stopped taking Trizivir for any reason -especially because you think you are having side effects, or because you have other illness:
 
 Talk to your doctor before you start taking it again . Your doctor will check whether your symptoms were related to a hypersensitivity reaction. If the doctor thinks they may have been related, you will be told never again to take Trizivir, or any other medicine containing abacavir (Kivexa,Triumeq or Ziagen) . It is important that you follow this advice.
 
@@ -1343,9 +1349,9 @@ Like all medicines, this medicine can cause side effects, although not everyone 
 
 When you are being treated for HIV, it can be hard to tell whether a symptom is a side effect of Trizivir or other medicines you are taking, or an effect of the HIV infection itself. So it is very important to talk to your doctor about any changes in your health .
 
-Even patients who don't have the HLA-B*5701 gene may still develop a hypersensitivity reaction (a serious allergic reaction), described in this leaflet in the panel headed 'Hypersensitivity reactions'. It is very important that you read and understand the information about this serious reaction .
+Even patients who don't have the HLA -B*5701 gene may still develop a hypersensitivity reaction (a serious allergic reaction), described in this leaflet in the panel headed ' H ypersensitivity reactions'. It is very important that you read and understand the information about this serious reaction .
 
-As well as the side effects listed below for Trizivir , other conditions can develop during treatment. It is important to read the information on the other side of this leaflet under 'Other possible side effects of Trizivir'.
+As well as the side effects listed below for Trizivir , other conditions can develop during treatment. It is important to read the information on the other side of this leaflet under 'Other possible side effects of Trizivir '.
 
 ## Hypersensitivity reactions
 
@@ -1369,7 +1375,7 @@ Other common symptoms are:
 
 - nausea (feeling sick), vomiting (being sick), diarrhoea, abdominal (stomach) pain, severe tiredness
 
-Other symptoms include:
+## Other symptoms include:
 
 Pains in the joints or muscles, swelling of the neck, shortness of breath, sore throat, cough, occasional headaches, inflammation of the eye (conjunctivitis), mouth ulcers, low blood pressure, tingling or numbness of the hands or feet.
 
@@ -1394,7 +1400,7 @@ Your doctor may advise you to stop taking Trizivir .
 
 If you have stopped taking Trizivir because of a hypersensitivity reaction, you must NEVER AGAIN take Trizivir, or any other medicine containing abacavir (Kivexa, Triumeq or Ziagen) . If you do, within hours, your blood pressure could fall dangerously low, which could result in death.
 
-If you have stopped taking Trizivir for any reason - especially because you think you are having side effects, or because you have other illness:
+If you have stopped taking Trizivir for any reason -especially because you think you are having side effects, or because you have other illness:
 
 Talk to your doctor before you start again . Your doctor will check whether your symptoms were related to a hypersensitivity reaction. If the doctor thinks they may have been, you will then be told never again to take Trizivir, or any other medicine containing abacavir (Kivexa, Triumeq or Ziagen) . It is important that you follow this advice.
 
@@ -1463,14 +1469,14 @@ An uncommon side effect that may show up in blood tests is:
 These may affect up to 1 in 1000 people:
 
 - liver disorders, such as jaundice, enlarged liver or fatty liver, inflammation (hepatitis)
-- lactic acidosis (excess lactic acid in the blood ; see the next section, 'Other possible side effects of Trizivir' )
+- lactic acidosis (excess lactic acid in the blood ; see the next section, 'Other possible side effects of Trizivir ' )
 - inflammation of the pancreas (pancreatitis)
 - chest pain; disease of the heart muscle (cardiomyopathy)
 - fits (convulsions)
 - feeling depressed or anxious, not being able to concentrate, feeling drowsy
 - indigestion, taste disturbance
 - changes in the colour of your nails, your skin, or the skin inside your mouth
-- a flu-like feeling - chills and sweating
+- a flu-like feeling -chills and sweating
 - tingly feelings in the skin (pins and needles)
 - sensation of weakness in the limbs
 - breakdown of muscle tissue
@@ -1488,7 +1494,7 @@ Rare side effects that may show up in blood tests are:
 These may affect up to 1 in 10,000 people:
 
 - skin rash, which may form blisters and  looks like small targets (central dark spots surrounded by a paler area, with a dark ring around the edge) (erythema multiforme)
-- a widespread rash with blisters and peeling skin, particularly around the mouth, nose, eyes and genitals (Stevens-Johnson syndrome) , and a more severe form causing skin peeling in more than 30% of the body surface (toxic epidermal necrolysis)
+- a widespread rash with blisters and peeling skin, particularly around the mouth, nose, eyes and genitals (Stevens -Johnson syndrome) , and a more severe form causing skin peeling in more than 30% of the body surface (toxic epidermal necrolysis)
 
 ## If you notice any of these symptoms contact a doctor urgently .
 
@@ -1585,7 +1591,7 @@ Keep this medicine out of the sight and reach of children.
 
 Do not take this medicine after the expiry date shown on the carton. The expiry date refers to the last day of that month.
 
-Do not store above 30 ° C.
+Do not store above 30  C.
 
 Do not throw away any medicines via wastewater or household waste. Ask your pharmacist how to throw away medicines you no longer use. These measures help protect the environment.
 
@@ -1599,7 +1605,7 @@ The other ingredients are microcrystalline cellulose, sodium starch glycollate a
 
 ## What Trizivir looks like and contents of the pack
 
-Trizivir film-coated tablets are engraved with 'GX LL1' on one side. They are blue/green and capsuleshaped and are provided in blister packs containing 60 tablets or bottles containing 60 tablets with child-resistant tops.
+Trizivir filmcoated tablets are engraved with 'GX LL1' on one side. They are blue/green and capsule -shaped and are provided in blister packs containing 60 tablets or bottles containing 60 tablets with child-resistant tops.
 
 ## Marketing Authorisation Holder
 
@@ -1613,7 +1619,7 @@ Netherlands
 
 ## Manufacturer
 
-Delpharm Poznań Spółka Akcyjna, ul. Grunwaldzka 189 , 60-322 Poznan, Poland
+Delpharm Poznań Spółka Akcyjna , ul. Grunwaldzka 189 , 60-322 Poznan, Poland
 
 For any information about this medicine, please contact the local representative of the Marketing Authorisation Holder:
 
@@ -1621,7 +1627,19 @@ For any information about this medicine, please contact the local representative
 
 ViiV Healthcare srl/bv
 
-Tél/Tel: + 32 (0) 10 85 65 00
+Tél/Tel:
+
++ 32 (0) 10 85 65 00
+
+## България
+
+ViiV Healthcare BV
+
+Te л.
+
+: + 359 80018205
+
+## Česká republika
 
 ## Lietuva
 
@@ -1629,25 +1647,17 @@ ViiV Healthcare BV
 
 Tel: + 370 80000334
 
-## България
-
-ViiV Healthcare BV
-
-Teл.: + 359 80018205
-
 ## Luxembourg/Luxemburg
 
-ViiV Healthcare srl/bv
-
-Belgique/Belgien
-
-Tél/Tel: + 32 (0) 10 85 65 00
-
-## Česká republika
-
-GlaxoSmithKline s.r.o. Tel: + 420 222 001 111 cz.info@gsk.com
+ViiV Healthcare srl/bv Belgique/Belgien Tél/Tel: + 32 (0) 10 85 65 00
 
 ## Magyarország
+
+GlaxoSmithKline s.r.o.
+
+Tel: + 420 222 001 111
+
+cz.info@gsk.com
 
 ViiV Healthcare BV
 
@@ -1655,9 +1665,9 @@ Tel.: + 36 80088309
 
 ## Danmark
 
-GlaxoSmithKline Pharma A/S Tlf: + 45 36 35 91 00 dk-info@gsk.com
-
 ## Malta
+
+GlaxoSmithKline Pharma A/S Tlf: + 45 36 35 91 00 dk-info@gsk.com
 
 ViiV Healthcare BV
 
@@ -1667,33 +1677,29 @@ Tel: + 356 80065004
 
 ViiV Healthcare GmbH Tel.: + 49 (0)89 203 0038-10 viiv.med.info@viivhealthcare.com
 
-## Nederland
-
-ViiV Healthcare BV
-
-Tel: + 31 (0) 33 2081199
-
 ## Eesti
 
 ViiV Healthcare BV Tel: + 372 8002640
 
-## Norge
-
-GlaxoSmithKline AS
-
-Tlf: + 47 22 70 20 00
-
 ## Ελλάδα
 
-GlaxoSmithKline Μονοπρόσωπη A.E.B.E. Τηλ: + 30 210 68 82 100
-
-## Österreich
-
-GlaxoSmithKline Pharma GmbH Tel: + 43 (0)1 97075 0 at.info@gsk.com
+GlaxoSmithKline Μονοπρόσωπη A.E.B.E. Τηλ : + 30 210 68 82 100
 
 ## España
 
 Laboratorios ViiV Healthcare, S.L. Tel: +34 900 923 501 es-ci@viivhealthcare.com
+
+## Nederland
+
+ViiV Healthcare BV Tel: + 31 (0) 33 2081199
+
+## Norge
+
+GlaxoSmithKline AS Tlf: + 47 22 70 20 00
+
+## Ö sterreich
+
+GlaxoSmithKline Pharma GmbH Tel: + 43 (0)1 97075 0 at.info@gsk.com
 
 ## Polska
 
@@ -1703,11 +1709,9 @@ GSK Services Sp. z o.o. Tel.: + 48 (0)22 576 9000
 
 ## France
 
-## Portugal
-
 ViiV Healthcare SAS
 
-Tél.: + 33 (0)1 39 17 6969
+Tél. : + 33 (0)1 39 17 6969
 
 Infomed@viivhealthcare.com
 
@@ -1717,7 +1721,47 @@ ViiV Healthcare BV
 
 Tel: + 385 800787089
 
-VIIVHIV HEALTHCARE, UNIPESSOAL, LDA
+## Ireland
+
+GlaxoSmithKline (Ireland) Limited
+
+Tel: + 353 (0)1 4955000
+
+## Ísland
+
+Vistor hf.
+
+Sími: +354 535 7000
+
+## Italia
+
+ViiV Healthcare S.r.l
+
+Tel: + 39 (0)45 7741600
+
+## Κύπρος
+
+ViiV Healthcare BV
+
+Τηλ
+
+: + 357 80070017
+
+## Latvija
+
+ViiV Healthcare BV
+
+Tel: + 371 80205045
+
+## This leaflet was last revised in {MM/YYYY}
+
+Detailed information on this medicine is available on the European Medicines Agency web site: http://www.ema.europa.eu
+
+## Portugal
+
+VIIVHIV HEALTHCARE,
+
+UNIPESSOAL, LDA
 
 Tel: + 351 21 094 08 01
 
@@ -1729,23 +1773,11 @@ ViiV Healthcare BV
 
 Tel: + 40800672524
 
-## Ireland
-
-GlaxoSmithKline (Ireland) Limited
-
-Tel: + 353 (0)1 4955000
-
 ## Slovenija
 
 ViiV Healthcare BV
 
 Tel: + 386 80688869
-
-## Ísland
-
-Vistor hf.
-
-Sími: +354 535 7000
 
 ## Slovenská republika
 
@@ -1753,68 +1785,12 @@ ViiV Healthcare BV
 
 Tel: + 421 800500589
 
-## Italia
-
-ViiV Healthcare S.r.l
-
-Tel: + 39 (0)45 7741600
-
 ## Suomi/Finland
 
 GlaxoSmithKline Oy
 
 Puh/Tel: + 358 (0)10 30 30 30
 
-## Κύπρος
-
-ViiV Healthcare BV
-
-Τηλ: + 357 80070017
-
 ## Sverige
 
-GlaxoSmithKline AB
-
-Tel: + 46 (0)8 638 93 00
-
-info.produkt@gsk.com
-
-## Latvija
-
-ViiV Healthcare BV
-
-Tel: + 371 80205045
-
-## United Kingdom (Northern Ireland)
-
-ViiV Healthcare BV
-
-Tel: + 44 (0)800 221441
-
-customercontactuk@gsk.com
-
-## This leaflet was last revised in {MM/YYYY}
-
-Detailed information on this medicine is available on the European Medicines Agency web site: http://www.ema.europa.eu
-
-<div style=\"page-break-after: always\"></div>
-
-## ANNEX IV
-
-## SCIENTIFIC CONCLUSIONS AND GROUNDS FOR THE VARIATION TO THE TERMS OF THE MARKETING AUTHORISATION(S)
-
-<div style=\"page-break-after: always\"></div>
-
-## Scientific conclusions
-
-Taking into account the PRAC Assessment Report on the PSUR(s) for abacavir / lamivudine / zidovudine, the scientific conclusions of PRAC are as follows:
-
-In view of available data on cardiovascular events from the literature regarding abacavir, including a plausible  mechanism  of  action,  the  PRAC  considers  that  the  warnings  and  precautions  for  use  of products containing abacavir need to be revised to adequately reflect the current level of information on cardiovascular  events  and,  in  line  with  the  current  therapeutic  guidelines,  that  a  recommendation discouraging the use of abacavir containing products in patients with high cardiovascular risk should also  be  included  in  the  product  information.  The  PRAC  concluded  that  the  product  information  of products containing abacavir/ lamivudine/ zidovudine should be amended accordingly.
-
-Having reviewed the PRAC recommendation, the CHMP agrees with the PRAC overall conclusions and grounds for recommendation.
-
-## Grounds for the variation to the terms of the marketing authorisation(s)
-
-On the basis of the scientific conclusions for abacavir / lamivudine / zidovudine the CHMP is of the opinion that the benefit-risk balance of the medicinal product(s) containing abacavir / lamivudine / zidovudine is unchanged subject to the proposed changes to the product information
-
-The CHMP recommends that the terms of the marketing authorisation(s) should be varied.
+GlaxoSmithKline AB Tel: + 46 (0)8 638 93 00 info.produkt@gsk.com

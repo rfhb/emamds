@@ -1,21 +1,96 @@
 ---
-document_datetime: 2025-12-29 09:39:10
+document_datetime: 2026-01-20 17:21:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/kostaive.html
 document_name: kostaive.html
 version: success
-processing_time: 0.1079702
-conversion_datetime: 2025-12-30 12:06:31.549839
+processing_time: 0.1089952
+conversion_datetime: 2026-01-20 20:10:51.544261
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.66.0
-  docling-core: 2.57.0
+  docling-serve: 1.10.0
+  docling-jobkit: 1.8.1
+  docling: 2.69.0
+  docling-core: 2.60.0
   docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-parse: 4.7.3
   python: cpython-313 (3.13.11)
   plaform: macOS-26.2-arm64-arm-64bit-Mach-O
 ---
+# Search
+
+- [Medicines](/en/medicines)
+    - [Find medicine](/en/medicines)
+    - [Therapeutic areas: latest updates](/en/medicines/therapeutic-areas-latest-updates)
+    - [Download medicine data](/en/medicines/download-medicine-data)
+    - [What we publish on medicines and when](/en/medicines/what-we-publish-medicines-when)
+    - [Medicines under evaluation](/en/medicines/medicines-human-use-under-evaluation)
+    - [National registers](/en/medicines/national-registers-authorised-medicines)
+- [Human regulatory](/en/human-regulatory-overview)
+    - [Overview](/en/human-regulatory-overview)
+    - [Research and development](/en/human-regulatory-overview/research-development)
+    - [Marketing authorisation](/en/human-regulatory-overview/marketing-authorisation)
+    - [Post-authorisation](/en/human-regulatory-overview/post-authorisation)
+    - [Medical devices](/en/human-regulatory-overview/medical-devices)
+    - [Herbal products](/en/human-regulatory-overview/herbal-medicinal-products)
+- [Veterinary regulatory](/en/veterinary-regulatory-overview)
+    - [Overview](/en/veterinary-regulatory-overview)
+    - [Research and development](/en/veterinary-regulatory-overview/research-development-veterinary-medicines)
+    - [Marketing authorisation](/en/veterinary-regulatory-overview/marketing-authorisation-veterinary-medicines)
+    - [Post-authorisation](/en/veterinary-regulatory-overview/post-authorisation-veterinary-medicines)
+- [Committees](/en/committees)
+    - [Overview](/en/committees)
+    - [How the committees work](/en/committees/how-committees-work)
+    - [CHMP](/en/committees/committee-medicinal-products-human-use-chmp)
+    - [CVMP](/en/committees/committee-veterinary-medicinal-products-cvmp)
+    - [PRAC](/en/committees/pharmacovigilance-risk-assessment-committee-prac)
+    - [COMP](/en/committees/committee-orphan-medicinal-products-comp)
+    - [HMPC](/en/committees/committee-herbal-medicinal-products-hmpc)
+    - [CAT](/en/committees/committee-advanced-therapies-cat)
+    - [PDCO](/en/committees/paediatric-committee-pdco)
+    - [Working parties and other groups](/en/committees/working-parties-other-groups)
+- [News &amp; events](/en/news-events)
+    - [Overview](/en/news-events)
+    - [News](/en/news)
+    - [Events](/en/events/upcoming-events)
+    - [What's new](/en/news-events/whats-new)
+    - [Committee highlights](/en/news-events/committee-highlights)
+    - [Publications](/en/news-and-events/publications)
+    - [Press and social media](/en/news-events/press-social-media)
+    - [Podcast: Inside EMA](/en/news-events/podcast-inside-ema)
+    - [Open consultations](/en/news-events/open-consultations)
+    - [RSS feeds](/en/news-events/rss-feeds)
+- [Partners &amp; networks](/en/partners-networks)
+    - [Overview](/en/partners-networks)
+    - [Animal health practitioners](/en/partners-networks/animal-health-practitioners)
+    - [One Health approach](/en/partners-networks/one-health-approach)
+    - [Academia](/en/partners-networks/academia)
+    - [EU partners](/en/partners-networks/eu-partners)
+    - [International activities](/en/partners-networks/international-activities)
+    - [Patients and consumers](/en/partners-networks/patients-consumers)
+    - [Healthcare professionals](/en/partners-networks/healthcare-professionals)
+    - [Pharmaceutical industry](/en/partners-networks/pharmaceutical-industry)
+    - [Networks](/en/partners-networks/networks)
+    - [Health technology assessment bodies](/en/partners-networks/health-technology-assessment-bodies)
+- [About us](/en/about-us)
+    - [Overview](/en/about-us)
+    - [What we do](/en/about-us/what-we-do)
+    - [Who we are](/en/about-us/who-we-are)
+    - [How we work](/en/about-us/how-we-work)
+    - [Fees](/en/about-us/fees-payable-european-medicines-agency)
+    - [Support to SMEs](/en/about-us/support-smes)
+    - [Annual reports and work programmes](/en/about-us/annual-reports-work-programmes)
+    - [History of EMA](/en/about-us/history-ema)
+    - [Careers](/en/about-us/careers)
+    - [Procurement](/en/about-us/procurement-grants)
+    - [Glossaries](/en/about-us/glossaries)
+    - [About this website](/en/about-us/about-website)
+    - [Data protection and privacy](/en/about-us/data-protection-privacy-ema)
+    - [Contacts](/en/about-us/contacts-european-medicines-agency)
+
+1. [Home](/en/homepage)
+2. [Medicines](https://www.ema.europa.eu/en/medicines)
+3. Kostaive
+
 # Kostaive
 
 [RSS](/en/individual-human-medicine.xml/253181)
@@ -25,8 +100,6 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 zapomeran Medicine Human Authorised
-
-On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -159,7 +232,7 @@ English (EN) (138.61 KB - PDF)
 
 [View](/en/documents/overview/kostaive-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-874)
+[Other languages (22)](#file-language-dropdown-593)
 
 български (BG) (146.91 KB - PDF)
 
@@ -339,9 +412,11 @@ svenska (SV) (118.14 KB - PDF)
 
 Kostaive: EPAR - Risk management plan
 
-English (EN) (1.72 MB - PDF)
+English (EN) (14.47 MB - PDF)
 
 **First published:** 26/02/2025
+
+**Last updated:** 20/01/2026
 
 [View](/en/documents/rmp/kostaive-epar-risk-management-plan_en.pdf)
 
@@ -349,17 +424,17 @@ English (EN) (1.72 MB - PDF)
 
 Kostaive: EPAR - Product information
 
-English (EN) (863.97 KB - PDF)
+English (EN) (579.9 KB - PDF)
 
 **First published:** 26/02/2025
 
-**Last updated:** 09/12/2025
+**Last updated:** 20/01/2026
 
 [View](/en/documents/product-information/kostaive-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-87)
+[Other languages (24)](#file-language-dropdown-27)
 
-български (BG) (616.84 KB - PDF)
+български (BG) (531.7 KB - PDF)
 
 **First published:**
 
@@ -367,11 +442,11 @@ English (EN) (863.97 KB - PDF)
 
 **Last updated:**
 
-09/12/2025
+20/01/2026
 
 [View](/bg/documents/product-information/kostaive-epar-product-information_bg.pdf)
 
-español (ES) (485.19 KB - PDF)
+español (ES) (521.64 KB - PDF)
 
 **First published:**
 
@@ -379,11 +454,11 @@ español (ES) (485.19 KB - PDF)
 
 **Last updated:**
 
-09/12/2025
+20/01/2026
 
 [View](/es/documents/product-information/kostaive-epar-product-information_es.pdf)
 
-čeština (CS) (610.61 KB - PDF)
+čeština (CS) (608.73 KB - PDF)
 
 **First published:**
 
@@ -391,11 +466,11 @@ español (ES) (485.19 KB - PDF)
 
 **Last updated:**
 
-09/12/2025
+20/01/2026
 
 [View](/cs/documents/product-information/kostaive-epar-product-information_cs.pdf)
 
-dansk (DA) (513.08 KB - PDF)
+dansk (DA) (488.17 KB - PDF)
 
 **First published:**
 
@@ -403,11 +478,11 @@ dansk (DA) (513.08 KB - PDF)
 
 **Last updated:**
 
-09/12/2025
+20/01/2026
 
 [View](/da/documents/product-information/kostaive-epar-product-information_da.pdf)
 
-Deutsch (DE) (527.98 KB - PDF)
+Deutsch (DE) (527.81 KB - PDF)
 
 **First published:**
 
@@ -415,11 +490,11 @@ Deutsch (DE) (527.98 KB - PDF)
 
 **Last updated:**
 
-09/12/2025
+20/01/2026
 
 [View](/de/documents/product-information/kostaive-epar-product-information_de.pdf)
 
-eesti keel (ET) (375.68 KB - PDF)
+eesti keel (ET) (376.13 KB - PDF)
 
 **First published:**
 
@@ -427,11 +502,11 @@ eesti keel (ET) (375.68 KB - PDF)
 
 **Last updated:**
 
-09/12/2025
+20/01/2026
 
 [View](/et/documents/product-information/kostaive-epar-product-information_et.pdf)
 
-ελληνικά (EL) (544.99 KB - PDF)
+ελληνικά (EL) (582.84 KB - PDF)
 
 **First published:**
 
@@ -439,11 +514,11 @@ eesti keel (ET) (375.68 KB - PDF)
 
 **Last updated:**
 
-09/12/2025
+20/01/2026
 
 [View](/el/documents/product-information/kostaive-epar-product-information_el.pdf)
 
-français (FR) (525.81 KB - PDF)
+français (FR) (440.63 KB - PDF)
 
 **First published:**
 
@@ -451,11 +526,11 @@ français (FR) (525.81 KB - PDF)
 
 **Last updated:**
 
-09/12/2025
+20/01/2026
 
 [View](/fr/documents/product-information/kostaive-epar-product-information_fr.pdf)
 
-hrvatski (HR) (415.64 KB - PDF)
+hrvatski (HR) (416.16 KB - PDF)
 
 **First published:**
 
@@ -463,11 +538,11 @@ hrvatski (HR) (415.64 KB - PDF)
 
 **Last updated:**
 
-09/12/2025
+20/01/2026
 
 [View](/hr/documents/product-information/kostaive-epar-product-information_hr.pdf)
 
-íslenska (IS) (498.76 KB - PDF)
+íslenska (IS) (501.81 KB - PDF)
 
 **First published:**
 
@@ -475,11 +550,11 @@ hrvatski (HR) (415.64 KB - PDF)
 
 **Last updated:**
 
-09/12/2025
+20/01/2026
 
 [View](/is/documents/product-information/kostaive-epar-product-information_is.pdf)
 
-italiano (IT) (488.12 KB - PDF)
+italiano (IT) (480.67 KB - PDF)
 
 **First published:**
 
@@ -487,11 +562,11 @@ italiano (IT) (488.12 KB - PDF)
 
 **Last updated:**
 
-09/12/2025
+20/01/2026
 
 [View](/it/documents/product-information/kostaive-epar-product-information_it.pdf)
 
-latviešu valoda (LV) (492.87 KB - PDF)
+latviešu valoda (LV) (492.42 KB - PDF)
 
 **First published:**
 
@@ -499,11 +574,11 @@ latviešu valoda (LV) (492.87 KB - PDF)
 
 **Last updated:**
 
-09/12/2025
+20/01/2026
 
 [View](/lv/documents/product-information/kostaive-epar-product-information_lv.pdf)
 
-lietuvių kalba (LT) (537.56 KB - PDF)
+lietuvių kalba (LT) (497.37 KB - PDF)
 
 **First published:**
 
@@ -511,11 +586,11 @@ lietuvių kalba (LT) (537.56 KB - PDF)
 
 **Last updated:**
 
-09/12/2025
+20/01/2026
 
 [View](/lt/documents/product-information/kostaive-epar-product-information_lt.pdf)
 
-magyar (HU) (464.65 KB - PDF)
+magyar (HU) (458.27 KB - PDF)
 
 **First published:**
 
@@ -523,11 +598,11 @@ magyar (HU) (464.65 KB - PDF)
 
 **Last updated:**
 
-09/12/2025
+20/01/2026
 
 [View](/hu/documents/product-information/kostaive-epar-product-information_hu.pdf)
 
-Malti (MT) (474.25 KB - PDF)
+Malti (MT) (477.36 KB - PDF)
 
 **First published:**
 
@@ -535,11 +610,11 @@ Malti (MT) (474.25 KB - PDF)
 
 **Last updated:**
 
-09/12/2025
+20/01/2026
 
 [View](/mt/documents/product-information/kostaive-epar-product-information_mt.pdf)
 
-Nederlands (NL) (515.33 KB - PDF)
+Nederlands (NL) (433.04 KB - PDF)
 
 **First published:**
 
@@ -547,11 +622,11 @@ Nederlands (NL) (515.33 KB - PDF)
 
 **Last updated:**
 
-09/12/2025
+20/01/2026
 
 [View](/nl/documents/product-information/kostaive-epar-product-information_nl.pdf)
 
-norsk (NO) (385.33 KB - PDF)
+norsk (NO) (385.02 KB - PDF)
 
 **First published:**
 
@@ -559,11 +634,11 @@ norsk (NO) (385.33 KB - PDF)
 
 **Last updated:**
 
-09/12/2025
+20/01/2026
 
 [View](/no/documents/product-information/kostaive-epar-product-information_no.pdf)
 
-polski (PL) (462.16 KB - PDF)
+polski (PL) (464.14 KB - PDF)
 
 **First published:**
 
@@ -571,11 +646,11 @@ polski (PL) (462.16 KB - PDF)
 
 **Last updated:**
 
-09/12/2025
+20/01/2026
 
 [View](/pl/documents/product-information/kostaive-epar-product-information_pl.pdf)
 
-português (PT) (398.92 KB - PDF)
+português (PT) (382.15 KB - PDF)
 
 **First published:**
 
@@ -583,11 +658,11 @@ português (PT) (398.92 KB - PDF)
 
 **Last updated:**
 
-09/12/2025
+20/01/2026
 
 [View](/pt/documents/product-information/kostaive-epar-product-information_pt.pdf)
 
-română (RO) (493.85 KB - PDF)
+română (RO) (482.78 KB - PDF)
 
 **First published:**
 
@@ -595,11 +670,11 @@ română (RO) (493.85 KB - PDF)
 
 **Last updated:**
 
-09/12/2025
+20/01/2026
 
 [View](/ro/documents/product-information/kostaive-epar-product-information_ro.pdf)
 
-slovenčina (SK) (594.04 KB - PDF)
+slovenčina (SK) (875.01 KB - PDF)
 
 **First published:**
 
@@ -607,11 +682,11 @@ slovenčina (SK) (594.04 KB - PDF)
 
 **Last updated:**
 
-09/12/2025
+20/01/2026
 
 [View](/sk/documents/product-information/kostaive-epar-product-information_sk.pdf)
 
-slovenščina (SL) (540.08 KB - PDF)
+slovenščina (SL) (578.1 KB - PDF)
 
 **First published:**
 
@@ -619,11 +694,11 @@ slovenščina (SL) (540.08 KB - PDF)
 
 **Last updated:**
 
-09/12/2025
+20/01/2026
 
 [View](/sl/documents/product-information/kostaive-epar-product-information_sl.pdf)
 
-Suomi (FI) (785.19 KB - PDF)
+Suomi (FI) (496.06 KB - PDF)
 
 **First published:**
 
@@ -631,11 +706,11 @@ Suomi (FI) (785.19 KB - PDF)
 
 **Last updated:**
 
-09/12/2025
+20/01/2026
 
 [View](/fi/documents/product-information/kostaive-epar-product-information_fi.pdf)
 
-svenska (SV) (434.56 KB - PDF)
+svenska (SV) (471.22 KB - PDF)
 
 **First published:**
 
@@ -643,11 +718,11 @@ svenska (SV) (434.56 KB - PDF)
 
 **Last updated:**
 
-09/12/2025
+20/01/2026
 
 [View](/sv/documents/product-information/kostaive-epar-product-information_sv.pdf)
 
-**Latest procedure affecting product information:** VR/0000271850 23/10/2025
+**Latest procedure affecting product information:** VR/0000284897 27/11/2025
 
 icon globe
 
@@ -671,7 +746,7 @@ English (EN) (51.73 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/kostaive-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-281)
+[Other languages (24)](#file-language-dropdown-542)
 
 български (BG) (57.93 KB - PDF)
 
@@ -893,7 +968,7 @@ Seqirus Netherlands B.V.
 
 Paasheuvelweg 28
 
-Opinion adopted 12/12/2024 Marketing authorisation issued 12/02/2025 Revision 3
+Opinion adopted 12/12/2024 Marketing authorisation issued 12/02/2025 Revision 4
 
 ## Assessment history
 
@@ -905,11 +980,11 @@ Collapse section
 
 Kostaive : EPAR - Procedural steps taken and scientific information after the authorisation
 
-English (EN) (129.76 KB - PDF)
+English (EN) (138.75 KB - PDF)
 
 **First published:** 23/05/2025
 
-**Last updated:** 09/12/2025
+**Last updated:** 20/01/2026
 
 [View](/en/documents/procedural-steps-after/kostaive-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf)
 
@@ -943,7 +1018,7 @@ English (EN) (133.35 KB - PDF)
 
 [Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 9-12 December 2024](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-9-12-december-2024) 13/12/2024
 
-**This page was last updated on** 09/12/2025
+**This page was last updated on** 20/01/2026
 
 ## Share this page
 

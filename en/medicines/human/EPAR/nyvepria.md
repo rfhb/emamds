@@ -1,21 +1,96 @@
 ---
-document_datetime: 2025-12-29 14:06:31
+document_datetime: 2026-01-20 17:25:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/nyvepria.html
 document_name: nyvepria.html
 version: success
-processing_time: 0.1066963
-conversion_datetime: 2025-12-30 03:11:46.871888
+processing_time: 0.109702
+conversion_datetime: 2026-01-20 20:25:14.635368
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.66.0
-  docling-core: 2.57.0
+  docling-serve: 1.10.0
+  docling-jobkit: 1.8.1
+  docling: 2.69.0
+  docling-core: 2.60.0
   docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-parse: 4.7.3
   python: cpython-313 (3.13.11)
   plaform: macOS-26.2-arm64-arm-64bit-Mach-O
 ---
+# Search
+
+- [Medicines](/en/medicines)
+    - [Find medicine](/en/medicines)
+    - [Therapeutic areas: latest updates](/en/medicines/therapeutic-areas-latest-updates)
+    - [Download medicine data](/en/medicines/download-medicine-data)
+    - [What we publish on medicines and when](/en/medicines/what-we-publish-medicines-when)
+    - [Medicines under evaluation](/en/medicines/medicines-human-use-under-evaluation)
+    - [National registers](/en/medicines/national-registers-authorised-medicines)
+- [Human regulatory](/en/human-regulatory-overview)
+    - [Overview](/en/human-regulatory-overview)
+    - [Research and development](/en/human-regulatory-overview/research-development)
+    - [Marketing authorisation](/en/human-regulatory-overview/marketing-authorisation)
+    - [Post-authorisation](/en/human-regulatory-overview/post-authorisation)
+    - [Medical devices](/en/human-regulatory-overview/medical-devices)
+    - [Herbal products](/en/human-regulatory-overview/herbal-medicinal-products)
+- [Veterinary regulatory](/en/veterinary-regulatory-overview)
+    - [Overview](/en/veterinary-regulatory-overview)
+    - [Research and development](/en/veterinary-regulatory-overview/research-development-veterinary-medicines)
+    - [Marketing authorisation](/en/veterinary-regulatory-overview/marketing-authorisation-veterinary-medicines)
+    - [Post-authorisation](/en/veterinary-regulatory-overview/post-authorisation-veterinary-medicines)
+- [Committees](/en/committees)
+    - [Overview](/en/committees)
+    - [How the committees work](/en/committees/how-committees-work)
+    - [CHMP](/en/committees/committee-medicinal-products-human-use-chmp)
+    - [CVMP](/en/committees/committee-veterinary-medicinal-products-cvmp)
+    - [PRAC](/en/committees/pharmacovigilance-risk-assessment-committee-prac)
+    - [COMP](/en/committees/committee-orphan-medicinal-products-comp)
+    - [HMPC](/en/committees/committee-herbal-medicinal-products-hmpc)
+    - [CAT](/en/committees/committee-advanced-therapies-cat)
+    - [PDCO](/en/committees/paediatric-committee-pdco)
+    - [Working parties and other groups](/en/committees/working-parties-other-groups)
+- [News &amp; events](/en/news-events)
+    - [Overview](/en/news-events)
+    - [News](/en/news)
+    - [Events](/en/events/upcoming-events)
+    - [What's new](/en/news-events/whats-new)
+    - [Committee highlights](/en/news-events/committee-highlights)
+    - [Publications](/en/news-and-events/publications)
+    - [Press and social media](/en/news-events/press-social-media)
+    - [Podcast: Inside EMA](/en/news-events/podcast-inside-ema)
+    - [Open consultations](/en/news-events/open-consultations)
+    - [RSS feeds](/en/news-events/rss-feeds)
+- [Partners &amp; networks](/en/partners-networks)
+    - [Overview](/en/partners-networks)
+    - [Animal health practitioners](/en/partners-networks/animal-health-practitioners)
+    - [One Health approach](/en/partners-networks/one-health-approach)
+    - [Academia](/en/partners-networks/academia)
+    - [EU partners](/en/partners-networks/eu-partners)
+    - [International activities](/en/partners-networks/international-activities)
+    - [Patients and consumers](/en/partners-networks/patients-consumers)
+    - [Healthcare professionals](/en/partners-networks/healthcare-professionals)
+    - [Pharmaceutical industry](/en/partners-networks/pharmaceutical-industry)
+    - [Networks](/en/partners-networks/networks)
+    - [Health technology assessment bodies](/en/partners-networks/health-technology-assessment-bodies)
+- [About us](/en/about-us)
+    - [Overview](/en/about-us)
+    - [What we do](/en/about-us/what-we-do)
+    - [Who we are](/en/about-us/who-we-are)
+    - [How we work](/en/about-us/how-we-work)
+    - [Fees](/en/about-us/fees-payable-european-medicines-agency)
+    - [Support to SMEs](/en/about-us/support-smes)
+    - [Annual reports and work programmes](/en/about-us/annual-reports-work-programmes)
+    - [History of EMA](/en/about-us/history-ema)
+    - [Careers](/en/about-us/careers)
+    - [Procurement](/en/about-us/procurement-grants)
+    - [Glossaries](/en/about-us/glossaries)
+    - [About this website](/en/about-us/about-website)
+    - [Data protection and privacy](/en/about-us/data-protection-privacy-ema)
+    - [Contacts](/en/about-us/contacts-european-medicines-agency)
+
+1. [Home](/en/homepage)
+2. [Medicines](https://www.ema.europa.eu/en/medicines)
+3. Nyvepria
+
 # Nyvepria
 
 [RSS](/en/individual-human-medicine.xml/67367)
@@ -25,8 +100,6 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 pegfilgrastim Medicine Human Authorised
-
-On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -111,7 +184,7 @@ English (EN) (120.63 KB - PDF)
 
 [View](/en/documents/overview/nyvepria-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-932)
+[Other languages (22)](#file-language-dropdown-991)
 
 български (BG) (135.33 KB - PDF)
 
@@ -301,17 +374,17 @@ English (EN) (653.18 KB - PDF)
 
 Nyvepria : EPAR - Product information
 
-English (EN) (1.31 MB - PDF)
+English (EN) (957.44 KB - PDF)
 
 **First published:** 23/11/2020
 
-**Last updated:** 24/11/2025
+**Last updated:** 20/01/2026
 
 [View](/en/documents/product-information/nyvepria-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-30)
+[Other languages (24)](#file-language-dropdown-488)
 
-български (BG) (984.78 KB - PDF)
+български (BG) (985.18 KB - PDF)
 
 **First published:**
 
@@ -319,11 +392,11 @@ English (EN) (1.31 MB - PDF)
 
 **Last updated:**
 
-24/11/2025
+20/01/2026
 
 [View](/bg/documents/product-information/nyvepria-epar-product-information_bg.pdf)
 
-español (ES) (730.48 KB - PDF)
+español (ES) (732.9 KB - PDF)
 
 **First published:**
 
@@ -331,11 +404,11 @@ español (ES) (730.48 KB - PDF)
 
 **Last updated:**
 
-24/11/2025
+20/01/2026
 
 [View](/es/documents/product-information/nyvepria-epar-product-information_es.pdf)
 
-čeština (CS) (874.08 KB - PDF)
+čeština (CS) (1.03 MB - PDF)
 
 **First published:**
 
@@ -343,11 +416,11 @@ español (ES) (730.48 KB - PDF)
 
 **Last updated:**
 
-24/11/2025
+20/01/2026
 
 [View](/cs/documents/product-information/nyvepria-epar-product-information_cs.pdf)
 
-dansk (DA) (833.07 KB - PDF)
+dansk (DA) (838.44 KB - PDF)
 
 **First published:**
 
@@ -355,11 +428,11 @@ dansk (DA) (833.07 KB - PDF)
 
 **Last updated:**
 
-24/11/2025
+20/01/2026
 
 [View](/da/documents/product-information/nyvepria-epar-product-information_da.pdf)
 
-Deutsch (DE) (909.96 KB - PDF)
+Deutsch (DE) (912.97 KB - PDF)
 
 **First published:**
 
@@ -367,11 +440,11 @@ Deutsch (DE) (909.96 KB - PDF)
 
 **Last updated:**
 
-24/11/2025
+20/01/2026
 
 [View](/de/documents/product-information/nyvepria-epar-product-information_de.pdf)
 
-eesti keel (ET) (1.2 MB - PDF)
+eesti keel (ET) (1.21 MB - PDF)
 
 **First published:**
 
@@ -379,11 +452,11 @@ eesti keel (ET) (1.2 MB - PDF)
 
 **Last updated:**
 
-24/11/2025
+20/01/2026
 
 [View](/et/documents/product-information/nyvepria-epar-product-information_et.pdf)
 
-ελληνικά (EL) (791.74 KB - PDF)
+ελληνικά (EL) (796.99 KB - PDF)
 
 **First published:**
 
@@ -391,11 +464,11 @@ eesti keel (ET) (1.2 MB - PDF)
 
 **Last updated:**
 
-24/11/2025
+20/01/2026
 
 [View](/el/documents/product-information/nyvepria-epar-product-information_el.pdf)
 
-français (FR) (1.02 MB - PDF)
+français (FR) (1.03 MB - PDF)
 
 **First published:**
 
@@ -403,11 +476,11 @@ français (FR) (1.02 MB - PDF)
 
 **Last updated:**
 
-24/11/2025
+20/01/2026
 
 [View](/fr/documents/product-information/nyvepria-epar-product-information_fr.pdf)
 
-hrvatski (HR) (862.77 KB - PDF)
+hrvatski (HR) (869.53 KB - PDF)
 
 **First published:**
 
@@ -415,11 +488,11 @@ hrvatski (HR) (862.77 KB - PDF)
 
 **Last updated:**
 
-24/11/2025
+20/01/2026
 
 [View](/hr/documents/product-information/nyvepria-epar-product-information_hr.pdf)
 
-íslenska (IS) (814.55 KB - PDF)
+íslenska (IS) (818.3 KB - PDF)
 
 **First published:**
 
@@ -427,11 +500,11 @@ hrvatski (HR) (862.77 KB - PDF)
 
 **Last updated:**
 
-24/11/2025
+20/01/2026
 
 [View](/is/documents/product-information/nyvepria-epar-product-information_is.pdf)
 
-italiano (IT) (881.33 KB - PDF)
+italiano (IT) (883.28 KB - PDF)
 
 **First published:**
 
@@ -439,11 +512,11 @@ italiano (IT) (881.33 KB - PDF)
 
 **Last updated:**
 
-24/11/2025
+20/01/2026
 
 [View](/it/documents/product-information/nyvepria-epar-product-information_it.pdf)
 
-latviešu valoda (LV) (986.87 KB - PDF)
+latviešu valoda (LV) (993.6 KB - PDF)
 
 **First published:**
 
@@ -451,11 +524,11 @@ latviešu valoda (LV) (986.87 KB - PDF)
 
 **Last updated:**
 
-24/11/2025
+20/01/2026
 
 [View](/lv/documents/product-information/nyvepria-epar-product-information_lv.pdf)
 
-lietuvių kalba (LT) (876.1 KB - PDF)
+lietuvių kalba (LT) (881.81 KB - PDF)
 
 **First published:**
 
@@ -463,11 +536,11 @@ lietuvių kalba (LT) (876.1 KB - PDF)
 
 **Last updated:**
 
-24/11/2025
+20/01/2026
 
 [View](/lt/documents/product-information/nyvepria-epar-product-information_lt.pdf)
 
-magyar (HU) (837.61 KB - PDF)
+magyar (HU) (845.25 KB - PDF)
 
 **First published:**
 
@@ -475,11 +548,11 @@ magyar (HU) (837.61 KB - PDF)
 
 **Last updated:**
 
-24/11/2025
+20/01/2026
 
 [View](/hu/documents/product-information/nyvepria-epar-product-information_hu.pdf)
 
-Malti (MT) (921.19 KB - PDF)
+Malti (MT) (929.12 KB - PDF)
 
 **First published:**
 
@@ -487,11 +560,11 @@ Malti (MT) (921.19 KB - PDF)
 
 **Last updated:**
 
-24/11/2025
+20/01/2026
 
 [View](/mt/documents/product-information/nyvepria-epar-product-information_mt.pdf)
 
-Nederlands (NL) (1016.34 KB - PDF)
+Nederlands (NL) (1023.37 KB - PDF)
 
 **First published:**
 
@@ -499,11 +572,11 @@ Nederlands (NL) (1016.34 KB - PDF)
 
 **Last updated:**
 
-24/11/2025
+20/01/2026
 
 [View](/nl/documents/product-information/nyvepria-epar-product-information_nl.pdf)
 
-norsk (NO) (785.07 KB - PDF)
+norsk (NO) (788.6 KB - PDF)
 
 **First published:**
 
@@ -511,11 +584,11 @@ norsk (NO) (785.07 KB - PDF)
 
 **Last updated:**
 
-24/11/2025
+20/01/2026
 
 [View](/no/documents/product-information/nyvepria-epar-product-information_no.pdf)
 
-polski (PL) (1.01 MB - PDF)
+polski (PL) (869.31 KB - PDF)
 
 **First published:**
 
@@ -523,11 +596,11 @@ polski (PL) (1.01 MB - PDF)
 
 **Last updated:**
 
-24/11/2025
+20/01/2026
 
 [View](/pl/documents/product-information/nyvepria-epar-product-information_pl.pdf)
 
-português (PT) (879.49 KB - PDF)
+português (PT) (888.85 KB - PDF)
 
 **First published:**
 
@@ -535,11 +608,11 @@ português (PT) (879.49 KB - PDF)
 
 **Last updated:**
 
-24/11/2025
+20/01/2026
 
 [View](/pt/documents/product-information/nyvepria-epar-product-information_pt.pdf)
 
-română (RO) (858.72 KB - PDF)
+română (RO) (868.06 KB - PDF)
 
 **First published:**
 
@@ -547,11 +620,11 @@ română (RO) (858.72 KB - PDF)
 
 **Last updated:**
 
-24/11/2025
+20/01/2026
 
 [View](/ro/documents/product-information/nyvepria-epar-product-information_ro.pdf)
 
-slovenčina (SK) (917.94 KB - PDF)
+slovenčina (SK) (919.42 KB - PDF)
 
 **First published:**
 
@@ -559,11 +632,11 @@ slovenčina (SK) (917.94 KB - PDF)
 
 **Last updated:**
 
-24/11/2025
+20/01/2026
 
 [View](/sk/documents/product-information/nyvepria-epar-product-information_sk.pdf)
 
-slovenščina (SL) (991.43 KB - PDF)
+slovenščina (SL) (995.01 KB - PDF)
 
 **First published:**
 
@@ -571,11 +644,11 @@ slovenščina (SL) (991.43 KB - PDF)
 
 **Last updated:**
 
-24/11/2025
+20/01/2026
 
 [View](/sl/documents/product-information/nyvepria-epar-product-information_sl.pdf)
 
-Suomi (FI) (877.78 KB - PDF)
+Suomi (FI) (883.24 KB - PDF)
 
 **First published:**
 
@@ -583,11 +656,11 @@ Suomi (FI) (877.78 KB - PDF)
 
 **Last updated:**
 
-24/11/2025
+20/01/2026
 
 [View](/fi/documents/product-information/nyvepria-epar-product-information_fi.pdf)
 
-svenska (SV) (958.89 KB - PDF)
+svenska (SV) (965.7 KB - PDF)
 
 **First published:**
 
@@ -595,11 +668,11 @@ svenska (SV) (958.89 KB - PDF)
 
 **Last updated:**
 
-24/11/2025
+20/01/2026
 
 [View](/sv/documents/product-information/nyvepria-epar-product-information_sv.pdf)
 
-**Latest procedure affecting product information:** R/0000249250 04/08/2025
+**Latest procedure affecting product information:** N/0000321402 20/01/2026
 
 icon globe
 
@@ -623,7 +696,7 @@ English (EN) (25.87 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/nyvepria-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-261)
+[Other languages (24)](#file-language-dropdown-609)
 
 български (BG) (27.59 KB - PDF)
 
@@ -843,7 +916,7 @@ Pfizer Europe MA EEIG
 
 Boulevard de la Plaine 17
 
-Opinion adopted 17/09/2020 Marketing authorisation issued 18/11/2020 Revision 8
+Opinion adopted 17/09/2020 Marketing authorisation issued 18/11/2020 Revision 9
 
 ## Assessment history
 
@@ -855,9 +928,11 @@ Collapse section
 
 Nyvepria : EPAR - Procedural steps taken and scientific information after authorisation
 
-English (EN) (136.18 KB - PDF)
+English (EN) (149.64 KB - PDF)
 
 **First published:** 24/11/2025
+
+**Last updated:** 20/01/2026
 
 [View](/en/documents/procedural-steps-after/nyvepria-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf)
 
@@ -910,7 +985,7 @@ English (EN) (128.01 KB - PDF)
 - [Biosimilars](https://www.ema.europa.eu/en/search?f%5B0%5D=ema_search_topics%3A45)
 - [Medicines](https://www.ema.europa.eu/en/search?f%5B0%5D=ema_search_topics%3A61)
 
-**This page was last updated on** 24/11/2025
+**This page was last updated on** 20/01/2026
 
 ## Share this page
 

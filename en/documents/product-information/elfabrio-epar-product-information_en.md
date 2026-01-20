@@ -1,18 +1,18 @@
 ---
-document_datetime: 2024-11-20 10:45:21
-document_pages: 28
+document_datetime: 2026-01-20 12:32:14
+document_pages: 29
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/elfabrio-epar-product-information_en.pdf
 document_name: elfabrio-epar-product-information_en.pdf
 version: success
-processing_time: 5.9100142
-conversion_datetime: 2025-12-24 01:20:35.704575
+processing_time: 6.729461
+conversion_datetime: 2026-01-20 20:39:30.605298
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.64.1
-  docling-core: 2.55.0
+  docling-serve: 1.10.0
+  docling-jobkit: 1.8.1
+  docling: 2.69.0
+  docling-core: 2.60.0
   docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-parse: 4.7.3
   python: cpython-313 (3.13.11)
   plaform: macOS-26.2-arm64-arm-64bit-Mach-O
 ---
@@ -21,8 +21,6 @@ docling_version:
 ## SUMMARY OF PRODUCT CHARACTERISTICS
 
 <div style=\"page-break-after: always\"></div>
-
-<!-- image -->
 
 This medicinal product is subject to additional monitoring. This will allow quick identification of new safety information. Healthcare professionals are asked to report any suspected adverse reactions. See section 4.8 for how to report adverse reactions.
 
@@ -116,13 +114,11 @@ The decision to move to home infusion should be made after evaluation and recomm
 
 The healthcare professional should be available at all times during the home infusion and for a specified time after infusion.
 
-Appropriate training should be given by the treating physician and/or nurse to the patient and/or caregiver prior to initiation of home infusion. The dose and infusion rate used in the home setting
-
 <div style=\"page-break-after: always\"></div>
 
-should remain the same as was used in the hospital setting; they should be changed only under the supervision of the treating physician.
+Appropriate training should be given by the treating physician and/or nurse to the patient and/or caregiver prior to initiation of home infusion. The dose and infusion rate used in the home setting should remain the same as was used in the hospital setting; they should be changed only under the supervision of the treating physician.
 
-## Infusion rate and duration of infusion
+Infusion rate and duration of infusion
 
 Table 1: Recommended dose and infusion time for intravenous administration of Elfabrio
 
@@ -138,8 +134,6 @@ Table 1: Recommended dose and infusion time for intravenous administration of El
 | up to 70                                                                                                                                                                                                             | 150 mL                                                                                                                                                                                                               | not less than 1.5 hours                                                                                                                                                                                              | 1.68 mL/min (100 mL/hr)                                                                                                                                                                                              |
 | 70-100                                                                                                                                                                                                               | 250 mL                                                                                                                                                                                                               | not less than 1.5 hours                                                                                                                                                                                              | 2.78 mL/min (166.67 mL/hr)                                                                                                                                                                                           |
 | > 100                                                                                                                                                                                                                | 500 mL                                                                                                                                                                                                               | not less than 1.5 hours                                                                                                                                                                                              | 5.56 mL/min (333.33 mL/hr)                                                                                                                                                                                           |
-
-*infusion rate may be adjusted in case of infusion reaction (see section 4.4)
 
 If patients experience infusion-related reactions, including hypersensitivity reactions or anaphylactic reactions during the infusion, the infusion must be immediately stopped and appropriate medical treatment should be initiated (see section 4.4).
 
@@ -159,9 +153,11 @@ In order to improve the traceability of biological medicinal products, the name 
 
 Infusion-related reactions (IRRs), defined as any related adverse events with onset after start of infusion and up to 2 hours after end of infusion have been reported (see section 4.8). The most commonly observed symptoms of IRRs were hypersensitivity, itching, nausea, dizziness, chills and muscular pain.
 
-The management of IRRs must be based on the severity of the reaction, and include slowing the infusion rate and treatment with medicinal products such as antihistamines, antipyretics and/or corticosteroids, for mild to moderate reactions. Pre-treatment with antihistamines and/or corticosteroids may prevent subsequent reactions in those cases where symptomatic treatment was required, although IRRs occurred in some patients after receiving pre-treatment (see section 4.2).
+The management of IRRs must be based on the severity of the reaction, and include slowing the infusion rate and treatment with medicinal products such as antihistamines, antipyretics and/or corticosteroids, for mild to moderate reactions. Pre-treatment with antihistamines and/or
 
 <div style=\"page-break-after: always\"></div>
+
+corticosteroids may prevent subsequent reactions in those cases where symptomatic treatment was required, although IRRs occurred in some patients after receiving pre-treatment (see section 4.2).
 
 ## Hypersensitivity
 
@@ -191,13 +187,13 @@ No interaction studies and no in vitro metabolism studies have been performed. B
 
 Elfabrio is a protein and is expected to be metabolically degraded through peptide hydrolysis.
 
+<div style=\"page-break-after: always\"></div>
+
 ## 4.6 Fertility, pregnancy and lactation
 
 ## Pregnancy
 
 There are no or limited amount of data from the use of pegunigalsidase alfa in pregnant women. Animal studies do not indicate direct or indirect harmful effects with respect to reproductive toxicity (see section 5.3). As a precautionary measure, it is preferable to avoid the use of Elfabrio during pregnancy unless clearly necessary.
-
-<div style=\"page-break-after: always\"></div>
 
 ## Breast-feeding
 
@@ -225,32 +221,34 @@ The data described below reflects data from 141 patients with Fabry disease who 
 
 Adverse reactions are listed in Table 2. Information is presented by system organ class. Frequencies are defined as: very common (≥ 1/10); common (≥ 1/100 to &lt; 1/10); uncommon (≥ 1/1 000 to &lt; 1/100); rare (≥ 1/10 000 to &lt; 1/1 000); very rare (&lt; 1/10 000); frequency not known (cannot be estimated from available data).
 
-Table 2: Adverse reactions reported during treatment with Elfabrio
-
-|                             | Frequency                                    | Frequency                                                                         |
-|-----------------------------|----------------------------------------------|-----------------------------------------------------------------------------------|
-| System organ class          | Common                                       | Uncommon                                                                          |
-| Immune system disorders     | hypersensitivity * type I hypersensitivity * |                                                                                   |
-| Psychiatric disorders       | agitation *                                  | insomnia                                                                          |
-| Nervous system disorders    | paraesthesia * dizziness * headache *        | restless legs syndrome peripheral neuropathy neuralgia burning sensation tremor * |
-| Ear and labyrinth disorders | vertigo                                      |                                                                                   |
-
 <div style=\"page-break-after: always\"></div>
+
+Table 2: Adverse reactions reported during treatment with Elfabrio
 
 | System organ class                                   | Frequency                                      | Frequency                                                                                                                                                                  |
 |------------------------------------------------------|------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 |                                                      | Common                                         | Uncommon                                                                                                                                                                   |
+| Immune system disorders                              | hypersensitivity * type I hypersensitivity *   |                                                                                                                                                                            |
+| Psychiatric disorders                                | agitation *                                    | insomnia                                                                                                                                                                   |
+| Nervous system disorders                             | paraesthesia * dizziness * headache *          | restless legs syndrome peripheral neuropathy neuralgia burning sensation tremor *                                                                                          |
+| Ear and labyrinth disorders                          | vertigo                                        |                                                                                                                                                                            |
 | Vascular disorders                                   |                                                | flushing hypotension * hypertension * lymphoedema                                                                                                                          |
 | Respiratory, thoracic and mediastinal disorders      |                                                | bronchospasm * dyspnoea * throat irritation * nasal congestion * sneezing *                                                                                                |
 | Gastrointestinal disorders                           | nausea * abdominal pain * diarrhoea vomiting * | gastrooesophageal reflux disease gastritis dyspepsia flatulence                                                                                                            |
 | Skin and subcutaneous issue disorders                | rash * erythema * pruritus *                   | hypohidrosis                                                                                                                                                               |
-| Musculoskeletal and connective tissue disorders      | arthralgia musculoskeletal pain                | *                                                                                                                                                                          |
+| Musculoskeletal and connective tissue disorders      | arthralgia musculoskeletal pain *              |                                                                                                                                                                            |
 | Renal and urinary disorders                          |                                                | glomerulonephritis membranoproliferative chronic kidney disease proteinuria                                                                                                |
 | Reproductive system and breast disorders             |                                                | nipple pain                                                                                                                                                                |
 | General disorders and administration site conditions | asthenia * chills * chest pain * pain *        | infusion site extravasation oedema influenza-like illness infusion site pain                                                                                               |
 | Investigations                                       |                                                | body temperature increased * hepatic enzyme increased urine protein/creatinine ratio increased white blood cells urine positive blood uric acid increased weight increased |
-| Injury, poisoning and procedural complications       | infusion related reaction                      | *                                                                                                                                                                          |
-| Cardiac disorders                                    | supraventricular extrasystoles                 | bradycardia * left ventricular hypertrophy                                                                                                                                 |
+| Injury, poisoning and procedural complications       | infusion related reaction                      |                                                                                                                                                                            |
+
+<div style=\"page-break-after: always\"></div>
+
+|                    | Frequency                      | Frequency                                  |
+|--------------------|--------------------------------|--------------------------------------------|
+| System organ class | Common                         | Uncommon                                   |
+| Cardiac disorders  | supraventricular extrasystoles | bradycardia * left ventricular hypertrophy |
 
 The following preferred terms have been grouped in Table 2:
 
@@ -263,16 +261,13 @@ The following preferred terms have been grouped in Table 2:
 - chest pain includes: chest discomfort and non-cardiac chest pain
 - pain includes: pain in extremity
 - oedema peripheral recorded as oedema
-
 * Preferred terms considered as IRR as described in the section below.
-
-<div style=\"page-break-after: always\"></div>
 
 ## Description of selected adverse reactions
 
 ## Infusion related reactions (adverse reactions within 2 hours of infusion)
 
-IRRs were reported in a total of 32 patients (22%): 26 patients (23%) treated with 1 mg/kg every two weeks and 6 patients (20%) treated with 2 mg/kg every four weeks. The most commonly reported symptoms associated with IRRs reported for 1 mg/kg dosage were: hypersensitivity, chills, dizziness, rash and itching. For the 2 mg/kg dose the most commonly reported symptom was pain. IRRs were mostly mild or moderate in intensity and resolved with continuous treatment; however, 5 patients (all male, 1 mg/kg dose) experienced 5 severe IRRs. These 5 IRRs were also serious. Four of these events were confirmed type I hypersensitivity reactions and 3 led to the discontinuation from the study. Another patient was later withdrawn from the study, after the occurrence of another moderate IRR. All 5 patients however recovered within the day after of occurrence with appropriate treatment. IRRs predominantly occurred within the first year of treatment with Elfabrio and no serious IRR was observed during the second year and beyond.
+IRRs were reported in a total of 32 patients (22%): 26 patients (23%) treated with 1 mg/kg every two weeks and 6 patients (2%) treated with 2 mg/kg every four weeks. The most commonly reported symptoms associated with IRRs reported for 1 mg/kg dosage were: hypersensitivity, chills, dizziness, rash and itching. For the 2 mg/kg dose the most commonly reported symptom was pain. IRRs were mostly mild or moderate in intensity and resolved with continuous treatment; however, 5 patients (all male, 1 mg/kg dose) experienced 5 severe IRRs. These 5 IRRs were also serious. Four of these events were confirmed type I hypersensitivity reactions and 3 led to the discontinuation from the study. Another patient was later withdrawn from the study, after the occurrence of another moderate IRR. All 5 patients however recovered within the day after of occurrence with appropriate treatment. IRRs predominantly occurred within the first year of treatment with Elfabrio and no serious IRR was observed during the second year and beyond.
 
 ## Immunogenicity
 
@@ -288,7 +283,11 @@ Reporting suspected adverse reactions after authorisation of the medicinal produ
 
 ## 4.9 Overdose
 
-There are no reports of overdose of Elfabrio during clinical studies. The maximum dose of Elfabrio studied was 2 mg/kg body weight every two weeks and no specific signs and symptoms were identified following the higher doses. The most common adverse reactions reported were infusion related reaction and pain in extremity. If overdose is suspected, seek emergency medical attention.
+There are no reports of overdose of Elfabrio during clinical studies. The maximum dose of Elfabrio studied was 2 mg/kg body weight every two weeks and no specific signs and symptoms were
+
+<div style=\"page-break-after: always\"></div>
+
+identified following the higher doses. The most common adverse reactions reported were infusion related reaction and pain in extremity. If overdose is suspected, seek emergency medical attention.
 
 ## 5. PHARMACOLOGICAL PROPERTIES
 
@@ -300,8 +299,6 @@ Pharmacotherapeutic group: Other alimentary tract and metabolism products, enzym
 
 The active substance of Elfabrio is pegunigalsidase alfa. Pegunigalsidase alfa is a pegylated recombinant form of human α -galactosidase-A. The amino acid sequence of the recombinant form is similar to the naturally occurring human enzyme.
 
-<div style=\"page-break-after: always\"></div>
-
 Pegunigalsidase alfa supplements or replaces α -galactosidase-A, the enzyme that catalyses the hydrolysis of the terminal α -galactosyl moieties of oligosaccharides and polysaccharides in the lysosome, reducing the amount of accumulation of globotriaosylceramide (Gb3) and globotriaosylsphingosine (Lyso-Gb3).
 
 ## Clinical efficacy and safety
@@ -312,13 +309,15 @@ The efficacy and safety of pegunigalsidase alfa were evaluated in 142 patients (
 
 ## Disease substrate
 
-Analyses of kidney biopsies from naïve patients treated with pegunigalsidase alfa in a phase 1/2 study exhibited a reduction of the globotriaosylceramide (Gb3) substrate from the renal peritubular capillaries, measured with BLISS (Barisoni Lipid Inclusion Scoring System) of 68% in the overall population (including females, classic males and non-classic males exposed to different tested doses; n=13) after 6 months of treatment. Additionally, 11 out of 13 subjects with available biopsies had substantial reduc tion (≥50%) in their BLISS score following 6 months of treatment. Plasma Lyso -Gb3 decreased by 49% after 12 months of treatment (n=16) and by 83% after 60 months of treatment (n=10). In a phase 3 study, where patients were switching from agalsidase beta to pegunigalsidase alfa, plasma Lyso-Gb3 values stayed stable after 24 months of treatment (+3.3 nM mean value, n=48).
+Analyses of kidney biopsies from naïve patients treated with pegunigalsidase alfa in a phase 1/2 study exhibited a reduction of the globotriaosylceramide (Gb3) substrate from the renal peritubular capillaries, measured with BLISS (Barisoni Lipid Inclusion Scoring System) of 68% in the overall population (including females, classic males and non-classic males exposed to different tested doses; n=13) after 6 months of treatment. Additionally, 11 out of 13 subjects with available biopsies had substantial reduction (≥50%) in their BLISS score following 6 months of treatment. Plasma Lys o-Gb3 decreased by 49% after 12 months of treatment (n=16) and by 83% after 60 months of treatment (n=10). In a phase 3 study, where patients were switching from agalsidase beta to pegunigalsidase alfa, plasma Lyso-Gb3 values stayed stable after 24 months of treatment (+3.3 nM mean value, n=48).
 
 ## Renal function
 
 The renal function was evaluated through the estimated glomerular filtration rate (eGFR - CKD-EPI equation) and its annualised measurement slope was the primary endpoint for efficacy in two phase 3 studies in previously ERT-treated adult Fabry patients: BALANCE (main study), a randomized, double blinded, head-to-head comparison with agalsidase beta, after switch from agalsidase beta at month 12 (primary analysis) and month 24, and an open label single arm study, after switch from agalsidase alfa, both followed by a long-term extension study.
 
-No final conclusion on non-inferiority over agalsidase beta as measured by the annualised eGFR can be retrieved from the main study given that the data for the primary endpoint comparison at month 12 was not on its own sufficiently informative due to the design and size of the trial. Nevertheless, the median eGFR slopes from baseline to month 24 of pegunigalsidase and the comparator agalsidase beta appeared close. At month 12, the mean slopes for eGFR were -2.507 mL/min/1.73 m²/year for the pegunigalsidase alfa arm and -1.748 for the agalsidase beta arm (difference -0.759 [-3.026, 1.507]. At month 24, the median slopes for eGFR were - 2.514 [-3.788; - 1.240] mL/min/1.73 m²/year for the pegunigalsidase alfa arm and -2.155 [-3.805; - 0.505] for the agalsidase beta arm (difference -0.359 [2.444; 1.726]).
+No final conclusion on non-inferiority over agalsidase beta as measured by the annualised eGFR can be retrieved from the main study given that the data for the primary endpoint comparison at month 12 was not on its own sufficiently informative due to the design and size of the trial. Nevertheless, the median eGFR slopes from baseline to month 24 of pegunigalsidase and the comparator agalsidase beta appeared close. At month 12, the mean slopes for eGFR were -2.507 mL/min/1.73 m²/year for the pegunigalsidase alfa arm and -1.748 for the agalsidase beta arm (difference -0.759 [-3.026, 1.507]. At month 24, the median slopes for eGFR were - 2.514 [-3.788; - 1.240] mL/min/1.73 m²/year for the pegunigalsidase alfa arm and -2.155 [-3.805; - 0.505] for the agalsidase beta arm (difference -0.359 [-2.444; 1.726]).
+
+<div style=\"page-break-after: always\"></div>
 
 ## Paediatric population
 
@@ -326,11 +325,7 @@ The European Medicines Agency has deferred the obligation to submit the results 
 
 ## 5.2 Pharmacokinetic properties
 
-Plasma pharmacokinetic (PK) profiles of pegunigalsidase alfa were characterized during the course of the clinical development at 0.2, 1, and 2 mg/kg administered every two weeks in adult patients with Fabry disease. The pharmacokinetic results for all three dose levels demonstrated that the enzyme was available throughout the 2-week intervals with a plasma half-life (t1/2) ranging from 53-134 hours across dose groups and visit day. The mean value for AUC0-∞ increased with increasing dose on Day 1 and throughout the study. Mean values for dose-normalized AUC0-2wk were similar for all dose levels, indicating linear dose-proportionality. For patients who received 1 and 2 mg/kg Elfabrio, there were
-
-<div style=\"page-break-after: always\"></div>
-
-increases in mean t1/2 and AUC0-∞ with increasing duration of treatment and corresponding decreases in Cl and Vz, suggesting a saturated clearance.
+Plasma pharmacokinetic (PK) profiles of pegunigalsidase alfa were characterized during the course of the clinical development at 0.2, 1, and 2 mg/kg administered every two weeks in adult patients with Fabry disease. The pharmacokinetic results for all three dose levels demonstrated that the enzyme was available throughout the 2-week intervals with a plasma half-life (t1/2) ranging from 53-134 hours across dose groups and visit day. The mean value for AUC0-∞ increased with increasing dose on Day 1 and throughout the study. Mean values for dose-normalized AUC0-2wk were similar for all dose levels, indicating linear dose-proportionality. For patients who received 1 and 2 mg/kg Elfabrio, there were increases in mean t1/2 and AUC0-∞ with increasing duration of treatment and corresponding decreases in Cl and Vz, suggesting a saturated clearance.
 
 Pegunigalsidase alfa is a protein and is expected to be metabolically degraded through peptide hydrolysis. Consequently, impaired liver function is not expected to affect the pharmacokinetics of Elfabrio in a clinically significant way. The molecular weight of pegunigalsidase alfa is ~116 KDa, which is twice the cut-off value for glomerular filtration, thus excluding filtration and/or proteolytic degradation in kidneys.
 
@@ -348,6 +343,8 @@ Animal studies demonstrated low systemic exposure in foetus (between 0.005 and 0
 
 Sodium citrate tribasic dihydrate Citric acid Sodium chloride
 
+<div style=\"page-break-after: always\"></div>
+
 ## 6.2 Incompatibilities
 
 In the absence of compatibility studies, this medicinal product must not be mixed with other medicinal products.
@@ -361,8 +358,6 @@ In the absence of compatibility studies, this medicinal product must not be mixe
 Chemical and physical in use stability has been demonstrated for 72 hours both at 2 °C-8 °C and below 25 °C.
 
 From a microbiological point of view, the product should be used immediately. If not used immediately, in-use storage times and conditions prior to use are the responsibility of the user and would normally not be longer than 24 hours in the refrigerator (2 °C-8 °C) or 8 hours if stored below 25 °C, unless dilution has taken place in controlled and validated aseptic conditions.
-
-<div style=\"page-break-after: always\"></div>
 
 ## 6.4 Special precautions for storage
 
@@ -380,7 +375,9 @@ Not all pack sizes may be marketed.
 
 ## 6.6 Special precautions for disposal and other handling
 
-Elfabrio is for intravenous infusion only. Aseptic technique to be used. Vials are for single use only.
+Elfabrio is for intravenous infusion only. Aseptic technique to be used.
+
+Vials are for single use only.
 
 If contamination is suspected, the vial has not to be used. Shaking or agitating this medicinal product must be avoided.
 
@@ -390,9 +387,11 @@ The number of vials to be diluted should be determined based on the individual p
 
 Dilution
 
-- 1) Determine the total number of vials required for the infusion.
+## 1) Determine the total number of vials required for the infusion.
 
 The number of vials required is based on the total dose required for each individual patient and requires calculation for weight-based dosing.
+
+<div style=\"page-break-after: always\"></div>
 
 An example calculation for total dose in an 80 kg patient prescribed 1 mg/kg is as follows:
 
@@ -404,9 +403,6 @@ An example calculation for total dose in an 80 kg patient prescribed 1 mg/kg is 
 Visually inspect the vials. Do not use if cap is missing or broken. Do not use if there is particulate matter or if it is discoloured. Avoid shaking or agitating the vials.
 
 - 3) Remove and discard the same volume as calculated in step 1 of sodium chloride 9 mg/mL (0.9%) solution for infusion from the infusion bag.
-
-<div style=\"page-break-after: always\"></div>
-
 - 4) Withdraw the required volume of Elfabrio solution from the vials, and dilute with sodium chloride 9 mg/mL (0.9%) solution for infusion, to a total volume based on patient weight specified in Table 4 below.
 
 ## Table 4: Minimum total infusion volume for patients by body weight
@@ -421,9 +417,7 @@ Inject the Elfabrio solution directly into the infusion bag.
 
 Do NOT inject in the airspace within the infusion bag.
 
-Gently invert the infusion bag to mix the solution, avoiding vigorous shaking and agitation.
-
-The diluted solution should be administered using an inline low protein binding 0.2 μm filter .
+Gently invert the infusion bag to mix the solution, avoiding vigorous shaking and agitation. The diluted solution should be administered using an inline low protein binding 0.2 μm filter .
 
 ## Disposal
 
@@ -435,15 +429,27 @@ Chiesi Farmaceutici S.p.A. Via Palermo 26/A 43122 Parma Italy
 
 ## 8. MARKETING AUTHORISATION NUMBER(S)
 
-EU/1/23/1724/001 EU/1/23/1724/002 EU/1/23/1724/003 EU/1/23/1724/004 EU/1/23/1724/005 EU/1/23/1724/006
+EU/1/23/1724/001 EU/1/23/1724/002 EU/1/23/1724/003
 
-## 9. DATE OF FIRST AUTHORISATION/RENEWAL OF THE AUTHORISATION
+EU/1/23/1724/004
+
+<div style=\"page-break-after: always\"></div>
+
+9.
+
+DATE OF FIRST AUTHORISATION/RENEWAL OF THE AUTHORISATION
 
 Date of first authorisation: 4 May 2023
 
-## 10. DATE OF REVISION OF THE TEXT
+10.
 
-Detailed information on this medicinal product is available on the website of the European Medicines Agency https://www.ema.europa.eu.
+DATE OF REVISION OF THE TEXT
+
+Detailed information on this medicinal product is available on the website of the European Medicines
+
+Agency https://www.ema.europa.eu.
+
+13
 
 <div style=\"page-break-after: always\"></div>
 
@@ -586,11 +592,11 @@ EXP
 
 Store in a refrigerator.
 
-| 10.   | SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROMSUCH MEDICINAL PRODUCTS, IF APPROPRIATE   |
+| 10.   | SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVEDFROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE   |
 |-------|----------------------------------------------------------------------------------------------------------------------------------------|
 
-| 11.   | NAME AND ADDRESS OF THE MARKETING AUTHORISATIONHOLDER   |
-|-------|---------------------------------------------------------|
+| 11.   | NAMEANDADDRESS OF THE MARKETING AUTHORISATION HOLDER   |
+|-------|--------------------------------------------------------|
 
 Chiesi Farmaceutici S.p.A. Via Palermo 26/A 43122 Parma Italy
 
@@ -599,8 +605,8 @@ Chiesi Farmaceutici S.p.A. Via Palermo 26/A 43122 Parma Italy
 
 EU/1/23/1724/001 EU/1/23/1724/002 EU/1/23/1724/003 EU/1/23/1724/004 EU/1/23/1724/005 EU/1/23/1724/006
 
-| 13.   | BATCHNUMBER   |
-|-------|---------------|
+| 13.   | BATCH NUMBER   |
+|-------|----------------|
 
 Lot
 
@@ -615,23 +621,19 @@ Lot
 
 Justification for not including Braille accepted.
 
-| 17. UNIQUE IDENTIFIER - 2DBARCODE   |
-|-------------------------------------|
+| 17. UNIQUE IDENTIFIER - 2D BARCODE   |
+|--------------------------------------|
 
 2D barcode carrying the unique identifier included.
 
-| 18.   | UNIQUE IDENTIFIER -HUMAN READABLE DATA   |
+| 18.   | UNIQUE IDENTIFIER - HUMANREADABLE DATA   |
 |-------|------------------------------------------|
 
 PC SN NN
 
-19
-
 <div style=\"page-break-after: always\"></div>
 
-## MINIMUM PARTICULARS TO APPEAR ON SMALL IMMEDIATE PACKAGING UNITS
-
-VIAL LABEL
+## MINIMUM PARTICULARS TO APPEAR ON SMALL IMMEDIATE PACKAGING UNITS VIAL LABEL
 
 ## 1. NAME OF THE MEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION
 
@@ -880,11 +882,11 @@ Tel: + 43 1 4073919
 
 ## България
 
-Chiesi Bulgaria EOOD
+ExCEEd Orphan Distribution d.o.o.
 
 Тел
 
-.: +359 29201205
+.: +359 87 663 1858
 
 ## Luxembourg/Luxemburg
 
@@ -900,9 +902,9 @@ Tel: + 420 261221745
 
 ## Magyarország
 
-Chiesi Hungary Kft.
+ExCEEd Orphan Distribution d.o.o.
 
-Tel.: + 36-1-429 1060
+Tel.: +36 70 612 7768
 
 ## Danmark
 
@@ -944,7 +946,9 @@ Tlf: + 46 8 753 35 20
 
 Chiesi Hellas AEBE
 
-Τηλ : + 30 210 6179763
+Τηλ
+
+: + 30 210 6179763
 
 ## Österreich
 
@@ -952,17 +956,13 @@ Chiesi Pharmaceuticals GmbH
 
 Tel: + 43 1 4073919
 
+<div style=\"page-break-after: always\"></div>
+
 ## España
 
 Chiesi España, S.A.U.
 
 Tel: + 34 934948000
-
-## Polska
-
-Chiesi Poland Sp. z.o.o.
-
-Tel.: + 48 22 620 1421
 
 ## France
 
@@ -970,23 +970,11 @@ Chiesi S.A.S.
 
 Tél: + 33 1 47688899
 
-## Portugal
-
-Chiesi Farmaceutici S.p.A.
-
-Tel: + 39 0521 2791
-
 ## Hrvatska
 
 Chiesi Pharmaceuticals GmbH
 
 Tel: + 43 1 4073919
-
-## România
-
-Chiesi Romania S.R.L.
-
-Tel: + 40 212023642
 
 ## Ireland
 
@@ -994,23 +982,11 @@ Chiesi Farmaceutici S.p.A.
 
 Tel: + 39 0521 2791
 
-## Slovenija
-
-CHIESI SLOVENIJA, d.o.o.
-
-Tel: + 386-1-43 00 901
-
 ## Ísland
 
 Chiesi Pharma AB
 
 Sími: +46 8 753 35 20
-
-## Slovenská republika
-
-Chiesi Slovakia s.r.o.
-
-Tel: + 421 259300060
 
 ## Italia
 
@@ -1018,37 +994,17 @@ Chiesi Italia S.p.A.
 
 Tel: + 39 0521 2791
 
-## Suomi/Finland
-
-Chiesi Pharma AB
-
-Puh/Tel: +46 8 753 35 20
-
 ## Κύπρος
 
 Chiesi Farmaceutici S.p.A.
 
 Τηλ: + 39 0521 2791
 
-## Sverige
-
-Chiesi Pharma AB
-
-Tel: +46 8 753 35 20
-
 ## Latvija
 
 Chiesi Pharmaceuticals GmbH
 
 Tel: + 43 1 4073919
-
-## United Kingdom (Northern Ireland)
-
-Chiesi Farmaceutici S.p.A.
-
-Tel: + 39 0521 2791
-
-<div style=\"page-break-after: always\"></div>
 
 ## This leaflet was last revised in
 
@@ -1072,6 +1028,48 @@ An example calculation for total dose in an 80 kg patient prescribed 1 mg/kg is 
 - -Example: 80 kg patient ÷ 2 = 40 mL (volume to be withdrawn).
 - -In this example, 4 vials of the 10 mL vial (or 16 vials of the 2.5 mL vial) are needed.
 
+## Polska
+
+ExCEEd Orphan Distribution d.o.o.
+
+Tel.: +48 799 090 131
+
+## Portugal
+
+Chiesi Farmaceutici S.p.A.
+
+Tel: + 39 0521 2791
+
+## România
+
+Chiesi Romania S.R.L.
+
+Tel: + 40 212023642
+
+## Slovenija
+
+CHIESI SLOVENIJA, d.o.o.
+
+Tel: + 386-1-43 00 901
+
+## Slovenská republika
+
+Chiesi Slovakia s.r.o.
+
+Tel: + 421 259300060
+
+## Suomi/Finland
+
+Chiesi Pharma AB
+
+Puh/Tel: +46 8 753 35 20
+
+## Sverige
+
+Chiesi Pharma AB
+
+Tel: +46 8 753 35 20
+
 <div style=\"page-break-after: always\"></div>
 
 - 2) Allow the required number of vials to reach room temperature prior to dilution (approximately 30 minutes).
@@ -1093,6 +1091,4 @@ Inject the Elfabrio solution directly into the infusion bag.
 
 Do NOT inject in the airspace within the infusion bag.
 
-Gently invert the infusion bag to mix the solution, avoiding vigorous shaking and agitation.
-
-The diluted solution should be administered using an inline low protein binding 0.2 μm filter.
+Gently invert the infusion bag to mix the solution, avoiding vigorous shaking and agitation. The diluted solution should be administered using an inline low protein binding 0.2 μm filter.

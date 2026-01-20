@@ -1,21 +1,96 @@
 ---
-document_datetime: 2025-12-29 12:20:41
+document_datetime: 2026-01-19 15:11:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/kivexa.html
 document_name: kivexa.html
 version: success
-processing_time: 0.1112357
-conversion_datetime: 2025-12-30 19:58:39.447064
+processing_time: 0.1394313
+conversion_datetime: 2026-01-20 20:20:35.072983
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.66.0
-  docling-core: 2.57.0
+  docling-serve: 1.10.0
+  docling-jobkit: 1.8.1
+  docling: 2.69.0
+  docling-core: 2.60.0
   docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-parse: 4.7.3
   python: cpython-313 (3.13.11)
   plaform: macOS-26.2-arm64-arm-64bit-Mach-O
 ---
+# Search
+
+- [Medicines](/en/medicines)
+    - [Find medicine](/en/medicines)
+    - [Therapeutic areas: latest updates](/en/medicines/therapeutic-areas-latest-updates)
+    - [Download medicine data](/en/medicines/download-medicine-data)
+    - [What we publish on medicines and when](/en/medicines/what-we-publish-medicines-when)
+    - [Medicines under evaluation](/en/medicines/medicines-human-use-under-evaluation)
+    - [National registers](/en/medicines/national-registers-authorised-medicines)
+- [Human regulatory](/en/human-regulatory-overview)
+    - [Overview](/en/human-regulatory-overview)
+    - [Research and development](/en/human-regulatory-overview/research-development)
+    - [Marketing authorisation](/en/human-regulatory-overview/marketing-authorisation)
+    - [Post-authorisation](/en/human-regulatory-overview/post-authorisation)
+    - [Medical devices](/en/human-regulatory-overview/medical-devices)
+    - [Herbal products](/en/human-regulatory-overview/herbal-medicinal-products)
+- [Veterinary regulatory](/en/veterinary-regulatory-overview)
+    - [Overview](/en/veterinary-regulatory-overview)
+    - [Research and development](/en/veterinary-regulatory-overview/research-development-veterinary-medicines)
+    - [Marketing authorisation](/en/veterinary-regulatory-overview/marketing-authorisation-veterinary-medicines)
+    - [Post-authorisation](/en/veterinary-regulatory-overview/post-authorisation-veterinary-medicines)
+- [Committees](/en/committees)
+    - [Overview](/en/committees)
+    - [How the committees work](/en/committees/how-committees-work)
+    - [CHMP](/en/committees/committee-medicinal-products-human-use-chmp)
+    - [CVMP](/en/committees/committee-veterinary-medicinal-products-cvmp)
+    - [PRAC](/en/committees/pharmacovigilance-risk-assessment-committee-prac)
+    - [COMP](/en/committees/committee-orphan-medicinal-products-comp)
+    - [HMPC](/en/committees/committee-herbal-medicinal-products-hmpc)
+    - [CAT](/en/committees/committee-advanced-therapies-cat)
+    - [PDCO](/en/committees/paediatric-committee-pdco)
+    - [Working parties and other groups](/en/committees/working-parties-other-groups)
+- [News &amp; events](/en/news-events)
+    - [Overview](/en/news-events)
+    - [News](/en/news)
+    - [Events](/en/events/upcoming-events)
+    - [What's new](/en/news-events/whats-new)
+    - [Committee highlights](/en/news-events/committee-highlights)
+    - [Publications](/en/news-and-events/publications)
+    - [Press and social media](/en/news-events/press-social-media)
+    - [Podcast: Inside EMA](/en/news-events/podcast-inside-ema)
+    - [Open consultations](/en/news-events/open-consultations)
+    - [RSS feeds](/en/news-events/rss-feeds)
+- [Partners &amp; networks](/en/partners-networks)
+    - [Overview](/en/partners-networks)
+    - [Animal health practitioners](/en/partners-networks/animal-health-practitioners)
+    - [One Health approach](/en/partners-networks/one-health-approach)
+    - [Academia](/en/partners-networks/academia)
+    - [EU partners](/en/partners-networks/eu-partners)
+    - [International activities](/en/partners-networks/international-activities)
+    - [Patients and consumers](/en/partners-networks/patients-consumers)
+    - [Healthcare professionals](/en/partners-networks/healthcare-professionals)
+    - [Pharmaceutical industry](/en/partners-networks/pharmaceutical-industry)
+    - [Networks](/en/partners-networks/networks)
+    - [Health technology assessment bodies](/en/partners-networks/health-technology-assessment-bodies)
+- [About us](/en/about-us)
+    - [Overview](/en/about-us)
+    - [What we do](/en/about-us/what-we-do)
+    - [Who we are](/en/about-us/who-we-are)
+    - [How we work](/en/about-us/how-we-work)
+    - [Fees](/en/about-us/fees-payable-european-medicines-agency)
+    - [Support to SMEs](/en/about-us/support-smes)
+    - [Annual reports and work programmes](/en/about-us/annual-reports-work-programmes)
+    - [History of EMA](/en/about-us/history-ema)
+    - [Careers](/en/about-us/careers)
+    - [Procurement](/en/about-us/procurement-grants)
+    - [Glossaries](/en/about-us/glossaries)
+    - [About this website](/en/about-us/about-website)
+    - [Data protection and privacy](/en/about-us/data-protection-privacy-ema)
+    - [Contacts](/en/about-us/contacts-european-medicines-agency)
+
+1. [Home](/en/homepage)
+2. [Medicines](https://www.ema.europa.eu/en/medicines)
+3. Kivexa
+
 # Kivexa
 
 [RSS](/en/individual-human-medicine.xml/66748)
@@ -25,8 +100,6 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 abacavir / lamivudine Medicine Human Authorised
-
-On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -38,6 +111,7 @@ Page contents
 - [Authorisation details](#authorisation-details)
 - [Assessment history](#assessment-history)
 - [News on Kivexa](#news-on)
+- [Product information - with tracked changes](#product-information-with-tracked-changes-82834)
 - [Topics](#topics)
 
 - Application under evaluation
@@ -110,7 +184,7 @@ English (EN) (129.24 KB - PDF)
 
 [View](/en/documents/overview/kivexa-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-531)
+[Other languages (22)](#file-language-dropdown-81)
 
 български (BG) (154.54 KB - PDF)
 
@@ -380,17 +454,17 @@ svenska (SV) (128.08 KB - PDF)
 
 Kivexa : EPAR - Product Information
 
-English (EN) (627.4 KB - PDF)
+English (EN) (634.88 KB - PDF)
 
 **First published:** 16/07/2007
 
-**Last updated:** 27/11/2023
+**Last updated:** 19/01/2026
 
 [View](/en/documents/product-information/kivexa-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-587)
+[Other languages (24)](#file-language-dropdown-205)
 
-български (BG) (787.22 KB - PDF)
+български (BG) (779.41 KB - PDF)
 
 **First published:**
 
@@ -398,11 +472,11 @@ English (EN) (627.4 KB - PDF)
 
 **Last updated:**
 
-27/11/2023
+19/01/2026
 
 [View](/bg/documents/product-information/kivexa-epar-product-information_bg.pdf)
 
-español (ES) (615.85 KB - PDF)
+español (ES) (607.02 KB - PDF)
 
 **First published:**
 
@@ -410,11 +484,11 @@ español (ES) (615.85 KB - PDF)
 
 **Last updated:**
 
-27/11/2023
+19/01/2026
 
 [View](/es/documents/product-information/kivexa-epar-product-information_es.pdf)
 
-čeština (CS) (733.54 KB - PDF)
+čeština (CS) (726.49 KB - PDF)
 
 **First published:**
 
@@ -422,11 +496,11 @@ español (ES) (615.85 KB - PDF)
 
 **Last updated:**
 
-27/11/2023
+19/01/2026
 
 [View](/cs/documents/product-information/kivexa-epar-product-information_cs.pdf)
 
-dansk (DA) (668 KB - PDF)
+dansk (DA) (775.5 KB - PDF)
 
 **First published:**
 
@@ -434,11 +508,11 @@ dansk (DA) (668 KB - PDF)
 
 **Last updated:**
 
-27/11/2023
+19/01/2026
 
 [View](/da/documents/product-information/kivexa-epar-product-information_da.pdf)
 
-Deutsch (DE) (409.18 KB - PDF)
+Deutsch (DE) (759.57 KB - PDF)
 
 **First published:**
 
@@ -446,11 +520,11 @@ Deutsch (DE) (409.18 KB - PDF)
 
 **Last updated:**
 
-27/11/2023
+19/01/2026
 
 [View](/de/documents/product-information/kivexa-epar-product-information_de.pdf)
 
-eesti keel (ET) (650.92 KB - PDF)
+eesti keel (ET) (729.96 KB - PDF)
 
 **First published:**
 
@@ -458,11 +532,11 @@ eesti keel (ET) (650.92 KB - PDF)
 
 **Last updated:**
 
-27/11/2023
+19/01/2026
 
 [View](/et/documents/product-information/kivexa-epar-product-information_et.pdf)
 
-ελληνικά (EL) (584.43 KB - PDF)
+ελληνικά (EL) (841.2 KB - PDF)
 
 **First published:**
 
@@ -470,11 +544,11 @@ eesti keel (ET) (650.92 KB - PDF)
 
 **Last updated:**
 
-27/11/2023
+19/01/2026
 
 [View](/el/documents/product-information/kivexa-epar-product-information_el.pdf)
 
-français (FR) (707.92 KB - PDF)
+français (FR) (835.36 KB - PDF)
 
 **First published:**
 
@@ -482,11 +556,11 @@ français (FR) (707.92 KB - PDF)
 
 **Last updated:**
 
-27/11/2023
+19/01/2026
 
 [View](/fr/documents/product-information/kivexa-epar-product-information_fr.pdf)
 
-hrvatski (HR) (759.9 KB - PDF)
+hrvatski (HR) (664.66 KB - PDF)
 
 **First published:**
 
@@ -494,11 +568,11 @@ hrvatski (HR) (759.9 KB - PDF)
 
 **Last updated:**
 
-27/11/2023
+19/01/2026
 
 [View](/hr/documents/product-information/kivexa-epar-product-information_hr.pdf)
 
-íslenska (IS) (624.35 KB - PDF)
+íslenska (IS) (724.19 KB - PDF)
 
 **First published:**
 
@@ -506,11 +580,11 @@ hrvatski (HR) (759.9 KB - PDF)
 
 **Last updated:**
 
-27/11/2023
+19/01/2026
 
 [View](/is/documents/product-information/kivexa-epar-product-information_is.pdf)
 
-italiano (IT) (634.69 KB - PDF)
+italiano (IT) (742.95 KB - PDF)
 
 **First published:**
 
@@ -518,11 +592,11 @@ italiano (IT) (634.69 KB - PDF)
 
 **Last updated:**
 
-27/11/2023
+19/01/2026
 
 [View](/it/documents/product-information/kivexa-epar-product-information_it.pdf)
 
-latviešu valoda (LV) (703.49 KB - PDF)
+latviešu valoda (LV) (793.16 KB - PDF)
 
 **First published:**
 
@@ -530,11 +604,11 @@ latviešu valoda (LV) (703.49 KB - PDF)
 
 **Last updated:**
 
-27/11/2023
+19/01/2026
 
 [View](/lv/documents/product-information/kivexa-epar-product-information_lv.pdf)
 
-lietuvių kalba (LT) (693.51 KB - PDF)
+lietuvių kalba (LT) (661.17 KB - PDF)
 
 **First published:**
 
@@ -542,11 +616,11 @@ lietuvių kalba (LT) (693.51 KB - PDF)
 
 **Last updated:**
 
-27/11/2023
+19/01/2026
 
 [View](/lt/documents/product-information/kivexa-epar-product-information_lt.pdf)
 
-magyar (HU) (735.69 KB - PDF)
+magyar (HU) (783.48 KB - PDF)
 
 **First published:**
 
@@ -554,11 +628,11 @@ magyar (HU) (735.69 KB - PDF)
 
 **Last updated:**
 
-27/11/2023
+19/01/2026
 
 [View](/hu/documents/product-information/kivexa-epar-product-information_hu.pdf)
 
-Malti (MT) (872.6 KB - PDF)
+Malti (MT) (876.22 KB - PDF)
 
 **First published:**
 
@@ -566,11 +640,11 @@ Malti (MT) (872.6 KB - PDF)
 
 **Last updated:**
 
-27/11/2023
+19/01/2026
 
 [View](/mt/documents/product-information/kivexa-epar-product-information_mt.pdf)
 
-Nederlands (NL) (624.34 KB - PDF)
+Nederlands (NL) (620.37 KB - PDF)
 
 **First published:**
 
@@ -578,11 +652,11 @@ Nederlands (NL) (624.34 KB - PDF)
 
 **Last updated:**
 
-27/11/2023
+19/01/2026
 
 [View](/nl/documents/product-information/kivexa-epar-product-information_nl.pdf)
 
-norsk (NO) (620.9 KB - PDF)
+norsk (NO) (767.35 KB - PDF)
 
 **First published:**
 
@@ -590,11 +664,11 @@ norsk (NO) (620.9 KB - PDF)
 
 **Last updated:**
 
-27/11/2023
+19/01/2026
 
 [View](/no/documents/product-information/kivexa-epar-product-information_no.pdf)
 
-polski (PL) (701.63 KB - PDF)
+polski (PL) (690.84 KB - PDF)
 
 **First published:**
 
@@ -602,11 +676,11 @@ polski (PL) (701.63 KB - PDF)
 
 **Last updated:**
 
-27/11/2023
+19/01/2026
 
 [View](/pl/documents/product-information/kivexa-epar-product-information_pl.pdf)
 
-português (PT) (604.46 KB - PDF)
+português (PT) (730.05 KB - PDF)
 
 **First published:**
 
@@ -614,11 +688,11 @@ português (PT) (604.46 KB - PDF)
 
 **Last updated:**
 
-27/11/2023
+19/01/2026
 
 [View](/pt/documents/product-information/kivexa-epar-product-information_pt.pdf)
 
-română (RO) (714.86 KB - PDF)
+română (RO) (794.01 KB - PDF)
 
 **First published:**
 
@@ -626,11 +700,11 @@ română (RO) (714.86 KB - PDF)
 
 **Last updated:**
 
-27/11/2023
+19/01/2026
 
 [View](/ro/documents/product-information/kivexa-epar-product-information_ro.pdf)
 
-slovenčina (SK) (668.14 KB - PDF)
+slovenčina (SK) (649.91 KB - PDF)
 
 **First published:**
 
@@ -638,11 +712,11 @@ slovenčina (SK) (668.14 KB - PDF)
 
 **Last updated:**
 
-27/11/2023
+19/01/2026
 
 [View](/sk/documents/product-information/kivexa-epar-product-information_sk.pdf)
 
-slovenščina (SL) (665.73 KB - PDF)
+slovenščina (SL) (664.42 KB - PDF)
 
 **First published:**
 
@@ -650,11 +724,11 @@ slovenščina (SL) (665.73 KB - PDF)
 
 **Last updated:**
 
-27/11/2023
+19/01/2026
 
 [View](/sl/documents/product-information/kivexa-epar-product-information_sl.pdf)
 
-Suomi (FI) (641.32 KB - PDF)
+Suomi (FI) (748.34 KB - PDF)
 
 **First published:**
 
@@ -662,11 +736,11 @@ Suomi (FI) (641.32 KB - PDF)
 
 **Last updated:**
 
-27/11/2023
+19/01/2026
 
 [View](/fi/documents/product-information/kivexa-epar-product-information_fi.pdf)
 
-svenska (SV) (611.76 KB - PDF)
+svenska (SV) (704.99 KB - PDF)
 
 **First published:**
 
@@ -674,11 +748,11 @@ svenska (SV) (611.76 KB - PDF)
 
 **Last updated:**
 
-27/11/2023
+19/01/2026
 
 [View](/sv/documents/product-information/kivexa-epar-product-information_sv.pdf)
 
-**Latest procedure affecting product information:** PSUSA/00000011/202212 15/11/2023
+**Latest procedure affecting product information:** VR/0000296309 15/01/2026
 
 icon globe
 
@@ -704,7 +778,7 @@ English (EN) (48.49 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/kivexa-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-435)
+[Other languages (24)](#file-language-dropdown-954)
 
 български (BG) (36.59 KB - PDF)
 
@@ -1027,7 +1101,7 @@ ViiV Healthcare BV
 
 Van Asch van Wijckstraat 55H
 
-Marketing authorisation issued 16/12/2004 Revision 37
+Marketing authorisation issued 16/12/2004 Revision 38
 
 ## Assessment history
 
@@ -1039,13 +1113,21 @@ Collapse section
 
 Kivexa : EPAR - Procedural steps taken and scientific information after authorisation
 
+English (EN) (149.61 KB - PDF)
+
+**First published:** 19/01/2026
+
+[View](/en/documents/procedural-steps-after/kivexa-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf)
+
+Kivexa : EPAR - Procedural steps taken and scientific information after authorisation (archive)
+
 English (EN) (414.23 KB - PDF)
 
 **First published:** 16/07/2009
 
-**Last updated:** 23/08/2022
+**Last updated:** 19/01/2026
 
-[View](/en/documents/procedural-steps-after/kivexa-epar-procedural-steps-taken-and-scientific-information-after-authorisation_en.pdf)
+[View](/en/documents/procedural-steps-after/kivexa-epar-procedural-steps-taken-scientific-information-after-authorisation-archive_en.pdf)
 
 Kivexa-H-C-PSUSA-00000011-202212 : EPAR - Scientific conclusions and grounds for the variation to the terms of the marketing authorisation
 
@@ -1083,11 +1165,217 @@ English (EN) (336.27 KB - PDF)
 
 [Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 19-22 October 2015](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-19-22-october-2015) 23/10/2015
 
+#### Product information - with tracked changes
+
+The approved product information for this medicine is available below showing the changes since the previous procedure affecting the product information. The same document without tracked changes is above under 'Product information'.
+
+Kivexa : EPAR - Product information - tracked changes
+
+English (EN) (159.47 KB - DOCX)
+
+**First published:** 19/01/2026
+
+[View](/en/documents/product-information-tracked-changes/kivexa-epar-product-information-tracked-changes_en.docx)
+
+[Other languages (24)](#file-language-dropdown-709)
+
+български (BG) (209.67 KB - DOCX)
+
+**First published:**
+
+19/01/2026
+
+[View](/bg/documents/product-information-tracked-changes/kivexa-epar-product-information-tracked-changes_bg.docx)
+
+español (ES) (182.61 KB - DOCX)
+
+**First published:**
+
+19/01/2026
+
+[View](/es/documents/product-information-tracked-changes/kivexa-epar-product-information-tracked-changes_es.docx)
+
+čeština (CS) (208.15 KB - DOCX)
+
+**First published:**
+
+19/01/2026
+
+[View](/cs/documents/product-information-tracked-changes/kivexa-epar-product-information-tracked-changes_cs.docx)
+
+dansk (DA) (175.14 KB - DOCX)
+
+**First published:**
+
+19/01/2026
+
+[View](/da/documents/product-information-tracked-changes/kivexa-epar-product-information-tracked-changes_da.docx)
+
+Deutsch (DE) (185.42 KB - DOCX)
+
+**First published:**
+
+19/01/2026
+
+[View](/de/documents/product-information-tracked-changes/kivexa-epar-product-information-tracked-changes_de.docx)
+
+eesti keel (ET) (161.21 KB - DOCX)
+
+**First published:**
+
+19/01/2026
+
+[View](/et/documents/product-information-tracked-changes/kivexa-epar-product-information-tracked-changes_et.docx)
+
+ελληνικά (EL) (193.52 KB - DOCX)
+
+**First published:**
+
+19/01/2026
+
+[View](/el/documents/product-information-tracked-changes/kivexa-epar-product-information-tracked-changes_el.docx)
+
+français (FR) (191.93 KB - DOCX)
+
+**First published:**
+
+19/01/2026
+
+[View](/fr/documents/product-information-tracked-changes/kivexa-epar-product-information-tracked-changes_fr.docx)
+
+hrvatski (HR) (194.19 KB - DOCX)
+
+**First published:**
+
+19/01/2026
+
+[View](/hr/documents/product-information-tracked-changes/kivexa-epar-product-information-tracked-changes_hr.docx)
+
+íslenska (IS) (162.2 KB - DOCX)
+
+**First published:**
+
+19/01/2026
+
+[View](/is/documents/product-information-tracked-changes/kivexa-epar-product-information-tracked-changes_is.docx)
+
+italiano (IT) (181.29 KB - DOCX)
+
+**First published:**
+
+19/01/2026
+
+[View](/it/documents/product-information-tracked-changes/kivexa-epar-product-information-tracked-changes_it.docx)
+
+latviešu valoda (LV) (157.1 KB - DOCX)
+
+**First published:**
+
+19/01/2026
+
+[View](/lv/documents/product-information-tracked-changes/kivexa-epar-product-information-tracked-changes_lv.docx)
+
+lietuvių kalba (LT) (172.18 KB - DOCX)
+
+**First published:**
+
+19/01/2026
+
+[View](/lt/documents/product-information-tracked-changes/kivexa-epar-product-information-tracked-changes_lt.docx)
+
+magyar (HU) (206.51 KB - DOCX)
+
+**First published:**
+
+19/01/2026
+
+[View](/hu/documents/product-information-tracked-changes/kivexa-epar-product-information-tracked-changes_hu.docx)
+
+Malti (MT) (181.2 KB - DOCX)
+
+**First published:**
+
+19/01/2026
+
+[View](/mt/documents/product-information-tracked-changes/kivexa-epar-product-information-tracked-changes_mt.docx)
+
+Nederlands (NL) (173.63 KB - DOCX)
+
+**First published:**
+
+19/01/2026
+
+[View](/nl/documents/product-information-tracked-changes/kivexa-epar-product-information-tracked-changes_nl.docx)
+
+norsk (NO) (166.74 KB - DOCX)
+
+**First published:**
+
+19/01/2026
+
+[View](/no/documents/product-information-tracked-changes/kivexa-epar-product-information-tracked-changes_no.docx)
+
+polski (PL) (184.25 KB - DOCX)
+
+**First published:**
+
+19/01/2026
+
+[View](/pl/documents/product-information-tracked-changes/kivexa-epar-product-information-tracked-changes_pl.docx)
+
+português (PT) (167.48 KB - DOCX)
+
+**First published:**
+
+19/01/2026
+
+[View](/pt/documents/product-information-tracked-changes/kivexa-epar-product-information-tracked-changes_pt.docx)
+
+română (RO) (190.35 KB - DOCX)
+
+**First published:**
+
+19/01/2026
+
+[View](/ro/documents/product-information-tracked-changes/kivexa-epar-product-information-tracked-changes_ro.docx)
+
+slovenčina (SK) (185.88 KB - DOCX)
+
+**First published:**
+
+19/01/2026
+
+[View](/sk/documents/product-information-tracked-changes/kivexa-epar-product-information-tracked-changes_sk.docx)
+
+slovenščina (SL) (172.26 KB - DOCX)
+
+**First published:**
+
+19/01/2026
+
+[View](/sl/documents/product-information-tracked-changes/kivexa-epar-product-information-tracked-changes_sl.docx)
+
+Suomi (FI) (173.71 KB - DOCX)
+
+**First published:**
+
+19/01/2026
+
+[View](/fi/documents/product-information-tracked-changes/kivexa-epar-product-information-tracked-changes_fi.docx)
+
+svenska (SV) (152.11 KB - DOCX)
+
+**First published:**
+
+19/01/2026
+
+[View](/sv/documents/product-information-tracked-changes/kivexa-epar-product-information-tracked-changes_sv.docx)
+
 #### Topics
 
 - [Medicines](https://www.ema.europa.eu/en/search?f%5B0%5D=ema_search_topics%3A61)
 
-**This page was last updated on** 27/11/2023
+**This page was last updated on** 19/01/2026
 
 ## Share this page
 

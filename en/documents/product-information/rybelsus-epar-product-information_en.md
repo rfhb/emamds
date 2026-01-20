@@ -1,20 +1,20 @@
 ---
-document_datetime: 2025-10-17 14:58:12
+document_datetime: 2026-01-19 16:25:55
 document_pages: 91
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/rybelsus-epar-product-information_en.pdf
 document_name: rybelsus-epar-product-information_en.pdf
 version: success
-processing_time: 39.7466368
-conversion_datetime: 2025-12-18 21:25:15.152803
+processing_time: 42.4585107
+conversion_datetime: 2026-01-20 20:12:28.833742
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.64.1
-  docling-core: 2.55.0
+  docling-serve: 1.10.0
+  docling-jobkit: 1.8.1
+  docling: 2.69.0
+  docling-core: 2.60.0
   docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-parse: 4.7.3
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.1-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
 ---
 ## ANNEX I
 
@@ -171,7 +171,7 @@ Cases of pulmonary aspiration have been reported in patients receiving GLP-1 rec
 
 ## Gastrointestinal effects and dehydration
 
-Use of GLP-1 receptor agonists may be associated with gastrointestinal adverse reactions that can cause dehydration, which in rare cases can lead to a deterioration of renal function (see section 4.8). Patients treated with semaglutide should be advised of the potential risk of dehydration in relation to gastrointestinal side effects and take precautions to avoid fluid depletion.
+Use of GLP-1 receptor agonists may be associated with gastrointestinal adverse reactions. This should be considered when treating patients with impaired renal function, as nausea, vomiting, and diarrhoea may cause dehydration, which in rare cases can lead to a deterioration of renal function (see section 4.8). Patients treated with semaglutide should be advised of the potential risk of dehydration in relation to gastrointestinal side effects and take precautions to avoid fluid depletion.
 
 ## Acute pancreatitis
 
@@ -194,6 +194,10 @@ Data from epidemiological studies indicates an increased risk for non-arteritic 
 <div style=\"page-break-after: always\"></div>
 
 ophthalmological examination and treatment with semaglutide should be discontinued if NAION is confirmed (see section 4.8).
+
+## Patients with gastroparesis
+
+Semaglutide treated patients with gastroparesis may experience more serious or severe gastrointestinal adverse events. Semaglutide should be used with caution in these patients, and semaglutide is not recommended if gastroparesis is severe (see section 4.8).
 
 ## Treatment response
 
@@ -229,13 +233,13 @@ No clinically relevant change in AUC or Cmax of digoxin, oral contraceptives (co
 
 Interactions with medicinal products with very low bioavailability (1%) have not been evaluated.
 
+<div style=\"page-break-after: always\"></div>
+
 ## Effects of other medicinal products on semaglutide
 
 ## Omeprazole
 
 No clinically relevant change in AUC or Cmax of semaglutide was observed when taken with omeprazole.
-
-<div style=\"page-break-after: always\"></div>
 
 In a trial investigating the pharmacokinetics of semaglutide co-administered with five other tablets, the AUC of semaglutide decreased by 34% and Cmax by 32%. This suggests that the presence of multiple tablets in the stomach influences the absorption of semaglutide if co-administered at the same time. After administering semaglutide, the patients should wait 30 minutes before taking other oral medicinal products (see section 4.2).
 
@@ -267,48 +271,36 @@ When it is used in combination with a sulfonylurea or insulin, patients should b
 
 ## Summary of the safety profile
 
-In 10 phase 3a trials, 5 707 patients were exposed to semaglutide alone or in combination with other glucose-lowering medicinal products. The duration of the treatment ranged from 26 weeks to 78 weeks. The most frequently reported adverse reactions in clinical trials were gastrointestinal disorders, including nausea (very common), diarrhoea (very common) and vomiting (common).
-
-## Tabulated list of adverse reactions
-
-Table 1 lists adverse reactions identified in phase 3 trials (further described in section 5.1) and postmarketing reports in patients with type 2 diabetes mellitus. The frequencies of the adverse reactions
+In 10 phase 3a trials, 5 707 patients were exposed to semaglutide alone or in combination with other glucose-lowering medicinal products. The duration of the treatment ranged from 26 weeks to
 
 <div style=\"page-break-after: always\"></div>
 
-(except diabetic retinopathy complications and dysaesthesia, see footnotes in Table 1) are based on a pool of the phase 3a trials excluding the cardiovascular outcomes trial.
+78 weeks. The most frequently reported adverse reactions in clinical trials were gastrointestinal disorders, including nausea (very common), diarrhoea (very common) and vomiting (common).
+
+## Tabulated list of adverse reactions
+
+Table 1 lists adverse reactions identified in phase 3 trials (further described in section 5.1) and postmarketing reports in patients with type 2 diabetes mellitus. The frequencies of the adverse reactions (except diabetic retinopathy complications and dysaesthesia, see footnotes in Table 1) are based on a pool of the phase 3a trials excluding the cardiovascular outcomes trial.
 
 The reactions are listed below by system organ class and absolute frequency. Frequencies are defined as: very common: (≥ 1/10); common: (≥ 1/100 to &lt; 1/10); uncommon: (≥ 1/1 000 to &lt; 1/100); rare: (≥ 1/10 000 to &lt; 1/1 000) and very rare: (&lt; 1/10 000); not known (cannot be estimated from the available data). Within each frequency grouping, adverse reactions are presented in order of decreasing seriousness.
 
 Table 1 Frequency of adverse reactions of oral semaglutide
 
-| MedDRA system organ class                             | Very common                                              | Common                                                                                                                      | Uncommon                            | Rare                   | Very Rare                                                  | Not known                   |
-|-------------------------------------------------------|----------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------|-------------------------------------|------------------------|------------------------------------------------------------|-----------------------------|
-| Immune system disorders                               |                                                          |                                                                                                                             | Hypersensiti vity c                 | Anaphylact ic reaction |                                                            |                             |
-| Metabolism and nutrition disorders                    | Hypoglyc aemia when used with insulin or sulfonylur ea a | Hypoglycae mia when used with other oral antidiabetic products a Decreased appetite                                         |                                     |                        |                                                            |                             |
-| Nervous system disorders                              |                                                          | Dizziness Dysaesthesia e Headache                                                                                           | Dysgeusia                           |                        |                                                            |                             |
-| Eye disorders                                         |                                                          | Diabetic retinopathy complication s b                                                                                       |                                     |                        | Non- arteritic anterior ischaemic optic neuropathy (NAION) |                             |
-| Cardiac disorders                                     |                                                          |                                                                                                                             | Increased heart rate                |                        |                                                            |                             |
-| Gastrointesti nal disorders                           | Nausea Diarrhoea                                         | Vomiting Abdominal pain Abdominal distension Constipation Dyspepsia Gastritis Gastro- oesophageal reflux disease Flatulence | Eructation Delayed gastric emptying | Acute pancreatitis     |                                                            | Intestinal obstructi on d,f |
-| Hepatobiliar y disorders                              |                                                          |                                                                                                                             | Cholelithiasi s                     |                        |                                                            |                             |
-| General disorders and administrati on site conditions |                                                          | Fatigue                                                                                                                     |                                     |                        |                                                            |                             |
+| MedDRA system organ class          | Very common                                              | Common                                                                                                                      | Uncommon                            | Rare                   | Very Rare                                                  | Not known                   |
+|------------------------------------|----------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------|-------------------------------------|------------------------|------------------------------------------------------------|-----------------------------|
+| Immune system disorders            |                                                          |                                                                                                                             | Hypersensiti vity c                 | Anaphylact ic reaction |                                                            |                             |
+| Metabolism and nutrition disorders | Hypoglyc aemia when used with insulin or sulfonylur ea a | Hypoglycae mia when used with other oral antidiabetic products a Decreased appetite                                         |                                     |                        |                                                            |                             |
+| Nervous system disorders           |                                                          | Dizziness Dysaesthesia e Headache                                                                                           | Dysgeusia                           |                        |                                                            |                             |
+| Eye disorders                      |                                                          | Diabetic retinopathy complication s b                                                                                       |                                     |                        | Non- arteritic anterior ischaemic optic neuropathy (NAION) |                             |
+| Cardiac disorders                  |                                                          |                                                                                                                             | Increased heart rate                |                        |                                                            |                             |
+| Gastrointesti nal disorders        | Nausea Diarrhoea                                         | Vomiting Abdominal pain Abdominal distension Constipation Dyspepsia Gastritis Gastro- oesophageal reflux disease Flatulence | Eructation Delayed gastric emptying | Acute pancreatitis     |                                                            | Intestinal obstructi on d,f |
+| Hepatobiliar y disorders           |                                                          |                                                                                                                             | Cholelithiasi s                     |                        |                                                            |                             |
 
 <div style=\"page-break-after: always\"></div>
 
-| MedDRA system organ class   | Very common   | Common                             | Uncommon         | Rare   | Very Rare   | Not known   |
-|-----------------------------|---------------|------------------------------------|------------------|--------|-------------|-------------|
-| Investigation s             |               | Increased lipase Increased amylase | Weight decreased |        |             |             |
-
-a)  Hypoglycaemia defined as blood glucose &lt; 3.0 mmol/L or &lt; 54 mg/dL.
-
-b) Diabetic retinopathy complications are a composite of retinal photocoagulation, treatment with intravitreal agents, vitreous haemorrhage and diabetes-related blindness (uncommon). Frequency is based on the cardiovascular outcomes trial with subcutaneous semaglutide, but it cannot be excluded that the risk of diabetic retinopathy complications identified also applies to Rybelsus.
-
-c) Grouped term covering also adverse events related to hypersensitivity such as rash and urticaria.
-
-d)  From post-marketing reports.
-
-e)  The frequency is based on the PIONEER PLUS trial results for 25 mg and 50 mg. Please refer to dysaesthesia subheading below for more information.
-
-f) Grouped term covering PTs 'intestinal obstruction', 'ileus', 'small intestinal obstruction'.
+| MedDRA system organ class                             | Very common   | Common                             | Uncommon         | Rare   | Very Rare   | Not known   |
+|-------------------------------------------------------|---------------|------------------------------------|------------------|--------|-------------|-------------|
+| General disorders and administrati on site conditions |               | Fatigue                            |                  |        |             |             |
+| Investigation s                                       |               | Increased lipase Increased amylase | Weight decreased |        |             |             |
 
 ## Description of selected adverse reactions
 
@@ -324,15 +316,17 @@ In PIONEER PLUS when treated with semaglutide 25 mg and 50 mg nausea occurred in
 
 Most events were mild to moderate in severity and of short duration. The events were most frequently reported during dose escalation the first months on treatment.
 
+Patients with gastroparesis may experience more serious or severe gastrointestinal effects when treated with semaglutide.
+
 Acute pancreatitis confirmed by adjudication has been reported in phase 3a trials, semaglutide (&lt; 0.1%) and comparator (0.2%). In the cardiovascular outcomes trial PIONEER 6 the frequency of acute pancreatitis confirmed by adjudication was 0.1% for semaglutide and 0.2% for placebo (see section 4.4.). In phase 3b cardiovascular outcomes trial SOUL, the frequency of acute pancreatitis confirmed by adjudication was 0.4% for semaglutide and 0.4% for placebo.
 
 ## Diabetic retinopathy complications
 
-A 2-year clinical trial with subcutaneous semaglutide investigated 3 297 patients with type 2 diabetes, with high cardiovascular risk, long duration of diabetes and poorly controlled blood glucose. In this trial, adjudicated events of diabetic retinopathy complications occurred in more patients treated with subcutaneous semaglutide (3.0%) compared to placebo (1.8%). This was observed in insulin-treated patients with known diabetic retinopathy. The treatment difference appeared early and persisted throughout the trial. Systematic evaluation of diabetic retinopathy complication was only performed in the cardiovascular outcomes trial with subcutaneous semaglutide. In clinical trials with Rybelsus of up to 18 months duration involving 6 352 patients with type 2 diabetes, adverse events related to diabetic
+A 2-year clinical trial with subcutaneous semaglutide investigated 3 297 patients with type 2 diabetes, with high cardiovascular risk, long duration of diabetes and poorly controlled blood glucose. In this trial, adjudicated events of diabetic retinopathy complications occurred in more patients treated with subcutaneous semaglutide (3.0%) compared to placebo (1.8%). This was observed in insulin-treated
 
 <div style=\"page-break-after: always\"></div>
 
-retinopathy were reported in similar proportions in subjects treated with semaglutide (4.2%) and comparators (3.8%).
+patients with known diabetic retinopathy. The treatment difference appeared early and persisted throughout the trial. Systematic evaluation of diabetic retinopathy complication was only performed in the cardiovascular outcomes trial with subcutaneous semaglutide. In clinical trials with Rybelsus of up to 18 months duration involving 6 352 patients with type 2 diabetes, adverse events related to diabetic retinopathy were reported in similar proportions in subjects treated with semaglutide (4.2%) and comparators (3.8%).
 
 ## Non-arteritic anterior ischaemic optic neuropathy (NAION)
 
@@ -364,11 +358,11 @@ Effects of overdose with semaglutide in clinical studies may be associated with 
 
 Pharmacotherapeutic group: Drugs used in diabetes, Glucagon-like peptide-1 (GLP-1) analogues, ATC code: A10BJ06
 
+<div style=\"page-break-after: always\"></div>
+
 ## Mechanism of action
 
 Semaglutide is a GLP-1 analogue with 94% sequence homology to human GLP-1. Semaglutide acts as a GLP-1 receptor agonist that selectively binds to and activates the GLP-1 receptor, the target for native GLP-1.
-
-<div style=\"page-break-after: always\"></div>
 
 GLP-1 is a physiological hormone that has multiple actions in glucose and appetite regulation, and in the cardiovascular system. The glucose and appetite effects are specifically mediated via GLP-1 receptors in the pancreas and the brain.
 
@@ -400,13 +394,11 @@ Semaglutide causes a minor delay in early postprandial gastric emptying, with pa
 
 Semaglutide compared to placebo lowered fasting triglyceride and very-low-density lipoproteins (VLDL) cholesterol concentrations by 19% [8; 28] and 20% [5; 33], respectively. The postprandial triglyceride and VLDL cholesterol response to a high fat meal was reduced by 24% [9; 36] and 21% [7; 32], respectively. ApoB48 was reduced both in fasting and postprandial state by 25% [2; 42] and 30% [15; 43], respectively.
 
-## Clinical efficacy and safety
-
-The efficacy and safety of Rybelsus have been evaluated in eight global randomised controlled phase 3a trials. Phase 3a studies were conducted with tablets containing 3 mg, 7 mg and 14 mg semaglutide which are bioequivalent to 1.5 mg, 4 mg and 9 mg semaglutide, respectively. In seven trials, the
-
 <div style=\"page-break-after: always\"></div>
 
-primary objective was the assessment of the glycaemic efficacy; in one trial (PIONEER 6), the primary objective was the assessment of cardiovascular outcomes.
+## Clinical efficacy and safety
+
+The efficacy and safety of Rybelsus have been evaluated in eight global randomised controlled phase 3a trials. Phase 3a studies were conducted with tablets containing 3 mg, 7 mg and 14 mg semaglutide which are bioequivalent to 1.5 mg, 4 mg and 9 mg semaglutide, respectively. In seven trials, the primary objective was the assessment of the glycaemic efficacy; in one trial (PIONEER 6), the primary objective was the assessment of cardiovascular outcomes.
 
 The trials included 8 842 randomised patients with type 2 diabetes (5 169 treated with semaglutide), including 1 165 patients with moderate renal impairment. Patients had an average age of 61 years (range 18 to 92 years), with 40% of patients ≥ 65 years of age and 8% ≥ 75 years of age. The efficacy of semaglutide was compared with placebo or active controls (sitagliptin, empagliflozin and liraglutide).
 
@@ -420,7 +412,7 @@ The efficacy of semaglutide was not impacted by baseline age, gender, race, ethn
 
 In a 26-week double-blind trial, 703 patients with type 2 diabetes inadequately controlled with diet and exercise were randomised to semaglutide 3 mg, semaglutide 7 mg, semaglutide 14 mg or placebo once daily.
 
-## Table 2 Results of a 26-week monotherapy trial comparing semaglutide with placebo (PIONEER 1)
+Table 2 Results of a 26-week monotherapy trial comparing semaglutide with placebo (PIONEER 1)
 
 |                                      | Semaglutide 7 mg 2 (Bioequivalent to 4 mg)   | Semaglutide 14 mg 2 (Bioequivalent to 9 mg)   | Placebo   |
 |--------------------------------------|----------------------------------------------|-----------------------------------------------|-----------|
@@ -441,11 +433,11 @@ In a 26-week double-blind trial, 703 patients with type 2 diabetes inadequately 
 
 1 Irrespective of treatment discontinuation or initiation of rescue medication (pattern mixture model using multiple imputation).  * p&lt; 0.001 (unadjusted 2-sided) for superiority, controlled for multiplicity. § p&lt; 0.05, not controlled for multiplicity; for 'Patients achieving HbA1c &lt; 7.0%', the p-value is for the odds ratio.  2  Bioequivalence has been confirmed between 4 mg and 7 mg doses, as well as, between 9 mg and 14 mg doses, see section 5.2 Pharmacokinetic properties.
 
-## PIONEER 2 - Semaglutide vs. empagliflozin, both in combination with metformin
+<div style=\"page-break-after: always\"></div>
+
+PIONEER 2 - Semaglutide vs. empagliflozin, both in combination with metformin
 
 In a 52-week open-label trial, 822 patients with type 2 diabetes were randomised to semaglutide 14 mg once daily or empagliflozin 25 mg once daily, both in combination with metformin.
-
-<div style=\"page-break-after: always\"></div>
 
 Table 3 Results of a 52-week trial comparing semaglutide with empagliflozin (PIONEER 2)
 
@@ -494,13 +486,13 @@ Table 4 Results of a 78-week trial comparing semaglutide with sitagliptin (PIONE
 | Patients (%) achieving HbA 1c < 7.0%   | 44 §                                         | 56 §                                          | 32                   |
 | FPG (mmol/L)                           |                                              |                                               |                      |
 | Baseline                               | 9.4                                          | 9.3                                           | 9.5                  |
-| Change from baseline 1                 | - 1.2                                        | - 1.7                                         | - 0.9                |
-| Difference from sitagliptin 1 [95% CI] | - 0.3 [ - 0.6; 0.0] §                        | - 0.8 [ - 1.1; - 0.5] §                       | -                    |
 
 <div style=\"page-break-after: always\"></div>
 
 |                                        | Semaglutide 7 mg 2 (Bioequivalent to 4 mg)   | Semaglutide 14 mg 2 (Bioequivalent to 9 mg)   | Sitagliptin 100 mg   |
 |----------------------------------------|----------------------------------------------|-----------------------------------------------|----------------------|
+| Change from baseline 1                 | - 1.2                                        | - 1.7                                         | - 0.9                |
+| Difference from sitagliptin 1 [95% CI] | - 0.3 [ - 0.6; 0.0] §                        | - 0.8 [ - 1.1; - 0.5] §                       | -                    |
 | Body weight (kg)                       |                                              |                                               |                      |
 | Baseline                               | 91.3                                         | 91.2                                          | 90.9                 |
 | Change from baseline 1                 | - 2.2                                        | - 3.1                                         | - 0.6                |
@@ -546,13 +538,13 @@ Table 5 Results of a 52-week trial comparing semaglutide with liraglutide and pl
 | HbA 1c (%)                             |                                               |                      |           |
 | Change from baseline 1                 | - 1.2                                         | - 0.9                | - 0.2     |
 | Difference from liraglutide 1 [95% CI] | - 0.3 [ - 0.5; - 0.1] §                       | -                    | -         |
-| Difference from placebo 1 [95% CI]     | - 1.0 [ - 1.2; - 0.8] §                       | -                    | -         |
-| Patients (%) achieving HbA 1c < 7.0%   | 61 §,a                                        | 55                   | 15        |
 
 <div style=\"page-break-after: always\"></div>
 
 |                                        | Semaglutide 14 mg 2 (Bioequivalent to 9 mg)   | Liraglutide 1.8 mg   | Placebo   |
 |----------------------------------------|-----------------------------------------------|----------------------|-----------|
+| Difference from placebo 1 [95% CI]     | - 1.0 [ - 1.2; - 0.8] §                       | -                    | -         |
+| Patients (%) achieving HbA 1c < 7.0%   | 61 §,a                                        | 55                   | 15        |
 | Body weight (kg)                       |                                               |                      |           |
 | Change from baseline 1                 | - 4.3                                         | - 3.0                | - 1.0     |
 | Difference from liraglutide 1 [95% CI] | - 1.3 [ - 2.1; - 0.5] §                       | -                    | -         |
@@ -583,7 +575,7 @@ Table 6 Results of a 26-week trial comparing semaglutide with placebo in patient
 
 1 Irrespective of treatment discontinuation or initiation of rescue medication (pattern mixture model using multiple imputation).  * p&lt; 0.001 (unadjusted 2-sided) for superiority, controlled for multiplicity. § p&lt; 0.05, not controlled for multiplicity; for 'Patients achieving HbA1c &lt; 7.0%', the p-value is for the odds ratio.  2  Bioequivalence has been confirmed between 9 mg and 14 mg doses, see section 5.2 Pharmacokinetic properties.
 
-## PIONEER 7 - Semaglutide vs. sitagliptin, both in combination with metformin, SGLT2 inhibitors, sulfonylurea or thiazolidinediones. Flexible-dose-adjustment trial
+PIONEER 7 - Semaglutide vs. sitagliptin, both in combination with metformin, SGLT2 inhibitors, sulfonylurea or thiazolidinediones. Flexible-dose-adjustment trial
 
 In a 52-week open-label trial, 504 patients with type 2 diabetes were randomised to semaglutide (flexible dose adjustment of 3 mg, 7 mg, and 14 mg once daily) or sitagliptin 100 mg once daily, all in combination with 1-2 oral glucose-lowering medicinal products (metformin, SGLT2 inhibitors, sulfonylurea or thiazolidinediones). The dose of semaglutide was adjusted every 8 weeks based on patient's glycaemic response and tolerability. The sitagliptin 100 mg dose was fixed. The efficacy and safety of semaglutide were evaluated at week 52.
 
@@ -650,39 +642,11 @@ In a 68-week double-blinded clinical trial 1 606 patients with type 2 diabetes o
 
 Treatment with semaglutide 25 mg and 50 mg once daily was superior in reducing HbA1c and body weight compared to semaglutide 14 mg (see Table 9). Week 68 data support a sustained effect of oral semaglutide 14 mg, 25 mg and 50 mg on HbA1c and body weight (see Figure 1).
 
+Figure 1 Mean HbA1c and mean body weight (kg) from baseline to week 68
+
 <!-- image -->
 
-0
-
-4
-
-8
-
-121620
-
-26
-
-32
-
-38
-
-44
-
-52
-
-Time since randomisation (weeks)
-
-Oral sema 14 mg
-
-Oral sema 25 mg
-
-60
-
-68
-
-Oral sema 50 mg
-
-Figure 1 Mean HbA1c and mean body weight (kg) from baseline to week 68
+<!-- image -->
 
 Table 9 Results of a 52-week trial comparing semaglutide 25 mg and 50 mg with semaglutide 14 mg (PIONEER PLUS)
 
@@ -704,22 +668,6 @@ Table 9 Results of a 52-week trial comparing semaglutide 25 mg and 50 mg with se
 | Baseline                                  | 96.4                                          | 96.6                       | 96.1                       |
 | Change from baseline 1                    | - 4.4                                         | - 6.7                      | -8.0                       |
 | Difference from Rybelsus 14 mg 1 [95% CI] |                                               | - 2.32 [ - 3.11: - 1.53]*  | - 3.63 [ - 4.42; - 2.84]*  |
-
-98
-
-96
-
-94
-
-92
-
-90
-
-88
-
-86
-
-Body Weight (kg)
 
 <div style=\"page-break-after: always\"></div>
 
@@ -767,7 +715,11 @@ Figure 2: Time from randomisation to first MACE Cumulative incidence function pl
 | MALE                            | 0.71 [0.52; 0.96] | 71/4 825; 99/4 825                                         |
 | All-cause death                 | 0.91 [0.80; 1.02] | 528/4 825; 577/4 825                                       |
 
+0.6
+
 0.8
+
+1.0
 
 Data from the in-trial period and based on full analysis set. Time from randomisation to each endpoint was analysed using a Cox proportional hazards model with treatment as categorical fixed factor. Subjects without events of interest were censored at the end of their in-trial period. For the primary endpoint the HR and CI were adjusted for the group sequential design using likelihood ratio ordering. CV death includes both cardiovascular death and undetermined cause of death.
 
@@ -1121,7 +1073,7 @@ Cases of pulmonary aspiration have been reported in patients receiving GLP-1 rec
 
 ## Gastrointestinal effects and dehydration
 
-Use of GLP-1 receptor agonists may be associated with gastrointestinal adverse reactions that can cause dehydration, which in rare cases can lead to a deterioration of renal function (see section 4.8). Patients treated with semaglutide should be advised of the potential risk of dehydration in relation to gastrointestinal side effects and take precautions to avoid fluid depletion.
+Use of GLP-1 receptor agonists may be associated with gastrointestinal adverse reactions. This should be considered when treating patients with impaired renal function, as nausea, vomiting, and diarrhoea may cause dehydration, which in rare cases can lead to a deterioration of renal function (see section 4.8). Patients treated with semaglutide should be advised of the potential risk of dehydration in relation to gastrointestinal side effects and take precautions to avoid fluid depletion.
 
 ## Acute pancreatitis
 
@@ -1135,13 +1087,17 @@ Patients treated with semaglutide in combination with a sulfonylurea or insulin 
 
 In patients with diabetic retinopathy treated with insulin and subcutaneous semaglutide, an increased risk of developing diabetic retinopathy complications has been observed, a risk that cannot be excluded for orally administered semaglutide (see section 4.8). Caution should be exercised when using semaglutide in patients with diabetic retinopathy. These patients should be monitored closely and treated according to clinical guidelines. Rapid improvement in glucose control has been associated with a temporary worsening of diabetic retinopathy, but other mechanisms cannot be excluded. Longterm glycaemic control decreases the risk of diabetic retinopathy.
 
-There is no experience with oral semaglutide 25 mg and 50 mg in patients with type 2 diabetes with uncontrolled or potentially unstable diabetic retinopathy.
-
 <div style=\"page-break-after: always\"></div>
+
+There is no experience with oral semaglutide 25 mg and 50 mg in patients with type 2 diabetes with uncontrolled or potentially unstable diabetic retinopathy.
 
 ## Non-arteritic anterior ischaemic optic neuropathy (NAION)
 
 Data from epidemiological studies indicates an increased risk for non-arteritic anterior ischaemic optic neuropathy (NAION) during treatment with semaglutide. There is no identified time interval for when NAION may develop following treatment start. A sudden loss of vision should lead to ophthalmological examination and treatment with semaglutide should be discontinued if NAION is confirmed (see section 4.8).
+
+## Patients with gastroparesis
+
+Semaglutide treated patients with gastroparesis may experience more serious or severe gastrointestinal adverse events. Semaglutide should be used with caution in these patients, and semaglutide is not recommended if gastroparesis is severe (see section 4.8).
 
 ## Treatment response
 
@@ -1169,13 +1125,13 @@ Semaglutide did not change the AUC or Cmax of R- and S-warfarin following a sing
 
 AUC of rosuvastatin was increased by 41% [90% CI: 24;60] when co-administered with semaglutide. Based on the wide therapeutic index of rosuvastatin the magnitude of changes in the exposure is not considered clinically relevant.
 
+<div style=\"page-break-after: always\"></div>
+
 ## Digoxin, oral contraceptives, metformin, furosemide
 
 No clinically relevant change in AUC or Cmax of digoxin, oral contraceptives (containing ethinylestradiol and levonorgestrel), metformin or furosemide was observed when concurrently administered with semaglutide.
 
 Interactions with medicinal products with very low bioavailability (1%) have not been evaluated.
-
-<div style=\"page-break-after: always\"></div>
 
 ## Effects of other medicinal products on semaglutide
 
@@ -1209,13 +1165,13 @@ Semaglutide has no or negligible influence on the ability to drive and use machi
 
 When it is used in combination with a sulfonylurea or insulin, patients should be advised to take precautions to avoid hypoglycaemia while driving and using machines (see section 4.4).
 
+<div style=\"page-break-after: always\"></div>
+
 ## 4.8 Undesirable effects
 
 ## Summary of the safety profile
 
 In 10 phase 3a trials, 5 707 patients were exposed to semaglutide alone or in combination with other glucose-lowering medicinal products. The duration of the treatment ranged from 26 weeks to 78 weeks. The most frequently reported adverse reactions in clinical trials were gastrointestinal disorders, including nausea (very common), diarrhoea (very common) and vomiting (common).
-
-<div style=\"page-break-after: always\"></div>
 
 ## Tabulated list of adverse reactions
 
@@ -1225,35 +1181,23 @@ The reactions are listed below by system organ class and absolute frequency. Fre
 
 Table 1 Frequency of adverse reactions of oral semaglutide
 
-| MedDRA system organ class          | Very common                                              | Common                                                                                                                      | Uncommon                            | Rare                   | Very Rare                                                  | Not known                   |
-|------------------------------------|----------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------|-------------------------------------|------------------------|------------------------------------------------------------|-----------------------------|
-| Immune system disorders            |                                                          |                                                                                                                             | Hypersensiti vity c                 | Anaphylact ic reaction |                                                            |                             |
-| Metabolism and nutrition disorders | Hypoglyc aemia when used with insulin or sulfonylur ea a | Hypoglycae mia when used with other oral antidiabetic products a Decreased appetite                                         |                                     |                        |                                                            |                             |
-| Nervous system disorders           |                                                          | Dizziness Dysaesthesia e Headache                                                                                           | Dysgeusia                           |                        |                                                            |                             |
-| Eye disorders                      |                                                          | Diabetic retinopathy complication s b                                                                                       |                                     |                        | Non- arteritic anterior ischaemic optic neuropathy (NAION) |                             |
-| Cardiac disorders                  |                                                          |                                                                                                                             | Increased heart rate                |                        |                                                            |                             |
-| Gastrointesti nal disorders        | Nausea Diarrhoea                                         | Vomiting Abdominal pain Abdominal distension Constipation Dyspepsia Gastritis Gastro- oesophageal reflux disease Flatulence | Eructation Delayed gastric emptying | Acute pancreatitis     |                                                            | Intestinal obstructi on d,f |
-| Hepatobiliar y disorders           |                                                          |                                                                                                                             | Cholelithiasi s                     |                        |                                                            |                             |
-| General disorders                  |                                                          | Fatigue                                                                                                                     |                                     |                        |                                                            |                             |
+| MedDRA system organ class          | Very common                                              | Common                                                                              | Uncommon                            | Rare                   | Very Rare                                                  | Not known                   |
+|------------------------------------|----------------------------------------------------------|-------------------------------------------------------------------------------------|-------------------------------------|------------------------|------------------------------------------------------------|-----------------------------|
+| Immune system disorders            |                                                          |                                                                                     | Hypersensiti vity c                 | Anaphylact ic reaction |                                                            |                             |
+| Metabolism and nutrition disorders | Hypoglyc aemia when used with insulin or sulfonylur ea a | Hypoglycae mia when used with other oral antidiabetic products a Decreased appetite |                                     |                        |                                                            |                             |
+| Nervous system disorders           |                                                          | Dizziness Dysaesthesia e Headache                                                   | Dysgeusia                           |                        |                                                            |                             |
+| Eye disorders                      |                                                          | Diabetic retinopathy complication s b                                               |                                     |                        | Non- arteritic anterior ischaemic optic neuropathy (NAION) |                             |
+| Cardiac disorders                  |                                                          |                                                                                     | Increased heart rate                |                        |                                                            |                             |
+| Gastrointesti nal disorders        | Nausea Diarrhoea                                         | Vomiting Abdominal pain Abdominal distension Constipation Dyspepsia Gastritis       | Eructation Delayed gastric emptying | Acute pancreatitis     |                                                            | Intestinal obstructi on d,f |
 
 <div style=\"page-break-after: always\"></div>
 
-| MedDRA system organ class           | Very common   | Common                             | Uncommon         | Rare   | Very Rare   | Not known   |
-|-------------------------------------|---------------|------------------------------------|------------------|--------|-------------|-------------|
-| and administrati on site conditions |               |                                    |                  |        |             |             |
-| Investigation s                     |               | Increased lipase Increased amylase | Weight decreased |        |             |             |
-
-a)  Hypoglycaemia defined as blood glucose &lt; 3.0 mmol/L or &lt; 54 mg/dL.
-
-b) Diabetic retinopathy complications are a composite of retinal photocoagulation, treatment with intravitreal agents, vitreous haemorrhage and diabetes-related blindness (uncommon). Frequency is based on the cardiovascular outcomes trial with subcutaneous semaglutide, but it cannot be excluded that the risk of diabetic retinopathy complications identified also applies to Rybelsus.
-
-c) Grouped term covering also adverse events related to hypersensitivity such as rash and urticaria.
-
-d)  From post-marketing reports.
-
-e)  The frequency is based on the PIONEER PLUS trial results for 25 mg and 50 mg. Please refer to dysaesthesia subheading below for more information.
-
-f) Grouped term covering PTs 'intestinal obstruction', 'ileus', 'small intestinal obstruction'.
+| MedDRA system organ class                             | Very common   | Common                                        | Uncommon         | Rare   | Very Rare   | Not known   |
+|-------------------------------------------------------|---------------|-----------------------------------------------|------------------|--------|-------------|-------------|
+|                                                       |               | Gastro- oesophageal reflux disease Flatulence |                  |        |             |             |
+| Hepatobiliar y disorders                              |               |                                               | Cholelithiasi s  |        |             |             |
+| General disorders and administrati on site conditions |               | Fatigue                                       |                  |        |             |             |
+| Investigation s                                       |               | Increased lipase Increased amylase            | Weight decreased |        |             |             |
 
 ## Description of selected adverse reactions
 
@@ -1269,15 +1213,15 @@ In PIONEER PLUS when treated with semaglutide 25 mg and 50 mg nausea occurred in
 
 Most events were mild to moderate in severity and of short duration. The events were most frequently reported during dose escalation the first months on treatment.
 
+Patients with gastroparesis may experience more serious or severe gastrointestinal effects when treated with semaglutide.
+
 Acute pancreatitis confirmed by adjudication has been reported in phase 3a trials, semaglutide (&lt; 0.1%) and comparator (0.2%). In the cardiovascular outcomes trial PIONEER 6 the frequency of acute pancreatitis confirmed by adjudication was 0.1% for semaglutide and 0.2% for placebo (see section 4.4.). In phase 3b cardiovascular outcomes trial SOUL, the frequency of acute pancreatitis confirmed by adjudication was 0.4% for semaglutide and 0.4% for placebo.
-
-## Diabetic retinopathy complications
-
-A 2-year clinical trial with subcutaneous semaglutide investigated 3 297 patients with type 2 diabetes, with high cardiovascular risk, long duration of diabetes and poorly controlled blood glucose. In this trial, adjudicated events of diabetic retinopathy complications occurred in more patients treated with subcutaneous semaglutide (3.0%) compared to placebo (1.8%). This was observed in insulin-treated patients with known diabetic retinopathy. The treatment difference appeared early and persisted throughout the trial. Systematic evaluation of diabetic retinopathy complication was only performed in the cardiovascular outcomes trial with subcutaneous semaglutide. In clinical trials with Rybelsus of up to 18 months duration involving 6 352 patients with type 2 diabetes, adverse events related to diabetic
 
 <div style=\"page-break-after: always\"></div>
 
-retinopathy were reported in similar proportions in subjects treated with semaglutide (4.2%) and comparators (3.8%).
+## Diabetic retinopathy complications
+
+A 2-year clinical trial with subcutaneous semaglutide investigated 3 297 patients with type 2 diabetes, with high cardiovascular risk, long duration of diabetes and poorly controlled blood glucose. In this trial, adjudicated events of diabetic retinopathy complications occurred in more patients treated with subcutaneous semaglutide (3.0%) compared to placebo (1.8%). This was observed in insulin-treated patients with known diabetic retinopathy. The treatment difference appeared early and persisted throughout the trial. Systematic evaluation of diabetic retinopathy complication was only performed in the cardiovascular outcomes trial with subcutaneous semaglutide. In clinical trials with Rybelsus of up to 18 months duration involving 6 352 patients with type 2 diabetes, adverse events related to diabetic retinopathy were reported in similar proportions in subjects treated with semaglutide (4.2%) and comparators (3.8%).
 
 ## Non-arteritic anterior ischaemic optic neuropathy (NAION)
 
@@ -1303,6 +1247,8 @@ Reporting suspected adverse reactions after authorisation of the medicinal produ
 
 Effects of overdose with semaglutide in clinical studies may be associated with gastrointestinal disorders. In the event of overdose, appropriate supportive treatment should be initiated according to the patient's clinical signs and symptoms. A prolonged period of observation and treatment of the symptoms may be necessary, taking into account the long half-life of semaglutide of approximately 1 week (see section 5.2). There is no specific antidote for overdose with semaglutide.
 
+<div style=\"page-break-after: always\"></div>
+
 ## 5. PHARMACOLOGICAL PROPERTIES
 
 ## 5.1 Pharmacodynamic properties
@@ -1312,8 +1258,6 @@ Pharmacotherapeutic group: Drugs used in diabetes, Glucagon-like peptide-1 (GLP-
 ## Mechanism of action
 
 Semaglutide is a GLP-1 analogue with 94% sequence homology to human GLP-1. Semaglutide acts as a GLP-1 receptor agonist that selectively binds to and activates the GLP-1 receptor, the target for native GLP-1.
-
-<div style=\"page-break-after: always\"></div>
 
 GLP-1 is a physiological hormone that has multiple actions in glucose and appetite regulation, and in the cardiovascular system. The glucose and appetite effects are specifically mediated via GLP-1 receptors in the pancreas and the brain.
 
@@ -1341,17 +1285,15 @@ Semaglutide lowers the postprandial glucagon concentrations. In patients with ty
 
 Semaglutide causes a minor delay in early postprandial gastric emptying, with paracetamol exposure (AUC0-1h) 31% [13; 46] lower in the first hour after the meal, thereby reducing the rate at which glucose appears in the circulation postprandially.
 
+<div style=\"page-break-after: always\"></div>
+
 ## Fasting and postprandial lipids
 
 Semaglutide compared to placebo lowered fasting triglyceride and very-low-density lipoproteins (VLDL) cholesterol concentrations by 19% [8; 28] and 20% [5; 33], respectively. The postprandial triglyceride and VLDL cholesterol response to a high fat meal was reduced by 24% [9; 36] and 21% [7; 32], respectively. ApoB48 was reduced both in fasting and postprandial state by 25% [2; 42] and 30% [15; 43], respectively.
 
 ## Clinical efficacy and safety
 
-The efficacy and safety of Rybelsus have been evaluated in eight global randomised controlled phase 3a trials. Phase 3a studies were conducted with tablets containing 3 mg, 7 mg and 14 mg semaglutide which are bioequivalent to 1.5 mg, 4 mg and 9 mg semaglutide, respectively. In seven trials, the
-
-<div style=\"page-break-after: always\"></div>
-
-primary objective was the assessment of the glycaemic efficacy; in one trial (PIONEER 6), the primary objective was the assessment of cardiovascular outcomes.
+The efficacy and safety of Rybelsus have been evaluated in eight global randomised controlled phase 3a trials. Phase 3a studies were conducted with tablets containing 3 mg, 7 mg and 14 mg semaglutide which are bioequivalent to 1.5 mg, 4 mg and 9 mg semaglutide, respectively. In seven trials, the primary objective was the assessment of the glycaemic efficacy; in one trial (PIONEER 6), the primary objective was the assessment of cardiovascular outcomes.
 
 The trials included 8 842 randomised patients with type 2 diabetes (5 169 treated with semaglutide), including 1 165 patients with moderate renal impairment. Patients had an average age of 61 years (range 18 to 92 years), with 40 % of patients ≥ 65 years of age and 8 % ≥ 75 years of age. The efficacy of semaglutide was compared with placebo or active controls (sitagliptin, empagliflozin and liraglutide).
 
@@ -1382,13 +1324,18 @@ Table 2 Results of a 26-week monotherapy trial comparing semaglutide with placeb
 | Body weight (kg)                     |                         |                         |           |
 | Baseline                             | 89.0                    | 88.1                    | 88.6      |
 | Change from baseline 1               | - 2.3                   | - 3.7                   | - 1.4     |
-| Difference from placebo 1 [95% CI]   | - 0.9 [ - 1.9; 0.1]     | - 2.3 [ - 3.1; - 1.5]*  | -         |
+
+<div style=\"page-break-after: always\"></div>
+
+|                                    | Semaglutide 7 mg    | Semaglutide 14 mg      | Placebo   |
+|------------------------------------|---------------------|------------------------|-----------|
+| Difference from placebo 1 [95% CI] | - 0.9 [ - 1.9; 0.1] | - 2.3 [ - 3.1; - 1.5]* | -         |
 
 1 Irrespective of treatment discontinuation or initiation of rescue medication (pattern mixture model using multiple imputation).  * p&lt; 0.001 (unadjusted 2-sided) for superiority, controlled for multiplicity. § p&lt; 0.05, not controlled for multiplicity; for 'Patients achieving HbA1c &lt; 7.0%', the p-value is for the odds ratio.
 
-PIONEER 2 - Semaglutide vs. empagliflozin, both in combination with metformin In a 52-week open-label trial, 822 patients with type 2 diabetes were randomised to semaglutide 14 mg once daily or empagliflozin 25 mg once daily, both in combination with metformin.
+## PIONEER 2 - Semaglutide vs. empagliflozin, both in combination with metformin
 
-<div style=\"page-break-after: always\"></div>
+In a 52-week open-label trial, 822 patients with type 2 diabetes were randomised to semaglutide 14 mg once daily or empagliflozin 25 mg once daily, both in combination with metformin.
 
 Table 3 Results of a 52-week trial comparing semaglutide with empagliflozin (PIONEER 2)
 
@@ -1426,12 +1373,17 @@ In a 78-week, double-blind, double-dummy trial, 1 864 patients with type 2 diabe
 
 Table 4 Results of a 78-week trial comparing semaglutide with sitagliptin (PIONEER 3)
 
+|                       | Semaglutide 7 mg   | Semaglutide 14 mg   | Sitagliptin 100 mg   |
+|-----------------------|--------------------|---------------------|----------------------|
+| Full analysis set (N) | 465                | 465                 | 467                  |
+| Week 26               |                    |                     |                      |
+| HbA 1c (%)            |                    |                     |                      |
+| Baseline              | 8.4                | 8.3                 | 8.3                  |
+
+<div style=\"page-break-after: always\"></div>
+
 |                                        | Semaglutide 7 mg        | Semaglutide 14 mg       | Sitagliptin 100 mg   |
 |----------------------------------------|-------------------------|-------------------------|----------------------|
-| Full analysis set (N)                  | 465                     | 465                     | 467                  |
-| Week 26                                |                         |                         |                      |
-| HbA 1c (%)                             |                         |                         |                      |
-| Baseline                               | 8.4                     | 8.3                     | 8.3                  |
 | Change from baseline 1                 | - 1.0                   | - 1.3                   | - 0.8                |
 | Difference from sitagliptin 1 [95% CI] | - 0.3 [ - 0.4; - 0.1] * | - 0.5 [ - 0.6; - 0.4] * | -                    |
 | Patients (%) achieving HbA 1c < 7.0%   | 44 §                    | 56 §                    | 32                   |
@@ -1439,11 +1391,6 @@ Table 4 Results of a 78-week trial comparing semaglutide with sitagliptin (PIONE
 | Baseline                               | 9.4                     | 9.3                     | 9.5                  |
 | Change from baseline 1                 | - 1.2                   | - 1.7                   | - 0.9                |
 | Difference from sitagliptin 1 [95% CI] | - 0.3 [ - 0.6; 0.0] §   | - 0.8 [ - 1.1; - 0.5] § | -                    |
-
-<div style=\"page-break-after: always\"></div>
-
-|                                        | Semaglutide 7 mg        | Semaglutide 14 mg       | Sitagliptin 100 mg   |
-|----------------------------------------|-------------------------|-------------------------|----------------------|
 | Body weight (kg)                       |                         |                         |                      |
 | Baseline                               | 91.3                    | 91.2                    | 90.9                 |
 | Change from baseline 1                 | - 2.2                   | - 3.1                   | - 0.6                |
@@ -1486,6 +1433,11 @@ Table 5 Results of a 52-week trial comparing semaglutide with liraglutide and pl
 | Difference from liraglutide 1 [95% CI] | - 1.2 [ - 1.9; - 0.6]*  | -                    | -         |
 | Difference from placebo 1 [95% CI]     | - 3.8 [ - 4.7; - 3.0]*  | -                    | -         |
 | Week 52                                |                         |                      |           |
+
+<div style=\"page-break-after: always\"></div>
+
+|                                        | Semaglutide 14 mg       | Liraglutide 1.8 mg   | Placebo   |
+|----------------------------------------|-------------------------|----------------------|-----------|
 | HbA 1c (%)                             |                         |                      |           |
 | Change from baseline 1                 | - 1.2                   | - 0.9                | - 0.2     |
 | Difference from liraglutide 1 [95% CI] | - 0.3 [ - 0.5; - 0.1] § | -                    | -         |
@@ -1493,11 +1445,6 @@ Table 5 Results of a 52-week trial comparing semaglutide with liraglutide and pl
 | Patients (%) achieving HbA 1c < 7.0%   | 61 §,a                  | 55                   | 15        |
 | Body weight (kg)                       |                         |                      |           |
 | Change from baseline 1                 | - 4.3                   | - 3.0                | - 1.0     |
-
-<div style=\"page-break-after: always\"></div>
-
-|                                        | Semaglutide 14 mg       | Liraglutide 1.8 mg   | Placebo   |
-|----------------------------------------|-------------------------|----------------------|-----------|
 | Difference from liraglutide 1 [95% CI] | - 1.3 [ - 2.1; - 0.5] § | -                    | -         |
 | Difference from placebo 1 [95% CI]     | - 3.3 [ - 4.3; - 2.4] § | -                    | -         |
 
@@ -1599,7 +1546,7 @@ Treatment with semaglutide 25 mg and 50 mg once daily was superior in reducing H
 
 8.0
 
-7.5
+7.5-
 
 7.0-
 
@@ -3012,11 +2959,23 @@ Store in the original blister package in order to protect from light and moistur
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
-Novo Nordisk A/S Novo Allé DK-2880 Bagsværd Denmark
+Novo Nordisk A/S
+
+Novo Allé
+
+DK-2880 Bagsværd
+
+Denmark
 
 ## 12. MARKETING AUTHORISATION NUMBERS
 
-EU/1/20/1430/036 10 tablets EU/1/20/1430/037 30 tablets EU/1/20/1430/038 60 tablets EU/1/20/1430/039 90 tablets
+EU/1/20/1430/036 10 tablets
+
+EU/1/20/1430/037 30 tablets
+
+EU/1/20/1430/038 60 tablets
+
+EU/1/20/1430/039 90 tablets
 
 EU/1/20/1430/040 100 tablets
 
@@ -3026,7 +2985,7 @@ Lot
 
 ## 14. GENERAL CLASSIFICATION FOR SUPPLY
 
-## 15. INSTRUCTIONS ON USE
+15. INSTRUCTIONS ON USE
 
 ## 16. INFORMATION IN BRAILLE
 
@@ -3168,11 +3127,15 @@ If the treatment response with semaglutide is lower than expected, this may be d
 
 If you notice a sudden loss of vision or rapidly worsening eyesight during treatment with this medicine, immediately contact your doctor for advice. This may be caused by a very rare side effect called non- arteritic anterior ischaemic optic neuropathy (NAION) (See section 4: Serious side effects). Your doctor may refer you for an eye examination and you may have to stop treatment with this medicine.
 
+## Patients with delayed stomach emptying (gastroparesis)
+
+If you have slow (delayed) stomach emptying (called gastroparesis), use of Rybelsus may lead to serious or severe gastrointestinal adverse events. Talk to your doctor before using Rybelsus.
+
+<div style=\"page-break-after: always\"></div>
+
 ## Children and adolescents
 
 This medicine is not recommended in children and adolescents aged under 18 years as the safety and efficacy in this age group have not been established.
-
-<div style=\"page-break-after: always\"></div>
 
 ## Other medicines and Rybelsus
 
@@ -3247,7 +3210,7 @@ Like all medicines, this medicine can cause side effects, although not everybody
 
 ## Serious side effects
 
-Common (may affect up to 1 in 10 people)
+## Common (may affect up to 1 in 10 people)
 
 - complications of diabetic eye disease (retinopathy). You should tell your doctor if you get eye problems, such as changes in vision, during treatment with this medicine.
 
@@ -3445,11 +3408,15 @@ If the treatment response with semaglutide is lower than expected, this may be d
 
 If you notice a sudden loss of vision or rapidly worsening eyesight during treatment with this medicine, immediately contact your doctor for advice. This may be caused by a very rare side effect called non- arteritic anterior ischaemic optic neuropathy (NAION) (See section 4: Serious side effects). Your doctor may refer you for an eye examination and you may have to stop treatment with this medicine.
 
+## Patients with delayed stomach emptying (gastroparesis)
+
+If you have slow (delayed) stomach emptying (called gastroparesis), use of Rybelsus may lead to serious or severe gastrointestinal adverse events. Talk to your doctor before using Rybelsus.
+
+<div style=\"page-break-after: always\"></div>
+
 ## Children and adolescents
 
 This medicine is not recommended in children and adolescents aged under 18 years as the safety and efficacy in this age group have not been established.
-
-<div style=\"page-break-after: always\"></div>
 
 ## Other medicines and Rybelsus
 
@@ -3489,11 +3456,11 @@ Always take this medicine exactly as your doctor has told you. Check with your d
 
 - The starting dose is one 3 mg tablet once a day for one month.
 - After one month, your doctor will increase your dose to one 7 mg tablet once a day.
-- Your doctor will instruct you to stay on a dose for minimum one month before increasing to a higher dose.
-- Your doctor may step-wise increase your dose to one 14 mg, 25 mg or 50 mg tablet once a day if needed.
 
 <div style=\"page-break-after: always\"></div>
 
+- Your doctor will instruct you to stay on a dose for minimum one month before increasing to a higher dose.
+- Your doctor may step-wise increase your dose to one 14 mg, 25 mg or 50 mg tablet once a day if needed.
 - Your doctor will prescribe the strength that is right for you. Do not change your dose unless your doctor has told you so.
 - Rybelsus should always be taken as one tablet per day. You should not take two tablets to get the effect of a higher dose.
 
@@ -3523,7 +3490,7 @@ Like all medicines, this medicine can cause side effects, although not everybody
 
 ## Serious side effects
 
-Common (may affect up to 1 in 10 people)
+## Common (may affect up to 1 in 10 people)
 
 - complications of diabetic eye disease (retinopathy). You should tell your doctor if you get eye problems, such as changes in vision, during treatment with this medicine.
 
@@ -3536,11 +3503,11 @@ Common (may affect up to 1 in 10 people)
 
 - A medical condition of the eye called non-arteritic anterior ischaemic optic neuropathy (NAION), which may cause loss of vision to one of your eyes without any pain. You should immediately contact your doctor if you notice sudden or gradually worsening eyesight (see section 2: 'Sudden changes to your eyesight')
 
+<div style=\"page-break-after: always\"></div>
+
 ## Not known (frequency cannot be estimated from the available data)
 
 - bowel obstruction. A severe form of constipation with additional symptoms such as stomach ache, bloating, vomiting etc.
-
-<div style=\"page-break-after: always\"></div>
 
 ## Other side effects
 
@@ -3550,9 +3517,7 @@ Common (may affect up to 1 in 10 people)
 - feeling sick (nausea) - this usually goes away over time
 - diarrhoea - this usually goes away over time.
 
-The warning signs of low blood sugar may come on suddenly. They can include: cold sweat, cool pale skin, headache, fast heartbeat, feeling sick (nausea) or very hungry, changes in vision, feeling sleepy or weak, feeling nervous, anxious or confused, difficulty concentrating or shaking.
-
-Your doctor will tell you how to treat low blood sugar and what to do if you notice these warning signs.
+The warning signs of low blood sugar may come on suddenly. They can include: cold sweat, cool pale skin, headache, fast heartbeat, feeling sick (nausea) or very hungry, changes in vision, feeling sleepy or weak, feeling nervous, anxious or confused, difficulty concentrating or shaking. Your doctor will tell you how to treat low blood sugar and what to do if you notice these warning signs.
 
 ## Common (may affect up to 1 in 10 people)
 

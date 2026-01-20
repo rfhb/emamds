@@ -1,20 +1,20 @@
 ---
-document_datetime: 2024-09-30 11:42:09
-document_pages: 57
+document_datetime: 2026-01-19 11:47:46
+document_pages: 59
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/zercepac-epar-product-information_en.pdf
 document_name: zercepac-epar-product-information_en.pdf
 version: success
-processing_time: 37.4025756
-conversion_datetime: 2025-12-15 20:34:20.696409
+processing_time: 20.4974271
+conversion_datetime: 2026-01-20 20:09:09.664362
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.64.1
-  docling-core: 2.55.0
+  docling-serve: 1.10.0
+  docling-jobkit: 1.8.1
+  docling: 2.69.0
+  docling-core: 2.60.0
   docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-parse: 4.7.3
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.1-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
 ---
 ## ANNEX I
 
@@ -32,7 +32,7 @@ Zercepac 60 mg powder for concentrate for solution for infusion Zercepac 150 mg 
 
 ## 2. QUALITATIVE AND QUANTITATIVE COMPOSITION
 
-Zercepac 60 mg powder for concentrate for solution for infusion
+## Zercepac 60 mg powder for concentrate for solution for infusion
 
 One vial contains 60 mg of trastuzumab, a humanised IgG1 monoclonal antibody produced by mammalian (Chinese hamster ovary) cell suspension culture and purified by affinity and ion exchange chromatography including specific viral inactivation and removal procedures.
 
@@ -46,6 +46,10 @@ One vial contains 420 mg of trastuzumab, a humanised IgG1 monoclonal antibody pr
 
 The reconstituted Zercepac solution contains 21 mg/mL of trastuzumab.
 
+## Excipient with known effect
+
+Each 60 mg vial contains 0.24 mg of polysorbate 20 Each 150 mg vial contains 0.6 mg of polysorbate 20 Each 420 mg vial contains 1.7 of polysorbate 20
+
 For the full list of excipients, see section 6.1.
 
 ## 3. PHARMACEUTICAL FORM
@@ -54,17 +58,17 @@ Powder for concentrate for solution for infusion.
 
 White to pale yellow lyophilised powder.
 
+<div style=\"page-break-after: always\"></div>
+
 ## 4. CLINICAL PARTICULARS
 
 ## 4.1 Therapeutic indications
 
-Breast cancer
+## Breast cancer
 
 ## Metastatic breast cancer
 
 Zercepac is indicated for the treatment of adult patients with HER2 positive metastatic breast cancer (MBC):
-
-<div style=\"page-break-after: always\"></div>
 
 - -as monotherapy for the treatment of those patients who have received at least two chemotherapy regimens for their metastatic disease. Prior chemotherapy must have included at least an anthracycline and a taxane unless patients are unsuitable for these treatments. Hormone receptor positive patients must also have failed hormonal therapy, unless patients are unsuitable for these treatments.
 - -in combination with paclitaxel for the treatment of those patients who have not received chemotherapy for their metastatic disease and for whom an anthracycline is not suitable.
@@ -80,7 +84,7 @@ Zercepac is indicated for the treatment of adult patients with HER2 positive ear
 - -in combination with adjuvant chemotherapy consisting of docetaxel and carboplatin.
 - -in combination with neoadjuvant chemotherapy followed by adjuvant Zercepac therapy, for locally advanced (including inflammatory) disease or tumours &gt; 2 cm in diameter (see sections 4.4 and 5.1).
 
-Zercepac should only be used in patients with metastatic or early breast cancer whose tumours have either HER2 overexpression or HER2 gene amplification as determined by an accurate and validated assay (see sections 4.4 and 5.1).
+Zercepac should only be used in patients with  metastatic or early breast cancer whose tumours have either HER2 overexpression or HER2 gene amplification as determined by an accurate and validated assay (see sections 4.4 and 5.1).
 
 ## Metastatic gastric cancer
 
@@ -88,13 +92,13 @@ Zercepac in combination with capecitabine or 5-fluorouracil and cisplatin is ind
 
 Zercepac should only be used in patients with metastatic gastric cancer (MGC) whose tumours have HER2 overexpression as defined by IHC2+ and a confirmatory SISH or FISH result, or by an IHC 3+ result. Accurate and validated assay methods should be used (see sections 4.4 and 5.1).
 
+<div style=\"page-break-after: always\"></div>
+
 ## 4.2 Posology and method of administration
 
 HER2 testing is mandatory prior to initiation of therapy (see sections 4.4 and 5.1). Zercepac treatment should only be initiated by a physician experienced in the administration of cytotoxic chemotherapy (see section 4.4) and should be administered by a healthcare professional only.
 
 Zercepac intravenous formulation is not intended for subcutaneous administration and should be administered via an intravenous infusion only.
-
-<div style=\"page-break-after: always\"></div>
 
 In order to prevent medication errors, it is important to check the vial labels to ensure that the medicinal product being prepared and administered is Zercepac (trastuzumab) and not another trastuzumab-containing product (e.g. trastuzumab emtansine or trastuzumab deruxtecan).
 
@@ -128,6 +132,8 @@ As a weekly regimen (initial loading dose of 4 mg/kg followed by 2 mg/kg every w
 
 See section 5.1 for chemotherapy combination dosing.
 
+<div style=\"page-break-after: always\"></div>
+
 ## Metastatic gastric cancer
 
 ## Three-weekly schedule
@@ -139,8 +145,6 @@ The recommended initial loading dose is 8 mg/kg body weight. The recommended mai
 ## Duration of treatment
 
 Patients with MBC or MGC should be treated with Zercepac until progression of disease.
-
-<div style=\"page-break-after: always\"></div>
 
 Patients with EBC should be treated with Zercepac for 1 year or until disease recurrence, whichever occurs first; extending treatment in EBC beyond one year is not recommended (see section 5.1).
 
@@ -166,20 +170,20 @@ There is no relevant use of Zercepac in the paediatric population.
 
 ## Method of administration
 
-Zercepac is for intravenous use only. The loading dose should be administered as a 90-minute intravenous infusion. Do not administer as an intravenous push or bolus. Zercepac intravenous infusion should be administered by a healthcare provider prepared to manage anaphylaxis and an emergency kit should be available. Patients should be observed for at least six hours after the start of the first infusion and for two hours after the start of the subsequent infusions for symptoms like fever and chills or other infusion-related symptoms (see sections 4.4 and 4.8). Interruption or slowing the rate of the infusion may help control such symptoms. The infusion may be resumed when symptoms abate.
-
-If the initial loading dose was well tolerated, the subsequent doses can be administered as a 30-minute infusion.
-
-For instructions on reconstitution of Zercepac intravenous formulation before administration, see
+Zercepac is for intravenous use only. The loading dose should be administered as a 90-minute
 
 <div style=\"page-break-after: always\"></div>
 
-section 6.6.
+intravenous infusion. Do not administer as an intravenous push or bolus. Zercepac intravenous infusion should be administered by a healthcare provider prepared to manage anaphylaxis and an emergency kit should be available. Patients should be observed for at least six hours after the start of the first infusion and for two hours after the start of the subsequent infusions for symptoms like fever and chills or other infusion-related symptoms (see sections 4.4 and 4.8). Interruption or slowing the rate of the infusion may help control such symptoms. The infusion may be resumed when symptoms abate.
+
+If the initial loading dose was well tolerated, the subsequent doses can be administered as a 30-minute infusion.
+
+For instructions on reconstitution of Zercepac intravenous formulation before administration, see section 6.6.
 
 ## 4.3 Contraindications
 
-- Hypersensitivity to trastuzumab, murine proteins, or to any of the excipients listed in section 6.1
-- Severe dyspnoea at rest due to complications of advanced malignancy or requiring supplementary oxygen therapy.
+-  Hypersensitivity to trastuzumab, murine proteins, or to any of the excipients listed in section 6.1
+-  Severe dyspnoea at rest due to complications of advanced malignancy or requiring supplementary oxygen therapy.
 
 ## 4.4 Special warnings and precautions for use
 
@@ -199,11 +203,13 @@ Patients treated with Zercepac are at increased risk for developing CHF (New Yor
 
 All candidates for treatment with Zercepac, but especially those with prior anthracycline and cyclophosphamide (AC) exposure, should undergo baseline cardiac assessment including history and physical examination, electrocardiogram (ECG), echocardiogram, and/or multigated acquisition (MUGA) scan or magnetic resonance imaging. Monitoring may help to identify patients who develop cardiac dysfunction. Cardiac assessments, as performed at baseline, should be repeated every 3 months during treatment and every 6 months following discontinuation of treatment until 24 months from the last administration of Zercepac. A careful risk-benefit assessment should be made before deciding to treat with Zercepac.
 
-Trastuzumab may persist in the circulation for up to 7 months after stopping Zercepac treatment based on population pharmacokinetic analysis of all available data (see section 5.2). Patients who receive anthracyclines after stopping Zercepac may possibly be at increased risk of cardiac dysfunction. If possible, physicians should avoid anthracycline-based therapy for up to 7 months after stopping Zercepac. If anthracyclines are used, the patient's cardiac function should be monitored carefully.
-
-Formal cardiological assessment should be considered in patients in whom there are cardiovascular concerns following baseline screening. In all patients cardiac function should be monitored during treatment (e.g. every 12 weeks). Monitoring may help to identify patients who develop cardiac dysfunction. Patients who develop asymptomatic cardiac dysfunction may benefit from more frequent monitoring (e.g. every 6 - 8 weeks). If patients have a continued decrease in left ventricular function, but remain asymptomatic, the physician should consider discontinuing therapy if no clinical benefit of Zercepac therapy has been seen.
+Trastuzumab may persist in the circulation for up to 7 months after stopping Zercepac treatment based on population pharmacokinetic analysis of all available data (see section 5.2). Patients who receive
 
 <div style=\"page-break-after: always\"></div>
+
+anthracyclines after stopping Zercepac may possibly be at increased risk of cardiac dysfunction. If possible, physicians should avoid anthracycline-based therapy for up to 7 months after stopping Zercepac. If anthracyclines are used, the patient's cardiac function should be monitored carefully.
+
+Formal cardiological assessment should be considered in patients in whom there are cardiovascular concerns following baseline screening. In all patients cardiac function should be monitored during treatment (e.g. every 12 weeks). Monitoring may help to identify patients who develop cardiac dysfunction. Patients who develop asymptomatic cardiac dysfunction may benefit from more frequent monitoring (e.g. every 6 - 8 weeks). If patients have a continued decrease in left ventricular function, but remain asymptomatic, the physician should consider discontinuing therapy if no clinical benefit of Zercepac therapy has been seen.
 
 The safety of continuation or resumption of Zercepac in patients who experience cardiac dysfunction has not been prospectively studied. If LVEF percentage drops ≥ 10 points from baseline AND to below 50%, treatment should be suspended and a repeat LVEF assessment performed within approximately 3 weeks. If LVEF has not improved, or declined further, or symptomatic CHF has developed, discontinuation of Zercepac should be strongly considered, unless the benefits for the individual patient are deemed to outweigh the risks. All such patients should be referred for assessment by a cardiologist and followed up.
 
@@ -225,13 +231,11 @@ Patients with history of myocardial infarction (MI), angina pectoris requiring m
 
 Zercepac and anthracyclines should not be given concurrently in combination in the adjuvant treatment setting.
 
-In patients with EBC an increase in the incidence of symptomatic and asymptomatic cardiac events was observed when trastuzumab was administered after anthracycline-containing chemotherapy compared to administration with a non-anthracycline regimen of docetaxel and carboplatin and was more marked when trastuzumab was administered concurrently with taxanes than when administered sequentially to taxanes. Regardless of the regimen used, most symptomatic cardiac events occurred within the first 18 months. In one of the 3 pivotal studies conducted in which a median follow-up of 5.5 years was available (BCIRG006) a continuous increase in the cumulative rate of symptomatic cardiac or LVEF events was observed in patients who were administered trastuzumab concurrently with a taxane following anthracycline therapy up to 2.37% compared to approximately 1% in the two comparator arms (anthracycline plus cyclophosphamide followed by taxane and taxane, carboplatin and trastuzumab).
-
-Risk factors for a cardiac event identified in four large adjuvant studies included advanced age
-
 <div style=\"page-break-after: always\"></div>
 
-(&gt;50 years), low LVEF (&lt;55%) at baseline, prior to or following the initiation of paclitaxel treatment, decline in LVEF by 10-15 points, and prior or concurrent use of anti-hypertensive medicinal products. In patients receiving trastuzumab after completion of adjuvant chemotherapy, the risk of cardiac dysfunction was associated with a higher cumulative dose of anthracycline given prior to initiation of trastuzumab and a body mass index (BMI) &gt;25 kg/m 2 .
+In patients with EBC an increase in the incidence of symptomatic and asymptomatic cardiac events was observed when trastuzumab was administered after anthracycline-containing chemotherapy compared to administration with a non-anthracycline regimen of docetaxel and carboplatin and was more marked when trastuzumab was administered concurrently with taxanes than when administered sequentially to taxanes. Regardless of the regimen used, most symptomatic cardiac events occurred within the first 18 months. In one of the 3 pivotal studies conducted in which a median follow-up of 5.5 years was available (BCIRG006) a continuous increase in the cumulative rate of symptomatic cardiac or LVEF events was observed in patients who were administered trastuzumab concurrently with a taxane following anthracycline therapy up to 2.37% compared to approximately 1% in the two comparator arms (anthracycline plus cyclophosphamide followed by taxane and taxane, carboplatin and trastuzumab).
+
+Risk factors for a cardiac event identified in four large adjuvant studies included advanced age (&gt;50 years), low LVEF (&lt;55%) at baseline, prior to or following the initiation of paclitaxel treatment, decline in LVEF by 10-15 points, and prior or concurrent use of anti-hypertensive medicinal products. In patients receiving trastuzumab after completion of adjuvant chemotherapy, the risk of cardiac dysfunction was associated with a higher cumulative dose of anthracycline given prior to initiation of trastuzumab and a body mass index (BMI) &gt;25 kg/m 2 .
 
 ## Neoadjuvant-adjuvant treatment
 
@@ -249,17 +253,35 @@ In the pivotal trial BO22227, trastuzumab was administered concurrently with neo
 
 Clinical experience is limited in patients above 65 years of age.
 
+<div style=\"page-break-after: always\"></div>
+
 ## Infusion-related reactions (IRRs) and hypersensitivity
 
 Serious IRRs to trastuzumab infusion including dyspnoea, hypotension, wheezing, hypertension, bronchospasm, supraventricular tachyarrhythmia, reduced oxygen saturation, anaphylaxis, respiratory distress, urticaria and angioedema have been reported (see section 4.8). Pre-medication may be used to reduce risk of occurrence of these events. The majority of these events occur during or within 2.5 hours of the start of the first infusion. Should an infusion reaction occur the infusion should be discontinued or the rate of infusion slowed and the patient should be monitored until resolution of all observed symptoms (see section 4.2). These symptoms can be treated with an analgesic/antipyretic such as meperidine or paracetamol, or an antihistamine such as diphenhydramine. The majority of patients experienced resolution of symptoms and subsequently received further infusions of trastuzumab. Serious reactions have been treated successfully with supportive therapy such as oxygen, beta- agonists, and corticosteroids. In rare cases, these reactions are associated with a clinical course culminating in a fatal outcome. Patients experiencing dyspnoea at rest due to complications of advanced malignancy and comorbidities may be at increased risk of a fatal infusion reaction. Therefore, these patients should not be treated with Zercepac (see section 4.3).
 
 Initial improvement followed by clinical deterioration and delayed reactions with rapid clinical deterioration have also been reported. Fatalities have occurred within hours and up to one week following infusion. On very rare occasions, patients have experienced the onset of infusion symptoms and pulmonary symptoms more than six hours after the start of the trastuzumab infusion. Patients should be warned of the possibility of such a late onset and should be instructed to contact their physician if these symptoms occur.
 
-<div style=\"page-break-after: always\"></div>
-
 ## Pulmonary events
 
 Severe pulmonary events have been reported with the use of trastuzumab in the post-marketing setting (see section 4.8). These events have occasionally been fatal. In addition, cases of interstitial lung disease including lung infiltrates, acute respiratory distress syndrome, pneumonia, pneumonitis, pleural effusion, respiratory distress, acute pulmonary oedema and respiratory insufficiency have been reported. Risk factors associated with interstitial lung disease include prior or concomitant therapy with other anti-neoplastic therapies known to be associated with it such as taxanes, gemcitabine, vinorelbine and radiation therapy. These events may occur as part of an infusion-related reaction or with a delayed onset. Patients experiencing dyspnoea at rest due to complications of advanced malignancy and comorbidities may be at increased risk of pulmonary events. Therefore, these patients should not be treated with Zercepac (see section 4.3). Caution should be exercised for pneumonitis, especially in patients being treated concomitantly with taxanes.
+
+## Excipient with known effect
+
+## Sodium
+
+Zercepac contains less than 1 mmol sodium (23 mg) per dose, that is to say essentially sodium-free.
+
+## Polysorbate 20
+
+Zercepac contains 0.24 mg of polysorbate 20 in each 60 mg vial, which is equivalent to 0.08 mg/mL (after reconstitution with 3.0 mL sterile water for injection).
+
+Zercepac contains 0.6 mg of polysorbate 20 in each 150 mg vial, which is equivalent to 0.083 mg/mL (after reconstitution with 7.2 mL sterile water for injection)..
+
+Zercepac contains 1.7 mg of polysorbate 20 in each 420 mg vial, which is equivalent to 0.085 mg/mL (after reconstitution with 20.0 mL sterile water for injection).
+
+Polysorbates may cause allergic reactions.
+
+<div style=\"page-break-after: always\"></div>
 
 ## 4.5 Interaction with other medicinal products and other forms of interaction
 
@@ -267,7 +289,7 @@ No formal drug interaction studies have been performed. Clinically significant i
 
 ## Effect of trastuzumab on the pharmacokinetics of other antineoplastic agents
 
-Pharmacokinetic data from studies BO15935 and M77004 in women with HER2-positive MBC suggested that exposure to paclitaxel and doxorubicin (and their major metabolites 6α hydroxyl -paclitaxel, POH, and doxorubicinol, DOL) was not altered in the presence of trastuzumab (8 mg/kg or 4 mg/kg IV loading dose followed by 6 mg/kg q3w or 2 mg/kg q1w IV, respectively).
+Pharmacokinetic data from studies BO15935 and M77004 in women with HER2-positive MBC suggested that exposure to paclitaxel and doxorubicin (and their major metabolites 6-α hydroxylpaclitaxel, POH, and doxorubicinol, DOL) was not altered in the presence of trastuzumab (8 mg/kg or 4 mg/kg IV loading dose followed by 6 mg/kg q3w or 2 mg/kg q1w IV, respectively).
 
 However, trastuzumab may elevate the overall exposure of one doxorubicin metabolite, (7-deoxy-13 dihydro-doxorubicinone, D7D). The bioactivity of D7D and the clinical impact of the elevation of this metabolite was unclear.
 
@@ -279,15 +301,13 @@ Pharmacokinetic data from Study H4613g/GO01305 in patients with metastatic or lo
 
 By comparison of simulated serum trastuzumab concentrations after trastuzumab monotherapy (4 mg/kg loading/2 mg/kg q1w IV) and observed serum concentrations in Japanese women with HER2- positive MBC (study JP16003) no evidence of a PK effect of concurrent administration of docetaxel on the pharmacokinetics of trastuzumab was found.
 
-Comparison of PK results from two Phase II studies (BO15935 and M77004) and one Phase III study (H0648g) in which patients were treated concomitantly with trastuzumab and paclitaxel and two Phase II studies in which trastuzumab was administered as monotherapy (W016229 and MO16982), in women with HER2-positive MBC indicates that individual and mean trastuzumab trough serum concentrations varied within and across studies but there was no clear effect of the concomitant
-
-<div style=\"page-break-after: always\"></div>
-
-administration of paclitaxel on the pharmacokinetics of trastuzumab. Comparison of trastuzumab PK data from Study M77004 in which women with HER2-positive MBC were treated concomitantly with trastuzumab, paclitaxel and doxorubicin to trastuzumab PK data in studies where trastuzumab was administered as monotherapy (H0649g) or in combination with anthracycline plus cyclophosphamide or paclitaxel (Study H0648g), suggested no effect of doxorubicin and paclitaxel on the pharmacokinetics of trastuzumab.
+Comparison of PK results from two Phase II studies (BO15935 and M77004) and one Phase III study (H0648g) in which patients were treated concomitantly with trastuzumab and paclitaxel and two Phase II studies in which trastuzumab was administered as monotherapy (W016229 and MO16982), in women with HER2-positive MBC indicates that individual and mean trastuzumab trough serum concentrations varied within and across studies but there was no clear effect of the concomitant administration of paclitaxel on the pharmacokinetics of trastuzumab. Comparison of trastuzumab PK data from Study M77004 in which women with HER2-positive MBC were treated concomitantly with trastuzumab, paclitaxel and doxorubicin to trastuzumab PK data in studies where trastuzumab was administered as monotherapy (H0649g) or in combination with anthracycline plus cyclophosphamide or paclitaxel (Study H0648g), suggested no effect of doxorubicin and paclitaxel on the pharmacokinetics of trastuzumab.
 
 Pharmacokinetic data from Study H4613g/GO01305 suggested that carboplatin had no impact on the PK of trastuzumab.
 
 The administration of concomitant anastrozole did not appear to influence the pharmacokinetics of trastuzumab.
+
+<div style=\"page-break-after: always\"></div>
 
 ## 4.6 Fertility, pregnancy and lactation
 
@@ -311,11 +331,7 @@ There is no fertility data available.
 
 ## 4.7 Effects on ability to drive and use machines
 
-Zercepac has minor influence on the ability to drive or use machines (see section 4.8). Dizziness and somnolence may occur during treatment with Zercepac (see section 4.8).
-
-<div style=\"page-break-after: always\"></div>
-
-Patients experiencing infusion-related symptoms (see section 4.4) should be advised not to drive and use machines until symptoms abate.
+Zercepac has minor influence on the ability to drive or use machines (see section 4.8). Dizziness and somnolence may occur during treatment with Zercepac (see section 4.8). Patients experiencing infusion-related symptoms (see section 4.4) should be advised not to drive and use machines until symptoms abate.
 
 ## 4.8 Undesirable effects
 
@@ -323,9 +339,11 @@ Patients experiencing infusion-related symptoms (see section 4.4) should be advi
 
 Amongst the most serious and/or common adverse reactions reported in trastuzumab usage to date are cardiac dysfunction, infusion-related reactions, haematotoxicity (in particular neutropenia), infections and pulmonary adverse reactions.
 
+<div style=\"page-break-after: always\"></div>
+
 ## Tabulated list of adverse reactions
 
-In this section, the following categories of frequency have been used: very common ( ≥ 1/10), common ( ≥ 1/100 to &lt;1/10), uncommon ( ≥ 1/1,000 to &lt;1/100), rare ( ≥ 1/10,000 to &lt;1/1,000), very rare (&lt;1/10,000), not known (cannot be estimated from the available data). Within each frequency grouping, adverse reactions are presented in order of decreasing seriousness.
+In this section, the following categories of frequency have been used: very common (  1/10), common (  1/100 to &lt;1/10), uncommon ( ≥ 1/1,000 to &lt;1/100), rare ( ≥ 1/10,000 to &lt;1/1,000), very rare (&lt;1/10,000), not known (cannot be estimated from the available data). Within each frequency grouping, adverse reactions are presented in order of decreasing seriousness.
 
 Presented in Table 1 are adverse reactions that have been reported in association with the use of intravenous trastuzumab alone or in combination with chemotherapy in pivotal clinical trials and in the post-marketing setting.
 
@@ -333,169 +351,166 @@ All the terms included are based on the highest percentage seen in pivotal clini
 
 Table 1 Undesirable effects reported with intravenous trastuzumab monotherapy or in combination with chemotherapy in pivotal clinical trials (N = 8386) and in post-marketing
 
-| System organ class                                                   | Adverse reaction                            | Frequency   |
-|----------------------------------------------------------------------|---------------------------------------------|-------------|
-| Infections and infestations                                          | Infection                                   | Very common |
-| Infections and infestations                                          | Nasopharyngitis                             | Very common |
-| Infections and infestations                                          | Neutropenic sepsis                          | Common      |
-| Infections and infestations                                          | Cystitis                                    | Common      |
-| Infections and infestations                                          | Influenza                                   | Common      |
-| Infections and infestations                                          | Sinusitis                                   | Common      |
-| Infections and infestations                                          | Skin infection                              | Common      |
-| Infections and infestations                                          | Rhinitis                                    | Common      |
-| Infections and infestations                                          | Upper respiratory tract infection           | Common      |
-| Infections and infestations                                          | Urinary tract infection                     | Common      |
-| Infections and infestations                                          | Pharyngitis                                 | Common      |
-| Neoplasms benign, malignant and unspecified (incl. Cysts and polyps) | Malignant neoplasm progression              | Not known   |
-| Neoplasms benign, malignant and unspecified (incl. Cysts and polyps) | Neoplasm progression                        | Not known   |
-| Blood and lymphatic system disorders                                 | Febrile neutropenia                         | Very common |
-| Blood and lymphatic system disorders                                 | Anaemia                                     | Very common |
-| Blood and lymphatic system disorders                                 | Neutropenia                                 | Very common |
-| Blood and lymphatic system disorders                                 | White blood cell count decreased/leukopenia | Very common |
-| Blood and lymphatic system disorders                                 | Thrombocytopenia                            | Very common |
-| Blood and lymphatic system disorders                                 | Hypoprothrombinaemia                        | Not known   |
-| Blood and lymphatic system disorders                                 | Immune thrombocytopenia                     | Not known   |
-| Immune system disorders                                              | Hypersensitivity                            | Common      |
-| Immune system disorders                                              | + Anaphylactic reaction                     | Rare        |
-| Immune system disorders                                              | + Anaphylactic shock                        | Rare        |
-| Metabolism and nutrition disorders                                   | Weight decreased/Weight loss                | Very common |
-| Metabolism and nutrition disorders                                   | Anorexia                                    | Very common |
+| System organ class                                                   | Adverse reaction                                        | Frequency                                               |
+|----------------------------------------------------------------------|---------------------------------------------------------|---------------------------------------------------------|
+| Infections and infestations                                          | Infection                                               | Very common                                             |
+| Infections and infestations                                          | Nasopharyngitis                                         | Very common                                             |
+| Infections and infestations                                          | Neutropenic sepsis                                      | Common                                                  |
+| Infections and infestations                                          | Cystitis                                                | Common                                                  |
+| Infections and infestations                                          | Influenza                                               | Common                                                  |
+| Infections and infestations                                          | Sinusitis                                               | Common                                                  |
+| Infections and infestations                                          | Skin infection                                          | Common                                                  |
+| Infections and infestations                                          | Rhinitis                                                | Common                                                  |
+| Infections and infestations                                          | Upper respiratory tract infection                       | Common                                                  |
+| Infections and infestations                                          | Urinary tract infection                                 | Common                                                  |
+| Infections and infestations                                          | Pharyngitis                                             | Common                                                  |
+| Neoplasms benign, malignant and unspecified (incl. Cysts and polyps) | Malignant neoplasm progression                          | Not known                                               |
+| Neoplasms benign, malignant and unspecified (incl. Cysts and polyps) | Neoplasm progression                                    | Not known                                               |
+| Blood and lymphatic system disorders                                 | Febrile neutropenia                                     | Very common                                             |
+| Blood and lymphatic system disorders                                 | Anaemia                                                 | Very common                                             |
+| Blood and lymphatic system disorders                                 | Neutropenia                                             | Very common                                             |
+| Blood and lymphatic system disorders                                 | White blood cell count decreased/leukopenia Very common | White blood cell count decreased/leukopenia Very common |
+| Blood and lymphatic system disorders                                 | Thrombocytopenia                                        | Very common                                             |
+| Blood and lymphatic system disorders                                 | Hypoprothrombinaemia                                    | Not known                                               |
+| Blood and lymphatic system disorders                                 | Immune thrombocytopenia                                 | Not known                                               |
+| Immune system disorders                                              | Hypersensitivity                                        | Common                                                  |
+| Immune system disorders                                              | + Anaphylactic reaction                                 | Rare                                                    |
+| Immune system disorders                                              | + Anaphylactic shock                                    | Rare                                                    |
+| Metabolism and nutrition disorders                                   | Weight decreased/Weight loss                            | Very common                                             |
+| Metabolism and nutrition disorders                                   | Anorexia                                                | Very common                                             |
+| Metabolism and nutrition disorders                                   | Tumour lysis syndrome                                   | Not known                                               |
+| Metabolism and nutrition disorders                                   | Hyperkalaemia                                           | Not known                                               |
+| Psychiatric disorders                                                | Insomnia                                                | Very common                                             |
+| Psychiatric disorders                                                | Anxiety                                                 | Common                                                  |
+| Psychiatric disorders                                                | Depression                                              | Common                                                  |
+| Nervous system disorders                                             | 1 Tremor                                                | Very common                                             |
+| Nervous system disorders                                             | Dizziness                                               | Very common                                             |
+| Nervous system disorders                                             | Headache                                                | Very common                                             |
+| Nervous system disorders                                             | Paraesthesia                                            | Very common                                             |
+| Nervous system disorders                                             | Dysgeusia                                               | Very common                                             |
+| Nervous system disorders                                             | Peripheral neuropathy                                   | Common                                                  |
 
 <div style=\"page-break-after: always\"></div>
 
 | System organ class                              | Adverse reaction                      | Frequency   |
 |-------------------------------------------------|---------------------------------------|-------------|
-| System organ class                              | Tumour lysis syndrome                 | Not known   |
-| System organ class                              | Hyperkalaemia                         | Not known   |
-| Psychiatric disorders                           | Insomnia                              | Very common |
-| Psychiatric disorders                           | Anxiety                               | Common      |
-| Psychiatric disorders                           | Depression                            | Common      |
-| Nervous system disorders                        | 1 Tremor                              | Very common |
-| Nervous system disorders                        | Dizziness                             | Very common |
-| Nervous system disorders                        | Headache                              | Very common |
-| Nervous system disorders                        | Paraesthesia                          | Very common |
-| Nervous system disorders                        | Dysgeusia                             | Very common |
-| Nervous system disorders                        | Peripheral neuropathy                 | Common      |
-| Nervous system disorders                        | Hypertonia                            | Common      |
-| Nervous system disorders                        | Somnolence                            | Common      |
+|                                                 | Hypertonia                            | Common      |
+|                                                 | Somnolence                            | Common      |
 | Eye disorders                                   | Conjunctivitis                        | Very common |
-| Eye disorders                                   | Lacrimation increased                 | Very common |
-| Eye disorders                                   | Dry eye                               | Common      |
-| Eye disorders                                   | Papilloedema                          | Not known   |
-| Eye disorders                                   | Retinal haemorrhage                   | Not known   |
+|                                                 | Lacrimation increased                 | Very common |
+|                                                 | Dry eye                               | Common      |
+|                                                 | Papilloedema                          | Not known   |
+|                                                 | Retinal haemorrhage                   | Not known   |
 | Ear and labyrinth disorders                     | Deafness                              | Uncommon    |
 | Cardiac disorders                               | 1 Blood pressure decreased            | Very common |
-| Cardiac disorders                               | 1 Blood pressure increased            | Very common |
-| Cardiac disorders                               | 1 Heart beat irregular                | Very common |
-| Cardiac disorders                               | 1 Cardiac flutter                     | Very common |
-| Cardiac disorders                               | Ejection fraction decreased*          | Very common |
-| Cardiac disorders                               | + Cardiac failure (congestive)        | Common      |
-| Cardiac disorders                               | +1 Supraventricular tachyarrhythmia   | Common      |
-| Cardiac disorders                               | Cardiomyopathy                        | Common      |
-| Cardiac disorders                               | 1 Palpitation                         | Common      |
-| Cardiac disorders                               | Pericardial effusion                  | Uncommon    |
-| Cardiac disorders                               | Cardiogenic shock                     | Not known   |
-| Cardiac disorders                               | Gallop rhythm present                 | Not known   |
+|                                                 | 1 Blood pressure increased            | Very common |
+|                                                 | 1 Heart beat irregular                | Very common |
+|                                                 | 1 Cardiac flutter                     | Very common |
+|                                                 | Ejection fraction decreased*          | Very common |
+|                                                 | + Cardiac failure (congestive)        | Common      |
+|                                                 | +1 Supraventricular tachyarrhythmia   | Common      |
+|                                                 | Cardiomyopathy                        | Common      |
+|                                                 | 1 Palpitation                         | Common      |
+|                                                 | Pericardial effusion                  | Uncommon    |
+|                                                 | Cardiogenic shock                     | Not known   |
+|                                                 | Gallop rhythm present                 | Not known   |
 | Vascular disorders                              | Hot flush                             | Very common |
-| Vascular disorders                              | +1 Hypotension                        | Common      |
-| Vascular disorders                              | Vasodilatation                        | Common      |
+|                                                 | +1 Hypotension                        | Common      |
+|                                                 | Vasodilatation                        | Common      |
 | Respiratory, thoracic and mediastinal disorders | + Dyspnoea                            | Very common |
-| Respiratory, thoracic and mediastinal disorders | Cough                                 | Very common |
-| Respiratory, thoracic and mediastinal disorders | Epistaxis                             | Very common |
-| Respiratory, thoracic and mediastinal disorders | Rhinorrhoea                           | Very common |
-| Respiratory, thoracic and mediastinal disorders | + Pneumonia                           | Common      |
-| Respiratory, thoracic and mediastinal disorders | Asthma                                | Common      |
-| Respiratory, thoracic and mediastinal disorders | Lung disorder                         | Common      |
-| Respiratory, thoracic and mediastinal disorders | + Pleural effusion                    | Common      |
-| Respiratory, thoracic and mediastinal disorders | +1 Wheezing                           | Uncommon    |
-| Respiratory, thoracic and mediastinal disorders | Pneumonitis                           | Uncommon    |
-| Respiratory, thoracic and mediastinal disorders | + Pulmonary fibrosis                  | Not known   |
-| Respiratory, thoracic and mediastinal disorders | + Respiratory distress                | Not known   |
-| Respiratory, thoracic and mediastinal disorders | + Respiratory failure                 | Not known   |
-| Respiratory, thoracic and mediastinal disorders | + Lung infiltration                   | Not known   |
-| Respiratory, thoracic and mediastinal disorders | + Acute pulmonary oedema              | Not known   |
-| Respiratory, thoracic and mediastinal disorders | + Acute respiratory distress syndrome | Not known   |
-| Respiratory, thoracic and mediastinal disorders | + Bronchospasm                        | Not known   |
-| Respiratory, thoracic and mediastinal disorders | + Hypoxia                             | Not known   |
-| Respiratory, thoracic and mediastinal disorders | + Oxygen saturation decreased         | Not known   |
+|                                                 | Cough                                 | Very common |
+|                                                 | Epistaxis                             | Very common |
+|                                                 | Rhinorrhoea                           | Very common |
+|                                                 | + Pneumonia                           | Common      |
+|                                                 | Asthma                                | Common      |
+|                                                 | Lung disorder                         | Common      |
+|                                                 | + Pleural effusion                    | Common      |
+|                                                 | +1 Wheezing                           | Uncommon    |
+|                                                 | Pneumonitis                           | Uncommon    |
+|                                                 | + Pulmonary fibrosis                  | Not known   |
+|                                                 | + Respiratory distress                | Not known   |
+|                                                 | + Respiratory failure                 | Not known   |
+|                                                 | + Lung infiltration                   | Not known   |
+|                                                 | + Acute pulmonary oedema              | Not known   |
+|                                                 | + Acute respiratory distress syndrome | Not known   |
+|                                                 | + Bronchospasm                        | Not known   |
+|                                                 | + Hypoxia                             | Not known   |
+|                                                 | + Oxygen saturation decreased         | Not known   |
+|                                                 | Laryngeal oedema                      | Not known   |
+|                                                 | Orthopnoea                            | Not known   |
+|                                                 | Pulmonary oedema                      | Not known   |
+|                                                 | Interstitial lung disease             | Not known   |
+| Gastrointestinal disorders                      | Diarrhoea                             | Very common |
+|                                                 | Vomiting                              | Very common |
+|                                                 | Nausea                                | Very common |
+|                                                 | 1 Lip swelling                        | Very common |
+|                                                 | Abdominal pain                        | Very common |
+|                                                 | Dyspepsia                             | Very common |
+|                                                 | Constipation                          | Very common |
 
 <div style=\"page-break-after: always\"></div>
 
-| System organ class                       | Adverse reaction                            | Frequency   |
-|------------------------------------------|---------------------------------------------|-------------|
-|                                          | Laryngeal oedema                            | Not known   |
-|                                          | Orthopnoea                                  | Not known   |
-|                                          | Pulmonary oedema                            | Not known   |
-|                                          | Interstitial lung disease                   | Not known   |
-| Gastrointestinal disorders               | Diarrhoea                                   | Very common |
-|                                          | Vomiting                                    | Very common |
-|                                          | Nausea                                      | Very common |
-|                                          | 1 Lip swelling                              | Very common |
-|                                          | Abdominal pain                              | Very common |
-|                                          | Dyspepsia                                   | Very common |
-|                                          | Constipation                                | Very common |
-|                                          | Stomatitis                                  | Very common |
-|                                          | Haemorrhoids                                | Common      |
-|                                          | Dry mouth                                   | Common      |
-| Hepatobiliary disorders                  | Hepatocellular injury                       | Common      |
-|                                          | Hepatitis                                   | Common      |
-|                                          | Liver tenderness                            | Common      |
-|                                          | Jaundice                                    | Rare        |
-| Skin and subcutaneous tissue disorders   | Erythema                                    | Very common |
-|                                          | Rash                                        | Very common |
-|                                          | 1 Swelling face                             | Very common |
-|                                          | Alopecia                                    | Very common |
-|                                          | Nail disorder                               | Very common |
-|                                          | Palmar-plantar erythrodysaesthesia syndrome | Very common |
-|                                          | Acne                                        | Common      |
-|                                          | Dry skin                                    | Common      |
-|                                          | Ecchymosis                                  | Common      |
-|                                          | Hyperhydrosis                               | Common      |
-|                                          | Maculopapular rash                          | Common      |
-|                                          | Pruritus                                    | Common      |
-|                                          | Onychoclasis                                | Common      |
-|                                          | Dermatitis                                  | Common      |
-|                                          | Urticaria                                   | Uncommon    |
-|                                          | Angioedema                                  | Not known   |
-| Musculoskeletal and                      | Arthralgia                                  | Very common |
-| connective tissue disorders              | 1 Muscle tightness                          | Very common |
-|                                          | Myalgia                                     | Very common |
-|                                          | Arthritis                                   | Common      |
-|                                          | Back pain                                   | Common      |
-|                                          | Bone pain                                   | Common      |
-|                                          | Muscle spasms                               | Common      |
-|                                          | Neck Pain                                   | Common      |
-|                                          | Pain in extremity                           | Common      |
-| Renal and urinary disorders              | Renal disorder                              | Common      |
-|                                          | Glomerulonephritis membranous               | Not known   |
-|                                          | Glomerulonephropathy                        | Not known   |
-|                                          | Renal failure                               | Not known   |
-| Pregnancy, puerperium and                | Oligohydramnios                             | Not known   |
-| perinatal conditions                     | Renal hypoplasia                            | Not known   |
-|                                          | Pulmonary hypoplasia                        | Not known   |
-| Reproductive system and breast disorders | Breast inflammation/mastitis                | Common      |
+| System organ class                       | Adverse reaction                            | Frequency          |
+|------------------------------------------|---------------------------------------------|--------------------|
+|                                          | Stomatitis                                  | Very common        |
+|                                          | Haemorrhoids                                | Common             |
+|                                          | Dry mouth                                   | Common             |
+| Hepatobiliary disorders                  | Hepatocellular injury                       | Common             |
+|                                          | Hepatitis                                   | Common             |
+|                                          | Liver tenderness                            | Common             |
+|                                          | Jaundice                                    | Rare               |
+| Skin and subcutaneous tissue             | Erythema                                    | Very common        |
+| disorders                                | Rash                                        | Very common        |
+|                                          | 1 Swelling face                             | Very common        |
+|                                          | Alopecia                                    | Very common        |
+|                                          | Nail disorder                               | Very common        |
+|                                          | Palmar-plantar erythrodysaesthesia syndrome | Very common        |
+|                                          | Acne                                        | Common             |
+|                                          | Dry skin                                    | Common             |
+|                                          | Ecchymosis                                  | Common             |
+|                                          | Hyperhydrosis                               | Common             |
+|                                          | Maculopapular rash                          | Common             |
+|                                          | Pruritus                                    | Common             |
+|                                          | Onychoclasis                                | Common             |
+|                                          | Dermatitis                                  | Common             |
+|                                          | Urticaria                                   | Uncommon           |
+| Musculoskeletal and                      | Arthralgia                                  | Very common        |
+| connective tissue disorders              | 1 Muscle tightness                          | Very common        |
+|                                          | Myalgia                                     | Very common        |
+|                                          | Arthritis                                   | Common             |
+|                                          | Back pain                                   | Common             |
+|                                          | Bone pain                                   | Common             |
+|                                          | Muscle spasms                               | Common             |
+|                                          | Neck Pain                                   | Common             |
+|                                          | Pain in extremity                           | Common             |
+| Renal and urinary disorders              | Renal disorder                              | Common             |
+|                                          | Glomerulonephritis membranous               | Not known          |
+|                                          | Glomerulonephropathy                        | Not known          |
+|                                          | Renal failure                               | Not known          |
+| Pregnancy, puerperium and                | Oligohydramnios                             | Not known          |
+| perinatal conditions                     | Renal hypoplasia                            | Not known          |
+|                                          | Pulmonary hypoplasia                        | Not known          |
+| Reproductive system and breast disorders | Breast inflammation/mastitis                | Common             |
+| General disorders and                    | Asthenia                                    | Very common        |
+| administration site conditions           | Chest pain                                  | Very common        |
+|                                          | Chills                                      | Very common        |
+|                                          | Fatigue                                     | Very common        |
+|                                          | Influenza-like symptoms                     | Very common        |
+|                                          | Infusion related reaction                   | Very common        |
+|                                          | Pain                                        | Very common        |
+|                                          | Pyrexia                                     | Very common        |
+|                                          | Mucosal inflammation                        | Very common        |
+|                                          | Peripheral oedema Malaise                   | Very common Common |
 
 <div style=\"page-break-after: always\"></div>
 
-| System organ class                                   | Adverse reaction          | Frequency   |
-|------------------------------------------------------|---------------------------|-------------|
-| General disorders and administration site conditions | Asthenia                  | Very common |
-| General disorders and administration site conditions | Chest pain                | Very common |
-| General disorders and administration site conditions | Chills                    | Very common |
-| General disorders and administration site conditions | Fatigue                   | Very common |
-| General disorders and administration site conditions | Influenza-like symptoms   | Very common |
-| General disorders and administration site conditions | Infusion related reaction | Very common |
-| General disorders and administration site conditions | Pain                      | Very common |
-| General disorders and administration site conditions | Pyrexia                   | Very common |
-| General disorders and administration site conditions | Mucosal inflammation      | Very common |
-| General disorders and administration site conditions | Peripheral oedema         | Very common |
-| General disorders and administration site conditions | Malaise                   | Common      |
-| General disorders and administration site conditions | Oedema                    | Common      |
-| Injury, poisoning and procedural complications       | Contusion                 | Common      |
+| System organ class                             | Adverse reaction   | Frequency   |
+|------------------------------------------------|--------------------|-------------|
+|                                                | Oedema             | Common      |
+| Injury, poisoning and procedural complications | Contusion          | Common      |
 
 + Denotes adverse reactions that have been reported in association with a fatal outcome.
 - 1 Denotes adverse reactions that are reported largely in association with Infusion-related reactions. Specific percentages for these are not available.
-
 * Observed with combination therapy following anthracyclines and combined with taxanes
 
 ## Description of selected adverse reactions
@@ -512,13 +527,15 @@ Reversibility of severe CHF (defined as a sequence of at least two consecutive L
 
 In the pivotal metastatic trials of intravenous trastuzumab, the incidence of cardiac dysfunction varied between 9% and 12% when it was combined with paclitaxel compared with 1%-4% for paclitaxel alone. For monotherapy, the rate was 6% - 9%. The highest rate of cardiac dysfunction was seen in patients receiving trastuzumab concurrently with anthracycline/cyclophosphamide (27%), and was significantly higher than for anthracycline/cyclophosphamide alone (7%-10%). In a subsequent trial with prospective monitoring of cardiac function, the incidence of symptomatic CHF was 2.2% in patients receiving trastuzumab and docetaxel, compared with 0% in patients receiving docetaxel alone.
 
-<div style=\"page-break-after: always\"></div>
-
 Most of the patients (79%) who developed cardiac dysfunction in these trials experienced an improvement after receiving standard treatment for CHF.
 
 ## Infusion reactions, allergic-like reactions and hypersensitivity
 
-It is estimated that approximately 40% of patients who are treated with trastuzumab will experience some form of infusion-related reaction. However, the majority of infusion-related reactions are mild to moderate in intensity (NCI-CTC grading system) and tend to occur earlier in treatment, i.e. during infusions one, two and three and lessen in frequency in subsequent infusions. Reactions include chills, fever, dyspnoea, hypotension, wheezing, bronchospasm, tachycardia, reduced oxygen saturation, respiratory distress, rash, nausea, vomiting and headache (see section 4.4). The rate of infusion-related reactions of all grades varied between studies depending on the indication, the data collection methodology, and whether trastuzumab was given concurrently with chemotherapy or as monotherapy.
+It is estimated that approximately 40% of patients who are treated with trastuzumab will experience some form of infusion-related reaction. However, the majority of infusion-related reactions are mild to moderate in intensity (NCI-CTC grading system) and tend to occur earlier in treatment, i.e. during infusions one, two and three and lessen in frequency in subsequent infusions. Reactions include chills, fever, dyspnoea, hypotension, wheezing, bronchospasm, tachycardia, reduced oxygen saturation,
+
+<div style=\"page-break-after: always\"></div>
+
+respiratory distress, rash, nausea, vomiting and headache (see section 4.4). The rate of infusion-related reactions of all grades varied between studies depending on the indication, the data collection methodology, and whether trastuzumab was given concurrently with chemotherapy or as monotherapy.
 
 Severe anaphylactic reactions requiring immediate additional intervention can occur usually during either the first or second infusion of trastuzumab (see section 4.4) and have been associated with a fatal outcome.
 
@@ -544,15 +561,13 @@ There are no immunogenicity data available for trastuzumab in gastric cancer.
 
 ## Reporting of suspected adverse reactions
 
-Reporting suspected adverse reactions after authorisation of the medicinal product is important. It
-
-<div style=\"page-break-after: always\"></div>
-
-allows continued monitoring of the benefit/risk balance of the medicinal product. Healthcare professionals are asked to report any suspected adverse reactions via the national reporting system listed in Appendix V.
+Reporting suspected adverse reactions after authorisation of the medicinal product is important. It allows continued monitoring of the benefit/risk balance of the medicinal product. Healthcare professionals are asked to report any suspected adverse reactions via the national reporting system listed in Appendix V.
 
 ## 4.9 Overdose
 
 There is no experience with overdose in human clinical trials. Single doses of Zercepac alone greater than 10 mg/kg have not been administered in the clinical trials; a maintenance dose of 10 mg/kg q3w following a loading dose of 8 mg/kg has been studied in a clinical trial with metastatic gastric cancer patients. Doses up to this level were well tolerated.
+
+<div style=\"page-break-after: always\"></div>
 
 ## 5. PHARMACOLOGICAL PROPERTIES
 
@@ -576,9 +591,9 @@ Zercepac should only be used in patients whose tumours have HER2 overexpression 
 
 To ensure accurate and reproducible results, the testing must be performed in a specialised laboratory, which can ensure validation of the testing procedures.
 
-<div style=\"page-break-after: always\"></div>
-
 The recommended scoring system to evaluate the IHC staining patterns is as stated in Table 2:
+
+<div style=\"page-break-after: always\"></div>
 
 Table 2 Recommended scoring system to evaluate the IHC staining patterns in breast cancer
 
@@ -607,18 +622,18 @@ In a method comparison study (study D008548) a high degree of concordance (&gt;9
 
 HER2 over expression should be detected using an immunohistochemistry (IHC)-based assessment of fixed tumour blocks; HER2 gene amplification should be detected using in situ hybridisation using either SISH or FISH on fixed tumour blocks.
 
-<div style=\"page-break-after: always\"></div>
-
 The recommended scoring system to evaluate the IHC staining patterns is as stated in Table 3:
+
+<div style=\"page-break-after: always\"></div>
 
 Table 3 Recommended scoring system to evaluate the IHC staining patterns in gastric cancer
 
-| Score   | Surgical specimen - staining pattern                                                                                         | Biopsy specimen - staining pattern                                                                                                                    | HER2 overexpression assessment   |
-|---------|------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------|
-| 0       | No reactivity or membranous reactivity in <10% of tumour cells                                                               | No reactivity or membranous reactivity in any tumour cell                                                                                             | Negative                         |
-| 1+      | Faint ⁄ barely perceptible membranous reactivity in ≥ 10% of tumour cells; cells are reactive only in part of their membrane | Tumour cell cluster with a faint ⁄ barely perceptible membranous reactivity irrespective of percentage of tumour cells stained                        | Negative                         |
-| 2+      | Weak to moderate complete, basolateral or lateral membranous reactivity in ≥ 10% of tumour cells                             | Tumour cell cluster with a weak to moderate complete, basolateral or lateral membranous reactivity irrespective of percentage of tumour cells stained | Equivocal                        |
-| 3+      | Strong complete, basolateral or lateral membranous reactivity in ≥ 10% of tumour cells                                       | Tumour cell cluster with a strong complete, basolateral or lateral membranous reactivity irrespective of percentage of tumour cells stained           | Positive                         |
+| Score   | Surgical specimen - staining pattern                                                                                        | Biopsy specimen - staining pattern                                                                                                                    | HER2 overexpression assessment   |
+|---------|-----------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------|
+| 0       | No reactivity or membranous reactivity in <10% of tumour cells                                                              | No reactivity or membranous reactivity in any tumour cell                                                                                             | Negative                         |
+| 1+      | Faint ⁄ barely perceptible membranous reactivity in ≥10% of tumour cells; cells are reactive only in part of their membrane | Tumour cell cluster with a faint ⁄ barely perceptible membranous reactivity irrespective of percentage of tumour cells stained                        | Negative                         |
+| 2+      | Weak to moderate complete, basolateral or lateral membranous reactivity in ≥10% of tumour cells                             | Tumour cell cluster with a weak to moderate complete, basolateral or lateral membranous reactivity irrespective of percentage of tumour cells stained | Equivocal                        |
+| 3+      | Strong complete, basolateral or lateral membranous reactivity in ≥ 10% of tumour cells                                      | Tumour cell cluster with a strong complete, basolateral or lateral membranous reactivity irrespective of percentage of tumour cells stained           | Positive                         |
 
 In general, SISH or FISH is considered positive if the ratio of the HER2 gene copy number per tumour cell to the chromosome 17 copy number is greater than or equal to 2.
 
@@ -632,11 +647,9 @@ Trastuzumab has also been used in combination with paclitaxel or docetaxel for t
 
 The efficacy of trastuzumab in combination with paclitaxel in patients who did not receive prior adjuvant anthracyclines has not been studied. However, trastuzumab plus docetaxel was efficacious in patients whether or not they had received prior adjuvant anthracyclines.
 
-The test method for HER2 overexpression used to determine eligibility of patients in the pivotal trastuzumab monotherapy and trastuzumab plus paclitaxel clinical trials employed immunohistochemical staining for HER2 of fixed material from breast tumours using the murine monoclonal antibodies CB11 and 4D5. These tissues were fixed in formalin or Bouin's fixative. This investigative clinical trial assay performed in a central laboratory utilised a 0 to 3+ scale. Patients classified as staining 2+ or 3+ were included, while those staining 0 or 1+ were excluded. Greater than
+The test method for HER2 overexpression used to determine eligibility of patients in the pivotal trastuzumab monotherapy and trastuzumab plus paclitaxel clinical trials employed immunohistochemical staining for HER2 of fixed material from breast tumours using the murine monoclonal antibodies CB11 and 4D5. These tissues were fixed in formalin or Bouin's fixative. This investigative clinical trial assay performed in a central laboratory utilised a 0 to 3+ scale. Patients classified as staining 2+ or 3+ were included, while those staining 0 or 1+ were excluded. Greater than 70% of patients enrolled exhibited 3+ overexpression. The data suggest that beneficial effects were greater among those patients with higher levels of overexpression of HER2 (3+).
 
 <div style=\"page-break-after: always\"></div>
-
-70% of patients enrolled exhibited 3+ overexpression. The data suggest that beneficial effects were greater among those patients with higher levels of overexpression of HER2 (3+).
 
 The main test method used to determine HER2 positivity in the pivotal trial of docetaxel, with or without trastuzumab, was immunohistochemistry. A minority of patients was tested using fluorescence in-situ hybridisation (FISH). In this trial, 87% of patients entered had disease that was IHC3+, and 95% of patients entered had disease that was IHC3+ and/or FISH-positive.
 
@@ -713,7 +726,7 @@ In the BCIRG 006 study HER2 positive, EBC was defined as either lymph node posit
 
 The efficacy results from the BO16348 trial following 12 months* and 8 years** median follow-up are summarized in Table 6:
 
-## Table 6 Efficacy results from study BO16348
+Table 6 Efficacy results from study BO16348
 
 |                                 | Median follow-up 12 months*   | Median follow-up 12 months*   | Median follow-up 8 years**   | Median follow-up 8 years**     |
 |---------------------------------|-------------------------------|-------------------------------|------------------------------|--------------------------------|
@@ -739,11 +752,7 @@ The efficacy results from the BO16348 trial following 12 months* and 8 years** m
 | P-value versus Observation      | 0.24                          | 0.24                          | 0.0005                       | 0.0005                         |
 | Hazard Ratio versus Observation | 0.75                          | 0.75                          | 0.76                         | 0.76                           |
 
-*Co-primary endpoint of DFS of 1 year versus observation met the pre-defined statistical boundary
-
-**Final analysis (including crossover of 52% of patients from the observation arm to trastuzumab)
-
-*** There is a discrepancy in the overall sample size due to a small number of patients who were randomized after the cut-off date for the 12-month median follow-up analysis
+*Co-primary endpoint of DFS of 1 year versus observation met the pre-defined statistical boundary **Final analysis (including crossover of 52% of patients from the observation arm to trastuzumab) *** There is a discrepancy in the overall sample size due to a small number of patients who were randomized after the cut-off date for the 12-month median follow-up analysis
 
 The efficacy results from the interim efficacy analysis crossed the protocol pre-specified statistical boundary for the comparison of 1-year of trastuzumab versus observation. After a median follow-up of 12 months, the hazard ratio (HR) for disease free survival (DFS) was 0.54 (95% CI 0.44, 0.67) which translates into an absolute benefit, in terms of a 2-year disease-free survival rate, of 7.6 percentage points (85.8% versus 78.2%) in favour of the trastuzumab arm.
 
@@ -772,17 +781,11 @@ The efficacy results from the joint analysis of the NSABP B-31 and NCCTG 9831 tr
 
 Table 7 Summary of efficacy results from the joint analysis of the NSABP B-31 and NCCTG N9831 trials at the time of the definitive DFS analysis*
 
-| Parameter                                         | AC→P (n=1679)   | AC→PH (n=1672)   | Hazard ratio vs AC→P (95% CI) p-value   |
-|---------------------------------------------------|-----------------|------------------|-----------------------------------------|
-| Disease-free survival No. patients with event (%) | 261 (15.5)      | 133 (8.0)        | 0.48 (0.39, 0.59) p<0.0001              |
-| Distant recurrence No. patients with event        | 193 (11.5)      | 96 (5.7)         | 0.47 (0.37, 0.60) p<0.0001              |
-| Death (OS event): No. patients with event         | 92 (5.5)        | 62 (3.7)         | 0.67 (0.48, 0.92) p=0.014**             |
-
-A: doxorubicin; C: cyclophosphamide; P: paclitaxel; H: trastuzumab
-
-* At median duration of follow up of 1.8 years for the patients in the AC → P arm and 2.0 years for patients in the AC → PH arm
-
-** p value for OS did not cross the pre-specified statistical boundary for comparison of AC → PH vs. AC → P
+| Parameter                                         | AC→P (n=1679)   | AC→PH (n=1672)   | Hazard ratio vsAC→P (95% CI) p-value   |
+|---------------------------------------------------|-----------------|------------------|----------------------------------------|
+| Disease-free survival No. patients with event (%) | 261 (15.5)      | 133 (8.0)        | 0.48 (0.39, 0.59) p<0.0001             |
+| Distant recurrence No. patients with event        | 193 (11.5)      | 96 (5.7)         | 0.47 (0.37, 0.60) p<0.0001             |
+| Death (OS event): No. patients with event         | 92 (5.5)        | 62 (3.7)         | 0.67 (0.48, 0.92) p=0.014**            |
 
 <div style=\"page-break-after: always\"></div>
 
@@ -798,15 +801,15 @@ Table 8 Final overall survival analysis from the joint analysis of trials NSABP 
 
 | Parameter                                 | AC → P (N=2032)   | AC → PH (N=2031)   | p-value versus AC → P   | Hazard Ratio versus AC → P (95%   |
 |-------------------------------------------|-------------------|--------------------|-------------------------|-----------------------------------|
-| Death (OS event): No. patients with event | 418 (20.6%)       | 289 (14.2%)        | < 0.0001                | 0.64 (0.55, 0.74)                 |
+| Death (OS event): No. patients with event | 418 (20.6%)       | 289 (14.2%)        | < 0.0001                | CI) 0.64 (0.55, 0.74)             |
 
-A: doxorubicin; C: cyclophosphamide; P: paclitaxel; H: trastuzumab
+(%) A: doxorubicin; C: cyclophosphamide; P: paclitaxel; H: trastuzumab
 
 DFS analysis was also performed at the final analysis of OS from the joint analysis of studies NSABP B-31 and NCCTG N9831. The updated DFS analysis results (stratified HR = 0.61; 95% CI [0.54, 0.69]) showed a similar DFS benefit compared to the definitive primary DFS analysis, despite 24.8% patients in the AC → P arm who crossed over to receive trastuzumab. At 8 years, the disease-free survival rate was estimated to be 77.2% (95% CI: 75.4, 79.1) in the AC → PH arm, an absolute benefit of 11.8% compared with the AC → P arm.
 
 In the BCIRG 006 study trastuzumab was administered either in combination with docetaxel, following AC chemotherapy (AC → DH) or in combination with docetaxel and carboplatin (DCarbH).
 
-## Docetaxel was administered as follows:
+Docetaxel was administered as follows:
 
 - -intravenous docetaxel - 100 mg/m 2 as an intravenous infusion over 1 hour, given every 3 weeks for 4 cycles (day 2 of first docetaxel cycle, then day1 of each subsequent cycle)
 
@@ -833,11 +836,7 @@ Table 9 Overview of efficacy analyses BCIRG 006 AC → D versus AC → DH
 | Distant recurrence      |                 |                  |                                         |
 | No. patients with event | 144             | 95               | 0.59 (0.46, 0.77) p<0.0001              |
 | Death (OS event)        |                 |                  |                                         |
-| No. patients with event | 80              | 49               | 0.58 (0.40, 0.83)                       |
-
-p=0.0024
-
-AC → D = doxorubicin plus cyclophosphamide, followed by docetaxel; AC → DH = doxorubicin plus cyclophosphamide, followed by docetaxel plus trastuzumab; CI = confidence interval
+| No. patients with event | 80              | 49               | 0.58 (0.40, 0.83) p=0.0024              |
 
 Table 10 Overview of efficacy analyses BCIRG 006 AC → D versus DCarbH
 
@@ -850,11 +849,9 @@ Table 10 Overview of efficacy analyses BCIRG 006 AC → D versus DCarbH
 | Death (OS event)        |                 |                   |                                 |
 | No. patients with event | 80              | 56                | 0.66 (0.47, 0.93) p=0.0182      |
 
-AC → D = doxorubicin plus cyclophosphamide, followed by docetaxel; DCarbH = docetaxel, carboplatin and trastuzumab; CI = confidence interval
-
 In the BCIRG 006 study for the primary endpoint, DFS, the hazard ratio translates into an absolute benefit, in terms of 3-year disease-free survival rate estimates of 5.8 percentage points (86.7% versus 80.9%) in favour of the AC → DH (trastuzumab) arm and 4.6 percentage points (85.5% versus 80.9%) in favour of the DCarbH (trastuzumab) arm compared to AC → D.
 
-In study BCIRG 006, 213/1075 patients in the DCarbH (TCH) arm, 221/1074 patients in the AC → DH (AC → TH) arm, and 217/1073 in the AC → D (AC → T) arm had a Karnofsky performance status ≤ 90 (either 80 or 90). No disease-free survival (DFS) benefit was noticed in this subgroup of patients (hazard ratio = 1.16, 95% CI [0.73, 1.83] for DCarbH (TCH) versus AC → D (AC → T); hazard ratio 0.97, 95% CI [0.60, 1.55] for AC → DH (AC → TH) versus AC → D).
+In study BCIRG 006, 213/1075 patients in the DCarbH (TCH) arm, 221/1074 patients in the AC  DH (AC  TH) arm, and 217/1073 in the AC → D (AC  T) arm had a Karnofsky performance status ≤ 90 (either 80 or 90). No disease-free survival (DFS) benefit was noticed in this subgroup of patients (hazard ratio = 1.16, 95% CI [0.73, 1.83] for DCarbH (TCH) versus AC  D (AC  T); hazard ratio 0.97, 95% CI [0.60, 1.55] for AC  DH (AC  TH) versus AC  D).
 
 <div style=\"page-break-after: always\"></div>
 
@@ -862,7 +859,7 @@ In addition a post-hoc exploratory analysis was performed on the data sets from 
 
 Table 11 Post-hoc exploratory analysis results from the joint analysis NSABP B-31/NCCTG N9831* and BCIRG006 clinical studies combining DFS events and symptomatic cardiac events
 
-|                                                                                                                    | AC → PH (vs. AC → P) (NSABP B-31 and NCCTG N9831) *   | AC → DH (vs. AC → D) (BCIRG 006)   | DCarbH (vs. AC → D) (BCIRG 006)   |
+|                                                                                                                    | AC  PH (vs. AC  P) (NSABP B-31 and NCCTG N9831) *   | AC  DH (vs. AC  D) (BCIRG 006)   | DCarbH (vs. AC  D) (BCIRG 006)   |
 |--------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------|------------------------------------|-----------------------------------|
 | Primary efficacy analysis DFS hazard ratios (95% CI) p-value                                                       | 0.48 (0.39, 0.59) p<0.0001                            | 0.61 (0.49, 0.77) p< 0.0001        | 0.67 (0.54, 0.83) p=0.0003        |
 | Long term follow-up efficacy analysis** DFS hazard ratios (95% CI) p-value                                         | 0.61 (0.54, 0.69) p<0.0001                            | 0.72 (0.61, 0.85) p<0.0001         | 0.77 (0.65, 0.90) p=0.0011        |
@@ -872,7 +869,9 @@ A: doxorubicin; C: cyclophosphamide; P: paclitaxel; D: docetaxel; Carb: carbopla
 
 *At the time of the definitive analysis of DFS. Median duration of follow up was 1.8 years in the AC → P arm and 2.0 years in the AC → PH arm
 
-** Median duration of long term follow-up for the Joint Analysis clinical studies was 8.3 years (range: 0.1 to 12.1) for the AC → PH arm and 7.9 years (range: 0.0 to 12.2) for the AC → P arm; Median duration of long term follow-up for the BCIRG 006 study was 10.3 years in both the AC → D arm (range: 0.0 to 12.6) arm and the DCarbH arm (range: 0.0 to 13.1), and was 10.4 years (range: 0.0 to 12.7) in the AC → DH arm
+** Median duration of long term follow-up for the Joint Analysis clinical studies was 8.3 years (range:
+
+0.1 to 12.1) for the AC → PH arm and 7.9 years (range: 0.0 to 12.2) for the AC → P arm; Median duration of long term follow-up for the BCIRG 006 study was 10.3 years in both the AC → D arm (range: 0.0 to 12.6) arm and the DCarbH arm (range: 0.0 to 13.1), and was 10.4 years (range: 0.0 to 12.7) in the AC → DH arm
 
 ## Early breast cancer (neoadjuvant-adjuvant setting)
 
@@ -882,19 +881,21 @@ In the neoadjuvant-adjuvant treatment setting, study MO16432, a multicentre rand
 
 In study MO16432, trastuzumab (8 mg/kg loading dose, followed by 6 mg/kg maintenance every 3 weeks) was administered concurrently with 10 cycles of neoadjuvant chemotherapy as follows:
 
-- Doxorubicin 60 mg/m 2  and paclitaxel 150 mg/m 2 , administered 3-weekly for 3 cycles, which was followed by
-
-<div style=\"page-break-after: always\"></div>
-
-- Paclitaxel 175 mg/m 2 administered 3-weekly for 4 cycles,
+-  Doxorubicin 60 mg/m 2  and paclitaxel 150 mg/m 2 , administered 3-weekly for 3 cycles,
 
 which was followed by
 
-- CMF on day 1 and 8 every 4 weeks for 3 cycles
+<div style=\"page-break-after: always\"></div>
+
+-  Paclitaxel 175 mg/m 2 administered 3-weekly for 4 cycles,
+
+which was followed by
+
+-  CMF on day 1 and 8 every 4 weeks for 3 cycles
 
 which was followed after surgery by
 
-- additional cycles of adjuvant trastuzumab (to complete 1 year of treatment)
+-  additional cycles of adjuvant trastuzumab (to complete 1 year of treatment)
 
 The efficacy results from Study MO16432 are summarized in Table 12. The median duration of follow-up in the trastuzumab arm was 3.8 years.
 
@@ -907,8 +908,6 @@ Table 12 Efficacy results from MO16432
 | Total pathological complete response* (95% CI) | 40% (31.0, 49.6)              | 20.7% (13.7, 29.2)   | P=0.0014                   |
 | Overall survival                               |                               |                      | Hazard Ratio (95% CI)      |
 | No. patients with event                        | 22                            | 33                   | 0.59 (0.35, 1.02) p=0.0555 |
-
-* defined as absence of any invasive cancer both in the breast and axillary nodes
 
 An absolute benefit of 13 percentage points in favour of the trastuzumab arm was estimated in terms of 3-year event-free survival rate (65% versus 52%).
 
@@ -934,17 +933,13 @@ The efficacy results from study BO18225 are summarized in Table 13:
 
 Table 13 Efficacy results from BO18225
 
-| Parameter                                  | FP N = 290   | FP +H N = 294   | HR(95% CI)       | p-value   |
-|--------------------------------------------|--------------|-----------------|------------------|-----------|
-| Overall survival, Median months            | 11.1         | 13.8            | 0.74 (0.60-0.91) | 0.0046    |
-| Progression-free survival, Median months   | 5.5          | 6.7             | 0.71 (0.59-0.85) | 0.0002    |
-| Time to disease progression, Median months | 5.6          | 7.1             | 0.70 (0.58-0.85) | 0.0003    |
-| Overall response rate,%                    | 34.5%        | 47.3%           | 1.70a (1.22,     | 0.0017    |
-| Duration of response, Median months        | 4.8          | 6.9             | 0.54 (0.40-0.73) | < 0.0001  |
-
-FP + H: Fluoropyrimidine/cisplatin + trastuzumab
-
-FP: Fluoropyrimidine/cisplatin a Odds ratio
+| Parameter                                  | FP N = 290   | FP +H N = 294   | HR(95% CI)             | p-value   |
+|--------------------------------------------|--------------|-----------------|------------------------|-----------|
+| Overall survival, Median months            | 11.1         | 13.8            | 0.74 (0.60-0.91)       | 0.0046    |
+| Progression-free survival, Median months   | 5.5          | 6.7             | 0.71 (0.59-0.85)       | 0.0002    |
+| Time to disease progression, Median months | 5.6          | 7.1             | 0.70 (0.58-0.85)       | 0.0003    |
+| Overall response rate,%                    | 34.5%        | 47.3%           | 1.70a (1.22,           | 0.0017    |
+| Duration of response, Median months        | 4.8          | 6.9             | 2.38) 0.54 (0.40-0.73) | < 0.0001  |
 
 Patients were recruited to the trial who were previously untreated for HER2-positive inoperable locally advanced or recurrent and/or metastatic adenocarcinoma of the stomach or gastro-oesophageal junction not amenable to curative therapy. The primary endpoint was overall survival which was defined as the time from the date of randomization to the date of death from any cause. At the time of the analysis a total of 349 randomized patients had died: 182 patients (62.8%) in the control arm and 167 patients (56.8%) in the treatment arm. The majority of the deaths were due to events related to the underlying cancer.
 
@@ -978,19 +973,13 @@ Table 14 Population predicted cycle 1 PK exposure values (median with 5th - 95th
 
 Table 15 Population predicted steady state PK exposure values (median with 5th - 95th percentiles) for trastuzumab intravenous dosing regimens in MBC, EBC and AGC patients
 
-| Regimen               | Primary tumourtype   |   N | C min,ss* (mcg/mL)   | C max,ss** (mcg/mL)   | AUC ss, 0-21days (mcg.day/mL)   |   Time to steady- state*** |
+| Regimen               | Primary tumourtype   |   N | C min,ss* (mcg/mL)   | C max,ss** (mcg/mL)   | AUC ss, 0-21days (mcg.day/mL)   | Time to steady- state***   |
 |-----------------------|----------------------|-----|----------------------|-----------------------|---------------------------------|----------------------------|
-| 8 mg/kg + 6 mg/kg q3w | MBC                  | 805 | 44.2 (1.8 - 85.4)    | 179 (123 - 266)       | 1736 (618 - 2756)               |                         12 |
-| 8 mg/kg + 6 mg/kg q3w | EBC                  | 390 | 53.8 (28.7 - 85.8)   | 184 (134 - 247)       | 1927 (1332 -2771)               |                         15 |
-| 8 mg/kg + 6 mg/kg q3w | AGC                  | 274 | 32.9 (6.1 - 88.9)    | 131 (72.5 -251)       | 1338 (557 - 2875)               |                          9 |
-| 4 mg/kg + 2 mg/kg qw  | MBC                  | 805 | 63.1 (11.7 - 107)    | 107 (54.2 - 164)      | 1710 (581 - 2715)               |                         12 |
-| 4 mg/kg + 2 mg/kg qw  | EBC                  | 390 | 72.6 (46 - 109)      | 115 (82.6 - 160)      | 1893 (1309 -2734)               |                         14 |
-
-*Cmin,ss - Cmin at steady state
-
-**Cmax,ss = Cmax at steady state
-
-*** time to 90% of steady-state
+| 8 mg/kg + 6 mg/kg q3w | MBC                  | 805 | 44.2 (1.8 - 85.4)    | 179 (123 - 266)       | 1736 (618 - 2756)               | (week) 12                  |
+| 8 mg/kg + 6 mg/kg q3w | EBC                  | 390 | 53.8 (28.7 - 85.8)   | 184 (134 - 247)       | 1927 (1332 -2771)               | 15                         |
+| 8 mg/kg + 6 mg/kg q3w | AGC                  | 274 | 32.9 (6.1 - 88.9)    | 131 (72.5 -251)       | 1338 (557 - 2875)               | 9                          |
+| 4 mg/kg + 2 mg/kg qw  | MBC                  | 805 | 63.1 (11.7 - 107)    | 107 (54.2 - 164)      | 1710 (581 - 2715)               | 12                         |
+| 4 mg/kg + 2 mg/kg qw  | EBC                  | 390 | 72.6 (46 - 109)      | 115 (82.6 - 160)      | 1893 (1309 -2734)               | 14                         |
 
 <div style=\"page-break-after: always\"></div>
 
@@ -1024,13 +1013,11 @@ No long-term animal studies have been performed to establish the carcinogenic po
 
 ## 6.1 List of excipients
 
-L-histidine hydrochloride monohydrate
+- L-histidine hydrochloride monohydrate
+- L-histidine
+-  ,  -trehalose dihydrate
 
-L-histidine
-
-α , α -trehalose dihydrate
-
-Polysorbate 20
+Polysorbate 20 (E432)
 
 <div style=\"page-break-after: always\"></div>
 
@@ -1076,7 +1063,7 @@ One 20 mL clear glass type I vial with bromobutyl rubber stopper containing 150 
 
 Each carton contains one vial.
 
-## Zercepac 420 mg powder for concentrate for solution for infusion
+Zercepac 420 mg powder for concentrate for solution for infusion
 
 One 50 mL clear glass type I vial with bromobutyl rubber stopper containing 420 mg of trastuzumab.
 
@@ -1094,9 +1081,9 @@ Since the medicinal product does not contain any anti-microbial preservative or 
 
 The infusion preparation should be:
 
-- performed by trained personnel in accordance with good practice rules especially with respect to the aseptic preparation of parenteral products.
-- prepared in a laminar flow hood or biological safety cabinet using standard precautions for the safe handling of intravenous agents.
-- followed by adequate storage of the prepared solution for intravenous infusion to ensure maintenance of the aseptic conditions.
+-  performed by trained personnel in accordance with good practice rules especially with respect to the aseptic preparation of parenteral products.
+-  prepared in a laminar flow hood or biological safety cabinet using standard precautions for the safe handling of intravenous agents.
+-  followed by adequate storage of the prepared solution for intravenous infusion to ensure maintenance of the aseptic conditions.
 
 ## Instructions for aseptic reconstitution:
 
@@ -1127,11 +1114,11 @@ Instructions for aseptic dilution of the reconstituted solution
 
 Determine the volume of the solution required:
 
-- based on a loading dose of 4 mg trastuzumab/kg body weight, or a subsequent weekly dose of 2 mg trastuzumab/kg body weight:
+-  based on a loading dose of 4 mg trastuzumab/kg body weight, or a subsequent weekly dose of 2 mg trastuzumab/kg body weight:
 
 Volume (mL) = Body weight (kg) x dose ( 4 mg/kg for loading or 2 mg/kg for maintenance) 21 (mg/mL, concentration of reconstituted solution)
 
-- based on a loading dose of 8 mg trastuzumab/kg body weight, or a subsequent 3-weekly dose of 6 mg trastuzumab/kg body weight:
+-  based on a loading dose of 8 mg trastuzumab/kg body weight, or a subsequent 3-weekly dose of 6 mg trastuzumab/kg body weight:
 
 Volume (mL) = Body weight (kg) x dose ( 8 mg/kg for loading or 6 mg/kg for maintenance) 21 (mg/mL, concentration of reconstituted solution)
 
@@ -1171,34 +1158,38 @@ Date of first authorisation: 27
 
 th July 2020
 
+Date of latest renewal: 4
+
+th April 2025
+
 10.
 
 DATE OF REVISION OF THE TEXT
 
-Detailed information on this medicinal product is available on the website of the European Medicines Agency http://www.ema.europa.eu.
+Detailed information on this medicinal product is available on the website of the European Medicines Agency https://www.ema.europa.eu.
 
-33
+34
 
 <div style=\"page-break-after: always\"></div>
 
 ## ANNEX II
 
-- A. MANUFACTURER(S) OF THE BIOLOGICAL ACTIVE SUBSTANCE(S) AND MANUFACTURER(S) RESPONSIBLE FOR BATCH RELEASE
+- A. MANUFACTURERS OF THE BIOLOGICAL ACTIVE SUBSTANCE AND MANUFACTURER RESPONSIBLE FOR BATCH RELEASE
 - B. CONDITIONS OR RESTRICTIONS REGARDING SUPPLY AND USE
 - C. OTHER CONDITIONS AND REQUIREMENTS OF THE MARKETING AUTHORISATION
 - D. CONDITIONS OR RESTRICTIONS WITH REGARD TO THE SAFE AND EFFECTIVE USE OF THE MEDICINAL PRODUCT
 
 <div style=\"page-break-after: always\"></div>
 
-## A. MANUFACTURER(S) OF THE BIOLOGICAL ACTIVE SUBSTANCE(S) AND MANUFACTURER(S) RESPONSIBLE FOR BATCH RELEASE
+## A. MANUFACTURERS OF THE BIOLOGICAL ACTIVE SUBSTANCE AND MANUFACTURER RESPONSIBLE FOR BATCH RELEASE
 
-Name and address of the manufacturer(s) of the biological active substance(s)
+Name and address of the manufacturers of the biological active substance
 
 Shanghai Henlius Biopharmaceutical Co., Ltd. Building D, 1289 Yishan Road Shanghai China
 
 Intas Pharmaceuticals Limited (Biopharma Division) Plot No. 423/P/A Sarkhej - Bavla Highway, Moraiya (Village), Sanand (Taluka), Ahmedabad - 382213, Gujarat, India
 
-Name and address of the manufacturer(s) responsible for batch release
+Name and address of the manufacturer responsible for batch release
 
 Accord Healthcare Polska Sp. z.o.o ul Lutomierska 50, 95-200 Pabianice Poland
 
@@ -1208,13 +1199,13 @@ Medicinal product subject to restricted medical prescription (see Annex I: Summa
 
 ## C. OTHER CONDITIONS AND REQUIREMENTS OF THE MARKETING AUTHORISATION
 
-## · Periodic safety update reports (PSURs)
+##  Periodic safety update reports (PSURs)
 
 The requirements for submission of PSURs for this medicinal product are set out in the list of Union reference dates (EURD list) provided for under Article 107c(7) of Directive 2001/83/EC and any subsequent updates published on the European medicines web-portal.
 
 ## D. CONDITIONS OR RESTRICTIONS WITH REGARD TO THE SAFE AND EFFECTIVE USE OF THE MEDICINAL PRODUCT
 
-## · Risk management plan (RMP)
+##  Risk management plan (RMP)
 
 The marketing authorisation holder (MAH) shall perform the required pharmacovigilance activities and interventions detailed in the agreed RMP presented in Module 1.8.2 of the marketing authorisation and any agreed subsequent updates of the RMP.
 
@@ -1222,8 +1213,8 @@ An updated RMP should be submitted:
 
 <div style=\"page-break-after: always\"></div>
 
-- At the request of the European Medicines Agency;
-- Whenever the risk management system is modified, especially as the result of new information being received that may lead to a significant change to the benefit/risk profile or as the result of an important (pharmacovigilance or risk minimisation) milestone being reached.
+-  At the request of the European Medicines Agency;
+-  Whenever the risk management system is modified, especially as the result of new information being received that may lead to a significant change to the benefit/risk profile or as the result of an important (pharmacovigilance or risk minimisation) milestone being reached.
 
 <div style=\"page-break-after: always\"></div>
 
@@ -1251,19 +1242,15 @@ One vial contains 60 mg of trastuzumab. After reconstitution 1 mL concentrate co
 
 ## 3. LIST OF EXCIPIENTS
 
-Also contains L-histidine hydrochloride monohydrate, L-histidine, polysorbate 20, α, α -trehalose dihydrate.
+Also contains L-histidine hydrochloride monohydrate, L-histidine, polysorbate 20, α, α-trehalose dihydrate
 
 ## 4. PHARMACEUTICAL FORM AND CONTENTS
 
-Powder for concentrate for solution for infusion.
-
-1 vial
+Powder for concentrate for solution for infusion. 1 vial
 
 ## 5. METHOD AND ROUTE(S) OF ADMINISTRATION
 
-For intravenous use only after reconstitution and dilution.
-
-Read the package leaflet before use.
+For intravenous use only after reconstitution and dilution. Read the package leaflet before use.
 
 ## 6. SPECIAL WARNING THAT THE MEDICINAL PRODUCT MUST BE STORED OUT OF THE SIGHT AND REACH OF CHILDREN
 
@@ -1277,9 +1264,9 @@ EXP
 
 ## 9. SPECIAL STORAGE CONDITIONS
 
-<div style=\"page-break-after: always\"></div>
-
 Store in a refrigerator.
+
+<div style=\"page-break-after: always\"></div>
 
 10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
 
@@ -1295,7 +1282,7 @@ EU/1/20/1456/002
 
 Lot
 
-14. GENERAL CLASSIFICATION FOR SUPPLY
+## 14. GENERAL CLASSIFICATION FOR SUPPLY
 
 15. INSTRUCTIONS ON USE
 
@@ -1327,7 +1314,7 @@ IV use after reconstitution and dilution
 
 ## 2. METHOD OF ADMINISTRATION
 
-3. EXPIRY DATE
+## 3. EXPIRY DATE
 
 EXP
 
@@ -1357,7 +1344,7 @@ One vial contains 150 mg trastuzumab. After reconstitution 1 mL concentrate cont
 
 ## 3. LIST OF EXCIPIENTS
 
-Also contains L-histidine hydrochloride monohydrate, L-histidine, polysorbate 20, α, α -trehalose dihydrate.
+Also contains L-histidine hydrochloride monohydrate, L-histidine, polysorbate 20, α, α-trehalose dihydrate.
 
 ## 4. PHARMACEUTICAL FORM AND CONTENTS
 
@@ -1397,11 +1384,9 @@ EU/1/20/1456/001
 
 Lot
 
-## 14. GENERAL CLASSIFICATION FOR SUPPLY
-
+14. GENERAL CLASSIFICATION FOR SUPPLY
 15. INSTRUCTIONS ON USE
-
-## 16. INFORMATION IN BRAILLE
+16. INFORMATION IN BRAILLE
 
 Justification for not including Braille accepted.
 
@@ -1411,9 +1396,7 @@ Justification for not including Braille accepted.
 
 ## 18. UNIQUE IDENTIFIER - HUMAN READABLE DATA
 
-PC
-
-SN
+PC SN
 
 NN
 
@@ -1459,7 +1442,7 @@ One vial contains 420 mg of trastuzumab. After reconstitution 1 mL concentrate c
 
 ## 3. LIST OF EXCIPIENTS
 
-Also contains L-histidine hydrochloride monohydrate, L-histidine, polysorbate 20, α, α -trehalose dihydrate.
+Also contains L-histidine hydrochloride monohydrate, L-histidine, polysorbate 20, α, α-trehalose dihydrate
 
 ## 4. PHARMACEUTICAL FORM AND CONTENTS
 
@@ -1502,7 +1485,8 @@ Lot
 ## 14. GENERAL CLASSIFICATION FOR SUPPLY
 
 15. INSTRUCTIONS ON USE
-16. INFORMATION IN BRAILLE
+
+## 16. INFORMATION IN BRAILLE
 
 Justification for not including Braille accepted.
 
@@ -1554,7 +1538,7 @@ Accord
 
 ## Package leaflet: Information for the user Zercepac 60 mg powder for concentrate for solution for infusion Zercepac 150 mg powder for concentrate for solution for infusion Zercepac 420 mg powder for concentrate for solution for infusion
 
-trastuzumab
+## trastuzumab
 
 This medicinal product is subject to additional monitoring. This will allow quick identification of new safety information. You can help by reporting any side-effects you may get. See the end of section 4 for how to report side-effects.
 
@@ -1564,7 +1548,7 @@ This medicinal product is subject to additional monitoring. This will allow quic
 - -If you have any further questions, ask your doctor or pharmacist.
 - -If you get any side effects, talk to your doctor, pharmacist or nurse. This includes any possible side effects not listed in this leaflet. See section 4.
 
-## What is in this leaflet
+## What is in this leaflet:
 
 1. What Zercepac is and what it is used for
 2. What you need to know before you are given Zercepac
@@ -1579,16 +1563,16 @@ Zercepac contains the active substance trastuzumab, which is a monoclonal antibo
 
 Your doctor may prescribe Zercepac for the treatment of breast and gastric cancer when:
 
-- You have early breast cancer, with high levels of a protein called HER2.
-- You have metastatic breast cancer (breast cancer that has spread beyond the original tumour) with high levels of HER2. Zercepac may be prescribed in combination with the chemotherapy medicine paclitaxel or docetaxel as first treatment for metastatic breast cancer or it may be prescribed alone if other treatments have proved unsuccessful. It is also used in combination with medicines called aromatase inhibitors with patients with high levels of HER2 and hormone receptor-positive metastatic breast cancer (cancer that is sensitive to the presence of female sex hormones).
-- You have metastatic gastric cancer with high levels of HER2, when it is in combination with the other cancer medicines capecitabine or 5-flououracil and cisplatin.
+-  You have early breast cancer, with high levels of a protein called HER2.
+-  You have metastatic breast cancer (breast cancer that has spread beyond the original tumour) with high levels of HER2. Zercepac may be prescribed in combination with the chemotherapy medicine paclitaxel or docetaxel as first treatment for metastatic breast cancer or it may be prescribed alone if other treatments have proved unsuccessful. It is also used in combination with medicines called aromatase inhibitors with patients with high levels of HER2 and hormone receptor-positive metastatic breast cancer (cancer that is sensitive to the presence of female sex hormones).
+-  You have metastatic gastric cancer with high levels of HER2, when it is in combination with the other cancer medicines capecitabine or 5-flououracil and cisplatin.
 
 ## 2. What you need to know before you are given Zercepac
 
 ## Do not use Zercepac if
 
-- you are allergic to trastuzumab, to murine (mouse) proteins, or to any of the other ingredients of this medicine (listed in section 6).
-- you have severe breathing problems at rest due to your cancer or if you need oxygen treatment.
+-  you are allergic to trastuzumab, to murine (mouse) proteins, or to any of the other ingredients of this medicine (listed in section 6).
+-  you have severe breathing problems at rest due to your cancer or if you need oxygen treatment.
 
 <div style=\"page-break-after: always\"></div>
 
@@ -1602,10 +1586,10 @@ Treatment with Zercepac alone or with a taxane may affect the heart, especially 
 
 Talk to your doctor, pharmacist or nurse before you are given Zercepac if:
 
-- you have had heart failure, coronary artery disease, heart valve disease (heart murmurs), high blood pressure, taken any high blood pressure medicine or are currently taking any high blood pressure medicine.
-- you have ever had or are currently using a medicine called doxorubicin or epirubicin (medicines used to treat cancer). These medicines (or any other anthracyclines) can damage heart muscle and increase the risk of heart problems with Zercepac.
-- you suffer from breathlessness., especially if you are currently using a taxane. Zercepac can cause breathing difficulties, especially when it is first given. This could be more serious if you are already breathless. Very rarely, patients with severe breathing difficulties before treatment have died when they were given Zercepac.
-- you have ever had any other treatment for cancer.
+-  you have had heart failure, coronary artery disease, heart valve disease (heart murmurs), high blood pressure, taken any high blood pressure medicine or are currently taking any high blood pressure medicine.
+-  you have ever had or are currently using a medicine called doxorubicin or epirubicin (medicines used to treat cancer). These medicines (or any other anthracyclines) can damage heart muscle and increase the risk of heart problems with Zercepac.
+-  you suffer from breathlessness., especially if you are currently using a taxane. Zercepac can cause breathing difficulties, especially when it is first given. This could be more serious if you are already breathless. Very rarely, patients with severe breathing difficulties before treatment have died when they were given Zercepac.
+-  you have ever had any other treatment for cancer.
 
 If you receive Zercepac with any other medicine to treat cancer, such as paclitaxel, docetaxel, an aromatase inhibitor, capecitabine, 5-fluorouracil, or cisplatin you should also read the patient information leaflets for these products.
 
@@ -1619,15 +1603,13 @@ Tell your doctor, pharmacist or nurse if you are taking, have recently taken or 
 
 It may take up to 7 months for Zercepac to be removed from the body. Therefore you should tell your doctor, pharmacist or nurse that you have had Zercepac if you start any new medicine in the 7 months after stopping treatment.
 
-## Pregnancy
+## Pregnancy and breast-feeding
 
-- If you are pregnant, think you may be pregnant or are planning to have a baby, ask your doctor, pharmacist or nurse for advice before taking this medicine.
-- You should use effective contraception during treatment with Zercepac and for at least 7 months after treatment has ended.
-- Your doctor will advise you of the risks and benefits of taking Zercepac during pregnancy. In rare cases, a reduction in the amount of (amniotic) fluid that surrounds the developing baby within the womb has been observed in pregnant women receiving Zercepac. This condition may be harmful to your baby in the womb and has been associated with the lungs not developing fully resulting in foetal death.
+-  If you are pregnant, think you may be pregnant or are planning to have a baby, ask your doctor, pharmacist or nurse for advice before taking this medicine.
+-  You should use effective contraception during treatment with Zercepac and for at least 7 months after treatment has ended.
+-  Your doctor will advise you of the risks and benefits of taking Zercepac during pregnancy. In rare cases, a reduction in the amount of (amniotic) fluid that surrounds the developing baby within the womb has been observed in pregnant women receiving Zercepac. This condition may be harmful to your baby in the womb and has been associated with the lungs not developing fully resulting in foetal death.
 
 <div style=\"page-break-after: always\"></div>
-
-## Breast-feeding
 
 Do not breast-feed your baby during Zercepac therapy and for 7 months after the last dose of Zercepac as Zercepac may pass to your baby through your breast milk.
 
@@ -1640,6 +1622,16 @@ Zercepac may affect your ability to drive a car or operate machines. If during t
 ## Sodium
 
 Zercepac contains less than 1 mmol of sodium per dose, i.e. it is essentially sodium-free.
+
+## Polysorbate 20
+
+Zercepac contains 0.24 mg of polysorbate 20 in each 60 mg vial, which is equivalent to 0.08 mg/mL (after reconstitution with 3.0 mL sterile water for injection).
+
+Zercepac contains 0.6 mg of polysorbate 20 in each 150 mg vial, which is equivalent to 0.083 mg/mL (after reconstitution with 7.2 mL sterile water for injection).
+
+Zercepac contains 1.7 mg of polysorbate 20 in each 420 mg vial, which is equivalent to 0.085 mg/mL (after reconstitution with 20.0 mL sterile water for injection).
+
+Polysorbates may cause allergic reactions. Tell your doctor if you have any known allergies.
 
 ## 3. How Zercepac is given
 
@@ -1655,6 +1647,8 @@ For early breast cancer, metastatic breast cancer and metastatic gastric cancer,
 
 Do not stop using this medicine without talking to your doctor first. All doses should be taken at the right time every week or every three weeks (depending on your dosing schedule). This helps your medicine work as well as it can.
 
+<div style=\"page-break-after: always\"></div>
+
 It may take up to 7 months for Zercepac to be removed from your body. Therefore your doctor may decide to continue to check your heart functions, even after you finish treatment.
 
 If you have any further questions on the use of this medicine, ask your doctor, pharmacist or nurse.
@@ -1662,8 +1656,6 @@ If you have any further questions on the use of this medicine, ask your doctor, 
 ## 4. Possible side effects
 
 Like all medicines, Zercepac can cause side effects, although not everybody gets them. Some of these side effects may be serious and may lead to hospitalisation.
-
-<div style=\"page-break-after: always\"></div>
 
 ## Serious side effects
 
@@ -1675,11 +1667,11 @@ Occasionally, symptoms start later than six hours after the infusion begins. If 
 
 Other serious side effects can occur at any time during treatment with Zercepac, not just related to an infusion. Tell a doctor or nurse straight away, if you notice any of the following side effects:
 
-- Heart problems can sometimes occur during treatment and occasionally after treatment has stopped and can be serious. They include weakening of the heart muscle possibly leading to heart failure, inflammation (swollen, red, hot, and in pain) of the lining around the heart and heart rhythm disturbances. This can lead to symptoms such as breathlessness (including breathlessness at night), cough, fluid retention (swelling) in the legs or arms, palpitations (heart fluttering or irregular heart beat) (see section 2. Heart checks).
+-  Heart problems can sometimes occur during treatment and occasionally after treatment has stopped and can be serious. They include weakening of the heart muscle possibly leading to heart failure, inflammation (swollen, red, hot, and in pain) of the lining around the heart and heart rhythm disturbances. This can lead to symptoms such as breathlessness (including breathlessness at night), cough, fluid retention (swelling) in the legs or arms, palpitations (heart fluttering or irregular heart beat) (see section 2. Heart checks).
 
 Your doctor will monitor your heart regularly during and after treatment but you should tell your doctor immediately if you notice any of the above symptoms.
 
-- Tumour lysis syndrome (a group of metabolic complications occurring after cancer treatment characterized by high blood levels of potassium and phosphate, and low blood levels of calcium). Symptoms may include kidney problems (weakness, shortness of breath, fatigue and confusion), heart problems (fluttering of the heart or a faster or slower heartbeat), seizures, vomiting or diarrhoea and tingling in the mouth, hands or feet.
+-  Tumour lysis syndrome (a group of metabolic complications occurring after cancer treatment characterized by high blood levels of potassium and phosphate, and low blood levels of calcium). Symptoms may include kidney problems (weakness, shortness of breath, fatigue and confusion), heart problems (fluttering of the heart or a faster or slower heartbeat), seizures, vomiting or diarrhoea and tingling in the mouth, hands or feet.
 
 If you experience any of the above symptoms when your treatment with Zercepac has finished, you should see your doctor and tell them that you have previously been treated with Zercepac.
 
@@ -1687,107 +1679,107 @@ If you experience any of the above symptoms when your treatment with Zercepac ha
 
 Very common side effects : may affect more than 1 in 10 people
 
-- infections
-- diarrhoea
-- constipation
-- heartburn (dyspepsia)
-- fatigue
-- skin rashes
-- chest pain
-- abdominal pain
-- joint pain
-- low counts of red blood cells and white blood cells (which help fight infection) sometimes with fever
-
 <div style=\"page-break-after: always\"></div>
 
-- muscle pain
-- conjunctivitis
-- watery eyes
-- nose bleeds
-- runny nose
-- hair loss
-- tremor
-- hot flush
-- dizziness
-- nail disorders
-- weight loss
-- loss of appetite
-- inability to sleep (insomnia)
-- altered taste
-- low platelet count
-- bruising
-- numbness or tingling of the fingers and toes, which occasionally may extend to the rest of the limb
-- redness, swelling or sores in your mouth and/or throat
-- pain, swelling, redness or tingling of hands and/or feet
-- breathlessness
-- headache
-- cough
-- vomiting
-- nausea
+-  infections
+-  diarrhoea
+-  constipation
+-  heartburn (dyspepsia)
+-  fatigue
+-  skin rashes
+-  chest pain
+-  abdominal pain
+-  joint pain
+-  low counts of red blood cells and white blood cells (which help fight infection) sometimes with fever
+-  muscle pain
+-  conjunctivitis
+-  watery eyes
+-  nose bleeds
+-  runny nose
+-  hair loss
+-  tremor
+-  hot flush
+-  dizziness
+-  nail disorders
+-  weight loss
+-  loss of appetite
+-  inability to sleep (insomnia)
+-  altered taste
+-  low platelet count
+-  bruising
+-  numbness or tingling of the fingers and toes, which occasionally may extend to the rest of the limb
+-  redness, swelling or sores in your mouth and/or throat
+-  pain, swelling, redness or tingling of hands and/or feet
+-  breathlessness
+-  headache
+-  cough
+-  vomiting
+-  nausea
 
 ## Common side effects : may affect up to 1 in 10 people
 
-- allergic reactions
-- throat infections
-- bladder and skin infections
-- inflammation of the breast
-- inflammation of the liver
-- kidney disorders
-- increased muscle tone or tension (hypertonia)
-- pain in the arms and/or legs
-- itchy rash
-- sleepiness (somnolence)
-- haemorrhoids
+-  allergic reactions
+-  throat infections
+-  bladder and skin infections
+-  inflammation of the breast
+-  inflammation of the liver
+-  kidney disorders
+-  increased muscle tone or tension (hypertonia)
+-  pain in the arms and/or legs
+-  itchy rash
+-  sleepiness (somnolence)
+-  haemorrhoids
+- 
 - itchiness
-- dry mouth and skin
-- dry eyes
-- sweating
-- feeling weak and unwell
-- anxiety
-- depression
-- asthma
-- infection of lungs
-- lung disorders
-- back pain
-- neck pain
-- bone pain
-- acne
+-  dry mouth and skin
+-  dry eyes
+-  sweating
 
 <div style=\"page-break-after: always\"></div>
 
-## · leg cramps
+-  feeling weak and unwell
+-  anxiety
+-  depression
+-  asthma
+-  infection of lungs
+-  lung disorders
+-  back pain
+-  neck pain
+-  bone pain
+-  acne
+-  leg cramps
 
 ## Uncommon side effects: may affect up to 1 in 100 people:
 
-- deafness
-- bumpy rash
-- wheezing
-- inflammation or scarring of the lungs
+-  deafness
+-  bumpy rash
+-  wheezing
+-  inflammation or scarring of the lungs
 
 ## Rare side effects: may affect up to 1 in 1000 people
 
-- jaundice
-- anaphylactic reactions
+-  jaundice
+-  anaphylactic reactions
 
 ## Side effects of unknown frequency : frequency cannot be estimated from the available data
 
-- abnormal or impaired blood clotting
-- high potassium levels
-- swelling or bleeding at the back of the eyes
-- shock
-- abnormal heart rhythm
-- respiratory distress
-- respiratory failure
-- acute accumulation of fluid in the lungs
-- acute narrowing of the airways
-- abnormally low oxygen levels in the blood
-- difficulty in breathing when lying flat
-- liver damage
-- swelling of the face, lips and throat
-- kidney failure
-- abnormally low levels of fluid around baby in womb
-- failure of the lungs of the baby to develop in the womb
-- abnormal development of the kidneys of the baby in the womb
+-  abnormal or impaired blood clotting
+-  high potassium levels
+-  swelling or bleeding at the back of the eyes
+-  shock
+-  abnormal heart rhythm
+-  respiratory distress
+-  respiratory failure
+-  acute accumulation of fluid in the lungs
+-  acute narrowing of the airways
+-  abnormally low oxygen levels in the blood
+-  difficulty in breathing when lying flat
+-  liver damage
+-  swelling of the face, lips and throat
+-  kidney failure
+-  abnormally low levels of fluid around baby in womb
+-  failure of the lungs of the baby to develop in the womb
+-  abnormal development of the kidneys of the baby in the womb
 
 Some of the side-effects you experience may be due to your underlying cancer. If you receive Zercepac in combination with chemotherapy, some of them may also be due to the chemotherapy.
 
@@ -1795,39 +1787,38 @@ If you get any side effects, talk to your doctor, pharmacist or nurse.
 
 ## Reporting of side effects
 
-If you get any side effects, talk to your doctor, pharmacist or nurse. This includes any possible side effects not listed in this leaflet. You can also report side effects directly via the national reporting system listed in Appendix V. By reporting side effects you can help provide more information on the safety of this medicine.
+If you get any side effects, talk to your doctor, pharmacist or nurse. This includes any possible side effects not listed in this leaflet. You can also report side effects directly via the national reporting
+
+<div style=\"page-break-after: always\"></div>
+
+system listed in Appendix V. By reporting side effects you can help provide more information on the safety of this medicine.
 
 ## 5. How to store Zercepac
 
 Zercepac will be stored by the health professionals at the hospital or clinic.
 
-- Keep this medicine out of the sight and reach of children.
-- Do not use this medicine after the expiry date which is stated on the outer carton and on the vial label after EXP. The expiry date refers to the last day of that month.
-
-<div style=\"page-break-after: always\"></div>
-
-- The unopened vial should be stored in a refrigerator (2°C-8°C).
-- Do not freeze the reconstituted solution.
-- Infusion solutions should be used immediately after dilution. If not used immediately, inuse storage times and conditions prior to use are the responsibility of the user.
-- Do not use Zercepac if you notice any particulate matter or discoloration prior to administration.
-- Medicines should not be disposed of via wastewater or household waste. Ask your pharmacist how to dispose of medicines no longer required. These measures will help to protect the environment.
+-  Keep this medicine out of the sight and reach of children.
+-  Do not use this medicine after the expiry date which is stated on the outer carton and on the vial label after EXP. The expiry date refers to the last day of that month.
+-  The unopened vial should be stored in a refrigerator (2°C-8°C).
+-  Do not freeze the reconstituted solution.
+-  Infusion solutions should be used immediately after dilution. If not used immediately, inuse storage times and conditions prior to use are the responsibility of the user.
+-  Do not use Zercepac if you notice any particulate matter or discoloration prior to administration.
+-  Medicines should not be disposed of via wastewater or household waste. Ask your pharmacist how to dispose of medicines no longer required. These measures will help to protect the environment.
 
 ## 6. Contents of the pack and other information
 
 ## What Zercepac contains
 
 - -The active substance is trastuzumab. Each vial contains either:
-- 60 mg trastuzumab that has to be dissolved in 3.0 mL of sterile water for injections, or
-- 150 mg trastuzumab that has to be dissolved in 7.2 mL of sterile water for injections, or
-- 420 mg trastuzumab that has to be dissolved in 20.0 mL of sterile water for injections.
-
-The resulting solution contains approximately 21 mg/mL trastuzumab.
-
-- -The other ingredient(s) are L-histidine hydrochloride monohydrate, Lhistidine, α,α -trehalose dihydrate, polysorbate 20.
+-  60 mg trastuzumab that has to be dissolved in 3.0 mL of sterile water for injections, or
+-  150 mg trastuzumab that has to be dissolved in 7.2 mL of sterile water for injections, or
+-  420 mg trastuzumab that has to be dissolved in 20.0 mL of sterile water for injections.
+- The resulting solution contains approximately 21 mg/mL trastuzumab.
+- -The other ingredient(s) are L-histidine hydrochloride monohydrate, L-histidine, α,α-trehalose dihydrate, polysorbate 20 (E432) (see section 2 'Polysorbate 20').
 
 ## What Zercepac looks like and contents of the pack
 
-Zercepac is a powder for concentrate for solution for intravenous infusion, which is supplied in a glass vial with a rubber stopper containing 60 mg or ,150  or 420 mg of trastuzumab. The powder is a white to pale yellow pellet. Each carton contains 1 vial of powder.
+Zercepac is a powder for concentrate for solution for intravenous infusion, which is supplied in a glass vial with a rubber stopper containing 60 mg or 150 or 420 mg of trastuzumab. The powder is a white to pale yellow pellet. Each carton contains 1 vial of powder.
 
 ## Marketing Authorisation Holder
 
@@ -1837,21 +1828,25 @@ Accord Healthcare S.L.U. World Trade Center, Moll de Barcelona, s/n, Edifici Est
 
 Accord Healthcare Polska Sp. z.o.o ul Lutomierska 50, 95-200 Pabianice Poland
 
+<div style=\"page-break-after: always\"></div>
+
 For any information about this medicine, please contact the local representative of the Marketing Authorisation Holder:
 
-AT / BE / BG / CY / CZ / DE / DK / EE / FI / FR / HR / HU / IE / IS / IT / LT / LV / LU / MT / NL / NO / PT / PL / RO / SE / SI / SK / ES
+## AT / BE / BG / CY / CZ / DE / DK / EE / FI / FR / HR / HU / IE / IS / IT / LT / LV / LU / MT / NL / NO / PT / PL / RO / SE / SI / SK / ES
 
-Accord Healthcare S.L.U. Tel: +34 93 301 00 64
+Accord Healthcare S.L.U.
+
+Tel: +34 93 301 00 64
 
 EL
 
 Win Medica A.E.
 
-<div style=\"page-break-after: always\"></div>
+Tel: +30 210 7488 821
 
-## This leaflet was last revised in
+## This leaflet was last revised in &lt;{MM/YYYY}&gt;.
 
-Detailed information on this medicine is available on the European Medicines Agency web site: http://www.ema.europa.eu
+Detailed information on this medicine is available on the European Medicines Agency web site: https://www.ema.europa.eu
 
 This leaflet is available in all EU/EEA languages on the European Medicines Agency website.
 
@@ -1877,16 +1872,19 @@ From a microbiological point of view, the reconstituted solution and Zercepac in
 
 The infusion preparation should be:
 
-- performed by trained personnel in accordance with good practice rules especially with respect to the aseptic preparation of parenteral products.
-- prepared in a laminar flow hood or biological safety cabinet using standard precautions for the safe handling of intravenous agents.
-- followed by adequate storage of the prepared solution for intravenous infusion to ensure maintenance of the aseptic conditions.
+-  performed by trained personnel in accordance with good practice rules especially with respect to the aseptic preparation of parenteral products.
+-  prepared in a laminar flow hood or biological safety cabinet using standard precautions for the
+
+<div style=\"page-break-after: always\"></div>
+
+safe handling of intravenous agents.
+
+-  followed by adequate storage of the prepared solution for intravenous infusion to ensure maintenance of the aseptic conditions.
 
 ## Instructions for aseptic reconstitution:
 
 - 1) Using a sterile syringe, slowly inject the appropriate volume (as noted below) of sterile water for injections (not supplied) in the vial containing the lyophilised Zercepac, directing the stream into the lyophilised cake. Use of other reconstitution solvents should be avoided.
 - 2) Swirl vial gently to aid reconstitution. DO NOT SHAKE!
-
-<div style=\"page-break-after: always\"></div>
 
 Slight foaming of the product upon reconstitution is not unusual. Allow the vial to stand undisturbed for approximately 5 minutes. The reconstituted Zercepac results in a colourless to pale yellow transparent solution and should be essentially free of visible particulates.
 
@@ -1904,16 +1902,20 @@ Reconstitution of the 420 mg vial with 20.0 mL of sterile water for injection yi
 
 Zercepac should be carefully handled during reconstitution. Causing excessive foaming during reconstitution or shaking the reconstituted Zercepac may result in problems with the amount of Zercepac that can be withdrawn from the vial.
 
-Instructions for aseptic dilution of the reconstituted solution
+## Instructions for aseptic dilution of the reconstituted solution
 
 Determine the volume of the solution required:
 
-- based on a loading dose of 4 mg trastuzumab/kg body weight, or a subsequent weekly dose of 2 mg trastuzumab/kg body weight:
+-  based on a loading dose of 4 mg trastuzumab/kg body weight, or a subsequent weekly dose of 2 mg trastuzumab/kg body weight:
 
 Volume (mL) = Body weight (kg) x dose ( 4 mg/kg for loading or 2 mg/kg for maintenance) 21 (mg/mL, concentration of reconstituted solution)
 
-- based on a loading dose of 8 mg trastuzumab/kg body weight, or a subsequent 3-weekly dose of 6 mg trastuzumab/kg body weight:
+-  based on a loading dose of 8 mg trastuzumab/kg body weight, or a subsequent 3-weekly dose of 6 mg trastuzumab/kg body weight:
 
-## Volume (mL) = Body weight (kg) x dose ( 8 mg/kg for loading or 6 mg/kg for maintenance) 21 (mg/mL, concentration of reconstituted solution)
+Volume (mL) = Body weight (kg) x dose ( 8 mg/kg for loading or 6 mg/kg for maintenance) 21 (mg/mL, concentration of reconstituted solution)
 
-The appropriate amount of solution should be withdrawn from the vial using a sterile needle and syringe and added to a polyethylene or polypropylene infusion bag containing 250 mL of 9 mg/ml (0.9%) sodium chloride solution. Do not use with glucose-containing solutions. The bag should be gently inverted to mix the solution in order to avoid foaming. Parenteral solutions should be inspected visually for particulates and discoloration prior to administration.
+The appropriate amount of solution should be withdrawn from the vial using a sterile needle and syringe and added to a polyethylene or polypropylene infusion bag containing 250 mL of 9 mg/ml (0.9%) sodium chloride solution. Do not use with glucose-containing solutions. The bag should be
+
+<div style=\"page-break-after: always\"></div>
+
+gently inverted to mix the solution in order to avoid foaming. Parenteral solutions should be inspected visually for particulates and discoloration prior to administration.

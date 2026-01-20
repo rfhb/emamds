@@ -1,21 +1,96 @@
 ---
-document_datetime: 2025-12-29 11:43:09
+document_datetime: 2026-01-20 17:20:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/libtayo.html
 document_name: libtayo.html
 version: success
-processing_time: 0.1119138
-conversion_datetime: 2025-12-29 23:36:22.586477
+processing_time: 0.1372395
+conversion_datetime: 2026-01-20 20:07:54.366055
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.66.0
-  docling-core: 2.57.0
+  docling-serve: 1.10.0
+  docling-jobkit: 1.8.1
+  docling: 2.69.0
+  docling-core: 2.60.0
   docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-parse: 4.7.3
   python: cpython-313 (3.13.11)
   plaform: macOS-26.2-arm64-arm-64bit-Mach-O
 ---
+# Search
+
+- [Medicines](/en/medicines)
+    - [Find medicine](/en/medicines)
+    - [Therapeutic areas: latest updates](/en/medicines/therapeutic-areas-latest-updates)
+    - [Download medicine data](/en/medicines/download-medicine-data)
+    - [What we publish on medicines and when](/en/medicines/what-we-publish-medicines-when)
+    - [Medicines under evaluation](/en/medicines/medicines-human-use-under-evaluation)
+    - [National registers](/en/medicines/national-registers-authorised-medicines)
+- [Human regulatory](/en/human-regulatory-overview)
+    - [Overview](/en/human-regulatory-overview)
+    - [Research and development](/en/human-regulatory-overview/research-development)
+    - [Marketing authorisation](/en/human-regulatory-overview/marketing-authorisation)
+    - [Post-authorisation](/en/human-regulatory-overview/post-authorisation)
+    - [Medical devices](/en/human-regulatory-overview/medical-devices)
+    - [Herbal products](/en/human-regulatory-overview/herbal-medicinal-products)
+- [Veterinary regulatory](/en/veterinary-regulatory-overview)
+    - [Overview](/en/veterinary-regulatory-overview)
+    - [Research and development](/en/veterinary-regulatory-overview/research-development-veterinary-medicines)
+    - [Marketing authorisation](/en/veterinary-regulatory-overview/marketing-authorisation-veterinary-medicines)
+    - [Post-authorisation](/en/veterinary-regulatory-overview/post-authorisation-veterinary-medicines)
+- [Committees](/en/committees)
+    - [Overview](/en/committees)
+    - [How the committees work](/en/committees/how-committees-work)
+    - [CHMP](/en/committees/committee-medicinal-products-human-use-chmp)
+    - [CVMP](/en/committees/committee-veterinary-medicinal-products-cvmp)
+    - [PRAC](/en/committees/pharmacovigilance-risk-assessment-committee-prac)
+    - [COMP](/en/committees/committee-orphan-medicinal-products-comp)
+    - [HMPC](/en/committees/committee-herbal-medicinal-products-hmpc)
+    - [CAT](/en/committees/committee-advanced-therapies-cat)
+    - [PDCO](/en/committees/paediatric-committee-pdco)
+    - [Working parties and other groups](/en/committees/working-parties-other-groups)
+- [News &amp; events](/en/news-events)
+    - [Overview](/en/news-events)
+    - [News](/en/news)
+    - [Events](/en/events/upcoming-events)
+    - [What's new](/en/news-events/whats-new)
+    - [Committee highlights](/en/news-events/committee-highlights)
+    - [Publications](/en/news-and-events/publications)
+    - [Press and social media](/en/news-events/press-social-media)
+    - [Podcast: Inside EMA](/en/news-events/podcast-inside-ema)
+    - [Open consultations](/en/news-events/open-consultations)
+    - [RSS feeds](/en/news-events/rss-feeds)
+- [Partners &amp; networks](/en/partners-networks)
+    - [Overview](/en/partners-networks)
+    - [Animal health practitioners](/en/partners-networks/animal-health-practitioners)
+    - [One Health approach](/en/partners-networks/one-health-approach)
+    - [Academia](/en/partners-networks/academia)
+    - [EU partners](/en/partners-networks/eu-partners)
+    - [International activities](/en/partners-networks/international-activities)
+    - [Patients and consumers](/en/partners-networks/patients-consumers)
+    - [Healthcare professionals](/en/partners-networks/healthcare-professionals)
+    - [Pharmaceutical industry](/en/partners-networks/pharmaceutical-industry)
+    - [Networks](/en/partners-networks/networks)
+    - [Health technology assessment bodies](/en/partners-networks/health-technology-assessment-bodies)
+- [About us](/en/about-us)
+    - [Overview](/en/about-us)
+    - [What we do](/en/about-us/what-we-do)
+    - [Who we are](/en/about-us/who-we-are)
+    - [How we work](/en/about-us/how-we-work)
+    - [Fees](/en/about-us/fees-payable-european-medicines-agency)
+    - [Support to SMEs](/en/about-us/support-smes)
+    - [Annual reports and work programmes](/en/about-us/annual-reports-work-programmes)
+    - [History of EMA](/en/about-us/history-ema)
+    - [Careers](/en/about-us/careers)
+    - [Procurement](/en/about-us/procurement-grants)
+    - [Glossaries](/en/about-us/glossaries)
+    - [About this website](/en/about-us/about-website)
+    - [Data protection and privacy](/en/about-us/data-protection-privacy-ema)
+    - [Contacts](/en/about-us/contacts-european-medicines-agency)
+
+1. [Home](/en/homepage)
+2. [Medicines](https://www.ema.europa.eu/en/medicines)
+3. Libtayo
+
 # Libtayo
 
 [RSS](/en/individual-human-medicine.xml/67212)
@@ -25,8 +100,6 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 cemiplimab Medicine Human Authorised
-
-On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -142,9 +215,275 @@ English (EN) (157.37 KB - PDF)
 
 **First published:** 05/07/2019
 
-**Last updated:** 10/12/2025
+**Last updated:** 20/01/2026
 
 [View](/en/documents/overview/libtayo-epar-medicine-overview_en.pdf)
+
+[Other languages (22)](#file-language-dropdown-990)
+
+български (BG) (183.67 KB - PDF)
+
+**First published:**
+
+05/07/2019
+
+**Last updated:**
+
+20/01/2026
+
+[View](/bg/documents/overview/libtayo-epar-medicine-overview_bg.pdf)
+
+español (ES) (163.67 KB - PDF)
+
+**First published:**
+
+05/07/2019
+
+**Last updated:**
+
+20/01/2026
+
+[View](/es/documents/overview/libtayo-epar-medicine-overview_es.pdf)
+
+čeština (CS) (190.02 KB - PDF)
+
+**First published:**
+
+05/07/2019
+
+**Last updated:**
+
+20/01/2026
+
+[View](/cs/documents/overview/libtayo-epar-medicine-overview_cs.pdf)
+
+dansk (DA) (162.02 KB - PDF)
+
+**First published:**
+
+05/07/2019
+
+**Last updated:**
+
+20/01/2026
+
+[View](/da/documents/overview/libtayo-epar-medicine-overview_da.pdf)
+
+Deutsch (DE) (167.76 KB - PDF)
+
+**First published:**
+
+05/07/2019
+
+**Last updated:**
+
+20/01/2026
+
+[View](/de/documents/overview/libtayo-epar-medicine-overview_de.pdf)
+
+eesti keel (ET) (160.82 KB - PDF)
+
+**First published:**
+
+05/07/2019
+
+**Last updated:**
+
+20/01/2026
+
+[View](/et/documents/overview/libtayo-epar-medicine-overview_et.pdf)
+
+ελληνικά (EL) (200.22 KB - PDF)
+
+**First published:**
+
+05/07/2019
+
+**Last updated:**
+
+20/01/2026
+
+[View](/el/documents/overview/libtayo-epar-medicine-overview_el.pdf)
+
+français (FR) (166.52 KB - PDF)
+
+**First published:**
+
+05/07/2019
+
+**Last updated:**
+
+20/01/2026
+
+[View](/fr/documents/overview/libtayo-epar-medicine-overview_fr.pdf)
+
+hrvatski (HR) (189.54 KB - PDF)
+
+**First published:**
+
+05/07/2019
+
+**Last updated:**
+
+20/01/2026
+
+[View](/hr/documents/overview/libtayo-epar-medicine-overview_hr.pdf)
+
+italiano (IT) (161.55 KB - PDF)
+
+**First published:**
+
+05/07/2019
+
+**Last updated:**
+
+20/01/2026
+
+[View](/it/documents/overview/libtayo-epar-medicine-overview_it.pdf)
+
+latviešu valoda (LV) (198.16 KB - PDF)
+
+**First published:**
+
+05/07/2019
+
+**Last updated:**
+
+20/01/2026
+
+[View](/lv/documents/overview/libtayo-epar-medicine-overview_lv.pdf)
+
+lietuvių kalba (LT) (189.3 KB - PDF)
+
+**First published:**
+
+05/07/2019
+
+**Last updated:**
+
+20/01/2026
+
+[View](/lt/documents/overview/libtayo-epar-medicine-overview_lt.pdf)
+
+magyar (HU) (190.47 KB - PDF)
+
+**First published:**
+
+05/07/2019
+
+**Last updated:**
+
+20/01/2026
+
+[View](/hu/documents/overview/libtayo-epar-medicine-overview_hu.pdf)
+
+Malti (MT) (194.61 KB - PDF)
+
+**First published:**
+
+05/07/2019
+
+**Last updated:**
+
+20/01/2026
+
+[View](/mt/documents/overview/libtayo-epar-medicine-overview_mt.pdf)
+
+Nederlands (NL) (155.62 KB - PDF)
+
+**First published:**
+
+05/07/2019
+
+**Last updated:**
+
+20/01/2026
+
+[View](/nl/documents/overview/libtayo-epar-medicine-overview_nl.pdf)
+
+polski (PL) (191.81 KB - PDF)
+
+**First published:**
+
+05/07/2019
+
+**Last updated:**
+
+20/01/2026
+
+[View](/pl/documents/overview/libtayo-epar-medicine-overview_pl.pdf)
+
+português (PT) (164.21 KB - PDF)
+
+**First published:**
+
+05/07/2019
+
+**Last updated:**
+
+20/01/2026
+
+[View](/pt/documents/overview/libtayo-epar-medicine-overview_pt.pdf)
+
+română (RO) (186.88 KB - PDF)
+
+**First published:**
+
+05/07/2019
+
+**Last updated:**
+
+20/01/2026
+
+[View](/ro/documents/overview/libtayo-epar-medicine-overview_ro.pdf)
+
+slovenčina (SK) (190 KB - PDF)
+
+**First published:**
+
+05/07/2019
+
+**Last updated:**
+
+20/01/2026
+
+[View](/sk/documents/overview/libtayo-epar-medicine-overview_sk.pdf)
+
+slovenščina (SL) (180.8 KB - PDF)
+
+**First published:**
+
+05/07/2019
+
+**Last updated:**
+
+20/01/2026
+
+[View](/sl/documents/overview/libtayo-epar-medicine-overview_sl.pdf)
+
+Suomi (FI) (160.61 KB - PDF)
+
+**First published:**
+
+05/07/2019
+
+**Last updated:**
+
+20/01/2026
+
+[View](/fi/documents/overview/libtayo-epar-medicine-overview_fi.pdf)
+
+svenska (SV) (154.23 KB - PDF)
+
+**First published:**
+
+05/07/2019
+
+**Last updated:**
+
+20/01/2026
+
+[View](/sv/documents/overview/libtayo-epar-medicine-overview_sv.pdf)
 
 Libtayo : EPAR - Risk management plan
 
@@ -168,7 +507,7 @@ English (EN) (1.36 MB - PDF)
 
 [View](/en/documents/product-information/libtayo-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-18)
+[Other languages (24)](#file-language-dropdown-850)
 
 български (BG) (1.56 MB - PDF)
 
@@ -482,7 +821,7 @@ English (EN) (11.84 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/libtayo-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-431)
+[Other languages (24)](#file-language-dropdown-266)
 
 български (BG) (44.08 KB - PDF)
 
@@ -948,7 +1287,7 @@ English (EN) (115.36 KB - PDF)
 
 - [Medicines](https://www.ema.europa.eu/en/search?f%5B0%5D=ema_search_topics%3A61)
 
-**This page was last updated on** 10/12/2025
+**This page was last updated on** 20/01/2026
 
 ## Share this page
 

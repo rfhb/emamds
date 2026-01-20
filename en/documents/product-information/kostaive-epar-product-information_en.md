@@ -1,18 +1,18 @@
 ---
-document_datetime: 2025-12-09 09:07:20
-document_pages: 31
+document_datetime: 2026-01-20 14:09:50
+document_pages: 32
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/kostaive-epar-product-information_en.pdf
 document_name: kostaive-epar-product-information_en.pdf
 version: success
-processing_time: 11.3838758
-conversion_datetime: 2025-12-21 22:42:55.862955
+processing_time: 7.7156053
+conversion_datetime: 2026-01-20 20:33:14.785163
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.64.1
-  docling-core: 2.55.0
+  docling-serve: 1.10.0
+  docling-jobkit: 1.8.1
+  docling: 2.69.0
+  docling-core: 2.60.0
   docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-parse: 4.7.3
   python: cpython-313 (3.13.11)
   plaform: macOS-26.2-arm64-arm-64bit-Mach-O
 ---
@@ -116,9 +116,9 @@ An increased risk of myocarditis and pericarditis has been observed following va
 
 Healthcare professionals should be alert to the signs and symptoms of myocarditis and pericarditis. Vaccine recipients (including parents or caregivers) should be instructed to seek immediate medical attention if they develop symptoms indicative of myocarditis or pericarditis.
 
-## Anxiety-related reactions
-
 <div style=\"page-break-after: always\"></div>
+
+## Anxiety-related reactions
 
 Anxiety-related reactions, including vasovagal reactions (syncope), hyperventilation or stress-related reactions, may occur in association with vaccination as a psychogenic response to the needle injection. Procedures should be in place to avoid injury from fainting.
 
@@ -150,9 +150,9 @@ This vaccine contains less than 1 mmol sodium (23 mg) per dose, that is to say e
 
 ## 4.5 Interaction with other medicinal products and other forms of interaction
 
-No interaction studies have been performed.
+Kostaive may be administered concomitantly with seasonal influenza vaccine.
 
-Concomitant administration of Kostaive with other vaccines has not been studied.
+Different injectable vaccines should be given at different injection sites.
 
 ## 4.6 Fertility, pregnancy and lactation
 
@@ -197,7 +197,9 @@ The safety profile presented below is based on data from 2 clinical studies:
 - Study ARCT-154-01, conducted to evaluate the safety, immunogenicity, and efficacy of a 2dose regimen of Kostaive, involving participants 18 years of age and older who received at least one dose of Kostaive (N=8 807).
 - Study ARCT-154-J01, conducted to evaluate the safety and immunogenicity for booster immunisation. In this study, a single dose of Kostaive was administered to participants aged 18 years or older (N=420) who had previously received 3 doses of authorised COVID-19 mRNA vaccines at least 3 months prior to enrollment.
 
-Adverse reactions observed during clinical studies are listed according to the following frequency categories: Very common (≥ 1/10) Common (≥ 1/100 to &lt; 1/10) Uncommon (≥ 1/1 000 to &lt; 1/100) Rare (≥ 1/10 000 to &lt; 1/1 000) Very rare (&lt; 1/10 000) Not known (cannot be estimated from the available data)
+Adverse reactions observed during clinical studies are listed according to the following frequency categories:
+
+Very common (≥ 1/10) Common (≥ 1/100 to &lt; 1/10) Uncommon (≥ 1/1 000 to &lt; 1/100) Rare (≥ 1/10 000 to &lt; 1/1 000) Very rare (&lt; 1/10 000) Not known (cannot be estimated from the available data)
 
 <div style=\"page-break-after: always\"></div>
 
@@ -205,14 +207,16 @@ Table 1 Adverse reactions
 
 | MedDRA System Organ Class                            | Adverse reactions                                                                                                                                                              | Frequency                                                                               |
 |------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------|
-| Immune system disorders                              | Hypersensitivity (e.g., rash, urticaria, allergic dermatitis, type IV hypersensitivity) Anaphylaxis                                                                            | Uncommon Very rare                                                                      |
+| Immune system disorders                              | Immediate and delayed hypersensitivity reactions (e.g., rash, urticaria, allergic dermatitis) Anaphylaxis                                                                      | Uncommon Very rare                                                                      |
 | Nervous system disorders                             | Headache Dizziness                                                                                                                                                             | Very common Very common                                                                 |
 | Gastrointestinal disorders                           | Diarrhoea Nausea Vomiting                                                                                                                                                      | Common Common Common                                                                    |
 | Musculoskeletal and connective tissue disorders      | Arthralgia Myalgia                                                                                                                                                             | Very common Very common                                                                 |
 | General disorders and administration site conditions | Injection site pain Injection site tenderness Fatigue/malaise Chills Pyrexia Injection site swelling Injection site induration Injection site erythema Injection site pruritus | Very common Very common Very common Very common Very common Common Common Common Common |
 | Investigations                                       | Neutrophil count decreased a                                                                                                                                                   | Not known                                                                               |
 
-a Neutrophil count decreases observed in clinical trial participants were transient and clinically asymptomatic.
+## Concomitant administration with seasonal influenza vaccine
+
+Study ARCT-2303-01 was conducted to evaluate the safety and immunogenicity of a single booster dose of Kostaive co-administered with seasonal influenza vaccine in participants 18 to &lt; 65 years of age (N=403), and 65 years of age and older (N=99). Reactogenicity events were reported at a similar frequency by participants who received Kostaive co-administered with influenza vaccine or Kostaive alone, with no increase in intensity of local or systemic adverse reactions.
 
 ## Reporting of suspected adverse reactions
 
@@ -222,6 +226,8 @@ Reporting suspected adverse reactions after authorisation of the medicinal produ
 
 In the event of an overdose, monitoring of vital functions and possible symptomatic treatment is recommended.
 
+<div style=\"page-break-after: always\"></div>
+
 ## 5. PHARMACOLOGICAL PROPERTIES
 
 ## 5.1 Pharmacodynamic properties
@@ -230,11 +236,7 @@ Pharmacotherapeutic group: Vaccines, COVID-19 vaccines, RNA-based vaccine, ATC c
 
 ## Mechanism of action
 
-Kostaive is composed of a self-amplifying mRNA encoding the spike protein of SARS-CoV-2, encapsulated in lipid nanoparticles. The self-amplifying mRNA is designed to produce extra copies of mRNA within the host cells after intramuscular injection, to achieve enhanced expression of the spike protein antigen. This gives rise to neutralising antibody and cellular immune responses to the spike
-
-<div style=\"page-break-after: always\"></div>
-
-antigen, which contributes to protection against COVID-19. The mRNA self-amplification process is transient and does not generate infectious particles.
+Kostaive is composed of a self-amplifying mRNA encoding the spike protein of SARS-CoV-2, encapsulated in lipid nanoparticles. The self-amplifying mRNA is designed to produce extra copies of mRNA within the host cells after intramuscular injection, to achieve enhanced expression of the spike protein antigen. This gives rise to neutralising antibody and cellular immune responses to the spike antigen, which contributes to protection against COVID-19. The mRNA self-amplification process is transient and does not generate infectious particles.
 
 ## Clinical efficacy
 
@@ -242,7 +244,7 @@ Study ARCT-154-01 was a randomised, controlled, observer-blind, multicentre clin
 
 The efficacy was evaluated in the mITT analysis set, including 15 458 participants, 7 762 in Kostaive (zapomeran) group and 7 696 in placebo group.
 
-Randomisation was stratified by age (&lt; 60 or ≥ 60 years of age) and, for participants &lt; 60 years of age, by risk of severe COVID-19 (those with asthma, cancer, cerebrovascular disease, chronic kidney/liver/lung disease, cystic fibrosis, diabetes mellitus Type 1 or 2, cardiovascular conditions, mental health conditions, smoking, pulmonary fibrosis, Down syndrome, obesity, sickle cell disease, or substance abuse disorder). All parti cipants ≥ 60 years of age were deemed to be at high risk for severe COVID-19. Among participants who received Kostaive, 5.5% (n=485) had significant underlying medical conditions, including cardiovascular diseases, diabetes, obesity, liver disorders, chronic obstructive pulmonary disease (COPD), and asthma. The study excluded participants who were immunocompromised, including those with a known diagnosis of the human immunodeficiency virus (HIV) or taking immunosuppressive medication, and those who had a previous clinical or microbiological diagnosis of COVID-19.
+Randomisation was stratified by age (&lt; 60 or ≥ 60 years of age) and, for participants &lt; 60 years of age, by risk of severe COVID-19 (those with asthma, cancer, cerebrovascular disease, chronic kidney/liver/lung disease, cystic fibrosis, diabetes mellitus Type 1 or 2, cardiovascular conditions, mental health conditions, smoking, pulmonary fibrosis, Down syndrome, obesity, sickle cell disease, or substance abuse di sorder). All participants ≥ 60 years of age were deemed to be at high risk for severe COVID-19. Among participants who received Kostaive, 5.5% (n=485) had significant underlying medical conditions, including cardiovascular diseases, diabetes, obesity, liver disorders, chronic obstructive pulmonary disease (COPD), and asthma. The study excluded participants who were immunocompromised, including those with a known diagnosis of the human immunodeficiency virus (HIV) or taking immunosuppressive medication, and those who had a previous clinical or microbiological diagnosis of COVID-19.
 
 Participants with pre-existing acute or chronic medical conditions, including participants with known infection with hepatitis C virus (HCV) or hepatitis B virus (HBV) disease, were eligible for inclusion. Demographic and baseline characteristics were similar between groups for individuals in the 2 age cohorts and by risk groups. Among the total participants who received Kostaive, 49% were male and 51% were female, 99.6% were Asian, and 0.4% were described as 'other' for race, respectively. At the time of vaccination, the mean age of the population was 46.4 years (age range 18-89 years).
 
@@ -251,6 +253,8 @@ The overall primary efficacy endpoint was vaccine efficacy (VE), defined as the 
 For participants without evidence of SARS-CoV-2 infection prior to 7 days after dose 2, vaccine efficacy against confirmed COVID-19 occurring at least 7 days after dose 2 was 56.7% (95% confidence interval: 48.8% to 63.4%). The number of COVID-19 cases was 200 and 440 in the Kostaive and placebo groups, respectively. At the time of the primary efficacy analysis, participants had been followed for symptomatic COVID-19 for in total 1 146 person-years for Kostaive and in total 1 120 person-years in the placebo group.
 
 The information relating to the evaluation of overall vaccine efficacy is presented in Table 2.
+
+<div style=\"page-break-after: always\"></div>
 
 Table 2 Vaccine efficacy against virologically confirmed, protocol-defined COVID-19 between day 36 and day 92 - modified intent-to-treat (mITT) population
 
@@ -261,13 +265,9 @@ Table 2 Vaccine efficacy against virologically confirmed, protocol-defined COVID
 | Number of confirmed COVID-19 cases, n (%) | 200 (2.6)                  | 440 (5.7)                  | 56.7 (48.8 - 63.4)         |
 | Surveillance time b (person-years)        | 1 146.2                    | 1 120.2                    | 56.7 (48.8 - 63.4)         |
 | Healthy ≥ 18 to < 60 years                | Healthy ≥ 18 to < 60 years | Healthy ≥ 18 to < 60 years | Healthy ≥ 18 to < 60 years |
-| N                                         | 3 882                      | 3 896                      | 49.8                       |
-| Number of confirmed COVID-19 cases, n (%) | 126 (3.2)                  | 246 (6.3)                  | (37.8 - 59.5)              |
-
-<div style=\"page-break-after: always\"></div>
-
-| Surveillance time b (person-years)        | 572.1                      | 566.1                      |                            |
-|-------------------------------------------|----------------------------|----------------------------|----------------------------|
+| N                                         | 3 882                      | 3 896                      | 49.8 (37.8 - 59.5)         |
+| Number of confirmed COVID-19 cases, n (%) | 126 (3.2)                  | 246 (6.3)                  | 49.8 (37.8 - 59.5)         |
+| Surveillance time b (person-years)        | 572.1                      | 566.1                      | 49.8 (37.8 - 59.5)         |
 | At risk ≥ 18 to < 60 years                | At risk ≥ 18 to < 60 years | At risk ≥ 18 to < 60 years | At risk ≥ 18 to < 60 years |
 | N                                         | 2 519                      | 2 471                      | 69.7 (57.6 - 78.3)         |
 | Number of confirmed COVID-19 cases, n (%) | 46 (1.8)                   | 138 (5.6)                  | 69.7 (57.6 - 78.3)         |
@@ -283,38 +283,38 @@ mITT, modified intent-to-treat (includes all participants who received all proto
 
 'At-risk' was defined as individuals that are considered to have higher risk of developing severe COVID-19.
 
-a VE is calculated by 1-HR from cox regression adjusting for risk group and region of study site, or 1-RR when number of confirmed cases is 0 in the Kostaive group.
+a VE is calculated by 1-HR from cox regression adjusting for risk group and region of study site.
 
 b The surveillance time refers to the total person-time at risk in years for the given endpoint.
 
-Efficacy against severe COVID-19
+## Efficacy against severe COVID-19
 
 The efficacy of Kostaive for the prevention of virologically confirmed severe COVID-19, including death, was evaluated (Table 3). Severe COVID-19 comprised any of the following: respiratory rate ≥ 30 per minute, heart rate ≥ 125 per minute, oxygen saturation level (SpO2) ≤ 93% on room air at sea level or arterial oxygen partial pressure (PO2)/fractional inspired oxygen (FiO2) &lt; 300 mm Hg, respiratory failure (defined as needing high flow oxygen, noninvasive ventilation, mechanical ventilation or extracorporeal membrane oxygenation (ECMO)), shock (defined as systolic blood pressure &lt; 90 mm Hg, diastolic blood pressure &lt; 60 mm Hg, or requirement for vasopressors), significant acute renal, hepatic, or neurologic dysfunction, admission to an intensive care unit, death. The endpoint was the first occurrence of confirmed, protocol-defined severe COVID-19 with onset between days 36 and 92, inclusive.
 
 Table 3 Vaccine efficacy against virologically confirmed, protocol-defined severe COVID-19 between day 36 and day 92 - modified intent-to-treat (mITT) population
 
-| Subgroup                                  | Kostaive                   | Placebo                    | VE %(95% CI) a             |
-|-------------------------------------------|----------------------------|----------------------------|----------------------------|
-| All participants                          | All participants           | All participants           | All participants           |
-| N                                         | 7 762                      | 7 696                      | 95.3 (80.5-98.9)           |
-| Number of confirmed COVID-19 cases, n (%) | 2 (0.0)                    | 41 (0.5)                   | 95.3 (80.5-98.9)           |
-| Surveillance time b (person-years)        | 1 162.9                    | 1 154.7                    | 95.3 (80.5-98.9)           |
-| Healthy ≥ 18 to < 60 years                | Healthy ≥ 18 to < 60 years | Healthy ≥ 18 to < 60 years | Healthy ≥ 18 to < 60 years |
-| N                                         | 3 882                      | 3 896                      | 100.0 (NE)                 |
-| Number of confirmed COVID-19 cases, n (%) | 0 (0.0)                    | 15 (0.4)                   | 100.0 (NE)                 |
-| Surveillance time b (person-years)        | 582.7                      | 585.8                      | 100.0 (NE)                 |
-| At risk ≥ 18 to < 60 years                | At risk ≥ 18 to < 60 years | At risk ≥ 18 to < 60 years | At risk ≥ 18 to < 60 years |
-| N                                         | 2 519                      | 2 471                      | 89.5 (16.8-98.7)           |
-| Number of confirmed COVID-19 cases, n (%) | 1 (0.0)                    | 9 (0.4)                    | 89.5 (16.8-98.7)           |
-| Surveillance time b (person-years)        | 376.9                      | 370.9                      | 89.5 (16.8-98.7)           |
-| ≥ 60 years                                | ≥ 60 years                 | ≥ 60 years                 | ≥ 60 years                 |
-| N                                         | 1 361                      | 1 329                      |                            |
+| Subgroup                                  | Kostaive         | Placebo          | VE %(95% CI) a   |
+|-------------------------------------------|------------------|------------------|------------------|
+| All participants                          | All participants | All participants | All participants |
+| N                                         | 7 762            | 7 696            | 95.3 (80.5-98.9) |
+| Number of confirmed COVID-19 cases, n (%) | 2 (0.0)          | 41 (0.5)         | 95.3 (80.5-98.9) |
+| Surveillance time b (person-years)        | 1 162.9          | 1 154.7          | 95.3 (80.5-98.9) |
 
 <div style=\"page-break-after: always\"></div>
 
-| Number of confirmed COVID-19 cases, n (%)   |   1 (0.1) |   17 (1.3) | 94.4        |
-|---------------------------------------------|-----------|------------|-------------|
-| Surveillance time b (person-years)          |     203.4 |      197.9 | (58.2-99.3) |
+| Healthy ≥ 18 to < 60 years                | Healthy ≥ 18 to < 60 years   | Healthy ≥ 18 to < 60 years   | Healthy ≥ 18 to < 60 years   |
+|-------------------------------------------|------------------------------|------------------------------|------------------------------|
+| N                                         | 3 882                        | 3 896                        | 100.0 (NE)                   |
+| Number of confirmed COVID-19 cases, n (%) | 0 (0.0)                      | 15 (0.4)                     | 100.0 (NE)                   |
+| Surveillance time b (person-years)        | 582.7                        | 585.8                        | 100.0 (NE)                   |
+| At risk ≥ 18 to < 60 years                | At risk ≥ 18 to < 60 years   | At risk ≥ 18 to < 60 years   | At risk ≥ 18 to < 60 years   |
+| N                                         | 2 519                        | 2 471                        | 89.5 (16.8-98.7)             |
+| Number of confirmed COVID-19 cases, n (%) | 1 (0.0)                      | 9 (0.4)                      | 89.5 (16.8-98.7)             |
+| Surveillance time b (person-years)        | 376.9                        | 370.9                        | 89.5 (16.8-98.7)             |
+| ≥ 60 years                                | ≥ 60 years                   | ≥ 60 years                   | ≥ 60 years                   |
+| N                                         | 1 361                        | 1 329                        | 94.4 (58.2-99.3)             |
+| Number of confirmed COVID-19 cases, n (%) | 1 (0.1)                      | 17 (1.3)                     | 94.4 (58.2-99.3)             |
+| Surveillance time b (person-years)        | 203.4                        | 197.9                        | 94.4 (58.2-99.3)             |
 
 Abbreviations: CI, confidence interval; COVID-19, coronavirus disease 2019; HR, hazard ratio; N, number of participants at risk; n, number of participants with case reported; NE, not estimable; RR, relative risk; SARSCoV-2, severe acute respiratory syndrome coronavirus 2; VE, vaccine efficacy.
 
@@ -328,33 +328,31 @@ Immunogenicity in participants 18 years of age and older after booster dose
 
 The evaluation of immunogenicity of a booster dose is based on the results of Study ARCT-154-J01, conducted in Japan, which compared the immune response that followed a booster dose of Kostaive (zapomeran) with that of the comparator (tozinameran, BNT162b2) in adult individuals who previously received the primary vaccination series and 1 booster dose with authorised COVID-19 mRNA vaccines. In this study, immunogenicity was assessed using a virus neutralisation assay against ancestral SARS-CoV-2 strain and Omicron BA.4/5 variant.
 
-The primary objective of Study ARCT-154-J01 was to demonstrate the noninferiority of Kostaive compared to the comparator vaccine in terms of ratio of geometric mean antibody titres (GMTs) and difference in seroresponse rates (SRR) against ancestral SARS-CoV-2 strain on day 29 after vaccination. In case the noninferiority is demonstrated for ancestral strain, similar testing was to be performed for Omicron BA.4/5 variant. When the second noninferiority is demonstrated, the superiority of Kostaive versus the comparator for Omicron BA.4/5 variant was tested. Additional testing of GMTs up to 6 months was conducted to assess the duration of the antibody response.
+The primary objective of Study ARCT-154-J01 was to demonstrate the noninferiority of Kostaive compared to the comparator vaccine in terms of ratio of geometric mean antibody titres (GMTs) and difference in seroresponse rates (SRR) against ancestral SARS-CoV-2 strain on day 29 after vaccination. In case the noninferiority is demonstrated for ancestral strain, similar testing was to be performed for Omicron BA.4/5 variant. When the second noninferiority is demonstrated, the superiority of Kostaive versus the comparator for Omicron BA.4/5 variant was tested. Additional testing of GMTs up to 12 months was conducted to assess the duration of the antibody response.
 
 A total of 828 participants were enrolled in the study and randomised (1:1) to Kostaive and comparator vaccine group. At the time of vaccination, the mean age was 45.7 years (age range 18-77 years). Of 828 participants, who were randomised and received a study vaccine, 759 participants were included in Per Protocol Set 1 (PPS-1), the analysis set for the primary immunogenicity endpoint.
 
 The results of Study ARCT-154-J01 are presented in Table 4. One month after vaccination, Kostaive demonstrated noninferiority versus the comparator vaccine against ancestral SARS-CoV-2 strain and superiority against Omicron BA.4/5 variant. Longer term immunogenicity data showed that neutralising antibodies persisted, with approximately 2-fold higher GMTs detected for Kostaive compared to the comparator vaccine at 3, 6 and 12 months after vaccination, for both strains.
 
-## Table 4 Summary of immune response against SARS-CoV-2 ancestral strain and Omicron BA.4/5 variant up to 12 months following administration of booster dose
-
-| Strain                        | Time Point Endpoint   | GMT/ SRR (95% CI)   | GMT/ SRR (95% CI)    | GMT/ SRR (95% CI)   | GMT/ SRR (95% CI)    | GMTratio / SRR difference   |
-|-------------------------------|-----------------------|---------------------|----------------------|---------------------|----------------------|-----------------------------|
-|                               |                       | N a                 | Kostaive             | N a                 | Comparator*          | (95% CI)                    |
-| Ancestral strain (Wuhan-Hu-1) | Pre-vaccination GMT   | 385                 | 813 (716, 924)       | 374                 | 866 (755, 993)       | 0.94 (0.78, 1.13)           |
-| Ancestral strain (Wuhan-Hu-1) | 1 month GMT           | 385                 | 5 641 (4 321, 7 363) | 374                 | 3 934 (2 993, 5 169) | 1.43 b (1.26, 1.63)         |
-|                               | 1 month SRR           | 385                 | 65.2 (60.2, 69.9)    | 374                 | 51.6 (46.4, 56.8)    | 13.6 b (6.8, 20.5)          |
-|                               | 3 months GMT          | 369                 | 5 928 (5 414, 6 491) | 356                 | 2 899 (2 648, 3 175) | 2.04 c (1.80, 2.32)         |
-|                               | 6 months GMT          | 332                 | 4 119 (3 723, 4 557) | 313                 | 1 861 (1 667, 2 078) | 2.21 c (1.91, 2.57)         |
-
 <div style=\"page-break-after: always\"></div>
 
-|                | 12 months GMT       |   272 | 3 396 (3 019, 3 821)   |   266 | 1 771 (1 532, 2 047)   | 1.92 c (1.59, 2.31)   |
-|----------------|---------------------|-------|------------------------|-------|------------------------|-----------------------|
-| Omicron BA.4/5 | Pre-vaccination GMT |   385 | 275 (227, 335)         |   374 | 292 (236, 360)         | 0.94 (0.71, 1.26)     |
-| Omicron BA.4/5 | 1 month GMT         |   385 | 2 551 (1 687, 3 859)   |   374 | 1 958 (1 281, 2 993)   | 1.30 d (1.07, 1.58)   |
-| Omicron BA.4/5 | 1 month SRR         |   385 | 69.9 (65.0, 74.4)      |   374 | 58.0 (52.8, 63.1)      | 11.6 d (4.9, 18.3)    |
-| Omicron BA.4/5 | 3 months GMT        |   369 | 1 892 (1 646, 2 175)   |   356 | 888 (764, 1 031)       | 2.13 c (1.74, 2.61)   |
-| Omicron BA.4/5 | 6 months GMT        |   332 | 1 119 (960, 1 305)     |   313 | 495 (413, 595)         | 2.26 c (1.78, 2.86)   |
-| Omicron BA.4/5 | 12 months GMT       |   272 | 881 (735, 1 057)       |   266 | 467 (376, 580)         | 1.89 c (1.42, 2.50)   |
+Table 4 Summary of immune response against SARS-CoV-2 ancestral strain and Omicron BA.4/5 variant up to 12 months following administration of booster dose
+
+| Strain   | Time Point Endpoint   | GMT/ SRR (95% CI)   | GMT/ SRR (95% CI)    | GMT/ SRR (95% CI)   | GMT/ SRR (95% CI)    | GMTratio / SRR difference (95% CI)   |
+|----------|-----------------------|---------------------|----------------------|---------------------|----------------------|--------------------------------------|
+| Strain   | Time Point Endpoint   | N a                 | Kostaive             | N a                 | Comparator*          | GMTratio / SRR difference (95% CI)   |
+|          | Pre- vaccination GMT  | 385                 | 813 (716, 924)       | 374                 | 866 (755, 993)       | 0.94 (0.78, 1.13)                    |
+|          | 1 month GMT           | 385                 | 5 641 (4 321, 7 363) | 374                 | 3 934 (2 993, 5 169) | 1.43 b (1.26, 1.63)                  |
+|          | 1 month SRR           | 385                 | 65.2 (60.2, 69.9)    | 374                 | 51.6 (46.4, 56.8)    | 13.6 b (6.8, 20.5)                   |
+|          | 3 months GMT          | 369                 | 5 928 (5 414, 6 491) | 356                 | 2 899 (2 648, 3 175) | 2.04 c (1.80, 2.32)                  |
+|          | 6 months GMT          | 332                 | 4 119 (3 723, 4 557) | 313                 | 1 861 (1 667, 2 078) | 2.21 c (1.91, 2.57)                  |
+|          | 12 months GMT         | 272                 | 3 396 (3 019, 3 821) | 266                 | 1 771 (1 532, 2 047) | 1.92 c (1.59, 2.31)                  |
+|          | Pre- vaccination GMT  | 385                 | 275 (227, 335)       | 374                 | 292 (236, 360)       | 0.94 (0.71, 1.26)                    |
+|          | 1 month GMT           | 385                 | 2 551 (1 687, 3 859) | 374                 | 1 958 (1 281, 2 993) | 1.30 d (1.07, 1.58)                  |
+|          | 1 month SRR           | 385                 | 69.9 (65.0, 74.4)    | 374                 | 58.0 (52.8, 63.1)    | 11.6 d (4.9, 18.3)                   |
+|          | 3 months GMT          | 369                 | 1 892 (1 646, 2 175) | 356                 | 888 (764, 1 031)     | 2.13 c (1.74, 2.61)                  |
+|          | 6 months GMT          | 332                 | 1 119 (960, 1 305)   | 313                 | 495 (413, 595)       | 2.26 c (1.78, 2.86)                  |
+|          | 12 months GMT         | 272                 | 881 (735, 1 057)     | 266                 | 467 (376, 580)       | 1.89 c (1.42, 2.50)                  |
 
 Abbreviations:  CI, confidence interval; GMT, geometric mean titre; SARS-CoV-2, severe acute respiratory syndrome coronavirus; SRR, seroresponse rate.
 
@@ -362,12 +360,17 @@ Log-transformed neutralising antibody titre value for day 29 (1 month) was analy
 
 Seroresponse is defined as at least 4-fold increase of post-booster neutralising antibody titres from the baseline titre or from half of the lower limit of quantitation if undetectable at baseline.
 
-- a N = number of participants with valid assay results for the specific assay at the given sampling time point.
-- b Pre-specified criteria were met for noninferiority: the lower limit (LL) of 95% confidence interval (CI) for ratio of GMTs (Kostaive/comparator) exceeds 0.67, and the LL of 95% CI for the difference in SRRs (Kostaive minus comparator) exceeds -10%. Superiority test for ancestral strain was not pre-specified. Analysis was conducted in the PPS-1.
-- c Analysis was conducted in the PPS-1-ic, a modified version from PPS-1 in which participants with a positive nucleocapsid antibody test were excluded from all subsequent immunogenicity analyses.
-- d Pre-specified criteria were met for both noninferiority and superiority. Superiority criteria: the LL of 95% CI for GMT ratio exceeds 1.0, and the LL of 95% CI for SRR difference exceeds 0%. Analysis was conducted in the PPS-1.
+a N = number of participants with valid assay results for the specific assay at the given sampling time point.
+
+b Pre-specified criteria were met for noninferiority: the lower limit (LL) of 95% confidence interval (CI) for ratio of GMTs (Kostaive/comparator) exceeds 0.67, and the LL of 95% CI for the difference in SRRs (Kostaive minus comparator) exceeds -10%. Superiority test for ancestral strain was not pre-specified. Analysis was conducted in the PPS-1.
+
+c Analysis was conducted in the PPS-1-ic, a modified version from PPS-1 in which participants with a positive nucleocapsid antibody test were excluded from all subsequent immunogenicity analyses.
+
+d Pre-specified criteria were met for both noninferiority and superiority. Superiority criteria: the LL of 95% CI for GMT ratio exceeds 1.0, and the LL of 95% CI for SRR difference exceeds 0%. Analysis was conducted in the PPS-1.
 
 * Comparator: tozinameran (BNT162b2)
+
+<div style=\"page-break-after: always\"></div>
 
 ## Paediatric population
 
@@ -385,11 +388,7 @@ Non-clinical data reveal no special hazard for humans based on conventional stud
 
 A general toxicity study was conducted with Kostaive in rabbits (intramuscularly receiving a total of 3 doses, each exceeding the human dose, once every 2 weeks).
 
-Transient increases in mean body temperature (increases of up to ~1.7 °C), changes in laboratory tests (erythroid changes consistent with decreased erythropoiesis secondary to inflammation, minimally or mildly decreased platelet counts, minimally increased neutrophil and/or monocyte counts, mildly or
-
-<div style=\"page-break-after: always\"></div>
-
-moderately increased fibrinogen, and minimally increased globulin and/or minimally decreased serum albumin and increases in serum cytokines), as well as inflammatory findings in the spleen, lymph nodes (increased lymphocyte cellularity), consistent with an inflammatory response were observed.
+Transient increases in mean body temperature (increases of up to ~1.7 °C), changes in laboratory tests (erythroid changes consistent with decreased erythropoiesis secondary to inflammation, minimally or mildly decreased platelet counts, minimally increased neutrophil and/or monocyte counts, mildly or moderately increased fibrinogen, and minimally increased globulin and/or minimally decreased serum albumin and increases in serum cytokines), as well as inflammatory findings in the spleen, lymph nodes (increased lymphocyte cellularity), consistent with an inflammatory response were observed.
 
 ## Genotoxicity/carcinogenicity
 
@@ -397,7 +396,7 @@ Neither genotoxicity nor carcinogenicity studies were performed. The components 
 
 ## Reproductive toxicity
 
-Reproductive and developmental toxicity was investigated in rabbits in a combined fertility, embryofoetal, and postnatal development study where female rabbits were intramuscularly vaccinated prior to mating, and during gestation (receiving 5 doses of vaccine each exceeding the human dose spanning between premating day 28 and gestational day 28). SARS-CoV-2 neutralising antibody responses were present in maternal animals from prior to mating to the end of the study on gestational day 28 as well as in foetus and offspring, indicating placental transfer of the maternal antibodies.
+Reproductive and developmental toxicity was investigated in rabbits in a combined fertility, embryofoetal, and postnatal development study where female rabbits were intramuscularly vaccinated prior to mating, and during gestation (receiving 5 doses of vaccine each exceeding the human dose spanning between premating day 28 and gestation day 28). SARS-CoV-2 antibody responses were present in maternal animals post-vaccination from prior to mating to the end of the study as well as in the foetus and offspring, indicating placental transfer of maternal antibodies.
 
 There were no vaccine-related effects noted on female fertility, development of the embryo and foetus or postnatal growth and development. No Kostaive data for excretion into milk are available.
 
@@ -421,6 +420,8 @@ Sodium chloride
 
 Trometamol
 
+<div style=\"page-break-after: always\"></div>
+
 Poloxamer 188 (contains the antioxidant butylated hydroxytoluene)
 
 ## 6.2 Incompatibilities
@@ -441,11 +442,7 @@ After preparation, the reconstituted vaccine vial must be stored under refrigera
 
 ## Once thawed or reconstituted, the vaccine should not be refrozen.
 
-Chemical and physical in-use stability has been demonstrated for 6 hours at 2 °C to 25 °C and includes transportation during this time. From a microbiological point of view, once the vial stopper has been
-
-<div style=\"page-break-after: always\"></div>
-
-punctured for reconstitution of the vaccine, the product may be stored for a maximum of 6 hours under refrigerated conditions or at room temperature (2 °C to 25 °C). Other in-use storage times and conditions are the responsibility of the user.
+Chemical and physical in-use stability has been demonstrated for 6 hours at 2 °C to 25 °C and includes transportation during this time. From a microbiological point of view, once the vial stopper has been punctured for reconstitution of the vaccine, the product may be stored for a maximum of 6 hours under refrigerated conditions or at room temperature (2 °C to 25 °C). Other in-use storage times and conditions are the responsibility of the user.
 
 The reconstituted vaccine should be disposed of after 6 hours.
 
@@ -473,6 +470,8 @@ ONLY use 10 mL of sterile sodium chloride 9 mg/mL (0.9%) solution for injection 
 
 Upon reconstitution, the vaccine is a white to off-white opalescent suspension (pH: 7.5-8.5); osmolality: 300-400 mOsm/kg.
 
+<div style=\"page-break-after: always\"></div>
+
 After reconstitution, each vial contains 16 doses of 0.5 mL.
 
 Extract 0.5 mL of vaccine into individual use syringes.
@@ -485,12 +484,33 @@ Extract 0.5 mL of vaccine into individual use syringes.
 
 <div style=\"page-break-after: always\"></div>
 
-<!-- image -->
+## Preparation of individual doses of Kostaive powder for dispersion for injection
 
-| Preparation of individual doses of Kostaive powder for dispersion for injection                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       | Preparation of individual doses of Kostaive powder for dispersion for injection   |
-|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------|
-| STEP A. Visual inspection and temperature equilibration of vials 1. Bring the vial to room temperature for at least one hour. Vials can be stored at room temperature (up to 25 °C) for up to 4 hours before reconstitution. 2. Visually inspect for discolouration and gross defects/damages to container closure (e.g., breaks, glass shards, loose caps, missing stoppers, etc.). • Vial should contain white/off-white solid. DO NOT USE if there is damage to the container or other defects. DO NOT USE if unpunctured vial is at room temperature longer                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       | than 4 hours.                                                                     |
-| saline to vaccine 1. Reconstitution should be done immediately following complete temperature equilibration. 2. Obtain sodium chloride 9 mg/mL (0.9%) solution for injection (saline). Using a new sterile 10-mL syringe and 23G needle, withdraw 10 mL of sodium chloride 9 mg/mL (0.9%) solution for injection. 3. Remove the vial flip-off cap. 4. Use an alcohol wipe on the vial stopper. To ensure that 10 mL of sodium chloride 9 mg/mL (0.9%) solution for injection is added, the syringe should not be removed from the vial during steps 5-8. 5. Puncture the stopper with the saline syringe needle. • Record the date and time of initial stopper puncture and the time at which the vaccine should be discarded. (Note that vaccine must be administered within 6 hours of this stopper puncture.) 6. Slowly add half (5 mL) of the 10 mL of sodium chloride 9 mg/mL (0.9%) solution for injection into the vial along the sidewall. 7. Equalise the vial pressure by withdrawing approximately 3 mL of air from the vial into the saline syringe while keeping the needle above the liquid. 8. For the second and third additions of sodium chloride 9 mg/mL (0.9%) solution for injection, add 2 to 3 mL, directing the solution flow onto the inside wall of the product vial. • Follow each addition with a withdrawal of air from the vial using the saline syringe to equalise the vial pressure. Repeat the steps as needed to complete the addition of all 10 mL of sodium chloride 9 mg/mL (0.9%) solution for injection. Do not add more than 10 mL of sodium chloride 9 mg/mL (0.9%) solution for injection. | STEP B. Addition of                                                               |
+## STEP A. Visual inspection and temperature equilibration of vials
+
+1. Bring the vial to room temperature for at least one hour. Vials can be stored at room temperature (up to 25 °C) for up to 4 hours before reconstitution.
+2. Visually inspect for discolouration and gross defects/damages to container closure (e.g., breaks, glass shards, loose caps, missing stoppers, etc.).
+- Vial should contain white/off-white solid.
+
+DO NOT USE if there is damage to the container or other defects. DO NOT USE if unpunctured vial is at room temperature longer than 4 hours.
+
+## STEP B. Addition of saline to vaccine
+
+1. Reconstitution should be done immediately following complete temperature equilibration.
+2. Obtain sodium chloride 9 mg/mL (0.9%) solution for injection (saline). Using a new sterile 10-mL syringe and 23G needle, withdraw 10 mL of sodium chloride 9 mg/mL (0.9%) solution for injection.
+3. Remove the vial flip-off cap.
+4. Use an alcohol wipe on the vial stopper.
+
+To ensure that 10 mL of sodium chloride 9 mg/mL (0.9%) solution for injection is added, the syringe should not be removed from the vial during steps 5-8.
+
+5. Puncture the stopper with the saline syringe needle.
+- Record the date and time of initial stopper puncture and the time at which the vaccine should be discarded. (Note that vaccine must be administered within 6 hours of this stopper puncture.)
+6. Slowly add half (5 mL) of the 10 mL of sodium chloride 9 mg/mL (0.9%) solution for injection into the vial along the sidewall.
+7. Equalise the vial pressure by withdrawing approximately 3 mL of air from the vial into the saline syringe while keeping the needle above the liquid.
+8. For the second and third additions of sodium chloride 9 mg/mL (0.9%) solution for injection, add 2 to 3 mL, directing the solution flow onto the inside wall of the product vial.
+- Follow each addition with a withdrawal of air from the vial using the saline syringe to equalise the vial pressure. Repeat the steps as needed to complete the addition of all 10 mL of sodium chloride 9 mg/mL (0.9%) solution for injection. Do not add more than 10 mL of sodium chloride 9 mg/mL (0.9%) solution for injection.
+
+<!-- image -->
 
 <div style=\"page-break-after: always\"></div>
 
@@ -527,11 +547,21 @@ Extract 0.5 mL of vaccine into individual use syringes.
 
 <div style=\"page-break-after: always\"></div>
 
+Disposal
+
 Any unused medicinal product or waste material should be disposed of in accordance with local requirements.
 
-## 7. MARKETING AUTHORISATION HOLDER
+7.
 
-Seqirus Netherlands B.V. Paasheuvelweg 28 1105 BJ Amsterdam Netherlands
+MARKETING AUTHORISATION HOLDER
+
+Seqirus Netherlands B.V.
+
+Paasheuvelweg 28
+
+1105 BJ Amsterdam
+
+Netherlands
 
 ## 8. MARKETING AUTHORISATION NUMBER(S)
 
@@ -545,7 +575,7 @@ Date of first authorisation: 12 February 2025
 
 Detailed information on this medicinal product is available on the website of the European Medicines Agency https://www.ema.europa.eu.
 
-15
+16
 
 <div style=\"page-break-after: always\"></div>
 
@@ -652,15 +682,13 @@ Keep out of the sight and reach of children.
 
 EXP
 
-## 9. SPECIAL STORAGE CONDITIONS
-
-Store unopened vial in a freezer at -15 °C to -25 °C in the original carton in order to protect from light.
-
 <div style=\"page-break-after: always\"></div>
 
-After reconstitution, store the vaccine at 2 °C to 25 °C and use within 6 hours .
+## 9. SPECIAL STORAGE CONDITIONS
 
-## 10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
+Store unopened vial in a freezer at -15 °C to -25 °C in the original carton in order to protect from light. After reconstitution, store the vaccine at 2 °C to 25 °C and use within 6 hours .
+
+10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
@@ -676,9 +704,11 @@ EU/1/24/1873/001
 
 Lot
 
-14. GENERAL CLASSIFICATION FOR SUPPLY
+## 14. GENERAL CLASSIFICATION FOR SUPPLY
+
 15. INSTRUCTIONS ON USE
-16. INFORMATION IN BRAILLE
+
+## 16. INFORMATION IN BRAILLE
 
 Justification for not including Braille accepted.
 
@@ -726,9 +756,9 @@ Discard date/time:
 
 ## B. PACKAGE LEAFLET
 
-<div style=\"page-break-after: always\"></div>
-
 ## Package leaflet: Information for the user
+
+<div style=\"page-break-after: always\"></div>
 
 ## Kostaive powder for dispersion for injection
 
@@ -771,9 +801,9 @@ The use of this vaccine should be in accordance with official recommendations.
 
 - if you are allergic to the active substance or any of the other ingredients of this vaccine (listed in section 6).
 
-## Warnings and precautions
-
 <div style=\"page-break-after: always\"></div>
+
+## Warnings and precautions
 
 Talk to your doctor, pharmacist, or nurse before you are given the vaccine if:
 
@@ -794,6 +824,8 @@ Kostaive is not recommended for children aged below 18 years. Currently there is
 ## Other medicines and Kostaive
 
 Tell your doctor or pharmacist if you are taking, have recently taken, or might take any other medicines, or have recently been given any other vaccine.
+
+Kostaive may be given at the same time as a flu vaccine.
 
 ## Pregnancy and breast-feeding
 
@@ -817,9 +849,9 @@ Kostaive is given as a single injection of 0.5 mL into a muscle of your upper ar
 
 If you were previously vaccinated with a COVID-19 vaccine, you should receive a dose of Kostaive at least 5 months after the most recent dose.
 
-If you have any further questions on the use of Kostaive, ask your doctor, pharmacist, or nurse.
-
 <div style=\"page-break-after: always\"></div>
+
+If you have any further questions on the use of Kostaive, ask your doctor, pharmacist, or nurse.
 
 ## 4. Possible side effects
 
@@ -873,9 +905,9 @@ Keep this medicine out of the sight and reach of children.
 
 The following information about storage, expiry, use, and handling is intended for healthcare professionals.
 
-Do not use this medicine after the expiry date, which is stated on the carton and label after EXP. The expiry date refers to the last day of that month.
-
 <div style=\"page-break-after: always\"></div>
+
+Do not use this medicine after the expiry date, which is stated on the carton and label after EXP. The expiry date refers to the last day of that month.
 
 Store unopened vials in a freezer at -15 °C to -25 °C. Store in the original carton in order to protect from light. Vials can be stored at room temperature (up to 25 °C) for up to 4 hours before reconstitution.
 
@@ -904,7 +936,7 @@ Pack size: 20 multidose vials
 
 ## Marketing Authorisation Holder and Manufacturer
 
-## Marketing Authorisation Holder:
+## Marketing Authorisation Holder
 
 Seqirus Netherlands B.V. Paasheuvelweg 28 1105 BJ Amsterdam Netherlands
 
@@ -912,11 +944,11 @@ Seqirus Netherlands B.V. Paasheuvelweg 28 1105 BJ Amsterdam Netherlands
 
 MIAS Pharma Limited Suite 1 First Floor Stafford House Strand Road Portmarnock Co. Dublin D13 WC83 Ireland
 
-## This leaflet was last revised in .
+<div style=\"page-break-after: always\"></div>
+
+## This leaflet was last revised in
 
 Detailed information on this medicine is available on the European Medicines Agency web site: https://www.ema.europa.eu.
-
-<div style=\"page-break-after: always\"></div>
 
 &lt;------------------------------------------------------------------------------------------------------------------------&gt;
 
@@ -948,12 +980,33 @@ Extract 0.5 mL of vaccine into individual use syringes.
 
 <div style=\"page-break-after: always\"></div>
 
-<!-- image -->
+## Preparation of individual doses of Kostaive powder for dispersion for injection
 
-| Preparation of individual doses of Kostaive powder for dispersion for injection                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           | Preparation of individual doses of Kostaive powder for dispersion for injection   |
-|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------|
-| STEP A. Visual inspection and temperature equilibration of vials 1. Bring the vial to room temperature for at least one hour. Vials can be stored at room temperature (up to 25 °C) for up to 4 hours before reconstitution. 2. Visually inspect for discolouration and gross defects/damages to container closure (e.g., breaks, glass shards, loose caps, missing stoppers, etc.). • Vial should contain white/off-white solid. DO NOT USE if there is damage to the container or other defects. DO NOT USE if unpunctured vial is at room temperature longer                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           | than 4 hours.                                                                     |
-| STEP B. Addition of saline to vaccine 1. Reconstitution should be done immediately following complete temperature equilibration. 2. Obtain sodium chloride 9 mg/mL (0.9%) solution for injection (saline). Using a new sterile 10-mL syringe and 23G needle, withdraw 10 mL of sodium chloride 9 mg/mL (0.9%) solution for injection. 3. Remove the vial flip-off cap. 4. Use an alcohol wipe on the vial stopper. To ensure that 10 mL of sodium chloride 9 mg/mL (0.9%) solution for injection is added, the syringe should not be removed from the vial during steps 5-8. 5. Puncture the stopper with the saline syringe needle. • Record the date and time of initial stopper puncture and the time at which the vaccine should be discarded. (Note that vaccine must be administered within 6 hours of this stopper puncture.) 6. Slowly add half (5 mL) of the 10 mL of sodium chloride 9 mg/mL (0.9%) solution for injection into the vial along the sidewall. 7. Equalise the vial pressure by withdrawing approximately 3 mL of air from the vial into the saline syringe while keeping the needle above the liquid. 8. For the second and third additions of sodium chloride 9 mg/mL (0.9%) solution for injection, add 2 to 3 mL, directing the solution flow onto the inside wall of the product vial. • Follow each addition with a withdrawal of air from the vial using the saline syringe to equalise the vial pressure. Repeat the steps as needed to complete the addition of all 10 mL of sodium chloride 9 mg/mL (0.9%) solution for injection. Do not add more than 10 mL of sodium chloride 9 mg/mL (0.9%) solution for injection. |                                                                                   |
+## STEP A. Visual inspection and temperature equilibration of vials
+
+1. Bring the vial to room temperature for at least one hour. Vials can be stored at room temperature (up to 25 °C) for up to 4 hours before reconstitution.
+2. Visually inspect for discolouration and gross defects/damages to container closure (e.g., breaks, glass shards, loose caps, missing stoppers, etc.).
+- Vial should contain white/off-white solid.
+
+DO NOT USE if there is damage to the container or other defects. DO NOT USE if unpunctured vial is at room temperature longer than 4 hours.
+
+## STEP B. Addition of saline to vaccine
+
+1. Reconstitution should be done immediately following complete temperature equilibration.
+2. Obtain sodium chloride 9 mg/mL (0.9%) solution for injection (saline). Using a new sterile 10-mL syringe and 23G needle, withdraw 10 mL of sodium chloride 9 mg/mL (0.9%) solution for injection.
+3. Remove the vial flip-off cap.
+4. Use an alcohol wipe on the vial stopper.
+
+To ensure that 10 mL of sodium chloride 9 mg/mL (0.9%) solution for injection is added, the syringe should not be removed from the vial during steps 5-8.
+
+5. Puncture the stopper with the saline syringe needle.
+- Record the date and time of initial stopper puncture and the time at which the vaccine should be discarded. (Note that vaccine must be administered within 6 hours of this stopper puncture.)
+6. Slowly add half (5 mL) of the 10 mL of sodium chloride 9 mg/mL (0.9%) solution for injection into the vial along the sidewall.
+7. Equalise the vial pressure by withdrawing approximately 3 mL of air from the vial into the saline syringe while keeping the needle above the liquid.
+8. For the second and third additions of sodium chloride 9 mg/mL (0.9%) solution for injection, add 2 to 3 mL, directing the solution flow onto the inside wall of the product vial.
+- Follow each addition with a withdrawal of air from the vial using the saline syringe to equalise the vial pressure. Repeat the steps as needed to complete the addition of all 10 mL of sodium chloride 9 mg/mL (0.9%) solution for injection. Do not add more than 10 mL of sodium chloride 9 mg/mL (0.9%) solution for injection.
+
+<!-- image -->
 
 <div style=\"page-break-after: always\"></div>
 

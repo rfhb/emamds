@@ -1,18 +1,18 @@
 ---
-document_datetime: 2025-12-16 08:18:24
+document_datetime: 2026-01-20 17:07:28
 document_pages: 33
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/agamree-epar-product-information_en.pdf
 document_name: agamree-epar-product-information_en.pdf
 version: success
-processing_time: 7.6980873
-conversion_datetime: 2026-01-03 12:15:08.425445
+processing_time: 8.1443454
+conversion_datetime: 2026-01-20 20:07:26.459341
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.66.0
-  docling-core: 2.57.0
+  docling-serve: 1.10.0
+  docling-jobkit: 1.8.1
+  docling: 2.69.0
+  docling-core: 2.60.0
   docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-parse: 4.7.3
   python: cpython-313 (3.13.11)
   plaform: macOS-26.2-arm64-arm-64bit-Mach-O
 ---
@@ -103,7 +103,7 @@ The safety and efficacy of AGAMREE in children below 4 years of age has not been
 
 ## Method of administration
 
-AGAMREE is for oral use. AGAMREE can be taken with or without a meal (see section 5.2).
+AGAMREE is for oral use. AGAMREE should be taken preferably with a meal (see section 5.2).
 
 The oral suspension requires redispersing by shaking the bottle prior to dosing.
 
@@ -395,7 +395,7 @@ Vamorolone is well absorbed and distributes quickly into tissues. After oral adm
 
 ## Effect of food
 
-Co-administration of vamorolone with a meal reduced Cmax by up to 8% and delayed Tmax by 1 hour, relative to administration under fasting conditions. The overall systemic absorption as measured by AUC was increased by up to 14% when vamorolone was taken with food. The observed differences in absorption do not lead to clinically relevant differences in exposure and therefore vamorolone can be administered either with or without food.
+Co-administration of vamorolone with a meal reduced Cmax by up to 8% and delayed Tmax by 1 hour, relative to administration under fasting conditions. The overall systemic absorption as measured by AUC was increased by up to 14% when vamorolone was taken with food. In the Chinese adult population, AUCinf and Cmax increased by 24 %  and 25 % respectively and the median Tmax was delayed by 3 hours with a high fat meal. It is unlikely that this food effect will pose a safety concern. Although food does not significantly alter the overall bioavailability of vamorolone, consistent coadministration with food may reduce variability in bioavailability.
 
 ## Distribution
 
@@ -417,7 +417,7 @@ The PK are linear and vamorolone exposure increases proportionally with either s
 
 ## Special populations
 
-Hepatic impairment
+## Hepatic impairment
 
 <div style=\"page-break-after: always\"></div>
 
@@ -918,7 +918,7 @@ If you are 4 years or older and your weight is 40 kg or more, the dose of is usu
 
 If you get certain side effects while you are taking AGAMREE (see section 4), your doctor may lower your dose or stop treatment temporarily or permanently. Your doctor may reduce your dose if you suffer from liver disease.
 
-This medicine is taken by mouth. AGAMREE can be taken with or without a meal (see section 2 'AGAMREE with food and drink').
+This medicine is taken by mouth. AGAMREE should be taken preferably with a meal (see section 2 'AGAMREE with food and drink').
 
 To withdraw the medicine, use one of the oral syringes included in the pack. Use only these oral syringes when measuring out your dose. Your doctor will tell you how much you need to withdraw with the syringe for your daily dose.
 

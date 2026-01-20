@@ -1,20 +1,20 @@
 ---
-document_datetime: 2024-01-09 12:28:07
-document_pages: 70
+document_datetime: 2026-01-19 15:24:57
+document_pages: 71
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/ziagen-epar-product-information_en.pdf
 document_name: ziagen-epar-product-information_en.pdf
 version: success
-processing_time: 16.1202721
-conversion_datetime: 2025-12-14 16:21:00.164919
+processing_time: 15.0794635
+conversion_datetime: 2026-01-20 20:41:25.506047
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.64.1
-  docling-core: 2.55.0
+  docling-serve: 1.10.0
+  docling-jobkit: 1.8.1
+  docling: 2.69.0
+  docling-core: 2.60.0
   docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-parse: 4.7.3
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.1-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
 ---
 ## ANNEX I
 
@@ -44,11 +44,11 @@ The tablet can be divided into equal halves.
 
 ## 4.1 Therapeutic indications
 
-Ziagen is indicated in antiretroviral combination therapy for the treatment of Human Immunodeficiency Virus (HIV) infection in adults,  adolescents and children (see sections 4.4 and 5.1).
+Ziagen is indicated in antiretroviral combination therapy for the treatment of Human Immunodeficiency Virus (HIV) infection in adults, adolescents and children (see sections 4.4 and 5.1).
 
 The demonstration of the benefit of Ziagen is mainly based on results of studies performed with a twice daily regimen, in treatment-naïve adult patients on combination therapy (see section 5.1).
 
-Before initiating treatment with abacavir, screening for carriage of the HLA-B*5701 allele should be performed in any HIV-infected patient, irrespective of racial origin(see section 4.4). Abacavir should not be used in patients known to carry the HLA-B*5701 allele
+Before initiating treatment with abacavir, screening for carriage of the HLA-B*5701 allele should be performed in any HIV-infected patient, irrespective of racial origin (see section 4.4). Abacavir should not be used in patients known to carry the HLA-B*5701 allele
 
 ## 4.2 Posology and method of administration
 
@@ -64,9 +64,9 @@ Alternatively, for patients who are unable to swallow tablets, the tablet(s) may
 
 Adults, adolescents and children (weighing at least 25 kg):
 
-<div style=\"page-break-after: always\"></div>
-
 The recommended dose of Ziagen is 600 mg daily. This may be administered as either 300 mg (one tablet) twice daily or 600 mg (two tablets) once daily (see sections 4.4 and 5.1).
+
+<div style=\"page-break-after: always\"></div>
 
 ## Children (weighing less than 25 kg):
 
@@ -74,7 +74,7 @@ Dosing according to weight bands is recommended for Ziagen tablets.
 
 Children weighing ≥ 20 kg to &lt; 25 kg : The recommended dose is 450 mg daily. This may be administered as either one 150 mg (one half of a tablet) taken in the morning and 300 mg (one whole tablet) taken in the evening, or 450 mg (one and a half tablets) taken once daily.
 
-Children weig hing 14 to &lt; 20 kg: The recommended dose is 300 mg daily. This may be administered as either 150 mg (one half of a tablet) twice daily or 300 mg (one whole tablet) once daily.
+Children weighing 14 to &lt; 20 kg: The recommended dose is 300 mg daily. This may be administered as either 150 mg (one half of a tablet) twice daily or 300 mg (one whole tablet) once daily.
 
 Children less than three months of age: The clinical experience in children aged less than three months is limited and are insufficient to propose specific dosage recommendations (see section 5.2).
 
@@ -102,13 +102,13 @@ Hypersensitivity to abacavir or to any of the excipients listed in section 6.1. 
 
 ## Hypersensitivity reactions (see also section 4.8)
 
-Abacavir is associated with a risk for hypersensitivity reactions (HSR) (see section4.8) characterised by fever and/or rash with other symptoms indicating multi-organ involvement. HSRs have been observed with abacavir, some of which have been life-threatening, and in rare cases fatal, when not managed appropriately.
+Abacavir is associated with a risk for hypersensitivity reactions (HSR) (see section 4.8) characterised by fever and/or rash with other symptoms indicating multi-organ involvement. HSRs have been observed with abacavir, some of which have been life-threatening, and in rare cases fatal, when not managed appropriately.
 
 The risk for abacavir HSR to occur is high for patients who test positive for the HLA-B*5701 allele. However, abacavir HSRs have been reported at a lower frequency in patients who do not carry this allele.
 
-<div style=\"page-break-after: always\"></div>
-
 Therefore the following should be adhered to:
+
+<div style=\"page-break-after: always\"></div>
 
 - HLA-B*5701 status must always be documented prior to initiating therapy.
 - Ziagen should never be initiated in patients with a positive HLA-B*5701 status, nor in patients with a negative HLA-B*5701 status who had a suspected abacavir HSR on a previous abacavir-containing regimen. (e.g. Kivexa, Trizivir, Triumeq)
@@ -125,15 +125,13 @@ Almost all HSR to abacavir include fever and/or rash. Other signs and symptoms t
 
 The symptoms related to HSR worsen with continued therapy and can be life-threatening. These symptoms usually resolve upon discontinuation of abacavir.
 
-Rarely, patients who have stopped abacavir for reasons other than symptoms of HSR have also experienced life-threatening reactions within hours of re- initiating abacavir therapy (see Section 4.8 Description of selected adverse reactions).  Restarting abacavir in such patients must be done in a setting where medical assistance is readily available.
+Rarely, patients who have stopped abacavir for reasons other than symptoms of HSR have also experienced life-threatening reactions within hours of re- initiating abacavir therapy (see Section 4.8 Description of selected adverse reactions). Restarting abacavir in such patients must be done in a setting where medical assistance is readily available.
 
 ## Mitochondrial dysfunction following exposure in utero
 
-Nucleoside and nucleotide analogues may impact mitochondrial function to a variable degree, which is most pronounced with stavudine, didanosine and zidovudine. There have been reports of mitochondrial dysfunction in HIV-negative infants exposed in utero and/or post-natally to nucleoside analogues; these have predominantly concerned treatment with regimens containing zidovudine. The main adverse reactions reported are haematological disorders (anaemia, neutropenia) and metabolic disorders (hyperlactatemia, hyperlipasemia). These events have often been transitory. Late onset neurological disorders have been reported rarely (hypertonia, convulsion, abnormal behaviour). Whether such neurological disorders are transient or permanent is currently unknown. These findings should be considered for any child exposed in utero to nucleotide and nucleotide analogues, who
+Nucleoside and nucleotide analogues may impact mitochondrial function to a variable degree, which is most pronounced with stavudine, didanosine and zidovudine. There have been reports of mitochondrial dysfunction in HIV-negative infants exposed in utero and/or post-natally to nucleoside analogues; these have predominantly concerned treatment with regimens containing zidovudine. The main adverse reactions reported are haematological disorders (anaemia, neutropenia) and metabolic disorders (hyperlactatemia, hyperlipasemia). These events have often been transitory. Late onset neurological disorders have been reported rarely (hypertonia, convulsion, abnormal behaviour). Whether such neurological disorders are transient or permanent is currently unknown. These findings should be considered for any child exposed in utero to nucleotide and nucleotide analogues, who presents with severe clinical findings of unknown etiology, particularly neurologic findings. These findings do not affect current national recommendations to use antiretroviral therapy in pregnant women to prevent vertical transmission of HIV.
 
 <div style=\"page-break-after: always\"></div>
-
-presents with severe clinical findings of unknown etiology, particularly neurologic findings.  These findings do not affect current national recommendations to use antiretroviral therapy in pregnant women to prevent vertical transmission of HIV.
 
 ## Weight and metabolic parameters
 
@@ -163,15 +161,15 @@ Patients with chronic hepatitis B or C and treated with combination antiretrovir
 
 Ziagen should not be administered to patients with end-stage renal disease (see section 5.2). Excipients
 
-This medicine contains less than 1 mmol sodium (23 mg) per dosage unit, that is to say essentially 'sodium-free'.
+This medicine contains less than 1 mmol sodium (23 mg) per dosage unit, that is to say essentially 'sodium -free'.
 
 ## Immune Reactivation Syndrome
 
-In HIV-infected patients with severe immune deficiency at the time of institution of combination antiretroviral therapy (CART), an inflammatory reaction to asymptomatic or residual opportunistic pathogens may arise and cause serious clinical conditions, or aggravation of symptoms. Typically,
+In HIV-infected patients with severe immune deficiency at the time of institution of combination antiretroviral therapy (CART), an inflammatory reaction to asymptomatic or residual opportunistic pathogens may arise and cause serious clinical conditions, or aggravation of symptoms. Typically, such reactions have been observed within the first few weeks or months of initiation of CART. Relevant examples are cytomegalovirus retinitis, generalised and/or focal mycobacterium infections, and Pneumocystis carinii pneumonia. Any inflammatory symptoms should be evaluated and treatment instituted when necessary. Autoimmune dis orders (such as Graves' disease and autoimmune hepatitis)
 
 <div style=\"page-break-after: always\"></div>
 
-such reactions have been observed within the first few weeks or months of initiation of CART. Relevant examples are cytomegalovirus retinitis, generalised and/or focal mycobacterium infections, and Pneumocystis carinii pneumonia. Any inflammatory symptoms should be evaluated and treatment instituted when necessary. Autoimmune disorders (such as Graves' disease and autoimmune hepatitis) have also been reported to occur in the setting of immune reactivation; however, the reported time to onset is more variable and these events can occur many months after initiation of treatment.
+have also been reported to occur in the setting of immune reactivation; however, the reported time to onset is more variable and these events can occur many months after initiation of treatment.
 
 ## Osteonecrosis
 
@@ -183,7 +181,7 @@ Patients receiving Ziagen or any other antiretroviral therapy may still develop 
 
 ## Cardiovascular events
 
-Although the available data from clinical and observational studies with abacavir show inconsistent results, several studies suggest an increased risk of cardiovascular events (notably myocardial infarction) in patients treated with abacavir.  Therefore, when prescribing Ziagen, action should be taken to minimize all modifiable risk factors (e.g. smoking, hypertension, and hyperlipidaemia).
+Although the available data from clinical and observational studies with abacavir show inconsistent results, several studies suggest an increased risk of cardiovascular events (notably myocardial infarction) in patients treated with abacavir. Therefore, when prescribing Ziagen, action should be taken to minimize all modifiable risk factors (e.g. smoking, hypertension, and hyperlipidaemia).
 
 In addition, alternative treatment options to the abacavir containing regimen should be considered when treating patients with a high cardiovascular risk.
 
@@ -197,11 +195,11 @@ Ethanol: the metabolism of abacavir is altered by concomitant ethanol resulting 
 
 Methadone : in a pharmacokinetic study, co-administration of 600 mg abacavir twice daily with methadone showed a 35% reduction in abacavir Cmax and a one hour delay in tmax but the AUC was unchanged. The changes in abacavir pharmacokinetics are not considered clinically relevant. In this study abacavir increased the mean methadone systemic clearance by 22%. The induction of drug metabolising enzymes cannot therefore be excluded. Patients being treated with methadone and abacavir should be monitored for evidence of withdrawal symptoms indicating under dosing, as occasionally methadone re-titration may be required.
 
-<div style=\"page-break-after: always\"></div>
-
 Retinoids: retinoid compounds are eliminated via alcohol dehydrogenase. Interaction with abacavir is possible but has not been studied.
 
-Riociguat: In vitro, abacavir inhibits CYP1A1. Concomitant administration of a single dose of riociguat (0.5 mg) to HIV patients receiving the combination of abacavir/dolutegravir/lamivudine (600mg/50mg/300mg once daily) led to an approximately three-fold higher riociguat AUC(0∞) when compared to historical riociguat AUC(0∞) reported in healthy subjects. Riociguat dose may need to be reduced. Consult the riociguat prescribing information for dosing recommendations.
+<div style=\"page-break-after: always\"></div>
+
+Riociguat: In vitro, abacavir inhibits CYP1A1. Concomitant administration of a single dose of riociguat (0.5 mg) to HIV patients receiving the combination of abacavir/dolutegravir/lamivudine (600 mg/50 mg/300 mg once daily) led to an approximately three-fold higher riociguat AUC(0-∞) when compared to historical riociguat AUC(0∞) reported in healthy subjects. Riociguat dose may need to be reduced. Consult the riociguat prescribing information for dosing recommendations.
 
 ## 4.6 Fertility, pregnancy and lactation
 
@@ -229,11 +227,9 @@ No studies on the effects on ability to drive and use machines have been perform
 
 ## 4.8 Undesirable effects
 
-For many adverse reactions reported, it is unclear whether they are related to Ziagen, to the wide range of medicinal products used in the management of HIV infection or as a result of the disease process. Many of the adverse reactions listed  below occur commonly (nausea, vomiting, diarrhoea, fever, lethargy, rash) in patients with abacavir hypersensitivity. Therefore, patients with any of these symptoms should be carefully evaluated for the presence of this hypersensitivity (see section 4.4). Very rarely cases of erythema multiforme, Stevens-Johnson syndrome or toxic epidermal necrolysis have been reported where abacavir hypersensitivity could not be ruled out. In such cases medicinal products containing abacavir should be permanently discontinued.
+For many adverse reactions reported, it is unclear whether they are related to Ziagen, to the wide range of medicinal products used in the management of HIV infection or as a result of the disease process. Many of the adverse reactions listed below occur commonly (nausea, vomiting, diarrhoea, fever, lethargy, rash) in patients with abacavir hypersensitivity. Therefore, patients with any of these symptoms should be carefully evaluated for the presence of this hypersensitivity (see section 4.4). Very rarely cases of erythema multiforme, Stevens-Johnson syndrome or toxic epidermal necrolysis have been reported where abacavir hypersensitivity could not be ruled out. In such cases medicinal products containing abacavir should be permanently discontinued.
 
-<div style=\"page-break-after: always\"></div>
-
-Many of the adverse reactions have not been treatment limiting.  The following convention has been used for their classification: very common (&gt;1/10), common (&gt;1/100 to &lt;1/10), uncommon (&gt;1/1,000 to &lt;1/100), rare (&gt;1/10,000 to &lt;1/1,000) very rare (&lt;1/10,000).
+Many of the adverse reactions have not been treatment limiting. The following convention has been used for their classification: very common (&gt; 1/10), common (&gt; 1/100 to &lt; 1/10), uncommon (&gt; 1/1,000 to &lt; 1/100), rare (&gt; 1/10,000 to &lt; 1/1,000) very rare (&lt; 1/10,000).
 
 ## Metabolism and nutrition disorders
 
@@ -267,13 +263,17 @@ Common
 
 : rash (without systemic symptoms)
 
-Very rare : erythema multiforme, Stevens-Johnson syndrome and toxic epidermal necrolysis
+Very rare
+
+: erythema multiforme, Stevens-Johnson syndrome and toxic epidermal necrolysis
 
 ## General disorders and administration site conditions
 
 Common
 
 : fever, lethargy, fatigue
+
+<div style=\"page-break-after: always\"></div>
 
 ## Description of Selected Adverse Reactions
 
@@ -294,11 +294,13 @@ Almost all patients developing hypersensitivity reactions will have fever and/or
 | Musculoskeletal         | Myalgia , rarely myolysis, arthralgia, elevated creatine phosphokinase                       |
 | Urology                 | Elevated creatinine, renal failure                                                           |
 
-<div style=\"page-break-after: always\"></div>
-
 Symptoms related to this HSR worsen with continued therapy and can be life- threatening and in rare instance, have been fatal.
 
-Restarting abacavir following an abacavir HSR results in a prompt return of symptoms within hours. This recurrence of the HSR is usually more severe than on initial presentation, and may include lifethreatening hypotension and death. Similar reactions have also occurred infrequently after restarting abacavir in patients who had only one of the key symptoms of hypersensitivity (see above) prior to stopping abacavir; and on very rare occasions have also been seen in patients who have restarted therapy with no preceding symptoms of a HSR (i.e., patients previously considered to be abacavir tolerant).
+Restarting abacavir following an abacavir HSR results in a prompt return of symptoms within hours. This recurrence of the HSR is usually more severe than on initial presentation, and may include life-
+
+<div style=\"page-break-after: always\"></div>
+
+threatening hypotension and death. Similar reactions have also occurred infrequently after restarting abacavir in patients who had only one of the key symptoms of hypersensitivity (see above) prior to stopping abacavir; and on very rare occasions have also been seen in patients who have restarted therapy with no preceding symptoms of a HSR (i.e., patients previously considered to be abacavir tolerant).
 
 ## Metabolic parameters
 
@@ -330,15 +332,15 @@ Single doses up to 1200 mg and daily doses up to 1800 mg of Ziagen have been adm
 
 ## 5. PHARMACOLOGICAL PROPERTIES
 
-<div style=\"page-break-after: always\"></div>
-
 ## 5.1 Pharmacodynamic properties
 
 Pharmacotherapeutic group: nucleoside reverse transcriptase inhibitors, ATC Code: J05AF06
 
 ## Mechanism of action
 
-Abacavir is a NRTI. It is a potent selective inhibitor of HIV-1 and HIV-2. Abacavir is metabolised intracellularly to the active moiety, carbovir 5'- triphosphate (TP). In vitro studies have demonstrated that its mechanism of action in relation to HIV is inhibition of the HIV reverse transcriptase enzyme, an event which results in chain termination and interruption of the viral replication cycle.  The antiviral activity of abacavir in cell culture was not antagonized when combined with the nucleoside reverse transcriptase  inhibitors  (NRTIs)  didanosine,  emtricitabine,  lamivudine,  stavudine,  tenofovir    or zidovudine,  the  non-nucleoside  reverse  transcriptase  inhibitor  (NNRTI)  nevirapine,  or  the  protease inhibitor (PI) amprenavir.
+<div style=\"page-break-after: always\"></div>
+
+Abacavir is a NRTI. It is a potent selective inhibitor of HIV-1 and HIV-2. Abacavir is metabolised intracellularly to the active moiety, carbovir 5' - triphosphate (TP). In vitro studies have demonstrated that its mechanism of action in relation to HIV is inhibition of the HIV reverse transcriptase enzyme, an event which results in chain termination and interruption of the viral replication cycle.  The antiviral activity of abacavir in cell culture was not antagonized when combined with the nucleoside reverse transcriptase inhibitors (NRTIs)  didanosine, emtricitabine, lamivudine, stavudine, tenofovir or zidovudine,  the  non-nucleoside  reverse  transcriptase  inhibitor  (NNRTI)  nevirapine,  or  the  protease inhibitor (PI) amprenavir.
 
 ## Resistance
 
@@ -350,32 +352,30 @@ Abacavir-resistant isolates of HIV-1 have been selected in vitro and are associa
 
 Isolates from most patients experiencing virological failure with a regimen containing abacavir in pivotal clinical trials showed either no NRTI-related changes from baseline (45%) or only M184V or M184I selection (45%). The overall selection frequency for M184V or M184I was high (54%), and less common was the selection of L74V (5%), K65R (1%) and Y115F (1%). The inclusion of zidovudine in the regimen has been found to reduce the frequency of L74V and K65R selection in the presence of abacavir (with zidovudine: 0/40, without zidovudine: 15/192, 8%).
 
-<div style=\"page-break-after: always\"></div>
-
 | Therapy                           | Abacavir + Combivir 1   | Abacavir + lamivudine + NNRTI   | Abacavir + lamivudine + PI (or PI/ritonavir)   | Total      |
 |-----------------------------------|-------------------------|---------------------------------|------------------------------------------------|------------|
 | Number of Subjects 282            | 1094                    | 909                             | 2285                                           |            |
 | Number of Virological Failures    | 43                      | 90                              | 158                                            | 291        |
 | Number of On-Therapy Genotypes 40 | (100%)                  | 51 (100%) 2                     | 141 (100%)                                     | 232 (100%) |
 | 0                                 | 1                       | (2%)                            | 2 (1%) 3 (1%)                                  | K65R       |
-| L74V 0                            |                         | 9 (18%)                         | 3 (2%)                                         | 12 (5%)    |
-| Y115F 0                           |                         | 2 (4%)                          | 0                                              | 2 (1%)     |
-| 34                                | (85%)                   | 22 (43%)                        | 70 (50%)                                       | 126 (54%)  |
-| M184V/I TAMs 3                    | 3 (8%)                  | 2 (4%)                          | 4 (3%)                                         | 9 (4%)     |
+| 0                                 | 9                       | (18%)                           | 3 (2%) 12 (5%)                                 | L74V       |
+| 0                                 |                         | 2 (4%)                          | 0 2 (1%)                                       | Y115F      |
+| M184V/I 34 (85%)                  | 22                      | (43%)                           | 70 (50%)                                       | 126 (54%)  |
+| TAMs 3 3                          | (8%)                    | 2 (4%)                          | 4 (3%)                                         | 9 (4%)     |
 
 1.Combivir is a fixed dose combination of lamivudine and zidovudine
 
 2.Includes three non-virological failures and four unconfirmed virological failures.
 
-3. Number of subjects with ≥ 1 Thymidine Analogue Mutations (TAMs).
+3. Number of subjects with  1 Thymidine Analogue Mutations (TAMs).
 
 TAMs might be selected when thymidine analogs are associated with abacavir. In a meta-analysis of six clinical trials, TAMs were not selected by regimens containing abacavir without zidovudine (0/127), but were selected by regimens containing abacavir and the thymidine analogue zidovudine (22/86, 26%).
 
+<div style=\"page-break-after: always\"></div>
+
 ## In vivo resistance (Therapy experienced patients)
 
-Clinically significant reduction of susceptibility to abacavir has been demonstrated in clinical isolates of patients with uncontrolled viral replication, who have been pre-treated with and are resistant to other nucleoside inhibitors. In a meta-analysis of five clinical trials where abacavir was added to intensify therapy, of 166 subjects, 123 (74%) had M184V/I, 50 (30%) had T215Y/F, 45 (27%) had M41L, 30 (18%) had K70R and 25 (15%) had D67N.  K65R was absent and L74V and Y115F were uncommon ( ≤ 3%). Logistic regression modelling of the predictive value for genotype (adjusted for baseline plasma HIV-1 RNA [vRNA], CD4+ cell count, number and duration of prior antiretroviral therapies), showed that the presence of 3 or more NRTI resistance-associated mutations was associated with reduced response at Week 4 (p=0.015) or 4 or more mutations at median Week 24 (p ≤ 0.012). In addition, the 69 insertion complex or the Q151M mutation, usually found in combination with A62V, V75I, F77L and F116Y, cause a high level of resistance to abacavir.
-
-<div style=\"page-break-after: always\"></div>
+Clinically significant reduction of susceptibility to abacavir has been demonstrated in clinical isolates of patients with uncontrolled viral replication, who have been pre-treated with and are resistant to other nucleoside inhibitors. In a meta-analysis of five clinical trials where abacavir was added to intensify therapy, of 166 subjects, 123 (74%) had M184V/I, 50 (30%) had T215Y/F, 45 (27%) had M41L, 30 (18%) had K70R and 25 (15%) had D67N.  K65R was absent and L74V and Y115F were uncommon (  3%). Logistic regression modelling of the predictive value for genotype (adjusted for baseline plasma HIV-1 RNA [vRNA], CD4+ cell count, number and duration of prior antiretroviral therapies), showed that the presence of 3 or more NRTI resistance-associated mutations was associated with reduced response at Week 4 (p=0.015) or 4 or more mutations at median Week 24 (p  0.012). In addition, the 69 insertion complex or the Q151M mutation, usually found in combination with A62V, V75I, F77L and F116Y, cause a high level of resistance to abacavir.
 
 | Baseline Reverse Transcriptase Mutation   | Week 4 (n = 166)   | Week 4 (n = 166)                 | Week 4 (n = 166)                 |
 |-------------------------------------------|--------------------|----------------------------------|----------------------------------|
@@ -397,19 +397,17 @@ Cross-resistance between abacavir and antiretrovirals from other classes (e.g. P
 
 The demonstration of the benefit of Ziagen is mainly based on results of studies performed in adult treatment-naïve patients using a regimen of Ziagen 300 mg twice daily in combination with zidovudine and lamivudine.
 
-## Twice daily (300 mg) administration:
+<div style=\"page-break-after: always\"></div>
+
+Twice daily (300 mg) administration:
 
 ## · Therapy naïve adults
 
 In adults treated with abacavir in combination with lamivudine and zidovudine the proportion of patients with undetectable viral load (&lt;400 copies/ml) was approximately 70% (intention to treat analysis at 48 weeks) with corresponding rise in CD4 cells.
 
-One randomised, double blind, placebo controlled clinical study in adults has compared the combination of abacavir, lamivudine and zidovudine to the combination of indinavir, lamivudine and zidovudine. Due to the high proportion of premature discontinuation (42% of patients discontinued randomised treatment by week 48), no definitive conclusion can be drawn regarding the equivalence between the treatment regimens at week 48. Although a similar antiviral effect was observed between the abacavir and indinavir containing regimens in terms of proportion of patients with undetectable viral load ( ≤ 400 copies/ml; intention to treat analysis (ITT), 47% versus 49%; as treated analysis (AT), 86% versus 94% for abacavir and indinavir combinations respectively), results favoured the indinavir
+One randomised, double blind, placebo controlled clinical study in adults has compared the combination of abacavir, lamivudine and zidovudine to the combination of indinavir, lamivudine and zidovudine. Due to the high proportion of premature discontinuation (42% of patients discontinued randomised treatment by week 48), no definitive conclusion can be drawn regarding the equivalence between the treatment regimens at week 48. Although a similar antiviral effect was observed between the abacavir and indinavir containing regimens in terms of proportion of patients with undetectable viral load (  400 copies/ml; intention to treat analysis (ITT), 47% versus 49%; as treated analysis (AT), 86% versus 94% for abacavir and indinavir combinations respectively), results favoured the indinavir combination, particularly in the subset of patients with high viral load (&gt;100,000 copies/ml at baseline; ITT, 46% versus 55%; AT, 84% versus 93% for abacavir and indinavir respectively).
 
-<div style=\"page-break-after: always\"></div>
-
-combination, particularly in the subset of patients with high viral load (&gt;100,000 copies/ml at baseline; ITT, 46% versus 55%; AT, 84% versus 93% for abacavir and indinavir respectively).
-
-In a multicentre, double-blind, controlled study (CNA30024), 654 HIV-infected, antiretroviral therapy-naïve patients were randomised to receive either abacavir 300 mg twice daily or zidovudine 300 mg twice daily, both in combination with lamivudine 150 mg twice daily and efavirenz 600 mg once daily. The duration of double-blind treatment was at least 48 weeks.  In the intent-to-treat (ITT) population, 70% of patients in the abacavir group, compared to 69% of patients in the zidovudine group, achieved a virologic response of plasma HIV-1 RNA ≤ 50 copies/ml by Week 48 (point estimate for treatment difference: 0.8, 95% CI -6.3, 7.9). In the as treated (AT) analysis the difference between both treatment arms was more noticeable (88% of patients in the abacavir group, compared to 95% of patients in the zidovudine group (point estimate for treatment difference: -6.8, 95% CI 11.8; -1.7). However, both analyses were compatible with a conclusion of non-inferiority between both treatment arms.
+In a multicentre, double-blind, controlled study (CNA30024), 654 HIV-infected, antiretroviral therapy-naïve patients were randomised to receive either abacavir 300 mg twice daily or zidovudine 300 mg twice daily, both in combination with lamivudine 150 mg twice daily and efavirenz 600 mg once daily. The duration of double-blind treatment was at least 48 weeks.  In the intent-to-treat (ITT) population, 70% of patients in the abacavir group, compared to 69% of patients in the zidovudine group, achieved a virologic response of plasma HIV-1 RNA  50 copies/ml by Week 48 (point estimate for treatment difference: 0.8, 95% CI -6.3, 7.9). In the as treated (AT) analysis the difference between both treatment arms was more noticeable (88% of patients in the abacavir group, compared to 95% of patients in the zidovudine group (point estimate for treatment difference: -6.8, 95% CI 11.8; -1.7). However, both analyses were compatible with a conclusion of non-inferiority between both treatment arms.
 
 ACTG5095 was a randomised (1:1:1), double-blind, placebo-controlled trial performed in 1147 antiretroviral naïve HIV-1 infected adults, comparing 3 regimens: zidovudine (ZDV), lamivudine (3TC), abacavir (ABC), efavirenz (EFV) vs ZDV/3TC/EFV vs ZDV/3TC/ABC. After a median follow-up of 32 weeks, the tritherapy with the three nucleosides ZDV/3TC/ABC was shown to be virologically inferior to the two other arms regardless of baseline viral load (&lt; or &gt; 100 000 copies/ml) with 26% of subjects on the ZDV/3TC/ABC arm, 16% on the ZDV/3TC/EFV arm and 13% on the 4 drug arm categorised as having virological failure (HIV RNA &gt;200 copies/ml). At week 48 the proportion of subjects with HIV RNA &lt;50 copies/ml were 63%, 80% and 86% for the ZDV/3TC/ABC, ZDV/3TC/EFV and ZDV/3TC/ABC/EFV arms, respectively. The study Data Safety Monitoring Board stopped the ZDV/3TC/ABC arm at this time based on the higher proportion of patients with virologic failure. The remaining arms were continued in a blinded fashion. After a median follow-up of 144 weeks, 25% of subjects on the ZDV/3TC/ABC/EFV arm and 26% on the ZDV/3TC/EFV arm were categorised as having virological failure. There was no significant difference in the time to first virologic failure (p=0.73, log-rank test) between the 2 arms. In this study, addition of ABC to ZDV/3TC/EFV did not significantly improve efficacy.
 
@@ -418,6 +416,8 @@ ACTG5095 was a randomised (1:1:1), double-blind, placebo-controlled trial perfor
 | Virologic failure (HIV                              | 32 weeks  | 26%           | 16%           | 13%               |
 | RNA >200 copies/ml)                                 | 144 weeks | -             | 26%           | 25%               |
 | Virologic success (48 weeks HIV RNA < 50 copies/ml) |           | 63%           | 80%           | 86%               |
+
+<div style=\"page-break-after: always\"></div>
 
 ## · Therapy experienced adults
 
@@ -429,21 +429,19 @@ Once daily (600 mg) administration:
 
 ## · Therapy naïve adults
 
-The once daily regimen of abacavir is supported by a 48 weeks multi-centre, double-blind, controlled study (CNA30021) of 770 HIV-infected, therapy-naïve adults. These were primarily asymptomatic HIV infected patients - Centre for Disease Control and Prevention (CDC) stage A. They were
+The once daily regimen of abacavir is supported by a 48 weeks multi-centre, double-blind, controlled study (CNA30021) of 770 HIV-infected, therapy-naïve adults. These were primarily asymptomatic HIV infected patients - Centre for Disease Control and Prevention (CDC) stage A. They were randomised to receive either abacavir 600 mg once daily or 300 mg twice daily, in combination with efavirenz and lamivudine given once daily. Similar clinical success (point estimate for treatment difference -1.7, 95% CI -8.4, 4.9) was observed for both regimens. From these results, it can be concluded with 95% confidence that the true difference is no greater than 8.4% in favour of the twice daily regimen. This potential difference is sufficiently small to draw an overall conclusion of noninferiority of abacavir once daily over abacavir twice daily.
 
-<div style=\"page-break-after: always\"></div>
-
-randomised to receive either abacavir 600 mg once daily or 300 mg twice daily, in combination with efavirenz and lamivudine given once daily. Similar clinical success (point estimate for treatment difference -1.7, 95% CI -8.4, 4.9) was observed for both regimens. From these results, it can be concluded with 95% confidence that the true difference is no greater than 8.4% in favour of the twice daily regimen. This potential difference is sufficiently small to draw an overall conclusion of noninferiority of abacavir once daily over abacavir twice daily.
-
-There was a low, similar overall incidence of virologic failure (viral load &gt;50 copies/ml) in both the once and twice daily treatment groups (10% and 8% respectively). In the small sample size for genotypic analysis, there was a trend toward a higher rate of NRTI-associated mutations in the once daily versus the twice daily abacavir regimens. No firm conclusion could be drawn due to the limited data derived from this study.  Long term data with abacavir used as a once daily regimen (beyond 48 weeks) are currently limited.
+There was a low, similar overall incidence of virologic failure (viral load &gt;50 copies/ml) in both the once and twice daily treatment groups (10% and 8% respectively). In the small sample size for genotypic analysis, there was a trend toward a higher rate of NRTI-associated mutations in the once daily versus the twice daily abacavir regimens. No firm conclusion could be drawn due to the limited data derived from this study. Long term data with abacavir used as a once daily regimen (beyond 48 weeks) are currently limited.
 
 ## · Therapy experienced adults
 
-In study CAL30001, 182 treatment-experienced patients with virologic failure were randomised  and received treatment with either the fixed-dose combination of abacavir/lamivudine (FDC) once daily or abacavir 300 mg twice daily plus lamivudine 300 mg once daily, both in combination with tenofovir and a PI or an NNRTI for 48 weeks. Results indicate that the FDC group was non-inferior to the abacavir twice daily group, based on similar reductions in HIV-1 RNA as measured by average area under the curve minus baseline (AAUCMB, -1.65 log10 copies/ml versus -1.83 log10 copies/ml respectively, 95% CI -0.13, 0.38). Proportions with HIV-1 RNA &lt; 50 copies/ml (50% versus 47%) and &lt; 400 copies/ml (54% versus 57%) were also similar in each group (ITT population). However, as there were only moderately experienced patients included in this study with an imbalance in baseline viral load between the arms, these results should be interpreted with caution.
+In study CAL30001, 182 treatment-experienced patients with virologic failure were randomised and received treatment with either the fixed-dose combination of abacavir/lamivudine (FDC) once daily or abacavir 300 mg twice daily plus lamivudine 300 mg once daily, both in combination with tenofovir and a PI or an NNRTI for 48 weeks. Results indicate that the FDC group was non-inferior to the abacavir twice daily group, based on similar reductions in HIV-1 RNA as measured by average area under the curve minus baseline (AAUCMB, -1.65 log10 copies/ml versus -1.83 log10 copies/ml respectively, 95% CI -0.13, 0.38). Proportions with HIV-1 RNA &lt; 50 copies/ml (50% versus 47%) and &lt; 400 copies/ml (54% versus 57%) were also similar in each group (ITT population). However, as there were only moderately experienced patients included in this study with an imbalance in baseline viral load between the arms, these results should be interpreted with caution.
 
 In study ESS30008, 260 patients with virologic suppression on a first line therapy regimen containing abacavir 300 mg plus lamivudine 150 mg, both given twice daily and a PI or NNRTI, were randomised to continue this regimen or switch to abacavir/lamivudine FDC plus a PI or NNRTI for 48 weeks.
 
 Results indicate that the FDC group was associated with a similar virologic outcome (non-inferior) compared to the abacavir plus lamivudine group, based on proportions of subjects with HIV-1 RNA &lt; 50 copies/ml (90% and 85% respectively, 95% CI -2.7, 13.5).
+
+<div style=\"page-break-after: always\"></div>
 
 ## Additional information:
 
@@ -454,8 +452,6 @@ Abacavir penetrates the cerebrospinal fluid (CSF) (see section 5.2), and has bee
 ## Paediatric population:
 
 A randomised comparison of a regimen including once daily vs twice daily dosing of abacavir and lamivudine was undertaken within a randomised, multicentre, controlled study of HIV-infected, paediatric patients. 1206 paediatric patients aged 3 months to 17 years enrolled in the ARROW Trial (COL105677) and were dosed according to the weight - band dosing recommendations in the World Health Organisation treatment guidelines (Antiretroviral therapy of HIV infection in infants and children, 2006). After 36 weeks on a regimen including twice daily abacavir and lamivudine, 669 eligible subjects were randomised to either continue twice daily dosing or switch to once daily abacavir and lamivudine for at least 96 weeks. Of note, from this study clinical data were not available for children under one year old. The results are summarised in the table below:
-
-<div style=\"page-break-after: always\"></div>
 
 ## Virological Response Based on Plasma HIV-1 RNA less than 80 copies/ml at Week 48 and Week 96 in the Once Daily versus Twice Daily abacavir + lamivudine randomisation of ARROW (Observed Analysis)
 
@@ -471,21 +467,23 @@ A randomised comparison of a regimen including once daily vs twice daily dosing 
 | Plasma HIV-1 RNA <80 c/ml                 | 234/326 (72)                           | 230/331 (69)                           |
 | Risk difference (once daily- twice daily) | -2.3% (95% CI -9.3% to +4.7%), p=0.52  | -2.3% (95% CI -9.3% to +4.7%), p=0.52  |
 
-The abacavir + lamivudine once daily dosing group was demonstrated to be non-inferior to the twice daily group according to the pre-specified non-inferiority margin of -12%, for the primary endpoint of &lt;80 c/ml at Week 48 as well as at Week 96 (secondary endpoint) and all other thresholds tested (&lt;200c/ml, &lt;400c/ml, &lt;1000c/ml), which all fell well within this non-inferiority margin. Subgroup analyses testing for heterogeneity of once vs twice daily demonstrated no significant effect of sex, age, or viral load at randomisation. Conclusions supported non-inferiority regardless of analysis method.
+The abacavir + lamivudine once daily dosing group was demonstrated to be non-inferior to the twice daily group according to the pre-specified non-inferiority margin of -12%, for the primary endpoint of &lt;80 c/ml at Week 48 as well as at Week 96 (secondary endpoint) and all other thresholds tested (&lt;200 c/ml, &lt;400 c/ml, &lt;1000 c/ml), which all fell well within this non-inferiority margin. Subgroup analyses testing for heterogeneity of once vs twice daily demonstrated no significant effect of sex, age, or viral load at randomisation. Conclusions supported non-inferiority regardless of analysis method.
 
-In a separate study comparing the unblinded NRTI combinations (with or without blinded nelfinavir) in children, a greater proportion treated with abacavir and lamivudine (71%) or abacavir and zidovudine (60%) had HIV-1 RNA ≤ 400 copies/ml at 48 weeks, compared with those treated with lamivudine and zidovudine (47%)[ p=0.09, intention to treat analysis]. Similarly, greater proportions of children treated with the abacavir containing combinations had HIV-1 RNA ≤ 50 copies/ml at 48 weeks (53%, 42% and 28% respectively, p=0.07).
+In a separate study comparing the unblinded NRTI combinations (with or without blinded nelfinavir) in children, a greater proportion treated with abacavir and lamivudine (71%) or abacavir and zidovudine (60%) had HIV-1 RNA  400 copies/ml at 48 weeks, compared with those treated with lamivudine and zidovudine (47%) [ p=0.09, intention to treat analysis]. Similarly, greater proportions of children treated with the abacavir containing combinations had HIV-1 RNA  50 copies/ml at 48 weeks (53%, 42% and 28% respectively, p=0.07).
 
-In a pharmacokinetic study (PENTA 15), four virologically controlled subjects less than 12 months of age switched from abacavir plus lamivudine oral solution twice daily to a once daily regimen. Three subjects had undetectable viral load and one had plasmatic HIV-RNA of 900 copies/ml at Week 48. No safety concerns were observed in these subjects.
+In a pharmacokinetic study (PENTA 15), four virologically controlled subjects less than 12 months of age switched from abacavir plus lamivudine oral solution twice daily to a once daily regimen. Three
+
+<div style=\"page-break-after: always\"></div>
+
+subjects had undetectable viral load and one had plasmatic HIV-RNA of 900 copies/ml at Week 48. No safety concerns were observed in these subjects.
 
 ## 5.2 Pharmacokinetic properties
 
 ## Absorption
 
-Abacavir is rapidly and well absorbed following oral administration. The absolute bioavailability of oral abacavir in adults is about 83%.  Following oral administration, the mean time (tmax) to maximal serum concentrations of abacavir is about 1.5 hours for the tablet formulation and about 1.0 hour for the solution formulation.
+Abacavir is rapidly and well absorbed following oral administration. The absolute bioavailability of oral abacavir in adults is about 83%. Following oral administration, the mean time (tmax) to maximal serum concentrations of abacavir is about 1.5 hours for the tablet formulation and about 1.0 hour for the solution formulation.
 
-At therapeutic dosages a dosage of 300 mg twice daily, the mean (CV) steady state Cmax and Cmin of abacavir are approximately 3.00 µ g/ml (30%) and 0.01 µg/ml (99%), respectively. The mean (CV) AUC over a dosing interval of 12 hours was 6.02 µ g.h/ml (29%), equivalent to a daily AUC of approximately 12.0 µ g.h/ml. The Cmax value for the oral solution is slightly higher than the tablet. After a 600 mg abacavir tablet dose, the mean (CV) abacavir Cmax was approximately 4.26 µ g/ml (28%) and the mean (CV) AUC ∞ was 11.95 µ g.h/ml (21%).
-
-<div style=\"page-break-after: always\"></div>
+At therapeutic dosages a dosage of 300 mg twice daily, the mean (CV) steady state Cmax and Cmin of abacavir are approximately 3.00  g/ml (30%) and 0.01 µg/ml (99%), respectively. The mean (CV) AUC over a dosing interval of 12 hours was 6.02  g.h/ml (29%), equivalent to a daily AUC of approximately 12.0  g.h/ml. The Cmax value for the oral solution is slightly higher than the tablet. After a 600 mg abacavir tablet dose, the mean (CV) abacavir Cmax was approximately 4.26  g/ml (28%) and the mean (CV) AUC  was 11.95  g.h/ml (21%).
 
 Food delayed absorption and decreased Cmax but did not affect overall plasma concentrations (AUC). Therefore Ziagen can be taken with or without food.
 
@@ -501,11 +499,13 @@ Plasma protein binding studies in vitro indicate that abacavir binds only low to
 
 ## Biotransformation
 
-Abacavir is primarily metabolised by the liver with approximately 2% of the administered dose being renally excreted, as unchanged compound. The primary pathways of metabolism in man are by alcohol dehydrogenase and by glucuronidation to produce the 5'-carboxylic acid and 5'-glucuronide which account for about 66% of the administered dose. The metabolites are excreted in the urine.
+Abacavir is primarily metabolised by the liver with approximately 2% of the administered dose being renally excreted, as unchanged compound. The primary pathways of metabolism in man are by alcohol dehydrogenase and by glucuronidation to produce the 5' -carb oxylic acid and 5' -glucuronide which account for about 66% of the administered dose. The metabolites are excreted in the urine.
 
 ## Elimination
 
 The mean half-life of abacavir is about 1.5 hours. Following multiple oral doses of abacavir 300 mg twice a day there is no significant accumulation of abacavir. Elimination of abacavir is via hepatic metabolism with subsequent excretion of metabolites primarily in the urine. The metabolites and unchanged abacavir account for about 83% of the administered abacavir dose in the urine. The remainder is eliminated in the faeces.
+
+<div style=\"page-break-after: always\"></div>
 
 ## Intracellular pharmacokinetics
 
@@ -515,11 +515,7 @@ In a study of 20 HIV-infected patients receiving abacavir 300 mg twice daily, wi
 
 ## Hepatic impairment
 
-Abacavir is metabolised primarily by the liver. The pharmacokinetics of abacavir have been studied in patients with mild hepatic impairment (Child-Pugh score 5-6) receiving a single 600 mg dose ; the median (range) AUC value was 24.1 (10.4 to 54.8) ug.h/ml. The results showed that there was a mean (90%CI) increase of 1.89 fold [1.32; 2.70] in the abacavir AUC, and 1.58 [1.22; 2.04] fold in the
-
-<div style=\"page-break-after: always\"></div>
-
-elimination half-life. No definitive recommendation on dosage reduction is possible in patients with mild hepatic impairment due to the substantial variability of abacavir exposure.
+Abacavir is metabolised primarily by the liver. The pharmacokinetics of abacavir have been studied in patients with mild hepatic impairment (Child-Pugh score 5-6) receiving a single 600 mg dose; the median (range) AUC value was 24.1 (10.4 to 54.8) ug.h/ml. The results showed that there was a mean (90%CI) increase of 1.89 fold [1.32; 2.70] in the abacavir AUC, and 1.58 [1.22; 2.04] fold in the elimination half-life. No definitive recommendation on dosage reduction is possible in patients with mild hepatic impairment due to the substantial variability of abacavir exposure.
 
 Abacavir is not recommended in patients with moderate or severe hepatic impairment.
 
@@ -533,7 +529,11 @@ According to clinical trials performed in children abacavir is rapidly and well 
 
 There are insufficient safety data to recommend the use of Ziagen in infants less than three months old. The limited data available indicate that an oral solution dose of 2 mg/kg in neonates less than 30 days old provides similar or greater AUCs, compared to the 8 mg/kg oral solution dose administered to older children.
 
-Pharmacokinetic  data  were  derived  from  3  pharmacokinetic  studies  (PENTA  13,  PENTA  15  and ARROW PK substudy) enrolling children under 12 years of age. The data are displayed in the table below:
+Pharmacokinetic  data  were  derived  from  3  pharmacokinetic  studies  (PENTA  13,  PENTA  15  and ARROW PK substudy) enrolling children under 12 years of age. The data are displayed in the table
+
+<div style=\"page-break-after: always\"></div>
+
+below:
 
 ## Summary of Stead-State Plasma Abacavir AUC (0-24) (µg.h/ml) and Statistical Comparisons for Once and Twice-Daily Oral Administration Across Studies
 
@@ -549,8 +549,6 @@ Elderly
 
 The pharmacokinetics of abacavir has not been studied in patients over 65 years of age.
 
-<div style=\"page-break-after: always\"></div>
-
 ## 5.3 Preclinical safety data
 
 Abacavir was not mutagenic in bacterial tests but showed activity in vitro in the human lymphocyte chromosome aberration assay, the mouse lymphoma assay, and the in vivo micronucleus test. This is consistent with the known activity of other nucleoside analogues. These results indicate that abacavir has a weak potential to cause chromosomal damage both in vitro and in vivo at high test concentrations.
@@ -562,6 +560,8 @@ The majority of these tumours occurred at the highest abacavir dose of 330 mg/kg
 In pre-clinical toxicology studies, abacavir treatment was shown to increase liver weights in rats and monkeys. The clinical relevance of this is unknown. There is no evidence from clinical studies that abacavir is hepatotoxic. Additionally, autoinduction of abacavir metabolism or induction of the metabolism of other medicinal products hepatically metabolised has not been observed in man.
 
 Mild myocardial degeneration in the heart of mice and rats was observed following administration of abacavir for two years. The systemic exposures were equivalent to 7 to 24 times the expected systemic exposure in humans. The clinical relevance of this finding has not been determined.
+
+<div style=\"page-break-after: always\"></div>
 
 In reproductive toxicity studies, embryo and foetal toxicity have been observed in rats but not in rabbits. These findings included decreased foetal body weight, foetal oedema, and an increase in skeletal variations/malformations, early intra-uterine deaths and still births. No conclusion can be drawn with regard to the teratogenic potential of abacavir because of this embryo-foetal toxicity.
 
@@ -577,19 +577,15 @@ Tablet Coating Triacetin Methylhydroxypropylcellulose Titanium dioxide Polysorba
 
 ## 6.2 Incompatibilities
 
-<div style=\"page-break-after: always\"></div>
-
 Not applicable
 
-## 6.3
-
-Shelf-life
+## 6.3 Shelf-life
 
 3 years
 
 ## 6.4 Special precautions for storage
 
-Do not store above 30 ° C
+Do not store above 30  C
 
 ## 6.5 Nature and contents of container
 
@@ -609,13 +605,19 @@ Netherlands
 
 EU/1/99/112/001
 
-## 9. DATE OF FIRST AUTHORISATION/RENEWAL OF THE AUTHORISATION
+<div style=\"page-break-after: always\"></div>
+
+9.
+
+DATE OF FIRST AUTHORISATION/RENEWAL OF THE AUTHORISATION
 
 Date of first authorisation: 8 July 1999
 
 Date of latest renewal: 21 March 2014
 
-## 10. DATE OF REVISION OF THE TEXT
+10.
+
+DATE OF REVISION OF THE TEXT
 
 Detailed information on this medicinal product is available on the website of the European Medicines Agency http://www.ema.europa.eu
 
@@ -665,17 +667,19 @@ Adults, adolescents and children (weighing at least 25 kg):
 
 The recommended dose of Ziagen is 600 mg daily (30 ml). This may be administered as either 300 mg (15 ml) twice daily or 600 mg (30 ml) once daily (see sections 4.4 and 5.1).
 
+Children (weighing less than 25 kg):
+
+Children from one year of age : The recommended dose is 8 mg/kg twice daily or 16 mg/kg once daily,
+
 <div style=\"page-break-after: always\"></div>
 
-## Children (weighing less than 25 kg):
-
-Children from one year of age : The recommended dose is 8 mg/kg twice daily or 16 mg/kg once daily, up to a maximum total daily dose of 600 mg (30 ml).
+up to a maximum total daily dose of 600 mg (30 ml).
 
 Children from three months to one year of age : The recommended dose is 8 mg/kg twice daily. If a twice daily regimen is not feasible, a once daily regimen (16 mg/kg/day) could be considered. It should be taken into account that data for the once daily regimen are very limited in this population (see sections 5.1 and 5.2).
 
 Children less than three months of age: the experience in children aged less than three months is limited (see section 5.2).
 
-Patients changing from the twice daily dosing regimen to the once daily dosing regimen should take the recomended once daily dose (as described above) approximately 12 hours after the last twice daily dose, and then continue to take the recomended once daily dose (as described above) approximately every 24 hours. When changing back to a twice daily regimen, patients should take the recommended twice daily dose approximately 24 hours after the last once daily dose.
+Patients changing from the twice daily dosing regimen to the once daily dosing regimen should take the recommended once daily dose (as described above) approximately 12 hours after the last twice daily dose, and then continue to take the recommended once daily dose (as described above) approximately every 24 hours. When changing back to a twice daily regimen, patients should take the recommended twice daily dose approximately 24 hours after the last once daily dose.
 
 ## Special populations
 
@@ -685,7 +689,7 @@ No dosage adjustment of Ziagen is necessary in patients with renal dysfunction. 
 
 ## Hepatic impairment
 
-Abacavir is primarily metabolised by the liver. No definitive dose recommendation can be made in patients with mild hepatic impairment (Child-Pugh score 5-6). In patients with moderate or severe hepatic impairment, no clinical data are available, therefore the use of abacavir is not recommended unless judged necessary. If abacavir is used in patients with mild  hepatic impairment, then close monitoring is required,  including  monitoring of abacavir plasma levels if feasible (see sections 4.4 and 5.2).
+Abacavir is primarily metabolised by the liver. No definitive dose recommendation can be made in patients with mild hepatic impairment (Child-Pugh score 5-6). In patients with moderate or severe hepatic impairment, no clinical data are available, therefore the use of abacavir is not recommended unless judged necessary. If abacavir is used in patients with mild hepatic impairment, then close monitoring is required, including monitoring of abacavir plasma levels if feasible (see sections 4.4 and 5.2).
 
 ## Elderly
 
@@ -695,17 +699,17 @@ No pharmacokinetic data are currently available in patients over 65 years of age
 
 Hypersensitivity to abacavir or to any of the excipients listed in section 6.1. See sections 4.4 and 4.8.
 
-## 4.4 Special warnings and  precautions for use
+## 4.4 Special warnings and precautions for use
 
-## Hypersensitivity reactions (see also section 4.8):
+Hypersensitivity reactions (see also section 4.8):
 
-Abacavir is associated with a risk for hypersensitivity reactions (HSR) (see section4.8) characterised by fever and/or rash with other symptoms indicating multi-organ involvement. HSRs have been observed with abacavir, some of which have been life-threatening, and in rare cases fatal, when not managed appropriately.
+Abacavir is associated with a risk for hypersensitivity reactions (HSR) (see section 4.8) characterised by fever and/or rash with other symptoms indicating multi-organ involvement. HSRs have been observed with abacavir, some of which have been life-threatening, and in rare cases fatal, when not managed appropriately.
 
 The risk for abacavir HSR to occur is high for patients who test positive for the HLA-B*5701 allele. However, abacavir HSRs have been reported at a lower frequency in patients who do not carry this allele.
 
-<div style=\"page-break-after: always\"></div>
-
 Therefore the following should be adhered to:
+
+<div style=\"page-break-after: always\"></div>
 
 - HLA-B*5701 status must always be documented prior to initiating therapy.
 - Ziagen should never be initiated in patients with a positive HLA-B*5701 status, nor in patients with a negative HLA-B*5701 status who had a suspected abacavir HSR on a previous abacavircontaining regimen. (e.g. Kivexa, Trizivir, Triumeq)
@@ -721,15 +725,13 @@ Almost all HSR to abacavir include fever and/or rash. Other signs and symptoms t
 
 The symptoms related to HSR worsen with continued therapy and can be life-threatening. These symptoms usually resolve upon discontinuation of abacavir.
 
-Rarely, patients who have stopped abacavir for reasons other than symptoms of HSR have also experienced life-threatening reactions within hours of re- initiating abacavir therapy (see Section 4.8 Description of selected adverse reactions).  Restarting abacavir in such patients must be done in a setting where medical assistance is readily available.
+Rarely, patients who have stopped abacavir for reasons other than symptoms of HSR have also experienced life-threatening reactions within hours of re- initiating abacavir therapy (see Section 4.8 Description of selected adverse reactions). Restarting abacavir in such patients must be done in a setting where medical assistance is readily available.
 
 ## Mitochondrial dysfunction following exposure in utero
 
-Nucleoside  and nucleotide analogues  may impact mitochondrial function to a variable degree, which is most pronounced with stavudine, didanosine and zidovudine. There have been reports of mitochondrial dysfunction in HIV-negative infants exposed in utero and/or post-natally to nucleoside analogues ; these have predominantly concerned treatment with regimens containing zidovudine.The main adverse reactions reported are haematological disorders (anaemia, neutropenia) and metabolic disorders (hyperlactatemia, hyperlipasemia). These events have often been transitory. Late onset neurological disorders have been reported rarely (hypertonia, convulsion, abnormal behaviour). Whether such neurological disorders are transient or permanent is currently unknown. These findings should be considered for any child exposed in utero to nucleotide and nucleotide analogues , who
+Nucleoside and nucleotide analogues may impact mitochondrial function to a variable degree, which is most pronounced with stavudine, didanosine and zidovudine. There have been reports of mitochondrial dysfunction in HIV-negative infants exposed in utero and/or post-natally to nucleoside analogues ; these have predominantly concerned treatment with regimens containing zidovudine. The main adverse reactions reported are haematological disorders (anaemia, neutropenia) and metabolic disorders (hyperlactatemia, hyperlipasemia). These events have often been transitory. Late onset neurological disorders have been reported rarely (hypertonia, convulsion, abnormal behaviour). Whether such neurological disorders are transient or permanent is currently unknown. These findings should be considered for any child exposed in utero to nucleotide and nucleotide analogues , who presents with severe clinical findings of unknown etiology, particularly neurologic findings. These findings do not affect current national recommendations to use antiretroviral therapy in pregnant women to prevent vertical transmission of HIV.
 
 <div style=\"page-break-after: always\"></div>
-
-presents with severe clinical findings of unknown etiology, particularly neurologic findings.  These findings do not affect current national recommendations to use antiretroviral therapy in pregnant women to prevent vertical transmission of HIV.
 
 ## Weight and metabolic parameters
 
@@ -747,7 +749,7 @@ There have been reports of a high rate of virological failure and of emergence o
 
 ## Liver disease
 
-The safety and efficacy of Ziagen has not been established in patients with significant underlying liver disorders. Ziagen is not recommended in patients with  moderate or  severe hepatic impairment (see sections 4.2 and 5.2).
+The safety and efficacy of Ziagen has not been established in patients with significant underlying liver disorders. Ziagen is not recommended in patients with moderate or severe hepatic impairment (see sections 4.2 and 5.2).
 
 Patients with pre-existing liver dysfunction, including chronic active hepatitis, have an increased frequency of liver function abnormalities during combination antiretroviral therapy, and should be monitored according to standard practice. If there is evidence of worsening liver disease in such patients, interruption or discontinuation of treatment must be considered.
 
@@ -765,9 +767,9 @@ Ziagen oral solution contains 340 mg/ml of sorbitol. When taken according to the
 
 Ziagen oral solution also contains methyl parahydroxybenzoate and propyl parahydroxybenzoate which may cause allergic reactions (possibly delayed).
 
-<div style=\"page-break-after: always\"></div>
+This medicine contains less than 1 mmol sodium (23 mg) per dosage unit, that is to say essentially 'sodium -free'.
 
-This medicine contains less than 1 mmol sodium (23 mg) per dosage unit, that is to say essentially 'sodium-free'.
+<div style=\"page-break-after: always\"></div>
 
 Ziagen oral solution contains 50 mg/ml of propylene glycol. When taken according to the dosage recommendations each 15 ml dose contains approximately 750 mg of propylene glycol.
 
@@ -795,11 +797,11 @@ In addition, alternative treatment options to the abacavir containing regimen sh
 
 ## 4.5 Interaction with other medicinal products and other forms of interaction
 
-The potential for P450 mediated interactions with other medicinal products involving abacavir is low. In vitro studies have shown that abacavir has potential to inhibit cytochrome P450 1A1 (CYP1A1).
+The potential for P450 mediated interactions with other medicinal products involving abacavir is low. In vitro studies have shown that abacavir has potential to inhibit cytochrome P450 1A1 (CYP1A1). P450 does not play a major role in the metabolism of abacavir, and abacavir shows limited potential to inhibit metabolism mediated by CYP 3A4. Abacavir has also been shown in vitro not to inhibit CYP2C9 or CYP2D6 enzymes at clinically relevant concentrations. Induction of hepatic metabolism
 
 <div style=\"page-break-after: always\"></div>
 
-P450 does not play a major role in the metabolism of abacavir, and abacavir shows limited potential to inhibit metabolism mediated by CYP 3A4.  Abacavir has also been shown in vitro not to inhibit CYP2C9 or CYP2D6 enzymes at clinically relevant concentrations. Induction of hepatic metabolism has not been observed in clinical studies. Therefore, there is little potential for interactions with antiretroviral PIs and other medicinal products metabolised by major P450 enzymes. Clinical studies have shown that there are no clinically significant interactions between abacavir, zidovudine, and lamivudine.
+has not been observed in clinical studies. Therefore, there is little potential for interactions with antiretroviral PIs and other medicinal products metabolised by major P450 enzymes. Clinical studies have shown that there are no clinically significant interactions between abacavir, zidovudine, and lamivudine.
 
 Potent enzymatic inducers such as rifampicin, phenobarbital and phenytoin may via their action on UDP-glucuronyltransferases slightly decrease the plasma concentrations of abacavir.
 
@@ -809,7 +811,7 @@ Methadone: in a pharmacokinetic study, co-administration of 600 mg abacavir twic
 
 Retinoids: retinoid compounds are eliminated via alcohol dehydrogenase. Interaction with abacavir is possible but has not been studied.
 
-Riociguat: In vitro, abacavir inhibits CYP1A1. Concomitant administration of a single dose of riociguat (0.5 mg) to HIV patients receiving the combination of abacavir/dolutegravir/lamivudine (600mg/50mg/300mg once daily) led to an approximately three-fold higher riociguat AUC(0∞) when compared to historical riociguat AUC(0∞) reported in healthy subjects. Riociguat dose may need to be reduced. Consult the riociguat prescribing information for dosing recommendations.
+Riociguat: In vitro, abacavir inhibits CYP1A1. Concomitant administration of a single dose of riociguat (0.5 mg) to HIV patients receiving the combination of abacavir/dolutegravir/lamivudine (600 mg/50 mg/300 mg once daily) led to an approximately three-fold higher riociguat AUC(0-∞) when compared to historical riociguat AUC(0∞) reported in healthy subjects. Riociguat dose may need to be reduced. Consult the riociguat prescribing information for dosing recommendations.
 
 ## 4.6 Fertility, pregnancy and lactation
 
@@ -827,9 +829,11 @@ Nucleoside and nucleotide analogues have been demonstrated in vitro and in vivo 
 
 ## Breast-feeding
 
+Abacavir and its metabolites are excreted into the milk of lactating rats. Abacavir is also excreted into human milk. There are no data available on the safety of abacavir when administered to babies less
+
 <div style=\"page-break-after: always\"></div>
 
-Abacavir and its metabolites are excreted into the milk of lactating rats. Abacavir is also excreted into human milk. There are no data available on the safety of abacavir when administered to babies less than three months old. It is recommended that women living with HIV do not breast-feed their infants in order to avoid transmission of HIV.
+than three months old. It is recommended that women living with HIV do not breast-feed their infants in order to avoid transmission of HIV.
 
 ## Fertility
 
@@ -843,9 +847,9 @@ No studies on the effects on ability to drive and use machines have been perform
 
 For many adverse reactions reported, it is unclear whether they are related to Ziagen, to the wide range of medicinal products used in the management of HIV infection or as a result of the disease process.
 
-Many of the adverse reactions listed  below occur commonly (nausea, vomiting, diarrhoea, fever, lethargy, rash) in patients with abacavir hypersensitivity. Therefore, patients with any of these symptoms should be carefully evaluated for the presence of this hypersensitivity (see section 4.4). Very rarely cases of erythema multiforme, Stevens-Johnson syndrome or toxic epidermal necrolysis have been reported where abacavir hypersensitivity could not be ruled out. In such cases medicinal products containing abacavir should be permanently discontinued.
+Many of the adverse reactions listed below occur commonly (nausea, vomiting, diarrhoea, fever, lethargy, rash) in patients with abacavir hypersensitivity. Therefore, patients with any of these symptoms should be carefully evaluated for the presence of this hypersensitivity (see section 4.4). Very rarely cases of erythema multiforme, Stevens-Johnson syndrome or toxic epidermal necrolysis have been reported where abacavir hypersensitivity could not be ruled out. In such cases medicinal products containing abacavir should be permanently discontinued.
 
-Many of the adverse reactions have not been treatment limiting.  The following convention has been used for their classification: very common (&gt;1/10), common (&gt;1/100 to &lt;1/10), uncommon (&gt;1/1,000 to &lt;1/100), rare (&gt;1/10,000 to &lt;1/1,000) very rare (&lt;1/10,000).
+Many of the adverse reactions have not been treatment limiting.  The following convention has been used for their classification: very common (&gt; 1/10), common (&gt; 1/100 to &lt; 1/10), uncommon (&gt; 1/1,000 to &lt; 1/100), rare (&gt; 1/10,000 to &lt; 1/1,000) very rare (&lt; 1/10,000).
 
 ## Metabolism and nutrition disorders
 
@@ -859,7 +863,15 @@ lactic acidosis
 
 Nervous system disorders Common: headache
 
-Gastrointestinal disorders Common: nausea, vomiting, diarrhoea Rare: pancreatitis
+## Gastrointestinal disorders
+
+Common:
+
+nausea, vomiting, diarrhoea
+
+Rare:
+
+pancreatitis
 
 ## Skin and subcutaneous tissue disorders
 
@@ -867,9 +879,7 @@ Common : rash (without systemic symptoms)
 
 Very rare: erythema multiforme, Stevens-Johnson syndrome and toxic epidermal necrolysis
 
-## General disorders and administration site conditions
-
-Common: fever, lethargy, fatigue
+General disorders and administration site conditions Common: fever, lethargy, fatigue
 
 ## Description of Selected Adverse Reactions
 
@@ -877,11 +887,9 @@ Common: fever, lethargy, fatigue
 
 The signs and symptoms of this HSR are listed below. These have been identified either from clinical studies or post marketing surveillance. Those reported in at least 10% of patients with a hypersensitivity reaction are in bold text.
 
-Almost all patients developing hypersensitivity reactions will have fever and/or rash (usually maculopapular or urticarial) as part of the syndrome, however reactions have occurred without rash or
+Almost all patients developing hypersensitivity reactions will have fever and/or rash (usually maculopapular or urticarial) as part of the syndrome, however reactions have occurred without rash or fever. Other key symptoms include gastrointestinal, respiratory or constitutional symptoms such as lethargy and malaise.
 
 <div style=\"page-break-after: always\"></div>
-
-fever. Other key symptoms include gastrointestinal, respiratory or constitutional symptoms such as lethargy and malaise.
 
 | Skin                    | Rash (usually maculopapular or urticarial)                                                   |
 |-------------------------|----------------------------------------------------------------------------------------------|
@@ -910,11 +918,11 @@ In HIV-infected patients with severe immune deficiency at the time of initiation
 
 Cases of osteonecrosis have been reported, particularly in patients with generally acknowledged risk factors, advanced HIV disease or long-term exposure to CART. The frequency of this is unknown (see section 4.4).
 
-<div style=\"page-break-after: always\"></div>
-
 ## Changes in laboratory chemistries
 
 In controlled clinical studies laboratory abnormalities related to Ziagen treatment were uncommon, with no differences in incidence observed between Ziagen treated patients and the control arms.
+
+<div style=\"page-break-after: always\"></div>
 
 ## Paediatric population
 
@@ -936,7 +944,7 @@ Pharmacotherapeutic group: nucleoside reverse transcriptase inhibitors, ATC Code
 
 ## Mechanism of action
 
-Abacavir is a NRTI. It is a potent selective inhibitor of HIV-1 and HIV-2. Abacavir is metabolised intracellularly to the active moiety, carbovir 5'- triphosphate (TP). In vitro studies have demonstrated that its mechanism of action in relation to HIV is inhibition of the HIV reverse transcriptase enzyme, an event which results in chain termination and interruption of the viral replication cycle. The antiviral activity of abacavir in cell culture was not antagonized when combined with the nucleoside reverse transcriptase inhibitors (NRTIs)  didanosine, emtricitabine, lamivudine, stavudine, tenofovir or zidovudine,  the  non-nucleoside  reverse  transcriptase  inhibitor  (NNRTI)  nevirapine,  or  the  protease inhibitor (PI) amprenavir.
+Abacavir is a NRTI. It is a potent selective inhibitor of HIV-1 and HIV-2. Abacavir is metabolised intracellularly to the active moiety, carbovir 5' - triphosphate (TP). In vitro studies have demonstrated that its mechanism of action in relation to HIV is inhibition of the HIV reverse transcriptase enzyme, an event which results in chain termination and interruption of the viral replication cycle.  The antiviral activity of abacavir in cell culture was not antagonized when combined with the nucleoside reverse transcriptase inhibitors (NRTIs)  didanosine, emtricitabine, lamivudine, stavudine, tenofovir or zidovudine,  the  non-nucleoside  reverse  transcriptase  inhibitor  (NNRTI)  nevirapine,  or  the  protease inhibitor (PI) amprenavir.
 
 ## Resistance
 
@@ -944,34 +952,34 @@ Abacavir is a NRTI. It is a potent selective inhibitor of HIV-1 and HIV-2. Abaca
 
 Abacavir-resistant isolates of HIV-1 have been selected in vitro and are associated with specific genotypic changes in the reverse transcriptase (RT) codon region (codons M184V, K65R, L74V and Y115F). Viral resistance to abacavir develops relatively slowly in vitro, requiring multiple mutations for a clinically relevant increase in EC50 over wild-type virus.
 
-In vivo resistance (Therapy naïve patients)
-
-<div style=\"page-break-after: always\"></div>
+## In vivo resistance (Therapy naïve patients)
 
 Isolates from most patients experiencing virological failure with a regimen containing abacavir in pivotal clinical trials showed either no NRTI-related changes from baseline (45%) or only M184V or M184I selection (45%). The overall selection frequency for M184V or M184I was high (54%), and less common was the selection of L74V (5%), K65R (1%) and Y115F (1%). The inclusion of zidovudine in the regimen has been found to reduce the frequency of L74V and K65R selection in the presence of abacavir (with zidovudine: 0/40, without zidovudine: 15/192, 8%).
 
-| Therapy                           | Abacavir + Combivir 1   | Abacavir + lamivudine + NNRTI   | Abacavir + lamivudine + PI (or PI/ritonavir)   | Total      |
-|-----------------------------------|-------------------------|---------------------------------|------------------------------------------------|------------|
-| Number of Subjects 282            | 1094                    | 909                             | 2285                                           |            |
-| Number of Virological Failures    | 43                      | 90                              | 158                                            | 291        |
-| Number of On-Therapy Genotypes 40 | (100%)                  | 51 (100%) 2                     | 141 (100%)                                     | 232 (100%) |
-| 0                                 | 1                       | (2%)                            | 2 (1%) 3 (1%)                                  | K65R       |
-| L74V 0                            |                         | 9 (18%)                         | 3 (2%)                                         | 12 (5%)    |
-| Y115F 0                           |                         | 2 (4%)                          | 0                                              | 2 (1%)     |
-| 34                                | (85%)                   | 22 (43%)                        | 70 (50%)                                       | 126 (54%)  |
-| M184V/I TAMs 3                    | 3 (8%)                  | 2 (4%)                          | 4 (3%)                                         | 9 (4%)     |
+<div style=\"page-break-after: always\"></div>
 
-- 1.Combivir is a fixed dose combination of lamivudine and zidovudine
+| Therapy                           | Abacavir + Combivir 1   | Abacavir + lamivudine + NNRTI   | Abacavir + lamivudine + PI (or PI/ritonavir)   | Total              |
+|-----------------------------------|-------------------------|---------------------------------|------------------------------------------------|--------------------|
+| 282                               | 1094                    | 909                             | 2285                                           | Number of Subjects |
+| Number of Virological Failures    | 43                      | 90                              | 158                                            | 291                |
+| Number of On-Therapy Genotypes 40 | (100%) 51               | (100%) 2                        | 141 (100%)                                     | 232 (100%)         |
+| 0                                 | 1                       | (2%)                            | 2 (1%) 3 (1%)                                  | K65R               |
+| 0                                 | 9                       | (18%)                           | 3 (2%) 12 (5%)                                 | L74V               |
+| 0                                 |                         | 2 (4%)                          | 0 2 (1%)                                       | Y115F              |
+| M184V/I 34 (85%)                  | 22                      | (43%)                           | 70 (50%)                                       | 126 (54%)          |
+| TAMs 3 3 (8%)                     | 2                       | (4%)                            | 4 (3%)                                         | 9 (4%)             |
+
+1.Combivir is a fixed dose combination of lamivudine and zidovudine
 
 2.Includes three non-virological failures and four unconfirmed virological failures.
 
-3. Number of subjects with ≥ 1 Thymidine Analogue Mutations (TAMs).
+3. Number of subjects with  1 Thymidine Analogue Mutations (TAMs).
 
 TAMs might be selected when thymidine analogs are associated with abacavir. In a meta-analysis of six clinical trials, TAMs were not selected by regimens containing abacavir without zidovudine (0/127), but were selected by regimens containing abacavir and the thymidine analogue zidovudine (22/86, 26%).
 
 ## In vivo resistance (Therapy experienced patients)
 
-Clinically significant reduction of susceptibility to abacavir has been demonstrated in clinical isolates of patients with uncontrolled viral replication, who have been pre-treated with and are resistant to other nucleoside inhibitors. In a meta-analysis of five clinical trials where abacavir was added to intensify therapy, of 166 subjects, 123 (74%) had M184V/I, 50 (30%) had T215Y/F, 45 (27%) had M41L, 30 (18%) had K70R and 25 (15%) had D67N.  K65R was absent and L74V and Y115F were uncommon ( ≤ 3%). Logistic regression modelling of the predictive value for genotype (adjusted for baseline plasma HIV-1 RNA [vRNA], CD4+ cell count, number and duration of prior antiretroviral therapies), showed that the presence of 3 or more NRTI resistance-associated mutations was associated with reduced response at Week 4 (p=0.015) or 4 or more mutations at median Week 24 (p ≤ 0.012). In addition, the 69 insertion complex or the Q151M mutation, usually found in combination with A62V, V75I, F77L and F116Y, cause a high level of resistance to abacavir.
+Clinically significant reduction of susceptibility to abacavir has been demonstrated in clinical isolates of patients with uncontrolled viral replication, who have been pre-treated with and are resistant to other nucleoside inhibitors. In a meta-analysis of five clinical trials where abacavir was added to intensify therapy, of 166 subjects, 123 (74%) had M184V/I, 50 (30%) had T215Y/F, 45 (27%) had M41L, 30 (18%) had K70R and 25 (15%) had D67N.  K65R was absent and L74V and Y115F were uncommon (  3%). Logistic regression modelling of the predictive value for genotype (adjusted for baseline plasma HIV-1 RNA [vRNA], CD4+ cell count, number and duration of prior antiretroviral therapies), showed that the presence of 3 or more NRTI resistance-associated mutations was associated with reduced response at Week 4 (p=0.015) or 4 or more mutations at median Week 24 (p  0.012). In addition, the 69 insertion complex or the Q151M mutation, usually found in combination with A62V, V75I, F77L and F116Y, cause a high level of resistance to abacavir.
 
 <div style=\"page-break-after: always\"></div>
 
@@ -997,17 +1005,17 @@ The demonstration of the benefit of Ziagen is mainly based on results of studies
 
 Twice daily (300 mg) administration:
 
-- Therapy naïve adults
+## · Therapy naïve adults
 
 In adults treated with abacavir in combination with lamivudine and zidovudine the proportion of patients with undetectable viral load (&lt;400 copies/ml) was approximately 70% (intention to treat analysis at 48 weeks) with corresponding rise in CD4 cells.
 
-One randomised, double blind, placebo controlled clinical study in adults has compared the combination of abacavir, lamivudine and zidovudine to the combination of indinavir, lamivudine and zidovudine. Due to the high proportion of premature discontinuation (42% of patients discontinued randomised treatment by week 48), no definitive conclusion can be drawn regarding the equivalence between the treatment regimens at week 48. Although a similar antiviral effect was observed between the abacavir and indinavir containing regimens in terms of proportion of patients with undetectable viral load ( ≤ 400 copies/ml; intention to treat analysis (ITT), 47% versus 49%; as treated analysis (AT), 86% versus 94% for abacavir and indinavir combinations respectively), results favoured the indinavir combination, particularly in the subset of patients with high viral load (&gt;100,000 copies/ml at baseline; ITT, 46% versus 55%; AT, 84% versus 93% for abacavir and indinavir respectively).
+One randomised, double blind, placebo controlled clinical study in adults has compared the combination of abacavir, lamivudine and zidovudine to the combination of indinavir, lamivudine and zidovudine. Due to the high proportion of premature discontinuation (42% of patients discontinued randomised treatment by week 48), no definitive conclusion can be drawn regarding the equivalence between the treatment regimens at week 48. Although a similar antiviral effect was observed between the abacavir and indinavir containing regimens in terms of proportion of patients with undetectable viral load (  400 copies/ml; intention to treat analysis (ITT), 47% versus 49%; as treated analysis (AT), 86% versus 94% for abacavir and indinavir combinations respectively), results favoured the indinavir combination, particularly in the subset of patients with high viral load (&gt;100,000 copies/ml at baseline; ITT, 46% versus 55%; AT, 84% versus 93% for abacavir and indinavir respectively).
 
 In a multicentre, double-blind, controlled study (CNA30024), 654 HIV-infected, antiretroviral therapy-naïve patients were randomised to receive either abacavir 300 mg twice daily or zidovudine 300 mg twice daily, both in combination with lamivudine 150 mg twice daily and efavirenz 600 mg
 
 <div style=\"page-break-after: always\"></div>
 
-once daily. The duration of double-blind treatment was at least 48 weeks. In the intent-to-treat (ITT) population, 70% of patients in the abacavir group, compared to 69% of patients in the zidovudine group, achieved a virologic response of plasma HIV-1 RNA ≤ 50 copies/ml by Week 48 (point estimate for treatment difference: 0.8, 95% CI -6.3, 7.9). In the as treated (AT) analysis the difference between both treatment arms was more noticeable (88% of patients in the abacavir group, compared to 95% of patients in the zidovudine group (point estimate for treatment difference: -6.8, 95% CI 11.8; -1.7). However, both analyses were compatible with a conclusion of non-inferiority between both treatment arms.
+once daily. The duration of double-blind treatment was at least 48 weeks. In the intent-to-treat (ITT) population, 70% of patients in the abacavir group, compared to 69% of patients in the zidovudine group, achieved a virologic response of plasma HIV-1 RNA  50 copies/ml by Week 48 (point estimate for treatment difference: 0.8, 95% CI -6.3, 7.9). In the as treated (AT) analysis the difference between both treatment arms was more noticeable (88% of patients in the abacavir group, compared to 95% of patients in the zidovudine group (point estimate for treatment difference: -6.8, 95% CI 11.8; -1.7). However, both analyses were compatible with a conclusion of non-inferiority between both treatment arms.
 
 ACTG5095 was a randomised (1:1:1), double-blind, placebo-controlled trial performed in 1147 antiretroviral naïve HIV-1 infected adults, comparing 3 regimens: zidovudine (ZDV), lamivudine (3TC), abacavir (ABC), efavirenz (EFV) vs ZDV/3TC/EFV vs ZDV/3TC/ABC. After a median follow-up of 32 weeks, the tritherapy with the three nucleosides ZDV/3TC/ABC was shown to be virologically inferior to the two other arms regardless of baseline viral load (&lt; or &gt; 100 000 copies/ml) with 26% of subjects on the ZDV/3TC/ABC arm, 16% on the ZDV/3TC/EFV arm and 13% on the 4 drug arm categorised as having virological failure (HIV RNA &gt;200 copies/ml). At week 48 the proportion of subjects with HIV RNA &lt;50 copies/ml were 63%, 80% and 86% for the ZDV/3TC/ABC, ZDV/3TC/EFV and ZDV/3TC/ABC/EFV arms, respectively. The study Data Safety Monitoring Board stopped the ZDV/3TC/ABC arm at this time based on the higher proportion of patients with virologic failure. The remaining arms were continued in a blinded fashion. After a median follow-up of 144 weeks, 25% of subjects on the ZDV/3TC/ABC/EFV arm and 26% on the ZDV/3TC/EFV arm were categorised as having virological failure. There was no significant difference in the time to first virologic failure (p=0.73, log-rank test) between the 2 arms. In this study, addition of ABC to ZDV/3TC/EFV did not significantly improve efficacy.
 
@@ -1031,13 +1039,13 @@ The once daily regimen of abacavir is supported by a 48 weeks multi-centre, doub
 
 <div style=\"page-break-after: always\"></div>
 
-There was a low, similar overall incidence of virologic failure (viral load &gt;50 copies/ml) in both the once and twice daily treatment groups (10% and 8% respectively). In the small sample size for genotypic analysis, there was a trend toward a higher rate of NRTI-associated mutations in the once daily versus the twice daily abacavir regimens. No firm conclusion could be drawn due to the limited data derived from this study.  Long term data with abacavir used as a once daily regimen (beyond 48 weeks) are currently limited.
+There was a low, similar overall incidence of virologic failure (viral load &gt;50 copies/ml) in both the once and twice daily treatment groups (10% and 8% respectively). In the small sample size for genotypic analysis, there was a trend toward a higher rate of NRTI-associated mutations in the once daily versus the twice daily abacavir regimens. No firm conclusion could be drawn due to the limited data derived from this study. Long term data with abacavir used as a once daily regimen (beyond 48 weeks) are currently limited.
 
 ## · Therapy experienced adults
 
-In study CAL30001, 182 treatment-experienced patients with virologic failure were randomised  and received treatment with either the fixed-dose combination of abacavir/lamivudine (FDC) once daily or abacavir 300 mg twice daily plus lamivudine 300 mg once daily, both in combination with tenofovir and a PI or an NNRTI for 48 weeks. Results indicate that the FDC group was non-inferior to the abacavir twice daily group, based on similar reductions in HIV-1 RNA as measured by average area under the curve minus baseline (AAUCMB, -1.65 log10 copies/ml versus -1.83 log10 copies/ml respectively, 95% CI -0.13, 0.38). Proportions with HIV-1 RNA &lt; 50 copies/ml (50% versus 47%) and &lt; 400 copies/ml (54% versus 57%) were also similar in each group (ITT population). However, as there were only moderately experienced patients included in this study with an imbalance in baseline viral load between the arms, these results should be interpreted with caution.
+In study CAL30001, 182 treatment-experienced patients with virologic failure were randomised and received treatment with either the fixed-dose combination of abacavir/lamivudine (FDC) once daily or abacavir 300 mg twice daily plus lamivudine 300 mg once daily, both in combination with tenofovir and a PI or an NNRTI for 48 weeks. Results indicate that the FDC group was non-inferior to the abacavir twice daily group, based on similar reductions in HIV-1 RNA as measured by average area under the curve minus baseline (AAUCMB, -1.65 log10 copies/ml versus -1.83 log10 copies/ml respectively, 95% CI -0.13, 0.38). Proportions with HIV-1 RNA &lt; 50 copies/ml (50% versus 47%) and &lt; 400 copies/ml (54% versus 57%) were also similar in each group (ITT population). However, as there were only moderately experienced patients included in this study with an imbalance in baseline viral load between the arms, these results should be interpreted with caution.
 
-In study ESS30008, 260 patients with virologic suppression on a first line therapy regimen containing abacavir 300 mg plus lamivudine 150 mg, both given twice daily and a PI or NNRTI, were randomised to continue this regimen or switch to abacavir/lamivudine FDC plus a PI or NNRTI for 48 weeks. Results indicate that the FDC group was associated with a similar virologic outcome (noninferior) compared to the abacavir plus lamivudine group, based on proportions of subjects with HIV1 RNA &lt; 50 copies/ml (90% and 85% respectively, 95% CI  -2.7, 13.5).
+In study ESS30008, 260 patients with virologic suppression on a first line therapy regimen containing abacavir 300 mg plus lamivudine 150 mg, both given twice daily and a PI or NNRTI, were randomised to continue this regimen or switch to abacavir/lamivudine FDC plus a PI or NNRTI for 48 weeks. Results indicate that the FDC group was associated with a similar virologic outcome (noninferior) compared to the abacavir plus lamivudine group, based on proportions of subjects with HIV1 RNA &lt; 50 copies/ml (90% and 85% respectively, 95% CI -2.7, 13.5).
 
 ## Additional information:
 
@@ -1049,27 +1057,25 @@ Abacavir penetrates the cerebrospinal fluid (CSF) (see section 5.2), and has bee
 
 A randomised comparison of a regimen including once daily vs twice daily dosing of abacavir and lamivudine was undertaken within a randomised, multicentre, controlled study of HIV-infected, paediatric patients. 1206 paediatric patients aged 3 months to 17 years enrolled in the ARROW Trial (COL105677) and were dosed according to the weight - band dosing recommendations in the World Health Organisation treatment guidelines (Antiretroviral therapy of HIV infection in infants and children, 2006). After 36 weeks on a regimen including twice daily abacavir and lamivudine, 669 eligible subjects were randomised to either continue twice daily dosing or switch to once daily abacavir and lamivudine for at least 96 weeks. Of note, from this study clinical data were not available for children under one year old. The results are summarised in the table below:
 
-## Virological Response Based on Plasma HIV-1 RNA less than 80 copies/ml at Week 48 and Week 96 in the Once Daily versus Twice Daily abacavir + lamivudine randomisation of ARROW (Observed Analysis)
-
-|                                        | Twice Daily N (%)                      | Once Daily N (%)                       |
-|----------------------------------------|----------------------------------------|----------------------------------------|
-| W eek 0 (After ≥36 Weeks on Treatment) | W eek 0 (After ≥36 Weeks on Treatment) | W eek 0 (After ≥36 Weeks on Treatment) |
-| Plasma HIV-1 RNA <80 c/ml              | 250/331 (76)                           | 237/335 (71)                           |
-
 <div style=\"page-break-after: always\"></div>
 
-| Risk difference (once daily-twice daily)   | -4.8% (95% CI -11.5% to +1.9%), p=0.16   | -4.8% (95% CI -11.5% to +1.9%), p=0.16   |
-|--------------------------------------------|------------------------------------------|------------------------------------------|
-| Week 48                                    | Week 48                                  | Week 48                                  |
-| Plasma HIV-1 RNA <80 c/ml                  | 242/331 (73)                             | 236/330 (72)                             |
-| Risk difference (once daily-twice daily)   | -1.6% (95% CI -8.4% to +5.2%), p=0.65    | -1.6% (95% CI -8.4% to +5.2%), p=0.65    |
-| Week 96                                    | Week 96                                  | Week 96                                  |
-| Plasma HIV-1 RNA <80 c/ml                  | 234/326 (72)                             | 230/331 (69)                             |
-| Risk difference (once daily-twice daily)   | -2.3% (95% CI -9.3% to +4.7%), p=0.52    | -2.3% (95% CI -9.3% to +4.7%), p=0.52    |
+## Virological Response Based on Plasma HIV-1 RNA less than 80 copies/ml at Week 48 and Week 96 in the Once Daily versus Twice Daily abacavir + lamivudine randomisation of ARROW (Observed Analysis)
 
-The abacavir + lamivudine once daily dosing group was demonstrated to be non-inferior to the twice daily group according to the pre-specified non-inferiority margin of -12%, for the primary endpoint of &lt;80 c/mlat Week 48 as well as at Week 96 (secondary endpoint) and all other thresholds tested (&lt;200c/ml, &lt;400c/ml, &lt;1000c/ml), which all fell well within this non-inferiority margin. Subgroup analyses testing for heterogeneity of once vs twice daily demonstrated no significant effect of sex, age, or viral load at randomisation. Conclusions supported non-inferiority regardless of analysis method.
+|                                          | Twice Daily N (%)                      | Once Daily N (%)                       |
+|------------------------------------------|----------------------------------------|----------------------------------------|
+| W eek 0 (After ≥36 Weeks on Treatment)   | W eek 0 (After ≥36 Weeks on Treatment) | W eek 0 (After ≥36 Weeks on Treatment) |
+| Plasma HIV-1 RNA <80 c/ml                | 250/331 (76)                           | 237/335 (71)                           |
+| Risk difference (once daily-twice daily) | -4.8% (95% CI -11.5% to +1.9%), p=0.16 | -4.8% (95% CI -11.5% to +1.9%), p=0.16 |
+| Week 48                                  | Week 48                                | Week 48                                |
+| Plasma HIV-1 RNA <80 c/ml                | 242/331 (73)                           | 236/330 (72)                           |
+| Risk difference (once daily-twice daily) | -1.6% (95% CI -8.4% to +5.2%), p=0.65  | -1.6% (95% CI -8.4% to +5.2%), p=0.65  |
+| Week 96                                  | Week 96                                | Week 96                                |
+| Plasma HIV-1 RNA <80 c/ml                | 234/326 (72)                           | 230/331 (69)                           |
+| Risk difference (once daily-twice daily) | -2.3% (95% CI -9.3% to +4.7%), p=0.52  | -2.3% (95% CI -9.3% to +4.7%), p=0.52  |
 
-In a separate study comparing the unblinded NRTI combinations (with or without blinded nelfinavir) in children, a greater proportion treated with abacavir and lamivudine (71%) or abacavir and zidovudine (60%) had HIV-1 RNA ≤ 400 copies/ml at 48 weeks, compared with those treated with lamivudine and zidovudine (47%)[ p=0.09, intention to treat analysis]. Similarly, greater proportions of children treated with the abacavir containing combinations had HIV-1 RNA ≤ 50 copies/ml at 48 weeks (53%, 42% and 28% respectively, p=0.07).
+The abacavir + lamivudine once daily dosing group was demonstrated to be non-inferior to the twice daily group according to the pre-specified non-inferiority margin of -12%, for the primary endpoint of &lt;80 c/ml at Week 48 as well as at Week 96 (secondary endpoint) and all other thresholds tested (&lt;200 c/ml, &lt;400 c/ml, &lt;1000 c/ml), which all fell well within this non-inferiority margin. Subgroup analyses testing for heterogeneity of once vs twice daily demonstrated no significant effect of sex, age, or viral load at randomisation. Conclusions supported non-inferiority regardless of analysis method.
+
+In a separate study comparing the unblinded NRTI combinations (with or without blinded nelfinavir) in children, a greater proportion treated with abacavir and lamivudine (71%) or abacavir and zidovudine (60%) had HIV-1 RNA  400 copies/ml at 48 weeks, compared with those treated with lamivudine and zidovudine (47%) [ p=0.09, intention to treat analysis]. Similarly, greater proportions of children treated with the abacavir containing combinations had HIV-1 RNA  50 copies/ml at 48 weeks (53%, 42% and 28% respectively, p=0.07).
 
 In a pharmacokinetic study (PENTA 15), four virologically controlled subjects less than 12 months of age switched from abacavir plus lamivudine oral solution twice daily to a once daily regimen. Three subjects had undetectable viral load and one had plasmatic HIV-RNA of 900 copies/ml at Week 48. No safety concerns were observed in these subjects.
 
@@ -1079,13 +1085,15 @@ In a pharmacokinetic study (PENTA 15), four virologically controlled subjects le
 
 Abacavir is rapidly and well absorbed following oral administration. The absolute bioavailability of oral abacavir in adults is about 83%. Following oral administration, the mean time (tmax) to maximal serum concentrations of abacavir is about 1.5 hours for the tablet formulation and about 1.0 hour for the solution formulation.
 
-There are no differences observed between the AUC for the tablet or solution. At therapeutic dosages a dosage of 300 mg twice daily, the mean (CV) steady state Cmax and Cmin of abacavir are approximately 3.00 µ g/ml (30%) and 0.01 µg/ml(99%), respectively. The mean (CV) AUC over a dosing interval of 12 hours was 6.02 µ g.h/ml (29%), equivalent to a daily AUC of approximately 12.0 µ g.h/ml. The Cmax value for the oral solution is slightly higher than the tablet.  After a 600 mg abacavir tablet dose, the mean (CV) abacavir Cmax was approximately 4.26 µ g/ml (28%) and the mean (CV) AUC ∞ was 11.95 µ g.h/ml (21%).
+There are no differences observed between the AUC for the tablet or solution. At therapeutic dosages a dosage of 300 mg twice daily, the mean (CV) steady state Cmax and Cmin of abacavir are approximately 3.00  g/ml (30%) and 0.01 µg/ml (99%), respectively. The mean (CV) AUC over a dosing interval of 12 hours was 6.02  g.h/ml (29%), equivalent to a daily AUC of approximately
+
+<div style=\"page-break-after: always\"></div>
+
+12.0  g.h/ml. The Cmax value for the oral solution is slightly higher than the tablet. After a 600 mg abacavir tablet dose, the mean (CV) abacavir Cmax was approximately 4.26  g/ml (28%) and the mean (CV) AUC  was 11.95  g.h/ml (21%).
 
 Food delayed absorption and decreased Cmax but did not affect overall plasma concentrations (AUC). Therefore Ziagen can be taken with or without food.
 
 ## Distribution
-
-<div style=\"page-break-after: always\"></div>
 
 Following intravenous administration, the apparent volume of distribution was about 0.8 l/kg, indicating that abacavir penetrates freely into body tissues.
 
@@ -1095,7 +1103,7 @@ Plasma protein binding studies in vitro indicate that abacavir binds only low to
 
 ## Biotransformation
 
-Abacavir is primarily metabolised by the liver with approximately 2% of the administered dose being renally excreted, as unchanged compound. The primary pathways of metabolism in man are by alcohol dehydrogenase and by glucuronidation to produce the 5'-carboxylic acid and 5'-glucuronide which account for about 66% of the administered dose. The metabolites are excreted in the urine.
+Abacavir is primarily metabolised by the liver with approximately 2% of the administered dose being renally excreted, as unchanged compound. The primary pathways of metabolism in man are by alcohol dehydrogenase and by glucuronidation to produce the 5' -carb oxylic acid and 5' -glucuronide which account for about 66% of the administered dose. The metabolites are excreted in the urine.
 
 ## Elimination
 
@@ -1103,23 +1111,21 @@ The mean half-life of abacavir is about 1.5 hours. Following multiple oral doses
 
 ## Intracellular pharmacokinetics
 
-In a study of 20 HIV-infected patients receiving abacavir 300 mg twice daily, with only one 300 mg dose taken prior to the 24 hour sampling period, the geometric mean terminal carbovir-TP intracellular half-life at steady-state was 20.6 hours, compared to the geometric mean abacavir plasma half-life in this study of 2.6 hours.  In a crossover study in 27 HIV-infected patients, intracellular carbovir-TP exposures were higher for the abacavir 600 mg once daily regimen (AUC24,ss + 32 %, Cmax24,ss + 99 % and Ctrough + 18 %) compared to the 300 mg twice daily regimen.  Overall, these data support the use of abacavir 600 mg once daily for the treatment of HIV infected patients. Additionally, the efficacy and safety of abacavir given once daily has been demonstrated in a pivotal clinical study (CNA30021See section 5.1 Clinical experience).
+In a study of 20 HIV-infected patients receiving abacavir 300 mg twice daily, with only one 300 mg dose taken prior to the 24 hour sampling period, the geometric mean terminal carbovir-TP intracellular half-life at steady-state was 20.6 hours, compared to the geometric mean abacavir plasma half-life in this study of 2.6 hours. In a crossover study in 27 HIV-infected patients, intracellular carbovir-TP exposures were higher for the abacavir 600 mg once daily regimen (AUC24,ss + 32 %, Cmax24,ss + 99 % and Ctrough + 18 %) compared to the 300 mg twice daily regimen. Overall, these data support the use of abacavir 600 mg once daily for the treatment of HIV infected patients. Additionally, the efficacy and safety of abacavir given once daily has been demonstrated in a pivotal clinical study (CNA30021- See section 5.1 Clinical experience).
 
 ## Special patient populations
 
 ## Hepatic impairment
 
-Abacavir is metabolised primarily by the liver. The pharmacokinetics of abacavir have been studied in patients with mild hepatic impairment (Child-Pugh score 5-6) receiving a single 600 mg dose; the median (range) AUC values was 24.1 (10.4 to 54.8) ug.h/ml. The results showed that there was a mean (90%CI)   increase of 1.89 fold [1.32; 2.70] in the abacavir AUC, and 1.58 [1.22; 2.04] fold in the elimination half-life.  No definitive recommendation on dosage reduction is possible in patients with mild hepatic impairment due to the substantial variability of abacavir exposure.
-
-Abacavir is not recommended in patients with moderate or severe hepatic impairment.
-
-## Renal impairment
-
-Abacavir is primarily metabolised by the liver with approximately 2% of abacavir excreted unchanged in the urine. The pharmacokinetics of abacavir in patients with end-stage renal disease is similar to patients with normal renal function. Therefore no dosage reduction is required in patients with renal
+Abacavir is metabolised primarily by the liver. The pharmacokinetics of abacavir have been studied in patients with mild hepatic impairment (Child-Pugh score 5-6) receiving a single 600 mg dose; the median (range) AUC values was 24.1 (10.4 to 54.8) ug.h/ml. The results showed that there was a mean (90%CI) increase of 1.89 fold [1.32; 2.70] in the abacavir AUC, and 1.58 [1.22; 2.04] fold in the
 
 <div style=\"page-break-after: always\"></div>
 
-impairment. Based on limited experience Ziagen should be avoided in patients with end-stage renal disease.
+elimination half-life.  No definitive recommendation on dosage reduction is possible in patients with mild hepatic impairment due to the substantial variability of abacavir exposure. Abacavir is not recommended in patients with moderate or severe hepatic impairment.
+
+## Renal impairment
+
+Abacavir is primarily metabolised by the liver with approximately 2% of abacavir excreted unchanged in the urine. The pharmacokinetics of abacavir in patients with end-stage renal disease is similar to patients with normal renal function. Therefore no dosage reduction is required in patients with renal impairment. Based on limited experience Ziagen should be avoided in patients with end-stage renal disease.
 
 ## Paediatric population
 
@@ -1139,15 +1145,15 @@ Pharmacokinetic  data  were  derived  from  3  pharmacokinetic  studies  (PENTA 
 
 In PENTA 15 study, the geometric mean plasma abacavir AUC(0-24) (95% CI) of the four subjects under 12 months of age who switch from a twice daily to a once daily regimen (see section 5.1) are 15.9 (8.86, 28.5) µg.h/ml in the once-daily dosing and 12.7 (6.52, 24.6) µg.h/ml in the twice-daily dosing.
 
-Elderly
+## Elderly
 
 The pharmacokinetics of abacavir has not been studied in patients over 65 years of age.
+
+<div style=\"page-break-after: always\"></div>
 
 ## 5.3 Preclinical safety data
 
 Abacavir was not mutagenic in bacterial tests but showed activity in vitro in the human lymphocyte chromosome aberration assay, the mouse lymphoma assay, and the in vivo micronucleus test. This is consistent with the known activity of other nucleoside analogues. These results indicate that abacavir has a weak potential to cause chromosomal damage both in vitro and in vivo at high test concentrations.
-
-<div style=\"page-break-after: always\"></div>
 
 Carcinogenicity studies with orally administered abacavir in mice and rats showed an increase in the incidence of malignant and non-malignant tumours. Malignant tumours occurred in the preputial gland of males and the clitoral gland of females of both species, and in rats in the thyroid gland of males and the liver, urinary bladder, lymph nodes and the subcutis of females.
 
@@ -1171,17 +1177,17 @@ Sorbitol 70% (E420) Saccharin sodium Sodium citrate Citric acid anhydrous Methyl
 
 Not applicable
 
+<div style=\"page-break-after: always\"></div>
+
 ## 6.3 Shelf-life
 
 2 years
 
 After first opening the container: 2 months
 
-<div style=\"page-break-after: always\"></div>
-
 ## 6.4 Special precautions for storage
 
-Do not store above 25 ° C.
+Do not store above 25  C.
 
 ## 6.5 Nature and contents of container
 
@@ -1197,9 +1203,7 @@ Any unused product or waste material should be disposed of in accordance with lo
 
 ## 7. MARKETING AUTHORISATION HOLDER
 
-ViiV Healthcare BV Van Asch van Wijckstraat 55H 3811 LP Amersfoort
-
-Netherlands
+ViiV Healthcare BV Van Asch van Wijckstraat 55H 3811 LP Amersfoort Netherlands
 
 ## 8. MARKETING AUTHORISATION NUMBER(S)
 
@@ -1269,6 +1273,14 @@ If the date of the submission of a PSUR and the update of a RMP coincide, they c
 
 <div style=\"page-break-after: always\"></div>
 
+## · Additional risk minimisation measures
+
+## Abacavir Hypersensitivity
+
+An 'Alert' card is included in every pack of an ABC containing product, which patients should carry with them at all times. This describes the symptoms of the allergic reaction and warns patients that these reactions can be life-threatening if treatment with an ABC containing product is continued. The alert card also warns the patient that if treatment with an ABC containing product is discontinued due to these type of reactions, then the patient must never take an ABC containing product or any other medicine containing ABC again as it could result in a life-threatening lowering of blood pressure or death.
+
+<div style=\"page-break-after: always\"></div>
+
 ## ANNEX III
 
 ## LABELLING AND PACKAGE LEAFLET
@@ -1276,6 +1288,8 @@ If the date of the submission of a PSUR and the update of a RMP coincide, they c
 <div style=\"page-break-after: always\"></div>
 
 ## A. LABELLING
+
+<div style=\"page-break-after: always\"></div>
 
 ## PARTICULARS TO APPEAR ON THE OUTER PACKAGING
 
@@ -1319,9 +1333,7 @@ EXP {MM/YYYY}
 
 ## 9. SPECIAL STORAGE CONDITIONS
 
-<div style=\"page-break-after: always\"></div>
-
-Do not store above 30 ° C
+Do not store above 30  C
 
 <div style=\"page-break-after: always\"></div>
 
@@ -1343,30 +1355,31 @@ Lot
 
 Medicinal product subject to medical prescription
 
-15. INSTRUCTIONS ON USE
-16. INFORMATION IN BRAILLE
+## 15. INSTRUCTIONS ON USE
+
+## 16. INFORMATION IN BRAILLE
 
 ziagen 300 mg
 
-## 17. UNIQUE IDENTIFIER - 2D BARCODE
+## 17. UNIQUE IDENTIFIER -2D BARCODE
 
 2D barcode carrying the unique identifier included.
 
-## 18. UNIQUE IDENTIFIER - HUMAN READABLE DATA
+## 18. UNIQUE IDENTIFIER -HUMAN READABLE DATA
 
 <!-- image -->
 
 <div style=\"page-break-after: always\"></div>
 
-| MINIMUM PARTICULARS TO APPEAR ONBLISTERS ORSTRIPS   |
-|-----------------------------------------------------|
-| TABLET BLISTER FOIL TEXT                            |
+| MINIMUM PARTICULARS TO APPEAR ONBLISTERS OR STRIPS   |
+|------------------------------------------------------|
+| TABLET BLISTER FOIL TEXT                             |
 
 | 1.   | NAMEOFTHEMEDICINAL PRODUCT   |
 |------|------------------------------|
 
-| 2.   | NAMEOFTHEMARKETING AUTHORISATION HOLDER   |
-|------|-------------------------------------------|
+| 2.   | NAMEOFTHEMARKETINGAUTHORISATION HOLDER   |
+|------|------------------------------------------|
 
 | 3.   | EXPIRY DATE   |
 |------|---------------|
@@ -1377,15 +1390,17 @@ ziagen 300 mg
 | 5. OTHER   |
 |------------|
 
+## MINIMUM PARTICULARS TO APPEAR ON BLISTERS OR STRIPS
+
+## TABLET BLISTER FOIL TEXT
+
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
 Ziagen 300 mg tablets.
 
 abacavir
 
-2.
-
-NAME OF THE MARKETING AUTHORISATION HOLDER
+## 2. NAME OF THE MARKETING AUTHORISATION HOLDER
 
 ViiV Healthcare BV
 
@@ -1401,7 +1416,7 @@ BATCH NUMBER
 
 Lot
 
-5. OTHER
+## 5. OTHER
 
 <div style=\"page-break-after: always\"></div>
 
@@ -1472,7 +1487,7 @@ Keep out of the sight and reach of children
 
 ## 7. OTHER SPECIAL WARNING(S), IF NECESSARY
 
-Detach enclosed Alert Card, it contains important safety information
+## Detach enclosed Alert Card, it contains important safety information
 
 WARNING! In case of any symptoms suggesting hypersensitivity reactions, contact your doctor IMMEDIATELY.
 
@@ -1484,7 +1499,7 @@ EXP {MM/YYYY}
 
 ## 9. SPECIAL STORAGE CONDITIONS
 
-Do not store above 25 ° C
+Do not store above 25  C
 
 Discard two months after first opening
 
@@ -1518,9 +1533,7 @@ ziagen 20 mg/ml
 
 ## 18. UNIQUE IDENTIFIER - HUMAN READABLE DATA
 
-PC:
-
-SN:
+PC: SN: NN
 
 ## 10.     SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
 
@@ -1568,7 +1581,7 @@ EXP {MM/YYYY}
 
 ## 9. SPECIAL STORAGE CONDITIONS
 
-Do not store above 25 ° C
+Do not store above 25  C
 
 Discard two months after first opening
 
@@ -1594,8 +1607,8 @@ Medicinal product subject to medical prescription
 
 15. INSTRUCTIONS ON USE
 16.     INFORMATION IN BRAILLE
-17.     UNIQUE IDENTIFIER - 2D BARCODE
-18.     UNIQUE IDENTIFIER - HUMAN READABLE DATA
+17.     UNIQUE IDENTIFIER -2D BARCODE
+18.     UNIQUE IDENTIFIER -HUMAN READABLE DATA
 
 <div style=\"page-break-after: always\"></div>
 
@@ -1668,23 +1681,17 @@ The Ziagen pack includes an Alert Card , to remind you and medical staff about a
 
 ## Ziagen is used to treat HIV (human immunodeficiency virus) infection.
 
-Ziagen contains the active ingredient abacavir.  Abacavir belongs to a group of anti-retroviral medicines called nucleoside analogue reverse transcriptase inhibitors (NRTIs) .
+Ziagen contains the active ingredient abacavir. Abacavir belongs to a group of anti-retroviral medicines called nucleoside analogue reverse transcriptase inhibitors (NRTIs) .
 
 Ziagen does not completely cure HIV infection; it reduces the amount of virus in your body, and keeps it at a low level. It also increases the CD4 cell count in your blood. CD4 cells are a type of white blood cell that are important in helping your body to fight infection.
 
 Not everyone responds to treatment with Ziagen in the same way. Your doctor will monitor the effectiveness of your treatment.
 
-## 2. What you need to know before you take Ziagen
-
 <div style=\"page-break-after: always\"></div>
 
-## Do not take Ziagen:
+## 2. What you need to know before you take Ziagen
 
-if you are allergic (hypersensitive) to abacavir (or any other medicine containing abacavir -such as Trizivir , Triumeq or Kivexa ) or any of the other ingredients of this medicine (listed in Section 6)
-
-Carefully read all the information about hypersensitivity reactions in Section 4 .
-
-Check with your doctor if you think   this applies to you.
+Do not take Ziagen: if you are allergic (hypersensitive) to abacavir (or any other medicine containing abacavir -such as Trizivir , Triumeq or Kivexa ) or any of the other ingredients of this medicine (listed in Section 6) Carefully read all the information about hypersensitivity reactions in Section 4 . Check with your doctor if you think this applies to you.
 
 ## Take special care with Ziagen
 
@@ -1693,19 +1700,21 @@ Some people taking Ziagen for HIV are more at risk of serious side effects. You 
 - if you have moderate or severe liver disease
 - if you have ever had liver disease, including hepatitis B or C
 - if you are seriously overweight (especially if you are a woman)
-- if you have
+- if you have severe kidney disease
 
-severe kidney disease Talk to your doctor if any of these apply to you . You may need extra check-ups, including blood tests, while you are taking your medicine. See Section 4 for more information .
+Talk to your doctor if any of these apply to you . You may need extra check-ups, including blood tests, while you are taking your medicine. See Section 4 for more information .
 
 ## Abacavir hypersensitivity reactions
 
-Even patients who don't have the HLA-B*5701 gene may still develop a hypersensitivity reaction (a serious allergic reaction).
+Even patients who don't have the HLA -B*5701 gene may still develop a hypersensitivity reaction (a serious allergic reaction).
 
 ## Carefully read all the information about hypersensitivity reactions in Section 4 of this leaflet.
 
 ## Risk of cardiovascular events
 
-It cannot be excluded that abacavir may increase the risk of having cardiovascular events. Tell your doctor if you have cardiovascular problems, if you smoke, or have other illnesses that may increase your risk of cardiovascular diseases such as high blood pressure, or diabetes. Do not stop taking Ziagen unless your doctor advises you to do so.
+It cannot be excluded that abacavir may increase the risk of having cardiovascular events.
+
+Tell your doctor if you have cardiovascular problems, if you smoke, or have other illnesses that may increase your risk of cardiovascular diseases such as high blood pressure, or diabetes. Do not stop taking Ziagen unless your doctor advises you to do so.
 
 ## Look out for important symptoms
 
@@ -1721,12 +1730,11 @@ Tell your doctor or pharmacist if you are taking any other medicines , or if you
 
 These include:
 
-- phenytoin , for treating
+- phenytoin , for treating epilepsy
 
-Tell your doctor taking Ziagen.
+Tell your doctor if you are taking phenytoin. Your doctor may need to monitor you while you are taking Ziagen.
 
-- epilepsy if you are taking phenytoin. Your doctor may need to monitor you while you are
-- methadone used as a heroin substitute .  Abacavir increases the rate at which methadone is removed from the body. If you are taking methadone, you will be checked for any withdrawal symptoms. Your methadone dose may need to be changed. Tell your doctor if you are taking methadone.
+- methadone used as a heroin substitute . Abacavir increases the rate at which methadone is removed from the body. If you are taking methadone, you will be checked for any withdrawal symptoms. Your methadone dose may need to be changed. Tell your doctor if you are taking methadone.
 
 <div style=\"page-break-after: always\"></div>
 
@@ -1748,7 +1756,7 @@ Do not drive or operate machines unless you are feeling well.
 
 ## Important information about some of the other ingredients of Ziagen tablets.
 
-This medicine contains less than 1 mmol sodium (23 mg) per dosage unit, that is to say essentially 'sodium-free'.
+This medicine contains less than 1 mmol sodium (23 mg) per dosage unit, that is to say essentially 'sodium -free'.
 
 ## 3. How to take Ziagen
 
@@ -1766,19 +1774,19 @@ Keep in touch with your doctor, and do not stop taking Ziagen without your docto
 
 ## How much to take
 
-## Adults, adolescents and children weighing at least 25 kg
+Adults, adolescents and children weighing at least 25 kg
 
 The usual dose of Ziagen is 600 mg a day . This can be taken either as one 300 mg tablet twice a day or two 300 mg tablets once a day.
 
 ## Children from one year of age weighing less than 25 kg
 
-The dose given depends on the body weight of your child.  The recommended dose is:
+The dose given depends on the body weight of your child. The recommended dose is:
 
 - Children weighing at least 20 kg and less than 25 kg: The usual dose of Ziagen is 450 mg a day. This can be given as 150 mg (half of a tablet) taken in the morning and 300 mg (one whole tablet) taken in the evening, or 450 mg (one and a half tablets) once a day as advised by your doctor.
 
 <div style=\"page-break-after: always\"></div>
 
-- Children weighing at least 14 kg and less than 20 kg: The usual dose of Ziagen is 300 mg a day. This can be given as 150 mg (half of a  tablet) twice daily, or 300 mg (one whole tablet) once a day as advised by your doctor.
+- Children weighing at least 14 kg and less than 20 kg: The usual dose of Ziagen is 300 mg a day. This can be given as 150 mg (half of a tablet) twice daily, or 300 mg (one whole tablet) once a day as advised by your doctor.
 
 The tablet can be divided into equal doses.
 
@@ -1810,7 +1818,7 @@ Like all medicines, this medicine can cause side effects, although not everyone 
 
 When you are being treated for HIV, it can be hard to tell whether a symptom is a side effect of Ziagen or other medicines you are taking, or an effect of the HIV disease itself. So it is very important to talk to your doctor about any changes in your health .
 
-Even patients who don't have the HLA-B*5701 gene may still develop a hypersensitivity reaction (a serious allergic reaction), described in this leaflet in the panel headed 'Hypersensitivity reactions'.
+Even patients who don't have the HLA -B*5701 gene may still develop a hypersensitivity reaction (a serious allergic reaction), described in this leaflet in the panel headed ' Hypersensitivity reactions'.
 
 It is very important that you read and understand the information about this serious reaction .
 
@@ -1818,13 +1826,11 @@ It is very important that you read and understand the information about this ser
 
 It is important to read the information later in this section under 'Other possible side effects of combination therapy for HIV'.
 
-## Hypersensitivity reactions
-
-Ziagen contains abacavir (which is also an active substance in Trizivir , Triumeq and Kivexa ).
-
 <div style=\"page-break-after: always\"></div>
 
-Abacavir can cause a serious allergic reaction known as a hypersensitivity reaction. These hypersensitivity reactions have been seen more frequently in people taking medicines that contain abacavir.
+## Hypersensitivity reactions
+
+Ziagen contains abacavir (which is also an active substance in Trizivir , Triumeq and Kivexa ). Abacavir can cause a serious allergic reaction known as a hypersensitivity reaction. These hypersensitivity reactions have been seen more frequently in people taking medicines that contain abacavir.
 
 ## Who gets these reactions?
 
@@ -1909,8 +1915,8 @@ These may affect up to 1 in 1,000 people:
 
 These may affect up to 1 in 10,000 people:
 
-- skin rash, which may form blisters and  looks like small targets (central dark spots surrounded by a paler area, with a dark ring around the edge) (erythema multiforme)
-- a widespread rash with blisters and peeling skin, particularly around the mouth, nose, eyes and genitals (Stevens-Johnson syndrome) , and a more severe form causing skin peeling in more than 30% of the body surface (toxic epidermal necrolysis)
+- skin rash, which may form blisters and looks like small targets (central dark spots surrounded by a paler area, with a dark ring around the edge) (erythema multiforme)
+- a widespread rash with blisters and peeling skin, particularly around the mouth, nose, eyes and genitals (Stevens -Johnson syndrome) , and a more severe form causing skin peeling in more than 30% of the body surface (toxic epidermal necrolysis)
 - lactic acidosis (excess lactic acid in the blood)
 
 ## If you notice any of these symptoms contact a doctor urgently .
@@ -1935,7 +1941,7 @@ People with advanced HIV infection (AIDS) have weak immune systems, and are more
 - stomach ache
 - difficulty breathing
 
-In rare cases, as the immune system becomes stronger, it can also attack healthy body tissue ( autoimmune disorders ).  The symptoms of autoimmune disorders may develop many months after you start taking medicine to treat your HIV infection. Symptoms may include:
+In rare cases, as the immune system becomes stronger, it can also attack healthy body tissue ( autoimmune disorders ). The symptoms of autoimmune disorders may develop many months after you start taking medicine to treat your HIV infection. Symptoms may include:
 
 - palpitations (rapid or irregular heartbeat) or tremor
 - hyperactivity (excessive restlessness and movement)
@@ -1975,7 +1981,7 @@ Keep this medicine out of the sight and reach of children.
 
 Do not take this medicine after the expiry date which is stated on the carton. The expiry date refers to the last day of that month.
 
-Do not store above 30 ° C.
+Do not store above 30  C.
 
 <div style=\"page-break-after: always\"></div>
 
@@ -1991,7 +1997,7 @@ The other ingredients are microcrystalline cellulose, sodium starch glycollate, 
 
 ## What Ziagen looks like and contents of the pack
 
-Ziagen film-coated tablets are engraved with 'GX 623' on both sides. The scored tablets are yellow and capsule-shaped and are provided in blister packs containing 60 tablets.
+Ziagen filmcoated tablets are engraved with 'GX 623' on both sides. The scored tablets are yellow and capsule-shaped and are provided in blister packs containing 60 tablets.
 
 ## Marketing Authorisation Holder:
 
@@ -2019,22 +2025,6 @@ Te л.
 
 ## Česká republika
 
-GlaxoSmithKline s.r.o.
-
-Tel: + 420 222 001 111
-
-cz.info@gsk.com
-
-## Danmark
-
-GlaxoSmithKline Pharma A/S
-
-Tlf: + 45 36 35 91 00
-
-dk-info@gsk.com
-
-## Deutschland
-
 ## Lietuva
 
 ViiV Healthcare BV
@@ -2047,15 +2037,27 @@ ViiV Healthcare srl/bv Belgique/Belgien Tél/Tel: + 32 (0) 10 85 65 00
 
 ## Magyarország
 
+GlaxoSmithKline s.r.o. Tel: + 420 222 001 111 cz.info@gsk.com
+
 ViiV Healthcare BV
 
 Tel.: + 36 80088309
 
+## Danmark
+
 ## Malta
+
+GlaxoSmithKline Pharma A/S
+
+Tlf: + 45 36 35 91 00
+
+dk-info@gsk.com
 
 ViiV Healthcare BV
 
 Tel: + 356 80065004
+
+## Deutschland
 
 ## Nederland
 
@@ -2071,17 +2073,15 @@ Tel: + 31 (0) 33 2081199
 
 ## Eesti
 
+## Norge
+
 ViiV Healthcare BV
 
 Tel: + 372 8002640
 
-## Norge
-
 GlaxoSmithKline AS
 
 Tlf: + 47 22 70 20 00
-
-firmapost@gsk.no
 
 <div style=\"page-break-after: always\"></div>
 
@@ -2197,19 +2197,13 @@ Tel: + 46 (0)8 638 93 00
 
 info.produkt@gsk.com
 
-## United Kingdom (Northern Ireland)
-
-ViiV Healthcare BV
-
-Tel: + 44 (0)800 221441
-
-customercontactuk@gsk.com
-
 <div style=\"page-break-after: always\"></div>
 
 ## Package leaflet: Information for the user
 
-## Ziagen 20 mg/ml oral solution abacavir
+## Ziagen 20 mg/ml oral solution
+
+## abacavir
 
 ## Read all of this leaflet carefully before you start taking this medicine because it contains important information for you.
 
@@ -2239,21 +2233,25 @@ The Ziagen pack includes an Alert Card , to remind you and medical staff about a
 
 ## Ziagen is used to treat HIV (human immunodeficiency virus) infection .
 
-Ziagen contains the active ingredient abacavir.  Abacavir belongs to a group of anti-retroviral medicines called nucleoside analogue reverse transcriptase inhibitors (NRTIs) .
+Ziagen contains the active ingredient abacavir. Abacavir belongs to a group of anti-retroviral medicines called nucleoside analogue reverse transcriptase inhibitors (NRTIs) .
 
 Ziagen does not completely cure HIV infection; it reduces the amount of virus in your body, and keeps it at a low level. It also increases the CD4 cell count in your blood. CD4 cells are a type of white blood cell that are important in helping your body to fight infection.
 
 Not everyone responds to treatment with Ziagen in the same way. Your doctor will monitor the effectiveness of your treatment.
 
-## 2. What you need to know before you take Ziagen
-
 <div style=\"page-break-after: always\"></div>
+
+## 2. What you need to know before you take Ziagen
 
 ## Do not take Ziagen:
 
 - if you are allergic ( hypersensitive ) to abacavir (or any other medicine containing abacavir - such as Triumeq, Trizivir or Kivexa ) or any of the other ingredients of this medicine (listed in Section 6)
 
-Carefully read all the information about hypersensitivity reactions in Section 4 . Check with your doctor if you think   this applies to you.
+Carefully read all the information about hypersensitivity reactions in Section 4
+
+Check with your doctor
+
+. if you think this applies to you.
 
 ## Take special care with Ziagen
 
@@ -2268,7 +2266,7 @@ Talk to your doctor if any of these apply to you . You may need extra check-ups,
 
 Abacavir hypersensitivity reactions
 
-Even patients who don't have the HLA-B*5701 gene may still develop a hypersensitivity reaction (a serious allergic reaction).
+Even patients who don't have the HLA -B*5701 gene may still develop a hypersensitivity reaction (a serious allergic reaction).
 
 ## Carefully read all the information about hypersensitivity reactions in Section 4 of this leaflet.
 
@@ -2292,7 +2290,8 @@ Tell your doctor or pharmacist if you are taking any other medicines , or if you
 
 These include:
 
-- phenytoin , for treating epilepsy .
+- phenytoin , for treating epilepsy
+- .
 
 Tell your doctor if you are taking phenytoin. Your doctor may need to monitor you while you are taking Ziagen.
 
@@ -2300,9 +2299,9 @@ Tell your doctor if you are taking phenytoin. Your doctor may need to monitor yo
 
 Tell your doctor if you are taking methadone.
 
-- Riociguat, for treating high blood pressure in the blood vessels (the pulmonary arteries) that carry blood from the heart to the lungs. Your doctor may need to reduce your riociguat dose, as abacavir may increase riociguat blood levels.
-
 <div style=\"page-break-after: always\"></div>
+
+- Riociguat, for treating high blood pressure in the blood vessels (the pulmonary arteries) that carry blood from the heart to the lungs. Your doctor may need to reduce your riociguat dose, as abacavir may increase riociguat blood levels.
 
 ## Pregnancy
 
@@ -2320,11 +2319,11 @@ Do not drive or operate machines unless you are feeling well.
 
 ## Important information about some of the other ingredients of Ziagen oral solution
 
-This medicine contains the sweetener sorbitol (approximately 5g in each 15 ml dose), which may have a mild laxative effect. Do not take medicines containing sorbitol if you have hereditary fructose intolerance. The calorific value of sorbitol is 2.6 kcal/g.
+This medicine contains the sweetener sorbitol (approximately 5 g in each 15 ml dose), which may have a mild laxative effect. Do not take medicines containing sorbitol if you have hereditary fructose intolerance. The calorific value of sorbitol is 2.6 kcal/g.
 
 Ziagen also contains preservatives (parahydroxybenzoates) which may cause allergic reactions (possibly delayed).
 
-This medicine contains less than 1 mmol sodium (23 mg) per dosage unit, that is to say essentially 'sodium-free'.
+This medicine contains less than 1 mmol sodium (23 mg) per dosage unit, that is to say essentially 'sodium -free' .
 
 Ziagen oral solution contains 50 mg/ml of propylene glycol. When taken according to the dosage recommendations each 15 ml dose contains approximately 750 mg of propylene glycol.
 
@@ -2334,7 +2333,7 @@ Ziagen oral solution contains 50 mg/ml of propylene glycol. When taken according
 
 ## 3. How to take Ziagen
 
-Always take this medicine exactly as your doctor has told you. Check with your doctor or pharmacist if you are not sure.  Ziagen can be taken with or without food.
+Always take this medicine exactly as your doctor has told you. Check with your doctor or pharmacist if you are not sure. Ziagen can be taken with or without food.
 
 ## Stay in regular contact with your doctor
 
@@ -2352,11 +2351,11 @@ The usual dose of Ziagen is 600 mg (30 ml) a day. This can be taken either as 30
 
 ## Children from 3 months of age weighing less than 25 kg
 
-The dose depends on the child's body weight.  The recommended dose is 8 mg/kg twice a day or 16 mg/kg once a day, up to a maximum total daily dose of 600 mg daily.
+The dose depends on the child's body weight. The recommended dose is 8 mg/kg twice a day or 16 mg/kg once a day, up to a maximum total daily dose of 600 mg daily.
 
 ## How to measure the dose and take the medicine
 
-Use the oral dosing syringe supplied with the pack to measure your dose accurately.  When full, the syringe contains 10 ml of solution.
+Use the oral dosing syringe supplied with the pack to measure your dose accurately. When full, the syringe contains 10 ml of solution.
 
 1. Remove the plastic wrap from the syringe/adapter
 2. Remove the bottle cap. Keep it safely.
@@ -2368,8 +2367,8 @@ Use the oral dosing syringe supplied with the pack to measure your dose accurate
 8. Turn the bottle the right way up. Remove the syringe from the adapter
 9. Put the syringe into your mouth, placing the tip of the syringe against the inside of your cheek. Slowly push the plunger in, allowing time to swallow. Don't push too hard and squirt the liquid into the back of your throat, or you may choke
 10. Thoroughly clean the syringe each time it has been emptied
-11. Repeat steps 5 to 10 in the same way until you have taken your whole dose. For example, if your dose is 30 ml, y ou need to take 3 syringe-fulls of medicine
-12. After you have taken your complete dose, wash the syringe thoroughly in clean water.  Let it dry completely before you use it again
+11. Repeat steps 5 to 10 in the same way until you have taken your whole dose. For example, if your dose is 30 ml, you need to take 3 syringe-fulls of medicine
+12. After you have taken your complete dose, wash the syringe thoroughly in clean water. Let it dry completely before you use it again
 13. Close the bottle tightly with the cap, leaving the adapter in place
 
 ## If you take more Ziagen than you should
@@ -2400,7 +2399,7 @@ Like all medicines, this medicine can cause side effects, although not everyone 
 
 When you are being treated for HIV, it can be hard to tell whether a symptom is a side effect of Ziagen or other medicines you are taking, or an effect of the HIV disease itself. So it is very important to talk to your doctor about any changes in your health .
 
-Even patients who don't have the HLA-B*5701 gene may still develop a hypersensitivity reaction (a serious allergic reaction), described in this leaflet in the panel headed 'Hypersensitivity reactions'.
+Even patients who don't have the HLA -B*5701 gene may still develop a hypersensitivity reaction (a serious allergic reaction), described in this leaflet in the panel headed ' H ypersensitivity reactions'.
 
 ## It is very important that you read and understand the information about this serious reaction .
 
@@ -2410,7 +2409,11 @@ It is important to read the information later in this section under 'Other possi
 
 ## Hypersensitivity reactions
 
-Ziagen contains abacavir (which is also an active substance in Kivexa, Triumeq and Trizivir ). Abacavir can cause a serious allergic reaction known as a hypersensitivity reaction. These hypersensitivity reactions have been seen more frequently in people taking medicines that contain abacavir.
+Ziagen contains abacavir (which is also an active substance in Kivexa, Triumeq and Trizivir Abacavir can cause a serious allergic reaction known as a hypersensitivity reaction.
+
+).
+
+These hypersensitivity reactions have been seen more frequently in people taking medicines that contain abacavir.
 
 ## Who gets these reactions?
 
@@ -2434,9 +2437,9 @@ Other common symptoms are:
 
 Pains in the joints or muscles, swelling of the neck, shortness of breath, sore throat, cough, occasional headaches, inflammation of the eye (conjunctivitis), mouth ulcers, low blood pressure, tingling or numbness of the hands or feet.
 
-## When do these reactions happen?
-
 <div style=\"page-break-after: always\"></div>
+
+## When do these reactions happen?
 
 Hypersensitivity reactions can start at any time during treatment with Ziagen, but are more likely during the first 6 weeks of treatment.
 
@@ -2459,7 +2462,7 @@ If you have stopped taking Ziagen because of a hypersensitivity reaction, you mu
 
 If you have stopped taking Ziagen for any reason - especially because you think you are having side effects, or because you have other illness:
 
-Talk to your doctor before you start again . Your doctor will check whether your symptoms were related to a hypersensitivity reaction. If the doctor thinks they may have been, you will then be told never again to take Ziagen, or any other medicine containing abacavir (e.g. Trizivir , Triumeq or Kivexa) . It is important that you follow this advice.
+Talk to your doctor before you start again . Your doctor will check whether your symptoms were related to a hypersensitivity reaction. If the doctor thinks they may have been, you will then be told never again to take Ziagen, or any other medicine containing abacavir (e.g. Trizivir, Triumeq or Kivexa) . It is important that you follow this advice.
 
 Occasionally, hypersensitivity reactions have developed in people who start taking abacavir containing products again, but who had only one symptom on the Alert Card before they stopped taking it.
 
@@ -2483,9 +2486,10 @@ These may affect up to 1 in 10 people:
 - loss of appetite
 - tiredness, lack of energy
 - fever (high temperature)
-- skin rash
 
 <div style=\"page-break-after: always\"></div>
+
+- skin rash
 
 ## Rare side effects
 
@@ -2497,8 +2501,8 @@ These may affect up to 1 in 1,000 people:
 
 These may affect up to 1 in 10,000 people:
 
-- skin rash, which may form blisters and  looks like small targets (central dark spots surrounded by a paler area, with a dark ring around the edge) (erythema multiforme)
-- a widespread rash with blisters and peeling skin, particularly around the mouth, nose, eyes and genitals (Stevens-Johnson syndrome) , and a more severe form causing skin peeling in more than 30% of the body surface (toxic epidermal necrolysis) .
+- skin rash, which may form blisters and looks like small targets (central dark spots surrounded by a paler area, with a dark ring around the edge) (erythema multiforme)
+- a widespread rash with blisters and peeling skin, particularly around the mouth, nose, eyes and genitals (Stevens -Johnson syndrome) , and a more severe form causing skin peeling in more than 30% of the body surface (toxic epidermal necrolysis) .
 - lactic acidosis (excess lactic acid in the blood)
 
 ## If you notice any of these symptoms contact a doctor urgently .
@@ -2521,7 +2525,7 @@ People with advanced HIV infection (AIDS) have weak immune systems, and are more
 - stomach ache
 - difficulty breathing
 
-In rare cases, as the immune system becomes stronger, it can also attack healthy body tissue ( autoimmune disorders ).  The symptoms of autoimmune disorders may develop many months after you start taking medicine to treat your HIV infection. Symptoms may include:
+In rare cases, as the immune system becomes stronger, it can also attack healthy body tissue ( autoimmune disorders ). The symptoms of autoimmune disorders may develop many months after you start taking medicine to treat your HIV infection. Symptoms may include:
 
 - palpitations (rapid or irregular heartbeat) or tremor
 - hyperactivity (excessive restlessness and movement)
@@ -2529,7 +2533,7 @@ In rare cases, as the immune system becomes stronger, it can also attack healthy
 
 If you get any symptoms of infection while you are taking Ziagen:
 
-Tell your doctor immediately . Do not take other medicines for the infection without your doctor's advice.
+Tell your doctor immediately . Do no t take other medicines for the infection without your doctor's advice.
 
 ## You may have problems with your bones
 
@@ -2537,10 +2541,10 @@ Some people taking combination therapy for HIV develop a condition called osteon
 
 - if they have been taking combination therapy for a long time
 - if they are also taking anti-inflammatory medicines called corticosteroids
-- if they drink alcohol
 
 <div style=\"page-break-after: always\"></div>
 
+- if they drink alcohol
 - if their immune systems are very weak
 - if they are overweight
 
@@ -2564,7 +2568,7 @@ Keep this medicine out of the sight and reach of children.
 
 Do not take this medicine after the expiry date which is stated on the carton. The expiry date refers to the last day of that month.
 
-Do not store above 25 ° C.
+Do not store above 25  C.
 
 Discard oral solution two months after first opening.
 
@@ -2586,87 +2590,69 @@ Marketing Authorisation Holder: ViiV Healthcare BV, Van Asch van Wijckstraat 55H
 
 Manufacturer: ViiV Healthcare Trading Services UK Limited, 12 Riverwalk, Citywest Business Campus, Dublin 24, Ireland
 
-For any information about this medicine, please contact the local representative of the Marketing Authorisation Holder.
-
 <div style=\"page-break-after: always\"></div>
+
+For any information about this medicine, please contact the local representative of the Marketing Authorisation Holder.
 
 ## België/Belgique/Belgien
 
+## Lietuva
+
 ViiV Healthcare srl/bv Tél/Tel: + 32 (0) 10 85 65 00
+
+ViiV Healthcare BV Tel: + 370 80000334
 
 ## България
 
 ViiV Healthcare BV Te л. : + 359 80018205
 
+## Luxembourg/Luxemburg
+
+ViiV Healthcare srl/bv Belgique/Belgien Tél/Tel: + 32 (0) 10 85 65 00
+
 ## Česká republika
 
 GlaxoSmithKline s.r.o. Tel: + 420 222 001 111 cz.info@gsk.com
-
-## Danmark
-
-GlaxoSmithKline Pharma A/S Tlf: + 45 36 35 91 00 dk-info@gsk.com
-
-## Deutschland
-
-ViiV Healthcare GmbH Tel.: + 49 (0)89 203 0038-10 viiv.med.info@viivhealthcare.com
-
-## Eesti
-
-ViiV Healthcare BV Tel: + 372 8002640
-
-## Ελλάδα
-
-GlaxoSmithKline Μονοπρόσωπη A.E.B.E. Τηλ : + 30 210 68 82 100
-
-## España
-
-Laboratorios ViiV Healthcare, S.L. Tel: +34 900 923 501 es-ci@viivhealthcare.com
-
-## France
-
-ViiV Healthcare SAS Tél.: + 33 (0)1 39 17 6969
-
-Infomed@viivhealthcare.com
-
-## Hrvatska
-
-ViiV Healthcare BV Tel: + 385 800787089
-
-## Ireland
-
-GlaxoSmithKline (Ireland) Limited Tel: + 353 (0)1 4955000
-
-## Lietuva
-
-ViiV Healthcare BV Tel: + 370 80000334
-
-## Luxembourg/Luxemburg
-
-ViiV Healthcare srl/bv
-
-Belgique/Belgien Tél/Tel: + 32 (0) 10 85 65 00
 
 ## Magyarország
 
 ViiV Healthcare BV Tel.: + 36 80088309
 
+## Danmark
+
+GlaxoSmithKline Pharma A/S Tlf.: + 45 36 35 91 00 dk-info@gsk.com
+
 ## Malta
 
-ViiV Healthcare BV
+ViiV Healthcare BV Tel: + 356 80065004
 
-Tel: + 356 80065004
+## Deutschland
+
+ViiV Healthcare GmbH Tel.: + 49 (0)89 203 0038-10 viiv.med.info@viivhealthcare.com
 
 ## Nederland
 
 ViiV Healthcare BV Tel: + 31 (0) 33 2081199
 
+## Eesti
+
+ViiV Healthcare BV Tel: + 372 8002640
+
 ## Norge
 
-GlaxoSmithKline AS Tlf: + 47 22 70 20 00 firmapost@gsk.no
+GlaxoSmithKline AS Tlf: + 47 22 70 20 00
+
+## Ελλάδα
+
+GlaxoSmithKline Μονοπρόσωπη A.E.B.E. Τηλ : + 30 210 68 82 100
 
 ## Österreich
 
 GlaxoSmithKline Pharma GmbH Tel: + 43 (0)1 97075 0 at.info@gsk.com
+
+## España
+
+Laboratorios ViiV Healthcare, S.L. Tel: +34 900 923 501 es-ci@viivhealthcare.com
 
 ## Polska
 
@@ -2674,17 +2660,33 @@ GSK Services Sp. z o.o.
 
 Tel.: + 48 (0)22 576 9000
 
+## France
+
+ViiV Healthcare SAS Tél.: + 33 (0)1 39 17 6969 Infomed@viivhealthcare.com
+
+## Hrvatska
+
+ViiV Healthcare BV
+
+Tel: + 385 800787089
+
 ## Portugal
 
 VIIVHIV HEALTHCARE, UNIPESSOAL, LDA Tel: + 351 21 094 08 01 viiv.fi.pt@viivhealthcare.com
 
 ## România
 
-ViiV Healthcare BV Tel: + 40 800672524
+ViiV Healthcare BV
 
-## Slovenija
+Tel: + 40 800672524
 
-ViiV Healthcare BV Tel: + 386 80688869
+<div style=\"page-break-after: always\"></div>
+
+## Ireland
+
+GlaxoSmithKline (Ireland) Limited
+
+Tel: + 353 (0)1 4955000
 
 ## Ísland
 
@@ -2692,17 +2694,37 @@ Vistor hf.
 
 Sími: +354 535 7000
 
-## Slovenská republika
-
-ViiV Healthcare BV
-
-Tel: + 421 800500589
-
 ## Italia
 
 ViiV Healthcare S.r.l
 
 Tel: + 39 (0)45 7741600
+
+## Κύπρος
+
+ViiV Healthcare BV
+
+Τηλ : + 357 80070017
+
+## Latvija
+
+ViiV Healthcare BV Tel: + 371 80205045
+
+## This leaflet was last revised in {MM/YYYY}
+
+Detailed information on this medicine is available on the European Medicines Agency web site: http://www.ema.europa.eu
+
+## Slovenija
+
+ViiV Healthcare BV
+
+Tel: + 386 80688869
+
+## Slovenská republika
+
+ViiV Healthcare BV
+
+Tel: + 421 800500589
 
 ## Suomi/Finland
 
@@ -2710,38 +2732,6 @@ GlaxoSmithKline Oy
 
 Puh/Tel: + 358 (0)10 30 30 30
 
-## Κύπρος
-
-ViiV Healthcare BV
-
-Τηλ
-
-: + 357 80070017
-
 ## Sverige
 
-GlaxoSmithKline AB
-
-Tel: + 46 (0)8 638 93 00
-
-info.produkt@gsk.com
-
-## Latvija
-
-ViiV Healthcare BV
-
-Tel: + 371 80205045
-
-## United Kingdom (Northern Ireland)
-
-ViiV Healthcare BV
-
-Tel: + 44 (0)800 221441
-
-customercontactuk@gsk.com
-
-<div style=\"page-break-after: always\"></div>
-
-## This leaflet was last revised in {MM/YYYY}
-
-Detailed information on this medicine is available on the European Medicines Agency web site: http://www.ema.europa.eu
+GlaxoSmithKline AB Tel: + 46 (0)8 638 93 00 info.produkt@gsk.com

@@ -1,18 +1,18 @@
 ---
-document_datetime: 2025-09-30 13:45:51
+document_datetime: 2026-01-19 16:45:36
 document_pages: 107
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/wegovy-epar-product-information_en.pdf
 document_name: wegovy-epar-product-information_en.pdf
 version: success
-processing_time: 33.5442964
-conversion_datetime: 2025-12-28 12:23:46.861147
+processing_time: 38.326605
+conversion_datetime: 2026-01-20 20:14:28.566409
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.66.0
-  docling-core: 2.57.0
+  docling-serve: 1.10.0
+  docling-jobkit: 1.8.1
+  docling: 2.69.0
+  docling-core: 2.60.0
   docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-parse: 4.7.3
   python: cpython-313 (3.13.11)
   plaform: macOS-26.2-arm64-arm-64bit-Mach-O
 ---
@@ -222,15 +222,17 @@ Hypersensitivity to the active substance or to any of the excipients listed in s
 
 In order to improve the traceability of biological medicinal products, the name and the batch number of the administered product should be clearly recorded.
 
-<div style=\"page-break-after: always\"></div>
-
 ## Aspiration in association with general anaesthesia or deep sedation
 
-Cases of pulmonary aspiration have been reported in patients receiving GLP-1 receptor agonists undergoing general anaesthesia or deep sedation. Therefore, the increased risk of residual gastric content due to delayed gastric emptying (see section 4.8) should be considered prior to performing procedures with general anaesthesia or deep sedation.
+Cases of pulmonary aspiration have been reported in patients receiving GLP-1 receptor agonists
 
-## Dehydration
+<div style=\"page-break-after: always\"></div>
 
-Use of GLP-1 receptor agonists may be associated with gastrointestinal adverse reactions that can cause dehydration, which in rare cases can lead to a deterioration of renal function. Patients should be advised of the potential risk of dehydration in relat ion to gastrointestinal side effects and take precautions to avoid fluid depletion.
+undergoing general anaesthesia or deep sedation. Therefore, the increased risk of residual gastric content due to delayed gastric emptying (see section 4.8) should be considered prior to performing procedures with general anaesthesia or deep sedation.
+
+## Gastrointestinal effects and Dehydration
+
+Use of GLP-1 receptor agonists may be associated with gastrointestinal adverse reactions. This should be considered when treating patients with impaired renal function, as nausea, vomiting, and diarrhoea may cause dehydration, which in rare cases can lead to a deterioration of renal function (see section 4.8) . Patients treated with semaglutide should be advised of the potential risk of dehydration in relation to gastrointestinal side effects and take precautions to avoid fluid depletion.
 
 ## Acute pancreatitis
 
@@ -258,6 +260,10 @@ In patients with diabetic retinopathy treated with semaglutide, an increased ris
 
 <div style=\"page-break-after: always\"></div>
 
+## Patients with gastroparesis
+
+Semaglutide treated patients with gastroparesis may experience more serious or severe gastrointestinal adverse events. Semaglutide should be used with caution in these patients, and semaglutide is not recommended if gastroparesis is severe (see section 4.8).
+
 ## Populations not studied
 
 The safety and efficacy of Wegovy have not been investigated in patients:
@@ -274,8 +280,7 @@ There is limited experience with Wegovy in patients:
 
 - -aged 85 years or more (see section 4.2),
 - -with mild or moderate hepatic impairment (see section 4.2),
-- -with inflammatory bowel disease,
-- -with diabetic gastroparesis.
+- -with inflammatory bowel disease.
 
 Use with caution in these patients.
 
@@ -299,11 +304,11 @@ Semaglutide is not anticipated to decrease the effectiveness of oral contracepti
 
 Semaglutide did not change the overall exposure of atorvastatin following a single dose administration of atorvastatin (40 mg). Atorvastatin Cmax was decreased by 38%. This was assessed not to be clinically relevant.
 
+<div style=\"page-break-after: always\"></div>
+
 ## Digoxin
 
 Semaglutide did not change the overall exposure or Cmax of digoxin following a single dose of digoxin (0.5 mg).
-
-<div style=\"page-break-after: always\"></div>
 
 ## Metformin
 
@@ -339,11 +344,11 @@ The effect of semaglutide on fertility in humans is unknown. Semaglutide did not
 
 Semaglutide has no or negligible influence on the ability to drive or use machines. However, dizziness can be experienced mainly during the dose escalation period. Driving or use of machines should be done cautiously if dizziness occurs.
 
+<div style=\"page-break-after: always\"></div>
+
 ## Patients with type 2 diabetes
 
 If semaglutide is used in combination with a sulfonylurea or insulin, patients should be advised to take precautions to avoid hypoglycaemia while driving and using machines (see section 4.4).
-
-<div style=\"page-break-after: always\"></div>
 
 ## 4.8 Undesirable effects
 
@@ -359,23 +364,23 @@ Adverse reactions associated with Wegovy are listed by system organ class and fr
 
 Table 3 Frequency of adverse reactions of semaglutide
 
-| MedDRA system organ class          | Very common                                                                | Common                                                                                                         | Uncommon                                                     | Rare                   | Very Rare                                                  | Not known               |
-|------------------------------------|----------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------|------------------------|------------------------------------------------------------|-------------------------|
-| Immune system disorders            |                                                                            |                                                                                                                |                                                              | Anaphylact ic reaction |                                                            |                         |
-| Metabolism and nutrition disorders |                                                                            | Hypoglycae mia in patients with type 2 diabetes a                                                              |                                                              |                        |                                                            |                         |
-| Nervous system disorders           | Headache b                                                                 | Dizziness b Dysgeusia b,c Dysaesthesia a                                                                       |                                                              |                        |                                                            |                         |
-| Eye disorders                      |                                                                            | Diabetic retinopathy in patients with type 2 diabetes a                                                        |                                                              |                        | Non- arteritic anterior ischaemic optic neuropathy (NAION) |                         |
-| Cardiac disorders                  |                                                                            |                                                                                                                | Hypotension Orthostatic hypotension Increased heart rate a,c |                        |                                                            |                         |
-| Gastrointes tinal disorders        | Vomiting a,b Diarrhoea a,b Constipatio n a,b Nausea a,b Abdominal pain b,c | Gastritis b,c Gastrooesop hageal reflux disease b Dyspepsia b Eructation b Flatulence b Abdominal distension b | Acute pancreatitis a Delayed gastric emptying                |                        |                                                            | Intestinal obstructio n |
+| MedDRA system organ class          | Very common   | Common                                                  | Uncommo n                                                      | Rare                   | Very Rare                                                    | Not known   |
+|------------------------------------|---------------|---------------------------------------------------------|----------------------------------------------------------------|------------------------|--------------------------------------------------------------|-------------|
+| Immune system disorders            |               |                                                         |                                                                | Anaphylact ic reaction |                                                              |             |
+| Metabolism and nutrition disorders |               | Hypoglycaemia in patients with type 2 diabetes a        |                                                                |                        |                                                              |             |
+| Nervous system disorders           | Headache b    | Dizziness b Dysgeusia b,c Dysaesthesia a                |                                                                |                        |                                                              |             |
+| Eye disorders                      |               | Diabetic retinopathy in patients with type 2 diabetes a |                                                                |                        | Non- arteritic anterior ischaemi c optic neuropat hy (NAION) |             |
+| Cardiac disorders                  |               |                                                         | Hypotensi on Orthostatic hypotensio n Increased heart rate a,c |                        |                                                              |             |
 
 <div style=\"page-break-after: always\"></div>
 
-| MedDRA system organ class                             | Very common   | Common                     | Uncommon                               | Rare        | Very Rare   | Not known   |
-|-------------------------------------------------------|---------------|----------------------------|----------------------------------------|-------------|-------------|-------------|
-| Hepatobilia ry disorders                              |               | Cholelithiasi s a          |                                        |             |             |             |
-| Skin and subcutaneo us tissue disorders               |               | Hair loss a                |                                        | Angioedem a |             |             |
-| General disorders and administrati on site conditions | Fatigue b,c   | Injection site reactions c |                                        |             |             |             |
-| Investigatio ns                                       |               |                            | Increased amylase c Increased lipase c |             |             |             |
+| MedDRA system organ class                             | Very common                                                               | Common                                                                                                         | Uncommo n                                      | Rare        | Very Rare   | Not known               |
+|-------------------------------------------------------|---------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------|------------------------------------------------|-------------|-------------|-------------------------|
+| Gastrointesti nal disorders                           | Vomiting a,b Diarrhoea a,b Constipation a,b Nausea a,b Abdominal pain b,c | Gastritis b,c Gastrooesophag eal reflux disease b Dyspepsia b Eructation b Flatulence b Abdominal distension b | Acute pancreatiti s a Delayed gastric emptying |             |             | Intestinal obstructi on |
+| Hepatobiliary disorders                               |                                                                           | Cholelithiasis a                                                                                               |                                                |             |             |                         |
+| Skin and subcutaneous tissue disorders                |                                                                           | Hair loss a                                                                                                    |                                                | Angioede ma |             |                         |
+| General disorders and administratio n site conditions | Fatigue b,c                                                               | Injection site reactions c                                                                                     |                                                |             |             |                         |
+| Investigation s                                       |                                                                           |                                                                                                                | Increased amylase c Increased lipase c         |             |             |                         |
 
 a) see description of selected adverse reactions below
 
@@ -395,9 +400,13 @@ Patients with moderate renal impairment (eGFR ≥30 to &lt;60 mL/min/1.73m 2 ) m
 
 The gastrointestinal events led to permanent treatment discontinuation in 4.3% of patients.
 
+Patients with gastroparesis may experience more serious or severe gastrointestinal effects when treated with semaglutide.
+
 ## Acute pancreatitis
 
 The frequency of adjudication-confirmed acute pancreatitis reported in phase 3a clinical trials was 0.2% for semaglutide and &lt;0.1% for placebo, respectively. In SELECT, the cardiovascular outcomes trial, the frequency of acute pancreatitis confirmed by adjudication was 0.2% for semaglutide and 0.3% for placebo.
+
+<div style=\"page-break-after: always\"></div>
 
 ## Acute gallstone disease/Cholelithiasis
 
@@ -406,8 +415,6 @@ Cholelithiasis was reported in 1.6% and led to cholecystitis in 0.6% of patients
 ## Hair loss
 
 Hair loss was reported in 2.5% of patients treated with semaglutide and in 1.0% of patients treated with placebo. The events were mainly of mild severity and most patients recovered while on continued treatment. Hair loss was reported more frequently in pa tients with a greater weight loss (≥20%).
-
-<div style=\"page-break-after: always\"></div>
 
 ## Increased heart rate
 
@@ -431,6 +438,8 @@ A 2-year clinical trial investigated semaglutide 0.5 mg and 1 mg vs. placebo in 
 
 Events related to a clinical picture of altered skin sensation such as paraesthesia, pain of skin, sensitive skin, dysaesthesia and burning skin sensation were reported in 2.1% of patients treated with semaglutide 2.4 mg and 1.2% of patients treated with placebo. The events were mild to moderate in severity and most patients recovered while on continued treatment.
 
+<div style=\"page-break-after: always\"></div>
+
 ## Non-arteritic anterior ischaemic optic neuropathy (NAION)
 
 Results from several large epidemiological studies suggest that exposure to semaglutide in adults with type 2 diabetes is associated with an approximately two-fold increase in the relative risk of developing NAION, corresponding to approximately one additional case per 10 000 person-years of treatment.
@@ -438,8 +447,6 @@ Results from several large epidemiological studies suggest that exposure to sema
 ## Paediatric population
 
 In a clinical trial conducted in adolescents of 12 years to below 18 years with obesity or overweight with at least one weight-related comorbidity, 133 patients were exposed to Wegovy. The trial duration was 68 weeks.
-
-<div style=\"page-break-after: always\"></div>
 
 Overall, the frequency, type and severity of adverse reactions in the adolescents were comparable to that observed in the adult population. Cholelithiasis was reported in 3.8% of patients treated with Wegovy and 0% of patients treated with placebo.
 
@@ -471,17 +478,17 @@ Semaglutide is a GLP-1 analogue with 94% sequence homology to human GLP-1. Semag
 
 GLP-1 is a physiological regulator of appetite and calorie intake, and the GLP-1 receptor is present in several areas of the brain involved in appetite regulation.
 
-Animal studies show that semaglutide works in the brain through the GLP-1 receptor. Semaglutide has direct effects on areas in the brain involved in homeostatic regulation of food intake in the hypothalamus and the brainstem. Semaglutide may affect the hedonic reward system through direct and indirect effects in brain areas including the septum, thalamus and amygdala.
+Animal studies show that semaglutide works in the brain through the GLP-1 receptor. Semaglutide has direct effects on areas in the brain involved in homeostatic regulation of food intake in the
+
+<div style=\"page-break-after: always\"></div>
+
+hypothalamus and the brainstem. Semaglutide may affect the hedonic reward system through direct and indirect effects in brain areas including the septum, thalamus and amygdala.
 
 Clinical studies show that semaglutide reduces energy intake, increases feelings of satiety, fullness and control of eating, reduces feelings of hunger, and frequency and intensity of cravings. In addition, semaglutide reduces the preference for high fat foods.
 
 Semaglutide orchestrates the homeostatic and hedonic contributions with executive function to regulate caloric intake, appetite, reward and food choice.
 
-In addition, in clinical studies semaglutide have shown to reduce blood glucose in a glucose dependent manner by stimulating insulin secretion and lowering glucagon secretion when blood glucose is high.
-
-<div style=\"page-break-after: always\"></div>
-
-The mechanism of blood glucose lowering also involves a minor delay in gastric emptying in the early postprandial phase. During hypoglycaemia, semaglutide diminishes insulin secretion and does not impair glucagon secretion.
+In addition, in clinical studies semaglutide have shown to reduce blood glucose in a glucose dependent manner by stimulating insulin secretion and lowering glucagon secretion when blood glucose is high. The mechanism of blood glucose lowering also involves a minor delay in gastric emptying in the early postprandial phase. During hypoglycaemia, semaglutide diminishes insulin secretion and does not impair glucagon secretion.
 
 GLP-1 receptors are also expressed in the heart, vasculature, immune system and kidneys. Semaglutide has a beneficial effect on plasma lipids, lowered systolic blood pressure and reduced inflammation in clinical studies. Furthermore, animal studies have shown that semaglutide attenuated the development of atherosclerosis and had an anti-inflammatory action in the cardiovascular system.
 
@@ -501,13 +508,15 @@ Semaglutide 1 mg compared to placebo lowered fasting triglyceride and very low d
 
 The efficacy and safety of semaglutide for weight management in combination with a reduced calorie intake and increased physical activity were evaluated in four 68 weeks double-blinded randomised placebo-controlled phase 3a trials (STEP 1-4). A total of 4 684 adult patients (2 652 randomised to treatment with semaglutide) were included in these trials. Furthermore, the two-year efficacy and safety of semaglutide compared to placebo were evaluated in a double-blinded randomised placebocontrolled phase 3b trial (STEP 5) including 304 patients (152 in treatment with semaglutide).
 
-Treatment with semaglutide demonstrated superior, clinically meaningful, and sustained weight loss compared with placebo in patients with obesity (BMI ≥30 kg/m 2 ), or overweight (BMI ≥27 kg/m 2 to &lt;30 kg/m 2 ) and at least one weight-related comorbidity. Furthermore, across the trials, a higher proportion of patients achieved ≥5%, ≥10%, ≥15% and ≥20% weight loss with semaglutide compared with placebo. The reduction in body weight occurred irrespective of the presence of gastrointestinal symptoms such as nausea, vomiting or diarrhoea.
+Treatment with semaglutide demonstrated superior, clinically meaningful, and sustained weight loss compared with placebo in patients with obesity (BMI ≥30 kg/m 2 ), or overweight (BMI ≥27 kg/m 2 to &lt;30 kg/m 2 ) and at least one weight-related comorbidity. Furthermore, across the trials, a higher proportion of patients achieved ≥5%, ≥10%, ≥15% and ≥20% weight loss with semaglutide compared
+
+<div style=\"page-break-after: always\"></div>
+
+with placebo. The reduction in body weight occurred irrespective of the presence of gastrointestinal symptoms such as nausea, vomiting or diarrhoea.
 
 Treatment with semaglutide also showed statistically significant improvements in waist circumference, systolic blood pressure and physical functioning compared to placebo.
 
 Efficacy was demonstrated regardless of age, sex, race, ethnicity, baseline body weight, BMI, presence of type 2 diabetes and level of renal function. Variations in efficacy existed within all subgroups. Relatively greater weight loss was observed in women and in patients without type 2 diabetes as well as in patients with a lower versus higher baseline body weight.
-
-<div style=\"page-break-after: always\"></div>
 
 ## STEP 1: Weight management
 
@@ -701,9 +710,7 @@ Table 8 STEP 5: Results at week 104
 
 1 Estimated using an ANCOVA model using multiple imputation based on all data irrespective of discontinuation of randomised treatment or initiation of other anti-obesity medication or bariatric surgery.
 
-2 During the trial, randomised treatment was permanently discontinued by 13.2% and 27.0% of patients randomised to semaglutide 2.4 mg and placebo, respectively. Assuming that all randomised patients stayed on treatment and did not receive additional anti-obesity therapies, the estimated changes from randomisation to week 104 for body weight based on a Mixed Model for Repeated Measures including all observations until first discontinuation were -16.7% and -0.6% for semaglutide and placebo respectively.
-
-3 Estimated from binary regression model based on same imputation procedure as in primary analysis.
+2 During the trial, randomised treatment was permanently discontinued by 13.2% and 27.0% of patients randomised to semaglutide 2.4 mg and placebo, respectively. Assuming that all randomised patients stayed on treatment and did not receive additional anti-obesity therapies, the estimated changes from randomisation to week 104 for body weight based on a Mixed Model for Repeated Measures including all observations until first discontinuation were -16.7% and -0.6% for semaglutide and placebo respectively. 3 Estimated from binary regression model based on same imputation procedure as in primary analysis.
 
 <!-- image -->
 
@@ -1108,13 +1115,13 @@ Wegovy should not be used if it does not appear clear and colourless. The pen sh
 
 Any unused medicinal product or waste material should be disposed of in accordance with local requirements.
 
-Pre-filled pen, single-dose
+## Pre-filled pen, single-dose
 
 The pen is for single-dose only.
 
-Pre-filled pen, FlexTouch
+## Pre-filled pen, FlexTouch
 
-This pen is for multi-use. It contains 4 doses.
+This pen is for multi-use. It contains 4 doses. After having injected the 4 doses, there might still be solution left in the pen despite having administered correctly. Any solution left is insufficient for a dose and the pen should be disposed of.
 
 The patient should be advised to discard the injection needle in accordance with local requirements after each injection and store the Wegovy pen without an injection needle attached. This may prevent blocked needles, contamination, infection, leakage of solution and inaccurate dosing.
 
@@ -2718,8 +2725,7 @@ The use of Wegovy is not recommended if you:
 There is little experience with Wegovy in patients:
 
 - of 85 years and older,
-- with liver problems,
-- with severe stomach or gut problem which results in delayed stomach emptying (called gastroparesis), or if you have an inflammatory bowel disease.
+- with liver problems.
 
 Please consult your doctor if one of the above applies to you.
 
@@ -2741,15 +2747,21 @@ Wegovy cannot be used as a substitute for insulin.   Do not use Wegovy in combin
 
 Taking a sulfonylurea or an insulin with Wegovy might increase the risk of getting low blood sugar levels (hypoglycaemia). Please see section 4 for the warning signs of low blood sugar levels. Your doctor may ask you to test your blood sugar levels. This will help your doctor decide if the dose of the sulfonylurea or insulin needs to be changed to reduce the risk of low blood sugar.
 
-<div style=\"page-break-after: always\"></div>
-
 ## · Diabetic eye disease (retinopathy)
 
-If you have diabetic eye disease and are using insulin, this medicine may lead to a worsening of your vision, and this may require treatment. Fast improvements in blood sugar control may lead to a temporary worsening of diabetic eye disease. If you have diabetic eye disease and experience eye problems while taking this medicine, talk to your doctor.
+If you have diabetic eye disease and are using insulin, this medicine may lead to a worsening of your vision, and this may require treatment. Fast improvements in blood sugar control may lead
+
+<div style=\"page-break-after: always\"></div>
+
+to a temporary worsening of diabetic eye disease. If you have diabetic eye disease and experience eye problems while taking this medicine, talk to your doctor.
 
 ## · Sudden changes to your eyesight.
 
 If you notice a sudden loss of vision or rapidly worsening eyesight during treatment with this medicine, immediately contact your doctor for advice. This may be caused by a very rare side effect called non-arteritic anterior ischaemic optic neuropathy (NAION) (See section 4: Serious side effects). Your doctor may refer you for an eye examination and you may have to stop treatment with this medicine.
+
+## · Patients with delayed stomach emptying (gastroparesis)
+
+If you have slow (delayed) stomach emptying (called gastroparesis), use of Wegovy may lead to serious or severe gastrointestinal adverse events. Talk to your doctor before using Wegovy.
 
 ## Children and adolescents
 
@@ -2781,11 +2793,11 @@ If you use this medicine in combination with a sulfonylurea or insulin, low bloo
 
 This medicine contains less than 1 mmol sodium (23 mg) per dose, that is to say essentially 'sodiumfree'.
 
+<div style=\"page-break-after: always\"></div>
+
 ## 3. How to use Wegovy
 
 Always use this medicine exactly as your doctor has told you. Check with your doctor, pharmacist or nurse if you are not sure.
-
-<div style=\"page-break-after: always\"></div>
 
 ## How much to use
 
@@ -2832,7 +2844,6 @@ Tell your doctor if you have type 2 diabetes. Your doctor may adjust the dose of
 ## When to use Wegovy
 
 - You should use this medicine once a week and if possible, on the same day each week.
-- •
 - You can give yourself the injection at any time of the day - regardless of meals.
 
 If necessary, you can change the day of your weekly injection of this medicine as long as it has been at least 3 days since your last injection. After selecting a new dosing day, continue with once a week dosing.
@@ -2872,7 +2883,7 @@ Common (may affect up to 1 in 10 people)
 
 - Inflamed pancreas (acute pancreatitis). Signs of inflamed pancreas may include severe and longlasting pain in your stomach, the pain may move to your back. You should see your doctor immediately if you experience such symptoms.
 
-## Rare (may affect up to 1 in 1 000 people)
+Rare (may affect up to 1 in 1 000 people)
 
 - Severe allergic reactions (anaphylactic reactions, angioedema). You should seek immediate medical help and inform your doctor straight away if you get symptoms such as breathing difficulty, swelling, light-headedness, fast heartbeat, sweating and loss of consciousness or rapid swelling under the skin in areas such as the face, throat, arms and legs, which can be life threatening if throat swelling blocks the airway.
 
@@ -2880,13 +2891,13 @@ Common (may affect up to 1 in 10 people)
 
 - A medical condition of the eye called non-arteritic anterior ischaemic optic neuropathy (NAION), which may cause loss of vision to one of your eyes without any pain. You should immediately contact your doctor if you notice sudden or gradually worsening eyesight (see section 2: 'Sudden changes to your eyesight')
 
-Not known (frequency cannot be estimated from the available data)
+## Not known (frequency cannot be estimated from the available data)
 
 - Bowel obstruction. A severe form of constipation with additional symptoms such as stomach ache, bloating, vomiting etc.
 
 ## Other side effects
 
-Very common (may affect more than 1 in 10 people)
+## Very common (may affect more than 1 in 10 people)
 
 - headache
 - feeling sick (nausea)
@@ -2894,10 +2905,10 @@ Very common (may affect more than 1 in 10 people)
 - diarrhoea
 - constipation
 - stomach pain
-- feeling weak or tired
 
 <div style=\"page-break-after: always\"></div>
 
+- feeling weak or tired
 - these are mainly seen during dose escalation and usually go away over time.
 
 Common (may affect up to 1 in 10 people)
@@ -2942,13 +2953,15 @@ Do not use this medicine after the expiry date which is stated on the pen label 
 
 Store in a refrigerator (2°C - 8°C). Do not freeze. Keep away from the cooling element. Always store the pen in the original carton in order to protect from light.
 
-Wegovy may be stored unrefrigerated for up to 28 days at a temperature not above 30°C. Discard the pen if it has been exposed to light or temperatures above 30°C, has been out of the refrigerator for more than 28 days, or has been frozen.
+Wegovy may be stored unrefrigerated for up to 28 days at a temperature not above 30°C.
+
+Discard the pen if it has been exposed to light or temperatures above 30°C, has been out of the refrigerator for more than 28 days, or has been frozen.
 
 Do not use this medicine if you notice that the solution is not clear and colourless.
 
-<div style=\"page-break-after: always\"></div>
-
 After use: The pen is for single use and contains one dose only. Discard pen after use.
+
+<div style=\"page-break-after: always\"></div>
 
 Do not throw away any medicines via wastewater or household waste. Ask your pharmacist how to throw away medicines you no longer use. These measures will help protect the environment.
 
@@ -2956,17 +2969,17 @@ Do not throw away any medicines via wastewater or household waste. Ask your phar
 
 ## What Wegovy contains
 
-- -
+- The active substance is semaglutide.
 
-- The active substance is semaglutide. Wegovy 0.25 mg solution for injection Each pre-filled pen contains 0.25 mg semaglutide in 0.5 mL (0.5 mg/mL).
+Wegovy 0.25 mg solution for injection
+
+Each pre-filled pen contains 0.25 mg semaglutide in 0.5 mL (0.5 mg/mL).
 
 ## Wegovy 0.5 mg solution for injection
 
 Each pre-filled pen contains 0.5 mg semaglutide in 0.5 mL (1 mg/mL).
 
-## Wegovy 1 mg solution for injection
-
-Each pre-filled pen contains 1 mg semaglutide in 0.5 mL (2 mg/mL).
+Wegovy 1 mg solution for injection Each pre-filled pen contains 1 mg semaglutide in 0.5 mL (2 mg/mL).
 
 ## Wegovy 1.7 mg solution for injection
 
@@ -3002,7 +3015,15 @@ Detailed information on this medicine is available on the European Medicines Age
 
 ## Wegovy
 
-<!-- image -->
+0.25 mg
+
+0.5 mg
+
+1 mg
+
+1.7 mg
+
+2.4 mg
 
 Wegovy 0.25 mg solution for injection in pre-filled pen
 
@@ -3015,8 +3036,6 @@ Wegovy 1.7 mg solution for injection in pre-filled pen
 Wegovy 2.4 mg solution for injection in pre-filled pen semaglutide
 
 Use Wegovy one time each week
-
-<!-- image -->
 
 ## Instructions on how to use Wegovy pen
 
@@ -3041,8 +3060,6 @@ The needle cover will lock when the pen is removed from your skin. You cannot pa
 People who are blind or have vision problems should not use Wegovy pen without help from a person trained to use Wegovy.
 
 Always follow these user instructions and any directions given by your doctor or nurse.
-
-<!-- image -->
 
 Pull out to get started
 
@@ -3177,8 +3194,7 @@ The use of Wegovy is not recommended if you:
 There is little experience with Wegovy in patients:
 
 - of 85 years and older,
-- with liver problems,
-- with severe stomach or gut problem which results in delayed stomach emptying (called gastroparesis), or if you have an inflammatory bowel disease.
+- with liver problems.
 
 Please consult your doctor if one of the above applies to you.
 
@@ -3200,15 +3216,21 @@ Wegovy cannot be used as a substitute for insulin.   Do not use Wegovy in combin
 
 Taking a sulfonylurea or an insulin with Wegovy might increase the risk of getting low blood sugar levels (hypoglycaemia). Please see section 4 for the warning signs of low blood sugar levels. Your doctor may ask you to test your blood sugar levels. This will help your doctor decide if the dose of the sulfonylurea or insulin needs to be changed to reduce the risk of low blood sugar.
 
-<div style=\"page-break-after: always\"></div>
-
 ## · Diabetic eye disease (retinopathy)
 
-If you have diabetic eye disease and are using insulin, this medicine may lead to a worsening of your vision, and this may require treatment. Fast improvements in blood sugar control may lead to a temporary worsening of diabetic eye disease. If you have diabetic eye disease and experience eye problems while taking this medicine, talk to your doctor.
+If you have diabetic eye disease and are using insulin, this medicine may lead to a worsening of your vision, and this may require treatment. Fast improvements in blood sugar control may lead
+
+<div style=\"page-break-after: always\"></div>
+
+to a temporary worsening of diabetic eye disease. If you have diabetic eye disease and experience eye problems while taking this medicine, talk to your doctor.
 
 ## · Sudden changes to your eyesight.
 
 If you notice a sudden loss of vision or rapidly worsening eyesight during treatment with this medicine, immediately contact your doctor for advice. This may be caused by a very rare side effect called non-arteritic anterior ischaemic optic neuropathy (NAION) (See section 4: Serious side effects). Your doctor may refer you for an eye examination and you may have to stop treatment with this medicine.
+
+## · Patients with delayed stomach emptying (gastroparesis)
+
+If you have slow (delayed) stomach emptying (called gastroparesis), use of Wegovy may lead to serious or severe gastrointestinal adverse events. Talk to your doctor before using Wegovy.
 
 ## Children and adolescents
 
@@ -3240,11 +3262,11 @@ If you use this medicine in combination with a sulfonylurea or insulin, low bloo
 
 This medicine contains less than 1 mmol sodium (23 mg) per dose, that is to say essentially 'sodiumfree'.
 
+<div style=\"page-break-after: always\"></div>
+
 ## 3. How to use Wegovy
 
 Always use this medicine exactly as your doctor has told you. Check with your doctor, pharmacist or nurse if you are not sure.
-
-<div style=\"page-break-after: always\"></div>
 
 ## How much to use
 
@@ -3330,7 +3352,7 @@ Common (may affect up to 1 in 10 people)
 
 - Inflamed pancreas (acute pancreatitis). Signs of inflamed pancreas may include severe and longlasting pain in your stomach, the pain may move to your back. You should see your doctor immediately if you experience such symptoms.
 
-## Rare (may affect up to 1 in 1 000 people)
+Rare (may affect up to 1 in 1 000 people)
 
 - Severe allergic reactions (anaphylactic reactions, angioedema). You should seek immediate medical help and inform your doctor straight away if you get symptoms such as breathing difficulty, swelling, light-headedness, fast heartbeat, sweating and loss of consciousness or rapid swelling under the skin in areas such as the face, throat, arms and legs, which can be life threatening if throat swelling blocks the airway.
 
@@ -3352,10 +3374,10 @@ Very common (may affect more than 1 in 10 people)
 - diarrhoea
 - constipation
 - stomach pain
-- feeling weak or tired
 
 <div style=\"page-break-after: always\"></div>
 
+- feeling weak or tired
 - -these are mainly seen during dose escalation and usually go away over time.
 
 Common (may affect up to 1 in 10 people)
@@ -3407,9 +3429,9 @@ Store in a refrigerator (2°C - 8°C). Do not freeze. Keep away from the cooling
 - You can keep the pen for 6 weeks when stored at a temperature below 30°C or in a refrigerator (2°C - 8°C) away from the cooling element. Do not freeze Wegovy and do not use it if it has been frozen.
 - When you are not using the pen, keep the pen cap on in order to protect from light.
 
-Do not use this medicine if you notice that the solution is not clear and colourless.
-
 <div style=\"page-break-after: always\"></div>
+
+Do not use this medicine if you notice that the solution is not clear and colourless.
 
 Do not throw away any medicines via wastewater or household waste. Ask your pharmacist how to throw away medicines you no longer use. These measures will help protect the environment
 
@@ -3417,14 +3439,17 @@ Do not throw away any medicines via wastewater or household waste. Ask your phar
 
 ## What Wegovy contains
 
-- -
-- The active substance is semaglutide. Wegovy 0.25 mg FlexTouch solution for injection Each pre-filled pen contains 1 mg semaglutide in 1.5 mL (0.68 mg/mL).
+- -The active substance is semaglutide. Wegovy 0.25 mg FlexTouch solution for injection
+
+Each pre-filled pen contains 1 mg semaglutide in 1.5 mL (0.68 mg/mL).
 
 ## Wegovy 0.5 mg FlexTouch solution for injection
 
-1.5 mL: Each pre-filled pen contains 2 mg semaglutide in 1.5 mL (1.34 mg/mL). 3 mL: Each pre-filled pen contains 2 mg semaglutide in 3 mL (0.68 mg/mL).
+1.5 mL: Each pre-filled pen contains 2 mg semaglutide in 1.5 mL (1.34 mg/mL).
 
-Wegovy 1 mg FlexTouch solution for injection
+3 mL: Each pre-filled pen contains 2 mg semaglutide in 3 mL (0.68 mg/mL).
+
+## Wegovy 1 mg FlexTouch solution for injection
 
 Each pre-filled pen contains 4 mg semaglutide in 3 mL (1.34 mg/mL).
 
@@ -3442,13 +3467,17 @@ Each pre-filled pen contains 9.6 mg of semaglutide in 3 mL (3.2 mg/mL).
 
 Wegovy is a clear and colourless solution for injection in a pre-filled pen.
 
-Each pre-filled pen contains 4 doses.
+Each pre-filled pen contains 4 doses. After having injected the 4 doses, there might still be solution left in the pen despite having administered correctly. Any solution left is insufficient for a dose and the pen should be disposed of.
 
-Wegovy 0.25, 0.5, 1 and 1.7 mg FlexTouch solution for injection is available in the following pack size:
+## Wegovy 0.25, 0.5, 1 and 1.7 mg FlexTouch solution for injection is available in the following pack size:
 
 1 pre-filled pen and 4 disposable NovoFine Plus needles.
 
-Wegovy 2.4 mg FlexTouch solution for injection is available in the following pack sizes: 1 pre-filled pen and 4 disposable NovoFine Plus needles. 3 pre-filled pens and 12 disposable NovoFine Plus needles
+Wegovy 2.4 mg FlexTouch solution for injection is available in the following pack sizes:
+
+1 pre-filled pen and 4 disposable NovoFine Plus needles.
+
+3 pre-filled pens and 12 disposable NovoFine Plus needles
 
 Not all pack sizes may be marketed.
 
@@ -3482,15 +3511,7 @@ Please use the table inside the lid of the carton to keep track of how many inje
 
 Wegovy comes in five different pens, each containing one of the following prescribed doses of semaglutide:
 
-0.25 mg
-
-0.5 mg
-
-1 mg
-
-1.7 mg
-
-2.4 mg
+<!-- image -->
 
 Always start by checking your pen label to make sure that it contains your prescribed dose of Wegovy.
 
@@ -3516,7 +3537,9 @@ Check the name and dose of your pen to make sure it contains your prescribed dos
 
 (See figure A).
 
-## Check that the solution in your pen is clear and colourless .
+## Check that the solution in your pen is clear and colourless
+
+.
 
 Look through the pen window. If Wegovy looks cloudy or coloured, do not use the pen.
 
@@ -3537,22 +3560,6 @@ Take a needle when you are ready to take your injection. Check the paper tab and
 <!-- image -->
 
 <div style=\"page-break-after: always\"></div>
-
-## Push the needle straight onto the pen. Turn until it is on tight.
-
-(See figure D).
-
-The needle is covered by two caps. You must remove both caps. If you forget to remove both caps you will not inject any Wegovy.
-
-Pull off the outer needle cap and keep it for later. You will need it to safely remove the needle from the pen after the injection.
-
-Pull off the inner needle cap and dispose of it. A drop of Wegovy may appear at the needle tip. You must still check the Wegovy flow if you use a new pen for the first time. See 'Check the flow with each new pen'.
-
-Never use a bent or damaged needle. For more information about needle handling, see 'About your needles' below these instructions.
-
-(See figure E).
-
-D
 
 <!-- image -->
 
@@ -3617,6 +3624,8 @@ The dose selector clicks differently when turned forward, backwards or past your
 (See figure J).
 
 When your prescribed dose lines up with the dose pointer, you have selected your dose. In this picture, the dose 0.25 mg is shown as an example.
+
+<!-- image -->
 
 If the dose counter stops before you reach your prescribed dose, see the section 'Do you have enough Wegovy?' below these instructions.
 

@@ -1,21 +1,96 @@
 ---
-document_datetime: 2025-12-29 07:42:22
+document_datetime: 2026-01-19 17:39:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/xenpozyme.html
 document_name: xenpozyme.html
 version: success
-processing_time: 0.1130664
-conversion_datetime: 2025-12-30 09:56:44.607522
+processing_time: 0.2743465
+conversion_datetime: 2026-01-20 20:40:57.699103
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.66.0
-  docling-core: 2.57.0
+  docling-serve: 1.10.0
+  docling-jobkit: 1.8.1
+  docling: 2.69.0
+  docling-core: 2.60.0
   docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-parse: 4.7.3
   python: cpython-313 (3.13.11)
   plaform: macOS-26.2-arm64-arm-64bit-Mach-O
 ---
+# Search
+
+- [Medicines](/en/medicines)
+    - [Find medicine](/en/medicines)
+    - [Therapeutic areas: latest updates](/en/medicines/therapeutic-areas-latest-updates)
+    - [Download medicine data](/en/medicines/download-medicine-data)
+    - [What we publish on medicines and when](/en/medicines/what-we-publish-medicines-when)
+    - [Medicines under evaluation](/en/medicines/medicines-human-use-under-evaluation)
+    - [National registers](/en/medicines/national-registers-authorised-medicines)
+- [Human regulatory](/en/human-regulatory-overview)
+    - [Overview](/en/human-regulatory-overview)
+    - [Research and development](/en/human-regulatory-overview/research-development)
+    - [Marketing authorisation](/en/human-regulatory-overview/marketing-authorisation)
+    - [Post-authorisation](/en/human-regulatory-overview/post-authorisation)
+    - [Medical devices](/en/human-regulatory-overview/medical-devices)
+    - [Herbal products](/en/human-regulatory-overview/herbal-medicinal-products)
+- [Veterinary regulatory](/en/veterinary-regulatory-overview)
+    - [Overview](/en/veterinary-regulatory-overview)
+    - [Research and development](/en/veterinary-regulatory-overview/research-development-veterinary-medicines)
+    - [Marketing authorisation](/en/veterinary-regulatory-overview/marketing-authorisation-veterinary-medicines)
+    - [Post-authorisation](/en/veterinary-regulatory-overview/post-authorisation-veterinary-medicines)
+- [Committees](/en/committees)
+    - [Overview](/en/committees)
+    - [How the committees work](/en/committees/how-committees-work)
+    - [CHMP](/en/committees/committee-medicinal-products-human-use-chmp)
+    - [CVMP](/en/committees/committee-veterinary-medicinal-products-cvmp)
+    - [PRAC](/en/committees/pharmacovigilance-risk-assessment-committee-prac)
+    - [COMP](/en/committees/committee-orphan-medicinal-products-comp)
+    - [HMPC](/en/committees/committee-herbal-medicinal-products-hmpc)
+    - [CAT](/en/committees/committee-advanced-therapies-cat)
+    - [PDCO](/en/committees/paediatric-committee-pdco)
+    - [Working parties and other groups](/en/committees/working-parties-other-groups)
+- [News &amp; events](/en/news-events)
+    - [Overview](/en/news-events)
+    - [News](/en/news)
+    - [Events](/en/events/upcoming-events)
+    - [What's new](/en/news-events/whats-new)
+    - [Committee highlights](/en/news-events/committee-highlights)
+    - [Publications](/en/news-and-events/publications)
+    - [Press and social media](/en/news-events/press-social-media)
+    - [Podcast: Inside EMA](/en/news-events/podcast-inside-ema)
+    - [Open consultations](/en/news-events/open-consultations)
+    - [RSS feeds](/en/news-events/rss-feeds)
+- [Partners &amp; networks](/en/partners-networks)
+    - [Overview](/en/partners-networks)
+    - [Animal health practitioners](/en/partners-networks/animal-health-practitioners)
+    - [One Health approach](/en/partners-networks/one-health-approach)
+    - [Academia](/en/partners-networks/academia)
+    - [EU partners](/en/partners-networks/eu-partners)
+    - [International activities](/en/partners-networks/international-activities)
+    - [Patients and consumers](/en/partners-networks/patients-consumers)
+    - [Healthcare professionals](/en/partners-networks/healthcare-professionals)
+    - [Pharmaceutical industry](/en/partners-networks/pharmaceutical-industry)
+    - [Networks](/en/partners-networks/networks)
+    - [Health technology assessment bodies](/en/partners-networks/health-technology-assessment-bodies)
+- [About us](/en/about-us)
+    - [Overview](/en/about-us)
+    - [What we do](/en/about-us/what-we-do)
+    - [Who we are](/en/about-us/who-we-are)
+    - [How we work](/en/about-us/how-we-work)
+    - [Fees](/en/about-us/fees-payable-european-medicines-agency)
+    - [Support to SMEs](/en/about-us/support-smes)
+    - [Annual reports and work programmes](/en/about-us/annual-reports-work-programmes)
+    - [History of EMA](/en/about-us/history-ema)
+    - [Careers](/en/about-us/careers)
+    - [Procurement](/en/about-us/procurement-grants)
+    - [Glossaries](/en/about-us/glossaries)
+    - [About this website](/en/about-us/about-website)
+    - [Data protection and privacy](/en/about-us/data-protection-privacy-ema)
+    - [Contacts](/en/about-us/contacts-european-medicines-agency)
+
+1. [Home](/en/homepage)
+2. [Medicines](https://www.ema.europa.eu/en/medicines)
+3. Xenpozyme
+
 # Xenpozyme
 
 [RSS](/en/individual-human-medicine.xml/67575)
@@ -25,8 +100,6 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 olipudase alfa Medicine Human Authorised
-
-On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -114,7 +187,7 @@ English (EN) (113.1 KB - PDF)
 
 [View](/en/documents/overview/xenpozyme-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-340)
+[Other languages (22)](#file-language-dropdown-752)
 
 български (BG) (124.34 KB - PDF)
 
@@ -306,17 +379,17 @@ English (EN) (1.16 MB - PDF)
 
 Xenpozyme : EPAR - Product Information
 
-English (EN) (554.52 KB - PDF)
+English (EN) (605.13 KB - PDF)
 
 **First published:** 27/07/2022
 
-**Last updated:** 30/06/2025
+**Last updated:** 19/01/2026
 
 [View](/en/documents/product-information/xenpozyme-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-777)
+[Other languages (24)](#file-language-dropdown-487)
 
-български (BG) (863.27 KB - PDF)
+български (BG) (874.17 KB - PDF)
 
 **First published:**
 
@@ -324,11 +397,11 @@ English (EN) (554.52 KB - PDF)
 
 **Last updated:**
 
-30/06/2025
+19/01/2026
 
 [View](/bg/documents/product-information/xenpozyme-epar-product-information_bg.pdf)
 
-español (ES) (651.39 KB - PDF)
+español (ES) (665.64 KB - PDF)
 
 **First published:**
 
@@ -336,7 +409,7 @@ español (ES) (651.39 KB - PDF)
 
 **Last updated:**
 
-30/06/2025
+19/01/2026
 
 [View](/es/documents/product-information/xenpozyme-epar-product-information_es.pdf)
 
@@ -348,11 +421,11 @@ español (ES) (651.39 KB - PDF)
 
 **Last updated:**
 
-30/06/2025
+19/01/2026
 
 [View](/cs/documents/product-information/xenpozyme-epar-product-information_cs.pdf)
 
-dansk (DA) (672.65 KB - PDF)
+dansk (DA) (677.5 KB - PDF)
 
 **First published:**
 
@@ -360,11 +433,11 @@ dansk (DA) (672.65 KB - PDF)
 
 **Last updated:**
 
-30/06/2025
+19/01/2026
 
 [View](/da/documents/product-information/xenpozyme-epar-product-information_da.pdf)
 
-Deutsch (DE) (567.13 KB - PDF)
+Deutsch (DE) (693.33 KB - PDF)
 
 **First published:**
 
@@ -372,11 +445,11 @@ Deutsch (DE) (567.13 KB - PDF)
 
 **Last updated:**
 
-30/06/2025
+19/01/2026
 
 [View](/de/documents/product-information/xenpozyme-epar-product-information_de.pdf)
 
-eesti keel (ET) (619.57 KB - PDF)
+eesti keel (ET) (589.46 KB - PDF)
 
 **First published:**
 
@@ -384,11 +457,11 @@ eesti keel (ET) (619.57 KB - PDF)
 
 **Last updated:**
 
-30/06/2025
+19/01/2026
 
 [View](/et/documents/product-information/xenpozyme-epar-product-information_et.pdf)
 
-ελληνικά (EL) (714.35 KB - PDF)
+ελληνικά (EL) (726.63 KB - PDF)
 
 **First published:**
 
@@ -396,11 +469,11 @@ eesti keel (ET) (619.57 KB - PDF)
 
 **Last updated:**
 
-30/06/2025
+19/01/2026
 
 [View](/el/documents/product-information/xenpozyme-epar-product-information_el.pdf)
 
-français (FR) (986.1 KB - PDF)
+français (FR) (939.55 KB - PDF)
 
 **First published:**
 
@@ -408,11 +481,11 @@ français (FR) (986.1 KB - PDF)
 
 **Last updated:**
 
-30/06/2025
+19/01/2026
 
 [View](/fr/documents/product-information/xenpozyme-epar-product-information_fr.pdf)
 
-hrvatski (HR) (782.28 KB - PDF)
+hrvatski (HR) (775.32 KB - PDF)
 
 **First published:**
 
@@ -420,11 +493,11 @@ hrvatski (HR) (782.28 KB - PDF)
 
 **Last updated:**
 
-30/06/2025
+19/01/2026
 
 [View](/hr/documents/product-information/xenpozyme-epar-product-information_hr.pdf)
 
-íslenska (IS) (719.71 KB - PDF)
+íslenska (IS) (859.33 KB - PDF)
 
 **First published:**
 
@@ -432,11 +505,11 @@ hrvatski (HR) (782.28 KB - PDF)
 
 **Last updated:**
 
-30/06/2025
+19/01/2026
 
 [View](/is/documents/product-information/xenpozyme-epar-product-information_is.pdf)
 
-italiano (IT) (569.12 KB - PDF)
+italiano (IT) (912.75 KB - PDF)
 
 **First published:**
 
@@ -444,11 +517,11 @@ italiano (IT) (569.12 KB - PDF)
 
 **Last updated:**
 
-30/06/2025
+19/01/2026
 
 [View](/it/documents/product-information/xenpozyme-epar-product-information_it.pdf)
 
-latviešu valoda (LV) (913.73 KB - PDF)
+latviešu valoda (LV) (916.58 KB - PDF)
 
 **First published:**
 
@@ -456,11 +529,11 @@ latviešu valoda (LV) (913.73 KB - PDF)
 
 **Last updated:**
 
-30/06/2025
+19/01/2026
 
 [View](/lv/documents/product-information/xenpozyme-epar-product-information_lv.pdf)
 
-lietuvių kalba (LT) (615.58 KB - PDF)
+lietuvių kalba (LT) (635.81 KB - PDF)
 
 **First published:**
 
@@ -468,11 +541,11 @@ lietuvių kalba (LT) (615.58 KB - PDF)
 
 **Last updated:**
 
-30/06/2025
+19/01/2026
 
 [View](/lt/documents/product-information/xenpozyme-epar-product-information_lt.pdf)
 
-magyar (HU) (519 KB - PDF)
+magyar (HU) (558.1 KB - PDF)
 
 **First published:**
 
@@ -480,11 +553,11 @@ magyar (HU) (519 KB - PDF)
 
 **Last updated:**
 
-30/06/2025
+19/01/2026
 
 [View](/hu/documents/product-information/xenpozyme-epar-product-information_hu.pdf)
 
-Malti (MT) (790.02 KB - PDF)
+Malti (MT) (732.62 KB - PDF)
 
 **First published:**
 
@@ -492,11 +565,11 @@ Malti (MT) (790.02 KB - PDF)
 
 **Last updated:**
 
-30/06/2025
+19/01/2026
 
 [View](/mt/documents/product-information/xenpozyme-epar-product-information_mt.pdf)
 
-Nederlands (NL) (1.1 MB - PDF)
+Nederlands (NL) (1.25 MB - PDF)
 
 **First published:**
 
@@ -504,11 +577,11 @@ Nederlands (NL) (1.1 MB - PDF)
 
 **Last updated:**
 
-30/06/2025
+19/01/2026
 
 [View](/nl/documents/product-information/xenpozyme-epar-product-information_nl.pdf)
 
-norsk (NO) (619.5 KB - PDF)
+norsk (NO) (621.14 KB - PDF)
 
 **First published:**
 
@@ -516,11 +589,11 @@ norsk (NO) (619.5 KB - PDF)
 
 **Last updated:**
 
-30/06/2025
+19/01/2026
 
 [View](/no/documents/product-information/xenpozyme-epar-product-information_no.pdf)
 
-polski (PL) (862.75 KB - PDF)
+polski (PL) (790.42 KB - PDF)
 
 **First published:**
 
@@ -528,11 +601,11 @@ polski (PL) (862.75 KB - PDF)
 
 **Last updated:**
 
-30/06/2025
+19/01/2026
 
 [View](/pl/documents/product-information/xenpozyme-epar-product-information_pl.pdf)
 
-português (PT) (762.06 KB - PDF)
+português (PT) (766.53 KB - PDF)
 
 **First published:**
 
@@ -540,11 +613,11 @@ português (PT) (762.06 KB - PDF)
 
 **Last updated:**
 
-30/06/2025
+19/01/2026
 
 [View](/pt/documents/product-information/xenpozyme-epar-product-information_pt.pdf)
 
-română (RO) (861.16 KB - PDF)
+română (RO) (763.84 KB - PDF)
 
 **First published:**
 
@@ -552,11 +625,11 @@ română (RO) (861.16 KB - PDF)
 
 **Last updated:**
 
-30/06/2025
+19/01/2026
 
 [View](/ro/documents/product-information/xenpozyme-epar-product-information_ro.pdf)
 
-slovenčina (SK) (730.72 KB - PDF)
+slovenčina (SK) (751.36 KB - PDF)
 
 **First published:**
 
@@ -564,11 +637,11 @@ slovenčina (SK) (730.72 KB - PDF)
 
 **Last updated:**
 
-30/06/2025
+19/01/2026
 
 [View](/sk/documents/product-information/xenpozyme-epar-product-information_sk.pdf)
 
-slovenščina (SL) (757.32 KB - PDF)
+slovenščina (SL) (747.27 KB - PDF)
 
 **First published:**
 
@@ -576,11 +649,11 @@ slovenščina (SL) (757.32 KB - PDF)
 
 **Last updated:**
 
-30/06/2025
+19/01/2026
 
 [View](/sl/documents/product-information/xenpozyme-epar-product-information_sl.pdf)
 
-Suomi (FI) (1.08 MB - PDF)
+Suomi (FI) (906.6 KB - PDF)
 
 **First published:**
 
@@ -588,11 +661,11 @@ Suomi (FI) (1.08 MB - PDF)
 
 **Last updated:**
 
-30/06/2025
+19/01/2026
 
 [View](/fi/documents/product-information/xenpozyme-epar-product-information_fi.pdf)
 
-svenska (SV) (1.1 MB - PDF)
+svenska (SV) (851.13 KB - PDF)
 
 **First published:**
 
@@ -600,11 +673,11 @@ svenska (SV) (1.1 MB - PDF)
 
 **Last updated:**
 
-30/06/2025
+19/01/2026
 
 [View](/sv/documents/product-information/xenpozyme-epar-product-information_sv.pdf)
 
-**Latest procedure affecting product information:** II/0012/G 08/05/2025
+**Latest procedure affecting product information:** PSUR/0000282268 08/01/2026
 
 icon globe
 
@@ -630,7 +703,7 @@ English (EN) (51.64 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/xenpozyme-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-425)
+[Other languages (24)](#file-language-dropdown-496)
 
 български (BG) (68 KB - PDF)
 
@@ -954,7 +1027,7 @@ Sanofi B.V.
 
 Paasheuvelweg 25
 
-Opinion adopted 19/05/2022 Marketing authorisation issued 24/06/2022 Revision 7
+Opinion adopted 19/05/2022 Marketing authorisation issued 24/06/2022 Revision 8
 
 ## Assessment history
 
@@ -966,13 +1039,21 @@ Collapse section
 
 Xenpozyme : EPAR - Procedural steps taken and scientific information after authorisation
 
+English (EN) (134.19 KB - PDF)
+
+**First published:** 19/01/2026
+
+[View](/en/documents/procedural-steps-after/xenpozyme-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf)
+
+Xenpozyme : EPAR - Procedural steps taken and scientific information after authorisation (archive)
+
 English (EN) (156.05 KB - PDF)
 
 **First published:** 03/05/2023
 
-**Last updated:** 30/06/2025
+**Last updated:** 19/01/2026
 
-[View](/en/documents/procedural-steps-after/xenpozyme-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf)
+[View](/en/documents/procedural-steps-after/xenpozyme-epar-procedural-steps-taken-scientific-information-after-authorisation-archive_en.pdf)
 
 Xenpozyme-H-C-004850-P46-006 : EPAR - Assessment report
 
@@ -1034,7 +1115,7 @@ English (EN) (151.12 KB - PDF)
 
 - [EU/3/01/056 - orphan designation for treatment of Niemann-Pick disease](/en/medicines/human/orphan-designations/eu-3-01-056)
 
-**This page was last updated on** 30/06/2025
+**This page was last updated on** 19/01/2026
 
 ## Share this page
 

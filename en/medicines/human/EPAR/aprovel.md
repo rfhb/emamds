@@ -1,21 +1,96 @@
 ---
-document_datetime: 2025-12-29 07:23:58
+document_datetime: 2026-01-19 10:15:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/aprovel.html
 document_name: aprovel.html
 version: success
-processing_time: 0.1493178
-conversion_datetime: 2025-12-30 00:30:13.631632
+processing_time: 0.1930198
+conversion_datetime: 2026-01-20 20:17:09.836022
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.66.0
-  docling-core: 2.57.0
+  docling-serve: 1.10.0
+  docling-jobkit: 1.8.1
+  docling: 2.69.0
+  docling-core: 2.60.0
   docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-parse: 4.7.3
   python: cpython-313 (3.13.11)
   plaform: macOS-26.2-arm64-arm-64bit-Mach-O
 ---
+# Search
+
+- [Medicines](/en/medicines)
+    - [Find medicine](/en/medicines)
+    - [Therapeutic areas: latest updates](/en/medicines/therapeutic-areas-latest-updates)
+    - [Download medicine data](/en/medicines/download-medicine-data)
+    - [What we publish on medicines and when](/en/medicines/what-we-publish-medicines-when)
+    - [Medicines under evaluation](/en/medicines/medicines-human-use-under-evaluation)
+    - [National registers](/en/medicines/national-registers-authorised-medicines)
+- [Human regulatory](/en/human-regulatory-overview)
+    - [Overview](/en/human-regulatory-overview)
+    - [Research and development](/en/human-regulatory-overview/research-development)
+    - [Marketing authorisation](/en/human-regulatory-overview/marketing-authorisation)
+    - [Post-authorisation](/en/human-regulatory-overview/post-authorisation)
+    - [Medical devices](/en/human-regulatory-overview/medical-devices)
+    - [Herbal products](/en/human-regulatory-overview/herbal-medicinal-products)
+- [Veterinary regulatory](/en/veterinary-regulatory-overview)
+    - [Overview](/en/veterinary-regulatory-overview)
+    - [Research and development](/en/veterinary-regulatory-overview/research-development-veterinary-medicines)
+    - [Marketing authorisation](/en/veterinary-regulatory-overview/marketing-authorisation-veterinary-medicines)
+    - [Post-authorisation](/en/veterinary-regulatory-overview/post-authorisation-veterinary-medicines)
+- [Committees](/en/committees)
+    - [Overview](/en/committees)
+    - [How the committees work](/en/committees/how-committees-work)
+    - [CHMP](/en/committees/committee-medicinal-products-human-use-chmp)
+    - [CVMP](/en/committees/committee-veterinary-medicinal-products-cvmp)
+    - [PRAC](/en/committees/pharmacovigilance-risk-assessment-committee-prac)
+    - [COMP](/en/committees/committee-orphan-medicinal-products-comp)
+    - [HMPC](/en/committees/committee-herbal-medicinal-products-hmpc)
+    - [CAT](/en/committees/committee-advanced-therapies-cat)
+    - [PDCO](/en/committees/paediatric-committee-pdco)
+    - [Working parties and other groups](/en/committees/working-parties-other-groups)
+- [News &amp; events](/en/news-events)
+    - [Overview](/en/news-events)
+    - [News](/en/news)
+    - [Events](/en/events/upcoming-events)
+    - [What's new](/en/news-events/whats-new)
+    - [Committee highlights](/en/news-events/committee-highlights)
+    - [Publications](/en/news-and-events/publications)
+    - [Press and social media](/en/news-events/press-social-media)
+    - [Podcast: Inside EMA](/en/news-events/podcast-inside-ema)
+    - [Open consultations](/en/news-events/open-consultations)
+    - [RSS feeds](/en/news-events/rss-feeds)
+- [Partners &amp; networks](/en/partners-networks)
+    - [Overview](/en/partners-networks)
+    - [Animal health practitioners](/en/partners-networks/animal-health-practitioners)
+    - [One Health approach](/en/partners-networks/one-health-approach)
+    - [Academia](/en/partners-networks/academia)
+    - [EU partners](/en/partners-networks/eu-partners)
+    - [International activities](/en/partners-networks/international-activities)
+    - [Patients and consumers](/en/partners-networks/patients-consumers)
+    - [Healthcare professionals](/en/partners-networks/healthcare-professionals)
+    - [Pharmaceutical industry](/en/partners-networks/pharmaceutical-industry)
+    - [Networks](/en/partners-networks/networks)
+    - [Health technology assessment bodies](/en/partners-networks/health-technology-assessment-bodies)
+- [About us](/en/about-us)
+    - [Overview](/en/about-us)
+    - [What we do](/en/about-us/what-we-do)
+    - [Who we are](/en/about-us/who-we-are)
+    - [How we work](/en/about-us/how-we-work)
+    - [Fees](/en/about-us/fees-payable-european-medicines-agency)
+    - [Support to SMEs](/en/about-us/support-smes)
+    - [Annual reports and work programmes](/en/about-us/annual-reports-work-programmes)
+    - [History of EMA](/en/about-us/history-ema)
+    - [Careers](/en/about-us/careers)
+    - [Procurement](/en/about-us/procurement-grants)
+    - [Glossaries](/en/about-us/glossaries)
+    - [About this website](/en/about-us/about-website)
+    - [Data protection and privacy](/en/about-us/data-protection-privacy-ema)
+    - [Contacts](/en/about-us/contacts-european-medicines-agency)
+
+1. [Home](/en/homepage)
+2. [Medicines](https://www.ema.europa.eu/en/medicines)
+3. Aprovel
+
 # Aprovel
 
 [RSS](/en/individual-human-medicine.xml/66899)
@@ -25,8 +100,6 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 irbesartan Medicine Human Authorised
-
-On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -38,6 +111,7 @@ Page contents
 - [Authorisation details](#authorisation-details)
 - [Assessment history](#assessment-history)
 - [News on Aprovel](#news-on)
+- [Product information - with tracked changes](#product-information-with-tracked-changes-82832)
 - [More information on Aprovel](#more-information-on-aprovel-816)
 - [More information on Aprovel](#related-medicines)
 - [Topics](#topics)
@@ -110,7 +184,7 @@ English (EN) (74.21 KB - PDF)
 
 [View](/en/documents/overview/aprovel-epar-summary-public_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-146)
+[Other languages (22)](#file-language-dropdown-487)
 
 български (BG) (101.22 KB - PDF)
 
@@ -380,17 +454,17 @@ svenska (SV) (74.67 KB - PDF)
 
 Aprovel : EPAR - Product Information
 
-English (EN) (858.49 KB - PDF)
+English (EN) (939.38 KB - PDF)
 
 **First published:** 22/04/2009
 
-**Last updated:** 11/02/2025
+**Last updated:** 19/01/2026
 
 [View](/en/documents/product-information/aprovel-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-777)
+[Other languages (24)](#file-language-dropdown-884)
 
-български (BG) (1.31 MB - PDF)
+български (BG) (1.49 MB - PDF)
 
 **First published:**
 
@@ -398,11 +472,11 @@ English (EN) (858.49 KB - PDF)
 
 **Last updated:**
 
-11/02/2025
+19/01/2026
 
 [View](/bg/documents/product-information/aprovel-epar-product-information_bg.pdf)
 
-español (ES) (1021.79 KB - PDF)
+español (ES) (488.72 KB - PDF)
 
 **First published:**
 
@@ -410,11 +484,11 @@ español (ES) (1021.79 KB - PDF)
 
 **Last updated:**
 
-11/02/2025
+19/01/2026
 
 [View](/es/documents/product-information/aprovel-epar-product-information_es.pdf)
 
-čeština (CS) (1.06 MB - PDF)
+čeština (CS) (1.16 MB - PDF)
 
 **First published:**
 
@@ -422,11 +496,11 @@ español (ES) (1021.79 KB - PDF)
 
 **Last updated:**
 
-11/02/2025
+19/01/2026
 
 [View](/cs/documents/product-information/aprovel-epar-product-information_cs.pdf)
 
-dansk (DA) (814.98 KB - PDF)
+dansk (DA) (928 KB - PDF)
 
 **First published:**
 
@@ -434,11 +508,11 @@ dansk (DA) (814.98 KB - PDF)
 
 **Last updated:**
 
-11/02/2025
+19/01/2026
 
 [View](/da/documents/product-information/aprovel-epar-product-information_da.pdf)
 
-Deutsch (DE) (1003.83 KB - PDF)
+Deutsch (DE) (1.11 MB - PDF)
 
 **First published:**
 
@@ -446,11 +520,11 @@ Deutsch (DE) (1003.83 KB - PDF)
 
 **Last updated:**
 
-11/02/2025
+19/01/2026
 
 [View](/de/documents/product-information/aprovel-epar-product-information_de.pdf)
 
-eesti keel (ET) (778 KB - PDF)
+eesti keel (ET) (1015.55 KB - PDF)
 
 **First published:**
 
@@ -458,11 +532,11 @@ eesti keel (ET) (778 KB - PDF)
 
 **Last updated:**
 
-11/02/2025
+19/01/2026
 
 [View](/et/documents/product-information/aprovel-epar-product-information_et.pdf)
 
-ελληνικά (EL) (1.29 MB - PDF)
+ελληνικά (EL) (1.43 MB - PDF)
 
 **First published:**
 
@@ -470,11 +544,11 @@ eesti keel (ET) (778 KB - PDF)
 
 **Last updated:**
 
-11/02/2025
+19/01/2026
 
 [View](/el/documents/product-information/aprovel-epar-product-information_el.pdf)
 
-français (FR) (909 KB - PDF)
+français (FR) (1.14 MB - PDF)
 
 **First published:**
 
@@ -482,11 +556,11 @@ français (FR) (909 KB - PDF)
 
 **Last updated:**
 
-11/02/2025
+19/01/2026
 
 [View](/fr/documents/product-information/aprovel-epar-product-information_fr.pdf)
 
-hrvatski (HR) (941.88 KB - PDF)
+hrvatski (HR) (1 MB - PDF)
 
 **First published:**
 
@@ -494,11 +568,11 @@ hrvatski (HR) (941.88 KB - PDF)
 
 **Last updated:**
 
-11/02/2025
+19/01/2026
 
 [View](/hr/documents/product-information/aprovel-epar-product-information_hr.pdf)
 
-íslenska (IS) (805.22 KB - PDF)
+íslenska (IS) (1.31 MB - PDF)
 
 **First published:**
 
@@ -506,11 +580,11 @@ hrvatski (HR) (941.88 KB - PDF)
 
 **Last updated:**
 
-11/02/2025
+19/01/2026
 
 [View](/is/documents/product-information/aprovel-epar-product-information_is.pdf)
 
-italiano (IT) (988.54 KB - PDF)
+italiano (IT) (942.79 KB - PDF)
 
 **First published:**
 
@@ -518,11 +592,11 @@ italiano (IT) (988.54 KB - PDF)
 
 **Last updated:**
 
-11/02/2025
+19/01/2026
 
 [View](/it/documents/product-information/aprovel-epar-product-information_it.pdf)
 
-latviešu valoda (LV) (1.02 MB - PDF)
+latviešu valoda (LV) (1.26 MB - PDF)
 
 **First published:**
 
@@ -530,11 +604,11 @@ latviešu valoda (LV) (1.02 MB - PDF)
 
 **Last updated:**
 
-11/02/2025
+19/01/2026
 
 [View](/lv/documents/product-information/aprovel-epar-product-information_lv.pdf)
 
-lietuvių kalba (LT) (937.26 KB - PDF)
+lietuvių kalba (LT) (1.16 MB - PDF)
 
 **First published:**
 
@@ -542,11 +616,11 @@ lietuvių kalba (LT) (937.26 KB - PDF)
 
 **Last updated:**
 
-11/02/2025
+19/01/2026
 
 [View](/lt/documents/product-information/aprovel-epar-product-information_lt.pdf)
 
-magyar (HU) (666.19 KB - PDF)
+magyar (HU) (1.57 MB - PDF)
 
 **First published:**
 
@@ -554,11 +628,11 @@ magyar (HU) (666.19 KB - PDF)
 
 **Last updated:**
 
-11/02/2025
+19/01/2026
 
 [View](/hu/documents/product-information/aprovel-epar-product-information_hu.pdf)
 
-Malti (MT) (1.28 MB - PDF)
+Malti (MT) (1.41 MB - PDF)
 
 **First published:**
 
@@ -566,11 +640,11 @@ Malti (MT) (1.28 MB - PDF)
 
 **Last updated:**
 
-11/02/2025
+19/01/2026
 
 [View](/mt/documents/product-information/aprovel-epar-product-information_mt.pdf)
 
-Nederlands (NL) (880.25 KB - PDF)
+Nederlands (NL) (1.08 MB - PDF)
 
 **First published:**
 
@@ -578,11 +652,11 @@ Nederlands (NL) (880.25 KB - PDF)
 
 **Last updated:**
 
-11/02/2025
+19/01/2026
 
 [View](/nl/documents/product-information/aprovel-epar-product-information_nl.pdf)
 
-norsk (NO) (778.34 KB - PDF)
+norsk (NO) (1.82 MB - PDF)
 
 **First published:**
 
@@ -590,11 +664,11 @@ norsk (NO) (778.34 KB - PDF)
 
 **Last updated:**
 
-11/02/2025
+19/01/2026
 
 [View](/no/documents/product-information/aprovel-epar-product-information_no.pdf)
 
-polski (PL) (952.83 KB - PDF)
+polski (PL) (1.32 MB - PDF)
 
 **First published:**
 
@@ -602,11 +676,11 @@ polski (PL) (952.83 KB - PDF)
 
 **Last updated:**
 
-11/02/2025
+19/01/2026
 
 [View](/pl/documents/product-information/aprovel-epar-product-information_pl.pdf)
 
-português (PT) (808.33 KB - PDF)
+português (PT) (966.04 KB - PDF)
 
 **First published:**
 
@@ -614,11 +688,11 @@ português (PT) (808.33 KB - PDF)
 
 **Last updated:**
 
-11/02/2025
+19/01/2026
 
 [View](/pt/documents/product-information/aprovel-epar-product-information_pt.pdf)
 
-română (RO) (1.11 MB - PDF)
+română (RO) (1.21 MB - PDF)
 
 **First published:**
 
@@ -626,11 +700,11 @@ română (RO) (1.11 MB - PDF)
 
 **Last updated:**
 
-11/02/2025
+19/01/2026
 
 [View](/ro/documents/product-information/aprovel-epar-product-information_ro.pdf)
 
-slovenčina (SK) (1.01 MB - PDF)
+slovenčina (SK) (1.13 MB - PDF)
 
 **First published:**
 
@@ -638,11 +712,11 @@ slovenčina (SK) (1.01 MB - PDF)
 
 **Last updated:**
 
-11/02/2025
+19/01/2026
 
 [View](/sk/documents/product-information/aprovel-epar-product-information_sk.pdf)
 
-slovenščina (SL) (931.18 KB - PDF)
+slovenščina (SL) (1.19 MB - PDF)
 
 **First published:**
 
@@ -650,11 +724,11 @@ slovenščina (SL) (931.18 KB - PDF)
 
 **Last updated:**
 
-11/02/2025
+19/01/2026
 
 [View](/sl/documents/product-information/aprovel-epar-product-information_sl.pdf)
 
-Suomi (FI) (763.02 KB - PDF)
+Suomi (FI) (1015.23 KB - PDF)
 
 **First published:**
 
@@ -662,11 +736,11 @@ Suomi (FI) (763.02 KB - PDF)
 
 **Last updated:**
 
-11/02/2025
+19/01/2026
 
 [View](/fi/documents/product-information/aprovel-epar-product-information_fi.pdf)
 
-svenska (SV) (727.64 KB - PDF)
+svenska (SV) (1.03 MB - PDF)
 
 **First published:**
 
@@ -674,11 +748,11 @@ svenska (SV) (727.64 KB - PDF)
 
 **Last updated:**
 
-11/02/2025
+19/01/2026
 
 [View](/sv/documents/product-information/aprovel-epar-product-information_sv.pdf)
 
-**Latest procedure affecting product information:** VR/0000242076 11/02/2025
+**Latest procedure affecting product information:** VR/0000310720 15/01/2026
 
 icon globe
 
@@ -704,7 +778,7 @@ English (EN) (19.97 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/aprovel-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (20)](#file-language-dropdown-59)
+[Other languages (20)](#file-language-dropdown-1000)
 
 български (BG) (106.66 KB - PDF)
 
@@ -968,7 +1042,7 @@ Sanofi Winthrop Industrie
 
 82 Avenue Raspail
 
-Marketing authorisation issued 26/08/1997 Revision 50
+Marketing authorisation issued 26/08/1997 Revision 51
 
 ## Assessment history
 
@@ -980,11 +1054,11 @@ Collapse section
 
 Aprovel : EPAR - Procedural steps taken and scientific information after authorisation
 
-English (EN) (142.12 KB - PDF)
+English (EN) (148.65 KB - PDF)
 
 **First published:** 11/02/2025
 
-**Last updated:** 11/02/2025
+**Last updated:** 19/01/2026
 
 [View](/en/documents/procedural-steps-after/aprovel-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf)
 
@@ -1006,7 +1080,7 @@ English (EN) (99.42 KB - PDF)
 
 [View](/en/documents/scientific-conclusion/aprovel-epar-scientific-conclusions-annex-iv_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-374)
+[Other languages (22)](#file-language-dropdown-494)
 
 български (BG) (136.15 KB - PDF)
 
@@ -1218,7 +1292,7 @@ English (EN) (48.81 KB - PDF)
 
 [View](/en/documents/scientific-conclusion/aprovel-h-c-141-a31-0154-epar-scientific-conclusions-grounds-variation-terms-marketing-authorisations-and-detailed-explanation-scientific-grounds-differences-prac-recommenda_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-403)
+[Other languages (22)](#file-language-dropdown-333)
 
 български (BG) (87.49 KB - PDF)
 
@@ -1594,6 +1668,212 @@ English (EN) (492.74 KB - PDF)
 
 [European Medicines Agency recommendation on use of angiotensin-II-receptor antagonists during pregnancy](/en/news/european-medicines-agency-recommendation-use-angiotensin-ii-receptor-antagonists-during-pregnancy) 24/04/2008
 
+#### Product information - with tracked changes
+
+The approved product information for this medicine is available below showing the changes since the previous procedure affecting the product information. The same document without tracked changes is above under 'Product information'.
+
+Aprovel : EPAR - Product Information - tracked changes
+
+English (EN) (713 KB - DOC)
+
+**First published:** 19/01/2026
+
+[View](/en/documents/product-information-tracked-changes/aprovel-epar-product-information-tracked-changes_en.doc)
+
+[Other languages (24)](#file-language-dropdown-2)
+
+български (BG) (485.12 KB - DOCX)
+
+**First published:**
+
+19/01/2026
+
+[View](/bg/documents/product-information-tracked-changes/aprovel-epar-product-information-tracked-changes_bg.docx)
+
+español (ES) (367.27 KB - DOCX)
+
+**First published:**
+
+19/01/2026
+
+[View](/es/documents/product-information-tracked-changes/aprovel-epar-product-information-tracked-changes_es.docx)
+
+čeština (CS) (352.74 KB - DOCX)
+
+**First published:**
+
+19/01/2026
+
+[View](/cs/documents/product-information-tracked-changes/aprovel-epar-product-information-tracked-changes_cs.docx)
+
+dansk (DA) (397.75 KB - DOCX)
+
+**First published:**
+
+19/01/2026
+
+[View](/da/documents/product-information-tracked-changes/aprovel-epar-product-information-tracked-changes_da.docx)
+
+Deutsch (DE) (366.65 KB - DOCX)
+
+**First published:**
+
+19/01/2026
+
+[View](/de/documents/product-information-tracked-changes/aprovel-epar-product-information-tracked-changes_de.docx)
+
+eesti keel (ET) (328.54 KB - DOCX)
+
+**First published:**
+
+19/01/2026
+
+[View](/et/documents/product-information-tracked-changes/aprovel-epar-product-information-tracked-changes_et.docx)
+
+ελληνικά (EL) (463.03 KB - DOCX)
+
+**First published:**
+
+19/01/2026
+
+[View](/el/documents/product-information-tracked-changes/aprovel-epar-product-information-tracked-changes_el.docx)
+
+français (FR) (328.47 KB - DOCX)
+
+**First published:**
+
+19/01/2026
+
+[View](/fr/documents/product-information-tracked-changes/aprovel-epar-product-information-tracked-changes_fr.docx)
+
+hrvatski (HR) (404.79 KB - DOCX)
+
+**First published:**
+
+19/01/2026
+
+[View](/hr/documents/product-information-tracked-changes/aprovel-epar-product-information-tracked-changes_hr.docx)
+
+íslenska (IS) (340.66 KB - DOCX)
+
+**First published:**
+
+19/01/2026
+
+[View](/is/documents/product-information-tracked-changes/aprovel-epar-product-information-tracked-changes_is.docx)
+
+italiano (IT) (328.02 KB - DOCX)
+
+**First published:**
+
+19/01/2026
+
+[View](/it/documents/product-information-tracked-changes/aprovel-epar-product-information-tracked-changes_it.docx)
+
+latviešu valoda (LV) (335.16 KB - DOCX)
+
+**First published:**
+
+19/01/2026
+
+[View](/lv/documents/product-information-tracked-changes/aprovel-epar-product-information-tracked-changes_lv.docx)
+
+lietuvių kalba (LT) (345.47 KB - DOCX)
+
+**First published:**
+
+19/01/2026
+
+[View](/lt/documents/product-information-tracked-changes/aprovel-epar-product-information-tracked-changes_lt.docx)
+
+magyar (HU) (421.49 KB - DOCX)
+
+**First published:**
+
+19/01/2026
+
+[View](/hu/documents/product-information-tracked-changes/aprovel-epar-product-information-tracked-changes_hu.docx)
+
+Malti (MT) (1.42 MB - DOC)
+
+**First published:**
+
+19/01/2026
+
+[View](/mt/documents/product-information-tracked-changes/aprovel-epar-product-information-tracked-changes_mt.doc)
+
+Nederlands (NL) (351.94 KB - DOCX)
+
+**First published:**
+
+19/01/2026
+
+[View](/nl/documents/product-information-tracked-changes/aprovel-epar-product-information-tracked-changes_nl.docx)
+
+norsk (NO) (300.27 KB - DOCX)
+
+**First published:**
+
+19/01/2026
+
+[View](/no/documents/product-information-tracked-changes/aprovel-epar-product-information-tracked-changes_no.docx)
+
+polski (PL) (350.11 KB - DOCX)
+
+**First published:**
+
+19/01/2026
+
+[View](/pl/documents/product-information-tracked-changes/aprovel-epar-product-information-tracked-changes_pl.docx)
+
+português (PT) (291.94 KB - DOCX)
+
+**First published:**
+
+19/01/2026
+
+[View](/pt/documents/product-information-tracked-changes/aprovel-epar-product-information-tracked-changes_pt.docx)
+
+română (RO) (386.93 KB - DOCX)
+
+**First published:**
+
+19/01/2026
+
+[View](/ro/documents/product-information-tracked-changes/aprovel-epar-product-information-tracked-changes_ro.docx)
+
+slovenčina (SK) (369.69 KB - DOCX)
+
+**First published:**
+
+19/01/2026
+
+[View](/sk/documents/product-information-tracked-changes/aprovel-epar-product-information-tracked-changes_sk.docx)
+
+slovenščina (SL) (346.09 KB - DOCX)
+
+**First published:**
+
+19/01/2026
+
+[View](/sl/documents/product-information-tracked-changes/aprovel-epar-product-information-tracked-changes_sl.docx)
+
+Suomi (FI) (306.91 KB - DOCX)
+
+**First published:**
+
+19/01/2026
+
+[View](/fi/documents/product-information-tracked-changes/aprovel-epar-product-information-tracked-changes_fi.docx)
+
+svenska (SV) (324.58 KB - DOCX)
+
+**First published:**
+
+19/01/2026
+
+[View](/sv/documents/product-information-tracked-changes/aprovel-epar-product-information-tracked-changes_sv.docx)
+
 #### More information on Aprovel
 
 - [Renin-angiotensin-system (RAS)-acting agents: Article-31 referral](/en/medicines/human/referrals/renin-angiotensin-system-ras-acting-agents)
@@ -1619,7 +1899,7 @@ English (EN) (511.41 KB - PDF)
 
 - [Medicines](https://www.ema.europa.eu/en/search?f%5B0%5D=ema_search_topics%3A61)
 
-**This page was last updated on** 11/02/2025
+**This page was last updated on** 19/01/2026
 
 ## Share this page
 

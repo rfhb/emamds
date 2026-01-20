@@ -1,18 +1,18 @@
 ---
-document_datetime: 2025-01-06 16:53:59
-document_pages: 46
+document_datetime: 2026-01-19 17:22:29
+document_pages: 47
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/abiraterone-mylan-epar-product-information_en.pdf
 document_name: abiraterone-mylan-epar-product-information_en.pdf
 version: success
-processing_time: 15.455131
-conversion_datetime: 2025-12-23 03:28:57.543501
+processing_time: 21.3518775
+conversion_datetime: 2026-01-20 20:27:12.383456
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.64.1
-  docling-core: 2.55.0
+  docling-serve: 1.10.0
+  docling-jobkit: 1.8.1
+  docling: 2.69.0
+  docling-core: 2.60.0
   docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-parse: 4.7.3
   python: cpython-313 (3.13.11)
   plaform: macOS-26.2-arm64-arm-64bit-Mach-O
 ---
@@ -66,19 +66,16 @@ White to off-white, oval-shaped film-coated tablet, with a break line on one sid
 
 Abiraterone Mylan is indicated with prednisone or prednisolone for:
 
-- [ ]  the treatment of newly diagnosed high risk metastatic hormone sensitive prostate cancer (mHSPC) in adult men in combination with androgen deprivation therapy (ADT) (see section 5.1).
-
-- [ ]  the treatment of metastatic castration resistant prostate cancer (mCRPC) in adult men who are asymptomatic or mildly symptomatic after failure of androgen deprivation therapy in whom chemotherapy is not yet clinically indicated (see section 5.1).
-
-- [ ]  the treatment of mCRPC in adult men whose disease has progressed on or after a docetaxel based chemotherapy regimen.
+- the treatment of newly diagnosed high risk metastatic hormone sensitive prostate cancer (mHSPC) in adult men in combination with androgen deprivation therapy (ADT) (see section 5.1).the treatment of metastatic castration resistant prostate cancer (mCRPC) in adult men who are asymptomatic or mildly symptomatic after failure of androgen deprivation therapy in whom chemotherapy is not yet clinically indicated (see section 5.1).
+- the treatment of mCRPC in adult men whose disease has progressed on or after a docetaxel based chemotherapy regimen.
 
 ## 4.2 Posology and method of administration
 
 This medicinal product should be prescribed by an appropriate healthcare professional.
 
-<div style=\"page-break-after: always\"></div>
-
 ## Posology
+
+<div style=\"page-break-after: always\"></div>
 
 The recommended dose is 1000 mg (two 500 mg tablets or one 1000 mg tablet) as a single daily dose that must not be taken with food (see 'Method of administration' below). Taking the tablets with food increases the systemic exposure of abiraterone (see sections 4.5 and 5.2).
 
@@ -120,7 +117,7 @@ There is no relevant use of Abiraterone Mylan in the paediatric population.
 
 ## Method of administration
 
-Abiraterone Mylan is for oral use.
+## Abiraterone Mylan is for oral use.
 
 The tablet(s) must be taken as a single dose once daily on an empty stomach. Abiraterone Mylan must be taken at least two hours after eating and food must not be eaten for least one hour after taking the tablets. The 500 mg tablet(s) must be swallowed whole with water.
 
@@ -128,13 +125,10 @@ Abiraterone Mylan 1000 mg film-coated tablets can be divided to make it easier f
 
 ## 4.3 Contraindications
 
-- [ ]  Hypersensitivity to the active substance or to any of the excipients listed in section 6.1.
-
-- [ ]  Women who are or may potentially be pregnant (see section 4.6).
-
-- [ ]  Severe hepatic impairment [Child-Pugh Class C (see sections 4.2, 4.4 and 5.2)].
-
-- [ ]  Abiraterone Mylan with prednisone or prednisolone is contraindicated in combination with Ra-223.
+- Hypersensitivity to the active substance or to any of the excipients listed in section 6.1.
+- Women who are or may potentially be pregnant (see section 4.6).
+- Severe hepatic impairment [Child-Pugh Class C (see sections 4.2, 4.4 and 5.2)].
+- Abiraterone Mylan with prednisone or prednisolone is contraindicated in combination with Ra-223.
 
 ## 4.4 Special warnings and precautions for use
 
@@ -144,11 +138,13 @@ Abiraterone Mylan should be used with caution in patients with a history of card
 
 Before treating patients with a significant risk for congestive heart failure (e.g. a history of cardiac failure, uncontrolled hypertension, or cardiac events such as ischaemic heart disease), consider obtaining an assessment of cardiac function (e.g. echocardiogram). Before treatment with Abiraterone Mylan, cardiac failure should be treated and cardiac function optimised. Hypertension, hypokalaemia and fluid retention should be corrected and controlled. During treatment, blood pressure, serum potassium, fluid retention (weight gain, peripheral oedema), and other signs and symptoms of congestive heart failure should be monitored every 2 weeks for 3 months, then monthly thereafter and abnormalities corrected. QT prolongation has been observed in patients experiencing hypokalaemia in association with abiraterone treatment. Assess cardiac function as clinically indicated, institute appropriate management and consider discontinuation of this treatment if there is a clinically significant decrease in cardiac function (see section 4.2).
 
-Hepatotoxicity and hepatic impairment
+## Hepatotoxicity and hepatic impairment
+
+Marked increases in liver enzymes leading to treatment discontinuation or dose modification occurred in controlled clinical studies (see section 4.8). Serum transaminase levels should be measured prior to starting treatment, every two weeks for the first three months of treatment, and monthly thereafter. If
 
 <div style=\"page-break-after: always\"></div>
 
-Marked increases in liver enzymes leading to treatment discontinuation or dose modification occurred in controlled clinical studies (see section 4.8). Serum transaminase levels should be measured prior to starting treatment, every two weeks for the first three months of treatment, and monthly thereafter. If clinical symptoms or signs suggestive of hepatotoxicity develop, serum transaminases should be measured immediately. If at any time the ALT or AST rises above 5 times the ULN, treatment should be interrupted immediately and liver function closely monitored. Re-treatment may take place only after return of liver function tests to the patient's baseline and at a reduced dose level (see section 4.2).
+clinical symptoms or signs suggestive of hepatotoxicity develop, serum transaminases should be measured immediately. If at any time the ALT or AST rises above 5 times the ULN, treatment should be interrupted immediately and liver function closely monitored. Re-treatment may take place only after return of liver function tests to the patient's baseline and at a reduced dose level (see section 4.2).
 
 If patients develop severe hepatotoxicity (ALT or AST 20 times the ULN) anytime while on therapy, treatment should be discontinued and patients should not be re-treated.
 
@@ -188,11 +184,13 @@ The safety and efficacy of the concomitant use of abiraterone acetate with cytot
 
 Anaemia and sexual dysfunction may occur in men with metastatic prostate cancer including those undergoing treatment with Abiraterone Mylan.
 
-<div style=\"page-break-after: always\"></div>
-
 ## Skeletal muscle effects
 
-Cases of myopathy and rhabdomyolysis have been reported in patients treated with abiraterone acetate. Most cases developed within the first 6 months of treatment and recovered after abiraterone acetate withdrawal. Caution is recommended in patients concomitantly treated with medicinal products known to be associated with myopathy/rhabdomyolysis.
+Cases of myopathy and rhabdomyolysis have been reported in patients treated with abiraterone acetate. Most cases developed within the first 6 months of treatment and recovered after abiraterone acetate
+
+<div style=\"page-break-after: always\"></div>
+
+withdrawal. Caution is recommended in patients concomitantly treated with medicinal products known to be associated with myopathy/rhabdomyolysis.
 
 ## Interactions with other medicinal products
 
@@ -230,11 +228,11 @@ In a separate clinical pharmacokinetic interaction study of healthy subjects, co
 
 Abiraterone is an inhibitor of the hepatic drug-metabolising enzymes CYP2D6 and CYP2C8. In a study to determine the effects of abiraterone acetate (plus prednisone) on a single dose of the CYP2D6 substrate dextromethorphan, the systemic exposure (AUC) of dextromethorphan was increased approximately 2.9 fold. The AUC24 for dextrorphan, the active metabolite of dextromethorphan, increased approximately 33%.
 
-Caution is advised when administering with medicinal products activated by or metabolised by CYP2D6, particularly with medicinal products that have a narrow therapeutic index. Dose reduction of
+Caution is advised when administering with medicinal products activated by or metabolised by CYP2D6, particularly with medicinal products that have a narrow therapeutic index. Dose reduction of medicinal products with a narrow therapeutic index that are metabolised by CYP2D6 should be considered. Examples of medicinal products metabolised by CYP2D6 include metoprolol, propranolol, desipramine, venlafaxine, haloperidol, risperidone, propafenone, flecainide, codeine, oxycodone and
 
 <div style=\"page-break-after: always\"></div>
 
-medicinal products with a narrow therapeutic index that are metabolised by CYP2D6 should be considered. Examples of medicinal products metabolised by CYP2D6 include metoprolol, propranolol, desipramine, venlafaxine, haloperidol, risperidone, propafenone, flecainide, codeine, oxycodone and tramadol (the latter three medicinal products requiring CYP2D6 to form their active analgesic metabolites).
+tramadol (the latter three medicinal products requiring CYP2D6 to form their active analgesic metabolites).
 
 In a CYP2C8 drug-drug interaction study in healthy subjects, the AUC of pioglitazone was increased by 46% and the AUCs for M-III and M-IV, the active metabolites of pioglitazone, each decreased by 10% when pioglitazone was given together with a single dose of 1000 mg abiraterone acetate. Patients should be monitored for signs of toxicity related to a CYP2C8 substrate with a narrow therapeutic index if used concomitantly. Examples of medicinal products metabolised by CYP2C8 include pioglitazone and repaglinide (see section 4.4).
 
@@ -276,11 +274,13 @@ Abiraterone Mylan has no or negligible influence on the ability to drive and use
 
 ## 4.8 Undesirable effects
 
-<div style=\"page-break-after: always\"></div>
-
 ## Summary of the safety profile
 
-In an analysis of adverse reactions of composite Phase 3 studies with abiraterone acetate, adverse reactions that were observed in ≥ 10 % of patients were peripheral oedema, hypokalaemia, hypertension, urinary tract infection, and alanine aminotransferase increased and/or aspartate aminotransferase increased. Other important adverse reactions include, cardiac disorders, hepatotoxicity, fractures, and allergic alveolitis.
+In an analysis of adverse reactions of composite Phase 3 studies with abiraterone acetate, adverse
+
+<div style=\"page-break-after: always\"></div>
+
+reactions that were observed in ≥ 10 % of patients were peripheral oedema, hypokalaemia, hypertension, urinary tract infection, and alanine aminotransferase increased and/or aspartate aminotransferase increased. Other important adverse reactions include, cardiac disorders, hepatotoxicity, fractures, and allergic alveolitis.
 
 Abiraterone may cause hypertension, hypokalaemia and fluid retention as a pharmacodynamic consequence of its mechanism of action. In Phase 3 studies, anticipated mineralocorticoid adverse reactions were seen more commonly in patients treated with abiraterone acetate than in patients treated with placebo: hypokalaemia 18% vs. 8%, hypertension 22% vs. 16% and fluid retention (peripheral oedema) 23% vs. 17%, respectively. In patients treated with abiraterone acetate versus patients treated with placebo: CTCAE (version 4.0) Grades 3 and 4 hypokalaemia were observed in 6% vs. 1%, CTCAE (version 4.0) Grades 3 and 4 hypertension were observed in 7% vs. 5%, and fluid retention (peripheral oedema) Grades 3 and 4 were observed in 1% vs. 1% of patients, respectively. Mineralocorticoid reactions generally were able to be successfully managed medically. Concomitant use of a corticosteroid reduces the incidence and severity of these adverse reactions (see section 4.4).
 
@@ -294,26 +294,26 @@ Within each frequency grouping, undesirable effects are presented in order of de
 
 Table 1: Adverse reactions identified in clinical studies and post-marketing
 
-| System Organ Class                              | Adverse reaction and frequency                                                                                                                                                       |
-|-------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Infections and infestations                     | very common: urinary tract infection common: sepsis                                                                                                                                  |
-| Immune system disorders                         | not known: anaphylactic reactions                                                                                                                                                    |
-| Endocrine disorders                             | uncommon: adrenal insufficiency                                                                                                                                                      |
-| Metabolism and nutrition disorders              | very common: hypokalaemia common: hypertriglyceridaemia                                                                                                                              |
-| Cardiac disorders                               | common: cardiac failure*, angina pectoris, atrial fibrillation, tachycardia uncommon: other arrhythmias not known: myocardial infarction, QT prolongation (see sections 4.4 and 4.5) |
-| Vascular disorders                              | very common: hypertension                                                                                                                                                            |
-| Respiratory, thoracic and mediastinal disorders | rare: allergic alveolitis a                                                                                                                                                          |
-| Gastrointestinal disorders                      | very common: diarrhoea common: dyspepsia                                                                                                                                             |
-| Hepatobiliary disorders                         | very common: alanine aminotransferase increased and/or aspartate aminotransferase increased b rare: hepatitis fulminant, acute hepatic failure                                       |
-| Skin and subcutaneous tissue disorders          | common: rash                                                                                                                                                                         |
+| System Organ Class                              | Adverse reaction and frequency                                                                                                                                                      |
+|-------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Infections and infestations                     | very common: urinary tract infection common: sepsis                                                                                                                                 |
+| Immune system disorders                         | not known: anaphylactic reactions                                                                                                                                                   |
+| Endocrine disorders                             | uncommon: adrenal insufficiency                                                                                                                                                     |
+| Metabolism and nutrition disorders              | very common: hypokalaemia common: hypertriglyceridaemia                                                                                                                             |
+| Cardiac disorders                               | common: cardiac failure*, angina pectoris, atrial fibrillation, tachycardia uncommon: other arrhythmias not known: myocardial infarction, QTprolongation (see sections 4.4 and 4.5) |
+| Vascular disorders                              | very common: hypertension                                                                                                                                                           |
+| Respiratory, thoracic and mediastinal disorders | rare: allergic alveolitis a                                                                                                                                                         |
+| Gastrointestinal disorders                      | very common: diarrhoea common: dyspepsia                                                                                                                                            |
+| Hepatobiliary disorders                         | very common: alanine aminotransferase increased and/or aspartate aminotransferase increased b rare: hepatitis fulminant, acute hepatic failure                                      |
+| Skin and subcutaneous tissue disorders          | common: rash                                                                                                                                                                        |
+| Musculoskeletal and connective tissue disorders | uncommon: myopathy, rhabdomyolysis                                                                                                                                                  |
+| Renal and urinary disorders                     | common: haematuria                                                                                                                                                                  |
 
 <div style=\"page-break-after: always\"></div>
 
-| Musculoskeletal and connective tissue disorders      | uncommon: myopathy, rhabdomyolysis   |
-|------------------------------------------------------|--------------------------------------|
-| Renal and urinary disorders                          | common: haematuria                   |
-| General disorders and administration site conditions | very common: oedema peripheral       |
-| Injury, poisoning and procedural complications       | common: fractures**                  |
+| General disorders and administration site conditions   | very common: oedema peripheral   |
+|--------------------------------------------------------|----------------------------------|
+| Injury, poisoning and procedural complications         | common: fractures**              |
 
 * Cardiac failure also includes congestive heart failure, left ventricular dysfunction and ejection fraction decreased.
 - ** Fractures includes osteoporosis and all fractures with the exception of pathological fractures
@@ -334,11 +334,11 @@ The three Phase 3 studies excluded patients with uncontrolled hypertension, clin
 
 ## Hepatotoxicity
 
-Hepatotoxicity with elevated ALT, AST and total bilirubin has been reported in patients treated with abiraterone acetate. Across Phase 3 clinical studies, hepatotoxicity grades 3 and 4 (e.g., ALT or AST increases of &gt; 5 x ULN or bilirubin increases &gt; 1.5 x ULN) were reported in approximately 6% of patients who received abiraterone acetate, typically during the first 3 months after starting treatment. In Study 3011, grade 3 or 4 hepatotoxicity was observed in 8.4% of patients treated with abiraterone. Ten patients who received abiraterone were discontinued because of hepatotoxicity; two had Grade 2 hepatotoxicity, six had Grade 3 hepatotoxicity, and two had Grade 4 hepatotoxicity. No patient died of hepatotoxicity in Study 3011. In the Phase 3 clinical studies, patients whose baseline ALT or AST were elevated were more likely to experience liver function test elevations than those beginning with normal values. When elevations of either ALT or AST &gt; 5 x ULN, or elevations in bilirubin &gt; 3 x ULN were observed, abiraterone acetate was withheld or discontinued. In two instances marked
+Hepatotoxicity with elevated ALT, AST and total bilirubin has been reported in patients treated with abiraterone acetate. Across Phase 3 clinical studies, hepatotoxicity grades 3 and 4 (e.g., ALT or AST increases of &gt; 5 x ULN or bilirubin increases &gt; 1.5 x ULN) were reported in approximately 6% of patients who received abiraterone acetate, typically during the first 3 months after starting treatment. In Study 3011, grade 3 or 4 hepatotoxicity was observed in 8.4% of patients treated with abiraterone. Ten patients who received abiraterone were discontinued because of hepatotoxicity; two had Grade 2 hepatotoxicity, six had Grade 3 hepatotoxicity, and two had Grade 4 hepatotoxicity. No patient died of hepatotoxicity in Study 3011. In the Phase 3 clinical studies, patients whose baseline ALT or AST were elevated were more likely to experience liver function test elevations than those beginning with normal values. When elevations of either ALT or AST &gt; 5 x ULN, or elevations in bilirubin &gt; 3 x ULN were observed, abiraterone acetate was withheld or discontinued. In two instances marked increases in liver function tests occurred (see section 4.4). These two patients with normal baseline hepatic function, experienced ALT or AST elevations 15 to 40 x ULN and bilirubin elevations 2 to 6 x ULN. Upon discontinuation of treatment, both patients had normalisation of their liver function tests and one patient was re-treated without recurrence of the elevations. In study 302, Grade 3 or 4 ALT or
 
 <div style=\"page-break-after: always\"></div>
 
-increases in liver function tests occurred (see section 4.4). These two patients with normal baseline hepatic function, experienced ALT or AST elevations 15 to 40 x ULN and bilirubin elevations 2 to 6 x ULN. Upon discontinuation of treatment, both patients had normalisation of their liver function tests and one patient was re-treated without recurrence of the elevations. In study 302, Grade 3 or 4 ALT or AST elevations were observed in 35 (6.5%) patients treated with abiraterone acetate. Aminotransferase elevations resolved in all but 3 patients (2 with new multiple liver metastases and 1 with AST elevation approximately 3 weeks after the last dose of abiraterone acetate). In Phase 3 clinical studies, treatment discontinuations due to ALT and AST increases or abnormal hepatic function were reported in 1.1% of patients treated with abiraterone acetate and 0.6% of patients treated with placebo; no deaths were reported due to hepatotoxicity events.
+AST elevations were observed in 35 (6.5%) patients treated with abiraterone acetate. Aminotransferase elevations resolved in all but 3 patients (2 with new multiple liver metastases and 1 with AST elevation approximately 3 weeks after the last dose of abiraterone acetate). In Phase 3 clinical studies, treatment discontinuations due to ALT and AST increases or abnormal hepatic function were reported in 1.1% of patients treated with abiraterone acetate and 0.6% of patients treated with placebo; no deaths were reported due to hepatotoxicity events.
 
 In clinical studies, the risk for hepatotoxicity was mitigated by exclusion of patients with baseline hepatitis or significant abnormalities of liver function tests. In the 3011 study, patients with baseline ALT and AST &gt; 2.5 x ULN, bilirubin &gt; 1.5 x ULN or those with active or symptomatic viral hepatitis or chronic liver disease; ascites or bleeding disorders secondary to hepatic dysfunction were excluded. In the 301 study, patients with baseline ALT and AST ≥ 2.5 x ULN in the absence of liver metastases and &gt; 5 x ULN in the presence of liver metastases were excluded. In the 302 study, patients with liver metastases were not eligible and patients with baseline ALT and AST ≥ 2.5 x ULN were excluded. Abnormal liver function tests developing in patients participating in clinical studies were vigorously managed by requiring treatment interruption and permitting re-treatment only after return of liver function tests to the patient's baseline (see section 4.2). Patients with elevations of ALT or AST &gt; 20 x ULN were not re-treated. The safety of re-treatment in such patients is unknown. The mechanism for hepatotoxicity is not understood.
 
@@ -362,13 +362,11 @@ Pharmacotherapeutic group: endocrine therapy, other hormone antagonists and rela
 
 Abiraterone acetate is converted in vivo to abiraterone, an androgen biosynthesis inhibitor. Specifically, abiraterone selectively inhibits the enzyme 17α-hydroxylase/C17,20-lyase (CYP17). This enzyme is expressed in and is required for androgen biosynthesis in testicular, adrenal and prostatic tumour tissues. CYP17 catalyses the conversion of pregnenolone and progesterone into testosterone precursors, DHEA and androstenedione, respectively, by 17α-hydroxylation and cleavage of the C17,20 bond. CYP17 inhibition also results in increased mineralocorticoid production by the adrenals (see section 4.4).
 
-Androgen-sensitive prostatic carcinoma responds to treatment that decreases androgen levels. Androgen deprivation therapies, such as treatment with LHRH analogues or orchiectomy, decrease androgen production in the testes but do not affect androgen production by the adrenals or in the
-
-<div style=\"page-break-after: always\"></div>
-
-tumour. Treatment with abiraterone decreases serum testosterone to undetectable levels (using commercial assays) when given with LHRH analogues (or orchiectomy).
+Androgen-sensitive prostatic carcinoma responds to treatment that decreases androgen levels. Androgen deprivation therapies, such as treatment with LHRH analogues or orchiectomy, decrease androgen production in the testes but do not affect androgen production by the adrenals or in the tumour. Treatment with abiraterone decreases serum testosterone to undetectable levels (using commercial assays) when given with LHRH analogues (or orchiectomy).
 
 ## Pharmacodynamic effects
+
+<div style=\"page-break-after: always\"></div>
 
 Abiraterone acetate decreases serum testosterone and other androgens to levels lower than those achieved by the use of LHRH analogues alone or by orchiectomy. This results from the selective inhibition of the CYP17 enzyme required for androgen biosynthesis. PSA serves as a biomarker in patients with prostate cancer. In a Phase 3 clinical study of patients who failed prior chemotherapy with taxanes, 38% of patients treated with abiraterone acetate, versus 10% of patients treated with placebo, had at least a 50% decline from baseline in PSA levels.
 
@@ -390,17 +388,18 @@ A significant difference in rPFS between treatment groups was observed (see Tabl
 
 <div style=\"page-break-after: always\"></div>
 
-| Table 2:                | Radiographic progression-free survival - stratified analysis; intent-to treat population (Study PCR3011)   | Radiographic progression-free survival - stratified analysis; intent-to treat population (Study PCR3011)   |
-|-------------------------|------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------|
-|                         | AA-P                                                                                                       | Placebo                                                                                                    |
-| Subjects randomised     | 597                                                                                                        | 602                                                                                                        |
-| Event                   | 239 (40.0%)                                                                                                | 354 (58.8%)                                                                                                |
-| Censored                | 358 (60.0%)                                                                                                | 248 (41.2%)                                                                                                |
-| Time to event (months)  |                                                                                                            |                                                                                                            |
-| Median (95% CI)         | 33.02 (29.57, NE)                                                                                          | 14.78 (14.69, 18.27)                                                                                       |
-| Range                   | (0.0+, 41.0+)                                                                                              | (0.0+, 40.6+)                                                                                              |
-| p value a               | < 0.0001                                                                                                   |                                                                                                            |
-| Hazard ratio (95% CI) b | 0.466 (0.394, 0.550)                                                                                       |                                                                                                            |
+Table 2: Radiographic progression-free survival - stratified analysis; intent-to treat population (Study PCR3011)
+
+|                         | AA-P                 | Placebo              |
+|-------------------------|----------------------|----------------------|
+| Subjects randomised     | 597                  | 602                  |
+| Event                   | 239 (40.0%)          | 354 (58.8%)          |
+| Censored                | 358 (60.0%)          | 248 (41.2%)          |
+| Time to event (months)  |                      |                      |
+| Median (95% CI)         | 33.02 (29.57, NE)    | 14.78 (14.69, 18.27) |
+| Range                   | (0.0+, 41.0+)        | (0.0+, 40.6+)        |
+| p value a               | < 0.0001             |                      |
+| Hazard ratio (95% CI) b | 0.466 (0.394, 0.550) |                      |
 
 Note: += censored observation, NE=not estimable. The radiographic progression and death are considered in defining the rPFS event. AA-P= subjects who received abiraterone acetate and prednisone.
 
@@ -415,17 +414,18 @@ A statistically significant improvement in OS in favour of AA-P plus ADT was obs
 
 <div style=\"page-break-after: always\"></div>
 
-| Table 3:   | Overall survival of patients treated with either abiraterone acetate or placebos in study PCR3011 (intent-to-treat analysis)   | Overall survival of patients treated with either abiraterone acetate or placebos in study PCR3011 (intent-to-treat analysis)   | Overall survival of patients treated with either abiraterone acetate or placebos in study PCR3011 (intent-to-treat analysis)   |
-|------------|--------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------|
-|            | Overall Survival                                                                                                               | Abiraterone acetate with Prednisone (N=597)                                                                                    | Placebos (N=602)                                                                                                               |
-|            | Deaths (%)                                                                                                                     | 275 (46%)                                                                                                                      | 343 (57%)                                                                                                                      |
-|            | Median survival (months)                                                                                                       | 53.3                                                                                                                           | 36.5                                                                                                                           |
-|            | (95% CI)                                                                                                                       | (48.2, NE)                                                                                                                     | (33.5, 40.0)                                                                                                                   |
-|            | Hazard ratio (95% CI) 1                                                                                                        |                                                                                                                                | 0.66 (0.56, 0.78)                                                                                                              |
+Table 3: Overall survival of patients treated with either abiraterone acetate or placebos in study PCR3011 (intent-to-treat analysis)
+
+| Overall Survival         | Abiraterone acetate with Prednisone (N=597)   | Placebos (N=602)   |
+|--------------------------|-----------------------------------------------|--------------------|
+| Deaths (%)               | 275 (46%)                                     | 343 (57%)          |
+| Median survival (months) | 53.3                                          | 36.5               |
+| (95% CI)                 | (48.2, NE)                                    | (33.5, 40.0)       |
+| Hazard ratio (95% CI) 1  | 0.66 (0.56, 0.78)                             | 0.66 (0.56, 0.78)  |
 
 NE=Not estimable
 
-1 Hazard Ratio is derived from a stratified proportional hazards model. Hazard ratio  1 favours abiraterone acetate with prednisone.
+1  Hazard Ratio is derived from a stratified proportional hazards model. Hazard ratio  1 favours abiraterone acetate with prednisone.
 
 Figure 2: Kaplan-Meier plot of overall survival; intent-to-treat population in study PCR3011 analysis
 
@@ -439,11 +439,11 @@ In addition to the observed improvements in overall survival and rPFS, benefit w
 
 This study enrolled chemotherapy naïve patients who were asymptomatic or mildly symptomatic and for whom chemotherapy was not yet clinically indicated. A score of 0-1 on Brief Pain Inventory-Short Form (BPI-SF) worst pain in last 24 hours was considered asymptomatic, and a score of 2-3 was considered mildly symptomatic.
 
-In study 302, (n = 1,088) the median age of enrolled patients was 71 years for patients treated with abiraterone acetate plus prednisone or prednisolone and 70 years for patients treated with placebo plus prednisone or prednisolone. The number of patients treated with abiraterone acetate by racial group
+In study 302, (n = 1,088) the median age of enrolled patients was 71 years for patients treated with abiraterone acetate plus prednisone or prednisolone and 70 years for patients treated with placebo plus prednisone or prednisolone. The number of patients treated with abiraterone acetate by racial group was Caucasian 520 (95.4%), Black 15 (2.8%), Asian 4 (0.7%) and other 6 (1.1%). The Eastern
 
 <div style=\"page-break-after: always\"></div>
 
-was Caucasian 520 (95.4%), Black 15 (2.8%), Asian 4 (0.7%) and other 6 (1.1%). The Eastern Cooperative Oncology Group (ECOG) performance status was 0 for 76% of patients, and 1 for 24% of patients in both arms. Fifty percent of patients had only bone metastases, an additional 31% of patients had bone and soft tissue or lymph node metastases and 19% of patients had only soft tissue or lymph node metastases. Patients with visceral metastases were excluded. Co-primary efficacy endpoints were overall survival and radiographic progression-free survival (rPFS). In addition to the co-primary endpoint measures, benefit was also assessed using time to opiate use for cancer pain, time to initiation of cytotoxic chemotherapy, time to deterioration in ECOG performance score by ≥ 1 point and time to PSA progression based on Prostate Cancer Working Group-2 (PCWG2) criteria. Study treatments were discontinued at the time of unequivocal clinical progression. Treatments could also be discontinued at the time of confirmed radiographic progression at the discretion of the investigator.
+Cooperative Oncology Group (ECOG) performance status was 0 for 76% of patients, and 1 for 24% of patients in both arms. Fifty percent of patients had only bone metastases, an additional 31% of patients had bone and soft tissue or lymph node metastases and 19% of patients had only soft tissue or lymph node metastases. Patients with visceral metastases were excluded. Co-primary efficacy endpoints were overall survival and radiographic progression-free survival (rPFS). In addition to the co-primary endpoint measures, benefit was also assessed using time to opiate use for cancer pain, time to initiation of cytotoxic chemotherapy, time to deterioration in ECOG performance score by ≥ 1 point and time to PSA progression based on Prostate Cancer Working Group-2 (PCWG2) criteria. Study treatments were discontinued at the time of unequivocal clinical progression. Treatments could also be discontinued at the time of confirmed radiographic progression at the discretion of the investigator.
 
 Radiographic progression free survival (rPFS) was assessed with the use of sequential imaging studies as defined by PCWG2 criteria (for bone lesions) and modified Response Evaluation Criteria In Solid Tumors (RECIST) criteria (for soft tissue lesions). Analysis of rPFS utilised centrally-reviewed radiographic assessment of progression.
 
@@ -451,14 +451,14 @@ At the planned rPFS analysis there were 401 events, 150 (28%) of patients treate
 
 Table 4: Study 302: Radiographic progression-free survival of patients treated with either abiraterone acetate or placebo in combination with prednisone or prednisolone plus LHRH analogues or prior orchiectomy.
 
-|                                               | Abiraterone acetate (N = 546)   | Placebo (N = 542)   |
-|-----------------------------------------------|---------------------------------|---------------------|
-| Radiographic progression-free survival (rPFS) |                                 |                     |
-| Progression or death                          | 150 (28%)                       | 251 (46%)           |
-| Median rPFS in months                         | Not reached                     | 8.3                 |
-| (95% CI)                                      | (11.66; NE)                     | (8.12; 8.54)        |
-| p-value*                                      | < 0.0001                        |                     |
-| Hazard ratio** (95% CI)                       | 0.425 (0.347; 0.522)            |                     |
+|                                               | Abiraterone acetate (N = 546)   |                      | Placebo (N = 542)   |
+|-----------------------------------------------|---------------------------------|----------------------|---------------------|
+| Radiographic progression-free survival (rPFS) |                                 |                      |                     |
+| Progression or death                          | 150 (28%)                       |                      | 251 (46%)           |
+| Median rPFS in months                         | Not reached                     |                      | 8.3                 |
+| (95% CI)                                      | (11.66; NE)                     |                      | (8.12; 8.54)        |
+| p-value*                                      |                                 | < 0.0001             |                     |
+| Hazard ratio** (95% CI)                       |                                 | 0.425 (0.347; 0.522) |                     |
 
 NE = Not estimated
 
@@ -485,15 +485,11 @@ Table 5: Study 302: Radiographic progression-free survival of patients treated w
 |                                               | Abiraterone acetate (N = 546)   | Placebo (N = 542)   |
 |-----------------------------------------------|---------------------------------|---------------------|
 | Radiographic progression-free survival (rPFS) |                                 |                     |
-| Progression or death                          | 271 (50%)                       | 336 (62%)           |
-| Median rPFS in months                         | 16.5                            | 8.3                 |
+| Progression or death                          | 271 (50%) 16.5                  | 336 (62%) 8.3       |
+| Median rPFS in months                         |                                 |                     |
 | (95% CI)                                      | (13.80; 16.79)                  | (8.05; 9.43)        |
 | p-value*                                      | < 0.0001                        |                     |
-| Hazard ratio**                                | 0.530 (0.451; 0.623)            |                     |
-
-* p-value is derived from a log-rank test stratified by baseline ECOG score (0 or 1)
-
-** Hazard ratio &lt; 1 favours abiraterone acetate
+| Hazard ratio** (95% CI)                       | 0.530 (0.451; 0.623)            |                     |
 
 Figure 4: Kaplan Meier curves of radiographic progression-free survival in patients treated with either abiraterone acetate or placebo in combination with prednisone or prednisolone plus LHRH analogues or prior orchiectomy (at second interim analysis of OS-investigator review)
 
@@ -501,22 +497,29 @@ Figure 4: Kaplan Meier curves of radiographic progression-free survival in patie
 
 AA = Abiraterone acetate
 
-16 A planned interim analysis (IA) for OS was conducted after 333 deaths were observed. The study was unblinded based on the magnitude of clinical benefit observed and patients in the placebo group were offered treatment with abiraterone acetate. Overall survival was longer for abiraterone acetate than placebo with a 25% reduction in risk of death (HR = 0.752; 95% CI: [0.606; 0.934], p = 0.0097), but
+A planned interim analysis (IA) for OS was conducted after 333 deaths were observed. The study was unblinded based on the magnitude of clinical benefit observed and patients in the placebo group were offered treatment with abiraterone acetate. Overall survival was longer for abiraterone acetate than placebo with a 25% reduction in risk of death (HR = 0.752; 95% CI: [0.606; 0.934], p = 0.0097), but OS was not mature and interim results did not meet the pre-specified stopping boundary for statistical
 
 <div style=\"page-break-after: always\"></div>
 
-OS was not mature and interim results did not meet the pre-specified stopping boundary for statistical significance (see Table 4). Survival continued to be followed after this IA.
+significance (see Table 4). Survival continued to be followed after this IA.
 
 The planned final analysis for OS was conducted after 741 deaths were observed (median follow up of 49 months). Sixty-five percent (354 of 546) of patients treated with abiraterone acetate, compared with 71% (387 of 542) of patients treated with placebo, had died. A statistically significant OS benefit in favour of the abiraterone-treated group was demonstrated with a 19.4% reduction in risk of death (HR = 0.806; 95% CI: [0.697; 0.931], p = 0.0033) and an improvement in median OS of 4.4 months (abiraterone acetate 34.7 months, placebo 30.3 months) (see Table 6 and Figure 5). This improvement was demonstrated even though 44% of patients in the placebo arm received abiraterone acetate as subsequent therapy.
 
 Table 6: Study 302: Overall survival of patients treated with either abiraterone acetate or placebo in combination with prednisone or prednisolone plus LHRH analogues or prior orchiectomy
 
-|                                                                                    | Abiraterone acetate (N = 546)        | Placebo (N = 542)           |
-|------------------------------------------------------------------------------------|--------------------------------------|-----------------------------|
-| Interim survival analysis                                                          |                                      |                             |
-| Deaths (%) Median survival (months) (95% CI) p-value* Hazard ratio** (95% CI)      | 147 (27%) Not reached (NE; NE) 0.752 | 186 (34%) 27.2 (25.95; NE)  |
-| Final survival analysis                                                            |                                      |                             |
-| Deaths Median overall survival in months (95% CI) p-value* Hazard ratio** (95% CI) | 354 (65%) 34.7 (32.7; 36.8) 0.806    | 387 (71%) 30.3 (28.7; 33.3) |
+|                                            | Abiraterone acetate (N = 546)   |                      | Placebo (N = 542)   |
+|--------------------------------------------|---------------------------------|----------------------|---------------------|
+| Interim survival analysis                  |                                 |                      |                     |
+| Deaths (%)                                 | 147 (27%)                       |                      | 186 (34%)           |
+| Median survival (months)                   | Not reached                     |                      | 27.2                |
+| (95% CI)                                   | (NE; NE)                        |                      | (25.95; NE)         |
+| p-value*                                   |                                 | 0.0097               |                     |
+| Hazard ratio** (95% CI)                    |                                 | 0.752 (0.606; 0.934) |                     |
+| Final survival analysis                    |                                 |                      |                     |
+| Deaths                                     | 354 (65%)                       |                      | 387 (71%)           |
+| Median overall survival in months (95% CI) | 34.7 (32.7; 36.8)               |                      | 30.3 (28.7; 33.3)   |
+| p-value*                                   |                                 | 0.0033               |                     |
+| Hazard ratio** (95% CI)                    |                                 | 0.806 (0.697; 0.931) |                     |
 
 NE = Not Estimated
 
@@ -568,13 +571,13 @@ Table 7: Overall survival of patients treated with either abiraterone acetate or
 |-----------------------------------|---------------------------------|----------------------|---------------------|
 | Primary survival analysis         |                                 |                      |                     |
 | Deaths (%)                        | 333 (42%)                       |                      | 219 (55%)           |
-| Median survival (months) (95% CI) | 14.8 (14.1; 15.4)               |                      | 10.9 (10.2; 12.0)   |
+| Mediansurvival(months) (95% CI)   | 14.8 (14.1; 15.4)               |                      | 10.9 (10.2; 12.0)   |
 | p-value a                         |                                 | < 0.0001             |                     |
 | Hazard ratio (95% CI) b           |                                 | 0.646 (0.543; 0.768) |                     |
 | Updated survival analysis         |                                 |                      |                     |
 | Deaths (%)                        | 501 (63%)                       |                      | 274 (69%)           |
-| Median survival (months) (95% CI) | 15.8 (14.8; 17.0)               |                      | 11.2 (10.4; 13.1)   |
-| Hazard ratio (95% CI) b           |                                 | 0.740 (0.638; 0.859) |                     |
+| Mediansurvival(months) (95% CI) b | 15.8 (14.8; 17.0)               |                      | 11.2 (10.4; 13.1)   |
+| Hazard ratio (95% CI)             |                                 | 0.740 (0.638; 0.859) |                     |
 
 a p-value is derived from a log-rank test stratified by ECOG performance status score (0-1 vs. 2), pain score (absent vs. present), number of prior chemotherapy regimens (1 vs. 2), and type of disease progression (PSA only vs. radiographic).
 
@@ -592,8 +595,26 @@ AA = Abiraterone acetate
 
 Subgroup survival analyses showed a consistent survival benefit for treatment with abiraterone acetate (see Figure 7).
 
-| Figure 7: Overall survival by subgroup: hazard ratio and 95%   | Figure 7: Overall survival by subgroup: hazard ratio and 95%   | Figure 7: Overall survival by subgroup: hazard ratio and 95%   | Figure 7: Overall survival by subgroup: hazard ratio and 95%   | Figure 7: Overall survival by subgroup: hazard ratio and 95%   | Figure 7: Overall survival by subgroup: hazard ratio and 95%   | Figure 7: Overall survival by subgroup: hazard ratio and 95%   | Figure 7: Overall survival by subgroup: hazard ratio and 95%   |
-|----------------------------------------------------------------|----------------------------------------------------------------|----------------------------------------------------------------|----------------------------------------------------------------|----------------------------------------------------------------|----------------------------------------------------------------|----------------------------------------------------------------|----------------------------------------------------------------|
+Figure 7: Overall survival by subgroup: hazard ratio and 95% confidence interval
+
+Medlan (rmonths)
+
+| Variable                  |              |      |           |            |      | 95% C.1.       |      |
+|---------------------------|--------------|------|-----------|------------|------|----------------|------|
+|                           | Subgroup     |      | Placebo   |            | HR   |                | N    |
+| All subjects              | ALL          | 14.8 | 10.9      |            | 0.66 | (0.56, 0.79)   | 1195 |
+| BaselineEcoG              | 0-1          | 15.3 | 11.7      |            | 9'0  | (0.53, 0.78)   | 1068 |
+|                           | 2            | 7.3  | 7         |            | 0.81 | (0.53, 1.24)   | 127  |
+| Baseline BPI              | ≤4           | 16.2 | 13        |            | 9'0  | (0.50, 0.82)   | 659  |
+|                           | =            | 12.6 | 6'8       | +          | 0.68 | (0.53,0 0.85)  | 536  |
+| No. prior chemo regirmens | 1            | 15.4 | 11.5      |            | 0.63 | (0.51, 0.78)   |      |
+|                           | 2            | 14   | 10.3      | F          | '0   | (0.55, 0.99)   | 362  |
+| Type of progression       | PSA only     | NE   | 12.3      |            | 0.59 | (0.42, 0.82)   | 999  |
+|                           | Radiographic | 14.2 | 10.4      |            | 69'0 | (0.56, 0.84)   | 832  |
+| Visceral disease at entry | YES          | 12.6 | 8         |            | 0.70 | (0.52, 0.94)   |      |
+|                           | NO           | 15.4 | 11.2      |            | 0.62 | (0.50, 0.76)   | 842  |
+|                           |              |      |           | 0.5 0.75 1 | 1.5  |                |      |
+|                           |              |      | Favors AA |            |      | Favors Placebo |      |
 
 AA = Abiraterone acetate; BPI = Brief Pain Inventory; C.I. = confidence interval; ECOG = Eastern Cooperative Oncology Group performance score; HR = hazard ratio; NE = not evaluable
 
@@ -635,7 +656,7 @@ Administration of abiraterone acetate with food, compared with administration in
 
 ## Distribution
 
-The plasma protein binding of 14 C-abiraterone in human plasma is 99.8%. The apparent volume of distribution is approximately 5,630 L, suggesting that abiraterone extensively distributes to peripheral tissues.
+The plasma protein binding of  14 C-abiraterone in human plasma is 99.8%. The apparent volume of distribution is approximately 5,630 L, suggesting that abiraterone extensively distributes to peripheral tissues.
 
 ## Biotransformation
 
@@ -673,7 +694,7 @@ In a developmental toxicity study in the rat, abiraterone acetate affected pregn
 
 In these fertility and developmental toxicity studies performed in the rat, all effects were related to the pharmacological activity of abiraterone.
 
-Aside from reproductive organ changes seen in all animal toxicology studies, non-clinical data reveal no special hazard for humans based on conventional studies of safety pharmacology, repeated dose toxicity, genotoxicity and carcinogenic potential. Abiraterone acetate was not carcinogenic in a 6-month study in the transgenic (Tg.rasH2) mouse. In a 24-month carcinogenicity study in the rat, abiraterone acetate increased the incidence of interstitial cell neoplasms in the testes. This finding is considered related to the pharmacological action of abiraterone and rat specific. Abiraterone acetate was not carcinogenic in female rats.
+Aside from reproductive organ changes seen in all animal toxicology studies, non-clinical data reveal no special hazard for humans based on conventional studies of safety pharmacology, repeated dose toxicity, genotoxicity and carcinogenic potential. Abiraterone acetate was not carcinogenic in a 6month study in the transgenic (Tg.rasH2) mouse. In a 24-month carcinogenicity study in the rat, abiraterone acetate increased the incidence of interstitial cell neoplasms in the testes. This finding is considered related to the pharmacological action of abiraterone and rat specific. Abiraterone acetate was not carcinogenic in female rats.
 
 ## Environmental risk assessment (ERA)
 
@@ -709,7 +730,7 @@ This medicinal product does not require any special storage conditions.
 
 ## 6.5 Nature and contents of container
 
-## Abiraterone Mylan 500 mg film-coated tablets:
+Abiraterone Mylan 500 mg film-coated tablets:
 
 Alu-OPA/Alu/PVC blister pack containing 56, 60 tablets Alu-OPA/Alu/PVC perforated unit dose blister pack containing 56 x 1, 60 x 1 tablets Alu-PVC/PE/PVDC blister pack containing 56, 60 tablets
 
@@ -719,11 +740,13 @@ Alu-PVC/PE/PVDC perforated unit dose blister pack containing 56 x 1, 60 x 1 tabl
 
 High density polyethylene (HDPE) bottles with oxygen absorbing canister and closed with a polypropylene (PP) child resistant closure containing 28, 30 tablets.High density polyethylene (HDPE) bottles closed with a polypropylene (PP) child resistant closure containing 28, 30 tablets Alu-OPA/Alu/PVC blister pack containing 28, 30 tablets
 
-Alu-OPA/Alu/PVC perforated unit dose blister pack containing 28 x 1, 30 x 1 tabletsNot all pack sizes may be marketed.
+Alu-OPA/Alu/PVC perforated unit dose blister pack containing 28 x 1, 30 x 1 tablets
 
-<div style=\"page-break-after: always\"></div>
+Not all pack sizes may be marketed.
 
 ## 6.6 Special precautions for disposal
+
+<div style=\"page-break-after: always\"></div>
 
 Based on its mechanism of action, this medicinal product may harm a developing foetus; therefore, women who are pregnant or may be pregnant should not handle it without protection, e.g., gloves.
 
@@ -737,9 +760,7 @@ Ireland
 
 ## 8. MARKETING AUTHORISATION NUMBER(S)
 
-```
 EU/1/21/1571/001 EU/1/21/1571/002 EU/1/21/1571/003 EU/1/21/1571/004 EU/1/21/1571/005 EU/1/21/1571/006 EU/1/21/1571/007 EU/1/21/1571/008 EU/1/21/1571/009 EU/1/21/1571/010 EU/1/21/1571/011 EU/1/21/1571/012 EU/1/21/1571/013 EU/1/21/1571/014 EU/1/21/1571/015 EU/1/21/1571/016
-```
 
 ## 9. DATE OF FIRST AUTHORISATION/RENEWAL OF THE AUTHORISATION
 
@@ -755,7 +776,9 @@ Detailed information on this medicinal product is available on the website of th
 
 - A. MANUFACTURER(S) RESPONSIBLE FOR BATCH RELEASE
 - B. CONDITIONS OR RESTRICTIONS REGARDING SUPPLY AND USE
-- C. OTHER CONDITIONS AND REQUIREMENTS OF THE MARKETING AUTHORISATION
+
+## C. OTHER CONDITIONS AND REQUIREMENTS OF THE MARKETING AUTHORISATION
+
 - D. CONDITIONS OR RESTRICTIONS WITH REGARD TO THE SAFE AND EFFECTIVE USE OF THE MEDICINAL PRODUCT
 
 <div style=\"page-break-after: always\"></div>
@@ -772,21 +795,20 @@ Medicinal product subject to medical prescription.
 
 ## C. OTHER CONDITIONS AND REQUIREMENTS OF THE MARKETING AUTHORISATION
 
-- [ ]  Periodic safety update reports (PSURs)
+## · Periodic safety update reports (PSURs)
 
 The requirements for submission of PSURs for this medicinal product are set out in the list of Union reference dates (EURD list) provided for under Article 107c(7) of Directive 2001/83/EC and any subsequent updates published on the European medicines web-portal.
 
 ## D. CONDITIONS OR RESTRICTIONS WITH REGARD TO THE SAFE AND EFFECTIVE USE OF THE MEDICINAL PRODUCT
 
-- [ ]  Risk management plan (RMP)
+## · Risk management plan (RMP)
 
 The marketing authorisation holder (MAH) shall perform the required pharmacovigilance activities and interventions detailed in the agreed RMP presented in Module 1.8.2 of the marketing authorisation and any agreed subsequent updates of the RMP.
 
 An updated RMP should be submitted:
 
-- [ ]  At the request of the European Medicines Agency;
-
-- [ ]  Whenever the risk management system is modified, especially as the result of new information being received that may lead to a significant change to the benefit/risk profile or as the result of an important (pharmacovigilance or risk minimisation) milestone being reached.
+- At the request of the European Medicines Agency;
+- Whenever the risk management system is modified, especially as the result of new information being received that may lead to a significant change to the benefit/risk profile or as the result of an important (pharmacovigilance or risk minimisation) milestone being reached.
 
 <div style=\"page-break-after: always\"></div>
 
@@ -806,7 +828,9 @@ CARTON
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
-Abiraterone Mylan 500 mg film-coated tablets abiraterone acetate
+Abiraterone Mylan 500 mg film-coated tablets
+
+abiraterone acetate
 
 ## 2. STATEMENT OF ACTIVE SUBSTANCE(S)
 
@@ -852,16 +876,16 @@ EXP
 | 9.   | SPECIAL STORAGE CONDITIONS   |
 |------|------------------------------|
 
-| 10.   | SPECIAL PRECAUTIONS FOR DISPOSAL OFUNUSEDMEDICINAL PRODUCTS ORWASTEMATERIALS DERIVEDFROMSUCH MEDICINAL PRODUCTS, IF APPROPRIATE   |
-|-------|-----------------------------------------------------------------------------------------------------------------------------------|
+| 10.   | SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE   |
+|-------|-----------------------------------------------------------------------------------------------------------------------------------------|
 
-| 11.   | NAMEANDADDRESS OF THEMARKETING AUTHORISATION HOLDER   |
-|-------|-------------------------------------------------------|
+| 11.   | NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER   |
+|-------|----------------------------------------------------------|
 
 Mylan Pharmaceuticals Limited Damastown Industrial Park, Mulhuddart, Dublin 15, DUBLIN Ireland
 
-| 12.   | MARKETING AUTHORISATION NUMBER(S)   |
-|-------|-------------------------------------|
+| MARKETING AUTHORISATION NUMBER(S)   |
+|-------------------------------------|
 
 EU/1/21/1571/001 EU/1/21/1571/002 EU/1/21/1571/003 EU/1/21/1571/004 EU/1/21/1571/005 EU/1/21/1571/006 EU/1/21/1571/007 EU/1/21/1571/008
 
@@ -886,30 +910,65 @@ Abiraterone Mylan 500 mg
 
 2D barcode carrying the unique identifier included
 
-| 18.   | UNIQUE IDENTIFIER -HUMANREADABLE DATA   |
-|-------|-----------------------------------------|
+<div style=\"page-break-after: always\"></div>
+
+| 18.   | UNIQUE IDENTIFIER - HUMAN READABLE DATA   |
+|-------|-------------------------------------------|
+
+PC SN NN
 
 <div style=\"page-break-after: always\"></div>
 
-## PC SN NN
+| MINIMUM PARTICULARS TO APPEAR ON BLISTERS OR STRIPS   |
+|-------------------------------------------------------|
+| BLISTER                                               |
 
-<div style=\"page-break-after: always\"></div>
-
-## MINIMUM PARTICULARS TO APPEAR ON BLISTERS OR STRIPS BLISTER
-
-## 1. NAME OF THE MEDICINAL PRODUCT
+| 1.   | NAME OF THE MEDICINAL PRODUCT   |
+|------|---------------------------------|
 
 Abiraterone Mylan 500 mg film-coated tablets abiraterone acetate
 
-## 2. NAME OF THE MARKETING AUTHORISATION HOLDER
+| 2.   | NAME OF THE MARKETING AUTHORISATION HOLDER   |
+|------|----------------------------------------------|
 
 Mylan Pharmaceuticals Limited
 
-## 3. EXPIRY DATE
+| 3.   | EXPIRY DATE   |
+|------|---------------|
 
 EXP
 
-## 4. BATCH NUMBER
+| 4.   | BATCH NUMBER   |
+|------|----------------|
+
+Lot
+
+| 5.   | OTHER   |
+|------|---------|
+
+<div style=\"page-break-after: always\"></div>
+
+| MINIMUM PARTICULARS TO APPEAR ON BLISTERS OR STRIPS   |
+|-------------------------------------------------------|
+| UNIT DOSE BLISTER                                     |
+
+| 1.   | NAME OF THE MEDICINAL PRODUCT   |
+|------|---------------------------------|
+
+Abiraterone Mylan 500 mg film-coated tablets abiraterone acetate
+
+| 2.   | NAME OF THE MARKETING AUTHORISATION HOLDER   |
+|------|----------------------------------------------|
+
+Mylan Pharmaceuticals Limited
+
+| 3.   | EXPIRY DATE   |
+|------|---------------|
+
+EXP
+
+| 4.   | BATCH NUMBER   |
+|------|----------------|
 
 Lot
 
@@ -963,25 +1022,23 @@ Women who are or may be pregnant should not handle Abiraterone Mylan without glo
 
 ## 8. EXPIRY DATE
 
-EXP
-
 <div style=\"page-break-after: always\"></div>
 
 | 9.   | SPECIAL STORAGE CONDITIONS   |
 |------|------------------------------|
 
-| 10.   | SPECIAL PRECAUTIONS FOR DISPOSAL OFUNUSEDMEDICINAL PRODUCTS ORWASTEMATERIALS DERIVEDFROMSUCH MEDICINAL PRODUCTS, IF APPROPRIATE   |
-|-------|-----------------------------------------------------------------------------------------------------------------------------------|
+| 10.   | SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE   |
+|-------|-----------------------------------------------------------------------------------------------------------------------------------------|
 
-| 11.   | NAMEANDADDRESS OF THEMARKETING AUTHORISATION HOLDER   |
-|-------|-------------------------------------------------------|
+| 11.   | NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER   |
+|-------|----------------------------------------------------------|
 
 Mylan Pharmaceuticals Limited Damastown Industrial Park, Mulhuddart, Dublin 15, DUBLIN
 
 Ireland
 
-| 12.   | MARKETING AUTHORISATION NUMBER(S)   |
-|-------|-------------------------------------|
+| MARKETING AUTHORISATION NUMBER(S)   |
+|-------------------------------------|
 
 EU/1/21/1571/009 EU/1/21/1571/010 EU/1/21/1571/011 EU/1/21/1571/012 EU/1/21/1571/013 EU/1/21/1571/014 EU/1/21/1571/015
 
@@ -1010,38 +1067,72 @@ Abiraterone Mylan 1000 mg
 
 Carton only
 
-## 2D barcode carrying the unique identifier included
-
 <div style=\"page-break-after: always\"></div>
 
-| 18.   | UNIQUE IDENTIFIER -HUMANREADABLE DATA   |
-|-------|-----------------------------------------|
+2D barcode carrying the unique identifier included
+
+| 18.   | UNIQUE IDENTIFIER - HUMAN READABLE DATA   |
+|-------|-------------------------------------------|
 
 Carton only PC SN NN
 
-## MINIMUM PARTICULARS TO APPEAR ON BLISTERS OR STRIPS
+<div style=\"page-break-after: always\"></div>
 
-## BLISTER
+| MINIMUM PARTICULARS TO APPEAR ON BLISTERS OR STRIPS   |
+|-------------------------------------------------------|
+| BLISTER                                               |
 
-## 1. NAME OF THE MEDICINAL PRODUCT
+| 1.   | NAME OF THE MEDICINAL PRODUCT   |
+|------|---------------------------------|
 
 Abiraterone Mylan 1000 mg film-coated tablets abiraterone acetate
 
-## 2. NAME OF THE MARKETING AUTHORISATION HOLDER
+| 2.   | NAME OF THE MARKETING AUTHORISATION HOLDER   |
+|------|----------------------------------------------|
 
 Mylan Pharmaceuticals Limited
 
-## 3. EXPIRY DATE
+| 3.   | EXPIRY DATE   |
+|------|---------------|
 
 EXP
 
-## 4. BATCH NUMBER
+| 4.   | BATCH NUMBER   |
+|------|----------------|
 
 Lot
 
-## 5. OTHER
+| 5.   | OTHER   |
+|------|---------|
 
 <div style=\"page-break-after: always\"></div>
+
+| MINIMUM PARTICULARS TO APPEAR ON BLISTERS OR STRIPS   |
+|-------------------------------------------------------|
+| UNIT DOSE BLISTER                                     |
+
+| 1.   | NAME OF THE MEDICINAL PRODUCT   |
+|------|---------------------------------|
+
+Abiraterone Mylan 1000 mg film-coated tablets abiraterone acetate
+
+| 2.   | NAME OF THE MARKETING AUTHORISATION HOLDER   |
+|------|----------------------------------------------|
+
+Mylan Pharmaceuticals Limited
+
+| 3.   | EXPIRY DATE   |
+|------|---------------|
+
+EXP
+
+| 4.   | BATCH NUMBER   |
+|------|----------------|
+
+Lot
+
+| 5.   | OTHER   |
+|------|---------|
 
 <div style=\"page-break-after: always\"></div>
 
@@ -1096,10 +1187,10 @@ Talk to your doctor or pharmacist before taking this medicine:
 
 - -if you have liver problems.
 - -if you have been told you have high blood pressure or heart failure or low blood potassium (low blood potassium may increase the risk of heart rhythm problems).
+- -if you have had other heart or blood vessel problems.
 
 <div style=\"page-break-after: always\"></div>
 
-- -if you have had other heart or blood vessel problems.
 - -if you have an irregular or rapid heart rate.
 - -if you have shortness of breath.
 - -if you have gained weight rapidly.
@@ -1142,9 +1233,9 @@ Androgen deprivation treatment may increase the risk of heart rhythm problems. T
 
 Tell your doctor if you are taking any of the medicines listed above.
 
-<div style=\"page-break-after: always\"></div>
-
 ## Abiraterone Mylan with food
+
+<div style=\"page-break-after: always\"></div>
 
 - -This medicine must not be taken with food (see section 3 'How to take Abiraterone Mylan').
 - -Taking Abiraterone Mylan with food may cause side effects.
@@ -1191,9 +1282,9 @@ Your doctor may also prescribe other medicines while you are taking Abiraterone 
 
 ## If you take more Abiraterone Mylan than you should
 
-<div style=\"page-break-after: always\"></div>
-
 If you take more than you should, talk to your doctor or go to a hospital immediately.
+
+<div style=\"page-break-after: always\"></div>
 
 ## If you forget to take Abiraterone Mylan
 
@@ -1246,13 +1337,15 @@ If you get any side effects, talk to your doctor or pharmacist. This includes an
 
 ## 5. How to store Abiraterone Mylan
 
-Keep this medicine out of the sight and reach of children.
-
-<div style=\"page-break-after: always\"></div>
+## Keep this medicine out of the sight and reach of children.
 
 Do not use this medicine after the expiry date which is stated on the carton, blister and bottle after EXP. The expiry date refers to the last day of that month.
 
-This medicinal product does not require any special storage conditions. Do not throw away any medicines via wastewater or household waste. Ask your pharmacist how to throw away medicines you no longer use. These measures will help to protect the environment.
+<div style=\"page-break-after: always\"></div>
+
+This medicinal product does not require any special storage conditions.
+
+Do not throw away any medicines via wastewater or household waste. Ask your pharmacist how to throw away medicines you no longer use. These measures will help to protect the environment.
 
 ## 6. Contents of the pack and other information
 
@@ -1266,9 +1359,9 @@ Tablet core: croscarmellose sodium (E468), sodium laurilsulfate, povidone, micro
 
 ## What Abiraterone Mylan looks like and contents of the pack
 
-Abiraterone Mylan 500 mg film-coated tablets are brown, oval-shaped (19 mm long x 10 mm wide), with '500' debossed on one side and available in blister packs containing 56, 60 tablets and in perforated unit dose blister packs containing, 56 x 1, 60 x 1 tablets.
+Abiraterone Mylan 500 mg film-coated tablets (tablets) are brown, oval-shaped (19 mm long x 10 mm wide), with '500' debossed on one side and available in blister packs containing 56, 60 tablets and in perforated unit dose blister packs containing, 56 x 1, 60 x 1 tablets.
 
-Abiraterone Mylan 1000 mg film-coated tablets are white to off-white, oval-shaped (23 mm long x 11 mm wide), with a break line on one side and plain on the other side  available in bottles containing 28 or 30 tablets and also available in blister packs containing 28, 30 tablets and in perforated unit dose blister packs containing, 28 x 1, 30 x 1 tablets. The bottle also contains an oxygen absorbing canister. Do not swallow the oxygen absorbing canister as this may be harmful to your health.
+Abiraterone Mylan 1000 mg film-coated tablets (tablets) are white to off-white, oval-shaped (23 mm long x 11 mm wide), with a break line on one side and plain on the other side  available in bottles containing 28 or 30 tablets and also available in blister packs containing 28, 30 tablets and in perforated unit dose blister packs containing, 28 x 1, 30 x 1 tablets. The bottle also contains an oxygen absorbing canister. Do not swallow the oxygen absorbing canister as this may be harmful to your health.
 
 Not all pack sizes may be marketed.
 
@@ -1282,13 +1375,15 @@ Remedica Ltd., Aharnon Street, Limassol Industrial Estate, 3056 Limassol, Cyprus
 
 For any information about this medicine, please contact the local representative of the Marketing Authorisation Holder:
 
-<div style=\"page-break-after: always\"></div>
-
 ## België/Belgique/Belgien
 
 Viatris
 
 Tél/Tel: + 32 (0)2 658 61 00
+
+Lietuva Viatris UAB Tel: +370 5 205 1288
+
+<div style=\"page-break-after: always\"></div>
 
 ## България
 
@@ -1336,13 +1431,15 @@ Icepharma hf. Sími: +354 540 8000
 
 ## Italia
 
-Viatris Italia S.r.l.
+Viatris Italia S.r.l. Tel: + 39 (0) 2 612 46921
 
-Tel: + 39 (0) 2 612 46921
+## Κύπρος
 
-## Lietuva
+CPO Pharmaceuticals Limited Τηλ: +357 22863100
 
-Viatris UAB Tel: +370 5 205 1288
+## Latvija
+
+Viatris SIA Tel: +371 676 055 80
 
 ## Luxembourg/Luxemburg
 
@@ -1362,7 +1459,9 @@ Mylan BV Tel: +31 (0)20 426 3300
 
 ## Norge
 
-Viatris AS Tfl: + 47 66 75 33 00
+Viatris AS
+
+Tfl: + 47 66 75 33 00
 
 ## Österreich
 
@@ -1374,9 +1473,7 @@ Viatris Healthcare Sp. z o.o. Tel: + 48 22 546 64 00
 
 ## Portugal
 
-Mylan, Lda.
-
-Tel: + 351 214 127 200
+Mylan, Lda. Tel: + 351 214 127 200
 
 ## România
 
@@ -1394,34 +1491,12 @@ Viatris Slovakia s.r.o. Tel: +421 2 32 199 100
 
 Viatris Oy Puh/Tel: +358 20 720 9555
 
-<div style=\"page-break-after: always\"></div>
-
-## Κύπρος
-
-GPA Pharmaceuticals Ltd
-
-Τηλ: +357 22863100
-
-## Latvija
-
-Viatris SIA
-
-Tel: +371 676 055 80
-
-## This leaflet was last revised in
-
-## Other sources of information
-
-Detailed information on this medicine is available on the European Medicines Agency web site: http://www.ema.europa.eu
-
 ## Sverige
 
-Viatris AB
+Viatris AB Tel: + 46 (0)8 630 19 00
 
-Tel: + 46 (0)8 630 19 00
+<div style=\"page-break-after: always\"></div>
 
-## United Kingdom (Northern Ireland)
+## This leaflet was last revised in Other sources of information
 
-Mylan IRE Healthcare Limited
-
-Tel: +353 18711600
+Detailed information on this medicine is available on the European Medicines Agency web site: http://www.ema.europa.eu

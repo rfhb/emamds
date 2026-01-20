@@ -1,18 +1,18 @@
 ---
-document_datetime: 2025-11-24 12:34:39
+document_datetime: 2026-01-20 14:17:31
 document_pages: 36
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/nyvepria-epar-product-information_en.pdf
 document_name: nyvepria-epar-product-information_en.pdf
 version: success
-processing_time: 8.0006078
-conversion_datetime: 2025-12-24 08:36:01.147438
+processing_time: 8.2723115
+conversion_datetime: 2026-01-20 20:34:16.908218
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.64.1
-  docling-core: 2.55.0
+  docling-serve: 1.10.0
+  docling-jobkit: 1.8.1
+  docling: 2.69.0
+  docling-core: 2.60.0
   docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-parse: 4.7.3
   python: cpython-313 (3.13.11)
   plaform: macOS-26.2-arm64-arm-64bit-Mach-O
 ---
@@ -170,7 +170,7 @@ Nyvepria contains 30 mg sorbitol in each pre-filled syringe which is equivalent 
 
 ## Sodium
 
-This medicinal product contains less than 1 mmol sodium (23 mg) per 6 mg dose, that is to say essentially 'sodium-free'.
+This medicinal product contains less than 1 mmol sodium (23 mg) per 6 mg dose, that is to say essentially 'sodium -free'.
 
 ## 4.5 Interaction with other medicinal products and other forms of interaction
 
@@ -250,10 +250,6 @@ The data in the table below describe adverse reactions reported from clinical st
 | Renal and urinary disorders                          |                     |                                                                                                           | Glomerulonephritis 2                                                                                           |                              |
 | General disorders and administrative site conditions |                     | Injection site pain 1 ; Non-cardiac chest pain                                                            | Injection site reactions 2                                                                                     |                              |
 | Investigations                                       |                     |                                                                                                           | Elevations in lactate dehydrogenase and alkaline phosphatase 1 ; Transient elevations in LFTs for ALT or AST 1 |                              |
-
-1 See section 'Description of selected adverse reactions' below.
-
-2 This adverse reaction was identified through post-marketing surveillance but not observed in randomised, controlled clinical studies in adults. The frequency category was estimated from a statistical calculation based upon 1 576 patients receiving pegfilgrastim in nine randomised clinical studies.
 
 ## Description of selected adverse reactions
 
@@ -357,7 +353,7 @@ This medicinal product must not be mixed with other medicinal products, particul
 
 ## 6.4 Special precautions for storage
 
-Store in a refrigerator (2°C - 8°C).
+Store in a refrigerator (2°C -8°C).
 
 Nyvepria may be exposed to room temperature (not above 25°C) for a maximum single period of up to 15 days. Nyvepria left at room temperature for more than 15 days should be discarded.
 
@@ -434,7 +430,7 @@ The requirements for submission of PSURs for this medicinal product are set out 
 
 ## D. CONDITIONS OR RESTRICTIONS WITH REGARD TO THE SAFE AND EFFECTIVE USE OF THE MEDICINAL PRODUCT
 
-## · Risk management p lan (RMP)
+## · Risk management plan (RMP)
 
 The marketing authorisation holder (MAH) shall perform the required pharmacovigilance activities and interventions detailed in the agreed RMP presented in Module 1.8.2 of the marketing authorisation and any agreed subsequent updates of the RMP.
 
@@ -603,31 +599,26 @@ Keep the container in the outer carton in order to protect from light.
 |------------------------------------------------------------------|
 | SYRINGE LABEL                                                    |
 
-| 1.   | NAMEOFTHEMEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION   |
-|------|-------------------------------------------------------------|
+## 1. NAME OF THE MEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION
 
 Nyvepria 6 mg injection pegfilgrastim SC
 
-| 2.   | METHODOFADMINISTRATION   |
-|------|--------------------------|
+2. METHOD OF ADMINISTRATION
 
 | 3.   | EXPIRY DATE   |
 |------|---------------|
 
 EXP
 
-| 4.   | BATCH NUMBER   |
-|------|----------------|
+## 4. BATCH NUMBER
 
 Lot
 
-| 5.   | CONTENTS BY WEIGHT, BYVOLUMEORBYUNIT   |
-|------|----------------------------------------|
+5. CONTENTS BY WEIGHT, BY VOLUME OR BY UNIT
 
 0.6 mL
 
-| 6.   | OTHER   |
-|------|---------|
+## 6. OTHER
 
 Pfizer Europe MA EEIG
 
@@ -732,7 +723,7 @@ Nyvepria has no or negligible effect on the ability to drive or use machines.
 
 This medicine contains 30 mg sorbitol in each pre-filled syringe which is equivalent to 50 mg/mL. The additive effect of concomitantly administered medicines containing sorbitol (or fructose) and dietary intake of sorbitol (or fructose) should be taken into account.
 
-This medicine contains less than 1 mmol sodium (23 mg) per 6 mg dose, that is to say essentially 'sodium-free'.
+This medicine contains less than 1 mmol sodium (23 mg) per 6 mg dose, that is to say essentially 'sodium -free' .
 
 ## 3. How to use Nyvepria
 
@@ -788,16 +779,15 @@ They could be symptoms of an uncommon (may affect up to 1 in 100 people) conditi
 
 - allergic-type reactions, including redness and flushing, skin rash, and raised areas of the skin that itch.
 - serious allergic reactions, including anaphylaxis (weakness, drop in blood pressure, difficulty breathing, swelling of the face).
-- increased spleen size (the spleen is an organ located in the belly to the left of the stomach involved in the production and removal of blood cells and forming part of the immune system).
-- Tell your doctor if you have an increase of volume in the upper left side of your abdomen.
+- increased spleen size (the spleen is an organ located in the belly to the left of the stomach involved in the production and removal of blood cells and forming part of the immune system). Tell your doctor if you have an increase of volume in the upper left side of your abdomen.
 - spleen rupture, which can be fatal. It is important that you contact your doctor immediately if you get pain in the upper left side of the abdomen or left shoulder pain since this may relate to a problem with your spleen.
 - breathing problems. If you have a cough, fever and difficulty breathing tell your doctor.
-- Sweet's syndrome (plum-coloured, raised, painful damage on the limbs and sometimes the face and neck with fever).
+- Sweet's syndrome (plum -coloured, raised, painful damage on the limbs and sometimes the face and neck with fever).
 - cutaneous vasculitis (inflammation of the blood vessels in the skin).
 - damage to your kidneys (called glomerulonephritis).
 - redness at the site of injection.
 - coughing up blood (haemoptysis).
-- b lood disorders (myelodysplastic syndrome [MDS] or acute myeloid leukaemia [AML]) .
+- blood disorders (myelodysplastic syndrome [MDS] or acute myeloid leukaemia [AML]).
 
 ## Rare : may affect up to 1 in 1 000 people
 
@@ -815,7 +805,7 @@ Keep this medicine out of the sight and reach of children.
 
 Do not use this medicine after the expiry date which is stated on the carton and on the syringe label after EXP. The expiry date refers to the last day of that month.
 
-Store in a refrigerator (2°C - 8°C).
+Store in a refrigerator (2°C -8°C).
 
 <div style=\"page-break-after: always\"></div>
 
@@ -834,7 +824,7 @@ Do not throw away any medicines via wastewater or household waste. Ask your phar
 ## What Nyvepria contains
 
 - -The active substance is pegfilgrastim. Each pre-filled syringe contains 6 mg of pegfilgrastim in 0.6 mL of solution.
-- -The other ingredients are sodium acetate trihydrate, glacial acetic acid, sorbitol (E420), polysorbate 20 and water for injections (see section 2 'Nyvepria contains sorbitol (E420) and sodium acetate').
+- -The other ingredients are sodium acetate trihydrate, glacial acetic acid, sorbitol (E420), polysorbate 20 and water for injections (see section 2 ' Nyvepria contains sorbitol (E420) and sodium acetate') .
 
 ## What Nyvepria looks like and contents of the pack
 
@@ -858,7 +848,11 @@ Luxembourg/Luxemburg Pfizer NV/SA Tél/Tel: +32 (0)2 554 62 11
 
 ## Kύπρος
 
-PFIZER EΛΛAΣ A.E. (CYPRUS BRANCH) T ηλ : +357 22 817690
+PFIZER EΛΛAΣ A.E. (CYPRUS BRANCH)
+
+T
+
+ : +357 22 817690
 
 ## Česká Republika
 
@@ -958,9 +952,9 @@ Tel. +3705 2514000
 
 ## Malta
 
-Drugsales Ltd
+Vivian Corporation Ltd
 
-Tel: +356 21 419 070/1/2
+Tel: + 356 2134 4610
 
 ## Nederland
 

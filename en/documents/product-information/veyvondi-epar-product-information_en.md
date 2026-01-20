@@ -1,18 +1,18 @@
 ---
-document_datetime: 2024-10-07 15:07:17
-document_pages: 41
+document_datetime: 2026-01-20 15:32:17
+document_pages: 42
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/veyvondi-epar-product-information_en.pdf
 document_name: veyvondi-epar-product-information_en.pdf
 version: success
-processing_time: 12.1443441
-conversion_datetime: 2025-12-28 01:42:43.864774
+processing_time: 14.446106
+conversion_datetime: 2026-01-20 20:31:21.925457
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.66.0
-  docling-core: 2.57.0
+  docling-serve: 1.10.0
+  docling-jobkit: 1.8.1
+  docling: 2.69.0
+  docling-core: 2.60.0
   docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-parse: 4.7.3
   python: cpython-313 (3.13.11)
   plaform: macOS-26.2-arm64-arm-64bit-Mach-O
 ---
@@ -24,7 +24,7 @@ docling_version:
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
-VEYVONDI 650 IU powder and solvent for solution for injection VEYVONDI 1300 IU powder and solvent for solution for injection
+VEYVONDI 650 IU powder and solvent for solution for injection VEYVONDI 1 300 IU powder and solvent for solution for injection
 
 ## 2. QUALITATIVE AND QUANTITATIVE COMPOSITION
 
@@ -32,9 +32,9 @@ VEYVONDI 650 IU powder and solvent for solution for injection VEYVONDI 1300 IU p
 
 Each vial of powder contains nominally 650 International Units (IU) vonicog alfa. After reconstitution with the 5 mL solvent provided, VEYVONDI contains approximately 130 IU/mL vonicog alfa.
 
-## VEYVONDI 1300 IU powder and solvent for solution for injection
+## VEYVONDI 1 300 IU powder and solvent for solution for injection
 
-Each vial of powder contains nominally 1300 International Units (IU) vonicog alfa. After reconstitution with the 10 mL solvent provided, VEYVONDI contains approximately 130 IU/mL vonicog alfa.
+Each vial of powder contains nominally 1 300 International Units (IU) vonicog alfa. After reconstitution with the 10 mL solvent provided, VEYVONDI contains approximately 130 IU/mL vonicog alfa.
 
 The specific activity of VEYVONDI is approximately 110 IU VWF:RCo/mg protein. The potency of VWF (IU) is measured using the European Pharmacopeia ristocetin cofactor activity assay (VWF:RCo). The ristocetin cofactor activity of recombinant human von Willebrand factor was determined against the International Standard for von Willebrand factor concentrate (WHO).
 
@@ -42,9 +42,9 @@ Vonicog alfa is a purified recombinant human von Willebrand factor (rVWF). It is
 
 The product contains only trace amounts of human recombinant coagulation factor VIII (≤ 0.01 IU FVIII / IU VWF:RCo) as determined using the European Pharmacopoeia chromogenic assay for factor VIII (FVIII).
 
-## Excipient with known effect
+## Excipients with known effect
 
-Each 650 IU powder vial contains 5.2 mg sodium. Each 1300 IU powder vial contains 10.4 mg sodium.
+Each 650 IU powder vial contains 5.2 mg sodium and 0.5 mg of polysorbate 80. Each 1 300 IU powder vial contains 10.4 mg sodium and 1.0 mg of polysorbate 80.
 
 For the full list of excipients, see section 6.1.
 
@@ -52,15 +52,17 @@ For the full list of excipients, see section 6.1.
 
 Powder and solvent for solution for injection.
 
-The powder is a white to off-white lyophilized powder The solvent is a clear and colourless solution.
-
-<div style=\"page-break-after: always\"></div>
+The powder is a white to off-white lyophilized powder. The solvent is a clear and colourless solution.
 
 ## 4. CLINICAL PARTICULARS
 
 ## 4.1 Therapeutic indications
 
-Prevention and treatment of haemorrhage or surgical bleeding in adults (age 18 years and older) with von Willebrand disease (VWD), when desmopressin (DDAVP) treatment alone is ineffective or contraindicated.
+Prevention and treatment of haemorrhage or surgical bleeding in adults (aged 18 years and older) with von Willebrand disease (VWD), when desmopressin (DDAVP) treatment alone is ineffective or contraindicated.
+
+<div style=\"page-break-after: always\"></div>
+
+Treatment of haemorrhage in children (aged less than 18 years) with von Willebrand disease (VWD), when desmopressin (DDAVP) treatment alone is ineffective or contraindicated.
 
 VEYVONDI should not be used in the treatment of haemophilia A.
 
@@ -80,13 +82,17 @@ However, if an immediate rise in FVIII:C is not necessary, or if the baseline FV
 
 In case of major bleeding events or major surgeries requiring repeated, frequent infusions, monitoring of FVIII:C levels is recommended, to decide if rFVIII is required for subsequent infusions to avoid excessive rise of FVIII:C.
 
-## Treatment of bleeding episodes (on-demand treatment)
+Treatment of bleeding episodes (on-demand treatment) in adults and children
 
 ## Start of treatment
 
 The first dose of VEYVONDI should be 40 to 80 IU/kg body weight. Replacement levels of VWF:RCo &gt; 0.6 IU/mL (60%) and FVIII:C &gt; 0.4 IU/mL (40%) should be achieved. Dosing guidelines for treatment of minor and major haemorrhages are provided in Table 1.
 
 VEYVONDI should be administered with recombinant factor VIII if the FVIII:C levels are &lt; 40%, or are unknown, to control bleeding. The rFVIII dose should be calculated according to the difference between the patient's baseline plasma FVIII:C level, and the desired peak FVIII:C level to achieve an appropriate plasma FVIII:C level based on the approximate mean recovery of 0.02 (IU/mL)/(IU/kg). The complete dose of VEYVONDI should be administered followed by rFVIII within 10 minutes.
+
+Calculating dose
+
+VEYVONDI dose [IU] = dose [IU/kg] x body weight [kg]
 
 <div style=\"page-break-after: always\"></div>
 
@@ -107,7 +113,7 @@ a If rFVIII is administered, see rFVIII package insert for reconstitution and ad
 
 b A bleed could be considered major if red blood cell transfusion is either required or potentially indicated or if bleeding occurs in a critical anatomical site (e.g., intracranial or gastrointestinal haemorrhage).
 
-Prevention of bleeding/haemorrhage and treatment in case of elective surgery
+Prevention of bleeding/haemorrhage and treatment in case of elective surgery in adults
 
 ## Prior to surgery
 
@@ -127,33 +133,32 @@ Table 2. Recommended target peak plasma levels of VWF:RCo and FVIII:C to be achi
 | Type of surgery   | VWF:RCo target peak plasma level   | FVIII:C target peak plasma level a   | Calculation of rVWFdose (to be administered within 1 hour prior to surgery) (IU VWF:RCo required)   |
 |-------------------|------------------------------------|--------------------------------------|-----------------------------------------------------------------------------------------------------|
 | Minor             | 0.50 - 0.60 IU/mL                  | 0.40 - 0.50 IU/mL                    | ∆ b VWF:RCo x BW(kg) /IR c                                                                          |
+| Major             | 1 IU/mL                            | 0.80 - 1 IU/mL                       | ∆ b VWF:RCo x BW(kg) /IR c                                                                          |
 
 <div style=\"page-break-after: always\"></div>
 
-| Major   | 1 IU/mL   | 0.80 - 1 IU/mL   | ∆ b VWF:RCo x BW(kg) /IR c   |
-|---------|-----------|------------------|------------------------------|
+- b ∆ = Target peak plasma VWF:RCo - baseline plasma VWF:RCo
+- c  IR = Incremental Recovery as measured in the subject. If the IR is not available, assume an IR of 0.02 IU/mL per IU/kg.
 
 ## During and after surgery
 
 After the initiation of the surgical procedure, the VWF:RCo and FVIII:C plasma levels should be monitored and the intra- and post-operative substitution regimen should be individualised according to the pharmacokinetics (PK) results, intensity and duration of the haemostatic challenge, and the institution's standard of care. In general, the frequency of VEYVONDI dosing for post-operative substitution should range from twice a day to every 48 hours. Please refer to Table 3 for treatment recommendations for subsequent maintenance doses.
 
-Table 3. Recommended target trough plasma levels of VWF:RCo and FVIII:C and minimum duration of treatment for subsequent maintenance doses for the prevention of excessive bleeding after
+Table 3. Recommended target trough plasma levels of VWF:RCo and FVIII:C and minimum duration of treatment for subsequent maintenance doses for the prevention of excessive bleeding after surgery
 
-surgery
+| Type of surgery   | VWF:RCo target trough plasma level   | VWF:RCo target trough plasma level   | FVIII:C target trough plasma level   | FVIII:C target trough plasma level   | Minimum duration of treatment     | Frequency of   |
+|-------------------|--------------------------------------|--------------------------------------|--------------------------------------|--------------------------------------|-----------------------------------|----------------|
+| Type of surgery   | Up to 72 hours post surgery          | After 72 hours post surgery          | Up to 72 hours post surgery          | After 72 hours post surgery          |                                   | dosing         |
+| ≥ 0.30 IU/mL      | -                                    | > 0.40 IU/mL                         | -                                    | 48 hours                             | Every 12-24 hrs / every other day | Minor          |
+| > 0.50 IU/mL      | > 0.30 IU/mL                         | > 0.50 IU/mL                         | > 0.40 IU/mL                         | 72 hours                             | Every 12-24 hrs / every other day | Major          |
 
-| Type of   | VWF:RCo target trough plasma level   | VWF:RCo target trough plasma level   | FVIII:C target trough plasma level   | FVIII:C target trough plasma level   | Minimum duration of   |                                   |
-|-----------|--------------------------------------|--------------------------------------|--------------------------------------|--------------------------------------|-----------------------|-----------------------------------|
-| surgery   | Up to 72 hours post surgery          | After 72 hours post surgery          | Up to 72 hours post surgery          | After 72 hours post surgery          | treatment             | Frequency of dosing               |
-| Minor     | ≥ 0.30 IU/mL                         | -                                    | > 0.40 IU/mL                         | -                                    | 48 hours              | Every 12-24 hrs / every other day |
-| Major     | > 0.50 IU/mL                         | > 0.30 IU/mL                         | > 0.50 IU/mL                         | > 0.40 IU/mL                         | 72 hours              | Every 12-24 hrs / every other day |
-
-## Prophylactic treatment
+Prophylactic treatment in adults
 
 For initiation of long-term prophylaxis against bleeds in patients with VWD, doses of 40 to 60 IU/kg of VEYVONDI administered twice weekly should be considered. Depending on the patient's condition and clinical response, including breakthrough bleeds, higher doses (not exceeding 80 IU/kg) and/or an increased dose frequency (up to three times per week) may be required.
 
 ## Paediatric population
 
-The safety and efficacy of VEYVONDI in children aged 0 to 18 years have not yet been established. No data are available.
+The safety and efficacy of VEYVONDI in children aged less than 18 years have been established for the treatment of haemorrhage. Dosing is based on the same guidelines as for adults and should be adjusted to the clinical condition of the patient, as well as their VWF:RCo and FVIII:C plasma levels. In younger patients, shorter dose intervals or higher doses may be necessary (see section 5.2). The safety and efficacy of VEYVONDI for prophylactic treatment or the prevention or treatment of surgical bleeding have not yet been established in children aged less than 18 years.
 
 ## Method of administration
 
@@ -187,7 +192,7 @@ Patients should be closely monitored and carefully observed for any symptoms thr
 
 Adequate medical treatment and provisions should be available for immediate use for a potential anaphylactic reaction, especially for patients with a history of allergic reactions.
 
-VEYVONDI contains trace amounts of mouse immunoglobulin G and Hamster proteins (less than or equal to 2 ng/IU VEYVONDI). Patients treated with this product may develop hypersensitivity reactions to these non-human mammalian proteins. VEYVONDI contains trace amounts of recombinant coagulation factor VIII.
+VEYVONDI contains trace amounts of mouse immunoglobulin G and hamster proteins (less than or equal to 2 ng/IU VEYVONDI). Patients treated with this product may develop hypersensitivity reactions to these non-human mammalian proteins. VEYVONDI contains trace amounts of recombinant coagulation factor VIII.
 
 ## Thrombosis and embolism
 
@@ -207,7 +212,13 @@ Treatment of VWD patients who have high-titer binding antibodies [due to previou
 
 ## Excipient related considerations
 
-This medicinal product contains 5.2 mg sodium in each 650 IU vial or 10.4 mg sodium in each 1300 IU vial, equivalent to 2.2% of the WHO recommended maximum daily intake of 2 g sodium for an adult, assuming a body weight of 70 kg and a dose of 80 IU/kg body weight. This is to be taken into consideration by patients on a controlled sodium diet.
+## Sodium content
+
+This medicinal product contains 5.2 mg sodium in each 650 IU vial or 10.4 mg sodium in each 1 300 IU vial, equivalent to 2.2% of the WHO recommended maximum daily intake of 2 g sodium for an adult, assuming a body weight of 70 kg and a dose of 80 IU/kg body weight. This is to be taken into consideration by patients on a controlled sodium diet.
+
+## Polysorbate content
+
+This medicinal product contains 0.5 mg of polysorbate 80 in each 650 IU vial or 1.0 mg of polysorbate 80 in each 1 300 IU vial, which is equivalent to 0.1 mg/mL. Polysorbates may cause allergic reactions.
 
 ## 4.5 Interaction with other medicinal products and other forms of interaction
 
@@ -239,34 +250,34 @@ VEYVONDI has no or negligible influence on the ability to drive and use machines
 
 During treatment with VEYVONDI the following adverse reactions may occur: hypersensitivity or allergic reactions, thromboembolic events, inhibitor formation against VWF.
 
+<div style=\"page-break-after: always\"></div>
+
 ## Tabulated list of adverse reactions
 
 Table 4 lists the adverse reactions reported in clinical trials, post-authorisation safety studies or postmarketing reporting. Frequency categories are defined according to the following convention: very common (≥ 1/10), common (≥ 1/100 to &lt; 1/10), uncommon (≥ 1/1 000 to &lt; 1/100), rare (≥ 1/10 000 to &lt; 1/1 000), very rare (&lt; 1/10 000), not known (cannot be estimated from the available data). Within each frequency grouping, adverse reactions are presented in the order of decreasing seriousness.
 
-<div style=\"page-break-after: always\"></div>
-
 Table 4. Summary of adverse reactions reported in clinical trials, post-authorisation safety studies or post-marketing with VEYVONDI in von Willebrand disease
 
-| MedDRAsystem organ class (SOC)                       | Adverse reaction by preferred term (PT)                                                    | Frequency category by subject   |
-|------------------------------------------------------|--------------------------------------------------------------------------------------------|---------------------------------|
-| Immune system disorders                              | Anaphylactic reaction                                                                      | Not known                       |
-| Nervous system disorders                             | Headache                                                                                   | Very common                     |
-| Nervous system disorders                             | Dizziness                                                                                  | Common                          |
-| Nervous system disorders                             | Vertigo                                                                                    | Common                          |
-| Nervous system disorders                             | Dysgeusia                                                                                  | Common                          |
-| Nervous system disorders                             | Tremor                                                                                     | Common                          |
-| Cardiac disorders                                    | Tachycardia                                                                                | Common                          |
-| Vascular disorders                                   | Deep venous thrombosis                                                                     | Common                          |
-| Vascular disorders                                   | Hypertension                                                                               | Common                          |
-| Vascular disorders                                   | Hot flush                                                                                  | Common                          |
-| Gastrointestinal disorders                           | Vomiting                                                                                   | Common                          |
-| Gastrointestinal disorders                           | Nausea                                                                                     | Common                          |
-| Skin and subcutaneous tissue disorders               | Pruritus generalised                                                                       | Common                          |
-| General disorders and administration site conditions | Chest discomfort                                                                           | Common                          |
-| General disorders and administration site conditions | Infusion site paraesthesia                                                                 | Common                          |
-| General disorders and administration site conditions | Infusion-related reaction (including tachycardia, flushing, rash, dyspnea, blurred vision) | Not known                       |
-| Investigations                                       | Electrocardiogram T wave inversion                                                         | Common                          |
-| Investigations                                       | Heart rate increased                                                                       | Common                          |
+| MedDRAsystem organ class (SOC)                       | Adverse reaction by preferred term (PT)                                                     | Frequency category by subject   |
+|------------------------------------------------------|---------------------------------------------------------------------------------------------|---------------------------------|
+| Immune system disorders                              | Anaphylactic reaction*                                                                      | Not known                       |
+| Nervous system disorders                             | Headache                                                                                    | Very common                     |
+| Nervous system disorders                             | Dizziness                                                                                   | Common                          |
+| Nervous system disorders                             | Vertigo                                                                                     | Common                          |
+| Nervous system disorders                             | Dysgeusia                                                                                   | Uncommon                        |
+| Nervous system disorders                             | Tremor                                                                                      | Uncommon                        |
+| Cardiac disorders                                    | Tachycardia                                                                                 | Uncommon                        |
+| Vascular disorders                                   | Hypertension                                                                                | Common                          |
+| Vascular disorders                                   | Deep venous thrombosis                                                                      | Uncommon                        |
+| Vascular disorders                                   | Hot flush                                                                                   | Uncommon                        |
+| Gastrointestinal disorders                           | Vomiting                                                                                    | Common                          |
+| Gastrointestinal disorders                           | Nausea                                                                                      | Common                          |
+| Skin and subcutaneous tissue disorders               | Pruritus generalised                                                                        | Common                          |
+| General disorders and administration site conditions | Chest discomfort                                                                            | Uncommon                        |
+| General disorders and administration site conditions | Infusion site paraesthesia                                                                  | Uncommon                        |
+| General disorders and administration site conditions | Infusion-related reaction (including tachycardia, flushing, rash, dyspnea, blurred vision)* | Not known                       |
+| Investigations                                       | Electrocardiogram T wave inversion                                                          | Uncommon                        |
+| Investigations                                       | Heart rate increased                                                                        | Uncommon                        |
 
 ## Description of selected adverse reactions
 
@@ -278,15 +289,19 @@ Patients with VWD, especially type 3, may very rarely develop neutralising antib
 
 In all such cases, it is recommended that a specialised haemophilia centre be contacted.
 
+<div style=\"page-break-after: always\"></div>
+
 ## Thrombogenicity
 
 There is a risk of occurrence of thrombotic events, particularly in patients with known clinical or laboratory risk factors including low ADAMTS13 levels. Therefore, patients at risk have to be monitored for early signs of thrombosis, and prophylaxis measures against thromboembolism should be instituted according to current recommendations and standard of care.
 
-<div style=\"page-break-after: always\"></div>
-
 ## Immunogenicity
 
-The immunogenicity of VEYVONDI was assessed in clinical trials by monitoring the development of neutralising antibodies against VWF and FVIII, as well as binding antibodies against VWF, Furin, Chinese Hamster Ovary (CHO) protein and mouse IgG. No treatment-emergent development of neutralising antibodies against human VWF or neutralising antibodies against human rFVIII was observed. One of the 100 subjects who received VEYVONDI peri-operatively in clinical trials developed treatment-emergent binding antibodies against VWF following a surgery for whom no adverse events or lack of haemostatic efficacy has been reported. Binding antibodies against impurities such as rFurin, CHO-protein or mouse IgG were not observed after treatment with VEYVONDI.
+The immunogenicity of VEYVONDI was assessed in clinical trials by monitoring the development of neutralising antibodies against VWF and FVIII, as well as binding antibodies against VWF, Furin, Chinese Hamster Ovary (CHO) protein and mouse IgG. No treatment-emergent development of neutralising antibodies against human VWF or neutralising antibodies against human rFVIII was observed. One of the 132 subjects who received VEYVONDI peri-operatively in clinical trials developed treatment-emergent binding antibodies against VWF following a surgery for whom no adverse events or lack of haemostatic efficacy has been reported. Binding antibodies against impurities such as rFurin, CHO-protein or mouse IgG were not observed after treatment with VEYVONDI.
+
+## Paediatric population
+
+The frequency, type and severity of adverse reactions in children receiving VEYVONDI for the treatment of haemorrhage are expected to be the same as in adults.
 
 ## Reporting of suspected adverse reactions
 
@@ -300,7 +315,7 @@ No symptoms of overdose with von Willebrand factor have been reported. Thromboem
 
 ## 5.1 Pharmacodynamic properties
 
-Pharmacotherapeutic group: Antihaemorrhagics: blood coagulation factor von Willebrand factor, ATC code: B02BD10
+Pharmacotherapeutic group: antihaemorrhagics, blood coagulation factors, ATC code: B02BD10
 
 ## Mechanism of action
 
@@ -309,43 +324,60 @@ VEYVONDI is a recombinant human von Willebrand factor (rVWF). VEYVONDI behaves i
 Administration of VEYVONDI allows correction of the haemostatic abnormalities exhibited by patients who suffer from von Willebrand factor deficiency (von Willebrand's disease) at two levels:
 
 - -VEYVONDI re-establishes platelet adhesion to the vascular sub-endothelium at the site of vascular damage (as it binds both to the vascular sub-endothelium matrix (e.g. collagen) and to the platelet membrane), providing primary haemostasis as shown by the shortening of the bleeding time. This effect occurs immediately and is known to depend to a large extent on the level of polymerisation of the protein.
-- -VEYVONDI produces delayed correction of the associated factor VIII deficiency. Administered intravenously, VEYVONDI binds to endogenous factor VIII (which is produced normally by the patient), and by stabilising this factor, avoids its rapid degradation. Because of this, administration of VEYVONDI restores the FVIII:C level to normal as a secondary effect. After the first infusion, the FVIII:C level is expected to rise above 40% within 6 hours and to peak within 24 hours in most patients, depending on the baseline FVIII:C level.
+- -VEYVONDI produces delayed correction of the associated factor VIII deficiency. Administered intravenously, VEYVONDI binds to endogenous factor VIII (which is produced normally by the
+
+<div style=\"page-break-after: always\"></div>
+
+patient), and by stabilising this factor, avoids its rapid degradation. Because of this, administration of VEYVONDI restores the FVIII:C level to normal as a secondary effect. After the first infusion, the FVIII:C level is expected to rise above 40% within 6 hours and to peak within 24 hours in most patients, depending on the baseline FVIII:C level.
 
 VEYVONDI is a rVWF that contains ultra-large multimers in addition to all of the multimers found in plasma as it is not exposed to proteolysis by ADAMTS13 during the manufacturing process.
 
 ## Clinical efficacy and safety
 
-The clinical safety, efficacy and PK data were assessed in 4 completed trials, (070701, 071001, 071101 and 071301) which enrolled patients with VWD. A total of 112 unique subjects (100 unique subjects
+The clinical safety, efficacy and PK data were assessed in 5 completed trials in adults and children with VWD (070701, 071001, 071101, 071301 and SHP677-304) and in one ongoing trial in children with VWD (071102). A total of 144 unique subjects (103 unique adult subjects with VWD, 29 unique paediatric subjects with VWD, and 12 subjects with haemophilia A in study 071104) were exposed to VEYVONDI during clinical development.
 
-<div style=\"page-break-after: always\"></div>
-
-with VWD in studies 070701, 071001, 071101 and 071301, and 12 subjects with haemophilia A in study 071104) were exposed to VEYVONDI during clinical development.
-
-The European Medicines Agency has deferred the obligation to submit the results of studies with VEYVONDI in all subsets of the paediatric population in the treatment of von Willebrand Disease (see section 4.2 for information on paediatric use).
+The European Medicines Agency has deferred the obligation to submit the results of studies with VEYVONDI in one or more subsets of the paediatric population in the treatment of von Willebrand Disease (see section 4.2 for information on paediatric use).
 
 ## 5.2 Pharmacokinetic properties
 
-The pharmacokinetics (PK) of VEYVONDI were determined in three clinical trials by assessing the plasma levels of VWF:RCo, von Willebrand Factor Antigen (VWF:Ag), and von Willebrand Collagen Binding Activity (VWF:CB). In all three studies, subjects were evaluated in the non-bleeding state. Sustained increase of FVIII:C was observed by six hours after a single infusion of VEYVONDI.
+The pharmacokinetics (PK) of VEYVONDI were determined in three clinical trials in adults by assessing the plasma levels of VWF:RCo, von Willebrand Factor Antigen (VWF:Ag), and von Willebrand Collagen Binding Activity (VWF:CB). In all three studies, subjects were evaluated in the non-bleeding state. Sustained increase of FVIII:C was observed by six hours after a single infusion of VEYVONDI.
 
-Table 5 summarizes the PK of VEYVONDI after 50 IU/kg VWR:RCo (PK50) or 80 IU/kg VWF:RCo (PK80) infusions. The mean duration of infusion was 16.5 minutes (SD ± 3.51 minutes) for 50 IU/kg (PK50) and 11.8 minutes (± 2.86 minutes) for 80 IU/kg VWF:RCo (PK80).
+Table 5 summarizes the PK of VEYVONDI in adults after 50 IU/kg VWR:RCo (PK50) or 80 IU/kg VWF:RCo (PK80) infusions. The mean duration of infusion was 16.5 minutes (SD ± 3.51 minutes) for 50 IU/kg (PK50) and 11.8 minutes (± 2.86 minutes) for 80 IU/kg VWF:RCo (PK80).
 
-Table 5. Pharmacokinetic assessment of VWF:RCo f
+Table 5. Pharmacokinetic assessment of VWF:RCo a  in adults
 
 | Parameter         | Phase 1 PK50 VEYVONDI with octocog alfa g (Study 070701) Mean (95% CI) SD   | Phase 3 PK50 VEYVONDI (Study 071001) Mean (95% CI) SD   | Phase 3 PK80 VEYVONDI (Study 071001) Mean (95% CI) SD   | Surgery PK50 VEYVONDI (Study 071101) Mean (95% CI) SD   |
 |-------------------|-----------------------------------------------------------------------------|---------------------------------------------------------|---------------------------------------------------------|---------------------------------------------------------|
-| T 1/2 a           | 19.3 (14.3; 24.3) 10.99                                                     | 22.6 (19.5; 25.7) 5.34                                  | 19.1 (16.7; 21.5) 4.32                                  | 17.8 (12.9; 22.8) 7.34                                  |
-| Cl b              | 0.04 (0.03; 0.05) 0.028                                                     | 0.02 (0.02; 0.03) 0.005                                 | 0.03 (0.02; 0.03) 0.009                                 | 0.03 (0.02; 0.04) 0.011                                 |
-| IR at Cmax c      | 1.7 (1.4; 2.0) 0.62                                                         | 1.9 (1.6; 2.1) 0.41                                     | 2.0 (1.7; 2.2) 0.39                                     | 2.0 (1.7; 2.3) 0.45                                     |
-| AUC0-inf d        | 1541.4 (1295.7; 1787.2) 554.31                                              | 2105.4 (1858.6; 2352.3) 427.51                          | 2939.0 (2533.2; 3344.8) 732.72                          | 1834.4 (1259.0; 2409.7) 856.45                          |
-| AUC0- inf /Dose e | 33.4 (27.2; 39.5) 13.87                                                     | 42.1 (37.3; 46.9) 8.31                                  | 36.8 (31.8; 41.8) 8.97                                  | 37.5 (25.3; 49.7) 18.14                                 |
-
-An exploratory analysis of combined data from studies 070701 and 071001 indicated a statistically significantly (at the 5% level) longer mean residence time, a statistically significantly (at the 5% level) longer terminal half-life and statistically significantly (at the 5% level) larger AUC0-inf regarding VWF:RCo following administration with VEYVONDI (50 IU/kg VWF:RCo) and combined administration of VEYVONDI and octocog alfa (50 IU/kg VWF:RCo and 38.5 IU/kg rFVIII) than after administration of pdVWF and plasma derived factor VIII (pdFVIII) (50 IU/kg pdVWF:RCo and 38.5 IU/kg pdFVIII).
-
-In addition, full PK assessments of VEYVONDI were performed following single and multiple dosing in study 071301, which investigated long-term prophylactic treatment in a total of 23 subjects with severe VWD (N=3 type 1, N=1 type 2A, N=1 type 2B, N=18 type 3). PK parameters derived from these assessment confirmed the results of previous trials (see Table 5 above) and a statistical comparison of key VWF PK parameters between initiation and month 12 of prophylactic treatment did not reveal any significant differences.
+| T 1/2 b           | 19.3 (14.3; 24.3) 10.99                                                     | 22.6 (19.5; 25.7) 5.34                                  | 19.1 (16.7; 21.5) 4.32                                  | 17.8 (12.9; 22.8) 7.34                                  |
+| Cl c              | 0.04 (0.03; 0.05) 0.028                                                     | 0.02 (0.02; 0.03) 0.005                                 | 0.03 (0.02; 0.03) 0.009                                 | 0.03 (0.02; 0.04) 0.011                                 |
+| IR at Cmax d      | 1.7 (1.4; 2.0) 0.62                                                         | 1.9 (1.6; 2.1) 0.41                                     | 2.0 (1.7; 2.2) 0.39                                     | 2.0 (1.7; 2.3) 0.45                                     |
+| AUC0-inf e        | 1541.4 (1295.7; 1787.2) 554.31                                              | 2105.4 (1858.6; 2352.3) 427.51                          | 2939.0 (2533.2; 3344.8) 732.72                          | 1834.4 (1259.0; 2409.7) 856.45                          |
+| AUC0- inf /Dose f | 33.4 (27.2; 39.5) 13.87                                                     | 42.1 (37.3; 46.9) 8.31                                  | 36.8 (31.8; 41.8) 8.97                                  | 37.5 (25.3; 49.7) 18.14                                 |
 
 <div style=\"page-break-after: always\"></div>
 
-PK data of VWF (N=100) across the different studies were evaluated using a population PK modelling and simulation approach. These results confirmed that the PK of VWF:RCo is both dose-independent (range: 2.0 to 80 IU/kg) and time-independent (up to 1.5 years). Covariate evaluations indicated no clinically meaningful effect of gender and race on VWF:RCo PK; body weight was identified as a significant covariate.
+An exploratory analysis of combined data from studies 070701 and 071001 indicated a statistically significantly (at the 5% level) longer mean residence time, a statistically significantly (at the 5% level) longer terminal half-life and statistically significantly (at the 5% level) larger AUC0-inf regarding VWF:RCo following administration with VEYVONDI (50 IU/kg VWF:RCo) and combined administration of VEYVONDI and octocog alfa (50 IU/kg VWF:RCo and 38.5 IU/kg rFVIII) than after administration of pdVWF and plasma derived factor VIII (pdFVIII) (50 IU/kg pdVWF:RCo and 38.5 IU/kg pdFVIII).
+
+In addition, full PK assessments of VEYVONDI were performed following single and multiple dosing in study 071301, which investigated long-term prophylactic treatment in a total of 23 adult subjects with severe VWD (N=3 type 1, N=1 type 2A, N=1 type 2B, N=18 type 3). PK parameters derived from these assessment confirmed the results of previous trials (see Table 5 above) and a statistical comparison of key VWF PK parameters between initiation and month 12 of prophylactic treatment did not reveal any significant differences.
+
+PK data of VWF (N=134) across 6 studies were evaluated using a population PK modelling and simulation approach. These results confirmed that the PK of VWF:RCo is both dose-independent (range: 2.0 to 80 IU/kg) and time-independent (up to 4.3 years). Covariate evaluations indicated no clinically meaningful effect of gender, race or VWD type on VWF:RCo PK; body weight and age were identified as significant covariates.
+
+## Paediatric population
+
+PK of VWF in 24 paediatric patients with VWD were estimated based on population PK modelling using sparse PK samples collected during a paediatric study across three age groups (less than 6 years old [N=5], 6 years to less than 12 years old [N=10], and 12 years to less than 18 years old [N=9]) after receiving a single infusion of 50 ± 5 IU/kg rVWF:RCo (see Table 6).
+
+Table 6. Pharmacokinetic assessment of VWF:RCo in paediatric subjects a
+
+| Parameter         | PK50 VEYVONDI (Study 071102) Mean (95% CI) SD   | PK50 VEYVONDI (Study 071102) Mean (95% CI) SD   | PK50 VEYVONDI (Study 071102) Mean (95% CI) SD   | PK50 VEYVONDI (Study 071102) Mean (95% CI) SD   |
+|-------------------|-------------------------------------------------|-------------------------------------------------|-------------------------------------------------|-------------------------------------------------|
+| Age range         | < 6 yrs (n=5)                                   | 6 yrs to < 12 yrs (n=10)                        | 12 yrs to < 18 yrs (n=9)                        | Total (n=24)                                    |
+| T 1/2 b           | 12.4 (9.91; 15.0) 2.90                          | 14.5 (13.6; 15.4) 1.47                          | 15.1 (14.2; 16.1) 1.50                          | 14.3 (13.5; 15.1) 2.03                          |
+| CL c              | 0.082 (0.047; 0.118) 0.041                      | 0.051 (0.041; 0.061) 0.016                      | 0.043 (0.038; 0.048) 0.007                      | 0.055 (0.045; 0.065) 0.025                      |
+| IR at C max d     | 1.25 (0.92; 1.58) 0.378                         | 1.54 (1.30; 1.77) 0.378                         | 1.58 (1.43; 1.72) 0.225                         | 1.49 (1.36; 1.63) 0.339                         |
+| AUC 0-inf e       | 1260 (690; 1840) 654                            | 1630 (1080; 2170) 882                           | 1600 (1140; 2060) 704                           | 1540 (1240; 1840) 757                           |
+| AUC 0-inf /Dose f | 25.6 (14.4; 36.9) 12.8                          | 32.5 (21.3; 43.7) 18.1                          | 32.6 (23.2; 41.9) 14.3                          | 31.1 (25.0; 37.2) 15.3                          |
+
+<div style=\"page-break-after: always\"></div>
 
 ## 5.3 Preclinical safety data
 
@@ -371,7 +403,7 @@ This medicinal product must not be mixed with other medicinal products except th
 
 ## 6.3 Shelf life
 
-Unopened vial
+## Unopened vial
 
 3 years.
 
@@ -385,27 +417,27 @@ Chemical and physical in-use stability has been demonstrated for 3 hours at 25 �
 
 Store below 30 °C. Do not freeze.
 
-<div style=\"page-break-after: always\"></div>
-
 Store in the original package in order to protect from light.
 
 ## After reconstitution
 
 For storage conditions after reconstitution of the medicinal product, see section 6.3.
 
+<div style=\"page-break-after: always\"></div>
+
 ## 6.5 Nature and contents of container
 
 ## VEYVONDI 650 IU powder and solvent for solution for injection
 
-Each pack contains:
+## Each pack contains:
 
 - -powder in a vial (type I glass), with a butyl rubber stopper
 - -5 mL of solvent in a vial (type I glass), with a rubber stopper (chlorobutyl or bromobutyl)
 - -one reconstitution device (Mix2Vial)
 
-## VEYVONDI 1300 IU powder and solvent for solution for injection
+## VEYVONDI 1 300 IU powder and solvent for solution for injection
 
-Each pack contains:
+## Each pack contains:
 
 - -powder in a vial (type I glass), with a butyl rubber stopper
 - -10 mL of solvent in a vial (type I glass), with a rubber stopper (bromobutyl)
@@ -418,33 +450,44 @@ Each pack contains:
 - -Check the expiry date, and ensure that the VEYVONDI powder and water for injections (solvent) are at room temperature prior to preparation. Do not use after the expiry date stated on the labels and carton.
 - -Use antiseptic technique (clean and low-germ conditions) and a flat work surface during the reconstitution procedure. Wash your hands and put on clean exam gloves (the use of gloves is optional).
 - -Use the reconstituted product (after mixing the powder with the supplied water) as soon as possible and within three hours. You can store the reconstituted product at room temperature not to exceed 25 °C for up to three hours.
-- -Ensure that the VEYVONDI powder vial and the sterilised water for injections (solvent) are at room temperature prior to preparation.
+- -Ensure that the VEYVONDI powder vial and the water for injections (solvent) are at room temperature prior to preparation.
 - -Use plastic syringes with this product because proteins in the product tend to stick to the surface of glass syringes.
-- -Do not mix vonicog alfa with other medicinal products except for octocog alfa (ADVATE).
-
-<div style=\"page-break-after: always\"></div>
+- -Do not mix VEYVONDI with other medicinal products except for octocog alfa (ADVATE).
 
 ## Instructions for reconstitution and application
 
+|    | Steps                                                                                                                                                                                                                                                                    | Image example   |
+|----|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------|
+|  1 | Remove the caps from the VEYVONDI powder and solvent vials to expose the centre of the rubber stoppers.                                                                                                                                                                  |                 |
+|  2 | Disinfect each stopper with a separate sterile alcohol swab (or other suitable sterile solution suggested by your doctor or haemophilia treatment centre) by wiping the stopper for several seconds. Allow the rubber stopper to dry. Place the vials on a flat surface. |                 |
+|  3 | Open the Mix2Vial device package by completely peeling away the lid, without touching the inside of the package. Do not remove the Mix2Vial device from the package.                                                                                                     | NA              |
+
+<!-- image -->
+
+<!-- image -->
+
+<div style=\"page-break-after: always\"></div>
+
+<!-- image -->
+
+<!-- image -->
+
+<!-- image -->
+
+<!-- image -->
+
+<!-- image -->
+
+<!-- image -->
+
 |    | Steps                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           | Image example   |
 |----|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------|
-|  1 | Remove the caps from the VEYVONDI powder and solvent vials to expose the centre of the rubber stoppers.                                                                                                                                                                                                                                                                                                                                                                                                                                         |                 |
-|  2 | Disinfect each stopper with a separate sterile alcohol swab (or other suitable sterile solution suggested by your doctor or haemophilia treatment centre) by wiping the stopper for several seconds. Allow the rubber stopper to dry. Place the vials on a flat surface.                                                                                                                                                                                                                                                                        |                 |
-|  3 | Open the Mix2Vial device package by completely peeling away the lid, without touching the inside of the package. Do not remove the Mix2Vial device from the package.                                                                                                                                                                                                                                                                                                                                                                            | NA              |
 |  4 | Turn the package with the Mix2Vial device upside down and place it over the top of the solvent vial. Firmly insert the blue plastic spike of the device into the centre of the solvent vial stopper by pushing straight down. Grip the package at its edge and lift it off the Mix2Vial device. Be careful not to touch the clear plastic spike. The solvent vial now has the Mix2Vial device connected to it and is ready to be connected to the VEYVONDI vial.                                                                                |                 |
 |  5 | To connect the solvent vial to the VEYVONDI vial, turn the solvent vial over and place it on top of the vial containing VEYVONDI powder. Fully insert the clear plastic spike into the VEYVONDI vial stopper by firmly pushing straight down. This should be done right away to keep the liquid free of germs. The solvent will flow into the VEYVONDI vial by vacuum. Check that all the solvent has transferred. Do not use if the vacuum has been lost and the solvent does not flow into the VEYVONDI vial.                                 |                 |
 |  6 | Gently and continuously swirl the connected vials or allow the reconstituted product to stand for 5 minutes then gently swirl to ensure the powder is completely dissolved. Do not shake. Shaking will adversely affect the product. Do not refrigerate after reconstitution.                                                                                                                                                                                                                                                                   |                 |
 |  7 | Disconnect the two sides of the Mix2Vial from each other by holding the clear plastic side of the Mix2Vial device attached to the VEYVONDI vial with one hand and the blue plastic side of the Mix2Vial device attached to the solvent vial with the other hand. Turn the blue plastic side counterclockwise and gently pull the two vials apart. Do not touch the end of the plastic connector attached to the VEYVONDI vial containing the dissolved product. Place the VEYVONDI vial on a flat work surface. Discard the empty solvent vial. |                 |
-
-<!-- image -->
-
-<!-- image -->
-
-<!-- image -->
-
-<!-- image -->
-
-<!-- image -->
+|  8 | Draw air into the empty, sterile disposable plastic syringe by pulling back on the plunger. The amount of air should equal the amount of reconstituted VEYVONDI that you will withdraw from the vial.                                                                                                                                                                                                                                                                                                                                           |                 |
+|  9 | Leaving the VEYVONDI vial (containing the reconstituted product) on your flat work surface, connect the syringe to the clear plastic connector and turn the syringe clockwise.                                                                                                                                                                                                                                                                                                                                                                  |                 |
 
 <div style=\"page-break-after: always\"></div>
 
@@ -454,31 +497,24 @@ Each pack contains:
 
 <!-- image -->
 
-<!-- image -->
-
-<!-- image -->
-
-|                                                                  | Steps                                                                                                                                                                                                                                                                                                                                                              | Image example   |
-|------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------|
-| 8                                                                | Draw air into the empty, sterile disposable plastic syringe by pulling back on the plunger. The amount of air should equal the amount of reconstituted VEYVONDI that you will withdraw from the vial.                                                                                                                                                              |                 |
-| 9                                                                | Leaving the VEYVONDI vial (containing the reconsituted product) on your flat work surface, connect the syringe to the clear plastic connector and turning the syringe clockwise.                                                                                                                                                                                   |                 |
-| 10                                                               | Hold the vial with one hand and use the other hand to push all the air from the syringe into the vial.                                                                                                                                                                                                                                                             |                 |
-| 11                                                               | Flip connected syringe and VEYVONDI vial so the vial is on top. Be sure to keep the syringe plunger pressed in. Draw the VEYVONDI into the syringe by pulling plunger back slowly.                                                                                                                                                                                 |                 |
-| 12                                                               | Do not push and pull solution back and forth between syringe and vial. Doing so may harm medicine. When ready to infuse, disconnect the syringe by turning it counterclockwise. Inspect the syringe visually for particulate matter; the solution should be clear and colourless. If flakes or particles are seen, do not use the solution and notify your doctor. |                 |
-| 13                                                               | If you need more than one vial of VEYVONDI to make up your dose:  Leave the syringe attached to the vial until an additional vial is prepared.  Use the reconstitution steps above (2 to 8) to prepare the additional vial of VEYVONDI using a fresh Mix2Vial device for each vial.                                                                              |                 |
-| 14 The contents of two vials may be drawn into a single syringe. | 14 The contents of two vials may be drawn into a single syringe.                                                                                                                                                                                                                                                                                                   |                 |
-
-<div style=\"page-break-after: always\"></div>
-
-| Steps                                                                                                                                          | Image example   |
-|------------------------------------------------------------------------------------------------------------------------------------------------|-----------------|
-| NOTE: When pushing air into a second vial of VEYVONDI to be pooled into a syringe, orient the vial and connected syringe with the vial on top. |                 |
+|    | Steps                                                                                                                                                                                                                                                                                                                                                                  | Image example   |
+|----|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------|
+| 10 | Hold the vial with one hand and use the other hand to push all the air from the syringe into the vial.                                                                                                                                                                                                                                                                 |                 |
+| 11 | Flip connected syringe and VEYVONDI vial so the vial is on top. Be sure to keep the syringe plunger pressed in. Draw the VEYVONDI into the syringe by pulling plunger back slowly.                                                                                                                                                                                     |                 |
+| 12 | Do not push and pull solution back and forth between syringe and vial. Doing so may harm the medicine. When ready to infuse, disconnect the syringe by turning it counterclockwise. Inspect the syringe visually for particulate matter; the solution should be clear and colourless. If flakes or particles are seen, do not use the solution and notify your doctor. |                 |
+| 13 | If you need more than one vial of VEYVONDI to make up your dose:  Leave the syringe attached to the vial until an additional vial is prepared.  Use the reconstitution steps above (2 to 8) to prepare the additional vial of VEYVONDI using a fresh Mix2Vial device for each vial.                                                                                  |                 |
+| 14 | The contents of two vials may be drawn into a single syringe. NOTE: When pushing air into a second vial of VEYVONDI to be pooled into a syringe, position the vial and connected syringe so that the vial is on top.                                                                                                                                                   |                 |
 
 ## Instructions for administration
 
-Inspect the prepared solution in the syringe for particulate matter and discoloration prior to administration (the solution should be clear, colourless and free from particles). It is not uncommon for a few flakes or particles to remain in the product vial after reconstitution . The filter included in the Mix2Vial device removes those particles completely. Filtration does not influence dose calculations. The solution in the syringe should not be used if it is cloudy or contains flakes or particles after filtration.
+Inspect the prepared solution in the syringe for particulate matter and discolouration prior to administration (the solution should be clear, colourless and free from particles). It is not uncommon for a few flakes or particles to remain in the product vial after reconstitution . The filter included in the Mix2Vial device removes those particles completely. Filtration does not influence dose calculations. The solution in the syringe should not be used if it is cloudy or contains flakes or particles after filtration.
 
-1. Attach the infusion needle to a syringe containing VEYVONDI solution. For comfort, a winged (butterfly) infusion set is preferred. Point the needle up and remove any air bubbles by gently tapping the syringe with your finger and slowly and carefully pushing air out of the syringe and needle.
+1. Attach the infusion needle to a syringe containing VEYVONDI solution. For comfort, a winged (butterfly) infusion set is preferred. Point the needle up and remove any air bubbles by gently
+
+<div style=\"page-break-after: always\"></div>
+
+tapping the syringe with your finger and slowly and carefully pushing air out of the syringe and needle.
+
 2. Apply a tourniquet and get the infusion site ready by wiping the skin well with a sterile alcohol swab (or other suitable sterile solution suggested by your doctor or haemophilia treatment centre).
 3. Insert the needle into the vein and remove the tourniquet. Slowly infuse VEYVONDI. Do not infuse any faster than 4 mL per minute. Disconnect the empty syringe. If your dose requires multiple syringes, attach and administer each additional syringe of VEYVONDI one at a time.
 
@@ -500,13 +536,9 @@ Any unused medicinal product or waste material should be disposed of in accordan
 
 Baxalta Innovations GmbH Industriestrasse 67 1221 Vienna Austria medinfoEMEA@takeda.com
 
-<div style=\"page-break-after: always\"></div>
+## 8. MARKETING AUTHORISATION NUMBERS
 
-## 8. MARKETING AUTHORISATION NUMBER(S)
-
-EU/1/18/1298/001
-
-EU/1/18/1298/002
+EU/1/18/1298/001 EU/1/18/1298/002
 
 ## 9. DATE OF FIRST AUTHORISATION/RENEWAL OF THE AUTHORISATION
 
@@ -516,9 +548,7 @@ Date of latest renewal: 23 June 2023
 
 ## 10. DATE OF REVISION OF THE TEXT
 
-Detailed information on this medicinal product is available on the website of the European Medicines Agency http://www.ema.europa.eu.
-
-16
+Detailed information on this medicinal product is available on the website of the European Medicines Agency https://www.ema.europa.eu.
 
 <div style=\"page-break-after: always\"></div>
 
@@ -582,7 +612,7 @@ OUTER CARTON (650 IU)
 
 VEYVONDI 650 IU powder and solvent for solution for injection vonicog alfa (recombinant human von Willebrand factor)
 
-## 2. STATEMENT OF ACTIVE SUBSTANCE(S)
+## 2. STATEMENT OF ACTIVE SUBSTANCE
 
 1 vial contains 650 IU vonicog alfa, approx. 130 IU/mL after reconstitution with 5 mL water for injections
 
@@ -590,7 +620,7 @@ Specific activity: approx. 110 IU VWF:RCo/mg protein
 
 ## 3. LIST OF EXCIPIENTS
 
-Excipients: Sodium citrate, glycine, trehalose dihydrate, mannitol, polysorbate 80, and water for injections. See leaflet for further information.
+Excipients: Sodium citrate (E 331), glycine (E 640), trehalose dihydrate, mannitol (E 421), polysorbate 80 (E 433), and water for injections. See leaflet for further information.
 
 ## 4. PHARMACEUTICAL FORM AND CONTENTS
 
@@ -598,7 +628,7 @@ Powder and solvent for solution for injection
 
 Contents: 1 powder vial, 1 vial with solvent (5 mL), 1 Mix2Vial device
 
-## 5. METHOD AND ROUTE(S) OF ADMINISTRATION
+## 5. METHOD AND ROUTE OF ADMINISTRATION
 
 Intravenous use, after reconstitution.
 
@@ -620,25 +650,19 @@ Use immediately or within 3 hours after reconstitution.
 
 ## 9. SPECIAL STORAGE CONDITIONS
 
-Store below 30 °C.
+<div style=\"page-break-after: always\"></div>
 
-Do not freeze.
+Store below 30 °C. Do not freeze.
 
-Store in the original package in order to protect from light
+Store in the original package in order to protect from light.
 
-10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
+## 10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
-Baxalta Innovations GmbH
+Baxalta Innovations GmbH Industriestrasse 67 1221 Vienna Austria
 
-Industriestrasse 67
-
-1221 Vienna
-
-Austria
-
-## 12. MARKETING AUTHORISATION NUMBER(S)
+## 12. MARKETING AUTHORISATION NUMBER
 
 EU/1/18/1298/001
 
@@ -654,25 +678,21 @@ Lot
 
 VEYVONDI 650 IU
 
-17. UNIQUE IDENTIFIER - 2D BARCODE
+## 17. UNIQUE IDENTIFIER - 2D BARCODE
 
 2D barcode carrying the unique identifier included.
 
 ## 18. UNIQUE IDENTIFIER - HUMAN READABLE DATA
 
-PC
-
-SN
+PC SN
 
 NN
 
 <div style=\"page-break-after: always\"></div>
 
-<div style=\"page-break-after: always\"></div>
-
 ## MINIMUM PARTICULARS TO APPEAR ON SMALL IMMEDIATE PACKAGING UNITS POWDER VIAL LABEL
 
-## 1. NAME OF THE MEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION
+## 1. NAME OF THE MEDICINAL PRODUCT AND ROUTE OF ADMINISTRATION
 
 VEYVONDI 650 IU powder for solution for injection vonicog alfa IV
 
@@ -690,7 +710,7 @@ Lot
 
 ## 5. CONTENTS BY WEIGHT, BY VOLUME OR BY UNIT
 
-6. OTHER
+## 6. OTHER
 
 <div style=\"page-break-after: always\"></div>
 
@@ -698,8 +718,8 @@ Lot
 |----------------------------------------------------------------|
 | SOLVENTVIALLABEL(5 mL)                                         |
 
-| 1.   | NAMEOFTHEMEDICINALPRODUCTAND ROUTE(S) OFADMINISTRATION   |
-|------|----------------------------------------------------------|
+| 1.   | NAMEOFTHEMEDICINALPRODUCTAND ROUTE OFADMINISTRATION   |
+|------|-------------------------------------------------------|
 
 Solvent for VEYVONDI Water for injections IV
 
@@ -728,29 +748,29 @@ Lot
 
 ## PARTICULARS TO APPEAR ON THE OUTER PACKAGING
 
-OUTER CARTON (1300 IU)
+OUTER CARTON (1 300 IU)
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
-VEYVONDI 1300 IU powder and solvent for solution for injection vonicog alfa (recombinant human von Willebrand factor)
+VEYVONDI 1 300 IU powder and solvent for solution for injection vonicog alfa (recombinant human von Willebrand factor)
 
-## 2. STATEMENT OF ACTIVE SUBSTANCE(S)
+## 2. STATEMENT OF ACTIVE SUBSTANCE
 
-1 vial contains1300 IU vonicog alfa, approx. 130 IU/mL after reconstitution with 10 mL water for injections
+1 vial contains1 300 IU vonicog alfa, approx. 130 IU/mL after reconstitution with 10 mL water for injections
 
 Specific activity: approx. 110 IU VWF:RCo/mg protein
 
 ## 3. LIST OF EXCIPIENTS
 
-Excipients: Sodium citrate, glycine, trehalose dihydrate, mannitol, polysorbate 80 and water for injections. See leaflet for further information.
+Excipients: Sodium citrate (E 331), glycine (E 640), trehalose dihydrate, mannitol (E 421), polysorbate 80 (E 433), and water for injections. See leaflet for further information.
 
 ## 4. PHARMACEUTICAL FORM AND CONTENTS
 
 Powder and solvent for solution for injection
 
-Contents: 1 powder vial , 1 vial with solvent (10ml), 1 Mix2Vial device
+Contents: 1 powder vial, 1 vial with solvent (10 mL), 1 Mix2Vial device
 
-## 5. METHOD AND ROUTE(S) OF ADMINISTRATION
+## 5. METHOD AND ROUTE OF ADMINISTRATION
 
 Intravenous use, after reconstitution.
 
@@ -772,25 +792,19 @@ Use immediately or within 3 hours after reconstitution.
 
 ## 9. SPECIAL STORAGE CONDITIONS
 
-Store below 30 °C.
+<div style=\"page-break-after: always\"></div>
 
-Do not freeze.
+Store below 30 °C. Do not freeze.
 
-Store in the original package in order to protect from light
+Store in the original package in order to protect from light.
 
-10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
+## 10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
-Baxalta Innovations GmbH
+Baxalta Innovations GmbH Industriestrasse 67 1221 Vienna Austria
 
-Industriestrasse 67
-
-1221 Vienna
-
-Austria
-
-## 12. MARKETING AUTHORISATION NUMBER(S)
+## 12. MARKETING AUTHORISATION NUMBER
 
 EU/1/18/1298/002
 
@@ -820,13 +834,11 @@ NN
 
 <div style=\"page-break-after: always\"></div>
 
-<div style=\"page-break-after: always\"></div>
-
 ## MINIMUM PARTICULARS TO APPEAR ON SMALL IMMEDIATE PACKAGING UNITS POWDER VIAL LABEL
 
-## 1. NAME OF THE MEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION
+## 1. NAME OF THE MEDICINAL PRODUCT AND ROUTE OF ADMINISTRATION
 
-VEYVONDI 1300 IU powder for solution for injection vonicog alfa IV
+VEYVONDI 1 300 IU powder for solution for injection vonicog alfa IV
 
 ## 2. METHOD OF ADMINISTRATION
 
@@ -850,8 +862,8 @@ Lot
 |----------------------------------------------------------------|
 | SOLVENTVIALLABEL(10 mL)                                        |
 
-| 1.   | NAMEOFTHEMEDICINALPRODUCTAND ROUTE(S) OFADMINISTRATION   |
-|------|----------------------------------------------------------|
+| 1.   | NAMEOFTHEMEDICINALPRODUCTAND ROUTE OFADMINISTRATION   |
+|------|-------------------------------------------------------|
 
 Solvent for VEYVONDI Water for injections IV
 
@@ -884,7 +896,7 @@ Lot
 
 ## Package leaflet: Information for the patient
 
-## VEYVONDI 650 IU powder and solvent for solution for injection VEYVONDI 1300 IU powder and solvent for solution for injection
+## VEYVONDI 650 IU powder and solvent for solution for injection VEYVONDI 1 300 IU powder and solvent for solution for injection
 
 ## vonicog alfa
 
@@ -910,6 +922,8 @@ VEYVONDI contains the active substance vonicog alfa, which is a recombinant huma
 
 VEYVONDI is used to prevent and treat bleeding episodes, including bleeding during surgery, in adult patients (aged 18 years and older) with von Willebrand disease. It is used when treatment with another medicine, desmopressin, is not effective or cannot be given.
 
+VEYVONDI is used to treat bleeding episodes in children aged less than 18 years with von Willebrand disease. It is used when treatment with another medicine, desmopressin, is not effective or cannot be given.
+
 Von Willebrand disease is an inherited bleeding disorder caused by the lack or an insufficient amount of von Willebrand factor. In patients with the disease the blood does not clot normally leading to a prolonged bleeding time. Administration of von Willebrand factor (VWF) allows for correction of von Willebrand factor deficiency.
 
 ## 2. What you need to know before you use VEYVONDI
@@ -921,15 +935,13 @@ Von Willebrand disease is an inherited bleeding disorder caused by the lack or a
 
 If you are unsure about this, ask your doctor.
 
+<div style=\"page-break-after: always\"></div>
+
 ## Warnings and precautions
 
 Talk to your doctor, pharmacist or nurse before using VEYVONDI.
 
-There is a  risk that you may experience a hypersensitivity reaction (a severe, sudden allergic reaction) to VEYVONDI. Your doctor should inform you about early signs of severe allergic reactions such as
-
-<div style=\"page-break-after: always\"></div>
-
-increased heart rate, rash, hives, wheals, generalised itching, swelling of lips and tongue, difficulty in breathing, wheezing, tightness in the chest, fast heartbeat, stuffy nose, red eyes,general feeling of being unwell, and dizziness. These could be early symptoms of a hypersensitivity reaction. If any of these symptoms occur, stop the infusion immediately and contact your doctor. Severe symptoms, including difficulty in breathing and dizziness, require prompt emergency treatment.
+There is a risk that you may experience a hypersensitivity reaction (a severe, sudden allergic reaction) to VEYVONDI. Your doctor should inform you about early signs of severe allergic reactions such as increased heart rate, rash, hives, wheals, generalised itching, swelling of lips and tongue, difficulty in breathing, wheezing, tightness in the chest, fast heartbeat, stuffy nose, red eyes,general feeling of being unwell, and dizziness. These could be early symptoms of a hypersensitivity reaction. If any of these symptoms occur, stop the infusion immediately and contact your doctor. Severe symptoms, including difficulty in breathing and dizziness, require prompt emergency treatment.
 
 ## Patients developing inhibitors
 
@@ -951,7 +963,7 @@ If you previously had problems with blood clots or vessel occlusion (thromboembo
 
 ## Children and adolescents
 
-VEYVONDI is not approved for use in children or adolescents below 18 years.
+VEYVONDI is approved for use in children or adolescents below 18 years to treat bleeding episodes; it is not approved for use in children below 18 years to prevent bleeding episodes, and to prevent and treat bleeding during surgery.
 
 ## Other medicines and VEYVONDI
 
@@ -967,13 +979,17 @@ VEYVONDI is not likely to affect your ability to drive and use machines.
 
 ## VEYVONDI contains sodium
 
-This medicine contains 5.2 mg sodium (main component of cooking/table salt) in each 650 IU vial or 10.4 mg sodium in each 1300 IU vial.
+This medicine contains 5.2 mg sodium (main component of cooking/table salt) in each 650 IU vial or 10.4 mg sodium in each 1 300 IU vial.
+
+<div style=\"page-break-after: always\"></div>
 
 This is equivalent to 2.2% of the recommended maximum daily dietary intake of sodium for an adult, assuming 70 kg body weight and 80 IU/kg body weight.
 
 This should be taken into consideration if you are on a controlled sodium diet.
 
-<div style=\"page-break-after: always\"></div>
+## VEYVONDI contains polysorbate 80
+
+This medicine contains 0.5 mg of polysorbate 80 in each 650 IU vial or 1.0 mg of polysorbate 80 in each 1 300 IU vial, which is equivalent to 0.1 mg/mL. Polysorbates may cause allergic reactions. Tell your doctor if you (or your child) have any known allergies.
 
 ## 3. How to use VEYVONDI
 
@@ -982,26 +998,28 @@ Your treatment with VEYVONDI will be supervised by a doctor who is experienced i
 Your doctor will calculate your dose of VEYVONDI (in international units or IU). The dose depends on:
 
 - -body weight,
-- -the site of the bleeding
+- -the site of the bleeding,
 - -intensity of the bleeding,
 - -your clinical condition,
-- -the required surgery
-- -the VWF activity levels in your blood after surgery
-- -the severity of your disease
+- -the required surgery,
+- -the VWF activity levels in your blood after surgery,
+- -the severity of your disease.
 
 Your doctor may test your blood to make sure that you have adequate levels of von Willebrand factor. This is particularly important if you are having major surgery.
 
 ## Treatment of bleeding episodes
 
-Your doctor will calculate the dose that is most appropriate for you, how often you should receive VEYVONDI and for how long.
+Your doctor will calculate the dose that is most appropriate for you or your child, how often you or your child should receive VEYVONDI and for how long.
 
-For minor bleeding (e.g. nose bleed, oral bleeding, menorrhagia), each initial dose is usually 40 to 50 IU/kg and for major bleeding (severe or refractory nose bleed, menorrhagia, gastrointestinal bleeding, Central nervous system trauma, haemarthrosis, or traumatic haemorrhage), each initial dose is 50 to 80 IU/kg. Subsequent doses (as clinically required) are 40 to 50 IU/kg every 8 to 24 hours for minor bleeds as long as deemed clinically necessary and for major bleeds 40 to 60 IU/kg for approximately 2-3 days.
+For minor bleeding (e.g. nosebleed, oral bleeding, menorrhagia), each initial dose is usually 40 to 50 IU/kg and for major bleeding (severe or refractory nosebleed, menorrhagia, gastrointestinal bleeding, central nervous system trauma, haemarthrosis, or traumatic haemorrhage), each initial dose is 50 to 80 IU/kg. Subsequent doses (as clinically required) are 40 to 50 IU/kg every 8 to 24 hours for minor bleeds as long as deemed clinically necessary and for major bleeds 40 to 60 IU/kg for approximately 2-3 days.
 
 If you feel that VEYVONDI is not working well enough, talk to your doctor. Your doctor will perform tests to make sure that you have adequate levels of von Willebrand factor. If you use VEYVONDI at home, your doctor will make sure that you are shown how to infuse it and how much to use.
 
 ## Prevention of bleeding in case of elective surgery
 
 For prevention of excessive bleeding your doctor will assess the FVIII:C levels within 3 hours before surgery. If your FVIII level is inadequate your doctor may give you a dose of 40-60 IU/kg VEYVONDI 12-24 hours (pre-operative dose) prior to initiating elective surgery in order to raise FVIII levels to the target level (0.4 IU/mL for minor and at least 0.8 IU/mL for major surgery). Within 1 hour prior to surgery, you will receive a dose of VEYVONDI based on the assessment 3 hours before surgery. The dose depends on VWF and FVIII levels of the patient, the type and severity of the expected bleeding.
+
+<div style=\"page-break-after: always\"></div>
 
 ## Prophylaxis treatment
 
@@ -1013,9 +1031,7 @@ VEYVONDI is usually infused into a vein (intravenously) by your doctor or nurse.
 
 ## Use in children and adolescents
 
-VEYVONDI is not approved for use in children and adolescents below 18 years.
-
-<div style=\"page-break-after: always\"></div>
+VEYVONDI is approved for use in children and adolescents below 18 years to treat bleeding episodes; it is not approved for use in children below 18 years to prevent bleeding episodes, and to prevent and treat bleeding during surgery.
 
 ## If you use more VEYVONDI than you should
 
@@ -1038,7 +1054,7 @@ Like all medicines, this medicine may cause side effects, although not everybody
 
 You can have a serious allergic reaction to VEYVONDI.
 
-You must stop the infusion and contact your doctor immediately if you have any of the following early symptoms of severe allergic reactions:
+You must stop the infusion and contact your doctor immediately if you or your child have any of the following early symptoms of severe allergic reactions:
 
 - -rash or hives, itching all over the body,
 - -tightness of the throat, chest pain or chest tightness,
@@ -1055,14 +1071,19 @@ Very common (may affect more than 1 in 10 people)
 
 - -nausea
 - -vomiting
-- -tingling or burning at infusion site
-- -chest discomfort
 - -dizziness
 - -vertigo
-- -blood clots
-- -hot flushes
 - -itching
 - -high blood pressure
+
+<div style=\"page-break-after: always\"></div>
+
+## Uncommon (may affect up to 1 in 100 people)
+
+- -tingling or burning at infusion site
+- -chest discomfort
+- -blood clots
+- -hot flushes
 - -muscle twitching
 - -unusual taste
 - -increased heart rate
@@ -1070,8 +1091,6 @@ Very common (may affect more than 1 in 10 people)
 ## Reporting of side effects
 
 If you get any side effects, talk to your doctor, pharmacist or nurse. This includes any possible side effects not listed in this leaflet. You can also report side effects directly via the national reporting system listed in Appendix V. By reporting side effects you can help provide more information on the safety of this medicine.
-
-<div style=\"page-break-after: always\"></div>
 
 ## 5. How to store VEYVONDI
 
@@ -1093,38 +1112,33 @@ The active substance is vonicog alfa (recombinant human von Willebrand factor).
 
 ## VEYVONDI 650 IU powder and solvent for solution for injection
 
-Each vial of powder contains nominally 650 International Units (IU) vonicog alfa.
+Each vial of powder contains nominally 650 International Units (IU) vonicog alfa. After reconstitution with the 5 mL solvent provided, VEYVONDI contains approximately 130 IU/mL vonicog alfa.
 
-After reconstitution with the 5 mL solvent provided, VEYVONDI contains approximately 130 IU/mL vonicog alfa.
+## VEYVONDI 1 300 IU powder and solvent for solution for injection
 
-## VEYVONDI 1300 IU powder and solvent for solution for injection
-
-Each vial of powder contains nominally 1300 International Units (IU) vonicog alfa.
-
-After reconstitution with the 10 mL solvent provided, VEYVONDI contains approximately 130 IU/mL vonicog alfa.
+Each vial of powder contains nominally 1 300 International Units (IU) vonicog alfa. After reconstitution with the 10 mL solvent provided, VEYVONDI contains approximately 130 IU/mL vonicog alfa.
 
 The other ingredients are:
 
-- -Sodium citrate, glycine, trehalose dihydrate, mannitol, polysorbate 80 and water for injections.
-- -See section 2 'VEYVONDI contains sodium'.
+- -Sodium citrate (E 331), glycine (E 640), trehalose dihydrate, mannitol (E 421), polysorbate 80 (E 433) and water for injections. See section 2 'VEYVONDI contains sodium' and 'VEYVONDI contains polysorbate 80'.
+
+<div style=\"page-break-after: always\"></div>
 
 ## What VEYVONDI looks like and contents of the pack
 
 VEYVONDI is a white to off-white powder. After reconstitution, when drawn into the syringe, the solution is clear, colourless in appearance and free from flakes or other foreign particles.
 
-Each pack of VEYVONDI 650 IU contains:
+## Each pack of VEYVONDI 650 IU contains:
 
 - -powder in a glass vial with a rubber stopper
 - -5 mL of solvent in a glass vial with a rubber stopper
 - -one reconstitution device (Mix2Vial)
 
-Each pack of VEYVONDI 1300 IU contains:
+## Each pack of VEYVONDI 1 300 IU contains:
 
 - -powder in a glass vial with a rubber stopper
 - -10 mL of solvent in a glass vial with a rubber stopper
 - -one reconstitution device (Mix2Vial)
-
-<div style=\"page-break-after: always\"></div>
 
 ## Marketing Authorisation Holder
 
@@ -1134,7 +1148,9 @@ Austria
 
 ## Manufacturer
 
-Takeda Manufacturing Austria AG Industriestrasse 67 1221 Vienna Austria
+Takeda Manufacturing Austria AG Industriestrasse 67 1221 Vienna
+
+Austria
 
 For any information about this medicine, please contact the local representative of the Marketing Authorisation Holder:
 
@@ -1144,27 +1160,41 @@ Takeda Belgium NV Tél/Tel: +32 2 464 06 11 medinfoEMEA@takeda.com
 
 ## България
 
-Такеда България ЕООД Тел.: +359 2 958 27 36 medinfoEMEA@takeda.com
+Такеда България ЕООД
+
+Тел.: +359 2 958 27 36
+
+medinfoEMEA@takeda.com
 
 ## Česká republika
 
-Takeda Pharmaceuticals Czech Republic s.r.o. Tel: +420 234 722 722 medinfoEMEA@takeda.com
+Takeda Pharmaceuticals Czech Republic s.r.o.
+
+Tel: +420 234 722 722
+
+medinfoEMEA@takeda.com
 
 ## Danmark
 
-Takeda Pharma A/S Tlf: +45 46 77 10 10 medinfoEMEA@takeda.com
+Takeda Pharma A/S
+
+Tlf.: +45 46 77 10 10
+
+medinfoEMEA@takeda.com
 
 ## Deutschland
 
-Takeda GmbH Tel: +49 (0)800 825 3325 medinfoEMEA@takeda.com
+Takeda GmbH
+
+Tel: +49 (0)800 825 3325
+
+medinfoEMEA@takeda.com
 
 ## Eesti
 
-Takeda Pharma AS Tel: +372 6177 669 medinfoEMEA@takeda.com
+Takeda Pharma OÜ
 
-## Ελλάδα
-
-Τakeda ΕΛΛΑΣ Α.Ε. Tηλ: +30 210 6387800 medinfoEMEA@takeda.com
+Tel: +372 6177 669
 
 ## Lietuva
 
@@ -1188,129 +1218,109 @@ Takeda Nederland B.V. Tel: +31 20 203 5492 medinfoEMEA@takeda.com
 
 ## Norge
 
-Takeda AS Tlf: +47 800 800 30 medinfoEMEA@takeda.com
+Takeda AS
 
-## Österreich
-
-Takeda Pharma Ges.m.b.H. Tel: +43 (0) 800-20 80 50 medinfoEMEA@takeda.com
+Tlf: +47 800 800 30
 
 <div style=\"page-break-after: always\"></div>
 
-## España
+medinfoEMEA@takeda.com
 
-## Polska
+## Ελλάδα
+
+Τakeda ΕΛΛΑΣ Α.Ε. Tηλ: +30 210 6387800
+
+medinfoEMEA@takeda.com
+
+## España
 
 Takeda Farmacéutica España, S.A.
 
-Tel: +34 917 90 42 22
-
-medinfoEMEA@takeda.com
-
-Takeda Pharma Sp. z o.o.
-
-Tel.: +48223062447
-
-medinfoEMEA@takeda.com
+Tel: +34 917 90 42 22 medinfoEMEA@takeda.com
 
 ## France
 
-Takeda France SAS
-
-Tél: + 33 1 40 67 33 00
+Takeda France SAS Tél: + 33 1 40 67 33 00
 
 medinfoEMEA@takeda.com
-
-## Portugal
-
-Takeda Farmacêuticos Portugal, Lda. Tel: + 351 21 120 1457 medinfoEMEA@takeda.com
 
 ## Hrvatska
 
-Takeda Pharmaceuticals Croatia d.o.o.
-
-Tel: +385 1 377 88 96
-
-medinfoEMEA@takeda.com
-
-## România
-
-Takeda Pharmaceuticals SRL
-
-Tel: +40 21 335 03 91
-
-medinfoEMEA@takeda.com
+Takeda Pharmaceuticals Croatia d.o.o. Tel: +385 1 377 88 96 medinfoEMEA@takeda.com
 
 ## Ireland
 
-Takeda Products Ireland Ltd
-
-Tel: 1800 937 970
+Takeda Products Ireland Ltd Tel: 1800 937 970
 
 medinfoEMEA@takeda.com
-
-## Slovenija
-
-Takeda Pharmaceuticals farmacevtska dru ž ba d.o.o. Tel: + 386 (0) 59 082 480 medinfoEMEA@takeda.com
 
 ## Ísland
 
-Vistor hf.
-
-Sími: +354 535 7000
+Vistor ehf. Sími: +354 535 7000
 
 medinfoEMEA@takeda.com
-
-## Slovenská republika
-
-Takeda Pharmaceuticals Slovakia s.r.o. Tel: +421 (2) 20 602 600 medinfoEMEA@takeda.com
 
 ## Italia
 
-Takeda Italia S.p.A.
-
-Tel: +39 06 502601
-
-medinfoEMEA@takeda.com
-
-## Suomi/Finland
-
-Takeda Oy
-
-Puh/Tel: 0800 774 051
+Takeda Italia S.p.A. Tel: +39 06 502601
 
 medinfoEMEA@takeda.com
 
 ## Κύπρος
 
-Τakeda ΕΛΛΑΣ Α.Ε.
+Τakeda ΕΛΛΑΣ Α.Ε. Τηλ: +30 210 6387800 medinfoEMEA@takeda.com
 
-Τηλ: +30 210 6387800
+## Latvija
+
+Takeda Latvia SIA Tel: +371 67840082 medinfoEMEA@takeda.com
+
+## This leaflet was last revised in .
+
+Detailed information on this medicine is available on the European Medicines Agency web site: https://www.ema.europa.eu.
+
+medinfoEMEA@takeda.com
+
+## Österreich
+
+Takeda Pharma Ges.m.b.H. Tel: +43 (0) 800-20 80 50 medinfoEMEA@takeda.com
+
+## Polska
+
+Takeda Pharma Sp. z o.o. Tel.: +48223062447
+
+medinfoEMEA@takeda.com
+
+## Portugal
+
+Takeda Farmacêuticos Portugal, Lda.
+
+Tel: + 351 21 120 1457 medinfoEMEA@takeda.com
+
+## România
+
+Takeda Pharmaceuticals SRL Tel: +40 21 335 03 91 medinfoEMEA@takeda.com
+
+## Slovenija
+
+Takeda Pharmaceuticals farmacevtska dru ž Tel: + 386 (0) 59 082 480 medinfoEMEA@takeda.com
+
+## Slovenská republika
+
+Takeda Pharmaceuticals Slovakia s.r.o.
+
+Tel: +421 (2) 20 602 600 medinfoEMEA@takeda.com
+
+## Suomi/Finland
+
+Takeda Oy Puh/Tel: 0800 774 051
 
 medinfoEMEA@takeda.com
 
 ## Sverige
 
-Takeda Pharma AB Tel: 020 795 079 medinfoEMEA@takeda.com
+Takeda Pharma AB Tel: 020 795 079 medinfoEMEA@takeda.com ba d.o.o.
 
-## Latvija
-
-Takeda Latvia SIA
-
-Tel: +371 67840082
-
-medinfoEMEA@takeda.com
-
-## United Kingdom (Northern Ireland)
-
-Takeda UK Ltd
-
-Tel: +44 (0) 2830 640 902
-
-medinfoEMEA@takeda.com
-
-## This leaflet was last revised in
-
-Detailed information on this medicine is available on the European Medicines Agency web site: http://www.ema.europa.eu.
+<div style=\"page-break-after: always\"></div>
 
 ------------------------------------------------------------------------------------------------------------------------
 
@@ -1322,11 +1332,9 @@ Check the expiry date, and ensure that the VEYVONDI powder and water for injecti
 
 Use antiseptic technique (clean and low-germ conditions) and a flat work surface during the reconstitution procedure. Wash your hands and put on clean exam gloves (the use of gloves is optional).
 
-<div style=\"page-break-after: always\"></div>
-
 Use the reconstituted product (after mixing the powder with the supplied water) as soon as possible and within three hours. You can store the reconstituted product at room temperature not to exceed 25 °C for up to three hours. Reconstituted product should not be refrigerated. Discard after three hours.
 
-Ensure that the VEYVONDI powder vial and the Sterilised Water for Injections (solvent) are at room temperature prior to preparation.
+Ensure that the VEYVONDI powder vial and the water for injections (solvent) are at room temperature prior to preparation.
 
 Use plastic syringes with this product because proteins in the product tend to stick to the surface of glass syringes.
 
@@ -1334,13 +1342,18 @@ Do not mix VEYVONDI with other medicinal products except for octocog alfa (ADVAT
 
 ## Instructions for reconstitution
 
-|    | Steps                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            | Image example   |
-|----|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------|
-|  1 | Remove the caps from the VEYVONDI powder and solvent vials to expose the centre of the rubber stoppers.                                                                                                                                                                                                                                                                                                                                                                                                          | NA              |
-|  2 | Disinfect each stopper with a separate sterile alcohol swab (or other suitable sterile solution suggested by your doctor or haemophilia treatment centre) by wiping the stopper for several seconds. Allow the rubber stoppers to dry. Place the vials on a flat surface.                                                                                                                                                                                                                                        |                 |
-|  3 | Open the Mix2Vial device package by completely peeling away the lid, without touching the inside of the package. Do not remove the Mix2Vial device from the package.                                                                                                                                                                                                                                                                                                                                             |                 |
-|  4 | Turn the package with the Mix2Vial device upside down and place it over the top of the solvent vial. Firmly insert the blue plastic spike of the device into the centre of the solvent vial stopper by pushing straight down. Grip the package at its edge and lift it off the Mix2Vial device. Be careful not to touch the clear plastic spike. The solvent vial now has the Mix2Vial device connected to it and is ready to be connected to the VEYVONDI vial.                                                 |                 |
-|  5 | To connect the solvent vial to the VEYVONDI vial, turn the solvent vial over and place it on top of the vial containing VEYVONDI concentrate. Fully insert the clear plastic spike into the VEYVONDI vial stopper by firmly pushing straight down. This should be done right away to keep the liquid free of germs. The solvent will flow into the VEYVONDI vial by vacuum. Check that all the solvent has transferred. Do not use if vacuum has been lost and the solvent does not flow into the VEYVONDI vial. |                 |
+|    | Steps                                                                                                                                                                                                                                                                                                                                                                                                                                                            | Image example   |
+|----|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------|
+|  1 | Remove the caps from the VEYVONDI powder and solvent vials to expose the centre of the rubber stoppers.                                                                                                                                                                                                                                                                                                                                                          |                 |
+|  2 | Disinfect each stopper with a separate sterile alcohol swab (or other suitable sterile solution suggested by your doctor or haemophilia treatment centre) by wiping the stopper for several seconds. Allow the rubber stoppers to dry. Place the vials on a flat surface.                                                                                                                                                                                        |                 |
+|  3 | Open the Mix2Vial device package by completely peeling away the lid, without touching the inside of the package. Do not remove the Mix2Vial device from the package.                                                                                                                                                                                                                                                                                             | NA              |
+|  4 | Turn the package with the Mix2Vial device upside down and place it over the top of the solvent vial. Firmly insert the blue plastic spike of the device into the centre of the solvent vial stopper by pushing straight down. Grip the package at its edge and lift it off the Mix2Vial device. Be careful not to touch the clear plastic spike. The solvent vial now has the Mix2Vial device connected to it and is ready to be connected to the VEYVONDI vial. |                 |
+
+<!-- image -->
+
+<!-- image -->
+
+<!-- image -->
 
 <div style=\"page-break-after: always\"></div>
 
@@ -1358,12 +1371,12 @@ Do not mix VEYVONDI with other medicinal products except for octocog alfa (ADVAT
 
 |    | Steps                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           | Image example   |
 |----|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------|
+|  5 | To connect the solvent vial to the VEYVONDI vial, turn the solvent vial over and place it on top of the vial containing VEYVONDI powder. Fully insert the clear plastic spike into the VEYVONDI vial stopper by firmly pushing straight down. This should be done right away to keep the liquid free of germs. The solvent will flow into the VEYVONDI vial by vacuum. Check that all the solvent has transferred. Do not use if vacuum has been lost and the solvent does not flow into the VEYVONDI vial.                                     |                 |
 |  6 | Gently and continuously swirl the connected vials or allow the reconstituted product to stand for 5 minutes then gently swirl to ensure the powder is completely dissolved. Do not shake. Shaking will adversely affect the product. Do not refrigerate after reconstitution.                                                                                                                                                                                                                                                                   |                 |
 |  7 | Disconnect the two sides of the Mix2Vial from each other by holding the clear plastic side of the Mix2Vial device attached to the VEYVONDI vial with one hand and the blue plastic side of the Mix2Vial device attached to the solvent vial with the other hand. Turn the blue plastic side counterclockwise and gently pull the two vials apart. Do not touch the end of the plastic connector attached to the VEYVONDI vial containing the dissolved product. Place the VEYVONDI vial on a flat work surface. Discard the empty solvent vial. |                 |
 |  8 | Draw air into the empty, sterile disposable plastic syringe by pulling back on the plunger. The amount of air should equal the amount of reconstituted VEYVONDI that you will withdraw from the vial.                                                                                                                                                                                                                                                                                                                                           |                 |
-|  9 | Leaving the VEYVONDI vial (containing the dissolved product) on your flat work surface, connect the syringe to the clear plastic connector by attaching and turning the syringe clockwise.                                                                                                                                                                                                                                                                                                                                                      |                 |
+|  9 | Leaving the VEYVONDI vial (containing the reconstituted product) on your flat work surface, connect the syringe to the clear plastic connector and turn the syringe clockwise.                                                                                                                                                                                                                                                                                                                                                                  |                 |
 | 10 | Hold the vial with one hand and use the other hand to push all the air from the syringe into the vial                                                                                                                                                                                                                                                                                                                                                                                                                                           |                 |
-| 11 | Flip connected syringe and VEYVONDI vial so the vial is on top. Be sure to keep the syringe plunger pressed in. Draw the VEYVONDI into the syringe by pulling plunger back slowly.                                                                                                                                                                                                                                                                                                                                                              |                 |
 
 <div style=\"page-break-after: always\"></div>
 
@@ -1371,13 +1384,14 @@ Do not mix VEYVONDI with other medicinal products except for octocog alfa (ADVAT
 
 |    | Steps                                                                                                                                                                                                                                                                                                                                                                  | Image example   |
 |----|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------|
-| 12 | Do not push and pull solution back and forth between syringe and vial. Doing so may harm the medicine. When ready to infuse, disconnect the syringe by turning it counterclockwise. Inspect the syringe visually for particulate matter; the solution in the syringe should be clear. If flakes or particles are seen, do not use the solution and notify your doctor. |                 |
-| 13 | If you need more than one vial of VEYVONDI to make up your dose:  Leave the syringe attached to the vial until an additional vial is prepared.  Use the reconstitution steps above (2 to 8) to prepare the additional vial of VEYVONDI using a fresh Mix2Vial for each vial                                                                                          |                 |
+| 11 | Flip connected syringe and VEYVONDI vial so the vial is on top. Be sure to keep the syringe plunger pressed in. Draw the VEYVONDI into the syringe by pulling plunger back slowly.                                                                                                                                                                                     |                 |
+| 12 | Do not push and pull solution back and forth between syringe and vial. Doing so may harm the medicine. When ready to infuse, disconnect the syringe by turning it counterclockwise. Inspect the syringe visually for particulate matter; the solution should be clear and colourless. If flakes or particles are seen, do not use the solution and notify your doctor. |                 |
+| 13 | If you need more than one vial of VEYVONDI to make up your dose:  Leave the syringe attached to the vial until an additional vial is prepared.  Use the reconstitution steps above (2 to 8) to prepare the additional vial of VEYVONDI using a fresh Mix2Vial for each vial.                                                                                         |                 |
 | 14 | The contents of two vials may be drawn into a single syringe. NOTE: When pushing air into a second vial of VEYVONDI to be pooled into a syringe, position the vial and connected syringe so that the vial is on top.                                                                                                                                                   |                 |
 
 ## Instructions for administration
 
-Inspect the prepared solution in the syringe for particulate matter and discoloration prior to administration (the solution should be clear, colourless and free from particles). It is not uncommon for a few flakes or particles to remain in the product vial after reconstitution . The filter included in the Mix2Vial device removes those particles completely. Filtration does not influence dose calculations. The solution in the syringe should not be used if it is cloudy or contains flakes or particles after filtration.
+Inspect the prepared solution in the syringe for particulate matter and discolouration prior to administration (the solution should be clear, colourless and free from particles). It is not uncommon for a few flakes or particles to remain in the product vial after reconstitution . The filter included in the Mix2Vial device removes those particles completely. Filtration does not influence dose calculations. The solution in the syringe should not be used if it is cloudy or contains flakes or particles after filtration.
 
 1. Attach the infusion needle to a syringe containing VEYVONDI solution. For comfort, a winged (butterfly) infusion set is preferred. Point the needle up and remove any air bubbles by gently tapping the syringe with your finger and slowly and carefully pushing air out of the syringe and needle.
 2. Apply a tourniquet and get the infusion site ready by wiping the skin well with a sterile alcohol swab (or other suitable sterile solution suggested by your doctor or haemophilia treatment centre).
@@ -1387,21 +1401,29 @@ Do not remove butterfly needle until all syringes have been infused and do not t
 
 If recombinant factor VIII has been prescribed, administer recombinant factor VIII within 10 minutes after infusion of VEYVONDI has been completed.
 
+<div style=\"page-break-after: always\"></div>
+
 4. Take the needle out of the vein and use sterile gauze to put pressure on the infusion site for several minutes.
 
-In case large volumes of VEYVONDI are required, it is possible to pool two vials of VEYVONDI together. The contents of each reconstituted product of VEYVONDI can be drawn in a single syringe. However, in these cases the initially reconstituted solution should not be diluted any further. Do not recap the needle. Place the needle, syringe, and empty VEYVONDI and solvent vial(s) in a hard-walled sharps container for proper disposal. Do not dispose of these supplies in ordinary household trash.
+In case large volumes of VEYVONDI are required, it is possible to pool two vials of VEYVONDI together. The contents of each reconstituted product of VEYVONDI can be drawn in a single syringe. However, in these cases the initially reconstituted solution of VEYVONDI should not be diluted any further.
+
+The solution should be slowly administered intravenously not exceeding 4 mL/min.
+
+Do not recap the needle. Place the needle, syringe, and empty VEYVONDI and solvent vial(s) in a hard-walled sharps container for proper disposal. Do not dispose of these supplies in ordinary household trash.
+
+Any unused medicinal product or waste material should be disposed of in accordance with local requirements.
 
 ------------------------------------------------------------------------------------------------------------------------
 
-<div style=\"page-break-after: always\"></div>
-
 The following information is intended for healthcare professionals only:
 
-## Treatment of bleeding episodes (On-demand treatment)
+Treatment of bleeding episodes (on-demand treatment) in adults and children
 
 Dose and frequency must be individualized based on clinical judgment, taking into account of severity of bleeding episode, site of bleeding, patient's medical history, monitoring of appropriate clinical and laboratory measures (both VWF:RCo and FVIII:C levels).
 
 ## Start of treatment
+
+The first dose of VEYVONDI should be 40 to 80 IU/kg body weight. Replacement levels of VWF:RCo &gt; 0.6 IU/mL (60%) and FVIII:C &gt; 0.4 IU/mL (40%) should be achieved. Dosing guidelines for treatment of minor and major haemorrhages are provided in Table 1.
 
 VEYVONDI should be administered with recombinant factor VIII if the FVIII:C levels are &lt; 40%, or are unknown, to control bleeding. The rFVIII dose should be calculated according to the difference between the patient's baseline plasma FVIII:C level, and the desired peak FVIII:C level to achieve an appropriate plasma FVIII:C level based on the approximate mean recovery of 0.02 (IU/mL)/(IU/kg). The complete dose of VEYVONDI should be administered followed by rFVIII within 10 minutes.
 
@@ -1411,51 +1433,58 @@ VEYVONDI dose [IU] = dose [IU/kg] x body weight [kg]
 
 ## Subsequent infusions
 
-Administer a subsequent dose of 40 IU to 60 IU/kg of VEYVONDI infused every 8 to 24 hours as per the dosing ranges in Table 1, as long as clinically required. In major bleeding episodes, maintain trough levels of VWF:RCo greater than 50% for as long as deemed necessary.
+A subsequent dose of 40 IU to 60 IU/kg of VEYVONDI should be infused every 8 to 24 hours as per the dosing ranges in Table 1, or as long as clinically appropriate. In major bleeding episodes, maintain trough levels of VWF:RCo greater than 50% for as long as deemed necessary.
 
-Table 1. Dosing recommendations for the treatment of minor and major haemorrhages
+## Table 1. Dosing recommendations for the treatment of minor and major haemorrhages
 
-| Haemorrhage                                                                                                                                                   | Initial dose a (IU VWF:RCo/kg body weight)   | Subsequent dose                                                                                            |
-|---------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------|------------------------------------------------------------------------------------------------------------|
-| Minor (e.g. epistaxis, oral bleeding, menorrhagia)                                                                                                            | 40 to 50 IU/kg                               | 40 to 50 IU/kg every 8 to 24 hours (or as long as deemed clinically necessary)                             |
-| Major b (e.g. severe or refractory epistaxis, menorrhagia, gastrointestinal bleeding, central nervous system trauma, haemarthrosis, or traumatic haemorrhage) | 50 to 80 IU/kg                               | 40 to 60 IU/kg every 8 to 24 hours for approximately 2- 3 days (or as long as deemed clinically necessary) |
+| Haemorrhage   | Initial dose a (IU VWF:RCo/kg body weight)   | Subsequent dose   |
+|---------------|----------------------------------------------|-------------------|
 
-a If rFVIII is administered, see rFVIII package insert for reconstitution and administration instructions.
+<div style=\"page-break-after: always\"></div>
 
-b A bleed could be considered major if red blood cell transfusion is either required or potentially indicated or if bleeding occurs in a critical anatomical site (e.g., intracranial or gastrointestinal haemorrhage).
+| Minor (e.g. epistaxis, oral bleeding, menorrhagia)                                                                                                            | 40 to 50 IU/kg   | 40 to 50 IU/kg every 8 to 24 hours (or as long as deemed clinically necessary)                            |
+|---------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------|-----------------------------------------------------------------------------------------------------------|
+| Major b (e.g. severe or refractory epistaxis, menorrhagia, gastrointestinal bleeding, central nervous system trauma, haemarthrosis, or traumatic haemorrhage) | 50 to 80 IU/kg   | 40 to 60 IU/kg every 8 to 24 hours for approximately 2-3 days (or as long as deemed clinically necessary) |
 
-## Prevention of bleeding/haemorrhage and treatment in case of elective surgery
+## Prevention of bleeding/haemorrhage and treatment in case of elective surgery in adults
 
 Assess FVIII:C levels prior to initiation of any surgical procedure. The recommended minimum target levels are 0.4 IU/mL for minor and oral surgery and 0.8 IU/mL for major surgery.
 
 To ensure pre-operative endogenous FVIII levels of at least 0.4 IU/mL for minor and oral and 0.8 IU/mL for major surgery, a dose of 40-60 IU/kg VEYVONDI may be administered 12-24 hours (pre-operative dose) prior to initiating elective surgery. Within 1 hour prior to surgery, patients should receive a dose of VEYVONDI based on the assessment 3 hours before surgery. The dose depends on VWF and FVIII levels of the patient, the type and severity of the bleeding.
 
-<div style=\"page-break-after: always\"></div>
-
-If the FVIII:C levels are not at the recommended target, a dose of VEYVONDI alone should be administered within 1 hour prior to the procedure. If the FVIII:C levels are not at the recommended target levels, rFVIII should be administered in addition to vonicog alfa to raise VWF:RCo and FVIII:C. Please refer to Table 2 for FVIII:C recommended target levels.
+If the FVIII:C levels are at the recommended target, a dose of VEYVONDI alone should be administered within 1 hour prior to the procedure. If the FVIII:C levels are not at the recommended target levels, rFVIII should be administered in addition to vonicog alfa to raise VWF:RCo and FVIII:C. Please refer to Table 2 for FVIII:C recommended target levels.
 
 Table 2. Recommended target peak plasma levels of VWF:RCo and FVIII:C to be achieved prior to surgery for the prevention of excessive bleeding during and after surgery
 
 | Type of surgery   | VWF:RCo target peak plasma level   | FVIII:C target peak plasma level a   | Calculation of rVWFdose (to be administered within 1 hour prior to surgery) (IU VWF:RCo required)   |
 |-------------------|------------------------------------|--------------------------------------|-----------------------------------------------------------------------------------------------------|
-| Minor             | 0.5-0.6 IU/mL                      | 0.4 - 0.5 IU/mL                      | ∆ b VWF:RCo x BW(kg) /IR c                                                                          |
+| Minor             | 0.5 - 0.6 IU/mL                    | 0.4 - 0.5 IU/mL                      | ∆ b VWF:RCo x BW(kg) /IR c                                                                          |
 | Major             | 1 IU/mL                            | 0.80 - 1 IU/mL                       | ∆ b VWF:RCo x BW(kg) /IR c                                                                          |
 
 ## During and after surgery
 
-After the initiation of the surgical procedure, the VWF:RCo and FVIII:C plasma levels should be monitored and the intra- and post-operative substitution regimen should be individualized according to the PK results, intensity and duration of the haemostatic challenge, and the institution's standard of care. In general, the frequency of VEYVONDI dosing for post-operative substitution should range from twice a day to every 48 hours. Refer to Table 3 for treatment recommendations for subsequent maintenance doses.
+After the initiation of the surgical procedure, the VWF:RCo and FVIII:C plasma levels should be monitored and the intra- and post-operative substitution regimen should be individualized according to the pharmacokinetics (PK) results, intensity and duration of the haemostatic challenge, and the institution's standard of care. In general, the frequency of VEYVONDI dosing for post-operative substitution should range from twice a day to every 48 hours. Refer to Table 3 for treatment recommendations for subsequent maintenance doses.
 
 Table 3. Recommended target trough plasma levels of VWF:RCo and FVIII:C and minimum duration of treatment for subsequent maintenance doses for the prevention of excessive bleeding after surgery
 
-| Type of surgery   | VWF:RCo target trough plasma level   | VWF:RCo target trough plasma level   | FVIII:C target trough plasma level   | FVIII:C target trough plasma level   | Minimum duration of   | Frequency of                    |
-|-------------------|--------------------------------------|--------------------------------------|--------------------------------------|--------------------------------------|-----------------------|---------------------------------|
-| Type of surgery   | Up to 72 hours post surgery          | After 72 hours post surgery          | Up to 72 hours post surgery          | After 72 hours post surgery          | treatment             | dosing                          |
-| ≥ 0.30 IU/mL      | -                                    | > 0.40 IU/ mL                        | -                                    | 48 hours                             |                       | Minor Every 12-24 / every other |
-| > 0.50 IU/mL      | > 0.30 IU/ mL                        | > 0.50 IU/ mL                        |                                      | > 0.40 IU/m L                        | 72 hours              | Major Every 12-24 / every other |
+| Type of surgery   | VWF:RCo target trough plasma level   | FVIII:C   | Minimum duration   | Frequency of dosing   |
+|-------------------|--------------------------------------|-----------|--------------------|-----------------------|
 
-## Prophylactic treatment
+<div style=\"page-break-after: always\"></div>
+
+|                |               | target                      | trough plasma level         | trough plasma level         | of treatment                      |                                    |
+|----------------|---------------|-----------------------------|-----------------------------|-----------------------------|-----------------------------------|------------------------------------|
+| Up to 72 hours | post surgery  | After 72 hours post surgery | Up to 72 hours post surgery | After 72 hours post surgery |                                   |                                    |
+| ≥ 0.30 IU/mL   | -             | > 0.40 IU/ mL               | -                           | 48 hours                    | Every 12-24 hrs / every other day | Minor                              |
+| > 0.50 IU/mL   | > 0.30 IU/ mL | > 0.50 IU/ mL               | > 0.40 L                    | IU/m                        | 12-24 hrs day                     | Major 72 hours Every / every other |
+
+## Prophylactic treatment in adults
 
 For initiation of long-term prophylaxis against bleeds in patients with VWD, doses of 40 to 60 IU/kg of VEYVONDI administered twice weekly should be considered. Depending on the patient's condition and clinical response, including breakthrough bleeds, higher doses (not exceeding 80 IU/kg) and/or an increased dose frequency (up to three times per week) may be required.
+
+## Paediatric population
+
+The safety and efficacy of VEYVONDI in children aged less than 18 years have been established for the treatment of haemorrhage. Dosing is based on the same guidelines as for adults and should be adjusted to the clinical condition of the patient, as well as their VWF:RCo and FVIII:C plasma levels. In younger patients, shorter dose intervals or higher doses may be necessary. The safety and efficacy of VEYVONDI for prophylactic treatment or the prevention or treatment of surgical bleeding have not yet been established in children aged less than 18 years.
 
 ## Name and batch number of the medicinal product
 

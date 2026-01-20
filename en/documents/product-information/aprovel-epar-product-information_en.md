@@ -1,18 +1,18 @@
 ---
-document_datetime: 2025-02-11 15:29:04
+document_datetime: 2026-01-19 10:05:52
 document_pages: 138
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/aprovel-epar-product-information_en.pdf
 document_name: aprovel-epar-product-information_en.pdf
 version: success
-processing_time: 29.0499452
-conversion_datetime: 2025-12-19 21:01:59.775508
+processing_time: 30.2084757
+conversion_datetime: 2026-01-20 20:10:37.694593
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.64.1
-  docling-core: 2.55.0
+  docling-serve: 1.10.0
+  docling-jobkit: 1.8.1
+  docling: 2.69.0
+  docling-core: 2.60.0
   docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-parse: 4.7.3
   python: cpython-313 (3.13.11)
   plaform: macOS-26.2-arm64-arm-64bit-Mach-O
 ---
@@ -438,13 +438,11 @@ Studies have not been performed in patients with severe hepatic impairment.
 
 ## 5.3 Preclinical safety data
 
-There was no evidence of abnormal systemic or target organ toxicity at clinically relevant doses. In non-clinical safety studies, high doses of irbesartan (≥ 250 mg/kg/day in rats and ≥ 100 mg/kg/day in macaques) caused a reduction of red blood cell parameters (erythrocytes, haemoglobin, haematocrit). At very high doses (≥ 500 mg/kg/day) degenerative changes in the kidney (such as interstitial nephritis, tubular distension, basophilic tubules, increased plasma concentrations of urea and creatinine) were induced by irbesartan in the rat and the macaque and are considered secondary to the hypotensive effects of the medicinal product which led to decreased renal perfusion. Furthermore, irbesartan induced hyperplasia/hypertrophy of the juxtaglomerular cells (in rats at ≥ 90 mg/kg/day, in macaques at ≥ 10 mg/kg/day). All of these changes were considered to be caused by the pharmacological action of irbesartan. For therapeutic doses of irbesartan in humans, the hyperplasia/ hypertrophy of the renal juxtaglomerular cells does not appear to have any relevance.
+In non-clinical safety studies, high doses of irbesartan caused a reduction of red blood cell parameters. At very high doses degenerative changes in the kidneys (such as interstitial nephritis, tubular distension, basophilic tubules, increased plasma concentrations of urea and creatinine) were induced in the rat and the macaque and are considered secondary to the hypotensive effects of irbesartan which led to decreased renal perfusion. Furthermore, irbesartan induced hyperplasia/hypertrophy of the juxtaglomerular cells. This finding was considered to be caused by the pharmacological action of irbesartan with little clinical relevance.
 
 There was no evidence of mutagenicity, clastogenicity or carcinogenicity.
 
-Fertility and reproductive performance were not affected in studies of male and female rats even at oral doses of irbesartan causing some parental toxicity (from 50 to 650 mg/kg/day), including mortality at the highest dose. No significant effects on the number of corpora lutea, implants, or live foetuses were observed. Irbesartan did not affect survival, development, or reproduction of offspring. Studies in animals indicate that the radiolabelled irbesartan is detected in rat and rabbit foetuses. Irbesartan is excreted in the milk of lactating rats.
-
-Animal studies with irbesartan showed transient toxic effects (increased renal pelvic cavitation, hydroureter or subcutaneous oedema) in rat foetuses, which were resolved after birth. In rabbits, abortion or early resorption were noted at doses causing significant maternal toxicity, including mortality. No teratogenic effects were observed in the rat or rabbit.
+Fertility and reproductive performance were not affected in studies of male and female rats. Animal studies with irbesartan showed transient toxic effects (increased renal pelvic cavitation, hydroureter or subcutaneous oedema) in rat foetuses, which were resolved after birth. In rabbits, abortion or early resorption were noted at doses causing significant maternal toxicity, including mortality. No teratogenic effects were observed in the rat or rabbit. Studies in animals indicate that the radiolabelled irbesartan is detected in rat and rabbit foetuses. Irbesartan is excreted in the milk of lactating rats.
 
 ## 6. PHARMACEUTICAL PARTICULARS
 
@@ -456,8 +454,6 @@ Microcrystalline cellulose Croscarmellose sodium Lactose monohydrate Magnesium s
 
 Not applicable.
 
-<div style=\"page-break-after: always\"></div>
-
 ## 6.3 Shelf life
 
 3 years.
@@ -465,6 +461,8 @@ Not applicable.
 ## 6.4 Special precautions for storage
 
 Do not store above 30°C.
+
+<div style=\"page-break-after: always\"></div>
 
 ## 6.5 Nature and contents of container
 
@@ -710,7 +708,7 @@ Not known:
 
 hyperkalaemia, hypoglycaemia
 
-Nervous system disorders
+## Nervous system disorders
 
 Common:
 
@@ -930,13 +928,11 @@ Studies have not been performed in patients with severe hepatic impairment.
 
 ## 5.3 Preclinical safety data
 
-There was no evidence of abnormal systemic or target organ toxicity at clinically relevant doses. In non-clinical safety studies, high doses of irbesartan (≥ 250 mg/kg/day in rats and ≥ 100 mg/kg/day in macaques) caused a reduction of red blood cell parameters (erythrocytes, haemoglobin, haematocrit). At very high doses (≥ 500 mg/kg/day) degenerative changes in the kidney (such as interstitial nephritis, tubular distension, basophilic tubules, increased plasma concentrations of urea and creatinine) were induced by irbesartan in the rat and the macaque and are considered secondary to the hypotensive effects of the medicinal product which led to decreased renal perfusion. Furthermore, irbesartan induced hyperplasia/hypertrophy of the juxtaglomerular cells (in rats at ≥ 90 mg/kg/day, in macaques at ≥ 10 mg/kg/day). All of these changes were considered to be caused by the pharmacological action of irbesartan. For therapeutic doses of irbesartan in humans, the hyperplasia/ hypertrophy of the renal juxtaglomerular cells does not appear to have any relevance.
+In non-clinical safety studies, high doses of irbesartan caused a reduction of red blood cell parameters. At very high doses degenerative changes in the kidneys (such as interstitial nephritis, tubular distension, basophilic tubules, increased plasma concentrations of urea and creatinine) were induced in the rat and the macaque and are considered secondary to the hypotensive effects of irbesartan which led to decreased renal perfusion. Furthermore, irbesartan induced hyperplasia/hypertrophy of the juxtaglomerular cells. This finding was considered to be caused by the pharmacological action of irbesartan with little clinical relevance.
 
 There was no evidence of mutagenicity, clastogenicity or carcinogenicity.
 
-Fertility and reproductive performance were not affected in studies of male and female rats even at oral doses of irbesartan causing some parental toxicity (from 50 to 650 mg/kg/day), including mortality at the highest dose. No significant effects on the number of corpora lutea, implants, or live foetuses were observed. Irbesartan did not affect survival, development, or reproduction of offspring. Studies in animals indicate that the radiolabelled irbesartan is detected in rat and rabbit foetuses. Irbesartan is excreted in the milk of lactating rats.
-
-Animal studies with irbesartan showed transient toxic effects (increased renal pelvic cavitation, hydroureter or subcutaneous oedema) in rat foetuses, which were resolved after birth. In rabbits, abortion or early resorption were noted at doses causing significant maternal toxicity, including mortality. No teratogenic effects were observed in the rat or rabbit.
+Fertility and reproductive performance were not affected in studies of male and female rats. Animal studies with irbesartan showed transient toxic effects (increased renal pelvic cavitation, hydroureter or subcutaneous oedema) in rat foetuses, which were resolved after birth. In rabbits, abortion or early resorption were noted at doses causing significant maternal toxicity, including mortality. No teratogenic effects were observed in the rat or rabbit. Studies in animals indicate that the radiolabelled irbesartan is detected in rat and rabbit foetuses. Irbesartan is excreted in the milk of lactating rats.
 
 ## 6. PHARMACEUTICAL PARTICULARS
 
@@ -952,19 +948,15 @@ Not applicable.
 
 3 years.
 
-<div style=\"page-break-after: always\"></div>
-
 ## 6.4 Special precautions for storage
 
 Do not store above 30°C.
 
 ## 6.5 Nature and contents of container
 
-Cartons of 14 tablets in PVC/PVDC/Aluminium blisters.
+Cartons of 14 tablets in PVC/PVDC/Aluminium blisters. Cartons of 28 tablets in PVC/PVDC/Aluminium blisters. Cartons of 56 tablets in PVC/PVDC/Aluminium blisters.
 
-Cartons of 28 tablets in PVC/PVDC/Aluminium blisters.
-
-Cartons of 56 tablets in PVC/PVDC/Aluminium blisters.
+<div style=\"page-break-after: always\"></div>
 
 Cartons of 98 tablets in PVC/PVDC/Aluminium blisters.
 
@@ -986,11 +978,7 @@ France
 
 ## 8. MARKETING AUTHORISATION NUMBERS
 
-EU/1/97/046/004-006
-
-EU/1/97/046/011
-
-EU/1/97/046/014
+EU/1/97/046/004-006 EU/1/97/046/011 EU/1/97/046/014
 
 ## 9. DATE OF FIRST AUTHORISATION / RENEWAL OF THE AUTHORISATION
 
@@ -1422,13 +1410,11 @@ Studies have not been performed in patients with severe hepatic impairment.
 
 ## 5.3 Preclinical safety data
 
-There was no evidence of abnormal systemic or target organ toxicity at clinically relevant doses. In non-clinical safety studies, high doses of irbesartan (≥ 250 mg/kg/day in rats and ≥ 100 mg/kg/day in macaques) caused a reduction of red blood cell parameters (erythrocytes, haemoglobin, haematocrit). At very high doses (≥ 500 mg/kg/day) degenerative changes in the kidney (such as interstitial nephritis, tubular distension, basophilic tubules, increased plasma concentrations of urea and creatinine) were induced by irbesartan in the rat and the macaque and are considered secondary to the hypotensive effects of the medicinal product which led to decreased renal perfusion. Furthermore, irbesartan induced hyperplasia/hypertrophy of the juxtaglomerular cells (in rats at ≥ 90 mg/kg/day, in macaques at ≥ 10 mg/kg/day). All of these changes were considered to be caused by the pharmacological action of irbesartan. For therapeutic doses of irbesartan in humans, the hyperplasia/ hypertrophy of the renal juxtaglomerular cells does not appear to have any relevance.
+In non-clinical safety studies, high doses of irbesartan caused a reduction of red blood cell parameters. At very high doses degenerative changes in the kidneys (such as interstitial nephritis, tubular distension, basophilic tubules, increased plasma concentrations of urea and creatinine) were induced in the rat and the macaque and are considered secondary to the hypotensive effects of irbesartan which led to decreased renal perfusion. Furthermore, irbesartan induced hyperplasia/hypertrophy of the juxtaglomerular cells. This finding was considered to be caused by the pharmacological action of irbesartan with little clinical relevance.
 
 There was no evidence of mutagenicity, clastogenicity or carcinogenicity.
 
-Fertility and reproductive performance were not affected in studies of male and female rats even at oral doses of irbesartan causing some parental toxicity (from 50 to 650 mg/kg/day), including mortality at the highest dose. No significant effects on the number of corpora lutea, implants, or live foetuses were observed. Irbesartan did not affect survival, development, or reproduction of offspring. Studies in animals indicate that the radiolabelled irbesartan is detected in rat and rabbit foetuses. Irbesartan is excreted in the milk of lactating rats.
-
-Animal studies with irbesartan showed transient toxic effects (increased renal pelvic cavitation, hydroureter or subcutaneous oedema) in rat foetuses, which were resolved after birth. In rabbits, abortion or early resorption were noted at doses causing significant maternal toxicity, including mortality. No teratogenic effects were observed in the rat or rabbit.
+Fertility and reproductive performance were not affected in studies of male and female rats . Animal studies with irbesartan showed transient toxic effects (increased renal pelvic cavitation, hydroureter or subcutaneous oedema) in rat foetuses, which were resolved after birth. In rabbits, abortion or early resorption were noted at doses causing significant maternal toxicity, including mortality. No teratogenic effects were observed in the rat or rabbit. Studies in animals indicate that the radiolabelled irbesartan is detected in rat and rabbit foetuses. Irbesartan is excreted in the milk of lactating rats.
 
 ## 6. PHARMACEUTICAL PARTICULARS
 
@@ -1440,8 +1426,6 @@ Microcrystalline cellulose Croscarmellose sodium Lactose monohydrate Magnesium s
 
 Not applicable.
 
-<div style=\"page-break-after: always\"></div>
-
 ## 6.3 Shelf life
 
 3 years.
@@ -1449,6 +1433,8 @@ Not applicable.
 ## 6.4 Special precautions for storage
 
 Do not store above 30°C.
+
+<div style=\"page-break-after: always\"></div>
 
 ## 6.5 Nature and contents of container
 
@@ -1914,13 +1900,11 @@ Studies have not been performed in patients with severe hepatic impairment.
 
 ## 5.3 Preclinical safety data
 
-There was no evidence of abnormal systemic or target organ toxicity at clinically relevant doses. In non-clinical safety studies, high doses of irbesartan (≥ 250 mg/kg/day in rats and ≥ 100 mg/kg/day in macaques) caused a reduction of red blood cell parameters (erythrocytes, haemoglobin, haematocrit). At very high doses (≥ 500 mg/kg/day) degenerative changes in the kidney (such as interstitial nephritis, tubular distension, basophilic tubules, increased plasma concentrations of urea and creatinine) were induced by irbesartan in the rat and the macaque and are considered secondary to the hypotensive effects of the medicinal product which led to decreased renal perfusion. Furthermore, irbesartan induced hyperplasia/hypertrophy of the juxtaglomerular cells (in rats at ≥ 90 mg/kg/day, in macaques at ≥ 10 mg/kg/day). All of these changes were considered to be caused by the pharmacological action of irbesartan. For therapeutic doses of irbesartan in humans, the hyperplasia/ hypertrophy of the renal juxtaglomerular cells does not appear to have any relevance.
+In non-clinical safety studies, high doses of irbesartan caused a reduction of red blood cell parameters. At very high doses degenerative changes in the kidneys (such as interstitial nephritis, tubular distension, basophilic tubules, increased plasma concentrations of urea and creatinine) were induced in the rat and the macaque and are considered secondary to the hypotensive effects of irbesartan which led to decreased renal perfusion. Furthermore, irbesartan induced hyperplasia/hypertrophy of the juxtaglomerular cells. This finding was considered to be caused by the pharmacological action of irbesartan with little clinical relevance.
 
 There was no evidence of mutagenicity, clastogenicity or carcinogenicity.
 
-Fertility and reproductive performance were not affected in studies of male and female rats even at oral doses of irbesartan causing some parental toxicity (from 50 to 650 mg/kg/day), including mortality at the highest dose. No significant effects on the number of corpora lutea, implants, or live foetuses were observed. Irbesartan did not affect survival, development, or reproduction of offspring. Studies in animals indicate that the radiolabelled irbesartan is detected in rat and rabbit foetuses. Irbesartan is excreted in the milk of lactating rats.
-
-Animal studies with irbesartan showed transient toxic effects (increased renal pelvic cavitation, hydroureter or subcutaneous oedema) in rat foetuses, which were resolved after birth. In rabbits, abortion or early resorption were noted at doses causing significant maternal toxicity, including mortality. No teratogenic effects were observed in the rat or rabbit.
+Fertility and reproductive performance were not affected in studies of male and female rats. Animal studies with irbesartan showed transient toxic effects (increased renal pelvic cavitation, hydroureter or subcutaneous oedema) in rat foetuses, which were resolved after birth. In rabbits, abortion or early resorption were noted at doses causing significant maternal toxicity, including mortality. No teratogenic effects were observed in the rat or rabbit. Studies in animals indicate that the radiolabelled irbesartan is detected in rat and rabbit foetuses. Irbesartan is excreted in the milk of lactating rats.
 
 ## 6. PHARMACEUTICAL PARTICULARS
 
@@ -1938,19 +1922,15 @@ Not applicable.
 
 3 years.
 
-<div style=\"page-break-after: always\"></div>
-
 ## 6.4 Special precautions for storage
 
 Do not store above 30°C.
 
 ## 6.5 Nature and contents of container
 
-Cartons of 14 film-coated tablets in PVC/PVDC/Aluminium blisters.
+Cartons of 14 film-coated tablets in PVC/PVDC/Aluminium blisters. Cartons of 28 film-coated tablets in PVC/PVDC/Aluminium blisters. Cartons of 30 film-coated tablets in PVC/PVDC/Aluminium blisters.
 
-Cartons of 28 film-coated tablets in PVC/PVDC/Aluminium blisters.
-
-Cartons of 30 film-coated tablets in PVC/PVDC/Aluminium blisters.
+<div style=\"page-break-after: always\"></div>
 
 Cartons of 56 film-coated tablets in PVC/PVDC/Aluminium blisters.
 
@@ -2408,13 +2388,11 @@ Studies have not been performed in patients with severe hepatic impairment.
 
 ## 5.3 Preclinical safety data
 
-There was no evidence of abnormal systemic or target organ toxicity at clinically relevant doses. In non-clinical safety studies, high doses of irbesartan (≥ 250 mg/kg/day in rats and ≥ 100 mg/kg/day in macaques) caused a reduction of red blood cell parameters (erythrocytes, haemoglobin, haematocrit). At very high doses (≥ 500 mg/kg/day) degenerative changes in the kidney (such as interstitial nephritis, tubular distension, basophilic tubules, increased plasma concentrations of urea and creatinine) were induced by irbesartan in the rat and the macaque and are considered secondary to the hypotensive effects of the medicinal product which led to decreased renal perfusion. Furthermore, irbesartan induced hyperplasia/hypertrophy of the juxtaglomerular cells (in rats at ≥ 90 mg/kg/day, in macaques at ≥ 10 mg/kg/day). All of these changes were considered to be caused by the pharmacological action of irbesartan. For therapeutic doses of irbesartan in humans, the hyperplasia/ hypertrophy of the renal juxtaglomerular cells does not appear to have any relevance.
+In non-clinical safety studies, high doses of irbesartan  caused a reduction of red blood cell parameters. At very high doses degenerative changes in the kidneys (such as interstitial nephritis, tubular distension, basophilic tubules, increased plasma concentrations of urea and creatinine) were induced in the rat and the macaque and are considered secondary to the hypotensive effects of irbesartan which led to decreased renal perfusion. Furthermore, irbesartan induced hyperplasia/hypertrophy of the juxtaglomerular cells. This finding was considered to be caused by the pharmacological action of irbesartan with little clinical relevance.
 
 There was no evidence of mutagenicity, clastogenicity or carcinogenicity.
 
-Fertility and reproductive performance were not affected in studies of male and female rats even at oral doses of irbesartan causing some parental toxicity (from 50 to 650 mg/kg/day), including mortality at the highest dose. No significant effects on the number of corpora lutea, implants, or live foetuses were observed. Irbesartan did not affect survival, development, or reproduction of offspring. Studies in animals indicate that the radiolabelled irbesartan is detected in rat and rabbit foetuses. Irbesartan is excreted in the milk of lactating rats.
-
-Animal studies with irbesartan showed transient toxic effects (increased renal pelvic cavitation, hydroureter or subcutaneous oedema) in rat foetuses, which were resolved after birth. In rabbits, abortion or early resorption were noted at doses causing significant maternal toxicity, including mortality. No teratogenic effects were observed in the rat or rabbit.
+Fertility and reproductive performance were not affected in studies of male and female rats. Animal studies with irbesartan showed transient toxic effects (increased renal pelvic cavitation, hydroureter or subcutaneous oedema) in rat foetuses, which were resolved after birth. In rabbits, abortion or early resorption were noted at doses causing significant maternal toxicity, including mortality. No teratogenic effects were observed in the rat or rabbit. Studies in animals indicate that the radiolabelled irbesartan is detected in rat and rabbit foetuses. Irbesartan is excreted in the milk of lactating rats.
 
 ## 6. PHARMACEUTICAL PARTICULARS
 
@@ -2424,8 +2402,6 @@ Tablet core: Lactose monohydrate Microcrystalline cellulose Croscarmellose sodiu
 
 Film-coating: Lactose monohydrate Hypromellose Titanium dioxide Macrogol 3000 Carnauba wax.
 
-<div style=\"page-break-after: always\"></div>
-
 ## 6.2 Incompatibilities
 
 Not applicable.
@@ -2433,6 +2409,8 @@ Not applicable.
 ## 6.3 Shelf life
 
 3 years.
+
+<div style=\"page-break-after: always\"></div>
 
 ## 6.4 Special precautions for storage
 
@@ -2466,7 +2444,9 @@ Any unused medicinal product or waste material should be disposed of in accordan
 
 Sanofi Winthrop Industrie
 
-82 avenue Raspail 94250 Gentilly France
+82 avenue Raspail 94250 Gentilly
+
+France
 
 ## 8. MARKETING AUTHORISATION NUMBERS
 
@@ -2908,13 +2888,11 @@ Studies have not been performed in patients with severe hepatic impairment.
 
 ## 5.3 Preclinical safety data
 
-There was no evidence of abnormal systemic or target organ toxicity at clinically relevant doses. In non-clinical safety studies, high doses of irbesartan (≥ 250 mg/kg/day in rats and ≥ 100 mg/kg/day in macaques) caused a reduction of red blood cell parameters (erythrocytes, haemoglobin, haematocrit). At very high doses (≥ 500 mg/kg/day) degenerative changes in the kidney (such as interstitial nephritis, tubular distension, basophilic tubules, increased plasma concentrations of urea and creatinine) were induced by irbesartan in the rat and the macaque and are considered secondary to the hypotensive effects of the medicinal product which led to decreased renal perfusion. Furthermore, irbesartan induced hyperplasia/hypertrophy of the juxtaglomerular cells (in rats at ≥ 90 mg/kg/day, in macaques at ≥ 10 mg/kg/day). All of these changes were considered to be caused by the pharmacological action of irbesartan. For therapeutic doses of irbesartan in humans, the hyperplasia/ hypertrophy of the renal juxtaglomerular cells does not appear to have any relevance.
+In non-clinical safety studies, high doses of irbesartan  caused a reduction of red blood cell parameters. At very high doses degenerative changes in the kidneys (such as interstitial nephritis, tubular distension, basophilic tubules, increased plasma concentrations of urea and creatinine) were induced in the rat and the macaque and are considered secondary to the hypotensive effects of irbesartan which led to decreased renal perfusion. Furthermore, irbesartan induced hyperplasia/hypertrophy of the juxtaglomerular cells. This finding was considered to be caused by the pharmacological action of irbesartan with little clinical relevance.
 
 There was no evidence of mutagenicity, clastogenicity or carcinogenicity.
 
-Fertility and reproductive performance were not affected in studies of male and female rats even at oral doses of irbesartan causing some parental toxicity (from 50 to 650 mg/kg/day), including mortality at the highest dose. No significant effects on the number of corpora lutea, implants, or live foetuses were observed. Irbesartan did not affect survival, development, or reproduction of offspring. Studies in animals indicate that the radiolabelled irbesartan is detected in rat and rabbit foetuses. Irbesartan is excreted in the milk of lactating rats.
-
-Animal studies with irbesartan showed transient toxic effects (increased renal pelvic cavitation, hydroureter or subcutaneous oedema) in rat foetuses, which were resolved after birth. In rabbits, abortion or early resorption were noted at doses causing significant maternal toxicity, including mortality. No teratogenic effects were observed in the rat or rabbit.
+Fertility and reproductive performance were not affected in studies of male and female rats. Animal studies with irbesartan showed transient toxic effects (increased renal pelvic cavitation, hydroureter or subcutaneous oedema) in rat foetuses, which were resolved after birth. In rabbits, abortion or early resorption were noted at doses causing significant maternal toxicity, including mortality. No teratogenic effects were observed in the rat or rabbit. Studies in animals indicate that the radiolabelled irbesartan is detected in rat and rabbit foetuses. Irbesartan is excreted in the milk of lactating rats.
 
 ## 6. PHARMACEUTICAL PARTICULARS
 
@@ -2932,19 +2910,15 @@ Not applicable.
 
 3 years.
 
-<div style=\"page-break-after: always\"></div>
-
 ## 6.4 Special precautions for storage
 
 Do not store above 30°C.
 
 ## 6.5 Nature and contents of container
 
-Cartons of 14 film-coated tablets in PVC/PVDC/Aluminium blisters.
+Cartons of 14 film-coated tablets in PVC/PVDC/Aluminium blisters. Cartons of 28 film-coated tablets in PVC/PVDC/Aluminium blisters. Cartons of 30 film-coated tablets in PVC/PVDC/Aluminium blisters.
 
-Cartons of 28 film-coated tablets in PVC/PVDC/Aluminium blisters.
-
-Cartons of 30 film-coated tablets in PVC/PVDC/Aluminium blisters.
+<div style=\"page-break-after: always\"></div>
 
 Cartons of 56 film-coated tablets in PVC/PVDC/Aluminium blisters.
 
@@ -4230,7 +4204,7 @@ sanofi-aventis Ireland Ltd. T/A SANOFI Tel: +353 (0) 1 403 56 00
 
 ## Ísland
 
-Vistor hf.
+Vistor ehf.
 
 Sími: +354 535 7000
 
@@ -4309,12 +4283,6 @@ Puh/Tel: +358 (0) 201 200 300
 Sanofi AB
 
 Tel: +46 (0)8 634 50 00
-
-## United Kingdom (Northern Ireland)
-
-sanofi-aventis Ireland Ltd. T/A SANOFI
-
-Tel: +44 (0) 800 035 2525
 
 <div style=\"page-break-after: always\"></div>
 
@@ -4632,7 +4600,7 @@ sanofi-aventis Ireland Ltd. T/A SANOFI Tel: +353 (0) 1 403 56 00
 
 ## Ísland
 
-Vistor hf.
+Vistor ehf.
 
 Sími: +354 535 7000
 
@@ -4711,12 +4679,6 @@ Puh/Tel: +358 (0) 201 200 300
 Sanofi AB
 
 Tel: +46 (0)8 634 50 00
-
-## United Kingdom (Northern Ireland)
-
-sanofi-aventis Ireland Ltd. T/A SANOFI
-
-Tel: +44 (0) 800 035 2525
 
 <div style=\"page-break-after: always\"></div>
 
@@ -5036,7 +4998,7 @@ sanofi-aventis Ireland Ltd. T/A SANOFI Tel: +353 (0) 1 403 56 00
 
 ## Ísland
 
-Vistor hf.
+Vistor ehf.
 
 Sími: +354 535 7000
 
@@ -5115,12 +5077,6 @@ Puh/Tel: +358 (0) 201 200 300
 Sanofi AB
 
 Tel: +46 (0)8 634 50 00
-
-## United Kingdom (Northern Ireland)
-
-sanofi-aventis Ireland Ltd. T/A SANOFI
-
-Tel: +44 (0) 800 035 2525
 
 <div style=\"page-break-after: always\"></div>
 
@@ -5432,7 +5388,7 @@ sanofi-aventis Ireland Ltd. T/A SANOFI Tel: +353 (0) 1 403 56 00
 
 ## Ísland
 
-Vistor hf.
+Vistor ehf.
 
 Sími: +354 535 7000
 
@@ -5511,12 +5467,6 @@ Puh/Tel: +358 (0) 201 200 300
 Sanofi AB
 
 Tel: +46 (0)8 634 50 00
-
-## United Kingdom (Northern Ireland)
-
-sanofi-aventis Ireland Ltd. T/A SANOFI
-
-Tel: +44 (0) 800 035 2525
 
 <div style=\"page-break-after: always\"></div>
 
@@ -5716,9 +5666,9 @@ Not all pack sizes may be marketed.
 
 ## Marketing Authorisation Holder:
 
-Sanofi Winthrop Industrie 82 avenue Raspail 94250 Gentilly
+Sanofi Winthrop Industrie
 
-France
+82 avenue Raspail 94250 Gentilly France
 
 ## Manufacturer:
 
@@ -5726,7 +5676,9 @@ SANOFI WINTHROP INDUSTRIE 1, rue de la Vierge Ambarès &amp; Lagrave F-33565 Car
 
 SANOFI WINTHROP INDUSTRIE 30-36 Avenue Gustave Eiffel, BP 7166 F-37071 Tours Cedex 2 - France
 
-SANOFI-AVENTIS, S.A. Ctra. C-35 (La Batlloria-Hostalric), km. 63.09 17404 Riells i Viabrea (Girona) - Spain
+SANOFI-AVENTIS, S.A.
+
+Ctra. C-35 (La Batlloria-Hostalric), km. 63.09 17404 Riells i Viabrea (Girona) - Spain
 
 For any information about this medicinal product, please contact the local representative of the Marketing Authorisation Holder.
 
@@ -5810,7 +5762,7 @@ sanofi-aventis Ireland Ltd. T/A SANOFI Tel: +353 (0) 1 403 56 00
 
 ## Ísland
 
-Vistor hf.
+Vistor ehf.
 
 Sími: +354 535 7000
 
@@ -5854,7 +5806,9 @@ sanofi-aventis Norge AS Tlf: +47 67 10 71 00
 
 ## Österreich
 
-sanofi-aventis GmbH Tel: +43 1 80 185 - 0
+sanofi-aventis GmbH
+
+Tel: +43 1 80 185 - 0
 
 ## Polska
 
@@ -5864,11 +5818,15 @@ Tel.: +48 22 280 00 00
 
 ## Portugal
 
-Sanofi - Produtos Farmacêuticos, Lda Tel: +351 21 35 89 400
+Sanofi - Produtos Farmacêuticos, Lda
+
+Tel: +351 21 35 89 400
 
 ## România
 
-Sanofi Romania SRL Tel: +40 (0) 21 317 31 36
+Sanofi Romania SRL
+
+Tel: +40 (0) 21 317 31 36
 
 ## Slovenija
 
@@ -5893,12 +5851,6 @@ Puh/Tel: +358 (0) 201 200 300
 Sanofi AB
 
 Tel: +46 (0)8 634 50 00
-
-## United Kingdom (Northern Ireland)
-
-sanofi-aventis Ireland Ltd. T/A SANOFI
-
-Tel: +44 (0) 800 035 2525
 
 <div style=\"page-break-after: always\"></div>
 
@@ -6210,7 +6162,7 @@ sanofi-aventis Ireland Ltd. T/A SANOFI Tel: +353 (0) 1 403 56 00
 
 ## Ísland
 
-Vistor hf.
+Vistor ehf.
 
 Sími: +354 535 7000
 
@@ -6295,9 +6247,3 @@ Puh/Tel: +358 (0) 201 200 300
 Sanofi AB
 
 Tel: +46 (0)8 634 50 00
-
-## United Kingdom (Northern Ireland)
-
-sanofi-aventis Ireland Ltd. T/A SANOFI
-
-Tel: +44 (0) 800 035 2525

@@ -1,21 +1,96 @@
 ---
-document_datetime: 2025-12-29 13:03:53
+document_datetime: 2026-01-19 17:42:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/abiraterone-mylan.html
 document_name: abiraterone-mylan.html
 version: success
-processing_time: 0.121178
-conversion_datetime: 2025-12-31 04:02:03.916882
+processing_time: 0.1294772
+conversion_datetime: 2026-01-20 20:17:41.794892
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.66.0
-  docling-core: 2.57.0
+  docling-serve: 1.10.0
+  docling-jobkit: 1.8.1
+  docling: 2.69.0
+  docling-core: 2.60.0
   docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-parse: 4.7.3
   python: cpython-313 (3.13.11)
   plaform: macOS-26.2-arm64-arm-64bit-Mach-O
 ---
+# Search
+
+- [Medicines](/en/medicines)
+    - [Find medicine](/en/medicines)
+    - [Therapeutic areas: latest updates](/en/medicines/therapeutic-areas-latest-updates)
+    - [Download medicine data](/en/medicines/download-medicine-data)
+    - [What we publish on medicines and when](/en/medicines/what-we-publish-medicines-when)
+    - [Medicines under evaluation](/en/medicines/medicines-human-use-under-evaluation)
+    - [National registers](/en/medicines/national-registers-authorised-medicines)
+- [Human regulatory](/en/human-regulatory-overview)
+    - [Overview](/en/human-regulatory-overview)
+    - [Research and development](/en/human-regulatory-overview/research-development)
+    - [Marketing authorisation](/en/human-regulatory-overview/marketing-authorisation)
+    - [Post-authorisation](/en/human-regulatory-overview/post-authorisation)
+    - [Medical devices](/en/human-regulatory-overview/medical-devices)
+    - [Herbal products](/en/human-regulatory-overview/herbal-medicinal-products)
+- [Veterinary regulatory](/en/veterinary-regulatory-overview)
+    - [Overview](/en/veterinary-regulatory-overview)
+    - [Research and development](/en/veterinary-regulatory-overview/research-development-veterinary-medicines)
+    - [Marketing authorisation](/en/veterinary-regulatory-overview/marketing-authorisation-veterinary-medicines)
+    - [Post-authorisation](/en/veterinary-regulatory-overview/post-authorisation-veterinary-medicines)
+- [Committees](/en/committees)
+    - [Overview](/en/committees)
+    - [How the committees work](/en/committees/how-committees-work)
+    - [CHMP](/en/committees/committee-medicinal-products-human-use-chmp)
+    - [CVMP](/en/committees/committee-veterinary-medicinal-products-cvmp)
+    - [PRAC](/en/committees/pharmacovigilance-risk-assessment-committee-prac)
+    - [COMP](/en/committees/committee-orphan-medicinal-products-comp)
+    - [HMPC](/en/committees/committee-herbal-medicinal-products-hmpc)
+    - [CAT](/en/committees/committee-advanced-therapies-cat)
+    - [PDCO](/en/committees/paediatric-committee-pdco)
+    - [Working parties and other groups](/en/committees/working-parties-other-groups)
+- [News &amp; events](/en/news-events)
+    - [Overview](/en/news-events)
+    - [News](/en/news)
+    - [Events](/en/events/upcoming-events)
+    - [What's new](/en/news-events/whats-new)
+    - [Committee highlights](/en/news-events/committee-highlights)
+    - [Publications](/en/news-and-events/publications)
+    - [Press and social media](/en/news-events/press-social-media)
+    - [Podcast: Inside EMA](/en/news-events/podcast-inside-ema)
+    - [Open consultations](/en/news-events/open-consultations)
+    - [RSS feeds](/en/news-events/rss-feeds)
+- [Partners &amp; networks](/en/partners-networks)
+    - [Overview](/en/partners-networks)
+    - [Animal health practitioners](/en/partners-networks/animal-health-practitioners)
+    - [One Health approach](/en/partners-networks/one-health-approach)
+    - [Academia](/en/partners-networks/academia)
+    - [EU partners](/en/partners-networks/eu-partners)
+    - [International activities](/en/partners-networks/international-activities)
+    - [Patients and consumers](/en/partners-networks/patients-consumers)
+    - [Healthcare professionals](/en/partners-networks/healthcare-professionals)
+    - [Pharmaceutical industry](/en/partners-networks/pharmaceutical-industry)
+    - [Networks](/en/partners-networks/networks)
+    - [Health technology assessment bodies](/en/partners-networks/health-technology-assessment-bodies)
+- [About us](/en/about-us)
+    - [Overview](/en/about-us)
+    - [What we do](/en/about-us/what-we-do)
+    - [Who we are](/en/about-us/who-we-are)
+    - [How we work](/en/about-us/how-we-work)
+    - [Fees](/en/about-us/fees-payable-european-medicines-agency)
+    - [Support to SMEs](/en/about-us/support-smes)
+    - [Annual reports and work programmes](/en/about-us/annual-reports-work-programmes)
+    - [History of EMA](/en/about-us/history-ema)
+    - [Careers](/en/about-us/careers)
+    - [Procurement](/en/about-us/procurement-grants)
+    - [Glossaries](/en/about-us/glossaries)
+    - [About this website](/en/about-us/about-website)
+    - [Data protection and privacy](/en/about-us/data-protection-privacy-ema)
+    - [Contacts](/en/about-us/contacts-european-medicines-agency)
+
+1. [Home](/en/homepage)
+2. [Medicines](https://www.ema.europa.eu/en/medicines)
+3. Abiraterone Mylan
+
 # Abiraterone Mylan
 
 [RSS](/en/individual-human-medicine.xml/67454)
@@ -25,8 +100,6 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 abiraterone acetate Medicine Human Authorised
-
-On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -104,7 +177,7 @@ English (EN) (166.84 KB - PDF)
 
 [View](/en/documents/overview/abiraterone-mylan-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-589)
+[Other languages (22)](#file-language-dropdown-636)
 
 български (BG) (188.37 KB - PDF)
 
@@ -294,17 +367,17 @@ English (EN) (109.04 KB - PDF)
 
 Abiraterone Mylan : EPAR - Product information
 
-English (EN) (1001.86 KB - PDF)
+English (EN) (1.01 MB - PDF)
 
 **First published:** 26/08/2021
 
-**Last updated:** 06/01/2025
+**Last updated:** 19/01/2026
 
 [View](/en/documents/product-information/abiraterone-mylan-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-969)
+[Other languages (24)](#file-language-dropdown-692)
 
-български (BG) (1.06 MB - PDF)
+български (BG) (902.62 KB - PDF)
 
 **First published:**
 
@@ -312,11 +385,11 @@ English (EN) (1001.86 KB - PDF)
 
 **Last updated:**
 
-06/01/2025
+19/01/2026
 
 [View](/bg/documents/product-information/abiraterone-mylan-epar-product-information_bg.pdf)
 
-español (ES) (605.32 KB - PDF)
+español (ES) (714.5 KB - PDF)
 
 **First published:**
 
@@ -324,11 +397,11 @@ español (ES) (605.32 KB - PDF)
 
 **Last updated:**
 
-06/01/2025
+19/01/2026
 
 [View](/es/documents/product-information/abiraterone-mylan-epar-product-information_es.pdf)
 
-čeština (CS) (1012.18 KB - PDF)
+čeština (CS) (1.12 MB - PDF)
 
 **First published:**
 
@@ -336,11 +409,11 @@ español (ES) (605.32 KB - PDF)
 
 **Last updated:**
 
-06/01/2025
+19/01/2026
 
 [View](/cs/documents/product-information/abiraterone-mylan-epar-product-information_cs.pdf)
 
-dansk (DA) (742.81 KB - PDF)
+dansk (DA) (738.54 KB - PDF)
 
 **First published:**
 
@@ -348,11 +421,11 @@ dansk (DA) (742.81 KB - PDF)
 
 **Last updated:**
 
-06/01/2025
+19/01/2026
 
 [View](/da/documents/product-information/abiraterone-mylan-epar-product-information_da.pdf)
 
-Deutsch (DE) (607.17 KB - PDF)
+Deutsch (DE) (610.52 KB - PDF)
 
 **First published:**
 
@@ -360,11 +433,11 @@ Deutsch (DE) (607.17 KB - PDF)
 
 **Last updated:**
 
-06/01/2025
+19/01/2026
 
 [View](/de/documents/product-information/abiraterone-mylan-epar-product-information_de.pdf)
 
-eesti keel (ET) (690.46 KB - PDF)
+eesti keel (ET) (560.38 KB - PDF)
 
 **First published:**
 
@@ -372,11 +445,11 @@ eesti keel (ET) (690.46 KB - PDF)
 
 **Last updated:**
 
-06/01/2025
+19/01/2026
 
 [View](/et/documents/product-information/abiraterone-mylan-epar-product-information_et.pdf)
 
-ελληνικά (EL) (850.9 KB - PDF)
+ελληνικά (EL) (806.27 KB - PDF)
 
 **First published:**
 
@@ -384,11 +457,11 @@ eesti keel (ET) (690.46 KB - PDF)
 
 **Last updated:**
 
-06/01/2025
+19/01/2026
 
 [View](/el/documents/product-information/abiraterone-mylan-epar-product-information_el.pdf)
 
-français (FR) (708.02 KB - PDF)
+français (FR) (417.95 KB - PDF)
 
 **First published:**
 
@@ -396,11 +469,11 @@ français (FR) (708.02 KB - PDF)
 
 **Last updated:**
 
-06/01/2025
+19/01/2026
 
 [View](/fr/documents/product-information/abiraterone-mylan-epar-product-information_fr.pdf)
 
-hrvatski (HR) (785.03 KB - PDF)
+hrvatski (HR) (784.57 KB - PDF)
 
 **First published:**
 
@@ -408,11 +481,11 @@ hrvatski (HR) (785.03 KB - PDF)
 
 **Last updated:**
 
-06/01/2025
+19/01/2026
 
 [View](/hr/documents/product-information/abiraterone-mylan-epar-product-information_hr.pdf)
 
-íslenska (IS) (743.61 KB - PDF)
+íslenska (IS) (738.67 KB - PDF)
 
 **First published:**
 
@@ -420,11 +493,11 @@ hrvatski (HR) (785.03 KB - PDF)
 
 **Last updated:**
 
-06/01/2025
+19/01/2026
 
 [View](/is/documents/product-information/abiraterone-mylan-epar-product-information_is.pdf)
 
-italiano (IT) (737.74 KB - PDF)
+italiano (IT) (727.34 KB - PDF)
 
 **First published:**
 
@@ -432,11 +505,11 @@ italiano (IT) (737.74 KB - PDF)
 
 **Last updated:**
 
-06/01/2025
+19/01/2026
 
 [View](/it/documents/product-information/abiraterone-mylan-epar-product-information_it.pdf)
 
-latviešu valoda (LV) (1.02 MB - PDF)
+latviešu valoda (LV) (573.84 KB - PDF)
 
 **First published:**
 
@@ -444,11 +517,11 @@ latviešu valoda (LV) (1.02 MB - PDF)
 
 **Last updated:**
 
-06/01/2025
+19/01/2026
 
 [View](/lv/documents/product-information/abiraterone-mylan-epar-product-information_lv.pdf)
 
-lietuvių kalba (LT) (889.49 KB - PDF)
+lietuvių kalba (LT) (1.1 MB - PDF)
 
 **First published:**
 
@@ -456,11 +529,11 @@ lietuvių kalba (LT) (889.49 KB - PDF)
 
 **Last updated:**
 
-06/01/2025
+19/01/2026
 
 [View](/lt/documents/product-information/abiraterone-mylan-epar-product-information_lt.pdf)
 
-magyar (HU) (755.92 KB - PDF)
+magyar (HU) (865.25 KB - PDF)
 
 **First published:**
 
@@ -468,11 +541,11 @@ magyar (HU) (755.92 KB - PDF)
 
 **Last updated:**
 
-06/01/2025
+19/01/2026
 
 [View](/hu/documents/product-information/abiraterone-mylan-epar-product-information_hu.pdf)
 
-Malti (MT) (949.69 KB - PDF)
+Malti (MT) (830.81 KB - PDF)
 
 **First published:**
 
@@ -480,11 +553,11 @@ Malti (MT) (949.69 KB - PDF)
 
 **Last updated:**
 
-06/01/2025
+19/01/2026
 
 [View](/mt/documents/product-information/abiraterone-mylan-epar-product-information_mt.pdf)
 
-Nederlands (NL) (654.91 KB - PDF)
+Nederlands (NL) (725.19 KB - PDF)
 
 **First published:**
 
@@ -492,11 +565,11 @@ Nederlands (NL) (654.91 KB - PDF)
 
 **Last updated:**
 
-06/01/2025
+19/01/2026
 
 [View](/nl/documents/product-information/abiraterone-mylan-epar-product-information_nl.pdf)
 
-norsk (NO) (751.8 KB - PDF)
+norsk (NO) (592.22 KB - PDF)
 
 **First published:**
 
@@ -504,11 +577,11 @@ norsk (NO) (751.8 KB - PDF)
 
 **Last updated:**
 
-06/01/2025
+19/01/2026
 
 [View](/no/documents/product-information/abiraterone-mylan-epar-product-information_no.pdf)
 
-polski (PL) (698.2 KB - PDF)
+polski (PL) (690.7 KB - PDF)
 
 **First published:**
 
@@ -516,11 +589,11 @@ polski (PL) (698.2 KB - PDF)
 
 **Last updated:**
 
-06/01/2025
+19/01/2026
 
 [View](/pl/documents/product-information/abiraterone-mylan-epar-product-information_pl.pdf)
 
-português (PT) (646.49 KB - PDF)
+português (PT) (760.64 KB - PDF)
 
 **First published:**
 
@@ -528,11 +601,11 @@ português (PT) (646.49 KB - PDF)
 
 **Last updated:**
 
-06/01/2025
+19/01/2026
 
 [View](/pt/documents/product-information/abiraterone-mylan-epar-product-information_pt.pdf)
 
-română (RO) (835.73 KB - PDF)
+română (RO) (842.91 KB - PDF)
 
 **First published:**
 
@@ -540,11 +613,11 @@ română (RO) (835.73 KB - PDF)
 
 **Last updated:**
 
-06/01/2025
+19/01/2026
 
 [View](/ro/documents/product-information/abiraterone-mylan-epar-product-information_ro.pdf)
 
-slovenčina (SK) (835.52 KB - PDF)
+slovenčina (SK) (832.17 KB - PDF)
 
 **First published:**
 
@@ -552,11 +625,11 @@ slovenčina (SK) (835.52 KB - PDF)
 
 **Last updated:**
 
-06/01/2025
+19/01/2026
 
 [View](/sk/documents/product-information/abiraterone-mylan-epar-product-information_sk.pdf)
 
-slovenščina (SL) (888.06 KB - PDF)
+slovenščina (SL) (887.32 KB - PDF)
 
 **First published:**
 
@@ -564,11 +637,11 @@ slovenščina (SL) (888.06 KB - PDF)
 
 **Last updated:**
 
-06/01/2025
+19/01/2026
 
 [View](/sl/documents/product-information/abiraterone-mylan-epar-product-information_sl.pdf)
 
-Suomi (FI) (837.74 KB - PDF)
+Suomi (FI) (822.17 KB - PDF)
 
 **First published:**
 
@@ -576,7 +649,7 @@ Suomi (FI) (837.74 KB - PDF)
 
 **Last updated:**
 
-06/01/2025
+19/01/2026
 
 [View](/fi/documents/product-information/abiraterone-mylan-epar-product-information_fi.pdf)
 
@@ -588,11 +661,11 @@ svenska (SV) (1.2 MB - PDF)
 
 **Last updated:**
 
-06/01/2025
+19/01/2026
 
 [View](/sv/documents/product-information/abiraterone-mylan-epar-product-information_sv.pdf)
 
-**Latest procedure affecting product information:** T/0011 12/12/2024
+**Latest procedure affecting product information:** N/0000319650 19/01/2026
 
 icon globe
 
@@ -618,7 +691,7 @@ English (EN) (57.77 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/abiraterone-mylan-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-144)
+[Other languages (24)](#file-language-dropdown-982)
 
 български (BG) (70.48 KB - PDF)
 
@@ -939,7 +1012,7 @@ Mylan Pharmaceuticals Limited
 
 Damastown Industrial Park
 
-Opinion adopted 24/06/2021 Marketing authorisation issued 20/08/2021 Revision 6
+Opinion adopted 24/06/2021 Marketing authorisation issued 20/08/2021 Revision 7
 
 ## Assessment history
 
@@ -951,13 +1024,21 @@ Collapse section
 
 Abiraterone Mylan : EPAR - Procedural steps taken and scientific information after the authorisation
 
+English (EN) (142.48 KB - PDF)
+
+**First published:** 19/01/2026
+
+[View](/en/documents/procedural-steps-after/abiraterone-mylan-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf)
+
+Abiraterone Mylan : EPAR - Procedural steps taken and scientific information after the authorisation (archive)
+
 English (EN) (155.3 KB - PDF)
 
 **First published:** 16/02/2022
 
-**Last updated:** 06/01/2025
+**Last updated:** 19/01/2026
 
-[View](/en/documents/procedural-steps-after/abiraterone-mylan-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf)
+[View](/en/documents/procedural-steps-after/abiraterone-mylan-epar-procedural-steps-taken-scientific-information-after-authorisation-archive_en.pdf)
 
 ## Initial marketing authorisation documents
 
@@ -1003,7 +1084,7 @@ English (EN) (66.45 KB - PDF)
 
 [View](/en/documents/other/questions-and-answers-generic-medicines_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-573)
+[Other languages (22)](#file-language-dropdown-311)
 
 български (BG) (93.16 KB - PDF)
 
@@ -1269,7 +1350,7 @@ svenska (SV) (67.11 KB - PDF)
 
 [View](/sv/documents/other/questions-and-answers-generic-medicines_sv.pdf)
 
-**This page was last updated on** 06/01/2025
+**This page was last updated on** 19/01/2026
 
 ## Share this page
 

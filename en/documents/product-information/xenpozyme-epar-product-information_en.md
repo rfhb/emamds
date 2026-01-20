@@ -1,18 +1,18 @@
 ---
-document_datetime: 2025-06-30 07:10:50
-document_pages: 46
+document_datetime: 2026-01-19 17:10:18
+document_pages: 48
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/xenpozyme-epar-product-information_en.pdf
 document_name: xenpozyme-epar-product-information_en.pdf
 version: success
-processing_time: 11.7159259
-conversion_datetime: 2025-12-26 19:20:38.062233
+processing_time: 12.0654578
+conversion_datetime: 2026-01-20 20:39:56.370869
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.66.0
-  docling-core: 2.57.0
+  docling-serve: 1.10.0
+  docling-jobkit: 1.8.1
+  docling: 2.69.0
+  docling-core: 2.60.0
   docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-parse: 4.7.3
   python: cpython-313 (3.13.11)
   plaform: macOS-26.2-arm64-arm-64bit-Mach-O
 ---
@@ -260,7 +260,7 @@ Patients should be observed closely during and for an appropriate period of time
 
 <div style=\"page-break-after: always\"></div>
 
-If severe hypersensitivity or anaphylaxis occurs, Xenpozyme should be discontinued immediately, and appropriate medical treatment should be initiated. The patient who experienced anaphylaxis in the clinical study underwent a tailored desensitization regimen that enabled the patient to resume long term treatment with Xenpozyme at the recommended maintenance dose. The prescriber should evaluate the risks and benefits of Xenpozyme re-administration following anaphylaxis or severe hypersensitivity reaction. If considering re-administration of Xenpozyme following anaphylaxis, the prescribing physician should contact the local Sanofi representative for advice on re-administration. In such patients, extreme caution should be exercised, with appropriate resuscitation measures available, when Xenpozyme is readministered.
+If severe hypersensitivity or anaphylaxis occurs, Xenpozyme should be discontinued immediately, and appropriate medical treatment should be initiated. The prescriber should evaluate the risks and benefits of Xenpozyme re-administration following anaphylaxis or severe hypersensitivity reaction. If considering re-administration of Xenpozyme following anaphylaxis, the prescribing physician should contact the local Sanofi representative for advice on re-administration. In patients with severe hypersensitivity, desensitisation procedure to Xenpozyme may be considered (see section 4.8). In such patients, extreme caution should be exercised, with appropriate resuscitation measures available, when Xenpozyme is readministered.
 
 If mild or moderate IARs occur, the infusion rate may be slowed or temporarily stopped, the duration of each step for an individual infusion increased, and/or the Xenpozyme dose reduced. If a patient requires a dose reduction, re-escalation should follow dose escalation described in Table 1 and Table 2A for adult and paediatric patients, respectively (see section 4.2).
 
@@ -286,9 +286,9 @@ This medicinal product contains 0.60 mg sodium per 4 mg vial or 3.02 mg sodium p
 
 ## 4.5 Interaction with other medicinal products and other forms of interaction
 
-<div style=\"page-break-after: always\"></div>
-
 No drug interaction studies have been performed. Because olipudase alfa is a recombinant human protein, no cytochrome P450 mediated drug-drug interactions are expected.
+
+<div style=\"page-break-after: always\"></div>
 
 ## 4.6 Fertility, pregnancy and lactation
 
@@ -324,11 +324,9 @@ The most frequently reported adverse drug reactions (ADRs) were headache (31.7%)
 
 The pooled safety analysis from 4 clinical studies (a tolerability study in adult patients, ASCEND, ASCEND-Peds, and an extension study in adult and paediatric patients) included a total of 60 patients (40 adult and 20 paediatric patients) treated with Xenpozyme at doses up to 3 mg/kg every 2 weeks.
 
-Adverse reactions reported in the pooled safety analysis of clinical studies are listed in Table 5 per System Organ Class, presented by frequency categories: very common (≥1/10), common (≥1/100
+Adverse reactions reported in the pooled safety analysis of clinical studies are listed in Table 5 per System Organ Class, presented by frequency categories: very common (≥1/10), common (≥1/100 to&lt;1/10), uncommon (≥1/1 000 to &lt;1/100), rare (≥1/10 000 to &lt;1/1 000), very rare (&lt;1/10 000) and not known (cannot be estimated from the available data).
 
 <div style=\"page-break-after: always\"></div>
-
-to&lt;1/10), uncommon (≥1/1 000 to &lt;1/100), rare (≥1/10 000 to &lt;1/1 000), very rare (&lt;1/10 000) and not known (cannot be estimated from the available data).
 
 Table 5: Adverse drug reactions in patients treated with Xenpozyme in pooled analysis of clinical studies
 
@@ -356,9 +354,11 @@ IARs were reported in 57.5% of adult and 65% of paediatric patients. IAR symptom
 
 Hypersensitivity-related IARs, including anaphylaxis, occurred in 30% patients, 22.5% adult and 45% paediatric patients in clinical studies. The most frequently reported hypersensitivity-related IAR symptoms were urticaria (25%), pruritus (10%), erythema (10%), and rash (8.3%).
 
+Anaphylactic reactions were reported in paediatric patients in the clinical studies and in the postmarketing setting. Anti-olipudase alfa IgE antibodies were detected in some of those patients.
+
 <div style=\"page-break-after: always\"></div>
 
-One paediatric patient in the clinical studies incurred a severe anaphylactic reaction. Also, independent of the clinical study program, a 16-month-old patient with ASMD type A treated with Xenpozyme experienced 2 anaphylactic reactions. Anti-olipudase alfa IgE antibodies were detected in both patients.
+Although a tailored desensitisation regimen enabled certain patients to resume long term treatment at the recommended maintenance dose, there are also cases where desensitisation was unsuccessful, and treatment had to be stopped due to anaphylactic reactions before reaching the maintenance dose.
 
 In 2 adults and 3 paediatric patients, IAR symptoms were associated with changes in laboratory parameters (e.g C-reactive protein, ferritin value) indicative of acute phase reaction.
 
@@ -386,9 +386,9 @@ The median exposure duration was 4.95 years (range: 0.4 to 9.6 years) in adult p
 
 Reporting suspected adverse reactions after authorisation of the medicinal product is important. It allows continued monitoring of the benefit/risk balance of the medicinal product. Healthcare professionals are asked to report any suspected adverse reactions via the national reporting system listed in Appendix V.
 
-<div style=\"page-break-after: always\"></div>
-
 ## 4.9 Overdose
+
+<div style=\"page-break-after: always\"></div>
 
 Cases of overdose of Xenpozyme have been reported in paediatric patients during dose escalation. Some of these patients experienced serious adverse reactions within 24 hours of treatment initiation, including death. The main clinical findings included respiratory failure, hypotension, marked elevations in liver function tests, and gastrointestinal bleeding.
 
@@ -1251,7 +1251,9 @@ Like all medicines, this medicine can cause side effects, although not everybody
 
 The most serious side effects may include sudden severe allergic reactions, raised, itchy rash (hives), rash, increased liver enzymes and irregular heartbeat.
 
-You must tell your doctor immediately if you get an IAR or an allergic reaction. If you have an infusion reaction you may be given additional medicines to treat or help prevent future reactions. If the infusion reaction is severe, your doctor may stop the infusion of Xenpozyme and start giving appropriate medical treatment.
+You must tell your doctor immediately if you get an IAR or an allergic reaction.
+
+If you have an infusion reaction you may be given additional medicines to treat or help prevent future reactions. If the infusion reaction is severe, your doctor may stop the infusion of Xenpozyme and start giving appropriate medical treatment.
 
 ## Very common (may affect more than 1 in 10 people):
 
@@ -1314,9 +1316,9 @@ Do not use Xenpozyme after the expiry date stated on the label and the carton. T
 
 Store in refrigerator between 2°C to 8°C.
 
-After dilution, immediate use is recommended.
-
 <div style=\"page-break-after: always\"></div>
+
+After dilution, immediate use is recommended.
 
 If not used immediately, the reconstituted solution may be stored for up to 24 hours at 2°C to 8°.
 
@@ -1507,19 +1509,17 @@ Tel.: +48 22 280 00 00
 
 ## Portugal
 
-Sanofi - Produtos Farmacêuticos, Lda Tel: +351 21 35 89 400
+Sanofi - Produtos Farmacêuticos, Lda
+
+Tel: +351 21 35 89 400
 
 ## România
 
-Sanofi Romania SRL
-
-Tel: +40 (0) 21 317 31 36
+Sanofi Romania SRL Tel: +40 (0) 21 317 31 36
 
 ## Slovenija
 
-Swixx Biopharma d.o.o.
-
-Tel: +386 1 235 51 00
+Swixx Biopharma d.o.o. Tel: +386 1 235 51 00
 
 ## Slovenská republika
 
@@ -1564,10 +1564,8 @@ using a slow drop-wise addition technique to the inside wall of the vial.
 
 - 4) Tilt and roll each vial gently. Each vial will yield a 4 mg/mL clear, colorless solution.
 - 5) Visually inspect the reconstituted solution in the vials for particulate matter and discoloration. Xenpozyme solution should be clear and colorless. Any vials exhibiting opaque particles or discoloration should not be used.
-- 6) Withdraw the volume of reconstituted solution, corresponding to the prescribed dose, from the appropriate number of vials and dilute with sodium chloride 9 mg/mL (0.9%) solution for injection, in a syringe or infusion bag depending on the volume of infusion (see Table 1 for the recommended total infusion volume based on patients age and/or weight).
-- For variable final volumes of infusion based on body weight in paediatric patients (see Table 1):
--  Prepare an infusion solution at 0.1 mg/mL by adding 0.25 mL (1 mg) of the reconstituted solution prepared in step 3) and 9.75 mL of sodium chloride 9 mg/mL (0.9%) solution for injection in an empty 10 mL syringe.
--  Calculate the volume (mL) required to obtain the patient dose (mg).
+
+6) Withdraw the volume of reconstituted solution, corresponding to the prescribed dose, from the appropriate number of vials and dilute with sodium chloride 9 mg/mL (0.9%) solution for injection, in a syringe or infusion bag depending on the volume of infusion (see Table 1 for the recommended total infusion volume based on patients age and/or weight).
 
 Table 1: Recommended infusion volumes
 
@@ -1582,9 +1580,15 @@ Table 1: Recommended infusion volumes
 | 2.0          | 50                                             | 75                                             | 200                                                    | 100                           |
 | 3.0          | 50                                             | 100                                            | 250                                                    | 100                           |
 
-Example: 0.3 mg ÷ 0.1 mg/mL = 3 mL
+- For variable final volumes of infusion based on body weight in paediatric patients (see Table 1):
+
+-  Prepare an infusion solution at 0.1 mg/mL by adding 0.25 mL (1 mg) of the reconstituted solution prepared in step 3) and 9.75 mL of sodium chloride 9 mg/mL (0.9%) solution for injection in an empty 10 mL syringe.
+
+-  Calculate the volume (mL) required to obtain the patient dose (mg).
 
 <div style=\"page-break-after: always\"></div>
+
+Example: 0.3 mg ÷ 0.1 mg/mL = 3 mL
 
 - Dilution instructions for 5 mL ≤ total volume ≤ 20 mL using a syringe:
 - -Inject the required volume of reconstituted solution slowly to the inside wall of the empty syringe.
@@ -1599,3 +1603,25 @@ Example: 0.3 mg ÷ 0.1 mg/mL = 3 mL
 - 7) Gently invert the syringe or the infusion bag to mix. Do not shake. Because this is a protein solution, slight flocculation (described as thin translucent fibers) occurs occasionally after dilution.
 - 8) The diluted solution must be filtered through an in-line low protein-binding 0.2 μm filter during administration.
 - 9) After the infusion is complete, the infusion line should be flushed with sodium chloride 9 mg/mL (0.9%) solution for injection using the same infusion rate as the one used for the last part of the infusion.
+
+<div style=\"page-break-after: always\"></div>
+
+## Annex IV
+
+## Scientific conclusions and grounds for the variation to the terms of the marketing authorisation(s)
+
+<div style=\"page-break-after: always\"></div>
+
+## Scientific conclusions
+
+Taking into account the PRAC Assessment Report on the PSUR(s) for olipudase alfa, the scientific conclusions of PRAC are as follows:
+
+In view of new available data on anaphylactic reactions from spontaneous reports including a case with positive re-challenges despite desensitisation, the PRAC considers new information on the occurrence of anaphylactic reactions has been received that has to be made available to the prescriber. The PRAC concluded that the product information of products containing olipudase alfa should be amended accordingly.
+
+Having reviewed the PRAC recommendation, the CHMP agrees with the PRAC overall conclusions and grounds for recommendation.
+
+## Grounds for the variation to the terms of the marketing authorisation(s)
+
+On the basis of the scientific conclusions for olipudase alfa the CHMP is of the opinion that the benefit-risk balance of the medicinal product(s) containing olipudase alfa is unchanged subject to the proposed changes to the product information
+
+The CHMP recommends that the terms of the marketing authorisation(s) should be varied.

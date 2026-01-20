@@ -1,18 +1,18 @@
 ---
-document_datetime: 2024-12-12 17:03:02
+document_datetime: 2026-01-19 12:28:01
 document_pages: 89
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/relistor-epar-product-information_en.pdf
 document_name: relistor-epar-product-information_en.pdf
 version: success
-processing_time: 16.3240118
-conversion_datetime: 2025-12-26 19:26:03.060058
+processing_time: 17.3246361
+conversion_datetime: 2026-01-20 20:09:39.856193
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.66.0
-  docling-core: 2.57.0
+  docling-serve: 1.10.0
+  docling-jobkit: 1.8.1
+  docling: 2.69.0
+  docling-core: 2.60.0
   docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-parse: 4.7.3
   python: cpython-313 (3.13.11)
   plaform: macOS-26.2-arm64-arm-64bit-Mach-O
 ---
@@ -1028,7 +1028,7 @@ The proportion of patients having an RFBM within 4 hours of the first dose was 3
 
 The key secondary endpoint of adjusted mean change from baseline in weekly RFBMs was 3.1 in the methylnaltrexone bromide 12 mg once daily treatment group, 2.1 in the methylnaltrexone bromide 12 mg every other day treatment group, and 1.5 in the placebo treatment group during the 4-week double-blind period.  The difference between methylnaltrexone bromide 12 mg once daily and placebo of 1.6 RFBMs per week is statistically significant (p &lt; 0.001) and clinically meaningful.
 
-Another secondary endpoint evaluated the proportion of patients with ≥3 RFBMs per week during the 4-week double-blind phase. This was achieved in 59% of the patients in the group receiving daily methylnaltrexone 12 mg (p&lt;0.001 vs. placebo), in 61% of those receiving it every other day (p&lt;0.001 vs. placebo), and in 38% of the placebo treated patients.  A supplementary analysis evaluated a hard endpoint of the percentage of patients achieving ≥3 complete RFBS per week and an increase of ≥1 complete RFBMs per week in at least 3 of the 4 treatment weeks. This was achieved in 28.7% of the pati ents in the group receiving daily methylnaltrexone 12 mg (p&lt;0.001 vs. placebo), in 14.9% of those receiving it every other day (p=0.012 vs. placebo), and in 6.2% of the placebo treated patients.
+Another secondary endpoint evaluated the proportion of patients with ≥3 RFBMs per week during the 4-week double-blind phase. This was achieved in 59% of the patients in the group receiving daily methylnaltrexone 12 mg (p&lt;0.001 vs. placebo), in 61% of those receiving it every other day (p&lt;0.00 1 vs. placebo), and in 38% of the placebo treated patients.  A supplementary analysis evaluated a hard endpoint of the percentage of patients achieving ≥3 complete RFBS per week and an increase of ≥1 complete RFBMs per week in at least 3 of the 4 treatment weeks. This was achieved in 28.7% of the patients in the group receiving daily methylnaltrexone 12 mg (p&lt;0.001 vs. placebo), in 14.9% of those receiving it every other day (p=0.012 vs. placebo), and in 6.2% of the placebo treated patients.
 
 There was no evidence of a differential effect of gender on safety or efficacy.  The effect on race could not be analysed because the study population was predominantly Caucasian (90 %).  Median daily opioid dose did not vary meaningfully from baseline in either methylnaltrexone bromide-treated patients or in placebo-treated patients.
 
@@ -1207,8 +1207,6 @@ Name and address of the manufacturer responsible for batch release
 
 Bausch Health Poland Sp. z o. o., ul. Kosztowska 21, 41409 Mysłowice, Poland
 
-Bausch Health Poland Sp. z o. o., ul. Przemysłowa 2, 35-959 Rzeszów, Poland
-
 The printed package leaflet of the medicinal product must state the name and address of the manufacturer responsible for the release of the concerned batch.
 
 ## B. CONDITIONS OR RESTRICTIONS REGARDING SUPPLY AND USE
@@ -1336,7 +1334,9 @@ Relistor 12 mg/0.6 mL solution for injection Methylnaltrexone bromide
 
 ## 2. STATEMENT OF ACTIVE SUBSTANCE
 
-Each vial of 0.6 mL contains 12 mg of methylnaltrexone bromide. One mL of solution contains 20 mg of methylnaltrexone bromide.
+Each vial of 0.6 mL contains 12 mg of methylnaltrexone bromide.
+
+One mL of solution contains 20 mg of methylnaltrexone bromide.
 
 ## 3. LIST OF EXCIPIENTS
 
@@ -1424,7 +1424,9 @@ Relistor 12 mg/0.6 mL solution for injection Methylnaltrexone bromide
 
 ## 2. STATEMENT OF ACTIVE SUBSTANCE
 
-Each vial of 0.6 mL contains 12 mg of methylnaltrexone bromide. One mL of solution contains 20 mg of methylnaltrexone bromide.
+Each vial of 0.6 mL contains 12 mg of methylnaltrexone bromide.
+
+One mL of solution contains 20 mg of methylnaltrexone bromide.
 
 ## 3. LIST OF EXCIPIENTS
 
@@ -1504,7 +1506,7 @@ PC
 
 ## PARTICULARS TO APPEAR ON THE OUTER PACKAGING
 
-CARTON TEXT (PRE-FILLED SYRINGE PRESENTATION)
+## CARTON TEXT (PRE-FILLED SYRINGE PRESENTATION)
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
@@ -1584,15 +1586,13 @@ PC
 
 SN
 
-<!-- image -->
-
 NN
 
 <div style=\"page-break-after: always\"></div>
 
 ## PARTICULARS TO APPEAR ON THE OUTER PACKAGING
 
-CARTON TEXT (PRE-FILLED SYRINGE PRESENTATION)
+## CARTON TEXT (PRE-FILLED SYRINGE PRESENTATION)
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
@@ -1678,7 +1678,7 @@ NN:
 
 ## PARTICULARS TO APPEAR ON THE OUTER PACKAGING
 
-CARTON TEXT (PRE-FILLED SYRINGE PRESENTATION)
+## CARTON TEXT (PRE-FILLED SYRINGE PRESENTATION)
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
@@ -1764,7 +1764,7 @@ NN:
 
 ## PARTICULARS TO APPEAR ON THE OUTER PACKAGING
 
-CARTON TEXT (PRE-FILLED SYRINGE PRESENTATION)
+## CARTON TEXT (PRE-FILLED SYRINGE PRESENTATION)
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
@@ -1850,7 +1850,7 @@ NN:
 
 ## PARTICULARS TO APPEAR ON THE OUTER PACKAGING
 
-CARTON TEXT (PRE-FILLED SYRINGE PRESENTATION)
+## CARTON TEXT (PRE-FILLED SYRINGE PRESENTATION)
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
@@ -1936,7 +1936,7 @@ NN:
 
 ## PARTICULARS TO APPEAR ON THE OUTER PACKAGING
 
-CARTON TEXT (PRE-FILLED SYRINGE PRESENTATION)
+## CARTON TEXT (PRE-FILLED SYRINGE PRESENTATION)
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
@@ -2022,7 +2022,7 @@ NN:
 
 ## PARTICULARS TO APPEAR ON THE OUTER PACKAGING
 
-CARTON TEXT (PRE-FILLED SYRINGE PRESENTATION)
+## CARTON TEXT (PRE-FILLED SYRINGE PRESENTATION)
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
@@ -2108,7 +2108,7 @@ SN:
 
 ## PARTICULARS TO APPEAR ON THE OUTER PACKAGING
 
-CARTON TEXT (PRE-FILLED SYRINGE PRESENTATION)
+## CARTON TEXT (PRE-FILLED SYRINGE PRESENTATION)
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
@@ -2228,17 +2228,20 @@ Read the package leaflet before use.
 
 <div style=\"page-break-after: always\"></div>
 
-| MINIMUM PARTICULARS TO APPEAR ONSMALLIMMEDIATE PACKAGING UNITS   |
-|------------------------------------------------------------------|
-| TEXT FOR SYRINGE LABEL                                           |
+| MINIMUM PARTICULARS TO APPEAR ON SMALL IMMEDIATE PACKAGING UNITS   |
+|--------------------------------------------------------------------|
+| TEXT FOR SYRINGE LABEL                                             |
 
-## 1. NAME OF THE MEDICINAL PRODUCT AND ROUTE OF ADMINISTRATION
+| 1.   | NAME OF THE MEDICINAL PRODUCT AND ROUTE OF ADMINISTRATION   |
+|------|-------------------------------------------------------------|
 
 Relistor 8 mg injection Methylnaltrexone bromide SC
 
-## 2. METHOD OF ADMINISTRATION
+| 2.   | METHOD OF ADMINISTRATION   |
+|------|----------------------------|
 
-## 3. EXPIRY DATE
+| 3.   | EXPIRY DATE   |
+|------|---------------|
 
 EXP
 
@@ -2247,8 +2250,8 @@ EXP
 
 Lot
 
-| 5.   | CONTENTS BY WEIGHT,BYVOLUMEORBYUNIT   |
-|------|---------------------------------------|
+| 5.   | CONTENTS BY WEIGHT, BY VOLUME OR BY UNIT   |
+|------|--------------------------------------------|
 
 | 6.   | OTHER   |
 |------|---------|
@@ -2291,17 +2294,17 @@ Read the package leaflet before use.
 
 <div style=\"page-break-after: always\"></div>
 
-| MINIMUM PARTICULARS TO APPEAR ONSMALLIMMEDIATE PACKAGING   |
-|------------------------------------------------------------|
-| TEXT FOR SYRINGE LABEL                                     |
+| MINIMUM PARTICULARS TO APPEAR ON SMALL IMMEDIATE PACKAGING UNITS   |
+|--------------------------------------------------------------------|
+| TEXT FOR SYRINGE LABEL                                             |
 
-| 1.   | NAMEOFTHEMEDICINAL PRODUCT AND ROUTE OF ADMINISTRATION   |
-|------|----------------------------------------------------------|
+| 1.   | NAME OF THE MEDICINAL PRODUCT AND ROUTE OF ADMINISTRATION   |
+|------|-------------------------------------------------------------|
 
 Relistor 12 mg Injection Methylnaltrexone bromide SC
 
-| 2.   | METHODOFADMINISTRATION   |
-|------|--------------------------|
+| 2.   | METHOD OF ADMINISTRATION   |
+|------|----------------------------|
 
 | 3.   | EXPIRY DATE   |
 |------|---------------|
@@ -2313,8 +2316,8 @@ EXP
 
 Lot
 
-| 5.   | CONTENTS BY WEIGHT,BYVOLUMEORBYUNIT   |
-|------|---------------------------------------|
+| 5.   | CONTENTS BY WEIGHT, BY VOLUME OR BY UNIT   |
+|------|--------------------------------------------|
 
 | 6.   | OTHER   |
 |------|---------|
@@ -2567,8 +2570,6 @@ Bausch Health Ireland Limited
 
 Bausch Health Poland Sp. z o. o., ul. Kosztowska 21, 41409 Mysłowice, Poland
 
-Bausch Health Poland Sp. z o. o., ul. Przemysłowa 2, 35-959 Rzeszów, Poland
-
 ## This leaflet was last revised in
 
 Detailed information on this medicine is available on the European Medicines Agency web site: http://www.ema.europa.eu
@@ -2597,15 +2598,15 @@ The following pack types are available:
 - Pack containing syringe with retractable injection needle and alcohol swabs
 - Pack containing syringe with safeguard injection needle and alcohol swabs
 
-<div style=\"page-break-after: always\"></div>
-
 The syringes with retractable injection needle or safeguard injection needle are equiped with a safety mechanism and are designed to protect you from needle stick injuries following injection.
 
 1. Syringe with retractable injection needle
 
+<div style=\"page-break-after: always\"></div>
+
 <!-- image -->
 
-A - needle cover, B - barrel, C - plunger
+## A - needle cover, B - barrel, C - plunger
 
 In case of syringe with retractable injection needle the safety mechanism is activated automatically after pushing the plunger all the way down until the syringe is empty. The needle will automatically retract from the skin and be capped. A click sound confirms that injection was done properly.
 
@@ -2623,13 +2624,13 @@ The following instructions explain how to inject Relistor. Please read the instr
 
 Always check the vial to make sure you have the right medication, check the date to make sure that it is not past the expiry date.
 
-If you receive only the vial, your doctor will need to make sure you are equipped with an adequate injection syringe, including needle and alcohol swabs. In this case - while the principles of the
+If you receive only the vial, your doctor will need to make sure you are equipped with an adequate injection syringe, including needle and alcohol swabs. In this case - while the principles of the following instructions are also to be followed - your doctor will give you separate, detailed instructions.
+
+The following Steps are therefore mainly for the use of the packs containing vials and syringes with
 
 <div style=\"page-break-after: always\"></div>
 
-following instructions are also to be followed - your doctor will give you separate, detailed instructions.
-
-The following Steps are therefore mainly for the use of the packs containing vials and syringes with either retractable injection needle or with safequard injection needle.
+either retractable injection needle or with safequard injection needle.
 
 ## Step 1: Setting up for an injection
 
@@ -2650,9 +2651,10 @@ The following Steps are therefore mainly for the use of the packs containing via
 
 If you use syringe with safeguard injection needle: you may need to rotate the safety arm, to make a scale visible.
 
+4. You will need an air in the syringe in the amount that is equal to the dose. For this purpose carefully pull back the plunger on the syringe to either the 0.4 mL mark for dose 8 mg or the 0.6 mL mark for dose 12 mg or as advised, depending on the dose prescribed by your doctor, nurse or pharmacist.
+
 <div style=\"page-break-after: always\"></div>
 
-4. You will need an air in the syringe in the amount that is equal to the dose. For this purpose carefully pull back the plunger on the syringe to either the 0.4 mL mark for dose 8 mg or the 0.6 mL mark for dose 12 mg or as advised, depending on the dose prescribed by your doctor, nurse or pharmacist.
 5. Insert the needle straight down into the centre of the vial stopper. Do not insert it at an angle as the needle may bend or break. Hold the vial on the work surface with the other hand so that it can not slip off. You will feel a slight resistance as the needle passes through the stopper. Look for the needle tip inside the vial.
 6. In order to get the air out of the syringe, gently push the plunger down to inject the air into the vial.
 
@@ -2663,13 +2665,11 @@ If you use syringe with safeguard injection needle: you may need to rotate the s
 If you use syringe with retractable injection needle: DO NOT PUSH THE PLUNGER DOWN COMPLETELY. Make sure you stop pushing the plunger when you feel resistance. If you push the plunger completely, you will hear a 'click' sound. This will mean that the safety mechanism has been activated, and the needle will disappear into the syringe. If this happens, discard the product and start again using another vial and syringe.
 
 7. With the needle still in the vial, turn the vial upside-down. Hold the syringe at eye level so that you can see the dosing marks and make sure the tip of the needle is in the fluid all of the time. Slowly pull the plunger down on the syringe to the 0.4 mL mark for dose 8 mg or 0.6 mL mark for dose 12 mg or as advised, depending on the dose prescribed by your doctor, nurse or pharmacist. You may see some fluid or bubbles inside the vial when the syringe is properly filled. This is normal.
-8. With the needle still inserted in the upside down vial, check for air bubbles in the syringe. Gently tap the syringe to make any air bubbles rise to the top of the syringe; be sure that you still hold onto the vial and syringe. Slowly push the plunger up until all air bubbles are removed. If you push solution back into the vial, slowly pull back the plunger to draw the correct amount of solution back into the syringe. Due to the safety design of the syringe, a
+8. With the needle still inserted in the upside down vial, check for air bubbles in the syringe. Gently tap the syringe to make any air bubbles rise to the top of the syringe; be sure that you still hold onto the vial and syringe. Slowly push the plunger up until all air bubbles are removed. If you push solution back into the vial, slowly pull back the plunger to draw the correct amount of solution back into the syringe. Due to the safety design of the syringe, a small air bubble may be resistant to removal. There is no need to worry about this as it will not affect the accuracy of the dose or pose any risk to your health.
 
 <!-- image -->
 
 <div style=\"page-break-after: always\"></div>
-
-small air bubble may be resistant to removal. There is no need to worry about this as it will not affect the accuracy of the dose or pose any risk to your health.
 
 <!-- image -->
 
@@ -2677,6 +2677,7 @@ small air bubble may be resistant to removal. There is no need to worry about th
 10. Remove the syringe and needle from the vial. Do not touch the needle or allow the needle to touch any surface. Once you have drawn the medicine into the syringe, it must be used within 24 hours because Relistor is affected by light and may not work properly if it is left in the syringe for longer than 24 hours.
 1. The three areas of the body recommended for injection of Relistor are: (1) your upper legs (thighs), (2) your abdomen (stomach), and (3) your upper arm (only if injecting another person).
 2. It is recommended to move to a different site each time an injection is given. Avoid repeated injections at the exact same spot previously used. Do not inject into areas where the skin is tender, bruised, red, or hard. Avoid areas with scars or stretch marks.
+3. To prepare the area of skin where Relistor is to be injected, wipe the injection site with an alcohol swab. DO NOT TOUCH THIS AREA AGAIN BEFORE GIVING THE INJECTION. Allow the injection site to air-dry before injecting.
 
 <!-- image -->
 
@@ -2688,7 +2689,10 @@ Step 3: Choosing and preparing an injection site
 
 <div style=\"page-break-after: always\"></div>
 
-3. To prepare the area of skin where Relistor is to be injected, wipe the injection site with an alcohol swab. DO NOT TOUCH THIS AREA AGAIN BEFORE GIVING THE INJECTION. Allow the injection site to air-dry before injecting.
+Step 4: Injecting Relistor
+
+<!-- image -->
+
 1. Holding the filled syringe with the needle pointing up, recheck the syringe for air bubbles. If there are bubbles, gently tap the syringe with your finger until the air bubbles rise to the top of the syringe. Slowly push the plunger up to force the air bubbles out of the syringe.
 2. Hold the syringe in one hand like a pencil. Use the other hand to gently pinch the cleaned area of skin and hold it firmly.
 3. Push the full length of the needle into the skin at a slight angle (45 degrees) with a quick, short motion.
@@ -2697,16 +2701,11 @@ Step 3: Choosing and preparing an injection site
 - If you use standard syringe with standard needle: When the syringe is empty, quickly pull the needle out of the skin, being careful to keep it at the same angle as inserted.
 - If you use syringe with retractable injection needle: When you hear a click sound during injection that means the entire contents were injected. The needle will automatically retract from the skin and be capped after injecting the medicine.
 - If you use syringe with safeguard injection needle: When the syringe is empty, quickly pull the needle out of the skin, being careful to keep it at the same angle as inserted. Use your thumb or forefinger to activate the safety mechanism by pushing the safety arm completely forward. The safety arm is locked and fully extended when you hear the click and the needle tip is covered.
-
-Step 4: Injecting Relistor
-
-<!-- image -->
+6. There may be a little bleeding at the injection site. You can press a cotton ball or gauze over the injection site. Do not rub the injection site. If needed, you may cover the injection site with a plaster.
 
 <!-- image -->
 
 <div style=\"page-break-after: always\"></div>
-
-6. There may be a little bleeding at the injection site. You can press a cotton ball or gauze over the injection site. Do not rub the injection site. If needed, you may cover the injection site with a plaster.
 
 Step 5: Disposing of supplies
 
@@ -2896,7 +2895,7 @@ Bausch Health Ireland Limited 3013 Lake Drive Citywest Business Campus Dublin 24
 
 ## Manufacturer
 
-Bausch Health Poland Sp. z o. o., ul. Kosztowska 21, 41-409 M ysłowice, Poland
+Bausch Health Poland Sp. z o. o., ul. Kosztowska 21, 41409 Mysłowice, Poland
 
 ## This leaflet was last revised in
 

@@ -1,18 +1,18 @@
 ---
-document_datetime: 2025-11-18 10:11:21
+document_datetime: 2026-01-19 17:04:16
 document_pages: 53
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/effentora-epar-product-information_en.pdf
 document_name: effentora-epar-product-information_en.pdf
 version: success
-processing_time: 12.5653218
-conversion_datetime: 2025-12-24 20:11:05.726401
+processing_time: 14.0780461
+conversion_datetime: 2026-01-20 20:24:31.085888
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.66.0
-  docling-core: 2.57.0
+  docling-serve: 1.10.0
+  docling-jobkit: 1.8.1
+  docling: 2.69.0
+  docling-core: 2.60.0
   docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-parse: 4.7.3
   python: cpython-313 (3.13.11)
   plaform: macOS-26.2-arm64-arm-64bit-Mach-O
 ---
@@ -38,7 +38,9 @@ Effentora 800 micrograms buccal tablets
 
 ## Effentora 100 micrograms buccal tablets
 
-Each buccal tablet contains 100 micrograms fentanyl (as citrate). Excipient with known effect: Each tablet contains 10 mg of sodium.
+Each buccal tablet contains 100 micrograms fentanyl (as citrate).
+
+Excipient with known effect: Each tablet contains 10 mg of sodium.
 
 ## Effentora 200 micrograms buccal tablets
 
@@ -114,9 +116,7 @@ Effentora should be individually titrated to an 'effective' dose that provides a
 
 Patients should be carefully monitored until an effective dose is reached.
 
-The initial dose of Effentora should be 100 micrograms, titrating upwards as necessary through the
-
-Titration in patients not switching from other fentanyl containing products range of available tablets strengths (100, 200, 400, 600, 800 micrograms).
+Titration in patients not switching from other fentanyl containing products The initial dose of Effentora should be 100 micrograms, titrating upwards as necessary through the range of available tablets strengths (100, 200, 400, 600, 800 micrograms).
 
 ## Titration in patients switching from other fentanyl containing products
 
@@ -500,15 +500,55 @@ In the pivotal clinical study (study 1), the primary endpoint was the average su
 
 <div style=\"page-break-after: always\"></div>
 
+Mean (SEM) Pain Intensity Differences
+
+5
+
+0
+
+Study 1: Mean (+/- SEM) Pain Intensity Difference at Each Time Point (Full Analysis Set)
+
+SPID60 mean (+/- SD)
+
+EFFENTORA=9.7(5.58)p&lt;0.0001
+
+Placebo=4.9(4.38)
+
+5
+
+10
+
+15
+
+30
+
+45
+
+Time from Administration of Study Drug (Minutes)
+
+Treatment Group
+
+60
+
+xXX EFFENTORA
+
++
+
+90
+
+★★★ Placebo
+
 + p&lt;O.00O1 EFFENTORA versus placebo, in favor of EFFENTORA, by an analysis of variance PID=pain intensity difference; SEM=standard error of the mean
 
 <!-- image -->
 
 p&lt;O.01 EFFENTORA versus placebo, in favor of EFFENTORA, by one-sample Wilcoxon signed rank test + p&lt;0.00O1 EFFENTORA versus placebo, in favor of EFFENTORA, by one-sample Wilcoxon signed rank test PID=pain intensity difference; SEM=standard error of the mean
 
-<!-- image -->
-
 In the second pivotal study (study 2), the primary endpoint was SPID30, which was also statistically significant compared to placebo (p&lt;0.0001).
+
+十
+
+120
 
 <div style=\"page-break-after: always\"></div>
 
@@ -550,9 +590,7 @@ Pharmacokinetic Parameters* in Adult Subjects Receiving Effentora
 
 In pharmacokinetic studies that compared the absolute and relative bioavailability of Effentora and oral transmucosal fentanyl citrate (OTFC), the rate and extent of fentanyl absorption in Effentora demonstrated exposure that was between 30% to 50% greater than that for oral transmucosal fentanyl citrate. If switching from another oral fentanyl citrate product, independent dose titration with Effentora is required as bioavailability between products differs significantly. However, in these patients, a starting dose higher than 100 micrograms may be considered.
 
-## and OTFC in Healthy Subjects
-
-Mean Plasma Concentration Versus Time Profiles Following Singles Doses of EFFENTORA
+Mean Plasma Concentration Versus Time Profiles Following Singles Doses of EFFENTORA and OTFC in Healthy Subjects
 
 <!-- image -->
 
@@ -628,13 +666,11 @@ Any used or unused but no longer required medicinal product or waste material sh
 
 ## 7. MARKETING AUTHORISATION HOLDER
 
-TEVA B.V. Swensweg 5 2031 GA Haarlem Netherlands
+Phoenix Labs Unlimited Company Suite 12, Bunkilla Plaza Bracetown Business Park Clonee, County Meath Ireland
 
 ## 8. MARKETING AUTHORISATION NUMBER(S)
 
-Effentora 100 micrograms buccal tablets
-
-EU/1/08/441/001-002
+Effentora 100 micrograms buccal tablets EU/1/08/441/001-002
 
 Effentora 200 micrograms buccal tablets
 
@@ -644,19 +680,13 @@ Effentora 400 micrograms buccal tablets
 
 EU/1/08/441/005-006
 
-Effentora 600 micrograms buccal tablets
+Effentora 600 micrograms buccal tablets EU/1/08/441/007-008
 
-EU/1/08/441/007-008
-
-Effentora 800 micrograms buccal tablets
-
-EU/1/08/441/009-010
+Effentora 800 micrograms buccal tablets EU/1/08/441/009-010
 
 ## 9. DATE OF FIRST AUTHORISATION/RENEWAL OF THE AUTHORISATION
 
 Date of first authorisation: 04 April 2008
-
-19
 
 Date of latest renewal: 20 February 2013
 
@@ -713,7 +743,7 @@ Prior to the launch/use of Effentora in each Member State the Marketing Authoris
 
 The MAH shall ensure that, all physicians, pharmacists and patients expected to prescribe/dispense/use Effentora are provided with educational material regarding the correct and safe use of the product.
 
-## Educational material for the patients will contain the following:
+Educational material for the patients will contain the following:
 
 - Patient information leaflet
 
@@ -893,13 +923,11 @@ Store in the original package in order to protect from moisture.
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
-TEVA B.V. Swensweg 5 2031 GA Haarlem Netherlands
+Phoenix Labs Unlimited Company, Suite 12, Bunkilla Plaza, Bracetown Business Park, Clonee, County Meath, Ireland
 
 ## 12. MARKETING AUTHORISATION NUMBER(S)
 
-EU/1/08/441/001
-
-EU/1/08/441/002
+EU/1/08/441/001 EU/1/08/441/002
 
 ## 13. BATCH NUMBER
 
@@ -909,7 +937,7 @@ Batch
 
 Medicinal product subject to medical prescription
 
-15. INSTRUCTIONS ON USE
+## 15. INSTRUCTIONS ON USE
 
 ## 16. INFORMATION IN BRAILLE
 
@@ -931,19 +959,19 @@ NN:
 
 <div style=\"page-break-after: always\"></div>
 
-| MINIMUM PARTICULARS TO APPEAR ON BLISTERS OR STRIPS   |
-|-------------------------------------------------------|
-| BLISTER OF 4 TABLETS                                  |
+| MINIMUM PARTICULARS TO APPEAR ONBLISTERS ORSTRIPS   |
+|-----------------------------------------------------|
+| BLISTER OF 4 TABLETS                                |
 
-| 1.   | NAME OF THE MEDICINAL PRODUCT   |
-|------|---------------------------------|
+| 1.   | NAMEOFTHEMEDICINAL PRODUCT   |
+|------|------------------------------|
 
 Effentora 100 micrograms buccal tablets Fentanyl
 
-| 2.   | NAME OF THE MARKETING AUTHORISATION HOLDER   |
-|------|----------------------------------------------|
+| 2.   | NAMEOFTHEMARKETING AUTHORISATION HOLDER   |
+|------|-------------------------------------------|
 
-TEVA B.V.
+Phoenix Labs
 
 | 3.   | EXPIRY DATE   |
 |------|---------------|
@@ -1018,7 +1046,7 @@ Store in the original package in order to protect from moisture.
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
-TEVA B.V. Swensweg 5 2031 GA Haarlem Netherlands
+Phoenix Labs Unlimited Company, Suite 12, Bunkilla Plaza, Bracetown Business Park, Clonee, County Meath, Ireland
 
 ## 12. MARKETING AUTHORISATION NUMBER(S)
 
@@ -1050,25 +1078,25 @@ PC:
 
 SN:
 
-<div style=\"page-break-after: always\"></div>
-
 NN:
 
 <div style=\"page-break-after: always\"></div>
 
-| MINIMUM PARTICULARS TO APPEAR ON BLISTERS OR STRIPS   |
-|-------------------------------------------------------|
-| BLISTER OF 4 TABLETS                                  |
+<div style=\"page-break-after: always\"></div>
 
-| 1.   | NAME OF THE MEDICINAL PRODUCT   |
-|------|---------------------------------|
+| MINIMUM PARTICULARS TO APPEAR ONBLISTERS ORSTRIPS   |
+|-----------------------------------------------------|
+| BLISTER OF 4 TABLETS                                |
+
+| 1.   | NAMEOFTHEMEDICINAL PRODUCT   |
+|------|------------------------------|
 
 Effentora 200 micrograms buccal tablets Fentanyl
 
-| 2.   | NAME OF THE MARKETING AUTHORISATION HOLDER   |
-|------|----------------------------------------------|
+| 2.   | NAMEOFTHEMARKETING AUTHORISATION HOLDER   |
+|------|-------------------------------------------|
 
-TEVA B.V.
+Phoenix Labs
 
 | 3.   | EXPIRY DATE   |
 |------|---------------|
@@ -1143,13 +1171,11 @@ Store in the original package in order to protect from moisture.
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
-TEVA B.V. Swensweg 5 2031 GA Haarlem Netherlands
+Phoenix Labs Unlimited Company, Suite 12, Bunkilla Plaza, Bracetown Business Park, Clonee, County Meath, Ireland
 
 ## 12. MARKETING AUTHORISATION NUMBER(S)
 
-EU/1/08/441/005
-
-EU/1/08/441/006
+EU/1/08/441/005 EU/1/08/441/006
 
 ## 13. BATCH NUMBER
 
@@ -1175,25 +1201,25 @@ PC:
 
 SN:
 
-<div style=\"page-break-after: always\"></div>
-
 NN:
 
 <div style=\"page-break-after: always\"></div>
 
-| MINIMUM PARTICULARS TO APPEAR ON BLISTERS OR STRIPS   |
-|-------------------------------------------------------|
-| BLISTER OF 4 TABLETS                                  |
+<div style=\"page-break-after: always\"></div>
 
-| 1.   | NAME OF THE MEDICINAL PRODUCT   |
-|------|---------------------------------|
+| MINIMUM PARTICULARS TO APPEAR ONBLISTERS ORSTRIPS   |
+|-----------------------------------------------------|
+| BLISTER OF 4 TABLETS                                |
+
+| 1.   | NAMEOFTHEMEDICINAL PRODUCT   |
+|------|------------------------------|
 
 Effentora 400 micrograms buccal tablets Fentanyl
 
-| 2.   | NAME OF THE MARKETING AUTHORISATION HOLDER   |
-|------|----------------------------------------------|
+| 2.   | NAMEOFTHEMARKETING AUTHORISATION HOLDER   |
+|------|-------------------------------------------|
 
-TEVA B.V.
+Phoenix Labs
 
 | 3.   | EXPIRY DATE   |
 |------|---------------|
@@ -1211,6 +1237,8 @@ BN
 1. Tear
 2. Bend
 3. Peel
+
+36
 
 <div style=\"page-break-after: always\"></div>
 
@@ -1266,13 +1294,11 @@ Store in the original package in order to protect from moisture.
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
-TEVA B.V. Swensweg 5 2031 GA Haarlem Netherlands
+Phoenix Labs Unlimited Company, Suite 12, Bunkilla Plaza, Bracetown Business Park, Clonee, County Meath, Ireland
 
 ## 12. MARKETING AUTHORISATION NUMBER(S)
 
-EU/1/08/441/007
-
-EU/1/08/441/008
+EU/1/08/441/007 EU/1/08/441/008
 
 ## 13. BATCH NUMBER
 
@@ -1298,25 +1324,25 @@ PC:
 
 SN:
 
-<div style=\"page-break-after: always\"></div>
-
 NN:
 
 <div style=\"page-break-after: always\"></div>
 
-| MINIMUM PARTICULARS TO APPEAR ON BLISTERS OR STRIPS   |
-|-------------------------------------------------------|
-| BLISTER OF 4 TABLETS                                  |
+<div style=\"page-break-after: always\"></div>
 
-| 1.   | NAME OF THE MEDICINAL PRODUCT   |
-|------|---------------------------------|
+| MINIMUM PARTICULARS TO APPEAR ONBLISTERS ORSTRIPS   |
+|-----------------------------------------------------|
+| BLISTER OF 4 TABLETS                                |
+
+| 1.   | NAMEOFTHEMEDICINAL PRODUCT   |
+|------|------------------------------|
 
 Effentora 600 micrograms buccal tablets Fentanyl
 
-| 2.   | NAME OF THE MARKETING AUTHORISATION HOLDER   |
-|------|----------------------------------------------|
+| 2.   | NAMEOFTHEMARKETING AUTHORISATION HOLDER   |
+|------|-------------------------------------------|
 
-TEVA B.V.
+Phoenix Labs
 
 | 3.   | EXPIRY DATE   |
 |------|---------------|
@@ -1334,6 +1360,8 @@ BN
 1. Tear
 2. Bend
 3. Peel
+
+39
 
 <div style=\"page-break-after: always\"></div>
 
@@ -1389,13 +1417,11 @@ Store in the original package in order to protect from moisture.
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
-TEVA B.V. Swensweg 5 2031 GA Haarlem Netherlands
+Phoenix Labs Unlimited Company, Suite 12, Bunkilla Plaza, Bracetown Business Park, Clonee, County Meath, Ireland
 
 ## 12. MARKETING AUTHORISATION NUMBER(S)
 
-EU/1/08/441/009
-
-EU/1/08/441/010
+EU/1/08/441/009 EU/1/08/441/010
 
 ## 13. BATCH NUMBER
 
@@ -1421,25 +1447,25 @@ PC:
 
 SN:
 
-<div style=\"page-break-after: always\"></div>
-
 NN:
 
 <div style=\"page-break-after: always\"></div>
 
-| MINIMUM PARTICULARS TO APPEAR ON BLISTERS OR STRIPS   |
-|-------------------------------------------------------|
-| BLISTER OF 4 TABLETS                                  |
+<div style=\"page-break-after: always\"></div>
 
-| 1.   | NAME OF THE MEDICINAL PRODUCT   |
-|------|---------------------------------|
+| MINIMUM PARTICULARS TO APPEAR ONBLISTERS ORSTRIPS   |
+|-----------------------------------------------------|
+| BLISTER OF 4 TABLETS                                |
+
+| 1.   | NAMEOFTHEMEDICINAL PRODUCT   |
+|------|------------------------------|
 
 Effentora 800 micrograms buccal tablets Fentanyl
 
-| 2.   | NAME OF THE MARKETING AUTHORISATION HOLDER   |
-|------|----------------------------------------------|
+| 2.   | NAMEOFTHEMARKETING AUTHORISATION HOLDER   |
+|------|-------------------------------------------|
 
-TEVA B.V.
+Phoenix Labs
 
 | 3.   | EXPIRY DATE   |
 |------|---------------|
@@ -1458,6 +1484,8 @@ BN
 2. Bend
 3. Peel
 
+42
+
 <div style=\"page-break-after: always\"></div>
 
 ## B. PACKAGE LEAFLET
@@ -1466,15 +1494,12 @@ BN
 
 <div style=\"page-break-after: always\"></div>
 
-Effentora 100 micrograms buccal tablets
-
-Effentora 200 micrograms buccal tablets
-
-Effentora 400 micrograms buccal tablets
-
-Effentora 600 micrograms buccal tablets
-
-Effentora 800 micrograms buccal tablets
+| Effentora 100 micrograms buccal tablets   |
+|-------------------------------------------|
+| Effentora 200 micrograms buccal tablets   |
+| Effentora 400 micrograms buccal tablets   |
+| Effentora 600 micrograms buccal tablets   |
+| Effentora 800 micrograms buccal tablets   |
 
 ## Fentanyl
 
@@ -1810,7 +1835,7 @@ Each blister contains 4 buccal tablets, supplied in cartons of 4 or 28 buccal ta
 
 ## Marketing Authorisation Holder
 
-TEVA B.V. Swensweg 5 2031 GA Haarlem Netherlands
+Phoenix Labs Unlimited Company Suite 12, Bunkilla Plaza Bracetown Business Park Clonee, County Meath Ireland
 
 ## Manufacturer
 
@@ -1818,192 +1843,28 @@ Merckle GmbH Ludwig-Merckle-Straße 3 89143 Blaubeuren Germany
 
 For any information about this medicine, please contact the local representative of the Marketing Authorisation Holder or call the following number:
 
-## België/Belgique/Belgien
+## BE, BG, CZ, DK, DE, EE, EL, IE, HR, IT, CY, LV, LT, LU, HU, MT, NL, AT, PL, PT, RO, SI, SK, FI, SE, IS and NO
 
-Teva Pharma Belgium N.V./S.A./AG Tél/Tel: +32 38207373
+Phoenix Labs Unlimited Company Suite 12, Bunkilla Plaza Bracetown Business Park Clonee, County Meath Ireland
 
-## Lietuva
+Email: info@phoenixlabs.ie
 
-UAB Teva Baltics
-
-Tel: +370 52660203
-
-## България
-
-Тева Фарма ЕАД
-
-Te л
-
-.: +359 24899585
-
-## Luxembourg/Luxemburg
-
-Teva Pharma Belgium N.V./S.A./AG
-
-Belgique/Belgien
-
-Tél/Tel: +32 38207373
-
-## Č eská republika
-
-Teva Pharmaceuticals CR, s.r.o.
-
-Tel: +420 251007111
-
-## Magyarország
-
-Teva Gyógyszergyár Zrt.
-
-Tel.: +36 12886400
-
-## Danmark
-
-Teva Denmark A/S
-
-Tlf.: +45 44985511
-
-## Malta
-
-Teva Pharmaceuticals Ireland
-
-L-Irlanda
-
-Tel: +44 2075407117
-
-## Deutschland
-
-TEVA GmbH
-
-Tel: +49 73140208
-
-## Nederland
-
-Teva Nederland B.V.
-
-Tel: +31 8000228400
-
-<div style=\"page-break-after: always\"></div>
-
-## Eesti
-
-UAB Teva Baltics Eesti filiaal
-
-Tel: +372 6610801
-
-## Ελλάδα
-
-TEVA HELLAS A.E.
-
-Τηλ: +30
-
-2118805000
+Tel: +353 1 5742410
 
 ## España
 
-Teva Pharma, S.L.U.
+Euromed Pharma Spain S.L
 
-Tel: +34 913873280
+Tel: +34 932 684 208
 
 ## France
 
-Teva Santé
+Centre Spécialités Pharmaceutiques (CSP)
 
-Tél: +33 155917800
+Tél: +33 147048046
 
-## Hrvatska
-
-Pliva Hrvatska d.o.o.
-
-Tel: +385 13720000
-
-## Ireland
-
-Teva Pharmaceuticals Ireland
-
-Tel: +44 2075407117
-
-## Ísland
-
-Teva Pharma Iceland ehf.
-
-Sími: +354 5503300
-
-## Italia
-
-Teva Italia S.r.l.
-
-Tel: +39 028917981
-
-## Κύπρος
-
-TEVA HELLAS A.E.
-
-Ελλάδα
-
-Τηλ: +30
-
-2118805000
-
-## Latvija
-
-UAB Teva Baltics filiāle Latvijā
-
-Tel: +371 67323666
+<div style=\"page-break-after: always\"></div>
 
 This leaflet was last revised in {MM/YYYY}.
 
 Detailed information on this medicine is available on the European Medicines Agency web site: https://www.ema.europa.eu
-
-## Norge
-
-Teva Norway AS
-
-Tlf: +47 66775590
-
-## Österreich
-
-ratiopharm Arzneimittel Vertriebs-GmbH
-
-Tel: +43 1970070
-
-## Polska
-
-Teva Pharmaceuticals Polska Sp. z o.o.
-
-Tel.: +48 223459300
-
-## Portugal
-
-Teva Pharma - Produtos Farmacêuticos, Lda.
-
-Tel: +351 214767550
-
-## România
-
-Teva Pharmaceuticals S.R.L.
-
-Tel: +40 212306524
-
-## Slovenija
-
-Pliva Ljubljana d.o.o.
-
-Tel: +386 15890390
-
-## Slovenská republika
-
-TEVA Pharmaceuticals Slovakia s.r.o.
-
-Tel: +421 257267911
-
-## Suomi/Finland
-
-Teva Finland Oy
-
-Puh/Tel: +358 201805900
-
-## Sverige
-
-Teva Sweden AB
-
-Tel: +46 42121100

@@ -1,20 +1,20 @@
 ---
-document_datetime: 2023-11-30 14:33:54
-document_pages: 53
+document_datetime: 2026-01-19 10:45:16
+document_pages: 51
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/kivexa-epar-product-information_en.pdf
 document_name: kivexa-epar-product-information_en.pdf
 version: success
-processing_time: 12.9351425
-conversion_datetime: 2025-12-19 04:55:17.307063
+processing_time: 12.1776647
+conversion_datetime: 2026-01-20 20:36:18.403391
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.64.1
-  docling-core: 2.55.0
+  docling-serve: 1.10.0
+  docling-jobkit: 1.8.1
+  docling: 2.69.0
+  docling-core: 2.60.0
   docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-parse: 4.7.3
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.1-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
 ---
 ## ANNEX I
 
@@ -100,9 +100,9 @@ Hypersensitivity to the active substances or to any of the excipients listed in 
 
 The special warnings and precautions relevant to abacavir and lamivudine are included in this section. There are no additional precautions and warnings relevant to Kivexa.
 
-Hypersensitivity reactions (see also section 4.8 )
+## Hypersensitivity reactions (see also section 4.8 )
 
-Abacavir is associated with a risk for hypersensitivity reactions (HSR) (see section4.8) ) characterised by fever and/or rash with other symptoms indicating multi-organ involvement. HSRs have been observed with abacavir, some of which have been life-threatening, and in rare cases fatal, when not managed appropriately.
+Abacavir is associated with a risk for hypersensitivity reactions (HSR) (see section 4.8) characterised by fever and/or rash with other symptoms indicating multi-organ involvement. HSRs have been observed with abacavir, some of which have been life-threatening, and in rare cases fatal, when not managed appropriately.
 
 The risk for abacavir HSR to occur is high for patients who test positive for the HLA-B*5701 allele. However, abacavir HSRs have been reported at a lower frequency in patients who do not carry this allele.
 
@@ -116,8 +116,7 @@ Therefore the following should be adhered to:
 - After stopping treatment with Kivexa for reasons of a suspected HSR, Kivexa or any other medicinal product containing abacavir (e.g. Ziagen, Trizivir, Triumeq) must never be reinitiated .
 - Restarting abacavir containing products following a suspected abacavir HSR can result in a prompt return of symptoms within hours. This recurrence is usually more severe than on initial presentation, and may include life-threatening hypotension and death.
 - In order to avoid restarting abacavir, patients who have experienced a suspected HSR should be instructed to dispose of their remaining Kivexa tablets
-
-## · Clinical Description of abacavir HSR
+- Clinical Description of abacavir HSR
 
 Abacavir HSR has been well characterised through clinical studies and during post marketing follow-up. Symptoms usually appeared within the first six weeks (median time to onset 11 days) of initiation of treatment with abacavir, although these reactions may occur at any time during therapy.
 
@@ -135,9 +134,9 @@ An increase in weight and in levels of blood lipids and glucose may occur during
 
 Pancreatitis has been reported, but a causal relationship to lamivudine and abacavir is uncertain.
 
-## Risk of virological failure
-
 <div style=\"page-break-after: always\"></div>
+
+## Risk of virological failure
 
 - Triple nucleoside therapy: There have been reports of a high rate of virological failure, and of emergence of resistance at an early stage when abacavir and lamivudine were combined with tenofovir disoproxil fumarate as a once daily regimen.
 
@@ -153,7 +152,7 @@ Patients with pre-existing liver dysfunction, including chronic active hepatitis
 
 Patients with chronic hepatitis B or C and treated with combination antiretroviral therapy are at an increased risk of severe and potentially fatal hepatic adverse reactions. In case of concomitant antiviral therapy for hepatitis B or C, please refer also to the relevant product information for these medicinal products.
 
-If lamivudine is being used concomitantly for the treatment of HIV and hepatitis B virus (HBV), additional information relating to the use of lamivudine in the treatment of hepatitis B infection can be found in the Summary of Product Characteristics for  products containing lamivudine that are indicated for the treatment of HBV.
+If lamivudine is being used concomitantly for the treatment of HIV and hepatitis B virus (HBV), additional information relating to the use of lamivudine in the treatment of hepatitis B infection can be found in the Summary of Product Characteristics for products containing lamivudine that are indicated for the treatment of HBV.
 
 If Kivexa is discontinued in patients co-infected with HBV, periodic monitoring of both liver function tests and markers of HBV replication is recommended, as withdrawal of lamivudine may result in an acute exacerbation of hepatitis (see the Summary of Product Characteristics for products containing lamivudine that are indicated for the treatment of HBV).
 
@@ -163,11 +162,11 @@ Nucleoside and nucleotide analogues may impact mitochondrial function to a varia
 
 ## Immune Reactivation Syndrome
 
-In HIV-infected patients with severe immune deficiency at the time of institution of combination antiretroviral therapy (CART), an inflammatory reaction to asymptomatic or residual opportunistic pathogens may arise and cause serious clinical conditions, or aggravation of symptoms. Typically, such reactions have been observed within the first few weeks or months of initiation of CART. Relevant
+In HIV-infected patients with severe immune deficiency at the time of institution of combination antiretroviral therapy (CART), an inflammatory reaction to asymptomatic or residual opportunistic pathogens may arise and cause serious clinical conditions, or aggravation of symptoms. Typically, such
 
 <div style=\"page-break-after: always\"></div>
 
-examples are cytomegalovirus retinitis, generalised and/or focal mycobacterial infections, and Pneumocystis jirovecii pneumonia (often referred to as PCP). Any inflammatory symptoms should be evaluated and treatment instituted when necessary. Autoimmune disorders (such as Graves' disease and autoimmune hepatitis) have also been reported to occur in the setting of immune reactivation; however, the reported time to onset is more variable and these events can occur many months after initiation of treatment.
+reactions have been observed within the first few weeks or months of initiation of CART. Relevant examples are cytomegalovirus retinitis, generalised and/or focal mycobacterial infections, and Pneumocystis jirovecii pneumonia (often referred to as PCP). Any inflammatory symptoms should be evaluated and treatment instituted when necessary. Autoimmune dis orders (such as Graves' disease and autoimmune hepatitis) have also been reported to occur in the setting of immune reactivation; however, the reported time to onset is more variable and these events can occur many months after initiation of treatment.
 
 ## Osteonecrosis
 
@@ -193,15 +192,15 @@ Patients with a sustained creatinine clearance between 30 and 49 mL/min who rece
 
 Kivexa should not be taken with any other medicinal products containing lamivudine or medicinal products containing emtricitabine.
 
-The combination of lamivudine with cladribine is not-recommended (see section 4.5).
-
 <div style=\"page-break-after: always\"></div>
+
+The combination of lamivudine with cladribine is not recommended (see section 4.5).
 
 ## Excipients
 
 Kivexa contains the azo colouring agent sunset yellow, which may cause allergic reactions.
 
-This medicine contains less than 1 mmol sodium (23 mg) per dosage unit, that is to say essentially 'sodium-free'.
+This medicine contains less than 1 mmol sodium (23 mg) per dosage unit, that is to say essentially 'sodium -free'.
 
 ## 4.5 Interaction with other medicinal products and other forms of interaction
 
@@ -221,11 +220,11 @@ The list below should not be considered exhaustive but is representative of the 
 | Didanosine /Abacavir                                                                                               | Interaction not studied.                                          | No dosage adjustment necessary.                                                                                            |
 | Didanosine/Lamivudine                                                                                              | Interaction not studied.                                          | No dosage adjustment necessary.                                                                                            |
 | Zidovudine/Abacavir                                                                                                | Interaction not studied                                           | No dosage adjustment necessary.                                                                                            |
-| Zidovudine/Lamivudine Zidovudine 300 mg single dose Lamivudine 150 mg single dose                                  | Lamivudine: AUC ↔ Zidovudine : AUC ↔                              | No dosage adjustment necessary.                                                                                            |
+| Zidovudine/Lamivudine Zidovudine 300 mg single dose Lamivudine 150 mg single dose                                  | Lamivudine: AUC  Zidovudine : AUC                               | No dosage adjustment necessary.                                                                                            |
 | Emtricitabine/Lamivudine                                                                                           |                                                                   | Due to similarities, Kivexa should not be administered concomitantly with other cytidine analogues, such as emtricitabine. |
 | ANTI-INFECTIVE PRODUCTS                                                                                            | ANTI-INFECTIVE PRODUCTS                                           | ANTI-INFECTIVE PRODUCTS                                                                                                    |
 | Trimethoprim/sulfamethoxazole (Co-trimoxazole)/Abacavir                                                            | Interaction not studied.                                          | No Kivexa dosage adjustment necessary. When concomitant administration with co-trimoxazole is warranted,                   |
-| Trimethoprim/sulfamethoxazole (Co-trimoxazole)/Lamivudine (160 mg/800 mg once daily for 5 days/300 mg single dose) | Lamivudine: AUC ↑ 40% Trimethoprim: AUC ↔ Sulfamethoxazole: AUC ↔ | No Kivexa dosage adjustment necessary. When concomitant administration with co-trimoxazole is warranted,                   |
+| Trimethoprim/sulfamethoxazole (Co-trimoxazole)/Lamivudine (160 mg/800 mg once daily for 5 days/300 mg single dose) | Lamivudine: AUC  40% Trimethoprim: AUC  Sulfamethoxazole: AUC  | No Kivexa dosage adjustment necessary. When concomitant administration with co-trimoxazole is warranted,                   |
 
 <div style=\"page-break-after: always\"></div>
 
@@ -242,33 +241,33 @@ The list below should not be considered exhaustive but is representative of the 
 
 <div style=\"page-break-after: always\"></div>
 
-| Drugs by Therapeutic Area                                                                                    | Interaction Geometric mean change (%) (Possible mechanism)                                                                                                                                                                                                                          | Recommendation concerning co-administration                                                                                                               |
-|--------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------|
-| ANTIHISTAMINES (HISTAMINE H2 RECEPTOR ANTAGONISTS)                                                           | ANTIHISTAMINES (HISTAMINE H2 RECEPTOR ANTAGONISTS)                                                                                                                                                                                                                                  | ANTIHISTAMINES (HISTAMINE H2 RECEPTOR ANTAGONISTS)                                                                                                        |
-| Ranitidine/Abacavir                                                                                          | Interaction not studied.                                                                                                                                                                                                                                                            | No dosage adjustment necessary.                                                                                                                           |
-| Ranitidine/Lamivudine                                                                                        | Interaction not studied. Clinically significant interaction unlikely. Ranitidine eliminated only in part by renal organic cation transport system.                                                                                                                                  | No dosage adjustment necessary.                                                                                                                           |
-| Cimetidine/Abacavir                                                                                          | Interaction not studied.                                                                                                                                                                                                                                                            | No dosage adjustment necessary.                                                                                                                           |
-| Cimetidine/Lamivudine                                                                                        | Interaction not studied. Clinically significant interaction unlikely. Cimetidine eliminated only in part by renal organic cation transport system.                                                                                                                                  | No dosage adjustment necessary.                                                                                                                           |
-| CYTOTOXICS                                                                                                   | CYTOTOXICS                                                                                                                                                                                                                                                                          | CYTOTOXICS                                                                                                                                                |
-| Cladribine/Lamivudine                                                                                        | Interaction not studied. In vitro lamivudine inhibits the intracellular phosphorylation of cladribine leading to a potential risk of cladribine loss of efficacy in case of combination in the clinical setting. Some clinical findings also support a possible interaction between | Therefore, the concomitant use of lamivudine with cladribine is not recommended (see section 4.4).                                                        |
-| OPIOIDS                                                                                                      | OPIOIDS                                                                                                                                                                                                                                                                             | OPIOIDS                                                                                                                                                   |
-| Methadone/Abacavir (40 to 90mg once daily for 14 days/600mg single dose, then 600mg twice daily for 14 days) | Abacavir: AUC ↔ C max ↓ 35% Methadone: CL/F ↑ 22%                                                                                                                                                                                                                                   | No Kivexa dosage adjustment necessary. Methadone dosage adjustment unlikely in majority of patients; occasionally methadone re-titration may be required. |
-| Methadone/Lamivudine                                                                                         | Interaction not studied.                                                                                                                                                                                                                                                            | No Kivexa dosage adjustment necessary. Methadone dosage adjustment unlikely in majority of patients; occasionally methadone re-titration may be required. |
-| RETINOIDS                                                                                                    | RETINOIDS                                                                                                                                                                                                                                                                           | RETINOIDS                                                                                                                                                 |
-| Retinoid compounds (e.g. isotretinoin)/Abacavir                                                              | Interaction not studied. Possible interaction given common pathway of elimination via alcohol dehydrogenase.                                                                                                                                                                        | Insufficient data to recommend dosage adjustment.                                                                                                         |
-| Retinoid compounds (e.g. isotretinoin)/Lamivudine No drug interaction studies                                | Interaction not studied.                                                                                                                                                                                                                                                            | Insufficient data to recommend dosage adjustment.                                                                                                         |
+| Drugs by Therapeutic Area                                                                                       | Interaction Geometric mean change (%) (Possible mechanism)                                                                                                                                                                                                                          | Recommendation concerning co-administration                                                                                                               |
+|-----------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------|
+| ANTIHISTAMINES (HISTAMINE H2 RECEPTOR ANTAGONISTS)                                                              | ANTIHISTAMINES (HISTAMINE H2 RECEPTOR ANTAGONISTS)                                                                                                                                                                                                                                  | ANTIHISTAMINES (HISTAMINE H2 RECEPTOR ANTAGONISTS)                                                                                                        |
+| Ranitidine/Abacavir                                                                                             | Interaction not studied.                                                                                                                                                                                                                                                            | No dosage adjustment necessary.                                                                                                                           |
+| Ranitidine/Lamivudine                                                                                           | Interaction not studied. Clinically significant interaction unlikely. Ranitidine eliminated only in part by renal organic cation transport system.                                                                                                                                  | No dosage adjustment necessary.                                                                                                                           |
+| Cimetidine/Abacavir                                                                                             | Interaction not studied.                                                                                                                                                                                                                                                            | No dosage adjustment necessary.                                                                                                                           |
+| Cimetidine/Lamivudine                                                                                           | Interaction not studied. Clinically significant interaction unlikely. Cimetidine eliminated only in part by renal organic cation transport system.                                                                                                                                  | No dosage adjustment necessary.                                                                                                                           |
+| CYTOTOXICS                                                                                                      | CYTOTOXICS                                                                                                                                                                                                                                                                          | CYTOTOXICS                                                                                                                                                |
+| Cladribine/Lamivudine                                                                                           | Interaction not studied. In vitro lamivudine inhibits the intracellular phosphorylation of cladribine leading to a potential risk of cladribine loss of efficacy in case of combination in the clinical setting. Some clinical findings also support a possible interaction between | Therefore, the concomitant use of lamivudine with cladribine is not recommended (see section 4.4).                                                        |
+| OPIOIDS                                                                                                         | OPIOIDS                                                                                                                                                                                                                                                                             | OPIOIDS                                                                                                                                                   |
+| Methadone/Abacavir (40 to 90 mg once daily for 14 days/600 mg single dose, then 600 mg twice daily for 14 days) | Abacavir: AUC  C max  35% Methadone: CL/F  22%                                                                                                                                                                                                                                   | No Kivexa dosage adjustment necessary. Methadone dosage adjustment unlikely in majority of patients; occasionally methadone re-titration may be required. |
+| Methadone/Lamivudine                                                                                            | Interaction not studied.                                                                                                                                                                                                                                                            | No Kivexa dosage adjustment necessary. Methadone dosage adjustment unlikely in majority of patients; occasionally methadone re-titration may be required. |
+| RETINOIDS                                                                                                       | RETINOIDS                                                                                                                                                                                                                                                                           | RETINOIDS                                                                                                                                                 |
+| Retinoid compounds (e.g. isotretinoin)/Abacavir                                                                 | Interaction not studied. Possible interaction given common pathway of elimination via alcohol dehydrogenase.                                                                                                                                                                        | Insufficient data to recommend dosage adjustment.                                                                                                         |
+| Retinoid compounds (e.g. isotretinoin)/Lamivudine No drug interaction studies                                   | Interaction not studied.                                                                                                                                                                                                                                                            | Insufficient data to recommend dosage adjustment.                                                                                                         |
 
 <div style=\"page-break-after: always\"></div>
 
-| Drugs by Therapeutic Area                                  | Interaction Geometric mean change (%) (Possible mechanism)                                                                                                                                                                                                                                                                                                                | Recommendation concerning co-administration                                                                                                                                                                                                                                                                               |
-|------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| MISCELLANEOUS                                              | MISCELLANEOUS                                                                                                                                                                                                                                                                                                                                                             | MISCELLANEOUS                                                                                                                                                                                                                                                                                                             |
-| Ethanol/Abacavir (0.7 g/kg single dose/600 mg single dose) | Abacavir: AUC ↑ 41% Ethanol: AUC ↔ (Inhibition of alcohol dehydrogenase)                                                                                                                                                                                                                                                                                                  | No dosage adjustment necessary.                                                                                                                                                                                                                                                                                           |
-| Ethanol/Lamivudine                                         | Interaction not studied.                                                                                                                                                                                                                                                                                                                                                  | No dosage adjustment necessary.                                                                                                                                                                                                                                                                                           |
-| Sorbitol solution (3.2 g, 10.2 g, 13.4 g)/ Lamivudine      | Single dose lamivudine oral solution 300 mg Lamivudine: AUC ↓ 14%; 32%; 36% Cmax ↓ 28%; 52%, 55%.                                                                                                                                                                                                                                                                         | When possible, avoid chronic coadministration of Kivexa with medicinal products containing sorbitol or other osmotic acting poly-alcohols or monosaccharide alcohols (e.g. xylitol, mannitol, lactitol, maltitol). Consider more frequent monitoring of HIV-1 viral load when chronic coadministration cannot be avoided. |
-| Riociguat/Abacavir                                         | Riociguat In vitro, abacavir inhibits CYP1A1. Concomitant administration of a single dose of riociguat (0.5 mg) to HIV patients receiving the combination of abacavir/dolutegravir/lamivudine (600mg/50mg/300mg once daily) led to an approximately three-fold higher riociguat AUC (0- ∞) when compared to historical riociguat AUC (0- ∞) reported in healthy subjects. | Riociguat dose may need to be reduced. Consult the riociguat prescribing information for dosing recommendations.                                                                                                                                                                                                          |
+| Drugs by Therapeutic Area                                  | Interaction Geometric mean change (%) (Possible mechanism)                                                                                                                                                                                                                                                                                                                     | Recommendation concerning co-administration                                                                                                                                                                                                                                                                               |
+|------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| MISCELLANEOUS                                              | MISCELLANEOUS                                                                                                                                                                                                                                                                                                                                                                  | MISCELLANEOUS                                                                                                                                                                                                                                                                                                             |
+| Ethanol/Abacavir (0.7 g/kg single dose/600 mg single dose) | Abacavir: AUC  41% Ethanol: AUC  (Inhibition of alcohol dehydrogenase)                                                                                                                                                                                                                                                                                                       | No dosage adjustment necessary.                                                                                                                                                                                                                                                                                           |
+| Ethanol/Lamivudine                                         | Interaction not studied.                                                                                                                                                                                                                                                                                                                                                       | No dosage adjustment necessary.                                                                                                                                                                                                                                                                                           |
+| Sorbitol solution (3.2 g, 10.2 g, 13.4 g)/ Lamivudine      | Single dose lamivudine oral solution 300 mg Lamivudine: AUC  14%; 32%; 36% Cmax  28%; 52%, 55%.                                                                                                                                                                                                                                                                              | When possible, avoid chronic coadministration of Kivexa with medicinal products containing sorbitol or other osmotic acting poly-alcohols or monosaccharide alcohols (e.g. xylitol, mannitol, lactitol, maltitol). Consider more frequent monitoring of HIV-1 viral load when chronic coadministration cannot be avoided. |
+| Riociguat/Abacavir                                         | Riociguat  In vitro, abacavir inhibits CYP1A1. Concomitant administration of a single dose of riociguat (0.5 mg) to HIV patients receiving the combination of abacavir/dolutegravir/lamivudine (600 mg/50 mg/300 mg once daily) led to an approximately three-fold higher riociguat AUC (0- ∞) when compared to historical riociguat AUC (0- ∞) reported in healthy subjects. | Riociguat dose may need to be reduced. Consult the riociguat prescribing information for dosing recommendations.                                                                                                                                                                                                          |
 
-Abbreviations: ↑ = Increase; ↓ = decrease; ↔ = no significant change; AUC = area under the concentration versus time curve; Cmax = maximum observed concentration; CL/F = apparent oral clearance
+Abbreviations:  = Increase;  = decrease;  = no significant change; AUC = area under the concentration versus time curve; Cmax = maximum observed concentration; CL/F = apparent oral clearance
 
 ## Paediatric population
 
@@ -324,7 +323,7 @@ symptoms should be carefully evaluated for the presence of this hypersensitivity
 
 ## Tabulated list of adverse reactions
 
-The adverse reactions considered at least possibly related to abacavir or lamivudine are listed by body system, organ class and absolute frequency. Frequencies are defined as very common (&gt;1/10), common (&gt; 1/100 to &lt; 1/10), uncommon (&gt;1/1000 to &lt;1/100), rare (&gt;1/10,000 to &lt;1/1000), very rare (&lt;1/10,000).
+The adverse reactions considered at least possibly related to abacavir or lamivudine are listed by body system, organ class and absolute frequency. Frequencies are defined as very common (&gt; 1/10), common (&gt; 1/100 to &lt; 1/10), uncommon (&gt; 1/1000 to &lt; 1/100), rare (&gt; 1/10,000 to &lt; 1/1000), very rare (&lt; 1/10,000).
 
 <div style=\"page-break-after: always\"></div>
 
@@ -412,13 +411,13 @@ No antagonistic effects in vitro were seen with lamivudine and other antiretrovi
 
 Both abacavir and lamivudine have been shown to inhibit replication of laboratory strains and clinical isolates of HIV in a number of cell types, including transformed T cell lines, monocyte/macrophage derived lines and primary cultures of activated peripheral blood lymphocytes (PBLs) and monocyte/macrophages. The concentration of drug necessary to effect viral replication by 50% (EC50) or 50% inhibitory concentration (IC50) varied according to virus and host cell type.
 
-The mean EC50 for abacavir against laboratory strains of HIV-1IIIB and HIV-1HXB2 ranged from 1.4 to 5.8 µ M. The median or mean EC50 values for lamivudine against laboratory strains of HIV-1 ranged from 0.007 to 2.3 µ M. The mean EC50 against laboratory strains of HIV-2 (LAV2 and EHO) ranged from 1.57 to 7.5 µ M for abacavir and from 0.16 to 0.51 µ M for lamivudine.
+The mean EC50 for abacavir against laboratory strains of HIV-1IIIB and HIV-1HXB2 ranged from 1.4 to 5.8  M. The median or mean EC50 values for lamivudine against laboratory strains of HIV-1 ranged from 0.007 to 2.3  M. The mean EC50 against laboratory strains of HIV-2 (LAV2 and EHO) ranged from 1.57 to 7.5  M for abacavir and from 0.16 to 0.51  M for lamivudine.
 
 <div style=\"page-break-after: always\"></div>
 
-The EC50 values of abacavir against HIV-1 Group M subtypes (A-G) ranged from 0.002 to 1.179 µ M, against Group O from 0.022 to 1.21 µ M, and against HIV-2 isolates, from 0.024 to 0.49 µ M. For lamivudine, the EC50 values against HIV-1 subtypes (A-G) ranged from 0.001 to 0.170 µ M, against Group O from 0.030 to 0.160 µ M and against HIV-2 isolates from 0.002 to 0.120 µ M in peripheral blood mononuclear cells.
+The EC50 values of abacavir against HIV-1 Group M subtypes (A-G) ranged from 0.002 to 1.179  M, against Group O from 0.022 to 1.21  M, and against HIV-2 isolates, from 0.024 to 0.49  M. For lamivudine, the EC50 values against HIV-1 subtypes (A-G) ranged from 0.001 to 0.170  M, against Group O from 0.030 to 0.160  M and against HIV-2 isolates from 0.002 to 0.120  M in peripheral blood mononuclear cells.
 
-Baseline HIV-1 samples from therapy-naive subjects with no amino acid substitutions associated with resistance have been evaluated using either the multi-cycle Virco Antivirogram™ assay (n=92 from COL40263) or the the single cycle Monogram Biosciences PhenoSense™ assay (n=138 from ESS30009). These resulted in median EC50 values of 0.912 µ M (range: 0.493 to 5.017 µ M) and 1.26 µM (range 0.72 to 1.91 µ M) respectively for abacavir, and median EC50 values of 0.429 µ M (range: 0.200 to 2.007 µ M) and 2.38 µ M (1.37 to 3.68 µ M) respectively for lamivudine.
+Baseline HIV-1 samples from therapy-naive subjects with no amino acid substitutions associated with resistance have been evaluated using either the multi-cycle Virco Antivirogram ™ assay (n=92 from COL40263) or the the single cycle Monogram Biosciences PhenoSense ™ assay (n=138 from ESS30009). These resulted in median EC50 values of 0.912  M (range: 0.493 to 5.017  M) and 1.26 µM (range 0.72 to 1.91  M) respectively for abacavir, and median EC50 values of 0.429  M (range: 0.200 to 2.007  M) and 2.38  M (1.37 to 3.68  M) respectively for lamivudine.
 
 Phenotypic susceptibility analyses of clinical isolates from antiretroviral-naïve patients with HIV-1 Group M non-B subtypes in three studies have each reported that all viruses were fully susceptible to both abacavir and lamivudine; one study of 104 isolates that included subtypes A and A1 (n=26), C (n=1), D (n=66), and the circulating recombinant forms (CRFs) AD (n=9), CD (n=1), and a complex inter-subtype recombinant\\_cpx (n=1) a second study of 18 isolates including subtype G (n=14) and CRF\\_AG (n=4) from Nigeria, and a third study of six isolates (n=4 CRF\\_AG, n=1 A and n=1 undetermined) from Abidjan (Côte d'Ivoire).
 
@@ -432,7 +431,7 @@ The combination of abacavir and lamivudine has demonstrated antiviral activity i
 
 Abacavir-resistant isolates of HIV-1 have been selected in-vitro in wild-type strain HIV-1 (HXB2) and are associated with specific genotypic changes in the RT codon region (codons M184V, K65R, L74V and Y115). Selection for the M184V mutation occurred first and resulted in a two fold increase in IC50. Continued passage in increasing concentrations of drug resulted in selection for double RT mutants 65R/184V and 74V/184V or triple RT mutant 74V/115Y/184V. Two mutations conferred a 7- to 8-fold change in abacavir susceptibility and combinations of three mutations were required to confer more than an 8-fold change in susceptibility. Passage with a zidovudine resistant clinical isolate RTMC also selected for the 184V mutation.
 
-HIV-1 resistance to lamivudine involves the development of a M184I or, more commonly, M184V amino acid change close to the active site of the viral RT. Passage of HIV-1 (HXB2) in the presence of increasing 3TC concentrations results in high-level (&gt;100 to &gt;500-fold) lamivudine-resistant viruses and the RT M184I or V mutation is rapidly selected. The IC50 for wild-type HXB2 is 0.24 to 0.6 µ M, while the IC50 for M184V containing HXB2 is &gt;100 to 500 µ M.
+HIV-1 resistance to lamivudine involves the development of a M184I or, more commonly, M184V amino acid change close to the active site of the viral RT. Passage of HIV-1 (HXB2) in the presence of increasing 3TC concentrations results in high-level (&gt;100 to &gt;500-fold) lamivudine-resistant viruses and the RT M184I or V mutation is rapidly selected. The IC50 for wild-type HXB2 is 0.24 to 0.6  M, while the IC50 for M184V containing HXB2 is &gt;100 to 500  M.
 
 ## Antiviral therapy According to Genotypic/Phenotypic Resistance
 
@@ -446,22 +445,22 @@ Isolates from most patients experiencing virological failure with a regimen cont
 
 pivotal clinical trials showed either no NRTI-related changes from baseline (45%) or only M184V or M184I selection (45%). The overall selection frequency for M184V or M184I was high (54%), and less common was the selection of L74V (5%), K65R (1%) and Y115F (1%) (see table below). The inclusion of zidovudine in the regimen has been found to reduce the frequency of L74V and K65R selection in the presence of abacavir (with zidovudine: 0/40, without zidovudine: 15/192, 8%).
 
-| Therapy                                 | Abacavir + Combivir 1   | Abacavir + lamivudine + NNRTI   | Abacavir + lamivudine + PI (or PI/ritonavir)   | Total       |
-|-----------------------------------------|-------------------------|---------------------------------|------------------------------------------------|-------------|
-| Number of 282                           | 1094                    | 909                             |                                                | 2285        |
-| Subjects Number of Virological Failures | 43                      | 90                              | 158                                            | 306         |
-| Number of On- Therapy Genotypes 40      | (100%)                  | 51 (100%) 2                     | 141 (100%)                                     | 232 (100%)  |
-| 0                                       |                         | 1 (2%)                          | 2 (1%)                                         | K65R 3 (1%) |
-| L74V 0                                  |                         | 9 (18%)                         | 3 (2%)                                         | 12 (5%)     |
-| Y115F 0                                 |                         | 2 (4%)                          | 0                                              | 2 (1%)      |
-| 34                                      | (85%)                   | 22 (43%)                        | 70 (50%)                                       | 126 (54%)   |
-| M184V/I TAMs 3                          | 3 (8%)                  | 2 (4%)                          | 4 (3%)                                         | 9 (4%)      |
+| Therapy                         | Abacavir + Combivir 1   | Abacavir + lamivudine + NNRTI   | Abacavir + lamivudine + PI (or PI/ritonavir)   | Total       |
+|---------------------------------|-------------------------|---------------------------------|------------------------------------------------|-------------|
+| Number of Subjects 282          | 1094                    | 909                             |                                                | 2285        |
+| Number of Virological Failures  | 43                      | 90                              | 158                                            | 306         |
+| Number of On- Therapy Genotypes | 40 (100%)               | 51 (100%) 2                     | 141 (100%)                                     | 232 (100%)  |
+| 0                               |                         | 1 (2%)                          | 2 (1%)                                         | K65R 3 (1%) |
+| L74V 0                          |                         | 9 (18%)                         | 3 (2%)                                         | 12 (5%)     |
+| Y115F 0                         |                         | 2 (4%)                          | 0                                              | 2 (1%)      |
+| 34                              | (85%)                   | 22 (43%)                        | 70 (50%)                                       | 126 (54%)   |
+| M184V/I TAMs 3                  | 3 (8%)                  | 2 (4%)                          | 4 (3%)                                         | 9 (4%)      |
 
 1. Combivir is a fixed dose combination of lamivudine and zidovudine
 
 2. Includes three non-virological failures and four unconfirmed virological failures.
 
-3. Number of subjects with ≥ 1 Thymidine Analogue Mutations (TAMs).
+3. Number of subjects with  1 Thymidine Analogue Mutations (TAMs).
 
 TAMs might be selected when thymidine analogs are associated with abacavir. In a meta-analysis of six clinical trials, TAMs were not selected by regimens containing abacavir without zidovudine (0/127), but were selected by regimens containing abacavir and the thymidine analogue zidovudine (22/86, 26%).
 
@@ -469,7 +468,7 @@ TAMs might be selected when thymidine analogs are associated with abacavir. In a
 
 The M184V or M184I variants arise in HIV-1 infected patients treated with lamivudine-containing antiretroviral therapy and confer high-level resistance to lamivudine. In vitro data tend to suggest that the continuation of lamivudine in anti-retroviral regimen despite the development of M184V might provide residual anti-retroviral activity (likely through impaired viral fitness). The clinical relevance of these findings is not established. Indeed, the available clinical data are very limited and preclude any reliable conclusion in the field. In any case, initiation of susceptible NRTIs should always be preferred to maintenance of lamivudine therapy. Therefore, maintaining lamivudine therapy despite emergence of M184V mutation should only be considered in cases where no other active NRTIs are available.
 
-Clinically significant reduction of susceptibility to abacavir has been demonstrated in clinical isolates of patients with uncontrolled viral replication, who have been pre-treated with and are resistant to other nucleoside inhibitors. In a meta-analysis of five clinical trials where ABC was added to intensify therapy, of 166 subjects, 123 (74%) had M184V/I, 50 (30%) had T215Y/F, 45 (27%) had M41L, 30 (18%) had K70R and 25 (15%) had D67N. K65R was absent and L74V and Y115F were uncommon ( ≤ 3%). Logistic regression modelling of the predictive value for genotype (adjusted for baseline plasma HIV-1RNA [vRNA], CD4+ cell count, number and duration of prior antiretroviral therapies) showed that the presence of 3 or more NRTI resistance-associated mutations was associated with reduced response at Week 4 (p=0.015) or 4 or more mutations at median Week 24 (p ≤ 0.012). In addition, the 69 insertion complex or the Q151M mutation, usually found in combination with A62V, V75I, F77L and F116Y, cause a high level of resistance to abacavir.
+Clinically significant reduction of susceptibility to abacavir has been demonstrated in clinical isolates of patients with uncontrolled viral replication, who have been pre-treated with and are resistant to other nucleoside inhibitors. In a meta-analysis of five clinical trials where ABC was added to intensify therapy, of 166 subjects, 123 (74%) had M184V/I, 50 (30%) had T215Y/F, 45 (27%) had M41L, 30 (18%) had K70R and 25 (15%) had D67N. K65R was absent and L74V and Y115F were uncommon (  3%). Logistic regression modelling of the predictive value for genotype (adjusted for baseline plasma HIV-1RNA [vRNA], CD4+ cell count, number and duration of prior antiretroviral therapies) showed that the presence of 3 or more NRTI resistance-associated mutations was associated with reduced response at Week 4 (p=0.015) or 4 or more mutations at median Week 24 (p  0.012). In addition, the 69 insertion complex or the Q151M mutation, usually found in combination with A62V, V75I, F77L and F116Y, cause a high level of resistance to abacavir.
 
 <div style=\"page-break-after: always\"></div>
 
@@ -499,7 +498,7 @@ The combination of abacavir and lamivudine as a once daily regimen is supported 
 
 <div style=\"page-break-after: always\"></div>
 
-Efficacy Outcome at Week 48 in CNA30021 by baseline HIV-1 RNA and CD4 Categories (ITTe TLOVR ART naïve subjects).
+## Efficacy Outcome at Week 48 in CNA30021 by baseline HIV-1 RNA and CD4 Categories (ITTe TLOVR ART naïve subjects).
 
 |                                                       | ABCQD +3TC+EFV (n=384)                  | ABC BID +3TC+EFV (n=386)                |
 |-------------------------------------------------------|-----------------------------------------|-----------------------------------------|
@@ -520,7 +519,7 @@ There was a low, similar overall incidence of virologic failure (viral load &gt;
 
 There are conflicting data in some comparative studies with Kivexa i.e. HEAT, ACTG5202 and ASSERT :
 
-EPZ104057 (HEAT study) was a randomised, double-blind, placebo-matched, 96 week, multi-centre study with the primary objective of evaluating the relative efficacy of abacavir/lamivudine (ABC/3TC, 600mg/300mg) and tenofovir /emtricitabine (TDF/FTC, 300mg/200mg), each given once-daily in combination with lopinavir/ritonavir (LPV/r, 800mg/200mg) in HIV-infected, therapy-naive adults. The primary efficacy analysis was performed at week 48 with study continuation to week 96 and demonstrated non-inferiority. The results are summarised below:
+EPZ104057 (HEAT study) was a randomised, double-blind, placebo-matched, 96 week, multi-centre study with the primary objective of evaluating the relative efficacy of abacavir/lamivudine (ABC/3TC, 600 mg/300 mg) and tenofovir /emtricitabine (TDF/FTC, 300 mg/200 mg), each given once-daily in combination with lopinavir/ritonavir (LPV/r, 800 mg/200 mg) in HIV-infected, therapy-naive adults. The primary efficacy analysis was performed at week 48 with study continuation to week 96 and demonstrated non-inferiority. The results are summarised below:
 
 <div style=\"page-break-after: always\"></div>
 
@@ -531,9 +530,9 @@ Virologic Response Based on Plasma HIV-1 RNA &lt; 50 copies/mL ITT-Exposed Popul
 |                                                     | Week 48                    | Week 96                    | Week 48                     | Week 96                     |
 | Overall response (stratified by baseline HIV-1 RNA) | 231/343 (68%)              | 205/343 (60%)              | 232/345 (67%)               | 200/345 (58%)               |
 | Response by Baseline HIV-1 RNA <100,000 c/mL        | 134/188 (71%)              | 118/188 (63%)              | 141/205 (69%)               | 119/205 (58%)               |
-| Response by Baseline HIV-1 RNA                      | 97/155                     | 87/155                     |                             |                             |
-| ≥                                                   |                            |                            | 91/140                      | 81/140                      |
-| 100,000 c/mL                                        | (63%)                      | (56%)                      | (65%)                       | (58%)                       |
+| Response by Baseline HIV-1 RNA                      | 97/155                     | 87/155                     | (65%)                       | (58%)                       |
+|  100,000 c/mL                                      |                            | (56%)                      | 91/140                      | 81/140                      |
+|                                                     | (63%)                      |                            |                             |                             |
 
 A similar virologic response was observed for both regimens (point estimate for treatment difference at week 48: 0.39%, 95% CI : -6.63, 7.40).
 
@@ -546,7 +545,7 @@ Analysis of the data from subjects in the low viral load stratum showed no demon
 - 88.3% with ABC/3TC vs 90.3% with TDF/FTC when taken with atazanavir/ritonavir as third drug, treatment difference -2.0% (95% CI -7.5%, 3.4%),
 - 87.4% with ABC/3TC vs 89.2% with TDF/FTC, when taken with efavirenz as third drug, treatment difference -1.8% (95% CI -7.5%, 3.9%).
 
-CNA109586 (ASSERT study), a multi-centre, open label, randomised study of abacavir/lamivudine (ABC/3TC, 600mg/300mg) and tenofovir/emtricitabine (TDF/FTC, 300mg/200mg), each given once daily with efavirenz (EFV, 600mg) in ART naïve, HLA-B*5701 negative, HIV-1 infected adults.The virologic results are summarised in the table below:
+CNA109586 (ASSERT study), a multi-centre, open label, randomised study of abacavir/lamivudine (ABC/3TC, 600 mg/300 mg) and tenofovir/emtricitabine (TDF/FTC, 300 mg/200 mg), each given once daily with efavirenz (EFV, 600 mg) in ART naïve, HLA-B*5701 negative, HIV-1 infected adults.The virologic results are summarised in the table below:
 
 <div style=\"page-break-after: always\"></div>
 
@@ -556,7 +555,7 @@ Virologic Response at Week 48 ITT-Exposed Population &lt; 50 copies/mL TLOVR
 |-----------------------------------------------|--------------------------|--------------------------|
 | Overall response                              | 114/192 (59%)            | 137/193 (71%)            |
 | Response by Baseline HIV-1 RNA <100,000 c/mL  | 61/95 (64%)              | 62/83 (75%)              |
-| Response by Baseline HIV-1 RNA ≥ 100,000 c/mL | 53/97 (55%)              | 75/110 (68%)             |
+| Response by Baseline HIV-1 RNA  100,000 c/mL | 53/97 (55%)              | 75/110 (68%)             |
 
 At week 48, a lower rate of virologic response was observed for ABC/3TC compared to TDF/FTC (point estimate for the treatment difference: 11.6%, 95% CI : 2.2, 21.1).
 
@@ -568,7 +567,7 @@ In study CAL30001, 182 treatment-experienced patients with virologic failure wer
 
 In study ESS30008, 260 patients with virologic suppression on a first line therapy regimen containing abacavir 300 mg plus lamivudine 150 mg, both given twice daily and a PI or NNRTI, were randomised to continue this regimen or switch to Kivexa plus a PI or NNRTI for 48 weeks. Results at 48 weeks indicated that the Kivexa group was associated with a similar virologic outcome (non-inferior) compared to the abacavir plus lamivudine group, based on proportions of subjects with HIV-1 RNA &lt; 50 copies/mL (90% and 85% respectively, 95% CI -2.7, 13.5).
 
-A genotypic sensitivity score (GSS) has not been established by the MAH for the abacavir/lamivudine combination. The proportion of treatment-experienced patients in the CAL30001 study with HIV-RNA &lt;50 copies/mL at Week 48 by genotypic sensitivity score in optimized background therapy (OBT) are tabulated The impact of major IAS-USA defined mutations to abacavir or lamivudine and multi-NRTI resistance associated mutations to the number of baseline mutations on response was also evaluated. The GSS was obtained from the Monogram reports with susceptible virus ascribed the values '1-4' based upon the numbers of drugs in the regimen and with virus with reduced susceptibility ascribed the value '0'. Genotypic sensitivity scores were not obtained for all patients at baseline.  Similar proportions of patients in the once-daily and twice-daily abacavir arms of CAL30001 had GSS scores of &lt;2 or ≥ 2 and successfully suppressed to &lt;50 copies/mL by Week 48.
+A genotypic sensitivity score (GSS) has not been established by the MAH for the abacavir/lamivudine combination. The proportion of treatment-experienced patients in the CAL30001 study with HIV-RNA &lt;50 copies/mL at Week 48 by genotypic sensitivity score in optimized background therapy (OBT) are tabulated The impact of major IAS-USA defined mutations to abacavir or lamivudine and multi-NRTI resistance associated mutations to the number of baseline mutations on response was also evaluated. The GSS was obtained from the Monogram reports with susceptible virus ascribed the values '1 -4' based upon the numbers of drugs in the regimen and with virus with reduced susceptibility ascribed the value '0'. Genotypic sensitivity scores were not obtained for all patients at baseline.  Similar proportions of patients in the once-daily and twice-daily abacavir arms of CAL30001 had GSS scores of &lt;2 or  2 and successfully suppressed to &lt;50 copies/mL by Week 48.
 
 <div style=\"page-break-after: always\"></div>
 
@@ -577,7 +576,7 @@ A genotypic sensitivity score (GSS) has not been established by the MAH for the 
 |                     | ABC/3TCFDCQD (n=94) Number of Baseline Mutations 1   | ABC/3TCFDCQD (n=94) Number of Baseline Mutations 1   | ABC/3TCFDCQD (n=94) Number of Baseline Mutations 1   | ABC/3TCFDCQD (n=94) Number of Baseline Mutations 1   | ABC BID +3TCQD (n=88)   |
 |---------------------|------------------------------------------------------|------------------------------------------------------|------------------------------------------------------|------------------------------------------------------|-------------------------|
 | Genotypic SS in OBT | All                                                  | 0-1                                                  | 2-5                                                  | 6+                                                   | All                     |
-| ≤ 2                 | 10/24 (42%)                                          | 3/24 (13%)                                           | 7/24 (29%)                                           | 0                                                    | 12/26 (46%)             |
+|  2                 | 10/24 (42%)                                          | 3/24 (13%)                                           | 7/24 (29%)                                           | 0                                                    | 12/26 (46%)             |
 | >2                  | 29/56 (52%)                                          | 21/56 (38%)                                          | 8/56 (14%)                                           | 0                                                    | 27/56 (48%)             |
 | Unknown             | 8/14 (57%)                                           | 6/14 (43%)                                           | 2/14 (14%)                                           | 0                                                    | 2/6 (33%)               |
 | All                 | 47/94 (50%)                                          | 30/94 (32%)                                          | 17/94 (18%)                                          | 0                                                    | 41/88 (47%)             |
@@ -591,7 +590,7 @@ For the CNA109586 (ASSERT) and CNA30021 studies in treatment-naïve patients, ge
 |                     | ABCQD+3TCQD+EFVQD (N=384) Number of Baseline Mutations 1   | ABCQD+3TCQD+EFVQD (N=384) Number of Baseline Mutations 1   | ABCQD+3TCQD+EFVQD (N=384) Number of Baseline Mutations 1   | ABCQD+3TCQD+EFVQD (N=384) Number of Baseline Mutations 1   | ABC BID+ 3TCQD+ EFV QD (N=386)   |
 |---------------------|------------------------------------------------------------|------------------------------------------------------------|------------------------------------------------------------|------------------------------------------------------------|----------------------------------|
 | Genotypic SS in OBT | All                                                        | 0-1                                                        | 2-5                                                        | 6+                                                         | All                              |
-| ≤ 2                 | 2/6 (33%)                                                  | 2/6 (33%)                                                  | 0                                                          | 0                                                          | 3/6 (50%)                        |
+|  2                 | 2/6 (33%)                                                  | 2/6 (33%)                                                  | 0                                                          | 0                                                          | 3/6 (50%)                        |
 | >2                  | 58/119 (49%)                                               | 57/119 (48%)                                               | 1/119 (<1%)                                                | 0                                                          | 57/114 (50%)                     |
 | All                 | 60/125 (48%)                                               | 59/125 (47%)                                               | 1/125 (<1%)                                                | 0                                                          | 60/120 (50%)                     |
 
@@ -601,11 +600,11 @@ For the CNA109586 (ASSERT) and CNA30021 studies in treatment-naïve patients, ge
 
 A comparison of a regimen including once daily versus twice daily dosing of abacavir and lamivudine was undertaken within a randomised, multicentre, controlled study of HIV-infected, paediatric patients. 1206 paediatric patients aged 3 months to 17 years enrolled in the ARROW Trial (COL105677) and were dosed according to the weight - band dosing recommendations in the World Health Organisation treatment guidelines (Antiretroviral therapy of HIV infection in infants and children, 2006). After 36 weeks on a regimen including twice daily abacavir and lamivudine, 669 eligible subjects were randomised to either continue twice daily dosing or switch to once daily abacavir and lamivudine for at least an additional 96 weeks. Within this population, 104 patients, weighing at least 25 kg, received 600 mg abacavir and 300 mg lamivudine as Kivexa once daily, with a median duration of exposure of 596 days.
 
-Among the 669 subjects randomized in this study (from 12 months to ≤ 17 years old), the abacavir/lamivudine once daily dosing group was demonstrated to be non-inferior to the twice daily group according to the pre-specified non-inferiority margin of -12%, for the primary endpoint of &lt;80 c/mL at Week 48 as well as at Week 96 (secondary endpoint) and all other thresholds tested (&lt;200c/mL, &lt;400c/mL, &lt;1000c/mL), which all fell well within this non-inferiority margin. Subgroup analyses testing for heterogeneity of once versus twice daily demonstrated no significant effect of sex,
+Among the 669 subjects randomized in this study (from 12 months to ≤ 17 years old), the abacavir/lamivudine once daily dosing group was demonstrated to be non-inferior to the twice daily group according to the pre-specified non-inferiority margin of -12%, for the primary endpoint of &lt; 80 c/mL at Week 48 as well as at Week 96 (secondary endpoint) and all other thresholds tested (&lt; 200 c/mL, &lt; 400 c/mL, &lt; 1000 c/mL), which all fell well within this non-inferiority margin. Subgroup analyses testing for heterogeneity of once versus twice daily demonstrated no significant
 
 <div style=\"page-break-after: always\"></div>
 
-age, or viral load at randomisation. Conclusions supported non-inferiority regardless of analysis method.
+effect of sex, age, or viral load at randomisation. Conclusions supported non-inferiority regardless of analysis method.
 
 Among the 104 patients who received Kivexa, including the ones who were between 40 kg and 25 kg, the viral suppression was similar
 
@@ -615,7 +614,7 @@ The fixed-dose combination tablet of abacavir/lamivudine (FDC) has been shown to
 
 ## Absorption
 
-Abacavir and lamivudine are rapidly and well absorbed from the gastro-intestinal tract following oral administration. The absolute bioavailability of oral abacavir and lamivudine in adults is about 83% and 80-85% respectively.  The  mean time  to maximal  serum  concentrations  (tmax)  is  about  1.5 hours  and 1.0 hour for abacavir and lamivudine, respectively. Following a single dose of 600 mg of abacavir, the mean (CV) Cmax is 4.26 µg/mL (28%) and the mean (CV) AUC ∞ is 11.95 µg.h/mL (21%). Following multiple-dose  oral  administration  of  lamivudine  300 mg  once  daily  for  seven  days,  the  mean  (CV) steady-state Cmax is 2.04 µg/mL (26%) and the mean (CV) AUC24 is 8.87 µg.h/mL (21%).
+Abacavir and lamivudine are rapidly and well absorbed from the gastro-intestinal tract following oral administration. The absolute bioavailability of oral abacavir and lamivudine in adults is about 83% and 80-85% respectively.  The  mean time  to maximal  serum  concentrations  (tmax)  is  about  1.5 hours  and 1.0 hour for abacavir and lamivudine, respectively. Following a single dose of 600 mg of abacavir, the mean (CV) Cmax is 4.26 µg/mL (28%) and the mean (CV) AUC  is 11.95 µg.h/mL (21%). Following multiple-dose  oral  administration  of  lamivudine  300 mg  once  daily  for  seven  days,  the  mean  (CV) steady-state Cmax is 2.04 µg/mL (26%) and the mean (CV) AUC24 is 8.87 µg.h/mL (21%).
 
 ## Distribution
 
@@ -625,7 +624,7 @@ Data show that abacavir and lamivudine penetrate the central nervous system (CNS
 
 ## Biotransformation
 
-Abacavir is primarily metabolised by the liver with approximately 2% of the administered dose being renally excreted, as unchanged compound. The primary pathways of metabolism in man are by alcohol dehydrogenase and by glucuronidation to produce the 5'-carboxylic acid and 5'-glucuronide which account for about 66% of the administered dose. These metabolites are excreted in the urine.
+Abacavir is primarily metabolised by the liver with approximately 2% of the administered dose being renally excreted, as unchanged compound. The primary pathways of metabolism in man are by alcohol dehydrogenase and by glucuronidation to produce the 5' -car boxylic acid and 5' -glucuronide which account for about 66% of the administered dose. These metabolites are excreted in the urine.
 
 Metabolism of lamivudine is a minor route of elimination. Lamivudine is predominately cleared by renal excretion of unchanged lamivudine. The likelihood of metabolic drug interactions with lamivudine is low due to the small extent of hepatic metabolism (5-10%).
 
@@ -639,7 +638,7 @@ The observed lamivudine half-life of elimination is 18 to 19 hours. The mean sys
 
 ## Intracellular pharmacokinetics
 
-In a study of 20 HIV-infected patients receiving abacavir 300 mg twice daily, with only one 300 mg dose taken prior to the 24 hour sampling period, the geometric mean terminal carbovir-TP intracellular half-life at steady-state was 20.6 hours, compared to the geometric mean abacavir plasma half-life in this study of 2.6 hours. In a crossover study in 27 HIV-infected patients, intracellular carbovir-TP exposures were higher for the abacavir 600 mg once daily regimen (AUC24,ss  + 32%, Cmax24,ss + 99% and Ctrough + 18%) compared to the 300 mg twice daily regimen. For patients receiving lamivudine 300 mg once daily, the terminal intracellular half-life of lamivudine-TP and the plasma lamivudine half-life were similar (16-19 hours and 18-19 hours respectively). In a crossover study in 60 healthy volunteers, intracellular lamivudine-TP pharmacokinetic parameters were similar (AUC24,ss and Cmax24,ss) or lower (Ctrough - 24%) for the lamivudine 300 mg once daily regimen compared to the lamivudine 150 mg twice daily regimen. Overall, these data support the use of lamivudine 300 mg and abacavir 600 mg once daily for the treatment of HIV-infected patients. Additionally, the efficacy and safety of this combination given once daily has been demonstrated in a pivotal clinical study (CNA30021- See Clinical experience).
+In a study of 20 HIV-infected patients receiving abacavir 300 mg twice daily, with only one 300 mg dose taken prior to the 24 hour sampling period, the geometric mean terminal carbovir-TP intracellular half-life at steady-state was 20.6 hours, compared to the geometric mean abacavir plasma half-life in this study of 2.6 hours. In a crossover study in 27 HIV-infected patients, intracellular carbovir-TP exposures were higher for the abacavir 600 mg once daily regimen (AUC24,ss  + 32%, Cmax24,ss + 99% and Ctrough + 18%) compared to the 300 mg twice daily regimen. For patients receiving lamivudine 300 mg once daily, the terminal intracellular half-life of lamivudine-TP and the plasma lamivudine half-life were similar (16-19 hours and 18-19 hours respectively). In a crossover study in 60 healthy volunteers, intracellular lamivudine-TP pharmacokinetic parameters were similar (AUC24,ss and Cmax24,ss) or lower (Ctrough -24%) for the lamivudine 300 mg once daily regimen compared to the lamivudine 150 mg twice daily regimen. Overall, these data support the use of lamivudine 300 mg and abacavir 600 mg once daily for the treatment of HIV-infected patients. Additionally, the efficacy and safety of this combination given once daily has been demonstrated in a pivotal clinical study (CNA30021- See Clinical experience).
 
 ## Special patient populations
 
@@ -780,7 +779,7 @@ Glaxo Wellcome S.A., Avenida de Extremadura 3, 09400 Aranda de Duero Burgos, Spa
 
 Medicinal product subject to restricted medical prescription (See Annex I: Summary of Product Characteristics, 4.2)
 
-## C.       OTHER CONDITIONS AND REQUIREMENTS OF THE MARKETING AUTHORISATION
+## C. OTHER CONDITIONS AND REQUIREMENTS OF THE MARKETING AUTHORISATION
 
 ## · Periodic safety update reports (PSURs)
 
@@ -796,6 +795,12 @@ An updated RMP should be submitted:
 
 - At the request of the European Medicines Agency;
 - Whenever the risk management system is modified, especially as the result of new information being received that may lead to a significant change to the benefit/risk profile or as the result of an important (pharmacovigilance or risk minimisation) milestone being reached.
+
+## · Additional risk minimisation measures
+
+## Abacavir Hypersensitivity
+
+An 'Alert' card is included in every pack of an ABC containing product, which patients should carry with them at all times. This describes the symptoms of the allergic reaction and warns patients that these reactions can be life-threatening if treatment with an ABC containing product is continued. The alert card also warns the patient that if treatment with an ABC containing product is discontinued due to these type of reactions, then the patient must never take an ABC containing product or any other medicine containing ABC again as it could result in a life-threatening lowering of blood pressure or death.
 
 <div style=\"page-break-after: always\"></div>
 
@@ -851,13 +856,9 @@ WARNING! In case of any symptoms suggesting hypersensitivity reactions, contact 
 
 EXP
 
-<div style=\"page-break-after: always\"></div>
-
-<!-- image -->
-
 ## 9. SPECIAL STORAGE CONDITIONS
 
-Do not store above 30 ° C
+Do not store above 30  C
 
 10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
 
@@ -896,6 +897,10 @@ PC:
 SN:
 
 NN:
+
+<div style=\"page-break-after: always\"></div>
+
+<!-- image -->
 
 <div style=\"page-break-after: always\"></div>
 
@@ -939,11 +944,7 @@ EXP
 
 ## 9. SPECIAL STORAGE CONDITIONS
 
-<div style=\"page-break-after: always\"></div>
-
-<!-- image -->
-
-10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
+## 10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
@@ -981,9 +982,15 @@ NN:
 
 <div style=\"page-break-after: always\"></div>
 
+<!-- image -->
+
+<div style=\"page-break-after: always\"></div>
+
 ## PARTICULARS TO APPEAR ON THE OUTER PACKAGING
 
-Multipacks of 90 (3 packs of 30 film-coated tablets) - without blue box OUTER CARTON BLISTER PACK
+Multipacks of 90 (3 packs of 30 film-coated tablets) -without blue box -
+
+OUTER CARTON BLISTER PACK
 
 30 TABLETS
 
@@ -1029,13 +1036,11 @@ WARNING! In case of any symptoms suggesting hypersensitivity reactions, contact 
 
 EXP
 
-| 9.   | SPECIAL STORAGE CONDITIONS   |
-|------|------------------------------|
+## 9. SPECIAL STORAGE CONDITIONS
 
-Do not store above 30 ° C
+Do not store above 30  C
 
-| 10.   | SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS ORWASTEMATERIALS DERIVEDFROMSUCH MEDICINAL PRODUCTS, IF APPROPRIATE   |
-|-------|-------------------------------------------------------------------------------------------------------------------------------------|
+10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
@@ -1052,15 +1057,12 @@ Medicinal product subject to medical prescription
 
 ## 15. INSTRUCTIONS ON USE
 
-| 16. INFORMATION IN BRAILLE   |
-|------------------------------|
+16.     INFORMATION IN BRAILLE
 
 kivexa
 
-17. UNIQUE IDENTIFIER - 2D BARCODE
-
-| 18.   | UNIQUE IDENTIFIER-HUMANREADABLE DATA   |
-|-------|----------------------------------------|
+17. UNIQUE IDENTIFIER -2D BARCODE
+18. UNIQUE IDENTIFIER -HUMAN READABLE DATA
 
 <div style=\"page-break-after: always\"></div>
 
@@ -1071,8 +1073,8 @@ kivexa
 
 Kivexa 600 mg/300 mg tablets. abacavir/lamivudine
 
-| 2.   | NAMEOFTHEMARKETING AUTHORISATION HOLDER   |
-|------|-------------------------------------------|
+| 2.   | NAMEOFTHEMARKETINGAUTHORISATION HOLDER   |
+|------|------------------------------------------|
 
 ViiV Healthcare BV
 
@@ -1097,16 +1099,18 @@ Lot
 
 ## IMPORTANT  -  ALERT CARD Kivexa (abacavir / lamivudine) tablets Carry this card with you at all times
 
-Since Kivexa contains abacavir some patients taking Kivexa may develop a hypersensitivity reaction
+Since Kivexa contains abacavir some patients taking Kivexa may develop a hypersensitivity reaction (serious allergic reaction) which can be life-threatening if treatment with Kivexa is continued.
 
-(serious allergic reaction) which can be life-threatening if treatment with Kivexa is continued. CONTACT YOUR DOCTOR IMMEDIATELY for advice on whether you should stop taking Kivexa if:
+CONTACT YOUR DOCTOR IMMEDIATELY for advice on whether you should stop taking
+
+Kivexa if:
 
 - 1) you get a skin rash OR
 - 2) you get one or more symptoms from at least TWO of the following groups
 3. -fever
-4. -shortness of breath, sore throat or cough
-5. -nausea or vomiting or diarrhoea or abdominal pain
-6. -severe tiredness or achiness or generally feeling ill
+4. ­ shortness of breath, sore throat or cough
+5. ­ nausea or vomiting or diarrhoea or abdominal pain
+6. ­ severe tiredness or achiness or generally feeling ill
 
 If you have discontinued Kivexa due to this reaction, YOU MUST NEVER TAKE Kivexa, or any medicine containing abacavir (e.g. Ziagen,Triumeq or Trizivir) again as within hours you may experience a life-threatening lowering of your blood pressure or death.
 
@@ -1143,7 +1147,7 @@ For general Kivexa information enquiries, contact [local company name and teleph
 - -This medicine has been prescribed for you only. Do not pass it on to others. It may harm them, even if their signs of illness are the same as yours.
 - -If you get any side effects talk to your doctor or pharmacist. This includes any possible side effects not listed in this leaflet. See section 4.
 
-## IMPORTANT - Hypersensitivity reactions
+## IMPORTANT -Hypersensitivity reactions
 
 Kivexa contains abacavir (which is also an active substance in medicines such as Trizivir, Triumeq and Ziagen ). Some people who take abacavir may develop a hypersensitivity reaction (a serious allergic reaction), which can be life-threatening if they continue to take abacavir containing products. You must carefully read all the information under 'Hypersensitivity reactions' in the panel in Section 4 .
 
@@ -1160,7 +1164,7 @@ The Kivexa pack includes an Alert Card , to remind you and medical staff about a
 
 ## 1. What Kivexa is and what it is used for
 
-## Kivexa is used to treat HIV (human immunodeficiency virus) infection in adults, adolescents and in children weighing at least 25 kg.
+Kivexa is used to treat HIV (human immunodeficiency virus) infection in adults, adolescents and in children weighing at least 25 kg.
 
 Kivexa contains two active ingredients that are used to treat HIV infection: abacavir and lamivudine. These belong to a group of anti-retroviral medicines called nucleoside analogue reverse transcriptase inhibitors (NRTIs) .
 
@@ -1174,7 +1178,7 @@ Not everyone responds to treatment with Kivexa in the same way. Your doctor will
 
 ## Do not take Kivexa:
 
-- if you are allergic (hypersensitive) to abacavir (or any other medicine containing abacavir (e.g. Trizivir, Triumeq or Ziagen ), lamivudine or any of the other ingredients of this medicine (listed in Section 6)
+- if you are allergic (hypersensitive) to abacavir (or any other medicine containing abacavir -(e.g. Trizivir, Triumeq or Ziagen ), lamivudine or any of the other ingredients of this medicine (listed in Section 6)
 
 Carefully read all the information about hypersensitivity reactions in Section 4 Check with your doctor if you think this applies to you. Do not take Kivexa Take special care with Kivexa
 
@@ -1183,7 +1187,7 @@ Carefully read all the information about hypersensitivity reactions in Section 4
 Some people taking Kivexa or other combination treatments for HIV are more at risk of serious side effects. You need to be aware of the extra risks:
 
 - if you have moderate or severe liver disease
-- if you have ever had liver disease, including hepatitis B or C (if you have hepatitis B infection, do not stop Kivexa without your doctor's advice, as your hepatitis may come back)
+- if you have ever had liver disease, including hepatitis B or C (if you have hepatitis B infection, do no t stop Kivexa without your doctor's advice, as your hepatitis may come back)
 - if you are seriously overweight (especially if you are a woman)
 - if you have a kidney problem
 
@@ -1191,7 +1195,7 @@ Talk to your doctor if any of these apply to you before using Kivexa. You may ne
 
 ## Abacavir hypersensitivity reactions
 
-Even patients who don't have the HLA-B*5701 gene may still develop a hypersensitivity reaction (a serious allergic reaction)
+Even patients who don't have the HLA -B*5701 gene may still develop a hypersensitivity reaction (a serious allergic reaction)
 
 Carefully read all the information about hypersensitivity reactions in Section 4 of this leaflet.
 
@@ -1264,11 +1268,11 @@ Talk to your doctor about your ability to drive or operate machines while taking
 
 Kivexa contains a colouring called sunset yellow (E110), this may cause allergic reactions in some people.
 
-This medicine contains less than 1 mmol sodium (23 mg) per dosage unit, that is to say essentially 'sodium-free'.
-
-## 3. How to take Kivexa
+This medicine contains less than 1 mmol sodium (23 mg) per dosage unit, that is to say essentially 'sodium -free'.
 
 <div style=\"page-break-after: always\"></div>
+
+## 3. How to take Kivexa
 
 Always take this medicine exactly as your doctor has told you . Check with your doctor or pharmacist if you are not sure.
 
@@ -1294,7 +1298,7 @@ It is important to take Kivexa regularly, because if you take it at irregular in
 
 ## If you have stopped taking Kivexa
 
-If you have stopped taking Kivexa for any reason - especially because you think you are having side effects, or because you have other illness:
+If you have stopped taking Kivexa for any reason -especially because you think you are having side effects, or because you have other illness:
 
 Talk to your doctor before you start taking it again . Your doctor will check whether your symptoms were related to a hypersensitivity reaction. If the doctor thinks they may have been related, you will be told never again to take Kivexa, or any other medicine containing abacavir (e.g.Trizivir, Triumeq or Ziagen) . It is important that you follow this advice.
 
@@ -1308,7 +1312,7 @@ Like all medicines, this medicine can cause side effects, although not everyone 
 
 When you are being treated for HIV, it can be hard to tell whether a symptom is a side effect of Kivexa or other medicines you are taking, or an effect of the HIV disease itself. So it is very important to talk to your doctor about any changes in your health .
 
-Even patients who don't have the HLA-B*5701 gene may still develop a hypersensitivity reaction (a serious allergic reaction), described in this leaflet in the panel headed 'Hypersensitivity reactions'.
+Even patients who don't have the HLA -B*5701 gene may still develop a hypersensitivity reaction (a serious allergic reaction), described in this leaflet in the panel headed ' H ypersensitivity reactions'.
 
 It is very important that you read and understand the information about this serious reaction .
 
@@ -1359,7 +1363,7 @@ Hypersensitivity reactions can start at any time during treatment with Kivexa, b
 - -nausea or vomiting, diarrhoea or abdominal pain
 - -severe tiredness or achiness, or generally feeling ill.
 
-Your doctor may advise you to stop taking Kivexa.
+## Your doctor may advise you to stop taking Kivexa.
 
 <div style=\"page-break-after: always\"></div>
 
@@ -1367,7 +1371,7 @@ Your doctor may advise you to stop taking Kivexa.
 
 If you have stopped taking Kivexa because of a hypersensitivity reaction, you must NEVER AGAIN take Kivexa, or any other medicine containing abacavir (e.g. Trizivir, Triumeq or Ziagen) . If you do, within hours, your blood pressure could fall dangerously low, which could result in death.
 
-If you have stopped taking Kivexa for any reason - especially because you think you are having side effects, or because you have other illness:
+If you have stopped taking Kivexa for any reason -especially because you think you are having side effects, or because you have other illness:
 
 Talk to your doctor before you start again . Your doctor will check whether your symptoms were related to a hypersensitivity reaction. If the doctor thinks they may have been, you will then be told never again to take Kivexa, or any other medicine containing abacavir (e.g. Trizivir, Triumeq or Ziagen) . It is important that you follow this advice.
 
@@ -1431,8 +1435,8 @@ These may affect up to 1 in 10,000 people:
 
 - numbness, tingly feelings in the skin (pins and needles)
 - sensation of weakness in the limbs
-- skin rash, which may form blisters and  looks like small targets (central dark spots surrounded by a paler area, with a dark ring around the edge) (erythema multiforme)
-- a widespread rash with blisters and peeling skin, particularly around the mouth, nose, eyes and genitals (Stevens-Johnson syndrome) , and a more severe form causing skin peeling in more than 30% of the body surface (toxic epidermal necrolysis) .
+- skin rash, which may form blisters and looks like small targets (central dark spots surrounded by a paler area, with a dark ring around the edge) (erythema multiforme)
+- a widespread rash with blisters and peeling skin, particularly around the mouth, nose, eyes and genitals (Stevens -Johnson syndrome) , and a more severe form causing skin peeling in more than 30% of the body surface (toxic epidermal necrolysis) .
 - lactic acidosis (excess lactic acid in the blood)
 
 ## If you notice any of these symptoms contact a doctor urgently .
@@ -1501,7 +1505,7 @@ Keep this medicine out of the sight and reach of children.
 
 Do not take this medicine after the expiry date shown on the carton. The expiry date refers to the last day of that month.
 
-Do not store above 30 ° C.
+Do not store above 30  C.
 
 Do not throw away any medicines via wastewater or household waste. Ask your pharmacist how to throw away medicines you no longer use. These measures will help protect the environment.
 
@@ -1517,7 +1521,7 @@ The other ingredients are microcrystalline cellulose, sodium starch glycollate a
 
 ## What Kivexa looks like and contents of the pack
 
-Kivexa film-coated tablets are engraved with 'GS FC2' on one side. They are orange and capsuleshaped and are provided in blister packs containing 30 tablets and multipack blister packs containing 90(3 x 30) tablets.
+Kivexa filmcoated tablets are engraved with 'GS FC2' on one side. They are orange and capsule -shaped and are provided in blister packs containing 30 tablets and multipack blister packs containing 90(3 x 30) tablets.
 
 ## Marketing Authorisation Holder
 
@@ -1627,9 +1631,7 @@ Laboratorios ViiV Healthcare, S.L. Tel: +34 900 923 501 es-ci@viivhealthcare.com
 
 ## France
 
-ViiV Healthcare SAS Tél.: + 33 (0)1 39 17 6969
-
-Infomed@viivhealthcare.com
+ViiV Healthcare SAS Tél.: + 33 (0)1 39 17 6969 Infomed@viivhealthcare.com
 
 ## Hrvatska
 
@@ -1669,9 +1671,7 @@ ViiV Healthcare BV Tel: + 371 80205045
 
 ## This leaflet was last revised in {MM/YYYY}
 
-Detailed information on this medicine is available on the European Medicines Agency web site:
-
-http://www.ema.europa.eu
+Detailed information on this medicine is available on the European Medicines Agency web site: http://www.ema.europa.eu
 
 ## Polska
 
@@ -1691,9 +1691,7 @@ ViiV Healthcare BV Tel: + 40800672524
 
 ## Slovenija
 
-ViiV Healthcare BV
-
-Tel: + 386 80688869
+ViiV Healthcare BV Tel: + 386 80688869
 
 ## Slovenská republika
 
@@ -1710,29 +1708,3 @@ Puh/Tel: + 358 (0)10 30 30 30
 ## Sverige
 
 GlaxoSmithKline AB Tel: + 46 (0)8 638 93 00 info.produkt@gsk.com
-
-## United Kingdom (Northern Ireland)
-
-ViiV Healthcare BV Tel: + 44 (0)800 221441 customercontactuk@gsk.com
-
-<div style=\"page-break-after: always\"></div>
-
-## ANNEX IV
-
-## SCIENTIFIC CONCLUSIONS AND GROUNDS FOR THE VARIATION TO THE TERMS OF THE MARKETING AUTHORISATION(S)
-
-<div style=\"page-break-after: always\"></div>
-
-## Scientific conclusions
-
-Taking into account the PRAC Assessment Report on the PSUR(s) for abacavir / lamivudine, the scientific conclusions of PRAC are as follows:
-
-In view of available data on cardiovascular events from the literature regarding abacavir, including a plausible  mechanism  of  action,  the  PRAC  considers  that  the  warnings  and  precautions  for  use  of products containing abacavir need to be revised to adequately reflect the current level of information on cardiovascular events and, in line with the current therapeutic guidelines, that a recommendation discouraging the use of abacavir containing products in patients with high cardiovascular risk should also  be  included in  the  product information.  The  PRAC  concluded  that the product information of products containing abacavir/ lamivudine should be amended accordingly.
-
-Having reviewed the PRAC recommendation, the CHMP agrees with the PRAC overall conclusions and grounds for recommendation.
-
-## Grounds for the variation to the terms of the marketing authorisation(s)
-
-On the basis of the scientific conclusions for abacavir / lamivudine the CHMP is of the opinion that the benefit-risk balance of the medicinal product(s) containing abacavir / lamivudine is unchanged subject to the proposed changes to the product information
-
-The CHMP recommends that the terms of the marketing authorisation(s) should be varied.

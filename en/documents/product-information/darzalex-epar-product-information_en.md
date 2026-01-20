@@ -1,18 +1,18 @@
 ---
-document_datetime: 2025-10-27 13:03:14
+document_datetime: 2026-01-19 12:47:40
 document_pages: 114
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/darzalex-epar-product-information_en.pdf
 document_name: darzalex-epar-product-information_en.pdf
 version: success
-processing_time: 43.7792658
-conversion_datetime: 2025-12-24 02:24:08.582774
+processing_time: 53.3862549
+conversion_datetime: 2026-01-20 20:19:29.973065
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.64.1
-  docling-core: 2.55.0
+  docling-serve: 1.10.0
+  docling-jobkit: 1.8.1
+  docling: 2.69.0
+  docling-core: 2.60.0
   docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-parse: 4.7.3
   python: cpython-313 (3.13.11)
   plaform: macOS-26.2-arm64-arm-64bit-Mach-O
 ---
@@ -77,10 +77,6 @@ Table 1: DARZALEX dosing schedule in combination with lenalidomide and dexametha
 | Weeks 9 to 24 a                             | every two weeks (total of 8 doses) |
 | Week 25 onwards until disease progression b | every four weeks                   |
 
-a First dose of the every-2-week dosing schedule is given at week 9.
-
-b First dose of the every-4-week dosing schedule is given at week 25.
-
 Dexamethasone should be administered at 40 mg/week (or a reduced dose of 20 mg/week for patients &gt; 75 years).
 
 For dose and schedule of medicinal products administered with DARZALEX, see section 5.1 and the corresponding Summary of Product Characteristics.
@@ -94,10 +90,6 @@ Table 2: DARZALEX dosing schedule in combination with bortezomib, melphalan and 
 | Weeks 1 to 6                                | weekly (total of 6 doses)             |
 | Weeks 7 to 54 a                             | every three weeks (total of 16 doses) |
 | Week 55 onwards until disease progression b | every four weeks                      |
-
-a First dose of the every-3-week dosing schedule is given at week 7.
-
-b First dose of the every-4-week dosing schedule is given at week 55.
 
 Bortezomib is given twice weekly at weeks 1, 2, 4 and 5 for the first 6-week cycle, followed by once weekly at weeks 1, 2, 4 and 5 for eight more 6-week cycles. For information on the VMP dose and dosing schedule when administered with DARZALEX, see section 5.1.
 
@@ -114,10 +106,6 @@ Table 3: DARZALEX dosing schedule in combination with bortezomib, thalidomide an
 | Stop for high dose chemotherapy and ASCT | Stop for high dose chemotherapy and ASCT | Stop for high dose chemotherapy and ASCT |
 | Consolidation                            | Weeks 1 to 8 b                           | every two weeks (total of 4 doses)       |
 
-a First dose of the every-2-week dosing schedule is given at week 9.
-
-b First dose of the every-2-week dosing schedule is given at week 1 upon re-initiation of treatment following ASCT.
-
 <div style=\"page-break-after: always\"></div>
 
 Dexamethasone should be administered at 40 mg on days 1, 2, 8, 9, 15, 16, 22 and 23 of cycles 1 and 2, and at 40 mg on days 1-2 and 20 mg on subsequent dosing days (days 8, 9, 15, 16) of cycles 3-4. Dexamethasone 20 mg should be administered on days 1, 2, 8, 9, 15, 16 in cycles 5 and 6.
@@ -133,10 +121,6 @@ Table 4: DARZALEX dosing schedule in combination with bortezomib and dexamethaso
 | Weeks 1 to 9                                | weekly (total of 9 doses)            |
 | Weeks 10 to 24 a                            | every three weeks (total of 5 doses) |
 | Week 25 onwards until disease progression b | every four weeks                     |
-
-a First dose of the every-3-week dosing schedule is given at week 10.
-
-b First dose of the every-4-week dosing schedule is given at week 25.
 
 Dexamethasone should be administered at 20 mg on days 1, 2, 4, 5, 8, 9, 11 and 12 of the first 8 bortezomib treatment cycles or a reduced dose of 20 mg/week for patients &gt; 75 years, underweight (BMI &lt; 18.5), poorly controlled diabetes mellitus or prior intolerance to steroid therapy.
 
@@ -160,12 +144,6 @@ Table 5: Infusion rates for DARZALEX (16 mg/kg) administration
 | Week 1 day 2 (8 mg/kg)                            | 500 mL            | 50 mL/hour                  | 50 mL/hour every hour | 200 mL/hour    |
 | Week 2 (16 mg/kg)infusion b                       | 500 mL            | 50 mL/hour                  | 50 mL/hour every hour | 200 mL/hour    |
 | Subsequent (week 3 onwards, 16 mg/kg) infusions c | 500 mL            | 100 mL/hour                 | 50 mL/hour every hour | 200 mL/hour    |
-
-a Incremental escalation of the infusion rate should be considered only in the absence of infusion reactions.
-
-b A dilution volume of 500 mL for the 16 mg/kg dose should be used only if there were no IRRs the previous week. Otherwise, use a dilution volume of 1000 mL.
-
-c A modified initial rate (100 mL/hour) for subsequent infusions (i.e. week 3 onwards) should only be used only if there were no IRRs during the previous infusion. Otherwise, continue to use instructions indicated in the table for the week 2 infusion rate.
 
 ## Management of infusion-related reactions
 
@@ -734,10 +712,6 @@ Table 10: IRC assessed efficacy results for study MMY2002
 | Median duration of response [months (95% CI)]                    | 7.4 (5.5, NE)             |
 | Median time to response [months (range)]                         | 1 (0.9; 5.6)              |
 
-1 Primary efficacy endpoint (International Myeloma Working Group criteria).
-
-CI=confidence interval; NE=not estimable; MR=minimal response.
-
 Overall response rate (ORR) in MMY2002 was similar regardless of type of prior anti-myeloma therapy.
 
 At a survival update with a median duration of follow-up of 14.7 months, median OS was 17.5 months (95% CI: 13.7, not estimable).
@@ -1093,10 +1067,6 @@ Table 1: DARZALEX dosing schedule in combination with lenalidomide and dexametha
 | Weeks 9 to 24 a                             | every two weeks (total of 8 doses) |
 | Week 25 onwards until disease progression b | every four weeks                   |
 
-a First dose of the every-2-week dosing schedule is given at week 9.
-
-b First dose of the every-4-week dosing schedule is given at week 25.
-
 Dexamethasone should be administered at 40 mg/week (or a reduced dose of 20 mg/week for patients &gt; 75 years).
 
 For dose and schedule of medicinal products administered with DARZALEX solution for subcutaneous injection, see section 5.1 and the corresponding Summary of Product Characteristics.
@@ -1115,10 +1085,6 @@ Table 2: DARZALEX dosing schedule in combination with bortezomib, melphalan and 
 | Weeks 7 to 54 a                             | every three weeks (total of 16 doses) |
 | Week 55 onwards until disease progression b | every four weeks                      |
 
-a First dose of the every-3-week dosing schedule is given at week 7.
-
-b First dose of the every-4-week dosing schedule is given at week 55.
-
 Bortezomib is given twice weekly at weeks 1, 2, 4 and 5 for the first 6-week cycle, followed by once weekly at weeks 1, 2, 4 and 5 for eight more 6-week cycles. For information on the VMP dose and dosing schedule when administered with DARZALEX solution for subcutaneous injection, see section 5.1.
 
 Dosing schedule in combination with bortezomib, thalidomide and dexamethasone (4-week cycle regimens) for treatment of newly diagnosed patients eligible for autologous stem cell transplant (ASCT)
@@ -1133,10 +1099,6 @@ Table 3: DARZALEX dosing schedule in combination with bortezomib, thalidomide an
 |                                          | Weeks 9 to 16 a                          | every two weeks (total of 4 doses)       |
 | Stop for high dose chemotherapy and ASCT | Stop for high dose chemotherapy and ASCT | Stop for high dose chemotherapy and ASCT |
 | Consolidation                            | Weeks 1 to 8 b                           | every two weeks (total of 4 doses)       |
-
-a First dose of the every-2-week dosing schedule is given at week 9.
-
-b First dose of the every-2-week dosing schedule is given at week 1 upon re-initiation of treatment following ASCT.
 
 Dexamethasone should be administered at 40 mg on days 1, 2, 8, 9, 15, 16, 22 and 23 of cycles 1 and 2, and at 40 mg on days 1-2 and 20 mg on subsequent dosing days (days 8, 9, 15, 16) of cycles 3-4. Dexamethasone 20 mg should be administered on days 1, 2, 8, 9, 15, 16 in cycles 5 and 6.
 
@@ -1158,12 +1120,6 @@ Table 4: DARZALEX dosing schedule in combination with bortezomib, lenalidomide a
 | Consolidation                            | Weeks 17 to 24 b                            | every two weeks (total of 4 doses)       |
 | Maintenance                              | Week 25 onwards until disease progression c | every four weeks                         |
 
-a First dose of the every-2-week dosing schedule is given at week 9.
-
-b Week 17 corresponds to re-initiation of treatment following recovery from ASCT.
-
-c DARZALEX can be discontinued for patients who have achieved MRD negativity that is sustained for 12 months and have been treated on maintenance for at least 24 months.
-
 Dexamethasone should be administered at 40 mg on days 1-4 and days 9-12 of each 28-day cycle during induction and consolidation (cycles 1-6).
 
 For dose and schedule of medicinal products administered with DARZALEX solution for subcutaneous injection, see section 5.1 and the corresponding Summary of Product Characteristics.
@@ -1180,10 +1136,6 @@ Table 5: DARZALEX dosing schedule in combination with bortezomib, lenalidomide a
 | Weeks 7 to 24 a                             | every three weeks (total of 6 doses) |
 | Week 25 onwards until disease progression b | every four weeks                     |
 
-a First dose of the every-3-week dosing schedule is given at week 7.
-
-b First dose of the every-4-week dosing schedule is given at week 25.
-
 Dexamethasone should be administered at 20 mg on days 1, 2, 4, 5, 8, 9, 11, and 12 of each 21-day cycle of cycles 1-8. For patients &gt; 75 years or underweight (BMI &lt; 18.5), dexamethasone may be administered at 20 mg on days 1, 4, 8, and 11.
 
 For dose and schedule of medicinal products administered with DARZALEX solution for subcutaneous injection, see section 5.1 and the corresponding Summary of Product Characteristics.
@@ -1199,10 +1151,6 @@ Table 6: DARZALEX dosing schedule in combination with bortezomib and dexamethaso
 | Weeks 1 to 9                                | weekly (total of 9 doses)            |
 | Weeks 10 to 24 a                            | every three weeks (total of 5 doses) |
 | Week 25 onwards until disease progression b | every four weeks                     |
-
-a First dose of the every-3-week dosing schedule is given at week 10.
-
-b First dose of the every-4-week dosing schedule is given at week 25.
 
 <div style=\"page-break-after: always\"></div>
 
@@ -1241,12 +1189,6 @@ Table 8: DARZALEX dosing schedule for AL amyloidosis in combination with bortezo
 | Weeks 1 to 8                                | weekly (total of 8 doses)          |
 | Weeks 9 to 24 b                             | every two weeks (total of 8 doses) |
 | Week 25 onwards until disease progression c | every four weeks                   |
-
-a In the clinical study, DARZALEX was given until disease progression or a maximum of 24 cycles (~ 2 years) from the first dose of study treatment.
-
-b First dose of the every-2-week dosing schedule is given at week 9.
-
-c First dose of the every-4-week dosing schedule is given at week 25.
 
 For dose and schedule of medicinal products administered with DARZALEX solution for subcutaneous injection, see section 5.1 and the corresponding Summary of Product Characteristics.
 
@@ -1684,12 +1626,6 @@ Table 10: Key results from study MMY3012
 | Progression-free survival, months          |                                    |                                   |
 | Median (95% CI)                            | 5.59 (4.67, 7.56)                  | 6.08 (4.67, 8.31)                 |
 | Hazard ratio (95% CI)                      |                                    | 0.99 (0.78, 1.26)                 |
-
-a Based on intent-to-treat population.
-
-b p-value &lt; 0.0001 from Farrington-Manning test for non-inferiority hypothesis.
-
-c Based on safety population. P-value&lt; 0.0001 from Cochran-Mantel-Haenszel Chi-Squared test.
 
 After a median follow-up of 29.3 months, the median OS was 28.2 months (95% CI: 22.8, NE) in the DARZALEX subcutaneous formulation arm and was 25.6 months (95% CI: 22.1, NE) in the intravenous daratumumab arm.
 
@@ -2169,8 +2105,6 @@ Table 20: IRC assessed efficacy results for study MMY2002
 | Clinical benefit rate (ORR+MR) [n (%)]                           | 36 (34.0)                                |
 | Median duration of response [months (95% CI)]                    | 7.4 (5.5, NE)                            |
 | Median time to response [months (range)]                         | 1 (0.9; 5.6)                             |
-
-1 Primary efficacy endpoint (International Myeloma Working Group criteria).
 
 CI=confidence interval; NE=not estimable; MR=minimal response.
 
@@ -3781,11 +3715,13 @@ Janssen-Cilag International NV Turnhoutseweg 30 B-2340 Beerse Belgium
 
 Janssen Biologics B.V. Einsteinweg 101 NL-2333 CB Leiden The Netherlands
 
+## Janssen Pharmaceutica NV
+
+Turnhoutseweg 30 B-2340 Beerse Belgium
+
 For any information about this medicine, please contact the local representative of the Marketing Authorisation Holder:
 
-## België/Belgique/Belgien
-
-Janssen-Cilag NV Tel/Tél: +32 14 64 94 11 janssen@jacbe.jnj.com
+België/Belgique/Belgien Janssen-Cilag NV Tel/Tél: +32 14 64 94 11 janssen@jacbe.jnj.com
 
 ## Lietuva
 
@@ -3799,19 +3735,13 @@ UAB 'JOHNSON &amp; JOHNSON' Tel: +370 5 278 68 88 lt@its.jnj.com
 
 Janssen-Cilag NV Tél/Tel: +32 14 64 94 11 janssen@jacbe.jnj.com
 
+<div style=\"page-break-after: always\"></div>
+
 ## Česká republika
 
 Janssen-Cilag s.r.o.
 
 Tel: +420 227 012 227
-
-## Magyarország
-
-Janssen-Cilag Kft. Tel.: +36 1 884 2858
-
-janssenhu@its.jnj.com
-
-<div style=\"page-break-after: always\"></div>
 
 ## Danmark
 
@@ -3851,11 +3781,13 @@ Janssen-Cilag AB c/o Vistor ehf. Sími: +354 535 7000 janssen@vistor.is
 
 ## Italia
 
-Janssen-Cilag SpA Tel: 800.688.777 / +39 02 2510 1 janssenita@its.jnj.com
+Janssen-Cilag SpA Tel: 800.688.777 / +39 02 2510 1
 
-## Κύπρος
+janssenita@its.jnj.com
 
-Βαρνάβας Χατζηπαναγής Λτδ Τηλ: +357 22 207 700
+## Magyarország
+
+Janssen-Cilag Kft. Tel.: +36 1 884 2858 janssenhu@its.jnj.com
 
 ## Malta
 
@@ -3897,13 +3829,15 @@ Johnson &amp; Johnson, s.r.o. Tel: +421 232 408 400
 
 ## Suomi/Finland
 
-Janssen-Cilag Oy Puh/Tel: +358 207 531 300 jacfi@its.jnj.com
+Puh/Tel: +358 207 531 300
 
-## Sverige
-
-Janssen-Cilag AB Tfn: +46 8 626 50 00 jacse@its.jnj.com
+Janssen-Cilag Oy jacfi@its.jnj.com
 
 <div style=\"page-break-after: always\"></div>
+
+## Κύπρος
+
+Βαρνάβας Χατζηπαναγής Λτδ Τηλ: +357 22 207 700
 
 Latvija UAB \"JOHNSON &amp; JOHNSON\" filiāle Latvijā Tel: +371 678 93561 lv@its.jnj.com
 
@@ -3935,12 +3869,16 @@ DARZALEX solution for subcutaneous injection is for single use only and is ready
 
 ## Administration
 
--  Inject 15 mL DARZALEX solution for subcutaneous injection into the subcutaneous tissue of the abdomen approximately 7.5 cm to the right or left of the navel over approximately 35 minutes. Do not inject DARZALEX solution for subcutaneous injection at other sites of the body as no data are available.
--  Injection sites should be rotated for successive injections.
--  DARZALEX solution for subcutaneous injection should never be injected into areas where the skin is red, bruised, tender, hard or areas where there are scars.
+-  Inject 15 mL DARZALEX solution for subcutaneous injection into the subcutaneous tissue of the abdomen approximately 7.5 cm to the right or left of the navel over approximately 3-
+
+Sverige Janssen-Cilag AB Tfn: +46 8 626 50 00 jacse@its.jnj.com
 
 <div style=\"page-break-after: always\"></div>
 
+5 minutes. Do not inject DARZALEX solution for subcutaneous injection at other sites of the body as no data are available.
+
+-  Injection sites should be rotated for successive injections.
+-  DARZALEX solution for subcutaneous injection should never be injected into areas where the skin is red, bruised, tender, hard or areas where there are scars.
 -  Pause or slow down delivery rate if the patient experiences pain. In the event pain is not alleviated by slowing down the injection, a second injection site may be chosen on the opposite side of the abdomen to deliver the remainder of the dose.
 -  During treatment with DARZALEX solution for subcutaneous injection, do not administer other medicinal products for subcutaneous use at the same site as DARZALEX.
 -  Any unused medicinal product or waste material should be disposed of in accordance with local requirements.

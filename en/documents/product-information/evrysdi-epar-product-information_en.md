@@ -1,18 +1,18 @@
 ---
-document_datetime: 2025-09-29 15:18:50
-document_pages: 85
+document_datetime: 2026-01-20 09:40:55
+document_pages: 83
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/evrysdi-epar-product-information_en.pdf
 document_name: evrysdi-epar-product-information_en.pdf
 version: success
-processing_time: 27.1179143
-conversion_datetime: 2025-12-29 21:29:26.841923
+processing_time: 25.3266911
+conversion_datetime: 2026-01-20 20:13:06.983116
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.66.0
-  docling-core: 2.57.0
+  docling-serve: 1.10.0
+  docling-jobkit: 1.8.1
+  docling: 2.69.0
+  docling-core: 2.60.0
   docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-parse: 4.7.3
   python: cpython-313 (3.13.11)
   plaform: macOS-26.2-arm64-arm-64bit-Mach-O
 ---
@@ -21,10 +21,6 @@ docling_version:
 ## SUMMARY OF PRODUCT CHARACTERISTICS
 
 <div style=\"page-break-after: always\"></div>
-
-<!-- image -->
-
-This medicinal product is subject to additional monitoring. This will allow quick identification of new safety information. Healthcare professionals are asked to report any suspected adverse reactions. See section 4.8 for how to report adverse reactions.
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
@@ -36,7 +32,7 @@ Each bottle contains 60 mg risdiplam in 2 g powder for oral solution.
 
 Each mL of the constituted solution contains 0.75 mg risdiplam.
 
-## Excipients with known effects
+Excipients with known effects
 
 Each mL contains 0.38 mg of sodium benzoate (E 211) and 2.97 mg of isomalt (E 953).
 
@@ -44,7 +40,9 @@ For the full list of excipients, see section 6.1.
 
 ## 3. PHARMACEUTICAL FORM
 
-Powder for oral solution. Light yellow, yellow, greyish yellow, greenish yellow, or light green powder.
+Powder for oral solution.
+
+Light yellow, yellow, greyish yellow, greenish yellow, or light green powder.
 
 ## 4. CLINICAL PARTICULARS
 
@@ -54,11 +52,11 @@ Evrysdi is indicated for the treatment of 5q spinal muscular atrophy (SMA) in pa
 
 ## 4.2 Posology and method of administration
 
-Treatment with Evrysdi should be initiated by a physician with experience in the management of SMA.
+Treatment with risdiplam should be initiated by a physician with experience in the management of SMA.
 
-Posology
+## Posology
 
-The recommended once daily dose of Evrysdi is determined by age and body weight (see Table 1).
+The recommended once daily dose of risdiplam is determined by age and body weight (see Table 1).
 
 Table 1. Evrysdi powder for oral solution dosing regimen by age and body weight
 
@@ -79,7 +77,7 @@ Treatment with a daily dose above 5 mg has not been studied.
 
 If a planned dose is missed, it should be administered as soon as possible if still within 6 hours of the scheduled dose. Otherwise, the missed dose should be skipped and the next dose should be administered at the regularly scheduled time the next day.
 
-If a dose is not fully swallowed or vomiting occurs after taking a dose of Evrysdi, another dose should not be administered to make up for the incomplete dose. The next dose should be administered at the regularly scheduled time.
+If a dose is not fully swallowed or vomiting occurs after taking a dose of risdiplam, another dose should not be administered to make up for the incomplete dose. The next dose should be administered at the regularly scheduled time.
 
 ## Elderly
 
@@ -95,7 +93,7 @@ No dose adjustment is required in patients with mild or moderate hepatic impairm
 
 ## Paediatric population
 
-Use of Evrysdi for SMA in patients 2 months of age and younger is supported by pharmacokinetic and safety data from paediatric patients 16 days and older (see sections 4.8, 5.1 and 5.2). No data on risdiplam pharmacokinetics are available in patients less than 16 days of age.
+No data on risdiplam pharmacokinetics are available in patients less than 16 days of age.
 
 ## Method of administration
 
@@ -129,11 +127,11 @@ Hypersensitivity to the active substance or to any of the excipients listed in s
 
 ## Potential embryo -foetal toxicity
 
-Embryo -foetal toxicity has been observed in animal studies (see section 5.3). Patients of reproductive potential should be informed of the risks and must use highly effective contraception during treatment and until at least 1 month after the last dose in female patients, and 4 months after the last dose in male patients. The pregnancy status of female patients of reproductive potential should be verified prior to initiating Evrysdi therapy (see section 4.6).
+Embryo -foetal toxicity has been observed in animal studies (see section 5.3). Patients of reproductive potential should be informed of the risks and must use highly effective contraception during treatment and until at least 1 month after the last dose in female patients, and 4 months after the last dose in male patients. The pregnancy status of female patients of reproductive potential should be verified prior to initiating risdiplam therapy (see section 4.6).
 
 ## Potential effects on male fertility
 
-Based on observations from animal studies, male patients should not donate sperm while on treatment and for 4 months after the last dose of Evrysdi. Prior to initiating treatment, fertility preservation strategies should be discussed with male patients of reproductive potential (see sections 4.6 and 5.3). The effects of Evrysdi on male fertility have not been investigated in humans.
+Based on observations from animal studies, male patients should not donate sperm while on treatment and for 4 months after the last dose of risdiplam. Prior to initiating treatment, fertility preservation strategies should be discussed with male patients of reproductive potential (see sections 4.6 and 5.3). The effects of risdiplam on male fertility have not been investigated in humans.
 
 ## Excipients
 
@@ -149,15 +147,13 @@ Evrysdi contains less than 1 mmol sodium (23 mg) per 5 mg dose, i.e. is essentia
 
 ## 4.5 Interaction with other medicinal products and other forms of interaction
 
-Risdiplam is primarily metabolized by hepatic enzymes flavin monooxygenase 1 and 3 (FMO1 and 3), and also by cytochrome P450 enzymes (CYPs) 1A1, 2J2, 3A4, and 3A7. Risdiplam is not a substrate of human multidrug resistance protein 1 (MDR1).
-
-<div style=\"page-break-after: always\"></div>
-
 ## Effects of other medicinal products on risdiplam
 
-Co -administration of 200 mg itraconazole twice daily, a strong CYP3A inhibitor, with a single oral dose of 6 mg risdiplam did not exhibit a clinically relevant effect on the PK parameters of risdiplam (11% increase in AUC, 9% decrease in Cmax). No dose adjustments are required when Evrysdi is co -administered with a CYP3A inhibitor.
+Co -administration of 200 mg itraconazole twice daily, a strong CYP3A inhibitor, with a single oral dose of 6 mg risdiplam did not exhibit a clinically relevant effect on the PK parameters of risdiplam (11% increase in AUC, 9% decrease in Cmax). No dose adjustments are required when risdiplam is co -administered with a CYP3A inhibitor.
 
 No drug -drug interactions are expected via the FMO1 and FMO3 pathway.
+
+<div style=\"page-break-after: always\"></div>
 
 ## Effects of risdiplam on other medicinal products
 
@@ -180,19 +176,19 @@ Male and female patients of reproductive potential should adhere to the followin
 
 ## Pregnancy testing
 
-The pregnancy status of female patients of reproductive potential should be verified prior to initiating Evrysdi therapy. Pregnant women should be clearly advised of the potential risk to the foetus.
+The pregnancy status of female patients of reproductive potential should be verified prior to initiating risdiplam therapy. Pregnant women should be clearly advised of the potential risk to the foetus.
 
 ## Pregnancy
 
-There are no data from the use of Evrysdi in pregnant women. Studies in animals have shown reproductive toxicity (see section 5.3).
+There are no data from the use of risdiplam in pregnant women. Studies in animals have shown reproductive toxicity (see section 5.3).
 
-Evrysdi is not recommended during pregnancy and in women of childbearing potential not using contraception (see section 4.4).
-
-<div style=\"page-break-after: always\"></div>
+Risdiplam is not recommended during pregnancy and in women of childbearing potential not using contraception (see section 4.4).
 
 ## Breast -feeding
 
 It is not known whether risdiplam is excreted in human breast milk. Studies in rats show that risdiplam is excreted into milk (see section 5.3). As the potential for harm to the breastfed infant is unknown, it is recommended not to breastfeed during treatment.
+
+<div style=\"page-break-after: always\"></div>
 
 ## Fertility
 
@@ -208,56 +204,51 @@ Based on nonclinical data (see section 5.3), an impact of risdiplam on female fe
 
 ## 4.7 Effects on ability to drive and use machines
 
-Evrysdi has no or negligible influence on the ability to drive and use machines.
+Risdiplam has no or negligible influence on the ability to drive and use machines.
 
 ## 4.8 Undesirable effects
 
 ## Summary of the safety profile
 
-In infantile -onset SMA patients, the most common adverse reactions observed in Evrysdi clinical studies were pyrexia (54.8%), rash (29.0%) and diarrhoea (19.4%).
+In infantile -onset SMA patients, the most common adverse reactions observed in risdiplam clinical studies were pyrexia (54.8%), rash (29.0%) and diarrhoea (19.4%).
 
-In later -onset SMA patients, the most common adverse reactions observed in Evrysdi clinical studies were pyrexia (21.7%), headache (20.0%), diarrhoea (16.7%), and rash (16.7%).
+In later -onset SMA patients, the most common adverse reactions observed in risdiplam clinical studies were pyrexia (21.7%), headache (20.0%), diarrhoea (16.7%), and rash (16.7%).
 
 The adverse reactions listed above occurred without an identifiable clinical or time pattern and generally resolved despite ongoing treatment in infantile -onset and later -onset SMA patients.
 
-Based on the primary analysis of RAINBOWFISH, the safety profile of Evrysdi in pre -symptomatic patients is consistent with the safety profile of symptomatic infantile -onset and later -onset SMA patients. The RAINBOWFISH study enrolled 26 patients with pre -symptomatic SMA between 16 and 41 days of age at the time of the first dose (weight range 3.1 to 5.7 kg). The median exposure duration was 20.4 months (range: 10.6 to 41.9 months). Limited post -marketing data are available in neonates &lt; 20 days of age.
-
-See also section 5.3 for the effects of Evrysdi observed in nonclinical studies.
-
 ## Tabulated list of adverse reactions
 
-The corresponding frequency category for each adverse drug reaction is based on the following convention: very common ( ≥ 1/10), common ( ≥ 1/100 to &lt;1/10), uncommon ( ≥ 1/1,000 to &lt;1/100), rare
+The corresponding frequency category for each adverse drug reaction is based on the following convention: very common ( ≥ 1/10), common ( ≥ 1/100 to &lt;1/10), uncommon ( ≥ 1/1,000 to &lt;1/100), rare ( ≥ 1/10,000 to &lt;1/1,000), very rare (&lt;1/10,000), not known (cannot be estimated from the available data). Adverse drug reactions from clinical studies (Table 2) are listed by MedDRA system organ class.
 
 <div style=\"page-break-after: always\"></div>
 
-( ≥ 1/10,000 to &lt;1/1,000), very rare (&lt;1/10,000). Adverse drug reactions from clinical studies (Table 2) are listed by MedDRA system organ class.
-
-Table 2. Adverse drug reactions occurring in patients with infantile -onset and later -onset SMA based on Evrysdi clinical studies
+Table 2. Adverse drug reactions occurring in patients with infantile -onset and later -onset SMA based on risdiplam clinical studies and postmarketing experience
 
 | System Organ Class                                   | Infantile - onset SMA (Type 1)                       | Later - onsetSMA (Type 2 and 3)                      |
 |------------------------------------------------------|------------------------------------------------------|------------------------------------------------------|
+| Infections and infestations                          | Infections and infestations                          | Infections and infestations                          |
+| Urinary tract infection (including cystitis)         | Common                                               | Common                                               |
+| Nervous system disorders                             | Nervous system disorders                             | Nervous system disorders                             |
+| Headache                                             | Not applicable                                       | Very common                                          |
 | Gastrointestinal disorders                           | Gastrointestinal disorders                           | Gastrointestinal disorders                           |
 | Diarrhoea                                            | Very common                                          | Very common                                          |
 | Nausea                                               | Not applicable                                       | Common                                               |
 | Mouth ulcerations and aphthous ulcers                | Common                                               | Common                                               |
 | Skin and subcutaneous tissue disorders               | Skin and subcutaneous tissue disorders               | Skin and subcutaneous tissue disorders               |
 | Rash*                                                | Very common                                          | Very common                                          |
-| Nervous system disorders                             | Nervous system disorders                             | Nervous system disorders                             |
-| Headache                                             | Not applicable                                       | Very common                                          |
-| General disorders and administration site conditions | General disorders and administration site conditions | General disorders and administration site conditions |
-| Pyrexia (including hyperpyrexia)                     | Very common                                          | Very common                                          |
-| Infections and infestations                          | Infections and infestations                          | Infections and infestations                          |
-| Urinary tract infection (including cystitis)         | Common                                               | Common                                               |
+| Cutaneous vasculitis**                               | Not known                                            | Not known                                            |
 | Musculoskeletal and connective tissue disorders      | Musculoskeletal and connective tissue disorders      | Musculoskeletal and connective tissue disorders      |
 | Arthralgia                                           | Not applicable                                       | Common                                               |
+| General disorders and administration site conditions | General disorders and administration site conditions | General disorders and administration site conditions |
+| Pyrexia (including hyperpyrexia)                     | Very common                                          | Very common                                          |
+
+## Safety profile in pre-symptomatic patients
+
+Based on the primary analysis of RAINBOWFISH, the safety profile of Evrysdi in pre -symptomatic patients is consistent with the safety profile of symptomatic infantile -onset and later -onset SMA patients. The RAINBOWFISH study enrolled 26 patients with pre -symptomatic SMA between 16 and 41 days of age at the time of the first dose (weight range 3.1 to 5.7 kg). The median exposure duration was 20.4 months (range: 10.6 to 41.9 months). Limited post -marketing data are available in neonates &lt; 20 days of age.
 
 ## Safety profile in patients previously treated with other SMA -modifying therapies
 
-Based on the primary analysis of the JEWELFISH study, the safety profile of Evrysdi in SMA treatment non -naive patients who received Evrysdi for up to 59 months (including those previously treated with nusinersen [n=76] or with onasemnogene abeparvovec [n=14]) is consistent with the safety profile in SMA treatment-naive patients treated with Evrysdi in the FIREFISH, SUNFISH and RAINBOWFISH studies (see section 5.1).
-
-## Post -marketing experience
-
-Cutaneous vasculitis was reported during post -marketing experience. Symptoms recovered after permanent discontinuation of Evrysdi. The frequency cannot be estimated based on available data.
+The safety profile of risdiplam in SMA treatment non -naive patients (including those previously treated with nusinersen or with onasemnogene abeparvovec) is consistent with the safety profile in SMA treatment-naive patients treated with risdiplam in the FIREFISH, SUNFISH and RAINBOWFISH clinical studies (see section 5.1).
 
 ## Reporting of suspected adverse reactions
 
@@ -267,7 +258,7 @@ Reporting suspected adverse reactions after authorisation of the medicinal produ
 
 ## 4.9 Overdose
 
-There is no known antidote for overdosage of Evrysdi. In the event of an overdose, the patient should be closely supervised and supportive care instituted.
+There is no known antidote for overdosage of risdiplam. In the event of an overdose, the patient should be closely supervised and supportive care instituted.
 
 ## 5. PHARMACOLOGICAL PROPERTIES
 
@@ -289,11 +280,11 @@ The effect of risdiplam on the QTc interval was evaluated in a study in 47 healt
 
 ## Clinical efficacy and safety
 
-The efficacy of Evrysdi for the treatment of SMA patients with infantile -onset (SMA Type 1) and later -onset SMA (SMA type 2 and 3) was evaluated in 2 pivotal clinical studies, FIREFISH and SUNFISH. Efficacy data of Evrysdi for the treatment of pre-symptomatic SMA patients was evaluated in the RAINBOWFISH clinical study. Patients with a clinical diagnosis of Type 4 SMA have not been studied in clinical trials.
+The efficacy of risdiplam for the treatment of SMA patients with infantile -onset (SMA Type 1) and later -onset SMA (SMA type 2 and 3) was evaluated in 2 pivotal clinical studies, FIREFISH and SUNFISH. Efficacy data of risdiplam for the treatment of pre-symptomatic SMA patients was evaluated in the RAINBOWFISH clinical study. Patients with a clinical diagnosis of Type 4 SMA have not been studied in clinical trials.
 
 ## Infantile-onset SMA
 
-Study BP39056 (FIREFISH) is an open-label, 2 -part study to investigate the efficacy, safety, PK and pharmacodynamics (PD) of Evrysdi in symptomatic Type 1 SMA patients (all patients had genetically confirmed disease with 2 copies of the SMN2 gene). Part 1 of FIREFISH was designed as a dose -finding part of the study. The confirmatory Part 2 of the FIREFISH study assessed the efficacy of Evrysdi. Patients from Part 1 did not take part in Part 2.
+Study BP39056 (FIREFISH) is an open-label, 2 -part study to investigate the efficacy, safety, PK and pharmacodynamics (PD) of risdiplam in symptomatic Type 1 SMA patients (all patients had genetically confirmed disease with 2 copies of the SMN2 gene). Part 1 of FIREFISH was designed as a dose -finding part of the study. The confirmatory Part 2 of the FIREFISH study assessed the efficacy of risdiplam. Patients from Part 1 did not take part in Part 2.
 
 The key efficacy endpoint was the ability to sit without support for at least 5 seconds, as measured by Item 22 of the Bayley Scales of Infant and Toddler Development - Third Edition (BSID -III) gross motor scale, after 12 months of treatment.
 
@@ -303,7 +294,7 @@ The key efficacy endpoint was the ability to sit without support for at least 5 
 
 In FIREFISH Part 2, 41 patients with Type 1 SMA were enrolled. The median age of onset of clinical signs and symptoms of Type 1 SMA was 1.5 months (range: 1.0 -3.0 months), 54% were female, 54% Caucasian and 34% Asian. The median age at enrolment was 5.3 months (range: 2.2 -6.9 months) and the median time between onset of symptoms and first dose was 3.4 months (range: 1.0 -6.0 months). At baseline, the median Children's Hospital of Philadelphia Infant Test for Neuromuscular Disease (CHOP-INTEND) score was 22.0 points (range: 8.0 -37.0) and the median Hammersmith Infant Neurological Examination Module 2 (HINE -2) score was 1.0 (range: 0.0 -5.0).
 
-The primary endpoint was the proportion of patients with the ability to sit without support for at least 5 seconds after 12 months of treatment (BSID -III gross motor scale, Item 22). The key efficacy endpoints of Evrysdi treated patients are shown in Table 3.
+The primary endpoint was the proportion of patients with the ability to sit without support for at least 5 seconds after 12 months of treatment (BSID -III gross motor scale, Item 22). The key efficacy endpoints of risdiplam treated patients are shown in Table 3.
 
 <div style=\"page-break-after: always\"></div>
 
@@ -350,31 +341,31 @@ Figure 2. Mean change from baseline in CHOP -INTEND total score (FIREFISH Part 2
 
 ## FIREFISH Part 1
 
-The efficacy of Evrysdi in Type 1 SMA patients is also supported by results from FIREFISH Part 1. For the 21 patients from Part 1, the baseline characteristics were consistent with symptomatic patients with Type 1 SMA. The median age at enrolment was 6.7 months (range: 3.3 -6.9 months) and the median time between onset of symptoms and first dose was 4.0 months (range: 2.0 -5.8 months).
+The efficacy of risdiplam in Type 1 SMA patients is also supported by results from FIREFISH Part 1. For the 21 patients from Part 1, the baseline characteristics were consistent with symptomatic patients with Type 1 SMA. The median age at enrolment was 6.7 months (range: 3.3 -6.9 months) and the median time between onset of symptoms and first dose was 4.0 months (range: 2.0 -5.8 months).
 
-A total of 17 patients received the therapeutic dose of Evrysdi (dose selected for Part 2). After 12 months of treatment, 41% (7/17) of these patients were able to sit independently for at least 5 seconds (BSID -III, Item 22). After 24 months of treatment, 3 more patients receiving the therapeutic dose were able to sit independently for at least 5 seconds, leading to a total of 10 patients (59%) achieving this motor milestone.
+A total of 17 patients received the therapeutic dose of risdiplam (dose selected for Part 2). After 12 months of treatment, 41% (7/17) of these patients were able to sit independently for at least 5 seconds (BSID -III, Item 22). After 24 months of treatment, 3 more patients receiving the therapeutic dose were able to sit independently for at least 5 seconds, leading to a total of 10 patients (59%) achieving this motor milestone.
 
-After 12 months of treatment, 90% (19/21) of patients were alive and event-free (without permanent ventilation) and reached 15 months of age or older. After a minimum of 33 months of treatment, 81% (17/21) of patients were alive and event-free and reached an age of 37 months or older (median 41 months; range 37 to 53  months), see Figure 1. Three patients died during treatment and one patient died 3.5 months after discontinuing treatment.
+After 12 months of treatment, 90% (19/21) of patients were alive and event-free (without permanent ventilation) and reached 15 months of age or older. After a minimum of 33 months of treatment, 81% (17/21) of patients were alive and event-free and reached an age of 37 months or older (median 41 months; range 37 to 53 months), see Figure 1. Three patients died during treatment and one patient died 3.5 months after discontinuing treatment.
 
 ## Later Onset SMA
 
-Study BP39055 (SUNFISH), is a 2 -part, multicentre study to investigate the efficacy, safety, PK and PD of Evrysdi in SMA Type 2 or Type 3 patients between 2 -25 years of age. Part 1 was the exploratory dose -finding portion and Part 2 was the randomized, double -blind, placebo -controlled confirmatory portion. Patients from Part 1 did not take part in Part 2.
+Study BP39055 (SUNFISH), is a 2 -part, multicentre study to investigate the efficacy, safety, PK and PD of risdiplam in SMA Type 2 or Type 3 patients between 2 -25 years of age. Part 1 was the exploratory dose -finding portion and Part 2 was the randomized, double -blind, placebo -controlled confirmatory portion. Patients from Part 1 did not take part in Part 2.
 
 The primary endpoint was the change from baseline score at Month 12 on the Motor Function Measure -32 (MFM32). The MFM32 has the ability to assess a wide range of motor function across a broad range of SMA patients. The total MFM32 score is expressed as a percentage (range: 0 -100) of the maximum possible score, with higher scores indicating greater motor function.
 
 ## SUNFISH Part 2
 
-SUNFISH Part 2 is the randomized, double -blinded, placebo -controlled portion of the SUNFISH study in 180 non-ambulant patients with Type 2 (71%) or Type 3 (29%) SMA. Patients were randomized with 2:1 ratio to receive either Evrysdi at the therapeutic dose (see section 4.2) or placebo. Randomization was stratified by age group (2 to 5, 6 to 11, 12 to 17, 18 to 25 years old).
+SUNFISH Part 2 is the randomized, double -blinded, placebo -controlled portion of the SUNFISH study in 180 non-ambulant patients with Type 2 (71%) or Type 3 (29%) SMA. Patients were randomized with 2:1 ratio to receive either risdiplam at the therapeutic dose (see section 4.2) or placebo. Randomization was stratified by age group (2 to 5, 6 to 11, 12 to 17, 18 to 25 years old).
 
-The median age of patients at the start of treatment was 9.0 years old (range 2 -25 years old), the median time between onset of initial SMA symptoms to first treatment was 102.6 (1 -275)  months. Overall, 30% were 2 to 5 years of age, 32% were 6 to 11 years of age, 26% were 12 -17 years of age, and 12% were 18 to 25 years of age at study enrolment. Of the 180 patients included in the study, 51% were female, 67% Caucasian and 19% Asian. At baseline, 67% of patients had scoliosis (32% of patients with severe scoliosis). Patients had a mean baseline MFM32 score of 46.1 and Revised Upper Limb Module (RULM) score of 20.1. The baseline demographic characteristics were balanced between Evrysdi and placebo arms with the exception of scoliosis (63% of patients in the Evrysdi arm and 73% of patients in the placebo control).
+The median age of patients at the start of treatment was 9.0 years old (range 2 -25 years old), the median time between onset of initial SMA symptoms to first treatment was 102.6 (1 -275)  months. Overall, 30% were 2 to 5 years of age, 32% were 6 to 11 years of age, 26% were 12 -17 years of age, and 12% were 18 to 25 years of age at study enrolment. Of the 180 patients included in the study, 51% were female, 67% Caucasian and 19% Asian. At baseline, 67% of patients had scoliosis (32% of patients with severe scoliosis). Patients had a mean baseline MFM32 score of 46.1 and Revised Upper Limb Module (RULM) score of 20.1. The baseline demographic characteristics were balanced between risdiplam and placebo arms with the exception of scoliosis (63% of patients in the  risdiplam arm and 73% of patients in the placebo control).
 
-The primary analysis for SUNFISH Part 2, the change from baseline in MFM32 total score at Month 12, showed a clinically meaningful and statistically significant difference between patients treated with Evrysdi and placebo. The results of the primary analysis and key secondary endpoints are shown in Table 4, Figure 3, and Figure 4.
+The primary analysis for SUNFISH Part 2, the change from baseline in MFM32 total score at Month 12, showed a clinically meaningful and statistically significant difference between patients treated with risdiplam and placebo. The results of the primary analysis and key secondary endpoints are shown in Table 4, Figure 3, and Figure 4.
 
 <div style=\"page-break-after: always\"></div>
 
 Table 4. Summary of efficacy in patients with later -onset SMA at month 12 of treatment (SUNFISH Part 2)
 
-| Endpoint                                                                                                      | Evrysdi (N = 120)                 | Placebo (N = 60)                  |
+| Endpoint                                                                                                      | Risdiplam (N = 120)               | Placebo (N = 60)                  |
 |---------------------------------------------------------------------------------------------------------------|-----------------------------------|-----------------------------------|
 | Primary Endpoint:                                                                                             |                                   |                                   |
 | Change from baseline in MFM32 total score 1 at Month 12 LS mean (95%, CI)                                     | 1.36 (0.61, 2.11)                 | -0.19 (-1.22, 0.84)               |
@@ -385,23 +376,22 @@ Table 4. Summary of efficacy in patients with later -onset SMA at month 12 of tr
 | Change from baseline in RULM total score 5 at Month 12 LS mean (95% CI)                                       | 1.61 (1.00, 2.22)                 | 0.02 (-0.83, 0.87)                |
 | Difference from placebo estimate (95% CI) Adjusted (unadjusted) p - value 2,4                                 | 1.59 (0.55, 2.62) 0.0469          | (0.0028)                          |
 
-LS  least squares
-
 2. Data analysed using a mixed model repeated measure with baseline total score, treatment, visit, age group, treatment -by -visit and baseline -by -visit.
-
 4. The adjusted p -value was obtained for the endpoints included in the hierarchical testing and was derived based on all the p-values from endpoints in order of the hierarchy up to the current endpoint
 
 3. Data analysed using logistic regression with baseline total score, treatment and age group.
 
-5. Based on the missing data rule for RULM, 3 patients were excluded from the analysis (Evrysdi n=119; placebo control n=58).
+5. Based on the missing data rule for RULM, 3 patients were excluded from the analysis (risdiplam n=119; placebo control n=58).
 
-Upon completion of 12 months of treatment, 117 patients continued to receive Evrysdi. At the time of the 24 month analysis, these patients who were treated with Evrysdi for 24 months overall experienced maintenance of improvement in motor function between month 12 and month 24. The mean change from baseline for MFM32 was 1.83 (95% CI: 0.74, 2.92) and for RULM was 2.79 (95% CI: 1.94, 3.64).
-
-<div style=\"page-break-after: always\"></div>
+Upon completion of 12 months of treatment, 117 patients continued to receive risdiplam. At the time of the 24 month analysis, these patients who were treated with risdiplam for 24 months overall experienced maintenance of improvement in motor function between month 12 and month 24. The mean change from baseline for MFM32 was 1.83 (95% CI: 0.74, 2.92) and for RULM was 2.79 (95% CI: 1.94, 3.64).
 
 Figure 3. Mean change from baseline in MFM32 total score over 12 months in SUNFISH Part 2 1
 
 <!-- image -->
+
+<div style=\"page-break-after: always\"></div>
+
+1 The least squares (LS) mean difference for change from baseline in MFM32 score [95% CI]
 
 Figure 4. Mean change from baseline in RULM total score over 12 months in SUNFISH Part 2 1
 
@@ -411,25 +401,25 @@ Figure 4. Mean change from baseline in RULM total score over 12 months in SUNFIS
 
 Efficacy in later-onset SMA patients was also supported by results from Part 1, the dose-finding part of SUNFISH. In Part 1, 51 patients with Type 2 and 3 SMA (including 7 ambulatory patients) between 2 to 25 years of age were enrolled. After 1 year of treatment there was a clinically meaningful improvement in motor function as measured by MFM32, with a mean change from baseline of 2.7 points (95% CI: 1.5, 3.8). The improvement in MFM32 was maintained up to 2 years on treatment (mean change of 2.7 points [95% CI: 1.2, 4.2]).
 
-<div style=\"page-break-after: always\"></div>
-
 ## Use in patients previously treated with other SMA -modifying therapies (JEWELFISH)
 
-Study BP39054 (JEWELFISH, n = 174) is a single arm, open-label study to investigate the safety, tolerability, PK and PD of Evrysdi in patients with infantile-onset and later-onset SMA (median age 14 years [range 1 -60 years]), who had previously received treatment with other approved (nusinersen n = 76, onasemnogene abeparvovec n = 14) or investigational SMA modifying therapies. At baseline, out of the 168 patients aged 2 -60 years, 83% of patients had scoliosis and 63% had a Hammersmith Functional Motor Scale Expanded (HFMSE) score  10 points.
+Study BP39054 (JEWELFISH, n = 174) is a single arm, open-label study to investigate the safety, tolerability, PK and PD of risdiplam in patients with infantile-onset and later-onset SMA (median age 14 years [range 1 -60 years]), who had previously received treatment with other approved (nusinersen n = 76, onasemnogene abeparvovec n = 14) or investigational SMA modifying therapies. At baseline, out of the 168 patients aged 2 -60 years, 83% of patients had scoliosis and 63% had a Hammersmith Functional Motor Scale Expanded (HFMSE) score  10 points.
 
 At the analysis at month 24 of treatment, patients 2 -60 years of age showed overall stabilization in motor function in MFM -32 and RULM (n = 137 and n = 133, respectively). Patients less than 2 years (n = 6) maintained or gained motor milestones such as head control, rolling and sitting independently. All ambulatory patients (aged 5 -46 years, n = 15) retained their ability to walk.
 
 ## Presymptomatic SMA (RAINBOWFISH)
 
-Study BN40703 (RAINBOWFISH) is an open -label, single -arm, multicenter clinical study to investigate the efficacy, safety, pharmacokinetics, and pharmacodynamics of Evrysdi in infants from birth to 6 weeks of age (at first dose) who have been genetically diagnosed with SMA but do not yet present with symptoms.
+Study BN40703 (RAINBOWFISH) is an open -label, single -arm, multicenter clinical study to investigate the efficacy, safety, pharmacokinetics, and pharmacodynamics of risdiplam in infants from birth to 6 weeks of age (at first dose) who have been genetically diagnosed with SMA but do not yet present with symptoms.
 
-The efficacy in pre -symptomatic SMA patients was evaluated at Month 12 in 26 patients [intent-totreat (ITT) population] treated with Evrysdi: eight patients, 13 patients, and 5 patients had 2, 3, and ≥ 4 copies of the SMN2 gene, respectively. The median age of these patients at first dose was 25 days (range: 16 to 41 days), 62% were female, and 85% were Caucasian. At baseline, the median CHOP -INTEND score was 51.5 (range: 35.0 to 62.0), the median HINE -2 score was 2.5 (range: 0 to 6.0), and the median ulnar nerve compound muscle action potential (CMAP) amplitude was 3.6 mV (range: 0.5 to 6.7 mV).
+<div style=\"page-break-after: always\"></div>
+
+The efficacy in pre -symptomatic SMA patients was evaluated at Month 12 in 26 patients [intenttotreat (ITT) population] treated with risdiplam: eight patients, 13 patients, and 5 patients had 2, 3, and ≥ 4 copies of the SMN2 gene, respectively. The median age of these patients at first dose was 25 days (range: 16 to 41 days), 62% were female, and 85% were Caucasian. At baseline, the median CHOP -INTEND score was 51.5 (range: 35.0 to 62.0), the median HINE -2 score was 2.5 (range: 0 to 6.0), and the median ulnar nerve compound muscle action potential (CMAP) amplitude was 3.6 mV (range: 0.5 to 6.7 mV).
 
 The primary efficacy population (N=5) included patients with 2 SMN2 copies and a baseline CMAP amplitude  1.5 mV. In these patients, the median CHOP -INTEND score was 48.0 (range: 36.0 to 52.0), the median HINE -2 score was 2.0 (range 1.0 to 3.0), and the median CMAP amplitude was 2.6 mV (range: 1.6 to 3.8 mV) at baseline.
 
 The primary endpoint was the proportion of patients in the primary efficacy population with the ability to sit without support for at least 5 seconds (BSID -III gross motor scale, Item 22) at Month 12; a statistically significant and clinically meaningful proportion of patients achieved this milestone compared to the predefined performance criterion of 5%.
 
-The key efficacy endpoints of Evrysdi treated patients are shown in Table 5 and 6, and in Figure 5.
+The key efficacy endpoints of risdiplam treated patients are shown in Table 5 and 6, and in Figure 5.
 
 Table 5. Sitting ability as defined by BSID -III Item 22 for pre-symptomatic patients at Month 12
 
@@ -438,7 +428,11 @@ Table 5. Sitting ability as defined by BSID -III Item 22 for pre-symptomatic pat
 |                                                                                                       | Primary Efficacy (N=5)          | Patients with 2 SMN2 copies a (N  8) | ITT (N=26)           |
 | Proportion of patients sitting without support for at least 5 seconds (BSID - III, Item 22); (90% CI) | 80% (34.3%, 99.0%) p  0.0001 b | 87.5% (52.9%, 99.4%)                  | 96.2% (83.0%, 99.8%) |
 
-<div style=\"page-break-after: always\"></div>
+Abbreviations: BSID -III = Bayley Scales of Infant and Toddler Development - Third Edition; CI=Confidence Interval; ITT=Intent-to-treat.
+
+a  Patients with 2 SMN2 copies had a median CMAP amplitude of 2.0 (range 0.5 - 3.8) at baseline.
+
+b  p-value is based on a one-sided exact binomial test. The result is compared to a threshold of 5%.
 
 Additionally, 80% (4/5) of the primary efficacy population, 87.5% (7/8) of patients with 2 SMN2 copies, and 80.8% (21/26) of patients in the ITT population achieved sitting without support for 30 seconds (BSID-III, Item 26).
 
@@ -579,7 +573,9 @@ Juvenile animal data reveal no special hazard for humans.
 
 ## 6.1 List of excipients
 
-mannitol (E 421) isomalt (E 953) strawberry flavour tartaric acid (E 334) sodium benzoate (E 211) macrogol 6000 (E 1521) sucralose ascorbic acid (E 300) disodium edetate dihydrate
+mannitol (E 421) isomalt (E 953) tartaric acid (E 334) sodium benzoate (E 211) macrogol 6000 (E 1521) sucralose ascorbic acid (E 300) disodium edetate dihydrate
+
+strawberry flavour: natural flavouring substance(s), flavouring preparation(s), maize maltodextrin, modified waxy maize starch (E1450)
 
 ## 6.2 Incompatibilities
 
@@ -621,7 +617,7 @@ Each carton contains; one bottle, 1 press -in bottle adaptor, two re -usable 1 m
 
 ## 6.6 Special precautions for disposal and other handling
 
-Evrysdi powder must be constituted to the oral solution by a HCP (eg. pharmacist) prior to being dispensed.
+Risdiplam powder must be constituted to the oral solution by a HCP (eg. pharmacist) prior to being dispensed.
 
 ## Preparation
 
@@ -633,7 +629,7 @@ Instructions for constitution:
 
 1. Gently tap the bottom of the closed glass bottle to loosen the powder.
 2. Remove the cap. Do not throw away the cap.
-3. Carefully pour 79 mL of purified water or water for injection  into the Evrysdi bottle to yield the 0.75 mg/mL oral solution.
+3. Carefully pour 79 mL of purified water or water for injections into the risdiplam bottle to yield the 0.75 mg/mL oral solution.
 4. Hold the medicine bottle on the table with one hand. Insert the press-in bottle adaptor into the opening by pushing it down with the other hand. Ensure the adaptor is completely pressed against the bottle lip.
 5. Put the cap back on the bottle and close the bottle tightly. Ensure it is completely closed and then shake  well  for  15 seconds.  Wait  for  10 minutes.  You  should  have  obtained  a  clear  solution. Afterwards, shake well again for another 15 seconds.
 6. Write the 'Discard after' date of the solution on the bottle label and carton. (The 'Discard after' date is calculated as 64 days after constitution, the day of constitution is counted as day 0). Put the bottle back in its original carton with syringes (in pouches), Package Leaflet, and Instructions for Use booklet. Store the carton in the refrigerator (2 to 8°C).
@@ -654,17 +650,13 @@ EU/1/21/1531/001
 
 ## 9. DATE OF FIRST AUTHORISATION/RENEWAL OF THE AUTHORISATION
 
-Date of first authorisation: 26 March 2021
+Date of first authorisation: 26 March 2021 Date of latest renewal:
 
 ## 10. DATE OF REVISION OF THE TEXT
 
 Detailed information on this medicinal product is available on the website of the European Medicines Agency https://www.ema.europa.eu/.
 
 <div style=\"page-break-after: always\"></div>
-
-<!-- image -->
-
-This medicinal product is subject to additional monitoring. This will allow quick identification of new safety information. Healthcare professionals are asked to report any suspected adverse reactions. See section 4.8 for how to report adverse reactions.
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
@@ -690,11 +682,11 @@ Evrysdi is indicated for the treatment of 5q spinal muscular atrophy (SMA) in pa
 
 ## 4.2 Posology and method of administration
 
-Treatment with Evrysdi should be initiated by a physician with experience in the management of SMA.
+Treatment with risdiplam should be initiated by a physician with experience in the management of SMA.
 
-## Posology
+Posology
 
-The recommended once daily dose of Evrysdi film-coated tablet for patients ≥ 2 years of age with ≥ 20 kg body weight is 5 mg.
+The recommended once daily dose of risdiplam film-coated tablet for patients ≥ 2 years of age with ≥ 20 kg body weight is 5 mg.
 
 There is an alternative oral solution available for patients of all age groups or who may require the use of a nasogastric or gastrostomy tube. Refer to the Evrysdi powder for oral solution SmPC. The physician should prescribe the appropriate pharmaceutical form according to the dose required and the patient's needs, including the patient's ability to swallow. For patients with difficulty swallowing a whole tablet, the tablet can be dispersed or the powder for oral solution can be prescribed.
 
@@ -704,11 +696,11 @@ Treatment with a daily dose above 5 mg has not been studied.
 
 If a planned dose is missed, it should be administered as soon as possible if still within 6 hours of the scheduled dose. Otherwise, the missed dose should be skipped and the next dose should be administered at the regularly scheduled time the next day.
 
-If a dose is not fully swallowed or vomiting occurs after taking a dose of Evrysdi, another dose should not be administered to make up for the incomplete dose. The next dose should be administered at the regularly scheduled time.
+If a dose is not fully swallowed or vomiting occurs after taking a dose of risdiplam, another dose should not be administered to make up for the incomplete dose. The next dose should be administered at the regularly scheduled time.
+
+Elderly
 
 <div style=\"page-break-after: always\"></div>
-
-## Elderly
 
 No dose adjustment is required in elderly patients based on limited data in subjects aged 65 years and older (see section 5.2).
 
@@ -722,7 +714,7 @@ No dose adjustment is required in patients with mild or moderate hepatic impairm
 
 ## Paediatric population
 
-There is no relevant use of Evrysdi film-coated tablets in children &lt; 2 years of age and &lt; 20 kg.
+There is no relevant use of risdiplam film-coated tablets in children &lt; 2 years of age and &lt; 20 kg.
 
 ## Method of administration
 
@@ -748,13 +740,15 @@ Hypersensitivity to the active substance or to any of the excipients listed in s
 
 ## Potential embryo -foetal toxicity
 
-Embryo -foetal toxicity has been observed in animal studies (see section 5.3). Patients of reproductive potential should be informed of the risks and must use highly effective contraception during treatment and until at least 1 month after the last dose in female patients, and 4 months after the last dose in male patients. The pregnancy status of female patients of reproductive potential should be verified prior to initiating Evrysdi therapy (see section 4.6).
+Embryo -foetal toxicity has been observed in animal studies (see section 5.3). Patients of reproductive potential should be informed of the risks and must use highly effective contraception during treatment and until at least 1 month after the last dose in female patients, and 4 months after the last dose in male patients. The pregnancy status of female patients of reproductive potential should be verified prior to initiating risdiplam therapy (see section 4.6).
 
 ## Potential effects on male fertility
 
+Based on observations from animal studies, male patients should not donate sperm while on treatment and for 4 months after the last dose of risdiplam. Prior to initiating treatment, fertility preservation
+
 <div style=\"page-break-after: always\"></div>
 
-Based on observations from animal studies, male patients should not donate sperm while on treatment and for 4 months after the last dose of Evrysdi. Prior to initiating treatment, fertility preservation strategies should be discussed with male patients of reproductive potential (see sections 4.6 and 5.3). The effects of Evrysdi on male fertility have not been investigated in humans.
+strategies should be discussed with male patients of reproductive potential (see sections 4.6 and 5.3). The effects of risdiplam on male fertility have not been investigated in humans.
 
 ## Excipients
 
@@ -764,13 +758,11 @@ Evrysdi contains less than 1 mmol sodium (23 mg) per 5 mg dose, i.e. is essentia
 
 ## 4.5 Interaction with other medicinal products and other forms of interaction
 
-Risdiplam is primarily metabolized by hepatic enzymes flavin monooxygenase 1 and 3 (FMO1 and 3), and also by cytochrome P450 enzymes (CYPs) 1A1, 2J2, 3A4, and 3A7. Risdiplam is not a substrate of human multidrug resistance protein 1 (MDR1).
-
 ## Effects of other medicinal products on risdiplam
 
 Omeprazole had no impact on the pharmacokinetics of risdiplam administered as a tablet. The risdiplam tablet may therefore be administered concomitantly with medication that increases the gastric pH (proton pump inhibitors, H2 antagonists, and antacids).
 
-Co -administration of 200 mg itraconazole twice daily, a strong CYP3A inhibitor, with a single oral dose of 6 mg risdiplam did not exhibit a clinically relevant effect on the PK parameters of risdiplam (11% increase in AUC, 9% decrease in Cmax). No dose adjustments are required when Evrysdi is co -administered with a CYP3A inhibitor.
+Co -administration of 200 mg itraconazole twice daily, a strong CYP3A inhibitor, with a single oral dose of 6 mg risdiplam did not exhibit a clinically relevant effect on the PK parameters of risdiplam (11% increase in AUC, 9% decrease in Cmax). No dose adjustments are required when risdiplam is co -administered with a CYP3A inhibitor.
 
 No drug -drug interactions are expected via the FMO1 and FMO3 pathway.
 
@@ -790,20 +782,20 @@ There is no efficacy or safety data to support the concomitant use of risdiplam 
 
 Male and female patients of reproductive potential should adhere to the following contraception requirements:
 
-<div style=\"page-break-after: always\"></div>
-
 - Female patients of childbearing potential should use highly effective contraception during treatment and for at least 1 month after the last dose.
 - Male patients, and their female partners of childbearing potential, should both ensure that highly effective contraception is achieved during treatment and for at least 4 months after the last dose.
 
+<div style=\"page-break-after: always\"></div>
+
 ## Pregnancy testing
 
-The pregnancy status of female patients of reproductive potential should be verified prior to initiating Evrysdi therapy. Pregnant women should be clearly advised of the potential risk to the foetus.
+The pregnancy status of female patients of reproductive potential should be verified prior to initiating risdiplam therapy. Pregnant women should be clearly advised of the potential risk to the foetus.
 
 ## Pregnancy
 
-There are no data from the use of Evrysdi in pregnant women. Studies in animals have shown reproductive toxicity (see section 5.3).
+There are no data from the use of risdiplam in pregnant women. Studies in animals have shown reproductive toxicity (see section 5.3).
 
-Evrysdi is not recommended during pregnancy and in women of childbearing potential not using contraception (see section 4.4).
+Risdiplam is not recommended during pregnancy and in women of childbearing potential not using contraception (see section 4.4).
 
 ## Breast -feeding
 
@@ -823,56 +815,55 @@ Based on nonclinical data (see section 5.3), an impact of risdiplam on female fe
 
 ## 4.7 Effects on ability to drive and use machines
 
-Evrysdi has no or negligible influence on the ability to drive and use machines.
+Risdiplam has no or negligible influence on the ability to drive and use machines.
 
 ## 4.8 Undesirable effects
 
 ## Summary of the safety profile
 
-In infantile -onset SMA patients, the most common adverse reactions observed in Evrysdi clinical studies were pyrexia (54.8%), rash (29.0%) and diarrhoea (19.4%).
+In infantile -onset SMA patients, the most common adverse reactions observed in risdiplam clinical studies were pyrexia (54.8%), rash (29.0%) and diarrhoea (19.4%).
 
 <div style=\"page-break-after: always\"></div>
 
-In later -onset SMA patients, the most common adverse reactions observed in Evrysdi clinical studies were pyrexia (21.7%), headache (20.0%), diarrhoea (16.7%), and rash (16.7%).
+In later -onset SMA patients, the most common adverse reactions observed in risdiplam clinical studies were pyrexia (21.7%), headache (20.0%), diarrhoea (16.7%), and rash (16.7%).
 
 The adverse reactions listed above occurred without an identifiable clinical or time pattern and generally resolved despite ongoing treatment in infantile -onset and later -onset SMA patients.
 
-Based on the primary analysis of RAINBOWFISH, the safety profile of Evrysdi in pre-symptomatic patients is consistent with the safety profile of symptomatic infantile -onset and later -onset SMA patients. The RAINBOWFISH study enrolled 26 patients with pre-symptomatic SMA between 16 and 41 days of age at the time of the first dose (weight range 3.1 to 5.7 kg). The median exposure duration was 20.4 months (range: 10.6 to 41.9 months). Limited post -marketing data are available in neonates &lt;20 days of age.
-
-See also section 5.3 for the effects of Evrysdi observed in nonclinical studies.
-
 ## Tabulated list of adverse reactions
 
-The corresponding frequency category for each adverse drug reaction is based on the following convention: very common ( ≥ 1/10), common ( ≥ 1/100 to &lt;1/10), uncommon ( ≥ 1/1,000 to &lt;1/100), rare ( ≥ 1/10,000 to &lt;1/1,000), very rare (&lt;1/10,000). Adverse drug reactions from clinical studies (Table 1) are listed by MedDRA system organ class.
+The corresponding frequency category for each adverse drug reaction is based on the following convention: very common ( ≥ 1/10), common ( ≥ 1/100 to &lt;1/10), uncommon ( ≥ 1/1,000 to &lt;1/100), rare ( ≥ 1/10,000 to &lt;1/1,000), very rare (&lt;1/10,000), not known (cannot be estimated from the available data). Adverse drug reactions from clinical studies (Table 1) are listed by MedDRA system organ class.
 
-Table 1. Adverse drug reactions occurring in patients with infantile -onset and later -onset SMA based on Evrysdi clinical studies
+Table 1. Adverse drug reactions occurring in patients with infantile -onset and later -onset SMA based on risdiplam clinical studies and postmarketing experience
 
 | System Organ Class                                   | Infantile - onset SMA (Type 1)                       | Later - onsetSMA (Type 2 and 3)                      |
 |------------------------------------------------------|------------------------------------------------------|------------------------------------------------------|
+| Infections and infestations                          | Infections and infestations                          | Infections and infestations                          |
+| Urinary tract infection (including cystitis)         | Common                                               | Common                                               |
+| Nervous system disorders                             | Nervous system disorders                             | Nervous system disorders                             |
+| Headache                                             | Not applicable                                       | Very common                                          |
 | Gastrointestinal disorders                           | Gastrointestinal disorders                           | Gastrointestinal disorders                           |
 | Diarrhoea                                            | Very common                                          | Very common                                          |
 | Nausea                                               | Not applicable                                       | Common                                               |
 | Mouth ulcerations and aphthous ulcers                | Common                                               | Common                                               |
 | Skin and subcutaneous tissue disorders               | Skin and subcutaneous tissue disorders               | Skin and subcutaneous tissue disorders               |
 | Rash*                                                | Very common                                          | Very common                                          |
-| Nervous system disorders                             | Nervous system disorders                             | Nervous system disorders                             |
-| Headache                                             | Not applicable                                       | Very common                                          |
-| General disorders and administration site conditions | General disorders and administration site conditions | General disorders and administration site conditions |
-| Pyrexia (including hyperpyrexia)                     | Very common                                          | Very common                                          |
-| Infections and infestations                          | Infections and infestations                          | Infections and infestations                          |
-| Urinary tract infection (including cystitis)         | Common                                               | Common                                               |
+| Cutaneous vasculitis**                               | Not known                                            | Not known                                            |
 | Musculoskeletal and connective tissue disorders      | Musculoskeletal and connective tissue disorders      | Musculoskeletal and connective tissue disorders      |
 | Arthralgia                                           | Not applicable                                       | Common                                               |
+| General disorders and administration site conditions | General disorders and administration site conditions | General disorders and administration site conditions |
+| Pyrexia (including hyperpyrexia)                     | Very common                                          | Very common                                          |
+
+## Safety profile in pre-symptomatic patients
+
+Based on the primary analysis of RAINBOWFISH, the safety profile of Evrysdi in pre -symptomatic patients is consistent with the safety profile of symptomatic infantile -onset and later -onset SMA patients. The RAINBOWFISH study enrolled 26 patients with pre -symptomatic SMA between 16 and 41 days of age at the time of the first dose (weight range 3.1 to 5.7 kg). The median exposure duration
 
 <div style=\"page-break-after: always\"></div>
 
+was 20.4 months (range: 10.6 to 41.9 months). Limited post -marketing data are available in neonates &lt; 20 days of age.
+
 ## Safety profile in patients previously treated with other SMA -modifying therapies
 
-Based on the primary analysis of the JEWELFISH study, the safety profile of Evrysdi in SMA treatment non-naive patients who received Evrysdi for up to 59 months (including those previously treated with nusinersen [n=76] or with onasemnogene abeparvovec [n=14]) is consistent with the safety profile in SMA treatment-naive patients treated with Evrysdi in the FIREFISH, SUNFISH and RAINBOWFISH studies (see section 5.1).
-
-## Post -marketing experience
-
-Cutaneous vasculitis was reported during post -marketing experience. Symptoms recovered after permanent discontinuation of Evrysdi. The frequency cannot be estimated based on available data.
+The safety profile of risdiplam in SMA treatment non-naive patients (including those previously treated with nusinersen or with onasemnogene abeparvovec) is consistent with the safety profile in SMA treatment-naive patients treated with risdiplam in the FIREFISH, SUNFISH and RAINBOWFISH clinical studies (see section 5.1).
 
 ## Reporting of suspected adverse reactions
 
@@ -880,7 +871,7 @@ Reporting suspected adverse reactions after authorisation of the medicinal produ
 
 ## 4.9 Overdose
 
-There is no known antidote for overdosage of Evrysdi. In the event of an overdose, the patient should be closely supervised and supportive care instituted.
+There is no known antidote for overdosage of risdiplam. In the event of an overdose, the patient should be closely supervised and supportive care instituted.
 
 ## 5. PHARMACOLOGICAL PROPERTIES
 
@@ -904,11 +895,11 @@ The effect of risdiplam on the QTc interval was evaluated in a study in 47 healt
 
 ## Clinical efficacy and safety
 
-The efficacy of Evrysdi for the treatment of SMA patients with infantile -onset (SMA Type 1) and later -onset SMA (SMA type 2 and 3) was evaluated in 2 pivotal clinical studies, FIREFISH and SUNFISH. Efficacy data of Evrysdi for the treatment of pre-symptomatic SMA patients was evaluated in the RAINBOWFISH clinical study. Patients with a clinical diagnosis of Type 4 SMA have not been studied in clinical trials.
+The efficacy of risdiplam for the treatment of SMA patients with infantile -onset (SMA Type 1) and later -onset SMA (SMA type 2 and 3) was evaluated in 2 pivotal clinical studies, FIREFISH and SUNFISH. Efficacy data of risdiplam for the treatment of pre-symptomatic SMA patients was evaluated in the RAINBOWFISH clinical study. Patients with a clinical diagnosis of Type 4 SMA have not been studied in clinical trials.
 
 ## Infantile-onset SMA
 
-Study BP39056 (FIREFISH) is an open -label, 2 -part study to investigate the efficacy, safety, PK and pharmacodynamics (PD) of Evrysdi in symptomatic Type 1 SMA patients (all patients had genetically confirmed disease with 2 copies of the SMN2 gene). Part 1 of FIREFISH was designed as a dose -finding part of the study. The confirmatory Part 2 of the FIREFISH study assessed the efficacy of Evrysdi. Patients from Part 1 did not take part in Part 2.
+Study BP39056 (FIREFISH) is an open -label, 2 -part study to investigate the efficacy, safety, PK and pharmacodynamics (PD) of risdiplam in symptomatic Type 1 SMA patients (all patients had genetically confirmed disease with 2 copies of the SMN2 gene). Part 1 of FIREFISH was designed as a dose -finding part of the study. The confirmatory Part 2 of the FIREFISH study assessed the efficacy of risdiplam. Patients from Part 1 did not take part in Part 2.
 
 The key efficacy endpoint was the ability to sit without support for at least 5 seconds, as measured by Item 22 of the Bayley Scales of Infant and Toddler Development - Third Edition (BSID -III) gross motor scale, after 12  months of treatment.
 
@@ -916,7 +907,7 @@ The key efficacy endpoint was the ability to sit without support for at least 5 
 
 In FIREFISH Part 2, 41 patients with Type 1 SMA were enrolled. The median age of onset of clinical signs and symptoms of Type 1 SMA was 1.5 months (range: 1.0 -3.0 months), 54% were female, 54% Caucasian and 34% Asian. The median age at enrolment was 5.3 months (range: 2.2 -6.9 months) and the median time between onset of symptoms and first dose was 3.4 months (range: 1.0 -6.0 months). At baseline, the median Children's Hospital of Philadelphia Infant Test for Neuromuscular Disease (CHOP -INTEND) score was 22.0 points (range: 8.0 -37.0) and the median Hammersmith Infant Neurological Examination Module 2 (HINE -2) score was 1.0 (range: 0.0 -5.0).
 
-The primary endpoint was the proportion of patients with the ability to sit without support for at least 5 seconds after 12 months of treatment (BSID -III gross motor scale, Item 22). The key efficacy endpoints of Evrysdi treated patients are shown in Table 2.
+The primary endpoint was the proportion of patients with the ability to sit without support for at least 5 seconds after 12 months of treatment (BSID -III gross motor scale, Item 22). The key efficacy endpoints of risdiplam treated patients are shown in Table 2.
 
 <div style=\"page-break-after: always\"></div>
 
@@ -963,31 +954,31 @@ Figure 2. Mean change from baseline in CHOP -INTEND total score (FIREFISH Part 2
 
 ## FIREFISH Part 1
 
-The efficacy of Evrysdi in Type 1 SMA patients is also supported by results from FIREFISH Part 1. For the 21 patients from Part 1, the baseline characteristics were consistent with symptomatic patients with Type 1 SMA. The median age at enrolment was 6.7 months (range: 3.3-6.9 months) and the median time between onset of symptoms and first dose was 4.0 months (range: 2.0-5.8 months).
+The efficacy of risdiplam in Type 1 SMA patients is also supported by results from FIREFISH Part 1. For the 21 patients from Part 1, the baseline characteristics were consistent with symptomatic patients with Type 1 SMA. The median age at enrolment was 6.7 months (range: 3.3-6.9 months) and the median time between onset of symptoms and first dose was 4.0 months (range: 2.0-5.8 months).
 
-A total of 17 patients received the therapeutic dose of Evrysdi (dose selected for Part 2). After 12 months of treatment, 41% (7/17) of these patients were able to sit independently for at least 5 seconds (BSID -III, Item 22). After 24 months of treatment, 3 more patients receiving the therapeutic dose were able to sit independently for at least 5 seconds, leading to a total of 10 patients (59%) achieving this motor milestone.
+A total of 17 patients received the therapeutic dose of risdiplam (dose selected for Part 2). After 12 months of treatment, 41% (7/17) of these patients were able to sit independently for at least 5 seconds (BSID -III, Item 22). After 24 months of treatment, 3 more patients receiving the therapeutic dose were able to sit independently for at least 5 seconds, leading to a total of 10 patients (59%) achieving this motor milestone.
 
 After 12 months of treatment, 90% (19/21) of patients were alive and event-free (without permanent ventilation) and reached 15 months of age or older. After a minimum of 33 months of treatment, 81% (17/21) of patients were alive and event-free and reached an age of 37 months or older (median 41 months; range 37 to 53 months), see Figure 1. Three patients died during treatment and one patient died 3.5 months after discontinuing treatment.
 
 ## Later Onset SMA
 
-Study BP39055 (SUNFISH), is a 2-part, multicentre study to investigate the efficacy, safety, PK and PD of Evrysdi in SMA Type 2 or Type 3 patients between 2 -25 years of age. Part 1 was the exploratory dose-finding portion and Part 2 was the randomized, double -blind, placebo -controlled confirmatory portion. Patients from Part 1 did not take part in Part 2.
+Study BP39055 (SUNFISH), is a 2-part, multicentre study to investigate the efficacy, safety, PK and PD of risdiplam in SMA Type 2 or Type 3 patients between 2 -25 years of age. Part 1 was the exploratory dose-finding portion and Part 2 was the randomized, double -blind, placebo -controlled confirmatory portion. Patients from Part 1 did not take part in Part 2.
 
 The primary endpoint was the change from baseline score at Month 12 on the Motor Function Measure -32 (MFM32). The MFM32 has the ability to assess a wide range of motor function across a broad range of SMA patients. The total MFM32 score is expressed as a percentage (range: 0 -100) of the maximum possible score, with higher scores indicating greater motor function.
 
 ## SUNFISH Part 2
 
-SUNFISH Part 2 is the randomized, double -blinded, placebo -controlled portion of the SUNFISH study in 180 non -ambulant patients with Type 2 (71%) or Type 3 (29%) SMA. Patients were randomized with 2:1 ratio to receive either Evrysdi at the therapeutic dose (see section 4.2) or placebo. Randomization was stratified by age group (2 to 5, 6 to 11, 12 to 17, 18 to 25 years old).
+SUNFISH Part 2 is the randomized, double -blinded, placebo -controlled portion of the SUNFISH study in 180 non -ambulant patients with Type 2 (71%) or Type 3 (29%) SMA. Patients were randomized with 2:1 ratio to receive either risdiplam at the therapeutic dose (see section 4.2) or placebo. Randomization was stratified by age group (2 to 5, 6 to 11, 12 to 17, 18 to 25 years old).
 
-The median age of patients at the start of treatment was 9.0 years old (range 2 -25 years old), the median time between onset of initial SMA symptoms to first treatment was 102.6 (1 -275) months. Overall, 30% were 2 to 5 years of age, 32% were 6 to 11 years of age, 26% were 12 -17 years of age, and 12% were 18 to 25 years of age at study enrolment. Of the 180 patients included in the study, 51% were female, 67% Caucasian and 19% Asian. At baseline, 67% of patients had scoliosis (32% of patients with severe scoliosis). Patients had a mean baseline MFM32 score of 46.1 and Revised Upper Limb Module (RULM) score of 20.1. The baseline demographic characteristics were balanced between Evrysdi and placebo arms with the exception of scoliosis (63% of patients in the Evrysdi arm and 73% of patients in the placebo control).
+The median age of patients at the start of treatment was 9.0 years old (range 2 -25 years old), the median time between onset of initial SMA symptoms to first treatment was 102.6 (1 -275) months. Overall, 30% were 2 to 5 years of age, 32% were 6 to 11 years of age, 26% were 12 -17 years of age, and 12% were 18 to 25 years of age at study enrolment. Of the 180 patients included in the study, 51% were female, 67% Caucasian and 19% Asian. At baseline, 67% of patients had scoliosis (32% of patients with severe scoliosis). Patients had a mean baseline MFM32 score of 46.1 and Revised Upper Limb Module (RULM) score of 20.1. The baseline demographic characteristics were balanced between risdiplam and placebo arms with the exception of scoliosis (63% of patients in the risdiplam arm and 73% of patients in the placebo control).
 
-The primary analysis for SUNFISH Part 2, the change from baseline in MFM32 total score at Month 12, showed a clinically meaningful and statistically significant difference between patients treated with Evrysdi and placebo. The results of the primary analysis and key secondary endpoints are shown in Table 3, Figure 3, and Figure 4.
+The primary analysis for SUNFISH Part 2, the change from baseline in MFM32 total score at Month 12, showed a clinically meaningful and statistically significant difference between patients treated with risdiplam and placebo. The results of the primary analysis and key secondary endpoints are shown in Table 3, Figure 3, and Figure 4.
 
 <div style=\"page-break-after: always\"></div>
 
 Table 3. Summary of efficacy in patients with later -onset SMA at month 12 of treatment (SUNFISH Part 2)
 
-| Endpoint                                                                                                      | Evrysdi (N = 120)                 | Placebo (N = 60)                  |
+| Endpoint                                                                                                      | risdiplam (N = 120)               | Placebo (N = 60)                  |
 |---------------------------------------------------------------------------------------------------------------|-----------------------------------|-----------------------------------|
 | Primary Endpoint:                                                                                             |                                   |                                   |
 | Change from baseline in MFM32 total score 1 at Month 12 LS mean (95%, CI)                                     | 1.36 (0.61, 2.11)                 | -0.19 (-1.22, 0.84)               |
@@ -998,23 +989,20 @@ Table 3. Summary of efficacy in patients with later -onset SMA at month 12 of tr
 | Change from baseline in RULM total score 5 at Month 12 LS mean (95% CI)                                       | 1.61 (1.00, 2.22)                 | 0.02 (-0.83, 0.87)                |
 | Difference from placebo estimate (95% CI) Adjusted (unadjusted) p-value 2,4                                   | 1.59 (0.55, 2.62) 0.0469          | (0.0028)                          |
 
-LS  least squares
-
 2. Data analysed using a mixed model repeated measure with baseline total score, treatment, visit, age group, treatmentby-visit and baseline-by-visit.
-
 4. The adjusted p -value was obtained for the endpoints included in the hierarchical testing and was derived based on all the p-values from endpoints in order of the hierarchy up to the current endpoint
-
 3. Data analysed using logistic regression with baseline total score, treatment and age group.
+5. Based on the missing data rule for RULM, 3 patients were excluded from the analysis (risdiplam n=119; placebo control n=58).
 
-5. Based on the missing data rule for RULM, 3 patients were excluded from the analysis (Evrysdi n=119; placebo control n=58).
-
-Upon completion of 12 months of treatment, 117 patients continued to receive Evrysdi. At the time of the 24 month analysis, these patients who were treated with Evrysdi for 24 months overall experienced maintenance of improvement in motor function between month 12 and month 24. The mean change from baseline for MFM32 was 1.83 (95% CI: 0.74, 2.92) and for RULM was 2.79 (95% CI: 1.94, 3.64).
-
-<div style=\"page-break-after: always\"></div>
+Upon completion of 12 months of treatment, 117 patients continued to receive risdiplam. At the time of the 24 month analysis, these patients who were treated with risdiplam for 24 months overall experienced maintenance of improvement in motor function between month 12 and month 24. The mean change from baseline for MFM32 was 1.83 (95% CI: 0.74, 2.92) and for RULM was 2.79 (95% CI: 1.94, 3.64).
 
 Figure 3. Mean change from baseline in MFM32 total score over 12 months in SUNFISH Part 2 1
 
 <!-- image -->
+
+<div style=\"page-break-after: always\"></div>
+
+1 The least squares (LS) mean difference for change from baseline in MFM32 score [95% CI]
 
 Figure 4. Mean change from baseline in RULM total score over 12 months in SUNFISH Part 2 1
 
@@ -1024,25 +1012,25 @@ Figure 4. Mean change from baseline in RULM total score over 12 months in SUNFIS
 
 Efficacy in later -onset SMA patients was also supported by results from Part 1, the dose -finding part of SUNFISH. In Part 1, 51 patients with Type 2 and 3 SMA (including 7 ambulatory patients) between 2 to 25 years of age were enrolled. After 1 year of treatment there was a clinically meaningful improvement in motor function as measured by MFM32, with a mean change from baseline of 2.7 points (95% CI: 1.5, 3.8). The improvement in MFM32 was maintained up to 2 years on treatment (mean change of 2.7 points [95% CI: 1.2, 4.2]).
 
-<div style=\"page-break-after: always\"></div>
-
 ## Use in patients previously treated with other SMA -modifying therapies (JEWELFISH)
 
-Study BP39054 (JEWELFISH, n = 174) is a single arm, open -label study to investigate the safety, tolerability, PK and PD of Evrysdi in patients with infantile -onset and later -onset SMA (median age 14 years [range 1 -60 years]), who had previously received treatment with other approved (nusinersen n = 76, onasemnogene abeparvovec n = 14) or investigational SMA modifying therapies. At baseline, out of the 168 patients aged 2 -60 years, 83% of patients had scoliosis and 63% had a Hammersmith Functional Motor Scale Expanded (HFMSE) score  10 points.
+Study BP39054 (JEWELFISH, n = 174) is a single arm, open -label study to investigate the safety, tolerability, PK and PD of risdiplam in patients with infantile -onset and later -onset SMA (median age 14 years [range 1 -60 years]), who had previously received treatment with other approved (nusinersen n = 76, onasemnogene abeparvovec n = 14) or investigational SMA modifying therapies. At baseline, out of the 168 patients aged 2 -60 years, 83% of patients had scoliosis and 63% had a Hammersmith Functional Motor Scale Expanded (HFMSE) score  10 points.
 
 At the analysis at month 24 of treatment, patients 2 -60 years of age showed overall stabilization in motor function in MFM-32 and RULM (n = 137 and n = 133, respectively). Patients less than 2 years (n = 6) maintained or gained motor milestones such as head control, rolling and sitting independently. All ambulatory patients (aged 5 -46 years, n = 15) retained their ability to walk.
 
-Pre-symptomatic SMA (RAINBOWFISH)
+## Pre-symptomatic SMA (RAINBOWFISH)
 
-Study BN40703 (RAINBOWFISH) is an open -label, single -arm, multicenter clinical study to investigate the efficacy, safety, pharmacokinetics, and pharmacodynamics of Evrysdi in infants from birth to 6 weeks of age (at first dose) who have been genetically diagnosed with SMA but do not yet present with symptoms.
+Study BN40703 (RAINBOWFISH) is an open -label, single -arm, multicenter clinical study to investigate the efficacy, safety, pharmacokinetics, and pharmacodynamics of risdiplam in infants from birth to 6 weeks of age (at first dose) who have been genetically diagnosed with SMA but do not yet present with symptoms.
 
-The efficacy in pre-symptomatic SMA patients was evaluated at Month 12 in 26 patients [intent -to -treat (ITT) population] treated with Evrysdi: eight patients, 13 patients, and 5 patients had 2, 3, and ≥ 4 copies of the SMN2 gene, respectively. The median age of these patients at first dose was 25 days (range: 16 to 41 days), 62% were female, and 85% were Caucasian. At baseline, the median CHOP -INTEND score was 51.5 (range: 35.0 to 62.0), the median HINE -2 score was 2.5 (range: 0 to 6.0), and the median ulnar nerve compound muscle action potential (CMAP) amplitude was 3.6 mV (range: 0.5 to 6.7 mV).
+<div style=\"page-break-after: always\"></div>
+
+The efficacy in pre-symptomatic SMA patients was evaluated at Month 12 in 26 patients [intent -to -treat (ITT) population] treated with risdiplam: eight patients, 13 patients, and 5 patients had 2, 3, and ≥ 4 copies of the SMN2 gene, respectively. The median age of these patients at first dose was 25 days (range: 16 to 41 days), 62% were female, and 85% were Caucasian. At baseline, the median CHOP -INTEND score was 51.5 (range: 35.0 to 62.0), the median HINE -2 score was 2.5 (range: 0 to 6.0), and the median ulnar nerve compound muscle action potential (CMAP) amplitude was 3.6 mV (range: 0.5 to 6.7 mV).
 
 The primary efficacy population (N=5) included patients with 2 SMN2 copies and a baseline CMAP amplitude  1.5 mV. In these patients, the median CHOP-INTEND score was 48.0 (range: 36.0 to 52.0), the median HINE -2 score was 2.0 (range 1.0 to 3.0), and the median CMAP amplitude was 2.6 mV (range: 1.6 to 3.8 mV) at baseline.
 
 The primary endpoint was the proportion of patients in the primary efficacy population with the ability to sit without support for at least 5 seconds (BSID -III gross motor scale, Item 22) at Month 12; a statistically significant and clinically meaningful proportion of patients achieved this milestone compared to the predefined performance criterion of 5%.
 
-The key efficacy endpoints of Evrysdi treated patients are shown in Table 4 and 5, and in Figure 5.
+The key efficacy endpoints of risdiplam treated patients are shown in Table 4 and 5, and in Figure 5.
 
 Table 4. Sitting ability as defined by BSID -III Item 22 for pre -symptomatic patients at Month 12
 
@@ -1051,7 +1039,11 @@ Table 4. Sitting ability as defined by BSID -III Item 22 for pre -symptomatic pa
 |                                                                                                     | Primary Efficacy (N=5)          | Patients with 2 SMN2 copies a (N  8) | ITT (N=26)           |
 | Proportion of patients sitting without support for at least 5 seconds (BSID-III, Item 22); (90% CI) | 80% (34.3%, 99.0%) p  0.0001 b | 87.5% (52.9%, 99.4%)                  | 96.2% (83.0%, 99.8%) |
 
-<div style=\"page-break-after: always\"></div>
+Abbreviations: BSID -III = Bayley Scales of Infant and Toddler Development - Third Edition; CI=Confidence Interval; ITT=Intent -to -treat.
+
+a  Patients with 2 SMN2 copies had a median CMAP amplitude of 2.0 (range 0.5 - 3.8) at baseline.
+
+b  p-value is based on a one-sided exact binomial test. The result is compared to a threshold of 5%.
 
 Additionally, 80% (4/5) of the primary efficacy population, 87.5% (7/8) of patients with 2 SMN2 copies, and 80.8% (21/26) of patients in the ITT population achieved sitting without support for 30 seconds (BSID-III, Item 26).
 
@@ -1192,7 +1184,9 @@ Juvenile animal data reveal no special hazard for humans.
 
 ## 6.1 List of excipients
 
-Tablet core tartaric acid (E 334) mannitol (E 421) microcrystalline cellulose (E460) silica, colloidal anhydrous  (E 551) crospovidone sodium stearyl fumarate strawberry flavour
+Tablet core tartaric acid (E 334) mannitol (E 421) microcrystalline cellulose (E460) silica, colloidal anhydrous  (E 551) crospovidone sodium stearyl fumarate
+
+strawberry flavour: natural flavouring substance(s), flavouring preparation(s), maize maltodextrin, modified waxy maize starch (E1450)
 
 Film -coat polyvinyl alcohol titanium dioxide (E 171) macrogol 3350 (E 1521) talc (E 553b) yellow iron oxide (E 172)
 
@@ -1232,7 +1226,7 @@ EU/1/21/1531/002
 
 ## 9. DATE OF FIRST AUTHORISATION/RENEWAL OF THE AUTHORISATION
 
-Date of first authorisation: 26 March 2021
+Date of first authorisation: 26 March 2021 Date of latest renewal:
 
 ## 10. DATE OF REVISION OF THE TEXT
 
@@ -1264,8 +1258,6 @@ Medicinal product subject to restricted medical prescription (see Annex I: Summa
 ## ● Periodic safety update reports (PSURs)
 
 The requirements for submission of PSURs for this medicinal product are set out in the list of Union reference dates (EURD list) provided for under Article 107c(7) of Directive 2001/83/EC and any subsequent updates published on the European medicines web-portal.
-
-The marketing authorisation holder (MAH) shall submit the first PSUR for this product within 6 months following authorisation.
 
 ## D. CONDITIONS OR RESTRICTIONS WITH REGARD TO THE SAFE AND EFFECTIVE USE OF THE MEDICINAL PRODUCT
 
@@ -1308,7 +1300,7 @@ Evrysdi 0.75 mg/mL powder for oral solution risdiplam
 
 ## 2. STATEMENT OF ACTIVE SUBSTANCE(S)
 
-1 bottle contains 60 mg of risdiplam in 2.0 g powder.
+1 bottle contains 60 mg of risdiplam in 2 g powder.
 
 ## 3. LIST OF EXCIPIENTS
 
@@ -1322,7 +1314,7 @@ See leaflet for further information.
 
 1 bottle
 
-Also contains 1 press-in bottle adaptor, 5 re-usable syringes (two 1 mL, two 6 mL and one 12 mL)
+Also contains 1 press-in bottle adaptor, 5 re-usable syringes (two 1 mL, two 6 mL and one 12 mL).
 
 ## 5. METHOD AND ROUTE(S) OF ADMINISTRATION
 
@@ -1348,7 +1340,7 @@ Oral solution. Discard after (dd-mm-yyyy)
 
 ## 9. SPECIAL STORAGE CONDITIONS
 
-Powder for oral solution: Do not store above 25°C. Keep the bottle tightly closed in order to protect from moisture .
+Powder for oral solution: Do not store above 25°C. Keep the bottle tightly closed in order to protect from moisture.
 
 Constituted oral solution: Store in a refrigerator (2°C - 8°C). Store in original bottle, tightly closed, and always in an upright position
 
@@ -1394,7 +1386,7 @@ Evrysdi 0.75 mg/mL powder for oral solution risdiplam
 
 ## 2. STATEMENT OF ACTIVE SUBSTANCE(S)
 
-1 bottle contains 60 mg of risdiplam in 2.0 g powder.
+1 bottle contains 60 mg of risdiplam in 2 g powder.
 
 ## 3. LIST OF EXCIPIENTS
 
@@ -1488,7 +1480,7 @@ Keep out of the sight and reach of children
 
 ## 7. OTHER SPECIAL WARNING(S), IF NECESSARY
 
-8. EXPIRY DATE
+## 8. EXPIRY DATE
 
 EXP
 
@@ -1520,7 +1512,8 @@ Lot
 | 14.   | GENERAL CLASSIFICATION FOR SUPPLY   |
 |-------|-------------------------------------|
 
-15. INSTRUCTIONS ON USE
+| 15.   | INSTRUCTIONS ONUSE   |
+|-------|----------------------|
 
 | 16.   | INFORMATION IN BRAILLE   |
 |-------|--------------------------|
@@ -1574,15 +1567,9 @@ Mon. Tue. Wed. Thu. Fri. Sat. Sun.
 
 <div style=\"page-break-after: always\"></div>
 
-<!-- image -->
-
 ## Package leaflet: Information for the patient
 
-## Evrysdi 0.75 mg/mL powder for oral solution
-
-## risdiplam
-
-This medicine is subject to additional monitoring. This will allow quick identification of new safety information. You can help by reporting any side effects you may get. See the end of section 4 for how to report side effects.
+## Evrysdi 0.75 mg/mL powder for oral solution risdiplam
 
 ## Read all of this leaflet carefully before taking this medicine because it contains important information for you.
 
@@ -1624,12 +1611,13 @@ Evrysdi works by helping the body produce more SMN protein.
 
 -  This means you lose fewer motor neurons - this may improve how well muscles work in people with SMA.
 
-<div style=\"page-break-after: always\"></div>
-
 In infants with SMA Type 1, Evrysdi may:
 
 -  increase how long they live
 -  reduce the need for a ventilator to help with breathing
+
+<div style=\"page-break-after: always\"></div>
+
 -  help them be able to keep being fed by mouth.
 
 In children (toddlers to adolescents) and adults with SMA Type 2 and 3, Evrysdi may:
@@ -1680,11 +1668,11 @@ You must use a highly effective method of birth control:
 -  while taking this medicine and
 -  for one month after you stop taking this medicine.
 
-<div style=\"page-break-after: always\"></div>
-
 Talk to your doctor about highly effective methods of birth control that you and your partner can use.
 
 ## For men
+
+<div style=\"page-break-after: always\"></div>
 
 If your partner is a woman who can have children, she must not become pregnant. Use condoms:
 
@@ -1728,11 +1716,11 @@ If you get Evrysdi powder for oral solution, you should receive the medicine as 
 
 Evrysdi is also available as a film-coated tablet. Your doctor will help you choose the right one for you.
 
-<div style=\"page-break-after: always\"></div>
-
 ## How much Evrysdi to take
 
 Your doctor will choose the right dose of Evrysdi based on patient age and weight.
+
+<div style=\"page-break-after: always\"></div>
 
 You must take your daily dose as instructed by your doctor.
 
@@ -1786,13 +1774,13 @@ If you spill this medicine, dry the area with a dry paper towel and then clean t
 
 If you have any further questions on the use of this medicine, ask your doctor, pharmacist, or nurse.
 
-<div style=\"page-break-after: always\"></div>
-
 ## 4. Possible side effects
 
 Like all medicines, this medicine can cause side effects, although not everybody gets them.
 
 Very common: may affect more than 1 in 10 people
+
+<div style=\"page-break-after: always\"></div>
 
 -  diarrhoea
 -  rash
@@ -1827,15 +1815,16 @@ If you get any side effects, talk to your doctor, pharmacist or nurse. This incl
 
 Do not throw away any medicines via wastewater or household waste. Ask your pharmacist how to throw away medicines you no longer use. These measures will help protect the environment.
 
-<div style=\"page-break-after: always\"></div>
-
 ## 6. Contents of the pack and other information
 
 ## What Evrysdi contains
 
 -  The active substance in the oral solution is risdiplam.
 -  Each mL of the oral solution contains 0.75 mg risdiplam.
--  The other ingredients are mannitol (E 421), isomalt (E 953), strawberry flavour, tartaric acid (E 334), sodium benzoate (E 211), macrogol 6000 (E 1521), sucralose, ascorbic acid (E 300), disodium edetate dihydrate (see Section 2 'Evrysdi contains sodium' and 'Evrysdi contains isomalt').
+
+<div style=\"page-break-after: always\"></div>
+
+-  The other ingredients are mannitol (E 421), isomalt (E 953), strawberry flavour [natural flavouring substance(s), flavouring preparation(s), maize maltodextrin, modified waxy maize starch (E1450)], tartaric acid (E 334), sodium benzoate (E 211), macrogol 6000 (E 1521), sucralose, ascorbic acid (E 300), disodium edetate dihydrate (see Section 2 'Evrysdi contains sodium' and 'Evrysdi contains isomalt').
 
 ## What Evrysdi looks like and contents of the pack
 
@@ -1853,7 +1842,11 @@ Roche Pharma AG Emil-Barell-Strasse 1 79639 Grenzach-Wyhlen Germany
 
 For any information about this medicine, please contact the local representative of the Marketing Authorisation Holder:
 
-België/Belgique/Belgien, Luxembourg/Luxemburg N.V. Roche S.A. België/Belgique/Belgien Tél/Tel: +32 (0) 2 525 82 11
+## België/Belgique/Belgien, Luxembourg/Luxemburg
+
+N.V. Roche S.A. België/Belgique/Belgien
+
+Tél/Tel: +32 (0) 2 525 82 11
 
 ## Latvija
 
@@ -1871,9 +1864,7 @@ Tel: +371 - 6 7039831
 
 ## Lietuva
 
-UAB 'Roche Lietuva'
-
-Tel: +370 5 2546799
+UAB 'Roche Lietuva' Tel: +370 5 2546799
 
 ## Č eská republika
 
@@ -2031,10 +2022,10 @@ Evrysdi should come as a liquid in a bottle when you receive it. Evrysdi is prep
 
 ## Important information about Evrysdi
 
--  Ask your doctor or pharmacist to show you which oral syringe you should use and how to measure your daily dose.
 -  Always use the re-usable oral syringes in the pack to measure your daily dose.
+-  See 'How to select the correct oral syringe for your dose of Evrysdi' .
+-  Ask your pharmacist if you have questions on how to select the right oral syringe from the pack and how to measure your daily dose.
 -  Contact your doctor or pharmacist if your oral syringe(s) is/are lost or damaged. They will advise you about how to continue to take your medicine.
--  See 'How to select the correct oral syringe for your dose of Evrysdi' . Ask your pharmacist if you have questions on how to select the right oral syringe.
 -  If the bottle adaptor is not in the bottle, do not use Evrysdi and contact your pharmacist.
 -  The oral solution may be stored at room temperature (below 40 ˚ C) for no more than a total of 120 hours (5 days).  Monitor the total time outside the refrigerator (below 40 ˚ C).
 -  Do not use Evrysdi after the Discard after date written on the bottle label or if you or your caregiver have stored the bottle at room temperature (below 40 ˚ C) for more than a total of 120 hours (5 days). Ask your pharmacist for the Discard after date if it is not written on the bottle label.
@@ -2345,7 +2336,10 @@ Figure A
 
 ## How to store Evrysdi
 
--  Store the powder (unconstituted medicine) at room temperature (&lt; 25°C ) and keep it in the carton with the bottle tightly closed in order to protect from moisture.
+-  Store the powder (unconstituted medicine) at room temperature (&lt; 25°C) and keep it in the carton with the bottle tightly closed in order to protect from moisture.
+
+.
+
 -  Store the solution (constituted medicine) in a refrigerator (2 to 8°C) and keep it in the carton upright.
 -  Keep the oral solution in the original bottle and always keep the bottle in an upright position with the cap tightly closed.
 
@@ -2371,7 +2365,7 @@ Gently tap the bottom of the bottle to loosen the powder (See Figure B).
 
 Remove the cap by pushing it down and then twisting to the left (counter-clockwise) (See Figure C). Do not throw away the cap.
 
-Step 3
+## Step 3
 
 Carefully pour 79 mL of Purified Water or Water for Injection into the medicine bottle (See Figure D).
 
@@ -2415,13 +2409,9 @@ Store the carton in the refrigerator (2 to 8°C).
 
 <div style=\"page-break-after: always\"></div>
 
-<!-- image -->
-
 ## Package leaflet: Information for the patient
 
 ## Evrysdi 5 mg film-coated tablets risdiplam
-
-This medicine is subject to additional monitoring. This will allow quick identification of new safety information. You can help by reporting any side effects you may get. See the end of section 4 for how to report side effects.
 
 ## Read all of this leaflet carefully before taking this medicine because it contains important information for you.
 
@@ -2461,13 +2451,13 @@ Evrysdi works by helping the body produce more SMN protein.
 
 -  This means you lose fewer motor neurons - this may improve how well muscles work in people with SMA.
 
-<div style=\"page-break-after: always\"></div>
-
 In infants with SMA Type 1, Evrysdi may:
 
 -  increase how long they live
 -  reduce the need for a ventilator to help with breathing
 -  help them be able to keep being fed by mouth.
+
+<div style=\"page-break-after: always\"></div>
 
 In children (toddlers to adolescents) and adults with SMA Type 2 and 3, Evrysdi may:
 
@@ -2519,13 +2509,14 @@ You must use a highly effective method of birth control:
 
 Talk to your doctor about highly effective methods of birth control that you and your partner can use.
 
-<div style=\"page-break-after: always\"></div>
-
 ## For men
 
 If your partner is a woman who can have children, she must not become pregnant. Use condoms:
 
 -  while taking this medicine and
+
+<div style=\"page-break-after: always\"></div>
+
 -  for 4 months after you stop taking this medicine.
 
 Talk to your doctor about highly effective methods of birth control that you and your partner can use.
@@ -2576,14 +2567,14 @@ Take Evrysdi:
 -  once a day, at around the same time - this will help you remember when to take your medicine
 -  with or without food.
 
-<div style=\"page-break-after: always\"></div>
-
 There are two ways your doctor may tell you to take Evrysdi film-coated tablets:
 
 -  Take Evrysdi by mouth. Swallow each tablet whole with some water.
 - -Do not cut, crush or chew the tablets.
 
-## Or
+Or
+
+<div style=\"page-break-after: always\"></div>
 
 -  Take Evrysdi by mouth after dispersing it in a small amount of room temperature water.
 - -Do not mix Evrysdi with any liquids other than water.
@@ -2630,19 +2621,20 @@ Very common: may affect more than 1 in 10 people
 -  headache
 -  fever
 
-Common:
-
-may affect up to 1 in 10 people
-
-<div style=\"page-break-after: always\"></div>
+Common: may affect up to 1 in 10 people
 
 -  feeling sick (nausea)
 -  mouth sores
 -  bladder infection
 -  joint pain
--  inflamed small blood vessels mainly in the skin (cutaneous vasculitis)
 
-Not known: it is not known how often these happen
+Not known:
+
+it is not known how often these happen
+
+<div style=\"page-break-after: always\"></div>
+
+-  inflamed small blood vessels mainly in the skin (cutaneous vasculitis)
 
 ## Reporting of side effects
 
@@ -2664,7 +2656,7 @@ Do not throw away any medicines via wastewater or household waste. Ask your phar
 
 -  The active substance in the film-coated tablet is risdiplam.
 -  Each film-coated tablet contains 5 mg risdiplam.
--  The other ingredients are tartaric acid (E 334), mannitol (E 421), microcrystalline cellulose, silica, colloidal anhydrous (E 551), crospovidone, strawberry flavor and sodium stearyl fumarate, polyvinyl alcohol, titanium dioxide (E 171), macrogol 3350 (E 1521), talc (E 553b) and yellow iron oxide (E 172).
+-  The other ingredients are tartaric acid (E 334), mannitol (E 421), microcrystalline cellulose, silica, colloidal anhydrous (E 551), crospovidone, strawberry flavour [natural flavouring substance(s), flavouring preparation(s), maize maltodextrin, modified waxy maize starch (E1450)] and sodium stearyl fumarate, polyvinyl alcohol, titanium dioxide (E 171), macrogol 3350 (E 1521), talc (E 553b) and yellow iron oxide (E 172).
 
 ## What Evrysdi looks like and contents of the pack
 

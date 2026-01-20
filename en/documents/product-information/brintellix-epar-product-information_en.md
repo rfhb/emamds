@@ -1,18 +1,18 @@
 ---
-document_datetime: 2025-08-07 15:43:59
+document_datetime: 2026-01-19 16:53:29
 document_pages: 113
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/brintellix-epar-product-information_en.pdf
 document_name: brintellix-epar-product-information_en.pdf
 version: success
-processing_time: 29.5667982
-conversion_datetime: 2025-12-20 14:55:14.067661
+processing_time: 23.7474649
+conversion_datetime: 2026-01-20 20:35:10.929501
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.64.1
-  docling-core: 2.55.0
+  docling-serve: 1.10.0
+  docling-jobkit: 1.8.1
+  docling: 2.69.0
+  docling-core: 2.60.0
   docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-parse: 4.7.3
   python: cpython-313 (3.13.11)
   plaform: macOS-26.2-arm64-arm-64bit-Mach-O
 ---
@@ -20,13 +20,15 @@ docling_version:
 
 ## SUMMARY OF PRODUCT CHARACTERISTICS
 
-1
-
 <div style=\"page-break-after: always\"></div>
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
-Brintellix 5 mg film-coated tablets Brintellix 10 mg film-coated tablets Brintellix 15 mg film-coated tablets
+Brintellix 5 mg film-coated tablets
+
+Brintellix 10 mg film-coated tablets
+
+Brintellix 15 mg film-coated tablets
 
 Brintellix 20 mg film-coated tablets
 
@@ -296,9 +298,9 @@ Observational data have provided evidence of an increased risk (less than 2-fold
 
 ## Breast-feeding
 
-Available data in animals have shown excretion of vortioxetine/ vortioxetine metabolites in milk. It is expected that vortioxetine will be excreted into human milk (see section 5.3).
+Limited published data show that Vortioxetine is excreted in small amounts into human breast milk with an estimated relative infant dose (RID) below 2%. No harmful, drug-associated effects have been observed in the infants.
 
-A risk to the breastfeeding child cannot be excluded.
+However, available clinical data are limited, and a risk to the breastfeeding child cannot be excluded.
 
 A decision must be made whether to discontinue breast-feeding or to discontinue/abstain from Brintellix treatment taking into account the benefit of breast-feeding for the child and the benefit of therapy for the woman.
 
@@ -346,8 +348,6 @@ Adverse reactions are listed below using the following convention: very common (
 | Skin and subcutaneous tissue disorders              | Not known*  | Angioedema, Urticaria Rash                                                                     |
 | General disorder and administration site conditions | Not known*  | Discontinuation syndrome                                                                       |
 
-* Based on post-marketing cases
-
 ## Description of selected adverse reactions
 
 ## Nausea
@@ -360,7 +360,7 @@ For doses ≥10 mg vortioxetine once daily, the withdrawal rate from the studies
 
 <div style=\"page-break-after: always\"></div>
 
-For doses of 20 mg vortioxetine once daily, the incidences of nausea and constipation were higher in patients aged ≥65 years (42% and 15%, respectively) than in patients aged &lt;65 years (27% and 4%, respectively)(see section 4.4).
+For doses of 20 mg vortioxetine once daily, the incidences of nausea and constipation were higher in patients aged ≥65 years (4 2% and 15%, respectively) than in patients aged &lt;65 years (27% and 4%, respectively)(see section 4.4).
 
 ## Sexual dysfunction
 
@@ -404,7 +404,7 @@ Pharmacotherapeutic group: Psychoanaleptics; Other antidepressants, ATC code: N0
 
 ## Mechanism of action
 
-The mechanism of action of vortioxetine is thought to be related to its direct modulation of serotonergic receptor activity and inhibition of the serotonin (5-HT) transporter. Nonclinical data indicate that vortioxetine is a 5-HT 3 , 5-HT 7 , and 5-HT 1D receptor antagonist, 5-HT 1B receptor partial agonist, 5-HT1A receptor agonist and inhibitor of the 5-HT transporter, leading to modulation of neurotransmission in several systems, including predominantly the serotonin but probably also the norepinephrine, dopamine, histamine, acetylcholine, GABA and glutamate systems. This multimodal activity is considered responsible for the antidepressant and anxiolytic-like effects and the improvement of cognitive function, learning and memory observed with vortioxetine in animal studies . However, the precise contribution of the individual targets to the observed pharmacodynamic profile remains unclear and caution should be applied when extrapolating animal data directly to man.
+The mechanism of action of vortioxetine is thought to be related to its direct modulation of serotonergic receptor activity and inhibition of the serotonin (5-HT) transporter. Nonclinical data indicate that vortioxetine is a 5-HT3, 5-HT7, and 5-HT1D receptor antagonist, 5-HT1B receptor partial agonist, 5-HT1A receptor agonist and inhibitor of the 5-HT transporter, leading to modulation of neurotransmission in several systems, including predominantly the serotonin but probably also the norepinephrine, dopamine, histamine, acetylcholine, GABA and glutamate systems. This multimodal activity is considered responsible for the antidepressant and anxiolytic-like effects and the improvement of cognitive function, learning and memory observed with vortioxetine in animal studies . However, the precise contribution of the individual targets to the observed pharmacodynamic profile remains unclear and caution should be applied when extrapolating animal data directly to man.
 
 In humans, two positron emission tomography (PET) studies have been conducted using 5-HT transporter ligands ( 11 C-MADAM or  11 C-DASB) to quantify the 5-HT transporter occupancy in the brain across different dose levels. The mean 5-HT transporter occupancy in the raphe nucle i was approximately 50% at 5 mg/day, 65% at 10 mg/day and increased to above 80% at 20 mg/day.
 
@@ -426,17 +426,15 @@ The maintenance of antidepressant efficacy was demonstrated in a relapse-prevent
 
 ## Elderly
 
-In the 8-week, double-blind, placebo-controlled, fixed-dose study in elderly depressed patients (aged ≥65 years, n=452, 156 of whom were on vortioxetine), vortioxetine 5 mg/day was superior to placebo as measured by improvement in the MADRS and HAM-D24 total scores. The effect seen with vortioxetine was a 4.7 point difference to placebo in MADRS total score at Week 8 (MMRM analysis).
+In the 8-week, double-blind, placebo-controlled, fixed-dose study in elderly depressed patients (aged ≥65 years , n=452, 156 of whom were on vortioxetine), vortioxetine 5 mg/day was superior to placebo as measured by improvement in the MADRS and HAM-D24 total scores. The effect seen with vortioxetine was a 4.7 point difference to placebo in MADRS total score at Week 8 (MMRM analysis).
 
-Patients with severe depression or with depression and high levels of anxiety symptoms In severely depressed patients (baseline MADRS total score ≥30) and in depressed patients with a high level of anxiety symptoms (baseline HAM-A total score ≥20) vortioxetine also demonstrated efficacy in the short-term studies in adults (the overall mean difference to placebo in MADRS total score at Week 6/8 ranged from 2.8 to 7.3 points and from 3.6 to 7.3 points, respectively,(MMRM analysis)). In the dedicated study in elderly, vortioxetine was also effective in these patients.
-
-The maintenance of antidepressant efficacy was also demonstrated in this patient population in the long-term relapse prevention study.
+Patients with severe depression or with depression and high levels of anxiety symptoms In severely depressed patients (baseline MADRS total score ≥ 30) and in depressed patients with a high level of anxiety symptoms (baseline HAMA total score ≥ 20) vortioxetine also demonstrated efficacy in the short-term studies in adults (the overall mean difference to placebo in MADRS total score at Week 6/8 ranged from 2.8 to 7.3 points and from 3.6 to 7.3 points, respectively,(MMRM analysis)). In the dedicated study in elderly, vortioxetine was also effective in these patients. The maintenance of antidepressant efficacy was also demonstrated in this patient population in the long-term relapse prevention study.
 
 Effects of vortioxetine on the Digit Symbol Substitution Test (DSST), the University of California San Diego Performance-Based Skills Assessment (UPSA) (objective measures) and Perceived Deficits Questionnaire (PDQ) and Cognitive and Physical Functioning Questionnaire CPFQ (subjective measures) scores
 
 The efficacy of vortioxetine (5-20 mg/day) in patients with MDD has been investigated in 2 adult and 1 elderly short-term, placebo-controlled studies.
 
-Vortioxetine had a statistically significant effect versus placebo on the Digit Symbol Substitution Test (DSST), ranging from Δ = 1.75 (p = 0.019) to 4.26 (p &lt;0.0001) in the 2 studies in adults and Δ = 2.79 (p = 0.023) in the study in the elderly. In the meta-analyses (ANCOVA, LOCF) of the mean change from baseline in DSST number of correct symbols in all 3 studies, vortioxetine separated from placebo (p&lt;0.05) with a standardised effect size of 0.35. When adjusting for the change in MADRS the total score in the meta-analysis of the same studies showed that vortioxetine separated from placebo (p&lt;0.05) with a standardised effect size of 0.24.
+Vortioxetine had a statistically significant effect versus placebo on the Digit Symbol Substitution Test (DSST), ranging fr om Δ = 1.75 (p = 0.019) to 4.26 (p &lt;0.0001) in the 2 studies in adults and Δ = 2.79 (p = 0.023) in the study in the elderly. In the meta-analyses (ANCOVA, LOCF) of the mean change from baseline in DSST number of correct symbols in all 3 studies, vortioxetine separated from placebo (p&lt;0.05) with a standardised effect size of 0.35. When adjusting for the change in MADRS the total score in the meta-analysis of the same studies showed that vortioxetine separated from placebo (p&lt;0.05) with a standardised effect size of 0.24.
 
 One study assessed the effect of vortioxetine on functional capacity using the University of California San Diego Performance-Based Skills Assessment (UPSA). Vortioxetine separated from placebo statistically with results of 8.0 for vortioxetine versus 5.1 points for placebo (p=0.0003).
 
@@ -452,7 +450,7 @@ In clinical short- and long-term placebo-controlled studies, potential discontin
 
 The incidence of self-reported adverse sexual reactions was low and similar to placebo in clinical short- and long-term studies with vortioxetine. In studies using the Arizona Sexual Experience Scale (ASEX), the incidence of treatment-emergent sexual dysfunction (TESD) and the ASEX total score showed no clinically relevant difference to placebo in symptoms of sexual dysfunction at the 5 to 15 mg/day doses of vortioxetine. For the 20 mg/day dose, an increase in TESD was seen compared to placebo (an incidence difference of 14.2%, 95% CI [1.4, 27.0]).
 
-The effect of vortioxetine on sexual function was further evaluated in an 8-week, double-blind, flexible-dose, comparative study (n=424) versus escitalopram in patients treated for at least 6 weeks with an SSRI (citalopram, paroxetine, or sertraline), with a low level of depressive symptoms (baseline CGI-S ≤ 3) and TESD induced by the prior SSRI treatment. Vortioxetine 10-20 mg/day had statistically significantly less TESD than escitalopram 10-20 mg/day as measured by change in the CSFQ-14 total score (2.2 points, p=0.013) at week 8. The proportion of responders was not significantly different in the vortioxetine group (162 (74.7%)) compared with the escitalopram group (137 (66.2%)) at week 8  (OR 1.5 p=0.057). The antidepressant effect was maintained in both treatment groups.
+The effect of vortioxetine on sexual function was further evaluated in an 8-week, double-blind, flexible-dose, comparative study (n=424) versus escitalopram in patients treated for at least 6 weeks with an SSRI (citalopram, paroxetine, or sertraline), with a low level of depressive symptoms (baseline CGIS ≤ 3) and TESD induced by the prior SSRI treatment. Vortioxetine 10-20 mg/day had statistically significantly less TESD than escitalopram 10-20 mg/day as measured by change in the CSFQ-14 total score (2.2 points, p=0.013) at week 8. The proportion of responders  was not significantly different in the vortioxetine group (162 (74.7%)) compared with the escitalopram group (137 (66.2%)) at week 8  (OR 1.5 p=0.057). The antidepressant effect was maintained in both treatment groups.
 
 Vortioxetine had no effect relative to placebo on body weight, heart rate, or blood pressure in clinical short- and long-term studies.
 
@@ -462,11 +460,11 @@ No clinically significant changes were observed in hepatic or renal assessments 
 
 Two short-term, randomised, double-blind, placebo-controlled, fixed-dose (vortioxetine 10 mg/day and 20 mg/day), active-referenced (fluoxetine), efficacy and safety studies have been conducted; one in children aged 7 to 11 years with MDD, and one in adolescents aged 12 to 17 years with MDD. The studies included a 4-week single-blind placebo lead-in period with standardized psychosocial intervention (treated patients in children study N=677, adolescent study N=777) and only nonresponders from the lead-in period were randomised (children study N=540, adolescent study N=616).
 
-In the study in children aged 7 to 11 years, the average effect of the two vortioxetine doses 10 and 20 mg/day was not statistically significantly different from placebo based on the Children´s Depression Rating Scale-Revised (CDRS-R) total score at week 8, nor was the active reference (fluoxetine 20 mg/day), nor did the individual vortioxetine doses (10 and 20mg/day) show a nominally significant difference from placebo. In general, the adverse event profile of vortioxetine in children was similar to that seen for adults, except for higher incidence of abdominal pain reported in children. Discontinuation due to adverse events was 2.0% in patients treated with vortioxetine 20 mg/day, 1.3% for vortioxetine 10 mg/day, 0.7% for placebo, and no discontinuations for fluoxetine. The most commonly reported adverse events in the vortioxetine treatment groups were nausea, headache, vomiting, dizziness, and abdominal pain. The incidence of nausea, vomiting and abdominal pain was higher in the vortioxetine groups than in the placebo group. Suicidal ideation and behaviour were reported as adverse events during the 4-week single-blind lead-in period (placebo 2/677 [0.3%]), and
+In the study in children aged 7 to 11 years, the average effect of the two vortioxetine doses 10 and 20 mg/day was not statistically significantly different from placebo based on the Children´s Depression Rating Scale-Revised (CDRS-R) total score at week 8, nor was the active reference (fluoxetine 20 mg/day), nor did the individual vortioxetine doses (10 and 20mg/day) show a nominally significant difference from placebo. In general, the adverse event profile of vortioxetine in children was similar to that seen for adults, except for higher incidence of abdominal pain reported in children. Discontinuation due to adverse events was 2.0% in patients treated with vortioxetine 20 mg/day, 1.3% for vortioxetine 10 mg/day, 0.7% for placebo, and no discontinuations for fluoxetine. The most commonly reported adverse events in the vortioxetine treatment groups were nausea, headache, vomiting, dizziness, and abdominal pain. The incidence of nausea, vomiting and abdominal pain was higher in the vortioxetine groups than in the placebo group. Suicidal ideation and behaviour were reported as adverse events during the 4-week single-blind lead-in period (placebo 2/677 [0.3%]), and during the 8-week treatment period (vortioxetine 10 mg/day 1/149 [0.7%], placebo 1/153 [0.7%]). In
 
 <div style=\"page-break-after: always\"></div>
 
-during the 8-week treatment period (vortioxetine 10 mg/day 1/149 [0.7%], placebo 1/153 [0.7%]). In addition, the event 'non-specific active suicidal thoughts' was reported in the C-SSRS in 5 patients during the 8-week treatment period (vortioxetine 20 mg/day 1/153 [0.7%], placebo 1/153 [0.7%] and fluoxetine 3/82 [3.7%]). Suicidal ideation and behaviour as measured by Columbia-Suicide Severity Rating Scale (C-SSRS) was similar across treatment groups.
+addition, the event 'non-specific active suicidal thoughts' was reported in the C-SSRS in 5 patients during the 8-week treatment period (vortioxetine 20 mg/day 1/153 [0.7%], placebo 1/153 [0.7%] and fluoxetine 3/82 [3.7%]). Suicidal ideation and behaviour as measured by Columbia-Suicide Severity Rating Scale (C-SSRS) was similar across treatment groups.
 
 In the study in adolescents aged 12 to 17 years neither vortioxetine 10 mg/day nor 20 mg/day was statistically significantly superior to placebo based on the Children´s Depression Rating Scale-Revised (CDRS-R) total score. The active reference (fluoxetine 20 mg/day) separated statistically from placebo on the CDRS-R total score. In general, the adverse reaction profile of vortioxetine in adolescents was similar to that seen for adults except for higher incidences reported in adolescents than in adults for abdominal pain and suicidal ideation. Discontinuation due to adverse events (mostly due to suicidal ideation, nausea and vomiting) was highest in patients treated with vortioxetine 20 mg/day (5.6%) as compared to vortioxetine 10 mg/day (2.7%), fluoxetine (3.3%), and placebo (1.3%). The most commonly reported adverse events in the vortioxetine treatment groups were nausea, vomiting and headache. Suicidal ideation and behaviour were reported as adverse events both during the 4-week single-blind lead-in period (placebo 13/777 [1.7%]), and during the 8-week treatment period (vortioxetine 10 mg/day 2/147 [1.4%], vortioxetine 20 mg/day 6/161 [3.7%], fluoxetine 6/153 [3.9%], placebo 0/154 [0%]). Suicidal ideation and behaviour as measured by (C-SSRS) was similar across treatment groups.
 
@@ -478,7 +476,7 @@ The European Medicines Agency has waived the obligation to submit the results of
 
 ## Absorption
 
-Vortioxetine is slowly, but well absorbed after oral administration and the peak plasma concentration is reached within 7 to 11 hours. Following multiple dosing of 5, 10, or 20 mg/day, mean C max values of 9 to 33 ng/mL were observed. The absolute bioavailability is 75%. No effect of food on the pharmacokinetics was observed (see section 4.2).
+Vortioxetine is slowly, but well absorbed after oral administration and the peak plasma concentration is reached within 7 to 11 hours. Following multiple dosing of 5, 10, or 20 mg/day, mean Cmax values of 9 to 33 ng/mL were observed. The absolute bioavailability is 75%. No effect of food on the pharmacokinetics was observed (see section 4.2).
 
 ## Distribution
 
@@ -504,17 +502,17 @@ The mean elimination half-life and oral clearance are 66 hours and 33 L/h, respe
 
 The pharmacokinetics are linear and time independent in the dose range studied (2.5 to 60 mg/day).
 
-In accordance with the half-life, the accumulation index is 5 to 6 based on AUC 0-24h following multiple doses of 5 to 20 mg/day.
+In accordance with the half-life, the accumulation index is 5 to 6 based on AUC0-24h following multiple doses of 5 to 20 mg/day.
 
 ## Special populations
 
 ## Elderly
 
-In elderly healthy subjects (aged ≥65 years; n=20), the exposure to vortioxetine increased up to 27% (Cmax and AUC) compared to young healthy control subjects (aged ≤45 years) after multiple doses of 10 mg/day. The lowest effective dose of 5 mg vortioxetine once daily should always be used as the starting dose in patients ≥ 65 years (see section 4.2). However, caution should be exercised when prescribing to elderly patients at doses higher than 10 mg vortioxetine once daily (see section 4.4).
+In elderly healthy subjects (aged ≥65 years; n=20), the exposure to vortioxetine increased up to 27% (Cmax and AUC) compared to young healthy control subjects (aged ≤ 45 years) after multiple doses of 10 mg/day. The lowest effective dose of 5 mg vortioxetine once daily should always be used as the starting dose in patients ≥ 65 years (see section 4.2). However, caution should be exercised when prescribing to elderly patients at doses higher than 10 mg vortioxetine once daily (see section 4.4).
 
 ## Renal impairment
 
-Following a single dose of 10 mg vortioxetine, renal impairment estimated using the Cockcroft-Gault formula (mild, moderate, or severe; n=8 per group) caused modest exposure increases (up to 30%), compared to healthy matched controls. In patients with end-stage renal disease, only a small fraction of vortioxetine was lost during dialysis (AUC and C max were 13% and 27% lower, respectively; n=8) following a single 10 mg dose of vortioxetine. No dose adjustment is needed based on renal function (see section 4.2 and 4.4).
+Following a single dose of 10 mg vortioxetine, renal impairment estimated using the Cockcroft-Gault formula (mild, moderate, or severe; n=8 per group) caused modest exposure increases (up to 30%), compared to healthy matched controls. In patients with end-stage renal disease, only a small fraction of vortioxetine was lost during dialysis (AUC and Cmax were 13% and 27% lower, respectively; n=8) following a single 10 mg dose of vortioxetine. No dose adjustment is needed based on renal function (see section 4.2 and 4.4).
 
 ## Hepatic impairment
 
@@ -524,9 +522,7 @@ The pharmacokinetics in subjects (N = 6-8) with mild, moderate, or severe hepati
 
 The plasma concentration of vortioxetine was approximately two times higher in CYP2D6 poor metabolisers than in extensive metabolisers. Co-administration of strong CYP3A4/2C9 inhibitors to CYP2D6 poor metabolisers could potentially result in higher exposure (see section 4.5).
 
-In CYP2D6 ultra-rapid metabolisers, the plasma concentration of vortioxetine 10 mg/day were between those obtained in extensive metabolisers at 5 mg/day and 10 mg/day.
-
-Depending on individual patient response, a dose adjustment may be considered (see section 4.2).
+In CYP2D6 ultra-rapid metabolisers, the plasma concentration of vortioxetine 10 mg/day were between those obtained in extensive metabolisers at 5 mg/day and 10 mg/day. Depending on individual patient response, a dose adjustment may be considered (see section 4.2).
 
 ## Paediatric population
 
@@ -562,7 +558,7 @@ Tablet core
 
 Mannitol Microcrystalline cellulose Hydroxypropylcellulose Sodium starch glycolate (type A) Magnesium stearate
 
-Tablet coating
+## Tablet coating
 
 Hypromellose Macrogol 400 Titanium dioxide (E171) Iron oxide red (E172)
 
@@ -614,67 +610,31 @@ This medicinal product does not require any special storage conditions.
 
 ## Brintellix 5 mg film-coated tablets
 
-Blister: Transparent; PVC/PVdC/aluminium blister.
+Blister: Transparent; PVC/PVdC/aluminium blister. Pack sizes of 14, 28 and 98 film-coated tablets.
 
-Pack sizes of 14, 28 and 98 film-coated tablets.
-
-Perforated unit dose blisters: PVC/PVdC/aluminium.
-
-Pack sizes of 56 x 1 and 98 x 1 film-coated tablets.
+Perforated unit dose blisters: PVC/PVdC/aluminium. Pack sizes of 56 x 1 and 98 x 1 film-coated tablets.
 
 Multipack containing 126 (9 x 14) and 490 (5 x (98x1)) film-coated tablets.
 
-High-density polyethylene (HDPE) tablet container.
+High-density polyethylene (HDPE) tablet container. Pack sizes of 100 and 200 film-coated tablets.
 
-Pack sizes of 100 and 200 film-coated tablets.
+Brintellix 10 mg film-coated tablets Blister: Transparent; PVC/PVdC/aluminium blister. Pack sizes of 7, 14, 28, 56 and 98 film-coated tablets.
 
-## Brintellix 10 mg film-coated tablets
+Perforated unit dose blisters: PVC/PVdC/aluminium. Pack sizes of 56 x 1 and 98 x 1 film-coated tablets. Multipack containing 126 (9 x 14) and 490 (5 x (98x1)) film-coated tablets.
 
-Blister: Transparent; PVC/PVdC/aluminium blister.
+High-density polyethylene (HDPE) tablet container. Pack sizes of 100 and 200 film-coated tablets.
 
-Pack sizes of 7, 14, 28, 56 and 98 film-coated tablets.
+Brintellix 15 mg film-coated tablets Blister: Transparent; PVC/PVdC/aluminium blister. Pack sizes of 14, 28, 56 and 98 film-coated tablets.
 
-Perforated unit dose blisters: PVC/PVdC/aluminium.
+Perforated unit dose blisters: PVC/PVdC/aluminium. Pack sizes of 56 x 1 and 98 x 1 film-coated tablets. Multipack containing 490 (5 x (98x1)) film-coated tablets.
 
-Pack sizes of 56 x 1 and 98 x 1 film-coated tablets.
+High-density polyethylene (HDPE) tablet container. Pack sizes of 100 and 200 film-coated tablets.
 
-Multipack containing 126 (9 x 14) and 490 (5 x (98x1)) film-coated tablets.
+Brintellix 20 mg film-coated tablets Blister: Transparent; PVC/PVdC/aluminium blister. Pack sizes of 14, 28, 56 and 98 film-coated tablets.
 
-High-density polyethylene (HDPE) tablet container.
+Perforated unit dose blisters: PVC/PVdC/aluminium. Pack sizes of 56 x 1 and 98 x 1 film-coated tablets. Multipack containing 126 (9 x 14) and 490 (5 x (98x1)) film-coated tablets.
 
-Pack sizes of 100 and 200 film-coated tablets.
-
-## Brintellix 15 mg film-coated tablets
-
-Blister: Transparent; PVC/PVdC/aluminium blister.
-
-Pack sizes of 14, 28, 56 and 98 film-coated tablets.
-
-Perforated unit dose blisters: PVC/PVdC/aluminium.
-
-Pack sizes of 56 x 1 and 98 x 1 film-coated tablets.
-
-Multipack containing 490 (5 x (98x1)) film-coated tablets.
-
-High-density polyethylene (HDPE) tablet container.
-
-Pack sizes of 100 and 200 film-coated tablets.
-
-## Brintellix 20 mg film-coated tablets
-
-Blister: Transparent; PVC/PVdC/aluminium blister.
-
-Pack sizes of 14, 28, 56 and 98 film-coated tablets.
-
-Perforated unit dose blisters: PVC/PVdC/aluminium.
-
-Pack sizes of 56 x 1 and 98 x 1 film-coated tablets.
-
-Multipack containing 126 (9 x 14) and 490 (5 x (98x1)) film-coated tablets.
-
-High-density polyethylene (HDPE) tablet container.
-
-Pack sizes of 100 and 200 film-coated tablets.
+High-density polyethylene (HDPE) tablet container. Pack sizes of 100 and 200 film-coated tablets.
 
 Not all pack sizes may be marketed.
 
@@ -682,15 +642,11 @@ Not all pack sizes may be marketed.
 
 ## 6.6 Special precautions for disposal
 
-Any unused medicinal product or waste material should be disposed of in accordance with local
-
-This medicinal product may pose a risk to the environment (see section 5.3). requirements.
+This medicinal product may pose a risk to the environment (see section 5.3). Any unused medicinal product or waste material should be disposed of in accordance with local requirements.
 
 ## 7. MARKETING AUTHORISATION HOLDER
 
-H. Lundbeck A/S Ottiliavej 9 2500 Valby
-
-Denmark
+H. Lundbeck A/S Ottiliavej 9 2500 Valby Denmark
 
 ## 8. MARKETING AUTHORISATION NUMBER(S)
 
@@ -708,7 +664,9 @@ EU/1/13/891/018-026
 
 Brintellix 20 mg film-coated tablets
 
-EU/1/13/891/027-035 EU/1/13/891/040
+EU/1/13/891/027-035
+
+EU/1/13/891/040
 
 ## 9. DATE OF FIRST AUTHORISATION/RENEWAL OF THE AUTHORISATION
 
@@ -847,10 +805,6 @@ Serotonin Syndrome symptoms include mental status changes (e.g., agitation, hall
 ## Mania/hypomania
 
 Vortioxetine should be used with caution in patients with a history of mania/hypomania and should be discontinued in any patient entering a manic phase.
-
-v.
-
-79.0
 
 <div style=\"page-break-after: always\"></div>
 
@@ -992,7 +946,9 @@ Observational data have provided evidence of an increased risk (less than 2-fold
 
 ## Breast-feeding
 
-Available data in animals have shown excretion of vortioxetine/ vortioxetine metabolites in milk. It is expected that vortioxetine will be excreted into human milk (see section 5.3). A risk to the breastfeeding child cannot be excluded.
+Limited published data show that Vortioxetine is excreted in small amounts into human breast milk with an estimated relative infant dose (RID) below 2%. No harmful, drug-associated effects have been observed in the infants.
+
+However, available clinical data are limited, and a risk to the breastfeeding child cannot be excluded.
 
 <div style=\"page-break-after: always\"></div>
 
@@ -1017,10 +973,6 @@ The most common adverse reaction was nausea.
 ## Tabulated list of adverse reactions
 
 Adverse reactions are listed below using the following convention: very common (≥1/10); common (≥1/100 to &lt;1/10); uncommon (≥1/1,000 to &lt;1/100); rare (≥1/10,000 to &lt;1/1,000); very rare (&lt;1/10,000), not known (cannot be estimated from the available data). The list is based on information from clinical trials and post-marketing experience.
-
-v.
-
-79.0
 
 <div style=\"page-break-after: always\"></div>
 
@@ -1058,11 +1010,7 @@ Nausea was usually mild or moderate and occurred within the first two weeks of t
 
 For doses ≥10 mg vortioxetine once daily, the withdrawal rate from the studies was higher in patients aged ≥65 years.
 
-For doses of 20 mg vortioxetine once daily, the incidences of nausea and constipation were higher in patients aged ≥65 years (42% and 15%, respectively) than in patients aged &lt;65 years (27% and 4%, respectively)(see section 4.4).
-
-v.
-
-79.0
+For doses of 20 mg vortioxetine once daily, the incidences of nausea and constipation were higher in patients aged ≥65 years (4 2% and 15%, respectively) than in patients aged &lt;65 years (27% and 4%, respectively)(see section 4.4).
 
 <div style=\"page-break-after: always\"></div>
 
@@ -1108,7 +1056,7 @@ Pharmacotherapeutic group: Psychoanaleptics; Other antidepressants, ATC-code: N0
 
 ## Mechanism of action
 
-The mechanism of action of vortioxetine is thought to be related to its direct modulation of serotonergic receptor activity and inhibition of the serotonin (5-HT) transporter. Nonclinical data indicate that vortioxetine is a 5-HT 3 , 5-HT 7 , and 5-HT 1D receptor antagonist, 5-HT 1B receptor partial agonist, 5-HT1A receptor agonist and inhibitor of the 5-HT transporter, leading to modulation of neurotransmission in several systems, including predominantly the serotonin but probably also the norepinephrine, dopamine, histamine, acetylcholine, GABA and glutamate systems. This multimodal activity is considered responsible for the antidepressant and anxiolytic-like effects and the improvement of cognitive function, learning and memory observed with vortioxetine in animal studies . However, the precise contribution of the individual targets to the observed pharmacodynamic profile remains unclear and caution should be applied when extrapolating animal data directly to man.
+The mechanism of action of vortioxetine is thought to be related to its direct modulation of serotonergic receptor activity and inhibition of the serotonin (5-HT) transporter. Nonclinical data indicate that vortioxetine is a 5-HT3, 5-HT7, and 5-HT1D receptor antagonist, 5-HT1B receptor partial agonist, 5-HT1A receptor agonist and inhibitor of the 5-HT transporter, leading to modulation of neurotransmission in several systems, including predominantly the serotonin but probably also the norepinephrine, dopamine, histamine, acetylcholine, GABA and glutamate systems. This multimodal activity is considered responsible for the antidepressant and anxiolytic-like effects and the improvement of cognitive function, learning and memory observed with vortioxetine in animal studies . However, the precise contribution of the individual targets to the observed pharmacodynamic profile remains unclear and caution should be applied when extrapolating animal data directly to man.
 
 In humans, two positron emission tomography (PET) studies have been conducted using 5-HT transporter ligands ( 11 C-MADAM or  11 C-DASB) to quantify the 5-HT transporter occupancy in the brain across different dose levels. The mean 5-HT transporter occupancy in the raphe nucle i was approximately 50% at 5 mg/day, 65% at 10 mg/day and increased to above 80% at 20 mg/day.
 
@@ -1132,9 +1080,11 @@ The maintenance of antidepressant efficacy was demonstrated in a relapse-prevent
 
 ## Elderly
 
-In the 8-week double-blind, placebo-controlled, fixed-dose study in elderly depressed patients (aged ≥65 years, n=452, 156 of whom were on vortioxetine), vortioxetine 5 mg/day was superior to placebo as measured by improvement in the MADRS and HAM-D24 total scores. The effect seen with vortioxetine was a 4.7 point difference to placebo in MADRS total score at Week 8 (MMRM analysis).
+In the 8-week double-blind, placebo-controlled, fixed-dose study in elderly depressed patients (aged ≥65 years , n=452, 156 of whom were on vortioxetine), vortioxetine 5 mg/day was superior to placebo as measured by improvement in the MADRS and HAM-D24 total scores. The effect seen with vortioxetine was a 4.7 point difference to placebo in MADRS total score at Week 8 (MMRM analysis).
 
-Patients with severe depression or with depression and high levels of anxiety symptoms In severely depressed patients (baseline MADRS total score ≥30) and in depressed patients with a high level of anxiety symptoms (baseline HAM-A total score ≥20) vortioxetine also demonstrated efficacy in the short-term studies in adults (the overall mean difference to placebo in MADRS total score at Week 6/8 ranged from 2.8 to 7.3 points and from 3.6 to 7.3 points, respectively, (MMRM analysis)). In the dedicated study in elderly, vortioxetine was also effective in these patients.
+## Patients with severe depression or with depression and high levels of anxiety symptoms
+
+In severely depressed patients (baseline MADRS total score ≥30) and in depressed patients with a high level of anxiety symptoms (baseline HAMA total score ≥20) vortioxetine also demonstrated efficacy in the short-term studies in adults (the overall mean difference to placebo in MADRS total score at Week 6/8 ranged from 2.8 to 7.3 points and from 3.6 to 7.3 points, respectively, (MMRM analysis)). In the dedicated study in elderly, vortioxetine was also effective in these patients.
 
 The maintenance of antidepressant efficacy was also demonstrated in this patient population in the long-term relapse prevention study.
 
@@ -1158,7 +1108,7 @@ Vortioxetine did not increase the incidence of insomnia or somnolence relative t
 
 The incidence of self-reported adverse sexual reactions was low and similar to placebo in clinical short- and long-term studies with vortioxetine. In studies using the Arizona Sexual Experience Scale (ASEX), the incidence of treatment-emergent sexual dysfunction (TESD) and the ASEX total score showed no clinically relevant difference to placebo in symptoms of sexual dysfunction at the 5 to 15 mg/day doses of vortioxetine. For the 20 mg/day dose, an increase in TESD was seen compared to placebo (an incidence difference of 14.2%, 95% CI [1.4, 27.0]).
 
-The effect of vortioxetine on sexual function was further evaluated in an 8-week, double-blind, flexible-dose, comparative study (n=424) versus escitalopram in patients treated for at least 6 weeks with an SSRI (citalopram, paroxetine, or sertraline), with a low level of depressive symptoms (baseline CGI-S ≤ 3) and TESD induced by the prior SSRI treatment. Vortioxetine 10-20 mg/day had statistically significantly less TESD than escitalopram 10-20 mg/day as measured by change in the CSFQ-14 total score (2.2 points, p=0.013) at week 8. The proportion of responders was not significantly different in the vortioxetine group (162 (74.7%)) compared with the escitalopram group (137 (66.2%)) at week 8 (OR 1.5 p=0.057). The antidepressant effect was maintained in both treatment groups.
+The effect of vortioxetine on sexual function was further evaluated in an 8-week, double-blind, flexible-dose, comparative study (n=424) versus escitalopram in patients treated for at least 6 weeks with an SSRI (citalopram, paroxetine, or sertraline), with a low level of depressive symptoms (baseline CGIS ≤ 3) and TESD induced by the prior SSRI treatment. Vortioxetine 10-20 mg/day had statistically significantly less TESD than escitalopram 10-20 mg/day as measured by change in the CSFQ-14 total score (2.2 points, p=0.013) at week 8. The proportion of responders was not significantly different in the vortioxetine group (162 (74.7%)) compared with the escitalopram group (137 (66.2%)) at week 8 (OR 1.5 p=0.057). The antidepressant effect was maintained in both treatment groups.
 
 Vortioxetine had no effect relative to placebo on body weight, heart rate, or blood pressure in clinical short- and long-term studies.
 
@@ -1186,7 +1136,7 @@ The European Medicines Agency has waived the obligation to submit the results of
 
 ## Absorption
 
-Vortioxetine is slowly, but well absorbed after oral administration and the peak plasma concentration is reached within 7 to 11 hours. Following multiple dosing of 5, 10, or 20 mg/day, mean C max values of 9 to 33 ng/mL were observed. The absolute bioavailability is 75%. No effect of food on the pharmacokinetics was observed (see section 4.2).
+Vortioxetine is slowly, but well absorbed after oral administration and the peak plasma concentration is reached within 7 to 11 hours. Following multiple dosing of 5, 10, or 20 mg/day, mean Cmax values of 9 to 33 ng/mL were observed. The absolute bioavailability is 75%. No effect of food on the pharmacokinetics was observed (see section 4.2).
 
 ## Distribution
 
@@ -1210,7 +1160,7 @@ The mean elimination half-life and oral clearance are 66 hours and 33 L/h, respe
 
 The pharmacokinetics are linear and time independent in the dose range studied (2.5 to 60 mg/day).
 
-In accordance with the half-life, the accumulation index is 5 to 6 based on AUC 0-24h following multiple doses of 5 to 20 mg/day.
+In accordance with the half-life, the accumulation index is 5 to 6 based on AUC0-24h following multiple doses of 5 to 20 mg/day.
 
 ## Special populations
 
@@ -1220,7 +1170,7 @@ In elderly healthy subjects (aged ≥65 years; n=20), the exposure to vortioxeti
 
 ## Renal impairment
 
-Following a single dose of 10 mg vortioxetine, renal impairment estimated using the Cockcroft-Gault formula (mild, moderate, or severe; n=8 per group) caused modest exposure increases (up to 30%), compared to healthy matched controls. In patients with end-stage renal disease, only a small fraction of vortioxetine was lost during dialysis (AUC and C max were 13% and 27% lower, respectively; n=8) following a single 10 mg dose of vortioxetine. No dose adjustment is needed based on renal function (see section 4.2 and 4.4).
+Following a single dose of 10 mg vortioxetine, renal impairment estimated using the Cockcroft-Gault formula (mild, moderate, or severe; n=8 per group) caused modest exposure increases (up to 30%), compared to healthy matched controls. In patients with end-stage renal disease, only a small fraction of vortioxetine was lost during dialysis (AUC and Cmax were 13% and 27% lower, respectively; n=8) following a single 10 mg dose of vortioxetine. No dose adjustment is needed based on renal function (see section 4.2 and 4.4).
 
 ## Hepatic impairment
 
@@ -1290,11 +1240,13 @@ This medicinal product does not require any special storage conditions.
 
 Any unused medicinal product or waste material should be disposed of in accordance with local requirements.
 
-## 7. MARKETING AUTHORISATION HOLDER
+7.
 
-H. Lundbeck A/S
+MARKETING AUTHORISATION HOLDER
 
-Ottiliavej 9 2500 Valby Denmark
+H. Lundbeck A/S Ottiliavej 9 2500 Valby
+
+Denmark
 
 ## 8. MARKETING AUTHORISATION NUMBER(S)
 
@@ -1310,6 +1262,8 @@ Date of latest renewal: 20 November 2018
 
 Detailed information on this medicinal product is available on the website of the European Medicines Agency http://www.ema.europa.eu.
 
+37
+
 <div style=\"page-break-after: always\"></div>
 
 ## ANNEX II
@@ -1318,8 +1272,6 @@ Detailed information on this medicinal product is available on the website of th
 - B. CONDITIONS OR RESTRICTIONS REGARDING SUPPLY AND USE
 - C. OTHER CONDITIONS AND REQUIREMENTS OF THE MARKETING AUTHORISATION
 - D. CONDITIONS OR RESTRICTIONS WITH REGARD TO THE SAFE AND EFFECTIVE USE OF THE MEDICINAL PRODUCT
-
-38
 
 <div style=\"page-break-after: always\"></div>
 
@@ -1333,20 +1285,20 @@ Medicinal products subject to medical prescription.
 
 ## C. OTHER CONDITIONS AND REQUIREMENTS OF THE MARKETING AUTHORISATION
 
-##  Periodic safety update reports
+## · Periodic safety update reports
 
 The requirements for submission of periodic safety reports for this medicinal product are set out in the list of Union reference dates (EURD list) provided for under Article 107c(7) of Directive 2001/83/EC and any subsequent updates published on the European medicines web-portal.
 
 ## D. CONDITIONS OR RESTRICTIONS WITH REGARD TO THE SAFE AND EFFECTIVE USE OF THE MEDICINAL PRODUCT
 
-##  Risk Management Plan (RMP)
+## · Risk Management Plan (RMP)
 
 The MAH shall perform the required pharmacovigilance activities and interventions detailed in the agreed RMP presented in Module 1.8.2 of the Marketing Authorisation and any agreeed subsequent updates of the RMP.
 
 An updated RMP should be submitted:
 
--  At the request of the European Medicines Agency;
--  Whenever the risk management system is modified, especially as the result of new information being received that may lead to a significant change to the benefit/risk profile or as the result of an important (pharmacovigilance or risk minimisation) milestone being reached.
+- At the request of the European Medicines Agency;
+- Whenever the risk management system is modified, especially as the result of new information being received that may lead to a significant change to the benefit/risk profile or as the result of an important (pharmacovigilance or risk minimisation) milestone being reached.
 
 <div style=\"page-break-after: always\"></div>
 
@@ -1356,7 +1308,7 @@ An updated RMP should be submitted:
 
 <div style=\"page-break-after: always\"></div>
 
-- A. LABELLING
+## A. LABELLING
 
 <div style=\"page-break-after: always\"></div>
 
@@ -1402,15 +1354,11 @@ EXP {MM-YYYY}
 
 ## 9. SPECIAL STORAGE CONDITIONS
 
-## 10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
-
-<div style=\"page-break-after: always\"></div>
+10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
-H. Lundbeck A/S Ottiliavej 9 2500 Valby
-
-Denmark
+H. Lundbeck A/S Ottiliavej 9 2500 Valby Denmark
 
 ## 12. MARKETING AUTHORISATION NUMBER(S)
 
@@ -1434,7 +1382,7 @@ Lot
 
 ## 14. GENERAL CLASSIFICATION FOR SUPPLY
 
-## 15. INSTRUCTIONS ON USE
+15. INSTRUCTIONS ON USE
 
 ## 16. INFORMATION IN BRAILLE
 
@@ -1450,13 +1398,17 @@ PC:
 
 SN:
 
+<div style=\"page-break-after: always\"></div>
+
 NN:
 
 <div style=\"page-break-after: always\"></div>
 
 ## PARTICULARS TO APPEAR ON THE OUTER PACKAGING
 
-## CARTON FOR INTERMEDIATE PACK / COMPONENT OF A MULTIPACK (WITHOUT BLUE BOX)
+## CARTON FOR INTERMEDIATE PACK / COMPONENT OF A MULTIPACK
+
+(WITHOUT BLUE BOX)
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
@@ -1466,11 +1418,11 @@ Brintellix 5 mg film-coated tablets vortioxetine
 
 Each film-coated tablet contains 5 mg vortioxetine (as hydrobromide)
 
-## 3. LIST OF EXCIPIENTS
+3. LIST OF EXCIPIENTS
 
 ## 4. PHARMACEUTICAL FORM AND CONTENTS
 
-14 film-coated tablets.
+- 14 film-coated tablets.
 
 ## 98 x 1 film-coated tablets.
 
@@ -1486,46 +1438,38 @@ Oral use
 
 Keep out of the sight and reach of children
 
-## 7. OTHER SPECIAL WARNING(S), IF NECESSARY
-
-## 8. EXPIRY DATE
+7. OTHER SPECIAL WARNING(S), IF NECESSARY
+8. EXPIRY DATE
 
 EXP {MM-YYYY}
 
-## 9. SPECIAL STORAGE CONDITIONS
-
+9. SPECIAL STORAGE CONDITIONS
 10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
 
 <div style=\"page-break-after: always\"></div>
 
-| 11.   | NAMEANDADDRESS OF THE MARKETING AUTHORISATION HOLDER   |
-|-------|--------------------------------------------------------|
+## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
-H. Lundbeck A/S Ottiliavej 9 2500 Valby Denmark
+H. Lundbeck A/S Ottiliavej 9 2500 Valby
 
-| 12. MARKETING AUTHORISATION NUMBER(S)   |
-|-----------------------------------------|
+Denmark
+
+## 12. MARKETING AUTHORISATION NUMBER(S)
 
 EU/1/13/891/038 126 film-coated tablets (9 packs of 14) EU/1/13/891/005 490 film-coated tablets (5 packs of 98x1)
 
-| 13.   | BATCH NUMBER   |
-|-------|----------------|
+## 13. BATCH NUMBER
 
 Lot
 
-| 14.   | GENERAL CLASSIFICATION FOR SUPPLY   |
-|-------|-------------------------------------|
+14. GENERAL CLASSIFICATION FOR SUPPLY
+15. INSTRUCTIONS ON USE
 
-| 15.   | INSTRUCTIONS ON USE   |
-|-------|-----------------------|
-
-| 16.   | INFORMATION IN BRAILLE   |
-|-------|--------------------------|
+## 16. INFORMATION IN BRAILLE
 
 Brintellix 5 mg
 
-| 17. UNIQUE IDENTIFIER - 2D BARCODE   |
-|--------------------------------------|
+## 17. UNIQUE IDENTIFIER - 2D BARCODE
 
 | 18.   | UNIQUE IDENTIFIER - HUMANREADABLE DATA   |
 |-------|------------------------------------------|
@@ -1534,9 +1478,7 @@ Brintellix 5 mg
 
 ## PARTICULARS TO APPEAR ON THE OUTER PACKAGING
 
-OUTER WRAPPER LABEL ON MULTIPACKS WRAPPED IN FOIL
-
-(INCLUDING BLUE BOX)
+OUTER WRAPPER LABEL ON MULTIPACKS WRAPPED IN FOIL (INCLUDING BLUE BOX)
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
@@ -1568,7 +1510,7 @@ Keep out of the sight and reach of children
 
 ## 7. OTHER SPECIAL WARNING(S), IF NECESSARY
 
-## 8. EXPIRY DATE
+8. EXPIRY DATE
 
 EXP {MM-YYYY}
 
@@ -1576,41 +1518,33 @@ EXP {MM-YYYY}
 
 10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
 
-<div style=\"page-break-after: always\"></div>
-
-| 11.   | NAMEANDADDRESS OF THE MARKETING AUTHORISATION HOLDER   |
-|-------|--------------------------------------------------------|
+## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
 H. Lundbeck A/S Ottiliavej 9 2500 Valby Denmark
 
-| 12.   | MARKETING AUTHORISATION NUMBER(S)   |
-|-------|-------------------------------------|
+## 12. MARKETING AUTHORISATION NUMBER(S)
 
-EU/1/13/891/038 126 film-coated tablets (9 packs of 14) EU/1/13/891/005 490 film-coated tablets (5 packs of 98x1)
+EU/1/13/891/038 126 film-coated tablets (9 packs of 14)
 
-| 13.   | BATCH NUMBER   |
-|-------|----------------|
+EU/1/13/891/005 490 film-coated tablets (5 packs of 98x1)
+
+## 13. BATCH NUMBER
 
 Lot
 
-| 14.   | GENERAL CLASSIFICATION FOR SUPPLY   |
-|-------|-------------------------------------|
+## 14. GENERAL CLASSIFICATION FOR SUPPLY
 
-| 15.   | INSTRUCTIONS ON USE   |
-|-------|-----------------------|
+15. INSTRUCTIONS ON USE
 
-| 16.   | INFORMATION IN BRAILLE   |
-|-------|--------------------------|
+## 16. INFORMATION IN BRAILLE
 
 Brintellix 5 mg
 
-| 17.   | UNIQUE IDENTIFIER - 2D BARCODE   |
-|-------|----------------------------------|
+## 17. UNIQUE IDENTIFIER - 2D BARCODE
 
 2D barcode carrying the unique identifier included.
 
-| 18.   | UNIQUE IDENTIFIER - HUMANREADABLE DATA   |
-|-------|------------------------------------------|
+## 18. UNIQUE IDENTIFIER - HUMAN READABLE DATA
 
 PC:
 
@@ -1620,34 +1554,48 @@ NN:
 
 <div style=\"page-break-after: always\"></div>
 
+<div style=\"page-break-after: always\"></div>
+
 | MINIMUM PARTICULARS TO APPEAR ON BLISTERS   |
 |---------------------------------------------|
 | BLISTER FOR TABLETS                         |
 
-| 1.   | NAMEOFTHEMEDICINAL PRODUCT   |
-|------|------------------------------|
+| 1.   | NAME OF THE MEDICINAL PRODUCT   |
+|------|---------------------------------|
 
-Brintellix 5 mg tablet vortioxetine
-
-| 2.   | NAMEOFTHEMARKETING AUTHORISATION HOLDER   |
-|------|-------------------------------------------|
-
-H. Lundbeck A/S
+| 2.   | NAME OF THE MARKETING AUTHORISATION HOLDER   |
+|------|----------------------------------------------|
 
 | 3.   | EXPIRY DATE   |
 |------|---------------|
 
-EXP (MM-YYYY)
-
 | 4.   | BATCH NUMBER   |
 |------|----------------|
-
-Lot
 
 | 5.   | OTHER   |
 |------|---------|
 
-48
+## MINIMUM PARTICULARS TO APPEAR ON BLISTERS
+
+## BLISTER FOR TABLETS
+
+## 1. NAME OF THE MEDICINAL PRODUCT
+
+Brintellix 5 mg tablet vortioxetine
+
+## 2. NAME OF THE MARKETING AUTHORISATION HOLDER
+
+H. Lundbeck A/S
+
+3. EXPIRY DATE
+
+EXP (MM-YYYY)
+
+4. BATCH NUMBER
+
+Lot
+
+5. OTHER
 
 <div style=\"page-break-after: always\"></div>
 
@@ -1735,7 +1683,7 @@ Lot
 
 ## 14. GENERAL CLASSIFICATION FOR SUPPLY
 
-## 15. INSTRUCTIONS ON USE
+15. INSTRUCTIONS ON USE
 
 ## 16. INFORMATION IN BRAILLE
 
@@ -1767,7 +1715,7 @@ Brintellix 10 mg film-coated tablets vortioxetine
 
 Each film-coated tablet contains 10 mg vortioxetine (as hydrobromide)
 
-## 3. LIST OF EXCIPIENTS
+3. LIST OF EXCIPIENTS
 
 ## 4. PHARMACEUTICAL FORM AND CONTENTS
 
@@ -1787,49 +1735,40 @@ Oral use
 
 Keep out of the sight and reach of children
 
-## 7. OTHER SPECIAL WARNING(S), IF NECESSARY
-
+7. OTHER SPECIAL WARNING(S), IF NECESSARY
 8. EXPIRY DATE
 
 EXP {MM-YYYY}
 
-## 9. SPECIAL STORAGE CONDITIONS
-
+9. SPECIAL STORAGE CONDITIONS
 10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
 
 <div style=\"page-break-after: always\"></div>
 
-| 11.   | NAMEANDADDRESS OF THE MARKETING AUTHORISATION HOLDER   |
-|-------|--------------------------------------------------------|
+## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
-H. Lundbeck A/S Ottiliavej 9 2500 Valby Denmark
+H. Lundbeck A/S Ottiliavej 9 2500 Valby
 
-| 12. MARKETING AUTHORISATION NUMBER(S)   |
-|-----------------------------------------|
+Denmark
+
+## 12. MARKETING AUTHORISATION NUMBER(S)
 
 EU/1/13/891/039 126 film-coated tablets (9 packs of 14) EU/1/13/891/015 490 film-coated tablets (5 packs of 98x1)
 
-| 13.   | BATCH NUMBER   |
-|-------|----------------|
+## 13. BATCH NUMBER
 
 Lot
 
-| 14.   | GENERAL CLASSIFICATION FOR SUPPLY   |
-|-------|-------------------------------------|
+14. GENERAL CLASSIFICATION FOR SUPPLY
+15. INSTRUCTIONS ON USE
 
-| 15.   | INSTRUCTIONS ON USE   |
-|-------|-----------------------|
-
-| 16.   | INFORMATION IN BRAILLE   |
-|-------|--------------------------|
+## 16. INFORMATION IN BRAILLE
 
 Brintellix 10 mg
 
-| 17. UNIQUE IDENTIFIER - 2D BARCODE   |
-|--------------------------------------|
+## 17. UNIQUE IDENTIFIER - 2D BARCODE
 
-| 18.   | UNIQUE IDENTIFIER - HUMANREADABLE DATA   |
-|-------|------------------------------------------|
+## 18. UNIQUE IDENTIFIER - HUMAN READABLE DATA
 
 <div style=\"page-break-after: always\"></div>
 
@@ -1845,11 +1784,13 @@ Brintellix 10 mg film-coated tablets vortioxetine
 
 Each film-coated tablet contains 10 mg vortioxetine (as hydrobromide)
 
-## 3. LIST OF EXCIPIENTS
+3. LIST OF EXCIPIENTS
 
 ## 4. PHARMACEUTICAL FORM AND CONTENTS
 
-Multipack: 126 (9 packs of 14) film-coated tablets. Multipacks: 490 (5 packs of 98 x 1) film-coated tablets.
+Multipack: 126 (9 packs of 14) film-coated tablets.
+
+Multipacks: 490 (5 packs of 98 x 1) film-coated tablets.
 
 ## 5. METHOD AND ROUTE(S) OF ADMINISTRATION
 
@@ -1863,36 +1804,31 @@ Keep out of the sight and reach of children
 
 ## 7. OTHER SPECIAL WARNING(S), IF NECESSARY
 
-## 8. EXPIRY DATE
+8. EXPIRY DATE
 
 EXP {MM-YYYY}
 
-## 9. SPECIAL STORAGE CONDITIONS
-
-## 10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
+9. SPECIAL STORAGE CONDITIONS
+10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
 
 <div style=\"page-break-after: always\"></div>
 
-| 11.   | NAMEANDADDRESS OF THE MARKETING AUTHORISATION HOLDER   |
-|-------|--------------------------------------------------------|
+## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
-H. Lundbeck A/S Ottiliavej 9 2500 Valby Denmark
+H. Lundbeck A/S Ottiliavej 9 2500 Valby
 
-| 12.   | MARKETING AUTHORISATION NUMBER(S)   |
-|-------|-------------------------------------|
+Denmark
+
+## 12. MARKETING AUTHORISATION NUMBER(S)
 
 EU/1/13/891/039   126 film-coated tablets (9 packs of 14) EU/1/13/891/015  490 film-coated tablets (5 packs of 98x1).
 
-| 13.   | BATCH NUMBER   |
-|-------|----------------|
+## 13. BATCH NUMBER
 
 Lot
 
-| 14.   | GENERAL CLASSIFICATION FOR SUPPLY   |
-|-------|-------------------------------------|
-
-| 15.   | INSTRUCTIONS ON USE   |
-|-------|-----------------------|
+14. GENERAL CLASSIFICATION FOR SUPPLY
+15. INSTRUCTIONS ON USE
 
 | 16.   | INFORMATION IN BRAILLE   |
 |-------|--------------------------|
@@ -1907,7 +1843,9 @@ Brintellix 10 mg
 | 18.   | UNIQUE IDENTIFIER - HUMANREADABLE DATA   |
 |-------|------------------------------------------|
 
-PC: SN: NN:
+PC: SN:
+
+NN:
 
 <div style=\"page-break-after: always\"></div>
 
@@ -1915,30 +1853,42 @@ PC: SN: NN:
 |---------------------------------------------|
 | BLISTER FOR TABLETS                         |
 
-| 1.   | NAMEOFTHEMEDICINAL PRODUCT   |
-|------|------------------------------|
+| 1.   | NAME OF THE MEDICINAL PRODUCT   |
+|------|---------------------------------|
 
-Brintellix 10 mg tablet vortioxetine
-
-| 2.   | NAMEOFTHEMARKETING AUTHORISATION HOLDER   |
-|------|-------------------------------------------|
-
-H. Lundbeck A/S
+| 2.   | NAME OF THE MARKETING AUTHORISATION HOLDER   |
+|------|----------------------------------------------|
 
 | 3.   | EXPIRY DATE   |
 |------|---------------|
 
-EXP (MM-YYYY)
-
 | 4.   | BATCH NUMBER   |
 |------|----------------|
-
-Lot
 
 | 5.   | OTHER   |
 |------|---------|
 
-55
+## MINIMUM PARTICULARS TO APPEAR ON BLISTERS
+
+## BLISTER FOR TABLETS
+
+1. NAME OF THE MEDICINAL PRODUCT
+
+Brintellix 10 mg tablet vortioxetine
+
+2. NAME OF THE MARKETING AUTHORISATION HOLDER
+
+H. Lundbeck A/S
+
+3. EXPIRY DATE
+
+EXP (MM-YYYY)
+
+4. BATCH NUMBER
+
+Lot
+
+5. OTHER
 
 <div style=\"page-break-after: always\"></div>
 
@@ -1985,7 +1935,7 @@ EXP {MM-YYYY}
 
 ## 9. SPECIAL STORAGE CONDITIONS
 
-## 10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
+10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
 
 <div style=\"page-break-after: always\"></div>
 
@@ -2023,7 +1973,7 @@ Lot
 
 ## 14. GENERAL CLASSIFICATION FOR SUPPLY
 
-## 15. INSTRUCTIONS ON USE
+15. INSTRUCTIONS ON USE
 
 ## 16. INFORMATION IN BRAILLE
 
@@ -2045,7 +1995,9 @@ NN:
 
 ## PARTICULARS TO APPEAR ON THE OUTER PACKAGING
 
-## CARTON FOR INTERMEDIATE PACK / COMPONENT OF A MULTIPACK (WITHOUT BLUE BOX)
+## CARTON FOR INTERMEDIATE PACK / COMPONENT OF A MULTIPACK
+
+(WITHOUT BLUE BOX)
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
@@ -2090,8 +2042,8 @@ EXP {MM-YYYY}
 
 H. Lundbeck A/S Ottiliavej 9 2500 Valby Denmark
 
-| 12. MARKETING AUTHORISATION NUMBER(S)   |
-|-----------------------------------------|
+| 12.   | MARKETING AUTHORISATION NUMBER(S)   |
+|-------|-------------------------------------|
 
 EU/1/13/891/024 490 film-coated tablets (5 packs of 98x1)
 
@@ -2117,8 +2069,6 @@ Brintellix 15 mg
 | 18.   | UNIQUE IDENTIFIER - HUMANREADABLE DATA   |
 |-------|------------------------------------------|
 
-59
-
 <div style=\"page-break-after: always\"></div>
 
 ## PARTICULARS TO APPEAR ON THE OUTER PACKAGING
@@ -2133,7 +2083,7 @@ Brintellix 15 mg film-coated tablets vortioxetine
 
 Each film-coated tablet contains 15 mg vortioxetine (as hydrobromide)
 
-## 3. LIST OF EXCIPIENTS
+3. LIST OF EXCIPIENTS
 
 ## 4. PHARMACEUTICAL FORM AND CONTENTS
 
@@ -2149,9 +2099,8 @@ Oral use
 
 Keep out of the sight and reach of children
 
-## 7. OTHER SPECIAL WARNING(S), IF NECESSARY
-
-## 8. EXPIRY DATE
+7. OTHER SPECIAL WARNING(S), IF NECESSARY
+8. EXPIRY DATE
 
 EXP {MM-YYYY}
 
@@ -2161,11 +2110,7 @@ EXP {MM-YYYY}
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
-H. Lundbeck A/S
-
-Ottiliavej 9
-
-2500 Valby
+H. Lundbeck A/S Ottiliavej 9 2500 Valby
 
 Denmark
 
@@ -2192,8 +2137,8 @@ Lot
 
 Brintellix 15 mg
 
-| 17. UNIQUE IDENTIFIER - 2D BARCODE   |
-|--------------------------------------|
+| 17.   | UNIQUE IDENTIFIER - 2D BARCODE   |
+|-------|----------------------------------|
 
 2D barcode carrying the unique identifier included.
 
@@ -2202,38 +2147,48 @@ Brintellix 15 mg
 
 PC: SN: NN:
 
-61
-
 <div style=\"page-break-after: always\"></div>
 
 | MINIMUM PARTICULARS TO APPEAR ON BLISTERS   |
 |---------------------------------------------|
 | BLISTER FOR TABLETS                         |
 
-| 1.   | NAMEOFTHEMEDICINAL PRODUCT   |
-|------|------------------------------|
+| 1.   | NAME OF THE MEDICINAL PRODUCT   |
+|------|---------------------------------|
 
-Brintellix 15 mg tablet vortioxetine
-
-| 2.   | NAMEOFTHEMARKETING AUTHORISATION HOLDER   |
-|------|-------------------------------------------|
-
-H. Lundbeck A/S
+| 2.   | NAME OF THE MARKETING AUTHORISATION HOLDER   |
+|------|----------------------------------------------|
 
 | 3.   | EXPIRY DATE   |
 |------|---------------|
 
-EXP (MM-YYYY)
-
 | 4.   | BATCH NUMBER   |
 |------|----------------|
-
-Lot
 
 | 5.   | OTHER   |
 |------|---------|
 
-62
+## MINIMUM PARTICULARS TO APPEAR ON BLISTERS
+
+## BLISTER FOR TABLETS
+
+1. NAME OF THE MEDICINAL PRODUCT
+
+Brintellix 15 mg tablet vortioxetine
+
+2. NAME OF THE MARKETING AUTHORISATION HOLDER
+
+H. Lundbeck A/S
+
+3. EXPIRY DATE
+
+EXP (MM-YYYY)
+
+4. BATCH NUMBER
+
+Lot
+
+## 5. OTHER
 
 <div style=\"page-break-after: always\"></div>
 
@@ -2280,7 +2235,7 @@ EXP {MM-YYYY}
 
 ## 9. SPECIAL STORAGE CONDITIONS
 
-## 10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
+10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
 
 <div style=\"page-break-after: always\"></div>
 
@@ -2340,7 +2295,7 @@ NN:
 
 ## PARTICULARS TO APPEAR ON THE OUTER PACKAGING
 
-## CARTON FOR INTERMEDIATE PACK / COMPONENT OF A MULTIPACK (WITHOUT BLUE BOX)
+CARTON FOR INTERMEDIATE PACK / COMPONENT OF A MULTIPACK (WITHOUT BLUE BOX)
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
@@ -2350,7 +2305,7 @@ Brintellix 20 mg film-coated tablets vortioxetine
 
 Each film-coated tablet contains 20 mg vortioxetine (as hydrobromide)
 
-## 3. LIST OF EXCIPIENTS
+3. LIST OF EXCIPIENTS
 
 ## 4. PHARMACEUTICAL FORM AND CONTENTS
 
@@ -2372,55 +2327,45 @@ Keep out of the sight and reach of children
 
 ## 7. OTHER SPECIAL WARNING(S), IF NECESSARY
 
-## 8. EXPIRY DATE
+8. EXPIRY DATE
 
 EXP {MM-YYYY}
 
-## 9. SPECIAL STORAGE CONDITIONS
-
-## 10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
+9. SPECIAL STORAGE CONDITIONS
+10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
 
 <div style=\"page-break-after: always\"></div>
 
-| 11.   | NAMEANDADDRESS OF THE MARKETING AUTHORISATION HOLDER   |
-|-------|--------------------------------------------------------|
+## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
-H. Lundbeck A/S Ottiliavej 9 2500 Valby Denmark
+H. Lundbeck A/S Ottiliavej 9 2500 Valby
 
-| 12. MARKETING AUTHORISATION NUMBER(S)   |
-|-----------------------------------------|
+Denmark
+
+## 12. MARKETING AUTHORISATION NUMBER(S)
 
 EU/1/13/891/040 126 film-coated tablets (9 packs of 14) EU/1/13/891/033 490 film-coated tablets (5 packs of 98x1)
 
-| 13.   | BATCH NUMBER   |
-|-------|----------------|
+## 13. BATCH NUMBER
 
 Lot
 
-| 14.   | GENERAL CLASSIFICATION FOR SUPPLY   |
-|-------|-------------------------------------|
+14. GENERAL CLASSIFICATION FOR SUPPLY
+15. INSTRUCTIONS ON USE
 
-| 15.   | INSTRUCTIONS ON USE   |
-|-------|-----------------------|
-
-| 16.   | INFORMATION IN BRAILLE   |
-|-------|--------------------------|
+## 16. INFORMATION IN BRAILLE
 
 Brintellix 20 mg
 
-| 17. UNIQUE IDENTIFIER - 2D BARCODE   |
-|--------------------------------------|
+## 17. UNIQUE IDENTIFIER - 2D BARCODE
 
-| 18.   | UNIQUE IDENTIFIER - HUMANREADABLE DATA   |
-|-------|------------------------------------------|
+## 18. UNIQUE IDENTIFIER - HUMAN READABLE DATA
 
 <div style=\"page-break-after: always\"></div>
 
 ## PARTICULARS TO APPEAR ON THE OUTER PACKAGING
 
-OUTER WRAPPER LABEL ON MULTIPACKS WRAPPED IN FOIL
-
-(INCLUDING BLUE BOX)
+OUTER WRAPPER LABEL ON MULTIPACKS WRAPPED IN FOIL (INCLUDING BLUE BOX)
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
@@ -2452,7 +2397,7 @@ Keep out of the sight and reach of children
 
 ## 7. OTHER SPECIAL WARNING(S), IF NECESSARY
 
-## 8. EXPIRY DATE
+8. EXPIRY DATE
 
 EXP {MM-YYYY}
 
@@ -2460,42 +2405,37 @@ EXP {MM-YYYY}
 
 10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
 
-<div style=\"page-break-after: always\"></div>
-
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
 H. Lundbeck A/S Ottiliavej 9 2500 Valby Denmark
 
-| 12. MARKETING AUTHORISATION NUMBER(S)   |
-|-----------------------------------------|
+## 12. MARKETING AUTHORISATION NUMBER(S)
 
 EU/1/13/891/040 126 film-coated tablets (9 packs of 14) EU/1/13/891/033 490 film-coated tablets (5 packs of 98x1)
 
-| 13.   | BATCH NUMBER   |
-|-------|----------------|
+## 13. BATCH NUMBER
 
 Lot
 
-| 14.   | GENERAL CLASSIFICATION FOR SUPPLY   |
-|-------|-------------------------------------|
+14. GENERAL CLASSIFICATION FOR SUPPLY
 
-| 15.   | INSTRUCTIONS ON USE   |
-|-------|-----------------------|
+15. INSTRUCTIONS ON USE
 
-| 16.   | INFORMATION IN BRAILLE   |
-|-------|--------------------------|
+## 16. INFORMATION IN BRAILLE
 
 Brintellix 20 mg
 
-| 17. UNIQUE IDENTIFIER - 2D BARCODE   |
-|--------------------------------------|
+## 17. UNIQUE IDENTIFIER - 2D BARCODE
 
 2D barcode carrying the unique identifier included.
 
-| 18.   | UNIQUE IDENTIFIER - HUMANREADABLE DATA   |
-|-------|------------------------------------------|
+## 18. UNIQUE IDENTIFIER - HUMAN READABLE DATA
 
-PC: SN: NN:
+PC: SN:
+
+NN:
+
+<div style=\"page-break-after: always\"></div>
 
 <div style=\"page-break-after: always\"></div>
 
@@ -2503,30 +2443,42 @@ PC: SN: NN:
 |---------------------------------------------|
 | BLISTER FOR TABLETS                         |
 
-| 1.   | NAMEOFTHEMEDICINAL PRODUCT   |
-|------|------------------------------|
+| 1.   | NAME OF THE MEDICINAL PRODUCT   |
+|------|---------------------------------|
 
-Brintellix 20 mg tablet vortioxetine
-
-| 2.   | NAMEOFTHEMARKETING AUTHORISATION HOLDER   |
-|------|-------------------------------------------|
-
-H. Lundbeck A/S
+| 2.   | NAME OF THE MARKETING AUTHORISATION HOLDER   |
+|------|----------------------------------------------|
 
 | 3.   | EXPIRY DATE   |
 |------|---------------|
 
-EXP (MM-YYYY)
-
 | 4.   | BATCH NUMBER   |
 |------|----------------|
-
-Lot
 
 | 5.   | OTHER   |
 |------|---------|
 
-69
+## MINIMUM PARTICULARS TO APPEAR ON BLISTERS
+
+## BLISTER FOR TABLETS
+
+## 1. NAME OF THE MEDICINAL PRODUCT
+
+Brintellix 20 mg tablet vortioxetine
+
+## 2. NAME OF THE MARKETING AUTHORISATION HOLDER
+
+H. Lundbeck A/S
+
+3. EXPIRY DATE
+
+EXP (MM-YYYY)
+
+## 4. BATCH NUMBER
+
+Lot
+
+## 5. OTHER
 
 <div style=\"page-break-after: always\"></div>
 
@@ -2554,9 +2506,7 @@ oral drops, solution
 
 ## 5. METHOD AND ROUTE(S) OF ADMINISTRATION
 
-Read the package leaflet before use
-
-Oral use
+Read the package leaflet before use Oral use
 
 ## [outer carton only]:
 
@@ -2583,10 +2533,9 @@ When opened, use within 8 weeks
 
 | 10.                                                                    | SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS          |
 |------------------------------------------------------------------------|------------------------------------------------------------------------|
-| OR WASTE MATERIALS DERIVED FROMSUCH MEDICINAL PRODUCTS, IF APPROPRIATE | OR WASTE MATERIALS DERIVED FROMSUCH MEDICINAL PRODUCTS, IF APPROPRIATE |
+| OR WASTE MATERIALS DERIVEDFROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE | OR WASTE MATERIALS DERIVEDFROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE |
 
-| 11.   | NAMEANDADDRESS OF THE MARKETING AUTHORISATION HOLDER   |
-|-------|--------------------------------------------------------|
+## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
 H. Lundbeck A/S Ottiliavej 9 2500 Valby Denmark
 
@@ -2611,15 +2560,17 @@ Lot
 
 Brintellix 20 mg/ml [outer carton only]
 
-| 17. UNIQUE IDENTIFIER - 2D BARCODE   |
-|--------------------------------------|
+| 17.   | UNIQUE IDENTIFIER - 2D BARCODE   |
+|-------|----------------------------------|
 
 2D barcode carrying the unique identifier included. [outer carton only]
 
 | 18.   | UNIQUE IDENTIFIER - HUMANREADABLE DATA   |
 |-------|------------------------------------------|
 
-[outer carton only] PC: SN: NN:
+[outer carton only] PC: SN:
+
+NN:
 
 <div style=\"page-break-after: always\"></div>
 
@@ -2629,9 +2580,7 @@ Brintellix 20 mg/ml [outer carton only]
 
 ## Package leaflet: Information for the patient
 
-## Brintellix 5 mg film-coated tablets
-
-## vortioxetine
+## Brintellix 5 mg film-coated tablets vortioxetine
 
 ## Read all of this leaflet carefully before you start taking this medicine because it contains important information for you.
 
@@ -2676,11 +2625,12 @@ Talk to your doctor or pharmacist before taking Brintellix if you:
 
 - -
 
-Your doctor will treat you cautiously if you have a history of fits or have unstable fit should be discontinued in any patient who develops fits or where there is an increase in the frequency of fits.
-
 Taking these medicines together with Brintellix may increase the risk of serotonin syndrome. This syndrome may be associated with hallucinations, involuntary twitching, accelerated heartbeat, high blood pressure, fever, nausea and diarrhoea.
 
-- have had fits (seizures). disorders/epilepsy. Fits are a potential risk with medicines used to treat depression. Treatment
+- have had fits (seizures).
+
+Your doctor will treat you cautiously if you have a history of fits or have unstable fit disorders/epilepsy. Fits are a potential risk with medicines used to treat depression. Treatment should be discontinued in any patient who develops fits or where there is an increase in the frequency of fits.
+
 - -have had mania
 - -have a tendency to bleed or bruise easily, or if you are pregnant (See 'Pregnancy, breast-feeding and fertility').
 - -have low sodium level in the blood.
@@ -2730,7 +2680,7 @@ wait 14 days before you start taking Brintellix. After stopping Brintellix you m
 - -carbamazepine, phenytoin (medicines to treat epilepsy or other illness).
 - -warfarin, dipyridamole, phenprocoumon, some antipsychotics, phenothiazines, tricyclic antidepressants, low-dose acetylsalicylic acid and non-steroidal anti-inflammatory drugs (blood thinning medicines and medicines used for pain relief). These may increase bleeding-tendency.
 
-## Medicines that increase the risk of fits:
+Medicines that increase the risk of fits:
 
 - -sumatriptan and similar medicines with active substance names ending in 'triptans'.
 - -tramadol (a strong painkiller).
@@ -2767,7 +2717,7 @@ If you take Brintellix near the end of your pregnancy there may be an increased 
 
 ## Breast-feeding
 
-It is expected that the ingredients of Brintellix will pass into breast milk. Brintellix is not to be used during breast-feeding. Your doctor will make a decision on whether you should stop breast-feeding, or stop using Brintellix taking into account the benefit of breast-feeding for your child, and the benefit of therapy for you.
+A small amount of Brintellix will pass into breast milk, but no harmful, drug-associated effects have been observed in the infants. Brintellix is not to be used during breast-feeding. Your doctor will make a decision on whether you should stop breast-feeding, or stop using Brintellix taking into account the benefit of breast-feeding for your child, and the benefit of therapy for you.
 
 ## Driving and using machines
 
@@ -2787,9 +2737,7 @@ For elderly people 65 years of age or older, the starting dose is 5 mg vortioxet
 
 ## Method of administration
 
-Take one tablet with a glass of water.
-
-The tablet can be taken with or without food.
+Take one tablet with a glass of water. The tablet can be taken with or without food.
 
 ## Duration of treatment
 
@@ -2856,8 +2804,7 @@ Rare: may affect up to 1 in 1,000 people
 
 Not known: frequency cannot be estimated from available data
 
-- -low levels of sodium in the blood (the symptoms may include feeling dizzy, weak, confused, sleepy or very tired, or feeling or being sick; more serious symptoms are fainting, fits or falls)
-- -serotonin syndrome (see section 2)
+- -low levels of sodium in the blood (the symptoms may include feeling dizzy, weak, confused, sleepy or very tired, or feeling or being sick; more serious symptoms are fainting, fits or falls) -serotonin syndrome (see section 2)
 - -allergic reactions, that may be serious, causing swelling of the face, lips, tongue or throat, difficulties breathing or swallowing, and/or a sudden drop in blood pressure (making you feel dizzy or lightheaded)
 - -hives
 - -excessive or unexplained bleeding (including bruising, nose bleeding, gastrointestinal and vaginal bleeding)
@@ -2913,7 +2860,9 @@ The pack sizes of 56 x 1, 98 x 1 and 490 film-coated tablets are presented in un
 
 ## Marketing Authorisation Holder and Manufacturer
 
-H. Lundbeck A/S Ottiliavej 9 2500 Valby Denmark
+H. Lundbeck A/S Ottiliavej 9 2500 Valby
+
+Denmark
 
 For any information about this medicine, please contact the local representative of the Marketing Authorisation Holder:
 
@@ -2925,15 +2874,15 @@ Tél/Tel: +32 2 535 7979
 
 ## Lietuva
 
-H. Lundbeck A/S
+Swixx Biopharma UAB
 
-Tel: +45 36301311(Danija)
-
-lietuva@lundbeck.com
+Tel: +370 5 236 91 40
 
 ## България
 
-Lundbeck Export A/S Representative Office Tel: +359 2 962 4696
+Swixx Biopharma EOOD
+
+Teл.: +359 (0)2 4942 480
 
 ## Luxembourg/Luxemburg
 
@@ -2943,15 +2892,15 @@ Tél: +32 2 535 7979
 
 ## Česká republika
 
-Lundbeck Česká republika s.r.o.
+Swixx Biopharma s.r.o.
 
-Tel: +420 225 275 600
+Tel: +420 242 434 222
 
 ## Magyarország
 
-Lundbeck Hungaria Kft.
+Swixx Biopharma Kft.
 
-Tel: +36 1 4369980
+Tel.: +36 1 9206 570
 
 ## Danmark
 
@@ -2979,9 +2928,9 @@ Tel: +31 20 697 1901
 
 ## Eesti
 
-Lundbeck Eesti AS
+Swixx Biopharma OÜ
 
-Tel: + 372 605 9350
+Tel: +372 640 1030
 
 ## Norge
 
@@ -2989,17 +2938,13 @@ H. Lundbeck AS
 
 Tlf: +47 91 300 800
 
+<div style=\"page-break-after: always\"></div>
+
 ## Ελλάδα
 
-Lundbeck Hellas S.A.
+Swixx Biopharma Μ.Α.Ε
 
-Τηλ: +30 210 610 5036
-
-## Österreich
-
-Lundbeck Austria GmbH
-
-Tel: +43 1 253 621 6033
+Τηλ: +30 214 444 9670
 
 ## España
 
@@ -3007,35 +2952,17 @@ Lundbeck España S.A.
 
 Tel: +34 93 494 9620
 
-## Polska
-
-Lundbeck Poland Sp. z o. o.
-
-Tel.: + 48 22 626 93 00
-
 ## France
 
 Lundbeck SAS
 
 Tél: + 33 1 79 41 29 00
 
-## Portugal
-
-Lundbeck Portugal - Produtos Farmacêuticos, Unipessoal Lda
-
-Tel: +351 21 00 45 900
-
 ## Hrvatska
 
-Lundbeck Croatia d.o.o.
+Swixx Biopharma d.o.o.
 
-Tel.: + 385 1 6448263
-
-## România
-
-Lundbeck Romania SRL
-
-Tel: +40 21319 88 26
+Tel: +385 1 2078 500
 
 ## Ireland
 
@@ -3043,23 +2970,11 @@ Lundbeck (Ireland) Limited
 
 Tel: +353 1 468 9800
 
-## Slovenija
-
-Lundbeck Pharma d.o.o.
-
-Tel.: +386 2 229 4500
-
 ## Ísland
 
 Vistor hf.
 
 Tel: +354 535 7000
-
-## Slovenská republika
-
-Lundbeck Slovensko s.r.o.
-
-Tel: +421 2 5341 42 18
 
 ## Italia
 
@@ -3067,33 +2982,17 @@ Lundbeck Italia S.p.A.
 
 Tel: +39 02 677 4171
 
-## Suomi/Finland
-
-Oy H. Lundbeck Ab
-
-Puh/Tel: +358 2 276 5000
-
 ## Κύπρος
 
-Lundbeck Hellas A.E
+Swixx Biopharma Μ.Α.Ε
 
-Τηλ.: +357 22490305
-
-## Sverige
-
-H. Lundbeck AB
-
-Tel: +46 40 699 8200
+Τηλ: +30 214 444 9670
 
 ## Latvija
 
-H. Lundbeck A/S
+Swixx Biopharma SIA
 
-Tel: +45 36301311(Dānija)
-
-latvia@lundbeck.com
-
-<div style=\"page-break-after: always\"></div>
+Tel: +371 6 616 47 50
 
 ## This leaflet was last revised in MM/YYYY
 
@@ -3101,13 +3000,59 @@ latvia@lundbeck.com
 
 Detailed information on this medicine is available on the European Medicines Agency web site: http://www.ema.europa.eu.
 
+## Österreich
+
+Lundbeck Austria GmbH
+
+Tel: +43 1 253 621 6033
+
+## Polska
+
+Swixx Biopharma Sp. z o.o.
+
+Tel.: +48 22 4600 720
+
+## Portugal
+
+Lundbeck Portugal - Produtos Farmacêuticos, Unipessoal Lda
+
+Tel: +351 21 00 45 900
+
+## România
+
+Swixx Biopharma S.R.L
+
+Tel: +40 37 1530 850
+
+## Slovenija
+
+Swixx Biopharma d.o.o.
+
+Tel: +386 1 2355 100
+
+## Slovenská republika
+
+Swixx Biopharma s.r.o.
+
+Tel: +421 2 20833 600
+
+## Suomi/Finland
+
+Oy H. Lundbeck Ab
+
+Puh/Tel: +358 2 276 5000
+
+## Sverige
+
+H. Lundbeck AB
+
+Tel: +46 40 699 8200
+
 <div style=\"page-break-after: always\"></div>
 
 ## Package leaflet: Information for the patient
 
-## Brintellix 10 mg film-coated tablets
-
-## vortioxetine
+## Brintellix 10 mg film-coated tablets vortioxetine
 
 ## Read all of this leaflet carefully before you start taking this medicine because it contains important information for you.
 
@@ -3207,7 +3152,7 @@ wait 14 days before you start taking Brintellix. After stopping Brintellix, you 
 - -carbamazepine, phenytoin (medicines to treat epilepsy or other illness)
 - -Warfarin, dipyridamole, phenprocoumon, some antipsychotics, phenothiazines, tricyclic antidepressants, low-dose acetylsalicylic acid and non-steroidal anti-inflammatory drugs (blood thinning medicines and medicines used for pain relief). These may increase bleeding-tendency.
 
-## Medicines that increase the risk of fits:
+Medicines that increase the risk of fits:
 
 - -sumatriptan and similar medicines with active substance names ending in 'triptans'.
 - -tramadol (a strong painkiller).
@@ -3244,7 +3189,7 @@ If you take Brintellix near the end of your pregnancy there may be an increased 
 
 ## Breast-feeding
 
-It is expected that the ingredients of Brintellix will pass into breast milk. Brintellix is not to be used during breast-feeding. Your doctor will make a decision on whether you should stop breast-feeding, or stop using Brintellix taking into account the benefit of breast-feeding for your child, and the benefit of therapy for you
+A small amount of Brintellix will pass into breast milk, , but no harmful, drug-associated effects have been observed in the infants. Brintellix is not to be used during breast-feeding. Your doctor will make a decision on whether you should stop breast-feeding, or stop using Brintellix taking into account the benefit of breast-feeding for your child, and the benefit of therapy for you
 
 ## Driving and using machines
 
@@ -3264,9 +3209,7 @@ For elderly people 65 years of age or older the starting dose is 5 mg vortioxeti
 
 ## Method of administration
 
-Take one tablet with a glass of water.
-
-The tablet can be taken with or without food.
+Take one tablet with a glass of water. The tablet can be taken with or without food.
 
 ## Duration of treatment
 
@@ -3333,9 +3276,7 @@ Rare: may affect up to 1 in 1,000 people
 
 Not known: frequency cannot be estimated from available data
 
-- -low levels of sodium in the blood (the symptoms may include feeling dizzy, weak, confused, sleepy or very tired, or feeling or being sick; more serious symptoms are fainting, fits or falls)
-- -
-- serotonin syndrome (see section 2)
+- -low levels of sodium in the blood (the symptoms may include feeling dizzy, weak, confused, sleepy or very tired, or feeling or being sick; more serious symptoms are fainting, fits or falls) -serotonin syndrome (see section 2)
 - -allergic reactions, that may be serious, causing swelling of the face, lips, tongue or throat, difficulties breathing or swallowing, and/or a sudden drop in blood pressure (making you feel dizzy or lightheaded)
 - -hives
 - -excessive or unexplained bleeding (including bruising, nose bleeding, gastrointestinal and vaginal bleeding)
@@ -3401,15 +3342,19 @@ For any information about this medicine, please contact the local representative
 
 Lundbeck S.A./N.V.
 
-Tél/Tel: +32 2 535 797 9
+Tél/Tel: +32 2 535 7979
 
 ## Lietuva
 
-H. Lundbeck A/S Tel: +45 36301311(Danija) lietuva@lundbeck.com
+Swixx Biopharma UAB
+
+Tel: +370 5 236 91 40
 
 ## България
 
-Lundbeck Export A/S Representative Office Tel: +359 2 962 4696
+Swixx Biopharma EOOD
+
+Teл.: +359 (0)2 4942 480
 
 ## Luxembourg/Luxemburg
 
@@ -3419,13 +3364,15 @@ Tél: +32 2 535 7979
 
 ## Česká republika
 
-Lundbeck Česká republika s.r.o. Tel: +420 225 275 600
+Swixx Biopharma s.r.o.
+
+Tel: +420 242 434 222
 
 ## Magyarország
 
-Lundbeck Hungaria Kft.
+Swixx Biopharma Kft.
 
-Tel: +36 1 4369980
+Tel.: +36 1 9206 570
 
 ## Danmark
 
@@ -3455,15 +3402,15 @@ Tel: +31 20 697 1901
 
 ## Eesti
 
-Lundbeck Eesti AS
+Swixx Biopharma OÜ
 
-Tel: + 372 605 9350
+Tel: +372 640 1030
 
 ## Ελλάδα
 
-Lundbeck Hellas S.A.
+Swixx Biopharma Μ.Α.Ε
 
-Τηλ: +30 210 610 5036
+Τηλ: +30 214 444 9670
 
 ## España
 
@@ -3479,9 +3426,9 @@ Tél: + 33 1 79 41 29 00
 
 ## Hrvatska
 
-Lundbeck Croatia d.o.o.
+Swixx Biopharma d.o.o.
 
-Tel.: + 385 1 6448263
+Tel: +385 1 2078 500
 
 ## Ireland
 
@@ -3503,17 +3450,15 @@ Tel: +39 02 677 4171
 
 ## Κύπρος
 
-Lundbeck Hellas A.E
+Swixx Biopharma Μ.Α.Ε
 
-Τηλ.: +357 22490305
+Τηλ: +30 214 444 9670
 
 ## Latvija
 
-H. Lundbeck A/S
+Swixx Biopharma SIA
 
-Tel: +45 36301311(Dānija)
-
-latvia@lundbeck.com
+Tel: +371 6 616 47 50
 
 ## This leaflet was last revised in MM/YYYY
 
@@ -3535,9 +3480,9 @@ Tel: +43 1 253 621 6033
 
 ## Polska
 
-Lundbeck Poland Sp. z o. o.
+Swixx Biopharma Sp. z o.o.
 
-Tel.: + 48 22 626 93 00
+Tel.: +48 22 4600 720
 
 ## Portugal
 
@@ -3549,21 +3494,21 @@ Tel: +351 21 00 45 900
 
 ## România
 
-Lundbeck Romania SRL
+Swixx Biopharma S.R.L
 
-Tel: +40 21319 88 26
+Tel: +40 37 1530 850
 
 ## Slovenija
 
-Lundbeck Pharma d.o.o.
+Swixx Biopharma d.o.o.
 
-Tel.: +386 2 229 4500
+Tel: +386 1 2355 100
 
 ## Slovenská republika
 
-Lundbeck Slovensko s.r.o.
+Swixx Biopharma s.r.o.
 
-Tel: +421 2 5341 42 18
+Tel: +421 2 20833 600
 
 ## Suomi/Finland
 
@@ -3577,9 +3522,9 @@ H. Lundbeck AB
 
 Tel: +46 40 699 8200
 
-<div style=\"page-break-after: always\"></div>
-
 ## Package leaflet: Information for the patient
+
+<div style=\"page-break-after: always\"></div>
 
 ## Brintellix 15 mg film-coated tablets
 
@@ -3683,7 +3628,7 @@ wait 14 days before you start taking Brintellix. After stopping Brintellix, you 
 - -carbamazepine, phenytoin (medicines to treat epilepsy or other illness).
 - -warfarin, dipyridamole, phenprocoumon, some antipsychotics, phenothiazines, tricyclic antidepressants, low-dose acetylsalicylic acid and non-steroidal anti-inflammatory drugs (blood thinning medicines and medicines used for pain relief). These may increase bleeding-tendency.
 
-## Medicines that increase the risk of fits:
+Medicines that increase the risk of fits:
 
 - -sumatriptan and similar medicines with active substance names ending in 'triptans'.
 - -tramadol (a strong painkiller).
@@ -3720,7 +3665,7 @@ If you take Brintellix near the end of your pregnancy there may be an increased 
 
 ## Breast-feeding
 
-It is expected that the ingredients of Brintellix will pass into breast milk. Brintellix is not to be used during breast-feeding. Your doctor will make a decision on whether you should stop breast-feeding, or stop using Brintellix taking into account the benefit of breast-feeding for your child, and the benefit of therapy for you
+A small amount of Brintellix will pass into breast milk, but no harmful, drug-associated effects have been observed in the infants. Brintellix is not to be used during breast-feeding. Your doctor will make a decision on whether you should stop breast-feeding, or stop using Brintellix taking into account the benefit of breast-feeding for your child, and the benefit of therapy for you
 
 ## Driving and using machines
 
@@ -3740,9 +3685,7 @@ For elderly people 65 years of age or older the starting dose is 5 mg vortioxeti
 
 ## Method of administration
 
-Take one tablet with a glass of water.
-
-The tablet can be taken with or without food.
+Take one tablet with a glass of water. The tablet can be taken with or without food.
 
 ## Duration of treatment
 
@@ -3867,9 +3810,9 @@ Not all pack sizes may be marketed.
 
 ## Marketing Authorisation Holder and Manufacturer
 
-H. Lundbeck A/S
+H. Lundbeck A/S Ottiliavej 9 2500 Valby
 
-Ottiliavej 9 2500 Valby Denmark
+Denmark
 
 For any information about this medicine, please contact the local representative of the Marketing Authorisation Holder:
 
@@ -3877,19 +3820,19 @@ For any information about this medicine, please contact the local representative
 
 Lundbeck S.A./N.V.
 
-Tél/Tel: +32 2 535 797 9
+Tél/Tel: +32 2 535 7979
 
 ## Lietuva
 
-H. Lundbeck A/S
+Swixx Biopharma UAB
 
-Tel: +45 36301311(Danija)
-
-lietuva@lundbeck.com
+Tel: +370 5 236 91 40
 
 ## България
 
-Lundbeck Export A/S Representative Office Tel: +359 2 962 4696
+Swixx Biopharma EOOD
+
+Teл.: +359 (0)2 4942 480
 
 ## Luxembourg/Luxemburg
 
@@ -3899,11 +3842,15 @@ Tél: +32 2 535 7979
 
 ## Česká republika
 
-Lundbeck Česká republika s.r.o. Tel: +420 225 275 600
+Swixx Biopharma s.r.o.
+
+Tel: +420 242 434 222
 
 ## Magyarország
 
-Lundbeck Hungaria Kft. Tel: +36 1 4369980
+Swixx Biopharma Kft.
+
+Tel.: +36 1 9206 570
 
 ## Danmark
 
@@ -3931,9 +3878,9 @@ Tel: +31 20 697 1901
 
 ## Eesti
 
-Lundbeck Eesti AS
+Swixx Biopharma OÜ
 
-Tel: + 372 605 9350
+Tel: +372 640 1030
 
 ## Norge
 
@@ -3945,9 +3892,9 @@ Tlf: +47 91 300 800
 
 ## Ελλάδα
 
-Lundbeck Hellas S.A.
+Swixx Biopharma Μ.Α.Ε
 
-Τηλ: +30 210 610 5036
+Τηλ: +30 214 444 9670
 
 ## España
 
@@ -3963,9 +3910,9 @@ Tél: + 33 1 79 41 29 00
 
 ## Hrvatska
 
-Lundbeck Croatia d.o.o.
+Swixx Biopharma d.o.o.
 
-Tel.: + 385 1 6448263
+Tel: +385 1 2078 500
 
 ## Ireland
 
@@ -3987,17 +3934,15 @@ Tel: +39 02 677 4171
 
 ## Κύπρος
 
-Lundbeck Hellas A.E
+Swixx Biopharma Μ.Α.Ε
 
-Τηλ.: +357 22490305
+Τηλ: +30 214 444 9670
 
 ## Latvija
 
-H. Lundbeck A/S
+Swixx Biopharma SIA
 
-Tel: +45 36301311(Dānija)
-
-latvia@lundbeck.com
+Tel: +371 6 616 47 50
 
 ## This leaflet was last revised in MM/YYYY
 
@@ -4013,31 +3958,35 @@ Tel: +43 1 253 621 6033
 
 ## Polska
 
-Lundbeck Poland Sp. z o. o.
+Swixx Biopharma Sp. z o.o.
 
-Tel.: + 48 22 626 93 00
+Tel.: +48 22 4600 720
 
 ## Portugal
 
-Lundbeck Portugal - Produtos Farmacêuticos, Unipessoal Lda
+Lundbeck Portugal - Produtos Farmacêuticos,
+
+Unipessoal Lda
 
 Tel: +351 21 00 45 900
 
 ## România
 
-Lundbeck Romania SRL
+Swixx Biopharma S.R.L
 
-Tel: +40 21319 88 26
+Tel: +40 37 1530 850
 
 ## Slovenija
 
-Lundbeck Pharma d.o.o. Tel.: +386 2 229 4500
+Swixx Biopharma d.o.o.
+
+Tel: +386 1 2355 100
 
 ## Slovenská republika
 
-Lundbeck Slovensko s.r.o.
+Swixx Biopharma s.r.o.
 
-Tel: +421 2 5341 42 18
+Tel: +421 2 20833 600
 
 ## Suomi/Finland
 
@@ -4100,11 +4049,9 @@ Talk to your doctor or pharmacist before taking Brintellix if you:
 
 <div style=\"page-break-after: always\"></div>
 
-- -
-
 Taking these medicines together with Brintellix may increase the risk of serotonin syndrome. This syndrome may be associated with hallucinations, involuntary twitching, accelerated heartbeat, high blood pressure, fever, nausea and diarrhoea.
 
-- have had fits (seizures).
+- -have had fits (seizures).
 
 Your doctor will treat you cautiously if you have a history of fits or have unstable fit disorders/epilepsy. Fits are a potential risk with medicines used to treat depressionTreatment should be discontinued in any patient who develops fits or where there is an increase in the frequency of fits.
 
@@ -4139,9 +4086,9 @@ Brintellix should not be used in paediatric patients (under 18 years of age) bec
 
 Tell your doctor or pharmacist if you are taking, have recently taken or might take any other medicines.
 
-Tell your doctor if you are taking any of the following medicines:
+- Tell your doctor if you are taking any of the following medicines:
 
-phenelzine, iproniazid, isocarboxazid, nialamide, tranylcypromine (medicines to treat depression called non-selective monoamine oxidase inhibitors) you must not take any of these medicines together with Brintellix. If you have taken any of these medicines, you will need to
+phenelzine, iproniazid, isocarboxazid, nialamide, tranylcypromine (medicines to treat depression called non-selective monoamine oxidase inhibitors) you must not take any of these medicines together with Brintellix. If you have taken any of these  medicines, you will need to
 
 <div style=\"page-break-after: always\"></div>
 
@@ -4155,9 +4102,9 @@ wait 14 days before you start taking Brintellix. After stopping Brintellix, you 
 - -medicines known to cause low sodium level.
 - -rifampicin (a medicine to treat tuberculosis and other infections).
 - -carbamazepine, phenytoin (medicines to treat epilepsy or other illness).
-- -warfarin, dipyridamole, phenprocoumon, some antipsychotics, phenothiazines, tricyclic antidepressants, low-dose acetylsalicylic acid and non-steroidal anti-inflammatory drugs (blood thinning medicines and medicines used for pain relief). These may increase bleeding-tendency.
+- -warfarin, dipyridamole, phenprocoumon, some antipsychotics, phenothiazines, tricyclic antidepressants,  low-dose acetylsalicylic acid and non-steroidal anti-inflammatory drugs (blood thinning medicines and medicines used for pain relief). These may increase bleeding-tendency.
 
-## Medicines that increase the risk of fits:
+Medicines that increase the risk of fits:
 
 - -sumatriptan and similar medicines with active substance names ending in 'triptans'
 - -tramadol (a strong painkiller).
@@ -4194,7 +4141,7 @@ If you take Brintellix near the end of your pregnancy there may be an increased 
 
 ## Breast-feeding
 
-It is expected that the ingredients of Brintellix will pass into breast milk. Brintellix is not to be used during breast-feeding. Your doctor will make a decision on whether you should stop breast-feeding, or stop using Brintellix taking into account the benefit of breast-feeding for your child, and the benefit of therapy for you
+A small amount of Brintellix will pass into breast milk, but no harmful, drug-associated effects have been observed in the infants. Brintellix is not to be used during breast-feeding. Your doctor will make a decision on whether you should stop breast-feeding, or stop using Brintellix taking into account the benefit of breast-feeding for your child, and the benefit of therapy for you
 
 ## Driving and using machines
 
@@ -4214,9 +4161,7 @@ For elderly people 65 years of age or older the starting dose is 5 mg vortioxeti
 
 ## Method of administration
 
-Take one tablet with a glass of water.
-
-The tablet can be taken with or without food.
+Take one tablet with a glass of water. The tablet can be taken with or without food.
 
 ## Duration of treatment
 
@@ -4306,7 +4251,7 @@ An increased risk of sexual dysfunction has been reported with the 20 mg dose, a
 
 ## Additional side effects in children and adolescents
 
-Side effects observed with vortioxetine in children and adolescents were similar to those seen for adults except for abdominal pain related events that were observed more often than in adults and suicidal thoughts that were observed more often in adolescents than in adults.
+Side effects observed with vortioxetine in children and adolescents were similar to those seen for adults except for abdominal pain related events  that were observed more often than in adults and suicidal thoughts that were observed more often in adolescents than in adults.
 
 ## Reporting of side effects
 
@@ -4343,9 +4288,9 @@ Not all pack sizes may be marketed.
 
 ## Marketing Authorisation Holder and Manufacturer
 
-H. Lundbeck A/S
+H. Lundbeck A/S Ottiliavej 9 2500 Valby
 
-Ottiliavej 9 2500 Valby Denmark
+Denmark
 
 For any information about this medicine, please contact the local representative of the Marketing Authorisation Holder:
 
@@ -4357,15 +4302,15 @@ Tél/Tel: +32 2 535 7979
 
 ## Lietuva
 
-H. Lundbeck A/S
+Swixx Biopharma UAB
 
-Tel: +45 36301311(Danija)
-
-lietuva@lundbeck.com
+Tel: +370 5 236 91 40
 
 ## България
 
-Lundbeck Export A/S Representative Office Tel: +359 2 962 4696
+Swixx Biopharma EOOD
+
+Teл.: +359 (0)2 4942 480
 
 ## Luxembourg/Luxemburg
 
@@ -4375,15 +4320,15 @@ Tél: +32 2 535 7979
 
 ## Česká republika
 
-Lundbeck Česká republika s.r.o.
+Swixx Biopharma s.r.o.
 
-Tel: +420 225 275 600
+Tel: +420 242 434 222
 
 ## Magyarország
 
-Lundbeck Hungaria Kft.
+Swixx Biopharma Kft.
 
-Tel: +36 1 4369980
+Tel.: +36 1 9206 570
 
 ## Danmark
 
@@ -4411,7 +4356,9 @@ Tel: +31 20 697 1901
 
 ## Eesti
 
-Lundbeck Eesti AS Tel: + 372 605 9350
+Swixx Biopharma OÜ
+
+Tel: +372 640 1030
 
 ## Norge
 
@@ -4421,9 +4368,9 @@ Tlf: +47 91 300 800
 
 ## Ελλάδα
 
-Lundbeck Hellas S.A.
+Swixx Biopharma Μ.Α.Ε
 
-Τηλ: +30 210 610 5036
+Τηλ: +30 214 444 9670
 
 ## Österreich
 
@@ -4439,9 +4386,9 @@ Tel: +34 93 494 9620
 
 ## Polska
 
-Lundbeck Poland Sp. z o. o.
+Swixx Biopharma Sp. z o.o.
 
-Tel.: + 48 22 626 93 00
+Tel.: +48 22 4600 720
 
 ## France
 
@@ -4451,19 +4398,23 @@ Tél: + 33 1 79 41 29 00
 
 ## Portugal
 
-Lundbeck Portugal - Produtos Farmacêuticos, UnipessoalLda Tel: +351 21 00 45 900
+Lundbeck Portugal - Produtos Farmacêuticos,
+
+Unipessoal Lda
+
+Tel: +351 21 00 45 900
 
 ## Hrvatska
 
-Lundbeck Croatia d.o.o.
+Swixx Biopharma d.o.o.
 
-Tel.: + 385 1 6448263
+Tel: +385 1 2078 500
 
 ## România
 
-Lundbeck Romania SRL
+Swixx Biopharma S.R.L
 
-Tel: +40 21319 88 26
+Tel: +40 37 1530 850
 
 ## Ireland
 
@@ -4473,9 +4424,9 @@ Tel: +353 1 468 9800
 
 ## Slovenija
 
-Lundbeck Pharma d.o.o.
+Swixx Biopharma d.o.o.
 
-Tel.: +386 2 229 4500
+Tel: +386 1 2355 100
 
 ## Ísland
 
@@ -4485,9 +4436,9 @@ Tel: +354 535 7000
 
 ## Slovenská republika
 
-Lundbeck Slovensko s.r.o.
+Swixx Biopharma s.r.o.
 
-Tel: +421 2 5341 42 18
+Tel: +421 2 20833 600
 
 ## Italia
 
@@ -4503,9 +4454,9 @@ Puh/Tel: +358 2 276 5000
 
 ## Κύπρος
 
-Lundbeck Hellas A.E
+Swixx Biopharma Μ.Α.Ε
 
-Τηλ.: +357 22490305
+Τηλ: +30 214 444 9670
 
 ## Sverige
 
@@ -4515,15 +4466,11 @@ Tel: +46 40 699 8200
 
 ## Latvija
 
-H. Lundbeck A/S
+Swixx Biopharma SIA
 
-Tel: +45 36301311(Dānija)
-
-latvia@lundbeck.com
+Tel: +371 6 616 47 50
 
 This leaflet was last revised in MM/YYYY
-
-<div style=\"page-break-after: always\"></div>
 
 ## Other sources of information
 
@@ -4532,6 +4479,8 @@ Detailed information on this medicine is available on the European Medicines Age
 <div style=\"page-break-after: always\"></div>
 
 ## Package leaflet: Information for the patient
+
+<div style=\"page-break-after: always\"></div>
 
 ## Brintellix 20 mg/ml oral drops, solution
 
@@ -4635,7 +4584,7 @@ wait 14 days before you start taking Brintellix. After stopping Brintellix, you 
 - -carbamazepine, phenytoin (medicines to treat epilepsy or other illness).
 - -warfarin, dipyridamole, phenprocoumon, some antipsychotics, phenothiazines, tricyclic antidepressants, low-dose acetylsalicylic acid and non-steroidal anti-inflammatory drugs (blood thinning medicines and medicines used for pain relief). These may increase bleeding-tendency.
 
-## Medicines that increase the risk of fits:
+Medicines that increase the risk of fits:
 
 - -sumatriptan and similar medicines with active substance names ending in 'triptans'.
 - -tramadol (a strong painkiller).
@@ -4672,7 +4621,7 @@ If you take Brintellix near the end of your pregnancy there may be an increased 
 
 ## Breast-feeding
 
-It is expected that the ingredients of Brintellix will pass into breast milk. Brintellix is not to be used during breast-feeding. Your doctor will make a decision on whether you should stop breast-feeding, or stop using Brintellix taking into account the benefit of breast-feeding for your child, and the benefit of therapy for you
+A small amount of Brintellix will pass into breast milk, but no harmful, drug-associated effects have been observed in the infants. Brintellix is not to be used during breast-feeding. Your doctor will make a decision on whether you should stop breast-feeding, or stop using Brintellix taking into account the benefit of breast-feeding for your child, and the benefit of therapy for you
 
 ## Driving and using machines
 
@@ -4680,11 +4629,7 @@ Brintellix has no or negligible influence on the ability to drive and use machin
 
 ## Brintellix contains ethanol
 
-This medicine contains 85 mg of alcohol (ethanol 96%) in each ml which is equivalent to 10.1 % v/v.
-
-The amount in 1 ml of this medicine is equivalent to less than 3 ml of beer or 1 ml of wine.
-
-The small amount of alcohol in this medicine will not have any noticeable effects.
+This medicine contains 85 mg of alcohol (ethanol 96%) in each ml which is equivalent to 10.1 % v/v. The amount in 1 ml of this medicine is equivalent to less than 3 ml of beer or 1 ml of wine. The small amount of alcohol in this medicine will not have any noticeable effects.
 
 ## 3. How to take Brintellix
 
@@ -4771,14 +4716,13 @@ Uncommon: may affect up to1 in 100 people
 - -involuntary shaking (tremor)
 - -hallucinations (seeing, hearing or feeling things that are not there)
 
-## Rare: may affect up to 1 in 1,000 people
+Rare: may affect up to 1 in 1,000 people
 
 - -enlarged pupils (mydriasis), which can increase the risk of glaucoma (see section 2)
 
 Not known: frequency cannot be estimated from available data
 
-- -low levels of sodium in the blood (the symptoms may include feeling dizzy, weak, confused,
-- sleepy or very tired, or feeling or being sick; more serious symptoms are fainting, fits or falls)
+- -low levels of sodium in the blood (the symptoms may include feeling dizzy, weak, confused, sleepy or very tired, or feeling or being sick; more serious symptoms are fainting, fits or falls)
 - -serotonin syndrome (see section 2)
 - -allergic reactions, that may be serious, causing swelling of the face, lips, tongue or throat, difficulties breathing or swallowing, and/or a sudden drop in blood pressure (making you feel dizzy or lightheaded)
 - -hives
@@ -4806,9 +4750,13 @@ Side effects observed with vortioxetine in children and adolescents were similar
 
 ## Reporting of side effects
 
-If you get any side effects, talk to your doctor or pharmacist. This includes any possible side effects not listed in this leaflet. You can also report side effects directly via the national reporting system listed in Appendix V. By reporting side effects, you can help provide more information on the safety of this medicine.
+If you get any side effects, talk to your doctor or pharmacist. This includes any possible side effects not listed in this leaflet. You can also report side effects directly via the national reporting system
 
-## 5. How to store Brintellix
+listed in Appendix V. By reporting side effects, you can help provide more information on the safety of this medicine.
+
+5.
+
+How to store Brintellix
 
 Keep this medicine out of the sight and reach of children.
 
@@ -4822,20 +4770,25 @@ Do not throw away any medicines via wastewater or household waste. Ask your phar
 
 ## 6. Contents of the pack and other information
 
-## What Brintellix contains
+What Brintellix contains
 
-- -The active substance is vortioxetine. Each drop of solution contains 1 mg vortioxetine (as (D,L)lactate).
+-
+
+The active substance is vortioxetine. Each drop of solution contains 1 mg vortioxetine (as (D,L)- lactate).
+
 - -The other ingredients are hydroxypropylbetadex, ethanol (96 percent) and purified water
 
-## What Brintellix looks like and contents of the pack
+What Brintellix looks like and contents of the pack
 
-Oral drops, solution Clear, nearly colourless to yellowish solution.
+Oral drops, solution
+
+Clear, nearly colourless to yellowish solution.
 
 Brintellix oral drops, solution, are available in 20 ml amber glass bottle including screw cap with dropper (child-resistant closure).
 
 Each bottle contains 15 ml Brintellix oral drops, solution.
 
-## Marketing Authorisation Holder and Manufacturer
+Marketing Authorisation Holder and Manufacturer
 
 H. Lundbeck A/S Ottiliavej 9 2500 Valby Denmark
 
@@ -4845,17 +4798,21 @@ Belgique/België/Belgien
 
 Lundbeck S.A./N.V. Tél/Tel: +32 2 535 7979
 
-Lietuva H. Lundbeck A/S Tel: +45 36301311(Danija) lietuva@lundbeck.com
+Lietuva
+
+Swixx Biopharma UAB
+
+Tel: +370 5 236 91 40
 
 <div style=\"page-break-after: always\"></div>
 
 ## България
 
-Lundbeck Export A/S Representative Office Tel: +359 2 962 4696
+Swixx Biopharma EOOD Teл.: +359 (0)2 4942 480
 
 ## Česká republika
 
-Lundbeck Česká republika s.r.o. Tel: +420 225 275 600
+Swixx Biopharma s.r.o. Tel: +420 242 434 222
 
 ## Danmark
 
@@ -4867,11 +4824,11 @@ Lundbeck GmbH Tel: +49 40 23649 0
 
 ## Eesti
 
-Lundbeck Eesti AS Tel: + 372 605 9350
+Swixx Biopharma OÜ Tel: +372 640 1030
 
 ## Ελλάδα
 
-Lundbeck Hellas S.A. Τηλ: +30 210 610 5036
+Swixx Biopharma Μ.Α.Ε Τηλ: +30 214 444 9670
 
 ## España
 
@@ -4883,7 +4840,7 @@ Lundbeck SAS Tél: + 33 1 79 41 29 00
 
 ## Hrvatska
 
-Lundbeck Croatia d.o.o. Tel.: + 385 1 6448263
+Swixx Biopharma d.o.o. Tel: +385 1 2078 500
 
 ## Ireland
 
@@ -4899,15 +4856,21 @@ Lundbeck Italia S.p.A. Tel: +39 02 677 4171
 
 ## Κύπρος
 
-Lundbeck Hellas A.E Τηλ.: +357 22490305
+Swixx Biopharma Μ.Α.Ε Τηλ: +30 214 444 9670
+
+## Latvija
+
+Swixx Biopharma SIA Tel: +371 6 616 47 50
 
 ## Luxembourg/Luxemburg
 
-Lundbeck S.A. Tél: +32 2 535 7979
+Lundbeck S.A.
+
+Tél: +32 2 535 7979
 
 ## Magyarország
 
-Lundbeck Hungaria Kft. Tel: +36 1 4369980
+Swixx Biopharma Kft. Tel.: +36 1 9206 570
 
 ## Malta
 
@@ -4927,7 +4890,7 @@ Lundbeck Austria GmbH Tel: +43 1 253 621 6033
 
 ## Polska
 
-Lundbeck Poland Sp. z o. o. Tel.: + 48 22 626 93 00
+Swixx Biopharma Sp. z o.o. Tel.: +48 22 4600 720
 
 ## Portugal
 
@@ -4935,15 +4898,15 @@ Lundbeck Portugal - Produtos Farmacêuticos, Unipessoal Lda Tel: +351 21 00 45 9
 
 ## România
 
-Lundbeck Romania SRL Tel: +40 21319 88 26
+Swixx Biopharma S.R.L Tel: +40 37 1530 850
 
 ## Slovenija
 
-Lundbeck Pharma d.o.o. Tel.: +386 2 229 4500
+Swixx Biopharma d.o.o. Tel: +386 1 2355 100
 
 ## Slovenská republika
 
-Lundbeck Slovensko s.r.o. Tel: +421 2 5341 42 18
+Swixx Biopharma s.r.o. Tel: +421 2 20833 600
 
 ## Suomi/Finland
 
@@ -4951,18 +4914,12 @@ Oy H. Lundbeck Ab Puh/Tel: +358 2 276 5000
 
 ## Sverige
 
-H. Lundbeck AB Tel: +46 40 699 82 00
+H. Lundbeck AB Tel: +46 40 699 8200
 
 <div style=\"page-break-after: always\"></div>
-
-Latvija H. Lundbeck A/S Tel: +45 36301311(Dānija)
-
-latvia@lundbeck.com
 
 ## This leaflet was last revised in MM/YYYY
 
 ## Other sources of information
 
-Detailed information on this medicine is available on the European Medicines Agency web site: http://www.ema.europa.eu v.
-
-79.0
+Detailed information on this medicine is available on the European Medicines Agency web site: http://www.ema.europa.eu

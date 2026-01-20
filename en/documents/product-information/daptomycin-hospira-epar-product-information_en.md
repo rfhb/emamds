@@ -1,22 +1,24 @@
 ---
-document_datetime: 2025-09-17 10:04:30
+document_datetime: 2026-01-20 10:34:11
 document_pages: 58
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/daptomycin-hospira-epar-product-information_en.pdf
 document_name: daptomycin-hospira-epar-product-information_en.pdf
 version: success
-processing_time: 11.2522537
-conversion_datetime: 2025-12-27 21:46:31.028484
+processing_time: 12.5032786
+conversion_datetime: 2026-01-20 20:18:07.652676
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.66.0
-  docling-core: 2.57.0
+  docling-serve: 1.10.0
+  docling-jobkit: 1.8.1
+  docling: 2.69.0
+  docling-core: 2.60.0
   docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-parse: 4.7.3
   python: cpython-313 (3.13.11)
   plaform: macOS-26.2-arm64-arm-64bit-Mach-O
 ---
-## ANNEX I SUMMARY OF PRODUCT CHARACTERISTICS
+## ANNEX I
+
+## SUMMARY OF PRODUCT CHARACTERISTICS
 
 <div style=\"page-break-after: always\"></div>
 
@@ -175,7 +177,7 @@ It has been demonstrated in clinical studies that daptomycin is not effective in
 
 ## RIE due to Staphylococcus aureus
 
-Clinical data on the use of daptomycin to treat RIE due to Staphylococcus aureus are limited to 19 adult patients (see 'Clinical efficacy in adults' in section 5.1). The safety and efficacy of daptomycin in children and adolescents aged below 18 years with RIE due to Staphylococcus aureus have not been established.
+Clinical data on the use of daptomycin to treat RIE due to Staphylococcus aureus are limited to 19 adult patients (see ' Clinical efficacy in adults ' in section 5.1). The safety and efficacy of daptomycin in children and adolescents aged below 18 years with RIE due to Staphylococcus aureus have not been established.
 
 The efficacy of daptomycin in patients with prosthetic valve infections or with left-sided infective endocarditis due to Staphylococcus aureus has not been demonstrated.
 
@@ -246,17 +248,17 @@ An adjustment of daptomycin dose interval is needed for adult patients whose cre
 
 Caution is advised when administering daptomycin to patients who already have some degree of renal impairment (creatinine clearance &lt; 80 mL/min) before commencing therapy with Daptomycin Hospira. Regular monitoring of renal function is advised (see section 5.2).
 
-In addition, regular monitoring of renal function is advised during concomitant administration of potentially nephrotoxic agents, regardless of the patient's pre-existing renal function (see section 4.5).
+In addition, regular monitoring of renal function is advised during concomitant administration of potentially nephrotoxic agents, regardless of the patient's pre -existing renal function (see section 4.5).
 
 The dose regimen for daptomycin in paediatric patients with renal impairment has not been established.
 
 ## Obesity
 
-In obese subjects with Body Mass Index (BMI) &gt; 40 kg/m 2 but with creatinine clearance &gt; 70 mL/min, the AUC0-∞ daptomycin was significantly increased (mean 42% higher) compared with non-obese matched controls. There is limited information on the safety and efficacy of daptomycin in the very obese and so caution is recommended. However, there is currently no evidence that a dose reduction is required (see section 5.2).
+In obese subjects with Body Mass Index (BMI) &gt; 40 kg/m 2  but with creatinine clearance &gt; 70 mL/min, the AUC0-∞ daptomycin was significantly increased (mean 42% higher) compared with non-obese matched controls. There is limited information on the safety and efficacy of daptomycin in the very obese and so caution is recommended. However, there is currently no evidence that a dose reduction is required (see section 5.2).
 
 ## Sodium
 
-This medicinal product contains less than 1 mmol sodium (23 mg) per dose, that is to say essentially 'sodium-free'.
+This medicinal product contains less than 1 mmol sodium (23 mg) per dose, that is to say essentially 'sodium -free'.
 
 ## 4.5 Interaction with other medicinal products and other forms of interaction
 
@@ -276,7 +278,7 @@ There is limited experience regarding concomitant administration of daptomycin w
 
 Daptomycin is primarily cleared by renal filtration and so plasma levels may be increased during co-administration with medicinal products that reduce renal filtration (e.g. NSAIDs and COX-2 inhibitors). In addition, there is a potential for a pharmacodynamic interaction to occur during co-administration due to additive renal effects. Therefore, caution is advised when daptomycin is co-administered with any other medicinal product known to reduce renal filtration.
 
-During post-marketing surveillance, cases of interference between daptomycin and particular reagents used in some assays of prothrombin time/international normalised ratio (PT/INR) have been reported. This interference led to a false prolongation of PT and elevation of INR. If unexplained abnormalities of PT/INR are observed in patients taking daptomycin, consideration should be given to a possible in vitro interaction with the laboratory test. The possibility of erroneous results may be minimised by drawing samples for PT or INR testing near the time of trough plasma concentrations of daptomycin (see section 4.4).
+During post -marketing surveillance, cases of interference between daptomycin and particular reagents used in some assays of prothrombin time/international normalised ratio (PT/INR) have been reported. This interference led to a false prolongation of PT and elevation of INR. If unexplained abnormalities of PT/INR are observed in patients taking daptomycin, consideration should be given to a possible in vitro interaction with the laboratory test. The possibility of erroneous results may be minimised by drawing samples for PT or INR testing near the time of trough plasma concentrations of daptomycin (see section 4.4).
 
 ## 4.6 Fertility, pregnancy and lactation
 
@@ -288,7 +290,7 @@ Daptomycin Hospira should not be used during pregnancy unless clearly necessary 
 
 ## Breast-feeding
 
-In a single human case study, daptomycin was intravenously administered daily for 28 days to a nursing mother at a dose of 500 mg/day, and samples of the patient's breast milk were collected over a 24-hour
+In a single human case study, daptomycin was intravenously administered daily for 28 days to a nursing mother at a dose of 500 mg/day, and samples of the patient's breast milk were collected over a 24 -hour
 
 <div style=\"page-break-after: always\"></div>
 
@@ -316,7 +318,7 @@ Less frequently reported, but more serious, adverse reactions include hypersensi
 
 ## Tabulated list of adverse reactions
 
-The following adverse reactions were reported during therapy and during follow-up with frequencies corresponding to very common (≥ 1/10); common (≥ 1/100 to &lt; 1/10); uncommon (≥ 1/1,000 to &lt; 1/100); rare (≥ 1/10,000 to &lt; 1/1,000); very rare (&lt; 1/10,000); not known (cannot be estimated from the available data):
+The following adverse reactions were reported during therapy and during follow-up with frequencies corresponding to very common ( ≥ 1/10); common (≥ 1/100 to &lt; 1/10); uncommon (≥ 1/1,000 to &lt; 1/100); rare (≥ 1/10,000 to &lt; 1/1,000); very rare (&lt; 1/10,000); not known (cannot be estimated from the available data):
 
 Within each frequency grouping, undesirable effects are presented in order of decreasing seriousness.
 
@@ -442,7 +444,7 @@ Table 5 Success rates in RIE patients
 | PP (per protocol) population        |                      |                      |                                         |
 | RIE                                 | 6/12 (50.0%)         | 4/8 (50.0%)          | 0.0% (-44.7, 44.7)                      |
 
-Failure of treatment due to persisting or relapsing Staphylococcus aureus infections was observed in 19/120 (15.8%) patients treated with daptomycin, 9/53 (16.7%) patients treated with vancomycin and 2/62 (3.2%) patients treated with an anti-staphylococcal semi-synthetic penicillin. Among these failures six patients treated with daptomycin and one patient treated with vancomycin were infected with Staphylococcus aureus that developed increasing MICs of daptomycin on or following therapy (see 'Mechanisms of resistance' above). Most patients who failed due to persisting or relapsing Staphylococcus aureus infection had deep-seated infection and did not receive necessary surgical intervention.
+Failure of treatment due to persisting or relapsing Staphylococcus aureus infections was observed in 19/120 (15.8%) patients treated with daptomycin, 9/53 (16.7%) patients treated with vancomycin and 2/62 (3.2%) patients treated with an anti-staphylococcal semi-synthetic penicillin. Among these failures six patients treated with daptomycin and one patient treated with vancomycin were infected with Staphylococcus aureus that developed increasing MICs of daptomycin on or following therapy (see 'Mechanisms of resistance' above). Most patients who failed due to persisting or relapsin g Staphylococcus aureus infection had deep-seated infection and did not receive necessary surgical intervention.
 
 ## Clinical efficacy in paediatric patients
 
@@ -479,8 +481,6 @@ Table 7 Summary of overall therapeutic response by type of baseline pathogen (ME
 | Methicillin-susceptible Staphylococcus aureus (MSSA) | 68/69 (99%)                                         | 28/29 (97%)                                         |
 | Methicillin-resistant Staphylococcus aureus (MRSA)   | 63/66 (96%)                                         | 34/34 (100%)                                        |
 | Streptococcus pyogenes                               | 17/18 (94%)                                         | 5/5 (100%)                                          |
-
-a  Subjects achieving clinical success (Clinical Response of 'Cure' or 'Improved') and microbiological success (pathogen-level response of 'Eradicated' or 'Presumed Eradicated') are classified as overall therapeutic success.
 
 The safety and efficacy of daptomycin was evaluated in paediatric patients aged 1 to 17 years (Study DAP-PEDBAC-11-02) with bacteraemia caused by Staphylococcus aureus . Patients were randomised in a 2:1 ratio into the following age groups and given age-dependent doses once daily for up to 42 days, as follows:
 
@@ -547,7 +547,7 @@ In a mass balance study using radiolabelled material, 78% of the administered do
 
 ## Elderly
 
-Following administration of a single 4 mg/kg intravenous dose of daptomycin over a 30-minute period, the mean total clearance of daptomycin was approximately 35% lower and the mean AUC0-∞ was approximately 58% higher in elderly subjects (≥ 75 years of age) compared with those in healthy young subjects (18 to 30 years of age). There were no differences in C max . The differences noted are most likely due to the normal reduction in renal function observed in the geriatric population.
+Following administration of a single 4 mg/kg intravenous dose of daptomycin over a 30-minute period, the mean total clearance of daptomycin was approximately 35% lower and the mean AUC0-∞ was approximately 58% higher in elderly subjects (≥ 75 years of age) compared with those in healthy young subjects (18 to 30 years of age). There were no differences in Cmax. The differences noted are most likely due to the normal reduction in renal function observed in the geriatric population.
 
 No dose adjustment is necessary based on age alone. However, renal function should be assessed and the dose should be reduced if there is evidence of severe renal impairment.
 
@@ -631,7 +631,7 @@ The lowest observable effect level (LOEL) for myopathy in rats and dogs occurred
 
 A study in dogs demonstrated that skeletal myopathy was reduced upon once daily administration as compared to fractionated dosing at same total daily dose, suggesting that myopathic effects in animals were primarily related to time between doses.
 
-Effects on peripheral nerves were observed at higher doses than those associated with skeletal muscle effects in adult rats and dogs, and were primarily related to plasma C max . Peripheral nerve changes were characterised by minimal to slight axonal degeneration and were frequently accompanied by functional changes. Reversal of both the microscopic and functional effects was complete within 6 months post-dose. Safety margins for peripheral nerve effects in rats and dogs are 8- and 6-fold, respectively, based on comparison of Cmax values at the No Observed Effect Level (NOEL) with the Cmax achieved on dosing with 30-minute intravenous infusion of 6 mg/kg once daily in patients with normal renal function.
+Effects on peripheral nerves were observed at higher doses than those associated with skeletal muscle effects in adult rats and dogs, and were primarily related to plasma Cmax. Peripheral nerve changes were characterised by minimal to slight axonal degeneration and were frequently accompanied by functional changes. Reversal of both the microscopic and functional effects was complete within 6 months post-dose. Safety margins for peripheral nerve effects in rats and dogs are 8- and 6-fold, respectively, based on comparison of Cmax values at the No Observed Effect Level (NOEL) with the Cmax achieved on dosing with 30-minute intravenous infusion of 6 mg/kg once daily in patients with normal renal function.
 
 The findings of in vitro and some in vivo studies designed to investigate the mechanism of daptomycin myotoxicity indicate that the plasma membrane of differentiated spontaneously contracting muscle cells is the target of toxicity. The specific cell surface component directly targeted has not been identified. Mitochondrial loss/damage was also observed; however the role and significance of this finding in the overall pathology are unknown. This finding was not associated with an effect on muscle contraction. In contrast to adult dogs, juvenile dogs appeared to be more sensitive to peripheral nerve lesions as compared to skeletal myopathy. Juvenile dogs developed peripheral and spinal nerve lesions at doses lower than those associated with skeletal muscle toxicity.
 
@@ -657,13 +657,13 @@ Daptomycin Hospira is not physically or chemically compatible with glucose-conta
 
 <div style=\"page-break-after: always\"></div>
 
-After reconstitution: Chemical and physical in-use stability of the reconstituted solution in the vial has been demonstrated for 12 hours at 25°C and up to 48 hours at 2°C - 8°C. Chemical and physical stability of the diluted solution in infusion bags is established as 12 hours at 25°C or 24 hours at 2°C - 8°C.
+After reconstitution: Chemical and physical in-use stability of the reconstituted solution in the vial has been demonstrated for 12 hours at 25°C and up to 48 hours at 2°C -8°C. Chemical and physical stability of the diluted solution in infusion bags is established as 12 hours at 25°C or 24 hours at 2°C - 8°C.
 
-For the 30-minute intravenous infusion, the combined storage time (reconstituted solution in vial and diluted solution in infusion bag; see section 6.6) at 25°C must not exceed 12 hours (or 24 at 2°C - 8°C).
+For the 30-minute intravenous infusion, the combined storage time (reconstituted solution in vial and diluted solution in infusion bag; see section 6.6) at 25°C must not exceed 12 hours (or 24 at 2°C -8°C).
 
-For the 2-minute intravenous injection, the storage time of the reconstituted solution in the vial (see section 6.6) at 25°C must not exceed 12 hours (or 48 hours at 2°C - 8°C).
+For the 2-minute intravenous injection, the storage time of the reconstituted solution in the vial (see section 6.6) at 25°C must not exceed 12 hours (or 48 hours at 2°C -8°C).
 
-However, from a microbiological point of view the product should be used immediately. No preservative or bacteriostatic agent is present in this product. If not used immediately, in-use storage times are the responsibility of the user and would not normally be longer than 24 hours at 2°C - 8°C, unless reconstitution/dilution has taken place in controlled and validated aseptic conditions.
+However, from a microbiological point of view the product should be used immediately. No preservative or bacteriostatic agent is present in this product. If not used immediately, in-use storage times are the responsibility of the user and would not normally be longer than 24 hours at 2°C -8°C, unless reconstitution/dilution has taken place in controlled and validated aseptic conditions.
 
 ## 6.4 Special precautions for storage
 
@@ -691,7 +691,9 @@ A 50 mg/mL concentration of Daptomycin Hospira for infusion is obtained by recon
 
 The fully reconstituted product will appear clear and may have a few small bubbles or foam around the edge of the vial.
 
-To prepare Daptomycin Hospira for intravenous infusion, please adhere to the following instructions: Aseptic technique should be used throughout to reconstitute lyophilised Daptomycin Hospira. To minimise foaming, AVOID vigorous agitation or shaking of the vial during or after reconstitution.
+To prepare Daptomycin Hospira for intravenous infusion, please adhere to the following instructions: Aseptic technique should be used throughout to reconstitute lyophilised Daptomycin Hospira.
+
+To minimise foaming, AVOID vigorous agitation or shaking of the vial during or after reconstitution.
 
 1. The polypropylene flip off cap should be removed to expose the central portion of the rubber stopper. Wipe the top of the rubber stopper with an alcohol swab or other antiseptic solution and
 
@@ -842,20 +844,20 @@ Medicinal product subject to medical prescription.
 
 ## C. OTHER CONDITIONS AND REQUIREMENTS OF THE MARKETING AUTHORISATION
 
-##  Periodic safety update reports (PSURs)
+## · Periodic safety update reports (PSURs)
 
 The requirements for submission of PSURs for this medicinal product are set out in the list of Union reference dates (EURD list) provided for under Article 107c(7) of Directive 2001/83/EC and any subsequent updates published on the European medicines web-portal.
 
 ## D. CONDITIONS OR RESTRICTIONS WITH REGARD TO THE SAFE AND EFFECTIVE USE OF THE MEDICINAL PRODUCT
 
-##  Risk management plan (RMP)
+## · Risk management plan (RMP)
 
 The marketing authorisation holder (MAH) shall perform the required pharmacovigilance activities and interventions detailed in the agreed RMP presented in Module 1.8.2 of the marketing authorisation and any agreed subsequent updates of the RMP.
 
 An updated RMP should be submitted:
 
--  At the request of the European Medicines Agency;
--  Whenever the risk management system is modified, especially as the result of new information being received that may lead to a significant change to the benefit/risk profile or as the result of an important (pharmacovigilance or risk minimisation) milestone being reached.
+- At the request of the European Medicines Agency;
+- Whenever the risk management system is modified, especially as the result of new information being received that may lead to a significant change to the benefit/risk profile or as the result of an important (pharmacovigilance or risk minimisation) milestone being reached.
 
 <div style=\"page-break-after: always\"></div>
 
@@ -941,19 +943,18 @@ Lot
 
 14. GENERAL CLASSIFICATION FOR SUPPLY
 15. INSTRUCTIONS ON USE
-
-## 16. INFORMATION IN BRAILLE
+16. INFORMATION IN BRAILLE
 
 Justification for not including Braille accepted.
 
-## 17. UNIQUE IDENTIFIER - 2D BARCODE
+## 17. UNIQUE IDENTIFIER -2D BARCODE
 
 2D barcode carrying the unique identifier included.
 
 <div style=\"page-break-after: always\"></div>
 
-| 18.   | UNIQUE IDENTIFIER -HUMANREADABLEDATA   |
-|-------|----------------------------------------|
+| 18.   | UNIQUE IDENTIFIER - HUMANREADABLE DATA   |
+|-------|------------------------------------------|
 
 PC SN NN
 
@@ -1061,14 +1062,14 @@ Lot
 
 Justification for not including Braille accepted.
 
-## 17. UNIQUE IDENTIFIER - 2D BARCODE
+## 17. UNIQUE IDENTIFIER -2D BARCODE
 
 2D barcode carrying the unique identifier included.
 
 <div style=\"page-break-after: always\"></div>
 
-| 18.   | UNIQUE IDENTIFIER -HUMANREADABLEDATA   |
-|-------|----------------------------------------|
+| 18.   | UNIQUE IDENTIFIER - HUMANREADABLE DATA   |
+|-------|------------------------------------------|
 
 PC SN NN
 
@@ -1106,9 +1107,7 @@ Lot
 
 ## Package leaflet: Information for the patient
 
-## Daptomycin Hospira 350 mg powder for solution for injection/infusion
-
-## daptomycin
+## Daptomycin Hospira 350 mg powder for solution for injection/infusion daptomycin
 
 ## Read all of this leaflet carefully before you start using this medicine because it contains important information for you.
 
@@ -1202,7 +1201,7 @@ Daptomycin Hospira has no known effects on the ability to drive or use machines.
 
 ## Daptomycin Hospira contains sodium
 
-This medicine contains less than 1 mmol sodium (23 mg) per dose, that is to say essentially 'sodium-free'.
+This medicine contains less than 1 mmol sodium (23 mg) per dose, that is to say essentially 'sodium -free'.
 
 ## 3. How Daptomycin Hospira is given
 
@@ -1230,7 +1229,7 @@ Like all medicines, this medicine can cause side effects, although not everybody
 
 The most serious side effects are described below:
 
-Serious side effects with frequency not known:
+## Serious side effects with frequency not known:
 
 frequency cannot be estimated from the available data
 
@@ -1354,7 +1353,9 @@ Tél/Tel: + 32 (0)2 554 62 11
 
 Пфайзер Люксембург САРЛ, Клон България
 
-Тел.: + 359 2 970 4333
+Тел.: +
+
+359 2 970 4333
 
 ## Česká republika
 
@@ -1382,9 +1383,7 @@ Tel: + 372 666 7500
 
 ## Lietuva
 
-Pfizer Luxembourg SARL filialas Lietuvoje
-
-Tel: + 370 5 251 4000
+Pfizer Luxembourg SARL filialas Lietuvoje Tel: + 370 5 251 4000
 
 ## Magyarország
 
@@ -1394,9 +1393,9 @@ Tel.: + 36 1 488 37 00
 
 ## Malta
 
-Drugsales Ltd
+Vivian Corporation Ltd.
 
-Tel: + 356 21419070/1/2
+Tel: + 356 2134 4610
 
 ## Nederland
 
@@ -1422,7 +1421,7 @@ Tel: + 43 (0)1 521 15-0
 
 Pfizer Ελλάς A.E.
 
-Τηλ: + 30 210 6785800
+Τηλ : + 30 210 6785800
 
 ## España
 
@@ -1500,7 +1499,9 @@ Tel: + 40 (0) 21 207 28 00
 
 Pfizer Luxembourg SARL
 
-Pfizer, podružnica za svetovanje s področja farmacevtske dejavnosti, Ljubljana
+Pfizer, podružnica za svetovanje s področja
+
+farmacevtske dejavnosti, Ljubljana
 
 Tel: + 386 (0)1 52 11 400
 
@@ -1562,7 +1563,7 @@ Daptomycin Hospira is not physically or chemically compatible with glucose-conta
 
 The combined storage time (reconstituted solution in vial and diluted solution in infusion bag) at 25°C must not exceed 12 hours (24 hours if refrigerated).
 
-Stability of the diluted solution in infusion bags is established as 12 hours at 25°C or 24 hours if stored under refrigeration at 2°C - 8°C.
+Stability of the diluted solution in infusion bags is established as 12 hours at 25°C or 24 hours if stored under refrigeration at 2°C -8°C.
 
 ## Daptomycin Hospira given as 2-minute intravenous injection (adult patients only)
 
@@ -1585,11 +1586,11 @@ To prepare Daptomycin Hospira for intravenous injection, please adhere to the fo
 
 <div style=\"page-break-after: always\"></div>
 
-## 9. The reconstituted solution should then be injected intravenously slowly over 2 minutes.
+9. The reconstituted solution should then be injected intravenously slowly over 2 minutes.
 
-Chemical and physical in-use stability on the reconstituted solution in the vial has been demonstrated for 12 hours at 25°C and up to 48 hours if stored under refrigeration (2°C - 8°C).
+Chemical and physical in-use stability on the reconstituted solution in the vial has been demonstrated for 12 hours at 25°C and up to 48 hours if stored under refrigeration (2°C -8°C).
 
-However, from a microbiological point of view the product should be used immediately. If not used immediately, in-use storage times are the responsibility of the user and would normally not be longer than 24 hours at 2°C - 8°C unless reconstitution /dilution has taken place in controlled and validated aseptic conditions.
+However, from a microbiological point of view the product should be used immediately. If not used immediately, in-use storage times are the responsibility of the user and would normally not be longer than 24 hours at 2°C -8°C unless reconstitution /dilution has taken place in controlled and validated aseptic conditions.
 
 This medicinal product must not be mixed with other medicinal products except those mentioned above.
 
@@ -1599,9 +1600,7 @@ Daptomycin Hospira vials are for single-use only. Any unused portion remaining i
 
 ## Package leaflet: Information for the patient
 
-## Daptomycin Hospira 500 mg powder for solution for injection/infusion
-
-## daptomycin
+## Daptomycin Hospira 500 mg powder for solution for injection/infusion daptomycin
 
 ## Read all of this leaflet carefully before you start using this medicine because it contains important information for you.
 
@@ -1697,7 +1696,7 @@ Daptomycin Hospira has no known effects on the ability to drive or use machines.
 
 ## Daptomycin Hospira contains sodium
 
-This medicine contains less than 1 mmol sodium (23 mg) per dose, that is to say essentially 'sodium-free'.
+This medicine contains less than 1 mmol sodium (23 mg) per dose, that is to say essentially 'sodium -free'.
 
 ## 3. How Daptomycin Hospira is given
 
@@ -1725,7 +1724,9 @@ Like all medicines, this medicine can cause side effects, although not everybody
 
 The most serious side effects are described below:
 
-Serious side effects with frequency not known: frequency cannot be estimated from the available data
+Serious side effects with frequency not known:
+
+frequency cannot be estimated from the available data
 
 - -A hypersensitivity reaction (serious allergic reaction including anaphylaxis and angioedema) has been reported, in some cases during administration of daptomycin. This serious allergic reaction needs immediate medical attention. Tell your doctor or nurse straight away if you experience any of the following symptoms:
 - -Chest pain or tightness,
@@ -1754,7 +1755,9 @@ If you experience these symptoms, tell your doctor or nurse straight away. Your 
 
 The most frequently reported side effects are described below:
 
-Common: may affect up to 1 in 10 people
+Common:
+
+may affect up to 1 in 10 people
 
 - -Fungal infections such as thrush,
 - -Urinary tract infection,
@@ -1861,19 +1864,21 @@ Tlf.: + 45 44 20 11 00
 
 ## Deutschland
 
-PFIZER PHARMA GmbH Tel:+ 49 (0)30 550055-51000
+PFIZER PHARMA GmbH
+
+Tel:+ 49 (0)30 550055-51000
 
 ## Eesti
 
-Pfizer Luxembourg SARL Eesti filiaal
-
-Tel: + 372 666 7500
+Pfizer Luxembourg SARL Eesti filiaal Tel: + 372 666 7500
 
 ## Ελλάδα
 
 Pfizer Ελλάς A.E.
 
-Τηλ: + 30 210 6785800
+Τηλ
+
+: + 30 210 6785800
 
 ## Lietuva
 
@@ -1887,9 +1892,9 @@ Tel.: + 36 1 488 37 00
 
 ## Malta
 
-Drugsales Ltd
+Vivian Corporation Ltd.
 
-Tel: + 356 21419070/1/2
+Tel: + 356 2134 4610
 
 ## Nederland
 
@@ -2019,7 +2024,7 @@ Tel: + 46 (0)8 550 520 00
 
 Important: Please refer to the Summary of Product Characteristics before prescribing.
 
-## Instructions for use and handling
+Instructions for use and handling
 
 500 mg powder for solution for injection/infusion:
 
@@ -2051,7 +2056,7 @@ Daptomycin Hospira is not physically or chemically compatible with glucose-conta
 
 The combined storage time (reconstituted solution in vial and diluted solution in infusion bag) at 25°C must not exceed 12 hours (24 hours if refrigerated).
 
-Stability of the diluted solution in infusion bags is established as 12 hours at 25°C or 24 hours if stored under refrigeration at 2°C - 8°C.
+Stability of the diluted solution in infusion bags is established as 12 hours at 25°C or 24 hours if stored under refrigeration at 2°C -8°C.
 
 ## Daptomycin Hospira given as 2-minute intravenous injection (adult patients only)
 
@@ -2074,11 +2079,11 @@ To prepare Daptomycin Hospira for intravenous injection, please adhere to the fo
 
 <div style=\"page-break-after: always\"></div>
 
-## 9. The reconstituted solution should then be injected intravenously slowly over 2 minutes.
+9. The reconstituted solution should then be injected intravenously slowly over 2 minutes.
 
-Chemical and physical in-use stability on the reconstituted solution in the vial has been demonstrated for 12 hours at 25°C and up to 48 hours if stored under refrigeration (2°C - 8°C).
+Chemical and physical in-use stability on the reconstituted solution in the vial has been demonstrated for 12 hours at 25°C and up to 48 hours if stored under refrigeration (2°C -8°C).
 
-However, from a microbiological point of view the product should be used immediately. If not used immediately, in-use storage times are the responsibility of the user and would normally not be longer than 24 hours at 2°C - 8°C unless reconstitution /dilution has taken place in controlled and validated aseptic conditions.
+However, from a microbiological point of view the product should be used immediately. If not used immediately, in-use storage times are the responsibility of the user and would normally not be longer than 24 hours at 2°C -8°C unless reconstitution /dilution has taken place in controlled and validated aseptic conditions.
 
 This medicinal product must not be mixed with other medicinal products except those mentioned above.
 

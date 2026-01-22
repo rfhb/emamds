@@ -1,18 +1,18 @@
 ---
-document_datetime: 2025-12-29 11:19:16
+document_datetime: 2026-01-21 16:32:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/liprolog.html
 document_name: liprolog.html
 version: success
-processing_time: 0.1095122
-conversion_datetime: 2025-12-31 04:18:00.671029
+processing_time: 0.3190523
+conversion_datetime: 2026-01-22 21:26:13.370452
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.66.0
-  docling-core: 2.57.0
+  docling-serve: 1.10.0
+  docling-jobkit: 1.8.1
+  docling: 2.69.0
+  docling-core: 2.60.0
   docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-parse: 4.7.3
   python: cpython-313 (3.13.11)
   plaform: macOS-26.2-arm64-arm-64bit-Mach-O
 ---
@@ -25,8 +25,6 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 insulin lispro Medicine Human Authorised
-
-On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -124,7 +122,7 @@ English (EN) (135.31 KB - PDF)
 
 [View](/en/documents/overview/liprolog-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-131)
+[Other languages (22)](#file-language-dropdown-806)
 
 български (BG) (160.08 KB - PDF)
 
@@ -394,17 +392,17 @@ svenska (SV) (133.78 KB - PDF)
 
 Liprolog: EPAR - Product Information
 
-English (EN) (2.95 MB - PDF)
+English (EN) (2.94 MB - PDF)
 
 **First published:** 28/08/2009
 
-**Last updated:** 30/01/2023
+**Last updated:** 21/01/2026
 
 [View](/en/documents/product-information/liprolog-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-239)
+[Other languages (24)](#file-language-dropdown-816)
 
-български (BG) (3.23 MB - PDF)
+български (BG) (3.31 MB - PDF)
 
 **First published:**
 
@@ -412,11 +410,11 @@ English (EN) (2.95 MB - PDF)
 
 **Last updated:**
 
-30/01/2023
+21/01/2026
 
 [View](/bg/documents/product-information/liprolog-epar-product-information_bg.pdf)
 
-español (ES) (3.23 MB - PDF)
+español (ES) (3.27 MB - PDF)
 
 **First published:**
 
@@ -424,11 +422,11 @@ español (ES) (3.23 MB - PDF)
 
 **Last updated:**
 
-30/01/2023
+21/01/2026
 
 [View](/es/documents/product-information/liprolog-epar-product-information_es.pdf)
 
-čeština (CS) (3.26 MB - PDF)
+čeština (CS) (3.69 MB - PDF)
 
 **First published:**
 
@@ -436,11 +434,11 @@ español (ES) (3.23 MB - PDF)
 
 **Last updated:**
 
-30/01/2023
+21/01/2026
 
 [View](/cs/documents/product-information/liprolog-epar-product-information_cs.pdf)
 
-dansk (DA) (2.89 MB - PDF)
+dansk (DA) (3.12 MB - PDF)
 
 **First published:**
 
@@ -448,11 +446,11 @@ dansk (DA) (2.89 MB - PDF)
 
 **Last updated:**
 
-30/01/2023
+21/01/2026
 
 [View](/da/documents/product-information/liprolog-epar-product-information_da.pdf)
 
-Deutsch (DE) (3.02 MB - PDF)
+Deutsch (DE) (3.16 MB - PDF)
 
 **First published:**
 
@@ -460,11 +458,11 @@ Deutsch (DE) (3.02 MB - PDF)
 
 **Last updated:**
 
-30/01/2023
+21/01/2026
 
 [View](/de/documents/product-information/liprolog-epar-product-information_de.pdf)
 
-eesti keel (ET) (2.69 MB - PDF)
+eesti keel (ET) (2.57 MB - PDF)
 
 **First published:**
 
@@ -472,11 +470,11 @@ eesti keel (ET) (2.69 MB - PDF)
 
 **Last updated:**
 
-30/01/2023
+21/01/2026
 
 [View](/et/documents/product-information/liprolog-epar-product-information_et.pdf)
 
-ελληνικά (EL) (3.61 MB - PDF)
+ελληνικά (EL) (3.38 MB - PDF)
 
 **First published:**
 
@@ -484,11 +482,11 @@ eesti keel (ET) (2.69 MB - PDF)
 
 **Last updated:**
 
-30/01/2023
+21/01/2026
 
 [View](/el/documents/product-information/liprolog-epar-product-information_el.pdf)
 
-français (FR) (3.16 MB - PDF)
+français (FR) (2.43 MB - PDF)
 
 **First published:**
 
@@ -496,11 +494,11 @@ français (FR) (3.16 MB - PDF)
 
 **Last updated:**
 
-30/01/2023
+21/01/2026
 
 [View](/fr/documents/product-information/liprolog-epar-product-information_fr.pdf)
 
-hrvatski (HR) (3.15 MB - PDF)
+hrvatski (HR) (3.13 MB - PDF)
 
 **First published:**
 
@@ -508,11 +506,11 @@ hrvatski (HR) (3.15 MB - PDF)
 
 **Last updated:**
 
-30/01/2023
+21/01/2026
 
 [View](/hr/documents/product-information/liprolog-epar-product-information_hr.pdf)
 
-íslenska (IS) (2.77 MB - PDF)
+íslenska (IS) (3 MB - PDF)
 
 **First published:**
 
@@ -520,11 +518,11 @@ hrvatski (HR) (3.15 MB - PDF)
 
 **Last updated:**
 
-30/01/2023
+21/01/2026
 
 [View](/is/documents/product-information/liprolog-epar-product-information_is.pdf)
 
-italiano (IT) (2.78 MB - PDF)
+italiano (IT) (2.88 MB - PDF)
 
 **First published:**
 
@@ -532,11 +530,11 @@ italiano (IT) (2.78 MB - PDF)
 
 **Last updated:**
 
-30/01/2023
+21/01/2026
 
 [View](/it/documents/product-information/liprolog-epar-product-information_it.pdf)
 
-latviešu valoda (LV) (3.09 MB - PDF)
+latviešu valoda (LV) (3.24 MB - PDF)
 
 **First published:**
 
@@ -544,11 +542,11 @@ latviešu valoda (LV) (3.09 MB - PDF)
 
 **Last updated:**
 
-30/01/2023
+21/01/2026
 
 [View](/lv/documents/product-information/liprolog-epar-product-information_lv.pdf)
 
-lietuvių kalba (LT) (3.15 MB - PDF)
+lietuvių kalba (LT) (3.37 MB - PDF)
 
 **First published:**
 
@@ -556,11 +554,11 @@ lietuvių kalba (LT) (3.15 MB - PDF)
 
 **Last updated:**
 
-30/01/2023
+21/01/2026
 
 [View](/lt/documents/product-information/liprolog-epar-product-information_lt.pdf)
 
-magyar (HU) (3.23 MB - PDF)
+magyar (HU) (3.35 MB - PDF)
 
 **First published:**
 
@@ -568,11 +566,11 @@ magyar (HU) (3.23 MB - PDF)
 
 **Last updated:**
 
-30/01/2023
+21/01/2026
 
 [View](/hu/documents/product-information/liprolog-epar-product-information_hu.pdf)
 
-Malti (MT) (3.29 MB - PDF)
+Malti (MT) (3.67 MB - PDF)
 
 **First published:**
 
@@ -580,11 +578,11 @@ Malti (MT) (3.29 MB - PDF)
 
 **Last updated:**
 
-30/01/2023
+21/01/2026
 
 [View](/mt/documents/product-information/liprolog-epar-product-information_mt.pdf)
 
-Nederlands (NL) (3 MB - PDF)
+Nederlands (NL) (3.11 MB - PDF)
 
 **First published:**
 
@@ -592,11 +590,11 @@ Nederlands (NL) (3 MB - PDF)
 
 **Last updated:**
 
-30/01/2023
+21/01/2026
 
 [View](/nl/documents/product-information/liprolog-epar-product-information_nl.pdf)
 
-norsk (NO) (3 MB - PDF)
+norsk (NO) (3.08 MB - PDF)
 
 **First published:**
 
@@ -604,11 +602,11 @@ norsk (NO) (3 MB - PDF)
 
 **Last updated:**
 
-30/01/2023
+21/01/2026
 
 [View](/no/documents/product-information/liprolog-epar-product-information_no.pdf)
 
-polski (PL) (3.21 MB - PDF)
+polski (PL) (2.45 MB - PDF)
 
 **First published:**
 
@@ -616,11 +614,11 @@ polski (PL) (3.21 MB - PDF)
 
 **Last updated:**
 
-30/01/2023
+21/01/2026
 
 [View](/pl/documents/product-information/liprolog-epar-product-information_pl.pdf)
 
-português (PT) (3.2 MB - PDF)
+português (PT) (3.26 MB - PDF)
 
 **First published:**
 
@@ -628,11 +626,11 @@ português (PT) (3.2 MB - PDF)
 
 **Last updated:**
 
-30/01/2023
+21/01/2026
 
 [View](/pt/documents/product-information/liprolog-epar-product-information_pt.pdf)
 
-română (RO) (2.12 MB - PDF)
+română (RO) (2.67 MB - PDF)
 
 **First published:**
 
@@ -640,11 +638,11 @@ română (RO) (2.12 MB - PDF)
 
 **Last updated:**
 
-30/01/2023
+21/01/2026
 
 [View](/ro/documents/product-information/liprolog-epar-product-information_ro.pdf)
 
-slovenčina (SK) (3.18 MB - PDF)
+slovenčina (SK) (3.36 MB - PDF)
 
 **First published:**
 
@@ -652,11 +650,11 @@ slovenčina (SK) (3.18 MB - PDF)
 
 **Last updated:**
 
-30/01/2023
+21/01/2026
 
 [View](/sk/documents/product-information/liprolog-epar-product-information_sk.pdf)
 
-slovenščina (SL) (2.65 MB - PDF)
+slovenščina (SL) (2.82 MB - PDF)
 
 **First published:**
 
@@ -664,11 +662,11 @@ slovenščina (SL) (2.65 MB - PDF)
 
 **Last updated:**
 
-30/01/2023
+21/01/2026
 
 [View](/sl/documents/product-information/liprolog-epar-product-information_sl.pdf)
 
-Suomi (FI) (2.95 MB - PDF)
+Suomi (FI) (3.12 MB - PDF)
 
 **First published:**
 
@@ -676,11 +674,11 @@ Suomi (FI) (2.95 MB - PDF)
 
 **Last updated:**
 
-30/01/2023
+21/01/2026
 
 [View](/fi/documents/product-information/liprolog-epar-product-information_fi.pdf)
 
-svenska (SV) (2.97 MB - PDF)
+svenska (SV) (3.19 MB - PDF)
 
 **First published:**
 
@@ -688,11 +686,11 @@ svenska (SV) (2.97 MB - PDF)
 
 **Last updated:**
 
-30/01/2023
+21/01/2026
 
 [View](/sv/documents/product-information/liprolog-epar-product-information_sv.pdf)
 
-**Latest procedure affecting product information:** N/0157 26/01/2023
+**Latest procedure affecting product information:** VR/0000315488 21/01/2026
 
 icon globe
 
@@ -716,7 +714,7 @@ English (EN) (26.94 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/liprolog-epar-all-authorised-presentations_en.pdf-0)
 
-[Other languages (24)](#file-language-dropdown-550)
+[Other languages (24)](#file-language-dropdown-408)
 
 български (BG) (76.44 KB - PDF)
 
@@ -931,9 +929,9 @@ EMA product number EMEA/H/C/000393 Marketing authorisation holder
 
 Eli Lilly Nederland B.V.
 
-Eli Lilly Nederland BV
+Orteliuslaan 1000 3528 BD Utrecht Netherlands
 
-Opinion adopted 26/04/2001 Marketing authorisation issued 01/08/2001 Revision 30
+Opinion adopted 26/04/2001 Marketing authorisation issued 01/08/2001 Revision 31
 
 ## Assessment history
 
@@ -945,13 +943,21 @@ Collapse section
 
 Liprolog : EPAR - Procedural steps taken and scientific information after authorisation
 
+English (EN) (460.22 KB - PDF)
+
+**First published:** 21/01/2026
+
+[View](/en/documents/procedural-steps-after/liprolog-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf)
+
+Liprolog : EPAR - Procedural steps taken and scientific information after authorisation (archive)
+
 English (EN) (369.32 KB - PDF)
 
 **First published:** 28/08/2009
 
-**Last updated:** 30/01/2023
+**Last updated:** 21/01/2026
 
-[View](/en/documents/procedural-steps-after/liprolog-epar-procedural-steps-taken-and-scientific-information-after-authorisation_en.pdf)
+[View](/en/documents/procedural-steps-after/liprolog-epar-procedural-steps-taken-scientific-information-after-authorisation-archive_en.pdf)
 
 Liprolog-H-C-393-X-0092 : EPAR - Assessment Report - Extension
 
@@ -993,7 +999,7 @@ English (EN) (181.66 KB - PDF)
 
 - [Medicines](https://www.ema.europa.eu/en/search?f%5B0%5D=ema_search_topics%3A61)
 
-**This page was last updated on** 30/01/2023
+**This page was last updated on** 21/01/2026
 
 ## Share this page
 

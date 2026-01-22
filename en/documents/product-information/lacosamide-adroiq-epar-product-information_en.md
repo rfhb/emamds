@@ -1,22 +1,24 @@
 ---
-document_datetime: 2025-09-25 11:30:20
+document_datetime: 2026-01-21 15:59:17
 document_pages: 38
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/lacosamide-adroiq-epar-product-information_en.pdf
 document_name: lacosamide-adroiq-epar-product-information_en.pdf
 version: success
-processing_time: 10.9003393
-conversion_datetime: 2025-12-20 02:00:26.519155
+processing_time: 10.4470883
+conversion_datetime: 2026-01-22 21:28:30.954407
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.64.1
-  docling-core: 2.55.0
+  docling-serve: 1.10.0
+  docling-jobkit: 1.8.1
+  docling: 2.69.0
+  docling-core: 2.60.0
   docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-parse: 4.7.3
   python: cpython-313 (3.13.11)
   plaform: macOS-26.2-arm64-arm-64bit-Mach-O
 ---
-## ANNEX I SUMMARY OF PRODUCT CHARACTERISTICS
+## ANNEX I
+
+## SUMMARY OF PRODUCT CHARACTERISTICS
 
 <div style=\"page-break-after: always\"></div>
 
@@ -140,8 +142,6 @@ Table 4: Monotherapy doses in the treatment of partial-onset seizures to be take
 | Weight | Volume administered | Volume administered | Volume administered | Volume administered | Volume administered |
 | 40 kg  | 4 ml (40 mg)        | 8 ml (80 mg)        | 12 ml (120 mg)      | 16 ml (160 mg)      | 20 ml (200 mg)      |
 | 45 kg  | 4.5 ml (45 mg)      | 9 ml (90 mg)        | 13.5 ml (135 mg)    | 18 ml (180 mg)      | 22.5 ml (225 mg)    |
-
-(1) Dose in adolescents 50 kg or more is the same as in adults.
 
 Adjunctive therapy (in the treatment of primary generalised tonic-clonic seizures from 4 years of age or in the treatment of partial-onset seizures from 2 years of age)
 
@@ -356,9 +356,7 @@ Accordingly, patients should be advised not to drive or to operate other potenti
 
 Based on the analysis of pooled placebo-controlled clinical studies in adjunctive therapy in 1 308 patients with partial-onset seizures, a total of 61.9% of patients randomised to lacosamide and 35.2% of patients randomised to placebo reported at least 1 adverse reaction. The most frequently reported adverse reactions ( ≥ 10%) with lacosamide treatment were dizziness, headache, nausea and diplopia. They were usually mild to moderate in intensity. Some were dose-related and could be alleviated by reducing the dose. Incidence and severity of central nervous system (CNS) and gastrointestinal (GI) adverse reactions usually decreased over time.
 
-In all of these controlled studies, the discontinuation rate due to adverse reactions was 12.2% for patients randomised to lacosamide and 1.6% for patients randomised to placebo. The most common adverse reaction resulting in discontinuation of lacosamide therapy was dizziness.
-
-Incidence of CNS adverse reactions such as dizziness may be higher after a loading dose.
+In all of these controlled studies, the discontinuation rate due to adverse reactions was 12.2% for patients randomised to lacosamide and 1.6% for patients randomised to placebo. The most common adverse reaction resulting in discontinuation of lacosamide therapy was dizziness. Incidence of CNS adverse reactions such as dizziness may be higher after a loading dose.
 
 Based on the analysis of data from a non-inferiority monotherapy clinical study comparing lacosamide to carbamazepine controlled release (CR), the most frequently reported adverse reactions ( ≥ 10%) for lacosamide were headache and dizziness. The discontinuation rate due to adverse reactions was 10.6%
 
@@ -415,7 +413,7 @@ Atrial fibrillation or flutter were not reported in short term clinical studies;
 
 ## Laboratory abnormalities
 
-Abnormalities in liver function tests have been observed in placebo-controlled clinical studies with lacosamide  in adult patients with partial-onset seizures who were taking 1 to 3 concomitant antiepileptic medicinal        products. Elevations of Alanine Transaminase ALT to ≥ 3x Upper Limit Normal ULN occurred in 0.7% (7/935) of lacosamide 10 mg/ml solution for infusion patients and 0% (0/356) of placebo patients.
+Abnormalities in liver function tests have been observed in placebo-controlled clinical studies with lacosamide  in adult patients with partial-onset seizures who were taking 1 to 3 concomitant antiepileptic medicinal          products. Elevations of Alanine Transaminase ALT to ≥ 3x Upper Limit Normal ULN occurred in 0.7% (7/935) of lacosamide 10 mg/ml solution for infusion patients and 0% (0/356) of placebo patients.
 
 ## Multiorgan hypersensitivity reactions
 
@@ -692,13 +690,7 @@ Detailed  information  on  this  medicine  is  available  on  the  European  Med
 
 Name and address of the manufacturer responsible for batch release
 
-Pharma Pack Hungary Kft.
-
-Vasút u. 13, Budaörs H-2040 Hungary
-
 Pharma Pack Hungary Kft. Building B, Raktarvarosi Ut 9, Torokbalint, 2045 Hungary
-
-The printed package leaflet of the medicinal product must state the name and address of the manufacturer responsible for the release of the concerned batch.
 
 ## B. CONDITIONS OR RESTRICTIONS REGARDING SUPPLY AND USE
 
@@ -785,31 +777,33 @@ This medicine does not require any special storage condition.
 
 Any unused solution should be discarded.
 
-## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
-
 Extrovis EU Kft. Raktarvarosi Ut 9, Torokbalint, 2045 Hungary
-
-## 12. MARKETING AUTHORISATION NUMBER(S)
 
 EU/1/23/1732/001 EU/1/23/1732/002
 
-## 13. BATCH NUMBER
-
 Lot
-
-14. GENERAL CLASSIFICATION FOR SUPPLY
-15. INSTRUCTIONS ON USE
-16. INFORMATION IN BRAILLE
 
 Justification for not including Braille accepted
 
-## 17. UNIQUE IDENTIFIER - 2D BARCODE
-
 2D barcode carrying the unique identifier included.
 
-## 18. UNIQUE IDENTIFIER - HUMAN READABLE DATA
-
 PC SN
+
+## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
+
+## 12. MARKETING AUTHORISATION NUMBER(S)
+
+## 13. BATCH NUMBER
+
+14. GENERAL CLASSIFICATION FOR SUPPLY
+
+15. INSTRUCTIONS ON USE
+
+16. INFORMATION IN BRAILLE
+
+## 17. UNIQUE IDENTIFIER - 2D BARCODE
+
+## 18. UNIQUE IDENTIFIER - HUMAN READABLE DATA
 
 NN
 
@@ -981,7 +975,7 @@ Also tell your doctor or pharmacist if you are taking any of the following medic
 
 If any of the above apply to you (or you are not sure), talk to your doctor or pharmacist before using Lacosamide Adroiq.
 
-Lacosamide Adroiq with alcohol
+## Lacosamide Adroiq with alcohol
 
 As a safety precaution do not use Lacosamide Adroiq with alcohol.
 
@@ -1011,7 +1005,7 @@ This medicine contains 59.8 mg sodium (main component of cooking/table salt) in 
 
 ## 3. How to use Lacosamide Adroiq
 
-Always use this medicine exactly as your doctor or pharmacist has told you. Check with your doctor      or pharmacist if you are not sure.
+Always use this medicine exactly as your doctor or pharmacist has told you. Check with your doctor        or pharmacist if you are not sure.
 
 ## Using Lacosamide Adroiq
 
@@ -1179,7 +1173,7 @@ Common : may affect up to 1 in 10 people
 
 - Injection site pain or discomfort or irritation.
 
-## Uncommon : may affect up to 1 in 100 people
+Uncommon : may affect up to 1 in 100 people
 
 - Injection site redness.
 
@@ -1217,7 +1211,10 @@ Do not throw away any medicines via wastewater or household waste. Ask your phar
 
 ## What Lacosamide Adroiq looks like and contents of the pack
 
-- Lacosamide Adroiq solution for infusion is a clear, colourless solution. Lacosamide Adroiq solution for infusion is available in packages of 1 or 5 vials. Each vial contains 20 ml.
+- •
+- Lacosamide Adroiq solution for infusion is a clear, colourless solution.
+
+Lacosamide Adroiq solution for infusion is available in packages of 1 or 5 vials. Each vial contains 20 ml.
 
 Not all pack sizes may be marketed.
 
@@ -1227,17 +1224,23 @@ Extrovis EU Kft. Raktarvarosi Ut 9, Torokbalint, 2045 Hungary
 
 ## Manufacturer
 
-Pharma Pack Hungary Kft Vasút u. 13, Budaörs H-2040 Hungary
-
 Pharma Pack Hungary Kft. Building B, Raktarvarosi Ut 9, Torokbalint, 2045 Hungary
-
-<div style=\"page-break-after: always\"></div>
 
 For any information about this medicine, please contact the local representative of the Marketing Authorisation Holder:
 
-België/Belgique/Belgien Extrovis EU Kft. Tél/Tel: +41 41 740 1120
+België/Belgique/Belgien
 
-pv@extrovis.com
+Extrovis EU Kft.
+
+Lietuva
+
+Lietuva
+
+Extrovis EU Kft.
+
+<div style=\"page-break-after: always\"></div>
+
+Tél/Tel: +41 41 740 1120 pv@extrovis.com
 
 България Extrovis EU Kft. Te л .: +41 41 740 1120
 
@@ -1279,9 +1282,13 @@ Ireland Extrovis EU Kft. Tel: +41 41 740 1120
 
 pv@extrovis.com
 
-Lietuva Extrovis EU Kft. Tel: +41 41 740 1120
+Ísland Extrovis EU Kft. Sími: +41 41 740 1120
 
 pv@extrovis.com
+
+37
+
+Tel: +41 41 740 1120 pv@extrovis.com
 
 Luxembourg/Luxemburg Extrovis EU Kft. Tél/Tel: +41 41 740 1120
 
@@ -1323,13 +1330,17 @@ Slovenija Extrovis EU Kft. Tel: +41 41 740 1120
 
 pv@extrovis.com
 
-<div style=\"page-break-after: always\"></div>
+Slovenská republika Extrovis EU Kft. Tel: +41 41 740 1120
 
-Ísland Extrovis EU Kft. Sími: +41 41 740 1120 pv@extrovis.com
+pv@extrovis.com
+
+<div style=\"page-break-after: always\"></div>
 
 Italia Zentiva Italia S.r.l. Tel: +39 800081631 PV-Italy@zentiva.com
 
-Κύπρος Extrovis EU Kft. Τηλ: +41 41 740 1120 pv@extrovis.com
+## Κύπρος
+
+Extrovis EU Kft. Τηλ: +41 41 740 1120 pv@extrovis.com
 
 Latvija Extrovis EU Kft. Tel: +41 41 740 1120 pv@extrovis.com
 
@@ -1349,10 +1360,8 @@ From a microbiological point of view, the product should be used immediately. If
 
 Chemical and physical in-use stability has been demonstrated for 24 hours at temperatures up to 25°C and at 2-8°C for product mixed with these diluents and stored in Poly Vinyl Chloride (PVC) bags.
 
-## Slovenská republika
+Suomi/Finland Mashal Healthcare A/S Puh/Tel: +45 71 86 37 68
 
-Extrovis EU Kft. Tel: +41 41 740 1120 pv@extrovis.com
-
-Suomi/Finland Mashal Healthcare A/S Puh/Tel: +45 71 86 37 68 faiza.siddiqui@mashal-healthcare.com
+faiza.siddiqui@mashal-healthcare.com
 
 Sverige Mashal Healthcare A/S Tel: +45 71 86 37 68 faiza.siddiqui@mashal-healthcare.com

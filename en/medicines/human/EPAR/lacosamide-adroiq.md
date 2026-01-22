@@ -1,18 +1,18 @@
 ---
-document_datetime: 2025-12-29 13:59:52
+document_datetime: 2026-01-21 16:38:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/lacosamide-adroiq.html
 document_name: lacosamide-adroiq.html
 version: success
-processing_time: 0.1238298
-conversion_datetime: 2025-12-29 23:07:45.371042
+processing_time: 0.13903
+conversion_datetime: 2026-01-22 21:38:50.244391
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.66.0
-  docling-core: 2.57.0
+  docling-serve: 1.10.0
+  docling-jobkit: 1.8.1
+  docling: 2.69.0
+  docling-core: 2.60.0
   docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-parse: 4.7.3
   python: cpython-313 (3.13.11)
   plaform: macOS-26.2-arm64-arm-64bit-Mach-O
 ---
@@ -25,8 +25,6 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 lacosamide Medicine Human Authorised
-
-On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -106,7 +104,7 @@ English (EN) (143.42 KB - PDF)
 
 [View](/en/documents/overview/lacosamide-adroiq-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-8)
+[Other languages (22)](#file-language-dropdown-78)
 
 български (BG) (166.42 KB - PDF)
 
@@ -296,17 +294,17 @@ English (EN) (196.85 KB - PDF)
 
 Lacosamide Adroiq : EPAR - Product Information
 
-English (EN) (586.34 KB - PDF)
+English (EN) (787.3 KB - PDF)
 
 **First published:** 05/06/2023
 
-**Last updated:** 25/09/2025
+**Last updated:** 21/01/2026
 
 [View](/en/documents/product-information/lacosamide-adroiq-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-395)
+[Other languages (24)](#file-language-dropdown-445)
 
-български (BG) (423.66 KB - PDF)
+български (BG) (827.05 KB - PDF)
 
 **First published:**
 
@@ -314,11 +312,11 @@ English (EN) (586.34 KB - PDF)
 
 **Last updated:**
 
-25/09/2025
+21/01/2026
 
 [View](/bg/documents/product-information/lacosamide-adroiq-epar-product-information_bg.pdf)
 
-español (ES) (541.01 KB - PDF)
+español (ES) (711.63 KB - PDF)
 
 **First published:**
 
@@ -326,11 +324,11 @@ español (ES) (541.01 KB - PDF)
 
 **Last updated:**
 
-25/09/2025
+21/01/2026
 
 [View](/es/documents/product-information/lacosamide-adroiq-epar-product-information_es.pdf)
 
-čeština (CS) (413.52 KB - PDF)
+čeština (CS) (756.37 KB - PDF)
 
 **First published:**
 
@@ -338,11 +336,11 @@ español (ES) (541.01 KB - PDF)
 
 **Last updated:**
 
-25/09/2025
+21/01/2026
 
 [View](/cs/documents/product-information/lacosamide-adroiq-epar-product-information_cs.pdf)
 
-dansk (DA) (516.38 KB - PDF)
+dansk (DA) (780.35 KB - PDF)
 
 **First published:**
 
@@ -350,11 +348,11 @@ dansk (DA) (516.38 KB - PDF)
 
 **Last updated:**
 
-25/09/2025
+21/01/2026
 
 [View](/da/documents/product-information/lacosamide-adroiq-epar-product-information_da.pdf)
 
-Deutsch (DE) (560.93 KB - PDF)
+Deutsch (DE) (738.1 KB - PDF)
 
 **First published:**
 
@@ -362,11 +360,11 @@ Deutsch (DE) (560.93 KB - PDF)
 
 **Last updated:**
 
-25/09/2025
+21/01/2026
 
 [View](/de/documents/product-information/lacosamide-adroiq-epar-product-information_de.pdf)
 
-eesti keel (ET) (509.66 KB - PDF)
+eesti keel (ET) (690.09 KB - PDF)
 
 **First published:**
 
@@ -374,11 +372,11 @@ eesti keel (ET) (509.66 KB - PDF)
 
 **Last updated:**
 
-25/09/2025
+21/01/2026
 
 [View](/et/documents/product-information/lacosamide-adroiq-epar-product-information_et.pdf)
 
-ελληνικά (EL) (637.55 KB - PDF)
+ελληνικά (EL) (820.03 KB - PDF)
 
 **First published:**
 
@@ -386,11 +384,11 @@ eesti keel (ET) (509.66 KB - PDF)
 
 **Last updated:**
 
-25/09/2025
+21/01/2026
 
 [View](/el/documents/product-information/lacosamide-adroiq-epar-product-information_el.pdf)
 
-français (FR) (567.29 KB - PDF)
+français (FR) (740.31 KB - PDF)
 
 **First published:**
 
@@ -398,11 +396,11 @@ français (FR) (567.29 KB - PDF)
 
 **Last updated:**
 
-25/09/2025
+21/01/2026
 
 [View](/fr/documents/product-information/lacosamide-adroiq-epar-product-information_fr.pdf)
 
-hrvatski (HR) (614.29 KB - PDF)
+hrvatski (HR) (800.26 KB - PDF)
 
 **First published:**
 
@@ -410,11 +408,11 @@ hrvatski (HR) (614.29 KB - PDF)
 
 **Last updated:**
 
-25/09/2025
+21/01/2026
 
 [View](/hr/documents/product-information/lacosamide-adroiq-epar-product-information_hr.pdf)
 
-íslenska (IS) (548.61 KB - PDF)
+íslenska (IS) (728.75 KB - PDF)
 
 **First published:**
 
@@ -422,11 +420,11 @@ hrvatski (HR) (614.29 KB - PDF)
 
 **Last updated:**
 
-25/09/2025
+21/01/2026
 
 [View](/is/documents/product-information/lacosamide-adroiq-epar-product-information_is.pdf)
 
-italiano (IT) (559.07 KB - PDF)
+italiano (IT) (727.86 KB - PDF)
 
 **First published:**
 
@@ -434,11 +432,11 @@ italiano (IT) (559.07 KB - PDF)
 
 **Last updated:**
 
-25/09/2025
+21/01/2026
 
 [View](/it/documents/product-information/lacosamide-adroiq-epar-product-information_it.pdf)
 
-latviešu valoda (LV) (621.34 KB - PDF)
+latviešu valoda (LV) (796.79 KB - PDF)
 
 **First published:**
 
@@ -446,11 +444,11 @@ latviešu valoda (LV) (621.34 KB - PDF)
 
 **Last updated:**
 
-25/09/2025
+21/01/2026
 
 [View](/lv/documents/product-information/lacosamide-adroiq-epar-product-information_lv.pdf)
 
-lietuvių kalba (LT) (612.54 KB - PDF)
+lietuvių kalba (LT) (786.51 KB - PDF)
 
 **First published:**
 
@@ -458,11 +456,11 @@ lietuvių kalba (LT) (612.54 KB - PDF)
 
 **Last updated:**
 
-25/09/2025
+21/01/2026
 
 [View](/lt/documents/product-information/lacosamide-adroiq-epar-product-information_lt.pdf)
 
-magyar (HU) (634.24 KB - PDF)
+magyar (HU) (814.58 KB - PDF)
 
 **First published:**
 
@@ -470,11 +468,11 @@ magyar (HU) (634.24 KB - PDF)
 
 **Last updated:**
 
-25/09/2025
+21/01/2026
 
 [View](/hu/documents/product-information/lacosamide-adroiq-epar-product-information_hu.pdf)
 
-Malti (MT) (693.9 KB - PDF)
+Malti (MT) (863.78 KB - PDF)
 
 **First published:**
 
@@ -482,11 +480,11 @@ Malti (MT) (693.9 KB - PDF)
 
 **Last updated:**
 
-25/09/2025
+21/01/2026
 
 [View](/mt/documents/product-information/lacosamide-adroiq-epar-product-information_mt.pdf)
 
-Nederlands (NL) (575.36 KB - PDF)
+Nederlands (NL) (746.04 KB - PDF)
 
 **First published:**
 
@@ -494,11 +492,11 @@ Nederlands (NL) (575.36 KB - PDF)
 
 **Last updated:**
 
-25/09/2025
+21/01/2026
 
 [View](/nl/documents/product-information/lacosamide-adroiq-epar-product-information_nl.pdf)
 
-norsk (NO) (529.21 KB - PDF)
+norsk (NO) (719.13 KB - PDF)
 
 **First published:**
 
@@ -506,11 +504,11 @@ norsk (NO) (529.21 KB - PDF)
 
 **Last updated:**
 
-25/09/2025
+21/01/2026
 
 [View](/no/documents/product-information/lacosamide-adroiq-epar-product-information_no.pdf)
 
-polski (PL) (726.11 KB - PDF)
+polski (PL) (918.18 KB - PDF)
 
 **First published:**
 
@@ -518,11 +516,11 @@ polski (PL) (726.11 KB - PDF)
 
 **Last updated:**
 
-25/09/2025
+21/01/2026
 
 [View](/pl/documents/product-information/lacosamide-adroiq-epar-product-information_pl.pdf)
 
-português (PT) (643.81 KB - PDF)
+português (PT) (810.98 KB - PDF)
 
 **First published:**
 
@@ -530,11 +528,11 @@ português (PT) (643.81 KB - PDF)
 
 **Last updated:**
 
-25/09/2025
+21/01/2026
 
 [View](/pt/documents/product-information/lacosamide-adroiq-epar-product-information_pt.pdf)
 
-română (RO) (694.49 KB - PDF)
+română (RO) (887.39 KB - PDF)
 
 **First published:**
 
@@ -542,11 +540,11 @@ română (RO) (694.49 KB - PDF)
 
 **Last updated:**
 
-25/09/2025
+21/01/2026
 
 [View](/ro/documents/product-information/lacosamide-adroiq-epar-product-information_ro.pdf)
 
-slovenčina (SK) (744.96 KB - PDF)
+slovenčina (SK) (944.31 KB - PDF)
 
 **First published:**
 
@@ -554,11 +552,11 @@ slovenčina (SK) (744.96 KB - PDF)
 
 **Last updated:**
 
-25/09/2025
+21/01/2026
 
 [View](/sk/documents/product-information/lacosamide-adroiq-epar-product-information_sk.pdf)
 
-slovenščina (SL) (611.14 KB - PDF)
+slovenščina (SL) (798.74 KB - PDF)
 
 **First published:**
 
@@ -566,11 +564,11 @@ slovenščina (SL) (611.14 KB - PDF)
 
 **Last updated:**
 
-25/09/2025
+21/01/2026
 
 [View](/sl/documents/product-information/lacosamide-adroiq-epar-product-information_sl.pdf)
 
-Suomi (FI) (520.74 KB - PDF)
+Suomi (FI) (683.98 KB - PDF)
 
 **First published:**
 
@@ -578,11 +576,11 @@ Suomi (FI) (520.74 KB - PDF)
 
 **Last updated:**
 
-25/09/2025
+21/01/2026
 
 [View](/fi/documents/product-information/lacosamide-adroiq-epar-product-information_fi.pdf)
 
-svenska (SV) (530.98 KB - PDF)
+svenska (SV) (702.53 KB - PDF)
 
 **First published:**
 
@@ -590,11 +588,11 @@ svenska (SV) (530.98 KB - PDF)
 
 **Last updated:**
 
-25/09/2025
+21/01/2026
 
 [View](/sv/documents/product-information/lacosamide-adroiq-epar-product-information_sv.pdf)
 
-**Latest procedure affecting product information:** VR/0000297357 23/09/2025
+**Latest procedure affecting product information:** VR/0000322698 21/01/2026
 
 icon globe
 
@@ -620,7 +618,7 @@ English (EN) (36.03 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/lacosamide-adroiq-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-583)
+[Other languages (24)](#file-language-dropdown-112)
 
 български (BG) (44.6 KB - PDF)
 
@@ -941,7 +939,7 @@ Extrovis EU Ltd
 
 Raktarvarosi Ut 9 Torokbalint 2045 Hungary
 
-Opinion adopted 30/03/2023 Marketing authorisation issued 31/05/2023 Revision 6
+Opinion adopted 30/03/2023 Marketing authorisation issued 31/05/2023 Revision 7
 
 ## Assessment history
 
@@ -953,9 +951,11 @@ Collapse section
 
 Lacosamide Adroiq : EPAR - Procedural steps taken and scientific information after authorisation
 
-English (EN) (248.14 KB - PDF)
+English (EN) (129.49 KB - PDF)
 
 **First published:** 25/09/2025
+
+**Last updated:** 21/01/2026
 
 [View](/en/documents/procedural-steps-after/lacosamide-adroiq-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf)
 
@@ -1011,7 +1011,7 @@ English (EN) (179.56 KB - DOCX)
 
 [View](/en/documents/product-information-tracked-changes/lacosamide-adroiq-epar-product-information-tracked-changes_en.docx)
 
-[Other languages (24)](#file-language-dropdown-586)
+[Other languages (24)](#file-language-dropdown-3)
 
 български (BG) (166.07 KB - DOCX)
 
@@ -1205,7 +1205,7 @@ svenska (SV) (134.77 KB - DOCX)
 
 [View](/sv/documents/product-information-tracked-changes/lacosamide-adroiq-epar-product-information-tracked-changes_sv.docx)
 
-**This page was last updated on** 25/09/2025
+**This page was last updated on** 21/01/2026
 
 ## Share this page
 

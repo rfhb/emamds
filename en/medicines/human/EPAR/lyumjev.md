@@ -1,18 +1,18 @@
 ---
-document_datetime: 2025-12-29 11:45:04
+document_datetime: 2026-01-21 16:34:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/lyumjev.html
 document_name: lyumjev.html
 version: success
-processing_time: 0.1050922
-conversion_datetime: 2025-12-30 12:59:15.369463
+processing_time: 0.108124
+conversion_datetime: 2026-01-22 21:30:58.641294
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.66.0
-  docling-core: 2.57.0
+  docling-serve: 1.10.0
+  docling-jobkit: 1.8.1
+  docling: 2.69.0
+  docling-core: 2.60.0
   docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-parse: 4.7.3
   python: cpython-313 (3.13.11)
   plaform: macOS-26.2-arm64-arm-64bit-Mach-O
 ---
@@ -25,8 +25,6 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 insulin lispro Medicine Human Authorised
-
-On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -119,7 +117,7 @@ English (EN) (133.53 KB - PDF)
 
 [View](/en/documents/overview/lyumjev-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-151)
+[Other languages (22)](#file-language-dropdown-795)
 
 български (BG) (147.27 KB - PDF)
 
@@ -397,17 +395,17 @@ English (EN) (36.74 KB - PDF)
 
 Lyumjev : EPAR - Product information
 
-English (EN) (2.41 MB - PDF)
+English (EN) (2.42 MB - PDF)
 
 **First published:** 16/04/2020
 
-**Last updated:** 14/02/2025
+**Last updated:** 21/01/2026
 
 [View](/en/documents/product-information/lyumjev-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-618)
+[Other languages (24)](#file-language-dropdown-465)
 
-български (BG) (2.93 MB - PDF)
+български (BG) (2.94 MB - PDF)
 
 **First published:**
 
@@ -415,11 +413,11 @@ English (EN) (2.41 MB - PDF)
 
 **Last updated:**
 
-14/02/2025
+21/01/2026
 
 [View](/bg/documents/product-information/lyumjev-epar-product-information_bg.pdf)
 
-español (ES) (3.34 MB - PDF)
+español (ES) (3.33 MB - PDF)
 
 **First published:**
 
@@ -427,11 +425,11 @@ español (ES) (3.34 MB - PDF)
 
 **Last updated:**
 
-14/02/2025
+21/01/2026
 
 [View](/es/documents/product-information/lyumjev-epar-product-information_es.pdf)
 
-čeština (CS) (2.55 MB - PDF)
+čeština (CS) (2.57 MB - PDF)
 
 **First published:**
 
@@ -439,11 +437,11 @@ español (ES) (3.34 MB - PDF)
 
 **Last updated:**
 
-14/02/2025
+21/01/2026
 
 [View](/cs/documents/product-information/lyumjev-epar-product-information_cs.pdf)
 
-dansk (DA) (2.63 MB - PDF)
+dansk (DA) (2.69 MB - PDF)
 
 **First published:**
 
@@ -451,11 +449,11 @@ dansk (DA) (2.63 MB - PDF)
 
 **Last updated:**
 
-14/02/2025
+21/01/2026
 
 [View](/da/documents/product-information/lyumjev-epar-product-information_da.pdf)
 
-Deutsch (DE) (2.98 MB - PDF)
+Deutsch (DE) (3 MB - PDF)
 
 **First published:**
 
@@ -463,11 +461,11 @@ Deutsch (DE) (2.98 MB - PDF)
 
 **Last updated:**
 
-14/02/2025
+21/01/2026
 
 [View](/de/documents/product-information/lyumjev-epar-product-information_de.pdf)
 
-eesti keel (ET) (2.53 MB - PDF)
+eesti keel (ET) (2.56 MB - PDF)
 
 **First published:**
 
@@ -475,11 +473,11 @@ eesti keel (ET) (2.53 MB - PDF)
 
 **Last updated:**
 
-14/02/2025
+21/01/2026
 
 [View](/et/documents/product-information/lyumjev-epar-product-information_et.pdf)
 
-ελληνικά (EL) (3.3 MB - PDF)
+ελληνικά (EL) (3.25 MB - PDF)
 
 **First published:**
 
@@ -487,11 +485,11 @@ eesti keel (ET) (2.53 MB - PDF)
 
 **Last updated:**
 
-14/02/2025
+21/01/2026
 
 [View](/el/documents/product-information/lyumjev-epar-product-information_el.pdf)
 
-français (FR) (3.02 MB - PDF)
+français (FR) (2.21 MB - PDF)
 
 **First published:**
 
@@ -499,11 +497,11 @@ français (FR) (3.02 MB - PDF)
 
 **Last updated:**
 
-14/02/2025
+21/01/2026
 
 [View](/fr/documents/product-information/lyumjev-epar-product-information_fr.pdf)
 
-hrvatski (HR) (2.89 MB - PDF)
+hrvatski (HR) (2.76 MB - PDF)
 
 **First published:**
 
@@ -511,11 +509,11 @@ hrvatski (HR) (2.89 MB - PDF)
 
 **Last updated:**
 
-14/02/2025
+21/01/2026
 
 [View](/hr/documents/product-information/lyumjev-epar-product-information_hr.pdf)
 
-íslenska (IS) (2.7 MB - PDF)
+íslenska (IS) (2.76 MB - PDF)
 
 **First published:**
 
@@ -523,11 +521,11 @@ hrvatski (HR) (2.89 MB - PDF)
 
 **Last updated:**
 
-14/02/2025
+21/01/2026
 
 [View](/is/documents/product-information/lyumjev-epar-product-information_is.pdf)
 
-italiano (IT) (2.84 MB - PDF)
+italiano (IT) (2.92 MB - PDF)
 
 **First published:**
 
@@ -535,11 +533,11 @@ italiano (IT) (2.84 MB - PDF)
 
 **Last updated:**
 
-14/02/2025
+21/01/2026
 
 [View](/it/documents/product-information/lyumjev-epar-product-information_it.pdf)
 
-latviešu valoda (LV) (2.92 MB - PDF)
+latviešu valoda (LV) (2.94 MB - PDF)
 
 **First published:**
 
@@ -547,11 +545,11 @@ latviešu valoda (LV) (2.92 MB - PDF)
 
 **Last updated:**
 
-14/02/2025
+21/01/2026
 
 [View](/lv/documents/product-information/lyumjev-epar-product-information_lv.pdf)
 
-lietuvių kalba (LT) (3.16 MB - PDF)
+lietuvių kalba (LT) (3.18 MB - PDF)
 
 **First published:**
 
@@ -559,11 +557,11 @@ lietuvių kalba (LT) (3.16 MB - PDF)
 
 **Last updated:**
 
-14/02/2025
+21/01/2026
 
 [View](/lt/documents/product-information/lyumjev-epar-product-information_lt.pdf)
 
-magyar (HU) (2.83 MB - PDF)
+magyar (HU) (2.84 MB - PDF)
 
 **First published:**
 
@@ -571,11 +569,11 @@ magyar (HU) (2.83 MB - PDF)
 
 **Last updated:**
 
-14/02/2025
+21/01/2026
 
 [View](/hu/documents/product-information/lyumjev-epar-product-information_hu.pdf)
 
-Malti (MT) (3.72 MB - PDF)
+Malti (MT) (2.86 MB - PDF)
 
 **First published:**
 
@@ -583,11 +581,11 @@ Malti (MT) (3.72 MB - PDF)
 
 **Last updated:**
 
-14/02/2025
+21/01/2026
 
 [View](/mt/documents/product-information/lyumjev-epar-product-information_mt.pdf)
 
-Nederlands (NL) (2.47 MB - PDF)
+Nederlands (NL) (2.51 MB - PDF)
 
 **First published:**
 
@@ -595,11 +593,11 @@ Nederlands (NL) (2.47 MB - PDF)
 
 **Last updated:**
 
-14/02/2025
+21/01/2026
 
 [View](/nl/documents/product-information/lyumjev-epar-product-information_nl.pdf)
 
-norsk (NO) (2.62 MB - PDF)
+norsk (NO) (2.45 MB - PDF)
 
 **First published:**
 
@@ -607,11 +605,11 @@ norsk (NO) (2.62 MB - PDF)
 
 **Last updated:**
 
-14/02/2025
+21/01/2026
 
 [View](/no/documents/product-information/lyumjev-epar-product-information_no.pdf)
 
-polski (PL) (2.73 MB - PDF)
+polski (PL) (2.42 MB - PDF)
 
 **First published:**
 
@@ -619,11 +617,11 @@ polski (PL) (2.73 MB - PDF)
 
 **Last updated:**
 
-14/02/2025
+21/01/2026
 
 [View](/pl/documents/product-information/lyumjev-epar-product-information_pl.pdf)
 
-português (PT) (3.03 MB - PDF)
+português (PT) (2.9 MB - PDF)
 
 **First published:**
 
@@ -631,11 +629,11 @@ português (PT) (3.03 MB - PDF)
 
 **Last updated:**
 
-14/02/2025
+21/01/2026
 
 [View](/pt/documents/product-information/lyumjev-epar-product-information_pt.pdf)
 
-română (RO) (3.19 MB - PDF)
+română (RO) (2.6 MB - PDF)
 
 **First published:**
 
@@ -643,11 +641,11 @@ română (RO) (3.19 MB - PDF)
 
 **Last updated:**
 
-14/02/2025
+21/01/2026
 
 [View](/ro/documents/product-information/lyumjev-epar-product-information_ro.pdf)
 
-slovenčina (SK) (2.95 MB - PDF)
+slovenčina (SK) (2.97 MB - PDF)
 
 **First published:**
 
@@ -655,11 +653,11 @@ slovenčina (SK) (2.95 MB - PDF)
 
 **Last updated:**
 
-14/02/2025
+21/01/2026
 
 [View](/sk/documents/product-information/lyumjev-epar-product-information_sk.pdf)
 
-slovenščina (SL) (3.03 MB - PDF)
+slovenščina (SL) (2.92 MB - PDF)
 
 **First published:**
 
@@ -667,11 +665,11 @@ slovenščina (SL) (3.03 MB - PDF)
 
 **Last updated:**
 
-14/02/2025
+21/01/2026
 
 [View](/sl/documents/product-information/lyumjev-epar-product-information_sl.pdf)
 
-Suomi (FI) (2.86 MB - PDF)
+Suomi (FI) (2.95 MB - PDF)
 
 **First published:**
 
@@ -679,11 +677,11 @@ Suomi (FI) (2.86 MB - PDF)
 
 **Last updated:**
 
-14/02/2025
+21/01/2026
 
 [View](/fi/documents/product-information/lyumjev-epar-product-information_fi.pdf)
 
-svenska (SV) (2.41 MB - PDF)
+svenska (SV) (2.51 MB - PDF)
 
 **First published:**
 
@@ -691,11 +689,11 @@ svenska (SV) (2.41 MB - PDF)
 
 **Last updated:**
 
-14/02/2025
+21/01/2026
 
 [View](/sv/documents/product-information/lyumjev-epar-product-information_sv.pdf)
 
-**Latest procedure affecting product information:** R/0019 13/01/2025
+**Latest procedure affecting product information:** VR/0000315488 21/01/2026
 
 icon globe
 
@@ -721,7 +719,7 @@ English (EN) (60.01 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/lyumjev-previously-liumjev-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-844)
+[Other languages (24)](#file-language-dropdown-672)
 
 български (BG) (147.16 KB - PDF)
 
@@ -1037,9 +1035,9 @@ Marketing authorisation holder
 
 Eli Lilly Nederland B.V.
 
-Papendorpseweg 83 3528 BJ Utrecht The Netherlands
+Orteliuslaan 1000 3528 BD Utrecht Netherlands
 
-Opinion adopted 30/01/2020 Marketing authorisation issued 24/03/2020 Revision 7
+Opinion adopted 30/01/2020 Marketing authorisation issued 24/03/2020 Revision 8
 
 ## Assessment history
 
@@ -1051,13 +1049,21 @@ Collapse section
 
 Lyumjev : EPAR - Procedural steps taken and scientific information after authorisation
 
+English (EN) (228.87 KB - PDF)
+
+**First published:** 21/01/2026
+
+[View](/en/documents/procedural-steps-after/lyumjev-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf)
+
+Lyumjev : EPAR - Procedural steps taken and scientific information after authorisation (archive)
+
 English (EN) (170.7 KB - PDF)
 
 **First published:** 27/07/2020
 
-**Last updated:** 14/02/2025
+**Last updated:** 21/01/2026
 
-[View](/en/documents/procedural-steps-after/lyumjev-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf)
+[View](/en/documents/procedural-steps-after/lyumjev-epar-procedural-steps-taken-scientific-information-after-authorisation-archive_en.pdf)
 
 Lyumjev-H-C-005037-II-0014 : EPAR - Assessment report - Variation
 
@@ -1123,7 +1129,7 @@ English (EN) (120.3 KB - PDF)
 
 - [Medicines](https://www.ema.europa.eu/en/search?f%5B0%5D=ema_search_topics%3A61)
 
-**This page was last updated on** 14/02/2025
+**This page was last updated on** 21/01/2026
 
 ## Share this page
 

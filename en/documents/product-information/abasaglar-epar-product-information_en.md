@@ -1,18 +1,18 @@
 ---
-document_datetime: 2023-09-21 20:40:10
+document_datetime: 2026-01-21 14:07:59
 document_pages: 106
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/abasaglar-epar-product-information_en.pdf
 document_name: abasaglar-epar-product-information_en.pdf
 version: success
-processing_time: 22.4829179
-conversion_datetime: 2025-12-27 16:46:38.711981
+processing_time: 21.7602634
+conversion_datetime: 2026-01-22 21:21:53.840256
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.66.0
-  docling-core: 2.57.0
+  docling-serve: 1.10.0
+  docling-jobkit: 1.8.1
+  docling: 2.69.0
+  docling-core: 2.60.0
   docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-parse: 4.7.3
   python: cpython-313 (3.13.11)
   plaform: macOS-26.2-arm64-arm-64bit-Mach-O
 ---
@@ -259,30 +259,30 @@ Hypoglycaemia (very common), in general the most frequent adverse reaction of in
 
 The following related adverse reactions from clinical trials are listed below as MedDRA preferred term by system organ class and in order of decreasing incidence (very common: ≥1/10; common: ≥1/100 to &lt;1/10; uncommon: ≥1/1,000 to &lt;1/100; rare: ≥1/10,000 to &lt;1/1,000; very rare: &lt;1/10,000 and not known (cannot be estimated from the available data).
 
-<div style=\"page-break-after: always\"></div>
-
 Within each frequency grouping, adverse reactions are presented in order of decreasing seriousness.
 
-| MedDRA system organ classes                          | Very common                                          | Common                                               | Uncommon                                             | Rare                                                 | Very rare                                            | Not known                                       |
-|------------------------------------------------------|------------------------------------------------------|------------------------------------------------------|------------------------------------------------------|------------------------------------------------------|------------------------------------------------------|-------------------------------------------------|
-| Immune system disorders                              | Immune system disorders                              | Immune system disorders                              | Immune system disorders                              | Immune system disorders                              | Immune system disorders                              |                                                 |
-| Allergic reactions                                   |                                                      |                                                      |                                                      | X                                                    |                                                      |                                                 |
-| Metabolism and nutrition disorders                   | Metabolism and nutrition disorders                   | Metabolism and nutrition disorders                   | Metabolism and nutrition disorders                   | Metabolism and nutrition disorders                   | Metabolism and nutrition disorders                   |                                                 |
-| Hypoglycaemia                                        | X                                                    |                                                      |                                                      |                                                      |                                                      |                                                 |
-| Nervous system disorders                             | Nervous system disorders                             | Nervous system disorders                             | Nervous system disorders                             | Nervous system disorders                             | Nervous system disorders                             |                                                 |
-| Dysgeusia                                            |                                                      |                                                      |                                                      |                                                      | X                                                    |                                                 |
-| Eyes disorders                                       | Eyes disorders                                       | Eyes disorders                                       | Eyes disorders                                       | Eyes disorders                                       | Eyes disorders                                       |                                                 |
-| Visual impairment                                    |                                                      |                                                      |                                                      | X                                                    |                                                      |                                                 |
-| Retinopathy                                          |                                                      |                                                      |                                                      | X                                                    |                                                      |                                                 |
-| Skin and subcutaneous tissue disorders               | Skin and subcutaneous tissue disorders               | Skin and subcutaneous tissue disorders               | Skin and subcutaneous tissue disorders               | Skin and subcutaneous tissue disorders               | Skin and subcutaneous tissue disorders               | Skin and subcutaneous tissue disorders          |
-| Lipohypertrophy                                      |                                                      | X                                                    |                                                      |                                                      |                                                      |                                                 |
-| Lipoatrophy                                          |                                                      |                                                      | X                                                    |                                                      |                                                      |                                                 |
-| Cutaneous amyloidosis                                |                                                      |                                                      |                                                      |                                                      |                                                      | X                                               |
-| Musculoskeletal and connective tissue disorders      | Musculoskeletal and connective tissue disorders      | Musculoskeletal and connective tissue disorders      | Musculoskeletal and connective tissue disorders      | Musculoskeletal and connective tissue disorders      | Musculoskeletal and connective tissue disorders      | Musculoskeletal and connective tissue disorders |
-| Myalgia                                              |                                                      |                                                      |                                                      |                                                      | X                                                    |                                                 |
-| General disorders and administration site conditions | General disorders and administration site conditions | General disorders and administration site conditions | General disorders and administration site conditions | General disorders and administration site conditions | General disorders and administration site conditions |                                                 |
-| Injection site reactions                             |                                                      | X                                                    |                                                      |                                                      |                                                      |                                                 |
-| Oedema                                               |                                                      |                                                      |                                                      | X                                                    |                                                      |                                                 |
+<div style=\"page-break-after: always\"></div>
+
+| MedDRA system organ classes                          | Very common                                          | Common                                               | Uncommo n                                            | Rare                                                 | Very rare                                            | Not known                                            |
+|------------------------------------------------------|------------------------------------------------------|------------------------------------------------------|------------------------------------------------------|------------------------------------------------------|------------------------------------------------------|------------------------------------------------------|
+| Immune system disorders                              | Immune system disorders                              | Immune system disorders                              | Immune system disorders                              | Immune system disorders                              | Immune system disorders                              | Immune system disorders                              |
+| Allergic reactions                                   |                                                      |                                                      |                                                      | X                                                    |                                                      |                                                      |
+| Metabolism and nutrition disorders                   | Metabolism and nutrition disorders                   | Metabolism and nutrition disorders                   | Metabolism and nutrition disorders                   | Metabolism and nutrition disorders                   | Metabolism and nutrition disorders                   | Metabolism and nutrition disorders                   |
+| Hypoglycaemia                                        | X                                                    |                                                      |                                                      |                                                      |                                                      |                                                      |
+| Nervous system disorders                             | Nervous system disorders                             | Nervous system disorders                             | Nervous system disorders                             | Nervous system disorders                             | Nervous system disorders                             | Nervous system disorders                             |
+| Dysgeusia                                            |                                                      |                                                      |                                                      |                                                      | X                                                    |                                                      |
+| Eyes disorders                                       | Eyes disorders                                       | Eyes disorders                                       | Eyes disorders                                       | Eyes disorders                                       | Eyes disorders                                       | Eyes disorders                                       |
+| Visual impairment                                    |                                                      |                                                      |                                                      | X                                                    |                                                      |                                                      |
+| Retinopathy                                          |                                                      |                                                      |                                                      | X                                                    |                                                      |                                                      |
+| Skin and subcutaneous tissue disorders               | Skin and subcutaneous tissue disorders               | Skin and subcutaneous tissue disorders               | Skin and subcutaneous tissue disorders               | Skin and subcutaneous tissue disorders               | Skin and subcutaneous tissue disorders               | Skin and subcutaneous tissue disorders               |
+| Lipohypertrophy                                      |                                                      | X                                                    |                                                      |                                                      |                                                      |                                                      |
+| Lipoatrophy                                          |                                                      |                                                      | X                                                    |                                                      |                                                      |                                                      |
+| Cutaneous amyloidosis                                |                                                      |                                                      |                                                      |                                                      |                                                      | X                                                    |
+| Musculoskeletal and connective tissue disorders      | Musculoskeletal and connective tissue disorders      | Musculoskeletal and connective tissue disorders      | Musculoskeletal and connective tissue disorders      | Musculoskeletal and connective tissue disorders      | Musculoskeletal and connective tissue disorders      | Musculoskeletal and connective tissue disorders      |
+| Myalgia                                              |                                                      |                                                      |                                                      |                                                      | X                                                    |                                                      |
+| General disorders and administration site conditions | General disorders and administration site conditions | General disorders and administration site conditions | General disorders and administration site conditions | General disorders and administration site conditions | General disorders and administration site conditions | General disorders and administration site conditions |
+| Injection site reactions                             |                                                      | X                                                    |                                                      |                                                      |                                                      |                                                      |
+| Oedema                                               |                                                      |                                                      |                                                      | X                                                    |                                                      |                                                      |
 
 ## Description of selected adverse reactions
 
@@ -314,7 +314,7 @@ Rarely, insulin may cause sodium retention and oedema particularly if previously
 
 ## Paediatric population
 
-In general, the safety profile for children and adolescents (≤ 18 years of age) is similar to the safety profile for adults. The adverse reaction reports received from post marketing surveillance included relatively more frequent injection site reactions (injection site pain, injection site reaction) and skin reactions (rash, urticaria) in children and adolescents (≤ 18 years of age) than in adults. Clinical study safety data are not available for children under 2 years.
+In general, the safety profile for children and adolescents (≤ 18 years of age) is similar to the safety profile for adults. The adverse reaction reports received from post marketing surveillance included relatively more frequent injection site reactions (injection site pain, injection site reaction) and skin reactions ( rash, urticaria) in children and adolescents (≤ 18 years of age) than in adults. Clinical study safety data are not available for children under 2 years.
 
 ## Reporting of suspected adverse reactions
 
@@ -338,7 +338,7 @@ More severe episodes with coma, seizure, or neurologic impairment may be treated
 
 Pharmacotherapeutic group: Drugs used in diabetes, insulins and analogues for injection, long-acting. ATC Code: A10AE04.
 
-ABASAGLAR is a biosimilar medicinal product. Detailed information is available on the website of the European Medicines Agency http://www.ema.europa.eu.
+ABASAGLAR is a biosimilar medicinal product. Detailed information is available on the website of the European Medicines Agency https://www.ema.europa.eu.
 
 <div style=\"page-break-after: always\"></div>
 
@@ -354,7 +354,7 @@ In vitro studies indicate that the affinity of insulin glargine and its metaboli
 
 IGF-1 receptor binding: The affinity of insulin glargine for the human IGF-1 receptor is approximately 5 to 8-fold greater than that of human insulin (but approximately 70 to 80-fold lower than the one of IGF-1), whereas M1 and M2 bind the IGF-1 receptor with slightly lower affinity compared to human insulin.
 
-The total therapeutic insulin concentration (insulin glargine and its metabolites) found in type 1 diabetic patients was markedly lower than what would be required for a half maximal occupation of the IGF-1 receptor and the subsequent activation of the mitogenic-proliferative pathway initiated by the IGF-1 receptor. Physiological concentrations of endogenous IGF-1 may activate the mitogenicproliferative pathway; however, the therapeutic concentrations found in insulin therapy, including in ABASAGLAR therapy, are considerably lower than the pharmacological concentrations required to activate the IGF-1 pathway.
+The total therapeutic insulin concentration (insulin glargine and its metabolites) found in type 1 diabetic patients was markedly lower than what would be required for a half maximal occupation of the IGF-1 receptor and the subsequent activation of the mitogenic-proliferative pathway initiated by the IGF-1 receptor. Physiological concentrations of endogenous IGF-1 may activate the mitogenicproliferative pathway; however, the t herapeutic concentrations found in insulin therapy, including in ABASAGLAR therapy, are considerably lower than the pharmacological concentrations required to activate the IGF-1 pathway.
 
 ## Pharmacodynamic effects
 
@@ -402,7 +402,7 @@ At the last on-treatment visit, there was a mean increase in body weight from ba
 
 In a randomised, controlled clinical study, paediatric patients (age range 6 to 15 years) with type 1 diabetes (n=349) were treated for 28 weeks with a basal-bolus insulin regimen where regular human insulin was used before each meal. Insulin glargine was administered once daily at bedtime and NPH human insulin was administered once or twice daily. Similar effects on glycohaemoglobin and the incidence of symptomatic hypoglycaemia were observed in both treatment groups, however fasting plasma glucose decreased more from baseline in the insulin glargine group than in the NPH group. There was less severe hypoglycaemia in the insulin glargine group as well. One hundred forty three of the patients treated with insulin glargine in this study continued treatment with insulin glargine in an uncontrolled extension study with mean duration of follow-up of 2 years. No new safety signals were seen during this extended treatment with insulin glargine.
 
-A crossover study comparing insulin glargine plus lispro insulin to NPH plus regular human insulin (each treatment administered for 16 weeks in random order) in 26 adolescent type 1 diabetic patients aged 12 to 18 years was also performed. As in the paediatric study described above, fasting plasma glucose reduction from baseline was greater in the insulin glargine group than in the NPH group. HbA1c changes from baseline were similar between tr eatment groups; however blood glucose values recorded overnight were significantly higher in the insulin glargine/ lispro group than the NPH/regular group, with a mean nadir of 5.4 mM vs. 4.1 mM. Correspondingly, the incidences of nocturnal hypoglycaemia were 32 % in the insulin glargine / lispro group vs. 52 % in the NPH / regular group.
+A crossover study comparing insulin glargine plus lispro insulin to NPH plus regular human insulin (each treatment administered for 16 weeks in random order) in 26 adolescent type 1 diabetic patients aged 12 to 18 years was also performed. As in the paediatric study described above, fasting plasma glucose reduction from baseline was greater in the insulin glargine group than in the NPH group. HbA1c changes from baseline were similar between treatment groups; however blood glucose values recorded overnight were significantly higher in the insulin glargine/ lispro group than the NPH/regular group, with a mean nadir of 5.4 mM vs. 4.1 mM. Correspondingly, the incidences of nocturnal hypoglycaemia were 32 % in the insulin glargine / lispro group vs. 52 % in the NPH / regular group.
 
 A 24-week parallel group study was conducted in 125 children with type 1 diabetes mellitus aged 2 to 6 years, comparing insulin glargine given once daily in the morning to NPH insulin given once or twice daily as basal insulin. Both groups received bolus insulin before meals. The primary aim of demonstrating non-inferiority of insulin glargine to NPH in all hypoglycaemia was not met and there was a trend to an increase of hypoglycaemic events with insulin glargine [insulin glargine: NPH rate ratio (95% CI) = 1.18 (0.97-1.44)]. Glycohaemoglobin and glucose variabilities were comparable in both treatment groups. No new safety signals were observed in this trial.
 
@@ -508,11 +508,15 @@ Empty cartridges must not be refilled and must be properly discarded. Insulin la
 
 (see section 4.4).
 
-## 7. MARKETING AUTHORISATION HOLDER
+7.
 
-Eli Lilly Nederland B.V., Papendorpseweg 83, 3528 BJ Utrecht, The Netherlands
+MARKETING AUTHORISATION HOLDER
 
-## 8. MARKETING AUTHORISATION NUMBER(S)
+Eli Lilly Nederland B.V., Orteliuslaan 1000, 3528 BD Utrecht, The Netherlands
+
+8.
+
+MARKETING AUTHORISATION NUMBER(S)
 
 EU/1/14/944/003
 
@@ -524,9 +528,11 @@ Date of first authorisation: 9 September 2014
 
 Date of latest renewal: 25 July 2019
 
-## 10. DATE OF REVISION OF THE TEXT
+10.
 
-Detailed information on this medicinal product is available on the website of the European Medicines Agency http://www.ema.europa.eu
+DATE OF REVISION OF THE TEXT
+
+Detailed information on this medicinal product is available on the website of the European Medicines Agency https://www.ema.europa.eu
 
 15
 
@@ -572,7 +578,7 @@ The potency of this medicinal product is stated in units. These units are exclus
 
 ## Special populations
 
-## Elderly populat ion (≥65 years old)
+## Elderly population (≥65 years old)
 
 In the elderly, progressive deterioration of renal function may lead to a steady decrease in insulin requirements.
 
@@ -862,7 +868,7 @@ More severe episodes with coma, seizure, or neurologic impairment may be treated
 
 Pharmacotherapeutic group: Drugs used in diabetes, insulins and analogues for injection, long-acting. ATC Code: A10AE04.
 
-ABASAGLAR is a biosimilar medicinal product. Detailed information is available on the website of the European Medicines Agency http://www.ema.europa.eu.
+ABASAGLAR is a biosimilar medicinal product. Detailed information is available on the website of the European Medicines Agency https://www.ema.europa.eu.
 
 ## Mechanism of action
 
@@ -876,7 +882,7 @@ In vitro studies indicate that the affinity of insulin glargine and its metaboli
 
 IGF-1 receptor binding: The affinity of insulin glargine for the human IGF-1 receptor is approximately 5 to 8-fold greater than that of human insulin (but approximately 70 to 80-fold lower than the one of IGF-1), whereas M1 and M2 bind the IGF-1 receptor with slightly lower affinity compared to human insulin.
 
-The total therapeutic insulin concentration (insulin glargine and its metabolites) found in type 1 diabetic patients was markedly lower than what would be required for a half maximal occupation of the IGF-1 receptor and the subsequent activation of the mitogenic-proliferative pathway initiated by the IGF-1 receptor. Physiological concentrations of endogenous IGF-1 may activate the mitogenicproliferative pathway; however, the therapeutic concentrations foun d in insulin therapy, including in ABASAGLAR therapy, are considerably lower than the pharmacological concentrations required to activate the IGF-1 pathway.
+The total therapeutic insulin concentration (insulin glargine and its metabolites) found in type 1 diabetic patients was markedly lower than what would be required for a half maximal occupation of the IGF-1 receptor and the subsequent activation of the mitogenic-proliferative pathway initiated by the IGF-1 receptor. Physiological concentrations of endogenous IGF-1 may activate the mitogenicproliferative pathway; however, the therapeutic concentrations found in insulin therapy, including in ABASAGLAR therapy, are considerably lower than the pharmacological concentrations required to activate the IGF-1 pathway.
 
 ## Pharmacodynamic effects
 
@@ -924,7 +930,7 @@ At the last on-treatment visit, there was a mean increase in body weight from ba
 
 In a randomised, controlled clinical study, paediatric patients (age range 6 to 15 years) with type 1 diabetes (n=349) were treated for 28 weeks with a basal-bolus insulin regimen where regular human insulin was used before each meal. Insulin glargine was administered once daily at bedtime and NPH human insulin was administered once or twice daily. Similar effects on glycohaemoglobin and the incidence of symptomatic hypoglycaemia were observed in both treatment groups, however fasting plasma glucose decreased more from baseline in the insulin glargine group than in the NPH group. There was less severe hypoglycaemia in the insulin glargine group as well. One hundred forty three of the patients treated with insulin glargine in this study continued treatment with insulin glargine in an uncontrolled extension study with mean duration of follow-up of 2 years. No new safety signals were seen during this extended treatment with insulin glargine.
 
-A crossover study comparing insulin glargine plus lispro insulin to NPH plus regular human insulin (each treatment administered for 16 weeks in random order) in 26 adolescent type 1 diabetic patients aged 12 to 18 years was also performed. As in the paediatric study described above, fasting plasma glucose reduction from baseline was greater in the insulin glargine group than in the NPH group. HbA1c changes from baseline were similar between treatment groups; however blood g lucose values recorded overnight were significantly higher in the insulin glargine/ lispro group than the NPH/regular group, with a mean nadir of 5.4 mM vs. 4.1 mM. Correspondingly, the incidences of nocturnal hypoglycaemia were 32 % in the insulin glargine / lispro group vs. 52 % in the NPH / regular group.
+A crossover study comparing insulin glargine plus lispro insulin to NPH plus regular human insulin (each treatment administered for 16 weeks in random order) in 26 adolescent type 1 diabetic patients aged 12 to 18 years was also performed. As in the paediatric study described above, fasting plasma glucose reduction from baseline was greater in the insulin glargine group than in the NPH group. HbA1c changes from baseline were similar between treatment groups; however blood glucose values recorded overnight were significantly higher in the insulin glargine/ lispro group than the NPH/regular group, with a mean nadir of 5.4 mM vs. 4.1 mM. Correspondingly, the incidences of nocturnal hypoglycaemia were 32 % in the insulin glargine / lispro group vs. 52 % in the NPH / regular group.
 
 A 24-week parallel group study was conducted in 125 children with type 1 diabetes mellitus aged 2 to 6 years, comparing insulin glargine given once daily in the morning to NPH insulin given once or twice daily as basal insulin. Both groups received bolus insulin before meals. The primary aim of demonstrating non-inferiority of insulin glargine to NPH in all hypoglycaemia was not met and there was a trend to an increase of hypoglycaemic events with insulin glargine [insulin glargine: NPH rate ratio (95% CI) = 1.18 (0.97-1.44)]. Glycohaemoglobin and glucose variabilities were comparable in both treatment groups. No new safety signals were observed in this trial.
 
@@ -994,7 +1000,7 @@ Do not store ABASAGLAR next to the freezer compartment or a freezer pack.
 
 Keep the pre-filled pen in the outer carton in order to protect from light.
 
-In use
+## In use
 
 For storage conditions after first opening of this medicinal product, see section 6.3.
 
@@ -1042,7 +1048,7 @@ The Tempo Pen is designed to work with the Tempo Smart Button. The Tempo Smart B
 
 ## 7. MARKETING AUTHORISATION HOLDER
 
-Eli Lilly Nederland B.V., Papendorpseweg 83, 3528 BJ Utrecht, The Netherlands
+Eli Lilly Nederland B.V., Orteliuslaan 1000, 3528 BD Utrecht, The Netherlands
 
 ## 8. MARKETING AUTHORISATION NUMBER(S)
 
@@ -1058,7 +1064,9 @@ Date of latest renewal: 25 July 2019
 
 ## 10. DATE OF REVISION OF THE TEXT
 
-Detailed information on this medicinal product is available on the website of the European Medicines Agency http://www.ema.europa.eu
+Detailed information on this medicinal product is available on the website of the European Medicines Agency https://www.ema.europa.eu
+
+29
 
 <div style=\"page-break-after: always\"></div>
 
@@ -1190,7 +1198,7 @@ Do not refrigerate or freeze.
 
 Eli Lilly Nederland B.V.
 
-Papendorpseweg 83, 3528 BJ Utrecht
+Orteliuslaan 1000, 3528 BD Utrecht
 
 The Netherlands
 
@@ -1231,17 +1239,17 @@ PC SN NN
 
 <div style=\"page-break-after: always\"></div>
 
-| MINIMUM PARTICULARS TO APPEAR ONSMALLIMMEDIATE PACKAGING UNITS   |
-|------------------------------------------------------------------|
-| CARTRIDGE LABEL                                                  |
+| MINIMUM PARTICULARS TO APPEAR ON SMALL IMMEDIATE PACKAGING UNITS   |
+|--------------------------------------------------------------------|
+| CARTRIDGE LABEL                                                    |
 
-| 1.   | NAMEOFTHEMEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION   |
-|------|-------------------------------------------------------------|
+| 1.   | NAME OF THE MEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION   |
+|------|----------------------------------------------------------------|
 
 ABASAGLAR 100 units/mL injection insulin glargine SC use
 
-| 2.   | METHODOFADMINISTRATION   |
-|------|--------------------------|
+| 2.   | METHOD OF ADMINISTRATION   |
+|------|----------------------------|
 
 Read the package leaflet before use
 
@@ -1255,8 +1263,8 @@ EXP
 
 Lot
 
-| 5.   | CONTENTS BY WEIGHT,BYVOLUMEORBYUNIT   |
-|------|---------------------------------------|
+| 5.   | CONTENTS BY WEIGHT, BY VOLUME OR BY UNIT   |
+|------|--------------------------------------------|
 
 3 mL
 
@@ -1331,7 +1339,7 @@ Recap the pen after use to protect from light.
 
 Eli Lilly Nederland B.V.
 
-Papendorpseweg 83, 3528 BJ Utrecht
+Orteliuslaan 1000, 3528 BD Utrecht
 
 The Netherlands
 
@@ -1436,7 +1444,7 @@ Recap the pen after use to protect from light.
 
 Eli Lilly Nederland B.V.
 
-Papendorpseweg 83, 3528 BJ Utrecht
+Orteliuslaan 1000, 3528 BD Utrecht
 
 The Netherlands
 
@@ -1541,7 +1549,7 @@ Recap the pen after use to protect from light.
 
 Eli Lilly Nederland B.V.
 
-Papendorpseweg 83, 3528 BJ Utrecht
+Orteliuslaan 1000, 3528 BD Utrecht
 
 The Netherlands
 
@@ -1561,13 +1569,13 @@ Lot
 
 ## 14. GENERAL CLASSIFICATION FOR SUPPLY
 
-15. INSTRUCTIONS ON USE
+## 15. INSTRUCTIONS ON USE
 
 ## 16. INFORMATION IN BRAILLE
 
 ABASAGLAR
 
-17. UNIQUE IDENTIFIER - 2D BARCODE
+## 17. UNIQUE IDENTIFIER - 2D BARCODE
 
 ## 18. UNIQUE IDENTIFIER - HUMAN READABLE DATA
 
@@ -1579,7 +1587,8 @@ ABASAGLAR
 
 ABASAGLAR 100 units/mL KwikPen injection insulin glargine SC use
 
-## 2. METHOD OF ADMINISTRATION
+| 2.   | METHOD OF ADMINISTRATION   |
+|------|----------------------------|
 
 Read the package leaflet before use
 
@@ -1664,11 +1673,7 @@ Recap the pen after use to protect from light.
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
-Eli Lilly Nederland B.V.
-
-Papendorpseweg 83, 3528 BJ Utrecht
-
-The Netherlands
+Eli Lilly Nederland B.V. Orteliuslaan 1000, 3528 BD Utrecht The Netherlands
 
 ## 12. MARKETING AUTHORISATION NUMBER(S)
 
@@ -1682,7 +1687,7 @@ Lot
 
 ## 14. GENERAL CLASSIFICATION FOR SUPPLY
 
-15. INSTRUCTIONS ON USE
+## 15. INSTRUCTIONS ON USE
 
 ## 16. INFORMATION IN BRAILLE
 
@@ -1765,11 +1770,7 @@ Recap the pen after use to protect from light.
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
-Eli Lilly Nederland B.V.
-
-Papendorpseweg 83, 3528 BJ Utrecht
-
-The Netherlands
+Eli Lilly Nederland B.V. Orteliuslaan 1000, 3528 BD Utrecht The Netherlands
 
 ## 12. MARKETING AUTHORISATION NUMBER(S)
 
@@ -1864,11 +1865,7 @@ Recap the pen after use to protect from light.
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
-Eli Lilly Nederland B.V.
-
-Papendorpseweg 83, 3528 BJ Utrecht
-
-The Netherlands
+Eli Lilly Nederland B.V. Orteliuslaan 1000, 3528 BD Utrecht The Netherlands
 
 ## 12. MARKETING AUTHORISATION NUMBER(S)
 
@@ -1891,8 +1888,6 @@ ABASAGLAR
 17. UNIQUE IDENTIFIER - 2D BARCODE
 
 ## 18. UNIQUE IDENTIFIER - HUMAN READABLE DATA
-
-<div style=\"page-break-after: always\"></div>
 
 <div style=\"page-break-after: always\"></div>
 
@@ -1921,6 +1916,8 @@ Lot
 3 mL
 
 ## 6. OTHER
+
+<div style=\"page-break-after: always\"></div>
 
 <div style=\"page-break-after: always\"></div>
 
@@ -2249,7 +2246,7 @@ Not all pack sizes may be marketed.
 
 ## Marketing Authorisation Holder
 
-Eli Lilly Nederland B.V., Papendorpseweg 83, 3528 BJ Utrecht, The Netherlands.
+Eli Lilly Nederland B.V., Orteliuslaan 1000, 3528 BD Utrecht, The Netherlands.
 
 ## Manufacturer
 
@@ -2273,7 +2270,7 @@ ELI LILLY ČR, s.r.o. Tel: + 420 234 664 111
 
 ## Danmark
 
-Eli Lilly Danmark A/S Tlf: +45 45 26 60 00
+Eli Lilly Danmark A/S Tlf.: +45 45 26 60 00
 
 ## Deutschland
 
@@ -2311,7 +2308,9 @@ Icepharma hf. Sími + 354 540 8000
 
 ## Italia
 
-Eli Lilly Italia S.p.A. Tel: + 39- 055 42571
+Eli Lilly Italia S.p.A.
+
+Tel: + 39- 055 42571
 
 ## Κύπρος
 
@@ -2335,7 +2334,9 @@ Charles de Giorgio Ltd. Tel: + 356 25600 500
 
 ## Nederland
 
-Eli Lilly Nederland B.V. Tel: + 31-(0) 30 60 25 800
+Eli Lilly Nederland B.V.
+
+Tel: + 31-(0) 30 60 25 800
 
 ## Norge
 
@@ -2343,7 +2344,9 @@ Eli Lilly Norge A.S. Tlf: + 47 22 88 18 00
 
 ## Österreich
 
-Eli Lilly Ges.m.b.H. Tel: + 43-(0) 1 711 780
+Eli Lilly Ges.m.b.H.
+
+Tel: + 43-(0) 1 711 780
 
 ## Polska
 
@@ -2363,7 +2366,9 @@ Eli Lilly farmacevtska družba, d.o.o. Tel: +386 (0)1 580 00 10
 
 ## Slovenská republika
 
-Eli Lilly Slovakia s.r.o. Tel: + 421 220 663 111
+Eli Lilly Slovakia s.r.o.
+
+Tel: + 421 220 663 111
 
 ## Suomi/Finland
 
@@ -2375,19 +2380,17 @@ Eli Lilly Sweden AB Tel: + 46-(0) 8 7378800
 
 <div style=\"page-break-after: always\"></div>
 
-Latvija Eli Lilly (Suisse) S.A Pārstāvniecība Latvijā + 371 67364000
+Eli Lilly (Suisse) S.A Pārstāvniecība Latvijā
+
+Latvija + 371 67364000
 
 ## This leaflet was last revised in
 
 ## Other sources of information
 
-Detailed information on this medicine is available on the European Medicines Agency web site: http://www.ema.europa.eu.
+Detailed information on this medicine is available on the European Medicines Agency web site: https://www.ema.europa.eu.
 
 Tel:
-
-United Kingdom (Northern Ireland)
-
-Eli Lilly and Company (Ireland) Limited Tel: + 353-(0) 1 661 4377
 
 <div style=\"page-break-after: always\"></div>
 
@@ -2570,7 +2573,7 @@ There is no experience with the use of ABASAGLAR in children below the age of 2 
 
 Some medicines cause changes in the blood sugar level (decrease, increase or both depending on the situation). In each case, it may be necessary to adjust your insulin dose to avoid blood sugar levels that are either too low or too high. Be careful when you start or stop taking another medicine. Tell your doctor or pharmacist if you are taking, have recently taken or might take any other medicines. Before taking a medicine ask your doctor if it can affect your blood sugar level and what action, if any, you need to take.
 
-Medicines that may cause your blood sug ar level to fall (hypoglycaemia) include:
+Medicines that may cause your blood sugar level to fall (hypoglycaemia) include:
 
 - ­ all other medicines to treat diabetes,
 - ­ angiotensin converting enzyme (ACE) inhibitors (used to treat certain heart conditions or high blood pressure),
@@ -2794,7 +2797,7 @@ Not all pack sizes may be marketed.
 
 ## Marketing Authorisation Holder
 
-Eli Lilly Nederland B.V., Papendorpseweg 83, 3528 BJ Utrecht, The Netherlands.
+Eli Lilly Nederland B.V., Orteliuslaan 1000, 3528 BD Utrecht, The Netherlands.
 
 ## Manufacturer
 
@@ -2842,7 +2845,7 @@ Tel: + 36 1 328 5100
 
 Eli Lilly Danmark A/S
 
-Tlf: +45 45 26 60 00
+Tlf.: +45 45 26 60 00
 
 ## Malta
 
@@ -2932,7 +2935,7 @@ Tel:
 
 ## Other sources of information
 
-Detailed information on this medicine is available on the European Medicines Agency web site: http://www.ema.europa.eu.
+Detailed information on this medicine is available on the European Medicines Agency web site: https://www.ema.europa.eu.
 
 ## Norge
 
@@ -2987,12 +2990,6 @@ Puh/Tel: + 358-(0) 9 85 45 250
 Eli Lilly Sweden AB
 
 Tel: + 46-(0) 8 7378800
-
-## United Kingdom (Northern Ireland)
-
-Eli Lilly and Company (Ireland) Limited
-
-Tel: + 353-(0) 1 661 4377
 
 <div style=\"page-break-after: always\"></div>
 
@@ -3303,9 +3300,9 @@ If you see blood after you take the needle out of your skin, press the injection
 - Do not use your pen if any part looks broken or damaged.
 - Always carry an extra pen in case yours is lost or damaged.
 
-<div style=\"page-break-after: always\"></div>
-
 ## Troubleshooting
+
+<div style=\"page-break-after: always\"></div>
 
 - If you cannot remove the pen cap, gently twist the cap back and forth, and then pull the cap straight off.
 - If the dose knob it is hard to push:
@@ -3412,7 +3409,7 @@ There is no experience with the use of ABASAGLAR in children below the age of 2 
 
 Some medicines cause changes in the blood sugar level (decrease, increase or both depending on the situation). In each case, it may be necessary to adjust your insulin dose to avoid blood sugar levels that are either too low or too high. Be careful when you start or stop taking another medicine. Tell your doctor or pharmacist if you are taking, have recently taken or might take any other medicines. Before taking a medicine ask your doctor if it can affect your blood sugar level and what action, if any, you need to take.
 
-Medicines that may cause your blood sug ar level to fall (hypoglycaemia) include:
+Medicines that may cause your blood sugar level to fall (hypoglycaemia) include:
 
 - ­ all other medicines to treat diabetes,
 - ­ angiotensin converting enzyme (ACE) inhibitors (used to treat certain heart conditions or high blood pressure),
@@ -3643,7 +3640,7 @@ Not all pack sizes may be marketed.
 
 ## Marketing Authorisation Holder
 
-Eli Lilly Nederland B.V., Papendorpseweg 83, 3528 BJ Utrecht, The Netherlands.
+Eli Lilly Nederland B.V., Orteliuslaan 1000, 3528 BD Utrecht, The Netherlands.
 
 ## Manufacturer
 
@@ -3653,15 +3650,11 @@ For any information about this medicine, please contact the local representative
 
 ## België/Belgique/Belgien
 
-Eli Lilly Benelux S.A./N.V.
-
-Tél/Tel: + 32-(0)2 548 84 84
+Eli Lilly Benelux S.A./N.V. Tél/Tel: + 32-(0)2 548 84 84
 
 ## Lietuva
 
-Eli Lilly Lietuva
-
-Tel. +370 (5) 2649600
+Eli Lilly Lietuva Tel. +370 (5) 2649600
 
 ## България
 
@@ -3691,7 +3684,7 @@ Tel: + 36 1 328 5100
 
 Eli Lilly Danmark A/S
 
-Tlf: +45 45 26 60 00
+Tlf.: +45 45 26 60 00
 
 ## Deutschland
 
@@ -3731,7 +3724,9 @@ Tel: +385 1 2350 999
 
 ## Ireland
 
-Eli Lilly and Company (Ireland) Limited Tel: + 353-(0) 1 661 4377
+Eli Lilly and Company (Ireland) Limited
+
+Tel: + 353-(0) 1 661 4377
 
 ## Ísland
 
@@ -3765,7 +3760,7 @@ Tel:
 
 ## Other sources of information
 
-Detailed information on this medicine is available on the European Medicines Agency web site: http://www.ema.europa.eu.
+Detailed information on this medicine is available on the European Medicines Agency web site: https://www.ema.europa.eu.
 
 ## Malta
 
@@ -3799,9 +3794,7 @@ Tel: +48 22 440 33 00
 
 ## Portugal
 
-Lilly Portugal Produtos Farmacêuticos, Lda
-
-Tel: + 351-21-4126600
+Lilly Portugal Produtos Farmacêuticos, Lda Tel: + 351-21-4126600
 
 ## România
 
@@ -3832,12 +3825,6 @@ Puh/Tel: + 358-(0) 9 85 45 250
 Eli Lilly Sweden AB
 
 Tel: + 46-(0) 8 7378800
-
-## United Kingdom (Northern Ireland)
-
-Eli Lilly and Company (Ireland) Limited
-
-Tel: + 353-(0) 1 661 4377
 
 <div style=\"page-break-after: always\"></div>
 
@@ -3960,9 +3947,7 @@ This pen is not recommended for use by the blind or visually impaired without th
 ## How to recognise your ABASAGLAR Tempo pen:
 
 - Pen colour: Light grey
-
 - Dose Knob: Light grey
-
 - Labels: Light grey with green colour bars
 
 ## Supplies needed to give your injection:
@@ -4171,6 +4156,8 @@ If you see blood after you take the needle out of your skin, press the injection
 - Do not use your pen if any part looks broken or damaged.
 - Always carry an extra pen in case yours is lost or damaged.
 
+## Troubleshooting
+
 <!-- image -->
 
 <!-- image -->
@@ -4178,8 +4165,6 @@ If you see blood after you take the needle out of your skin, press the injection
 <!-- image -->
 
 <div style=\"page-break-after: always\"></div>
-
-## Troubleshooting
 
 - If you cannot remove the pen cap, gently twist the cap back and forth, and then pull the cap straight off.
 - If the dose knob is hard to push:

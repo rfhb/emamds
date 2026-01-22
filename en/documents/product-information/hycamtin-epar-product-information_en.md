@@ -1,20 +1,20 @@
 ---
-document_datetime: 2024-09-27 14:01:20
+document_datetime: 2026-01-20 13:42:58
 document_pages: 61
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/hycamtin-epar-product-information_en.pdf
 document_name: hycamtin-epar-product-information_en.pdf
 version: success
-processing_time: 12.2234633
-conversion_datetime: 2025-12-14 22:54:22.28916
+processing_time: 13.4027848
+conversion_datetime: 2026-01-22 21:38:22.447122
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.64.1
-  docling-core: 2.55.0
+  docling-serve: 1.10.0
+  docling-jobkit: 1.8.1
+  docling: 2.69.0
+  docling-core: 2.60.0
   docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-parse: 4.7.3
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.1-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
 ---
 ## ANNEX I
 
@@ -69,17 +69,17 @@ When topotecan is used in combination with cisplatin, the full prescribing infor
 
 <div style=\"page-break-after: always\"></div>
 
-Prior to administration of the first course of topotecan, patients must have a baseline neutrophil count of ≥ 1.5 x 10 9 /l, a platelet count of ≥ 100 x 10 9 /l and a haemoglobin level of ≥9 g/dl (after transfusion if necessary).
+Prior to administration of the first course of topotecan, patients must have a baseline neutrophil count of  1.5 x 10 9 /l, a platelet count of  100 x 10 9 /l and a haemoglobin level of ≥9 g/dl (after transfusion if necessary).
 
 ## Ovarian and small cell lung carcinoma
 
 ## Initial dose
 
-The recommended dose of topotecan is 1.5 mg/m 2  body surface area per day administered by intravenous infusion over 30 minutes daily for five consecutive days with a three-week interval between the start of each course. If well tolerated, treatment may continue until disease progression (see sections 4.8 and 5.1).
+The recommended dose of topotecan is 1.5 mg/m 2 body surface area per day administered by intravenous infusion over 30 minutes daily for five consecutive days with a three-week interval between the start of each course. If well tolerated, treatment may continue until disease progression (see sections 4.8 and 5.1).
 
 ## Subsequent doses
 
-Topotecan should not be re-administered unless the neutrophil count is ≥ 1 x 10 9 /l, the platelet count is ≥ 100 x 10 9 /l, and the haemoglobin level is ≥ 9 g/dl (after transfusion if necessary).
+Topotecan should not be re-administered unless the neutrophil count is  1 x 10 9 /l, the platelet count is  100 x 10 9 /l, and the haemoglobin level is  9 g/dl (after transfusion if necessary).
 
 Standard oncology practice for the management of neutropenia is either to administer topotecan with other medicinal products (e.g. G-CSF) or to reduce the dose to maintain neutrophil counts.
 
@@ -95,7 +95,7 @@ The recommended dose of topotecan is 0.75 mg/m 2 /day administered as a 30-minut
 
 ## Subsequent doses
 
-Topotecan should not be re-administered unless the neutrophil count is ≥ 1.5 x 10 9 /l, the platelet count is ≥ 100 x 10 9 /l, and the haemoglobin level is ≥ 9 g/dl (after transfusion if necessary).
+Topotecan should not be re-administered unless the neutrophil count is  1.5 x 10 9 /l, the platelet count is  100 x 10 9 /l, and the haemoglobin level is  9 g/dl (after transfusion if necessary).
 
 Standard oncology practice for the management of neutropenia is either to administer topotecan with other medicinal products (e.g. G-CSF) or to reduce the dose to maintain neutrophil counts.
 
@@ -123,7 +123,7 @@ In clinical studies with topotecan in combination with cisplatin for the treatme
 
 A small number of hepatically impaired patients (serum bilirubin between 1.5 and 10 mg/dl) were given intravenous topotecan at 1.5 mg/m 2 /day for five days every three weeks. A reduction in topotecan clearance was observed. However, there are insufficient data available to make a dose recommendation for this patient group (see section 4.4).
 
-There is insufficient experience with the use of topotecan in patients with severely impaired hepatic function (serum bilirubin ≥ 10 mg/dl) due to cirrhosis. Topotecan is not recommended to be used in this patient group (see section 4.4).
+There is insufficient experience with the use of topotecan in patients with severely impaired hepatic function (serum bilirubin  10 mg/dl) due to cirrhosis. Topotecan is not recommended to be used in this patient group (see section 4.4).
 
 ## Paediatric population
 
@@ -137,7 +137,7 @@ Topotecan must be reconstituted and further diluted before use (see section 6.6)
 
 - -Severe hypersensitivity to the active substance or to any of the excipients.
 - -Breast-feeding (see section 4.6).
-- -Severe bone marrow depression prior to starting first course, as evidenced by baseline neutrophils &lt;1.5 x 10 9 /l and/or a platelet count of &lt; 100 x 10 9 /l.
+- -Severe bone marrow depression prior to starting first course, as evidenced by baseline neutrophils &lt;1.5 x 10 9 /l and/or a platelet count of  100 x 10 9 /l.
 
 ## 4.4 Special warnings and precautions for use
 
@@ -155,7 +155,7 @@ Topotecan monotherapy and topotecan in combination with cisplatin are commonly a
 
 As would be expected, patients with poor performance status (PS &gt;1) have a lower response rate and an increased incidence of complications such as fever, infection and sepsis (see section 4.8). Accurate assessment of performance status at the time therapy is given is important, to ensure that patients have not deteriorated to PS 3.
 
-There is insufficient experience of the use of topotecan in patients with severely impaired renal function (creatinine clearance &lt;20 ml/min) or severely impaired hepatic function (serum bilirubin ≥ 10 mg/dl) due to cirrhosis. Use of topotecan in these patient groups is not recommended (see section 4.2).
+There is insufficient experience of the use of topotecan in patients with severely impaired renal function (creatinine clearance &lt;20 ml/min) or severely impaired hepatic function (serum bilirubin  10 mg/dl) due to cirrhosis. Use of topotecan in these patient groups is not recommended (see section 4.2).
 
 A small number of hepatically impaired patients (serum bilirubin between 1.5 and 10 mg/dl) were given intravenous topotecan at 1.5 mg/m 2 /day for five days every three weeks. A reduction in topotecan clearance was observed. However, there are insufficient data available to make a dose recommendation for this patient group (see section 4.2).
 
@@ -226,30 +226,27 @@ Within each frequency grouping, undesirable effects are presented in order of de
 
 <div style=\"page-break-after: always\"></div>
 
-| Immune system disorders                                                                                                                                                                                                                                            | Immune system disorders                                                                                                                                                                                                                                            |
-|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Common                                                                                                                                                                                                                                                             | Hypersensitivity reaction including rash                                                                                                                                                                                                                           |
-| Rare                                                                                                                                                                                                                                                               | Anaphylactic reaction, angioedema, urticaria                                                                                                                                                                                                                       |
-| Metabolism and nutrition disorders                                                                                                                                                                                                                                 | Metabolism and nutrition disorders                                                                                                                                                                                                                                 |
-| Very common                                                                                                                                                                                                                                                        | Anorexia (which may be severe)                                                                                                                                                                                                                                     |
-| Respiratory, thoracic and mediastinal disorders                                                                                                                                                                                                                    | Respiratory, thoracic and mediastinal disorders                                                                                                                                                                                                                    |
-| Rare                                                                                                                                                                                                                                                               | Interstitial lung disease (some cases have been fatal)                                                                                                                                                                                                             |
-| Gastrointestinal disorders                                                                                                                                                                                                                                         | Gastrointestinal disorders                                                                                                                                                                                                                                         |
-| Very common                                                                                                                                                                                                                                                        | Nausea, vomiting and diarrhoea (all of which may be severe), constipation, abdominal pain 2 , mucositis                                                                                                                                                            |
-| Not known                                                                                                                                                                                                                                                          | Gastrointestinal perforation                                                                                                                                                                                                                                       |
-| Hepatobiliary disorders                                                                                                                                                                                                                                            | Hepatobiliary disorders                                                                                                                                                                                                                                            |
-| Common                                                                                                                                                                                                                                                             | Hyperbilirubinaemia                                                                                                                                                                                                                                                |
-| Skin and subcutaneous tissue disorders                                                                                                                                                                                                                             | Skin and subcutaneous tissue disorders                                                                                                                                                                                                                             |
-| Very common                                                                                                                                                                                                                                                        | Alopecia                                                                                                                                                                                                                                                           |
-| Common                                                                                                                                                                                                                                                             | Pruritus                                                                                                                                                                                                                                                           |
-| General disorders and administration site conditions                                                                                                                                                                                                               | General disorders and administration site conditions                                                                                                                                                                                                               |
-| Very common                                                                                                                                                                                                                                                        | Pyrexia, asthenia, fatigue                                                                                                                                                                                                                                         |
-| Common                                                                                                                                                                                                                                                             | Malaise                                                                                                                                                                                                                                                            |
-| Very rare                                                                                                                                                                                                                                                          | Extravasation 3                                                                                                                                                                                                                                                    |
-| Not known                                                                                                                                                                                                                                                          | Mucosal inflammation                                                                                                                                                                                                                                               |
-| 1 Fatalities due to sepsis have been reported in patients treated with topotecan (see section 4.4). 2 Neutropenic colitis, including fatal neutropenic colitis, has been reported to occur as a complication of topotecan-induced neutropenia (see section 4.4). 3 | 1 Fatalities due to sepsis have been reported in patients treated with topotecan (see section 4.4). 2 Neutropenic colitis, including fatal neutropenic colitis, has been reported to occur as a complication of topotecan-induced neutropenia (see section 4.4). 3 |
-
-3  Reactions have been mild and have not generally required specific therapy.
+| Immune system disorders                              | Immune system disorders                                                                                 |
+|------------------------------------------------------|---------------------------------------------------------------------------------------------------------|
+| Common                                               | Hypersensitivity reaction including rash                                                                |
+| Rare                                                 | Anaphylactic reaction, angioedema, urticaria                                                            |
+| Metabolism and nutrition disorders                   | Metabolism and nutrition disorders                                                                      |
+| Very common                                          | Anorexia (which may be severe)                                                                          |
+| Respiratory, thoracic and mediastinal disorders      | Respiratory, thoracic and mediastinal disorders                                                         |
+| Rare                                                 | Interstitial lung disease (some cases have been fatal)                                                  |
+| Gastrointestinal disorders                           | Gastrointestinal disorders                                                                              |
+| Very common                                          | Nausea, vomiting and diarrhoea (all of which may be severe), constipation, abdominal pain 2 , mucositis |
+| Not known                                            | Gastrointestinal perforation                                                                            |
+| Hepatobiliary disorders                              | Hepatobiliary disorders                                                                                 |
+| Common                                               | Hyperbilirubinaemia                                                                                     |
+| Skin and subcutaneous tissue disorders               | Skin and subcutaneous tissue disorders                                                                  |
+| Very common                                          | Alopecia                                                                                                |
+| Common                                               | Pruritus                                                                                                |
+| General disorders and administration site conditions | General disorders and administration site conditions                                                    |
+| Very common                                          | Pyrexia, asthenia, fatigue                                                                              |
+| Common                                               | Malaise                                                                                                 |
+| Very rare                                            | Extravasation 3                                                                                         |
+| Not known                                            | Mucosal inflammation                                                                                    |
 
 The adverse events listed above have the potential to occur with a higher frequency in patients who have a poor performance status (see section 4.4).
 
@@ -259,7 +256,7 @@ The frequencies associated with the haematological and non-haematological advers
 
 ## Neutropenia
 
-Severe (neutrophil count &lt;0.5 x 10 9 /l) during course 1 in 55% of patients, with duration ≥ seven days in 20%, and overall in 77% of patients (39% of courses). In association with severe neutropenia, fever or infection occurred in 16% of patients during course 1 and overall in 23% of patients (6% of courses). Median time to onset of severe neutropenia was nine days and the median duration was seven days. Severe neutropenia lasted beyond seven days in 11% of courses overall. Among all patients treated in clinical studies (including both those with severe neutropenia and those who did not develop severe neutropenia), 11% (4% of courses) developed fever and 26% (9% of courses) developed infection. In addition, 5% of all patients treated (1% of courses) developed sepsis (see section 4.4).
+Severe (neutrophil count &lt;0.5 x 10 9 /l) during course 1 in 55% of patients, with duration  seven days in 20%, and overall in 77% of patients (39% of courses). In association with severe neutropenia, fever or infection occurred in 16% of patients during course 1 and overall in 23% of patients (6% of courses). Median time to onset of severe neutropenia was nine days and the median duration was seven days. Severe neutropenia lasted beyond seven days in 11% of courses overall. Among all patients treated in clinical studies (including both those with severe neutropenia and those who did not develop severe neutropenia), 11% (4% of courses) developed fever and 26% (9% of courses) developed infection. In addition, 5% of all patients treated (1% of courses) developed sepsis (see section 4.4).
 
 ## Thrombocytopenia
 
@@ -267,7 +264,7 @@ Severe (platelets &lt;25 x 10 9 /l) in 25% of patients (8% of courses); moderate
 
 ## Anaemia
 
-Moderate to severe (Hb ≤ 8.0 g/dl) in 37% of patients (14% of courses). Red cell transfusions were given in 52% of patients (21% of courses).
+Moderate to severe (Hb  8.0 g/dl) in 37% of patients (14% of courses). Red cell transfusions were given in 52% of patients (21% of courses).
 
 <div style=\"page-break-after: always\"></div>
 
@@ -361,23 +358,23 @@ In a randomised, comparative Phase III study conducted by the Gynecologic Oncolo
 
 Table 2 Study results Study GOG-0179
 
-| ITT population                                  | ITT population                                  | ITT population                                                                  |
-|-------------------------------------------------|-------------------------------------------------|---------------------------------------------------------------------------------|
-|                                                 | Cisplatin 50 mg/m 2 on day 1, every 21 days     | Cisplatin 50 mg/m 2 on day 1 + Topotecan 0.75 mg/m 2 on days 1-3, every 21 days |
-| Survival (months)                               | (n = 146)                                       | (n = 147)                                                                       |
-| Median (95% CI)                                 | 6.5 (5.8, 8.8)                                  | 9.4 (7.9, 11.9)                                                                 |
-| Hazard ratio (95% CI)                           | 0.76 (0.59, 0.98)                               | 0.76 (0.59, 0.98)                                                               |
-| Log rank p-value                                | 0.033                                           | 0.033                                                                           |
-| Patients without                                |                                                 |                                                                                 |
-|                                                 | Cisplatin                                       | Topotecan/Cisplatin                                                             |
-| Survival (months)                               | (n = 46)                                        | (n = 44)                                                                        |
-| Median (95% CI)                                 | 8.8 (6.4, 11.5) 15.7                            | (11.9, 17.7)                                                                    |
-| Hazard ratio (95% CI)                           | 0.51 (0.31, 0.82)                               | 0.51 (0.31, 0.82)                                                               |
-| Patients with prior cisplatin chemoradiotherapy | Patients with prior cisplatin chemoradiotherapy | Patients with prior cisplatin chemoradiotherapy                                 |
-|                                                 | Cisplatin                                       | Topotecan/Cisplatin                                                             |
-| Survival (months)                               | (n = 72)                                        | (n = 69)                                                                        |
-| Median (95% CI)                                 | 5.9 (4.7, 8.8)                                  | 7.9 (5.5, 10.9)                                                                 |
-| Hazard ratio (95% CI)                           | 0.85 (0.59, 1.21)                               | 0.85 (0.59, 1.21)                                                               |
+| ITT population                                     | ITT population                                     | ITT population                                                                  |
+|----------------------------------------------------|----------------------------------------------------|---------------------------------------------------------------------------------|
+|                                                    | Cisplatin 50 mg/m 2 on day 1, every 21 days        | Cisplatin 50 mg/m 2 on day 1 + Topotecan 0.75 mg/m 2 on days 1-3, every 21 days |
+| Survival (months)                                  | (n = 146)                                          | (n = 147)                                                                       |
+| Median (95% CI)                                    | 6.5 (5.8, 8.8)                                     | 9.4 (7.9, 11.9)                                                                 |
+| Hazard ratio (95% CI)                              | 0.76 (0.59, 0.98)                                  | 0.76 (0.59, 0.98)                                                               |
+| Log rank p-value                                   | 0.033                                              | 0.033                                                                           |
+| Patients without prior cisplatin chemoradiotherapy | Patients without prior cisplatin chemoradiotherapy | Patients without prior cisplatin chemoradiotherapy                              |
+|                                                    | Cisplatin                                          | Topotecan/Cisplatin                                                             |
+| Survival (months)                                  | (n = 46)                                           | (n = 44)                                                                        |
+| Median (95% CI)                                    | 8.8 (6.4, 11.5)                                    | 15.7 (11.9, 17.7)                                                               |
+| Hazard ratio (95% CI)                              | 0.51 (0.31, 0.82)                                  | 0.51 (0.31, 0.82)                                                               |
+| Patients with prior cisplatin chemoradiotherapy    | Patients with prior cisplatin chemoradiotherapy    | Patients with prior cisplatin chemoradiotherapy                                 |
+|                                                    | Cisplatin                                          | Topotecan/Cisplatin                                                             |
+| Survival (months)                                  | (n = 72)                                           | (n = 69)                                                                        |
+| Median (95% CI)                                    | 5.9 (4.7, 8.8)                                     | 7.9 (5.5, 10.9)                                                                 |
+| Hazard ratio (95% CI)                              | 0.85 (0.59, 1.21)                                  | 0.85 (0.59, 1.21)                                                               |
 
 In patients (n = 39) with recurrence within 180 days after chemoradiotherapy with cisplatin, the median survival in the topotecan plus cisplatin arm was 4.6 months (95% CI: 2.6, 6.1) versus 4.5 months (95% CI: 2.9, 9.6) for the cisplatin arm, with a hazard ratio of 1.15 (0.59, 2.23). In those patients (n = 102) with recurrence after 180 days, median survival in the topotecan plus cisplatin arm was 9.9 months (95% CI: 7, 12.6) versus 6.3 months (95% CI: 4.9, 9.5) for the cisplatin arm, with a hazard ratio of 0.75 (0.49, 1.16).
 
@@ -385,13 +382,13 @@ In patients (n = 39) with recurrence within 180 days after chemoradiotherapy wit
 
 Topotecan was also evaluated in the paediatric population; however, only limited data on efficacy and safety are available.
 
-In an open-label study involving children (n = 108, age range: infant to 16 years) with recurrent or progressive solid tumours, topotecan was administered at a starting dose of 2.0 mg/m 2  given as a 30-minute infusion for 5 days repeated every 3 weeks for up to one year depending on response to therapy. Tumour types included were Ewing's sarcoma/primitive neuroectodermal tumour, neuroblastoma, osteoblastoma and rhabdomyosarcoma. Anti-tumour activity was demonstrated primarily in patients with neuroblastoma. Toxicities of topotecan in paediatric patients with recurrent and refractory solid tumours were similar to those historically seen in adult patients. In this study, forty-six (43%) patients received G-CSF over 192 (42.1%) courses; sixty-five (60%) received transfusions of packed red blood cells and fifty (46%) of platelets over 139 and 159 courses (30.5% and 34.9%), respectively. Based on the dose-limiting toxicity of myelosuppression, the maximum tolerated dose (MTD) was established at 2.0 mg/m 2 /day with G-CSF and 1.4 mg/m 2 /day without GCSF in a pharmacokinetic study in paediatric patients with refractory solid tumours (see section 5.2).
+In an open-label study involving children (n = 108, age range: infant to 16 years) with recurrent or progressive solid tumours, topotecan was administered at a starting dose of 2.0 mg/m 2 given as a 30-minute infusion for 5 days repeated every 3 weeks for up to one year depending on response to therapy. Tumour types included were Ewing's sarcoma/primitive neuroectodermal tumour, neuroblastoma, osteoblastoma and rhabdomyosarcoma. Anti-tumour activity was demonstrated primarily in patients with neuroblastoma. Toxicities of topotecan in paediatric patients with recurrent and refractory solid tumours were similar to those historically seen in adult patients. In this study, forty-six (43%) patients received G-CSF over 192 (42.1%) courses; sixty-five (60%) received transfusions of packed red blood cells and fifty (46%) of platelets over 139 and 159 courses (30.5% and 34.9%), respectively. Based on the dose-limiting toxicity of myelosuppression, the maximum tolerated dose (MTD) was established at 2.0 mg/m 2 /day with G-CSF and 1.4 mg/m 2 /day without GCSF in a pharmacokinetic study in paediatric patients with refractory solid tumours (see section 5.2).
 
 ## 5.2 Pharmacokinetic properties
 
 ## Distribution
 
-Following intravenous administration of topotecan at doses of 0.5 to 1.5 mg/m 2  as a 30-minute infusion daily for five days, topotecan demonstrated a high plasma clearance of 62 l/h (SD 22),
+Following intravenous administration of topotecan at doses of 0.5 to 1.5 mg/m 2 as a 30-minute infusion daily for five days, topotecan demonstrated a high plasma clearance of 62 l/h (SD 22),
 
 <div style=\"page-break-after: always\"></div>
 
@@ -429,7 +426,7 @@ In a population study, a number of factors including age, weight and ascites had
 
 ## Paediatric population
 
-The pharmacokinetics of topotecan given as a 30-minute infusion for 5 days were evaluated in two studies. One study included a dose range of 1.4 to 2.4 mg/m 2  in children (aged 2 up to 12 years, n = 18), adolescents (aged 12 up to 16 years, n = 9) and young adults (aged 16 to 21 years, n = 9) with refractory solid tumours. The second study included a dose range of 2.0 to 5.2 mg/m 2  in children (n = 8), adolescents (n = 3) and young adults (n = 3) with leukaemia. In these studies there were no apparent differences in the pharmacokinetics of topotecan among children, adolescents and young adult patients with solid tumours or leukaemia, but data are too limited to draw definite conclusions.
+The pharmacokinetics of topotecan given as a 30-minute infusion for 5 days were evaluated in two studies. One study included a dose range of 1.4 to 2.4 mg/m 2 in children (aged 2 up to 12 years, n = 18), adolescents (aged 12 up to 16 years, n = 9) and young adults (aged 16 to 21 years, n = 9) with refractory solid tumours. The second study included a dose range of 2.0 to 5.2 mg/m 2 in children (n = 8), adolescents (n = 3) and young adults (n = 3) with leukaemia. In these studies there were no apparent differences in the pharmacokinetics of topotecan among children, adolescents and young adult patients with solid tumours or leukaemia, but data are too limited to draw definite conclusions.
 
 ## 5.3 Preclinical safety data
 
@@ -515,7 +512,9 @@ EU/1/96/027/004 EU/1/96/027/005
 
 ## HYCAMTIN 4 mg powder for concentrate for solution for infusion
 
-EU/1/96/027/001 EU/1/96/027/003
+EU/1/96/027/001
+
+EU/1/96/027/003
 
 ## 9. DATE OF FIRST AUTHORISATION/RENEWAL OF THE AUTHORISATION
 
@@ -549,7 +548,7 @@ For the full list of excipients, see section 6.1.
 
 Hard capsule.
 
-## HYCAMTIN 0.25 mg hard capsules
+HYCAMTIN 0.25 mg hard capsules
 
 The capsules are opaque, white to yellowish white and imprinted with 'HYCAMTIN' and '0.25 mg'.
 
@@ -569,7 +568,7 @@ HYCAMTIN capsules should only be prescribed and therapy supervised by a physicia
 
 ## Posology
 
-Prior to administration of the first course of topotecan, patients must have a baseline neutrophil count of ≥ 1.5 x 10 9 /l, a platelet count of ≥ 100 x 10 9 /l and a haemoglobin level of ≥9 g/dl (after transfusion if necessary).
+Prior to administration of the first course of topotecan, patients must have a baseline neutrophil count of  1.5 x 10 9 /l, a platelet count of  100 x 10 9 /l and a haemoglobin level of ≥9 g/dl (after transfusion if necessary).
 
 ## Initial dose
 
@@ -583,7 +582,7 @@ Hycamtin capsules may be taken with or without food (see section 5.2).
 
 ## Subsequent doses
 
-Topotecan should not be re-administered unless the neutrophil count is ≥ 1 x 10 9 /l, the platelet count is ≥ 100 x 10 9 /l, and the haemoglobin level is ≥ 9 g/dl (after transfusion if necessary).
+Topotecan should not be re-administered unless the neutrophil count is  1 x 10 9 /l, the platelet count is  100 x 10 9 /l, and the haemoglobin level is  9 g/dl (after transfusion if necessary).
 
 Standard oncology practice for the management of neutropenia is either to administer topotecan with other medicinal products (e.g. G-CSF) or to reduce the dose to maintain neutrophil counts.
 
@@ -625,7 +624,7 @@ No overall differences in effectiveness were observed between patients aged over
 
 <div style=\"page-break-after: always\"></div>
 
-neutrophils &lt;1.5 x 10 9 /l and/or a platelet count of &lt; 100 x 10 9 /l.
+neutrophils &lt;1.5 x 10 9 /l and/or a platelet count of  100 x 10 9 /l.
 
 ## 4.4 Special warnings and precautions for use
 
@@ -643,7 +642,7 @@ As would be expected, patients with poor performance status (PS &gt;1) have a lo
 
 Topotecan is partly eliminated via renal excretion and renal impairment might lead to increased exposure to topotecan. Dosing recommendations for patients receiving oral topotecan with creatinine clearance less than 30 ml/min have not been established. Use of topotecan in these patients is not recommended (see section 4.2).
 
-A small number of hepatically impaired patients (serum bilirubin between 1.5 and 10 mg/dl) were given intravenous topotecan at 1.5 mg/m 2 /day for five days every three weeks. A reduction in topotecan clearance was observed. However, there are insufficient data available to make a dose recommendation for this patient group. There is insufficient experience of the use of topotecan in patients with severely impaired hepatic function (serum bilirubin ≥ 10 mg/dl). Use of topotecan in these patients is not recommended (see section 4.2).
+A small number of hepatically impaired patients (serum bilirubin between 1.5 and 10 mg/dl) were given intravenous topotecan at 1.5 mg/m 2 /day for five days every three weeks. A reduction in topotecan clearance was observed. However, there are insufficient data available to make a dose recommendation for this patient group. There is insufficient experience of the use of topotecan in patients with severely impaired hepatic function (serum bilirubin  10 mg/dl). Use of topotecan in these patients is not recommended (see section 4.2).
 
 Diarrhoea, including severe diarrhoea requiring hospitalisation, has been reported during treatment with oral topotecan. Diarrhoea related to oral topotecan can occur at the same time as drug-related neutropenia and its sequelae. Communication with patients prior to drug administration regarding these side effects and proactive management of early and all signs and symptoms of diarrhoea is important. Cancer treatment-induced diarrhoea (CTID) is associated with significant morbidity and may be life-threatening. Should diarrhoea occur during treatment with oral topotecan, physicians are advised to aggressively manage diarrhoea. Clinical guidelines describing the aggressive management of CTID include specific recommendations on patient communication and awareness, recognition of early warning signs, use of anti-diarrhoeals and antibiotics, changes in fluid intake and diet, and need for hospitalisation (see sections 4.2 and 4.8).
 
@@ -705,33 +704,33 @@ Adverse reactions are listed below, by system organ class and absolute frequency
 
 Within each frequency grouping, undesirable effects are presented in order of decreasing seriousness.
 
-| Infections and infestations                          | Infections and infestations                                                                                         |
-|------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------|
-| Very common                                          | Infection                                                                                                           |
-| Common                                               | Sepsis 1                                                                                                            |
-| Blood and lymphatic system disorders                 | Blood and lymphatic system disorders                                                                                |
-| Very common                                          | Febrile neutropenia, neutropenia (see 'Gastrointestinal disorders'), thrombocytopenia, anaemia, leucopenia          |
-| Common                                               | Pancytopenia                                                                                                        |
-| Not known                                            | Severe bleeding (associated with thrombocytopenia)                                                                  |
-| Immune system disorders                              | Immune system disorders                                                                                             |
-| Common                                               | Hypersensitivity reaction including rash                                                                            |
-| Rare                                                 | Anaphylactic reaction, angioedema, urticaria                                                                        |
-| Metabolism and nutrition disorders                   | Metabolism and nutrition disorders                                                                                  |
-| Very common                                          | Anorexia (which may be severe)                                                                                      |
-| Respiratory, thoracic and mediastinal disorders      | Respiratory, thoracic and mediastinal disorders                                                                     |
-| Rare                                                 | Interstitial lung disease (some cases have been fatal)                                                              |
-| Gastrointestinal disorders                           | Gastrointestinal disorders                                                                                          |
-| Very common                                          | Nausea, vomiting and diarrhoea (all of whichmaybe severe), which may lead to dehydration (see sections 4.2 and 4.4) |
-| Common                                               | Abdominal pain 2 , constipation, mucositis, dyspepsia                                                               |
-| Not known                                            | Gastrointestinal perforation                                                                                        |
-| Hepatobiliary disorders                              | Hepatobiliary disorders                                                                                             |
-| Common                                               | Hyperbilirubinaemia                                                                                                 |
-| Skin and subcutaneous tissue disorders               | Skin and subcutaneous tissue disorders                                                                              |
-| Very common                                          | Alopecia                                                                                                            |
-| Common                                               | Pruritus                                                                                                            |
-| General disorders and administration site conditions | General disorders and administration site conditions                                                                |
-| Very common                                          | Fatigue                                                                                                             |
-| Common                                               | Asthenia, pyrexia, malaise                                                                                          |
+| Infections and infestations                          | Infections and infestations                                                                                           |
+|------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------|
+| Very common                                          | Infection                                                                                                             |
+| Common                                               | Sepsis 1                                                                                                              |
+| Blood and lymphatic system disorders                 | Blood and lymphatic system disorders                                                                                  |
+| Very common                                          | Febrile neutropenia, neutropenia (see 'Gastrointestinal disorders'), thrombocytopenia, anaemia, leucopenia            |
+| Common                                               | Pancytopenia                                                                                                          |
+| Not known                                            | Severe bleeding (associated with thrombocytopenia)                                                                    |
+| Immune system disorders                              | Immune system disorders                                                                                               |
+| Common                                               | Hypersensitivity reaction including rash                                                                              |
+| Rare                                                 | Anaphylactic reaction, angioedema, urticaria                                                                          |
+| Metabolism and nutrition disorders                   | Metabolism and nutrition disorders                                                                                    |
+| Very common                                          | Anorexia (which may be severe)                                                                                        |
+| Respiratory, thoracic and mediastinal disorders      | Respiratory, thoracic and mediastinal disorders                                                                       |
+| Rare                                                 | Interstitial lung disease (some cases have been fatal)                                                                |
+| Gastrointestinal disorders                           | Gastrointestinal disorders                                                                                            |
+| Very common                                          | Nausea, vomiting and diarrhoea (all of which may be severe), which may lead to dehydration (see sections 4.2 and 4.4) |
+| Common                                               | Abdominal pain 2 , constipation, mucositis, dyspepsia                                                                 |
+| Not known                                            | Gastrointestinal perforation                                                                                          |
+| Hepatobiliary disorders                              | Hepatobiliary disorders                                                                                               |
+| Common                                               | Hyperbilirubinaemia                                                                                                   |
+| Skin and subcutaneous tissue disorders               | Skin and subcutaneous tissue disorders                                                                                |
+| Very common                                          | Alopecia                                                                                                              |
+| Common                                               | Pruritus                                                                                                              |
+| General disorders and administration site conditions | General disorders and administration site conditions                                                                  |
+| Very common                                          | Fatigue                                                                                                               |
+| Common                                               | Asthenia, pyrexia, malaise                                                                                            |
 
 <div style=\"page-break-after: always\"></div>
 
@@ -755,13 +754,13 @@ Severe thrombocytopenia (Grade 4 - platelets &lt;10 x 10 9 /l) occurred in 6% of
 
 ## Anaemia
 
-Moderate to severe anaemia (Grade 3 and 4 - Hb ≤ 8.0 g/dl) occurred in 25% of patients (12% of courses). Median time to onset of moderate to severe anaemia was day 12 with a median duration of 7 days. In 46% of courses with moderate to severe anaemia, the duration was &gt;7 days. Red blood cell transfusions were given in 30% of patients (13% of courses). Erythropoietin was administered to 10% of patients in 8% of courses.
+Moderate to severe anaemia (Grade 3 and 4 - Hb  8.0 g/dl) occurred in 25% of patients (12% of courses). Median time to onset of moderate to severe anaemia was day 12 with a median duration of 7 days. In 46% of courses with moderate to severe anaemia, the duration was &gt;7 days. Red blood cell transfusions were given in 30% of patients (13% of courses). Erythropoietin was administered to 10% of patients in 8% of courses.
 
 ## Non-haematological
 
 The most frequently reported non-haematological effects were nausea (37%), diarrhoea (29%), fatigue (26%), vomiting (24%), alopecia (21%) and anorexia (18%). All cases were irrespective of associated causality. For severe cases (CTC Grade 3/4) reported as related/possibly related to topotecan administration the incidence was diarrhoea 5% (see section 4.4), fatigue 4%, vomiting 3%, nausea 3% and anorexia 2%.
 
-The overall incidence of drug-related diarrhoea was 22%, including 4% with Grade 3 and 0.4% with Grade 4. Drug-related diarrhoea was more frequent in patients ≥ 65 years of age (28%) compared to those less than 65 years of age (19%).
+The overall incidence of drug-related diarrhoea was 22%, including 4% with Grade 3 and 0.4% with Grade 4. Drug-related diarrhoea was more frequent in patients  65 years of age (28%) compared to those less than 65 years of age (19%).
 
 Complete alopecia related/possibly related to topotecan administration was observed in 9% of patients and partial alopecia related/possibly related to topotecan administration in 11% of patients.
 
@@ -857,9 +856,9 @@ The pharmacokinetics of oral topotecan have not been studied in patients with he
 
 ## Renal impairment
 
-Results of a cross-study analysis suggest that the exposure to topotecan lactone, the active moiety following topotecan administration, increases with decreased renal function. Geometric mean topotecan lactone dose-normalised AUC(0-∞ ) values were 9.4, 11.1 and 12.0 ng*h/ml in subjects with creatinine clearance values of more than 80 ml/min, 50 to 80 ml/min and 30 to 49 ml/min, respectively. In this analysis, creatinine clearance was calculated using the Cockcroft-Gault method. Similar results were obtained if glomerular filtration rate (ml/min) was estimated using the MDRD formula corrected for body weight. Patients with creatinine clearance &gt;60 ml/min have been included in efficacy/safety studies of topotecan. Therefore, use of the normal starting dose in patients with a mild decrease in renal function is considered established (see section 4.2).
+Results of a cross-study analysis suggest that the exposure to topotecan lactone, the active moiety following topotecan administration, increases with decreased renal function. Geometric mean topotecan lactone dose-normalised AUC(0- ) values were 9.4, 11.1 and 12.0 ng*h/ml in subjects with creatinine clearance values of more than 80 ml/min, 50 to 80 ml/min and 30 to 49 ml/min, respectively. In this analysis, creatinine clearance was calculated using the Cockcroft-Gault method. Similar results were obtained if glomerular filtration rate (ml/min) was estimated using the MDRD formula corrected for body weight. Patients with creatinine clearance &gt;60 ml/min have been included in efficacy/safety studies of topotecan. Therefore, use of the normal starting dose in patients with a mild decrease in renal function is considered established (see section 4.2).
 
-Korean patients with renal impairment had generally higher exposure than non-Asian patients with the same degree of renal impairment. The clinical significance of this finding is unclear. Geometric mean topotecan lactone dose-normalised AUC(0-∞ ) values for Korean patients were 7.9, 12.9 and 19.7 ng*h/ml in subjects with creatinine clearance values of more than 80 ml/min, 50 to 80 ml/min and 30 to 49 ml/min, respectively (see section 4.2 and 4.4). There are no data from Asian patients with renal impairment other than Koreans.
+Korean patients with renal impairment had generally higher exposure than non-Asian patients with the same degree of renal impairment. The clinical significance of this finding is unclear. Geometric mean topotecan lactone dose-normalised AUC(0- ) values for Korean patients were 7.9, 12.9 and 19.7 ng*h/ml in subjects with creatinine clearance values of more than 80 ml/min, 50 to 80 ml/min and 30 to 49 ml/min, respectively (see section 4.2 and 4.4). There are no data from Asian patients with renal impairment other than Koreans.
 
 ## Gender
 
@@ -883,11 +882,7 @@ The carcinogenic potential of topotecan has not been studied.
 
 Capsule contents Hydrogenated vegetable oil Glyceryl monostearate
 
-## Capsule shell
-
-Gelatin
-
-Titanium dioxide (E171)
+Capsule shell Gelatin Titanium dioxide (E171)
 
 Sealing band Gelatin
 
@@ -897,9 +892,7 @@ Black iron oxide (E172) Shellac Anhydrous ethanol - see leaflet for further info
 
 ## HYCAMTIN 1 mg hard capsules
 
-Capsule contents Hydrogenated vegetable oil
-
-Glyceryl monostearate
+Capsule contents Hydrogenated vegetable oil Glyceryl monostearate
 
 Capsule shell Gelatin Titanium dioxide (E171) Red iron oxide (E172)
 
@@ -933,7 +926,9 @@ Each blister contains 10 capsules.
 
 ## 6.6 Special precautions for disposal and other handling
 
-HYCAMTIN capsules should not be opened or crushed. Any unused medicinal product or waste material should be disposed of in accordance with local requirements.
+HYCAMTIN capsules should not be opened or crushed.
+
+Any unused medicinal product or waste material should be disposed of in accordance with local requirements.
 
 ## 7. MARKETING AUTHORISATION HOLDER
 
@@ -974,7 +969,7 @@ Detailed information on this medicinal product is available on the website of th
 
 ## A. MANUFACTURERS RESPONSIBLE FOR BATCH RELEASE
 
-## Name and address of the manufacturers responsible for batch release
+Name and address of the manufacturers responsible for batch release
 
 ## Powder for concentrate for solution for infusion
 
@@ -1033,7 +1028,7 @@ An updated RMP should be submitted:
 
 ## PARTICULARS TO APPEAR ON THE OUTER PACKAGING
 
-## OUTER CARTON
+OUTER CARTON
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
@@ -1085,13 +1080,7 @@ WARNING: Cytotoxic agents, special handling instructions (see Package Leaflet).
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
-Sandoz Pharmaceuticals d.d.
-
-Verovškova ulica 57
-
-1000 Ljubljana
-
-Slovenia
+Sandoz Pharmaceuticals d.d. Verovškova ulica 57 1000 Ljubljana Slovenia
 
 ## 12. MARKETING AUTHORISATION NUMBER(S)
 
@@ -1107,11 +1096,11 @@ EU/1/96/027/004
 
 Lot
 
-## 14. GENERAL CLASSIFICATION FOR SUPPLY
+14. GENERAL CLASSIFICATION FOR SUPPLY
 
-## 15. INSTRUCTIONS ON USE
+15. INSTRUCTIONS ON USE
 
-## 16 INFORMATION IN BRAILLE
+- 16 INFORMATION IN BRAILLE
 
 Justification for not including Braille accepted
 
@@ -1135,34 +1124,29 @@ NN
 
 HYCAMTIN 1 mg powder for concentrate for solution for infusion topotecan IV use
 
-| 2.   | METHOD OF ADMINISTRATION   |
-|------|----------------------------|
+## 2. METHOD OF ADMINISTRATION
 
 Read the package leaflet before use.
 
-| 3.   | EXPIRY DATE   |
-|------|---------------|
+## 3. EXPIRY DATE
 
 EXP
 
-| 4.   | BATCH NUMBER   |
-|------|----------------|
+## 4. BATCH NUMBER
 
 Lot
 
-| 5.   | CONTENTS BY WEIGHT, BY VOLUME OR BY UNIT   |
-|------|--------------------------------------------|
+## 5. CONTENTS BY WEIGHT, BY VOLUME OR BY UNIT
 
 1 mg vial
 
-| 6.   | OTHER   |
-|------|---------|
+## 6. OTHER
 
 <div style=\"page-break-after: always\"></div>
 
 ## PARTICULARS TO APPEAR ON THE OUTER PACKAGING
 
-## OUTER CARTON
+OUTER CARTON
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
@@ -1230,15 +1214,15 @@ EU/1/96/027/001
 
 Lot
 
-## 14. GENERAL CLASSIFICATION FOR SUPPLY
+14. GENERAL CLASSIFICATION FOR SUPPLY
 
-## 15. INSTRUCTIONS ON USE
+15. INSTRUCTIONS ON USE
 
-## 16. INFORMATION IN BRAILLE
+16. INFORMATION IN BRAILLE
 
 Justification for not including Braille accepted
 
-## 17. UNIQUE IDENTIFIER - 2D BARCODE
+17. UNIQUE IDENTIFIER - 2D BARCODE
 
 2D barcode carrying the unique identifier included.
 
@@ -1258,23 +1242,19 @@ NN
 
 HYCAMTIN 4 mg powder for concentrate for solution for infusion topotecan IV use
 
-| 2.   | METHOD OF ADMINISTRATION   |
-|------|----------------------------|
+## 2. METHOD OF ADMINISTRATION
 
 Read the package leaflet before use.
 
-| 3.   | EXPIRY DATE   |
-|------|---------------|
+## 3. EXPIRY DATE
 
 EXP
 
-| 4.   | BATCH NUMBER   |
-|------|----------------|
+## 4. BATCH NUMBER
 
 Lot
 
-| 5.   | CONTENTS BY WEIGHT, BY VOLUME OR BY UNIT   |
-|------|--------------------------------------------|
+## 5. CONTENTS BY WEIGHT, BY VOLUME OR BY UNIT
 
 4 mg vial
 
@@ -1349,9 +1329,9 @@ EU/1/96/027/006
 
 Lot
 
-## 14. GENERAL CLASSIFICATION FOR SUPPLY
+14. GENERAL CLASSIFICATION FOR SUPPLY
 
-## 15. INSTRUCTIONS ON USE
+15. INSTRUCTIONS ON USE
 
 ## 16 INFORMATION IN BRAILLE
 
@@ -1363,23 +1343,25 @@ hycamtin 0.25 mg
 
 ## 18. UNIQUE IDENTIFIER - HUMAN READABLE DATA
 
-PC SN
+PC
+
+SN
 
 NN
 
 <div style=\"page-break-after: always\"></div>
 
-| MINIMUM PARTICULARS TO APPEAR ON BLISTERSOR STRIPS BLISTERS   |
+| MINIMUM PARTICULARS TO APPEAR ONBLISTERS OR STRIPS BLISTERS   |
 |---------------------------------------------------------------|
 | BLISTERS                                                      |
 
-| 1.   | NAME OF THE MEDICINAL PRODUCT   |
-|------|---------------------------------|
+| 1.   | NAMEOFTHEMEDICINAL PRODUCT   |
+|------|------------------------------|
 
 HYCAMTIN 0.25 mg hard capsules topotecan
 
-| 2.   | NAME OF MARKETING AUTHORISATION HOLDER   |
-|------|------------------------------------------|
+| 2.   | NAMEOFMARKETING AUTHORISATIONHOLDER   |
+|------|---------------------------------------|
 
 Sandoz Pharmaceuticals d.d.
 
@@ -1395,8 +1377,6 @@ Lot
 
 | 5.   | OTHER   |
 |------|---------|
-
-41
 
 ## PARTICULARS TO APPEAR ON THE OUTER PACKAGING
 
@@ -1466,7 +1446,7 @@ EU/1/96/027/007
 
 Lot
 
-## 14. GENERAL CLASSIFICATION FOR SUPPLY
+14. GENERAL CLASSIFICATION FOR SUPPLY
 
 15. INSTRUCTIONS ON USE
 
@@ -1480,40 +1460,52 @@ hycamtin 1 mg
 
 ## 18. UNIQUE IDENTIFIER - HUMAN READABLE DATA
 
-PC SN
+PC
+
+SN
 
 NN
 
 <div style=\"page-break-after: always\"></div>
 
-| MINIMUM PARTICULARS TO APPEAR ON BLISTERSOR STRIPS   |
+| MINIMUM PARTICULARS TO APPEAR ONBLISTERS OR STRIPS   |
 |------------------------------------------------------|
 | BLISTERS                                             |
 
-| 1.   | NAME OF THE MEDICINAL PRODUCT   |
-|------|---------------------------------|
+| 1.   | NAMEOFTHEMEDICINAL PRODUCT   |
+|------|------------------------------|
 
-HYCAMTIN 1 mg hard capsules topotecan
-
-| 2.   | NAME OF THE MARKETING AUTHORISATION HOLDER   |
-|------|----------------------------------------------|
-
-Sandoz Pharmaceuticals d.d.
+| 2.   | NAMEOFTHEMARKETINGAUTHORISATION HOLDER   |
+|------|------------------------------------------|
 
 | 3.   | EXPIRY DATE   |
 |------|---------------|
 
-EXP
-
 | 4.   | BATCH NUMBER   |
 |------|----------------|
-
-Lot
 
 | 5.   | OTHER   |
 |------|---------|
 
-44
+## MINIMUM PARTICULARS TO APPEAR ON BLISTERS OR STRIPS BLISTERS
+
+## 1. NAME OF THE MEDICINAL PRODUCT
+
+HYCAMTIN 1 mg hard capsules topotecan
+
+## 2. NAME OF THE MARKETING AUTHORISATION HOLDER
+
+Sandoz Pharmaceuticals d.d.
+
+## 3. EXPIRY DATE
+
+EXP
+
+## 4. BATCH NUMBER
+
+Lot
+
+## 5. OTHER
 
 <div style=\"page-break-after: always\"></div>
 
@@ -1523,9 +1515,7 @@ Lot
 
 <div style=\"page-break-after: always\"></div>
 
-## Hycamtin 1 mg powder for concentrate for solution for infusion Hycamtin 4 mg powder for concentrate for solution for infusion
-
-topotecan
+## Hycamtin 1 mg powder for concentrate for solution for infusion Hycamtin 4 mg powder for concentrate for solution for infusion topotecan
 
 ## Read all of this leaflet carefully before you start using this medicine because it contains important information for you.
 
@@ -1608,7 +1598,7 @@ The dose of Hycamtin you are given will be worked out by your doctor, based on:
 ## The usual dose
 
 - Ovarian and small cell lung cancer: 1.5 mg per square metre of body surface area per day. You will have treatment once a day for 5 days. This pattern of treatment will normally be repeated every 3 weeks.
-- Cervical cancer: 0.75 mg per square metre   of body surface area per day. You will have treatment once a day for 3 days. This pattern of treatment will normally be repeated every 3 weeks.
+- Cervical cancer: 0.75 mg per square metre of body surface area per day. You will have treatment once a day for 3 days. This pattern of treatment will normally be repeated every 3 weeks.
 
 When treating cervical cancer, Hycamtin is combined with another medicine, called cisplatin. Your doctor will determine the correct dose of cisplatin.
 
@@ -1711,9 +1701,7 @@ Any unused product or waste material should be disposed of in accordance with lo
 
 ## What Hycamtin looks like and contents of the pack
 
-Hycamtin comes as a powder for concentrate for solution for intravenous infusion.
-
-It is available in packs containing either 1 or 5 glass vials; each vial contains 1 mg or 4 mg of topotecan.
+Hycamtin comes as a powder for concentrate for solution for intravenous infusion. It is available in packs containing either 1 or 5 glass vials; each vial contains 1 mg or 4 mg of topotecan.
 
 The powder needs to be reconstituted and diluted before infusion.
 
@@ -1737,43 +1725,57 @@ Salutas Pharma GmbH Otto-von-Guericke-Allee 1 39179 Barleben Germany
 
 For any information about this medicine, please contact the local representative of the Marketing Authorisation Holder:
 
-België/Belgique/Belgien Sandoz N.V. Telecom Gardens Medialaan 40 B-1800 Vilvoorde Tél/Tel: +32 (0)2 722 97 97
+## België/Belgique/Belgien
+
+Sandoz nv/sa Tél/Tel: +32 2 722 97 97
 
 ## България
 
-КЧТ Сандоз България Te л .: +359 2 970 47 47
+КЧТ Сандоз България Teл.: +359 2 970 47 47
 
 ## Česká republika
 
-Sandoz s.r.o. Na Pankráci 1724/129 CZ-140 00, Praha 4 Tel: +420 225 775 111 office.cz@ sandoz.com
+Sandoz s.r.o. Tel: +420 234 142 222
 
 ## Danmark
 
-Sandoz A/S Edvard Thomsens Vej 14 DK-2300 København S Tlf: +45 6395 1000 info.danmark@sandoz.com
+Sandoz A/S Tlf: +45 63 95 10 00
+
+## Deutschland
+
+Hexal AG Industriestr. 25 D-83607 Holzkirchen
+
+Tel: +49 8024 908-0 service@hexal.com
 
 ## Lietuva
 
-Sandoz Pharmaceuticals d.d Branch Office Lithuania Seimyniskiu 3A LT - 09312 Vilnius Tel: +370 5 2636 037
+Sandoz Pharmaceuticals d.d filialas Tel: +370 5 2636 037
 
 ## Luxembourg/Luxemburg
 
-Sandoz N.V. Telecom Gardens Medialaan 40 B-1800 Vilvoorde Tél/Tel: +32 (0)2 722 97 97
+Sandoz nv/sa Tél/Tel: +32 2 722 97 97
 
 ## Magyarország
 
-Sandoz Hungária Kft. Bartók Béla út 43-47 H-1114 Budapest Tel: +36 1 430 2890 Info.hungary@sandoz.com
+Sandoz Hungária Kft. Bartók Béla út 43-47 H-1114 Budapest Tel: +36 1 430 2890
+
+Info.hungary@sandoz.com
 
 ## Malta
 
-Sandoz Pharmaceuticals d.d. Verovskova 57 SI-1000 Ljubljana Slovenia Tel: +356 21222872
+Sandoz Pharmaceuticals d.d. (Slovenia) Tel: +35699644126
+
+## Nederland
+
+Sandoz B.V. Hospitaaldreef 29,
+
+NL-1315 RC Almere Tel: +31 36 5241600 info.sandoz-nl@sandoz.com
 
 <div style=\"page-break-after: always\"></div>
 
-Deutschland Hexal AG Industriestr. 25 D-83607 Holzkirchen Tel: +49 8024 908-0
+## Eesti
 
-service@hexal.com
-
-Eesti Sandoz d.d. Eesti filiaal Pärnu mnt 105 EE - 11312 Tallinn Tel: +372 6652405
+Sandoz d.d. Eesti filiaal Pärnu mnt 105 EE - 11312 Tallinn Tel: +372 6652405
 
 ## Ελλάδα
 
@@ -1785,19 +1787,37 @@ Bexal Farmacéutica, S.A Centro Empresarial Parque Norte Edificio Roble C/ Serra
 
 ## France
 
-Sandoz SAS 49, avenue Georges Pompidou F-92300 Levallois-Perret Tél: +33 1 49 64 48 00
+Sandoz SAS Tél: +33 1 49 64 48 00
 
-Hrvatska
+## Hrvatska
 
-Sandoz d.o.o. Maksimirska 120 10 000 Zagreb Tel : +385 1 235 3111
+Sandoz d.o.o. Maksimirska 120 10 000 Zagreb
 
-upit.croatia@sandoz.com
+Tel : +385 1 235 3111 upit.croatia@sandoz.com
 
-Ireland Sandoz Pharmaceuticals d.d. Verovškova ulica 57 1000 Ljubljana Slovenia
+## Ireland
 
-Nederland Sandoz B.V. Veluwezoom 22 NL-1327 AH Almere Tel: +31 (0)36 5241600 info.sandoz-nl@sandoz.com
+Sandoz Pharmaceuticals d.d. Verovškova ulica 57 1000 Ljubljana Slovenia
 
-Norge Sandoz A/S Edvard Thomsens Vej 14 DK-2300 København S Danmark Tlf: +45 6395 1000 info.norge@sandoz.com
+## Ísland
+
+Sandoz A/S Sími: +45 63 95 10 00
+
+## Italia
+
+Sandoz S.p.A. Tel: +39 02 812 806 96
+
+## Κύπρος
+
+SANDOZ HELLAS ΜΟΝΟΠΡΟΣΩΠΗ Α.Ε.
+
+(Ελλάδα) Τηλ: +30 216 600 5000
+
+## Norge
+
+Sandoz A/S
+
+Tlf: +45 63 95 10 00
 
 ## Österreich
 
@@ -1805,61 +1825,43 @@ Sandoz GmbH Biochemiestr. 10 A-6250 Kundl Tel: +43(0)1 86659-0
 
 ## Polska
 
-Sandoz Polska Sp. z o.o. ul. Domaniewska 50 C 02 672 Warszawa Tel.: +48 22 209 7000
+Sandoz Polska Sp. z o.o. ul. Domaniewska 50 C
+
+02 672 Warszawa Tel.: +48 22 209 7000
 
 ## Portugal
 
-Sandoz Farmacêutica Lda. Avenida Professor Doutor Cavaco Silva, n.º10E Taguspark P-2740 -255 Porto Salvo Tel: +351 21 196 40 42
-
-regaff.portugal@sandoz.com
+Sandoz Farmacêutica Lda. Tel: +351 21 196 40 00
 
 ## România
 
-Sandoz S.R.L. Strada Livezeni Nr. 7a 540472 Târgu Mureș Tel: +40 21 407 51 60
+Sandoz Pharmaceuticals SRL Tel: +40 21 407 51 60
 
 ## Slovenija
 
 Lek farmacevtska družba d.d. Verovškova 57 SI-1526 Ljubljana Tel: +386 1 580 21 11 Info.lek@sandoz.com
 
+## Slovenská republika
+
+Sandoz d.d. - organizačná zložka Žižkova 22B 811 02 Bratislava Tel: +421 2 48 200 600 sk.regulatory@sandoz.com
+
+## Suomi/Finland
+
+Sandoz A/S Puh/Tel: + 358 10 6133 400
+
+## Sverige
+
+Sandoz A/S Tel: +45 63 95 10 00
+
 <div style=\"page-break-after: always\"></div>
 
-## Ísland
-
-Sandoz A/S Edvard Thomsens Vej 14 DK-2300 Kaupmaannahöfn S Danmörk Tlf: +45 6395 1000 info.danmark@sandoz.com
-
-## Italia
-
-Sandoz S.p.A. Largo Umberto Boccioni, 1 I-21040 Origgio / VA Tel: +39 02 96 54 1 regaff.italy@sandoz.com
-
-## Κύπρος
-
-Sandoz Pharmaceuticals d.d. Verovskova 57 SI-1000 Ljubljana Σλοβενία Τηλ: +357 22 69 0690
-
-## Latvija
-
-Sandoz d.d. Latvia filiāle K.Valdemāra 33 - 29 LV1010 Rīga Tel: +371 67892006
+Latvija Sandoz d.d. Latvia filiāle K.Valdemāra 33 - 29 LV-1010 Rīga Tel: +371 67892006
 
 ## This leaflet was last revised in
 
 ## Other sources of information
 
 Detailed information on this medicine is available on the European Medicines Agency web site: http://www.ema.europa.eu/.
-
-## Slovenská republika
-
-Sandoz d.d. organizačná zložka Žižkova 22B 811 02 Bratislava Tel: +421 2 48 200 600 sk.regulatory@sandoz.com
-
-## Suomi/Finland
-
-Sandoz A/S Edvard Thomsens Vej 14 DK-2300 Kööpenhamina S Tanska Puh: + 358 010 6133 400 info.suomi@sandoz.com
-
-## Sverige
-
-Sandoz A/S Edvard Thomsens Vej 14 DK-2300 Köpenhamn S Danmark Tel: +45 6395 1000 info.sverige@sandoz.com
-
-## United Kingdom (Northern Ireland)
-
-Sandoz Pharmaceuticals d.d. Verovskova 57 SI-1000 Ljubljana Slovenia Tel: +43 5338 2000
 
 <div style=\"page-break-after: always\"></div>
 
@@ -1895,7 +1897,7 @@ The normal procedures for proper handling and disposal of anti-tumour medicinal 
 
 ## Hycamtin 0.25 mg hard capsules Hycamtin 1 mg hard capsules
 
-## topotecan
+topotecan
 
 ## Read all of this leaflet carefully before you start taking this medicine because it contains important information for you.
 
@@ -2023,7 +2025,7 @@ These very common side effects may affect more than 1 in 10 people treated with 
 - Diarrhoea. This can be serious. If you have more than 3 episodes of diarrhoea per day you should contact your doctor immediately.
 - Occasionally severe stomach pain, fever and possibly diarrhoea (rarely with blood) can be signs of bowel inflammation ( colitis ).
 
-This rare side effect may affect up to 1 in 1,000 people treated with Hycamtin).
+## This rare side effect may affect up to 1 in 1,000 people treated with Hycamtin).
 
 - Lung inflammation (interstitial lung disease): You are most at risk if you have existing lung disease, had radiation treatment to your lungs, or have previously taken medicines that caused lung damage. Signs include:
 - -difficulty in breathing
@@ -2128,39 +2130,53 @@ Salutas Pharma GmbH Otto-von-Guericke-Allee 1, 39179 Barleben, Germany
 
 For any information about this medicine, please contact the local representative of the Marketing Authorisation Holder:
 
-België/Belgique/Belgien Sandoz N.V. Telecom Gardens Medialaan 40 B-1800 Vilvoorde Tél/Tel: +32 (0)2 722 97 97
+## België/Belgique/Belgien
+
+Sandoz nv/sa Tél/Tel: +32 2 722 97 97
 
 ## България
 
-КЧТ Сандоз България Te л .: +359 2 970 47 47
+КЧТ Сандоз България Teл.: +359 2 970 47 47
 
 ## Česká republika
 
-Sandoz s.r.o. Na Pankráci 1724/129 CZ-140 00, Praha 4 Tel: +420 225 775 111
+Sandoz s.r.o.
 
-office.cz@ sandoz.com
-
-## Lietuva
-
-Sandoz Pharmaceuticals d.d Branch Office Lithuania Seimyniskiu 3A LT - 09312 Vilnius Tel: +370 5 2636 037
-
-## Luxembourg/Luxemburg
-
-Sandoz N.V. Telecom Gardens Medialaan 40 B-1800 Vilvoorde Tél/Tel: +32 (0)2 722 97 97
-
-## Magyarország
-
-Sandoz Hungária Kft. Bartók Béla út 43-47 H-1114 Budapest Tel: +36 1 430 2890 Info.hungary@sandoz.com
-
-<div style=\"page-break-after: always\"></div>
+Tel: +420 234 142 222
 
 ## Danmark
 
-Sandoz A/S Edvard Thomsens Vej 14 DK-2300 København S Tlf: +45 6395 1000 info.danmark@sandoz.com
+Sandoz A/S Tlf: +45 63 95 10 00
 
-Deutschland Hexal AG Industriestr. 25
+## Lietuva
 
-D-83607 Holzkirchen Tel: +49 8024 908-0 service@hexal.com
+Sandoz Pharmaceuticals d.d filialas Tel: +370 5 2636 037
+
+## Luxembourg/Luxemburg
+
+Sandoz nv/sa
+
+Tél/Tel: +32 2 722 97 97
+
+## Magyarország
+
+Sandoz Hungária Kft. Bartók Béla út 43-47 H-1114 Budapest Tel: +36 1 430 2890
+
+Info.hungary@sandoz.com
+
+## Malta
+
+Sandoz Pharmaceuticals d.d. (Slovenia)
+
+Tel: +35699644126
+
+<div style=\"page-break-after: always\"></div>
+
+## Deutschland
+
+Hexal AG Industriestr. 25 D-83607 Holzkirchen Tel: +49 8024 908-0
+
+service@hexal.com
 
 ## Eesti
 
@@ -2176,21 +2192,31 @@ Bexal Farmacéutica, S.A. Centro Empresarial Parque Norte Edificio Roble C/ Serr
 
 ## France
 
-Sandoz SAS 49, avenue Georges Pompidou F-92300 Levallois-Perret Tél: +33 1 49 64 48 00
+Sandoz SAS Tél: +33 1 49 64 48 00
 
-Hrvatska Sandoz d.o.o. Maksimirska 120 10 000 Zagreb Tel : +385 1 235 3111 upit.croatia@sandoz.com
+## Hrvatska
 
-## Malta
+Sandoz d.o.o. Maksimirska 120 10 000 Zagreb Tel : +385 1 235 3111
 
-Sandoz Pharmaceuticals d.d. Verovskova 57 SI-1000 Ljubljana Slovenia Tel: +356 21222872
+upit.croatia@sandoz.com
+
+## Ireland
+
+Sandoz Pharmaceuticals d.d. Verovškova ulica 57 1000 Ljubljana Slovenia
+
+## Ísland
+
+Sandoz A/S Sími: +45 63 95 10 00
 
 ## Nederland
 
-Sandoz B.V. Veluwezoom 22 NL-1327 AH Almere Tel: +31 (0)36 5241600 info.sandoz-nl@sandoz.com
+Sandoz B.V. Hospitaaldreef 29,
+
+NL-1315 RC Almere Tel: +31 36 5241600 info.sandoz-nl@sandoz.com
 
 ## Norge
 
-Sandoz A/S Edvard Thomsens Vej 14 DK-2300 København S Danmark Tlf: +45 6395 1000 info.norge@sandoz.com
+Sandoz A/S Tlf: +45 63 95 10 00
 
 ## Österreich
 
@@ -2202,62 +2228,52 @@ Sandoz Polska Sp. z o.o. ul. Domaniewska 50 C 02 672 Warszawa Tel.: +48 22 209 7
 
 ## Portugal
 
-Sandoz Farmacêutica Lda. Avenida Professor Doutor Cavaco Silva, n.º10E Taguspark P-2740 -255 Porto Salvo Tel: +351 21 196 40 42
+Sandoz Farmacêutica Lda. Tel: +351 21 196 40 00
 
-regaff.portugal@sandoz.com
+## România
 
-România Sandoz S.R.L. Strada Livezeni Nr. 7a 540472 Târgu Mureș Tel: +40 21 407 51 60
+Sandoz Pharmaceuticals SRL. Tel: +40 21 407 51 60
 
-<div style=\"page-break-after: always\"></div>
+## Slovenija
 
-## Ireland
+Lek farmacevtska družba d.d. Verovškova 57 SI-1526 Ljubljana Tel: +386 1 580 21 11 Info.lek@sandoz.com
 
-Sandoz Pharmaceuticals d.d. Verovškova ulica 57 1000 Ljubljana Slovenia
+## Slovenská republika
 
-## Ísland
-
-Sandoz A/S Edvard Thomsens Vej 14 DK-2300 Kaupmaannahöfn S Danmörk Tlf: +45 6395 1000 info.danmark@sandoz.com
+Sandoz d.d. - organizačná zložka Žižkova 22B 811 02 Bratislava Tel: +421 2 48 200 600 sk.regulatory@sandoz.com
 
 ## Italia
 
-Sandoz S.p.A. Largo Umberto Boccioni, 1 I-21040 Origgio / VA Tel: +39 02 96 54 1 regaff.italy@sandoz.com
+Sandoz S.p.A.
+
+Tel: +39 02 812 806 96
+
+## Suomi/Finland
+
+Sandoz A/S
+
+Puh/Tel: + 358 10 6133 400
 
 ## Κύπρος
 
-Sandoz Pharmaceuticals d.d. Verovskova 57 SI-1000 Ljubljana Σλοβενία Τηλ: +357 22 69 0690
+SANDOZ HELLAS ΜΟΝΟΠΡΟΣΩΠΗ Α.Ε. (Ελλάδα)
+
+Τηλ: +30 216 600 5000
+
+## Sverige
+
+Sandoz A/S
+
+Tel: +45 63 95 10 00
 
 ## Latvija
 
-Sandoz d.d. Latvia filiāle K.Valdemāra 33 - 29 LV1010 Rīga Tel: +371 67892006
+Sandoz d.d. Latvia filiāle K.Valdemāra 33 - 29 LV-1010 Rīga Tel: +371 67892006
+
+<div style=\"page-break-after: always\"></div>
 
 ## This leaflet was last revised in
 
 ## Other sources of information
 
 Detailed information on this medicine product is available on the European Medicines Agency web site: http://www.ema.europa.eu/.
-
-## Slovenija
-
-Lek farmacevtska družba d.d. Verovškova 57 SI-1526 Ljubljana Tel: +386 1 580 21 11
-
-Info.lek@sandoz.com
-
-## Slovenská republika
-
-Sandoz d.d. organizačná zložka Žižkova 22B 811 02 Bratislava Tel: +421 2 48 200 600 sk.regulatory@sandoz.com
-
-## Suomi/Finland
-
-Sandoz A/S Edvard Thomsens Vej 14 DK-2300 Kööpenhamina S Tanska Puh: + 358 010 6133 400 info.suomi@sandoz.com
-
-## Sverige
-
-Sandoz A/S DK-2300 Köpenhamn S
-
-Edvard Thomsens Vej 14 Danmark Tel: +45 6395 1000 info.sverige@sandoz.com
-
-## United Kingdom (Northern Ireland)
-
-Sandoz Pharmaceuticals d.d. Verovskova 57 SI-1000 Ljubljana Slovenia
-
-Tel: +43 5338 2000

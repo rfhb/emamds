@@ -1,18 +1,18 @@
 ---
-document_datetime: 2025-02-14 13:36:51
+document_datetime: 2026-01-21 15:31:51
 document_pages: 177
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/lyumjev-epar-product-information_en.pdf
 document_name: lyumjev-epar-product-information_en.pdf
 version: success
-processing_time: 40.0069923
-conversion_datetime: 2025-12-24 23:34:54.476005
+processing_time: 40.9761844
+conversion_datetime: 2026-01-22 21:29:24.981867
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.66.0
-  docling-core: 2.57.0
+  docling-serve: 1.10.0
+  docling-jobkit: 1.8.1
+  docling: 2.69.0
+  docling-core: 2.60.0
   docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-parse: 4.7.3
   python: cpython-313 (3.13.11)
   plaform: macOS-26.2-arm64-arm-64bit-Mach-O
 ---
@@ -831,7 +831,7 @@ Any unused medicinal product or waste material should be disposed of in accordan
 
 ## 7. MARKETING AUTHORISATION HOLDER
 
-Eli Lilly Nederland B.V. Papendorpseweg 83 3528 BJ Utrecht The Netherlands
+Eli Lilly Nederland B.V. Orteliuslaan 1000 3528 BD Utrecht The Netherlands
 
 ## 8. MARKETING AUTHORISATION NUMBER(S)
 
@@ -843,15 +843,23 @@ EU/1/20/1422/001 EU/1/20/1422/002 EU/1/20/1422/003 EU/1/20/1422/004 EU/1/20/1422
 
 EU/1/20/1422/017
 
-## 9. DATE OF FIRST AUTHORISATION/RENEWAL OF THE AUTHORISATION
+9.
+
+DATE OF FIRST AUTHORISATION/RENEWAL OF THE AUTHORISATION
 
 Date of first authorisation: 24 March 2020
 
-Date of latest renewal:
+Date of latest renewal: 13 January 2025
 
-## 10. DATE OF REVISION OF THE TEXT
+10.
 
-Detailed information on this medicinal product is available on the website of the European Medicines Agency https://www.ema.europa.eu.
+DATE OF REVISION OF THE TEXT
+
+Detailed information on this medicinal product is available on the website of the European Medicines
+
+Agency https://www.ema.europa.eu.
+
+23
 
 <div style=\"page-break-after: always\"></div>
 
@@ -1456,9 +1464,7 @@ Any unused medicinal product or waste material should be disposed of in accordan
 
 ## 7. MARKETING AUTHORISATION HOLDER
 
-Eli Lilly Nederland B.V.
-
-Papendorpseweg 83 3528 BJ Utrecht The Netherlands.
+Eli Lilly Nederland B.V. Orteliuslaan 1000 3528 BD Utrecht The Netherlands.
 
 ## 8. MARKETING AUTHORISATION NUMBER(S)
 
@@ -1468,11 +1474,15 @@ EU/1/20/1422/013 EU/1/20/1422/014 EU/1/20/1422/015
 
 Date of first authorisation: 24 March 2020
 
-Date of latest renewal:
+Date of latest renewal: 13 January 2025
 
 ## 10. DATE OF REVISION OF THE TEXT
 
-Detailed information on this medicinal product is available on the website of the European Medicines Agency https://www.ema.europa.eu.
+Detailed information on this medicinal product is available on the website of the European Medicines
+
+Agency https://www.ema.europa.eu.
+
+39
 
 <div style=\"page-break-after: always\"></div>
 
@@ -1588,7 +1598,11 @@ After first use: Do not store above 30 °C. Discard after 28 days.
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
-Eli Lilly Nederland B.V. Papendorpseweg 83, 3528 BJ Utrecht
+Eli Lilly Nederland B.V.
+
+Orteliuslaan 1000,
+
+3528 BD Utrecht
 
 The Netherlands
 
@@ -1683,7 +1697,9 @@ After first use: Do not store above 30 °C. Discard after 28 days.
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
-Eli Lilly Nederland B.V. Papendorpseweg 83, 3528 BJ Utrecht The Netherlands
+Eli Lilly Nederland B.V. Orteliuslaan 1000, 3528 BD Utrecht
+
+The Netherlands
 
 ## 12. MARKETING AUTHORISATION NUMBER
 
@@ -1694,7 +1710,9 @@ EU/1/20/1422/003
 Lot
 
 14. GENERAL CLASSIFICATION FOR SUPPLY
+
 15. INSTRUCTIONS ON USE
+
 16. INFORMATION IN BRAILLE
 
 Lyumjev 100 units/mL
@@ -1769,9 +1787,7 @@ After first use: Do not store above 30 °C. Discard after 28 days.
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
-Eli Lilly Nederland B.V. Papendorpseweg 83, 3528 BJ Utrecht
-
-The Netherlands
+Eli Lilly Nederland B.V. Orteliuslaan 1000, 3528 BD Utrecht The Netherlands
 
 ## 12. MARKETING AUTHORISATION NUMBER
 
@@ -1894,9 +1910,9 @@ Discard after 28 days.
 
 Eli Lilly Nederland B.V.
 
-Papendorpseweg 83,
+Orteliuslaan 1000,
 
-3528 BJ Utrecht
+3528 BD Utrecht
 
 The Netherlands
 
@@ -2036,9 +2052,9 @@ Discard after 28 days.
 
 Eli Lilly Nederland B.V.
 
-Papendorpseweg 83,
+Orteliuslaan 1000,
 
-3528 BJ Utrecht
+3528 BD Utrecht
 
 The Netherlands
 
@@ -2048,9 +2064,7 @@ EU/1/20/1422/007
 
 2 pens
 
-EU/1/20/1422/008
-
-5 pens
+EU/1/20/1422/008 5 pens
 
 ## 13. BATCH NUMBER
 
@@ -2146,9 +2160,9 @@ Discard after 28 days
 
 Eli Lilly Nederland B.V.
 
-Papendorpseweg 83,
+Orteliuslaan 1000,
 
-3528 BJ Utrecht
+3528 BD Utrecht
 
 The Netherlands
 
@@ -2250,9 +2264,9 @@ Discard after 28 days.
 
 Eli Lilly Nederland B.V.
 
-Papendorpseweg 83,
+Orteliuslaan 1000,
 
-3528 BJ Utrecht
+3528 BD Utrecht
 
 The Netherlands
 
@@ -2374,9 +2388,9 @@ Discard after 28 days.
 
 Eli Lilly Nederland B.V.
 
-Papendorpseweg 83,
+Orteliuslaan 1000,
 
-3528 BJ Utrecht
+3528 BD Utrecht
 
 The Netherlands
 
@@ -2483,9 +2497,9 @@ Discard after 28 days.
 
 Eli Lilly Nederland B.V.
 
-Papendorpseweg 83,
+Orteliuslaan 1000,
 
-3528 BJ Utrecht
+3528 BD Utrecht
 
 The Netherlands
 
@@ -2588,9 +2602,9 @@ Discard after 28 days
 
 Eli Lilly Nederland B.V.
 
-Papendorpseweg 83,
+Orteliuslaan 1000,
 
-3528 BJ Utrecht
+3528 BD Utrecht
 
 The Netherlands
 
@@ -2682,8 +2696,6 @@ Keep out of the sight and reach of children.
 
 EXP
 
-<div style=\"page-break-after: always\"></div>
-
 ## 9. SPECIAL STORAGE CONDITIONS
 
 Before use:
@@ -2710,9 +2722,9 @@ Discard after 28 days.
 
 Eli Lilly Nederland B.V.
 
-Papendorpseweg 83,
+Orteliuslaan 1000,
 
-3528 BJ Utrecht
+3528 BD Utrecht
 
 The Netherlands
 
@@ -2737,6 +2749,8 @@ Lyumjev 100 units/mL Tempo Pen
 ## 17. UNIQUE IDENTIFIER - 2D BARCODE
 
 2D barcode carrying the unique identifier included.
+
+<div style=\"page-break-after: always\"></div>
 
 <div style=\"page-break-after: always\"></div>
 
@@ -2815,9 +2829,9 @@ Discard after 28 days.
 
 Eli Lilly Nederland B.V.
 
-Papendorpseweg 83,
+Orteliuslaan 1000,
 
-3528 BJ Utrecht
+3528 BD Utrecht
 
 The Netherlands
 
@@ -2918,9 +2932,9 @@ Discard after 28 days.
 
 Eli Lilly Nederland B.V.
 
-Papendorpseweg 83,
+Orteliuslaan 1000,
 
-3528 BJ Utrecht
+3528 BD Utrecht
 
 The Netherlands
 
@@ -3044,9 +3058,9 @@ Discard after 28 days
 
 Eli Lilly Nederland B.V.
 
-Papendorpseweg 83,
+Orteliuslaan 1000,
 
-3528 BJ Utrecht
+3528 BD Utrecht
 
 The Netherlands
 
@@ -3153,9 +3167,9 @@ Discard after 28 days.
 
 Eli Lilly Nederland B.V.
 
-Papendorpseweg 83,
+Orteliuslaan 1000,
 
-3528 BJ Utrecht
+3528 BD Utrecht
 
 The Netherlands
 
@@ -3258,9 +3272,9 @@ Discard after 28 days.
 
 Eli Lilly Nederland B.V.
 
-Papendorpseweg 83,
+Orteliuslaan 1000,
 
-3528 BJ Utrecht
+3528 BD Utrecht
 
 The Netherlands
 
@@ -3675,7 +3689,7 @@ Not all pack sizes may be marketed.
 
 ## Marketing Authorisation Holder
 
-Eli Lilly Nederland B.V. Papendorpseweg 83 3528 BJ Utrecht
+Eli Lilly Nederland B.V. Orteliuslaan 1000 3528 BD Utrecht
 
 The Netherlands
 
@@ -3723,7 +3737,7 @@ Tel.: + 36 1 328 5100
 
 Eli Lilly Danmark A/S
 
-Tlf: +45 45 26 6000
+Tlf.: +45 45 26 6000
 
 ## Malta
 
@@ -3749,7 +3763,7 @@ Tel:
 
 ## Ελλάδα
 
-ΦΑΡΜΑΣΕΡΒ - ΛΙΛΛΥ Α.Ε.Β.Ε.
+ΦΑΡΜΑΣΕΡΒ -ΛΙΛΛΥ Α.Ε.Β.Ε.
 
 Τηλ
 
@@ -4244,7 +4258,7 @@ Not all pack sizes may be marketed.
 
 ## Marketing Authorisation Holder
 
-Eli Lilly Nederland B.V. Papendorpseweg 83 3528 BJ Utrecht The Netherlands
+Eli Lilly Nederland B.V. Orteliuslaan 1000 3528 BD Utrecht The Netherlands
 
 ## Manufacturer
 
@@ -4334,9 +4348,7 @@ Tel: +385 1 2350 999
 
 ## Ireland
 
-Eli Lilly and Company (Ireland) Limited
-
-Tel: + 353-(0) 1 661 4377
+Eli Lilly and Company (Ireland) Limited Tel: + 353-(0) 1 661 4377
 
 ## Ísland
 
@@ -4811,11 +4823,13 @@ Each Lyumjev KwikPen delivers 1 to 60 units in steps of 1 unit in a single injec
 
 ## Marketing Authorisation Holder
 
-Eli Lilly Nederland B.V. Papendorpseweg 83 3528 BJ Utrecht The Netherlands
+Eli Lilly Nederland B.V. Orteliuslaan 1000 3528 BD Utrecht The Netherlands
 
 ## Manufacturer
 
-Lilly France Rue du Colonel Lilly 67640 Fegersheim France
+Lilly France Rue du Colonel Lilly 67640 Fegersheim
+
+France
 
 <div style=\"page-break-after: always\"></div>
 
@@ -4837,9 +4851,7 @@ Tel: + 420 234 664 111
 
 ## Danmark
 
-Eli Lilly Danmark A/S
-
-Tlf.: +45 45 26 6000
+Eli Lilly Danmark A/S Tlf.: +45 45 26 6000
 
 ## Deutschland
 
@@ -5555,7 +5567,9 @@ The Lyumjev Junior KwikPen is taupe. The dose knob is peach with raised ridges o
 
 ## Marketing Authorisation Holder
 
-Eli Lilly Nederland B.V. Papendorpseweg 83 3528 BJ Utrecht The Netherlands
+Eli Lilly Nederland B.V. Orteliuslaan 1000 3528 BD Utrecht
+
+The Netherlands
 
 ## Manufacturer
 
@@ -5647,9 +5661,7 @@ Eli Lilly Nederland B.V. Tel: + 31-(0) 30 60 25 800
 
 ## Norge
 
-Eli Lilly Norge A.S.
-
-Tlf: + 47 22 88 18 00
+Eli Lilly Norge A.S. Tlf: + 47 22 88 18 00
 
 ## Österreich
 
@@ -6068,6 +6080,7 @@ Your doctor will work out your dose based on your blood sugar and body weight an
 - Inject under the skin (subcutaneous injection), as you were taught by your physician or nurse.
 - After your injection, leave the needle in the skin for 5 seconds to make sure you receive the full dose. Make sure you inject at least 1 cm from the last injection and that you 'rotate' the places you inject (upper arm, thigh, buttocks or abdomen).
 - If you do not have enough insulin in the pen to complete your dose, make a note of how much you still need to take. Prime a new pen and inject the remaining dose.
+- •
 - If you need to inject another insulin at the same time as Lyumjev, use a different injection site.
 - Do not inject directly into a vein.
 
@@ -6260,17 +6273,11 @@ Each Lyumjev Tempo Pen delivers 1 to 60 units in steps of 1 unit in a single inj
 
 ## Marketing Authorisation Holder
 
-Eli Lilly Nederland B.V.
-
-Papendorpseweg 83 3528 BJ Utrecht
-
-The Netherlands
+Eli Lilly Nederland B.V. Orteliuslaan 1000 3528 BD Utrecht The Netherlands
 
 ## Manufacturer
 
-Lilly France Rue du Colonel Lilly 67640 Fegersheim
-
-France
+Lilly France Rue du Colonel Lilly 67640 Fegersheim France
 
 For any information about this medicine, please contact the local representative of the Marketing Authorisation Holder:
 
@@ -6324,9 +6331,7 @@ Tél: +33-(0) 1 55 49 34 34
 
 ## Hrvatska
 
-Eli Lilly Hrvatska d.o.o.
-
-Tel: +385 1 2350 999
+Eli Lilly Hrvatska d.o.o. Tel: +385 1 2350 999
 
 ## Ireland
 
@@ -6354,9 +6359,7 @@ Tel: + 356 25600 500
 
 ## Nederland
 
-Eli Lilly Nederland B.V.
-
-Tel: + 31-(0) 30 60 25 800
+Eli Lilly Nederland B.V. Tel: + 31-(0) 30 60 25 800
 
 ## Norge
 
@@ -6370,9 +6373,7 @@ Tel: + 43-(0) 1 711 780
 
 ## Polska
 
-Eli Lilly Polska Sp. z o.o.
-
-Tel: +48 22 440 33 00
+Eli Lilly Polska Sp. z o.o. Tel: +48 22 440 33 00
 
 ## Portugal
 
@@ -6929,7 +6930,8 @@ Low blood sugar (hypoglycaemia) means there is not enough sugar in the blood. Th
 - you exercise or work too hard just before or after a meal;
 - you have an infection or illness (especially diarrhoea or vomiting);
 - there is a change in your need for insulin for example if you lose weight; or you have trouble with your kidneys or liver which gets worse.
-- See section 'If you use more Lyumjev than you should'
+
+See section 'If you use more Lyumjev than you should'
 
 The first symptoms of low blood sugar usually come on quickly and include the following:
 
@@ -7031,7 +7033,7 @@ Each Lyumjev 200 units/ml KwikPen delivers 1 to 60 units in steps of 1 unit in a
 
 Eli Lilly Nederland B.V.
 
-Papendorpseweg 83 3528 BJ Utrecht
+Orteliuslaan 1000 3528 BD Utrecht
 
 The Netherlands
 
@@ -7111,9 +7113,7 @@ Tel: + 356 25600 500
 
 ## Nederland
 
-Eli Lilly Nederland B.V.
-
-Tel: + 31-(0) 30 60 25 800
+Eli Lilly Nederland B.V. Tel: + 31-(0) 30 60 25 800
 
 ## Norge
 

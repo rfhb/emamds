@@ -1,18 +1,18 @@
 ---
-document_datetime: 2025-12-29 08:00:08
+document_datetime: 2026-01-21 15:35:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/epidyolex.html
 document_name: epidyolex.html
 version: success
-processing_time: 0.1275573
-conversion_datetime: 2025-12-30 22:52:17.116921
+processing_time: 0.1300486
+conversion_datetime: 2026-01-22 21:26:27.052152
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.66.0
-  docling-core: 2.57.0
+  docling-serve: 1.10.0
+  docling-jobkit: 1.8.1
+  docling: 2.69.0
+  docling-core: 2.60.0
   docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-parse: 4.7.3
   python: cpython-313 (3.13.11)
   plaform: macOS-26.2-arm64-arm-64bit-Mach-O
 ---
@@ -25,8 +25,6 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 cannabidiol Medicine Human Authorised
-
-On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -110,7 +108,7 @@ English (EN) (128.17 KB - PDF)
 
 [View](/en/documents/overview/epidyolex-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-836)
+[Other languages (22)](#file-language-dropdown-258)
 
 български (BG) (145.17 KB - PDF)
 
@@ -398,7 +396,7 @@ English (EN) (1.39 MB - PDF)
 
 [View](/en/documents/product-information/epidyolex-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-450)
+[Other languages (24)](#file-language-dropdown-117)
 
 български (BG) (1.35 MB - PDF)
 
@@ -714,7 +712,7 @@ English (EN) (64.06 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/epidyolex-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-943)
+[Other languages (24)](#file-language-dropdown-994)
 
 български (BG) (43.23 KB - PDF)
 
@@ -1035,7 +1033,7 @@ Jazz Pharmaceuticals Ireland Limited
 
 Fifth Floor Waterloo Exchange
 
-Opinion adopted 25/07/2019 Marketing authorisation issued 19/09/2019 Revision 18
+Opinion adopted 25/07/2019 Marketing authorisation issued 19/09/2019 Revision 19
 
 ## Assessment history
 
@@ -1062,6 +1060,18 @@ English (EN) (150.6 KB - PDF)
 **Last updated:** 23/05/2025
 
 [View](/en/documents/procedural-steps-after/epidyolex-epar-procedural-steps-taken-scientific-information-after-authorisation-archive_en.pdf)
+
+Epidyolex-PAM-0000291080 : EPAR - Assessment report
+
+Adopted
+
+Reference Number: EMADOC-1700519818-2837424
+
+English (EN) (654.23 KB - PDF)
+
+**First published:** 21/01/2026
+
+[View](/en/documents/variation-report/epidyolex-pam-0000291080-epar-assessment-report_en.pdf)
 
 Epidyolex-H-C-4675-II-0020 : EPAR - Assessment report
 
@@ -1232,7 +1242,7 @@ English (EN) (103.82 KB - PDF)
 
 - [Medicines](https://www.ema.europa.eu/en/search?f%5B0%5D=ema_search_topics%3A61)
 
-**This page was last updated on** 23/05/2025
+**This page was last updated on** 21/01/2026
 
 ## Share this page
 

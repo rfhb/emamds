@@ -1,18 +1,18 @@
 ---
-document_datetime: 2025-12-29 08:21:47
+document_datetime: 2026-01-21 16:20:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/abasaglar.html
 document_name: abasaglar.html
 version: success
-processing_time: 0.1045834
-conversion_datetime: 2025-12-30 11:52:29.146723
+processing_time: 0.1342317
+conversion_datetime: 2026-01-22 21:25:45.905312
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.66.0
-  docling-core: 2.57.0
+  docling-serve: 1.10.0
+  docling-jobkit: 1.8.1
+  docling: 2.69.0
+  docling-core: 2.60.0
   docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-parse: 4.7.3
   python: cpython-313 (3.13.11)
   plaform: macOS-26.2-arm64-arm-64bit-Mach-O
 ---
@@ -26,8 +26,6 @@ This medicine is authorised for use in the European Union
 
 insulin glargine Medicine Human Authorised
 
-On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
-
 Page contents
 
 ## Page contents
@@ -38,6 +36,7 @@ Page contents
 - [Authorisation details](#authorisation-details)
 - [Assessment history](#assessment-history)
 - [News on Abasaglar (previously Abasria)](#news-on)
+- [Product information - with tracked changes](#product-information-with-tracked-changes-82977)
 - [Related content](#related-content-439)
 - [Topics](#topics)
 
@@ -119,7 +118,7 @@ English (EN) (124.21 KB - PDF)
 
 [View](/en/documents/overview/abasaglar-previously-abasria-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-961)
+[Other languages (22)](#file-language-dropdown-875)
 
 български (BG) (149.45 KB - PDF)
 
@@ -399,17 +398,17 @@ English (EN) (46.03 KB - PDF)
 
 Abasaglar : EPAR - Product Information
 
-English (EN) (1.67 MB - PDF)
+English (EN) (1.69 MB - PDF)
 
 **First published:** 14/10/2014
 
-**Last updated:** 24/09/2021
+**Last updated:** 21/01/2026
 
 [View](/en/documents/product-information/abasaglar-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-130)
+[Other languages (24)](#file-language-dropdown-302)
 
-български (BG) (1.35 MB - PDF)
+български (BG) (2.41 MB - PDF)
 
 **First published:**
 
@@ -417,11 +416,11 @@ English (EN) (1.67 MB - PDF)
 
 **Last updated:**
 
-24/09/2021
+21/01/2026
 
 [View](/bg/documents/product-information/abasaglar-epar-product-information_bg.pdf)
 
-español (ES) (1.59 MB - PDF)
+español (ES) (2.03 MB - PDF)
 
 **First published:**
 
@@ -429,11 +428,11 @@ español (ES) (1.59 MB - PDF)
 
 **Last updated:**
 
-24/09/2021
+21/01/2026
 
 [View](/es/documents/product-information/abasaglar-epar-product-information_es.pdf)
 
-čeština (CS) (1.8 MB - PDF)
+čeština (CS) (2.34 MB - PDF)
 
 **First published:**
 
@@ -441,11 +440,11 @@ español (ES) (1.59 MB - PDF)
 
 **Last updated:**
 
-24/09/2021
+21/01/2026
 
 [View](/cs/documents/product-information/abasaglar-epar-product-information_cs.pdf)
 
-dansk (DA) (1.49 MB - PDF)
+dansk (DA) (2.08 MB - PDF)
 
 **First published:**
 
@@ -453,11 +452,11 @@ dansk (DA) (1.49 MB - PDF)
 
 **Last updated:**
 
-24/09/2021
+21/01/2026
 
 [View](/da/documents/product-information/abasaglar-epar-product-information_da.pdf)
 
-Deutsch (DE) (1.63 MB - PDF)
+Deutsch (DE) (2.01 MB - PDF)
 
 **First published:**
 
@@ -465,11 +464,11 @@ Deutsch (DE) (1.63 MB - PDF)
 
 **Last updated:**
 
-24/09/2021
+21/01/2026
 
 [View](/de/documents/product-information/abasaglar-epar-product-information_de.pdf)
 
-eesti keel (ET) (1.5 MB - PDF)
+eesti keel (ET) (2.05 MB - PDF)
 
 **First published:**
 
@@ -477,11 +476,11 @@ eesti keel (ET) (1.5 MB - PDF)
 
 **Last updated:**
 
-24/09/2021
+21/01/2026
 
 [View](/et/documents/product-information/abasaglar-epar-product-information_et.pdf)
 
-ελληνικά (EL) (1.92 MB - PDF)
+ελληνικά (EL) (1.72 MB - PDF)
 
 **First published:**
 
@@ -489,11 +488,11 @@ eesti keel (ET) (1.5 MB - PDF)
 
 **Last updated:**
 
-24/09/2021
+21/01/2026
 
 [View](/el/documents/product-information/abasaglar-epar-product-information_el.pdf)
 
-français (FR) (1.64 MB - PDF)
+français (FR) (1.98 MB - PDF)
 
 **First published:**
 
@@ -501,11 +500,11 @@ français (FR) (1.64 MB - PDF)
 
 **Last updated:**
 
-24/09/2021
+21/01/2026
 
 [View](/fr/documents/product-information/abasaglar-epar-product-information_fr.pdf)
 
-hrvatski (HR) (1.66 MB - PDF)
+hrvatski (HR) (2.05 MB - PDF)
 
 **First published:**
 
@@ -513,11 +512,11 @@ hrvatski (HR) (1.66 MB - PDF)
 
 **Last updated:**
 
-24/09/2021
+21/01/2026
 
 [View](/hr/documents/product-information/abasaglar-epar-product-information_hr.pdf)
 
-íslenska (IS) (1.42 MB - PDF)
+íslenska (IS) (2 MB - PDF)
 
 **First published:**
 
@@ -525,11 +524,11 @@ hrvatski (HR) (1.66 MB - PDF)
 
 **Last updated:**
 
-24/09/2021
+21/01/2026
 
 [View](/is/documents/product-information/abasaglar-epar-product-information_is.pdf)
 
-italiano (IT) (1.64 MB - PDF)
+italiano (IT) (2.01 MB - PDF)
 
 **First published:**
 
@@ -537,11 +536,11 @@ italiano (IT) (1.64 MB - PDF)
 
 **Last updated:**
 
-24/09/2021
+21/01/2026
 
 [View](/it/documents/product-information/abasaglar-epar-product-information_it.pdf)
 
-latviešu valoda (LV) (1.76 MB - PDF)
+latviešu valoda (LV) (2.21 MB - PDF)
 
 **First published:**
 
@@ -549,11 +548,11 @@ latviešu valoda (LV) (1.76 MB - PDF)
 
 **Last updated:**
 
-24/09/2021
+21/01/2026
 
 [View](/lv/documents/product-information/abasaglar-epar-product-information_lv.pdf)
 
-lietuvių kalba (LT) (1.82 MB - PDF)
+lietuvių kalba (LT) (2.28 MB - PDF)
 
 **First published:**
 
@@ -561,11 +560,11 @@ lietuvių kalba (LT) (1.82 MB - PDF)
 
 **Last updated:**
 
-24/09/2021
+21/01/2026
 
 [View](/lt/documents/product-information/abasaglar-epar-product-information_lt.pdf)
 
-magyar (HU) (1.71 MB - PDF)
+magyar (HU) (2.18 MB - PDF)
 
 **First published:**
 
@@ -573,11 +572,11 @@ magyar (HU) (1.71 MB - PDF)
 
 **Last updated:**
 
-24/09/2021
+21/01/2026
 
 [View](/hu/documents/product-information/abasaglar-epar-product-information_hu.pdf)
 
-Malti (MT) (1.77 MB - PDF)
+Malti (MT) (2.33 MB - PDF)
 
 **First published:**
 
@@ -585,11 +584,11 @@ Malti (MT) (1.77 MB - PDF)
 
 **Last updated:**
 
-24/09/2021
+21/01/2026
 
 [View](/mt/documents/product-information/abasaglar-epar-product-information_mt.pdf)
 
-Nederlands (NL) (1.68 MB - PDF)
+Nederlands (NL) (2.23 MB - PDF)
 
 **First published:**
 
@@ -597,11 +596,11 @@ Nederlands (NL) (1.68 MB - PDF)
 
 **Last updated:**
 
-24/09/2021
+21/01/2026
 
 [View](/nl/documents/product-information/abasaglar-epar-product-information_nl.pdf)
 
-norsk (NO) (1.52 MB - PDF)
+norsk (NO) (1.43 MB - PDF)
 
 **First published:**
 
@@ -609,11 +608,11 @@ norsk (NO) (1.52 MB - PDF)
 
 **Last updated:**
 
-24/09/2021
+21/01/2026
 
 [View](/no/documents/product-information/abasaglar-epar-product-information_no.pdf)
 
-polski (PL) (1.82 MB - PDF)
+polski (PL) (1.46 MB - PDF)
 
 **First published:**
 
@@ -621,11 +620,11 @@ polski (PL) (1.82 MB - PDF)
 
 **Last updated:**
 
-24/09/2021
+21/01/2026
 
 [View](/pl/documents/product-information/abasaglar-epar-product-information_pl.pdf)
 
-português (PT) (1.45 MB - PDF)
+português (PT) (1.86 MB - PDF)
 
 **First published:**
 
@@ -633,11 +632,11 @@ português (PT) (1.45 MB - PDF)
 
 **Last updated:**
 
-24/09/2021
+21/01/2026
 
 [View](/pt/documents/product-information/abasaglar-epar-product-information_pt.pdf)
 
-română (RO) (1.17 MB - PDF)
+română (RO) (3.15 MB - PDF)
 
 **First published:**
 
@@ -645,11 +644,11 @@ română (RO) (1.17 MB - PDF)
 
 **Last updated:**
 
-24/09/2021
+21/01/2026
 
 [View](/ro/documents/product-information/abasaglar-epar-product-information_ro.pdf)
 
-slovenčina (SK) (1.81 MB - PDF)
+slovenčina (SK) (2.22 MB - PDF)
 
 **First published:**
 
@@ -657,11 +656,11 @@ slovenčina (SK) (1.81 MB - PDF)
 
 **Last updated:**
 
-24/09/2021
+21/01/2026
 
 [View](/sk/documents/product-information/abasaglar-epar-product-information_sk.pdf)
 
-slovenščina (SL) (1.55 MB - PDF)
+slovenščina (SL) (2 MB - PDF)
 
 **First published:**
 
@@ -669,11 +668,11 @@ slovenščina (SL) (1.55 MB - PDF)
 
 **Last updated:**
 
-24/09/2021
+21/01/2026
 
 [View](/sl/documents/product-information/abasaglar-epar-product-information_sl.pdf)
 
-Suomi (FI) (1.62 MB - PDF)
+Suomi (FI) (2.24 MB - PDF)
 
 **First published:**
 
@@ -681,11 +680,11 @@ Suomi (FI) (1.62 MB - PDF)
 
 **Last updated:**
 
-24/09/2021
+21/01/2026
 
 [View](/fi/documents/product-information/abasaglar-epar-product-information_fi.pdf)
 
-svenska (SV) (1.41 MB - PDF)
+svenska (SV) (1.47 MB - PDF)
 
 **First published:**
 
@@ -693,11 +692,11 @@ svenska (SV) (1.41 MB - PDF)
 
 **Last updated:**
 
-24/09/2021
+21/01/2026
 
 [View](/sv/documents/product-information/abasaglar-epar-product-information_sv.pdf)
 
-**Latest procedure affecting product information:** N/0037 10/09/2021
+**Latest procedure affecting product information:** VR/0000315488 21/01/2026
 
 icon globe
 
@@ -723,7 +722,7 @@ English (EN) (16.94 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/abasaglar-previously-abasria-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-371)
+[Other languages (24)](#file-language-dropdown-477)
 
 български (BG) (99.8 KB - PDF)
 
@@ -1037,9 +1036,9 @@ Marketing authorisation holder
 
 Eli Lilly Nederland B.V.
 
-Papendorpseweg 83
+Orteliuslaan 1000 3528 BD Utrecht Netherlands
 
-Opinion adopted 26/06/2014 Marketing authorisation issued 09/09/2014 Revision 12
+Opinion adopted 26/06/2014 Marketing authorisation issued 09/09/2014 Revision 13
 
 ## Assessment history
 
@@ -1049,15 +1048,23 @@ Collapse section
 
 ## Changes since initial authorisation of medicine
 
-Abasaglar (previously Abasria) : EPAR - Procedural steps taken and scientific information after authorisation
+Abasaglar : EPAR - Procedural steps taken and scientific information after authorisation
+
+English (EN) (178.2 KB - PDF)
+
+**First published:** 21/01/2026
+
+[View](/en/documents/procedural-steps-after/abasaglar-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf)
+
+Abasaglar (previously Abasria) : EPAR - Procedural steps taken and scientific information after authorisation (archive)
 
 English (EN) (182.76 KB - PDF)
 
 **First published:** 20/01/2015
 
-**Last updated:** 24/09/2021
+**Last updated:** 21/01/2026
 
-[View](/en/documents/procedural-steps-after/abasaglar-previously-abasria-epar-procedural-steps-taken-and-scientific-information-after-authorisation_en.pdf)
+[View](/en/documents/procedural-steps-after/abasaglar-previously-abasria-epar-procedural-steps-taken-scientific-information-after-authorisation-archive_en.pdf)
 
 Abasaglar (previously Abasria)-H-C-PSUSA-00001751-201904 : EPAR - Scientific conclusions and grounds for the variation to the terms of the marketing authorisation
 
@@ -1103,6 +1110,212 @@ English (EN) (69.1 KB - PDF)
 
 [Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 23-26 June 2014](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-23-26-june-2014) 27/06/2014
 
+#### Product information - with tracked changes
+
+The approved product information for this medicine is available below showing the changes since the previous procedure affecting the product information. The same document without tracked changes is above under 'Product information'.
+
+Abasaglar : EPAR - Product information - tracked changes
+
+English (EN) (1.3 MB - DOCX)
+
+**First published:** 21/01/2026
+
+[View](/en/documents/product-information-tracked-changes/abasaglar-epar-product-information-tracked-changes_en.docx)
+
+[Other languages (24)](#file-language-dropdown-211)
+
+български (BG) (1.28 MB - DOCX)
+
+**First published:**
+
+21/01/2026
+
+[View](/bg/documents/product-information-tracked-changes/abasaglar-epar-product-information-tracked-changes_bg.docx)
+
+español (ES) (2.21 MB - DOC)
+
+**First published:**
+
+21/01/2026
+
+[View](/es/documents/product-information-tracked-changes/abasaglar-epar-product-information-tracked-changes_es.doc)
+
+čeština (CS) (1.41 MB - DOCX)
+
+**First published:**
+
+21/01/2026
+
+[View](/cs/documents/product-information-tracked-changes/abasaglar-epar-product-information-tracked-changes_cs.docx)
+
+dansk (DA) (2.21 MB - DOC)
+
+**First published:**
+
+21/01/2026
+
+[View](/da/documents/product-information-tracked-changes/abasaglar-epar-product-information-tracked-changes_da.doc)
+
+Deutsch (DE) (2.06 MB - DOC)
+
+**First published:**
+
+21/01/2026
+
+[View](/de/documents/product-information-tracked-changes/abasaglar-epar-product-information-tracked-changes_de.doc)
+
+eesti keel (ET) (918.12 KB - DOCX)
+
+**First published:**
+
+21/01/2026
+
+[View](/et/documents/product-information-tracked-changes/abasaglar-epar-product-information-tracked-changes_et.docx)
+
+ελληνικά (EL) (2.38 MB - DOC)
+
+**First published:**
+
+21/01/2026
+
+[View](/el/documents/product-information-tracked-changes/abasaglar-epar-product-information-tracked-changes_el.doc)
+
+français (FR) (2.06 MB - DOC)
+
+**First published:**
+
+21/01/2026
+
+[View](/fr/documents/product-information-tracked-changes/abasaglar-epar-product-information-tracked-changes_fr.doc)
+
+hrvatski (HR) (1.26 MB - DOCX)
+
+**First published:**
+
+21/01/2026
+
+[View](/hr/documents/product-information-tracked-changes/abasaglar-epar-product-information-tracked-changes_hr.docx)
+
+íslenska (IS) (1.79 MB - DOC)
+
+**First published:**
+
+21/01/2026
+
+[View](/is/documents/product-information-tracked-changes/abasaglar-epar-product-information-tracked-changes_is.doc)
+
+italiano (IT) (2.09 MB - DOC)
+
+**First published:**
+
+21/01/2026
+
+[View](/it/documents/product-information-tracked-changes/abasaglar-epar-product-information-tracked-changes_it.doc)
+
+latviešu valoda (LV) (2.75 MB - DOC)
+
+**First published:**
+
+21/01/2026
+
+[View](/lv/documents/product-information-tracked-changes/abasaglar-epar-product-information-tracked-changes_lv.doc)
+
+lietuvių kalba (LT) (1.23 MB - DOCX)
+
+**First published:**
+
+21/01/2026
+
+[View](/lt/documents/product-information-tracked-changes/abasaglar-epar-product-information-tracked-changes_lt.docx)
+
+magyar (HU) (1.54 MB - DOCX)
+
+**First published:**
+
+21/01/2026
+
+[View](/hu/documents/product-information-tracked-changes/abasaglar-epar-product-information-tracked-changes_hu.docx)
+
+Malti (MT) (1.04 MB - DOCX)
+
+**First published:**
+
+21/01/2026
+
+[View](/mt/documents/product-information-tracked-changes/abasaglar-epar-product-information-tracked-changes_mt.docx)
+
+Nederlands (NL) (1.37 MB - DOCX)
+
+**First published:**
+
+21/01/2026
+
+[View](/nl/documents/product-information-tracked-changes/abasaglar-epar-product-information-tracked-changes_nl.docx)
+
+norsk (NO) (1.31 MB - DOCX)
+
+**First published:**
+
+21/01/2026
+
+[View](/no/documents/product-information-tracked-changes/abasaglar-epar-product-information-tracked-changes_no.docx)
+
+polski (PL) (1.09 MB - DOCX)
+
+**First published:**
+
+21/01/2026
+
+[View](/pl/documents/product-information-tracked-changes/abasaglar-epar-product-information-tracked-changes_pl.docx)
+
+português (PT) (1.54 MB - DOCX)
+
+**First published:**
+
+21/01/2026
+
+[View](/pt/documents/product-information-tracked-changes/abasaglar-epar-product-information-tracked-changes_pt.docx)
+
+română (RO) (1.92 MB - DOC)
+
+**First published:**
+
+21/01/2026
+
+[View](/ro/documents/product-information-tracked-changes/abasaglar-epar-product-information-tracked-changes_ro.doc)
+
+slovenčina (SK) (1.43 MB - DOCX)
+
+**First published:**
+
+21/01/2026
+
+[View](/sk/documents/product-information-tracked-changes/abasaglar-epar-product-information-tracked-changes_sk.docx)
+
+slovenščina (SL) (1.13 MB - DOCX)
+
+**First published:**
+
+21/01/2026
+
+[View](/sl/documents/product-information-tracked-changes/abasaglar-epar-product-information-tracked-changes_sl.docx)
+
+Suomi (FI) (1.14 MB - DOCX)
+
+**First published:**
+
+21/01/2026
+
+[View](/fi/documents/product-information-tracked-changes/abasaglar-epar-product-information-tracked-changes_fi.docx)
+
+svenska (SV) (963.67 KB - DOCX)
+
+**First published:**
+
+21/01/2026
+
+[View](/sv/documents/product-information-tracked-changes/abasaglar-epar-product-information-tracked-changes_sv.docx)
+
 #### Related content
 
 - [Biosimilar medicines](/en/human-regulatory/overview/biosimilar-medicines)
@@ -1112,7 +1325,7 @@ English (EN) (69.1 KB - PDF)
 - [Biosimilars](https://www.ema.europa.eu/en/search?f%5B0%5D=ema_search_topics%3A45)
 - [Medicines](https://www.ema.europa.eu/en/search?f%5B0%5D=ema_search_topics%3A61)
 
-**This page was last updated on** 24/09/2021
+**This page was last updated on** 21/01/2026
 
 ## Share this page
 

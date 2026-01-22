@@ -1,18 +1,18 @@
 ---
-document_datetime: 2025-12-29 09:34:51
+document_datetime: 2026-01-20 16:16:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/poteligeo.html
 document_name: poteligeo.html
 version: success
-processing_time: 0.1115602
-conversion_datetime: 2025-12-30 03:02:40.705671
+processing_time: 0.1154504
+conversion_datetime: 2026-01-22 21:21:20.013624
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.66.0
-  docling-core: 2.57.0
+  docling-serve: 1.10.0
+  docling-jobkit: 1.8.1
+  docling: 2.69.0
+  docling-core: 2.60.0
   docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-parse: 4.7.3
   python: cpython-313 (3.13.11)
   plaform: macOS-26.2-arm64-arm-64bit-Mach-O
 ---
@@ -25,8 +25,6 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 mogamulizumab Medicine Human Authorised
-
-On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -100,7 +98,7 @@ English (EN) (75.31 KB - PDF)
 
 [View](/en/documents/overview/poteligeo-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-194)
+[Other languages (22)](#file-language-dropdown-736)
 
 български (BG) (99.75 KB - PDF)
 
@@ -278,13 +276,15 @@ svenska (SV) (72.62 KB - PDF)
 
 [View](/sv/documents/overview/poteligeo-epar-medicine-overview_sv.pdf)
 
-Poteligeo : EPAR - Risk-management-plan summary
+Poteligeo : EPAR - Risk management plan
 
-English (EN) (74.45 KB - PDF)
+English (EN) (704.58 KB - PDF)
 
 **First published:** 28/01/2019
 
-[View](/en/documents/rmp-summary/poteligeo-epar-risk-management-plan-summary_en.pdf)
+**Last updated:** 20/01/2026
+
+[View](/en/documents/rmp/poteligeo-epar-risk-management-plan_en.pdf)
 
 ## Product information
 
@@ -298,7 +298,7 @@ English (EN) (347.85 KB - PDF)
 
 [View](/en/documents/product-information/poteligeo-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-171)
+[Other languages (24)](#file-language-dropdown-58)
 
 български (BG) (487.36 KB - PDF)
 
@@ -614,7 +614,7 @@ English (EN) (32.64 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/poteligeo-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-656)
+[Other languages (24)](#file-language-dropdown-746)
 
 български (BG) (51.85 KB - PDF)
 
@@ -947,11 +947,11 @@ Collapse section
 
 Poteligeo : EPAR - Procedural steps taken and scientific information after authorisation
 
-English (EN) (184.46 KB - PDF)
+English (EN) (143.09 KB - PDF)
 
 **First published:** 21/05/2025
 
-**Last updated:** 24/07/2025
+**Last updated:** 20/01/2026
 
 [View](/en/documents/procedural-steps-after/poteligeo-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf)
 
@@ -1009,7 +1009,7 @@ English (EN) (69.75 KB - PDF)
 
 - [EU/3/16/1756 - orphan designation for treatment of cutaneous T-cell lymphoma](/en/medicines/human/orphan-designations/eu-3-16-1756)
 
-**This page was last updated on** 03/09/2025
+**This page was last updated on** 20/01/2026
 
 ## Share this page
 

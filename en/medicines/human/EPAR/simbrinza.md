@@ -1,18 +1,18 @@
 ---
-document_datetime: 2025-12-29 11:31:29
+document_datetime: 2026-01-23 16:50:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/simbrinza.html
 document_name: simbrinza.html
 version: success
-processing_time: 0.1175025
-conversion_datetime: 2025-12-30 10:24:05.03719
+processing_time: 0.1163263
+conversion_datetime: 2026-01-26 20:50:44.048815
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.66.0
-  docling-core: 2.57.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.10.0
+  docling-jobkit: 1.8.1
+  docling: 2.70.0
+  docling-core: 2.60.2
+  docling-ibm-models: 3.11.0
+  docling-parse: 4.7.3
   python: cpython-313 (3.13.11)
   plaform: macOS-26.2-arm64-arm-64bit-Mach-O
 ---
@@ -25,8 +25,6 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 brinzolamide / brimonidine tartrate Medicine Human Authorised
-
-On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -116,7 +114,7 @@ English (EN) (76.57 KB - PDF)
 
 [View](/en/documents/overview/simbrinza-epar-summary-public_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-907)
+[Other languages (22)](#file-language-dropdown-386)
 
 български (BG) (104.9 KB - PDF)
 
@@ -396,17 +394,17 @@ English (EN) (26.3 KB - PDF)
 
 Simbrinza : EPAR - Product Information
 
-English (EN) (373.43 KB - PDF)
+English (EN) (376.69 KB - PDF)
 
 **First published:** 31/07/2014
 
-**Last updated:** 02/09/2025
+**Last updated:** 23/01/2026
 
 [View](/en/documents/product-information/simbrinza-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-320)
+[Other languages (24)](#file-language-dropdown-362)
 
-български (BG) (518.44 KB - PDF)
+български (BG) (540.55 KB - PDF)
 
 **First published:**
 
@@ -414,11 +412,11 @@ English (EN) (373.43 KB - PDF)
 
 **Last updated:**
 
-02/09/2025
+23/01/2026
 
 [View](/bg/documents/product-information/simbrinza-epar-product-information_bg.pdf)
 
-español (ES) (385.91 KB - PDF)
+español (ES) (449.1 KB - PDF)
 
 **First published:**
 
@@ -426,11 +424,11 @@ español (ES) (385.91 KB - PDF)
 
 **Last updated:**
 
-02/09/2025
+23/01/2026
 
 [View](/es/documents/product-information/simbrinza-epar-product-information_es.pdf)
 
-čeština (CS) (464.57 KB - PDF)
+čeština (CS) (456.1 KB - PDF)
 
 **First published:**
 
@@ -438,11 +436,11 @@ español (ES) (385.91 KB - PDF)
 
 **Last updated:**
 
-02/09/2025
+23/01/2026
 
 [View](/cs/documents/product-information/simbrinza-epar-product-information_cs.pdf)
 
-dansk (DA) (403.4 KB - PDF)
+dansk (DA) (430.2 KB - PDF)
 
 **First published:**
 
@@ -450,11 +448,11 @@ dansk (DA) (403.4 KB - PDF)
 
 **Last updated:**
 
-02/09/2025
+23/01/2026
 
 [View](/da/documents/product-information/simbrinza-epar-product-information_da.pdf)
 
-Deutsch (DE) (357.82 KB - PDF)
+Deutsch (DE) (408.96 KB - PDF)
 
 **First published:**
 
@@ -462,11 +460,11 @@ Deutsch (DE) (357.82 KB - PDF)
 
 **Last updated:**
 
-02/09/2025
+23/01/2026
 
 [View](/de/documents/product-information/simbrinza-epar-product-information_de.pdf)
 
-eesti keel (ET) (394.93 KB - PDF)
+eesti keel (ET) (437.35 KB - PDF)
 
 **First published:**
 
@@ -474,11 +472,11 @@ eesti keel (ET) (394.93 KB - PDF)
 
 **Last updated:**
 
-02/09/2025
+23/01/2026
 
 [View](/et/documents/product-information/simbrinza-epar-product-information_et.pdf)
 
-ελληνικά (EL) (468.94 KB - PDF)
+ελληνικά (EL) (453.62 KB - PDF)
 
 **First published:**
 
@@ -486,11 +484,11 @@ eesti keel (ET) (394.93 KB - PDF)
 
 **Last updated:**
 
-02/09/2025
+23/01/2026
 
 [View](/el/documents/product-information/simbrinza-epar-product-information_el.pdf)
 
-français (FR) (422.35 KB - PDF)
+français (FR) (446.62 KB - PDF)
 
 **First published:**
 
@@ -498,11 +496,11 @@ français (FR) (422.35 KB - PDF)
 
 **Last updated:**
 
-02/09/2025
+23/01/2026
 
 [View](/fr/documents/product-information/simbrinza-epar-product-information_fr.pdf)
 
-hrvatski (HR) (457.35 KB - PDF)
+hrvatski (HR) (466.84 KB - PDF)
 
 **First published:**
 
@@ -510,11 +508,11 @@ hrvatski (HR) (457.35 KB - PDF)
 
 **Last updated:**
 
-02/09/2025
+23/01/2026
 
 [View](/hr/documents/product-information/simbrinza-epar-product-information_hr.pdf)
 
-íslenska (IS) (399.75 KB - PDF)
+íslenska (IS) (429.9 KB - PDF)
 
 **First published:**
 
@@ -522,11 +520,11 @@ hrvatski (HR) (457.35 KB - PDF)
 
 **Last updated:**
 
-02/09/2025
+23/01/2026
 
 [View](/is/documents/product-information/simbrinza-epar-product-information_is.pdf)
 
-italiano (IT) (391.66 KB - PDF)
+italiano (IT) (438.98 KB - PDF)
 
 **First published:**
 
@@ -534,11 +532,11 @@ italiano (IT) (391.66 KB - PDF)
 
 **Last updated:**
 
-02/09/2025
+23/01/2026
 
 [View](/it/documents/product-information/simbrinza-epar-product-information_it.pdf)
 
-latviešu valoda (LV) (464.58 KB - PDF)
+latviešu valoda (LV) (449.71 KB - PDF)
 
 **First published:**
 
@@ -546,11 +544,11 @@ latviešu valoda (LV) (464.58 KB - PDF)
 
 **Last updated:**
 
-02/09/2025
+23/01/2026
 
 [View](/lv/documents/product-information/simbrinza-epar-product-information_lv.pdf)
 
-lietuvių kalba (LT) (465.08 KB - PDF)
+lietuvių kalba (LT) (476.82 KB - PDF)
 
 **First published:**
 
@@ -558,11 +556,11 @@ lietuvių kalba (LT) (465.08 KB - PDF)
 
 **Last updated:**
 
-02/09/2025
+23/01/2026
 
 [View](/lt/documents/product-information/simbrinza-epar-product-information_lt.pdf)
 
-magyar (HU) (487.87 KB - PDF)
+magyar (HU) (482.57 KB - PDF)
 
 **First published:**
 
@@ -570,11 +568,11 @@ magyar (HU) (487.87 KB - PDF)
 
 **Last updated:**
 
-02/09/2025
+23/01/2026
 
 [View](/hu/documents/product-information/simbrinza-epar-product-information_hu.pdf)
 
-Malti (MT) (502.15 KB - PDF)
+Malti (MT) (512.34 KB - PDF)
 
 **First published:**
 
@@ -582,11 +580,11 @@ Malti (MT) (502.15 KB - PDF)
 
 **Last updated:**
 
-02/09/2025
+23/01/2026
 
 [View](/mt/documents/product-information/simbrinza-epar-product-information_mt.pdf)
 
-Nederlands (NL) (398.33 KB - PDF)
+Nederlands (NL) (445.16 KB - PDF)
 
 **First published:**
 
@@ -594,11 +592,11 @@ Nederlands (NL) (398.33 KB - PDF)
 
 **Last updated:**
 
-02/09/2025
+23/01/2026
 
 [View](/nl/documents/product-information/simbrinza-epar-product-information_nl.pdf)
 
-norsk (NO) (365.61 KB - PDF)
+norsk (NO) (382.44 KB - PDF)
 
 **First published:**
 
@@ -606,11 +604,11 @@ norsk (NO) (365.61 KB - PDF)
 
 **Last updated:**
 
-02/09/2025
+23/01/2026
 
 [View](/no/documents/product-information/simbrinza-epar-product-information_no.pdf)
 
-polski (PL) (467.45 KB - PDF)
+polski (PL) (456.49 KB - PDF)
 
 **First published:**
 
@@ -618,11 +616,11 @@ polski (PL) (467.45 KB - PDF)
 
 **Last updated:**
 
-02/09/2025
+23/01/2026
 
 [View](/pl/documents/product-information/simbrinza-epar-product-information_pl.pdf)
 
-português (PT) (377.92 KB - PDF)
+português (PT) (411.88 KB - PDF)
 
 **First published:**
 
@@ -630,11 +628,11 @@ português (PT) (377.92 KB - PDF)
 
 **Last updated:**
 
-02/09/2025
+23/01/2026
 
 [View](/pt/documents/product-information/simbrinza-epar-product-information_pt.pdf)
 
-română (RO) (427.29 KB - PDF)
+română (RO) (414.73 KB - PDF)
 
 **First published:**
 
@@ -642,11 +640,11 @@ română (RO) (427.29 KB - PDF)
 
 **Last updated:**
 
-02/09/2025
+23/01/2026
 
 [View](/ro/documents/product-information/simbrinza-epar-product-information_ro.pdf)
 
-slovenčina (SK) (548.86 KB - PDF)
+slovenčina (SK) (540.44 KB - PDF)
 
 **First published:**
 
@@ -654,11 +652,11 @@ slovenčina (SK) (548.86 KB - PDF)
 
 **Last updated:**
 
-02/09/2025
+23/01/2026
 
 [View](/sk/documents/product-information/simbrinza-epar-product-information_sk.pdf)
 
-slovenščina (SL) (448.45 KB - PDF)
+slovenščina (SL) (440.31 KB - PDF)
 
 **First published:**
 
@@ -666,11 +664,11 @@ slovenščina (SL) (448.45 KB - PDF)
 
 **Last updated:**
 
-02/09/2025
+23/01/2026
 
 [View](/sl/documents/product-information/simbrinza-epar-product-information_sl.pdf)
 
-Suomi (FI) (423.1 KB - PDF)
+Suomi (FI) (446.75 KB - PDF)
 
 **First published:**
 
@@ -678,11 +676,11 @@ Suomi (FI) (423.1 KB - PDF)
 
 **Last updated:**
 
-02/09/2025
+23/01/2026
 
 [View](/fi/documents/product-information/simbrinza-epar-product-information_fi.pdf)
 
-svenska (SV) (361.39 KB - PDF)
+svenska (SV) (392.01 KB - PDF)
 
 **First published:**
 
@@ -690,11 +688,11 @@ svenska (SV) (361.39 KB - PDF)
 
 **Last updated:**
 
-02/09/2025
+23/01/2026
 
 [View](/sv/documents/product-information/simbrinza-epar-product-information_sv.pdf)
 
-**Latest procedure affecting product information:** N/0000294245 01/09/2025
+**Latest procedure affecting product information:** VR/0000323316 22/01/2026
 
 icon globe
 
@@ -720,7 +718,7 @@ English (EN) (11.83 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/simbrinza-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (23)](#file-language-dropdown-236)
+[Other languages (23)](#file-language-dropdown-706)
 
 български (BG) (11.57 KB - PDF)
 
@@ -1033,7 +1031,7 @@ Novartis Europharm Limited
 
 Vista Building
 
-Opinion adopted 22/05/2014 Marketing authorisation issued 18/07/2014 Revision 12
+Opinion adopted 22/05/2014 Marketing authorisation issued 18/07/2014 Revision 13
 
 ## Assessment history
 
@@ -1045,9 +1043,11 @@ Collapse section
 
 Simbrinza : EPAR - Procedural steps taken and scientific information after authorisation
 
-English (EN) (1023.39 KB - PDF)
+English (EN) (152.68 KB - PDF)
 
 **First published:** 02/09/2025
+
+**Last updated:** 23/01/2026
 
 [View](/en/documents/procedural-steps-after/simbrinza-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf)
 
@@ -1111,7 +1111,7 @@ English (EN) (69.19 KB - PDF)
 
 - [Medicines](https://www.ema.europa.eu/en/search?f%5B0%5D=ema_search_topics%3A61)
 
-**This page was last updated on** 02/09/2025
+**This page was last updated on** 23/01/2026
 
 ## Share this page
 

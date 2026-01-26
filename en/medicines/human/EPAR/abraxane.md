@@ -1,18 +1,18 @@
 ---
-document_datetime: 2025-12-29 11:39:18
+document_datetime: 2026-01-21 15:40:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/abraxane.html
 document_name: abraxane.html
 version: success
-processing_time: 0.1224307
-conversion_datetime: 2025-12-30 08:08:10.676673
+processing_time: 0.1431544
+conversion_datetime: 2026-01-26 20:30:59.063623
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.66.0
-  docling-core: 2.57.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.10.0
+  docling-jobkit: 1.8.1
+  docling: 2.70.0
+  docling-core: 2.60.2
+  docling-ibm-models: 3.11.0
+  docling-parse: 4.7.3
   python: cpython-313 (3.13.11)
   plaform: macOS-26.2-arm64-arm-64bit-Mach-O
 ---
@@ -26,8 +26,6 @@ This medicine is authorised for use in the European Union
 
 paclitaxel Medicine Human Authorised
 
-On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
-
 Page contents
 
 ## Page contents
@@ -38,6 +36,7 @@ Page contents
 - [Authorisation details](#authorisation-details)
 - [Assessment history](#assessment-history)
 - [News on Abraxane](#news-on)
+- [Product information - with tracked changes](#product-information-with-tracked-changes-82967)
 - [More information on Abraxane](#related-medicines)
 - [Topics](#topics)
 
@@ -135,7 +134,7 @@ English (EN) (93.17 KB - PDF)
 
 [View](/en/documents/overview/abraxane-epar-summary-public_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-688)
+[Other languages (22)](#file-language-dropdown-585)
 
 български (BG) (123 KB - PDF)
 
@@ -413,17 +412,17 @@ English (EN) (1.13 MB - PDF)
 
 Abraxane : EPAR - Product Information
 
-English (EN) (346.08 KB - PDF)
+English (EN) (568 KB - PDF)
 
 **First published:** 10/08/2009
 
-**Last updated:** 30/01/2025
+**Last updated:** 21/01/2026
 
 [View](/en/documents/product-information/abraxane-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-949)
+[Other languages (24)](#file-language-dropdown-947)
 
-български (BG) (639.31 KB - PDF)
+български (BG) (664.61 KB - PDF)
 
 **First published:**
 
@@ -431,11 +430,11 @@ English (EN) (346.08 KB - PDF)
 
 **Last updated:**
 
-30/01/2025
+21/01/2026
 
 [View](/bg/documents/product-information/abraxane-epar-product-information_bg.pdf)
 
-español (ES) (369.14 KB - PDF)
+español (ES) (590.14 KB - PDF)
 
 **First published:**
 
@@ -443,11 +442,11 @@ español (ES) (369.14 KB - PDF)
 
 **Last updated:**
 
-30/01/2025
+21/01/2026
 
 [View](/es/documents/product-information/abraxane-epar-product-information_es.pdf)
 
-čeština (CS) (599.35 KB - PDF)
+čeština (CS) (642.47 KB - PDF)
 
 **First published:**
 
@@ -455,11 +454,11 @@ español (ES) (369.14 KB - PDF)
 
 **Last updated:**
 
-30/01/2025
+21/01/2026
 
 [View](/cs/documents/product-information/abraxane-epar-product-information_cs.pdf)
 
-dansk (DA) (491.61 KB - PDF)
+dansk (DA) (586.59 KB - PDF)
 
 **First published:**
 
@@ -467,11 +466,11 @@ dansk (DA) (491.61 KB - PDF)
 
 **Last updated:**
 
-30/01/2025
+21/01/2026
 
 [View](/da/documents/product-information/abraxane-epar-product-information_da.pdf)
 
-Deutsch (DE) (565.67 KB - PDF)
+Deutsch (DE) (616.51 KB - PDF)
 
 **First published:**
 
@@ -479,11 +478,11 @@ Deutsch (DE) (565.67 KB - PDF)
 
 **Last updated:**
 
-30/01/2025
+21/01/2026
 
 [View](/de/documents/product-information/abraxane-epar-product-information_de.pdf)
 
-eesti keel (ET) (599.74 KB - PDF)
+eesti keel (ET) (591.67 KB - PDF)
 
 **First published:**
 
@@ -491,11 +490,11 @@ eesti keel (ET) (599.74 KB - PDF)
 
 **Last updated:**
 
-30/01/2025
+21/01/2026
 
 [View](/et/documents/product-information/abraxane-epar-product-information_et.pdf)
 
-ελληνικά (EL) (664.75 KB - PDF)
+ελληνικά (EL) (652.73 KB - PDF)
 
 **First published:**
 
@@ -503,11 +502,11 @@ eesti keel (ET) (599.74 KB - PDF)
 
 **Last updated:**
 
-30/01/2025
+21/01/2026
 
 [View](/el/documents/product-information/abraxane-epar-product-information_el.pdf)
 
-français (FR) (606.1 KB - PDF)
+français (FR) (599.35 KB - PDF)
 
 **First published:**
 
@@ -515,11 +514,11 @@ français (FR) (606.1 KB - PDF)
 
 **Last updated:**
 
-30/01/2025
+21/01/2026
 
 [View](/fr/documents/product-information/abraxane-epar-product-information_fr.pdf)
 
-hrvatski (HR) (451.34 KB - PDF)
+hrvatski (HR) (627.79 KB - PDF)
 
 **First published:**
 
@@ -527,11 +526,11 @@ hrvatski (HR) (451.34 KB - PDF)
 
 **Last updated:**
 
-30/01/2025
+21/01/2026
 
 [View](/hr/documents/product-information/abraxane-epar-product-information_hr.pdf)
 
-íslenska (IS) (590.29 KB - PDF)
+íslenska (IS) (577.78 KB - PDF)
 
 **First published:**
 
@@ -539,11 +538,11 @@ hrvatski (HR) (451.34 KB - PDF)
 
 **Last updated:**
 
-30/01/2025
+21/01/2026
 
 [View](/is/documents/product-information/abraxane-epar-product-information_is.pdf)
 
-italiano (IT) (365.08 KB - PDF)
+italiano (IT) (586.5 KB - PDF)
 
 **First published:**
 
@@ -551,11 +550,11 @@ italiano (IT) (365.08 KB - PDF)
 
 **Last updated:**
 
-30/01/2025
+21/01/2026
 
 [View](/it/documents/product-information/abraxane-epar-product-information_it.pdf)
 
-latviešu valoda (LV) (449.98 KB - PDF)
+latviešu valoda (LV) (630.23 KB - PDF)
 
 **First published:**
 
@@ -563,11 +562,11 @@ latviešu valoda (LV) (449.98 KB - PDF)
 
 **Last updated:**
 
-30/01/2025
+21/01/2026
 
 [View](/lv/documents/product-information/abraxane-epar-product-information_lv.pdf)
 
-lietuvių kalba (LT) (455.31 KB - PDF)
+lietuvių kalba (LT) (636.11 KB - PDF)
 
 **First published:**
 
@@ -575,11 +574,11 @@ lietuvių kalba (LT) (455.31 KB - PDF)
 
 **Last updated:**
 
-30/01/2025
+21/01/2026
 
 [View](/lt/documents/product-information/abraxane-epar-product-information_lt.pdf)
 
-magyar (HU) (678.72 KB - PDF)
+magyar (HU) (667.33 KB - PDF)
 
 **First published:**
 
@@ -587,11 +586,11 @@ magyar (HU) (678.72 KB - PDF)
 
 **Last updated:**
 
-30/01/2025
+21/01/2026
 
 [View](/hu/documents/product-information/abraxane-epar-product-information_hu.pdf)
 
-Malti (MT) (480.01 KB - PDF)
+Malti (MT) (659.69 KB - PDF)
 
 **First published:**
 
@@ -599,11 +598,11 @@ Malti (MT) (480.01 KB - PDF)
 
 **Last updated:**
 
-30/01/2025
+21/01/2026
 
 [View](/mt/documents/product-information/abraxane-epar-product-information_mt.pdf)
 
-Nederlands (NL) (360.35 KB - PDF)
+Nederlands (NL) (589.58 KB - PDF)
 
 **First published:**
 
@@ -611,11 +610,11 @@ Nederlands (NL) (360.35 KB - PDF)
 
 **Last updated:**
 
-30/01/2025
+21/01/2026
 
 [View](/nl/documents/product-information/abraxane-epar-product-information_nl.pdf)
 
-norsk (NO) (354.89 KB - PDF)
+norsk (NO) (576.51 KB - PDF)
 
 **First published:**
 
@@ -623,11 +622,11 @@ norsk (NO) (354.89 KB - PDF)
 
 **Last updated:**
 
-30/01/2025
+21/01/2026
 
 [View](/no/documents/product-information/abraxane-epar-product-information_no.pdf)
 
-polski (PL) (620.61 KB - PDF)
+polski (PL) (688.17 KB - PDF)
 
 **First published:**
 
@@ -635,11 +634,11 @@ polski (PL) (620.61 KB - PDF)
 
 **Last updated:**
 
-30/01/2025
+21/01/2026
 
 [View](/pl/documents/product-information/abraxane-epar-product-information_pl.pdf)
 
-português (PT) (493.46 KB - PDF)
+português (PT) (578.64 KB - PDF)
 
 **First published:**
 
@@ -647,11 +646,11 @@ português (PT) (493.46 KB - PDF)
 
 **Last updated:**
 
-30/01/2025
+21/01/2026
 
 [View](/pt/documents/product-information/abraxane-epar-product-information_pt.pdf)
 
-română (RO) (599.89 KB - PDF)
+română (RO) (652.33 KB - PDF)
 
 **First published:**
 
@@ -659,11 +658,11 @@ română (RO) (599.89 KB - PDF)
 
 **Last updated:**
 
-30/01/2025
+21/01/2026
 
 [View](/ro/documents/product-information/abraxane-epar-product-information_ro.pdf)
 
-slovenčina (SK) (620.9 KB - PDF)
+slovenčina (SK) (672.92 KB - PDF)
 
 **First published:**
 
@@ -671,11 +670,11 @@ slovenčina (SK) (620.9 KB - PDF)
 
 **Last updated:**
 
-30/01/2025
+21/01/2026
 
 [View](/sk/documents/product-information/abraxane-epar-product-information_sk.pdf)
 
-slovenščina (SL) (452.54 KB - PDF)
+slovenščina (SL) (653.99 KB - PDF)
 
 **First published:**
 
@@ -683,11 +682,11 @@ slovenščina (SL) (452.54 KB - PDF)
 
 **Last updated:**
 
-30/01/2025
+21/01/2026
 
 [View](/sl/documents/product-information/abraxane-epar-product-information_sl.pdf)
 
-Suomi (FI) (366.26 KB - PDF)
+Suomi (FI) (583.5 KB - PDF)
 
 **First published:**
 
@@ -695,11 +694,11 @@ Suomi (FI) (366.26 KB - PDF)
 
 **Last updated:**
 
-30/01/2025
+21/01/2026
 
 [View](/fi/documents/product-information/abraxane-epar-product-information_fi.pdf)
 
-svenska (SV) (353.82 KB - PDF)
+svenska (SV) (573.02 KB - PDF)
 
 **First published:**
 
@@ -707,11 +706,11 @@ svenska (SV) (353.82 KB - PDF)
 
 **Last updated:**
 
-30/01/2025
+21/01/2026
 
 [View](/sv/documents/product-information/abraxane-epar-product-information_sv.pdf)
 
-**Latest procedure affecting product information:** II/0115 12/12/2024
+**Latest procedure affecting product information:** VR/0000311114 20/01/2026
 
 icon globe
 
@@ -729,17 +728,17 @@ Product information documents contain:
 
 Abraxane : EPAR - All Authorised presentations
 
-English (EN) (11.03 KB - PDF)
+English (EN) (61.67 KB - PDF)
 
 **First published:** 04/02/2008
 
-**Last updated:** 10/05/2022
+**Last updated:** 21/01/2026
 
 [View](/en/documents/all-authorised-presentations/abraxane-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-723)
+[Other languages (24)](#file-language-dropdown-625)
 
-български (BG) (48.16 KB - PDF)
+български (BG) (49.7 KB - PDF)
 
 **First published:**
 
@@ -747,11 +746,11 @@ English (EN) (11.03 KB - PDF)
 
 **Last updated:**
 
-10/05/2022
+21/01/2026
 
 [View](/bg/documents/all-authorised-presentations/abraxane-epar-all-authorised-presentations_bg.pdf)
 
-español (ES) (10.77 KB - PDF)
+español (ES) (42.29 KB - PDF)
 
 **First published:**
 
@@ -759,11 +758,11 @@ español (ES) (10.77 KB - PDF)
 
 **Last updated:**
 
-10/05/2022
+21/01/2026
 
 [View](/es/documents/all-authorised-presentations/abraxane-epar-all-authorised-presentations_es.pdf)
 
-čeština (CS) (45.13 KB - PDF)
+čeština (CS) (47.03 KB - PDF)
 
 **First published:**
 
@@ -771,11 +770,11 @@ español (ES) (10.77 KB - PDF)
 
 **Last updated:**
 
-10/05/2022
+21/01/2026
 
 [View](/cs/documents/all-authorised-presentations/abraxane-epar-all-authorised-presentations_cs.pdf)
 
-dansk (DA) (10.83 KB - PDF)
+dansk (DA) (44.21 KB - PDF)
 
 **First published:**
 
@@ -783,11 +782,11 @@ dansk (DA) (10.83 KB - PDF)
 
 **Last updated:**
 
-10/05/2022
+21/01/2026
 
 [View](/da/documents/all-authorised-presentations/abraxane-epar-all-authorised-presentations_da.pdf)
 
-Deutsch (DE) (11.03 KB - PDF)
+Deutsch (DE) (43.65 KB - PDF)
 
 **First published:**
 
@@ -795,11 +794,11 @@ Deutsch (DE) (11.03 KB - PDF)
 
 **Last updated:**
 
-10/05/2022
+21/01/2026
 
 [View](/de/documents/all-authorised-presentations/abraxane-epar-all-authorised-presentations_de.pdf)
 
-eesti keel (ET) (10.6 KB - PDF)
+eesti keel (ET) (41.56 KB - PDF)
 
 **First published:**
 
@@ -807,11 +806,11 @@ eesti keel (ET) (10.6 KB - PDF)
 
 **Last updated:**
 
-10/05/2022
+21/01/2026
 
 [View](/et/documents/all-authorised-presentations/abraxane-epar-all-authorised-presentations_et.pdf)
 
-ελληνικά (EL) (44.18 KB - PDF)
+ελληνικά (EL) (46.08 KB - PDF)
 
 **First published:**
 
@@ -819,11 +818,11 @@ eesti keel (ET) (10.6 KB - PDF)
 
 **Last updated:**
 
-10/05/2022
+21/01/2026
 
 [View](/el/documents/all-authorised-presentations/abraxane-epar-all-authorised-presentations_el.pdf)
 
-français (FR) (23.9 KB - PDF)
+français (FR) (42.4 KB - PDF)
 
 **First published:**
 
@@ -831,11 +830,11 @@ français (FR) (23.9 KB - PDF)
 
 **Last updated:**
 
-10/05/2022
+21/01/2026
 
 [View](/fr/documents/all-authorised-presentations/abraxane-epar-all-authorised-presentations_fr.pdf)
 
-hrvatski (HR) (45.21 KB - PDF)
+hrvatski (HR) (44.49 KB - PDF)
 
 **First published:**
 
@@ -843,11 +842,11 @@ hrvatski (HR) (45.21 KB - PDF)
 
 **Last updated:**
 
-10/05/2022
+21/01/2026
 
 [View](/hr/documents/all-authorised-presentations/abraxane-epar-all-authorised-presentations_hr.pdf)
 
-íslenska (IS) (10.82 KB - PDF)
+íslenska (IS) (43.72 KB - PDF)
 
 **First published:**
 
@@ -855,11 +854,11 @@ hrvatski (HR) (45.21 KB - PDF)
 
 **Last updated:**
 
-10/05/2022
+21/01/2026
 
 [View](/is/documents/all-authorised-presentations/abraxane-epar-all-authorised-presentations_is.pdf)
 
-italiano (IT) (11 KB - PDF)
+italiano (IT) (42.96 KB - PDF)
 
 **First published:**
 
@@ -867,11 +866,11 @@ italiano (IT) (11 KB - PDF)
 
 **Last updated:**
 
-10/05/2022
+21/01/2026
 
 [View](/it/documents/all-authorised-presentations/abraxane-epar-all-authorised-presentations_it.pdf)
 
-latviešu valoda (LV) (43.03 KB - PDF)
+latviešu valoda (LV) (45.34 KB - PDF)
 
 **First published:**
 
@@ -879,11 +878,11 @@ latviešu valoda (LV) (43.03 KB - PDF)
 
 **Last updated:**
 
-10/05/2022
+21/01/2026
 
 [View](/lv/documents/all-authorised-presentations/abraxane-epar-all-authorised-presentations_lv.pdf)
 
-lietuvių kalba (LT) (43.7 KB - PDF)
+lietuvių kalba (LT) (45.29 KB - PDF)
 
 **First published:**
 
@@ -891,11 +890,11 @@ lietuvių kalba (LT) (43.7 KB - PDF)
 
 **Last updated:**
 
-10/05/2022
+21/01/2026
 
 [View](/lt/documents/all-authorised-presentations/abraxane-epar-all-authorised-presentations_lt.pdf)
 
-magyar (HU) (24.35 KB - PDF)
+magyar (HU) (44.5 KB - PDF)
 
 **First published:**
 
@@ -903,11 +902,11 @@ magyar (HU) (24.35 KB - PDF)
 
 **Last updated:**
 
-10/05/2022
+21/01/2026
 
 [View](/hu/documents/all-authorised-presentations/abraxane-epar-all-authorised-presentations_hu.pdf)
 
-Malti (MT) (44.46 KB - PDF)
+Malti (MT) (46.6 KB - PDF)
 
 **First published:**
 
@@ -915,11 +914,11 @@ Malti (MT) (44.46 KB - PDF)
 
 **Last updated:**
 
-10/05/2022
+21/01/2026
 
 [View](/mt/documents/all-authorised-presentations/abraxane-epar-all-authorised-presentations_mt.pdf)
 
-Nederlands (NL) (10.84 KB - PDF)
+Nederlands (NL) (42.1 KB - PDF)
 
 **First published:**
 
@@ -927,11 +926,11 @@ Nederlands (NL) (10.84 KB - PDF)
 
 **Last updated:**
 
-10/05/2022
+21/01/2026
 
 [View](/nl/documents/all-authorised-presentations/abraxane-epar-all-authorised-presentations_nl.pdf)
 
-norsk (NO) (10.58 KB - PDF)
+norsk (NO) (44.51 KB - PDF)
 
 **First published:**
 
@@ -939,11 +938,11 @@ norsk (NO) (10.58 KB - PDF)
 
 **Last updated:**
 
-10/05/2022
+21/01/2026
 
 [View](/no/documents/all-authorised-presentations/abraxane-epar-all-authorised-presentations_no.pdf)
 
-polski (PL) (45.06 KB - PDF)
+polski (PL) (46.85 KB - PDF)
 
 **First published:**
 
@@ -951,11 +950,11 @@ polski (PL) (45.06 KB - PDF)
 
 **Last updated:**
 
-10/05/2022
+21/01/2026
 
 [View](/pl/documents/all-authorised-presentations/abraxane-epar-all-authorised-presentations_pl.pdf)
 
-português (PT) (10.98 KB - PDF)
+português (PT) (43.96 KB - PDF)
 
 **First published:**
 
@@ -963,11 +962,11 @@ português (PT) (10.98 KB - PDF)
 
 **Last updated:**
 
-10/05/2022
+21/01/2026
 
 [View](/pt/documents/all-authorised-presentations/abraxane-epar-all-authorised-presentations_pt.pdf)
 
-română (RO) (42.61 KB - PDF)
+română (RO) (43.78 KB - PDF)
 
 **First published:**
 
@@ -975,11 +974,11 @@ română (RO) (42.61 KB - PDF)
 
 **Last updated:**
 
-10/05/2022
+21/01/2026
 
 [View](/ro/documents/all-authorised-presentations/abraxane-epar-all-authorised-presentations_ro.pdf)
 
-slovenčina (SK) (45.13 KB - PDF)
+slovenčina (SK) (46.42 KB - PDF)
 
 **First published:**
 
@@ -987,11 +986,11 @@ slovenčina (SK) (45.13 KB - PDF)
 
 **Last updated:**
 
-10/05/2022
+21/01/2026
 
 [View](/sk/documents/all-authorised-presentations/abraxane-epar-all-authorised-presentations_sk.pdf)
 
-slovenščina (SL) (42.13 KB - PDF)
+slovenščina (SL) (43.27 KB - PDF)
 
 **First published:**
 
@@ -999,11 +998,11 @@ slovenščina (SL) (42.13 KB - PDF)
 
 **Last updated:**
 
-10/05/2022
+21/01/2026
 
 [View](/sl/documents/all-authorised-presentations/abraxane-epar-all-authorised-presentations_sl.pdf)
 
-Suomi (FI) (10.8 KB - PDF)
+Suomi (FI) (40.9 KB - PDF)
 
 **First published:**
 
@@ -1011,11 +1010,11 @@ Suomi (FI) (10.8 KB - PDF)
 
 **Last updated:**
 
-10/05/2022
+21/01/2026
 
 [View](/fi/documents/all-authorised-presentations/abraxane-epar-all-authorised-presentations_fi.pdf)
 
-svenska (SV) (11.38 KB - PDF)
+svenska (SV) (42.52 KB - PDF)
 
 **First published:**
 
@@ -1023,7 +1022,7 @@ svenska (SV) (11.38 KB - PDF)
 
 **Last updated:**
 
-10/05/2022
+21/01/2026
 
 [View](/sv/documents/all-authorised-presentations/abraxane-epar-all-authorised-presentations_sv.pdf)
 
@@ -1057,7 +1056,7 @@ Bristol-Myers Squibb Pharma EEIG
 
 Plaza 254
 
-Opinion adopted 18/10/2007 Marketing authorisation issued 11/01/2008 Revision 31
+Opinion adopted 18/10/2007 Marketing authorisation issued 11/01/2008 Revision 32
 
 ## Assessment history
 
@@ -1069,13 +1068,21 @@ Collapse section
 
 Abraxane : EPAR - Procedural steps taken and scientific information after authorisation
 
+English (EN) (148.07 KB - PDF)
+
+**First published:** 21/01/2026
+
+[View](/en/documents/procedural-steps-after/abraxane-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf)
+
+Abraxane : EPAR - Procedural steps taken and scientific information after authorisation (archive)
+
 English (EN) (408.59 KB - PDF)
 
 **First published:** 10/08/2009
 
-**Last updated:** 30/01/2025
+**Last updated:** 21/01/2026
 
-[View](/en/documents/procedural-steps-after/abraxane-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf)
+[View](/en/documents/procedural-steps-after/abraxane-epar-procedural-steps-taken-scientific-information-after-authorisation-archive_en.pdf)
 
 Abraxane-H-C-778-II-0097 : EPAR - Assessment Report - Variation
 
@@ -1187,6 +1194,212 @@ English (EN) (662.02 KB - PDF)
 
 [European Medicines Agency recommends extending use of Abraxane to include treatment of pancreatic cancer](/en/news/european-medicines-agency-recommends-extending-use-abraxane-include-treatment-pancreatic-cancer) 22/11/2013
 
+#### Product information - with tracked changes
+
+The approved product information for this medicine is available below showing the changes since the previous procedure affecting the product information. The same document without tracked changes is above under 'Product information'.
+
+Abraxane : EPAR - Product information - tracked changes
+
+English (EN) (217.43 KB - DOCX)
+
+**First published:** 21/01/2026
+
+[View](/en/documents/product-information-tracked-changes/abraxane-epar-product-information-tracked-changes_en.docx)
+
+[Other languages (24)](#file-language-dropdown-12)
+
+български (BG) (224.57 KB - DOCX)
+
+**First published:**
+
+21/01/2026
+
+[View](/bg/documents/product-information-tracked-changes/abraxane-epar-product-information-tracked-changes_bg.docx)
+
+español (ES) (168.73 KB - DOCX)
+
+**First published:**
+
+21/01/2026
+
+[View](/es/documents/product-information-tracked-changes/abraxane-epar-product-information-tracked-changes_es.docx)
+
+čeština (CS) (171.19 KB - DOCX)
+
+**First published:**
+
+21/01/2026
+
+[View](/cs/documents/product-information-tracked-changes/abraxane-epar-product-information-tracked-changes_cs.docx)
+
+dansk (DA) (167.65 KB - DOCX)
+
+**First published:**
+
+21/01/2026
+
+[View](/da/documents/product-information-tracked-changes/abraxane-epar-product-information-tracked-changes_da.docx)
+
+Deutsch (DE) (220.06 KB - DOCX)
+
+**First published:**
+
+21/01/2026
+
+[View](/de/documents/product-information-tracked-changes/abraxane-epar-product-information-tracked-changes_de.docx)
+
+eesti keel (ET) (169.12 KB - DOCX)
+
+**First published:**
+
+21/01/2026
+
+[View](/et/documents/product-information-tracked-changes/abraxane-epar-product-information-tracked-changes_et.docx)
+
+ελληνικά (EL) (184.66 KB - DOCX)
+
+**First published:**
+
+21/01/2026
+
+[View](/el/documents/product-information-tracked-changes/abraxane-epar-product-information-tracked-changes_el.docx)
+
+français (FR) (170.51 KB - DOCX)
+
+**First published:**
+
+21/01/2026
+
+[View](/fr/documents/product-information-tracked-changes/abraxane-epar-product-information-tracked-changes_fr.docx)
+
+hrvatski (HR) (169.01 KB - DOCX)
+
+**First published:**
+
+21/01/2026
+
+[View](/hr/documents/product-information-tracked-changes/abraxane-epar-product-information-tracked-changes_hr.docx)
+
+íslenska (IS) (214.34 KB - DOCX)
+
+**First published:**
+
+21/01/2026
+
+[View](/is/documents/product-information-tracked-changes/abraxane-epar-product-information-tracked-changes_is.docx)
+
+italiano (IT) (171.28 KB - DOCX)
+
+**First published:**
+
+21/01/2026
+
+[View](/it/documents/product-information-tracked-changes/abraxane-epar-product-information-tracked-changes_it.docx)
+
+latviešu valoda (LV) (168.45 KB - DOCX)
+
+**First published:**
+
+21/01/2026
+
+[View](/lv/documents/product-information-tracked-changes/abraxane-epar-product-information-tracked-changes_lv.docx)
+
+lietuvių kalba (LT) (169.29 KB - DOCX)
+
+**First published:**
+
+21/01/2026
+
+[View](/lt/documents/product-information-tracked-changes/abraxane-epar-product-information-tracked-changes_lt.docx)
+
+magyar (HU) (172.87 KB - DOCX)
+
+**First published:**
+
+21/01/2026
+
+[View](/hu/documents/product-information-tracked-changes/abraxane-epar-product-information-tracked-changes_hu.docx)
+
+Malti (MT) (170.63 KB - DOCX)
+
+**First published:**
+
+21/01/2026
+
+[View](/mt/documents/product-information-tracked-changes/abraxane-epar-product-information-tracked-changes_mt.docx)
+
+Nederlands (NL) (168.35 KB - DOCX)
+
+**First published:**
+
+21/01/2026
+
+[View](/nl/documents/product-information-tracked-changes/abraxane-epar-product-information-tracked-changes_nl.docx)
+
+norsk (NO) (167.43 KB - DOCX)
+
+**First published:**
+
+21/01/2026
+
+[View](/no/documents/product-information-tracked-changes/abraxane-epar-product-information-tracked-changes_no.docx)
+
+polski (PL) (174.97 KB - DOCX)
+
+**First published:**
+
+21/01/2026
+
+[View](/pl/documents/product-information-tracked-changes/abraxane-epar-product-information-tracked-changes_pl.docx)
+
+português (PT) (168.52 KB - DOCX)
+
+**First published:**
+
+21/01/2026
+
+[View](/pt/documents/product-information-tracked-changes/abraxane-epar-product-information-tracked-changes_pt.docx)
+
+română (RO) (169.6 KB - DOCX)
+
+**First published:**
+
+21/01/2026
+
+[View](/ro/documents/product-information-tracked-changes/abraxane-epar-product-information-tracked-changes_ro.docx)
+
+slovenčina (SK) (220.34 KB - DOCX)
+
+**First published:**
+
+21/01/2026
+
+[View](/sk/documents/product-information-tracked-changes/abraxane-epar-product-information-tracked-changes_sk.docx)
+
+slovenščina (SL) (168.21 KB - DOCX)
+
+**First published:**
+
+21/01/2026
+
+[View](/sl/documents/product-information-tracked-changes/abraxane-epar-product-information-tracked-changes_sl.docx)
+
+Suomi (FI) (169.36 KB - DOCX)
+
+**First published:**
+
+21/01/2026
+
+[View](/fi/documents/product-information-tracked-changes/abraxane-epar-product-information-tracked-changes_fi.docx)
+
+svenska (SV) (165.48 KB - DOCX)
+
+**First published:**
+
+21/01/2026
+
+[View](/sv/documents/product-information-tracked-changes/abraxane-epar-product-information-tracked-changes_sv.docx)
+
 #### More information on Abraxane
 
 - [EMEA-001308-PIP01-12-M02 - paediatric investigation plan](/en/medicines/human/paediatric-investigation-plans/emea-001308-pip01-12-m02)
@@ -1196,7 +1409,7 @@ English (EN) (662.02 KB - PDF)
 
 - [Medicines](https://www.ema.europa.eu/en/search?f%5B0%5D=ema_search_topics%3A61)
 
-**This page was last updated on** 30/01/2025
+**This page was last updated on** 21/01/2026
 
 ## Share this page
 

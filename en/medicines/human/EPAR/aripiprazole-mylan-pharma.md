@@ -1,18 +1,18 @@
 ---
-document_datetime: 2025-12-29 14:35:38
+document_datetime: 2026-01-23 15:40:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/aripiprazole-mylan-pharma.html
 document_name: aripiprazole-mylan-pharma.html
 version: success
-processing_time: 0.131121
-conversion_datetime: 2025-12-30 02:00:13.583877
+processing_time: 0.1338142
+conversion_datetime: 2026-01-26 20:25:16.078667
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.66.0
-  docling-core: 2.57.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.10.0
+  docling-jobkit: 1.8.1
+  docling: 2.70.0
+  docling-core: 2.60.2
+  docling-ibm-models: 3.11.0
+  docling-parse: 4.7.3
   python: cpython-313 (3.13.11)
   plaform: macOS-26.2-arm64-arm-64bit-Mach-O
 ---
@@ -25,8 +25,6 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 aripiprazole Medicine Human Authorised
-
-On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -119,7 +117,7 @@ English (EN) (113.09 KB - PDF)
 
 [View](/en/documents/overview/aripiprazole-mylan-pharma-epar-summary-public_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-85)
+[Other languages (22)](#file-language-dropdown-304)
 
 български (BG) (120.96 KB - PDF)
 
@@ -401,17 +399,17 @@ English (EN) (98.06 KB - PDF)
 
 Aripiprazole Mylan Pharma : EPAR - Product Information
 
-English (EN) (345.07 KB - PDF)
+English (EN) (475.54 KB - PDF)
 
 **First published:** 20/07/2015
 
-**Last updated:** 22/05/2024
+**Last updated:** 23/01/2026
 
 [View](/en/documents/product-information/aripiprazole-mylan-pharma-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-796)
+[Other languages (24)](#file-language-dropdown-281)
 
-български (BG) (593.37 KB - PDF)
+български (BG) (603.84 KB - PDF)
 
 **First published:**
 
@@ -419,11 +417,11 @@ English (EN) (345.07 KB - PDF)
 
 **Last updated:**
 
-22/05/2024
+23/01/2026
 
 [View](/bg/documents/product-information/aripiprazole-mylan-pharma-epar-product-information_bg.pdf)
 
-español (ES) (466.54 KB - PDF)
+español (ES) (446.72 KB - PDF)
 
 **First published:**
 
@@ -431,11 +429,11 @@ español (ES) (466.54 KB - PDF)
 
 **Last updated:**
 
-22/05/2024
+23/01/2026
 
 [View](/es/documents/product-information/aripiprazole-mylan-pharma-epar-product-information_es.pdf)
 
-čeština (CS) (531.34 KB - PDF)
+čeština (CS) (506.06 KB - PDF)
 
 **First published:**
 
@@ -443,11 +441,11 @@ español (ES) (466.54 KB - PDF)
 
 **Last updated:**
 
-22/05/2024
+23/01/2026
 
 [View](/cs/documents/product-information/aripiprazole-mylan-pharma-epar-product-information_cs.pdf)
 
-dansk (DA) (629.62 KB - PDF)
+dansk (DA) (603.67 KB - PDF)
 
 **First published:**
 
@@ -455,11 +453,11 @@ dansk (DA) (629.62 KB - PDF)
 
 **Last updated:**
 
-22/05/2024
+23/01/2026
 
 [View](/da/documents/product-information/aripiprazole-mylan-pharma-epar-product-information_da.pdf)
 
-Deutsch (DE) (583.66 KB - PDF)
+Deutsch (DE) (417.84 KB - PDF)
 
 **First published:**
 
@@ -467,11 +465,11 @@ Deutsch (DE) (583.66 KB - PDF)
 
 **Last updated:**
 
-22/05/2024
+23/01/2026
 
 [View](/de/documents/product-information/aripiprazole-mylan-pharma-epar-product-information_de.pdf)
 
-eesti keel (ET) (504.77 KB - PDF)
+eesti keel (ET) (352.98 KB - PDF)
 
 **First published:**
 
@@ -479,11 +477,11 @@ eesti keel (ET) (504.77 KB - PDF)
 
 **Last updated:**
 
-22/05/2024
+23/01/2026
 
 [View](/et/documents/product-information/aripiprazole-mylan-pharma-epar-product-information_et.pdf)
 
-ελληνικά (EL) (456.16 KB - PDF)
+ελληνικά (EL) (459.21 KB - PDF)
 
 **First published:**
 
@@ -491,11 +489,11 @@ eesti keel (ET) (504.77 KB - PDF)
 
 **Last updated:**
 
-22/05/2024
+23/01/2026
 
 [View](/el/documents/product-information/aripiprazole-mylan-pharma-epar-product-information_el.pdf)
 
-français (FR) (606.44 KB - PDF)
+français (FR) (580.34 KB - PDF)
 
 **First published:**
 
@@ -503,11 +501,11 @@ français (FR) (606.44 KB - PDF)
 
 **Last updated:**
 
-22/05/2024
+23/01/2026
 
 [View](/fr/documents/product-information/aripiprazole-mylan-pharma-epar-product-information_fr.pdf)
 
-hrvatski (HR) (718.4 KB - PDF)
+hrvatski (HR) (682.23 KB - PDF)
 
 **First published:**
 
@@ -515,11 +513,11 @@ hrvatski (HR) (718.4 KB - PDF)
 
 **Last updated:**
 
-22/05/2024
+23/01/2026
 
 [View](/hr/documents/product-information/aripiprazole-mylan-pharma-epar-product-information_hr.pdf)
 
-íslenska (IS) (534.18 KB - PDF)
+íslenska (IS) (630.47 KB - PDF)
 
 **First published:**
 
@@ -527,11 +525,11 @@ hrvatski (HR) (718.4 KB - PDF)
 
 **Last updated:**
 
-22/05/2024
+23/01/2026
 
 [View](/is/documents/product-information/aripiprazole-mylan-pharma-epar-product-information_is.pdf)
 
-italiano (IT) (743.96 KB - PDF)
+italiano (IT) (603.04 KB - PDF)
 
 **First published:**
 
@@ -539,11 +537,11 @@ italiano (IT) (743.96 KB - PDF)
 
 **Last updated:**
 
-22/05/2024
+23/01/2026
 
 [View](/it/documents/product-information/aripiprazole-mylan-pharma-epar-product-information_it.pdf)
 
-latviešu valoda (LV) (604.02 KB - PDF)
+latviešu valoda (LV) (378.99 KB - PDF)
 
 **First published:**
 
@@ -551,11 +549,11 @@ latviešu valoda (LV) (604.02 KB - PDF)
 
 **Last updated:**
 
-22/05/2024
+23/01/2026
 
 [View](/lv/documents/product-information/aripiprazole-mylan-pharma-epar-product-information_lv.pdf)
 
-lietuvių kalba (LT) (745.57 KB - PDF)
+lietuvių kalba (LT) (435.54 KB - PDF)
 
 **First published:**
 
@@ -563,11 +561,11 @@ lietuvių kalba (LT) (745.57 KB - PDF)
 
 **Last updated:**
 
-22/05/2024
+23/01/2026
 
 [View](/lt/documents/product-information/aripiprazole-mylan-pharma-epar-product-information_lt.pdf)
 
-magyar (HU) (641.91 KB - PDF)
+magyar (HU) (632.77 KB - PDF)
 
 **First published:**
 
@@ -575,11 +573,11 @@ magyar (HU) (641.91 KB - PDF)
 
 **Last updated:**
 
-22/05/2024
+23/01/2026
 
 [View](/hu/documents/product-information/aripiprazole-mylan-pharma-epar-product-information_hu.pdf)
 
-Malti (MT) (674.74 KB - PDF)
+Malti (MT) (646.23 KB - PDF)
 
 **First published:**
 
@@ -587,11 +585,11 @@ Malti (MT) (674.74 KB - PDF)
 
 **Last updated:**
 
-22/05/2024
+23/01/2026
 
 [View](/mt/documents/product-information/aripiprazole-mylan-pharma-epar-product-information_mt.pdf)
 
-Nederlands (NL) (708.79 KB - PDF)
+Nederlands (NL) (728.67 KB - PDF)
 
 **First published:**
 
@@ -599,11 +597,11 @@ Nederlands (NL) (708.79 KB - PDF)
 
 **Last updated:**
 
-22/05/2024
+23/01/2026
 
 [View](/nl/documents/product-information/aripiprazole-mylan-pharma-epar-product-information_nl.pdf)
 
-norsk (NO) (430.86 KB - PDF)
+norsk (NO) (433.4 KB - PDF)
 
 **First published:**
 
@@ -611,11 +609,11 @@ norsk (NO) (430.86 KB - PDF)
 
 **Last updated:**
 
-22/05/2024
+23/01/2026
 
 [View](/no/documents/product-information/aripiprazole-mylan-pharma-epar-product-information_no.pdf)
 
-polski (PL) (358.65 KB - PDF)
+polski (PL) (362.27 KB - PDF)
 
 **First published:**
 
@@ -623,11 +621,11 @@ polski (PL) (358.65 KB - PDF)
 
 **Last updated:**
 
-22/05/2024
+23/01/2026
 
 [View](/pl/documents/product-information/aripiprazole-mylan-pharma-epar-product-information_pl.pdf)
 
-português (PT) (479.91 KB - PDF)
+português (PT) (483.53 KB - PDF)
 
 **First published:**
 
@@ -635,11 +633,11 @@ português (PT) (479.91 KB - PDF)
 
 **Last updated:**
 
-22/05/2024
+23/01/2026
 
 [View](/pt/documents/product-information/aripiprazole-mylan-pharma-epar-product-information_pt.pdf)
 
-română (RO) (535.97 KB - PDF)
+română (RO) (517.67 KB - PDF)
 
 **First published:**
 
@@ -647,11 +645,11 @@ română (RO) (535.97 KB - PDF)
 
 **Last updated:**
 
-22/05/2024
+23/01/2026
 
 [View](/ro/documents/product-information/aripiprazole-mylan-pharma-epar-product-information_ro.pdf)
 
-slovenčina (SK) (750.98 KB - PDF)
+slovenčina (SK) (738.71 KB - PDF)
 
 **First published:**
 
@@ -659,11 +657,11 @@ slovenčina (SK) (750.98 KB - PDF)
 
 **Last updated:**
 
-22/05/2024
+23/01/2026
 
 [View](/sk/documents/product-information/aripiprazole-mylan-pharma-epar-product-information_sk.pdf)
 
-slovenščina (SL) (361.86 KB - PDF)
+slovenščina (SL) (366.14 KB - PDF)
 
 **First published:**
 
@@ -671,11 +669,11 @@ slovenščina (SL) (361.86 KB - PDF)
 
 **Last updated:**
 
-22/05/2024
+23/01/2026
 
 [View](/sl/documents/product-information/aripiprazole-mylan-pharma-epar-product-information_sl.pdf)
 
-Suomi (FI) (548.06 KB - PDF)
+Suomi (FI) (510.29 KB - PDF)
 
 **First published:**
 
@@ -683,11 +681,11 @@ Suomi (FI) (548.06 KB - PDF)
 
 **Last updated:**
 
-22/05/2024
+23/01/2026
 
 [View](/fi/documents/product-information/aripiprazole-mylan-pharma-epar-product-information_fi.pdf)
 
-svenska (SV) (646.04 KB - PDF)
+svenska (SV) (636.56 KB - PDF)
 
 **First published:**
 
@@ -695,11 +693,11 @@ svenska (SV) (646.04 KB - PDF)
 
 **Last updated:**
 
-22/05/2024
+23/01/2026
 
 [View](/sv/documents/product-information/aripiprazole-mylan-pharma-epar-product-information_sv.pdf)
 
-**Latest procedure affecting product information:** IB/0024/G 17/05/2024
+**Latest procedure affecting product information:** N/0000321295 22/01/2026
 
 icon globe
 
@@ -725,7 +723,7 @@ English (EN) (29.87 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/aripiprazole-mylan-pharma-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (23)](#file-language-dropdown-658)
+[Other languages (23)](#file-language-dropdown-969)
 
 български (BG) (77.41 KB - PDF)
 
@@ -1038,7 +1036,7 @@ Mylan Pharmaceuticals Limited
 
 Damastown Industrial Park
 
-Opinion adopted 23/04/2015 Marketing authorisation issued 30/06/2015 Revision 18
+Opinion adopted 23/04/2015 Marketing authorisation issued 30/06/2015 Revision 19
 
 ## Assessment history
 
@@ -1050,13 +1048,21 @@ Collapse section
 
 Aripiprazole Mylan Pharma : EPAR - Procedural steps taken and scientific information after authorisation
 
+English (EN) (144.08 KB - PDF)
+
+**First published:** 23/01/2026
+
+[View](/en/documents/procedural-steps-after/aripiprazole-mylan-pharma-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf)
+
+Aripiprazole Mylan Pharma : EPAR - Procedural steps taken and scientific information after authorisation (archive)
+
 English (EN) (130.23 KB - PDF)
 
 **First published:** 18/04/2016
 
-**Last updated:** 22/05/2024
+**Last updated:** 23/01/2026
 
-[View](/en/documents/procedural-steps-after/aripiprazole-mylan-pharma-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf)
+[View](/en/documents/procedural-steps-after/aripiprazole-mylan-pharma-epar-procedural-steps-taken-scientific-information-after-authorisation-archive_en.pdf)
 
 ## Initial marketing authorisation documents
 
@@ -1106,7 +1112,7 @@ English (EN) (66.45 KB - PDF)
 
 [View](/en/documents/other/questions-and-answers-generic-medicines_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-573)
+[Other languages (22)](#file-language-dropdown-686)
 
 български (BG) (93.16 KB - PDF)
 
@@ -1381,7 +1387,7 @@ svenska (SV) (67.11 KB - PDF)
 - [Generic and hybrid medicines](https://www.ema.europa.eu/en/search?f%5B0%5D=ema_search_topics%3A54)
 - [Medicines](https://www.ema.europa.eu/en/search?f%5B0%5D=ema_search_topics%3A61)
 
-**This page was last updated on** 22/05/2024
+**This page was last updated on** 23/01/2026
 
 ## Share this page
 

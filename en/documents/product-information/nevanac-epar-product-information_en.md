@@ -1,18 +1,18 @@
 ---
-document_datetime: 2025-09-08 14:59:18
-document_pages: 46
+document_datetime: 2026-01-23 12:35:15
+document_pages: 44
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/nevanac-epar-product-information_en.pdf
 document_name: nevanac-epar-product-information_en.pdf
 version: success
-processing_time: 8.8923048
-conversion_datetime: 2025-12-20 12:10:00.015211
+processing_time: 8.8679704
+conversion_datetime: 2026-01-26 20:53:16.16753
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.64.1
-  docling-core: 2.55.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.10.0
+  docling-jobkit: 1.8.1
+  docling: 2.70.0
+  docling-core: 2.60.2
+  docling-ibm-models: 3.11.0
+  docling-parse: 4.7.3
   python: cpython-313 (3.13.11)
   plaform: macOS-26.2-arm64-arm-64bit-Mach-O
 ---
@@ -173,11 +173,11 @@ Temporary blurred vision or other visual disturbances may affect the ability to 
 
 In clinical studies involving 2 314 patients receiving NEVANAC 1 mg/ml the most common adverse reactions were punctate keratitis, foreign body sensation and eyelid margin crusting which occurred in between 0.4% and 0.2% of patients.
 
-<div style=\"page-break-after: always\"></div>
-
 ## Tabulated list of adverse reactions
 
 The following adverse reactions are classified according to the following convention: very common (≥1/10), common (≥1/100 to &lt;1/10), uncommon (≥1/1 000 to &lt;1/100), rare (≥1/10 000 to &lt;1/1 000), very rare (&lt;1/10 000), or not known (cannot be estimated from the available data). Within each frequency grouping, adverse reactions are presented in order of decreasing seriousness. The adverse reactions were obtained from clinical trials and post-marketing reports.
+
+<div style=\"page-break-after: always\"></div>
 
 | System organ classification            | Adverse reactions                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               |
 |----------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -200,9 +200,9 @@ Patients with evidence of corneal epithelial breakdown including corneal perfora
 
 From post-marketing experience with NEVANAC, cases reporting corneal epithelium defect/disorder have been identified. Severity of these cases vary from non serious effects on the epithelial integrity of the corneal epithelium to more serious events where surgical interventions and/or medical therapy are required to regain clear vision.
 
-<div style=\"page-break-after: always\"></div>
-
 Post-marketing experience with topical NSAIDs suggests that patients with complicated ocular surgeries, corneal denervation, corneal epithelial defects, diabetes mellitus, ocular surface diseases (eg, dry eye syndrome), rheumatoid arthritis or repeat ocular surgeries within a short period of time may be at increased risk for corneal adverse reactions which may become sight threatening. When nepafenac is prescribed to a diabetic patient post cataract surgery to prevent macular oedema, the existence of any additional risk factor should lead to reassessment of the foreseen benefit/risk and to intensified patient monitoring.
+
+<div style=\"page-break-after: always\"></div>
 
 ## Paediatric population
 
@@ -236,13 +236,11 @@ The majority of hydrolytic conversion is in the retina/choroid followed by the i
 
 Results from clinical studies indicate that NEVANAC eye drops have no significant effect on intraocular pressure.
 
-<div style=\"page-break-after: always\"></div>
-
 ## Clinical efficacy and safety
 
-## Prevention and treatment of postoperative pain and inflammation associated with cataract surgery
+Prevention and treatment of postoperative pain and inflammation associated with cataract surgery Three pivotal studies were conducted to assess the efficacy and safety of NEVANAC dosed 3 times daily as compared to vehicle and/or ketorolac trometamol in the prevention and treatment of postoperative pain and inflammation in patients undergoing cataract surgery. In these studies, study medication was initiated the day prior to surgery, continued on the day of surgery and for up to 2-4 weeks of the postoperative period. Additionally, nearly all patients received prophylactic treatment with antibiotics, according to clinical practice at each of the clinical trial sites.
 
-Three pivotal studies were conducted to assess the efficacy and safety of NEVANAC dosed 3 times daily as compared to vehicle and/or ketorolac trometamol in the prevention and treatment of postoperative pain and inflammation in patients undergoing cataract surgery. In these studies, study medication was initiated the day prior to surgery, continued on the day of surgery and for up to 2-4 weeks of the postoperative period. Additionally, nearly all patients received prophylactic treatment with antibiotics, according to clinical practice at each of the clinical trial sites.
+<div style=\"page-break-after: always\"></div>
 
 In two double-masked, randomised vehicle-controlled studies, patients treated with NEVANAC had significantly less inflammation (aqueous cells and flare) in the early postoperative period through the end of treatment than those treated with its vehicle.
 
@@ -266,8 +264,6 @@ The European Medicines Agency has waived the obligation to submit the results of
 
 Following 3 times daily dosing of NEVANAC eye drops in both eyes, low but quantifiable plasma concentrations of nepafenac and amfenac were observed in the majority of subjects 2 and 3 hours post-dose, respectively. The mean steady-state plasma Cmax for nepafenac and for amfenac were 0.310 ± 0.104 ng/ml and 0.422 ± 0.121 ng/ml, respectively, following ocular administration.
 
-<div style=\"page-break-after: always\"></div>
-
 ## Distribution
 
 Amfenac has a high affinity toward serum albumin proteins. In vitro, the percent bound to rat albumin, human albumin and human serum was 98.4%, 95.4% and 99.1%, respectively.
@@ -276,9 +272,11 @@ Studies in rats have shown that radioactive labelled active substance-related ma
 
 Studies in rabbits demonstrated that the topically administered nepafenac is distributed locally from the front of the eye to the posterior segments of the eye (retina and choroid).
 
+<div style=\"page-break-after: always\"></div>
+
 ## Biotransformation
 
-Nepafenac undergoes relatively rapid bioactivation to amfenac via intraocular hydrolases. Subsequently, amfenac undergoes extensive metabolism to more polar metabolites involving hydroxylation of the aromatic ring leading to glucuronide conjugate formation. Radiochromatographic analyses before and after β-glucuronidase hydrolysis indicated that all metabolites were in the form of glucuronide conjugates, with the exception of amfenac. Amfenac was the major metabolite in plasma, representing approximately 13% of total plasma radioactivity. The second most abundant plasma metabolite was identified as 5-hydroxy nepafenac, representing approximately 9% of total radioactivity at Cmax.
+Nepafenac undergoes relatively rapid bioactivation to amfenac via intraocular hydrolases. Subsequently, amfenac undergoes extensive metabolism to more polar metabolites involving hydroxylation of the aromatic ring leading to glucuronide conjugate formation. Radiochromatographic analyses before and after β -glucuronidase hydrolysis indicated that all metabolites were in the form of glucuronide conjugates, with the exception of amfenac. Amfenac was the major metabolite in plasma, representing approximately 13% of total plasma radioactivity. The second most abundant plasma metabolite was identified as 5-hydroxy nepafenac, representing approximately 9% of total radioactivity at Cmax.
 
 Interactions with other medicinal products: Neither nepafenac nor amfenac inhibit any of the major human cytochrome P450 (CYP1A2, 2C9, 2C19, 2D6, 2E1 and 3A4) metabolic activities in vitro at concentrations up to 3 000 ng/ml. Therefore, interactions involving CYP-mediated metabolism of concomitantly administered medicinal products are unlikely. Interactions mediated by protein binding are also unlikely.
 
@@ -296,15 +294,13 @@ Nepafenac has not been evaluated in long-term carcinogenicity studies.
 
 In reproduction studies performed with nepafenac in rats, maternally toxic doses ≥10 mg/kg were associated with dystocia, increased postimplantation loss, reduced foetal weights and growth, and reduced foetal survival. In pregnant rabbits, a maternal dose of 30 mg/kg that produced slight toxicity in the mothers showed a statistically significant increase in the incidence of litter malformations.
 
-<div style=\"page-break-after: always\"></div>
-
 ## 6. PHARMACEUTICAL PARTICULARS
 
 ## 6.1 List of excipients
 
-Sodium hydroxide and/or hydrochloric acid (for pH adjustment)
+Mannitol (E421) Carbomer Sodium chloride Tyloxapol Disodium edetate Benzalkonium chloride Sodium hydroxide and/or hydrochloric acid (for pH adjustment) Purified water
 
-Mannitol (E421) Carbomer Sodium chloride Tyloxapol Disodium edetate Benzalkonium chloride Purified water
+<div style=\"page-break-after: always\"></div>
 
 ## 6.2 Incompatibilities
 
@@ -334,13 +330,13 @@ No special requirements for disposal.
 
 ## 7. MARKETING AUTHORISATION HOLDER
 
-Novartis Europharm Limited Vista Building Elm Park, Merrion Road Dublin 4 Ireland
+Novartis Europharm Limited
+
+Vista Building Elm Park, Merrion Road Dublin 4 Ireland
 
 ## 8. MARKETING AUTHORISATION NUMBER(S)
 
 EU/1/07/433/001
-
-<div style=\"page-break-after: always\"></div>
 
 ## 9. DATE OF FIRST AUTHORISATION/RENEWAL OF THE AUTHORISATION
 
@@ -351,6 +347,8 @@ Date of latest renewal: 24 September 2012
 ## 10. DATE OF REVISION OF THE TEXT
 
 Detailed information on this medicinal product is available on the website of the European Medicines Agency http://www.ema.europa.eu
+
+10
 
 <div style=\"page-break-after: always\"></div>
 
@@ -513,11 +511,13 @@ In clinical studies involving over 1 900 patients receiving NEVANAC 3 mg/ml eye 
 
 In the two clinical studies involving 594 patients, diabetic patients were exposed to NEVANAC eye drops, suspension treatment for 90 days for the prevention of macular oedema post cataract surgery. The most frequently reported adverse reaction was punctate keratitis which occurred in 1% of patients, resulting in a frequency category of common. The other most frequently reported adverse reactions were keratitis and foreign body sensation in eyes which occurred in 0.5% and 0.3% of patients, respectively both adverse reactions with a frequency category of uncommon.
 
-<div style=\"page-break-after: always\"></div>
-
 ## Tabulated list of adverse reactions
 
-The following adverse reactions are classified according to the following convention: very common (≥1/10), common (≥1/100 to &lt;1/10), uncommon (≥1/1 000 to &lt;1/100), rare (≥1/10 000 to &lt;1/1 000), very rare (&lt;1/10 000), or not known (cannot be estimated from the available data). Within each frequency grouping, adverse reactions are presented in order of decreasing seriousness. The adverse reactions were obtained from clinical trials or post-marketing reports with NEVANAC 3 mg/ml eye drops, suspension and NEVANAC 1 mg/ml eye drops, suspension.
+The following adverse reactions are classified according to the following convention: very common (≥1/10), common (≥1/100 to &lt;1/10), uncommon (≥1/1 000 to &lt;1/100), rare (≥1/10 000 to &lt;1/1 000), very rare (&lt;1/10 000), or not known (cannot be estimated from the available data). Within each frequency grouping, adverse reactions are presented in order of decreasing seriousness. The adverse
+
+<div style=\"page-break-after: always\"></div>
+
+reactions were obtained from clinical trials or post-marketing reports with NEVANAC 3 mg/ml eye drops, suspension and NEVANAC 1 mg/ml eye drops, suspension.
 
 | System organ classification            | Adverse reactions                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               |
 |----------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -544,11 +544,11 @@ The safety and efficacy of NEVANAC in children and adolescents have not been est
 
 Reporting suspected adverse reactions after authorisation of the medicinal product is important. It allows continued monitoring of the benefit/risk balance of the medicinal product. Healthcare professionals are asked to report any suspected adverse reactions via the national reporting system listed in Appendix V.
 
-<div style=\"page-break-after: always\"></div>
-
 ## 4.9 Overdose
 
 No toxic effects are likely to occur in case of overdose with ocular use, nor in the event of accidental oral ingestion.
+
+<div style=\"page-break-after: always\"></div>
 
 ## 5. PHARMACOLOGICAL PROPERTIES
 
@@ -572,15 +572,17 @@ Results from clinical studies indicate that NEVANAC 3 mg/ml eye drops, suspensio
 
 ## Clinical efficacy and safety
 
-Prevention and treatment of postoperative pain and inflammation associated with cataract surgery The efficacy and safety of NEVANAC 3 mg/ml in the prevention and treatment of postoperative pain and inflammation associated with cataract surgery has been demonstrated in two masked, double blind, placebo-controlled clinical trials in a total of 1 339 patients. In these studies in which patients were dosed daily beginning one day prior to cataract surgery, continued on the day of surgery and for the first 14 days of the postoperative period, NEVANAC 3 mg/ml eye drops, suspension demonstrated superior clinical efficacy compared to its vehicle in treating postoperative pain and inflammation.
+## Prevention and treatment of postoperative pain and inflammation associated with cataract surgery
+
+The efficacy and safety of NEVANAC 3 mg/ml in the prevention and treatment of postoperative pain and inflammation associated with cataract surgery has been demonstrated in two masked, double blind, placebo-controlled clinical trials in a total of 1 339 patients. In these studies in which patients were dosed daily beginning one day prior to cataract surgery, continued on the day of surgery and for the first 14 days of the postoperative period, NEVANAC 3 mg/ml eye drops, suspension demonstrated superior clinical efficacy compared to its vehicle in treating postoperative pain and inflammation.
 
 Patients treated with NEVANAC were less likely to have ocular pain and measurable signs of inflammation (aqueous cells and flare) in the early postoperative period through to the end of treatment than those treated with its vehicle. In the two studies, NEVANAC cleared inflammation at day 14 post operation in 65% and 68% of patients compared to 25% and 35% of patients on vehicle. Pain free rates in the NEVANAC group were 89% and 91% compared to 40% and 50% of patients on vehicle.
 
 Some patients received NEVANAC 3 mg/ml eye drops, suspension for up to 21 days post operation. However, efficacy beyond day 14 post operation was not measured.
 
-<div style=\"page-break-after: always\"></div>
-
 In addition, in one of the two clinical trials, NEVANAC 3 mg/ml eye drops, suspension dosed once a day was non-inferior to NEVANAC 1 mg/ml eye drops, suspension dosed three times a day for the prevention and treatment of postoperative pain and inflammation following cataract surgery. Inflammation clearing and pain free rates were similar for both products at all postoperative evaluations.
+
+<div style=\"page-break-after: always\"></div>
 
 ## Reduction in the risk of postoperative macular oedema associated with cataract surgery in diabetic patients
 
@@ -606,13 +608,13 @@ Studies in rats have shown that radioactive labelled active substance-related ma
 
 Studies in rabbits demonstrated that the topically administered nepafenac is distributed locally from the front of the eye to the posterior segments of the eye (retina and choroid).
 
-<div style=\"page-break-after: always\"></div>
-
 ## Biotransformation
 
 Nepafenac undergoes relatively rapid bioactivation to amfenac via intraocular hydrolases. Subsequently, amfenac undergoes extensive metabolism to more polar metabolites involving hydroxylation of the aromatic ring leading to glucuronide conjugate formation.
 
-Radiochromatographic analyses before and after β-glucuronidase hydrolysis indicated that all metabolites were in the form of glucuronide conjugates, with the exception of amfenac. Amfenac was the major metabolite in plasma, representing approximately 13% of total plasma radioactivity. The second most abundant plasma metabolite was identified as 5-hydroxy nepafenac, representing approximately 9% of total radioactivity at Cmax.
+<div style=\"page-break-after: always\"></div>
+
+Radiochromatographic analyses before and after β -glucuronidase hydrolysis indicated that all metabolites were in the form of glucuronide conjugates, with the exception of amfenac. Amfenac was the major metabolite in plasma, representing approximately 13% of total plasma radioactivity. The second most abundant plasma metabolite was identified as 5-hydroxy nepafenac, representing approximately 9% of total radioactivity at Cmax.
 
 Interactions with other medicinal products: Neither nepafenac nor amfenac inhibit any of the major human cytochrome P450 (CYP1A2, 2C9, 2C19, 2D6, 2E1 and 3A4) metabolic activities in vitro at concentrations up to 3 000 ng/ml. Therefore, interactions involving CYP-mediated metabolism of concomitantly administered medicinal products are unlikely. Interactions mediated by protein binding are also unlikely.
 
@@ -638,27 +640,21 @@ Boric acid Propylene glycol Carbomer Sodium chloride Guar Carmellose sodium Diso
 
 Not applicable.
 
-<div style=\"page-break-after: always\"></div>
-
-6.3
-
-Shelf-life
+## 6.3 Shelf-life
 
 18 months
 
 Discard 4 weeks after first opening.
 
-6.4
+<div style=\"page-break-after: always\"></div>
 
-Special precautions for storage
+## 6.4 Special precautions for storage
 
 Do not store above 25°C. Keep bottle in the outer carton in order to protect from light.
 
 For storage conditions after first opening of the medicinal product, see section 6.3
 
-6.5
-
-Nature and contents of container
+## 6.5 Nature and contents of container
 
 Round or oval low density polyethylene bottle with a dispensing plug and white polypropylene screw cap containing 3 ml suspension. The bottle may be presented in a pouch.
 
@@ -676,11 +672,7 @@ MARKETING AUTHORISATION HOLDER
 
 Novartis Europharm Limited
 
-Vista Building
-
-Elm Park, Merrion Road
-
-Dublin 4
+Vista Building Elm Park, Merrion Road Dublin 4
 
 Ireland
 
@@ -688,9 +680,7 @@ Ireland
 
 MARKETING AUTHORISATION NUMBER(S)
 
-EU/1/07/433/002
-
-EU/1/07/433/003
+EU/1/07/433/002 EU/1/07/433/003
 
 ## 9. DATE OF FIRST AUTHORISATION/RENEWAL OF THE AUTHORISATION
 
@@ -698,15 +688,11 @@ Date of first authorisation: 11 December 2007
 
 Date of latest renewal: 24 September 2012
 
-10.
+## 10. DATE OF REVISION OF THE TEXT
 
-DATE OF REVISION OF THE TEXT
+Detailed information on this medicinal product is available on the website of the European Medicines Agency http://www.ema.europa.eu
 
-Detailed information on this medicinal product is available on the website of the European Medicines
-
-Agency http://www.ema.europa.eu
-
-20
+19
 
 <div style=\"page-break-after: always\"></div>
 
@@ -724,8 +710,6 @@ Agency http://www.ema.europa.eu
 Name and address of the manufacturer responsible for batch release
 
 Novartis Manufacturing NV Rijksweg 14 2870 Puurs-Sint-Amands Belgium
-
-Novartis Pharma GmbH Roonstraβe 25 90429 Nuremberg Germany
 
 Novartis Pharma GmbH Sophie-Germain-Strasse 10 90443 Nuremberg Germany
 
@@ -932,6 +916,8 @@ Keep out of the sight and reach of children.
 
 Once daily
 
+<div style=\"page-break-after: always\"></div>
+
 ## 8. EXPIRY DATE
 
 EXP
@@ -939,8 +925,6 @@ EXP
 Discard 4 weeks after first opening.
 
 Opened:
-
-<div style=\"page-break-after: always\"></div>
 
 ## 9. SPECIAL STORAGE CONDITIONS
 
@@ -984,29 +968,30 @@ Medicinal product subject to medical prescription
 
 Nevanac 3 mg/ml
 
-## 17. UNIQUE IDENTIFIER - 2D BARCODE
+## 17. UNIQUE IDENTIFIER -2D BARCODE
 
 2D barcode carrying the unique identifier included.
 
-## 18. UNIQUE IDENTIFIER - HUMAN READABLE DATA
+<div style=\"page-break-after: always\"></div>
 
-PC
+| 18.   | UNIQUE IDENTIFIER - HUMANREADABLE DATA   |
+|-------|------------------------------------------|
 
-SN
-
-NN
+PC SN NN
 
 <div style=\"page-break-after: always\"></div>
 
-## MINIMUM PARTICULARS TO APPEAR ON SMALL IMMEDIATE PACKAGING UNITS
+| MINIMUM PARTICULARS TO APPEAR ONSMALLIMMEDIATE PACKAGING UNITS   |
+|------------------------------------------------------------------|
+| BOTTLE LABEL                                                     |
 
-BOTTLE LABEL
-
-## 1. NAME OF THE MEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION
+| 1.   | NAMEOFTHEMEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION   |
+|------|-------------------------------------------------------------|
 
 NEVANAC 3 mg/ml eye drops nepafenac Ocular use
 
-## 2. METHOD OF ADMINISTRATION
+| 2.   | METHODOFADMINISTRATION   |
+|------|--------------------------|
 
 Read the package leaflet before use.
 
@@ -1030,7 +1015,9 @@ Lot
 
 <div style=\"page-break-after: always\"></div>
 
-## MINIMUM PARTICULARS TO APPEAR ON SMALL IMMEDIATE PACKAGING UNITS POUCH
+## MINIMUM PARTICULARS TO APPEAR ON SMALL IMMEDIATE PACKAGING UNITS
+
+POUCH
 
 ## 1. NAME OF THE MEDICINAL PRODUCT AND ROUTE OF ADMINISTRATION
 
@@ -1111,7 +1098,7 @@ Talk to your doctor, pharmacist or nurse before using NEVANAC:
 - -if you have rheumatoid arthritis.
 - -if you have had repeated eye surgery within a short period of time.
 
-## Avoid sunlight during treatment with NEVANAC
+Avoid sunlight during treatment with NEVANAC
 
 <div style=\"page-break-after: always\"></div>
 
@@ -1259,8 +1246,7 @@ Do not throw away any medicines via wastewater or household waste. Ask your phar
 
 - -The active substance is nepafenac. One ml of suspension contains 1 mg of nepafenac.
 - -The other ingredients are benzalkonium chloride (see section 2), carbomer, disodium edetate, mannitol, purified water, sodium-chloride and tyloxapol.
-
-Tiny amounts of sodium hydroxide and/or hydrochloric acid are added to keep acidity levels (pH levels) normal.
+- Tiny amounts of sodium hydroxide and/or hydrochloric acid are added to keep acidity levels (pH levels) normal.
 
 ## What NEVANAC looks like and the contents of the pack
 
@@ -1274,11 +1260,7 @@ Novartis Europharm Limited Vista Building Elm Park, Merrion Road Dublin 4 Irelan
 
 Novartis Manufacturing NV Rijksweg 14 2870 Puurs-Sint-Amands Belgium
 
-Novartis Pharma GmbH Roonstraβe 25 90429 Nuremberg Germany
-
 Novartis Pharma GmbH Sophie-Germain-Strasse 10 90443 Nuremberg Germany
-
-<div style=\"page-break-after: always\"></div>
 
 For any information about this medicine, please contact the local representative of the Marketing Authorisation Holder:
 
@@ -1288,45 +1270,133 @@ Novartis Pharma N.V.
 
 Tél/Tel: +32 2 246 16 11
 
+## Lietuva
+
+SIA Novartis Baltics Lietuvos filialas Tel: +370 5 269 16 50
+
 ## България
 
-Novartis Bulgaria EOOD Тел.: +359 2 489 98 28
+Novartis Bulgaria EOOD
+
+Тел
+
+.: +359 2 489 98 28
+
+## Luxembourg/Luxemburg
+
+Novartis Pharma N.V.
+
+Tél/Tel: +32 2 246 16 11
 
 ## Česká republika
 
-Novartis s.r.o. Tel: +420 225 775 111
+Novartis s.r.o.
+
+Tel: +420 225 775 111
+
+## Magyarország
+
+Novartis Hungária Kft.
+
+Tel.: +36 1 457 65 00
 
 ## Danmark
 
-Novartis Healthcare A/S Tlf: +45 39 16 84 00
+Novartis Healthcare A/S
+
+Tlf: +45 39 16 84 00
+
+## Malta
+
+Novartis Pharma Services Inc.
+
+Tel: +356 2122 2872
+
+<div style=\"page-break-after: always\"></div>
 
 ## Deutschland
 
-Cranach Pharma GmbH Tel: +49 40 3803837-10
+## Nederland
+
+Cranach Pharma GmbH
+
+Tel: +49 40 3803837-10
+
+Novartis Pharma B.V.
+
+Tel: +31 88 04 52 111
 
 ## Eesti
 
-SIA Novartis Baltics Eesti filiaal Tel: +372 66 30 810
+SIA Novartis Baltics Eesti filiaal
+
+Tel: +372 66 30 810
+
+## Norge
+
+Novartis Norge AS
+
+Tlf: +47 23 05 20 00
 
 ## Ελλάδα
 
-Novartis (Hellas) A.E.B.E. Τηλ: +30 210 281 17 12
+Novartis (Hellas) A.E.B.E.
+
+Τηλ: +30 210 281 17 12
+
+## Österreich
+
+Novartis Pharma GmbH
+
+Tel: +43 1 86 6570
 
 ## España
 
-Novartis Farmacéutica, S.A. Tel: +34 93 306 42 00
+Novartis Farmacéutica, S.A.
+
+Tel: +34 93 306 42 00
+
+## Polska
+
+Novartis Poland Sp. z o.o.
+
+Tel.: +48 22 375 4888
 
 ## France
 
-Novartis Pharma S.A.S. Tél: +33 1 55 47 66 00
+Novartis Pharma S.A.S.
+
+Tél: +33 1 55 47 66 00
+
+## Portugal
+
+Novartis Farma - Produtos Farmacêuticos, S.A.
+
+Tel: +351 21 000 8600
 
 ## Hrvatska
 
-Novartis Hrvatska d.o.o. Tel. +385 1 6274 220
+Novartis Hrvatska d.o.o.
+
+Tel. +385 1 6274 220
+
+## România
+
+Novartis Pharma Services Romania SRL
+
+Tel: +40 21 31299 01
 
 ## Ireland
 
-Novartis Ireland Limited Tel: +353 1 260 12 55
+Novartis Ireland Limited
+
+Tel: +353 1 260 12 55
+
+## Slovenija
+
+Novartis Pharma Services Inc.
+
+Tel: +386 1 300 75 50
 
 ## Ísland
 
@@ -1334,61 +1404,23 @@ Vistor hf.
 
 Sími: +354 535 7000
 
-## Italia
-
-Novartis Farma S.p.A. Tel: +39 02 96 54 1
-
-## Lietuva
-
-SIA Novartis Baltics Lietuvos filialas Tel: +370 5 269 16 50
-
-## Luxembourg/Luxemburg
-
-Novartis Pharma N.V. Tél/Tel: +32 2 246 16 11
-
-## Magyarország
-
-Novartis Hungária Kft. Tel.: +36 1 457 65 00
-
-## Malta
-
-Novartis Pharma Services Inc. Tel: +356 2122 2872
-
-## Nederland
-
-Novartis Pharma B.V. Tel: +31 88 04 52 111
-
-## Norge
-
-Novartis Norge AS Tlf: +47 23 05 20 00
-
-## Österreich
-
-Novartis Pharma GmbH Tel: +43 1 86 6570
-
-## Polska
-
-Novartis Poland Sp. z o.o. Tel.: +48 22 375 4888
-
-## Portugal
-
-Novartis Farma - Produtos Farmacêuticos, S.A. Tel: +351 21 000 8600
-
-## România
-
-Novartis Pharma Services Romania SRL Tel: +40 21 31299 01
-
-## Slovenija
-
-Novartis Pharma Services Inc. Tel: +386 1 300 75 50
-
 ## Slovenská republika
 
-Novartis Slovakia s.r.o. Tel: + 421 2 5542 5439
+Novartis Slovakia s.r.o.
+
+Tel: + 421 2 5542 5439
+
+## Italia
+
+Novartis Farma S.p.A.
+
+Tel: +39 02 96 54 1
 
 ## Suomi/Finland
 
-Novartis Finland Oy Puh/Tel: +358 (0)10 6133 200
+Novartis Finland Oy
+
+Puh/Tel: +358 (0)10 6133 200
 
 ## Κύπρος
 
@@ -1396,7 +1428,11 @@ Novartis Pharma Services Inc.
 
 Τηλ: +357 22 690 690
 
-<div style=\"page-break-after: always\"></div>
+## Sverige
+
+Novartis Sverige AB
+
+Tel: +46 8 732 32 00
 
 ## Latvija
 
@@ -1409,12 +1445,6 @@ Tel: +371 67 887 070
 ## Other sources of information
 
 Detailed information on this medicine is available on the European Medicines Agency web site: http://www.ema.europa.eu
-
-## Sverige
-
-Novartis Sverige AB
-
-Tel: +46 8 732 32 00
 
 ## Package leaflet: Information for the user
 
@@ -1471,7 +1501,7 @@ Avoid sunlight during treatment with NEVANAC.
 
 <div style=\"page-break-after: always\"></div>
 
-Wearing contact lenses is not recommended after cataract surgery. Your doctor will advise you when you can use contact lenses again (see also 'NEVANAC contains benzalkonium chloride').
+Wearing contact lenses is not recommended after cataract surgery. Your doctor will advise you when you can use contact lenses again (see also ' NEVANAC contains benzalkonium chloride ').
 
 ## Children and adolescents
 
@@ -1632,57 +1662,89 @@ Novartis Europharm Limited Vista Building Elm Park, Merrion Road Dublin 4 Irelan
 
 Novartis Manufacturing NV Rijksweg 14 2870 Puurs-Sint-Amands Belgium
 
-Novartis Pharma GmbH Roonstraβe 25 90429 Nuremberg Germany
-
 Novartis Pharma GmbH Sophie-Germain-Strasse 10 90443 Nuremberg Germany
-
-<div style=\"page-break-after: always\"></div>
 
 For any information about this medicine, please contact the local representative of the Marketing Authorisation Holder:
 
 ## België/Belgique/Belgien
 
-Novartis Pharma N.V. Tél/Tel: +32 2 246 16 11
+Novartis Pharma N.V.
+
+Tél/Tel: +32 2 246 16 11
+
+## Lietuva
+
+SIA Novartis Baltics Lietuvos filialas Tel: +370 5 269 16 50
 
 ## България
 
-Novartis Bulgaria EOOD Тел.: +359 2 489 98 28
+Novartis Bulgaria EOOD Тел .: +359 2 489 98 28
+
+## Luxembourg/Luxemburg
+
+Novartis Pharma N.V. Tél/Tel: +32 2 246 16 11
 
 ## Česká republika
 
-Novartis s.r.o. Tel: +420 225 775 111
+Novartis s.r.o.
+
+Tel: +420 225 775 111
+
+## Magyarország
+
+Novartis Hungária Kft.
+
+Tel.: +36 1 457 65 00
+
+<div style=\"page-break-after: always\"></div>
 
 ## Danmark
 
-Novartis Healthcare A/S Tlf: +45 39 16 84 00
+Novartis Healthcare A/S
+
+Tlf: +45 39 16 84 00
 
 ## Deutschland
 
-Cranach Pharma GmbH Tel: +49 40 3803837-10
+Cranach Pharma GmbH
+
+Tel: +49 40 3803837-10
 
 ## Eesti
 
-SIA Novartis Baltics Eesti filiaal Tel: +372 66 30 810
+SIA Novartis Baltics Eesti filiaal
+
+Tel: +372 66 30 810
 
 ## Ελλάδα
 
-Novartis (Hellas) A.E.B.E. Τηλ: +30 210 281 17 12
+Novartis (Hellas) A.E.B.E.
+
+Τηλ: +30 210 281 17 12
 
 ## España
 
-Novartis Farmacéutica, S.A. Tel: +34 93 306 42 00
+Novartis Farmacéutica, S.A.
+
+Tel: +34 93 306 42 00
 
 ## France
 
-Novartis Pharma S.A.S. Tél: +33 1 55 47 66 00
+Novartis Pharma S.A.S.
+
+Tél: +33 1 55 47 66 00
 
 ## Hrvatska
 
-Novartis Hrvatska d.o.o. Tel. +385 1 6274 220
+Novartis Hrvatska d.o.o.
+
+Tel. +385 1 6274 220
 
 ## Ireland
 
-Novartis Ireland Limited Tel: +353 1 260 12 55
+Novartis Ireland Limited
+
+Tel: +353 1 260 12 55
 
 ## Ísland
 
@@ -1692,67 +1754,15 @@ Sími: +354 535 7000
 
 ## Italia
 
-Novartis Farma S.p.A. Tel: +39 02 96 54 1
+Novartis Farma S.p.A.
 
-## Lietuva
-
-SIA Novartis Baltics Lietuvos filialas Tel: +370 5 269 16 50
-
-## Luxembourg/Luxemburg
-
-Novartis Pharma N.V. Tél/Tel: +32 2 246 16 11
-
-## Magyarország
-
-Novartis Hungária Kft. Tel.: +36 1 457 65 00
-
-## Malta
-
-Novartis Pharma Services Inc. Tel: +356 2122 2872
-
-## Nederland
-
-Novartis Pharma B.V. Tel: +31 88 04 52 111
-
-## Norge
-
-Novartis Norge AS Tlf: +47 23 05 20 00
-
-## Österreich
-
-Novartis Pharma GmbH Tel: +43 1 86 6570
-
-## Polska
-
-Novartis Poland Sp. z o.o. Tel.: +48 22 375 4888
-
-## Portugal
-
-Novartis Farma - Produtos Farmacêuticos, S.A. Tel: +351 21 000 8600
-
-## România
-
-Novartis Pharma Services Romania SRL Tel: +40 21 31299 01
-
-## Slovenija
-
-Novartis Pharma Services Inc. Tel: +386 1 300 75 50
-
-## Slovenská republika
-
-Novartis Slovakia s.r.o. Tel: + 421 2 5542 5439
-
-## Suomi/Finland
-
-Novartis Finland Oy Puh/Tel: +358 (0)10 6133 200
+Tel: +39 02 96 54 1
 
 ## Κύπρος
 
 Novartis Pharma Services Inc.
 
 Τηλ: +357 22 690 690
-
-<div style=\"page-break-after: always\"></div>
 
 ## Latvija
 
@@ -1765,6 +1775,66 @@ Tel: +371 67 887 070
 ## Other sources of information
 
 Detailed information on this medicine is available on the European Medicines Agency web site: http://www.ema.europa.eu
+
+## Malta
+
+Novartis Pharma Services Inc.
+
+Tel: +356 2122 2872
+
+## Nederland
+
+Novartis Pharma B.V.
+
+Tel: +31 88 04 52 111
+
+## Norge
+
+Novartis Norge AS
+
+Tlf: +47 23 05 20 00
+
+## Österreich
+
+Novartis Pharma GmbH
+
+Tel: +43 1 86 6570
+
+## Polska
+
+Novartis Poland Sp. z o.o.
+
+Tel.: +48 22 375 4888
+
+## Portugal
+
+Novartis Farma - Produtos Farmacêuticos, S.A.
+
+Tel: +351 21 000 8600
+
+## România
+
+Novartis Pharma Services Romania SRL
+
+Tel: +40 21 31299 01
+
+## Slovenija
+
+Novartis Pharma Services Inc.
+
+Tel: +386 1 300 75 50
+
+## Slovenská republika
+
+Novartis Slovakia s.r.o.
+
+Tel: + 421 2 5542 5439
+
+## Suomi/Finland
+
+Novartis Finland Oy
+
+Puh/Tel: +358 (0)10 6133 200
 
 ## Sverige
 

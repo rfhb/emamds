@@ -1,18 +1,18 @@
 ---
-document_datetime: 2025-01-23 15:16:39
-document_pages: 23
+document_datetime: 2026-01-22 16:39:20
+document_pages: 22
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/opatanol-epar-product-information_en.pdf
 document_name: opatanol-epar-product-information_en.pdf
 version: success
-processing_time: 4.4875774
-conversion_datetime: 2025-12-27 16:31:32.237709
+processing_time: 4.3942841
+conversion_datetime: 2026-01-26 20:48:51.717906
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.66.0
-  docling-core: 2.57.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.10.0
+  docling-jobkit: 1.8.1
+  docling: 2.70.0
+  docling-core: 2.60.2
+  docling-ibm-models: 3.11.0
+  docling-parse: 4.7.3
   python: cpython-313 (3.13.11)
   plaform: macOS-26.2-arm64-arm-64bit-Mach-O
 ---
@@ -68,13 +68,15 @@ Opatanol may be used in paediatric patients three years of age and older at the 
 
 Olopatadine in the form of eye drops (Opatanol) has not been studied in patients with renal or hepatic disease. However, no dosage adjustment is expected to be necessary in hepatic or renal impairment (see section 5.2).
 
-<div style=\"page-break-after: always\"></div>
-
 ## Method of administration
 
 For ocular use only.
 
-After the bottle cap is removed, if the tamper evident snap collar is loose, remove before using the product. To prevent contamination of the dropper tip and solution, care must be taken not to touch the eyelids, surrounding areas, or other surfaces with the dropper tip of the bottle. Keep the bottle tightly closed when not in use.
+After the bottle cap is removed, if the tamper evident snap collar is loose, remove before using the product. To prevent contamination of the dropper tip and solution, care must be taken not to touch the
+
+<div style=\"page-break-after: always\"></div>
+
+eyelids, surrounding areas, or other surfaces with the dropper tip of the bottle. Keep the bottle tightly closed when not in use.
 
 In case of concomitant therapy with other topical ocular medicines, an interval of five minutes should be allowed between successive applications. Eye ointments should be administered last.
 
@@ -100,8 +102,6 @@ No interaction studies with other medicinal products have been performed.
 
 In vitro studies have shown that olopatadine did not inhibit metabolic reactions which involve cytochrome P-450 isozymes 1A2, 2C8, 2C9, 2C19, 2D6, 2E1 and 3A4. These results indicate that olopatadine is unlikely to result in metabolic interactions with other concomitantly administered active substances.
 
-<div style=\"page-break-after: always\"></div>
-
 ## 4.6 Fertility, pregnancy and lactation
 
 ## Pregnancy
@@ -120,6 +120,8 @@ A risk to the newborn/infants cannot be excluded.
 
 Opatanol should not be used during breast-feeding.
 
+<div style=\"page-break-after: always\"></div>
+
 ## Fertility
 
 Studies have not been performed to evaluate the effect of topical ocular administration of olopatadine on human fertility.
@@ -136,11 +138,11 @@ As with any eye drop, temporary blurred vision or other visual disturbances may 
 
 In clinical studies involving 1680 patients, Opatanol was administered one to four times daily in both eyes for up to four months as monotherapy or adjunctive therapy to loratadine 10 mg. Approximately 4.5% of patients can be expected to experience adverse reactions associated with the use of Opatanol; however, only 1.6% of patients discontinued from the clinical studies due to these adverse reactions. No serious ophthalmic or systemic adverse reactions related to Opatanol were reported in clinical studies. The most frequent treatment-related adverse reaction was eye pain, reported at an overall incidence of 0.7%.
 
-<div style=\"page-break-after: always\"></div>
-
 ## Tabulated list of adverse reactions
 
-The following adverse reactions have been reported during clinical studies and post-marketing data and are classified according to the following convention: very common (≥1/10), common (≥1/100 to &lt;1/10), uncommon (≥1/1,000 to &lt;1/100), rare (≥1/10,000 to &lt;1/1000)very rare (&lt;1/10,000) or not known (cannot be estimated from the available data). Within each frequency grouping, adverse reactions are presented in order of decreasing seriousness.
+The following adverse reactions have been reported during clinical studies and post-marketing data and are classified according to the following convention: very common (≥1/10), common ( ≥ 1/100 to &lt;1/10), uncommon ( ≥ 1/1,000 to &lt;1/100), rare ( ≥ 1/10,000 to &lt;1/1000)very rare (&lt;1/10,000) or not known (cannot be estimated from the available data). Within each frequency grouping, adverse reactions are presented in order of decreasing seriousness.
+
+<div style=\"page-break-after: always\"></div>
 
 | System Organ Classification                          | Frequency   | Adverse Reactions                                                                                                                                                                                                                                                                                                                                                                                                        |
 |------------------------------------------------------|-------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -156,7 +158,7 @@ The following adverse reactions have been reported during clinical studies and p
 | Respiratory, thoracic, and mediastinal disorders     | Not known   | dyspnoea, sinusitis                                                                                                                                                                                                                                                                                                                                                                                                      |
 | Gastrointestinal disorders                           | Not known   | nausea, vomiting,                                                                                                                                                                                                                                                                                                                                                                                                        |
 | Skin and subcutaneous tissue disorders               | Uncommon    | dermatitis contact, skin burning sensation, dry skin                                                                                                                                                                                                                                                                                                                                                                     |
-|                                                      | Not known   | dermatitis, erythema                                                                                                                                                                                                                                                                                                                                                                                                     |
+| Skin and subcutaneous tissue disorders               | Not known   | dermatitis, erythema                                                                                                                                                                                                                                                                                                                                                                                                     |
 | General disorders and administration site conditions | Common      | fatigue                                                                                                                                                                                                                                                                                                                                                                                                                  |
 | General disorders and administration site conditions | Not known   | asthenia, malaise                                                                                                                                                                                                                                                                                                                                                                                                        |
 
@@ -166,13 +168,13 @@ Cases of corneal calcification have been reported very rarely in association wit
 
 Reporting suspected adverse reactions after authorisation of the medicinal product is important. It allows continued monitoring of the benefit/risk balance of the medicinal product. Healthcare professionals are asked to report any suspected adverse reactions via the national reporting system listed in Appendix V.
 
-<div style=\"page-break-after: always\"></div>
-
 ## 4.9 Overdose
 
 No data are available in humans regarding overdose by accidental or deliberate ingestion. Olopatadine has a low order of acute toxicity in animals. Accidental ingestion of the entire contents of a bottle of Opatanol would deliver a maximum systemic exposure of 5 mg olopatadine. This exposure would result in a final dose of 0.5 mg/kg in a 10 kg infant, assuming 100% absorption.
 
 Prolongation of the QTc interval in dogs was observed only at exposures considered sufficiently in excess of the maximum human exposure indicating little relevance to clinical use. A 5 mg oral dose was administered twice-daily for 2.5 days to 102 young and elderly male and female healthy volunteers with no significant prolongation of QTc interval compared to placebo. The range of peak steady-state olopatadine plasma concentrations (35 to 127 ng/ml) seen in this study represents at least a 70-fold safety margin for topical olopatadine with respect to effects on cardiac repolarisation.
+
+<div style=\"page-break-after: always\"></div>
 
 In the case of overdose, appropriate monitoring and management of the patient should be implemented.
 
@@ -196,11 +198,11 @@ From oral pharmacokinetic studies, the half-life of olopatadine in plasma was ap
 
 Since olopatadine is excreted in urine primarily as unchanged active substance, impairment of renal function alters the pharmacokinetics of olopatadine with peak plasma concentrations 2.3-fold greater in patients with severe renal impairment (mean creatinine clearance of 13.0 ml/min) compared to healthy adults. Following a 10 mg oral dose in patients undergoing haemodialysis (with no urinary output), plasma olopatadine concentrations were significantly lower on the haemodialysis day than on the non-haemodialysis day suggesting olopatadine can be removed by haemodialysis.
 
-<div style=\"page-break-after: always\"></div>
-
 Studies comparing the pharmacokinetics of 10 mg oral doses of olopatadine in young (mean age 21 years) and elderly (mean age 74 years) showed no significant differences in the plasma concentrations (AUC), protein binding or urinary excretion of unchanged parent drug and metabolites.
 
 A renal impairment study after oral dosing of olopatadine has been performed in patients with severe renal impairment. The results indicate that a somewhat higher plasma concentration can be expected with Opatanol in this population. Since plasma concentrations following topical ocular dosing of olopatadine are 50-to 200-fold lower than after well-tolerated oral doses, dose adjustment is not expected to be necessary in the elderly or in the renally impaired population. Liver metabolism is a minor route of elimination. Dose adjustment is not expected to be necessary with hepatic impairment.
+
+<div style=\"page-break-after: always\"></div>
 
 ## 5.3 Preclinical safety data
 
@@ -212,7 +214,9 @@ Studies in animals have shown reduced growth of nursing pups of dams receiving s
 
 ## 6.1 List of excipients
 
-Benzalkonium chloride Sodium chloride Disodium phosphate dodecahydrate (E339) Hydrochloric acid (E507) (to adjust pH) Sodium hydroxide (E524) (to adjust pH) Purified water
+Benzalkonium chloride Sodium chloride Disodium phosphate dodecahydrate (E339) Hydrochloric acid (E507) (to adjust pH) Sodium hydroxide (E524) (to adjust pH)
+
+Purified water
 
 ## 6.2 Incompatibilities
 
@@ -236,21 +240,17 @@ This medicinal product does not require any special storage conditions.
 
 Cartons containing 1 or 3 bottles. Not all pack sizes may be marketed.
 
-<div style=\"page-break-after: always\"></div>
-
 ## 6.6 Special precautions for disposal
 
 No special requirements.
 
-7.
-
-MARKETING AUTHORISATION HOLDER
+## 7. MARKETING AUTHORISATION HOLDER
 
 Novartis Europharm Limited Vista Building Elm Park, Merrion Road Dublin 4 Ireland
 
-8.
+<div style=\"page-break-after: always\"></div>
 
-MARKETING AUTHORISATION NUMBERS
+## 8. MARKETING AUTHORISATION NUMBERS
 
 EU/1/02/217/001-002
 
@@ -284,10 +284,6 @@ Names and addresses of the manufacturer(s) responsible for batch release
 Novartis Farmacéutica, S.A. Gran Via de les Corts Catalanes, 764 08013 Barcelona Spain
 
 Novartis Manufacturing NV Rijksweg 14 2870 Puurs-Sint-Amands Belgium
-
-Novartis Pharma GmbH Roonstraße 25 D-90429 Nuremberg Germany
-
-Siegfried El Masnou, S.A. Camil Fabra 58 El Masnou 08320 Barcelona Spain
 
 Novartis Pharma GmbH Sophie-Germain-Strasse 10 90443 Nuremberg Germany
 
@@ -375,7 +371,7 @@ Opened (3):
 
 ## 9. SPECIAL STORAGE CONDITIONS
 
-10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
+## 10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
@@ -405,7 +401,7 @@ Medicinal product subject to medical prescription.
 
 Opatanol
 
-## 17. UNIQUE IDENTIFIER - 2D BARCODE
+## 17. UNIQUE IDENTIFIER -2D BARCODE
 
 2D barcode carrying the unique identifier included.
 
@@ -506,9 +502,9 @@ Do not use Opatanol in children under the age of 3 years. Do not give this medic
 
 Tell your doctor or pharmacist if you are taking, have recently taken or might take any other medicines.
 
-If you are using other eye drops or eye ointment medicines, leave at least 5 minutes between each medicine. Eye ointments should be administered last.
-
 <div style=\"page-break-after: always\"></div>
+
+If you are using other eye drops or eye ointment medicines, leave at least 5 minutes between each medicine. Eye ointments should be administered last.
 
 ## Pregnancy, breast-feeding and fertility
 
@@ -544,17 +540,19 @@ Use this much unless your doctor tells you to do differently. Only use Opatanol 
 
 Opatanol should only be used as an eye drop.
 
+<div style=\"page-break-after: always\"></div>
+
 ## TURN THE PAGE FOR MORE ADVICE.
 
 Now turn over.
-
-<div style=\"page-break-after: always\"></div>
 
 ## How to use Opatanol ( continued)
 
 <!-- image -->
 
-How much to use
+<!-- image -->
+
+## How much to use
 
 see side 1
 
@@ -575,7 +573,7 @@ If a drop misses your eye, try again.
 
 ## If you use more Opatanol than you should
 
-Rinse it all out with warm water. Do not put in any more drops until it's time for your next regular dose.
+Rinse it all out with warm water. Do no t put in any more drops until it's time for your next regular dose.
 
 ## If you forget to use Opatanol
 
@@ -587,8 +585,6 @@ Do not stop using this medicine without first speaking to your doctor.
 
 If you have any further questions on the use of this medicine, ask your doctor or pharmacist.
 
-<!-- image -->
-
 <div style=\"page-break-after: always\"></div>
 
 ## 4. Possible side effects
@@ -599,7 +595,7 @@ The following side effects have been seen with Opatanol:
 
 ## Common (may affect up to 1 in 10 people)
 
-Effects in the eye:
+Effects in the eye
 
 Eye pain, eye irritation, dry eye, abnormal eye sensation, eye discomfort.
 
@@ -637,7 +633,7 @@ If you get any side effects, talk to your doctor or pharmacist. This includes an
 
 Keep this medicine out of the sight and reach of children.
 
-Do not use this medicine after the expiry date which is stated on the bottle and the box after 'EXP'. The expiry date refers to the last day of the month.
+Do not use this medicine after the expiry date which is stated on the bottle and the box after 'EXP' . The expiry date refers to the last day of the month.
 
 This medicine does not require any special storage conditions.
 
@@ -670,13 +666,7 @@ Novartis Farmacéutica, S.A. Gran Via de les Corts Catalanes, 764 08013 Barcelon
 
 Novartis Manufacturing NV Rijksweg 14 2870 Puurs-Sint-Amands Belgium
 
-Novartis Pharma GmbH Roonstraße 25 D-90429 Nuremberg Germany
-
-Siegfried El Masnou, S.A. Camil Fabra 58 El Masnou 08320 Barcelona Spain
-
 Novartis Pharma GmbH Sophie-Germain-Strasse 10 90443 Nuremberg Germany
-
-<div style=\"page-break-after: always\"></div>
 
 For any information about this medicine, please contact the local representative of the Marketing Authorisation Holder:
 
@@ -684,45 +674,131 @@ For any information about this medicine, please contact the local representative
 
 Novartis Pharma N.V. Tél/Tel: +32 2 246 16 11
 
+## Lietuva
+
+SIA Novartis Baltics Lietuvos filialas Tel: +370 5 269 16 50
+
 ## България
 
-Novartis Bulgaria EOOD Тел.: +359 2 489 98 28
+Novartis Bulgaria EOOD
+
+Тел.: +359 2 489 98 28
+
+## Luxembourg/Luxemburg
+
+Novartis Pharma N.V.
+
+Tél/Tel: +32 2 246 16 11
 
 ## Česká republika
 
-Novartis s.r.o. Tel: +420 225 775 111
+Novartis s.r.o.
+
+Tel: +420 225 775 111
+
+## Magyarország
+
+Novartis Hungária Kft.
+
+Tel.: +36 1 457 65 00
 
 ## Danmark
 
-Novartis Healthcare A/S Tlf: +45 39 16 84 00
+Novartis Healthcare A/S
+
+Tlf: +45 39 16 84 00
+
+## Malta
+
+Novartis Pharma Services Inc.
+
+Tel: +356 2122 2872
+
+<div style=\"page-break-after: always\"></div>
 
 ## Deutschland
 
-Novartis Pharma GmbH Tel: +49 911 273 0
+## Nederland
+
+Novartis Pharma GmbH
+
+Tel: +49 911 273 0
+
+Novartis Pharma B.V.
+
+Tel: +31 88 04 52 111
 
 ## Eesti
 
-SIA Novartis Baltics Eesti filiaal Tel: +372 66 30 810
+SIA Novartis Baltics Eesti filiaal
+
+Tel: +372 66 30 810
+
+## Norge
+
+Novartis Norge AS
+
+Tlf: +47 23 05 20 00
 
 ## Ελλάδα
 
-Novartis (Hellas) A.E.B.E. Τηλ: +30 210 281 17 12
+Novartis (Hellas) A.E.B.E.
+
+Τηλ: +30 210 281 17 12
+
+## Österreich
+
+Novartis Pharma GmbH
+
+Tel: +43 1 86 6570
 
 ## España
 
-Novartis Farmacéutica, S.A. Tel: +34 93 306 42 00
+Novartis Farmacéutica, S.A.
+
+Tel: +34 93 306 42 00
+
+## Polska
+
+Novartis Poland Sp. z o.o.
+
+Tel.: +48 22 375 4888
 
 ## France
 
-Novartis Pharma S.A.S. Tél: +33 1 55 47 66 00
+Novartis Pharma S.A.S.
+
+Tél: +33 1 55 47 66 00
+
+## Portugal
+
+Novartis Farma - Produtos Farmacêuticos, S.A.
+
+Tel: +351 21 000 8600
 
 ## Hrvatska
 
-Novartis Hrvatska d.o.o. Tel. +385 1 6274 220
+Novartis Hrvatska d.o.o.
+
+Tel. +385 1 6274 220
+
+## România
+
+Novartis Pharma Services Romania SRL
+
+Tel: +40 21 31299 01
 
 ## Ireland
 
-Novartis Ireland Limited Tel: +353 1 260 12 55
+Novartis Ireland Limited
+
+Tel: +353 1 260 12 55
+
+## Slovenija
+
+Novartis Pharma Services Inc.
+
+Tel: +386 1 300 75 50
 
 ## Ísland
 
@@ -730,61 +806,23 @@ Vistor hf.
 
 Sími: +354 535 7000
 
-## Italia
-
-Novartis Farma S.p.A. Tel: +39 02 96 54 1
-
-## Lietuva
-
-SIA Novartis Baltics Lietuvos filialas Tel: +370 5 269 16 50
-
-## Luxembourg/Luxemburg
-
-Novartis Pharma N.V. Tél/Tel: +32 2 246 16 11
-
-## Magyarország
-
-Novartis Hungária Kft. Tel.: +36 1 457 65 00
-
-## Malta
-
-Novartis Pharma Services Inc. Tel: +356 2122 2872
-
-## Nederland
-
-Novartis Pharma B.V. Tel: +31 88 04 52 111
-
-## Norge
-
-Novartis Norge AS Tlf: +47 23 05 20 00
-
-## Österreich
-
-Novartis Pharma GmbH Tel: +43 1 86 6570
-
-## Polska
-
-Novartis Poland Sp. z o.o. Tel.: +48 22 375 4888
-
-## Portugal
-
-Novartis Farma - Produtos Farmacêuticos, S.A. Tel: +351 21 000 8600
-
-## România
-
-Novartis Pharma Services Romania SRL Tel: +40 21 31299 01
-
-## Slovenija
-
-Novartis Pharma Services Inc. Tel: +386 1 300 75 50
-
 ## Slovenská republika
 
-Novartis Slovakia s.r.o. Tel: + 421 2 5542 5439
+Novartis Slovakia s.r.o.
+
+Tel: + 421 2 5542 5439
+
+## Italia
+
+Novartis Farma S.p.A.
+
+Tel: +39 02 96 54 1
 
 ## Suomi/Finland
 
-Novartis Finland Oy Puh/Tel: +358 (0)10 6133 200
+Novartis Finland Oy
+
+Puh/Tel: +358 (0)10 6133 200
 
 ## Κύπρος
 
@@ -792,7 +830,11 @@ Novartis Pharma Services Inc.
 
 Τηλ: +357 22 690 690
 
-<div style=\"page-break-after: always\"></div>
+## Sverige
+
+Novartis Sverige AB
+
+Tel: +46 8 732 32 00
 
 ## Latvija
 
@@ -805,9 +847,3 @@ Tel: +371 67 887 070
 ## Other sources of information
 
 Detailed information on this medicine is available on the European Medicines Agency web site: http://www.emea.europa.eu/
-
-## Sverige
-
-Novartis Sverige AB
-
-Tel: +46 8 732 32 00

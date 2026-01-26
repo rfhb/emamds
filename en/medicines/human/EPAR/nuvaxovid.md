@@ -1,18 +1,18 @@
 ---
-document_datetime: 2025-12-29 09:03:27
+document_datetime: 2026-01-22 14:20:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/nuvaxovid.html
 document_name: nuvaxovid.html
 version: success
-processing_time: 0.1404862
-conversion_datetime: 2025-12-30 07:59:10.736891
+processing_time: 0.1442308
+conversion_datetime: 2026-01-26 20:39:29.73265
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.66.0
-  docling-core: 2.57.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.10.0
+  docling-jobkit: 1.8.1
+  docling: 2.70.0
+  docling-core: 2.60.2
+  docling-ibm-models: 3.11.0
+  docling-parse: 4.7.3
   python: cpython-313 (3.13.11)
   plaform: macOS-26.2-arm64-arm-64bit-Mach-O
 ---
@@ -25,8 +25,6 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 COVID-19 Vaccine (recombinant, adjuvanted) Medicine Human Authorised
-
-On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -196,7 +194,7 @@ English (EN) (162.29 KB - PDF)
 
 [View](/en/documents/overview/nuvaxovid-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-850)
+[Other languages (22)](#file-language-dropdown-556)
 
 български (BG) (171.5 KB - PDF)
 
@@ -476,17 +474,17 @@ English (EN) (1.6 MB - PDF)
 
 Nuvaxovid : EPAR - Product information
 
-English (EN) (1.12 MB - PDF)
+English (EN) (1 MB - PDF)
 
 **First published:** 20/12/2021
 
-**Last updated:** 06/10/2025
+**Last updated:** 22/01/2026
 
 [View](/en/documents/product-information/nuvaxovid-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-578)
+[Other languages (24)](#file-language-dropdown-332)
 
-български (BG) (1.5 MB - PDF)
+български (BG) (1.15 MB - PDF)
 
 **First published:**
 
@@ -494,11 +492,11 @@ English (EN) (1.12 MB - PDF)
 
 **Last updated:**
 
-06/10/2025
+22/01/2026
 
 [View](/bg/documents/product-information/nuvaxovid-epar-product-information_bg.pdf)
 
-español (ES) (1.12 MB - PDF)
+español (ES) (970.71 KB - PDF)
 
 **First published:**
 
@@ -506,11 +504,11 @@ español (ES) (1.12 MB - PDF)
 
 **Last updated:**
 
-06/10/2025
+22/01/2026
 
 [View](/es/documents/product-information/nuvaxovid-epar-product-information_es.pdf)
 
-čeština (CS) (1.28 MB - PDF)
+čeština (CS) (1.14 MB - PDF)
 
 **First published:**
 
@@ -518,11 +516,11 @@ español (ES) (1.12 MB - PDF)
 
 **Last updated:**
 
-06/10/2025
+22/01/2026
 
 [View](/cs/documents/product-information/nuvaxovid-epar-product-information_cs.pdf)
 
-dansk (DA) (1.14 MB - PDF)
+dansk (DA) (1005.04 KB - PDF)
 
 **First published:**
 
@@ -530,11 +528,11 @@ dansk (DA) (1.14 MB - PDF)
 
 **Last updated:**
 
-06/10/2025
+22/01/2026
 
 [View](/da/documents/product-information/nuvaxovid-epar-product-information_da.pdf)
 
-Deutsch (DE) (1.24 MB - PDF)
+Deutsch (DE) (1.12 MB - PDF)
 
 **First published:**
 
@@ -542,11 +540,11 @@ Deutsch (DE) (1.24 MB - PDF)
 
 **Last updated:**
 
-06/10/2025
+22/01/2026
 
 [View](/de/documents/product-information/nuvaxovid-epar-product-information_de.pdf)
 
-eesti keel (ET) (1.1 MB - PDF)
+eesti keel (ET) (965.4 KB - PDF)
 
 **First published:**
 
@@ -554,11 +552,11 @@ eesti keel (ET) (1.1 MB - PDF)
 
 **Last updated:**
 
-06/10/2025
+22/01/2026
 
 [View](/et/documents/product-information/nuvaxovid-epar-product-information_et.pdf)
 
-ελληνικά (EL) (1.53 MB - PDF)
+ελληνικά (EL) (1.15 MB - PDF)
 
 **First published:**
 
@@ -566,11 +564,11 @@ eesti keel (ET) (1.1 MB - PDF)
 
 **Last updated:**
 
-06/10/2025
+22/01/2026
 
 [View](/el/documents/product-information/nuvaxovid-epar-product-information_el.pdf)
 
-français (FR) (1.13 MB - PDF)
+français (FR) (1.11 MB - PDF)
 
 **First published:**
 
@@ -578,11 +576,11 @@ français (FR) (1.13 MB - PDF)
 
 **Last updated:**
 
-06/10/2025
+22/01/2026
 
 [View](/fr/documents/product-information/nuvaxovid-epar-product-information_fr.pdf)
 
-hrvatski (HR) (1.22 MB - PDF)
+hrvatski (HR) (1.03 MB - PDF)
 
 **First published:**
 
@@ -590,11 +588,11 @@ hrvatski (HR) (1.22 MB - PDF)
 
 **Last updated:**
 
-06/10/2025
+22/01/2026
 
 [View](/hr/documents/product-information/nuvaxovid-epar-product-information_hr.pdf)
 
-íslenska (IS) (1.16 MB - PDF)
+íslenska (IS) (1.02 MB - PDF)
 
 **First published:**
 
@@ -602,11 +600,11 @@ hrvatski (HR) (1.22 MB - PDF)
 
 **Last updated:**
 
-06/10/2025
+22/01/2026
 
 [View](/is/documents/product-information/nuvaxovid-epar-product-information_is.pdf)
 
-italiano (IT) (1.18 MB - PDF)
+italiano (IT) (1.08 MB - PDF)
 
 **First published:**
 
@@ -614,11 +612,11 @@ italiano (IT) (1.18 MB - PDF)
 
 **Last updated:**
 
-06/10/2025
+22/01/2026
 
 [View](/it/documents/product-information/nuvaxovid-epar-product-information_it.pdf)
 
-latviešu valoda (LV) (1.35 MB - PDF)
+latviešu valoda (LV) (1.1 MB - PDF)
 
 **First published:**
 
@@ -626,11 +624,11 @@ latviešu valoda (LV) (1.35 MB - PDF)
 
 **Last updated:**
 
-06/10/2025
+22/01/2026
 
 [View](/lv/documents/product-information/nuvaxovid-epar-product-information_lv.pdf)
 
-lietuvių kalba (LT) (1.35 MB - PDF)
+lietuvių kalba (LT) (1.12 MB - PDF)
 
 **First published:**
 
@@ -638,11 +636,11 @@ lietuvių kalba (LT) (1.35 MB - PDF)
 
 **Last updated:**
 
-06/10/2025
+22/01/2026
 
 [View](/lt/documents/product-information/nuvaxovid-epar-product-information_lt.pdf)
 
-magyar (HU) (1.39 MB - PDF)
+magyar (HU) (1.12 MB - PDF)
 
 **First published:**
 
@@ -650,11 +648,11 @@ magyar (HU) (1.39 MB - PDF)
 
 **Last updated:**
 
-06/10/2025
+22/01/2026
 
 [View](/hu/documents/product-information/nuvaxovid-epar-product-information_hu.pdf)
 
-Malti (MT) (1.45 MB - PDF)
+Malti (MT) (1.26 MB - PDF)
 
 **First published:**
 
@@ -662,11 +660,11 @@ Malti (MT) (1.45 MB - PDF)
 
 **Last updated:**
 
-06/10/2025
+22/01/2026
 
 [View](/mt/documents/product-information/nuvaxovid-epar-product-information_mt.pdf)
 
-Nederlands (NL) (1.19 MB - PDF)
+Nederlands (NL) (1.02 MB - PDF)
 
 **First published:**
 
@@ -674,11 +672,11 @@ Nederlands (NL) (1.19 MB - PDF)
 
 **Last updated:**
 
-06/10/2025
+22/01/2026
 
 [View](/nl/documents/product-information/nuvaxovid-epar-product-information_nl.pdf)
 
-norsk (NO) (1.33 MB - PDF)
+norsk (NO) (1.49 MB - PDF)
 
 **First published:**
 
@@ -686,11 +684,11 @@ norsk (NO) (1.33 MB - PDF)
 
 **Last updated:**
 
-06/10/2025
+22/01/2026
 
 [View](/no/documents/product-information/nuvaxovid-epar-product-information_no.pdf)
 
-polski (PL) (1.68 MB - PDF)
+polski (PL) (1.69 MB - PDF)
 
 **First published:**
 
@@ -698,11 +696,11 @@ polski (PL) (1.68 MB - PDF)
 
 **Last updated:**
 
-06/10/2025
+22/01/2026
 
 [View](/pl/documents/product-information/nuvaxovid-epar-product-information_pl.pdf)
 
-português (PT) (1.24 MB - PDF)
+português (PT) (1.02 MB - PDF)
 
 **First published:**
 
@@ -710,11 +708,11 @@ português (PT) (1.24 MB - PDF)
 
 **Last updated:**
 
-06/10/2025
+22/01/2026
 
 [View](/pt/documents/product-information/nuvaxovid-epar-product-information_pt.pdf)
 
-română (RO) (1.32 MB - PDF)
+română (RO) (1.11 MB - PDF)
 
 **First published:**
 
@@ -722,11 +720,11 @@ română (RO) (1.32 MB - PDF)
 
 **Last updated:**
 
-06/10/2025
+22/01/2026
 
 [View](/ro/documents/product-information/nuvaxovid-epar-product-information_ro.pdf)
 
-slovenčina (SK) (1.29 MB - PDF)
+slovenčina (SK) (1.14 MB - PDF)
 
 **First published:**
 
@@ -734,11 +732,11 @@ slovenčina (SK) (1.29 MB - PDF)
 
 **Last updated:**
 
-06/10/2025
+22/01/2026
 
 [View](/sk/documents/product-information/nuvaxovid-epar-product-information_sk.pdf)
 
-slovenščina (SL) (1.33 MB - PDF)
+slovenščina (SL) (1.1 MB - PDF)
 
 **First published:**
 
@@ -746,11 +744,11 @@ slovenščina (SL) (1.33 MB - PDF)
 
 **Last updated:**
 
-06/10/2025
+22/01/2026
 
 [View](/sl/documents/product-information/nuvaxovid-epar-product-information_sl.pdf)
 
-Suomi (FI) (1.14 MB - PDF)
+Suomi (FI) (1000.06 KB - PDF)
 
 **First published:**
 
@@ -758,11 +756,11 @@ Suomi (FI) (1.14 MB - PDF)
 
 **Last updated:**
 
-06/10/2025
+22/01/2026
 
 [View](/fi/documents/product-information/nuvaxovid-epar-product-information_fi.pdf)
 
-svenska (SV) (1.22 MB - PDF)
+svenska (SV) (1.04 MB - PDF)
 
 **First published:**
 
@@ -770,11 +768,11 @@ svenska (SV) (1.22 MB - PDF)
 
 **Last updated:**
 
-06/10/2025
+22/01/2026
 
 [View](/sv/documents/product-information/nuvaxovid-epar-product-information_sv.pdf)
 
-**Latest procedure affecting product information:** T/0000292057 01/10/2025
+**Latest procedure affecting product information:** N/0000316216 21/01/2026
 
 icon globe
 
@@ -800,7 +798,7 @@ English (EN) (54.02 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/nuvaxovid-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-472)
+[Other languages (24)](#file-language-dropdown-732)
 
 български (BG) (111.52 KB - PDF)
 
@@ -1123,7 +1121,7 @@ Sanofi Winthrop Industrie
 
 82 Avenue Raspail 94250 Gentilly FRANCE
 
-Opinion adopted 20/12/2021 Marketing authorisation issued 20/12/2021 Revision 21
+Opinion adopted 20/12/2021 Marketing authorisation issued 20/12/2021 Revision 22
 
 ## Assessment history
 
@@ -1135,11 +1133,11 @@ Collapse section
 
 Nuvaxovid : EPAR - Procedural steps taken and scientific information after authorisation
 
-English (EN) (194.81 KB - PDF)
+English (EN) (207.47 KB - PDF)
 
 **First published:** 17/02/2025
 
-**Last updated:** 06/10/2025
+**Last updated:** 22/01/2026
 
 [View](/en/documents/procedural-steps-after/nuvaxovid-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf)
 
@@ -1399,7 +1397,7 @@ English (EN) (2.87 MB - PDF)
 - [Vaccine Effectiveness, Burden and Impact Studies (VEBIS) - Vaccine effectiveness hospital admission with Severe Acute Respiratory Infection - post-authorisation study](https://catalogues.ema.europa.eu/study/1000000099)
 - [Safety of the Novavax COVID-19 vaccine in England using a self-controlled case series design: A post-authorisation safety study using data from the Clinical Practice Research Datalink (CPRD) Aurum and linked databases - post-authorisation study](https://catalogues.ema.europa.eu/study/103859)
 
-**This page was last updated on** 06/10/2025
+**This page was last updated on** 22/01/2026
 
 ## Share this page
 

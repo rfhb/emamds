@@ -1,18 +1,18 @@
 ---
-document_datetime: 2025-12-29 12:05:47
+document_datetime: 2026-01-23 16:40:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/nevanac.html
 document_name: nevanac.html
 version: success
-processing_time: 0.1177256
-conversion_datetime: 2025-12-31 04:10:50.970505
+processing_time: 0.1242622
+conversion_datetime: 2026-01-26 20:21:02.862415
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.66.0
-  docling-core: 2.57.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.10.0
+  docling-jobkit: 1.8.1
+  docling: 2.70.0
+  docling-core: 2.60.2
+  docling-ibm-models: 3.11.0
+  docling-parse: 4.7.3
   python: cpython-313 (3.13.11)
   plaform: macOS-26.2-arm64-arm-64bit-Mach-O
 ---
@@ -25,8 +25,6 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 nepafenac Medicine Human Authorised
-
-On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -119,7 +117,7 @@ English (EN) (72.99 KB - PDF)
 
 [View](/en/documents/overview/nevanac-epar-summary-public_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-715)
+[Other languages (22)](#file-language-dropdown-300)
 
 български (BG) (100.21 KB - PDF)
 
@@ -397,17 +395,17 @@ English (EN) (47.29 KB - PDF)
 
 Nevanac : EPAR - Product Information
 
-English (EN) (414.02 KB - PDF)
+English (EN) (442.69 KB - PDF)
 
 **First published:** 13/02/2009
 
-**Last updated:** 08/09/2025
+**Last updated:** 23/01/2026
 
 [View](/en/documents/product-information/nevanac-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-818)
+[Other languages (24)](#file-language-dropdown-255)
 
-български (BG) (466.42 KB - PDF)
+български (BG) (516.87 KB - PDF)
 
 **First published:**
 
@@ -415,11 +413,11 @@ English (EN) (414.02 KB - PDF)
 
 **Last updated:**
 
-08/09/2025
+23/01/2026
 
 [View](/bg/documents/product-information/nevanac-epar-product-information_bg.pdf)
 
-español (ES) (405.87 KB - PDF)
+español (ES) (443.1 KB - PDF)
 
 **First published:**
 
@@ -427,11 +425,11 @@ español (ES) (405.87 KB - PDF)
 
 **Last updated:**
 
-08/09/2025
+23/01/2026
 
 [View](/es/documents/product-information/nevanac-epar-product-information_es.pdf)
 
-čeština (CS) (479.36 KB - PDF)
+čeština (CS) (495.04 KB - PDF)
 
 **First published:**
 
@@ -439,11 +437,11 @@ español (ES) (405.87 KB - PDF)
 
 **Last updated:**
 
-08/09/2025
+23/01/2026
 
 [View](/cs/documents/product-information/nevanac-epar-product-information_cs.pdf)
 
-dansk (DA) (413.83 KB - PDF)
+dansk (DA) (441.33 KB - PDF)
 
 **First published:**
 
@@ -451,11 +449,11 @@ dansk (DA) (413.83 KB - PDF)
 
 **Last updated:**
 
-08/09/2025
+23/01/2026
 
 [View](/da/documents/product-information/nevanac-epar-product-information_da.pdf)
 
-Deutsch (DE) (414.16 KB - PDF)
+Deutsch (DE) (482.28 KB - PDF)
 
 **First published:**
 
@@ -463,11 +461,11 @@ Deutsch (DE) (414.16 KB - PDF)
 
 **Last updated:**
 
-08/09/2025
+23/01/2026
 
 [View](/de/documents/product-information/nevanac-epar-product-information_de.pdf)
 
-eesti keel (ET) (367.08 KB - PDF)
+eesti keel (ET) (406.79 KB - PDF)
 
 **First published:**
 
@@ -475,11 +473,11 @@ eesti keel (ET) (367.08 KB - PDF)
 
 **Last updated:**
 
-08/09/2025
+23/01/2026
 
 [View](/et/documents/product-information/nevanac-epar-product-information_et.pdf)
 
-ελληνικά (EL) (504.12 KB - PDF)
+ελληνικά (EL) (524.03 KB - PDF)
 
 **First published:**
 
@@ -487,11 +485,11 @@ eesti keel (ET) (367.08 KB - PDF)
 
 **Last updated:**
 
-08/09/2025
+23/01/2026
 
 [View](/el/documents/product-information/nevanac-epar-product-information_el.pdf)
 
-français (FR) (484.86 KB - PDF)
+français (FR) (490.72 KB - PDF)
 
 **First published:**
 
@@ -499,11 +497,11 @@ français (FR) (484.86 KB - PDF)
 
 **Last updated:**
 
-08/09/2025
+23/01/2026
 
 [View](/fr/documents/product-information/nevanac-epar-product-information_fr.pdf)
 
-hrvatski (HR) (486.05 KB - PDF)
+hrvatski (HR) (470.11 KB - PDF)
 
 **First published:**
 
@@ -511,11 +509,11 @@ hrvatski (HR) (486.05 KB - PDF)
 
 **Last updated:**
 
-08/09/2025
+23/01/2026
 
 [View](/hr/documents/product-information/nevanac-epar-product-information_hr.pdf)
 
-íslenska (IS) (414.04 KB - PDF)
+íslenska (IS) (443.64 KB - PDF)
 
 **First published:**
 
@@ -523,11 +521,11 @@ hrvatski (HR) (486.05 KB - PDF)
 
 **Last updated:**
 
-08/09/2025
+23/01/2026
 
 [View](/is/documents/product-information/nevanac-epar-product-information_is.pdf)
 
-italiano (IT) (872.89 KB - PDF)
+italiano (IT) (898.7 KB - PDF)
 
 **First published:**
 
@@ -535,11 +533,11 @@ italiano (IT) (872.89 KB - PDF)
 
 **Last updated:**
 
-08/09/2025
+23/01/2026
 
 [View](/it/documents/product-information/nevanac-epar-product-information_it.pdf)
 
-latviešu valoda (LV) (463.69 KB - PDF)
+latviešu valoda (LV) (448.79 KB - PDF)
 
 **First published:**
 
@@ -547,11 +545,11 @@ latviešu valoda (LV) (463.69 KB - PDF)
 
 **Last updated:**
 
-08/09/2025
+23/01/2026
 
 [View](/lv/documents/product-information/nevanac-epar-product-information_lv.pdf)
 
-lietuvių kalba (LT) (475.43 KB - PDF)
+lietuvių kalba (LT) (460.51 KB - PDF)
 
 **First published:**
 
@@ -559,11 +557,11 @@ lietuvių kalba (LT) (475.43 KB - PDF)
 
 **Last updated:**
 
-08/09/2025
+23/01/2026
 
 [View](/lt/documents/product-information/nevanac-epar-product-information_lt.pdf)
 
-magyar (HU) (495.22 KB - PDF)
+magyar (HU) (500.67 KB - PDF)
 
 **First published:**
 
@@ -571,11 +569,11 @@ magyar (HU) (495.22 KB - PDF)
 
 **Last updated:**
 
-08/09/2025
+23/01/2026
 
 [View](/hu/documents/product-information/nevanac-epar-product-information_hu.pdf)
 
-Malti (MT) (555.03 KB - PDF)
+Malti (MT) (586.32 KB - PDF)
 
 **First published:**
 
@@ -583,11 +581,11 @@ Malti (MT) (555.03 KB - PDF)
 
 **Last updated:**
 
-08/09/2025
+23/01/2026
 
 [View](/mt/documents/product-information/nevanac-epar-product-information_mt.pdf)
 
-Nederlands (NL) (430.37 KB - PDF)
+Nederlands (NL) (458.5 KB - PDF)
 
 **First published:**
 
@@ -595,11 +593,11 @@ Nederlands (NL) (430.37 KB - PDF)
 
 **Last updated:**
 
-08/09/2025
+23/01/2026
 
 [View](/nl/documents/product-information/nevanac-epar-product-information_nl.pdf)
 
-norsk (NO) (407.22 KB - PDF)
+norsk (NO) (433.99 KB - PDF)
 
 **First published:**
 
@@ -607,11 +605,11 @@ norsk (NO) (407.22 KB - PDF)
 
 **Last updated:**
 
-08/09/2025
+23/01/2026
 
 [View](/no/documents/product-information/nevanac-epar-product-information_no.pdf)
 
-polski (PL) (485.96 KB - PDF)
+polski (PL) (471.36 KB - PDF)
 
 **First published:**
 
@@ -619,11 +617,11 @@ polski (PL) (485.96 KB - PDF)
 
 **Last updated:**
 
-08/09/2025
+23/01/2026
 
 [View](/pl/documents/product-information/nevanac-epar-product-information_pl.pdf)
 
-português (PT) (416.87 KB - PDF)
+português (PT) (440.29 KB - PDF)
 
 **First published:**
 
@@ -631,11 +629,11 @@ português (PT) (416.87 KB - PDF)
 
 **Last updated:**
 
-08/09/2025
+23/01/2026
 
 [View](/pt/documents/product-information/nevanac-epar-product-information_pt.pdf)
 
-română (RO) (487.46 KB - PDF)
+română (RO) (510.42 KB - PDF)
 
 **First published:**
 
@@ -643,11 +641,11 @@ română (RO) (487.46 KB - PDF)
 
 **Last updated:**
 
-08/09/2025
+23/01/2026
 
 [View](/ro/documents/product-information/nevanac-epar-product-information_ro.pdf)
 
-slovenčina (SK) (495.08 KB - PDF)
+slovenčina (SK) (499.29 KB - PDF)
 
 **First published:**
 
@@ -655,11 +653,11 @@ slovenčina (SK) (495.08 KB - PDF)
 
 **Last updated:**
 
-08/09/2025
+23/01/2026
 
 [View](/sk/documents/product-information/nevanac-epar-product-information_sk.pdf)
 
-slovenščina (SL) (463.13 KB - PDF)
+slovenščina (SL) (486.54 KB - PDF)
 
 **First published:**
 
@@ -667,11 +665,11 @@ slovenščina (SL) (463.13 KB - PDF)
 
 **Last updated:**
 
-08/09/2025
+23/01/2026
 
 [View](/sl/documents/product-information/nevanac-epar-product-information_sl.pdf)
 
-Suomi (FI) (400.5 KB - PDF)
+Suomi (FI) (439.22 KB - PDF)
 
 **First published:**
 
@@ -679,11 +677,11 @@ Suomi (FI) (400.5 KB - PDF)
 
 **Last updated:**
 
-08/09/2025
+23/01/2026
 
 [View](/fi/documents/product-information/nevanac-epar-product-information_fi.pdf)
 
-svenska (SV) (405.14 KB - PDF)
+svenska (SV) (452 KB - PDF)
 
 **First published:**
 
@@ -691,11 +689,11 @@ svenska (SV) (405.14 KB - PDF)
 
 **Last updated:**
 
-08/09/2025
+23/01/2026
 
 [View](/sv/documents/product-information/nevanac-epar-product-information_sv.pdf)
 
-**Latest procedure affecting product information:** N/0000294093 05/09/2025
+**Latest procedure affecting product information:** VR/0000323425 21/01/2026
 
 icon globe
 
@@ -721,7 +719,7 @@ English (EN) (18.21 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/nevanac-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-506)
+[Other languages (24)](#file-language-dropdown-474)
 
 български (BG) (38.97 KB - PDF)
 
@@ -1039,7 +1037,7 @@ Novartis Europharm Limited
 
 Vista Building
 
-Marketing authorisation issued 11/12/2007 Revision 20
+Marketing authorisation issued 11/12/2007 Revision 21
 
 ## Assessment history
 
@@ -1051,9 +1049,11 @@ Collapse section
 
 Nevanac : EPAR - Procedural steps taken and scientific information after authorisation
 
-English (EN) (136.05 KB - PDF)
+English (EN) (150.23 KB - PDF)
 
 **First published:** 08/09/2025
+
+**Last updated:** 23/01/2026
 
 [View](/en/documents/procedural-steps-after/nevanac-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf)
 
@@ -1185,7 +1185,7 @@ English (EN) (580.08 KB - PDF)
 
 - [Medicines](https://www.ema.europa.eu/en/search?f%5B0%5D=ema_search_topics%3A61)
 
-**This page was last updated on** 08/09/2025
+**This page was last updated on** 23/01/2026
 
 ## Share this page
 

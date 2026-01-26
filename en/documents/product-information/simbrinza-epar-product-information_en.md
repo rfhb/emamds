@@ -1,18 +1,18 @@
 ---
-document_datetime: 2025-09-02 09:11:34
-document_pages: 33
+document_datetime: 2026-01-23 12:52:51
+document_pages: 31
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/simbrinza-epar-product-information_en.pdf
 document_name: simbrinza-epar-product-information_en.pdf
 version: success
-processing_time: 7.0929293
-conversion_datetime: 2025-12-20 18:10:42.086414
+processing_time: 7.5407414
+conversion_datetime: 2026-01-26 20:59:17.226733
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.64.1
-  docling-core: 2.55.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.10.0
+  docling-jobkit: 1.8.1
+  docling: 2.70.0
+  docling-core: 2.60.2
+  docling-ibm-models: 3.11.0
+  docling-parse: 4.7.3
   python: cpython-313 (3.13.11)
   plaform: macOS-26.2-arm64-arm-64bit-Mach-O
 ---
@@ -110,7 +110,7 @@ The medicinal product should not be injected. Patients should be instructed not 
 
 SIMBRINZA has not been studied in patients with narrow-angle glaucoma and its use is not recommended in these patients.
 
-The possible effect of brinzolamide on corneal endothelial function has not been investigated in patients with compromised corneas (particularly in patients with low endothelial cell count). Specifically, patients wearing contact lenses have not been studied and careful monitoring of these patients when using brinzolamide is recommended, since carbonic anhydrase inhibitors may affect corneal hydration and wearing contact lenses might increase the risk for the cornea (for further instructions on wearing contact lenses, see below under 'Benzalkonium chloride'). Careful monitoring of patients with compromised corneas, such as patients with diabetes mellitus or corneal dystrophies, is recommended.
+The possible effect of brinzolamide on corneal endothelial function has not been investigated in patients with compromised corneas (particularly in patients with low endothelial cell count). Specifically, patients wearing contact lenses have not been studied and careful monitoring of these patients when using brinzolamide is recommended, since carbonic anhydrase inhibitors may affect corneal hydration and wearing contact lenses might increase the risk for the cornea (for further instructions on wearing cont act lenses, see below under 'Benzalkonium chloride') . Careful monitoring of patients with compromised corneas, such as patients with diabetes mellitus or corneal dystrophies, is recommended.
 
 Brimonidine tartrate may cause ocular allergic reactions. If allergic reactions are observed, treatment should be discontinued. Delayed ocular hypersensitivity reactions have been reported with brimonidine tartrate, with some reported to be associated with an increase in IOP.
 
@@ -168,7 +168,7 @@ No data on the level of circulating catecholamines after SIMBRINZA administratio
 
 Alpha adrenergic agonists (e.g. brimonidine tartrate), as a class, may reduce pulse and blood pressure. Following administration of SIMBRINZA, small decreases in blood pressure were observed in some patients. Caution is advised when using medicinal products such as antihypertensives and/or cardiac glycosides concomitantly with SIMBRINZA.
 
-Caution is advised when initiating (or changing the dose of) concomitant systemic medicinal products (irrespective of pharmaceutical form) which may interact with α-adrenergic agonists or interfere with their activity, i.e. agonists or antagonists of the adrenergic receptor (e.g. isoprenaline, prazosin).
+Caution is advised when initiating (or changing the dose of) concomitant systemic medicinal products (irrespective of pharmaceutical form) which may interact with α -adrenergic agonists or interfere with their activity, i.e. agonists or antagonists of the adrenergic receptor (e.g. isoprenaline, prazosin).
 
 Brinzolamide is a carbonic anhydrase inhibitor and, although administered topically, is absorbed systemically. Acid-base disturbances have been reported with oral carbonic anhydrase inhibitors. The potential for interactions must be considered in patients receiving SIMBRINZA.
 
@@ -208,11 +208,11 @@ Oral carbonic anhydrase inhibitors may impair the ability of elderly patients to
 
 In clinical trials involving SIMBRINZA dosed twice daily the most common adverse reactions were ocular hyperaemia and ocular allergic type reactions occurring in approximately 6-7% of patients, and dysgeusia (bitter or unusual taste in the mouth following instillation) occurring in approximately 3% of patients.
 
-<div style=\"page-break-after: always\"></div>
-
 ## Tabulated summary of adverse reactions
 
 The following adverse reactions have been reported during clinical studies with SIMBRINZA twicedaily dosing and during clinical studies and post-marketing surveillance with the individual components brinzolamide and brimonidine. They are classified according to the subsequent convention: very common (≥1/10), common (≥1/100 to &lt;1/10), uncommon (≥1/1 000 to &lt;1/100), rare (≥1/10 000 to &lt;1/1 000), very rare (&lt;1/10 000) or not known (cannot be estimated from the available data). Within each frequency-grouping, adverse reactions are presented in order of decreasing seriousness.
+
+<div style=\"page-break-after: always\"></div>
 
 | System Organ Classification                     | Adverse reactions                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          |
 |-------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -229,14 +229,14 @@ The following adverse reactions have been reported during clinical studies with 
 | Gastrointestinal disorders                      | Common: dry mouth 1 Uncommon: dyspepsia 1 , oesophagitis 2 , abdominal discomfort 1 , diarrhoea 2 , vomiting 2 , nausea 2 , frequent bowel movements 2 , flatulence 2 , hypoaesthesia oral 2 , paraesthesia oral 1                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         |
 | Hepatobiliary disorders                         | Not known: liver function test abnormal 2                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  |
 | Skin and subcutaneous tissue disorders          | Uncommon: dermatitis contact 1 , urticaria 2 , rash 2 , rash maculopapular 2 , pruritus generalised 2 , alopecia 2 , skin tightness 2 Not known: Stevens-Johnson syndrome (SJS)/toxic epidermal necrolysis (TEN) (see section 4.4), face oedema 3 , dermatitis 2,3 , erythema 2,3                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          |
+| Musculoskeletal and connective tissue disorders | Uncommon: back pain 2 , muscle spasms 2 , myalgia 2 Not known: arthralgia 2 , pain in extremity 2                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          |
+| Renal and urinary disorders                     | Uncommon: renal pain 2 Not known: pollakiuria 2                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            |
+| Reproductive system and breast disorders        | Uncommon: erectile dysfunction 2                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           |
 
 <div style=\"page-break-after: always\"></div>
 
-| Musculoskeletal and connective tissue disorders                                                                                                                                     | Uncommon: back pain 2 , muscle spasms 2 , myalgia 2 Not known: arthralgia 2 , pain in extremity 2                                                                                   |
-|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Renal and urinary disorders                                                                                                                                                         | Uncommon: renal pain 2 Not known: pollakiuria 2                                                                                                                                     |
-| Reproductive system and breast disorders                                                                                                                                            | Uncommon: erectile dysfunction 2                                                                                                                                                    |
 | General disorders and administration site conditions                                                                                                                                | Uncommon: pain 2 , chest discomfort 2 , feeling abnormal 2 , feeling jittery 2 , irritability 2 , medication residue 1 Not known: chest pain 2 , peripheral oedema 2,3              |
+|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | 1 adverse reaction observed with SIMBRINZA 2 additional adverse reaction observed with brinzolamide monotherapy 3 additional adverse reaction observed with brimonidine monotherapy | 1 adverse reaction observed with SIMBRINZA 2 additional adverse reaction observed with brinzolamide monotherapy 3 additional adverse reaction observed with brimonidine monotherapy |
 
 ## Description of selected adverse reactions
@@ -253,7 +253,7 @@ Reporting suspected adverse reactions after authorisation of the medicinal produ
 
 ## 4.9 Overdose
 
-If overdose with SIMBRINZA occurs treatment should be symptomatic and supportive. The patient's airway should be maintained.
+If overdose with SIMBRINZA occurs treatment should be symptomatic and supportive. The patient 's airway should be maintained.
 
 Due to the brinzolamide component of SIMBRINZA, electrolyte imbalance, development of an acidotic state, and possible nervous system effects may occur. Serum electrolyte levels (particularly potassium) and blood pH levels must be monitored.
 
@@ -261,11 +261,13 @@ There is very limited information regarding accidental ingestion with the brimon
 
 Oral overdoses of other alpha-2-agonists have been reported to cause symptoms such as hypotension, asthenia, vomiting, lethargy, sedation, bradycardia, arrhythmias, miosis, apnoea, hypotonia, hypothermia, respiratory depression and seizure.
 
-<div style=\"page-break-after: always\"></div>
-
 ## Paediatric population
 
-Serious adverse reactions following inadvertent ingestion with the brimonidine component of SIMBRINZA by paediatric subjects have been reported. The subjects experienced symptoms of CNS depression, typically temporary coma or low level of consciousness, lethargy, somnolence, hypotonia, bradycardia, hypothermia, pallor, respiratory depression and apnoea, and required admission to intensive care with intubation if indicated. All subjects were reported to have made a full recovery, usually within 6-24 hours.
+Serious adverse reactions following inadvertent ingestion with the brimonidine component of SIMBRINZA by paediatric subjects have been reported. The subjects experienced symptoms of CNS depression, typically temporary coma or low level of consciousness, lethargy, somnolence, hypotonia,
+
+<div style=\"page-break-after: always\"></div>
+
+bradycardia, hypothermia, pallor, respiratory depression and apnoea, and required admission to intensive care with intubation if indicated. All subjects were reported to have made a full recovery, usually within 6-24 hours.
 
 ## 5. PHARMACOLOGICAL PROPERTIES
 
@@ -289,7 +291,7 @@ In a 6-month, controlled, contribution of elements clinical study enrolling 560 
 
 <div style=\"page-break-after: always\"></div>
 
-Figure 1 Mean a  diurnal (9 AM, +2 hrs, +7 hrs) IOP change from baseline (mmHg) Contribution of elements study
+Figure 1 Mean a diurnal (9 AM, +2 hrs, +7 hrs) IOP change from baseline (mmHg) -Contribution of elements study
 
 <!-- image -->
 
@@ -303,16 +305,15 @@ Mean IOP reductions from baseline at each time point at each visit were greater 
 
 In a 6-month, controlled, non-inferiority clinical study enrolling 890 patients with open-angle glaucoma (including pseudoexfoliation or pigment dispersion component) and/or ocular hypertension who, in the investigator's opinion, were insufficiently controlled on monotherapy or already on multiple IOP-lowering medicinal products, and who had mean baseline diurnal IOP of 26 to 27 mmHg, non-inferiority of SIMBRINZA compared to brinzolamide 10 mg/mL + brimonidine 2 mg/mL dosed concomitantly was demonstrated at all visits throughout the study with respect to mean diurnal IOP reduction from baseline (Table 1).
 
-Table 1 Comparison of mean diurnal IOP (mmHg) change from baseline - Non-inferiority study
+Table 1 Comparison of mean diurnal IOP (mmHg) change from baseline -Non-inferiority study
 
-| Visit   | SIMBRINZA Mean a   | Brinzolamide + Brimonidine Mean a   | Difference Mean a (95% CI)   |
-|---------|--------------------|-------------------------------------|------------------------------|
-| Week 2  | -8.4 (n=394)       | -8.4 (n=384)                        | -0.0 (-0.4, 0.3)             |
-| Week 6  | -8.5 (n=384)       | -8.4 (n=377)                        | -0.1 (-0.4, 0.2)             |
-| Month 3 | -8.5 (n=384)       | -8.3 (n=373)                        | -0.1 (-0.5, 0.2)             |
-| Month 6 | -8.1 (n=346)       | -8.2 (n=330)                        | 0.1 (-0.3, 0.4)              |
-
-a Least squares means derived from a statistical model that accounts for study site, 9 AM baseline IOP stratum, and correlated IOP measurements within patient
+| Visit                                                                                                                                                          | SIMBRINZA Mean a                                                                                                                                               | Brinzolamide + Brimonidine Mean a                                                                                                                              | Difference Mean a (95% CI)                                                                                                                                     |
+|----------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Week 2                                                                                                                                                         | -8.4 (n=394)                                                                                                                                                   | -8.4 (n=384)                                                                                                                                                   | -0.0 (-0.4, 0.3)                                                                                                                                               |
+| Week 6                                                                                                                                                         | -8.5 (n=384)                                                                                                                                                   | -8.4 (n=377)                                                                                                                                                   | -0.1 (-0.4, 0.2)                                                                                                                                               |
+| Month 3                                                                                                                                                        | -8.5 (n=384)                                                                                                                                                   | -8.3 (n=373)                                                                                                                                                   | -0.1 (-0.5, 0.2)                                                                                                                                               |
+| Month 6                                                                                                                                                        | -8.1 (n=346)                                                                                                                                                   | -8.2 (n=330)                                                                                                                                                   | 0.1 (-0.3, 0.4)                                                                                                                                                |
+| a Least squares means derived from a statistical model that accounts for study site, 9 AM baseline IOP stratum, and correlated IOP measurements within patient | a Least squares means derived from a statistical model that accounts for study site, 9 AM baseline IOP stratum, and correlated IOP measurements within patient | a Least squares means derived from a statistical model that accounts for study site, 9 AM baseline IOP stratum, and correlated IOP measurements within patient | a Least squares means derived from a statistical model that accounts for study site, 9 AM baseline IOP stratum, and correlated IOP measurements within patient |
 
 <div style=\"page-break-after: always\"></div>
 
@@ -372,11 +373,13 @@ In contrast, brimonidine exhibits linear pharmacokinetics over the clinically th
 
 SIMBRINZA is intended for local action within the eye. Assessment of human ocular exposure at efficacious doses is not feasible. The pharmacokinetic/pharmacodynamic relationship in humans for IOP-lowering has not been established.
 
-<div style=\"page-break-after: always\"></div>
-
 ## Other special populations
 
-Studies to determine the effects of age, race, and renal or hepatic impairment have not been conducted with SIMBRINZA. A study of brinzolamide in Japanese versus non-Japanese subjects showed similar systemic pharmacokinetics between the two groups. In a study of brinzolamide in subjects with renal impairment, a 1.6- to 2.8-fold increase in the systemic exposure to brinzolamide and Ndesethylbrinzolamide between normal and moderately renally-impaired subjects was demonstrated. This increase in steady-state RBC concentrations of substance-related material did not inhibit RBC carbonic anhydrase activity to levels that are associated with systemic side effects. However, the combination product is not recommended for patients with severe renal impairment (creatinine clearance &lt;30 mL/minute).
+Studies to determine the effects of age, race, and renal or hepatic impairment have not been conducted with SIMBRINZA. A study of brinzolamide in Japanese versus non-Japanese subjects showed similar systemic pharmacokinetics between the two groups. In a study of brinzolamide in subjects with renal impairment, a 1.6- to 2.8-fold increase in the systemic exposure to brinzolamide and Ndesethylbrinzolamide between normal and moderately renally-impaired subjects was demonstrated.
+
+<div style=\"page-break-after: always\"></div>
+
+This increase in steady-state RBC concentrations of substance-related material did not inhibit RBC carbonic anhydrase activity to levels that are associated with systemic side effects. However, the combination product is not recommended for patients with severe renal impairment (creatinine clearance &lt;30 mL/minute).
 
 The Cmax, AUC and elimination half-life of brimonidine are similar in elderly (&gt;65 years of age) subjects compared to young adults. The effects of renal and hepatic impairment on the systemic pharmacokinetics of brimonidine have not been evaluated. Given the low systemic exposure to brimonidine following topical ocular administration, it is expected that changes in plasma exposure would not be clinically relevant.
 
@@ -396,8 +399,6 @@ Effects in non-clinical reproduction and development toxicity studies were obser
 
 Non-clinical data reveal no special hazard for humans based on conventional studies of safety pharmacology, repeated dose toxicity, genotoxicity, carcinogenic potential, toxicity to reproduction and development.
 
-<div style=\"page-break-after: always\"></div>
-
 ## 6. PHARMACEUTICAL PARTICULARS
 
 ## 6.1 List of excipients
@@ -407,6 +408,8 @@ Benzalkonium chloride Propylene glycol Carbomer 974P Boric acid Mannitol Sodium 
 ## 6.2 Incompatibilities
 
 Not applicable.
+
+<div style=\"page-break-after: always\"></div>
 
 ## 6.3 Shelf life
 
@@ -438,8 +441,6 @@ Novartis Europharm Limited Vista Building Elm Park, Merrion Road Dublin 4 Irelan
 
 EU/1/14/933/001-002
 
-<div style=\"page-break-after: always\"></div>
-
 ## 9. DATE OF FIRST AUTHORISATION/RENEWAL OF THE AUTHORISATION
 
 Date of first authorisation: 18 July 2014
@@ -463,15 +464,11 @@ Detailed information on this medicinal product is available on the website of th
 
 ## A. MANUFACTURER(S) RESPONSIBLE FOR BATCH RELEASE
 
-Name and address of the manufacturer(s) responsible for batch release
+## Name and address of the manufacturer(s) responsible for batch release
 
 Novartis Farmacéutica, S.A. Gran Via de les Corts Catalanes, 764 08013 Barcelona Spain
 
 Novartis Manufacturing NV Rijksweg 14 2870 Puurs-Sint-Amands Belgium
-
-Novartis Pharma GmbH Roonstraße 25 D-90429 Nuremberg Germany
-
-Siegfried El Masnou, S.A. Camil Fabra 58 El Masnou 08320 Barcelona Spain
 
 Novartis Pharma GmbH Sophie-Germain-Strasse 10 90443 Nuremberg Germany
 
@@ -486,8 +483,6 @@ Medicinal product subject to medical prescription.
 ## · Periodic safety update reports (PSURs)
 
 The requirements for submission of PSURs for this medicinal product are set out in the list of Union reference dates (EURD list) provided for under Article 107c(7) of Directive 2001/83/EC and any subsequent updates published on the European medicines web-portal.
-
-<div style=\"page-break-after: always\"></div>
 
 ## D. CONDITIONS OR RESTRICTIONS WITH REGARD TO THE SAFE AND EFFECTIVE USE OF THE MEDICINAL PRODUCT
 
@@ -550,6 +545,8 @@ Keep out of the sight and reach of children.
 
 ## 7. OTHER SPECIAL WARNING(S), IF NECESSARY
 
+<div style=\"page-break-after: always\"></div>
+
 ## 8. EXPIRY DATE
 
 EXP
@@ -602,54 +599,51 @@ Medicinal product subject to medical prescription.
 
 simbrinza
 
-## 17. UNIQUE IDENTIFIER-2D BARCODE
+<div style=\"page-break-after: always\"></div>
+
+| 17.   | UNIQUE IDENTIFIER-2DBARCODE   |
+|-------|-------------------------------|
 
 2D barcode carrying the unique identifier included.
 
-<div style=\"page-break-after: always\"></div>
-
-<div style=\"page-break-after: always\"></div>
-
-| 18.   | UNIQUE IDENTIFIER -HUMANREADABLE DATA   |
-|-------|-----------------------------------------|
+| 18.   | UNIQUE IDENTIFIER - HUMANREADABLE DATA   |
+|-------|------------------------------------------|
 
 PC SN NN
 
 <div style=\"page-break-after: always\"></div>
 
-| MINIMUM PARTICULARS TO APPEAR ONSMALLIMMEDIATE PACKAGING UNITS   |
+| MINIMUM PARTICULARSTO APPEARON SMALL IMMEDIATE PACKAGING UNITS   |
 |------------------------------------------------------------------|
 | BOTTLE LABEL                                                     |
 
-| 1.   | NAMEOFTHEMEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION   |
-|------|-------------------------------------------------------------|
+| 1.   | NAME OFTHEMEDICINALPRODUCTAND ROUTE(S)OF ADMINISTRATION   |
+|------|-----------------------------------------------------------|
 
 SIMBRINZA 10 mg/ml + 2 mg/ml eye drops brinzolamide/brimonidine tartrate
 
 Ocular use
 
-| 2.   | METHODOFADMINISTRATION   |
-|------|--------------------------|
+| 2.   | METHODOF ADMINISTRATION   |
+|------|---------------------------|
 
 | 3.   | EXPIRY DATE   |
 |------|---------------|
 
 EXP
 
-| 4.   | BATCH NUMBER   |
-|------|----------------|
+| 4.   | BATCHNUMBER   |
+|------|---------------|
 
 Lot
 
-| 5.   | CONTENTS BY WEIGHT,BYVOLUMEORBYUNIT   |
-|------|---------------------------------------|
+| 5.   | CONTENTSBYWEIGHT, BY VOLUME ORBYUNIT   |
+|------|----------------------------------------|
 
 5 ml
 
 | 6.   | OTHER   |
 |------|---------|
-
-24
 
 <div style=\"page-break-after: always\"></div>
 
@@ -694,8 +688,6 @@ SIMBRINZA is used to lower pressure in the eyes in adult patients (aged 18 years
 - -if you have too much acidity in your blood (a condition called hyperchloraemic acidosis)
 - -in babies and infants aged less than 2 years.
 
-<div style=\"page-break-after: always\"></div>
-
 ## Warnings and precautions
 
 Talk to your doctor, optometrist (optician) or pharmacist before using SIMBRINZA if you have now or have had in the past:
@@ -703,16 +695,19 @@ Talk to your doctor, optometrist (optician) or pharmacist before using SIMBRINZA
 - -liver problems
 - -a type of high pressure in the eyes called narrow-angle glaucoma
 - -dry eyes or cornea problems
+
+<div style=\"page-break-after: always\"></div>
+
 - -coronary heart disease (symptoms can include chest pain or tightness, breathlessness or choking), heart failure, high or low blood pressure
 - -depression
-- -disturbed or poor blood circulation (such as Raynaud's disease, Raynaud's syndrome or cerebral insufficiency).
+- -disturbed or poor blood circulation (such as Raynaud's disease , Raynaud's syndrome or cerebral insufficiency).
 - -if you have ever developed a severe skin rash or skin peeling, blistering and/or mouth sores after using SIMBRINZA or other related medicines.
 
 ## Take special care with SIMBRINZA:
 
 Serious skin reactions including Stevens-Johnson syndrome and toxic epidermal necrolysis have been reported in association with brinzolamide treatment. Stop using SIMBRINZA and seek medical attention immediately if you notice any of the symptoms related to these serious skin reactions described in section 4.
 
-If you wear soft contact lenses, do not use the drops with your lenses in. See section 'Wearing contact lenses - SIMBRINZA contains benzalkonium chloride' below).
+If you wear soft contact lenses, do not use the drops with your lenses in. See section ' Wearing contact lenses - SIMBRINZA contains benzalkonium chloride ' below).
 
 ## Children and adolescents
 
@@ -738,8 +733,6 @@ Tell your doctor if you are taking or intend to take any of the following medici
 
 You should also tell your doctor if the dose of any of your current medicines is changed.
 
-<div style=\"page-break-after: always\"></div>
-
 ## SIMBRINZA with alcohol
 
 If you regularly consume alcohol, ask your doctor, optometrist (optician) or pharmacist for advice before taking this medicine. SIMBRINZA can be affected by alcohol.
@@ -747,6 +740,8 @@ If you regularly consume alcohol, ask your doctor, optometrist (optician) or pha
 ## Pregnancy and breast-feeding
 
 If you are pregnant, think you may be pregnant or are planning to have a baby, ask your doctor, optometrist (optician) or pharmacist for advice before taking this medicine. Women who may become pregnant are advised to use effective contraception during SIMBRINZA treatment. The use of SIMBRINZA is not recommended during pregnancy. Do not use SIMBRINZA unless clearly indicated by your doctor.
+
+<div style=\"page-break-after: always\"></div>
 
 If you are breast-feeding, SIMBRINZA may pass into your milk. The use of SIMBRINZA is not recommended during breast-feeding.
 
@@ -770,15 +765,13 @@ Only use SIMBRINZA for your eyes. Do not swallow or inject.
 
 The recommended dose is one drop in the affected eye or eyes two times a day. Use at the same time each day.
 
-<div style=\"page-break-after: always\"></div>
-
 ## How to use
 
 Wash your hands before you start.
 
 <!-- image -->
 
-## Shake well before use.
+Shake well before use.
 
 Twist off the bottle cap. After the cap is removed, if the tamper evident snap collar is loose, remove it before using the medicine.
 
@@ -788,13 +781,15 @@ Hold the bottle, pointing down, between your thumb and fingers.
 
 Tilt your head back.
 
-Pull down your lower eyelid with a clean finger, until there is a 'pocket' between the eyelid and your eye. The drop will go in here (picture 1).
+Pull down your lower eyelid with a clean finger, until there is a 'pocket' be tween the eyelid and your eye. The drop will go in here (picture 1).
 
 Bring the bottle tip close to the eye. Do this in front of a mirror if it helps.
 
 Do not touch your eye or eyelid, surrounding areas or other surfaces with the dropper. It could infect the drops.
 
 Gently press on the base of the bottle to release one drop of SIMBRINZA.
+
+<div style=\"page-break-after: always\"></div>
 
 Do not squeeze the bottle: it is designed so that a gentle press on the bottom is all that it needs (picture 2).
 
@@ -815,8 +810,6 @@ Adults who accidentally swallowed medicines containing brimonidine experienced a
 Serious side effects have been reported in children who accidently swallowed medicines containing brimonidine. Signs included sleepiness, floppiness, low body temperature, paleness and breathing difficulties. Should this happen, contact your doctor immediately.
 
 If SIMBRINZA has been accidentally swallowed then you should contact your doctor immediately.
-
-<div style=\"page-break-after: always\"></div>
 
 ## If you forget to use SIMBRINZA
 
@@ -840,13 +833,15 @@ If you experience any of the following side effects, please stop using this medi
 
 Contact your doctor immediately if you develop extreme tiredness or dizziness.
 
+<div style=\"page-break-after: always\"></div>
+
 The following side effects have been observed with SIMBRINZA and other medicines containing brinzolamide or brimonidine alone.
 
 Stop using SIMBRINZA and seek medical attention immediately if you notice any of the following symptoms:
 
 - reddish non-elevated, target-like or circular patches on the trunk, often with central blisters, skin peeling, ulcers of mouth, throat, nose, genitals and eyes. These serious skin rashes can be preceded by fever and flu-like symptoms (Stevens-Johnson syndrome, toxic epidermal necrolysis).
 
-Common (may affect up to 1 in 10 people)
+## Common (may affect up to 1 in 10 people)
 
 - Effects in the eye: allergic conjunctivitis (eye allergy), eye surface inflammation, eye pain, eye discomfort, blurred or abnormal vision, eye redness
 - General side effects: drowsiness, dizziness, bad taste in mouth, dry mouth
@@ -856,14 +851,12 @@ Common (may affect up to 1 in 10 people)
 - Effects in the eye: eye surface damage with loss of cells, inflammation of the eyelid, deposits on the eye surface, sensitivity to light, swelling of the eye (affecting the cornea or eyelid), dry eye, eye discharge, watery eye, eyelid redness, abnormal or decreased sensation in eye, tired eye, reduced vision, double vision, product particles in eyes.
 - General side effects: decreased blood pressure, chest pain, irregular heartbeat, slow or fast heart rate, palpitations, difficulty sleeping (insomnia), nightmares, depression, generalised weakness, headache, dizziness, nervousness, irritability, general feeling of being unwell, memory loss, shortness of breath, asthma, nose bleeds, cold symptoms, dry nose or throat, sore throat, throat irritation, cough, runny nose, stuffy nose, sneezing, sinus infection, chest congestion, ringing in ear, indigestion, intestinal gas or stomach ache, nausea, diarrhoea, vomiting, abnormal sensation in mouth, increased allergic symptoms on skin, rash, abnormal skin sensation, hair loss, generalised itching, increased blood chlorine levels, or decreased red blood cell count as seen in a blood test, pain, back pain, muscle pain or spasm, kidney pain such as lower back pain, decreased libido, male sexual difficulty.
 
-<div style=\"page-break-after: always\"></div>
-
-Very rare (may affect up to 1 in 10 000 people)
+## Very rare (may affect up to 1 in 10 000 people)
 
 - Effects in the eye: decreased pupil size
 - General side effects: fainting, increased blood pressure
 
-Not known (frequency cannot be estimated from the available data)
+## Not known (frequency cannot be estimated from the available data)
 
 - Effects in the eye: decreased growth of eyelashes
 - General side effects: tremor, decreased sensation, loss of taste, abnormal liver function values as seen in a blood test, swelling of the face, joint pain, frequent urination, chest pain, swelling of the extremities, reddish non-elevated, target-like or circular patches on the trunk, often with central blisters, skin peeling, ulcers of mouth, throat, nose, genitals and eyes, which can be preceded by fever and flu-like symptoms. These serious skin rashes can be potentially lifethreatening (Stevens-Johnson syndrome, toxic epidermal necrolysis).
@@ -876,7 +869,9 @@ If you get any side effects, talk to your doctor, optometrist (optician) or phar
 
 Keep this medicine out of the sight and reach of children.
 
-Do not use this medicine after the expiry date which is stated on the bottle and the carton after 'EXP'. The expiry date refers to the last day of that month.
+Do not use this medicine after the expiry date which is stated on the bottle and the carton after ' EXP ' . The expiry date refers to the last day of that month.
+
+<div style=\"page-break-after: always\"></div>
 
 This medicine does not require any special storage conditions.
 
@@ -889,7 +884,7 @@ Do not throw away any medicines via wastewater or household waste. Ask your opto
 ## What SIMBRINZA contains
 
 - -The active substances are brinzolamide and brimonidine tartrate. One ml of suspension contains 10 mg of brinzolamide and 2 mg of brimonidine tartrate equivalent to 1.3 mg brimonidine.
-- -The other ingredients are benzalkonium chloride (see section 2 'Wearing contact lenses SIMBRINZA contains benzalkonium chloride'), propylene glycol, carbomer 974P, boric acid, mannitol, sodium chloride, tyloxapol, hydrochloric acid and/or sodium hydroxide and purified water.
+- -The other ingredients are benzalkonium chloride (see section 2 ' Wearing contact lenses SIMBRINZA contains benzalkonium chloride ' ), propylene glycol, carbomer 974P, boric acid, mannitol, sodium chloride, tyloxapol, hydrochloric acid and/or sodium hydroxide and purified water.
 
 Tiny amounts of hydrochloric acid and/or sodium hydroxide are added to keep acidity levels (pH levels) normal.
 
@@ -898,8 +893,6 @@ Tiny amounts of hydrochloric acid and/or sodium hydroxide are added to keep acid
 SIMBRINZA eye drops, suspension, is a liquid (white-to-off-white suspension) supplied in a pack containing one or three 5 ml plastic bottles with screw cap.
 
 Not all pack sizes may be marketed.
-
-<div style=\"page-break-after: always\"></div>
 
 ## Marketing Authorisation Holder
 
@@ -911,11 +904,9 @@ Novartis Farmacéutica, S.A. Gran Via de les Corts Catalanes, 764 08013 Barcelon
 
 Novartis Manufacturing NV Rijksweg 14 2870 Puurs-Sint-Amands Belgium
 
-Novartis Pharma GmbH Roonstraße 25 D-90429 Nuremberg Germany
-
-Siegfried El Masnou, S.A. Camil Fabra 58 El Masnou 08320 Barcelona Spain
-
 Novartis Pharma GmbH Sophie-Germain-Strasse 10 90443 Nuremberg Germany
+
+<div style=\"page-break-after: always\"></div>
 
 For any information about this medicine, please contact the local representative of the Marketing Authorisation Holder:
 
@@ -925,7 +916,9 @@ Novartis Pharma N.V. Tél/Tel: +32 2 246 16 11
 
 ## България
 
-Novartis Bulgaria EOOD Тел.: +359 2 489 98 28
+Novartis Bulgaria EOOD
+
+Тел .: +359 2 489 98 28
 
 ## Česká republika
 
@@ -938,6 +931,40 @@ Novartis Healthcare A/S Tlf: +45 39 16 84 00
 ## Deutschland
 
 Cranach Pharma GmbH Tel: +49 40 3803837-10
+
+## Eesti
+
+SIA Novartis Baltics Eesti filiaal Tel: +372 66 30 810
+
+## Ελλάδα
+
+Novartis (Hellas) A.E.B.E. Τηλ: +30 210 281 17 12
+
+## España
+
+Novartis Farmacéutica, S.A. Tel: +34 93 306 42 00
+
+## France
+
+Novartis Pharma S.A.S. Tél: +33 1 55 47 66 00
+
+## Hrvatska
+
+Novartis Hrvatska d.o.o. Tel. +385 1 6274 220
+
+## Ireland
+
+Novartis Ireland Limited Tel: +353 1 260 12 55
+
+## Ísland
+
+Vistor hf.
+
+Sími: +354 535 7000
+
+## Italia
+
+Novartis Farma S.p.A. Tel: +39 02 96 54 1
 
 ## Lietuva
 
@@ -959,61 +986,45 @@ Novartis Pharma Services Inc. Tel: +356 2122 2872
 
 Novartis Pharma B.V. Tel: +31 88 04 52 111
 
-<div style=\"page-break-after: always\"></div>
+## Norge
 
-## Eesti
+Novartis Norge AS Tlf: +47 23 05 20 00
 
-SIA Novartis Baltics Eesti filiaal
+## Österreich
 
-Tel: +372 66 30 810
+Novartis Pharma GmbH Tel: +43 1 86 6570
 
-## Ελλάδα
+## Polska
 
-Novartis (Hellas) A.E.B.E.
+Novartis Poland Sp. z o.o. Tel.: +48 22 375 4888
 
-Τηλ: +30 210 281 17 12
+## Portugal
 
-## España
+Novartis Farma - Produtos Farmacêuticos, S.A. Tel: +351 21 000 8600
 
-Novartis Farmacéutica, S.A.
+## România
 
-Tel: +34 93 306 42 00
+Novartis Pharma Services Romania SRL Tel: +40 21 31299 01
 
-## France
+## Slovenija
 
-Novartis Pharma S.A.S.
+Novartis Pharma Services Inc. Tel: +386 1 300 75 50
 
-Tél: +33 1 55 47 66 00
+## Slovenská republika
 
-## Hrvatska
+Novartis Slovakia s.r.o. Tel: + 421 2 5542 5439
 
-Novartis Hrvatska d.o.o.
+## Suomi/Finland
 
-Tel. +385 1 6274 220
-
-## Ireland
-
-Novartis Ireland Limited
-
-Tel: +353 1 260 12 55
-
-## Ísland
-
-Vistor hf.
-
-Sími: +354 535 7000
-
-## Italia
-
-Novartis Farma S.p.A.
-
-Tel: +39 02 96 54 1
+Novartis Finland Oy Puh/Tel: +358 (0)10 6133 200
 
 ## Κύπρος
 
 Novartis Pharma Services Inc.
 
 Τηλ: +357 22 690 690
+
+<div style=\"page-break-after: always\"></div>
 
 ## Latvija
 
@@ -1026,52 +1037,6 @@ Tel: +371 67 887 070
 ## Other sources of information
 
 Detailed information on this medicine is available on the European Medicines Agency web site: http://www.ema.europa.eu.
-
-## Norge
-
-Novartis Norge AS
-
-Tlf: +47 23 05 20 00
-
-## Österreich
-
-Novartis Pharma GmbH
-
-Tel: +43 1 86 6570
-
-## Polska
-
-Novartis Poland Sp. z o.o.
-
-Tel.: +48 22 375 4888
-
-## Portugal
-
-Novartis Farma - Produtos Farmacêuticos, S.A. Tel: +351 21 000 8600
-
-## România
-
-Novartis Pharma Services Romania SRL
-
-Tel: +40 21 31299 01
-
-## Slovenija
-
-Novartis Pharma Services Inc.
-
-Tel: +386 1 300 75 50
-
-## Slovenská republika
-
-Novartis Slovakia s.r.o.
-
-Tel: + 421 2 5542 5439
-
-## Suomi/Finland
-
-Novartis Finland Oy
-
-Puh/Tel: +358 (0)10 6133 200
 
 ## Sverige
 

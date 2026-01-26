@@ -1,17 +1,17 @@
 ---
-document_datetime: 2026-01-15 12:38:00
+document_datetime: 2026-01-23 13:55:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/vyvgart.html
 document_name: vyvgart.html
 version: success
-processing_time: 0.1345026
-conversion_datetime: 2026-01-17 13:04:50.386352
+processing_time: 0.1224727
+conversion_datetime: 2026-01-26 20:54:18.433848
 docling_version:
   docling-serve: 1.10.0
   docling-jobkit: 1.8.1
-  docling: 2.68.0
-  docling-core: 2.59.0
-  docling-ibm-models: 3.10.3
+  docling: 2.70.0
+  docling-core: 2.60.2
+  docling-ibm-models: 3.11.0
   docling-parse: 4.7.3
   python: cpython-313 (3.13.11)
   plaform: macOS-26.2-arm64-arm-64bit-Mach-O
@@ -123,7 +123,7 @@ English (EN) (144.42 KB - PDF)
 
 [View](/en/documents/overview/vyvgart-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-6)
+[Other languages (22)](#file-language-dropdown-774)
 
 български (BG) (166.01 KB - PDF)
 
@@ -391,11 +391,11 @@ svenska (SV) (138.9 KB - PDF)
 
 Vyvgart : EPAR - Risk management plan
 
-English (EN) (711.96 KB - PDF)
+English (EN) (935.78 KB - PDF)
 
 **First published:** 12/09/2022
 
-**Last updated:** 30/07/2025
+**Last updated:** 23/01/2026
 
 [View](/en/documents/rmp/vyvgart-epar-risk-management-plan_en.pdf)
 
@@ -411,7 +411,7 @@ English (EN) (1.54 MB - PDF)
 
 [View](/en/documents/product-information/vyvgart-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-198)
+[Other languages (24)](#file-language-dropdown-813)
 
 български (BG) (1.99 MB - PDF)
 
@@ -727,7 +727,7 @@ English (EN) (45.7 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/vyvgart-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-752)
+[Other languages (24)](#file-language-dropdown-126)
 
 български (BG) (60.34 KB - PDF)
 
@@ -1204,7 +1204,7 @@ English (EN) (136.83 KB - PDF)
 - [A Worldwide Pregnancy Safety Study to Assess Maternal, Foetal, and Infant Outcomes Following Exposure to Efgartigimod alfa during Pregnancy and/or Breastfeeding - post-authorisation study](https://catalogues.ema.europa.eu/study/1000000005)
 - [A non-interventional, post-authorisation safety study of patients treated with efgartigimod alfa - post-authorisation study](https://catalogues.ema.europa.eu/study/1000000019)
 
-**This page was last updated on** 15/01/2026
+**This page was last updated on** 23/01/2026
 
 ## Share this page
 

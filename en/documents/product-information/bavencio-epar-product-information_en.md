@@ -1,18 +1,18 @@
 ---
-document_datetime: 2025-05-07 09:50:44
+document_datetime: 2026-01-22 12:42:11
 document_pages: 51
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/bavencio-epar-product-information_en.pdf
 document_name: bavencio-epar-product-information_en.pdf
 version: success
-processing_time: 18.1819399
-conversion_datetime: 2025-12-28 04:18:47.491778
+processing_time: 21.8282554
+conversion_datetime: 2026-01-26 20:28:17.784497
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.66.0
-  docling-core: 2.57.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.10.0
+  docling-jobkit: 1.8.1
+  docling: 2.70.0
+  docling-core: 2.60.2
+  docling-ibm-models: 3.11.0
+  docling-parse: 4.7.3
   python: cpython-313 (3.13.11)
   plaform: macOS-26.2-arm64-arm-64bit-Mach-O
 ---
@@ -31,6 +31,10 @@ Bavencio 20 mg/mL concentrate for solution for infusion
 Each mL of concentrate contains 20 mg of avelumab. One vial of 10 mL contains 200 mg of avelumab.
 
 Avelumab is a human monoclonal IgG1 antibody directed against the immunomodulatory cell surface ligand protein PD-L1 and produced in Chinese hamster ovary cells by recombinant DNA technology.
+
+## Excipients with known effect
+
+This medicinal product contains 5 mg of polysorbate 20 per vial.
 
 For the full list of excipients, see section 6.1.
 
@@ -54,7 +58,7 @@ Bavencio in combination with axitinib is indicated for the first-line treatment 
 
 Treatment should be initiated and supervised by a physician experienced in the treatment of cancer.
 
-Posology
+## Posology
 
 The recommended dose of Bavencio as monotherapy is 800 mg administered intravenously over 60 minutes every 2 weeks.
 
@@ -62,9 +66,9 @@ Administration of Bavencio should continue according to the recommended schedule
 
 The recommended dose of Bavencio in combination with axitinib is 800 mg administered intravenously over 60 minutes every 2 weeks, and axitinib 5 mg orally taken twice daily (12 hours apart) with or without food until disease progression or unacceptable toxicity.
 
-For information on the posology of axitinib, please refer to the axitinib product information.
-
 <div style=\"page-break-after: always\"></div>
+
+For information on the posology of axitinib, please refer to the axitinib product information.
 
 ## Premedication
 
@@ -78,32 +82,33 @@ Detailed guidelines for the management of immune-mediated adverse reactions are 
 
 Table 1: Guidelines for withholding or discontinuation of Bavencio
 
-| Treatment-related adverse reaction                                                        | Severity*                                                                                                                                                                                                                     | Treatment modification                                                                         |
-|-------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------|
-| Infusion-related reactions                                                                | Grade 1 infusion-related reaction                                                                                                                                                                                             | Reduce infusion rate by 50%                                                                    |
-| Infusion-related reactions                                                                | Grade 2 infusion-related reaction                                                                                                                                                                                             | Withhold until adverse reactions recover to Grade 0-1; restart infusion with a 50% slower rate |
-| Infusion-related reactions                                                                | Grade 3 or Grade 4 infusion-related reaction                                                                                                                                                                                  | Permanently discontinue                                                                        |
-| Pneumonitis                                                                               | Grade 2 pneumonitis                                                                                                                                                                                                           | Withhold until adverse reactions recover to Grade 0-1                                          |
-| Pneumonitis                                                                               | Grade 3 or Grade 4 pneumonitis or recurrent Grade 2 pneumonitis                                                                                                                                                               | Permanently discontinue                                                                        |
-| Hepatitis For Bavencio in combination with axitinib, see below                            | Aspartate aminotransferase (AST) or alanine aminotransferase (ALT) greater than 3 and up to 5 times upper limit of normal (ULN) or total bilirubin greater than 1.5 and up to 3 times ULN AST or ALT greater than 5 times ULN | Withhold until adverse reactions recover to Grade 0-1                                          |
-| Hepatitis For Bavencio in combination with axitinib, see below                            | or total bilirubin greater than 3 times ULN                                                                                                                                                                                   | Permanently discontinue                                                                        |
-| Colitis                                                                                   | Grade 2 or Grade 3 colitis or diarrhoea                                                                                                                                                                                       | Withhold until adverse reactions recover to Grade 0-1                                          |
-| Colitis                                                                                   | Grade 4 colitis or diarrhoea or recurrent Grade 3 colitis                                                                                                                                                                     | Permanently discontinue                                                                        |
-| Pancreatitis                                                                              | Suspected pancreatitis Confirmed pancreatitis                                                                                                                                                                                 | Withhold Permanently discontinue                                                               |
-| Myocarditis                                                                               | Suspected myocarditis                                                                                                                                                                                                         | Withhold Permanently discontinue                                                               |
-| Myocarditis                                                                               | Confirmed myocarditis                                                                                                                                                                                                         |                                                                                                |
-| Endocrinopathies (hypothyroidism, hyperthyroidism, adrenal insufficiency, hyperglycaemia) | Grade 3 or Grade 4 endocrinopathies                                                                                                                                                                                           | Withhold until adverse reactions recover to Grade 0-1                                          |
-| Nephritis and renal dysfunction                                                           | Serum creatinine more than 1.5 and up to 6 times ULN                                                                                                                                                                          | Withhold until adverse reactions recover to Grade 0-1                                          |
-| Nephritis and renal dysfunction                                                           | Serum creatinine more than 6 times ULN                                                                                                                                                                                        | Permanently discontinue                                                                        |
+| Treatment-related adverse reaction                                                        | Severity*                                                                                                                                                                                 | Treatment modification                                                                         |
+|-------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------|
+| Infusion-related reactions                                                                | Grade 1 infusion-related reaction                                                                                                                                                         | Reduce infusion rate by 50%                                                                    |
+| Infusion-related reactions                                                                | Grade 2 infusion-related reaction                                                                                                                                                         | Withhold until adverse reactions recover to Grade 0-1; restart infusion with a 50% slower rate |
+| Infusion-related reactions                                                                | Grade 3 or Grade 4 infusion-related reaction                                                                                                                                              | Permanently discontinue                                                                        |
+| Pneumonitis                                                                               | Grade 2 pneumonitis                                                                                                                                                                       | Withhold until adverse reactions recover to Grade 0-1                                          |
+| Pneumonitis                                                                               | Grade 3 or Grade 4 pneumonitis or recurrent Grade 2 pneumonitis                                                                                                                           | Permanently discontinue                                                                        |
+| Hepatitis For Bavencio in combination with axitinib, see below                            | Aspartate aminotransferase (AST) or alanine aminotransferase (ALT) greater than 3 and up to 5 times upper limit of normal (ULN) or total bilirubin greater than 1.5 and up to 3 times ULN | Withhold until adverse reactions recover to Grade 0-1                                          |
+| Hepatitis For Bavencio in combination with axitinib, see below                            | AST or ALT greater than 5 times ULN or total bilirubin greater than 3 times ULN                                                                                                           | Permanently discontinue                                                                        |
+| Colitis                                                                                   | Grade 2 or Grade 3 colitis or diarrhoea                                                                                                                                                   | Withhold until adverse reactions recover to Grade 0-1                                          |
+| Colitis                                                                                   | Grade 4 colitis or diarrhoea or recurrent Grade 3 colitis                                                                                                                                 | Permanently discontinue                                                                        |
+| Pancreatitis                                                                              | Suspected pancreatitis                                                                                                                                                                    | Withhold                                                                                       |
+| Pancreatitis                                                                              | Confirmed pancreatitis                                                                                                                                                                    | Permanently discontinue                                                                        |
+| Myocarditis                                                                               | Suspected myocarditis                                                                                                                                                                     | Withhold                                                                                       |
+| Myocarditis                                                                               | Confirmed myocarditis                                                                                                                                                                     | Permanently discontinue                                                                        |
+| Endocrinopathies (hypothyroidism, hyperthyroidism, adrenal insufficiency, hyperglycaemia) | Grade 3 or Grade 4 endocrinopathies                                                                                                                                                       | Withhold until adverse reactions recover to Grade 0-1                                          |
 
 <div style=\"page-break-after: always\"></div>
 
-| Treatment-related adverse reaction                                                                                                                                                         | Severity*                                                                                                                                                                                                                                                                                                                                                                                     | Treatment modification                                |
-|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------|
-| Skin reactions                                                                                                                                                                             | Grade 3 rash                                                                                                                                                                                                                                                                                                                                                                                  | Withhold until adverse reactions recover to Grade 0-1 |
-| Skin reactions                                                                                                                                                                             | Grade 4 or recurrent Grade 3 rash or confirmed Stevens-Johnson syndrome (SJS) or Toxic epidermal necrolysis (TEN)                                                                                                                                                                                                                                                                             | Permanently discontinue                               |
-| Other immune-mediated adverse reactions (including other clinically important immune- mediated adverse reactions listed under 'Other immune-mediated adverse reactions' (see section 4.4)) | For any of the following: • Grade 2 or Grade 3 clinical signs or symptoms of an immune-mediated adverse reaction not described above                                                                                                                                                                                                                                                          | Withhold until adverse reactions recover to Grade 0-1 |
-| Other immune-mediated adverse reactions (including other clinically important immune- mediated adverse reactions listed under 'Other immune-mediated adverse reactions' (see section 4.4)) | For any of the following: • Life threatening or Grade 4 adverse reaction (excluding endocrinopathies controlled with hormone replacement therapy) • Recurrent Grade 3 immune-mediated adverse reaction • Requirement for 10 mg per day or greater prednisone or equivalent for more than 12 weeks • Persistent Grade 2 or Grade 3 immune-mediate adverse reactions lasting 12 weeks or longer | Permanently discontinue                               |
+| Treatment-related adverse reaction                                                                                                                                                        | Severity*                                                                                                                                                                                                                                                                                                                                                                                     | Treatment modification                                |
+|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------|
+| Nephritis and renal dysfunction                                                                                                                                                           | Serum creatinine more than 1.5 and up to 6 times ULN                                                                                                                                                                                                                                                                                                                                          | Withhold until adverse reactions recover to Grade 0-1 |
+| Nephritis and renal dysfunction                                                                                                                                                           | Serum creatinine more than 6 times ULN                                                                                                                                                                                                                                                                                                                                                        | Permanently discontinue                               |
+| Skin reactions                                                                                                                                                                            | Grade 3 rash                                                                                                                                                                                                                                                                                                                                                                                  | Withhold until adverse reactions recover to Grade 0-1 |
+| Skin reactions                                                                                                                                                                            | Grade 4 or recurrent Grade 3 rash or confirmed Stevens-Johnson syndrome (SJS) or Toxic epidermal necrolysis (TEN)                                                                                                                                                                                                                                                                             | Permanently discontinue                               |
+| Other immune-mediated adverse reactions (including other clinically important immune-mediated adverse reactions listed under 'Other immune-mediated adverse reactions' (see section 4.4)) | For any of the following: • Grade 2 or Grade 3 clinical signs or symptoms of an immune-mediated adverse reaction not described above                                                                                                                                                                                                                                                          | Withhold until adverse reactions recover to Grade 0-1 |
+| Other immune-mediated adverse reactions (including other clinically important immune-mediated adverse reactions listed under 'Other immune-mediated adverse reactions' (see section 4.4)) | For any of the following: • Life threatening or Grade 4 adverse reaction (excluding endocrinopathies controlled with hormone replacement therapy) • Recurrent Grade 3 immune-mediated adverse reaction • Requirement for 10 mg per day or greater prednisone or equivalent for more than 12 weeks • Persistent Grade 2 or Grade 3 immune-mediate adverse reactions lasting 12 weeks or longer | Permanently discontinue                               |
 
 ## Treatment modifications when Bavencio is used in combination with axitinib
 
@@ -125,11 +130,11 @@ No dose adjustment is ne eded for elderly patients (≥ 65 years) (see sections 
 
 No dose adjustment is needed for patients with mild or moderate renal impairment (see section 5.2). There are insufficient data in patients with severe renal impairment for dosing recommendations.
 
+<div style=\"page-break-after: always\"></div>
+
 ## Hepatic impairment
 
 No dose adjustment is needed for patients with mild hepatic impairment (see section 5.2). There are insufficient data in patients with moderate or severe hepatic impairment for dosing recommendations.
-
-<div style=\"page-break-after: always\"></div>
 
 ## Paediatric population
 
@@ -165,9 +170,11 @@ For Grade 1 infusion-related reactions, the infusion rate should be slowed by 50
 
 In case of recurrence of Grade 1 or Grade 2 infusion-related reaction, the patient may continue to receive avelumab under close monitoring, after appropriate infusion rate modification and premedication with paracetamol and antihistamine (see section 4.2).
 
-In patients treated with avelumab as monotherapy, 24.6% (513/2 082) of patients experienced infusion-related reactions. Of these, 97.7% (501/513) had a first infusion-related reaction during the first 4 infusions of which 2.7% (14/513) were Grade ≥ 3. In the remaining 2.3% (12/513) of patients, infusion-related reactions occurred after the first 4 infusions and 91.7% (11/12) were of Grade 1 or Grade 2.
+In patients treated with avelumab as monotherapy, 24.6% (513/2 082) of patients experienced infusion-related reactions. Of these, 97.7% (501/513) had a first infusion-related reaction during the first 4 infusions of which 2.7% (14/513) were Grade ≥ 3. In the remaining 2.3% (12/513) of patients,
 
 <div style=\"page-break-after: always\"></div>
+
+infusion-related reactions occurred after the first 4 infusions and 91.7% (11/12) were of Grade 1 or Grade 2.
 
 ## Immune-mediated adverse reactions
 
@@ -185,7 +192,7 @@ Immune-mediated pneumonitis occurred in patients treated with avelumab. One fata
 
 Patients should be monitored for signs and symptoms of immune-mediated pneumonitis and causes other than immune-mediated pneumonitis should be ruled out. Suspected pneumonitis should be confirmed with radiographic imaging.
 
-Corticosteroids should be administered for Grade ≥ 2 events (initial dose of 1 to 2 mg/kg/day prednisone or equivalent, followed by a corticosteroid taper).
+Corticosteroids should be administered for Grade ≥ 2 events (initial dose of 1 to 2 mg/kg body weight (bw)/day prednisone or equivalent, followed by a corticosteroid taper).
 
 Avelumab should be withheld for Grade 2 immune-mediated pneumonitis until resolution, and permanently discontinued for Grade 3, Grade 4 or recurrent Grade 2 immune-mediated pneumonitis (see section 4.2).
 
@@ -195,7 +202,7 @@ Immune-mediated hepatitis occurred in patients treated with avelumab. Two fatal 
 
 Patients should be monitored for changes in liver function and symptoms of immune-mediated hepatitis and causes other than immune-mediated hepatitis should be ruled out.
 
-Corticosteroids should be administered for Grade ≥ 2 events (initial dose 1 to 2 mg/kg/day prednisone or equivalent, followed by a corticosteroid taper).
+Corticosteroids should be administered for Grade ≥ 2 events (initial dose 1 to 2 mg/kg bw/day prednisone or equivalent, followed by a corticosteroid taper).
 
 Avelumab should be withheld for Grade 2 immune-mediated hepatitis until resolution and permanently discontinued for Grade 3 or Grade 4 immune-mediated hepatitis (see section 4.2).
 
@@ -203,17 +210,17 @@ Avelumab should be withheld for Grade 2 immune-mediated hepatitis until resoluti
 
 Immune-mediated colitis has been reported in patients receiving avelumab (see section 4.8).
 
-Patients should be monitored for signs and symptoms of immune-mediated colitis and causes other than immune-mediated colitis should be ruled out. Corticosteroids should be administered for Grade ≥ 2 events (initial dose of 1 to 2 mg/kg/day prednisone or equivalent followed by a corticosteroid taper).
-
-Avelumab should be withheld for Grade 2 or Grade 3 immune-mediated colitis until resolution, and permanently discontinued for Grade 4 or recurrent Grade 3 immune-mediated colitis (see section 4.2).
+Patients should be monitored for signs and symptoms of immune-mediated colitis and causes other than immune-mediated colitis should be ruled out. Corticosteroids should be administered for Grade ≥ 2 events (initial dose of 1 to 2 mg/kg bw/day prednisone or equivalent followed by a corticosteroid taper).
 
 <div style=\"page-break-after: always\"></div>
+
+Avelumab should be withheld for Grade 2 or Grade 3 immune-mediated colitis until resolution, and permanently discontinued for Grade 4 or recurrent Grade 3 immune-mediated colitis (see section 4.2).
 
 ## Immune-mediated pancreatitis
 
 Immune-mediated pancreatitis has been reported in patients receiving avelumab. Two fatal cases have been reported in patients receiving avelumab in combination with axitinib (see section 4.8).
 
-Patients should be monitored for signs and symptoms of immune-mediated pancreatitis. In symptomatic patients, obtain gastroenterology consultation and laboratory investigations (including imaging) to ensure the initiation of appropriate measures at an early stage. Corticosteroids should be administered for immune-mediated pancreatitis (initial dose of 1 to 2 mg/kg/day prednisone or equivalent followed by a corticosteroid taper).
+Patients should be monitored for signs and symptoms of immune-mediated pancreatitis. In symptomatic patients, obtain gastroenterology consultation and laboratory investigations (including imaging) to ensure the initiation of appropriate measures at an early stage. Corticosteroids should be administered for immune-mediated pancreatitis (initial dose of 1 to 2 mg/kg bw/day prednisone or equivalent followed by a corticosteroid taper).
 
 Avelumab should be withheld in the event of suspected immune-mediated pancreatitis. Avelumab should be permanently discontinued if immune-mediated pancreatitis is confirmed (see section 4.2).
 
@@ -221,7 +228,7 @@ Avelumab should be withheld in the event of suspected immune-mediated pancreatit
 
 Immune-mediated myocarditis has been reported in patients receiving avelumab. Two fatal cases have been reported in patients receiving avelumab in combination with axitinib (see section 4.8).
 
-Patients should be monitored for signs and symptoms of immune-mediated myocarditis. In symptomatic patients, obtain cardiologic consultation and laboratory investigations to ensure the initiation of appropriate measures at an early stage. Corticosteroids should be administered for immune-mediated myocarditis (initial dose of 1 to 2 mg/kg/day prednisone or equivalent followed by a corticosteroid taper). If no improvement within 24 hours on corticosteroids, additional immunosuppression (e.g., mycophenolate, infliximab, anti-thymocyte globulin) should be considered.
+Patients should be monitored for signs and symptoms of immune-mediated myocarditis. In symptomatic patients, obtain cardiologic consultation and laboratory investigations to ensure the initiation of appropriate measures at an early stage. Corticosteroids should be administered for immune-mediated myocarditis (initial dose of 1 to 2 mg/kg bw/day prednisone or equivalent followed by a corticosteroid taper). If no improvement within 24 hours on corticosteroids, additional immunosuppression (e.g., mycophenolate, infliximab, anti-thymocyte globulin) should be considered.
 
 Avelumab should be withheld in the event of suspected immune-mediated myocarditis. Avelumab should be permanently discontinued if immune-mediated myocarditis is confirmed (see section 4.2).
 
@@ -239,15 +246,15 @@ Avelumab should be withheld for Grade 3 or Grade 4 thyroid disorders (see sectio
 
 ## Adrenal insufficiency
 
-Patients should be monitored for signs and symptoms of adrenal insufficiency during and after treatment. Corticosteroids should be administered (1 to 2 mg/kg/day prednisone intravenously or oral equivalent) for Grade ≥ 3 adrenal insufficiency followed by a taper until a dose of less than or equal to 10 mg/day has been reached.
+Patients should be monitored for signs and symptoms of adrenal insufficiency during and after treatment. Corticosteroids should be administered (1 to 2 mg/kg bw/day prednisone intravenously or oral equivalent) for Grade ≥ 3 adrenal insufficiency followed by a taper until a dose of less than or equal to 10 mg/day has been reached.
 
 Avelumab should be withheld for Grade 3 or Grade 4 symptomatic adrenal insufficiency (see section 4.2).
+
+<div style=\"page-break-after: always\"></div>
 
 ## Type 1 diabetes mellitus
 
 Avelumab can cause Type 1 diabetes mellitus, including diabetic ketoacidosis (see section 4.8).
-
-<div style=\"page-break-after: always\"></div>
 
 Patients should be monitored for hyperglycaemia or other signs and symptoms of diabetes. Initiate treatment with insulin for Type 1 diabetes mellitus. Avelumab should be withheld and anti-hyperglycaemics in patients with Grade ≥ 3 hyperglycaemia should be administered. Treatment with avelumab should be resumed when metabolic control is achieved on insulin replacement therapy.
 
@@ -255,11 +262,11 @@ Patients should be monitored for hyperglycaemia or other signs and symptoms of d
 
 Avelumab can cause immune-mediated nephritis (see section 4.8).
 
-Patients should be monitored for elevated serum creatinine prior to and periodically during treatment. Corticosteroids (initial dose of 1 to 2 mg/kg/day prednisone or equivalent followed by a corticosteroid taper) should be administered for Grade ≥ 2 nephritis. Avelumab should be withheld for Grade 2 or Grade 3 nephritis until resolution to ≤ Grade 1 and permanently discontinued for Grade 4 nephritis.
+Patients should be monitored for elevated serum creatinine prior to and periodically during treatment. Corticosteroids (initial dose of 1 to 2 mg/kg bw/day prednisone or equivalent followed by a corticosteroid taper) should be administered for Grade ≥ 2 nephritis. Avelumab should be withheld for Grade 2 or Grade 3 nephritis until resolution to ≤ Grade 1 and permanently discontinued for Grade 4 nephritis.
 
 ## Other immune-mediated adverse reactions
 
-Other clinically important immune-mediated adverse reactions were reported in clinical studies or from post-marketing use of avelumab: myositis, hypopituitarism, uveitis, myasthenia gravis, myasthenic syndrome, cystitis noninfective, sarcoidosis, Guillain-Barré syndrome, sclerosing cholangitis, arthritis, polymyalgia rheumatica, and Sjogren's syndrome (see section 4.8).
+Other clinically important immune-mediated adverse reactions were reported in clinical studies or from post-marketing use of avelumab: myositis, hypopituitarism, uveitis, myasthenia gravis, myasthenic syndrome, cystitis noninfective, sarcoidosis, Guillain-Barré syndrome, sclerosing cholangitis, arthritis, polymyalgia rheumatica, Sjogren's syndrome, and gastritis (see section 4.8).
 
 For suspected immune-mediated adverse reactions, ensure adequate evaluation to confirm aetiology or to rule out other causes. Based on the severity of the adverse reaction, avelumab should be withheld and corticosteroids to be administered. Avelumab should be resumed when the immune-mediated adverse reaction returns to Grade 1 or less following corticosteroid taper. Avelumab should be permanently discontinued for any Grade 3 immune-mediated adverse reaction that recurs and for Grade 4 immune-mediated adverse reaction (see section 4.2).
 
@@ -277,11 +284,19 @@ Patients with the following conditions were excluded from clinical studies: acti
 
 Avelumab should be used with caution in these populations after careful consideration of the potential benefit/risk on an individual basis.
 
+<div style=\"page-break-after: always\"></div>
+
 ## Sodium content
 
 This medicinal product contains less than 1 mmol sodium (23 mg) per 200 mg dose, that is to say essentially 'sodium-free'. Bavencio has to be diluted with either sodium chloride 9 mg/mL (0.9%) solution for infusion or with sodium chloride 4.5 mg/mL (0.45%) solution for infusion. This should be taken into consideration for patients on a controlled sodium diet (see section 6.6).
 
-<div style=\"page-break-after: always\"></div>
+## Polysorbate content
+
+This medicinal product contains 5 mg of polysorbate 20 per vial. Polysorbates may cause allergic reactions. This should be taken into consideration for treating patients with Bavencio.
+
+## Patient Card
+
+The prescriber must discuss the risks of Bavencio therapy with the patient. The patient will be provided with the Patient Card which instructs to carry the Card at all times.
 
 ## 4.5 Interaction with other medicinal products and other forms of interaction
 
@@ -309,6 +324,8 @@ It is unknown whether avelumab is excreted in human milk. Since it is known that
 
 Breast-feeding women should be advised not to breast-feed during treatment and for at least 1 month after the last dose due to the potential for serious adverse reactions in breast-fed infants.
 
+<div style=\"page-break-after: always\"></div>
+
 ## Fertility
 
 The effect of avelumab on male and female fertility is unknown.
@@ -318,8 +335,6 @@ Although studies to evaluate the effect of avelumab on fertility have not been c
 ## 4.7 Effects on ability to drive and use machines
 
 Avelumab has negligible influence on the ability to drive and use machines. Fatigue has been reported following administration of avelumab (see section 4.8). Patients should be advised to use caution when driving or operating machines until they are certain that avelumab does not adversely affect them.
-
-<div style=\"page-break-after: always\"></div>
 
 ## 4.8 Undesirable effects
 
@@ -339,80 +354,83 @@ These reactions are presented by system organ class and frequency. Frequencies a
 
 Table 2: Adverse reactions in patients treated with avelumab as monotherapy
 
-| Frequency                            | Adverse reactions                                                                         |
-|--------------------------------------|-------------------------------------------------------------------------------------------|
-| Blood and lymphatic system disorders | Blood and lymphatic system disorders                                                      |
-| Very common                          | Anaemia                                                                                   |
-| Common                               | Lymphopenia, thrombocytopenia                                                             |
-| Uncommon                             | Eosinophilia §                                                                            |
-| Not known                            | Neutropenia*                                                                              |
-| Immune system disorders              | Immune system disorders                                                                   |
-| Uncommon                             | Hypersensitivity, drug hypersensitivity, sarcoidosis**                                    |
-| Rare                                 | Anaphylactic reaction, Type I hypersensitivity                                            |
-| Endocrine disorders                  | Endocrine disorders                                                                       |
-| Common                               | Hypothyroidism*, hyperthyroidism*                                                         |
-| Uncommon                             | Adrenal insufficiency*, autoimmune thyroiditis*, thyroiditis*, autoimmune hypothyroidism* |
-| Rare                                 | Adrenocortical insufficiency acute*, hypopituitarism*                                     |
-| Metabolism and nutrition disorders   | Metabolism and nutrition disorders                                                        |
-| Very common                          | Decreased appetite                                                                        |
-| Common                               | Hyponatraemia                                                                             |
-| Uncommon                             | Hyperglycaemia*                                                                           |
-| Rare                                 | Diabetes mellitus*, Type 1 diabetes mellitus*                                             |
-| Nervous system disorders             | Nervous system disorders                                                                  |
-| Common                               | Headache, dizziness, neuropathy peripheral                                                |
-| Uncommon                             | Myasthenia gravis* † , myasthenic syndrome* †                                             |
-| Rare                                 | Guillain-Barré Syndrome*, Miller Fisher syndrome*                                         |
-| Eye disorders                        | Eye disorders                                                                             |
-| Rare                                 | Uveitis*                                                                                  |
-| Cardiac disorders                    | Cardiac disorders                                                                         |
-| Rare                                 | Myocarditis*                                                                              |
+| Frequency                            | Adverse reactions                    |
+|--------------------------------------|--------------------------------------|
+| Blood and lymphatic system disorders | Blood and lymphatic system disorders |
+| Very common                          | Anaemia                              |
+| Common                               | Lymphopenia, thrombocytopenia        |
+| Uncommon                             | Eosinophilia §                       |
+| Not known                            | Neutropenia*                         |
 
 <div style=\"page-break-after: always\"></div>
 
-| Frequency                                            | Adverse reactions                                                                                                                                                |
-|------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Vascular disorders                                   | Vascular disorders                                                                                                                                               |
-| Common                                               | Hypertension                                                                                                                                                     |
-| Uncommon                                             | Hypotension, flushing                                                                                                                                            |
-| Respiratory, thoracic and mediastinal disorders      | Respiratory, thoracic and mediastinal disorders                                                                                                                  |
-| Very common                                          | Cough, dyspnoea                                                                                                                                                  |
-| Common                                               | Pneumonitis*                                                                                                                                                     |
-| Rare                                                 | Interstitial lung disease*                                                                                                                                       |
-| Gastrointestinal disorders                           | Gastrointestinal disorders                                                                                                                                       |
-| Very common                                          | Nausea, diarrhoea, constipation, vomiting, abdominal pain                                                                                                        |
-| Common                                               | Dry mouth                                                                                                                                                        |
-| Uncommon                                             | Ileus, colitis*                                                                                                                                                  |
-| Rare                                                 | Pancreatitis*, autoimmune colitis*, enterocolitis*, autoimmune pancreatitis*, enteritis*, proctitis*                                                             |
-| Hepatobiliary disorders                              | Hepatobiliary disorders                                                                                                                                          |
-| Uncommon                                             | Autoimmune hepatitis*                                                                                                                                            |
-| Rare                                                 | Acute hepatic failure*, hepatic failure*, hepatitis*, hepatotoxicity*                                                                                            |
-| Not known                                            | Sclerosing cholangitis*                                                                                                                                          |
-| Skin and subcutaneous tissue disorders               | Skin and subcutaneous tissue disorders                                                                                                                           |
-| Common                                               | Pruritus*, rash*, dry skin, rash maculo-papular*                                                                                                                 |
-| Uncommon                                             | Eczema, dermatitis, rash pruritic*, psoriasis*, erythema*, rash erythematous*, rash generalised*, rash macular*, rash papular*                                   |
-| Rare                                                 | Erythema multiforme*, purpura*, vitiligo*, pruritus generalised*, dermatitis exfoliative*, pemphigoid*, dermatitis psoriasiform*, drug eruption*, lichen planus* |
-| Musculoskeletal and connective tissue disorders      | Musculoskeletal and connective tissue disorders                                                                                                                  |
-| Very common                                          | Back pain, arthralgia                                                                                                                                            |
-| Common                                               | Myalgia                                                                                                                                                          |
-| Uncommon                                             | Myositis*, rheumatoid arthritis*                                                                                                                                 |
-| Rare                                                 | Arthritis*, polyarthritis*, oligoarthritis*, Sjogren's syndrome*                                                                                                 |
-| Not known                                            | Polymyalgia rheumatica*                                                                                                                                          |
-| Renal and urinary disorders                          | Renal and urinary disorders                                                                                                                                      |
-| Uncommon                                             | Renal failure*, nephritis*                                                                                                                                       |
-| Rare                                                 | Tubulo-interstitial nephritis*, cystitis noninfective*                                                                                                           |
-| General disorders and administrative site conditions | General disorders and administrative site conditions                                                                                                             |
-| Very common                                          | Fatigue, pyrexia, oedema peripheral                                                                                                                              |
-| Common                                               | Asthenia, chills, influenza like illness                                                                                                                         |
-| Rare                                                 | Systemic inflammatory response syndrome*                                                                                                                         |
-| Investigations                                       | Investigations                                                                                                                                                   |
-| Very common                                          | Weight decreased                                                                                                                                                 |
-| Common                                               | Blood creatinine increased, blood alkaline phosphatase increased, lipase increased, gamma-glutamyltransferase increased, amylase increased                       |
-| Uncommon                                             | Alanine aminotransferase (ALT) increased*, aspartate aminotransferase (AST) increased*, blood creatine phosphokinase increased*                                  |
-| Rare                                                 | Transaminases increased*, thyroxine free decreased*, blood thyroid stimulating hormone increased*                                                                |
-| Injury, poisoning and procedural complications       | Injury, poisoning and procedural complications                                                                                                                   |
-| Very common                                          | Infusion-related reaction                                                                                                                                        |
+| Frequency                                       | Adverse reactions                                                                                                                                                |
+|-------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Immune system disorders                         | Immune system disorders                                                                                                                                          |
+| Very common                                     | Infusion-related reaction #                                                                                                                                      |
+| Uncommon                                        | Hypersensitivity, drug hypersensitivity, sarcoidosis**                                                                                                           |
+| Rare                                            | Anaphylactic reaction, Type I hypersensitivity                                                                                                                   |
+| Endocrine disorders                             | Endocrine disorders                                                                                                                                              |
+| Common                                          | Hypothyroidism*, hyperthyroidism*                                                                                                                                |
+| Uncommon                                        | Adrenal insufficiency*, autoimmune thyroiditis*, thyroiditis*, autoimmune hypothyroidism*                                                                        |
+| Rare                                            | Adrenocortical insufficiency acute*, hypopituitarism*                                                                                                            |
+| Metabolism and nutrition disorders              | Metabolism and nutrition disorders                                                                                                                               |
+| Very common                                     | Decreased appetite                                                                                                                                               |
+| Common                                          | Hyponatraemia                                                                                                                                                    |
+| Uncommon                                        | Hyperglycaemia*                                                                                                                                                  |
+| Rare                                            | Diabetes mellitus*, Type 1 diabetes mellitus*                                                                                                                    |
+| Nervous system disorders                        | Nervous system disorders                                                                                                                                         |
+| Common                                          | Headache, dizziness, neuropathy peripheral                                                                                                                       |
+| Uncommon                                        | Myasthenia gravis* † , myasthenic syndrome* †                                                                                                                    |
+| Rare                                            | Guillain-Barré Syndrome*, Miller Fisher syndrome*                                                                                                                |
+| Eye disorders                                   | Eye disorders                                                                                                                                                    |
+| Rare                                            | Uveitis*                                                                                                                                                         |
+| Cardiac disorders                               | Cardiac disorders                                                                                                                                                |
+| Rare                                            | Myocarditis*                                                                                                                                                     |
+| Vascular disorders                              | Vascular disorders                                                                                                                                               |
+| Common                                          | Hypertension                                                                                                                                                     |
+| Uncommon                                        | Hypotension, flushing                                                                                                                                            |
+| Respiratory, thoracic and mediastinal disorders | Respiratory, thoracic and mediastinal disorders                                                                                                                  |
+| Very common                                     | Cough, dyspnoea                                                                                                                                                  |
+| Common                                          | Pneumonitis*                                                                                                                                                     |
+| Rare                                            | Interstitial lung disease*                                                                                                                                       |
+| Gastrointestinal disorders                      | Gastrointestinal disorders                                                                                                                                       |
+| Very common                                     | Nausea, diarrhoea, constipation, vomiting, abdominal pain                                                                                                        |
+| Common                                          | Dry mouth                                                                                                                                                        |
+| Uncommon                                        | Ileus, colitis*                                                                                                                                                  |
+| Rare                                            | Pancreatitis*, autoimmune colitis*, enterocolitis*, autoimmune pancreatitis*, enteritis*, proctitis*                                                             |
+| Not known                                       | Gastritis*                                                                                                                                                       |
+| Hepatobiliary disorders                         | Hepatobiliary disorders                                                                                                                                          |
+| Uncommon                                        | Autoimmune hepatitis*                                                                                                                                            |
+| Rare                                            | Acute hepatic failure*, hepatic failure*, hepatitis*, hepatotoxicity*                                                                                            |
+| Not known                                       | Sclerosing cholangitis*                                                                                                                                          |
+| Skin and subcutaneous tissue disorders          | Skin and subcutaneous tissue disorders                                                                                                                           |
+| Common                                          | Pruritus*, rash*, dry skin, rash maculo-papular*                                                                                                                 |
+| Uncommon                                        | Eczema, dermatitis, rash pruritic*, psoriasis*, erythema*, rash erythematous*, rash generalised*, rash macular*, rash papular*                                   |
+| Rare                                            | Erythema multiforme*, purpura*, vitiligo*, pruritus generalised*, dermatitis exfoliative*, pemphigoid*, dermatitis psoriasiform*, drug eruption*, lichen planus* |
+| Musculoskeletal and connective tissue disorders | Musculoskeletal and connective tissue disorders                                                                                                                  |
+| Very common                                     | Back pain, arthralgia                                                                                                                                            |
+| Common                                          | Myalgia                                                                                                                                                          |
+| Uncommon                                        | Myositis*, rheumatoid arthritis*                                                                                                                                 |
+| Rare                                            | Arthritis*, polyarthritis*, oligoarthritis*, Sjogren's syndrome*                                                                                                 |
+| Not known                                       | Polymyalgia rheumatica*                                                                                                                                          |
 
 <div style=\"page-break-after: always\"></div>
+
+| Frequency                                            | Adverse reactions                                                                                                                          |
+|------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------|
+| Renal and urinary disorders                          | Renal and urinary disorders                                                                                                                |
+| Uncommon                                             | Renal failure*, nephritis*                                                                                                                 |
+| Rare                                                 | Tubulo-interstitial nephritis*, cystitis noninfective*                                                                                     |
+| General disorders and administrative site conditions | General disorders and administrative site conditions                                                                                       |
+| Very common                                          | Fatigue, pyrexia, oedema peripheral                                                                                                        |
+| Common                                               | Asthenia, chills, influenza like illness                                                                                                   |
+| Rare                                                 | Systemic inflammatory response syndrome*                                                                                                   |
+| Investigations                                       | Investigations                                                                                                                             |
+| Very common                                          | Weight decreased                                                                                                                           |
+| Common                                               | Blood creatinine increased, blood alkaline phosphatase increased, lipase increased, gamma-glutamyltransferase increased, amylase increased |
+| Uncommon                                             | Alanine aminotransferase (ALT) increased*, aspartate aminotransferase (AST) increased*, blood creatine phosphokinase increased*            |
+| Rare                                                 | Transaminases increased*, thyroxine free decreased*, blood thyroid stimulating hormone increased*                                          |
 
 ## Renal cell carcinoma
 
@@ -430,68 +448,73 @@ These reactions are presented by system organ class and frequency. Frequencies a
 
 Table 3: Adverse reactions in patients treated with avelumab in combination with axitinib
 
-| Frequency                                       | Adverse reactions                                      |
-|-------------------------------------------------|--------------------------------------------------------|
-| Infections and infestations                     | Infections and infestations                            |
-| Uncommon                                        | Rash pustular*                                         |
-| Blood and lymphatic system disorders            | Blood and lymphatic system disorders                   |
-| Common                                          | Anaemia, thrombocytopenia                              |
-| Uncommon                                        | Lymphopenia, eosinophilia                              |
-| Not known                                       | Neutropenia*                                           |
-| Immune system disorders                         | Immune system disorders                                |
-| Common                                          | Hypersensitivity                                       |
-| Endocrine disorders                             | Endocrine disorders                                    |
-| Very common                                     | Hypothyroidism*                                        |
-| Common                                          | Hyperthyroidism*, adrenal insufficiency*, thyroiditis* |
-| Uncommon                                        | Autoimmune thyroiditis*, hypophysitis*                 |
-| Metabolism and nutrition disorders              | Metabolism and nutrition disorders                     |
-| Very common                                     | Decreased appetite                                     |
-| Common                                          | Hyperglycaemia*                                        |
-| Uncommon                                        | Diabetes mellitus*, Type 1 diabetes mellitus*          |
-| Nervous system disorders                        | Nervous system disorders                               |
-| Very common                                     | Headache, dizziness                                    |
-| Common                                          | Neuropathy peripheral                                  |
-| Uncommon                                        | Myasthenia gravis*, myasthenic syndrome*               |
-| Cardiac disorders                               | Cardiac disorders                                      |
-| Uncommon                                        | Myocarditis*                                           |
-| Vascular disorders                              | Vascular disorders                                     |
-| Very common                                     | Hypertension                                           |
-| Common                                          | Hypotension, flushing                                  |
-| Respiratory, thoracic and mediastinal disorders | Respiratory, thoracic and mediastinal disorders        |
-| Very common                                     | Dysphonia, cough, dyspnoea                             |
-| Common                                          | Pneumonitis*                                           |
+| Frequency                            | Adverse reactions                    |
+|--------------------------------------|--------------------------------------|
+| Infections and infestations          | Infections and infestations          |
+| Uncommon                             | Rash pustular*                       |
+| Blood and lymphatic system disorders | Blood and lymphatic system disorders |
+| Common                               | Anaemia, thrombocytopenia            |
+| Uncommon                             | Lymphopenia, eosinophilia            |
+| Not known                            | Neutropenia*                         |
 
 <div style=\"page-break-after: always\"></div>
 
-| Frequency                                            | Adverse reactions                                                                                                                                                                                                                                           |
-|------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Gastrointestinal disorders                           | Gastrointestinal disorders                                                                                                                                                                                                                                  |
-| Very common                                          | Diarrhoea, nausea, constipation, vomiting, abdominal pain                                                                                                                                                                                                   |
-| Common                                               | Dry mouth, colitis*                                                                                                                                                                                                                                         |
-| Uncommon                                             | Autoimmune colitis*, autoimmune pancreatitis*, enterocolitis*, ileus, pancreatitis necrotizing*                                                                                                                                                             |
-| Hepatobiliary disorders                              | Hepatobiliary disorders                                                                                                                                                                                                                                     |
-| Common                                               | Hepatic function abnormal*                                                                                                                                                                                                                                  |
-| Uncommon                                             | Hepatitis*, hepatotoxicity*, immune-mediated hepatitis*, liver disorder*                                                                                                                                                                                    |
-| Not known                                            | Sclerosing cholangitis*                                                                                                                                                                                                                                     |
-| Skin and subcutaneous tissue disorders               | Skin and subcutaneous tissue disorders                                                                                                                                                                                                                      |
-| Very common                                          | Rash*, pruritus*                                                                                                                                                                                                                                            |
-| Common                                               | Rash pruritic*, rash maculo-papular*, pruritus generalized*, dermatitis acneiform, erythema*, rash macular*, rash papular*, rash erythematous*, dermatitis*, eczema, rash generalized*                                                                      |
-| Uncommon                                             | Drug eruption*, erythema multiforme*, psoriasis*                                                                                                                                                                                                            |
-| Musculoskeletal and connective tissue disorders      | Musculoskeletal and connective tissue disorders                                                                                                                                                                                                             |
-| Very common                                          | Arthralgia, back pain, myalgia                                                                                                                                                                                                                              |
-| Uncommon                                             | Arthritis*                                                                                                                                                                                                                                                  |
-| Not known                                            | Polymyalgia rheumatica*, Sjogren's syndrome*                                                                                                                                                                                                                |
-| Renal and urinary disorders                          | Renal and urinary disorders                                                                                                                                                                                                                                 |
-| Common                                               | Acute kidney injury*                                                                                                                                                                                                                                        |
-| General disorders and administrative site conditions | General disorders and administrative site conditions                                                                                                                                                                                                        |
-| Very common                                          | Fatigue, chills, asthenia, pyrexia                                                                                                                                                                                                                          |
-| Common                                               | Oedema peripheral, influenza like illness                                                                                                                                                                                                                   |
-| Investigations                                       | Investigations                                                                                                                                                                                                                                              |
-| Very common                                          | Weight decreased, alanine aminotransferase (ALT) increased*, aspartate aminotransferase (AST) increased*                                                                                                                                                    |
-| Common                                               | Blood creatinine increased, amylase increased, lipase increased, gamma-glutamyltransferase increased, blood alkaline phosphatase increased, blood creatine phosphokinase increased*, blood thyroid stimulating hormone decreased*, transaminases increased* |
-| Uncommon                                             | Liver function test increased*                                                                                                                                                                                                                              |
-| Injury, poisoning and procedural complications       | Injury, poisoning and procedural complications                                                                                                                                                                                                              |
-| Very common                                          | Infusion-related reaction                                                                                                                                                                                                                                   |
+| Frequency                                            | Adverse reactions                                                                                                                                                                      |
+|------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Immune system disorders                              | Immune system disorders                                                                                                                                                                |
+| Very common                                          | Infusion-related reaction #                                                                                                                                                            |
+| Common                                               | Hypersensitivity                                                                                                                                                                       |
+| Endocrine disorders                                  | Endocrine disorders                                                                                                                                                                    |
+| Very common                                          | Hypothyroidism*                                                                                                                                                                        |
+| Common                                               | Hyperthyroidism*, adrenal insufficiency*, thyroiditis*                                                                                                                                 |
+| Uncommon                                             | Autoimmune thyroiditis*, hypophysitis*                                                                                                                                                 |
+| Metabolism and nutrition disorders                   | Metabolism and nutrition disorders                                                                                                                                                     |
+| Very common                                          | Decreased appetite                                                                                                                                                                     |
+| Common                                               | Hyperglycaemia*                                                                                                                                                                        |
+| Uncommon                                             | Diabetes mellitus*, Type 1 diabetes mellitus*                                                                                                                                          |
+| Nervous system disorders                             | Nervous system disorders                                                                                                                                                               |
+| Very common                                          | Headache, dizziness                                                                                                                                                                    |
+| Common                                               | Neuropathy peripheral                                                                                                                                                                  |
+| Uncommon                                             | Myasthenia gravis*, myasthenic syndrome*                                                                                                                                               |
+| Cardiac disorders                                    | Cardiac disorders                                                                                                                                                                      |
+| Uncommon                                             | Myocarditis*                                                                                                                                                                           |
+| Vascular disorders                                   | Vascular disorders                                                                                                                                                                     |
+| Very common                                          | Hypertension                                                                                                                                                                           |
+| Common                                               | Hypotension, flushing                                                                                                                                                                  |
+| Respiratory, thoracic and mediastinal disorders      | Respiratory, thoracic and mediastinal disorders                                                                                                                                        |
+| Very common                                          | Dysphonia, cough, dyspnoea                                                                                                                                                             |
+| Common                                               | Pneumonitis*                                                                                                                                                                           |
+| Gastrointestinal disorders                           | Gastrointestinal disorders                                                                                                                                                             |
+| Very common                                          | Diarrhoea, nausea, constipation, vomiting, abdominal pain                                                                                                                              |
+| Common                                               | Dry mouth, colitis*                                                                                                                                                                    |
+| Uncommon                                             | Autoimmune colitis*, autoimmune pancreatitis*, enterocolitis*, ileus, pancreatitis necrotizing*                                                                                        |
+| Not known                                            | Gastritis*                                                                                                                                                                             |
+| Hepatobiliary disorders                              | Hepatobiliary disorders                                                                                                                                                                |
+| Common                                               | Hepatic function abnormal*                                                                                                                                                             |
+| Uncommon                                             | Hepatitis*, hepatotoxicity*, immune-mediated hepatitis*, liver disorder*                                                                                                               |
+| Not known                                            | Sclerosing cholangitis*                                                                                                                                                                |
+| Skin and subcutaneous tissue disorders               | Skin and subcutaneous tissue disorders                                                                                                                                                 |
+| Very common                                          | Rash*, pruritus*                                                                                                                                                                       |
+| Common                                               | Rash pruritic*, rash maculo-papular*, pruritus generalized*, dermatitis acneiform, erythema*, rash macular*, rash papular*, rash erythematous*, dermatitis*, eczema, rash generalized* |
+| Uncommon                                             | Drug eruption*, erythema multiforme*, psoriasis*                                                                                                                                       |
+| Musculoskeletal and connective tissue disorders      | Musculoskeletal and connective tissue disorders                                                                                                                                        |
+| Very common                                          | Arthralgia, back pain, myalgia                                                                                                                                                         |
+| Uncommon                                             | Arthritis*                                                                                                                                                                             |
+| Not known                                            | Polymyalgia rheumatica*, Sjogren's syndrome*                                                                                                                                           |
+| Renal and urinary disorders                          | Renal and urinary disorders                                                                                                                                                            |
+| Common                                               | Acute kidney injury*                                                                                                                                                                   |
+| General disorders and administrative site conditions | General disorders and administrative site conditions                                                                                                                                   |
+| Very common                                          | Fatigue, chills, asthenia, pyrexia                                                                                                                                                     |
+| Common                                               | Oedema peripheral, influenza like illness                                                                                                                                              |
+
+<div style=\"page-break-after: always\"></div>
+
+| Frequency      | Adverse reactions                                                                                                                                                                                                                                           |
+|----------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Investigations | Investigations                                                                                                                                                                                                                                              |
+| Very common    | Weight decreased, alanine aminotransferase (ALT) increased*, aspartate aminotransferase (AST) increased*                                                                                                                                                    |
+| Common         | Blood creatinine increased, amylase increased, lipase increased, gamma-glutamyltransferase increased, blood alkaline phosphatase increased, blood creatine phosphokinase increased*, blood thyroid stimulating hormone decreased*, transaminases increased* |
+| Uncommon       | Liver function test increased*                                                                                                                                                                                                                              |
 
 ## Description of selected adverse reactions
 
@@ -504,8 +527,6 @@ The management guidelines for these adverse reactions are described in section 4
 In patients treated with avelumab as monotherapy, 1.3% (28/2 082) of patients developed immune-mediated pneumonitis. Of these patients, there was 1 (less than 0.1%) patient with a fatal outcome, 1 (less than 0.1%) patient with Grade 4, and 6 (0.3%) patients with Grade 3 immune-mediated pneumonitis.
 
 The median time to onset of immune-mediated pneumonitis was 2.5 months (range: 3 days to 13.8 months). The median duration was 8.1 weeks (range: 4 days to more than 4.9 months).
-
-<div style=\"page-break-after: always\"></div>
 
 Avelumab was discontinued in 0.4% (9/2 082) of patients due to immune-mediated pneumonitis. All 28 patients with immune-mediated pneumonitis were treated with corticosteroids and 21 (75%) of the 28 patients were treated with high-dose corticosteroids for a median of 9 days (range: 1 day to 2.3 months). Immune-mediated pneumonitis resolved in 18 (64.3%) of the 28 patients at the time of data cut-off.
 
@@ -520,6 +541,8 @@ Immune-mediated pneumonitis did not lead to discontinuation of avelumab in any p
 In patients treated with avelumab as monotherapy, 1.0% (21/2 082) of patients developed immune-mediated hepatitis. Of these patients, there were 2 (0.1%) patients with a fatal outcome, and 16 (0.8%) patients with Grade 3 immune-mediated hepatitis .
 
 The median time to onset of immune-mediated hepatitis was 3.3 months (range: 9 days to 14.8 months). The median duration was 2.5 months (range: 1 day to more than 7.4 months).
+
+<div style=\"page-break-after: always\"></div>
 
 Avelumab was discontinued in 0.6% (13/2 082) of patients due to immune-mediated hepatitis. All 21 patients with immune-mediated hepatitis were treated with corticosteroids and 20 (95.2%) of the 21 patients received high-dose corticosteroids for a median of 17 days (range: 1 day to 4.1 months). Immune-mediated hepatitis resolved in 12 (57.1%) of the 21 patients at the time of data cut-off.
 
@@ -537,8 +560,6 @@ The median time to onset of immune-mediated colitis was 2.0 months (range: 2 day
 
 Avelumab was discontinued in 0.5% (11/2 082) of patients due to immune-mediated colitis. All 31 patients with immune-mediated colitis were treated with corticosteroids and 19 (61.3%) of the 31 patients received high-dose corticosteroids for a median of 19 days (range: 1 day to 2.3 months). Immune-mediated colitis resolved in 22 (71%) of 31 patients at the time of data cut-off.
 
-<div style=\"page-break-after: always\"></div>
-
 In patients treated with avelumab in combination with axitinib, 2.7% (13/489) of patients developed immune-mediated colitis. Of these patients, there were 9 (1.8%) patients with Grade 3 immune-mediated colitis.
 
 The median time to onset of immune-mediated colitis was 5.1 months (range: 2.3 weeks to 14 months). The median duration was 1.6 weeks (range: 1 day to more than 9 months).
@@ -552,6 +573,8 @@ In patients treated with avelumab as monotherapy, immune-mediated pancreatitis o
 ## Immune-mediated myocarditis
 
 In patients treated with avelumab as monotherapy, immune-mediated myocarditis occurred in less than 1% (5/4 000) of patients across clinical studies in multiple tumour types and in 0.6% (3/489) of patients receiving avelumab in combination with axitinib including 2 (0.4%) patients with fatal outcome.
+
+<div style=\"page-break-after: always\"></div>
 
 ## Immune-mediated endocrinopathies
 
@@ -575,8 +598,6 @@ In patients treated with avelumab as monotherapy, 0.5% (11/2 082) of patients de
 
 The median time to onset of immune-mediated adrenal insufficiency was 3.3 months (range: 1 day to 7.6 months). The median duration was not estimable (range: 2 days to more than 10.4 months).
 
-<div style=\"page-break-after: always\"></div>
-
 Avelumab was discontinued in 0.1% (2/2 082) of patients due to immune-mediated adrenal insufficiency. All 11 patients with immune-mediated adrenal insufficiency were treated with corticosteroids, and 5 (45.5%) of the 11 patients received highdose systemic corticosteroids (≥ 40 mg prednisone or equivalent) for a median of 2 days (range: 1 day to 24 days). Adrenal insufficiency resolved in 3 (27.3%) of patients at the time of data cut-off.
 
 In patients treated with avelumab in combination with axitinib, 1.8% (9/489) of patients developed immune-mediated adrenal insufficiency. Of these patients, there were 2 (0.4%) patients with Grade 3 immune-mediated adrenal insufficiency.
@@ -588,6 +609,8 @@ Immune-mediated adrenal insufficiency did not lead to discontinuation of aveluma
 ## Type 1 diabetes mellitus
 
 In patients treated with avelumab as monotherapy, Type 1 diabetes mellitus without an alternative aetiology occurred in 0.2% (5/2 082) of patients. All 5 patients experienced Grade 3 Type 1 diabetes mellitus.
+
+<div style=\"page-break-after: always\"></div>
 
 The median time to onset of Type 1 diabetes mellitus was 3.3 months (range: 1 day to 18.7 months). The median duration was not estimable (range: 14 days to more than 4.8 months).
 
@@ -607,8 +630,6 @@ The median time to onset of immune-mediated nephritis was 2.4 months (range: 7.1
 
 Avelumab was discontinued in 0.2% (4/2 082) of patients due to immune-mediated nephritis. All 7 patients with immune-mediated nephritis were treated with corticosteroids. 6 (85.7%) of those 7 patients with immune-mediated nephritis were treated with high-dose corticosteroids for a median of 2.5 weeks (range: 6 days to 2.8 months). Immune-mediated nephritis resolved in 4 (57.1%) patients at the time of data cut-off.
 
-<div style=\"page-break-after: always\"></div>
-
 In patients treated with avelumab in combination with axitinib, immune-mediated nephritis occurred in 0.4% (2/489) of patients. Of these patients, there were 2 (0.4%) patients with Grade 3 immune-mediated nephritis.
 
 The median time to onset of immune-mediated nephritis was 1.2 months (range: 2.9 weeks to 1.8 months). The median duration was 1.3 weeks (range: more than 4 days to 1.3 weeks).
@@ -627,6 +648,8 @@ Among the 73 patients who were rechallenged with either avelumab (59%) or axitin
 
 There have been cases of the following adverse reactions reported during treatment with other immune checkpoint inhibitors which might also occur during treatment with avelumab: pancreatic exocrine insufficiency, coeliac disease.
 
+<div style=\"page-break-after: always\"></div>
+
 ## Reporting of suspected adverse reactions
 
 Reporting suspected adverse reactions after authorisation of the medicinal product is important. It allows continued monitoring of the benefit/risk balance of the medicinal product. Healthcare professionals are asked to report any suspected adverse reactions via the national reporting system listed in Appendix V.
@@ -642,8 +665,6 @@ In case of overdose, patients should be closely monitored for signs or symptoms 
 ## 5.1 Pharmacodynamic properties
 
 Pharmacotherapeutic group: Antineoplastic agents, monoclonal antibodies, PD-1/PDL-1 (Programmed cell death protein 1/death ligand 1) inhibitors, ATC code: L01FF04.
-
-<div style=\"page-break-after: always\"></div>
 
 ## Mechanism of action
 
@@ -661,7 +682,9 @@ Patients received avelumab at a dose of 10 mg/kg every 2 weeks until disease pro
 
 Tumour response assessments were performed every 6 weeks, as assessed by an Independent Endpoint Review Committee (IERC) using Response Evaluation Criteria in Solid Tumours (RECIST) v1.1.
 
-## Study 003 Part A - previously-treated patients
+<div style=\"page-break-after: always\"></div>
+
+Study 003 Part A - previously-treated patients
 
 The major efficacy outcome measure was confirmed best overall response (BOR); secondary efficacy outcome measures included duration of response (DOR), progression-free survival (PFS), and overall survival (OS).
 
@@ -673,22 +696,21 @@ Overall, 52 (59%) patients were reported to have had 1 prior anti-cancer therapy
 
 Table 4 summarises efficacy endpoints in patients receiving avelumab at the recommended dose for study EMR100070-003, Part A with a minimum follow-up of 36 months. Overall survival was evaluated in an analysis with a minimum follow-up of 44 months. The median OS was 12.6 months (95% CI 7.5, 17.1).
 
-<div style=\"page-break-after: always\"></div>
-
 Table 4: Response to avelumab 10 mg/kg every 2 weeks in patients with metastatic MCC in study EMR100070-003 (Part A)*
 
-| Efficacy endpoints (Part A) (per RECIST v1.1, IERC)                                                                                       | Results (N=88)                                                                          |
-|-------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------|
-| Objective response rate (ORR)                                                                                                             |                                                                                         |
-| Response rate, CR+PR** n (%) (95% CI)                                                                                                     | 29 (33.0%) (23.3, 43.8)                                                                 |
-| Confirmed best overall response (BOR)                                                                                                     |                                                                                         |
-| Complete response (CR)** n (%)                                                                                                            | 10 (11.4%)                                                                              |
-| Duration of response (DOR) a                                                                                                              |                                                                                         |
-| Median, months (95% CI) Minimum, maximum (months) ≥ 6 months by K-M, (95% CI) ≥ 12 months by K-M, (95% CI) ≥ 24 months by K-M, (95% CI) ≥ | 40.5 (18, not estimable) 2.8, 41.5+ 93% (75, 98) 71% (51, 85) 67% (47, 82) 52% (26, 73) |
-| 36 months by K-M, (95% CI)                                                                                                                |                                                                                         |
-| Progression-free survival (PFS) Median PFS, months (95% CI) 6-month PFS rate by K-M, (95% CI) 12-month PFS rate by K-M, (95% CI)          | 2.7 (1.4, 6.9) 40% (29, 50) 29% (19, 39)                                                |
+| Efficacy endpoints (Part A) (per RECIST v1.1, IERC)                                                                                                                  | Results (N=88)                                                                          |
+|----------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------|
+| Objective response rate (ORR)                                                                                                                                        |                                                                                         |
+| Response rate, CR+PR** n (%) (95% CI)                                                                                                                                | 29 (33.0%) (23.3, 43.8)                                                                 |
+| Confirmed best overall response (BOR)                                                                                                                                |                                                                                         |
+| Complete response (CR)** n (%)                                                                                                                                       | 10 (11.4%)                                                                              |
+| Duration of response (DOR) a                                                                                                                                         |                                                                                         |
+| Median, months (95% CI) Minimum, maximum (months) ≥ 6 months by K-M, (95% CI) ≥ 12 months by K-M, (95% CI) ≥ 24 months by K-M, (95% CI) ≥ 36 months by K-M, (95% CI) | 40.5 (18, not estimable) 2.8, 41.5+ 93% (75, 98) 71% (51, 85) 67% (47, 82) 52% (26, 73) |
+| Progression-free survival (PFS) Median PFS, months (95% CI) 6-month PFS rate by K-M, (95% CI) 12-month PFS rate by K-M, (95% CI)                                     | 2.7 (1.4, 6.9) 40% (29, 50) 29% (19, 39)                                                |
 
-Independent Endpoint Review Committee; K-M: Kaplan-Meier; +denotes a censored value * Efficacy data with a minimum follow-up of 36 months (cut-off date 14 September 2018)
+CI: Confidence interval; RECIST: Response Evaluation Criteria in Solid Tumours; IERC: Independent Endpoint Review Committee; K-M: Kaplan-Meier; +denotes a censored value
+
+* Efficacy data with a minimum follow-up of 36 months (cut-off date 14 September 2018)
 
 ** CR or PR was confirmed at a subsequent tumour assessment
 
@@ -696,11 +718,13 @@ a  Based on number of patients with confirmed response (CR or PR)
 
 The median time to response was 6 weeks (range: 6 weeks to 36 weeks) after the first dose of avelumab. Twenty-two out of 29 (76%) patients with response were reported to have responded within 7 weeks after the first dose of avelumab.
 
-The Kaplan-Meier estimates of PFS of the 88 patients (Part A) with metastatic MCC is presented in Figure 1.
-
 <div style=\"page-break-after: always\"></div>
 
+The Kaplan-Meier estimates of PFS of the 88 patients (Part A) with metastatic MCC is presented in Figure 1.
+
 Figure 1: Kaplan-Meier estimates of progression-free survival (PFS) per RECIST v1.1, IERC (Part A, minimum follow-up of 36 months)
+
+Product-Limit Survival Estimate (N=88)
 
 <!-- image -->
 
@@ -708,14 +732,13 @@ Tumour samples were evaluated for PD-L1 tumour cell expression, and for Merkel c
 
 Table 5: Objective response rates by PD-L1 expression and MCV tumour status in patients with metastatic MCC in study EMR100070-003 (Part A)
 
-|                                     | Avelumab ORR(95% CI)*   |
-|-------------------------------------|-------------------------|
-| PD-L1 expression at cut-off of ≥ 1% | N=74 a                  |
-| Positive (n=58)                     | 36.2% (24.0, 49.9)      |
-| Negative (n=16)                     | 18.8% (4.0, 45.6)       |
-| IHC-MCV tumour status               | N=77 b                  |
-| Positive (n=46)                     | 28.3% (16.0, 43.5)      |
-| Negative (n=31)                     | 35.5% (19.2, 54.6)      |
+|                                                     | Avelumab ORR(95% CI)*     |
+|-----------------------------------------------------|---------------------------|
+| PD-L1 expression at cut-off of ≥ 1% Positive (n=58) | N=74 a 36.2% (24.0, 49.9) |
+| Negative (n=16)                                     | 18.8% (4.0, 45.6)         |
+| IHC-MCV tumour status                               | N=77 b                    |
+| Positive (n=46)                                     | 28.3% (16.0, 43.5)        |
+| Negative (n=31)                                     | 35.5% (19.2, 54.6)        |
 
 IHC: Immunohistochemistry; MCV: Merkel cell polyomavirus; ORR: objective response rate
 
@@ -729,28 +752,40 @@ Study 003 Part B - patients who have not received systemic therapy in the metast
 
 The primary analysis for Part B included 116 patients who received at least one dose of avelumab with a minimum follow-up of 15 months at the time of the data cut-off (cut-off date 02 May 2019).
 
-Of the 116 patients, 81 (70%) were male, the median age was 74 years (range: 41 to 93 years), 75 (65%) were white, and 72 (62%) and 44 (38%) had an ECOG performance status of 0 and 1 respectively.
-
 <div style=\"page-break-after: always\"></div>
+
+Of the 116 patients, 81 (70%) were male, the median age was 74 years (range: 41 to 93 years), 75 (65%) were white, and 72 (62%) and 44 (38%) had an ECOG performance status of 0 and 1 respectively.
 
 Table 6 summarises the primary analysis of efficacy endpoints including an estimate of the 24-month rates by Kaplan-Meier for DOR, and PFS in patients receiving avelumab at the recommended dose for study EMR100070-003, Part B.
 
 Table 6: Primary analysis of response to avelumab 10 mg/kg every 2 weeks in patients with metastatic MCC in study EMR100070-003 (Part B)*
 
-| Efficacy endpoints (Part B) (per RECIST v1.1, IERC)                                                                             | Results (N=116)                                                  |
-|---------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------|
-| Durable response                                                                                                                |                                                                  |
-| ≥ 6 months (95% CI)                                                                                                             | 30.2% (22.0, 39.4)                                               |
-| Objective response rate (ORR)                                                                                                   |                                                                  |
-| Response rate, CR+PR** n (%) (95% CI)                                                                                           | 46 (39.7%) (30.7, 49.2)                                          |
-| Confirmed best overall response (BOR)                                                                                           |                                                                  |
-| Complete response (CR)** n (%)                                                                                                  | 19 (16.4%)                                                       |
-| of response (DOR) a                                                                                                             |                                                                  |
-| Median, months (95% CI) Minimum, maximum ≥ 3 months by K-M, (95%                                                                | 18.2 (11.3, not estimable) 1.2, 28.3                             |
-| Duration                                                                                                                        |                                                                  |
-| (months) CI) ≥ 6 months by K-M, (95% CI) ≥ 12 months by K-M, (95% CI) ≥ 18 months by K-M, (95% CI) ≥ 24 months by K-M, (95% CI) | 89% (75, 95) 78% (63, 87) 66% (50, 78) 52% (34, 67) 45% (25, 63) |
-| Progression-free survival (PFS)                                                                                                 |                                                                  |
-| Median PFS, months (95% CI) 3-month PFS rate by K-M, (95% CI)                                                                   | 4.1 (1.4, 6.1) 51% (42, 60)                                      |
+| Efficacy endpoints (Part B) (per RECIST v1.1, IERC)   | Results (N=116)            |
+|-------------------------------------------------------|----------------------------|
+| Durable response                                      |                            |
+| ≥ 6 months                                            | 30.2%                      |
+| (95% CI)                                              | (22.0, 39.4)               |
+| Objective response rate (ORR)                         |                            |
+| Response rate, CR+PR** n (%)                          | 46 (39.7%)                 |
+| (95% CI)                                              | (30.7, 49.2)               |
+| Confirmed best overall response (BOR)                 |                            |
+| Complete response (CR)** n (%)                        | 19 (16.4%)                 |
+| Partial response (PR)** n (%)                         | 27 (23.3%)                 |
+| Duration of response (DOR) a                          |                            |
+| Median, months (95% CI)                               | 18.2 (11.3, not estimable) |
+| Minimum, maximum (months)                             | 1.2, 28.3                  |
+| ≥ 3 months by K-M, (95% CI)                           | 89% (75, 95)               |
+| ≥ 6 months by K-M, (95% CI)                           | 78% (63, 87)               |
+| ≥ 12 months by K-M, (95% CI)                          | 66% (50, 78)               |
+| ≥ 18 months by K-M, (95% CI)                          | 52% (34, 67)               |
+| ≥ 24 months by K-M, (95% CI)                          | 45% (25, 63)               |
+| Progression-free survival (PFS)                       |                            |
+| Median PFS, months                                    | 4.1                        |
+| (95% CI)                                              | (1.4, 6.1)                 |
+| 3-month PFS rate by K-M, (95% CI)                     | 51% (42, 60)               |
+| 6-month PFS rate by K-M, (95% CI)                     | 41% (32, 50)               |
+| 12-month PFS rate by K-M, (95% CI)                    | 31% (23, 40)               |
+| 24-month PFS rate by K-M, (95% CI)                    | 20% (12, 30)               |
 
 Figure 2 presents the Kaplan-Meier estimates for PFS from the primary analysis with 116 patients enrolled into Part B with a minimum follow-up of 15 months.
 
@@ -1216,11 +1251,9 @@ Store in a refrigerator.
 
 Do not freeze.
 
-<div style=\"page-break-after: always\"></div>
-
 Store in the original package in order to protect from light.
 
-## 10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
+10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
@@ -1248,7 +1281,11 @@ Justification for not including Braille accepted.
 
 ## 18. UNIQUE IDENTIFIER - HUMAN READABLE DATA
 
-PC SN
+PC
+
+SN
+
+<div style=\"page-break-after: always\"></div>
 
 NN
 
@@ -1297,6 +1334,7 @@ Lot
 ## Read all of this leaflet carefully before you start using this medicine because it contains important information for you.
 
 - Keep this leaflet. You may need to read it again.
+- It is important that you keep the Patient Card with you during treatment.
 - If you have any further questions, ask your doctor.
 - If you get any side effects, talk to your doctor. This includes any possible side effects not listed in this leaflet. See section 4.
 
@@ -1358,7 +1396,8 @@ It may cause side effects (see section 4). Please note that in some cases sympto
 - problems due to inflammation of your lungs, skin, eyes and/or lymph nodes (sarcoidosis);
 - inflammation and scarring of the bile ducts (sclerosing cholangitis);
 - inflammation of the joints (arthritis);
-- inflammation of the glands that make moisture for the body (Sjogren's syndrome).
+- inflammation of the glands that make moisture for the body (Sjogren's syndrome);
+- inflammation of the stomach (gastritis).
 
 If you experience any of these symptoms when taking Bavencio do not try to treat them on your own with other medicines. Your doctor may
 
@@ -1380,11 +1419,11 @@ Bavencio acts on your immune system. It may cause inflammation in parts of your 
 
 Bavencio has not been studied in children and adolescents below 18 years of age. Therefore, Bavencio should not be used in children and adolescents below 18 years of age.
 
+<div style=\"page-break-after: always\"></div>
+
 ## Other medicines and Bavencio
 
 Tell your doctor if you are taking, have recently taken or might take any other medicines.
-
-<div style=\"page-break-after: always\"></div>
 
 ## Pregnancy
 
@@ -1414,6 +1453,10 @@ Bavencio contains less than 1 mmol sodium (23 mg) per 200 mg dose and therefore 
 
 Bavencio contains 5 mg of polysorbate 20 per vial. Polysorbates may cause allergic reactions. Tell your doctor if you have any known allergies.
 
+## Patient Card
+
+Important information from this package leaflet can be found in the Patient Card you have been given by your doctor. It is important that you keep this Patient Card and show it to your partner or caregivers.
+
 ## 3. How to use Bavencio
 
 You will receive Bavencio in a hospital or clinic, under the supervision of an experienced doctor.
@@ -1430,6 +1473,8 @@ You will receive Bavencio as an infusion (a drip) into a vein (intravenously) ov
 
 For at least the first 4 treatments, you will receive paracetamol and an antihistamine before being given Bavencio to help to prevent possible side effects related to the infusion. Depending on how your body responds to treatment, your doctor may decide to continue giving you these medicines before all of your Bavencio treatments.
 
+<div style=\"page-break-after: always\"></div>
+
 ## If you miss a dose of Bavencio
 
 It is very important for you to keep all your appointments to receive Bavencio. If you miss an appointment, ask your doctor when to schedule your next dose.
@@ -1437,8 +1482,6 @@ It is very important for you to keep all your appointments to receive Bavencio. 
 ## If you stop receiving Bavencio
 
 Do not stop treatment with Bavencio unless you have discussed this with your doctor. Stopping your treatment may stop the effect of the medicine.
-
-<div style=\"page-break-after: always\"></div>
 
 If you have any further questions on the use of this medicine, ask your doctor.
 
@@ -1458,16 +1501,17 @@ Seek urgent medical attention if you experience inflammation in any part of your
 - Signs of inflammation of the pancreas (pancreatitis) may include abdominal pain , nausea and vomiting . This is uncommon.
 - Signs of inflammation of the heart (myocarditis) may include trouble breathing , dizziness or fainting , fever , chest pain and chest tightness or flu like symptoms . This is uncommon.
 - Signs of type 1 diabetes including diabetic ketoacidosis may include feeling more hungry or thirsty than usual , needing to urinate more often , weight loss , and feeling tired or having difficulty thinking clearly, breath that smells sweet or fruity, feeling sick or being sick, stomach pain, and deep or fast breathing . This is uncommon.
-- Signs of inflammation of the kidney may include abnormal kidney function tests , urinating less than usual , blood in your urine , or swelling in your ankles . This is uncommon.
-- Signs of inflammation of the muscles such as myositis which may include muscle pain , or weakness , and polymyalgia rheumatica which may include muscle pain or stiffness . For myositis it is uncommon, for polymyalgia rheumatica the frequency is not known.
 
 <div style=\"page-break-after: always\"></div>
 
+- Signs of inflammation of the kidney may include abnormal kidney function tests , urinating less than usual , blood in your urine , or swelling in your ankles . This is uncommon.
+- Signs of inflammation of the muscles such as myositis which may include muscle pain , or weakness , and polymyalgia rheumatica which may include muscle pain or stiffness . For myositis it is uncommon, for polymyalgia rheumatica the frequency is not known.
 - Signs of inflammation associated with a build-up of inflammatory cells in various organs and tissues, most commonly the lungs (sarcoidosis). This is uncommon.
 - Signs of inflammation of the joints (arthritis), which may include joint pain , stiffness , and swelling . This is rare.
+- Signs of inflammation of the glands that make moisture for the body , such as tears and saliva, which may include dry eyes and dry mouth (Sjogren's syndrome). This is rare.
 - Signs of inflammation and scarring of the bile ducts, which may include pain in the upper right part of the stomach , swelling of the liver or spleen , fatigue , itching , or yellowing of the skin or the whites of eyes (sclerosing cholangitis). The frequency is not known.
-- Signs of inflammation of the glands that make moisture for the body , such as tears and saliva, which may include dry eyes and dry mouth (Sjogren's syndrome). The frequency is not known.
 - Low number of neutrophils, a type of white blood cells that help fight infections. The frequency is not known.
+- Signs of inflammation of the stomach (gastritis), which may include stomach/abdomen pain or tenderness , nausea or vomiting . The frequency is not known.
 
 ## Do not try to treat yourself with other medicines.
 
@@ -1500,6 +1544,9 @@ The following side effects have been reported in clinical studies with avelumab 
 - Increased liver enzymes in the blood
 - Increased pancreatic enzymes in the blood
 - Skin rash, itching
+
+<div style=\"page-break-after: always\"></div>
+
 - Muscle pain
 - Flu-like illness (includes feeling of fever, muscle aches)
 - Numbness, tingling, weakness, burning sensation in arms or legs
@@ -1510,9 +1557,6 @@ The following side effects have been reported in clinical studies with avelumab 
 - Bowel occlusion
 - Red, itchy, scaly patches on the skin, dry skin
 - Decreases in blood pressure
-
-<div style=\"page-break-after: always\"></div>
-
 - Increased muscle enzyme in the blood
 - Increase in the number of a type of white blood cells (eosinophils)
 - Inflammation of the joints (rheumatoid arthritis)
@@ -1561,12 +1605,12 @@ The following side effects have been reported in clinical studies with avelumab 
 - Bowel occlusion
 - Myasthenia gravis, myasthenic syndrome, an illness that can cause muscle weakness
 
+<div style=\"page-break-after: always\"></div>
+
 The following side effects have been reported with other similar medicines:
 
 - Lack or reduction of digestive enzymes made by the pancreas (pancreatic exocrine insufficiency)
 - Coeliac disease (characterised by symptoms such as stomach pain, diarrhoea, and bloating after consuming gluten-containing foods)
-
-<div style=\"page-break-after: always\"></div>
 
 ## Reporting of side effects
 
@@ -1596,7 +1640,7 @@ The active substance is avelumab.
 
 One vial of 10 mL contains 200 mg of avelumab. Each mL of concentrate contains 20 mg of avelumab.
 
-The other ingredients are mannitol, glacial acetic acid, polysorbate 20, sodium hydroxide, water for injections (see section 2 'Bavencio has a low sodium content').
+The other ingredients are mannitol (E421), glacial acetic acid, polysorbate 20 (E432) (see section 2 'Bavencio contains polysorbate'), sodium hydroxide, water for injections (see section 2 'Bavencio has a low sodium content').
 
 ## What Bavencio looks like and contents of the pack
 
@@ -1604,17 +1648,15 @@ Bavencio is a clear, colourless to slightly yellow concentrate for solution for 
 
 The pack size is 1 glass vial per carton.
 
-Marketing Authorisation Holder Gustav Mahlerplein 102
+## Marketing Authorisation Holder
 
-Merck Europe B.V. 1082 MA Amsterdam The Netherlands
+Merck Europe B.V. Gustav Mahlerplein 102 1082 MA Amsterdam The Netherlands
 
 ## Manufacturer
 
 Merck Serono S.p.A. Via Delle Magnolie 15 (loc. frazione Zona Industriale) 70026 - Modugno (BA) Italy
 
 ## This leaflet was last revised in
-
-<div style=\"page-break-after: always\"></div>
 
 ## Other sources of information
 
@@ -1629,6 +1671,8 @@ The following information is intended for healthcare professionals only:
 ## Preparation and administration
 
 An aseptic technique for the preparation of the solution for infusion should be used.
+
+<div style=\"page-break-after: always\"></div>
 
 - The vial should be visually inspected for particulate matter and discoloration. Bavencio is a clear, colourless to slightly yellow solution. If the solution is cloudy, discoloured, or contains particulate matters, the vial should be discarded.
 - An infusion bag of appropriate size (preferably 250 mL) containing either sodium chloride 9 mg/mL (0.9%) solution for infusion or with sodium chloride 4.5 mg/mL (0.45%) solution for infusion should be used. The required volume of Bavencio should be withdrawn from the vial(s) and be transferred to the infusion bag. Any partially used or empty vials have to be discarded.

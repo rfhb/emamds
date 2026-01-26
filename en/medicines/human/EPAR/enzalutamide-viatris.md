@@ -1,18 +1,18 @@
 ---
-document_datetime: 2025-12-29 11:27:04
+document_datetime: 2026-01-23 14:00:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/enzalutamide-viatris.html
 document_name: enzalutamide-viatris.html
 version: success
-processing_time: 0.1073101
-conversion_datetime: 2025-12-30 21:24:04.41228
+processing_time: 0.1358295
+conversion_datetime: 2026-01-26 20:22:28.352732
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.66.0
-  docling-core: 2.57.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.10.0
+  docling-jobkit: 1.8.1
+  docling: 2.70.0
+  docling-core: 2.60.2
+  docling-ibm-models: 3.11.0
+  docling-parse: 4.7.3
   python: cpython-313 (3.13.11)
   plaform: macOS-26.2-arm64-arm-64bit-Mach-O
 ---
@@ -25,8 +25,6 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 enzalutamide Medicine Human Authorised
-
-On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -106,7 +104,7 @@ English (EN) (183.39 KB - PDF)
 
 [View](/en/documents/overview/enzalutamide-viatris-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-915)
+[Other languages (22)](#file-language-dropdown-260)
 
 български (BG) (206.28 KB - PDF)
 
@@ -304,7 +302,7 @@ English (EN) (1.45 MB - PDF)
 
 [View](/en/documents/product-information/enzalutamide-viatris-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-732)
+[Other languages (24)](#file-language-dropdown-141)
 
 български (BG) (1.3 MB - PDF)
 
@@ -620,7 +618,7 @@ English (EN) (15.8 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/enzalutamide-viatris-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-481)
+[Other languages (24)](#file-language-dropdown-188)
 
 български (BG) (68.77 KB - PDF)
 
@@ -966,6 +964,18 @@ English (EN) (144.25 KB - PDF)
 
 [View](/en/documents/procedural-steps-after/enzalutamide-viatris-epar-procedural-steps-taken-scientific-information-after-authorisation-archive_en.pdf)
 
+Enzalutamide Viatris-H-C-006299-X-0003 : EPAR - Assessment report
+
+Adopted
+
+Reference Number: EMA/CHMP/246017/2025
+
+English (EN) (639.13 KB - PDF)
+
+**First published:** 23/01/2026
+
+[View](/en/documents/variation-report/enzalutamide-viatris-h-c-006299-x-0003-epar-assessment-report_en.pdf)
+
 ## Initial marketing authorisation documents
 
 Enzalutamide Viatris : EPAR - Public assessment report
@@ -996,7 +1006,7 @@ English (EN) (149.14 KB - PDF)
 
 [Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 24-27 June 2024](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-24-27-june-2024) 28/06/2024
 
-**This page was last updated on** 09/12/2025
+**This page was last updated on** 23/01/2026
 
 ## Share this page
 

@@ -1,18 +1,18 @@
 ---
-document_datetime: 2025-12-29 12:09:46
+document_datetime: 2026-01-22 16:48:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/opatanol.html
 document_name: opatanol.html
 version: success
-processing_time: 0.1134852
-conversion_datetime: 2025-12-30 07:58:00.450169
+processing_time: 0.122508
+conversion_datetime: 2026-01-26 20:26:15.840296
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.66.0
-  docling-core: 2.57.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.10.0
+  docling-jobkit: 1.8.1
+  docling: 2.70.0
+  docling-core: 2.60.2
+  docling-ibm-models: 3.11.0
+  docling-parse: 4.7.3
   python: cpython-313 (3.13.11)
   plaform: macOS-26.2-arm64-arm-64bit-Mach-O
 ---
@@ -25,8 +25,6 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 olopatadine Medicine Human Authorised
-
-On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -106,7 +104,7 @@ English (EN) (71.56 KB - PDF)
 
 [View](/en/documents/overview/opatanol-epar-summary-public_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-488)
+[Other languages (22)](#file-language-dropdown-767)
 
 български (BG) (96.18 KB - PDF)
 
@@ -376,17 +374,17 @@ svenska (SV) (71.49 KB - PDF)
 
 Opatanol : EPAR - Product Information
 
-English (EN) (226.78 KB - PDF)
+English (EN) (314.68 KB - PDF)
 
 **First published:** 13/02/2009
 
-**Last updated:** 23/01/2025
+**Last updated:** 22/01/2026
 
 [View](/en/documents/product-information/opatanol-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-615)
+[Other languages (24)](#file-language-dropdown-327)
 
-български (BG) (329.5 KB - PDF)
+български (BG) (374.11 KB - PDF)
 
 **First published:**
 
@@ -394,11 +392,11 @@ English (EN) (226.78 KB - PDF)
 
 **Last updated:**
 
-23/01/2025
+22/01/2026
 
 [View](/bg/documents/product-information/opatanol-epar-product-information_bg.pdf)
 
-español (ES) (234.41 KB - PDF)
+español (ES) (311.42 KB - PDF)
 
 **First published:**
 
@@ -406,11 +404,11 @@ español (ES) (234.41 KB - PDF)
 
 **Last updated:**
 
-23/01/2025
+22/01/2026
 
 [View](/es/documents/product-information/opatanol-epar-product-information_es.pdf)
 
-čeština (CS) (305.08 KB - PDF)
+čeština (CS) (329.4 KB - PDF)
 
 **First published:**
 
@@ -418,11 +416,11 @@ español (ES) (234.41 KB - PDF)
 
 **Last updated:**
 
-23/01/2025
+22/01/2026
 
 [View](/cs/documents/product-information/opatanol-epar-product-information_cs.pdf)
 
-dansk (DA) (229.04 KB - PDF)
+dansk (DA) (280.7 KB - PDF)
 
 **First published:**
 
@@ -430,11 +428,11 @@ dansk (DA) (229.04 KB - PDF)
 
 **Last updated:**
 
-23/01/2025
+22/01/2026
 
 [View](/da/documents/product-information/opatanol-epar-product-information_da.pdf)
 
-Deutsch (DE) (439.71 KB - PDF)
+Deutsch (DE) (328.31 KB - PDF)
 
 **First published:**
 
@@ -442,11 +440,11 @@ Deutsch (DE) (439.71 KB - PDF)
 
 **Last updated:**
 
-26/11/2025
+22/01/2026
 
 [View](/de/documents/product-information/opatanol-epar-product-information_de.pdf)
 
-eesti keel (ET) (224.91 KB - PDF)
+eesti keel (ET) (300.16 KB - PDF)
 
 **First published:**
 
@@ -454,11 +452,11 @@ eesti keel (ET) (224.91 KB - PDF)
 
 **Last updated:**
 
-23/01/2025
+22/01/2026
 
 [View](/et/documents/product-information/opatanol-epar-product-information_et.pdf)
 
-ελληνικά (EL) (322.07 KB - PDF)
+ελληνικά (EL) (364.88 KB - PDF)
 
 **First published:**
 
@@ -466,11 +464,11 @@ eesti keel (ET) (224.91 KB - PDF)
 
 **Last updated:**
 
-23/01/2025
+22/01/2026
 
 [View](/el/documents/product-information/opatanol-epar-product-information_el.pdf)
 
-français (FR) (245.34 KB - PDF)
+français (FR) (322.81 KB - PDF)
 
 **First published:**
 
@@ -478,11 +476,11 @@ français (FR) (245.34 KB - PDF)
 
 **Last updated:**
 
-23/01/2025
+22/01/2026
 
 [View](/fr/documents/product-information/opatanol-epar-product-information_fr.pdf)
 
-hrvatski (HR) (274.3 KB - PDF)
+hrvatski (HR) (320.32 KB - PDF)
 
 **First published:**
 
@@ -490,11 +488,11 @@ hrvatski (HR) (274.3 KB - PDF)
 
 **Last updated:**
 
-23/01/2025
+22/01/2026
 
 [View](/hr/documents/product-information/opatanol-epar-product-information_hr.pdf)
 
-íslenska (IS) (232.22 KB - PDF)
+íslenska (IS) (308.47 KB - PDF)
 
 **First published:**
 
@@ -502,11 +500,11 @@ hrvatski (HR) (274.3 KB - PDF)
 
 **Last updated:**
 
-23/01/2025
+22/01/2026
 
 [View](/is/documents/product-information/opatanol-epar-product-information_is.pdf)
 
-italiano (IT) (264.07 KB - PDF)
+italiano (IT) (338.77 KB - PDF)
 
 **First published:**
 
@@ -514,11 +512,11 @@ italiano (IT) (264.07 KB - PDF)
 
 **Last updated:**
 
-23/01/2025
+22/01/2026
 
 [View](/it/documents/product-information/opatanol-epar-product-information_it.pdf)
 
-latviešu valoda (LV) (298.67 KB - PDF)
+latviešu valoda (LV) (324.34 KB - PDF)
 
 **First published:**
 
@@ -526,11 +524,11 @@ latviešu valoda (LV) (298.67 KB - PDF)
 
 **Last updated:**
 
-23/01/2025
+22/01/2026
 
 [View](/lv/documents/product-information/opatanol-epar-product-information_lv.pdf)
 
-lietuvių kalba (LT) (289.67 KB - PDF)
+lietuvių kalba (LT) (315.85 KB - PDF)
 
 **First published:**
 
@@ -538,11 +536,11 @@ lietuvių kalba (LT) (289.67 KB - PDF)
 
 **Last updated:**
 
-23/01/2025
+22/01/2026
 
 [View](/lt/documents/product-information/opatanol-epar-product-information_lt.pdf)
 
-magyar (HU) (275.95 KB - PDF)
+magyar (HU) (342.6 KB - PDF)
 
 **First published:**
 
@@ -550,11 +548,11 @@ magyar (HU) (275.95 KB - PDF)
 
 **Last updated:**
 
-23/01/2025
+22/01/2026
 
 [View](/hu/documents/product-information/opatanol-epar-product-information_hu.pdf)
 
-Malti (MT) (297.23 KB - PDF)
+Malti (MT) (344.92 KB - PDF)
 
 **First published:**
 
@@ -562,11 +560,11 @@ Malti (MT) (297.23 KB - PDF)
 
 **Last updated:**
 
-23/01/2025
+22/01/2026
 
 [View](/mt/documents/product-information/opatanol-epar-product-information_mt.pdf)
 
-Nederlands (NL) (235.29 KB - PDF)
+Nederlands (NL) (330.07 KB - PDF)
 
 **First published:**
 
@@ -574,11 +572,11 @@ Nederlands (NL) (235.29 KB - PDF)
 
 **Last updated:**
 
-23/01/2025
+22/01/2026
 
 [View](/nl/documents/product-information/opatanol-epar-product-information_nl.pdf)
 
-norsk (NO) (227.98 KB - PDF)
+norsk (NO) (305.96 KB - PDF)
 
 **First published:**
 
@@ -586,11 +584,11 @@ norsk (NO) (227.98 KB - PDF)
 
 **Last updated:**
 
-23/01/2025
+22/01/2026
 
 [View](/no/documents/product-information/opatanol-epar-product-information_no.pdf)
 
-polski (PL) (301.19 KB - PDF)
+polski (PL) (325.64 KB - PDF)
 
 **First published:**
 
@@ -598,11 +596,11 @@ polski (PL) (301.19 KB - PDF)
 
 **Last updated:**
 
-23/01/2025
+22/01/2026
 
 [View](/pl/documents/product-information/opatanol-epar-product-information_pl.pdf)
 
-português (PT) (235.38 KB - PDF)
+português (PT) (313.01 KB - PDF)
 
 **First published:**
 
@@ -610,11 +608,11 @@ português (PT) (235.38 KB - PDF)
 
 **Last updated:**
 
-23/01/2025
+22/01/2026
 
 [View](/pt/documents/product-information/opatanol-epar-product-information_pt.pdf)
 
-română (RO) (277.97 KB - PDF)
+română (RO) (344.43 KB - PDF)
 
 **First published:**
 
@@ -622,11 +620,11 @@ română (RO) (277.97 KB - PDF)
 
 **Last updated:**
 
-23/01/2025
+22/01/2026
 
 [View](/ro/documents/product-information/opatanol-epar-product-information_ro.pdf)
 
-slovenčina (SK) (297.41 KB - PDF)
+slovenčina (SK) (361.68 KB - PDF)
 
 **First published:**
 
@@ -634,11 +632,11 @@ slovenčina (SK) (297.41 KB - PDF)
 
 **Last updated:**
 
-23/01/2025
+22/01/2026
 
 [View](/sk/documents/product-information/opatanol-epar-product-information_sk.pdf)
 
-slovenščina (SL) (263.9 KB - PDF)
+slovenščina (SL) (330.46 KB - PDF)
 
 **First published:**
 
@@ -646,11 +644,11 @@ slovenščina (SL) (263.9 KB - PDF)
 
 **Last updated:**
 
-23/01/2025
+22/01/2026
 
 [View](/sl/documents/product-information/opatanol-epar-product-information_sl.pdf)
 
-Suomi (FI) (224.79 KB - PDF)
+Suomi (FI) (317.01 KB - PDF)
 
 **First published:**
 
@@ -658,11 +656,11 @@ Suomi (FI) (224.79 KB - PDF)
 
 **Last updated:**
 
-23/01/2025
+22/01/2026
 
 [View](/fi/documents/product-information/opatanol-epar-product-information_fi.pdf)
 
-svenska (SV) (236.96 KB - PDF)
+svenska (SV) (336.9 KB - PDF)
 
 **First published:**
 
@@ -670,11 +668,11 @@ svenska (SV) (236.96 KB - PDF)
 
 **Last updated:**
 
-23/01/2025
+22/01/2026
 
 [View](/sv/documents/product-information/opatanol-epar-product-information_sv.pdf)
 
-**Latest procedure affecting product information:** VR/0000245219 22/01/2025
+**Latest procedure affecting product information:** VR/0000323571 21/01/2026
 
 icon globe
 
@@ -698,7 +696,7 @@ English (EN) (58.32 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/opatanol-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-362)
+[Other languages (24)](#file-language-dropdown-602)
 
 български (BG) (73.82 KB - PDF)
 
@@ -912,7 +910,7 @@ Novartis Europharm Limited
 
 Vista Building
 
-Marketing authorisation issued 16/05/2002 Revision 25
+Marketing authorisation issued 16/05/2002 Revision 26
 
 ## Assessment history
 
@@ -924,11 +922,11 @@ Collapse section
 
 Opatanol : EPAR - Procedural steps taken and scientific information after authorisation
 
-English (EN) (143.67 KB - PDF)
+English (EN) (152.36 KB - PDF)
 
 **First published:** 13/02/2009
 
-**Last updated:** 23/01/2025
+**Last updated:** 22/01/2026
 
 [View](/en/documents/procedural-steps-after/opatanol-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf)
 
@@ -1040,7 +1038,7 @@ English (EN) (381.11 KB - PDF)
 
 - [Medicines](https://www.ema.europa.eu/en/search?f%5B0%5D=ema_search_topics%3A61)
 
-**This page was last updated on** 23/01/2025
+**This page was last updated on** 22/01/2026
 
 ## Share this page
 

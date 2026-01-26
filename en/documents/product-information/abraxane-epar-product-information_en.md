@@ -1,18 +1,18 @@
 ---
-document_datetime: 2025-01-30 12:36:49
-document_pages: 51
+document_datetime: 2026-01-21 11:22:56
+document_pages: 46
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/abraxane-epar-product-information_en.pdf
 document_name: abraxane-epar-product-information_en.pdf
 version: success
-processing_time: 19.0871233
-conversion_datetime: 2025-12-29 21:43:39.81288
+processing_time: 15.9948024
+conversion_datetime: 2026-01-26 20:30:10.550366
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.66.0
-  docling-core: 2.57.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.10.0
+  docling-jobkit: 1.8.1
+  docling: 2.70.0
+  docling-core: 2.60.2
+  docling-ibm-models: 3.11.0
+  docling-parse: 4.7.3
   python: cpython-313 (3.13.11)
   plaform: macOS-26.2-arm64-arm-64bit-Mach-O
 ---
@@ -28,7 +28,7 @@ Abraxane 5 mg/ml powder for dispersion for infusion.
 
 ## 2. QUALITATIVE AND QUANTITATIVE COMPOSITION
 
-Each vial contains 100 mg of paclitaxel formulated as albumin bound nanoparticles. Each vial contains 250 mg of paclitaxel formulated as albumin bound nanoparticles.
+Each vial contains 100 mg of paclitaxel formulated as albumin bound nanoparticles.
 
 After reconstitution, each ml of dispersion contains 5 mg of paclitaxel formulated as albumin bound nanoparticles.
 
@@ -92,7 +92,7 @@ Table 2: Dose modifications for neutropenia and/or thrombocytopenia at the start
 | Day 15                                                  | ≥ 500 but < 1000                                        | OR                                                      | ≥ 50,000 but < 75,000                                   | OR                                                                                                           |                                                                                                              |
 |                                                         | < 500                                                   | OR                                                      | < 50,000                                                | Withhold                                                                                                     | doses                                                                                                        |
 | Day 15: If Day 8 doses were reduced:                    | Day 15: If Day 8 doses were reduced:                    | Day 15: If Day 8 doses were reduced:                    | Day 15: If Day 8 doses were reduced:                    | Day 15: If Day 8 doses were reduced:                                                                         | Day 15: If Day 8 doses were reduced:                                                                         |
-| Day 15                                                  | ≥ 1000                                                  | AND                                                     | ≥ 75,000                                                | OR                                                                                                           |                                                                                                              |
+| Day 15                                                  | ≥ 1000                                                  | AND                                                     | ≥ 75,000                                                | Return to follow with OR Treat with                                                                          | Return to follow with OR Treat with                                                                          |
 |                                                         | ≥ 500 but < 1000                                        | OR                                                      | ≥ 50,000 but < 75,000                                   | Treat with Day 8 dose levels and follow with WBCGrowth Factors OR Reduce doses 1 dose level from Day 8 doses | Treat with Day 8 dose levels and follow with WBCGrowth Factors OR Reduce doses 1 dose level from Day 8 doses |
 |                                                         | < 500                                                   | OR                                                      | < 50,000                                                | Withhold doses                                                                                               | Withhold doses                                                                                               |
 
@@ -140,7 +140,7 @@ Table 4: Dose reductions for haematologic toxicities in patients with non-small 
 
 2  Maximum of 7 days post scheduled Day 1 dose of next cycle.
 
-For Grade 2 or 3 cutaneous toxicity, Grade 3 diarrhoea, or Grade 3 mucositis, interrupt treatment until the toxicity improves to ≤ Grade 1, then restart treatment according to the guidelines in Table 5. For ≥ Grade 3 peripheral neuropathy, withhold treatment until resolution to ≤ Grade 1. Treatment may be resumed at the next lower dose level in subsequent cycles according to the guidelines in Table 5. For any other Grade 3 or 4 non-haematologic toxicity, interrupt treatment until the toxicity improves to ≤ Grade 2, then restart treatment according to the guidelines in Table 5.
+For Grade 2 or 3 cutaneous toxicity, Grade 3 diarrhoea, or Grade 3 mucositis, interrupt treatment until the toxicity improves to ≤ Grade 1, then restart treatment according to the guidelines in Table 5. For ≥ Grade 3 peripheral neuropathy, withhold treatme nt until resolution to ≤ Grade 1. Treatment may be resumed at the next lower dose level in subsequent cycles according to the guidelines in Table 5. For any other Grade 3 or 4 non-haematologic toxicity, interrupt treatment until the toxicity improves to ≤ Grade 2, then restart treatment according to the guidelines in Table 5.
 
 Table 5: Dose reductions for non-haematologic toxicities in patients with non-small cell lung cancer
 
@@ -175,13 +175,13 @@ Adjustment of the starting Abraxane dose is not required for patients with mild 
 
 No additional dosage reductions, other than those for all patients, are recommended for patients 65 years and older.
 
-Of the 229 patients in the randomized study who received Abraxane monotherapy for breast cancer, 13% were at least 65 years of age and &lt; 2% were 75 years and older. No toxicities occurred notably more frequently among patients at least 65 years of age who received Abraxane. However, a subsequent analysis in 981 patients receiving Abraxane monotherapy for metastatic breast cancer, of which 15% were ≥ 65 years old and 2% were ≥ 75 years old, showed a higher incidence of epistaxis, diarrhoea, dehydration, fatigue and peripheral oedema in patients ≥ 65 years.
+Of the 229 patients in the randomized study who received Abraxane monotherapy for breast cancer, 13% were at least 65 years of age and &lt; 2% were 75 years and older. No toxicities occurred notably more frequently among patients at least 65 years of age who received Abraxane. However, a subsequent analysis in 981 patients receiving Abraxane monotherapy for metastatic breast cancer, of which 15% were ≥ 65 years old and 2% were ≥ 75 years old, showed a higher incidence of epistaxis, diarrhoea, dehydration, fati gue and peripheral oedema in patients ≥ 65 years.
 
 Of the 421 patients with pancreatic adenocarcinoma in the randomized study who received Abraxane in combination with gemcitabine, 41% were 65 years and older and 10% were 75 years and older. In patients aged 75 years and older who received Abraxane and gemcitabine, there was a higher incidence of serious adverse reactions and adverse reactions that led to treatment discontinuation (see section 4.4). Patients with pancreatic adenocarcinoma aged 75 years and older should be carefully assessed before treatment is considered (see section 4.4).
 
 Of the 514 patients with non-small cell lung cancer in the randomized study who received Abraxane in combination with carboplatin, 31% were 65 years or older and 3.5% were 75 years or older. Myelosuppression events, peripheral neuropathy events, and arthralgia were more frequent in patients 65 years or older compared to patients younger than 65 years of age. There is limited experience of Abraxane/carboplatin use in patients 75 years or older.
 
-Pharmacokinetic/pharmacodynamic modelling using data from 125 patients with advanced solid tumours indic ates that patients ≥ 65 years of age may be more susceptible to development of neutropenia within the first treatment cycle.
+Pharmacokinetic/pharmacodynamic modelling using data from 125 patients with advanced solid tumours indicates that patients ≥ 65 years of age may be more susceptible to development of neutropenia within the first treatment cycle.
 
 ## Paediatric population
 
@@ -517,7 +517,7 @@ Nausea occurred in 29% of the patients and diarrhoea in 25% of the patients.
 
 ## Abraxane monotherapy-metastatic breast cancer
 
-Alopecia was observed in &gt; 80% of the patients treated with Abraxane. The majority of alopecia events occurred less than o ne month after initiation of Abraxane. Pronounced hair loss ≥ 50% is expected for the majority of patients who experience alopecia.
+Alopecia was observed in &gt; 80% of the patients treated with Abraxane. The majority of alopecia events occurred less than one month after initiation of Abraxane. Pronounced hair loss ≥ 50% is expected for the majority of patients who experience alopecia.
 
 ## Musculoskeletal and connective tissue disorders
 
@@ -628,6 +628,12 @@ Table 9: Efficacy results from randomized study in patients with pancreatic aden
 | p A+G /p G (95% CI)                                   | 3.19 (2.178, 4.662)                            | 3.19 (2.178, 4.662)     |
 | P-value (chi-square test)                             | < 0.0001                                       | < 0.0001                |
 
+CI = confidence interval, HRA+G/G = hazard ratio of Abraxane+gemcitabine/gemcitabine, pA+G/pG = response rate ratio of Abraxane+gemcitabine/gemcitabine
+
+a  stratified Cox proportional hazard model
+
+b stratified log-rank test, stratified by geographic region (North America versus others), KPS (70 to 80 versus 90 to 100), and presence of liver metastasis (yes versus no).
+
 There was a statistically significant improvement in OS for patients treated with Abraxane/gemcitabine versus gemcitabine alone, with 1.8 months increase in median OS, 28% overall reduction in risk of death, 59% improvement in 1-year survival, and 125% improvement in 2-year survival rates.
 
 <div style=\"page-break-after: always\"></div>
@@ -657,6 +663,8 @@ Table 10: Overall response rate in randomized non-small cell lung cancer trial (
 | 95% CI (%)                                            | 28.6, 36.7                                            | 21.2, 28.5                                                                    |
 | p A /p T (95.1% CI)                                   | 1.313 (1.082, 1.593)                                  | 1.313 (1.082, 1.593)                                                          |
 | P-value a                                             | 0.005                                                 | 0.005                                                                         |
+
+CI = confidence interval; HRA/T = hazard ratio of Abraxane/carboplatin to solvent-based paclitaxel/carboplatin;
 
 pA/pT = response rate ratio of Abraxane/carboplatin to solvent-based paclitaxel/carboplatin.
 
@@ -725,7 +733,7 @@ At the clinical dose range of 80 to 300 mg/m 2 , the mean plasma clearance of pa
 
 ## Hepatic impairment
 
-The effect of hepatic impairment on population pharmacokinetics of Abraxane was studied in patients with advanced solid tumours. This analysis included patients with normal hepatic function (n = 130), and pre-existing mild (n = 8), moderate (n = 7), or severe (n = 5) hepatic impairment (according to NCI Organ Dysfunction Working Group criteria). The results show that mild hepatic impairment (total bilirubin &gt; 1 to ≤ 1.5 x ULN) has no clinically important effect on pharmacokinetics of paclitaxel. Patients with moderate (total bilirubin &gt; 1.5 to ≤ 3 x ULN) or severe (total bilirubin &gt; 3 to ≤ 5 x ULN) hepatic impairment have a 22% to 26% decrease in the maximum elimination rate of paclitaxel and approximately 20% increase in mean paclitaxel AUC compared with patients with normal hepatic function. Hepatic impairment has no effect on mean paclitaxel Cmax. In addition, elimination of paclitaxel shows an inverse correlation with total bilirubin and a positive correlation with serum albumin.
+The effect of hepatic impairment on population pharmacokinetics of Abraxane was studied in patients with advanced solid tumours. This analysis included patients with normal hepatic function (n = 130), and pre-existing mild (n = 8), moderate (n = 7), or severe (n = 5) hepatic impairment (according to NCI Organ Dysfunction Working Group criteria). The results show that mild hepatic impairment (total bilirubin &gt; 1 to ≤ 1.5 x ULN) has no clinically important effect on pharmacokinetics of paclitaxel. Patients with moderate (total bilirubin &gt; 1.5 t o ≤ 3 x ULN) or severe (total bilirubin &gt; 3 to ≤ 5 x ULN) hepatic impairment have a 22% to 26% decrease in the maximum elimination rate of paclitaxel and approximately 20% increase in mean paclitaxel AUC compared with patients with normal hepatic function. Hepatic impairment has no effect on mean paclitaxel Cmax. In addition, elimination of paclitaxel shows an inverse correlation with total bilirubin and a positive correlation with serum albumin.
 
 Pharmacokinetic/pharmacodynamic modeling indicates that there is no correlation between hepatic function (as indicated by the baseline albumin or total bilirubin level) and neutropenia after adjusting for Abraxane exposure.
 
@@ -809,11 +817,9 @@ For storage conditions after reconstitution of the medicinal product, see sectio
 
 50 ml vial (type 1 glass) with a stopper (butyl rubber), with an overseal (aluminium), containing 100 mg of paclitaxel formulated as albumin bound nanoparticles.
 
-100 ml vial (type 1 glass) with a stopper (butyl rubber), with an overseal (aluminium), containing 250 mg of paclitaxel formulated as albumin bound nanoparticles.
+Pack size of one vial.
 
 <div style=\"page-break-after: always\"></div>
-
-Pack size of one vial.
 
 ## 6.6 Special precautions for disposal and other handling
 
@@ -829,8 +835,6 @@ Abraxane is supplied as a sterile lyophilised powder for reconstitution before u
 
 100 mg vial: Using a sterile syringe, 20 ml of sodium chloride 9 mg/ml (0.9%) solution for infusion should slowly be injected into a vial of Abraxane over a minimum of 1 minute.
 
-250 mg vial: Using a sterile syringe, 50 ml of sodium chloride 9 mg/ml (0.9%) solution for infusion should slowly be injected into a vial of Abraxane over a minimum of 1 minute.
-
 The solution should be directed onto the inside wall of the vial. The solution should not be injected directly onto the powder as this will result in foaming.
 
 Once the addition is complete, the vial should be allowed to stand for a minimum of 5 minutes to ensure proper wetting of the solid. Then, the vial should gently and slowly be swirled and/or inverted for at least 2 minutes until complete redispersion of any powder occurs. The generation of foam must be avoided. If foaming or clumping occurs, the dispersion must stand for at least 15 minutes until foam subsides.
@@ -845,19 +849,15 @@ The use of medical devices containing silicone oil as a lubricant (i.e. syringes
 
 Use of filters with a pore size less than 15 µm may result in blockage of the filter.
 
-<div style=\"page-break-after: always\"></div>
-
 The use of specialized di(2-ethylhexyl)phthalate (DEHP)-free solution containers or administration sets is not necessary to prepare or administer Abraxane infusions.
 
-Following administration, it is recommended that the intravenous line be flushed with sodium chloride
+Following administration, it is recommended that the intravenous line be flushed with sodium chloride 9 mg/ml (0.9%) solution for injection to ensure administration of the complete dose.
 
-9 mg/ml (0.9%) solution for injection to ensure administration of the complete dose.
+<div style=\"page-break-after: always\"></div>
 
 Any unused product or waste material should be disposed of in accordance with local requirements.
 
-7.
-
-MARKETING AUTHORISATION HOLDER
+## 7. MARKETING AUTHORISATION HOLDER
 
 Bristol-Myers Squibb Pharma EEIG
 
@@ -865,13 +865,9 @@ Plaza 254 Blanchardstown Corporate Park 2 Dublin 15, D15 T867
 
 Ireland
 
-8.
-
-MARKETING AUTHORISATION NUMBER(S)
+## 8. MARKETING AUTHORISATION NUMBER(S)
 
 EU/1/07/428/001
-
-EU/1/07/428/002
 
 ## 9. DATE OF FIRST AUTHORISATION/RENEWAL OF THE AUTHORISATION
 
@@ -879,13 +875,9 @@ Date of first authorisation: 11 January 2008
 
 Date of latest renewal: 14 January 2013
 
-10.
+## 10. DATE OF REVISION OF THE TEXT
 
-DATE OF REVISION OF THE TEXT
-
-Detailed information on this medicinal product is available on the website of the European Medicines
-
-Agency http://www.ema.europa.eu
+Detailed information on this medicinal product is available on the website of the European Medicines Agency http://www.ema.europa.eu
 
 27
 
@@ -987,7 +979,9 @@ EXP
 
 ## 9. SPECIAL STORAGE CONDITIONS
 
-Unopened vials : Keep the vial in the outer carton in order to protect from light.
+Unopened vials
+
+: Keep the vial in the outer carton in order to protect from light.
 
 Reconstituted dispersion : It can be stored refrigerated at 2°C to 8°C for up to 24 hours in either the vial or an infusion bag, protected from light. The total combined storage time of reconstituted medicinal product in the vial and in the infusion bag when refrigerated and protected from light is 24 hours. This may be followed by storage in the infusion bag for 4 hours below 25°C.
 
@@ -1083,15 +1077,7 @@ Any unused product or waste material should be disposed of in accordance with lo
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
-Bristol-Myers Squibb Pharma EEIG
-
-Plaza 254
-
-Blanchardstown Corporate Park 2
-
-Dublin 15, D15 T867
-
-Ireland
+Bristol-Myers Squibb Pharma EEIG Plaza 254 Blanchardstown Corporate Park 2 Dublin 15, D15 T867 Ireland
 
 ## 12. MARKETING AUTHORISATION NUMBER(S)
 
@@ -1115,195 +1101,7 @@ Justification for not including Braille accepted.
 
 ## 18. UNIQUE IDENTIFIER - HUMAN READABLE DATA
 
-PC
-
-SN
-
-NN
-
-<div style=\"page-break-after: always\"></div>
-
-## PARTICULARS TO APPEAR ON THE OUTER PACKAGING
-
-Carton
-
-## 1. NAME OF THE MEDICINAL PRODUCT
-
-Abraxane 5 mg/ml powder for dispersion for infusion paclitaxel
-
-## 2. STATEMENT OF ACTIVE SUBSTANCE(S)
-
-Each vial contains 250 mg of paclitaxel formulated as albumin bound nanoparticles.
-
-After reconstitution, each ml of dispersion contains 5 mg of paclitaxel formulated as albumin bound nanoparticles.
-
-## 3. LIST OF EXCIPIENTS
-
-Excipients: Human albumin solution (containing sodium caprylate and N-acetyl-L-tryptophan).
-
-## 4. PHARMACEUTICAL FORM AND CONTENTS
-
-Powder for dispersion for infusion.
-
-1 vial
-
-250 mg/50 ml
-
-## 5. METHOD AND ROUTE(S) OF ADMINISTRATION
-
-Read the package leaflet before use.
-
-Intravenous use.
-
-## 6. SPECIAL WARNING THAT THE MEDICINAL PRODUCT MUST BE STORED OUT OF THE SIGHT AND REACH OF CHILDREN
-
-Keep out of the sight and reach of children.
-
-## 7. OTHER SPECIAL WARNING(S), IF NECESSARY
-
-Abraxane should not be substituted for or with other paclitaxel formulations.
-
-<div style=\"page-break-after: always\"></div>
-
-## 8. EXPIRY DATE
-
-EXP
-
-## 9. SPECIAL STORAGE CONDITIONS
-
-Unopened vials : Keep the vial in the outer carton in order to protect from light.
-
-Reconstituted dispersion : It can be stored refrigerated at 2°C to 8°C for up to 24 hours in either the vial or an infusion bag, protected from light. The total combined storage time of reconstituted medicinal product in the vial and in the infusion bag when refrigerated and protected from light is 24 hours. This may be followed by storage in the infusion bag for 4 hours below 25°C.
-
-## 10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
-
-Any unused product or waste material should be disposed of in accordance with local requirements.
-
-## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
-
-Bristol-Myers Squibb Pharma EEIG Plaza 254 Blanchardstown Corporate Park 2 Dublin 15, D15 T867 Ireland
-
-## 12. MARKETING AUTHORISATION NUMBER(S)
-
-EU/1/07/428/002
-
-## 13. BATCH NUMBER
-
-Lot
-
-## 14. GENERAL CLASSIFICATION FOR SUPPLY
-
-## 15. INSTRUCTIONS ON USE
-
-## 16. INFORMATION IN BRAILLE
-
-Justification for not including Braille accepted.
-
-<div style=\"page-break-after: always\"></div>
-
-| 17.   | UNIQUE IDENTIFIER - 2D BARCODE   |
-|-------|----------------------------------|
-
-2 D bar code carrying the unique identifier
-
-| 18.   | UNIQUE IDENTIFIER - HUMANREADABLE DATA   |
-|-------|------------------------------------------|
-
 PC SN NN
-
-<div style=\"page-break-after: always\"></div>
-
-## PARTICULARS TO APPEAR ON THE IMMEDIATE PACKAGING
-
-Vial
-
-## 1. NAME OF THE MEDICINAL PRODUCT
-
-Abraxane 5 mg/ml powder for dispersion for infusion paclitaxel
-
-## 2. STATEMENT OF ACTIVE SUBSTANCE(S)
-
-Each vial contains 250 mg of paclitaxel formulated as albumin bound nanoparticles.
-
-After reconstitution, each ml of dispersion contains 5 mg of paclitaxel.
-
-## 3. LIST OF EXCIPIENTS
-
-Excipients: Human albumin solution (containing sodium caprylate and N-acetyl-L-tryptophan).
-
-## 4. PHARMACEUTICAL FORM AND CONTENTS
-
-Powder for dispersion for infusion.
-
-1 vial
-
-250 mg/50 ml
-
-## 5. METHOD AND ROUTE(S) OF ADMINISTRATION
-
-Read the package leaflet before use.
-
-Intravenous use
-
-## 6. SPECIAL WARNING THAT THE MEDICINAL PRODUCT MUST BE STORED OUT OF THE SIGHT AND REACH OF CHILDREN
-
-Keep out of the sight and reach of children.
-
-## 7. OTHER SPECIAL WARNING(S), IF NECESSARY
-
-## 8. EXPIRY DATE
-
-EXP
-
-<div style=\"page-break-after: always\"></div>
-
-## 9. SPECIAL STORAGE CONDITIONS
-
-Unopened vials: Keep the vial in the outer carton in order to protect from light.
-
-## 10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
-
-Any unused product or waste material should be disposed of in accordance with local requirements.
-
-## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
-
-Bristol-Myers Squibb Pharma EEIG
-
-Plaza 254
-
-Blanchardstown Corporate Park 2
-
-Dublin 15, D15 T867
-
-Ireland
-
-## 12. MARKETING AUTHORISATION NUMBER(S)
-
-EU/1/07/428/002
-
-## 13. BATCH NUMBER
-
-Lot
-
-14. GENERAL CLASSIFICATION FOR SUPPLY
-
-15. INSTRUCTIONS ON USE
-
-16. INFORMATION IN BRAILLE
-
-Justification for not including Braille accepted.
-
-17. UNIQUE IDENTIFIER - 2D BARCODE
-
-2 D bar code carrying the unique identifier
-
-## 18. UNIQUE IDENTIFIER - HUMAN READABLE DATA
-
-PC
-
-SN
-
-NN
 
 <div style=\"page-break-after: always\"></div>
 
@@ -1358,7 +1156,7 @@ Abraxane is used to treat the following types of cancer:
 
 <div style=\"page-break-after: always\"></div>
 
-Lung Cancer
+## Lung Cancer
 
 - Abraxane is also used together with a medicine called carboplatin if you have the most common type of lung cancer, called 'non-small cell lung cancer'.
 - Abraxane is used in non-small cell lung cancer where surgery or radiotherapy would not be suitable to treat the disease.
@@ -1476,7 +1274,7 @@ The very common side effects may affect more than 1 in 10 people:
 - Abdominal pain
 - Nose bleeds
 
-The common side effects may affect up to 1 in 10 people:
+## The common side effects may affect up to 1 in 10 people:
 
 - Itching, dry skin, nail disorder
 - Infection, fever with decrease in the number of a type of white blood cell (neutrophils) in the blood, flushing, thrush, severe infection in your blood which may be caused by reduced white blood cells
@@ -1570,31 +1368,37 @@ Your doctor or pharmacist is responsible for disposing of any unused Abraxane co
 
 The active substance is paclitaxel.
 
-Each vial contains 100 mg or 250 mg of paclitaxel formulated as albumin bound nanoparticles. After reconstitution, each ml of dispersion contains 5 mg of paclitaxel formulated as albumin bound nanoparticles.
+Each vial contains 100 mg of paclitaxel formulated as albumin bound nanoparticles.
+
+After reconstitution, each ml of dispersion contains 5 mg of paclitaxel formulated as albumin bound nanoparticles.
 
 The other ingredient is human albumin solution (containing sodium caprylate and N-acetyl-L-tryptophan), see section 2 'Abraxane contains sodium'.
 
 ## What Abraxane looks like and contents of the pack
 
-Abraxane is a white to yellow powder for dispersion for infusion. Abraxane is available in glass vials containing 100 mg or 250 mg of paclitaxel formulated as albumin bound nanoparticles.
+Abraxane is a white to yellow powder for dispersion for infusion. Abraxane is available in glass vials containing 100 mg of paclitaxel formulated as albumin bound nanoparticles.
 
 Each pack contains 1 vial.
 
 ## Marketing Authorisation Holder
 
-Bristol-Myers Squibb Pharma EEIG Plaza 254 Blanchardstown Corporate Park 2 Dublin 15, D15 T867 Ireland
+Bristol-Myers Squibb Pharma EEIG
+
+Plaza 254 Blanchardstown Corporate Park 2 Dublin 15, D15 T867 Ireland
 
 ## Manufacturer
 
 Celgene Distribution B.V.
 
-Orteliuslaan 1000 3528 BD Utrecht Netherlands
+Orteliuslaan 1000 3528 BD Utrecht
+
+Netherlands
 
 For any information about this medicine, please contact the local representative of the Marketing Authorisation Holder:
 
-## Belgique/België/Belgien
+Belgique/België/Belgien N.V. Bristol-Myers Squibb Belgium S.A.
 
-N.V. Bristol-Myers Squibb Belgium S.A. Tél/Tel: + 32 2 352 76 11 medicalinfo.belgium@bms.com
+Tél/Tel: + 32 2 352 76 11 medicalinfo.belgium@bms.com
 
 ## България
 
@@ -1612,9 +1416,9 @@ Tél/Tel: + 32 2 352 76 11 medicalinfo.belgium@bms.com
 
 <div style=\"page-break-after: always\"></div>
 
-Česká republika Bristol-Myers Squibb spol. s r.o. Tel: + 420 221 016 111
+Česká republika
 
-medinfo.czech@bms.com
+Bristol-Myers Squibb spol. s r.o. Tel: + 420 221 016 111 medinfo.czech@bms.com
 
 Danmark Bristol-Myers Squibb Denmark Tlf: + 45 45 93 05 06
 
@@ -1624,7 +1428,9 @@ Deutschland Bristol-Myers Squibb GmbH &amp; Co. KGaA Tel: 0800 0752002 (+ 49 89 
 
 medwiss.info@bms.com
 
-Eesti Swixx Biopharma OÜ Tel: + 372 640 1030
+Eesti
+
+Swixx Biopharma OÜ Tel: + 372 640 1030
 
 medinfo.estonia@swixxbiopharma.com
 
@@ -1638,17 +1444,17 @@ informacion.medica@bms.com
 
 France Bristol-Myers Squibb SAS Tél: + 33 (0)1 58 83 84 96 infomed@bms.com
 
-Hrvatska Swixx Biopharma d.o.o. Tel: + 385 1 2078 500
-
-medinfo.croatia@swixxbiopharma.com
+Hrvatska Swixx Biopharma d.o.o. Tel: + 385 1 2078 500 medinfo.croatia@swixxbiopharma.com
 
 Ireland Bristol-Myers Squibb Pharmaceuticals uc Tel: 1 800 749 749 (+ 353 (0)1 483 3625) medical.information@bms.com
 
-Ísland Vistor hf. Sími: + 354 535 7000 vistor@vistor.is medical.information@bms.com
+Ísland Vistor ehf. Sími: + 354 535 7000
 
-Italia Bristol-Myers Squibb S.r.l. Tel: + 39 06 50 39 61
+medical.information@bms.com
 
-medicalinformation.italia@bms.com
+Italia
+
+Bristol-Myers Squibb S.r.l. Tel: + 39 06 50 39 61 medicalinformation.italia@bms.com
 
 Magyarország Bristol-Myers Squibb Kft. Tel.: + 36 1 301 9797
 
@@ -1658,29 +1464,21 @@ Malta A.M. Mangion Ltd Tel: + 356 23976333
 
 pv@ammangion.com
 
-Nederland
+Nederland Bristol-Myers Squibb B.V. Tel: + 31 (0)30 300 2222 medischeafdeling@bms.com
 
-Bristol-Myers Squibb B.V. Tel: + 31 (0)30 300 2222 medischeafdeling@bms.com
+Norge Bristol-Myers Squibb Norway AS Tlf: + 47 67 55 53 50 medinfo.norway@bms.com
 
-Norge Bristol-Myers Squibb Norway AS Tlf: + 47 67 55 53 50
-
-medinfo.norway@bms.com
-
-Österreich Bristol-Myers Squibb GesmbH Tel: + 43 1 60 14 30
-
-medinfo.austria@bms.com
+Österreich Bristol-Myers Squibb GesmbH Tel: + 43 1 60 14 30 medinfo.austria@bms.com
 
 Polska Bristol-Myers Squibb Polska Sp. z o.o. Tel.: + 48 22 2606400 informacja.medyczna@bms.com
 
-Portugal Bristol-Myers Squibb Farmacêutica Portuguesa, S.A. Tel: + 351 21 440 70 00
-
-portugal.medinfo@bms.com
+Portugal Bristol-Myers Squibb Farmacêutica Portuguesa, S.A. Tel: + 351 21 440 70 00 portugal.medinfo@bms.com
 
 România Bristol-Myers Squibb Marketing Services S.R.L. Tel: + 40 (0)21 272 16 19 medinfo.romania@bms.com
 
-Slovenija Swixx Biopharma d.o.o. Tel: + 386 1 2355 100
+Slovenija
 
-medinfo.slovenia@swixxbiopharma.com
+Swixx Biopharma d.o.o. Tel: + 386 1 2355 100 medinfo.slovenia@swixxbiopharma.com
 
 Slovenská republika
 
@@ -1688,11 +1486,11 @@ Swixx Biopharma s.r.o. Tel: + 421 2 20833 600 medinfo.slovakia@swixxbiopharma.co
 
 Suomi/Finland Oy Bristol-Myers Squibb (Finland) Ab Puh/Tel: + 358 9 251 21 230 medinfo.finland@bms.com
 
-49
-
 <div style=\"page-break-after: always\"></div>
 
-Κύπρος Bristol-Myers Squibb A.E. Τηλ: 800 92666 (+ 30 210 6074300) medinfo.greece@bms.com
+Κύπρος Bristol-Myers Squibb A.E. Τηλ: 800 92666 (+ 30 210 6074300)
+
+medinfo.greece@bms.com
 
 Latvija Swixx Biopharma SIA Tel: + 371 66164750 medinfo.latvia@swixxbiopharma.com
 
@@ -1726,17 +1524,15 @@ Abraxane is supplied as a sterile lyophilised powder for reconstitution before u
 
 Using a sterile syringe, 20 ml of sodium chloride 9 mg/ml (0.9%) solution for infusion should slowly be injected into the 100 mg vial of Abraxane over a minimum of 1 minute.
 
-## Reconstitution of 250 mg:
-
-Using a sterile syringe, 50 ml of sodium chloride 9 mg/ml (0.9%) solution for infusion should slowly be injected into the 250 mg vial of Abraxane over a minimum of 1 minute.
-
 The solution should be directed onto the inside wall of the vial. The solution should not be injected directly onto the powder as this will result in foaming.
+
+Once the addition is complete, the vial should be allowed to stand for a minimum of 5 minutes to ensure proper wetting of the solid. Then, the vial should gently and slowly be swirled and/or inverted for at least 2 minutes until complete redispersion of any powder occurs. The generation of foam
 
 Sverige Bristol-Myers Squibb Aktiebolag Tel: + 46 8 704 71 00 medinfo.sweden@bms.com
 
 <div style=\"page-break-after: always\"></div>
 
-Once the addition is complete, the vial should be allowed to stand for a minimum of 5 minutes to ensure proper wetting of the solid. Then, the vial should gently and slowly be swirled and/or inverted for at least 2 minutes until complete redispersion of any powder occurs. The generation of foam should be avoided. If foaming or clumping occurs, the dispersion should stand for at least 15 minutes until foam subsides.
+should be avoided. If foaming or clumping occurs, the dispersion should stand for at least 15 minutes until foam subsides.
 
 The reconstituted dispersion should be milky and homogenous without visible precipitates. Some settling of the reconstituted dispersion may occur. If precipitates or settling are visible, the vial should be gently inverted again to ensure complete redispersion prior to use.
 

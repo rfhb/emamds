@@ -1,17 +1,17 @@
 ---
-document_datetime: 2026-01-21 16:34:00
+document_datetime: 2026-01-26 18:18:34
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/lyumjev.html
 document_name: lyumjev.html
 version: success
-processing_time: 0.108124
-conversion_datetime: 2026-01-22 21:30:58.641294
+processing_time: 0.1213034
+conversion_datetime: 2026-01-26 20:24:23.208454
 docling_version:
   docling-serve: 1.10.0
   docling-jobkit: 1.8.1
-  docling: 2.69.0
-  docling-core: 2.60.0
-  docling-ibm-models: 3.10.3
+  docling: 2.70.0
+  docling-core: 2.60.2
+  docling-ibm-models: 3.11.0
   docling-parse: 4.7.3
   python: cpython-313 (3.13.11)
   plaform: macOS-26.2-arm64-arm-64bit-Mach-O
@@ -117,7 +117,7 @@ English (EN) (133.53 KB - PDF)
 
 [View](/en/documents/overview/lyumjev-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-795)
+[Other languages (22)](#file-language-dropdown-272)
 
 български (BG) (147.27 KB - PDF)
 
@@ -403,7 +403,7 @@ English (EN) (2.42 MB - PDF)
 
 [View](/en/documents/product-information/lyumjev-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-465)
+[Other languages (24)](#file-language-dropdown-139)
 
 български (BG) (2.94 MB - PDF)
 
@@ -719,7 +719,7 @@ English (EN) (60.01 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/lyumjev-previously-liumjev-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-672)
+[Other languages (24)](#file-language-dropdown-639)
 
 български (BG) (147.16 KB - PDF)
 

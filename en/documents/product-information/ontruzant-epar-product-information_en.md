@@ -1,18 +1,18 @@
 ---
-document_datetime: 2025-01-06 17:28:09
+document_datetime: 2026-01-23 10:35:12
 document_pages: 53
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/ontruzant-epar-product-information_en.pdf
 document_name: ontruzant-epar-product-information_en.pdf
 version: success
-processing_time: 19.638189
-conversion_datetime: 2025-12-28 04:34:44.391928
+processing_time: 21.780112
+conversion_datetime: 2026-01-26 20:39:15.761189
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.66.0
-  docling-core: 2.57.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.10.0
+  docling-jobkit: 1.8.1
+  docling: 2.70.0
+  docling-core: 2.60.2
+  docling-ibm-models: 3.11.0
+  docling-parse: 4.7.3
   python: cpython-313 (3.13.11)
   plaform: macOS-26.2-arm64-arm-64bit-Mach-O
 ---
@@ -38,6 +38,8 @@ One vial contains 420 mg of trastuzumab, a humanised IgG1 monoclonal antibody pr
 
 The reconstituted Ontruzant solution contains 21 mg/mL of trastuzumab.
 
+Excipient with known effect Each 150 mg vial contains 0.6 mg of polysorbate 20 Each 420 mg vial contains 1.7 mg of polysorbate 20
+
 For the full list of excipients, see section 6.1.
 
 ## 3. PHARMACEUTICAL FORM
@@ -60,11 +62,10 @@ Ontruzant is indicated for the treatment of adult patients with HER2 positive me
 
 -in combination with paclitaxel for the treatment of those patients who have not received chemotherapy for their metastatic disease and for whom an anthracycline is not suitable.
 
--in combination with docetaxel for the treatment of those patients who have not received chemotherapy for their metastatic disease.
-
 <div style=\"page-break-after: always\"></div>
 
--in combination with an aromatase inhibitor for the treatment of postmenopausal patients with hormone-receptor positive MBC, not previously treated with trastuzumab.
+- -in combination with docetaxel for the treatment of those patients who have not received chemotherapy for their metastatic disease.
+- -in combination with an aromatase inhibitor for the treatment of postmenopausal patients with hormone-receptor positive MBC, not previously treated with trastuzumab.
 
 ## Early breast cancer
 
@@ -73,8 +74,7 @@ Ontruzant is indicated for the treatment of adult patients with HER2 positive ea
 - -following surgery, chemotherapy (neoadjuvant or adjuvant) and radiotherapy (if applicable) (see section 5.1).
 - -following adjuvant chemotherapy with doxorubicin and cyclophosphamide, in combination with paclitaxel or docetaxel.
 - -in combination with adjuvant chemotherapy consisting of docetaxel and carboplatin.
-
--in combination with neoadjuvant chemotherapy followed by adjuvant Ontruzant therapy, for locally advanced (including inflammatory) disease or tumours &gt;2 cm in diameter (see sections 4.4 and 5.1).
+- -in combination with neoadjuvant chemotherapy followed by adjuvant Ontruzant therapy, for locally advanced (including inflammatory) disease or tumours &gt;2 cm in diameter (see sections 4.4 and 5.1).
 
 Ontruzant should only be used in patients with metastatic or early breast cancer whose tumours have either HER2 overexpression or HER2 gene amplification as determined by an accurate and validated assay (see sections 4.4 and 5.1).
 
@@ -92,6 +92,8 @@ Ontruzant intravenous formulation is not intended for subcutaneous administratio
 
 In order to prevent medication errors, it is important to check the vial labels to ensure that the medicinal product being prepared and administered is Ontruzant (trastuzumab) and not another trastuzumab-containing product (e.g. trastuzumab emtansine or trastuzumab deruxtecan).
 
+<div style=\"page-break-after: always\"></div>
+
 ## Posology
 
 ## Metastatic breast cancer
@@ -99,8 +101,6 @@ In order to prevent medication errors, it is important to check the vial labels 
 ## Three-weekly schedule
 
 The recommended initial loading dose is 8 mg/kg body weight. The recommended maintenance dose at three-weekly intervals is 6 mg/kg body weight, beginning three weeks after the loading dose.
-
-<div style=\"page-break-after: always\"></div>
 
 ## Weekly schedule
 
@@ -140,15 +140,15 @@ Patients with MBC or MGC should be treated with Ontruzant until progression of d
 
 No reductions in the dose of trastuzumab were made during clinical trials. Patients may continue therapy during periods of reversible, chemotherapy-induced myelosuppression but they should be monitored carefully for complications of neutropenia during this time. Refer to the SmPC for paclitaxel, docetaxel or aromatase inhibitor for information on dose reduction or delays.
 
-If left ventricular ejection fraction (LVEF) percentage drops ≥10 points from baseline AND to below 50%, treatment should be suspended and a repeat LVEF assessment performed within approximately 3 weeks. If LVEF has not improved, or has declined further, or if symptomatic congestive heart failure (CHF) has developed, discontinuation of Ontruzant should be strongly considered, unless the benefits for the individual patient are deemed to outweigh the risks. All such patients should be referred for assessment by a cardiologist and followed up.
-
-## Missed doses
-
-If the patient has missed a dose of Ontruzant by one week or less, then the usual maintenance dose (weekly regimen: 2 mg/kg; three-weekly regimen: 6 mg/kg) should be administered as soon as
+If left ventricular ejection fraction (LVEF) percentage drops ≥10 points from baseline AND to below 50%, treatment should be suspended and a repeat LVEF assessment performed within approximately
 
 <div style=\"page-break-after: always\"></div>
 
-possible. Do not wait until the next planned cycle. Subsequent maintenance doses  should be administered 7 days or 21 days later according to the weekly or three-weekly schedules, respectively.
+3 weeks. If LVEF has not improved, or has declined further, or if symptomatic congestive heart failure (CHF) has developed, discontinuation of Ontruzant should be strongly considered, unless the benefits for the individual patient are deemed to outweigh the risks. All such patients should be referred for assessment by a cardiologist and followed up.
+
+## Missed doses
+
+If the patient has missed a dose of Ontruzant by one week or less, then the usual maintenance dose (weekly regimen: 2 mg/kg; three-weekly regimen: 6 mg/kg) should be administered as soon as possible. Do not wait until the next planned cycle. Subsequent maintenance doses  should be administered 7 days or 21 days later according to the weekly or three-weekly schedules, respectively.
 
 If the patient has missed a dose of Ontruzant by more than one week, a re-loading dose of Ontruzant should be administered over approximately 90 minutes (weekly regimen: 4 mg/kg; three-weekly regimen: 8 mg/kg) as soon as possible. Subsequent Ontruzant maintenance doses (weekly regimen: 2 mg/kg; three-weekly regimen 6 mg/kg respectively) should be administered 7 days or 21 days later according to the weekly or three-weekly schedules respectively.
 
@@ -171,8 +171,7 @@ For instructions on reconstitution of Ontruzant intravenous formulation before a
 ## 4.3 Contraindications
 
 - Hypersensitivity to trastuzumab, murine proteins, or to any of the excipients listed in section 6.1
-- Severe dyspnoea at rest due to complications of advanced malignancy or requiring
-- supplementary oxygen therapy.
+- Severe dyspnoea at rest due to complications of advanced malignancy or requiring supplementary oxygen therapy.
 
 ## 4.4 Special warnings and precautions for use
 
@@ -182,9 +181,9 @@ In order to improve the traceability of biological medicinal products, the name 
 
 HER2 testing must be performed in a specialised laboratory which can ensure adequate validation of the testing procedures (see section 5.1).
 
-Currently no data from clinical trials are available on re-treatment of patients with previous exposure to trastuzumab in the adjuvant setting .
-
 <div style=\"page-break-after: always\"></div>
+
+Currently no data from clinical trials are available on re-treatment of patients with previous exposure to trastuzumab in the adjuvant setting .
 
 ## Cardiac dysfunction
 
@@ -230,9 +229,9 @@ In patients with EBC eligible for neoadjuvant-adjuvant treatment, trastuzumab sh
 
 If patients have been treated concurrently with a full course of low-dose anthracyclines and trastuzumab in the neoadjuvant setting, no additional cytotoxic chemotherapy should be given after surgery. In other situations, the decision on the need for additional cytotoxic chemotherapy is determined based on individual factors.
 
-Experience of concurrent administration of trastuzumab with low-dose anthracycline regimens is currently limited to the trial MO16432.
-
 <div style=\"page-break-after: always\"></div>
+
+Experience of concurrent administration of trastuzumab with low-dose anthracycline regimens is currently limited to the trial MO16432.
 
 In the pivotal trial MO16432, trastuzumab was administered concurrently with neoadjuvant chemotherapy containing three cycles of doxorubicin (cumulative dose 180 mg/m 2 ).
 
@@ -250,15 +249,21 @@ Initial improvement followed by clinical deterioration and delayed reactions wit
 
 Severe pulmonary events have been reported with the use of trastuzumab in the post-marketing setting (see section 4.8). These events have occasionally been fatal. In addition, cases of interstitial lung disease including lung infiltrates, acute respiratory distress syndrome, pneumonia, pneumonitis, pleural effusion, respiratory distress, acute pulmonary oedema and respiratory insufficiency have been reported. Risk factors associated with interstitial lung disease include prior or concomitant therapy with other anti-neoplastic therapies known to be associated with it such as taxanes, gemcitabine, vinorelbine and radiation therapy. These events may occur as part of an infusion-related reaction or with a delayed onset. Patients experiencing dyspnoea at rest due to complications of advanced malignancy and comorbidities may be at increased risk of pulmonary events. Therefore, these patients should not be treated with trastuzumab (see section 4.3).  Caution should be exercised for pneumonitis, especially in patients being treated concomitantly with taxanes.
 
+## Excipient with known effect
+
 ## Sodium
 
 This medicinal product contains less than 1 mmol sodium (23 mg) per dose, that is to say essentially 'sodium-free'.
 
+<div style=\"page-break-after: always\"></div>
+
+## Polysorbate 20
+
+Ontruzant contains 0.6 mg of polysorbate 20 in each 150 mg vial, which is equivalent to 0.083 mg/mL (after reconstitution with 7.2 mL sterile water for injection). Ontruzant contains 1.7 mg of polysorbate 20 in each 420 mg vial, which is equivalent to 0.085 mg/mL (after reconstitution with 20 mL sterile water for injection). Polysorbates may cause allergic reactions.
+
 ## 4.5 Interaction with other medicinal products and other forms of interaction
 
 No formal drug interaction studies have been performed. Clinically significant interactions between trastuzumab and the concomitant medicinal products used in clinical trials have not been observed.
-
-<div style=\"page-break-after: always\"></div>
 
 ## Effect of trastuzumab on the pharmacokinetics of other antineoplastic agents
 
@@ -276,11 +281,11 @@ By comparison of simulated serum trastuzumab concentrations after trastuzumab mo
 
 Comparison of PK results from two Phase II studies (BO15935 and M77004) and one Phase III study (H0648g) in which patients were treated concomitantly with trastuzumab and paclitaxel and two Phase II studies in which trastuzumab was administered as monotherapy (W016229 and MO16982), in women with HER2-positive MBC indicates that individual and mean trastuzumab trough serum concentrations varied within and across studies but there was no clear effect of the concomitant administration of paclitaxel on the pharmacokinetics of trastuzumab. Comparison of trastuzumab PK data from Study M77004 in which women with HER2-positive MBC were treated concomitantly with trastuzumab, paclitaxel and doxorubicin to trastuzumab PK data in studies where trastuzumab was administered as monotherapy (H0649g) or in combination with anthracycline plus cyclophosphamide or paclitaxel (H0648g), suggested no effect of doxorubicin and paclitaxel on the pharmacokinetics of trastuzumab.
 
+<div style=\"page-break-after: always\"></div>
+
 Pharmacokinetic data from Study H4613g/GO01305 suggested that carboplatin had no impact on the PK of trastuzumab.
 
 The administration of concomitant anastrozole did not appear to influence the pharmacokinetics of trastuzumab.
-
-<div style=\"page-break-after: always\"></div>
 
 ## 4.6 Fertility, pregnancy and lactation
 
@@ -306,13 +311,13 @@ There is no fertility data available.
 
 Ontruzant has a minor influence on the ability to drive or use machines (see section 4.8). Dizziness and somnolence may occur during treatment with Ontruzant (see section 4.8). Patients experiencing infusion-related symptoms (see section 4.4) should be advised not to drive and use machines until symptoms abate.
 
+<div style=\"page-break-after: always\"></div>
+
 ## 4.8 Undesirable effects
 
 ## Summary of the safety profile
 
 Amongst the most serious and/or common adverse reactions reported in Ontruzant usage to date are cardiac dysfunction, infusion-related reactions, haematotoxicity (in particular neutropenia), infections and pulmonary adverse reactions.
-
-<div style=\"page-break-after: always\"></div>
 
 ## Tabulated list of adverse reactions
 
@@ -324,19 +329,19 @@ All the terms included are based on the highest percentage seen in pivotal clini
 
 Table 1 Undesirable effects reported with intravenous trastuzumab monotherapy or in combination with chemotherapy in pivotal clinical trials (N=8386) and in post-marketing
 
-|                                                                      | Adverse reaction                            | Frequency   |
+| System organ class                                                   | Adverse reaction                            | Frequency   |
 |----------------------------------------------------------------------|---------------------------------------------|-------------|
-| System organ class Infections and infestations                       | Infection                                   | Very common |
-| System organ class Infections and infestations                       | Nasopharyngitis                             | Very common |
-| System organ class Infections and infestations                       | Neutropenic sepsis                          | Common      |
-| System organ class Infections and infestations                       | Cystitis                                    | Common      |
-| System organ class Infections and infestations                       | Influenza                                   | Common      |
-| System organ class Infections and infestations                       | Sinusitis                                   | Common      |
-| System organ class Infections and infestations                       | Skin infection                              | Common      |
-| System organ class Infections and infestations                       | Rhinitis                                    | Common      |
-| System organ class Infections and infestations                       | Upper respiratory tract infection           | Common      |
-| System organ class Infections and infestations                       | Urinary tract infection                     | Common      |
-| System organ class Infections and infestations                       | Pharyngitis                                 | Common      |
+| Infections and infestations                                          | Infection                                   | Very common |
+| Infections and infestations                                          | Nasopharyngitis                             | Very common |
+| Infections and infestations                                          | Neutropenic sepsis                          | Common      |
+| Infections and infestations                                          | Cystitis                                    | Common      |
+| Infections and infestations                                          | Influenza                                   | Common      |
+| Infections and infestations                                          | Sinusitis                                   | Common      |
+| Infections and infestations                                          | Skin infection                              | Common      |
+| Infections and infestations                                          | Rhinitis                                    | Common      |
+| Infections and infestations                                          | Upper respiratory tract infection           | Common      |
+| Infections and infestations                                          | Urinary tract infection                     | Common      |
+| Infections and infestations                                          | Pharyngitis                                 | Common      |
 | Neoplasms benign, malignant and unspecified (incl. Cysts and polyps) | Malignant neoplasm progression              | Not known   |
 | Neoplasms benign, malignant and unspecified (incl. Cysts and polyps) | Neoplasm progression                        | Not known   |
 | Blood and lymphatic system disorders                                 | Febrile neutropenia                         | Very common |
@@ -354,136 +359,133 @@ Table 1 Undesirable effects reported with intravenous trastuzumab monotherapy or
 | Metabolism and nutrition disorders                                   | Tumour lysis syndrome                       | Not known   |
 | Metabolism and nutrition disorders                                   | Hyperkalaemia                               | Not known   |
 | Psychiatric disorders                                                | Insomnia                                    | Very common |
-| Psychiatric disorders                                                | Anxiety                                     | Common      |
-| Psychiatric disorders                                                | Depression                                  | Common      |
-| Nervous system disorders                                             | 1 Tremor                                    | Very common |
-| Nervous system disorders                                             | Dizziness                                   | Very common |
-| Nervous system disorders                                             | Headache                                    | Very common |
-| Nervous system disorders                                             | Paraesthesia                                | Very common |
-| Nervous system disorders                                             | Dysgeusia                                   | Very common |
-| Nervous system disorders                                             | Peripheral neuropathy                       | Common      |
 
 <div style=\"page-break-after: always\"></div>
 
-| System organ class                              | Adverse reaction                      | Frequency               |
-|-------------------------------------------------|---------------------------------------|-------------------------|
-|                                                 | Hypertonia                            | Common                  |
-|                                                 | Somnolence                            | Common                  |
-| Eye disorders                                   | Conjunctivitis                        | Very common             |
-|                                                 | Lacrimation increased                 | Very common             |
-|                                                 | Dry eye                               | Common                  |
-|                                                 | Papilloedema                          | Not known               |
-|                                                 | Retinal haemorrhage                   | Not known               |
-| Ear and labyrinth disorders                     | Deafness                              | Uncommon                |
-| Cardiac disorders                               | 1 Blood pressure decreased            | Very common             |
-|                                                 | 1 Blood pressure increased            | Very common             |
-|                                                 | 1 Heart beat irregular                | Very common             |
-|                                                 | 1 Cardiac flutter                     | Very common             |
-|                                                 | Ejection fraction decreased*          | Very common             |
-|                                                 | + Cardiac failure (congestive)        | Common                  |
-|                                                 | +1 Supraventricular tachyarrhythmia   | Common                  |
-|                                                 | Cardiomyopathy                        | Common                  |
-|                                                 | 1 Palpitation                         | Common                  |
-|                                                 | Pericardial effusion                  | Uncommon                |
-|                                                 | Cardiogenic shock                     | Not known               |
-|                                                 | Gallop rhythm present                 | Not known               |
-| Vascular disorders                              | Hot flush                             | Very common             |
-|                                                 | +1 Hypotension                        | Common                  |
-|                                                 | Vasodilatation                        | Common                  |
-| Respiratory, thoracic and mediastinal disorders | + Dyspnoea                            | Very common             |
-|                                                 | Cough                                 | Very common             |
-|                                                 | Epistaxis                             | Very common             |
-|                                                 | Rhinorrhoea                           | Very common             |
-|                                                 | + Pneumonia                           | Common                  |
-|                                                 | Asthma                                | Common                  |
-|                                                 | Lung disorder                         | Common                  |
-|                                                 | + Pleural effusion                    | Common                  |
-|                                                 | +1 Wheezing                           | Uncommon                |
-|                                                 | Pneumonitis                           | Uncommon                |
-|                                                 | + Pulmonary fibrosis                  | Not known               |
-|                                                 | + Respiratory distress                | Not known               |
-|                                                 | + Respiratory failure                 | Not known               |
-|                                                 | + Lung infiltration                   | Not known               |
-|                                                 | + Acute pulmonary oedema              | Not known               |
-|                                                 | + Acute respiratory distress syndrome | Not known               |
-|                                                 | + Bronchospasm                        | Not known               |
-|                                                 | + Hypoxia                             | Not known               |
-|                                                 | + Oxygen saturation decreased         | Not known               |
-|                                                 | Laryngeal oedema                      | Not known               |
-|                                                 | Orthopnoea                            | Not known               |
-| Gastrointestinal disorders                      | Diarrhoea                             | Very common             |
-|                                                 | Vomiting                              | Very common             |
-|                                                 | Nausea                                | Very common             |
-|                                                 |                                       | Very common             |
-|                                                 | 1 Lip swelling                        |                         |
-|                                                 | Dyspepsia Constipation                | Very common Very common |
-|                                                 | Stomatitis                            | Very common             |
+| System organ class                              | Adverse reaction                      | Frequency   |
+|-------------------------------------------------|---------------------------------------|-------------|
+|                                                 | Anxiety                               | Common      |
+|                                                 | Depression                            | Common      |
+| Nervous system disorders                        | 1 Tremor                              | Very common |
+|                                                 | Dizziness                             | Very common |
+|                                                 | Headache                              | Very common |
+|                                                 | Paraesthesia                          | Very common |
+|                                                 | Dysgeusia                             | Very common |
+|                                                 | Peripheral neuropathy                 | Common      |
+|                                                 | Hypertonia                            | Common      |
+|                                                 | Somnolence                            | Common      |
+| Eye disorders                                   | Conjunctivitis                        | Very common |
+|                                                 | Lacrimation increased                 | Very common |
+|                                                 | Dry eye                               | Common      |
+|                                                 | Papilloedema                          | Not known   |
+|                                                 | Retinal haemorrhage                   | Not known   |
+| Ear and labyrinth disorders                     | Deafness                              | Uncommon    |
+| Cardiac disorders                               | 1 Blood pressure decreased            | Very common |
+|                                                 | 1 Blood pressure increased            | Very common |
+|                                                 | 1 Heart beat irregular                | Very common |
+|                                                 | 1 Cardiac flutter                     | Very common |
+|                                                 | Ejection fraction decreased*          | Very common |
+|                                                 | + Cardiac failure (congestive)        | Common      |
+|                                                 | +1 Supraventricular tachyarrhythmia   | Common      |
+|                                                 | Cardiomyopathy                        | Common      |
+|                                                 | 1 Palpitation                         | Common      |
+|                                                 | Pericardial effusion                  | Uncommon    |
+|                                                 | Cardiogenic shock                     | Not known   |
+|                                                 | Gallop rhythm present                 | Not known   |
+| Vascular disorders                              | Hot flush                             | Very common |
+|                                                 | +1 Hypotension                        | Common      |
+|                                                 | Vasodilatation                        | Common      |
+| Respiratory, thoracic and mediastinal disorders | + Dyspnoea                            | Very common |
+|                                                 | Cough                                 | Very common |
+|                                                 | Epistaxis                             | Very common |
+|                                                 | Rhinorrhoea                           | Very common |
+|                                                 | + Pneumonia                           | Common      |
+|                                                 | Asthma                                | Common      |
+|                                                 | Lung disorder                         | Common      |
+|                                                 | + Pleural effusion                    | Common      |
+|                                                 | +1 Wheezing                           | Uncommon    |
+|                                                 | Pneumonitis                           | Uncommon    |
+|                                                 | + Pulmonary fibrosis                  | Not known   |
+|                                                 | + Respiratory distress                | Not known   |
+|                                                 | + Respiratory failure                 | Not known   |
+|                                                 | + Lung infiltration                   | Not known   |
+|                                                 | + Acute pulmonary oedema              | Not known   |
+|                                                 | + Acute respiratory distress syndrome | Not known   |
+|                                                 | + Bronchospasm                        | Not known   |
+|                                                 | + Hypoxia                             | Not known   |
+|                                                 | + Oxygen saturation decreased         | Not known   |
+|                                                 | Laryngeal oedema                      | Not known   |
+|                                                 | Orthopnoea                            | Not known   |
+|                                                 | Pulmonary oedema                      | Not known   |
+|                                                 | Interstitial lung disease             | Not known   |
 
 <div style=\"page-break-after: always\"></div>
 
-| System organ class                                   | Adverse reaction                            | Frequency               |
-|------------------------------------------------------|---------------------------------------------|-------------------------|
-|                                                      | Haemorrhoids                                | Common                  |
-|                                                      | Dry mouth                                   | Common                  |
-| Hepatobiliary disorders                              | Hepatocellular injury                       | Common                  |
-|                                                      | Hepatitis                                   | Common                  |
-|                                                      | Liver tenderness                            | Common                  |
-|                                                      | Jaundice                                    | Rare                    |
-| Skin and subcutaneous tissue disorders               | Erythema                                    | Very common             |
-|                                                      | Rash                                        | Very common             |
-|                                                      | 1 Swelling face                             | Very common             |
-|                                                      | Alopecia                                    | Very common             |
-|                                                      | Nail disorder                               | Very common             |
-|                                                      | Palmar-plantar erythrodysaesthesia syndrome | Very common             |
-|                                                      | Acne                                        | Common                  |
-|                                                      | Dry skin                                    | Common                  |
-|                                                      | Ecchymosis                                  | Common                  |
-|                                                      | Hyperhydrosis                               | Common                  |
-|                                                      | Maculopapular rash                          | Common                  |
-|                                                      | Pruritus                                    | Common                  |
-|                                                      | Onychoclasis                                | Common                  |
-|                                                      | Dermatitis                                  | Common                  |
-|                                                      | Urticaria                                   | Uncommon                |
-| Musculoskeletal and connective tissue disorders      | Arthralgia                                  | Very common             |
-|                                                      | 1 Muscle tightness                          | Very common             |
-|                                                      | Myalgia                                     | Very common             |
-|                                                      | Arthritis                                   | Common                  |
-|                                                      | Back pain                                   | Common                  |
-|                                                      | Bone pain                                   | Common                  |
-|                                                      | Muscle spasms                               | Common                  |
-|                                                      | Neck Pain                                   | Common                  |
-|                                                      | Pain in extremity                           | Common                  |
-| Renal and urinary disorders                          | Renal disorder                              | Common                  |
-|                                                      | Glomerulonephritis membranous               | Not known               |
-|                                                      | Glomerulonephropathy                        | Not known               |
-|                                                      | Renal failure                               | Not known               |
-| Pregnancy, puerperium and perinatal conditions       | Oligohydramnios                             | Not known               |
-|                                                      | Renal hypoplasia                            | Not known               |
-|                                                      | Pulmonary hypoplasia                        | Not known               |
-| Reproductive system and breast disorders             | Breast inflammation/mastitis                | Common                  |
-| General disorders and administration site conditions | Asthenia                                    | Very common             |
-|                                                      | Chest pain                                  | Very common             |
-|                                                      | Chills                                      | Very common             |
-|                                                      | Fatigue                                     | Very common             |
-|                                                      | Influenza-like symptoms                     | Very common             |
-|                                                      | Infusion related reaction                   | Very common             |
-|                                                      | Pain                                        | Very common             |
-|                                                      | Pyrexia                                     | Very common Very common |
-|                                                      | Mucosal inflammation                        |                         |
-|                                                      | Peripheral oedema                           | Very common             |
-|                                                      | Malaise                                     | Common Common           |
-|                                                      | Oedema                                      |                         |
+| System organ                                         | Adverse reaction                            | Frequency             |
+|------------------------------------------------------|---------------------------------------------|-----------------------|
+| class Gastrointestinal disorders                     | Diarrhoea                                   | Very common           |
+| class Gastrointestinal disorders                     | Vomiting                                    | Very common           |
+| class Gastrointestinal disorders                     | Nausea                                      | Very common           |
+| class Gastrointestinal disorders                     | 1 Lip swelling                              | Very common           |
+| class Gastrointestinal disorders                     | Abdominal pain                              | Very common           |
+| class Gastrointestinal disorders                     | Dyspepsia                                   | Very common           |
+| class Gastrointestinal disorders                     | Constipation                                | Very common           |
+| class Gastrointestinal disorders                     | Stomatitis                                  | Very common           |
+| class Gastrointestinal disorders                     | Haemorrhoids                                | Common                |
+| class Gastrointestinal disorders                     | Dry mouth                                   | Common                |
+| Hepatobiliary disorders                              | Hepatocellular injury                       | Common                |
+| Hepatobiliary disorders                              | Hepatitis                                   | Common                |
+| Hepatobiliary disorders                              | Liver tenderness                            | Common                |
+| Hepatobiliary disorders                              | Jaundice                                    | Rare                  |
+| Skin and subcutaneous tissue disorders               | Erythema                                    | Very common           |
+| Skin and subcutaneous tissue disorders               | Rash                                        | Very common           |
+| Skin and subcutaneous tissue disorders               | 1 Swelling face                             | Very common           |
+| Skin and subcutaneous tissue disorders               | Alopecia                                    | Very common           |
+| Skin and subcutaneous tissue disorders               | Nail disorder                               | Very common           |
+| Skin and subcutaneous tissue disorders               | Palmar-plantar erythrodysaesthesia syndrome | Very common           |
+| Skin and subcutaneous tissue disorders               | Acne                                        | Common                |
+| Skin and subcutaneous tissue disorders               | Dry skin                                    | Common                |
+| Skin and subcutaneous tissue disorders               | Ecchymosis                                  | Common                |
+| Skin and subcutaneous tissue disorders               | Hyperhydrosis                               | Common                |
+| Skin and subcutaneous tissue disorders               | Maculopapular rash                          | Common                |
+| Skin and subcutaneous tissue disorders               | Pruritus                                    | Common                |
+| Skin and subcutaneous tissue disorders               | Onychoclasis                                | Common                |
+| Skin and subcutaneous tissue disorders               | Dermatitis                                  | Common                |
+| Skin and subcutaneous tissue disorders               | Urticaria                                   | Uncommon              |
+| Musculoskeletal and connective tissue disorders      | Angioedema Arthralgia                       | Not known Very common |
+| Musculoskeletal and connective tissue disorders      | 1 Muscle tightness                          | Very common           |
+| Musculoskeletal and connective tissue disorders      | Myalgia                                     | Very common           |
+| Musculoskeletal and connective tissue disorders      | Arthritis                                   | Common                |
+| Musculoskeletal and connective tissue disorders      | Back pain                                   | Common                |
+| Musculoskeletal and connective tissue disorders      | Bone pain                                   | Common                |
+| Musculoskeletal and connective tissue disorders      | Muscle spasms                               | Common                |
+| Musculoskeletal and connective tissue disorders      | Neck Pain                                   | Common                |
+| Renal and urinary disorders                          | Renal disorder                              | Common                |
+| Renal and urinary disorders                          | Glomerulonephritis membranous               | Not known             |
+| Renal and urinary disorders                          | Glomerulonephropathy                        | Not known             |
+| Renal and urinary disorders                          | Renal failure                               | Not known             |
+| Pregnancy, puerperium and perinatal conditions       | Oligohydramnios                             | Not known             |
+| Pregnancy, puerperium and perinatal conditions       | Renal hypoplasia                            | Not known             |
+| Pregnancy, puerperium and perinatal conditions       | Pulmonary hypoplasia                        | Not known             |
+| Reproductive system and breast disorders             | Breast inflammation/mastitis                | Common                |
+| General disorders and administration site conditions | Asthenia                                    | Very common           |
+| General disorders and administration site conditions | Chest pain                                  | Very common           |
+| General disorders and administration site conditions | Chills                                      | Very common           |
+| General disorders and administration site conditions | Fatigue                                     | Very common           |
+| General disorders and administration site conditions | Influenza-like symptoms                     | Very common           |
 
 <div style=\"page-break-after: always\"></div>
 
-| System organ class                             | Adverse reaction   | Frequency   |
-|------------------------------------------------|--------------------|-------------|
-| Injury, poisoning and procedural complications | Contusion          | Common      |
-
-+ Denotes adverse reactions that have been reported in association with a fatal outcome.
-- 1 Denotes adverse reactions that are reported largely in association with Infusion-related reactions. Specific percentages for these are not available.
-
-*  Observed with combination therapy following anthracyclines and combined with taxanes
+| System organ class                             | Adverse reaction          | Frequency   |
+|------------------------------------------------|---------------------------|-------------|
+|                                                | Infusion related reaction | Very common |
+|                                                | Pain                      | Very common |
+|                                                | Pyrexia                   | Very common |
+|                                                | Mucosal inflammation      | Very common |
+|                                                | Peripheral oedema         | Very common |
+|                                                | Malaise                   | Common      |
+|                                                | Oedema                    | Common      |
+| Injury, poisoning and procedural complications | Contusion                 | Common      |
 
 ## Description of selected adverse reactions
 
@@ -501,9 +503,11 @@ In the pivotal metastatic trials of intravenous trastuzumab, the incidence of ca
 
 ## Infusion reactions, allergic-like reactions and hypersensitivity
 
-It is estimated that approximately 40% of patients who are treated with trastuzumab will experience some form of infusion-related reaction. However, the majority of infusion-related reactions are mild to moderate in intensity (NCI-CTC grading system) and tend to occur earlier in treatment, i.e. during infusions one, two and three and lessen in frequency in subsequent infusions. Reactions include chills, fever, dyspnoea, hypotension, wheezing, bronchospasm, tachycardia, reduced oxygen saturation, respiratory distress, rash, nausea, vomiting and headache (see section 4.4). The rate of infusion-related reactions of all grades varied between studies depending on the indication, the data collection methodology, and whether trastuzumab was given concurrently with chemotherapy or as monotherapy.
+It is estimated that approximately 40% of patients who are treated with trastuzumab will experience some form of infusion-related reaction. However, the majority of infusion-related reactions are mild
 
 <div style=\"page-break-after: always\"></div>
+
+to moderate in intensity (NCI-CTC grading system) and tend to occur earlier in treatment, i.e. during infusions one, two and three and lessen in frequency in subsequent infusions. Reactions include chills, fever, dyspnoea, hypotension, wheezing, bronchospasm, tachycardia, reduced oxygen saturation, respiratory distress, rash, nausea, vomiting and headache (see section 4.4). The rate of infusion-related reactions of all grades varied between studies depending on the indication, the data collection methodology, and whether trastuzumab was given concurrently with chemotherapy or as monotherapy.
 
 Severe anaphylactic reactions requiring immediate additional intervention can occur usually during either the first or second infusion of trastuzumab (see section 4.4) and have been associated with a fatal outcome.
 
@@ -535,15 +539,15 @@ Reporting suspected adverse reactions after authorisation of the medicinal produ
 
 There is no experience with overdose in human clinical trials. Single doses of trastuzumab alone greater than 10 mg/kg have not been administered in the clinical trials; a maintenance dose of 10 mg/kg q3w following a loading dose of 8 mg/kg has been studied in a clinical trial with metastatic gastric cancer patients. Doses up to this level were well tolerated.
 
+<div style=\"page-break-after: always\"></div>
+
 ## 5. PHARMACOLOGICAL PROPERTIES
 
 ## 5.1 Pharmacodynamic properties
 
 Pharmacotherapeutic group: Antineoplastic agents, monoclonal antibodies and antibody drug conjugates, ATC code: L01FD01
 
-<div style=\"page-break-after: always\"></div>
-
-Ontruzant is a biosimilar medicinal product. Detailed information is available on the website of the European Medicines Agency http://www.ema.europa.eu.
+Ontruzant is a biosimilar medicinal product. Detailed information is available on the website of the European Medicines Agency https://www.ema.europa.eu.
 
 Trastuzumab is a recombinant humanised IgG1 monoclonal antibody against the human epidermal growth factor receptor 2 (HER2). Overexpression of HER2 is observed in 20%-30% of primary breast cancers. Studies of HER2-positivity rates in gastric cancer (GC) using immunohistochemistry (IHC) and fluorescence in situ hybridization (FISH) or chromogenic in situ hybridization (CISH) have shown that there is a broad variation of HER2-positivity ranging from 6.8% to 34.0% for IHC and 7.1% to 42.6% for FISH. Studies indicate that breast cancer patients whose tumours overexpress HER2 have a shortened disease-free survival compared to patients whose tumours do not overexpress HER2. The extracellular domain of the receptor (ECD, p105) can be shed into the blood stream and measured in serum samples.
 
@@ -563,14 +567,17 @@ The recommended scoring system to evaluate the IHC staining patterns is as state
 
 Table 2 Recommended scoring system to evaluate the IHC staining patterns in breast cancer
 
+|   Score | Staining pattern                                                                     | HER2 overexpression assessment   |
+|---------|--------------------------------------------------------------------------------------|----------------------------------|
+|       0 | No staining is observed or membrane staining is observed in <10% of the tumour cells | Negative                         |
+
+<div style=\"page-break-after: always\"></div>
+
 | Score   | Staining pattern                                                                                                                            | HER2 overexpression assessment   |
 |---------|---------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------|
-| 0       | No staining is observed or membrane staining is observed in <10% of the tumour cells                                                        | Negative                         |
 | 1+      | A faint/barely perceptible membrane staining is detected in >10% of the tumour cells. The cells are only stained in part of their membrane. | Negative                         |
 | 2+      | A weak to moderate complete membrane staining is detected in >10% of the tumour cells.                                                      | Equivocal                        |
 | 3+      | Strong complete membrane staining is detected in >10% of the tumour cells.                                                                  | Positive                         |
-
-<div style=\"page-break-after: always\"></div>
 
 In general, FISH is considered positive if the ratio of the HER2 gene copy number per tumour cell to the chromosome 17 copy number is greater than or equal to 2, or if there are more than 4 copies of the HER2 gene per tumour cell if no chromosome 17 control is used.
 
@@ -734,8 +741,6 @@ In the NSABP B-31 and NCCTG N9831 studies trastuzumab was administered in combin
 
 Doxorubicin and cyclophosphamide were administered concurrently as follows:
 
-- -intravenous push doxorubicin, at 60 mg/m 2 , given every 3 weeks for 4 cycles.
-
 <div style=\"page-break-after: always\"></div>
 
 or
@@ -746,11 +751,13 @@ The efficacy results from the joint analysis of the NSABP B-31 and NCCTG 9831 tr
 
 Table 7 Summary of efficacy results from the joint analysis of the NSABP B-31 and NCCTG N9831 trials at the time of the definitive DFS analysis*
 
-| Parameter                                         | AC →P (n=1679)   | AC → PH (n=1672)   | Hazard ratio vs AC → P (95% CI) p-value   |
-|---------------------------------------------------|------------------|--------------------|-------------------------------------------|
-| Disease-free survival No. patients with event (%) | 261 (15.5)       | 133 (8.0)          | 0.48 (0.39, 0.59) p<0.0001                |
-| Distant recurrence No. patients with event        | 193 (11.5)       | 96 (5.7)           | 0.47 (0.37, 0.60) p<0.0001                |
-| Death (OS event): No. patients with event         | 92 (5.5)         | 62 (3.7)           | 0.67 (0.48, 0.92) p=0.014**               |
+| Parameter                                         | AC →P (n=1679)   | AC → PH (n=1672)   | Hazard ratio vs AC →P(95% CI) p-value   |
+|---------------------------------------------------|------------------|--------------------|-----------------------------------------|
+| Disease-free survival No. patients with event (%) | 261 (15.5)       | 133 (8.0)          | 0.48 (0.39, 0.59)p<0.0001               |
+| Distant recurrence No. patients with event        | 193 (11.5)       | 96 (5.7)           | 0.47 (0.37, 0.60) p<0.0001              |
+| Death (OS event): No. patients with event         | 92 (5.5)         | 62 (3.7)           | 0.67 (0.48, 0.92) p=0.014**             |
+
+** p value for OS did not cross the pre-specified statistical boundary for comparison of AC →PH vs. AC →P
 
 For the primary endpoint, DFS, the addition of trastuzumab to paclitaxel chemotherapy resulted in a 52% decrease in the risk of disease recurrence. The hazard ratio translates into an absolute benefit, in terms of 3-year disease-free survival rate estimates of 11.8 percentage points (87.2% versus 75.4%) in favour of the AC →PH (trastuzumab) arm.
 
@@ -760,6 +767,7 @@ The pre-planned final analysis of OS from the joint analysis of studies NSABP B-
 
 The final OS results from the joint analysis of studies NSABP B-31 and NCCTG N9831 are summarized in Table 8 below:
 
+- -intravenous push doxorubicin, at 60 mg/m 2 , given every 3 weeks for 4 cycles.
 - -intravenous cyclophosphamide, at 600 mg/m 2 over 30 minutes, given every 3 weeks for 4 cycles.
 
 Paclitaxel, in combination with trastuzumab, was administered as follows:
@@ -770,9 +778,9 @@ Paclitaxel, in combination with trastuzumab, was administered as follows:
 
 Table 8 Final overall survival analysis from the joint analysis of trials NSABP B-31 and NCCTG N9831
 
-| Parameter                                     | AC →P (N=2032)   | AC → PH (N=2031)   | p-value versus AC →P   | Hazard ratio versus AC →P (95% CI)   |
-|-----------------------------------------------|------------------|--------------------|------------------------|--------------------------------------|
-| Death (OS event): No. patients with event (%) | 418 (20.6%)      | 289 (14.2%)        | <0.0001                | 0.64 (0.55, 0.74)                    |
+| Parameter                                     | AC →P (N=2032)   | AC → PH (N=2031)   | p-value versus AC →P   | Hazard ratio versus AC →P(95% CI)   |
+|-----------------------------------------------|------------------|--------------------|------------------------|-------------------------------------|
+| Death (OS event): No. patients with event (%) | 418 (20.6%)      | 289 (14.2%)        | <0.0001                | 0.64 (0.55, 0.74)                   |
 
 A: doxorubicin; C: cyclophosphamide; P: paclitaxel; H: trastuzumab
 
@@ -815,7 +823,7 @@ AC →D = doxorubicin plus cyclophosphamide, followed by docetaxel; DCarbH = doc
 
 In the BCIRG 006 study for the primary endpoint, DFS, the hazard ratio translates into an absolute benefit, in terms of 3-year disease-free survival rate estimates of 5.8 percentage points (86.7%  versus 80.9%) in favour of the A C→DH ( trastuzumab) arm and 4.6 percentage points (85.5% versus 80.9% ) in favour of the DCarbH (trastuzumab) arm compared to A C→D.
 
-In study BCIRG 006, 213/1075 patients in the DCarbH (TCH) arm, 221/1074 patients in the AC → DH (AC → TH) arm, and 217/1073 in th e AC→D (AC → T) arm had a Karnofsky performance status ≤ 90 (either 80 or 90). No disease-free survival (DFS) benefit was noticed in this subgroup of patients (hazard ratio=1.16, 95% CI [0.73, 1.83] for DCarbH (TCH) versus AC → D (AC → T); hazard ratio 0.97, 95% CI [0.60, 1.55] for AC → DH (AC → TH) versus AC → D).
+In study BCIRG 006, 213/1075 patients in the DCarbH (TCH) arm, 221/1074 patients in the AC → DH (AC → TH) arm, and 217/1073 in the AC→D (AC → T) arm had a Karnofsky performance status ≤ 90 (either 80 or 90). No disease-free survival (DFS) benefit was noticed in this subgroup of patients (hazard ratio=1.16, 95% CI [0.73, 1.83] for DCarbH (TCH) versus AC → D (AC → T); hazard ratio 0.97, 95% CI [0.60, 1.55] for AC → DH (AC → TH) versus AC → D).
 
 In addition, a post-hoc exploratory analysis was performed on the data sets from the joint analysis (JA) NSABP B-31/NCCTG N9831* and BCIRG006 clinical studies combining DFS events and symptomatic cardiac events and summarised in Table 11:
 
@@ -949,13 +957,13 @@ Table 15 Population predicted steady state PK exposure values (median with 5th -
 
 Table 16 Population predicted PK parameter values at steady state for trastuzumab intravenous infusion dosing regimens in MBC, EBC and AGC patients
 
-| Regimen             | Primary tumour type   |   N | Total CL range fromC max,ss to C min,ss (L/day)   | t 1/2 range from C max,ss to C min,ss (day)   |
-|---------------------|-----------------------|-----|---------------------------------------------------|-----------------------------------------------|
-| 8mg/kg + 6mg/kg q3w | MBC                   | 805 | 0.183-0.302                                       | 15.1-23.3                                     |
-| 8mg/kg + 6mg/kg q3w | EBC                   | 390 | 0.158-0.253                                       | 17.5-26.6                                     |
-| 8mg/kg + 6mg/kg q3w | AGC                   | 274 | 0.189-0.337                                       | 12.6-20.6                                     |
-| 4mg/kg + 2mg/kg qw  | MBC                   | 805 | 0.213-0.259                                       | 17.2-20.4                                     |
-| 4mg/kg + 2mg/kg qw  | EBC                   | 390 | 0.184-0.221                                       | 19.7-23.2                                     |
+| Regimen             | Primary tumour type   |   N | Total CL range from C max,ss to C min,ss (L/day)   | t 1/2 range from C max,ss to C min,ss (day)   |
+|---------------------|-----------------------|-----|----------------------------------------------------|-----------------------------------------------|
+| 8mg/kg + 6mg/kg q3w | MBC                   | 805 | 0.183-0.302                                        | 15.1-23.3                                     |
+| 8mg/kg + 6mg/kg q3w | EBC                   | 390 | 0.158-0.253                                        | 17.5-26.6                                     |
+| 8mg/kg + 6mg/kg q3w | AGC                   | 274 | 0.189-0.337                                        | 12.6-20.6                                     |
+| 4mg/kg + 2mg/kg qw  | MBC                   | 805 | 0.213-0.259                                        | 17.2-20.4                                     |
+| 4mg/kg + 2mg/kg qw  | EBC                   | 390 | 0.184-0.221                                        | 19.7-23.2                                     |
 
 ## Trastuzumab washout
 
@@ -977,9 +985,11 @@ No long-term animal studies have been performed to establish the carcinogenic po
 
 ## 6.1 List of excipients
 
-L-histidine hydrochloride monohydrate L-histidine α , α -trehalose dihydrate polysorbate 20
+Histidine hydrochloride monohydrate Histidine α , α -trehalose dihydrate
 
 <div style=\"page-break-after: always\"></div>
+
+polysorbate 20 (E432)
 
 ## 6.2 Incompatibilities
 
@@ -989,7 +999,7 @@ Do not dilute with glucose solutions since these cause aggregation of the protei
 
 ## 6.3 Shelf life
 
-## Unopened vials
+Unopened vials
 
 4 years.
 
@@ -1017,7 +1027,7 @@ One 15 mL clear glass type I vial with butyl rubber stopper laminated with a flu
 
 Each carton contains one vial.
 
-Ontruzant 420 mg powder for concentrate for solution for infusion
+## Ontruzant 420 mg powder for concentrate for solution for infusion
 
 One 40 mL clear glass type I vial with butyl rubber stopper laminated with a fluoro-resin film containing 420 mg of trastuzumab
 
@@ -1049,9 +1059,7 @@ Each 150 mg vial of Ontruzant is reconstituted with 7.2 mL of sterile water for 
 
 ## Ontruzant 420 mg powder for concentrate for solution for infusion
 
-Each 420 mg vial of Ontruzant is reconstituted with 20 mL of sterile water for injection (not supplied). Use of other reconstitution solvents should be avoided. at a pH of approximately 6.0. A volume overage of 5% ensures that the labelled dose of 420 mg can
-
-This yields a 21 mL solution for single-dose use, containing approximately 21 mg/mL trastuzumab, be withdrawn from each vial.
+Each 420 mg vial of Ontruzant is reconstituted with 20 mL of sterile water for injection (not supplied). Use of other reconstitution solvents should be avoided. This yields a 21 mL solution for single-dose use, containing approximately 21 mg/mL trastuzumab, at a pH of approximately 6.0. A volume overage of 5% ensures that the labelled dose of 420 mg can be withdrawn from each vial.
 
 | Ontruzant vial   |    | Volume of sterile water for injections   |    | Final concentration   |
 |------------------|----|------------------------------------------|----|-----------------------|
@@ -1093,7 +1101,9 @@ Any unused medicinal product or waste material should be disposed of in accordan
 
 ## 7. MARKETING AUTHORISATION HOLDER
 
-Samsung Bioepis NL B.V. Olof Palmestraat 10 2616 LR Delft The Netherlands
+Samsung Bioepis NL B.V.
+
+Olof Palmestraat 10 2616 LR Delft The Netherlands
 
 ## 8. MARKETING AUTHORISATION NUMBER(S)
 
@@ -1109,7 +1119,7 @@ Date of latest renewal: 19 July 2022
 
 ## 10. DATE OF REVISION OF THE TEXT
 
-Detailed information on this medicinal product is available on the website of the European Medicines Agency http://www.ema.europa.eu.
+Detailed information on this medicinal product is available on the website of the European Medicines Agency https://www.ema.europa.eu.
 
 <div style=\"page-break-after: always\"></div>
 
@@ -1132,7 +1142,9 @@ Samsung Biologics Co. Ltd 300, Songdo bio-daero, Yeonsu-gu, Incheon, 21987, Kore
 
 Name and address of the manufacturer(s) responsible for batch release
 
-Samsung Bioepis NL B.V. Olof Palmestraat 10 2616 LR Delft The Netherlands
+Samsung Bioepis NL B.V.
+
+Olof Palmestraat 10 2616 LR Delft The Netherlands
 
 ## B. CONDITIONS OR RESTRICTIONS REGARDING SUPPLY AND USE
 
@@ -1181,15 +1193,13 @@ The vial contains 150 mg trastuzumab. After reconstitution 1 mL concentrate cont
 
 ## 3. LIST OF EXCIPIENTS
 
-Excipients:
+Also contains: histidine hydrochloride monohydrate, histidine, α,α -trehalose dihydrate, polysorbate 20.
 
-L-histidine hydrochloride monohydrate, L-histidine, α,α -trehalose dihydrate, polysorbate 20.
+See leaflet for further information.
 
 ## 4. PHARMACEUTICAL FORM AND CONTENTS
 
-## Powder for concentrate for solution for infusion
-
-1 vial
+Powder for concentrate for solution for infusion 1 vial
 
 ## 5. METHOD AND ROUTE(S) OF ADMINISTRATION
 
@@ -1211,8 +1221,6 @@ EXP
 
 Store in a refrigerator.
 
-<div style=\"page-break-after: always\"></div>
-
 10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
@@ -1230,6 +1238,7 @@ Lot
 ## 14. GENERAL CLASSIFICATION FOR SUPPLY
 
 15. INSTRUCTIONS ON USE
+
 16. INFORMATION IN BRAILLE
 
 Justification for not including Braille accepted.
@@ -1242,13 +1251,13 @@ Justification for not including Braille accepted.
 
 PC SN
 
+<div style=\"page-break-after: always\"></div>
+
 NN
 
 <div style=\"page-break-after: always\"></div>
 
-## MINIMUM PARTICULARS TO APPEAR ON SMALL IMMEDIATE PACKAGING UNITS
-
-VIAL LABEL
+## MINIMUM PARTICULARS TO APPEAR ON SMALL IMMEDIATE PACKAGING UNITS VIAL LABEL
 
 ## 1. NAME OF THE MEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION
 
@@ -1256,12 +1265,11 @@ Ontruzant 150 mg powder for concentrate trastuzumab For intravenous use only
 
 ## 2. METHOD OF ADMINISTRATION
 
-3. EXPIRY DATE
+## 3. EXPIRY DATE
 
 EXP
 
-| 4.   | BATCH NUMBER   |
-|------|----------------|
+## 4. BATCH NUMBER
 
 Lot
 
@@ -1286,13 +1294,13 @@ The vial contains 420 mg trastuzumab. After reconstitution 1 mL concentrate cont
 
 ## 3. LIST OF EXCIPIENTS
 
-Excipients:
+Also contains:
 
-L-histidine hydrochloride monohydrate, L-histidine, α,α -trehalose dihydrate, polysorbate 20.
+histidine hydrochloride monohydrate, histidine, α,α -trehalose dihydrate, polysorbate 20. See leaflet for further information.
 
 ## 4. PHARMACEUTICAL FORM AND CONTENTS
 
-## Powder for concentrate for solution for infusion
+Powder for concentrate for solution for infusion
 
 1 vial
 
@@ -1316,8 +1324,6 @@ EXP
 
 Store in a refrigerator.
 
-<div style=\"page-break-after: always\"></div>
-
 10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
@@ -1335,6 +1341,7 @@ Lot
 ## 14. GENERAL CLASSIFICATION FOR SUPPLY
 
 15. INSTRUCTIONS ON USE
+
 16. INFORMATION IN BRAILLE
 
 Justification for not including Braille accepted.
@@ -1346,6 +1353,8 @@ Justification for not including Braille accepted.
 ## 18. UNIQUE IDENTIFIER - HUMAN READABLE DATA
 
 PC SN
+
+<div style=\"page-break-after: always\"></div>
 
 NN
 
@@ -1369,7 +1378,8 @@ Lot
 
 ## 5. CONTENTS BY WEIGHT, BY VOLUME OR BY UNIT
 
-## 6. OTHER
+| 6.   | OTHER   |
+|------|---------|
 
 <div style=\"page-break-after: always\"></div>
 
@@ -1444,19 +1454,17 @@ Tell your doctor, pharmacist or nurse if you are taking, have recently taken or 
 
 It may take up to 7 months for Ontruzant to be removed from the body. Therefore, you should tell your doctor, pharmacist or nurse that you have had Ontruzant if you start any new medicine in the 7 months after stopping treatment.
 
-## Pregnancy
+## Pregnancy and breast-feeding
 
 - If you are pregnant, think you may be pregnant or are planning to have a baby, ask your doctor, pharmacist or nurse for advice before taking this medicine.
 - You should use effective contraception during treatment with Ontruzant and for at least 7 months after treatment has ended.
 - Your doctor will advise you of the risks and benefits of taking Ontruzant during pregnancy. In rare cases, a reduction in the amount of (amniotic) fluid that surrounds the developing baby within the womb has been observed in pregnant women receiving Ontruzant. This condition may be harmful to your baby in the womb and has been associated with the lungs not developing fully resulting in foetal death.
 
-## Breast-feeding
-
 Do not breast-feed your baby during Ontruzant therapy and for 7 months after the last dose, as Ontruzant may pass to your baby through your breast milk.
 
-<div style=\"page-break-after: always\"></div>
-
 Ask your doctor or pharmacist for advice before taking any medicine.
+
+<div style=\"page-break-after: always\"></div>
 
 ## Driving and using machines
 
@@ -1465,6 +1473,12 @@ Ontruzant may affect your ability to drive a car or operate machines. If during 
 ## Sodium
 
 This medicine contains less than 1 mmol of sodium (23 mg) per dose, that is to say essentially sodium-free.
+
+## Ontruzant contains polysorbate
+
+Ontruzant contains 0.6 mg of polysorbate 20 in each 150 mg vial, which is equivalent to 0.083 mg/mL (after reconstitution with 7.2 mL sterile water for injection). Ontruzant contains 1.7 mg of polysorbate 20 in each 420 mg vial, which is equivalent to 0.085 mg/mL (after reconstitution with 20 mL sterile water for injection). Polysorbates may cause allergic reactions.
+
+Tell your doctor if you have any known allergies.
 
 ## 3. How Ontruzant is given
 
@@ -1625,7 +1639,7 @@ Ontruzant will be stored by the healthcare professionals at the hospital or clin
 - -150 mg trastuzumab that has to be dissolved in 7.2 mL of water for injection, or
 - -420 mg trastuzumab that has to be dissolved in 20 mL of water for injection.
 - The resulting solution contains approximately 21 mg/mL trastuzumab.
-- The other ingredient(s) are L-histidine hydrochloride monohydrate, L-histidine, α,α -trehalose dihydrate, polysorbate 20.
+- The other ingredient(s) are histidine hydrochloride monohydrate,histidine, α,α -trehalose dihydrate, polysorbate 20 (E432) (see section 2 'Ontruzant contains polysorbate').
 
 ## What Ontruzant looks like and contents of the pack
 
@@ -1655,17 +1669,11 @@ Organon Czech Republic s.r.o. Tel.: +420 233 010 300 dpoc.czech@organon.com
 
 ## Danmark
 
-Organon Denmark ApS Tlf: + 45 44 84 68 00
-
-info.denmark@organon.com
+Organon Denmark ApS Tlf: + 45 44 84 68 00 info.denmark@organon.com
 
 ## Deutschland
 
-Organon Healthcare GmbH
-
-Tel: 0800 3384 726 (+49 (0) 89 2040022 10)
-
-dpoc.germany@organon.com
+Organon Healthcare GmbH Tel: 0800 3384 726 (+49 (0) 89 2040022 10) dpoc.germany@organon.com
 
 ## Lietuva
 
@@ -1703,9 +1711,11 @@ dpoc.estonia@organon.com
 
 Mailbox@vianex.gr
 
-España Organon Salud, S.L. Tel: +34 91 591 12 79
+## España
 
-France
+Organon Salud, S.L. Tel: +34 91 591 12 79
+
+## France
 
 Organon France Tél: + 33 (0) 1 57 77 32 00
 
@@ -1715,33 +1725,37 @@ Organon Pharma d.o.o. Tel: + 385 1 638 4530
 
 dpoc.croatia@organon.com
 
-Ireland Organon Pharma (Ireland) Limited Tel: +353 15828260
+## Ireland
+
+Organon Pharma (Ireland) Limited Tel: +353 15828260
 
 medinfo.ROI@organon.com
 
-Ísland
+## Ísland
 
 Vistor hf. Sími: + 354 535 7000
 
-Italia
+## Italia
 
 Organon Italia S.r.l. Tel: +39 06 90259059
 
 dpoc.italy@organon.com
 
-Κύπρος Organon Pharma B.V., Cyprus branch Τηλ.: +357 22866730
+Κύπρος
+
+Organon Pharma B.V., Cyprus branch Τηλ.: +357 22866730
 
 dpoc.cyprus@organon.com
 
-Latvija Ārvalsts komersanta 'Organon Pharma B.V .' pārstāvniecība Tel: + 371 66968876 dpoc.latvia@organon.com
+Latvija Ārvalsts komersanta 'Organon Pharma B.V.' pārstāvniecība Tel: + 371 66968876 dpoc.latvia@organon.com
 
 ## This leaflet was last revised in
 
-Detailed information on this medicine is available on the European Medicines Agency web site: http://www.ema.europa.eu.
+Detailed information on this medicine is available on the European Medicines Agency web site: https://www.ema.europa.eu.
 
-Norge Organon Norway AS
+## Norge
 
-Tlf: +47 24 14 56 60
+Organon Norway AS Tlf: +47 24 14 56 60
 
 info.norway@organon.com
 
@@ -1755,7 +1769,11 @@ Organon Polska Sp. z o.o. Tel: +48 22 105 50 01
 
 organonpolska@organon.com
 
-Portugal Organon Portugal, Sociedade Unipessoal Lda. Tel: +351 218705500 geral\\_pt@organon.com
+## Portugal
+
+Organon Portugal, Sociedade Unipessoal Lda.
+
+Tel: +351 218705500 geral\\_pt@organon.com
 
 ## România
 
@@ -1763,7 +1781,11 @@ Organon Biosciences S.R.L. Tel: + 40 21 527 29 90
 
 dpoc.romania@organon.com
 
-Slovenija Organon Pharma B.V., Oss, podružnica Ljubljana Tel: + 386 1 300 10 80 dpoc.slovenia@organon.com
+## Slovenija
+
+Organon Pharma B.V., Oss, podružnica Ljubljana Tel: + 386 1 300 10 80
+
+dpoc.slovenia@organon.com
 
 ## Slovenská republika
 
@@ -1777,9 +1799,7 @@ Organon Finland Oy Puh/Tel: +358 (0) 29 170 3520
 
 dpoc.finland@organon.com
 
-Sverige
-
-Organon Sweden AB Tel: +46 8 502 597 00
+Sverige Organon Sweden AB Tel: +46 8 502 597 00
 
 dpoc.sweden@organon.com
 
@@ -1843,13 +1863,17 @@ Determine the volume of the solution required:
 
 - based on a loading dose of 4 mg trastuzumab/kg body weight, or a subsequent weekly dose of 2 mg trastuzumab/kg body weight:
 
-Volume (mL) =
+<!-- formula-not-decoded -->
 
-Body weight (kg) x dose ( 4 mg/kg for loading or 2 mg/kg for maintenance) 21 (mg/mL, concentration of reconstituted solution)
+Volume
+
+Body weight (kg) x dose ( 4 mg/kg for loading or 2 21 (mg/mL, concentration of reconstituted solution)
 
 - based on a loading dose of 8 mg trastuzumab/kg body weight, or a subsequent 3-weekly dose of 6 mg trastuzumab/kg body weight:
 
 <!-- formula-not-decoded -->
+
+Volume
 
 Body weight (kg) x dose ( 8 mg/kg for loading or 6 21 (mg/mL, concentration of reconstituted solution)
 

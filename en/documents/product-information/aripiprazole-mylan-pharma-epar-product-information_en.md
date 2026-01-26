@@ -1,18 +1,18 @@
 ---
-document_datetime: 2024-05-22 12:36:06
+document_datetime: 2026-01-23 10:55:49
 document_pages: 64
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/aripiprazole-mylan-pharma-epar-product-information_en.pdf
 document_name: aripiprazole-mylan-pharma-epar-product-information_en.pdf
 version: success
-processing_time: 11.9113252
-conversion_datetime: 2025-12-24 23:45:33.979722
+processing_time: 12.08281
+conversion_datetime: 2026-01-26 20:50:30.298136
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.66.0
-  docling-core: 2.57.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.10.0
+  docling-jobkit: 1.8.1
+  docling: 2.70.0
+  docling-core: 2.60.2
+  docling-ibm-models: 3.11.0
+  docling-parse: 4.7.3
   python: cpython-313 (3.13.11)
   plaform: macOS-26.2-arm64-arm-64bit-Mach-O
 ---
@@ -252,7 +252,7 @@ Aripiprazole Mylan Pharma tablets contain less than 1 mmol sodium (23 mg) per ta
 
 ## 4.5 Interaction with other medicinal products and other forms of interaction
 
-Due to its α 1 -adrenergic receptor antagonism, aripiprazole has the potential to enhance the effect of certain antihypertensive medicinal products.
+Due to its α1-adrenergic receptor antagonism, aripiprazole has the potential to enhance the effect of certain antihypertensive medicinal products.
 
 Given the primary CNS effects of aripiprazole, caution should be used when aripiprazole is administered in combination with alcohol or other CNS medicinal products with overlapping adverse reactions such as sedation (see section 4.8).
 
@@ -260,7 +260,7 @@ If aripiprazole is administered concomitantly with medicinal products known to c
 
 ## Potential for other medicinal products to affect aripiprazole
 
-A gastric acid blocker, the H 2 antagonist famotidine, reduces aripiprazole rate of absorption but this effect is deemed not clinically relevant. Aripiprazole is metabolised by multiple pathways involving the CYP2D6 and CYP3A4 enzymes but not CYP1A enzymes. Thus, no dosage adjustment is required for smokers.
+A gastric acid blocker, the H2 antagonist famotidine, reduces aripiprazole rate of absorption but this effect is deemed not clinically relevant. Aripiprazole is metabolised by multiple pathways involving the CYP2D6 and CYP3A4 enzymes but not CYP1A enzymes. Thus, no dosage adjustment is required for smokers.
 
 ## Quinidine and other CYP2D6 inhibitors
 
@@ -395,9 +395,7 @@ In a short-term placebo-controlled clinical trial involving 302 adolescents (13 
 
 The safety profile of a long-term, double-blind, placebo-controlled trial was also similar except for the following reactions that were reported more frequently than paediatric patients taking placebo: weight decreased, blood insulin increased, arrhythmia, and leukopenia were reported commonly (≥ 1/100, &lt; 1/10).
 
-In the pooled adolescent schizophrenia population (13 to 17 years) with exposure up to 2 years, incidence of low serum prolactin levels in females (&lt; 3 ng/mL) and males (&lt; 2 ng/mL) was 29.5 % and 48.3 %, respectively. In the adolescent (13 to 17 years) schizophrenia population with aripiprazole exposure of 5 mg to 30 mg up to 72 months, incidence of low serum prolactin levels in females (&lt; 3 ng/mL) and males (&lt; 2 ng/mL) was 25.6 % and 45.0 %, respectively.
-
-In two long-term trials with adolescent (13 to 17 years) schizophrenia and bipolar patients treated with aripiprazole, incidence of low serum prolactin levels in females (&lt; 3 ng/mL) and males (&lt; 2 ng/mL) was 37.0 % and 59.4 %, respectively.
+In the pooled adolescent schizophrenia population (13 to 17 years) with exposure up to 2 years, incidence of low serum prolactin levels in females (&lt; 3 ng/mL) and males (&lt; 2 ng/mL) was 29.5 % and 48.3 %, respectively. In the adolescent (13 to 17 years) schizophrenia population with aripiprazole exposure of 5 mg to 30 mg up to 72 months, incidence of low serum prolactin levels in females (&lt; 3 ng/mL) and males (&lt; 2 ng/mL) was 25.6 % and 45.0 %, respectively. In two long-term trials with adolescent (13 to 17 years) schizophrenia and bipolar patients treated with aripiprazole, incidence of low serum prolactin levels in females (&lt; 3 ng/mL) and males (&lt; 2 ng/mL) was 37.0 % and 59.4 %, respectively.
 
 ## Manic episodes in Bipolar I Disorder in adolescents aged 13 years and older
 
@@ -451,7 +449,7 @@ Pharmacotherapeutic group: Psycholeptics, other antipsychotics, ATC code: N05AX1
 
 It has been proposed that aripiprazole's efficacy in schizophrenia and Bipolar I Disorder is mediated through a combination of partial agonism at dopamine D2 and serotonin 5-HT1A receptors and antagonism of serotonin 5-HT2A receptors. Aripiprazole exhibited antagonist properties in animal models of dopaminergic hyperactivity and agonist properties in animal models of dopaminergic hypoactivity. Aripiprazole exhibited high binding affinity in vitro for dopamine D2 and D3, serotonin 5-HT1A and 5-HT2A receptors and moderate affinity for dopamine D4, serotonin 5-HT2C and 5-HT7, alpha-1 adrenergic and histamine H1 receptors. Aripiprazole also exhibited moderate binding affinity for the serotonin reuptake site and no appreciable affinity for muscarinic receptors. Interaction with receptors other than dopamine and serotonin subtypes may explain some of the other clinical effects of aripiprazole.
 
-Aripiprazole doses ranging from 0.5 mg to 30 mg administered once a day to healthy subjects for 2 weeks produced a dose-dependent reduction in the binding of 11 C-raclopride, a D 2 /D3 receptor ligand, to the caudate and putamen detected by positron emission tomography.
+Aripiprazole doses ranging from 0.5 mg to 30 mg administered once a day to healthy subjects for 2 weeks produced a dose-dependent reduction in the binding of 11 C-raclopride, a D2/D3 receptor ligand, to the caudate and putamen detected by positron emission tomography.
 
 ## Clinical efficacy and safety
 
@@ -667,19 +665,43 @@ Damastown Industrial Park, Mulhuddart, Dublin 15, DUBLIN Ireland
 
 ## Aripiprazole Mylan Pharma 5 mg tablets
 
-EU/1/15/1005/001 EU/1/15/1005/002 EU/1/15/1005/003 EU/1/15/1005/013 EU/1/15/1005/014 EU/1/15/1005/021
+EU/1/15/1005/001 EU/1/15/1005/002 EU/1/15/1005/003 EU/1/15/1005/013 EU/1/15/1005/014
+
+EU/1/15/1005/021
 
 ## Aripiprazole Mylan Pharma 10 mg tablets
 
-EU/1/15/1005/004 EU/1/15/1005/005 EU/1/15/1005/006 EU/1/15/1005/015 EU/1/15/1005/016 EU/1/15/1005/022
+EU/1/15/1005/004
+
+EU/1/15/1005/005
+
+EU/1/15/1005/006
+
+EU/1/15/1005/015
+
+EU/1/15/1005/016
+
+EU/1/15/1005/022
 
 ## Aripiprazole Mylan Pharma 15 mg tablets
 
-EU/1/15/1005/007 EU/1/15/1005/008 EU/1/15/1005/009 EU/1/15/1005/017 EU/1/15/1005/018 EU/1/15/1005/023
+EU/1/15/1005/007
+
+EU/1/15/1005/008
+
+EU/1/15/1005/009
+
+EU/1/15/1005/017
+
+EU/1/15/1005/018
+
+EU/1/15/1005/023
 
 ## Aripiprazole Mylan Pharma 30 mg tablets
 
-EU/1/15/1005/010 EU/1/15/1005/011 EU/1/15/1005/012 EU/1/15/1005/019 EU/1/15/1005/020
+EU/1/15/1005/010 EU/1/15/1005/011 EU/1/15/1005/012 EU/1/15/1005/019
+
+EU/1/15/1005/020
 
 ## 9. DATE OF FIRST AUTHORISATION/RENEWAL OF THE AUTHORISATION
 
@@ -718,13 +740,13 @@ Medicinal product subject to medical prescription.
 
 ## C. OTHER CONDITIONS AND REQUIREMENTS OF THE MARKETING AUTHORISATION
 
-##  Periodic safety update reports (PSURs)
+## · Periodic safety update reports (PSURs)
 
 The requirements for submission of PSURs for this medicinal product are set out in the list of Union reference  dates  (EURD  list)  provided  for  under  Article  107c(7)  of  Directive  2001/83/EC  and  any subsequent updates published on the European medicines web-portal.
 
 ## D. CONDITIONS OR RESTRICTIONS WITH REGARD TO THE SAFE AND EFFECTIVE USE OF THE MEDICINAL PRODUCT
 
-##  Risk management plan (RMP)
+## · Risk management plan (RMP)
 
 The marketing authorisation holder (MAH) shall perform the required pharmacovigilance activities and interventions detailed in the agreed RMP presented in Module 1.8.2 of the marketing authorisation and any agreed subsequent updates of the RMP.
 
@@ -825,7 +847,8 @@ EU/1/15/1005/014 56 tablets
 
 Lot
 
-14. GENERAL CLASSIFICATION FOR SUPPLY
+## 14. GENERAL CLASSIFICATION FOR SUPPLY
+
 15. INSTRUCTIONS ON USE
 
 ## 16. INFORMATION IN BRAILLE
@@ -846,7 +869,7 @@ Aripiprazole Mylan Pharma 5 mg
 
 ## MINIMUM PARTICULARS TO APPEAR ON BLISTERS OR STRIPS
 
-BLISTERS
+## BLISTERS
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
@@ -864,7 +887,8 @@ EXP
 
 Lot
 
-## 5. OTHER
+| 5.   | OTHER   |
+|------|---------|
 
 ## PARTICULARS TO APPEAR ON THE OUTER PACKAGING
 
@@ -964,24 +988,24 @@ Aripiprazole Mylan Pharma 10 mg
 
 <div style=\"page-break-after: always\"></div>
 
-| 18.   | UNIQUE IDENTIFIER - HUMANREADABLE DATA   |
-|-------|------------------------------------------|
+| 18.   | UNIQUE IDENTIFIER -HUMANREADABLE DATA   |
+|-------|-----------------------------------------|
 
 PC SN NN
 
 <div style=\"page-break-after: always\"></div>
 
-| MINIMUM PARTICULARS TO APPEAR ON BLISTERS OR STRIPS   |
-|-------------------------------------------------------|
-| BLISTERS                                              |
+| MINIMUM PARTICULARS TO APPEAR ONBLISTERS OR STRIPS   |
+|------------------------------------------------------|
+| BLISTERS                                             |
 
-| 1.   | NAME OF THE MEDICINAL PRODUCT   |
-|------|---------------------------------|
+| 1.   | NAMEOFTHEMEDICINAL PRODUCT   |
+|------|------------------------------|
 
 Aripiprazole Mylan Pharma 10 mg tablets aripiprazole
 
-| 2.   | NAME OF THE MARKETING AUTHORISATION HOLDER   |
-|------|----------------------------------------------|
+| 2.   | NAMEOFTHEMARKETINGAUTHORISATION HOLDER   |
+|------|------------------------------------------|
 
 Mylan Pharmaceuticals Limited
 
@@ -1102,17 +1126,17 @@ Aripiprazole Mylan Pharma 15 mg
 
 <div style=\"page-break-after: always\"></div>
 
-| MINIMUM PARTICULARS TO APPEAR ON BLISTERS OR STRIPS   |
-|-------------------------------------------------------|
-| BLISTERS                                              |
+| MINIMUM PARTICULARS TO APPEAR ONBLISTERS OR STRIPS   |
+|------------------------------------------------------|
+| BLISTERS                                             |
 
 | 1. NAMEOFTHEMEDICINAL PRODUCT   |
 |---------------------------------|
 
 Aripiprazole Mylan Pharma 15 mg tablets aripiprazole
 
-| 2.   | NAME OF THE MARKETING AUTHORISATION HOLDER   |
-|------|----------------------------------------------|
+| 2.   | NAMEOFTHEMARKETINGAUTHORISATION HOLDER   |
+|------|------------------------------------------|
 
 Mylan Pharmaceuticals Limited
 
@@ -1213,7 +1237,7 @@ Lot
 
 ## 14. GENERAL CLASSIFICATION FOR SUPPLY
 
-15. INSTRUCTIONS ON USE
+## 15. INSTRUCTIONS ON USE
 
 ## 16. INFORMATION IN BRAILLE
 
@@ -1233,16 +1257,17 @@ NN
 
 <div style=\"page-break-after: always\"></div>
 
-| MINIMUM PARTICULARS TO APPEAR ON BLISTERS OR STRIPS   |
-|-------------------------------------------------------|
-| BLISTERS                                              |
+| MINIMUM PARTICULARS TO APPEAR ONBLISTERS OR STRIPS   |
+|------------------------------------------------------|
+| BLISTERS                                             |
 
-| 1.   | NAME OF THE MEDICINAL PRODUCT   |
-|------|---------------------------------|
+| 1.   | NAMEOFTHEMEDICINAL PRODUCT   |
+|------|------------------------------|
 
 Aripiprazole Mylan Pharma 30 mg tablets aripiprazole
 
-## 2. NAME OF THE MARKETING AUTHORISATION HOLDER
+| 2.   | NAMEOFTHEMARKETINGAUTHORISATION HOLDER   |
+|------|------------------------------------------|
 
 Mylan Pharmaceuticals Limited
 
@@ -1307,9 +1332,7 @@ Store in the original bottle in order to protect from moisture.
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
-Mylan Pharmaceuticals Limited
-
-Damastown Industrial Park, Mulhuddart, Dublin 15, DUBLIN Ireland
+Mylan Pharmaceuticals Limited Damastown Industrial Park, Mulhuddart, Dublin 15, DUBLIN Ireland
 
 ## 12. MARKETING AUTHORISATION NUMBER(S)
 
@@ -1321,7 +1344,7 @@ Lot
 
 ## 14. GENERAL CLASSIFICATION FOR SUPPLY
 
-15. INSTRUCTIONS ON USE
+## 15. INSTRUCTIONS ON USE
 
 ## 16. INFORMATION IN BRAILLE
 
@@ -1379,8 +1402,6 @@ EXP
 
 <div style=\"page-break-after: always\"></div>
 
-<div style=\"page-break-after: always\"></div>
-
 ## 9. SPECIAL STORAGE CONDITIONS
 
 Store in the original bottle in order to protect from moisture.
@@ -1389,9 +1410,7 @@ Store in the original bottle in order to protect from moisture.
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
-Mylan Pharmaceuticals Limited
-
-Damastown Industrial Park, Mulhuddart, Dublin 15, DUBLIN Ireland
+Mylan Pharmaceuticals Limited Damastown Industrial Park, Mulhuddart, Dublin 15, DUBLIN Ireland
 
 ## 12. MARKETING AUTHORISATION NUMBER(S)
 
@@ -1402,10 +1421,16 @@ EU/1/15/1005/021 100 Tablets
 Lot
 
 14. GENERAL CLASSIFICATION FOR SUPPLY
+
 15. INSTRUCTIONS ON USE
+
 16. INFORMATION IN BRAILLE
+
 17. UNIQUE IDENTIFIER - 2D BARCODE
+
 18. UNIQUE IDENTIFIER - HUMAN READABLE DATA
+
+<div style=\"page-break-after: always\"></div>
 
 ## PARTICULARS TO APPEAR ON THE OUTER PACKAGING
 
@@ -1457,9 +1482,7 @@ Store in the original bottle in order to protect from moisture.
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
-Mylan Pharmaceuticals Limited
-
-Damastown Industrial Park, Mulhuddart, Dublin 15, DUBLIN Ireland
+Mylan Pharmaceuticals Limited Damastown Industrial Park, Mulhuddart, Dublin 15, DUBLIN Ireland
 
 ## 12. MARKETING AUTHORISATION NUMBER(S)
 
@@ -1513,9 +1536,7 @@ Tablet
 
 ## 5. METHOD AND ROUTE(S) OF ADMINISTRATION
 
-Read the package leaflet before use.
-
-Oral use.
+Read the package leaflet before use. Oral use.
 
 ## 6. SPECIAL WARNING THAT THE MEDICINAL PRODUCT MUST BE STORED OUT OF THE SIGHT AND REACH OF CHILDREN
 
@@ -1535,13 +1556,11 @@ Store in the original bottle in order to protect from moisture.
 
 <div style=\"page-break-after: always\"></div>
 
-## 10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
+10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
-Mylan Pharmaceuticals Limited
-
-Damastown Industrial Park, Mulhuddart, Dublin 15, DUBLIN Ireland
+Mylan Pharmaceuticals Limited Damastown Industrial Park, Mulhuddart, Dublin 15, DUBLIN Ireland
 
 ## 12. MARKETING AUTHORISATION NUMBER(S)
 
@@ -1609,9 +1628,7 @@ Store in the original bottle in order to protect from moisture.
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
-Mylan Pharmaceuticals Limited
-
-Damastown Industrial Park, Mulhuddart, Dublin 15, DUBLIN Ireland
+Mylan Pharmaceuticals Limited Damastown Industrial Park, Mulhuddart, Dublin 15, DUBLIN Ireland
 
 ## 12. MARKETING AUTHORISATION NUMBER(S)
 
@@ -1751,7 +1768,7 @@ Aripiprazole Mylan Pharma is used to treat adults and adolescents aged 13 years 
 
 ## Do not take Aripiprazole Mylan Pharma
 
--  if you are allergic to aripiprazole or any of the other ingredients of this medicine (listed in section 6).
+- if you are allergic to aripiprazole or any of the other ingredients of this medicine (listed in section 6).
 
 ## Warnings and precautions
 
@@ -2063,21 +2080,81 @@ For any information about this medicine, please contact the local representative
 
 ## België/Belgique/Belgien
 
-## Lietuva
-
 Viatris
 
 Tél/Tel: + 32 (0)2 658 61 00
-
-Viatris UAB
-
-Tel: +370 5 205 1288
 
 ## България
 
 Майлан ЕООД
 
 Тел: +359 2 44 55 400
+
+## Česká republika
+
+Viatris CZ s.r.o.
+
+Tel: +420 222 004 400
+
+## Danmark
+
+Viatris ApS
+
+Tlf: +45 28 11 69 32
+
+## Deutschland
+
+Viatris Healthcare GmbH
+
+Tel: +49 800 0700 800
+
+## Eesti
+
+Viatris OÜ
+
+Tel: + 372 6363 052
+
+## Ελλάδα
+
+Viatris Hellas Ltd
+
+Τηλ: +30 2100 100 002
+
+## España
+
+Viatris Pharmaceuticals, S.L.
+
+Tel: + 34 900 102 712
+
+## France
+
+Viatris Santé
+
+Tél: +33 4 37 25 75 00
+
+## Hrvatska
+
+Viatris Hrvatska d.o.o.
+
+Tel: +385 1 23 50 599
+
+## Ireland
+
+Viatris Limited
+
+Tel: +353 1 8711600
+
+## Ísland
+
+Icepharma hf
+
+Sími: +354 540 8000
+
+## Lietuva
+
+Viatris UAB
+
+Tel: +370 5 205 1288
 
 ## Luxembourg/Luxemburg
 
@@ -2087,23 +2164,11 @@ Tél/Tel: + 32 (0)2 658 61 00
 
 (Belgique/Belgien)
 
-## Česká republika
-
-Viatris CZ s.r.o.
-
-Tel: +420 222 004 400
-
 ## Magyarország
 
 Viatris Healthcare Kft
 
 Tel: + 36 1 465 2100
-
-## Danmark
-
-Viatris ApS
-
-Tlf: +45 28 11 69 32
 
 ## Malta
 
@@ -2111,55 +2176,25 @@ V.J. Salomone Pharma Ltd
 
 Tel: + 356 21 22 01 74
 
-## Deutschland
-
-Viatris Healthcare GmbH
-
-Tel: +49 800 0700 800
-
 ## Nederland
 
 Mylan BV
 
 Tel: +31 (0)20 426 3300
 
-## Eesti
-
-Viatris OÜ Tel: + 372 6363 052
-
 ## Norge
 
 Viatris AS Tlf: + 47 66 75 33 00
-
-## Ελλάδα
-
-Viatris Hellas Ltd
-
-Τηλ: +30 2100 100 002
 
 ## Österreich
 
 Viatris Austria GmbH
 
-Tel: +43 1 863904
-
-## España
-
-Viatris Pharmaceuticals, S.L.
-
-Tel: + 34 900 102 712
+Tel: +43 1 86390
 
 ## Polska
 
-Viatris Healthcare Sp. z.o.o.
-
-Tel: + 48 22 546 64 00
-
-## France
-
-Viatris Santé
-
-Tél: +33 4 37 25 75 00
+Viatris Healthcare Sp. z.o.o. Tel: + 48 22 546 64 00
 
 ## Portugal
 
@@ -2167,35 +2202,15 @@ Mylan, Lda.
 
 Tel: + 351 21 412 72 00
 
-## Hrvatska
-
-Viatris Hrvatska d.o.o.
-
-Tel: +385 1 23 50 599
-
 ## România
 
 BGP Products SRL
 
 Tel: +40 372 579 000
 
-## Ireland
-
-Viatris Limited
-
-Tel: +353 1 8711600
-
 ## Slovenija
 
-Viatris d.o.o
-
-Tel: + 386 1 23 63 180
-
-## Ísland
-
-Icepharma hf
-
-Sími: +354 540 8000
+Viatris d.o.o Tel: + 386 1 23 63 180
 
 ## Slovenská republika
 
@@ -2203,27 +2218,19 @@ Viatris Slovakia s.r.o.
 
 Tel: +421 2 32 199 100
 
+<div style=\"page-break-after: always\"></div>
+
 ## Italia
 
 Viatris Italia S.r.l
 
-Tel: + 39 02 612 46921
-
-Suomi/Finland Viatris Oy
-
-Puh/Tel: +358 20 720 9555
+Tel: + 39 (0)2 612 46921
 
 ## Κύπρος
 
-GPA Pharmaceuticals Ltd
+CPO Pharmaceuticals Limited
 
 Τηλ: +357 22863100
-
-Sverige
-
-Viatris AB
-
-Tel: + 46 (0)8 630 19 00
 
 ## Latvija
 
@@ -2231,16 +2238,20 @@ Viatris SIA
 
 Tel: +371 676 055 80
 
-## United Kingdom (Northern Ireland)
-
-Mylan IRE Healthcare Limited
-
-Tel: +353 18711600
-
-<div style=\"page-break-after: always\"></div>
-
 ## This leaflet was last revised in MM/YYYY.
 
 ## Other sources of information
 
 Detailed information on this medicine is available on the European Medicines Agency (EMA) web site: http://www.ema.europa.eu/.
+
+## Suomi/Finland
+
+Viatris Oy
+
+Puh/Tel: +358 20 720 9555
+
+## Sverige
+
+Viatris AB
+
+Tel: + 46 (0)8 630 19 00

@@ -1,18 +1,18 @@
 ---
-document_datetime: 2025-08-20 14:24:40
-document_pages: 36
+document_datetime: 2026-01-23 11:34:40
+document_pages: 38
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/elahere-epar-product-information_en.pdf
 document_name: elahere-epar-product-information_en.pdf
 version: success
-processing_time: 7.3641618
-conversion_datetime: 2025-12-21 17:54:30.851625
+processing_time: 7.8487816
+conversion_datetime: 2026-01-26 20:51:04.114804
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.64.1
-  docling-core: 2.55.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.10.0
+  docling-jobkit: 1.8.1
+  docling: 2.70.0
+  docling-core: 2.60.2
+  docling-ibm-models: 3.11.0
+  docling-parse: 4.7.3
   python: cpython-313 (3.13.11)
   plaform: macOS-26.2-arm64-arm-64bit-Mach-O
 ---
@@ -24,7 +24,7 @@ docling_version:
 
 <!-- image -->
 
-V This medicinal product is subject to additional monitoring. This will allow quick identification of new safety information. Healthcare professionals are asked to report any suspected adverse reactions. See section 4.8 for how to report adverse reactions.
+This medicinal product is subject to additional monitoring. This will allow quick identification of new safety information. Healthcare professionals are asked to report any suspected adverse reactions. See section 4.8 for how to report adverse reactions.
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
@@ -70,9 +70,7 @@ The recommended dose of ELAHERE is 6 mg/kg adjusted ideal body weight (AIBW) adm
 
 The total dose of ELAHERE is calculated based on each patient's AIBW using the following formula:
 
-```
 Female IBW (Ideal Body Weight [kg]) = 0.9*height [cm] - 92 AIBW = IBW [kg] + 0.4*(Actual weight [kg] - IBW)
-```
 
 For example, for a female patient who is 165 cm in height and 80 kg in weight
 
@@ -130,8 +128,6 @@ Table 2: Dose reduction schedule
 | First dose reduction  | 5 mg/kg AIBW          |
 | Second dose reduction | 4 mg/kg AIBW *        |
 
-* Permanently discontinue in patients who cannot tolerate 4 mg/kg AIBW.
-
 Table 3: Dose modifications for adverse reactions
 
 | Adverse reaction                                 | Severity of adverse reaction *                                                                                                  | Dose modification                                                                                                                                                                                                                                                                                                         |
@@ -156,8 +152,6 @@ Table 3: Dose modifications for adverse reactions
 | Haematological (see section 4.8)                                        | Grade 3 or 4                     | Withhold dose until Grade 1 or less, then resume at one lower dose level.                                                                                                                                                                                                                                                                                                          |
 | Other adverse reactions (see section 4.8)                               | Grade 3                          | Withhold dose until Grade 1 or less, then resume at one lower dose level.                                                                                                                                                                                                                                                                                                          |
 | Other adverse reactions (see section 4.8)                               | Grade 4                          | Permanently discontinue                                                                                                                                                                                                                                                                                                                                                            |
-
-*: Unless otherwise specified, National Cancer Institute Common Terminology Criteria for Adverse Events (NCI CTCAE) version 5.0.
 
 ## Special populations
 
@@ -338,22 +332,22 @@ Table 4: Tabulated list of all grade adverse reactions in patients treated with 
 | Investigations                                       | Common               | Blood alkaline phosphatase increased, gamma-glutamyl transferase increased, weight decreased |
 | Injury, poisoning and procedural complication        | Common               | Infusion related reaction/hypersensitivity 9                                                 |
 
-1 Peripheral neuropathy grouped term includes hypoaesthesia, neuropathy peripheral, neurotoxicity, paraesthesia, peripheral motor neuropathy, peripheral sensorimotor neuropathy, peripheral sensory neuropathy, and polyneuropathy (see section Description of selected adverse reactions).
+- 1 Peripheral neuropathy grouped term includes hypoaesthesia, neuropathy peripheral, neurotoxicity, paraesthesia, peripheral motor neuropathy, peripheral sensorimotor neuropathy, peripheral sensory neuropathy, and polyneuropathy (see section Description of selected adverse reactions).
 
-- 2 Keratopathy group term includes corneal cyst, corneal deposits, corneal disorder, corneal epithelial microcysts, corneal epithelium defect, corneal erosion, corneal opacity, corneal pigmentation, keratitis, keratitis interstitial, keratopathy, limbal stem cell deficiency, and punctate keratitis (see section Description of selected adverse reactions).
+2 Keratopathy group term includes corneal cyst, corneal deposits, corneal disorder, corneal epithelial microcysts, corneal epithelium defect, corneal erosion, corneal opacity, corneal pigmentation, keratitis, keratitis interstitial, keratopathy, limbal stem cell deficiency, and punctate keratitis (see section Description of selected adverse reactions).
 
 3 Cataract grouped term includes cataract, cataract cortical, and cataract nuclear (see section Description of selected adverse reactions).
 
 4 Blurred vision event grouped term includes accommodation disorder, diplopia, hypermetropia, presbyopia, refraction disorder, vision blurred, visual impairment, visual acuity reduced, and vitreous floaters (see section Description of selected adverse reactions).
 
 - 5 Dry eye grouped term includes dry eye and lacrimation decreased (see section Description of selected adverse reactions).
-- 6 Ocular discomfort grouped term includes eye irritation, eye pruritus, foreign body sensation in eye, and ocular discomfort (see section Description of selected adverse reactions).
+
+6 Ocular discomfort grouped term includes eye irritation, eye pruritus, foreign body sensation in eye, and ocular discomfort (see section Description of selected adverse reactions).
 
 7 Pneumonitis group term includes interstitial lung disease, organising pneumonia, pneumonitis, pulmonary fibrosis, and respiratory failure (see section Description of selected adverse reactions).
 
 - 8 Abdominal pain grouped term includes abdominal discomfort, abdominal pain, abdominal pain lower, and abdominal pain upper.
-
-9 Infusion related reaction/hypersensitivity grouped term includes SMQ Hypersensitivity narrow and flushing, erythema, erythema of eyelid.
+- 9 Infusion related reaction/hypersensitivity grouped term includes SMQ Hypersensitivity narrow and flushing, erythema, erythema of eyelid.
 
 ## Description of selected adverse reactions
 
@@ -422,8 +416,8 @@ The study excluded patients with primary platinum-refractory disease, patients w
 Patients were randomised 1:1 to receive either ELAHERE 6 mg/kg AIBW IV (N=227) at Day 1 of each 3-week cycle or one of the following chemotherapies (N=226) as decided by the investigator prior to randomisation:
 
 - Paclitaxel (Pac) 80 mg/m 2 administered once weekly within a 4-week cycle;
-- Pegylated liposomal doxorubicin (PLD) 40 mg/m 2 administered once every 4 weeks;
-- Topotecan (Topo) 4 mg/m 2 administered on Days 1, 8, and 15 every 4 weeks or for 5 consecutive days at 1.25 mg/m 2 from Days 1-5 of each 21-day cycle
+- Pegylated liposomal doxorubicin (PLD) 40 mg/m 2  administered once every 4 weeks;
+- Topotecan (Topo) 4 mg/m 2  administered on Days 1, 8, and 15 every 4 weeks or for 5 consecutive days at 1.25 mg/m 2 from Days 1-5 of each 21-day cycle
 
 Randomisation was stratified by number of prior lines of therapy (1 vs 2 vs 3) and by Investigator's choice of chemotherapy (IC Chemo) (Pac vs PLD vs Topo). Treatment was administered until disease progression, death, withdrawal of consent, or unacceptable toxicity.
 
@@ -451,10 +445,6 @@ Table 5: Efficacy results of Study IMGN853-0416
 | Median, months (95% CI)                                     | 16.46 (14.46, 24.57)                                        | 12.75 (10.91, 14.36)                                        |
 | Hazard ratio (95% CI)                                       | 0.67 (0.504, 0.885)                                         | 0.67 (0.504, 0.885)                                         |
 | p-value                                                     | 0.0046*                                                     | 0.0046*                                                     |
-
-Data cut-off 06 March 2023.
-
-*: pre-determined efficacy boundary = 0.01313, 2-sided (adjusted by observed number of deaths 204).
 
 The Kaplan Meier curves for investigator-assessed PFS (median follow-up of 11.2 months) and OS (median follow-up of 13.1 months) are presented in Figure 1 and Figure 2.
 
@@ -553,7 +543,7 @@ ELAHERE is incompatible with sodium chloride 9 mg/mL (0.9%) solution for infusio
 
 ## 6.3 Shelf life
 
-Unopened vial
+## Unopened vial
 
 5 years
 
@@ -585,7 +575,7 @@ Pack size of 1 vial.
 
 ELAHERE is a cytotoxic medicinal product. Follow applicable special handling and disposal procedures.
 
-Preparation
+## Preparation
 
 - Calculate the dose (mg) (based on the patient's AIBW), total volume (mL) of solution required, and the number of vials of ELAHERE needed (see section 4.2). More than one vial will be needed for a full dose.
 - Remove the vials of ELAHERE from the refrigerator and allow to warm to room temperature.
@@ -656,9 +646,13 @@ Name and address of the manufacturer of the biological active substance
 
 Bsp Pharmaceuticals S.p.A Via Appia Km 65561, Latina Scalo, LT 04013, Italy
 
-Name and address of the manufacturer responsible for batch release
+Name and address of the manufacturers responsible for batch release
 
-Almac Pharma Services (Ireland) Limited Finnabair Industrial Estate, Dundalk, A91 P9KD, Ireland
+Almac Pharma Services (Ireland) Limited Finnabair Industrial Estate, Dundalk, A91 P9KD, Ireland and
+
+AbbVie Deutschland GmbH &amp; Co. KG Knollstrasse 67061 Ludwigshafen Germany
+
+The printed package leaflet of the medicinal product must state the name and address of the manufacturer responsible for the release of the concerned batch.
 
 ## B. CONDITIONS OR RESTRICTIONS REGARDING SUPPLY AND USE
 
@@ -681,6 +675,9 @@ The marketing authorisation holder shall perform the required pharmacovigilance 
 An updated RMP should be submitted:
 
 - At the request of the European Medicines Agency;
+
+<div style=\"page-break-after: always\"></div>
+
 - Whenever the risk management system is modified, especially as the result of new information being received that may lead to a significant change to the benefit/risk profile or as the result of an important (pharmacovigilance or risk minimisation) milestone being reached.
 
 <div style=\"page-break-after: always\"></div>
@@ -701,7 +698,9 @@ OUTER CARTON
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
-ELAHERE 5 mg/mL concentrate for solution for infusion mirvetuximab soravtansine
+ELAHERE 5 mg/mL concentrate for solution for infusion
+
+mirvetuximab soravtansine
 
 ## 2. STATEMENT OF ACTIVE SUBSTANCE(S)
 
@@ -749,7 +748,7 @@ Do not freeze.
 
 Keep the vial in the outer carton in order to protect from light.
 
-## 10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
+10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
@@ -769,8 +768,7 @@ EU/1/24/1866/001
 
 Lot
 
-## 14. GENERAL CLASSIFICATION FOR SUPPLY
-
+14. GENERAL CLASSIFICATION FOR SUPPLY
 15. INSTRUCTIONS ON USE
 
 ## 16. INFORMATION IN BRAILLE
@@ -829,9 +827,9 @@ Cytotoxic
 
 ## ELAHERE 5 mg/mL concentrate for solution for infusion
 
-mirvetuximab soravtansine
+## mirvetuximab soravtansine
 
-V This medicine is subject to additional monitoring. This will allow quick identification of new safety information. You can help by reporting any side effects you may get. See the end of section 4 for how to report side effects.
+This medicine is subject to additional monitoring. This will allow quick identification of new safety information. You can help by reporting any side effects you may get. See the end of section 4 for how to report side effects.
 
 ## Read all of this leaflet carefully before you are given this medicine because it contains important information for you.
 
@@ -1101,7 +1099,7 @@ If you get any side effects, talk to your doctor or nurse. This includes any pos
 
 ELAHERE will be stored by the doctor and pharmacist at the hospital or clinic.
 
-To correctly store ELAHERE:
+## To correctly store ELAHERE:
 
 - Keep this medicine out of the sight and reach of children.
 - Do not use this medicine after the expiry date which is stated on the carton and the vial label after EXP. The expiry date refers to the last day of that month.
@@ -1132,9 +1130,15 @@ AbbVie Deutschland GmbH &amp; Co. KG Knollstrasse 67061 Ludwigshafen Germany
 
 ## Manufacturer
 
-Almac Pharma Services (Ireland) Limited Finnabair Industrial Estate,
+Almac Pharma Services (Ireland) Limited Finnabair Industrial Estate, Dundalk, A91 P9KD, Ireland or
 
-Dundalk, A91 P9KD, Ireland
+## AbbVie Deutschland GmbH &amp; Co. KG
+
+Knollstrasse
+
+67061 Ludwigshafen
+
+Germany
 
 For any information about this medicine, please contact the local representative of the Marketing Authorisation Holder:
 
@@ -1144,55 +1148,17 @@ AbbVie SA
 
 Tél/Tel: +32 10  477811
 
-## България
-
-АбВи ЕООД
-
-Тел: +359 2 90 30 430
-
-## Česká republika
-
-AbbVie s.r.o.
-
-Tel: +420 233 098 111
-
-## Danmark
-
-AbbVie A/S
-
-Tlf: +45 72 30-20-28
-
-## Deutschland
-
-AbbVie Deutschland GmbH &amp; Co. KG
-
-Tel: 00800 222843 33 (gebührenfrei)
-
-Tel: +49 (0) 611 / 1720-0
-
-## Eesti
-
-AbbVie OÜ
-
-Tel: +372 623 1011
-
-## Ελλάδα
-
-AbbVie ΦΑΡΜΑΚΕΥΤΙΚΗ Α.Ε.
-
-Τηλ: +30 214 4165 555
-
-## España
-
-AbbVie Spain, S.L.U.
-
-Tel: +34 91 384 09 10
-
 ## Lietuva
 
 AbbVie UAB
 
 Tel: +370 5 205 3023
+
+## България
+
+АбВи ЕООД
+
+Тел: +359 2 90 30 430
 
 ## Luxembourg/Luxemburg
 
@@ -1202,11 +1168,23 @@ Belgique/Belgien
 
 Tél/Tel: +32 10 477811
 
+## Česká republika
+
+AbbVie s.r.o.
+
+Tel: +420 233 098 111
+
 ## Magyarország
 
 AbbVie Kft.
 
 Tel: +36 1 455 8600
+
+## Danmark
+
+AbbVie A/S
+
+Tlf: +45 72 30-20-28
 
 ## Malta
 
@@ -1214,11 +1192,25 @@ V.J.Salomone Pharma Limited
 
 Tel: +356 21220174
 
+## Deutschland
+
+AbbVie Deutschland GmbH &amp; Co. KG
+
+Tel: 00800 222843 33 (gebührenfrei)
+
+Tel: +49 (0) 611 / 1720-0
+
 ## Nederland
 
 AbbVie B.V.
 
 Tel: +31 (0)88 322 2843
+
+## Eesti
+
+AbbVie OÜ
+
+Tel: +372 623 1011
 
 ## Norge
 
@@ -1226,11 +1218,23 @@ AbbVie AS
 
 Tlf: +47 67 81 80 00
 
+## Ελλάδα
+
+AbbVie ΦΑΡΜΑΚΕΥΤΙΚΗ Α.Ε.
+
+Τηλ: +30 214 4165 555
+
 ## Österreich
 
 AbbVie GmbH
 
 Tel: +43 1 20589-0
+
+## España
+
+AbbVie Spain, S.L.U.
+
+Tel: +34 91 384 09 10
 
 ## Polska
 
@@ -1316,8 +1320,6 @@ AbbVie SIA
 
 <div style=\"page-break-after: always\"></div>
 
-AbbVie SIA
-
 Tel: +371 67605000
 
 ## This leaflet was last revised in
@@ -1338,11 +1340,11 @@ ELAHERE is a cytotoxic medicinal product. Follow applicable special handling and
 
 - Calculate the dose (mg) (based on the patient's adjusted ideal body weight (AIBW)), total volume (mL) of solution required, and the number of vials of ELAHERE needed. More than one vial will be needed for a full dose.
 - Remove the vials of ELAHERE from the refrigerator and allow to warm to room temperature.
-- Parenteral medicinal products should be inspected visually for particulate matter and discolouration prior to administration, whenever solution and container permit. ELAHERE is a clear to slightly opalescent, colourless solution.
-- The medicinal product should not be used if the solution is discoloured or cloudy, or if foreign particulate matter is present.
 
 <div style=\"page-break-after: always\"></div>
 
+- Parenteral medicinal products should be inspected visually for particulate matter and discolouration prior to administration, whenever solution and container permit. ELAHERE is a clear to slightly opalescent, colourless solution.
+- The medicinal product should not be used if the solution is discoloured or cloudy, or if foreign particulate matter is present.
 - Gently swirl and inspect each vial prior to withdrawing the calculated dose volume of ELAHERE for subsequent further dilution. Do not shake the vial.
 - Using aseptic technique, withdraw the calculated dose volume of ELAHERE for subsequent further dilution. Each vial contains an overfill that allows withdrawal of the labelled amount.
 - ELAHERE contains no preservatives and is intended for single-dose only. Discard any unused solution remaining in the vial.
@@ -1369,5 +1371,7 @@ ELAHERE is a cytotoxic medicinal product. Follow applicable special handling and
 - Following the infusion, flush the intravenous line with 5% glucose to ensure delivery of the full dose. Do not use any other intravenous fluids for flushing.
 
 ## Disposal
+
+<div style=\"page-break-after: always\"></div>
 
 Any unused medicinal product or waste material should be disposed of in accordance with local requirements.

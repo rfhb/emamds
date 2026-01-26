@@ -1,18 +1,18 @@
 ---
-document_datetime: 2025-12-29 11:20:40
+document_datetime: 2026-01-23 16:08:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/bimzelx.html
 document_name: bimzelx.html
 version: success
-processing_time: 0.3365192
-conversion_datetime: 2025-12-30 20:56:30.44936
+processing_time: 0.1243339
+conversion_datetime: 2026-01-26 20:24:37.424979
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.66.0
-  docling-core: 2.57.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.10.0
+  docling-jobkit: 1.8.1
+  docling: 2.70.0
+  docling-core: 2.60.2
+  docling-ibm-models: 3.11.0
+  docling-parse: 4.7.3
   python: cpython-313 (3.13.11)
   plaform: macOS-26.2-arm64-arm-64bit-Mach-O
 ---
@@ -25,8 +25,6 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 bimekizumab Medicine Human Authorised
-
-On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -141,7 +139,7 @@ English (EN) (151.86 KB - PDF)
 
 [View](/en/documents/overview/bimzelx-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-840)
+[Other languages (22)](#file-language-dropdown-174)
 
 български (BG) (177.79 KB - PDF)
 
@@ -341,7 +339,7 @@ English (EN) (1.43 MB - PDF)
 
 [View](/en/documents/product-information/bimzelx-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-501)
+[Other languages (24)](#file-language-dropdown-984)
 
 български (BG) (1.72 MB - PDF)
 
@@ -657,7 +655,7 @@ English (EN) (77.06 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/bimzelx-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-155)
+[Other languages (24)](#file-language-dropdown-346)
 
 български (BG) (73.03 KB - PDF)
 
@@ -991,7 +989,7 @@ UCB Pharma S.A.
 
 Allée de la Recherche 60
 
-Opinion adopted 24/06/2021 Marketing authorisation issued 20/08/2021 Revision 11
+Opinion adopted 24/06/2021 Marketing authorisation issued 20/08/2021 Revision 12
 
 ## Assessment history
 
@@ -1018,6 +1016,18 @@ English (EN) (218.27 KB - PDF)
 **Last updated:** 28/04/2025
 
 [View](/en/documents/procedural-steps-after/bimzelx-epar-procedural-steps-taken-scientific-information-after-authorisation-archive_en.pdf)
+
+Bimzelx-PAM-0000295862 : EPAR - Assessment report
+
+Adopted
+
+Reference Number: EMADOC-1700519818-2845417
+
+English (EN) (2.58 MB - PDF)
+
+**First published:** 23/01/2026
+
+[View](/en/documents/variation-report/bimzelx-pam-0000295862-epar-assessment-report_en.pdf)
 
 Bimzelx-H-C-005316-II-0020 : EPAR - Assessment Report - Variation
 
@@ -1129,7 +1139,7 @@ English (EN) (117.73 KB - PDF)
 
 - [Real-World Impact of Bimekizumab on Disease Activity in axial spondyloarthritis patients including the EARLY subpopulation (EXPEDITE) - post-authorisation study](https://catalogues.ema.europa.eu/study/1000000519)
 
-**This page was last updated on** 28/04/2025
+**This page was last updated on** 23/01/2026
 
 ## Share this page
 

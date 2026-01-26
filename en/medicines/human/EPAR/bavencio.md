@@ -1,18 +1,18 @@
 ---
-document_datetime: 2025-12-29 12:23:46
+document_datetime: 2026-01-22 14:12:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/bavencio.html
 document_name: bavencio.html
 version: success
-processing_time: 0.1240307
-conversion_datetime: 2025-12-29 23:02:19.556674
+processing_time: 0.1274969
+conversion_datetime: 2026-01-26 20:22:42.495476
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.66.0
-  docling-core: 2.57.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.10.0
+  docling-jobkit: 1.8.1
+  docling: 2.70.0
+  docling-core: 2.60.2
+  docling-ibm-models: 3.11.0
+  docling-parse: 4.7.3
   python: cpython-313 (3.13.11)
   plaform: macOS-26.2-arm64-arm-64bit-Mach-O
 ---
@@ -25,8 +25,6 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 avelumab Medicine Human Authorised
-
-On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -136,7 +134,7 @@ English (EN) (158.66 KB - PDF)
 
 [View](/en/documents/overview/bavencio-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-238)
+[Other languages (22)](#file-language-dropdown-967)
 
 български (BG) (175.23 KB - PDF)
 
@@ -404,11 +402,11 @@ svenska (SV) (145.35 KB - PDF)
 
 Bavencio : EPAR - Risk management plan
 
-English (EN) (2.95 MB - PDF)
+English (EN) (2.93 MB - PDF)
 
 **First published:** 04/11/2019
 
-**Last updated:** 07/05/2025
+**Last updated:** 22/01/2026
 
 [View](/en/documents/rmp/bavencio-epar-risk-management-plan_en.pdf)
 
@@ -416,17 +414,17 @@ English (EN) (2.95 MB - PDF)
 
 Bavencio : EPAR - Product Information
 
-English (EN) (556.38 KB - PDF)
+English (EN) (561.3 KB - PDF)
 
 **First published:** 13/10/2017
 
-**Last updated:** 07/05/2025
+**Last updated:** 22/01/2026
 
 [View](/en/documents/product-information/bavencio-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-466)
+[Other languages (24)](#file-language-dropdown-203)
 
-български (BG) (738.2 KB - PDF)
+български (BG) (741.26 KB - PDF)
 
 **First published:**
 
@@ -434,11 +432,11 @@ English (EN) (556.38 KB - PDF)
 
 **Last updated:**
 
-07/05/2025
+22/01/2026
 
 [View](/bg/documents/product-information/bavencio-epar-product-information_bg.pdf)
 
-español (ES) (628.51 KB - PDF)
+español (ES) (845.69 KB - PDF)
 
 **First published:**
 
@@ -446,11 +444,11 @@ español (ES) (628.51 KB - PDF)
 
 **Last updated:**
 
-07/05/2025
+22/01/2026
 
 [View](/es/documents/product-information/bavencio-epar-product-information_es.pdf)
 
-čeština (CS) (840.53 KB - PDF)
+čeština (CS) (1.97 MB - PDF)
 
 **First published:**
 
@@ -458,11 +456,11 @@ español (ES) (628.51 KB - PDF)
 
 **Last updated:**
 
-07/05/2025
+22/01/2026
 
 [View](/cs/documents/product-information/bavencio-epar-product-information_cs.pdf)
 
-dansk (DA) (568.53 KB - PDF)
+dansk (DA) (569.79 KB - PDF)
 
 **First published:**
 
@@ -470,11 +468,11 @@ dansk (DA) (568.53 KB - PDF)
 
 **Last updated:**
 
-07/05/2025
+22/01/2026
 
 [View](/da/documents/product-information/bavencio-epar-product-information_da.pdf)
 
-Deutsch (DE) (653.27 KB - PDF)
+Deutsch (DE) (657.23 KB - PDF)
 
 **First published:**
 
@@ -482,11 +480,11 @@ Deutsch (DE) (653.27 KB - PDF)
 
 **Last updated:**
 
-07/05/2025
+22/01/2026
 
 [View](/de/documents/product-information/bavencio-epar-product-information_de.pdf)
 
-eesti keel (ET) (593.63 KB - PDF)
+eesti keel (ET) (594.66 KB - PDF)
 
 **First published:**
 
@@ -494,11 +492,11 @@ eesti keel (ET) (593.63 KB - PDF)
 
 **Last updated:**
 
-07/05/2025
+22/01/2026
 
 [View](/et/documents/product-information/bavencio-epar-product-information_et.pdf)
 
-ελληνικά (EL) (733.28 KB - PDF)
+ελληνικά (EL) (736.77 KB - PDF)
 
 **First published:**
 
@@ -506,11 +504,11 @@ eesti keel (ET) (593.63 KB - PDF)
 
 **Last updated:**
 
-07/05/2025
+22/01/2026
 
 [View](/el/documents/product-information/bavencio-epar-product-information_el.pdf)
 
-français (FR) (717.33 KB - PDF)
+français (FR) (1004.24 KB - PDF)
 
 **First published:**
 
@@ -518,11 +516,11 @@ français (FR) (717.33 KB - PDF)
 
 **Last updated:**
 
-07/05/2025
+22/01/2026
 
 [View](/fr/documents/product-information/bavencio-epar-product-information_fr.pdf)
 
-hrvatski (HR) (793.4 KB - PDF)
+hrvatski (HR) (861.78 KB - PDF)
 
 **First published:**
 
@@ -530,11 +528,11 @@ hrvatski (HR) (793.4 KB - PDF)
 
 **Last updated:**
 
-07/05/2025
+22/01/2026
 
 [View](/hr/documents/product-information/bavencio-epar-product-information_hr.pdf)
 
-íslenska (IS) (589.54 KB - PDF)
+íslenska (IS) (592.36 KB - PDF)
 
 **First published:**
 
@@ -542,11 +540,11 @@ hrvatski (HR) (793.4 KB - PDF)
 
 **Last updated:**
 
-07/05/2025
+22/01/2026
 
 [View](/is/documents/product-information/bavencio-epar-product-information_is.pdf)
 
-italiano (IT) (798.23 KB - PDF)
+italiano (IT) (655.12 KB - PDF)
 
 **First published:**
 
@@ -554,11 +552,11 @@ italiano (IT) (798.23 KB - PDF)
 
 **Last updated:**
 
-07/05/2025
+22/01/2026
 
 [View](/it/documents/product-information/bavencio-epar-product-information_it.pdf)
 
-latviešu valoda (LV) (698.46 KB - PDF)
+latviešu valoda (LV) (702.7 KB - PDF)
 
 **First published:**
 
@@ -566,11 +564,11 @@ latviešu valoda (LV) (698.46 KB - PDF)
 
 **Last updated:**
 
-07/05/2025
+22/01/2026
 
 [View](/lv/documents/product-information/bavencio-epar-product-information_lv.pdf)
 
-lietuvių kalba (LT) (699.42 KB - PDF)
+lietuvių kalba (LT) (703.31 KB - PDF)
 
 **First published:**
 
@@ -578,11 +576,11 @@ lietuvių kalba (LT) (699.42 KB - PDF)
 
 **Last updated:**
 
-07/05/2025
+22/01/2026
 
 [View](/lt/documents/product-information/bavencio-epar-product-information_lt.pdf)
 
-magyar (HU) (821.63 KB - PDF)
+magyar (HU) (942.1 KB - PDF)
 
 **First published:**
 
@@ -590,11 +588,11 @@ magyar (HU) (821.63 KB - PDF)
 
 **Last updated:**
 
-07/05/2025
+22/01/2026
 
 [View](/hu/documents/product-information/bavencio-epar-product-information_hu.pdf)
 
-Malti (MT) (718.86 KB - PDF)
+Malti (MT) (723.85 KB - PDF)
 
 **First published:**
 
@@ -602,11 +600,11 @@ Malti (MT) (718.86 KB - PDF)
 
 **Last updated:**
 
-07/05/2025
+22/01/2026
 
 [View](/mt/documents/product-information/bavencio-epar-product-information_mt.pdf)
 
-Nederlands (NL) (587.59 KB - PDF)
+Nederlands (NL) (591.15 KB - PDF)
 
 **First published:**
 
@@ -614,11 +612,11 @@ Nederlands (NL) (587.59 KB - PDF)
 
 **Last updated:**
 
-07/05/2025
+22/01/2026
 
 [View](/nl/documents/product-information/bavencio-epar-product-information_nl.pdf)
 
-norsk (NO) (580.69 KB - PDF)
+norsk (NO) (584.06 KB - PDF)
 
 **First published:**
 
@@ -626,11 +624,11 @@ norsk (NO) (580.69 KB - PDF)
 
 **Last updated:**
 
-07/05/2025
+22/01/2026
 
 [View](/no/documents/product-information/bavencio-epar-product-information_no.pdf)
 
-polski (PL) (711.7 KB - PDF)
+polski (PL) (713.89 KB - PDF)
 
 **First published:**
 
@@ -638,11 +636,11 @@ polski (PL) (711.7 KB - PDF)
 
 **Last updated:**
 
-07/05/2025
+22/01/2026
 
 [View](/pl/documents/product-information/bavencio-epar-product-information_pl.pdf)
 
-português (PT) (596.27 KB - PDF)
+português (PT) (600.06 KB - PDF)
 
 **First published:**
 
@@ -650,11 +648,11 @@ português (PT) (596.27 KB - PDF)
 
 **Last updated:**
 
-07/05/2025
+22/01/2026
 
 [View](/pt/documents/product-information/bavencio-epar-product-information_pt.pdf)
 
-română (RO) (711.9 KB - PDF)
+română (RO) (717.39 KB - PDF)
 
 **First published:**
 
@@ -662,11 +660,11 @@ română (RO) (711.9 KB - PDF)
 
 **Last updated:**
 
-07/05/2025
+22/01/2026
 
 [View](/ro/documents/product-information/bavencio-epar-product-information_ro.pdf)
 
-slovenčina (SK) (835.45 KB - PDF)
+slovenčina (SK) (699.64 KB - PDF)
 
 **First published:**
 
@@ -674,11 +672,11 @@ slovenčina (SK) (835.45 KB - PDF)
 
 **Last updated:**
 
-07/05/2025
+22/01/2026
 
 [View](/sk/documents/product-information/bavencio-epar-product-information_sk.pdf)
 
-slovenščina (SL) (842.24 KB - PDF)
+slovenščina (SL) (698.21 KB - PDF)
 
 **First published:**
 
@@ -686,11 +684,11 @@ slovenščina (SL) (842.24 KB - PDF)
 
 **Last updated:**
 
-07/05/2025
+22/01/2026
 
 [View](/sl/documents/product-information/bavencio-epar-product-information_sl.pdf)
 
-Suomi (FI) (603.66 KB - PDF)
+Suomi (FI) (605.99 KB - PDF)
 
 **First published:**
 
@@ -698,11 +696,11 @@ Suomi (FI) (603.66 KB - PDF)
 
 **Last updated:**
 
-07/05/2025
+22/01/2026
 
 [View](/fi/documents/product-information/bavencio-epar-product-information_fi.pdf)
 
-svenska (SV) (684.25 KB - PDF)
+svenska (SV) (823.17 KB - PDF)
 
 **First published:**
 
@@ -710,11 +708,11 @@ svenska (SV) (684.25 KB - PDF)
 
 **Last updated:**
 
-07/05/2025
+22/01/2026
 
 [View](/sv/documents/product-information/bavencio-epar-product-information_sv.pdf)
 
-**Latest procedure affecting product information:** II/0051 13/03/2025
+**Latest procedure affecting product information:** VR/0000279701 27/11/2025
 
 icon globe
 
@@ -740,7 +738,7 @@ English (EN) (11.79 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/bavencio-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-296)
+[Other languages (24)](#file-language-dropdown-35)
 
 български (BG) (33.15 KB - PDF)
 
@@ -1055,7 +1053,7 @@ Merck Europe B.V.
 
 Gustav Mahlerplein 102
 
-Opinion adopted 20/07/2017 Marketing authorisation issued 18/09/2017 Revision 21
+Opinion adopted 20/07/2017 Marketing authorisation issued 18/09/2017 Revision 22
 
 ## Assessment history
 
@@ -1067,13 +1065,21 @@ Collapse section
 
 Bavencio : EPAR - Procedural steps taken and scientific information after authorisation
 
+English (EN) (164.06 KB - PDF)
+
+**First published:** 22/01/2026
+
+[View](/en/documents/procedural-steps-after/bavencio-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf)
+
+Bavencio : EPAR - Procedural steps taken and scientific information after authorisation (archive)
+
 English (EN) (248.62 KB - PDF)
 
 **First published:** 17/01/2018
 
-**Last updated:** 07/05/2025
+**Last updated:** 22/01/2026
 
-[View](/en/documents/procedural-steps-after/bavencio-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf)
+[View](/en/documents/procedural-steps-after/bavencio-epar-procedural-steps-taken-scientific-information-after-authorisation-archive_en.pdf)
 
 Bavencio-H-C-PSUSA-00010635-202303 : EPAR - Scientific conclusions and grounds for the variation to the terms of the marketing authorisation
 
@@ -1225,7 +1231,7 @@ This product is no longer an orphan medicine. It was originally designated an [o
 
 - [Medicines](https://www.ema.europa.eu/en/search?f%5B0%5D=ema_search_topics%3A61)
 
-**This page was last updated on** 07/05/2025
+**This page was last updated on** 22/01/2026
 
 ## Share this page
 

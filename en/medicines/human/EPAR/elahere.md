@@ -1,18 +1,18 @@
 ---
-document_datetime: 2025-12-29 07:05:32
+document_datetime: 2026-01-23 16:15:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/elahere.html
 document_name: elahere.html
 version: success
-processing_time: 0.0955079
-conversion_datetime: 2025-12-30 20:23:21.32804
+processing_time: 0.6711719
+conversion_datetime: 2026-01-26 20:20:49.02061
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.66.0
-  docling-core: 2.57.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.10.0
+  docling-jobkit: 1.8.1
+  docling: 2.70.0
+  docling-core: 2.60.2
+  docling-ibm-models: 3.11.0
+  docling-parse: 4.7.3
   python: cpython-313 (3.13.11)
   plaform: macOS-26.2-arm64-arm-64bit-Mach-O
 ---
@@ -25,8 +25,6 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 mirvetuximab soravtansine Medicine Human Authorised
-
-On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -118,17 +116,17 @@ English (EN) (934.52 KB - PDF)
 
 Elahere : EPAR - Product Information
 
-English (EN) (262.27 KB - PDF)
+English (EN) (403.5 KB - PDF)
 
 **First published:** 10/12/2024
 
-**Last updated:** 20/08/2025
+**Last updated:** 23/01/2026
 
 [View](/en/documents/product-information/elahere-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-655)
+[Other languages (24)](#file-language-dropdown-135)
 
-български (BG) (336.12 KB - PDF)
+български (BG) (451.77 KB - PDF)
 
 **First published:**
 
@@ -136,11 +134,11 @@ English (EN) (262.27 KB - PDF)
 
 **Last updated:**
 
-20/08/2025
+23/01/2026
 
 [View](/bg/documents/product-information/elahere-epar-product-information_bg.pdf)
 
-español (ES) (265.27 KB - PDF)
+español (ES) (364.21 KB - PDF)
 
 **First published:**
 
@@ -148,11 +146,11 @@ español (ES) (265.27 KB - PDF)
 
 **Last updated:**
 
-20/08/2025
+23/01/2026
 
 [View](/es/documents/product-information/elahere-epar-product-information_es.pdf)
 
-čeština (CS) (326.18 KB - PDF)
+čeština (CS) (436.39 KB - PDF)
 
 **First published:**
 
@@ -160,11 +158,11 @@ español (ES) (265.27 KB - PDF)
 
 **Last updated:**
 
-20/08/2025
+23/01/2026
 
 [View](/cs/documents/product-information/elahere-epar-product-information_cs.pdf)
 
-dansk (DA) (269.32 KB - PDF)
+dansk (DA) (409.26 KB - PDF)
 
 **First published:**
 
@@ -172,11 +170,11 @@ dansk (DA) (269.32 KB - PDF)
 
 **Last updated:**
 
-20/08/2025
+23/01/2026
 
 [View](/da/documents/product-information/elahere-epar-product-information_da.pdf)
 
-Deutsch (DE) (293.03 KB - PDF)
+Deutsch (DE) (455.87 KB - PDF)
 
 **First published:**
 
@@ -184,11 +182,11 @@ Deutsch (DE) (293.03 KB - PDF)
 
 **Last updated:**
 
-20/08/2025
+23/01/2026
 
 [View](/de/documents/product-information/elahere-epar-product-information_de.pdf)
 
-eesti keel (ET) (267.85 KB - PDF)
+eesti keel (ET) (351.76 KB - PDF)
 
 **First published:**
 
@@ -196,11 +194,11 @@ eesti keel (ET) (267.85 KB - PDF)
 
 **Last updated:**
 
-20/08/2025
+23/01/2026
 
 [View](/et/documents/product-information/elahere-epar-product-information_et.pdf)
 
-ελληνικά (EL) (328.51 KB - PDF)
+ελληνικά (EL) (448.24 KB - PDF)
 
 **First published:**
 
@@ -208,11 +206,11 @@ eesti keel (ET) (267.85 KB - PDF)
 
 **Last updated:**
 
-20/08/2025
+23/01/2026
 
 [View](/el/documents/product-information/elahere-epar-product-information_el.pdf)
 
-français (FR) (316.75 KB - PDF)
+français (FR) (452.4 KB - PDF)
 
 **First published:**
 
@@ -220,11 +218,11 @@ français (FR) (316.75 KB - PDF)
 
 **Last updated:**
 
-20/08/2025
+23/01/2026
 
 [View](/fr/documents/product-information/elahere-epar-product-information_fr.pdf)
 
-hrvatski (HR) (305.61 KB - PDF)
+hrvatski (HR) (423.2 KB - PDF)
 
 **First published:**
 
@@ -232,11 +230,11 @@ hrvatski (HR) (305.61 KB - PDF)
 
 **Last updated:**
 
-20/08/2025
+23/01/2026
 
 [View](/hr/documents/product-information/elahere-epar-product-information_hr.pdf)
 
-íslenska (IS) (263.84 KB - PDF)
+íslenska (IS) (406.7 KB - PDF)
 
 **First published:**
 
@@ -244,11 +242,11 @@ hrvatski (HR) (305.61 KB - PDF)
 
 **Last updated:**
 
-20/08/2025
+23/01/2026
 
 [View](/is/documents/product-information/elahere-epar-product-information_is.pdf)
 
-italiano (IT) (284.74 KB - PDF)
+italiano (IT) (365.69 KB - PDF)
 
 **First published:**
 
@@ -256,11 +254,11 @@ italiano (IT) (284.74 KB - PDF)
 
 **Last updated:**
 
-20/08/2025
+23/01/2026
 
 [View](/it/documents/product-information/elahere-epar-product-information_it.pdf)
 
-latviešu valoda (LV) (316.18 KB - PDF)
+latviešu valoda (LV) (431.81 KB - PDF)
 
 **First published:**
 
@@ -268,11 +266,11 @@ latviešu valoda (LV) (316.18 KB - PDF)
 
 **Last updated:**
 
-20/08/2025
+23/01/2026
 
 [View](/lv/documents/product-information/elahere-epar-product-information_lv.pdf)
 
-lietuvių kalba (LT) (317.31 KB - PDF)
+lietuvių kalba (LT) (431.77 KB - PDF)
 
 **First published:**
 
@@ -280,11 +278,11 @@ lietuvių kalba (LT) (317.31 KB - PDF)
 
 **Last updated:**
 
-20/08/2025
+23/01/2026
 
 [View](/lt/documents/product-information/elahere-epar-product-information_lt.pdf)
 
-magyar (HU) (314.46 KB - PDF)
+magyar (HU) (431.88 KB - PDF)
 
 **First published:**
 
@@ -292,11 +290,11 @@ magyar (HU) (314.46 KB - PDF)
 
 **Last updated:**
 
-20/08/2025
+23/01/2026
 
 [View](/hu/documents/product-information/elahere-epar-product-information_hu.pdf)
 
-Malti (MT) (345.28 KB - PDF)
+Malti (MT) (455.2 KB - PDF)
 
 **First published:**
 
@@ -304,11 +302,11 @@ Malti (MT) (345.28 KB - PDF)
 
 **Last updated:**
 
-20/08/2025
+23/01/2026
 
 [View](/mt/documents/product-information/elahere-epar-product-information_mt.pdf)
 
-Nederlands (NL) (266.69 KB - PDF)
+Nederlands (NL) (413.44 KB - PDF)
 
 **First published:**
 
@@ -316,11 +314,11 @@ Nederlands (NL) (266.69 KB - PDF)
 
 **Last updated:**
 
-20/08/2025
+23/01/2026
 
 [View](/nl/documents/product-information/elahere-epar-product-information_nl.pdf)
 
-norsk (NO) (259.19 KB - PDF)
+norsk (NO) (403.49 KB - PDF)
 
 **First published:**
 
@@ -328,11 +326,11 @@ norsk (NO) (259.19 KB - PDF)
 
 **Last updated:**
 
-20/08/2025
+23/01/2026
 
 [View](/no/documents/product-information/elahere-epar-product-information_no.pdf)
 
-polski (PL) (325.12 KB - PDF)
+polski (PL) (457.19 KB - PDF)
 
 **First published:**
 
@@ -340,11 +338,11 @@ polski (PL) (325.12 KB - PDF)
 
 **Last updated:**
 
-20/08/2025
+23/01/2026
 
 [View](/pl/documents/product-information/elahere-epar-product-information_pl.pdf)
 
-português (PT) (286.08 KB - PDF)
+português (PT) (423.5 KB - PDF)
 
 **First published:**
 
@@ -352,11 +350,11 @@ português (PT) (286.08 KB - PDF)
 
 **Last updated:**
 
-20/08/2025
+23/01/2026
 
 [View](/pt/documents/product-information/elahere-epar-product-information_pt.pdf)
 
-română (RO) (315.67 KB - PDF)
+română (RO) (428.08 KB - PDF)
 
 **First published:**
 
@@ -364,11 +362,11 @@ română (RO) (315.67 KB - PDF)
 
 **Last updated:**
 
-20/08/2025
+23/01/2026
 
 [View](/ro/documents/product-information/elahere-epar-product-information_ro.pdf)
 
-slovenčina (SK) (337.56 KB - PDF)
+slovenčina (SK) (445.62 KB - PDF)
 
 **First published:**
 
@@ -376,11 +374,11 @@ slovenčina (SK) (337.56 KB - PDF)
 
 **Last updated:**
 
-20/08/2025
+23/01/2026
 
 [View](/sk/documents/product-information/elahere-epar-product-information_sk.pdf)
 
-slovenščina (SL) (305.93 KB - PDF)
+slovenščina (SL) (416.32 KB - PDF)
 
 **First published:**
 
@@ -388,11 +386,11 @@ slovenščina (SL) (305.93 KB - PDF)
 
 **Last updated:**
 
-20/08/2025
+23/01/2026
 
 [View](/sl/documents/product-information/elahere-epar-product-information_sl.pdf)
 
-Suomi (FI) (265.77 KB - PDF)
+Suomi (FI) (361.79 KB - PDF)
 
 **First published:**
 
@@ -400,11 +398,11 @@ Suomi (FI) (265.77 KB - PDF)
 
 **Last updated:**
 
-20/08/2025
+23/01/2026
 
 [View](/fi/documents/product-information/elahere-epar-product-information_fi.pdf)
 
-svenska (SV) (259.16 KB - PDF)
+svenska (SV) (350.26 KB - PDF)
 
 **First published:**
 
@@ -412,11 +410,11 @@ svenska (SV) (259.16 KB - PDF)
 
 **Last updated:**
 
-20/08/2025
+23/01/2026
 
 [View](/sv/documents/product-information/elahere-epar-product-information_sv.pdf)
 
-**Latest procedure affecting product information:** VR/0000286590 20/08/2025
+**Latest procedure affecting product information:** VR/0000323227 22/01/2026
 
 icon globe
 
@@ -440,7 +438,7 @@ English (EN) (21.12 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/elahere-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-575)
+[Other languages (24)](#file-language-dropdown-334)
 
 български (BG) (27.93 KB - PDF)
 
@@ -670,7 +668,7 @@ AbbVie Deutschland GmbH &amp; Co. KG
 
 Knollstrasse 67061 Ludwigshafen Germany
 
-Opinion adopted 19/09/2024 Marketing authorisation issued 14/11/2024 Revision 1
+Opinion adopted 19/09/2024 Marketing authorisation issued 14/11/2024 Revision 2
 
 ## Assessment history
 
@@ -682,9 +680,11 @@ Collapse section
 
 Elahere : EPAR - Procedural steps taken and scientific information after authorisation
 
-English (EN) (152.31 KB - PDF)
+English (EN) (136.87 KB - PDF)
 
 **First published:** 20/08/2025
+
+**Last updated:** 23/01/2026
 
 [View](/en/documents/procedural-steps-after/elahere-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf)
 
@@ -744,7 +744,7 @@ English (EN) (101.53 KB - PDF)
 
 - [EU/3/15/1458 - orphan designation for treatment of ovarian cancer](/en/medicines/human/orphan-designations/eu-3-15-1458)
 
-**This page was last updated on** 02/10/2025
+**This page was last updated on** 23/01/2026
 
 ## Share this page
 

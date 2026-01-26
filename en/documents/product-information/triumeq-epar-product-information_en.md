@@ -1,17 +1,17 @@
 ---
-document_datetime: 2026-01-14 14:21:10
+document_datetime: 2026-01-26 13:26:28
 document_pages: 120
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/triumeq-epar-product-information_en.pdf
 document_name: triumeq-epar-product-information_en.pdf
 version: success
-processing_time: 46.0125455
-conversion_datetime: 2026-01-17 13:03:07.614764
+processing_time: 39.4622207
+conversion_datetime: 2026-01-26 20:27:42.440814
 docling_version:
   docling-serve: 1.10.0
   docling-jobkit: 1.8.1
-  docling: 2.68.0
-  docling-core: 2.59.0
-  docling-ibm-models: 3.10.3
+  docling: 2.70.0
+  docling-core: 2.60.2
+  docling-ibm-models: 3.11.0
   docling-parse: 4.7.3
   python: cpython-313 (3.13.11)
   plaform: macOS-26.2-arm64-arm-64bit-Mach-O
@@ -2406,7 +2406,7 @@ Triumeq 50 mg:600 mg:300 mg
 
 2D barcode carrying the unique identifier included.
 
-18. UNIQUE IDENTIFIER - HUMAN READABLE DATA
+## 18. UNIQUE IDENTIFIER - HUMAN READABLE DATA
 
 PC SN NN
 
@@ -2497,6 +2497,8 @@ OUTER CARTON 5 mg/60 mg/30 mg dispersible tablets
 
 Triumeq 5 mg/60 mg/30 mg dispersible tablets dolutegravir/abacavir/lamivudine
 
+For children aged 3 months or older (6 kg to less than 25 kg)
+
 ## 2. STATEMENT OF ACTIVE SUBSTANCE(S)
 
 Each dispersible tablet contains 5 mg dolutegravir (as sodium), 60 mg abacavir (as sulfate), 30 mg lamivudine.
@@ -2533,8 +2535,6 @@ Push here (with Alert card attached)
 
 ## 8. EXPIRY DATE
 
-EXP
-
 <div style=\"page-break-after: always\"></div>
 
 ## 9. SPECIAL STORAGE CONDITIONS
@@ -2545,7 +2545,11 @@ Store in the original package in order to protect from moisture. Keep the bottle
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
-ViiV Healthcare BV Van Asch van Wijckstraat 55H 3811 LP Amersfoort Netherlands
+Van Asch van Wijckstraat 55H
+
+ViiV Healthcare BV 3811 LP Amersfoort
+
+Netherlands
 
 ## 12. MARKETING AUTHORISATION NUMBER(S)
 
@@ -2555,9 +2559,11 @@ EU/1/14/940/003
 
 Lot
 
-14. GENERAL CLASSIFICATION FOR SUPPLY
+## 14. GENERAL CLASSIFICATION FOR SUPPLY
+
 15. INSTRUCTIONS ON USE
-16. INFORMATION IN BRAILLE
+
+## 16. INFORMATION IN BRAILLE
 
 triumeq 5 mg:60 mg:30 mg
 
@@ -3175,19 +3181,45 @@ Teл.: +
 
 ## Česká republika
 
+## Lietuva
+
+ViiV Healthcare BV
+
+Tel: + 370 80000334
+
+## Luxembourg/Luxemburg
+
+ViiV Healthcare srl/bv
+
+Belgique/Belgien
+
+Tél/Tel: + 32 (0) 10 85 65 00
+
+## Magyarország
+
 GlaxoSmithKline, s.r.o.
 
 Tel: + 420 222 001 111
 
 cz.info@gsk.com
 
+ViiV Healthcare BV
+
+Tel.: + 36 80088309
+
 ## Danmark
+
+## Malta
 
 GlaxoSmithKline Pharma A/S
 
 Tlf.: + 45 36 35 91 00
 
 dk-info@gsk.com
+
+ViiV Healthcare BV
+
+Tel: + 356 80065004
 
 ## Deutschland
 
@@ -3217,34 +3249,6 @@ Tel: + 34 900 923 501
 
 es-ci@viivhealthcare.com
 
-## France
-
-## Lietuva
-
-ViiV Healthcare BV
-
-Tel: + 370 80000334
-
-## Luxembourg/Luxemburg
-
-ViiV Healthcare srl/bv
-
-Belgique/Belgien
-
-Tél/Tel: + 32 (0) 10 85 65 00
-
-## Magyarország
-
-ViiV Healthcare BV
-
-Tel.: + 36 80088309
-
-## Malta
-
-ViiV Healthcare BV
-
-Tel: + 356 80065004
-
 ## Nederland
 
 ViiV Healthcare BV
@@ -3271,6 +3275,10 @@ GSK Services Sp. z o.o.
 
 Tel.: + 48 (0)22 576 9000
 
+<div style=\"page-break-after: always\"></div>
+
+## France
+
 ## Portugal
 
 ViiV Healthcare SAS
@@ -3279,7 +3287,7 @@ Tél.: + 33 (0)1 39 17 69 69
 
 Infomed@viivhealthcare.com
 
-<div style=\"page-break-after: always\"></div>
+VIIVHIV HEALTHCARE, UNIPESSOAL, LDA Tel: + 351 21 094 08 01 viiv.fi.pt@viivhealthcare.com
 
 ## Hrvatska
 
@@ -3287,11 +3295,23 @@ ViiV Healthcare BV
 
 Tel: + 385 800787089
 
+## România
+
+ViiV Healthcare BV
+
+Tel: + 40800672524
+
 ## Ireland
 
 GlaxoSmithKline (Ireland) Limited
 
 Tel: + 353 (0)1 4955000
+
+## Slovenija
+
+ViiV Healthcare BV
+
+Tel: + 386 80688869
 
 ## Ísland
 
@@ -3299,11 +3319,23 @@ Vistor ehf.
 
 Sími: +354 535 7000
 
+## Slovenská republika
+
+ViiV Healthcare BV
+
+Tel: + 421 800500589
+
 ## Italia
 
 ViiV Healthcare S.r.l
 
 Tel: + 39 (0)45 7741600
+
+## Suomi/Finland
+
+GlaxoSmithKline Oy
+
+Puh/Tel: + 358 (0)10 30 30 30
 
 ## Κύπρος
 
@@ -3312,6 +3344,14 @@ ViiV Healthcare BV
 Τηλ:
 
 + 357 80070017
+
+## Sverige
+
+GlaxoSmithKline AB
+
+Tel: + 46 (0)8 638 93 00
+
+info.produkt@gsk.com
 
 ## Latvija
 
@@ -3324,40 +3364,6 @@ Tel: + 371 80205045
 ## Other sources of information
 
 Detailed information on this medicine is available on the European Medicines Agency web site: https://www.ema.europa.eu.
-
-VIIVHIV HEALTHCARE, UNIPESSOAL, LDA Tel: + 351 21 094 08 01 viiv.fi.pt@viivhealthcare.com
-
-## România
-
-ViiV Healthcare BV
-
-Tel: + 40800672524
-
-## Slovenija
-
-ViiV Healthcare BV
-
-Tel: + 386 80688869
-
-## Slovenská republika
-
-ViiV Healthcare BV
-
-Tel: + 421 800500589
-
-## Suomi/Finland
-
-GlaxoSmithKline Oy
-
-Puh/Tel: + 358 (0)10 30 30 30
-
-## Sverige
-
-GlaxoSmithKline AB
-
-Tel: + 46 (0)8 638 93 00
-
-info.produkt@gsk.com
 
 <div style=\"page-break-after: always\"></div>
 
@@ -3751,7 +3757,7 @@ In rare cases, as the immune system becomes stronger, it can also attack healthy
 
 If the child gets any symptoms of infection and inflammation or if you notice any of the symptoms above:
 
-- → Tell your doctor immediately . Don't give other medicines for the infection without your doctor's advice.
+→ Tell your doctor immediately . Don't give other medicines for the infection without your doctor's advice.
 
 ## Joint pain, stiffness and bone problems
 
@@ -3781,9 +3787,9 @@ During HIV therapy there may be an increase in weight and in levels of blood lip
 
 If you get any side effects, talk to your doctor or pharmacist. This includes any possible side effects not listed in this leaflet. You can also report side effects directly via the national reporting system listed in Appendix V. By reporting side effects you can help provide more information on the safety of this medicine.
 
-## 5. How to store Triumeq
-
 <div style=\"page-break-after: always\"></div>
+
+## 5. How to store Triumeq
 
 Keep this medicine out of the sight and reach of children.
 
@@ -3825,11 +3831,9 @@ For any information about this medicine, please contact the local representative
 
 ## België/Belgique/Belgien
 
-ViiV Healthcare srl/bv
+ViiV Healthcare srl/bv Tél/Tel: + 32 (0) 10 85 65 00
 
-Tél/Tel: + 32 (0) 10 85 65 00
-
-## Lietuva
+Lietuva
 
 ViiV Healthcare BV
 
@@ -3845,19 +3849,23 @@ Teл.: +
 
 ## Luxembourg/Luxemburg
 
-ViiV Healthcare srl/bv Belgique/Belgien Tél/Tel: + 32 (0) 10 85 65 00
+ViiV Healthcare srl/bv Belgique/Belgien
 
-Česká republika GlaxoSmithKline, s.r.o. Tel: + 420 222 001 111
+Tél/Tel: + 32 (0) 10 85 65 00
+
+## Česká republika
+
+GlaxoSmithKline, s.r.o.
 
 ## Magyarország
 
 ViiV Healthcare BV
 
-Tel.: + 36 80088309
-
-<div style=\"page-break-after: always\"></div>
+Tel: + 420 222 001 111
 
 cz.info@gsk.com
+
+<div style=\"page-break-after: always\"></div>
 
 ## Danmark
 
@@ -3865,9 +3873,7 @@ GlaxoSmithKline Pharma A/S Tlf.: + 45 36 35 91 00 dk-info@gsk.com
 
 ## Deutschland
 
-ViiV Healthcare GmbH Tel.: + 49 (0)89 203 0038-10
-
-viiv.med.info@viivhealthcare.com
+ViiV Healthcare GmbH Tel.: + 49 (0)89 203 0038-10 viiv.med.info@viivhealthcare.com
 
 ## Eesti
 
@@ -3905,15 +3911,11 @@ ViiV Healthcare S.r.l Tel: + 39 (0)45 7741600
 
 ViiV Healthcare BV Τηλ: + 357 80070017
 
-## Latvija
-
-ViiV Healthcare BV Tel: + 371 80205045
+Tel.: + 36 80088309
 
 ## Malta
 
-ViiV Healthcare BV
-
-Tel: + 356 80065004
+ViiV Healthcare BV Tel: + 356 80065004
 
 ## Nederland
 
@@ -3929,9 +3931,7 @@ GlaxoSmithKline Pharma GmbH Tel: + 43 (0)1 97075 0 at.info@gsk.com
 
 ## Polska
 
-GSK Services Sp. z o.o.
-
-Tel.: + 48 (0)22 576 9000
+GSK Services Sp. z o.o. Tel.: + 48 (0)22 576 9000
 
 ## Portugal
 
@@ -3956,6 +3956,12 @@ GlaxoSmithKline Oy Puh/Tel: + 358 (0)10 30 30 30
 ## Sverige
 
 GlaxoSmithKline AB Tel: + 46 (0)8 638 93 00 info.produkt@gsk.com
+
+## Latvija
+
+ViiV Healthcare BV
+
+Tel: + 371 80205045
 
 <div style=\"page-break-after: always\"></div>
 

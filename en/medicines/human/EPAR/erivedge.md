@@ -1,18 +1,18 @@
 ---
-document_datetime: 2025-12-29 14:35:22
+document_datetime: 2026-01-22 14:22:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/erivedge.html
 document_name: erivedge.html
 version: success
-processing_time: 0.1180532
-conversion_datetime: 2025-12-30 20:30:58.834742
+processing_time: 0.1189449
+conversion_datetime: 2026-01-26 20:54:32.146915
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.66.0
-  docling-core: 2.57.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.10.0
+  docling-jobkit: 1.8.1
+  docling: 2.70.0
+  docling-core: 2.60.2
+  docling-ibm-models: 3.11.0
+  docling-parse: 4.7.3
   python: cpython-313 (3.13.11)
   plaform: macOS-26.2-arm64-arm-64bit-Mach-O
 ---
@@ -25,8 +25,6 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 vismodegib Medicine Human Authorised
-
-On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -103,7 +101,7 @@ English (EN) (77.3 KB - PDF)
 
 [View](/en/documents/overview/erivedge-epar-summary-public_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-335)
+[Other languages (22)](#file-language-dropdown-304)
 
 български (BG) (103.23 KB - PDF)
 
@@ -369,13 +367,15 @@ svenska (SV) (73.94 KB - PDF)
 
 [View](/sv/documents/overview/erivedge-epar-summary-public_sv.pdf)
 
-Erivedge : EPAR - Risk-management-plan summary
+Erivedge : EPAR - Risk management plan
 
-English (EN) (97.55 KB - PDF)
+English (EN) (495.57 KB - PDF)
 
 **First published:** 13/10/2020
 
-[View](/en/documents/rmp-summary/erivedge-epar-risk-management-plan-summary_en.pdf)
+**Last updated:** 22/01/2026
+
+[View](/en/documents/rmp/erivedge-epar-risk-management-plan_en.pdf)
 
 ## Product information
 
@@ -389,7 +389,7 @@ English (EN) (187.67 KB - PDF)
 
 [View](/en/documents/product-information/erivedge-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-582)
+[Other languages (24)](#file-language-dropdown-619)
 
 български (BG) (470.69 KB - PDF)
 
@@ -705,7 +705,7 @@ English (EN) (25.63 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/erivedge-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-171)
+[Other languages (24)](#file-language-dropdown-596)
 
 български (BG) (48.7 KB - PDF)
 
@@ -1015,7 +1015,7 @@ Roche Registration GmbH
 
 Emil-Barell-Strasse 1 79639 Grenzach-Wyhlen Germany
 
-Opinion adopted 25/04/2013 Marketing authorisation issued 12/07/2013 Revision 16
+Opinion adopted 25/04/2013 Marketing authorisation issued 12/07/2013 Revision 17
 
 ## Assessment history
 
@@ -1123,7 +1123,7 @@ English (EN) (64.54 KB - PDF)
 
 - [Medicines](https://www.ema.europa.eu/en/search?f%5B0%5D=ema_search_topics%3A61)
 
-**This page was last updated on** 05/11/2025
+**This page was last updated on** 22/01/2026
 
 ## Share this page
 

@@ -1,18 +1,18 @@
 ---
-document_datetime: 2026-01-12 14:18:00
+document_datetime: 2026-01-26 18:00:35
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/libmyris.html
 document_name: libmyris.html
 version: success
-processing_time: 0.1228411
-conversion_datetime: 2026-01-14 07:20:29.781935
+processing_time: 0.1321532
+conversion_datetime: 2026-01-26 20:22:56.414266
 docling_version:
   docling-serve: 1.10.0
   docling-jobkit: 1.8.1
-  docling: 2.68.0
-  docling-core: 2.59.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling: 2.70.0
+  docling-core: 2.60.2
+  docling-ibm-models: 3.11.0
+  docling-parse: 4.7.3
   python: cpython-313 (3.13.11)
   plaform: macOS-26.2-arm64-arm-64bit-Mach-O
 ---
@@ -126,7 +126,7 @@ English (EN) (137.53 KB - PDF)
 
 [View](/en/documents/overview/libmyris-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-152)
+[Other languages (22)](#file-language-dropdown-931)
 
 български (BG) (171.43 KB - PDF)
 
@@ -324,7 +324,7 @@ English (EN) (3.63 MB - PDF)
 
 [View](/en/documents/product-information/libmyris-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-521)
+[Other languages (24)](#file-language-dropdown-878)
 
 български (BG) (3.76 MB - PDF)
 
@@ -640,7 +640,7 @@ English (EN) (64.29 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/libmyris-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-120)
+[Other languages (24)](#file-language-dropdown-634)
 
 български (BG) (81.23 KB - PDF)
 

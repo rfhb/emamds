@@ -1,20 +1,20 @@
 ---
-document_datetime: 2024-12-18 16:51:32
-document_pages: 29
+document_datetime: 2026-01-23 13:27:38
+document_pages: 28
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/travatan-epar-product-information_en.pdf
 document_name: travatan-epar-product-information_en.pdf
 version: success
-processing_time: 5.8789456
-conversion_datetime: 2025-12-14 22:30:47.400424
+processing_time: 6.1716185
+conversion_datetime: 2026-01-26 20:22:14.138398
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.64.1
-  docling-core: 2.55.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.10.0
+  docling-jobkit: 1.8.1
+  docling: 2.70.0
+  docling-core: 2.60.2
+  docling-ibm-models: 3.11.0
+  docling-parse: 4.7.3
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.1-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
 ---
 ## ANNEX I
 
@@ -181,29 +181,30 @@ The following adverse reactions are classified according to the following conven
 | Immune system disorders | Uncommon      | hypersensitivity, seasonal allergy                 |
 | Psychiatric disorders   | Not known     | depression, anxiety, insomnia                      |
 | Nervous system disorder | Uncommon Rare | headache dizziness, visual field defect, dysgeusia |
+| Eye disorders           | Very common   | ocular hyperaemia                                  |
 
 <div style=\"page-break-after: always\"></div>
 
-| Eye disorders                                        | Very common             | ocular hyperaemia                                                                                                                                                                                                                                                                                  |
-|------------------------------------------------------|-------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Eye disorders                                        | Common                  | iris hyperpigmentation, eye pain, ocular discomfort, dry eye, eye pruritus, eye irritation corneal erosion, uveitis, iritis, anterior inflammation, keratitis, punctate keratitis,                                                                                                                 |
-| Eye disorders                                        | Uncommon                | chamber photophobia, eye discharge , blepharitis, erythema of eyelid, periorbital oedema, eyelids pruritus, visual acuity reduced, vision blurred, lacrimation increased, conjunctivitis, ectropion, cataract, eyelid margin crusting, growth of eyelashes                                         |
-| Eye disorders                                        | Rare                    | iridocyclitis, ophthalmic herpes simplex, eye inflammation, photopsia, eczema eyelids, conjunctival oedema, halo vision, conjunctival follicles, hypoaesthesia eye, trichiasis, meibomianitis, anterior chamber pigmentation, mydriasis, asthenopia, eyelash hyperpigmentation, eyelash thickening |
-| Eye disorders                                        | Not known               | macular oedema, lid sulcus deepened                                                                                                                                                                                                                                                                |
-| Ear and labyrinth disorders                          | Not known               | vertigo, tinnitus                                                                                                                                                                                                                                                                                  |
-| Cardiac disorders                                    | Uncommon Rare Not known | palpitations heart rate irregular, heart rate chest pain, bradycardia, tachycardia, arrhythmia                                                                                                                                                                                                     |
-| Cardiac disorders                                    |                         | decreased                                                                                                                                                                                                                                                                                          |
-| Vascular disorders                                   | Rare                    | blood pressure diastolic decreased, blood pressure systolic increased, hypotension, hypertension                                                                                                                                                                                                   |
-| Respiratory, thoracic and mediastinal disorders      | Uncommon Rare           | cough, nasal congestion, throat irritation dyspnoea, asthma, respiratory disorder, oropharyngeal pain, dysphonia, rhinitis allergic, nasal dryness                                                                                                                                                 |
-| Respiratory, thoracic and mediastinal disorders      | Not known               | asthma aggravated, epistaxis                                                                                                                                                                                                                                                                       |
-| Gastrointestinal disorders                           | Rare                    | peptic ulcer reactivated, gastrointestinal disorder, constipation, dry mouth                                                                                                                                                                                                                       |
-| Gastrointestinal disorders                           | Not known               | diarrhoea, abdominal pain, nausea, vomiting                                                                                                                                                                                                                                                        |
-| Skin and subcutaneous tissue disorders               | Uncommon Rare           | skin hyperpigmentation (periocular), skin discolouration, hair texture abnormal, hypertrichosis dermatitis allergic, dermatitis contact,                                                                                                                                                           |
-| Skin and subcutaneous tissue disorders               | Not known               | pruritus, hair growth abnormal                                                                                                                                                                                                                                                                     |
-| Musculoskeletal and connective tissue disorders      | Rare                    | musculoskeletal pain, arthralgia                                                                                                                                                                                                                                                                   |
-| Renal and urinary disorders                          | Not known               | dysuria, urinary incontinence                                                                                                                                                                                                                                                                      |
-| General disorders and administration site conditions | Rare                    | asthenia                                                                                                                                                                                                                                                                                           |
-| Investigations                                       | Not known               | prostatic specific antigen increased                                                                                                                                                                                                                                                               |
+|                                                 | Common        | iris hyperpigmentation, eye pain, ocular discomfort, dry eye, eye pruritus, eye irritation corneal erosion, uveitis, iritis, anterior chamber inflammation, keratitis, punctate keratitis, photophobia, eye discharge , blepharitis, erythema of eyelid, periorbital oedema, eyelids pruritus, visual acuity reduced, vision blurred, lacrimation increased, conjunctivitis, ectropion, cataract, eyelid   |
+|-------------------------------------------------|---------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+|                                                 | Uncommon      | margin crusting, growth of eyelashes                                                                                                                                                                                                                                                                                                                                                                       |
+|                                                 | Rare          | iridocyclitis, ophthalmic herpes simplex, eye inflammation, photopsia, eczema eyelids, conjunctival oedema, halo vision, conjunctival follicles, hypoaesthesia eye, trichiasis, meibomianitis, anterior chamber pigmentation, mydriasis, asthenopia, eyelash hyperpigmentation, eyelash thickening                                                                                                         |
+|                                                 | Not known     | macular oedema, lid sulcus deepened                                                                                                                                                                                                                                                                                                                                                                        |
+| Ear and labyrinth disorders                     | Not known     | vertigo, tinnitus                                                                                                                                                                                                                                                                                                                                                                                          |
+| Cardiac disorders                               | Uncommon      | palpitations                                                                                                                                                                                                                                                                                                                                                                                               |
+| Cardiac disorders                               | Rare          | heart rate irregular, heart rate decreased                                                                                                                                                                                                                                                                                                                                                                 |
+| Vascular disorders                              | Rare          | blood pressure diastolic decreased, blood pressure systolic increased, hypotension, hypertension                                                                                                                                                                                                                                                                                                           |
+| Respiratory, thoracic and mediastinal disorders | Uncommon Rare | cough, nasal congestion, throat irritation dyspnoea, asthma, respiratory disorder, oropharyngeal pain, dysphonia, rhinitis allergic, nasal dryness                                                                                                                                                                                                                                                         |
+| Respiratory, thoracic and mediastinal disorders | Not known     | asthma aggravated, epistaxis                                                                                                                                                                                                                                                                                                                                                                               |
+| Gastrointestinal disorders                      | Rare          | peptic ulcer reactivated, gastrointestinal disorder, constipation, dry mouth                                                                                                                                                                                                                                                                                                                               |
+| Gastrointestinal disorders                      | Not known     | diarrhoea, abdominal pain, nausea, vomiting                                                                                                                                                                                                                                                                                                                                                                |
+| Skin and subcutaneous tissue disorders          | Uncommon Rare | skin hyperpigmentation (periocular), skin discolouration, hair texture abnormal, hypertrichosis dermatitis allergic, dermatitis contact, erythema, rash, hair colour changes,                                                                                                                                                                                                                              |
+| Skin and subcutaneous tissue disorders          | Not known     | pruritus, hair growth abnormal                                                                                                                                                                                                                                                                                                                                                                             |
+| Musculoskeletal and connective tissue disorders | Rare          | musculoskeletal pain, arthralgia                                                                                                                                                                                                                                                                                                                                                                           |
+| Renal and urinary                               | known         | dysuria, urinary incontinence                                                                                                                                                                                                                                                                                                                                                                              |
+| disorders General disorders and                 | Not Rare      | asthenia                                                                                                                                                                                                                                                                                                                                                                                                   |
+| conditions Investigations                       | known         | prostatic specific antigen increased                                                                                                                                                                                                                                                                                                                                                                       |
+|                                                 | Not           |                                                                                                                                                                                                                                                                                                                                                                                                            |
 
 <div style=\"page-break-after: always\"></div>
 
@@ -261,7 +262,7 @@ The effect on IOP was seen after the second week of treatment and was consistent
 
 SE = Standard Error; CI = Confidence Interval;
 
-a Mean difference is Travoprost - Timolol. Estimates based on least squares means derived from a statistical model that accounts for correlated IOP measurements within patient where primary diagnosis and baseline IOP stratum are in the model.
+a Mean difference is Travoprost -Timolol. Estimates based on least squares means derived from a statistical model that accounts for correlated IOP measurements within patient where primary diagnosis and baseline IOP stratum are in the model.
 
 ## 5.2 Pharmacokinetic properties
 
@@ -269,11 +270,13 @@ a Mean difference is Travoprost - Timolol. Estimates based on least squares mean
 
 Travoprost is an ester prodrug. It is absorbed through the cornea where the isopropyl ester is hydrolysed to the active free acid. Studies in rabbits have shown peak concentrations of 20 ng/mL of the free acid in aqueous humour one to two hours after topical dosing of TRAVATAN. Aqueous humour concentrations declined with a half-life of approximately 1.5 hours.
 
-<div style=\"page-break-after: always\"></div>
-
 ## Distribution
 
-Following topical ocular administration of TRAVATAN to healthy volunteers, low systemic exposure to active free acid was demonstrated. Peak active free acid plasma concentrations of 25 pg/mL or less were observed between 10 and 30 minutes post-dose. Thereafter, plasma levels declined rapidly to below the 10 pg/mL assay quantitation limit before 1 hour post-administration. Due to the low plasma concentrations and rapid elimination following topical dosing, the elimination half-life of active free acid in man could not be determined.
+Following topical ocular administration of TRAVATAN to healthy volunteers, low systemic exposure to active free acid was demonstrated. Peak active free acid plasma concentrations of 25 pg/mL or less were observed between 10 and 30 minutes post-dose. Thereafter, plasma levels declined rapidly to below the 10 pg/mL assay quantitation limit before 1 hour post-administration. Due to the low plasma
+
+<div style=\"page-break-after: always\"></div>
+
+concentrations and rapid elimination following topical dosing, the elimination half-life of active free acid in man could not be determined.
 
 ## Biotransformation
 
@@ -303,7 +306,11 @@ Travoprost is considered a persistent, bioaccumulative and toxic (PBT) substance
 
 ## 6.1 List of excipients
 
-Polyquaternium-1 Polyoxyethylene hydrogenated castor oil 40 (HCO-40) Boric acid (E284) Mannitol (E421) Sodium chloride Propylene glycol (E1520) Sodium hydroxide and/or hydrochloric acid (for pH-adjustment) Purified water
+Polyquaternium-1 Polyoxyethylene hydrogenated castor oil 40 (HCO-40) Boric acid (E284) Mannitol (E421) Sodium chloride Propylene glycol (E1520)
+
+Sodium hydroxide and/or hydrochloric acid (for pH-adjustment)
+
+Purified water
 
 ## 6.2 Incompatibilities
 
@@ -335,9 +342,7 @@ Any unused medicinal product or waste material should be disposed of in accordan
 
 Novartis Europharm Limited
 
-Vista Building Elm Park, Merrion Road Dublin 4
-
-Ireland
+Vista Building Elm Park, Merrion Road Dublin 4 Ireland
 
 ## 8. MARKETING AUTHORISATION NUMBERS
 
@@ -372,10 +377,6 @@ Novartis Farmacéutica, S.A. Gran Via de les Corts Catalanes, 764 08013 Barcelon
 
 Novartis Manufacturing NV Rijksweg 14 2870 Puurs-Sint-Amands Belgium
 
-Novartis Pharma GmbH Roonstraße 25 D-90429 Nuremberg Germany
-
-Siegfried El Masnou, S.A. Camil Fabra 58 El Masnou 08320 Barcelona Spain
-
 Novartis Pharma GmbH Sophie-Germain-Strasse 10 90443 Nuremberg Germany
 
 The printed package leaflet of the medicinal product must state the name and address of the manufacturer responsible for the release of the concerned batch.
@@ -389,8 +390,6 @@ Medicinal product subject to medical prescription.
 ## · Periodic safety update reports (PSURs)
 
 The requirements for submission of PSURs for this medicinal product are set out in the list of Union reference dates (EURD list) provided for under Article 107c(7) of Directive 2001/83/EC and any subsequent updates published on the European medicines web-portal.
-
-<div style=\"page-break-after: always\"></div>
 
 ## D. CONDITIONS OR RESTRICTIONS WITH REGARD TO THE SAFE AND EFFECTIVE USE OF THE MEDICINAL PRODUCT
 
@@ -520,36 +519,30 @@ Travatan
 
 2D barcode carrying the unique identifier included.
 
-| 18.   | UNIQUE IDENTIFIER -HUMANREADABLE DATA   |
-|-------|-----------------------------------------|
+| 18.   | UNIQUE IDENTIFIER - HUMANREADABLE DATA   |
+|-------|------------------------------------------|
 
 PC SN NN
 
 <div style=\"page-break-after: always\"></div>
 
-| MINIMUM PARTICULARS TO APPEAR ONSMALLIMMEDIATE PACKAGING UNITS   |
-|------------------------------------------------------------------|
-| BOTTLE LABEL                                                     |
+## MINIMUM PARTICULARS TO APPEAR ON SMALL IMMEDIATE PACKAGING UNITS BOTTLE LABEL
 
-| 1.   | NAMEOFTHEMEDICINAL PRODUCT AND ROUTE OF ADMINISTRATION   |
-|------|----------------------------------------------------------|
+## 1. NAME OF THE MEDICINAL PRODUCT AND ROUTE OF ADMINISTRATION
 
 TRAVATAN 40 micrograms/mL eye drops travoprost Ocular use
 
 ## 2. METHOD OF ADMINISTRATION
 
-| 3.   | EXPIRY DATE   |
-|------|---------------|
+## 3. EXPIRY DATE
 
 EXP
 
-| 4.   | BATCH NUMBER   |
-|------|----------------|
+## 4. BATCH NUMBER
 
 Lot
 
-| 5.   | CONTENTS BY WEIGHT,BYVOLUMEORBYUNIT   |
-|------|---------------------------------------|
+## 5. CONTENTS BY WEIGHT, BY VOLUME OR BY UNIT
 
 2.5 mL
 
@@ -618,8 +611,6 @@ TRAVATAN contains travoprost, one of a group of medicines called prostaglandin a
 
 TRAVATAN is used to reduce high pressure in the eye in adults, adolescents and children from 2 months old onward. This pressure can lead to an illness called glaucoma.
 
-<div style=\"page-break-after: always\"></div>
-
 ## 2. What you need to know before you use TRAVATAN
 
 ## Do not use TRAVATAN
@@ -635,6 +626,9 @@ Ask your doctor for advice if this applies to you.
 - If you have had cataract surgery , talk to your doctor before you use TRAVATAN.
 - If you have current or previous history of an eye inflammation (iritis and uveitis), talk to your doctor before you use TRAVATAN.
 - TRAVATAN may rarely cause breathlessness or wheezing or increase the symptoms of asthma . If you are concerned about changes in your breathing pattern when using TRAVATAN advise your doctor as soon as possible.
+
+<div style=\"page-break-after: always\"></div>
+
 - Travoprost may be absorbed through the skin. If any of the medicinal product comes into contact with the skin, it should be washed off straight away. This is especially important in women who are pregnant or are attempting to become pregnant.
 - If you wear soft contact lenses, do not use the drops with your lenses in. After using the drops wait 15 minutes before putting your lenses back in.
 
@@ -660,8 +654,6 @@ You may find that your vision is blurred for a time just after you use TRAVATAN.
 
 TRAVATAN contains hydrogenated castor oil and propylene glycol which may cause skin reactions and irritation.
 
-<div style=\"page-break-after: always\"></div>
-
 ## 3. How to use TRAVATAN
 
 Always use this medicine exactly as your doctor or the doctor treating your child has told you. You should check with your doctor, the doctor treating your child or pharmacist if you are not sure.
@@ -686,10 +678,15 @@ Only use TRAVATAN for dropping in your or your child's eye(s).
 
 <!-- image -->
 
+4
+
 - Immediately before using a bottle for the first time, tear open the overwrap pouch, take the bottle out ( picture 1 ) and write the date of opening on the carton in the space provided
 - Wash your hands
 - Twist off the cap
 - Hold the bottle, pointing down, between your thumb and fingers
+
+<div style=\"page-break-after: always\"></div>
+
 - Tilt your head or your child's head gently back. Pull down the eyelid with a clean finger, until there is a 'pocket' between the eyelid and the eye. The drop will go in here ( picture 2 )
 - Bring the bottle tip close to the eye. Use a mirror if it helps
 - Do not touch the eye or eyelid, surrounding areas or other surfaces with the dropper. It could infect the drops
@@ -711,8 +708,6 @@ Rinse all the medicine out with warm water. Don't put in any more drops until it
 
 C ontinue with the next dose as planned. Do not use a double dose to make up for a forgotten dose. Never use more than one drop in the affected eye(s) in a single day.
 
-<div style=\"page-break-after: always\"></div>
-
 ## If you stop using TRAVATAN
 
 Do not stop using TRAVATAN without first speaking to your doctor or the doctor treating your child, the pressure in your eye or your child's eye will not be controlled which could lead to loss of sight.
@@ -731,11 +726,15 @@ The following side effects have been seen with TRAVATAN
 
 ## Very common: may affect more than 1 in 10 people
 
-Effects in the eye : eye redness,
+Effects in the eye
 
-Common: may affect up to 1 in 10 people
+: eye redness,
+
+## Common: may affect up to 1 in 10 people
 
 Effects in the eye : changes in the colour of the iris (coloured part of the eye), eye pain, eye discomfort, dry eye, itchy eye, eye irritation.
+
+<div style=\"page-break-after: always\"></div>
 
 ## Uncommon: may affect up to 1 in 100 people
 
@@ -748,8 +747,6 @@ General side effects : increased allergic symptoms, headache, irregular heart be
 Effects in the eye : perception of flashing lights, eczema of the eyelids, abnormally positioned eyelashes that grow back toward the eye, eye swelling, reduced vision, halo vision, decreased eye sensation, inflammation of the glands of the eyelids, pigmentation inside the eye, increase in pupil size, eyelash thickening, change in eyelash colour, tired eyes.
 
 General side effects: eye viral infection, dizziness, bad taste, irregular or decreased heart rate, increased or decreased blood pressure, shortness of breath, asthma, nasal allergy or inflammation, nasal dryness, voice changes, gastrointestinal discomfort or ulcer, constipation, dry mouth, redness or itching of the skin, rash, hair colour change, loss of eyelashes, joint pain, musculoskeletal pain, generalised weakness.
-
-<div style=\"page-break-after: always\"></div>
 
 ## Not known: frequency cannot be estimated from the available data
 
@@ -767,11 +764,13 @@ If you get any side effects, talk to your doctor or pharmacist. This includes an
 
 Keep this medicine out of the sight and reach of children.
 
-Do not use TRAVATAN after the expiry date which is stated on the bottle and the box after 'EXP'. The expiry date refers to the last day of the month.
+Do not use TRAVATAN after the expiry date which is stated on the bottle and the box after ' E XP' . The expiry date refers to the last day of the month.
 
 This medicine does not require any special storage conditions.
 
 You must throw away the bottle 4 weeks after you first opened it, to prevent infections, and use a new bottle. Write down the date you opened it in the space on the carton box.
+
+<div style=\"page-break-after: always\"></div>
 
 Do not throw away medicine via wastewater or in household waste. Ask your pharmacist how to throw away medicines you no longer use. These measures will help protect the environment.
 
@@ -791,8 +790,6 @@ Pack sizes: 1 or 3 bottles.
 
 Not all pack sizes may be marketed.
 
-<div style=\"page-break-after: always\"></div>
-
 ## The marketing authorisation holder
 
 Novartis Europharm Limited Vista Building Elm Park, Merrion Road Dublin 4 Ireland
@@ -801,11 +798,9 @@ Novartis Europharm Limited Vista Building Elm Park, Merrion Road Dublin 4 Irelan
 
 Novartis Farmacéutica, S.A. Gran Via de les Corts Catalanes, 764 08013 Barcelona Spain
 
-Novartis Manufacturing NV Rijksweg 14 2870 Puurs-Sint-Amands Belgium
+## Novartis Manufacturing NV
 
-Novartis Pharma GmbH Roonstraße 25 D-90429 Nuremberg Germany
-
-Siegfried El Masnou, S.A. Camil Fabra 58 El Masnou 08320 Barcelona Spain
+Rijksweg 14 2870 Puurs-Sint-Amands Belgium
 
 Novartis Pharma GmbH Sophie-Germain-Strasse 10 90443 Nuremberg Germany
 
@@ -815,13 +810,31 @@ For any information about this medicine, please contact the local representative
 
 Novartis Pharma N.V. Tél/Tel: +32 2 246 16 11
 
+## Lietuva
+
+SIA Novartis Baltics Lietuvos filialas Tel: +370 5 269 16 50
+
 ## България
 
-Novartis Bulgaria EOOD Тел.: +359 2 489 98 28
+Novartis Bulgaria EOOD
+
+Тел
+
+.: +359 2 489 98 28
+
+## Luxembourg/Luxemburg
+
+Novartis Pharma N.V.
+
+Tél/Tel: +32 2 246 16 11
+
+<div style=\"page-break-after: always\"></div>
 
 ## Česká republika
 
-Novartis s.r.o. Tel: +420 225 775 111
+Novartis s.r.o.
+
+Tel: +420 225 775 111
 
 ## Danmark
 
@@ -829,17 +842,49 @@ Novartis Healthcare A/S Tlf: +45 39 16 84 00
 
 ## Deutschland
 
-Novartis Pharma GmbH
+Novartis Pharma GmbH Tel: +49 911 273 0
 
-Tel: +49 911 273 0
+## Eesti
 
-## Lietuva
+SIA Novartis Baltics Eesti filiaal Tel: +372 66 30 810
 
-SIA Novartis Baltics Lietuvos filialas Tel: +370 5 269 16 50
+## Ελλάδα
 
-## Luxembourg/Luxemburg
+Novartis (Hellas) A.E.B.E. Τηλ: +30 210 281 17 12
 
-Novartis Pharma N.V. Tél/Tel: +32 2 246 16 11
+## España
+
+Novartis Farmacéutica, S.A. Tel: +34 93 306 42 00
+
+## France
+
+Novartis Pharma S.A.S. Tél: +33 1 55 47 66 00
+
+## Hrvatska
+
+Novartis Hrvatska d.o.o. Tel. +385 1 6274 220
+
+## Ireland
+
+Novartis Ireland Limited Tel: +353 1 260 12 55
+
+## Ísland
+
+Vistor hf. Sími: +354 535 7000
+
+## Italia
+
+Novartis Farma S.p.A. Tel: +39 02 96 54 1
+
+## Κύπρος
+
+Novartis Pharma Services Inc. Τηλ: +357 22 690 690
+
+## Latvija
+
+SIA Novartis Baltics Tel: +371 67 887 070
+
+## This leaflet was last revised in
 
 ## Magyarország
 
@@ -853,91 +898,17 @@ Novartis Pharma Services Inc. Tel: +356 2122 2872
 
 Novartis Pharma B.V. Tel: +31 88 04 52 111
 
-<div style=\"page-break-after: always\"></div>
-
-## Eesti
-
-SIA Novartis Baltics Eesti filiaal
-
-Tel: +372 66 30 810
-
-## Ελλάδα
-
-Novartis (Hellas) A.E.B.E.
-
-Τηλ: +30 210 281 17 12
-
-## España
-
-Novartis Farmacéutica, S.A.
-
-Tel: +34 93 306 42 00
-
-## France
-
-Novartis Pharma S.A.S.
-
-Tél: +33 1 55 47 66 00
-
-## Hrvatska
-
-Novartis Hrvatska d.o.o.
-
-Tel. +385 1 6274 220
-
-## Ireland
-
-Novartis Ireland Limited
-
-Tel: +353 1 260 12 55
-
-## Ísland
-
-Vistor hf.
-
-Sími: +354 535 7000
-
-## Italia
-
-Novartis Farma S.p.A.
-
-Tel: +39 02 96 54 1
-
-## Κύπρος
-
-Novartis Pharma Services Inc.
-
-Τηλ: +357 22 690 690
-
-## Latvija
-
-SIA Novartis Baltics
-
-Tel: +371 67 887 070
-
-## This leaflet was last revised in
-
-## Other sources of information
-
-Detailed information on this medicine is available on the European Medicines Agency web site: http://www.ema.europa.eu.
-
 ## Norge
 
-Novartis Norge AS
-
-Tlf: +47 23 05 20 00
+Novartis Norge AS Tlf: +47 23 05 20 00
 
 ## Österreich
 
-Novartis Pharma GmbH
-
-Tel: +43 1 86 6570
+Novartis Pharma GmbH Tel: +43 1 86 6570
 
 ## Polska
 
-Novartis Poland Sp. z o.o.
-
-Tel.: +48 22 375 4888
+Novartis Poland Sp. z o.o. Tel.: +48 22 375 4888
 
 ## Portugal
 
@@ -945,30 +916,26 @@ Novartis Farma - Produtos Farmacêuticos, S.A. Tel: +351 21 000 8600
 
 ## România
 
-Novartis Pharma Services Romania SRL
-
-Tel: +40 21 31299 01
+Novartis Pharma Services Romania SRL Tel: +40 21 31299 01
 
 ## Slovenija
 
-Novartis Pharma Services Inc.
-
-Tel: +386 1 300 75 50
+Novartis Pharma Services Inc. Tel: +386 1 300 75 50
 
 ## Slovenská republika
 
-Novartis Slovakia s.r.o.
-
-Tel: + 421 2 5542 5439
+Novartis Slovakia s.r.o. Tel: + 421 2 5542 5439
 
 ## Suomi/Finland
 
-Novartis Finland Oy
-
-Puh/Tel: +358 (0)10 6133 200
+Novartis Finland Oy Puh/Tel: +358 (0)10 6133 200
 
 ## Sverige
 
-Novartis Sverige AB
+Novartis Sverige AB Tel: +46 8 732 32 00
 
-Tel: +46 8 732 32 00
+<div style=\"page-break-after: always\"></div>
+
+## Other sources of information
+
+Detailed information on this medicine is available on the European Medicines Agency web site: http://www.ema.europa.eu.

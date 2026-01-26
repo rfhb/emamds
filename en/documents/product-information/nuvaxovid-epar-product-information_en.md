@@ -1,24 +1,22 @@
 ---
-document_datetime: 2025-10-06 14:49:52
+document_datetime: 2026-01-22 13:06:54
 document_pages: 134
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/nuvaxovid-epar-product-information_en.pdf
 document_name: nuvaxovid-epar-product-information_en.pdf
 version: success
-processing_time: 31.66707
-conversion_datetime: 2025-12-21 17:59:23.190283
+processing_time: 33.8768039
+conversion_datetime: 2026-01-26 20:31:59.236046
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.64.1
-  docling-core: 2.55.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.10.0
+  docling-jobkit: 1.8.1
+  docling: 2.70.0
+  docling-core: 2.60.2
+  docling-ibm-models: 3.11.0
+  docling-parse: 4.7.3
   python: cpython-313 (3.13.11)
   plaform: macOS-26.2-arm64-arm-64bit-Mach-O
 ---
-## ANNEX I
-
-## SUMMARY OF PRODUCT CHARACTERISTICS
+## ANNEX I SUMMARY OF PRODUCT CHARACTERISTICS
 
 <div style=\"page-break-after: always\"></div>
 
@@ -240,13 +238,7 @@ least 6 months after the two-dose primary series (median of 11 months between co
 
 Adverse reactions observed during clinical studies are listed below according to the following frequency categories:
 
-Very common (≥ 1/10),
-
-Common (≥ 1/100 to &lt; 1/10),
-
-Uncommon (≥ 1/1,000 to &lt; 1/100),
-
-Rare (≥ 1/10,000 to &lt; 1/1,000),
+Very common (≥ 1/10), Common (≥ 1/100 to &lt; 1/10), Uncommon (≥ 1/1,000 to &lt; 1/100), Rare (≥ 1/10,000 to &lt; 1/1,000),
 
 Very rare (&lt; 1/10,000),
 
@@ -267,16 +259,6 @@ Table 1: Adverse reactions from Nuvaxovid clinical trials and post- authorisatio
 | Skin and subcutaneous tissue disorders               |                                                                         |                                                                                  | Rash Erythema Pruritus Urticaria  |                                  |                                                           |
 | Musculoskeletal and connective tissue disorders      | Myalgia a Arthralgia a                                                  |                                                                                  |                                   |                                  |                                                           |
 | General disorders and administration site conditions | Injection site tenderness a Injection site pain a Fatigue a Malaise a,b | Injection site redness a,c Injection site swelling a Pyrexia e Pain in extremity | Injection site pruritus Chills    | Injection site warmth            |                                                           |
-
-a Higher frequencies of these events were observed after the second dose.
-
-b This term also included events reported as influenza-like illness.
-
-c This term includes both injection site redness and injection site erythema (common).
-
-d Hypertension was not reported in adolescents aged 12 through 17 years in the clinical study.
-
-e Pyrexia was observed more frequently in adolescents aged 12 through 17 years compared to adults, with the frequency being very common after the second dose in adolescents.
 
 <div style=\"page-break-after: always\"></div>
 
@@ -336,14 +318,6 @@ Table 2: Vaccine efficacy against PCR-confirmed COVID-19 with onset from 7 days 
 | Primary efficacy endpoint | Primary efficacy endpoint | Primary efficacy endpoint | Primary efficacy endpoint                  | Primary efficacy endpoint | Primary efficacy endpoint | Primary efficacy endpoint                  | Primary efficacy endpoint  |
 | All participants          | 16,880                    | 18 (0.1)                  | 3.36                                       | 7,814                     | 72 (0.9)                  | 39.74                                      | 91.53% (83.31, 95.70) 3,4  |
 
-1  VE evaluated in participants without major protocol deviations, who are seronegative (for SARS-CoV-2) at baseline and do not have a laboratory confirmed current SARS-CoV-2 infection with symptom onset up to 6 days after the second dose, and who have received the full prescribed regimen of trial vaccine.
-
-2  Mean disease incidence rate per year in 1,000 people.
-
-3  Based on log-linear model of PCR-confirmed COVID-19 infection incidence rate using Poisson regression with treatment group and age strata as fixed effects and robust error variance, where VE = 100 × (1 - relative risk) (Zou 2004).
-
-4  Met primary efficacy endpoint criterion for success with a lower bound confidence interval (LBCI) &gt; 30%. at the planned primary confirmatory analysis
-
 Vaccine efficacy of Nuvaxovid to prevent the onset of COVID-19 from seven days after Dose 2 was 91.53% (95% CI: 83.31, 95.70). No cases of severe COVID-19 were reported in the 16,880
 
 <div style=\"page-break-after: always\"></div>
@@ -383,9 +357,7 @@ Abbreviations: ANCOVA = analysis of covariance; CI = confidence interval; GMR = 
 
 1 Table includes participants in the active vaccine group only.
 
-2 An ANCOVA with age cohort as main effect and baseline MN Assay neutralising antibodies as covariate was performed
-
-to estimate the GMR. Individual response values recorded as below the LLOQ were set to half LLOQ.
+2 An ANCOVA with age cohort as main effect and baseline MN Assay neutralising antibodies as covariate was performed to estimate the GMR. Individual response values recorded as below the LLOQ were set to half LLOQ.
 
 3 Represents (n1, n2) populations defined as:
 
@@ -419,14 +391,6 @@ Table 4: Vaccine efficacy analysis of PCR-confirmed COVID-19 with onset at least
 | Subgroup analyses of the primary efficacy endpoint | Subgroup analyses of the primary efficacy endpoint | Subgroup analyses of the primary efficacy endpoint | Subgroup analyses of the primary efficacy endpoint | Subgroup analyses of the primary efficacy endpoint | Subgroup analyses of the primary efficacy endpoint | Subgroup analyses of the primary efficacy endpoint | Subgroup analyses of the primary efficacy endpoint |
 | 18 to 64 years of age                              | 5,039                                              | 13 (0.3)                                           | 18.86                                              | 5,042                                              | 108 (2.1)                                          | 158.12                                             | 88.1% (79.7, 94.9) 2                               |
 | 65 to 84 years of age                              | 1,940                                              | 2 (0.1) 2                                          | 7.08                                               | 1,950                                              | 8 (0.4) 2                                          | 28.33                                              | 75.0% (-25.3, 97.4) 4                              |
-
-1  Mean disease incidence rate per year in 1000 people.
-
-2  Based on Log-linear model of occurrence using modified Poisson regression with logarithmic link function, treatment group and strata (age-group and pooled region) as fixed effects and robust error variance [Zou 2004].
-
-3  Met primary efficacy endpoint criterion for success with a lower bound confidence interval (LBCI) &gt; 30%, efficacy has been confirmed at the interim analysis.
-
-4  Based on the Clopper-Pearson model (due to few events), 95% CIs calculated using the Clopper-Pearson exact binomial method adjusted for the total surveillance time.
 
 These results reflect enrolment that occurred during the time period when the B.1.1.7 (Alpha) variant was circulating in the UK. Identification of the Alpha variant was based on S gene target failure by PCR. Data were available for 118 of the 131 endpoint cases (90%). Of these, 80 out of 118 (68%) were identified as the Alpha variant with the other cases classified as non-Alpha.
 
@@ -605,7 +569,9 @@ This vaccine should be handled by a healthcare professional using aseptic techni
 
 ## 7. MARKETING AUTHORISATION HOLDER
 
-Sanofi Winthrop Industrie 82 Avenue Raspail 94250 Gentilly France
+Sanofi Winthrop Industrie 82 Avenue Raspail 94250 Gentilly
+
+France
 
 ## 8. MARKETING AUTHORISATION NUMBER(S)
 
@@ -731,7 +697,7 @@ Healthcare professionals should consult guidance and/or specialists to diagnose 
 
 ## Anxiety-related reactions
 
-Anxiety-related reactions, including vasovagal reactions (syncope), hyperventilation, or stress-related reactions may occur in association with vaccination as a psychogenic response to the needle injection. It is important that precautions are in place to avoid injury from fainting.
+Anxietyrelated reactions, including vasovagal reactions (syncope), hyperventilation, or stress-related reactions may occur in association with vaccination as a psychogenic response to the needle injection. It is important that precautions are in place to avoid injury from fainting.
 
 ## Concurrent illness
 
@@ -882,16 +848,6 @@ Table 1: Adverse reactions from Nuvaxovid clinical trials and post- authorisatio
 | Musculoskeletal and connective tissue disorders      | Myalgia a Arthralgia a                                                  |                                                                                  |                                   |                                  |                                                           |
 | General disorders and administration site conditions | Injection site tenderness a Injection site pain a Fatigue a Malaise a,b | Injection site redness a,c Injection site swelling a Pyrexia e Pain in extremity | Injection site pruritus Chills    | Injection site warmth            |                                                           |
 
-a Higher frequencies of these events were observed after the second dose.
-
-b This term also included events reported as influenza-like illness.
-
-c This term includes both injection site redness and injection site erythema (common).
-
-d Hypertension was not reported in adolescents aged 12 through 17 years in the clinical study.
-
-e Pyrexia was observed more frequently in adolescents aged 12 through 17 years compared to adults, with the frequency being very common after the second dose in adolescents.
-
 ## Description of selected adverse reactions
 
 Throughout the clinical trials, an increased incidence of hypertension following vaccination with Nuvaxovid (n=46, 1.0%) as compared to placebo (n=22, 0.6%) was observed in older adults during the 3 days following vaccination.
@@ -1014,14 +970,6 @@ Table 3: Vaccine efficacy against PCR-confirmed COVID-19 with onset from 7 days 
 | Primary efficacy endpoint | Primary efficacy endpoint | Primary efficacy endpoint | Primary efficacy endpoint                  | Primary efficacy endpoint | Primary efficacy endpoint | Primary efficacy endpoint                  | Primary efficacy endpoint  |
 | All participants          | 16,880                    | 18 (0.1)                  | 3.36                                       | 7,814                     | 72 (0.9)                  | 39.74                                      | 91.53% (83.31, 95.70) 3,4  |
 
-1  VE evaluated in participants without major protocol deviations, who are seronegative (for SARS-CoV-2) at baseline and do not have a laboratory confirmed current SARS-CoV-2 infection with symptom onset up to 6 days after the second dose, and who have received the full prescribed regimen of trial vaccine.
-
-2  Mean disease incidence rate per year in 1,000 people.
-
-3  Based on log-linear model of PCR-confirmed COVID-19 infection incidence rate using Poisson regression with treatment group and age strata as fixed effects and robust error variance, where VE = 100 × (1 - relative risk) (Zou 2004).
-
-4  Met primary efficacy endpoint criterion for success with a lower bound confidence interval (LBCI) &gt; 30%. at the planned primary confirmatory analysis
-
 Vaccine efficacy of Nuvaxovid to prevent the onset of COVID-19 from seven days after Dose 2 was 91.53% (95% CI: 83.31, 95.70). No cases of severe COVID-19 were reported in the 16,880 Nuvaxovid participants compared with 4 cases of severe COVID-19 reported in the 7,886 placebo recipients in the PP-EFF analysis set.
 
 Subgroup analyses of the primary efficacy endpoint showed similar efficacy point estimates for male and female participants and racial groups, and across participants with medical comorbidities associated with high risk of severe COVID-19. There were no meaningful differences in overall vaccine efficacy in participants who were at increased risk of severe COVID-19 including those with
@@ -1091,14 +1039,6 @@ Table 5: Vaccine efficacy analysis of PCR-confirmed COVID-19 with onset at least
 | Subgroup analyses of the primary efficacy endpoint | Subgroup analyses of the primary efficacy endpoint | Subgroup analyses of the primary efficacy endpoint | Subgroup analyses of the primary efficacy endpoint | Subgroup analyses of the primary efficacy endpoint | Subgroup analyses of the primary efficacy endpoint | Subgroup analyses of the primary efficacy endpoint | Subgroup analyses of the primary efficacy endpoint |
 | 18 to 64 years of age                              | 5,039                                              | 13 (0.3)                                           | 18.86                                              | 5,042                                              | 108 (2.1)                                          | 158.12                                             | 88.1% (78.8, 93.3) 2                               |
 | 65 to 84 years of age                              | 1,940                                              | 2 (0.1) 2                                          | 7.08                                               | 1,950                                              | 8 (0.4) 2                                          | 28.33                                              | 75.0% (-25.3, 97.4) 4                              |
-
-1  Mean disease incidence rate per year in 1000 people.
-
-2  Based on Log-linear model of occurrence using modified Poisson regression with logarithmic link function, treatment group and strata (age-group and pooled region) as fixed effects and robust error variance [Zou 2004].
-
-3  Met primary efficacy endpoint criterion for success with a lower bound confidence interval (LBCI) &gt; 30%, efficacy has been confirmed at the interim analysis.
-
-4  Based on the Clopper-Pearson model (due to few events), 95% CIs calculated using the Clopper-Pearson exact binomial method adjusted for the total surveillance time.
 
 These results reflect enrolment that occurred during the time period when the B.1.1.7 (Alpha) variant was circulating in the UK. Identification of the Alpha variant was based on S gene target failure by PCR. Data were available for 118 of the 131 endpoint cases (90%). Of these, 80 out of 118 (68%) were identified as the Alpha variant with the other cases classified as non-Alpha.
 
@@ -1190,7 +1130,7 @@ This medicinal product must not be mixed with other medicinal products or dilute
 
 ## 6.3 Shelf life
 
-## Unopened vial
+Unopened vial
 
 9 months at 2°C to 8°C, protected from light.
 
@@ -1571,16 +1511,6 @@ Table 1: Adverse reactions from Nuvaxovid clinical trials and post- authorisatio
 | Musculoskeletal and connective tissue disorders      | Myalgia a Arthralgia a                                                  |                                                                                  |                                   |                                  |                                                           |
 | General disorders and administration site conditions | Injection site tenderness a Injection site pain a Fatigue a Malaise a,b | Injection site redness a,c Injection site swelling a Pyrexia e Pain in extremity | Injection site pruritus Chills    | Injection site warmth            |                                                           |
 
-a Higher frequencies of these events were observed after the second dose.
-
-b This term also included events reported as influenza-like illness.
-
-c This term includes both injection site redness and injection site erythema (common).
-
-d Hypertension was not reported in adolescents aged 12 through 17 years in the clinical study.
-
-e Pyrexia was observed more frequently in adolescents aged 12 through 17 years compared to adults, with the frequency being very common after the second dose in adolescents.
-
 ## Description of selected adverse reactions
 
 Throughout the clinical trials, an increased incidence of hypertension following vaccination with Nuvaxovid (n=46, 1.0%) as compared to placebo (n=22, 0.6%) was observed in older adults during the 3 days following vaccination.
@@ -1703,14 +1633,6 @@ Table 3: Vaccine efficacy against PCR-confirmed COVID-19 with onset from 7 days 
 | Primary efficacy endpoint | Primary efficacy endpoint | Primary efficacy endpoint | Primary efficacy endpoint                  | Primary efficacy endpoint | Primary efficacy endpoint | Primary efficacy endpoint                  | Primary efficacy endpoint  |
 | All participants          | 16,880                    | 18 (0.1)                  | 3.36                                       | 7,814                     | 72 (0.9)                  | 39.74                                      | 91.53% (83.31, 95.70) 3,4  |
 
-1  VE evaluated in participants without major protocol deviations, who are seronegative (for SARS-CoV-2) at baseline and do not have a laboratory confirmed current SARS-CoV-2 infection with symptom onset up to 6 days after the second dose, and who have received the full prescribed regimen of trial vaccine.
-
-2  Mean disease incidence rate per year in 1,000 people.
-
-3  Based on log-linear model of PCR-confirmed COVID-19 infection incidence rate using Poisson regression with treatment group and age strata as fixed effects and robust error variance, where VE = 100 × (1 - relative risk) (Zou 2004).
-
-4  Met primary efficacy endpoint criterion for success with a lower bound confidence interval (LBCI) &gt; 30%. at the planned primary confirmatory analysis
-
 Vaccine efficacy of Nuvaxovid to prevent the onset of COVID-19 from seven days after Dose 2 was 91.53% (95% CI: 83.31, 95.70). No cases of severe COVID-19 were reported in the 16,880 Nuvaxovid participants compared with 4 cases of severe COVID-19 reported in the 7,886 placebo recipients in the PP-EFF analysis set.
 
 Subgroup analyses of the primary efficacy endpoint showed similar efficacy point estimates for male and female participants and racial groups, and across participants with medical comorbidities associated with high risk of severe COVID-19. There were no meaningful differences in overall vaccine efficacy in participants who were at increased risk of severe COVID-19 including those with 1
@@ -1783,13 +1705,8 @@ Table 5: Vaccine efficacy analysis of PCR-confirmed COVID-19 with onset at least
 | 18 to 64 years of age                              | 5,039                                              | 13 (0.3)                                           | 18.86                                              | 5,042                                              | 108 (2.1)                                          | 158.12                                             | 88.1% (78.8, 93.3) 2                               |
 | 65 to 84 years of age                              | 1,940                                              | 2 (0.1) 2                                          | 7.08                                               | 1,950                                              | 8 (0.4) 2                                          | 28.33                                              | 75.0% (-25.3, 97.4) 4                              |
 
-1  Mean disease incidence rate per year in 1000 people.
-
-2  Based on Log-linear model of occurrence using modified Poisson regression with logarithmic link function, treatment group and strata (age-group and pooled region) as fixed effects and robust error variance [Zou 2004].
-
 - 3  Met primary efficacy endpoint criterion for success with a lower bound confidence interval (LBCI) &gt; 30%, efficacy has been confirmed at the interim analysis.
-
-4  Based on the Clopper-Pearson model (due to few events), 95% CIs calculated using the Clopper-Pearson exact binomial method adjusted for the total surveillance time.
+- 4  Based on the Clopper-Pearson model (due to few events), 95% CIs calculated using the Clopper-Pearson exact binomial method adjusted for the total surveillance time.
 
 These results reflect enrolment that occurred during the time period when the B.1.1.7 (Alpha) variant was circulating in the UK. Identification of the Alpha variant was based on S gene target failure by PCR. Data were available for 118 of the 131 endpoint cases (90%). Of these, 80 out of 118 (68%) were identified as the Alpha variant with the other cases classified as non-Alpha.
 
@@ -1960,7 +1877,9 @@ EU/1/21/1618/009
 
 ## 9. DATE OF FIRST AUTHORISATION/RENEWAL OF THE AUTHORISATION
 
-Date of first authorisation: 20 December 2021 Date of latest renewal: 03 October 2022
+Date of first authorisation: 20 December 2021
+
+Date of latest renewal: 03 October 2022
 
 ## 10. DATE OF REVISION OF THE TEXT
 
@@ -2222,16 +2141,6 @@ Table 1: Adverse reactions from Nuvaxovid clinical trials and post- authorisatio
 |-----------------------------|------------------------|------------------------------|-----------------------------------|----------------------------------|-----------------------------------------------------------|
 |                             | Fatigue a Malaise a,b  | Pyrexia e Pain in extremity  |                                   |                                  |                                                           |
 
-a Higher frequencies of these events were observed after the second dose.
-
-b This term also included events reported as influenza-like illness.
-
-c This term includes both injection site redness and injection site erythema (common).
-
-d Hypertension was not reported in adolescents aged 12 through 17 years in the clinical study.
-
-e Pyrexia was observed more frequently in adolescents aged 12 through 17 years compared to adults, with the frequency being very common after the second dose in adolescents.
-
 ## Description of selected adverse reactions
 
 Throughout the clinical trials, an increased incidence of hypertension following vaccination with Nuvaxovid (n=46, 1.0%) as compared to placebo (n=22, 0.6%) was observed in older adults during the 3 days following vaccination.
@@ -2266,9 +2175,9 @@ Nuvaxovid (Original, Wuhan strain), Nuvaxovid monovalent Omicron BA.5 vaccine or
 
 The primary objective of the study was to demonstrate superiority with respect to level of pseudovirus neutralizing antibody titer (ID50) and non-inferiority with respect to seroresponse rate of the antiOmicron BA.5 immune response induced by a dose of the Nuvaxovid bivalent Original/Omicron BA.5 vaccine relative to the response elicited by a dose of Nuvaxovid (Original, Wuhan strain), and to assess non-inferiority with respect to level of ID50 for the original SAR-CoV-2 strain for the Nuvaxovid bivalent Original/Omicron BA.5 vaccine compared to Nuvaxovid (Original, Wuhan strain).
 
-Superiority of the anti-Omicron BA.5 ID50 for the Nuvaxovid bivalent Original/Omicron BA.5 vaccine relative to Nuvaxovid (Original, Wuhan strain) was demonstrated, as the lower bound of the two-sided 95% confidence interval (CI) for GMR was &gt;1. Non-inferiority of the anti-Original ID50 for the Nuvaxovid bivalent Original/Omicron BA.5 vaccine relative to Nuvaxovid (Original, Wuhan strain)
+Superiority of the anti-Omicron BA.5 ID50 for the Nuvaxovid bivalent Original/Omicron BA.5 vaccine relative to Nuvaxovid (Original, Wuhan strain) was demonstrated, as the lower bound of the two-sided 95% confidence interval (CI) for GMR was &gt;1. Non-inferiority of the anti-Original ID50 for the Nuvaxovid bivalent Original/Omicron BA.5 vaccine relative to Nuvaxovid (Original, Wuhan strain) was met, as the lower bound of the two-sided 95% CI for GMR was &gt;0.67.
 
-was met, as the lower bound of the two-sided 95% CI for GMR was &gt;0.67. Non-inferiority of the seroresponse rate to the Omicron BA.5 variant for the Nuvaxovid bivalent Original/Omicron BA.5 vaccine relative to Nuvaxovid (Original, Wuhan strain) was met, as the lower limit of the two-sided 95% CI for the difference in percentages of participants with seroresponse was &gt;-5%. For more details see Table 2.
+Non-inferiority of the seroresponse rate to the Omicron BA.5 variant for the Nuvaxovid bivalent Original/Omicron BA.5 vaccine relative to Nuvaxovid (Original, Wuhan strain) was met, as the lower limit of the two-sided 95% CI for the difference in percentages of participants with seroresponse was &gt;-5%. For more details see Table 2.
 
 Exploratory immunogenicity analyses included an assessment of the ID50 GMT ratio and difference in seroresponse rates for the Nuvaxovid monovalent Omicron BA.5 vaccine compared to Nuvaxovid (Original, Wuhan strain). The GMT ratio following the booster dose with Nuvaxovid monovalent Omicron BA.5 vaccine compared with the booster dose of Nuvaxovid (Original, Wuhan strain) was 2.5 (two-sided 95% CIs: 2.10, 2.94). The difference in seroresponse rates between the booster dose with Nuvaxovid monovalent Omicron BA.5 vaccine and the booster dose with Nuvaxovid (Original, Wuhan strain) was 33.2% (two-sided 95% CIs: 25.4%, 40.7%). While not formally assessed, these responses would have met the three success criteria for the study.
 
@@ -2357,8 +2266,6 @@ Table 3: Vaccine efficacy against PCR-confirmed COVID-19 with onset from 7 days 
 | Primary efficacy endpoint | Primary efficacy endpoint | Primary efficacy endpoint | Primary efficacy endpoint                  | Primary efficacy endpoint | Primary efficacy endpoint | Primary efficacy endpoint                  | Primary efficacy endpoint  |
 | All participants          | 16,880                    | 18 (0.1)                  | 3.36                                       | 7,814                     | 72 (0.9)                  | 39.74                                      | 91.53% (83.31, 95.70) 3,4  |
 
-1  VE evaluated in participants without major protocol deviations, who are seronegative (for SARS-CoV-2) at baseline and do not have a laboratory confirmed current SARS-CoV-2 infection with symptom onset up to 6 days after the second dose, and who have received the full prescribed regimen of trial vaccine.
-
 - 2  Mean disease incidence rate per year in 1,000 people.
 
 3  Based on log-linear model of PCR-confirmed COVID-19 infection incidence rate using Poisson regression with treatment group and age strata as fixed effects and robust error variance, where VE = 100 × (1 - relative risk) (Zou 2004).
@@ -2432,14 +2339,6 @@ Table 5: Vaccine efficacy analysis of PCR-confirmed COVID-19 with onset at least
 | Subgroup analyses of the primary efficacy endpoint | Subgroup analyses of the primary efficacy endpoint | Subgroup analyses of the primary efficacy endpoint | Subgroup analyses of the primary efficacy endpoint | Subgroup analyses of the primary efficacy endpoint | Subgroup analyses of the primary efficacy endpoint | Subgroup analyses of the primary efficacy endpoint | Subgroup analyses of the primary efficacy endpoint |
 | 18 to 64 years of age                              | 5,039                                              | 13 (0.3)                                           | 18.86                                              | 5,042                                              | 108 (2.1)                                          | 158.12                                             | 88.1% (78.8, 93.3) 2                               |
 | 65 to 84 years of age                              | 1,940                                              | 2 (0.1) 2                                          | 7.08                                               | 1,950                                              | 8 (0.4) 2                                          | 28.33                                              | 75.0% (-25.3, 97.4) 4                              |
-
-1  Mean disease incidence rate per year in 1000 people.
-
-2  Based on Log-linear model of occurrence using modified Poisson regression with logarithmic link function, treatment group and strata (age-group and pooled region) as fixed effects and robust error variance [Zou 2004].
-
-3  Met primary efficacy endpoint criterion for success with a lower bound confidence interval (LBCI) &gt; 30%, efficacy has been confirmed at the interim analysis.
-
-4  Based on the Clopper-Pearson model (due to few events), 95% CIs calculated using the Clopper-Pearson exact binomial method adjusted for the total surveillance time.
 
 These results reflect enrolment that occurred during the time period when the B.1.1.7 (Alpha) variant was circulating in the UK. Identification of the Alpha variant was based on S gene target failure by
 
@@ -2599,14 +2498,23 @@ This vaccine should be handled by a healthcare professional using aseptic techni
 
 ## 7. MARKETING AUTHORISATION HOLDER
 
-Sanofi Winthrop Industrie 82 Avenue Raspail 94250 Gentilly France
+Sanofi Winthrop Industrie 82 Avenue Raspail 94250 Gentilly
+
+France
 
 ## 8. MARKETING AUTHORISATION NUMBER(S)
 
-| EU/1/21/1618/011   | 10 pre-filled syringes (1 dose per syringe)          |
-|--------------------|------------------------------------------------------|
-| EU/1/21/1618/012   | 1 pre-filled syringe (1 dose per syringe)            |
-| EU/1/21/1618/013   | 1 pre-filled syringe + 1 needle (1 dose per syringe) |
+EU/1/21/1618/011
+
+10 pre-filled syringes (1 dose per syringe)
+
+EU/1/21/1618/012
+
+1 pre-filled syringe (1 dose per syringe)
+
+EU/1/21/1618/013
+
+1 pre-filled syringe + 1 needle (1 dose per syringe)
 
 ## 9. DATE OF FIRST AUTHORISATION/RENEWAL OF THE AUTHORISATION
 
@@ -2637,7 +2545,9 @@ Serum Institute of India Pvt. Ltd. S. No. 105-110, Manjari BK, Tal -Haveli, Pune
 
 Name and address of the manufacturer responsible for batch release
 
-Novavax CZ a.s. Líbalova 2348/1, Chodov, 149 00 Praha 4, Czechia
+Novavax CZ a.s.
+
+Líbalova 2348/1, Chodov, 149 00 Praha 4, Czechia
 
 ## B. CONDITIONS OR RESTRICTIONS REGARDING SUPPLY AND USE
 
@@ -2716,7 +2626,7 @@ Read the package leaflet before use.
 
 <!-- image -->
 
-For more information, scan or visit www.NovavaxCovidVaccine.com
+For more information, scan or visit https://nuvaxovid.info.sanofi
 
 ## 6. SPECIAL WARNING THAT THE MEDICINAL PRODUCT MUST BE STORED OUT OF THE SIGHT AND REACH OF CHILDREN
 
@@ -2854,7 +2764,9 @@ Read the package leaflet before use.
 
 <!-- image -->
 
-For more information, scan or visit www.NovavaxCovidVaccine.com
+For more information, scan or visit https://nuvaxovid.info.sanofi
+
+<div style=\"page-break-after: always\"></div>
 
 ## 6. SPECIAL WARNING THAT THE MEDICINAL PRODUCT MUST BE STORED OUT OF THE SIGHT AND REACH OF CHILDREN
 
@@ -2895,12 +2807,9 @@ EU/1/21/1618/004
 Lot
 
 14. GENERAL CLASSIFICATION FOR SUPPLY
-
 15. INSTRUCTIONS ON USE
 
 ## 16. INFORMATION IN BRAILLE
-
-<div style=\"page-break-after: always\"></div>
 
 Justification for not including Braille accepted.
 
@@ -2978,7 +2887,7 @@ Excipients: disodium hydrogen phosphate heptahydrate, sodium dihydrogen phosphat
 
 Dispersion for injection
 
-10 multidose vials
+- 10 multidose vials
 
 2 multidose vials
 
@@ -2994,7 +2903,7 @@ Read the package leaflet before use.
 
 <!-- image -->
 
-For more information, scan or visit www.NovavaxCovidVaccine.com
+For more information, scan or visit https://nuvaxovid.info.sanofi
 
 ## 6. SPECIAL WARNING THAT THE MEDICINAL PRODUCT MUST BE STORED OUT OF THE SIGHT AND REACH OF CHILDREN
 
@@ -3116,7 +3025,7 @@ Excipients: disodium hydrogen phosphate heptahydrate, sodium dihydrogen phosphat
 
 ## 4. PHARMACEUTICAL FORM AND CONTENTS
 
-## Dispersion for injection
+Dispersion for injection
 
 10 single dose vials
 
@@ -3134,7 +3043,7 @@ Read the package leaflet before use.
 
 <!-- image -->
 
-For more information, scan or visit www.NovavaxCovidVaccine.com
+For more information, scan or visit https://nuvaxovid.info.sanofi
 
 ## 6. SPECIAL WARNING THAT THE MEDICINAL PRODUCT MUST BE STORED OUT OF THE SIGHT AND REACH OF CHILDREN
 
@@ -3142,7 +3051,7 @@ Keep out of the sight and reach of children.
 
 7. OTHER SPECIAL WARNING(S), IF NECESSARY
 
-## 8. EXPIRY DATE
+8. EXPIRY DATE
 
 EXP
 
@@ -3206,7 +3115,7 @@ Nuvaxovid XBB.1.5 dispersion for injection COVID-19 Vaccine (recombinant, adjuva
 
 IM
 
-## 3. EXPIRY DATE
+3. EXPIRY DATE
 
 EXP
 
@@ -3268,7 +3177,7 @@ Read the package leaflet before use.
 
 <!-- image -->
 
-For more information, scan or visit www.NovavaxCovidVaccine.com
+For more information, scan or visit https://nuvaxovid.info.sanofi
 
 ## 6. SPECIAL WARNING THAT THE MEDICINAL PRODUCT MUST BE STORED OUT OF THE SIGHT AND REACH OF CHILDREN
 
@@ -3276,7 +3185,7 @@ Keep out of the sight and reach of children.
 
 7. OTHER SPECIAL WARNING(S), IF NECESSARY
 
-## 8. EXPIRY DATE
+8. EXPIRY DATE
 
 EXP
 
@@ -3336,9 +3245,7 @@ VIAL LABEL - SINGLE DOSE VIAL
 
 ## 1. NAME OF THE MEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION
 
-Nuvaxovid JN.1 dispersion for injection
-
-COVID-19 Vaccine (recombinant, adjuvanted)
+Nuvaxovid JN.1 dispersion for injection COVID-19 Vaccine (recombinant, adjuvanted)
 
 ## 2. METHOD OF ADMINISTRATION
 
@@ -3386,12 +3293,14 @@ Excipients: disodium hydrogen phosphate heptahydrate, sodium dihydrogen phosphat
 
 ## 4. PHARMACEUTICAL FORM AND CONTENTS
 
-## Dispersion for injection
+Dispersion for injection
 
 - 10 pre-filled syringes
 - 1 pre-filled syringe
 - 1 pre-filled syringe with needle
-- Each pre-filled syringe contains 1 dose of 0.5 mL
+
+Each pre-filled syringe contains 1 dose of 0.5 mL
+
 - 0.5 mL
 
 ## 5. METHOD AND ROUTE(S) OF ADMINISTRATION
@@ -3402,7 +3311,7 @@ Read the package leaflet before use.
 
 <!-- image -->
 
-For more information, scan or visit www.NovavaxCovidVaccine.com
+For more information, scan or visit https://nuvaxovid.info.sanofi
 
 <div style=\"page-break-after: always\"></div>
 
@@ -3446,7 +3355,7 @@ EU/1/21/1618/013
 
 Lot
 
-## 14. GENERAL CLASSIFICATION FOR SUPPLY
+14. GENERAL CLASSIFICATION FOR SUPPLY
 
 15. INSTRUCTIONS ON USE
 
@@ -3470,15 +3379,13 @@ PC SN NN
 
 ## 1. NAME OF THE MEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION
 
-Nuvaxovid JN.1 dispersion for injection
-
-COVID-19 Vaccine (recombinant, adjuvanted)
+Nuvaxovid JN.1 dispersion for injection COVID-19 Vaccine (recombinant, adjuvanted)
 
 ## 2. METHOD OF ADMINISTRATION
 
 IM
 
-## 3. EXPIRY DATE
+3. EXPIRY DATE
 
 EXP
 
@@ -3652,7 +3559,7 @@ Uncommon (may affect up to 1 in 100 people):
 
 <div style=\"page-break-after: always\"></div>
 
-Rare (may affect up to 1 in 1000 people):
+## Rare (may affect up to 1 in 1000 people):
 
 - warmth where the injection is given
 
@@ -3773,7 +3680,11 @@ Tel: +39 02 39394 275
 
 ## Deutschland
 
-Sanofi-Aventis Deutschland GmbH Tel: 0800 54 54 010 Tel. aus dem Ausland: +49 69 305 21 130
+Sanofi-Aventis Deutschland GmbH
+
+Tel: 0800 54 54 010
+
+Tel. aus dem Ausland: +49 69 305 21 130
 
 ## Nederland
 
@@ -3793,19 +3704,15 @@ Sanofi-aventis Norge AS
 
 Tel: + 47 67 10 71 00
 
-Swixx Biopharma SIA
-
-Tel: +371 6 6164 750
-
 <div style=\"page-break-after: always\"></div>
 
 ## Ελλάδα
 
-ΒΙΑΝΕΞ Α . Ε
+ΒΙΑΝΕΞ Α . Ε .
 
-.
+Τηλ
 
-Τηλ : +30.210.8009111
+: +30.210.8009111
 
 ## Österreich
 
@@ -3835,6 +3742,8 @@ Appel depuis l'étranger : +33 1 57 63 23 23
 
 ## Portugal
 
+Sanofi - Produtos Farmacêuticos, Lda.
+
 Tel: + 351 21 35 89 400
 
 ## Hrvatska
@@ -3857,7 +3766,9 @@ Tel: +40 21 317 31 36
 
 ## Slovenija
 
-Swixx Biopharma d.o.o. Tel: +386 1 2355 100
+Swixx Biopharma d.o.o.
+
+Tel: +386 1 2355 100
 
 ## Ísland
 
@@ -3899,17 +3810,17 @@ Tel: +46 8-634 50 00
 
 Swixx Biopharma SIA
 
+Tel: +371 6 6164 750
+
 ## This leaflet was last revised in.
 
 Scan the code with a mobile device to get the package leaflet in different languages.
 
 <!-- image -->
 
-Or visit the URL: https://www.NovavaxCovidVaccine.com
+Or visit the URL: https://nuvaxovid.info.sanofi
 
 ## Other sources of information
-
-Sanofi - Produtos Farmacêuticos, Lda.
 
 <div style=\"page-break-after: always\"></div>
 
@@ -4198,7 +4109,15 @@ For any information about this medicine, please contact the local representative
 
 ## België/ Belgique /Belgien
 
-Sanofi Belgium tel: +32 2 710.54.00
+## Lietuva
+
+Sanofi Belgium
+
+tel: +32 2 710.54.00
+
+Swixx Biopharma UAB
+
+Tel: +370 5 236 9140
 
 ## България
 
@@ -4208,37 +4127,17 @@ Te л
 
 .: +359 2 4942 480
 
-## Česká republika
-
-Sanofi s.r.o.
-
-Tel: +420 233 086 111
-
-## Danmark
-
-Sanofi A/S
-
-Tel: +45 4516 7000
-
-## Deutschland
-
-Sanofi-Aventis Deutschland GmbH Tel: 0800 54 54 010 Tel. aus dem Ausland: +49 69 305 21 130
-
-## Eesti
-
-Swixx Biopharma OÜ
-
-## Lietuva
-
-Swixx Biopharma UAB
-
-Tel: +370 5 236 9140
-
 ## Luxembourg/Luxemburg
 
 Sanofi Belgium
 
 tel.: +32 2 710.54.00
+
+## Česká republika
+
+Sanofi s.r.o.
+
+Tel: +420 233 086 111
 
 ## Magyarország
 
@@ -4246,17 +4145,33 @@ SANOFI-AVENTIS Zrt
 
 Tel: +36 1 505 0055
 
+## Danmark
+
+Sanofi A/S
+
+Tel: +45 4516 7000
+
 ## Malta
 
 Sanofi S.r.l.
 
 Tel: +39 02 39394 275
 
+## Deutschland
+
+Sanofi-Aventis Deutschland GmbH Tel: 0800 54 54 010
+
+Tel. aus dem Ausland: +49 69 305 21 130
+
 ## Nederland
 
 Sanofi B.V.
 
 Tel: +31 20 245 4000
+
+## Eesti
+
+Swixx Biopharma OÜ
 
 ## Norge
 
@@ -4268,11 +4183,11 @@ Tel: + 47 67 10 71 00
 
 ## Ελλάδα
 
-ΒΙΑΝΕΞ Α . Ε
+ΒΙΑΝΕΞ Α . Ε .
 
-.
+Τηλ
 
-Τηλ : +30.210.8009111
+: +30.210.8009111
 
 ## Österreich
 
@@ -4356,7 +4271,9 @@ Tel: +358 (0) 201 200 300
 
 C.A. Papaellinas Ltd.
 
-Τηλ.: +357 22 741741
+Τηλ
+
+.: +357 22 741741
 
 ## Sverige
 
@@ -4378,7 +4295,7 @@ Scan the code with a mobile device to get the package leaflet in different langu
 
 <!-- image -->
 
-Or visit the URL: https://www.NovavaxCovidVaccine.com
+Or visit the URL: https://nuvaxovid.info.sanofi
 
 Sanofi - Produtos Farmacêuticos, Lda.
 
@@ -4846,9 +4763,9 @@ Tel: +46 8-634 50 00
 
 Swixx Biopharma SIA
 
-<div style=\"page-break-after: always\"></div>
-
 Tel: +371 6 6164 750
+
+<div style=\"page-break-after: always\"></div>
 
 ## This leaflet was last revised in.
 
@@ -4856,7 +4773,7 @@ Scan the code with a mobile device to get the package leaflet in different langu
 
 <!-- image -->
 
-Or visit the URL: https://www.NovavaxCovidVaccine.com
+Or visit the URL: https://nuvaxovid.info.sanofi
 
 ## Other sources of information
 
@@ -4911,9 +4828,9 @@ This vaccine should be handled by a healthcare professional using aseptic techni
 
 - Any unused medicinal product or waste material should be disposed of in accordance with local requirements.
 
-## Package leaflet: Information for the user
-
 <div style=\"page-break-after: always\"></div>
+
+## Package leaflet: Information for the user
 
 ## Nuvaxovid JN.1 dispersion for injection in pre-filled syringe
 
@@ -5212,13 +5129,15 @@ Tel: + 47 67 10 71 00
 
 ## Österreich
 
-<div style=\"page-break-after: always\"></div>
-
 ΒΙΑΝΕΞ Α . Ε
 
 .
 
-Τηλ : +30.210.8009111
+Τηλ
+
+: +30.210.8009111
+
+<div style=\"page-break-after: always\"></div>
 
 Sanofi-Aventis GmbH
 
@@ -5322,7 +5241,7 @@ Scan the code with a mobile device to get the package leaflet in different langu
 
 <!-- image -->
 
-Or visit the URL: https://www.NovavaxCovidVaccine.com
+Or visit the URL: https://nuvaxovid.info.sanofi
 
 ## Other sources of information
 

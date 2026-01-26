@@ -1,18 +1,18 @@
 ---
-document_datetime: 2025-12-29 07:49:43
+document_datetime: 2026-01-23 17:25:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/travatan.html
 document_name: travatan.html
 version: success
-processing_time: 0.1163903
-conversion_datetime: 2025-12-31 03:15:43.794286
+processing_time: 0.1119788
+conversion_datetime: 2026-01-26 20:40:16.447819
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.66.0
-  docling-core: 2.57.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.10.0
+  docling-jobkit: 1.8.1
+  docling: 2.70.0
+  docling-core: 2.60.2
+  docling-ibm-models: 3.11.0
+  docling-parse: 4.7.3
   python: cpython-313 (3.13.11)
   plaform: macOS-26.2-arm64-arm-64bit-Mach-O
 ---
@@ -25,8 +25,6 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 travoprost Medicine Human Authorised
-
-On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -105,7 +103,7 @@ English (EN) (73.26 KB - PDF)
 
 [View](/en/documents/overview/travatan-epar-summary-public_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-930)
+[Other languages (22)](#file-language-dropdown-870)
 
 български (BG) (99.36 KB - PDF)
 
@@ -383,17 +381,17 @@ English (EN) (72.26 KB - PDF)
 
 Travatan : EPAR - Product Information
 
-English (EN) (298.08 KB - PDF)
+English (EN) (392.79 KB - PDF)
 
 **First published:** 03/02/2009
 
-**Last updated:** 18/12/2024
+**Last updated:** 23/01/2026
 
 [View](/en/documents/product-information/travatan-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-342)
+[Other languages (24)](#file-language-dropdown-281)
 
-български (BG) (404.61 KB - PDF)
+български (BG) (429.75 KB - PDF)
 
 **First published:**
 
@@ -401,11 +399,11 @@ English (EN) (298.08 KB - PDF)
 
 **Last updated:**
 
-18/12/2024
+23/01/2026
 
 [View](/bg/documents/product-information/travatan-epar-product-information_bg.pdf)
 
-español (ES) (303.35 KB - PDF)
+español (ES) (405.22 KB - PDF)
 
 **First published:**
 
@@ -413,11 +411,11 @@ español (ES) (303.35 KB - PDF)
 
 **Last updated:**
 
-18/12/2024
+23/01/2026
 
 [View](/es/documents/product-information/travatan-epar-product-information_es.pdf)
 
-čeština (CS) (375.82 KB - PDF)
+čeština (CS) (395.33 KB - PDF)
 
 **First published:**
 
@@ -425,11 +423,11 @@ español (ES) (303.35 KB - PDF)
 
 **Last updated:**
 
-18/12/2024
+23/01/2026
 
 [View](/cs/documents/product-information/travatan-epar-product-information_cs.pdf)
 
-dansk (DA) (304.02 KB - PDF)
+dansk (DA) (407.18 KB - PDF)
 
 **First published:**
 
@@ -437,11 +435,11 @@ dansk (DA) (304.02 KB - PDF)
 
 **Last updated:**
 
-18/12/2024
+23/01/2026
 
 [View](/da/documents/product-information/travatan-epar-product-information_da.pdf)
 
-Deutsch (DE) (296.64 KB - PDF)
+Deutsch (DE) (418.42 KB - PDF)
 
 **First published:**
 
@@ -449,11 +447,11 @@ Deutsch (DE) (296.64 KB - PDF)
 
 **Last updated:**
 
-18/12/2024
+23/01/2026
 
 [View](/de/documents/product-information/travatan-epar-product-information_de.pdf)
 
-eesti keel (ET) (306.46 KB - PDF)
+eesti keel (ET) (405.23 KB - PDF)
 
 **First published:**
 
@@ -461,11 +459,11 @@ eesti keel (ET) (306.46 KB - PDF)
 
 **Last updated:**
 
-18/12/2024
+23/01/2026
 
 [View](/et/documents/product-information/travatan-epar-product-information_et.pdf)
 
-ελληνικά (EL) (406.07 KB - PDF)
+ελληνικά (EL) (449.96 KB - PDF)
 
 **First published:**
 
@@ -473,11 +471,11 @@ eesti keel (ET) (306.46 KB - PDF)
 
 **Last updated:**
 
-18/12/2024
+23/01/2026
 
 [View](/el/documents/product-information/travatan-epar-product-information_el.pdf)
 
-français (FR) (317.24 KB - PDF)
+français (FR) (423.34 KB - PDF)
 
 **First published:**
 
@@ -485,11 +483,11 @@ français (FR) (317.24 KB - PDF)
 
 **Last updated:**
 
-18/12/2024
+23/01/2026
 
 [View](/fr/documents/product-information/travatan-epar-product-information_fr.pdf)
 
-hrvatski (HR) (375.56 KB - PDF)
+hrvatski (HR) (395.15 KB - PDF)
 
 **First published:**
 
@@ -497,11 +495,11 @@ hrvatski (HR) (375.56 KB - PDF)
 
 **Last updated:**
 
-18/12/2024
+23/01/2026
 
 [View](/hr/documents/product-information/travatan-epar-product-information_hr.pdf)
 
-íslenska (IS) (301.94 KB - PDF)
+íslenska (IS) (425.87 KB - PDF)
 
 **First published:**
 
@@ -509,11 +507,11 @@ hrvatski (HR) (375.56 KB - PDF)
 
 **Last updated:**
 
-18/12/2024
+23/01/2026
 
 [View](/is/documents/product-information/travatan-epar-product-information_is.pdf)
 
-italiano (IT) (339.13 KB - PDF)
+italiano (IT) (399.67 KB - PDF)
 
 **First published:**
 
@@ -521,11 +519,11 @@ italiano (IT) (339.13 KB - PDF)
 
 **Last updated:**
 
-18/12/2024
+23/01/2026
 
 [View](/it/documents/product-information/travatan-epar-product-information_it.pdf)
 
-latviešu valoda (LV) (389.82 KB - PDF)
+latviešu valoda (LV) (415.88 KB - PDF)
 
 **First published:**
 
@@ -533,11 +531,11 @@ latviešu valoda (LV) (389.82 KB - PDF)
 
 **Last updated:**
 
-18/12/2024
+23/01/2026
 
 [View](/lv/documents/product-information/travatan-epar-product-information_lv.pdf)
 
-lietuvių kalba (LT) (404.85 KB - PDF)
+lietuvių kalba (LT) (406.29 KB - PDF)
 
 **First published:**
 
@@ -545,11 +543,11 @@ lietuvių kalba (LT) (404.85 KB - PDF)
 
 **Last updated:**
 
-18/12/2024
+23/01/2026
 
 [View](/lt/documents/product-information/travatan-epar-product-information_lt.pdf)
 
-magyar (HU) (353.11 KB - PDF)
+magyar (HU) (424.06 KB - PDF)
 
 **First published:**
 
@@ -557,11 +555,11 @@ magyar (HU) (353.11 KB - PDF)
 
 **Last updated:**
 
-18/12/2024
+23/01/2026
 
 [View](/hu/documents/product-information/travatan-epar-product-information_hu.pdf)
 
-Malti (MT) (443.83 KB - PDF)
+Malti (MT) (489.32 KB - PDF)
 
 **First published:**
 
@@ -569,11 +567,11 @@ Malti (MT) (443.83 KB - PDF)
 
 **Last updated:**
 
-18/12/2024
+23/01/2026
 
 [View](/mt/documents/product-information/travatan-epar-product-information_mt.pdf)
 
-Nederlands (NL) (307.26 KB - PDF)
+Nederlands (NL) (417.32 KB - PDF)
 
 **First published:**
 
@@ -581,11 +579,11 @@ Nederlands (NL) (307.26 KB - PDF)
 
 **Last updated:**
 
-18/12/2024
+23/01/2026
 
 [View](/nl/documents/product-information/travatan-epar-product-information_nl.pdf)
 
-norsk (NO) (307.17 KB - PDF)
+norsk (NO) (393.01 KB - PDF)
 
 **First published:**
 
@@ -593,11 +591,11 @@ norsk (NO) (307.17 KB - PDF)
 
 **Last updated:**
 
-18/12/2024
+23/01/2026
 
 [View](/no/documents/product-information/travatan-epar-product-information_no.pdf)
 
-polski (PL) (387.91 KB - PDF)
+polski (PL) (414.15 KB - PDF)
 
 **First published:**
 
@@ -605,11 +603,11 @@ polski (PL) (387.91 KB - PDF)
 
 **Last updated:**
 
-18/12/2024
+23/01/2026
 
 [View](/pl/documents/product-information/travatan-epar-product-information_pl.pdf)
 
-português (PT) (305.02 KB - PDF)
+português (PT) (389.55 KB - PDF)
 
 **First published:**
 
@@ -617,11 +615,11 @@ português (PT) (305.02 KB - PDF)
 
 **Last updated:**
 
-18/12/2024
+23/01/2026
 
 [View](/pt/documents/product-information/travatan-epar-product-information_pt.pdf)
 
-română (RO) (391.14 KB - PDF)
+română (RO) (418.11 KB - PDF)
 
 **First published:**
 
@@ -629,11 +627,11 @@ română (RO) (391.14 KB - PDF)
 
 **Last updated:**
 
-18/12/2024
+23/01/2026
 
 [View](/ro/documents/product-information/travatan-epar-product-information_ro.pdf)
 
-slovenčina (SK) (395.63 KB - PDF)
+slovenčina (SK) (422.81 KB - PDF)
 
 **First published:**
 
@@ -641,11 +639,11 @@ slovenčina (SK) (395.63 KB - PDF)
 
 **Last updated:**
 
-18/12/2024
+23/01/2026
 
 [View](/sk/documents/product-information/travatan-epar-product-information_sk.pdf)
 
-slovenščina (SL) (369.84 KB - PDF)
+slovenščina (SL) (397.27 KB - PDF)
 
 **First published:**
 
@@ -653,11 +651,11 @@ slovenščina (SL) (369.84 KB - PDF)
 
 **Last updated:**
 
-18/12/2024
+23/01/2026
 
 [View](/sl/documents/product-information/travatan-epar-product-information_sl.pdf)
 
-Suomi (FI) (292.71 KB - PDF)
+Suomi (FI) (373.55 KB - PDF)
 
 **First published:**
 
@@ -665,11 +663,11 @@ Suomi (FI) (292.71 KB - PDF)
 
 **Last updated:**
 
-18/12/2024
+23/01/2026
 
 [View](/fi/documents/product-information/travatan-epar-product-information_fi.pdf)
 
-svenska (SV) (302.25 KB - PDF)
+svenska (SV) (427.59 KB - PDF)
 
 **First published:**
 
@@ -677,11 +675,11 @@ svenska (SV) (302.25 KB - PDF)
 
 **Last updated:**
 
-18/12/2024
+23/01/2026
 
 [View](/sv/documents/product-information/travatan-epar-product-information_sv.pdf)
 
-**Latest procedure affecting product information:** IAIN/0072/G 16/12/2024
+**Latest procedure affecting product information:** VR/0000323305 22/01/2026
 
 icon globe
 
@@ -707,7 +705,7 @@ English (EN) (57.8 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/travatan-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-863)
+[Other languages (24)](#file-language-dropdown-784)
 
 български (BG) (63.57 KB - PDF)
 
@@ -1024,7 +1022,7 @@ Novartis Europharm Limited
 
 Vista Building
 
-Marketing authorisation issued 27/11/2001 Revision 31
+Marketing authorisation issued 27/11/2001 Revision 32
 
 ## Assessment history
 
@@ -1036,13 +1034,21 @@ Collapse section
 
 Travatan : EPAR - Procedural steps taken and scientific information after authorisation
 
+English (EN) (146.27 KB - PDF)
+
+**First published:** 23/01/2026
+
+[View](/en/documents/procedural-steps-after/travatan-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf)
+
+Travatan : EPAR - Procedural steps taken and scientific information after authorisation (archive)
+
 English (EN) (178.65 KB - PDF)
 
 **First published:** 03/02/2009
 
-**Last updated:** 18/12/2024
+**Last updated:** 23/01/2026
 
-[View](/en/documents/procedural-steps-after/travatan-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf)
+[View](/en/documents/procedural-steps-after/travatan-epar-procedural-steps-taken-scientific-information-after-authorisation-archive_en.pdf)
 
 Travatan : EPAR - Paediatric investigation plan compliance statement
 
@@ -1126,7 +1132,7 @@ English (EN) (98.13 KB - PDF)
 
 - [Medicines](https://www.ema.europa.eu/en/search?f%5B0%5D=ema_search_topics%3A61)
 
-**This page was last updated on** 18/12/2024
+**This page was last updated on** 23/01/2026
 
 ## Share this page
 

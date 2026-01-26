@@ -1,18 +1,18 @@
 ---
-document_datetime: 2025-12-29 12:48:43
+document_datetime: 2026-01-23 17:35:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/nexviadyme.html
 document_name: nexviadyme.html
 version: success
-processing_time: 0.1067484
-conversion_datetime: 2025-12-31 03:40:08.406175
+processing_time: 0.1015307
+conversion_datetime: 2026-01-26 20:29:40.306084
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.66.0
-  docling-core: 2.57.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.10.0
+  docling-jobkit: 1.8.1
+  docling: 2.70.0
+  docling-core: 2.60.2
+  docling-ibm-models: 3.11.0
+  docling-parse: 4.7.3
   python: cpython-313 (3.13.11)
   plaform: macOS-26.2-arm64-arm-64bit-Mach-O
 ---
@@ -25,8 +25,6 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 avalglucosidase alfa Medicine Human Authorised
-
-On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -101,7 +99,7 @@ English (EN) (121.67 KB - PDF)
 
 [View](/en/documents/overview/nexviadyme-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-241)
+[Other languages (22)](#file-language-dropdown-175)
 
 български (BG) (146.91 KB - PDF)
 
@@ -279,13 +277,15 @@ svenska (SV) (119.76 KB - PDF)
 
 [View](/sv/documents/overview/nexviadyme-epar-medicine-overview_sv.pdf)
 
-Nexviadyme : EPAR - Risk-management-plan summary
+Nexviadyme : EPAR - Risk management plan
 
-English (EN) (171.15 KB - PDF)
+English (EN) (1.03 MB - PDF)
 
 **First published:** 27/07/2022
 
-[View](/en/documents/rmp-summary/nexviadyme-epar-risk-management-plan-summary_en.pdf)
+**Last updated:** 23/01/2026
+
+[View](/en/documents/rmp/nexviadyme-epar-risk-management-plan_en.pdf)
 
 ## Product information
 
@@ -299,7 +299,7 @@ English (EN) (359.98 KB - PDF)
 
 [View](/en/documents/product-information/nexviadyme-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-511)
+[Other languages (24)](#file-language-dropdown-479)
 
 български (BG) (649.01 KB - PDF)
 
@@ -613,7 +613,7 @@ English (EN) (44.21 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/nexviadyme-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-816)
+[Other languages (24)](#file-language-dropdown-129)
 
 български (BG) (54.99 KB - PDF)
 
@@ -837,7 +837,7 @@ Sanofi B.V.
 
 Paasheuvelweg 25
 
-Opinion adopted 11/11/2021 Marketing authorisation issued 24/06/2022 Revision 5
+Opinion adopted 11/11/2021 Marketing authorisation issued 24/06/2022 Revision 6
 
 ## Assessment history
 
@@ -849,13 +849,21 @@ Collapse section
 
 Nexviadyme : EPAR - Procedural steps taken and scientific information after authorisation
 
+English (EN) (142.49 KB - PDF)
+
+**First published:** 23/01/2026
+
+[View](/en/documents/procedural-steps-after/nexviadyme-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf)
+
+Nexviadyme : EPAR - Procedural steps taken and scientific information after authorisation (archive)
+
 English (EN) (117.58 KB - PDF)
 
 **First published:** 05/04/2023
 
-**Last updated:** 08/08/2024
+**Last updated:** 23/01/2026
 
-[View](/en/documents/procedural-steps-after/nexviadyme-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf)
+[View](/en/documents/procedural-steps-after/nexviadyme-epar-procedural-steps-taken-scientific-information-after-authorisation-archive_en.pdf)
 
 ## Initial marketing authorisation documents
 
@@ -916,7 +924,7 @@ This product is no longer an orphan medicine. It was originally designated an or
 - [EMA/PE/0000181300 - paediatric investigation plan](/en/medicines/human/paediatric-investigation-plans/ema-pe-0000181300)
 - [A Post-Authorization Safety Study (PASS) to Assess Long-term Safety in Patients with Pompe Disease Treated with Avalglucosidase alfa in the Real-World Setting: the SAVANT (Safety assessment of AValglucosidase Alfa as a Novel Treatment) study - post-authorisation study](https://catalogues.ema.europa.eu/study/107473)
 
-**This page was last updated on** 08/08/2024
+**This page was last updated on** 23/01/2026
 
 ## Share this page
 

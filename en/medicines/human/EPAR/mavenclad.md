@@ -1,18 +1,18 @@
 ---
-document_datetime: 2026-01-13 16:18:00
+document_datetime: 2026-01-26 18:05:46
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/mavenclad.html
 document_name: mavenclad.html
 version: success
-processing_time: 0.1130905
-conversion_datetime: 2026-01-14 08:24:40.529351
+processing_time: 0.1091618
+conversion_datetime: 2026-01-26 20:21:54.302003
 docling_version:
   docling-serve: 1.10.0
   docling-jobkit: 1.8.1
-  docling: 2.68.0
-  docling-core: 2.59.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling: 2.70.0
+  docling-core: 2.60.2
+  docling-ibm-models: 3.11.0
+  docling-parse: 4.7.3
   python: cpython-313 (3.13.11)
   plaform: macOS-26.2-arm64-arm-64bit-Mach-O
 ---
@@ -111,7 +111,7 @@ English (EN) (77.66 KB - PDF)
 
 [View](/en/documents/overview/mavenclad-epar-summary-public_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-404)
+[Other languages (22)](#file-language-dropdown-127)
 
 български (BG) (106.09 KB - PDF)
 
@@ -399,7 +399,7 @@ English (EN) (328.54 KB - PDF)
 
 [View](/en/documents/product-information/mavenclad-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-558)
+[Other languages (24)](#file-language-dropdown-683)
 
 български (BG) (495.15 KB - PDF)
 
@@ -715,7 +715,7 @@ English (EN) (16.38 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/mavenclad-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-355)
+[Other languages (24)](#file-language-dropdown-22)
 
 български (BG) (38.02 KB - PDF)
 

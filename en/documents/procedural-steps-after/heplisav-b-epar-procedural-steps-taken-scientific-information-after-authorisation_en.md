@@ -1,124 +1,835 @@
 ---
-document_datetime: 2025-03-31 10:06:13
-document_pages: 11
+document_datetime: 2026-01-28 16:07:18
+document_pages: 25
 document_pathfilename: www.ema.europa.eu/en/documents/procedural-steps-after/heplisav-b-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf
 document_name: heplisav-b-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf
 version: success
-processing_time: 7.5919567
-conversion_datetime: 2025-12-20 07:55:30.095383
+processing_time: 6.693772
+conversion_datetime: 2026-01-29 11:50:26.861294
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.64.1
-  docling-core: 2.55.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.11.0
+  docling-jobkit: 1.9.0
+  docling: 2.70.0
+  docling-core: 2.61.0
+  docling-ibm-models: 3.11.0
+  docling-parse: 4.7.3
   python: cpython-313 (3.13.11)
   plaform: macOS-26.2-arm64-arm-64bit-Mach-O
 ---
-## HEPLISAV B
+## ANNEX I
 
-Procedural steps taken and scientific information after the authorisation
+## SUMMARY OF PRODUCT CHARACTERISTICS
 
-| Application number   | Scope                                                                                                                                                                                                                                                                                           | Opinion/ Notification 1 issued on   | Commission Decision Issued 2 / amended on   | Product Information affected 3   | Summary                                                                                                                                                                                                                                                                                                                                           |
-|----------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------|---------------------------------------------|----------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| II/0037              | Update of section 4.9 of the SmPC in order to revise information regarding overdose to indicate \"Not Applicable\" following review of overall safety data. In addition, the MAH took the opportunity to make some editorial updates to the PI and bring it in line with the latest QRD template. | 27/02/2025                          |                                             | SmPC and Annex II                | The MAH has submitted a Type II variation application to update the section 4.9 Overdose of the SmPC for a change from 'no cases of overdose have been reported' to 'not applicable'. In addition, minor editorial changes are proposed to the PI to aid in readability. No changes to the risk management plan are proposed with this variation, |
+<div style=\"page-break-after: always\"></div>
 
-1  Notifications are issued for type I variations and Article 61(3) notifications (unless part of a group including a type II variation or extension application or a worksharing application). Opinions are issued for all other procedures.
+## 1. NAME OF THE MEDICINAL PRODUCT
 
-2  A Commission decision (CD) is issued for procedures that affect the terms of the marketing authorisation (e.g. summary of product characteristics, annex II, labelling, package leaflet). The
+HEPLISAV B 20 micrograms solution for injection in pre-filled syringe Hepatitis B vaccine (recombinant DNA, adjuvanted)
 
-CD is issued within two months of the opinion for variations falling under the scope of Article 23.1a(a) of Regulation (EU) No. 712/2012, or within one year for other procedures.
+## 2. QUALITATIVE AND QUANTITATIVE COMPOSITION
 
-3  SmPC (Summary of Product Characteristics), Annex II, Labelling, PL (Package Leaflet).
+One dose (0.5 mL) contains:
+
+Hepatitis B surface antigen (HBsAg) 1,2
+
+20 micrograms
+
+1 Adjuvanted with 3 000 micrograms cytidine phosphoguanosine (CpG) 1018 adjuvant, a 22-mer phosphothioate oligonucleotide (PS-ODN) comprising microbial DNA-like unmethylated CpG motifs. 2 Produced in yeast cells ( Hansenula polymorpha ) by recombinant DNA technology.
+
+For the full list of excipients, see section 6.1.
+
+## 3. PHARMACEUTICAL FORM
+
+Solution for injection.
+
+Clear to slightly opalescent, colourless to slightly yellow solution.
+
+## 4. CLINICAL PARTICULARS
+
+## 4.1 Therapeutic indications
+
+HEPLISAV B is indicated for active immunisation against hepatitis B virus infection (HBV) caused by all known subtypes of hepatitis B virus in adults 18 years of age and older.
+
+The use of HEPLISAV B should be in accordance with official recommendations.
+
+It can be expected that hepatitis D will also be prevented by immunisation with HEPLISAV B as hepatitis D (caused by the delta agent) does not occur in the absence of hepatitis B infection.
+
+## 4.2 Posology and method of administration
+
+Posology
+
+Primary vaccination
+
+Adults
+
+Two doses of 0.5 mL each: an initial dose followed by a second dose 1 month later.
+
+Booster dose
+
+The need for a booster dose has not been established. Subjects who are immunocompromised or who have chronic renal failure may require a booster dose (see 'Renal impairment'). A 0.5 mL booster dose should be given when antibody levels decrease below recommended levels.
+
+Special populations
+
+Elderly
+
+<div style=\"page-break-after: always\"></div>
+
+No dose adjustment is required in adults aged 65 years and older (see section 5.1).
+
+## Renal impairment
+
+For adults with severe renal impairment (eGFR &lt; 30 mL/min), including patients undergoing haemodialysis, four doses of 0.5 mL each: an initial dose followed by a second dose 1 month later, a third dose 2 months after the initial dose, and a fourth dose 4 months after the initial dose.
+
+## Paediatric population
+
+The safety and efficacy of HEPLISAV B in children less than 18 years of age have not been established. No data are available.
+
+## Method of administration
+
+HEPLISAV B should be injected intramuscularly (IM) in the deltoid region. Injection into the gluteal region (buttocks) should be avoided.
+
+The vaccine should not be administered intravenously, subcutaneously, or intradermally.
+
+For instructions on handling of the vaccine before administration, see section 6.6.
+
+## 4.3 Contraindications
+
+Hypersensitivity to the active substance or to any of the excipients listed in section 6.1.
+
+Severe allergic reaction, such as anaphylaxis, after a previous dose of any hepatitis B vaccine.
+
+Hypersensitivity to yeast.
+
+## 4.4 Special warnings and precautions for use
+
+## Traceability
+
+In order to improve the traceability of biological medicinal products, the name and the batch number of the administered product should be clearly recorded.
+
+## Hypersensitivity and anaphylaxis
+
+As with all injectable vaccines, appropriate medical treatment and supervision should be readily available in case of anaphylactic reactions following the administration of the vaccine.
+
+## Concurrent illness
+
+As with other vaccines, the administration of HEPLISAV B should be postponed in subjects suffering from acute severe febrile illness. The presence of a minor infection, however, is not a contraindication for immunisation.
+
+## Syncope
+
+Syncope (fainting) can occur following, or even before, any vaccination as a psychogenic response to the needle injection. This can be accompanied by several neurological signs such as transient visual disturbance, paraesthesia, and tonic-clonic limb movements during recovery. It is important that procedures are in place to avoid injury.
+
+## Limitations of vaccine effectiveness
+
+As with any vaccine, a protective immune response may not be elicited in all vaccinees.
+
+<div style=\"page-break-after: always\"></div>
+
+Because of the long incubation period of hepatitis B, it is possible for unrecognised HBV infection to be present at the time of immunisation. HEPLISAV B may not prevent HBV infection in such cases.
+
+HEPLISAV B will not prevent infection caused by other pathogens known to infect the liver such as hepatitis A, hepatitis C, and hepatitis E viruses.
+
+There are very limited data on the immune response to HEPLISAV B in individuals who did not mount a protective immune response to another hepatitis B vaccine.
+
+## Immunodeficiency
+
+Immunocompromised persons may have a diminished immune response to HEPLISAV B. There are very limited data available among immunocompromised population. Attention should be given to ensure that a protective antibody level is maintained as defined by national recommendations and guidelines (see section 4.2).
+
+Patients with chronic liver disease or with HIV infection or hepatitis C carriers should not be precluded from vaccination against hepatitis B. The vaccine could be advised since HBV infection can be severe in these patients: the HEPLISAV B vaccination should thus be considered on a case by case basis by the physician.
+
+## Renal impairment
+
+As patients with CKD who are pre-haemodialysis or receiving haemodialysis are particularly at risk of exposure to HBV and have a higher risk of becoming chronically infected, attention should be given to ensure that a protective antibody level is maintained as defined by national recommendations and guidelines (see section 4.2).
+
+## Excipients with known effect
+
+## Sodium
+
+This medicinal product contains less than 1 mmol sodium (23 mg) per dose, that is to say essentially 'sodium-free'.
+
+## Polysorbate 80
+
+This medicinal product contains 0.05 mg of polysorbate 80 in each dose, which is equivalent to 0.1 mg/mL. Polysorbates may cause allergic reactions.
+
+## 4.5 Interaction with other medicinal products and other forms of interaction
+
+As there are no data on co-administration of HEPLISAV B with other vaccines, the concomitant use of HEPLISAV B with other vaccines is not recommended.
+
+Concomitant administration of HEPLISAV B with hepatitis B immunoglobulin (HBIG) has not been studied. However, in circumstances where HEPLISAV B is administered with a standard dose of HBIG, these should be given at separate injection sites.
+
+## 4.6 Fertility, pregnancy and lactation
+
+## Pregnancy
+
+There are a limited amount of data from the use of HEPLISAV B in pregnant women.
+
+Animal studies do not indicate direct or indirect harmful effects with respect to reproductive toxicity (see section 5.3).
+
+<div style=\"page-break-after: always\"></div>
+
+Vaccination during pregnancy should only be performed if the risk-benefit ratio at the individual level outweighs possible risks for the foetus.
+
+## Breast-feeding
+
+It is unknown whether HEPLISAV B is excreted in human milk. A risk to the breastfed newborns/infants cannot be excluded.
+
+A decision must be made whether to discontinue breast-feeding or to abstain from HEPLISAV B vaccination taking into account the benefit of breast-feeding for the child and the benefit of vaccination for the woman.
+
+## Fertility
+
+No data on the effect of HEPLISAV B on fertility in humans are available.
+
+Animal studies do not indicate direct or indirect harmful effects with respect to reproductive toxicity (see section 5.3).
+
+## 4.7 Effects on ability to drive and use machines
+
+HEPLISAV B may have a moderate influence on the ability to drive and use machines. Some of the effects mentioned under section 4.8 'Undesirable effects' (e.g. malaise, dizziness) may affect the ability to drive or operate machinery.
+
+## 4.8 Undesirable effects
+
+## Summary of the safety profile
+
+The most common adverse reactions are post-injection reactions. These are injection site pain (41.7%), fatigue (21.4%), headache (20.1%), malaise (13.8%), and myalgia (12.5%).
+
+## Tabulated list of adverse reactions
+
+The adverse reactions are listed below and classified by MedDRA system organ class under headings of frequency using the following convention:
+
+Very common (≥ 1/10), Common (≥ 1/100 to &lt; 1/10), Uncommon (≥ 1/1 000 to &lt; 1/100), Rare (≥ 1/10 000 to &lt; 1/1 000),
+
+Very rare (&lt; 1/10 000),
+
+Not known (cannot be estimated from the available data).
+
+Within each frequency grouping, adverse reactions are presented in order of decreasing seriousness.
+
+The clinical trials safety profile is based on data from 3 pivotal clinical trials in healthy adult subjects (N = 9 365) and 1 pivotal clinical trial in adult subjects with end stage renal disease on hemodialysis (N = 119) who were monitored for safety, including local and systemic post-injection reactions using diary  cards  for  a  7-day  period  starting  on  the  day  of  vaccination.  The  reactogenicity  profile  of HEPLISAV B in 119 subjects  on  haemodialysis  was  generally  comparable  to  that  seen  in  healthy subjects.
+
+The table includes adverse reactions considered as being at least possibly related to vaccination and observed in recipients of HEPLISAV B from the pivotal clinical trials listed above (N = 9 484) and from post-marketing surveillance.
+
+<div style=\"page-break-after: always\"></div>
+
+| System organ class                                   | Frequency   | Adverse reactions                                         |
+|------------------------------------------------------|-------------|-----------------------------------------------------------|
+| Immune system disorders                              | Uncommon    | Hypersensivity 4                                          |
+| Immune system disorders                              | Very rare   | Anaphylaxis 2                                             |
+| Nervous system disorders                             | Very common | Headache 1                                                |
+| Nervous system disorders                             | Rare        | Dizziness, paraesthesia                                   |
+| Gastrointestinal disorders                           | Uncommon    | Gastrointestinal symptoms 3                               |
+| Musculoskeletal and connective tissue disorders      | Very common | Myalgia 1                                                 |
+| General disorders and administration site conditions | Very common | Malaise 1 , fatigue 1 , injection site pain 1             |
+| General disorders and administration site conditions | Common      | Injection site swelling, injection site erythema, fever 1 |
+| General disorders and administration site conditions | Uncommon    | Injection site pruritus 2                                 |
+
+## Reporting of suspected adverse reactions
+
+Reporting suspected adverse reactions after authorisation of the medicinal product is important. It allows continued monitoring of the benefit/risk balance of the medicinal product. Healthcare professionals are asked to report any suspected adverse reactions via the national reporting system listed in Appendix V.
+
+## 4.9 Overdose
+
+Cases of overdose have been reported with HEPLISAV B during post-marketing surveillance. Adverse events reported following overdose were similar to those reported with normal vaccine administration.
+
+## 5. PHARMACOLOGICAL PROPERTIES
+
+## 5.1 Pharmacodynamic properties
+
+Pharmacotherapeutic group: Vaccines, viral vaccines, hepatitis vaccine, ATC code: J07BC01
+
+## Mechanism of action
+
+HEPLISAV B is comprised of recombinant hepatitis B surface antigen and the CpG 1018 adjuvant, which is a 22-mer PS-ODN immunostimulatory sequence.
+
+HEPLISAV B induces specific antibodies against HBsAg (anti-HBs).
+
+The biological actions of CpG 1018 are exerted locally at the injection site and draining lymph nodes. The adjuvant CpG 1018 component of HEPLISAV B has the following effects: (1) Activates plasmacytoid dendritic cells (pDCs) through the pattern recognition receptor Toll-like receptor 9; (2)
+
+<div style=\"page-break-after: always\"></div>
+
+converts pDCs into highly efficient antigen-presenting cells that present the processed HBsAg to CD4+ T cells; and, (3) promotes Th1 T-cell differentiation through the production of IFN-alpha and IL-12. This activation results in a high and sustained antibody response, likely due to the rapid generation of large numbers of anti-HBs-secreting plasmacytes and HBsAg-specific memory B and T cells.
+
+## Immune responses to HEPLISAV B
+
+No efficacy trials were conducted due to the application of the well-established immune correlate of protection to the immune response (antiHBs concentration ≥ 10 mIU/mL correlates with protection against HBV infection). The immunogenicity of HEPLISAV B was evaluated in 3 randomised, active controlled, observer-blinded, multicentre phase 3 clinical trials (HBV-10 with 3:1 randomisation, HBV-16 with 4:1 randomisation, and HBV-23 with 2:1 randomisation) including 9 365 adults aged 18 to 70 years given HEPLISAV B, and 3 867 adults given the comparator hepatitis B vaccine (HepBalum 20 mcg HBsAg). HEPLISAV B was given as a 2-dose schedule at 0 and 1 month and HepBalum was given using a 3-dose schedule at 0, 1, and 6 months.
+
+Baseline characteristics were balanced between the treatment arms for age, gender, race, ethnicity, and body mass index (BMI). In the pooled analysis including all 3 trials, the mean age was 49.3 and 49.4 in the HEPLISAV B arm and HepB-alum arms, respectively and there were 50.8% and 51.5% female participants who received HEPLISAV B and HepB-alum, respectively.
+
+The trials evaluated the seroprotection rates (SPR: percentage of vaccinated persons whose anti-HBs antibody levels were ≥ 10 mIU/mL after vaccination) after the second dose of HEPLISAV B compared to after the third dose of HepB-alum. The SPR and peak geometric mean concentration (GMC) after a 2-dose schedule of HEPLISAV B were statistically significantly higher than after a 3dose schedule of HepB-alum (lower bound of the 95% confidence interval of the difference in SPRs between HEPLISAV B and HepB-alum was greater than 0%; lower bound of the 95% confidence interval of the ratio of GMCs between HEPLISAV B and HepB-alum was greater than 1) in all 3 trials (Table 1, Table 2).
+
+Table 1 Comparison of seroprotection rates between HEPLISAV B and HepB-alum at peak weeks in pooled trials HBV-23, HBV-16 and HBV-10 (mITT population)
+
+| HEPLISAV B   | HEPLISAV B   | HEPLISAV B         | HepB-alum   | HepB-alum   | HepB-alum          | Difference                        |
+|--------------|--------------|--------------------|-------------|-------------|--------------------|-----------------------------------|
+| N            | n            | SPR (%) (95% CI)   | N           | n           | SPR (%) (95% CI)   | (HEPLISAV B - HepB-alum) (95% CI) |
+| 8 701        | 8 327        | 95.7 (95.3 - 96.1) | 3 643       | 2 898       | 79.5 (78.2 - 80.8) | 16.2 (14.8 - 17.6)                |
+
+Peak week comparison is for HEPLISAV B at week 24 and HepB-alum at week 28.
+
+The confidence intervals on seroprotection rates are calculated using the two-sided Clopper-Pearson method.
+
+The confidence interval on the difference between treatment groups is calculated using the Miettinen and Nurminen method without stratification.
+
+Table 2 Comparison of anti-HBs geometric mean concentrations at peak weeks between HEPLISAV B and HepB-alumin pooled trials HBV-23, HBV-16 and HBV-10 (mITT population)
+
+| HEPLISAV B   | HEPLISAV B            | HepB-alum   | HepB-alum             | GMCratio                          |
+|--------------|-----------------------|-------------|-----------------------|-----------------------------------|
+| N            | GMC (95% CI)          | N           | GMC (95% CI)          | (HEPLISAV B / HepB-Alum) (95% CI) |
+| 8 701        | 329.1 (317.1 - 341.5) | 3 642       | 262.3 (236.4 - 291.1) | 1.3 (1.1 - 1.4)                   |
+
+Peak week for HEPLISAV B is week 24. Peak week for HepB-alum  is week 28.
+
+<div style=\"page-break-after: always\"></div>
+
+SPR results were collected at each trial visit in two of the pivotal trials, HBV-10 (week 4 to 28) and HBV-16 (week 4 to 52). HEPLISAV B induced significantly higher SPRs than HepB-alum across all visits in both trials (Figure 1).
+
+Figure 1 Seroprotection rates by visit in trials HBV-16 and HBV-10 (per protocol population)
 
 <!-- image -->
 
-<!-- image -->
+In all three trials, SPRs induced by HEPLISAV B were statistically significantly higher than those induced by HepB-alum in older adults, men, obese individuals, smokers and subjects with type 2 diabetes mellitus (Table 3).
+
+Table 3 Comparison of seroprotection rates between HEPLISAV B and HepB-alum at peak weeks by category in pooled trials HBV-23, HBV-16 and HBV-10 (mITT population)
+
+|                   | HEPLISAV B   | HEPLISAV B   | HEPLISAV B          | HepB-alum   | HepB-alum   | HepB-alum          | Difference                        |
+|-------------------|--------------|--------------|---------------------|-------------|-------------|--------------------|-----------------------------------|
+| Category          | N            | n            | SPR (%) (95% CI)    | N           | n           | SPR (%) (95% CI)   | (HEPLISAV B - HepB-alum) (95% CI) |
+| All subjects      | 8 701        | 8 327        | 95.7 (95.3 - 96.1)  | 3 643       | 2 898       | 79.5 (78.2 - 80.8) | 16.2 (14.8 - 17.6)                |
+| Age group (years) |              |              |                     |             |             |                    |                                   |
+| 18 - 29           | 527          | 526          | 99.8 (98.9 - 100.0) | 211         | 196         | 92.9 (88.5 - 96.0) | 6.9 (4.1 - 11.2)                  |
+| 30 - 39           | 1 239        | 1 227        | 99.0 (98.3 - 99.5)  | 545         | 483         | 88.6 (85.7 - 91.2) | 10.4 (7.9 - 13.4)                 |
+| 40 - 49           | 2 377        | 2 310        | 97.2 (96.4 - 97.8)  | 963         | 771         | 80.1 (77.4 - 82.5) | 17.1 (14.6 - 19.8)                |
+| 50 - 59           | 2 712        | 2 578        | 95.1 (94.2 - 95.8)  | 1 120       | 872         | 77.9 (75.3 - 80.3) | 17.2 (14.7 - 19.8)                |
+| ≥ 60              | 1 846        | 1 686        | 91.3 (90.0 - 92.6)  | 804         | 576         | 71.6 (68.4 - 74.7) | 19.7 (16.4 - 23.1)                |
+| Gender            |              |              |                     |             |             |                    |                                   |
+| Male              | 4 2744       | 055          | 94.9 (94.2 - 95.5)  | 1 765       | 1 361       | 77.1 (75.1 - 79.1) | 17.8 (15.7 - 19.9)                |
+| Female            | 4 427        | 4 272        | 96.5 (95.9 - 97.0)  | 1 878       | 1 537       | 81.8 (80.0 - 83.6) | 14.7 (12.9 - 16.5)                |
+| BMI stratum       | BMI stratum  | BMI stratum  | BMI stratum         | BMI stratum | BMI stratum | BMI stratum        | BMI stratum                       |
 
 <div style=\"page-break-after: always\"></div>
 
-|           | C.I.4 - Change(s) in the SPC, Labelling or PL due to new quality, preclinical, clinical or pharmacovigilance data                                           |            |     | since the proposed changes have no impact on the safety profile, risk minimisation measures or additional pharmacovigilance requirements. A review of the overall safety dataset as well as all adverse events reported in the Global Safety Database performed by the MAH did not identify any trends in safety events resulting from the administration of an extra dose of HEPLISAV B given per administration or cumulatively; there is no evidence to support the inclusion of information concerning both observed and theoretical signs and symptoms of overdose. Additionally, no recommendations are required for clinical management including the provision of antidotes and proper supportive therapy concerning an overdose of HEPLISAV B. As a result, the following revised wording of section 4.9 of the SmPC was endorsed by the CHMP, aligning with other SmPC texts for vaccines: 4.9 Overdose 'Cases of overdose have been reported during post- marketing surveillance. In general, the adverse event profile reported with overdose was comparable to that observed with the recommended dose of Heplisav B.' The overall benefit-risk balance of Heplisav B remains positive.   |
-|-----------|-------------------------------------------------------------------------------------------------------------------------------------------------------------|------------|-----|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| IB/0036/G | This was an application for a group of variations. B.I.a.1.a - Change in the manufacturer of AS or of a starting material/reagent/intermediate for AS - The | 02/09/2024 | n/a |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        |
+| < 30 kg/m 2                                           | 4 904 4                                               | 728                                                   | 96.4 (95.9 - 96.9)                                    | 2 069                                                 | 1 756                                                 | 84.9 (83.3 - 86.4)                                    | 11.5 (10.0 - 13.2)                                    |
+|-------------------------------------------------------|-------------------------------------------------------|-------------------------------------------------------|-------------------------------------------------------|-------------------------------------------------------|-------------------------------------------------------|-------------------------------------------------------|-------------------------------------------------------|
+| ≥ 30 kg/m 2                                           | 3 789 3                                               | 591                                                   | 94.8 (94.0 - 95.5)                                    | 1 570                                                 | 1 140                                                 | 72.6 (70.3 - 74.8)                                    | 22.2 (19.9 - 24.5)                                    |
+| Smoking status                                        |                                                       |                                                       |                                                       |                                                       |                                                       |                                                       |                                                       |
+| Smoker                                                | 2 634                                                 | 2 538                                                 | 96.4 (95.6 - 97.0)                                    | 1 130                                                 | 852                                                   | 75.4 (72.8 - 77.9)                                    | 21.0 (18.4 - 23.6)                                    |
+| Non-smoker                                            | 6 067                                                 | 5 789                                                 | 95.4 (94.9 - 95.9)                                    | 2 513                                                 | 2 046                                                 | 81.4 (79.8 - 82.9)                                    | 14.0 (12.4 - 15.7)                                    |
+| Type 2 diabetes mellitus status and age group (years) | Type 2 diabetes mellitus status and age group (years) | Type 2 diabetes mellitus status and age group (years) | Type 2 diabetes mellitus status and age group (years) | Type 2 diabetes mellitus status and age group (years) | Type 2 diabetes mellitus status and age group (years) | Type 2 diabetes mellitus status and age group (years) | Type 2 diabetes mellitus status and age group (years) |
+| With T2D 20 - 39                                      | 38                                                    | 37                                                    | 97.4 (86.2 - 99.9)                                    | 16                                                    | 12                                                    | 75.0 (47.6 - 92.7)                                    | 22.4 (5.1 - 47.5)                                     |
+| 40 - 49                                               | 163                                                   | 151                                                   | 92.6 (87.5 - 96.1)                                    | 67                                                    | 49                                                    | 73.1 (60.9 - 83.2)                                    | 19.5 (9.2 - 31.7)                                     |
+| 50 - 59                                               | 334                                                   | 303                                                   | 90.7 (87.1 - 93.6)                                    | 160                                                   | 108                                                   | 67.5 (59.7 - 74.7)                                    | 23.2 (15.6 - 31.4)                                    |
+| ≥ 60                                                  | 377                                                   | 320                                                   | 84.9 (80.9 - 88.3)                                    | 165                                                   | 97                                                    | 58.8 (50.9 - 66.4)                                    | 26.1 (17.9 - 34.5)                                    |
+
+BMI = body mass index; CI = confidence interval; N = number of evaluable subjects; n = number of seroprotected subjects; SPR = Seroprotection rate; T2D = type 2 diabetes mellitus.
+
+Seroprotection is defined as anti-HBs = 10 mIU/mL.
+
+Peak week comparison is for HEPLISAV B at week 24 and HepB-alum at week 28.
+
+The confidence intervals on seroprotection rates are calculated using the two-sided Clopper-Pearson method.
+
+The confidence interval on the difference between treatment groups is calculated using the Miettinen and Nurminen method without stratification
+
+## Haemodialysis
+
+In a phase 1, open-label, single arm, multicentre trial of 119 adults with end-stage renal disease who were undergoing haemodialysis, participants received a 4-dose regimen of HEPLISAV B at 0, 1, 2, and 4 months. The mean age was 59.9 years and 60.5% were male, 39.5% were female.
+
+The primary analysis evaluated the SPR 5 months after the first dose of HEPLISAV B. In 75 participants who received all 4 doses of HEPLISAV B, the SPR was 89.3% (95% confidence interval [CI]: 80.1%, 95.3%). In secondary analyses, 81.3% (95% CI: 70.7%, 89.4%) of subjects had an antiHBs concentration ≥ 100 mIU/mL. The geometric mean concentration of anti-HBs was 1 061.8 mIU/mL (95% CI: 547.2, 2 060.2).
+
+In a phase 3, randomised, open-label, multicentre trial of 116 adult subjects with haemodialysis-dependent CKD who were non-responders to previous hepatitis B vaccination, participants received a 1-dose booster regimen of HEPLISAV B or HepB-AS04C, or a double booster dose of HepB-alum.
+
+Week 4 SPR in the HEPLISAV B group (42.1% n = 16/38) was higher than the SPR in the HepBalum group (18.9%, n = 7/37) and the HepB-AS04C group (29.3%, n = 12/41). At week 12, the SPR was 24.3% (n = 9/37) in the HEPLISAV B group, 13.9% (n = 5/36) in the HepB-alum group, and 26.8% (n = 11/41) in the HepB-AS04C group.
+
+## Paediatric population
+
+The European Medicines Agency has waived the obligation to submit the results of trials with HEPLISAV B in all subsets of the paediatric population for the prevention of hepatitis B virus infection (see section 4.2 for information on paediatric use).
+
+## 5.2 Pharmacokinetic properties
+
+The pharmacokinetic properties of the hepatitis B surface antigen used in HEPLISAV B have not been assessed.
 
 <div style=\"page-break-after: always\"></div>
 
-|                     | pharmaceutical group as the currently approved manufacturer B.I.a.1.a - Change in the manufacturer of AS or of a starting material/reagent/intermediate for AS - The proposed manufacturer is part of the same pharmaceutical group as the currently approved manufacturer                                                                                                                                                                                                                                  |            |     |                                   |
-|---------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------|-----|-----------------------------------|
-| IB/0035             | B.I.a.1.a - Change in the manufacturer of AS or of a starting material/reagent/intermediate for AS - The proposed manufacturer is part of the same pharmaceutical group as the currently approved manufacturer                                                                                                                                                                                                                                                                                              | 31/07/2024 | n/a |                                   |
-| IB/0034/G           | This was an application for a group of variations. B.I.a.2.a - Changes in the manufacturing process of the AS - Minor change in the manufacturing process of the AS B.I.a.4.z - Change to in-process tests or limits applied during the manufacture of the AS - Other variation B.I.c.1.a - Change in immediate packaging of the AS - Qualitative and/or quantitative composition B.I.z - Quality change - Active substance - Other variation A.7 - Administrative change - Deletion of manufacturing sites | 26/06/2024 | n/a |                                   |
-| PSUSA/10919 /202311 | Periodic Safety Update EU Single assessment - hepatitis B surface antigen, CpG 1018 adjuvant                                                                                                                                                                                                                                                                                                                                                                                                                | 13/06/2024 | n/a | PRAC Recommendation - maintenance |
+## 5.3 Preclinical safety data
+
+Non-clinical data reveal no special hazard for humans based on conventional studies consisting of single-dose and repeated dose toxicity (including local tolerance), and toxicity on reproduction and development.
+
+## 6. PHARMACEUTICAL PARTICULARS
+
+## 6.1 List of excipients
+
+Sodium chloride Disodium phosphate dodecahydrate Sodium dihydrogen phosphate dihydrate Polysorbate 80 (E 433) Water for injections
+
+For adjuvants, see section 2.
+
+## 6.2 Incompatibilities
+
+In the absence of compatibility trials, this medicinal product must not be mixed with other medicinal products.
+
+## 6.3 Shelf life
+
+3 years
+
+## 6.4 Special precautions for storage
+
+Store in a refrigerator (2 °C to 8 °C). Do not freeze. Keep the pre-filled syringe in the outer carton in order to protect from light.
+
+## 6.5 Nature and contents of container
+
+0.5 mL of solution in a pre-filled syringe (Type I glass) with tip cap (synthetic isoprene-bromobutyl rubber blend) and plunger stopper (chlorobutyl rubber). The tip cap and stopper of the pre-filled syringe do not contain natural rubber latex.
+
+Pack sizes of 1 and 5 pre-filled syringes without needle.
+
+Not all pack sizes may be marketed.
+
+## 6.6 Special precautions for disposal and other handling
+
+HEPLISAV B is a clear to slightly opalescent, colourless to slightly yellow liquid and should be essentially free of visible particles. Do not administer if it appears otherwise.
+
+Any unused medicinal product or waste material should be disposed of in accordance with local requirements.
 
 <div style=\"page-break-after: always\"></div>
 
-<!-- image -->
+## 7. MARKETING AUTHORISATION HOLDER
 
-| II/0031 Update of section 4.6 information on pregnancy study DV2-HBV-28 - Post-marketing surveillance study to among women who receive B; HBV-28 was conducted population as two observational surveillance studies designed incidence of AMI (HBV-25) immunemediated diseases, anaphylaxis (HBV-26) compared with recipients objective of this study pregnancy outcomes recipients of Engerix-B.The updated accordingly. been submitted. In addition, opportunity to bring the template version 10.3.   | 08/02/2024   | 26/02/2025   | SmPC and PL   | This procedure entails amendments to the product information (PI) and the risk management plan (RMP) of HEPLISAV-B regarding the use of the product during pregnancy based on the results of the completed pregnancy registry HBV-28. The primary objective of study HBV-28 was to describe and compare the risk of pregnancy outcomes among women exposed to HEPLISAV-B with pregnant patients exposed to Engerix-B during the 28 days prior to conception or during pregnancy. Therefore, pregnancy outcomes and outcomes among live births were compared. In the analysis of the safety of administration of HEPLISAV- B compared to Engerix-B no different safety profile between both vaccine groups could be observed. A comparison of the number of events, the percentages or event rates in both groups, as well as the adjusted relative risk showed a comparable profile between both vaccine groups. Even if the data in pregnant women are very limited, no safety concern could be identified, neither from clinical nor non-clinical data. Besides, in general, no enhanced risk for the vaccination of pregnant women with non-live vaccines is known. In this light, the MAH proposed to delete the sentence 'As a precautionary measure, it is preferable to avoid the use of HEPLISAV B during pregnancy.' in the section 4.6 of the SmPC whilst the current wording regarding pregnancy remains with a statement that vaccination should only be performed if the benefit for the mother clearly outweighs the risk. This is acceptable to the PRAC. The MAH also proposed amendments to the RMP by removing (1) 'Safety in pregnancy and lactation' as missing information in the summary of safety concerns,   |
-|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------|--------------|---------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+Dynavax GmbH Eichsfelder Strasse 11 D-40595 Düsseldorf Germany
 
-<div style=\"page-break-after: always\"></div>
+## 8. MARKETING AUTHORISATION NUMBER(S)
 
-|                     |                                                                                                                                                                                                                                                                                                                                                     |            |            |             | and (2) 'Exacerbation of potentially immune-mediated disorders (including inflammatory disorders) in individuals with a history of immune-mediated disorder' as an important potential risk in the summary of safety concerns. The version 2.2 of the RMP was endorsed accordingly by the PRAC. For more information, please refer to the Summary of Product Characteristics.                            |
-|---------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------|------------|-------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| IAIN/0032           | B.II.b.1.a - Replacement or addition of a manufacturing site for the FP - Secondary packaging site                                                                                                                                                                                                                                                  | 16/01/2024 | n/a        |             |                                                                                                                                                                                                                                                                                                                                                                                                          |
-| PSUSA/10919 /202305 | Periodic Safety Update EU Single assessment - hepatitis B surface antigen, CpG 1018 adjuvant                                                                                                                                                                                                                                                        | 30/11/2023 | n/a        |             | PRAC Recommendation - maintenance                                                                                                                                                                                                                                                                                                                                                                        |
-| IB/0030/G           | This was an application for a group of variations. B.I.b.1.z - Change in the specification parameters and/or limits of an AS, starting material/intermediate/reagent - Other variation B.I.a.2.a - Changes in the manufacturing process of the AS - Minor change in the manufacturing process of the AS                                             | 19/10/2023 | n/a        |             |                                                                                                                                                                                                                                                                                                                                                                                                          |
-| II/0026             | Update of section 4.2, 4.8 and 5.1 of the SmPC in order to add a 4-dose regimen posology for patients with renal insufficiency including those undergoing haemodialysis and to update safety and pharmacodynamic information based on final results from study HBV-24 'An Open-label, Single Arm Study, Evaluating the Immunogenicity and Safety of | 14/09/2023 | 19/10/2023 | SmPC and PL | In this submission the MAH proposed a modified schedule of HEPLISAV B for individuals with CKD (chronic kidney disease) who are initiating or receiving HD (haemodialysis). The company submitted the final results from study HBV- 24 'An Open-label, Single Arm Study, Evaluating the Immunogenicity and Safety of HEPLISAV-B in Adults With End-Stage Renal Disease Undergoing Hemodialysis'. In this |
+EU/1/20/1503/001
 
-<div style=\"page-break-after: always\"></div>
+EU/1/20/1503/002
 
-| HEPLISAV-B in Adults With End-Stage Renal Disease Undergoing Hemodialysis'. The Package Leaflet is updated accordingly. In addition, the MAH took the opportunity to make some editorial updates to the mainly to align the wording with the QRD guidance and templates. C.I.4 - Change(s) in the SPC, Labelling or PL due new quality, preclinical, clinical or pharmacovigilance data   |
-|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+## 9. DATE OF FIRST AUTHORISATION/RENEWAL OF THE AUTHORISATION
 
-<div style=\"page-break-after: always\"></div>
+Date of first authorisation: 18 February 2021 Date of latest renewal:
 
-|                     |                                                                                                                                                                                                                                                                           |            |            |                        | For more information, please refer to the Summary of Product Characteristics.                                                                                                                                                                                                                                                                                                                                      |
-|---------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------|------------|------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| IB/0028             | B.II.e.5.a.2 - Change in pack size of the finished product - Change in the number of units (e.g. tablets, ampoules, etc.) in a pack - Change outside the range of the currently approved pack sizes                                                                       | 06/07/2023 | 19/10/2023 | SmPC, Labelling and PL |                                                                                                                                                                                                                                                                                                                                                                                                                    |
-| IB/0027             | B.I.a.1.a - Change in the manufacturer of AS or of a starting material/reagent/intermediate for AS - The proposed manufacturer is part of the same pharmaceutical group as the currently approved manufacturer                                                            | 06/07/2023 | n/a        |                        |                                                                                                                                                                                                                                                                                                                                                                                                                    |
-| PSUSA/10919 /202211 | Periodic Safety Update EU Single assessment - hepatitis B surface antigen, CpG 1018 adjuvant                                                                                                                                                                              | 08/06/2023 | n/a        |                        | PRAC Recommendation - maintenance                                                                                                                                                                                                                                                                                                                                                                                  |
-| II/0024             | B.II.g.4.a - Changes to an approved change management protocol - Major changes                                                                                                                                                                                            | 25/05/2023 | n/a        |                        |                                                                                                                                                                                                                                                                                                                                                                                                                    |
-| IA/0025             | B.II.e.7.b - Change in supplier of packaging components or devices (when mentioned in the dossier) - Replacement or addition of a supplier                                                                                                                                | 12/05/2023 | n/a        |                        |                                                                                                                                                                                                                                                                                                                                                                                                                    |
-| II/0023             | Update of section 4.8 of the SmPC in order to add 'injection site pruritus' to the list of adverse drug reactions (ADRs) with frequency 'uncommon', based on post-marketing surveillance. In addition, the MAH took the opportunity to introduce minor changes to the PI. | 26/04/2023 | 19/10/2023 | SmPC and PL            | Based on clinical trial data, the addition of 'injection site pruritus' to the list of adverse drug reactions in section 4.8. of the SmPC (with a frequency 'uncommon') was performed during this procedure. In addition, 'fever' was removed under section 4.8 - 'undesirable effects' in the SmPC, under the section 'summary of the safety profile' but not from the tabulated list of adverse reactions, based |
+## 10. DATE OF REVISION OF THE TEXT
+
+Detailed information on this medicinal product is available on the website of the European Medicines Agency https://www.ema.europa.eu.
 
 <div style=\"page-break-after: always\"></div>
 
-|                     | new quality, preclinical, clinical or pharmacovigilance data                                                                                                                                                                                                                                                                                                                                                                                                                                                           |            |     | frequencies than the other adverse reactions (such as injection site pain, headache, malaise, fatigue). In light of the above, the Product Information was amended accordingly. For more information, please refer to the Summary of Product Characteristics.                                                                                                                                                                                                                                                                                                                                                                          |
-|---------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------|-----|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| IA/0022             | B.II.e.3.a - Change in test procedure for the immediate packaging of the finished product - Minor changes to an approved test procedure                                                                                                                                                                                                                                                                                                                                                                                | 13/02/2023 | n/a |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        |
-| IB/0020             | B.I.a.2.a - Changes in the manufacturing process of the AS - Minor change in the manufacturing process of the AS                                                                                                                                                                                                                                                                                                                                                                                                       | 24/01/2023 | n/a |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        |
-| PSUSA/10919 /202205 | Periodic Safety Update EU Single assessment - hepatitis B surface antigen, CpG 1018 adjuvant                                                                                                                                                                                                                                                                                                                                                                                                                           | 01/12/2022 | n/a | PRAC Recommendation - maintenance                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      |
-| IB/0019             | B.II.c.4.a - Change in synthesis or recovery of a non- pharmacopoeial or novel excipient - Minor change                                                                                                                                                                                                                                                                                                                                                                                                                | 07/11/2022 | n/a |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        |
-| II/0015             | Submission of the final report from the study HBV- 26: Post-Marketing Observational Surveillance Study to Evaluate the Incidence of New-Onset Immune- mediated Diseases, Herpes Zoster, and Anaphylaxis, listed as a category 3 post-authorisation safety study (PASS) in the RMP. This is a post-marketing observational surveillance study comparing the incidence of new-onset immune-mediated diseases, herpes zoster, and anaphylaxis in recipients of HEPLISAV B with recipients of another hepatitis B vaccine. | 29/09/2022 | n/a | Potentially immune-mediated disorders is a known theoretical risk that requires no further characterisation and is followed up via routine pharmacovigilance. There is no known causality mechanism. The final study results of study HBV-26 (category 3 PASS study in the RMP) confirm that there is a similar safety profile for these disorders as for the comparator product. Based on the evidence in this study, the important potential risk 'Potentially immune- mediated disorders (including inflammatory disorders)' was removed from the RMP as a safety concern. In conclusion, this observational study did not identify |
+## ANNEX II
+
+- A. MANUFACTURER OF THE BIOLOGICAL ACTIVE SUBSTANCE AND MANUFACTURER RESPONSIBLE FOR BATCH RELEASE
+- B. CONDITIONS OR RESTRICTIONS REGARDING SUPPLY AND USE
+- C. OTHER CONDITIONS AND REQUIREMENTS OF THE MARKETING AUTHORISATION
+- D. CONDITIONS OR RESTRICTIONS WITH REGARD TO THE SAFE AND EFFECTIVE USE OF THE MEDICINAL PRODUCT
 
 <div style=\"page-break-after: always\"></div>
 
-|                     | The RMP version 1.3 has also been submitted. C.I.13 - Other variations not specifically covered elsewhere in this Annex which involve the submission of studies to the competent authority                                                                                                                                                                                                                                                                                       |            |     | safety concerns for HEPLISAV-B with respect to herpes zoster, anaphylaxis, or selected immune-mediated diseases. This study did not identify a potential safety signal that requires further investigation.   |
-|---------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------|-----|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| IB/0017             | B.II.z - Quality change - Finished product - Other variation                                                                                                                                                                                                                                                                                                                                                                                                                     | 12/07/2022 | n/a |                                                                                                                                                                                                               |
-| PSUSA/10919 /202111 | Periodic Safety Update EU Single assessment - hepatitis B surface antigen, CpG 1018 adjuvant                                                                                                                                                                                                                                                                                                                                                                                     | 10/06/2022 | n/a | PRAC Recommendation - maintenance                                                                                                                                                                             |
-| IB/0016/G           | This was an application for a group of variations. B.I.a.2.a - Changes in the manufacturing process of the AS - Minor change in the manufacturing process of the AS B.I.a.2.a - Changes in the manufacturing process of the AS - Minor change in the manufacturing process of the AS                                                                                                                                                                                             | 08/06/2022 | n/a |                                                                                                                                                                                                               |
-| II/0014             | Submission of the final report from study (HBV25) listed as a category 3 PASS study in the RMP. This is a post-marketing observational surveillance study comparing the occurrence of Acute Myocardial Infarction (AMI) in recipients of HEPLISAV-B with recipients of another hepatitis B vaccine. As a consequence, the RMP version 1.2 has also been submitted, in which the MAH proposed the removal of AMI as an important potential risk from the list of safety concerns. | 05/05/2022 | n/a |                                                                                                                                                                                                               |
+## A. MANUFACTURER OF THE BIOLOGICAL ACTIVE SUBSTANCE AND MANUFACTURER RESPONSIBLE FOR BATCH RELEASE
+
+Name and address of the manufacturer of the biological active substance
+
+Dynavax GmbH Eichsfelder Strasse 11 D-40595 Düsseldorf Germany
+
+Name and address of the manufacturer responsible for batch release
+
+Dynavax GmbH Eichsfelder Strasse 11 D-40595 Düsseldorf Germany
+
+## B. CONDITIONS OR RESTRICTIONS REGARDING SUPPLY AND USE
+
+Medicinal product subject to medical prescription.
+
+## · Official batch release
+
+In accordance with Article 114 of Directive 2001/83/EC, the official batch release will be undertaken by a state laboratory or a laboratory designated for that purpose.
+
+## C. OTHER CONDITIONS AND REQUIREMENTS OF THE MARKETING AUTHORISATION
+
+## · Periodic safety update reports (PSURs)
+
+The requirements for submission of PSURs for this medicinal product are set out in the list of Union reference dates (EURD list) provided for under Article 107c(7) of Directive 2001/83/EC and any subsequent updates published on the European medicines web-portal.
+
+## D. CONDITIONS OR RESTRICTIONS WITH REGARD TO THE SAFE AND EFFECTIVE USE OF THE MEDICINAL PRODUCT
+
+## · Risk management plan (RMP)
+
+The marketing authorisation holder (MAH) shall perform the required pharmacovigilance activities and interventions detailed in the agreed RMP presented in Module 1.8.2 of the marketing authorisation and any agreed subsequent updates of the RMP.
+
+An updated RMP should be submitted:
+
+- At the request of the European Medicines Agency;
+- Whenever the risk management system is modified, especially as the result of new information being received that may lead to a significant change to the benefit/risk profile or as the result of an important (pharmacovigilance or risk minimisation) milestone being reached.
 
 <div style=\"page-break-after: always\"></div>
 
-|                     | C.I.13 - Other variations not specifically covered elsewhere in this Annex which involve the submission of studies to the competent authority   |            |            |                  |                                   |
-|---------------------|-------------------------------------------------------------------------------------------------------------------------------------------------|------------|------------|------------------|-----------------------------------|
-| II/0010             | B.II.g.2 - Introduction of a post approval change management protocol related to the finished product                                           | 07/04/2022 | n/a        |                  |                                   |
-| IB/0013             | B.II.z - Quality change - Finished product - Other variation                                                                                    | 28/02/2022 | n/a        |                  |                                   |
-| PSUSA/10919 /202105 | Periodic Safety Update EU Single assessment - hepatitis B surface antigen, CpG 1018 adjuvant                                                    | 02/12/2021 | n/a        |                  | PRAC Recommendation - maintenance |
-| N/0011              | Minor change in labelling or package leaflet not connected with the SPC (Art. 61.3 Notification)                                                | 07/10/2021 | 19/10/2023 | Labelling and PL |                                   |
-| IB/0009             | B.I.z - Quality change - Active substance - Other variation                                                                                     | 18/08/2021 | n/a        |                  |                                   |
-| IB/0007             | B.I.a.2.a - Changes in the manufacturing process of the AS - Minor change in the manufacturing process of the AS                                | 13/08/2021 | n/a        |                  |                                   |
-| IB/0005             | B.I.a.1.k - Change in the manufacturer of AS or of a starting material/reagent/intermediate for AS - New storage site of MCB and/or WCB         | 10/08/2021 | n/a        |                  |                                   |
-| IB/0006             | B.II.z - Quality change - Finished product - Other variation                                                                                    | 05/08/2021 | n/a        |                  |                                   |
-| IB/0003             | B.II.d.2.d - Change in test procedure for the finished product - Other changes to a test procedure                                              | 14/07/2021 | n/a        |                  |                                   |
+## ANNEX III
+
+## LABELLING AND PACKAGE LEAFLET
 
 <div style=\"page-break-after: always\"></div>
 
-|         | (including replacement or addition)                                                                                                                                            |            |     |
-|---------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------|-----|
-| IB/0004 | C.I.11.z - Introduction of, or change(s) to, the obligations and conditions of a marketing authorisation, including the RMP - Other variation                                  | 06/07/2021 | n/a |
-| IA/0002 | B.II.e.6.b - Change in any part of the (primary) packaging material not in contact with the finished product formulation - Change that does not affect the product information | 09/06/2021 | n/a |
-| IB/0001 | B.II.b.2.a - Change to importer, batch release arrangements and quality control testing of the FP - Replacement/addition of a site where batch control/testing takes place     | 07/06/2021 | n/a |
+## A. LABELLING
+
+<div style=\"page-break-after: always\"></div>
+
+## PARTICULARS TO APPEAR ON THE OUTER PACKAGING
+
+1 pre-filled syringe without needle
+
+5 pre-filled syringes without needle
+
+## 1. NAME OF THE MEDICINAL PRODUCT
+
+HEPLISAV B 20 micrograms solution for injection in pre-filled syringe
+
+Hepatitis B vaccine (recombinant DNA, adjuvanted)
+
+For adult use
+
+## 2. STATEMENT OF ACTIVE SUBSTANCE(S)
+
+1 dose (0.5 mL) contains:
+
+20 micrograms of hepatitis B surface antigen adjuvanted with 3 000 micrograms CpG 1018 adjuvant.
+
+## 3. LIST OF EXCIPIENTS
+
+Sodium chloride, disodium phosphate dodecahydrate, sodium dihydrogen phosphate dihydrate, polysorbate 80 (E 433), water for injections. See leaflet for further information.
+
+## 4. PHARMACEUTICAL FORM AND CONTENTS
+
+Solution for injection
+
+5 pre-filled syringes without needle
+
+1 pre-filled syringe without needle
+
+## 5. METHOD AND ROUTE(S) OF ADMINISTRATION
+
+Intramuscular use
+
+Read the package leaflet before use.
+
+## 6. SPECIAL WARNING THAT THE MEDICINAL PRODUCT MUST BE STORED OUT OF THE SIGHT AND REACH OF CHILDREN
+
+Keep out of the sight and reach of children.
+
+## 7. OTHER SPECIAL WARNING(S), IF NECESSARY
+
+## 8. EXPIRY DATE
+
+EXP
+
+## 9. SPECIAL STORAGE CONDITIONS
+
+Store in a refrigerator. Do not freeze.
+
+<div style=\"page-break-after: always\"></div>
+
+Keep the pre-filled syringes in the outer carton in order to protect from light. Keep the pre-filled syringe in the outer carton in order to protect from light.
+
+10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
+
+## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
+
+Dynavax GmbH Eichsfelder Strasse 11 D-40595 Düsseldorf Germany
+
+## 12. MARKETING AUTHORISATION NUMBERS
+
+EU/1/20/1503/001 EU/1/20/1503/002
+
+## 13. BATCH NUMBER
+
+LOT
+
+## 14. GENERAL CLASSIFICATION FOR SUPPLY
+
+15. INSTRUCTIONS ON USE
+
+## 16. INFORMATION IN BRAILLE
+
+Justification for not including Braille accepted.
+
+## 17. UNIQUE IDENTIFIER - 2D BARCODE
+
+2D barcode carrying the unique identifier included.
+
+## 18. UNIQUE IDENTIFIER - HUMAN READABLE DATA
+
+PC SN
+
+NN
+
+## MINIMUM PARTICULARS TO APPEAR ON SMALL IMMEDIATE PACKAGING UNITS
+
+Pre-filled syringe label
+
+## 1. NAME OF THE MEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION
+
+HEPLISAV B 20 mcg injection Hepatitis B vaccine
+
+## 2. METHOD OF ADMINISTRATION
+
+IM
+
+## 3. EXPIRY DATE
+
+EXP
+
+## 4. BATCH NUMBER
+
+LOT
+
+## 5. CONTENTS BY WEIGHT, BY VOLUME OR BY UNIT
+
+1 dose (0.5 mL)
+
+## 6. OTHER
+
+<div style=\"page-break-after: always\"></div>
+
+<div style=\"page-break-after: always\"></div>
+
+## B. PACKAGE LEAFLET
+
+## Package leaflet: Information for the user
+
+<div style=\"page-break-after: always\"></div>
+
+## HEPLISAV B 20 micrograms solution for injection in pre-filled syringe
+
+Hepatitis B vaccine (recombinant DNA, adjuvanted)
+
+## Read all of this leaflet carefully before you receive this vaccine because it contains important information for you.
+
+- -Keep this leaflet. You may need to read it again.
+- -If you have any further questions, ask your doctor, pharmacist or nurse.
+- -If you get any side effects, talk to your doctor, pharmacist or nurse. This includes any possible side effects not listed in this leaflet. See section 4.
+
+## What is in this leaflet
+
+1. What HEPLISAV B is and what it is used for
+2. What you need to know before you receive HEPLISAV B
+3. How HEPLISAV B is given
+4. Possible side effects
+5. How to store HEPLISAV B
+6. Contents of the pack and other information
+
+## 1. What HEPLISAV B is and what it is used for
+
+HEPLISAV B is a vaccine for use in adults 18 years of age and older to protect against infection with the hepatitis B virus.
+
+HEPLISAV B may also protect against hepatitis D which can only occur in people who have hepatitis B infection.
+
+## What is hepatitis B?
+
+- Hepatitis B is an infectious illness of the liver, caused by a virus. Hepatitis B virus infection can cause serious liver problems such as 'cirrhosis' (scarring in the liver) or liver cancer.
+- Some people infected with the hepatitis B virus become carriers, which means that they may not feel ill but continue to have the virus in their body and they can still infect other people.
+- The disease spreads by the hepatitis B virus entering the body through contact with an infected person's body fluids, such as in the vagina, blood, semen, or spit (saliva). A mother who is a carrier of the virus can also pass the virus to her baby at birth.
+- The main signs of the illness include mild signs of flu (such as headache, fever, and feeling very tired), dark urine, pale stools (faeces), yellowing of the skin and eyes (jaundice). However, some people with hepatitis B do not look or feel ill.
+
+## How HEPLISAV B works
+
+When a person is given the HEPLISAV B vaccine, it helps the body's natural defence system (immune system) produce specific protection (antibodies) against the hepatitis B virus.
+
+- HEPLISAV B contains an adjuvant, a substance which improves the body's production of antibodies and makes the protection last for longer.
+
+<div style=\"page-break-after: always\"></div>
+
+- A course of two injections of HEPLISAV B is required to provide full protection against hepatitis B.
+- HEPLISAV B is not used to treat a person who is already infected with the hepatitis B virus, including people infected with the hepatitis B virus and have become carriers for infection.
+
+## 2. What you need to know before you receive HEPLISAV B
+
+## Do not receive HEPLISAV B:
+
+- -If you are allergic to any of the components of this vaccine, including yeast (listed in section 6). Signs of an allergic reaction may include itchy skin, rash, shortness of breath and swelling of the face or tongue.
+- -If you have had a sudden life-threatening, allergic reaction after receiving HEPLISAV B in the past.
+
+HEPLISAV B should not be given if any of the above apply to you. If you are not sure, talk to your doctor, pharmacist or nurse before vaccination with HEPLISAV B.
+
+## Warnings and precautions
+
+Talk to your doctor, pharmacist or nurse before receiving HEPLISAV B:
+
+- -If you have any allergies to any of the components of HEPLISAV B (see section 6).
+- -If you have had any health problems after having a vaccine in the past.
+- -Fainting can occur after, or even before, any injection. Therefore tell the doctor, pharmacist or nurse if you fainted with a previous injection.
+- -If you are ill with a high fever, your doctor, pharmacist or nurse will delay the vaccination until you are feeling better. A minor infection such as a cold should not be a problem, but your doctor, pharmacist or nurse will decide if you could still be vaccinated.
+
+If you are on dialysis for a kidney problem or if you have a weakened immune system your doctor may need to do a blood test to check if the vaccination has worked well enough to protect you against hepatitis B.
+
+HEPLISAV B does not protect you against other liver infections such as hepatitis A, C, and E.
+
+As with any vaccine, HEPLISAV B may not protect all people who are vaccinated. If you are not sure if any of the above apply to you, talk to your doctor, pharmacist or nurse before receiving HEPLISAV B.
+
+## Children and adolescents
+
+Since HEPLISAV B has not been tested fully in young people under 18 years of age, it should not be used in this age group.
+
+## Other medicines and HEPLISAV B
+
+Tell your doctor, pharmacist or nurse if you are taking, have recently taken or might take any other medicines or vaccines.
+
+If HEPLISAV B is given at the same time as an injection of hepatitis B 'immuno-globulins', which would be given to provide immediate, short-term protection against hepatitis B infection, your doctor, pharmacist or nurse will make sure that the two are injected into different parts of the body.
+
+## Pregnancy, breast-feeding and fertility
+
+If you are pregnant or breast-feeding, think you may be pregnant or are planning to have a baby, ask your doctor for advice before receiving this vaccine.
+
+It is unknown whether HEPLISAV B is excreted in human milk. A risk to the suckling child cannot be excluded. Discuss with your doctor or nurse if you should discontinue breast-feeding or abstain from
+
+<div style=\"page-break-after: always\"></div>
+
+HEPLISAV B vaccination taking into account the benefit of breast-feeding for the child and the benefit of vaccination for you.
+
+## Driving and using machines
+
+You may feel tired or dizzy or get a headache after receiving HEPLISAV B. If this happens, do not drive or use any tools or machines.
+
+## HEPLISAV B contains sodium and polysorbate 80
+
+This medicine contains less than 1 mmol sodium (23 mg) per dose, that is to say essentially 'sodium free'. This medicine contains 0.05 mg of polysorbate 80 in each dose, which is equivalent to 0.1 mg/mL. Polysorbates may cause allergic reactions. Tell your doctor if you have any known allergies.
+
+## 3. How HEPLISAV B is given
+
+The doctor, pharmacist or nurse will give HEPLISAV B as an injection into your muscle, usually in your upper arm.
+
+For adults, the course of vaccination is 2 injections:
+
+- -The first injection on a date agreed upon with your doctor or nurse.
+- -The second injection 1 month after the first injection.
+
+For adults with a kidney problem including those receiving haemodialysis, the course of vaccination is 4 injections:
+
+- -The first injection on a date agreed upon with your doctor or nurse.
+- -The second injection 1 month after the first injection.
+- -The third injection 2 months after the first injection
+- -The fourth injection 4 months after the first injection
+
+Your doctor will tell you if you need any extra or 'booster' injections in the future.
+
+## If you forget a return visit to receive HEPLISAV B
+
+Talk to your doctor and arrange another visit.
+
+Make sure you complete the injections or you may not be fully protected. Once you have had the first injection of HEPLISAV B, the following injection(s) must also be HEPLISAV B (not another type of hepatitis B vaccine).
+
+## 4. Possible side effects
+
+Like all medicines, this vaccine can cause side effects, although not everybody gets them.
+
+## Serious side effects
+
+## Very rare (may affect up to 1 in 10 000 people)
+
+You should seek immediate treatment if you get any signs of a serious allergic reaction. The signs may include: face swelling, low blood pressure, difficulty breathing, loss of consciousness, fever, joint stiffness and a skin rash. Such reactions usually start very soon after injection.
+
+## Other side effects
+
+## Very common (may affect more than 1 in 10 people)
+
+- Headache
+- Muscle aches (myalgia)
+- Feeling tired (fatigue)
+
+<div style=\"page-break-after: always\"></div>
+
+- Pain at the spot where the injection was given
+- Feeling unwell (malaise)
+
+## Common (may affect up to 1 in 10 people)
+
+- Swelling at the spot where the injection was given
+- Redness at the spot where the injection was given
+- Fever
+
+## Uncommon (may affect up to 1 in 100 people)
+
+- Allergic reactions (including hives, rash, and itchiness)
+- Feeling sick (nausea)
+- Being sick (vomiting)
+- Diarrhoea
+- Abdominal (belly) pain
+- Allergic reactions (hives, rash and itchiness)
+- Itching at the spot where the injection was given
+
+## Rare (may affect up to 1 in 1 000 people)
+
+- Dizziness
+- Pins and needles (paraesthesia)
+
+## Reporting of side effects
+
+If you get any side effects, talk to your doctor, pharmacist or nurse. This includes any possible side effects not listed in this leaflet. You can also report side effects directly via the national reporting system listed in Appendix V. By reporting side effects you can help provide more information on the safety of this medicine.
+
+## 5. How to store HEPLISAV B
+
+Keep this vaccine out of the sight and reach of children.
+
+Do not use this vaccine after the expiry date which is stated on the label and carton after EXP. The expiry date refers to the last day of that month.
+
+Store in a refrigerator (2 °C - 8 °C). Do not freeze.
+
+Keep the pre-filled syringe in the outer carton in order to protect from light.
+
+Do not throw away any medicines via wastewater or household waste. Ask your pharmacist how to throw away medicines you no longer use. These measures will help protect the environment.
+
+<div style=\"page-break-after: always\"></div>
+
+## 6. Contents of the pack and other information
+
+## What HEPLISAV B contains
+
+One dose (0.5 mL) contains:
+
+Active substances:
+
+Hepatitis B surface antigen (HBsAg) 1,2
+
+20 micrograms
+
+1 Adjuvanted with 3 000 micrograms CpG 1018 adjuvant, a 22-mer immunostimulatory sequence oligonucleotide
+
+2 Produced in yeast cells ( Hansenula polymorpha ) by recombinant DNA technology
+
+Substance CpG 1018 is included in this vaccine as an adjuvant. Adjuvants are substances included in certain vaccines to accelerate, improve and/or prolong the protective effects of the vaccine.
+
+The other ingredients are: sodium chloride, disodium phosphate dodecahydrate, sodium dihydrogen phosphate dihydrate, polysorbate 80 (E 433), water for injections (see section 2 'HEPLISAV B contains sodium and polysorbate 80').
+
+## What HEPLISAV B looks like and contents of the pack
+
+HEPLISAV B is a clear to slightly milky, colourless to slightly yellow solution for injection in prefilled syringe (0.5 mL).
+
+HEPLISAV B is available in packs of 1 and 5 pre-filled syringes without needles.
+
+Not all pack sizes may be marketed.
+
+## Marketing Authorisation Holder and Manufacturer
+
+Dynavax GmbH Eichsfelder Strasse 11 D-40595 Düsseldorf Germany
+
+For any information about this medicine, please contact the local representative of the Marketing Authorisation Holder:
+
+België/Belgique/Belgien, България , Česká republika, Danmark, Eesti, Ελλάδα , España, France, Hrvatska, Ireland, Ísland, Italia, Κύπρος , Latvija, Lietuva, Luxembourg/Luxemburg, Magyarország, Malta, Nederland, Norge, Österreich, Polska, Portugal, România, Slovenija, Slovenská republika, Suomi/Finland, Sverige
+
+Dynavax GmbH Tél/Tel/Te л ./Tlf/ Τηλ /Sími/Puh:
+
++49 211 758450
+
+## This leaflet was last revised in .
+
+Detailed information on this medicine is available on the European Medicines Agency web site: https://www.ema.europa.eu.
+
+------------------------------------------------------------------------------------------------------------------------
+
+Deutschland Bavarian Nordic A/S Tel: +49 89 26200980
+
+<div style=\"page-break-after: always\"></div>
+
+## The following information is intended for healthcare professionals only:
+
+## HEPLISAV B:
+
+- is a clear to slightly opalescent, colourless to slightly yellow solution and should essentially be free of visible particles. Discard if the content appears otherwise.
+- should be injected intramuscularly (IM) in the deltoid region of the upper arm.
+- should not be administered in the gluteal region (buttocks).
+- should not be administered intravenously, subcutaneously, or intradermally.
+- should not be given to subjects with hypersensitivity to the active substance or to any of the excipients.
+- should not be given to subjects suffering from acute severe febrile illness. The presence of a minor infection such as a cold is not a contraindication for immunisation.
+- must not be mixed with any other vaccines in the same syringe.
+
+As with all injectable vaccines, appropriate medical treatment should be readily available in case of rare anaphylactic reactions following the administration of HEPLISAV B.
+
+Any unused medicinal product or waste material should be disposed of in accordance with local requirements.

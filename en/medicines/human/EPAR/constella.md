@@ -1,18 +1,18 @@
 ---
-document_datetime: 2025-12-29 08:14:23
+document_datetime: 2026-01-27 15:52:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/constella.html
 document_name: constella.html
 version: success
-processing_time: 0.1190706
-conversion_datetime: 2025-12-31 01:37:16.827147
+processing_time: 0.1304146
+conversion_datetime: 2026-01-29 12:06:58.505321
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.66.0
-  docling-core: 2.57.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.11.0
+  docling-jobkit: 1.9.0
+  docling: 2.70.0
+  docling-core: 2.61.0
+  docling-ibm-models: 3.11.0
+  docling-parse: 4.7.3
   python: cpython-313 (3.13.11)
   plaform: macOS-26.2-arm64-arm-64bit-Mach-O
 ---
@@ -25,8 +25,6 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 linaclotide Medicine Human Authorised
-
-On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -113,7 +111,7 @@ English (EN) (57.79 KB - PDF)
 
 [View](/en/documents/overview/constella-epar-summary-public_en.pdf)
 
-[Other languages (21)](#file-language-dropdown-921)
+[Other languages (21)](#file-language-dropdown-295)
 
 български (BG) (96.47 KB - PDF)
 
@@ -379,17 +377,17 @@ English (EN) (974.29 KB - PDF)
 
 Constella : EPAR - Product Information
 
-English (EN) (186.21 KB - PDF)
+English (EN) (287.46 KB - PDF)
 
 **First published:** 30/11/2012
 
-**Last updated:** 16/10/2024
+**Last updated:** 27/01/2026
 
 [View](/en/documents/product-information/constella-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-637)
+[Other languages (24)](#file-language-dropdown-10)
 
-български (BG) (243.31 KB - PDF)
+български (BG) (409.25 KB - PDF)
 
 **First published:**
 
@@ -397,11 +395,11 @@ English (EN) (186.21 KB - PDF)
 
 **Last updated:**
 
-16/10/2024
+27/01/2026
 
 [View](/bg/documents/product-information/constella-epar-product-information_bg.pdf)
 
-español (ES) (174.06 KB - PDF)
+español (ES) (255.73 KB - PDF)
 
 **First published:**
 
@@ -409,11 +407,11 @@ español (ES) (174.06 KB - PDF)
 
 **Last updated:**
 
-16/10/2024
+27/01/2026
 
 [View](/es/documents/product-information/constella-epar-product-information_es.pdf)
 
-čeština (CS) (248.71 KB - PDF)
+čeština (CS) (337.9 KB - PDF)
 
 **First published:**
 
@@ -421,11 +419,11 @@ español (ES) (174.06 KB - PDF)
 
 **Last updated:**
 
-16/10/2024
+27/01/2026
 
 [View](/cs/documents/product-information/constella-epar-product-information_cs.pdf)
 
-dansk (DA) (198.61 KB - PDF)
+dansk (DA) (281.16 KB - PDF)
 
 **First published:**
 
@@ -433,11 +431,11 @@ dansk (DA) (198.61 KB - PDF)
 
 **Last updated:**
 
-16/10/2024
+27/01/2026
 
 [View](/da/documents/product-information/constella-epar-product-information_da.pdf)
 
-Deutsch (DE) (182.78 KB - PDF)
+Deutsch (DE) (264.01 KB - PDF)
 
 **First published:**
 
@@ -445,11 +443,11 @@ Deutsch (DE) (182.78 KB - PDF)
 
 **Last updated:**
 
-16/10/2024
+27/01/2026
 
 [View](/de/documents/product-information/constella-epar-product-information_de.pdf)
 
-eesti keel (ET) (183.56 KB - PDF)
+eesti keel (ET) (333.57 KB - PDF)
 
 **First published:**
 
@@ -457,11 +455,11 @@ eesti keel (ET) (183.56 KB - PDF)
 
 **Last updated:**
 
-16/10/2024
+27/01/2026
 
 [View](/et/documents/product-information/constella-epar-product-information_et.pdf)
 
-ελληνικά (EL) (245.85 KB - PDF)
+ελληνικά (EL) (415.42 KB - PDF)
 
 **First published:**
 
@@ -469,11 +467,11 @@ eesti keel (ET) (183.56 KB - PDF)
 
 **Last updated:**
 
-16/10/2024
+27/01/2026
 
 [View](/el/documents/product-information/constella-epar-product-information_el.pdf)
 
-français (FR) (201.32 KB - PDF)
+français (FR) (295.6 KB - PDF)
 
 **First published:**
 
@@ -481,11 +479,11 @@ français (FR) (201.32 KB - PDF)
 
 **Last updated:**
 
-16/10/2024
+27/01/2026
 
 [View](/fr/documents/product-information/constella-epar-product-information_fr.pdf)
 
-hrvatski (HR) (205.78 KB - PDF)
+hrvatski (HR) (363.03 KB - PDF)
 
 **First published:**
 
@@ -493,11 +491,11 @@ hrvatski (HR) (205.78 KB - PDF)
 
 **Last updated:**
 
-16/10/2024
+27/01/2026
 
 [View](/hr/documents/product-information/constella-epar-product-information_hr.pdf)
 
-íslenska (IS) (182.79 KB - PDF)
+íslenska (IS) (265.6 KB - PDF)
 
 **First published:**
 
@@ -505,11 +503,11 @@ hrvatski (HR) (205.78 KB - PDF)
 
 **Last updated:**
 
-16/10/2024
+27/01/2026
 
 [View](/is/documents/product-information/constella-epar-product-information_is.pdf)
 
-italiano (IT) (186.81 KB - PDF)
+italiano (IT) (257.32 KB - PDF)
 
 **First published:**
 
@@ -517,11 +515,11 @@ italiano (IT) (186.81 KB - PDF)
 
 **Last updated:**
 
-16/10/2024
+27/01/2026
 
 [View](/it/documents/product-information/constella-epar-product-information_it.pdf)
 
-latviešu valoda (LV) (245.86 KB - PDF)
+latviešu valoda (LV) (342.23 KB - PDF)
 
 **First published:**
 
@@ -529,11 +527,11 @@ latviešu valoda (LV) (245.86 KB - PDF)
 
 **Last updated:**
 
-16/10/2024
+27/01/2026
 
 [View](/lv/documents/product-information/constella-epar-product-information_lv.pdf)
 
-lietuvių kalba (LT) (221.75 KB - PDF)
+lietuvių kalba (LT) (358.81 KB - PDF)
 
 **First published:**
 
@@ -541,11 +539,11 @@ lietuvių kalba (LT) (221.75 KB - PDF)
 
 **Last updated:**
 
-16/10/2024
+27/01/2026
 
 [View](/lt/documents/product-information/constella-epar-product-information_lt.pdf)
 
-magyar (HU) (269.59 KB - PDF)
+magyar (HU) (359.21 KB - PDF)
 
 **First published:**
 
@@ -553,11 +551,11 @@ magyar (HU) (269.59 KB - PDF)
 
 **Last updated:**
 
-16/10/2024
+27/01/2026
 
 [View](/hu/documents/product-information/constella-epar-product-information_hu.pdf)
 
-Malti (MT) (258.24 KB - PDF)
+Malti (MT) (414.59 KB - PDF)
 
 **First published:**
 
@@ -565,11 +563,11 @@ Malti (MT) (258.24 KB - PDF)
 
 **Last updated:**
 
-16/10/2024
+27/01/2026
 
 [View](/mt/documents/product-information/constella-epar-product-information_mt.pdf)
 
-Nederlands (NL) (176.88 KB - PDF)
+Nederlands (NL) (255.62 KB - PDF)
 
 **First published:**
 
@@ -577,11 +575,11 @@ Nederlands (NL) (176.88 KB - PDF)
 
 **Last updated:**
 
-16/10/2024
+27/01/2026
 
 [View](/nl/documents/product-information/constella-epar-product-information_nl.pdf)
 
-norsk (NO) (172.13 KB - PDF)
+norsk (NO) (258.77 KB - PDF)
 
 **First published:**
 
@@ -589,11 +587,11 @@ norsk (NO) (172.13 KB - PDF)
 
 **Last updated:**
 
-16/10/2024
+27/01/2026
 
 [View](/no/documents/product-information/constella-epar-product-information_no.pdf)
 
-polski (PL) (231.51 KB - PDF)
+polski (PL) (343.69 KB - PDF)
 
 **First published:**
 
@@ -601,11 +599,11 @@ polski (PL) (231.51 KB - PDF)
 
 **Last updated:**
 
-16/10/2024
+27/01/2026
 
 [View](/pl/documents/product-information/constella-epar-product-information_pl.pdf)
 
-português (PT) (177.62 KB - PDF)
+português (PT) (256.98 KB - PDF)
 
 **First published:**
 
@@ -613,11 +611,11 @@ português (PT) (177.62 KB - PDF)
 
 **Last updated:**
 
-16/10/2024
+27/01/2026
 
 [View](/pt/documents/product-information/constella-epar-product-information_pt.pdf)
 
-română (RO) (217.68 KB - PDF)
+română (RO) (366.68 KB - PDF)
 
 **First published:**
 
@@ -625,11 +623,11 @@ română (RO) (217.68 KB - PDF)
 
 **Last updated:**
 
-16/10/2024
+27/01/2026
 
 [View](/ro/documents/product-information/constella-epar-product-information_ro.pdf)
 
-slovenčina (SK) (260.01 KB - PDF)
+slovenčina (SK) (347.89 KB - PDF)
 
 **First published:**
 
@@ -637,11 +635,11 @@ slovenčina (SK) (260.01 KB - PDF)
 
 **Last updated:**
 
-16/10/2024
+27/01/2026
 
 [View](/sk/documents/product-information/constella-epar-product-information_sk.pdf)
 
-slovenščina (SL) (213.01 KB - PDF)
+slovenščina (SL) (382.65 KB - PDF)
 
 **First published:**
 
@@ -649,11 +647,11 @@ slovenščina (SL) (213.01 KB - PDF)
 
 **Last updated:**
 
-16/10/2024
+27/01/2026
 
 [View](/sl/documents/product-information/constella-epar-product-information_sl.pdf)
 
-Suomi (FI) (178.93 KB - PDF)
+Suomi (FI) (267.88 KB - PDF)
 
 **First published:**
 
@@ -661,11 +659,11 @@ Suomi (FI) (178.93 KB - PDF)
 
 **Last updated:**
 
-20/03/2025
+27/01/2026
 
 [View](/fi/documents/product-information/constella-epar-product-information_fi.pdf)
 
-svenska (SV) (169.95 KB - PDF)
+svenska (SV) (248 KB - PDF)
 
 **First published:**
 
@@ -673,11 +671,11 @@ svenska (SV) (169.95 KB - PDF)
 
 **Last updated:**
 
-16/10/2024
+27/01/2026
 
 [View](/sv/documents/product-information/constella-epar-product-information_sv.pdf)
 
-**Latest procedure affecting product information:** II/0063 05/09/2024
+**Latest procedure affecting product information:** VR/0000323621 27/01/2026
 
 icon globe
 
@@ -703,7 +701,7 @@ English (EN) (24.08 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/constella-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-254)
+[Other languages (24)](#file-language-dropdown-236)
 
 български (BG) (33.13 KB - PDF)
 
@@ -1013,7 +1011,7 @@ AbbVie Deutschland GmbH &amp; Co. KG
 
 Knollstrasse 67061 Ludwigshafen Germany
 
-Marketing authorisation issued 26/11/2012 Revision 30
+Marketing authorisation issued 26/11/2012 Revision 31
 
 ## Assessment history
 
@@ -1025,13 +1023,21 @@ Collapse section
 
 Constella : EPAR - Procedural steps taken and scientific information after authorisation
 
+English (EN) (134.04 KB - PDF)
+
+**First published:** 27/01/2026
+
+[View](/en/documents/procedural-steps-after/constella-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf)
+
+Constella : EPAR - Procedural steps taken and scientific information after authorisation (archive)
+
 English (EN) (268.19 KB - PDF)
 
 **First published:** 30/11/2012
 
-**Last updated:** 20/03/2025
+**Last updated:** 27/01/2026
 
-[View](/en/documents/procedural-steps-after/constella-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf)
+[View](/en/documents/procedural-steps-after/constella-epar-procedural-steps-taken-scientific-information-after-authorisation-archive_en.pdf)
 
 Constella-H-C-002490-P46-020 : EPAR - Assessment report
 
@@ -1171,7 +1177,7 @@ English (EN) (45 KB - PDF)
 
 - [Medicines](https://www.ema.europa.eu/en/search?f%5B0%5D=ema_search_topics%3A61)
 
-**This page was last updated on** 01/07/2025
+**This page was last updated on** 27/01/2026
 
 ## Share this page
 

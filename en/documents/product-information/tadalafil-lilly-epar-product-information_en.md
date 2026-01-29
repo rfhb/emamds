@@ -1,18 +1,18 @@
 ---
-document_datetime: 2023-10-31 11:09:41
-document_pages: 87
+document_datetime: 2026-01-28 10:09:41
+document_pages: 85
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/tadalafil-lilly-epar-product-information_en.pdf
 document_name: tadalafil-lilly-epar-product-information_en.pdf
 version: success
-processing_time: 16.862889
-conversion_datetime: 2025-12-26 11:02:55.158065
+processing_time: 16.753804
+conversion_datetime: 2026-01-29 12:44:54.41975
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.66.0
-  docling-core: 2.57.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.11.0
+  docling-jobkit: 1.9.0
+  docling: 2.70.0
+  docling-core: 2.61.0
+  docling-ibm-models: 3.11.0
+  docling-parse: 4.7.3
   python: cpython-313 (3.13.11)
   plaform: macOS-26.2-arm64-arm-64bit-Mach-O
 ---
@@ -56,7 +56,7 @@ Tadalafil Lilly is not indicated for use by women.
 
 ## Posology
 
-## Adult men
+Adult men
 
 In general, the recommended dose is 10 mg taken prior to anticipated sexual activity and with or without food.
 
@@ -472,7 +472,7 @@ Any unused medicinal product or waste material should be disposed of in accordan
 
 ## 7. MARKETING AUTHORISATION HOLDER
 
-Eli Lilly Nederland B.V. Papendorpseweg 83, 3528 BJ Utrecht The Netherlands
+Eli Lilly Nederland B.V. Orteliuslaan 1000, 3528 BD Utrecht The Netherlands
 
 ## 8. MARKETING AUTHORISATION NUMBER(S)
 
@@ -486,7 +486,7 @@ Date of latest renewal: 12 November 2021
 
 ## 10. DATE OF REVISION OF THE TEXT
 
-Detailed information on this medicinal product is available on the website of the European Medicines Agency http://www.ema.europa.eu.
+Detailed information on this medicinal product is available on the website of the European Medicines Agency https://www.ema.europa.eu.
 
 15
 
@@ -578,7 +578,7 @@ There is no relevant use of Tadalafil Lilly in the paediatric population with re
 
 ## Method of administration
 
-## Oral use.
+Oral use.
 
 Tadalafil Lilly is available as 2.5, 5, 10, and 20 mg film-coated tablets.
 
@@ -970,9 +970,7 @@ Any unused medicinal product or waste material should be disposed of in accordan
 
 ## 7. MARKETING AUTHORISATION HOLDER
 
-Eli Lilly Nederland B.V. Papendorpseweg 83, 3528 BJ Utrecht
-
-The Netherlands
+Eli Lilly Nederland B.V. Orteliuslaan 1000, 3528 BD Utrecht The Netherlands
 
 ## 8. MARKETING AUTHORISATION NUMBER(S)
 
@@ -988,7 +986,7 @@ Date of latest renewal: 12 November 2021
 
 ## 10. DATE OF REVISION OF THE TEXT
 
-Detailed information on this medicinal product is available on the website of the European Medicines Agency http://www.ema.europa.eu.
+Detailed information on this medicinal product is available on the website of the European Medicines Agency https://www.ema.europa.eu.
 
 <div style=\"page-break-after: always\"></div>
 
@@ -1002,7 +1000,9 @@ Tadalafil Lilly 10 mg film-coated tablets Tadalafil Lilly 20 mg film-coated tabl
 
 Each tablet contains 10 mg tadalafil.
 
-Excipient with known effect Each coated tablet contains 170 mg lactose (as monohydrate).
+## Excipient with known effect
+
+Each coated tablet contains 170 mg lactose (as monohydrate).
 
 Tadalafil Lilly 20 mg film-coated tablets
 
@@ -1278,7 +1278,7 @@ The table below lists the adverse reactions observed from spontaneous reporting 
 
 4 422 patients on placebo) for on-demand and once-a-day treatment of erectile dysfunction and the once-a-day treatment of benign prostatic hyperplasia.
 
-Frequency conve ntion: very common (≥1/10), common (≥1/100 to &lt;1/10), uncommon (≥1/1 000 to &lt;1/100), rare (≥1/10 000 to &lt;1/1 000) and very rare (&lt;1/10 000) and not known (cannot be estimated from the available data).
+Fr equency convention: very common (≥1/10), common (≥1/100 to &lt;1/10), uncommon (≥1/1 000 to &lt;1/100), rare (≥1/10 000 to &lt;1/1 000) and very rare (&lt;1/10 000) and not known (cannot be estimated from the available data).
 
 | System organ class                              | Very common   | Common           | Uncommon                                         | Rare                                                                                                                                                         | Not known                         |
 |-------------------------------------------------|---------------|------------------|--------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------|
@@ -1452,7 +1452,7 @@ Aluminium/PVC blisters in cartons of 4 film-coated tablets.
 
 <div style=\"page-break-after: always\"></div>
 
-Tadalafil Lilly 20 mg film-coated tablets
+## Tadalafil Lilly 20 mg film-coated tablets
 
 Aluminium/PVC blisters in cartons of 2, 4, 8 and 12 film-coated tablets.
 
@@ -1466,7 +1466,7 @@ Any unused medicinal product or waste material should be disposed of in accordan
 
 MARKETING AUTHORISATION HOLDER
 
-Eli Lilly Nederland B.V. Papendorpseweg 83, 3528 BJ Utrecht The Netherlands
+Eli Lilly Nederland B.V. Orteliuslaan 1000, 3528 BD Utrecht The Netherlands
 
 ## 8. MARKETING AUTHORISATION NUMBER(S)
 
@@ -1488,7 +1488,7 @@ Date of latest renewal: 12 November 2021
 
 ## 10. DATE OF REVISION OF THE TEXT
 
-Detailed information on this medicinal product is available on the website of the European Medicines Agency http://www.ema.europa.eu.
+Detailed information on this medicinal product is available on the website of the European Medicines Agency https://www.ema.europa.eu.
 
 44
 
@@ -1540,8 +1540,6 @@ An updated RMP should be submitted:
 
 ## A. LABELLING
 
-<div style=\"page-break-after: always\"></div>
-
 ## PARTICULARS TO APPEAR ON THE OUTER PACKAGING
 
 ## OUTER CARTON
@@ -1586,6 +1584,8 @@ EXP
 
 ## 9. SPECIAL STORAGE CONDITIONS
 
+<div style=\"page-break-after: always\"></div>
+
 Store in the original package in order to protect from moisture. Do not store above 30 ° C.
 
 <div style=\"page-break-after: always\"></div>
@@ -1594,7 +1594,7 @@ Store in the original package in order to protect from moisture. Do not store ab
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
-Eli Lilly Nederland B.V. Papendorpseweg 83, 3528 BJ Utrecht The Netherlands
+Eli Lilly Nederland B.V. Orteliuslaan 1000, 3528 BD Utrecht The Netherlands
 
 ## 12. MARKETING AUTHORISATION NUMBER(S)
 
@@ -1626,17 +1626,17 @@ NN
 
 <div style=\"page-break-after: always\"></div>
 
-| MINIMUM PARTICULARS TO APPEAR ON BLISTERS OR STRIPS   |
-|-------------------------------------------------------|
-| BLISTER                                               |
+| MINIMUM PARTICULARS TO APPEAR ONBLISTERS ORSTRIPS   |
+|-----------------------------------------------------|
+| BLISTER                                             |
 
-| 1.   | NAME OF THE MEDICINAL PRODUCT   |
-|------|---------------------------------|
+| 1.   | NAMEOFTHEMEDICINAL PRODUCT   |
+|------|------------------------------|
 
 Tadalafil Lilly 2.5 mg tablets tadalafil
 
-| 2.   | NAME OF THE MARKETING AUTHORISATION HOLDER   |
-|------|----------------------------------------------|
+| 2.   | NAMEOFTHEMARKETING AUTHORISATION HOLDER   |
+|------|-------------------------------------------|
 
 Lilly
 
@@ -1654,8 +1654,6 @@ Lot
 |------|---------|
 
 Mon. Tue. Wed. Thu. Fri. Sat. Sun.
-
-<div style=\"page-break-after: always\"></div>
 
 ## PARTICULARS TO APPEAR ON THE OUTER PACKAGING
 
@@ -1701,6 +1699,8 @@ Keep out of the sight and reach of children.
 
 ## 8. EXPIRY DATE
 
+<div style=\"page-break-after: always\"></div>
+
 EXP
 
 ## 9. SPECIAL STORAGE CONDITIONS
@@ -1711,7 +1711,7 @@ Store in the original package in order to protect from moisture. Do not store ab
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
-Eli Lilly Nederland B.V. Papendorpseweg 83, 3528 BJ Utrecht The Netherlands
+Eli Lilly Nederland B.V. Orteliuslaan 1000, 3528 BD Utrecht The Netherlands
 
 ## 12. MARKETING AUTHORISATION NUMBER(S)
 
@@ -1725,7 +1725,7 @@ Lot
 
 15. INSTRUCTIONS ON USE
 
-16. INFORMATION IN BRAILLE
+## 16. INFORMATION IN BRAILLE
 
 tadalafil lilly 5 mg
 
@@ -1733,29 +1733,29 @@ tadalafil lilly 5 mg
 
 2D barcode carrying the unique identifier included.
 
-18. UNIQUE IDENTIFIER - HUMAN READABLE DATA
+## 18. UNIQUE IDENTIFIER - HUMAN READABLE DATA
 
 PC
 
 SN
 
+<div style=\"page-break-after: always\"></div>
+
 NN
 
 <div style=\"page-break-after: always\"></div>
 
-<div style=\"page-break-after: always\"></div>
+| MINIMUM PARTICULARS TO APPEAR ONBLISTERS ORSTRIPS   |
+|-----------------------------------------------------|
+| BLISTERS                                            |
 
-| MINIMUM PARTICULARS TO APPEAR ON BLISTERS OR STRIPS   |
-|-------------------------------------------------------|
-| BLISTERS                                              |
-
-| 1.   | NAME OF THE MEDICINAL PRODUCT   |
-|------|---------------------------------|
+| 1.   | NAMEOFTHEMEDICINAL PRODUCT   |
+|------|------------------------------|
 
 Tadalafil Lilly 5 mg tablets tadalafil
 
-| 2.   | NAME OF THE MARKETING AUTHORISATION HOLDER   |
-|------|----------------------------------------------|
+| 2.   | NAMEOFTHEMARKETING AUTHORISATION HOLDER   |
+|------|-------------------------------------------|
 
 Lilly
 
@@ -1773,8 +1773,6 @@ Lot
 |------|---------|
 
 Mon. Tue. Wed. Thu. Fri. Sat. Sun.
-
-54
 
 ## PARTICULARS TO APPEAR ON THE OUTER PACKAGING
 
@@ -1824,13 +1822,11 @@ Store in the original package in order to protect from moisture. Do not store ab
 
 <div style=\"page-break-after: always\"></div>
 
-## 10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
+10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
-Eli Lilly Nederland B.V. The Netherlands
-
-Papendorpseweg 83, 3528 BJ Utrecht
+Eli Lilly Nederland B.V. Orteliuslaan 1000, 3528 BD Utrecht The Netherlands
 
 ## 12. MARKETING AUTHORISATION NUMBER(S)
 
@@ -1854,25 +1850,23 @@ tadalafil lilly 10 mg
 
 ## 18. UNIQUE IDENTIFIER - HUMAN READABLE DATA
 
-PC
-
-SN
+PC SN
 
 NN
 
 <div style=\"page-break-after: always\"></div>
 
-| MINIMUM PARTICULARS TO APPEAR ON BLISTERS OR STRIPS   |
-|-------------------------------------------------------|
-| BLISTER                                               |
+| MINIMUM PARTICULARS TO APPEAR ONBLISTERS ORSTRIPS   |
+|-----------------------------------------------------|
+| BLISTER                                             |
 
-| 1.   | NAME OF THE MEDICINAL PRODUCT   |
-|------|---------------------------------|
+| 1.   | NAMEOFTHEMEDICINAL PRODUCT   |
+|------|------------------------------|
 
 Tadalafil Lilly 10 mg tablets tadalafil
 
-| 2.   | NAME OF THE MARKETING AUTHORISATION HOLDER   |
-|------|----------------------------------------------|
+| 2.   | NAMEOFTHEMARKETING AUTHORISATION HOLDER   |
+|------|-------------------------------------------|
 
 Lilly
 
@@ -1947,7 +1941,7 @@ Store in the original package in order to protect from moisture. Do not store ab
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
-Eli Lilly Nederland B.V. Papendorpseweg 83, 3528 BJ Utrecht The Netherlands
+Eli Lilly Nederland B.V. Orteliuslaan 1000, 3528 BD Utrecht The Netherlands
 
 ## 12. MARKETING AUTHORISATION NUMBER(S)
 
@@ -1961,7 +1955,7 @@ Lot
 
 15. INSTRUCTIONS ON USE
 
-16. INFORMATION IN BRAILLE
+## 16. INFORMATION IN BRAILLE
 
 tadalafil lilly 20 mg
 
@@ -1969,29 +1963,29 @@ tadalafil lilly 20 mg
 
 2D barcode carrying the unique identifier included.
 
-18. UNIQUE IDENTIFIER - HUMAN READABLE DATA
+## 18. UNIQUE IDENTIFIER - HUMAN READABLE DATA
 
 PC
 
 SN
 
+<div style=\"page-break-after: always\"></div>
+
 NN
 
 <div style=\"page-break-after: always\"></div>
 
-<div style=\"page-break-after: always\"></div>
+| MINIMUM PARTICULARS TO APPEAR ONBLISTERS ORSTRIPS   |
+|-----------------------------------------------------|
+| BLISTER                                             |
 
-| MINIMUM PARTICULARS TO APPEAR ON BLISTERS OR STRIPS   |
-|-------------------------------------------------------|
-| BLISTER                                               |
-
-| 1.   | NAME OF THE MEDICINAL PRODUCT   |
-|------|---------------------------------|
+| 1.   | NAMEOFTHEMEDICINAL PRODUCT   |
+|------|------------------------------|
 
 Tadalafil Lilly 20 mg tablets tadalafil
 
-| 2.   | NAME OF THE MARKETING AUTHORISATION HOLDER   |
-|------|----------------------------------------------|
+| 2.   | NAMEOFTHEMARKETING AUTHORISATION HOLDER   |
+|------|-------------------------------------------|
 
 Lilly
 
@@ -2181,7 +2175,7 @@ Common (may affect up to 1 in 10 people)
 
 - -dizziness, stomach ache, feeling sick, being sick (vomiting), reflux, blurred vision, eye pain, difficulty in breathing, presence of blood in urine, prolonged erection, pounding heartbeat sensation, a fast heart rate, high blood pressure, low blood pressure, nose bleeds, ringing in the ears, swelling of the hands, feet or ankles and feeling tired.
 
-Rare (may affect up to 1 in 1 000 people)
+## Rare (may affect up to 1 in 1 000 people)
 
 - -fainting, seizures and passing memory loss, swelling of the eyelids, red eyes, sudden decrease or loss of hearing, hives (itchy red welts on the surface of the skin), penile bleeding, presence of blood in semen and increased sweating.
 
@@ -2231,7 +2225,7 @@ Tadalafil Lilly 2.5 mg is available in blister packs containing 28 tablets.
 
 ## Marketing Authorisation Holder and Manufacturer
 
-Marketing Authorisation Holder: Eli Lilly Nederland B.V., Papendorpseweg 83, 3528 BJ Utrecht, The Netherlands.
+Marketing Authorisation Holder: Eli Lilly Nederland B.V., Orteliuslaan 1000, 3528 BD Utrecht, The Netherlands.
 
 Manufacturer: Lilly S.A., Avda. de la Industria 30, 28108 Alcobendas, Madrid, Spain.
 
@@ -2275,7 +2269,7 @@ Tel: + 36 1 328 5100
 
 Eli Lilly Danmark A/S
 
-Tlf: +45 45 26 60 00
+Tlf.: +45 45 26 60 00
 
 Malta
 
@@ -2331,9 +2325,7 @@ Tel: +385 1 2350 999
 
 ## Ireland
 
-Eli Lilly and Company (Ireland) Limited
-
-Tel: + 353-(0) 1 661 4377
+Eli Lilly and Company (Ireland) Limited Tel: + 353-(0) 1 661 4377
 
 ## Ísland
 
@@ -2361,15 +2353,15 @@ Eli Lilly (Suisse) S.A Pārstāvniecība
 
 Latvijāpārstāvniecība Latvijā
 
+<div style=\"page-break-after: always\"></div>
+
 Tel:
 
 + 371 67364000
 
-<div style=\"page-break-after: always\"></div>
-
 ## This leaflet was last revised in
 
-Detailed information on this medicine is available on the European Medicines Agency web site: http://www.ema.europa.eu
+Detailed information on this medicine is available on the European Medicines Agency web site: https://www.ema.europa.eu
 
 Tlf: + 47 22 88 18 00
 
@@ -2418,12 +2410,6 @@ Puh/Tel: + 358-(0) 9 85 45 250
 Eli Lilly Sweden AB
 
 Tel: + 46-(0) 8 7378800
-
-## United Kingdom (Northern Ireland)
-
-Eli Lilly and Company (Ireland) Limited
-
-Tel: + 353-(0) 1 661 4377
 
 ## Package leaflet: Information for the user
 
@@ -2604,7 +2590,7 @@ Common (may affect up to 1 in 10 people)
 
 - -dizziness, stomach ache, feeling sick, being sick (vomiting), reflux, blurred vision, eye pain, difficulty in breathing, presence of blood in urine, prolonged erection, pounding heartbeat sensation, a fast heart rate, high blood pressure, low blood pressure, nose bleeds, ringing in the ears, swelling of the hands, feet or ankles and feeling tired.
 
-## Rare (may affect up to 1 in 1 000 people)
+Rare (may affect up to 1 in 1 000 people)
 
 - -fainting, seizures and passing memory loss, swelling of the eyelids, red eyes, sudden decrease or loss of hearing, hives (itchy red welts on the surface of the skin), penile bleeding, presence of blood in semen and increased sweating.
 
@@ -2642,9 +2628,7 @@ Do not throw away any medicines via wastewater or household waste. Ask your phar
 - -The active substance is tadalafil. Each tablet contains 5 mg of tadalafil.
 - -The other ingredients are:
 
-Tablet core : Lactose monohydrate, Croscarmellose sodium, Hydroxypropylcellulose,
-
-Microcrystalline cellulose, Sodium laurilsulfate, Magnesium stearate. See section 2 'Tadalafil Lilly contains lactose'.
+Tablet core : Lactose monohydrate, Croscarmellose sodium, Hydroxypropylcellulose, Microcrystalline cellulose, Sodium laurilsulfate, Magnesium stearate. See section 2 'Tadalafil Lilly contains lactose'.
 
 Film-coat : Lactose monohydrate, Hypromellose, Triacetin, Titanium dioxide (E171), Iron oxide yellow (E172), Talc.
 
@@ -2658,7 +2642,7 @@ Not all pack sizes may be marketed.
 
 ## Marketing Authorisation Holder and Manufacturer
 
-Marketing Authorisation Holder: Eli Lilly Nederland B.V., Papendorpseweg 83, 3528 BJ Utrecht, The Netherlands.
+Marketing Authorisation Holder: Eli Lilly Nederland B.V., Orteliuslaan 1000, 3528 BD Utrecht, The Netherlands.
 
 Manufacturer: Lilly S.A., Avda. de la Industria 30, 28108 Alcobendas, Madrid, Spain.
 
@@ -2688,7 +2672,7 @@ Tel: + 420 234 664 111
 
 Eli Lilly Danmark A/S
 
-Tlf: +45 45 26 60 00
+Tlf.: +45 45 26 60 00
 
 ## Deutschland
 
@@ -2752,19 +2736,25 @@ Phadisco Ltd
 
 ## Latvija
 
-Eli Lilly (Suisse) S.A Pārstāvniecība Latvijā Tel: + 371 67364000
+Eli Lilly (Suisse) S.A Pārstāvniecība Latvijā Tel:
+
++ 371 67364000
 
 ## This leaflet was last revised in
 
-Detailed information on this medicine is available on the European Medicines Agency web site: http://www.ema.europa.eu
+Detailed information on this medicine is available on the European Medicines Agency web site: https://www.ema.europa.eu
 
 ## Lietuva
 
-Eli Lilly Lietuva Tel. +370 (5) 2649600
+Eli Lilly Lietuva
+
+Tel. +370 (5) 2649600
 
 ## Luxembourg/Luxemburg
 
-Eli Lilly Benelux S.A./N.V. Tél/Tel: + 32-(0)2 548 84 84
+Eli Lilly Benelux S.A./N.V.
+
+Tél/Tel: + 32-(0)2 548 84 84
 
 ## Magyarország
 
@@ -2838,17 +2828,13 @@ Eli Lilly Sweden AB
 
 Tel: + 46-(0) 8 7378800
 
-## United Kingdom (Northern Ireland)
-
-Eli Lilly and Company (Ireland) Limited
-
-Tel: +353-(0) 1 661 4377
-
 ## Package leaflet: Information for the user
 
 <div style=\"page-break-after: always\"></div>
 
-## Tadalafil Lilly 10 mg film-coated tablets tadalafil
+## Tadalafil Lilly 10 mg film-coated tablets
+
+## tadalafil
 
 ## Read all of this leaflet carefully before you start taking this medicine because it contains important information for you.
 
@@ -3040,9 +3026,7 @@ Do not throw away any medicines via wastewater or household waste. Ask your phar
 ## What Tadalafil Lilly contains
 
 - -The active substance is tadalafil. Each tablet contains 10 mg of tadalafil.
-- -The other ingredients are:
-
-Tablet core : Lactose monohydrate, Croscarmellose sodium, Hydroxypropylcellulose, Microcrystalline cellulose, Sodium laurilsulfate, Magnesium stearate. See section 2 'Tadalafil Lilly contains lactose'.
+- -The other ingredients are: Tablet core : Lactose monohydrate, Croscarmellose sodium, Hydroxypropylcellulose, Microcrystalline cellulose, Sodium laurilsulfate, Magnesium stearate. See section 2 'Tadalafil Lilly contains lactose'.
 
 Film-coat: Lactose monohydrate, Hypromellose, Triacetin, Titanium dioxide (E171), Iron oxide yellow (E172), Talc.
 
@@ -3054,7 +3038,7 @@ Tadalafil Lilly 10 mg is available in blister packs containing 4 tablets.
 
 ## Marketing Authorisation Holder and Manufacturer
 
-Marketing Authorisation Holder: Eli Lilly Nederland B.V., Papendorpseweg 83, 3528 BJ Utrecht, The Netherlands.
+Marketing Authorisation Holder: Eli Lilly Nederland B.V., Orteliuslaan 1000, 3528 BD Utrecht, The Netherlands.
 
 Manufacturer: Lilly S.A., Avda. de la Industria 30, 28108 Alcobendas, Madrid, Spain.
 
@@ -3066,23 +3050,11 @@ Eli Lilly Benelux S.A./N.V.
 
 Tél/Tel: + 32-(0)2 548 84 84
 
-## Lietuva
-
-Eli Lilly Lietuva
-
-Tel. +370 (5) 2649600
-
 ## България
 
 ТП \"Ели Лили Недерланд\" Б.В. - България
 
 тел. + 359 2 491 41 40
-
-## Luxembourg/Luxemburg
-
-Eli Lilly Benelux S.A./N.V.
-
-Tél/Tel: + 32-(0)2 548 84 84
 
 ## Česká republika
 
@@ -3090,23 +3062,11 @@ ELI LILLY Č R, s.r.o.
 
 Tel: + 420 234 664 111
 
-## Magyarország
-
-Lilly Hungária Kft.
-
-Tel: + 36 1 328 5100
-
 ## Danmark
 
 Eli Lilly Danmark A/S
 
-Tlf: +45 45 26 60 00
-
-## Malta
-
-Charles de Giorgio Ltd.
-
-Tel: + 356 25600 500
+Tlf.: +45 45 26 60 00
 
 ## Deutschland
 
@@ -3114,23 +3074,11 @@ Lilly Deutschland GmbH
 
 Tel. + 49-(0) 6172 273 2222
 
-## Nederland
-
-Eli Lilly Nederland B.V.
-
-Tel: + 31-(0) 30 60 25 800
-
 ## Eesti
 
 Eli Lilly Nederland B.V.
 
 Tel: +372 6 817 280
-
-## Norge
-
-Eli Lilly Norge A.S.
-
-Tlf: + 47 22 88 18 00
 
 ## Ελλάδα
 
@@ -3138,23 +3086,11 @@ Tlf: + 47 22 88 18 00
 
 Τηλ: +30 210 629 4600
 
-## Österreich
-
-Eli Lilly Ges.m.b.H.
-
-Tel: + 43-(0) 1 711 780
-
 ## España
 
 Lilly S.A.
 
 Tel: + 34-91 663 50 00
-
-## Polska
-
-Eli Lilly Polska Sp. z o.o.
-
-Tel: +48 22 440 33 00
 
 ## France
 
@@ -3162,13 +3098,61 @@ Lilly France
 
 Tél: +33-(0) 1 55 49 34 34
 
+## Hrvatska
+
+## Lietuva
+
+Eli Lilly Lietuva
+
+Tel. +370 (5) 2649600
+
+## Luxembourg/Luxemburg
+
+Eli Lilly Benelux S.A./N.V.
+
+Tél/Tel: + 32-(0)2 548 84 84
+
+## Magyarország
+
+Lilly Hungária Kft.
+
+Tel: + 36 1 328 5100
+
+## Malta
+
+Charles de Giorgio Ltd.
+
+Tel: + 356 25600 500
+
+## Nederland
+
+Eli Lilly Nederland B.V.
+
+Tel: + 31-(0) 30 60 25 800
+
+## Norge
+
+Eli Lilly Norge A.S.
+
+Tlf: + 47 22 88 18 00
+
+## Österreich
+
+Eli Lilly Ges.m.b.H.
+
+Tel: + 43-(0) 1 711 780
+
+## Polska
+
+Eli Lilly Polska Sp. z o.o.
+
+Tel: +48 22 440 33 00
+
 Portugal
 
 Lilly Portugal Produtos Farmacêuticos, Lda
 
 Tel: + 351-21-4126600
-
-Hrvatska
 
 România
 
@@ -3176,9 +3160,17 @@ Eli Lilly Hrvatska d.o.o.
 
 Tel: +385 1 2350 999
 
+Eli Lilly România S.R.L.
+
+Tel: + 40 21 4023000
+
 ## Ireland
 
 Eli Lilly and Company (Ireland) Limited Tel: + 353-(0) 1 661 4377
+
+## Slovenija
+
+Eli Lilly farmacevtska družba, d.o.o . Tel: +386 (0)1 580 00 10
 
 ## Ísland
 
@@ -3186,11 +3178,23 @@ Icepharma hf.
 
 Sími: + 354 540 8000
 
+## Slovenská republika
+
+Eli Lilly Slovakia s.r.o.
+
+Tel: + 421 220 663 111
+
 ## Italia
 
 Eli Lilly Italia S.p.A.
 
 Tel: + 39- 055 42571
+
+## Suomi/Finland
+
+Oy Eli Lilly Finland Ab
+
+Puh/Tel: + 358-(0) 9 85 45 250
 
 ## Κύπρος
 
@@ -3200,51 +3204,31 @@ Phadisco Ltd
 
 : +357 22 715000
 
-## Latvija
-
-Eli Lilly (Suisse) S.A Pārstāvniecība Latvijā Tel: + 371 67364000
-
-<div style=\"page-break-after: always\"></div>
-
-## This leaflet was last revised in
-
-Detailed information on this medicine is available on the European Medicines Agency web site: http://www.ema.europa.eu
-
-Eli Lilly România S.R.L.
-
-Tel: + 40 21 4023000
-
-## Slovenija
-
-Eli Lilly farmacevtska družba, d.o.o . Tel: +386 (0)1 580 00 10
-
-## Slovenská republika
-
-Eli Lilly Slovakia s.r.o.
-
-Tel: + 421 220 663 111
-
-## Suomi/Finland
-
-Oy Eli Lilly Finland Ab
-
-Puh/Tel: + 358-(0) 9 85 45 250
-
-## Sverige
+Sverige
 
 Eli Lilly Sweden AB
 
 Tel: + 46-(0) 8 7378800
 
-## United Kingdom (Northern Ireland)
+Latvija
 
-Eli Lilly and Company (Ireland) Limited Tel: +353-(0) 1 661 4377
+Eli Lilly (Suisse) S.A Pārstāvniecība Latvijā Tel:
+
++ 371 67364000
+
+<div style=\"page-break-after: always\"></div>
+
+## This leaflet was last revised in
+
+Detailed information on this medicine is available on the European Medicines Agency web site: https://www.ema.europa.eu
 
 ## Package leaflet: Information for the user
 
 <div style=\"page-break-after: always\"></div>
 
-## Tadalafil Lilly 20 mg film-coated tablets tadalafil
+## Tadalafil Lilly 20 mg film-coated tablets
+
+## tadalafil
 
 ## Read all of this leaflet carefully before you start taking this medicine because it contains important information for you.
 
@@ -3435,9 +3419,11 @@ Do not throw away any medicines via wastewater or household waste. Ask your phar
 ## What Tadalafil Lilly contains
 
 - -The active substance is tadalafil. Each tablet contains 20 mg of tadalafil.
-- -The other ingredients are:
+- -The other ingredients
 
-Tablet core : Lactose monohydrate, Croscarmellose sodium, Hydroxypropylcellulose, Microcrystalline cellulose, Sodium laurilsulfate, Magnesium stearate. See section 2 'Tadalafil Lilly contains lactose'.
+Tablet core : Lactose monohydrate, Croscarmellose sodium, Hydroxypropylcellulose, Lilly contains lactose'.
+
+- are: Microcrystalline cellulose, Sodium laurilsulfate, Magnesium stearate. See section 2 'Tadalafil
 
 Film-coat : Lactose monohydrate, Hypromellose, Triacetin, Titanium dioxide (E171), Iron oxide yellow (E172), Talc.
 
@@ -3451,7 +3437,7 @@ Not all pack sizes may be marketed.
 
 ## Marketing Authorisation Holder and Manufacturer
 
-Marketing Authorisation Holder: Eli Lilly Nederland B.V., Papendorpseweg 83, 3528 BJ Utrecht, The Netherlands.
+Marketing Authorisation Holder: Eli Lilly Nederland B.V., Orteliuslaan 1000, 3528 BD Utrecht, The Netherlands.
 
 Manufacturer: Lilly S.A., Avda. de la Industria 30, 28108 Alcobendas, Madrid, Spain.
 
@@ -3495,7 +3481,7 @@ Tel: + 36 1 328 5100
 
 Eli Lilly Danmark A/S
 
-Tlf: +45 45 26 60 00
+Tlf.: +45 45 26 60 00
 
 ## Malta
 
@@ -3529,7 +3515,9 @@ Tlf: + 47 22 88 18 00
 
 ## Ελλάδα
 
-ΦΑΡΜΑΣΕΡΒ - ΛΙΛΛΥ Α.Ε.Β.Ε .
+ΦΑΡΜΑΣΕΡΒ - ΛΙΛΛΥ Α.Ε.Β.Ε
+
+.
 
 Τηλ: +30 210 629 4600
 
@@ -3539,13 +3527,17 @@ Eli Lilly Ges.m.b.H.
 
 Tel: + 43-(0) 1 711 780
 
-<div style=\"page-break-after: always\"></div>
-
 ## España
 
 Lilly S.A.
 
 Tel: + 34-91 663 50 00
+
+## Polska
+
+Eli Lilly Polska Sp. z o.o.
+
+Tel: +48 22 440 33 00
 
 ## France
 
@@ -3553,11 +3545,23 @@ Lilly France
 
 Tél: +33-(0) 1 55 49 34 34
 
+## Portugal
+
+Lilly Portugal Produtos Farmacêuticos, Lda
+
+Tel: + 351-21-4126600
+
 ## Hrvatska
 
 Eli Lilly Hrvatska d.o.o.
 
 Tel: +385 1 2350 999
+
+## România
+
+Eli Lilly România S.R.L.
+
+Tel: + 40 21 4023000
 
 ## Ireland
 
@@ -3565,17 +3569,35 @@ Eli Lilly and Company (Ireland) Limited
 
 Tel: + 353-(0) 1 661 4377
 
+## Slovenija
+
+Eli Lilly farmacevtska družba, d.o.o .
+
+Tel: +386 (0)1 580 00 10
+
 ## Ísland
 
 Icepharma hf.
 
 Sími: + 354 540 8000
 
+## Slovenská republika
+
+Eli Lilly Slovakia s.r.o.
+
+Tel: + 421 220 663 111
+
 ## Italia
 
 Eli Lilly Italia S.p.A.
 
 Tel: + 39- 055 42571
+
+## Suomi/Finland
+
+Oy Eli Lilly Finland Ab
+
+Puh/Tel: + 358-(0) 9 85 45 250
 
 ## Κύπρος
 
@@ -3585,6 +3607,12 @@ Phadisco Ltd
 
 : +357 22 715000
 
+## Sverige
+
+Eli Lilly Sweden AB
+
+Tel: + 46-(0) 8 7378800
+
 ## Latvija
 
 Eli Lilly (Suisse) S.A Pārstāvniecība Latvijā
@@ -3593,74 +3621,8 @@ Tel:
 
 + 371 67364000
 
+<div style=\"page-break-after: always\"></div>
+
 ## This leaflet was last revised in
 
-Detailed information on this medicine is available on the European Medicines Agency web site: http://www.ema.europa.eu
-
-## Polska
-
-Eli Lilly Polska Sp. z o.o.
-
-Tel: +48 22 440 33 00
-
-## Portugal
-
-Lilly Portugal Produtos Farmacêuticos, Lda
-
-Tel: + 351-21-4126600
-
-## România
-
-Eli Lilly România S.R.L.
-
-Tel: + 40 21 4023000
-
-## Slovenija
-
-Eli Lilly farmacevtska družba, d.o.o .
-
-Tel: +386 (0)1 580 00 10
-
-## Slovenská republika
-
-Eli Lilly Slovakia s.r.o.
-
-Tel: + 421 220 663 111
-
-## Suomi/Finland
-
-Oy Eli Lilly Finland Ab Puh/Tel: + 358-(0) 9 85 45 250
-
-## Sverige
-
-Eli Lilly Sweden AB
-
-Tel: + 46-(0) 8 7378800
-
-## United Kingdom (Northern Ireland)
-
-Eli Lilly and Company (Ireland) Limited
-
-Tel: +353-(0) 1 661 4377
-
-<div style=\"page-break-after: always\"></div>
-
-## ANNEX IV
-
-## SCIENTIFIC CONCLUSIONS AND GROUNDS FOR THE VARIATION TO THE TERMS OF THE MARKETING AUTHORISATION(S)
-
-<div style=\"page-break-after: always\"></div>
-
-## Scientific conclusions
-
-Taking into account the PRAC Assessment Report on the PSUR(s) for tadalafil, the scientific conclusions of the CHMP are as follows:
-
-In view of available data on serous central chorioretinopathy from the literature and spontaneous reports including in some cases a close temporal relationship, a positive de-challenge and/or rechallenge and in view of a plausible mechanism of action, the PRAC considers a causal relationship between tadalafil and central serous chorioretinopathy is at least a reasonable possibility. The PRAC concluded that the product information of products containing tadalafil should be amended accordingly.
-
-The CHMP agrees with the scientific conclusions made by the PRAC.
-
-## Grounds for the variation to the terms of the Marketing Authorisation(s)
-
-On the basis of the scientific conclusions for tadalafil the CHMP is of the opinion that the benefit-risk balance of the medicinal product(s) containing tadalafil is unchanged subject to the proposed changes to the product information.
-
-The CHMP recommends that the terms of the Marketing Authorisation(s) should be varied.
+Detailed information on this medicine is available on the European Medicines Agency web site: https://www.ema.europa.eu

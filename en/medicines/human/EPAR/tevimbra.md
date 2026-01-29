@@ -1,18 +1,18 @@
 ---
-document_datetime: 2025-12-29 11:52:39
+document_datetime: 2026-01-26 15:00:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/tevimbra.html
 document_name: tevimbra.html
 version: success
-processing_time: 0.1324266
-conversion_datetime: 2025-12-29 23:16:44.032161
+processing_time: 0.1416246
+conversion_datetime: 2026-01-29 12:28:12.536357
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.66.0
-  docling-core: 2.57.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.11.0
+  docling-jobkit: 1.9.0
+  docling: 2.70.0
+  docling-core: 2.61.0
+  docling-ibm-models: 3.11.0
+  docling-parse: 4.7.3
   python: cpython-313 (3.13.11)
   plaform: macOS-26.2-arm64-arm-64bit-Mach-O
 ---
@@ -25,8 +25,6 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 tislelizumab Medicine Human Authorised
-
-On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -150,7 +148,7 @@ English (EN) (184.58 KB - PDF)
 
 [View](/en/documents/overview/tevimbra-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-83)
+[Other languages (22)](#file-language-dropdown-594)
 
 български (BG) (173.28 KB - PDF)
 
@@ -438,7 +436,7 @@ English (EN) (841.95 KB - PDF)
 
 [View](/en/documents/product-information/tevimbra-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-277)
+[Other languages (24)](#file-language-dropdown-1000)
 
 български (BG) (1004.27 KB - PDF)
 
@@ -752,7 +750,7 @@ English (EN) (42.65 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/tevimbra-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-310)
+[Other languages (24)](#file-language-dropdown-660)
 
 български (BG) (50.78 KB - PDF)
 
@@ -998,7 +996,7 @@ Beone Medicines Ireland Limited
 
 10 Earlsfort Terrace Dublin D02 T380 Ireland
 
-Opinion adopted 20/07/2023 Marketing authorisation issued 15/09/2023 Revision 15
+Opinion adopted 20/07/2023 Marketing authorisation issued 15/09/2023 Revision 16
 
 ## Assessment history
 
@@ -1010,11 +1008,11 @@ Collapse section
 
 Tevimbra : EPAR - Procedural steps taken and scientific information after authorisation
 
-English (EN) (171.7 KB - PDF)
+English (EN) (175.02 KB - PDF)
 
 **First published:** 15/05/2025
 
-**Last updated:** 04/11/2025
+**Last updated:** 26/01/2026
 
 [View](/en/documents/procedural-steps-after/tevimbra-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf)
 
@@ -1027,6 +1025,16 @@ English (EN) (208.9 KB - PDF)
 **Last updated:** 16/09/2025
 
 [View](/en/documents/procedural-steps-after/tevimbra-epar-procedural-steps-taken-scientific-information-after-authorisation-archive_en.pdf)
+
+Tevimbra-PSUSA-00000136-202412 : Scientific conclusions and grounds for the variation to the terms of the marketing authorisation
+
+Reference Number: EMADOC-1700519818-2853292
+
+English (EN) (155.68 KB - PDF)
+
+**First published:** 26/01/2026
+
+[View](/en/documents/scientific-conclusion/tevimbra-psusa-00000136-202412-scientific-conclusions-grounds-variation-terms-marketing-authorisation_en.pdf)
 
 Tevimbra-H-C-005919-II-0018 : EPAR - Assessment report - Variation
 
@@ -1240,7 +1248,7 @@ English (EN) (128.39 KB - PDF)
 
 This product is no longer an orphan medicine. It was originally [designated an orphan medicine](/en/medicines/human/orphan-designations/eu-3-20-2357) on 13 November 2020. Tevimbra was withdrawn from the Community register of orphan medicinal products in October 2023 upon request of the marketing authorisation holder.
 
-**This page was last updated on** 02/12/2025
+**This page was last updated on** 26/01/2026
 
 ## Share this page
 

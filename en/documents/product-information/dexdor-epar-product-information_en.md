@@ -1,18 +1,18 @@
 ---
-document_datetime: 2023-09-21 21:11:17
+document_datetime: 2026-01-28 12:45:31
 document_pages: 31
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/dexdor-epar-product-information_en.pdf
 document_name: dexdor-epar-product-information_en.pdf
 version: success
-processing_time: 7.0485191
-conversion_datetime: 2025-12-26 17:46:15.163304
+processing_time: 7.6441751
+conversion_datetime: 2026-01-29 12:02:39.203547
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.66.0
-  docling-core: 2.57.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.11.0
+  docling-jobkit: 1.9.0
+  docling: 2.70.0
+  docling-core: 2.61.0
+  docling-ibm-models: 3.11.0
+  docling-parse: 4.7.3
   python: cpython-313 (3.13.11)
   plaform: macOS-26.2-arm64-arm-64bit-Mach-O
 ---
@@ -238,9 +238,9 @@ Patients should be advised to refrain from driving or other hazardous tasks for 
 
 The most frequently reported adverse reactions with dexmedetomidine in ICU setting are hypotension, hypertension and bradycardia, occurring in approximately 25%, 15% and 13% of patients respectively. Hypotension and bradycardia were also the most frequent dexmedetomidine-related serious adverse reactions occurring in 1.7% and 0.9% of randomised Intensive Care Unit (ICU) patients respectively.
 
-## Procedural/awake sedation
-
 <div style=\"page-break-after: always\"></div>
+
+## Procedural/awake sedation
 
 The most frequently reported adverse reactions with dexmedetomidine in procedural sedation are listed below (the protocols of phase III studies contained pre-defined thresholds for reporting changes in blood pressure, respiratory rate and heart rate as AEs).
 
@@ -266,11 +266,9 @@ Diabetes insipidus
 
 Common:
 
-Hyperglycaemia, hypoglycaemia
+Hyperglycaemia, hypoglycaemia Metabolic acidosis, hypoalbuminaemia
 
 Uncommon:
-
-Metabolic acidosis, hypoalbuminaemia
 
 ## Psychiatric disorders
 
@@ -328,9 +326,9 @@ Drug ineffective, thirst
 
 1 See section on Description of selected adverse reactions
 
-2  Adverse reaction observed also in procedural sedation studies
-
 <div style=\"page-break-after: always\"></div>
+
+2  Adverse reaction observed also in procedural sedation studies
 
 3  Incidence 'common' in ICU sedation studies
 
@@ -360,13 +358,13 @@ Several cases of dexmedetomidine overdose have been reported both in the clinica
 
 In cases of overdose with clinical symptoms, dexmedetomidine infusion should be reduced or stopped. Expected effects are primarily cardiovascular and should be treated as clinically indicated (see section 4.4). At high concentration hypertension may be more prominent than hypotension. In clinical studies, cases of sinus arrest reversed spontaneously or responded to treatment with atropine and glycopyrrolate. Resuscitation was required in isolated cases of severe overdose resulting in cardiac arrest.
 
+<div style=\"page-break-after: always\"></div>
+
 ## 5. PHARMACOLOGICAL PROPERTIES
 
 ## 5.1 Pharmacodynamic properties
 
 Pharmacotherapeutic group: Psycholeptics, other hypnotics and sedatives, ATC code: N05CM18
-
-<div style=\"page-break-after: always\"></div>
 
 Dexmedetomidine is a selective alpha-2 receptor agonist with a broad range of pharmacological properties. It has a sympatholytic effect through decrease of the release of noradrenaline in sympathetic nerve endings. The sedative effects are mediated through decreased firing of locus coeruleus, the predominant noradrenergic nucleus, situated in the brainstem. Dexmedetomidine has analgesic and anaesthetic/analgesic-sparing effects. The cardiovascular effects depend on the dose; with lower infusion rates the central effects dominate leading to decrease in heart rate and blood pressure. With higher doses, peripheral vasoconstricting effects prevail leading to an increase in systemic vascular resistance and blood pressure, while the bradycardic effect is further emphasised. Dexmedetomidine is relatively free from respiratory depressive effects when given as monotherapy to healthy subjects.
 
@@ -380,16 +378,13 @@ Evidence of paediatric efficacy was seen in a dose-controlled ICU study in a lar
 
 In double blind comparator controlled ICU studies the incidence of cortisol suppression in patients treated with dexmedetomidine (n = 778) was 0.5% compared with 0% in patients treated with either midazolam (n = 338) or propofol (n = 275). The event was reported as mild in 1 and moderate in 3 cases.
 
+<div style=\"page-break-after: always\"></div>
+
 ## Procedural/awake sedation
 
 The safety and efficacy of dexmedetomidine for sedation of non-intubated patients prior to and/or during surgical and diagnostic procedures was evaluated in two randomised, double-blind, placebocontrolled multicentre clinical trials.
 
-- -Study 1 randomised patients undergoing elective surgeries/procedures under monitored anaesthesia care and local/regional anaesthesia to receive a loading infusion of dexmedetomidine
-
-<div style=\"page-break-after: always\"></div>
-
-either 1 µg/kg (n = 129) or 0.5 µg/kg (n = 134), or placebo (normal saline; n = 63) given over 10 minutes and followed by a maintenance infusion started at 0.6 µg/kg/h. The maintenance infusion of study drug could be titrated from 0.2 µg/kg/h to 1 µg/kg/h. The proportion of patients that achieved the targeted sedation level (Observer's Assessment of Alertness/Sedation Scale ≤ 4) without need for rescue midazolam was 54% of the patients receiving dexmedetomidine 1 µg/kg and 40% of the patients receiving dexmedetomidine 0.5 µg/kg compared to 3% of patients receiving the placebo.The risk difference in proportion of subjects randomised to dexmedetomidine 1 μg/kg group and dexmedetomidine 0.5 μg/kg group not requiring rescue midazolam was 48% (95% CI: 37%-57%) and 40% (95% CI: 28%-48%), respectively compared placebo. The median (range) midazolam rescue dose was 1.5 (0.5-7.0) mg in the dexmedetomidine1.0 µg/kg group, 2.0 (0.5-8.0) mg in the dexmedetomidine 0.5 µg/kg group, and 4.0 (0.5-14.0) mg in the placebo group. The difference in means in dose of rescue midazolam in dexmedetomidine 1 μg/kg and dexmedetomidine 0.5 μg/kg group compared to placebo was 3.1 mg (95% CI: -3.8 - -2.5) and -2.7 mg (95% CI: -3.3 - -2.1), respectively favouring dexmedetomidine.The median time to first rescue dose was 114 minutes in the dexmedetomidine 1.0 µg/kg group, 40 minutes in the dexmedetomidine 0.5 µg/kg group, and 20 minutes in the placebo group.
-
+- -Study 1 randomised patients undergoing elective surgeries/procedures under monitored anaesthesia care and local/regional anaesthesia to receive a loading infusion of dexmedetomidine either 1 µg/kg (n = 129) or 0.5 µg/kg (n = 134), or placebo (normal saline; n = 63) given over 10 minutes and followed by a maintenance infusion started at 0.6 µg/kg/h. The maintenance infusion of study drug could be titrated from 0.2 µg/kg/h to 1 µg/kg/h. The proportion of patients that achieved the targeted sedation level (Observer's Assessment of Alertness/Sedation Scale ≤ 4) without need for rescue midazolam was 54% of the patients receiving dexmedetomidine 1 µg/kg and 40% of the patients receiving dexmedetomidine 0.5 µg/kg compared to 3% of patients receiving the placebo.The risk difference in proportion of subjects randomised to dexmedetomidine 1 μg/kg group and dexmedetomidine 0.5 μg/kg group not requiring rescue midazolam was 48% (95% CI: 37%-57%) and 40% (95% CI: 28%-48%), respectively compared placebo. The median (range) midazolam rescue dose was 1.5 (0.5-7.0) mg in the dexmedetomidine1.0 µg/kg group, 2.0 (0.5-8.0) mg in the dexmedetomidine 0.5 µg/kg group, and 4.0 (0.5-14.0) mg in the placebo group. The difference in means in dose of rescue midazolam in dexmedetomidine 1 μg/kg and dexmedetomidine 0.5 μg/kg group compared to placebo was 3.1 mg (95% CI: -3.8 - -2.5) and -2.7 mg (95% CI: -3.3 - -2.1), respectively favouring dexmedetomidine.The median time to first rescue dose was 114 minutes in the dexmedetomidine 1.0 µg/kg group, 40 minutes in the dexmedetomidine 0.5 µg/kg group, and 20 minutes in the placebo group.
 - -Study 2 randomised patients undergoing awake fibreoptic intubation under topical anaesthesia to receive a loading infusion of dexmedetomidine 1 µg/kg (n = 55) or placebo (normal saline) (n = 50) given over 10 minutes and followed by a fixed maintenance infusion of 0.7 µg/kg/h. To maintain a Ramsay Sedation Scale ≥ 2 53% of the patients receiving dexmedetomidine did not require midazoloam rescue vs. 14% of patients receiving placebo. The risk difference in proportion of subjects randomised to dexmedetomidine not requiring rescue midazolam was 43% (95% CI: 23 %-57%) compared placebo. The mean midazolam rescue dose was 1.1 mg in the dexmedetomidine group, and 2.8 mg in the placebo group. The difference in means in dose of rescue midazolam was -1.8 mg (95% CI: -2.7 - -0.86) favouring dexmedetomidine.
 
 ## 5.2 Pharmacokinetic properties
@@ -400,13 +395,11 @@ The pharmacokinetics of dexmedetomidine has been assessed following short term I
 
 Dexmedetomidine exhibits a two-compartment disposition model. In healthy volunteers it exhibits a rapid distribution phase with a central estimate of the distribution half-life (t 1/2α ) of about 6 minutes. The mean estimate of the terminal elimination half-life (t 1/2 ) is approximately 1.9 to 2.5 h (min 1.35, max 3.68 h) and the mean estimate of the steady-state volume of distribution (Vss) is approximately 1.16 to 2.16 l/kg (90 to 151 litres). Plasma clearance (Cl) has a mean estimated value of 0.46 to 0.73 l/h/kg (35.7 to 51.1 l/h). The mean body weight associated with these Vss and Cl estimates was 69 kg. Plasma pharmacokinetics of dexmedetomidine is similar in the ICU population following infusion &gt;24 h. The estimated pharmacokinetic parameters are: t1/2 approximately 1.5 hours, Vss approximately 93 litres and Cl approximately 43 l/h. The pharmacokinetics of dexmedetomidine is linear in the dosing range from 0.2 to 1.4 µg/kg/h and it does not accumulate in treatments lasting up to 14 days. Dexmedetomidine is 94% bound to plasma proteins. Plasma protein binding is constant over the concentration range of 0.85 to 85 ng/ml. Dexmedetomidine binds to both human serum albumin and Alpha-1-acid glycoprotein with serum albumin as the major binding protein of dexmedetomidine in plasma.
 
-## Biotransformation and Elimination
-
-Dexmedetomidine is eliminated by extensive metabolism in the liver. There are three types of initial metabolic reactions; direct N-glucuronidation, direct N-methylation and cytochrome P450 catalysed oxidation. The most abundant circulating dexmedetomidine metabolites are two isomeric Nglucuronides. Metabolite H-1, N-methyl 3-hydroxymethyl dexmedetomidine O-glucuronide, is also a major circulating product of dexmedetomidine biotransformation. Cytochrome P-450 catalyses the
-
 <div style=\"page-break-after: always\"></div>
 
-formation of two minor circulating metabolites, 3-hydroxymethyl dexmedetomidine produced by hydroxylation at the 3-methyl group of dexmedetomidine and H-3 produced by oxidation in the imidazole ring. Available data suggest that the formation of the oxidised metabolites is mediated by several CYP forms (CYP2A6, CYP1A2, CYP2E1, CYP2D6 and CYP2C19). These metabolites have negligible pharmacological activity.
+## Biotransformation and Elimination
+
+Dexmedetomidine is eliminated by extensive metabolism in the liver. There are three types of initial metabolic reactions; direct N-glucuronidation, direct N-methylation and cytochrome P450 catalysed oxidation. The most abundant circulating dexmedetomidine metabolites are two isomeric Nglucuronides. Metabolite H-1, N-methyl 3-hydroxymethyl dexmedetomidine O-glucuronide, is also a major circulating product of dexmedetomidine biotransformation. Cytochrome P-450 catalyses the formation of two minor circulating metabolites, 3-hydroxymethyl dexmedetomidine produced by hydroxylation at the 3-methyl group of dexmedetomidine and H-3 produced by oxidation in the imidazole ring. Available data suggest that the formation of the oxidised metabolites is mediated by several CYP forms (CYP2A6, CYP1A2, CYP2E1, CYP2D6 and CYP2C19). These metabolites have negligible pharmacological activity.
 
 Following IV administration of radiolabeled dexmedetomidine an average 95% of radioactivity was recovered in the urine and 4% in the faeces after nine days. The major urinary metabolites are the two isomeric N-glucuronides, which together accounted for approximately 34% of the dose and N-methyl 3-hydroxymethyl dexmedetomidine O-glucuronide that accounted for 14.51% of the dose. The minor metabolites dexmedetomidine carboxylic acid, 3-hydroxymethyl dexmedetomidine and its Oglucuronide individually comprised 1.11 to 7.66% of the dose. Less than 1% of unchanged parent drug was recovered in the urine. Approximately 28% of the urinary metabolites are unidentified minor metabolites.
 
@@ -420,17 +413,20 @@ The pharmacokinetics of dexmedetomidine in subjects with severe renal impairment
 
 Data in new-born infants (28-44 weeks gestation) to children 17 years of age are limited. Dexmedetomidine half life in children (1 months to 17 years) appears similar to that seen in adults, but in new-born infants (under 1 month) it appears higher. In the age groups 1 months to 6 years, body weight-adjusted plasma clearance appeared higher but decreased in older children. Body weightadjusted plasma clearance in new-born infants (under 1 month) appeared lower (0.9 l/h/kg) than in the older groups due to immaturity. The available data is summarised in the following table;
 
-|                   |    | Mean (95% CI)     | Mean (95% CI)     |
+|                  |    | Mean (95% CI)     | Mean (95% CI)     |
+|------------------|----|-------------------|-------------------|
+| Age              | N  | Cl (l/h/kg)       | t 1/2 (h)         |
+| Under 1 month    | 28 | 0.93 (0.76, 1.14) | 4.47 (3.81, 5.25) |
+| 1 to < 6 months  | 14 | 1.21 (0.99, 1.48) | 2.05 (1.59, 2.65) |
+| 6 to < 12 months | 15 | 1.11              | 2.01              |
+
+<div style=\"page-break-after: always\"></div>
+
+|                   |    | (0.94, 1.31)      | (1.81, 2.22)      |
 |-------------------|----|-------------------|-------------------|
-| Age               | N  | Cl (l/h/kg)       | t 1/2 (h)         |
-| Under 1 month     | 28 | 0.93 (0.76, 1.14) | 4.47 (3.81, 5.25) |
-| 1 to < 6 months   | 14 | 1.21 (0.99, 1.48) | 2.05 (1.59, 2.65) |
-| 6 to < 12 months  | 15 | 1.11 (0.94, 1.31) | 2.01 (1.81, 2.22) |
 | 12 to < 24 months | 13 | 1.06 (0.87, 1.29) | 1.97 (1.62, 2.39) |
 | 2 to < 6 years    | 26 | 1.11 (1.00, 1.23) | 1.75 (1.57, 1.96) |
 | 6 to < 17 years   | 28 | 0.80 (0.69, 0.92) | 2.03 (1.78, 2.31) |
-
-<div style=\"page-break-after: always\"></div>
 
 ## 5.3 Preclinical safety data
 
@@ -454,7 +450,7 @@ Compatibility studies have shown potential for adsorption of dexmedetomidine to 
 
 3 years
 
-## After dilution
+After dilution
 
 Chemical and physical in-use stability has been demonstrated for 24 hours at 25°C.
 
@@ -464,17 +460,19 @@ From a microbiological point of view, the product should be used immediately. If
 
 This medicinal product does not require any special temperature storage conditions. Keep the ampoules or vials in the outer carton in order to protect from light.
 
+<div style=\"page-break-after: always\"></div>
+
 For storage conditions after dilution of the medicinal product, see section 6.3
 
 ## 6.5 Nature and contents of container
 
-2 ml Type I glass ampoules
+## 2 ml Type I glass ampoules
 
 2, 5 or 10 ml Type I glass vials (with filling volumes of 2, 4 and 10 ml), grey bromobutyl rubber closure with fluoropolymer coating
 
-<div style=\"page-break-after: always\"></div>
+## Pack sizes
 
-Pack sizes 5 x 2 ml ampoules 25 x 2 ml ampoules 5 x 2 ml vials 4 x 4 ml vials 4 x 10 ml vials
+5 x 2 ml ampoules 25 x 2 ml ampoules 5 x 2 ml vials 4 x 4 ml vials 4 x 10 ml vials
 
 Not all pack sizes may be marketed.
 
@@ -504,11 +502,11 @@ Dexdor can be diluted in glucose 50 mg/ml (5%), Ringers, mannitol or sodium chlo
 | 20 ml                                                                      | 230 ml              | 250 ml                     |
 | 40 ml                                                                      | 460 ml              | 500 ml                     |
 
+<div style=\"page-break-after: always\"></div>
+
 The solution should be shaken gently to mix well.
 
 Dexdor should be inspected visually for particulate matter and discoloration prior to administration.
-
-<div style=\"page-break-after: always\"></div>
 
 Dexdor has been shown to be compatible when administered with the following intravenous fluids and medicinal products:
 
@@ -526,11 +524,13 @@ EU/1/11/718/001-002, EU/1/11/718/004, EU/1/11/718/006-007
 
 ## 9. DATE OF FIRST AUTHORISATION/RENEWAL OF THE AUTHORISATION
 
-Date of first authorisation: 16 September 2011 Date of latest renewal: 26 May 2016
+Date of first authorisation: 16 September 2011
+
+Date of latest renewal: 26 May 2016
 
 ## 10. DATE OF REVISION OF THE TEXT
 
-Detailed information on this product is available on the website of the European Medicines Agency http://www.ema.europa.eu
+Detailed information on this product is available on the website of the European Medicines Agency https://www.ema.europa.eu
 
 <div style=\"page-break-after: always\"></div>
 
@@ -561,7 +561,7 @@ The requirements for submission of PSURs for this medicinal product are set out 
 
 ## D. CONDITIONS OR RESTRICTIONS WITH REGARD TO THE SAFE AND EFFECTIVE USE OF THE MEDICINAL PRODUCT
 
-## -Risk management plan (RMP)
+##  Risk management plan (RMP)
 
 The marketing authorisation holder (MAH) shall perform the required pharmacovigilance activities and interventions detailed in in the agreed RMP presented in Module 1.8.2 of the marketing authorisation and any agreed subsequent updates of the RMP.
 
@@ -637,7 +637,7 @@ Keep out of the sight and reach of children.
 | 8.   | EXPIRY DATE   |
 |------|---------------|
 
-EXP
+EXP:
 
 | 9.   | SPECIAL STORAGE CONDITIONS   |
 |------|------------------------------|
@@ -661,7 +661,7 @@ EU/1/11/718/001 EU/1/11/718/002 EU/1/11/718/004 EU/1/11/718/006 EU/1/11/718/007
 | 13.   | BATCH NUMBER   |
 |-------|----------------|
 
-Batch
+Lot:
 
 | 14.   | GENERAL CLASSIFICATION FOR SUPPLY   |
 |-------|-------------------------------------|
@@ -694,23 +694,25 @@ PC {number} SN {number} NN {number}
 
 Dexdor 100 micrograms/ml sterile concentrate dexmedetomidine IV
 
-## 2. METHOD OF ADMINISTRATION
+| 2.   | METHODOFADMINISTRATION   |
+|------|--------------------------|
 
 | 3.   | EXPIRY DATE   |
 |------|---------------|
 
-EXP
+EXP:
 
 | 4.   | BATCH NUMBER   |
 |------|----------------|
 
-Batch
+Lot:
 
 ## 5. CONTENTS BY WEIGHT, BY VOLUME OR BY UNIT
 
 200 mcg/ 2 ml 400 mcg/ 4 ml 1000 mcg/ 10 ml
 
-## 6. OTHER
+| 6.   | OTHER   |
+|------|---------|
 
 <div style=\"page-break-after: always\"></div>
 
@@ -809,11 +811,12 @@ Your doctor will decide on a suitable dose for you. The amount of Dexdor depends
 
 Dexdor is diluted and it is given to you as an infusion (drip) into your veins.
 
-<div style=\"page-break-after: always\"></div>
-
 ## After sedation/wake-up
 
 - -The doctor will keep you under medical supervision for some hours after the sedation to make sure that you feel well.
+
+<div style=\"page-break-after: always\"></div>
+
 - -You should not go home unaccompanied.
 - -Medicines to help you sleep, cause sedation or strong painkillers may not be appropriate for some time after you have been given Dexdor. Talk to your doctor about the use of these medicines and about the use of alcohol.
 
@@ -843,7 +846,7 @@ Very common ( may affect more than 1 in 10 people ):
 - -high temperature
 - -symptoms after stopping the medicine.
 
-## Uncommon ( may affect up to 1 in 100 people ):
+Uncommon ( may affect up to 1 in 100 people ):
 
 - -reduced heart function, cardiac arrest
 - -swelling of the stomach
@@ -854,7 +857,7 @@ Very common ( may affect more than 1 in 10 people ):
 - -hallucinations
 - -the medicine is not effective enough.
 
-## Not known ( frequency cannot be estimated from the available data ):
+Not known ( frequency cannot be estimated from the available data ):
 
 - -large amount of urine and excessive thirst - may be symptoms of a hormonal disorder called diabetes insipidus. Contact a doctor if these occur.
 
@@ -862,9 +865,9 @@ Very common ( may affect more than 1 in 10 people ):
 
 If you get any side effects, talk to your doctor or nurse. This includes any possible side effects not listed in this leaflet. You can also report side effects directly via the national reporting system listed in Appendix V. By reporting side effects you can help provide more information on the safety of this medicine.
 
-<div style=\"page-break-after: always\"></div>
-
 ## 5. How to store Dexdor
+
+<div style=\"page-break-after: always\"></div>
 
 Keep this medicine out of the sight and reach of children.
 
@@ -879,9 +882,7 @@ This medicine does not require any special temperature storage conditions. Keep 
 - -The active substance is dexmedetomidine. Each ml of concentrate contains dexmedetomidine hydrochloride equivalent to 100 micrograms dexmedetomidine.
 - -The other ingredients are sodium chloride and water for injections.
 
-Each 2 ml ampoule contains 200 micrograms of dexmedetomidine (as hydrochloride).
-
-Each 2 ml vial contains 200 micrograms of dexmedetomidine (as hydrochloride). Each 4 ml vial contains 400 micrograms of dexmedetomidine (as hydrochloride). Each 10 ml vial contains 1000 micrograms of dexmedetomidine (as hydrochloride).
+Each 2 ml ampoule contains 200 micrograms of dexmedetomidine (as hydrochloride). Each 2 ml vial contains 200 micrograms of dexmedetomidine (as hydrochloride). Each 4 ml vial contains 400 micrograms of dexmedetomidine (as hydrochloride). Each 10 ml vial contains 1000 micrograms of dexmedetomidine (as hydrochloride).
 
 The concentration of the final solution after dilution should be either 4 micrograms/ml or 8 micrograms/ml.
 
@@ -889,7 +890,9 @@ The concentration of the final solution after dilution should be either 4 microg
 
 Concentrate for solution for infusion (sterile concentrate). The concentrate is a clear, colourless solution.
 
-Containers 2 ml glass ampoules 2, 5 or 10 ml glass vials
+## Containers
+
+2 ml glass ampoules 2, 5 or 10 ml glass vials
 
 Pack sizes 5 x 2 ml ampoules 25 x 2 ml ampoules 5 x 2 ml vials 4 x 4 ml vials 4 x 10 ml vials
 
@@ -901,13 +904,11 @@ Orion Corporation Orionintie 1 FI-02200 Espoo Finland
 
 ## Manufacturer
 
-Orion Corporation Orion Pharma Orionintie 1 FI-02200 Espoo
-
-<div style=\"page-break-after: always\"></div>
-
-## Finland
+Orion Corporation Orion Pharma Orionintie 1 FI-02200 Espoo Finland
 
 For any information about this medicine, please contact the local representative of the Marketing Authorisation Holder:
+
+<div style=\"page-break-after: always\"></div>
 
 ## België/Belgique/Belgien
 
@@ -919,21 +920,17 @@ Tél/Tel: +32 (0)15 64 10 20
 
 ## Nederland
 
-Orion Pharma BVBA/SPRL
-
-Tel: +32 (0)15 64 10 20
+Orion Pharma BVBA/SPRL Tel: +32 (0)15 64 10 20
 
 ## Česká republika
 
-Orion Pharma s.r.o.
+Orion Pharma s.r.o. Tel: +420 234 703 305
 
-Tel: +420 234 703 305
+## Deutschland
 
-## Deutschland Österreich
+## Österreich
 
-Orion Pharma GmbH
-
-Tel: + 49 40 899 6890
+Orion Pharma GmbH Tel: + 49 40 899 6890
 
 ## Ελλάδα
 
@@ -941,27 +938,19 @@ Orion Pharma Hellas M.E.Π.E Τηλ: + 30 210 980 3355
 
 ## France
 
-Orion Pharma
-
-Tél: +33 (0) 1 85 18 00 00
+Orion Pharma Tél: +33 (0) 1 85 18 00 00
 
 ## Ísland
 
-Vistor hf.
-
-Simi: +354 535 7000
+Vistor hf. Simi: +354 535 7000
 
 ## Κύπρος
 
-Lifepharma (ZAM) Ltd
-
-Τηλ.: +357 22056300
+Lifepharma (ZAM) Ltd Τηλ.: +357 22056300
 
 ## Lietuva
 
-UAB Orion Pharma
-
-Tel: +370 5 276 9499
+UAB Orion Pharma Tel: +370 5 276 9499
 
 ## Norge
 
@@ -971,19 +960,21 @@ Tlf: + 47 4000 4210
 
 ## Portugal
 
-Orionfin Unipessoal Lda
-
-Tel: + 351 21 154 68 20
+Orionfin Unipessoal Lda Tel: + 351 21 154 68 20
 
 ## България
 
-Orion Pharma Poland Sp. z.o.o.
+Orion Pharma Poland Sp. z.o.o. Тел.: + 48 22 8 333 177
+
+## Malta
+
+Orion Corporation
+
+Tel: + 358 10 4261
 
 ## Danmark
 
-Orion Pharma A/S
-
-Tlf: +45 8614 00 00
+Orion Pharma A/S Tlf.: +45 8614 0000
 
 ## Eesti
 
@@ -993,67 +984,47 @@ Tel: +372 6 644 550
 
 ## España
 
-Orion Pharma S.L.
-
-Tel: + 34 91 599 86 01
+Orion Pharma S.L. Tel: + 34 91 599 86 01
 
 ## Ireland
 
-Orion Pharma (Ireland) Ltd.
-
-Tel: + 353 1 428 7777
+Orion Pharma (Ireland) Ltd. Tel: + 353 1 428 7777
 
 ## Italia
 
-Orion Pharma S.r.l.
-
-Tel: + 39 02 67876111
+Orion Pharma S.r.l. Tel: + 39 02 67876111
 
 ## Latvija
 
-Orion Corporation
-
-Orion Pharma pārstāvniecība
-
-Tel: +371 20028332
+Orion Corporation Orion Pharma pārstāvniecība Tel: +371 20028332
 
 ## Magyarország
 
-Orion Pharma Kft.
-
-Tel.: +36 1 239 9095
+Orion Pharma Kft. Tel.: +36 1 239 9095
 
 ## Polska
 
-Orion Pharma Poland Sp. z.o.o.
-
-Tel.: + 48 22 8 333 177
+Orion Pharma Poland Sp. z.o.o. Tel.: + 48 22 8 333 177
 
 ## Slovenija
 
-Orion Pharma d.o.o.
-
-Tel: +386 (0) 1 600 8015
+Orion Pharma d.o.o. Tel: +386 (0) 1 600 8015
 
 ## Suomi/Finland
 
-Orion Corporation
-
-Puh/Tel: + 358 10 4261
+Orion Corporation Puh/Tel: + 358 10 4261
 
 ## Hrvatska
 
 PHOENIX Farmacija d.o.o.
 
-Тел.: + 48 22 8 333 177
+Tel: +385 1 3650 138
+
+## România
+
+Orion Corporation Tel: + 358 10 4261
 
 <div style=\"page-break-after: always\"></div>
-
-## Malta
-
-Orion Corporation
-
-Tel: + 358 10 4261
 
 ## Slovenská republika
 
@@ -1063,7 +1034,7 @@ Tel: +420 234 703 305
 
 ## This leaflet was last revised in
 
-Detailed information on this medicine is available on the European Medicines Agency web site: http://www.ema.europa.eu
+Detailed information on this medicine is available on the European Medicines Agency web site: https://www.ema.europa.eu
 
 --------------------------------------------------------------------------------------------------------------
 
@@ -1073,7 +1044,7 @@ The following information is intended for healthcare professionals only:
 
 ## Method of administration
 
-Dexdor should be administered by healthcare professionals skilled in the management of patients requiring intensive care or in the anaesthetic management of patients in the operating room. It must be administered only as a diluted intravenous infusion using a controlled infusion device
+Dexdor should be administered by healthcare professionals skilled in the management of patients requiring intensive care or in the anaesthetic management of patients in the operating room. It must be administered only as a diluted intravenous infusion using a controlled infusion device.
 
 ## Preparation of solution
 
@@ -1088,29 +1059,11 @@ Dexdor can be diluted in glucose 50 mg/ml (5%), Ringers, mannitol or sodium chlo
 | 10 ml                                                                      | 240 ml              | 250 ml                     |
 | 20 ml                                                                      | 480 ml              | 500 ml                     |
 
-## In the case the required concentration is 8 micrograms/ml:
-
-Tel: +385 1 6370450
-
-## România
-
-Orion Corporation
-
-Tel: + 358 10 4261
-
-## United Kingdom (Northern Ireland):
-
-Orion Pharma (Ireland) Ltd.
-
-Tel: +353 1 428 7777
-
-## Sverige
-
-Orion Pharma AB
-
-Tel: + 46 8 623 6440
+Sverige Orion Pharma AB Tel: + 46 8 623 6440
 
 <div style=\"page-break-after: always\"></div>
+
+## In the case the required concentration is 8 micrograms/ml:
 
 | Volume of Dexdor 100 micrograms/ml concentrate for solution for infusion   | Volume of diluent   | Total volume of infusion   |
 |----------------------------------------------------------------------------|---------------------|----------------------------|

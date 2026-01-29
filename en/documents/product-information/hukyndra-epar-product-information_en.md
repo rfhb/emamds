@@ -1,20 +1,20 @@
 ---
-document_datetime: 2025-07-28 16:24:00
+document_datetime: 2026-01-28 15:22:23
 document_pages: 275
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/hukyndra-epar-product-information_en.pdf
 document_name: hukyndra-epar-product-information_en.pdf
 version: success
-processing_time: 102.0130078
-conversion_datetime: 2025-12-18 10:29:21.9997
+processing_time: 100.3155565
+conversion_datetime: 2026-01-29 11:49:37.344314
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.64.1
-  docling-core: 2.55.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.11.0
+  docling-jobkit: 1.9.0
+  docling: 2.70.0
+  docling-core: 2.61.0
+  docling-ibm-models: 3.11.0
+  docling-parse: 4.7.3
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.1-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
 ---
 ## ANNEX I
 
@@ -621,14 +621,6 @@ Table 7: ACR responses in placebo-controlled trials (percent of patients)
 | 6 months   | 3.3%                | 23.8%                     | 1.8%               | 12.4%               | 2.5%                 | 20.8%                      |
 | 12 months  | NA                  | NA                        | NA                 | NA                  | 4.5%                 | 23.2%                      |
 
-a RA study I at 24 weeks, RA study II at 26 weeks, and RA study III at 24 and 52 weeks
-
-b  40 mg adalimumab administered every other week
-
-c  MTX = methotrexate
-
-**p &lt; 0.01, adalimumab versus placebo
-
 In RA studies I-IV, all individual components of the ACR response criteria (number of tender and swollen joints, physician and patient assessment of disease activity and pain, disability index (HAQ) scores and CRP (mg/dl) values) improved at 24 or 26 weeks compared to placebo. In RA study III, these improvements were maintained throughout 52 weeks.
 
 In the open-label extension for RA study III, most patients who were ACR responders-maintained response when followed for up to 10 years. Of 207 patients who were randomised to adalimumab 40 mg every other week, 114 patients continued on adalimumab 40 mg every other week for 5 years. Among those, 86 patients (75.4%) had ACR 20 responses; 72 patients (63.2%) had ACR 50 responses; and 41 patients (36%) had ACR 70 responses. Of 207 patients, 81 patients continued on adalimumab 40 mg every other week for 10 years. Among those, 64 patients (79.0%) had ACR 20 responses; 56 patients (69.1%) had ACR 50 responses: and 43 patients (53.1%) had ACR 70 responses.
@@ -740,10 +732,6 @@ Table 11: Ps study I (REVEAL) - efficacy results at 16 weeks
 | ≥ PASI 75 a        | 26 (6.5)              | 578 (70.9) b                       |
 | PASI 100           | 3 (0.8)               | 163 (20.0) b                       |
 | PGA: Clear/minimal | 17 (4.3)              | 506 (62.2) b                       |
-
-a Percent of patients achieving PASI75 response was calculated as centre- adjusted rate
-
-b p &lt; 0.001, adalimumab vs. placebo
 
 Table 12: Ps study II (CHAMPION) efficacy results at 16 weeks
 
@@ -1135,7 +1123,7 @@ In the absence of compatibility studies, this medicinal product must not be mixe
 
 ## 6.3 Shelf life
 
-3 years
+4 years
 
 ## 6.4 Special precautions for storage
 
@@ -1481,8 +1469,6 @@ Table 5: Hukyndra dose for paediatric patients with ulcerative colitis
 |------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------|
 | < 40 kg          | • 80 mg at Week 0 (given as two 40 mg injections in one day) and • 40 mg at Week 2 (given as one 40 mg injection)                                                                        | • 40 mg every other week               |
 | ≥ 40 kg          | • 160 mg at Week 0 (given as four 40 mg injections in one day or two 40 mg injections per day for two consecutive days) and • 80 mg at Week 2 (given as two 40 mg injections in one day) | • 80 mg every other week               |
-
-* Paediatric patients who turn 18 years of age while on Hukyndra should continue their prescribed maintenance dose.
 
 Continued therapy beyond 8 weeks should be carefully considered in patients not showing signs of response within this time period.
 
@@ -2023,14 +2009,6 @@ Table 10: Radiographic mean changes over 12 months in RA study III
 | Erosion score     |              1.6 |                                     0   | 1.6 (0.9, 2.2)                                             | < 0.001   |
 | JSN d score       |              1   |                                     0.1 | 0.9 (0.3, 1.4)                                             | 0.002     |
 
-a methotrexate
-
-b 95% confidence intervals for the differences in change scores between methotrexate and adalimumab
-
-c Based on rank analysis
-
-d Joint Space Narrowing
-
 In RA study V, structural joint damage was assessed radiographically and expressed as change in modified Total Sharp Score (see Table 11).
 
 Table 11: Radiographic mean changes at Week 52 in RA study V
@@ -2133,18 +2111,6 @@ Table 13: Efficacy response in placebo-controlled study nr-axSpA I
 | SPARCC h MRI Sacroiliac Joints d,i | -0.6           | -3.2**            |
 | SPARCC MRI Spine d,j               | -0.2           | -1.8**            |
 
-a Assessment of SpondyloArthritis international Society
-
-b Bath Ankylosing Spondylitis Disease Activity Index
-
-c Ankylosing Spondylitis Disease Activity Score
-
-d  mean change from baseline
-
-e  n=91 placebo and n=87 adalimumab
-
-f high sensitivity C-Reactive Protein (mg/L)
-
 <div style=\"page-break-after: always\"></div>
 
 g  n=73 placebo and n=70 adalimumab h Spondyloarthritis Research Consortium of Canada i  n=84 placebo and adalimumab j  n=82 placebo and n=85 adalimumab ***, **, * Statistically significant at p &lt; 0.001, &lt; 0.01, and &lt; 0.05, respectively, for all comparisons between adalimumab and placebo.
@@ -2188,16 +2154,6 @@ Table 14: Efficacy response in placebo-controlled period for study nr-axSpA II
 | ASAS a Partial Remission           | 26.8%           | 42.1%**            |
 | ASDAS c Inactive Disease           | 33.3%           | 57.2%***           |
 | Partial Flare d                    | 64.1%           | 40.8%***           |
-
-a Assessment of SpondyloArthritis international Society
-
-b Baseline is defined as open label baseline when patients have active disease.
-
-c Ankylosing Spondylitis Disease Activity Score
-
-d Partial flare is defined as ASDAS ≥ 1.3 but &lt; 2.1 at 2 consecutive visits.
-
-***, ** Statistically significant at p &lt; 0.001 and &lt; 0.01, respectively, for all comparisons between adalimumab and placebo.
 
 ## Psoriatic arthritis
 
@@ -2260,8 +2216,6 @@ Table 16: Ps study I (REVEAL) - Efficacy results at 16 weeks
 | PASI 100           | 3 (0.8)               | 163 (20.0) b                       |
 | PGA: Clear/minimal | 17 (4.3)              | 506 (62.2) b                       |
 
-a Percent of patients achieving PASI75 response was calculated as centre-adjusted rate b p &lt; 0.001, adalimumab vs. placebo
-
 Table 17: Ps study II (CHAMPION) - Efficacy results at 16 weeks
 
 |                    | Placebo N=53 n (%)   | MTX N=110 n (%)   | Adalimumab 40 mg eow N=108 n (%)   |
@@ -2269,14 +2223,6 @@ Table 17: Ps study II (CHAMPION) - Efficacy results at 16 weeks
 |  PASI 75          | 10 (18.9)            | 39 (35.5)         | 86 (79.6) a,b                      |
 | PASI 100           | 1 (1.9)              | 8 (7.3)           | 18 (16.7) c,d                      |
 | PGA: Clear/minimal | 6 (11.3)             | 33 (30.0)         | 79 (73.1) a,b                      |
-
-a  p &lt; 0.001 adalimumab vs. placebo
-
-b  p &lt; 0.001 adalimumab vs. methotrexate
-
-c p &lt; 0.01 adalimumab vs. placebo
-
-d p &lt; 0.05 adalimumab vs. methotrexate
 
 In Psoriasis Study I, 28% of patients who were PASI 75 responders and were re-randomised to placebo at Week 33 compared to 5% continuing on adalimumab, p &lt; 0.001, experienced 'loss of adequate response' (PASI score after Week 33 and on or before Week 52 that resulted in a &lt; PASI 50 response relative to baseline with a minimum of a 6-point increase in PASI score relative to Week 33). Of the patients who lost adequate response after re-randomisation to placebo who then enroled into the open-label extension trial, 38% (25/66) and 55% (36/66) regained PASI 75 response after 12 and 24 weeks of re-treatment, respectively.
 
@@ -2354,10 +2300,6 @@ Table 20:  Proportion of patients a  achieving HiSCR b  at Weeks 24 and 36 after
 | Week 24 | 24 (32.9%)                              | 36 (51.4%)                                 | 40 (57.1%)                       |
 | Week 36 | 22 (30.1%)                              | 28 (40.0%)                                 | 39 (55.7%)                       |
 
-a Patients with at least a partial response to adalimumab 40 mg weekly after 12 weeks of treatment.
-
-b Patients meeting protocol-specified criteria for loss of response or no improvement were required to discontinue from the studies and were counted as non-responders.
-
 Among patients who were at least partial responders at Week 12, and who received continuous weekly adalimumab therapy, the HiSCR rate at Week 48 was 68.3% and at Week 96 was 65.1%. Longer term treatment with adalimumab 40 mg weekly for 96 weeks identified no new safety findings.
 
 Among patients whose adalimumab treatment was withdrawn at Week 12 in Studies HS-I and HS-II, the HiSCR rate 12 weeks after re-introduction of adalimumab 40 mg weekly returned to levels similar to that observed before withdrawal (56.0 %).
@@ -2407,12 +2349,6 @@ Table 22: Maintenance of clinical remission and response (percent of patients)
 | Clinical remission                                 | 12%       | 36%*                                | 41%*                          |
 | Clinical response (CR-100)                         | 17%       | 41%*                                | 48%*                          |
 | Patients in steroid-free remission for ≥ 90 days a | 5% (3/66) | 29% (17/58)*                        | 20% (15/74)**                 |
-
-* p &lt; 0.001 for adalimumab versus placebo pairwise comparisons of proportions
-
-** p &lt; 0.02 for adalimumab versus placebo pairwise comparisons of proportions
-
-a Of those receiving corticosteroids at baseline
 
 Among patients who were not in response at Week 4, 43% of adalimumab maintenance patients responded by Week 12 compared to 30% of placebo maintenance patients. These results suggest that some patients who have not responded by Week 4 benefit from continued maintenance therapy through Week 12. Therapy continued beyond 12 weeks did not result in significantly more responses (see section 4.2).
 
@@ -2574,12 +2510,6 @@ Table 26: Ped ACR 30 responses in the JIA study
 | Disease flares at the end of 32 weeks a (n/N) | 36.8% (14/38)            | 64.9% (24/37) b      | 43.3% (13/30)       | 71.4% (20/28) c   |
 | Median time to disease flare                  | > 32 weeks               | 20 weeks             | > 32 weeks          | 14 weeks          |
 
-a Ped ACR 30/50/70 responses Week 48 significantly greater than those of placebo treated patients
-
-b p = 0.015
-
-c p = 0.031
-
 Amongst those who responded at Week 16 (n=144), the Paediatric ACR 30/50/70/90 responses were maintained for up to six years in the OLE phase in patients who received adalimumab throughout the study. Over all 19 subjects, of which 11 of the baseline age group 4 to 12 and 8 of the baseline age group 13 to 17 years were treated 6 years or longer.
 
 Overall responses were generally better and, fewer patients developed antibodies when treated with the combination of adalimumab and MTX compared to adalimumab alone. Taking these results into consideration, adalimumab is recommended for use in combination with MTX and for use as monotherapy in patients for whom MTX use is not appropriate (see section 4.2).
@@ -2731,12 +2661,6 @@ Table 32: Efficacy results at 52 weeks
 | Clinical remission in Week 8 PMS remitters               | 9/21 (42.9%)                             | 10/22 (45.5%)                           |
 | Corticosteroid-free remission in Week 8 PMS responders c | 4/13 (30.8%)                             | 5/16 (31.3%)                            |
 
-a  Adalimumab 0.6 mg/kg (maximum of 40 mg) every other week
-
-b  Adalimumab 0.6 mg/kg (maximum of 40 mg) every week
-
-c In patients receiving concomitant corticosteroids at baseline
-
 Note: Patients with missing values at Week 52 or who were randomised to receive re-induction or maintenance treatment were considered non-responders for Week 52 endpoints
 
 Additional exploratory efficacy endpoints included clinical response per the Paediatric Ulcerative Colitis Activity Index (PUCAI) (defined as a decrease in PUCAI ≥ 20 points from Baseline) and clinical remission per PUCAI (defined as PUCAI &lt; 10) at Week 8 and Week 52 (Table 33).
@@ -2754,8 +2678,6 @@ Table 33: Exploratory endpoints results per PUCAI
 |                                                       | Adalimumab d Maximum of 40 mg eow N=31                            | Adalimumab e Maximum of 40 mg ew N=31                      |
 | Clinical remission per PUCAI in Week 8 PMS responders | 14/31 (45.2%)                                                     | 18/31 (58.1%)                                              |
 | Clinical response per PUCAI in Week 8 PMS responders  | 18/31 (58.1%)                                                     | 16/31 (51.6%)                                              |
-
-a  Adalimumab 2.4 mg/kg (maximum of 160 mg) at Week 0, placebo at Week 1, and 1.2 mg/kg (maximum of 80 mg) at Week 2
 
 b  Adalimumab 2.4 mg/kg (maximum of 160 mg) at Week 0 and Week 1, and
 
@@ -2877,6 +2799,12 @@ In the absence of compatibility studies, this medicinal product must not be mixe
 
 ## 6.3 Shelf life
 
+Hukyndra 40 mg solution for injection in pre-filled syringe
+
+4 years
+
+Hukyndra 40 mg solution for injection in pre-filled pen
+
 3 years
 
 ## 6.4 Special precautions for storage
@@ -2885,6 +2813,8 @@ Store in a refrigerator (2 °C - 8 °C). Do not freeze. Keep the pre-filled syri
 
 A single pre-filled syringe or pre-filled pen may be stored at temperatures up to a maximum of 25 °C for a period of up to 30 days. The pre-filled syringe or pre-filled pen must be protected from light, and discarded if not used within the 30-day period.
 
+<div style=\"page-break-after: always\"></div>
+
 ## 6.5 Nature and contents of container
 
 Hukyndra 40 mg solution for injection in pre-filled syringe
@@ -2892,8 +2822,6 @@ Hukyndra 40 mg solution for injection in pre-filled syringe
 0.4 ml solution for injection in a pre-filled type I glass syringe with a fixed 29-gauge needle, extended finger flanges and needle guard, and a plunger stopper (bromobutyl rubber).
 
 Pack sizes: 1, 2 or 6 pre-filled syringe(s) packed in a PVC/PE blister, with 1, 2 or 6 alcohol pad(s).
-
-<div style=\"page-break-after: always\"></div>
 
 ## Hukyndra 40 mg solution for injection in pre-filled pen
 
@@ -2919,9 +2847,11 @@ EU/1/21/1589/002
 
 EU/1/21/1589/003
 
-Hukyndra 40 mg solution for injection in pre-filled pen
+## Hukyndra 40 mg solution for injection in pre-filled pen
 
-EU/1/21/1589/004 EU/1/21/1589/005
+EU/1/21/1589/004
+
+EU/1/21/1589/005
 
 EU/1/21/1589/006
 
@@ -3148,8 +3078,6 @@ Table 2: Hukyndra dose for paediatric patients with ulcerative colitis
 |------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------|
 | < 40 kg          | • 80 mg at Week 0 (given as one 80 mg injection) and • 40 mg at Week 2 (given as one 40 mg injection)                                                                      | • 40 mg every other week               |
 | ≥ 40 kg          | • 160 mg at Week 0 (given as two 80 mg injections in one day or one 80 mg injection per day for two consecutive days) and • 80 mg at Week 2 (given as one 80 mg injection) | • 80 mg every other week               |
-
-* Paediatric patients who turn 18 years of age while on Hukyndra should continue their prescribed maintenance dose.
 
 Continued therapy beyond 8 weeks should be carefully considered in patients not showing signs of response within this time period.
 
@@ -4101,12 +4029,6 @@ Table 21: Clinical remission per PMS at 8 weeks
 |--------------------|---------------------------------------------------------------------|---------------------------------------------------------------|
 | Clinical remission | 13/30 (43.3%)                                                       | 28/47 (59.6%)                                                 |
 
-a  Adalimumab 2.4 mg/kg (maximum of 160 mg) at Week 0, placebo at Week 1, and 1.2 mg/kg (maximum of 80 mg) at Week 2
-
-b  Adalimumab 2.4 mg/kg (maximum of 160 mg) at Week 0 and Week 1, and 1.2 mg/kg (maximum of 80 mg) at Week 2
-
-c  Not including open-label Induction dose of Adalimumab 2.4 mg/kg (maximum of 160 mg) at Week 0 and Week 1, and 1.2 mg/kg (maximum of 80 mg) at Week 2
-
 Note 1: Both induction groups received 0.6 mg/kg (maximum of 40 mg) at Week 4 and Week 6 Note 2: Patients with missing values at Week 8 were considered as not having met the endpoint
 
 At Week 52, clinical remission per FMS in Week 8 responders, clinical response per FMS (defined as a decrease in Mayo Score ≥ 3 points and ≥ 30% from Baseline) in Week 8 responders, mucosal healing (defined as Mayo endoscopy subscore ≤ 1) in Week 8 responders, clinical remission per FMS in Week 8 remitters, and the proportion of subjects in corticosteroid-free remission per FMS in Week 8 responders were assessed in patients who received adalimumab at the double-blind maximum 40 mg eow (0.6 mg/kg) and maximum 40 mg ew (0.6 mg/kg) maintenance doses (Table 22).
@@ -4123,14 +4045,6 @@ Table 22: Efficacy r esults at 52 w eeks
 | Clinical remission in Week 8 PMS remitters               | 9/21 (42.9%)                             | 10/22 (45.5%)                           |
 | Corticosteroid-free remission in Week 8 PMS responders c | 4/13 (30.8%)                             | 5/16 (31.3%)                            |
 
-a  Adalimumab 0.6 mg/kg (maximum of 40 mg) every other week
-
-b  Adalimumab 0.6 mg/kg (maximum of 40 mg) every week
-
-c In patients receiving concomitant corticosteroids at baseline
-
-Note: Patients with missing values at Week 52 or who were randomised to receive
-
 re-induction or maintenance treatment were considered non-responders for Week 52 endpoints
 
 Additional exploratory efficacy endpoints included clinical response per the Paediatric Ulcerative Colitis Activity Index (PUCAI) (defined as a decrease in PUCAI ≥ 20 points from Baseline) and clinical remission per PUCAI (defined as PUCAI &lt; 10) at Week 8 and Week 52 (Table 23).
@@ -4146,12 +4060,6 @@ Table 23: Exploratory endpoints results per PUCAI
 |                                                       | Adalimumab d Maximum of 40 mg eow N=31                            | Adalimumab e Maximum of 40 mg ew N=31                      |
 | Clinical remission per PUCAI in Week 8 PMS responders | 14/31 (45.2%)                                                     | 18/31 (58.1%)                                              |
 | Clinical response per PUCAI in Week 8 PMS responders  | 18/31 (58.1%)                                                     | 16/31 (51.6%)                                              |
-
-a  Adalimumab 2.4 mg/kg (maximum of 160 mg) at Week 0, placebo at Week 1, and 1.2 mg/kg (maximum of 80 mg) at Week 2
-
-b  Adalimumab 2.4 mg/kg (maximum of 160 mg) at Week 0 and Week 1, and 1.2 mg/kg (maximum of 80 mg) at Week 2
-
-c  Not including open-label Induction dose of Adalimumab 2.4 mg/kg (maximum of 160 mg) at Week 0 and Week 1, and 1.2 mg/kg (maximum of 80 mg) at Week 2
 
 - d  Adalimumab 0.6 mg/kg (maximum of 40 mg) every other week
 
@@ -4259,6 +4167,12 @@ In the absence of compatibility studies, this medicinal product must not be mixe
 
 ## 6.3 Shelf life
 
+Hukyndra 80 mg solution for injection in pre-filled syringe
+
+4 years
+
+Hukyndra 80 mg solution for injection in pre-filled pen
+
 3 years
 
 ## 6.4 Special precautions for storage
@@ -4269,13 +4183,13 @@ A single pre-filled syringe or pre-filled pen may be stored at temperatures up t
 
 ## 6.5 Nature and contents of container
 
-## Hukyndra 80 mg solution for injection in pre-filled syringe
+Hukyndra 80 mg solution for injection in pre-filled syringe
 
 0.8 ml solution for injection in a pre-filled type I glass syringe with a fixed 29-gauge needle, extended finger flanges and needle guard, and a plunger stopper (bromobutyl rubber).
 
 Pack sizes: 1 pre-filled syringe packed in a PVC/PE blister, with 1 alcohol pad.
 
-## Hukyndra 80 mg solution for injection in pre-filled pen
+Hukyndra 80 mg solution for injection in pre-filled pen
 
 0.8 ml solution for injection in pre-filled needle-based injection system (autoinjector) containing a prefilled type I glass syringe with a fixed 29-gauge needle and a plunger stopper (bromobutyl rubber). The pen is a single use, disposable, handheld, mechanical injection device.
 
@@ -4295,11 +4209,11 @@ Hukyndra 80 mg solution for injection in pre-filled syringe EU/1/21/1589/007
 
 Hukyndra 80 mg solution for injection in pre-filled pen EU/1/21/1589/008 EU/1/21/1589/009
 
+<div style=\"page-break-after: always\"></div>
+
 ## 9. DATE OF FIRST AUTHORISATION/RENEWAL OF THE AUTHORISATION
 
 Date of first authorisation: 15 November 2021
-
-<div style=\"page-break-after: always\"></div>
 
 ## 10. DATE OF REVISION OF THE TEXT
 
@@ -4965,8 +4879,6 @@ SN
 
 NN
 
-<div style=\"page-break-after: always\"></div>
-
 ## MINIMUM PARTICULARS TO APPEAR ON BLISTERS
 
 ## BLISTER TEXT
@@ -4988,6 +4900,8 @@ EXP
 Lot
 
 ## 5. OTHER
+
+<div style=\"page-break-after: always\"></div>
 
 For storage information, see leaflet.
 
@@ -5717,9 +5631,7 @@ EG (Eurogenerics) NV Tél/Tel: +32 24797878
 
 STADA Bulgaria EOOD Teл.: +359 29624626
 
-Česká republika STADA PHARMA CZ s.r.o.
-
-Tel: +420 257888111
+Česká republika STADA PHARMA CZ s.r.o. Tel: +420 257888111
 
 ## Danmark
 
@@ -5731,7 +5643,7 @@ STADAPHARM GmbH Tel: +49 61016030
 
 ## Eesti
 
-UAB 'STADA Baltics' Tel: +370 52603926
+UAB 'STADA Baltics' Tel: +372 53072153
 
 ## Ελλάδα
 
@@ -5775,7 +5687,7 @@ STADA Arzneimittel GmbH Tel: +43 136785850
 
 ## Polska
 
-STADA Pharm Sp. z.o o. Tel: +48 227377920
+STADA Pharm Sp. z o.o. Tel: +48 227377920
 
 ## Portugal
 
@@ -5783,15 +5695,13 @@ Stada, Lda.
 
 Tel: +351 211209870
 
-<div style=\"page-break-after: always\"></div>
-
 ## Hrvatska
-
-## România
 
 STADA d.o.o.
 
 Tel: +385 13764111
+
+## România
 
 STADA M&amp;D SRL
 
@@ -5849,7 +5759,9 @@ Tel: +45 44859999
 
 UAB 'STADA Baltics'
 
-Tel: +370 52603926
+Tel: +371 28016404
+
+<div style=\"page-break-after: always\"></div>
 
 ## This leaflet was last revised in
 
@@ -6722,7 +6634,7 @@ Tel: +49 61016030
 
 UAB 'STADA Baltics'
 
-Tel: +370 52603926
+Tel: +372 53072153
 
 ## Ελλάδα
 
@@ -6776,7 +6688,7 @@ STADA Arzneimittel AG
 
 UAB 'STADA Baltics'
 
-Tel: +370 52603926
+Tel: +371 28016404
 
 ## This leaflet was last revised in
 
@@ -6810,7 +6722,7 @@ Tel: +43 136785850
 
 ## Polska
 
-STADA Pharm Sp. z.o o.
+STADA Pharm Sp. z o.o.
 
 Tel: +48 227377920
 
@@ -7708,7 +7620,7 @@ Tel: +49 61016030
 
 UAB 'STADA Baltics'
 
-Tel: +370 52603926
+Tel: +372 53072153
 
 ## Ελλάδα
 
@@ -7762,7 +7674,7 @@ STADA Arzneimittel AG
 
 UAB 'STADA Baltics'
 
-Tel: +370 52603926
+Tel: +371 28016404
 
 ## This leaflet was last revised in
 
@@ -7796,7 +7708,7 @@ Tel: +43 136785850
 
 ## Polska
 
-STADA Pharm Sp. z.o o.
+STADA Pharm Sp. z o.o.
 
 Tel: +48 227377920
 
@@ -8626,7 +8538,7 @@ STADAPHARM GmbH Tel: +49 61016030
 
 ## Eesti
 
-UAB 'STADA Baltics' Tel: +370 52603926
+UAB 'STADA Baltics' Tel: +372 53072153
 
 ## Ελλάδα
 
@@ -8676,7 +8588,7 @@ STADA Arzneimittel GmbH Tel: +43 136785850
 
 ## Polska
 
-STADA Pharm Sp. z.o o. Tel: +48 227377920
+STADA Pharm Sp. z o.o. Tel: +48 227377920
 
 ## Portugal
 
@@ -8742,7 +8654,7 @@ UAB 'STADA Baltics'
 
 UAB 'STADA Baltics'
 
-Tel: +370 52603926
+Tel: +371 28016404
 
 ## This leaflet was last revised in
 
@@ -9515,65 +9427,67 @@ For any information about this medicine, please contact the local representative
 
 EG (Eurogenerics) NV Tél/Tel: +32 24797878
 
-## България
-
-STADA Bulgaria EOOD Teл.: +359 29624626
-
-## Česká republika
-
-STADA PHARMA CZ s.r.o. Tel: +420 257888111
-
-## Danmark
-
-STADA Nordic ApS Tlf: +45 44859999
-
-## Deutschland
-
-STADAPHARM GmbH Tel: +49 61016030
-
-## Eesti
-
-UAB 'STADA Baltics' Tel: +370 52603926
-
-## Ελλάδα
-
-RAFARM A.E.B.E. Τηλ: +30 2106776550
-
-## España
-
-Laboratorio STADA, S.L. Tel: +34 934738889
-
 ## Lietuva
 
 UAB 'STADA Baltics' Tel: +370 52603926
+
+## България
+
+STADA Bulgaria EOOD Teл.: +359 29624626
 
 ## Luxembourg/Luxemburg
 
 EG (Eurogenerics) NV Tél/Tel: +32 24797878
 
+## Česká republika
+
+STADA PHARMA CZ s.r.o. Tel: +420 257888111
+
 ## Magyarország
 
 STADA Hungary Kft Tel.: +36 18009747
+
+## Danmark
+
+STADA Nordic ApS Tlf: +45 44859999
 
 ## Malta
 
 Pharma.MT Ltd Tel: +356 21337008
 
+## Deutschland
+
+STADAPHARM GmbH Tel: +49 61016030
+
 ## Nederland
 
 Centrafarm B.V. Tel.: +31 765081000
+
+## Eesti
+
+UAB 'STADA Baltics' Tel: +372 53072153
 
 ## Norge
 
 STADA Nordic ApS Tlf: +45 44859999
 
+## Ελλάδα
+
+RAFARM A.E.B.E. Τηλ: +30 2106776550
+
 ## Österreich
 
 STADA Arzneimittel GmbH Tel: +43 136785850
 
+## España
+
+Laboratorio STADA, S.L.
+
+Tel: +34 934738889
+
 ## Polska
 
-STADA Pharm Sp. z.o o. Tel: +48 227377920
+STADA Pharm Sp. z o.o. Tel: +48 227377920
 
 ## France
 
@@ -9631,7 +9545,9 @@ Tel: +39 028310371
 
 ## Suomi/Finland
 
-STADA Nordic ApS, Suomen sivuliike Puh/Tel: +358 207416888
+STADA Nordic ApS, Suomen sivuliike
+
+Puh/Tel: +358 207416888
 
 ## Κύπρος
 
@@ -9653,7 +9569,7 @@ UAB 'STADA Baltics'
 
 UAB 'STADA Baltics'
 
-Tel: +370 52603926
+Tel: +371 28016404
 
 ## This leaflet was last revised in
 

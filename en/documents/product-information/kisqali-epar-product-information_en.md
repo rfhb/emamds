@@ -1,20 +1,20 @@
 ---
-document_datetime: 2025-11-12 16:33:23
+document_datetime: 2026-01-26 10:33:34
 document_pages: 62
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/kisqali-epar-product-information_en.pdf
 document_name: kisqali-epar-product-information_en.pdf
 version: success
-processing_time: 29.1134255
-conversion_datetime: 2025-12-17 08:45:03.423402
+processing_time: 27.7964021
+conversion_datetime: 2026-01-29 11:43:47.055162
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.64.1
-  docling-core: 2.55.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.11.0
+  docling-jobkit: 1.9.0
+  docling: 2.70.0
+  docling-core: 2.61.0
+  docling-ibm-models: 3.11.0
+  docling-parse: 4.7.3
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.1-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
 ---
 ## ANNEX I
 
@@ -114,10 +114,15 @@ Complete blood counts (CBC) should be performed before initiating treatment with
 
 Table 2 Dose modification and management -Neutropenia
 
-|                                                                                                                                                                                                                              | Grade 1 or 2* (ANC 1 000/mm 3 - ≤ LLN)                                                                                                                                                                                       | Grade 3* (ANC 500 - <1 000/mm 3 )                                                                                                                                                                                            | Grade 3* febrile neutropenia**                                                                                                                                                                                               | Grade 4* (ANC <500/mm 3 )                                                                                                                                                                                                    |
-|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Neutropenia                                                                                                                                                                                                                  | No dose adjustment is required                                                                                                                                                                                               | Dose interruption until recovery to grade ≤2. Resume Kisqali at the same dose level. If toxicity recurs at grade 3: dose interruption until recovery to grade ≤2 , then resume Kisqali and reduce by 1 dose level.           | Dose interruption until recovery to grade ≤2. Resume Kisqali and reduce by 1 dose level                                                                                                                                      | Dose interruption until recovery to grade ≤2. Resume Kisqali and reduce by 1 dose level.                                                                                                                                     |
-| * Grading according to CTCAE Version 4.03 (CTCAE = Common Terminology Criteria for Adverse Events) ** Grade 3 neutropenia with a single fever >38.3°C (or 38°C and above for more than one hour and/or concurrent infection) | * Grading according to CTCAE Version 4.03 (CTCAE = Common Terminology Criteria for Adverse Events) ** Grade 3 neutropenia with a single fever >38.3°C (or 38°C and above for more than one hour and/or concurrent infection) | * Grading according to CTCAE Version 4.03 (CTCAE = Common Terminology Criteria for Adverse Events) ** Grade 3 neutropenia with a single fever >38.3°C (or 38°C and above for more than one hour and/or concurrent infection) | * Grading according to CTCAE Version 4.03 (CTCAE = Common Terminology Criteria for Adverse Events) ** Grade 3 neutropenia with a single fever >38.3°C (or 38°C and above for more than one hour and/or concurrent infection) | * Grading according to CTCAE Version 4.03 (CTCAE = Common Terminology Criteria for Adverse Events) ** Grade 3 neutropenia with a single fever >38.3°C (or 38°C and above for more than one hour and/or concurrent infection) |
+|             | Grade 1 or 2* (ANC 1 000/mm 3 - ≤ LLN)   | Grade 3* (ANC 500 - <1 000/mm 3 )                                                                                                                                                                                  | Grade 3* febrile neutropenia**                                                          | Grade 4* (ANC <500/mm 3 )                                                                |
+|-------------|------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------|
+| Neutropenia | No dose adjustment is required           | Dose interruption until recovery to grade ≤2. Resume Kisqali at the same dose level. If toxicity recurs at grade 3: dose interruption until recovery to grade ≤2 , then resume Kisqali and reduce by 1 dose level. | Dose interruption until recovery to grade ≤2. Resume Kisqali and reduce by 1 dose level | Dose interruption until recovery to grade ≤2. Resume Kisqali and reduce by 1 dose level. |
+
+* Grading according to CTCAE Version 4.03 (CTCAE = Common Terminology Criteria for Adverse Events)
+
+** Grade 3 neutropenia with a single fever &gt;38.3°C (or 38°C and above for more than one hour and/or concurrent infection)
+
+ANC = absolute neutrophil count; LLN = lower limit of normal
 
 Liver function tests (LFTs) should be performed before initiating treatment with Kisqali. After initiating treatment LFTs should be performed every 2 weeks for the first 2 cycles, at the beginning of each of the subsequent 4 cycles, then as clinically indicated. If grade ≥2 abnormalities are noted, more frequent monitoring is recommended.
 
@@ -153,18 +158,19 @@ Table 4 Dose modification and management -QT prolongation
 
 Table 5 Dose modification and management -ILD/pneumonitis
 
-|                                                                                                                                                                                                         | Grade 1* ( asymptomatic)                                                                                                                                                                                | Grade 2* (symptomatic)                                                                                                                                                                                  | Grade 3 or 4* (severe)                                                                                                                                                                                  |
-|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| ILD/pneumonitis                                                                                                                                                                                         | No dose adjustment is required. Initiate appropriate medical therapy and monitor as clinically indicated.                                                                                               | Dose interruption until recovery to grade ≤1, then resume Kisqali at the next lower dose level* * .                                                                                                     | Discontinue Kisqali.                                                                                                                                                                                    |
-| * Grading according to CTCAE Version 4.03 (CTCAE = Common Terminology Criteria for Adverse Events) * * An individualised benefit-risk assessment should be performed when considering resuming Kisqali. | * Grading according to CTCAE Version 4.03 (CTCAE = Common Terminology Criteria for Adverse Events) * * An individualised benefit-risk assessment should be performed when considering resuming Kisqali. | * Grading according to CTCAE Version 4.03 (CTCAE = Common Terminology Criteria for Adverse Events) * * An individualised benefit-risk assessment should be performed when considering resuming Kisqali. | * Grading according to CTCAE Version 4.03 (CTCAE = Common Terminology Criteria for Adverse Events) * * An individualised benefit-risk assessment should be performed when considering resuming Kisqali. |
+|                 | Grade 1* ( asymptomatic)                                                                                  | Grade 2* (symptomatic)                                                                              | Grade 3 or 4* (severe)   |
+|-----------------|-----------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------|--------------------------|
+| ILD/pneumonitis | No dose adjustment is required. Initiate appropriate medical therapy and monitor as clinically indicated. | Dose interruption until recovery to grade ≤1, then resume Kisqali at the next lower dose level* * . | Discontinue Kisqali.     |
+
+* Grading according to CTCAE Version 4.03 (CTCAE = Common Terminology Criteria for Adverse Events)
+
+* * An individualised benefit-risk assessment should be performed when considering resuming Kisqali. ILD = interstitial lung disease
 
 Table 6 Dose modification and management -Other toxicities*
 
 | Other toxicities   | Grade 1 or 2**                                                                                            | Grade 3**                                                                                                                                                 | Grade 4**            |
 |--------------------|-----------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------|
 |                    | No dose adjustment is required. Initiate appropriate medical therapy and monitor as clinically indicated. | Dose interruption until recovery to grade ≤1, then resume Kisqali at the same dose level. If grade 3 recurs, resume Kisqali at the next lower dose level. | Discontinue Kisqali. |
-
-* Excluding neutropenia, hepatotoxicity, QT interval prolongation and ILD/pneumonitis.
 
 ** Grading according to CTCAE Version 4.03 (CTCAE = Common Terminology Criteria for Adverse Events)
 
@@ -182,13 +188,13 @@ In patients who have had their dose reduced to 200 mg ribociclib daily and in wh
 
 Due to inter-patient variability, the recommended dose adjustments may not be optimal in all patients, therefore close monitoring of signs of toxicity is recommended. If the strong inhibitor is discontinued, the Kisqali dose should be changed to the dose used prior to the initiation of the strong CYP3A4 inhibitor after at least 5 half-lives of the strong CYP3A4 inhibitor (see sections 4.4, 4.5 and 5.2).
 
-<div style=\"page-break-after: always\"></div>
-
 ## Special populations
 
 ## Renal impairment
 
 No dose adjustment is necessary in patients with mild or moderate renal impairment. A starting dose of 200 mg is recommended in patients with severe renal impairment. Kisqali has not been studied in breast cancer patients with severe renal impairment (see sections 4.4, 5.1 and 5.2).
+
+<div style=\"page-break-after: always\"></div>
 
 ## Hepatic impairment
 
@@ -226,14 +232,15 @@ Liver function tests should be performed before initiating treatment with Kisqal
 
 Based on the severity of the transaminase elevations, treatment with Kisqali may have to be interrupted, reduced or discontinued as described in Table 3 (see sections 4.2 and 4.8). Recommendations for patients who have elevated AST/ALT grade ≥ 3 at baseline have not been established.
 
-<div style=\"page-break-after: always\"></div>
-
 ## QT interval prolongation
 
 The use of Kisqali should be avoided in patients who already have or who are at significant risk of developing QTc prolongation. This includes patients:
 
 - with long QT syndrome;
 - with uncontrolled or significant cardiac disease, including recent myocardial infarction, congestive heart failure, unstable angina and bradyarrhythmias;
+
+<div style=\"page-break-after: always\"></div>
+
 - with electrolyte abnormalities.
 
 The use of Kisqali with medicinal products known to prolong QTc interval and/or strong CYP3A4 inhibitors should be avoided as this may lead to clinically meaningful prolongation of the QTcF interval (see sections 4.2, 4.5 and 5.1). If co-administration of Kisqali with a strong CYP3A4 inhibitor cannot be avoided, the Kisqali dose should be changed as described in section 4.2.
@@ -264,13 +271,13 @@ Based on the observed QT prolongation during treatment, treatment with Kisqali m
 
 Toxic epidermal necrolysis (TEN) has been reported with Kisqali treatment. If signs and symptoms suggestive of severe cutaneous reactions (e.g. progressive widespread skin rash often with blisters or mucosal lesions) appear, Kisqali should be discontinued immediately.
 
-<div style=\"page-break-after: always\"></div>
-
 ## Interstitial lung disease/pneumonitis
 
 Interstitial lung disease (ILD)/pneumonitis has been reported with Kisqali. Patients should be monitored for pulmonary symptoms indicative of ILD/pneumonitis which may include hypoxia, cough and dyspnoea and dose modifications should be managed in accordance with Table 5 (see section 4.2).
 
 Based on the severity of the ILD/pneumonitis, which may be fatal, Kisqali may require dose interruption, reduction or discontinuation as described in Table 5 (see section 4.2).
+
+<div style=\"page-break-after: always\"></div>
 
 ## Blood creatinine increase
 
@@ -298,9 +305,9 @@ Kisqali contains soya lecithin. Patients who are hypersensitive to peanut or soy
 
 Ribociclib is primarily metabolised by CYP3A4. Therefore, medicinal products that can influence CYP3A4 enzyme activity may alter the pharmacokinetics of ribociclib. Co-administration of the strong CYP3A4 inhibitor ritonavir (100 mg twice daily for 14 days) with a single 400 mg dose of ribociclib increased ribociclib exposure (AUCinf) and the peak concentration (Cmax) in healthy subjects 3.2- and 1.7-fold, respectively, relative to a single 400 mg ribociclib dose given alone. Cmax and AUClast for LEQ803 (a prominent metabolite of ribociclib accounting for less than 10% of parent exposure) decreased by 96% and 98%, respectively. Physiologically-based pharmacokinetic (PBPK) simulations with co-administered ritonavir (100 mg twice daily) estimated that the steady-state Cmax and AUC0-24h of ribociclib (400 mg once daily) increased by 1.5- and 1.8-fold, respectively.
 
-<div style=\"page-break-after: always\"></div>
-
 The concomitant use of strong CYP3A4 inhibitors including, but not limited to, the following must be avoided: clarithromycin, indinavir, itraconazole, ketoconazole, lopinavir, ritonavir, nefazodone, nelfinavir, posaconazole, saquinavir, telaprevir, telithromycin, verapamil and voriconazole (see section 4.4). Alternative concomitant medicinal products with less potential to inhibit CYP3A4 should be considered and patients should be monitored for ribociclib-related ARs (see sections 4.2, 4.4 and 5.2).
+
+<div style=\"page-break-after: always\"></div>
 
 If co-administration of Kisqali with a strong CYP3A4 inhibitor cannot be avoided, the dose of Kisqali should be changed as described in section 4.2. However, there are no clinical data with these dose adjustments. Due to inter-patient variability, the recommended dose adjustments may not be optimal in all patients, therefore close monitoring for ribociclib-related ARs is recommended. In the event of ribociclib-related toxicity, the dose should be modified or treatment should be interrupted until toxicity is resolved (see sections 4.2 and 5.2). If the strong CYP3A4 inhibitor is discontinued, and after at least 5 half-lives of the CYP3A4 inhibitor (refer to the SmPC of the CYP3A4 inhibitor in question), Kisqali should be resumed at the same dose used prior to the initiation of the strong CYP3A4 inhibitor.
 
@@ -318,11 +325,9 @@ The effect of a moderate CYP3A4 inducer on ribociclib exposure has not been stud
 
 Ribociclib is a moderate to strong CYP3A4 inhibitor and may interact with medicinal substrates that are metabolised via CYP3A4, which can lead to increased serum concentrations of the concomitantly used medicinal product.
 
-Co-administration of midazolam (CYP3A4 substrate) with multiple doses of Kisqali (400 mg) increased the midazolam exposure by 280% (3.80-fold) in healthy subjects, compared with administration of midazolam alone. PBPK simulations suggested that Kisqali given at the dose of 600 mg is expected to increase the midazolam AUC by 5.2-fold. Therefore, in general, when ribociclib is co-administered with other medicinal products, the SmPC of the other medicinal product must be
+Co-administration of midazolam (CYP3A4 substrate) with multiple doses of Kisqali (400 mg) increased the midazolam exposure by 280% (3.80-fold) in healthy subjects, compared with administration of midazolam alone. PBPK simulations suggested that Kisqali given at the dose of 600 mg is expected to increase the midazolam AUC by 5.2-fold. Therefore, in general, when ribociclib is co-administered with other medicinal products, the SmPC of the other medicinal product must be consulted for the recommendations regarding co-administration with CYP3A4 inhibitors. Caution is recommended in case of concomitant use with sensitive CYP3A4 substrates with a narrow therapeutic index (see section 4.4). The dose of a sensitive CYP3A4 substrate with a narrow therapeutic index, including but not limited to alfentanil, ciclosporin, everolimus, fentanyl, sirolimus and tacrolimus, may need to be reduced as ribociclib can increase their exposure.
 
 <div style=\"page-break-after: always\"></div>
-
-consulted for the recommendations regarding co-administration with CYP3A4 inhibitors. Caution is recommended in case of concomitant use with sensitive CYP3A4 substrates with a narrow therapeutic index (see section 4.4). The dose of a sensitive CYP3A4 substrate with a narrow therapeutic index, including but not limited to alfentanil, ciclosporin, everolimus, fentanyl, sirolimus and tacrolimus, may need to be reduced as ribociclib can increase their exposure.
 
 Concomitant administration of ribociclib with the following CYP3A4 substrates should be avoided: alfuzosin, amiodarone, cisapride, pimozide, quinidine, ergotamine, dihydroergotamine, quetiapine, lovastatin, simvastatin, sildenafil, midazolam, triazolam.
 
@@ -356,15 +361,17 @@ Data from a clinical study in patients with breast cancer indicated no clinicall
 
 Data from a clinical study in patients with breast cancer indicated that tamoxifen exposure was increased approximately 2-fold following co-administration of ribociclib and tamoxifen.
 
-<div style=\"page-break-after: always\"></div>
-
 ## Drug-drug interactions between ribociclib and oral contraceptives
 
 Drug-drug interaction studies between ribociclib and oral contraceptives have not been conducted (see section 4.6).
 
+<div style=\"page-break-after: always\"></div>
+
 ## Anticipated interactions
 
-Anti-arrhythmic medicinal products and other medicinal products that may prolong the QT interval Co-administration of Kisqali with medicinal products with a known potential to prolong the QT interval such as anti-arrhythmic medicinal products (including, but not limited to, amiodarone, disopyramide, procainamide, quinidine and sotalol), and other medicinal products that are known to prolong the QT interval (including, but not limited to, chloroquine, halofantrine, clarithromycin, ciprofloxacin, levofloxacin, azithromycin, haloperidol, methadone, moxifloxacin, bepridil, pimozide and intravenous ondansetron) should be avoided (see section 4.4). Kisqali is also not recommended to be used in combination with tamoxifen (see sections 4.1, 4.4 and 5.1).
+## Anti-arrhythmic medicinal products and other medicinal products that may prolong the QT interval
+
+Co-administration of Kisqali with medicinal products with a known potential to prolong the QT interval such as anti-arrhythmic medicinal products (including, but not limited to, amiodarone, disopyramide, procainamide, quinidine and sotalol), and other medicinal products that are known to prolong the QT interval (including, but not limited to, chloroquine, halofantrine, clarithromycin, ciprofloxacin, levofloxacin, azithromycin, haloperidol, methadone, moxifloxacin, bepridil, pimozide and intravenous ondansetron) should be avoided (see section 4.4). Kisqali is also not recommended to be used in combination with tamoxifen (see sections 4.1, 4.4 and 5.1).
 
 ## 4.6 Fertility, pregnancy and lactation
 
@@ -390,8 +397,6 @@ There are no clinical data available regarding effects of ribociclib on fertilit
 
 Kisqali may have minor influence on the ability to drive and use machines. Patients should be advised to be cautious when driving or using machines in case they experience fatigue, dizziness or vertigo during treatment with Kisqali (see section 4.8).
 
-<div style=\"page-break-after: always\"></div>
-
 ## 4.8 Undesirable effects
 
 ## Summary of the safety profile
@@ -401,6 +406,8 @@ Kisqali may have minor influence on the ability to drive and use machines. Patie
 The most common adverse drug reactions (ADRs) (reported at a frequency ≥20%) in the dataset for which the frequency for Kisqali plus aromatase inhibitor (AI) exceeds the frequency for AI alone were neutropenia, infections, nausea, headache, fatigue, leukopenia and abnormal liver function tests.
 
 The most common grade 3/4 ADRs (reported at a frequency of ≥ 2%) in the dataset for which the frequency for Kisqali plus AI exceeds the frequency for AI alone were neutropenia, abnormal liver function tests and leukopenia.
+
+<div style=\"page-break-after: always\"></div>
 
 Dose reduction due to adverse events, regardless of causality, occurred in 22.8% of patients receiving Kisqali plus AI in the phase III clinical study. Permanent discontinuation was reported in 19.7% of patients receiving Kisqali plus AI in the phase III clinical study.
 
@@ -426,60 +433,59 @@ The overall safety evaluation of Kisqali is based on the pooled dataset from 1 0
 
 The median duration of exposure to study treatment across the pooled phase III studies dataset was 19.2 months, with 61.7% patients exposed ≥12 months.
 
-<div style=\"page-break-after: always\"></div>
+ADRs from the phase III clinical studies and post-marketing experience (Table 7) in patients with early breast cancer and advanced or metastatic breast cancer are listed by MedDRA system organ class. Within each system organ class, the adverse reactions are ranked by frequency, with the most frequent reactions first. Within each frequency grouping, adverse reactions are presented in order of decreasing seriousness. In addition, the corresponding frequency category for each adverse reaction is based on the following convention (CIOMS III): very common (≥1/10); common (≥1/100 to &lt;1/10); u ncommon (≥1/1 000 to &lt;1/100); rare (≥1/10 000 to &lt;1/1 000); very rare (&lt;1/10 000); and not known (cannot be estimated from the available data).
 
-ADRs from the phase III clinical studies (Table 7) in patients with early breast cancer and advanced or metastatic breast cancer are listed by MedDRA system organ class. Within each system organ class, the adverse reactions are ranked by frequency, with the most frequent reactions first. Within each frequency grouping, adverse reactions are presented in order of decreasing seriousness. In addition, the corresponding frequency category for each adverse reaction is based on the following convention (CIOMS III): very common (≥1/10); common (≥1/100 to &lt;1/10); uncommon (≥1/1 000 to &lt;1/100); rare (≥1/10 000 to &lt;1/1 000); very rare (&lt;1/10 000); and not known (cannot be estimated from the available data).
+<div style=\"page-break-after: always\"></div>
 
 Table 7 Adverse drug reactions reported in the phase III clinical studies and during post -marketing experience
 
-| Frequency                                       | Patients with early breast cancer with starting dose 400 mg ribociclib   | Patients with advanced or metastatic breast cancer with starting dose 600 mg ribociclib   |
-|-------------------------------------------------|--------------------------------------------------------------------------|-------------------------------------------------------------------------------------------|
-| Infections and infestations                     | Infections and infestations                                              |                                                                                           |
-| Very common                                     | Infections 1                                                             | Infections 1                                                                              |
-| Blood and lymphatic system disorders            | Blood and lymphatic system disorders                                     |                                                                                           |
-| Very common                                     | Neutropenia, leukopenia                                                  | Neutropenia, leukopenia, anaemia, lymphopenia                                             |
-| Common                                          | Anaemia, thrombocytopenia, lymphopenia                                   | Thrombocytopenia, febrile neutropenia                                                     |
-| Uncommon                                        | Febrile neutropenia                                                      | -                                                                                         |
-| Metabolism and nutrition disorders              | Metabolism and nutrition disorders                                       |                                                                                           |
-| Very common                                     | -                                                                        | Appetite decreased                                                                        |
-| Common                                          | Hypocalcaemia, hypokalaemia, appetite decreased                          | Hypocalcaemia, hypokalaemia, hypophosphataemia                                            |
-| Nervous system disorders                        | Nervous system disorders                                                 |                                                                                           |
-| Very common                                     | Headache                                                                 | Headache, dizziness                                                                       |
-| Common                                          | Dizziness                                                                | Vertigo                                                                                   |
-| Eye disorders                                   | Eye disorders                                                            |                                                                                           |
-| Common                                          | -                                                                        | Lacrimation increased, dry eye                                                            |
-| Cardiac disorders                               | Cardiac disorders                                                        |                                                                                           |
-| Common                                          | -                                                                        | Syncope                                                                                   |
-| Respiratory, thoracic and mediastinal disorders | Respiratory, thoracic and mediastinal disorders                          | Respiratory, thoracic and mediastinal disorders                                           |
-| Very common                                     | Cough                                                                    | Dyspnoea, cough                                                                           |
-| Common                                          | Dyspnoea, interstitial lung disease (ILD) / pneumonitis                  | Interstitial lung disease (ILD) / pneumonitis                                             |
-| Gastrointestinal disorders                      | Gastrointestinal disorders                                               |                                                                                           |
-| Very common                                     | Nausea, diarrhoea, constipation, abdominal pain 2                        | Nausea, diarrhoea, vomiting, constipation, abdominal pain 2 , stomatitis, dyspepsia       |
-| Common                                          | Vomiting, stomatitis 3                                                   | Dysgeusia                                                                                 |
-| Hepatobiliary disorders                         | Hepatobiliary disorders                                                  |                                                                                           |
-| Common                                          | Hepatotoxicity 4                                                         | Hepatotoxicity 4                                                                          |
-| Skin and subcutaneous tissue disorders          | Skin and subcutaneous tissue disorders                                   |                                                                                           |
-| Very common                                     | Alopecia                                                                 | Alopecia, rash 5 , pruritus                                                               |
-| Common                                          | Rash 5 , pruritus                                                        | Dry skin, erythema, vitiligo                                                              |
-| Rare                                            | -                                                                        | Erythema multiforme                                                                       |
-| Not known                                       | -                                                                        | Toxic epidermal necrolysis (TEN)                                                          |
-| Musculoskeletal and connective tissue disorders | Musculoskeletal and connective tissue disorders                          | Musculoskeletal and connective tissue disorders                                           |
-| Very common                                     | -                                                                        | Back pain                                                                                 |
+| Frequency                                            | Patients with early breast cancer with starting dose 400 mg ribociclib   | Patients with advanced or metastatic breast cancer with starting dose 600 mg ribociclib   |
+|------------------------------------------------------|--------------------------------------------------------------------------|-------------------------------------------------------------------------------------------|
+| Infections and infestations                          | Infections and infestations                                              |                                                                                           |
+| Very common                                          | Infections 1                                                             | Infections 1                                                                              |
+| Blood and lymphatic system disorders                 | Blood and lymphatic system disorders                                     | Blood and lymphatic system disorders                                                      |
+| Very common                                          | Neutropenia, leukopenia                                                  | Neutropenia, leukopenia, anaemia, lymphopenia                                             |
+| Common                                               | Anaemia, thrombocytopenia, lymphopenia                                   | Thrombocytopenia, febrile neutropenia                                                     |
+| Uncommon                                             | Febrile neutropenia                                                      | -                                                                                         |
+| Metabolism and nutrition disorders                   | Metabolism and nutrition disorders                                       |                                                                                           |
+| Very common                                          | -                                                                        | Appetite decreased                                                                        |
+| Common                                               | Hypocalcaemia, hypokalaemia, appetite decreased                          | Hypocalcaemia, hypokalaemia, hypophosphataemia                                            |
+| Nervous system disorders                             | Nervous system disorders                                                 |                                                                                           |
+| Very common                                          | Headache                                                                 | Headache, dizziness                                                                       |
+| Common                                               | Dizziness                                                                | Vertigo                                                                                   |
+| Eye disorders                                        | Eye disorders                                                            |                                                                                           |
+| Common                                               | -                                                                        | Lacrimation increased, dry eye                                                            |
+| Cardiac disorders                                    | Cardiac disorders                                                        |                                                                                           |
+| Common                                               | -                                                                        | Syncope                                                                                   |
+| Respiratory, thoracic and mediastinal disorders      | Respiratory, thoracic and mediastinal disorders                          |                                                                                           |
+| Very common                                          | Cough                                                                    | Dyspnoea, cough                                                                           |
+| Common                                               | Dyspnoea, interstitial lung disease (ILD) / pneumonitis                  | Interstitial lung disease (ILD) / pneumonitis                                             |
+| Gastrointestinal disorders                           | Gastrointestinal disorders                                               |                                                                                           |
+| Very common                                          | Nausea, diarrhoea, constipation, abdominal pain 2                        | Nausea, diarrhoea, vomiting, constipation, abdominal pain 2 , stomatitis, dyspepsia       |
+| Common                                               | Vomiting, stomatitis 3                                                   | Dysgeusia                                                                                 |
+| Hepatobiliary disorders                              | Hepatobiliary disorders                                                  |                                                                                           |
+| Common                                               | Hepatotoxicity 4                                                         | Hepatotoxicity 4                                                                          |
+| Skin and subcutaneous tissue disorders               | Skin and subcutaneous tissue disorders                                   |                                                                                           |
+| Very common                                          | Alopecia                                                                 | Alopecia, rash 5 , pruritus                                                               |
+| Common                                               | Rash 5 , pruritus                                                        | Dry skin, erythema, vitiligo                                                              |
+| Rare                                                 | -                                                                        | Erythema multiforme                                                                       |
+| Not known                                            | -                                                                        | Toxic epidermal necrolysis (TEN)                                                          |
+| Musculoskeletal and connective tissue disorders      | Musculoskeletal and connective tissue disorders                          |                                                                                           |
+| Very common                                          | -                                                                        | Back pain                                                                                 |
+| General disorders and administration site conditions | General disorders and administration site conditions                     | General disorders and administration site conditions                                      |
+| Very common                                          | Fatigue, asthenia, pyrexia                                               | Fatigue, peripheral oedema, pyrexia, asthenia                                             |
+| Common                                               | Peripheral oedema, oropharyngeal pain                                    | Oropharyngeal pain, dry mouth                                                             |
 
 <div style=\"page-break-after: always\"></div>
 
-| General disorders and administration site conditions   | General disorders and administration site conditions       | General disorders and administration site conditions       |
-|--------------------------------------------------------|------------------------------------------------------------|------------------------------------------------------------|
-| Very common                                            | Fatigue, asthenia, pyrexia                                 | Fatigue, peripheral oedema, pyrexia, asthenia              |
-| Common                                                 | Peripheral oedema, oropharyngeal pain                      | Oropharyngeal pain, dry mouth                              |
-| Investigations                                         | Investigations                                             | Investigations                                             |
-| Very common                                            | Abnormal liver function tests 6                            | Abnormal liver function tests 6                            |
-| Common                                                 | Blood creatinine increased, electrocardiogram QT prolonged | Blood creatinine increased, electrocardiogram QT prolonged |
+| Investigations   |                                                            |                                                            |
+|------------------|------------------------------------------------------------|------------------------------------------------------------|
+| Common           | Blood creatinine increased, electrocardiogram QT prolonged | Blood creatinine increased, electrocardiogram QT prolonged |
 
 - 1 Infections: urinary tract infections, respiratory tract infections, gastroenteritis (only in patients with advanced or metastatic breast cancer), sepsis (&lt;1% only in patients with advanced or metastatic breast cancer).
 - 2  Abdominal pain: abdominal pain, abdominal pain upper.
 - 3 Stomatitis for early breast cancer includes: stomatitis, mucositis.
-- 4 Hepatotoxicity: hepatic cytolysis, hepatocellular injury (only in patients with advanced or metastatic breast cancer), drug-induced liver injury (&lt;1% in patients with early breast cancer and in patients with advanced or metastatic breast cancer), hepatotoxicity, hepatic failure (only in patients with advanced or metastatic breast cancer), autoimmune hepatitis (single case in patients with early breast cancer and single case in patients with advanced or metastatic breast cancer).
+- 4 Hepatotoxicity: hepatic cytolysis, hepatocellular injury (only in patients with advanced or metastatic breast cancer), drug-induced liver injury (&lt;1% in patients with early breast cancer and in patients with advanced or metastatic breast cancer), hepatotoxicity, hepatic failure (only in patients with advanced or metastatic breast cancer), autoimmune hepatitis.
 - 5 Rash: rash, rash maculopapular, rash pruritic.
 - 6 Abnormal liver function tests: ALT increased, AST increased, blood bilirubin increased.
 
@@ -501,11 +507,9 @@ All patients should be instructed to report any fever promptly.
 
 In the phase III clinical studies in patients with early breast cancer and advanced or metastatic breast cancer, increases in transaminases were observed.
 
-In the phase III study in patients with early breast cancer, hepatobiliary toxicity events occurred in a higher proportion of patients in the Kisqali plus AI arm versus the AI alone arm (26.4% versus 11.2%, respectively), with more grade 3/4 adverse events reported in patients treated with Kisqali plus AI (8.6% versus 1.7%, respectively). Concurrent elevations of ALT or AST greater than three times the
+In the phase III study in patients with early breast cancer, hepatobiliary toxicity events occurred in a higher proportion of patients in the Kisqali plus AI arm versus the AI alone arm (26.4% versus 11.2%, respectively), with more grade 3/4 adverse events reported in patients treated with Kisqali plus AI (8.6% versus 1.7%, respectively). Concurrent elevations of ALT or AST greater than three times the upper limit of normal and total bilirubin greater than two times the upper limit of normal, with normal alkaline phosphatase levels, occurred in 8 patients treated with Kisqali plus AI (in 6 patients ALT or AST levels recovered to normal within 65 to 303 days after discontinuation of Kisqali).
 
 <div style=\"page-break-after: always\"></div>
-
-upper limit of normal and total bilirubin greater than two times the upper limit of normal, with normal alkaline phosphatase levels, occurred in 8 patients treated with Kisqali plus AI (in 6 patients ALT or AST levels recovered to normal within 65 to 303 days after discontinuation of Kisqali).
 
 Dose interruptions due to hepatobiliary toxicity events were reported in 12.4% of patients with early breast cancer treated with Kisqali plus AI, primarily due to ALT increased (10.1%) and/or AST increased (6.8%). Dose adjustment due to hepatobiliary toxicity events was reported in 2.6% of patients treated with Kisqali plus AI, primarily due to ALT increased (1.9%) and/or AST increased (0.6%). Discontinuation of treatment with Kisqali due to abnormal liver function tests or hepatotoxicity occurred in 8.9% and 0.1% of patients, respectively (see sections 4.2 and 4.4).
 
@@ -671,11 +675,11 @@ Figure 2 MONALEESA-2 - Kaplan-Meier plot of PFS based on investigator assessment
 
 <!-- image -->
 
-|            |   Number of patients still at risk |   Number of patients still at risk |   Number of patients still at risk |   Number of patients still at risk |   Number of patients still at risk |   Number of patients still at risk |   Number of patients still at risk |   Number of patients still at risk |   Number of patients still at risk |   Number of patients still at risk |   Number of patients still at risk |   Number of patients still at risk |   Number of patients still at risk |   Number of patients still at risk |   Number of patients still at risk |   Number of patients still at risk |   Number of patients still at risk |   Number of patients still at risk |
-|------------|------------------------------------|------------------------------------|------------------------------------|------------------------------------|------------------------------------|------------------------------------|------------------------------------|------------------------------------|------------------------------------|------------------------------------|------------------------------------|------------------------------------|------------------------------------|------------------------------------|------------------------------------|------------------------------------|------------------------------------|------------------------------------|
-| Time       |                                  0 |                                  2 |                                  4 |                                  6 |                                  8 |                                 10 |                                 12 |                                 14 |                                 16 |                                 18 |                                 20 |                                 22 |                                 24 |                                 26 |                                 28 |                                 30 |                                 32 |                                 34 |
-| Ribociclib |                                334 |                                294 |                                277 |                                257 |                                240 |                                227 |                                207 |                                196 |                                188 |                                176 |                                164 |                                132 |                                 97 |                                 46 |                                 17 |                                 11 |                                  1 |                                  0 |
-| Placebo    |                                334 |                                279 |                                265 |                                239 |                                219 |                                196 |                                179 |                                156 |                                138 |                                124 |                                110 |                                 93 |                                 63 |                                 34 |                                 10 |                                  7 |                                  2 |                                  0 |
+|            |   Number of patients still at risk |   Number of patients still at risk |   Number of patients still at risk |   Number of patients still at risk |   Number of patients still at risk |   Number of patients still at risk |   Number of patients still at risk |   Number of patients still at risk | Number of patients still at risk   |   Number of patients still at risk |   Number of patients still at risk |   Number of patients still at risk | Number of patients still at risk   |   Number of patients still at risk |   Number of patients still at risk |   Number of patients still at risk |   Number of patients still at risk |
+|------------|------------------------------------|------------------------------------|------------------------------------|------------------------------------|------------------------------------|------------------------------------|------------------------------------|------------------------------------|------------------------------------|------------------------------------|------------------------------------|------------------------------------|------------------------------------|------------------------------------|------------------------------------|------------------------------------|------------------------------------|
+| Time       |                                  0 |                                  2 |                                  4 |                                  6 |                                  8 |                                 10 |                                 12 |                                 14 | 16                                 |                                 18 |                                 20 |                                 22 | 24 26                              |                                 28 |                                 30 |                                 32 |                                 34 |
+| Ribociclib |                                334 |                                294 |                                277 |                                257 |                                240 |                                227 |                                207 |                                196 | 188 176                            |                                164 |                                132 |                                 97 | 46                                 |                                 17 |                                 11 |                                  1 |                                  0 |
+| Placebo    |                                334 |                                279 |                                265 |                                239 |                                219 |                                196 |                                179 |                                156 | 138 124                            |                                110 |                                 93 |                                 63 | 34                                 |                                 10 |                                  7 |                                  2 |                                  0 |
 
 A series of pre-specified subgroup PFS analyses was performed based on prognostic factors and baseline characteristics to investigate the internal consistency of treatment effect. A reduction in the risk of disease progression or death in favour of the Kisqali plus letrozole arm was observed in all individual patient subgroups of age, race, prior adjuvant or neoadjuvant chemotherapy or hormonal therapies, liver and/or lung involvement and bone-only metastatic disease. This was evident for patients with liver and/or lung metastases (HR of 0.561 [95% CI: 0.424, 0.743], median progressionfree survival [mPFS] 24.8 months for Kisqali plus letrozole versus 13.4 months for letrozole alone), or without liver and/or lung metastases (HR of 0.597 [95% CI: 0.426, 0.837], mPFS 27.6 months versus 18.2 months).
 
@@ -693,8 +697,6 @@ Table 10 MONALEESA-2 - Efficacy results (ORR, CBR) based on investigator assessm
 | Patients with measurable disease | n=257                                | n=245                                |              |
 | Overall response rate a          | 54.5 (48.4, 60.6)                    | 38.8 (32.7, 44.9)                    | 2.54 × 10 -4 |
 | Clinical benefit rate b          | 80.2 (75.3, 85.0)                    | 71.8 (66.2, 77.5)                    | 0.018        |
-
-a ORR: Overall response rate = proportion of patients with complete response + partial response b CBR: Clinical benefit rate = proportion of patients with complete response + partial response (+ stable disease or non-complete response/Nonprogressive disease ≥24 weeks) c p-values are obtained from one-sided Cochran-Mantel-Haenszel chi-square test
 
 ## Final OS analysis
 
@@ -887,10 +889,6 @@ Table 16 MONALEESA-3 - Efficacy results (ORR, CBR) based on investigator assessm
 | Patients with measurable disease | n=379                                  | n=181                                  |
 | Overall response rate a          | 40.9 (35.9, 45.8)                      | 28.7 (22.1, 35.3)                      |
 | Clinical benefit rate b          | 69.4 (64.8, 74.0).                     | 59.7 (52.5, 66.8)                      |
-
-a ORR: proportion of patients with complete response + partial response
-
-b CBR: proportion of patients with complete response + partial response + (stable disease or noncomplete response/Nonprogressive disease ≥24 weeks)
 
 Hazard ratios based on pre-specified subgroup analysis of the patients treated with Kisqali plus fulvestrant showed consistent benefit across different subgroups including age, prior treatment (early or advanced), prior adjuvant/neoadjuvant chemotherapy or hormonal therapies, liver and/or lung involvement and bone-only metastatic disease.
 
@@ -1088,7 +1086,7 @@ Not applicable.
 
 ## 6.3 Shelf life
 
-2 years .
+2 years.
 
 ## 6.4 Special precautions for storage
 
@@ -1134,7 +1132,9 @@ Detailed information on this medicinal product is available on the website of th
 
 - A. MANUFACTURER(S) RESPONSIBLE FOR BATCH RELEASE
 - B. CONDITIONS OR RESTRICTIONS REGARDING SUPPLY AND USE
-- C. OTHER CONDITIONS AND REQUIREMENTS OF THE MARKETING AUTHORISATION
+
+## C. OTHER CONDITIONS AND REQUIREMENTS OF THE MARKETING AUTHORISATION
+
 - D. CONDITIONS OR RESTRICTIONS WITH REGARD TO THE SAFE AND EFFECTIVE USE OF THE MEDICINAL PRODUCT
 
 <div style=\"page-break-after: always\"></div>
@@ -1142,8 +1142,6 @@ Detailed information on this medicinal product is available on the website of th
 ## A. MANUFACTURER(S) RESPONSIBLE FOR BATCH RELEASE
 
 Name and address of the manufacturer(s) responsible for batch release
-
-Novartis Pharma GmbH Roonstrasse 25 90429 Nuremberg Germany
 
 Lek Pharmaceuticals d.d. Verovškova Ulica 57 1526 Ljubljana Slovenia
 
@@ -1169,12 +1167,12 @@ The requirements for submission of PSURs for this medicinal product are set out 
 
 The marketing authorisation holder (MAH) shall perform the required pharmacovigilance activities and interventions detailed in the agreed RMP presented in Module 1.8.2 of the marketing authorisation and any agreed subsequent updates of the RMP.
 
-<div style=\"page-break-after: always\"></div>
-
 An updated RMP should be submitted:
 
 - At the request of the European Medicines Agency;
 - Whenever the risk management system is modified, especially as the result of new information being received that may lead to a significant change to the benefit/risk profile or as the result of an important (pharmacovigilance or risk minimisation) milestone being reached.
+
+<div style=\"page-break-after: always\"></div>
 
 ## · Obligation to conduct post-authorisation measures
 
@@ -1372,7 +1370,7 @@ Lot
 
 ## 14. GENERAL CLASSIFICATION FOR SUPPLY
 
-15. INSTRUCTIONS ON USE
+## 15. INSTRUCTIONS ON USE
 
 ## 16. INFORMATION IN BRAILLE
 
@@ -1459,8 +1457,7 @@ OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF
 
 APPROPRIATE
 
-| 11.   | NAMEANDADDRESS OF THE MARKETING AUTHORISATION HOLDER   |
-|-------|--------------------------------------------------------|
+## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
 Novartis Europharm Limited Vista Building Elm Park, Merrion Road Dublin 4
 
@@ -1469,7 +1466,13 @@ Ireland
 | 12.   | MARKETING AUTHORISATION NUMBER(S)   |
 |-------|-------------------------------------|
 
-EU/1/17/1221/007 63 (3 x 21) film-coated tablets (in PCTFE/PVC blisters) EU/1/17/1221/008 63 (3 x 21) film-coated tablets (in PA/alu/PVC blisters) EU/1/17/1221/009 126 (3 x 42) film-coated tablets (in PCTFE/PVC blisters) EU/1/17/1221/010 126 (3 x 42) film-coated tablets (in PA/alu/PVC blisters) EU/1/17/1221/011 189 (3 x 63) film-coated tablets (in PCTFE/PVC blisters) EU/1/17/1221/012 189 (3 x 63) film-coated tablets (in PA/alu/PVC blisters)
+| EU/1/17/1221/007   | 63 (3 x 21) film-coated tablets (in PCTFE/PVC blisters)   |
+|--------------------|-----------------------------------------------------------|
+| EU/1/17/1221/008   | 63 (3 x 21) film-coated tablets (in PA/alu/PVC blisters)  |
+| EU/1/17/1221/009   | 126 (3 x 42) film-coated tablets (in PCTFE/PVC blisters)  |
+| EU/1/17/1221/010   | 126 (3 x 42) film-coated tablets (in PA/alu/PVC blisters) |
+| EU/1/17/1221/011   | 189 (3 x 63) film-coated tablets (in PCTFE/PVC blisters)  |
+| EU/1/17/1221/012   | 189 (3 x 63) film-coated tablets (in PA/alu/PVC blisters) |
 
 | 13.   | BATCH NUMBER   |
 |-------|----------------|
@@ -1705,11 +1708,11 @@ Take Kisqali once daily at the same time each day, preferably in the morning. Th
 
 Kisqali tablets should be swallowed whole (tablets should not be chewed, crushed or split before swallowing). Do not take a tablet that is broken, cracked or otherwise damaged.
 
+<div style=\"page-break-after: always\"></div>
+
 ## Kisqali with food and drink
 
 You should take Kisqali once daily every day at the same time, preferably in the morning. You may take it with or without food.
-
-<div style=\"page-break-after: always\"></div>
 
 ## How long to take Kisqali
 
@@ -1747,13 +1750,11 @@ Your doctor may ask you to take a lower dose, interrupt your treatment with Kisq
 - Fever, chills, weakness and frequent infections with symptoms such as sore throat or mouth ulcers. These may be signs of either a low level of white blood cells ( very common, may affect more than 1 in 10 people ) or a low level of lymphocytes, which are a specific type of white blood cell ( common, may affect up to 1 in 10 people ).
 - Abnormal results of blood tests that give information about the health of the liver (abnormal liver function tests). Very common (may affect more than 1 in 10 people).
 - Spontaneous bleeding or bruising (signs of a low level of blood platelets). Common (may affect up to 1 in 10 people).
-- Reduced level of potassium in the blood, which could lead to disturbances in heart rhythm. Common (may affect up to 1 in 10 people) .
-- Chest pain or discomfort, changes in heart beat (fast or slow), palpitations, lightheadedness, fainting, dizziness, lips turning blue colour, shortness of breath, swelling (oedema) of your
 
 <div style=\"page-break-after: always\"></div>
 
-lower limbs or skin (these may be signs of heart problems). Common (may affect up to 1 in 10 people).
-
+- Reduced level of potassium in the blood, which could lead to disturbances in heart rhythm. Common (may affect up to 1 in 10 people) .
+- Chest pain or discomfort, changes in heart beat (fast or slow), palpitations, lightheadedness, fainting, dizziness, lips turning blue colour, shortness of breath, swelling (oedema) of your lower limbs or skin (these may be signs of heart problems). Common (may affect up to 1 in 10 people).
 - Tiredness, itchy yellow skin or yellowing of the whites of your eyes, nausea or vomiting, loss of appetite, pain in the upper right side of the belly (abdomen), dark or brown urine, bleeding or bruising more easily than normal (these may be signs of a liver problem). Common (may affect up to 1 in 10 people).
 - Inflammation of the lungs, which can cause dry cough, chest pain, fever, shortness of breath and breathing difficulty (these may be signs of interstitial lung disease/pneumonitis which, if severe, may be life threatening). Common (may affect up to 1 in 10 people).
 - Sore throat or mouth ulcers with a single episode of fever of at least 38.3°C or fever above 38°C for more than one hour and/or with infection (febrile neutropenia). Uncommon (may affect up to 1 in 100 people).
@@ -1792,16 +1793,13 @@ Other side effects include the following listed below. If these side effects bec
 - Reduced appetite
 - Abnormal kidney blood test result (high level of creatinine in the blood)
 
-## Advanced or metastatic breast cancer
+<div style=\"page-break-after: always\"></div>
 
-## Some side effects could be serious.
+## Advanced or metastatic breast cancer Some side effects could be serious.
 
 Your doctor may ask you to take a lower dose, interrupt your treatment with Kisqali, or stop it permanently. Tell your doctor immediately if you get any of the following symptoms during treatment with Kisqali:
 
 - Fever, sweating or chills, cough, flu-like symptoms, weight loss, shortness of breath, blood in your phlegm, sores on your body, warm or painful areas on your body, diarrhoea or stomach pain, or feeling very tired (signs or symptoms of infections). Very common (may affect more than 1 in 10 people).
-
-<div style=\"page-break-after: always\"></div>
-
 - Fever, chills, weakness and frequent infections with symptoms such as sore throat or mouth ulcers (signs of a low level of leukocytes or lymphocytes, which are types of white blood cells). Very common (may affect more than 1 in 10 people).
 - Abnormal results of blood tests that give information about the health of the liver (abnormal liver function tests). Very common (may affect more than 1 in 10 people).
 - Spontaneous bleeding or bruising (signs of a low level of blood platelets). C ommon (may affect up to 1 in 10 people).
@@ -1830,6 +1828,9 @@ Other side effects include the following listed below. If these side effects bec
 - Nausea (feeling sick)
 - Diarrhoea
 - Vomiting
+
+<div style=\"page-break-after: always\"></div>
+
 - Constipation
 - Abdominal (belly) pain
 - Stomatitis (mouth sores with gum inflammation)
@@ -1838,9 +1839,6 @@ Other side effects include the following listed below. If these side effects bec
 - Rash
 - Pruritis (itching)
 - Back pain
-
-<div style=\"page-break-after: always\"></div>
-
 - Fatigue (tiredness)
 - Peripheral oedema (swollen hands, ankles or feet)
 - Pyrexia (fever)
@@ -1881,9 +1879,9 @@ Store in the original package in order to protect from moisture. This medicine d
 
 Do not take this medicine if you notice any damage to the packaging or if there are any signs of tampering.
 
-Do not throw away any medicines via wastewater or household waste. Ask your pharmacist how to throw away medicines you no longer use. These measures will help protect the environment.
-
 <div style=\"page-break-after: always\"></div>
+
+Do not throw away any medicines via wastewater or household waste. Ask your pharmacist how to throw away medicines you no longer use. These measures will help protect the environment.
 
 ## 6. Contents of the pack and other information
 
@@ -1892,9 +1890,7 @@ Do not throw away any medicines via wastewater or household waste. Ask your phar
 - -The active substance is ribociclib. Each film-coated tablet contains ribociclib succinate equivalent to 200 mg ribociclib.
 - -The other ingredients are:
 
-Tablet core: microcrystalline cellulose; crospovidone type A; low-substituted hydroxypropylcellulose; magnesium stearate; colloidal anhydrous silica. Coating material: iron oxide black (E172); iron oxide red (E172); soya lecithin (E322) (see
-
-- 'Kisqali contains soya lecithin' in section 2); polyvinyl alcohol (partially hydrolysed); talc; titanium dioxide (E171); xanthan gum.
+Tablet core: microcrystalline cellulose; crospovidone type A; low-substituted hydroxypropylcellulose; magnesium stearate; colloidal anhydrous silica. Coating material: iron oxide black (E172); iron oxide red (E172); soya lecithin (E322) (see 'Kisqali contains soya lecithin' in section 2); polyvinyl alcohol (partially hydrolysed); talc; titanium dioxide (E171); xanthan gum.
 
 ## What Kisqali looks like and contents of the pack
 
@@ -1918,8 +1914,6 @@ Novartis Europharm Limited Vista Building Elm Park, Merrion Road Dublin 4 Irelan
 
 ## Manufacturer
 
-Novartis Pharma GmbH Roonstrasse 25 90429 Nuremberg Germany
-
 Lek Pharmaceuticals d.d. Verovškova Ulica 57 1526 Ljubljana Slovenia
 
 Novartis Pharmaceutical Manufacturing LLC Verovškova Ulica 57 1000 Ljubljana Slovenia
@@ -1932,13 +1926,11 @@ For any information about this medicine, please contact the local representative
 
 ## België/Belgique/Belgien
 
-Novartis Pharma N.V.
-
-Tél/Tel: +32 2 246 16 11
+Novartis Pharma N.V. Tél/Tel: +32 2 246 16 11
 
 ## България
 
-Novartis Bulgaria EOOD Тел : +359 2 489 98 28
+Novartis Bulgaria EOOD Тел: +359 2 489 98 28
 
 ## Česká republika
 
@@ -1950,9 +1942,7 @@ Novartis Healthcare A/S Tlf.: +45 39 16 84 00
 
 ## Deutschland
 
-Novartis Pharma GmbH
-
-Tel: +49 911 273 0
+Novartis Pharma GmbH Tel: +49 911 273 0
 
 ## Eesti
 
@@ -1980,7 +1970,9 @@ Novartis Ireland Limited Tel: +353 1 260 12 55
 
 ## Ísland
 
-Vistor hf. Sími: +354 535 7000
+Vistor hf.
+
+Sími: +354 535 7000
 
 ## Italia
 
@@ -1998,9 +1990,7 @@ Novartis Pharma N.V. Tél/Tel: +32 2 246 16 11
 
 ## Magyarország
 
-Novartis Hungária Kft.
-
-Tel.: +36 1 457 65 00
+Novartis Hungária Kft. Tel.: +36 1 457 65 00
 
 ## Malta
 
@@ -2008,9 +1998,7 @@ Novartis Pharma Services Inc. Tel: +356 2122 2872
 
 ## Nederland
 
-Novartis Pharma B.V.
-
-Tel: +31 88 04 52 111
+Novartis Pharma B.V. Tel: +31 88 04 52 111
 
 ## Norge
 

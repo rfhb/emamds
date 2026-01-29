@@ -1,18 +1,18 @@
 ---
-document_datetime: 2023-09-21 20:53:00
-document_pages: 30
+document_datetime: 2026-01-28 09:22:07
+document_pages: 31
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/forsteo-epar-product-information_en.pdf
 document_name: forsteo-epar-product-information_en.pdf
 version: success
-processing_time: 7.4375088
-conversion_datetime: 2025-12-30 09:22:08.927891
+processing_time: 7.5812673
+conversion_datetime: 2026-01-29 12:21:49.256146
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.66.0
-  docling-core: 2.57.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.11.0
+  docling-jobkit: 1.9.0
+  docling: 2.70.0
+  docling-core: 2.61.0
+  docling-ibm-models: 3.11.0
+  docling-parse: 4.7.3
   python: cpython-313 (3.13.11)
   plaform: macOS-26.2-arm64-arm-64bit-Mach-O
 ---
@@ -149,13 +149,13 @@ FORSTEO has been evaluated in pharmacodynamic interaction studies with hydrochlo
 
 Co-administration of raloxifene or hormone replacement therapy with FORSTEO did not alter the effects of FORSTEO on serum or urine calcium or on clinical adverse events.
 
+<div style=\"page-break-after: always\"></div>
+
 ## 4.6 Fertility, pregnancy and lactation
 
 ## Women of childbearing potential / Contraception in females
 
 Women of childbearing potential should use effective methods of contraception during use of FORSTEO.  If pregnancy occurs, FORSTEO should be discontinued.
-
-<div style=\"page-break-after: always\"></div>
 
 ## Pregnancy
 
@@ -191,14 +191,14 @@ The adverse reactions associated with the use of teriparatide in osteoporosis cl
 | Metabolism and nutrition disorders Common : Hypercholesterolaemia Uncommon : Hypercalcaemia greater than 2.76 mmol/L, hyperuricemia Rare : Hypercalcaemia greater than 3.25 mmol/L |
 | Psychiatric disorders Common : Depression                                                                                                                                          |
 | Nervous system disorders Common : Dizziness, headache, sciatica, syncope                                                                                                           |
-| Ear and labyrinth disorders Common : Vertigo                                                                                                                                       |
-| Cardiac disorders Common : Palpitations Uncommon : Tachycardia                                                                                                                     |
-| Vascular disorders Common : Hypotension                                                                                                                                            |
 
 <div style=\"page-break-after: always\"></div>
 
-| Respiratory, thoracic and mediastinal disorders Common : Dyspnoea Uncommon : Emphysema                                                                                                                                                                                                                                                                                                                                                                           |
+| Ear and labyrinth disorders Common : Vertigo                                                                                                                                                                                                                                                                                                                                                                                                                     |
 |------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Cardiac disorders Common : Palpitations Uncommon : Tachycardia                                                                                                                                                                                                                                                                                                                                                                                                   |
+| Vascular disorders Common : Hypotension                                                                                                                                                                                                                                                                                                                                                                                                                          |
+| Respiratory, thoracic and mediastinal disorders Common : Dyspnoea Uncommon : Emphysema                                                                                                                                                                                                                                                                                                                                                                           |
 | Gastrointestinal disorders Common : Nausea, vomiting, hiatus hernia, gastroesophageal reflux disease Uncommon : Haemorrhoids                                                                                                                                                                                                                                                                                                                                     |
 | Skin and subcutaneous tissue disorders Common : Sweating increased                                                                                                                                                                                                                                                                                                                                                                                               |
 | Musculoskeletal and connective tissue disorders Very common : Pain in limb Common : Muscle cramps Uncommon : Myalgia, arthralgia, back cramp/pain*                                                                                                                                                                                                                                                                                                               |
@@ -218,6 +218,8 @@ In a large clinical trial, antibodies that cross-reacted with teriparatide were 
 
 Reporting suspected adverse reactions after authorisation of the medicinal product is important. It allows continued monitoring of the benefit/risk balance of the medicinal product. Healthcare professionals are asked to report any suspected adverse reactions via the national reporting system listed in Appendix V.
 
+<div style=\"page-break-after: always\"></div>
+
 ## 4.9 Overdose
 
 ## Signs and symptoms
@@ -225,8 +227,6 @@ Reporting suspected adverse reactions after authorisation of the medicinal produ
 FORSTEO has been administered in single doses of up to 100 micrograms and in repeated doses of up to 60 micrograms/day for 6 weeks.
 
 The effects of overdose that might be expected include delayed hypercalcaemia and risk of orthostatic hypotension. Nausea, vomiting, dizziness, and headache can also occur.
-
-<div style=\"page-break-after: always\"></div>
 
 ## Overdose experience based on post-marketing spontaneous reports
 
@@ -256,13 +256,15 @@ FORSTEO is a bone formation agent to treat osteoporosis. The skeletal effects of
 
 Independent risk factors, for example, low BMD, age, the existence of previous fracture, family history of hip fractures, high bone turnover and low body mass index should be considered in order to identify women and men at increased risk of osteoporotic fractures who could benefit from treatment.
 
-Premenopausal women with glucocorticoid-induced osteoporosis should be considered at high risk for fracture if they have a prevalent fracture or a combination of risk factors that place them at high risk for fracture (e.g., low bone density [e.g., T score ≤-2] , sustained high dose glucocorticoid therapy [e.g., ≥7.5 mg/day for at least 6 months] , high underlying disease activity, low sex steroid levels).
+Premenopausal women with glucocorticoid-induced osteoporosis should be considered at high risk for fracture if they have a prevalent fracture or a combination of risk factors that place them at high risk
+
+<div style=\"page-break-after: always\"></div>
+
+for fracture (e.g., low bone density [e.g., T score ≤-2] , sustained high dose glucocorticoid therapy [e.g., ≥7.5 mg/day for at least 6 months] , high underlying disease activity, low sex steroid levels).
 
 ## Postmenopausal osteoporosis
 
 The pivotal study included 1637 postmenopausal women (mean age 69.5 years). At baseline, ninety percent of the patients had one or more vertebral fractures, and on average, vertebral BMD was 0.82 g/cm 2 (equivalent to a T-score = - 2.6). All patients were offered 1000 mg calcium per day and at least 400 IU vitamin D per day. Results from up to 24 months (median: 19 months) treatment with FORSTEO demonstrate statistically significant fracture reduction (Table 1). To prevent one or more new vertebral fractures, 11 women had to be treated for a median of 19 months.
-
-<div style=\"page-break-after: always\"></div>
 
 Table 1
 
@@ -292,11 +294,11 @@ During a median of 18 months following discontinuation of FORSTEO, there was a 4
 
 In an open-label study, 503 postmenopausal women with severe osteoporosis and a fragility fracture within the previous 3 years (83 % had received previous osteoporosis therapy) were treated with FORSTEO for up to 24 months. At 24 months, the mean increase from baseline in lumbar spine, total hip and femoral neck BMD was 10.5 %, 2.6 % and 3.9 % respectively. The mean increase in BMD from 18 to 24 months was 1.4 %, 1.2 %, and 1.6 % at the lumbar spine, total hip and femoral neck, respectively.
 
-A 24-month, randomized, double-blind, comparator-controlled Phase 4 study included 1,360 postmenopausal women with established osteoporosis. 680 subjects were randomised to Forsteo and 680 subjects were randomised to oral risedronate 35 mg/week. At baseline, the women had a mean age of 72.1 years and a median of 2 prevalent vertebral fractures; 57.9% of patients had received previous bisphosphonate therapy and 18.8% took concomitant glucocorticoids during the study. 1,013 (74.5%) patients completed the 24-month follow-up. The mean (median) cumulative dose of glucocorticoid was 474.3 (66.2) mg in the teriparatide arm and 898.0 (100.0) mg in the risedronate arm. The mean (median) vitamin D intake for the teriparatide arm was 1433 IU/day (1400 IU/day) and for the risedronate arm was 1191 IU/day (900 IU/day). For those subjects who had baseline and follow-up spine radiographs, the incidence of new vertebral fractures was 28/516 (5.4%) in Forsteo- and 64/533 (12.0%) in risedronate-treated patients, relative risk (95% CI) = 0.44 (0.290.68), P&lt;0.0001. The cumulative incidence of pooled clinical fractures (clinical vertebral and non vertebral fractures) was
+A 24-month, randomized, double-blind, comparator-controlled Phase 4 study included 1,360 postmenopausal women with established osteoporosis. 680 subjects were randomised to Forsteo and
 
 <div style=\"page-break-after: always\"></div>
 
-4.8% in Forsteo and 9.8% in risedronate-treated patients, hazard ratio (95% CI) = 0.48 (0.32-0.74), P=0.0009.
+680 subjects were randomised to oral risedronate 35 mg/week. At baseline, the women had a mean age of 72.1 years and a median of 2 prevalent vertebral fractures; 57.9% of patients had received previous bisphosphonate therapy and 18.8% took concomitant glucocorticoids during the study. 1,013 (74.5%) patients completed the 24-month follow-up. The mean (median) cumulative dose of glucocorticoid was 474.3 (66.2) mg in the teriparatide arm and 898.0 (100.0) mg in the risedronate arm. The mean (median) vitamin D intake for the teriparatide arm was 1433 IU/day (1400 IU/day) and for the risedronate arm was 1191 IU/day (900 IU/day). For those subjects who had baseline and follow-up spine radiographs, the incidence of new vertebral fractures was 28/516 (5.4%) in Forsteo- and 64/533 (12.0%) in risedronate-treated patients, relative risk (95% CI) = 0.44 (0.290.68), P&lt;0.0001. The cumulative incidence of pooled clinical fractures (clinical vertebral and non vertebral fractures) was 4.8% in Forsteo and 9.8% in risedronate-treated patients, hazard ratio (95% CI) = 0.48 (0.32-0.74), P=0.0009.
 
 ## Male osteoporosis
 
@@ -310,19 +312,21 @@ The efficacy of FORSTEO in men and women (N=428) receiving sustained systemic gl
 
 This study included postmenopausal women (N=277), premenopausal women (N=67), and men (N=83). At baseline, the postmenopausal women had a mean age of 61 years, mean lumbar spine BMD T score of -2.7, median prednisone equivalent dose of 7.5 mg/day, and 34 % had one or more radiographic vertebral fractures; premenopausal women had a mean age of 37 years, mean lumbar spine BMD T score of -2.5, median prednisone equivalent dose of 10 mg/day, and 9 % had one or more radiographic vertebral fractures; and men had a mean age of 57 years, mean lumbar spine BMD T score of -2.2, median prednisone equivalent dose of 10 mg/day, and 24 % had one or more radiographic vertebral fractures.
 
-Sixty-nine percent of patients completed the 18-month primary phase.  At the 18 month endpoint, FORSTEO significantly increased lumbar spine BMD (7.2 %) compared with alendronate (3.4 %) (p&lt;0.001). FORSTEO increased BMD at the total hip (3.6 %) compared with alendronate (2.2 %) (p&lt;0.01), as well as at the femo ral neck (3.7 %) compared with alendronate (2.1 %) (p&lt;0.05). I n patients treated with teriparatide, lumbar spine, total hip and femoral neck BMD increased between 18 and 24 months by an additional 1.7 %, 0.9 %, and 0.4 %, respectively.
+Sixty-nine percent of patients completed the 18-month primary phase.  At the 18 month endpoint, FORSTEO significantly increased lumbar spine BMD (7.2 %) compared with alendronate (3.4 %) (p&lt;0.001). FORSTEO increased BMD at the total hip (3.6 %) compared with alendronate (2.2 %) (p&lt;0.01), as well as at the femoral neck (3.7 %) compared with alendronate (2.1 %) (p&lt;0.05). I n patients treated with teriparatide, lumbar spine, total hip and femoral neck BMD increased between 18 and 24 months by an additional 1.7 %, 0.9 %, and 0.4 %, respectively.
 
 At 36 months, analysis of spinal X-rays from 169 alendronate patients and 173 FORSTEO patients showed that 13 patients in the alendronate group (7.7 %) had experienced a new vertebral fracture compared with 3 patients in the FORSTEO group (1.7 %) (p=0.01). In addition, 15 of 214 patients in the alendronate group (7.0 %) had experienced a non-vertebral fracture compared with 16 of 214 patients in the FORSTEO group (7.5 %) (p=0.84).
 
-In premenopausal women, the increase in BMD from baseline to 18 month endpoint was significantly greater in the FORSTEO group compared with the alendronate group at the lumbar spine (4.2 % versus -1.9 %; p&lt;0.001) and total hip (3.8 % versus 0.9 %; p=0.005).  However, no significant effect on fracture rates was demonstrated.
+In premenopausal women, the increase in BMD from baseline to 18 month endpoint was significantly greater in the FORSTEO group compared with the alendronate group at the lumbar spine (4.2 %
+
+<div style=\"page-break-after: always\"></div>
+
+versus -1.9 %; p&lt;0.001) and total hip (3.8 % versus 0.9 %; p=0.005).  However, no significant effect on fracture rates was demonstrated.
 
 ## 5.2 Pharmacokinetic properties
 
 ## Distribution
 
 The volume of distribution is approximately 1.7 L/kg. The half-life of FORSTEO is approximately 1 hour when administered subcutaneously, which reflects the time required for absorption from the injection site.
-
-<div style=\"page-break-after: always\"></div>
 
 ## Biostransformation
 
@@ -348,7 +352,11 @@ Animal studies have shown that severely reduced hepatic blood flow decreases exp
 
 ## 6.1 List of excipients
 
-Glacial acetic acid Sodium acetate (anhydrous) Mannitol Metacresol Hydrochloric acid (for pH adjustment) Sodium hydroxide (for pH adjustment) Water for injections
+Glacial acetic acid Sodium acetate (anhydrous) Mannitol Metacresol Hydrochloric acid (for pH adjustment) Sodium hydroxide (for pH adjustment)
+
+<div style=\"page-break-after: always\"></div>
+
+Water for injections
 
 ## 6.2 Incompatibilities
 
@@ -357,8 +365,6 @@ In the absence of compatibility studies, this medicinal product must not be mixe
 ## 6.3 Shelf life
 
 ## 2 years
-
-<div style=\"page-break-after: always\"></div>
 
 Chemical, physical and microbiological in-use stability has been demonstrated for 28 days at 2-8°C. Once opened, the product may be stored for a maximum of 28 days at 2°C to 8°C. Other in-use storage times and conditions are the responsibility of the user.
 
@@ -388,11 +394,13 @@ Any unused product or waste material should be disposed of in accordance with lo
 
 ## 7. MARKETING AUTHORISATION HOLDER
 
-Eli Lilly Nederland B.V., Papendorpseweg 83, 3528 BJ Utrecht, The Netherlands
+Eli Lilly Nederland B.V., Orteliuslaan 1000, 3528 BD Utrecht, The Netherlands
 
 ## 8. MARKETING AUTHORISATION NUMBERS
 
 EU/1/03/247/001-002
+
+<div style=\"page-break-after: always\"></div>
 
 ## 9. DATE OF FIRST AUTHORISATION/RENEWAL OF THE AUTHORISATION
 
@@ -400,9 +408,13 @@ Date of first authorisation: 10 June 2003
 
 Date of the latest renewal: 13 February 2013
 
-## 10. DATE OF REVISION OF THE TEXT
+10.
 
-Detailed information on this medicinal product is available on the website of the European Medicines Agency http://www.ema.europa.eu
+DATE OF REVISION OF THE TEXT
+
+Detailed information on this medicinal product is available on the website of the European Medicines Agency https://www.ema.europa.eu
+
+12
 
 <div style=\"page-break-after: always\"></div>
 
@@ -439,7 +451,7 @@ The requirements for submission of PSURs for this medicinal product are set out 
 
 ## · Risk management plan (RMP)
 
-The marketing authorisation holder (MAH) shall perform the required pharmacovigilance activities and interventions detailed in the agreed RMP presented in Module 1.8.2. of the marketing authorisation and any agreed subsequent updates of the RMP.
+The marketing authorisation holder ( MAH) shall perform the required pharmacovigilance activities and interventions detailed in the agreed RMP presented in Module 1.8.2. of the marketing authorisation and any agreed subsequent updates of the RMP.
 
 An updated RMP should be submitted:
 
@@ -506,6 +518,8 @@ The pen should be discarded 28 days after the first use.
 
 Date of first use:
 
+<div style=\"page-break-after: always\"></div>
+
 ## 9. SPECIAL STORAGE CONDITIONS
 
 Store in a refrigerator.
@@ -516,9 +530,7 @@ Do not freeze.
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
-Eli Lilly Nederland B.V. Papendorpseweg 83, 3528 BJ Utrecht
-
-The Netherlands
+Eli Lilly Nederland B.V. Orteliuslaan 1000, 3528 BD Utrecht The Netherlands
 
 ## 12. MARKETING AUTHORISATION NUMBER(S)
 
@@ -547,8 +559,6 @@ FORSTEO
 PC
 
 SN
-
-<div style=\"page-break-after: always\"></div>
 
 NN
 
@@ -788,7 +798,7 @@ FORSTEO is a colourless and clear solution. It is supplied in a cartridge contai
 
 ## Marketing Authorisation Holder
 
-Eli Lilly Nederland B.V., Papendorpseweg 83, 3528 BJ Utrecht, The Netherlands
+Eli Lilly Nederland B.V., Orteliuslaan 1000, 3528 BD Utrecht, The Netherlands
 
 ## Manufacturer
 
@@ -818,7 +828,7 @@ Tel: + 420 234 664 111
 
 Eli Lilly Danmark A/S
 
-Tlf: + 45 45 26 60 00
+Tlf.: + 45 45 26 60 00
 
 ## Deutschland
 
@@ -934,11 +944,7 @@ Icepharma hf.
 
 Sími: + 354 540 8000
 
-## Slovenská republika
-
-Eli Lilly Slovakia s.r.o.
-
-Tel: + 421 220 663 111
+Slovenská republika Eli Lilly Slovakia s.r.o. Tel: + 421 220 663 111
 
 Italia
 
@@ -956,7 +962,9 @@ Puh/Tel: + 358 (0) 9 8545 250
 
 Phadisco Ltd
 
-Τηλ: + 357 22 715000
+Τηλ
+
+: + 357 22 715000
 
 Sverige
 
@@ -970,17 +978,11 @@ Eli Lilly (Suisse) S.A Pārstāvniecība Latvijā
 
 Tel: + 371 67364000
 
-United Kingdom (Northern Ireland)
-
-Eli Lilly and Company (Ireland) Limited
-
-Tel: + 353-(0) 1 661 4377
-
 <div style=\"page-break-after: always\"></div>
 
 ## This leaflet was last revised in
 
-Detailed information on this medicine is available on the European Medicines Agency web site: http://www.ema.europa.eu
+Detailed information on this medicine is available on the European Medicines Agency web site: https://www.ema.europa.eu
 
 This leaflet is available in all EU/EEA languages on the European Medicines Agency web site.
 
@@ -988,7 +990,9 @@ This leaflet is available in all EU/EEA languages on the European Medicines Agen
 
 ## PEN USER MANUAL
 
-## Forsteo FORSTEO 20 micrograms (µg)/ 80 microlitres solution for injection, in pre-filled pen
+## Forsteo
+
+FORSTEO 20 micrograms (µg)/ 80 microlitres solution for injection, in pre-filled pen
 
 ## Instructions for use
 
@@ -1072,11 +1076,11 @@ A.  The yellow shaft is still showing after I push in the black injection button
 
 B.  How can I tell if my FORSTEO works?
 
-Forsteo FORSTEO, 20 microgram (µg) 80 microlitres solution for injection, in pre-filled pen
+Forsteo FORSTEO, 20 microgram (µg) 80 microlitres solution
+
+for injection, in pre-filled pen
 
 ## Troubleshooting
-
-<!-- image -->
 
 ## Solution
 
@@ -1094,6 +1098,8 @@ To reset the FORSTEO, follow the steps below.
 You can prevent this problem by always using a NEW needle for each injection, and by pushing the black injection button all the way in and counting to 5 s-l-o-w-l-y.
 
 The FORSTEO is designed to inject the full dose every time it is used according to the directions in the
+
+<!-- image -->
 
 <!-- image -->
 

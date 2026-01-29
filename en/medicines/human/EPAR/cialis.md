@@ -1,18 +1,18 @@
 ---
-document_datetime: 2025-12-29 11:21:33
+document_datetime: 2026-01-28 10:00:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/cialis.html
 document_name: cialis.html
 version: success
-processing_time: 0.1226396
-conversion_datetime: 2025-12-30 02:56:25.499762
+processing_time: 0.1353784
+conversion_datetime: 2026-01-29 12:18:32.713087
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.66.0
-  docling-core: 2.57.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.11.0
+  docling-jobkit: 1.9.0
+  docling: 2.70.0
+  docling-core: 2.61.0
+  docling-ibm-models: 3.11.0
+  docling-parse: 4.7.3
   python: cpython-313 (3.13.11)
   plaform: macOS-26.2-arm64-arm-64bit-Mach-O
 ---
@@ -26,8 +26,6 @@ This medicine is authorised for use in the European Union
 
 tadalafil Medicine Human Authorised
 
-On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
-
 Page contents
 
 ## Page contents
@@ -38,6 +36,7 @@ Page contents
 - [Authorisation details](#authorisation-details)
 - [Assessment history](#assessment-history)
 - [News on Cialis](#news-on)
+- [Product information - with tracked changes](#product-information-with-tracked-changes-83199)
 - [More information on Cialis](#related-medicines)
 - [Topics](#topics)
 
@@ -121,7 +120,7 @@ English (EN) (78.39 KB - PDF)
 
 [View](/en/documents/overview/cialis-epar-summary-public_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-205)
+[Other languages (22)](#file-language-dropdown-109)
 
 български (BG) (108.84 KB - PDF)
 
@@ -401,17 +400,17 @@ English (EN) (963.01 KB - PDF)
 
 Cialis : EPAR - Product Information
 
-English (EN) (812.32 KB - PDF)
+English (EN) (799.77 KB - PDF)
 
 **First published:** 13/11/2008
 
-**Last updated:** 20/09/2023
+**Last updated:** 28/01/2026
 
 [View](/en/documents/product-information/cialis-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-595)
+[Other languages (24)](#file-language-dropdown-236)
 
-български (BG) (955.46 KB - PDF)
+български (BG) (1.34 MB - PDF)
 
 **First published:**
 
@@ -419,11 +418,11 @@ English (EN) (812.32 KB - PDF)
 
 **Last updated:**
 
-20/09/2023
+28/01/2026
 
 [View](/bg/documents/product-information/cialis-epar-product-information_bg.pdf)
 
-español (ES) (901.69 KB - PDF)
+español (ES) (1.27 MB - PDF)
 
 **First published:**
 
@@ -431,11 +430,11 @@ español (ES) (901.69 KB - PDF)
 
 **Last updated:**
 
-20/09/2023
+28/01/2026
 
 [View](/es/documents/product-information/cialis-epar-product-information_es.pdf)
 
-čeština (CS) (877.26 KB - PDF)
+čeština (CS) (1.22 MB - PDF)
 
 **First published:**
 
@@ -443,11 +442,11 @@ español (ES) (901.69 KB - PDF)
 
 **Last updated:**
 
-20/09/2023
+28/01/2026
 
 [View](/cs/documents/product-information/cialis-epar-product-information_cs.pdf)
 
-dansk (DA) (756.67 KB - PDF)
+dansk (DA) (1.17 MB - PDF)
 
 **First published:**
 
@@ -455,11 +454,11 @@ dansk (DA) (756.67 KB - PDF)
 
 **Last updated:**
 
-20/09/2023
+28/01/2026
 
 [View](/da/documents/product-information/cialis-epar-product-information_da.pdf)
 
-Deutsch (DE) (935.71 KB - PDF)
+Deutsch (DE) (1.23 MB - PDF)
 
 **First published:**
 
@@ -467,11 +466,11 @@ Deutsch (DE) (935.71 KB - PDF)
 
 **Last updated:**
 
-20/09/2023
+28/01/2026
 
 [View](/de/documents/product-information/cialis-epar-product-information_de.pdf)
 
-eesti keel (ET) (853.51 KB - PDF)
+eesti keel (ET) (1.2 MB - PDF)
 
 **First published:**
 
@@ -479,11 +478,11 @@ eesti keel (ET) (853.51 KB - PDF)
 
 **Last updated:**
 
-20/09/2023
+28/01/2026
 
 [View](/et/documents/product-information/cialis-epar-product-information_et.pdf)
 
-ελληνικά (EL) (1.18 MB - PDF)
+ελληνικά (EL) (950.31 KB - PDF)
 
 **First published:**
 
@@ -491,11 +490,11 @@ eesti keel (ET) (853.51 KB - PDF)
 
 **Last updated:**
 
-20/09/2023
+28/01/2026
 
 [View](/el/documents/product-information/cialis-epar-product-information_el.pdf)
 
-français (FR) (856.9 KB - PDF)
+français (FR) (1.25 MB - PDF)
 
 **First published:**
 
@@ -503,11 +502,11 @@ français (FR) (856.9 KB - PDF)
 
 **Last updated:**
 
-20/09/2023
+28/01/2026
 
 [View](/fr/documents/product-information/cialis-epar-product-information_fr.pdf)
 
-hrvatski (HR) (877.03 KB - PDF)
+hrvatski (HR) (1.21 MB - PDF)
 
 **First published:**
 
@@ -515,11 +514,11 @@ hrvatski (HR) (877.03 KB - PDF)
 
 **Last updated:**
 
-20/09/2023
+28/01/2026
 
 [View](/hr/documents/product-information/cialis-epar-product-information_hr.pdf)
 
-íslenska (IS) (699.15 KB - PDF)
+íslenska (IS) (1.12 MB - PDF)
 
 **First published:**
 
@@ -527,11 +526,11 @@ hrvatski (HR) (877.03 KB - PDF)
 
 **Last updated:**
 
-20/09/2023
+28/01/2026
 
 [View](/is/documents/product-information/cialis-epar-product-information_is.pdf)
 
-italiano (IT) (871.71 KB - PDF)
+italiano (IT) (2.77 MB - PDF)
 
 **First published:**
 
@@ -539,11 +538,11 @@ italiano (IT) (871.71 KB - PDF)
 
 **Last updated:**
 
-20/09/2023
+28/01/2026
 
 [View](/it/documents/product-information/cialis-epar-product-information_it.pdf)
 
-latviešu valoda (LV) (941.88 KB - PDF)
+latviešu valoda (LV) (1.18 MB - PDF)
 
 **First published:**
 
@@ -551,11 +550,11 @@ latviešu valoda (LV) (941.88 KB - PDF)
 
 **Last updated:**
 
-20/09/2023
+28/01/2026
 
 [View](/lv/documents/product-information/cialis-epar-product-information_lv.pdf)
 
-lietuvių kalba (LT) (831.91 KB - PDF)
+lietuvių kalba (LT) (821.62 KB - PDF)
 
 **First published:**
 
@@ -563,11 +562,11 @@ lietuvių kalba (LT) (831.91 KB - PDF)
 
 **Last updated:**
 
-20/09/2023
+28/01/2026
 
 [View](/lt/documents/product-information/cialis-epar-product-information_lt.pdf)
 
-magyar (HU) (901.71 KB - PDF)
+magyar (HU) (799.64 KB - PDF)
 
 **First published:**
 
@@ -575,11 +574,11 @@ magyar (HU) (901.71 KB - PDF)
 
 **Last updated:**
 
-20/09/2023
+28/01/2026
 
 [View](/hu/documents/product-information/cialis-epar-product-information_hu.pdf)
 
-Malti (MT) (931.57 KB - PDF)
+Malti (MT) (1.32 MB - PDF)
 
 **First published:**
 
@@ -587,11 +586,11 @@ Malti (MT) (931.57 KB - PDF)
 
 **Last updated:**
 
-20/09/2023
+28/01/2026
 
 [View](/mt/documents/product-information/cialis-epar-product-information_mt.pdf)
 
-Nederlands (NL) (928.49 KB - PDF)
+Nederlands (NL) (1.25 MB - PDF)
 
 **First published:**
 
@@ -599,11 +598,11 @@ Nederlands (NL) (928.49 KB - PDF)
 
 **Last updated:**
 
-20/09/2023
+28/01/2026
 
 [View](/nl/documents/product-information/cialis-epar-product-information_nl.pdf)
 
-norsk (NO) (715.49 KB - PDF)
+norsk (NO) (676.86 KB - PDF)
 
 **First published:**
 
@@ -611,11 +610,11 @@ norsk (NO) (715.49 KB - PDF)
 
 **Last updated:**
 
-20/09/2023
+28/01/2026
 
 [View](/no/documents/product-information/cialis-epar-product-information_no.pdf)
 
-polski (PL) (955.4 KB - PDF)
+polski (PL) (1.29 MB - PDF)
 
 **First published:**
 
@@ -623,11 +622,11 @@ polski (PL) (955.4 KB - PDF)
 
 **Last updated:**
 
-20/09/2023
+28/01/2026
 
 [View](/pl/documents/product-information/cialis-epar-product-information_pl.pdf)
 
-português (PT) (806.78 KB - PDF)
+português (PT) (1.14 MB - PDF)
 
 **First published:**
 
@@ -635,11 +634,11 @@ português (PT) (806.78 KB - PDF)
 
 **Last updated:**
 
-20/09/2023
+28/01/2026
 
 [View](/pt/documents/product-information/cialis-epar-product-information_pt.pdf)
 
-română (RO) (1005.48 KB - PDF)
+română (RO) (2.49 MB - PDF)
 
 **First published:**
 
@@ -647,11 +646,11 @@ română (RO) (1005.48 KB - PDF)
 
 **Last updated:**
 
-20/09/2023
+28/01/2026
 
 [View](/ro/documents/product-information/cialis-epar-product-information_ro.pdf)
 
-slovenčina (SK) (931.45 KB - PDF)
+slovenčina (SK) (1.3 MB - PDF)
 
 **First published:**
 
@@ -659,11 +658,11 @@ slovenčina (SK) (931.45 KB - PDF)
 
 **Last updated:**
 
-20/09/2023
+28/01/2026
 
 [View](/sk/documents/product-information/cialis-epar-product-information_sk.pdf)
 
-slovenščina (SL) (927.06 KB - PDF)
+slovenščina (SL) (1.35 MB - PDF)
 
 **First published:**
 
@@ -671,11 +670,11 @@ slovenščina (SL) (927.06 KB - PDF)
 
 **Last updated:**
 
-20/09/2023
+28/01/2026
 
 [View](/sl/documents/product-information/cialis-epar-product-information_sl.pdf)
 
-Suomi (FI) (838.09 KB - PDF)
+Suomi (FI) (1.16 MB - PDF)
 
 **First published:**
 
@@ -683,11 +682,11 @@ Suomi (FI) (838.09 KB - PDF)
 
 **Last updated:**
 
-20/09/2023
+28/01/2026
 
 [View](/fi/documents/product-information/cialis-epar-product-information_fi.pdf)
 
-svenska (SV) (829.63 KB - PDF)
+svenska (SV) (1.12 MB - PDF)
 
 **First published:**
 
@@ -695,11 +694,11 @@ svenska (SV) (829.63 KB - PDF)
 
 **Last updated:**
 
-20/09/2023
+28/01/2026
 
 [View](/sv/documents/product-information/cialis-epar-product-information_sv.pdf)
 
-**Latest procedure affecting product information:** PSUSA/00002841/202210 25/08/2023
+**Latest procedure affecting product information:** VR/0000315293 27/01/2026
 
 icon globe
 
@@ -725,7 +724,7 @@ English (EN) (19.9 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/cialis-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-940)
+[Other languages (24)](#file-language-dropdown-259)
 
 български (BG) (131.1 KB - PDF)
 
@@ -1037,9 +1036,9 @@ EMA product number EMEA/H/C/000436 Marketing authorisation holder
 
 Eli Lilly Nederland B.V.
 
-Papendorpseweg 83 3528 BJ Utrecht The Netherlands
+Orteliuslaan 1000 3528 BD Utrecht Netherlands
 
-Opinion adopted 25/07/2002 Marketing authorisation issued 12/11/2002 Revision 33
+Opinion adopted 25/07/2002 Marketing authorisation issued 12/11/2002 Revision 34
 
 ## Assessment history
 
@@ -1051,13 +1050,21 @@ Collapse section
 
 Cialis : EPAR - Procedural steps taken and scientific information after authorisation
 
+English (EN) (128.21 KB - PDF)
+
+**First published:** 28/01/2026
+
+[View](/en/documents/procedural-steps-after/cialis-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf)
+
+Cialis : EPAR - Procedural steps taken and scientific information after authorisation (archive)
+
 English (EN) (309.7 KB - PDF)
 
 **First published:** 13/11/2008
 
-**Last updated:** 11/09/2024
+**Last updated:** 28/01/2026
 
-[View](/en/documents/procedural-steps-after/cialis-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf)
+[View](/en/documents/procedural-steps-after/cialis-epar-procedural-steps-taken-scientific-information-after-authorisation-archive_en.pdf)
 
 Cialis-H-C-PSUSA-00002841-202210 : EPAR - Scientific conclusions and grounds for the variation to the terms of the marketing authorisation
 
@@ -1199,6 +1206,212 @@ English (EN) (92.81 KB - PDF)
 
 [Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 17-20 September 2012](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-17-20-september-2012) 21/09/2012
 
+#### Product information - with tracked changes
+
+The approved product information for this medicine is available below showing the changes since the previous procedure affecting the product information. The same document without tracked changes is above under 'Product information'.
+
+Cialis : EPAR - Product information - tracked changes
+
+English (EN) (228.92 KB - DOCX)
+
+**First published:** 28/01/2026
+
+[View](/en/documents/product-information-tracked-changes/cialis-epar-product-information-tracked-changes_en.docx)
+
+[Other languages (24)](#file-language-dropdown-140)
+
+български (BG) (358.9 KB - DOCX)
+
+**First published:**
+
+28/01/2026
+
+[View](/bg/documents/product-information-tracked-changes/cialis-epar-product-information-tracked-changes_bg.docx)
+
+español (ES) (742 KB - DOC)
+
+**First published:**
+
+28/01/2026
+
+[View](/es/documents/product-information-tracked-changes/cialis-epar-product-information-tracked-changes_es.doc)
+
+čeština (CS) (254.98 KB - DOCX)
+
+**First published:**
+
+28/01/2026
+
+[View](/cs/documents/product-information-tracked-changes/cialis-epar-product-information-tracked-changes_cs.docx)
+
+dansk (DA) (713.5 KB - DOC)
+
+**First published:**
+
+28/01/2026
+
+[View](/da/documents/product-information-tracked-changes/cialis-epar-product-information-tracked-changes_da.doc)
+
+Deutsch (DE) (725 KB - DOC)
+
+**First published:**
+
+28/01/2026
+
+[View](/de/documents/product-information-tracked-changes/cialis-epar-product-information-tracked-changes_de.doc)
+
+eesti keel (ET) (226.52 KB - DOCX)
+
+**First published:**
+
+28/01/2026
+
+[View](/et/documents/product-information-tracked-changes/cialis-epar-product-information-tracked-changes_et.docx)
+
+ελληνικά (EL) (1.03 MB - DOC)
+
+**First published:**
+
+28/01/2026
+
+[View](/el/documents/product-information-tracked-changes/cialis-epar-product-information-tracked-changes_el.doc)
+
+français (FR) (272.99 KB - DOCX)
+
+**First published:**
+
+28/01/2026
+
+[View](/fr/documents/product-information-tracked-changes/cialis-epar-product-information-tracked-changes_fr.docx)
+
+hrvatski (HR) (823.5 KB - DOC)
+
+**First published:**
+
+28/01/2026
+
+[View](/hr/documents/product-information-tracked-changes/cialis-epar-product-information-tracked-changes_hr.doc)
+
+íslenska (IS) (619 KB - DOC)
+
+**First published:**
+
+28/01/2026
+
+[View](/is/documents/product-information-tracked-changes/cialis-epar-product-information-tracked-changes_is.doc)
+
+italiano (IT) (709 KB - DOC)
+
+**First published:**
+
+28/01/2026
+
+[View](/it/documents/product-information-tracked-changes/cialis-epar-product-information-tracked-changes_it.doc)
+
+latviešu valoda (LV) (886 KB - DOC)
+
+**First published:**
+
+28/01/2026
+
+[View](/lv/documents/product-information-tracked-changes/cialis-epar-product-information-tracked-changes_lv.doc)
+
+lietuvių kalba (LT) (239.24 KB - DOCX)
+
+**First published:**
+
+28/01/2026
+
+[View](/lt/documents/product-information-tracked-changes/cialis-epar-product-information-tracked-changes_lt.docx)
+
+magyar (HU) (249.46 KB - DOCX)
+
+**First published:**
+
+28/01/2026
+
+[View](/hu/documents/product-information-tracked-changes/cialis-epar-product-information-tracked-changes_hu.docx)
+
+Malti (MT) (272.95 KB - DOCX)
+
+**First published:**
+
+28/01/2026
+
+[View](/mt/documents/product-information-tracked-changes/cialis-epar-product-information-tracked-changes_mt.docx)
+
+Nederlands (NL) (247.1 KB - DOCX)
+
+**First published:**
+
+28/01/2026
+
+[View](/nl/documents/product-information-tracked-changes/cialis-epar-product-information-tracked-changes_nl.docx)
+
+norsk (NO) (642.5 KB - DOC)
+
+**First published:**
+
+28/01/2026
+
+[View](/no/documents/product-information-tracked-changes/cialis-epar-product-information-tracked-changes_no.doc)
+
+polski (PL) (279.86 KB - DOCX)
+
+**First published:**
+
+28/01/2026
+
+[View](/pl/documents/product-information-tracked-changes/cialis-epar-product-information-tracked-changes_pl.docx)
+
+português (PT) (234.02 KB - DOCX)
+
+**First published:**
+
+28/01/2026
+
+[View](/pt/documents/product-information-tracked-changes/cialis-epar-product-information-tracked-changes_pt.docx)
+
+română (RO) (886 KB - DOC)
+
+**First published:**
+
+28/01/2026
+
+[View](/ro/documents/product-information-tracked-changes/cialis-epar-product-information-tracked-changes_ro.doc)
+
+slovenčina (SK) (257.92 KB - DOCX)
+
+**First published:**
+
+28/01/2026
+
+[View](/sk/documents/product-information-tracked-changes/cialis-epar-product-information-tracked-changes_sk.docx)
+
+slovenščina (SL) (252.56 KB - DOCX)
+
+**First published:**
+
+28/01/2026
+
+[View](/sl/documents/product-information-tracked-changes/cialis-epar-product-information-tracked-changes_sl.docx)
+
+Suomi (FI) (266.93 KB - DOCX)
+
+**First published:**
+
+28/01/2026
+
+[View](/fi/documents/product-information-tracked-changes/cialis-epar-product-information-tracked-changes_fi.docx)
+
+svenska (SV) (645.5 KB - DOC)
+
+**First published:**
+
+28/01/2026
+
+[View](/sv/documents/product-information-tracked-changes/cialis-epar-product-information-tracked-changes_sv.doc)
+
 #### More information on Cialis
 
 - [EMEA-000452-PIP02-10-M06 - paediatric investigation plan](/en/medicines/human/paediatric-investigation-plans/emea-000452-pip02-10-m06)
@@ -1208,7 +1421,7 @@ English (EN) (92.81 KB - PDF)
 
 - [Medicines](https://www.ema.europa.eu/en/search?f%5B0%5D=ema_search_topics%3A61)
 
-**This page was last updated on** 11/09/2024
+**This page was last updated on** 28/01/2026
 
 ## Share this page
 

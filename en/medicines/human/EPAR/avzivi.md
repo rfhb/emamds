@@ -1,18 +1,18 @@
 ---
-document_datetime: 2025-12-29 12:47:46
+document_datetime: 2026-01-27 12:10:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/avzivi.html
 document_name: avzivi.html
 version: success
-processing_time: 0.103475
-conversion_datetime: 2025-12-29 23:12:19.490378
+processing_time: 0.2577723
+conversion_datetime: 2026-01-29 11:41:05.877433
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.66.0
-  docling-core: 2.57.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.11.0
+  docling-jobkit: 1.9.0
+  docling: 2.70.0
+  docling-core: 2.61.0
+  docling-ibm-models: 3.11.0
+  docling-parse: 4.7.3
   python: cpython-313 (3.13.11)
   plaform: macOS-26.2-arm64-arm-64bit-Mach-O
 ---
@@ -25,8 +25,6 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 bevacizumab Medicine Human Authorised
-
-On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -117,7 +115,7 @@ English (EN) (125.61 KB - PDF)
 
 [View](/en/documents/overview/avzivi-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-226)
+[Other languages (22)](#file-language-dropdown-566)
 
 български (BG) (160.4 KB - PDF)
 
@@ -307,207 +305,305 @@ English (EN) (431.34 KB - PDF)
 
 Avzivi : EPAR - Product information
 
-English (EN) (574.4 KB - PDF)
+English (EN) (580.13 KB - PDF)
 
 **First published:** 08/08/2024
 
+**Last updated:** 27/01/2026
+
 [View](/en/documents/product-information/avzivi-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-565)
+[Other languages (24)](#file-language-dropdown-437)
 
-български (BG) (800.64 KB - PDF)
+български (BG) (795.62 KB - PDF)
 
 **First published:**
 
 08/08/2024
+
+**Last updated:**
+
+27/01/2026
 
 [View](/bg/documents/product-information/avzivi-epar-product-information_bg.pdf)
 
-español (ES) (606.77 KB - PDF)
+español (ES) (636 KB - PDF)
 
 **First published:**
 
 08/08/2024
+
+**Last updated:**
+
+27/01/2026
 
 [View](/es/documents/product-information/avzivi-epar-product-information_es.pdf)
 
-čeština (CS) (768.88 KB - PDF)
+čeština (CS) (766.23 KB - PDF)
 
 **First published:**
 
 08/08/2024
+
+**Last updated:**
+
+27/01/2026
 
 [View](/cs/documents/product-information/avzivi-epar-product-information_cs.pdf)
 
-dansk (DA) (573.87 KB - PDF)
+dansk (DA) (578.71 KB - PDF)
 
 **First published:**
 
 08/08/2024
+
+**Last updated:**
+
+27/01/2026
 
 [View](/da/documents/product-information/avzivi-epar-product-information_da.pdf)
 
-Deutsch (DE) (622.38 KB - PDF)
+Deutsch (DE) (617.28 KB - PDF)
 
 **First published:**
 
 08/08/2024
+
+**Last updated:**
+
+27/01/2026
 
 [View](/de/documents/product-information/avzivi-epar-product-information_de.pdf)
 
-eesti keel (ET) (578.34 KB - PDF)
+eesti keel (ET) (572.2 KB - PDF)
 
 **First published:**
 
 08/08/2024
+
+**Last updated:**
+
+27/01/2026
 
 [View](/et/documents/product-information/avzivi-epar-product-information_et.pdf)
 
-ελληνικά (EL) (847.73 KB - PDF)
+ελληνικά (EL) (868.31 KB - PDF)
 
 **First published:**
 
 08/08/2024
+
+**Last updated:**
+
+27/01/2026
 
 [View](/el/documents/product-information/avzivi-epar-product-information_el.pdf)
 
-français (FR) (589.95 KB - PDF)
+français (FR) (655.8 KB - PDF)
 
 **First published:**
 
 08/08/2024
+
+**Last updated:**
+
+27/01/2026
 
 [View](/fr/documents/product-information/avzivi-epar-product-information_fr.pdf)
 
-hrvatski (HR) (751.53 KB - PDF)
+hrvatski (HR) (756.82 KB - PDF)
 
 **First published:**
 
 08/08/2024
+
+**Last updated:**
+
+27/01/2026
 
 [View](/hr/documents/product-information/avzivi-epar-product-information_hr.pdf)
 
-íslenska (IS) (638.26 KB - PDF)
+íslenska (IS) (635.16 KB - PDF)
 
 **First published:**
 
 08/08/2024
+
+**Last updated:**
+
+27/01/2026
 
 [View](/is/documents/product-information/avzivi-epar-product-information_is.pdf)
 
-italiano (IT) (643.27 KB - PDF)
+italiano (IT) (638.12 KB - PDF)
 
 **First published:**
 
 08/08/2024
+
+**Last updated:**
+
+27/01/2026
 
 [View](/it/documents/product-information/avzivi-epar-product-information_it.pdf)
 
-latviešu valoda (LV) (748.28 KB - PDF)
+latviešu valoda (LV) (752.54 KB - PDF)
 
 **First published:**
 
 08/08/2024
+
+**Last updated:**
+
+27/01/2026
 
 [View](/lv/documents/product-information/avzivi-epar-product-information_lv.pdf)
 
-lietuvių kalba (LT) (748.74 KB - PDF)
+lietuvių kalba (LT) (799.66 KB - PDF)
 
 **First published:**
 
 08/08/2024
+
+**Last updated:**
+
+27/01/2026
 
 [View](/lt/documents/product-information/avzivi-epar-product-information_lt.pdf)
 
-magyar (HU) (745 KB - PDF)
+magyar (HU) (738.83 KB - PDF)
 
 **First published:**
 
 08/08/2024
+
+**Last updated:**
+
+27/01/2026
 
 [View](/hu/documents/product-information/avzivi-epar-product-information_hu.pdf)
 
-Malti (MT) (801.09 KB - PDF)
+Malti (MT) (807.78 KB - PDF)
 
 **First published:**
 
 08/08/2024
+
+**Last updated:**
+
+27/01/2026
 
 [View](/mt/documents/product-information/avzivi-epar-product-information_mt.pdf)
 
-Nederlands (NL) (625.56 KB - PDF)
+Nederlands (NL) (618.35 KB - PDF)
 
 **First published:**
 
 08/08/2024
+
+**Last updated:**
+
+27/01/2026
 
 [View](/nl/documents/product-information/avzivi-epar-product-information_nl.pdf)
 
-norsk (NO) (581.85 KB - PDF)
+norsk (NO) (576.47 KB - PDF)
 
 **First published:**
 
 08/08/2024
+
+**Last updated:**
+
+27/01/2026
 
 [View](/no/documents/product-information/avzivi-epar-product-information_no.pdf)
 
-polski (PL) (759.03 KB - PDF)
+polski (PL) (746.9 KB - PDF)
 
 **First published:**
 
 08/08/2024
+
+**Last updated:**
+
+27/01/2026
 
 [View](/pl/documents/product-information/avzivi-epar-product-information_pl.pdf)
 
-português (PT) (617.47 KB - PDF)
+português (PT) (610.91 KB - PDF)
 
 **First published:**
 
 08/08/2024
+
+**Last updated:**
+
+27/01/2026
 
 [View](/pt/documents/product-information/avzivi-epar-product-information_pt.pdf)
 
-română (RO) (819.59 KB - PDF)
+română (RO) (785.72 KB - PDF)
 
 **First published:**
 
 08/08/2024
+
+**Last updated:**
+
+27/01/2026
 
 [View](/ro/documents/product-information/avzivi-epar-product-information_ro.pdf)
 
-slovenčina (SK) (780.11 KB - PDF)
+slovenčina (SK) (785.63 KB - PDF)
 
 **First published:**
 
 08/08/2024
+
+**Last updated:**
+
+27/01/2026
 
 [View](/sk/documents/product-information/avzivi-epar-product-information_sk.pdf)
 
-slovenščina (SL) (764.75 KB - PDF)
+slovenščina (SL) (769.43 KB - PDF)
 
 **First published:**
 
 08/08/2024
+
+**Last updated:**
+
+27/01/2026
 
 [View](/sl/documents/product-information/avzivi-epar-product-information_sl.pdf)
 
-Suomi (FI) (610.8 KB - PDF)
+Suomi (FI) (610 KB - PDF)
 
 **First published:**
 
 08/08/2024
+
+**Last updated:**
+
+27/01/2026
 
 [View](/fi/documents/product-information/avzivi-epar-product-information_fi.pdf)
 
-svenska (SV) (521.65 KB - PDF)
+svenska (SV) (527.16 KB - PDF)
 
 **First published:**
 
 08/08/2024
 
+**Last updated:**
+
+27/01/2026
+
 [View](/sv/documents/product-information/avzivi-epar-product-information_sv.pdf)
 
-26/07/2024
+**Latest procedure affecting product information:** PSUR/0000274402 18/12/2025
 
 icon globe
 
@@ -531,7 +627,7 @@ English (EN) (15.4 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/avzivi-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-630)
+[Other languages (24)](#file-language-dropdown-700)
 
 български (BG) (39.55 KB - PDF)
 
@@ -765,9 +861,33 @@ FGK Representative Service GmbH
 
 Heimeranstr. 35
 
-Opinion adopted 30/05/2024 Marketing authorisation issued 26/07/2024
+Opinion adopted 30/05/2024 Marketing authorisation issued 26/07/2024 Revision 1
 
 ## Assessment history
+
+Expand section
+
+Collapse section
+
+## Changes since initial authorisation of medicine
+
+Avzivi : EPAR - Procedural steps taken and scientific information after authorisation
+
+English (EN) (148.17 KB - PDF)
+
+**First published:** 27/01/2026
+
+[View](/en/documents/procedural-steps-after/avzivi-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf)
+
+Avzivi-PSUSA-00000403-202502 : EPAR - Scientific conclusions and grounds for the variation to the terms of the marketing authorisation
+
+Reference Number: EMADOC-1700519818-2470418
+
+English (EN) (188.83 KB - PDF)
+
+**First published:** 27/01/2026
+
+[View](/en/documents/scientific-conclusion/avzivi-psusa-00000403-202502-epar-scientific-conclusions-grounds-variation-terms-marketing-authorisation_en.pdf)
 
 ## Initial marketing authorisation documents
 
@@ -799,7 +919,7 @@ English (EN) (156.8 KB - PDF)
 
 [Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 27-30 May 2024](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-27-30-may-2024) 31/05/2024
 
-**This page was last updated on** 08/08/2024
+**This page was last updated on** 27/01/2026
 
 ## Share this page
 

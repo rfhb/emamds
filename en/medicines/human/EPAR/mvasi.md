@@ -1,18 +1,18 @@
 ---
-document_datetime: 2025-12-29 08:32:22
+document_datetime: 2026-01-27 11:30:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/mvasi.html
 document_name: mvasi.html
 version: success
-processing_time: 0.12861
-conversion_datetime: 2025-12-29 23:33:50.570896
+processing_time: 0.1297548
+conversion_datetime: 2026-01-29 11:41:20.292053
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.66.0
-  docling-core: 2.57.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.11.0
+  docling-jobkit: 1.9.0
+  docling: 2.70.0
+  docling-core: 2.61.0
+  docling-ibm-models: 3.11.0
+  docling-parse: 4.7.3
   python: cpython-313 (3.13.11)
   plaform: macOS-26.2-arm64-arm-64bit-Mach-O
 ---
@@ -25,8 +25,6 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 bevacizumab Medicine Human Authorised
-
-On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -119,7 +117,7 @@ English (EN) (136.85 KB - PDF)
 
 [View](/en/documents/overview/mvasi-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-50)
+[Other languages (22)](#file-language-dropdown-73)
 
 български (BG) (162.09 KB - PDF)
 
@@ -397,17 +395,17 @@ English (EN) (78.38 KB - PDF)
 
 Mvasi : EPAR - Product Information
 
-English (EN) (726.01 KB - PDF)
+English (EN) (731.05 KB - PDF)
 
 **First published:** 31/01/2018
 
-**Last updated:** 26/11/2025
+**Last updated:** 27/01/2026
 
 [View](/en/documents/product-information/mvasi-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-179)
+[Other languages (24)](#file-language-dropdown-641)
 
-български (BG) (1000.93 KB - PDF)
+български (BG) (1010.34 KB - PDF)
 
 **First published:**
 
@@ -415,11 +413,11 @@ English (EN) (726.01 KB - PDF)
 
 **Last updated:**
 
-26/11/2025
+27/01/2026
 
 [View](/bg/documents/product-information/mvasi-epar-product-information_bg.pdf)
 
-español (ES) (837.88 KB - PDF)
+español (ES) (839.61 KB - PDF)
 
 **First published:**
 
@@ -427,11 +425,11 @@ español (ES) (837.88 KB - PDF)
 
 **Last updated:**
 
-26/11/2025
+27/01/2026
 
 [View](/es/documents/product-information/mvasi-epar-product-information_es.pdf)
 
-čeština (CS) (851.96 KB - PDF)
+čeština (CS) (852.76 KB - PDF)
 
 **First published:**
 
@@ -439,11 +437,11 @@ español (ES) (837.88 KB - PDF)
 
 **Last updated:**
 
-26/11/2025
+27/01/2026
 
 [View](/cs/documents/product-information/mvasi-epar-product-information_cs.pdf)
 
-dansk (DA) (944.17 KB - PDF)
+dansk (DA) (942.79 KB - PDF)
 
 **First published:**
 
@@ -451,11 +449,11 @@ dansk (DA) (944.17 KB - PDF)
 
 **Last updated:**
 
-26/11/2025
+27/01/2026
 
 [View](/da/documents/product-information/mvasi-epar-product-information_da.pdf)
 
-Deutsch (DE) (926.37 KB - PDF)
+Deutsch (DE) (932.37 KB - PDF)
 
 **First published:**
 
@@ -463,11 +461,11 @@ Deutsch (DE) (926.37 KB - PDF)
 
 **Last updated:**
 
-26/11/2025
+27/01/2026
 
 [View](/de/documents/product-information/mvasi-epar-product-information_de.pdf)
 
-eesti keel (ET) (890.91 KB - PDF)
+eesti keel (ET) (895.3 KB - PDF)
 
 **First published:**
 
@@ -475,11 +473,11 @@ eesti keel (ET) (890.91 KB - PDF)
 
 **Last updated:**
 
-26/11/2025
+27/01/2026
 
 [View](/et/documents/product-information/mvasi-epar-product-information_et.pdf)
 
-ελληνικά (EL) (944.67 KB - PDF)
+ελληνικά (EL) (949.84 KB - PDF)
 
 **First published:**
 
@@ -487,11 +485,11 @@ eesti keel (ET) (890.91 KB - PDF)
 
 **Last updated:**
 
-26/11/2025
+27/01/2026
 
 [View](/el/documents/product-information/mvasi-epar-product-information_el.pdf)
 
-français (FR) (875.89 KB - PDF)
+français (FR) (880.54 KB - PDF)
 
 **First published:**
 
@@ -499,11 +497,11 @@ français (FR) (875.89 KB - PDF)
 
 **Last updated:**
 
-26/11/2025
+27/01/2026
 
 [View](/fr/documents/product-information/mvasi-epar-product-information_fr.pdf)
 
-hrvatski (HR) (915.53 KB - PDF)
+hrvatski (HR) (914.98 KB - PDF)
 
 **First published:**
 
@@ -511,11 +509,11 @@ hrvatski (HR) (915.53 KB - PDF)
 
 **Last updated:**
 
-26/11/2025
+27/01/2026
 
 [View](/hr/documents/product-information/mvasi-epar-product-information_hr.pdf)
 
-íslenska (IS) (863.1 KB - PDF)
+íslenska (IS) (869.07 KB - PDF)
 
 **First published:**
 
@@ -523,11 +521,11 @@ hrvatski (HR) (915.53 KB - PDF)
 
 **Last updated:**
 
-26/11/2025
+27/01/2026
 
 [View](/is/documents/product-information/mvasi-epar-product-information_is.pdf)
 
-italiano (IT) (889.08 KB - PDF)
+italiano (IT) (903.56 KB - PDF)
 
 **First published:**
 
@@ -535,11 +533,11 @@ italiano (IT) (889.08 KB - PDF)
 
 **Last updated:**
 
-26/11/2025
+27/01/2026
 
 [View](/it/documents/product-information/mvasi-epar-product-information_it.pdf)
 
-latviešu valoda (LV) (908.86 KB - PDF)
+latviešu valoda (LV) (920.45 KB - PDF)
 
 **First published:**
 
@@ -547,11 +545,11 @@ latviešu valoda (LV) (908.86 KB - PDF)
 
 **Last updated:**
 
-26/11/2025
+27/01/2026
 
 [View](/lv/documents/product-information/mvasi-epar-product-information_lv.pdf)
 
-lietuvių kalba (LT) (923.07 KB - PDF)
+lietuvių kalba (LT) (935.37 KB - PDF)
 
 **First published:**
 
@@ -559,11 +557,11 @@ lietuvių kalba (LT) (923.07 KB - PDF)
 
 **Last updated:**
 
-26/11/2025
+27/01/2026
 
 [View](/lt/documents/product-information/mvasi-epar-product-information_lt.pdf)
 
-magyar (HU) (930.72 KB - PDF)
+magyar (HU) (931.41 KB - PDF)
 
 **First published:**
 
@@ -571,11 +569,11 @@ magyar (HU) (930.72 KB - PDF)
 
 **Last updated:**
 
-26/11/2025
+27/01/2026
 
 [View](/hu/documents/product-information/mvasi-epar-product-information_hu.pdf)
 
-Malti (MT) (1019.15 KB - PDF)
+Malti (MT) (1 MB - PDF)
 
 **First published:**
 
@@ -583,11 +581,11 @@ Malti (MT) (1019.15 KB - PDF)
 
 **Last updated:**
 
-26/11/2025
+27/01/2026
 
 [View](/mt/documents/product-information/mvasi-epar-product-information_mt.pdf)
 
-Nederlands (NL) (831.6 KB - PDF)
+Nederlands (NL) (839.44 KB - PDF)
 
 **First published:**
 
@@ -595,11 +593,11 @@ Nederlands (NL) (831.6 KB - PDF)
 
 **Last updated:**
 
-26/11/2025
+27/01/2026
 
 [View](/nl/documents/product-information/mvasi-epar-product-information_nl.pdf)
 
-norsk (NO) (901.23 KB - PDF)
+norsk (NO) (905.2 KB - PDF)
 
 **First published:**
 
@@ -607,11 +605,11 @@ norsk (NO) (901.23 KB - PDF)
 
 **Last updated:**
 
-26/11/2025
+27/01/2026
 
 [View](/no/documents/product-information/mvasi-epar-product-information_no.pdf)
 
-polski (PL) (940.45 KB - PDF)
+polski (PL) (948.26 KB - PDF)
 
 **First published:**
 
@@ -619,11 +617,11 @@ polski (PL) (940.45 KB - PDF)
 
 **Last updated:**
 
-26/11/2025
+27/01/2026
 
 [View](/pl/documents/product-information/mvasi-epar-product-information_pl.pdf)
 
-português (PT) (888.58 KB - PDF)
+português (PT) (891.89 KB - PDF)
 
 **First published:**
 
@@ -631,11 +629,11 @@ português (PT) (888.58 KB - PDF)
 
 **Last updated:**
 
-26/11/2025
+27/01/2026
 
 [View](/pt/documents/product-information/mvasi-epar-product-information_pt.pdf)
 
-română (RO) (918.26 KB - PDF)
+română (RO) (925.84 KB - PDF)
 
 **First published:**
 
@@ -643,11 +641,11 @@ română (RO) (918.26 KB - PDF)
 
 **Last updated:**
 
-26/11/2025
+27/01/2026
 
 [View](/ro/documents/product-information/mvasi-epar-product-information_ro.pdf)
 
-slovenčina (SK) (920.66 KB - PDF)
+slovenčina (SK) (934.34 KB - PDF)
 
 **First published:**
 
@@ -655,11 +653,11 @@ slovenčina (SK) (920.66 KB - PDF)
 
 **Last updated:**
 
-26/11/2025
+27/01/2026
 
 [View](/sk/documents/product-information/mvasi-epar-product-information_sk.pdf)
 
-slovenščina (SL) (879.4 KB - PDF)
+slovenščina (SL) (884.93 KB - PDF)
 
 **First published:**
 
@@ -667,11 +665,11 @@ slovenščina (SL) (879.4 KB - PDF)
 
 **Last updated:**
 
-26/11/2025
+27/01/2026
 
 [View](/sl/documents/product-information/mvasi-epar-product-information_sl.pdf)
 
-Suomi (FI) (834.17 KB - PDF)
+Suomi (FI) (839.48 KB - PDF)
 
 **First published:**
 
@@ -679,11 +677,11 @@ Suomi (FI) (834.17 KB - PDF)
 
 **Last updated:**
 
-26/11/2025
+27/01/2026
 
 [View](/fi/documents/product-information/mvasi-epar-product-information_fi.pdf)
 
-svenska (SV) (849.63 KB - PDF)
+svenska (SV) (856.01 KB - PDF)
 
 **First published:**
 
@@ -691,11 +689,11 @@ svenska (SV) (849.63 KB - PDF)
 
 **Last updated:**
 
-26/11/2025
+27/01/2026
 
 [View](/sv/documents/product-information/mvasi-epar-product-information_sv.pdf)
 
-**Latest procedure affecting product information:** VR/0000313052 26/11/2025
+**Latest procedure affecting product information:** PSUR/0000274402 19/12/2025
 
 icon globe
 
@@ -721,7 +719,7 @@ English (EN) (44.2 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/mvasi-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-23)
+[Other languages (24)](#file-language-dropdown-322)
 
 български (BG) (49.38 KB - PDF)
 
@@ -1060,7 +1058,7 @@ Amgen Technology (Ireland) UC
 
 Pottery Road
 
-Opinion adopted 08/11/2017 Marketing authorisation issued 15/01/2018 Revision 16
+Opinion adopted 08/11/2017 Marketing authorisation issued 15/01/2018 Revision 18
 
 ## Assessment history
 
@@ -1072,23 +1070,33 @@ Collapse section
 
 Mvasi : EPAR - Procedural steps taken and scientific information after authorisation
 
-English (EN) (151.47 KB - PDF)
+English (EN) (154.75 KB - PDF)
 
 **First published:** 16/10/2025
 
-**Last updated:** 26/11/2025
+**Last updated:** 27/01/2026
 
 [View](/en/documents/procedural-steps-after/mvasi-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf)
 
 Mvasi : EPAR - Procedural steps taken and scientific information after authorisation (archive)
 
-English (EN) (178.46 KB - PDF)
+English (EN) (180.22 KB - PDF)
 
 **First published:** 15/03/2018
 
-**Last updated:** 16/10/2025
+**Last updated:** 27/01/2026
 
 [View](/en/documents/procedural-steps-after/mvasi-epar-procedural-steps-taken-scientific-information-after-authorisation-archive_en.pdf)
+
+Mvasi-PSUSA-00000403-202502 : EPAR - Scientific conclusions and grounds for the variation to the terms of the marketing authorisation
+
+Reference Number: EMADOC-1700519818-2470418
+
+English (EN) (195.54 KB - PDF)
+
+**First published:** 27/01/2026
+
+[View](/en/documents/scientific-conclusion/mvasi-psusa-00000403-202502-epar-scientific-conclusions-grounds-variation-terms-marketing-authorisation_en.pdf)
 
 Mvasi-H-C-PSUSA-00000403-202202 : EPAR - Scientific conclusions and grounds for the variation to the terms of the marketing authorisation
 
@@ -1148,7 +1156,7 @@ English (EN) (227.66 KB - DOCX)
 
 [View](/en/documents/product-information-tracked-changes/mvasi-epar-product-information-tracked-changes_en.docx)
 
-[Other languages (23)](#file-language-dropdown-394)
+[Other languages (23)](#file-language-dropdown-99)
 
 български (BG) (279.88 KB - DOCX)
 
@@ -1344,7 +1352,7 @@ svenska (SV) (231.08 KB - DOCX)
 - [Biosimilars](https://www.ema.europa.eu/en/search?f%5B0%5D=ema_search_topics%3A45)
 - [Medicines](https://www.ema.europa.eu/en/search?f%5B0%5D=ema_search_topics%3A61)
 
-**This page was last updated on** 26/11/2025
+**This page was last updated on** 27/01/2026
 
 ## Share this page
 

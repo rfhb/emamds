@@ -1,18 +1,18 @@
 ---
-document_datetime: 2025-12-29 13:03:50
+document_datetime: 2026-01-26 16:00:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/zegalogue.html
 document_name: zegalogue.html
 version: success
-processing_time: 0.1099762
-conversion_datetime: 2025-12-30 09:25:37.738658
+processing_time: 0.1140254
+conversion_datetime: 2026-01-29 12:14:08.119436
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.66.0
-  docling-core: 2.57.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.11.0
+  docling-jobkit: 1.9.0
+  docling: 2.70.0
+  docling-core: 2.61.0
+  docling-ibm-models: 3.11.0
+  docling-parse: 4.7.3
   python: cpython-313 (3.13.11)
   plaform: macOS-26.2-arm64-arm-64bit-Mach-O
 ---
@@ -25,8 +25,6 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 dasiglucagon Medicine Human Authorised
-
-On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -109,7 +107,7 @@ English (EN) (107.9 KB - PDF)
 
 [View](/en/documents/overview/zegalogue-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-746)
+[Other languages (22)](#file-language-dropdown-341)
 
 български (BG) (132.27 KB - PDF)
 
@@ -299,17 +297,17 @@ English (EN) (599.24 KB - PDF)
 
 Zegalogue : EPAR - Product information
 
-English (EN) (530.36 KB - PDF)
+English (EN) (976.31 KB - PDF)
 
 **First published:** 23/08/2024
 
-**Last updated:** 22/04/2025
+**Last updated:** 26/01/2026
 
 [View](/en/documents/product-information/zegalogue-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-597)
+[Other languages (24)](#file-language-dropdown-134)
 
-български (BG) (701.73 KB - PDF)
+български (BG) (1.04 MB - PDF)
 
 **First published:**
 
@@ -317,11 +315,11 @@ English (EN) (530.36 KB - PDF)
 
 **Last updated:**
 
-22/04/2025
+26/01/2026
 
 [View](/bg/documents/product-information/zegalogue-epar-product-information_bg.pdf)
 
-español (ES) (533.57 KB - PDF)
+español (ES) (973.23 KB - PDF)
 
 **First published:**
 
@@ -329,11 +327,11 @@ español (ES) (533.57 KB - PDF)
 
 **Last updated:**
 
-22/04/2025
+26/01/2026
 
 [View](/es/documents/product-information/zegalogue-epar-product-information_es.pdf)
 
-čeština (CS) (691.55 KB - PDF)
+čeština (CS) (1.05 MB - PDF)
 
 **First published:**
 
@@ -341,11 +339,11 @@ español (ES) (533.57 KB - PDF)
 
 **Last updated:**
 
-22/04/2025
+26/01/2026
 
 [View](/cs/documents/product-information/zegalogue-epar-product-information_cs.pdf)
 
-dansk (DA) (576.74 KB - PDF)
+dansk (DA) (990.1 KB - PDF)
 
 **First published:**
 
@@ -353,11 +351,11 @@ dansk (DA) (576.74 KB - PDF)
 
 **Last updated:**
 
-22/04/2025
+26/01/2026
 
 [View](/da/documents/product-information/zegalogue-epar-product-information_da.pdf)
 
-Deutsch (DE) (572.57 KB - PDF)
+Deutsch (DE) (1003.24 KB - PDF)
 
 **First published:**
 
@@ -365,11 +363,11 @@ Deutsch (DE) (572.57 KB - PDF)
 
 **Last updated:**
 
-22/04/2025
+26/01/2026
 
 [View](/de/documents/product-information/zegalogue-epar-product-information_de.pdf)
 
-eesti keel (ET) (524.17 KB - PDF)
+eesti keel (ET) (957.12 KB - PDF)
 
 **First published:**
 
@@ -377,11 +375,11 @@ eesti keel (ET) (524.17 KB - PDF)
 
 **Last updated:**
 
-22/04/2025
+26/01/2026
 
 [View](/et/documents/product-information/zegalogue-epar-product-information_et.pdf)
 
-ελληνικά (EL) (704.11 KB - PDF)
+ελληνικά (EL) (1.04 MB - PDF)
 
 **First published:**
 
@@ -389,11 +387,11 @@ eesti keel (ET) (524.17 KB - PDF)
 
 **Last updated:**
 
-22/04/2025
+26/01/2026
 
 [View](/el/documents/product-information/zegalogue-epar-product-information_el.pdf)
 
-français (FR) (541.73 KB - PDF)
+français (FR) (982.56 KB - PDF)
 
 **First published:**
 
@@ -401,11 +399,11 @@ français (FR) (541.73 KB - PDF)
 
 **Last updated:**
 
-22/04/2025
+26/01/2026
 
 [View](/fr/documents/product-information/zegalogue-epar-product-information_fr.pdf)
 
-hrvatski (HR) (668.8 KB - PDF)
+hrvatski (HR) (1.06 MB - PDF)
 
 **First published:**
 
@@ -413,11 +411,11 @@ hrvatski (HR) (668.8 KB - PDF)
 
 **Last updated:**
 
-22/04/2025
+26/01/2026
 
 [View](/hr/documents/product-information/zegalogue-epar-product-information_hr.pdf)
 
-íslenska (IS) (565.5 KB - PDF)
+íslenska (IS) (1008.64 KB - PDF)
 
 **First published:**
 
@@ -425,11 +423,11 @@ hrvatski (HR) (668.8 KB - PDF)
 
 **Last updated:**
 
-22/04/2025
+26/01/2026
 
 [View](/is/documents/product-information/zegalogue-epar-product-information_is.pdf)
 
-italiano (IT) (542.7 KB - PDF)
+italiano (IT) (980.08 KB - PDF)
 
 **First published:**
 
@@ -437,11 +435,11 @@ italiano (IT) (542.7 KB - PDF)
 
 **Last updated:**
 
-22/04/2025
+26/01/2026
 
 [View](/it/documents/product-information/zegalogue-epar-product-information_it.pdf)
 
-latviešu valoda (LV) (700.42 KB - PDF)
+latviešu valoda (LV) (1.08 MB - PDF)
 
 **First published:**
 
@@ -449,11 +447,11 @@ latviešu valoda (LV) (700.42 KB - PDF)
 
 **Last updated:**
 
-22/04/2025
+26/01/2026
 
 [View](/lv/documents/product-information/zegalogue-epar-product-information_lv.pdf)
 
-lietuvių kalba (LT) (665.8 KB - PDF)
+lietuvių kalba (LT) (1.03 MB - PDF)
 
 **First published:**
 
@@ -461,11 +459,11 @@ lietuvių kalba (LT) (665.8 KB - PDF)
 
 **Last updated:**
 
-22/04/2025
+26/01/2026
 
 [View](/lt/documents/product-information/zegalogue-epar-product-information_lt.pdf)
 
-magyar (HU) (686.59 KB - PDF)
+magyar (HU) (1.06 MB - PDF)
 
 **First published:**
 
@@ -473,11 +471,11 @@ magyar (HU) (686.59 KB - PDF)
 
 **Last updated:**
 
-22/04/2025
+26/01/2026
 
 [View](/hu/documents/product-information/zegalogue-epar-product-information_hu.pdf)
 
-Malti (MT) (700.31 KB - PDF)
+Malti (MT) (1.11 MB - PDF)
 
 **First published:**
 
@@ -485,11 +483,11 @@ Malti (MT) (700.31 KB - PDF)
 
 **Last updated:**
 
-22/04/2025
+26/01/2026
 
 [View](/mt/documents/product-information/zegalogue-epar-product-information_mt.pdf)
 
-Nederlands (NL) (342.06 KB - PDF)
+Nederlands (NL) (684.09 KB - PDF)
 
 **First published:**
 
@@ -497,11 +495,11 @@ Nederlands (NL) (342.06 KB - PDF)
 
 **Last updated:**
 
-22/04/2025
+26/01/2026
 
 [View](/nl/documents/product-information/zegalogue-epar-product-information_nl.pdf)
 
-norsk (NO) (485.16 KB - PDF)
+norsk (NO) (900.41 KB - PDF)
 
 **First published:**
 
@@ -509,11 +507,11 @@ norsk (NO) (485.16 KB - PDF)
 
 **Last updated:**
 
-22/04/2025
+26/01/2026
 
 [View](/no/documents/product-information/zegalogue-epar-product-information_no.pdf)
 
-polski (PL) (692.03 KB - PDF)
+polski (PL) (1.1 MB - PDF)
 
 **First published:**
 
@@ -521,11 +519,11 @@ polski (PL) (692.03 KB - PDF)
 
 **Last updated:**
 
-22/04/2025
+26/01/2026
 
 [View](/pl/documents/product-information/zegalogue-epar-product-information_pl.pdf)
 
-português (PT) (544.24 KB - PDF)
+português (PT) (981.1 KB - PDF)
 
 **First published:**
 
@@ -533,11 +531,11 @@ português (PT) (544.24 KB - PDF)
 
 **Last updated:**
 
-22/04/2025
+26/01/2026
 
 [View](/pt/documents/product-information/zegalogue-epar-product-information_pt.pdf)
 
-română (RO) (703.53 KB - PDF)
+română (RO) (1.06 MB - PDF)
 
 **First published:**
 
@@ -545,11 +543,11 @@ română (RO) (703.53 KB - PDF)
 
 **Last updated:**
 
-22/04/2025
+26/01/2026
 
 [View](/ro/documents/product-information/zegalogue-epar-product-information_ro.pdf)
 
-slovenčina (SK) (697.36 KB - PDF)
+slovenčina (SK) (1.12 MB - PDF)
 
 **First published:**
 
@@ -557,11 +555,11 @@ slovenčina (SK) (697.36 KB - PDF)
 
 **Last updated:**
 
-22/04/2025
+26/01/2026
 
 [View](/sk/documents/product-information/zegalogue-epar-product-information_sk.pdf)
 
-slovenščina (SL) (685.5 KB - PDF)
+slovenščina (SL) (1.06 MB - PDF)
 
 **First published:**
 
@@ -569,11 +567,11 @@ slovenščina (SL) (685.5 KB - PDF)
 
 **Last updated:**
 
-22/04/2025
+26/01/2026
 
 [View](/sl/documents/product-information/zegalogue-epar-product-information_sl.pdf)
 
-Suomi (FI) (467.78 KB - PDF)
+Suomi (FI) (912.17 KB - PDF)
 
 **First published:**
 
@@ -581,11 +579,11 @@ Suomi (FI) (467.78 KB - PDF)
 
 **Last updated:**
 
-22/04/2025
+26/01/2026
 
 [View](/fi/documents/product-information/zegalogue-epar-product-information_fi.pdf)
 
-svenska (SV) (557.96 KB - PDF)
+svenska (SV) (980.59 KB - PDF)
 
 **First published:**
 
@@ -593,11 +591,11 @@ svenska (SV) (557.96 KB - PDF)
 
 **Last updated:**
 
-22/04/2025
+26/01/2026
 
 [View](/sv/documents/product-information/zegalogue-epar-product-information_sv.pdf)
 
-**Latest procedure affecting product information:** VR/0000263475 22/04/2025
+**Latest procedure affecting product information:** T/0000316252 19/01/2026
 
 icon globe
 
@@ -623,7 +621,7 @@ English (EN) (14.88 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/zegalogue-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-383)
+[Other languages (24)](#file-language-dropdown-68)
 
 български (BG) (37.4 KB - PDF)
 
@@ -935,11 +933,11 @@ This medicine is under additional monitoring, meaning that it is monitored even 
 
 Marketing authorisation holder
 
-Novo Nordisk A/S
+Zealand Pharma A/S
 
-Novo Alle 1 DK-2880 Bagsvaerd Denmark
+Sydmarken 11 2860 Søborg Denmark
 
-Opinion adopted 30/05/2024 Marketing authorisation issued 24/07/2024 Revision 2
+Opinion adopted 30/05/2024 Marketing authorisation issued 24/07/2024 Revision 3
 
 ## Assessment history
 
@@ -951,9 +949,11 @@ Collapse section
 
 Zegalogue : EPAR - Procedural steps taken and scientific information after authorisation
 
-English (EN) (141.8 KB - PDF)
+English (EN) (136.29 KB - PDF)
 
 **First published:** 22/04/2025
+
+**Last updated:** 26/01/2026
 
 [View](/en/documents/procedural-steps-after/zegalogue-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf)
 
@@ -995,7 +995,7 @@ English (EN) (120.23 KB - PDF)
 
 [Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 27-30 May 2024](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-27-30-may-2024) 31/05/2024
 
-**This page was last updated on** 22/04/2025
+**This page was last updated on** 26/01/2026
 
 ## Share this page
 

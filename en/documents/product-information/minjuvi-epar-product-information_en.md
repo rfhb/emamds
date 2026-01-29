@@ -1,17 +1,17 @@
 ---
-document_datetime: 2026-01-14 14:05:49
+document_datetime: 2026-01-27 14:09:43
 document_pages: 37
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/minjuvi-epar-product-information_en.pdf
 document_name: minjuvi-epar-product-information_en.pdf
 version: success
-processing_time: 9.4606082
-conversion_datetime: 2026-01-17 13:32:26.75035
+processing_time: 7.8837223
+conversion_datetime: 2026-01-29 12:43:56.013068
 docling_version:
-  docling-serve: 1.10.0
-  docling-jobkit: 1.8.1
-  docling: 2.68.0
-  docling-core: 2.59.0
-  docling-ibm-models: 3.10.3
+  docling-serve: 1.11.0
+  docling-jobkit: 1.9.0
+  docling: 2.70.0
+  docling-core: 2.61.0
+  docling-ibm-models: 3.11.0
   docling-parse: 4.7.3
   python: cpython-313 (3.13.11)
   plaform: macOS-26.2-arm64-arm-64bit-Mach-O
@@ -661,7 +661,9 @@ No incompatibilities have been observed with standard infusion materials.
 
 ## 6.3 Shelf life
 
-Unopened vial 6 years
+## Unopened vial
+
+5 years
 
 ## Reconstituted solution (prior to dilution)
 
@@ -857,7 +859,7 @@ EU/1/21/1570/001
 
 Lot
 
-14. GENERAL CLASSIFICATION FOR SUPPLY
+## 14. GENERAL CLASSIFICATION FOR SUPPLY
 
 15. INSTRUCTIONS ON USE
 
@@ -871,7 +873,9 @@ Justification for not including Braille accepted.
 
 ## 18. UNIQUE IDENTIFIER - HUMAN READABLE DATA
 
-PC SN
+PC
+
+SN
 
 <div style=\"page-break-after: always\"></div>
 
@@ -1065,9 +1069,9 @@ The recommended dose is 12 mg tafasitamab per kilogram body weight. This is give
 In addition, your doctor will prescribe you:
 
 - a rituximab dose of 375 mg per square meter of body surface. This is given as an infusion into a vein on days 1, 8, 15, and 22 of Cycle 1 and thereafter on day 1 of each cycle from Cycles 2 to 5.
-- lenalidomide capsules for up to twelve cycles.
+- lenalidomide capsules for up to twelve cycles. The recommended starting dose of lenalidomide is 20 mg daily on days 1 to 21 of each cycle. The
 
-The recommended starting dose of lenalidomide is 20 mg daily on days 1 to 21 of each cycle. The doctor adjusts the starting dose and subsequent dosing if needed.
+doctor adjusts the starting dose and subsequent dosing if needed.
 
 After a maximum of five cycles of combination therapy, treatment with rituximab is stopped. After a maximum of twelve cycles, treatment with MINJUVI and lenalidomide is also stopped.
 
@@ -1103,10 +1107,9 @@ Very common (may affect more than 1 in 10 people)
 - bacterial, viral or fungal infections, such as respiratory tract infections, bronchitis, lung inflammation, urinary tract infections
 - rash
 - itching
-- •
-- infusion-related reactions These reactions may occur during infusion of MINJUVI or within 24 hours after infusion.
+- infusion-related reactions
 
-Possible symptoms are fever, chills, flushing or breathing difficulties.
+These reactions may occur during infusion of MINJUVI or within 24 hours after infusion. Possible symptoms are fever, chills, flushing or breathing difficulties.
 
 - low blood potassium level in tests
 - muscle cramps

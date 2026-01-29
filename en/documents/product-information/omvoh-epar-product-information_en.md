@@ -1,20 +1,20 @@
 ---
-document_datetime: 2025-09-03 15:19:19
+document_datetime: 2026-01-28 09:33:24
 document_pages: 180
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/omvoh-epar-product-information_en.pdf
 document_name: omvoh-epar-product-information_en.pdf
 version: success
-processing_time: 49.0235805
-conversion_datetime: 2025-12-17 14:39:14.0176
+processing_time: 39.0010063
+conversion_datetime: 2026-01-29 11:38:13.056026
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.64.1
-  docling-core: 2.55.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.11.0
+  docling-jobkit: 1.9.0
+  docling: 2.70.0
+  docling-core: 2.61.0
+  docling-ibm-models: 3.11.0
+  docling-parse: 4.7.3
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.1-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
 ---
 ## ANNEX I
 
@@ -40,7 +40,7 @@ Mirikizumab is a humanised monoclonal antibody produced in Chinese Hamster Ovary
 
 ## Excipients with known effect
 
-Each 15 mL vial contains approximately 60 mg sodium.
+Each 15 mL vial contains approximately 18 mg sodium.
 
 For the full list of excipients, see section 6.1.
 
@@ -177,13 +177,13 @@ Prior to initiating therapy with mirikizumab, completion of all appropriate immu
 
 ## Ulcerative colitis
 
-This medicinal product contains 60 mg sodium per 300 mg dose, equivalent to 3 % of the WHO recommended maximum daily intake of 2 g sodium for an adult.
+This medicinal product contains less than 1 mmol sodium (23 mg) per 300 mg dose, that is to say essentially 'sodium-free'.
 
 If prepared with sodium chloride 9 mg/mL (0.9 %) solution for injection, the amount of sodium contributed by the sodium chloride diluent will range from 177 mg (for a 50 mL bag) to 885 mg (for a 250 mL bag), equivalent to 9-44 % of the WHO recommended maximum daily intake. This is in addition to the amount contributed by the medicinal product.
 
 ## Crohn's disease
 
-This medicinal product contains 180 mg sodium per 900 mg dose, equivalent to 9 % of the WHO recommended maximum daily intake of 2 g sodium for an adult.
+This medicinal product contains  approximately 54 mg sodium per 900 mg dose, equivalent to 2.7 % of the WHO recommended maximum daily intake of 2 g sodium for an adult.
 
 If prepared with sodium chloride 9 mg/mL (0.9 %) solution for injection, the amount of sodium contributed by the sodium chloride diluent will range from 195 mg (for a 100 mL bag) to 726 mg (for a 250 mL bag), equivalent to 10-36 % of the WHO recommended maximum daily intake. This is in addition to the amount contributed by the medicinal product.
 
@@ -249,14 +249,6 @@ Table 1: Adverse reactions
 | General disorders and administration site conditions | Uncommon    | Infusion site reactions d                   |
 | Investigations                                       | Uncommon    | Alanine aminotransferase increased          |
 | Investigations                                       | Uncommon    | Aspartate aminotransferase increased        |
-
-a Includes: acute sinusitis, COVID-19, nasopharyngitis, oropharyngeal discomfort, oropharyngeal pain, pharyngitis, rhinitis, sinusitis, tonsillitis, upper respiratory tract infection, and viral upper respiratory tract infection.
-
-b Includes: rash, rash macular, rash maculo-papular, and rash papular and rash pruritic.
-
-c Reported during mirikizumab maintenance therapy where mirikizumab treatment is administered as subcutaneous injection.
-
-d Reported during mirikizumab induction therapy where mirikizumab treatment is administered as intravenous infusion.
 
 ## Description of selected adverse reactions
 
@@ -669,7 +661,7 @@ No reproductive organ weight or histopathology effects were observed in sexually
 
 ## 6.1 List of excipients
 
-Sodium citrate dihydrate (E 331) Citric acid, anhydrous (E 330) Sodium chloride Polysorbate 80 (E 433) Water for injections
+Histidine Histidine hydrochloride monohydrate Mannitol (E421) Sodium citrate dihydrate (E 331) Citric acid, anhydrous (E 330) Sodium chloride
 
 <div style=\"page-break-after: always\"></div>
 
@@ -685,9 +677,7 @@ Omvoh should not be administered concomitantly in the same intravenous line with
 
 ## After dilution
 
-Chemical and physical in-use stability has been demonstrated for diluted infusion solution prepared with sodium chloride 9 mg/mL (0.9 %) solution for 96 hours at 2 °C to 8 °C of which not more than 10 hours are permitted at non-refrigerated temperatures not to exceed 25 ºC, starting from the time of vial puncture.
-
-Chemical and physical in-use stability has been demonstrated for diluted infusion solution prepared with 5 % glucose for 48 hours at 2 °C to 8 °C of which not more than 5 hours are permitted at nonrefrigerated temperatures not to exceed 25 °C, starting from the time of vial puncture.
+Chemical and physical in-use stability has been demonstrated for diluted infusion solution prepared either with sodium chloride 9 mg/mL (0.9 %) solution or with 5 % glucose for 96 hours at 2 °C to 8 °C, of which not more than 10 hours are permitted at non-refrigerated temperatures not to exceed 25 ºC, starting from the time of vial puncture.
 
 From a microbiological point of view, the product should be used immediately. If not used immediately, in-use storage times and conditions prior to use are the responsibility of the user and would normally not be longer than 24 hours at 2 to 8 °C, unless dilution has taken place in controlled and validated aseptic conditions.
 
@@ -736,7 +726,7 @@ The final concentration after dilution is approximately 3.6 mg/mL to approximate
 
 ## 7. MARKETING AUTHORISATION HOLDER
 
-Eli Lilly Nederland B.V. Papendorpseweg 83 3528 BJ Utrecht The Netherlands
+Eli Lilly Nederland B.V. Orteliuslaan 1000 3528 BD Utrecht The Netherlands
 
 ## 8. MARKETING AUTHORISATION NUMBER(S)
 
@@ -984,14 +974,6 @@ Table 1: Adverse reactions
 | General disorders and administration site conditions | Uncommon    | Infusion site reactions d                   |
 | Investigations                                       | Uncommon    | Alanine aminotransferase increased          |
 | Investigations                                       | Uncommon    | Aspartate aminotransferase increased        |
-
-a Includes: acute sinusitis, COVID-19, nasopharyngitis, oropharyngeal discomfort, oropharyngeal pain, pharyngitis, rhinitis, sinusitis, tonsillitis, upper respiratory tract infection, and viral upper respiratory tract infection.
-
-b Includes: rash, rash macular, rash maculo-papular, and rash papular and rash pruritic.
-
-c Reported during mirikizumab maintenance therapy where mirikizumab treatment is administered as subcutaneous injection.
-
-d Reported during mirikizumab induction therapy where mirikizumab treatment is administered as intravenous infusion .
 
 ## Description of selected adverse reactions
 
@@ -1510,7 +1492,7 @@ Any unused medicinal product or waste material should be disposed of in accordan
 
 ## 7. MARKETING AUTHORISATION HOLDER
 
-Eli Lilly Nederland B.V. Papendorpseweg 83 3528 BJ Utrecht The Netherlands.
+Eli Lilly Nederland B.V. Orteliuslaan 1000 3528 BD Utrecht The Netherlands.
 
 <div style=\"page-break-after: always\"></div>
 
@@ -1639,7 +1621,7 @@ Each vial contains 300 mg of mirikizumab in 15 mL (20 mg/mL).
 
 ## 3. LIST OF EXCIPIENTS
 
-Excipients: sodium citrate dihydrate (E 331); citric acid, anhydrous (E 330); sodium chloride; polysorbate 80 (E 433); water for injections. See leaflet for further information.
+Excipients: histidine; histidine hydrochloride monohydrate; mannitol (E421); sodium citrate dihydrate (E 331); citric acid, anhydrous (E 330); sodium chloride; polysorbate 80 (E 433); water for injections. See leaflet for further information.
 
 ## 4. PHARMACEUTICAL FORM AND CONTENTS
 
@@ -1683,7 +1665,7 @@ Keep the vial in the outer carton in order to protect from light
 
 Eli Lilly Nederland B.V.,
 
-Papendorpseweg 83, 3528 BJ Utrecht,
+Orteliuslaan 1000, 3528 BD Utrecht,
 
 The Netherlands
 
@@ -1731,7 +1713,7 @@ Each vial contains 300 mg of mirikizumab in 15 mL (20 mg/mL).
 
 ## 3. LIST OF EXCIPIENTS
 
-Excipients: sodium citrate dihydrate (E 331); citric acid, anhydrous (E 330); sodium chloride; polysorbate 80 (E 433); water for injections. See leaflet for further information.
+Excipients: histidine; histidine hydrochloride monohydrate; mannitol (E421); sodium citrate dihydrate (E 331); citric acid, anhydrous (E 330); sodium chloride; polysorbate 80 (E 433); water for injections. See leaflet for further information.
 
 ## 4. PHARMACEUTICAL FORM AND CONTENTS
 
@@ -1773,9 +1755,7 @@ Keep the vial in the outer carton in order to protect from light.
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
-Eli Lilly Nederland B.V., Papendorpseweg 83, 3528 BJ Utrecht,
-
-The Netherlands
+Eli Lilly Nederland B.V., Orteliuslaan 1000, 3528 BD Utrecht, The Netherlands
 
 ## 12. MARKETING AUTHORISATION NUMBER(S)
 
@@ -1821,11 +1801,11 @@ Each vial contains 300 mg of mirikizumab in 15 mL (20 mg/mL).
 
 ## 3. LIST OF EXCIPIENTS
 
-Excipients: sodium citrate dihydrate (E 331); citric acid, anhydrous (E 330); sodium chloride; polysorbate 80 (E 433); water for injections. See leaflet for further information.
+Excipients: histidine; histidine hydrochloride monohydrate; mannitol (E421); sodium citrate dihydrate (E 331); citric acid, anhydrous (E 330); sodium chloride; polysorbate 80 (E 433); water for injections. See leaflet for further information.
 
 ## 4. PHARMACEUTICAL FORM AND CONTENTS
 
-Concentrate for solution for infusion
+## Concentrate for solution for infusion
 
 300 mg/15 mL
 
@@ -1865,7 +1845,7 @@ Keep the vial in the outer carton in order to protect from light.
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
-Eli Lilly Nederland B.V., Papendorpseweg 83, 3528 BJ Utrecht, The Netherlands
+Eli Lilly Nederland B.V., Orteliuslaan 1000, 3528 BD Utrecht, The Netherlands
 
 ## 12. MARKETING AUTHORISATION NUMBER(S)
 
@@ -1967,7 +1947,7 @@ Store in the original package in order to protect from light.
 
 Eli Lilly Nederland B.V.,
 
-Papendorpseweg 83, 3528 BJ Utrecht,
+Orteliuslaan 1000, 3528 BD Utrecht,
 
 The Netherlands
 
@@ -1981,7 +1961,7 @@ Lot
 
 ## 14. GENERAL CLASSIFICATION FOR SUPPLY
 
-15. INSTRUCTIONS ON USE
+## 15. INSTRUCTIONS ON USE
 
 ## 16. INFORMATION IN BRAILLE
 
@@ -2055,11 +2035,15 @@ Store in the original package in order to protect from light.
 
 <div style=\"page-break-after: always\"></div>
 
-## 10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
+| 10.   | SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS   |
+|-------|-----------------------------------------------------------------|
+
+| 11.   | NAMEANDADDRESS OF THE MARKETING AUTHORISATION HOLDER   |
+|-------|--------------------------------------------------------|
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
-Eli Lilly Nederland B.V., Papendorpseweg 83, 3528 BJ Utrecht,
+Eli Lilly Nederland B.V., Orteliuslaan 1000, 3528 BD Utrecht,
 
 The Netherlands
 
@@ -2081,7 +2065,7 @@ Omvoh 100 mg
 
 ## 17. UNIQUE IDENTIFIER - 2D BARCODE
 
-- 2D barcode carrying the unique identifier included.
+2D barcode carrying the unique identifier included.
 
 ## 18. UNIQUE IDENTIFIER - HUMAN READABLE DATA
 
@@ -2149,7 +2133,7 @@ Store in the original package in order to protect from light.
 
 Eli Lilly Nederland B.V.,
 
-Papendorpseweg 83, 3528 BJ Utrecht,
+Orteliuslaan 1000, 3528 BD Utrecht,
 
 The Netherlands
 
@@ -2161,7 +2145,7 @@ EU/1/23/1736/003
 
 Lot
 
-14. GENERAL CLASSIFICATION FOR SUPPLY
+## 14. GENERAL CLASSIFICATION FOR SUPPLY
 
 15. INSTRUCTIONS ON USE
 
@@ -2259,7 +2243,7 @@ Store in the original package in order to protect from light.
 
 Eli Lilly Nederland B.V.,
 
-Papendorpseweg 83, 3528 BJ Utrecht,
+Orteliuslaan 1000, 3528 BD Utrecht,
 
 The Netherlands
 
@@ -2273,7 +2257,7 @@ Lot
 
 ## 14. GENERAL CLASSIFICATION FOR SUPPLY
 
-15. INSTRUCTIONS ON USE
+## 15. INSTRUCTIONS ON USE
 
 ## 16. INFORMATION IN BRAILLE
 
@@ -2349,9 +2333,12 @@ Store in the original package in order to protect from light.
 
 ## 10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
 
+| 11.   | NAMEANDADDRESS OF THE MARKETING AUTHORISATION HOLDER   |
+|-------|--------------------------------------------------------|
+
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
-Eli Lilly Nederland B.V., Papendorpseweg 83, 3528 BJ Utrecht,
+Eli Lilly Nederland B.V., Orteliuslaan 1000, 3528 BD Utrecht,
 
 The Netherlands
 
@@ -2373,7 +2360,7 @@ Omvoh 200 mg
 
 ## 17. UNIQUE IDENTIFIER - 2D BARCODE
 
-- 2D barcode carrying the unique identifier included.
+2D barcode carrying the unique identifier included.
 
 ## 18. UNIQUE IDENTIFIER - HUMAN READABLE DATA
 
@@ -2443,7 +2430,7 @@ Store in the original package in order to protect from light.
 
 Eli Lilly Nederland B.V.,
 
-Papendorpseweg 83, 3528 BJ Utrecht,
+Orteliuslaan 1000, 3528 BD Utrecht,
 
 The Netherlands
 
@@ -2455,7 +2442,8 @@ EU/1/23/1736/013
 
 Lot
 
-14. GENERAL CLASSIFICATION FOR SUPPLY
+## 14. GENERAL CLASSIFICATION FOR SUPPLY
+
 15. INSTRUCTIONS ON USE
 
 ## 16. INFORMATION IN BRAILLE
@@ -2560,7 +2548,7 @@ Store in the original package in order to protect from light.
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
-Eli Lilly Nederland B.V., Papendorpseweg 83, 3528 BJ Utrecht, The Netherlands
+Eli Lilly Nederland B.V., Orteliuslaan 1000, 3528 BD Utrecht, The Netherlands
 
 ## 12. MARKETING AUTHORISATION NUMBER(S)
 
@@ -2657,9 +2645,7 @@ Store in the original package in order to protect from light.
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
-Eli Lilly Nederland B.V., Papendorpseweg 83, 3528 BJ Utrecht,
-
-The Netherlands
+Eli Lilly Nederland B.V., Orteliuslaan 1000, 3528 BD Utrecht, The Netherlands
 
 ## 12. MARKETING AUTHORISATION NUMBER(S)
 
@@ -2759,11 +2745,7 @@ Store in the original package in order to protect from light.
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
-Eli Lilly Nederland B.V.,
-
-Papendorpseweg 83, 3528 BJ Utrecht,
-
-The Netherlands
+Eli Lilly Nederland B.V., Orteliuslaan 1000, 3528 BD Utrecht, The Netherlands
 
 ## 12. MARKETING AUTHORISATION NUMBER(S)
 
@@ -2785,7 +2767,7 @@ Omvoh 200 mg
 
 17. UNIQUE IDENTIFIER - 2D BARCODE
 
-18. UNIQUE IDENTIFIER - HUMAN READABLE DATA
+## 18. UNIQUE IDENTIFIER - HUMAN READABLE DATA
 
 <div style=\"page-break-after: always\"></div>
 
@@ -2793,9 +2775,7 @@ Omvoh 200 mg
 
 ## MINIMUM PARTICULARS TO APPEAR ON SMALL IMMEDIATE PACKAGING UNITS PRE-FILLED SYRINGE LABEL 100 mg
 
-1.
-
-NAME OF THE MEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION
+## 1. NAME OF THE MEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION
 
 Omvoh 100 mg injection mirikizumab SC
 
@@ -2910,7 +2890,7 @@ Store in the original package in order to protect from light.
 
 Eli Lilly Nederland B.V.,
 
-Papendorpseweg 83, 3528 BJ Utrecht,
+Orteliuslaan 1000, 3528 BD Utrecht,
 
 The Netherlands
 
@@ -2924,7 +2904,7 @@ Lot
 
 ## 14. GENERAL CLASSIFICATION FOR SUPPLY
 
-15. INSTRUCTIONS ON USE
+## 15. INSTRUCTIONS ON USE
 
 ## 16. INFORMATION IN BRAILLE
 
@@ -3002,9 +2982,7 @@ Store in the original package in order to protect from light.
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
-Eli Lilly Nederland B.V.,
-
-Papendorpseweg 83, 3528 BJ Utrecht,
+Eli Lilly Nederland B.V., Orteliuslaan 1000, 3528 BD Utrecht,
 
 The Netherlands
 
@@ -3098,11 +3076,7 @@ Store in the original package in order to protect from light.
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
-Eli Lilly Nederland B.V.,
-
-Papendorpseweg 83, 3528 BJ Utrecht,
-
-The Netherlands
+Eli Lilly Nederland B.V., Orteliuslaan 1000, 3528 BD Utrecht, The Netherlands
 
 ## 12. MARKETING AUTHORISATION NUMBER(S)
 
@@ -3214,7 +3188,7 @@ Store in the original package in order to protect from light.
 
 Eli Lilly Nederland B.V.,
 
-Papendorpseweg 83, 3528 BJ Utrecht,
+Orteliuslaan 1000, 3528 BD Utrecht,
 
 The Netherlands
 
@@ -3228,7 +3202,7 @@ Lot
 
 ## 14. GENERAL CLASSIFICATION FOR SUPPLY
 
-15. INSTRUCTIONS ON USE
+## 15. INSTRUCTIONS ON USE
 
 ## 16. INFORMATION IN BRAILLE
 
@@ -3304,9 +3278,12 @@ Store in the original package in order to protect from light.
 
 ## 10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
 
+| 11.   | NAMEANDADDRESS OF THE MARKETING AUTHORISATION HOLDER   |
+|-------|--------------------------------------------------------|
+
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
-Eli Lilly Nederland B.V., Papendorpseweg 83, 3528 BJ Utrecht,
+Eli Lilly Nederland B.V., Orteliuslaan 1000, 3528 BD Utrecht,
 
 The Netherlands
 
@@ -3328,7 +3305,7 @@ Omvoh 200 mg
 
 ## 17. UNIQUE IDENTIFIER - 2D BARCODE
 
-- 2D barcode carrying the unique identifier included.
+2D barcode carrying the unique identifier included.
 
 ## 18. UNIQUE IDENTIFIER - HUMAN READABLE DATA
 
@@ -3378,8 +3355,6 @@ Keep out of the sight and reach of children.
 
 ## 7. OTHER SPECIAL WARNING(S), IF NECESSARY
 
-<div style=\"page-break-after: always\"></div>
-
 ## 8. EXPIRY DATE
 
 EXP
@@ -3398,7 +3373,7 @@ Store in the original package in order to protect from light.
 
 Eli Lilly Nederland B.V.,
 
-Papendorpseweg 83, 3528 BJ Utrecht,
+Orteliuslaan 1000, 3528 BD Utrecht,
 
 The Netherlands
 
@@ -3410,7 +3385,8 @@ EU/1/23/1736/015
 
 Lot
 
-14. GENERAL CLASSIFICATION FOR SUPPLY
+## 14. GENERAL CLASSIFICATION FOR SUPPLY
+
 15. INSTRUCTIONS ON USE
 
 ## 16. INFORMATION IN BRAILLE
@@ -3418,7 +3394,10 @@ Lot
 Omvoh 200 mg
 
 17. UNIQUE IDENTIFIER - 2D BARCODE
+
 18. UNIQUE IDENTIFIER - HUMAN READABLE DATA
+
+<div style=\"page-break-after: always\"></div>
 
 <div style=\"page-break-after: always\"></div>
 
@@ -3512,11 +3491,7 @@ Store in the original package in order to protect from light.
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
-Eli Lilly Nederland B.V.,
-
-Papendorpseweg 83, 3528 BJ Utrecht,
-
-The Netherlands
+Eli Lilly Nederland B.V., Orteliuslaan 1000, 3528 BD Utrecht, The Netherlands
 
 ## 12. MARKETING AUTHORISATION NUMBER(S)
 
@@ -3528,7 +3503,7 @@ Lot
 
 ## 14. GENERAL CLASSIFICATION FOR SUPPLY
 
-15. INSTRUCTIONS ON USE
+## 15. INSTRUCTIONS ON USE
 
 ## 16. INFORMATION IN BRAILLE
 
@@ -3613,9 +3588,7 @@ Store in the original package in order to protect from light.
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
-Eli Lilly Nederland B.V., Papendorpseweg 83, 3528 BJ Utrecht,
-
-The Netherlands
+Eli Lilly Nederland B.V., Orteliuslaan 1000, 3528 BD Utrecht, The Netherlands
 
 ## 12. MARKETING AUTHORISATION NUMBER(S)
 
@@ -3711,11 +3684,11 @@ Do not freeze.
 
 Store in the original package in order to protect from light.
 
-10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
+## 10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
-Eli Lilly Nederland B.V., Papendorpseweg 83, 3528 BJ Utrecht, The Netherlands
+Eli Lilly Nederland B.V., Orteliuslaan 1000, 3528 BD Utrecht, The Netherlands
 
 ## 12. MARKETING AUTHORISATION NUMBER(S)
 
@@ -3729,7 +3702,7 @@ Lot
 
 15. INSTRUCTIONS ON USE
 
-16. INFORMATION IN BRAILLE
+## 16. INFORMATION IN BRAILLE
 
 Omvoh 100 mg
 
@@ -3926,9 +3899,9 @@ Omvoh is unlikely to influence your ability to drive and use machines.
 
 ## Omvoh contains sodium
 
-This medicine contains 60 mg sodium (main component of cooking/table salt) in each 300 mg dose for the treatment of ulcerative colitis. This is equivalent to 3 % of the recommended maximum daily dietary intake of sodium for an adult.
+This medicine contains less than 1 mmol sodium (23 mg) in each 300 mg dose for the treatment of ulcerative colitis, that is to say essentially 'sodium-free'.
 
-This medicine contains 180 mg sodium (main component of cooking/table salt) in each 900 mg dose for the treatment of Crohn's disease. This is equivalent to 9 % of the recommended maximum daily dietary intake of sodium for an adult.
+This medicine contains approximately 54 mg sodium (main component of cooking/table salt) in each 900 mg dose for the treatment of Crohn's disease. This is equivalent to 2.7 % of the recommended maximum daily dietary intake of sodium for an adult.
 
 Before Omvoh is given to you, it is mixed with a solution that might contain sodium. Talk to your doctor if you are on a low salt diet.
 
@@ -4027,7 +4000,7 @@ Do not throw away any medicines via wastewater. Ask your doctor, nurse or pharma
 
 ## Diluted solution
 
-It is recommended to start the infusion immediately after dilution. If not immediately used, the diluted solution prepared with sodium chloride 9 mg/mL (0.9 %) solution for injection may be stored refrigerated (2 ºC - 8 ºC) for not more than 96 hours or at room temperature not exceeding 25 ºC for not more than 10 hours (total time must not exceed 96 hours) starting from the time of vial puncture. The diluted infusion solution prepared with 5 % glucose must be used within 48 hours, of which not more than 5 hours are permitted at nonrefrigerated temperature not to exceed 25 °C, starting at the time of vial puncture.
+It is recommended to start the infusion immediately after dilution. If not immediately used, the diluted solution prepared either with sodium chloride 9 mg/mL (0.9 %) solution for injection or with 5 % glucose may be stored refrigerated (2 ºC - 8 ºC) for not more than 96 hours, of which not more than 10 hours are permitted at non-refrigerated temperatures not to exceed 25 ºC, starting from the time of vial puncture.
 
 From a microbiological point of view, the product should be used immediately. If not used immediately, in-use storage times and conditions prior to use are the responsibility of the user and would normally not be longer than 24 hours at 2 to 8 °C, unless dilution has taken place in controlled and validated aseptic conditions.
 
@@ -4043,7 +4016,7 @@ Keep the diluted solution away from direct heat or light. Do not freeze the dilu
 
 Each vial contains 300 mg mirikizumab in 15 mL (20 mg/mL).
 
-- -The other ingredients are sodium citrate dihydrate (E 331); citric acid, anhydrous (E 330); sodium chloride; polysorbate 80 (E 433); water for injections.
+- -The other ingredients are histidine; histidine hydrochloride monohydrate; mannitol (E421); sodium citrate dihydrate (E 331); citric acid, anhydrous (E 330); sodium chloride; polysorbate 80 (E 433); water for injections.
 
 <div style=\"page-break-after: always\"></div>
 
@@ -4055,7 +4028,7 @@ Pack sizes of 1 vial and 3 vials. Not all pack sizes may be marketed.
 
 ## Marketing Authorisation Holder
 
-Eli Lilly Nederland B.V. Papendorpseweg 83 3528 BJ Utrecht The Netherlands
+Eli Lilly Nederland B.V. Orteliuslaan 1000 3528 BD Utrecht The Netherlands
 
 ## Manufacturer
 
@@ -4514,7 +4487,7 @@ Not all pack sizes may be marketed.
 
 ## Marketing Authorisation Holder
 
-Eli Lilly Nederland B.V. Papendorpseweg 83 3528 BJ Utrecht The Netherlands
+Eli Lilly Nederland B.V. Orteliuslaan 1000 3528 BD Utrecht The Netherlands
 
 ## Manufacturer
 
@@ -4888,9 +4861,9 @@ A. When your injection is complete:
 
 ## Read the full package leaflet for Omvoh inside this box to learn more about your medicine. Last revised in
 
-## Package leaflet: Information for the patient
-
 <div style=\"page-break-after: always\"></div>
+
+## Package leaflet: Information for the patient
 
 ## Omvoh 200 mg solution for injection in pre-filled syringe
 
@@ -5111,7 +5084,9 @@ Omvoh is available in packs containing 1 pre-filled syringe of 200 mg and in mul
 
 ## Marketing Authorisation Holder
 
-Eli Lilly Nederland B.V. Papendorpseweg 83 3528 BJ Utrecht The Netherlands
+Eli Lilly Nederland B.V. Orteliuslaan 1000 3528 BD Utrecht
+
+The Netherlands
 
 ## Manufacturer
 
@@ -5705,7 +5680,7 @@ Omvoh is available in packs containing 2 pre-filled syringes and in multipacks c
 
 ## Marketing Authorisation Holder
 
-Eli Lilly Nederland B.V. Papendorpseweg 83 3528 BJ Utrecht The Netherlands
+Eli Lilly Nederland B.V. Orteliuslaan 1000 3528 BD Utrecht The Netherlands
 
 ## Manufacturer
 
@@ -6307,7 +6282,7 @@ Omvoh is available in packs containing 2 pre-filled pens of 100 mg, in multipack
 
 ## Marketing Authorisation Holder
 
-Eli Lilly Nederland B.V. Papendorpseweg 83 3528 BJ Utrecht The Netherlands
+Eli Lilly Nederland B.V. Orteliuslaan 1000 3528 BD Utrecht The Netherlands
 
 ## Manufacturer
 
@@ -6911,7 +6886,7 @@ Omvoh is available in packs containing 1 pre-filled pen of 200 mg and in multipa
 
 ## Marketing Authorisation Holder
 
-Eli Lilly Nederland B.V. Papendorpseweg 83 3528 BJ Utrecht The Netherlands
+Eli Lilly Nederland B.V. Orteliuslaan 1000 3528 BD Utrecht The Netherlands
 
 ## Manufacturer
 
@@ -7506,7 +7481,7 @@ Not all pack sizes may be marketed.
 
 ## Marketing Authorisation Holder
 
-Eli Lilly Nederland B.V. Papendorpseweg 83 3528 BJ Utrecht The Netherlands
+Eli Lilly Nederland B.V. Orteliuslaan 1000 3528 BD Utrecht The Netherlands
 
 ## Manufacturer
 
@@ -7586,7 +7561,7 @@ Tel: +372 6 817 280
 
 ## Ελλάδα
 
-ΦΑΡΜΑΣΕΡΒ -ΛΙΛΛΥ Α.Ε.Β.Ε.
+ΦΑΡΜΑΣΕΡΒ - ΛΙΛΛΥ Α.Ε.Β.Ε.
 
 Τηλ: +30 210 629 4600
 
@@ -7815,7 +7790,7 @@ Leave the grey base cap on until you are ready to inject.
 
 <!-- image -->
 
-Keep the base on your skin and turn the lock ring to the unlock position.
+Keep the base on your skin and turn the lock ring to the unlock position. 了
 
 ## 3 Press and Hold for up to 15 Seconds
 
@@ -7824,9 +7799,6 @@ Keep the base on your skin and turn the lock ring to the unlock position.
 - You will know the injection is complete when the grey plunger is visible.
 - Remove the pen from your skin.
 - If you have bleeding at the injection site, press a cotton ball or gauze over the injection site.
-- Do not rub the injection site.
-
-2 injections are required for a full dose. Inject one pen immediately followed by the other pen.
 
 <!-- image -->
 
@@ -7837,6 +7809,10 @@ Keep the base on your skin and turn the lock ring to the unlock position.
 <!-- image -->
 
 <div style=\"page-break-after: always\"></div>
+
+- Do not rub the injection site.
+
+2 injections are required for a full dose. Inject one pen immediately followed by the other pen.
 
 ## Disposing of Omvoh pens
 
@@ -7859,11 +7835,11 @@ Keep the base on your skin and turn the lock ring to the unlock position.
 
 ## Q. What if I let my pens warm up for longer than 45 minutes before injecting?
 
-A. Your pen can stay at room temperature up to 30 °C for up to 2 weeks.
+- A. Your pen can stay at room temperature up to 30 °C for up to 2 weeks.
 
 ## Q. What if I see air bubbles in the pen?
 
-A. It is normal to have air bubbles in the pen. They will not harm you or affect your dose.
+- A. It is normal to have air bubbles in the pen. They will not harm you or affect your dose.
 
 ## Q. What if there is a drop of liquid on the tip of the needle when I remove the grey base cap?
 
@@ -7871,7 +7847,7 @@ A. It is okay to see a drop of liquid on the tip of the needle. This will not ha
 
 ## Q. What if I unlocked the pen and pressed the blue injection button down until the injection is complete?
 
-A. Do not remove the grey base cap. Do not use the pen. Talk to your doctor or pharmacist to get a new one.
+- A. Do not remove the grey base cap. Do not use the pen. Talk to your doctor or pharmacist to get a new one.
 
 ## Q. Do I need to hold the blue injection button down until the injection is complete?
 
@@ -7879,13 +7855,13 @@ A. Do not remove the grey base cap. Do not use the pen. Talk to your doctor or p
 
 ## Q. What if the needle did not retract after my injection?
 
+<div style=\"page-break-after: always\"></div>
+
 - A. Do not touch the needle or replace the grey base cap. Store the pen in a safe place to avoid an accidental needlestick and contact your doctor, pharmacist or nurse.
 
 ## Q. What if there is a drop of liquid or blood on my skin after my injection?
 
-- A. This is normal. Press a cotton ball or gauze over the injection site. Do not rub the injection site.
-
-<div style=\"page-break-after: always\"></div>
+A. This is normal. Press a cotton ball or gauze over the injection site. Do not rub the injection site.
 
 ## Q. What if I heard more than 2 clicks during my injection - 2 loud clicks and a soft one. Did I get my complete injection?
 

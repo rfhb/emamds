@@ -1,18 +1,18 @@
 ---
-document_datetime: 2025-12-29 08:10:41
+document_datetime: 2026-01-26 17:15:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/nucala.html
 document_name: nucala.html
 version: success
-processing_time: 0.1289996
-conversion_datetime: 2025-12-30 00:18:55.63497
+processing_time: 0.1453995
+conversion_datetime: 2026-01-29 12:24:56.051781
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.66.0
-  docling-core: 2.57.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.11.0
+  docling-jobkit: 1.9.0
+  docling: 2.70.0
+  docling-core: 2.61.0
+  docling-ibm-models: 3.11.0
+  docling-parse: 4.7.3
   python: cpython-313 (3.13.11)
   plaform: macOS-26.2-arm64-arm-64bit-Mach-O
 ---
@@ -25,8 +25,6 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 mepolizumab Medicine Human Authorised
-
-On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -124,7 +122,7 @@ English (EN) (157.41 KB - PDF)
 
 [View](/en/documents/overview/nucala-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-391)
+[Other languages (22)](#file-language-dropdown-162)
 
 български (BG) (156.26 KB - PDF)
 
@@ -390,15 +388,15 @@ svenska (SV) (109.94 KB - PDF)
 
 [View](/sv/documents/overview/nucala-epar-medicine-overview_sv.pdf)
 
-Nucala : EPAR - Risk-management-plan summary
+Nucala : EPAR - Risk management plan
 
-English (EN) (516.32 KB - PDF)
+English (EN) (1.33 MB - PDF)
 
 **First published:** 03/12/2015
 
-**Last updated:** 13/10/2022
+**Last updated:** 26/01/2026
 
-[View](/en/documents/rmp-summary/nucala-epar-risk-management-plan-summary_en.pdf)
+[View](/en/documents/rmp/nucala-epar-risk-management-plan_en.pdf)
 
 ## Product information
 
@@ -412,7 +410,7 @@ English (EN) (2.37 MB - PDF)
 
 [View](/en/documents/product-information/nucala-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-815)
+[Other languages (24)](#file-language-dropdown-295)
 
 български (BG) (3.85 MB - PDF)
 
@@ -728,7 +726,7 @@ English (EN) (80.55 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/nucala-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-397)
+[Other languages (24)](#file-language-dropdown-581)
 
 български (BG) (78.59 KB - PDF)
 
@@ -1044,7 +1042,7 @@ GlaxoSmithKline Trading Services Limited
 
 12 Riverwalk Citywest Business Campus Dublin 24 D24 YK11 Ireland
 
-Opinion adopted 23/09/2015 Marketing authorisation issued 01/12/2015 Revision 24
+Opinion adopted 23/09/2015 Marketing authorisation issued 01/12/2015 Revision 25
 
 ## Assessment history
 
@@ -1318,7 +1316,7 @@ English (EN) (67.37 KB - PDF)
 
 - [Medicines](https://www.ema.europa.eu/en/search?f%5B0%5D=ema_search_topics%3A61)
 
-**This page was last updated on** 04/12/2025
+**This page was last updated on** 26/01/2026
 
 ## Share this page
 

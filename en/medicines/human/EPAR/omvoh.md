@@ -1,18 +1,18 @@
 ---
-document_datetime: 2025-12-29 12:03:59
+document_datetime: 2026-01-28 09:35:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/omvoh.html
 document_name: omvoh.html
 version: success
-processing_time: 0.1324248
-conversion_datetime: 2025-12-30 09:14:02.298298
+processing_time: 0.1462974
+conversion_datetime: 2026-01-29 12:42:37.28875
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.66.0
-  docling-core: 2.57.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.11.0
+  docling-jobkit: 1.9.0
+  docling: 2.70.0
+  docling-core: 2.61.0
+  docling-ibm-models: 3.11.0
+  docling-parse: 4.7.3
   python: cpython-313 (3.13.11)
   plaform: macOS-26.2-arm64-arm-64bit-Mach-O
 ---
@@ -25,8 +25,6 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 mirikizumab Medicine Human Authorised
-
-On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -127,7 +125,7 @@ English (EN) (148.04 KB - PDF)
 
 [View](/en/documents/overview/omvoh-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-639)
+[Other languages (22)](#file-language-dropdown-78)
 
 български (BG) (171.45 KB - PDF)
 
@@ -407,17 +405,17 @@ English (EN) (4.47 MB - PDF)
 
 Omvoh : EPAR - Product Information
 
-English (EN) (2.2 MB - PDF)
+English (EN) (2.24 MB - PDF)
 
 **First published:** 08/06/2023
 
-**Last updated:** 03/09/2025
+**Last updated:** 28/01/2026
 
 [View](/en/documents/product-information/omvoh-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-620)
+[Other languages (24)](#file-language-dropdown-478)
 
-български (BG) (2.36 MB - PDF)
+български (BG) (2.39 MB - PDF)
 
 **First published:**
 
@@ -425,11 +423,11 @@ English (EN) (2.2 MB - PDF)
 
 **Last updated:**
 
-03/09/2025
+28/01/2026
 
 [View](/bg/documents/product-information/omvoh-epar-product-information_bg.pdf)
 
-español (ES) (2.31 MB - PDF)
+español (ES) (2.37 MB - PDF)
 
 **First published:**
 
@@ -437,11 +435,11 @@ español (ES) (2.31 MB - PDF)
 
 **Last updated:**
 
-03/09/2025
+28/01/2026
 
 [View](/es/documents/product-information/omvoh-epar-product-information_es.pdf)
 
-čeština (CS) (2.4 MB - PDF)
+čeština (CS) (2.44 MB - PDF)
 
 **First published:**
 
@@ -449,11 +447,11 @@ español (ES) (2.31 MB - PDF)
 
 **Last updated:**
 
-03/09/2025
+28/01/2026
 
 [View](/cs/documents/product-information/omvoh-epar-product-information_cs.pdf)
 
-dansk (DA) (1.88 MB - PDF)
+dansk (DA) (2.29 MB - PDF)
 
 **First published:**
 
@@ -461,11 +459,11 @@ dansk (DA) (1.88 MB - PDF)
 
 **Last updated:**
 
-03/09/2025
+28/01/2026
 
 [View](/da/documents/product-information/omvoh-epar-product-information_da.pdf)
 
-Deutsch (DE) (2.21 MB - PDF)
+Deutsch (DE) (3.35 MB - PDF)
 
 **First published:**
 
@@ -473,11 +471,11 @@ Deutsch (DE) (2.21 MB - PDF)
 
 **Last updated:**
 
-03/09/2025
+28/01/2026
 
 [View](/de/documents/product-information/omvoh-epar-product-information_de.pdf)
 
-eesti keel (ET) (2.13 MB - PDF)
+eesti keel (ET) (2.1 MB - PDF)
 
 **First published:**
 
@@ -485,11 +483,11 @@ eesti keel (ET) (2.13 MB - PDF)
 
 **Last updated:**
 
-03/09/2025
+28/01/2026
 
 [View](/et/documents/product-information/omvoh-epar-product-information_et.pdf)
 
-ελληνικά (EL) (2.29 MB - PDF)
+ελληνικά (EL) (2.32 MB - PDF)
 
 **First published:**
 
@@ -497,11 +495,11 @@ eesti keel (ET) (2.13 MB - PDF)
 
 **Last updated:**
 
-03/09/2025
+28/01/2026
 
 [View](/el/documents/product-information/omvoh-epar-product-information_el.pdf)
 
-français (FR) (2.2 MB - PDF)
+français (FR) (2.21 MB - PDF)
 
 **First published:**
 
@@ -509,11 +507,11 @@ français (FR) (2.2 MB - PDF)
 
 **Last updated:**
 
-03/09/2025
+28/01/2026
 
 [View](/fr/documents/product-information/omvoh-epar-product-information_fr.pdf)
 
-hrvatski (HR) (2.12 MB - PDF)
+hrvatski (HR) (2.13 MB - PDF)
 
 **First published:**
 
@@ -521,11 +519,11 @@ hrvatski (HR) (2.12 MB - PDF)
 
 **Last updated:**
 
-03/09/2025
+28/01/2026
 
 [View](/hr/documents/product-information/omvoh-epar-product-information_hr.pdf)
 
-íslenska (IS) (1.87 MB - PDF)
+íslenska (IS) (2.2 MB - PDF)
 
 **First published:**
 
@@ -533,11 +531,11 @@ hrvatski (HR) (2.12 MB - PDF)
 
 **Last updated:**
 
-03/09/2025
+28/01/2026
 
 [View](/is/documents/product-information/omvoh-epar-product-information_is.pdf)
 
-italiano (IT) (3.21 MB - PDF)
+italiano (IT) (2.26 MB - PDF)
 
 **First published:**
 
@@ -545,7 +543,7 @@ italiano (IT) (3.21 MB - PDF)
 
 **Last updated:**
 
-03/09/2025
+28/01/2026
 
 [View](/it/documents/product-information/omvoh-epar-product-information_it.pdf)
 
@@ -557,11 +555,11 @@ latviešu valoda (LV) (2.2 MB - PDF)
 
 **Last updated:**
 
-03/09/2025
+28/01/2026
 
 [View](/lv/documents/product-information/omvoh-epar-product-information_lv.pdf)
 
-lietuvių kalba (LT) (2.43 MB - PDF)
+lietuvių kalba (LT) (2.45 MB - PDF)
 
 **First published:**
 
@@ -569,11 +567,11 @@ lietuvių kalba (LT) (2.43 MB - PDF)
 
 **Last updated:**
 
-03/09/2025
+28/01/2026
 
 [View](/lt/documents/product-information/omvoh-epar-product-information_lt.pdf)
 
-magyar (HU) (2.31 MB - PDF)
+magyar (HU) (3.44 MB - PDF)
 
 **First published:**
 
@@ -581,11 +579,11 @@ magyar (HU) (2.31 MB - PDF)
 
 **Last updated:**
 
-03/09/2025
+28/01/2026
 
 [View](/hu/documents/product-information/omvoh-epar-product-information_hu.pdf)
 
-Malti (MT) (3.82 MB - PDF)
+Malti (MT) (2.62 MB - PDF)
 
 **First published:**
 
@@ -593,11 +591,11 @@ Malti (MT) (3.82 MB - PDF)
 
 **Last updated:**
 
-03/09/2025
+28/01/2026
 
 [View](/mt/documents/product-information/omvoh-epar-product-information_mt.pdf)
 
-Nederlands (NL) (2.18 MB - PDF)
+Nederlands (NL) (2.22 MB - PDF)
 
 **First published:**
 
@@ -605,11 +603,11 @@ Nederlands (NL) (2.18 MB - PDF)
 
 **Last updated:**
 
-03/09/2025
+28/01/2026
 
 [View](/nl/documents/product-information/omvoh-epar-product-information_nl.pdf)
 
-norsk (NO) (2.16 MB - PDF)
+norsk (NO) (2.22 MB - PDF)
 
 **First published:**
 
@@ -617,11 +615,11 @@ norsk (NO) (2.16 MB - PDF)
 
 **Last updated:**
 
-03/09/2025
+28/01/2026
 
 [View](/no/documents/product-information/omvoh-epar-product-information_no.pdf)
 
-polski (PL) (2.07 MB - PDF)
+polski (PL) (2.52 MB - PDF)
 
 **First published:**
 
@@ -629,11 +627,11 @@ polski (PL) (2.07 MB - PDF)
 
 **Last updated:**
 
-03/09/2025
+28/01/2026
 
 [View](/pl/documents/product-information/omvoh-epar-product-information_pl.pdf)
 
-português (PT) (2.18 MB - PDF)
+português (PT) (2.21 MB - PDF)
 
 **First published:**
 
@@ -641,11 +639,11 @@ português (PT) (2.18 MB - PDF)
 
 **Last updated:**
 
-03/09/2025
+28/01/2026
 
 [View](/pt/documents/product-information/omvoh-epar-product-information_pt.pdf)
 
-română (RO) (3.36 MB - PDF)
+română (RO) (4.45 MB - PDF)
 
 **First published:**
 
@@ -653,11 +651,11 @@ română (RO) (3.36 MB - PDF)
 
 **Last updated:**
 
-03/09/2025
+28/01/2026
 
 [View](/ro/documents/product-information/omvoh-epar-product-information_ro.pdf)
 
-slovenčina (SK) (2.4 MB - PDF)
+slovenčina (SK) (2.41 MB - PDF)
 
 **First published:**
 
@@ -665,11 +663,11 @@ slovenčina (SK) (2.4 MB - PDF)
 
 **Last updated:**
 
-03/09/2025
+28/01/2026
 
 [View](/sk/documents/product-information/omvoh-epar-product-information_sk.pdf)
 
-slovenščina (SL) (2.31 MB - PDF)
+slovenščina (SL) (2.32 MB - PDF)
 
 **First published:**
 
@@ -677,7 +675,7 @@ slovenščina (SL) (2.31 MB - PDF)
 
 **Last updated:**
 
-03/09/2025
+28/01/2026
 
 [View](/sl/documents/product-information/omvoh-epar-product-information_sl.pdf)
 
@@ -689,11 +687,11 @@ Suomi (FI) (2.21 MB - PDF)
 
 **Last updated:**
 
-03/09/2025
+28/01/2026
 
 [View](/fi/documents/product-information/omvoh-epar-product-information_fi.pdf)
 
-svenska (SV) (2.14 MB - PDF)
+svenska (SV) (3.35 MB - PDF)
 
 **First published:**
 
@@ -701,11 +699,11 @@ svenska (SV) (2.14 MB - PDF)
 
 **Last updated:**
 
-03/09/2025
+28/01/2026
 
 [View](/sv/documents/product-information/omvoh-epar-product-information_sv.pdf)
 
-**Latest procedure affecting product information:** VR/0000264533 22/08/2025
+**Latest procedure affecting product information:** VR/0000315519 27/01/2026
 
 icon globe
 
@@ -731,7 +729,7 @@ English (EN) (84.91 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/omvoh-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-284)
+[Other languages (24)](#file-language-dropdown-374)
 
 български (BG) (97.85 KB - PDF)
 
@@ -1047,7 +1045,7 @@ Eli Lilly Nederland B.V.
 
 Papendorpseweg 83
 
-Opinion adopted 30/03/2023 Marketing authorisation issued 26/05/2023 Revision 6
+Opinion adopted 30/03/2023 Marketing authorisation issued 26/05/2023 Revision 8
 
 ## Assessment history
 
@@ -1059,11 +1057,11 @@ Collapse section
 
 Omvoh : EPAR - Procedural steps taken and scientific information after authorisation
 
-English (EN) (148.11 KB - PDF)
+English (EN) (146.32 KB - PDF)
 
 **First published:** 04/02/2025
 
-**Last updated:** 24/09/2025
+**Last updated:** 28/01/2026
 
 [View](/en/documents/procedural-steps-after/omvoh-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf)
 
@@ -1157,7 +1155,7 @@ English (EN) (2.47 MB - DOCX)
 
 [View](/en/documents/product-information-tracked-changes/omvoh-epar-product-information-tracked-changes_en.docx)
 
-[Other languages (24)](#file-language-dropdown-195)
+[Other languages (24)](#file-language-dropdown-844)
 
 български (BG) (2.28 MB - DOCX)
 
@@ -1362,7 +1360,7 @@ svenska (SV) (2.23 MB - DOCX)
 
 - [Medicines](https://www.ema.europa.eu/en/search?f%5B0%5D=ema_search_topics%3A61)
 
-**This page was last updated on** 03/09/2025
+**This page was last updated on** 28/01/2026
 
 ## Share this page
 

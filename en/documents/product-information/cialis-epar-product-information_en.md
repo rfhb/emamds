@@ -1,18 +1,18 @@
 ---
-document_datetime: 2023-10-31 11:08:39
-document_pages: 88
+document_datetime: 2026-01-28 09:49:18
+document_pages: 87
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/cialis-epar-product-information_en.pdf
 document_name: cialis-epar-product-information_en.pdf
 version: success
-processing_time: 17.5363806
-conversion_datetime: 2025-12-26 19:10:29.908228
+processing_time: 17.2254763
+conversion_datetime: 2026-01-29 12:15:48.956963
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.66.0
-  docling-core: 2.57.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.11.0
+  docling-jobkit: 1.9.0
+  docling: 2.70.0
+  docling-core: 2.61.0
+  docling-ibm-models: 3.11.0
+  docling-parse: 4.7.3
   python: cpython-313 (3.13.11)
   plaform: macOS-26.2-arm64-arm-64bit-Mach-O
 ---
@@ -467,7 +467,7 @@ Any unused medicinal product or waste material should be disposed of in accordan
 
 ## 7. MARKETING AUTHORISATION HOLDER
 
-Eli Lilly Nederland B.V. Papendorpseweg 83, 3528 BJ Utrecht The Netherlands
+Eli Lilly Nederland B.V. Orteliuslaan 1000, 3528 BD Utrecht The Netherlands
 
 ## 8. MARKETING AUTHORISATION NUMBER(S)
 
@@ -483,7 +483,7 @@ Date of last renewal: 12 November 2012
 
 ## 10. DATE OF REVISION OF THE TEXT
 
-Detailed information on this medicinal product is available on the website of the European Medicines Agency http://www.ema.europa.eu.
+Detailed information on this medicinal product is available on the website of the European Medicines Agency https://www.ema.europa.eu.
 
 <div style=\"page-break-after: always\"></div>
 
@@ -962,11 +962,13 @@ Any unused medicinal product or waste material should be disposed of in accordan
 
 ## 7. MARKETING AUTHORISATION HOLDER
 
-Eli Lilly Nederland B.V. Papendorpseweg 83, 3528 BJ Utrecht The Netherlands
+Eli Lilly Nederland B.V. Orteliuslaan 1000, 3528 BD Utrecht The Netherlands
 
 <div style=\"page-break-after: always\"></div>
 
-## 8. MARKETING AUTHORISATION NUMBER(S)
+8.
+
+MARKETING AUTHORISATION NUMBER(S)
 
 EU/1/02/237/007-008, 010
 
@@ -978,7 +980,7 @@ Date of last renewal: 12 November 2012
 
 ## 10. DATE OF REVISION OF THE TEXT
 
-Detailed information on this medicinal product is available on the website of the European Medicines Agency http://www.ema.europa.eu.
+Detailed information on this medicinal product is available on the website of the European Medicines Agency https://www.ema.europa.eu.
 
 30
 
@@ -1451,7 +1453,7 @@ Any unused medicinal product or waste material should be disposed of in accordan
 
 ## 7. MARKETING AUTHORISATION HOLDER
 
-Eli Lilly Nederland B.V. Papendorpseweg 83, 3528 BJ Utrecht The Netherlands
+Eli Lilly Nederland B.V. Orteliuslaan 1000, 3528 BD Utrecht The Netherlands
 
 <div style=\"page-break-after: always\"></div>
 
@@ -1467,7 +1469,7 @@ Date of last renewal: 12 November 2012
 
 ## 10. DATE OF REVISION OF THE TEXT
 
-Detailed information on this medicinal product is available on the website of the European Medicines Agency http://www.ema.europa.eu.
+Detailed information on this medicinal product is available on the website of the European Medicines Agency https://www.ema.europa.eu.
 
 <div style=\"page-break-after: always\"></div>
 
@@ -1565,7 +1567,9 @@ Store in the original package in order to protect from moisture. Do not store ab
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
-Eli Lilly Nederland B.V. Papendorpseweg 83, 3528 BJ Utrecht The Netherlands
+Eli Lilly Nederland B.V. Orteliuslaan 1000, 3528 BD Utrecht
+
+The Netherlands
 
 ## 12. MARKETING AUTHORISATION NUMBER(S)
 
@@ -1684,7 +1688,7 @@ Store in the original package in order to protect from moisture. Do not store ab
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
-Eli Lilly Nederland B.V. Papendorpseweg 83, 3528 BJ Utrecht The Netherlands
+Eli Lilly Nederland B.V. Orteliuslaan 1000, 3528 BD Utrecht The Netherlands
 
 ## 12. MARKETING AUTHORISATION NUMBER(S)
 
@@ -1797,7 +1801,7 @@ Store in the original package in order to protect from moisture. Do not store ab
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
-Eli Lilly Nederland B.V. Papendorpseweg 83, 3528 BJ Utrecht The Netherlands
+Eli Lilly Nederland B.V. Orteliuslaan 1000, 3528 BD Utrecht The Netherlands
 
 ## 12. MARKETING AUTHORISATION NUMBER(S)
 
@@ -1914,13 +1918,11 @@ EXP
 
 Store in the original package in order to protect from moisture. Do not store above 30 ° C.
 
-<div style=\"page-break-after: always\"></div>
-
 10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
-Eli Lilly Nederland B.V. Papendorpseweg 83, 3528 BJ Utrecht
+Eli Lilly Nederland B.V. Orteliuslaan 1000, 3528 BD Utrecht
 
 The Netherlands
 
@@ -1950,11 +1952,13 @@ cialis 20 mg
 
 PC SN
 
+<div style=\"page-break-after: always\"></div>
+
 NN
 
 <div style=\"page-break-after: always\"></div>
 
-| MINIMUM PARTICULARS TO APPEARON BLISTERS ORSTRIPS   |
+| MINIMUM PARTICULARS TO APPEAR ONBLISTERS ORSTRIPS   |
 |-----------------------------------------------------|
 | BLISTER                                             |
 
@@ -2140,7 +2144,7 @@ Like all medicines, this medicine can cause side effects, although not everybody
 
 - -allergic reactions including rashes (frequency uncommon).
 - -chest pain - do not use nitrates but seek immediate medical assistance (frequency uncommon).
-- -priapsim, a prolonged and possibly painful erection after taking CIALIS (frequency rare). If you have such an erection, which lasts continuously for more than 4 hours you should contact a doctor immediately.
+- -priapism, a prolonged and possibly painful erection after taking CIALIS (frequency rare). If you have such an erection, which lasts continuously for more than 4 hours you should contact a doctor immediately.
 - -sudden loss of vision (frequency rare), distorted, dimmed, blurred central vision or sudden decrease of vision (frequency not known).
 
 Other side effects have been reported:
@@ -2205,7 +2209,7 @@ CIALIS 2.5 mg is available in blister packs containing 28 tablets.
 
 ## Marketing Authorisation Holder and Manufacturer
 
-Marketing Authorisation Holder: Eli Lilly Nederland B.V., Papendorpseweg 83, 3528 BJ Utrecht, The Netherlands.
+Marketing Authorisation Holder: Eli Lilly Nederland B.V., Orteliuslaan 1000, 3528 BD Utrecht, The Netherlands.
 
 Manufacturer: Lilly S.A., Avda. de la Industria 30, 28108 Alcobendas, Madrid, Spain.
 
@@ -2245,7 +2249,7 @@ Danmark
 
 Eli Lilly Danmark A/S
 
-Tlf: +45 45 26 60 00
+Tlf.: +45 45 26 60 00
 
 Malta
 
@@ -2325,7 +2329,7 @@ Tel:
 
 ## This leaflet was last revised in
 
-Detailed information on this medicine is available on the European Medicines Agency web site: http://www.ema.europa.eu
+Detailed information on this medicine is available on the European Medicines Agency web site: https://www.ema.europa.eu
 
 ## Nederland
 
@@ -2375,17 +2379,15 @@ Tel: + 421 220 663 111
 
 ## Suomi/Finland
 
-Oy Eli Lilly Finland Ab Puh/Tel: + 358-(0) 9 85 45 250
+Oy Eli Lilly Finland Ab
+
+Puh/Tel: + 358-(0) 9 85 45 250
 
 ## Sverige
 
 Eli Lilly Sweden AB
 
 Tel: + 46-(0) 8 7378800
-
-## United Kingdom (Northern Ireland)
-
-Eli Lilly and Company (Ireland) Limited Tel: + 353-(0) 1 661 4377
 
 <div style=\"page-break-after: always\"></div>
 
@@ -2416,7 +2418,9 @@ CIALIS contains the active substance tadalafil which belongs to a group of medic
 ## CIALIS 5 mg is used to treat adult men with:
 
 - -erectile dysfunction . This is when a man cannot get, or keep a hard, erect penis suitable for erect penis suitable for sexual activity.
-- allowing the flow of blood into your penis. The result of this is improved erectile function. CIALIS will not help you if you do not have erectile dysfunction. It is important to note that medicine for erectile dysfunction.
+
+allowing the flow of blood into your penis. The result of this is improved erectile function. CIALIS will not help you if you do not have erectile dysfunction. It is important to note that medicine for erectile dysfunction.
+
 - sexual activity. CIALIS has been shown to significantly improve the ability of obtaining a hard Following sexual stimulation CIALIS works by helping the blood vessels in your penis to relax, CIALIS for the treatment of erectile dysfunction does not work if there is no sexual stimulation. You and your partner will need to engage in foreplay, just as you would if you were not taking a
 - -urinary symptoms associated with a common condition called benign prostatic hyperplasia . This is when the prostate gland gets bigger with age. Symptoms include difficulty in starting to pass water, a feeling of not completely emptying the bladder and a more frequent need to pass water even at night. CIALIS improves blood flow to, and relaxes the muscles of, the prostate and bladder which may reduce symptoms of benign prostatic hyperplasia. CIALIS has been shown to improve these urinary symptoms as early as 1-2 weeks after starting treatment.
 
@@ -2619,7 +2623,7 @@ Not all pack sizes may be marketed.
 
 ## Marketing Authorisation Holder and Manufacturer
 
-Marketing Authorisation Holder: Eli Lilly Nederland B.V., Papendorpseweg 83, 3528 BJ Utrecht, The Netherlands.
+Marketing Authorisation Holder: Eli Lilly Nederland B.V., Orteliuslaan 1000, 3528 BD Utrecht, The Netherlands.
 
 Manufacturer: Lilly S.A., Avda. de la Industria 30, 28108 Alcobendas, Madrid, Spain.
 
@@ -2627,7 +2631,9 @@ For any information about this medicine, please contact the local representative
 
 ## Belgique/België/Belgien
 
-Eli Lilly Benelux S.A./N.V. Tél/Tel: + 32-(0)2 548 84 84
+Eli Lilly Benelux S.A./N.V.
+
+Tél/Tel: + 32-(0)2 548 84 84
 
 ## България
 
@@ -2641,7 +2647,9 @@ Tel: + 420 234 664 111
 
 ## Danmark
 
-Eli Lilly Danmark A/S Tlf: +45 45 26 60 00
+Eli Lilly Danmark A/S
+
+Tlf.: +45 45 26 60 00
 
 ## Deutschland
 
@@ -2783,17 +2791,11 @@ Eli Lilly Sweden AB
 
 Tel: + 46-(0) 8 7378800
 
-## United Kingdom (Northern Ireland)
-
-Eli Lilly and Company (Ireland) Limited
-
-Tel: + 353-(0) 1 661 4377
-
 <div style=\"page-break-after: always\"></div>
 
 ## This leaflet was last revised in
 
-Detailed information on this medicine is available on the European Medicines Agency web site: http://www.ema.europa.eu
+Detailed information on this medicine is available on the European Medicines Agency web site: https://www.ema.europa.eu
 
 <div style=\"page-break-after: always\"></div>
 
@@ -2942,7 +2944,7 @@ Like all medicines, this medicine can cause side effects, although not everybody
 
 - -allergic reactions including rashes (frequency uncommon).
 - -chest pain - do not use nitrates but seek immediate medical assistance (frequency uncommon).
-- -priapsim, a prolonged and possibly painful erection after taking CIALIS (frequency rare). If you have such an erection, which lasts continuously for more than 4 hours you should contact a doctor immediately.
+- -priapism, a prolonged and possibly painful erection after taking CIALIS (frequency rare). If you have such an erection, which lasts continuously for more than 4 hours you should contact a doctor immediately.
 - -sudden loss of vision (frequency rare), distorted, dimmed, blurred central vision or sudden decrease of vision (frequency not known).
 
 Other side effects have been reported:
@@ -3005,7 +3007,7 @@ CIALIS 10 mg is available in blister packs containing 4 tablets.
 
 ## Marketing Authorisation Holder and Manufacturer
 
-Marketing Authorisation Holder: Eli Lilly Nederland B.V., Papendorpseweg 83, 3528 BJ Utrecht, The Netherlands.
+Marketing Authorisation Holder: Eli Lilly Nederland B.V., Orteliuslaan 1000, 3528 BD Utrecht, The Netherlands.
 
 Manufacturer: Lilly S.A., Avda. de la Industria 30, 28108 Alcobendas, Madrid, Spain.
 
@@ -3051,7 +3053,7 @@ Tel: + 36 1 328 5100
 
 Eli Lilly Danmark A/S
 
-Tlf: +45 45 26 60 00
+Tlf.: +45 45 26 60 00
 
 Malta
 
@@ -3133,11 +3135,13 @@ Phadisco Ltd
 
 Eli Lilly (Suisse) S.A Pārstāvniecība Latvijā
 
-Tel: + 371 67364000
+Tel:
+
++ 371 67364000
 
 ## This leaflet was last revised in
 
-Detailed information on this medicine is available on the European Medicines Agency web site: http://www.ema.europa.eu
+Detailed information on this medicine is available on the European Medicines Agency web site: https://www.ema.europa.eu
 
 ## Norge
 
@@ -3190,12 +3194,6 @@ Puh/Tel: + 358-(0) 9 85 45 250
 Eli Lilly Sweden AB
 
 Tel: + 46-(0) 8 7378800
-
-## United Kingdom (Northern Ireland)
-
-Eli Lilly and Company (Ireland) Limited
-
-Tel: + 353-(0) 1 661 4377
 
 <div style=\"page-break-after: always\"></div>
 
@@ -3409,7 +3407,7 @@ Not all pack sizes may be marketed.
 
 ## Marketing Authorisation Holder and Manufacturer
 
-Marketing Authorisation Holder: Eli Lilly Nederland B.V., Papendorpseweg 83, 3528 BJ Utrecht, The Netherlands.
+Marketing Authorisation Holder: Eli Lilly Nederland B.V., Orteliuslaan 1000, 3528 BD Utrecht, The Netherlands.
 
 Manufacturer: Lilly S.A., Avda. de la Industria 30, 28108 Alcobendas, Madrid, Spain.
 
@@ -3449,11 +3447,11 @@ Lilly Hungária Kft.
 
 Tel: + 36 1 328 5100
 
-## Danmark
+Danmark
 
 Eli Lilly Danmark A/S
 
-Tlf: +45 45 26 60 00
+Tlf.: +45 45 26 60 00
 
 Malta
 
@@ -3465,9 +3463,15 @@ Tel: + 356 25600 500
 
 ## Deutschland
 
+## Nederland
+
 Lilly Deutschland GmbH
 
 Tel. + 49-(0) 6172 273 2222
+
+Eli Lilly Nederland B.V.
+
+Tel: + 31-(0) 30 60 25 800
 
 ## Eesti
 
@@ -3475,11 +3479,23 @@ Eli Lilly Nederland B.V.
 
 Tel: +372 6 817 280
 
+## Norge
+
+Eli Lilly Norge A.S.
+
+Tlf: + 47 22 88 18 00
+
 ## Ελλάδα
 
 ΦΑΡΜΑΣΕΡΒ - ΛΙΛΛΥ Α.Ε.Β.Ε .
 
 Τηλ: +30 210 629 4600
+
+## Österreich
+
+Eli Lilly Ges.m.b.H.
+
+Tel: + 43-(0) 1 711 780
 
 ## España
 
@@ -3487,11 +3503,21 @@ Lilly S.A.
 
 Tel: + 34-91 663 50 00
 
+## Polska
+
+Eli Lilly Polska Sp. z o.o.
+
+Tel: +48 22 440 33 00
+
 ## France
 
 Lilly France
 
 Tél: +33-(0) 1 55 49 34 34
+
+## Portugal
+
+Lilly Portugal Produtos Farmacêuticos, Lda Tel: + 351-21-4126600
 
 ## Hrvatska
 
@@ -3499,9 +3525,21 @@ Eli Lilly Hrvatska d.o.o.
 
 Tel: +385 1 2350 999
 
+## România
+
+Eli Lilly România S.R.L.
+
+Tel: + 40 21 4023000
+
 ## Ireland
 
 Eli Lilly and Company (Ireland) Limited Tel: + 353-(0) 1 661 4377
+
+## Slovenija
+
+Eli Lilly farmacevtska družba, d.o.o .
+
+Tel: +386 (0)1 580 00 10
 
 ## Ísland
 
@@ -3509,11 +3547,23 @@ Icepharma hf.
 
 Sími: + 354 540 8000
 
+## Slovenská republika
+
+Eli Lilly Slovakia s.r.o.
+
+Tel: + 421 220 663 111
+
 ## Italia
 
 Eli Lilly Italia S.p.A.
 
 Tel: + 39- 055 42571
+
+## Suomi/Finland
+
+Oy Eli Lilly Finland Ab
+
+Puh/Tel: + 358-(0) 9 85 45 250
 
 ## Κύπρος
 
@@ -3522,6 +3572,12 @@ Phadisco Ltd
 Τηλ
 
 : +357 22 715000
+
+## Sverige
+
+Eli Lilly Sweden AB
+
+Tel: + 46-(0) 8 7378800
 
 ## Latvija
 
@@ -3533,86 +3589,4 @@ Tel:
 
 ## This leaflet was last revised in
 
-Detailed information on this medicine is available on the European Medicines Agency web site: http://www.ema.europa.eu
-
-## Nederland
-
-Eli Lilly Nederland B.V.
-
-Tel: + 31-(0) 30 60 25 800
-
-## Norge
-
-Eli Lilly Norge A.S.
-
-Tlf: + 47 22 88 18 00
-
-## Österreich
-
-Eli Lilly Ges.m.b.H.
-
-Tel: + 43-(0) 1 711 780
-
-## Polska
-
-Eli Lilly Polska Sp. z o.o.
-
-Tel: +48 22 440 33 00
-
-## Portugal
-
-Lilly Portugal Produtos Farmacêuticos, Lda Tel: + 351-21-4126600
-
-## România
-
-Eli Lilly România S.R.L.
-
-Tel: + 40 21 4023000
-
-## Slovenija
-
-Eli Lilly farmacevtska družba, d.o.o .
-
-Tel: +386 (0)1 580 00 10
-
-## Slovenská republika
-
-Eli Lilly Slovakia s.r.o.
-
-Tel: + 421 220 663 111
-
-## Suomi/Finland
-
-Oy Eli Lilly Finland Ab Puh/Tel: + 358-(0) 9 85 45 250
-
-## Sverige
-
-Eli Lilly Sweden AB
-
-Tel: + 46-(0) 8 7378800
-
-## United Kingdom (Northern Ireland)
-
-Eli Lilly and Company (Ireland) Limited Tel: + 353-(0) 1 661 4377
-
-<div style=\"page-break-after: always\"></div>
-
-## ANNEX IV
-
-## SCIENTIFIC CONCLUSIONS AND GROUNDS FOR THE VARIATION TO THE TERMS OF THE MARKETING AUTHORISATION(S)
-
-<div style=\"page-break-after: always\"></div>
-
-## Scientific conclusions
-
-Taking into account the PRAC Assessment Report on the PSUR(s) for tadalafil, the scientific conclusions of the CHMP are as follows:
-
-In view of available data on serous central chorioretinopathy from the literature and spontaneous reports including in some cases a close temporal relationship, a positive de-challenge and/or rechallenge and in view of a plausible mechanism of action, the PRAC considers a causal relationship between tadalafil and central serous chorioretinopathy is at least a reasonable possibility. The PRAC concluded that the product information of products containing tadalafil should be amended accordingly.
-
-The CHMP agrees with the scientific conclusions made by the PRAC.
-
-## Grounds for the variation to the terms of the Marketing Authorisation(s)
-
-On the basis of the scientific conclusions for tadalafil the CHMP is of the opinion that the benefit-risk balance of the medicinal product(s) containing tadalafil is unchanged subject to the proposed changes to the product information.
-
-The CHMP recommends that the terms of the Marketing Authorisation(s) should be varied.
+Detailed information on this medicine is available on the European Medicines Agency web site: https://www.ema.europa.eu

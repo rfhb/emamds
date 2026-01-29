@@ -1,18 +1,18 @@
 ---
-document_datetime: 2025-12-29 12:27:23
+document_datetime: 2026-01-26 16:18:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/zynyz.html
 document_name: zynyz.html
 version: success
-processing_time: 0.1027065
-conversion_datetime: 2025-12-31 03:50:54.740053
+processing_time: 0.3119849
+conversion_datetime: 2026-01-29 12:24:42.266255
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.66.0
-  docling-core: 2.57.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.11.0
+  docling-jobkit: 1.9.0
+  docling: 2.70.0
+  docling-core: 2.61.0
+  docling-ibm-models: 3.11.0
+  docling-parse: 4.7.3
   python: cpython-313 (3.13.11)
   plaform: macOS-26.2-arm64-arm-64bit-Mach-O
 ---
@@ -25,8 +25,6 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 retifanlimab Medicine Human Authorised
-
-On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -112,7 +110,7 @@ English (EN) (132.71 KB - PDF)
 
 [View](/en/documents/overview/zynyz-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-472)
+[Other languages (22)](#file-language-dropdown-52)
 
 български (BG) (134.64 KB - PDF)
 
@@ -302,207 +300,305 @@ English (EN) (358.74 KB - PDF)
 
 Zynyz : EPAR - Product information
 
-English (EN) (407.72 KB - PDF)
+English (EN) (256.66 KB - PDF)
 
 **First published:** 02/05/2024
 
+**Last updated:** 26/01/2026
+
 [View](/en/documents/product-information/zynyz-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-385)
+[Other languages (24)](#file-language-dropdown-675)
 
-български (BG) (463.06 KB - PDF)
+български (BG) (463.31 KB - PDF)
 
 **First published:**
 
 02/05/2024
+
+**Last updated:**
+
+26/01/2026
 
 [View](/bg/documents/product-information/zynyz-epar-product-information_bg.pdf)
 
-español (ES) (402.9 KB - PDF)
+español (ES) (419.44 KB - PDF)
 
 **First published:**
 
 02/05/2024
+
+**Last updated:**
+
+26/01/2026
 
 [View](/es/documents/product-information/zynyz-epar-product-information_es.pdf)
 
-čeština (CS) (437.81 KB - PDF)
+čeština (CS) (348.43 KB - PDF)
 
 **First published:**
 
 02/05/2024
+
+**Last updated:**
+
+26/01/2026
 
 [View](/cs/documents/product-information/zynyz-epar-product-information_cs.pdf)
 
-dansk (DA) (409.18 KB - PDF)
+dansk (DA) (415.93 KB - PDF)
 
 **First published:**
 
 02/05/2024
+
+**Last updated:**
+
+26/01/2026
 
 [View](/da/documents/product-information/zynyz-epar-product-information_da.pdf)
 
-Deutsch (DE) (444.95 KB - PDF)
+Deutsch (DE) (450.12 KB - PDF)
 
 **First published:**
 
 02/05/2024
+
+**Last updated:**
+
+26/01/2026
 
 [View](/de/documents/product-information/zynyz-epar-product-information_de.pdf)
 
-eesti keel (ET) (397.68 KB - PDF)
+eesti keel (ET) (256.78 KB - PDF)
 
 **First published:**
 
 02/05/2024
+
+**Last updated:**
+
+26/01/2026
 
 [View](/et/documents/product-information/zynyz-epar-product-information_et.pdf)
 
-ελληνικά (EL) (462 KB - PDF)
+ελληνικά (EL) (441.59 KB - PDF)
 
 **First published:**
 
 02/05/2024
+
+**Last updated:**
+
+26/01/2026
 
 [View](/el/documents/product-information/zynyz-epar-product-information_el.pdf)
 
-français (FR) (414.71 KB - PDF)
+français (FR) (423.27 KB - PDF)
 
 **First published:**
 
 02/05/2024
+
+**Last updated:**
+
+26/01/2026
 
 [View](/fr/documents/product-information/zynyz-epar-product-information_fr.pdf)
 
-hrvatski (HR) (454.54 KB - PDF)
+hrvatski (HR) (433.32 KB - PDF)
 
 **First published:**
 
 02/05/2024
+
+**Last updated:**
+
+26/01/2026
 
 [View](/hr/documents/product-information/zynyz-epar-product-information_hr.pdf)
 
-íslenska (IS) (410.45 KB - PDF)
+íslenska (IS) (418.62 KB - PDF)
 
 **First published:**
 
 02/05/2024
+
+**Last updated:**
+
+26/01/2026
 
 [View](/is/documents/product-information/zynyz-epar-product-information_is.pdf)
 
-italiano (IT) (403.99 KB - PDF)
+italiano (IT) (407.02 KB - PDF)
 
 **First published:**
 
 02/05/2024
+
+**Last updated:**
+
+26/01/2026
 
 [View](/it/documents/product-information/zynyz-epar-product-information_it.pdf)
 
-latviešu valoda (LV) (444.78 KB - PDF)
+latviešu valoda (LV) (439.58 KB - PDF)
 
 **First published:**
 
 02/05/2024
+
+**Last updated:**
+
+26/01/2026
 
 [View](/lv/documents/product-information/zynyz-epar-product-information_lv.pdf)
 
-lietuvių kalba (LT) (450.42 KB - PDF)
+lietuvių kalba (LT) (447.03 KB - PDF)
 
 **First published:**
 
 02/05/2024
+
+**Last updated:**
+
+26/01/2026
 
 [View](/lt/documents/product-information/zynyz-epar-product-information_lt.pdf)
 
-magyar (HU) (486.43 KB - PDF)
+magyar (HU) (473.87 KB - PDF)
 
 **First published:**
 
 02/05/2024
+
+**Last updated:**
+
+26/01/2026
 
 [View](/hu/documents/product-information/zynyz-epar-product-information_hu.pdf)
 
-Malti (MT) (500.86 KB - PDF)
+Malti (MT) (481.55 KB - PDF)
 
 **First published:**
 
 02/05/2024
+
+**Last updated:**
+
+26/01/2026
 
 [View](/mt/documents/product-information/zynyz-epar-product-information_mt.pdf)
 
-Nederlands (NL) (402.38 KB - PDF)
+Nederlands (NL) (419.72 KB - PDF)
 
 **First published:**
 
 02/05/2024
+
+**Last updated:**
+
+26/01/2026
 
 [View](/nl/documents/product-information/zynyz-epar-product-information_nl.pdf)
 
-norsk (NO) (395.79 KB - PDF)
+norsk (NO) (394.94 KB - PDF)
 
 **First published:**
 
 02/05/2024
+
+**Last updated:**
+
+26/01/2026
 
 [View](/no/documents/product-information/zynyz-epar-product-information_no.pdf)
 
-polski (PL) (457.08 KB - PDF)
+polski (PL) (460.12 KB - PDF)
 
 **First published:**
 
 02/05/2024
+
+**Last updated:**
+
+26/01/2026
 
 [View](/pl/documents/product-information/zynyz-epar-product-information_pl.pdf)
 
-português (PT) (397.79 KB - PDF)
+português (PT) (414.6 KB - PDF)
 
 **First published:**
 
 02/05/2024
+
+**Last updated:**
+
+26/01/2026
 
 [View](/pt/documents/product-information/zynyz-epar-product-information_pt.pdf)
 
-română (RO) (451.86 KB - PDF)
+română (RO) (431.27 KB - PDF)
 
 **First published:**
 
 02/05/2024
+
+**Last updated:**
+
+26/01/2026
 
 [View](/ro/documents/product-information/zynyz-epar-product-information_ro.pdf)
 
-slovenčina (SK) (450.39 KB - PDF)
+slovenčina (SK) (461.89 KB - PDF)
 
 **First published:**
 
 02/05/2024
+
+**Last updated:**
+
+26/01/2026
 
 [View](/sk/documents/product-information/zynyz-epar-product-information_sk.pdf)
 
-slovenščina (SL) (441.47 KB - PDF)
+slovenščina (SL) (443.57 KB - PDF)
 
 **First published:**
 
 02/05/2024
+
+**Last updated:**
+
+26/01/2026
 
 [View](/sl/documents/product-information/zynyz-epar-product-information_sl.pdf)
 
-Suomi (FI) (414.74 KB - PDF)
+Suomi (FI) (416.89 KB - PDF)
 
 **First published:**
 
 02/05/2024
+
+**Last updated:**
+
+26/01/2026
 
 [View](/fi/documents/product-information/zynyz-epar-product-information_fi.pdf)
 
-svenska (SV) (387.54 KB - PDF)
+svenska (SV) (392.08 KB - PDF)
 
 **First published:**
 
 02/05/2024
 
+**Last updated:**
+
+26/01/2026
+
 [View](/sv/documents/product-information/zynyz-epar-product-information_sv.pdf)
 
-19/04/2024
+**Latest procedure affecting product information:** PSUR/0000282291 09/01/2026
 
 icon globe
 
@@ -526,7 +622,7 @@ English (EN) (59.75 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/zynyz-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-323)
+[Other languages (24)](#file-language-dropdown-417)
 
 български (BG) (56.31 KB - PDF)
 
@@ -750,9 +846,33 @@ Incyte Biosciences Distribution B.V.
 
 Paasheuvelweg 25
 
-Opinion adopted 22/02/2024 Marketing authorisation issued 19/04/2024
+Opinion adopted 22/02/2024 Marketing authorisation issued 19/04/2024 Revision 1
 
 ## Assessment history
+
+Expand section
+
+Collapse section
+
+## Changes since initial authorisation of medicine
+
+Zynyz : EPAR - Procedural steps taken and scientific information after authorisation
+
+English (EN) (156.3 KB - PDF)
+
+**First published:** 26/01/2026
+
+[View](/en/documents/procedural-steps-after/zynyz-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf)
+
+Zynyz-PSUSA-00011059-202503 : EPAR - Scientific conclusions and grounds for the variation to the terms of the marketing authorisation
+
+Reference Number: EMADOC-1700519818-2853866
+
+English (EN) (165.68 KB - PDF)
+
+**First published:** 26/01/2026
+
+[View](/en/documents/scientific-conclusion/zynyz-psusa-00011059-202503-epar-scientific-conclusions-grounds-variation-terms-marketing-authorisation_en.pdf)
 
 ## Initial marketing authorisation documents
 
@@ -798,7 +918,7 @@ English (EN) (121.06 KB - PDF)
 
 - [EU/3/22/2743 - orphan designation for treatment of Merkel cell carcinoma](/en/medicines/human/orphan-designations/eu-3-22-2743)
 
-**This page was last updated on** 02/05/2024
+**This page was last updated on** 26/01/2026
 
 ## Share this page
 

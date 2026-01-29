@@ -1,18 +1,18 @@
 ---
-document_datetime: 2025-12-29 11:37:52
+document_datetime: 2026-01-26 11:45:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/zypadhera.html
 document_name: zypadhera.html
 version: success
-processing_time: 0.1262219
-conversion_datetime: 2025-12-31 02:36:31.786916
+processing_time: 0.2971916
+conversion_datetime: 2026-01-29 12:02:19.204198
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.66.0
-  docling-core: 2.57.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.11.0
+  docling-jobkit: 1.9.0
+  docling: 2.70.0
+  docling-core: 2.61.0
+  docling-ibm-models: 3.11.0
+  docling-parse: 4.7.3
   python: cpython-313 (3.13.11)
   plaform: macOS-26.2-arm64-arm-64bit-Mach-O
 ---
@@ -25,8 +25,6 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 olanzapine Medicine Human Authorised
-
-On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -122,7 +120,7 @@ English (EN) (63.01 KB - PDF)
 
 [View](/en/documents/overview/zypadhera-epar-summary-public_en.pdf)
 
-[Other languages (21)](#file-language-dropdown-194)
+[Other languages (21)](#file-language-dropdown-867)
 
 български (BG) (98.63 KB - PDF)
 
@@ -376,6 +374,14 @@ svenska (SV) (146.01 KB - PDF)
 
 [View](/sv/documents/overview/zypadhera-epar-summary-public_sv.pdf)
 
+Zypadhera : EPAR - Risk management plan
+
+English (EN) (14.06 MB - PDF)
+
+**First published:** 26/01/2026
+
+[View](/en/documents/rmp/zypadhera-epar-risk-management-plan_en.pdf)
+
 ## Product information
 
 Zypadhera : EPAR - Product Information
@@ -388,7 +394,7 @@ English (EN) (655.45 KB - PDF)
 
 [View](/en/documents/product-information/zypadhera-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-310)
+[Other languages (24)](#file-language-dropdown-250)
 
 български (BG) (821.86 KB - PDF)
 
@@ -704,7 +710,7 @@ English (EN) (58.89 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/zypadhera-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-423)
+[Other languages (24)](#file-language-dropdown-449)
 
 български (BG) (55.16 KB - PDF)
 
@@ -1004,7 +1010,7 @@ English (EN) (30.64 KB - PDF)
 
 [View](/en/documents/conditions-member-states/zypadhera-epar-conditions-imposed-member-states-safe-and-effective-use-annex-iv_en.pdf)
 
-[Other languages (21)](#file-language-dropdown-350)
+[Other languages (21)](#file-language-dropdown-527)
 
 български (BG) (92.42 KB - PDF)
 
@@ -1278,7 +1284,7 @@ CHEPLAPHARM Registration GmbH
 
 Weilerstr. 5e
 
-Opinion adopted 25/09/2008 Marketing authorisation issued 19/11/2008 Revision 24
+Opinion adopted 25/09/2008 Marketing authorisation issued 19/11/2008 Revision 25
 
 ## Assessment history
 
@@ -1357,7 +1363,7 @@ English (EN) (37.03 KB - PDF)
 - [Zypadhera - direct healthcare professional communication (DHPC)](/en/medicines/dhpc/zypadhera)
 - [Zypadhera - supply shortage](/en/medicines/human/shortages/zypadhera)
 
-**This page was last updated on** 14/11/2025
+**This page was last updated on** 26/01/2026
 
 ## Share this page
 

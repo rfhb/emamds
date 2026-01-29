@@ -1,18 +1,18 @@
 ---
-document_datetime: 2025-04-22 13:33:32
+document_datetime: 2026-01-26 11:52:57
 document_pages: 33
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/zegalogue-epar-product-information_en.pdf
 document_name: zegalogue-epar-product-information_en.pdf
 version: success
-processing_time: 7.9333335
-conversion_datetime: 2025-12-30 02:54:17.262528
+processing_time: 9.1400803
+conversion_datetime: 2026-01-29 12:42:09.293198
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.66.0
-  docling-core: 2.57.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.11.0
+  docling-jobkit: 1.9.0
+  docling: 2.70.0
+  docling-core: 2.61.0
+  docling-ibm-models: 3.11.0
+  docling-parse: 4.7.3
   python: cpython-313 (3.13.11)
   plaform: macOS-26.2-arm64-arm-64bit-Mach-O
 ---
@@ -66,7 +66,7 @@ Zegalogue can be used in elderly patients. No dose adjustment is required. Effic
 
 Zegalogue can be used in patients with renal impairment. No dose adjustment is required.
 
-## Hepatic impairment
+Hepatic impairment
 
 Zegalogue can be used in patients with hepatic impairment. No dose adjustment is required.
 
@@ -158,9 +158,9 @@ Studies in animals with dasiglucagon have shown reproductive toxicity (see secti
 
 The use of Zegalogue during pregnancy should be considered only if the expected benefit justifies the potential risk to the foetus.
 
-<div style=\"page-break-after: always\"></div>
-
 ## Breast-feeding
+
+<div style=\"page-break-after: always\"></div>
 
 Dasiglucagon is cleared from the bloodstream very quickly and thus the amount excreted in the milk of nursing mothers following treatment of severe hypoglycaemic reactions is expected to be extremely small. As dasiglucagon is degraded in the digestive tract and cannot be absorbed in its intact form, it will not exert any metabolic effect in the child. Zegalogue can be used during breast-feeding.
 
@@ -195,9 +195,9 @@ Table 1  Tabulated list of adverse reactions associated with dasiglucagon
 | Skin and subcutaneous tissue disorders               |                        |                              | Hyperhidrosis                                                             |
 | General disorders and administration site conditions |                        | Injection site erythema      | Injection site pruritus Injection site pain Injection site oedema Fatigue |
 
-<div style=\"page-break-after: always\"></div>
-
 ## Description of selected adverse reactions
+
+<div style=\"page-break-after: always\"></div>
 
 Hypersensitivity reactions, including anaphylactic reactions have been observed with injectable glucagon and reported as 'very rare' (less than 1 case per 10 000 patients) and are known medicinal class effects of glucagon.
 
@@ -273,10 +273,11 @@ Trial 17086 randomised a total of 42 patients 2:1:1 to dasiglucagon, placebo, an
 
 Table 3 Plasma glucose recovery in paediatric patients
 
-|                                     | Trial 17086       | Trial 17086    |
-|-------------------------------------|-------------------|----------------|
-|                                     | Dasiglucagon N=20 | Placebo N=11   |
-| Median time to recovery [95% CI a ] | 10 min [8; 12] b  | 30 min [20; -) |
+|                                                                                                                                                                                  | Trial 17086                                                                                                                                                                      | Trial 17086                                                                                                                                                                      |
+|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+|                                                                                                                                                                                  | Dasiglucagon N=20                                                                                                                                                                | Placebo N=11                                                                                                                                                                     |
+| Median time to recovery [95% CI a ]                                                                                                                                              | 10 min [8; 12] b                                                                                                                                                                 | 30 min [20; -)                                                                                                                                                                   |
+| N is the number of patients who were randomized and treated. a log-log confidence interval b P < 0.001 versus placebo (log-rank test stratified by injection site and age group) | N is the number of patients who were randomized and treated. a log-log confidence interval b P < 0.001 versus placebo (log-rank test stratified by injection site and age group) | N is the number of patients who were randomized and treated. a log-log confidence interval b P < 0.001 versus placebo (log-rank test stratified by injection site and age group) |
 
 The European Medicines Agency has deferred the obligation to submit the results of studies with Zegalogue in one or more subsets of the paediatric population in the treatment of severe hypoglycaemia (see section 4.2 for information on paediatric use).
 
@@ -342,7 +343,9 @@ For special precautions for storage, see section 6.4.
 
 ## 6.4 Special precautions for storage
 
-Store in a refrigerator (2°C - 8°C). Do not freeze.
+Store in a refrigerator (2°C - 8°C).
+
+Do not freeze.
 
 Store in the original protective case in order to protect from light.
 
@@ -362,9 +365,11 @@ Not all pack sizes or presentations may be marketed.
 
 ## Instructions for use
 
-This is a ready to use medicinal product for single-use only. The single-dose pre-filled syringe contains only one dose. The instructions for using the medicinal product in the package leaflet must be followed carefully.
+This is a ready to use medicinal product for single-use only.
 
-If the solution is discoloured or contains particulate matter, the product should not be used.
+The single-dose pre-filled syringe contains only one dose.
+
+The instructions for using the medicinal product in the package leaflet must be followed carefully. If the solution is discoloured or contains particulate matter, the product should not be used.
 
 ## Disposal
 
@@ -372,17 +377,17 @@ Any unused medicinal product or waste material should be disposed of in accordan
 
 ## 7. MARKETING AUTHORISATION HOLDER
 
-Novo Nordisk A/S Novo Alle 1 DK-2880 Bagsvaerd Denmark
+Zealand Pharma A/S Sydmarken 11 2860 Søborg Denmark
 
 ## 8. MARKETING AUTHORISATION NUMBERS
 
 EU/1/24/1829/003 EU/1/24/1829/004
 
-<div style=\"page-break-after: always\"></div>
-
 ## 9. DATE OF FIRST AUTHORISATION/RENEWAL OF THE AUTHORISATION
 
 Date of first authorisation: 24 July 2024
+
+<div style=\"page-break-after: always\"></div>
 
 ## 10. DATE OF REVISION OF THE TEXT
 
@@ -528,7 +533,7 @@ Store in a refrigerator or under 25°C according to storage information in the p
 | 11.   | NAMEANDADDRESS OF THE MARKETING AUTHORISATION HOLDER   |
 |-------|--------------------------------------------------------|
 
-Novo Nordisk A/S Novo Alle 1 DK-2880 Bagsvaerd
+Zealand Pharma A/S Sydmarken 11 2860 Søborg
 
 Denmark
 
@@ -619,7 +624,7 @@ Pull needle cover off. Do not touch or bend needle.
 
 Pinch the skin. Insert entire needle into skin at a 45° angle.
 
-Inject
+## Inject
 
 <!-- image -->
 
@@ -664,7 +669,9 @@ Dispose in a sharps container
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
-Novo Nordisk A/S Novo Alle 1 DK-2880 Bagsvaerd Denmark
+Zealand Pharma A/S Sydmarken 11 2860 Søborg
+
+Denmark
 
 ## 12. MARKETING AUTHORISATION NUMBER
 
@@ -692,29 +699,32 @@ Lot
 
 ## 1. NAME OF THE MEDICINAL PRODUCT AND ROUTE OF ADMINISTRATION
 
-Zegalogue 0.6 mg injection dasiglucagon
+Zegalogue 0.6 mg injection dasiglucagon Subcutaneous use
 
-Subcutaneous use
-
-## 2. METHOD OF ADMINISTRATION
+| 2.   | METHODOFADMINISTRATION   |
+|------|--------------------------|
 
 Single use
 
-## 3. EXPIRY DATE
+| 3.   | EXPIRY DATE   |
+|------|---------------|
 
 EXP
 
-## 4. BATCH NUMBER
+| 4.   | BATCH NUMBER   |
+|------|----------------|
 
 Lot
 
-## 5. CONTENTS BY WEIGHT, BY VOLUME OR BY UNIT
+| 5.   | CONTENTS BY WEIGHT,BYVOLUMEORBYUNIT   |
+|------|---------------------------------------|
 
 0.6 mL
 
-## 6. OTHER
+| 6.   | OTHER   |
+|------|---------|
 
-Novo Nordisk A/S
+Zealand Pharma A/S
 
 <div style=\"page-break-after: always\"></div>
 
@@ -923,7 +933,7 @@ Do not use this medicine after the expiry date which is stated on the carton, pr
 
 Store in a refrigerator (2°C to 8°C).
 
-Do not freeze.
+## Do not freeze.
 
 Store in the original protective case in order to protect from light.
 
@@ -950,7 +960,9 @@ Not all pack sizes may be marketed.
 
 ## Marketing Authorisation Holder and Manufacturer
 
-Novo Nordisk A/S Novo Alle 1 DK-2880 Bagsvaerd Denmark
+Zealand Pharma A/S
+
+Sydmarken 11 2860 Søborg Denmark
 
 ## This leaflet was last revised in
 

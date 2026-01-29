@@ -1,18 +1,18 @@
 ---
-document_datetime: 2025-06-30 15:35:58
+document_datetime: 2026-01-26 17:10:39
 document_pages: 61
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/levetiracetam-actavis-epar-product-information_en.pdf
 document_name: levetiracetam-actavis-epar-product-information_en.pdf
 version: success
-processing_time: 15.3386949
-conversion_datetime: 2025-12-27 21:09:43.903978
+processing_time: 15.610159
+conversion_datetime: 2026-01-29 12:23:01.836516
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.66.0
-  docling-core: 2.57.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.11.0
+  docling-jobkit: 1.9.0
+  docling: 2.70.0
+  docling-core: 2.61.0
+  docling-ibm-models: 3.11.0
+  docling-parse: 4.7.3
   python: cpython-313 (3.13.11)
   plaform: macOS-26.2-arm64-arm-64bit-Mach-O
 ---
@@ -308,11 +308,11 @@ Specialist advice should be given to women who are of childbearing potential. Tr
 
 ## Pregnancy
 
-A large amount of postmarketing data on pregnant women exposed to levetiracetam monotherapy (more than 1800, among which in more than 1500 exposure occurred during the 1 st trimester) do not suggest an increase in the risk for major congenital malformations. Only limited evidence is available on the neurodevelopment of children exposed to levetiracetam monotherapy in utero. However,
+A large amount of postmarketing data on pregnant women exposed to levetiracetam monotherapy (more than 1800, among which in more than 1500 exposure occurred during the 1 st trimester) do not suggest an increase in the risk for major congenital malformations. Limited evidence is available on the neurodevelopment of children exposed to levetiracetam monotherapy in utero. Data from two
 
 <div style=\"page-break-after: always\"></div>
 
-current epidemiological studies (on about 100 children) do not suggest an increased risk of neurodevelopmental disorders or delays.
+observational population-based registry studies undertaken in largely the same dataset from the Nordic countries and including more than 1000 children born to women with epilepsy prenatally exposed to levetiracetam monotherapy do not suggest an increased risk of autism spectrum disorders or intellectual disability compared to children born to women with epilepsy not exposed to an antiepileptic drug in utero. The mean follow-up time of children in the levetiracetam group was shorter than for the group of children non exposed to any antiepileptic drug (e.g. 4.4 years vs 6.8 years in one of the studies).
 
 Levetiracetam can be used during pregnancy, if after careful assessment it is considered clinically needed. In such case, the lowest effective dose is recommended.
 
@@ -1872,25 +1872,25 @@ You should not stop your treatment without discussing this with your doctor.
 
 A risk of birth defects for your unborn child cannot be completely excluded.
 
+Two studies do not suggest an increased risk of autism or intellectual disability in children born to mothers treated with levetiracetam during pregnancy. However, the available data regarding the impact of levetiracetam on neurodevelopment in children is limited.
+
 Breast-feeding is not recommended during treatment.
 
 ## Driving and using machines
 
 Levetiracetam Actavis may impair your ability to drive or operate any tools or machinery, as it may make you feel sleepy. This is more likely at the beginning of treatment or after an increase in the dose. You should not drive or use machines until it is established that your ability to perform such activities is not affected.
 
-## Levetiracetam Actavis 750 mg tablets contain Sunset Yellow (E110)
+Levetiracetam Actavis 750 mg tablets contain Sunset Yellow (E110)
+
+<div style=\"page-break-after: always\"></div>
 
 Sunset Yellow (E110) colouring agent may cause allergic reactions.
 
 ## 3. How to take Levetiracetam Actavis
 
-<div style=\"page-break-after: always\"></div>
-
 Always take this medicine exactly as your doctor or pharmacist has told you. Check with your doctor or pharmacist if you are not sure.
 
-Take the number of tablets following your doctor´s instructions.
-
-Levetiracetam Actavis must be taken twice a day, once in the morning and once in the evening, at about the same time each day.
+Take the number of tablets following your doctor´s instructions. Levetiracetam Actavis must be taken twice a day, once in the morning and once in the evening, at about the same time each day.
 
 ## Adjunctive Therapy and monotherapy (from 16 years of age)
 
@@ -1900,7 +1900,7 @@ Levetiracetam Actavis must be taken twice a day, once in the morning and once in
 
 When you will first start taking Levetiracetam Actavis, your doctor will prescribe you a lower dose during 2 weeks before giving you the lowest daily dose.. Example: if your daily dose is intended to be 1000 mg, your reduced starting dose is 1 tablet of 250 mg in the morning and 1 tablet of 250 mg in the evening, and the dose will be gradually incremented to reach 1000 mg daily after 2 weeks.
 
-- Adolescents (12 to 17 years) weighing 50 kg or less:
+## · Adolescents (12 to 17 years) weighing 50 kg or less:
 
 Your doctor will prescribe the most appropriate pharmaceutical form of Levetiracetam Actavis according to weight and dose.
 
@@ -1933,9 +1933,9 @@ Contact your doctor if you have missed one or more doses. Do not take a double d
 
 If stopping treatment, Levetiracetam Actavis should be discontinued gradually to avoid an increase of seizures. Should your doctor decide to stop your Levetiracetam Actavis treatment, he/she will instruct you about the gradual withdrawal of Levetiracetam Actavis.
 
-If you have any further questions on the use of this medicine, ask your doctor or pharmacist.
-
 <div style=\"page-break-after: always\"></div>
+
+If you have any further questions on the use of this medicine, ask your doctor or pharmacist.
 
 ## 4. Possible side effects
 
@@ -1970,18 +1970,18 @@ Very common: may affect more than 1 in 10 people
 - rash;
 - asthenia/fatigue (tiredness).
 
-## Uncommon: may affect up to 1 in 100 people
+Uncommon: may affect up to 1 in 100 people
 
 - decreased number of blood platelets, decreased number of white blood cells;
 - weight decrease, weight increase;
 - suicide attempt and suicidal ideation, mental disorder, abnormal behaviour, hallucination, anger, confusion, panic attack, emotional instability/mood swings, agitation;
+
+<div style=\"page-break-after: always\"></div>
+
 - amnesia (loss of memory), memory impairment (forgetfulness), abnormal coordination/ataxia (impaired coordinated movements), paraesthesia (tingling), disturbance in attention (loss of concentration);
 - diplopia (double vision), vision blurred;
 - elevated/abnormal values in a liver function test;
 - hair loss, eczema, pruritus;
-
-<div style=\"page-break-after: always\"></div>
-
 - muscle weakness, myalgia (muscle pain);
 - injury.
 
@@ -2019,11 +2019,11 @@ Keep this medicine out of the sight and reach of children.
 
 Do not use this medicine after the expiry date which is stated on the carton, label or blister after EXP. The expiry date refers to the last day of that month.
 
+<div style=\"page-break-after: always\"></div>
+
 This medicine does not require any special storage conditions.
 
 Do not throw away any medicines via wastewater or household waste. Ask your pharmacist how to throw away medicines you no longer use. These measures will help protect the environment.
-
-<div style=\"page-break-after: always\"></div>
 
 ## 6. Contents of the pack and other information
 
@@ -2039,11 +2039,11 @@ One tablet of Levetiracetam Actavis 750 mg contains 750 mg of levetiracetam.
 
 One tablet of Levetiracetam Actavis 1000 mg contains 1000 mg of levetiracetam.
 
-The other ingredients are:
+## The other ingredients are:
 
 Crospovidon, povidone, silica colloidal anhydrous, magnesium stearate, polyvinyl alcohol-part. hydrolyzed, macrogol 4000, talc, titanium dioxide (E171), colourants*.
 
-* The colourants are:
+## * The colourants are:
 
 250 mg tablet: Indigo carmine (E132).
 
@@ -2061,7 +2061,7 @@ Levetiracetam Actavis 750 mg tablets are oval, orange, 19.0 x 9.3 mm marked with
 
 Levetiracetam Actavis 1000 mg tablets are oval, white, 19.0 x 10.0 mm marked with 'L' on one side and '1000' on the other side.
 
-Pack sizes
+## Pack sizes
 
 Blisters: 20, 30, 50, 60, 100, 120 and 200 film-coated tablets.
 
@@ -2081,7 +2081,7 @@ Dalshraun 1, 220 Hafnarfjörður, Iceland
 
 Teva Operations Poland Sp. z. o. o. ul. Mogilska 80, 31-546 Kraków, Poland
 
-Tjoapack Netherlands B.V.
+## Tjoapack Netherlands B.V.
 
 Nieuwe Donk 9, ETTEN-LEUR, 4879AC, Netherlands
 
@@ -2092,12 +2092,6 @@ For any information about this medicine, please contact the local representative
 Teva Pharma Belgium N.V./S.A./AG
 
 Tél/Tel: +32 38207373
-
-Lietuva
-
-UAB Teva Baltics
-
-Tel: +370 52660203
 
 <div style=\"page-break-after: always\"></div>
 
@@ -2115,7 +2109,9 @@ Teva Pharmaceuticals CR, s.r.o. Tel: +420 251007111
 
 ## Danmark
 
-Teva Denmark A/S Tlf.: +45 44985511
+Teva Denmark A/S
+
+Tlf.: +45 44985511
 
 ## Deutschland
 
@@ -2133,11 +2129,13 @@ TEVA HELLAS A.E. Τηλ : +30 2118805000
 
 ## España
 
-Teva Pharma, S.L.U. Tel: +34 913873280
+Teva Pharma, S.L.U. Tel: +34 915359180
 
 ## France
 
-Teva Santé Tél: +33 155917800
+Teva Santé
+
+Tél: +33 155917800
 
 ## Hrvatska
 
@@ -2155,9 +2153,11 @@ Teva Pharma Iceland ehf. Sími: +354 5503300
 
 Teva Italia S.r.l. Tel: +39 028917981
 
-## Κύπρος
+## Lietuva
 
-TEVA HELLAS A.E. Ελλάδα Τηλ: +30 2118805000
+UAB Teva Baltics
+
+Tel: +370 52660203
 
 ## Luxembourg/Luxemburg
 
@@ -2169,9 +2169,7 @@ Teva Gyógyszergyár Zrt. Tel.: +36 12886400
 
 ## Malta
 
-Teva Pharmaceuticals Ireland L-Irlanda
-
-Tel: +44 2075407117
+TEVA HELLAS Α.Ε. ilGreċja Tel: +30 2118805000
 
 ## Nederland
 
@@ -2209,11 +2207,11 @@ TEVA Pharmaceuticals Slovakia s.r.o. Tel: +421 257267911
 
 Teva Finland Oy Puh/Tel: +358 201805900
 
-## Sverige
-
-Teva Sweden AB Tel: +46 42121100
-
 <div style=\"page-break-after: always\"></div>
+
+## Κύπρος
+
+TEVA HELLAS A.E. Ελλάδα Τηλ: +30 2118805000
 
 ## Latvija
 
@@ -2226,3 +2224,9 @@ Tel: +371 67323666
 Other sources of information
 
 Detailed information on this medicine is available on the European Medicines Agency web site: https://www.ema.europa.eu
+
+## Sverige
+
+Teva Sweden AB
+
+Tel: +46 42121100

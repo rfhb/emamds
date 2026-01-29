@@ -1,18 +1,18 @@
 ---
-document_datetime: 2025-12-29 12:15:36
+document_datetime: 2026-01-27 15:45:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/cimzia.html
 document_name: cimzia.html
 version: success
-processing_time: 0.1435431
-conversion_datetime: 2025-12-29 23:08:35.053499
+processing_time: 0.153555
+conversion_datetime: 2026-01-29 12:14:22.252073
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.66.0
-  docling-core: 2.57.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.11.0
+  docling-jobkit: 1.9.0
+  docling: 2.70.0
+  docling-core: 2.61.0
+  docling-ibm-models: 3.11.0
+  docling-parse: 4.7.3
   python: cpython-313 (3.13.11)
   plaform: macOS-26.2-arm64-arm-64bit-Mach-O
 ---
@@ -25,8 +25,6 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 certolizumab pegol Medicine Human Authorised
-
-On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -126,7 +124,7 @@ English (EN) (110.12 KB - PDF)
 
 [View](/en/documents/overview/cimzia-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-327)
+[Other languages (22)](#file-language-dropdown-802)
 
 български (BG) (134.03 KB - PDF)
 
@@ -406,17 +404,17 @@ English (EN) (1.04 MB - PDF)
 
 Cimzia : EPAR - Product Information
 
-English (EN) (2.03 MB - PDF)
+English (EN) (1.4 MB - PDF)
 
 **First published:** 21/01/2010
 
-**Last updated:** 29/04/2025
+**Last updated:** 27/01/2026
 
 [View](/en/documents/product-information/cimzia-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-426)
+[Other languages (24)](#file-language-dropdown-693)
 
-български (BG) (2.03 MB - PDF)
+български (BG) (1.49 MB - PDF)
 
 **First published:**
 
@@ -424,11 +422,11 @@ English (EN) (2.03 MB - PDF)
 
 **Last updated:**
 
-29/04/2025
+27/01/2026
 
 [View](/bg/documents/product-information/cimzia-epar-product-information_bg.pdf)
 
-español (ES) (1.96 MB - PDF)
+español (ES) (1.5 MB - PDF)
 
 **First published:**
 
@@ -436,11 +434,11 @@ español (ES) (1.96 MB - PDF)
 
 **Last updated:**
 
-29/04/2025
+27/01/2026
 
 [View](/es/documents/product-information/cimzia-epar-product-information_es.pdf)
 
-čeština (CS) (2.07 MB - PDF)
+čeština (CS) (1.47 MB - PDF)
 
 **First published:**
 
@@ -448,11 +446,11 @@ español (ES) (1.96 MB - PDF)
 
 **Last updated:**
 
-29/04/2025
+27/01/2026
 
 [View](/cs/documents/product-information/cimzia-epar-product-information_cs.pdf)
 
-dansk (DA) (1.73 MB - PDF)
+dansk (DA) (1.28 MB - PDF)
 
 **First published:**
 
@@ -460,11 +458,11 @@ dansk (DA) (1.73 MB - PDF)
 
 **Last updated:**
 
-29/04/2025
+27/01/2026
 
 [View](/da/documents/product-information/cimzia-epar-product-information_da.pdf)
 
-Deutsch (DE) (2.04 MB - PDF)
+Deutsch (DE) (1.45 MB - PDF)
 
 **First published:**
 
@@ -472,11 +470,11 @@ Deutsch (DE) (2.04 MB - PDF)
 
 **Last updated:**
 
-29/04/2025
+27/01/2026
 
 [View](/de/documents/product-information/cimzia-epar-product-information_de.pdf)
 
-eesti keel (ET) (2.02 MB - PDF)
+eesti keel (ET) (1.16 MB - PDF)
 
 **First published:**
 
@@ -484,11 +482,11 @@ eesti keel (ET) (2.02 MB - PDF)
 
 **Last updated:**
 
-29/04/2025
+27/01/2026
 
 [View](/et/documents/product-information/cimzia-epar-product-information_et.pdf)
 
-ελληνικά (EL) (2.32 MB - PDF)
+ελληνικά (EL) (1.41 MB - PDF)
 
 **First published:**
 
@@ -496,11 +494,11 @@ eesti keel (ET) (2.02 MB - PDF)
 
 **Last updated:**
 
-29/04/2025
+27/01/2026
 
 [View](/el/documents/product-information/cimzia-epar-product-information_el.pdf)
 
-français (FR) (1.92 MB - PDF)
+français (FR) (1.41 MB - PDF)
 
 **First published:**
 
@@ -508,11 +506,11 @@ français (FR) (1.92 MB - PDF)
 
 **Last updated:**
 
-29/04/2025
+27/01/2026
 
 [View](/fr/documents/product-information/cimzia-epar-product-information_fr.pdf)
 
-hrvatski (HR) (1.94 MB - PDF)
+hrvatski (HR) (1.29 MB - PDF)
 
 **First published:**
 
@@ -520,11 +518,11 @@ hrvatski (HR) (1.94 MB - PDF)
 
 **Last updated:**
 
-29/04/2025
+27/01/2026
 
 [View](/hr/documents/product-information/cimzia-epar-product-information_hr.pdf)
 
-íslenska (IS) (1.81 MB - PDF)
+íslenska (IS) (1.31 MB - PDF)
 
 **First published:**
 
@@ -532,11 +530,11 @@ hrvatski (HR) (1.94 MB - PDF)
 
 **Last updated:**
 
-29/04/2025
+27/01/2026
 
 [View](/is/documents/product-information/cimzia-epar-product-information_is.pdf)
 
-italiano (IT) (2.67 MB - PDF)
+italiano (IT) (1.9 MB - PDF)
 
 **First published:**
 
@@ -544,11 +542,11 @@ italiano (IT) (2.67 MB - PDF)
 
 **Last updated:**
 
-29/04/2025
+27/01/2026
 
 [View](/it/documents/product-information/cimzia-epar-product-information_it.pdf)
 
-latviešu valoda (LV) (2.06 MB - PDF)
+latviešu valoda (LV) (1.65 MB - PDF)
 
 **First published:**
 
@@ -556,11 +554,11 @@ latviešu valoda (LV) (2.06 MB - PDF)
 
 **Last updated:**
 
-29/04/2025
+27/01/2026
 
 [View](/lv/documents/product-information/cimzia-epar-product-information_lv.pdf)
 
-lietuvių kalba (LT) (2.16 MB - PDF)
+lietuvių kalba (LT) (1.34 MB - PDF)
 
 **First published:**
 
@@ -568,11 +566,11 @@ lietuvių kalba (LT) (2.16 MB - PDF)
 
 **Last updated:**
 
-29/04/2025
+27/01/2026
 
 [View](/lt/documents/product-information/cimzia-epar-product-information_lt.pdf)
 
-magyar (HU) (2.04 MB - PDF)
+magyar (HU) (1.52 MB - PDF)
 
 **First published:**
 
@@ -580,11 +578,11 @@ magyar (HU) (2.04 MB - PDF)
 
 **Last updated:**
 
-29/04/2025
+27/01/2026
 
 [View](/hu/documents/product-information/cimzia-epar-product-information_hu.pdf)
 
-Malti (MT) (2.17 MB - PDF)
+Malti (MT) (1.64 MB - PDF)
 
 **First published:**
 
@@ -592,11 +590,11 @@ Malti (MT) (2.17 MB - PDF)
 
 **Last updated:**
 
-29/04/2025
+27/01/2026
 
 [View](/mt/documents/product-information/cimzia-epar-product-information_mt.pdf)
 
-Nederlands (NL) (1.88 MB - PDF)
+Nederlands (NL) (1.51 MB - PDF)
 
 **First published:**
 
@@ -604,11 +602,11 @@ Nederlands (NL) (1.88 MB - PDF)
 
 **Last updated:**
 
-29/04/2025
+27/01/2026
 
 [View](/nl/documents/product-information/cimzia-epar-product-information_nl.pdf)
 
-norsk (NO) (1.95 MB - PDF)
+norsk (NO) (1.25 MB - PDF)
 
 **First published:**
 
@@ -616,11 +614,11 @@ norsk (NO) (1.95 MB - PDF)
 
 **Last updated:**
 
-29/04/2025
+27/01/2026
 
 [View](/no/documents/product-information/cimzia-epar-product-information_no.pdf)
 
-polski (PL) (2.33 MB - PDF)
+polski (PL) (1.63 MB - PDF)
 
 **First published:**
 
@@ -628,11 +626,11 @@ polski (PL) (2.33 MB - PDF)
 
 **Last updated:**
 
-29/04/2025
+27/01/2026
 
 [View](/pl/documents/product-information/cimzia-epar-product-information_pl.pdf)
 
-português (PT) (1.94 MB - PDF)
+português (PT) (1.31 MB - PDF)
 
 **First published:**
 
@@ -640,11 +638,11 @@ português (PT) (1.94 MB - PDF)
 
 **Last updated:**
 
-29/04/2025
+27/01/2026
 
 [View](/pt/documents/product-information/cimzia-epar-product-information_pt.pdf)
 
-română (RO) (2.33 MB - PDF)
+română (RO) (1.54 MB - PDF)
 
 **First published:**
 
@@ -652,11 +650,11 @@ română (RO) (2.33 MB - PDF)
 
 **Last updated:**
 
-29/04/2025
+27/01/2026
 
 [View](/ro/documents/product-information/cimzia-epar-product-information_ro.pdf)
 
-slovenčina (SK) (2.1 MB - PDF)
+slovenčina (SK) (1.52 MB - PDF)
 
 **First published:**
 
@@ -664,11 +662,11 @@ slovenčina (SK) (2.1 MB - PDF)
 
 **Last updated:**
 
-29/04/2025
+27/01/2026
 
 [View](/sk/documents/product-information/cimzia-epar-product-information_sk.pdf)
 
-slovenščina (SL) (1.91 MB - PDF)
+slovenščina (SL) (1.27 MB - PDF)
 
 **First published:**
 
@@ -676,11 +674,11 @@ slovenščina (SL) (1.91 MB - PDF)
 
 **Last updated:**
 
-29/04/2025
+27/01/2026
 
 [View](/sl/documents/product-information/cimzia-epar-product-information_sl.pdf)
 
-Suomi (FI) (2.1 MB - PDF)
+Suomi (FI) (1.27 MB - PDF)
 
 **First published:**
 
@@ -688,11 +686,11 @@ Suomi (FI) (2.1 MB - PDF)
 
 **Last updated:**
 
-29/04/2025
+27/01/2026
 
 [View](/fi/documents/product-information/cimzia-epar-product-information_fi.pdf)
 
-svenska (SV) (2.04 MB - PDF)
+svenska (SV) (1.24 MB - PDF)
 
 **First published:**
 
@@ -700,11 +698,11 @@ svenska (SV) (2.04 MB - PDF)
 
 **Last updated:**
 
-29/04/2025
+27/01/2026
 
 [View](/sv/documents/product-information/cimzia-epar-product-information_sv.pdf)
 
-**Latest procedure affecting product information:** N/0000268015 28/04/2025
+**Latest procedure affecting product information:** VR/0000317201 26/01/2026
 
 icon globe
 
@@ -722,17 +720,17 @@ Product information documents contain:
 
 Cimzia : EPAR - All Authorised presentations
 
-English (EN) (78.77 KB - PDF)
+English (EN) (50.89 KB - PDF)
 
 **First published:** 22/10/2009
 
-**Last updated:** 08/02/2019
+**Last updated:** 27/01/2026
 
 [View](/en/documents/all-authorised-presentations/cimzia-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-10)
+[Other languages (24)](#file-language-dropdown-593)
 
-български (BG) (92.37 KB - PDF)
+български (BG) (48.86 KB - PDF)
 
 **First published:**
 
@@ -740,11 +738,11 @@ English (EN) (78.77 KB - PDF)
 
 **Last updated:**
 
-08/02/2019
+27/01/2026
 
 [View](/bg/documents/all-authorised-presentations/cimzia-epar-all-authorised-presentations_bg.pdf)
 
-español (ES) (72.36 KB - PDF)
+español (ES) (9.59 KB - PDF)
 
 **First published:**
 
@@ -752,11 +750,11 @@ español (ES) (72.36 KB - PDF)
 
 **Last updated:**
 
-08/02/2019
+27/01/2026
 
 [View](/es/documents/all-authorised-presentations/cimzia-epar-all-authorised-presentations_es.pdf)
 
-čeština (CS) (114.68 KB - PDF)
+čeština (CS) (42.48 KB - PDF)
 
 **First published:**
 
@@ -764,11 +762,11 @@ español (ES) (72.36 KB - PDF)
 
 **Last updated:**
 
-08/02/2019
+27/01/2026
 
 [View](/cs/documents/all-authorised-presentations/cimzia-epar-all-authorised-presentations_cs.pdf)
 
-dansk (DA) (108.68 KB - PDF)
+dansk (DA) (9.59 KB - PDF)
 
 **First published:**
 
@@ -776,11 +774,11 @@ dansk (DA) (108.68 KB - PDF)
 
 **Last updated:**
 
-08/02/2019
+27/01/2026
 
 [View](/da/documents/all-authorised-presentations/cimzia-epar-all-authorised-presentations_da.pdf)
 
-Deutsch (DE) (111.27 KB - PDF)
+Deutsch (DE) (8.82 KB - PDF)
 
 **First published:**
 
@@ -788,11 +786,11 @@ Deutsch (DE) (111.27 KB - PDF)
 
 **Last updated:**
 
-08/02/2019
+27/01/2026
 
 [View](/de/documents/all-authorised-presentations/cimzia-epar-all-authorised-presentations_de.pdf)
 
-eesti keel (ET) (102.27 KB - PDF)
+eesti keel (ET) (8.84 KB - PDF)
 
 **First published:**
 
@@ -800,11 +798,11 @@ eesti keel (ET) (102.27 KB - PDF)
 
 **Last updated:**
 
-08/02/2019
+27/01/2026
 
 [View](/et/documents/all-authorised-presentations/cimzia-epar-all-authorised-presentations_et.pdf)
 
-ελληνικά (EL) (115.82 KB - PDF)
+ελληνικά (EL) (36.96 KB - PDF)
 
 **First published:**
 
@@ -812,11 +810,11 @@ eesti keel (ET) (102.27 KB - PDF)
 
 **Last updated:**
 
-08/02/2019
+27/01/2026
 
 [View](/el/documents/all-authorised-presentations/cimzia-epar-all-authorised-presentations_el.pdf)
 
-français (FR) (102.68 KB - PDF)
+français (FR) (11.71 KB - PDF)
 
 **First published:**
 
@@ -824,11 +822,11 @@ français (FR) (102.68 KB - PDF)
 
 **Last updated:**
 
-08/02/2019
+27/01/2026
 
 [View](/fr/documents/all-authorised-presentations/cimzia-epar-all-authorised-presentations_fr.pdf)
 
-hrvatski (HR) (105.32 KB - PDF)
+hrvatski (HR) (42.49 KB - PDF)
 
 **First published:**
 
@@ -836,11 +834,11 @@ hrvatski (HR) (105.32 KB - PDF)
 
 **Last updated:**
 
-08/02/2019
+27/01/2026
 
 [View](/hr/documents/all-authorised-presentations/cimzia-epar-all-authorised-presentations_hr.pdf)
 
-íslenska (IS) (69.47 KB - PDF)
+íslenska (IS) (8.98 KB - PDF)
 
 **First published:**
 
@@ -848,11 +846,11 @@ hrvatski (HR) (105.32 KB - PDF)
 
 **Last updated:**
 
-08/02/2019
+27/01/2026
 
 [View](/is/documents/all-authorised-presentations/cimzia-epar-all-authorised-presentations_is.pdf)
 
-italiano (IT) (68.11 KB - PDF)
+italiano (IT) (81.9 KB - PDF)
 
 **First published:**
 
@@ -860,11 +858,11 @@ italiano (IT) (68.11 KB - PDF)
 
 **Last updated:**
 
-08/02/2019
+27/01/2026
 
 [View](/it/documents/all-authorised-presentations/cimzia-epar-all-authorised-presentations_it.pdf)
 
-latviešu valoda (LV) (74.34 KB - PDF)
+latviešu valoda (LV) (44.03 KB - PDF)
 
 **First published:**
 
@@ -872,11 +870,11 @@ latviešu valoda (LV) (74.34 KB - PDF)
 
 **Last updated:**
 
-08/02/2019
+27/01/2026
 
 [View](/lv/documents/all-authorised-presentations/cimzia-epar-all-authorised-presentations_lv.pdf)
 
-lietuvių kalba (LT) (74.49 KB - PDF)
+lietuvių kalba (LT) (45.01 KB - PDF)
 
 **First published:**
 
@@ -884,11 +882,11 @@ lietuvių kalba (LT) (74.49 KB - PDF)
 
 **Last updated:**
 
-08/02/2019
+27/01/2026
 
 [View](/lt/documents/all-authorised-presentations/cimzia-epar-all-authorised-presentations_lt.pdf)
 
-magyar (HU) (74.94 KB - PDF)
+magyar (HU) (44.56 KB - PDF)
 
 **First published:**
 
@@ -896,11 +894,11 @@ magyar (HU) (74.94 KB - PDF)
 
 **Last updated:**
 
-08/02/2019
+27/01/2026
 
 [View](/hu/documents/all-authorised-presentations/cimzia-epar-all-authorised-presentations_hu.pdf)
 
-Malti (MT) (122.8 KB - PDF)
+Malti (MT) (36.66 KB - PDF)
 
 **First published:**
 
@@ -908,11 +906,11 @@ Malti (MT) (122.8 KB - PDF)
 
 **Last updated:**
 
-08/02/2019
+27/01/2026
 
 [View](/mt/documents/all-authorised-presentations/cimzia-epar-all-authorised-presentations_mt.pdf)
 
-Nederlands (NL) (103.8 KB - PDF)
+Nederlands (NL) (10.24 KB - PDF)
 
 **First published:**
 
@@ -920,11 +918,11 @@ Nederlands (NL) (103.8 KB - PDF)
 
 **Last updated:**
 
-08/02/2019
+27/01/2026
 
 [View](/nl/documents/all-authorised-presentations/cimzia-epar-all-authorised-presentations_nl.pdf)
 
-norsk (NO) (72.78 KB - PDF)
+norsk (NO) (11.66 KB - PDF)
 
 **First published:**
 
@@ -932,11 +930,11 @@ norsk (NO) (72.78 KB - PDF)
 
 **Last updated:**
 
-08/02/2019
+27/01/2026
 
 [View](/no/documents/all-authorised-presentations/cimzia-epar-all-authorised-presentations_no.pdf)
 
-polski (PL) (81.92 KB - PDF)
+polski (PL) (9.49 KB - PDF)
 
 **First published:**
 
@@ -944,11 +942,11 @@ polski (PL) (81.92 KB - PDF)
 
 **Last updated:**
 
-08/02/2019
+27/01/2026
 
 [View](/pl/documents/all-authorised-presentations/cimzia-epar-all-authorised-presentations_pl.pdf)
 
-português (PT) (105.93 KB - PDF)
+português (PT) (9.13 KB - PDF)
 
 **First published:**
 
@@ -956,11 +954,11 @@ português (PT) (105.93 KB - PDF)
 
 **Last updated:**
 
-08/02/2019
+27/01/2026
 
 [View](/pt/documents/all-authorised-presentations/cimzia-epar-all-authorised-presentations_pt.pdf)
 
-română (RO) (107.68 KB - PDF)
+română (RO) (42.5 KB - PDF)
 
 **First published:**
 
@@ -968,11 +966,11 @@ română (RO) (107.68 KB - PDF)
 
 **Last updated:**
 
-08/02/2019
+27/01/2026
 
 [View](/ro/documents/all-authorised-presentations/cimzia-epar-all-authorised-presentations_ro.pdf)
 
-slovenčina (SK) (118.2 KB - PDF)
+slovenčina (SK) (33.87 KB - PDF)
 
 **First published:**
 
@@ -980,11 +978,11 @@ slovenčina (SK) (118.2 KB - PDF)
 
 **Last updated:**
 
-08/02/2019
+27/01/2026
 
 [View](/sk/documents/all-authorised-presentations/cimzia-epar-all-authorised-presentations_sk.pdf)
 
-slovenščina (SL) (110.15 KB - PDF)
+slovenščina (SL) (28.28 KB - PDF)
 
 **First published:**
 
@@ -992,11 +990,11 @@ slovenščina (SL) (110.15 KB - PDF)
 
 **Last updated:**
 
-08/02/2019
+27/01/2026
 
 [View](/sl/documents/all-authorised-presentations/cimzia-epar-all-authorised-presentations_sl.pdf)
 
-Suomi (FI) (99.8 KB - PDF)
+Suomi (FI) (8.81 KB - PDF)
 
 **First published:**
 
@@ -1004,11 +1002,11 @@ Suomi (FI) (99.8 KB - PDF)
 
 **Last updated:**
 
-08/02/2019
+27/01/2026
 
 [View](/fi/documents/all-authorised-presentations/cimzia-epar-all-authorised-presentations_fi.pdf)
 
-svenska (SV) (80.33 KB - PDF)
+svenska (SV) (11.45 KB - PDF)
 
 **First published:**
 
@@ -1016,7 +1014,7 @@ svenska (SV) (80.33 KB - PDF)
 
 **Last updated:**
 
-08/02/2019
+27/01/2026
 
 [View](/sv/documents/all-authorised-presentations/cimzia-epar-all-authorised-presentations_sv.pdf)
 
@@ -1030,7 +1028,7 @@ English (EN) (18.56 KB - PDF)
 
 [View](/en/documents/conditions-member-states/cimzia-epar-conditions-imposed-member-states-safe-and-effective-use-annex-iv_en.pdf)
 
-[Other languages (21)](#file-language-dropdown-725)
+[Other languages (21)](#file-language-dropdown-71)
 
 български (BG) (85.07 KB - PDF)
 
@@ -1329,7 +1327,7 @@ UCB Pharma
 
 Allée de la Recherche 60
 
-Opinion adopted 25/06/2009 Marketing authorisation issued 01/10/2009 Revision 39
+Opinion adopted 25/06/2009 Marketing authorisation issued 01/10/2009 Revision 40
 
 ## Assessment history
 
@@ -1341,9 +1339,11 @@ Collapse section
 
 Cimzia : EPAR - Procedural steps taken and scientific information after authorisation
 
-English (EN) (140.34 KB - PDF)
+English (EN) (139.52 KB - PDF)
 
 **First published:** 29/04/2025
+
+**Last updated:** 27/01/2026
 
 [View](/en/documents/procedural-steps-after/cimzia-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf)
 
@@ -1559,7 +1559,7 @@ English (EN) (476.05 KB - PDF)
 
 - [Medicines](https://www.ema.europa.eu/en/search?f%5B0%5D=ema_search_topics%3A61)
 
-**This page was last updated on** 01/07/2025
+**This page was last updated on** 27/01/2026
 
 ## Share this page
 

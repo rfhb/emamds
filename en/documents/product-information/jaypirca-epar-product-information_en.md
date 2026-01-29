@@ -1,18 +1,18 @@
 ---
-document_datetime: 2025-11-25 11:33:37
-document_pages: 37
+document_datetime: 2026-01-28 12:13:58
+document_pages: 35
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/jaypirca-epar-product-information_en.pdf
 document_name: jaypirca-epar-product-information_en.pdf
 version: success
-processing_time: 8.6181499
-conversion_datetime: 2025-12-30 00:39:48.385583
+processing_time: 8.4207212
+conversion_datetime: 2026-01-29 12:00:23.781309
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.66.0
-  docling-core: 2.57.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.11.0
+  docling-jobkit: 1.9.0
+  docling: 2.70.0
+  docling-core: 2.61.0
+  docling-ibm-models: 3.11.0
+  docling-parse: 4.7.3
   python: cpython-313 (3.13.11)
   plaform: macOS-26.2-arm64-arm-64bit-Mach-O
 ---
@@ -118,7 +118,7 @@ The safety and efficacy of Jaypirca in children and adolescents aged less than 1
 
 ## Method of administration
 
-## Jaypirca is for oral use.
+Jaypirca is for oral use.
 
 The tablet should be swallowed whole with a glass of water to ensure consistent performance (patients should not chew, crush, or split tablets before swallowing) and can be taken with or without food. Patients should take the dose at approximately the same time every day.
 
@@ -182,7 +182,7 @@ In a clinical study, itraconazole, a strong CYP3A4 inhibitor, increased the AUC 
 
 ## CYP3A inducers
 
-In a clinical study, rifampin, a strong CYP3A inducer, decreased the AUC and Cmax of pirtobrutinib by 71 % and 42 %, respectively. Though this decrease  in  pirtobrutinib  exposure  is  not  expected  to  be clinically  meaningful,  if  possible  avoid  strong  CYP3A  inducers  (e.g.  rifampicin,  carbamazepine, phenytoin).
+In a clinical study, rifampin, a strong CYP3A inducer, decreased the AUC and Cmax of pirtobrutinib by 71 % and 42 %, respectively. Though this decrease in  pirtobrutinib  exposure is  not  expected  to  be clinically  meaningful,  if  possible  avoid  strong  CYP3A  inducers  (e.g.  rifampicin,  carbamazepine, phenytoin).
 
 ## Coadministration with medicinal products that are proton pump inhibitors
 
@@ -535,9 +535,7 @@ Any unused medicinal product or waste material should be disposed of in accordan
 
 Eli Lilly Nederland B.V.
 
-Papendorpseweg 83 3528 BJ Utrecht
-
-The Netherlands
+Orteliuslaan 1000 3528 BD Utrecht The Netherlands
 
 ## 8. MARKETING AUTHORISATION NUMBER(S)
 
@@ -550,7 +548,6 @@ The Netherlands
 | EU/1/23/1738/006   |
 | EU/1/23/1738/007   |
 | EU/1/23/1738/008   |
-| EU/1/23/1738/009   |
 
 <div style=\"page-break-after: always\"></div>
 
@@ -615,9 +612,9 @@ This being a conditional marketing authorisation and pursuant to Article 14-a of
 
 <div style=\"page-break-after: always\"></div>
 
-| Description                                                                                                                | Due date   |
-|----------------------------------------------------------------------------------------------------------------------------|------------|
-| to investigator choice of BTK inhibitor in patients with previously treated BTK inhibitor naïve MCL should be submitted by |            |
+| Description                                                                                                               | Due date   |
+|---------------------------------------------------------------------------------------------------------------------------|------------|
+| to investigator choice of BTK inhibitor in patients with previously treated BTK inhibitor naïve MCLshould be submitted by |            |
 
 <div style=\"page-break-after: always\"></div>
 
@@ -685,9 +682,7 @@ Discard unused contents appropriately.
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
-Eli Lilly Nederland B.V. Papendorpseweg 83 3528 BJ Utrecht
-
-The Netherlands
+Eli Lilly Nederland B.V. Orteliuslaan 1000 3528 BD Utrecht The Netherlands
 
 ## 12. MARKETING AUTHORISATION NUMBER(S)
 
@@ -702,6 +697,7 @@ EU/1/23/1738/003 (84 film-coated tablets)
 Lot
 
 14. GENERAL CLASSIFICATION FOR SUPPLY
+
 15. INSTRUCTIONS ON USE
 
 ## 16. INFORMATION IN BRAILLE
@@ -722,17 +718,17 @@ NN
 
 <div style=\"page-break-after: always\"></div>
 
-| MINIMUM PARTICULARS TO APPEAR ON BLISTERS OR STRIPS   |
-|-------------------------------------------------------|
-| BLISTERS FOR 50 MGFILM-COATED TABLETS                 |
+| MINIMUM PARTICULARS TO APPEAR ONBLISTERS ORSTRIPS   |
+|-----------------------------------------------------|
+| BLISTERS FOR 50 MGFILM-COATED TABLETS               |
 
-| 1.   | NAME OF THE MEDICINAL PRODUCT   |
-|------|---------------------------------|
+| 1.   | NAMEOFTHEMEDICINAL PRODUCT   |
+|------|------------------------------|
 
 Jaypirca 50 mg tablets pirtobrutinib
 
-| 2.   | NAME OF THE MARKETING AUTHORISATION HOLDER   |
-|------|----------------------------------------------|
+| 2.   | NAMEOFTHEMARKETING AUTHORISATION HOLDER   |
+|------|-------------------------------------------|
 
 Lilly
 
@@ -806,7 +802,13 @@ Discard unused contents appropriately.
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
-Eli Lilly Nederland B.V., Papendorpseweg 83, 3528 BJ Utrecht, The Netherlands.
+Eli Lilly Nederland B.V.
+
+Orteliuslaan 1000
+
+3528 BD Utrecht
+
+The Netherlands
 
 ## 12. MARKETING AUTHORISATION NUMBER(S)
 
@@ -848,17 +850,17 @@ NN
 
 <div style=\"page-break-after: always\"></div>
 
-| MINIMUM PARTICULARS TO APPEAR ON BLISTERS OR STRIPS   |
-|-------------------------------------------------------|
-| BLISTERS FOR 100 MGFILM-COATED TABLETS                |
+| MINIMUM PARTICULARS TO APPEAR ONBLISTERS ORSTRIPS   |
+|-----------------------------------------------------|
+| BLISTERS FOR 100 MGFILM-COATED TABLETS              |
 
-| 1.   | NAME OF THE MEDICINAL PRODUCT   |
-|------|---------------------------------|
+| 1.   | NAMEOFTHEMEDICINAL PRODUCT   |
+|------|------------------------------|
 
 Jaypirca 100 mg tablets pirtobrutinib
 
-| 2.   | NAME OF THE MARKETING AUTHORISATION HOLDER   |
-|------|----------------------------------------------|
+| 2.   | NAMEOFTHEMARKETING AUTHORISATION HOLDER   |
+|------|-------------------------------------------|
 
 Lilly
 
@@ -958,7 +960,9 @@ Jaypirca may make you bleed more easily. This means you should tell your doctor 
 
 - acetylsalicylic acid (aspirin) and non-steroidal anti-inflammatories (NSAIDs) such as ibuprofen and naproxen,
 - anticoagulants such as warfarin, heparin and other medicines for treating or preventing blood clots,
-- supplements that may increase your risk of bleeding such as fish oil, vitamin E or flaxseed. If any of the above apply to you (or you are not sure), talk to your doctor, pharmacist or nurse before taking Jaypirca.
+- supplements that may increase your risk of bleeding such as fish oil, vitamin E or flaxseed.
+
+If any of the above apply to you (or you are not sure), talk to your doctor, pharmacist or nurse before taking Jaypirca.
 
 <div style=\"page-break-after: always\"></div>
 
@@ -1108,7 +1112,7 @@ Not all the pack sizes may be marketed.
 
 ## Marketing Authorisation Holder
 
-Eli Lilly Nederland B.V., Papendorpseweg 83, 3528BJ Utrecht, The Netherlands.
+Eli Lilly Nederland B.V. Orteliuslaan 1000 3528 BD Utrecht The Netherlands
 
 ## Manufacturer
 
@@ -1122,7 +1126,7 @@ Eli Lilly Benelux S.A./N.V. Tél/Tel: + 32-(0)2 548 84 84
 
 ## България
 
-ТП \" Ели Лили Недерланд \" Б . В . -България тел. + 359 2 491 41 40
+ТП \" Ели Лили Недерланд \" Б . В . - България тел. + 359 2 491 41 40
 
 ## Česká republika
 
@@ -1138,7 +1142,9 @@ Tlf.: +45 45 26 60 00
 
 ## Deutschland
 
-Lilly Deutschland GmbH Tel. + 49-(0) 6172 273 2222
+Lilly Deutschland GmbH
+
+Tel. + 49-(0) 6172 273 2222
 
 ## Eesti
 
@@ -1146,7 +1152,7 @@ Eli Lilly Nederland B.V. Tel: +372 6 817 280
 
 ## Ελλάδα
 
-ΦΑΡΜΑΣΕΡΒ -ΛΙΛΛΥ Α.Ε.Β.Ε.
+ΦΑΡΜΑΣΕΡΒ - ΛΙΛΛΥ Α.Ε.Β.Ε.
 
 Τηλ: +30 210 629 4600
 
@@ -1174,13 +1180,13 @@ Eli Lilly Lietuva Tel. +370 (5) 2649600
 
 ## Luxembourg/Luxemburg
 
-Eli Lilly Benelux S.A./N.V.
-
-Tél/Tel: + 32-(0)2 548 84 84
+Eli Lilly Benelux S.A./N.V. Tél/Tel: + 32-(0)2 548 84 84
 
 ## Magyarország
 
-Lilly Hungária Kft. Tel: + 36 1 328 5100
+Lilly Hungária Kft.
+
+Tel: + 36 1 328 5100
 
 ## Malta
 
@@ -1192,17 +1198,19 @@ Eli Lilly Nederland B.V. Tel: + 31-(0) 30 60 25 800
 
 ## Norge
 
-Eli Lilly Norge A.S. Tlf: + 47 22 88 18 00
+Eli Lilly Norge A.S.
+
+Tlf: + 47 22 88 18 00
 
 ## Österreich
 
-Eli Lilly Ges.m.b.H. Tel: + 43-(0) 1 711 780
+Eli Lilly Ges.m.b.H.
+
+Tel: + 43-(0) 1 711 780
 
 ## Polska
 
-Eli Lilly Polska Sp. z o.o.
-
-Tel: +48 22 440 33 00
+Eli Lilly Polska Sp. z o.o. Tel: +48 22 440 33 00
 
 ## Portugal
 
@@ -1279,25 +1287,3 @@ Puh/Tel: + 358-(0) 9 85 45 250
 Eli Lilly Sweden AB
 
 Tel: + 46-(0) 8 7378800
-
-<div style=\"page-break-after: always\"></div>
-
-## ANNEX IV
-
-## SCIENTIFIC CONCLUSIONS AND GROUNDS FOR THE VARIATION TO THE TERMS OF THE MARKETING AUTHORISATION(S)
-
-<div style=\"page-break-after: always\"></div>
-
-## Scientific conclusions
-
-Taking into account the PRAC Assessment Report on the PSUR(s) for pirtobrutinib, the scientific conclusions of PRAC are as follows:
-
-In view of available data on pirtobrutinib from clinical trials and spontaneous reports, including cases with a close temporal relationship, including positive de-challenges and re-challenges (of which one case had multiple positive rechallenges), the PRAC considers a causal relationship between pirtobrutinib and hepatic enzyme increased is at least a reasonable possibility. The PRAC concluded that the product information of products containing pirtobrutinib should be amended accordingly.
-
-Having reviewed the PRAC recommendation, the CHMP agrees with the PRAC overall conclusions and grounds for recommendation.
-
-## Grounds for the variation to the terms of the marketing authorisation(s)
-
-On the basis of the scientific conclusions for pirtobrutinib the CHMP is of the opinion that the benefit-risk balance of the medicinal product(s) containing pirtobrutinib is unchanged subject to the proposed changes to the product information
-
-The CHMP recommends that the terms of the marketing authorisation(s) should be varied.

@@ -1,20 +1,20 @@
 ---
-document_datetime: 2025-08-06 08:37:42
+document_datetime: 2026-01-26 15:04:23
 document_pages: 42
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/seebri-breezhaler-epar-product-information_en.pdf
 document_name: seebri-breezhaler-epar-product-information_en.pdf
 version: success
-processing_time: 10.510972
-conversion_datetime: 2025-12-17 15:34:51.513452
+processing_time: 10.2029245
+conversion_datetime: 2026-01-29 12:29:04.23609
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.64.1
-  docling-core: 2.55.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.11.0
+  docling-jobkit: 1.9.0
+  docling: 2.70.0
+  docling-core: 2.61.0
+  docling-ibm-models: 3.11.0
+  docling-parse: 4.7.3
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.1-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
 ---
 ## ANNEX I
 
@@ -42,7 +42,7 @@ For the full list of excipients, see section 6.1.
 
 Inhalation powder, hard capsule (inhalation powder).
 
-Transparent orange capsules containing a white powder, with the product code 'GPL50' printed in black above and the company logo ( ) printed in black below a black bar.
+Transparent orange capsules containing a white powder, with the product code ' GPL50 ' printed in black above and the company logo ( ) printed in black below a black bar.
 
 ## 4. CLINICAL PARTICULARS
 
@@ -114,13 +114,11 @@ Seebri Breezhaler should be used with caution in patients with narrow-angle glau
 
 Patients should be informed about the signs and symptoms of acute narrow-angle glaucoma and should be informed to stop using Seebri Breezhaler and to contact their doctor immediately should any of these signs or symptoms develop.
 
-## Patients with severe renal impairment
-
-A moderate mean increase in total systemic exposure (AUClast) of up to 1.4-fold was seen in subjects with mild and moderate renal impairment and up to 2.2-fold in subjects with severe renal impairment
-
 <div style=\"page-break-after: always\"></div>
 
-and end-stage renal disease. In patients with severe renal impairment (estimated glomerular filtration rate below 30 ml/min/1.73 m 2 ), including those with end-stage renal disease requiring dialysis, Seebri Breezhaler should be used only if the expected benefit outweighs the potential risk (see section 5.2). These patients should be monitored closely for potential adverse reactions.
+## Patients with severe renal impairment
+
+A moderate mean increase in total systemic exposure (AUClast) of up to 1.4-fold was seen in subjects with mild and moderate renal impairment and up to 2.2-fold in subjects with severe renal impairment and end-stage renal disease. In patients with severe renal impairment (estimated glomerular filtration rate below 30 ml/min/1.73 m 2 ), including those with end-stage renal disease requiring dialysis, Seebri Breezhaler should be used only if the expected benefit outweighs the potential risk (see section 5.2). These patients should be monitored closely for potential adverse reactions.
 
 ## Patients with a history of cardiovascular disease
 
@@ -154,11 +152,11 @@ It is unknown whether glycopyrronium bromide is excreted in human milk. However,
 
 Reproduction studies and other data in animals do not indicate a concern regarding fertility in either males or females (see section 5.3).
 
+<div style=\"page-break-after: always\"></div>
+
 ## 4.7 Effects on ability to drive and use machines
 
 Glycopyrronium has no or negligible influence on the ability to drive and use machines.
-
-<div style=\"page-break-after: always\"></div>
 
 ## 4.8 Undesirable effects
 
@@ -170,7 +168,7 @@ The safety profile is further characterised by other symptoms related to the ant
 
 ## Tabulated summary of adverse reactions
 
-Adverse reactions reported during the first six months of two pooled pivotal Phase III trials of 6 and 12 months duration are listed by MedDRA system organ class (Table 1). Within each system organ class, the adverse reactions are ranked by frequency, with the most frequent reactions first. Within each frequency grouping, adverse reactions are presented in order of decreasing seriousness. In addition, the corresponding frequency category for each adverse reaction is based on the following convention: very common (≥1/10); common (≥1/100 to &lt;1/10); uncommon (≥1/1,000 to &lt;1/100); rare (≥1/10,000 to &lt;1/1,000); very rare (&lt;1/10,000); not known (cannot be estimated from the available data).
+Adverse reactions reported during the first six months of two pooled pivotal Phase III trials of 6 and 12 months duration are listed by MedDRA system organ class (Table 1). Within each system organ class, the adverse reactions are ranked by frequency, with the most frequent reactions first. Within each frequency grouping, adverse reactions are presented in order of decreasing seriousness. In addition, the corresponding frequency category for each adverse reaction is based on the following convention: very common (≥1/10); common (≥1/100 to &lt;1/10); uncommon (≥1/1,000 to &lt;1/100) ; rare (≥1/10,000 to &lt;1/1,000); very rare (&lt;1/10,000); not known (cannot be estimated from the available data).
 
 ## Table 1 Adverse reactions
 
@@ -272,11 +270,11 @@ The clinical Phase III development programme included two phase III studies: a 6
 
 ## Effects on lung function
 
-Seebri Breezhaler 44 micrograms once daily provided consistently statistically significant improvement in lung function (forced expiratory volume in one second, FEV1, forced vital capacity, FVC, and inspiratory capacity, IC) in a number of clinical studies. In phase III studies, bronchodilator effects were seen within 5 minutes after the first dose and were maintained over the 24-hour dosing interval from the first dose. There was no attenuation of the bronchodilator effect over time in the 6and 12-month studies. The magnitude of the effect was dependent on the degree of reversibility of airflow limitation at baseline (tested by administration of a short-acting muscarinic antagonist bronchodilator): Patients with the lowest degree of reversibility at baseline (&lt;5%) generally exhibited a lower bronchodilator response than patients with a higher degree of reversibility at baseline (≥5%). At 12 weeks (primary endpoint), Seebri Breezhaler increased trough FEV1 by 72 ml in patients with the lowest degree of reversibility (&lt;5%) and by 113 ml in those patients with a higher degree of
+Seebri Breezhaler 44 micrograms once daily provided consistently statistically significant improvement in lung function (forced expiratory volume in one second, FEV1, forced vital capacity, FVC, and inspiratory capacity, IC) in a number of clinical studies. In phase III studies, bronchodilator effects were seen within 5 minutes after the first dose and were maintained over the 24-hour dosing interval from the first dose. There was no attenuation of the bronchodilator effect over time in the 6and 12-month studies. The magnitude of the effect was dependent on the degree of reversibility of airflow limitation at baseline (tested by administration of a short-acting muscarinic antagonist bronchodilator): Patients with the lowest degree of reversibility at baseline (&lt;5%) generally exhibited a lower bronchodilator response than patients with a higher degree of reve rsibility at baseline (≥5%). At 12 weeks (primary endpoint), Seebri Breezhaler increased trough FEV1 by 72 ml in patients with the lowest degree of reversibility (&lt;5%) and by 113 ml in those patients with a higher degree of
 
 <div style=\"page-break-after: always\"></div>
 
-reversibility at baseline (≥5%) compared to placebo (both p&lt;0.05).
+reversibility at baseline (≥5%) compared to placebo (both p&lt;0.05) .
 
 In the 6-month study, Seebri Breezhaler increased FEV1 after the first dose with an improvement of 93 ml within 5 minutes and 144 ml within 15 minutes of dosing, compared to placebo (both p&lt;0.001). In the 12-month study, the improvements were 87 ml at 5 minutes and 143 ml at 15 minutes (both p&lt;0.001). In the 12-month study, Seebri Breezhaler produced statistically significant improvements in FEV1 compared to tiotropium in the first 4 hours after dosing on day 1 and at week 26, and numerically greater values for FEV1 in the first 4 hours after dosing than tiotropium at week 12 and week 52.
 
@@ -290,7 +288,7 @@ Seebri Breezhaler once daily has also shown a statistically significant effect o
 
 ## COPD exacerbations reduction
 
-COPD exacerbation data was collected in the 6- and 12-month pivotal studies. In both studies, the percentage of patients experiencing a moderate or severe exacerbation (defined as requiring treatment with systemic corticosteroids and/or antibiotics or hospitalisation) was reduced. In the 6-month study, the percentage of patients experiencing a moderate or severe exacerbation was 17.5% for Seebri Breezhaler and 24.2% for placebo (Hazard ratio: 0.69, p=0.023), and in the 12-month study it was 32.8% for Seebri Breezhaler and 40.2% for placebo (Hazard ratio: 0.66, p=0.001). In a pooled analysis of the first 6 months of treatment in the 6- and 12-month studies, compared to placebo Seebri Breezhaler statistically significantly prolonged time to first moderate or severe exacerbation and reduced the rate of moderate or severe COPD exacerbations (0.53 exacerbations/year versus 0.77exacerbations /year, p&lt;0.001). The pooled analysis also showed fewer patients treated with Seebri Breezhaler than with placebo experienced an exacerbation requiring hospitalisation (1.7% versus 4.2%, p=0.003).
+COPD exacerbation data was collected in the 6- and 12 -month pivotal studies. In both studies, the percentage of patients experiencing a moderate or severe exacerbation (defined as requiring treatment with systemic corticosteroids and/or antibiotics or hospitalisation) was reduced. In the 6-month study, the percentage of patients experiencing a moderate or severe exacerbation was 17.5% for Seebri Breezhaler and 24.2% for placebo (Hazard ratio: 0.69, p=0.023), and in the 12-month study it was 32.8% for Seebri Breezhaler and 40.2% for placebo (Hazard ratio: 0.66, p=0.001). In a pooled analysis of the first 6 months of treatment in the 6- and 12-month studies, compared to placebo Seebri Breezhaler statistically significantly prolonged time to first moderate or severe exacerbation and reduced the rate of moderate or severe COPD exacerbations (0.53 exacerbations/year versus 0.77exacerbations /year, p&lt;0.001). The pooled analysis also showed fewer patients treated with Seebri Breezhaler than with placebo experienced an exacerbation requiring hospitalisation (1.7% versus 4.2%, p=0.003).
 
 ## Other effects
 
@@ -416,7 +414,7 @@ The capsules must always be stored in the original blister in order to protect f
 
 Seebri Breezhaler is a single-dose inhaler. Inhaler body and cap are made from acrylonitrile butadiene styrene, push buttons are made from methyl metacrylate acrylonitrile butadiene styrene. Needles and springs are made from stainless steel. Each blister strip contains either 6 or 10 hard capsules.
 
-## PA/Alu/PVC - Alu perforated unit-dose blister
+## PA/Alu/PVC -Alu perforated unit-dose blister
 
 Packs containing 6x1, 10x1, 12x1 or 30x1 hard capsules, together with one inhaler.
 
@@ -520,8 +518,6 @@ Detailed information on this medicinal product is available on the website of th
 Name and address of the manufacturer responsible for batch release
 
 Novartis Farmacéutica SA Gran Via de les Corts Catalanes, 764 08013 Barcelona Spain
-
-Novartis Pharma GmbH Roonstra ß e 25 D-90429 Nuremberg Germany
 
 Novartis Pharma GmbH Sophie-Germain-Strasse 10 90443 Nuremberg Germany
 
@@ -919,7 +915,8 @@ Seebri Breezhaler
 
 ## INNER LID OF OUTER CARTON OF UNIT PACK AND OF INTERMEDIATE CARTON OF MULTIPACK
 
-## 1. OTHER
+| 1.   | OTHER   |
+|------|---------|
 
 - 1 Insert
 
@@ -1024,7 +1021,9 @@ Talk to your doctor before using Seebri Breezhaler, if any of the following appl
 
 <div style=\"page-break-after: always\"></div>
 
-During treatment with Seebri Breezhaler, stop taking this medicine and tell your doctor immediately:
+## During treatment with Seebri Breezhaler,
+
+immediately:
 
 - -if you experience tightness of the chest, coughing, wheezing or breathlessness immediately after using Seebri Breezhaler (signs of bronchospasm).
 - -if you experience difficulties in breathing or swallowing, swelling of the tongue, lips or face, skin rash, itching and hives (signs of allergic reaction).
@@ -1074,12 +1073,15 @@ Use this medicine at the same time each day. This will also help you to remember
 
 You can inhale this medicine any time before or after food or drink.
 
+stop taking this medicine and tell your doctor
+
 <div style=\"page-break-after: always\"></div>
 
 ## How to inhale Seebri Breezhaler
 
 - -In this pack, you will find an inhaler and capsules (in blisters) that contain the medicine as inhalation powder. Only use the capsules with the inhaler provided in this pack (Seebri Breezhaler inhaler). The capsules should remain in the blister until you need to use them.
-- -Do not push the capsule through the foil.
+- -
+- Do not push the capsule through the foil.
 - -When you start a new pack, use the new Seebri Breezhaler inhaler that is supplied in the pack.
 - -Dispose of each inhaler after after all capsules in that pack have been used.
 - -Do not swallow the capsules.
@@ -1169,7 +1171,7 @@ If you get any side effects, talk to your doctor or pharmacist. This includes an
 
 Keep this medicine out of the sight and reach of children.
 
-Do not use this medicine after the expiry date which is stated on the carton and blister after 'EXP'. The expiry date refers to the last day of that month.
+Do not use this medicine after the expiry date which is stated on the carton and blister after ' EXP ' . The expiry date refers to the last day of that month.
 
 Do not store above 25°C.
 
@@ -1220,8 +1222,6 @@ Novartis Europharm Limited Vista Building Elm Park, Merrion Road Dublin 4 Irelan
 
 Novartis Farmacéutica SA Gran Via de les Corts Catalanes, 764 08013 Barcelona Spain
 
-Novartis Pharma GmbH Roonstraße 25 D-90429 Nuremberg Germany
-
 Novartis Pharma GmbH Sophie-Germain-Strasse 10 90443 Nuremberg Germany
 
 <div style=\"page-break-after: always\"></div>
@@ -1236,7 +1236,7 @@ Novartis Pharma N.V. Tél/Tel: +32 2 246 16 11
 
 Novartis Bulgaria EOOD
 
-Тел.: +359 2 489 98 28
+Тел .: +359 2 489 98 28
 
 ## Česká republika
 
@@ -1256,7 +1256,7 @@ SIA Novartis Baltics Eesti filiaal Tel: +372 66 30 810
 
 ## Ελλάδα
 
-Novartis (Hellas) A.E.B.E. Τηλ: +30 210 281 17 12
+Novartis (Hellas) A.E.B.E. Τηλ : +30 210 281 17 12
 
 ## España
 
@@ -1328,7 +1328,9 @@ Novartis Pharma Services Inc. Tel: +386 1 300 75 50
 
 ## Slovenská republika
 
-Novartis Slovakia s.r.o. Tel: +421 2 5542 5439
+Novartis Slovakia s.r.o.
+
+Tel: +421 2 5542 5439
 
 ## Suomi/Finland
 
@@ -1370,9 +1372,11 @@ Please read the full Instructions for Use before using the Seebri Breezhaler.
 
 <div style=\"page-break-after: always\"></div>
 
+Step 1c: Remove capsule Separate one of the blisters from the blister card. Peel open the blister and
+
 <!-- image -->
 
-Step 1c: Remove capsule Separate one of the blisters from the blister card. Peel open the blister and remove the capsule. Do not push the capsule through the foil. Do not swallow the capsule.
+remove the capsule. Do not push the capsule through the foil. Do not swallow the capsule.
 
 Step 1d: Insert capsule Never place a capsule directly into the mouthpiece.
 
@@ -1409,7 +1413,3 @@ Remove empty capsule Put the empty capsule in your household waste. Close the in
 <div style=\"page-break-after: always\"></div>
 
 <!-- image -->
-
-| Your Seebri Breezhaler Inhaler pack contains: • One Seebri Breezhaler inhaler • One or more blister cards, each containing either 6 or 10 Seebri Breezhaler capsules to be used in the inhaler Blister Base Cap Side buttons Capsule chamber Mouthpiece Screen   | Frequently Asked Questions Why didn't the inhaler make a noise when I inhaled? The capsule may be stuck in the capsule chamber. If this happens, carefully loosen the capsule by tapping the base of the inhaler. Inhale the medicine again by repeating steps 3a to 3c. What should I do if there is powder left inside the capsule? You have not received enough of your medicine. Close the inhaler and repeat steps 3a to 3c. I coughed after inhaling - does this matter? This may happen. As long as the capsule is empty you have received enough of your medicine. I felt small pieces of the capsule on my tongue - does this matter? This can happen. It is not harmful. The chances of the capsule breaking into small pieces will be increased if the capsule is pierced more than once.   | Cleaning the inhaler Wipe the mouthpiece inside and outside with a clean, dry, lint-free cloth to remove any powder residue. Keep the inhaler dry. Never wash your inhaler with water.             |
-|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Your Seebri Breezhaler Inhaler pack contains: • One Seebri Breezhaler inhaler • One or more blister cards, each containing either 6 or 10 Seebri Breezhaler capsules to be used in the inhaler Blister Base Cap Side buttons Capsule chamber Mouthpiece Screen   | Frequently Asked Questions Why didn't the inhaler make a noise when I inhaled? The capsule may be stuck in the capsule chamber. If this happens, carefully loosen the capsule by tapping the base of the inhaler. Inhale the medicine again by repeating steps 3a to 3c. What should I do if there is powder left inside the capsule? You have not received enough of your medicine. Close the inhaler and repeat steps 3a to 3c. I coughed after inhaling - does this matter? This may happen. As long as the capsule is empty you have received enough of your medicine. I felt small pieces of the capsule on my tongue - does this matter? This can happen. It is not harmful. The chances of the capsule breaking into small pieces will be increased if the capsule is pierced more than once.   | Disposing of the inhaler after use Each inhaler should be disposed of after all capsules have been used. Ask your pharmacist how to dispose of medicines and inhalers that are no longer required. |

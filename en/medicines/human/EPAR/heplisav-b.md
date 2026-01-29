@@ -1,18 +1,18 @@
 ---
-document_datetime: 2025-12-29 11:34:33
+document_datetime: 2026-01-28 17:26:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/heplisav-b.html
 document_name: heplisav-b.html
 version: success
-processing_time: 0.1086732
-conversion_datetime: 2025-12-31 02:37:45.212715
+processing_time: 0.1335841
+conversion_datetime: 2026-01-29 11:58:38.312821
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.66.0
-  docling-core: 2.57.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.11.0
+  docling-jobkit: 1.9.0
+  docling: 2.70.0
+  docling-core: 2.61.0
+  docling-ibm-models: 3.11.0
+  docling-parse: 4.7.3
   python: cpython-313 (3.13.11)
   plaform: macOS-26.2-arm64-arm-64bit-Mach-O
 ---
@@ -25,8 +25,6 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 hepatitis B surface antigen Medicine Human Authorised
-
-On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -106,7 +104,7 @@ English (EN) (110.26 KB - PDF)
 
 [View](/en/documents/overview/heplisav-b-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-137)
+[Other languages (22)](#file-language-dropdown-77)
 
 български (BG) (131.45 KB - PDF)
 
@@ -298,17 +296,17 @@ English (EN) (612.58 KB - PDF)
 
 Heplisav B : EPAR - Product information
 
-English (EN) (250.49 KB - PDF)
+English (EN) (261.36 KB - PDF)
 
 **First published:** 01/03/2021
 
-**Last updated:** 31/03/2025
+**Last updated:** 28/01/2026
 
 [View](/en/documents/product-information/heplisav-b-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-164)
+[Other languages (24)](#file-language-dropdown-334)
 
-български (BG) (336.42 KB - PDF)
+български (BG) (824.35 KB - PDF)
 
 **First published:**
 
@@ -316,11 +314,11 @@ English (EN) (250.49 KB - PDF)
 
 **Last updated:**
 
-31/03/2025
+28/01/2026
 
 [View](/bg/documents/product-information/heplisav-b-epar-product-information_bg.pdf)
 
-español (ES) (260.37 KB - PDF)
+español (ES) (279.86 KB - PDF)
 
 **First published:**
 
@@ -328,11 +326,11 @@ español (ES) (260.37 KB - PDF)
 
 **Last updated:**
 
-31/03/2025
+28/01/2026
 
 [View](/es/documents/product-information/heplisav-b-epar-product-information_es.pdf)
 
-čeština (CS) (288.04 KB - PDF)
+čeština (CS) (331.02 KB - PDF)
 
 **First published:**
 
@@ -340,11 +338,11 @@ español (ES) (260.37 KB - PDF)
 
 **Last updated:**
 
-31/03/2025
+28/01/2026
 
 [View](/cs/documents/product-information/heplisav-b-epar-product-information_cs.pdf)
 
-dansk (DA) (216.51 KB - PDF)
+dansk (DA) (263.42 KB - PDF)
 
 **First published:**
 
@@ -352,11 +350,11 @@ dansk (DA) (216.51 KB - PDF)
 
 **Last updated:**
 
-31/03/2025
+28/01/2026
 
 [View](/da/documents/product-information/heplisav-b-epar-product-information_da.pdf)
 
-Deutsch (DE) (235.17 KB - PDF)
+Deutsch (DE) (280.98 KB - PDF)
 
 **First published:**
 
@@ -364,11 +362,11 @@ Deutsch (DE) (235.17 KB - PDF)
 
 **Last updated:**
 
-31/03/2025
+28/01/2026
 
 [View](/de/documents/product-information/heplisav-b-epar-product-information_de.pdf)
 
-eesti keel (ET) (239.9 KB - PDF)
+eesti keel (ET) (288.22 KB - PDF)
 
 **First published:**
 
@@ -376,11 +374,11 @@ eesti keel (ET) (239.9 KB - PDF)
 
 **Last updated:**
 
-31/03/2025
+28/01/2026
 
 [View](/et/documents/product-information/heplisav-b-epar-product-information_et.pdf)
 
-ελληνικά (EL) (333.38 KB - PDF)
+ελληνικά (EL) (385.84 KB - PDF)
 
 **First published:**
 
@@ -388,11 +386,11 @@ eesti keel (ET) (239.9 KB - PDF)
 
 **Last updated:**
 
-31/03/2025
+28/01/2026
 
 [View](/el/documents/product-information/heplisav-b-epar-product-information_el.pdf)
 
-français (FR) (233.2 KB - PDF)
+français (FR) (279.3 KB - PDF)
 
 **First published:**
 
@@ -400,11 +398,11 @@ français (FR) (233.2 KB - PDF)
 
 **Last updated:**
 
-31/03/2025
+28/01/2026
 
 [View](/fr/documents/product-information/heplisav-b-epar-product-information_fr.pdf)
 
-hrvatski (HR) (279.67 KB - PDF)
+hrvatski (HR) (328.26 KB - PDF)
 
 **First published:**
 
@@ -412,11 +410,11 @@ hrvatski (HR) (279.67 KB - PDF)
 
 **Last updated:**
 
-31/03/2025
+28/01/2026
 
 [View](/hr/documents/product-information/heplisav-b-epar-product-information_hr.pdf)
 
-íslenska (IS) (225.49 KB - PDF)
+íslenska (IS) (272.34 KB - PDF)
 
 **First published:**
 
@@ -424,11 +422,11 @@ hrvatski (HR) (279.67 KB - PDF)
 
 **Last updated:**
 
-31/03/2025
+28/01/2026
 
 [View](/is/documents/product-information/heplisav-b-epar-product-information_is.pdf)
 
-italiano (IT) (233.35 KB - PDF)
+italiano (IT) (276.77 KB - PDF)
 
 **First published:**
 
@@ -436,11 +434,11 @@ italiano (IT) (233.35 KB - PDF)
 
 **Last updated:**
 
-31/03/2025
+28/01/2026
 
 [View](/it/documents/product-information/heplisav-b-epar-product-information_it.pdf)
 
-latviešu valoda (LV) (310.64 KB - PDF)
+latviešu valoda (LV) (358.28 KB - PDF)
 
 **First published:**
 
@@ -448,11 +446,11 @@ latviešu valoda (LV) (310.64 KB - PDF)
 
 **Last updated:**
 
-31/03/2025
+28/01/2026
 
 [View](/lv/documents/product-information/heplisav-b-epar-product-information_lv.pdf)
 
-lietuvių kalba (LT) (313.59 KB - PDF)
+lietuvių kalba (LT) (358.04 KB - PDF)
 
 **First published:**
 
@@ -460,11 +458,11 @@ lietuvių kalba (LT) (313.59 KB - PDF)
 
 **Last updated:**
 
-31/03/2025
+28/01/2026
 
 [View](/lt/documents/product-information/heplisav-b-epar-product-information_lt.pdf)
 
-magyar (HU) (317.29 KB - PDF)
+magyar (HU) (368.46 KB - PDF)
 
 **First published:**
 
@@ -472,11 +470,11 @@ magyar (HU) (317.29 KB - PDF)
 
 **Last updated:**
 
-31/03/2025
+28/01/2026
 
 [View](/hu/documents/product-information/heplisav-b-epar-product-information_hu.pdf)
 
-Malti (MT) (326.36 KB - PDF)
+Malti (MT) (375.56 KB - PDF)
 
 **First published:**
 
@@ -484,11 +482,11 @@ Malti (MT) (326.36 KB - PDF)
 
 **Last updated:**
 
-31/03/2025
+28/01/2026
 
 [View](/mt/documents/product-information/heplisav-b-epar-product-information_mt.pdf)
 
-Nederlands (NL) (244.59 KB - PDF)
+Nederlands (NL) (294.71 KB - PDF)
 
 **First published:**
 
@@ -496,11 +494,11 @@ Nederlands (NL) (244.59 KB - PDF)
 
 **Last updated:**
 
-31/03/2025
+28/01/2026
 
 [View](/nl/documents/product-information/heplisav-b-epar-product-information_nl.pdf)
 
-norsk (NO) (238.79 KB - PDF)
+norsk (NO) (284.66 KB - PDF)
 
 **First published:**
 
@@ -508,11 +506,11 @@ norsk (NO) (238.79 KB - PDF)
 
 **Last updated:**
 
-31/03/2025
+28/01/2026
 
 [View](/no/documents/product-information/heplisav-b-epar-product-information_no.pdf)
 
-polski (PL) (320.44 KB - PDF)
+polski (PL) (824.15 KB - PDF)
 
 **First published:**
 
@@ -520,11 +518,11 @@ polski (PL) (320.44 KB - PDF)
 
 **Last updated:**
 
-31/03/2025
+28/01/2026
 
 [View](/pl/documents/product-information/heplisav-b-epar-product-information_pl.pdf)
 
-português (PT) (229.63 KB - PDF)
+português (PT) (271.98 KB - PDF)
 
 **First published:**
 
@@ -532,11 +530,11 @@ português (PT) (229.63 KB - PDF)
 
 **Last updated:**
 
-31/03/2025
+28/01/2026
 
 [View](/pt/documents/product-information/heplisav-b-epar-product-information_pt.pdf)
 
-română (RO) (341.92 KB - PDF)
+română (RO) (362.8 KB - PDF)
 
 **First published:**
 
@@ -544,11 +542,11 @@ română (RO) (341.92 KB - PDF)
 
 **Last updated:**
 
-31/03/2025
+28/01/2026
 
 [View](/ro/documents/product-information/heplisav-b-epar-product-information_ro.pdf)
 
-slovenčina (SK) (287.5 KB - PDF)
+slovenčina (SK) (361.66 KB - PDF)
 
 **First published:**
 
@@ -556,11 +554,11 @@ slovenčina (SK) (287.5 KB - PDF)
 
 **Last updated:**
 
-31/03/2025
+28/01/2026
 
 [View](/sk/documents/product-information/heplisav-b-epar-product-information_sk.pdf)
 
-slovenščina (SL) (282.34 KB - PDF)
+slovenščina (SL) (349.9 KB - PDF)
 
 **First published:**
 
@@ -568,11 +566,11 @@ slovenščina (SL) (282.34 KB - PDF)
 
 **Last updated:**
 
-31/03/2025
+28/01/2026
 
 [View](/sl/documents/product-information/heplisav-b-epar-product-information_sl.pdf)
 
-Suomi (FI) (267.66 KB - PDF)
+Suomi (FI) (286.19 KB - PDF)
 
 **First published:**
 
@@ -580,11 +578,11 @@ Suomi (FI) (267.66 KB - PDF)
 
 **Last updated:**
 
-31/03/2025
+28/01/2026
 
 [View](/fi/documents/product-information/heplisav-b-epar-product-information_fi.pdf)
 
-svenska (SV) (228.42 KB - PDF)
+svenska (SV) (273.41 KB - PDF)
 
 **First published:**
 
@@ -592,11 +590,11 @@ svenska (SV) (228.42 KB - PDF)
 
 **Last updated:**
 
-31/03/2025
+28/01/2026
 
 [View](/sv/documents/product-information/heplisav-b-epar-product-information_sv.pdf)
 
-**Latest procedure affecting product information:** II/0037 27/02/2024
+**Latest procedure affecting product information:** R/0000271891 17/11/2025
 
 icon globe
 
@@ -622,7 +620,7 @@ English (EN) (50.13 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/heplisav-b-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-339)
+[Other languages (24)](#file-language-dropdown-247)
 
 български (BG) (106.55 KB - PDF)
 
@@ -928,19 +926,13 @@ It can be expected that hepatitis D will also be prevented by immunisation with 
 
 ## Authorisation details
 
-EMA product number EMEA/H/C/005063
-
-Additional monitoring
-
-This medicine is under additional monitoring, meaning that it is monitored even more intensively than other medicines. For more information, see Medicines under [additional monitoring](/node/68821) .
-
-Marketing authorisation holder
+EMA product number EMEA/H/C/005063 Marketing authorisation holder
 
 Dynavax GmbH
 
 Eichsfelder Strasse 11
 
-Opinion adopted 10/12/2020 Marketing authorisation issued 18/02/2021 Revision 7
+Opinion adopted 10/12/2020 Marketing authorisation issued 18/02/2021 Revision 8
 
 ## Assessment history
 
@@ -952,13 +944,215 @@ Collapse section
 
 Heplisav B : EPAR - Procedural steps taken and scientific information after authorisation
 
+English (EN) (261.36 KB - PDF)
+
+**First published:** 28/01/2026
+
+[View](/en/documents/procedural-steps-after/heplisav-b-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf)
+
+[Other languages (24)](#file-language-dropdown-916)
+
+български (BG) (824.35 KB - PDF)
+
+**First published:**
+
+28/01/2026
+
+[View](/bg/documents/procedural-steps-after/heplisav-b-epar-procedural-steps-taken-scientific-information-after-authorisation_bg.pdf)
+
+español (ES) (279.86 KB - PDF)
+
+**First published:**
+
+28/01/2026
+
+[View](/es/documents/procedural-steps-after/heplisav-b-epar-procedural-steps-taken-scientific-information-after-authorisation_es.pdf)
+
+čeština (CS) (331.02 KB - PDF)
+
+**First published:**
+
+28/01/2026
+
+[View](/cs/documents/procedural-steps-after/heplisav-b-epar-procedural-steps-taken-scientific-information-after-authorisation_cs.pdf)
+
+dansk (DA) (263.42 KB - PDF)
+
+**First published:**
+
+28/01/2026
+
+[View](/da/documents/procedural-steps-after/heplisav-b-epar-procedural-steps-taken-scientific-information-after-authorisation_da.pdf)
+
+Deutsch (DE) (280.98 KB - PDF)
+
+**First published:**
+
+28/01/2026
+
+[View](/de/documents/procedural-steps-after/heplisav-b-epar-procedural-steps-taken-scientific-information-after-authorisation_de.pdf)
+
+eesti keel (ET) (288.22 KB - PDF)
+
+**First published:**
+
+28/01/2026
+
+[View](/et/documents/procedural-steps-after/heplisav-b-epar-procedural-steps-taken-scientific-information-after-authorisation_et.pdf)
+
+ελληνικά (EL) (385.84 KB - PDF)
+
+**First published:**
+
+28/01/2026
+
+[View](/el/documents/procedural-steps-after/heplisav-b-epar-procedural-steps-taken-scientific-information-after-authorisation_el.pdf)
+
+français (FR) (279.3 KB - PDF)
+
+**First published:**
+
+28/01/2026
+
+[View](/fr/documents/procedural-steps-after/heplisav-b-epar-procedural-steps-taken-scientific-information-after-authorisation_fr.pdf)
+
+hrvatski (HR) (328.26 KB - PDF)
+
+**First published:**
+
+28/01/2026
+
+[View](/hr/documents/procedural-steps-after/heplisav-b-epar-procedural-steps-taken-scientific-information-after-authorisation_hr.pdf)
+
+íslenska (IS) (272.34 KB - PDF)
+
+**First published:**
+
+28/01/2026
+
+[View](/is/documents/procedural-steps-after/heplisav-b-epar-procedural-steps-taken-scientific-information-after-authorisation_is.pdf)
+
+italiano (IT) (276.77 KB - PDF)
+
+**First published:**
+
+28/01/2026
+
+[View](/it/documents/procedural-steps-after/heplisav-b-epar-procedural-steps-taken-scientific-information-after-authorisation_it.pdf)
+
+latviešu valoda (LV) (358.28 KB - PDF)
+
+**First published:**
+
+28/01/2026
+
+[View](/lv/documents/procedural-steps-after/heplisav-b-epar-procedural-steps-taken-scientific-information-after-authorisation_lv.pdf)
+
+lietuvių kalba (LT) (358.04 KB - PDF)
+
+**First published:**
+
+28/01/2026
+
+[View](/lt/documents/procedural-steps-after/heplisav-b-epar-procedural-steps-taken-scientific-information-after-authorisation_lt.pdf)
+
+magyar (HU) (368.46 KB - PDF)
+
+**First published:**
+
+28/01/2026
+
+[View](/hu/documents/procedural-steps-after/heplisav-b-epar-procedural-steps-taken-scientific-information-after-authorisation_hu.pdf)
+
+Malti (MT) (375.56 KB - PDF)
+
+**First published:**
+
+28/01/2026
+
+[View](/mt/documents/procedural-steps-after/heplisav-b-epar-procedural-steps-taken-scientific-information-after-authorisation_mt.pdf)
+
+Nederlands (NL) (294.71 KB - PDF)
+
+**First published:**
+
+28/01/2026
+
+[View](/nl/documents/procedural-steps-after/heplisav-b-epar-procedural-steps-taken-scientific-information-after-authorisation_nl.pdf)
+
+norsk (NO) (284.66 KB - PDF)
+
+**First published:**
+
+28/01/2026
+
+[View](/no/documents/procedural-steps-after/heplisav-b-epar-procedural-steps-taken-scientific-information-after-authorisation_no.pdf)
+
+polski (PL) (824.15 KB - PDF)
+
+**First published:**
+
+28/01/2026
+
+[View](/pl/documents/procedural-steps-after/heplisav-b-epar-procedural-steps-taken-scientific-information-after-authorisation_pl.pdf)
+
+português (PT) (271.98 KB - PDF)
+
+**First published:**
+
+28/01/2026
+
+[View](/pt/documents/procedural-steps-after/heplisav-b-epar-procedural-steps-taken-scientific-information-after-authorisation_pt.pdf)
+
+română (RO) (362.8 KB - PDF)
+
+**First published:**
+
+28/01/2026
+
+[View](/ro/documents/procedural-steps-after/heplisav-b-epar-procedural-steps-taken-scientific-information-after-authorisation_ro.pdf)
+
+slovenčina (SK) (361.66 KB - PDF)
+
+**First published:**
+
+28/01/2026
+
+[View](/sk/documents/procedural-steps-after/heplisav-b-epar-procedural-steps-taken-scientific-information-after-authorisation_sk.pdf)
+
+slovenščina (SL) (349.9 KB - PDF)
+
+**First published:**
+
+28/01/2026
+
+[View](/sl/documents/procedural-steps-after/heplisav-b-epar-procedural-steps-taken-scientific-information-after-authorisation_sl.pdf)
+
+Suomi (FI) (286.19 KB - PDF)
+
+**First published:**
+
+28/01/2026
+
+[View](/fi/documents/procedural-steps-after/heplisav-b-epar-procedural-steps-taken-scientific-information-after-authorisation_fi.pdf)
+
+svenska (SV) (273.41 KB - PDF)
+
+**First published:**
+
+28/01/2026
+
+[View](/sv/documents/procedural-steps-after/heplisav-b-epar-procedural-steps-taken-scientific-information-after-authorisation_sv.pdf)
+
+Heplisav B : EPAR - Procedural steps taken and scientific information after authorisation (archive)
+
 English (EN) (225.26 KB - PDF)
 
 **First published:** 11/01/2022
 
-**Last updated:** 31/03/2025
+**Last updated:** 28/01/2026
 
-[View](/en/documents/procedural-steps-after/heplisav-b-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf)
+[View](/en/documents/procedural-steps-after/heplisav-b-epar-procedural-steps-taken-scientific-information-after-authorisation-archive_en.pdf)
 
 ## Initial marketing authorisation documents
 
@@ -998,7 +1192,7 @@ English (EN) (121.53 KB - PDF)
 - [Post-Marketing Observational Surveillance Study to Evaluate the Occurrence of Acute Myocardial Infarction in Adults 18 Years of Age and Older Who Receive HEPLISAV-B® Compared with Another Hepatitis B Vaccine (DV2-HBV-25) - post-authorisation study](https://catalogues.ema.europa.eu/study/50453)
 - [Post-Marketing Observational Surveillance Study to Evaluate the Incidence of New-Onset Immune-Mediated Diseases, Herpes Zoster, and Anaphylaxis in Adults 18 Years of Age and Older Who Receive HEPLISAV B® Compared with Another Hepatitis B Vaccine (DV2-HBV-26) - post-authorisation study](https://catalogues.ema.europa.eu/study/50456)
 
-**This page was last updated on** 31/03/2025
+**This page was last updated on** 28/01/2026
 
 ## Share this page
 

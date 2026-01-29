@@ -1,20 +1,20 @@
 ---
-document_datetime: 2025-08-06 11:57:01
+document_datetime: 2026-01-26 15:16:12
 document_pages: 42
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/enurev-breezhaler-epar-product-information_en.pdf
 document_name: enurev-breezhaler-epar-product-information_en.pdf
 version: success
-processing_time: 10.0946572
-conversion_datetime: 2025-12-17 08:09:38.35054
+processing_time: 10.0004894
+conversion_datetime: 2026-01-29 12:17:50.390043
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.64.1
-  docling-core: 2.55.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.11.0
+  docling-jobkit: 1.9.0
+  docling: 2.70.0
+  docling-core: 2.61.0
+  docling-ibm-models: 3.11.0
+  docling-parse: 4.7.3
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.1-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
 ---
 ## ANNEX I
 
@@ -42,7 +42,7 @@ For the full list of excipients, see section 6.1.
 
 Inhalation powder, hard capsule (inhalation powder).
 
-Transparent orange capsules containing a white powder, with the product code 'GPL50' printed in black above and the company logo ( ) printed in black below a black bar.
+Transparent orange capsules containing a white powder, with the product code ' GPL50 ' printed in black above and the company logo ( ) printed in black below a black bar.
 
 ## 4. CLINICAL PARTICULARS
 
@@ -168,7 +168,7 @@ The safety profile is further characterised by other symptoms related to the ant
 
 ## Tabulated summary of adverse reactions
 
-Adverse reactions reported during the first six months of two pooled pivotal Phase III trials of 6 and 12 months duration are listed by MedDRA system organ class (Table 1). Within each system organ class, the adverse reactions are ranked by frequency, with the most frequent reactions first. Within each frequency grouping, adverse reactions are presented in order of decreasing seriousness. In addition, the corresponding frequency category for each adverse reaction is based on the following convention: very c ommon (≥1/10); common (≥1/100 to &lt;1/10); uncommon (≥1/1,000 to &lt;1/100); rare (≥1/10,000 to &lt;1/1,000); very rare (&lt;1/10,000); not known (cannot be estimated from the available data).
+Adverse reactions reported during the first six months of two pooled pivotal Phase III trials of 6 and 12 months duration are listed by MedDRA system organ class (Table 1). Within each system organ class, the adverse reactions are ranked by frequency, with the most frequent reactions first. Within each frequency grouping, adverse reactions are presented in order of decreasing seriousness. In addition, the corresponding frequency category for each adverse reaction is based on the following convention: very common (≥1/10); common (≥1/100 to &lt;1/10); uncommon (≥1/1,000 to &lt;1/100) ; rare (≥1/10,000 to &lt;1/1,000); very rare (&lt;1/10,000); not known (cannot be estimated from the available data).
 
 ## Table 1 Adverse reactions
 
@@ -270,13 +270,15 @@ The clinical Phase III development programme included two phase III studies: a 6
 
 ## Effects on lung function
 
-Enurev Breezhaler 44 micrograms once daily provided consistently statistically significant improvement in lung function (forced expiratory volume in one second, FEV1, forced vital capacity, FVC, and inspiratory capacity, IC) in a number of clinical studies. In phase III studies, bronchodilator effects were seen within 5 minutes after the first dose and were maintained over the 24-hour dosing interval from the first dose. There was no attenuation of the bronchodilator effect over time in the 6and 12-month studies. The magnitude of the effect was dependent on the degree of reversibility of airflow limitation at baseline (tested by administration of a short-acting muscarinic antagonist bronchodilator): Patients with the lowest degree of reversibility at baseline (&lt;5%) generally exhibited a lower bronchodilator response than patients with a higher degree of reversibility at baseline (≥5%). At 12 weeks (primary endpoint), Enurev Breezhaler increased trough FEV1 by 72 ml in patients with the lowest degree of reversibility ( &lt; 5%) and by 113 ml in those patients with a higher degree of reversibility at baseline (≥5%) compared to placebo (both p&lt;0.05) .
+Enurev Breezhaler 44 micrograms once daily provided consistently statistically significant improvement in lung function (forced expiratory volume in one second, FEV1, forced vital capacity, FVC, and inspiratory capacity, IC) in a number of clinical studies. In phase III studies, bronchodilator effects were seen within 5 minutes after the first dose and were maintained over the 24-hour dosing interval from the first dose. There was no attenuation of the bronchodilator effect over time in the 6and 12-month studies. The magnitude of the effect was dependent on the degree of reversibility of airflow limitation at baseline (tested by administration of a short-acting muscarinic antagonist bronchodilator): Patients with the lowest degree of reversibility at baseline (&lt;5%) generally exhibited a lower bronchodilator response than patients with a higher degree of reversibility at baseline (≥5%). At 12 weeks (primary endpoint), Enurev Breezhaler increased trough FEV1 by 72 ml in patients with
 
 <div style=\"page-break-after: always\"></div>
 
+the lowest degree of reversibility (&lt;5%) and by 113 ml in those patients with a higher degree of reversibility at baseline (≥5%) compared to placebo (both p&lt;0.05) .
+
 In the 6-month study, Enurev Breezhaler increased FEV1 after the first dose with an improvement of 93 ml within 5 minutes and 144 ml within 15 minutes of dosing, compared to placebo (both p&lt;0.001). In the 12-month study, the improvements were 87 ml at 5 minutes and 143 ml at 15 minutes (both p&lt;0.001). In the 12-month study, Enurev Breezhaler produced statistically significant improvements in FEV1 compared to tiotropium in the first 4 hours after dosing on day 1 and at week 26, and numerically greater values for FEV1 in the first 4 hours after dosing than tiotropium at week 12 and week 52.
 
-The values for FEV1 at the end of the dosing interval (24 h post dose) were similar between the first dose and those seen after 1 year of dosing. At 12 weeks (primary endpoint), Enurev Breezhaler increased trough FEV1 by 108 ml in the 6-month study and by 97 ml in the 12-month study compared to placebo (both p&lt;0. 001). In the 12-month study, the improvement versus placebo for tiotropium was 83 ml (p&lt;0.001).
+The values for FEV1 at the end of the dosing interval (24 h post dose) were similar between the first dose and those seen after 1 year of dosing. At 12 weeks (primary endpoint), Enurev Breezhaler increased trough FEV1 by 108 ml in the 6-month study and by 97 ml in the 12-month study compared to placebo (both p&lt;0.001). In the 12-month study, the improvement versus placebo for tiotropium was 83 ml (p&lt;0.001).
 
 ## Symptomatic outcomes
 
@@ -286,17 +288,17 @@ Enurev Breezhaler once daily has also shown a statistically significant effect o
 
 ## COPD exacerbations reduction
 
-COPD exacerbation data was collected in the 6- and 12-month pivotal studies. In both studies, the percentage of patients experiencing a moderate or severe exacerbation (defined as requiring treatment with systemic corticosteroids and/or antibiotics or hospitalisation) was reduced. In the 6-month study, the percentage of patients experiencing a moderate or severe exacerbation was 17.5% for Enurev Breezhaler and 24.2% for placebo (Hazard ratio: 0.69, p=0.023), and in the 12-month study it was 32.8% for Enurev Breezhaler and 40.2% for placebo (Hazard ratio: 0.66, p=0.001). In a pooled analysis of the first 6 months of treatment in the 6- and 12-month studies, compared to placebo Enurev Breezhaler statistically significantly prolonged time to first moderate or severe exacerbation and reduced the rate of moderate or severe COPD exacerbations (0.53 exacerbations/year versus 0.77exacerbations /year, p&lt;0.001). The pooled analysis also showed fewer patients treated with Enurev Breezhaler than with placebo experienced an exacerbation requiring hospitalisation (1.7% versus 4.2%, p=0.003).
+COPD exacerbation data was collected in the 6- and 12 -month pivotal studies. In both studies, the percentage of patients experiencing a moderate or severe exacerbation (defined as requiring treatment with systemic corticosteroids and/or antibiotics or hospitalisation) was reduced. In the 6-month study, the percentage of patients experiencing a moderate or severe exacerbation was 17.5% for Enurev Breezhaler and 24.2% for placebo (Hazard ratio: 0.69, p=0.023), and in the 12-month study it was 32.8% for Enurev Breezhaler and 40.2% for placebo (Hazard ratio: 0.66, p=0.001). In a pooled analysis of the first 6 months of treatment in the 6- and 12-month studies, compared to placebo Enurev Breezhaler statistically significantly prolonged time to first moderate or severe exacerbation and reduced the rate of moderate or severe COPD exacerbations (0.53 exacerbations/year versus 0.77exacerbations /year, p&lt;0.001). The pooled analysis also showed fewer patients treated with Enurev Breezhaler than with placebo experienced an exacerbation requiring hospitalisation (1.7% versus 4.2%, p=0.003).
 
 ## Other effects
 
 Enurev Breezhaler once daily statistically significantly reduced the use of rescue medication (salbutamol) by 0.46 puffs per day (p=0.005) over 26 weeks and by 0.37 puffs per day (p=0.039) over 52 weeks, compared to placebo for the 6- and 12-month studies, respectively.
 
-In a 3-week study where exercise tolerance was tested via cycle ergometer at submaximal (80%) workload (submaximal exercise tolerance test), Enurev Breezhaler, dosed in the morning, reduced dynamic hyperinflation and improved the length of time exercise could be maintained from the first dose onwards. On the first day of treatment inspiratory capacity under exercise was improved by 230 ml and exercise endurance time was improved by 43 seconds (an increase of 10%) compared to placebo. After three weeks of treatment the improvement in inspiratory capacity with Enurev Breezhaler was similar to the first day (200 ml), exercise endurance time however had increased by
+In a 3-week study where exercise tolerance was tested via cycle ergometer at submaximal (80%) workload (submaximal exercise tolerance test), Enurev Breezhaler, dosed in the morning, reduced dynamic hyperinflation and improved the length of time exercise could be maintained from the first dose onwards. On the first day of treatment inspiratory capacity under exercise was improved by 230 ml and exercise endurance time was improved by 43 seconds (an increase of 10%) compared to
 
 <div style=\"page-break-after: always\"></div>
 
-89 seconds (an increase of 21%) compared to placebo. Enurev Breezhaler was found to decrease dyspnoea and leg discomfort when exercising as measured using Borg scales. Enurev Breezhaler also reduced dyspnoea at rest measured using the Transitional Dyspnoea Index.
+placebo. After three weeks of treatment the improvement in inspiratory capacity with Enurev Breezhaler was similar to the first day (200 ml), exercise endurance time however had increased by 89 seconds (an increase of 21%) compared to placebo. Enurev Breezhaler was found to decrease dyspnoea and leg discomfort when exercising as measured using Borg scales. Enurev Breezhaler also reduced dyspnoea at rest measured using the Transitional Dyspnoea Index.
 
 ## Secondary pharmacodynamic effects
 
@@ -324,9 +326,9 @@ After intravenous dosing, the steady-state volume of distribution of glycopyrron
 
 In vitro metabolism studies showed consistent metabolic pathways for glycopyrronium bromide between animals and humans. Hydroxylation resulting in a variety of mono-and bis-hydroxylated metabolites and direct hydrolysis resulting in the formation of a carboxylic acid derivative (M9) were seen. In vivo , M9 is formed from the swallowed dose fraction of inhaled glycopyrronium bromide. Glucuronide and/or sulfate conjugates of glycopyrronium were found in urine of humans after repeated inhalation, accounting for about 3% of the dose.
 
-Multiple CYP isoenzymes contribute to the oxidative biotransformation of glycopyrronium. Inhibition or induction of the metabolism of glycopyrronium is unlikely to result in a relevant change of systemic exposure to the active substance.
-
 <div style=\"page-break-after: always\"></div>
+
+Multiple CYP isoenzymes contribute to the oxidative biotransformation of glycopyrronium. Inhibition or induction of the metabolism of glycopyrronium is unlikely to result in a relevant change of systemic exposure to the active substance.
 
 In vitro inhibition studies demonstrated that glycopyrronium bromide has no relevant capacity to inhibit CYP1A2, CYP2A6, CYP2C8, CYP2C9, CYP2C19, CYP2D6, CYP2E1 or CYP3A4/5, the efflux transporters MDR1, MRP2 or MXR, and the uptake transporters OCT1 or OCT2. In vitro enzyme induction studies did not indicate a clinically relevant induction by glycopyrronium bromide for cytochrome P450 isoenzymes, or for UGT1A1 and the transporters MDR1 and MRP2.
 
@@ -358,9 +360,11 @@ Clinical studies have not been conducted in patients with hepatic impairment. Gl
 
 ## Patients with renal impairment
 
-Renal impairment has an impact on the systemic exposure to glycopyrronium bromide. A moderate mean increase in total systemic exposure (AUClast) of up to 1.4-fold was seen in subjects with mild and moderate renal impairment and up to 2.2-fold in subjects with severe renal impairment and end-stage renal disease. In COPD patients with mild and moderate renal impairment (estimated glomerular filtration rate, eGFR ≥30 ml/min/1.73 m 2 ) Enurev Breezhaler can be used at the recommended dose. In patients with severe renal impairment (eGFR &lt;30 ml/min/1.73 m 2 ), including those with end-stage renal disease requiring dialysis, Enurev Breezhaler should only be used if the expected benefit outweighs the potential risk (see section 4.4).
+Renal impairment has an impact on the systemic exposure to glycopyrronium bromide. A moderate mean increase in total systemic exposure (AUClast) of up to 1.4-fold was seen in subjects with mild and moderate renal impairment and up to 2.2-fold in subjects with severe renal impairment and end-stage renal disease. In COPD patients with mild and moderate renal impairment (estimated glomerular
 
 <div style=\"page-break-after: always\"></div>
+
+filtration rate, eGFR ≥30 ml/min/1.73 m 2 ) Enurev Breezhaler can be used at the recommended dose. In patients with severe renal impairment (eGFR &lt;30 ml/min/1.73 m 2 ), including those with end-stage renal disease requiring dialysis, Enurev Breezhaler should only be used if the expected benefit outweighs the potential risk (see section 4.4).
 
 ## 5.3 Preclinical safety data
 
@@ -410,7 +414,7 @@ The capsules must always be stored in the original blister in order to protect f
 
 Enurev Breezhaler is a single-dose inhaler. Inhaler body and cap are made from acrylonitrile butadiene styrene, push buttons are made from methyl metacrylate acrylonitrile butadiene styrene. Needles and springs are made from stainless steel. Each blister strip contains either 6 or 10 hard capsules.
 
-PA/Alu/PVC - Alu perforated unit-dose blister
+PA/Alu/PVC -Alu perforated unit-dose blister
 
 Packs containing 6x1, 10x1, 12x1 or 30x1 hard capsules, together with one inhaler.
 
@@ -423,6 +427,8 @@ Multipacks containing 150 (15 packs of 10x1) hard capsules and 15 inhalers.
 Multipacks containing 150 (25 packs of 6x1) hard capsules and 25 inhalers.
 
 Not all pack sizes may be marketed.
+
+<div style=\"page-break-after: always\"></div>
 
 ## 6.6 Special precautions for disposal and other handling
 
@@ -438,12 +444,9 @@ Please read the full Instructions for Use before using the Enurev Breezhaler.
 
 <!-- image -->
 
-<div style=\"page-break-after: always\"></div>
-
-<!-- image -->
-
-| Step 1d: Insert capsule Never place a capsule directly into the mouthpiece. inhaler   | Step 1e: Close   | Important Information • Enurev Breezhaler capsules must always be stored in the blister card and only removed immediately before use. • Do not push the capsule through the foil to remove it from the blister. • Do not swallow the capsule. • Do not use the Enurev Breezhaler capsules with any other inhaler. • Do not use the Enurev Breezhaler inhaler to take any other capsule medicine. • Never place the capsule into your mouth or the mouthpiece of the inhaler. • Do not press the side buttons more than once. • Do not blow into the mouthpiece. • Do not press the side buttons while inhaling through the mouthpiece. • Do not handle capsules with wet hands. • Never wash your inhaler with water.   |
-|---------------------------------------------------------------------------------------|------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Step 1c: Remove capsule Separate one of the blisters from the blister card. Peel open the blister and remove the capsule. Do not push the capsule through the foil. Do not swallow the capsule.   | Breathe in quickly and as deeply as you can. During inhalation you will hear a whirring noise. You may taste the medicine as you inhale. Step 3c: Hold breath Hold your breath for up to 5 seconds.   | Remove empty capsule Put the empty capsule in your household waste. Close the inhaler and replace the cap.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            |
+|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Step 1d: Insert capsule Never place a capsule directly into the mouthpiece. Step 1e: Close inhaler                                                                                                |                                                                                                                                                                                                       | Important Information • Enurev Breezhaler capsules must always be stored in the blister card and only removed immediately before use. • Do not push the capsule through the foil to remove it from the blister. • Do not swallow the capsule. • Do not use the Enurev Breezhaler capsules with any other inhaler. • Do not use the Enurev Breezhaler inhaler to take any other capsule medicine. • Never place the capsule into your mouth or the mouthpiece of the inhaler. • Do not press the side buttons more than once. • Do not blow into the mouthpiece. • Do not press the side buttons while inhaling through the mouthpiece. • Do not handle capsules with wet hands. • Never wash your inhaler with water. |
 
 <div style=\"page-break-after: always\"></div>
 
@@ -484,8 +487,6 @@ Detailed information on this medicinal product is available on the website of th
 Name and address of the manufacturer responsible for batch release
 
 Novartis Farmacéutica SA Gran Via de les Corts Catalanes, 764 08013 Barcelona Spain
-
-Novartis Pharma GmbH Roonstra ß e 25 D-90429 Nuremberg Germany
 
 Novartis Pharma GmbH Sophie-Germain-Strasse 10 90443 Nuremberg Germany
 
@@ -938,9 +939,7 @@ Inhalation use only
 
 ## Enurev Breezhaler 44 micrograms inhalation powder, hard capsules
 
-glycopyrronium
-
-(as glycopyrronium bromide)
+glycopyrronium (as glycopyrronium bromide)
 
 ## Read all of this leaflet carefully before you start using this medicine because it contains important information for you.
 
@@ -1133,7 +1132,7 @@ If you get any side effects, talk to your doctor or pharmacist. This includes an
 
 Keep this medicine out of the sight and reach of children.
 
-Do not use this medicine after the expiry date which is stated on the carton and blister after 'EXP'. The expiry date refers to the last day of that month.
+Do not use this medicine after the expiry date which is stated on the carton and blister after ' EXP ' . The expiry date refers to the last day of that month.
 
 Do not store above 25°C.
 
@@ -1176,8 +1175,6 @@ Novartis Europharm Limited Vista Building Elm Park, Merrion Road Dublin 4 Irelan
 
 Novartis Farmacéutica SA Gran Via de les Corts Catalanes, 764 08013 Barcelona Spain
 
-Novartis Pharma GmbH Roonstraße 25 D-90429 Nuremberg Germany
-
 Novartis Pharma GmbH Sophie-Germain-Strasse 10 90443 Nuremberg Germany
 
 <div style=\"page-break-after: always\"></div>
@@ -1202,15 +1199,11 @@ Tel: +420 225 775 111
 
 ## Danmark
 
-Novartis Healthcare A/S
-
-Tlf: +45 39 16 84 00
+Novartis Healthcare A/S Tlf: +45 39 16 84 00
 
 ## Deutschland
 
-Novartis Pharma GmbH
-
-Tel: +49 911 273 0
+Novartis Pharma GmbH Tel: +49 911 273 0
 
 ## Eesti
 
@@ -1256,9 +1249,7 @@ SIA Novartis Baltics Lietuvos filialas Tel: +370 5 269 16 50
 
 ## Luxembourg/Luxemburg
 
-Novartis Pharma N.V.
-
-Tél/Tel: +32 2 246 16 11
+Novartis Pharma N.V. Tél/Tel: +32 2 246 16 11
 
 ## Magyarország
 
@@ -1270,9 +1261,7 @@ Novartis Pharma Services Inc. Tel: +356 2122 2872
 
 ## Nederland
 
-Novartis Pharma B.V.
-
-Tel: +31 88 04 52 111
+Novartis Pharma B.V. Tel: +31 88 04 52 111
 
 ## Norge
 
@@ -1300,9 +1289,7 @@ Novartis Pharma Services Inc. Tel: +386 1 300 75 50
 
 ## Slovenská republika
 
-Novartis Slovakia s.r.o.
-
-Tel: +421 2 5542 5439
+Novartis Slovakia s.r.o. Tel: +421 2 5542 5439
 
 ## Suomi/Finland
 

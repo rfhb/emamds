@@ -1,18 +1,18 @@
 ---
-document_datetime: 2025-12-19 17:15:00
+document_datetime: 2026-01-27 14:35:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/avastin.html
 document_name: avastin.html
 version: success
-processing_time: 0.3678428
-conversion_datetime: 2026-01-03 12:26:26.668524
+processing_time: 0.2254888
+conversion_datetime: 2026-01-29 11:37:20.187393
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.66.0
-  docling-core: 2.57.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.11.0
+  docling-jobkit: 1.9.0
+  docling: 2.70.0
+  docling-core: 2.61.0
+  docling-ibm-models: 3.11.0
+  docling-parse: 4.7.3
   python: cpython-313 (3.13.11)
   plaform: macOS-26.2-arm64-arm-64bit-Mach-O
 ---
@@ -25,8 +25,6 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 bevacizumab Medicine Human Authorised
-
-On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -145,7 +143,7 @@ English (EN) (92.15 KB - PDF)
 
 [View](/en/documents/overview/avastin-epar-summary-public_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-190)
+[Other languages (22)](#file-language-dropdown-442)
 
 български (BG) (120.9 KB - PDF)
 
@@ -423,17 +421,17 @@ English (EN) (703.94 KB - PDF)
 
 Avastin : EPAR - Product Information
 
-English (EN) (241.33 KB - PDF)
+English (EN) (667.32 KB - PDF)
 
 **First published:** 17/09/2009
 
-**Last updated:** 19/12/2025
+**Last updated:** 27/01/2026
 
 [View](/en/documents/product-information/avastin-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-578)
+[Other languages (24)](#file-language-dropdown-961)
 
-български (BG) (883.03 KB - PDF)
+български (BG) (874.38 KB - PDF)
 
 **First published:**
 
@@ -441,11 +439,11 @@ English (EN) (241.33 KB - PDF)
 
 **Last updated:**
 
-19/12/2025
+27/01/2026
 
 [View](/bg/documents/product-information/avastin-epar-product-information_bg.pdf)
 
-español (ES) (642.94 KB - PDF)
+español (ES) (620.66 KB - PDF)
 
 **First published:**
 
@@ -453,11 +451,11 @@ español (ES) (642.94 KB - PDF)
 
 **Last updated:**
 
-19/12/2025
+27/01/2026
 
 [View](/es/documents/product-information/avastin-epar-product-information_es.pdf)
 
-čeština (CS) (773.07 KB - PDF)
+čeština (CS) (765.18 KB - PDF)
 
 **First published:**
 
@@ -465,11 +463,11 @@ español (ES) (642.94 KB - PDF)
 
 **Last updated:**
 
-19/12/2025
+27/01/2026
 
 [View](/cs/documents/product-information/avastin-epar-product-information_cs.pdf)
 
-dansk (DA) (671 KB - PDF)
+dansk (DA) (654.28 KB - PDF)
 
 **First published:**
 
@@ -477,11 +475,11 @@ dansk (DA) (671 KB - PDF)
 
 **Last updated:**
 
-19/12/2025
+27/01/2026
 
 [View](/da/documents/product-information/avastin-epar-product-information_da.pdf)
 
-Deutsch (DE) (716.83 KB - PDF)
+Deutsch (DE) (699.77 KB - PDF)
 
 **First published:**
 
@@ -489,11 +487,11 @@ Deutsch (DE) (716.83 KB - PDF)
 
 **Last updated:**
 
-19/12/2025
+27/01/2026
 
 [View](/de/documents/product-information/avastin-epar-product-information_de.pdf)
 
-eesti keel (ET) (637.39 KB - PDF)
+eesti keel (ET) (630.92 KB - PDF)
 
 **First published:**
 
@@ -501,11 +499,11 @@ eesti keel (ET) (637.39 KB - PDF)
 
 **Last updated:**
 
-19/12/2025
+27/01/2026
 
 [View](/et/documents/product-information/avastin-epar-product-information_et.pdf)
 
-ελληνικά (EL) (1.05 MB - PDF)
+ελληνικά (EL) (1.07 MB - PDF)
 
 **First published:**
 
@@ -513,11 +511,11 @@ eesti keel (ET) (637.39 KB - PDF)
 
 **Last updated:**
 
-19/12/2025
+27/01/2026
 
 [View](/el/documents/product-information/avastin-epar-product-information_el.pdf)
 
-français (FR) (649.81 KB - PDF)
+français (FR) (676.08 KB - PDF)
 
 **First published:**
 
@@ -525,11 +523,11 @@ français (FR) (649.81 KB - PDF)
 
 **Last updated:**
 
-19/12/2025
+27/01/2026
 
 [View](/fr/documents/product-information/avastin-epar-product-information_fr.pdf)
 
-hrvatski (HR) (724.56 KB - PDF)
+hrvatski (HR) (718.58 KB - PDF)
 
 **First published:**
 
@@ -537,11 +535,11 @@ hrvatski (HR) (724.56 KB - PDF)
 
 **Last updated:**
 
-19/12/2025
+27/01/2026
 
 [View](/hr/documents/product-information/avastin-epar-product-information_hr.pdf)
 
-íslenska (IS) (639.99 KB - PDF)
+íslenska (IS) (634.42 KB - PDF)
 
 **First published:**
 
@@ -549,11 +547,11 @@ hrvatski (HR) (724.56 KB - PDF)
 
 **Last updated:**
 
-19/12/2025
+27/01/2026
 
 [View](/is/documents/product-information/avastin-epar-product-information_is.pdf)
 
-italiano (IT) (627 KB - PDF)
+italiano (IT) (621.44 KB - PDF)
 
 **First published:**
 
@@ -561,11 +559,11 @@ italiano (IT) (627 KB - PDF)
 
 **Last updated:**
 
-19/12/2025
+27/01/2026
 
 [View](/it/documents/product-information/avastin-epar-product-information_it.pdf)
 
-latviešu valoda (LV) (898.34 KB - PDF)
+latviešu valoda (LV) (892.03 KB - PDF)
 
 **First published:**
 
@@ -573,11 +571,11 @@ latviešu valoda (LV) (898.34 KB - PDF)
 
 **Last updated:**
 
-19/12/2025
+27/01/2026
 
 [View](/lv/documents/product-information/avastin-epar-product-information_lv.pdf)
 
-lietuvių kalba (LT) (941.49 KB - PDF)
+lietuvių kalba (LT) (931.36 KB - PDF)
 
 **First published:**
 
@@ -585,11 +583,11 @@ lietuvių kalba (LT) (941.49 KB - PDF)
 
 **Last updated:**
 
-19/12/2025
+27/01/2026
 
 [View](/lt/documents/product-information/avastin-epar-product-information_lt.pdf)
 
-magyar (HU) (754.49 KB - PDF)
+magyar (HU) (734.67 KB - PDF)
 
 **First published:**
 
@@ -597,11 +595,11 @@ magyar (HU) (754.49 KB - PDF)
 
 **Last updated:**
 
-19/12/2025
+27/01/2026
 
 [View](/hu/documents/product-information/avastin-epar-product-information_hu.pdf)
 
-Malti (MT) (817.35 KB - PDF)
+Malti (MT) (805.93 KB - PDF)
 
 **First published:**
 
@@ -609,11 +607,11 @@ Malti (MT) (817.35 KB - PDF)
 
 **Last updated:**
 
-19/12/2025
+27/01/2026
 
 [View](/mt/documents/product-information/avastin-epar-product-information_mt.pdf)
 
-Nederlands (NL) (634.41 KB - PDF)
+Nederlands (NL) (619.87 KB - PDF)
 
 **First published:**
 
@@ -621,11 +619,11 @@ Nederlands (NL) (634.41 KB - PDF)
 
 **Last updated:**
 
-19/12/2025
+27/01/2026
 
 [View](/nl/documents/product-information/avastin-epar-product-information_nl.pdf)
 
-norsk (NO) (611.3 KB - PDF)
+norsk (NO) (603.57 KB - PDF)
 
 **First published:**
 
@@ -633,11 +631,11 @@ norsk (NO) (611.3 KB - PDF)
 
 **Last updated:**
 
-19/12/2025
+27/01/2026
 
 [View](/no/documents/product-information/avastin-epar-product-information_no.pdf)
 
-polski (PL) (781.56 KB - PDF)
+polski (PL) (779.12 KB - PDF)
 
 **First published:**
 
@@ -645,11 +643,11 @@ polski (PL) (781.56 KB - PDF)
 
 **Last updated:**
 
-19/12/2025
+27/01/2026
 
 [View](/pl/documents/product-information/avastin-epar-product-information_pl.pdf)
 
-português (PT) (618.45 KB - PDF)
+português (PT) (594.52 KB - PDF)
 
 **First published:**
 
@@ -657,11 +655,11 @@ português (PT) (618.45 KB - PDF)
 
 **Last updated:**
 
-19/12/2025
+27/01/2026
 
 [View](/pt/documents/product-information/avastin-epar-product-information_pt.pdf)
 
-română (RO) (786.43 KB - PDF)
+română (RO) (777.97 KB - PDF)
 
 **First published:**
 
@@ -669,11 +667,11 @@ română (RO) (786.43 KB - PDF)
 
 **Last updated:**
 
-19/12/2025
+27/01/2026
 
 [View](/ro/documents/product-information/avastin-epar-product-information_ro.pdf)
 
-slovenčina (SK) (761.97 KB - PDF)
+slovenčina (SK) (752.56 KB - PDF)
 
 **First published:**
 
@@ -681,11 +679,11 @@ slovenčina (SK) (761.97 KB - PDF)
 
 **Last updated:**
 
-19/12/2025
+27/01/2026
 
 [View](/sk/documents/product-information/avastin-epar-product-information_sk.pdf)
 
-slovenščina (SL) (735.2 KB - PDF)
+slovenščina (SL) (728.76 KB - PDF)
 
 **First published:**
 
@@ -693,11 +691,11 @@ slovenščina (SL) (735.2 KB - PDF)
 
 **Last updated:**
 
-19/12/2025
+27/01/2026
 
 [View](/sl/documents/product-information/avastin-epar-product-information_sl.pdf)
 
-Suomi (FI) (632.97 KB - PDF)
+Suomi (FI) (614.97 KB - PDF)
 
 **First published:**
 
@@ -705,11 +703,11 @@ Suomi (FI) (632.97 KB - PDF)
 
 **Last updated:**
 
-19/12/2025
+27/01/2026
 
 [View](/fi/documents/product-information/avastin-epar-product-information_fi.pdf)
 
-svenska (SV) (607.98 KB - PDF)
+svenska (SV) (595.67 KB - PDF)
 
 **First published:**
 
@@ -717,11 +715,11 @@ svenska (SV) (607.98 KB - PDF)
 
 **Last updated:**
 
-19/12/2025
+27/01/2026
 
 [View](/sv/documents/product-information/avastin-epar-product-information_sv.pdf)
 
-**Latest procedure affecting product information:** PSUR/0000274402 18/12/2025
+**Latest procedure affecting product information:** VR/0000316070 12/01/2026
 
 icon globe
 
@@ -747,7 +745,7 @@ English (EN) (9.61 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/avastin-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (21)](#file-language-dropdown-316)
+[Other languages (21)](#file-language-dropdown-257)
 
 български (BG) (81.22 KB - PDF)
 
@@ -1048,7 +1046,7 @@ Roche Registration GmbH
 
 Emil-Barell-Strasse 1 79639 Grenzach-Wyhlen Germany
 
-Marketing authorisation issued 12/01/2005 Revision 67
+Marketing authorisation issued 12/01/2005 Revision 68
 
 ## Assessment history
 
@@ -1060,11 +1058,11 @@ Collapse section
 
 Avastin : EPAR - Procedural steps taken and scientific information after authorisation
 
-English (EN) (152.46 KB - PDF)
+English (EN) (160.95 KB - PDF)
 
 **First published:** 24/02/2025
 
-**Last updated:** 19/12/2025
+**Last updated:** 27/01/2026
 
 [View](/en/documents/procedural-steps-after/avastin-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf)
 
@@ -1216,7 +1214,7 @@ English (EN) (49.6 KB - PDF)
 
 [View](/en/documents/scientific-conclusion/avastin-h-c-582-ii-0059-epar-scientific-conclusions-and-grounds-refusal-variation-presented-european-medicines-agency_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-611)
+[Other languages (22)](#file-language-dropdown-661)
 
 български (BG) (106.53 KB - PDF)
 
@@ -1538,7 +1536,7 @@ English (EN) (74.03 KB - PDF)
 
 [View](/en/documents/smop/questions-and-answers-refusal-change-marketing-authorisation-avastin-bevacizumab_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-924)
+[Other languages (22)](#file-language-dropdown-197)
 
 български (BG) (98.25 KB - PDF)
 
@@ -1944,7 +1942,7 @@ English (EN) (36.19 KB - PDF)
 
 [View](/en/documents/smop/questions-and-answers-recommendation-refusal-change-marketing-authorisation-avastin_en.pdf)
 
-[Other languages (21)](#file-language-dropdown-285)
+[Other languages (21)](#file-language-dropdown-899)
 
 български (BG) (126.98 KB - PDF)
 
@@ -2348,7 +2346,7 @@ English (EN) (215.74 KB - DOCX)
 
 [View](/en/documents/product-information-tracked-changes/avastin-epar-product-information-tracked-changes_en.docx)
 
-[Other languages (24)](#file-language-dropdown-126)
+[Other languages (24)](#file-language-dropdown-590)
 
 български (BG) (302.93 KB - DOCX)
 
@@ -2681,7 +2679,7 @@ English (EN) (62.17 KB - PDF)
 
 - [Medicines](https://www.ema.europa.eu/en/search?f%5B0%5D=ema_search_topics%3A61)
 
-**This page was last updated on** 19/12/2025
+**This page was last updated on** 27/01/2026
 
 ## Share this page
 

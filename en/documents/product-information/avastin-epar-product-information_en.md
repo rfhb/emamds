@@ -1,18 +1,18 @@
 ---
-document_datetime: 2025-12-19 16:38:10
-document_pages: 75
+document_datetime: 2026-01-27 11:35:40
+document_pages: 72
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/avastin-epar-product-information_en.pdf
 document_name: avastin-epar-product-information_en.pdf
 version: success
-processing_time: 53.7739805
-conversion_datetime: 2026-01-03 12:29:35.068832
+processing_time: 56.490486
+conversion_datetime: 2026-01-29 12:41:46.881203
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.66.0
-  docling-core: 2.57.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.11.0
+  docling-jobkit: 1.9.0
+  docling: 2.70.0
+  docling-core: 2.61.0
+  docling-ibm-models: 3.11.0
+  docling-parse: 4.7.3
   python: cpython-313 (3.13.11)
   plaform: macOS-26.2-arm64-arm-64bit-Mach-O
 ---
@@ -346,9 +346,9 @@ The overall safety profile of Avastin is based on data from over 5 700 patients 
 
 The most serious adverse reactions were:
 
--  Gastrointestinal perforations (see section 4.4).
--  Haemorrhage, including pulmonary haemorrhage/haemoptysis, which is more common in non-small cell lung cancer patients (see section 4.4).
--  Arterial thromboembolism (see section 4.4).
+- Gastrointestinal perforations (see section 4.4).
+- Haemorrhage, including pulmonary haemorrhage/haemoptysis, which is more common in non-small cell lung cancer patients (see section 4.4).
+- Arterial thromboembolism (see section 4.4).
 
 The most frequently observed adverse reactions across clinical trials in patients receiving Avastin were hypertension, fatigue or asthenia, diarrhoea and abdominal pain.
 
@@ -358,18 +358,18 @@ Analyses of the clinical safety data suggest that the occurrence of hypertension
 
 ## Tabulated list of adverse reactions
 
-The adverse reactions listed in this section fall into the following frequency categories: Very common ( ≥ 1/10); common ( ≥ 1/100 to &lt; 1/10); uncommon ( ≥ 1/1 000 to &lt; 1/100); rare ( ≥ 1/10 000 to &lt; 1/1 000); very rare (&lt; 1/10 000); not known (cannot be estimated from the available data).
+The adverse reactions listed in this section fall into the following frequency categories: Very common (≥ 1/10); common (≥ 1/100 to &lt; 1/10); uncommon (≥ 1/1 000 to &lt; 1/100); rare (≥ 1/10 000 to &lt; 1/1 000); very rare (&lt; 1/10 000); not known (cannot be estimated from the available data).
 
 Tables 1 and 2 list adverse reactions associated with the use of Avastin in combination with different chemotherapy regimens in multiple indications, by MedDRA system organ class.
 
 Table 1 provides all adverse reactions by frequency that were determined to have a causal relationship with Avastin through:
 
--  comparative incidences noted between clinical trial treatment arms (with at least a 10% difference compared to the control arm for NCI-CTCAE Grade 1-5 reactions or at least a 2% difference compared to the control arm for NCI-CTCAE Grade 3-5 reactions,
--  post-authorisation safety studies,
--  spontaneous reporting,
--  epidemiological studies\
+- comparative incidences noted between clinical trial treatment arms (with at least a 10% difference compared to the control arm for NCI-CTCAE Grade 1-5 reactions or at least a 2% difference compared to the control arm for NCI-CTCAE Grade 3-5 reactions,
+- post-authorisation safety studies,
+- spontaneous reporting,
+- epidemiological studies\
 on-interventional or observational studies,
--  or through an evaluation of individual case reports.
+- or through an evaluation of individual case reports.
 
 Table 2 provides the frequency of severe adverse reactions. Severe reactions are defined as adverse events with at least a 2% difference compared to the control arm in clinical studies for NCI-CTCAE Grade 3-5 reactions. Table 2 also includes adverse reactions which are considered by the MAH to be clinically significant or severe.
 
@@ -390,21 +390,21 @@ Table 1: Adverse reactions by frequency
 
 <div style=\"page-break-after: always\"></div>
 
-| System organ class                              | Very common                                                                               | Common                                                                                                                                                      | Uncommon   | Rare                                                 | Very rare                       | Frequency not known                                                                                                      |
-|-------------------------------------------------|-------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------|------------|------------------------------------------------------|---------------------------------|--------------------------------------------------------------------------------------------------------------------------|
-| Immune system disorders                         |                                                                                           | Hypersensitivity, infusion reactions a,b,d                                                                                                                  |            | Anaphylactic shock                                   |                                 |                                                                                                                          |
-| Metabolism and nutrition disorders              | Anorexia, Hypomagnesaemia, Hyponatraemia                                                  | Dehydration                                                                                                                                                 |            |                                                      |                                 |                                                                                                                          |
-| Nervous system disorders                        | Peripheral sensory neuropathy b , Dysarthria, Headache, Dysguesia                         | Cerebrovascular accident, Syncope, Somnolence                                                                                                               |            | Posterior reversible encephalo- pathy syndrome a,b,d | Hypertensive encephalo- pathy a |                                                                                                                          |
-| Eye disorders                                   | Eye disorder, Lacrimation increased                                                       |                                                                                                                                                             |            |                                                      |                                 |                                                                                                                          |
-| Cardiac disorders                               |                                                                                           | Congestive heart failure b,d , Supraventricular tachycardia                                                                                                 |            |                                                      |                                 |                                                                                                                          |
-| Vascular disorders                              | Hypertension b,d , Thrombo- embolism (venous) b,d                                         | Thrombo- embolism (arterial) b,d , Haemorrhage b,d , Deep vein thrombosis                                                                                   |            |                                                      |                                 | Renal thrombotic microangiopathy a,b , Hyaline occlusive glomerular microangiopathy a , Aneurysms and artery dissections |
-| Respiratory, thoracic and mediastinal disorders | Dyspnoea, Rhinitis, Epistaxis, Cough                                                      | Pulmonary haemorrhage/ Haemoptysis b,d , Pulmonary embolism, Hypoxia, Dysphonia a                                                                           |            |                                                      |                                 | Pulmonary hypertension a , Nasal septum perforation a                                                                    |
-| Gastrointestinal disorders                      | Rectal haemorrhage, Stomatitis, Constipation, Diarrhoea, Nausea, Vomiting, Abdominal pain | Gastrointestinal perforation b,d, Intestinal perforation, Ileus, Intestinal obstruction, Recto-vaginal fistulae d,e , Gastrointestinal disorder, Proctalgia |            |                                                      |                                 | Gastrointestinal ulcer a                                                                                                 |
-| Hepatobiliary disorders                         |                                                                                           |                                                                                                                                                             |            |                                                      |                                 | Gallbladder perforation a,b                                                                                              |
-| Skin and subcutaneous tissue disorders          | Wound healing complications b,d, Exfoliative dermatitis, Dry skin, Skin discolouration    | Palmar-plantar erythro- dysaesthesia syndrome                                                                                                               |            |                                                      |                                 |                                                                                                                          |
-| Musculoskeletal and connective tissue disorders | Arthralgia, Myalgia                                                                       | Fistula b,d , Muscular weakness, Back pain                                                                                                                  |            |                                                      |                                 | Osteonecrosis of the jaw a,b Non-mandibular osteonecrosis a,f                                                            |
-| Renal and urinary disorders                     | Proteinuria b,d                                                                           |                                                                                                                                                             |            |                                                      |                                 |                                                                                                                          |
-| Reproductive system and breast disorders        | Ovarian failure b,c,d                                                                     | Pelvic pain                                                                                                                                                 |            |                                                      |                                 |                                                                                                                          |
+| System organ class                              | Very common                                                                               | Common                                                                                                                                                                | Uncommon   | Rare                                                 | Very rare                       | Frequency not known                                                                                                      |
+|-------------------------------------------------|-------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------|------------------------------------------------------|---------------------------------|--------------------------------------------------------------------------------------------------------------------------|
+| Immune system disorders                         |                                                                                           | Hypersensitivity, infusion reactions a,b,d                                                                                                                            |            | Anaphylactic shock                                   |                                 |                                                                                                                          |
+| Metabolism and nutrition disorders              | Anorexia, Hypomagnesaemia, Hyponatraemia                                                  | Dehydration                                                                                                                                                           |            |                                                      |                                 |                                                                                                                          |
+| Nervous system disorders                        | Peripheral sensory neuropathy b , Dysarthria, Headache, Dysguesia                         | Cerebrovascular accident, Syncope, Somnolence                                                                                                                         |            | Posterior reversible encephalo- pathy syndrome a,b,d | Hypertensive encephalo- pathy a |                                                                                                                          |
+| Eye disorders                                   | Eye disorder, Lacrimation increased                                                       |                                                                                                                                                                       |            |                                                      |                                 |                                                                                                                          |
+| Cardiac disorders                               |                                                                                           | Congestive heart failure b,d , Supraventricular tachycardia                                                                                                           |            |                                                      |                                 |                                                                                                                          |
+| Vascular disorders                              | Hypertension b,d , Thrombo- embolism (venous) b,d                                         | Thrombo- embolism (arterial) b,d , Haemorrhage b,d , Deep vein thrombosis                                                                                             |            |                                                      |                                 | Renal thrombotic microangiopathy a,b , Hyaline occlusive glomerular microangiopathy a , Aneurysms and artery dissections |
+| Respiratory, thoracic and mediastinal disorders | Dyspnoea, Rhinitis, Epistaxis, Cough                                                      | Pulmonary haemorrhage/ Haemoptysis b,d , Pulmonary embolism, Hypoxia, a                                                                                               |            |                                                      |                                 | Pulmonary hypertension a , Nasal septum perforation a                                                                    |
+| Gastrointestinal disorders                      | Rectal haemorrhage, Stomatitis, Constipation, Diarrhoea, Nausea, Vomiting, Abdominal pain | Dysphonia Gastrointestinal perforation b,d, Intestinal perforation, Ileus, Intestinal obstruction, Recto-vaginal fistulae d,e , Gastrointestinal disorder, Proctalgia |            |                                                      |                                 | Gastrointestinal ulcer a                                                                                                 |
+| Hepatobiliary disorders                         |                                                                                           |                                                                                                                                                                       |            |                                                      |                                 | Gallbladder perforation a,b                                                                                              |
+| Skin and subcutaneous tissue disorders          | Wound healing complications b,d, Exfoliative dermatitis, Dry skin, Skin discolouration    | Palmar-plantar erythro- dysaesthesia syndrome                                                                                                                         |            |                                                      |                                 |                                                                                                                          |
+| Musculoskeletal and connective tissue disorders | Arthralgia, Myalgia                                                                       | Fistula b,d , Muscular weakness, Back pain                                                                                                                            |            |                                                      |                                 | Osteonecrosis of the jaw a,b Non-mandibular osteonecrosis a,f                                                            |
+| Renal and urinary disorders                     | Proteinuria b,d                                                                           |                                                                                                                                                                       |            |                                                      |                                 |                                                                                                                          |
+| Reproductive system and breast disorders        | Ovarian failure b,c,d                                                                     | Pelvic pain                                                                                                                                                           |            |                                                      |                                 |                                                                                                                          |
 
 <div style=\"page-break-after: always\"></div>
 
@@ -418,9 +418,9 @@ When events were noted as both all grade and grade 3-5 adverse drug reactions in
 
 a For further information please refer to Table 3 'Adverse reactions reported in post-marketing setting.'
 
-b  Terms represent a group of events that describe a medical concept rather than a single condition or MedDRA (Medical Dictionary for Regulatory Activities) preferred term. This group of medical terms may involve the same underlying pathophysiology (e.g. arterial thromboembolic reactions include cerebrovascular accident, myocardial infarction, transient ischaemic attack and other arterial thromboembolic reactions).
+b Terms represent a group of events that describe a medical concept rather than a single condition or MedDRA (Medical Dictionary for Regulatory Activities) preferred term. This group of medical terms may involve the same underlying pathophysiology (e.g. arterial thromboembolic reactions include cerebrovascular accident, myocardial infarction, transient ischaemic attack and other arterial thromboembolic reactions).
 
-c Based on a substudy from NSABP C-08 with 295 patients
+c  Based on a substudy from NSABP C-08 with 295 patients
 
 d For additional information refer below within section \"Further information on selected serious adverse reactions.\"
 
@@ -459,7 +459,7 @@ Table 2: Severe adverse reactions by frequency
 
 Table 2 provides the frequency of severe adverse reactions. Severe reactions are defined as adverse events with at least a 2% difference compared to the control arm in clinical studies for NCI-CTCAE Grade 3-5 reactions. Table 2 also includes adverse reactions which are considered by the MAH to be clinically significant or severe. These clinically significant adverse reactions were reported in clinical trials but the grade 3-5 reactions did not meet the threshold of at least a 2% difference compared to the control arm. Table 2 also includes clinically significant adverse reactions that were observed only in the postmarketing setting, therefore, the frequency and NCI-CTCAE grade is not known. These clinically significant reactions have therefore been included in Table 2 within the column entitled 'Frequency Not Known.'
 
-- a  Terms represent a group of events that describe a medical concept rather than a single condition or MedDRA (Medical Dictionary for Regulatory Activities) preferred term. This group of medical terms may involve the same underlying pathophysiology (e.g. arterial thromboembolic reactions include cerebrovascular accident, myocardial infarction, transient ischaemic attack and other arterial thromboembolic reactions).
+- a Terms represent a group of events that describe a medical concept rather than a single condition or MedDRA (Medical Dictionary for Regulatory Activities) preferred term. This group of medical terms may involve the same underlying pathophysiology (e.g. arterial thromboembolic reactions include cerebrovascular accident, myocardial infarction, transient ischaemic attack and other arterial thromboembolic reactions).
 - b For additional information refer below within section \"Further information on selected serious adverse reactions\"
 
 c For further information please refer to Table 3 'Adverse reactions reported in post-marketing setting.'
@@ -492,7 +492,7 @@ From a clinical trial in patients with persistent, recurrent, or metastatic cerv
 
 <div style=\"page-break-after: always\"></div>
 
-Uncommon ( ≥ 0.1% to &lt; 1%) reports of fistulae that involve areas of the body other than the gastrointestinal tract (e.g. bronchopleural and biliary fistulae) were observed across various indications. Fistulae have also been reported in post-marketing experience.
+Uncommon (≥ 0.1% to &lt; 1%) reports of fistulae that involve areas of the body other than the gastrointestinal tract (e.g. bronchopleural and biliary fistulae) were observed across various indications. Fistulae have also been reported in post-marketing experience.
 
 Reactions were reported at various time points during treatment ranging from one week to greater than 1 year from initiation of Avastin, with most reactions occurring within the first 6 months of therapy.
 
@@ -592,7 +592,7 @@ In most clinical trials of Avastin, patients with pre-existing CHF of NYHA (New 
 
 Prior anthracyclines exposure and/or prior radiation to the chest wall may be possible risk factors for the development of CHF.
 
-An increased incidence of CHF has been observed in a clinical trial of patients with diffuse large Bcell lymphoma when receiving bevacizumab with a cumulative doxorubicin dose greater than 300 mg/m 2 . This phase III clinical trial compared rituximab/cyclophosphamide/doxorubicin/vincristine/prednisone (R-CHOP) plus bevacizumab to RCHOP without bevacizumab. While the incidence of CHF was, in both arms, above that previously observed for doxorubicin therapy, the rate was higher in the R-CHOP plus bevacizumab arm. These results suggest that close clinical observation with appropriate cardiac assessments should be considered for patients exposed to cumulative doxorubicin doses greater than 300 mg/m 2  when combined with bevacizumab.
+An increased incidence of CHF has been observed in a clinical trial of patients with diffuse large Bcell lymphoma when receiving bevacizumab with a cumulative doxorubicin dose greater than 300 mg/m 2 . This phase III clinical trial compared rituximab/cyclophosphamide/doxorubicin/vincristine/prednisone (R-CHOP) plus bevacizumab to RCHOP without bevacizumab. While the incidence of CHF was, in both arms, above that previously observed for doxorubicin therapy, the rate was higher in the R-CHOP plus bevacizumab arm. These results suggest that close clinical observation with appropriate cardiac assessments should be considered for patients exposed to cumulative doxorubicin doses greater than 300 mg/m 2 when combined with bevacizumab.
 
 ## Hypersensitivity reactions (including anaphylactic shock)/infusion reactions (see section 4.4 and Postmarketing experience below)
 
@@ -683,18 +683,18 @@ Administration of bevacizumab or its parental murine antibody to xenotransplant 
 
 The safety and efficacy of the recommended dose (5 mg/kg of body weight every two weeks) in metastatic carcinoma of the colon or rectum were studied in three randomised, active-controlled clinical trials in combination with fluoropyrimidine-based first-line chemotherapy. Avastin was combined with two chemotherapy regimens:
 
--  AVF2107g: A weekly schedule of irinotecan/bolus 5-fluorouracil/folinic acid (IFL) for a total of 4 weeks of each 6 week-cycle (Saltz regimen).
--  AVF0780g: In combination with bolus 5-fluorouracil/folinic acid (5-FU/FA) for a total of 6 weeks of each 8 week-cycle (Roswell Park regimen).
--  AVF2192g: In combination with bolus 5-FU/FA for a total of 6 weeks of each 8 week-cycle (Roswell Park regimen) in patients who were not optimal candidates for first-line irinotecan treatment.
+- AVF2107g: A weekly schedule of irinotecan/bolus 5-fluorouracil/folinic acid (IFL) for a total of 4 weeks of each 6 week-cycle (Saltz regimen).
+- AVF0780g: In combination with bolus 5-fluorouracil/folinic acid (5-FU/FA) for a total of 6 weeks of each 8 week-cycle (Roswell Park regimen).
+- AVF2192g: In combination with bolus 5-FU/FA for a total of 6 weeks of each 8 week-cycle (Roswell Park regimen) in patients who were not optimal candidates for first-line irinotecan treatment.
 
 Three additional studies with bevacizumab have been conducted in mCRC patients: first-line (NO16966), second-line with no previous bevacizumab treatment (E3200), and second-line with previous bevacizumab treatment following disease progression in first-line (ML18147). In these studies, bevacizumab was administered at the following dosing regimens in combination with FOLFOX-4 (5-FU/LV/oxaliplatin), XELOX (capecitabine/oxaliplatin), and fluoropyrimidine/irinotecan and fluoropyrimidine/oxaliplatin:
 
--  NO16966: Avastin 7.5 mg/kg of body weight every 3 weeks in combination with oral capecitabine and intravenous oxaliplatin (XELOX) or Avastin 5 mg/kg every 2 weeks in combination with leucovorin plus 5-fluorouracil bolus, followed by 5-fluorouracil infusion, with intravenous oxaliplatin (FOLFOX-4).
+- NO16966: Avastin 7.5 mg/kg of body weight every 3 weeks in combination with oral capecitabine and intravenous oxaliplatin (XELOX) or Avastin 5 mg/kg every 2 weeks in combination with leucovorin plus 5-fluorouracil bolus, followed by 5-fluorouracil infusion, with intravenous oxaliplatin (FOLFOX-4).
 
 <div style=\"page-break-after: always\"></div>
 
--  E3200: Avastin 10 mg/kg of body weight every 2 weeks in combination with leucovorin and 5-fluorouracil bolus, followed by 5-fluorouracil infusion, with intravenous oxaliplatin (FOLFOX-4) in bevacizumab-naïve patients.
--  ML18147: Avastin 5.0 mg/kg of body weight every 2 weeks or Avastin 7.5 mg/kg of body weight every 3 weeks in combination with fluoropyrimidine/irinotecan or fluoropyrimidine/oxaliplatin in patients with disease progression following first-line treatment with bevacizumab. Use of irinotecan- or oxaliplatin-containing regimen was switched depending on first-line usage of either oxaliplatin or irinotecan.
+- E3200: Avastin 10 mg/kg of body weight every 2 weeks in combination with leucovorin and 5-fluorouracil bolus, followed by 5-fluorouracil infusion, with intravenous oxaliplatin (FOLFOX-4) in bevacizumab-naïve patients.
+- ML18147: Avastin 5.0 mg/kg of body weight every 2 weeks or Avastin 7.5 mg/kg of body weight every 3 weeks in combination with fluoropyrimidine/irinotecan or fluoropyrimidine/oxaliplatin in patients with disease progression following first-line treatment with bevacizumab. Use of irinotecan- or oxaliplatin-containing regimen was switched depending on first-line usage of either oxaliplatin or irinotecan.
 
 ## AVF2107g
 
@@ -783,8 +783,8 @@ Table 6 Treatment regimens in trial NO16966 (mCRC)
 
 The primary efficacy parameter of the trial was the duration of progression-free survival. In this trial, there were two primary objectives: to show that XELOX was non-inferior to FOLFOX-4 and to show that Avastin in combination with FOLFOX-4 or XELOX chemotherapy was superior to chemotherapy alone. Both co-primary objectives were met:
 
--  Non-inferiority of the XELOX-containing arms compared with the FOLFOX-4-containing arms in the overall comparison was demonstrated in terms of progression-free survival and overall survival in the eligible per-protocol population.
--  Superiority of the Avastin-containing arms versus the chemotherapy alone arms in the overall comparison was demonstrated in terms of progression-free survival in the ITT population (Table 7).
+- Non-inferiority of the XELOX-containing arms compared with the FOLFOX-4-containing arms in the overall comparison was demonstrated in terms of progression-free survival and overall survival in the eligible per-protocol population.
+- Superiority of the Avastin-containing arms versus the chemotherapy alone arms in the overall comparison was demonstrated in terms of progression-free survival in the ITT population (Table 7).
 
 <div style=\"page-break-after: always\"></div>
 
@@ -835,6 +835,10 @@ Table 8 Efficacy results for trial E3200
 | Rate                      | 8.6%                     | 22.2%                    |
 |                           | (p-value < 0.0001)       | (p-value < 0.0001)       |
 
+a  10 mg/kg every 2 weeks
+
+b Relative to control arm
+
 No significant difference was observed in the duration of overall survival between patients who received Avastin monotherapy compared to patients treated with FOLFOX-4. Progression-free survival and objective response rate were inferior in the Avastin monotherapy arm compared to the FOLFOX-4 arm.
 
 ## ML18147
@@ -876,10 +880,10 @@ Two large phase III trials were designed to investigate the treatment effect of 
 
 Summarised below are PFS results for the individual chemotherapy agents included in the indication:
 
--  Study E2100 (paclitaxel)
--  Median PFS increase 5.6 months, HR 0.421 (p &lt; 0.0001, 95% CI 0.343; 0.516)
--  Study AVF3694g (capecitabine)
--  Median PFS increase 2.9 months, HR 0.69 (p = 0.0002, 95% CI 0.56; 0.84)
+- Study E2100 (paclitaxel)
+- Median PFS increase 5.6 months, HR 0.421 (p &lt; 0.0001, 95% CI 0.343; 0.516)
+- Study AVF3694g (capecitabine)
+- Median PFS increase 2.9 months, HR 0.69 (p = 0.0002, 95% CI 0.56; 0.84)
 
 Further details of each study and the results are provided below.
 
@@ -992,7 +996,7 @@ In an exploratory analysis, the extent of Avastin benefit on overall survival wa
 
 Trial BO17704 was a randomised, double-blind phase III trial of Avastin in addition to cisplatin and gemcitabine versus placebo, cisplatin and gemcitabine in patients with locally advanced (stage IIIb with supraclavicular lymph node metastases or with malignant pleural or pericardial effusion), metastatic or recurrent non-squamous NSCLC, who had not received prior chemotherapy. The primary endpoint was progression free survival, secondary endpoints for the trial included the duration of overall survival.
 
-Patients were randomised to platinum-based chemotherapy, cisplatin 80 mg/m 2 intravenous infusion on day 1 and gemcitabine 1250 mg/m 2  intravenous infusion on days 1 and 8 of every 3-week cycle for up to 6 cycles (CG) with placebo or CG with Avastin at a dose of 7.5 or 15 mg/kg intravenous infusion day 1 of every 3-week cycle. In the Avastin-containing arms, patients could receive Avastin as a single-agent every 3 weeks until disease progression or unacceptable toxicity. Trial results show
+Patients were randomised to platinum-based chemotherapy, cisplatin 80 mg/m 2 intravenous infusion on day 1 and gemcitabine 1250 mg/m 2 intravenous infusion on days 1 and 8 of every 3-week cycle for up to 6 cycles (CG) with placebo or CG with Avastin at a dose of 7.5 or 15 mg/kg intravenous infusion day 1 of every 3-week cycle. In the Avastin-containing arms, patients could receive Avastin as a single-agent every 3 weeks until disease progression or unacceptable toxicity. Trial results show
 
 <div style=\"page-break-after: always\"></div>
 
@@ -1062,20 +1066,21 @@ The efficacy results are presented in Table 15
 
 Table 15 Efficacy results for trial BO17705
 
-|                                                                                 | BO17705                        | BO17705            |
-|---------------------------------------------------------------------------------|--------------------------------|--------------------|
-|                                                                                 | Placebo + IFN a                | Bv b + IFN a       |
-| Number of patients                                                              | 322                            | 327                |
-| Progression-free survival Median (months) Hazard ratio 95% CI                   | 5.4 0.63 0.52, 0.75 (p-value < | 10.2 0.0001)       |
-| Objective response rate (%) in Patients with measurable disease N Response rate | 289 12.8%                      | 306                |
-| Overall survival                                                                |                                |                    |
-| Median (months) Hazard ratio                                                    | 21.3                           |                    |
-| 95% CI                                                                          | 0.91 0.76, (p-value            | 31.4%              |
-|                                                                                 | (p-value < 0.0001)             | (p-value < 0.0001) |
-|                                                                                 |                                | 23.3               |
-|                                                                                 | 1.10 0.3360)                   | 1.10 0.3360)       |
+|                                           | BO17705            | BO17705            |
+|-------------------------------------------|--------------------|--------------------|
+|                                           | Placebo + IFN a    | Bv b + IFN a       |
+| Number of patients                        | 322                | 327                |
+| Progression-free survival Median (months) |                    |                    |
+|                                           | 5.4                | 10.2               |
+| Hazard ratio 95% CI                       | 0.63 0.52, 0.75    | 0.63 0.52, 0.75    |
+| N                                         | 289                | 306                |
+| Response rate                             | 12.8%              | 31.4%              |
+|                                           | (p-value < 0.0001) | (p-value < 0.0001) |
+| Overall survival                          |                    |                    |
+| Median (months)                           | 21.3               | 23.3               |
+| Hazard ratio                              | 0.91 0.76, 1.10    | 0.91 0.76, 1.10    |
 
-a  Interferon alfa-2a 9 MIU 3×/week b Bevacizumab 10 mg/kg q 2 wk
+a Interferon alfa-2a 9 MIU 3×/week b Bevacizumab 10 mg/kg q 2 wk
 
 An exploratory multivariate Cox regression model using backward selection indicated that the following baseline prognostic factors were strongly associated with survival independent of treatment: gender, white blood cell count, platelets, body weight loss in the 6 months prior to trial entry, number of metastatic sites, sum of longest diameter of target lesions, Motzer score. Adjustment for these baseline factors resulted in a treatment hazard ratio of 0.78 (95% CI [0.63; 0.96], p = 0.0219), indicating a 22% reduction in the risk of death for patients in the Avastin + IFN alfa-2a arm compared to IFN alfa-2a arm.
 
@@ -1107,9 +1112,9 @@ Patients who had received prior therapy with bevacizumab or prior systemic antic
 
 A total of 1873 patients were randomised in equal proportions to the following three arms:
 
--  CPP arm: Five cycles of placebo (started cycle 2) in combination with carboplatin (AUC 6) and paclitaxel (175 mg/m 2 ) for 6 cycles followed by placebo alone, for a total of up to 15 months of therapy
--  CPB15 arm: Five cycles of Avastin (15 mg/kg q3w started cycle 2) in combination with carboplatin (AUC 6) and paclitaxel (175 mg/m 2 ) for 6 cycles followed by placebo alone, for a total of up to 15 months of therapy
--  CPB15+ arm: Five cycles of Avastin (15 mg/kg q3w started cycle 2) in combination with carboplatin (AUC 6) and paclitaxel (175 mg/m 2 ) for 6 cycles followed by continued use of Avastin (15 mg/kg q3w) as single agent for a total of up to 15 months of therapy.
+- CPP arm: Five cycles of placebo (started cycle 2) in combination with carboplatin (AUC 6) and paclitaxel (175 mg/m 2 ) for 6 cycles followed by placebo alone, for a total of up to 15 months of therapy
+- CPB15 arm: Five cycles of Avastin (15 mg/kg q3w started cycle 2) in combination with carboplatin (AUC 6) and paclitaxel (175 mg/m 2 ) for 6 cycles followed by placebo alone, for a total of up to 15 months of therapy
+- CPB15+ arm: Five cycles of Avastin (15 mg/kg q3w started cycle 2) in combination with carboplatin (AUC 6) and paclitaxel (175 mg/m 2 ) for 6 cycles followed by continued use of Avastin (15 mg/kg q3w) as single agent for a total of up to 15 months of therapy.
 
 The majority of patients included in the study were White (87% in all three arms); the median age was 60 years in CPP and CPB15 arms and 59 years in CPB15+ arm; and 29% of patients in CPP or CPB15 and 26% in CPB15+ were over 65 years of age. Overall approximately 50% of patients had a GOG PS of 0 at baseline, 43% a GOG PS score of 1, and 7% a GOG PS score of 2. Most patients had EOC (82% in CPP and CPB15, 85% in CPB15+) followed by PPC (16% in CPP, 15% in CPB15, 13% in CPB15+) and FTC (1% in CPP, 3% in CPB15, 2% in CPB15+). The majority of patients had serous adenocarcinoma histologic type (85% in CPP and CPB15, 86% in CPB15+). Overall approximately 34% of patients were FIGO stage III optimally debulked with gross residual disease, 40% stage III sub-optimally debulked, and 26% were stage IV patients.
 
@@ -1127,45 +1132,41 @@ The results of this study are summarised in Table 16.
 
 Table 16 Efficacy results from study GOG-0218
 
-| Progression-free survival 1        | Progression-free survival 1   | Progression-free survival 1   | Progression-free survival 1   | Progression-free survival 1   |
-|------------------------------------|-------------------------------|-------------------------------|-------------------------------|-------------------------------|
-|                                    | CPP (n = 625)                 | CPB15 (n = 625)               | CPB15+ (n = 623)              | CPB15+ (n = 623)              |
-| Median PFS (months)                | 10.6                          | 11.6                          | 14.7                          | 14.7                          |
-| Hazard ratio (95% CI) p-value 3, 4 |                               | 0.89                          |                               |                               |
-|                                    |                               |                               | 0.70                          | 0.70                          |
-|                                    |                               | (0.78, 1.02)                  | (0.61, 0.81)                  | (0.61, 0.81)                  |
-|                                    |                               | 0.0437                        | < 0.0001                      | < 0.0001                      |
-| Objective response rate 5          | (n = 396)                     | (n = 393)                     | (n = 403)                     | (n = 403)                     |
-| %pts with objective response       | 63.4                          | 66.2                          |                               |                               |
-| p-value                            |                               |                               |                               |                               |
-|                                    |                               | 0.2341                        |                               |                               |
-|                                    |                               |                               | 0.2041                        | 0.2041                        |
-| Overall survival 6                 |                               |                               |                               |                               |
-|                                    | CPP (n = 625)                 | CPB15                         | (n = 623)                     | (n = 623)                     |
-|                                    |                               | (n = 625)                     | 0.0641                        | 0.0641                        |
-| Median OS (months) 3               | 40.6                          | 38.8                          |                               |                               |
-| p-value                            |                               |                               |                               |                               |
-|                                    |                               | 0.2197                        |                               |                               |
-| Hazard ratio (95% CI)              |                               |                               |                               |                               |
-|                                    |                               |                               | (0.75, 1.04)                  | (0.75, 1.04)                  |
-|                                    |                               | (0.91,                        |                               |                               |
-|                                    |                               | 1.07                          |                               |                               |
-| 2                                  |                               |                               |                               |                               |
-|                                    |                               | 1.25)                         |                               |                               |
-|                                    |                               | 0.88                          |                               |                               |
+| Progression-free survival 1   | Progression-free survival 1   | Progression-free survival 1   | Progression-free survival 1   |
+|-------------------------------|-------------------------------|-------------------------------|-------------------------------|
+|                               | CPP (n = 625)                 | CPB15 (n = 625)               | CPB15+ (n = 623)              |
+| Median PFS (months)           | 10.6                          | 11.6                          | 14.7                          |
+| Hazard ratio                  | (95% CI) 2                    | 0.89                          | 0.70                          |
+|                               |                               | (0.78, 1.02)                  | (0.61, 0.81)                  |
+| p-value 3, 4                  |                               | 0.0437                        | < 0.0001                      |
+|                               | (n = 396)                     | (n = 393)                     | (n = 403)                     |
+| %pts with objective response  | 63.4                          | 66.2                          | 66.0                          |
+| p-value                       |                               |                               |                               |
+|                               |                               | 0.2341                        | 0.2041                        |
+| Overall survival 6            |                               |                               |                               |
+|                               | (n = 625)                     | (n = 625)                     | (n = 623)                     |
+| Median OS (months)            | 40.6                          |                               | 43.8                          |
+| p-value 3                     |                               | 38.8                          |                               |
+|                               |                               | 0.2197                        | 0.0641                        |
+| Hazard ratio (95% CI)         |                               |                               |                               |
+| 2                             |                               |                               |                               |
+|                               |                               |                               | 0.88 (0.75,                   |
+|                               |                               | 1.07 (0.91,                   |                               |
+|                               |                               |                               | 1.04)                         |
+|                               | 1.25)                         | 1.25)                         | 1.25)                         |
 
 Prespecified PFS analyses were conducted, all with a cut-off date of 29 September 2009. The results of these prespecified analyses are as follows:
 
--  The protocol specified analysis of investigator-assessed PFS (without censoring for CA-125 progression or non-protocol therapy [NPT]) shows a stratified hazard ratio of 0.71 (95% CI: 0.61-0.83, 1-sided log-rank p-value &lt; 0.0001) when CPB15+ is compared with CPP, with a median PFS of 10.4 months in the CPP arm and 14.1 months in the CPB15+ arm.
--  The primary analysis of investigator-assessed PFS (censoring for CA-125 progressions and NPT) shows a stratified hazard ratio of 0.62 (95% CI: 0.52-0.75, 1-sided log-rank p-value &lt; 0.0001) when CPB15+ is compared with CPP, with a median PFS of 12.0 months in the CPP arm and 18.2 months in the CPB15+ arm.
+- The protocol specified analysis of investigator-assessed PFS (without censoring for CA-125 progression or non-protocol therapy [NPT]) shows a stratified hazard ratio of 0.71 (95% CI: 0.61-0.83, 1-sided log-rank p-value &lt; 0.0001) when CPB15+ is compared with CPP, with a median PFS of 10.4 months in the CPP arm and 14.1 months in the CPB15+ arm.
+- The primary analysis of investigator-assessed PFS (censoring for CA-125 progressions and NPT) shows a stratified hazard ratio of 0.62 (95% CI: 0.52-0.75, 1-sided log-rank p-value &lt; 0.0001) when CPB15+ is compared with CPP, with a median PFS of 12.0 months in the CPP arm and 18.2 months in the CPB15+ arm.
 
 <div style=\"page-break-after: always\"></div>
 
--  The analysis of PFS as determined by the independent review committee (censoring for NPT) shows a stratified hazard ratio of 0.62 (95% CI: 0.50-0.77, 1-sided log-rank p-value &lt; 0.0001) when CPB15+ is compared with CPP, with a median PFS of 13.1 in the CPP arm and 19.1 months in the CPB15+ arm.
+- The analysis of PFS as determined by the independent review committee (censoring for NPT) shows a stratified hazard ratio of 0.62 (95% CI: 0.50-0.77, 1-sided log-rank p-value &lt; 0.0001) when CPB15+ is compared with CPP, with a median PFS of 13.1 in the CPP arm and 19.1 months in the CPB15+ arm.
 
 PFS subgroup analyses by disease stage and debulking status are summarised in Table 17. These results demonstrate robustness of the analysis of PFS as shown in Table 16.
 
-Table 17 PFS 1  results by disease stage and debulking status from study GOG-0218
+Table 17 PFS 1 results by disease stage and debulking status from study GOG-0218
 
 | Randomised patients stage III optimally debulked disease 2,3       | Randomised patients stage III optimally debulked disease 2,3       | Randomised patients stage III optimally debulked disease 2,3       | Randomised patients stage III optimally debulked disease 2,3       |
 |--------------------------------------------------------------------|--------------------------------------------------------------------|--------------------------------------------------------------------|--------------------------------------------------------------------|
@@ -1174,8 +1175,8 @@ Table 17 PFS 1  results by disease stage and debulking status from study GOG-021
 | Median PFS (months) Hazard ratio (95% CI) 4                        | CPP (n = 253) 10.1                                                 | CPB15 (n = 256) 10.9 0.93 (0.77, 1.14)                             | CPB15+ (n = 242) 13.9 0.78 (0.63, 0.96)                            |
 | Randomised patients with stage IV disease                          | Randomised patients with stage IV disease                          | Randomised patients with stage IV disease                          | Randomised patients with stage IV disease                          |
 |                                                                    | CPP (n = 153)                                                      | CPB15 (n = 165)                                                    | CPB15+ (n = 165)                                                   |
-| Median PFS (months)                                                | 9.5                                                                | 10.4                                                               | 12.8                                                               |
-| Hazard Ratio (95% CI) 4                                            |                                                                    | 0.90 (0.70, 1.16)                                                  | 0.64 (0.49, 0.82)                                                  |
+| Median PFS (months) 4                                              | 9.5                                                                | 10.4                                                               | 12.8                                                               |
+| Hazard Ratio (95% CI)                                              |                                                                    | 0.90 (0.70, 1.16)                                                  | 0.64 (0.49, 0.82)                                                  |
 
 ## BO17707 (ICON7)
 
@@ -1185,8 +1186,8 @@ Patients who had received prior therapy with bevacizumab or prior systemic antic
 
 A total of 1528 patients were randomised in equal proportions to the following two arms:
 
--  CP arm: Carboplatin (AUC 6) and paclitaxel (175 mg/m 2 ) for 6 cycles of 3 weeks duration
--  CPB7.5+ arm: Carboplatin (AUC 6) and paclitaxel (175 mg/m 2 ) for 6 cycles of 3 weeks plus Avastin (7.5 mg/kg q3w) for up to 12 months (Avastin was started at cycle 2 of chemotherapy if treatment was initiated within 4 weeks of surgery or at cycle 1 if treatment was initiated more than 4 weeks after surgery).
+- CP arm: Carboplatin (AUC 6) and paclitaxel (175 mg/m 2 ) for 6 cycles of 3 weeks duration
+- CPB7.5+ arm: Carboplatin (AUC 6) and paclitaxel (175 mg/m 2 ) for 6 cycles of 3 weeks plus Avastin (7.5 mg/kg q3w) for up to 12 months (Avastin was started at cycle 2 of chemotherapy if treatment was initiated within 4 weeks of surgery or at cycle 1 if treatment was initiated more than 4 weeks after surgery).
 
 The majority of patients included in the study were White (96%), the median age was 57 years in both treatment arms, 25% of patients in each treatment arm were 65 years of age or over, and
 
@@ -1220,6 +1221,8 @@ Table 18 Efficacy results from study BO17707 (ICON7)
 | Hazard ratio [95% CI]       | 0.99 [0. 85; 1. 15]         | 0.99 [0. 85; 1. 15]         |
 |                             | (p-value = 0. 8910)         | (p-value = 0. 8910)         |
 
+3 Final overall survival analysis performed when 46.7% of the patients had died with data cut-off date of 31 March 2013.
+
 The primary analysis of investigator-assessed PFS with a data cut-off date of 28 February 2010 shows an unstratified hazard ratio of 0.79 (95% CI: 0.68-0.91, 2-sided log-rank p-value 0.0010) with a median PFS of 16.0 months in the CP arm and 18.3 months in the CPB7.5+ arm.
 
 PFS subgroup analyses by disease stage and debulking status are summarised in Table 19. These results demonstrate robustness of the primary analysis of PFS as shown in Table 18.
@@ -1230,32 +1233,31 @@ Table 19 PFS 1  results by disease stage and debulking status from study BO17707
 
 | Randomised patients with stage III optimally debulked disease 2,3   |                   |                        |
 |---------------------------------------------------------------------|-------------------|------------------------|
-|                                                                     | CP (n = 368) 17.7 | CPB7.5+ (n = 383) 19.3 |
-| Median PFS (months) 4                                               |                   |                        |
-|                                                                     |                   | 0.89                   |
-| Hazard ratio (95% CI)                                               |                   |                        |
+|                                                                     | CP (n = 17.7      | CPB7.5+ (n = 383) 19.3 |
+| Median PFS (months)                                                 | 368)              |                        |
+| Hazard ratio 4                                                      | (95% CI)          | 0.89                   |
 |                                                                     |                   | (0.74, 1.07)           |
 | Randomised patients with stage III suboptimally debulked disease 3  |                   |                        |
 |                                                                     | CP (n = 154) 10.1 | CPB7.5+ (n = 140) 16.9 |
 | Median PFS (months)                                                 |                   |                        |
 |                                                                     |                   | 0.67                   |
-| Hazard ratio (95% CI)4                                              |                   |                        |
-|                                                                     |                   | (0.52, 0.87)           |
-| Randomised patients with stage IV disease                           |                   |                        |
-|                                                                     |                   | (n = 104)              |
+| Hazard ratio (95% CI)4                                              |                   | (0.52,                 |
+| Randomised patients with stage IV disease                           |                   | 0.87)                  |
+|                                                                     | CP (n = 97)       | CPB7.5+ (n = 104)      |
+|                                                                     |                   | 13.5                   |
 |                                                                     |                   | (0.55, 1.01)           |
-| Median PFS (months)                                                 | 10.1              | 13.5                   |
+| Median PFS (months)                                                 | 10.1              |                        |
 |                                                                     |                   | 0.74                   |
+| CI)4                                                                |                   |                        |
 | Hazard ratio (95%                                                   |                   |                        |
-|                                                                     |                   | CI)4                   |
 
 ## Recurrent ovarian cancer
 
 The safety and efficacy of Avastin in the treatment of recurrent epithelial ovarian, fallopian tube or primary peritoneal cancer was studied in three phase III trials (AVF4095g , MO22224 and GOG0213) with different patient populations and chemotherapy regimens.
 
--  AVF4095g evaluated the efficacy and safety of bevacizumab in combination with carboplatin and gemcitabine, followed by bevacizumab as a single agent in patients with platinum-sensitive recurrent epithelial ovarian, fallopian tube or primary peritoneal cancer.
--  GOG-0213 evaluated the efficacy and safety of bevacizumab in combination with carboplatin and paclitaxel, followed by bevacizumab as a single agent in patients with platinum-sensitive recurrent epithelial ovarian, fallopian tube or primary peritoneal cancer.
--  MO22224 evaluated the efficacy and safety of bevacizumab in combination with paclitaxel, topotecan, or pegylated liposomal doxorubicin in patients with platinum-resistant recurrent epithelial ovarian, fallopian tube or primary peritoneal cancer.
+- AVF4095g evaluated the efficacy and safety of bevacizumab in combination with carboplatin and gemcitabine, followed by bevacizumab as a single agent in patients with platinum-sensitive recurrent epithelial ovarian, fallopian tube or primary peritoneal cancer.
+- GOG-0213 evaluated the efficacy and safety of bevacizumab in combination with carboplatin and paclitaxel, followed by bevacizumab as a single agent in patients with platinum-sensitive recurrent epithelial ovarian, fallopian tube or primary peritoneal cancer.
+- MO22224 evaluated the efficacy and safety of bevacizumab in combination with paclitaxel, topotecan, or pegylated liposomal doxorubicin in patients with platinum-resistant recurrent epithelial ovarian, fallopian tube or primary peritoneal cancer.
 
 ## AVF4095g
 
@@ -1267,8 +1269,8 @@ A total of 484 patients with measurable disease were randomised 1:1 to either:
 
 <div style=\"page-break-after: always\"></div>
 
--  Carboplatin (AUC4, Day 1) and gemcitabine (1000 mg/m 2  on Days 1 and 8) and concurrent placebo every 3 weeks for 6 and up to 10 cycles followed by placebo (every 3 weeks) alone until disease progression or unacceptable toxicity
--  Carboplatin (AUC4, Day 1) and gemcitabine (1000 mg/m 2  on Days 1 and 8) and concurrent Avastin (15 mg/kg Day 1) every 3 weeks for 6 and up to 10 cycles followed by Avastin (15 mg/kg every 3 weeks) alone until disease progression or unacceptable toxicity
+- Carboplatin (AUC4, Day 1) and gemcitabine (1000 mg/m 2 on Days 1 and 8) and concurrent placebo every 3 weeks for 6 and up to 10 cycles followed by placebo (every 3 weeks) alone until disease progression or unacceptable toxicity
+- Carboplatin (AUC4, Day 1) and gemcitabine (1000 mg/m 2 on Days 1 and 8) and concurrent Avastin (15 mg/kg Day 1) every 3 weeks for 6 and up to 10 cycles followed by Avastin (15 mg/kg every 3 weeks) alone until disease progression or unacceptable toxicity
 
 The primary endpoint was progression-free survival based on investigator assessment using modified RECIST 1.0. Additional endpoints included objective response, duration of response, overall survival and safety. An independent review of the primary endpoint was also conducted.
 
@@ -1321,8 +1323,8 @@ GOG-0213, a phase III randomised controlled open label trial, studied the safety
 
 A total of 673 patients were randomised in equal proportions to the following two treatment arms:
 
--  CP arm: Carboplatin (AUC5) and paclitaxel (175 mg/m 2  intravenously) every 3 weeks for 6 and up to 8 cycles.
--  CPB arm: Carboplatin (AUC5) and paclitaxel (175 mg/m 2  intravenously) and concurrent Avastin (15 mg/kg) every 3 weeks for 6 and up to 8 cycles, followed by Avastin (15 mg/kg every 3 weeks) alone until disease progression or unacceptable toxicity.
+- CP arm: Carboplatin (AUC5) and paclitaxel (175 mg/m 2 intravenously) every 3 weeks for 6 and up to 8 cycles.
+- CPB arm: Carboplatin (AUC5) and paclitaxel (175 mg/m 2 intravenously) and concurrent Avastin (15 mg/kg) every 3 weeks for 6 and up to 8 cycles, followed by Avastin (15 mg/kg every 3 weeks) alone until disease progression or unacceptable toxicity.
 
 Most patients in both the CP arm (80.4%) and the CPB arm (78.9%) were White. The median age was 60.0 years in the CP arm and 59.0 years in the CPB arm. The majority of patients (CP: 64.6%; CPB: 68.8%) were in the age category &lt; 65 years. At baseline, most patients in both treatment arms had a GOG PS of 0 (CP: 82.4%: CPB; 80.7%) or 1 (CP: 16.7%: CPB; 18.1%). A GOG PS of 2 at baseline was reported in 0.9% of patients in the CP arm and in 1.2% of patients in the CPB arm.'
 
@@ -1348,7 +1350,7 @@ Table 22 Efficacy results 1,2  from study GOG-0213
 
 1 Final Analysis  2  Tumour assessments and response evaluations were determined by the investigators using the GOG RECIST criteria (Revised RECIST guideline (version 1.1). Eur J Cancer. 2009;45:228Y247).
 
-a Hazard ratio was estimated from Cox proportional hazards models stratified by the duration of platinum free-interval prior to enrolling onto this study per eCRF (electronic case report form) and secondary surgical debulking status Yes/No (Yes=randomised to undergo cytoreduction or randomised to not undergo cytoreduction; No= not a candidate or did not consent to cytoreduction). b stratified by the duration of treatment free-interval prior to enrolling onto this study per the registration form, and secondary surgical debulking status Yes/No.
+a  Hazard ratio was estimated from Cox proportional hazards models stratified by the duration of platinum free-interval prior to enrolling onto this study per eCRF (electronic case report form) and secondary surgical debulking status Yes/No (Yes=randomised to undergo cytoreduction or randomised to not undergo cytoreduction; No= not a candidate or did not consent to cytoreduction). b stratified by the duration of treatment free-interval prior to enrolling onto this study per the registration form, and secondary surgical debulking status Yes/No.
 
 The trial met its primary objective of OS improvement. Treatment with Avastin at 15 mg/kg every 3 weeks in combination with chemotherapy (carboplatin and paclitaxel) for 6 and up to 8 cycles, followed by Avastin until disease progression or unacceptable toxicity resulted, when data were derived from eCRF, in a clinically meaningful and statistically significant improvement in OS compared to treatment with carboplatin and paclitaxel alone.
 
@@ -1358,14 +1360,14 @@ Study MO22224 evaluated the efficacy and safety of bevacizumab in combination wi
 
 A total of 361 patients were enrolled into this study and administered either chemotherapy (paclitaxel, topotecan, or pegylated liposomal doxorubicin (PLD) alone or in combination with bevacizumab:
 
--  CT Arm (chemotherapy alone):
--  Paclitaxel 80 mg/m 2 as a 1-hour intravenous infusion on Days 1, 8, 15, and 22 every 4 weeks.
--  Topotecan 4 mg/m 2  as a 30-minute intravenous infusion on Days 1, 8, and 15 every 4 weeks. Alternatively, a 1.25 mg/m 2 dose could be administered over 30 minutes on Days 1-5 every 3 weeks.
--  PLD 40 mg/m 2  as a 1 mg/min intravenous infusion on Day 1 only every 4 weeks. After Cycle 1, the medicinal product could be delivered as a 1-hour infusion.
--  CT + BV Arm (chemotherapy plus bevacizumab):
--  The chosen chemotherapy was combined with bevacizumab 10 mg/kg intravenously every 2 weeks (or bevacizumab 15 mg/kg every 3 weeks if used in combination with topotecan 1.25 mg/m 2  on Days 1-5 every 3 weeks).
+- CT Arm (chemotherapy alone):
+- Paclitaxel 80 mg/m 2 as a 1-hour intravenous infusion on Days 1, 8, 15, and 22 every 4 weeks.
+- Topotecan 4 mg/m 2 as a 30-minute intravenous infusion on Days 1, 8, and 15 every 4 weeks. Alternatively, a 1.25 mg/m 2 dose could be administered over 30 minutes on Days 1-5 every 3 weeks.
+- PLD 40 mg/m 2 as a 1 mg/min intravenous infusion on Day 1 only every 4 weeks. After Cycle 1, the medicinal product could be delivered as a 1-hour infusion.
+- CT + BV Arm (chemotherapy plus bevacizumab):
+- The chosen chemotherapy was combined with bevacizumab 10 mg/kg intravenously every 2 weeks (or bevacizumab 15 mg/kg every 3 weeks if used in combination with topotecan 1.25 mg/m 2 on Days 1-5 every 3 weeks).
 
-Eligible patients had epithelial ovarian, fallopian tube or primary peritoneal cancer that progressed within &lt;6 months of previous platinum therapy consisting of a minimum of 4 platinum therapy cycles. Patients should have had a life expectancy of ≥ 12 weeks and no prior radiotherapy to the pelvis or abdomen. Most patients were FIGO stage IIIC or stage IV. The majority of patients in both arms had an ECOG Performance Status (PS) of 0 (CT: 56.4% vs. CT + BV: 61.2%). The percentage of patients with an ECOG PS of 1 or ≥ 2 was 38.7% and 5.0% in the CT arm, and 29.8% and 9.0% in the CT + BV arm. Information on race exists for 29.3% of patients and nearly all patients were white. The median age of patients was 61.0 (range: 25  84) years. A total of 16 patients (4.4%) were &gt; 75 years old. The overall rates of discontinuation due to adverse events were 8.8% in the CT arm and 43.6% in the CT + BV arm (mostly due to Grade 2-3 adverse events) and the median time to discontinuation in the CT + BV arm was 5.2 months compared with 2.4 months in the CT arm. The rates of discontinuation due to adverse events in the subgroup of patients &gt; 65 years old were 8.8% in the CT arm and 50.0% in the CT + BV arm. The HR for PFS was 0.47 (95% CI: 0.35, 0.62) and 0.45 (95% CI: 0.31, 0.67) for the &lt; 65 and ≥ 65 subgroups, respectively.
+Eligible patients had epithelial ovarian, fallopian tube or primary peritoneal cancer that progressed within &lt;6 months of previous platinum therapy consisting of a minimum of 4 platinum therapy cycles. Patients should have had a life expectancy of ≥ 12 weeks and no prior radiotherapy to the pelvis or abdomen. Most patients were FIGO stage IIIC or stage IV. The majority of patients in both arms had an ECOG Performance Status (PS) of 0 (CT: 56.4% vs. CT + BV: 61.2%). The percentage of patients with an ECOG PS of 1 or ≥ 2 was 38.7% and 5.0% in the CT arm, and 29.8% and 9.0% in the CT + BV arm. Information on race exists for 29.3% of patients and nearly all patients were white. The median age of patients was 61.0 (range: 25 -84) years. A total of 16 patients (4.4%) were &gt; 75 years old. The overall rates of discontinuation due to adverse events were 8.8% in the CT arm and 43.6% in the CT + BV arm (mostly due to Grade 2-3 adverse events) and the median time to discontinuation in the CT + BV arm was 5.2 months compared with 2.4 months in the CT arm. The rates of discontinuation due to adverse events in the subgroup of patients &gt; 65 years old were 8.8% in the CT arm and 50.0% in the CT + BV arm. The HR for PFS was 0.47 (95% CI: 0.35, 0.62) and 0.45 (95% CI: 0.31, 0.67) for the &lt; 65 and ≥ 65 subgroups, respectively.
 
 The primary endpoint was progression-free-survival, with secondary endpoints including objective response rate and overall survival. Results are presented in Table 23.
 
@@ -1399,7 +1401,7 @@ All analyses presented in this table are stratified analyses.
 
 ***The final analysis of overall survival was performed when 266 deaths, which account for 73.7% of enrolled patients, were observed.
 
-The trial met its primary objective of PFS improvement. Compared to patients treated with chemotherapy (paclitaxel, topotecan or PLD) alone in the recurrent platinum-resistant setting, patients who received bevacizumab at a dose of 10 mg/kg every 2 weeks (or 15 mg/kg every 3 weeks if used in combination with 1.25 mg/m 2  topotecan on Days 1-5 every 3 weeks) in combination with chemotherapy and continued to receive bevacizumab until disease progression or unacceptable toxicity, had a statistically significant improvement in PFS. The exploratory PFS and OS analyses by chemotherapy cohort (paclitaxel, topotecan and PLD) are summarised in Table 24.
+The trial met its primary objective of PFS improvement. Compared to patients treated with chemotherapy (paclitaxel, topotecan or PLD) alone in the recurrent platinum-resistant setting, patients who received bevacizumab at a dose of 10 mg/kg every 2 weeks (or 15 mg/kg every 3 weeks if used in combination with 1.25 mg/m 2 topotecan on Days 1-5 every 3 weeks) in combination with chemotherapy and continued to receive bevacizumab until disease progression or unacceptable toxicity, had a statistically significant improvement in PFS. The exploratory PFS and OS analyses by chemotherapy cohort (paclitaxel, topotecan and PLD) are summarised in Table 24.
 
 <div style=\"page-break-after: always\"></div>
 
@@ -1431,10 +1433,10 @@ The efficacy and safety of Avastin in combination with chemotherapy (paclitaxel 
 
 ## A total of 452 patients were randomised to receive either:
 
--  Paclitaxel 135 mg/m 2 intravenously over 24 hours on Day 1 and cisplatin 50 mg/m 2 intravenously on Day 2, every 3 weeks (q3w); or Paclitaxel 175 mg/m 2 intravenously over 3 hours on Day 1 and cisplatin 50 mg/m 2 intravenously on Day 2 (q3w); or Paclitaxel 175 mg/m 2 intravenously over 3 hours on Day 1 and cisplatin 50 mg/m 2 intravenously on Day 1 (q3w)
--  Paclitaxel 135 mg/m 2 intravenously over 24 hours on Day 1 and cisplatin 50 mg/m 2 intravenously on Day 2 plus bevacizumab 15 mg/kg intravenously on Day 2 (q3w); or Paclitaxel 175 mg/m 2 intravenously over 3 hours on Day 1 and cisplatin 50 mg/m 2 intravenously on Day 2 plus bevacizumab 15 mg/kg intravenously on Day 2 (q3w); or Paclitaxel 175 mg/m 2 intravenously over 3 hours on Day 1 and cisplatin 50 mg/m 2 intravenously on Day 1 plus bevacizumab 15 mg/kg intravenously on Day 1 (q3w)
--  Paclitaxel 175 mg/m 2 intravenously over 3 hours on Day 1 and topotecan 0.75 mg/m 2 intravenously over 30 minutes on days 1-3 (q3w)
--  Paclitaxel 175 mg/m 2 intravenously over 3 hours on Day 1 and topotecan 0.75 mg/m 2 intravenously over 30 minutes on Days 1-3 plus bevacizumab 15 mg/kg intravenously on Day 1 (q3w)
+- Paclitaxel 135 mg/m 2 intravenously over 24 hours on Day 1 and cisplatin 50 mg/m 2 intravenously on Day 2, every 3 weeks (q3w); or Paclitaxel 175 mg/m 2 intravenously over 3 hours on Day 1 and cisplatin 50 mg/m 2 intravenously on Day 2 (q3w); or Paclitaxel 175 mg/m 2 intravenously over 3 hours on Day 1 and cisplatin 50 mg/m 2 intravenously on Day 1 (q3w)
+- Paclitaxel 135 mg/m 2 intravenously over 24 hours on Day 1 and cisplatin 50 mg/m 2 intravenously on Day 2 plus bevacizumab 15 mg/kg intravenously on Day 2 (q3w); or Paclitaxel 175 mg/m 2 intravenously over 3 hours on Day 1 and cisplatin 50 mg/m 2 intravenously on Day 2 plus bevacizumab 15 mg/kg intravenously on Day 2 (q3w); or Paclitaxel 175 mg/m 2 intravenously over 3 hours on Day 1 and cisplatin 50 mg/m 2 intravenously on Day 1 plus bevacizumab 15 mg/kg intravenously on Day 1 (q3w)
+- Paclitaxel 175 mg/m 2 intravenously over 3 hours on Day 1 and topotecan 0.75 mg/m 2 intravenously over 30 minutes on days 1-3 (q3w)
+- Paclitaxel 175 mg/m 2 intravenously over 3 hours on Day 1 and topotecan 0.75 mg/m 2 intravenously over 30 minutes on Days 1-3 plus bevacizumab 15 mg/kg intravenously on Day 1 (q3w)
 
 Eligible patients had persistent, recurrent or metastatic squamous cell carcinoma, adenosquamous carcinoma, or adenocarcinoma of the cervix which was not amenable to curative treatment with
 
@@ -1484,9 +1486,9 @@ Median (months) 1
 
 Hazard ratio [95% CI]
 
-0.76 [0.62, 0.94] (p-value 5,8
+0.76 [0.62, 0.94]
 
-= 0.0126)
+(p-value 5,8 = 0.0126)
 
 ## Secondary endpoints
 
@@ -1549,9 +1551,9 @@ Table 26 Overall survival results from study GOG-0240 by Trial Treatment
 | Avastin vs. No Avastin                          | Cisplatin+ Paclitaxel Topotecan+ Paclitaxel | 0.72 (0.51, 1.02) (17.5 vs.14.3 months; p = 0.0609) 0.76 (0.55, 1.06) (14.9 vs. 11.9 months; p = 0.1061) | 0.75 (0.55, 1.01) (17.5 vs.15.0 months; p = 0.0584) 0.79 (0.59, 1.07) (16.2 vs. 12.0 months; p = 0.1342) |
 | Topotecan+ Paclitaxel vs. Cisplatin+ Paclitaxel | Avastin No Avastin                          | 1.15 (0.82, 1.61) (14.9 vs. 17.5 months; p = 0.4146) 1.13 (0.81, 1.57) (11.9 vs.14.3 months; p = 0.4825) | 1.15 (0.85, 1.56) (16.2 vs 17.5 months; p = 0.3769) 1.08 (0.80, 1.45) (12.0 vs 15.0 months; p = 0.6267)  |
 
-1  Primary analysis was performed with a data cut-off date of 12 December 2012 and is considered the final analysis
+1 Primary analysis was performed with a data cut-off date of 12 December 2012 and is considered the final analysis
 
-2  Follow-up analysis was performed with a data cut-off date of 07 March 2014; all p-values are displayed for descriptive purpose only
+2 Follow-up analysis was performed with a data cut-off date of 07 March 2014; all p-values are displayed for descriptive purpose only
 
 ## Paediatric population
 
@@ -1561,8 +1563,8 @@ The European Medicines Agency has waived the obligation to submit the results of
 
 Anti-tumour activity was not observed in two earlier studies among a total of 30 children aged &gt; 3 years old with relapsed or progressive high-grade glioma when treated with bevacizumab and irinotecan (CPT-11). There is insufficient information to determine the safety and efficacy of bevacizumab in children with newly-diagnosed high-grade glioma.
 
--  In a single-arm study (PBTC-022), 18 children with recurrent or progressive non-pontine highgrade glioma (including 8 with glioblastoma [WHO Grade IV], 9 with anaplastic astrocytoma [Grade III] and 1 with anaplastic oligodendroglioma [Grade III]) were treated with bevacizumab (10 mg/kg) two weeks apart and then with bevacizumab in combination with CPT-11 (125-350 mg/m²) once every two weeks until progression. There were no objective (partial or complete) radiological responses (MacDonald criteria). Toxicity and adverse reactions included arterial hypertension and fatigue as well as CNS ischaemia with acute neurological deficit.
--  In a retrospective single institution series, 12 consecutive (2005 to 2008) children with relapsed or progressive high-grade glioma (3 with WHO Grade IV, 9 with Grade III) were treated with
+- In a single-arm study (PBTC-022), 18 children with recurrent or progressive non-pontine highgrade glioma (including 8 with glioblastoma [WHO Grade IV], 9 with anaplastic astrocytoma [Grade III] and 1 with anaplastic oligodendroglioma [Grade III]) were treated with bevacizumab (10 mg/kg) two weeks apart and then with bevacizumab in combination with CPT-11 (125-350 mg/m²) once every two weeks until progression. There were no objective (partial or complete) radiological responses (MacDonald criteria). Toxicity and adverse reactions included arterial hypertension and fatigue as well as CNS ischaemia with acute neurological deficit.
+- In a retrospective single institution series, 12 consecutive (2005 to 2008) children with relapsed or progressive high-grade glioma (3 with WHO Grade IV, 9 with Grade III) were treated with
 
 <div style=\"page-break-after: always\"></div>
 
@@ -1694,7 +1696,9 @@ EU/1/04/300/001 - 100 mg/4 ml vial EU/1/04/300/002 - 400 mg/16 ml vial
 
 ## 9. DATE OF FIRST AUTHORISATION/RENEWAL OF THE AUTHORISATION
 
-Date of first authorisation: 12 January 2005 Date of latest renewal: 17 November 2014
+Date of first authorisation: 12 January 2005
+
+Date of latest renewal: 17 November 2014
 
 ## 10. DATE OF REVISION OF THE TEXT
 
@@ -1717,11 +1721,7 @@ Name and address of the manufacturers of the biological active substance
 
 Genentech, Inc. 1 Antibody Way Oceanside, CA 92056 USA
 
-F. Hoffmann-La Roche AG Grenzacherstrasse 124 4058 Basel
-
-Switzerland
-
-Roche Singapore Technical Operations, Pte. Ltd. 10 Tuas Bay Link Singapore 637394 Singapore
+F. Hoffmann-La Roche AG Grenzacherstrasse 124 4058 Basel Switzerland
 
 Name and address of the manufacturer responsible for batch release
 
@@ -1733,22 +1733,20 @@ Medicinal product subject to restricted medical prescription (see Annex I: Summa
 
 ## C. OTHER CONDITIONS AND REQUIREMENTS OF THE MARKETING AUTHORISATION
 
-##  Periodic safety update reports (PSURs)
+## · Periodic safety update reports (PSURs)
 
 The requirements for submission of PSURs for this medicinal product are set out in the list of Union reference dates (EURD list) provided for under Article 107c(7) of Directive 2001/83/EC and any subsequent updates published on the European medicines web-portal.
 
 ## D. CONDITIONS OR RESTRICTIONS WITH REGARD TO THE SAFE AND EFFECTIVE USE OF THE MEDICINAL PRODUCT
 
-##  Risk management plan (RMP)
+## · Risk management plan (RMP)
 
 The marketing authorisation holder (MAH) shall perform the required pharmacovigilance activities and interventions detailed in the agreed RMP presented in Module 1.8.2 of the marketing authorisation and any agreed subsequent updates of the RMP.
 
 An updated RMP should be submitted:
 
-<div style=\"page-break-after: always\"></div>
-
--  At the request of the European Medicines Agency;
--  Whenever the risk management system is modified, especially as the result of new information being received that may lead to a significant change to the benefit/risk profile or as the result of an important (pharmacovigilance or risk minimisation) milestone being reached.
+- At the request of the European Medicines Agency;
+- Whenever the risk management system is modified, especially as the result of new information being received that may lead to a significant change to the benefit/risk profile or as the result of an important (pharmacovigilance or risk minimisation) milestone being reached.
 
 <div style=\"page-break-after: always\"></div>
 
@@ -1830,7 +1828,7 @@ EU/1/04/300/001
 
 Lot
 
-## 14. GENERAL CLASSIFICATION FOR SUPPLY
+14. GENERAL CLASSIFICATION FOR SUPPLY
 
 15. INSTRUCTIONS ON USE
 
@@ -1850,17 +1848,17 @@ NN
 
 <div style=\"page-break-after: always\"></div>
 
-| MINIMUM PARTICULARS TO APPEARONSMALL IMMEDIATE PACKAGING UNITS   |
-|------------------------------------------------------------------|
-| VIAL                                                             |
+| MINIMUM PARTICULARS TO APPEAR ON SMALL IMMEDIATE PACKAGING UNITS   |
+|--------------------------------------------------------------------|
+| VIAL                                                               |
 
-| 1.   | NAMEOFTHEMEDICINALPRODUCTANDROUTE(S) OF ADMINISTRATION   |
-|------|----------------------------------------------------------|
+| 1.   | NAME OF THE MEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION   |
+|------|----------------------------------------------------------------|
 
 Avastin 25 mg/ml concentrate for solution for infusion bevacizumab IV
 
-| 2.   | METHODOFADMINISTRATION   |
-|------|--------------------------|
+| 2.   | METHOD OF ADMINISTRATION   |
+|------|----------------------------|
 
 For intravenous use after dilution
 
@@ -1869,20 +1867,20 @@ For intravenous use after dilution
 
 EXP
 
-| 4.   | BATCHNUMBER   |
-|------|---------------|
+| 4.   | BATCH NUMBER   |
+|------|----------------|
 
 Lot
 
-| 5.   | CONTENTS BY WEIGHT, BYVOLUMEORBYUNIT   |
-|------|----------------------------------------|
+| 5.   | CONTENTS BY WEIGHT, BY VOLUME OR BY UNIT   |
+|------|--------------------------------------------|
 
 100 mg/4 ml
 
 | 6.   | OTHER   |
 |------|---------|
 
-59
+58
 
 <div style=\"page-break-after: always\"></div>
 
@@ -1940,8 +1938,7 @@ Do not freeze.
 
 Keep the vial in the outer carton in order to protect from light
 
-| 10.   | SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS ORWASTEMATERIALS DERIVED FROMSUCHMEDICINAL PRODUCTS, IF APPROPRIATE   |
-|-------|-------------------------------------------------------------------------------------------------------------------------------------|
+## 10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
@@ -1955,11 +1952,11 @@ EU/1/04/300/002
 
 Lot
 
-## 14. GENERAL CLASSIFICATION FOR SUPPLY
+14. GENERAL CLASSIFICATION FOR SUPPLY
 
 15. INSTRUCTIONS ON USE
 
-## 16. INFORMATION IN BRAILLE
+16. INFORMATION IN BRAILLE
 
 Justification for not including Braille accepted
 
@@ -1975,17 +1972,17 @@ NN
 
 <div style=\"page-break-after: always\"></div>
 
-| MINIMUM PARTICULARS TO APPEARONSMALL IMMEDIATE PACKAGING UNITS   |
-|------------------------------------------------------------------|
-| VIAL                                                             |
+| MINIMUM PARTICULARS TO APPEAR ON SMALL IMMEDIATE PACKAGING UNITS   |
+|--------------------------------------------------------------------|
+| VIAL                                                               |
 
-| 1.   | NAMEOFTHEMEDICINALPRODUCTANDROUTE(S) OF ADMINISTRATION   |
-|------|----------------------------------------------------------|
+| 1.   | NAME OF THE MEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION   |
+|------|----------------------------------------------------------------|
 
 Avastin 25 mg/ml concentrate for solution for infusion bevacizumab IV
 
-| 2.   | METHODOFADMINISTRATION   |
-|------|--------------------------|
+| 2.   | METHOD OF ADMINISTRATION   |
+|------|----------------------------|
 
 For intravenous use after dilution
 
@@ -1994,20 +1991,18 @@ For intravenous use after dilution
 
 EXP
 
-| 4.   | BATCHNUMBER   |
-|------|---------------|
+| 4.   | BATCH NUMBER   |
+|------|----------------|
 
 Lot
 
-| 5.   | CONTENTS BY WEIGHT, BYVOLUMEORBYUNIT   |
-|------|----------------------------------------|
+| 5.   | CONTENTS BY WEIGHT, BY VOLUME OR BY UNIT   |
+|------|--------------------------------------------|
 
 400 mg/16 ml
 
 | 6.   | OTHER   |
 |------|---------|
-
-62
 
 <div style=\"page-break-after: always\"></div>
 
@@ -2085,7 +2080,7 @@ Talk to your doctor, pharmacist or nurse before using Avastin
 
 <div style=\"page-break-after: always\"></div>
 
--  Avastin can also increase the risk of developing blood clots in your veins (a type of blood vessel).
+- Avastin can also increase the risk of developing blood clots in your veins (a type of blood vessel).
 - This medicine may cause bleeding, especially tumour-related bleeding. Please consult your doctor if you or your family tend to suffer from bleeding problems or you are taking medicines to thin the blood for any reason.
 - It is possible that Avastin may cause bleeding in and around your brain. Please discuss this with your doctor if you have metastatic cancer affecting your brain.
 - It is possible that Avastin can increase the risk of bleeding in your lungs, including coughing or spitting blood. Please discuss with your doctor if you noticed this previously.
@@ -2322,11 +2317,7 @@ Keep this medicine out of the sight and reach of children.
 
 Do not use this medicine after the expiry date which is stated on the outer carton and on the vial label after the abbreviation EXP. The expiry date refers to the last day of that month.
 
-Store in a refrigerator (2 °C-8 °C).
-
-## Do not freeze.
-
-Keep the vial in the outer carton in order to protect from light.
+Store in a refrigerator (2 °C-8 °C). Do not freeze. Keep the vial in the outer carton in order to protect from light.
 
 Infusion solutions should be used immediately after dilution. If not used immediately, in-use storage times and conditions are the responsibility of the user and would normally not be longer than 24 hours at 2 °C to 8 °C, unless the infusion solutions have been prepared in a sterile environment. When dilution has taken place in a sterile environment, Avastin is stable for 30 days at 2 °C to 8 °C plus an additional 48 hours at 2 °C to 30 °C.
 
@@ -2373,7 +2364,7 @@ N.V. Roche S.A. België/Belgique/Belgien Tél/Tel: +32 (0) 2 525 82 11
 
 .: +359 2 474 5444
 
-## Č eská republika
+## Česká republika
 
 Roche s. r. o.
 
@@ -2401,9 +2392,7 @@ Tel: + 372 - 6 177 380
 
 Roche (Hellas) A.E. Ελλάδα
 
-Τηλ
-
-: +30 210 61 66 100
+Τηλ: +30 210 61 66 100
 
 ## España
 
@@ -2431,7 +2420,9 @@ Tel.: +36 1 279 4500
 
 ## Nederland
 
-Roche Nederland B.V. Tel: +31 (0) 348 438050
+Roche Nederland B.V.
+
+Tel: +31 (0) 348 438000
 
 ## Norge
 
@@ -2495,7 +2486,11 @@ Tel: +421 - 2 52638201
 
 ## Ísland
 
-Roche Pharmaceuticals A/S c/o Icepharma hf Sími:+354 540 8000
+Roche Pharmaceuticals A/S
+
+c/o Icepharma hf
+
+Sími:+354 540 8000
 
 ## Suomi/Finland
 
@@ -2522,25 +2517,3 @@ Tel: +46 (0) 8 726 1200
 ## Other sources of information
 
 Detailed information on this medicine is available on the European Medicines Agency web site: https://www.ema.europa.eu.
-
-<div style=\"page-break-after: always\"></div>
-
-## ANNEX IV
-
-## SCIENTIFIC CONCLUSIONS AND GROUNDS FOR THE VARIATION TO THE TERMS OF THE MARKETING AUTHORISATION (S)
-
-<div style=\"page-break-after: always\"></div>
-
-## Scientific conclusions
-
-Taking into account the PRAC Assessment Report on the PSUR(s) for bevacizumab, the scientific conclusions of PRAC are as follows:
-
-In view of available data on hyaline occlusive glomerular microangiopathy reported in the literature, including in some cases a positive de-challenge and in view of a plausible mechanism of action, the PRAC considers a causal relationship between bevacizumab and hyaline occlusive glomerular microangiopathy is at least a reasonable possibility. The PRAC concluded that the product information of products containing bevacizumab should be amended accordingly.
-
-Having reviewed the PRAC recommendation, the CHMP agrees with the PRAC overall conclusions and grounds for recommendation.
-
-## Grounds for the variation to the terms of the marketing authorisation(s)
-
-On the basis of the scientific conclusions for bevacizumab the CHMP is of the opinion that the benefit-risk balance of the medicinal product(s) containing bevacizumab is unchanged subject to the proposed changes to the product information.
-
-The CHMP recommends that the terms of the marketing authorisation(s) should be varied.

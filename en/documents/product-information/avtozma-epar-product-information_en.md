@@ -1,18 +1,18 @@
 ---
-document_datetime: 2025-09-24 11:04:15
+document_datetime: 2026-01-26 17:20:00
 document_pages: 175
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/avtozma-epar-product-information_en.pdf
 document_name: avtozma-epar-product-information_en.pdf
 version: success
-processing_time: 52.6743192
-conversion_datetime: 2025-12-28 15:07:12.249038
+processing_time: 57.1721514
+conversion_datetime: 2026-01-29 12:34:48.012876
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.66.0
-  docling-core: 2.57.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.11.0
+  docling-jobkit: 1.9.0
+  docling: 2.70.0
+  docling-core: 2.61.0
+  docling-ibm-models: 3.11.0
+  docling-parse: 4.7.3
   python: cpython-313 (3.13.11)
   plaform: macOS-26.2-arm64-arm-64bit-Mach-O
 ---
@@ -21,8 +21,6 @@ docling_version:
 ## SUMMARY OF PRODUCT CHARACTERISTICS
 
 <div style=\"page-break-after: always\"></div>
-
-<!-- image -->
 
 This medicinal product is subject to additional monitoring. This will allow quick identification of new safety information. Healthcare professionals are asked to report any suspected adverse reactions. See section 4.8 for how to report adverse reactions.
 
@@ -95,9 +93,7 @@ For infusion bags made of polyvinyl chloride (PVC), infusion bags that are di(2e
 
 All patients treated with Avtozma should be given the Patient Alert Card.
 
-## Posology
-
-## RA Patients
+## Posology RA Patients
 
 The recommended posology is 8 mg/kg body weight, given once every four weeks.
 
@@ -105,19 +101,17 @@ For individuals whose body weight is more than 100 kg, doses exceeding 800 mg pe
 
 Doses above 1.2 g have not been evaluated in clinical studies (see section 5.1).
 
-Dose adjustments due to laboratory abnormalities  (see section 4.4).
+## Dose adjustments due to laboratory abnormalities (see section 4.4).
 
 ## · Liver enzyme abnormalities
 
-| Laboratory Value                       | Action                                                                                                                                                                                                                                                                                                  |
-|----------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| > 1 to 3 x Upper Limit of Normal (ULN) | Modify the dose of the concomitantMTX if appropriate. For persistent increases in this range, reduce Avtozma dose to 4 mg/kg or interrupt Avtozma until alanine aminotransferase (ALT) or aspartate aminotransferase (AST) have normalized. Restart with 4 mg/kg or 8 mg/kg, as clinically appropriate. |
+| Laboratory Value                                               | Action                                                                                                                                                                                                                                                                                                  |
+|----------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| > 1 to 3 x Upper Limit of Normal (ULN)                         | Modify the dose of the concomitantMTX if appropriate. For persistent increases in this range, reduce Avtozma dose to 4 mg/kg or interrupt Avtozma until alanine aminotransferase (ALT) or aspartate aminotransferase (AST) have normalized. Restart with 4 mg/kg or 8 mg/kg, as clinically appropriate. |
+| > 3 to 5 x ULN (confirmed by repeat testing, see section 4.4). | Interrupt Avtozma dosing until < 3 x ULN and follow recommendations above for > 1 to 3 x ULN. For persistent increases > 3 x ULN, discontinue Avtozma.                                                                                                                                                  |
+| > 5 x ULN                                                      | Discontinue Avtozma.                                                                                                                                                                                                                                                                                    |
 
 <div style=\"page-break-after: always\"></div>
-
-| > 3 to 5 x ULN (confirmed by repeat testing, see section 4.4).   | Interrupt Avtozma dosing until < 3 x ULN and follow recommendations above for > 1 to 3 x ULN. For persistent increases > 3 x ULN, discontinue Avtozma.   |
-|------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------|
-| > 5 x ULN                                                        | Discontinue Avtozma.                                                                                                                                     |
 
 ## · Low absolute neutrophil count (ANC)
 
@@ -133,7 +127,7 @@ In patients not previously treated with tocilizumab, initiation is not recommend
 
 | Laboratory Value (cells x 10 3 / μL)   | Action                                                                                                                                    |
 |----------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------|
-| 50 to 100                              | Interrupt Avtozma dosing. Whenplatelet count> 100 x 10 3 /μ Lresume Avtozma at 4 mg/kg and increase to 8 mg/kg as clinically appropriate. |
+| 50 to 100                              | Interrupt Avtozma dosing. Whenplatelet count > 100 x 10 3 /μ Lresume Avtozma at 4 mg/kgand increase to 8 mg/kg as clinically appropriate. |
 | < 50                                   | Discontinue Avtozma.                                                                                                                      |
 
 ## COVID-19 Patients
@@ -147,16 +141,16 @@ Administration of Avtozma is not recommended in patients with COVID-19 who have 
 | Laboratory test type      | Laboratory value   | Action                                       |
 |---------------------------|--------------------|----------------------------------------------|
 | Liver enzyme              | >10x ULN           | Administration of Avtozma is not recommended |
-| Absolute neutrophil count | < 1 x 10 9 /L      |                                              |
-| Platelet count            | < 50 x 10 3 /μL    |                                              |
-
-<div style=\"page-break-after: always\"></div>
+| Absolute neutrophil count | < 1 x 10 9 /L      | Administration of Avtozma is not recommended |
+| Platelet count            | < 50 x 10 3 /μL    | Administration of Avtozma is not recommended |
 
 ## Cytokine Release Syndrome (CRS) (adults and paediatrics)
 
 The recommended posology for treatment of CRS given as a 60-minute intravenous infusion is 8 mg/kg in patients weighing greater than or equal to 30 kg or 12 mg/kg in patients weighing less than  30 kg. Avtozma can be given alone or in combination with corticosteroids.
 
 If no clinical improvement in the signs and symptoms of CRS occurs after the first dose, up to 3 additional doses of Avtozma may be administered. The interval between consecutive doses should be at least 8 hours. Doses exceeding 800 mg per infusion are not recommended in CRS patients.
+
+<div style=\"page-break-after: always\"></div>
 
 Patients with severe or life-threatening CRS frequently have cytopenias or elevated ALT or AST due to the underlying malignancy, preceding lymphodepleting chemotherapy or the CRS.
 
@@ -168,7 +162,7 @@ The recommended posology in patients above 2 years of age is 8 mg/kg once every 
 
 The safety and efficacy of intravenous Avtozma in children below 2 years of age has not been established.
 
-Dose interruptions of tocilizumab for the following laboratory abnormalities are recommended in sJIA  patients in the tables below. If appropriate, the dose of concomitant MTX and/or other medications  should be modified or dosing stopped and tocilizumab dosing interrupted until the clinical situation  has been evaluated. As there are many co-morbid conditions that may affect laboratory values in sJIA,  the decision to discontinue tocilizumab for a laboratory abnormality should be based upon the medical  assessment of the individual patient.
+Dose interruptions of tocilizumab for the following laboratory abnormalities are recommended in sJIA patients in the tables below. If appropriate, the dose of concomitant MTX and/or other medications should be modified or dosing stopped and tocilizumab dosing interrupted until the clinical situation has been evaluated. As there are many co-morbid conditions that may affect laboratory values in sJIA, the decision to discontinue tocilizumab for a laboratory abnormality should be based upon the medical assessment of the individual patient.
 
 ## · Liver enzyme abnormalities
 
@@ -178,15 +172,15 @@ Dose interruptions of tocilizumab for the following laboratory abnormalities are
 | > 3 x ULN to 5x ULN | Modify the dose of the concomitantMTX if appropriate. Interrupt Avtozma dosing until < 3x ULN and follow recommendations above for >1 to 3x ULN.                   |
 | > 5x ULN            | Discontinue Avtozma. The decision to discontinue Avtozma in sJIA for a laboratory abnormality should be based on the medical assessment of the individual patient. |
 
-- Low absolute neutrophil count (ANC)
-
-<div style=\"page-break-after: always\"></div>
+## · Low absolute neutrophil count (ANC)
 
 | Laboratory Value (cells x 10 9 /L)   | Action                                                                                                                                                             |
 |--------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | ANC > 1                              | Maintain dose.                                                                                                                                                     |
-| ANC 0.5 to 1                         | Interrupt Avtozma dosing. When ANC increases to > 1 x 10 9 /L resume Avtozma.                                                                                      |
+| ANC 0.5 to 1                         | Interrupt Avtozma dosing. When ANCincreases to > 1 x 10 9 /L resume Avtozma.                                                                                       |
 | ANC < 0.5                            | Discontinue Avtozma. The decision to discontinue Avtozma in sJIA for a laboratory abnormality should be based on the medical assessment of the individual patient. |
+
+<div style=\"page-break-after: always\"></div>
 
 ## · Low platelet count
 
@@ -207,9 +201,7 @@ The safety and efficacy of intravenous Avtozma in children below 2 years of age 
 
 Dose interruptions of tocilizumab for the following laboratory abnormalities are recommended in pJIA patients in the tables below. If appropriate, the dose of concomitant MTX and/or other medications should be modified or dosing stopped and tocilizumab dosing interrupted until the clinical situation has  been evaluated. As there are many co-morbid conditions that may affect laboratory values in pJIA,  the decision to discontinue tocilizumab for a laboratory abnormality should be based upon the medical  assessment of the individual patient.
 
-- Liver enzyme abnormalities
-
-<div style=\"page-break-after: always\"></div>
+## · Liver enzyme abnormalities
 
 | Laboratory Value    | Action                                                                                                                                                             |
 |---------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -217,12 +209,14 @@ Dose interruptions of tocilizumab for the following laboratory abnormalities are
 | > 3 x ULN to 5x ULN | Modify the dose of the concomitantMTX if appropriate. Interrupt Avtozma dosing until < 3x ULN and follow recommendations above for >1 to 3x ULN.                   |
 | > 5x ULN            | Discontinue Avtozma. The decision to discontinue Avtozma in pJIA for a laboratory abnormality should be based on the medical assessment of the individual patient. |
 
+<div style=\"page-break-after: always\"></div>
+
 ## · Low absolute neutrophil count (ANC)
 
 | Laboratory Value (cells x 10 9 /L)   | Action                                                                                                                                                             |
 |--------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | ANC > 1                              | Maintain dose.                                                                                                                                                     |
-| ANC 0.5 to 1                         | Interrupt Avtozma dosing. When ANC increases to > 1 x 10 9 /L resume Avtozma.                                                                                      |
+| ANC 0.5 to 1                         | Interrupt Avtozma dosing. When ANCincreases to > 1 x 10 9 /L resume Avtozma.                                                                                       |
 | ANC < 0.5                            | Discontinue Avtozma. The decision to discontinue Avtozma in pJIA for a laboratory abnormality should be based on the medical assessment of the individual patient. |
 
 ## · Low platelet count
@@ -236,7 +230,7 @@ Reduction of tocilizumab dose due to laboratory abnormalities has not been studi
 
 Available data suggest that clinical improvement is observed within 12 weeks of initiation of treatment with tocilizumab. Continued therapy should be carefully reconsidered in a patient exhibiting no improvement within this timeframe.
 
-<div style=\"page-break-after: always\"></div>
+## Elderly
 
 No dose adjustment is required in elderly patients &gt;65 years of age.
 
@@ -252,9 +246,11 @@ Avtozma has not been studied in patients with hepatic impairment. Therefore, no 
 
 After dilution, Avtozma for RA, sJIA, pJIA, CRS, and COVID-19 patients should be administered  as an intravenous infusion over 1 hour.
 
-## RA, sJIA, pJIA, CRS and COVID-19 Patients ≥ 30 kg
+## RA, sJIA, pJIA, CRS and COVID-19 Patients ≥ 30 kg Avtozma should be diluted to a final volume of 100 mL with sterile, non-pyrogenic sodium chloride  9
 
-Avtozma should be diluted to a final volume of 100 mL with sterile, non-pyrogenic sodium chloride  9 mg/mL (0.9%) or 4.5 mg/mL (0.45%) solution for injection using aseptic technique.
+<div style=\"page-break-after: always\"></div>
+
+mg/mL (0.9%) or 4.5 mg/mL (0.45%) solution for injection using aseptic technique.
 
 For instructions on dilution of the medicinal product before administration, see section 6.6.
 
@@ -268,9 +264,7 @@ If signs and symptoms of an infusion related reaction occur, slow or stop the in
 
 ## 4.3 Contraindications
 
-Hypersensitivity to the active substance or to any of the excipients listed in section 6.1.
-
-Active, severe infections with the exception of COVID-19 (see section 4.4).
+Hypersensitivity to the active substance or to any of the excipients listed in section 6.1. Active, severe infections with the exception of COVID-19 (see section 4.4).
 
 ## 4.4 Special warnings and precautions for use
 
@@ -284,11 +278,7 @@ In order to improve the traceability of biological medicinal products, the name 
 
 Serious and sometimes fatal infections have been reported in patients receiving immunosuppressive agents including tocilizumab (see section 4.8, undesirable effects). Avtozma treatment must not be initiated in patients with active infections (see section 4.3). Administration of tocilizumab should be interrupted if a patient develops a serious infection until the infection is controlled (see section 4.8). Healthcare professionals should exercise caution when considering the use of Avtozma in patients with a history of recurring or chronic infections or with underlying conditions (e.g. diverticulitis, diabetes and interstitial lung disease) which may predispose patients to infections.
 
-Vigilance for the timely detection of serious infection is recommended for patients receiving biological treatments as signs and symptoms of acute inflammation may be lessened, associated with suppression of the acute phase reaction. The effects of tocilizumab on C-reactive protein (CRP), neutrophils and signs and symptoms of infection should be considered when evaluating a patient for a
-
-<div style=\"page-break-after: always\"></div>
-
-potential infection. Patients (which includes younger children with sJIA or pJIA who may be less able to communicate their symptoms) and parents/guardians of sJIA or pJIA patients should be instructed to contact their healthcare professional immediately when any symptoms suggesting infection appear, in order to assure rapid evaluation and appropriate treatment.
+Vigilance for the timely detection of serious infection is recommended for patients receiving biological treatments as signs and symptoms of acute inflammation may be lessened, associated with suppression of the acute phase reaction. The effects of tocilizumab on C-reactive protein (CRP), neutrophils and signs and symptoms of infection should be considered when evaluating a patient for a potential infection. Patients (which includes younger children with sJIA or pJIA who may be less able to communicate their symptoms) and parents/guardians of sJIA or pJIA patients should be instructed to contact their healthcare professional immediately when any symptoms suggesting infection appear, in order to assure rapid evaluation and appropriate treatment.
 
 ## Tuberculosis
 
@@ -299,6 +289,8 @@ Patients should be instructed to seek medical advice if signs/symptoms (e.g., pe
 ## Viral reactivation
 
 Viral reactivation (e.g. hepatitis B virus) has been reported with biologic therapies for RA. In clinical studies with tocilizumab, patients who screened positive for hepatitis were excluded.
+
+<div style=\"page-break-after: always\"></div>
 
 ## Complications of diverticulitis
 
@@ -318,11 +310,7 @@ Transient or intermittent mild and moderate elevations of hepatic transaminases 
 
 Serious drug-induced liver injury, including acute liver failure, hepatitis and jaundice, have been observed with tocilizumab (see section 4.8). Serious hepatic injury occurred between 2 weeks to more than 5 years after initiation of tocilizumab. Cases of liver failure resulting in liver transplantation have been reported. Patients should be advised to immediately seek medical help if they experience signs and symptoms of hepatic injury.
 
-Caution should be exercised when considering initiation of Avtozma treatment in patients with
-
-<div style=\"page-break-after: always\"></div>
-
-elevated ALT or AST &gt; 1.5 x ULN. In RA, pJIA and sJIA patients with baseline ALT or AST &gt; 5 x ULN, treatment is not recommended.
+Caution should be exercised when considering initiation of Avtozma treatment in patients with elevated ALT or AST &gt; 1.5 x ULN. In RA, pJIA and sJIA patients with baseline ALT or AST &gt; 5 x ULN, treatment is not recommended.
 
 In RA, pJIA and sJIA patients, ALT/AST should be monitored every 4 to 8 weeks for the first 6 months of treatment followed by every 12 weeks thereafter. For recommended modifications, including Avtozma discontinuation, based on transaminases levels see section 4.2. For ALT or AST elevations &gt; 3-5 x ULN, confirmed by repeat testing, Avtozma treatment should be interrupted.
 
@@ -331,6 +319,8 @@ In RA, pJIA and sJIA patients, ALT/AST should be monitored every 4 to 8 weeks fo
 Decreases in neutrophil and platelet counts have occurred following treatment with tocilizumab 8 mg/kg in combination with MTX (see section 4.8). There may be an increased risk of neutropenia in  patients who have previously been treated with a TNF antagonist.
 
 In patients not previously treated with tocilizumab, initiation is not recommended in patients with an absolute neutrophil count (ANC) below 2 x 10 9 /L. Caution should be exercised when considering initiation of tocilizumab treatment in patients with a low platelet count (i.e. platelet count below 100 x 10 3 /μL). In RA, sJIA and pJIA patients who develop an ANC &lt; 0.5 x 10 9 /L or a platelet count &lt; 50 x 10 3 /μL, continued treatment is not recommended.
+
+<div style=\"page-break-after: always\"></div>
 
 Severe neutropenia may be associated with an increased risk of serious infections, although there has been no clear association between decreases in neutrophils and the occurrence of serious infections in clinical trials with tocilizumab to date.
 
@@ -354,9 +344,7 @@ The risk of malignancy is increased in patients with RA. Immunomodulatory medici
 
 ## Vaccinations
 
-Live and live attenuated vaccines should not be given concurrently with tocilizumab as clinical safety has not been established. In a randomised open-label study, adult RA patients treated with tocilizumab and MTX were able to mount an effective response to both the 23-valent pneumococcal polysaccharide and tetanus toxoid vaccines which was comparable to the response seen in patients on MTX only. It is recommended that all patients, particularly sJIA and pJIA patients, be brought up to date with all immunisations in agreement with current immunisation guidelines prior to initiating Avtozma therapy. The interval between live vaccinations and initiation of Avtozma therapy  should be in accordance with current vaccination guidelines regarding immunosuppressive agents.
-
-<div style=\"page-break-after: always\"></div>
+Live and live attenuated vaccines should not be given concurrently with tocilizumab as clinical safety has not been established. In a randomised open-label study, adult RA patients treated with tocilizumab and MTX were able to mount an effective response to both the 23-valent pneumococcal polysaccharide and tetanus toxoid vaccines which was comparable to the response seen in patients on MTX only. It is recommended that all patients, particularly sJIA and pJIA patients, be brought up to date with all immunisations in agreement with current immunisation guidelines prior to initiating Avtozma therapy. The interval between live vaccinations and initiation of Avtozma therapy should be in accordance with current vaccination guidelines regarding immunosuppressive agents.
 
 ## Cardiovascular risk
 
@@ -373,7 +361,11 @@ There is no experience with the use of Avtozma with TNF antagonists or other bio
 
 ## Infections
 
-In COVID-19 patients, Avtozma should not be administered if they have any other concurrent  severe active infection. Healthcare professionals should exercise caution when considering the use of Avtozma in patients with a history of recurring or chronic infections or with underlying conditions (e.g. diverticulitis, diabetes, and interstitial lung disease) which may predispose patients to infections.
+In COVID-19 patients, Avtozma should not be administered if they have any other concurrent  severe active infection. Healthcare professionals should exercise caution when considering the use of
+
+<div style=\"page-break-after: always\"></div>
+
+Avtozma in patients with a history of recurring or chronic infections or with underlying conditions (e.g. diverticulitis, diabetes, and interstitial lung disease) which may predispose patients to infections.
 
 ## Hepatotoxicity
 
@@ -393,17 +385,13 @@ Macrophage activation syndrome (MAS) is a serious life-threatening disorder that
 
 ## Polysorbate
 
-Each 80 mg vial contains 2.0 mg of polysorbate 80. Each 200 mg vial contains 5.0 mg of polysorbate 80. Each 400 mg vial contains 10.0 mg of polysorbate 80.
-
-Polysorbates may cause allergic reactions. Patients with polysorbate allergy should not take this medicine.
+Each 80 mg vial contains 2.0 mg of polysorbate 80. Each 200 mg vial contains 5.0 mg of polysorbate 80. Each 400 mg vial contains 10.0 mg of polysorbate 80. Polysorbates may cause allergic reactions. Patients with polysorbate allergy should not take this medicine.
 
 ## 4.5 Interaction with other medicinal products and other forms of interaction
 
 Interaction studies have only been performed in adults.
 
 Concomitant administration of a single dose of 10 mg/kg tocilizumab with 10-25 mg MTX once weekly had no clinically significant effect on MTX exposure.
-
-<div style=\"page-break-after: always\"></div>
 
 Population pharmacokinetic analyses did not detect any effect of MTX, non-steroidal antiinflammatory drugs (NSAIDs) or corticosteroids on tocilizumab clearance.
 
@@ -413,7 +401,11 @@ In vitro studies with cultured human hepatocytes demonstrated that IL-6 caused a
 
 In a study in RA patients, levels of simvastatin (CYP3A4) were decreased by 57% one week following a single dose of tocilizumab, to the level similar to, or slightly higher than, those observed in healthy subjects.
 
-When starting or stopping therapy with tocilizumab, patients taking medicinal products which are individually adjusted and are metabolised via CYP450 3A4, 1A2 or 2C9 (e.g. methylprednisolone, dexamethasone, (with the possibility for oral glucocorticoid withdrawal syndrome), atorvastatin, calcium channel blockers, theophylline, warfarin, phenprocoumon, phenytoin, ciclosporin, or benzodiazepines) should be monitored as doses may need to be increased to maintain therapeutic effect. Given its long elimination half-life (t1/2), the effect of tocilizumab on CYP450 enzyme activity may persist for several weeks after stopping therapy.
+When starting or stopping therapy with tocilizumab, patients taking medicinal products which are individually adjusted and are metabolised via CYP450 3A4, 1A2 or 2C9 (e.g. methylprednisolone, dexamethasone, (with the possibility for oral glucocorticoid withdrawal syndrome), atorvastatin, calcium channel blockers, theophylline, warfarin, phenprocoumon, phenytoin, ciclosporin, or benzodiazepines) should be monitored as doses may need to be increased to maintain therapeutic
+
+<div style=\"page-break-after: always\"></div>
+
+effect. Given its long elimination half-life (t1/2), the effect of tocilizumab on CYP450 enzyme activity may persist for several weeks after stopping therapy.
 
 ## 4.6 Fertility, pregnancy and lactation
 
@@ -443,11 +435,9 @@ Tocilizumab has minor influence on the ability to drive and use machines (see se
 
 ## Summary of the safety profile
 
-The most commonly reported ADRs (occurring in ≥ 5% of patients treated with tocilizumab monotherapy or in combination with DMARDs for RA, sJIA, pJIA and CRS) were upper respiratory  tract infections, nasopharyngitis, headache, hypertension and increased ALT.
+The most commonly reported ADRs (occurring in ≥ 5% of patients treated with tocilizumab monotherapy or in combination with DMARDs for RA, sJIA, pJIA and CRS) were upper respiratory tract infections, nasopharyngitis, headache, hypertension and increased ALT.
 
 The most serious ADRs were serious infections, complications of diverticulitis, and hypersensitivity reactions.
-
-<div style=\"page-break-after: always\"></div>
 
 The most commonly reported ADRs (occurring in ≥ 5% of patients treated with tocilizumab for  COVID-19) were hepatic transaminases increased, constipation, and urinary tract infection.
 
@@ -457,36 +447,42 @@ ADRs from clinical trials and/or post marketing experience with tocilizumab base
 
 The safety profile of tocilizumab has been studied in 4 placebo-controlled studies (studies II, III, IV and V), 1 MTX-controlled study (study I) and their extension periods (see section 5.1).
 
-The double-blind controlled period was 6 months in four studies (studies I, III, IV and V) and was up  to 2 years in one study (study II). In the double-blind controlled studies, 774 patients received tocilizumab 4 mg/kg in combination with MTX, 1 870 patients received tocilizumab 8 mg/kg in combination with MTX or other DMARDs and 288 patients received tocilizumab 8 mg/kg monotherapy.
+The double-blind controlled period was 6 months in four studies (studies I, III, IV and V) and was up  to 2 years in one study (study II). In the double-blind controlled studies, 774 patients received tocilizumab 4 mg/kg in combination with MTX, 1 870 patients received tocilizumab 8 mg/kg in combination with MTX or other DMARDs and 288 patients received tocilizumab 8 mg/kg
+
+<div style=\"page-break-after: always\"></div>
+
+monotherapy.
 
 The long-term exposure population includes all patients who received at least one dose of tocilizumab  either in the double-blind control period or open label extension phase in the studies. Of the 4 009  patients in this population, 3 577 received treatment for at least 6 months, 3 296 for at least one year,  2 806 received treatment for at least 2 years and 1 222 for 3 years.
 
 Table 1. List of ADRs occurring in patients with RA receiving tocilizumab as monotherapy or in combination with MTX or other DMARDs in the double-blind controlled period or during postmarketing experience
 
-| MedDRA System Organ                             | Frequency categories with preferred terms   | Frequency categories with preferred terms                 | Frequency categories with preferred terms   | Frequency categories with preferred terms   |
-|-------------------------------------------------|---------------------------------------------|-----------------------------------------------------------|---------------------------------------------|---------------------------------------------|
-| Class                                           | Very common                                 | Common                                                    | Uncommon                                    | Rare                                        |
-| Infections and infestations                     | Upper respiratory tract infections          | Cellulitis, Pneumonia, Oral herpes simplex, Herpes zoster | Diverticulitis                              |                                             |
-| Blood and lymphatic system disorders            |                                             | Leukopenia, Neutropenia, Hypofibrinogenae mia             |                                             |                                             |
-| Immune system disorders                         |                                             |                                                           |                                             | Anaphylaxis (fatal) 1, 2 ,3                 |
-| Endocrine disorders                             |                                             |                                                           | Hypothyroidism                              |                                             |
-| Metabolism and nutrition disorders              | Hypercholesterola emia*                     |                                                           | Hypertriglyceridae mia                      |                                             |
-| Nervous system disorders                        |                                             | Headache, Dizziness                                       |                                             |                                             |
-| Eye disorders                                   |                                             | Conjunctivitis                                            |                                             |                                             |
-| Vascular disorders                              |                                             | Hypertension                                              |                                             |                                             |
-| Respiratory, thoracic and mediastinal disorders |                                             | Cough, Dyspnoea                                           |                                             |                                             |
+| MedDRA                                               | Frequency categories with preferred terms   | Frequency categories with preferred terms      | Frequency categories with preferred terms   | Frequency categories with preferred terms                  |
+|------------------------------------------------------|---------------------------------------------|------------------------------------------------|---------------------------------------------|------------------------------------------------------------|
+| System Organ Class                                   | Very common                                 | Common                                         | Uncommon                                    | Rare                                                       |
+| Infections and infestations                          | Upper respiratory tract infections          | Cellulitis, Pneumonia, Oral herpes simplex,    | Diverticulitis                              |                                                            |
+| Blood and lymphatic system disorders                 |                                             | Leukopenia, Neutropenia, Hypofibrinogena emia  |                                             |                                                            |
+| Immune system disorders                              |                                             |                                                |                                             | Anaphylaxi s (fatal) 1, 2 ,3                               |
+| Endocrine disorders                                  |                                             |                                                | Hypothyroidism                              |                                                            |
+| Metabolism and nutrition disorders                   | Hypercholesterol aemia*                     |                                                | Hypertriglycerida emia                      |                                                            |
+| Nervous system disorders                             |                                             | Headache                                       |                                             |                                                            |
+| Eye disorders                                        |                                             | , Conjunctivitis                               |                                             |                                                            |
+| Vascular disorders                                   |                                             | Hypertension                                   |                                             |                                                            |
+| Respiratory, thoracic and mediastinal disorders      |                                             | Cough, Dyspnoea                                |                                             |                                                            |
+| Gastrointestinal disorders                           |                                             | Abdominal pain, Mouth ulceration,              | Stomatitis, Gastric ulcer                   |                                                            |
+| Hepatobiliary disorders                              |                                             |                                                |                                             | Drug-induced liver injury, Hepatitis, Jaundice, Very rare: |
+| Skin and subcutaneous tissue disorders               |                                             | Rash, Pruritus, Urticaria                      |                                             | Stevens- Johnson- Syndrome 3                               |
+| Renal and urinary disorders                          |                                             |                                                | Nephrolithiasis                             |                                                            |
+| General disorders and administration site conditions |                                             | Peripheral oedema, Hypersensitivit y reactions |                                             |                                                            |
 
 <div style=\"page-break-after: always\"></div>
 
-| MedDRA                                               | Frequency categories with preferred terms   | Frequency categories with preferred terms                                     | Frequency categories with preferred terms   | Frequency categories with preferred terms                                  |
-|------------------------------------------------------|---------------------------------------------|-------------------------------------------------------------------------------|---------------------------------------------|----------------------------------------------------------------------------|
-| System Organ Class                                   | Very common                                 | Common                                                                        | Uncommon                                    | Rare                                                                       |
-| Gastrointestinal disorders                           |                                             | Abdominal pain, Mouth ulceration, Gastritis                                   | Stomatitis, Gastric ulcer                   |                                                                            |
-| Hepatobiliary disorders                              |                                             |                                                                               |                                             | Drug-induced liver injury, Hepatitis, Jaundice, Very rare: Hepatic failure |
-| Skin and subcutaneous tissue disorders               |                                             | Rash, Pruritus, Urticaria                                                     |                                             | Stevens-Johnson- Syndrome 3                                                |
-| Renal and urinary disorders                          |                                             |                                                                               | Nephrolithiasis                             |                                                                            |
-| General disorders and administration site conditions |                                             | Peripheral oedema, Hypersensitivity reactions                                 |                                             |                                                                            |
-| Investigations                                       |                                             | Hepatic transaminases increased, Weight increased, Total bilirubin increased* |                                             |                                                                            |
+| MedDRA             | Frequency categories with preferred terms   | Frequency categories with preferred terms                          | Frequency categories with preferred terms   | Frequency categories with preferred terms   |
+|--------------------|---------------------------------------------|--------------------------------------------------------------------|---------------------------------------------|---------------------------------------------|
+| System Organ Class | Very common                                 | Common                                                             | Uncommon                                    | Rare                                        |
+| Investigations     |                                             | Hepatic transaminases increased, Weight increased, Total bilirubin |                                             |                                             |
+
+- 3 This adverse reaction was identified through post marketing surveillance but not observed in controlled clinical trials. The frequency category was estimated as the upper limit of the 95% confidence interval calculated on the basis of the total number of patients exposed to TCZ in clinical trials.
 
 ## Infections
 
@@ -500,8 +496,6 @@ In the long-term exposure population, the overall rate of serious infections (ba
 
 Impaired lung function may increase the risk for developing infections. There have been postmarketing reports of interstitial lung disease (including pneumonitis and pulmonary fibrosis), some of which had fatal outcomes.
 
-<div style=\"page-break-after: always\"></div>
-
 ## Gastrointestinal Perforation
 
 During the 6-month controlled clinical trials, the overall rate of gastrointestinal perforation, was 0.26 events per 100 patient years with tocilizumab therapy. In the long-term exposure population the overall rate of gastrointestinal perforation was 0.28 events per 100 patient years. Reports of gastrointestinal perforation on tocilizumab were primarily reported as complications of diverticulitis including generalised purulent peritonitis, lower gastrointestinal perforation, fistulae and abscess.
@@ -510,7 +504,11 @@ During the 6-month controlled clinical trials, the overall rate of gastrointesti
 
 In the 6-month controlled trials adverse events associated with infusion (selected events occurring during or within 24 hours of infusion) were reported by 6.9% of patients in the tocilizumab 8 mg/kg plus DMARD group and 5.1% of patients in the placebo plus DMARD group. Events reported during the infusion were primarily episodes of hypertension; events reported within 24 hours of finishing an infusion were headache and skin reactions (rash, urticaria). These events were not treatment limiting.
 
-The rate of anaphylactic reactions (occurring in a total of 8/4 009 patients, 0.2%) was several fold higher with the 4 mg/kg dose, compared to the 8 mg/kg dose. Clinically significant hypersensitivity reactions associated with tocilizumab and requiring treatment discontinuation were reported in a total of 56 out of 4 009 patients (1.4%) treated with tocilizumab during the controlled and open label clinical studies. These reactions were generally observed during the second to fifth infusions of tocilizumab (see section 4.4). Fatal anaphylaxis has been reported after marketing authorisation during treatment with tocilizumab (see section 4.4).
+The rate of anaphylactic reactions (occurring in a total of 8/4 009 patients, 0.2%) was several fold higher with the 4 mg/kg dose, compared to the 8 mg/kg dose. Clinically significant hypersensitivity reactions associated with tocilizumab and requiring treatment discontinuation were reported in a total of 56 out of 4 009 patients (1.4%) treated with tocilizumab during the controlled and open label
+
+<div style=\"page-break-after: always\"></div>
+
+clinical studies. These reactions were generally observed during the second to fifth infusions of tocilizumab (see section 4.4). Fatal anaphylaxis has been reported after marketing authorisation during treatment with tocilizumab (see section 4.4).
 
 ## Haematological abnormalities:
 
@@ -532,11 +530,7 @@ Very rare reports of pancytopenia have occurred in the post marketing setting.
 
 During the 6-month controlled trials transient elevations in ALT/AST &gt; 3 x ULN were observed in 2.1% of patients on tocilizumab 8 mg/kg compared to 4.9% of patients on MTX and in 6.5% of patients who received 8 mg/kg tocilizumab plus DMARDs compared to 1.5% of patients on placebo plus DMARDs.
 
-The addition of potentially hepatotoxic drugs (e.g. MTX) to tocilizumab monotherapy resulted in increased frequency of these elevations. Elevations of ALT/AST &gt; 5 x ULN were observed in 0.7% of tocilizumab monotherapy patients and 1.4% of tocilizumab plus DMARD patients, the majority of whom were discontinued permanently from tocilizumab treatment. During the double-blind controlled period, the incidence of indirect bilirubin greater than the upper limit of normal, collected as a routine laboratory parameter, is 6.2% in patients treated with 8 mg/kg tocilizumab + DMARD. A total of
-
-<div style=\"page-break-after: always\"></div>
-
-5.8%  of patients experienced an elevation of indirect bilirubin of &gt; 1 to 2 x ULN and 0.4% had an elevation  of &gt; 2 x ULN.
+The addition of potentially hepatotoxic drugs (e.g. MTX) to tocilizumab monotherapy resulted in increased frequency of these elevations. Elevations of ALT/AST &gt; 5 x ULN were observed in 0.7% of tocilizumab monotherapy patients and 1.4% of tocilizumab plus DMARD patients, the majority of whom were discontinued permanently from tocilizumab treatment. During the double-blind controlled period, the incidence of indirect bilirubin greater than the upper limit of normal, collected as a routine laboratory parameter, is 6.2% in patients treated with 8 mg/kg tocilizumab + DMARD. A total of 5.8%  of patients experienced an elevation of indirect bilirubin of &gt; 1 to 2 x ULN and 0.4% had an elevation  of &gt; 2 x ULN.
 
 During the double-blind controlled period and with long-term exposure, the pattern and incidence of elevation in ALT/AST remained consistent with what was seen in the 6-month controlled clinical trials.
 
@@ -545,6 +539,8 @@ During the double-blind controlled period and with long-term exposure, the patte
 During the 6-month controlled trials, increases of lipid parameters such as total cholesterol, triglycerides, LDL cholesterol, and/or HDL cholesterol have been reported commonly. With routine laboratory monitoring it was seen that approximately 24% of patients receiving tocilizumab in clinical trials experienced sustained elevations in total cholesterol ≥ 6.2 mmol/L, with 15% experiencing a sustained increase in LDL to ≥ 4.1 mmol/L. Elevations in lipid parameters responded to treatment with lipid-lowering agents.
 
 During the double-blind controlled period and with long-term exposure, the pattern and incidence of elevations in lipid parameters remained consistent with what was seen in the 6-month controlled trials.
+
+<div style=\"page-break-after: always\"></div>
 
 ## Malignancies
 
@@ -556,7 +552,7 @@ Rare reports of Stevens-Johnson Syndrome have occurred in the post marketing set
 
 ## Patients with COVID-19
 
-The safety evaluation of tocilizumab in COVID-19 was based on 3 randomised, double-blind, placebo  controlled trials (studies ML42528, WA42380, and WA42511). A total of 974 patients were exposed  to tocilizumab in these studies. Collection of safety data from RECOVERY was limited and is not  presented here.
+The safety evaluation of tocilizumab in COVID-19 was based on 3 randomised, double-blind, placebo controlled trials (studies ML42528, WA42380, and WA42511). A total of 974 patients were exposed to tocilizumab in these studies. Collection of safety data from RECOVERY was limited and is not presented here.
 
 The following adverse reactions, listed by MedDRA system organ class in Table 2, have been adjudicated from events which occurred in at least 3% of tocilizumab treated patients and more commonly than that in patients on placebo in the pooled safety-evaluable population from clinical studies ML42528, WA42380, and WA42511.
 
@@ -571,7 +567,7 @@ Table 2: List of Adverse Reactions 1 Identified From the Pooled Safety-Evaluable
 | Gastrointestinal disorders         | Constipation, Diarrhoea, Nausea |
 | Hepatobiliary disorders            | Hepatic transaminases increased |
 
-<div style=\"page-break-after: always\"></div>
+## Description of selected adverse drug reactions
 
 ## Infections
 
@@ -581,13 +577,15 @@ The safety profile observed in the baseline systemic corticosteroids treatment g
 
 ## Laboratory Abnormalities
 
-The incidence of laboratory abnormalities was generally similar between patients with COVID-19 who received one or two doses of tocilizumab-IV compared with those who received placebo in the randomised, double-blind, placebo controlled trials with few exceptions. Decreases in platelets and neutrophils and elevations of ALT and AST were more frequent among patients receiving tocilizumab-IV versus placebo (see section 4.2 and 4.4).
+The incidence of laboratory abnormalities was generally similar between patients with COVID-19 who received one or two doses of tocilizumab-IV compared with those who received placebo in the randomised, double-blind, placebo controlled trials with few exceptions. Decreases in platelets and neutrophils and elevations of ALT and AST were more frequent among patients receiving tocilizumabIV versus placebo (see section 4.2 and 4.4).
 
 ## sJIA and pJIA Patients
 
+<div style=\"page-break-after: always\"></div>
+
 The safety profile of tocilizumab in the paediatric population is summarized in the sections on pJIA and sJIA below. In general, the ADRs in pJIA and sJIA patients were similar in type to those seen in RA patients, see section 4.8.
 
-ADRs in the pJIA and sJIA patients treated with tocilizumab are listed in the Table 3 and presented by  MedDRA system organ class. The corresponding frequency category for each ADR is based on the  following convention: very common (≥ 1/10); common (≥ 1/100 to &lt; 1/10) or uncommon (≥ 1/1 000  to &lt; 1/100).
+ADRs in the pJIA and sJIA patients treated with tocilizumab are listed in the Table 3 and presented by MedDRA system organ class. The corresponding frequency category for each ADR is based on the following convention: very common (≥ 1/10); common (≥ 1/100 to &lt; 1/10) or uncommon (≥ 1/1 000  to &lt; 1/100).
 
 Table 3: List of ADRs occurring in clinical trial patients with sJIA or pJIA receiving tocilizumab as monotherapy or in combination with MTX.
 
@@ -609,17 +607,19 @@ Table 3: List of ADRs occurring in clinical trial patients with sJIA or pJIA rec
 |                                                      | Platelet count decreased                             |             | sJIA            | pJIA        |
 |                                                      | Cholesterol increased                                |             | sJIA            | pJIA        |
 
-<div style=\"page-break-after: always\"></div>
+1. Infusion related reaction events in pJIA patients included but were not limited to headache, nausea and hypotension
 
-discomfort, arthralgia and headache
+2. Infusion related reaction events in sJIA patients included but were not limited to rash, urticaria, diarrhoea, epigastric discomfort, arthralgia and headache
 
 ## pJIA Patients
 
-The safety profile of intravenous tocilizumab in pJIA has been studied in 188 patients from 2 to 17 years of age. The total patient exposure was 184.4 patient years. The frequency of ADRs in pJIA patients can be found in Table 3. The types of ADRs in pJIA patients were similar to those seen in RA and sJIA patients, see section 4.8. When compared to the adult RA population, events of nasopharyngitis, headache, nausea, and decreased neutrophil count were more frequently reported in the pJIA population. Events of cholesterol increased were less frequently reported in the pJIA population than in the adult RA population.
+The safety profile of intravenous tocilizumab in pJIA has been studied in 188 patients from 2 to 17 years of age. The total patient exposure was 184.4 patient years. The frequency of ADRs in pJIA patients can be found in Table 3. The types of ADRs in pJIA patients were similar to those seen in RA and sJIA patients, see section 4.8. When compared to the adult RA population, events of nasopharyngitis, headache, nausea, and decreased neutrophil count were more frequently reported in  the pJIA population. Events of cholesterol increased were less frequently reported in the pJIA  population than in the adult RA population.
 
 ## Infections
 
 The rate of infections in the tocilizumab all exposure population was 163.7 per 100 patient years. The most common events observed were nasopharyngitis and upper respiratory tract infections. The rate of serious infections was numerically higher in patients weighing &lt;30 kg treated with 10 mg/kg tocilizumab (12.2 per 100 patient years) compared to patients weighing ≥30 kg, treated with 8 mg/kg tocilizumab (4.0 per 100 patient years). The incidence of infections leading to dose interruptions was also numerically higher in patients weighing &lt;30 kg treated with 10 mg/kg tocilizumab (21.4%) compared to patients weighing ≥30 kg, treated with 8 mg/kg tocilizumab (7.6%).
+
+<div style=\"page-break-after: always\"></div>
 
 ## Infusion Related Reactions
 
@@ -645,13 +645,9 @@ During routine laboratory monitoring in the intravenous tocilizumab study WA1997
 
 ## sJIA Patients
 
-The safety profile of intravenous tocilizumab in sJIA has been studied in 112 patients from 2 to 17 years of age. In the 12 week double-blind, controlled phase, 75 patients received treatment with tocilizumab (8 mg/kg or 12 mg/kg based upon body weight). After 12 weeks or at the time of switching to tocilizumab, due to disease worsening, patients were treated in the open label extension phase.
+The safety profile of intravenous tocilizumab in sJIA has been studied in 112 patients from 2 to 17 years of age. In the 12 week double-blind, controlled phase, 75 patients received treatment with tocilizumab (8 mg/kg or 12 mg/kg based upon body weight). After 12 weeks or at the time of  switching to tocilizumab, due to disease worsening, patients were treated in the open label extension  phase.
 
-In general, the ADRs in sJIA patients were similar in type to those seen in RA patients, see section 4.8.
-
-<div style=\"page-break-after: always\"></div>
-
-The frequency of ADRs in sJIA patients can be found in Table 3. When compared to the adult RA population, patients with sJIA experienced a higher frequency of nasopharyngitis, decrease in neutrophil counts, hepatic transaminases increased, and diarrhea. Events of cholesterol increased were less frequently reported in the sJIA population than in the adult RA population.
+In general, the ADRs in sJIA patients were similar in type to those seen in RA patients, see section 4.8. The frequency of ADRs in sJIA patients can be found in Table 3. When compared to the adult RA population, patients with sJIA experienced a higher frequency of nasopharyngitis, decrease in neutrophil counts, hepatic transaminases increased, and diarrhea. Events of cholesterol increased were less frequently reported in the sJIA population than in the adult RA population.
 
 ## Infections
 
@@ -662,6 +658,8 @@ In the 12 week controlled phase, the rate of serious infections in the intraveno
 ## Infusion Related Reactions
 
 Infusion related reactions are defined as all events occurring during or within 24 hours of an infusion. In the 12 week controlled phase, 4% of patients from the tocilizumab group experienced events occurring during infusion. One event (angioedema) was considered serious and life-threatening, and the patient was discontinued from study treatment.
+
+<div style=\"page-break-after: always\"></div>
 
 In the 12 week controlled phase, 16% of patients in the tocilizumab group and 5.4% of patients in the placebo group experienced an event within 24 hours of infusion. In the tocilizumab group, the events included, but were not limited to rash, urticaria, diarrhea, epigastric discomfort, arthralgia and headache. One of these events, urticaria, was considered serious.
 
@@ -691,8 +689,6 @@ IgG levels decrease during therapy. A decrease to the lower limit of normal occu
 
 ## Lipid parameters
 
-<div style=\"page-break-after: always\"></div>
-
 During routine laboratory monitoring in the 12 week controlled phase (study WA18221), 13.4% and 33.3% of patients experienced a post-baseline elevation of their LDL-cholesterol value to ≥ 130 mg/dL  and total cholesterol value to ≥ 200 mg/dL at any time during study treatment, respectively.
 
 In the open label extension phase (study WA18221), 13.2% and 27.7% of patients experienced a postbaseline elevation of their LDL-cholesterol value to ≥ 130 mg/dL and total cholesterol value to ≥ 200 mg/dL at any time during study treatment, respectively.
@@ -707,7 +703,11 @@ Anti-tocilizumab antibodies may develop during tocilizumab treatment. Correlatio
 
 ## Reporting of suspected adverse reactions
 
-Reporting suspected adverse reactions after authorisation of the medicinal product is important. It allows continued monitoring of the benefit/risk balance of the medicinal product. Healthcare professionals are asked to report any suspected adverse reactions via the national reporting system listed in Appendix V.
+Reporting suspected adverse reactions after authorisation of the medicinal product is important. It
+
+<div style=\"page-break-after: always\"></div>
+
+allows continued monitoring of the benefit/risk balance of the medicinal product. Healthcare professionals are asked to report any suspected adverse reactions via the national reporting system listed in Appendix V.
 
 ## 4.9 Overdose
 
@@ -731,13 +731,9 @@ Avtozma is a biosimilar medicinal product. Detailed information is available on 
 
 Tocilizumab binds specifically to both soluble and membrane-bound IL-6 receptors (sIL-6R and mIL6R). Tocilizumab has been shown to inhibit sIL-6R and mIL-6R-mediated signalling. IL-6 is a pleiotropic pro-inflammatory cytokine produced by a variety of cell types including T- and B-cells, monocytes and fibroblasts. IL-6 is involved in diverse physiological processes such as T-cell activation, induction of immunoglobulin secretion, induction of hepatic acute phase protein synthesis and stimulation of haemopoiesis. IL-6 has been implicated in the pathogenesis of diseases including inflammatory diseases, osteoporosis and neoplasia.
 
-Pharmacodynamic effects
+## Pharmacodynamic effects
 
-In clinical studies with RA patients treated with tocilizumab, rapid decreases in CRP, erythrocyte
-
-<div style=\"page-break-after: always\"></div>
-
-sedimentation rate (ESR), serum amyloid A (SAA) and fibrinogen were observed. Consistent with the effect on acute phase reactants, treatment with tocilizumab was associated with reduction in platelet count within the normal range. Increases in haemoglobin levels were observed, through tocilizumab decreasing the IL-6 driven effects on hepcidin production to increase iron availability. In tocilizumabtreated patients, decreases in the levels of CRP to within normal ranges were seen as early  as week 2, with decreases maintained while on treatment.
+In clinical studies with RA patients treated with tocilizumab, rapid decreases in CRP, erythrocyte sedimentation rate (ESR), serum amyloid A (SAA) and fibrinogen were observed. Consistent with the effect on acute phase reactants, treatment with tocilizumab was associated with reduction in platelet count within the normal range. Increases in haemoglobin levels were observed, through tocilizumab decreasing the IL-6 driven effects on hepcidin production to increase iron availability. In tocilizumabtreated patients, decreases in the levels of CRP to within normal ranges were seen as early  as week 2, with decreases maintained while on treatment.
 
 In healthy subjects administered tocilizumab in doses from 2 to 28 mg/kg, absolute neutrophil counts decreased to their lowest 3 to 5 days following administration. Thereafter, neutrophils recovered towards baseline in a dose dependent manner. Rheumatoid arthritis patients demonstrated a similar pattern of absolute neutrophil counts following tocilizumab administration (see section 4.8).
 
@@ -747,7 +743,11 @@ In COVID-19 patients with one dose of tocilizumab 8 mg/kg administered intraveno
 
 ## Clinical efficacy and safety
 
-The efficacy of tocilizumab in alleviating the signs and symptoms of RA was assessed in five randomised, double-blind, multi-centre studies. Studies I-V enrolled patients ≥ 18 years of age with active RA diagnosed according to the American College of Rheumatology (ACR) criteria and who had at least eight tender and six swollen joints at baseline.
+The efficacy of tocilizumab in alleviating the signs and symptoms of RA was assessed in five randomised, double-blind, multi-centre studies. Studies I-V enrolled patients ≥ 18 years of age with
+
+<div style=\"page-break-after: always\"></div>
+
+active RA diagnosed according to the American College of Rheumatology (ACR) criteria and who had at least eight tender and six swollen joints at baseline.
 
 In Study I, tocilizumab was administered intravenously every four weeks as monotherapy. In Studies II, III and V, tocilizumab was administered intravenously every four weeks in combination with MTX vs. placebo and MTX. In Study IV, tocilizumab was administered intravenously every 4 weeks in combination with other DMARDs vs. placebo and other DMARDs. The primary endpoint for each of the five studies was the proportion of patients who achieved an ACR 20 response at week 24.
 
@@ -763,8 +763,6 @@ Study V evaluated 499 patients who had an inadequate clinical response or were i
 
 ## Clinical response
 
-<div style=\"page-break-after: always\"></div>
-
 In all studies, patients treated with tocilizumab 8 mg/kg had statistically significant higher ACR 20, 50, 70 response rates at 6 months compared to control (Table 4). In study I, superiority of tocilizumab 8 mg/kg was demonstrated against the active comparator MTX.
 
 The treatment effect was similar in patients independent of rheumatoid factor status, age, gender, race, number of prior treatments or disease status. Time to onset was rapid (as early as week 2) and the magnitude of response continued to improve with duration of treatment. Continued durable responses were seen for over 3 years in the open label extension studies I-V.
@@ -773,23 +771,25 @@ In patients treated with tocilizumab 8 mg/kg, significant improvements were note
 
 Patients in studies I - V had a mean Disease Activity Score (DAS28) of 6.5-6.8 at baseline. Significant reduction in DAS28 from baseline (mean improvement) of 3.1-3.4 were observed in tocilizumab-treated patients compared to control patients (1.3-2.1). The proportion of patients achieving a DAS28 clinical remission (DAS28 &lt; 2.6) was significantly higher in patients receiving tocilizumab (28-34%) compared to 1-12% of control patients at 24 weeks. In study II, 65% of patients achieved a DAS28 &lt; 2.6 at week 104 compared to 48% at 52 weeks and 33% of patients at week 24.
 
+<div style=\"page-break-after: always\"></div>
+
 In a pooled analysis of studies II, III and IV, the proportion of patients achieving an ACR 20, 50 and 70 response was significantly higher (59% vs. 50%, 37% vs. 27%, 18% vs. 11%, respectively) in the tocilizumab 8 mg/kg plus DMARD vs. the tocilizumab 4 mg/kg plus DMARD group (p&lt; 0.03). Similarly the proportion of patients achieving a DAS28 remission (DAS28 &lt; 2.6) was significantly higher (31% vs. 16% respectively) in patients receiving tocilizumab 8 mg/kg plus DMARD than in patients receiving tocilizumab 4 mg/kg plus DMARD (p&lt; 0.0001).
 
 Table 4. ACR responses in placebo-/MTX-/DMARDs-controlled studies (% patients)
 
-|       | Study I AMBITION   | Study I AMBITION   | Study II LITHE    | Study II LITHE   | Study III OPTION   | Study III OPTION   | Study IV TOWARD     | Study IV TOWARD   | Study V RADIATE   | Study V RADIATE   |
-|-------|--------------------|--------------------|-------------------|------------------|--------------------|--------------------|---------------------|-------------------|-------------------|-------------------|
-| Week  | TCZ 8 mg/kg        | MTX                | TCZ 8 mg/kg + MTX | PBO + MTX        | TCZ 8 mg/kg +MTX   | PBO + MTX          | TCZ 8 mg/kg + DMARD | PBO + DMARD       | TCZ 8 mg/kg +MTX  | PBO + MTX         |
-|       | N = 286            | N = 284            | N = 398           | N = 393          | N = 205            | N = 204            | N = 803             | N = 413           | N = 170           | N = 158           |
-| ACR20 | ACR20              | ACR20              | ACR20             | ACR20            | ACR20              | ACR20              | ACR20               | ACR20             | ACR20             | ACR20             |
-| 24    | 70%***             | 52%                | 56%***            | 27%              | 59%***             | 26%                | 61%***              | 24%               | 50%***            | 10%               |
-| 52    |                    |                    | 56%***            | 25%              |                    |                    |                     |                   |                   |                   |
-| ACR50 | ACR50              | ACR50              | ACR50             | ACR50            | ACR50              | ACR50              | ACR50               | ACR50             | ACR50             | ACR50             |
-| 24    | 44%**              | 33%                | 32%***            | 10%              | 44%***             | 11%                | 38%***              | 9%                | 29%***            | 4%                |
-| 52    |                    |                    | 36%***            | 10%              |                    |                    |                     |                   |                   |                   |
-| ACR70 | ACR70              | ACR70              | ACR70             | ACR70            | ACR70              | ACR70              | ACR70               | ACR70             | ACR70             | ACR70             |
-| 24    | 28%**              | 15%                | 13%***            | 2%               | 22%***             | 2%                 | 21%***              | 3%                | 12%**             | 1%                |
-| 52    |                    |                    | 20%***            | 4%               |                    |                    |                     |                   |                   |                   |
+|        | Study I AMBITION   | Study I AMBITION   | Study II LITHE   | Study II LITHE   | Study III OPTION   | Study III OPTION   | Study IV TOWARD     | Study IV TOWARD   | Study V RADIATE   | Study V RADIATE   |
+|--------|--------------------|--------------------|------------------|------------------|--------------------|--------------------|---------------------|-------------------|-------------------|-------------------|
+| Week   | TCZ 8 mg/kg        | MTX                | TCZ8 mg/kg + MTX | PBO + MTX        | TCZ 8 mg/kg +MTX   | PBO + MTX          | TCZ 8 mg/kg + DMARD | PBO + DMARD       | TCZ 8 mg/kg +MTX  | PBO + MTX         |
+|        | N = 286            | N = 284            | N = 398          | N = 393          | N = 205            | N = 204            | N = 803             | N = 413           | N = 170           | N = 158           |
+| ACR 20 | ACR 20             | ACR 20             | ACR 20           | ACR 20           | ACR 20             | ACR 20             | ACR 20              | ACR 20            | ACR 20            | ACR 20            |
+| 24     | 70%***             | 52%                | 56%***           | 27%              | 59%***             | 26%                | 61%***              | 24%               | 50%***            | 10%               |
+| 52     |                    |                    | 56%***           | 25%              |                    |                    |                     |                   |                   |                   |
+| ACR 50 | ACR 50             | ACR 50             | ACR 50           | ACR 50           | ACR 50             | ACR 50             | ACR 50              | ACR 50            | ACR 50            | ACR 50            |
+| 24     | 44%**              | 33%                | 32%***           | 10%              | 44%***             | 11%                | 38%***              | 9%                | 29%***            | 4%                |
+| 52     |                    |                    | 36%***           | 10%              |                    |                    |                     |                   |                   |                   |
+| ACR 70 | ACR 70             | ACR 70             | ACR 70           | ACR 70           | ACR 70             | ACR 70             | ACR 70              | ACR 70            | ACR 70            | ACR 70            |
+| 24     | 28%**              | 15%                | 13%***           | 2%               | 22%***             | 2%                 | 21%***              | 3%                | 12%**             | 1%                |
+| 52     |                    |                    | 20%***           | 4%               |                    |                    |                     |                   |                   |                   |
 
 TCZ
 
@@ -817,23 +817,23 @@ DMARD
 
 ## Major Clinical Response
 
-After 2 years of treatment with tocilizumab plus MTX, 14% of patients achieved a major clinical  response (maintenance of an ACR70 response for 24 weeks or more).
-
-<div style=\"page-break-after: always\"></div>
+After 2 years of treatment with tocilizumab plus MTX, 14% of patients achieved a major clinical response (maintenance of an ACR70 response for 24 weeks or more).
 
 ## Radiographic response
 
-In Study II, in patients with an inadequate response to MTX, inhibition of structural joint damage was  assessed radiographically and expressed as change in modified Sharp score and its components, the  erosion score and joint space narrowing score. Inhibition of joint structural damage was shown with significantly less radiographic progression in patients receiving tocilizumab compared to control  (Table 5).
+In Study II, in patients with an inadequate response to MTX, inhibition of structural joint damage was assessed radiographically and expressed as change in modified Sharp score and its components, the erosion score and joint space narrowing score. Inhibition of joint structural damage was shown with significantly less radiographic progression in patients receiving tocilizumab compared to control  (Table 5).
 
 In the open-label extension of Study II the inhibition of progression of structural joint damage in tocilizumab plus MTX-treated patients was maintained in the second year of treatment. The mean change from baseline at week 104 in total Sharp-Genant score was significantly lower for patients randomised to tocilizumab 8 mg/kg plus MTX (p&lt;0.0001) compared with patients who were randomised to placebo plus MTX.
 
+<div style=\"page-break-after: always\"></div>
+
 Table 5. Radiographic mean changes over 52 weeks in Study II
 
-|                          |   PBO+MTX (+ TCZ from week 24) N = 393 | TCZ 8 mg/kg+MTX N = 398   |
-|--------------------------|----------------------------------------|---------------------------|
-| Total Sharp-Genant score |                                   1.13 | 0.29*                     |
-| Erosion score            |                                   0.71 | 0.17*                     |
-| JSN score                |                                   0.42 | 0.12**                    |
+|                          |   PBO+MTX (+ TCZfrom week 24) N = 393 | TCZ8 mg/kg+MTX N = 398   |
+|--------------------------|---------------------------------------|--------------------------|
+| Total Sharp-Genant score |                                  1.13 | 0.29*                    |
+| Erosion score            |                                  0.71 | 0.17*                    |
+| JSN score                |                                  0.42 | 0.12**                   |
 
 PBO
 
@@ -859,7 +859,7 @@ JSN
 
 - p&lt; 0.005, TCZ vs. PBO + MTX
 
-Following 1 year of treatment with tocilizumab plus MTX, 85% of patients (n=348) had no progression of structural joint damage, as defined by a change in the Total Sharp Score of zero or less,  compared with 67% of placebo plus MTX-treated patients (n=290) (p ≤ 0.001). This remained consistent following 2 years of treatment (83%; n=353). Ninety three percent (93%; n=271) of patients  had no progression between week 52 and week 104.
+Following 1 year of treatment with tocilizumab plus MTX, 85% of patients (n=348) had no  progression of structural joint damage, as defined by a change in the Total Sharp Score of zero or less,  compared with 67% of placebo plus MTX-treated patients (n=290) (p ≤ 0.001). This remained  consistent following 2 years of treatment (83%; n=353). Ninety three percent (93%; n=271) of patients  had no progression between week 52 and week 104.
 
 ## Health-related and quality of life outcomes
 
@@ -871,11 +871,9 @@ Statistically significant improvements in haemoglobin levels were observed with 
 
 ## Tocilizumab versus adalimumab in monotherapy
 
-Study VI (WA19924), a 24 week double-blinded study that compared tocilizumab monotherapy with  adalimumab monotherapy, evaluated 326 patients with RA who were intolerant of MTX or where  continued treatment with MTX was considered inappropriate (including MTX inadequate responders). Patients in the tocilizumab arm received an intravenous (IV) infusion of tocilizumab (8 mg/kg) every 4  weeks (q4w) and a subcutaneous (SC) placebo injection every 2 weeks (q2w). Patients in the  adalimumab arm received an adalimumab SC injection (40 mg) q2w plus an IV placebo infusion q4w.  A statistically significant superior treatment effect was seen in favour of
+Study VI (WA19924), a 24 week double-blinded study that compared tocilizumab monotherapy with adalimumab monotherapy, evaluated 326 patients with RA who were intolerant of MTX or where continued treatment with MTX was considered inappropriate (including MTX inadequate responders). Patients in the tocilizumab arm received an intravenous (IV) infusion of tocilizumab (8 mg/kg) every 4 weeks (q4w) and a subcutaneous (SC) placebo injection every 2 weeks (q2w). Patients in the adalimumab arm received an adalimumab SC injection (40 mg) q2w plus an IV placebo infusion q4w. A statistically significant superior treatment effect was seen in favour of tocilizumab over adalimumab in control of disease activity from baseline to week 24 for the primary endpoint of change in DAS28 and for all secondary endpoints (Table 6).
 
 <div style=\"page-break-after: always\"></div>
-
-tocilizumab over adalimumab  in control of disease activity from baseline to week 24 for the primary endpoint of change in DAS28  and for all secondary endpoints (Table 6).
 
 Table 6: Efficacy Results for Study VI (WA19924)
 
@@ -895,51 +893,57 @@ a p value is adjusted for region and duration of RA for all endpoints and additi
 
 b Non-responder Imputation used for missing data. Multiplicity controlled using BonferroniHolm  Procedure
 
-The overall clinical adverse event profile was similar between tocilizumab and adalimumab. The proportion of patients with serious adverse events was balanced between the treatment groups (tocilizumab 11.7% vs. adalimumab 9.9%). The types of adverse drug reactions in the tocilizumab arm  were consistent with the known safety profile of tocilizumab and adverse drug reactions were reported  at a similar frequency compared with Table 1. A higher incidence of infections and infestations was  reported in the tocilizumab arm (48% vs. 42%), with no difference in the incidence of serious  infections (3.1%). Both study treatments induced the same pattern of changes in laboratory safety  parameters (decreases in neutrophil and platelet counts, increases in ALT, AST and lipids), however,  the magnitude of change and the frequency of marked abnormalities was higher with tocilizumab  compared with adalimumab. Four (2.5%) patients in the tocilizumab arm and two (1.2%) patients in  the adalimumab arm experienced CTC grade 3 or 4 neutrophil count decreases. Eleven (6.8%) patients  in the tocilizumab arm and five (3.1%) patients in the adalimumab arm experienced ALT increases of CTC grade 2 or higher.  The mean LDL increase from baseline was 0.64 mmol/L (25 mg/dL) for patients in the tocilizumab arm and 0.19 mmol/L (7 mg/dL) for patients in the adalimumab arm. The safety observed in the tocilizumab arm was consistent with the known safety profile of tocilizumab and no new or unexpected adverse drug reactions were observed (see Table 1).
+The overall clinical adverse event profile was similar between tocilizumab and adalimumab. The proportion of patients with serious adverse events was balanced between the treatment groups (tocilizumab 11.7% vs. adalimumab 9.9%). The types of adverse drug reactions in the tocilizumab arm were consistent with the known safety profile of tocilizumab and adverse drug reactions were reported at a similar frequency compared with Table 1. A higher incidence of infections and infestations was reported in the tocilizumab arm (48% vs. 42%), with no difference in the incidence of serious  infections (3.1%). Both study treatments induced the same pattern of changes in laboratory safety  parameters (decreases in neutrophil and platelet counts, increases in ALT, AST and lipids), however,  the magnitude of change and the frequency of marked abnormalities was higher with tocilizumab  compared with adalimumab. Four (2.5%) patients in the tocilizumab arm and two (1.2%) patients in  the adalimumab arm experienced CTC grade 3 or 4 neutrophil count decreases. Eleven (6.8%) patients  in the tocilizumab arm and five (3.1%) patients in the adalimumab arm experienced ALT increases of CTC grade 2 or higher.  The mean LDL increase from baseline was 0.64 mmol/L (25 mg/dL) for patients in the tocilizumab arm and 0.19 mmol/L (7 mg/dL) for patients in the  adalimumab arm. The safety observed in the tocilizumab arm was consistent with the known safety  profile of tocilizumab and no new or unexpected adverse drug reactions were observed (see Table 1).
 
 ## MTX naïve, Early RA
 
-Study VII (WA19926), a 2 year study with the planned primary analysis at week 52 evaluated 1 162 MTX-naïve adult patients with moderate to severe, active early RA (mean disease duration ≤ 6 months). Approximately 20% of patients had received prior treatment with DMARDs other than MTX.  This study evaluated the efficacy of IV tocilizumab 4 or 8 mg/kg every 4 weeks/MTX combination  therapy, IV tocilizumab 8 mg/kg monotherapy and MTX monotherapy in reducing the signs and symptoms and rate of progression of joint damage for 104 weeks. The primary endpoint was  the proportion of patients achieving DAS28 remission (DAS28 &lt; 2.6) at week 24. A significantly higher proportion of patients in the tocilizumab 8 mg/kg + MTX and tocilizumab monotherapy groups met the primary endpoint compared with MTX alone. The tocilizumab 8 mg/kg + MTX group also showed statistically significant results across the key secondary endpoints. Numerically greater responses compared with MTX alone were observed in the tocilizumab 8 mg/kg monotherapy group in  all secondary endpoints, including radiographic endpoints. In this study, ACR/EULAR remission (Boolean and Index) were also analysed as pre-specified exploratory endpoints, with higher responses
+Study VII (WA19926), a 2 year study with the planned primary analysis at week 52 evaluated 1 162 MTX-naïve adult patients with moderate to severe, active early RA (mean disease duration ≤ 6 months). Approximately 20% of patients had received prior treatment with DMARDs other than MTX.  This study evaluated the efficacy of IV tocilizumab 4 or 8 mg/kg every 4 weeks/MTX combination  therapy, IV tocilizumab 8 mg/kg monotherapy and MTX monotherapy in reducing the signs and symptoms and rate of progression of joint damage for 104 weeks. The primary endpoint was  the proportion of patients achieving DAS28 remission (DAS28 &lt; 2.6) at week 24. A significantly higher proportion of patients in the tocilizumab 8 mg/kg + MTX and tocilizumab monotherapy groups met the primary endpoint compared with MTX alone. The tocilizumab 8 mg/kg + MTX group also showed statistically significant results across the key secondary endpoints. Numerically greater responses compared with MTX alone were observed in the tocilizumab 8 mg/kg monotherapy group in  all secondary endpoints, including radiographic endpoints. In this study, ACR/EULAR remission (Boolean and Index) were also analysed as pre-specified exploratory endpoints, with higher responses observed in the tocilizumab groups. The results from study VII are shown in Table 7.
 
 <div style=\"page-break-after: always\"></div>
-
-observed in the tocilizumab groups. The results from study VII are shown in Table 7.
 
 Table 7: Efficacy Results for Study VII (WA19926) on MTX-naïve, early RA patients
 
-|                                                                          |                                                                          | TCZ 8 mg/kg + MTX N=29   | TCZ 8 mg/kg + placebo N=292   | TCZ 4 mg/kg +MTX N=288   | Placebo + MTX N=287   |
-|--------------------------------------------------------------------------|--------------------------------------------------------------------------|--------------------------|-------------------------------|--------------------------|-----------------------|
-| Primary Endpoint                                                         |                                                                          |                          |                               |                          |                       |
-| DAS28 Remission                                                          |                                                                          |                          |                               |                          |                       |
-| Week 24                                                                  | n (%)                                                                    | 130(44.8)***             | 113 (38.7)***                 | 92 (31.9)                | 43 (15.0)             |
-| Key Secondary Endpoints                                                  |                                                                          |                          |                               |                          |                       |
-| DAS 28 remission                                                         |                                                                          |                          |                               |                          |                       |
-| Week 52                                                                  | n (%)                                                                    | 142 (49.0)***            | 115 (39.4)                    | 98 (34.0)                | 56 (19.5)             |
-| ACR                                                                      |                                                                          |                          |                               |                          |                       |
-| Week 24                                                                  | ACR20, n (%)                                                             | 216 (74.5)*              | 205 (70.2)                    | 212(73.6)                | 187 (65.2)            |
-| ACR50, n (%)                                                             |                                                                          | 165 (56.9)**             | 139 (47.6)                    | 138(47.9)                | 124 (43.2)            |
-| ACR70, n (%)                                                             |                                                                          | 112 (38.6)**             | 88 (30.1)                     | 100(34.7)                | 73 (25.4)             |
-| Week 52                                                                  | ACR20, n (%)                                                             | 195 (67.2)*              | 184 (63.0)                    | 181(62.8)                | 164 (57.1)            |
-| ACR50, n (%)                                                             |                                                                          | 162 (55.9)**             | 144 (49.3)                    | 151(52.4)                | 117 (40.8)            |
-| ACR70, n (%)                                                             |                                                                          | 125 (43.1)**             | 105 (36.0)                    | 107(37.2)                | 83 (28.9)             |
-| HAQ-DI (adjusted mean change from baseline)                              | HAQ-DI (adjusted mean change from baseline)                              |                          |                               |                          |                       |
-| Week 52                                                                  | Week 52                                                                  | -0.81*                   | -0.67                         | -0.75                    | -0.64                 |
-| Radiographic Endpoints (mean change from baseline)                       | Radiographic Endpoints (mean change from baseline)                       |                          |                               |                          |                       |
-| Week 52                                                                  | mTSS                                                                     | 0.08***                  | 0.26                          | 0.42                     | 1.14                  |
-|                                                                          | Erosion Score                                                            | 0.05**                   | 0.15                          | 0.25                     | 0.63                  |
-|                                                                          | JSN                                                                      | 0.03                     | 0.11                          | 0.17                     | 0.51                  |
-| Radiographic Non-Progression n (%) (change from baseline in mTSS of ≤ 0) | Radiographic Non-Progression n (%) (change from baseline in mTSS of ≤ 0) | 226 (83) ‡               | 226 (82) ‡                    | 211 (79)                 | 194 (73)              |
-| Exploratory Endpoints                                                    | Exploratory Endpoints                                                    |                          |                               |                          |                       |
-| Week 24: ACR/EULAR Boolean Remission, n (%)                              | Week 24: ACR/EULAR Boolean Remission, n (%)                              | 47 (18.4) ‡              | 38 (14.2)                     | 43 (16.7) ‡              | 25 (10.0)             |
-| ACR/EULAR Index Remission, n (%)                                         | ACR/EULAR Index Remission, n (%)                                         | 73 (28.5) ‡              | 60 (22.6)                     | 58 (22.6)                | 41 (16.4)             |
-| Week 52: ACR/EULAR Boolean Remission, n (%)                              | Week 52: ACR/EULAR Boolean Remission, n (%)                              | 59 (25.7) ‡              | 43 (18.7)                     | 48 (21.1)                | 34 (15.5)             |
-| ACR/EULAR Index Remission, n (%)                                         | ACR/EULAR Index Remission, n (%)                                         | 83 (36.1) ‡              | 69 (30.0)                     | 66 (29.3)                | 49 (22.4)             |
+|                                                                          |                                                                          | TCZ8 mg/kg + MTX N=29 0 TCZ8 mg/kg + placebo N=292   |               | TCZ 4 mg/kg +MTX N=288   | Placebo + MTX N=287   |
+|--------------------------------------------------------------------------|--------------------------------------------------------------------------|------------------------------------------------------|---------------|--------------------------|-----------------------|
+| Primary Endpoint                                                         | Primary Endpoint                                                         |                                                      |               |                          |                       |
+| DAS28 Remission                                                          | DAS28 Remission                                                          |                                                      |               |                          |                       |
+| Week 24                                                                  | n (%)                                                                    | 130(44.8)***                                         | 113 (38.7)*** | 92 (31.9)                | 43 (15.0)             |
+| Key Secondary Endpoints                                                  | Key Secondary Endpoints                                                  |                                                      |               |                          |                       |
+| DAS 28 remission                                                         | DAS 28 remission                                                         |                                                      |               |                          |                       |
+| Week 52                                                                  | n (%)                                                                    | 142 (49.0)***                                        | 115 (39.4)    | 98 (34.0)                | 56 (19.5)             |
+| ACR                                                                      |                                                                          |                                                      |               |                          |                       |
+| Week 24                                                                  | ACR20, n (%)                                                             | 216 (74.5)*                                          | 205 (70.2)    | 212(73.6)                | 187 (65.2)            |
+| ACR50, n (%)                                                             |                                                                          | 165 (56.9)**                                         | 139 (47.6)    | 138(47.9)                | 124 (43.2)            |
+| ACR70, n (%)                                                             |                                                                          | 112 (38.6)**                                         | 88 (30.1)     | 100(34.7)                | 73 (25.4)             |
+| Week 52                                                                  | ACR20, n (%)                                                             | 195 (67.2)*                                          | 184 (63.0)    | 181(62.8)                | 164 (57.1)            |
+|                                                                          | ACR50, n (%)                                                             | 162 (55.9)**                                         | 144 (49.3)    | 151(52.4)                | 117 (40.8)            |
+| ACR70, n (%)                                                             |                                                                          | 125 (43.1)**                                         | 105 (36.0)    | 107(37.2)                | 83 (28.9)             |
+| HAQ-DI (adjusted mean change from                                        | HAQ-DI (adjusted mean change from                                        |                                                      |               |                          |                       |
+| b li ) Week 52                                                           | b li ) Week 52                                                           | -0.81*                                               | -0.67         | -0.75                    | -0.64                 |
+| Radiographic Endpoints (mean change from                                 | Radiographic Endpoints (mean change from                                 | baseline)                                            |               |                          |                       |
+| Week 52                                                                  | mTSS                                                                     | 0.08***                                              | 0.26          | 0.42                     | 1.14                  |
+|                                                                          | Erosion Score                                                            | 0.05**                                               | 0.15          | 0.25                     | 0.63                  |
+| JSN                                                                      | JSN                                                                      | 0.03                                                 | 0.11          | 0.17                     | 0.51                  |
+| Radiographic Non-Progression n (%) (change from baseline in mTSS of ≤ 0) | Radiographic Non-Progression n (%) (change from baseline in mTSS of ≤ 0) | 226 (83) ‡                                           | 226 (82) ‡    | 211 (79)                 | 194 (73)              |
+| Exploratory Endpoints                                                    | Exploratory Endpoints                                                    |                                                      |               |                          |                       |
+| Week 24: ACR/EULAR Boolean Remission, n (%)                              | Week 24: ACR/EULAR Boolean Remission, n (%)                              | 47 (18.4) ‡                                          | 38 (14.2)     | 43 (16.7) ‡              | 25 (10.0)             |
+| ACR/EULAR Index Remission,                                               | ACR/EULAR Index Remission,                                               | 73 (28.5) ‡                                          | 60 (22.6)     | 58 (22.6)                | 41 (16.4)             |
+| ( ) Week 52: ACR/EULAR Boolean Remission, n (%)                          | ( ) Week 52: ACR/EULAR Boolean Remission, n (%)                          | 59 (25.7) ‡                                          | 43 (18.7)     | 48 (21.1)                | 34 (15.5)             |
+| ACR/EULAR Index Remission, n (%)                                         | ACR/EULAR Index Remission, n (%)                                         | 83 (36.1) ‡                                          | 69 (30.0)     | 66 (29.3)                | 49 (22.4)             |
+
+mTSS - modified Total
+
+Sharp Score  JSN - Joint space narrowing
+
+All efficacy comparisons vs Placebo + MTX. ***p≤0.0001; **p&lt;0.001; *p&lt;0.05;
+
+‡p-value &lt; 0.05 vs. Placebo + MTX, but endpoint was exploratory (not included in the hierarchy of statistical testing and has
+
+therefore not been controlled for multiplicity)
 
 <div style=\"page-break-after: always\"></div>
 
-## COVID-19
-
-## Clinical Efficacy
+## COVID-19 Clinical Efficacy
 
 ## RECOVERY (Randomised Evaluation of COVID-19 Therapy) Collaborative Group Study in Hospitalized Adults Diagnosed with COVID-19
 
@@ -959,9 +963,11 @@ Paediatric population sJIA Patients Clinical efficacy
 
 The efficacy of tocilizumab for the treatment of active sJIA was assessed in a 12 week randomised, double blind, placebo-controlled, parallel group, two arm study. Patients included in the trial had a total disease duration of at least 6 months and active disease but were not experiencing an acute flare requiring corticosteroid doses of more than 0.5 mg/kg prednisone equivalent. Efficacy for the treatment of macrophage activation syndrome has not been investigated.
 
+Patients (treated with or without MTX) were randomised (tocilizumab:placebo = 2:1) to one of two
+
 <div style=\"page-break-after: always\"></div>
 
-Patients (treated with or without MTX) were randomised (tocilizumab:placebo = 2:1) to one of two treatment groups, 75 patients received tocilizumab infusions every two weeks, either 8 mg/kg for patients ≥ 30 kg or 12 mg/kg for patients &lt; 30 kg and 37 patients were assigned to receiving placebo infusions every two weeks. Corticosteroid tapering was permitted from week six for patients who achieved a JIA ACR70 response. After 12 weeks or at the time of escape, due to disease worsening, patients were treated in the open label phase at weight appropriate dosing.
+treatment groups, 75 patients received tocilizumab infusions every two weeks, either 8 mg/kg for patients ≥ 30 kg or 12 mg/kg for patients &lt; 30 kg and 37 patients were assigned to receiving placebo infusions every two weeks. Corticosteroid tapering was permitted from week six for patients who achieved a JIA ACR70 response. After 12 weeks or at the time of escape, due to disease worsening, patients were treated in the open label phase at weight appropriate dosing.
 
 ## Clinical response
 
@@ -1000,11 +1006,11 @@ Fifty out of seventy five (67%) tocilizumab treated patients had a haemoglobin &
 
 ## pJIA Patients Clinical efficacy
 
-The efficacy of tocilizumab was assessed in a three-part study WA19977 including an open-label extension in children with active pJIA. Part I consisted of a 16-week active tocilizumab treatment lead-in period (n=188) followed by Part II, a 24-week randomised double-blind placebo-controlled
+The efficacy of tocilizumab was assessed in a three-part study WA19977 including an open-label extension in children with active pJIA. Part I consisted of a 16-week active tocilizumab treatment lead-in period (n=188) followed by Part II, a 24-week randomised double-blind placebo-controlled withdrawal period (n=163), followed by Part III, a 64-week open-label period. In Part 1, eligible
 
 <div style=\"page-break-after: always\"></div>
 
-withdrawal period (n=163), followed by Part III, a 64-week open-label period. In Part 1, eligible patients ≥ 30 kg received tocilizumab at 8 mg/kg IV every 4 weeks for 4 doses. Patients &lt; 30 kg were randomised 1:1 to receive either tocilizumab 8 mg/kg or 10 mg/kg IV every 4 weeks for 4 doses. Patients who completed Part I of the study and achieved at least a JIA ACR30 response at week 16 compared to baseline were eligible to enter the blinded withdrawal period (Part II) of the study. In Part II, patients were randomised to tocilizumab (same dose received in Part I) or placebo in a 1:1 ratio, stratified by concurrent MTX use and concurrent corticosteroid use. Each patient continued in Part II of the study until Week 40 or until the patient satisfied JIA ACR30 flare criteria (relative to Week 16) and qualified for escape to tocilizumab therapy (same dose received in Part I).
+patients ≥ 30 kg received tocilizumab at 8 mg/kg IV every 4 weeks for 4 doses. Patients &lt; 30 kg were randomised 1:1 to receive either tocilizumab 8 mg/kg or 10 mg/kg IV every 4 weeks for 4 doses. Patients who completed Part I of the study and achieved at least a JIA ACR30 response at week 16 compared to baseline were eligible to enter the blinded withdrawal period (Part II) of the study. In Part II, patients were randomised to tocilizumab (same dose received in Part I) or placebo in a 1:1 ratio, stratified by concurrent MTX use and concurrent corticosteroid use. Each patient continued in Part II of the study until Week 40 or until the patient satisfied JIA ACR30 flare criteria (relative to Week 16) and qualified for escape to tocilizumab therapy (same dose received in Part I).
 
 ## Clinical response
 
@@ -1030,18 +1036,18 @@ The ACR response rates were numerically lower for patients with prior biologic t
 
 Table 10. Number and Proportion of Patients with a JIA ACR30 Flare and Proportion of Patients with JIA ACR30/50/70/90 Responses at Week 40, by Previous Biologic Use (ITT Population - Study Part II)
 
-|              | Placebo      | Placebo     | All TCZ      | All TCZ     |
-|--------------|--------------|-------------|--------------|-------------|
-| Biologic Use | Yes (N = 23) | No (N = 58) | Yes (N = 27) | No (N = 55) |
+|                 | Placebo      | Placebo     | All TCZ      | All TCZ     |
+|-----------------|--------------|-------------|--------------|-------------|
+| Biologic Use    | Yes (N = 23) | No (N = 58) | Yes (N = 27) | No (N = 55) |
+| JIA ACR30 Flare | 18 (78.3)    | 21 (36.2)   | 12 (44.4)    | 9 (16.4)    |
 
 <div style=\"page-break-after: always\"></div>
 
-| JIA ACR30 Flare    | 18 (78.3)   | 21 (36.2)   | 12 (44.4)   | 9 (16.4)   |
-|--------------------|-------------|-------------|-------------|------------|
-| JIA ACR30 Response | 6 (26.1)    | 38 (65.5)   | 15 (55.6)   | 46 (83.6)  |
-| JIA ACR50 Response | 5 (21.7)    | 37 (63.8)   | 14 (51.9)   | 46 (83.6)  |
-| JIA ACR70 Response | 2 (8.7)     | 32 (55.2)   | 13 (48.1)   | 40 (72.7)  |
-| JIA ACR90 Response | 2 (8.7)     | 17 (29.3)   | 5 (18.5)    | 32 (58.2)  |
+| JIA ACR30 Response   | 6 (26.1)   | 38 (65.5)   | 15 (55.6)   | 46 (83.6)   |
+|----------------------|------------|-------------|-------------|-------------|
+| JIA ACR50 Response   | 5 (21.7)   | 37 (63.8)   | 14 (51.9)   | 46 (83.6)   |
+| JIA ACR70 Response   | 2 (8.7)    | 32 (55.2)   | 13 (48.1)   | 40 (72.7)   |
+| JIA ACR90 Response   | 2 (8.7)    | 17 (29.3)   | 5 (18.5)    | 32 (58.2)   |
 
 Patients randomised to tocilizumab had fewer ACR30 flares and higher overall ACR responses than patients receiving placebo regardless of a history of prior biologic use.
 
@@ -1063,15 +1069,13 @@ The European Medicines Agency has deferred the obligation to submit the results 
 
 The pharmacokinetics of tocilizumab were determined using a population pharmacokinetic analysis on  a database composed of 3 552 RA patients treated with a one-hour infusion of 4 or 8 mg/kg tocilizumab every 4 weeks for 24 weeks or with 162 mg tocilizumab given subcutaneously either once a week or every other week for 24 weeks.
 
-The following parameters (predicted mean ± SD) were estimated for a dose of 8 mg/kg tocilizumab given every 4 weeks: steady-state area under curve (AUC) = 38 000 ± 13 000 h µg/mL, trough concentration (Cmin) = 15.9 ± 13.1 µ g/mL and maximum concentration (Cmax) = 182 ± 50.4 µg/mL, and the accumulation ratios for AUC and Cmax were small, 1.32 and 1.09, respectively. The accumulation ratio was higher for Cmin (2.49), which was expected based on the non-linear clearance contribution at lower concentrations. Steady-state was reached following the first administration for Cmax and after 8 and 20 weeks for AUC and Cmin, respectively. Tocilizumab AUC, Cmin and Cmax increased with increase of body weight. At body weight ≥ 100 kg, the predicted mean (± SD) steadystate AUC, Cmin and Cmax of tocilizumab were 50 000 ± 16 800 μg·h/mL, 24.4 ± 17.5 μg/mL, and 226 ± 50.3 μg/mL, respectively, which are higher than mean exposure values for the patient population (i.e. all body weights) reported above. The dose-response curve for tocilizumab flattens at higher exposure, resulting in smaller efficacy gains for each incremental increase in tocilizumab concentration such that clinically meaningful increases in efficacy were not demonstrated in patients treated with &gt; 800 mg of tocilizumab. Therefore, tocilizumab doses exceeding 800 mg per infusion are
+The following parameters (predicted mean ± SD) were estimated for a dose of 8 mg/kg tocilizumab given every 4 weeks: steady-state area under curve (AUC) = 38 000 ± 13 000 h µg/mL, trough concentration (Cmin) = 15.9 ± 13.1 µ g/mL and maximum concentration (Cmax) = 182 ± 50.4 µg/mL, and the accumulation ratios for AUC and Cmax were small, 1.32 and 1.09, respectively. The accumulation ratio was higher for Cmin (2.49), which was expected based on the non-linear clearance contribution at lower concentrations. Steady-state was reached following the first administration for Cmax and after 8 and 20 weeks for AUC and Cmin, respectively. Tocilizumab AUC, Cmin and Cmax increased with increase of body weight. At body weight ≥ 100 kg, the predicted mean (± SD) steadystate AUC, Cmin and Cmax of tocilizumab were 50 000 ± 16 800 μg·h/mL, 24.4 ± 17.5 μg/mL, and 226 ± 50.3 μg/mL, respectively, which are higher than mean exposure values for the patient population (i.e. all body weights) reported above. The dose-response curve for tocilizumab flattens at higher exposure, resulting in smaller efficacy gains for each incremental increase in tocilizumab concentration such that clinically meaningful increases in efficacy were not demonstrated in patients treated with &gt; 800 mg of tocilizumab. Therefore, tocilizumab doses exceeding 800 mg per infusion are not recommended (see section 4.2).
 
 <div style=\"page-break-after: always\"></div>
 
-not recommended (see section 4.2).
-
 ## COVID-19 Patients
 
-The pharmacokinetics of tocilizumab was characterized using a population pharmacokinetic analysis of a database composed of 380 adult COVID-19 patients in Study WA42380 (COVACTA) and Study CA42481 (MARIPOSA) that treated with a single infusion of 8 mg/kg tocilizumab or two infusions separated by at least 8 hours. The following parameters (predicted mean+SD) were estimated for a dose of 8 mg/kg tocilizumab: area under curve over 28 days (AUC0-28) = 18 312 (5 184) hour·µg/mL, concentration at Day 28 (Cday28) = 0.934 (1.93) µg/mL and maximum concentration (Cmax) = 154 (34.9) µg/mL. The AUC0-28, Cday28 and Cmax, following two doses of 8 mg/kg tocilizumab  separated by 8 hours, were also estimated (predicted mean +SD): 42 240 (11 520) hour·µg/mL and 8.94 (8.5) µg/mL, and 296 (64.7) µg/mL respectively.
+The pharmacokinetics of tocilizumab was characterized using a population pharmacokinetic analysis of a database composed of 380 adult COVID-19 patients in Study WA42380 (COVACTA) and Study CA42481 (MARIPOSA) that treated with a single infusion of 8 mg/kg tocilizumab or two infusions separated by at least 8 hours. The following parameters (predicted mean+SD) were estimated for a dose of 8 mg/kg tocilizumab: area under curve over 28 days (AUC0-28) = 18 312 (5 184) hour·µg/mL, concentration at Day 28 (Cday28) = 0.934 (1.93) µg/mL and maximum concentration (Cmax) = 154 (34.9) µg/mL. The AUC0-28, Cday28 and Cmax, following two doses of 8 mg/kg tocilizumab separated by 8 hours, were also estimated (predicted mean +SD): 42 240 (11 520) hour·µg/mL and 8.94 (8.5) µg/mL, and 296 (64.7) µg/mL respectively.
 
 ## Distribution
 
@@ -1081,9 +1085,9 @@ In COVID-19 adult patients, the central volume of distribution was 4.52 L, the p
 
 ## Elimination
 
-Following intravenous administration, tocilizumab undergoes a dual elimination from the circulation, one following a linear clearance and one following a concentration-dependent non-linear clearance. In RA patients, the linear clearance was 9.5 mL/h. In COVID-19 adult patients, the linear clearance was 17.6 mL/h in patients with baseline ordinal scale category 3 (OS 3, patients requiring supplemental oxygen), 22.5 mL/h in patients with baseline OS 4 (patients requiring high-flow oxygen or noninvasive ventilation), 29 mL/h in patients with baseline OS 5 (patients requiring mechanical ventilation), and 35.4 mL/h in patients with baseline OS 6 (patients requiring extracorporeal membrane oxygenation (ECMO) or mechanical ventilation and additional organ support). The concentration-dependent non-linear clearance plays a major role at low tocilizumab concentrations. Once the non-linear clearance pathway is saturated, at higher tocilizumab concentrations, clearance is mainly determined by the linear clearance.
+Following intravenous administration, tocilizumab undergoes a dual elimination from the circulation, one following a linear clearance and one following a concentration-dependent non-linear clearance. In RA patients, the linear clearance was 9.5 mL/h. In COVID-19 adult patients, the linear clearance was 17.6 mL/h in patients with baseline ordinal scale category 3 (OS 3, patients requiring supplemental oxygen), 22.5 mL/h in patients with baseline OS 4 (patients requiring high-flow oxygen or non-invasive ventilation), 29 mL/h in patients with baseline OS 5 (patients requiring mechanical  ventilation), and 35.4 mL/h in patients with baseline OS 6 (patients requiring extracorporeal  membrane oxygenation (ECMO) or mechanical ventilation and additional organ support). The  concentration-dependent nonlinear clearance plays a major role at low tocilizumab concentrations.  Once the non-linear clearance pathway is saturated, at higher tocilizumab concentrations, clearance is  mainly determined by the linear clearance.
 
-In RA patients, the t1/2  of tocilizumab was concentration-dependent. At steady-state following a dose of 8 mg/kg every 4 weeks, the effective t1/2 decreased with decreasing concentrations within a dosing interval from 18 days to 6 days.
+In RA patients, the t1/2 of tocilizumab was concentration-dependent. At steady-state following a dose  of 8 mg/kg every 4 weeks, the effective t1/2 decreased with decreasing concentrations within a dosing interval from 18 days to 6 days.
 
 In COVID-19 patients, serum concentrations were below the limit of quantification after 35 days on average following one infusion of tocilizumab IV 8 mg/kg.
 
@@ -1097,7 +1101,7 @@ Renal impairment: No formal study of the effect of renal impairment on the pharm
 
 Hepatic impairment: No formal study of the effect of hepatic impairment on the pharmacokinetics of tocilizumab has been conducted.
 
-Age, gender and ethnicity : Population pharmacokinetic analyses in RA and COVID-19 patients, showed that age, gender and ethnic origin did not affect the pharmacokinetics of tocilizumab.
+Age, gender and ethnicity: Population pharmacokinetic analyses in RA and COVID-19 patients, showed that age, gender and ethnic origin did not affect the pharmacokinetics of tocilizumab.
 
 <div style=\"page-break-after: always\"></div>
 
@@ -1109,7 +1113,7 @@ The pharmacokinetics of tocilizumab were determined using a population pharmacok
 
 Table 11. Predicted mean ± SD PK parameters at steady-state after IV dosing in sJIA
 
-| Tocilizumab PK Parameter       | 8 mg/kgQ2W ≥ 30 kg   | 12 mg/kgQ2W below 30 kg   |
+| TocilizumabPK Parameter        | 8 mg/kgQ2W ≥ 30 kg   | 12 mg/kgQ2W below 30 kg   |
 |--------------------------------|----------------------|---------------------------|
 | C max (µg/mL)                  | 256 ± 60.8           | 274 ± 63.8                |
 | C trough (µg/mL)               | 69.7 ± 29.1          | 68.4 ± 30.0               |
@@ -1130,7 +1134,7 @@ The pharmacokinetics of tocilizumab in pJIA patients was characterized by a popu
 
 Table 12. Predicted mean ± SD PK parameters at steady-state after IV dosing in pJIA
 
-| Tocilizumab PK Parameter       | 8 mg/kgQ4W ≥ 30 kg   | 10 mg/kgQ4W below 30 kg   |
+| TocilizumabPK Parameter        | 8 mg/kgQ4W ≥ 30 kg   | 10 mg/kgQ4W below 30 kg   |
 |--------------------------------|----------------------|---------------------------|
 | C max (µg/mL)                  | 183 ± 42.3           | 168 ± 24.8                |
 | C trough (µg/mL)               | 6.55 ± 7.93          | 1.47 ± 2.44               |
@@ -1171,9 +1175,13 @@ This medicinal product must not be mixed with other medicinal products except th
 
 Unopened vial : 3 years
 
-Diluted product : After dilution, the prepared solution for infusion is physically and chemically stable in sodium chloride 9 mg/mL (0.9%) or 4.5 mg/mL (0.45%) solution for injection. It can be stored for 48 hours at 30ºC  and  for up to 1 month in a refrigerator at 2°C -8°C. From a microbiological point of view, the prepared solution for infusion should be used immediately. If not used immediately, in use storage times and conditions prior to use are the responsibility of the user and would normally not be longer than 24 hours at 2°C-8°C, unless dilution has taken place in controlled and validated aseptic conditions.
+The unopened vial may be stored at temperatures up to a maximum of 25°C for a single period of up to 5 weeks. If necessary, the vial may be returned to the refrigerator once within these 5 weeks and stored refrigerated until the expiry date. The vial must be protected from light and discarded if not used within the 5-week period.
+
+Diluted product : After dilution, the prepared solution for infusion is physically and chemically stable in sodium chloride 9 mg/mL (0.9%) or 4.5 mg/mL (0.45%) solution for injection.
 
 <div style=\"page-break-after: always\"></div>
+
+It can be stored for 48 hours at 30ºC  and  for up to 1 month in a refrigerator at 2°C -8°C. From a microbiological point of view, the prepared solution for infusion should be used immediately. If not used immediately, in use storage times and conditions prior to use are the responsibility of the user and would normally not be longer than 24 hours at 2°C-8°C, unless dilution has taken place in controlled and validated aseptic conditions.
 
 ## 6.4 Special precautions for storage
 
@@ -1197,7 +1205,7 @@ Parenteral medicinal products should be inspected visually for particulate matte
 
 ## RA, CRS Patients (≥ 30 kg) and COVID-19
 
-Withdraw a volume of sterile, non-pyrogenic sodium chloride 9 mg/mL (0.9%) or 4.5 mg/mL (0.45%) solution for injection  from a 100 mL infusion bag, equal to the volume of Avtozma concentrate required for the patients  dose, under aseptic conditions. The required amount of Avtozma concentrate (0.4 mL/kg) should be  withdrawn from the vial and placed in the 100 mL infusion bag. This should be a final volume of 100 mL. To mix the solution, gently invert the infusion bag to avoid foaming.
+Withdraw a volume of sterile, non-pyrogenic sodium chloride 9 mg/mL (0.9%) or 4.5 mg/mL (0.45%) solution for injection from a 100 mL infusion bag, equal to the volume of Avtozma concentrate required for the patients dose, under aseptic conditions. The required amount of Avtozma concentrate (0.4 mL/kg) should be withdrawn from the vial and placed in the 100 mL infusion bag. This should be a final volume of 100 mL. To mix the solution, gently invert the infusion bag to avoid foaming.
 
 ## Use in the paediatric population
 
@@ -1207,17 +1215,19 @@ Withdraw a volume of sterile, non-pyrogenic sodium chloride 9 mg/mL (0.9%) or 4.
 
 ## sJIA and CRS Patients &lt; 30 kg
 
-Withdraw a volume of sterile, non-pyrogenic sodium chloride 9 mg/mL (0.9%) or 4.5 mg/mL (0.45%) solution for injection  from a 50 mL infusion bag, equal to the volume of Avtozma concentrate required for the patients  dose, under aseptic conditions. The required amount of Avtozma concentrate ( 0.6 mL/kg ) should be  withdrawn from the vial and placed in the 50 mL infusion bag. This should be a final volume of 50 mL. To mix the solution, gently invert the infusion bag to avoid foaming.
+Withdraw a volume of sterile, non-pyrogenic sodium chloride 9 mg/mL (0.9%) or 4.5 mg/mL (0.45%) solution for injection  from a 50 mL infusion bag, equal to the volume of Avtozma concentrate required for the patients  dose, under aseptic conditions. The required amount of Avtozma concentrate ( 0.6 mL/kg ) should be withdrawn from the vial and placed in the 50 mL infusion bag. This should be a final volume of 50 mL. To mix the solution, gently invert the infusion bag to avoid foaming.
 
 ## pJIA Patients &lt; 30 kg
 
-Withdraw a volume of sterile, non-pyrogenic sodium chloride 9 mg/mL (0.9%) or 4.5 mg/mL (0.45%) solution for injection  from a 50 mL infusion bag, equal to the volume of Avtozma concentrate required for the patients  dose, under aseptic conditions. The required amount of Avtozma concentrate ( 0.5 mL/kg ) should be  withdrawn from the vial and placed in the 50 mL infusion bag. This should be a final volume of 50 mL. To mix the solution, gently invert the infusion bag to avoid foaming.
-
-## Avtozma is for single-use only.
-
-Any unused product or waste material should be disposed of in accordance with local requirements.
+Withdraw a volume of sterile, non-pyrogenic sodium chloride 9 mg/mL (0.9%) or 4.5 mg/mL (0.45%) solution for injection  from a 50 mL infusion bag, equal to the volume of Avtozma concentrate required for the patients  dose, under aseptic conditions. The required amount of Avtozma concentrate ( 0.5 mL/kg ) should be withdrawn from the vial and placed in the 50 mL infusion bag. This should be a
 
 <div style=\"page-break-after: always\"></div>
+
+final volume of 50 mL. To mix the solution, gently invert the infusion bag to avoid foaming.
+
+Avtozma is for single-use only.
+
+Any unused product or waste material should be disposed of in accordance with local requirements.
 
 ## 7. MARKETING AUTHORISATION HOLDER
 
@@ -1245,7 +1255,7 @@ This medicinal product is subject to additional monitoring. This will allow quic
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
-Avtozma 162 mg solution for injection in pre-filled syringe.
+Avtozma 162 mg solution for injection in pre-filled syringe
 
 ## 2. QUALITATIVE AND QUANTITATIVE COMPOSITION
 
@@ -1255,7 +1265,7 @@ Tocilizumab is a recombinant humanized, anti-human monoclonal antibody of the im
 
 ## Excipients with known effect:
 
-Polysorbate
+## Polysorbate
 
 Each 162 mg pre-filled syringe contains 0.2 mg of polysorbate 80.
 
@@ -1280,15 +1290,13 @@ Avtozma, in combination with methotrexate (MTX), is indicated for
 
 In these patients, Avtozma can be given as monotherapy in case of intolerance to MTX or where continued treatment with MTX is inappropriate.
 
-Avtozma has been shown to reduce the rate of progression of joint damage as measured by X-ray  and to improve physical function when given in combination with methotrexate.
+Avtozma has been shown to reduce the rate of progression of joint damage as measured by X-ray and to improve physical function when given in combination with methotrexate.
 
 ## Systemic juvenile idiopathic arthritis (sJIA)
 
-Avtozma is indicated for the treatment of active systemic juvenile idiopathic arthritis (sJIA) in patients 1 year of age and older, who have responded inadequately to previous therapy with NSAIDs and systemic corticosteroids. Avtozma can be given as monotherapy (in case of intolerance to MTX
+Avtozma is indicated for the treatment of active systemic juvenile idiopathic arthritis (sJIA) in patients 1 year of age and older, who have responded inadequately to previous therapy with NSAIDs and systemic corticosteroids. Avtozma can be given as monotherapy (in case of intolerance to MTX or where treatment with MTX is inappropriate) or in combination with MTX.
 
 <div style=\"page-break-after: always\"></div>
-
-or where treatment with MTX is inappropriate) or in combination with MTX.
 
 ## Polyarticular juvenile idiopathic arthritis (pJIA)
 
@@ -1302,13 +1310,13 @@ Avtozma is indicated for the treatment of Giant Cell Arteritis (GCA) in adult pa
 
 Tocilizumab SC formulation is administered with a single-use pre-filled syringe with needle safety device.  Treatment should be  initiated by healthcare professionals experienced in the diagnosis and treatment of RA, sJIA, pJIA and / or GCA.
 
-The first injection should be performed under the supervision of a qualified health care  professional. A patient or parent/guardian can self-inject Avtozma only if the physician determines  that it is appropriate and the patient or parent/guardian agrees to medical follow-up as necessary and  has been trained in proper injection technique.
+The first injection should be performed under the supervision of a qualified health care professional. A patient or parent/guardian can self-inject Avtozma only if the physician determines that it is appropriate and the patient or parent/guardian agrees to medical follow-up as necessary and has been trained in proper injection technique.
 
 Patients who transition from tocilizumab IV therapy to SC administration should administer the first SC dose at the time of the next scheduled IV dose under the supervision of a qualified health care professional.
 
 All patients treated with Avtozma should be given the Patient Alert Card.
 
-Suitability of the patient or parent/guardian for subcutaneous home use should be assessed and patients  or parent/guardian instructed to inform a healthcare professional before administering the next dose if  they experience symptoms of an allergic reaction. Patients should seek immediate medical attention if  developing symptoms of serious allergic reactions (see section 4.4).
+Suitability of the patient or parent/guardian for subcutaneous home use should be assessed and patients or parent/guardian instructed to inform a healthcare professional before administering the next dose if they experience symptoms of an allergic reaction. Patients should seek immediate medical attention if developing symptoms of serious allergic reactions (see section 4.4).
 
 ## Posology
 
@@ -1330,9 +1338,9 @@ Based upon the chronic nature of GCA, treatment beyond 52 weeks should be guided
 
 Dose adjustments due to laboratory abnormalities (see section 4.4).
 
-<div style=\"page-break-after: always\"></div>
+- Liver enzyme abnormalities
 
-## · Liver enzyme abnormalities
+<div style=\"page-break-after: always\"></div>
 
 | Laboratory Value                       | Action                                                                                                                                                                                                                                                                                                                                                                                |
 |----------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -1357,13 +1365,13 @@ In patients not previously treated with tocilizumab, initiation is not recommend
 | 50 to 100                              | Interrupt Avtozma dosing. When platelet count > 100 x 10 3 /μL resume Avtozma dosing every other week and increase to every week injection as clinically appropriate. |
 | < 50                                   | Discontinue Avtozma.                                                                                                                                                  |
 
-RA and GCA Missed dose
+## RA and GCA
 
-If a patient misses a subcutaneous weekly injection of Avtozma within 7 days of the scheduled dose, he/she should be instructed to take the missed dose on the next scheduled day. If a patient misses a subcutaneous once every other week injection of Avtozma within 7 days of the scheduled dose, he/she should be instructed to take the missed dose immediately and the next dose on the next
+Missed dose
+
+If a patient misses a subcutaneous weekly injection of Avtozma within 7 days of the scheduled dose, he/she should be instructed to take the missed dose on the next scheduled day. If a patient misses a subcutaneous once every other week injection of Avtozma within 7 days of the scheduled dose, he/she should be instructed to take the missed dose immediately and the next dose on the next scheduled day.
 
 <div style=\"page-break-after: always\"></div>
-
-scheduled day.
 
 ## Special populations
 
@@ -1373,7 +1381,7 @@ No dose adjustment is required in elderly patients &gt; 65 years of age.
 
 ## Renal impairment:
 
-No dose adjustment is required in patients with mild or moderate renal impairment. Avtozma has not been studied in patients with severe renal impairment (see section 5.2). Renal function should be  monitored closely in these patients.
+No dose adjustment is required in patients with mild or moderate renal impairment. Avtozma has not been studied in patients with severe renal impairment (see section 5.2). Renal function should be monitored closely in these patients.
 
 ## Hepatic impairment:
 
@@ -1383,7 +1391,7 @@ Avtozma has not been studied in patients with hepatic impairment. Therefore, no 
 
 The safety and efficacy of Avtozma subcutaneous formulation in children from birth to less than 1 year have not been established. No data are available.
 
-A change in dose should only be based on a consistent change in the patient's body weight over time.  Avtozma can be used alone or in combination with MTX.
+A change in dose should only be based on a consistent change in the patient's body weight over time. Avtozma can be used alone or in combination with MTX.
 
 ## sJIA Patients
 
@@ -1393,23 +1401,21 @@ Patients must have a minimum body weight of 10 kg when receiving Avtozma subcuta
 
 ## pJIA Patients:
 
-The recommended posology in patients above 2 years of age is subcutaneous 162 mg once every 2 weeks in patients weighing greater than or equal to 30 kg or subcutaneous 162 mg once every 3 weeks  in patients weighing less than 30 kg.
+The recommended posology in patients above 2 years of age is subcutaneous 162 mg once every 2 weeks in patients weighing greater than or equal to 30 kg or subcutaneous 162 mg once every 3 weeks in patients weighing less than 30 kg.
 
 ## Dose adjustments due to laboratory abnormalities (sJIA and pJIA)
 
-If appropriate, the dose of concomitant MTX and/or other medications should be modified or dosing stopped and tocilizumab dosing interrupted until the clinical situation has been evaluated. As there are  many co-morbid conditions that may affect laboratory values in sJIA or pJIA, the decision to discontinue tocilizumab for a laboratory abnormality should be based upon the medical assessment of  the individual patient.
+If appropriate, the dose of concomitant MTX and/or other medications should be modified or dosing stopped and tocilizumab dosing interrupted until the clinical situation has been evaluated. As there are many co-morbid conditions that may affect laboratory values in sJIA or pJIA, the decision to discontinue tocilizumab for a laboratory abnormality should be based upon the medical assessment of the individual patient.
 
 ## · Liver enzyme abnormalities
 
-| Laboratory Value    | Action                                                                                                                                         |
-|---------------------|------------------------------------------------------------------------------------------------------------------------------------------------|
-| > 1 to 3 x ULN      | Modify the dose of the concomitantMTX if appropriate. For persistent increases in this range, interrupt Avtozma until ALT/AST have normalized. |
-| > 3 x ULN to 5x ULN | Modify the dose of the concomitantMTX if appropriate. Interrupt Avtozma dosing until < 3x ULNandfollow recommendations above for >1 to 3x ULN. |
+| Laboratory Value    | Action                                                                                                                                                                     |
+|---------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| > 1 to 3 x ULN      | Modify the dose of the concomitantMTX if appropriate. For persistent increases in this range, interrupt Avtozma until ALT/AST have normalized.                             |
+| > 3 x ULN to 5x ULN | Modify the dose of the concomitantMTX if appropriate. Interrupt Avtozma dosing until < 3x ULNandfollowrecommendations above for >1 to 3x ULN.                              |
+| > 5x ULN            | Discontinue Avtozma. The decision to discontinue Avtozma in sJIA or pJIA for a laboratory abnormality should be based on the medical assessment of the individual patient. |
 
 <div style=\"page-break-after: always\"></div>
-
-| > 5x ULN   | Discontinue Avtozma. The decision to discontinue Avtozma in sJIA or pJIA for a laboratory abnormality should be based on the medical assessment of the individual patient.   |
-|------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 
 ## · Low absolute neutrophil count (ANC)
 
@@ -1428,25 +1434,25 @@ If appropriate, the dose of concomitant MTX and/or other medications should be m
 
 Reduction of tocilizumab dosing frequency due to laboratory abnormalities has not been studied in sJIA or pJIA patients.
 
-The safety and efficacy of Avtozma subcutaneous formulation in children with conditions other than  sJIA or pJIA have not been established.
+The safety and efficacy of Avtozma subcutaneous formulation in children with conditions other than sJIA or pJIA have not been established.
 
-Available data with the IV formulation suggest that clinical improvement is observed within 12 weeks  of initiation of treatment with tocilizumab. Continued therapy should be carefully reconsidered in a  patient exhibiting no improvement within this timeframe.
+Available data with the IV formulation suggest that clinical improvement is observed within 12 weeks of initiation of treatment with tocilizumab. Continued therapy should be carefully reconsidered in a patient exhibiting no improvement within this timeframe.
 
 ## Missed dose
 
 If a sJIA patient misses a subcutaneous weekly injection of Avtozma within 7 days of the scheduled dose, he/she should be instructed to take the missed dose on the next scheduled day. If a patient misses a subcutaneous once every 2 week injection of Avtozma within 7 days of the scheduled dose, he/she should be instructed to take the missed dose immediately and the next dose on the next scheduled day.
 
-If a pJIA patient misses a subcutaneous injection of Avtozma within 7 days of the scheduled dose, he/she should take the missed dose as soon as they remember and take the next dose at the regular
-
-<div style=\"page-break-after: always\"></div>
-
-scheduled time. If a patient misses a subcutaneous injection of Avtozma by more than 7 days of the scheduled dose or is unsure when to inject Avtozma, call the doctor or pharmacist.
+If a pJIA patient misses a subcutaneous injection of Avtozma within 7 days of the scheduled dose, he/she should take the missed dose as soon as they remember and take the next dose at the regular scheduled time. If a patient misses a subcutaneous injection of Avtozma by more than 7 days of the scheduled dose or is unsure when to inject Avtozma, call the doctor or pharmacist.
 
 ## Method of administration
 
 Avtozma is for subcutaneous use.
 
-After proper training in injection technique, patients may self-inject with Avtozma if their physician determines that it is appropriate. The total content (0.9 mL) of the pre-filled syringe should be administered as a subcutaneous injection. The recommended injection sites (abdomen, thigh and upper  arm) should be rotated and injections should never be given into moles, scars, or areas where the skin  is tender, bruised, red, hard, or not intact.
+After proper training in injection technique, patients may self-inject with Avtozma if their physician determines that it is appropriate. The total content (0.9 mL) of the pre-filled syringe should be
+
+<div style=\"page-break-after: always\"></div>
+
+administered as a subcutaneous injection. The recommended injection sites (abdomen, thigh and upper arm) should be rotated and injections should never be given into moles, scars, or areas where the skin is tender, bruised, red, hard, or not intact.
 
 The pre-filled syringe should not be shaken.
 
@@ -1472,13 +1478,11 @@ In order to improve the traceability of biological medicinal products, the name 
 
 Serious and sometimes fatal infections have been reported in patients receiving immunosuppressive agents including tocilizumab (see section 4.8, Undesirable effects). Avtozma treatment must not be initiated in patients with active infections (see section 4.3). Administration of tocilizumab should be interrupted if a patient develops a serious infection until the infection is controlled (see section 4.8). Healthcare professionals should exercise caution when considering the use of Avtozma in patients with a history of recurring or chronic infections or with underlying conditions (e.g.) diverticulitis, diabetes and interstitial lung disease which may predispose patients to infections.
 
-Vigilance for the timely detection of serious infection is recommended for patients receiving immunosuppressive agents such as Avtozma as signs and symptoms of acute inflammation may be lessened, due to suppression of the acute phase reactants. The effects of tocilizumab on C-reactive protein (CRP), neutrophils and signs and symptoms of infection should be considered when evaluating  a patient for a potential infection. Patients (which includes younger children with sJIA or pJIA who  may be less able to communicate their symptoms) and parents/guardians of sJIA or pJIA patients,  should be instructed to contact their healthcare professional immediately when any symptoms  suggesting infection appear, in order to assure rapid evaluation and appropriate treatment.
+Vigilance for the timely detection of serious infection is recommended for patients receiving immunosuppressive agents such as Avtozma as signs and symptoms of acute inflammation may be lessened, due to suppression of the acute phase reactants. The effects of tocilizumab on C-reactive protein (CRP), neutrophils and signs and symptoms of infection should be considered when evaluating a patient for a potential infection. Patients (which includes younger children with sJIA or pJIA who may be less able to communicate their symptoms) and parents/guardians of sJIA or pJIA patients, should be instructed to contact their healthcare professional immediately when any symptoms suggesting infection appear, in order to assure rapid evaluation and appropriate treatment.
 
 ## Tuberculosis
 
-As recommended for other biological treatments, all patients should be screened for latent tuberculosis  (TB) infection prior to starting Avtozma therapy. Patients with latent TB should be treated with  standard anti-mycobacterial therapy before initiating Avtozma. Prescribers are reminded of the risk  of false negative tuberculin skin and interferon-gamma TB blood test results, especially in patients  who are severely ill or immunocompromised.
-
-<div style=\"page-break-after: always\"></div>
+As recommended for other biological treatments, all patients should be screened for latent tuberculosis (TB) infection prior to starting Avtozma therapy. Patients with latent TB should be treated with standard anti-mycobacterial therapy before initiating Avtozma. Prescribers are reminded of the risk of false negative tuberculin skin and interferon-gamma TB blood test results, especially in patients who are severely ill or immunocompromised.
 
 Patients and parents/guardians of sJIA or pJIA patients should be advised to seek medical advice if signs/symptoms (e.g., persistent cough, wasting/weight loss, low grade (fever) suggestive of a tuberculosis infection occur during or after therapy with Avtozma.
 
@@ -1486,13 +1490,15 @@ Patients and parents/guardians of sJIA or pJIA patients should be advised to see
 
 Viral reactivation (e.g. hepatitis B virus) has been reported with biologic therapies for RA. In clinical studies with tocilizumab, patients who screened positive for hepatitis were excluded.
 
+<div style=\"page-break-after: always\"></div>
+
 ## Complications of diverticulitis
 
 Events of diverticular perforations as complications of diverticulitis have been reported uncommonly in patients treated with tocilizumab (see section 4.8). Avtozma should be used with caution in patients with previous history of intestinal ulceration or diverticulitis. Patients presenting with symptoms potentially indicative of complicated diverticulitis, such as abdominal pain, haemorrhage and/or unexplained change in bowel habits with fever should be evaluated promptly for early identification of diverticulitis which can be associated with gastrointestinal perforation.
 
 ## Hypersensitivity reactions
 
-Serious hypersensitivity reactions, including anaphylaxis have been reported in association with tocilizumab (see section 4.8). Such reactions may be more severe, and potentially fatal in patients who  have experienced hypersensitivity reactions during previous treatment with Avtozma even if they  have received premedication with steroids and antihistamines. If an anaphylactic reaction or other  serious hypersensitivity reaction occurs, administration of Avtozma should be stopped immediately,  appropriate therapy initiated and Avtozma should be permanently discontinued.
+Serious hypersensitivity reactions, including anaphylaxis have been reported in association with tocilizumab (see section 4.8). Such reactions may be more severe, and potentially fatal in patients who have experienced hypersensitivity reactions during previous treatment with Avtozma even if they have received premedication with steroids and antihistamines. If an anaphylactic reaction or other serious hypersensitivity reaction occurs, administration of Avtozma should be stopped immediately, appropriate therapy initiated and Avtozma should be permanently discontinued.
 
 ## Active hepatic disease and hepatic impairment
 
@@ -1502,7 +1508,7 @@ Treatment with tocilizumab, particularly when administered concomitantly with MT
 
 Transient or intermittent mild and moderate elevations of hepatic transaminases have been reported commonly with tocilizumab treatment (see section 4.8). An increased frequency of these elevations was observed when potentially hepatotoxic drugs (e.g. MTX) were used in combination with tocilizumab. When clinically indicated, other liver function tests including bilirubin should be considered.
 
-Serious drug-induced liver injury, including acute liver failure, hepatitis and jaundice, have been observed with tocilizumab (see section 4.8). Serious hepatic injury occurred between 2 weeks to more  than 5 years after initiation of tocilizumab. Cases of liver failure resulting in liver transplantation have  been reported. Patients should be advised to immediately seek medical help if they experience signs and symptoms of hepatic injury.
+Serious drug-induced liver injury, including acute liver failure, hepatitis and jaundice, have been observed with tocilizumab (see section 4.8). Serious hepatic injury occurred between 2 weeks to more  than 5 years after initiation of tocilizumab. Cases of liver failure resulting in liver transplantation have been reported. Patients should be advised to immediately seek medical help if they experience signs and symptoms of hepatic injury.
 
 Caution should be exercised when considering initiation of Avtozma treatment in patients with elevated ALT or AST &gt; 1.5 x ULN. In patients with baseline ALT or AST &gt; 5 x ULN, treatment is not  recommended.
 
@@ -1512,13 +1518,13 @@ In RA, GCA, pJIA and sJIA patients, ALT/AST should be monitored every 4 to 8 wee
 
 Decreases in neutrophil and platelet counts have occurred following treatment with tocilizumab 8 mg/kg in combination with MTX (see section 4.8). There may be an increased risk of neutropenia in patients who have previously been treated with a TNF antagonist.
 
-In patients not previously treated with tocilizumab, initiation is not recommended in patients with an
+In patients not previously treated with tocilizumab, initiation is not recommended in patients with an ANC below 2 x 10 9 /L. Caution should be exercised when considering initiation of Avtozma treatment in patients with a low platelet count (i.e. platelet count below 100 x 10 3 /μL). In patients who develop an ANC &lt; 0.5 x 10 9 /L or a platelet count &lt; 50 x 10 3 /μL, continued treatment is not recommended.
+
+Severe neutropenia may be associated with an increased risk of serious infections, although there has been no clear association between decreases in neutrophils and the occurrence of serious infections in
 
 <div style=\"page-break-after: always\"></div>
 
-ANC below 2 x 10 9 /L. Caution should be exercised when considering initiation of Avtozma treatment in patients with a low platelet count (i.e. platelet count below 100 x 10 3 /μL). In patients who  develop an ANC &lt; 0.5 x 10 9 /L or a platelet count &lt; 50 x 10 3 /μL, continued treatment is not recommended.
-
-Severe neutropenia may be associated with an increased risk of serious infections, although there has been no clear association between decreases in neutrophils and the occurrence of serious infections in clinical trials with tocilizumab to date.
+clinical trials with tocilizumab to date.
 
 In RA and GCA patients, neutrophils and platelets should be monitored 4 to 8 weeks after start of therapy and thereafter according to standard clinical practice. For recommended dose modifications based on ANC and platelet counts, see section 4.2.
 
@@ -1526,9 +1532,9 @@ In sJIA and pJIA patients, neutrophils and platelets should be monitored at the 
 
 ## Lipid parameters
 
-Elevations in lipid parameters including total cholesterol, low-density lipoprotein (LDL), highdensity lipoprotein (HDL) and triglycerides were observed in patients treated with tocilizumab (see section  4.8). In the majority of patients, there was no increase in atherogenic indices, and elevations in total  cholesterol responded to treatment with lipid lowering agents.
+Elevations in lipid parameters including total cholesterol, low-density lipoprotein (LDL), highdensity lipoprotein (HDL) and triglycerides were observed in patients treated with tocilizumab (see section 4.8). In the majority of patients, there was no increase in atherogenic indices, and elevations in total cholesterol responded to treatment with lipid lowering agents.
 
-In all patients, assessment of lipid parameters should be performed 4 to 8 weeks following initiation of  Avtozma therapy. Patients should be managed according to local clinical guidelines for management of hyperlipidaemia.
+In all patients, assessment of lipid parameters should be performed 4 to 8 weeks following initiation of Avtozma therapy. Patients should be managed according to local clinical guidelines for management of hyperlipidaemia.
 
 ## Neurological disorders
 
@@ -1540,7 +1546,7 @@ The risk of malignancy is increased in patients with RA. Immunomodulatory medici
 
 ## Vaccinations
 
-Live and live attenuated vaccines should not be given concurrently with Avtozma as clinical safety has not been established. In a randomised open-label study, adult RA patients treated with tocilizumab  and MTX were able to mount an effective response to both the 23-valent pneumococcal polysaccharide  and tetanus toxoid vaccines which was comparable to the response seen in patients on MTX only. It is recommended that all patients particularly paediatric or elderly patients, be brought up to date with all immunisations in agreement with current immunisation guidelines prior to initiating Avtozma therapy. The interval between live vaccinations and initiation of Avtozma therapy  should be in accordance with current vaccination guidelines regarding immunosuppressive agents.
+Live and live attenuated vaccines should not be given concurrently with Avtozma as clinical safety has not been established. In a randomised open-label study, adult RA patients treated with tocilizumab and MTX were able to mount an effective response to both the 23-valent pneumococcal polysaccharide and tetanus toxoid vaccines which was comparable to the response seen in patients on MTX only. It is recommended that all patients particularly paediatric or elderly patients, be brought up to date with all immunisations in agreement with current immunisation guidelines prior to initiating Avtozma therapy. The interval between live vaccinations and initiation of Avtozma therapy should be in accordance with current vaccination guidelines regarding immunosuppressive agents.
 
 ## Cardiovascular risk
 
@@ -1554,17 +1560,15 @@ There is no experience with the use of Avtozma with TNF antagonists or other bio
 
 Avtozma monotherapy should not be used for the treatment of acute relapses as efficacy in this setting has not been established. Glucocorticoids should be given according to medical judgement and  practice guidelines.
 
-<div style=\"page-break-after: always\"></div>
-
 ## sJIA
 
 Macrophage activation syndrome (MAS) is a serious life-threatening disorder that may develop in sJIA patients. In clinical trials, tocilizumab has not been studied in patients during an episode of active  MAS.
 
 ## Excipients with known effect
 
-## Polysorbate
+Polysorbate Each 162 mg pre-filled syringe contains 0.2 mg of polysorbate 80.
 
-Each 162 mg pre-filled syringe contains 0.2 mg of polysorbate 80.
+<div style=\"page-break-after: always\"></div>
 
 Polysorbates may cause allergic reactions. Patients with polysorbate allergy should not take this medicine.
 
@@ -1578,9 +1582,9 @@ Population pharmacokinetic analyses did not detect any effect of MTX, non-steroi
 
 The expression of hepatic CYP450 enzymes is suppressed by cytokines, such as IL-6, that stimulate chronic inflammation. Thus, CYP450 expression may be reversed when potent cytokine inhibitory therapy, such as Avtozma, is introduced.
 
-In vitro studies with cultured human hepatocytes demonstrated that IL-6 caused a reduction in CYP1A2, CYP2C9, CYP2C19, and CYP3A4 enzyme expression. tocilizumab normalises expression  of these enzymes.
+In vitro studies with cultured human hepatocytes demonstrated that IL-6 caused a reduction in CYP1A2, CYP2C9, CYP2C19, and CYP3A4 enzyme expression. tocilizumab normalises expression of these enzymes.
 
-In a study in RA patients, levels of simvastatin (CYP3A4) were decreased by 57% one week following  a single dose of tocilizumab, to the level similar to, or slightly higher than, those observed in healthy  subjects.
+In a study in RA patients, levels of simvastatin (CYP3A4) were decreased by 57% one week following a single dose of tocilizumab, to the level similar to, or slightly higher than, those observed in healthy subjects.
 
 When starting or stopping therapy with tocilizumab, patients taking medicinal products which are individually adjusted and are metabolised via CYP450 3A4, 1A2 or 2C9 (e.g. methylprednisolone, dexamethasone, (with the possibility for oral glucocorticoid withdrawal syndrome), atorvastatin, calcium channel blockers, theophylline, warfarin, phenprocoumon, phenytoin, ciclosporin, or benzodiazepines) should be monitored as doses may need to be increased to maintain therapeutic effect. Given its long elimination half-life (t1/2), the effect of tocilizumab on CYP450 enzyme activity may persist for several weeks after stopping therapy.
 
@@ -1598,9 +1602,7 @@ Avtozma should not be used during pregnancy unless clearly necessary.
 
 ## Breast-feeding
 
-<div style=\"page-break-after: always\"></div>
-
-It is unknown whether tocilizumab is excreted in human breast milk. The excretion of Avtozma in milk has not been studied in animals. A decision on whether to continue/discontinue breast-feeding or  to continue/discontinue therapy with Avtozma should be made taking into account the benefit of breast-feeding to the child and the benefit of Avtozma therapy to the woman.
+It is unknown whether tocilizumab is excreted in human breast milk. The excretion of Avtozma in milk has not been studied in animals. A decision on whether to continue/discontinue breast-feeding or to continue/discontinue therapy with Avtozma should be made taking into account the benefit of breast-feeding to the child and the benefit of Avtozma therapy to the woman.
 
 ## Fertility
 
@@ -1608,13 +1610,15 @@ Available non-clinical data do not suggest an effect on fertility under Avtozma 
 
 ## 4.7 Effects on ability to drive and use machines
 
+<div style=\"page-break-after: always\"></div>
+
 Tocilizumab has a minor influence on the ability to drive and use machines (see section 4.8, dizziness).
 
 ## 4.8 Undesirable effects
 
 ## Summary of the safety profile
 
-The safety profile comes from 4 510 patients exposed to tocilizumab in clinical trials; the majority of these patients were participating in adult RA studies (n=4 009), while the remaining experience comes  from GCA (n=149), pJIA (n=240) and sJIA (n=112) studies. The safety profile of tocilizumab across  these indications remains similar and undifferentiated.
+The safety profile comes from 4 510 patients exposed to tocilizumab in clinical trials; the majority of these patients were participating in adult RA studies (n=4 009), while the remaining experience comes from GCA (n=149), pJIA (n=240) and sJIA (n=112) studies. The safety profile of tocilizumab across these indications remains similar and undifferentiated.
 
 The most commonly reported Adverse Drug Reactions (ADRs) were upper respiratory tract infections, nasopharyngitis, headache, hypertension and increased ALT.
 
@@ -1626,24 +1630,24 @@ ADRs from clinical trials and/or post marketing experience with tocilizumab base
 
 Table 1. List of ADRs occurring in patients treated with tocilizumab
 
-| MedDRA System Organ                  | Frequency categories with preferred terms   | Frequency categories with preferred terms                 | Frequency categories with preferred terms   | Frequency categories with preferred terms   |
-|--------------------------------------|---------------------------------------------|-----------------------------------------------------------|---------------------------------------------|---------------------------------------------|
-| Class                                | Very common                                 | Common                                                    | Uncommon                                    | Rare                                        |
-| Infections and infestations          | Upper respiratory tract infections          | Cellulitis, Pneumonia, Oral herpes simplex, Herpes zoster | Diverticulitis                              |                                             |
-| Blood and lymphatic system disorders |                                             | Leukopenia, Neutropenia, Hypofibrinogenae mia             |                                             |                                             |
-| Immune system disorders              |                                             |                                                           |                                             | Anaphylaxis (fatal) 1, 2 ,3                 |
-| Endocrine disorders                  |                                             |                                                           | Hypothyroidism                              |                                             |
-| Metabolism and nutrition disorders   | Hypercholesterola emia*                     |                                                           | Hypertriglyceridae mia                      |                                             |
+| MedDRA System Organ                             | Frequency categories with preferred terms   | Frequency categories with preferred terms                 | Frequency categories with preferred terms   | Frequency categories with preferred terms   |
+|-------------------------------------------------|---------------------------------------------|-----------------------------------------------------------|---------------------------------------------|---------------------------------------------|
+| Class                                           | Very common                                 | Common                                                    | Uncommon                                    | Rare                                        |
+| Infections and infestations                     | Upper respiratory tract infections          | Cellulitis, Pneumonia, Oral herpes simplex, Herpes zoster | Diverticulitis                              |                                             |
+| Blood and lymphatic system disorders            |                                             | Leukopenia, Neutropenia, Hypofibrinogenae mia             |                                             |                                             |
+| Immune system disorders                         |                                             |                                                           |                                             | Anaphylaxis (fatal) 1, 2 ,3                 |
+| Endocrine disorders                             |                                             |                                                           | Hypothyroidism                              |                                             |
+| Metabolism and nutrition disorders              | Hypercholesterola emia*                     |                                                           | Hypertriglyceridae mia                      |                                             |
+| Nervous system disorders                        |                                             | Headache, Dizziness                                       |                                             |                                             |
+| Eye disorders                                   |                                             | Conjunctivitis                                            |                                             |                                             |
+| Vascular disorders                              |                                             | Hypertension                                              |                                             |                                             |
+| Respiratory, thoracic and mediastinal disorders |                                             | Cough, Dyspnoea                                           |                                             |                                             |
 
 <div style=\"page-break-after: always\"></div>
 
-| MedDRA                                               | Frequency categories with preferred terms   | Frequency categories with preferred terms                | Frequency categories with preferred terms   | Frequency categories with preferred terms                                  |
+| MedDRA System Organ                                  | Frequency categories with preferred terms   | Frequency categories with preferred terms                | Frequency categories with preferred terms   | Frequency categories with preferred terms                                  |
 |------------------------------------------------------|---------------------------------------------|----------------------------------------------------------|---------------------------------------------|----------------------------------------------------------------------------|
-| System Organ Class                                   | Very common                                 | Common                                                   | Uncommon                                    | Rare                                                                       |
-| Nervous system disorders                             |                                             | Headache, Dizziness                                      |                                             |                                                                            |
-| Eye disorders                                        |                                             | Conjunctivitis                                           |                                             |                                                                            |
-| Vascular disorders                                   |                                             | Hypertension                                             |                                             |                                                                            |
-| Respiratory, thoracic and mediastinal disorders      |                                             | Cough, Dyspnoea                                          |                                             |                                                                            |
+| Class                                                | Very common                                 | Common                                                   | Uncommon                                    | Rare                                                                       |
 | Gastrointestinal disorders                           |                                             | Abdominal pain, Mouth ulceration, Gastritis              | Stomatitis, Gastric ulcer                   |                                                                            |
 | Hepatobiliary disorders                              |                                             |                                                          |                                             | Drug-induced liver injury, Hepatitis, Jaundice, Very rare: Hepatic failure |
 | Skin and subcutaneous tissue disorders               |                                             | Rash, Pruritus, Urticaria                                |                                             | Stevens-Johnson- Syndrome 3                                                |
@@ -1663,21 +1667,21 @@ Table 1. List of ADRs occurring in patients treated with tocilizumab
 
 ## RA
 
-The safety of subcutaneous tocilizumab in RA includes a double-blind, controlled, multicenter study,  SC-I. SC-I was a non-inferiority study that compared the efficacy and safety of tocilizumab 162 mg  administered every week versus 8 mg/kg intravenous in 1 262 patients with RA. All patients received  background non-biologic DMARD(s). The safety and immunogenicity observed for tocilizumab  administered subcutaneous was consistent with the known safety profile of intravenous tocilizumab  and no new or unexpected adverse drug reactions were observed (see Table 1). A higher frequency of  injection site reactions was observed in the subcutaneous arms compared with placebo subcutaneous  injections in the intravenous arms.
+The safety of subcutaneous tocilizumab in RA includes a double-blind, controlled, multicenter study, SC-I. SC-I was a non-inferiority study that compared the efficacy and safety of tocilizumab 162 mg  administered every week versus 8 mg/kg intravenous in 1 262 patients with RA. All patients received  background non-biologic DMARD(s). The safety and immunogenicity observed for tocilizumab  administered subcutaneous was consistent with the known safety profile of intravenous tocilizumab  and no new or unexpected adverse drug reactions were observed (see Table 1). A higher frequency of  injection site reactions was observed in the subcutaneous arms compared with placebo subcutaneous  injections in the intravenous arms.
 
 ## Injection site reactions
 
-During the 6-month controlled period, in SC-I, the frequency of injection site reactions was 10.1%  (64/631) and 2.4% (15/631) for the subcutaneous tocilizumab and the subcutaneous placebo  (intravenous group) weekly injections, respectively. These injection site reactions (including  erythema, pruritus, pain and haematoma) were mild to moderate in severity. The majority was  resolved without any treatment and none necessitated drug discontinuation.
-
-<div style=\"page-break-after: always\"></div>
+During the 6-month controlled period, in SC-I, the frequency of injection site reactions was 10.1% (64/631) and 2.4% (15/631) for the subcutaneous tocilizumab and the subcutaneous placebo (intravenous group) weekly injections, respectively. These injection site reactions (including  erythema, pruritus, pain and haematoma) were mild to moderate in severity. The majority was  resolved without any treatment and none necessitated drug discontinuation.
 
 ## Haematological abnormalities:
 
 ## Neutrophils
 
-During routine laboratory monitoring in the tocilizumab 6 month controlled clinical trial SC-I, a decrease in neutrophil count below 1 × 10 9 /L occurred in 2.9% of patients on the subcutaneous weekly  dose.
+During routine laboratory monitoring in the tocilizumab 6 month controlled clinical trial SC-I, a decrease in neutrophil count below 1 × 109/L occurred in 2.9% of patients on the subcutaneous weekly dose.
 
-There was no clear relationship between decreases in neutrophils below 1 x 10 9 /L and the occurrence  of serious infections.
+There was no clear relationship between decreases in neutrophils below 1 x 109/L and the occurrence of serious infections.
+
+<div style=\"page-break-after: always\"></div>
 
 ## Platelets
 
@@ -1689,7 +1693,7 @@ During routine laboratory monitoring in the tocilizumab 6-month controlled clini
 
 ## Lipid parameters
 
-During routine laboratory monitoring in the tocilizumab 6 month controlled clinical trial SC-I, 19% of  patients experienced sustained elevations in total cholesterol &gt; 6.2 mmol/L (240 mg/dL), with 9%  experiencing a sustained increase in LDL to ≥ 4.1 mmol/L(160 mg/dL) on the subcutaneous weekly  dose.
+During routine laboratory monitoring in the tocilizumab 6 month controlled clinical trial SC-I, 19% of patients experienced sustained elevations in total cholesterol &gt; 6.2 mmol/L (240 mg/dL), with 9% experiencing a sustained increase in LDL to ≥ 4.1 mmol/L (160 mg/dL) on the subcutaneous weekly dose.
 
 ## sJIA (SC)
 
@@ -1713,9 +1717,7 @@ In the 52-week open-label SC Study (WA28118), 23.4% and 35.4% of patients experi
 
 ## pJIA (SC)
 
-The safety profile of subcutaneous tocilizumab was also evaluated in 52 paediatric patients with pJIA.  The total patient exposure to tocilizumab in the pJIA all exposure population was 184.4 patient years  for IV and 50.4 patient years for SC tocilizumab. In general, the safety profile observed in patients  with pJIA was consistent with the known safety profile of tocilizumab with the exception of ISRs (see  Table 1). A higher frequency of pJIA patients experienced ISRs following SC tocilizumab injections  compared to adult RA.
-
-<div style=\"page-break-after: always\"></div>
+The safety profile of subcutaneous tocilizumab was also evaluated in 52 paediatric patients with pJIA. The total patient exposure to tocilizumab in the pJIA all exposure population was 184.4 patient years for IV and 50.4 patient years for SC tocilizumab. In general, the safety profile observed in patients with pJIA was consistent with the known safety profile of tocilizumab with the exception of ISRs (see Table 1). A higher frequency of pJIA patients experienced ISRs following SC tocilizumab injections compared to adult RA.
 
 ## Infections
 
@@ -1723,7 +1725,11 @@ In the SC tocilizumab study, the rate of infection in pJIA patients treated with
 
 ## Injection Site Reactions
 
-A total of 28.8% (15/52) pJIA patients experienced ISRs to tocilizumab SC. These ISRs occurred in a  44% of patients ≥3 0 kg compared to 14.8% of patients below 30 kg. The most common ISRs were injection site erythema, swelling, hematoma, pain and pruritis. All ISRs reported were non-serious Grade 1 events, and none of the ISRs required patient withdrawal from treatment or dose interruption.
+A total of 28.8% (15/52) pJIA patients experienced ISRs to tocilizumab SC. These ISRs occurred in a 44% of patients ≥30 kg compared to 14.8% of patients below 30 kg. The most common ISRs were injection site erythema, swelling, hematoma, pain and pruritis. All ISRs reported were non-serious
+
+<div style=\"page-break-after: always\"></div>
+
+Grade 1 events, and none of the ISRs required patient withdrawal from treatment or dose interruption.
 
 ## Laboratory Abnormalities
 
@@ -1731,11 +1737,11 @@ During routine laboratory monitoring in the tocilizumab all exposure population,
 
 ## Lipid parameters
 
-In the SC Study, 14.3% and 12.8% of patients experienced a post-baseline elevation of their LDLcholesterol value to ≥ 130 mg/dL and total cholesterol value to ≥ 200 mg/dL at any time during study  treatment, respectively.
+In the SC Study, 14.3% and 12.8% of patients experienced a post-baseline elevation of their LDLcholesterol value to ≥ 130 mg/dL and total chole sterol value to ≥ 200 mg/dL at any time during study treatment, respectively.
 
 ## GCA (SC)
 
-The safety of subcutaneous tocilizumab has been studied in one Phase III study (WA28119) with 251  GCA patients. The total patient years duration in the tocilizumab all exposure population was 138.5  patient years during the 12 month double blind, placebo controlled phase of the study. The overall  safety profile observed in the tocilizumab treatment groups was consistent with the known safety  profile of tocilizumab (see Table 1).
+The safety of subcutaneous tocilizumab has been studied in one Phase III study (WA28119) with 251  GCA patients. The total patient years duration in the tocilizumab all exposure population was 138.5 patient years during the 12 month double blind, placebo controlled phase of the study. The overall safety profile observed in the tocilizumab treatment groups was consistent with the known safety profile of tocilizumab (see Table 1).
 
 ## Infections
 
@@ -1749,7 +1755,7 @@ In the tocilizumab subcutaneous weekly group, a total of 6% (6/100) patients rep
 
 ## Neutrophils
 
-During routine laboratory monitoring in the tocilizumab 12 month controlled clinical trial, a decrease in  neutrophil count below 1 × 10 9 /L occurred in 4% of patients in the tocilizumab subcutaneous weekly  group. This was not observed in either of the placebo plus prednisone taper groups.
+During routine laboratory monitoring in the tocilizumab 12 month controlled clinical trial, a decrease in  neutrophil count below 1 × 10 9 /L occurred in 4% of patients in the tocilizumab subcutaneous weekly group. This was not observed in either of the placebo plus prednisone taper groups.
 
 ## Platelets
 
@@ -1757,15 +1763,15 @@ During routine laboratory monitoring in the tocilizumab 12 month controlled clin
 
 ## Hepatic transaminase elevations
 
-During routine laboratory monitoring in the tocilizumab 12 month controlled clinical trial, elevation in  ALT ≥3 x ULN occurred in 3% of patients in the tocilizumab subcutaneous  weekly group
-
-<div style=\"page-break-after: always\"></div>
-
-compared  to  2% in the placebo plus 52 week prednisone taper group and none in the placebo plus 26 week  prednisone taper group. An elevation in AST &gt; 3 ULN occurred in 1% of patients in the tocilizumab  subcutaneous weekly group, compared to no patients in either of the placebo plus prednisone taper  groups.
+During routine laboratory monitoring in the tocilizumab 12 month controlled clinical trial, elevation in ALT ≥3 x ULN occurred in 3% of patients in the tocilizumab subcutaneous  weekly group compared to  2% in the placebo plus 52 week prednisone taper group and none in the placebo plus 26 week prednisone taper group. An elevation in AST &gt; 3 ULN occurred in 1% of patients in the tocilizumab subcutaneous weekly group, compared to no patients in either of the placebo plus prednisone taper groups.
 
 ## Lipid parameters
 
-During routine laboratory monitoring in the tocilizumab 12 month controlled clinical trial, 34% of patients experienced sustained elevations in total cholesterol &gt; 6.2 mmol/L  (240 mg/dL), with 15% experiencing a sustained increase in LDL to ≥ 4.1 mmol/L (160 mg/dL) in the tocilizumab subcutaneous weekly group.
+During routine laboratory monitoring in the tocilizumab 12 month controlled clinical trial, 34% of patients experienced sustained elevations in total cholesterol &gt; 6.2 mmol/L  (240 mg/dL), with 15% experiencing a sustained increase in LDL to ≥ 4.1 mmol/L (160 mg/dL) in the tocilizumab
+
+<div style=\"page-break-after: always\"></div>
+
+subcutaneous weekly group.
 
 ## Intravenous use
 
@@ -1773,9 +1779,9 @@ During routine laboratory monitoring in the tocilizumab 12 month controlled clin
 
 The safety of tocilizumab has been studied in 5 Phase III, double-blind controlled trials and their extension periods.
 
-The all control population includes all patients from the double-blind phases of each core study from randomisation until either the first change in the treatment regimen, or two years is reached. The control period in 4 of the studies was 6 months and in 1 study was up to 2 years. In the double-blind controlled studies 774 patients received tocilizumab 4 mg/kg in combination with MTX, 1 870 patients  received tocilizumab 8 mg/kg in combination with MTX/other DMARDs and 288 patients received  tocilizumab 8 mg/kg monotherapy.
+The all control population includes all patients from the double-blind phases of each core study from randomisation until either the first change in the treatment regimen, or two years is reached. The control period in 4 of the studies was 6 months and in 1 study was up to 2 years. In the double-blind controlled studies 774 patients received tocilizumab 4 mg/kg in combination with MTX, 1 870 patients received tocilizumab 8 mg/kg in combination with MTX/other DMARDs and 288 patients received tocilizumab 8 mg/kg monotherapy.
 
-The all exposure population includes all patients who received at least one dose of tocilizumab either in the double-blind control period or open label extension phase in studies. Of the 4 009 patients in this  population, 3 577 received treatment for at least 6 months, 3 296 for at least one year; 2 806 received  treatment for at least 2 years and 1 222 for 3 years.
+The all exposure population includes all patients who received at least one dose of tocilizumab either in the double-blind control period or open label extension phase in studies. Of the 4 009 patients in this population, 3 577 received treatment for at least 6 months, 3 296 for at least one year; 2 806 received  treatment for at least 2 years and 1 222 for 3 years.
 
 Description of selected adverse reactions
 
@@ -1783,31 +1789,31 @@ Description of selected adverse reactions
 
 In the 6-month controlled studies the rate of all infections reported with tocilizumab 8 mg/kg plus DMARD treatment was 127 events per 100 patient years compared to 112 events per 100 patient years  in the placebo plus DMARD group. In the long-term exposure population, the overall rate of infections with tocilizumab was 108 events per 100 patient years exposure.
 
-In 6-month controlled clinical studies, the rate of serious infections with tocilizumab 8 mg/kg plus DMARDs was 5.3 events per 100 patient years exposure compared to 3.9 events per 100 patient years  exposure in the placebo plus DMARD group. In the monotherapy study the rate of serious infections  was 3.6 events per 100 patient years of exposure in the tocilizumab group and 1.5 events per
+In 6-month controlled clinical studies, the rate of serious infections with tocilizumab 8 mg/kg plus DMARDs was 5.3 events per 100 patient years exposure compared to 3.9 events per 100 patient years  exposure in the placebo plus DMARD group. In the monotherapy study the rate of serious infections  was 3.6 events per 100 patient years of exposure in the tocilizumab group and 1.5 events per 100 patient years of exposure in the MTX group.
 
-100 patient years of exposure in the MTX group.
-
-In the all exposure population the overall rate of serious infections was 4.7 events per 100 patient years.  Reported serious infections, some with fatal outcome, included pneumonia, cellulitis, herpes zoster,  gastroenteritis, diverticulitis, sepsis, bacterial arthritis. Cases of opportunistic infections have also been  reported.
+In the all exposure population the overall rate of serious infections was 4.7 events per 100 patient years. Reported serious infections, some with fatal outcome, included pneumonia, cellulitis, herpes zoster, gastroenteritis, diverticulitis, sepsis, bacterial arthritis. Cases of opportunistic infections have also been reported.
 
 ## Interstitial lung disease
 
-Impaired lung function may increase the risk for developing infections. There have been postmarketing reports of interstitial lung disease (including pneumonitis and pulmonary fibrosis), some of  which had fatal outcomes.
+Impaired lung function may increase the risk for developing infections. There have been postmarketing reports of interstitial lung disease (including pneumonitis and pulmonary fibrosis), some of which had fatal outcomes.
 
 ## Gastrointestinal perforation
 
-During the 6-month controlled clinical trials, the overall rate of gastrointestinal perforation was 0.26 events per 100 patient years with tocilizumab therapy. In the long-term exposure population the  overall rate of gastrointestinal perforation was 0.28 events per 100 patient years. Reports of  gastrointestinal perforation on tocilizumab were primarily reported as complications of diverticulitis  including
-
-<div style=\"page-break-after: always\"></div>
-
-generalised purulent peritonitis, lower gastrointestinal perforation, fistulae and abscess.
+During the 6-month controlled clinical trials, the overall rate of gastrointestinal perforation was 0.26 events per 100 patient years with tocilizumab therapy. In the long-term exposure population the overall rate of gastrointestinal perforation was 0.28 events per 100 patient years. Reports of gastrointestinal perforation on tocilizumab were primarily reported as complications of diverticulitis including generalised purulent peritonitis, lower gastrointestinal perforation, fistulae and abscess.
 
 ## Infusion Related Reactions
 
-In the 6-month controlled trials adverse events associated with infusion (selected events occurring during or within 24 hours of infusion) were reported by 6.9% of patients in the tocilizumab 8 mg/kg plus DMARD group and 5.1% of patients in the placebo plus DMARD group. Events reported during  the infusion were primarily episodes of hypertension; events reported within 24 hours of finishing an  infusion were headache and skin reactions (rash, urticaria). These events were not treatment limiting.
+In the 6-month controlled trials adverse events associated with infusion (selected events occurring during or within 24 hours of infusion) were reported by 6.9% of patients in the tocilizumab 8 mg/kg plus DMARD group and 5.1% of patients in the placebo plus DMARD group. Events reported during the infusion were primarily episodes of hypertension; events reported within 24 hours of finishing an infusion were headache and skin reactions (rash, urticaria). These events were not treatment limiting.
 
-The rate of anaphylactic reactions (occurring in a total of 6/3 778patients, 0.2%) was several fold higher with the 4 mg/kg dose, compared to the 8 mg/kg dose. Clinically significant hypersensitivity reactions associated with tocilizumab and requiring treatment discontinuation were reported in a total of 13 out of 3 778 patients (0.3%) treated with tocilizumab  during the controlled and open label clinical studies. These reactions were generally observed during the second to fifth infusions of tocilizumab (see section 4.4). Fatal anaphylaxis has been reported after marketing authorisation during  treatment with intravenous tocilizumab (see section 4.4).
+The rate of anaphylactic reactions (occurring in a total of 6/3 778patients, 0.2%) was several fold
 
-## Haematological abnormalities: Neutrophils
+<div style=\"page-break-after: always\"></div>
+
+higher with the 4 mg/kg dose, compared to the 8 mg/kg dose. Clinically significant hypersensitivity reactions associated with tocilizumab and requiring treatment discontinuation were reported in a total of 13 out of 3 778 patients (0.3%) treated with tocilizumab during the controlled and open label clinical studies. These reactions were generally observed during the second to fifth infusions of tocilizumab (see section 4.4). Fatal anaphylaxis has been reported after marketing authorisation during treatment with intravenous tocilizumab (see section 4.4).
+
+## Haematological abnormalities:
+
+## Neutrophils
 
 In the 6-month controlled trials decreases in neutrophil counts below 1 x 10 9 /L occurred in 3.4% of patients on tocilizumab 8 mg/kg plus DMARDs compared to &lt; 0.1% of patients on placebo plus DMARDs. Approximately half of the patients who developed an ANC &lt; 1 x 10 9 /L did so within 8 weeks after starting therapy. Decreases below 0.5 x 10 9 /L were reported in 0.3% patients receiving tocilizumab 8 mg/kg plus DMARDs. Infections with neutropenia have been reported.
 
@@ -1817,31 +1823,31 @@ During the double-blind controlled period and with long-term exposure, the patte
 
 In the 6-month controlled trials decreases in platelet counts below 100 x 10 3 /μL occurred in 1.7% of patients on tocilizumab 8 mg/kg plus DMARDs compared to &lt; 1% on placebo plus DMARDs. These decreases occurred without associated bleeding events.
 
-During the double-blind controlled period and with long-term exposure, the pattern and incidence of decreases in platelet counts remained consistent with what was seen in the 6-month controlled clinical  trials.
+During the double-blind controlled period and with long-term exposure, the pattern and incidence of decreases in platelet counts remained consistent with what was seen in the 6-month controlled clinical trials.
 
 Very rare reports of pancytopenia have occurred in the post marketing setting.
 
 ## Hepatic transaminase elevations
 
-During the 6-month controlled trials transient elevations in ALT/AST &gt; 3 x ULN were observed in 2.1% of patients on tocilizumab  8 mg/kg compared to 4.9% of patients on MTX and in 6.5% of patients who received 8 mg/kg tocilizumab  plus DMARDs compared to 1.5% of patients on placebo plus DMARDs.
+During the 6-month controlled trials transient elevations in ALT/AST &gt; 3 x ULN were observed in 2.1% of patients on tocilizumab 8 mg/kg compared to 4.9% of patients on MTX and in 6.5% of patients who received 8 mg/kg tocilizumab plus DMARDs compared to 1.5% of patients on placebo plus DMARDs.
 
-The addition of potentially hepatotoxic drugs (e.g. MTX) to tocilizumab monotherapy resulted in increased frequency of these elevations. Elevations of ALT/AST &gt; 5 x ULN were observed in 0.7% of  tocilizumab monotherapy patients and 1.4% of tocilizumab plus DMARD patients, the majority of  whom were discontinued permanently from tocilizumab treatment. During the double-blind controlled period, the incidence of indirect bilirubin greater than the upper limit of normal, collected as a routine  laboratory parameter, is 6.2% in patients treated with 8 mg/kg tocilizumab + DMARD. A total of  5.8% of patients experienced an elevation of indirect bilirubin of &gt; 1 to 2 x ULN and 0.4% had an  elevation of &gt; 2 x ULN.
+The addition of potentially hepatotoxic drugs (e.g. MTX) to tocilizumab monotherapy resulted in increased frequency of these elevations. Elevations of ALT/AST &gt; 5 x ULN were observed in 0.7% of tocilizumab monotherapy patients and 1.4% of tocilizumab plus DMARD patients, the majority of whom were discontinued permanently from tocilizumab treatment. During the double-blind controlled period, the incidence of indirect bilirubin greater than the upper limit of normal, collected as a routine laboratory parameter, is 6.2% in patients treated with 8 mg/kg tocilizumab + DMARD. A total of 5.8% of patients experienced an elevation of indirect bilirubin of &gt; 1 to 2 x ULN and 0.4% had an elevation of &gt; 2 x ULN.
 
-During the double-blind controlled period and with long-term exposure, the pattern and incidence of elevation in ALT/AST remained consistent with what was seen in the 6-month controlled clinical
-
-<div style=\"page-break-after: always\"></div>
-
-trials.
+During the double-blind controlled period and with long-term exposure, the pattern and incidence of elevation in ALT/AST remained consistent with what was seen in the 6-month controlled clinical trials.
 
 ## Lipid parameters
 
 During the 6-month controlled trials, increases of lipid parameters such as total cholesterol, triglycerides, LDL cholesterol, and/or HDL cholesterol have been reported commonly. With routine laboratory monitoring it was seen that approximately 24% of patients receiving tocilizumab in clinical trials experienced sustained elevations in total cholesterol ≥ 6.2 mmol/L, with 15% experiencing a  sustained increase in LDL to ≥ 4.1 mmol/L. Elevations in lipid parameters responded to treatment  with lipid-lowering agents.
 
-During the double-blind controlled period and with long-term exposure, the pattern and incidence of elevations in lipid parameters remained consistent with what was seen in the 6-month controlled trials.
+During the double-blind controlled period and with long-term exposure, the pattern and incidence of
+
+<div style=\"page-break-after: always\"></div>
+
+elevations in lipid parameters remained consistent with what was seen in the 6-month controlled trials.
 
 ## Malignancies
 
-The clinical data are insufficient to assess the potential incidence of malignancy following exposure to  tocilizumab. Long-term safety evaluations are ongoing.
+The clinical data are insufficient to assess the potential incidence of malignancy following exposure to tocilizumab. Long-term safety evaluations are ongoing.
 
 ## Skin Reactions
 
@@ -1873,15 +1879,17 @@ Avtozma is a biosimilar medicinal product. Detailed information is available on 
 
 Tocilizumab binds specifically to both soluble and membrane-bound IL-6 receptors (sIL-6R and mIL-6R). Tocilizumab has been shown to inhibit sIL-6R and mIL-6R-mediated signalling. IL-6 is a pleiotropic pro-inflammatory cytokine produced by a variety of cell types including T- and B-cells, monocytes and fibroblasts. IL-6 is involved in diverse physiological processes such as T-cell activation, induction of immunoglobulin secretion, induction of hepatic acute phase protein synthesis and stimulation of haemopoiesis. IL-6 has been implicated in the pathogenesis of diseases including inflammatory diseases, osteoporosis and neoplasia.
 
-<div style=\"page-break-after: always\"></div>
-
 ## Pharmacodynamic effects
 
-In clinical studies with tocilizumab, rapid decreases in CRP, erythrocyte sedimentation rate (ESR),  serum amyloid A (SAA) and fibrinogen were observed. Consistent with the effect on acute phase  reactants, treatment with tocilizumab was associated with reduction in platelet count within the normal  range. Increases in haemoglobin levels were observed, through tocilizumab decreasing the IL-6 driven  effects on hepcidin production to increase iron availability. In tocilizumab-treated patients, decreases  in the levels of CRP to within normal ranges were seen as early as week 2, with decreases maintained  while on treatment.
+In clinical studies with tocilizumab, rapid decreases in CRP, erythrocyte sedimentation rate (ESR), serum amyloid A (SAA) and fibrinogen were observed. Consistent with the effect on acute phase reactants, treatment with tocilizumab was associated with reduction in platelet count within the normal range. Increases in haemoglobin levels were observed, through tocilizumab decreasing the IL-6 driven effects on hepcidin production to increase iron availability. In tocilizumab-treated patients, decreases in the levels of CRP to within normal ranges were seen as early as week 2, with decreases maintained while on treatment.
 
-In GCA clinical study WA28119, similar rapid decreases in CRP and ESR were observed along with  slight increases in mean corpuscular haemoglobin concentration. In healthy subjects administered  tocilizumab in doses from 2 to 28 mg/kg intravenously and 81 to 162 mg subcutaneously, absolute  neutrophil counts decreased to their lowest 2 to 5 days following administration. Thereafter,  neutrophils recovered towards baseline in a dose dependent manner.
+In GCA clinical study WA28119, similar rapid decreases in CRP and ESR were observed along with slight increases in mean corpuscular haemoglobin concentration. In healthy subjects administered
 
-Patients demonstrate a comparable (to healthy subjects) decrease of absolute neutrophil counts  following tocilizumab administration (see section 4.8).
+<div style=\"page-break-after: always\"></div>
+
+tocilizumab in doses from 2 to 28 mg/kg intravenously and 81 to 162 mg subcutaneously, absolute neutrophil counts decreased to their lowest 2 to 5 days following administration. Thereafter, neutrophils recovered towards baseline in a dose dependent manner.
+
+Patients demonstrate a comparable (to healthy subjects) decrease of absolute neutrophil counts following tocilizumab administration (see section 4.8).
 
 ## Subcutaneous use
 
@@ -1891,11 +1899,11 @@ Patients demonstrate a comparable (to healthy subjects) decrease of absolute neu
 
 The efficacy of subcutaneous administered tocilizumab in alleviating the signs and symptoms of RA  and radiographic response, was assessed in two randomised, double-blind, controlled, multi-center  studies. For study I (SC-I), patients were required to be &gt;18 years of age with moderate to severe  active RA diagnosed according to ACR criteria who had at least 4 tender and 4 swollen joints at  baseline. All patients received background non-biologic DMARD(s). For study II (SC-II), patients  were required to be &gt; 18 years of age with moderate to severe active RA diagnosed according to ACR  criteria who had at least 8 tender and 6 swollen joints at baseline.
 
-Switching from 8 mg/kg intravenous once every 4 weeks to 162 mg subcutaneous once every week, will alter  exposure  in  the  patient. The  extent  varies  with  the  patient's  body weight (increased in light body weight patients and decreased in heavy body weight patients) but clinical outcome is consistent  with that observed in intravenous treated patients.
+Switching from 8 mg/kg intravenous once every 4 weeks to 162 mg subcutaneous once every week, will alter exposure in the patient. The extent varies with the patient's body weight (increased in light body weight patients and decreased in heavy body weight patients) but clinical outcome is consistent with that observed in intravenous treated patients.
 
 ## Clinical response
 
-Study SC-I evaluated patients with moderate to severe active RA who had an inadequate clinical  response to their existing rheumatologic therapy, including one or more DMARD(s) where  approximately 20% had a history of inadequate response to at least one TNF inhibitor. In SC-I,  1 262 patients were randomised 1:1 to receive tocilizumab subcutaneous 162 mg every week or tocilizumab intravenous 8 mg/kg every four weeks in combination with nonbiologic DMARD(s). The  primary endpoint in the study was the difference in the proportion of patients who achieved an ACR20  response at week 24. The results from study SC-I is shown in Table 2.
+Study SC-I evaluated patients with moderate to severe active RA who had an inadequate clinical response to their existing rheumatologic therapy, including one or more DMARD(s) where approximately 20% had a history of inadequate response to at least one TNF inhibitor. In SC-I, 1 262 patients were randomised 1:1 to receive tocilizumab subcutaneous 162 mg every week or tocilizumab intravenous 8 mg/kg every four weeks in combination with non-biologic DMARD(s). The primary endpoint in the study was the difference in the proportion of patients who achieved an ACR20 response at week 24. The results from study SC-I is shown in Table 2.
 
 Table 2. ACR responses in study SC-I (% patients) at Week 24
 
@@ -1905,119 +1913,120 @@ Table 2. ACR responses in study SC-I (% patients) at Week 24
 | ACR20 Week 24                | 69.4%                                  | 73.4%                        |
 | Weighted difference (95% CI) | -4.0 (-9.2, 1.2)                       | -4.0 (-9.2, 1.2)             |
 | ACR50 Week 24                | 47.0%                                  | 48.6%                        |
-| Weighted difference (95% CI) | -1.8 (-7.5, 4.0)                       | -1.8 (-7.5, 4.0)             |
+| Weighted difference (95% CI) | -1.8                                   |                              |
+| ACR70 Week 24                | 24.0%                                  | 27.9%                        |
+| difference (95% CI)          | -3.8                                   |                              |
+| Weighted                     | (-9.0, 1.3)                            | (-9.0, 1.3)                  |
+
+TCZ = tocilizumab
+
+a = Per Protocol Population
+
+Patients in study SC-I had a mean Disease Activity Score (DAS28) at baseline of 6.6 and 6.7 on the subcutaneous and intravenous arms, respectively. At week 24, a significant reduction in DAS28 from  baseline (mean improvement) of 3.5 was observed on both treatment arms, and a comparable proportion of patients had achieved DAS28 clinical remission (DAS28 &lt; 2.6) on the subcutaneous (38.4%) and IV (36.9%) arms.
 
 <div style=\"page-break-after: always\"></div>
 
-| ACR70 Week 24                | 24.0%            | 27.9%   |
-|------------------------------|------------------|---------|
-| Weighted difference (95% CI) | -3.8 (-9.0, 1.3) |         |
+The radiographic response of subcutaneous administered tocilizumab was assessed in a double-blind, controlled, multicenter study in patients with active RA (SC-II). Study SC-II evaluated patients with moderate to severe active RA who had an inadequate clinical response to their existing rheumatologic therapy, including one or more DMARD(s) where approximately 20% had a history of inadequate response to at least one TNF inhibitor. Patients were required to be &gt;18 years of age with active RA diagnosed according to ACR criteria who had at least 8 tender and 6 swollen joints at baseline. In SC-II, 656 patients were randomised 2:1 to tocilizumab subcutaneous 162 mg every other week or placebo, in combination with non-biologic DMARD(s).
 
-TCZ = tocilizumab a = Per Protocol Population
+In study SC-II, inhibition of structural joint damage was assessed radiographically and expressed as a change from baseline in the van der Heijde modified mean total Sharp score (mTSS). At week 24, inhibition of structural damage was shown, with significantly less radiographic progression in patients receiving tocilizumab subcutaneous compared to placebo (mean mTSS of 0.62 vs. 1.23, p=0.0149 (van Elteren). These results are consistent with those observed in patients treated with intravenous tocilizumab.
 
-Patients in study SC-I had a mean Disease Activity Score (DAS28) at baseline of 6.6 and 6.7 on the  subcutaneous and intravenous arms, respectively. At week 24, a significant reduction in DAS28 from  baseline (mean improvement) of 3.5 was observed on both treatment arms, and a comparable  proportion of patients had achieved DAS28 clinical remission (DAS28 &lt; 2.6) on the subcutaneous  (38.4%) and IV (36.9%) arms.
-
-## Radiographic response
-
-The radiographic response of subcutaneous administered tocilizumab was assessed in a double-blind,  controlled, multicenter study in patients with active RA (SC-II). Study SC-II evaluated patients with  moderate to severe active RA who had an inadequate clinical response to their existing rheumatologic  therapy, including one or more DMARD(s) where approximately 20% had a history of inadequate  response to at least one TNF inhibitor. Patients were required to be &gt;18 years of age with active RA  diagnosed according to ACR criteria who had at least 8 tender and 6 swollen joints at baseline. In SC-II, 656 patients were randomised 2:1 to tocilizumab subcutaneous 162 mg every other week or  placebo, in combination with non-biologic DMARD(s).
-
-In study SC-II, inhibition of structural joint damage was assessed radiographically and expressed as a  change from baseline in the van der Heijde modified mean total Sharp score (mTSS). At week 24,  inhibition of structural damage was shown, with significantly less radiographic progression in patients receiving tocilizumab subcutaneous compared to placebo (mean mTSS of 0.62 vs. 1.23, p=0.0149 (van  Elteren). These results are consistent with those observed in patients treated with intravenous  tocilizumab.
-
-In study SC-II, at week 24 there was ACR20 of 60.9%, ACR50 of 39.8% and ACR70 of 19.7% for  patients treated with tocilizumab subcutaneous every other week versus placebo ACR20 of 31.5%,  ACR50 of 12.3% and ACR70 of 5.0%. Patients had mean DAS28 at baseline of 6.7 on subcutaneous  and 6.6 on placebo arms. At week 24, a significant reduction in DAS28 from baseline of 3.1 was  observed on subcutaneous and 1.7 on placebo arm, and for DAS28 &lt; 2.6, 32.0% was observed on  subcutaneous and 4.0% on placebo arm.
+In study SC-II, at week 24 there was ACR20 of 60.9%, ACR50 of 39.8% and ACR70 of 19.7% for patients treated with tocilizumab subcutaneous every other week versus placebo ACR20 of 31.5%, ACR50 of 12.3% and ACR70 of 5.0%. Patients had mean DAS28 at baseline of 6.7 on subcutaneous and 6.6 on placebo arms. At week 24, a significant reduction in DAS28 from baseline of 3.1 was observed on subcutaneous and 1.7 on placebo arm, and for DAS28 &lt; 2.6, 32.0% was observed on subcutaneous and 4.0% on placebo arm.
 
 ## Health-related and quality of life outcomes
 
-In study SC-I, the mean decrease in HAQ-DI from baseline to week 24 was 0.6 on both the subcutaneous and intravenous arms. The proportion of patients achieving a clinically relevant  improvement in HAQ-DI at week 24 (change from baseline of ≥ 0.3 units) was also comparable on the  subcutaneous (65.2%) versus intravenous (67.4%) arms, with a weighted difference in proportions of -  2.3% (95% CI - 8.1, 3.4). For SF-36, the mean change from baseline at week 24 in the mental component score was 6.22 for the subcutaneous arm and 6.54 for the intravenous arm, and for the physical component score was also similar with 9.49 for the subcutaneous arm and 9.65 for the  intravenous arm.
+In study SC-I, the mean decrease in HAQ-DI from baseline to week 24 was 0.6 on both the subcutaneous and intravenous arms. The proportion of patients achieving a clinically relevant improvement in HAQDI at week 24 (change from baseline of ≥ 0.3 units) was also comparable on the subcutaneous (65.2%) versus intravenous (67.4%) arms, with a weighted difference in proportions of - 2.3% (95% CI - 8.1, 3.4). For SF-36, the mean change from baseline at week 24 in the mental component score was 6.22 for the subcutaneous arm and 6.54 for the intravenous arm, and for the physical component score was also similar with 9.49 for the subcutaneous arm and 9.65 for the intravenous arm.
 
-In study SC-II, mean decrease in HAQ-DI from baseline to week 24 was significantly greater for  patients treated with tocilizumab subcutaneous every other week (0.4) versus placebo (0.3). Proportion  of patients achieving a clinically relevant improvement in HAQDI at week 24 (change from baseline  of ≥ 0.3 units) was higher for tocilizumab subcutaneous every other week (58%) versus placebo  (46.8%). SF-36 (mean change in mental and physical component scores) was significantly greater with  tocilizumab subcutaneous group (6.5 and 5.3) versus placebo (3.8 and 2.9).
+In study SC-II, mean decrease in HAQ-DI from baseline to week 24 was significantly greater for patients treated with tocilizumab subcutaneous every other week (0.4) versus placebo (0.3). Proportion  of patients achieving a clinically relevant improvement in HAQ-DI at week 24 (change from baseline of ≥ 0.3 units) was higher for tocilizumab subcutaneous every other week (58%) versus placebo (46.8%). SF-36 (mean change in mental and physical component scores) was significantly greater with  tocilizumab subcutaneous group (6.5 and 5.3) versus placebo (3.8 and 2.9).
 
 ## sJIA (SC)
 
+## Clinical Efficacy
+
+A 52-week, open-label, multi-centre, PK/PD and safety study (WA28118) was conducted in paediatric patients with sJIA, aged 1 to 17 years, to determine the appropriate SC dose of tocilizumab that achieved comparable PK/PD and safety profiles to the IV regimen.
+
+Eligible patients received tocilizumab dosed according to body weight (BW), with patients weighing ≥30 kg (n=26) dosed with 162 mg of tocilizumab every week (QW) and patients weighing below 30 kg (n=25) dosed with 162 mg of tocilizumab every 10 days (Q10D; n=8) or every 2 weeks (Q2W; n=17) for 52 weeks. Of these 51 patients, 26 (51%) were naive to tocilizumab and 25 (49%) had been  receiving tocilizumab IV and switched to tocilizumab SC at baseline.
+
+Exploratory efficacy results showed that tocilizumab SC improved all exploratory efficacy parameters including Juvenile Arthritis Disease Activity Score (JADAS)-71, for TCZ naïve patients and maintained all exploratory efficacy parameters for patients who switched from tocilizumab IV to tocilizumab SC treatment over the entire course of the study for patients in both body weight groups (below 30 kg and ≥30 kg).
+
 <div style=\"page-break-after: always\"></div>
-
-paediatric  patients with sJIA, aged 1 to 17 years, to determine the appropriate SC dose of tocilizumab that  achieved comparable PK/PD and safety profiles to the IV regimen.
-
-Eligible patients received tocilizumab dosed according to body weight (BW), with patients weighing ≥30 kg (n=26) dosed with 162 mg of tocilizumab every week (QW) and patients weighing below 30 kg (n=25) dosed with 162 mg of tocilizumab every 10 days (Q10D; n=8) or every 2 weeks (Q2W;  n=17) for 52 weeks. Of these 51 patients, 26 (51%) were naive to tocilizumab and 25 (49%) had been  receiving tocilizumab IV and switched to tocilizumab SC at baseline.
-
-Exploratory efficacy results showed that tocilizumab SC improved all exploratory efficacy parameters  including Juvenile Arthritis Disease Activity Score (JADAS)-71, for TCZ naïve patients and  maintained all exploratory efficacy parameters for patients who switched from tocilizumab IV to  tocilizumab SC treatment over the entire course of the study for patients in both body weight groups  (below 30 kg and ≥30 kg).
 
 ## pJIA (SC)
 
-A 52-week, open-label, multicenter, PK-PD and safety study was conducted in paediatric patients with  pJIA, aged 1 to 17 years old, to determine the appropriate subcutaneous dose of tocilizumab that  achieved comparable PK/PD and safety profiles to the IV regimen.
+A 52-week, open-label, multicenter, PK-PD and safety study was conducted in paediatric patients with pJIA, aged 1 to 17 years old, to determine the appropriate subcutaneous dose of tocilizumab that achieved comparable PK/PD and safety profiles to the IV regimen.
 
-Eligible patients received tocilizumab dosed according to body weight (BW), with patients weighing ≥ 30 kg (n = 25) dosed with 162 mg of tocilizumab every 2 weeks (Q2W) and patients weighing below 30 kg (n = 27) dosed with 162 mg of tocilizumab every 3 weeks (Q3W) for 52 weeks.  Of these 52 patients, 37 (71%) were naive to tocilizumab and 15 (29%) had been receiving tocilizumab  IV and switched to tocilizumab SC at baseline.
+Eligible patients received tocilizumab dosed according to body weight (BW), with patients weighing ≥ 30 kg (n = 25) dosed with 162 mg of tocilizumab every 2 weeks (Q2W) and patients weighing below 30 kg (n = 27) dosed with 162 mg of tocilizumab every 3 weeks (Q3W) for 52 weeks. Of these 52 patients, 37 (71%) were naive to tocilizumab and 15 (29%) had been receiving tocilizumab IV and switched to tocilizumab SC at baseline.
 
-The tocilizumab SC regimens of 162 mg Q3W for patients weighing below 30 kg and of 162 mg Q2W  for patients weighing ≥ 30 kg respectively provide PK exposure and PD responses to support efficacy  and safety outcomes similar to those achieved with the approved tocilizumab IV regimens for pJIA.
+The tocilizumab SC regimens of 162 mg Q3W for patients weighing below 30 kg and of 162 mg Q2W for patients weighing ≥ 30 kg respectively provide PK exposure and PD responses to support efficacy and safety outcomes similar to those achieved with the approved tocilizumab IV regimens for pJIA.
 
-Exploratory efficacy results showed that tocilizumab SC improved median Juvenile Arthritis Disease  Activity Score (JADAS)-71 for tocilizumab naïve patients and maintained the median JADAS-71 for  patients who switched from IV to SC tocilizumab treatment over the entire course of the study for  patients in both body weight groups (below 30 kg and ≥ 30 kg).
+Exploratory efficacy results showed that tocilizumab SC improved median Juvenile Arthritis Disease Activity Score (JADAS)-71 for tocilizumab naïve patients and maintained the median JADAS-71 for patients who switched from IV to SC tocilizumab treatment over the entire course of the study for patients in both body weight groups (below 30 kg and ≥ 30 kg).
 
 ## GCA (SC)
 
-## Clinical efficacy
+Clinical efficacy
 
 Study WA28119 was a randomised, multi-center, double-blind placebo-controlled Phase III superiority study conducted to assess the efficacy and safety of tocilizumab in patients with GCA.
 
-Two hundred and fifty one (251) patients with new-onset or relapsing GCA were enrolled and  assigned to one of four treatment arms. The study consisted of a 52-week blinded period (Part 1),  followed by a 104-week open-label extension (Part 2). The purpose of Part 2 was to describe the long-term safety and maintenance of efficacy after 52 weeks of tocilizumab therapy, to explore the rate of relapse and the requirement for tocilizumab therapy beyond 52 weeks, and to gain insight into the  potential long-term steroid-sparing effect of tocilizumab.
+Two hundred and fifty one (251) patients with new-onset or relapsing GCA were enrolled and assigned to one of four treatment arms. The study consisted of a 52-week blinded period (Part 1), followed by a 104-week open-label extension (Part 2). The purpose of Part 2 was to describe the longterm safety and maintenance of efficacy after 52 weeks of tocilizumab therapy, to explore the rate of relapse and the requirement for tocilizumab therapy beyond 52 weeks, and to gain insight into the potential long-term steroid-sparing effect of tocilizumab.
 
-Two subcutaneous doses of tocilizumab (162 mg every week and 162 mg every other week) were  compared to two different placebo control groups randomised 2:1:1:1.
+Two subcutaneous doses of tocilizumab (162 mg every week and 162 mg every other week) were compared to two different placebo control groups randomised 2:1:1:1.
 
-All patients received background glucocorticoid (prednisone) therapy. Each of the tocilizumab-treated  groups and one of the placebo-treated groups followed a pre-specified prednisone-taper regimen over  26 weeks, while the second placebo-treated group followed
+All patients received background glucocorticoid (prednisone) therapy. Each of the tocilizumabtreated groups and one of the placebo-treated groups followed a pre-specified prednisone-taper regimen over 26 weeks, while the second placebo-treated group followed a pre-specified prednisone-taper regimen over 52 weeks, designed to be more in keeping with standard practice.
+
+The duration of glucocorticoid therapy during screening and before tocilizumab (or placebo) was initiated, was similar in all 4 treatment groups (see Table 3).
 
 <div style=\"page-break-after: always\"></div>
 
-a pre-specified prednisone-taper regimen over 52 weeks, designed to be more in keeping with standard practice.
-
-The duration of glucocorticoid therapy during screening and before tocilizumab (or placebo) was  initiated, was similar in all 4 treatment groups (see Table 3).
-
 Table 3. Duration of Corticosteroid Therapy During Screening in Study WA28119
 
-|                 | Placebo + 26 weeks prednisone taper N=50   | Placebo + 52 weeks prednisone taper N=51   | Tocilizumab 162mg SC weekly + 26 weeks prednisone taper N=100   | Tocilizumab 162 mg SC every other weekly + 26 weeks prednisone taper N=49   |
-|-----------------|--------------------------------------------|--------------------------------------------|-----------------------------------------------------------------|-----------------------------------------------------------------------------|
-| Duration (days) | Duration (days)                            | Duration (days)                            | Duration (days)                                                 | Duration (days)                                                             |
-| Mean (SD)       | 35.7 (11.5)                                | 36.3 (12.5)                                | 35.6 (13.2)                                                     | 37.4 (14.4)                                                                 |
-| Median          | 42.0                                       | 41.0                                       | 41.0                                                            | 42.0                                                                        |
-| Min - Max       | 6 - 63                                     | 12 - 82                                    | 1 - 87                                                          | 9 - 87                                                                      |
+|                 | Placebo + 26 weeks prednisone taper N=50   | Placebo + 52 weeks prednisone taper N=51   | Tocilizumab 162mg SC weekly + 26 weeks prednisone taper N=100   | Tocilizumab 162mg SC every other weekly + 26 weeks prednisone taper N=49   |
+|-----------------|--------------------------------------------|--------------------------------------------|-----------------------------------------------------------------|----------------------------------------------------------------------------|
+| Duration (days) | Duration (days)                            | Duration (days)                            | Duration (days)                                                 | Duration (days)                                                            |
+| Mean (SD)       | 35.7 (11.5)                                | 36.3 (12.5)                                | 35.6 (13.2)                                                     | 37.4 (14.4)                                                                |
+| Median          | 42.0                                       | 41.0                                       | 41.0                                                            | 42.0                                                                       |
+| Min - Max       | 6 - 63                                     | 12 - 82                                    | 1 - 87                                                          | 9 - 87                                                                     |
 
-The primary efficacy endpoint assessed by the proportion of patients achieving steroid free sustained  remission at week 52 on tocilizumab plus 26 weeks prednisone taper compared with placebo plus 26  weeks prednisone taper, was met (Table 4).
+The primary efficacy endpoint assessed by the proportion of patients achieving steroid free sustained remission at week 52 on tocilizumab plus 26 weeks prednisone taper compared with placebo plus 26 weeks prednisone taper, was met (Table 4).
 
-The key secondary efficacy endpoint also based on the proportion of patients achieving sustained  remission at week 52, comparing tocilizumab plus 26 weeks prednisone taper with placebo plus 52  weeks prednisone taper, was also met (Table 4).
+The key secondary efficacy endpoint also based on the proportion of patients achieving sustained remission at week 52, comparing tocilizumab plus 26 weeks prednisone taper with placebo plus 52 weeks prednisone taper, was also met (Table 4).
 
-A statistically significant superior treatment effect was seen in favour of tocilizumab over placebo in  achieving steroid-free sustained remission at week 52 on tocilizumab plus 26 weeks prednisone taper compared with placebo plus 26 weeks prednisone taper and with placebo plus 52 weeks prednisone  taper.
+A statistically significant superior treatment effect was seen in favour of tocilizumab over placebo in achieving steroid-free sustained remission at week 52 on tocilizumab plus 26 weeks prednisone taper compared with placebo plus 26 weeks prednisone taper and with placebo plus 52 weeks prednisone taper.
 
 The percentage of patients achieving sustained remission at week 52, are shown in the Table 4.
 
 ## Secondary Endpoints
 
-The assessment of the time to first GCA flare showed a significantly lower risk of flare for the tocilizumab subcutaneous weekly group compared to placebo plus 26 weeks prednisone and  placebo plus 52 weeks prednisone taper groups and for the tocilizumab subcutaneous every other  weekly group compared to placebo plus 26 weeks prednisone (when compared at a 0.01 significance  level). Tocilizumab subcutaneous weekly dose also showed a clinically meaningful decrease in the risk  for flare compared to placebo plus 26 weeks prednisone in patients who entered the trial with relapsing  GCA as well as those with new-onset disease (Table 4).
+The assessment of the time to first GCA flare showed a significantly lower risk of flare for the tocilizumab subcutaneous weekly group compared to placebo plus 26 weeks prednisone and placebo plus 52 weeks prednisone taper groups and for the tocilizumab subcutaneous every other weekly group compared to placebo plus 26 weeks prednisone (when compared at a 0.01 significance level). Tocilizumab subcutaneous weekly dose also showed a clinically meaningful decrease in the risk  for flare compared to placebo plus 26 weeks prednisone in patients who entered the trial with relapsing  GCA as well as those with new-onset disease (Table 4).
 
 ## Cumulative glucocorticoid dose
 
-The cumulative prednisone dose at week 52 was significantly lower in the two tocilizumab dose  groups compared to the two placebo groups (Table 4). In a separate analysis of the patients who  received escape prednisone to treat GCA flare during the first 52 weeks, the cumulative prednisone  dose varied greatly.  The median doses for escape patients in the tocilizumab weekly and every other weekly groups were 3 129.75 mg and 3 847 mg, respectively. Both considerably lower than in the  placebo plus 26 weeks and the placebo plus 52 weeks prednisone taper groups, 4 023.5 mg and 5 389.5 mg respectively.
+The cumulative prednisone dose at week 52 was significantly lower in the two tocilizumab dose groups compared to the two placebo groups (Table 4). In a separate analysis of the patients who received escape prednisone to treat GCA flare during the first 52 weeks, the cumulative prednisone dose varied greatly. The median doses for escape patients in the tocilizumab weekly and every other weekly groups were 3 129.75 mg and 3 847 mg, respectively. Both considerably lower than in the placebo plus 26 weeks and the placebo plus 52 weeks prednisone taper groups, 4 023.5 mg and 5 389.5 mg respectively.
 
 <div style=\"page-break-after: always\"></div>
 
-|                                                                                                                                             | Placebo + 26 weeks prednison e taper N=50   | Placebo + 52 weeks predniso ne taper N=51   | Tocilizuma b 162 mg SC weekly + 26 weeks prednisone taper   | Tocilizumab 162 mg SC every other weekly + 26 weeks prednisone taper N=49   |
-|---------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------|---------------------------------------------|-------------------------------------------------------------|-----------------------------------------------------------------------------|
-| Primary Endpoint                                                                                                                            |                                             |                                             |                                                             |                                                                             |
-| ****Sustained remission (Tocilizumab groups vs                                                                                              | Placebo+26)                                 |                                             |                                                             |                                                                             |
-| Responders at Week 52, n (%)                                                                                                                | 7 (14%)                                     | 9 (17.6%)                                   | 56 (56%)                                                    | 26 (53.1%)                                                                  |
-| Unadjusted difference in proportions (99.5% CI)                                                                                             | N/A                                         | N/A                                         | 42%* (18.00, 66.00)                                         | 39.06%* (12.46, 65.66)                                                      |
-| Key Secondary Endpoint                                                                                                                      |                                             |                                             |                                                             |                                                                             |
-| Sustained remission (Tocilizumab groups vs Placebo+52)                                                                                      |                                             |                                             |                                                             |                                                                             |
-| Responders at Week 52, n (%)                                                                                                                | 7 (14%)                                     | 9 (17.6%)                                   | 56 (56%)                                                    | 26 (53.1%)                                                                  |
-| Unadjusted difference in proportions (99.5% CI)                                                                                             | N/A                                         | N/A                                         | 38.35%* (17.89, 58.81)                                      | 35.41%** (10.41, 60.41)                                                     |
-| Other Secondary Endpoints                                                                                                                   |                                             |                                             |                                                             |                                                                             |
-| Time to first GCA flare¹ (Tocilizumab groups vs Placebo+26)                                                                                 | N/A                                         | N/A                                         | 0.23* (0.11, 0.46)                                          | 0.28** (0.12, 0.66)                                                         |
-| HR (99% CI) Time to first GCA flare¹ (Tocilizumab groups vs Placebo+52)                                                                     | N/A                                         | N/A                                         | 0.39** (0.18, 0.82)                                         | 0.48 (0.20, 1.16)                                                           |
-| HR (99% CI) Time to first GCA flare¹ (Relapsing patients; Tocilizumab groups vs Placebo +26)HR (99% CI)                                     | N/A                                         | N/A                                         | 0.23*** (0.09, 0.61)                                        | 0.42 (0.14, 1.28)                                                           |
-| Time to first GCA flare¹ (Relapsing patients;                                                                                               | N/A                                         | N/A                                         | 0.36                                                        | 0.67                                                                        |
-| Tocilizumab groups vs Placebo + 52) HR (99% CI) Time to first GCA flare¹ (New-onset patients; Tocilizumab groups vs Placebo +26)HR (99% CI) | N/A                                         | N/A                                         | (0.13, 1.00) 0.25*** (0.09, 0.70)                           | (0.21, 2.10) 0.20*** (0.05, 0.76)                                           |
-| Time to first GCA flare¹ (New-onset patients; Tocilizumab groups vs Placebo + 52) HR (99% CI)                                               | N/A                                         | N/A                                         | 0.44 (0.14, 1.32)                                           | 0.35 (0.09, 1.42)                                                           |
-| Cumulative glucocorticoid dose (mg) median at Week 52 (Tocilizumab groups vs Placebo+26 2 ) median at Week 52 (Tocilizumab groups vs        | 3296.00                                     | N/A                                         | 1862.00*                                                    | 1862.00*                                                                    |
-| Placebo +52 2 )                                                                                                                             | N/A                                         | 3817.50                                     | 1862.00*                                                    | 1862.00*                                                                    |
-| Exploratory Endpoints                                                                                                                       |                                             |                                             |                                                             |                                                                             |
-| Annualized relapse rate, Week 52 § Mean (SD)                                                                                                | 1.74                                        | 1.30                                        | 0.41                                                        | 0.67                                                                        |
-|                                                                                                                                             | (2.18)                                      | (1.84)                                      | (0.78)                                                      | (1.10)                                                                      |
+Table 4. Efficacy results from Study WA28119
+
+|                                                                                                                                            | Placebo + 26 weeks prednison e taper N=50   | Placebo + 52 weeks predniso ne taper N=51   | Tocilizuma b 162mg SC weekly + 26 weeks prednisone taper   | Tocilizumab 162 mg SC every other weekly + 26 weeks prednisone taper N=49   |
+|--------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------|---------------------------------------------|------------------------------------------------------------|-----------------------------------------------------------------------------|
+| Primary Endpoint                                                                                                                           |                                             |                                             |                                                            |                                                                             |
+| ****Sustained remission (Tocilizumab groups vs                                                                                             | Placebo+26)                                 |                                             |                                                            |                                                                             |
+| Responders at Week 52, n (%)                                                                                                               | 7 (14%)                                     | 9 (17.6%)                                   | 56 (56%)                                                   | 26 (53.1%)                                                                  |
+| Unadjusted difference in proportions (99.5% CI)                                                                                            | N/A                                         | N/A                                         | 42%* (18.00, 66.00)                                        | 39.06%* (12.46, 65.66)                                                      |
+| Key Secondary Endpoint                                                                                                                     |                                             |                                             |                                                            |                                                                             |
+| Sustained remission (Tocilizumab groups vs Placebo+52)                                                                                     |                                             |                                             |                                                            |                                                                             |
+| Responders at Week 52, n (%)                                                                                                               | 7 (14%)                                     | 9 (17.6%)                                   | 56 (56%)                                                   | 26 (53.1%)                                                                  |
+| Unadjusted difference in proportions (99.5% CI)                                                                                            | N/A                                         | N/A                                         | 38.35%* (17.89, 58.81)                                     | 35.41%** (10.41, 60.41)                                                     |
+| Other Secondary Endpoints                                                                                                                  |                                             |                                             |                                                            |                                                                             |
+| Time to first GCA flare¹ (Tocilizumab groups vs Placebo+26)                                                                                | N/A                                         | N/A                                         | 0.23* (0.11, 0.46)                                         | 0.28** (0.12, 0.66)                                                         |
+| HR (99% CI) Time to first GCA flare¹ (Tocilizumab groups vs Placebo+52)                                                                    | N/A                                         | N/A                                         | 0.39** (0.18, 0.82)                                        | 0.48 (0.20, 1.16)                                                           |
+| HR (99% CI) Time to first GCA flare¹ (Relapsing patients; Tocilizumab groups vs Placebo +26)HR (99% CI)                                    | N/A                                         | N/A                                         | 0.23*** (0.09, 0.61)                                       | 0.42 (0.14, 1.28)                                                           |
+| Time to first GCA flare¹ (Relapsing patients;                                                                                              | N/A                                         | N/A                                         | 0.36                                                       | 0.67                                                                        |
+| Tocilizumab groups vs Placebo + 52)HR (99% CI) Time to first GCA flare¹ (New-onset patients; Tocilizumab groups vs Placebo +26)HR (99% CI) | N/A                                         | N/A                                         | (0.13, 1.00) 0.25*** (0.09, 0.70)                          | (0.21, 2.10) 0.20*** (0.05, 0.76)                                           |
+| Time to first GCA flare¹ (New-onset patients; Tocilizumab groups vs Placebo + 52)HR (99% CI)                                               | N/A                                         | N/A                                         | 0.44 (0.14, 1.32)                                          | 0.35 (0.09, 1.42)                                                           |
+| Cumulative glucocorticoid dose (mg) median at Week 52 (Tocilizumab groups vs Placebo+26 2 )                                                | 3296.00                                     | N/A                                         | 1862.00*                                                   | 1862.00*                                                                    |
+| median at Week 52 (Tocilizumab groups vs Placebo +52 2 )                                                                                   | N/A                                         | 3817.50                                     | 1862.00*                                                   | 1862.00*                                                                    |
+| Exploratory Endpoints                                                                                                                      |                                             |                                             |                                                            |                                                                             |
+| Annualized relapse rate, Week 52 § Mean (SD)                                                                                               | 1.74                                        | 1.30                                        | 0.41                                                       | 0.67                                                                        |
+|                                                                                                                                            | (2.18)                                      | (1.84)                                      | (0.78)                                                     | (1.10)                                                                      |
 
 Sustained remission: remission from week 12 to week 52 -Patients must adhere to the protocol-defined prednisone taper
 
@@ -2033,17 +2042,15 @@ HR = Hazard Ratio
 
 CI = Confidence Interval
 
-## Quality of Life Outcomes
-
-In study WA28119, the SF-36 results were separated into the physical and mental component summary scores (PCS and MCS, respectively). The PCS mean change from baseline to week 52 was higher (showing more improvement) in the tocilizumab weekly and every other weekly dose groups
+Quality of Life Outcomes
 
 <div style=\"page-break-after: always\"></div>
 
-[4.10, 2.76, respectively] than in the two placebo groups [placebo plus 26 weeks; -0.28, placebo plus 52 weeks; -1.49], although only the comparison between tocilizumab weekly plus 26 weeks prednisone taper group and placebo plus 52 weeks prednisone taper group (5.59, 99% CI: 8.6, 10.32)  showed a statistically significant difference (p=0.0024). For MCS, the mean change from baseline to  week 52 for both tocilizumab weekly and every other weekly dose groups [7.28, 6.12, respectively]  were higher than the placebo plus 52 weeks prednisone taper group [2.84] (although the differences  were not statistically significant [weekly p=0.0252 for weekly, p=0.1468 for every other weekly]) and  similar to the placebo plus 26 weeks prednisone taper group [6.67].
+was higher (showing more improvement) in the tocilizumab weekly and every other weekly dose groups [4.10, 2.76, respectively] than in the two placebo groups [placebo plus 26 weeks; -0.28, placebo plus 52 weeks; -1.49], although only the comparison between tocilizumab weekly plus 26 weeks prednisone taper group and placebo plus 52 weeks prednisone taper group (5.59, 99% CI: 8.6, 10.32) showed a statistically significant difference (p=0.0024). For MCS, the mean change from baseline to week 52 for both tocilizumab weekly and every other weekly dose groups [7.28, 6.12, respectively] were higher than the placebo plus 52 weeks prednisone taper group [2.84] (although the differences were not statistically significant [weekly p=0.0252 for weekly, p=0.1468 for every other weekly]) and similar to the placebo plus 26 weeks prednisone taper group [6.67].
 
-The Patient's Global Assessment of disease activity was assessed on a 0-100 mm Visual Analogue Scale (VAS). The mean change in Patient's global VAS from baseline at week 52 was lower (showing  greater improvement) in the tocilizumab weekly and every other weekly dose groups [19.0, -25.3,  respectively] than in both placebo groups [placebo plus 26 weeks -3.4, placebo plus 52 weeks -7.2],  although only the tocilizumab every other weekly plus 26 weeks prednisone taper group showed a  statistically significant difference compared to placebo [placebo plus 26 weeks taper p=0.0059, and  placebo plus 52 weeks taper p=0.0081].
+The Patient's Global Assessment of disease activity was assessed on a 0-100 mm Visual Analogue Scale (VAS). The mean change in Patient's global VAS from baseline at week 52 was lower (showing  greater improvement) in the tocilizumab weekly and every other weekly dose groups [19.0, -25.3,  respectively] than in both placebo groups [placebo plus 26 weeks -3.4, placebo plus 52 weeks -7.2], although only the tocilizumab every other weekly plus 26 weeks prednisone taper group showed a  statistically significant difference compared to placebo [placebo plus 26 weeks taper p=0.0059, and  placebo plus 52 weeks taper p=0.0081].
 
-FACIT-Fatigue change from baseline to week 52 scores were calculated for all groups.  The mean [SD] change scores were as follows: tocilizumab weekly plus 26 weeks 5.61 [10.115], tocilizumab every other weekly plus 26 weeks 1.81 [8.836], placebo plus 26 weeks 0.26 [10.702], and placebo plus 52 weeks -1.63 [6.753].
+FACIT-Fatigue change from baseline to week 52 scores were calculated for all groups. The mean [SD] change scores were as follows: tocilizumab weekly plus 26 weeks 5.61 [10.115], tocilizumab every other weekly plus 26 weeks 1.81 [8.836], placebo plus 26 weeks 0.26 [10.702], and placebo plus 52 weeks -1.63 [6.753].
 
 Change in EQ5D scores from baseline to week 52 were tocilizumab weekly plus 26 weeks 0.10 [0.198], tocilizumab every other weekly plus 26 weeks 0.05 [0.215], placebo plus 26 weeks 0.07 [0.293], and placebo plus 52 weeks -0.02 [0.159].
 
@@ -2057,13 +2064,15 @@ Higher scores signal improvement in both FACIT-Fatigue and EQ5D.
 
 The efficacy of tocilizumab in alleviating the signs and symptoms of RA was assessed in five randomised, double-blind, multi-centre studies. Studies I-V enrolled patients ≥ 18 years of age with active RA diagnosed according to the American College of Rheumatology (ACR) criteria and who had  at least eight tender and six swollen joints at baseline.
 
-In Study I, tocilizumab was administered intravenously every four weeks as monotherapy. In Studies  II, III and V, tocilizumab was administered intravenously every four weeks in combination with MTX  vs. placebo and MTX. In Study IV, tocilizumab was administered intravenously every 4 weeks in  combination with other DMARDs vs. placebo and other DMARDs. The primary endpoint for each of  the five studies was the proportion of patients who achieved an ACR 20 response at week 24.
+In Study I, tocilizumab was administered intravenously every four weeks as monotherapy. In Studies  II, III and V, tocilizumab was administered intravenously every four weeks in combination with MTX vs. placebo and MTX. In Study IV, tocilizumab was administered intravenously every 4 weeks in  combination with other DMARDs vs. placebo and other DMARDs. The primary endpoint for each of  the five studies was the proportion of patients who achieved an ACR 20 response at week 24.
 
 Study I evaluated 673 patients who had not been treated with MTX within six months prior to randomisation and who had not discontinued previous MTX treatment as a result of clinically important toxic effects or lack of response. The majority (67%) of patients were MTX-naïve. Doses of  8 mg/kg of tocilizumab were given every four weeks as monotherapy. The comparator group was weekly MTX (dose titrated from 7.5 mg to a maximum of 20 mg weekly over an eight week period).
 
-Study II, a two year study with planned analyses at week 24, week 52 and week 104, evaluated 1 196 patients who had an inadequate clinical response to MTX. Doses of 4 or 8 mg/kg of tocilizumab or placebo were given every four weeks as blinded therapy for 52 weeks in combination with stable MTX (10 mg to 25 mg weekly). After week 52, all patients could receive open-label treatment with tocilizumab 8 mg/kg. Of the patients who completed the study who were originally randomised to placebo + MTX, 86% received open-label tocilizumab 8 mg/kg in year 2. The primary  endpoint at week 24 was the proportion of patients who achieved an ACR 20 response. At week 52  and week 104 the co-primary endpoints were prevention of joint damage and improvement in physical  function.
+Study II, a two year study with planned analyses at week 24, week 52 and week 104, evaluated 1 196 patients who had an inadequate clinical response to MTX. Doses of 4 or 8 mg/kg of tocilizumab or placebo were given every four weeks as blinded therapy for 52 weeks in combination with stable MTX (10 mg to 25 mg weekly). After week 52, all patients could receive open-label treatment with tocilizumab 8 mg/kg. Of the patients who completed the study who were originally randomised to placebo + MTX, 86% received open-label tocilizumab 8 mg/kg in year 2. The primary  endpoint at week 24 was the proportion of patients who achieved an ACR 20 response. At week 52  and week 104 the co-primary endpoints were prevention of joint damage and improvement
 
 <div style=\"page-break-after: always\"></div>
+
+in physical  function.
 
 Study III evaluated 623 patients who had an inadequate clinical response to MTX. Doses of 4 or 8 mg/kg tocilizumab or placebo were given every four weeks, in combination with stable MTX (10 mg to 25 mg weekly).
 
@@ -2073,9 +2082,7 @@ Study V evaluated 499 patients who had an inadequate clinical response or were i
 
 ## Clinical response
 
-In all studies, patients treated with tocilizumab 8 mg/kg had statistically significant higher ACR 20, 50,  70 response rates at 6 months compared to control (Table 5). In study I, superiority of tocilizumab 8 mg/kg was demonstrated against the active comparator MTX.
-
-The treatment effect was similar in patients independent of rheumatoid factor status, age, gender, race,  number of prior treatments or disease status. Time to onset was rapid (as early as week 2) and the  magnitude of response continued to improve with duration of treatment. Continued durable responses  were seen for over 3 years in the open label extension studies I-V.
+In all studies, patients treated with tocilizumab 8 mg/kg had statistically significant higher ACR 20, 50,  70 response rates at 6 months compared to control (Table 5). In study I, superiority of tocilizumab 8 mg/kg was demonstrated against the active comparator MTX. The treatment effect was similar in patients independent of rheumatoid factor status, age, gender, race, number of prior treatments or disease status. Time to onset was rapid (as early as week 2) and the magnitude of response continued to improve with duration of treatment. Continued durable responses were seen for over 3 years in the open label extension studies I-V.
 
 In patients treated with tocilizumab 8 mg/kg, significant improvements were noted on all individual components of the ACR response including: tender and swollen joint counts; patients and physician global assessment; disability index scores; pain assessment and CRP compared to patients receiving placebo plus MTX or other DMARDs in all studies.
 
@@ -2094,32 +2101,32 @@ Table 5. ACR responses in placebo-/MTX-/DMARDs-controlled studies (% patients)
 | 52     |                    |                    | 56%***           | 25%              |                    |                    |                    |                   |                   |                   |
 | ACR 50 | ACR 50             | ACR 50             | ACR 50           | ACR 50           | ACR 50             | ACR 50             | ACR 50             | ACR 50            | ACR 50            | ACR 50            |
 | 24     | 44%**              | 33%                | 32%***           | 10%              | 44%***             | 11%                | 38%***             | 9%                | 29%***            | 4%                |
-| 52     |                    |                    | 36%***           | 10%              |                    |                    |                    |                   |                   |                   |
 
 <div style=\"page-break-after: always\"></div>
 
-|   ACR 70 | ACR 70   | ACR 70   | ACR 70   | ACR 70   | ACR 70   | ACR 70   | ACR 70   | ACR 70   | ACR 70   | ACR 70   |
-|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|
-|       24 | 28%**    | 15%      | 13%***   | 2%       | 22%***   | 2%       | 21%***   | 3%       | 12%**    | 1%       |
-|       52 |          |          | 20%***   | 4%       |          |          |          |          |          |          |
+| 52     |        |        | 36%***   | 10%    |        |        |        |        |        |        |
+|--------|--------|--------|----------|--------|--------|--------|--------|--------|--------|--------|
+| ACR 70 | ACR 70 | ACR 70 | ACR 70   | ACR 70 | ACR 70 | ACR 70 | ACR 70 | ACR 70 | ACR 70 | ACR 70 |
+| 24     | 28%**  | 15%    | 13%***   | 2%     | 22%*** | 2%     | 21%*** | 3%     | 12%**  | 1%     |
+| 52     |        |        | 20%***   | 4%     |        |        |        |        |        |        |
 
 TCZ
 
-MTX
-
-PBO
-
-DMARD
-
-**
-
 - Tocilizumab
+
+MTX
 
 - Methotrexate
 
+PBO
+
 - Placebo
 
+DMARD
+
 - Disease modifying anti-rheumatic drug
+
+**
 
 - p&lt; 0.01, TCZ vs. PBO + MTX/DMARD
 
@@ -2129,21 +2136,21 @@ DMARD
 
 ## Major clinical response
 
-After 2 years of treatment with tocilizumab plus MTX, 14% of patients achieved a major clinical  response (maintenance of an ACR70 response for 24 weeks or more).
+After 2 years of treatment with tocilizumab plus MTX, 14% of patients achieved a major clinical response (maintenance of an ACR70 response for 24 weeks or more).
 
 ## Radiographic response
 
 In Study II, in patients with an inadequate response to MTX, inhibition of structural joint damage was  assessed radiographically and expressed as change in modified Sharp score and its components, the  erosion score and joint space narrowing score. Inhibition of joint structural damage was shown with  significantly less radiographic progression in patients receiving tocilizumab compared to control  (Table 6).
 
-In the open-label extension of Study II the inhibition of progression of structural joint damage in  tocilizumab plus MTX-treated patients was maintained in the second year of treatment. The mean  change from baseline at week 104 in total Sharp-Genant score was significantly lower for patients  randomised to tocilizumab  8 mg/kg plus MTX (p&lt;0.0001) compared with patients who were  randomised to placebo plus MTX.
+In the open-label extension of Study II the inhibition of progression of structural joint damage in tocilizumab plus MTX-treated patients was maintained in the second year of treatment. The mean change from baseline at week 104 in total Sharp-Genant score was significantly lower for patients randomised to tocilizumab  8 mg/kg plus MTX (p&lt;0.0001) compared with patients who were randomised to placebo plus MTX.
 
 Table 6. Radiographic mean changes over 52 weeks in Study II
 
-|                          |   PBO+MTX (+ TCZ from week 24) N = 393 | TCZ 8 mg/kg+MTX N = 398   |
-|--------------------------|----------------------------------------|---------------------------|
-| Total Sharp-Genant score |                                   1.13 | 0.29*                     |
-| Erosion score            |                                   0.71 | 0.17*                     |
-| JSN score                |                                   0.42 | 0.12**                    |
+|                          |   PBO+MTX (+ TCZfrom week 24) N = 393 | TCZ8 mg/kg+MTX N = 398   |
+|--------------------------|---------------------------------------|--------------------------|
+| Total Sharp-Genant score |                                  1.13 | 0.29*                    |
+| Erosion score            |                                  0.71 | 0.17*                    |
+| JSN score                |                                  0.42 | 0.12**                   |
 
 PBO
 
@@ -2169,21 +2176,21 @@ JSN
 
 - p&lt; 0.005, TCZ vs. PBO + MTX
 
-Following 1 year of treatment with tocilizumab plus MTX, 85% of patients(n=348) had no progression  of structural joint damage, as defined by a change in the Total Sharp Score of zero or less, compared  with 67% of placebo plus MTX-treated patients(n=290) (p ≤ 0.001). This remained consistent  following 2 years of treatment (83%; n=353). Ninety three percent (93%; n=271) of patients had no  progression between week 52 and week 104.
+Following 1 year of treatment with tocilizumab plus MTX, 85% of patients(n=348) had no progression of structural joint damage, as defined by a change in the Total Sharp Score of zero or less, compared with 67% of placebo plus MTX-treated patients(n=290) (p ≤ 0.001). This remained consistent following 2 years of treatment (83%; n=353). Ninety three percent (93%; n=271) of patients had no progression between week 52 and week 104.
 
 ## Health-related and quality of life outcomes
 
-Tocilizumab--treated patients reported an improvement in all patient-reported outcomes (Health  Assessment Questionnaire Disability Index - HAQ-DI), Short Form-36 and Functional Assessment of  Chronic Illness Therapy questionnaires. Statistically significant improvements in HAQ-DI scores were  observed in patients treated with tocilizumab compared with patients treated with DMARDs. During  the open-label period of Study II, the improvement in physical function has been maintained for up to  2 years. At Week 52, the mean change in HAQ-DI was -0.58 in the tocilizumab 8 mg/kg plus MTX  group compared with -0.39 in the placebo + MTX group. The mean change in HAQ-DI was  maintained at Week 104 in the tocilizumab 8 mg/kg plus MTX group (-0.61).
+Tocilizumab--treated patients reported an improvement in all patient-reported outcomes (Health Assessment Questionnaire Disability Index - HAQ-DI), Short Form-36 and Functional Assessment of Chronic Illness Therapy questionnaires. Statistically significant improvements in HAQ-DI scores were observed in patients treated with tocilizumab compared with patients treated with DMARDs. During the open-label period of Study II, the improvement in physical function has been maintained for up to 2 years. At Week 52, the mean change in HAQ-DI was -0.58 in the tocilizumab 8 mg/kg plus MTX group compared with -0.39 in the placebo + MTX group. The mean change in HAQ-DI was maintained at Week 104 in the tocilizumab 8 mg/kg plus MTX group (0.61).
 
 <div style=\"page-break-after: always\"></div>
 
 ## Haemoglobin levels
 
-Statistically significant improvements in haemoglobin levels were observed with tocilizumab compared with DMARDs (p&lt; 0.0001) at week 24. Mean haemoglobin levels increased by week 2 and  remained within normal range through to week 24.
+Statistically significant improvements in haemoglobin levels were observed with tocilizumab compared with DMARDs (p&lt; 0.0001) at week 24. Mean haemoglobin levels increased by week 2 and remained within normal range through to week 24.
 
 Tocilizumab versus adalimumab in monotherapy Study VI (WA19924), a 24 week double-blinded study that compared tocilizumab  monotherapy with  adalimumab monotherapy, evaluated 326 patients with RA who were intolerant of MTX or where  continued treatment with MTX was considered inappropriate (including MTX inadequate responders).  Patients in the tocilizumab  arm received an intravenous (IV) infusion of tocilizumab (8 mg/kg) every 4  weeks (q4w) and a subcutaneous (SC) placebo injection every 2 weeks (q2w). Patients in the  adalimumab arm received an adalimumab SC injection (40 mg) q2w plus an IV placebo infusion q4w.
 
-A statistically significant superior treatment effect was seen in favour of tocilizumab over adalimumab  in control of disease activity from baseline to week 24 for the primary endpoint of change in DAS28  and for all secondary endpoints (Table 7).
+A statistically significant superior treatment effect was seen in favour of tocilizumab over adalimumab in control of disease activity from baseline to week 24 for the primary endpoint of change in DAS28 and for all secondary endpoints (Table 7).
 
 Table 7: Efficacy Results for Study VI (WA19924)
 
@@ -2199,17 +2206,13 @@ Table 7: Efficacy Results for Study VI (WA19924)
 | ACR50 response, n (%)                                         | 45 (27.8)                                                     | 77 (47.2)                                                     | 0.0002                                                        |
 | ACR70 response, n (%)                                         | 29 (17.9)                                                     | 53 (32.5)                                                     | 0.0023                                                        |
 
-a p value is adjusted for region and duration of RA for all endpoints and additionally baseline value for all continuous endpoints.
-
-b  Non-responder Imputation used for missing data. Multiplicity controlled using Bonferroni-Holm Procedure
-
-The overall clinical adverse event profile was similar between tocilizumab and adalimumab. The  proportion of patients with serious adverse events was balanced between the treatment groups  (tocilizumab 11.7% vs. adalimumab 9.9%). The types of adverse drug reactions in the tocilizumab arm  were consistent with the known safety profile of tocilizumab and adverse drug reactions were reported  at a similar frequency compared with Table 1. A higher incidence of infections and infestations was  reported in the tocilizumab arm (48% vs. 42%), with no difference in the incidence of serious  infections (3.1%). Both study treatments induced the same pattern of changes in laboratory safety  parameters (decreases in neutrophil and platelet counts, increases in ALT, AST and lipids), however,  the magnitude of change and the frequency of marked abnormalities was higher with tocilizumab  compared with adalimumab. Four (2.5%) patients in the tocilizumab arm and two (1.2%) patients in  the adalimumab arm experienced CTC grade 3 or 4 neutrophil count decreases. Eleven (6.8%) patients  in the tocilizumab arm and five (3.1%) patients in the adalimumab arm experienced ALT increases of  CTC grade 2 or higher. The mean LDL increase from baseline was 0.64 mmol/L (25 mg/dL) for  patients in the tocilizumab arm and 0.19 mmol/L (7 mg/dL) for patients in the adalimumab arm. The  safety observed in the tocilizumab arm was consistent with the known safety profile of tocilizumab and  no new or unexpected adverse drug reactions were observed (see Table 1).
+The overall clinical adverse event profile was similar between tocilizumab and adalimumab. The proportion of patients with serious adverse events was balanced between the treatment groups (tocilizumab 11.7% vs. adalimumab 9.9%). The types of adverse drug reactions in the tocilizumab arm  were consistent with the known safety profile of tocilizumab and adverse drug reactions were reported  at a similar frequency compared with Table 1. A higher incidence of infections and infestations was  reported in the tocilizumab arm (48% vs. 42%), with no difference in the incidence of serious  infections (3.1%). Both study treatments induced the same pattern of changes in laboratory safety  parameters (decreases in neutrophil and platelet counts, increases in ALT, AST and lipids), however,  the magnitude of change and the frequency of marked abnormalities was higher with tocilizumab  compared with adalimumab. Four (2.5%) patients in the tocilizumab arm and two (1.2%) patients in  the adalimumab arm experienced CTC grade 3 or 4 neutrophil count decreases. Eleven (6.8%) patients  in the tocilizumab arm and five (3.1%) patients in the adalimumab arm experienced ALT increases of  CTC grade 2 or higher. The mean LDL increase from baseline was 0.64 mmol/L (25 mg/dL) for  patients in the tocilizumab arm and 0.19 mmol/L (7 mg/dL) for patients in the adalimumab arm. The  safety observed in the tocilizumab arm was consistent with the known safety profile of tocilizumab and  no new or unexpected adverse drug reactions were observed (see Table 1).
 
 ## 5.2 Pharmacokinetic properties
 
 <div style=\"page-break-after: always\"></div>
 
-The pharmacokinetics of tocilizumab is characterized by nonlinear elimination which is a combination  of linear clearance and Michaelis-Menten elimination.  The nonlinear part of tocilizumab elimination  leads to an increase in exposure that is more than dose-proportional. The pharmacokinetic parameters  of tocilizumab do not change with time. Due to the dependence of total clearance on tocilizumab serum  concentrations, the half-life of tocilizumab is also concentration-dependent and varies depending on  the serum concentration level. Population pharmacokinetic analyses in any patient population tested so far indicate no relationship between apparent clearance and the presence of anti-drug antibodies.
+The pharmacokinetics of tocilizumab is characterized by nonlinear elimination which is a combination of linear clearance and Michaelis-Menten elimination. The nonlinear part of tocilizumab elimination leads to an increase in exposure that is more than dose-proportional. The pharmacokinetic parameters of tocilizumab do not change with time. Due to the dependence of total clearance on tocilizumab serum concentrations, the half-life of tocilizumab is also concentrationdependent and varies depending on the serum concentration level. Population pharmacokinetic analyses in any patient population tested so far indicate no relationship between apparent clearance and the presence of anti-drug antibodies.
 
 ## RA Intravenous use
 
@@ -2261,14 +2264,14 @@ Limited data are available regarding exposures following subcutaneous administra
 
 Table 8. Predicted mean ± SD PK parameters at steady-state after SC dosing in sJIA
 
-| Tocilizumab PK Parameter       | 162mgQW ≥ 30 kg   | 162 mg Q2Wbelow 30 kg   |
-|--------------------------------|-------------------|-------------------------|
-| C max (µg/mL)                  | 99.8 ± 46.2       | 134 ± 58.6              |
-| C min (µg/mL)                  | 79.2 ± 35.6       | 65.9 ± 31.3             |
-| C mean (µg/mL)                 | 91.3 ± 40.4       | 101 ± 43.2              |
-| Accumulation C max             | 3.66              | 1.88                    |
-| Accumulation C min             | 4.39              | 3.21                    |
-| Accumulation C mean or AUC τ * | 4.28              | 2.27                    |
+| TocilizumabPK Parameter        | 162mgQW ≥ 30 kg   | 162 mgQ2Wbelow 30 kg   |
+|--------------------------------|-------------------|------------------------|
+| C max (µg/mL)                  | 99.8 ± 46.2       | 134 ± 58.6             |
+| C min (µg/mL)                  | 79.2 ± 35.6       | 65.9 ± 31.3            |
+| C mean (µg/mL)                 | 91.3 ± 40.4       | 101 ± 43.2             |
+| Accumulation C max             | 3.66              | 1.88                   |
+| Accumulation C min             | 4.39              | 3.21                   |
+| Accumulation C mean or AUC τ * | 4.28              | 2.27                   |
 
 After SC dosing, approximately 90% of the steady-state was reached by week 12 for both the 162 mg QW and Q2W regimens.
 
@@ -2290,18 +2293,18 @@ The total clearance of tocilizumab was concentration-dependent and is the sum of
 
 ## Subcutaneous use
 
-The pharmacokinetics of tocilizumab in pJIA patients was characterized by a population pharmacokinetic analysis which included 237 patients who were treated with 8 mg/kg IV every 4 weeks (patients weighing ≥ 30 kg), 10 mg/kg IV every 4 weeks (patients weighing below 30 kg), 162 mg SC every 2 weeks (patients weighing ≥ 30 kg), or 162 mg SC every 3 weeks (patients weighing below 30 kg).
+The pharmacokinetics of tocilizumab in pJIA patients was characterized by a population pharmacokinetic analysis which included 237 patients who were treated with 8 mg/kg IV every 4 weeks (patients weighing ≥ 30 kg), 10 mg/kg IV every 4 weeks (patients weighing below 30 kg), 162 mg SC every 2 weeks (patients weighing ≥ 30 kg), or 162 mg SC ev ery 3 weeks (patients weighing below 30 kg).
 
 Table 9. Predicted mean ± SD PK parameters at steady-state after SC dosing in pJIA
 
-| Tocilizumab PK Parameter       | 162 mgQ2W ≥ 30 kg   | 162 mg Q3Wbelow 30 kg   |
-|--------------------------------|---------------------|-------------------------|
-| C max (µg/mL)                  | 29.4 ± 13.5         | 75.5 ± 24.1             |
-| C min (µg/mL)                  | 11.8 ± 7.08         | 18.4 ± 12.9             |
-| C avg (µg/mL)                  | 21.7 ± 10.4         | 45.5 ± 19.8             |
-| Accumulation C max             | 1.72                | 1.32                    |
-| Accumulation C min             | 3.58                | 2.08                    |
-| Accumulation C mean or AUC τ * | 2.04                | 1.46                    |
+| TocilizumabPK Parameter        | 162mgQ2W ≥ 30 kg   | 162 mgQ3Wbelow 30 kg   |
+|--------------------------------|--------------------|------------------------|
+| C max (µg/mL)                  | 29.4 ± 13.5        | 75.5 ± 24.1            |
+| C min (µg/mL)                  | 11.8 ± 7.08        | 18.4 ± 12.9            |
+| C avg (µg/mL)                  | 21.7 ± 10.4        | 45.5 ± 19.8            |
+| Accumulation C max             | 1.72               | 1.32                   |
+| Accumulation C min             | 3.58               | 2.08                   |
+| Accumulation C mean or AUC τ * | 2.04               | 1.46                   |
 
 After IV dosing, approximately 90% of the steady-state was reached by Week 12 for the 10 mg/kg (BW &lt; 30 kg), and by Week 16 for the 8 mg/kg (BW ≥ 30 kg) dose.  After SC dosing, approximately 90% of the steady-state was reached by Week 12 for both the 162 mg SC Q2W and Q3W regimens.
 
@@ -2317,7 +2320,7 @@ In paediatric patients with pJIA, the central volume of distribution was 1.97 L,
 
 Population pharmacokinetic analysis for pJIA patients showed body size related impact on linear clearance so that body-weight based dosing should be taken into consideration (see Table 9).
 
-After subcutaneous administration, the effective t1/2 of tocilizumab in pJIA patients is up to 10 days for  patients &lt; 30 kg (162 mg SC Q3W) and up to 7 days for patients ≥ 30 kg (162 mg SC Q2W) during  a dosing interval at steady state. Following intravenous administration, tocilizumab undergoes biphasic elimination from the circulation. The total clearance of tocilizumab was concentrationdependent and is the sum of the linear and non-linear clearance. The linear clearance was estimated as a  parameter in the population pharmacokinetic analysis and was 6.25 mL/h. The concentrationdependent non-linear clearance plays a major role at low tocilizumab concentrations. Once the nonlinear clearance pathway is saturated, at higher tocilizumab concentrations, clearance is mainly determined by the linear clearance.
+After subcutaneous administration, the effective t1/2 of tocilizumab in pJIA patients is up to 10 days for  patients &lt; 30 kg (162 mg SC Q3W) and up to 7 days for patients ≥ 30 kg (162 mg SC Q2W) during  a dosing interval at steady state. Following intravenous administration, tocilizumab undergoes biphasic  elimination from the circulation. The total clearance of tocilizumab was concentrationdependent and is the sum of the linear and non-linear clearance. The linear clearance was estimated as a  parameter in the population pharmacokinetic analysis and was 6.25 mL/h. The concentrationdependent non-linear clearance plays a major role at low tocilizumab concentrations. Once the nonlinear clearance pathway is saturated, at higher tocilizumab concentrations, clearance is mainly determined by the linear clearance.
 
 ## GCA
 
@@ -2331,7 +2334,7 @@ Table 10. Predicted mean ± SD PK parameters at steady-state after subcutaneous 
 
 |                                | Subcutaneous              | Subcutaneous   |
 |--------------------------------|---------------------------|----------------|
-| Tocilizumab PK Parameter       | 162 mg every other weekly | 162 mg weekly  |
+| TocilizumabPK Parameter        | 162 mg every other weekly | 162 mg weekly  |
 | C max (µg/mL)                  | 19.3 ± 12.8               | 73 ± 30.4      |
 | C min (µg/mL)                  | 11.1 ± 10.3               | 68.1± 29.5     |
 | C mean (µg/mL)                 | 16.2 ± 11.8               | 71.3 ± 30.1    |
@@ -2341,7 +2344,7 @@ Table 10. Predicted mean ± SD PK parameters at steady-state after subcutaneous 
 
 The steady-state profile following the tocilizumab weekly dose was almost flat, with very little fluctuations between trough and peak values, while there were substantial fluctuations for the tocilizumab every other weekly dose. Approximately 90% of the steady-state (AUC τ ) was reached by week 14 in the every other weekly and week 17 in the weekly dose groups.
 
-Based on the current characterization of PK, tocilizumab trough concentration at steady state are 50%  higher in this population relative to average concentrations in a large dataset from the RA population.  These differences occur due to unknown reasons. PK differences are not accompanied by marked  differences in PD parameters and so the clinical relevance is unknown.
+Based on the current characterization of PK, tocilizumab trough concentration at steady state are 50%  higher in this population relative to average concentrations in a large dataset from the RA population. These differences occur due to unknown reasons. PK differences are not accompanied by marked differences in PD parameters and so the clinical relevance is unknown.
 
 In GCA patients, higher exposure was observed in patients with lower body weight. For the 162 mg every week dosing regimen, the steady-state Cavg was 51% higher in patients with body weight less than 60 kg compared to patients weighing between 60 to 100 kg. For the 162 mg every other week regimen, the steady-state Cavg was 129% higher in patients with body weight less than 60 kg compared to patients weighing between 60 to 100 kg. There is limited data for patients above 100 kg (n=7).
 
@@ -2357,7 +2360,7 @@ In GCA patients, the central volume of distribution was 4.09 L, the peripheral v
 
 The total clearance of tocilizumab was concentration-dependent and is the sum of the linear clearance  and the nonlinear clearance. The linear clearance was estimated as a parameter in the population  pharmacokinetic analysis and was 6.7 mL/h in GCA patients,
 
-In GCA patients, at steady state, the effective t ½ of tocilizumab varied between 18.3 and 18.9 days for  162 mg weekly regimen, and between 4.2 and 7.9 days for 162 mg every other weekly regimen. At  high serum concentrations, when total clearance of tocilizumab is dominated by linear clearance, an  effective t ½ of approximately 32 days was derived from the population parameter estimates.
+In GCA patients, at steady state, the effective t ½ of tocilizumab varied between 18.3 and 18.9 days for  162 mg weekly regimen, and between 4.2 and 7.9 days for 162 mg every other weekly regimen. At high serum concentrations, when total clearance of tocilizumab is dominated by linear clearance, an effective t ½ of approximately 32 days was derived from the population parameter estimates.
 
 ## Special populations
 
@@ -2371,7 +2374,7 @@ No dose adjustment is required in patients with mild or moderate renal impairmen
 
 Hepatic impairment: No formal study of the effect of hepatic impairment on the pharmacokinetics of tocilizumab has been conducted.
 
-Age, gender and ethnicity : Population pharmacokinetic analyses in RA and GCA patients, showed that  age, gender and ethnic origin did not affect the pharmacokinetics of tocilizumab.
+Age, gender and ethnicity : Population pharmacokinetic analyses in RA and GCA patients, showed that age, gender and ethnic origin did not affect the pharmacokinetics of tocilizumab.
 
 Results of the population PK analysis for sJIA and pJIA patients confirmed that body size is the only covariate which has an appreciable impact on the pharmacokinetics of tocilizumab including elimination and absorption so that body-weight based dosing should be taken into consideration (see Tables 8 and 9).
 
@@ -2393,7 +2396,7 @@ The non-clinical safety profile of tocilizumab in the cynomolgus monkey does not
 
 ## 6.1 List of excipients
 
-L-Histidine L-Histidine  monohydrochloride monohydrate L-Threonine L-Methionine Polysorbate 80 Water for injections
+L-Histidine L-Histidine monohydrochloride monohydrate L-Threonine L-Methionine Polysorbate 80 Water for injections
 
 <div style=\"page-break-after: always\"></div>
 
@@ -2403,11 +2406,11 @@ In the absence of compatibility studies, this medicinal product must not be mixe
 
 ## 6.3 Shelf life
 
-42 months.
+4 years.
 
 ## 6.4 Special precautions for storage
 
-Store in a refrigerator (2°C - 8°C). Do not freeze. Once removed from the refrigerator, the pre-filled syringe can be stored up to 3 weeks at or below 30°C.
+Store in a refrigerator (2°C - 8°C). Do not freeze. Once removed from the refrigerator, the pre-filled syringe can be stored up to 3 weeks at or below 30°C. If necessary, the pre-filled syringe may be returned to the refrigerator once within these 3 weeks and stored refrigerated until the expiry date. The pre-filled syringe must be discarded if not used within the 3-week period.
 
 Keep the pre-filled syringe in the outer carton in order to protect from light and moisture.
 
@@ -2426,11 +2429,9 @@ Not all pack sizes may be marketed.
 
 ## 6.6 Special precautions for disposal and other handling
 
-Avtozma is supplied in a single use pre-filled syringe fitted into a needle safety device. After  removing the pre-filled syringe from the refrigerator, the pre-filled syringe should be allowed to reach  room temperature (18 °C to 28 °C ) by waiting for 30 minutes, before injecting Avtozma. The  syringe should not be shaken.
+Avtozma is supplied in a single use pre-filled syringe fitted into a needle safety device. After removing the pre-filled syringe from the refrigerator, the pre-filled syringe should be allowed to reach room temperature (18 °C to 28 °C ) by waiting for 30 minutes, before injecting Avtozma. The  syringe should not be shaken.
 
-After removing the cap the injection must be started within 5 minutes,  to prevent the medicine from drying out and blocking the needle. If the pre-filled syringe is not used  within 5 minutes of removing the cap, you must dispose of it in a puncture resistant container and use  a new pre-filled syringe.
-
-If following insertion of the needle you cannot depress the plunger, you must dispose of the pre-filled syringe in a puncture resistant container and use a new pre-filled syringe.
+After removing the cap the injection must be started within 5 minutes, to prevent the medicine from drying out and blocking the needle. If the pre-filled syringe is not used within 5 minutes of removing the cap, you must dispose of it in a puncture resistant container and use a new pre-filled syringe. If following insertion of the needle you cannot depress the plunger, you must dispose of the pre-filled syringe in a puncture resistant container and use a new pre-filled syringe.
 
 Do not use if the medicine is cloudy or contains particles, is any colour besides colourless to yellow, or any part of the pre-filled syringe appears to be damaged.
 
@@ -2440,9 +2441,11 @@ Any unused product or waste material should be disposed of in accordance with lo
 
 ## 7. MARKETING AUTHORISATION HOLDER
 
-Celltrion Healthcare Hungary Kft. 1062 Budapest Váci út 1-3. WestEnd Office Building B torony Hungary
+Celltrion Healthcare Hungary Kft. 1062 Budapest Váci út 1-3. WestEnd Office Building B torony
 
 <div style=\"page-break-after: always\"></div>
+
+Hungary
 
 ## 8. MARKETING AUTHORISATION NUMBER(S)
 
@@ -2458,21 +2461,23 @@ Detailed information on this medicinal product is available on the website of th
 
 <div style=\"page-break-after: always\"></div>
 
+<!-- image -->
+
 This medicinal product is subject to additional monitoring. This will allow quick identification of new safety information. Healthcare professionals are asked to report any suspected adverse reactions. See section 4.8 for how to report adverse reactions.
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
-Avtozma 162 mg solution for injection in pre-filled pen.
+Avtozma 162 mg solution for injection in pre-filled pen
 
 ## 2. QUALITATIVE AND QUANTITATIVE COMPOSITION
 
 Each pre-filled pen contains 162 mg of tocilizumab in 0.9 mL.
 
-Tocilizumab is a recombinant humanized, anti-human monoclonal antibody of the immunoglobulin G1 (IgG1) sub-class directed against soluble and membrane-bound interleukin 6  receptors.
+Tocilizumab is a recombinant humanized, anti-human monoclonal antibody of the immunoglobulin G1 (IgG1) sub-class directed against soluble and membrane-bound interleukin 6 receptors.
 
 ## Excipients with known effect:
 
-## Polysorbate
+Polysorbate
 
 Each 162 mg pre-filled pen contains 0.2 mg of polysorbate 80.
 
@@ -2501,9 +2506,9 @@ Avtozma has been shown to reduce the rate of progression of joint damage as meas
 
 Avtozma is indicated for the treatment of active systemic juvenile idiopathic arthritis (sJIA) in patients 12 years of age and older, who have responded inadequately to previous therapy with NSAIDs  and systemic corticosteroids (see Section 4.2). Avtozma can be given as monotherapy (in case of intolerance to MTX or where treatment with  MTX is inappropriate) or in combination with MTX.
 
-<div style=\"page-break-after: always\"></div>
+Polyarticular juvenile idiopathic arthritis (pJIA)
 
-## Polyarticular juvenile idiopathic arthritis (pJIA)
+<div style=\"page-break-after: always\"></div>
 
 Avtozma in combination with methotrexate (MTX) is indicated for the treatment of juvenile idiopathic polyarthritis (pJIA; rheumatoid factor positive or negative and extended oligoarthritis) in patients 12 years of age and older, who have responded inadequately to previous therapy with MTX (see Section 4.2). Avtozma can be given as monotherapy in case of intolerance to MTX or where continued treatment  with MTX is inappropriate.
 
@@ -2515,13 +2520,13 @@ Avtozma is indicated for the treatment of Giant Cell Arteritis (GCA) in adult pa
 
 Tocilizumab SC formulation is administered with a single-use pre-filled pen. Treatment should be initiated by healthcare professionals experienced in the diagnosis and treatment of RA, sJIA, pJIA and/or GCA. The pre-filled pen should not be used to treat paediatric patients &lt; 12 years of age since there is a  potential risk of intramuscular injection due to thinner subcutaneous tissue layer.
 
-The first injection should be performed under the supervision of a qualified health care professional. A  patient or parent/guardian can inject Avtozma only if the physician determines that it is appropriate  and the patient or parent/guardian agrees to medical follow-up as necessary and has been trained in  proper injection technique.
+The first injection should be performed under the supervision of a qualified health care professional. A patient or parent/guardian can inject Avtozma only if the physician determines that it is appropriate and the patient or parent/guardian agrees to medical follow-up as necessary and has been trained in proper injection technique.
 
 Patients who transition from tocilizumab IV therapy to SC administration should administer the first SC dose at the time of the next scheduled IV dose under the supervision of a qualified health care professional.
 
 All patients treated with Avtozma should be given the Patient Alert Card.
 
-Suitability of the patient or parent/guardian for subcutaneous home use should be assessed and patients  or their parent/guardian should be instructed to inform a healthcare professional before administering  the next dose if they experience symptoms of an allergic reaction. Patients should seek immediate  medical attention if developing symptoms of serious allergic reactions (see section 4.4).
+Suitability of the patient or parent/guardian for subcutaneous home use should be assessed and patients or their parent/guardian should be instructed to inform a healthcare professional before administering the next dose if they experience symptoms of an allergic reaction. Patients should seek immediate medical attention if developing symptoms of serious allergic reactions (see section 4.4).
 
 ## Posology
 
@@ -2543,9 +2548,9 @@ Based upon the chronic nature of GCA, treatment beyond 52 weeks should be guided
 
 Dose adjustments due to laboratory abnormalities (see section 4.4).
 
-<div style=\"page-break-after: always\"></div>
+- Liver enzyme abnormalities
 
-## · Liver enzyme abnormalities
+<div style=\"page-break-after: always\"></div>
 
 | Laboratory Value                       | Action                                                                                                                                                                                                                                                                                                                                                                                |
 |----------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -2555,7 +2560,7 @@ Dose adjustments due to laboratory abnormalities (see section 4.4).
 
 ## · Low absolute neutrophil count (ANC)
 
-In patients not previously treated with tocilizumab , initiation is not recommended in patients with an absolute neutrophil count (ANC) below 2 x 10 9 /L.
+In patients not previously treated with tocilizumab, initiation is not recommended in patients with an absolute neutrophil count (ANC) below 2 x 10 9 /L.
 
 | Laboratory Value (cells x 10 9 /L)   | Action                                                                                                                                                            |
 |--------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -2565,12 +2570,14 @@ In patients not previously treated with tocilizumab , initiation is not recommen
 
 ## · Low platelet count
 
-| Laboratory Value (cells x 10 3 / μL)   | Action                    |
-|----------------------------------------|---------------------------|
-| 50 to 100                              | Interrupt Avtozma dosing. |
-| < 50                                   | Discontinue Avtozma.      |
+| Laboratory Value (cells x 10 3 / μL)   | Action                                                                                                                                                                |
+|----------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| 50 to 100                              | Interrupt Avtozma dosing. When platelet count > 100 x 10 3 /μL resume Avtozma dosing every other week and increase to every week injection as clinically appropriate. |
+| < 50                                   | Discontinue Avtozma.                                                                                                                                                  |
 
-## RA and GCA Missed dose
+## RA and GCA
+
+Missed dose
 
 If a patient misses a subcutaneous weekly injection of Avtozma within 7 days of the scheduled dose, he/she should be instructed to take the missed dose on the next scheduled day. If a patient misses a subcutaneous once every other week injection of Avtozma within 7 days of the scheduled dose, he/she should be instructed to take the missed dose immediately and the next dose on the next scheduled day.
 
@@ -2580,11 +2587,13 @@ If a patient misses a subcutaneous weekly injection of Avtozma within 7 days of 
 
 No dose adjustment is required in elderly patients &gt;65 years of age.
 
-<div style=\"page-break-after: always\"></div>
-
 ## Renal impairment:
 
-No dose adjustment is required in patients with mild or moderate renal impairment. Avtozma has not been studied in patients with severe renal impairment (see section 5.2). Renal function should be  monitored closely in these patients.
+No dose adjustment is required in patients with mild or moderate renal impairment. Avtozma has not
+
+<div style=\"page-break-after: always\"></div>
+
+been studied in patients with severe renal impairment (see section 5.2). Renal function should be monitored closely in these patients.
 
 ## Hepatic impairment:
 
@@ -2594,7 +2603,7 @@ Avtozma has not been studied in patients with hepatic impairment. Therefore, no 
 
 The safety and efficacy of Avtozma subcutaneous formulation in children from birth to less than 1 year have not been established. No data are available.
 
-A change in dose should only be based on a consistent change in the patient's body weight over time.  Avtozma can be used alone or in combination with MTX.
+A change in dose should only be based on a consistent change in the patient's body weight over time. Avtozma can be used alone or in combination with MTX.
 
 ## sJIA Patients
 
@@ -2606,9 +2615,11 @@ Patients must have a minimum body weight of 10 kg when receiving Avtozma subcuta
 
 ## pJIA Patients:
 
-The recommended posology in patients above 12 years of age is 162 mg subcutaneously once every 2  weeks in patients weighing greater than or equal to 30 kg or 162 mg subcutaneously once every 3 weeks in patients weighing less than 30 kg.
+The recommended posology in patients above 12 years of age is 162 mg subcutaneously once every 2 weeks in patients weighing greater than or equal to 30 kg or 162 mg subcutaneously once every 3 weeks in patients weighing less than 30 kg.
 
-The pre-filled pen should not be used to treat paediatric patients &lt; 12 years of age.  Dose adjustments due to laboratory abnormalities (sJIA and pJIA)
+The pre-filled pen should not be used to treat paediatric patients &lt; 12 years of age.
+
+## Dose adjustments due to laboratory abnormalities (sJIA and pJIA)
 
 If appropriate, the dose of concomitant MTX and/or other medications should be modified or dosing stopped and tocilizumab dosing interrupted until the clinical situation has been evaluated. As there are  many co-morbid conditions that may affect laboratory values in sJIA or pJIA, the decision to discontinue tocilizumab for a laboratory abnormality should be based upon the medical assessment of the individual patient.
 
@@ -2620,15 +2631,17 @@ If appropriate, the dose of concomitant MTX and/or other medications should be m
 | > 3 x ULN to 5x ULN | Modify the dose of the concomitantMTX if appropriate. Interrupt Avtozma dosing until < 3x ULN and follow recommendations above for >1 to 3x ULN.                           |
 | > 5x ULN            | Discontinue Avtozma. The decision to discontinue Avtozma in sJIA or pJIA for a laboratory abnormality should be based on the medical assessment of the individual patient. |
 
-<div style=\"page-break-after: always\"></div>
-
 ## · Low absolute neutrophil count (ANC)
 
-| Laboratory Value (cells x 10 9 /L)   | Action                                                                                                                                                                     |
-|--------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| ANC > 1                              | Maintain dose.                                                                                                                                                             |
-| ANC 0.5 to 1                         | Interrupt Avtozma dosing. When ANC increases to > 1 x 10 9 /L resume Avtozma.                                                                                              |
-| ANC < 0.5                            | Discontinue Avtozma. The decision to discontinue Avtozma in sJIA or pJIA for a laboratory abnormality should be based on the medical assessment of the individual patient. |
+| Laboratory Value (cells x 10 9 /L)   | Action   |
+|--------------------------------------|----------|
+
+<div style=\"page-break-after: always\"></div>
+
+| ANC > 1      | Maintain dose.                                                                                                                                                             |
+|--------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| ANC 0.5 to 1 | Interrupt Avtozma dosing. When ANCincreases to > 1 x 10 9 /L resume Avtozma.                                                                                               |
+| ANC < 0.5    | Discontinue Avtozma. The decision to discontinue Avtozma in sJIA or pJIA for a laboratory abnormality should be based on the medical assessment of the individual patient. |
 
 ## · Low platelet count
 
@@ -2637,11 +2650,11 @@ If appropriate, the dose of concomitant MTX and/or other medications should be m
 | 50 to 100                               | Modify the dose of the concomitantMTX if appropriate. Interrupt Avtozma dosing. When platelet count is > 100 x 10 3 / µ L resume Avtozma.                                  |
 | < 50                                    | Discontinue Avtozma. The decision to discontinue Avtozma in sJIA or pJIA for a laboratory abnormality should be based on the medical assessment of the individual patient. |
 
-Reduction of tocilizumab dosing frequency due to laboratory abnormalities has not been studied in  sJIA or pJIA patients.
+Reduction of tocilizumab dosing frequency due to laboratory abnormalities has not been studied in sJIA or pJIA patients.
 
-The safety and efficacy of Avtozma subcutaneous formulation in children with conditions other than  sJIA or pJIA have not been established.
+The safety and efficacy of Avtozma subcutaneous formulation in children with conditions other than sJIA or pJIA have not been established.
 
-Available data with the IV formulation suggest that clinical improvement is observed within 12 weeks  of initiation of treatment with tocilizumab. Continued therapy should be carefully reconsidered in a  patient exhibiting no improvement within this timeframe.
+Available data with the IV formulation suggest that clinical improvement is observed within 12 weeks of initiation of treatment with tocilizumab. Continued therapy should be carefully reconsidered in a patient exhibiting no improvement within this timeframe.
 
 ## Missed dose
 
@@ -2653,15 +2666,13 @@ If a pJIA patient misses a subcutaneous injection of Avtozma within 7 days of th
 
 ## Avtozma is for subcutaneous use.
 
-After proper training in injection technique, patients may self-inject with Avtozma if their physician determines that it is appropriate. The total content (0.9 mL) of the pre-filled pen should be administered as a subcutaneous injection. The recommended injection sites (abdomen, thigh and upper  arm) should be rotated and injections should never be given into moles, scars, or areas where
-
-<div style=\"page-break-after: always\"></div>
-
-the skin  is tender, bruised, red, hard, or not intact.
+After proper training in injection technique, patients may self-inject with Avtozma if their physician determines that it is appropriate. The total content (0.9 mL) of the pre-filled pen should be administered as a subcutaneous injection. The recommended injection sites (abdomen, thigh and upper arm) should be rotated and injections should never be given into moles, scars, or areas where the skin is tender, bruised, red, hard, or not intact.
 
 The pre-filled pen should not be shaken.
 
 Comprehensive instructions for the administration of Avtozma in a pre-filled pen are given in the package leaflet, see section 6.6.
+
+<div style=\"page-break-after: always\"></div>
 
 ## 4.3 Contraindications
 
@@ -2681,11 +2692,11 @@ In order to improve the traceability of biological medicinal products, the name 
 
 Serious and sometimes fatal infections have been reported in patients receiving immunosuppressive agents including tocilizumab (see section 4.8, Undesirable effects). Avtozma treatment must not be initiated in patients with active infections (see section 4.3). Administration of tocilizumab should be interrupted if a patient develops a serious infection until the infection is controlled (see section 4.8). Healthcare professionals should exercise caution when considering the use of Avtozma in patients with a history of recurring or chronic infections or with underlying conditions (e.g. diverticulitis, diabetes and interstitial lung disease which may predispose patients to infections.
 
-Vigilance for the timely detection of serious infection is recommended for patients receiving immunosuppressive agents such as Avtozma as signs and symptoms of acute inflammation may be lessened, due to suppression of the acute phase reactants. The effects of Avtozma on C-reactive protein (CRP), neutrophils and signs and symptoms of infection should be considered when evaluating  a patient for a potential infection. Patients, and parents/guardians of sJIA or pJIA patients, should be  instructed to contact their healthcare professional immediately when any symptoms suggesting  infection appear, in order to assure rapid evaluation and appropriate treatment.
+Vigilance for the timely detection of serious infection is recommended for patients receiving immunosuppressive agents such as Avtozma as signs and symptoms of acute inflammation may be lessened, due to suppression of the acute phase reactants. The effects of Avtozma on C-reactive protein (CRP), neutrophils and signs and symptoms of infection should be considered when evaluating a patient for a potential infection. Patients, and parents/guardians of sJIA or pJIA patients, should be instructed to contact their healthcare professional immediately when any symptoms suggesting infection appear, in order to assure rapid evaluation and appropriate treatment.
 
 ## Tuberculosis
 
-As recommended for other biological treatments, all patients should be screened for latent tuberculosis  (TB) infection prior to starting Avtozma therapy. Patients with latent TB should be treated with  standard anti-mycobacterial therapy before initiating Avtozma. Prescribers are reminded of the risk  of false negative tuberculin skin and interferon-gamma TB blood test results, especially in patients  who are severely ill or immunocompromised.
+As recommended for other biological treatments, all patients should be screened for latent tuberculosis (TB) infection prior to starting Avtozma therapy. Patients with latent TB should be treated with standard anti-mycobacterial therapy before initiating Avtozma. Prescribers are reminded of the risk of false negative tuberculin skin and interferon-gamma TB blood test results, especially in patients who are severely ill or immunocompromised.
 
 Patients, and parents/guardians of sJIA or pJIA patients should be advised to seek medical advice if signs/symptoms (e.g., persistent cough, wasting/weight loss, low grade (fever) suggestive of a tuberculosis infection occur during or after therapy with Avtozma.
 
@@ -2695,15 +2706,15 @@ Viral reactivation (e.g. hepatitis B virus) has been reported with biologic ther
 
 ## Complications of diverticulitis
 
-Events of diverticular perforations as complications of diverticulitis have been reported uncommonly  in patients treated with Avtozma (see section 4.8). Avtozma should be used with caution in  patients with previous history of intestinal ulceration or diverticulitis. Patients presenting
-
-<div style=\"page-break-after: always\"></div>
-
-with  symptoms potentially indicative of complicated diverticulitis, such as abdominal pain, haemorrhage  and/or unexplained change in bowel habits with fever should be evaluated promptly for early  identification of diverticulitis which can be associated with gastrointestinal perforation.
+Events of diverticular perforations as complications of diverticulitis have been reported uncommonly in patients treated with Avtozma (see section 4.8). Avtozma should be used with caution in patients with previous history of intestinal ulceration or diverticulitis. Patients presenting with symptoms potentially indicative of complicated diverticulitis, such as abdominal pain, haemorrhage and/or unexplained change in bowel habits with fever should be evaluated promptly for early identification of diverticulitis which can be associated with gastrointestinal perforation.
 
 ## Hypersensitivity reactions
 
-Serious hypersensitivity reactions, including anaphylaxis have been reported in association with tocilizumab (see section 4.8). Such reactions may be more severe, and potentially fatal in patients who  have experienced hypersensitivity reactions during previous treatment with Avtozma even if they  have received premedication with steroids and antihistamines. If an anaphylactic reaction or other  serious hypersensitivity reaction occurs, administration of Avtozma should be stopped immediately,  appropriate therapy initiated and Avtozma should be permanently discontinued.
+Serious hypersensitivity reactions, including anaphylaxis have been reported in association with
+
+<div style=\"page-break-after: always\"></div>
+
+tocilizumab (see section 4.8). Such reactions may be more severe, and potentially fatal in patients who  have experienced hypersensitivity reactions during previous treatment with Avtozma even if they  have received premedication with steroids and antihistamines. If an anaphylactic reaction or other  serious hypersensitivity reaction occurs, administration of Avtozma should be stopped immediately,  appropriate therapy initiated and Avtozma should be permanently discontinued.
 
 ## Active hepatic disease and hepatic impairment
 
@@ -2713,7 +2724,7 @@ Treatment with Avtozma, particularly when administered concomitantly with MTX, m
 
 Transient or intermittent mild and moderate elevations of hepatic transaminases have been reported commonly with tocilizumab treatment (see section 4.8). An increased frequency of these elevations was observed when potentially hepatotoxic drugs (e.g. MTX) were used in combination with tocilizumab. When clinically indicated, other liver function tests including bilirubin should be considered.
 
-Serious drug-induced liver injury, including acute liver failure, hepatitis and jaundice, have been observed with tocilizumab (see section 4.8). Serious hepatic injury occurred between 2 weeks to more  than 5 years after initiation of tocilizumab. Cases of liver failure resulting in liver transplantation have  been reported. Patients should be advised to immediately seek medical help if they experience signs and symptoms of hepatic injury.
+Serious drug-induced liver injury, including acute liver failure, hepatitis and jaundice, have been observed with tocilizumab (see section 4.8). Serious hepatic injury occurred between 2 weeks to more than 5 years after initiation of tocilizumab. Cases of liver failure resulting in liver transplantation have been reported. Patients should be advised to immediately seek medical help if they experience signs and symptoms of hepatic injury.
 
 Caution should be exercised when considering initiation of Avtozma treatment in patients with elevated ALT or AST &gt; 1.5 x ULN. In patients with baseline ALT or AST &gt; 5 x ULN, treatment is not  recommended.
 
@@ -2723,21 +2734,19 @@ In RA, GCA, pJIA and sJIA patients, ALT/AST should be monitored every 4 to 8 wee
 
 Decreases in neutrophil and platelet counts have occurred following treatment with tocilizumab 8 mg/kg in combination with MTX (see section 4.8). There may be an increased risk of neutropenia in patients who have previously been treated with a TNF antagonist.
 
-In patients not previously treated with tocilizumab, initiation is not recommended in patients with an ANC below 2 x 10 9 /L. Caution should be exercised when considering initiation of tocilizumab treatment in patients with a low platelet count (i.e. platelet count below 100 x 10 3 /μL). In patients who  develop an ANC &lt; 0.5 x 10 9 /L or a platelet count &lt; 50 x 10 3 /μL, continued treatment is not recommended.
+In patients not previously treated with tocilizumab, initiation is not recommended in patients with an ANC below 2 x 10 9 /L. Caution should be exercised when considering initiation of tocilizumab treatment in patients with a low platelet count (i.e. platelet count below 100 x 10 3 /μL). In patients who develop an ANC &lt; 0.5 x 10 9 /L or a platelet count &lt; 50 x 10 3 /μL, continued treatment is not recommended.
 
 Severe neutropenia may be associated with an increased risk of serious infections, although there has been no clear association between decreases in neutrophils and the occurrence of serious infections in clinical trials with tocilizumab to date.
 
-In RA and GCA patients, neutrophils and platelets should be monitored 4 to 8 weeks after start of therapy and thereafter according to standard clinical practice. For recommended dose modifications
-
-<div style=\"page-break-after: always\"></div>
-
-based on ANC and platelet counts, see section 4.2.
+In RA and GCA patients, neutrophils and platelets should be monitored 4 to 8 weeks after start of therapy and thereafter according to standard clinical practice. For recommended dose modifications based on ANC and platelet counts, see section 4.2.
 
 In sJIA and pJIA patients, neutrophils and platelets should be monitored at the time of the second administration and thereafter according to good clinical practice (see section 4.2).
 
 ## Lipid parameters
 
-Elevations in lipid parameters including total cholesterol, low-density lipoprotein (LDL), highdensity lipoprotein (HDL) and triglycerides were observed in patients treated with tocilizumab (see section  4.8). In the majority of patients, there was no increase in atherogenic indices, and elevations in total  cholesterol responded to treatment with lipid lowering agents.
+<div style=\"page-break-after: always\"></div>
+
+Elevations in lipid parameters including total cholesterol, low-density lipoprotein (LDL), high-density lipoprotein (HDL) and triglycerides were observed in patients treated with tocilizumab (see section 4.8). In the majority of patients, there was no increase in atherogenic indices, and elevations in total cholesterol responded to treatment with lipid lowering agents.
 
 In RA and GCA patients, assessment of lipid parameters should be performed 4 to 8 weeks following initiation of tocilizumab therapy. Patients should be managed according to local clinical guidelines for management of hyperlipidaemia.
 
@@ -2747,7 +2756,7 @@ Physicians should be vigilant for symptoms potentially indicative of new-onset c
 
 ## Malignancy
 
-The risk of malignancy is increased in patients with RA. Immunomodulatory medicinal products may  increase the risk of malignancy.
+The risk of malignancy is increased in patients with RA. Immunomodulatory medicinal products may increase the risk of malignancy.
 
 ## Vaccinations
 
@@ -2767,7 +2776,7 @@ Avtozma monotherapy should not be used for the treatment of acute relapses as ef
 
 ## sJIA
 
-Macrophage activation syndrome (MAS) is a serious life-threatening disorder that may develop in sJIA patients. In clinical trials, tocilizumab has not been studied in patients during an episode of active  MAS.
+Macrophage activation syndrome (MAS) is a serious life-threatening disorder that may develop in sJIA patients. In clinical trials, tocilizumab has not been studied in patients during an episode of active MAS.
 
 ## Excipients with known effect
 
@@ -2777,13 +2786,13 @@ Each 162 mg pre-filled pen contains 0.2 mg of polysorbate 80.
 
 Polysorbates may cause allergic reactions. Patients with polysorbate allergy should not take this medicine.
 
-<div style=\"page-break-after: always\"></div>
-
 ## 4.5 Interaction with other medicinal products and other forms of interaction
 
 Interaction studies have only been performed in adults.
 
 Concomitant administration of a single dose of 10 mg/kg Avtozma with 10-25 mg MTX once weekly had no clinically significant effect on MTX exposure.
+
+<div style=\"page-break-after: always\"></div>
 
 Population pharmacokinetic analyses did not detect any effect of MTX, non-steroidal antiinflammatory drugs (NSAIDs) or corticosteroids on tocilizumab clearance in RA patients. In GCA patients, no effect of cumulative corticosteroid dose on tocilizumab exposure was observed.
 
@@ -2793,7 +2802,7 @@ In vitro studies with cultured human hepatocytes demonstrated that IL-6 caused a
 
 In a study in RA patients, levels of simvastatin (CYP3A4) were decreased by 57% one week following  a single dose of tocilizumab, to the level similar to, or slightly higher than, those observed in healthy subjects.
 
-When starting or stopping therapy with tocilizumab, patients taking medicinal products which are individually adjusted and are metabolised via CYP450 3A4, 1A2 or 2C9 (e.g. methylprednisolone, dexamethasone, (with the possibility for oral glucocorticoid withdrawal syndrome), atorvastatin, calcium channel blockers, theophylline, warfarin, phenprocoumon, phenytoin, ciclosporin, or benzodiazepines) should be monitored as doses may need to be increased to maintain therapeutic effect. Given its long elimination half-life (t1/2), the effect of tocilizumab on CYP450 enzyme activity  may persist for several weeks after stopping therapy.
+When starting or stopping therapy with tocilizumab, patients taking medicinal products which are individually adjusted and are metabolised via CYP450 3A4, 1A2 or 2C9 (e.g. methylprednisolone, dexamethasone, (with the possibility for oral glucocorticoid withdrawal syndrome), atorvastatin, calcium channel blockers, theophylline, warfarin, phenprocoumon, phenytoin, ciclosporin, or benzodiazepines) should be monitored as doses may need to be increased to maintain therapeutic effect. Given its long elimination half-life (t1/2), the effect of tocilizumab on CYP450 enzyme activity may persist for several weeks after stopping therapy.
 
 ## 4.6 Fertility, pregnancy and lactation
 
@@ -2803,7 +2812,7 @@ Women of childbearing potential must use effective contraception during and up t
 
 ## Pregnancy
 
-There are no adequate data from the use of Avtozma in pregnant women. A study in animals has shown an increased risk of spontaneous abortion/embryo-foetal death at a high dose (see section 5.3).  The potential risk for humans is unknown.
+There are no adequate data from the use of Avtozma in pregnant women. A study in animals has shown an increased risk of spontaneous abortion/embryo-foetal death at a high dose (see section 5.3). The potential risk for humans is unknown.
 
 Avtozma should not be used during pregnancy unless clearly necessary.
 
@@ -2815,8 +2824,6 @@ It is unknown whether Avtozma is excreted in human breast milk. The excretion of
 
 Available non-clinical data do not suggest an effect on fertility under Avtozma treatment.
 
-<div style=\"page-break-after: always\"></div>
-
 ## 4.7 Effects on ability to drive and use machines
 
 tocilizumab has a minor influence on the ability to drive and use machines (see section 4.8, dizziness).
@@ -2825,15 +2832,17 @@ tocilizumab has a minor influence on the ability to drive and use machines (see 
 
 ## Summary of the safety profile
 
-The safety profile comes from 4 510 patients exposed to tocilizumab in clinical trials; the majority of these patients were participating in RA studies (n=4 009), while the remaining experience comes from  GCA (n=149), pJIA (n=240) and sJIA (n=112)  studies. The safety profile of tocilizumab across these  indications remains similar and undifferentiated.
+<div style=\"page-break-after: always\"></div>
 
-The most commonly reported Adverse Drug Reactions (ADRs) were upper respiratory tract infections,  nasopharyngitis, headache, hypertension and increased ALT.
+The safety profile comes from 4 510 patients exposed to tocilizumab in clinical trials; the majority of these patients were participating in RA studies (n=4 009), while the remaining experience comes from GCA (n=149), pJIA (n=240) and sJIA (n=112)  studies. The safety profile of tocilizumab across these indications remains similar and undifferentiated.
+
+The most commonly reported Adverse Drug Reactions (ADRs) were upper respiratory tract infections, nasopharyngitis, headache, hypertension and increased ALT.
 
 The most serious ADRs were serious infections, complications of diverticulitis, and hypersensitivity reactions.
 
 ## Tabulated list of adverse reactions
 
-ADRs from clinical trials and/or post marketing experience with tocilizumab based on spontaneous case reports, literature cases and cases from non-interventional study programs are listed in Table 1 and are presented by MedDRA system organ class. The corresponding frequency category is based on  the following convention: very common (≥ 1/10); common (≥ 1/100 to &lt; 1/10), uncommon (≥ 1/1 000  to &lt; 1/100) rare (≥1/10 000 to &lt;1/1 000) or very rare (&lt;1/10 000). Within each frequency grouping,  undesirable effects are presented in order of decreasing seriousness.
+ADRs from clinical trials and/or post marketing experience with tocilizumab based on spontaneous case reports, literature cases and cases from non-interventional study programs are listed in Table 1 and are presented by MedDRA system organ class. The corresponding frequency category is based on the following convention: very common (≥ 1/10); common (≥ 1/100 to &lt; 1/10), uncommon (≥ 1/1 000 to &lt; 1/100) rare (≥1/10 000 to &lt;1/1 000) or very rare (&lt;1/10 000). Within each frequency grouping, undesirable effects are presented in order of decreasing seriousness.
 
 Table 1. List of ADRs occurring in patients treated with tocilizumab
 
@@ -2849,46 +2858,38 @@ Table 1. List of ADRs occurring in patients treated with tocilizumab
 | Eye disorders                                   |                                          | Conjunctivitis                                            |                                          |                                          |
 | Vascular disorders                              |                                          | Hypertension                                              |                                          |                                          |
 | Respiratory, thoracic and mediastinal disorders |                                          | Cough, Dyspnoea                                           |                                          |                                          |
+| Gastrointestinal disorders                      |                                          | Abdominal pain, Mouth ulceration, Gastritis               | Stomatitis, Gastric ulcer                |                                          |
 
 <div style=\"page-break-after: always\"></div>
 
-| MedDRA                                               | Frequency category with preferred term   | Frequency category with preferred term                                        | Frequency category with preferred term   | Frequency category with preferred term                                     |
+| MedDRA System Organ                                  | Frequency category with preferred term   | Frequency category with preferred term                                        | Frequency category with preferred term   | Frequency category with preferred term                                     |
 |------------------------------------------------------|------------------------------------------|-------------------------------------------------------------------------------|------------------------------------------|----------------------------------------------------------------------------|
-| System Organ Class                                   | Very common                              | Common                                                                        | Uncommon                                 | Rare                                                                       |
-| Gastrointestinal disorders                           |                                          | Abdominal pain, Mouth ulceration, Gastritis                                   | Stomatitis, Gastric ulcer                |                                                                            |
+| Class                                                | Very common                              | Common                                                                        | Uncommon                                 | Rare                                                                       |
 | Hepatobiliary disorders                              |                                          |                                                                               |                                          | Drug-induced liver injury, Hepatitis, Jaundice, Very rare: Hepatic failure |
 | Skin and subcutaneous tissue disorders               |                                          | Rash, Pruritus, Urticaria                                                     |                                          | Stevens-Johnson- Syndrome 3                                                |
 | Renal and urinary disorders                          |                                          |                                                                               | Nephrolithiasis                          |                                                                            |
 | General disorders and administration site conditions | Injection site reaction                  | Peripheral oedema Hypersensitivity reaction,                                  |                                          |                                                                            |
 | Investigations                                       |                                          | Hepatic transaminases increased, Weight increased, Total bilirubin increased* |                                          |                                                                            |
 
-* Includes elevations collected as part of routine laboratory monitoring (see text below)
-
-1 See section 4.3
-
-2 See section 4.4
-
-3 This adverse reaction was identified through post marketing surveillance but not observed in controlled clinical trials. The frequency category was estimated as the upper limit of the 95% confidence interval calculated on the basis of the total number of patients exposed to TCZ in clinical trials.
-
 ## Subcutaneous use
 
 ## RA
 
-The safety of subcutaneous tocilizumab in RA includes a double-blind, controlled, multicenter study,  SC-I. SC-I was a non-inferiority study that compared the efficacy and safety of tocilizumab 162 mg  administered every week versus 8 mg/kg intravenous in 1 262 patients with RA. All patients received  background non-biologic DMARD(s). The safety and immunogenicity observed for tocilizumab  administered subcutaneous was consistent with the known safety profile of intravenous tocilizumab  and no new or unexpected adverse drug reactions were observed (see Table 1). A higher frequency of  injection site reactions was observed in the subcutaneous arms compared with placebo subcutaneous  injections in the intravenous arms.
+The safety of subcutaneous tocilizumab in RA includes a double-blind, controlled, multicenter study, SC-I. SC-I was a non-inferiority study that compared the efficacy and safety of tocilizumab 162 mg administered every week versus 8 mg/kg intravenous in 1 262 patients with RA. All patients received background non-biologic DMARD(s). The safety and immunogenicity observed for tocilizumab administered subcutaneous was consistent with the known safety profile of intravenous tocilizumab and no new or unexpected adverse drug reactions were observed (see Table 1). A higher frequency of injection site reactions was observed in the subcutaneous arms compared with placebo subcutaneous injections in the intravenous arms.
 
 ## Injection site reactions
 
-During the 6-month controlled period, in SC-I, the frequency of injection site reactions was 10.1%  (64/631) and 2.4% (15/631) for the subcutaneous tocilizumab and the subcutaneous placebo  (intravenous group) weekly injections, respectively. These injection site reactions (including  erythema, pruritus, pain and haematoma) were mild to moderate in severity. The majority was  resolved without any treatment and none necessitated drug discontinuation.
+During the 6-month controlled period, in SC-I, the frequency of injection site reactions was 10.1% (64/631) and 2.4% (15/631) for the subcutaneous tocilizumab and the subcutaneous placebo (intravenous group) weekly injections, respectively. These injection site reactions (including erythema, pruritus, pain and haematoma) were mild to moderate in severity. The majority was resolved without any treatment and none necessitated drug discontinuation.
 
 ## Haematological abnormalities:
 
 ## Neutrophils
 
-During routine laboratory monitoring in the tocilizumab 6 month controlled clinical trial SC-I, a decrease in neutrophil count below 1 × 10 9 /L occurred in 2.9% of patients on the subcutaneous weekly  dose.
+During routine laboratory monitoring in the tocilizumab 6 month controlled clinical trial SC-I, a decrease in neutrophil count below 1 × 10 9 /L occurred in 2.9% of patients on the subcutaneous weekly dose.
+
+There was no clear relationship between decreases in neutrophils below 1 x 10 9 /L and the occurrence of serious infections.
 
 <div style=\"page-break-after: always\"></div>
-
-There was no clear relationship between decreases in neutrophils below 1 x 10 9 /L and the occurrence  of serious infections.
 
 ## Platelets
 
@@ -2900,13 +2901,13 @@ During routine laboratory monitoring in the tocilizumab 6-month controlled clini
 
 ## Lipid parameters
 
-During routine laboratory monitoring in the tocilizumab 6 month controlled clinical trial SC-I, 19% of  patients experienced sustained elevations in total cholesterol &gt; 6.2 mmol/L (240 mg/dL), with 9% experiencing a sustained increase in LDL to ≥ 4.1 mmol/L (160 mg/dL) on the subcutaneous weekly dose.
+During routine laboratory monitoring in the tocilizumab 6 month controlled clinical trial SC-I, 19% of patients experienced sustained elevations in total cholesterol &gt; 6.2 mmol/L (240 mg/dL), with 9% experiencing a sustained increase in LDL to ≥ 4.1 mmol/L (160 mg/dL) on the subcutaneous weekly dose.
 
 ## Subcutaneous Use
 
 ## sJIA
 
-The safety profile of subcutaneous tocilizumab was evaluated in 51 paediatric patients (1 to 17 years of  age) with sJIA. In general, the adverse drug reactions in patients with sJIA were similar in type to those seen in RA patients (see Undesirable Effects section above).
+The safety profile of subcutaneous tocilizumab was evaluated in 51 paediatric patients (1 to 17 years of age) with sJIA. In general, the adverse drug reactions in patients with sJIA were similar in type to those seen in RA patients (see Undesirable Effects section above).
 
 ## Infections
 
@@ -2928,17 +2929,19 @@ In the 52-week open-label SC Study (WA28118), 23.4% and 35.4% of patients experi
 
 ## pJIA
 
-The safety profile of subcutaneous tocilizumab was also evaluated in 52 paediatric patients with pJIA.  The total patient exposure to tocilizumab in the pJIA all exposure population was 184.4 patient years  for IV and 50.4 patient years for SC tocilizumab. In general, the safety profile observed in patients  with pJIA was consistent with the known safety profile of tocilizumab with the exception of ISRs (see  Table 1). A higher frequency of pJIA patients experienced ISRs following SC tocilizumab injections  compared to adult RA.
+The safety profile of subcutaneous tocilizumab was also evaluated in 52 paediatric patients with pJIA. The total patient exposure to tocilizumab in the pJIA all exposure population was 184.4 patient years for IV and 50.4 patient years for SC tocilizumab. In general, the safety profile observed in patients with pJIA was consistent with the known safety profile of tocilizumab with the exception of ISRs (see Table 1). A higher frequency of pJIA patients experienced ISRs following SC tocilizumab injections compared to adult RA.
 
 ## Infections
 
 In the SC tocilizumab study, the rate of infection in pJIA patients treated with SC tocilizumab was comparable with pJIA patients treated with IV tocilizumab.
 
-<div style=\"page-break-after: always\"></div>
-
 ## Injection Site Reactions
 
-A total of 28.8% (15/52) pJIA patients experienced ISRs to tocilizumab SC. These ISRs occurred in a  44% of patients ≥ 30 kg compared to 14.8% of patients below 30 kg.  The most common ISRs were injection site erythema, swelling, hematoma, pain and pruritis. All ISRs reported were non-serious Grade 1 events, and none of the ISRs required patient withdrawal from treatment or dose interruption.
+A total of 28.8% (15/52) pJIA patients experienced ISRs to tocilizumab SC. These ISRs occurred in a
+
+<div style=\"page-break-after: always\"></div>
+
+44% of patients ≥ 30 kg compared to 14.8% of patients below 30 kg.  The most common ISRs were injection site erythema, swelling, hematoma, pain and pruritis. All ISRs reported were non-serious Grade 1 events, and none of the ISRs required patient withdrawal from treatment or dose interruption.
 
 ## Laboratory Abnormalities
 
@@ -2946,7 +2949,7 @@ During routine laboratory monitoring in the tocilizumab all exposure population,
 
 ## Lipid parameters
 
-In the SC Study, 14.3% and 12.8% of patients experienced a post-baseline elevation of their LDLcholesterol value to ≥ 130 mg/dL and total cholesterol value to ≥ 200 mg/dL at any time during study  treatment, respectively.
+In the SC Study, 14.3% and 12.8% of patients experienced a post-baseline elevation of their LDLcholesterol value to ≥ 130 mg/dL and total cholesterol value to ≥ 200 mg/dL at any time during study treatment, respectively.
 
 ## Subcutaneous Use
 
@@ -2966,7 +2969,7 @@ In the tocilizumab subcutaneous weekly group, a total of 6% (6/100) patients rep
 
 ## Neutrophils
 
-During routine laboratory monitoring in the tocilizumab 12 month controlled clinical trial, a decrease in  neutrophil count below 1 × 10 9 /L occurred in 4% of patients in the tocilizumab subcutaneous weekly  group. This was not observed in either of the placebo plus prednisone taper groups.
+During routine laboratory monitoring in the tocilizumab 12 month controlled clinical trial, a decrease in neutrophil count below 1 × 10 9 /L occurred in 4% of patients in the tocilizumab subcutaneous weekly group. This was not observed in either of the placebo plus prednisone taper groups.
 
 ## Platelets
 
@@ -2974,15 +2977,15 @@ During routine laboratory monitoring in the tocilizumab 12 month controlled clin
 
 ## Hepatic transaminase elevations
 
-During routine laboratory monitoring in the tocilizumab 12 month controlled clinical trial, elevation in  ALT ≥3 x ULN occurred in 3% of patients in the tocilizumab subcutaneous  weekly group compared  to  2% in the placebo plus 52 week prednisone taper group and none in the placebo plus 26 week  prednisone taper group. An elevation in AST &gt; 3 ULN occurred in 1% of patients in the tocilizumab  subcutaneous weekly group, compared to no patients in either of the placebo plus
-
-<div style=\"page-break-after: always\"></div>
-
-prednisone taper  groups.
+During routine laboratory monitoring in the tocilizumab 12 month controlled clinical trial, elevation in ALT ≥3 x ULN occurred in 3% of patients in the tocilizumab subcutaneous  weekly group compared to  2% in the placebo plus 52 week prednisone taper group and none in the placebo plus 26 week prednisone taper group. An elevation in AST &gt; 3 ULN occurred in 1% of patients in the tocilizumab subcutaneous weekly group, compared to no patients in either of the placebo plus prednisone taper groups.
 
 ## Lipid parameters
 
-During routine laboratory monitoring in the tocilizumab 12 month controlled clinical trial, 34% of patients experienced sustained elevations in total cholesterol &gt; 6.2 mmol/L (240 mg/dL), with 15% experiencing a sustained increase in LDL to ≥ 4.1 mmol/L (160 mg/dL) in the tocilizumab subcutaneous weekly group.
+During routine laboratory monitoring in the tocilizumab 12 month controlled clinical trial, 34% of
+
+<div style=\"page-break-after: always\"></div>
+
+patients experienced sustained elevations in total cholesterol &gt; 6.2 mmol/L (240 mg/dL), with 15% experiencing a sustained increase in LDL to ≥ 4.1 mmol/L (160 mg/dL) in the tocilizumab subcutaneous weekly group.
 
 ## Intravenous use
 
@@ -2992,7 +2995,7 @@ The safety of tocilizumab has been studied in 4 placebo-controlled studies (stud
 
 The double-blind controlled period was 6 months in four studies (studies I, III, IV and V) and was up to 2 years in one study (study II). In the double-blind controlled studies, 774 patients received tocilizumab 4 mg/kg in combination with MTX, 1 870 patients received tocilizumab 8 mg/kg in combination with MTX or other DMARDs and 288 patients received tocilizumab 8 mg/kg monotherapy.
 
-The long-term exposure population includes all patients who received at least one dose of tocilizumab  either in the double-blind control period or open label extension phase in the studies. Of the 4 009  patients in this population, 3 577 received treatment for at least 6 months, 3 296 for at least one year,  2 806 received treatment for at least 2 years and 1 222 for 3 years.
+The long-term exposure population includes all patients who received at least one dose of tocilizumab either in the double-blind control period or open label extension phase in the studies. Of the 4 009 patients in this population, 3 577 received treatment for at least 6 months, 3 296 for at least one year, 2 806 received treatment for at least 2 years and 1 222 for 3 years.
 
 ## Description of selected adverse reactions
 
@@ -3000,23 +3003,25 @@ The long-term exposure population includes all patients who received at least on
 
 In the 6-month controlled studies the rate of all infections reported with tocilizumab 8 mg/kg plus DMARD treatment was 127 events per 100 patient years compared to 112 events per 100 patient years  in the placebo plus DMARD group. In the long-term exposure population, the overall rate of infections with tocilizumab was 108 events per 100 patient years exposure.
 
-In 6-month controlled clinical studies, the rate of serious infections with tocilizumab 8 mg/kg plus DMARDs was 5.3 events per 100 patient years exposure compared to 3.9 events per 100 patient years  exposure in the placebo plus DMARD group. In the monotherapy study the rate of serious infections  was 3.6 events per 100 patient years of exposure in the tocilizumab group and 1.5 events per 100 patient years of exposure in the MTX group.
+In 6-month controlled clinical studies, the rate of serious infections with tocilizumab 8 mg/kg plus DMARDs was 5.3 events per 100 patient years exposure compared to 3.9 events per 100 patient years exposure in the placebo plus DMARD group. In the monotherapy study the rate of serious infections was 3.6 events per 100 patient years of exposure in the tocilizumab group and 1.5 events per 100 patient years of exposure in the MTX group.
 
-In the long-term exposure population, the overall rate of serious infections (bacterial, viral and fungal)  was 4.7 events per 100 patient years. Reported serious infections, some with fatal outcome, included  active tuberculosis, which may present with intrapulmonary or extrapulmonary disease, invasive  pulmonary infections, including candidiasis, aspergillosis, coccidioidomycosis and pneumocystis  jirovecii, pneumonia, cellulitis, herpes zoster, gastroenteritis, diverticulitis, sepsis and bacterial  arthritis. Cases of opportunistic infections have been reported.
+In the long-term exposure population, the overall rate of serious infections (bacterial, viral and fungal) was 4.7 events per 100 patient years. Reported serious infections, some with fatal outcome, included active tuberculosis, which may present with intrapulmonary or extrapulmonary disease, invasive pulmonary infections, including candidiasis, aspergillosis, coccidioidomycosis and pneumocystis jirovecii, pneumonia, cellulitis, herpes zoster, gastroenteritis, diverticulitis, sepsis and bacterial arthritis. Cases of opportunistic infections have been reported.
 
 ## Interstitial lung disease
 
-Impaired lung function may increase the risk for developing infections. There have been postmarketing reports of interstitial lung disease (including pneumonitis and pulmonary fibrosis), some of  which had fatal outcomes.
+Impaired lung function may increase the risk for developing infections. There have been postmarketing reports of interstitial lung disease (including pneumonitis and pulmonary fibrosis), some of which had fatal outcomes.
 
 ## Gastrointestinal perforation
 
 During the 6-month controlled clinical trials, the overall rate of gastrointestinal perforation was 0.26 events per 100 patient years with tocilizumab therapy. In the long-term exposure population the  overall rate of gastrointestinal perforation was 0.28 events per 100 patient years. Reports of  gastrointestinal perforation on tocilizumab were primarily reported as complications of diverticulitis  including generalised purulent peritonitis, lower gastrointestinal perforation, fistulae and abscess.
 
-<div style=\"page-break-after: always\"></div>
-
 ## Infusion Related Reactions
 
-In the 6-month controlled trials adverse events associated with infusion (selected events occurring during or within 24 hours of infusion) were reported by 6.9% of patients in the tocilizumab 8 mg/kg plus DMARD group and 5.1% of patients in the placebo plus DMARD group. Events reported during  the infusion were primarily episodes of hypertension; events reported within 24 hours of finishing an  infusion were headache and skin reactions (rash, urticaria). These events were not treatment limiting.
+In the 6-month controlled trials adverse events associated with infusion (selected events occurring during or within 24 hours of infusion) were reported by 6.9% of patients in the tocilizumab 8 mg/kg plus DMARD group and 5.1% of patients in the placebo plus DMARD group. Events reported
+
+<div style=\"page-break-after: always\"></div>
+
+during  the infusion were primarily episodes of hypertension; events reported within 24 hours of finishing an infusion were headache and skin reactions (rash, urticaria). These events were not treatment limiting.
 
 The rate of anaphylactic reactions (occurring in a total of 8/4 009 patients, 0.2%) was several fold higher with the 4 mg/kg dose, compared to the 8 mg/kg dose. Clinically significant hypersensitivity reactions associated with tocilizumab and requiring treatment discontinuation were reported in a total of 56 out of 4 009 patients (1.4%) treated with tocilizumab during the controlled and open label clinical studies. These reactions were generally observed during the second to fifth infusions of tocilizumab (see section 4.4). Fatal anaphylaxis has been reported after marketing authorisation during  treatment with intravenous tocilizumab (see section 4.4).
 
@@ -3032,7 +3037,7 @@ During the double-blind controlled period and with long-term exposure, the patte
 
 In the 6-month controlled trials decreases in platelet counts below 100 x 10 3 /μL occurred in 1.7% of patients on tocilizumab 8 mg/kg plus DMARDs compared to &lt; 1% on placebo plus DMARDs. These decreases occurred without associated bleeding events.
 
-During the double-blind controlled period and with long-term exposure, the pattern and incidence of decreases in platelet counts remained consistent with what was seen in the 6-month controlled clinical  trials.
+During the double-blind controlled period and with long-term exposure, the pattern and incidence of decreases in platelet counts remained consistent with what was seen in the 6-month controlled clinical trials.
 
 Very rare reports of pancytopenia have occurred in the post marketing setting.
 
@@ -3044,17 +3049,19 @@ The addition of potentially hepatotoxic drugs (e.g. MTX) to tocilizumab monother
 
 During the double-blind controlled period and with long-term exposure, the pattern and incidence of elevation in ALT/AST remained consistent with what was seen in the 6-month controlled clinical trials.
 
-<div style=\"page-break-after: always\"></div>
-
 ## Lipid parameters
 
-During the 6-month controlled trials, increases of lipid parameters such as total cholesterol, triglycerides, LDL cholesterol, and/or HDL cholesterol have been reported commonly. With routine laboratory monitoring it was seen that approximately 24% of patients receiving tocilizumab in clinical trials experienced sustained elevations in total cholesterol ≥ 6.2 mmol/L, with 15% experiencing a  sustained increase in LDL to ≥ 4.1 mmol/L. Elevations in lipid parameters responded to treatment  with lipid-lowering agents.
+During the 6-month controlled trials, increases of lipid parameters such as total cholesterol, triglycerides, LDL cholesterol, and/or HDL cholesterol have been reported commonly. With routine
+
+<div style=\"page-break-after: always\"></div>
+
+laboratory monitoring it was seen that approximately 24% of patients receiving tocilizumab in clinical trials experienced sustained elevations in total cholesterol ≥ 6.2 mmol/L, with 15% experiencing a  sustained increase in LDL to ≥ 4.1 mmol/L. Elevations in lipid parameters responded to treatment with lipid-lowering agents.
 
 During the double-blind controlled period and with long-term exposure, the pattern and incidence of elevations in lipid parameters remained consistent with what was seen in the 6-month controlled trials.
 
 ## Malignancies
 
-The clinical data are insufficient to assess the potential incidence of malignancy following exposure to  tocilizumab. Long-term safety evaluations are ongoing.
+The clinical data are insufficient to assess the potential incidence of malignancy following exposure to tocilizumab. Long-term safety evaluations are ongoing.
 
 ## Skin Reactions
 
@@ -3086,11 +3093,13 @@ Avtozma is a biosimilar medicinal product. Detailed information is available on 
 
 Tocilizumab binds specifically to both soluble and membrane-bound IL-6 receptors (sIL-6R and mIL-6R). tocilizumab has been shown to inhibit sIL-6R and mIL-6R-mediated signalling. IL-6 is a pleiotropic pro-inflammatory cytokine produced by a variety of cell types including T- and B-cells, monocytes and fibroblasts. IL-6 is involved in diverse physiological processes such as T-cell activation, induction of immunoglobulin secretion, induction of hepatic acute phase protein synthesis and stimulation of haemopoiesis. IL-6 has been implicated in the pathogenesis of diseases including inflammatory diseases, osteoporosis and neoplasia.
 
-<div style=\"page-break-after: always\"></div>
-
 ## Pharmacodynamic effects
 
-In RA clinical studies with tocilizumab, rapid decreases in CRP, erythrocyte sedimentation rate (ESR),  serum amyloid A (SAA) and fibrinogen were observed. Consistent with the effect on acute phase  reactants, treatment with tocilizumab was associated with reduction in platelet count within the normal  range. Increases in haemoglobin levels were observed, through tocilizumab decreasing the IL-6 driven  effects on hepcidin production to increase iron availability. In tocilizumab-treated patients, decreases in the levels of CRP to within normal ranges were seen as early as week 2, with decreases maintained  while on treatment.
+In RA clinical studies with tocilizumab, rapid decreases in CRP, erythrocyte sedimentation rate (ESR),  serum amyloid A (SAA) and fibrinogen were observed. Consistent with the effect on acute
+
+<div style=\"page-break-after: always\"></div>
+
+phase  reactants, treatment with tocilizumab was associated with reduction in platelet count within the normal  range. Increases in haemoglobin levels were observed, through tocilizumab decreasing the IL-6 driven  effects on hepcidin production to increase iron availability. In tocilizumab-treated patients, decreases in the levels of CRP to within normal ranges were seen as early as week 2, with decreases maintained  while on treatment.
 
 In GCA clinical study WA28119, similar rapid decreases in CRP and ESR were observed along with slight increases in mean corpuscular haemoglobin concentration. In healthy subjects administered tocilizumab in doses from 2 to 28 mg/kg intravenously and 81 to 162 mg subcutaneously, absolute neutrophil counts decreased to their lowest 2 to 5 days following administration. Thereafter, neutrophils recovered towards baseline in a dose dependent manner. RA and GCA patients demonstrate a comparable (to healthy subjects) decrease of absolute neutrophil counts following tocilizumab administration (see section 4.8).
 
@@ -3120,25 +3129,27 @@ Table 2. ACR responses in study SC-I (% patients) at Week 24
 | ACR70 Week 24                | 24.0%                                  | 27.9%                        |
 | Weighted difference (95% CI) | -3.8 (-9.0, 1.3)                       | -3.8 (-9.0, 1.3)             |
 
+TCZ = tocilizumab
+
+a = Per Protocol Population
+
 <div style=\"page-break-after: always\"></div>
 
-## a = Per Protocol Population
-
-Patients in study SC-I had a mean Disease Activity Score (DAS28) at baseline of 6.6 and 6.7 on the subcutaneous and intravenous arms, respectively. At week 24, a significant reduction in DAS28 from  baseline (mean improvement) of 3.5 was observed on both treatment arms, and a comparable proportion of patients had achieved DAS28 clinical remission (DAS28 &lt; 2.6) on the subcutaneous (38.4%) and IV (36.9%) arms.
+subcutaneous and intravenous arms, respectively. At week 24, a significant reduction in DAS28 from  baseline (mean improvement) of 3.5 was observed on both treatment arms, and a comparable proportion of patients had achieved DAS28 clinical remission (DAS28 &lt; 2.6) on the subcutaneous (38.4%) and IV (36.9%) arms.
 
 ## Radiographic response
 
-The radiographic response of subcutaneous administered tocilizumab was assessed in a doubleblind,  controlled, multicenter study in patients with active RA (SC-II). Study SC-II evaluated patients with  moderate to severe active RA who had an inadequate clinical response to their existing rheumatologic  therapy, including one or more DMARD(s) where approximately 20% had a history of inadequate  response to at least one TNF inhibitor. Patients were required to be &gt;18 years of age with active RA  diagnosed according to ACR criteria who had at least 8 tender and 6 swollen joints at baseline. In SC-II, 656 patients were randomised 2:1 to tocilizumab subcutaneous 162 mg every other week or  placebo, in combination with non-biologic DMARD(s).
+The radiographic response of subcutaneous administered tocilizumab was assessed in a double-blind, controlled, multicenter study in patients with active RA (SC-II). Study SC-II evaluated patients with moderate to severe active RA who had an inadequate clinical response to their existing rheumatologic therapy, including one or more DMARD(s) where approximately 20% had a history of inadequate response to at least one TNF inhibitor. Patients were required to be &gt;18 years of age with active RA diagnosed according to ACR criteria who had at least 8 tender and 6 swollen joints at baseline. In SC-II, 656 patients were randomised 2:1 to tocilizumab subcutaneous 162 mg every other week or placebo, in combination with non-biologic DMARD(s).
 
-In study SC-II, inhibition of structural joint damage was assessed radiographically and expressed as a change from baseline in the van der Heijde modified mean total Sharp score (mTSS). At week 24, inhibition of structural damage was shown, with significantly less radiographic progression in patients receiving tocilizumab subcutaneous compared to placebo (mean mTSS of 0.62 vs. 1.23, p=0.0149 (van  Elteren). These results are consistent with those observed in patients treated with intravenous  tocilizumab.
+In study SC-II, inhibition of structural joint damage was assessed radiographically and expressed as a change from baseline in the van der Heijde modified mean total Sharp score (mTSS). At week 24, inhibition of structural damage was shown, with significantly less radiographic progression in patients receiving tocilizumab subcutaneous compared to placebo (mean mTSS of 0.62 vs. 1.23, p=0.0149 (van  Elteren). These results are consistent with those observed in patients treated with intravenous tocilizumab.
 
-In study SC-II, at week 24 there was ACR20 of 60.9%, ACR50 of 39.8% and ACR70 of 19.7% for patients treated with tocilizumab subcutaneous every other week versus placebo ACR20 of 31.5%, ACR50 of 12.3% and ACR70 of 5.0%. Patients had mean DAS28 at baseline of 6.7 on subcutaneous  and 6.6 on placebo arms. At week 24, a significant reduction in DAS28 from baseline of 3.1 was  observed on subcutaneous and 1.7 on placebo arm, and for DAS28 &lt; 2.6, 32.0% was observed on  subcutaneous and 4.0% on placebo arm.
+In study SC-II, at week 24 there was ACR20 of 60.9%, ACR50 of 39.8% and ACR70 of 19.7% for patients treated with tocilizumab subcutaneous every other week versus placebo ACR20 of 31.5%, ACR50 of 12.3% and ACR70 of 5.0%. Patients had mean DAS28 at baseline of 6.7 on subcutaneous and 6.6 on placebo arms. At week 24, a significant reduction in DAS28 from baseline of 3.1 was observed on subcutaneous and 1.7 on placebo arm, and for DAS28 &lt; 2.6, 32.0% was observed on subcutaneous and 4.0% on placebo arm.
 
 ## Health-related and quality of life outcomes
 
-In study SC-I, the mean decrease in HAQ-DI from baseline to week 24 was 0.6 on both the subcutaneous and intravenous arms. The proportion of patients achieving a clinically relevant improvement in HAQ-DI at week 24 (change from baseline of ≥ 0.3 units) was also comparable on the  subcutaneous (65.2%) versus intravenous (67.4%) arms, with a weighted difference in proportions of - 2.3% (95% CI - 8.1, 3.4). For SF-36, the mean change from baseline at week 24 in the mental  component score was 6.22 for the subcutaneous arm and 6.54 for the intravenous arm, and for the  physical component score was also similar with 9.49 for the subcutaneous arm and 9.65 for the  intravenous arm.
+In study SC-I, the mean decrease in HAQ-DI from baseline to week 24 was 0.6 on both the subcutaneous and intravenous arms. The proportion of patients achieving a clinically relevant improvement in HAQ-DI at week 24 (change from baseline of ≥ 0.3 units) was also comparable on the  subcutaneous (65.2%) versus intravenous (67.4%) arms, with a weighted difference in proportions of - 2.3% (95% CI - 8.1, 3.4). For SF-36, the mean change from baseline at week 24 in the mental component score was 6.22 for the subcutaneous arm and 6.54 for the intravenous arm, and for the physical component score was also similar with 9.49 for the subcutaneous arm and 9.65 for the intravenous arm.
 
-In study SC-II, mean decrease in HAQ-DI from baseline to week 24 was significantly greater for patients treated with tocilizumab subcutaneous every other week (0.4) versus placebo (0.3). Proportion  of patients achieving a clinically relevant improvement in HAQ-DI at week 24 (change from baseline  of ≥ 0.3 units) was higher for tocilizumab subcutaneous every other week (58%) versus placebo  (46.8%). SF-36 (mean change in mental and physical component scores) was significantly greater with  tocilizumab subcutaneous group (6.5 and 5.3) versus placebo (3.8 and 2.9).
+In study SC-II, mean decrease in HAQ-DI from baseline to week 24 was significantly greater for patients treated with tocilizumab subcutaneous every other week (0.4) versus placebo (0.3). Proportion of patients achieving a clinically relevant improvement in HAQ-DI at week 24 (change from baseline of ≥ 0.3 units) was higher for tocilizumab subcutaneous every other week (58%) versus placebo (46.8%). SF-36 (mean change in mental and physical component scores) was significantly greater with tocilizumab subcutaneous group (6.5 and 5.3) versus placebo (3.8 and 2.9).
 
 ## Subcutaneous Use
 
@@ -3146,15 +3157,15 @@ In study SC-II, mean decrease in HAQ-DI from baseline to week 24 was significant
 
 ## Clinical Efficacy
 
-A 52-week, open-label, multi-centre, PK/PD and safety study (WA28118) was conducted in paediatric  patients with sJIA, aged 1 to 17 years, to determine the appropriate SC dose of tocilizumab that  achieved comparable PK/PD and safety profiles to the IV regimen.
+A 52-week, open-label, multi-centre, PK/PD and safety study (WA28118) was conducted in paediatric patients with sJIA, aged 1 to 17 years, to determine the appropriate SC dose of tocilizumab that achieved comparable PK/PD and safety profiles to the IV regimen.
 
-Eligible patients received tocilizumab dosed according to body weight (BW), with patients weighing
+Eligible patients received tocilizumab dosed according to body weight (BW), with patients weighing ≥30 kg (n=26) dosed with 162 mg of tocilizumab every week (QW) and patients weighing below 30 kg (n=25) dosed with 162 mg of tocilizumab every 10 days (Q10D; n=8) or every 2 weeks (Q2W;  n=17) for 52 weeks. Of these 51 patients, 26 (51%) were naive to tocilizumab and 25 (49%) had been
 
 <div style=\"page-break-after: always\"></div>
 
-≥30 kg (n=26) dosed with 162 mg of tocilizumab every week (QW) and patients weighing below 30 kg (n=25) dosed with 162 mg of tocilizumab every 10 days (Q10D; n=8) or every 2 weeks (Q2W;  n=17) for 52 weeks. Of these 51 patients, 26 (51%) were naive to tocilizumab and 25 (49%) had been receiving tocilizumab IV and switched to tocilizumab SC at baseline.
+receiving tocilizumab IV and switched to tocilizumab SC at baseline.
 
-Exploratory efficacy results showed that tocilizumab SC improved all exploratory efficacy parameters  including Juvenile Arthritis Disease Activity Score (JADAS)-71, for TCZ naïve patients and  maintained all exploratory efficacy parameters for patients who switched from tocilizumab IV to  tocilizumab SC treatment over the entire course of the study for patients in both body weight groups  (below 30 kg and ≥30 kg).
+Exploratory efficacy results showed that tocilizumab SC improved all exploratory efficacy parameters including Juvenile Arthritis Disease Activity Score (JADAS)-71, for TCZ naïve patients and maintained all exploratory efficacy parameters for patients who switched from tocilizumab IV to tocilizumab SC treatment over the entire course of the study for patients in both body weight groups (below 30 kg and ≥30 kg).
 
 ## Subcutaneous Use
 
@@ -3162,9 +3173,9 @@ Exploratory efficacy results showed that tocilizumab SC improved all exploratory
 
 Clinical Efficacy
 
-A 52-week, open-label, multicenter, PK-PD and safety study was conducted in paediatric patients with  pJIA, aged 1 to 17 years old, to determine the appropriate subcutaneous dose of tocilizumab that  achieved comparable PK/PD and safety profiles to the IV regimen.
+A 52-week, open-label, multicenter, PK-PD and safety study was conducted in paediatric patients with pJIA, aged 1 to 17 years old, to determine the appropriate subcutaneous dose of tocilizumab that achieved comparable PK/PD and safety profiles to the IV regimen.
 
-Eligible patients received tocilizumab dosed according to body weight (BW), with patients weighing ≥ 30 kg (n = 25) dosed with 162 mg of tocilizumab every 2 weeks (Q2W) and patients weighing below 30 kg (n = 27) dosed with 162 mg of tocilizumab every 3 weeks (Q3W) for 52 weeks.  Of these 52 patients, 37 (71%) were naive to tocilizumab and 15 (29%) had been receiving tocilizumab  IV and switched to tocilizumab SC at baseline.
+Eligible patients received tocilizumab dosed according to body weight (BW), with patients  weighing ≥ 30 kg (n = 25) dosed with 162 mg of tocilizumab every 2 weeks (Q2W) and patients weighing below 30 kg (n = 27) dosed with 162 mg of tocilizumab every 3 weeks (Q3W) for 52 weeks.  Of these 52 patients, 37 (71%) were naive to tocilizumab and 15 (29%) had been receiving tocilizumab  IV and switched to tocilizumab SC at baseline.
 
 The tocilizumab SC regimens of 162 mg Q3W for patients weighing below 30 kg and of 162 mg Q2W for patients weighing ≥ 30 kg respectively provide PK exposure and PD responses to support efficacy  and safety outcomes similar to those achieved with the approved tocilizumab IV regimens for pJIA.
 
@@ -3174,28 +3185,26 @@ Exploratory efficacy results showed that tocilizumab SC improved median Juvenile
 
 ## GCA
 
-Clinical efficacy
+## Clinical efficacy
 
 Study WA28119 was a randomised, multi-center, double-blind placebo-controlled Phase III superiority study conducted to assess the efficacy and safety of tocilizumab in patients with GCA.
 
-Two hundred and fifty one (251) patients with new-onset or relapsing GCA were enrolled and assigned to one of four treatment arms. The study consisted of a 52-week blinded period (Part 1), followed by a 104-week open-label extension (Part 2). The purpose of Part 2 was  to describe the long-term safety and maintenance of efficacy after 52 weeks of tocilizumab therapy, to explore the rate  of relapse and the requirement for tocilizumab therapy beyond 52 weeks, and to gain insight into the  potential long-term steroid-sparing effect of tocilizumab.
+Two hundred and fifty one (251) patients with new-onset or relapsing GCA were enrolled and assigned to one of four treatment arms. The study consisted of a 52-week blinded period (Part 1), followed by a 104-week open-label extension (Part 2). The purpose of Part 2 was to describe the long-term safety and maintenance of efficacy after 52 weeks of tocilizumab therapy, to explore the rate of relapse and the requirement for tocilizumab therapy beyond 52 weeks, and to gain insight into the potential long-term steroid-sparing effect of tocilizumab.
 
 Two subcutaneous doses of tocilizumab (162 mg every week and 162 mg every other week) were compared to two different placebo control groups randomised 2:1:1:1.
 
-All patients received background glucocorticoid (prednisone) therapy. Each of the tocilizumabtreated  groups and one of the placebo-treated groups followed a pre-specified prednisone-taper regimen over  26 weeks, while the second placebo-treated group followed a pre-specified prednisone-taper regimen over 52 weeks, designed to be more in keeping with standard practice.
+All patients received background glucocorticoid (prednisone) therapy. Each of the tocilizumabtreated  groups and one of the placebo-treated groups followed a pre-specified prednisone-taper regimen over 26 weeks, while the second placebo-treated group followed a pre-specified prednisonetaper regimen over 52 weeks, designed to be more in keeping with standard practice.
 
 The duration of glucocorticoid therapy during screening and before tocilizumab (or placebo) was initiated, was similar in all 4 treatment groups (see Table 3).
 
 <div style=\"page-break-after: always\"></div>
 
-Table 3. Duration of Corticosteroid Therapy During Screening in Study WA28119
-
-|                 | Placebo + 26 weeks prednisone taper N=50   | Placebo + 52 weeks prednisone taper N=51   | Tocilizumab 162mg SC weekly + 26 weeks prednisone taper N=100   | Tocilizumab 162 mg SC every other weekly + 26 weeks prednisone taper N=49   |
-|-----------------|--------------------------------------------|--------------------------------------------|-----------------------------------------------------------------|-----------------------------------------------------------------------------|
-| Duration (days) | Duration (days)                            | Duration (days)                            | Duration (days)                                                 | Duration (days)                                                             |
-| Mean (SD)       | 35.7 (11.5)                                | 36.3 (12.5)                                | 35.6 (13.2)                                                     | 37.4 (14.4)                                                                 |
-| Median          | 42.0                                       | 41.0                                       | 41.0                                                            | 42.0                                                                        |
-| Min - Max       | 6 - 63                                     | 12 - 82                                    | 1 - 87                                                          | 9 - 87                                                                      |
+|                 | Placebo + 26 weeks prednisone taper N=50   | Placebo + 52 weeks prednisone taper N=51   | Tocilizumab 162mg SC weekly + 26 weeks prednisone taper N=100   | Tocilizumab 162mg SC every other weekly + 26 weeks prednisone taper N=49   |
+|-----------------|--------------------------------------------|--------------------------------------------|-----------------------------------------------------------------|----------------------------------------------------------------------------|
+| Duration (days) | Duration (days)                            | Duration (days)                            | Duration (days)                                                 | Duration (days)                                                            |
+| Mean (SD)       | 35.7 (11.5)                                | 36.3 (12.5)                                | 35.6 (13.2)                                                     | 37.4 (14.4)                                                                |
+| Median          | 42.0                                       | 41.0                                       | 41.0                                                            | 42.0                                                                       |
+| Min - Max       | 6 - 63                                     | 12 - 82                                    | 1 - 87                                                          | 9 - 87                                                                     |
 
 The primary efficacy endpoint assessed by the proportion of patients achieving steroid free sustained remission at week 52 on tocilizumab plus 26 weeks prednisone taper compared with placebo plus 26 weeks prednisone taper, was met (Table 4).
 
@@ -3211,34 +3220,33 @@ The assessment of the time to first GCA flare showed a significantly lower risk 
 
 ## Cumulative glucocorticoid dose
 
-The cumulative prednisone dose at week 52 was significantly lower in the two tocilizumab dose  groups compared to the two placebo groups (Table 4). In a separate analysis of the patients who  received escape prednisone to treat GCA flare during the first 52 weeks, the cumulative prednisone dose varied greatly.  The median doses for escape patients in the tocilizumab weekly and every other  weekly groups were 3 129.75 mg and 3 847 mg, respectively. Both considerably lower than in the  placebo plus 26 weeks and the placebo plus 52 weeks prednisone taper groups, 4 023.5 mg and 5 389.5 mg respectively.
-
-Table 4. Efficacy results from Study WA28119
+The cumulative prednisone dose at week 52 was significantly lower in the two tocilizumab dose groups compared to the two placebo groups (Table 4). In a separate analysis of the patients who received escape prednisone to treat GCA flare during the first 52 weeks, the cumulative prednisone dose varied greatly. The median doses for escape patients in the tocilizumab weekly and every other weekly groups were 3 129.75 mg and 3 847 mg, respectively. Both considerably lower than in the placebo plus 26 weeks and the placebo plus 52 weeks prednisone taper groups, 4 023.5 mg and 5 389.5 mg respectively.
 
 <div style=\"page-break-after: always\"></div>
 
-|                                                                                                                                             | Placebo + 26 weeks prednisone taper N=50   | Placebo + 52 weeks prednisone taper N=51   | Tocilizumab 162mg SC weekly + 26 weeks prednisone taper N=100   | Tocilizumab 162 mg SC every other weekly + 26 weeks prednisone taper N=49   |
-|---------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------|--------------------------------------------|-----------------------------------------------------------------|-----------------------------------------------------------------------------|
-| Primary Endpoint                                                                                                                            |                                            |                                            |                                                                 |                                                                             |
-| ****Sustained remission (Tocilizumab groups vs                                                                                              | Placebo+26)                                |                                            |                                                                 |                                                                             |
-| Responders at Week 52, n (%)                                                                                                                | 7 (14%)                                    | 9 (17.6%)                                  | 56 (56%)                                                        | 26 (53.1%)                                                                  |
-| Unadjusted difference in proportions (99.5% CI)                                                                                             | N/A                                        | N/A                                        | 42%* (18.00, 66.00)                                             | 39.06%* (12.46, 65.66)                                                      |
-| Key Secondary Endpoint                                                                                                                      |                                            |                                            |                                                                 |                                                                             |
-| Sustained remission (Tocilizumab groups vs Placebo+52)                                                                                      |                                            |                                            |                                                                 |                                                                             |
-| Responders at Week 52, n (%)                                                                                                                | 7 (14%)                                    | 9 (17.6%)                                  | 56 (56%)                                                        | 26 (53.1%)                                                                  |
-| Unadjusted difference in proportions (99.5% CI)                                                                                             | N/A                                        | N/A                                        | 38.35%* (17.89, 58.81)                                          | 35.41%** (10.41,60.41)                                                      |
-| Other Secondary Endpoints                                                                                                                   |                                            |                                            |                                                                 |                                                                             |
-| Time to first GCA flare¹ (Tocilizumab groups vs Placebo+26)                                                                                 | N/A                                        | N/A                                        | 0.23* (0.11, 0.46)                                              | 0.28** (0.12, 0.66)                                                         |
-| HR (99% CI) Time to first GCA flare¹ (Tocilizumab groups vs Placebo+52) HR (99% CI)                                                         | N/A                                        | N/A                                        | 0.39** (0.18, 0.82)                                             | 0.48 (0.20, 1.16)                                                           |
-| Time to first GCA flare¹ (Relapsing patients; Tocilizumab groups vs Placebo +26)HR (99% CI)                                                 | N/A                                        | N/A                                        | 0.23*** (0.09, 0.61)                                            | 0.42 (0.14, 1.28)                                                           |
-| Time to first GCA flare¹ (Relapsing patients;                                                                                               | N/A                                        | N/A                                        | 0.36                                                            | 0.67                                                                        |
-| Tocilizumab groups vs Placebo + 52) HR (99% CI) Time to first GCA flare¹ (New-onset patients; Tocilizumab groups vs Placebo +26)HR (99% CI) | N/A                                        | N/A                                        | (0.13, 1.00) 0.25*** (0.09, 0.70)                               | (0.21, 2.10) 0.20*** (0.05, 0.76)                                           |
-| Time to first GCA flare¹ (New-onset patients;                                                                                               | N/A                                        | N/A                                        | 0.44                                                            | 0.35                                                                        |
-| Tocilizumab groups vs Placebo + 52) HR (99% CI) Cumulative glucocorticoid dose (mg)                                                         | 3296.00                                    | N/A                                        | (0.14, 1.32) 1862.00*                                           | (0.09, 1.42) 1862.00*                                                       |
-| median at Week 52 (Tocilizumab groups vs Placebo+26 2 ) median at Week 52 (Tocilizumab groups vs Placebo +52 2 )                            | N/A                                        | 3817.50                                    | 1862.00*                                                        | 1862.00*                                                                    |
-| Exploratory Endpoints                                                                                                                       |                                            |                                            |                                                                 |                                                                             |
-| Annualized relapse rate, Week 52 § Mean (SD)                                                                                                | 1.74                                       | 1.30                                       | 0.41 (0.78)                                                     | 0.67                                                                        |
-|                                                                                                                                             | (2.18)                                     | (1.84)                                     |                                                                 | (1.10)                                                                      |
+Table 4. Efficacy results from Study WA28119
+
+|                                                                                                                             | Placebo + 26 weeks prednisone taper N=50   | Placebo + 52 weeks prednisone taper N=51   | Tocilizumab 162mg SC weekly + 26 weeks prednisone taper N=100   | Tocilizumab 162 mg SC every other weekly + 26 weeks prednisone taper N=49   |
+|-----------------------------------------------------------------------------------------------------------------------------|--------------------------------------------|--------------------------------------------|-----------------------------------------------------------------|-----------------------------------------------------------------------------|
+| Primary Endpoint                                                                                                            |                                            |                                            |                                                                 |                                                                             |
+| ****Sustained remission (Tocilizumab groups vs                                                                              | Placebo+26)                                |                                            |                                                                 |                                                                             |
+| Responders at Week 52, n (%)                                                                                                | 7 (14%)                                    | 9 (17.6%)                                  | 56 (56%)                                                        | 26 (53.1%)                                                                  |
+| Unadjusted difference in proportions (99.5% CI)                                                                             | N/A                                        | N/A                                        | 42%* (18.00, 66.00)                                             | 39.06%* (12.46, 65.66)                                                      |
+| Key Secondary Endpoint                                                                                                      |                                            |                                            |                                                                 |                                                                             |
+| Sustained remission (Tocilizumab groups vs Placebo+52)                                                                      |                                            |                                            |                                                                 |                                                                             |
+| Responders at Week 52, n (%)                                                                                                | 7 (14%)                                    | 9 (17.6%)                                  | 56 (56%)                                                        | 26 (53.1%)                                                                  |
+| Unadjusted difference in proportions (99.5% CI)                                                                             | N/A                                        | N/A                                        | 38.35%* (17.89, 58.81)                                          | 35.41%** (10.41,60.41)                                                      |
+| Other Secondary Endpoints                                                                                                   |                                            |                                            |                                                                 |                                                                             |
+| Time to first GCA flare¹ (Tocilizumab groups vs Placebo+26)                                                                 | N/A                                        | N/A                                        | 0.23* (0.11, 0.46)                                              | 0.28** (0.12, 0.66)                                                         |
+| HR (99% CI) Time to first GCA flare¹ (Tocilizumab groups vs Placebo+52)                                                     | N/A                                        | N/A                                        | 0.39** (0.18, 0.82)                                             | 0.48 (0.20, 1.16)                                                           |
+| HR (99% CI) Time to first GCA flare¹ (Relapsing patients; Tocilizumab groups vs Placebo +26)HR (99% CI)                     | N/A                                        | N/A                                        | 0.23*** (0.09, 0.61)                                            | 0.42 (0.14, 1.28)                                                           |
+| Time to first GCA flare¹ (Relapsing patients;                                                                               | N/A                                        | N/A                                        | 0.36                                                            | 0.67                                                                        |
+| Tocilizumab groups vs Placebo + 52)HR (99% CI) Time to first GCA flare¹ (New-onset patients;                                | N/A                                        | N/A                                        | (0.13, 1.00) 0.25***                                            | (0.21, 2.10) 0.20***                                                        |
+| Tocilizumab groups vs Placebo +26)HR (99% CI) Time to first GCA flare¹ (New-onset patients;                                 | N/A                                        | N/A                                        | (0.09, 0.70) 0.44 (0.14, 1.32)                                  | (0.05, 0.76) 0.35 (0.09, 1.42)                                              |
+| Tocilizumab groups vs Placebo + 52)HR (99% CI) Cumulative glucocorticoid dose (mg) median at Week 52 (Tocilizumab groups vs | 3296.00                                    | N/A                                        | 1862.00*                                                        | 1862.00*                                                                    |
+| Placebo+26 2 ) median at Week 52 (Tocilizumab groups vs Placebo +52 2 )                                                     | N/A                                        | 3817.50                                    | 1862.00*                                                        | 1862.00*                                                                    |
+| Exploratory Endpoints                                                                                                       |                                            |                                            |                                                                 |                                                                             |
+| Annualized relapse rate, Week 52 § Mean (SD)                                                                                | 1.74 (2.18)                                | 1.30 (1.84)                                | 0.41 (0.78)                                                     | 0.67 (1.10)                                                                 |
 
 Sustained remission: remission from week 12 to week 52 -Patients must adhere to the protocol-defined prednisone taper
 
@@ -3248,19 +3256,15 @@ Sustained remission: remission from week 12 to week 52 -Patients must adhere to 
 
 § statistical analyses has not been
 
-performed  N/A= Not applicable
-
-HR = Hazard Ratio
+performed  N/A= Not applicable HR = Hazard Ratio
 
 CI = Confidence Interval
 
-## Quality of Life Outcomes
-
-In study WA28119, the SF-36 results were separated into the physical and mental component summary scores (PCS and MCS, respectively). The PCS mean change from baseline to week 52 was higher (showing more improvement) in the tocilizumab weekly and every other weekly dose groups
-
 <div style=\"page-break-after: always\"></div>
 
-[4.10, 2.76, respectively] than in the two placebo groups [placebo plus 26 weeks; -0.28, placebo plus 52 weeks; -1.49], although only the comparison between tocilizumab weekly plus 26 weeks prednisone taper group and placebo plus 52 weeks prednisone taper group (5.59, 99% CI: 8.6, 10.32)  showed a statistically significant difference (p=0.0024). For MCS, the mean change from baseline to  week 52 for both tocilizumab weekly and every other weekly dose groups [7.28, 6.12, respectively]  were higher than the placebo plus 52 weeks prednisone taper group [2.84] (although the differences  were not statistically significant [weekly p=0.0252 for weekly, p=0.1468 for every other weekly]) and  similar to the placebo plus 26 weeks prednisone taper group [6.67].
+## Quality of Life Outcomes
+
+In study WA28119, the SF-36 results were separated into the physical and mental component summary scores (PCS and MCS, respectively). The PCS mean change from baseline to week 52 was higher (showing more improvement) in the tocilizumab weekly and every other weekly dose groups [4.10, 2.76, respectively] than in the two placebo groups [placebo plus 26 weeks; -0.28, placebo plus 52 weeks; -1.49], although only the comparison between tocilizumab weekly plus 26 weeks prednisone taper group and placebo plus 52 weeks prednisone taper group (5.59, 99% CI: 8.6, 10.32) showed a statistically significant difference (p=0.0024). For MCS, the mean change from baseline to week 52 for both tocilizumab weekly and every other weekly dose groups [7.28, 6.12, respectively] were higher than the placebo plus 52 weeks prednisone taper group [2.84] (although the differences were not statistically significant [weekly p=0.0252 for weekly, p=0.1468 for every other weekly]) and  similar to the placebo plus 26 weeks prednisone taper group [6.67].
 
 The Patient's Global Assessment of disease activity was assessed on a 0-100 mm Visual Analogue Scale (VAS). The mean change in Patient's global VAS from baseline at week 52 was lower (showing  greater improvement) in the tocilizumab weekly and every other weekly dose groups [19.0, -25.3,  respectively] than in both placebo  groups [placebo plus 26 weeks -3.4, placebo plus 52 weeks -7.2],  although only the tocilizumab every other weekly plus 26 weeks prednisone taper group showed a  statistically significant difference compared to placebo [placebo plus 26 weeks taper p=0.0059, and  placebo plus 52 weeks taper p=0.0081].
 
@@ -3276,29 +3280,29 @@ Higher scores signal improvement in both FACIT-Fatigue and EQ5D.
 
 ## Clinical efficacy
 
-The efficacy of tocilizumab in alleviating the signs and symptoms of RA was assessed in five randomised, double-blind, multi-centre studies. Studies I-V enrolled patients ≥ 18 years of age with active RA diagnosed according to the American College of Rheumatology (ACR) criteria and who had  at least eight tender and six swollen joints at baseline.
+The efficacy of tocilizumab in alleviating the signs and symptoms of RA was assessed in five randomised, double-blind, multi-centre studies. Studies I-V enrolled patients ≥ 18 years of age with active RA diagnosed according to the American College of Rheumatology (ACR) criteria and who had at least eight tender and six swollen joints at baseline.
 
-In Study I, tocilizumab was administered intravenously every four weeks as monotherapy. In Studies  II, III and V, tocilizumab was administered intravenously every four weeks in combination with MTX  vs. placebo and MTX. In Study IV, tocilizumab was administered intravenously every 4 weeks in  combination with other DMARDs vs. placebo and other DMARDs. The primary endpoint for each of  the five studies was the proportion of patients who achieved an ACR 20 response at week 24.
+In Study I, tocilizumab was administered intravenously every four weeks as monotherapy. In Studies II, III and V, tocilizumab was administered intravenously every four weeks in combination with MTX vs. placebo and MTX. In Study IV, tocilizumab was administered intravenously every 4 weeks in combination with other DMARDs vs. placebo and other DMARDs. The primary endpoint for each of the five studies was the proportion of patients who achieved an ACR 20 response at week 24.
 
-Study I evaluated 673 patients who had not been treated with MTX within six months prior to randomisation and who had not discontinued previous MTX treatment as a result of clinically important toxic effects or lack of response. The majority (67%) of patients were MTX-naïve. Doses of  8 mg/kg of tocilizumab were given every four weeks as monotherapy. The comparator group was weekly MTX (dose titrated from 7.5 mg to a maximum of 20 mg weekly over an eight week period).
+Study I evaluated 673 patients who had not been treated with MTX within six months prior to randomisation and who had not discontinued previous MTX treatment as a result of clinically important toxic effects or lack of response. The majority (67%) of patients were MTX-naïve. Doses of 8 mg/kg of tocilizumab were given every four weeks as monotherapy. The comparator group was weekly MTX (dose titrated from 7.5 mg to a maximum of 20 mg weekly over an eight week period).
 
-Study II, a two year study with planned analyses at week 24, week 52 and week 104, evaluated 1 196 patients who had an inadequate clinical response to MTX. Doses of 4 or 8 mg/kg of tocilizumab or placebo were given every four weeks as blinded therapy for 52 weeks in combination with stable MTX (10 mg to 25 mg weekly). After week 52, all patients could receive open-label treatment with tocilizumab 8 mg/kg. Of the patients who completed the study who were originally randomised to placebo + MTX, 86% received open-label tocilizumab 8 mg/kg in year 2. The primary endpoint at week 24 was the proportion of patients who achieved an ACR 20 response. At week 52 and week 104  the co-primary endpoints were prevention of joint damage and improvement in physical
+Study II, a two year study with planned analyses at week 24, week 52 and week 104, evaluated 1 196 patients who had an inadequate clinical response to MTX. Doses of 4 or 8 mg/kg of tocilizumab or placebo were given every four weeks as blinded therapy for 52 weeks in combination with stable
 
 <div style=\"page-break-after: always\"></div>
 
-function.
+MTX (10 mg to 25 mg weekly). After week 52, all patients could receive open-label treatment with tocilizumab 8 mg/kg. Of the patients who completed the study who were originally randomised to placebo + MTX, 86% received open-label tocilizumab 8 mg/kg in year 2. The primary endpoint at week 24 was the proportion of patients who achieved an ACR 20 response. At week 52 and week 104  the co-primary endpoints were prevention of joint damage and improvement in physical function.
 
 Study III evaluated 623 patients who had an inadequate clinical response to MTX. Doses of 4 or 8 mg/kg tocilizumab or placebo were given every four weeks, in combination with stable MTX (10 mg to 25 mg weekly).
 
-Study IV evaluated 1 220 patients who had an inadequate response to their existing rheumatologic therapy, including one or more DMARDs. Doses of 8 mg/kg tocilizumab or placebo were given every  four weeks in combination with stable DMARDs.
+Study IV evaluated 1 220 patients who had an inadequate response to their existing rheumatologic therapy, including one or more DMARDs. Doses of 8 mg/kg tocilizumab or placebo were given every four weeks in combination with stable DMARDs.
 
-Study V evaluated 499 patients who had an inadequate clinical response or were intolerant to one or more TNF antagonist therapies. The TNF antagonist therapy was discontinued prior to randomisation.  Doses of 4 or 8 mg/kg tocilizumab or placebo were given every four weeks in combination with stable  MTX (10 mg to 25 mg weekly).
+Study V evaluated 499 patients who had an inadequate clinical response or were intolerant to one or more TNF antagonist therapies. The TNF antagonist therapy was discontinued prior to randomisation. Doses of 4 or 8 mg/kg tocilizumab or placebo were given every four weeks in combination with stable MTX (10 mg to 25 mg weekly).
 
 ## Clinical response
 
 In all studies, patients treated with tocilizumab 8 mg/kg had statistically significant higher ACR 20, 50,  70 response rates at 6 months compared to control (Table 5). In study I, superiority of tocilizumab 8 mg/kg was demonstrated against the active comparator MTX.
 
-The treatment effect was similar in patients independent of rheumatoid factor status, age, gender, race,  number of prior treatments or disease status. Time to onset was rapid (as early as week 2) and the  magnitude of response continued to improve with duration of treatment. Continued durable responses  were seen for over 3 years in the ongoing open label extension studies I-V.
+The treatment effect was similar in patients independent of rheumatoid factor status, age, gender, race, number of prior treatments or disease status. Time to onset was rapid (as early as week 2) and the magnitude of response continued to improve with duration of treatment. Continued durable responses were seen for over 3 years in the ongoing open label extension studies I-V.
 
 In patients treated with tocilizumab 8 mg/kg, significant improvements were noted on all individual components of the ACR response including: tender and swollen joint counts; patients and physician global assessment; disability index scores; pain assessment and CRP compared to patients receiving placebo plus MTX or other DMARDs in all studies.
 
@@ -3308,23 +3312,23 @@ In a pooled analysis of studies II, III and IV, the proportion of patients achie
 
 Table 5. ACR responses in placebo-/MTX-/DMARDs-controlled studies (% patients)
 
-|        | Study I AMBITION   | Study I AMBITION   | Study II LITHE   | Study II LITHE   | Study III OPTION   | Study III OPTION   | Study IV TOWARD    | Study IV TOWARD   | Study V RADIATE   | Study V RADIATE   |
-|--------|--------------------|--------------------|------------------|------------------|--------------------|--------------------|--------------------|-------------------|-------------------|-------------------|
-| Week   | TCZ 8 mg/kg        | MTX                | TCZ 8 mg/kg+ MTX | PBO+ MTX         | TCZ 8 mg/kg+ MTX   | PBO+ MTX           | TCZ 8 mg/kg+ DMARD | PBO + DMARD       | TCZ 8 mg/kg+ MTX  | PBO + MTX         |
-|        | N = 286            | N = 284            | N = 398          | N = 393          | N = 205            | N = 204            | N = 803            | N = 413           | N = 170           | N = 158           |
-| ACR 20 | ACR 20             | ACR 20             | ACR 20           | ACR 20           | ACR 20             | ACR 20             | ACR 20             | ACR 20            | ACR 20            | ACR 20            |
-| 24     | 70%***             | 52%                | 56%***           | 27%              | 59%***             | 26%                | 61%***             | 24%               | 50%***            | 10%               |
-| 52     |                    |                    | 56%***           | 25%              |                    |                    |                    |                   |                   |                   |
+|      | Study I AMBITION   | Study I AMBITION   | Study II LITHE   | Study II LITHE   | Study III OPTION   | Study III OPTION   | Study IV TOWARD    | Study IV TOWARD   | Study V RADIATE   | Study V RADIATE   |
+|------|--------------------|--------------------|------------------|------------------|--------------------|--------------------|--------------------|-------------------|-------------------|-------------------|
+| Week | TCZ 8 mg/kg        | MTX                | TCZ 8 mg/kg+ MTX | PBO+ MTX         | TCZ 8 mg/kg+ MTX   | PBO+ MTX           | TCZ 8 mg/kg+ DMARD | PBO + DMARD       | TCZ 8 mg/kg+ MTX  | PBO + MTX         |
 
 <div style=\"page-break-after: always\"></div>
 
-| ACR 50   | ACR 50   | ACR 50   | ACR 50   | ACR 50   | ACR 50   | ACR 50   | ACR 50   | ACR 50   | ACR 50   | ACR 50   |
-|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|
-| 24       | 44%**    | 33%      | 32%***   | 10%      | 44%***   | 11%      | 38%***   | 9%       | 29%***   | 4%       |
-| 52       |          |          | 36%***   | 10%      |          |          |          |          |          |          |
-| ACR 70   | ACR 70   | ACR 70   | ACR 70   | ACR 70   | ACR 70   | ACR 70   | ACR 70   | ACR 70   | ACR 70   | ACR 70   |
-| 24       | 28%**    | 15%      | 13%***   | 2%       | 22%***   | 2%       | 21%***   | 3%       | 12%**    | 1%       |
-| 52       |          |          | 20%***   | 4%       |          |          |          |          |          |          |
+|        | N = 286 N = 284   | N = 286 N = 284   | N = 398   | N = 393   | N = 205   | N = 204   | N = 803   | N = 413   | N = 170   | N = 158   |
+|--------|-------------------|-------------------|-----------|-----------|-----------|-----------|-----------|-----------|-----------|-----------|
+| ACR 20 | ACR 20            | ACR 20            | ACR 20    | ACR 20    | ACR 20    | ACR 20    | ACR 20    | ACR 20    | ACR 20    | ACR 20    |
+| 24     | 70%***            | 52%               | 56%***    | 27%       | 59%***    | 26%       | 61%***    | 24%       | 50%***    | 10%       |
+| 52     |                   |                   | 56%***    | 25%       |           |           |           |           |           |           |
+| ACR 50 | ACR 50            | ACR 50            | ACR 50    | ACR 50    | ACR 50    | ACR 50    | ACR 50    | ACR 50    | ACR 50    | ACR 50    |
+| 24     | 44%**             | 33%               | 32%***    | 10%       | 44%***    | 11%       | 38%***    | 9%        | 29%***    | 4%        |
+| 52     |                   |                   | 36%***    | 10%       |           |           |           |           |           |           |
+| ACR 70 | ACR 70            | ACR 70            | ACR 70    | ACR 70    | ACR 70    | ACR 70    | ACR 70    | ACR 70    | ACR 70    | ACR 70    |
+| 24     | 28%**             | 15%               | 13%***    | 2%        | 22%***    | 2%        | 21%***    | 3%        | 12%**     | 1%        |
+| 52     |                   |                   | 20%***    | 4%        |           |           |           |           |           |           |
 
 TCZ
 
@@ -3352,21 +3356,21 @@ DMARD
 
 ## Major clinical response
 
-After 2 years of treatment with tocilizumab plus MTX, 14% of patients achieved a major clinical  response (maintenance of an ACR70 response for 24 weeks or more).
+After 2 years of treatment with tocilizumab plus MTX, 14% of patients achieved a major clinical response (maintenance of an ACR70 response for 24 weeks or more).
 
 ## Radiographic response
 
-In Study II, in patients with an inadequate response to MTX, inhibition of structural joint damage was  assessed radiographically and expressed as change in modified Sharp score and its components, the  erosion score and joint space narrowing score. Inhibition of joint structural damage was shown with  significantly less radiographic progression in patients receiving tocilizumab compared to control  (Table 6).
+In Study II, in patients with an inadequate response to MTX, inhibition of structural joint damage was assessed radiographically and expressed as change in modified Sharp score and its components, the erosion score and joint space narrowing score. Inhibition of joint structural damage was shown with significantly less radiographic progression in patients receiving tocilizumab compared to control (Table 6).
 
-In the open-label extension of Study II the inhibition of progression of structural joint damage in  tocilizumab plus MTX-treated patients was maintained in the second year of treatment. The mean  change from baseline at week 104 in total Sharp-Genant score was significantly lower for patients  randomised to tocilizumab 8 mg/kg plus MTX (p&lt;0.0001) compared with patients who were  randomised to placebo plus MTX.
+In the open-label extension of Study II the inhibition of progression of structural joint damage in tocilizumab plus MTX-treated patients was maintained in the second year of treatment. The mean change from baseline at week 104 in total Sharp-Genant score was significantly lower for patients randomised to tocilizumab 8 mg/kg plus MTX (p&lt;0.0001) compared with patients who were randomised to placebo plus MTX.
 
 Table 6. Radiographic mean changes over 52 weeks in Study II
 
-|                          |   PBO+MTX (+ TCZ from week 24) N = 393 | TCZ 8 mg/kg+MTX N = 398   |
-|--------------------------|----------------------------------------|---------------------------|
-| Total Sharp-Genant score |                                   1.13 | 0.29*                     |
-| Erosion score            |                                   0.71 | 0.17*                     |
-| JSN score                |                                   0.42 | 0.12**                    |
+|                          |   PBO+MTX (+ TCZfrom week 24) N = 393 | TCZ8 mg/kg+MTX N = 398   |
+|--------------------------|---------------------------------------|--------------------------|
+| Total Sharp-Genant score |                                  1.13 | 0.29*                    |
+| Erosion score            |                                  0.71 | 0.17*                    |
+| JSN score                |                                  0.42 | 0.12**                   |
 
 PBO
 
@@ -3392,19 +3396,19 @@ JSN
 
 - p&lt; 0.005, TCZ vs. PBO + MTX
 
-Following 1 year of treatment with tocilizumab plus MTX, 85% of patients(n=348) had no progression  of structural joint damage, as defined by a change in the Total Sharp Score of zero or less, compared  with 67% of placebo plus MTX-treated patients(n=290) (p ≤ 0.001). This remained consistent  following 2 years of treatment (83%; n=353). Ninety three percent (93%; n=271) of patients had no  progression between week 52 and week 104.
+Following 1 year of treatment with tocilizumab plus MTX, 85% of patients(n=348) had no progression of structural joint damage, as defined by a change in the Total Sharp Score of zero or less, compared with 67% of placebo plus MTX-treated patients(n=290) (p ≤ 0.001). This remained consistent following 2 years of treatment (83%; n=353). Ninety three percent (93%; n=271) of patients had no progression between week 52 and week 104.
 
 ## Health-related and quality of life outcomes
 
-Tocilizumab-treated patients reported an improvement in all patient-reported outcomes (Health Assessment Questionnaire Disability Index - HAQ-DI), Short Form-36 and Functional Assessment of  Chronic Illness Therapy questionnaires. Statistically significant improvements in HAQ-DI scores were  observed in patients treated with tocilizumab compared with patients treated with DMARDs. During  the open-label period of Study II, the improvement in physical function has been maintained for up to  2 years. At Week 52, the mean change in HAQ-DI was -0.58 in the tocilizumab 8 mg/kg
+Tocilizumab-treated patients reported an improvement in all patient-reported outcomes (Health Assessment Questionnaire Disability Index - HAQ-DI), Short Form-36 and Functional Assessment of
 
 <div style=\"page-break-after: always\"></div>
 
-plus MTX  group compared with -0.39 in the placebo + MTX group. The mean change in HAQ-DI was  maintained at Week 104 in the tocilizumab 8 mg/kg plus MTX group (-0.61).
+Chronic Illness Therapy questionnaires. Statistically significant improvements in HAQ-DI scores were observed in patients treated with tocilizumab compared with patients treated with DMARDs. During the open-label period of Study II, the improvement in physical function has been maintained for up to 2 years. At Week 52, the mean change in HAQ-DI was -0.58 in the tocilizumab 8 mg/kg plus MTX group compared with -0.39 in the placebo + MTX group. The mean change in HAQ-DI was maintained at Week 104 in the tocilizumab 8 mg/kg plus MTX group (-0.61).
 
 ## Haemoglobin levels
 
-Statistically significant improvements in haemoglobin levels were observed with tocilizumab compared with DMARDs (p&lt; 0.0001) at week 24. Mean haemoglobin levels increased by week 2 and  remained within normal range through to week 24.
+Statistically significant improvements in haemoglobin levels were observed with tocilizumab compared with DMARDs (p&lt; 0.0001) at week 24. Mean haemoglobin levels increased by week 2 and remained within normal range through to week 24.
 
 ## Tocilizumab versus adalimumab in monotherapy
 
@@ -3412,7 +3416,7 @@ Study VI (WA19924), a 24 week double-blinded study that compared tocilizumab mon
 
 Table 7: Efficacy Results for Study VI (WA19924)
 
-| ADA + (IV) N = 162                                            | Placebo                                                       | TCZ + Placebo (SC) N = 163                                    | p-value (a)                                                   |
+| ADA+ (IV)                                                     | Placebo N = 162                                               | TCZ + Placebo (SC) N = 163                                    | p-value (a)                                                   |
 |---------------------------------------------------------------|---------------------------------------------------------------|---------------------------------------------------------------|---------------------------------------------------------------|
 | Primary Endpoint - Mean Change from baseline at Week 24       | Primary Endpoint - Mean Change from baseline at Week 24       | Primary Endpoint - Mean Change from baseline at Week 24       | Primary Endpoint - Mean Change from baseline at Week 24       |
 | DAS28 (adjusted mean)                                         | -1.8                                                          | -3.3                                                          |                                                               |
@@ -3428,17 +3432,19 @@ a p value is adjusted for region and duration of RA for all endpoints and additi
 
 b  Non-responder Imputation used for missing data. Multiplicity controlled using Bonferroni-Holm Procedure
 
-The overall clinical adverse event profile was similar between tocilizumab and adalimumab. The proportion of patients with serious adverse events was balanced between the treatment groups (tocilizumab 11.7% vs. adalimumab 9.9%). The types of adverse drug reactions in the tocilizumab arm  were consistent with the known safety profile of tocilizumab and adverse drug reactions were reported  at a similar frequency compared with Table 1. A higher incidence of infections and infestations was  reported in the tocilizumab arm (48% vs. 42%), with no difference in the incidence of serious  infections (3.1%). Both study treatments induced the same pattern of changes in laboratory safety  parameters (decreases in neutrophil and platelet counts, increases in ALT, AST and lipids), however,  the magnitude of change and the frequency of marked abnormalities was higher with tocilizumab  compared with adalimumab. Four (2.5%) patients in the tocilizumab arm and two (1.2%) patients in  the adalimumab arm experienced CTC grade 3 or 4 neutrophil count decreases. Eleven (6.8%) patients  in the tocilizumab arm and five (3.1%) patients in the adalimumab arm experienced ALT increases of  CTC grade 2 or higher. The mean LDL increase from baseline was 0.64 mmol/L (25 mg/dL) for  patients in the tocilizumab arm and 0.19 mmol/L (7 mg/dL) for patients in the adalimumab arm. The  safety observed in the tocilizumab arm was consistent with the known safety profile of tocilizumab and  no new or unexpected adverse drug reactions were observed (see Table 1).
+The overall clinical adverse event profile was similar between tocilizumab and adalimumab. The proportion of patients with serious adverse events was balanced between the treatment groups (tocilizumab 11.7% vs. adalimumab 9.9%). The types of adverse drug reactions in the tocilizumab arm  were consistent with the known safety profile of tocilizumab and adverse drug reactions were reported  at a similar frequency compared with Table 1. A higher incidence of infections and infestations was  reported in the tocilizumab arm (48% vs. 42%), with no difference in the incidence of serious  infections (3.1%). Both study treatments induced the same pattern of changes in laboratory safety  parameters (decreases in neutrophil and platelet counts, increases in ALT, AST and lipids), however,  the magnitude of change and the frequency of marked abnormalities was higher with tocilizumab  compared with adalimumab. Four (2.5%) patients in the tocilizumab arm and two (1.2%) patients in  the adalimumab arm experienced CTC grade 3 or 4 neutrophil count decreases. Eleven (6.8%) patients  in the tocilizumab arm and five (3.1%) patients in the adalimumab arm experienced ALT increases of  CTC grade 2 or higher. The mean LDL increase
 
 <div style=\"page-break-after: always\"></div>
 
+from baseline was 0.64 mmol/L (25 mg/dL) for  patients in the tocilizumab arm and 0.19 mmol/L (7 mg/dL) for patients in the adalimumab arm. The  safety observed in the tocilizumab arm was consistent with the known safety profile of tocilizumab and  no new or unexpected adverse drug reactions were observed (see Table 1).
+
 ## 5.2 Pharmacokinetic properties
 
-The pharmacokinetics of tocilizumab is characterized by nonlinear elimination which is a combination  of linear clearance and Michaelis-Menten elimination.  The nonlinear part of tocilizumab elimination  leads to an increase in exposure that is more than dose-proportional.  The pharmacokinetic parameters  of tocilizumab do not change with time. Due to the dependence of total clearance on tocilizumab serum  concentrations, the half-life of tocilizumab is also concentration-dependent and varies depending on the serum concentration level. Population pharmacokinetic analyses in any patient population tested so far indicate no relationship between apparent clearance and the presence of anti-drug antibodies.
+The pharmacokinetics of tocilizumab is characterized by nonlinear elimination which is a combination of linear clearance and Michaelis-Menten elimination. The nonlinear part of tocilizumab elimination leads to an increase in exposure that is more than dose-proportional. The pharmacokinetic parameters of tocilizumab do not change with time. Due to the dependence of total clearance on tocilizumab serum concentrations, the half-life of tocilizumab is also concentration-dependent and varies depending on the serum concentration level. Population pharmacokinetic analyses in any patient population tested so far indicate no relationship between apparent clearance and the presence of antidrug antibodies.
 
 ## RA Intravenous use
 
-The pharmacokinetics of tocilizumab were determined using a population pharmacokinetic analysis on  a database composed of 3 552 RA patients treated with a one-hour infusion of 4 or 8 mg/kg tocilizumab  every 4 weeks for 24 weeks or with 162 mg tocilizumab given subcutaneously either once a week or  every other week for 24 weeks.
+The pharmacokinetics of tocilizumab were determined using a population pharmacokinetic analysis on a database composed of 3 552 RA patients treated with a one-hour infusion of 4 or 8 mg/kg tocilizumab every 4 weeks for 24 weeks or with 162 mg tocilizumab given subcutaneously either once a week or every other week for 24 weeks.
 
 The following parameters (predicted mean ± SD) were estimated for a dose of 8 mg/kg tocilizumab given every 4 weeks: steady-state area under curve (AUC) = 38 000 ± 13 000 h µg/mL, trough concentration (Cmin) = 15.9 ± 13.1 µ g/mL and maximum concentration (Cmax) = 182 ± 50.4 µg/mL, and. the accumulation ratios for AUC and Cmax were small, 1.32 and 1.09, respectively. The accumulation ratio was higher for Cmin (2.49), which was expected based on the non-linear clearance contribution at lower concentrations. Steady-state was reached following the first administration for Cmax and after 8 and 20 weeks for AUC and Cmin, respectively. Tocilizumab AUC, Cmin and Cmax increased with increase of body weight. At body weight ≥ 100 kg, the predicted mean (± SD) steadystate AUC, Cmin and Cmax of tocilizumab were 50 000 ± 16 800 μg·h/mL, 24.4 ± 17.5 μg/mL, and 226 ± 50.3 μg/mL, respectively, which are higher than mean exposure values for the patient population (i.e. all body weights) reported above. The dose-response curve for tocilizumab flattens at higher exposure, resulting in smaller efficacy gains for each incremental increase in tocilizumab concentration such that clinically meaningful increases in efficacy were not demonstrated in patients treated with &gt; 800 mg of tocilizumab. Therefore, tocilizumab doses exceeding 800 mg per infusion are  not recommended (see section 4.2).
 
@@ -3448,17 +3454,19 @@ In RA patients the central volume of distribution was 3.72, the peripheral volum
 
 ## Elimination
 
-Following intravenous administration, tocilizumab undergoes biphasic elimination from the circulation.  The total clearance of tocilizumab was concentration-dependent and is the sum of the linear and non-linear clearance. The linear clearance was estimated as a parameter in the population pharmacokinetic analysis and was 9.5 mL/h. The concentration-dependent non-linear clearance plays a  major role at low tocilizumab concentrations. Once the non-linear clearance pathway is saturated, at  higher tocilizumab concentrations, clearance is mainly determined by the linear clearance. The t1/2 of tocilizumab was concentration-dependent. At steady-state following a dose of 8 mg/kg every 4 weeks, the effective t1/2 decreased with decreasing concentrations within a dosing interval from 18 days to 6 days.
+Following intravenous administration, tocilizumab undergoes biphasic elimination from the circulation. The total clearance of tocilizumab was concentration-dependent and is the sum of the linear and non-linear clearance. The linear clearance was estimated as a parameter in the population pharmacokinetic analysis and was 9.5 mL/h. The concentration-dependent non-linear clearance plays a major role at low tocilizumab concentrations. Once the non-linear clearance pathway is saturated, at higher tocilizumab concentrations, clearance is mainly determined by the linear clearance. The t1/2 of tocilizumab was concentration-dependent. At steady-state following a dose of 8 mg/kg every 4 weeks, the effective t1/2 decreased with decreasing concentrations within a dosing interval from 18 days to 6 days.
 
 ## Linearity
 
-Pharmacokinetic parameters of tocilizumab did not change with time. A more than dose-proportional increase in the AUC and Cmin was observed for doses of 4 and 8 mg/kg every 4 weeks. Cmax increased dose-proportionally. At steady-state, predicted AUC and Cmin were 3.2 and 30 fold higher at 8 mg/kg as compared to 4 mg/kg, respectively.
-
-## Subcutaneous use
+Pharmacokinetic parameters of tocilizumab did not change with time. A more than dose-proportional increase in the AUC and Cmin was observed for doses of 4 and 8 mg/kg every 4 weeks. Cmax increased
 
 <div style=\"page-break-after: always\"></div>
 
-The pharmacokinetics of tocilizumab were determined using a population pharmacokinetic analysis on  a database composed of 3 552 RA patients treated with 162 mg subcutaneous every week, 162 mg subcutaneous every other week, and or 4 or 8 mg/kg intravenous every 4 weeks for 24 weeks.
+dose-proportionally. At steady-state, predicted AUC and Cmin were 3.2 and 30 fold higher at 8 mg/kg as compared to 4 mg/kg, respectively.
+
+## Subcutaneous use
+
+The pharmacokinetics of tocilizumab were determined using a population pharmacokinetic analysis on a database composed of 3 552 RA patients treated with 162 mg subcutaneous every week, 162 mg subcutaneous every other week, and or 4 or 8 mg/kg intravenous every 4 weeks for 24 weeks.
 
 The pharmacokinetic parameters of tocilizumab did not change with time. For the 162 mg every week  dose, the predicted mean (±SD) steady-state AUC1week, Cmin and Cmax of tocilizumab were 7 970 ± 3 432 µg·h/mL, 43.0 ± 19.8 µg/mL, and 49.8 ± 21.0 µg/mL, respectively. The accumulation ratios for AUC, Cmin, and Cmax were 6.32, 6.30, and 5.27, respectively. Steady state was reached after 12 weeks for AUC, Cmin, and Cmax.
 
@@ -3466,11 +3474,11 @@ For the 162 every other week dose, the predicted mean (±SD) steady-state AUC2we
 
 ## Absorption
 
-Following subcutaneous dosing in RA patients, the time to peak serum tocilizumab concentrations t max was 2.8 days. The bioavailability for the subcutaneous formulation was 79%.
+Following subcutaneous dosing in RA patients, the time to peak serum tocilizumab concentrations tmax was 2.8 days. The bioavailability for the subcutaneous formulation was 79%.
 
 ## Elimination
 
-For subcutaneous administration, the concentration-dependent apparent t 1/2 is up to 12 days for 162 mg every week and 5 days for 162 mg every other week in patients with RA at steady-state.
+For subcutaneous administration, the concentration-dependent apparent t1/2 is up to 12 days for 162 mg every week and 5 days for 162 mg every other week in patients with RA at steady-state.
 
 ## sJIA
 
@@ -3484,24 +3492,24 @@ Patients with sJIA must have a minimum body weight of 10 kg when receiving tocil
 
 Table 8. Predicted mean ± SD PK parameters at steady-state after SC dosing in sJIA
 
-| Tocilizumab PK Parameter       | 162mgQW ≥ 30 kg   | 162 mg Q2Wbelow 30 kg   |
-|--------------------------------|-------------------|-------------------------|
-| C max (µg/mL)                  | 99.8 ± 46.2       | 134 ± 58.6              |
-| C min (µg/mL)                  | 79.2 ± 35.6       | 65.9 ± 31.3             |
-| C mean (µg/mL)                 | 91.3 ± 40.4       | 101 ± 43.2              |
-| Accumulation C max             | 3.66              | 1.88                    |
-| Accumulation C min             | 4.39              | 3.21                    |
-| Accumulation C mean or AUC τ * | 4.28              | 2.27                    |
+| TocilizumabPK Parameter        | 162mgQW ≥ 30 kg   | 162 mgQ2Wbelow 30 kg   |
+|--------------------------------|-------------------|------------------------|
+| C max (µg/mL)                  | 99.8 ± 46.2       | 134 ± 58.6             |
+| C min (µg/mL)                  | 79.2 ± 35.6       | 65.9 ± 31.3            |
+| C mean (µg/mL)                 | 91.3 ± 40.4       | 101 ± 43.2             |
+| Accumulation C max             | 3.66              | 1.88                   |
+| Accumulation C min             | 4.39              | 3.21                   |
+| Accumulation C mean or AUC τ * | 4.28              | 2.27                   |
 
 After SC dosing, approximately 90% of the steady-state was reached by week 12 for both the 162 mg QW and Q2W regimens.
 
 ## Absorption
 
+<div style=\"page-break-after: always\"></div>
+
 Following SC dosing in sJIA patients, the absorption half-life was around 2 days, and the bioavailability for the SC formulation in sJIA patients was 95%.
 
 ## Distribution
-
-<div style=\"page-break-after: always\"></div>
 
 In paediatric patients with sJIA, the central volume of distribution was 1.87 L, the peripheral volume of distribution was 2.14 L resulting in a volume of distribution at steady state of 4.01 L
 
@@ -3517,14 +3525,14 @@ The pharmacokinetics of tocilizumab in pJIA patients was characterized by a popu
 
 Table 9. Predicted mean ± SD PK parameters at steady-state after SC dosing in pJIA
 
-| Tocilizumab PK Parameter       | 162 mgQ2W ≥ 30 kg   | 162 mg Q3Wbelow 30 kg   |
-|--------------------------------|---------------------|-------------------------|
-| C max (µg/mL)                  | 29.4 ± 13.5         | 75.5 ± 24.1             |
-| C min (µg/mL)                  | 11.8 ± 7.08         | 18.4 ± 12.9             |
-| C avg (µg/mL)                  | 21.7 ± 10.4         | 45.5 ± 19.8             |
-| Accumulation C max             | 1.72                | 1.32                    |
-| Accumulation C min             | 3.58                | 2.08                    |
-| Accumulation C mean or AUC τ * | 2.04                | 1.46                    |
+| TocilizumabPK Parameter        | 162mgQ2W ≥ 30 kg   | 162 mgQ3Wbelow 30 kg   |
+|--------------------------------|--------------------|------------------------|
+| C max (µg/mL)                  | 29.4 ± 13.5        | 75.5 ± 24.1            |
+| C min (µg/mL)                  | 11.8 ± 7.08        | 18.4 ± 12.9            |
+| C avg (µg/mL)                  | 21.7 ± 10.4        | 45.5 ± 19.8            |
+| Accumulation C max             | 1.72               | 1.32                   |
+| Accumulation C min             | 3.58               | 2.08                   |
+| Accumulation C mean or AUC τ * | 2.04               | 1.46                   |
 
 After IV dosing, approximately 90% of the steady-state was reached by Week 12 for the 10 mg/kg (BW &lt; 30 kg), and by Week 16 for the 8 mg/kg (BW ≥ 30 kg) dose.  After SC dosing, approximately 90% of the steady-state was reached by Week 12 for both the 162 mg SC Q2W and Q3W regimens.
 
@@ -3540,19 +3548,23 @@ In paediatric patients with pJIA, the central volume of distribution was 1.97 L,
 
 Population pharmacokinetic analysis for pJIA patients showed body size related impact on linear clearance so that body-weight based dosing should be taken into consideration (see Table 9).
 
-After subcutaneous administration, the effective t1/2 of tocilizumab in pJIA patients is up to 10 days for  patients &lt; 30 kg (162 mg SC Q3W) and up to 7 days for patients ≥ 30 kg (162 mg SC Q2W) during  a dosing interval at steady state. Following intravenous administration, tocilizumab undergoes biphasic elimination from the circulation. The total clearance of tocilizumab was concentrationdependent and is the sum of the linear and non-linear clearance. The linear clearance was estimated as a  parameter in the population pharmacokinetic analysis and was 6.25 mL/h. The concentrationdependent non-linear clearance plays a major role at low tocilizumab concentrations. Once the nonlinear clearance pathway is saturated, at higher tocilizumab concentrations, clearance is mainly determined by the linear clearance.
+After subcutaneous administration, the effective t1/2 of tocilizumab in pJIA patients is up to 10 days for patients &lt; 30 kg (162 mg SC Q3W) and up to 7 days for patients ≥ 30 kg (162 mg SC Q2W) during a dosing interval at steady state. Following intravenous administration, tocilizumab undergoes biphasic elimination from the circulation. The total clearance of tocilizumab was concentration-dependent and is the sum of the linear and non-linear clearance. The linear clearance was estimated as a  parameter in the population pharmacokinetic analysis and was 6.25 mL/h. The concentration-dependent non-linear clearance plays a major role at low tocilizumab concentrations. Once the non-linear clearance
 
 <div style=\"page-break-after: always\"></div>
 
+pathway is saturated, at higher tocilizumab concentrations, clearance is mainly  determined by the linear clearance.
+
+## GCA
+
 ## Subcutaneous use
 
-The PK of tocilizumab  in GCA patients were determined using a population PK model from an analysis dataset composed of 149 GCA patients treated with 162 mg subcutaneous every week or 162 mg subcutaneous every other week.  The developed model had the same structure as the population PK model developed earlier based on data from RA patients (see Table 10).
+The PK of tocilizumab in GCA patients were determined using a population PK model from an analysis dataset composed of 149 GCA patients treated with 162 mg subcutaneous every week or 162 mg subcutaneous every other week. The developed model had the same structure as the population PK model developed earlier based on data from RA patients (see Table 10).
 
 Table 10. Predicted mean ± SD PK parameters at steady-state after subcutaneous dosing in GCA
 
 |                                | Subcutaneous              | Subcutaneous   |
 |--------------------------------|---------------------------|----------------|
-| Tocilizumab PK Parameter       | 162 mg every other weekly | 162 mg weekly  |
+| TocilizumabPK Parameter        | 162 mg every other weekly | 162 mgweekly   |
 | C max (µg/mL)                  | 19.3 ± 12.8               | 73 ± 30.4      |
 | C trough (µg/mL)               | 11.1 ± 10.3               | 68.1± 29.5     |
 | C mean (µg/mL)                 | 16.2 ± 11.8               | 71.3 ± 30.1    |
@@ -3560,9 +3572,11 @@ Table 10. Predicted mean ± SD PK parameters at steady-state after subcutaneous 
 | Accumulation C trough          | 5.61                      | 9.59           |
 | Accumulation C mean or AUC τ * | 2.81                      | 10.91          |
 
+*τ = 2 week or 1 week for the two SC regimens
+
 The steady-state profile following the tocilizumab weekly dose was almost flat, with very little fluctuations between trough and peak values, while there were substantial fluctuations for the tocilizumab every other weekly dose. Approximately 90% of the steady-state (AUC τ ) was reached by week 14 in the every other weekly and week 17 in the weekly dose groups.
 
-Based on the current characterization of PK, tocilizumab trough concentration at steady state are 50%  higher in this population relative to average concentrations in a large dataset from the RA population.  These differences occur due to unknown reasons. PK differences are not accompanied by marked  differences in PD parameters and so the clinical relevance is unknown.
+Based on the current characterization of PK, tocilizumab trough concentration at steady state are 50% higher in this population relative to average concentrations in a large dataset from the RA population. These differences occur due to unknown reasons. PK differences are not accompanied by marked differences in PD parameters and so the clinical relevance is unknown.
 
 In GCA patients, higher exposure was observed in patients with lower body weight. For the 162 mg every week dosing regimen, the steady-state Cavg was 51% higher in patients with body weight less than 60 kg compared to patients weighing between 60 to 100 kg. For the 162 mg every other week regimen, the steady-state Cavg was 129% higher in patients with body weight less than 60 kg compared to patients weighing between 60 to 100 kg. There is limited data for patients above 100 kg (n=7).
 
@@ -3576,11 +3590,11 @@ In GCA patients, the central volume of distribution was 4.09 L, the peripheral v
 
 ## Elimination
 
-The total clearance of tocilizumab was concentration-dependent and is the sum of the linear clearance  and the nonlinear clearance. The linear clearance was estimated as a parameter in the population  pharmacokinetic analysis and was 6.7 mL/h in GCA patients,
-
 <div style=\"page-break-after: always\"></div>
 
-In GCA patients, at steady state, the effective t ½ of tocilizumab varied between 18.3 and 18.9 days for  162 mg weekly regimen, and between 4.2 and 7.9 days for 162 mg every other weekly regimen. At  high serum concentrations, when total clearance of tocilizumab is dominated by linear clearance, an  effective t ½ of approximately 32 days was derived from the population parameter estimates.
+The total clearance of tocilizumab was concentration-dependent and is the sum of the linear clearance and the nonlinear clearance. The linear clearance was estimated as a parameter in the population pharmacokinetic analysis and was 6.7 mL/h in GCA patients,
+
+In GCA patients, at steady state, the effective t ½ of tocilizumab varied between 18.3 and 18.9 days for 162 mg weekly regimen, and between 4.2 and 7.9 days for 162 mg every other weekly regimen. At high serum concentrations, when total clearance of tocilizumab is dominated by linear clearance, an effective t ½ of approximately 32 days was derived from the population parameter estimates.
 
 ## Special populations
 
@@ -3592,7 +3606,7 @@ No dose adjustment is required in patients with mild or moderate renal impairmen
 
 Hepatic impairment: No formal study of the effect of hepatic impairment on the pharmacokinetics of tocilizumab has been conducted.
 
-Age, gender and ethnicity : Population pharmacokinetic analyses in RA and GCA patients, showed that  age, gender and ethnic origin did not affect the pharmacokinetics of tocilizumab.
+Age, gender and ethnicity: Population pharmacokinetic analyses in RA and GCA patients, showed that age, gender and ethnic origin did not affect the pharmacokinetics of tocilizumab.
 
 Results of the population PK analysis for sJIA and pJIA patients confirmed that body size is the only covariate which has an appreciable impact on the pharmacokinetics of tocilizumab including elimination and absorption so that body-weight based dosing should be taken into consideration (see Tables 8 and 9).
 
@@ -3606,22 +3620,20 @@ Available non-clinical data demonstrated the effect of IL-6 on malignant progres
 
 Available non-clinical data do not suggest an effect on fertility under tocilizumab treatment. Effects on  endocrine active and reproductive system organs were not observed in a chronic cynomolgus monkey  toxicity study and reproductive performance was not affected in IL-6 deficient mice. Tocilizumab  administered to cynomolgus monkeys during early gestation, was observed to have no direct or  indirect harmful effect on pregnancy or embryonal-foetal development. However, a slight increase in  abortion/embryonal-foetal death was observed with high systemic exposure (&gt; 100 x human exposure)  in the 50 mg/kg/day high-dose group compared to placebo and other low-dose groups. Although IL-6  does not seem to be a critical cytokine for foetal growth or the immunological control of the  maternal/foetal interface, a relation of this finding to tocilizumab cannot be excluded.
 
-Treatment with a murine analogue did not exert toxicity in juvenile mice. In particular, there was no impairment of skeletal growth, immune function and sexual maturation.
-
-The non-clinical safety profile of tocilizumab in the cynomolgus monkey does not suggest a
+Treatment with a murine analogue did not exert toxicity in juvenile mice. In particular, there was no
 
 <div style=\"page-break-after: always\"></div>
 
-difference  between intravenous and subcutaneous routes of administration.
+impairment of skeletal growth, immune function and sexual maturation.
+
+The non-clinical safety profile of tocilizumab in the cynomolgus monkey does not suggest a difference  between intravenous and subcutaneous routes of administration.
 
 ## 6. PHARMACEUTICAL PARTICULARS
 
 ## 6.1 List of excipients
 
 - L-Histidine
-
-L-Histidine monohydrochloride monohydrate
-
+- L-Histidine monohydrochloride monohydrate
 - L-Threonine
 - L-Methionine
 
@@ -3631,15 +3643,15 @@ Water for injections
 
 ## 6.2 Incompatibilities
 
-In the absence of compatibility studies, this medicinal product must not be mixed with other medicinal  products.
+In the absence of compatibility studies, this medicinal product must not be mixed with other medicinal products.
 
 ## 6.3 Shelf life
 
-42 months.
+4 years.
 
 ## 6.4 Special precautions for storage
 
-Store in a refrigerator (2°C - 8°C). Do not freeze. Once removed from the refrigerator, the pre-filled pen can be stored up to 3 weeks at or below 30°C.
+Store in a refrigerator (2°C - 8°C). Do not freeze. Once removed from the refrigerator, the pre-filled pen can be stored up to 3 weeks at or below 30°C. If necessary, the pre-filled pen may be returned to the refrigerator once within these 3 weeks and stored refrigerated until the expiry date. The pre-filled pen must be discarded if not used within the 3-week period.
 
 Keep the pre-filled pen in the outer carton in order to protect from light and moisture.
 
@@ -3660,9 +3672,9 @@ Not all  pack sizes may be marketed.
 
 Avtozma is supplied in a single use pre-filled pen. After removing the pre-filled pen from the refrigerator the pre-filled pen should be allowed to reach room temperature (18°C to 28°C ) by waiting for 45 minutes, before injecting Avtozma. The pen should not be shaken. After removing the cap the injection must be started within 3 minutes,  to prevent the medicine from drying out and blocking the needle. If the pre-filled pen is not used within 3 minutes of removing the cap, you must dispose of it in  a puncture resistant container and use a new pre-filled pen.
 
-If following pressing the needle cover the orange indicator does not move, you must dispose of the pre-filled pen in a puncture resistant container. Do not try to re-use the pre-filled pen. The pre-filled pen is locked and the needle is covered inside the needle cover when trying to re-use. Do not repeat the injection with another pre-filled pen. Call your healthcare provider for help.
-
 <div style=\"page-break-after: always\"></div>
+
+If following pressing the needle cover the orange indicator does not move, you must dispose of the pre-filled pen in a puncture resistant container. Do not try to re-use the pre-filled pen. The pre-filled pen is locked and the needle is covered inside the needle cover when trying to re-use. Do not repeat the injection with another pre-filled pen. Call your healthcare provider for help.
 
 Do not use if the medicine is cloudy or contains particles, is any colour besides colourless to yellow, or any part of the pre-filled pen appears to be damaged.
 
@@ -3701,17 +3713,17 @@ Detailed information on this medicinal product is available on the website of th
 
 Name and address of the manufacturer of the biological active substance
 
-Binex, Ltd, 3, Gaetbeol-ro, Yeonsu-gu, Incheon, Republic of Korea
+Binex Co., Ltd., 3, Gaetbeol-ro, Yeonsu-gu, Incheon, Republic of Korea
+
+CELLTRION, Inc. (Plant III), 20, Academy-ro 51 beon-gil, Yeonsu-gu, Incheon, 22014, Republic of Korea
 
 Name and address of the manufacturer responsible for batch release
 
-Nuvisan France SARL 2400, Route des Colles, 06410, Biot, France
+Nuvisan France SARL 2400 Route des Colles, 06410 Biot, France
 
 Midas Pharma GmbH Rheinstr. 49, 55218 Ingelheim, Germany
 
-KYMOS S.L.
-
-Ronda Can Fatjó, 7B. 08290 Cerdanyola del Vallès, Barcelona, Spain
+KYMOS S.L. Ronda Can Fatjó, 7B. 08290 Cerdanyola del Vallès, Barcelona, Spain
 
 ## B. CONDITIONS OR RESTRICTIONS REGARDING SUPPLY AND USE
 
@@ -3731,7 +3743,7 @@ The requirements for submission of PSURs for this medicinal product are set out 
 
 The market authorisation holder (MAH) shall perform the required pharmacovigilance activities and interventions detailed in the agreed RMP presented in Module 1.8.2 of the marketing authorisation and any agreed subsequent updates of the RMP.
 
-## An updated RMP should be submitted:
+An updated RMP should be submitted:
 
 - At the request of the European Medicines Agency;
 - Whenever the risk management system is modified, especially as the result of new information being received that may lead to a significant change to the benefit/risk profile or as the result of an important (pharmacovigilance or risk minimisation) milestone being reached.
@@ -3772,10 +3784,10 @@ The Nurse Information Pack should contain the following key elements:
 
 - Prevention of medical errors and injection/infusion related reactions
 - Preparation of injection/infusion
-- Infusion rate
 
 <div style=\"page-break-after: always\"></div>
 
+- Infusion rate
 - Monitoring of the patient for injection/infusion related reactions
 - Details on how to report serious adverse reactions
 
@@ -3859,9 +3871,7 @@ Celltrion Healthcare Hungary Kft.
 
 1062 Budapest
 
-Váci út 1-3. WestEnd Office Building B torony
-
-Hungary
+Váci út 1-3. WestEnd Office Building B torony Hungary
 
 ## 12. MARKETING AUTHORISATION NUMBER(S)
 
@@ -3995,9 +4005,7 @@ NN
 
 <div style=\"page-break-after: always\"></div>
 
-## PARTICULARS TO APPEAR ON THE OUTER PACKAGING
-
-CARTON
+## PARTICULARS TO APPEAR ON THE OUTER PACKAGING CARTON
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
@@ -4017,8 +4025,9 @@ Concentrate for solution for infusion
 
 400 mg/20 mL
 
-- 1 vial of 20 mL
-- 4 vials of 20 mL
+1 vial of 20 mL
+
+4 vials of 20 mL
 
 ## 5. METHOD AND ROUTE(S) OF ADMINISTRATION
 
@@ -4166,9 +4175,9 @@ Hungary
 
 EU/1/24/1896/007 1 pre-filled syringe
 
-EU/1/24/1896/008 4 pre-filled syringes
-
 EU/1/24/1896/013 2 pre-filled syringes
+
+EU/1/24/1896/008 4 pre-filled syringes
 
 ## 13. BATCH NUMBER
 
@@ -4198,7 +4207,7 @@ NN
 
 ## PARTICULARS TO APPEAR ON THE OUTER PACKAGING
 
-## PRE-FILLED SYRINGE CARTON (WITH BLUE BOX) - Multipack
+PRE-FILLED SYRINGE CARTON (WITH BLUE BOX) - Multipack
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
@@ -4214,11 +4223,7 @@ Excipients: L-Histidine, L-Histidine monohydrochloride monohydrate, L-Threonine,
 
 ## 4. PHARMACEUTICAL FORM AND CONTENTS
 
-Solution for injection in pre-filled syringe
-
-Multipack: 12 (3 packs of 4) pre-filled syringes.
-
-162 mg/0.9 mL
+Solution for injection in pre-filled syringe Multipack: 12 (3 packs of 4) pre-filled syringes. 162 mg/0.9 mL
 
 ## 5. METHOD AND ROUTE(S) OF ADMINISTRATION
 
@@ -4354,9 +4359,7 @@ Celltrion Healthcare Hungary Kft.
 
 1062 Budapest
 
-Váci út 1-3. WestEnd Office Building B torony
-
-Hungary
+Váci út 1-3. WestEnd Office Building B torony Hungary
 
 ## 12. MARKETING AUTHORISATION NUMBER(S)
 
@@ -4384,7 +4387,7 @@ avtozma 162 mg
 
 ## PARTICULARS TO APPEAR ON THE OUTER PACKAGING
 
-## PRE-FILLED PEN CARTON
+PRE-FILLED PEN CARTON
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
@@ -4554,7 +4557,7 @@ Lot
 
 ## 14. GENERAL CLASSIFICATION FOR SUPPLY
 
-15. INSTRUCTIONS ON USE
+## 15. INSTRUCTIONS ON USE
 
 ## 16. INFORMATION IN BRAILLE
 
@@ -4626,11 +4629,7 @@ Once removed from the refrigerator, the pre-filled pen can be stored up to 3 wee
 
 ## 10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
 
-Celltrion Healthcare Hungary Kft.
-
-1062 Budapest
-
-Váci út 1-3. WestEnd Office Building B torony
+Celltrion Healthcare Hungary Kft. 1062 Budapest Váci út 1-3. WestEnd Office Building B torony
 
 Hungary
 
@@ -4660,12 +4659,12 @@ avtozma 162 mg
 
 <div style=\"page-break-after: always\"></div>
 
-| MINIMUM PARTICULARSTO APPEAR ONSMALLIMMEDIATEPACKAGINGUNITS   |
-|---------------------------------------------------------------|
-| VIAL                                                          |
+| MINIMUM PARTICULARS TO APPEAR ONSMALLIMMEDIATEPACKAGINGUNITS   |
+|----------------------------------------------------------------|
+| VIAL                                                           |
 
-| 1.   | NAMEOF THE MEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION   |
-|------|---------------------------------------------------------------|
+| 1.   | NAMEOF THEMEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION   |
+|------|--------------------------------------------------------------|
 
 Avtozma 20 mg/mL sterile concentrate tocilizumab IV
 
@@ -4694,12 +4693,12 @@ Lot
 
 <div style=\"page-break-after: always\"></div>
 
-| MINIMUM PARTICULARSTO APPEAR ONSMALLIMMEDIATEPACKAGINGUNITS   |
-|---------------------------------------------------------------|
-| VIAL                                                          |
+| MINIMUM PARTICULARS TO APPEAR ONSMALLIMMEDIATEPACKAGINGUNITS   |
+|----------------------------------------------------------------|
+| VIAL                                                           |
 
-| 1.   | NAMEOF THE MEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION   |
-|------|---------------------------------------------------------------|
+| 1.   | NAMEOF THEMEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION   |
+|------|--------------------------------------------------------------|
 
 Avtozma 20 mg/mL sterile concentrate tocilizumab IV
 
@@ -4728,12 +4727,12 @@ Lot
 
 <div style=\"page-break-after: always\"></div>
 
-| MINIMUM PARTICULARSTO APPEAR ONSMALLIMMEDIATEPACKAGINGUNITS   |
-|---------------------------------------------------------------|
-| VIAL                                                          |
+| MINIMUM PARTICULARS TO APPEAR ONSMALLIMMEDIATEPACKAGINGUNITS   |
+|----------------------------------------------------------------|
+| VIAL                                                           |
 
-| 1.   | NAMEOF THE MEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION   |
-|------|---------------------------------------------------------------|
+| 1.   | NAMEOF THEMEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION   |
+|------|--------------------------------------------------------------|
 
 Avtozma 20 mg/mL sterile concentrate tocilizumab IV
 
@@ -4762,9 +4761,9 @@ Lot
 
 <div style=\"page-break-after: always\"></div>
 
-## MINIMUM PARTICULARS TO APPEAR ON SMALL IMMEDIATE PACKAGING UNITS
-
-## PRE-FILLED SYRINGE LABEL
+| MINIMUM PARTICULARS TO APPEAR ONSMALLIMMEDIATEPACKAGINGUNITS   |
+|----------------------------------------------------------------|
+| PRE-FILLED SYRINGE LABEL                                       |
 
 ## 1. NAME OF THE MEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION
 
@@ -4789,7 +4788,9 @@ Lot
 
 <div style=\"page-break-after: always\"></div>
 
-## MINIMUM PARTICULARS TO APPEAR ON SMALL IMMEDIATE PACKAGING UNITS PRE-FILLED PEN LABEL
+| MINIMUM PARTICULARS TO APPEAR ONSMALLIMMEDIATEPACKAGINGUNITS   |
+|----------------------------------------------------------------|
+| PRE-FILLEDPEN LABEL                                            |
 
 ## 1. NAME OF THE MEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION
 
@@ -4797,15 +4798,18 @@ Avtozma 162 mg injection tocilizumab SC
 
 ## 2. METHOD OF ADMINISTRATION
 
-3. EXPIRY DATE
+| 3.   | EXPIRY DATE   |
+|------|---------------|
 
 EXP
 
-## 4. BATCH NUMBER
+| 4.   | BATCH NUMBER   |
+|------|----------------|
 
 Lot
 
-## 5. CONTENTS BY WEIGHT, BY VOLUME OR BY UNIT
+| 5.   | CONTENTS BY WEIGHT, BY VOLUMEORBYUNIT   |
+|------|-----------------------------------------|
 
 162 mg/0.9 mL
 
@@ -4957,7 +4961,7 @@ The usual dose of Avtozma depends on your weight.
 
 The dose is calculated based on your body weight at each administration.
 
-Children with pJIA will be given Avtozma once every 4 weeks through a drip in the vein  (intravenous infusion) over one hour.
+Children with pJIA will be given Avtozma once every 4 weeks through a drip in the vein (intravenous infusion) over one hour.
 
 ## Patients with CRS
 
@@ -4987,7 +4991,9 @@ If you have any further questions on the use of this medicine, ask your doctor o
 
 Like all medicines, Avtozma can cause side effects, although not everybody gets them. Side effects could occur at least up to 3 months after your last dose of Avtozma.
 
-## Possible serious side effects : tell a doctor straight away.
+Possible serious side effects
+
+: tell a doctor straight away.
 
 These are common: they may affect up to 1 in every 10 users
 
@@ -5093,6 +5099,8 @@ Do not use this medicine after the expiry date which is stated on the carton. Th
 
 Store in a refrigerator (2°C - 8°C). Do not freeze.
 
+The unopened vial may be stored at temperatures up to a maximum of 25°C for a single period of up to 5 weeks. If necessary, the vial may be returned to the refrigerator once within these 5 weeks and stored refrigerated until the expiry date. The vial must be discarded if not used within the 5-week period.
+
 Keep the vial in the outer carton in order to protect from light.
 
 If necessary, the diluted infusion solution with 0.9% sodium chloride injection or 0.45% sodium chloride injection may be kept at refrigerated condition for up to 1 month or room temperature up to 30 °C for up to 48 hours.
@@ -5105,17 +5113,11 @@ Do not throw away any medicines via wastewater or household waste. Ask your phar
 
 - The active substance is tocilizumab.
 
-Each 4 mL vial contains 80 mg tocilizumab (20 mg/mL).
-
-Each 10 mL vial contains 200 mg tocilizumab (20 mg/mL).
-
-Each 20 mL vial contains 400 mg tocilizumab (20 mg/mL).
-
-- The other ingredients are L-Histidine, L-Histidine monohydrochloride monohydrate, L-
+Each 4 mL vial contains 80 mg tocilizumab (20 mg/mL). Each 10 mL vial contains 200 mg tocilizumab (20 mg/mL). Each 20 mL vial contains 400 mg tocilizumab (20 mg/mL).
 
 <div style=\"page-break-after: always\"></div>
 
-Threonine, L-Methionine, polysorbate 80 and water for injections.
+- The other ingredients are L-Histidine, L-Histidine monohydrochloride monohydrate, LThreonine, L-Methionine, polysorbate 80 and water for injections.
 
 ## What Avtozma looks like and contents of the pack
 
@@ -5157,41 +5159,51 @@ Celltrion Healthcare Denmark ApS Tlf: +45 3535 2989 Contact\\_dk@celltrionhc.com
 
 ## Deutschland
 
-Celltrion Healthcare Deutschland GmbH Tel: +49 (0)30 346494150 infoDE@celltrionhc.com
+Celltrion Healthcare Deutschland GmbH
+
+## Lietuva
+
+Celltrion Healthcare Hungary Kft. Tel.: +36 1 231 0493
+
+## Luxembourg/Luxemburg
+
+Celltrion Healthcare Belgium BVBA
+
+Tél/Tel: +32 2 643 71 81 BEinfo@celltrionhc.com mailto:NLinfo@celltrionhc.com
+
+## Magyarország
+
+Celltrion Healthcare Hungary Kft.
+
+Tel:. +36 1 231 0493
+
+## Malta
+
+Mint Health Ltd.
+
+Tel: +356 2093 9800
+
+## Nederland
+
+Celltrion Healthcare Netherlands B.V.
+
+Tel: +49 (0)30 346494150
+
+infoDE@celltrionhc.com
+
+Tel: + 31 20 888 7300
+
+NLinfo@celltrionh c .com
 
 ## Eesti
 
 Celltrion Healthcare Hungary Kft.
 
-## Lietuva
-
-Celltrion Healthcare Hungary Kft.
-
-Tel.: +36 1 231 0493
-
-## Luxembourg/Luxemburg
-
-Celltrion Healthcare Belgium BVBA Tél/Tel: +32 2 643 71 81 BEinfo@celltrionhc.com
-
-## Magyarország
-
-Celltrion Healthcare Hungary Kft. Tel:. +36 1 231 0493
-
-## Malta
-
-Mint Health Ltd. Tel: +356 2093 9800
-
-## Nederland
-
-Celltrion Healthcare Netherlands B.V. Tel: + 31 20 888 7300 NLinfo@celltrionh c .com
+Tel: +36 1 231 0493
 
 ## Norge
 
-Celltrion Healthcare Norway AS
-
-Tel: +36 1 231 0493
-
-Contact\\_no@celltrionhc.com
+Celltrion Healthcare Norway AS Contact\\_no@celltrionhc.com
 
 ## España
 
@@ -5221,9 +5233,7 @@ Tel.: +36 1 231 0493
 
 ## France
 
-Celltrion Healthcare France SAS
-
-Tél.: +33 (0)1 71 25 27 00
+Celltrion Healthcare France SAS Tél.: +33 (0)1 71 25 27 00
 
 ## Portugal
 
@@ -5247,15 +5257,11 @@ Tel: +36 1 231 0493
 
 ## Ireland
 
-Celltrion Healthcare Ireland Limited
-
-Tel: +353 1 223 4026
+Celltrion Healthcare Ireland Limited Tel: +353 1 223 4026
 
 ## Slovenija
 
-OPH Oktal Pharma d.o.o.
-
-Tel.: +386 1 519 29 22
+OPH Oktal Pharma d.o.o. Tel.: +386 1 519 29 22
 
 ## Ísland
 
@@ -5265,9 +5271,7 @@ Sími: +36 1 231 0493
 
 ## Slovenská republika
 
-Celltrion Healthcare Hungary Kft.
-
-Tel: +36 1 231 0493
+Celltrion Healthcare Hungary Kft. Tel: +36 1 231 0493
 
 ## Italia
 
@@ -5277,11 +5281,7 @@ Tel: +39 02 47927040
 
 ## Suomi/Finland
 
-Celltrion Healthcare Finland Oy.
-
-Tel: +358 29 170 7755
-
-contact\\_fi@celltrionhc.com
+Celltrion Healthcare Finland Oy. Tel: +358 29 170 7755 contact\\_fi@celltrionhc.com
 
 ## Κύπρος
 
@@ -5325,21 +5325,21 @@ Parenteral medicinal products should be inspected visually for particulate matte
 
 ## RA, COVID19 and CRS adult patients (≥ 30 kg)
 
-Withdraw a volume of sterile, non-pyrogenic sodium chloride 9 mg/mL (0.9%) or 4.5 mg/mL (0.45%) solution for injection  from a 100 mL infusion bag, equal to the volume of Avtozma concentrate required for the patients  dose, under aseptic conditions. The required amount of Avtozma concentrate (0.4 mL/kg) should be  withdrawn from the vial and placed in the 100 mL infusion bag. This should be a final volume of 100 mL. To mix the solution, gently invert the infusion bag to avoid foaming.
+Withdraw a volume of sterile, non-pyrogenic sodium chloride 9 mg/mL (0.9%) or 4.5 mg/mL (0.45%) solution for injection from a 100 mL infusion bag, equal to the volume of Avtozma concentrate required for the patients dose, under aseptic conditions. The required amount of Avtozma concentrate (0.4 mL/kg) should be withdrawn from the vial and placed in the 100 mL infusion bag. This should be a final volume of 100 mL. To mix the solution, gently invert the infusion bag to avoid foaming.
 
 ## Use in the paediatric population
 
 ## sJIA, pJIA and CRS patients ≥ 30 kg
 
-Withdraw a volume of sterile, non-pyrogenic sodium chloride 9 mg/mL (0.9%) or 4.5 mg/mL (0.45%) solution for injection  from a 100 mL infusion bag, equal to the volume of Avtozma concentrate required for the patients  dose, under aseptic conditions. The required amount of Avtozma concentrate ( 0.4 mL/kg ) should be  withdrawn from the vial and placed in the 100 mL infusion bag. This should be a final volume of 100 mL. To mix the solution, gently invert the infusion bag to avoid foaming.
+Withdraw a volume of sterile, non-pyrogenic sodium chloride 9 mg/mL (0.9%) or 4.5 mg/mL (0.45%) solution for injection from a 100 mL infusion bag, equal to the volume of Avtozma concentrate required for the patients dose, under aseptic conditions. The required amount of Avtozma concentrate ( 0.4 mL/kg ) should be withdrawn from the vial and placed in the 100 mL infusion bag. This should be a final volume of 100 mL. To mix the solution, gently invert the infusion bag to avoid foaming.
 
 ## sJIA and CRS patients &lt; 30 kg
 
-Withdraw a volume of sterile, non-pyrogenic sodium chloride 9 mg/mL (0.9%) or 4.5 mg/mL (0.45%) solution for injection  from a 50 mL infusion bag, equal to the volume of Avtozma concentrate required for the patients  dose, under aseptic conditions. The required amount of Avtozma concentrate ( 0.6 mL/kg ) should be  withdrawn from the vial and placed in the 50 mL infusion bag. This should be a final volume of 50 mL. To mix the solution, gently invert the infusion bag to avoid foaming.
+Withdraw a volume of sterile, non-pyrogenic sodium chloride 9 mg/mL (0.9%) or 4.5 mg/mL (0.45%) solution for injection from a 50 mL infusion bag, equal to the volume of Avtozma concentrate required for the patients dose, under aseptic conditions. The required amount of Avtozma concentrate ( 0.6 mL/kg ) should be withdrawn from the vial and placed in the 50 mL infusion bag. This should be a final volume of 50 mL. To mix the solution, gently invert the infusion bag to avoid foaming.
 
 ## pJIA patients &lt; 30 kg
 
-Withdraw a volume of sterile, non-pyrogenic sodium chloride 9 mg/mL (0.9%) or 4.5 mg/mL (0.45%) solution for injection  from a 50 mL infusion bag, equal to the volume of Avtozma concentrate required for the patients  dose, under aseptic conditions. The required amount of Avtozma concentrate ( 0.5 mL/kg ) should be  withdrawn from the vial and placed in the 50 mL infusion bag. This should be a final volume of 50 mL. To mix the solution, gently invert the infusion bag to avoid foaming. Avtozma is for single-use only.
+Withdraw a volume of sterile, non-pyrogenic sodium chloride 9 mg/mL (0.9%) or 4.5 mg/mL (0.45%) solution for injection from a 50 mL infusion bag, equal to the volume of Avtozma concentrate required for the patients dose, under aseptic conditions. The required amount of Avtozma concentrate ( 0.5 mL/kg ) should be withdrawn from the vial and placed in the 50 mL infusion bag. This should be a final volume of 50 mL. To mix the solution, gently invert the infusion bag to avoid foaming. Avtozma is for single-use only.
 
 Any unused product or waste material should be disposed of in accordance with local requirements.
 
@@ -5472,15 +5472,17 @@ This medicine contains 0.2 mg of polysorbate 80 in each pre-filled syringe. Poly
 
 ## 3. How to use Avtozma
 
-Always use this medicine exactly as your doctor, pharmacist or nurse has told you. You should check  with your doctor, pharmacist or nurse if you are not sure.
+Always use this medicine exactly as your doctor, pharmacist or nurse has told you. You should check with your doctor, pharmacist or nurse if you are not sure.
 
-The treatment will be prescribed and started by healthcare professionals experienced in the diagnosis  and treatment of RA, sJIA, pJIA or GCA.
+The treatment will be prescribed and started by healthcare professionals experienced in the diagnosis and treatment of RA, sJIA, pJIA or GCA.
 
 ## The recommended dose
 
 The dose for RA and GCA adults is 162 mg (the content of 1 pre-filled syringe) given once a week.
 
-## Children and adolescents with sJIA (aged 1 year and over) The usual dose of Avtozma depends on the patient's weight.
+## Children and adolescents with sJIA (aged 1 year and over)
+
+## The usual dose of Avtozma depends on the patient's weight.
 
 - If the patient weighs less than 30 kg : the dose is 162 mg (the content of 1 pre-filled syringe) once  every 2 weeks
 - If the patient weighs 30 kg or more : the dose is 162 mg (the content of 1 pre-filled syringe) once  every week
@@ -5490,15 +5492,15 @@ The dose for RA and GCA adults is 162 mg (the content of 1 pre-filled syringe) g
 - If the patient weighs less than 30 kg : the dose is 162 mg (the content of 1 pre-filled syringe), once  every 3 weeks
 - If the patient weighs 30 kg or more : the dose is 162 mg (the content of 1 pre-filled syringe), once  every 2 weeks.
 
-Avtozma is given by injection under the skin ( subcutaneously ). At the start, your doctor or nurse may inject Avtozma. However, your doctor may decide that you may inject Avtozma yourself. In this case you will get training on how to inject Avtozma yourself. Parents and carers will get training on how to inject Avtozma for patients who cannot inject themselves, such as children.
+Avtozma is given by injection under the skin (subcutaneously). At the start, your doctor or nurse may inject Avtozma. However, your doctor may decide that you may inject Avtozma yourself. In this case you will get training on how to inject Avtozma yourself. Parents and carers will get training on how to inject Avtozma for patients who cannot inject themselves, such as children.
 
-Talk to your doctor if you have any questions about giving yourself or a child patient you look after an  injection. You will find detailed 'Instructions for administration' at the end of this leaflet.
+Talk to your doctor if you have any questions about giving yourself or a child patient you look after an injection. You will find detailed 'Instructions for administration' at the end of this leaflet.
 
 ## If you use more Avtozma than you should
 
 Because Avtozma is given in one pre-filled syringe, it is unlikely that you will receive too much. However, if you are worried, talk to your doctor, pharmacist or nurse.
 
-If an adult with RA or GCA or a child or adolescent with sJIA misses or forgets a dose
+## If an adult with RA or GCA or a child or adolescent with sJIA misses or forgets a dose
 
 It is very important to use Avtozma exactly as prescribed by your doctor. Keep track of your next dose.
 
@@ -5524,7 +5526,7 @@ If you have any further questions on the use of this medicine, ask your doctor, 
 
 ## 4. Possible side effects
 
-Like all medicines, Avtozma can cause side effects, although not everybody gets them.  Side effects could occur 3 months or more after your last dose of Avtozma.
+Like all medicines, Avtozma can cause side effects, although not everybody gets them. Side effects could occur 3 months or more after your last dose of Avtozma.
 
 ## Possible serious side effects: tell a doctor straight away.
 
@@ -5626,19 +5628,17 @@ Keep this medicine out of the sight and reach of children.
 
 Do not use this medicine after the expiry date which is stated on the pre-filled syringe label and carton (EXP). The expiry date refers to the last day of that month.
 
-Store in a refrigerator (2°C - 8°C). Do not freeze. Once removed from the refrigerator, the prefilled  syringe can be stored up to 3 weeks at or below 30°C.
+Store in a refrigerator (2°C - 8°C). Do not freeze. Once removed from the refrigerator, the prefilled syringe can be stored up to 3 weeks at or below 30°C. If necessary, Avtozma may be returned to the refrigerator once within these 3 weeks and stored refrigerated until the expiry date. Avtozma must be discarded, if not used within the 3-week period.
 
 Keep the pre-filled syringes in the outer carton in order to protect from light and moisture.
 
 Do not use if the medicine is cloudy or contains particles, is any colour besides colourless to yellow, or any part of the pre-filled syringe appears to be damaged.
 
-The syringe should not be shaken. After removing the cap the injection must be started within 5 minutes to prevent the medicine from drying out and blocking the needle. If the pre-filled syringe
-
 <div style=\"page-break-after: always\"></div>
 
-is not used within 5 minutes of cap removal, you must dispose of it in a puncture resistant container and  use a new pre-filled syringe.
+The syringe should not be shaken. After removing the cap the injection must be started within 5 minutes to prevent the medicine from drying out and blocking the needle. If the pre-filled syringe is not used within 5 minutes of cap removal, you must dispose of it in a puncture resistant container and use a new pre-filled syringe.
 
-If following insertion of the needle, you cannot depress the plunger, you must dispose of the prefilled  syringe in a puncture resistant container and use a new pre-filled syringe.
+If following insertion of the needle, you cannot depress the plunger, you must dispose of the prefilled syringe in a puncture resistant container and use a new pre-filled syringe.
 
 ## 6. Contents of the pack and other information
 
@@ -5660,7 +5660,7 @@ The Avtozma pre-filled syringe for patient use is available in packs containing:
 - 4 pre-filled syringes
 - 12 (3 packs of 4) pre-filled syringes (Multipacks)
 
-Not all pack sizes may be marketed.
+## Not all pack sizes may be marketed.
 
 ## Marketing Authorisation Holder
 
@@ -5668,9 +5668,7 @@ Celltrion Healthcare Hungary Kft. 1062 Budapest Váci út 1-3. WestEnd Office Bu
 
 ## Manufacturer
 
-Nuvisan France SARL 2400, Route des Colles, 06410, Biot,
-
-France
+Nuvisan France SARL 2400 Route des Colles, 06410 Biot, France
 
 Midas Pharma GmbH Rheinstr. 49, 55218 Ingelheim, Germany
 
@@ -5702,7 +5700,9 @@ Celltrion Healthcare Deutschland GmbH Tel: +49 (0)30 346494150 infoDE@celltrionh
 
 ## Eesti
 
-Celltrion Healthcare Hungary Kft. Tel: +36 1 231 0493
+Celltrion Healthcare Hungary Kft.
+
+Tel: +36 1 231 0493
 
 ## España
 
@@ -5725,8 +5725,6 @@ Oktal Pharma d.o.o. Tel: +385 1 6595 777
 Celltrion Healthcare Ireland Limited Tel: +353 1 223 4026
 
 ## Ísland
-
-Celltrion Healthcare Hungary Kft. Sími: +36 1 231 0493
 
 ## Lietuva
 
@@ -5770,11 +5768,19 @@ Celltrion Healthcare Hungary Kft. Tel: +36 1 231 0493
 
 ## Slovenija
 
-OPH Oktal Pharma d.o.o. Tel.: +386 1 519 29 22
+OPH Oktal Pharma d.o.o.
+
+Tel.: +386 1 519 29 22
 
 ## Slovenská republika
 
-Celltrion Healthcare Hungary Kft. Tel: +36 1 231 0493
+Celltrion Healthcare Hungary Kft.
+
+Sími: +36 1 231 0493
+
+Celltrion Healthcare Hungary Kft.
+
+Tel: +36 1 231 0493
 
 ## Italia
 
@@ -5784,19 +5790,23 @@ Tel: +39 02 47927040
 
 ## Suomi/Finland
 
-Celltrion Healthcare Finland Oy. Tel: +358 29 170 7755 contact\\_fi@celltrionhc.com
+Celltrion Healthcare Finland Oy.
+
+Tel: +358 29 170 7755
+
+contact\\_fi@celltrionhc.com
 
 ## Κύπρος
 
 C.A. Papaellinas Ltd
 
-Τηλ
-
-: +357 22741741
+Τηλ : +357 22741741
 
 ## Sverige
 
-Celltrion Sweden AB Tel: +46 8 80 11 77
+Celltrion Sweden AB
+
+Tel: +46 8 80 11 77
 
 Contact\\_se@celltrionhc.com
 
@@ -5834,7 +5844,7 @@ Read and follow the Instructions for Use that come with your Avtozma prefilled s
 ## Storing Avtozma
 
 - Store the unused pre-filled syringe in the original carton in a refrigerator between 2°C to 8ºC. Do not freeze.
-- Once removed from the refrigerator, Avtozma can be stored up to 3 weeks at or below 30 ° C. If not used within the 3 weeks, Avtozma should be discarded.
+- Once removed from the refrigerator, Avtozma can be stored up to 3 weeks at or below 30 ° C. If necessary, Avtozma may be returned to the refrigerator once within these 3 weeks. Avtozma must be discarded, if not used within the 3-week period.
 - Keep the pre-filled syringe out of direct sunlight.
 - Do not remove the pre-filled syringe from its original carton during storage.
 - Do not leave the pre-filled syringe unattended.
@@ -5897,10 +5907,9 @@ Figure E
 - a. Open the carton and remove 1 single-dose prefilled syringe from the carton. Return any remaining Avtozma pre-filled syringes in the carton to the refrigerator.
 - b. Check the expiration date on the Avtozma prefilled syringe ( see Figure D ).
 - Do not use the pre-filled syringe if the expiration date has passed. If the expiration date has passed, safely dispose of the pre-filled syringe in your sharps disposal container and get a new one.
+- c. Check the pre-filled syringe to make sure it is
 
-c.
-
-Check the pre-filled syringe to make sure it is not damaged, and shows no sign of leakage.
+not damaged, and shows no sign of leakage.
 
 - Do not use the pre-filled syringe if it has been dropped, damaged, or has leaked.
 4. Wait 30 minutes.
@@ -5957,9 +5966,7 @@ Figure J
 - a. Wipe the injection site with an alcohol swab and let it air dry for approximately 10 seconds (see Figure I ). This will reduce the chance of getting an infection.
 - Do not touch the injection site again before giving the injection.
 - Do not fan or blow on the clean area.
-
-## 9. Remove the cap.
-
+9. Remove the cap.
 - a. Hold the pre-filled syringe by the syringe body using one hand.
 
 Gently pull the cap straight off with the other hand (see Figure J ).
@@ -6049,11 +6056,9 @@ Dispose of the full container as instructed by your healthcare provider or pharm
 
 - a. Write the date, time, and specific part of your body where you injected yourself .
 
-<div style=\"page-break-after: always\"></div>
-
-<!-- image -->
-
 ## Package leaflet: Information for the user
+
+<div style=\"page-break-after: always\"></div>
 
 ## Avtozma 162 mg solution for injection in pre-filled pen
 
@@ -6210,7 +6215,9 @@ Talk to your doctor if you have any questions about giving yourself or an adoles
 
 ## If you use more Avtozma than you should
 
-Because Avtozma is given in one pre-filled pen, it is unlikely that you will receive too much. However, if you are worried, talk to your doctor, pharmacist or nurse.
+Because Avtozma is given in one pre-filled pen, it is unlikely that you will receive too much.
+
+However, if you are worried, talk to your doctor, pharmacist or nurse.
 
 ## If an adult with RA or GCA or an adolescent with sJIA misses or forgets a dose
 
@@ -6310,7 +6317,7 @@ These may affect up to 1 in every 100 patients
 
 ## Rare side effects :
 
-These may affect up to1in every 1 000 patients
+These may affect up to 1 in every 1 000 patients
 
 - Stevens-Johnson Syndrome (skin rash, which may lead to severe blistering and peeling of the skin)
 - Fatal Allergic Reactions (Anaphylaxis [fatal])
@@ -6337,7 +6344,7 @@ Keep this medicine out of the sight and reach of children.
 
 Do not use this medicine after the expiry date which is stated on the pre-filled pen label and carton (EXP). The expiry date refers to the last day of that month.
 
-Store in a refrigerator (2°C - 8°C). Do not freeze. Once removed from the refrigerator, the pre-filled pen can be stored up to 3 weeks at or below 30°C.
+Store in a refrigerator (2°C - 8°C). Do not freeze. Once removed from the refrigerator, the pre-filled pen can be stored up to 3 weeks at or below 30°C. If necessary, Avtozma may be returned to the refrigerator once within these 3 weeks and stored refrigerated until the expiry date. Avtozma must be discarded, if not used within the 3-week period.
 
 Keep the pre-filled pens in the outer carton in order to protect from light and moisture.
 
@@ -6380,7 +6387,9 @@ Celltrion Healthcare Hungary Kft. 1062 Budapest Váci út 1-3. WestEnd Office Bu
 
 ## Manufacturer
 
-Nuvisan France SARL 2400, Route des Colles, 06410, Biot, France
+Nuvisan France SARL 2400 Route des Colles, 06410 Biot,
+
+France
 
 Midas Pharma GmbH Rheinstr. 49, 55218 Ingelheim, Germany
 
@@ -6404,9 +6413,7 @@ Celltrion Healthcare Hungary Kft. Tel: +36 1 231 0493
 
 ## Denmark
 
-Celltrion Healthcare Denmark ApS Tel: + 45 3535 2989
-
-Contact\\_dk@celltrionhc.com
+Celltrion Healthcare Denmark ApS Tel: + 45 3535 2989 Contact\\_dk@celltrionhc.com
 
 ## Deutschland
 
@@ -6418,17 +6425,11 @@ Celltrion Healthcare Hungary Kft. Tel: +36 1 231 0493
 
 ## España
 
-CELLTRION FARMACEUTICA (ESPAÑA)
-
-S.L..
-
-Tel: +34 910 497 478
+CELLTRION FARMACEUTICA (ESPAÑA) S.L.. Tel: +34 910 497 478
 
 ## Ελλάδα
 
-ΒΙΑΝΕΞ Α.Ε.
-
-Τηλ: +30 210 8009111
+ΒΙΑΝΕΞ Α.Ε. Τηλ: +30 210 8009111
 
 ## France
 
@@ -6445,10 +6446,6 @@ Celltrion Healthcare Ireland Limited Tel: +353 1 223 4026
 ## Ísland
 
 Celltrion Healthcare Hungary Kft. Sími: +36 1 231 0493
-
-## Italia
-
-Celltrion Healthcare Italy S.r.l. Tel: +39 02 47927040
 
 ## Lietuva
 
@@ -6484,9 +6481,7 @@ Celltrion Healthcare Hungary Kft. Tel.: +36 1 231 0493
 
 ## Portugal
 
-CELLTRION PORTUGAL, UNIPESSOAL LDA.
-
-Tel: +351 21 936 8542
+CELLTRION PORTUGAL, UNIPESSOAL LDA. Tel: +351 21 936 8542
 
 ## România
 
@@ -6496,19 +6491,19 @@ Tel: +36 1 231 0493
 
 ## Slovenija
 
-OPH Oktal Pharma d.o.o.
-
-Tel.: +386 1 519 29 22
+OPH Oktal Pharma d.o.o. Tel.: +386 1 519 29 22
 
 ## Slovenská republika
 
 Celltrion Healthcare Hungary Kft. Tel: +36 1 231 0493
 
-## Suomi/Finland
-
-Celltrion Healthcare Finland Oy. Tel: +358 29 170 7755
-
 <div style=\"page-break-after: always\"></div>
+
+## Italia
+
+Celltrion Healthcare Italy S.r.l.
+
+Tel: +39 02 47927040
 
 ## Κύπρος
 
@@ -6532,7 +6527,11 @@ Tālr.:
 
 Detailed information on this medicine is available on the European Medicines Agency website: https://www.ema.europa.eu/.
 
-## contact\\_fi@celltrionhc.com
+## Suomi/Finland
+
+Celltrion Healthcare Finland Oy.
+
+Tel: +358 29 170 7755 contact\\_fi@celltrionhc.com
 
 ## Sverige
 
@@ -6560,7 +6559,7 @@ Read and follow the Instructions for Use that come with your Avtozma pre-filled 
 ## Storing Avtozma
 
 - Store the unused pre-filled pen in the original carton in a refrigerator between 2 ° C to 8 º C. Do not freeze.
-- Once removed from the refrigerator, Avtozma can be stored up to 3 weeks at or below 30 ° C. If not used within the 3 weeks, Avtozma should be discarded.
+- Once removed from the refrigerator, Avtozma can be stored up to 3 weeks at or below 30 ° C. If necessary, Avtozma may be returned to the refrigerator once within 3 weeks. Avtozma must be discarded, if not used within the 3-week period.
 - Keep the pre-filled pen out of direct sunlight.
 - Do not remove the pre-filled pen from its original carton during storage.
 - Do not leave the pre-filled pen unattended.
@@ -6584,7 +6583,7 @@ Carton containing CT-P47 autoinjector
 
 Adhesive bandage
 
-Cottonball/ gauze and Alcohol swab
+Cotton ball/ gauze and Alcohol swab
 
 <!-- image -->
 
@@ -6593,6 +6592,8 @@ Sharps disposal container
 <!-- image -->
 
 ## Figure B
+
+EXP:MMYYYY
 
 Figure C
 
@@ -6610,9 +6611,7 @@ Figure C
 - Adhesive bandage
 - Sharps disposal container
 - Alcohol swab
-
-## 2. Inspect the carton
-
+2. Inspect the carton
 - a. Look at the carton and make sure you have the correct medicine and dose strength. (Avtozma)
 - b. Check the expiration date on the carton to make sure the date has not passed.
 - Do not use the pre-filled pen if the expiration date has passed.
@@ -6633,7 +6632,8 @@ Figure F
 
 <!-- image -->
 
-3. Inspect the pre-filled pen.
+## 3. Inspect the pre-filled pen.
+
 - a. Open the carton and remove one single-dose prefilled pen from the carton. Return any remaining Avtozma pre-filled pens in the box to the refrigerator.
 - b. Check the expiration date on the Avtozma pre-filled pen ( see Figure D ).
 - Do not use the pre-filled pen if the expiration date has passed. If the expiration date has passed, safely dispose of the pre-filled pen in your sharps disposal container and get a new one.
@@ -6702,7 +6702,11 @@ Gently pull the cap straight off with the other hand (see Figure J ).
 
 Note : If you cannot remove the cap, you should ask a caregiver for help or contact your healthcare provider.
 
-- b. Dispose of the cap right away in your sharps disposal container (see step 14 and Figure O )
+- b. Dispose of the cap right away in your sharps
+2. )
+
+disposal container (see step 14 and Figure O
+
 - Do not re-cap the pre-filled pen.
 - Do not touch the needle shield at the tip of the pre-filled pen to avoid accidental needle stick injury.
 - After you remove the cap, the pre-filled pen is ready for use. If the pre-filled pen is not used within 3 minutes of cap removal, throw away the pre-filled pen in a sharps disposal container and use a new pre-filled pen.

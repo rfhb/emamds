@@ -1,18 +1,18 @@
 ---
-document_datetime: 2025-12-29 08:36:43
+document_datetime: 2026-01-26 17:20:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/avtozma.html
 document_name: avtozma.html
 version: success
-processing_time: 0.129132
-conversion_datetime: 2025-12-31 01:29:27.139383
+processing_time: 0.1367834
+conversion_datetime: 2026-01-29 12:19:00.548833
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.66.0
-  docling-core: 2.57.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.11.0
+  docling-jobkit: 1.9.0
+  docling: 2.70.0
+  docling-core: 2.61.0
+  docling-ibm-models: 3.11.0
+  docling-parse: 4.7.3
   python: cpython-313 (3.13.11)
   plaform: macOS-26.2-arm64-arm-64bit-Mach-O
 ---
@@ -25,8 +25,6 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 tocilizumab Medicine Human Authorised
-
-On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -128,7 +126,7 @@ English (EN) (140.05 KB - PDF)
 
 [View](/en/documents/overview/avtozma-epar-medicine-overview_en.pdf)
 
-[Other languages (21)](#file-language-dropdown-803)
+[Other languages (21)](#file-language-dropdown-939)
 
 български (BG) (167.04 KB - PDF)
 
@@ -310,17 +308,17 @@ English (EN) (1.55 MB - PDF)
 
 Avtozma : EPAR - Product information
 
-English (EN) (2.62 MB - PDF)
+English (EN) (2.64 MB - PDF)
 
 **First published:** 04/04/2025
 
-**Last updated:** 24/09/2025
+**Last updated:** 26/01/2026
 
 [View](/en/documents/product-information/avtozma-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-214)
+[Other languages (24)](#file-language-dropdown-346)
 
-български (BG) (2.22 MB - PDF)
+български (BG) (2.19 MB - PDF)
 
 **First published:**
 
@@ -328,11 +326,11 @@ English (EN) (2.62 MB - PDF)
 
 **Last updated:**
 
-24/09/2025
+26/01/2026
 
 [View](/bg/documents/product-information/avtozma-epar-product-information_bg.pdf)
 
-español (ES) (1.76 MB - PDF)
+español (ES) (1.84 MB - PDF)
 
 **First published:**
 
@@ -340,11 +338,11 @@ español (ES) (1.76 MB - PDF)
 
 **Last updated:**
 
-24/09/2025
+26/01/2026
 
 [View](/es/documents/product-information/avtozma-epar-product-information_es.pdf)
 
-čeština (CS) (2.07 MB - PDF)
+čeština (CS) (2.1 MB - PDF)
 
 **First published:**
 
@@ -352,11 +350,11 @@ español (ES) (1.76 MB - PDF)
 
 **Last updated:**
 
-24/09/2025
+26/01/2026
 
 [View](/cs/documents/product-information/avtozma-epar-product-information_cs.pdf)
 
-dansk (DA) (1.76 MB - PDF)
+dansk (DA) (1.86 MB - PDF)
 
 **First published:**
 
@@ -364,11 +362,11 @@ dansk (DA) (1.76 MB - PDF)
 
 **Last updated:**
 
-24/09/2025
+26/01/2026
 
 [View](/da/documents/product-information/avtozma-epar-product-information_da.pdf)
 
-Deutsch (DE) (1.87 MB - PDF)
+Deutsch (DE) (1.94 MB - PDF)
 
 **First published:**
 
@@ -376,11 +374,11 @@ Deutsch (DE) (1.87 MB - PDF)
 
 **Last updated:**
 
-24/09/2025
+26/01/2026
 
 [View](/de/documents/product-information/avtozma-epar-product-information_de.pdf)
 
-eesti keel (ET) (1.92 MB - PDF)
+eesti keel (ET) (2 MB - PDF)
 
 **First published:**
 
@@ -388,11 +386,11 @@ eesti keel (ET) (1.92 MB - PDF)
 
 **Last updated:**
 
-24/09/2025
+26/01/2026
 
 [View](/et/documents/product-information/avtozma-epar-product-information_et.pdf)
 
-ελληνικά (EL) (2.16 MB - PDF)
+ελληνικά (EL) (2.28 MB - PDF)
 
 **First published:**
 
@@ -400,11 +398,11 @@ eesti keel (ET) (1.92 MB - PDF)
 
 **Last updated:**
 
-24/09/2025
+26/01/2026
 
 [View](/el/documents/product-information/avtozma-epar-product-information_el.pdf)
 
-français (FR) (1.82 MB - PDF)
+français (FR) (1.91 MB - PDF)
 
 **First published:**
 
@@ -412,11 +410,11 @@ français (FR) (1.82 MB - PDF)
 
 **Last updated:**
 
-24/09/2025
+26/01/2026
 
 [View](/fr/documents/product-information/avtozma-epar-product-information_fr.pdf)
 
-hrvatski (HR) (2.06 MB - PDF)
+hrvatski (HR) (2.13 MB - PDF)
 
 **First published:**
 
@@ -424,11 +422,11 @@ hrvatski (HR) (2.06 MB - PDF)
 
 **Last updated:**
 
-24/09/2025
+26/01/2026
 
 [View](/hr/documents/product-information/avtozma-epar-product-information_hr.pdf)
 
-íslenska (IS) (1.81 MB - PDF)
+íslenska (IS) (1.9 MB - PDF)
 
 **First published:**
 
@@ -436,11 +434,11 @@ hrvatski (HR) (2.06 MB - PDF)
 
 **Last updated:**
 
-24/09/2025
+26/01/2026
 
 [View](/is/documents/product-information/avtozma-epar-product-information_is.pdf)
 
-italiano (IT) (1.88 MB - PDF)
+italiano (IT) (1.97 MB - PDF)
 
 **First published:**
 
@@ -448,11 +446,11 @@ italiano (IT) (1.88 MB - PDF)
 
 **Last updated:**
 
-24/09/2025
+26/01/2026
 
 [View](/it/documents/product-information/avtozma-epar-product-information_it.pdf)
 
-latviešu valoda (LV) (2.16 MB - PDF)
+latviešu valoda (LV) (2.22 MB - PDF)
 
 **First published:**
 
@@ -460,11 +458,11 @@ latviešu valoda (LV) (2.16 MB - PDF)
 
 **Last updated:**
 
-24/09/2025
+26/01/2026
 
 [View](/lv/documents/product-information/avtozma-epar-product-information_lv.pdf)
 
-lietuvių kalba (LT) (2.1 MB - PDF)
+lietuvių kalba (LT) (2.15 MB - PDF)
 
 **First published:**
 
@@ -472,11 +470,11 @@ lietuvių kalba (LT) (2.1 MB - PDF)
 
 **Last updated:**
 
-24/09/2025
+26/01/2026
 
 [View](/lt/documents/product-information/avtozma-epar-product-information_lt.pdf)
 
-magyar (HU) (2.16 MB - PDF)
+magyar (HU) (2.22 MB - PDF)
 
 **First published:**
 
@@ -484,11 +482,11 @@ magyar (HU) (2.16 MB - PDF)
 
 **Last updated:**
 
-24/09/2025
+26/01/2026
 
 [View](/hu/documents/product-information/avtozma-epar-product-information_hu.pdf)
 
-Malti (MT) (2.15 MB - PDF)
+Malti (MT) (2.26 MB - PDF)
 
 **First published:**
 
@@ -496,11 +494,11 @@ Malti (MT) (2.15 MB - PDF)
 
 **Last updated:**
 
-24/09/2025
+26/01/2026
 
 [View](/mt/documents/product-information/avtozma-epar-product-information_mt.pdf)
 
-Nederlands (NL) (1.85 MB - PDF)
+Nederlands (NL) (1.93 MB - PDF)
 
 **First published:**
 
@@ -508,11 +506,11 @@ Nederlands (NL) (1.85 MB - PDF)
 
 **Last updated:**
 
-24/09/2025
+26/01/2026
 
 [View](/nl/documents/product-information/avtozma-epar-product-information_nl.pdf)
 
-norsk (NO) (1.69 MB - PDF)
+norsk (NO) (1.77 MB - PDF)
 
 **First published:**
 
@@ -520,11 +518,11 @@ norsk (NO) (1.69 MB - PDF)
 
 **Last updated:**
 
-24/09/2025
+26/01/2026
 
 [View](/no/documents/product-information/avtozma-epar-product-information_no.pdf)
 
-polski (PL) (2.24 MB - PDF)
+polski (PL) (2.22 MB - PDF)
 
 **First published:**
 
@@ -532,11 +530,11 @@ polski (PL) (2.24 MB - PDF)
 
 **Last updated:**
 
-24/09/2025
+26/01/2026
 
 [View](/pl/documents/product-information/avtozma-epar-product-information_pl.pdf)
 
-português (PT) (1.7 MB - PDF)
+português (PT) (1.77 MB - PDF)
 
 **First published:**
 
@@ -544,11 +542,11 @@ português (PT) (1.7 MB - PDF)
 
 **Last updated:**
 
-24/09/2025
+26/01/2026
 
 [View](/pt/documents/product-information/avtozma-epar-product-information_pt.pdf)
 
-română (RO) (2.23 MB - PDF)
+română (RO) (2.34 MB - PDF)
 
 **First published:**
 
@@ -556,11 +554,11 @@ română (RO) (2.23 MB - PDF)
 
 **Last updated:**
 
-24/09/2025
+26/01/2026
 
 [View](/ro/documents/product-information/avtozma-epar-product-information_ro.pdf)
 
-slovenčina (SK) (2.1 MB - PDF)
+slovenčina (SK) (2.12 MB - PDF)
 
 **First published:**
 
@@ -568,11 +566,11 @@ slovenčina (SK) (2.1 MB - PDF)
 
 **Last updated:**
 
-24/09/2025
+26/01/2026
 
 [View](/sk/documents/product-information/avtozma-epar-product-information_sk.pdf)
 
-slovenščina (SL) (2.05 MB - PDF)
+slovenščina (SL) (2.09 MB - PDF)
 
 **First published:**
 
@@ -580,11 +578,11 @@ slovenščina (SL) (2.05 MB - PDF)
 
 **Last updated:**
 
-24/09/2025
+26/01/2026
 
 [View](/sl/documents/product-information/avtozma-epar-product-information_sl.pdf)
 
-Suomi (FI) (1.83 MB - PDF)
+Suomi (FI) (1.92 MB - PDF)
 
 **First published:**
 
@@ -592,11 +590,11 @@ Suomi (FI) (1.83 MB - PDF)
 
 **Last updated:**
 
-24/09/2025
+26/01/2026
 
 [View](/fi/documents/product-information/avtozma-epar-product-information_fi.pdf)
 
-svenska (SV) (1.9 MB - PDF)
+svenska (SV) (2 MB - PDF)
 
 **First published:**
 
@@ -604,11 +602,11 @@ svenska (SV) (1.9 MB - PDF)
 
 **Last updated:**
 
-24/09/2025
+26/01/2026
 
 [View](/sv/documents/product-information/avtozma-epar-product-information_sv.pdf)
 
-**Latest procedure affecting product information:** VR/0000297134 23/09/2025
+**Latest procedure affecting product information:** VR/0000280589 11/12/2025
 
 icon globe
 
@@ -634,7 +632,7 @@ English (EN) (26.85 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/avtozma-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-317)
+[Other languages (24)](#file-language-dropdown-448)
 
 български (BG) (56.81 KB - PDF)
 
@@ -1006,7 +1004,7 @@ Celltrion Healthcare Hungary Kft.
 
 1062 Budapest
 
-Opinion adopted 12/12/2024 Marketing authorisation issued 14/02/2025 Revision 5
+Opinion adopted 12/12/2024 Marketing authorisation issued 14/02/2025 Revision 6
 
 ## Assessment history
 
@@ -1018,11 +1016,11 @@ Collapse section
 
 Avtozma: EPAR - Procedural steps taken and scientific information after the authorisation
 
-English (EN) (679.21 KB - PDF)
+English (EN) (164.15 KB - PDF)
 
 **First published:** 07/04/2025
 
-**Last updated:** 24/09/2025
+**Last updated:** 26/01/2026
 
 [View](/en/documents/procedural-steps-after/avtozma-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf)
 
@@ -1070,7 +1068,7 @@ English (EN) (2.04 MB - DOCX)
 
 [View](/en/documents/product-information-tracked-changes/avtozma-epar-product-information-tracked-changes_en.docx)
 
-[Other languages (24)](#file-language-dropdown-371)
+[Other languages (24)](#file-language-dropdown-435)
 
 български (BG) (1.65 MB - DOCX)
 
@@ -1360,7 +1358,7 @@ svenska (SV) (1.61 MB - DOCX)
 
 [View](/sv/documents/product-information-tracked-changes/avtozma-epar-product-information-tracked-changes_sv.docx)
 
-**This page was last updated on** 24/09/2025
+**This page was last updated on** 26/01/2026
 
 ## Share this page
 

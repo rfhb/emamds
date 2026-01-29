@@ -1,18 +1,18 @@
 ---
-document_datetime: 2025-06-30 13:27:22
+document_datetime: 2026-01-26 17:06:23
 document_pages: 46
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/levetiracetam-teva-epar-product-information_en.pdf
 document_name: levetiracetam-teva-epar-product-information_en.pdf
 version: success
-processing_time: 10.1167449
-conversion_datetime: 2025-12-21 16:06:37.317203
+processing_time: 10.3357254
+conversion_datetime: 2026-01-29 11:51:22.740604
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.64.1
-  docling-core: 2.55.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.11.0
+  docling-jobkit: 1.9.0
+  docling: 2.70.0
+  docling-core: 2.61.0
+  docling-ibm-models: 3.11.0
+  docling-parse: 4.7.3
   python: cpython-313 (3.13.11)
   plaform: macOS-26.2-arm64-arm-64bit-Mach-O
 ---
@@ -135,10 +135,6 @@ Dosing adjustment for adult and adolescent patients weighing more than 50 kg wit
 | Moderate                                                 | 30-49                                    | 250 to 750 mg twice daily     |
 | Severe                                                   | < 30                                     | 250 to 500 mg twice daily     |
 | End-stage renal disease patients undergoing dialysis (1) | -                                        | 500 to 1000 mg once daily (2) |
-
-(1) A 750 mg loading dose is recommended on the first day of treatment with levetiracetam.
-
-(2) Following dialysis, a 250 to 500 mg supplemental dose is recommended.
 
 For children with renal impairment, levetiracetam dose needs to be adjusted based on the renal function as levetiracetam clearance is related to renal function. This recommendation is based on a study in adult renally impaired patients.
 
@@ -322,13 +318,13 @@ Specialist advice should be given to women who are of childbearing potential. Tr
 
 ## Pregnancy
 
-A large amount of postmarketing data on pregnant women exposed to levetiracetam monotherapy (more than 1800, among which in more than 1500 exposure occurred during the 1 st trimester) do not suggest an increase in the risk for major congenital malformations. Only limited evidence is available on the neurodevelopment of children exposed to levetiracetam monotherapy in utero. However, current epidemiological studies (on about 100 children) do not suggest an increased risk of neurodevelopmental disorders or delays.
+A large amount of postmarketing data on pregnant women exposed to levetiracetam monotherapy (more than 1800, among which in more than 1500 exposure occurred during the 1 st trimester) do not suggest an increase in the risk for major congenital malformations. Limited evidence is available on the neurodevelopment of children exposed to levetiracetam monotherapy in utero. Data from two observational population-based registry studies undertaken in largely the same dataset from the Nordic countries and including more than 1000 children born to women with epilepsy prenatally exposed to
 
 <div style=\"page-break-after: always\"></div>
 
-Levetiracetam can be used during pregnancy, if after careful assessment it is considered clinically needed. In such case, the lowest effective dose is recommended.
+levetiracetam monotherapy do not suggest an increased risk of autism spectrum disorders or intellectual disability compared to children born to women with epilepsy not exposed to an antiepileptic drug in utero. The mean follow-up time of children in the levetiracetam group was shorter than for the group of children non exposed to any antiepileptic drug (e.g. 4.4 years vs 6.8 years in one of the studies).
 
-Physiological changes during pregnancy may affect levetiracetam concentration. Decrease in levetiracetam plasma concentrations has been observed during pregnancy. This decrease is more pronounced during the third trimester (up to 60 % of baseline concentration before pregnancy). Appropriate clinical management of pregnant women treated with levetiracetam should be ensured.
+Levetiracetam can be used during pregnancy, if after careful assessment it is considered clinically needed. In such case, the lowest effective dose is recommended. Physiological changes during pregnancy may affect levetiracetam concentration. Decrease in levetiracetam plasma concentrations has been observed during pregnancy. This decrease is more pronounced during the third trimester (up to 60 % of baseline concentration before pregnancy). Appropriate clinical management of pregnant women treated with levetiracetam should be ensured.
 
 ## Breast-feeding
 
@@ -350,7 +346,7 @@ The most frequently reported adverse reactions were nasopharyngitis, somnolence,
 
 ## Tabulated list of adverse reactions
 
-Adverse reactions reported in clinical studies (adults, adolescents, children and infants &gt; 1 month) and from post-marketing experience are listed in the following table per System Organ Class and per frequency. Adverse reactions are presented in the order of decreasing seriousness and their frequency is defined as follows: very common (≥ 1/10); common (≥ 1/100 to &lt; 1/10 ); uncommon (≥ 1/1000 to &lt; 1/100); rare (≥ 1/10000 to &lt; 1/1000) and very rare (&lt; 1/10000).
+Adverse reactions reported in clinical studies (adults, adolescents, children and infants &gt; 1 month) and from post-marketing experience are listed in the following table per System Organ Class and per frequency. Adverse reactions are presented in the order of decreasing seriousness and their frequency is defined as follows: very common (≥ 1/10); common (≥ 1/100 to &lt; 1/ 10); uncommon (≥ 1/1000 to &lt; 1/100); rare (≥ 1/10000 to &lt; 1/1000) and very rare (&lt; 1/10000).
 
 <div style=\"page-break-after: always\"></div>
 
@@ -437,7 +433,7 @@ The active substance, levetiracetam, is a pyrrolidone derivative (S-enantiomer o
 
 The mechanism of action of levetiracetam still remains to be fully elucidated. In vitro and in vivo experiments suggest that levetiracetam does not alter basic cell characteristics and normal neurotransmission.
 
-In vitro studies show that levetiracetam affects intraneuronal Ca 2+ levels by partial inhibition of N-type Ca 2+ currents and by reducing the release of Ca 2+ from intraneuronal stores. In addition it partially reverses the reductions in GABA- and glycine-gated currents induced by zinc and β -carbolines. Furthermore, levetiracetam has been shown in in vitro studies to bind to a specific site in rodent brain tissue. This binding site is the synaptic vesicle protein 2A, believed to be involved in vesicle fusion and neurotransmitter exocytosis. Levetiracetam and related analogs show a rank order of affinity for binding to the synaptic vesicle protein 2A which correlates with the potency of their anti-seizure protection in the mouse audiogenic model of epilepsy. This finding suggests that the interaction between levetiracetam and the synaptic vesicle protein 2A seems to contribute to the antiepileptic mechanism of action of the medicinal product.
+In vitro studies show that levetiracetam affects intraneuronal Ca 2+ levels by partial inhibition of N-type Ca 2+ currents and by reducing the release of Ca 2+ from intraneuronal stores. In addition it partially reverses the reductions in GABA- and glycine-gated curr ents induced by zinc and β -carbolines. Furthermore, levetiracetam has been shown in in vitro studies to bind to a specific site in rodent brain tissue. This binding site is the synaptic vesicle protein 2A, believed to be involved in vesicle fusion and neurotransmitter exocytosis. Levetiracetam and related analogs show a rank order of affinity for binding to the synaptic vesicle protein 2A which correlates with the potency of their anti-seizure protection in the mouse audiogenic model of epilepsy. This finding suggests that the interaction between levetiracetam and the synaptic vesicle protein 2A seems to contribute to the antiepileptic mechanism of action of the medicinal product.
 
 ## Pharmacodynamic effects
 
@@ -507,7 +503,7 @@ Levetiracetam is rapidly absorbed after oral administration. Oral absolute bioav
 
 Peak plasma concentrations (Cmax) are achieved at 1.3 hours after dosing. Steady-state is achieved after two days of a twice daily administration schedule.
 
-Peak concentrations (Cmax) are typically 31 and 43 μg/ml following a single 1000 mg dose and repeated 1000 mg twice daily dose, respectively.
+Peak concentrations (Cmax) are typically 31 and 43 μg/ml follow ing a single 1000 mg dose and repeated 1000 mg twice daily dose, respectively.
 
 The extent of absorption is dose-independent and is not altered by food.
 
@@ -587,7 +583,7 @@ Two embryo-foetal development (EFD) studies were performed in rats at 400, 1200 
 
 Four embryo-foetal development studies were performed in rabbits covering doses of 200, 600, 800, 1200 and 1800 mg/kg/day. The dose level of 1800 mg/kg/day induced a marked maternal toxicity and a decrease in foetal weight associated with increased incidence of foetuses with cardiovascular/skeletal anomalies. The NOAEL was &lt; 200 mg/kg/day for the dams and 200 mg/kg/day for the foetuses (equal to the MRHD on a mg/m 2 basis).
 
-A peri- and post-natal development study was performed in rats with levetiracetam doses of 70, 350 and 1800 mg/kg/day. The NOAEL was ≥ 1800 mg/kg/day for the F0 females, and for the survival, growth and development of the F1 offspring up to weaning (x 6 the MRHD on a mg/m 2 basis).
+A peri- and post-natal development study was performed in rats with levetiracetam doses of 70, 350 and 1800 mg/kg/day. The N OAEL was ≥ 1800 mg/kg/day for the F0 females, and for the survival, growth and development of the F1 offspring up to weaning (x 6 the MRHD on a mg/m 2 basis).
 
 <div style=\"page-break-after: always\"></div>
 
@@ -1361,7 +1357,8 @@ Tell your doctor or pharmacist if any of the following side effects gets serious
 
 - Abnormal thoughts, feeling irritable or reacting more aggressively than usually, or if you or your family and friends notice important changes in mood or behaviour.
 - Aggravation of epilepsy:
-- Your seizures may rarely become worse or happen more often, mainly during the first month after the start of the treatment or increase of the dose.
+
+Your seizures may rarely become worse or happen more often, mainly during the first month after the start of the treatment or increase of the dose.
 
 In a very rare form of early-onset epilepsy (epilepsy associated with SCN8A mutations) that causes multiple types of seizures and loss of skills you may notice that the seizures remain present or are becoming worse during your treatment.
 
@@ -1385,6 +1382,8 @@ You should not stop your treatment without discussing this with your doctor.
 
 A risk of birth defects for your unborn child cannot be completely excluded.
 
+Two studies do not suggest an increased risk of autism or intellectual disability in children born to mothers treated with levetiracetam during pregnancy. However, the available data regarding the impact of levetiracetam on neurodevelopment in children is limited.
+
 Breast-feeding is not recommended during treatment.
 
 ## Driving and using machines
@@ -1393,11 +1392,11 @@ Levetiracetam Teva may impair your ability to drive or operate any tools or mach
 
 ## Levetiracetam Teva contains Sodium
 
+<div style=\"page-break-after: always\"></div>
+
 This medicine contains less than 1 mmol sodium (23 mg) per film-coated tablet that is to say essentially `sodium-free ´.
 
 ## Levetiracetam Teva 500 mg contains Tartrazine
-
-<div style=\"page-break-after: always\"></div>
 
 Levetiracetam Teva 500 mg contains the colouring agent tartrazine (E102) that may cause allergic reactions.
 
@@ -1409,15 +1408,17 @@ Levetiracetam Teva 750 mg contains the colouring agent sunset yellow (E110) that
 
 Always take this medicine exactly as your doctor or pharmacist has told you. Check with your doctor or pharmacist if you are not sure.
 
-Take the number of tablets following your doctor's instructions. Levetiracetam Teva must be taken twice a day, once in the morning and once in the evening, at about the same time each day.
+Take the number of tablets following your doctor's instructions.
+
+Levetiracetam Teva must be taken twice a day, once in the morning and once in the evening, at about the same time each day.
 
 ## Adjunctive Therapy and monotherapy (from 16 years of age)
 
-## · Adults (≥18 years)
+## · Adults (≥18 years) and adolescents (12 to 17 years) weighing 50 kg or more:
 
-When you will first start taking Levetiracetam Teva, your doctor will prescribe you a dose during 2 weeks before giving you the lowest daily dose.
+Recommended dose: between 1000 mg and 3000 mg each day.
 
-- and adolescents (12 to 17 years) weighing 50 kg or more: Recommended dose: between 1000 mg and 3000 mg each day. lower
+When you will first start taking Levetiracetam Teva, your doctor will prescribe you a lower dose during 2 weeks before giving you the lowest daily dose.
 
 Example: if your daily dose is intended to be 1000 mg, your reduced starting dose is 1 tablet of 250 mg in the morning and 1 tablet of 250 mg in the evening, and the dose will be gradually incremented to reach 1000 mg daily after 2 weeks.
 
@@ -1442,11 +1443,11 @@ Swallow Levetiracetam Teva tablets with a sufficient quantity of liquid (e.g. a 
 
 ## If you take more Levetiracetam Teva than you should
 
+<div style=\"page-break-after: always\"></div>
+
 The possible side effects of an overdose of Levetiracetam Teva are sleepiness, agitation, aggression, decrease of alertness, inhibition of breathing and coma.
 
 Contact your doctor if you took more tablets than you should.Your doctor will establish the best possible treatment of overdose.
-
-<div style=\"page-break-after: always\"></div>
 
 ## If you forget to take Levetiracetam Teva
 
@@ -1485,13 +1486,14 @@ Common: may affect up to 1 in 10 people
 - anorexia (loss of appetite);
 - depression, hostility or aggression, anxiety, insomnia, nervousness or irritability;
 - convulsion, balance disorder (equilibrium disorder), dizziness (sensation of unsteadiness), lethargy (lack of energy and enthusiasm), tremor (involuntary trembling);
+
+<div style=\"page-break-after: always\"></div>
+
 - vertigo (sensation of rotation);
 - cough;
 - abdominal pain, diarrhoea, dyspepsia (indigestion), vomiting, nausea;
 - rash;
 - asthenia/fatigue (tiredness).
-
-<div style=\"page-break-after: always\"></div>
 
 ## Uncommon: may affect up to 1 in 100 people
 
@@ -1529,11 +1531,11 @@ Common: may affect up to 1 in 10 people
 
 - repeated unwanted thoughts or sensations or the urge to do something over and over again (Obsessive Compulsive Disorder).
 
+<div style=\"page-break-after: always\"></div>
+
 ## Reporting of side effects
 
 If you get any side effects, talk to your doctor or pharmacist. This includes any possible side effects not listed in this leaflet. You can also report side effects directly via the national reporting system listed in Appendix V. By reporting side effects you can help provide more information on the safety of this medicine.
-
-<div style=\"page-break-after: always\"></div>
 
 ## 5. How to store Levetiracetam Teva
 
@@ -1557,11 +1559,15 @@ Each Levetiracetam Teva 250, 500, 750, 1000 mg film-coated tablet contains 250, 
 
 Tablet core: maize starch, povidone, croscarmellose sodium and magnesium stearate. Tablet coating: hypromellose 6 cp, titanium dioxide (E171), macrogol 3350, colourants*
 
-*The colourants are: 250 mg film-coated tablets: brilliant blue FCF (E133) and indigotine (E132). 500 mg film-coated tablets: indigotine (E132), tartrazine (E102) and iron oxide yellow (E172). 750 mg film-coated tablets: iron oxide yellow (E172), iron oxide red (E172) and sunset yellow FCF (E110).
+*The colourants are:
+
+250 mg film-coated tablets: brilliant blue FCF (E133) and indigotine (E132). indigotine (E132), tartrazine (E102) and iron oxide yellow (E172). iron oxide yellow (E172), iron oxide red (E172) and sunset yellow
+
+500 mg film-coated tablets: 750 mg film-coated tablets: FCF (E110).
 
 ## What Levetiracetam Teva looks like and contents of the pack
 
-Levetiracetam Teva 250 mg film-coated tablets
+## Levetiracetam Teva 250 mg film-coated tablets
 
 Blue, oblong shaped, film-coated tablets, scored on one side and debossed with \"9\" on one side of the score and with \"3\" on the other side of the score. Debossed with \"7285\" on the other side of the tablet.
 
@@ -1577,13 +1583,13 @@ Orange, oblong shaped, film-coated tablets, scored on one side and debossed with
 
 White, oblong shaped, film-coated tablets, scored on one side and debossed with \"9\" on one side of the score and with \"3\" on the other side of the score. Debossed with \"7493\" on the other side of the tablet.
 
+<div style=\"page-break-after: always\"></div>
+
 The scoreline is only to facilitate breaking for ease of swallowing and not to divide into equal doses.
 
 Levetiracetam Teva are available in pack sizes of 20, 30, 50, 60, 100, 120 and 200 film-coated tablets and 50 x 1 film-coated tablets in PVC/PVdC - aluminium perforated unit dose blisters.
 
 Not all pack sizes may be marketed.
-
-<div style=\"page-break-after: always\"></div>
 
 ## Marketing Authorisation Holder
 
@@ -1607,19 +1613,33 @@ For any information about this medicine, please contact the local representative
 
 Teva Pharma Belgium N.V./S.A./AG Tél/Tel: +32 38207373
 
+## Lietuva
+
+UAB Teva Baltics Tel: +370 52660203
+
 ## България
 
 Тева Фарма ЕАД
 
-Тел
+Тел .: +359 24899585
 
-.: +359 24899585
+## Luxembourg/Luxemburg
+
+Teva Pharma Belgium N.V./S.A./AG
+
+Belgique/Belgien Tél/Tel: +32 38207373
 
 ## Česká republika
 
 Teva Pharmaceuticals CR, s.r.o.
 
 Tel: +420 251007111
+
+## Magyarország
+
+Teva Gyógyszergyár Zrt. Tel.: +36 12886400
+
+<div style=\"page-break-after: always\"></div>
 
 ## Danmark
 
@@ -1632,34 +1652,6 @@ Tlf.: +45 44985511
 TEVA GmbH
 
 Tel: +49 73140208
-
-## Lietuva
-
-UAB Teva Baltics
-
-Tel: +370 52660203
-
-## Luxembourg/Luxemburg
-
-Teva Pharma Belgium N.V./S.A./AG Belgique/Belgien Tél/Tel: +32 38207373
-
-## Magyarország
-
-Teva Gyógyszergyár Zrt. Tel.: +36 12886400
-
-## Malta
-
-Teva Pharmaceuticals Ireland L-Irlanda
-
-Tel: +44 2075407117
-
-## Nederland
-
-Teva Nederland B.V.
-
-Tel: +31 8000228400
-
-<div style=\"page-break-after: always\"></div>
 
 ## Eesti
 
@@ -1679,7 +1671,7 @@ TEVA HELLAS Α.Ε.
 
 Teva Pharma, S.L.U.
 
-Tel: +34 913873280
+Tel: +34 915359180
 
 ## France
 
@@ -1730,6 +1722,20 @@ Tel: +371 67323666
 ## This leaflet was last revised in {MM/YYYY}.
 
 Detailed information on this medicine is available on the European Medicines Agency web site: https://www.ema.europa.eu
+
+## Malta
+
+TEVA HELLAS Α.Ε.
+
+il- Greċja
+
+Tel: +30 2118805000
+
+## Nederland
+
+Teva Nederland B.V.
+
+Tel: +31 8000228400
 
 ## Norge
 

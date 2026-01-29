@@ -1,18 +1,18 @@
 ---
-document_datetime: 2025-12-29 11:44:28
+document_datetime: 2026-01-26 17:47:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/levetiracetam-actavis.html
 document_name: levetiracetam-actavis.html
 version: success
-processing_time: 0.3772713
-conversion_datetime: 2025-12-30 09:54:10.014614
+processing_time: 0.1365303
+conversion_datetime: 2026-01-29 11:53:30.033784
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.66.0
-  docling-core: 2.57.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.11.0
+  docling-jobkit: 1.9.0
+  docling: 2.70.0
+  docling-core: 2.61.0
+  docling-ibm-models: 3.11.0
+  docling-parse: 4.7.3
   python: cpython-313 (3.13.11)
   plaform: macOS-26.2-arm64-arm-64bit-Mach-O
 ---
@@ -25,8 +25,6 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 levetiracetam Medicine Human Authorised
-
-On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -106,7 +104,7 @@ English (EN) (137.83 KB - PDF)
 
 [View](/en/documents/overview/levetiracetam-actavis-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-13)
+[Other languages (22)](#file-language-dropdown-942)
 
 български (BG) (175.03 KB - PDF)
 
@@ -376,17 +374,17 @@ svenska (SV) (136.24 KB - PDF)
 
 Levetiracetam Actavis : EPAR - Product Information
 
-English (EN) (635.92 KB - PDF)
+English (EN) (376.63 KB - PDF)
 
 **First published:** 18/10/2011
 
-**Last updated:** 30/06/2025
+**Last updated:** 26/01/2026
 
 [View](/en/documents/product-information/levetiracetam-actavis-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-130)
+[Other languages (24)](#file-language-dropdown-492)
 
-български (BG) (750.5 KB - PDF)
+български (BG) (500.38 KB - PDF)
 
 **First published:**
 
@@ -394,11 +392,11 @@ English (EN) (635.92 KB - PDF)
 
 **Last updated:**
 
-30/06/2025
+26/01/2026
 
 [View](/bg/documents/product-information/levetiracetam-actavis-epar-product-information_bg.pdf)
 
-español (ES) (618.03 KB - PDF)
+español (ES) (373.24 KB - PDF)
 
 **First published:**
 
@@ -406,11 +404,11 @@ español (ES) (618.03 KB - PDF)
 
 **Last updated:**
 
-30/06/2025
+26/01/2026
 
 [View](/es/documents/product-information/levetiracetam-actavis-epar-product-information_es.pdf)
 
-čeština (CS) (833.62 KB - PDF)
+čeština (CS) (505.79 KB - PDF)
 
 **First published:**
 
@@ -418,11 +416,11 @@ español (ES) (618.03 KB - PDF)
 
 **Last updated:**
 
-30/06/2025
+26/01/2026
 
 [View](/cs/documents/product-information/levetiracetam-actavis-epar-product-information_cs.pdf)
 
-dansk (DA) (701.32 KB - PDF)
+dansk (DA) (397.48 KB - PDF)
 
 **First published:**
 
@@ -430,11 +428,11 @@ dansk (DA) (701.32 KB - PDF)
 
 **Last updated:**
 
-30/06/2025
+26/01/2026
 
 [View](/da/documents/product-information/levetiracetam-actavis-epar-product-information_da.pdf)
 
-Deutsch (DE) (647.27 KB - PDF)
+Deutsch (DE) (392.34 KB - PDF)
 
 **First published:**
 
@@ -442,11 +440,11 @@ Deutsch (DE) (647.27 KB - PDF)
 
 **Last updated:**
 
-30/06/2025
+26/01/2026
 
 [View](/de/documents/product-information/levetiracetam-actavis-epar-product-information_de.pdf)
 
-eesti keel (ET) (731.14 KB - PDF)
+eesti keel (ET) (404.67 KB - PDF)
 
 **First published:**
 
@@ -454,11 +452,11 @@ eesti keel (ET) (731.14 KB - PDF)
 
 **Last updated:**
 
-30/06/2025
+26/01/2026
 
 [View](/et/documents/product-information/levetiracetam-actavis-epar-product-information_et.pdf)
 
-ελληνικά (EL) (846.4 KB - PDF)
+ελληνικά (EL) (591.53 KB - PDF)
 
 **First published:**
 
@@ -466,11 +464,11 @@ eesti keel (ET) (731.14 KB - PDF)
 
 **Last updated:**
 
-30/06/2025
+26/01/2026
 
 [View](/el/documents/product-information/levetiracetam-actavis-epar-product-information_el.pdf)
 
-français (FR) (673.76 KB - PDF)
+français (FR) (408.87 KB - PDF)
 
 **First published:**
 
@@ -478,11 +476,11 @@ français (FR) (673.76 KB - PDF)
 
 **Last updated:**
 
-30/06/2025
+26/01/2026
 
 [View](/fr/documents/product-information/levetiracetam-actavis-epar-product-information_fr.pdf)
 
-hrvatski (HR) (689.11 KB - PDF)
+hrvatski (HR) (430.03 KB - PDF)
 
 **First published:**
 
@@ -490,11 +488,11 @@ hrvatski (HR) (689.11 KB - PDF)
 
 **Last updated:**
 
-30/06/2025
+26/01/2026
 
 [View](/hr/documents/product-information/levetiracetam-actavis-epar-product-information_hr.pdf)
 
-íslenska (IS) (731.67 KB - PDF)
+íslenska (IS) (412.66 KB - PDF)
 
 **First published:**
 
@@ -502,11 +500,11 @@ hrvatski (HR) (689.11 KB - PDF)
 
 **Last updated:**
 
-30/06/2025
+26/01/2026
 
 [View](/is/documents/product-information/levetiracetam-actavis-epar-product-information_is.pdf)
 
-italiano (IT) (735.66 KB - PDF)
+italiano (IT) (411.03 KB - PDF)
 
 **First published:**
 
@@ -514,11 +512,11 @@ italiano (IT) (735.66 KB - PDF)
 
 **Last updated:**
 
-30/06/2025
+26/01/2026
 
 [View](/it/documents/product-information/levetiracetam-actavis-epar-product-information_it.pdf)
 
-latviešu valoda (LV) (713.88 KB - PDF)
+latviešu valoda (LV) (450.54 KB - PDF)
 
 **First published:**
 
@@ -526,11 +524,11 @@ latviešu valoda (LV) (713.88 KB - PDF)
 
 **Last updated:**
 
-30/06/2025
+26/01/2026
 
 [View](/lv/documents/product-information/levetiracetam-actavis-epar-product-information_lv.pdf)
 
-lietuvių kalba (LT) (810.91 KB - PDF)
+lietuvių kalba (LT) (502.72 KB - PDF)
 
 **First published:**
 
@@ -538,11 +536,11 @@ lietuvių kalba (LT) (810.91 KB - PDF)
 
 **Last updated:**
 
-30/06/2025
+26/01/2026
 
 [View](/lt/documents/product-information/levetiracetam-actavis-epar-product-information_lt.pdf)
 
-magyar (HU) (759.34 KB - PDF)
+magyar (HU) (505.89 KB - PDF)
 
 **First published:**
 
@@ -550,11 +548,11 @@ magyar (HU) (759.34 KB - PDF)
 
 **Last updated:**
 
-30/06/2025
+26/01/2026
 
 [View](/hu/documents/product-information/levetiracetam-actavis-epar-product-information_hu.pdf)
 
-Malti (MT) (820.52 KB - PDF)
+Malti (MT) (526.95 KB - PDF)
 
 **First published:**
 
@@ -562,11 +560,11 @@ Malti (MT) (820.52 KB - PDF)
 
 **Last updated:**
 
-30/06/2025
+26/01/2026
 
 [View](/mt/documents/product-information/levetiracetam-actavis-epar-product-information_mt.pdf)
 
-Nederlands (NL) (635.79 KB - PDF)
+Nederlands (NL) (372.26 KB - PDF)
 
 **First published:**
 
@@ -574,11 +572,11 @@ Nederlands (NL) (635.79 KB - PDF)
 
 **Last updated:**
 
-30/06/2025
+26/01/2026
 
 [View](/nl/documents/product-information/levetiracetam-actavis-epar-product-information_nl.pdf)
 
-norsk (NO) (721.89 KB - PDF)
+norsk (NO) (404.53 KB - PDF)
 
 **First published:**
 
@@ -586,11 +584,11 @@ norsk (NO) (721.89 KB - PDF)
 
 **Last updated:**
 
-30/06/2025
+26/01/2026
 
 [View](/no/documents/product-information/levetiracetam-actavis-epar-product-information_no.pdf)
 
-polski (PL) (780.04 KB - PDF)
+polski (PL) (522.38 KB - PDF)
 
 **First published:**
 
@@ -598,11 +596,11 @@ polski (PL) (780.04 KB - PDF)
 
 **Last updated:**
 
-30/06/2025
+26/01/2026
 
 [View](/pl/documents/product-information/levetiracetam-actavis-epar-product-information_pl.pdf)
 
-português (PT) (640.3 KB - PDF)
+português (PT) (379.09 KB - PDF)
 
 **First published:**
 
@@ -610,11 +608,11 @@ português (PT) (640.3 KB - PDF)
 
 **Last updated:**
 
-30/06/2025
+26/01/2026
 
 [View](/pt/documents/product-information/levetiracetam-actavis-epar-product-information_pt.pdf)
 
-română (RO) (734.89 KB - PDF)
+română (RO) (481.18 KB - PDF)
 
 **First published:**
 
@@ -622,11 +620,11 @@ română (RO) (734.89 KB - PDF)
 
 **Last updated:**
 
-30/06/2025
+26/01/2026
 
 [View](/ro/documents/product-information/levetiracetam-actavis-epar-product-information_ro.pdf)
 
-slovenčina (SK) (882.01 KB - PDF)
+slovenčina (SK) (552.01 KB - PDF)
 
 **First published:**
 
@@ -634,11 +632,11 @@ slovenčina (SK) (882.01 KB - PDF)
 
 **Last updated:**
 
-30/06/2025
+26/01/2026
 
 [View](/sk/documents/product-information/levetiracetam-actavis-epar-product-information_sk.pdf)
 
-slovenščina (SL) (757.69 KB - PDF)
+slovenščina (SL) (450.82 KB - PDF)
 
 **First published:**
 
@@ -646,11 +644,11 @@ slovenščina (SL) (757.69 KB - PDF)
 
 **Last updated:**
 
-30/06/2025
+26/01/2026
 
 [View](/sl/documents/product-information/levetiracetam-actavis-epar-product-information_sl.pdf)
 
-Suomi (FI) (730.52 KB - PDF)
+Suomi (FI) (409.25 KB - PDF)
 
 **First published:**
 
@@ -658,11 +656,11 @@ Suomi (FI) (730.52 KB - PDF)
 
 **Last updated:**
 
-30/06/2025
+26/01/2026
 
 [View](/fi/documents/product-information/levetiracetam-actavis-epar-product-information_fi.pdf)
 
-svenska (SV) (621.28 KB - PDF)
+svenska (SV) (368.88 KB - PDF)
 
 **First published:**
 
@@ -670,11 +668,11 @@ svenska (SV) (621.28 KB - PDF)
 
 **Last updated:**
 
-30/06/2025
+26/01/2026
 
 [View](/sv/documents/product-information/levetiracetam-actavis-epar-product-information_sv.pdf)
 
-**Latest procedure affecting product information:** VR/0000256234 26/06/2025
+**Latest procedure affecting product information:** VR/0000308189 22/01/2026
 
 icon globe
 
@@ -700,7 +698,7 @@ English (EN) (30.75 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/levetiracetam-actavis-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-788)
+[Other languages (24)](#file-language-dropdown-840)
 
 български (BG) (65.77 KB - PDF)
 
@@ -1022,7 +1020,7 @@ Actavis Group PTC ehf
 
 Dalshraun 1
 
-Marketing authorisation issued 03/10/2011 Revision 20
+Marketing authorisation issued 03/10/2011 Revision 21
 
 ## Assessment history
 
@@ -1034,9 +1032,11 @@ Collapse section
 
 Levetiracetam Actavis : EPAR - Procedural steps taken and scientific information after authorisation
 
-English (EN) (148.96 KB - PDF)
+English (EN) (159.45 KB - PDF)
 
 **First published:** 30/06/2025
+
+**Last updated:** 26/01/2026
 
 [View](/en/documents/procedural-steps-after/levetiracetam-actavis-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf)
 
@@ -1094,7 +1094,7 @@ English (EN) (66.45 KB - PDF)
 
 [View](/en/documents/other/questions-and-answers-generic-medicines_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-573)
+[Other languages (22)](#file-language-dropdown-470)
 
 български (BG) (93.16 KB - PDF)
 
@@ -1365,7 +1365,7 @@ svenska (SV) (67.11 KB - PDF)
 - [Generic and hybrid medicines](https://www.ema.europa.eu/en/search?f%5B0%5D=ema_search_topics%3A54)
 - [Medicines](https://www.ema.europa.eu/en/search?f%5B0%5D=ema_search_topics%3A61)
 
-**This page was last updated on** 30/06/2025
+**This page was last updated on** 26/01/2026
 
 ## Share this page
 

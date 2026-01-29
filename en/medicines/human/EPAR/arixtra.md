@@ -1,18 +1,18 @@
 ---
-document_datetime: 2025-12-29 07:56:59
+document_datetime: 2026-01-27 17:20:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/arixtra.html
 document_name: arixtra.html
 version: success
-processing_time: 0.1197862
-conversion_datetime: 2025-12-30 20:47:19.915523
+processing_time: 0.1101223
+conversion_datetime: 2026-01-29 12:20:17.309067
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.66.0
-  docling-core: 2.57.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.11.0
+  docling-jobkit: 1.9.0
+  docling: 2.70.0
+  docling-core: 2.61.0
+  docling-ibm-models: 3.11.0
+  docling-parse: 4.7.3
   python: cpython-313 (3.13.11)
   plaform: macOS-26.2-arm64-arm-64bit-Mach-O
 ---
@@ -25,8 +25,6 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 fondaparinux sodium Medicine Human Authorised
-
-On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -124,7 +122,7 @@ English (EN) (66.58 KB - PDF)
 
 [View](/en/documents/overview/arixtra-epar-summary-public_en.pdf)
 
-[Other languages (21)](#file-language-dropdown-482)
+[Other languages (21)](#file-language-dropdown-249)
 
 български (BG) (174.24 KB - PDF)
 
@@ -382,305 +380,15 @@ svenska (SV) (69.41 KB - PDF)
 
 Arixtra : EPAR - Product information
 
-English (EN) (1.35 MB - PDF)
+English (EN) (1.26 MB - PDF)
 
 **First published:** 04/11/2008
 
-**Last updated:** 27/03/2024
+**Last updated:** 27/01/2026
 
 [View](/en/documents/product-information/arixtra-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-333)
-
-български (BG) (1.07 MB - PDF)
-
-**First published:**
-
-04/11/2008
-
-**Last updated:**
-
-27/03/2024
-
-[View](/bg/documents/product-information/arixtra-epar-product-information_bg.pdf)
-
-español (ES) (1.33 MB - PDF)
-
-**First published:**
-
-04/11/2008
-
-**Last updated:**
-
-27/03/2024
-
-[View](/es/documents/product-information/arixtra-epar-product-information_es.pdf)
-
-čeština (CS) (1.01 MB - PDF)
-
-**First published:**
-
-04/11/2008
-
-**Last updated:**
-
-27/03/2024
-
-[View](/cs/documents/product-information/arixtra-epar-product-information_cs.pdf)
-
-dansk (DA) (1.06 MB - PDF)
-
-**First published:**
-
-04/11/2008
-
-**Last updated:**
-
-27/03/2024
-
-[View](/da/documents/product-information/arixtra-epar-product-information_da.pdf)
-
-Deutsch (DE) (1.08 MB - PDF)
-
-**First published:**
-
-04/11/2008
-
-**Last updated:**
-
-27/03/2024
-
-[View](/de/documents/product-information/arixtra-epar-product-information_de.pdf)
-
-eesti keel (ET) (996.53 KB - PDF)
-
-**First published:**
-
-04/11/2008
-
-**Last updated:**
-
-27/03/2024
-
-[View](/et/documents/product-information/arixtra-epar-product-information_et.pdf)
-
-ελληνικά (EL) (1.39 MB - PDF)
-
-**First published:**
-
-04/11/2008
-
-**Last updated:**
-
-27/03/2024
-
-[View](/el/documents/product-information/arixtra-epar-product-information_el.pdf)
-
-français (FR) (1.11 MB - PDF)
-
-**First published:**
-
-04/11/2008
-
-**Last updated:**
-
-27/03/2024
-
-[View](/fr/documents/product-information/arixtra-epar-product-information_fr.pdf)
-
-hrvatski (HR) (1.14 MB - PDF)
-
-**First published:**
-
-04/11/2008
-
-**Last updated:**
-
-27/03/2024
-
-[View](/hr/documents/product-information/arixtra-epar-product-information_hr.pdf)
-
-íslenska (IS) (1.11 MB - PDF)
-
-**First published:**
-
-04/11/2008
-
-**Last updated:**
-
-27/03/2024
-
-[View](/is/documents/product-information/arixtra-epar-product-information_is.pdf)
-
-italiano (IT) (1.06 MB - PDF)
-
-**First published:**
-
-04/11/2008
-
-**Last updated:**
-
-27/03/2024
-
-[View](/it/documents/product-information/arixtra-epar-product-information_it.pdf)
-
-latviešu valoda (LV) (1.21 MB - PDF)
-
-**First published:**
-
-04/11/2008
-
-**Last updated:**
-
-27/03/2024
-
-[View](/lv/documents/product-information/arixtra-epar-product-information_lv.pdf)
-
-lietuvių kalba (LT) (1.21 MB - PDF)
-
-**First published:**
-
-04/11/2008
-
-**Last updated:**
-
-27/03/2024
-
-[View](/lt/documents/product-information/arixtra-epar-product-information_lt.pdf)
-
-magyar (HU) (1.16 MB - PDF)
-
-**First published:**
-
-04/11/2008
-
-**Last updated:**
-
-27/03/2024
-
-[View](/hu/documents/product-information/arixtra-epar-product-information_hu.pdf)
-
-Malti (MT) (1.24 MB - PDF)
-
-**First published:**
-
-04/11/2008
-
-**Last updated:**
-
-27/03/2024
-
-[View](/mt/documents/product-information/arixtra-epar-product-information_mt.pdf)
-
-Nederlands (NL) (1.1 MB - PDF)
-
-**First published:**
-
-04/11/2008
-
-**Last updated:**
-
-27/03/2024
-
-[View](/nl/documents/product-information/arixtra-epar-product-information_nl.pdf)
-
-norsk (NO) (1.03 MB - PDF)
-
-**First published:**
-
-04/11/2008
-
-**Last updated:**
-
-27/03/2024
-
-[View](/no/documents/product-information/arixtra-epar-product-information_no.pdf)
-
-polski (PL) (1.18 MB - PDF)
-
-**First published:**
-
-04/11/2008
-
-**Last updated:**
-
-27/03/2024
-
-[View](/pl/documents/product-information/arixtra-epar-product-information_pl.pdf)
-
-português (PT) (989.34 KB - PDF)
-
-**First published:**
-
-04/11/2008
-
-**Last updated:**
-
-27/03/2024
-
-[View](/pt/documents/product-information/arixtra-epar-product-information_pt.pdf)
-
-română (RO) (1.06 MB - PDF)
-
-**First published:**
-
-04/11/2008
-
-**Last updated:**
-
-27/03/2024
-
-[View](/ro/documents/product-information/arixtra-epar-product-information_ro.pdf)
-
-slovenčina (SK) (1.34 MB - PDF)
-
-**First published:**
-
-04/11/2008
-
-**Last updated:**
-
-27/03/2024
-
-[View](/sk/documents/product-information/arixtra-epar-product-information_sk.pdf)
-
-slovenščina (SL) (1.33 MB - PDF)
-
-**First published:**
-
-04/11/2008
-
-**Last updated:**
-
-27/03/2024
-
-[View](/sl/documents/product-information/arixtra-epar-product-information_sl.pdf)
-
-Suomi (FI) (1.1 MB - PDF)
-
-**First published:**
-
-04/11/2008
-
-**Last updated:**
-
-27/03/2024
-
-[View](/fi/documents/product-information/arixtra-epar-product-information_fi.pdf)
-
-svenska (SV) (1.04 MB - PDF)
-
-**First published:**
-
-04/11/2008
-
-**Last updated:**
-
-27/03/2024
-
-[View](/sv/documents/product-information/arixtra-epar-product-information_sv.pdf)
-
-**Latest procedure affecting product information:** N/0091 21/03/2024
+**Latest procedure affecting product information:** II/0092 17/10/2024
 
 icon globe
 
@@ -706,7 +414,7 @@ English (EN) (17.92 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/arixtra-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-768)
+[Other languages (24)](#file-language-dropdown-415)
 
 български (BG) (89.22 KB - PDF)
 
@@ -1041,7 +749,7 @@ Viatris Healthcare Limited
 
 Damastown Industrial Park Mulhuddart Dublin 15 Dublin Ireland
 
-Opinion adopted 22/07/2010 Marketing authorisation issued 20/03/2002 Revision 36
+Opinion adopted 22/07/2010 Marketing authorisation issued 20/03/2002 Revision 37
 
 ## Assessment history
 
@@ -1053,11 +761,11 @@ Collapse section
 
 Arixtra : EPAR - Procedural steps taken and scientific information after authorisation
 
-English (EN) (211.15 KB - PDF)
+English (EN) (266.92 KB - PDF)
 
 **First published:** 06/05/2009
 
-**Last updated:** 27/03/2024
+**Last updated:** 27/01/2026
 
 [View](/en/documents/procedural-steps-after/arixtra-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf)
 
@@ -1175,7 +883,7 @@ English (EN) (692.26 KB - PDF)
 
 - [Medicines](https://www.ema.europa.eu/en/search?f%5B0%5D=ema_search_topics%3A61)
 
-**This page was last updated on** 27/03/2024
+**This page was last updated on** 27/01/2026
 
 ## Share this page
 

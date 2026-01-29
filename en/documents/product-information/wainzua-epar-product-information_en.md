@@ -1,18 +1,18 @@
 ---
-document_datetime: 2025-03-12 11:15:08
+document_datetime: 2026-01-27 09:56:24
 document_pages: 30
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/wainzua-epar-product-information_en.pdf
 document_name: wainzua-epar-product-information_en.pdf
 version: success
-processing_time: 6.8174129
-conversion_datetime: 2025-12-30 01:54:41.03292
+processing_time: 6.8529988
+conversion_datetime: 2026-01-29 12:06:07.400388
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.66.0
-  docling-core: 2.57.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.11.0
+  docling-jobkit: 1.9.0
+  docling: 2.70.0
+  docling-core: 2.61.0
+  docling-ibm-models: 3.11.0
+  docling-parse: 4.7.3
   python: cpython-313 (3.13.11)
   plaform: macOS-26.2-arm64-arm-64bit-Mach-O
 ---
@@ -355,7 +355,7 @@ In the absence of compatibility studies, this medicinal product must not be mixe
 
 ## 6.3 Shelf life
 
-3 years.
+4 years.
 
 Wainzua may be stored in original carton unrefrigerated for up to 6 weeks below 30°C. If not used within 6 weeks, it should be discarded.
 
@@ -363,7 +363,7 @@ Wainzua may be stored in original carton unrefrigerated for up to 6 weeks below 
 
 Store in a refrigerator (2°C - 8°C). Do not freeze.
 
-Store in the original package in order to protect from light.
+Store in the original package.
 
 ## 6.5 Nature and contents of container
 
@@ -379,7 +379,9 @@ Any unused medicinal product or waste material should be disposed of in accordan
 
 ## 7. MARKETING AUTHORISATION HOLDER
 
-AstraZeneca AB SE-151 85 Södertälje Sweden
+SE-151 85 Södertälje
+
+AstraZeneca AB Sweden
 
 ## 8. MARKETING AUTHORISATION NUMBER(S)
 
@@ -387,7 +389,7 @@ EU/1/24/1875/001
 
 ## 9. DATE OF FIRST AUTHORISATION/RENEWAL OF THE AUTHORISATION
 
-Date of first authorisation:
+Date of first authorisation: 06 March 2025
 
 ## 10. DATE OF REVISION OF THE TEXT
 
@@ -465,7 +467,7 @@ Excipients: sodium dihydrogen phosphate dihydrate, disodium hydrogen phosphate a
 
 Solution for injection
 
-1 pre-filled pen.
+1 pre-filled pen
 
 ## 5. METHOD AND ROUTE(S) OF ADMINISTRATION
 
@@ -491,7 +493,7 @@ Store in a refrigerator.
 
 Do not freeze.
 
-Store in the original package in order to protect from light.
+Store in the original package.
 
 ## 10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
 
@@ -513,7 +515,7 @@ Lot
 
 16. INFORMATION IN BRAILLE
 
-Wainzua 45 mg
+wainzua 45 mg
 
 ## 17. UNIQUE IDENTIFIER - 2D BARCODE
 
@@ -709,7 +711,7 @@ Store in a refrigerator (2°C to 8°C). Do not freeze.
 
 If necessary, Wainzua may be stored outside the refrigerator at a temperature below 30°C for up to 6 weeks in the original carton. Dispose of unrefrigerated medicine if it is not used within 6 weeks.
 
-Store in the original package in order to protect from light.
+Store in the original package.
 
 Do not throw away any medicines via wastewater or household waste. Ask your pharmacist how to throw away medicines you no longer use. These measures will help protect the environment.
 
@@ -743,13 +745,15 @@ België/Belgique/Belgien
 
 AstraZeneca S.A./N.V. Tel: +32 2 370 48 11
 
+Lietuva Tel: +370 5 2660550
+
+UAB AstraZeneca Lietuva
+
 България
 
 АстраЗенека България ЕООД
 
 Тел.: +359 (2) 44 55 000
-
-Lietuva UAB AstraZeneca Lietuva Tel: +370 5 2660550
 
 Luxembourg/Luxemburg
 
@@ -765,7 +769,9 @@ AstraZeneca Czech Republic s.r.o. Tel  +   �
 
 ## Danmark
 
-AstraZeneca A/S Tlf.: +45 43 66 64 62
+AstraZeneca A/S
+
+Tlf.: +45 43 66 64 62
 
 ## Deutschland
 
@@ -799,7 +805,7 @@ Tel: +353 1609 7100
 
 ## Ísland
 
-Vistor hf. Sími: +354 535 7000
+Vistor Sími: +354 535 7000
 
 ## Italia
 
@@ -881,12 +887,12 @@ Your healthcare provider should show you or your caregiver how to use the pre-fi
 
 ## Important information you need to know before using the pen
 
-- Store Wainzua pen in a refrigerator between 2°C to 8°C in the original carton until ready to use. If needed, an unopened carton can be stored at room temperature up to 30°C for up to 6 weeks.
+- Store Wainzua pen in a refrigerator between 2°C to 8°C in the original carton. If needed, an unopened carton can be stored at room temperature up to 30°C for up to 6 weeks.
 - Keep pen in the carton until ready to use.
 - Each pen contains 1 dose and can only be used 1 time.
 - The dose is given only as an injection under the skin (subcutaneous).
 
-Do not use your pen if it has:
+## Do not use your pen if it has:
 
 - been frozen.
 - been dropped, damaged, or appears to be tampered with.
@@ -902,23 +908,17 @@ Do not remove the cap until right before you give the injection.
 
 Do not touch the orange needle guard.
 
-Before use
-
-After use
-
 <!-- image -->
-
-<div style=\"page-break-after: always\"></div>
 
 ## Preparing to inject
 
+<div style=\"page-break-after: always\"></div>
+
 ## Step 1 - Gather supplies for your injection
 
+Step 2 - Remove from refrigerator and wait 30 minutes
+
 <!-- image -->
-
-Not included in the pack
-
-## Step 2 - Remove from refrigerator and wait 30 minutes
 
 ## Keep pre-filled pen in the carton for 30 minutes at room temperature 20°C to 25°C before injecting.
 
@@ -974,9 +974,9 @@ Do not touch the cleaned area before injecting.
 
 ## Step 6 - Pull off the cap
 
-Hold the pen body with 1 hand, and carefully pull the clear cap straight off with your other hand. The orange needle guard is now exposed, and the needle is hidden underneath.
+Hold the pen body with 1 hand, and carefully pull the cap straight off with your other hand. The orange needle guard is now exposed, and the needle is hidden underneath.
 
-- Throw away the clear cap.
+- Throw away the cap.
 - Do not touch the needle or push on the orange needle guard with your finger.
 - Do not recap the pre-filled pen. This could cause the medicine to come out too soon or damage the pre-filled pen.
 

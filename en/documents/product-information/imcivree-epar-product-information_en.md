@@ -1,18 +1,18 @@
 ---
-document_datetime: 2025-06-03 14:31:46
+document_datetime: 2026-01-27 13:56:50
 document_pages: 50
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/imcivree-epar-product-information_en.pdf
 document_name: imcivree-epar-product-information_en.pdf
 version: success
-processing_time: 26.0577136
-conversion_datetime: 2025-12-20 15:20:41.792959
+processing_time: 25.0030308
+conversion_datetime: 2026-01-29 12:12:02.333416
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.64.1
-  docling-core: 2.55.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.11.0
+  docling-jobkit: 1.9.0
+  docling: 2.70.0
+  docling-core: 2.61.0
+  docling-ibm-models: 3.11.0
+  docling-parse: 4.7.3
   python: cpython-313 (3.13.11)
   plaform: macOS-26.2-arm64-arm-64bit-Mach-O
 ---
@@ -136,7 +136,7 @@ Adult population and children more than 16 years of age
 
 For adults and children 16 to 17 years of age, the dose titration in Table 4 should be followed.
 
-Table 4 Dose titration in adults and paediatric patients 16 years of age or more
+## Table 4 Dose titration in adults and paediatric patients 16 years of age or more
 
 | Week                                                          | Daily dose      | Volume to be injected   |
 |---------------------------------------------------------------|-----------------|-------------------------|
@@ -156,7 +156,7 @@ Table 5 Dose titration for paediatric patients from 6 to &lt;16 years of age
 | Week                                                          | Daily dose      | Volume to be injected   |
 |---------------------------------------------------------------|-----------------|-------------------------|
 | Week 1                                                        | 1 mg once daily | 0.1 ml once daily       |
-| Week 2 (if 1mg dose once daily is well tolerated)             | 2 mg once daily | 0.2 ml once daily       |
+| Week 2 (if 1 mg dose once daily is well tolerated)            | 2 mg once daily | 0.2 ml once daily       |
 | Week 3 and onward (if 2 mg dose once daily is well tolerated) | 3 mg once daily | 0.3 ml once daily       |
 
 If the 1 mg starting dose is not tolerated, reduce to 0.5 mg (0.05 ml) once daily. If the 0.5 mg once daily dose is tolerated, increase the dose to 1 mg once daily and continue dose titration.
@@ -340,7 +340,7 @@ Setmelanotide has not been studied in patients with end-stage renal disease.  Se
 
 ## Hepatic impairment
 
-Setmelanotide has not been studied in patients with hepatic impairment.  Setmelanotide should not be administered to patients with hepatic impairment.
+Setmelanotide has not been studied in patients with hepatic impairment.   Setmelanotide should not be administered to patients with hepatic impairment.
 
 ## Paediatric population (&lt;2 years)
 
@@ -417,7 +417,7 @@ This medicinal product should be used with caution in patients with hepatic or r
 
 ## Sodium
 
-This medicinal product contains less than 1 mmol sodium (23 mg) per dose, that is to say essentially 'sodium-free.'
+This medicinal product contains less than 1 mmol sodium (23 mg) per dose, that is to say essentially 'sodium -free.'
 
 ## 4.5 Interaction with other medicinal products and other forms of interaction
 
@@ -465,7 +465,7 @@ The most frequent adverse reactions are hyperpigmentation disorders (67%), injec
 
 ## Tabulated list of adverse reactions
 
-Adverse reactions observed in clinical trials are listed below by system organ class and frequency, following the MedDRA frequency convention defined as: very common (≥1/10), common (≥1/100  to &lt;1/10), and uncommon (≥1/1000 to &lt;1/100).
+Adverse reactions observed in clinical trials are listed below by system organ class and frequency, following the MedDRA frequency convention defined as: very common (≥1/10) , common (≥1/100 to &lt;1/10), and uncommon ( ≥1/1000 to &lt;1/100) .
 
 <div style=\"page-break-after: always\"></div>
 
@@ -473,10 +473,10 @@ Table 14 Adverse reactions
 
 | MedDRA System organ                                                 | Frequency                                            | Frequency                                                                                                             | Frequency                                                                                                                                                                                                 |
 |---------------------------------------------------------------------|------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| class                                                               | Verycommon                                           | Common                                                                                                                | Uncommon                                                                                                                                                                                                  |
+| class                                                               | Very common                                          | Common                                                                                                                | Uncommon                                                                                                                                                                                                  |
 | Skin and subcutaneous tissue disorders                              | Hyperpigmentation disorders a                        | Pruritus, rash, dry skin, skin lesion, alopecia                                                                       | Erythema, skin striae, hyperhidrosis, lipodystrophy acquired, urticaria, skin exfoliation                                                                                                                 |
 | General disorders and administrative site conditions                | Injection site reactions a , fatigue                 | Asthenia, pain                                                                                                        | Temperature intolerance, chills,                                                                                                                                                                          |
-| Gastrointestinal                                                    | disordersNausea, vomiting                            | Diarrhoea, abdominal pain, dry mouth, dyspepsia, constipation, abdominal discomfort, gastrooesophageal reflux disease | Gingival discolouration, abdominal distension, salivary hypersecretion, flatulence,                                                                                                                       |
+| Gastrointestinal disordersNausea,                                   | vomiting                                             | Diarrhoea, abdominal pain, dry mouth, dyspepsia, constipation, abdominal discomfort, gastrooesophageal reflux disease | Gingival discolouration, abdominal distension, salivary hypersecretion, flatulence,                                                                                                                       |
 | Hepatobiliary disorders                                             |                                                      |                                                                                                                       | Alanine aminotransferase increased, aspartate aminotransferase increased, blood bilirubin increased, gamma- glutamyltransferase increased, hepatic enzyme increased, blood alkaline phosphatase increased |
 | Nervous system disorders                                            | Headache                                             | Dizziness                                                                                                             | Somnolence, migraine, parosmia, dysguesia                                                                                                                                                                 |
 | Reproductive system and breast disorders                            | Spontaneous penile erection b , erection increased b | Vulvovaginal discomfort c                                                                                             | Female sexual arousal disorder c , genital discomfort, genital disorder female c , genital hyperaesthesia, dysmenorrhoea c                                                                                |
@@ -486,17 +486,17 @@ Table 14 Adverse reactions
 
 <div style=\"page-break-after: always\"></div>
 
-| MedDRA System organ                             | Frequency                         |                                                                                             |
-|-------------------------------------------------|-----------------------------------|---------------------------------------------------------------------------------------------|
-| class                                           | Common                            | Uncommon                                                                                    |
-| Musculoskeletal and connective tissue disorders | Back pain, myalgia, muscle spasms | Arthralgia, musculoskeletal pain, pain in extremity, blood creatine phosphokinase increased |
-| Respiratory, thoracic and mediastinal disorders | Cough                             | Yawning, rhinorrhoea                                                                        |
-| Eye disorders                                   |                                   | Scleral discolouration                                                                      |
-| Vascular disorders                              |                                   | Hot flush                                                                                   |
-| Ear and labyrinth disorders                     |                                   | Vertigo                                                                                     |
-| Metabolism and nutritional disorders            |                                   | Appetite disorder, thirst                                                                   |
+| MedDRA System organ                             | Frequency   | Frequency                         | Frequency                                                                                   |
+|-------------------------------------------------|-------------|-----------------------------------|---------------------------------------------------------------------------------------------|
+| class                                           | Very common | Common                            | Uncommon                                                                                    |
+| Musculoskeletal and connective tissue disorders |             | Back pain, myalgia, muscle spasms | Arthralgia, musculoskeletal pain, pain in extremity, blood creatine phosphokinase increased |
+| Respiratory, thoracic and mediastinal disorders |             | Cough                             | Yawning, rhinorrhoea                                                                        |
+| Eye disorders                                   |             |                                   | Scleral discolouration                                                                      |
+| Vascular disorders                              |             |                                   | Hot flush                                                                                   |
+| Ear and labyrinth disorders                     |             |                                   | Vertigo                                                                                     |
+| Metabolism and nutritional disorders            |             |                                   | Appetite disorder, thirst                                                                   |
 
-a Grouped term (see 'Description of selected adverse reactions' for full list of terms included).
+a  Grouped term (s ee 'Description of selected adverse reactions' for full list of terms included).
 
 b  Male-only denominator.
 
@@ -522,15 +522,15 @@ Spontaneous penile erection and erection increased were reported in 16% and 14% 
 
 ## Immunogenicity
 
-Due to the potentially immunogenic properties of medicinal products containing proteins or peptides, patients may develop antibodies following treatment with setmelanotide. There was no observation of a rapid decline in setmelanotide concentrations that would suggest the presence of anti-drug antibodies. In clinical trials (RM-493-012 and RM-493-015), the rate of adult and paediatric patients
+The observed incidence of anti-drug antibodies (ADA) to setmelanotide is highly dependent on the sensitivity and specificity of the assay. Differences in assay methods preclude meaningful comparisons of the incidence of ADA in setmelanotide pivotal studies with the incidence of ADA in other studies.
 
 <div style=\"page-break-after: always\"></div>
 
-with POMC- or LEPR-deficiency who screened positive for antibody to setmelanotide was 68% (19 out of 28), and 32% screened negative. The 68% of patients who screened positive for antibodies to setmelanotide were inconclusive for antibodies to setmelanotide in the confirmatory assay.
+In patients with BBS or in patients with POMC, PCSK1, or LEPR deficiency, there is insufficient information to characterise the ADA response to setmelanotide and the effects of ADA on pharmacokinetics, pharmacodynamics, safety, or efficacy of setmelanotide.
 
-Approximately 13% of adult and paediatric patients aged 6 to &lt;18 years with LEPR-deficiency (3 patients) confirmed positive for antibodies to alpha-MSH that were classified as low-titre and non-persistent. Of these 3 patients (13%), 2 tested positive post-IMCIVREE treatment and 1 was positive pre-treatment. None of the patients with POMC-deficiency were confirmed to have antibodies to alpha-MSH.
+In patients 2 to &lt;6 years old,  antibodies to setmelanotide were detected in one subject who was confirmed positive with a low titre and with no subsequent positive ADA (see Study 4 in section 5.1). Due to the small number of subjects positive to ADA to setmelanotide and limited sample size, the effect of these antibodies on the pharmacokinetics, pharmacodynamics, safety or efficacy of setmelanotide is unknown.
 
-One paediatric patient with BBS aged ≥12 years confirmed positive to setmelanotide anti-drug antibodies with a very low titre.
+A low incidence of antibodies to alpha-MSH has been detected in clinical studies to date. These include pre-existing antibodies to alpha-MSH as well as development of antibodies to alpha-MSH while on treatment. Due to this low incidence, there is insufficient data to characterise the effects of anti-alpha-MSH antibodies on the pharmacokinetics, pharmacodynamics, safety or efficacy of setmelanotide. None of the patients with POMC deficiency were confirmed to have antibodies to alpha-MSH.
 
 ## Paediatric population
 
@@ -554,11 +554,11 @@ Pharmacotherapeutic group: anti-obesity preparations, excl. diet products, centr
 
 Setmelanotide is a selective MC4 receptor agonist. MC4 receptors in the brain are involved in regulation of  hunger, satiety, and energy expenditure. In genetic forms of obesity associated with insufficient  activation of the MC4 receptor, setmelanotide is believed to re-establish MC4 receptor pathway activity to reduce hunger and promote weight loss through decreased caloric intake and increased energy expenditure.
 
+<div style=\"page-break-after: always\"></div>
+
 ## Pharmacodynamic effects
 
 ## Skin pigmentation
-
-<div style=\"page-break-after: always\"></div>
 
 Setmelanotide is a selective MC4 receptor agonist with less activity at the melanocortin 1 (MC1) receptor. The MC1 receptor is expressed on melanocytes, and activation of this receptor leads to accumulation of melanin and increased skin pigmentation independently of ultraviolet light (see sections 4.4 and 4.8).
 
@@ -571,7 +571,7 @@ The safety and efficacy of setmelanotide for the treatment of POMC and LEPR defi
 - Study 1 (RM-493-012) enrolled patients aged 6 years and above with genetically confirmed POMC (including PCSK1) deficiency obesity.
 - Study 2 (RM-493-015) enrolled patients aged 6 years and above with genetically confirmed LEPR deficiency obesity.
 
-In both studies, adult patients had a body mass index (BMI) of ≥30 kg/m 2 . Weight in children was ≥95 th percentile using growth chart assessment.
+In both studies, adult patient s had a body mass index (BMI) of ≥30 kg/m 2 . Weight in children was ≥95 th percentile using growth chart assessment.
 
 Dose titration occurred over a 2- to 12-week period, followed by a 10-week open-label treatment period. Patients who achieved at least a 5 kg weight loss (or at least 5% weight loss if baseline body weight was &lt;100 kg) at the end of the open-label treatment period continued into a double-blind, placebo-controlled, withdrawal period lasting 8 weeks (4-week placebo treatment and 4-week setmelanotide treatment).  Following the withdrawal sequence, patients re-initiated active treatment with setmelanotide at the therapeutic dose for up to 32 weeks. Twenty-one patients (10 in Study 1 and 11 in Study 2) have been treated for at least 1 year and are included in the efficacy analyses.
 
@@ -631,7 +631,7 @@ Figure 1 Percent body weight change from baseline by visit (Study 1 [N=9])
 
 <!-- image -->
 
-Study 2 (RM-493-015)
+## Study 2 (RM-493-015)
 
 In Study 2, 46% of patients with LEPR deficiency obesity met the primary endpoint, achieving a ≥10% weight loss after 1 year of treatment with setmelanotide and 73% of patients with LEPR deficiency obesity achieved a predefined clinically meaningful ≥25% improvement in hunger score from baseline at 1 year (Table 17).
 
@@ -701,20 +701,18 @@ Patients 12 years and older who were able to self-report their hunger, recorded 
 
 <div style=\"page-break-after: always\"></div>
 
-scored on an 11-point scale from 0 ('not hungry at all') to 10 ('hungriest possible'). Statistically significant and clinically meaningful mean percent decreases from baseline at 1 year for most/worst hunger of 30.5% were reported for Study 3 (Table 20).
+scored on an 11point scale from 0 ('not hungry at all') to 10 ('hungriest possible'). Statistically significant and clinically meaningful mean percent decreases from baseline at 1 year for most/worst hunger of 30.5% were reported for Study 3 (Table 20).
 
-Table 19 Body weight (kg) - proportion of all patients, patients with BBS aged ≥12 years and patients with BBS aged ≥18 years achieving at least 10% weight loss from baseline at 1 year (Study 3 [Full Analysis Set])
+Table 19 Body weight (kg) -proportion of all patients , patients with BBS aged ≥12 years and patients with BBS aged ≥ 18 years achieving at least 10% weight loss from baseline at 1 year (Study 3 [Full Analysis Set])
 
-| Parameter                                             | Statistic 1   | Patients ≥12 years   | Patients ≥18 years   |
-|-------------------------------------------------------|---------------|----------------------|----------------------|
-| Patients achieving at least 10% weight loss at year 1 | N             | 28                   | 15                   |
-|                                                       | %             | 35.7                 | 46.7                 |
-|                                                       | 95% CI 1      | (18.6, 55.9)         | (21.3, 73.4)         |
-|                                                       | P-value       | 0.0002               | 0.0003               |
+| Parameter                         | Statistic 1   | Patients ≥12 years   | Patients ≥18 years   |
+|-----------------------------------|---------------|----------------------|----------------------|
+| Patients achieving at least 10% 1 | N             | 28                   | 15                   |
+| weight loss at year               | %             | 35.7                 | 46.7                 |
+|                                   | 95% CI 1      | (18.6, 55.9)         | (21.3, 73.4)         |
+|                                   | P-value       | 0.0002               | 0.0003               |
 
-1 Estimated %, 95% confidence interval and p-value are based on Rubin's Rule. P-value is one-sided and compared with alpha=0.025.
-
-Table 20 Daily hunger scores - change from baseline at 1 year in all patients and patients with BBS aged ≥12 years (Study 3 [Full Analysis Set])
+Table 20 Daily hunger scores -change from baseline at 1 year in all patients and patients with BBS aged ≥12 years (Study 3 [Full Analysis Set])
 
 | Timepoint          | Statistic   | Patients ≥12 years   |
 |--------------------|-------------|----------------------|
@@ -761,39 +759,37 @@ The safety and efficacy of setmelanotide for the treatment of patients aged 2 to
 
 Eligible patients entered the study and received setmelanotide. Twelve patients were enrolled in the study and are included in the efficacy analyses. Given the study design and small sample size, efficacy findings require careful consideration.
 
-In Study 4, 85.7% of patients with POMC or LEPR deficiency obesity and 80.0% of the patients with BBS met the primary endpoint, achieving a ≥0.2 BMI Z-score reduction after 1 year of treatment with setmelanotide (Table 21). The mean percent change from baseline to Week 52 in BMI was -25.597% for patients with POMC or LEPR deficiency obesity and -9.719% for patients with BBS (Table 22).
+In Study 4, 85.7% of patients with POMC or LEPR deficiency obesity and 80.0% of the patients with BBS met the primary endpoint, achieving a ≥ 0.2 BMI Z-score reduction after 1 year of treatment with setmelanotide (Table 21). The mean percent change from baseline to Week 52 in BMI was -25.597% for patients with POMC or LEPR deficiency obesity and -9.719% for patients with BBS (Table 22).
 
-Table 21 BMI Z-score - proportion of all patients, patients with POMC or LEPR deficiency obesity, patients with BBS aged 2 to &lt; 6 years achieving at least 0.2 reduction in BMI Z-score from baseline at 1 year (Study 4 [safety population])
+Table 21 BMI Z-score -proportion of all patients, patients with POMC or LEPR deficiency obesity, patients with BBS aged 2 to &lt; 6 years achieving at least 0.2 reduction in BMI Z-score from baseline at 1 year (Study 4 [safety population])
 
-| Parameter                                                   | Statistic 1                                                 | Patients with POMC or LEPR (n=7)   | Patients with BBS (n=5)   | Total (N=12)   |
-|-------------------------------------------------------------|-------------------------------------------------------------|------------------------------------|---------------------------|----------------|
-| Patients achieving at least                                 | N                                                           | 6                                  | 4                         | 10             |
-| 0.2 reduction in BMI                                        | %                                                           | 85.7                               | 80.0                      | 83.3           |
-| Z-score at year 1                                           | 95% CI 1                                                    | (54.1, 100)                        | (28.4, 99.5)              | (58.7, 99.8)   |
-| 1 Two-sided 95% CI was calculated using the Clopper-Pearson | 1 Two-sided 95% CI was calculated using the Clopper-Pearson | Method.                            |                           |                |
+| Parameter                                                           | Statistic 1                                                         | Patients with POMCor LEPR (n=7)                                     | Patients with BBS (n=5)                                             | Total (N=12)                                                        |
+|---------------------------------------------------------------------|---------------------------------------------------------------------|---------------------------------------------------------------------|---------------------------------------------------------------------|---------------------------------------------------------------------|
+| Patients achieving at least                                         | N                                                                   | 6                                                                   | 4                                                                   | 10                                                                  |
+| 0.2 reduction in BMI                                                | %                                                                   | 85.7                                                                | 80.0                                                                | 83.3                                                                |
+| Z-score at year 1                                                   | 95% CI 1                                                            | (54.1, 100)                                                         | (28.4, 99.5)                                                        | (58.7, 99.8)                                                        |
+| 1 Two-sided 95% CI was calculated using the Clopper-Pearson Method. | 1 Two-sided 95% CI was calculated using the Clopper-Pearson Method. | 1 Two-sided 95% CI was calculated using the Clopper-Pearson Method. | 1 Two-sided 95% CI was calculated using the Clopper-Pearson Method. | 1 Two-sided 95% CI was calculated using the Clopper-Pearson Method. |
 
-| Table 22 Percent change in BMI from        | baseline at                 | Patients with POMC or LEPR (n=7)   | Patients with BBS (n=5)   | Total (N=12)      |
-|--------------------------------------------|-----------------------------|------------------------------------|---------------------------|-------------------|
-| Parameter                                  | Statistic                   | %                                  | %                         | %                 |
-| Baseline                                   | N                           | 7                                  | 5                         | 12                |
-| Baseline                                   | Mean (SD)                   | 34.347 (7.0673)                    | 23.716 (3.5184)           | 29.918 (7.8559)   |
-| Baseline                                   | Median                      | 32.196                             | 22.986                    | 28.670            |
-| Baseline                                   | Min, Max                    | 25.99, 42.54                       | 19.31, 29.04              | 19.31, 42.54      |
-| Actual change from baseline to 1 year      | N                           | 6                                  | 5                         | 11                |
-| Actual change from baseline to 1 year      | Mean (SD)                   | -8.250 (3.2392)                    | -2.363 (2.1579)           | -5.574 (4.0697)   |
-| Actual change from baseline to 1 year      | Median                      | -9.237                             | -2.191                    | -4.940            |
-| Actual change from baseline to 1 year      | Min, Max                    | -11.16, -2.65                      | -4.94, 0.58               | -11.16, 0.58      |
-| Percent change from baseline to 1 year (%) | N                           | 6                                  | 5                         | 11                |
-| Percent change from baseline to 1 year (%) | Mean (SD) -25.597 (11.4911) | Mean (SD) -25.597 (11.4911)        | -9.719 (8.8383)           | -18.380 (12.8851) |
-| Percent change from baseline to 1 year (%) | 95% CI 1                    | (-37.66, -13.54)                   | (-20.69, 1.26)            | (-27.04, -9.72)   |
-| Percent change from baseline to 1 year (%) | Median                      | -23.237                            | -8.978                    | -21.624           |
-| Percent change from baseline to 1 year (%) | Min, Max                    | -39.28, -8.24                      | -21.62, 2.54              | -39.28, 2.54      |
-
-1 Two-sided 95% CI is calculated with Student's t-distribution.
+|                                            |           | Patients with POMCor LEPR (n=7)   | Patients with BBS (n=5)   | Total (N=12)      |
+|--------------------------------------------|-----------|-----------------------------------|---------------------------|-------------------|
+| Parameter                                  | Statistic | %                                 | %                         | %                 |
+| Baseline                                   | N         | 7                                 | 5                         | 12                |
+| Baseline                                   | Mean (SD) | 34.347 (7.0673)                   | 23.716 (3.5184)           | 29.918 (7.8559)   |
+| Baseline                                   | Median    | 32.196                            | 22.986                    | 28.670            |
+| Baseline                                   | Min, Max  | 25.99, 42.54                      | 19.31, 29.04              | 19.31, 42.54      |
+| Actual change from baseline to 1 year      | N         | 6                                 | 5                         | 11                |
+| Actual change from baseline to 1 year      | Mean (SD) | -8.250 (3.2392)                   | -2.363 (2.1579)           | -5.574 (4.0697)   |
+| Actual change from baseline to 1 year      | Median    | -9.237                            | -2.191                    | -4.940            |
+| Actual change from baseline to 1 year      | Min, Max  | -11.16, -2.65                     | -4.94, 0.58               | -11.16, 0.58      |
+| Percent change from baseline to 1 year (%) | N         | 6                                 | 5                         | 11                |
+| Percent change from baseline to 1 year (%) | Mean (SD) | -25.597 (11.4911)                 | -9.719 (8.8383)           | -18.380 (12.8851) |
+| Percent change from baseline to 1 year (%) | 95% CI 1  | (-37.66, -13.54)                  | (-20.69, 1.26)            | (-27.04, -9.72)   |
+| Percent change from baseline to 1 year (%) | Median    | -23.237                           | -8.978                    | -21.624           |
+| Percent change from baseline to 1 year (%) | Min, Max  | -39.28, -8.24                     | -21.62, 2.54              | -39.28, 2.54      |
 
 In Study 4, ~52 weeks of treatment with setmelanotide resulted in a clinically meaningful reduction in BMI Z-score of -5.185 for patients with POMC or LEPR deficiency obesity and -1.331 for patients with BBS. The mean reduction from baseline in percent of the 95 th percentile for BMI for age and sex was -47.595% for patients with POMC or LEPR deficiency obesity and -14.462% for patients with BBS.
 
-In clinical studies, 44 of the patients treated with setmelanotide were aged 2 to 17 years at baseline (21 patients with POMC, PCSK1 or LEPR deficiency and 33 patients with BBS). Overall, efficacy and safety in these younger patients showed similar trends as seen in older patients studied, with
+In clinical studies, 54 of the patients treated with setmelanotide were aged 2 to 17 years at baseline (21 patients with POMC, PCSK1 or LEPR deficiency and 33 patients with BBS). Overall, efficacy and safety in these younger patients showed similar trends as seen in older patients studied, with
 
 <div style=\"page-break-after: always\"></div>
 
@@ -969,11 +965,8 @@ Detailed information on this medicinal product is available on the website of th
 ## ANNEX II
 
 - A. MANUFACTURER RESPONSIBLE FOR BATCH RELEASE
-
-## B. CONDITIONS OR RESTRICTIONS REGARDING SUPPLY AND USE
-
-## C. OTHER CONDITIONS AND REQUIREMENTS OF THE MARKETING AUTHORISATION
-
+- B. CONDITIONS OR RESTRICTIONS REGARDING SUPPLY AND USE
+- C. OTHER CONDITIONS AND REQUIREMENTS OF THE MARKETING AUTHORISATION
 - D. CONDITIONS OR RESTRICTIONS WITH REGARD TO THE SAFE AND EFFECTIVE USE OF THE MEDICINAL PRODUCT
 
 <div style=\"page-break-after: always\"></div>
@@ -982,7 +975,9 @@ Detailed information on this medicinal product is available on the website of th
 
 Name and address of the manufacturer responsible for batch release
 
-Rhythm Pharmaceuticals Netherlands B.V. Radarweg 29, 1043NX Amsterdam, Netherlands
+Rhythm Pharmaceuticals Netherlands B.V.
+
+Radarweg 29, 1043NX Amsterdam, Netherlands
 
 ## B. CONDITIONS OR RESTRICTIONS REGARDING SUPPLY AND USE
 
@@ -1037,7 +1032,7 @@ See leaflet for further information.
 
 ## 4. PHARMACEUTICAL FORM AND CONTENTS
 
-Solution for injection
+## Solution for injection
 
 1 multidose vial (1 ml).
 
@@ -1069,13 +1064,7 @@ Unopened vial
 
 Store in a refrigerator.
 
-After opening
-
-Do not store above 30 °C.
-
-Discard after 28 days.
-
-Date of opening:
+After opening Do not store above 30 °C. Discard after 28 days. Date of opening:
 
 ## 10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
 
@@ -1107,7 +1096,7 @@ LOT
 
 IMCIVREE
 
-## 17. UNIQUE IDENTIFIER - 2D BARCODE
+## 17. UNIQUE IDENTIFIER -2D BARCODE
 
 2D barcode carrying the unique identifier included.
 
@@ -1121,16 +1110,15 @@ SN NN
 
 <div style=\"page-break-after: always\"></div>
 
-| MINIMUM PARTICULARS TO APPEAR ONSMALLIMMEDIATE PACKAGING UNITS   |
-|------------------------------------------------------------------|
-| VIAL LABEL                                                       |
+| MINIMUM PARTICULARS TO APPEAR ON SMALL IMMEDIATE PACKAGING UNITS   |
+|--------------------------------------------------------------------|
+| VIAL LABEL                                                         |
 
 ## 1. NAME OF THE MEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION
 
 IMCIVREE 10 mg/ml injection setmelanotide For SC use
 
-| 2.   | METHODOFADMINISTRATION   |
-|------|--------------------------|
+## 2. METHOD OF ADMINISTRATION
 
 | 3.   | EXPIRY DATE   |
 |------|---------------|
@@ -1142,8 +1130,8 @@ EXP
 
 LOT
 
-| 5.   | CONTENTS BY WEIGHT,BYVOLUMEORBYUNIT   |
-|------|---------------------------------------|
+| 5.   | CONTENTS BY WEIGHT, BY VOLUME OR BY UNIT   |
+|------|--------------------------------------------|
 
 Multidose vial (1 ml)
 
@@ -1160,7 +1148,9 @@ Multidose vial (1 ml)
 
 ## Package leaflet: Information for the user
 
-## IMCIVREE 10 mg/ml solution for injection setmelanotide
+## IMCIVREE 10 mg/ml solution for injection
+
+## setmelanotide
 
 This medicine is subject to additional monitoring. This will allow quick identification of new safety information. You can help by reporting any side effects you may get. See the end of section 4 for how to  report side effects.
 
@@ -1180,7 +1170,7 @@ This medicine is subject to additional monitoring. This will allow quick identif
 5. How to store IMCIVREE
 6. Contents of the pack and other information
 
-## 1. What IMCVIREE is and what it is used for
+## 1. What IMCIVREE is and what it is used for
 
 IMCIVREE contains the active substance setmelanotide. It is used in adults and children of 2 years and above, to treat obesity caused by certain genetic conditions that affect how your brain  controls feelings of hunger.
 
@@ -1235,17 +1225,17 @@ This medicine should not have any effect on your ability to drive or use machine
 
 This medicine contains 10 mg benzyl alcohol in each 1 ml which is equivalent to 1 mg for each mg of your dose.
 
-Benzyl alcohol has been linked with the risk of severe side effects in young children (less than 3 years old). There is an increased possibility that benzyl alcohol could build-up in their body (called 'metabolic acidosis') leading to 'gasping syndrome'. Children aged 2 years old should be monitored by their doctor for signs of this build-up (including rapid heartbeat, rapid breathing, or confusion).
+Benzyl alcohol has been linked with the risk of severe side effects in young children (less than 3 years old). There is an increased possibility that benzyl alcohol could build-up in their body (called 'metabolic acidosis' ) leading to 'gasping syndrome'. Children aged 2 years old should be monitored by their doctor for signs of this build-up (including rapid heartbeat, rapid breathing, or confusion).
 
 Benzyl alcohol may cause allergic reactions.
 
-Ask your doctor or pharmacist for advice if you are pregnant or breast-feeding. This is because benzyl alcohol can build-up in your body and may cause side effects (called 'metabolic acidosis').
+Ask your doctor or pharmacist for advice if you are pregnant or breast-feeding. This is because benzyl alcohol can buildup in your body and may cause side effects (called 'metabolic acidosis').
 
-Ask your doctor or pharmacist for advice if you have a liver or kidney disease. This is because benzyl alcohol can build-up in your body and may cause side effects (called 'metabolic acidosis').
+Ask your doctor or pharmacist for advice if you have a liver or kidney disease. This is because benzyl alcohol can buildup in your body and may cause side effects (called 'metabolic acidosis').
 
 ## IMCIVREE contains sodium
 
-This medicine contains less than 1 mmol sodium (23 mg) per dose, that is to say essentially 'sodiumfree'.
+This medicine contains less than 1 mmol sodium (23 mg) per dose, that is to say essentially 'sodium -free'.
 
 ## 3. How to use IMCIVREE
 
@@ -1261,19 +1251,19 @@ Your doctor will advise you on the right dose to inject.
 
 ## In adults and children aged 12 years or more , recommended doses are as follows:
 
-| Treatment week                                        | Daily dose in mg   | Volume to be injected   |
-|-------------------------------------------------------|--------------------|-------------------------|
-| Weeks 1-2                                             | 1 mg once daily    | 0.1 ml once daily       |
-| Week 3 and onward                                     | 2 mg once daily    | 0.2 ml once daily       |
-| If dose is not enough and side effects are acceptable | 2.5 mg once daily  | 0.25 ml once daily      |
-| If dose is not enough and side effects are acceptable | 3 mg once daily    | 0.3 ml once daily       |
+| Treatment week                                          | Daily dose in mg   | Volume to be injected   |
+|---------------------------------------------------------|--------------------|-------------------------|
+| Weeks 1-2                                               | 1 mg once daily    | 0.1 ml once daily       |
+| Week 3 and onward                                       | 2 mg once daily    | 0.2 ml once daily       |
+| If dose is not enough and side effects are acceptable   | 2.5 mg once daily  | 0.25 ml once daily      |
+| If dose is not enough and side effects are acceptable 3 | mg once daily      | 0.3 ml once daily       |
 
 ## In children aged 6 to &lt;12 years , recommended doses are as follows:
 
 | Treatment week                                        | Daily dose in mg   | Volume to be injected   |
 |-------------------------------------------------------|--------------------|-------------------------|
-| Weeks 1-2                                             | 0.5 mg once daily  | 0.05 ml once daily      |
-| Weeks 3-4                                             | 1 mg once daily    | 0.1 ml once daily       |
+| Weeks 1 - 2                                           | 0.5 mg once daily  | 0.05 ml once daily      |
+| Weeks 3 - 4                                           | 1 mg once daily    | 0.1 ml once daily       |
 | Week 5 and onward                                     | 2 mg once daily    | 0.2 ml once daily       |
 | If dose is not enough and side effects are acceptable | 2.5 mg once daily  | 0.25 ml once daily      |
 
@@ -1292,9 +1282,9 @@ Your doctor will advise you on the right dose to inject.
 | Week 5 and onward (if dose is not enough and side effects are acceptable) | 1.5 mg once daily | 0.15 ml once daily      |
 | ≥40 kg                                                                    |                   |                         |
 | Weeks 1-2                                                                 | 0.5mg once daily  | 0.05 ml once daily      |
-| Weeks 3-4 (if dose is not enough and side effects are acceptable)         | 1mg once daily    | 0.1 ml once daily       |
-| Weeks 5-6 (if dose is not enough and side effects are acceptable)         | 1.5mg once daily  | 0.15 ml once daily      |
-| Weeks 7-8 (if dose is not enough and side effects are acceptable)         | 2mg once daily    | 0.2 ml once daily       |
+| Weeks 3-4 ( if dose is not enough and side effects are acceptable )       | 1mg once daily    | 0.1 ml once daily       |
+| Weeks 5-6 ( if dose is not enough and side effects are acceptable )       | 1.5mg once daily  | 0.15 ml once daily      |
+| Weeks 7-8 ( if dose is not enough and side effects are acceptable )       | 2mg once daily    | 0.2 ml once daily       |
 | Week 9 and onward (if dose is not enough and side effects are acceptable) | 2.5 mg once daily | 0.25 ml once daily      |
 
 Following the starting dose, if side effects of a subsequent dose are not acceptable, the dose will be reduced to the previous dose level. If the side effects of the reduced dose are acceptable, the dose will continue to be increased.
@@ -1323,12 +1313,12 @@ If side effects of the 3 mg dose are not acceptable, it will be reduced to 2.5 m
 
 In children aged 6 to less than 12 years with severe renal impairment, recommended doses are as follows:
 
-| Treatment week                                            | Daily dose in mg   | Volume to be injected   |
-|-----------------------------------------------------------|--------------------|-------------------------|
-| Weeks 1-2                                                 | 0.25 mg once daily | 0.025 ml once daily     |
-| Weeks 3-4 (if side effects are acceptable)                | 0.5 mg once daily  | 0.05 ml once daily      |
-| Week 5 and onward (if side effects are acceptable)        | 1 mg once daily    | 0.1 ml once daily       |
-| If dose is not enough and side effects are acceptable2 mg | once daily         | 0.2 ml once daily       |
+| Treatment week                                                 | Daily dose in mg   | Volume to be injected   |
+|----------------------------------------------------------------|--------------------|-------------------------|
+| Weeks 1-2                                                      | 0.25 mg once daily | 0.025 ml once daily     |
+| Weeks 3-4 (if side effects are acceptable)                     | 0.5 mg once daily  | 0.05 ml once daily      |
+| Week 5 and onward (if side effects are acceptable) 1 mg        | once daily         | 0.1 ml once daily       |
+| If dose is not enough and side effects are acceptable2 mg once | daily              | 0.2 ml once daily       |
 
 If side effects of the 0.25 mg starting dose are not acceptable, treatment should be discontinued.
 
@@ -1351,14 +1341,14 @@ In children aged 2 to less than 6 years with severe renal impairment, recommende
 | Week 5 and onward (if dose is not enough and side effects are acceptable) | 1 mg once daily   | 0.1 ml once daily       |
 | ≥40 kg                                                                    |                   |                         |
 | Weeks 1-2                                                                 | 0.25mg once daily | 0.025 ml once daily     |
-| Weeks 3-4 (if dose is not enough and side effects are acceptable)         | 0.5 mg once daily | 0.05 ml once daily      |
-| Weeks 5-6 (if dose is not enough and side effects are acceptable)         | 1 mg once daily   | 0.1 ml once daily       |
-| Weeks 7 and onward (if dose is not enough and                             | 1.5mg once daily  | 0.15 ml once daily      |
+| Weeks 3-4 ( if dose is not enough and side effects are acceptable )       | 0.5 mg once daily | 0.05 ml once daily      |
+| Weeks 5-6 ( if dose is not enough and side effects are acceptable )       | 1 mg once daily   | 0.1 ml once daily       |
+| Weeks 7 and onward ( if dose is not enough and                            | 1.5mg once daily  | 0.15 ml once daily      |
 
 <div style=\"page-break-after: always\"></div>
 
-| side effects are acceptable)   |
-|--------------------------------|
+| effects are acceptable )   | side   |
+|----------------------------|--------|
 
 If side effects of the 0.25 mg starting dose are not acceptable, treatment should be discontinued.
 
@@ -1397,27 +1387,27 @@ If side effects of the 3 mg dose are not acceptable, it will be reduced to 2 mg,
 
 In children aged 2 to &lt;6 years , recommended doses are as follows:
 
-| Patient weight/treatment week                                             | Daily dose       | Volume to be injected   |
-|---------------------------------------------------------------------------|------------------|-------------------------|
-| <20 kg                                                                    |                  |                         |
-| Week 1 and onward                                                         | 0.5mg once daily | 0.05 ml once daily      |
-| 20-<30 kg                                                                 |                  |                         |
-| Weeks 1-2                                                                 | 0.5mg once daily | 0.05 ml once daily      |
-| Week 3 and onward (if dose is not enough and side effects are acceptable) | 1 mg once daily  | 0.1 ml once daily       |
-| 30-<40 kg                                                                 |                  |                         |
-| Weeks 1-2                                                                 | 0.5mg once daily | 0.05 ml once daily      |
-| Weeks 3-4 (if dose is not enough and side effects                         | 1 mg once daily  | 0.1 ml once daily       |
+| Patient weight/treatment week                                             | Daily dose        | Volume to be injected   |
+|---------------------------------------------------------------------------|-------------------|-------------------------|
+| <20 kg                                                                    |                   |                         |
+| Week 1 and onward                                                         | 0.5mg once daily  | 0.05 ml once daily      |
+| 20-<30 kg                                                                 |                   |                         |
+| Weeks 1-2                                                                 | 0.5mg once daily  | 0.05 ml once daily      |
+| Week 3 and onward (if dose is not enough and side effects are acceptable) | 1 mg once daily   | 0.1 ml once daily       |
+| 30-<40 kg                                                                 |                   |                         |
+| Weeks 1-2                                                                 | 0.5mg once daily  | 0.05 ml once daily      |
+| Weeks 3-4 (if dose is not enough and side effects are acceptable)         | 1 mg once daily   | 0.1 ml once daily       |
+| Week 5 and onward (if dose is not enough and                              | 1.5 mg once daily | 0.15 ml once daily      |
 
 <div style=\"page-break-after: always\"></div>
 
-| are acceptable)                                                           |                   |                    |
+| side effects are acceptable)                                              |                   |                    |
 |---------------------------------------------------------------------------|-------------------|--------------------|
-| Week 5 and onward (if dose is not enough and side effects are acceptable) | 1.5 mg once daily | 0.15 ml once daily |
 | ≥40 kg                                                                    |                   |                    |
 | Weeks 1-2                                                                 | 0.5mg once daily  | 0.05 ml once daily |
-| Weeks 3-4 (if dose is not enough and side effects are acceptable)         | 1mg once daily    | 0.1 ml once daily  |
-| Weeks 5-6 (if dose is not enough and side effects are acceptable)         | 1.5mg once daily  | 0.15 ml once daily |
-| Weeks 7-8 (if dose is not enough and side effects are acceptable)         | 2mg once daily    | 0.2 ml once daily  |
+| Weeks 3-4 ( if dose is not enough and side effects are acceptable )       | 1mg once daily    | 0.1 ml once daily  |
+| Weeks 5-6 ( if dose is not enough and side effects are acceptable )       | 1.5mg once daily  | 0.15 ml once daily |
+| Weeks 7-8 ( if dose is not enough and side effects are acceptable )       | 2mg once daily    | 0.2 ml once daily  |
 | Week 9 and onward (if dose is not enough and side effects are acceptable) | 2.5 mg once daily | 0.25 ml once daily |
 
 Following the starting dose, if side effects of a subsequent dose are not acceptable, the dose will be reduced to the previous dose level. If the side effects of the reduced dose are acceptable, the dose will continue to be increased.
@@ -1455,28 +1445,28 @@ Following the starting dose, if side effects of a subsequent dose are not accept
 
 If the side effects of the reduced dose are acceptable, the dose will continue to be increased.
 
-<div style=\"page-break-after: always\"></div>
-
 If side effects of the 2 mg dose are not acceptable, it will be reduced to 1 mg, and you will continue on this dose.
+
+<div style=\"page-break-after: always\"></div>
 
 In children aged 2 to less than 6 years with severe renal impairment, recommended doses are as follows:
 
-| Patient weight/treatment week                                              | Daily dose        | Volume to be injected   |
-|----------------------------------------------------------------------------|-------------------|-------------------------|
-| <20 kg                                                                     |                   |                         |
-| Week 1 and onward                                                          | 0.25mg once daily | 0.025 ml once daily     |
-| 20-<30 kg                                                                  |                   |                         |
-| Weeks 1-2                                                                  | 0.25mg once daily | 0.025 ml once daily     |
-| Week 3 and onward (if dose is not enough and side effects are acceptable)  | 0.5 mg once daily | 0.05 ml once daily      |
-| 30-<40 kg                                                                  |                   |                         |
-| Weeks 1-2                                                                  | 0.25mg once daily | 0.025 ml once daily     |
-| Weeks 3-4 (if dose is not enough and side effects are acceptable)          | 0.5 mg once daily | 0.05 ml once daily      |
-| Week 5 and onward (if dose is not enough and side effects are acceptable)  | 1 mg once daily   | 0.1 ml once daily       |
-| ≥40 kg                                                                     |                   |                         |
-| Weeks 1-2                                                                  | 0.25mg once daily | 0.025 ml once daily     |
-| Weeks 3-4 (if dose is not enough and side effects are acceptable)          | 0.5 mg once daily | 0.05 ml once daily      |
-| Weeks 5-6 (if dose is not enough and side effects are acceptable)          | 1 mg once daily   | 0.1 ml once daily       |
-| Weeks 7 and onward (if dose is not enough and side effects are acceptable) | 1.5mg once daily  | 0.15 ml once daily      |
+| Patient weight/treatment week                                                | Daily dose        | Volume to be injected   |
+|------------------------------------------------------------------------------|-------------------|-------------------------|
+| <20 kg                                                                       |                   |                         |
+| Week 1 and onward                                                            | 0.25mg once daily | 0.025 ml once daily     |
+| 20-<30 kg                                                                    |                   |                         |
+| Weeks 1-2                                                                    | 0.25mg once daily | 0.025 ml once daily     |
+| Week 3 and onward (if dose is not enough and side effects are acceptable)    | 0.5 mg once daily | 0.05 ml once daily      |
+| 30-<40 kg                                                                    |                   |                         |
+| Weeks 1-2                                                                    | 0.25mg once daily | 0.025 ml once daily     |
+| Weeks 3-4 (if dose is not enough and side effects are acceptable)            | 0.5 mg once daily | 0.05 ml once daily      |
+| Week 5 and onward (if dose is not enough and side effects are acceptable)    | 1 mg once daily   | 0.1 ml once daily       |
+| ≥40 kg                                                                       |                   |                         |
+| Weeks 1-2                                                                    | 0.25mg once daily | 0.025 ml once daily     |
+| Weeks 3-4 ( if dose is not enough and side effects are acceptable )          | 0.5 mg once daily | 0.05 ml once daily      |
+| Weeks 5-6 ( if dose is not enough and side effects are acceptable )          | 1 mg once daily   | 0.1 ml once daily       |
+| Weeks 7 and onward ( if dose is not enough and side effects are acceptable ) | 1.5mg once daily  | 0.15 ml once daily      |
 
 If side effects of the 0.25 mg starting dose are not acceptable, treatment should be discontinued.
 
@@ -1509,7 +1499,7 @@ You will need the following items that are supplied separately:
 
 ## Step 2 Examine the vial
 
-- -Check the expiry date on the vial label, this is shown after 'EXP': MM/YYYY.
+- -Check the expiry date on the vial label, this is shown after ' EXP ' : MM/YYYY.
 - -The liquid should look clear to slightly yellow.
 - -Do not use if:
 - -the expiry date has passed
@@ -1639,7 +1629,7 @@ If you have any further questions on the use of this medicine, ask your doctor, 
 
 Like all medicines, this medicine can cause side effects, although not everybody gets them.
 
-## Very common (may affect more than 1 in 10 people)
+Very common (may affect more than 1 in 10 people)
 
 - -Dark areas or patches on your skin
 - -Pain, bruising or inflammation (redness and/or swelling) at the site of injection
@@ -1765,11 +1755,15 @@ IMCIVREE is a clear colourless to slightly coloured solution.
 
 This medicine comes in clear glass vials with a stopper and cap, containing 1 ml of solution for injection.
 
-IMCIVREE is available in packs containing 1 or 10 multidose vials. Not all pack sizes may be marketed.
+IMCIVREE is available in packs containing 1 or 10 multidose vials.
+
+Not all pack sizes may be marketed.
 
 ## Marketing Authorisation Holder and Manufacturer
 
-Rhythm Pharmaceuticals Netherlands B.V. Radarweg 29, 1043NX Amsterdam, Netherlands
+Rhythm Pharmaceuticals Netherlands B.V.
+
+Radarweg 29, 1043NX Amsterdam, Netherlands
 
 ## This leaflet was last revised in
 

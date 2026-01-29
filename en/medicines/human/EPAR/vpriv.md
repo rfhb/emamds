@@ -1,18 +1,18 @@
 ---
-document_datetime: 2025-12-29 13:10:55
+document_datetime: 2026-01-28 12:35:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/vpriv.html
 document_name: vpriv.html
 version: success
-processing_time: 0.1044767
-conversion_datetime: 2025-12-30 01:50:15.95382
+processing_time: 0.0834194
+conversion_datetime: 2026-01-29 11:36:49.720868
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.66.0
-  docling-core: 2.57.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.11.0
+  docling-jobkit: 1.9.0
+  docling: 2.70.0
+  docling-core: 2.61.0
+  docling-ibm-models: 3.11.0
+  docling-parse: 4.7.3
   python: cpython-313 (3.13.11)
   plaform: macOS-26.2-arm64-arm-64bit-Mach-O
 ---
@@ -25,8 +25,6 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 velaglucerase alfa Medicine Human Authorised
-
-On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -114,7 +112,7 @@ English (EN) (81.95 KB - PDF)
 
 [View](/en/documents/overview/vpriv-epar-summary-public_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-801)
+[Other languages (22)](#file-language-dropdown-431)
 
 български (BG) (109.18 KB - PDF)
 
@@ -380,21 +378,29 @@ svenska (SV) (82.01 KB - PDF)
 
 [View](/sv/documents/overview/vpriv-epar-summary-public_sv.pdf)
 
+Vpriv : EPAR - Risk management plan summary
+
+English (EN) (93.38 KB - PDF)
+
+**First published:** 28/01/2026
+
+[View](/en/documents/rmp-summary/vpriv-epar-risk-management-plan-summary_en.pdf)
+
 ## Product information
 
 Vpriv : EPAR - Product Information
 
-English (EN) (612.75 KB - PDF)
+English (EN) (396.87 KB - PDF)
 
 **First published:** 10/09/2010
 
-**Last updated:** 08/08/2023
+**Last updated:** 28/01/2026
 
 [View](/en/documents/product-information/vpriv-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-778)
+[Other languages (24)](#file-language-dropdown-815)
 
-български (BG) (857.38 KB - PDF)
+български (BG) (664.16 KB - PDF)
 
 **First published:**
 
@@ -402,11 +408,11 @@ English (EN) (612.75 KB - PDF)
 
 **Last updated:**
 
-08/08/2023
+28/01/2026
 
 [View](/bg/documents/product-information/vpriv-epar-product-information_bg.pdf)
 
-español (ES) (573.12 KB - PDF)
+español (ES) (351.26 KB - PDF)
 
 **First published:**
 
@@ -414,11 +420,11 @@ español (ES) (573.12 KB - PDF)
 
 **Last updated:**
 
-08/08/2023
+28/01/2026
 
 [View](/es/documents/product-information/vpriv-epar-product-information_es.pdf)
 
-čeština (CS) (835.26 KB - PDF)
+čeština (CS) (601.81 KB - PDF)
 
 **First published:**
 
@@ -426,11 +432,11 @@ español (ES) (573.12 KB - PDF)
 
 **Last updated:**
 
-08/08/2023
+28/01/2026
 
 [View](/cs/documents/product-information/vpriv-epar-product-information_cs.pdf)
 
-dansk (DA) (559.04 KB - PDF)
+dansk (DA) (379.64 KB - PDF)
 
 **First published:**
 
@@ -438,11 +444,11 @@ dansk (DA) (559.04 KB - PDF)
 
 **Last updated:**
 
-08/08/2023
+28/01/2026
 
 [View](/da/documents/product-information/vpriv-epar-product-information_da.pdf)
 
-Deutsch (DE) (621.08 KB - PDF)
+Deutsch (DE) (369.24 KB - PDF)
 
 **First published:**
 
@@ -450,11 +456,11 @@ Deutsch (DE) (621.08 KB - PDF)
 
 **Last updated:**
 
-08/08/2023
+28/01/2026
 
 [View](/de/documents/product-information/vpriv-epar-product-information_de.pdf)
 
-eesti keel (ET) (562.51 KB - PDF)
+eesti keel (ET) (328.63 KB - PDF)
 
 **First published:**
 
@@ -462,11 +468,11 @@ eesti keel (ET) (562.51 KB - PDF)
 
 **Last updated:**
 
-08/08/2023
+28/01/2026
 
 [View](/et/documents/product-information/vpriv-epar-product-information_et.pdf)
 
-ελληνικά (EL) (847.37 KB - PDF)
+ελληνικά (EL) (661.6 KB - PDF)
 
 **First published:**
 
@@ -474,11 +480,11 @@ eesti keel (ET) (562.51 KB - PDF)
 
 **Last updated:**
 
-08/08/2023
+28/01/2026
 
 [View](/el/documents/product-information/vpriv-epar-product-information_el.pdf)
 
-français (FR) (610.38 KB - PDF)
+français (FR) (360.36 KB - PDF)
 
 **First published:**
 
@@ -486,11 +492,11 @@ français (FR) (610.38 KB - PDF)
 
 **Last updated:**
 
-08/08/2023
+28/01/2026
 
 [View](/fr/documents/product-information/vpriv-epar-product-information_fr.pdf)
 
-hrvatski (HR) (798.32 KB - PDF)
+hrvatski (HR) (578.55 KB - PDF)
 
 **First published:**
 
@@ -498,11 +504,11 @@ hrvatski (HR) (798.32 KB - PDF)
 
 **Last updated:**
 
-08/08/2023
+28/01/2026
 
 [View](/hr/documents/product-information/vpriv-epar-product-information_hr.pdf)
 
-íslenska (IS) (576.72 KB - PDF)
+íslenska (IS) (379.01 KB - PDF)
 
 **First published:**
 
@@ -510,11 +516,11 @@ hrvatski (HR) (798.32 KB - PDF)
 
 **Last updated:**
 
-08/08/2023
+28/01/2026
 
 [View](/is/documents/product-information/vpriv-epar-product-information_is.pdf)
 
-italiano (IT) (530.58 KB - PDF)
+italiano (IT) (346.67 KB - PDF)
 
 **First published:**
 
@@ -522,11 +528,11 @@ italiano (IT) (530.58 KB - PDF)
 
 **Last updated:**
 
-08/08/2023
+28/01/2026
 
 [View](/it/documents/product-information/vpriv-epar-product-information_it.pdf)
 
-latviešu valoda (LV) (825.65 KB - PDF)
+latviešu valoda (LV) (673.92 KB - PDF)
 
 **First published:**
 
@@ -534,11 +540,11 @@ latviešu valoda (LV) (825.65 KB - PDF)
 
 **Last updated:**
 
-08/08/2023
+28/01/2026
 
 [View](/lv/documents/product-information/vpriv-epar-product-information_lv.pdf)
 
-lietuvių kalba (LT) (755.22 KB - PDF)
+lietuvių kalba (LT) (606.32 KB - PDF)
 
 **First published:**
 
@@ -546,11 +552,11 @@ lietuvių kalba (LT) (755.22 KB - PDF)
 
 **Last updated:**
 
-08/08/2023
+28/01/2026
 
 [View](/lt/documents/product-information/vpriv-epar-product-information_lt.pdf)
 
-magyar (HU) (744.21 KB - PDF)
+magyar (HU) (534.44 KB - PDF)
 
 **First published:**
 
@@ -558,11 +564,11 @@ magyar (HU) (744.21 KB - PDF)
 
 **Last updated:**
 
-08/08/2023
+28/01/2026
 
 [View](/hu/documents/product-information/vpriv-epar-product-information_hu.pdf)
 
-Malti (MT) (881.57 KB - PDF)
+Malti (MT) (620.34 KB - PDF)
 
 **First published:**
 
@@ -570,11 +576,11 @@ Malti (MT) (881.57 KB - PDF)
 
 **Last updated:**
 
-08/08/2023
+28/01/2026
 
 [View](/mt/documents/product-information/vpriv-epar-product-information_mt.pdf)
 
-Nederlands (NL) (538.58 KB - PDF)
+Nederlands (NL) (354.57 KB - PDF)
 
 **First published:**
 
@@ -582,11 +588,11 @@ Nederlands (NL) (538.58 KB - PDF)
 
 **Last updated:**
 
-08/08/2023
+28/01/2026
 
 [View](/nl/documents/product-information/vpriv-epar-product-information_nl.pdf)
 
-norsk (NO) (566.39 KB - PDF)
+norsk (NO) (368.99 KB - PDF)
 
 **First published:**
 
@@ -594,11 +600,11 @@ norsk (NO) (566.39 KB - PDF)
 
 **Last updated:**
 
-08/08/2023
+28/01/2026
 
 [View](/no/documents/product-information/vpriv-epar-product-information_no.pdf)
 
-polski (PL) (832.03 KB - PDF)
+polski (PL) (623.8 KB - PDF)
 
 **First published:**
 
@@ -606,11 +612,11 @@ polski (PL) (832.03 KB - PDF)
 
 **Last updated:**
 
-08/08/2023
+28/01/2026
 
 [View](/pl/documents/product-information/vpriv-epar-product-information_pl.pdf)
 
-português (PT) (610.18 KB - PDF)
+português (PT) (355.63 KB - PDF)
 
 **First published:**
 
@@ -618,11 +624,11 @@ português (PT) (610.18 KB - PDF)
 
 **Last updated:**
 
-08/08/2023
+28/01/2026
 
 [View](/pt/documents/product-information/vpriv-epar-product-information_pt.pdf)
 
-română (RO) (838.66 KB - PDF)
+română (RO) (564.61 KB - PDF)
 
 **First published:**
 
@@ -630,11 +636,11 @@ română (RO) (838.66 KB - PDF)
 
 **Last updated:**
 
-08/08/2023
+28/01/2026
 
 [View](/ro/documents/product-information/vpriv-epar-product-information_ro.pdf)
 
-slovenčina (SK) (856.4 KB - PDF)
+slovenčina (SK) (654.6 KB - PDF)
 
 **First published:**
 
@@ -642,11 +648,11 @@ slovenčina (SK) (856.4 KB - PDF)
 
 **Last updated:**
 
-08/08/2023
+28/01/2026
 
 [View](/sk/documents/product-information/vpriv-epar-product-information_sk.pdf)
 
-slovenščina (SL) (782.01 KB - PDF)
+slovenščina (SL) (555.16 KB - PDF)
 
 **First published:**
 
@@ -654,11 +660,11 @@ slovenščina (SL) (782.01 KB - PDF)
 
 **Last updated:**
 
-08/08/2023
+28/01/2026
 
 [View](/sl/documents/product-information/vpriv-epar-product-information_sl.pdf)
 
-Suomi (FI) (537.46 KB - PDF)
+Suomi (FI) (316.37 KB - PDF)
 
 **First published:**
 
@@ -666,11 +672,11 @@ Suomi (FI) (537.46 KB - PDF)
 
 **Last updated:**
 
-08/08/2023
+28/01/2026
 
 [View](/fi/documents/product-information/vpriv-epar-product-information_fi.pdf)
 
-svenska (SV) (579.74 KB - PDF)
+svenska (SV) (354.8 KB - PDF)
 
 **First published:**
 
@@ -678,11 +684,11 @@ svenska (SV) (579.74 KB - PDF)
 
 **Last updated:**
 
-08/08/2023
+28/01/2026
 
 [View](/sv/documents/product-information/vpriv-epar-product-information_sv.pdf)
 
-**Latest procedure affecting product information:** II/0054 25/05/2023
+**Latest procedure affecting product information:** II/0063 15/01/2025
 
 icon globe
 
@@ -708,7 +714,7 @@ English (EN) (14.68 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/vpriv-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (23)](#file-language-dropdown-466)
+[Other languages (23)](#file-language-dropdown-375)
 
 български (BG) (36.78 KB - PDF)
 
@@ -1012,7 +1018,7 @@ Takeda Pharmaceuticals International AG Ireland Branch
 
 Block 2 Miesian Plaza
 
-Opinion adopted 04/06/2010 Marketing authorisation issued 26/08/2010 Revision 20
+Opinion adopted 04/06/2010 Marketing authorisation issued 26/08/2010 Revision 21
 
 ## Assessment history
 
@@ -1028,9 +1034,45 @@ English (EN) (273.65 KB - PDF)
 
 **First published:** 18/11/2010
 
-**Last updated:** 08/08/2023
+**Last updated:** 28/01/2026
 
-[View](/en/documents/procedural-steps-after/vpriv-epar-procedural-steps-taken-and-scientific-information-after-authorisation_en.pdf)
+[View](/en/documents/procedural-steps-after/vpriv-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf)
+
+Vpriv-H-C-001249-P46-033 : EPAR - Assessment report
+
+Adopted
+
+Reference Number: EMA/116407/2025
+
+English (EN) (389.19 KB - PDF)
+
+**First published:** 28/01/2026
+
+[View](/en/documents/variation-report/vpriv-h-c-001249-p46-033-epar-assessment-report_en.pdf)
+
+Vpriv-H-C-001249-P46-032 : EPAR - Assessment report
+
+Adopted
+
+Reference Number: EMA/116426/2025
+
+English (EN) (569.01 KB - PDF)
+
+**First published:** 28/01/2026
+
+[View](/en/documents/variation-report/vpriv-h-c-001249-p46-032-epar-assessment-report_en.pdf)
+
+Vpriv-H-C-001249-P46-031 : EPAR - Assessment report
+
+Adopted
+
+Reference Number: EMA/235244/2024
+
+English (EN) (463.34 KB - PDF)
+
+**First published:** 28/01/2026
+
+[View](/en/documents/variation-report/vpriv-h-c-001249-p46-031-epar-assessment-report_en.pdf)
 
 ## Initial marketing authorisation documents
 
@@ -1066,7 +1108,7 @@ This product is no longer an orphan medicine. It was originally [designated an o
 
 - [Medicines](https://www.ema.europa.eu/en/search?f%5B0%5D=ema_search_topics%3A61)
 
-**This page was last updated on** 08/08/2023
+**This page was last updated on** 28/01/2026
 
 ## Share this page
 

@@ -1,18 +1,18 @@
 ---
-document_datetime: 2025-03-31 10:05:15
+document_datetime: 2026-01-28 16:06:10
 document_pages: 25
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/heplisav-b-epar-product-information_en.pdf
 document_name: heplisav-b-epar-product-information_en.pdf
 version: success
-processing_time: 6.4997132
-conversion_datetime: 2025-12-27 19:58:45.166021
+processing_time: 6.5477415
+conversion_datetime: 2026-01-29 11:54:05.987806
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.66.0
-  docling-core: 2.57.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.11.0
+  docling-jobkit: 1.9.0
+  docling: 2.70.0
+  docling-core: 2.61.0
+  docling-ibm-models: 3.11.0
+  docling-parse: 4.7.3
   python: cpython-313 (3.13.11)
   plaform: macOS-26.2-arm64-arm-64bit-Mach-O
 ---
@@ -22,31 +22,25 @@ docling_version:
 
 <div style=\"page-break-after: always\"></div>
 
-<!-- image -->
-
-This medicinal product is subject to additional monitoring. This will allow quick identification of new safety information. Healthcare professionals are asked to report any suspected adverse reactions. See Section 4.8 for how to report adverse reactions.
-
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
 HEPLISAV B 20 micrograms solution for injection in pre-filled syringe Hepatitis B vaccine (recombinant DNA, adjuvanted)
 
 ## 2. QUALITATIVE AND QUANTITATIVE COMPOSITION
 
-One dose (0.5 ml) contains:
+One dose (0.5 mL) contains:
 
 Hepatitis B surface antigen (HBsAg) 1,2
 
 20 micrograms
 
-1 Adjuvanted with 3000 micrograms cytidine phosphoguanosine (CpG) 1018 adjuvant, a 22-mer
-
-phosphothioate oligonucleotide (PS-ODN) comprising microbial DNA-like unmethylated CpG motifs 2 Produced in yeast cells ( Hansenula polymorpha ) by recombinant DNA technology
+1 Adjuvanted with 3 000 micrograms cytidine phosphoguanosine (CpG) 1018 adjuvant, a 22-mer phosphothioate oligonucleotide (PS-ODN) comprising microbial DNA-like unmethylated CpG motifs. 2 Produced in yeast cells ( Hansenula polymorpha ) by recombinant DNA technology.
 
 For the full list of excipients, see section 6.1.
 
 ## 3. PHARMACEUTICAL FORM
 
-Solution for injection in pre-filled syringe.
+Solution for injection.
 
 Clear to slightly opalescent, colourless to slightly yellow solution.
 
@@ -64,25 +58,27 @@ It can be expected that hepatitis D will also be prevented by immunisation with 
 
 Posology
 
-Adults:
+Primary vaccination
 
-The vaccine is administrated intramuscularly.
+Adults
 
-Primary vaccination:
+Two doses of 0.5 mL each: an initial dose followed by a second dose 1 month later.
 
-Adults: Two doses of 0.5 ml each: an initial dose followed by a second dose 1 month later.
+Booster dose
+
+The need for a booster dose has not been established. Subjects who are immunocompromised or who have chronic renal failure may require a booster dose (see 'Renal impairment'). A 0.5 mL booster dose should be given when antibody levels decrease below recommended levels.
+
+Special populations
+
+Elderly
 
 <div style=\"page-break-after: always\"></div>
 
-Adults with severe renal impairment (eGFR &lt; 30 ml/min) including patients undergoing haemodialysis: Four doses of 0.5-ml each: an initial dose followed by a second dose 1 month later, a third dose 2 months after the initial dose, and a fourth dose 4 months after the initial dose.
+No dose adjustment is required in adults aged 65 years and older (see section 5.1).
 
-## Booster dose
+## Renal impairment
 
-The need for a booster dose has not been established. Subjects who are immunocompromised or who have chronic renal failure may require a booster dose. A 0.5-ml booster dose should be given when antibody levels decrease below recommended levels. See section 4.4
-
-## Elderly population
-
-No dose adjustment is required. See section 5.1.
+For adults with severe renal impairment (eGFR &lt; 30 mL/min), including patients undergoing haemodialysis, four doses of 0.5 mL each: an initial dose followed by a second dose 1 month later, a third dose 2 months after the initial dose, and a fourth dose 4 months after the initial dose.
 
 ## Paediatric population
 
@@ -91,6 +87,10 @@ The safety and efficacy of HEPLISAV B in children less than 18 years of age have
 ## Method of administration
 
 HEPLISAV B should be injected intramuscularly (IM) in the deltoid region. Injection into the gluteal region (buttocks) should be avoided.
+
+The vaccine should not be administered intravenously, subcutaneously, or intradermally.
+
+For instructions on handling of the vaccine before administration, see section 6.6.
 
 ## 4.3 Contraindications
 
@@ -106,37 +106,49 @@ Hypersensitivity to yeast.
 
 In order to improve the traceability of biological medicinal products, the name and the batch number of the administered product should be clearly recorded.
 
-HEPLISAV B should not be administered intravenously, subcutaneously, or intradermally.
+## Hypersensitivity and anaphylaxis
 
-As with all injectable vaccines, appropriate medical treatment and supervision should be readily available in case of rare anaphylactic reactions following the administration of the vaccine.
+As with all injectable vaccines, appropriate medical treatment and supervision should be readily available in case of anaphylactic reactions following the administration of the vaccine.
+
+## Concurrent illness
 
 As with other vaccines, the administration of HEPLISAV B should be postponed in subjects suffering from acute severe febrile illness. The presence of a minor infection, however, is not a contraindication for immunisation.
 
+## Syncope
+
 Syncope (fainting) can occur following, or even before, any vaccination as a psychogenic response to the needle injection. This can be accompanied by several neurological signs such as transient visual disturbance, paraesthesia, and tonic-clonic limb movements during recovery. It is important that procedures are in place to avoid injury.
 
+## Limitations of vaccine effectiveness
+
 As with any vaccine, a protective immune response may not be elicited in all vaccinees.
+
+<div style=\"page-break-after: always\"></div>
 
 Because of the long incubation period of hepatitis B, it is possible for unrecognised HBV infection to be present at the time of immunisation. HEPLISAV B may not prevent HBV infection in such cases.
 
 HEPLISAV B will not prevent infection caused by other pathogens known to infect the liver such as hepatitis A, hepatitis C, and hepatitis E viruses.
 
-<div style=\"page-break-after: always\"></div>
-
 There are very limited data on the immune response to HEPLISAV B in individuals who did not mount a protective immune response to another hepatitis B vaccine.
 
 ## Immunodeficiency
 
-Immunocompromised persons may have a diminished immune response to HEPLISAV B. There are very limited data available among immunocompromised population. Attention should be given to ensure that a protective antibody level is maintained as defined by national recommendations and guidelines. See section 4.2.
+Immunocompromised persons may have a diminished immune response to HEPLISAV B. There are very limited data available among immunocompromised population. Attention should be given to ensure that a protective antibody level is maintained as defined by national recommendations and guidelines (see section 4.2).
 
 Patients with chronic liver disease or with HIV infection or hepatitis C carriers should not be precluded from vaccination against hepatitis B. The vaccine could be advised since HBV infection can be severe in these patients: the HEPLISAV B vaccination should thus be considered on a case by case basis by the physician.
 
-## Renal Impairment
+## Renal impairment
 
-As patients with Chronic Kidney Disease (CKD) who are pre-haemodialysis or receiving haemodialysis are particularly at risk of exposure to HBV and have a higher risk of becoming chronically infected, attention should be given to ensure that a protective antibody level is maintained as defined by national recommendations and guidelines. See section 4.2.
+As patients with CKD who are pre-haemodialysis or receiving haemodialysis are particularly at risk of exposure to HBV and have a higher risk of becoming chronically infected, attention should be given to ensure that a protective antibody level is maintained as defined by national recommendations and guidelines (see section 4.2).
 
-## Excipients
+## Excipients with known effect
 
-This medicinal product contains less than 1 mmol of sodium (23 mg) per dose, i.e. is essentially 'sodium-free'.
+## Sodium
+
+This medicinal product contains less than 1 mmol sodium (23 mg) per dose, that is to say essentially 'sodium-free'.
+
+## Polysorbate 80
+
+This medicinal product contains 0.05 mg of polysorbate 80 in each dose, which is equivalent to 0.1 mg/mL. Polysorbates may cause allergic reactions.
 
 ## 4.5 Interaction with other medicinal products and other forms of interaction
 
@@ -148,17 +160,17 @@ Concomitant administration of HEPLISAV B with hepatitis B immunoglobulin (HBIG) 
 
 ## Pregnancy
 
-There are a limited amount of data from the use of HEPLISAV B vaccine in pregnant women.
+There are a limited amount of data from the use of HEPLISAV B in pregnant women.
 
-Animal studies do not indicate direct or indirect harmful effects of relevance to humans with respect to reproductive toxicity (See section 5.3).
+Animal studies do not indicate direct or indirect harmful effects with respect to reproductive toxicity (see section 5.3).
+
+<div style=\"page-break-after: always\"></div>
 
 Vaccination during pregnancy should only be performed if the risk-benefit ratio at the individual level outweighs possible risks for the foetus.
 
 ## Breast-feeding
 
 It is unknown whether HEPLISAV B is excreted in human milk. A risk to the breastfed newborns/infants cannot be excluded.
-
-<div style=\"page-break-after: always\"></div>
 
 A decision must be made whether to discontinue breast-feeding or to abstain from HEPLISAV B vaccination taking into account the benefit of breast-feeding for the child and the benefit of vaccination for the woman.
 
@@ -170,57 +182,43 @@ Animal studies do not indicate direct or indirect harmful effects with respect t
 
 ## 4.7 Effects on ability to drive and use machines
 
-HEPLISAV B may have a moderate influence on the ability to drive and use machine. Some of the effects mentioned under section 4.8 'Undesirable Effects' (e.g., malaise) may affect the ability to drive or operate machinery.
+HEPLISAV B may have a moderate influence on the ability to drive and use machines. Some of the effects mentioned under section 4.8 'Undesirable effects' (e.g. malaise, dizziness) may affect the ability to drive or operate machinery.
 
 ## 4.8 Undesirable effects
 
-## Summary of the safety profile:
+## Summary of the safety profile
 
-The clinical trials safety profile is based on data from 9365 subjects followed in 3 pivotal studies.
+The most common adverse reactions are post-injection reactions. These are injection site pain (41.7%), fatigue (21.4%), headache (20.1%), malaise (13.8%), and myalgia (12.5%).
 
-In two studies, 3777 of the 9365 subjects were monitored for local and systemic post-injection reactions using diary cards for a 7-day period starting on the day of vaccination. The most common adverse reactions seen were the post-injection reactions injection site pain, headache, malaise, fatigue, and myalgia.
+## Tabulated list of adverse reactions
 
-The reactogenicity profile of HEPLISAV B in 119 subjects on haemodialysis was generally comparable to that seen in healthy subjects.
+The adverse reactions are listed below and classified by MedDRA system organ class under headings of frequency using the following convention:
 
-## Tabulated list of adverse reactions:
+Very common (≥ 1/10), Common (≥ 1/100 to &lt; 1/10), Uncommon (≥ 1/1 000 to &lt; 1/100), Rare (≥ 1/10 000 to &lt; 1/1 000),
 
-The frequency of adverse reactions is defined as follows:
+Very rare (&lt; 1/10 000),
 
-Very common:  (≥1/10)
+Not known (cannot be estimated from the available data).
 
-Common:  (≥1/100 to &lt;1/10)
+Within each frequency grouping, adverse reactions are presented in order of decreasing seriousness.
 
-Uncommon:  (≥1/1000 to &lt;1/100)
+The clinical trials safety profile is based on data from 3 pivotal clinical trials in healthy adult subjects (N = 9 365) and 1 pivotal clinical trial in adult subjects with end stage renal disease on hemodialysis (N = 119) who were monitored for safety, including local and systemic post-injection reactions using diary  cards  for  a  7-day  period  starting  on  the  day  of  vaccination.  The  reactogenicity  profile  of HEPLISAV B in 119 subjects  on  haemodialysis  was  generally  comparable  to  that  seen  in  healthy subjects.
 
-Rare:  (≥1/10,000 to &lt;1/1000)
-
-Very rare:  (&lt;1/10,000)
-
-Within each frequency grouping, undesirable effects are presented in order of decreasing seriousness.
+The table includes adverse reactions considered as being at least possibly related to vaccination and observed in recipients of HEPLISAV B from the pivotal clinical trials listed above (N = 9 484) and from post-marketing surveillance.
 
 <div style=\"page-break-after: always\"></div>
 
-| System Organ Class                                   | Frequency   | Adverse Reactions                                         |
+| System organ class                                   | Frequency   | Adverse reactions                                         |
 |------------------------------------------------------|-------------|-----------------------------------------------------------|
-| Nervous System Disorders                             | Very Common | Headache 1                                                |
-| Nervous System Disorders                             | Rare        | Dizziness                                                 |
-| Nervous System Disorders                             | Rare        | Paraesthesia                                              |
-| Musculoskeletal and Connective Tissue Disorders      | Very Common | Myalgia 1                                                 |
-| General Disorders and Administration Site Conditions | Very Common | Malaise 1 , fatigue 1 , injection site pain 1             |
-| General Disorders and Administration Site Conditions | Common      | Injection site swelling, injection site erythema, fever 1 |
-| General Disorders and Administration Site Conditions | Uncommon    | Injection site pruritus 2                                 |
-| Gastrointestinal disorders                           | Uncommon    | Gastrointestinal symptoms 3                               |
 | Immune system disorders                              | Uncommon    | Hypersensivity 4                                          |
-| Immune system disorders                              | Very Rare   | Anaphylaxis 2                                             |
-
-1. Local and systemic adverse reactions collected using diary cards.
-2. Adverse reactions reported post-authorisation.
-3. Includes the individual preferred terms of nausea, vomiting, diarrhoea and abdominal pain.
-4. Includes the individual preferred terms of urticaria, pruritus, and rash.
-
-## Additional information in special populations
-
-Safety data are limited in immunocompromised adults, in adults previously vaccinated for hepatitis B and in adults with chronic renal failure, including patients on haemodialysis.
+| Immune system disorders                              | Very rare   | Anaphylaxis 2                                             |
+| Nervous system disorders                             | Very common | Headache 1                                                |
+| Nervous system disorders                             | Rare        | Dizziness, paraesthesia                                   |
+| Gastrointestinal disorders                           | Uncommon    | Gastrointestinal symptoms 3                               |
+| Musculoskeletal and connective tissue disorders      | Very common | Myalgia 1                                                 |
+| General disorders and administration site conditions | Very common | Malaise 1 , fatigue 1 , injection site pain 1             |
+| General disorders and administration site conditions | Common      | Injection site swelling, injection site erythema, fever 1 |
+| General disorders and administration site conditions | Uncommon    | Injection site pruritus 2                                 |
 
 ## Reporting of suspected adverse reactions
 
@@ -228,13 +226,13 @@ Reporting suspected adverse reactions after authorisation of the medicinal produ
 
 ## 4.9 Overdose
 
-Cases of overdose have been been reported during post-marketing surveillance. Adverse events reported following overdosage were similar to those reported with normal vaccine administration.
+Cases of overdose have been reported with HEPLISAV B during post-marketing surveillance. Adverse events reported following overdose were similar to those reported with normal vaccine administration.
 
 ## 5. PHARMACOLOGICAL PROPERTIES
 
 ## 5.1 Pharmacodynamic properties
 
-Pharmacotherapeutic group:  Vaccines, Viral Vaccines, Hepatitis Vaccine, ATC code:  J07BC01
+Pharmacotherapeutic group: Vaccines, viral vaccines, hepatitis vaccine, ATC code: J07BC01
 
 ## Mechanism of action
 
@@ -242,92 +240,88 @@ HEPLISAV B is comprised of recombinant hepatitis B surface antigen and the CpG 1
 
 HEPLISAV B induces specific antibodies against HBsAg (anti-HBs).
 
+The biological actions of CpG 1018 are exerted locally at the injection site and draining lymph nodes. The adjuvant CpG 1018 component of HEPLISAV B has the following effects: (1) Activates plasmacytoid dendritic cells (pDCs) through the pattern recognition receptor Toll-like receptor 9; (2)
+
 <div style=\"page-break-after: always\"></div>
 
-The biological actions of CpG 1018 are exerted locally at the injection site and draining lymph nodes. The adjuvant CpG 1018 component of HEPLISAV B has the following effects: (1) Activates plasmacytoid dendritic cells (pDCs) through the pattern recognition receptor Toll-like receptor 9; (2) converts pDCs into highly efficient antigen-presenting cells that present the processed HBsAg to CD4+ T cells; and, (3) promotes Th1 T-cell differentiation through the production of IFN-alpha and IL-12. This activation results in a high and sustained antibody response, likely due to the rapid generation of large numbers of anti-HBs-secreting plasmacytes and HBsAg-specific memory B and T cells.
+converts pDCs into highly efficient antigen-presenting cells that present the processed HBsAg to CD4+ T cells; and, (3) promotes Th1 T-cell differentiation through the production of IFN-alpha and IL-12. This activation results in a high and sustained antibody response, likely due to the rapid generation of large numbers of anti-HBs-secreting plasmacytes and HBsAg-specific memory B and T cells.
 
 ## Immune responses to HEPLISAV B
 
-No efficacy trials were conducted due to the application of the well-established immune correlate of protection to the immune response (antiHBs concentration ≥ 10 mIU/ml correlates with protection against HBV infection). The immunogenicity of HEPLISAV B was evaluated in 3 randomised, active controlled, observer-blinded, multicentre phase 3 clinical trials (HBV-10 with 3:1 randomisation, HBV-16 with 4:1 randomisation, and HBV-23 with 2:1 randomisation) including 9365 adults aged 18 to 70 years given HEPLISAV B, and 3867 adults given the comparator hepatitis B vaccine (Engerix-B 20 mcg HBsAg). HEPLISAV B was given as a 2-dose schedule at 0 and 1 month and Engerix-B was given using a 3-dose schedule at 0, 1, and 6 months.
+No efficacy trials were conducted due to the application of the well-established immune correlate of protection to the immune response (antiHBs concentration ≥ 10 mIU/mL correlates with protection against HBV infection). The immunogenicity of HEPLISAV B was evaluated in 3 randomised, active controlled, observer-blinded, multicentre phase 3 clinical trials (HBV-10 with 3:1 randomisation, HBV-16 with 4:1 randomisation, and HBV-23 with 2:1 randomisation) including 9 365 adults aged 18 to 70 years given HEPLISAV B, and 3 867 adults given the comparator hepatitis B vaccine (HepBalum 20 mcg HBsAg). HEPLISAV B was given as a 2-dose schedule at 0 and 1 month and HepBalum was given using a 3-dose schedule at 0, 1, and 6 months.
 
-Baseline characteristics were balanced between the treatment arms for age, sex, race, ethnicity, and body mass index (BMI). In the pooled analysis including all 3 trials, the mean age was 49.3 and 49.4 in the HEPLISAV B arm and Engerix-B arms, respectively and there were 50.8% and 51.5% female participants who received HEPLISAV B and Engerix-B, respectively.
+Baseline characteristics were balanced between the treatment arms for age, gender, race, ethnicity, and body mass index (BMI). In the pooled analysis including all 3 trials, the mean age was 49.3 and 49.4 in the HEPLISAV B arm and HepB-alum arms, respectively and there were 50.8% and 51.5% female participants who received HEPLISAV B and HepB-alum, respectively.
 
-The trials evaluated the seroprotection rates (SPR: percentage of vaccinated persons whose anti-HBs antibody levels were ≥ 10 mIU/ml after vaccination) after the second dose of HEPLISAV B compared to after the third dose of Engerix-B. The SPR and peak geometric mean concentration (GMC) after a 2-dose schedule of HEPLISAV B were statistically significantly higher than after a 3-dose schedule of Engerix-B (lower bound of the 95% confidence interval of the difference in SPRs between HEPLISAV B and Engerix-B was greater than 0%; lower bound of the 95% confidence interval of the ratio of GMCs between HEPLISAV B and Engerix-B was greater than 1.0) in all 3 trials (Table 1, Table 2).
+The trials evaluated the seroprotection rates (SPR: percentage of vaccinated persons whose anti-HBs antibody levels were ≥ 10 mIU/mL after vaccination) after the second dose of HEPLISAV B compared to after the third dose of HepB-alum. The SPR and peak geometric mean concentration (GMC) after a 2-dose schedule of HEPLISAV B were statistically significantly higher than after a 3dose schedule of HepB-alum (lower bound of the 95% confidence interval of the difference in SPRs between HEPLISAV B and HepB-alum was greater than 0%; lower bound of the 95% confidence interval of the ratio of GMCs between HEPLISAV B and HepB-alum was greater than 1) in all 3 trials (Table 1, Table 2).
 
-Table 1 Comparison of Seroprotection Rates Between HEPLISAV B and Engerix-B at Peak Weeks in Pooled Trials HBV-23, HBV-16 and HBV-10 (mITT Population)
+Table 1 Comparison of seroprotection rates between HEPLISAV B and HepB-alum at peak weeks in pooled trials HBV-23, HBV-16 and HBV-10 (mITT population)
 
-| HEPLISAV B   | HEPLISAV B   | HEPLISAV B         | Engerix-B   | Engerix-B   | Engerix-B          | Difference                        |
+| HEPLISAV B   | HEPLISAV B   | HEPLISAV B         | HepB-alum   | HepB-alum   | HepB-alum          | Difference                        |
 |--------------|--------------|--------------------|-------------|-------------|--------------------|-----------------------------------|
-| N            | n            | SPR (%) (95% CI)   | N           | n           | SPR (%) (95% CI)   | (HEPLISAV B - Engerix-B) (95% CI) |
-| 8701         | 8327         | 95.7 (95.3 - 96.1) | 3643        | 2898        | 79.5 (78.2 - 80.8) | 16.2 (14.8 - 17.6)                |
+| N            | n            | SPR (%) (95% CI)   | N           | n           | SPR (%) (95% CI)   | (HEPLISAV B - HepB-alum) (95% CI) |
+| 8 701        | 8 327        | 95.7 (95.3 - 96.1) | 3 643       | 2 898       | 79.5 (78.2 - 80.8) | 16.2 (14.8 - 17.6)                |
 
-N = number of evaluable subjects; n = number of seroprotected subjects; SPR = Seroprotection Rate, CI = confidence interval.
-
-Seroprotection is defined as antiHBs ≥ 10 mIU/mL.
-
-Peak week comparison is for HEPLISAV B at Week 24 and Engerix-B at Week 28.
+Peak week comparison is for HEPLISAV B at week 24 and HepB-alum at week 28.
 
 The confidence intervals on seroprotection rates are calculated using the two-sided Clopper-Pearson method.
 
 The confidence interval on the difference between treatment groups is calculated using the Miettinen and Nurminen method without stratification.
 
+Table 2 Comparison of anti-HBs geometric mean concentrations at peak weeks between HEPLISAV B and HepB-alumin pooled trials HBV-23, HBV-16 and HBV-10 (mITT population)
+
+| HEPLISAV B   | HEPLISAV B            | HepB-alum   | HepB-alum             | GMCratio                          |
+|--------------|-----------------------|-------------|-----------------------|-----------------------------------|
+| N            | GMC (95% CI)          | N           | GMC (95% CI)          | (HEPLISAV B / HepB-Alum) (95% CI) |
+| 8 701        | 329.1 (317.1 - 341.5) | 3 642       | 262.3 (236.4 - 291.1) | 1.3 (1.1 - 1.4)                   |
+
+Peak week for HEPLISAV B is week 24. Peak week for HepB-alum  is week 28.
+
 <div style=\"page-break-after: always\"></div>
 
-Table 2 Comparison of Anti-HBs Geometric Mean Concentrations at Peak Weeks Between HEPLISAV B and Engerix-B in Pooled Trials HBV-23, HBV-16 and HBV-10 (mITT Population)
+SPR results were collected at each trial visit in two of the pivotal trials, HBV-10 (week 4 to 28) and HBV-16 (week 4 to 52). HEPLISAV B induced significantly higher SPRs than HepB-alum across all visits in both trials (Figure 1).
 
-| HEPLISAV B   | HEPLISAV B            | Engerix-B   | Engerix-B             | GMCRatio                          |
-|--------------|-----------------------|-------------|-----------------------|-----------------------------------|
-| N            | GMC (95% CI)          | N           | GMC (95% CI)          | (HEPLISAV B / Engerix-B) (95% CI) |
-| 8701         | 329.1 (317.1 - 341.5) | 3642        | 262.3 (236.4 - 291.1) | 1.3 (1.1 - 1.4)                   |
-
-Peak week for HEPLISAV B is Week 24. Peak week for Engerix-B is Week 28.
-
-SPR results were collected at each study visit in two of the pivotal trials, HBV-10 (week 4 to 28) and HBV-16 (week 4 to 52). HEPLISAV B induced significantly higher SPRs than Engerix-B across all study visits in both studies (Figure 1).
-
-Figure 1 Seroprotection Rates by Visit in Trials HBV-16 and HBV-10 (Per Protocol Population)
+Figure 1 Seroprotection rates by visit in trials HBV-16 and HBV-10 (per protocol population)
 
 <!-- image -->
 
-In all three trials, SPRs induced by HEPLISAV B were statistically significantly higher than those induced by Engerix-B in older adults, men, obese individuals, smokers and subjects with type 2 diabetes mellitus (Table 3).
+In all three trials, SPRs induced by HEPLISAV B were statistically significantly higher than those induced by HepB-alum in older adults, men, obese individuals, smokers and subjects with type 2 diabetes mellitus (Table 3).
 
-Table 3 Comparison of Seroprotection Rates Between HEPLISAV B and Engerix-B at Peak Weeks by Category in Pooled Trials HBV-23, HBV-16 and HBV-10 (mITT Population)
+Table 3 Comparison of seroprotection rates between HEPLISAV B and HepB-alum at peak weeks by category in pooled trials HBV-23, HBV-16 and HBV-10 (mITT population)
 
-|                   | HEPLISAV B   | HEPLISAV B   | HEPLISAV B          | Engerix-B   | Engerix-B   | Engerix-B          | Difference                        |
+|                   | HEPLISAV B   | HEPLISAV B   | HEPLISAV B          | HepB-alum   | HepB-alum   | HepB-alum          | Difference                        |
 |-------------------|--------------|--------------|---------------------|-------------|-------------|--------------------|-----------------------------------|
-| Category          | N            | n            | SPR (%) (95% CI)    | N           | n           | SPR (%) (95% CI)   | (HEPLISAV B - Engerix-B) (95% CI) |
-| All subjects      | 8701         | 8327         | 95.7 (95.3 - 96.1)  | 3643        | 2898        | 79.5 (78.2 - 80.8) | 16.2 (14.8 - 17.6)                |
-| Age Group (years) |              |              |                     |             |             |                    |                                   |
+| Category          | N            | n            | SPR (%) (95% CI)    | N           | n           | SPR (%) (95% CI)   | (HEPLISAV B - HepB-alum) (95% CI) |
+| All subjects      | 8 701        | 8 327        | 95.7 (95.3 - 96.1)  | 3 643       | 2 898       | 79.5 (78.2 - 80.8) | 16.2 (14.8 - 17.6)                |
+| Age group (years) |              |              |                     |             |             |                    |                                   |
 | 18 - 29           | 527          | 526          | 99.8 (98.9 - 100.0) | 211         | 196         | 92.9 (88.5 - 96.0) | 6.9 (4.1 - 11.2)                  |
-| 30 - 39           | 1239         | 1227         | 99.0 (98.3 - 99.5)  | 545         | 483         | 88.6 (85.7 - 91.2) | 10.4 (7.9 - 13.4)                 |
+| 30 - 39           | 1 239        | 1 227        | 99.0 (98.3 - 99.5)  | 545         | 483         | 88.6 (85.7 - 91.2) | 10.4 (7.9 - 13.4)                 |
+| 40 - 49           | 2 377        | 2 310        | 97.2 (96.4 - 97.8)  | 963         | 771         | 80.1 (77.4 - 82.5) | 17.1 (14.6 - 19.8)                |
+| 50 - 59           | 2 712        | 2 578        | 95.1 (94.2 - 95.8)  | 1 120       | 872         | 77.9 (75.3 - 80.3) | 17.2 (14.7 - 19.8)                |
+| ≥ 60              | 1 846        | 1 686        | 91.3 (90.0 - 92.6)  | 804         | 576         | 71.6 (68.4 - 74.7) | 19.7 (16.4 - 23.1)                |
+| Gender            |              |              |                     |             |             |                    |                                   |
+| Male              | 4 2744       | 055          | 94.9 (94.2 - 95.5)  | 1 765       | 1 361       | 77.1 (75.1 - 79.1) | 17.8 (15.7 - 19.9)                |
+| Female            | 4 427        | 4 272        | 96.5 (95.9 - 97.0)  | 1 878       | 1 537       | 81.8 (80.0 - 83.6) | 14.7 (12.9 - 16.5)                |
+| BMI stratum       | BMI stratum  | BMI stratum  | BMI stratum         | BMI stratum | BMI stratum | BMI stratum        | BMI stratum                       |
 
 <div style=\"page-break-after: always\"></div>
 
-| 40 - 49                                      | 2377                                         | 2310                                         | 97.2 (96.4 - 97.8)                           | 963                                          | 771                                          | 80.1 (77.4 - 82.5)                           | 17.1 (14.6 - 19.8)                           |
-|----------------------------------------------|----------------------------------------------|----------------------------------------------|----------------------------------------------|----------------------------------------------|----------------------------------------------|----------------------------------------------|----------------------------------------------|
-| 50 - 59                                      | 2712                                         | 2578                                         | 95.1 (94.2 - 95.8)                           | 1120                                         | 872                                          | 77.9 (75.3 - 80.3)                           | 17.2 (14.7 - 19.8)                           |
-| ≥ 60                                         | 1846                                         | 1686                                         | 91.3 (90.0 - 92.6)                           | 804                                          | 576                                          | 71.6 (68.4 - 74.7)                           | 19.7 (16.4 - 23.1)                           |
-| Sex                                          |                                              |                                              |                                              |                                              |                                              |                                              |                                              |
-| Male                                         | 4274                                         | 4055                                         | 94.9 (94.2 - 95.5)                           | 1765                                         | 1361                                         | 77.1 (75.1 - 79.1)                           | 17.8 (15.7 - 19.9)                           |
-| Female                                       | 4427                                         | 4272                                         | 96.5 (95.9 - 97.0)                           | 1878                                         | 1537                                         | 81.8 (80.0 - 83.6)                           | 14.7 (12.9 - 16.5)                           |
-| BMI Stratum                                  |                                              |                                              |                                              |                                              |                                              |                                              |                                              |
-| < 30 kg/m 2                                  | 4904                                         | 4728                                         | 96.4 (95.9 - 96.9)                           | 2069                                         | 1756                                         | 84.9 (83.3 - 86.4)                           | 11.5 (10.0 - 13.2)                           |
-| ≥ 30 kg/m 2                                  | 3789                                         | 3591                                         | 94.8 (94.0 - 95.5)                           | 1570                                         | 1140                                         | 72.6 (70.3 - 74.8)                           | 22.2 (19.9 - 24.5)                           |
-| Smoking Status                               |                                              |                                              |                                              |                                              |                                              |                                              |                                              |
-| Smoker                                       | 2634                                         | 2538                                         | 96.4 (95.6 - 97.0)                           | 1130                                         | 852                                          | 75.4 (72.8 - 77.9)                           | 21.0 (18.4 - 23.6)                           |
-| Non-smoker                                   | 6067                                         | 5789                                         | 95.4 (94.9 - 95.9)                           | 2513                                         | 2046                                         | 81.4 (79.8 - 82.9)                           | 14.0 (12.4 - 15.7)                           |
-| Type 2 Diabetes Status and Age Group (Years) | Type 2 Diabetes Status and Age Group (Years) | Type 2 Diabetes Status and Age Group (Years) | Type 2 Diabetes Status and Age Group (Years) | Type 2 Diabetes Status and Age Group (Years) | Type 2 Diabetes Status and Age Group (Years) | Type 2 Diabetes Status and Age Group (Years) | Type 2 Diabetes Status and Age Group (Years) |
-| With T2D 20 - 39                             | 38                                           | 37                                           | 97.4 (86.2 - 99.9)                           | 16                                           | 12                                           | 75.0 (47.6 - 92.7)                           | 22.4 (5.1 - 47.5)                            |
-| 40 - 49                                      | 163                                          | 151                                          | 92.6 (87.5 - 96.1)                           | 67                                           | 49                                           | 73.1 (60.9 - 83.2)                           | 19.5 (9.2 - 31.7)                            |
-| 50 - 59                                      | 334                                          | 303                                          | 90.7 (87.1 - 93.6)                           | 160                                          | 108                                          | 67.5 (59.7 - 74.7)                           | 23.2 (15.6 - 31.4)                           |
-| ≥ 60                                         | 377                                          | 320                                          | 84.9 (80.9 - 88.3)                           | 165                                          | 97                                           | 58.8 (50.9 - 66.4)                           | 26.1 (17.9 - 34.5)                           |
+| < 30 kg/m 2                                           | 4 904 4                                               | 728                                                   | 96.4 (95.9 - 96.9)                                    | 2 069                                                 | 1 756                                                 | 84.9 (83.3 - 86.4)                                    | 11.5 (10.0 - 13.2)                                    |
+|-------------------------------------------------------|-------------------------------------------------------|-------------------------------------------------------|-------------------------------------------------------|-------------------------------------------------------|-------------------------------------------------------|-------------------------------------------------------|-------------------------------------------------------|
+| ≥ 30 kg/m 2                                           | 3 789 3                                               | 591                                                   | 94.8 (94.0 - 95.5)                                    | 1 570                                                 | 1 140                                                 | 72.6 (70.3 - 74.8)                                    | 22.2 (19.9 - 24.5)                                    |
+| Smoking status                                        |                                                       |                                                       |                                                       |                                                       |                                                       |                                                       |                                                       |
+| Smoker                                                | 2 634                                                 | 2 538                                                 | 96.4 (95.6 - 97.0)                                    | 1 130                                                 | 852                                                   | 75.4 (72.8 - 77.9)                                    | 21.0 (18.4 - 23.6)                                    |
+| Non-smoker                                            | 6 067                                                 | 5 789                                                 | 95.4 (94.9 - 95.9)                                    | 2 513                                                 | 2 046                                                 | 81.4 (79.8 - 82.9)                                    | 14.0 (12.4 - 15.7)                                    |
+| Type 2 diabetes mellitus status and age group (years) | Type 2 diabetes mellitus status and age group (years) | Type 2 diabetes mellitus status and age group (years) | Type 2 diabetes mellitus status and age group (years) | Type 2 diabetes mellitus status and age group (years) | Type 2 diabetes mellitus status and age group (years) | Type 2 diabetes mellitus status and age group (years) | Type 2 diabetes mellitus status and age group (years) |
+| With T2D 20 - 39                                      | 38                                                    | 37                                                    | 97.4 (86.2 - 99.9)                                    | 16                                                    | 12                                                    | 75.0 (47.6 - 92.7)                                    | 22.4 (5.1 - 47.5)                                     |
+| 40 - 49                                               | 163                                                   | 151                                                   | 92.6 (87.5 - 96.1)                                    | 67                                                    | 49                                                    | 73.1 (60.9 - 83.2)                                    | 19.5 (9.2 - 31.7)                                     |
+| 50 - 59                                               | 334                                                   | 303                                                   | 90.7 (87.1 - 93.6)                                    | 160                                                   | 108                                                   | 67.5 (59.7 - 74.7)                                    | 23.2 (15.6 - 31.4)                                    |
+| ≥ 60                                                  | 377                                                   | 320                                                   | 84.9 (80.9 - 88.3)                                    | 165                                                   | 97                                                    | 58.8 (50.9 - 66.4)                                    | 26.1 (17.9 - 34.5)                                    |
 
-BMI = body mass index; CI = confidence interval; N = number of evaluable subjects; n = number of seroprotected subjects;
-
-SPR = Seroprotection Rate; T2D = type 2 diabetes.
+BMI = body mass index; CI = confidence interval; N = number of evaluable subjects; n = number of seroprotected subjects; SPR = Seroprotection rate; T2D = type 2 diabetes mellitus.
 
 Seroprotection is defined as anti-HBs = 10 mIU/mL.
 
-Peak week comparison is for HEPLISAV B at Week 24 and Engerix-B at Week 28.
+Peak week comparison is for HEPLISAV B at week 24 and HepB-alum at week 28.
 
 The confidence intervals on seroprotection rates are calculated using the two-sided Clopper-Pearson method.
 
@@ -335,47 +329,39 @@ The confidence interval on the difference between treatment groups is calculated
 
 ## Haemodialysis
 
-In a phase 1, open-label, single arm, multicentre study of 119 adults with end-stage renal disease who were undergoing haemodialysis, participants received a 4-dose regimen of HEPLISAV B at 0, 1, 2, and 4 months. The mean age was 59.9 years and 60.5% were male, 39.5% were female.
+In a phase 1, open-label, single arm, multicentre trial of 119 adults with end-stage renal disease who were undergoing haemodialysis, participants received a 4-dose regimen of HEPLISAV B at 0, 1, 2, and 4 months. The mean age was 59.9 years and 60.5% were male, 39.5% were female.
 
-The primary analysis evaluated the SPR 5 months after the first dose of HEPLISAV B. In 75 participants who received all 4 doses of HEPLISAV B, the SPR was 89.3% (95% confidence interval [CI]: 80.1%, 95.3%). In secondary analyses, 81.3% (95% CI: 70.7%, 89.4%) of subjects had an antiHBs concentration ≥100 mIU/mL. The geometric mean concentration of anti -HBs was 1061.8 mIU/mL (95% CI: 547.2, 2060.2).
+The primary analysis evaluated the SPR 5 months after the first dose of HEPLISAV B. In 75 participants who received all 4 doses of HEPLISAV B, the SPR was 89.3% (95% confidence interval [CI]: 80.1%, 95.3%). In secondary analyses, 81.3% (95% CI: 70.7%, 89.4%) of subjects had an antiHBs concentration ≥ 100 mIU/mL. The geometric mean concentration of anti-HBs was 1 061.8 mIU/mL (95% CI: 547.2, 2 060.2).
 
-In a phase 3, randomised, open-label, multicentre study of 116 adult subjects with haemodialysis-dependent CKD who were non-responders to previous hepatitis B vaccination, participants received a 1-dose booster regimen of HEPLISAV B or Fendrix, or a double booster dose of Engerix-B.
+In a phase 3, randomised, open-label, multicentre trial of 116 adult subjects with haemodialysis-dependent CKD who were non-responders to previous hepatitis B vaccination, participants received a 1-dose booster regimen of HEPLISAV B or HepB-AS04C, or a double booster dose of HepB-alum.
 
-Week 4 SPR in the HEPLISAV B group (42.1% n=16/38) was higher than the SPR in the Engerix-B group (18.9%, n=7/37) and the Fendrix group (29.3%, n=12/41). At Week 12, the SPR was 24.3% (n=9/37) in the HEPLISAV B group, 13.9% (n=5/36) in the Engerix-B group, and 26.8% (n=11/41) in the Fendrix group.
+Week 4 SPR in the HEPLISAV B group (42.1% n = 16/38) was higher than the SPR in the HepBalum group (18.9%, n = 7/37) and the HepB-AS04C group (29.3%, n = 12/41). At week 12, the SPR was 24.3% (n = 9/37) in the HEPLISAV B group, 13.9% (n = 5/36) in the HepB-alum group, and 26.8% (n = 11/41) in the HepB-AS04C group.
 
 ## Paediatric population
 
-<div style=\"page-break-after: always\"></div>
-
-The European Medicines Agency has waived the obligation to submit the results of studies with HEPLISAV B in all subsets of the paediatric population for the prevention of hepatitis B virus infection (see section 4.2 for information on paediatric use).
+The European Medicines Agency has waived the obligation to submit the results of trials with HEPLISAV B in all subsets of the paediatric population for the prevention of hepatitis B virus infection (see section 4.2 for information on paediatric use).
 
 ## 5.2 Pharmacokinetic properties
 
 The pharmacokinetic properties of the hepatitis B surface antigen used in HEPLISAV B have not been assessed.
 
-## Renal Impairment
-
-The CpG 1018 adjuvant is cleared from plasma within 24 hours in renally-impaired adults after a single dose of 3000 micrograms. Dose adjustment is not required.
+<div style=\"page-break-after: always\"></div>
 
 ## 5.3 Preclinical safety data
 
-Non-clinical data reveal no special hazard for humans based on conventional studies consisting of single-dose and repeat-dose toxicity (including local tolerance), and reproductive and developmental toxicity.
+Non-clinical data reveal no special hazard for humans based on conventional studies consisting of single-dose and repeated dose toxicity (including local tolerance), and toxicity on reproduction and development.
 
 ## 6. PHARMACEUTICAL PARTICULARS
 
 ## 6.1 List of excipients
 
-- sodium chloride
-- disodium phosphate dodecahydrate
-- sodium dihydrogen phosphate dihydrate
-- polysorbate 80 (E 433)
-- water for injections
+Sodium chloride Disodium phosphate dodecahydrate Sodium dihydrogen phosphate dihydrate Polysorbate 80 (E 433) Water for injections
 
 For adjuvants, see section 2.
 
 ## 6.2 Incompatibilities
 
-In the absence of compatibility studies, this medicinal product must not be mixed with other medicinal products.
+In the absence of compatibility trials, this medicinal product must not be mixed with other medicinal products.
 
 ## 6.3 Shelf life
 
@@ -383,17 +369,15 @@ In the absence of compatibility studies, this medicinal product must not be mixe
 
 ## 6.4 Special precautions for storage
 
-Store in a refrigerator (2°C to 8°C). Do not freeze. Keep the pre-filled syringe in the outer carton in order to protect from light.
+Store in a refrigerator (2 °C to 8 °C). Do not freeze. Keep the pre-filled syringe in the outer carton in order to protect from light.
 
 ## 6.5 Nature and contents of container
 
-0.5 ml of solution in a pre-filled syringe (Type I glass) with tip cap (synthetic isoprene-bromobutyl rubber blend) and plunger stopper (chlorobutyl rubber). The tip cap and stopper of the pre-filled syringe do not contain natural rubber latex.
+0.5 mL of solution in a pre-filled syringe (Type I glass) with tip cap (synthetic isoprene-bromobutyl rubber blend) and plunger stopper (chlorobutyl rubber). The tip cap and stopper of the pre-filled syringe do not contain natural rubber latex.
 
 Pack sizes of 1 and 5 pre-filled syringes without needle.
 
 Not all pack sizes may be marketed.
-
-<div style=\"page-break-after: always\"></div>
 
 ## 6.6 Special precautions for disposal and other handling
 
@@ -401,21 +385,25 @@ HEPLISAV B is a clear to slightly opalescent, colourless to slightly yellow liqu
 
 Any unused medicinal product or waste material should be disposed of in accordance with local requirements.
 
+<div style=\"page-break-after: always\"></div>
+
 ## 7. MARKETING AUTHORISATION HOLDER
 
 Dynavax GmbH Eichsfelder Strasse 11 D-40595 Düsseldorf Germany
 
 ## 8. MARKETING AUTHORISATION NUMBER(S)
 
-EU/1/20/1503/001 EU/1/20/1503/002
+EU/1/20/1503/001
+
+EU/1/20/1503/002
 
 ## 9. DATE OF FIRST AUTHORISATION/RENEWAL OF THE AUTHORISATION
 
-Date of first authorisation: 18 February 2021
+Date of first authorisation: 18 February 2021 Date of latest renewal:
 
 ## 10. DATE OF REVISION OF THE TEXT
 
-Detailed information on this medicinal product is available on the website of the European Medicines Agency http://www.ema.europa.eu
+Detailed information on this medicinal product is available on the website of the European Medicines Agency https://www.ema.europa.eu.
 
 <div style=\"page-break-after: always\"></div>
 
@@ -450,9 +438,7 @@ In accordance with Article 114 of Directive 2001/83/EC, the official batch relea
 
 ## · Periodic safety update reports (PSURs)
 
-The requirements for submission of PSURs for this medicinal product are set out in the list of Union reference dates (EURD list) provided for under Article 107c(7) of Directive 2001/83/EC and any subsequent updates published on the European Medicines Agency's web-portal.
-
-The marketing authorisation holder (MAH) shall submit the first PSUR for this product within 6 months following authorisation.
+The requirements for submission of PSURs for this medicinal product are set out in the list of Union reference dates (EURD list) provided for under Article 107c(7) of Directive 2001/83/EC and any subsequent updates published on the European medicines web-portal.
 
 ## D. CONDITIONS OR RESTRICTIONS WITH REGARD TO THE SAFE AND EFFECTIVE USE OF THE MEDICINAL PRODUCT
 
@@ -493,25 +479,17 @@ For adult use
 
 ## 2. STATEMENT OF ACTIVE SUBSTANCE(S)
 
-1 dose (0.5 ml) contains:
+1 dose (0.5 mL) contains:
 
-20 micrograms of hepatitis B surface antigen adjuvanted with 3000 micrograms CpG 1018 adjuvant.
+20 micrograms of hepatitis B surface antigen adjuvanted with 3 000 micrograms CpG 1018 adjuvant.
 
 ## 3. LIST OF EXCIPIENTS
 
-Sodium chloride
-
-Disodium phosphate dodecahydrate
-
-Sodium dihydrogen phosphate dihydrate
-
-Polysorbate 80
-
-Water for injections
+Sodium chloride, disodium phosphate dodecahydrate, sodium dihydrogen phosphate dihydrate, polysorbate 80 (E 433), water for injections. See leaflet for further information.
 
 ## 4. PHARMACEUTICAL FORM AND CONTENTS
 
-Solution for injection in pre-filled syringe
+Solution for injection
 
 5 pre-filled syringes without needle
 
@@ -519,7 +497,7 @@ Solution for injection in pre-filled syringe
 
 ## 5. METHOD AND ROUTE(S) OF ADMINISTRATION
 
-Intramuscular (IM) use
+Intramuscular use
 
 Read the package leaflet before use.
 
@@ -533,19 +511,15 @@ Keep out of the sight and reach of children.
 
 EXP
 
-<div style=\"page-break-after: always\"></div>
-
 ## 9. SPECIAL STORAGE CONDITIONS
 
 Store in a refrigerator. Do not freeze.
 
-Keep the pre-filled syringes in the outer carton in order to protect from light.
+<div style=\"page-break-after: always\"></div>
 
-Keep the pre-filled syringe in the outer carton in order to protect from light.
+Keep the pre-filled syringes in the outer carton in order to protect from light. Keep the pre-filled syringe in the outer carton in order to protect from light.
 
-## 10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
-
-Dispose of in accordance with local requirements.
+10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
@@ -573,9 +547,7 @@ Justification for not including Braille accepted.
 
 ## 18. UNIQUE IDENTIFIER - HUMAN READABLE DATA
 
-PC
-
-SN
+PC SN
 
 NN
 
@@ -601,7 +573,7 @@ LOT
 
 ## 5. CONTENTS BY WEIGHT, BY VOLUME OR BY UNIT
 
-1 dose (0.5 ml)
+1 dose (0.5 mL)
 
 ## 6. OTHER
 
@@ -619,13 +591,11 @@ LOT
 
 Hepatitis B vaccine (recombinant DNA, adjuvanted)
 
-This medicine is subject to additional monitoring. This will allow quick identification of new safety information. You can help by reporting any side effects you may get. See the end of section 4 for how to report side effects.
-
 ## Read all of this leaflet carefully before you receive this vaccine because it contains important information for you.
 
 - -Keep this leaflet. You may need to read it again.
-- -If you have any further questions, ask your doctor, &lt;pharmacist&gt; or nurse.
-- -If you get any side effects, talk to your doctor, &lt;pharmacist&gt; or nurse. This includes any possible side effects not listed in this leaflet. See section 4.
+- -If you have any further questions, ask your doctor, pharmacist or nurse.
+- -If you get any side effects, talk to your doctor, pharmacist or nurse. This includes any possible side effects not listed in this leaflet. See section 4.
 
 ## What is in this leaflet
 
@@ -653,9 +623,10 @@ HEPLISAV B may also protect against hepatitis D which can only occur in people w
 
 When a person is given the HEPLISAV B vaccine, it helps the body's natural defence system (immune system) produce specific protection (antibodies) against the hepatitis B virus.
 
+- HEPLISAV B contains an adjuvant, a substance which improves the body's production of antibodies and makes the protection last for longer.
+
 <div style=\"page-break-after: always\"></div>
 
-- HEPLISAV B contains an adjuvant, a substance which improves the body's production of antibodies and makes the protection last for longer.
 - A course of two injections of HEPLISAV B is required to provide full protection against hepatitis B.
 - HEPLISAV B is not used to treat a person who is already infected with the hepatitis B virus, including people infected with the hepatitis B virus and have become carriers for infection.
 
@@ -666,22 +637,22 @@ When a person is given the HEPLISAV B vaccine, it helps the body's natural defen
 - -If you are allergic to any of the components of this vaccine, including yeast (listed in section 6). Signs of an allergic reaction may include itchy skin, rash, shortness of breath and swelling of the face or tongue.
 - -If you have had a sudden life-threatening, allergic reaction after receiving HEPLISAV B in the past.
 
-HEPLISAV B should not be given if any of the above apply to you. If you are not sure, talk to your doctor, &lt;pharmacist&gt; or nurse before vaccination with HEPLISAV B.
+HEPLISAV B should not be given if any of the above apply to you. If you are not sure, talk to your doctor, pharmacist or nurse before vaccination with HEPLISAV B.
 
 ## Warnings and precautions
 
-Talk to your doctor, &lt;pharmacist&gt; or nurse before receiving HEPLISAV B:
+Talk to your doctor, pharmacist or nurse before receiving HEPLISAV B:
 
 - -If you have any allergies to any of the components of HEPLISAV B (see section 6).
 - -If you have had any health problems after having a vaccine in the past.
-- -Fainting can occur after, or even before, any injection. Therefore tell the doctor, &lt;pharmacist&gt; or nurse if you fainted with a previous injection.
-- -If you are ill with a high fever, your doctor, &lt;pharmacist&gt; or nurse will delay the vaccination until you are feeling better. A minor infection such as a cold should not be a problem, but your doctor, &lt;pharmacist&gt; or nurse will decide if you could still be vaccinated.
+- -Fainting can occur after, or even before, any injection. Therefore tell the doctor, pharmacist or nurse if you fainted with a previous injection.
+- -If you are ill with a high fever, your doctor, pharmacist or nurse will delay the vaccination until you are feeling better. A minor infection such as a cold should not be a problem, but your doctor, pharmacist or nurse will decide if you could still be vaccinated.
 
 If you are on dialysis for a kidney problem or if you have a weakened immune system your doctor may need to do a blood test to check if the vaccination has worked well enough to protect you against hepatitis B.
 
 HEPLISAV B does not protect you against other liver infections such as hepatitis A, C, and E.
 
-As with any vaccine, HEPLISAV B may not protect all people who are vaccinated. If you are not sure if any of the above apply to you, talk to your doctor, &lt;pharmacist&gt; or nurse before receiving HEPLISAV B.
+As with any vaccine, HEPLISAV B may not protect all people who are vaccinated. If you are not sure if any of the above apply to you, talk to your doctor, pharmacist or nurse before receiving HEPLISAV B.
 
 ## Children and adolescents
 
@@ -689,29 +660,31 @@ Since HEPLISAV B has not been tested fully in young people under 18 years of age
 
 ## Other medicines and HEPLISAV B
 
-Tell your doctor, &lt;pharmacist&gt; or nurse if you are taking, have recently taken or might take any other medicines or vaccines.
+Tell your doctor, pharmacist or nurse if you are taking, have recently taken or might take any other medicines or vaccines.
 
-If HEPLISAV B is given at the same time as an injection of hepatitis B 'immuno-globulins', which would be given to provide immediate, short-term protection against hepatitis B infection, your doctor, &lt;pharmacist&gt; or nurse will make sure that the two are injected into different parts of the body.
-
-<div style=\"page-break-after: always\"></div>
+If HEPLISAV B is given at the same time as an injection of hepatitis B 'immuno-globulins', which would be given to provide immediate, short-term protection against hepatitis B infection, your doctor, pharmacist or nurse will make sure that the two are injected into different parts of the body.
 
 ## Pregnancy, breast-feeding and fertility
 
 If you are pregnant or breast-feeding, think you may be pregnant or are planning to have a baby, ask your doctor for advice before receiving this vaccine.
 
-It is unknown whether HEPLISAV B is excreted in human milk. A risk to the suckling child cannot be excluded. Discuss with your doctor or nurse if you should discontinue breast-feeding or abstain from HEPLISAV B vaccination taking into account the benefit of breast-feeding for the child and the benefit of vaccination for you.
+It is unknown whether HEPLISAV B is excreted in human milk. A risk to the suckling child cannot be excluded. Discuss with your doctor or nurse if you should discontinue breast-feeding or abstain from
+
+<div style=\"page-break-after: always\"></div>
+
+HEPLISAV B vaccination taking into account the benefit of breast-feeding for the child and the benefit of vaccination for you.
 
 ## Driving and using machines
 
-You may feel tired or get a headache after receiving HEPLISAV B. If this happens, do not drive or use any tools or machines.
+You may feel tired or dizzy or get a headache after receiving HEPLISAV B. If this happens, do not drive or use any tools or machines.
 
-## HEPLISAV B contains sodium
+## HEPLISAV B contains sodium and polysorbate 80
 
-This medicine contains less than 1 mmol sodium (23 mg) per dose, that is to say essentially 'sodium free'.
+This medicine contains less than 1 mmol sodium (23 mg) per dose, that is to say essentially 'sodium free'. This medicine contains 0.05 mg of polysorbate 80 in each dose, which is equivalent to 0.1 mg/mL. Polysorbates may cause allergic reactions. Tell your doctor if you have any known allergies.
 
 ## 3. How HEPLISAV B is given
 
-The doctor, &lt;pharmacist&gt; or nurse will give HEPLISAV B as an injection into your muscle, usually in your upper arm.
+The doctor, pharmacist or nurse will give HEPLISAV B as an injection into your muscle, usually in your upper arm.
 
 For adults, the course of vaccination is 2 injections:
 
@@ -737,33 +710,34 @@ Make sure you complete the injections or you may not be fully protected. Once yo
 
 Like all medicines, this vaccine can cause side effects, although not everybody gets them.
 
-Side effects that occurred during clinical trials with HEPLISAV B were as follows:
-
 ## Serious side effects
 
-## Very rare (may affect up to 1 in 10,000 people)
+## Very rare (may affect up to 1 in 10 000 people)
 
 You should seek immediate treatment if you get any signs of a serious allergic reaction. The signs may include: face swelling, low blood pressure, difficulty breathing, loss of consciousness, fever, joint stiffness and a skin rash. Such reactions usually start very soon after injection.
 
 ## Other side effects
 
-<div style=\"page-break-after: always\"></div>
-
-## Very Common (may affect more than 1 in 10 people)
+## Very common (may affect more than 1 in 10 people)
 
 - Headache
-- Muscle aches
-- Feeling tired
+- Muscle aches (myalgia)
+- Feeling tired (fatigue)
+
+<div style=\"page-break-after: always\"></div>
+
 - Pain at the spot where the injection was given
 - Feeling unwell (malaise)
 
 ## Common (may affect up to 1 in 10 people)
 
-- Swelling or redness at the spot where the injection was given
+- Swelling at the spot where the injection was given
+- Redness at the spot where the injection was given
 - Fever
 
 ## Uncommon (may affect up to 1 in 100 people)
 
+- Allergic reactions (including hives, rash, and itchiness)
 - Feeling sick (nausea)
 - Being sick (vomiting)
 - Diarrhoea
@@ -771,14 +745,14 @@ You should seek immediate treatment if you get any signs of a serious allergic r
 - Allergic reactions (hives, rash and itchiness)
 - Itching at the spot where the injection was given
 
-## Rare (may affect up to 1 in 1,000 people)
+## Rare (may affect up to 1 in 1 000 people)
 
 - Dizziness
-- Pins and needles
+- Pins and needles (paraesthesia)
 
 ## Reporting of side effects
 
-If you get any side effects, talk to your doctor, &lt;pharmacist&gt; or nurse. This includes any possible side effects not listed in this leaflet. You can also report side effects directly via the national reporting system listed in Appendix V. By reporting side effects you can help provide more information on the safety of this medicine.
+If you get any side effects, talk to your doctor, pharmacist or nurse. This includes any possible side effects not listed in this leaflet. You can also report side effects directly via the national reporting system listed in Appendix V. By reporting side effects you can help provide more information on the safety of this medicine.
 
 ## 5. How to store HEPLISAV B
 
@@ -786,7 +760,7 @@ Keep this vaccine out of the sight and reach of children.
 
 Do not use this vaccine after the expiry date which is stated on the label and carton after EXP. The expiry date refers to the last day of that month.
 
-Store in a refrigerator (2°C - 8°C). Do not freeze.
+Store in a refrigerator (2 °C - 8 °C). Do not freeze.
 
 Keep the pre-filled syringe in the outer carton in order to protect from light.
 
@@ -798,7 +772,7 @@ Do not throw away any medicines via wastewater or household waste. Ask your phar
 
 ## What HEPLISAV B contains
 
-One dose (0.5 ml) contains:
+One dose (0.5 mL) contains:
 
 Active substances:
 
@@ -806,23 +780,17 @@ Hepatitis B surface antigen (HBsAg) 1,2
 
 20 micrograms
 
-1 Adjuvanted with 3000 micrograms CpG 1018 adjuvant, a 22-mer immunostimulatory sequence oligonucleotide
+1 Adjuvanted with 3 000 micrograms CpG 1018 adjuvant, a 22-mer immunostimulatory sequence oligonucleotide
 
 2 Produced in yeast cells ( Hansenula polymorpha ) by recombinant DNA technology
 
 Substance CpG 1018 is included in this vaccine as an adjuvant. Adjuvants are substances included in certain vaccines to accelerate, improve and/or prolong the protective effects of the vaccine.
 
-## The other ingredients are:
-
-- sodium chloride
-- disodium phosphate dodecahydrate
-- sodium dihydrogen phosphate dihydrate
-- polysorbate 80 (E 433)
-- water for injections
+The other ingredients are: sodium chloride, disodium phosphate dodecahydrate, sodium dihydrogen phosphate dihydrate, polysorbate 80 (E 433), water for injections (see section 2 'HEPLISAV B contains sodium and polysorbate 80').
 
 ## What HEPLISAV B looks like and contents of the pack
 
-HEPLISAV B is a clear to slightly milky, colourless to slightly yellow liquid for injection in pre-filled syringe.
+HEPLISAV B is a clear to slightly milky, colourless to slightly yellow solution for injection in prefilled syringe (0.5 mL).
 
 HEPLISAV B is available in packs of 1 and 5 pre-filled syringes without needles.
 
@@ -830,27 +798,25 @@ Not all pack sizes may be marketed.
 
 ## Marketing Authorisation Holder and Manufacturer
 
-Dynavax GmbH D-40595 Düsseldorf
-
-Eichsfelder Strasse 11 Germany
+Dynavax GmbH Eichsfelder Strasse 11 D-40595 Düsseldorf Germany
 
 For any information about this medicine, please contact the local representative of the Marketing Authorisation Holder:
 
-België/Belgique/Belgien, България , Česká republika, Danmark, Eesti, Ελλάδα , España, France, Hrvatska, Ireland, Ísland, Italia, Κύπρος , Latvija, Lietuva, Luxembourg/Luxemburg, Magyarország, Malta, Nederland, Norge, Österreich, Polska, Portugal, România, Slovenija, Slovenská republika, Suomi/Finland, Sverige, United Kingdom (Northern Ireland)
+België/Belgique/Belgien, България , Česká republika, Danmark, Eesti, Ελλάδα , España, France, Hrvatska, Ireland, Ísland, Italia, Κύπρος , Latvija, Lietuva, Luxembourg/Luxemburg, Magyarország, Malta, Nederland, Norge, Österreich, Polska, Portugal, România, Slovenija, Slovenská republika, Suomi/Finland, Sverige
 
 Dynavax GmbH Tél/Tel/Te л ./Tlf/ Τηλ /Sími/Puh:
 
 +49 211 758450
 
-Deutschland Bavarian Nordic A/S Tel: +49 89 26200980
+## This leaflet was last revised in .
 
-## This leaflet was last revised in { MM/YYYY }.
-
-Detailed information on this medicine is available on the European Medicines Agency web site: http://www.ema.europa.eu.
-
-<div style=\"page-break-after: always\"></div>
+Detailed information on this medicine is available on the European Medicines Agency web site: https://www.ema.europa.eu.
 
 ------------------------------------------------------------------------------------------------------------------------
+
+Deutschland Bavarian Nordic A/S Tel: +49 89 26200980
+
+<div style=\"page-break-after: always\"></div>
 
 ## The following information is intended for healthcare professionals only:
 

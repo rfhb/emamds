@@ -1,18 +1,18 @@
 ---
-document_datetime: 2025-12-29 08:42:15
+document_datetime: 2026-01-26 16:02:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/kisqali.html
 document_name: kisqali.html
 version: success
-processing_time: 0.1103382
-conversion_datetime: 2025-12-30 03:13:10.347749
+processing_time: 0.1307222
+conversion_datetime: 2026-01-29 12:45:24.593758
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.66.0
-  docling-core: 2.57.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.11.0
+  docling-jobkit: 1.9.0
+  docling: 2.70.0
+  docling-core: 2.61.0
+  docling-ibm-models: 3.11.0
+  docling-parse: 4.7.3
   python: cpython-313 (3.13.11)
   plaform: macOS-26.2-arm64-arm-64bit-Mach-O
 ---
@@ -25,8 +25,6 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 ribociclib Medicine Human Authorised
-
-On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -135,7 +133,7 @@ English (EN) (137.81 KB - PDF)
 
 [View](/en/documents/overview/kisqali-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-835)
+[Other languages (22)](#file-language-dropdown-188)
 
 български (BG) (151.56 KB - PDF)
 
@@ -403,11 +401,11 @@ svenska (SV) (125.16 KB - PDF)
 
 Kisqali :  EPAR - Risk management plan
 
-English (EN) (56.93 MB - PDF)
+English (EN) (1.56 MB - PDF)
 
 **First published:** 30/01/2019
 
-**Last updated:** 16/12/2024
+**Last updated:** 26/01/2026
 
 [View](/en/documents/rmp/kisqali-epar-risk-management-plan_en.pdf)
 
@@ -415,17 +413,17 @@ English (EN) (56.93 MB - PDF)
 
 Kisqali : EPAR - Product Information
 
-English (EN) (925.45 KB - PDF)
+English (EN) (858.94 KB - PDF)
 
 **First published:** 31/08/2017
 
-**Last updated:** 12/11/2025
+**Last updated:** 26/01/2026
 
 [View](/en/documents/product-information/kisqali-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-575)
+[Other languages (24)](#file-language-dropdown-114)
 
-български (BG) (992.02 KB - PDF)
+български (BG) (1 MB - PDF)
 
 **First published:**
 
@@ -433,11 +431,11 @@ English (EN) (925.45 KB - PDF)
 
 **Last updated:**
 
-12/11/2025
+26/01/2026
 
 [View](/bg/documents/product-information/kisqali-epar-product-information_bg.pdf)
 
-español (ES) (972.91 KB - PDF)
+español (ES) (940.04 KB - PDF)
 
 **First published:**
 
@@ -445,11 +443,11 @@ español (ES) (972.91 KB - PDF)
 
 **Last updated:**
 
-12/11/2025
+26/01/2026
 
 [View](/es/documents/product-information/kisqali-epar-product-information_es.pdf)
 
-čeština (CS) (1007.45 KB - PDF)
+čeština (CS) (971.11 KB - PDF)
 
 **First published:**
 
@@ -457,11 +455,11 @@ español (ES) (972.91 KB - PDF)
 
 **Last updated:**
 
-12/11/2025
+26/01/2026
 
 [View](/cs/documents/product-information/kisqali-epar-product-information_cs.pdf)
 
-dansk (DA) (968.06 KB - PDF)
+dansk (DA) (939.58 KB - PDF)
 
 **First published:**
 
@@ -469,11 +467,11 @@ dansk (DA) (968.06 KB - PDF)
 
 **Last updated:**
 
-12/11/2025
+26/01/2026
 
 [View](/da/documents/product-information/kisqali-epar-product-information_da.pdf)
 
-Deutsch (DE) (994.56 KB - PDF)
+Deutsch (DE) (1005.66 KB - PDF)
 
 **First published:**
 
@@ -481,11 +479,11 @@ Deutsch (DE) (994.56 KB - PDF)
 
 **Last updated:**
 
-12/11/2025
+26/01/2026
 
 [View](/de/documents/product-information/kisqali-epar-product-information_de.pdf)
 
-eesti keel (ET) (985.08 KB - PDF)
+eesti keel (ET) (953.22 KB - PDF)
 
 **First published:**
 
@@ -493,11 +491,11 @@ eesti keel (ET) (985.08 KB - PDF)
 
 **Last updated:**
 
-12/11/2025
+26/01/2026
 
 [View](/et/documents/product-information/kisqali-epar-product-information_et.pdf)
 
-ελληνικά (EL) (1.06 MB - PDF)
+ελληνικά (EL) (1.01 MB - PDF)
 
 **First published:**
 
@@ -505,11 +503,11 @@ eesti keel (ET) (985.08 KB - PDF)
 
 **Last updated:**
 
-12/11/2025
+26/01/2026
 
 [View](/el/documents/product-information/kisqali-epar-product-information_el.pdf)
 
-français (FR) (1.01 MB - PDF)
+français (FR) (971.67 KB - PDF)
 
 **First published:**
 
@@ -517,11 +515,11 @@ français (FR) (1.01 MB - PDF)
 
 **Last updated:**
 
-12/11/2025
+26/01/2026
 
 [View](/fr/documents/product-information/kisqali-epar-product-information_fr.pdf)
 
-hrvatski (HR) (1.07 MB - PDF)
+hrvatski (HR) (1016.58 KB - PDF)
 
 **First published:**
 
@@ -529,11 +527,11 @@ hrvatski (HR) (1.07 MB - PDF)
 
 **Last updated:**
 
-12/11/2025
+26/01/2026
 
 [View](/hr/documents/product-information/kisqali-epar-product-information_hr.pdf)
 
-íslenska (IS) (974.1 KB - PDF)
+íslenska (IS) (945.02 KB - PDF)
 
 **First published:**
 
@@ -541,11 +539,11 @@ hrvatski (HR) (1.07 MB - PDF)
 
 **Last updated:**
 
-12/11/2025
+26/01/2026
 
 [View](/is/documents/product-information/kisqali-epar-product-information_is.pdf)
 
-italiano (IT) (973.8 KB - PDF)
+italiano (IT) (939.17 KB - PDF)
 
 **First published:**
 
@@ -553,11 +551,11 @@ italiano (IT) (973.8 KB - PDF)
 
 **Last updated:**
 
-12/11/2025
+26/01/2026
 
 [View](/it/documents/product-information/kisqali-epar-product-information_it.pdf)
 
-latviešu valoda (LV) (997.27 KB - PDF)
+latviešu valoda (LV) (962.19 KB - PDF)
 
 **First published:**
 
@@ -565,11 +563,11 @@ latviešu valoda (LV) (997.27 KB - PDF)
 
 **Last updated:**
 
-12/11/2025
+26/01/2026
 
 [View](/lv/documents/product-information/kisqali-epar-product-information_lv.pdf)
 
-lietuvių kalba (LT) (1.02 MB - PDF)
+lietuvių kalba (LT) (1015.03 KB - PDF)
 
 **First published:**
 
@@ -577,11 +575,11 @@ lietuvių kalba (LT) (1.02 MB - PDF)
 
 **Last updated:**
 
-12/11/2025
+26/01/2026
 
 [View](/lt/documents/product-information/kisqali-epar-product-information_lt.pdf)
 
-magyar (HU) (1020.35 KB - PDF)
+magyar (HU) (988.05 KB - PDF)
 
 **First published:**
 
@@ -589,11 +587,11 @@ magyar (HU) (1020.35 KB - PDF)
 
 **Last updated:**
 
-12/11/2025
+26/01/2026
 
 [View](/hu/documents/product-information/kisqali-epar-product-information_hu.pdf)
 
-Malti (MT) (1.06 MB - PDF)
+Malti (MT) (1.03 MB - PDF)
 
 **First published:**
 
@@ -601,11 +599,11 @@ Malti (MT) (1.06 MB - PDF)
 
 **Last updated:**
 
-12/11/2025
+26/01/2026
 
 [View](/mt/documents/product-information/kisqali-epar-product-information_mt.pdf)
 
-Nederlands (NL) (1008.15 KB - PDF)
+Nederlands (NL) (978.68 KB - PDF)
 
 **First published:**
 
@@ -613,11 +611,11 @@ Nederlands (NL) (1008.15 KB - PDF)
 
 **Last updated:**
 
-12/11/2025
+26/01/2026
 
 [View](/nl/documents/product-information/kisqali-epar-product-information_nl.pdf)
 
-norsk (NO) (947.93 KB - PDF)
+norsk (NO) (916.41 KB - PDF)
 
 **First published:**
 
@@ -625,11 +623,11 @@ norsk (NO) (947.93 KB - PDF)
 
 **Last updated:**
 
-12/11/2025
+26/01/2026
 
 [View](/no/documents/product-information/kisqali-epar-product-information_no.pdf)
 
-polski (PL) (1.02 MB - PDF)
+polski (PL) (1014.62 KB - PDF)
 
 **First published:**
 
@@ -637,11 +635,11 @@ polski (PL) (1.02 MB - PDF)
 
 **Last updated:**
 
-12/11/2025
+26/01/2026
 
 [View](/pl/documents/product-information/kisqali-epar-product-information_pl.pdf)
 
-português (PT) (991.68 KB - PDF)
+português (PT) (955.83 KB - PDF)
 
 **First published:**
 
@@ -649,11 +647,11 @@ português (PT) (991.68 KB - PDF)
 
 **Last updated:**
 
-12/11/2025
+26/01/2026
 
 [View](/pt/documents/product-information/kisqali-epar-product-information_pt.pdf)
 
-română (RO) (1.01 MB - PDF)
+română (RO) (1000.13 KB - PDF)
 
 **First published:**
 
@@ -661,11 +659,11 @@ română (RO) (1.01 MB - PDF)
 
 **Last updated:**
 
-12/11/2025
+26/01/2026
 
 [View](/ro/documents/product-information/kisqali-epar-product-information_ro.pdf)
 
-slovenčina (SK) (1.02 MB - PDF)
+slovenčina (SK) (1007.36 KB - PDF)
 
 **First published:**
 
@@ -673,11 +671,11 @@ slovenčina (SK) (1.02 MB - PDF)
 
 **Last updated:**
 
-12/11/2025
+26/01/2026
 
 [View](/sk/documents/product-information/kisqali-epar-product-information_sk.pdf)
 
-slovenščina (SL) (1.02 MB - PDF)
+slovenščina (SL) (1006.73 KB - PDF)
 
 **First published:**
 
@@ -685,11 +683,11 @@ slovenščina (SL) (1.02 MB - PDF)
 
 **Last updated:**
 
-12/11/2025
+26/01/2026
 
 [View](/sl/documents/product-information/kisqali-epar-product-information_sl.pdf)
 
-Suomi (FI) (961.8 KB - PDF)
+Suomi (FI) (929 KB - PDF)
 
 **First published:**
 
@@ -697,11 +695,11 @@ Suomi (FI) (961.8 KB - PDF)
 
 **Last updated:**
 
-12/11/2025
+26/01/2026
 
 [View](/fi/documents/product-information/kisqali-epar-product-information_fi.pdf)
 
-svenska (SV) (917.19 KB - PDF)
+svenska (SV) (904.41 KB - PDF)
 
 **First published:**
 
@@ -709,11 +707,11 @@ svenska (SV) (917.19 KB - PDF)
 
 **Last updated:**
 
-12/11/2025
+26/01/2026
 
 [View](/sv/documents/product-information/kisqali-epar-product-information_sv.pdf)
 
-**Latest procedure affecting product information:** VR/0000303549 20/10/2025
+**Latest procedure affecting product information:** VR/0000323497 23/01/2026
 
 icon globe
 
@@ -739,7 +737,7 @@ English (EN) (101.3 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/kisqali-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-719)
+[Other languages (24)](#file-language-dropdown-412)
 
 български (BG) (150.03 KB - PDF)
 
@@ -1049,7 +1047,7 @@ Novartis Europharm Limited
 
 Vista Building
 
-Opinion adopted 22/06/2017 Marketing authorisation issued 22/08/2017 Revision 23
+Opinion adopted 22/06/2017 Marketing authorisation issued 22/08/2017 Revision 25
 
 ## Assessment history
 
@@ -1061,11 +1059,11 @@ Collapse section
 
 Kisqali : EPAR - Procedural steps taken and scientific information after authorisation
 
-English (EN) (357.16 KB - PDF)
+English (EN) (158.69 KB - PDF)
 
 **First published:** 25/09/2025
 
-**Last updated:** 12/11/2025
+**Last updated:** 26/01/2026
 
 [View](/en/documents/procedural-steps-after/kisqali-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf)
 
@@ -1078,6 +1076,16 @@ English (EN) (123.62 KB - PDF)
 **Last updated:** 25/09/2025
 
 [View](/en/documents/procedural-steps-after/kisqali-epar-procedural-steps-taken-scientific-information-after-authorisation-archive_en.pdf)
+
+Kisqali-PSUSA-00010633-202503 : EPAR - Scientific conclusions and grounds for the variation to the terms of the marketing authorisation
+
+Reference Number: EMADOC-1700519818-2853524
+
+English (EN) (165.29 KB - PDF)
+
+**First published:** 26/01/2026
+
+[View](/en/documents/scientific-conclusion/kisqali-psusa-00010633-202503-epar-scientific-conclusions-grounds-variation-terms-marketing-authorisation_en.pdf)
 
 Kisqali-H-C-004213-II-0045 : EPAR - Assessment report - Variation
 
@@ -1177,7 +1185,7 @@ English (EN) (68.19 KB - PDF)
 
 - [Medicines](https://www.ema.europa.eu/en/search?f%5B0%5D=ema_search_topics%3A61)
 
-**This page was last updated on** 12/11/2025
+**This page was last updated on** 26/01/2026
 
 ## Share this page
 

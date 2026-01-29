@@ -1,18 +1,18 @@
 ---
-document_datetime: 2023-09-21 22:22:23
+document_datetime: 2026-01-28 12:25:31
 document_pages: 38
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/vpriv-epar-product-information_en.pdf
 document_name: vpriv-epar-product-information_en.pdf
 version: success
-processing_time: 7.1029683
-conversion_datetime: 2025-12-22 12:09:52.721682
+processing_time: 7.6295605
+conversion_datetime: 2026-01-29 12:46:06.514311
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.64.1
-  docling-core: 2.55.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.11.0
+  docling-jobkit: 1.9.0
+  docling: 2.70.0
+  docling-core: 2.61.0
+  docling-ibm-models: 3.11.0
+  docling-parse: 4.7.3
   python: cpython-313 (3.13.11)
   plaform: macOS-26.2-arm64-arm-64bit-Mach-O
 ---
@@ -32,7 +32,7 @@ Each vial contains 400 Units* of velaglucerase alfa**.
 
 After reconstitution, one ml of the solution contains 100 Units of velaglucerase alfa.
 
-*An enzyme unit is defined as the amount of enzyme that is required to convert one micromole of p-nitrophenyl β-D-glucopyranoside to p-nitrophenol per minute at 37 ºC.
+*An enzyme unit is defined as the amount of enzyme that is required to convert one micromole of p -nitrophenyl β -D-glucopyranoside to p -nitrophenol per minute at 37 ºC.
 
 **produced in an HT-1080 human fibroblast cell line by recombinant DNA technology.
 
@@ -84,7 +84,7 @@ No dosing adjustment is recommended in patients with hepatic impairment based on
 
 ## Paediatric population
 
-Twenty of the 94 patients (21%) who received velaglucerase alfa during clinical studies were in the paediatric and adolescent age range (4 to 17 years). The safety and efficacy profiles were similar between paediatric and adult patients (see section 5.1 for further information).
+Twenty of the 94 patients (21%) who received velaglucerase alfa during clinical studies were in the paediatric and adolescent age range (4 to 17 years). The safety and efficacy profiles were similar between paediatric and adult patients (see section 5.1 for further information). Data on home infusion in the paediatric population by the patient or a patient's caregiver are very limited.
 
 The safety and efficacy of velaglucerase alfa in children below the age of 4 years have not yet been established. No data are available.
 
@@ -92,7 +92,9 @@ The safety and efficacy of velaglucerase alfa in children below the age of 4 yea
 
 For intravenous infusion use only. To be administered as a 60-minute intravenous infusion. Must be administered through a 0.2 or 0.22 µm filter.
 
-Home administration under the supervision of a healthcare professional may be considered only for those patients who have received at least three infusions and were tolerating their infusions well. Appropriate medical support, including adequately trained personnel in emergency measures, should be readily available when velaglucerase alfa is administered. If anaphylactic or other acute reactions occur, immediately discontinue the infusion and initiate appropriate medical treatment (see section 4.4).
+Home administration by a healthcare professional or self-administration (i.e. administration by the patient's caregiver or by the patients themselves) may be considered for patients who have received at least three infusions and who tolerated their infusions well. The decision to have a patient move to home infusion should be made after evaluation and recommendation by the treating physician. Self-administration in particular should be closely monitored by the treating physician and should occur in the presence of a responsible adult.
+
+The treating physician has to make sure that the one who will administer velaglucerase alfa in the home setting is appropriately trained. Dose and infusion rate should remain constant while at home, and not be changed without supervision of the treating physician. Appropriate medical support, including personnel adequately trained in emergency measures, should be readily available when velaglucerase alfa is administered. If anaphylactic or other acute reactions occur, immediately discontinue the infusion and initiate appropriate medical treatment (see section 4.4). Subsequent infusions may need to occur in a clinical setting.
 
 For instructions on reconstitution and dilution of the medicinal product before administration, see section 6.6.
 
@@ -108,15 +110,15 @@ In order to improve the traceability of biological medicinal products, the name 
 
 ## Hypersensitivity
 
-Hypersensitivity reactions, including symptoms consistent with anaphylaxis, have been reported in patients in clinical studies and in post-marketing experience. The majority of hypersensitivity reactions usually occur up to 12 hours post infusion. The most frequently reported symptoms of hypersensitivity include nausea, rash dyspnoea, back pain, chest discomfort (including chest tightness), urticaria, arthralgia, and headache.
-
-## Infusion-related reactions
-
-An infusion-related reaction is defined as any adverse drug reaction occurring within 24 hours after the initiation of velaglucerase alfa infusion. Infusion-related reactions (IRR) were the most commonly observed adverse reactions in patients treated in clinical studies. An IRR often appears as a
+Hypersensitivity reactions, including symptoms consistent with anaphylaxis, have been reported in patients in clinical studies and in post-marketing experience. The majority of hypersensitivity reactions usually occur up to 12 hours post infusion. The most frequently reported symptoms of
 
 <div style=\"page-break-after: always\"></div>
 
-hypersensitivity reaction. The most frequently reported symptoms of hypersensitivity include nausea, rash, dyspnoea, back pain, chest discomfort (including chest tightness), urticaria, arthralgia, and headache. Symptoms consistent with anaphylaxis have been reported in patients in clinical studies and in post-marketing experience. Apart from symptoms associated with hypersensitivity reactions IRRs might show as fatigue, dizziness, pyrexia, blood pressure increase, pruritus, vision blurred, or vomiting. In treatment-naïve patients, the majority of infusion-related reactions occurred during the first 6 months of treatment.
+hypersensitivity include nausea, rash dyspnoea, back pain, chest discomfort (including chest tightness), urticaria, arthralgia, and headache.
+
+## Infusion-related reactions
+
+An infusion-related reaction is defined as any adverse drug reaction occurring within 24 hours after the initiation of velaglucerase alfa infusion. Infusion-related reactions (IRR) were the most commonly observed adverse reactions in patients treated in clinical studies. An IRR often appears as a hypersensitivity reaction. The most frequently reported symptoms of hypersensitivity include nausea, rash, dyspnoea, back pain, chest discomfort (including chest tightness), urticaria, arthralgia, and headache. Symptoms consistent with anaphylaxis have been reported in patients in clinical studies and in post-marketing experience. Apart from symptoms associated with hypersensitivity reactions IRRs might show as fatigue, dizziness, pyrexia, blood pressure increase, pruritus, vision blurred, or vomiting. In treatment-naïve patients, the majority of infusion-related reactions occurred during the first 6 months of treatment.
 
 ## Prevention and management of infusion related reactions including hypersensitivity reactions
 
@@ -130,27 +132,23 @@ Pre-treatment with antihistamines and/or corticosteroids may prevent subsequent 
 
 ## Immunogenicity
 
-Antibodies may play a role in treatment-related reactions found with the use of velaglucerase alfa. To further evaluate the relationship, in cases of severe infusion-related reactions and in cases of lack or loss of effect, patients should be tested for the presence of antibodies and the results reported to the company.
-
-In the clinical studies for Marketing Authorisation one of 94 (1%) patients developed IgG-class antibodies to velaglucerase alfa. In this one event, the antibodies were determined to be neutralising in an in vitro assay.
-
-No patients developed IgE antibodies to velaglucerase alfa.
-
-No infusion related reactions were reported.
+Development of antibodies to velaglucerase alfa may be associated with infusion-related reactions including allergic-type hypersensitivity reactions. In the clinical studies for Marketing Authorisation one of 94 (1%) patients developed IgG-class antibodies to velaglucerase alfa. In this one event, the antibodies were determined to be neutralising in an in vitro assay. No patients developed IgE antibodies to velaglucerase alfa.
 
 ## Post-marketing phase
 
 During a post marketing extension study, one patient developed IgG antibodies to VPRIV. In addition, a few events of positive neutralising antibodies and lack of effect were reported post marketing.
 
+If the physician suspects a lack/loss of effect that may be related to antibody formation the patient may be tested for antibodies at the physician's discretion. For further information on requesting antibody testing services, please contact medinfoEMEA@takeda.com.
+
 ## Sodium
 
 This medicinal product contains 12.15 mg sodium per vial. This is equivalent to 0.6% of the WHO recommended maximum daily intake of 2 g sodium for an adult.
 
+<div style=\"page-break-after: always\"></div>
+
 ## 4.5 Interaction with other medicinal products and other forms of interaction
 
 No interaction studies have been performed.
-
-<div style=\"page-break-after: always\"></div>
 
 ## 4.6 Fertility, pregnancy and lactation
 
@@ -205,8 +203,6 @@ Table 1: Adverse reactions reported with VPRIV in patients with type 1 Gaucher d
 | General disorders and administration site conditions | infusion-related reaction, asthenia/fatigue, pyrexia/body temperature increased | chest discomfort*                                                                                   |                    |
 | Investigations                                       |                                                                                 | activated partial thromboplastin time prolonged, neutralizing antibody positive                     |                    |
 
-*Adverse reactions derived from post-marketing reports
-
 ## Description of selected adverse reactions
 
 ## Vomiting
@@ -215,7 +211,7 @@ In some cases vomiting can be serious and severe. Vomiting most often occurs dur
 
 ## Other special populations
 
-## Elderly population (≥ 65 years)
+Elderly population (≥ 65 years)
 
 The safety profile of VPRIV in clinical studies involving patients aged 65 years and above was similar to that observed in other adult patients.
 
@@ -307,13 +303,13 @@ In the paediatric population (ages 4 to 17 years studied), increases in the mean
 
 These treatment effects on haemoglobin, platelet count, organ volumes, bone mineral density and height were maintained through the end of the study.
 
-## Study 402
+Study 402
 
 Study 402 was a Phase IV, open-label, single-arm study that evaluated the effect of VPRIV on bonerelated pathology in 21 treatment naïve adult subjects with type 1 Gaucher disease. The primary efficacy analysis was conducted in 16 subjects that completed 24 months of VPRIV treatment with a median age of 46 years at baseline and baseline mean (SD) BMD Z-score of -1.93 (0.876).
 
 <div style=\"page-break-after: always\"></div>
 
-In this study, the primary efficacy endpoint was the change from baseline to 24 months in LS BMD Z-score as measured by the DXA method. A positive trend for the primary efficacy endpoint was seen [change in LS BMD Z-score baseline to 24 months mean (SD) 0.17 (0.394), 95% CI -0.04, 0.38; but the effect was not statistically significant (p-value 0.1077). No relevant effect of VPRIV on LS BMD Z-score was seen after 1 year of treatment.
+In this study, the primary efficacy endpoint was the change from baseline to 24 months in LS BMD Z-score as measured by the DXA method. A positive trend for the primary efficacy endpoint was seen [change in LS BMD Z-score baseline to 24 months mean (SD) 0.17 (0.394), 95% CI -0.04, 0.38]; but the effect was not statistically significant (p-value 0.1077). No relevant effect of VPRIV on LS BMD Z-score was seen after 1 year of treatment.
 
 The secondary endpoints [ITT population: OC (observed cases)] as seen in Table 3 below were in line with the previous studies.
 
@@ -421,31 +417,25 @@ Any unused medicinal product or waste material should be disposed of in accordan
 
 ## 7. MARKETING AUTHORISATION HOLDER
 
-Takeda Pharmaceuticals International AG Ireland Branch Block 2 Miesian Plaza 50-58 Baggot Street Lower Dublin 2 D02 HW68 Ireland
-
-## 8. MARKETING AUTHORISATION NUMBER(S)
-
-EU/1/10/646/002
+Takeda Pharmaceuticals International AG Ireland Branch Block 2 Miesian Plaza 50-58 Baggot Street Lower Dublin 2 D02 HW68 Ireland medinfoEMEA@takeda.com
 
 <div style=\"page-break-after: always\"></div>
 
-EU/1/10/646/005
+## 8. MARKETING AUTHORISATION NUMBERS
 
-9.
+EU/1/10/646/002 EU/1/10/646/005
 
-DATE OF FIRST AUTHORISATION/RENEWAL OF THE AUTHORISATION
+EU/1/10/646/006
+
+## 9. DATE OF FIRST AUTHORISATION/RENEWAL OF THE AUTHORISATION
 
 Date of first authorisation: 26 August 2010
 
 Date of latest renewal: 23 July 2020
 
-10.
+## 10. DATE OF REVISION OF THE TEXT
 
-DATE OF REVISION OF THE TEXT
-
-Detailed information on this medicinal product is available on the website of the European Medicines Agency http://www.ema.europa.eu
-
-14
+Detailed information on this medicinal product is available on the website of the European Medicines Agency https://www.ema.europa.eu
 
 <div style=\"page-break-after: always\"></div>
 
@@ -492,7 +482,7 @@ The requirements for submission of PSURs for this medicinal product are set out 
 
 The marketing authorization holder (MAH) shall perform the required pharmacovigilance activities and interventions detailed in the agreed RMP presented in Module 1.8.2 of the marketing authorisation and any agreed subsequent updates of the RMP.
 
-An updated RMP should be submitted:
+## An updated RMP should be submitted:
 
 -  At the request of the European Medicines Agency.
 -  Whenever the risk management system is modified, especially as the result of new information being received that may lead to a significant change to the benefit/risk profile or as the result of an important (pharmacovigilance or risk minimisation) milestone being reached.
@@ -501,44 +491,45 @@ If the dates of submission of a PSUR and the update of a RMP coincide, they can 
 
 ##  Additional risk minimisation measures
 
-The MAH must agree on the content and format of the educational materials for use of VPRIV in home infusion, including communication media, distribution modalities and any other aspects of the programme, with the National Competent Authority.
+Prior to the use of VPRIV in each Member State, the MAH must agree about the content and format of the educational material including communication media, distribution modalities and any other aspects of the programme, with the National Competent Authority.
 
-The educational materials for the use of VPRIV in home infusion are aimed at providing guidance on how to manage risk of infusion-related reactions including allergic-type hypersensitivity reactions in a home setting.
+The educational material is aimed to enable healthcare professionals in the appropriate selection of patients for home infusion, optimal dosing and administration of the product and safety management during home treatment with velaglucerase.
 
-The MAH shall ensure that in each Member State where VPRIV is marketed, all healthcare professionals, nurses and patients/carers who are expected to prescribe, dispense or use VPRIV have access to/are provided with the following educational package:
+The MAH shall ensure that in each Member State where velaglucerase is marketed, all healthcare professionals, and patients/carers who are expected to prescribe, dispense or use velaglucerase have access to/are provided with the following educational package:
 
--  Educational materials for nurses and for patients with Gaucher Disease who receive home infusion;
--  Guide for Healthcare Professionals Treating Patients with Gaucher Disease;
+-  Healthcare Professional (HCP) Guide
+-  Educational material for nurses/patients/caregivers
 
-The educational materials for nurses and for patients with Gaucher Disease who receive home infusion should contain the following key elements:
+## Healthcare Professional (HCP) Guide
 
--  A description of the correct preparation and administration technique
--  Information about risks of the product, particularly hypersensitivity reactions
--  Infusion diary should be used as the communication tool between all involved in the infusion. It includes:
-- o Infusion plan with dose, infusion rate etc. determined and filled in by the physician
-- o Information about antibody testing
-- o Documentation of the individual infusions, adverse events and measures by the person infusing
--  In the emergency plan, the physician determines for the individual patient how to act in an emergency.
-
-The Guide for Healthcare Professionals Treating Patients with Gaucher Disease should contain the following key elements:
-
+-  Enhance awareness on the risk of IRRs including hypersensitivity reactions associated with velaglucerase.
 -  Checklist to determine patient eligibility prior to initiation of home infusion:
-- o Patient had at least 3 consecutive well-tolerated VPRIV infusions (no infusion related reactions) in the clinic.
+- o Patient had at least 3 consecutive well-tolerated velaglucerase infusions (no infusion related reactions) in the clinic.
 - o Patient assessed to be medically stable.
 - o History of adherence to infusion schedule.
+- o The homecare nurse, patient and/or caregiver have been trained about home infusion, the associated risks, and how to act in an emergency.
+- o The homecare nurse, patient and/or caregiver has received the educational material for nurses/patients.
+-  Detailed description of the administration procedures of VPRIV
+-  Infusion diary is the communication tool for all involved in the infusion. It should be provided to patient/caregiver. It should include:
+- o The infusion plan determined by the treating physician including dose, infusion rate etc., and any changes
+- o A record of the actual infusions administered by the infusing person including health status of the patient before, during and after infusion and measures taken in response to an adverse event
 
 <div style=\"page-break-after: always\"></div>
 
-- o The homecare nurse, patient and/or caregiver have been trained about home infusion, the associated risks, how to act in an emergency.
-- o The homecare nurse, patient and/or caregiver has received the educational material for nurses/patients
--  Detailed description of the administration procedures of VPRIV
--  Instructions indicating when to notify healthcare nurse or prescriber for adverse event reporting and antibody testing.
--  Information on antibodies testing even in a home infusion setting in case of a hypersensitivity reaction or decreasing efficacy. Information on when to take samples, where they can be analysed and how to communicate test results.
+-  The physician should ensure that the medications for pre-treatment, and/or treatment of IRR are prescribed and readily available and that the nurse/patient/caregiver knows how to utilize medications for pre-medication and/or treatment of serious IRRs when needed.
+-  The physician is responsible that the homecare nurse, patient and/or caregiver is adequately trained in preparing, administering and documenting the infusions and that they are aware of risks and trained to act in emergencies adequately including communication of adverse events to the treating physician.
+
+## Educational material for nurses/patients/caregivers
+
+-  A description of the correct preparation and administration technique.
+-  Emphasize the importance of adhering to the dosing and infusion rate prescribed by the physician.
+-  Any medication prescribed by the treating physician for pre-treatment, and/or treatment of any IRRs should be readily available at home. Importance to follow on any instructions regarding medication for pre-treatment and/or treatment of serious IRRs and knows how to utilize it.
+-  Information on signs and symptoms related to IRRs
 -  Infusion diary is the communication tool for all involved in the infusion. It should be provided to patient/caregiver. It should include:
-- o The infusion plan determined by the treating physician including dose, infusion rate etc. and any changes
+- o The infusion plan determined by the treating physician including dose, infusion rate etc., and any changes
 - o A record of the actual infusions administered by the infusing person including health status of the patient before, during and after infusion and measures taken in response to an adverse event
--  In the emergency plan, the treating physician should provide details on how to recognize and manage hypersensitivity reactions. The emergency plan should be suitable for the specific patient.
--  The physician is responsible that the homecare nurse, patient and/or caregiver is adequately trained in preparing, administering and documenting the infusions; they are aware of risks and trained to act in emergencies adequately including communication of adverse events to the treating physician.
+-  In the emergency plan, the physician determines for the individual patient how to act in an emergency.
+-  During self-infusion, the importance of the patient always having a caregiver or responsible adult nearby who is capable of acting according to the emergency plan.
 
 <div style=\"page-break-after: always\"></div>
 
@@ -933,6 +924,7 @@ Lot
 
 - -Keep this leaflet. You may need to read it again.
 - -If you have any further questions, ask your doctor.
+- -This medicine has been prescribed for you only. Do not pass it on to others. It may harm them, even if their signs of illness are the same as yours.
 - -If you get any side effects, talk to your doctor. This includes any possible side effects not listed in this leaflet (see section 4).
 
 ## What is in this leaflet
@@ -963,14 +955,10 @@ VPRIV contains a substance called velaglucerase alfa which is designed to replac
 Talk to your doctor before VPRIV is used
 
 - -If you are treated with VPRIV, you may experience side effects during or following the infusion (see section 4, possible side effects). These are called infusion related reactions and might appear as a hypersensitivity reaction with symptoms like nausea, rash, difficulty in breathing, back pain, chest discomfort (chest tightness), hives, joint pain or headache.
-- -Apart from symptoms of hypersensitivity reactions infusion-related reactions might show as dizziness, high blood pressure, tiredness, fever, itching, blurry vision, or vomiting. If you experience any of the symptoms, you must tell your doctor immediately .
+- -Apart from symptoms of hypersensitivity reactions, infusion-related reactions might show as dizziness, high blood pressure, tiredness, fever, itching, blurry vision, or vomiting. If you experience any of the symptoms, you must tell your doctor immediately .
 - -You may be given additional medicines to treat or help prevent future reactions. These medicines may include antihistamines, antipyretics, and corticosteroids.
-- -If the reaction is severe, your doctor will stop the intravenous infusion immediately and start giving you appropriate medical treatment.
-- -If the reactions are severe and/or there is a loss of effect from this medicine, your doctor will perform a blood test to check for antibodies which may affect the outcome of your treatment
 
 <div style=\"page-break-after: always\"></div>
-
-- -Your doctor or nurse may decide to continue to administer VPRIV even if you experience any infusion related-reaction. Your condition will be closely monitored.
 
 Tell your doctor if you have previously experienced an infusion-related reaction with other ERT for Gaucher disease.
 
@@ -1000,7 +988,9 @@ This medicine contains 12.15 mg sodium (main component of cooking/table salt) in
 
 ## 3. How VPRIV is used
 
-This medicine is only to be used under appropriate medical supervision of a doctor who is knowledgeable in the treatment of Gaucher disease. It is given by a doctor or nurse by intravenous infusion.
+This medicine is only to be used under appropriate medical supervision of a doctor who is knowledgeable in the treatment of Gaucher disease, who will also determine the dose that you should receive.
+
+It is given by a doctor or nurse by intravenous infusion. While remaining under the doctor's supervision, VPRIV can be self-administered (by you or your caregiver) after appropriate training by the doctor and/or nurse. Self-administration should occur in the presence of a responsible adult.
 
 ## Dose
 
@@ -1030,7 +1020,23 @@ VPRIV is supplied in a vial as a packed powder which is mixed with sterile water
 
 After preparation, your doctor or nurse will give the medicine to you through a drip into a vein (by intravenous infusion) over a period of 60 minutes.
 
-If you have any further questions on the use of this medicine, ask your doctor.
+For self-administration, the dose and rate of infusion given should not be changed without the agreement of the treating doctor.
+
+## If you use more VPRIV than you should
+
+If you believe you have used more VPRIV than you should, please contact your doctor.
+
+## If you use less VPRIV than you should
+
+If you believe you have used less VPRIV than you should, please contact your doctor.
+
+## If you forget to use VPRIV
+
+If you have missed an infusion of VPRIV, please contact your doctor.
+
+## If you stop using VPRIV
+
+If you stop using VPRIV, please contact your doctor. Your symptoms may return if you stop the treatment. If you have any further questions on the use of this medicine, ask your doctor.
 
 ## 4. Possible side effects
 
@@ -1038,13 +1044,23 @@ Like all medicines, this medicine can cause side effects, although not everybody
 
 Commonly (may affect up to 1 in 10 people), patients experienced a severe allergic reaction, with difficulty breathing, chest discomfort (chest tightness), feeling sick (nausea), swelling of the face, lips, tongue or throat (anaphylactic/anaphylactoid reactions), common is also an allergic skin reaction such as hives, severe rash or itching. If any of these happen tell your doctor immediately.
 
-Most side effects, including the allergic reactions, occurred during the infusion or shortly after. These are called infusion related reactions. Other infusion related reactions that occurred very commonly (may affect more than 1 in 10 people) include headache, dizziness, fever/body temperature increased, back pain, joint pain and tiredness, as well as high blood pressure (commonly reported), blurry vision, and vomiting (uncommonly reported). If any of these happen tell your doctor immediately.
+Most side effects, including the allergic reactions, occurred during the infusion or shortly after. These are called infusion related reactions.
+
+- -If the reaction is severe, in the clinic your doctor will stop the intravenous infusion immediately and start giving you appropriate medical treatment.
+- -In case of home administration, if a serious infusion-related reaction occurs, including anaphylaxis, immediately stop the infusion, immediately seek emergency support and contact your doctor.
+- -If the reactions are severe and/or there is a loss of effect from this medicine, your doctor will perform a blood test to check for antibodies which may affect the outcome of your treatment.
+- -Your doctor or nurse may decide to continue to administer VPRIV even if you experience any infusion related-reaction. Your condition will be closely monitored.
+
+Other infusion related reactions that occurred very commonly (may affect more than 1 in 10 people) include headache, dizziness, fever/body temperature increased, back pain, joint pain and tiredness, as well as high blood pressure (commonly reported), blurry vision, and vomiting (uncommonly reported). If any of these happen tell your doctor immediately.
 
 Other side effects include:
 
-## Very common side effects (may affect more than 1 in 10 people ) are:
+## Very common side effects (may affect more than 1 in 10 people) are:
 
 - -bone pain
+
+<div style=\"page-break-after: always\"></div>
+
 - -weakness/loss of strength
 - -stomach ache
 
@@ -1064,13 +1080,15 @@ If you get any side effects, talk to your doctor or pharmacist. This includes an
 
 Keep this medicine out of the sight and reach of children.
 
-Do not use this medicine after the expiry date which is stated on the carton and label after 'EXP'. The expiry date refers to the last day of that month.
+Do not use this medicine after the expiry date which is stated on the carton and label after EXP. The expiry date refers to the last day of that month.
 
-<div style=\"page-break-after: always\"></div>
+Store in the refrigerator (2 ºC - 8 ºC).
 
-Store in the refrigerator (2 ºC - 8 ºC). Do not freeze. Keep the vial in the outer carton in order to protect from light.
+Do not freeze.
 
-## Reconstituted and diluted solution for infusion:
+Keep the vial in the outer carton in order to protect from light.
+
+Reconstituted and diluted solution for infusion:
 
 Use immediately. Do not exceed 24 hours at 2  C to 8  C.
 
@@ -1082,7 +1100,8 @@ Do not throw away any medicines via wastewater or household waste. Ask your phar
 
 ## What VPRIV contains
 
-- -The active substance is velaglucerase alfa. Each vial contains 400 Units of velaglucerase alfa.
+- -
+- The active substance is velaglucerase alfa. Each vial contains 400 Units of velaglucerase alfa.
 
 After reconstitution, one ml of solution contains 100 Units of velaglucerase alfa
 
@@ -1093,6 +1112,8 @@ After reconstitution, one ml of solution contains 100 Units of velaglucerase alf
 20 ml glass vial containing a white to off-white powder for solution for infusion.
 
 Packs of 1, 5 or 25 vials. Not all pack sizes may be marketed.
+
+<div style=\"page-break-after: always\"></div>
 
 ## Marketing Authorisation Holder and Manufacturer
 
@@ -1105,8 +1126,6 @@ Takeda Pharmaceuticals International AG Ireland Branch Block 2 Miesian Plaza 50-
 Takeda Pharmaceuticals International AG Ireland Branch Block 2 Miesian Plaza 50-58 Baggot Street Lower Dublin 2 D02 HW68 Ireland
 
 Shire Pharmaceuticals Ireland Limited Block 2 &amp; 3 Miesian Plaza 50 - 58 Baggot Street Lower Dublin 2 Ireland
-
-<div style=\"page-break-after: always\"></div>
 
 For any information about this medicine, please contact the local representative of the Marketing Authorisation Holder:
 
@@ -1124,35 +1143,17 @@ Takeda Pharmaceuticals Czech Republic s.r.o. Tel: +420 234 722 722 medinfoEMEA@t
 
 ## Danmark
 
-Takeda Pharma A/S Tlf: +45 46 77 10 10 medinfoEMEA@takeda.com
+Takeda Pharma A/S Tlf.: +45 46 77 10 10 medinfoEMEA@takeda.com
 
 ## Deutschland
 
-Takeda GmbH Tel: +49 (0)800 825 3325 medinfoEMEA@takeda.com
+Takeda GmbH Tel: +49 (0)800 825 3325
+
+medinfoEMEA@takeda.com
 
 ## Eesti
 
-Takeda Pharma AS Tel: +372 6177 669 medinfoEMEA@takeda.com
-
-## Ελλάδα
-
-Τakeda ΕΛΛΑΣ Α.Ε. Tηλ: +30 210 6387800 medinfoEMEA@takeda.com
-
-## España
-
-Takeda Farmacéutica España S.A Tel: +34 917 90 42 22 medinfoEMEA@takeda.com
-
-## France
-
-Takeda France SAS Tél: + 33 1 40 67 33 00 medinfoEMEA@takeda.com
-
-## Hrvatska
-
-Takeda Pharmaceuticals Croatia d.o.o. Tel: +385 1 377 88 96 medinfoEMEA@takeda.com
-
-## Ireland
-
-Takeda Products Ireland Ltd Tel: 1800 937 970 medinfoEMEA@takeda.com
+Takeda Pharma OÜ Tel: +372 6177 669 medinfoEMEA@takeda.com
 
 ## Lietuva
 
@@ -1168,7 +1169,7 @@ Takeda Pharma Kft. Tel.: +36 1 270 7030 medinfoEMEA@takeda.com
 
 ## Malta
 
-Τakeda HELLAS S.A. Tel: +30 210 6387800 medinfoEMEA@takeda.com
+Drugsales Ltd Tel: +356 21419070 safety@drugsalesltd.com
 
 ## Nederland
 
@@ -1178,31 +1179,73 @@ Takeda Nederland B.V. Tel: +31 20 203 5492 medinfoEMEA@takeda.com
 
 Takeda AS Tlf: +47 800 800 30 medinfoEMEA@takeda.com
 
+<div style=\"page-break-after: always\"></div>
+
+## Ελλάδα
+
 ## Österreich
 
-Takeda Pharma Ges.m.b.H. Tel: +43 (0) 800-20 80 50 medinfoEMEA@takeda.com
+Τakeda ΕΛΛΑΣ Α.Ε.
+
+Tηλ: +30 210 6387800
+
+medinfoEMEA@takeda.com
+
+Takeda Pharma Ges.m.b.H.
+
+Tel: +43 (0) 800-20 80 50
+
+medinfoEMEA@takeda.com
+
+## España
+
+Takeda Farmacéutica España, S.A
+
+Tel: +34 917 90 42 22
+
+medinfoEMEA@takeda.com
 
 ## Polska
 
-Takeda Pharma Sp. z o.o. Tel.: +48223062447 medinfoEMEA@takeda.com
+Takeda Pharma Sp. z o.o.
+
+Tel.: +48223062447
+
+medinfoEMEA@takeda.com
+
+## France
+
+Takeda France SAS
+
+Tél: + 33 1 40 67 33 00
+
+medinfoEMEA@takeda.com
 
 ## Portugal
 
 Takeda Farmacêuticos Portugal, Lda. Tel: + 351 21 120 1457 medinfoEMEA@takeda.com
 
+## Hrvatska
+
+Takeda Pharmaceuticals Croatia d.o.o. Tel: +385 1 377 88 96 medinfoEMEA@takeda.com
+
 ## România
 
 Takeda Pharmaceuticals SRL Tel: +40 21 335 03 91 medinfoEMEA@takeda.com
+
+## Ireland
+
+Takeda Products Ireland Ltd
+
+Tel: 1800 937 970
+
+medinfoEMEA@takeda.com
 
 ## Slovenija
 
 Takeda Pharmaceuticals farmacevtska dru ž ba d.o.o. Tel: + 386 (0) 59 082 480 medinfoEMEA@takeda.com
 
-<div style=\"page-break-after: always\"></div>
-
 ## Ísland
-
-## Slovenská republika
 
 Vistor hf.
 
@@ -1210,11 +1253,9 @@ Sími: +354 535 7000
 
 medinfoEMEA@takeda.com
 
-Takeda Pharmaceuticals Slovakia s.r.o.
+## Slovenská republika
 
-Tel: +421 (2) 20 602 600
-
-medinfoEMEA@takeda.com
+Takeda Pharmaceuticals Slovakia s.r.o. Tel: +421 (2) 20 602 600 medinfoEMEA@takeda.com
 
 ## Italia
 
@@ -1226,11 +1267,7 @@ medinfoEMEA@takeda.com
 
 ## Suomi/Finland
 
-Takeda Oy
-
-Puh/Tel: 0800 774 051
-
-medinfoEMEA@takeda.com
+Takeda Oy Puh/Tel: 0800 774 051 medinfoEMEA@takeda.com
 
 ## Κύπρος
 
@@ -1242,11 +1279,7 @@ a.potamitismedicare@cytanet.com.cy
 
 ## Sverige
 
-Takeda Pharma AB
-
-Tel: 020 795 079
-
-medinfoEMEA@takeda.com
+Takeda Pharma AB Tel: 020 795 079 medinfoEMEA@takeda.com
 
 ## Latvija
 
@@ -1258,21 +1291,17 @@ medinfoEMEA@takeda.com
 
 ## United Kingdom (Northern Ireland)
 
-Takeda UK Ltd
-
-Tel: +44 (0) 2830 640 902
-
-medinfoEMEA@takeda.com
+Takeda UK Ltd Tel: +44 (0) 3333 000 181 medinfoEMEA@takeda.com
 
 ## This leaflet was last revised in .
 
 ## Other sources of information
 
-Detailed information on this medicine is available on the European Medicines Agency web site:
-
-http://www.ema.europa.eu. There are also links to other websites about rare diseases and treatments.
+Detailed information on this medicine is available on the European Medicines Agency web site: https://www.ema.europa.eu. There are also links to other websites about rare diseases and treatments.
 
 ------------------------------------------------------------------------------------------------------------------------
+
+<div style=\"page-break-after: always\"></div>
 
 The following information is intended for healthcare professionals only.
 
@@ -1287,22 +1316,15 @@ VPRIV is a powder for solution for infusion. It requires reconstitution and dilu
 3. Upon reconstitution, mix vials gently. Do not shake.
 4. Prior to dilution, visually inspect the solution in the vials; the solution should be clear to slightly opalescent and colourless; do not use if the solution is discoloured, or if foreign particulate matter is present.
 5. Withdraw the calculated volume of medicine from the appropriate number of vials. Some solution will remain in the vial:
-
-Vial size
-
-Water for injections 4.3 ml
-
-400 Units
-
-Vial size
-
-Extractable volume 4.0 ml
-
-400 Units
-
-<div style=\"page-break-after: always\"></div>
-
 6. Dilute the total volume required in 100 ml of sodium chloride 9 mg/ml (0.9%) solution for infusion. Mix gently. Do not shake. Initiate the infusion within 24 hours from the time of reconstitution.
+
+| Vial size   | Water for injections   |
+|-------------|------------------------|
+| 400 Units   | 4.3 ml                 |
+
+| Vial size   | Extractable volume   |
+|-------------|----------------------|
+| 400 Units   | 4.0 ml               |
 
 From a microbiological point of view, use the medicine immediately. If you do not immediately, inuse storage times and conditions prior to use are the responsibility of the user. Do not exceed 24 hours at 2  C to 8  C.
 

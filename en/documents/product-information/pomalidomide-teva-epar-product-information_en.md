@@ -1,18 +1,18 @@
 ---
-document_datetime: 2024-11-28 09:47:22
+document_datetime: 2026-01-28 15:27:53
 document_pages: 73
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/pomalidomide-teva-epar-product-information_en.pdf
 document_name: pomalidomide-teva-epar-product-information_en.pdf
 version: success
-processing_time: 27.704537
-conversion_datetime: 2025-12-21 23:30:38.5911
+processing_time: 28.0576088
+conversion_datetime: 2026-01-29 12:21:13.157366
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.64.1
-  docling-core: 2.55.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.11.0
+  docling-jobkit: 1.9.0
+  docling: 2.70.0
+  docling-core: 2.61.0
+  docling-ibm-models: 3.11.0
+  docling-parse: 4.7.3
   python: cpython-313 (3.13.11)
   plaform: macOS-26.2-arm64-arm-64bit-Mach-O
 ---
@@ -114,12 +114,12 @@ disease progression or until unacceptable toxicity occurs.
 
 Table 1. Recommended dosing scheme for pomalidomide in combination with bortezomib and dexamethasone
 
-| Cycle 1-8                | Day (of 21-day cycle)   |    |    |    |    |    |    |    |    |    |    |    |    |    |    |    |       |    |    |    |
-|--------------------------|-------------------------|----|----|----|----|----|----|----|----|----|----|----|----|----|----|----|-------|----|----|----|
-|                          | 1 5                     | 2  | 3  | 4  |    | 6  | 7  | 8  | 9  | 10 | 11 | 12 | 13 | 14 | 15 | 16 | 17 18 | 19 | 20 | 21 |
-| Pomalidomide (4 mg)      | •                       | •  | •  | •  | •  | •  | •  | •  | •  | •  | •  | •  | •  | •  |    |    |       |    |    |    |
-| Bortezomib (1.3 mg/m 2 ) | •                       |    |    | •  |    |    |    | •  |    |    | •  |    |    |    |    |    |       |    |    |    |
-| Dexamethasone (20 mg) *  | •                       | •  |    | •  | •  |    |    | •  | •  |    | •  | •  |    |    |    |    |       |    |    |    |
+| Cycle 1-8                | Day (of 21-day cycle)   |    |    |    |    |    |    |    |    |    |    |    |    |    |    |       |    |    |    |
+|--------------------------|-------------------------|----|----|----|----|----|----|----|----|----|----|----|----|----|----|-------|----|----|----|
+|                          | 1 5                     | 2  | 3  | 4  | 6  | 7  | 8  | 9  | 10 | 11 | 12 | 13 | 14 | 15 | 16 | 17 18 | 19 | 20 | 21 |
+| Pomalidomide (4 mg)      | • •                     | •  | •  | •  | •  | •  | •  | •  | •  | •  | •  | •  | •  |    |    |       |    |    |    |
+| Bortezomib (1.3 mg/m 2 ) | •                       |    |    | •  |    |    | •  |    |    | •  |    |    |    |    |    |       |    |    |    |
+| Dexamethasone (20 mg) *  | • •                     | •  |    | •  |    |    | •  | •  |    | •  | •  |    |    |    |    |       |    |    |    |
 
 | Cycle 9 onwards          | Day (of 21-day cycle)   |    |    |    |    |    |    |    |    |    |    |    |    |    |    |    |    |    |    |    |
 |--------------------------|-------------------------|----|----|----|----|----|----|----|----|----|----|----|----|----|----|----|----|----|----|----|
@@ -127,8 +127,6 @@ Table 1. Recommended dosing scheme for pomalidomide in combination with bortezom
 | Pomalidomide (4 mg)      | • •                     | •  | •  | •  | •  | •  | •  | •  | •  | •  | •  | •  | •  |    |    |    |    |    |    |    |
 | Bortezomib (1.3 mg/m 2 ) | •                       |    |    |    |    |    | •  |    |    |    |    |    |    |    |    |    |    |    |    |    |
 | Dexamethasone (20 mg) *  | •                       | •  |    |    |    |    | •  | •  |    |    |    |    |    |    |    |    |    |    |    |    |
-
-* For patients &gt; 75 years of age, see Special populations.
 
 ## Pomalidomide dose modification or interruption
 
@@ -157,14 +155,6 @@ Table 2. Pomalidomide dose modification instructions ∞
 |------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Other Other ≥ Grade 3 pomalidomide -related adverse events | Interrupt pomalidomide treatment for remainder of cycle. Resume at one dose level lower than previous dose at next cycle (adverse event must be resolved or improved to ≤ Grade 2 before restarting dosing). |
 
-∞ Dose modification instructions in this table are applicable to pomalidomide in combination with bortezomib and dexamethasone and to pomalidomide in combination with dexamethasone.
-
-*In case of neutropenia, the physician should consider the use of growth factors.
-
-**ANC - Absolute Neutrophil Count;
-
-***CBC - Complete Blood Count.
-
 Table 3. Pomalidomide dose reduction∞
 
 | Dose level    | Oral pomalidomide dose   |
@@ -173,8 +163,6 @@ Table 3. Pomalidomide dose reduction∞
 | Dose level -1 | 3 mg                     |
 | Dose level -2 | 2 mg                     |
 | Dose level -3 | 1 mg                     |
-
-∞ Dose reduction in this table is applicable to pomalidomide in combination with bortezomib and dexamethasone and to pomalidomide in combination with dexamethasone.
 
 If adverse reactions occur after dose reductions to 1 mg, then the treatment should be discontinued .
 
@@ -192,10 +180,10 @@ Instructions on dose interruptions or reductions for low-dose dexamethasone rela
 
 ## Table 4. Dexamethasone dose modification instructions
 
-| Toxicity              | Dose Modification                                                                                                                                                     |
-|-----------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Dyspepsia = Grade 1-2 | Maintain dose and treat with histamine (H2) blockers or equivalent. Decrease by one dose level if symptoms persist. Interrupt dose until symptoms are controlled. Add |
-| Dyspepsia ≥ Grade 3   | H2 blocker or equivalent and resume at one dose level lower than previous dose.                                                                                       |
+| Toxicity              | Dose Modification                                                                                                                 |
+|-----------------------|-----------------------------------------------------------------------------------------------------------------------------------|
+| Dyspepsia = Grade 1-2 | Maintain dose and treat with histamine (H2) blockers or equivalent. Decrease by one dose level if symptoms persist.               |
+| Dyspepsia ≥ Grade 3   | Interrupt dose until symptoms are controlled. Add H2 blocker or equivalent and resume at one dose level lower than previous dose. |
 
 <div style=\"page-break-after: always\"></div>
 
@@ -413,7 +401,7 @@ Cases of hypothyroidism have been reported. Optimal control of co-morbid conditi
 
 <div style=\"page-break-after: always\"></div>
 
-Patients with ongoing ≥ Grade 2 periph eral neuropathy were excluded from clinical studies with pomalidomide. Appropriate caution should be exercised when considering the treatment of such patients with pomalidomide.
+Patients with ongoing ≥ Grade 2 peripheral neuropathy were excluded from clinical studies with pomalidomide. Appropriate caution should be exercised when considering the treatment of such patients with pomalidomide.
 
 ## Significant cardiac dysfunction
 
@@ -487,7 +475,7 @@ Co-administration of multiple doses of up to 4 mg pomalidomide with 20 mg to 40 
 
 The effect of dexamethasone on warfarin is unknown. Close monitoring of warfarin concentration is advised during treatment.
 
-## 4.6 Fertility, pregnancy and lactation
+## 4.6 Fertility,  pregnancy and lactation
 
 ## Women of childbearing potential / Contraception in males and females
 
@@ -535,7 +523,7 @@ pomalidomide.
 
 The adverse reactions observed in patients treated with pomalidomide in combination with bortezomib and dexamethasone, pomalidomide in combination with dexamethasone and from post-marketing surveillance are listed in Table 7 by system organ class (SOC) and frequency for all adverse reactions and for Grade 3 or 4 adverse reactions.
 
-Frequencies are defined in accordance with current guidance, as: very common (≥1/10), common (≥1/100 to &lt;1/10) a nd uncommon (≥1/1,000 to &lt;1/100) and not known (frequency cannot be determined).
+Frequencies are defined in accordance with current guidance, as: very common (≥1/10), common (≥1/ 100 to &lt;1/10) and uncommon (≥1/1,000 to &lt;1/100) and not known (frequency cannot be determined).
 
 Table 7. Adverse reactions(ADRs) reported in clinical trials and post-market settings
 
@@ -735,11 +723,15 @@ Prophylaxis with acetylsalicylic acid (and other anticoagulants in high risk pat
 
 Venous thromboembolic events (VTE) occurred in 12.2% (Pom+Btz+Dex) and 3.3% (Pom+Dex) patients (5.8 % (Pom+Btz+Dex) and 1.3% (Pom+Dex) Grade 3 or 4). VTE was reported as serious in 4.7% (Pom+Btz+Dex) and 1.7% (Pom+Dex) patients, no fatal reactions were reported, and VTE was associated with pomalidomide discontinuation in up to 2.2% (Pom+Btz+Dex) of patients.
 
-Peripheral neuropathy - Pomalidomide in combination with bortezomib and dexamethasone Patients with ongoing peripheral neuropathy ≥ Grade 2 with pain within 14 days prior to randomisation were excluded from clinical trials. Peripheral neuropathy occurred in 55.4 % of patients (10.8% Grade 3; 0.7% Grade 4). Exposure-adjusted rates were comparable across treatment arms. Approximately 30% of the patients experiencing peripheral neuropathy had a history of neuropathy at baseline. Peripheral neuropathy led to discontinuation of bortezomib in approximately 14.4% of patients, pomalidomide in 1.8% and dexamethasone in 1.8% of patients in the Pom+Btz+Dex arm and 8.9% of patients in the Btz+Dex arm.
+Peripheral neuropathy - Pomalidomide in combination with bortezomib and dexamethasone
+
+Patients with ongoing peripheral neuropathy ≥ Grade 2 with pain within 14 days prior to randomisation were excluded from clinical trials. Peripheral neuropathy occurred in 55.4 % of patients (10.8% Grade 3; 0.7% Grade 4). Exposure-adjusted rates were comparable across treatment arms.
+
+Approximately 30% of the patients experiencing peripheral neuropathy had a history of neuropathy at baseline. Peripheral neuropathy led to discontinuation of bortezomib in approximately 14.4% of patients, pomalidomide in 1.8% and dexamethasone in 1.8% of patients in the Pom+Btz+Dex arm and 8.9% of patients in the Btz+Dex arm.
 
 ## Peripheral neuropathy - Pomalidomide in combination with dexamethasone
 
-Patients with ongoing peripheral neuropathy ≥ Grade 2 were excluded from clinical studies. P eripheral neuropathy occurred in 12.3% of patients (1.0% Grade 3 or 4). No peripheral neuropathy reactions were reported as serious, and peripheral neuropathy led to dose discontinuation in 0.3% of patients (see section 4.4).
+Patients with ongoing peripheral neuropathy ≥ Grade 2 were excluded from clinical studies. Peripheral neuropathy occurred in 12.3% of patients (1.0% Grade 3 or 4). No peripheral neuropathy reactions were reported as serious, and peripheral neuropathy led to dose discontinuation in 0.3% of patients (see section 4.4).
 
 ## Haemorrhage
 
@@ -789,7 +781,7 @@ The efficacy and safety of pomalidomide in combination with bortezomib and low-d
 
 and randomised in the study: 281 in the Pom+Btz+LD-Dex arm and 278 in the Btz+LD-Dex arm. 54% of patients were male with median age for the overall population of 68 years (min, max: 27, 89 years). Approximately 70% of patients were refractory to lenalidomide (71.2% in Pom+Btz+LD-Dex, 68.7 % in Btz+LD-Dex). Approximately 40% of patients were in 1 st relapse and approximately 73% of patients received bortezomib as prior treatment.
 
-Patients in the Pom+Btz+LD-Dex arm were administered 4 mg pomalidomide orally on Days 1 to 14 of each 21-day cycle. Bortezomib (1.3 mg/m 2 /dose) was administered to patients in both study arms on Days 1, 4, 8 and 11 of a 21-day cycle for Cycles 1 to 8; and on Days 1 and 8 of a 21-day cycle for Cycles 9 and onwards. Lowdose dexamethasone (20 mg/day [≤ 75 years old] or 10 mg/day [&gt; 75 years old]) was administered to patients in both study arms on Days 1, 2, 4, 5, 8, 9, 11 and 12 of a  21day cycle for Cycles 1 to 8; and on Days 1, 2, 8 and 9 of each subsequent 21-day cycle from Cycles 9 onwards. Doses were reduced and treatment was temporarily interrupted or stopped as needed to manage toxicity (see section 4.2).
+Patients in the Pom+Btz+LD-Dex arm were administered 4 mg pomalidomide orally on Days 1 to 14 of each 21-day cycle. Bortezomib (1.3 mg/m 2 /dose) was administered to patients in both study arms on Days 1, 4, 8 and 11 of a 21-day cycle for Cycles 1 to 8; and on Days 1 and 8 of a 21-day cycle for Cycles 9 and onwards. Low-dose dexamethasone (20 mg/day [≤ 75 years old] or 10 mg/day [&gt; 75 years old]) was administered to patients in both study arms on Days 1, 2, 4, 5, 8, 9, 11 and 12 of a 21day cycle for Cycles 1 to 8; and on Days 1, 2, 8 and 9 of each subsequent 21-day cycle from Cycles 9 onwards. Doses were reduced and treatment was temporarily interrupted or stopped as needed to manage toxicity (see section 4.2).
 
 The primary efficacy endpoint was Progression Free Survival (PFS) assessed by an Independent Response Adjudication Committee (IRAC) according to the IMWG criteria using the intent to treat population (ITT). After a median follow-up of 15.9 months, median PFS time was 11.20 months (95% CI: 9.66, 13.73) in the Pom+Btz+LD-Dex arm. In the Btz+LD-Dex arm, median PFS time was 7.1 months (95% CI: 5.88, 8.48).
 
@@ -828,7 +820,7 @@ d The p-value is based on a stratified log-rank test.
 
 e  Odds ratio is for Pom+Btz+LD-Dex:Btz+LD-Dex.
 
-f The p-value is based on a CMH test, stratified by age (&lt;=75 vs &gt;75), Prior number of antimyeloma regimens (1 vs &gt;1), and Beta-2 microglobulin at screening (&lt; 3.5 mg/L versus ≥ 3.5 mg/L -≤ 5.5 mg/L versus &gt; 5.5 mg/L).
+f The p-value is based on a CMH test, stratified by age (&lt;=75 vs &gt;75), Prior number of antimyeloma regimens (1 vs &gt;1), and Beta-2 microglobulin at screening (&lt; 3.5 mg/L versus ≥ 3.5 mg/L -≤ 5.5 mg/L versus &gt; 5. 5 mg/L).
 
 <div style=\"page-break-after: always\"></div>
 
@@ -850,11 +842,11 @@ The efficacy and safety of pomalidomide in combination with dexamethasone were e
 
 Patients in the Pom+LD-Dex arm were administered 4 mg pomalidomide orally on days 1 to 21 of each 28-day cycle. LD-Dex (40 mg) was administered once per day on days 1, 8, 15 and 22 of a 28- day cycle. For the HD-Dex arm, dexamethasone (40 mg) was administered once per day on days 1 through 4, 9 through 12, and 17 through 20 of a 28-day cycle. Patients &gt; 75 years of age started treatment with 20 mg dexamethasone. Treatment continued until patients had disease progression.
 
-The primary efficacy endpoint was progression free survival by International Myeloma Working Group
+PFS - Time from Randomization (Months)
 
 <div style=\"page-break-after: always\"></div>
 
-(IMWG criteria). For the intention to treat (ITT) population, median PFS time by Independent Review Adjudication Committee (IRAC) review based on IMWG criteria was 15.7 weeks (95% CI: 13.0, 20.1) in the Pom + LD-Dex arm; the estimated 26-week event-free survival rate was 35.99% (±3.46%). In the HDDex arm, median PFS time was 8.0 weeks (95% CI: 7.0, 9.0); the estimated 26- week event-free survival rate was 12.15% (±3.63%).
+The primary efficacy endpoint was progression free survival by International Myeloma Working Group (IMWG criteria). For the intention to treat (ITT) population, median PFS time by Independent Review Adjudication Committee (IRAC) review based on IMWG criteria was 15.7 weeks (95% CI: 13.0, 20.1) in the Pom + LD-Dex arm; the estimated 26-week event-free survival rate was 35.99% (±3.46%). In the HDDex arm, median PFS time was 8.0 weeks (95% CI: 7.0, 9.0); the estimated 26- week event-free survival rate was 12.15% (±3.63%).
 
 PFS was evaluated in several relevant subgroups: gender, race, ECOG performance status, stratification factors (age, disease population, prior anti-myeloma therapies [2, &gt; 2]), selected parameters of prognostic significance (baseline beta-2 microglobulin level, baseline albumin levels, baseline renal impairment, and cytogenetic risk), and exposure and refractoriness to prior anti- myeloma therapies. Regardless of the subgroup evaluated, PFS was generally consistent with that observed in the ITT population for both treatment groups.
 
@@ -879,7 +871,7 @@ a The median is based on Kaplan-Meier estimate.
 
 b 95% confidence interval about the median progression free survival time.
 
-c Based on Cox proportional hazards model comparing the hazard functions associated with treatment groups, stratified by age (≤75 vs &gt;75),diseases population (refractory to both lenalidomide and bortezomib vs not refractory to both active substances ), and prior number of anti myeloma therapy (=2 vs &gt;2).
+c Based on Cox proportional hazards model comparing the hazard functions associated with treatment groups, stratified by age (≤75 vs &gt;75),diseases population (refractory to both lenalidomide and bortezomib vs not refractory to both active substances) , and prior number of anti myeloma therapy (=2 vs &gt;2).
 
 d The p-value is based on a stratified log-rank test with the same stratification factors as the above Cox model. Data cutoff: 07 Sep 2012
 
@@ -908,10 +900,6 @@ Table 10. Overall Survival: ITT Population
 |                                                        | Two sided 95% CI b                                     | [48.1, NE]             | [23.4, 39.9]       |
 | Hazard Ratio (Pom+LD-Dex:HD-Dex) [Two sided 95% CI c ] | Hazard Ratio (Pom+LD-Dex:HD-Dex) [Two sided 95% CI c ] | 0.53[0.37, 0.74]       |                    |
 | Log-Rank Test Two sided P-Value d                      | Log-Rank Test Two sided P-Value d                      | <0.001                 |                    |
-
-Note: CI=Confidence interval. NE = Not Estimable.
-
-a The median is based on Kaplan-Meier estimate.
 
 <div style=\"page-break-after: always\"></div>
 
@@ -991,7 +979,7 @@ Based on population pharmacokinetic analyses in healthy subjects and multiple my
 
 ## Renal impairment
 
-Population pharmacokinetic analyses showed that the pomalidomide pharmacokinetic parameters were not remarkably affected in renally impaired patients (defined by creatinine clearance or estimated glomerular filtration rate [eGFR]) compared to patients with normal renal function (CrCl ≥60 mL/minute). Mean normalised AUC exposure to pomalidomide was 98.2% with a 90% confidence interval [77.4% to 120.6%] in moderate renal impairment patie nts (eGFR ≥30 to ≤45 mL/minute/1.73 m 2 ) compared to patients with normal renal function. Mean normalised AUC exposure to pomalidomide was 100.2% with a 90% confidence interval [79.7% to 127.0%] in severe renal
+Population pharmacokinetic analyses showed that the pomalidomide pharmacokinetic parameters were not remarkably affected in renally impaired patients (defined by creatinine clearance or estimated glomerular filtration rate [eGFR]) compared to patients with normal renal function (CrCl ≥60 mL/minute). Mean normalised AUC exposure to pomalidomide was 98.2% with a 90% confidence interval [77.4% to 120.6%] in moderate renal impairment patient s (eGFR ≥30 to ≤45 mL/minute/1.73 m 2 ) compared to patients with normal renal function. Mean normalised AUC exposure to pomalidomide was 100.2% with a 90% confidence interval [79.7% to 127.0%] in severe renal
 
 <div style=\"page-break-after: always\"></div>
 
@@ -1053,7 +1041,7 @@ Not applicable.
 
 ## 6.4 Special precautions for storage
 
-This medicinal product does not require any special storage conditions.
+Do not store above 25°C
 
 ## 6.5 Nature and contents of container
 
@@ -1089,7 +1077,7 @@ Pomalidomide Teva 3 mg hard capsules EU/1/24/1868/025 EU/1/24/1868/026 EU/1/24/1
 
 ## 9. DATE OF FIRST AUTHORISATION/RENEWAL OF THE AUTHORISATION
 
-Date of first authorisation:
+Date of first authorisation: 14 November 2024
 
 ## 10. DATE OF REVISION OF THE TEXT
 
@@ -1387,20 +1375,27 @@ EXP
 
 ## 9. SPECIAL STORAGE CONDITIONS
 
+Do not store above 25°C
+
 ## 10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
 
 Unused medicinal product should be returned to the pharmacist.
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
-TEVA GmbH Graf-Arco-Str. 3 89079 Ulm Germany
+TEVA GmbH
+
+Graf-Arco-Str. 3
+
+89079 Ulm
+
+Germany
 
 ## 12. MARKETING AUTHORISATION NUMBER(S)
 
 EU/1/24/1868/001 14 capsules
 
-EU/1/24/1868/002 14 x 1 capsules
-
+- EU/1/24/1868/002 14 x 1 capsules
 - EU/1/24/1868/003 21 capsules
 - EU/1/24/1868/004 21 x 1 capsules
 - EU/1/24/1868/005 63 capsules
@@ -1431,8 +1426,8 @@ pomalidomide teva 1 mg
 
 2D barcode carrying the unique identifier included.
 
-| 18.   | UNIQUE IDENTIFIER -HUMANREADABLE DATA   |
-|-------|-----------------------------------------|
+| 18.   | UNIQUE IDENTIFIER - HUMANREADABLE DATA   |
+|-------|------------------------------------------|
 
 PC SN NN
 
@@ -1485,29 +1480,43 @@ EXP
 
 ## 9. SPECIAL STORAGE CONDITIONS
 
+Do not store above 25°C
+
 ## 10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
 
 Unused medicinal product should be returned to the pharmacist.
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
-TEVA GmbH Graf-Arco-Str. 3 89079 Ulm Germany
+TEVA GmbH
+
+Graf-Arco-Str. 3
+
+89079 Ulm
+
+Germany
 
 ## 12. MARKETING AUTHORISATION NUMBER(S)
 
 EU/1/24/1868/013 14 capsules
 
-- EU/1/24/1868/014 14 x 1 capsules
-- EU/1/24/1868/015 21 capsules
-- EU/1/24/1868/016 21 x 1 capsules
+EU/1/24/1868/014 14 x 1 capsules
+
+EU/1/24/1868/015 21 capsules
+
+EU/1/24/1868/016 21 x 1 capsules
+
 - EU/1/24/1868/017 63 capsules
-- EU/1/24/1868/018 63 x 1 capsules
+
+EU/1/24/1868/018 63 x 1 capsules
+
 - EU/1/24/1868/019 14 capsules
 - EU/1/24/1868/020 14 x 1 capsules
 - EU/1/24/1868/021 21 capsules
 - EU/1/24/1868/022 21 x 1 capsules
 - EU/1/24/1868/023 63 capsules
-- EU/1/24/1868/024 63 x 1 capsules
+
+EU/1/24/1868/024 63 x 1 capsules
 
 ## 13. BATCH NUMBER
 
@@ -1528,8 +1537,8 @@ pomalidomide teva 2 mg
 
 2D barcode carrying the unique identifier included.
 
-| 18.   | UNIQUE IDENTIFIER -HUMANREADABLE DATA   |
-|-------|-----------------------------------------|
+| 18.   | UNIQUE IDENTIFIER - HUMANREADABLE DATA   |
+|-------|------------------------------------------|
 
 PC SN NN
 
@@ -1582,13 +1591,21 @@ EXP
 
 ## 9. SPECIAL STORAGE CONDITIONS
 
+Do not store above 25°C
+
 ## 10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
 
 Unused medicinal product should be returned to the pharmacist.
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
-TEVA GmbH Graf-Arco-Str. 3 89079 Ulm Germany
+TEVA GmbH
+
+Graf-Arco-Str. 3
+
+89079 Ulm
+
+Germany
 
 ## 12. MARKETING AUTHORISATION NUMBER(S)
 
@@ -1596,24 +1613,16 @@ EU/1/24/1868/025 14 capsules
 
 EU/1/24/1868/026 14 x 1 capsules
 
-EU/1/24/1868/027 21 capsules
-
-EU/1/24/1868/028 21 x 1 capsules
-
-EU/1/24/1868/029 63 capsules
-
+- EU/1/24/1868/027 21 capsules
+- EU/1/24/1868/028 21 x 1 capsules
+- EU/1/24/1868/029 63 capsules
 - EU/1/24/1868/030 63 x 1 capsules
 - EU/1/24/1868/031 14 capsules
-
-EU/1/24/1868/032 14 x 1 capsules
-
+- EU/1/24/1868/032 14 x 1 capsules
 - EU/1/24/1868/033 21 capsules
-
-EU/1/24/1868/034 21 x 1 capsules
-
-EU/1/24/1868/035 63 capsules
-
-EU/1/24/1868/036 63 x 1 capsules
+- EU/1/24/1868/034 21 x 1 capsules
+- EU/1/24/1868/035 63 capsules
+- EU/1/24/1868/036 63 x 1 capsules
 
 ## 13. BATCH NUMBER
 
@@ -1634,8 +1643,8 @@ pomalidomide teva 3 mg
 
 2D barcode carrying the unique identifier included.
 
-| 18.   | UNIQUE IDENTIFIER -HUMANREADABLE DATA   |
-|-------|-----------------------------------------|
+| 18.   | UNIQUE IDENTIFIER - HUMANREADABLE DATA   |
+|-------|------------------------------------------|
 
 PC SN NN
 
@@ -1688,13 +1697,21 @@ EXP
 
 ## 9. SPECIAL STORAGE CONDITIONS
 
+Do not store above 25°C
+
 ## 10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
 
 Unused medicinal product should be returned to the pharmacist.
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
-TEVA GmbH Graf-Arco-Str. 3 89079 Ulm Germany
+TEVA GmbH
+
+Graf-Arco-Str. 3
+
+89079 Ulm
+
+Germany
 
 ## 12. MARKETING AUTHORISATION NUMBER(S)
 
@@ -1731,8 +1748,8 @@ pomalidomide teva 4 mg
 
 2D barcode carrying the unique identifier included.
 
-| 18.   | UNIQUE IDENTIFIER -HUMANREADABLE DATA   |
-|-------|-----------------------------------------|
+| 18.   | UNIQUE IDENTIFIER - HUMANREADABLE DATA   |
+|-------|------------------------------------------|
 
 PC SN NN
 
@@ -1764,9 +1781,12 @@ Lot
 
 <div style=\"page-break-after: always\"></div>
 
-| MINIMUM PARTICULARS TO APPEAR ONBLISTERS   |
-|--------------------------------------------|
-| BLISTER                                    |
+| MINIMUM PARTICULARS TO APPEAR ON BLISTERS   |
+|---------------------------------------------|
+| BLISTER                                     |
+
+| 5.   | OTHER   |
+|------|---------|
 
 ## MINIMUM PARTICULARS TO APPEAR ON BLISTERS
 
@@ -1872,7 +1892,7 @@ Pomalidomide Teva 1 mg hard capsules Pomalidomide Teva 2 mg hard capsules Pomali
 1. What Pomalidomide Teva is and what it is used for
 2. What you need to know before you take Pomalidomide Teva
 3. How to take Pomalidomide Teva
-4. Possible side  effects
+4. Possible side effects
 5. How to store Pomalidomide Teva
 6. Contents of the pack and other information
 
@@ -2121,37 +2141,36 @@ POM: Pomalidomide Teva; BOR : Bortezomib; DEX : Dexamethasone
 
 POM: Pomalidomide Teva; DEX : Dexamethasone
 
-|     | Medicine name   | Medicine name   |
-|-----|-----------------|-----------------|
-| Day | POM             | DEX             |
-| 1   | √               | √               |
-| 2   | √               |                 |
-| 3   | √               |                 |
-| 4   | √               |                 |
-| 5   | √               |                 |
-| 6   | √               |                 |
-| 7   | √               |                 |
-| 8   | √               | √               |
-| 9   | √               |                 |
-| 10  | √               |                 |
-| 11  | √               |                 |
-| 12  | √               |                 |
-| 13  | √               |                 |
-| 14  | √               |                 |
-| 15  | √               | √               |
-| 16  | √               |                 |
-| 17  | √               |                 |
-| 18  | √               |                 |
-| 19  | √               |                 |
-| 20  | √               |                 |
-| 21  | √               |                 |
-| 22  |                 | √               |
-| 23  |                 |                 |
-| 24  |                 |                 |
-| 25  |                 |                 |
-| 26  |                 |                 |
-| 27  |                 |                 |
-| 28  |                 |                 |
+|       | Medicine   | name   |
+|-------|------------|--------|
+| Day 1 | POM √      | DEX √  |
+| 2     | √          |        |
+| 3     | √          |        |
+| 4     | √          |        |
+| 5     | √          |        |
+| 6     | √          |        |
+| 7     | √          |        |
+| 8     | √          | √      |
+| 9     | √          |        |
+| 10    | √          |        |
+| 11    | √          |        |
+| 12    | √          |        |
+| 13    | √          |        |
+| 14    | √          |        |
+| 15    | √          | √      |
+| 16    | √          |        |
+| 17    | √          |        |
+| 18    | √          |        |
+| 19    | √          |        |
+| 20    | √          |        |
+| 21    | √          |        |
+| 22    |            | √      |
+| 23    |            |        |
+| 24    |            |        |
+| 25    |            |        |
+| 26    |            |        |
+| 27    |            |        |
+| 28    |            |        |
 
 ## How much Pomalidomide Teva to take with other medicines
 
@@ -2316,7 +2335,7 @@ Keep this medicine out of the sight and reach of children.
 
 Do not use this medicine after the expiry date which is stated on the blister and carton after EXP. The expiry date refers to the last day of that month.
 
-This medicine does not require any special storage conditions.
+## Do not store above 25°C
 
 Do not use Pomalidomide Teva if you notice any damage or signs of tampering to medicine packaging.
 
@@ -2381,9 +2400,17 @@ Balkanpharma-Dupnitsa AD
 
 3 Samokovsko Shosse Str. Dupnitsa 2600, Bulgaria
 
-Merckle GmbH Graf-Arco-Str. 3, 89079 Ulm, Germany
+## Merckle GmbH
 
-Actavis Group PTC ehf. Dalshraun 1 IS-220 Hafnarfjordur, Iceland
+Graf-Arco-Str. 3, 89079
+
+Ulm, Germany
+
+## Actavis Group PTC ehf.
+
+Dalshraun 1
+
+IS-220 Hafnarfjordur, Iceland
 
 For any information about this medicine, please contact the local representative of the Marketing Authorisation  Holder:
 
@@ -2433,9 +2460,11 @@ Tel: (+36) 1 288 6400
 
 ## Malta
 
-Teva Pharmaceuticals Ireland
+TEVA HELLAS Α.Ε.
 
-Tel: +44 (0) 207 540 7117
+il- Greċja
+
+Tel: +30 211 880 5000
 
 ## Deutschland
 
@@ -2477,7 +2506,7 @@ Tel: +43 1970070
 
 ## España
 
-Teva Pharma, S.L.U. Tel.: + 34 91 387 32 80
+Teva Pharma, S.L.U. Tel.: + 34 91 535 91 80
 
 ## France
 
@@ -2485,7 +2514,9 @@ Teva Santé Tél: +33 1 55 91 78 00
 
 ## Hrvatska
 
-Pliva Hrvatska d.o.o Tel: + 385 1 37 20 000
+Pliva Hrvatska d.o.o
+
+Tel: + 385 1 37 20 000
 
 ## Ireland
 
@@ -2501,7 +2532,9 @@ Teva Italia S.r.l Tel:. +39 028917981
 
 ## Κύπρος
 
-TEVA HELLAS Α.Ε. Ελλάδα Τηλ: +30 211 880 5000
+TEVA HELLAS Α.Ε. Ελλάδα
+
+Τηλ: +30 211 880 5000
 
 ## Latvija
 
@@ -2511,11 +2544,13 @@ UAB Teva Baltics filiāle Latvijā Tel: +371 67 323 666 LVRA@teva.lt
 
 ## Polska
 
-Teva Pharmaceuticals Polska Sp. z o.o. Tel: +48 22 345 93 00
+Teva Pharmaceuticals Polska Sp. z o.o.
+
+Tel: +48 22 345 93 00
 
 ## Portugal
 
-Teva Pharma -  Produtos Farmacêuticos, Lda Tel: +351 21 476 75 50
+Teva Pharma - Produtos Farmacêuticos, Lda Tel: +351 21 476 75 50
 
 ## România
 
@@ -2536,7 +2571,3 @@ Teva Finland Oy Puh/Tel: +358 20 180 5900
 ## Sverige
 
 Teva Sweden AB Tel: +46 (0)42 12 11 00
-
-## United Kingdom (Northern Ireland)
-
-United Kingdom (Northern Ireland) Teva Pharmaceuticals Ireland Ireland Tel: +44 (0) 207 540 7117

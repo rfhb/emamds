@@ -1,18 +1,18 @@
 ---
-document_datetime: 2025-11-10 12:26:25
-document_pages: 44
+document_datetime: 2026-01-26 15:39:28
+document_pages: 50
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/aspaveli-epar-product-information_en.pdf
 document_name: aspaveli-epar-product-information_en.pdf
 version: success
-processing_time: 10.783027
-conversion_datetime: 2025-12-23 06:38:04.105397
+processing_time: 16.810906
+conversion_datetime: 2026-01-29 12:03:54.024491
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.64.1
-  docling-core: 2.55.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.11.0
+  docling-jobkit: 1.9.0
+  docling: 2.70.0
+  docling-core: 2.61.0
+  docling-ibm-models: 3.11.0
+  docling-parse: 4.7.3
   python: cpython-313 (3.13.11)
   plaform: macOS-26.2-arm64-arm-64bit-Mach-O
 ---
@@ -50,33 +50,65 @@ Clear, colourless to slightly yellowish aqueous solution with pH 5.0.
 
 ASPAVELI is indicated as monotherapy in the treatment of adult patients with paroxysmal nocturnal haemoglobinuria (PNH) who have haemolytic anaemia.
 
+ASPAVELI is indicated for the treatment of adult and adolescent patients aged 12 to 17 years with C3 glomerulopathy (C3G) or primary immune-complex membranoproliferative glomerulonephritis (ICMPGN) in combination with a renin-angiotensin system (RAS) inhibitor, unless RAS inhibitor treatment is not tolerated or contraindicated.
+
 ## 4.2 Posology and method of administration
 
-Therapy should be initiated under the supervision of a healthcare professional experienced in the management of patients with haematological disorders. Self-administration and home infusion should be considered for patients who have tolerated treatment well in experienced treatment centres. The decision of a possibility of self-administration and home infusions should be made after evaluation and recommendation from the treating physician.
+Therapy should be initiated under the supervision of a healthcare professional experienced in the management of patients with haematological or renal disorders. Self-administration and home infusion should be considered for patients who have tolerated treatment well in experienced treatment centres. The decision of a possibility of self-administration and home infusions should be made after evaluation and recommendation from the treating physician.
 
 ## Posology
 
 Pegcetacoplan can be given by a healthcare professional or administered by the patient or caregiver following proper instruction.
 
+<div style=\"page-break-after: always\"></div>
+
+## PNH
+
+## Adult patients with PNH
+
 Pegcetacoplan is administered twice weekly as a 1 080 mg subcutaneous infusion with a commercially available syringe system infusion pump or on-body delivery system, that can deliver doses up to 20 mL. The twice weekly dose should be administered on Day 1 and Day 4 of each treatment week.
 
 PNH is a chronic disease and treatment with ASPAVELI is recommended to continue for the patient's lifetime, unless the discontinuation of this medicinal product is clinically indicated (see section 4.4).
 
-<div style=\"page-break-after: always\"></div>
-
-## Patients switching to ASPAVELI from a C5 inhibitor
+## Patients with PNH switching to ASPAVELI from a C5 inhibitor
 
 For the first 4 weeks, pegcetacoplan is administered as twice weekly subcutaneous doses of 1 080 mg in addition to the patient's current dose of C5 inhibitor treatment to minimise the risk of haemolysis with abrupt treatment discontinuation. After 4 weeks, the patient should discontinue C5 inhibitor before continuing on monotherapy with ASPAVELI.
 
 Switches from complement inhibitors other than eculizumab have not been studied. Discontinuing other complement inhibitors before reaching steady-state of pegcetacoplan should be done with caution (see section 5.2).
 
-## Dose adjustment
+## Dose adjustment in PNH
 
 The dosing regimen may be changed to 1 080 mg every third day (e.g., Day 1, Day 4, Day 7, Day 10, Day 13, and so forth) if a patient has a lactate dehydrogenase (LDH) level greater than 2 x upper limit of normal (ULN). In the event of a dose increase, LDH should be monitored twice weekly for at least 4 weeks (see section 4.4).
 
+## C3G and primary IC-MPGN
+
+Pegcetacoplan is administered twice weekly as a subcutaneous infusion with a commercially available syringe system infusion pump or on-body delivery system, that can deliver doses up to 20 mL. The twice weekly dose should be administered on Day 1 and Day 4 of each treatment week.
+
+C3G and primary IC-MPGN are chronic diseases. Discontinuation of this medicinal product is not recommended unless clinically indicated.
+
+## Adult patients with C3G or primary IC-MPGN
+
+Pegcetacoplan is administered twice weekly as a 1 080 mg subcutaneous infusion.
+
+## Adolescent patients with C3G or primary IC-MPGN
+
+For adolescent patients, the dosing regimen is based on the patient´s body weight and consists of the following:
+
+| Body weight   | First dose (infusion volume)   | Second dose (infusion volume)   | Maintenance dose (infusion volume)   |
+|---------------|--------------------------------|---------------------------------|--------------------------------------|
+| ≥ 50 kg       | 080 mg twice weekly (20 mL)    | 080 mg twice weekly (20 mL)     | 080 mg twice weekly (20 mL)          |
+| 35 to < 50 kg | 648 mg (12 mL)                 | 810 mg (15 mL)                  | 810 mg twice weekly (15 mL)          |
+| 30 to < 35 kg | 540 mg (10 mL)                 | 540 mg (10 mL)                  | 648 mg twice weekly (12 mL)          |
+
 ## Missed dose
 
-If a dose of pegcetacoplan is missed, it should be administered as soon as possible, then the regular schedule should be resumed.
+If a dose of pegcetacoplan for treatment of PNH, C3G or primary IC-MPGN is missed, it should be administered as soon as possible, then the regular schedule should be resumed even if this results in an interval of less than 3 days between the replacement dose and the subsequent dose.
+
+<div style=\"page-break-after: always\"></div>
+
+## Patients with post-transplant recurrent C3G or primary IC-MPGN
+
+Diagnosis of post-transplant recurrent C3G or primary IC-MPGN should be made based on a renal allograft biopsy. C3G or primary IC-MPGN recurrence may be detected in a routine post-transplant biopsy; otherwise, a biopsy should be performed when clinical signs indicate recurrent disease. As done in study APL2-C3G-204 (see section 5.1), treatment with pegcetacoplan can be started before the onset of clinical signs such as estimated glomerular filtration rate (eGFR) decrease or urine to proteinto-creatine ratio (uPCR) increase. There is limited experience with the use of pegcetacoplan in patients with recurrent C3G or primary IC-MPGN after transplantation in clinical studies (see section 5.1).
 
 ## Special populations
 
@@ -86,7 +118,7 @@ Although there were no apparent age-related differences observed in clinical stu
 
 ## Renal impairment
 
-Severe renal impairment (creatinine clearance &lt;30 mL/min) had no effect on the pharmacokinetics (PK) of pegcetacoplan; therefore, pegcetacoplan dose adjustment in patients with renal impairment is not necessary. There are no data available for the use of pegcetacoplan in patients with end-stage renal disease (ESRD) requiring haemodialysis (see section 5.2).
+Severe renal impairment (creatinine clearance &lt;30 mL/min) had no effect on the pharmacokinetics (PK) of pegcetacoplan; therefore, pegcetacoplan dose adjustment in patients with renal impairment is not necessary. There are no data available for the use of pegcetacoplan in patients with end-stage renal disease (ESRD) requiring dialysis (see section 5.2).
 
 ## Hepatic impairment
 
@@ -96,6 +128,8 @@ The safety and efficacy of pegcetacoplan have not been studied in patients with 
 
 The safety and efficacy of ASPAVELI in children with PNH aged 0 to &lt;18 years have not yet been established. No data are available.
 
+The safety and efficacy of ASPAVELI in children with C3G or primary IC-MPGN aged below 12 years have not been established. No data are available.
+
 This medicinal product should not be used in children &lt;12 years of age, as non-clinical safety data are not available for this age group.
 
 ## Method of administration
@@ -104,10 +138,10 @@ ASPAVELI should only be administered via subcutaneous administration using a com
 
 This medicinal product can be self-administered. When self-administration is initiated, the patient will be instructed by a qualified healthcare professional in infusion techniques, the use of a syringe system infusion pump or an on-body delivery system, the keeping of a treatment record, the recognition of possible adverse reactions, and measures to be taken in case these occur.
 
-<div style=\"page-break-after: always\"></div>
-
 - When using a syringe system infusion pump, ASPAVELI should be infused in the abdomen, thighs, hips, or upper arms. Infusion sites should be at least 7.5 cm apart from each other. The infusion sites should be rotated between administrations. The infusion time is approximately 30 minutes (if using two sites) or approximately 60 minutes (if using one site).
 - When using an on-body delivery system, ASPAVELI should be infused at a site on the abdomen. The infusion site should be rotated between administrations following the device manufacturer´s instructions. The infusion time varies by patient and typically ranges from 30 to 60 minutes.
+
+<div style=\"page-break-after: always\"></div>
 
 Infusion into areas where the skin is tender, bruised, red, or hard should be avoided. Infusion into tattoos, scars, or stretch marks should be avoided. The infusion should be started promptly after drawing this medicinal product into the syringe. Administration should be completed within 2 hours after preparing the syringe. For instructions on the preparation and infusion of the medicinal product, see section 6.6.
 
@@ -138,8 +172,6 @@ For patients without known history of vaccination, the required vaccines should 
 
 Vaccination may not be sufficient to prevent serious infection. Consideration should be given to official guidance on the appropriate use of antibacterial agents. All patients should be monitored for early signs of infections caused by encapsulated bacteria including Neisseria meningitidis , Streptococcus pneumoniae , and Haemophilus influenzae , evaluated immediately if infection is suspected, and treated with appropriate antibiotics if necessary. Patients should be informed of these signs and symptoms, and steps taken to seek medical care immediately. Physicians must discuss the benefits and risks of pegcetacoplan therapy with patients.
 
-<div style=\"page-break-after: always\"></div>
-
 ## Hypersensitivity
 
 Hypersensitivity reactions have been reported. If a severe hypersensitivity reaction (including anaphylaxis) occurs, infusion with pegcetacoplan must be discontinued immediately, and appropriate treatment instituted.
@@ -147,6 +179,8 @@ Hypersensitivity reactions have been reported. If a severe hypersensitivity reac
 ## Injection site reactions
 
 Injection site reactions have been reported with the use of subcutaneous pegcetacoplan (see section 4.8). Patients should be trained appropriately in proper injection technique.
+
+<div style=\"page-break-after: always\"></div>
 
 ## PNH laboratory monitoring
 
@@ -158,7 +192,7 @@ There may be interference between silica reagents in coagulation panels and pegc
 
 ## Treatment discontinuation for PNH
 
-If patients with PNH discontinue treatment with pegcetacoplan, they should be closely monitored for signs and symptoms of serious intravascular haemolysis. Serious intravascular haemolysis is identified by elevated LDH levels along with sudden decrease in PNH clone size or haemoglobin, or reappearance of symptoms such as fatigue, haemoglobinuria, abdominal pain, dyspnoea, major adverse vascular event (including thrombosis), dysphagia, or erectile dysfunction. If discontinuation of this medicinal product is necessary, alternate therapy should be considered. If serious haemolysis occurs after discontinuation, consider the following procedures/treatments: blood transfusion (packed RBCs), exchange transfusion, anticoagulation, and corticosteroids. Patients should be closely monitored for at least 8 weeks from the last dose, representing more than 5 half-lives of this medicinal product, to allow for medicinal product washout (see section 5.2) to detect serious haemolysis and other reactions. In addition, slow weaning should be considered.
+If patients with PNH discontinue treatment with pegcetacoplan, they should be closely monitored for signs and symptoms of serious intravascular haemolysis. Serious intravascular haemolysis is identified by elevated LDH levels along with sudden decrease in PNH clone size or haemoglobin (Hb), or reappearance of symptoms such as fatigue, haemoglobinuria, abdominal pain, dyspnoea, major adverse vascular event (including thrombosis), dysphagia, or erectile dysfunction. If discontinuation of this medicinal product is necessary, alternate therapy should be considered. If serious haemolysis occurs after discontinuation, consider the following procedures/treatments: blood transfusion (packed RBCs), exchange transfusion, anticoagulation, and corticosteroids. Patients should be closely monitored for at least 8 weeks from the last dose, representing more than 5 half-lives of this medicinal product, to allow for medicinal product washout (see section 5.2) to detect serious haemolysis and other reactions. In addition, slow weaning should be considered.
 
 ## Contraception in women of childbearing potential
 
@@ -172,13 +206,13 @@ ASPAVELI is a PEGylated medicinal product. The potential long-term effects of PE
 
 All physicians who intend to prescribe ASPAVELI must ensure they have received and are familiar with the physician educational material. Physicians must explain and discuss the benefits and risks of ASPAVELI therapy with the patient and provide them with the patient information pack and the patient card. The patient should be instructed to seek prompt medical care if they experience any sign or symptom of serious infection or hypersensitivity during therapy with ASPAVELI, especially if indicative of infection with encapsulated bacteria.
 
-## Excipients with known effect Sorbitol content
+## Excipients with known effect
+
+## Sorbitol content
 
 ASPAVELI 1 080 mg contains 820 mg sorbitol in each vial.
 
 Patients with hereditary fructose intolerance (HFI) should not take/be given this medicinal product.
-
-<div style=\"page-break-after: always\"></div>
 
 ## Sodium content
 
@@ -188,6 +222,8 @@ This medicinal product contains less than 1 mmol sodium (23 mg) per dose, that i
 
 No interaction studies have been performed. Based on in vitro data, pegcetacoplan has low potential for clinical drug-drug interactions.
 
+<div style=\"page-break-after: always\"></div>
+
 ## 4.6 Fertility, pregnancy and lactation
 
 ## Women of childbearing potential
@@ -196,7 +232,7 @@ It is recommended that women of childbearing potential use effective contracepti
 
 ## Pregnancy
 
-There are no or limited amount of data from the use of pegcetacoplan in pregnant women. Studies in animals have shown reproductive toxicity (see section 5.3).
+There is a limited amount of data from the use of pegcetacoplan in pregnant women. Studies in animals have shown reproductive toxicity (see section 5.3).
 
 Pegcetacoplan is not recommended during pregnancy and in women of childbearing potential not using contraception.
 
@@ -218,73 +254,123 @@ ASPAVELI has no or negligible influence on the ability to drive and use machines
 
 ## Summary of the safety profile
 
-The most commonly reported adverse reactions in patients treated with pegcetacoplan were injection site reactions: injection site erythema, injection site pruritus, injection site swelling, injection site pain, injection site bruising. Other adverse reactions reported in more than 10% of patients during clinical studies were upper respiratory tract infection, diarrhoea, haemolysis, abdominal pain, headache, fatigue, pyrexia, cough, urinary tract infection, vaccination complication, pain in extremity, dizziness, arthralgia and back pain. The most commonly reported serious adverse reactions were haemolysis and sepsis.
+## PNH
 
-<div style=\"page-break-after: always\"></div>
+The most commonly reported adverse reactions in patients with PNH treated with pegcetacoplan were injection site reactions: injection site erythema, injection site pruritus, injection site swelling, injection site pain, injection site bruising. Other adverse reactions reported in more than 10% of patients during clinical studies were upper respiratory tract infection, diarrhoea, haemolysis, abdominal pain, headache, fatigue, pyrexia, cough, urinary tract infection, vaccination complication, pain in extremity, dizziness, arthralgia and back pain. The most commonly reported serious adverse reactions were haemolysis and sepsis.
+
+## C3G and primary IC-MPGN
+
+The most commonly reported adverse drug reactions in patients with C3G or primary IC-MPGN treated with pegcetacoplan were infusion site reactions and upper respiratory tract infections. The most commonly reported serious adverse reactions were acute kidney injury and pneumonia.
 
 ## Tabulated list of adverse reactions
 
-Table 1 gives the adverse reactions observed from the clinical studies and postmarketing experience with pegcetacoplan in patients with PNH. Adverse reactions are listed by MedDRA system organ class (SOC) and frequency, using the following convention: very common (≥1/10), common (≥1/100 to &lt;1/10), uncommon (≥1/1 000 to &lt;1/100) or rare (≥1/10 000 to &lt;1/1 000), very rare (&lt;1/10 000), and not known (cannot be estimated from available data).
-
-Within each frequency grouping, adverse reactions are presented in order of decreasing seriousness.
-
-Table 1: Adverse reactions from clinical trials 1  and postmarketing experience
-
-| MedDRA System Organ Class                       | Frequency   | Adverse reaction                                                                                                                                                                                                    |
-|-------------------------------------------------|-------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Infections and infestations                     | Very common | Upper respiratory tract infection Urinary tract infection                                                                                                                                                           |
-|                                                 | Common      | Sepsis 2 COVID-19 Gastrointestinal infection Fungal infection Skin infection Oral infection Ear infection Infection Respiratory tract infection Viral infection Bacterial infection Vaginal infection Eye infection |
-|                                                 | Uncommon    | Cervicitis Groin infection Pneumonia Nasal abscess Tuberculosis Oesophageal candidiasis COVID-19 pneumonia Anal abscess                                                                                             |
-| Blood and lymphatic system disorders            | Very common | Haemolysis                                                                                                                                                                                                          |
-| Blood and lymphatic system disorders            | Common      | Thrombocytopenia Neutropenia                                                                                                                                                                                        |
-| Metabolism and nutrition disorders              | Common      | Hypokalaemia                                                                                                                                                                                                        |
-| Nervous system disorders                        | Very common | Headache Dizziness                                                                                                                                                                                                  |
-| Vascular disorders                              | Common      | Hypertension                                                                                                                                                                                                        |
-| Respiratory, thoracic and mediastinal disorders | Very common | Cough                                                                                                                                                                                                               |
-| Respiratory, thoracic and mediastinal disorders | Common      | Dyspnoea Epistaxis Oropharyngeal pain Nasal congestion                                                                                                                                                              |
-| Gastrointestinal disorders                      | Very common | Abdominal pain Diarrhoea                                                                                                                                                                                            |
-| Gastrointestinal disorders                      | Common      | Nausea                                                                                                                                                                                                              |
-| Skin and subcutaneous tissue disorders          | Common      | Erythema Rash Urticaria 3                                                                                                                                                                                           |
+Table 1 gives the adverse reactions observed from the clinical studies and postmarketing experience with pegcetacoplan in patients with PNH, C3G and primary IC-MPGN. Adverse reactions are listed by MedDRA system organ class (SOC) and frequency, using the following convention: very common (≥1/10), common (≥1/100 to &lt;1/10), uncommon (≥1/1 000 to &lt;1/100) or rare (≥1/10 000 to &lt;1/1 000), very rare (&lt;1/10 000), and not known (cannot be estimated from available data). Within each frequency grouping, adverse reactions are presented in order of decreasing seriousness.
 
 <div style=\"page-break-after: always\"></div>
 
-| MedDRA System Organ Class                            | Frequency   | Adverse reaction                                                                                                                    |
-|------------------------------------------------------|-------------|-------------------------------------------------------------------------------------------------------------------------------------|
-| Musculoskeletal and connective tissue disorders      | Very common | Arthralgia Back pain Pain in extremity                                                                                              |
-| Musculoskeletal and connective tissue disorders      | Common      | Myalgia Muscle spasms                                                                                                               |
-| Renal and urinary disorders                          | Common      | Acute kidney injury Chromaturia                                                                                                     |
-| General disorders and administration site conditions | Very common | Injection site erythema Injection site pruritus Injection site swelling Injection site bruising Fatigue Pyrexia Injection site pain |
-| General disorders and administration site conditions | Common      | Injection site reaction Injection site induration                                                                                   |
-| Investigations                                       | Common      | Alanine aminotransferase increased Bilirubin increased                                                                              |
-| Injury, poisoning and procedural complications       | Very common | Vaccination complication 4                                                                                                          |
+Table 1: Adverse reactions from clinical trials 1  and postmarketing experience
 
-1 Studies APL2-308, APL2-302, APL2-202, APL2-CP-PNH-204, and APL-CP0514 in PNH patients.
+| MedDRA System Organ Class Adverse reaction                                                                        | Frequency in PNH   | Frequency in C3G or primary IC-MPGN   |
+|-------------------------------------------------------------------------------------------------------------------|--------------------|---------------------------------------|
+| Infections and infestations                                                                                       |                    |                                       |
+| Influenza                                                                                                         |                    | Very common                           |
+| Upper respiratory tract infections 2                                                                              | Very common        | Very common                           |
+| Urinary tract infection                                                                                           | Very common        | Common                                |
+| Sepsis                                                                                                            | Common 3           |                                       |
+| Opportunistic infections                                                                                          |                    | Common 4                              |
+| COVID-19, Gastrointestinal infection, Fungal infection, Skin infection, Oral infection                            | Common             |                                       |
+| Ear infection                                                                                                     | Common             | Common                                |
+| Infection, Respiratory tract infection 5 , Viral infection, Bacterial infection, Vaginal infection, Eye infection | Common             |                                       |
+| Cervicitis, Groin infection                                                                                       | Uncommon           |                                       |
+| Pneumonia                                                                                                         |                    |                                       |
+|                                                                                                                   | Uncommon           | Common                                |
+| Nasal abscess, Tuberculosis, Oesophageal candidiasis, COVID-19 pneumonia, Anal abscess                            | Uncommon           |                                       |
+| Immune system disorders                                                                                           |                    |                                       |
+| Hypersensitivity reaction                                                                                         |                    | Very common 6                         |
+| Blood and lymphatic system disorders                                                                              |                    |                                       |
+| Haemolysis                                                                                                        | Very common        |                                       |
+| Thrombocytopenia                                                                                                  | Common             | Common 7                              |
+| Neutropenia                                                                                                       | Common             | Common                                |
+| Metabolism and nutrition disorders                                                                                |                    |                                       |
+| Hypokalaemia                                                                                                      | Common             | Common                                |
+| Nervous system disorders                                                                                          |                    |                                       |
+| Headache                                                                                                          | Very common        | Very common                           |
+| Dizziness                                                                                                         | Very common        |                                       |
+| Vascular disorders                                                                                                |                    |                                       |
+| Hypertension                                                                                                      | Common             |                                       |
+| Respiratory, thoracic and mediastinal disorders                                                                   |                    |                                       |
+| Cough                                                                                                             | Very common        | Common                                |
+| Dyspnoea, Oropharyngeal pain, Nasal congestion                                                                    | Common             |                                       |
+| Epistaxis                                                                                                         | Common             | Common                                |
+| Gastrointestinal disorders                                                                                        |                    |                                       |
+| Abdominal pain                                                                                                    | Very common        |                                       |
+| Diarrhoea                                                                                                         | Very common        | Very common                           |
+| Nausea                                                                                                            | Common             | Very common                           |
+| Skin and subcutaneous tissue disorders                                                                            |                    |                                       |
+| Erythema, Rash, Urticaria                                                                                         | Common             |                                       |
+| Musculoskeletal and connective tissue disorders                                                                   |                    |                                       |
+| Arthralgia, Back pain                                                                                             | Very common        |                                       |
+| Pain in extremity                                                                                                 | Very common        | Common                                |
+| Myalgia                                                                                                           | Common             | Common                                |
+| Muscle spasms                                                                                                     | Common             |                                       |
+| Renal and urinary disorders                                                                                       |                    |                                       |
+| Acute kidney injury                                                                                               | Common             | Very common                           |
+| Chromaturia                                                                                                       | Common             |                                       |
+| General disorders and administration site conditions                                                              |                    |                                       |
+| Pyrexia                                                                                                           | Very common        | Very common                           |
+| Fatigue                                                                                                           | Very common        | Common                                |
+| Infusion site reactions 8                                                                                         | Very common        | Very common                           |
+
+<div style=\"page-break-after: always\"></div>
+
+| MedDRA System Organ Class Adverse reaction              | Frequency in PNH   | Frequency in C3G or primary IC-MPGN   |
+|---------------------------------------------------------|--------------------|---------------------------------------|
+| Investigations                                          |                    |                                       |
+| Alanine aminotransferase increased, Bilirubin increased | Common             |                                       |
+| Injury, poisoning and procedural complications          |                    |                                       |
+| Vaccination complication                                | Very common        |                                       |
 
 Medically similar terms are grouped, where appropriate, on the basis of similar medical concept.
 
-2 Sepsis includes one case of septic shock.
+2 Include nasopharyngitis, upper respiratory tract infection, pharyngitis, rhinitis and sinusitis.
 
-3 Estimated from both clinical trial- and post marketing experience.
+3 Sepsis includes one case of septic shock and one case with non-encapsulated Neisseria meningitidis .
 
-4 Vaccination complications were related to the mandatory vaccinations.
+4 Herpes zoster (including Herpes zoster meningoencephalitis ), and Pneumocystis jirovecii infection.
+
+5 Include respiratory tract infection and respiratory tract infection viral.
+
+6 Include rash and eczema.
+
+7 Includes platelet count decreased.
+
+8 PTs included in Infusion site reactions: infusion site erythema, infusion site pruritus, infusion site swelling, infusion site bruising, infusion site pain, infusion site induration.
 
 ## Description of selected adverse reactions
 
 ## Infections
 
-Based on its mechanism of action, the use of pegcetacoplan may potentially increase the risk of infections, particularly infections caused by encapsulated bacteria including Streptococcus pneumoniae , Neisseria meningitidis types A, C, W, Y, and B, and Haemophilus influenzae (see section 4.4). No serious infection caused by encapsulated bacteria was reported during Study APL2-302. Forty-eight patients experienced an infection during the study. The most frequent infections in patients treated with pegcetacoplan during Study APL2-302 were upper respiratory tract infection (28 cases, 35%). Most infections reported in patients treated with pegcetacoplan during study APL2-302 were non-serious, and predominantly mild in intensity. Ten patients developed infections reported as serious including one patient who died due to COVID-19. The most frequent serious infections were sepsis (3 cases) (leading to discontinuation of pegcetacoplan in one patient) and gastroenteritis (3 cases); all of which resolved. Eleven patients experienced an infection during study APL2-308. All but one infection were reported as mild or moderate in intensity. One patient who had an infection developed septic shock and died.
+No serious infection caused by encapsulated bacteria was reported during PNH Study APL2-302. Forty-eight patients experienced an infection during the study. The most frequent infections in patients treated with pegcetacoplan during PNH Study APL2-302 were upper respiratory tract infection (28 cases, 35%). Most infections reported in patients treated with pegcetacoplan during PNH Study APL2-302 were nonserious, and predominantly mild in intensity. Ten patients developed infections reported as serious including one patient who died due to COVID-19. The most frequent serious infections were sepsis (3 cases) (leading to discontinuation of pegcetacoplan in one patient) and gastroenteritis (3 cases); all of which resolved.
+
+In C3G and primary IC-MPGN clinical studies, four serious respiratory tract infections caused by encapsulated bacteria were reported in patients treated with pegcetacoplan: an epiglottitis, a pneumococcal pneumonia and an atypical pneumonia that led to drug interruption, and a pneumonia Haemophilus with no dose adjustment. Events recovered and resolved except for the events of pneumonia Haemophilus and the atypical pneumonia that resolved with sequelae. In addition, one serious Escherichia urinary tract infection was reported, the event recovered and resolved with no dose adjustment.
 
 ## Haemolysis
 
-Nineteen patients reported haemolysis during Study APL2-302 in patients treated with pegcetacoplan. Seven cases were reported as serious, and 5 cases led to discontinuation of pegcetacoplan and the dose of pegcetacoplan was increased in 10 patients. There were 3 cases of haemolysis during study APL2-308 in patients treated with pegcetacoplan. None of these cases were reported as serious or led to discontinuation of pegcetacoplan. The dose of pegcetacoplan was increased in all 3 patients.
+Nineteen patients reported haemolysis during PNH Study APL2-302 in patients treated with pegcetacoplan. Seven cases were reported as serious, and 5 cases led to discontinuation of pegcetacoplan and the dose of pegcetacoplan was increased in 10 patients. There were 3 cases of haemolysis during PNH Study APL2-308 in patients treated with pegcetacoplan. None of these cases were reported as serious or led to discontinuation of pegcetacoplan. The dose of pegcetacoplan was increased in all 3 patients.
 
-## Immunogenicity
+## Acute kidney injury
 
-Anti-drug antibody (ADA) incidence (seroconverted ADA or boosted ADA from pre-existing level) were low, and when present, had no noticeable impact on the PK/PD, efficacy, or safety profile of pegcetacoplan. Throughout studies APL2-302 and APL2-308, 3 out of 126 patients who were exposed to pegcetacoplan had confirmed positive anti-pegcetacoplan peptide antibodies. All 3 patients also tested positive for neutralising antibody (NAb). NAb response had no apparent impact on PK or
+In C3G and primary IC-MPGN clinical studies, 10 serious events of acute kidney injury were reported in 8 patients (5.7%) treated with pegcetacoplan, of which 5 events were observed in 4 post-transplant patients. Of these serious events, only 1 led to drug withdrawal and 1 to dose interruption. All events recovered and resolved, except the single event that led to drug withdrawal.
+
+## Patients with post-transplant recurrent C3G or primary IC-MPGN
+
+In the patients with post-transplant recurrent C3G or primary IC-MPGN (N=22), included in Studies APL2-C3G-310 and APL2-C3G-204, the safety profile appeared consistent with that of the overall population, although with higher frequencies of severe and serious adverse events, as expected in this patient population.
 
 <div style=\"page-break-after: always\"></div>
 
-clinical efficacy. Eighteen out of 126 patients developed anti-PEG antibodies; 9 were seroconversions and 9 were treatment-boosted.
+## Paediatric population
+
+In adolescent patients with C3G or primary IC-MPGN (N=28, aged 12 years to 17 years) included in Study APL2-C3G-310, the safety profile appeared consistent with the overall results. The most common adverse reaction reported in this patient population were infusion site reactions. The safety of pegcetacoplan has not been studied in paediatric patients less than 12 years of age.
 
 ## Reporting of suspected adverse reactions
 
@@ -292,7 +378,7 @@ Reporting suspected adverse reactions after authorisation of the medicinal produ
 
 ## 4.9 Overdose
 
-No case of overdose has been reported to date. In case of overdose, it is recommended that the patient be monitored for any signs or symptoms of adverse reactions and appropriate symptomatic treatment be instituted.
+In the postmarketing setting, cases of overdose have been reported, with no new safety events observed. In case of overdose, it is recommended that the patient be monitored for any signs or symptoms of adverse reactions and appropriate symptomatic treatment be instituted.
 
 ## 5. PHARMACOLOGICAL PROPERTIES
 
@@ -302,33 +388,49 @@ Pharmacotherapeutic group: Immunosuppressants, Complement inhibitors, ATC code: 
 
 ## Mechanism of action
 
-Pegcetacoplan is a symmetrical molecule comprised of two identical pentadecapeptides covalently bound to the ends of a linear 40-kDa PEG molecule. The peptide moieties bind to complement C3 and exert a broad inhibition of the complement cascade. The 40-kDa PEG moiety imparts improved solubility and longer residence time in the body after administration of the medicinal product.
+Pegcetacoplan is a symmetrical molecule comprised of two identical pentadecapeptides covalently bound to the ends of a linear 40-kDa PEG molecule. The peptide moieties bind to complement C3 and C3b and exert a broad inhibition of the complement cascade. The 40-kDa PEG moiety imparts improved solubility and longer residence time in the body after administration of the medicinal product.
 
 Pegcetacoplan binds to complement protein C3 and its activation fragment C3b with high affinity, thereby regulating the cleavage of C3 and the generation of downstream effectors of complement activation. In PNH, extravascular haemolysis (EVH) is facilitated by C3b opsonisation while intravascular haemolysis (IVH) is mediated by the downstream membrane attack complex (MAC). Pegcetacoplan exerts broad regulation of the complement cascade by acting proximal to both C3b and MAC formation, thereby controlling the mechanisms that lead to EVH and IVH.
 
+In C3G and primary IC-MPGN, there is excessive deposition of C3 breakdown products in the glomeruli of the kidney leading to renal parenchymal damage and impairment of kidney function. Pegcetacoplan targets upstream effectors of complement activation (C3 and C3b), thereby inhibiting activation initiated by all (alternative, classical and lectin) complement pathways. By inhibiting C3, pegcetacoplan directly addresses the inappropriate C3 activation and modifies the underlying disease by reducing the excessive deposition of C3 breakdown products in the glomeruli of the kidney. By targeting C3b, pegcetacoplan also inhibits the activity of the alternative pathway (AP) C3 convertase through an additional mechanism of action in the complement cascade. This further prevents deposition of C3 breakdown products in the glomeruli.
+
 ## Pharmacodynamic effects
 
-In Study APL2-302, the mean C3 concentration increased from 0.94 g/L at baseline to 3.83 g/L at Week 16 in the pegcetacoplan group and sustained through Week 48. In Study APL2-308, the mean C3 concentration increased from 0.95 g/L at baseline to 3.56 g/L at Week 26.
+## PNH
+
+In Study APL2-302, the mean serum C3 concentration increased from 0.94 g/L at baseline to 3.83 g/L at Week 16 in the pegcetacoplan group and sustained through Week 48. In Study APL2-308, the mean serum C3 concentration increased from 0.95 g/L at baseline to 3.56 g/L at Week 26.
+
+<div style=\"page-break-after: always\"></div>
 
 In Study APL2-302, the mean percentage of PNH Type II + III RBCs increased from 66.80% at baseline, to 93.85% at Week 16 and sustained through Week 48. In Study APL2-308, the mean percentage of PNH Type II + III RBCs increased from 42.4% at baseline to 90.0% at Week 26.
 
 In Study APL2-302, the mean percentage of PNH Type II + III RBCs with C3 deposition was decreased from 17.73% at baseline to 0.20% at Week 16 and sustained through Week 48. In Study APL2-308, the mean percentage of PNH Type II + III RBCs with C3 deposition decreased from 2.85% at baseline to 0.09% at Week 26.
 
+## C3G and primary IC-MPGN
+
+In Study APL2-C3G-310, the mean serum C3 concentration increased from 0.62 g/L at baseline to 3.71 g/L at Week 26 in the pegcetacoplan group and the effect was sustained up to Week 52. In the placebo group, C3 concentrations remained stable up to Week 26 (0.57 g/L at baseline; 0.58 g/L at Week 26) and increased upon switch to pegcetacoplan to 3.59 g/L at Week 52.
+
+Mean serum sC5b-9 concentration decreased from 902.5 ng/mL at baseline to 290.2 ng/mL at Week 26 in the pegcetacoplan group and the effect was sustained up to Week 52. In the placebo group, sC5b-9 concentrations remained stable (768.3 ng/mL at baseline; 759.9 ng/mL at Week 26) and decreased upon switch to pegcetacoplan to 272.9 ng/mL at Week 52.
+
+Clearance of glomerular C3 deposits at 6 months was observed based on a greater proportion of patients achieving a staining score of zero in the pegcetacoplan (71.4%) as compared to the placebo (8.8%) group.
+
 ## Clinical efficacy and safety
+
+## PNH
 
 The efficacy and safety of pegcetacoplan in patients with PNH was assessed in two open-label, randomised-controlled phase 3 studies: in complement inhibitor-experienced patients in Study APL2-302 and in complement inhibitor-naïve patients in Study APL2-308. In both studies the dose of pegcetacoplan was 1 080 mg twice weekly. If required, the dose could be adjusted to 1 080 mg every 3 days.
 
-<div style=\"page-break-after: always\"></div>
-
 ## Study in complement inhibitor-experienced adult patients (APL2-302)
 
-Study APL2-302 was an open-label, randomised study with an active comparator-controlled period of 16 weeks followed by a 32-week open label period (OLP). This study enrolled patients with PNH who had been treated with a stable dose of eculizumab for at least the previous 3 months and with haemoglobin levels &lt;10.5 g/dL. Eligible patients entered a 4-week run-in period during which they received pegcetacoplan 1 080 mg subcutaneously twice weekly in addition to their current dose of eculizumab. Patients were then randomised in a 1:1 ratio to receive either 1 080 mg of pegcetacoplan twice weekly or their current dose of eculizumab through the duration of the 16-week randomised controlled period (RCP). Randomisation was stratified based on the number of packed red blood cell (PRBC) transfusions within the 12 months prior to Day 28 (&lt;4; ≥4) and platelet count at screening (&lt;100 000/mm 3 ; ≥100 000/mm 3 ). Patients who completed the RCP entered the OLP during which all patients received pegcetacoplan for up to 32 weeks (patients who received eculizumab during the RCP entered a 4-week run-in period before switching to pegcetacoplan monotherapy).
+Study APL2-302 was an open-label, randomised study with an active comparator-controlled period of 16 weeks followed by a 32-week open label period (OLP). This study enrolled patients with PNH who had been treated with a stable dose of eculizumab for at least the previous 3 months and with Hb levels &lt;10.5 g/dL. Eligible patients entered a 4-week run-in period during which they received pegcetacoplan 1 080 mg subcutaneously twice weekly in addition to their current dose of eculizumab. Patients were then randomised in a 1:1 ratio to receive either 1 080 mg of pegcetacoplan twice weekly or their current dose of eculizumab through the duration of the 16-week randomised controlled period (RCP). Randomisation was stratified based on the number of packed red blood cell (PRBC) transfusions within the 12 months prior to Day 28 (&lt;4; ≥4) and platelet count at sc reening (&lt;100 000/mm 3 ; ≥100 000/mm 3 ). Patients who completed the RCP entered the OLP during which all patients received pegcetacoplan for up to 32 weeks (patients who received eculizumab during the RCP entered a 4-week run-in period before switching to pegcetacoplan monotherapy).
 
-The primary and secondary efficacy endpoints were assessed at Week 16. The primary efficacy endpoint was change from baseline to Week 16 (during RCP) in haemoglobin level. Baseline was defined as the average of measurements prior to the first dose of pegcetacoplan (at the beginning of the run-in period). Key secondary efficacy endpoints were transfusion avoidance, defined as the proportion of patients who did not require a transfusion during the RCP, and change from baseline to Week 16 in absolute reticulocyte count (ARC), LDH level, and FACIT-Fatigue scale score.
+The primary and secondary efficacy endpoints were assessed at Week 16. The primary efficacy endpoint was change from baseline to Week 16 (during RCP) in Hb level. Baseline was defined as the average of measurements prior to the first dose of pegcetacoplan (at the beginning of the run-in period). Key secondary efficacy endpoints were transfusion avoidance, defined as the proportion of patients who did not require a transfusion during the RCP, and change from baseline to Week 16 in absolute reticulocyte count (ARC), LDH level, and functional assessment of chronic illness therapy (FACIT)-Fatigue scale score.
 
-A total of 80 patients entered the run-in period. At the end of the run-in period, all 80 were randomised, 41 to pegcetacoplan and 39 to eculizumab. Demographics and baseline disease characteristics were generally well balanced between treatment groups (see Table 2). A total of 38 patients in the group treated with pegcetacoplan and 39 patients in the eculizumab group completed the 16-week RCP and continued into the 32-week open-label period. In total, 12 of 80 (15%) patients receiving pegcetacoplan discontinued due to adverse events. Per protocol 15 patients had their dose adjusted to 1 080 mg every 3 days. Twelve patients were evaluated for benefit and 8 of the 12 patients demonstrated benefit from the dose adjustment.
+A total of 80 patients entered the run-in period. At the end of the run-in period, all 80 were randomised, 41 to pegcetacoplan and 39 to eculizumab. Demographics and baseline disease
 
 <div style=\"page-break-after: always\"></div>
+
+characteristics were generally well balanced between treatment groups (see Table 2). A total of 38 patients in the group treated with pegcetacoplan and 39 patients in the eculizumab group completed the 16-week RCP and continued into the 32-week open-label period. In total, 12 of 80 (15%) patients receiving pegcetacoplan discontinued due to adverse events. Per protocol 15 patients had their dose adjusted to 1 080 mg every 3 days. Twelve patients were evaluated for benefit and 8 of the 12 patients demonstrated benefit from the dose adjustment.
 
 Table 2: Patient baseline demographics and characteristics in Study APL2-302
 
@@ -351,17 +453,15 @@ Table 2: Patient baseline demographics and characteristics in Study APL2-302
 | History of aplastic anaemia                                                                                                              | n (%)                   | 11 (26.8)                           | 9 (23.1)                       |
 | History of myelodysplastic syndrome                                                                                                      | n (%)                   | 1 (2.4)                             | 2 (5.1)                        |
 
-*FACIT-Fatigue is measured on a scale of 0-52, with higher values indicating less fatigue.
-
 Pegcetacoplan was superior to eculizumab for the primary endpoint of the haemoglobin change from baseline (P&lt;0.0001).
+
+<div style=\"page-break-after: always\"></div>
 
 Figure 1. Adjusted mean change in haemoglobin (g/dL) from baseline to Week 16 in APL2-302
 
 <!-- image -->
 
 Non-inferiority was demonstrated in key secondary endpoints of transfusion avoidance and change from baseline in ARC.
-
-<div style=\"page-break-after: always\"></div>
 
 Non-inferiority was not met in change from baseline in LDH.
 
@@ -373,37 +473,37 @@ Figure 2. Key secondary endpoints analysis in APL2-302
 
 <!-- image -->
 
+95% CI
+
 Results were consistent across all supportive analyses of the primary and key secondary endpoints, including all observed data with post transfusion data included.
 
-Haemoglobin normalisation was achieved in 34% of patients in the pegcetacoplan group versus 0% in the eculizumab group at Week 16. LDH normalisation was achieved in 71% of patients in the group treated with pegcetacoplan versus 15% in the eculizumab group.
+Hb normalisation was achieved in 34% of patients in the pegcetacoplan group versus 0% in the eculizumab group at Week 16. LDH normalisation was achieved in 71% of patients in the group treated with pegcetacoplan versus 15% in the eculizumab group.
+
+<div style=\"page-break-after: always\"></div>
 
 A total of 77 patients entered the 32-week OLP, during which all patients received pegcetacoplan, resulting in a total exposure of up to 48 weeks. The results at Week 48 were generally consistent with those at Week 16 and support sustained efficacy.
 
 ## Study in complement inhibitor-naïve adult patients (APL2-308)
 
-Study APL2-308 was an open-label, randomised, controlled study that enrolled patients with PNH who had not been treated with any complement inhibitor within 3 months prior to enrolment and with haemoglobin levels less than the lower limit of normal (LLN). Eligible patients were randomised in a 2:1 ratio to receive pegcetacoplan or supportive care (e.g., transfusions, corticosteroids, supplements such as iron, folate, and vitamin B12), hereafter referred to as the control arm through the duration of the 26-week treatment period.
+Study APL2-308 was an open-label, randomised, controlled study that enrolled patients with PNH who had not been treated with any complement inhibitor within 3 months prior to enrolment and with Hb levels less than the lower limit of normal (LLN). Eligible patients were randomised in a 2:1 ratio to receive pegcetacoplan or supportive care (e.g., transfusions, corticosteroids, supplements such as iron, folate, and vitamin B12), hereafter referred to as the control arm through the duration of the 26-week treatment period.
 
-Randomisation was stratified based on the number of packed red blood cell (PRBC) transfusions within the 12 months prior to Day 28 (&lt;4; ≥4). At any point during the study, a patient assigned to the control arm who had haemoglobin levels ≥2 g/dL below baseline or presented with a PNH associated thromboembolic event was per protocol able to transition to pegcetacoplan for the remainder of the study.
+Randomisation was stratified based on the number of PRBC transfusions within the 12 months prior to Day 28 (&lt;4; ≥4). At any point during the study, a patient assigned to the control arm who had Hb levels ≥2 g/dL below baseline or presented with a PNH associated thromboembolic event was per protocol able to transition to pegcetacoplan for the remainder of the study.
 
-A total of 53 patients were randomised, 35 to pegcetacoplan and 18 patients to the control arm. Demographics and baseline disease characteristics were generally well balanced between treatment arms. The mean age was 42.2 years in the pegcetacoplan arm and 49.1 years in the control arm. The mean number of PRBC transfusions in the 12 months prior to screening was 3.9 in the pegcetacoplan arm and 5.1 in the control arm. Five patients in each arm (14.3% in the pegcetacoplan arm and 27.8% in the control arm) had a history of aplastic anaemia. Further baseline values were as follows: mean
+A total of 53 patients were randomised, 35 to pegcetacoplan and 18 patients to the control arm. Demographics and baseline disease characteristics were generally well balanced between treatment arms. The mean age was 42.2 years in the pegcetacoplan arm and 49.1 years in the control arm. The mean number of PRBC transfusions in the 12 months prior to screening was 3.9 in the pegcetacoplan arm and 5.1 in the control arm. Five patients in each arm (14.3% in the pegcetacoplan arm and 27.8% in the control arm) had a history of aplastic anaemia. Further baseline values were as follows: mean baseline Hb levels (pegcetacoplan arm: 9.4 g/dL vs. control arm; 8.7 g/dL), ARC (pegcetacoplan arm: 230.2 × 10 9 /L vs. control arm: 180.3 × 10 9 /L), LDH (pegcetacoplan arm: 2 151.0 U/L vs. control arm: 1 945.9 U/L) and platelet count (pegcetacoplan arm: 191.4 × 10 9 /L vs. control arm: 125.5 × 10 9 /L). Eleven of 18 patients randomised to the control arm transitioned to pegcetacoplan because their Hb levels decreased by ≥2 g/dL below baseline. Of the 53 randomised patients, 52 (97.8%) received prophylactic antibiotic therapy according to local prescribing guidelines.
 
-<div style=\"page-break-after: always\"></div>
+The primary and secondary efficacy endpoints were assessed at Week 26. The two co-primary efficacy endpoints were Hb stabilisation, defined as avoidance of a &gt;1 g/dL decrease in Hb concentration from baseline in the absence of transfusion, and change in LDH concentration from baseline.
 
-baseline haemoglobin levels (pegcetacoplan arm: 9.4 g/dL vs. control arm; 8.7 g/dL), ARC (pegcetacoplan arm: 230.2 × 10 9 /L vs. control arm: 180.3 × 10 9 /L), LDH (pegcetacoplan arm: 2 151.0 U/L vs. control arm: 1 945.9 U/L) and platelet count (pegcetacoplan arm: 191.4 × 10 9 /L vs. control arm: 125.5 × 10 9 /L). Eleven of 18 patients randomised to the control arm transitioned to pegcetacoplan because their haemoglobin levels decreased by ≥2 g/dL below baseline. Of the 53 randomised patients, 52 (97.8%) received prophylactic antibiotic therapy according to local prescribing guidelines.
-
-The primary and secondary efficacy endpoints were assessed at Week 26. The two co-primary efficacy endpoints were haemoglobin stabilisation, defined as avoidance of a &gt;1 g/dL decrease in haemoglobin concentration from baseline in the absence of transfusion, and change in LDH concentration from baseline.
-
-In the group treated with pegcetacoplan, 30 out of 35 patients (85.7%) achieved haemoglobin stabilisation versus 0 patients in the control arm. The adjusted difference between pegcetacoplan and the control arm was 73.1% (95% CI, 57.2% to 89.0%; p&lt;0.0001).
+In the group treated with pegcetacoplan, 30 out of 35 patients (85.7%) achieved Hb stabilisation versus 0 patients in the control arm. The adjusted difference between pegcetacoplan and the control arm was 73.1% (95% CI, 57.2% to 89.0%; p&lt;0.0001).
 
 The least-square (LS) mean (SE) changes from baseline in LDH concentration at Week 26 were -1 870 U/L in the group treated with pegcetacoplan versus -400 U/L in the control arm (p&lt;0.0001). The difference between pegcetacoplan and the control arm was -1 470 (95% CI, -2 113 to -827). Treatment differences between the pegcetacoplan and the control arm were evident at Week 2 and were maintained through Week 26 (Figure 3). LDH concentrations in the control arm remained elevated.
+
+<div style=\"page-break-after: always\"></div>
 
 Figure 3. Mean (±SE) LDH concentration (U/L) over time by treatment group in study APL2-308
 
 <!-- image -->
 
 For the selected key secondary efficacy endpoints of haemoglobin response in the absence of transfusions, change in haemoglobin level, and change in ARC, the group treated with pegcetacoplan demonstrated a significant treatment difference versus the control arm (Table 3).
-
-<div style=\"page-break-after: always\"></div>
 
 Table 3: Key secondary endpoints analysis in study APL2-308
 
@@ -413,25 +513,121 @@ Table 3: Key secondary endpoints analysis in study APL2-308
 | Change from baseline to Week 26 in haemoglobin level (g/dL) LS Mean (SE) | 2.9 (0.38)             | 0.3 (0.76)           | 2.7 (1.0, 4.4)                |
 | Change from baseline to Week 26 in ARC (10 9 /L) LS Mean (SE)            | -123 (9.2)             | -19 (25.2)           | -104 (-159, -49)              |
 
-a  Haemoglobin response was defined as a ≥1 g/dL increase in
-
-haemoglobin from baseline at Week 26.
-
 ARC = Absolute reticulocyte count, CI = Confidence interval, LS = Least square, SE = Standard error
+
+## C3G and primary IC-MPGN
+
+The efficacy and safety of pegcetacoplan in patients with C3G or primary IC-MPGN was assessed in the randomised, placebo-controlled, double- blinded phase 3 Study APL2-C3G-310, including adults and adolescents with native kidney or post-transplant recurrent C3G or primary IC-MPGN.
+
+The dose of pegcetacoplan was 1 080 mg twice weekly for adults or adolescents with body weights ≥50 kg, or weight-based for adolescents with body weights &lt;50 kg.
+
+## Study in adult and adolescent patients with C3G or primary IC-MPGN (APL2-C3G-310)
+
+Study APL2-C3G-310 was a randomised, double-blinded study with a placebo-controlled period of 26-weeks, followed by a 26-week OLP. This study enrolled adolescents from 12 years to 17 years of age, and adults with C3G or primary IC-MPGN. This study enrolled patients with native kidney or post-transplant recurrent disease who presented with proteinuria ≥1 g/day and eGFR ≥30 mL/min/1.73 m 2 . Patients were on a stable and optimised dose regimen for C3G/primary
+
+<div style=\"page-break-after: always\"></div>
+
+IC-MPGN treatment (e.g., RAS inhibitors, sodium-glucose cotransporter-2 [SGLT-2] inhibitors, immunosuppressants, systemic corticosteroids no higher than 20 mg/day of prednisone equivalent) for at least 12 weeks prior to randomisation.
+
+Eligible patients were randomised in a 1:1 ratio to receive pegcetacoplan or placebo subcutaneously twice weekly during the 26-week RCP. Two stratification factors were applied to the randomisation; patients with post-transplant recurrence versus native kidney disease patients, and patients with baseline renal biopsies (either collected during screening or within 28 weeks prior to randomisation) versus patients without baseline renal biopsies. During the RCP, changes to the baseline treatment regimens for C3G/primary IC-MPGN were minimised and only made when required for the wellbeing of the patient. Patients who completed the RCP, entered the 26-week OLP, in which all participants were treated with pegcetacoplan twice weekly.
+
+A total of 124 patients were randomised, 63 to pegcetacoplan and 61 to placebo. Demographics and baseline disease characteristics were generally balanced between the two groups (see Table 4). A total of 118 patients completed the 26-week RCP, of which 114 patients completed the OLP treatment period with pegcetacoplan (N=59 pegcetacoplan-to-pegcetacoplan; N=55 placebo-to-pegcetacoplan).
+
+Table 4: Patient baseline demographics and disease characteristics in study APL2-C3G-310
+
+| Parameter                                                                                                                   | Statistics                    | Pegcetacoplan (N=63)                          | Placebo (N=61)                          |
+|-----------------------------------------------------------------------------------------------------------------------------|-------------------------------|-----------------------------------------------|-----------------------------------------|
+| Age (years) Adolescents (12 - 17 years) Adults ≥ 18 years                                                                   | Mean (SD) n (%) n (%)         | 28.2 (17.1) 28 (44.4) 35 (55.6)               | 23.6 (14.3) 27 (44.3) 34 (55.7)         |
+| Sex                                                                                                                         |                               |                                               |                                         |
+| Male Female                                                                                                                 | n (%) n (%)                   | 26 (41.3) 37 (58.7)                           | 28 (45.9) 33 (54.1)                     |
+| Type of disease at Screening C3G C3GN DDD Undetermined IC-MPGN                                                              | n (%) n (%) n (%) n (%) n (%) | 51 (81.0) 45 (71.4) 4 (6.3) 2 (3.2) 12 (19.0) | 45 (73.8) 41 (67.2) 4 (6.6) 0 16 (26.2) |
+| Time since diagnosis of C3G/IC-MPGN (years)                                                                                 | Mean (SD)                     | 3.64 (3.47)                                   | 3.76                                    |
+| Prior kidney transplant Time since last kidney transplant (years) Time since most recent post-transplant recurrence (years) | n (%) Mean (SD)               | 5 (7.9)                                       | (3.62) 4 (6.6)                          |
+| Baseline triplicate FMU uPCR Baseline eGFR (mL/min/1.73m 2 )                                                                | Mean (SD)                     | 11.4 (6.7)                                    | 5.8 (6.4) 1.38                          |
+| 2+                                                                                                                          |                               |                                               |                                         |
+|                                                                                                                             |                               | 1.47 (1.49)                                   | (1.64)                                  |
+| (mg/g)                                                                                                                      | Mean (SD) Mean (SD)           | 3124 (2408) 78.5 (34.1)                       | 2541 (2015)                             |
+| C3c staining in baseline biopsy                                                                                             | n (%)                         |                                               | 87.2 (37.2)                             |
+| 3+                                                                                                                          | n (%)                         | 51 (81.0) 12 (19.0)                           | 51 (83.6) 10 (16.4)                     |
+| Baseline serum albumin (g/dL)                                                                                               | Mean (SD) Mean (SD)           | 3.31 (0.61) 60.6 (45.7)                       | 3.39 (0.70)                             |
+| Baseline serum C3 (mg/dL) Disease manifestations                                                                            | n (%)                         | 16 (25.4)                                     | 32 (52.5)                               |
+| Oedema Fatigue                                                                                                              | n (%)                         | 45 (71.4)                                     | 56.3 (35.6)                             |
+| High Blood                                                                                                                  | n (%)                         | 35 (55.6)                                     | 39 (63.9) 29 (47.5)                     |
+| Haematuria                                                                                                                  | n (%)                         |                                               | 8 (13.1)                                |
+|                                                                                                                             |                               | 37 (58.7)                                     |                                         |
+| Pressure Nephrotic Syndrome                                                                                                 | n (%)                         | 32                                            | 27                                      |
+| Use of other treatments at baseline*                                                                                        |                               | (50.8)                                        |                                         |
+|                                                                                                                             |                               |                                               | (44.3)                                  |
+| Agents acting on the renin-angiotensin system                                                                               | n (%)                         | 59 (93.7)                                     | 54 (88.5)                               |
+| Immunosuppressants                                                                                                          | n (%)                         | 49                                            | 45                                      |
+|                                                                                                                             |                               | (77.8)                                        | (73.8)                                  |
+| Glucocorticoids                                                                                                             | n (%)                         | 29 (46.0)                                     | 27 (44.3)                               |
+
+<div style=\"page-break-after: always\"></div>
+
+*Within 12 weeks prior to study entry.
+
+C3G = C3 glomerulopathy, C3GN = C3 glomerulonephritis, DDD = Dense-deposit disease, IC MPGN = Immune-complex membranoproliferative glomerulonephritis, FMU = First-morning urine, uPCR = Urine protein-to-creatinine ratio, eGFR = Estimated glomerular filtration rate, SD = Standard deviation
+
+The primary and key secondary efficacy endpoints were assessed at Week 26. The primary efficacy endpoint was the log-transformed ratio of first-morning urine (FMU) uPCR at Week 26 compared with baseline.
+
+Pegcetacoplan was superior to placebo, with a statistically significant 68.1% reduction (95% CI: 57.3% to 76.2%, p&lt;0.0001) in uPCR from baseline compared to placebo after 26 weeks of treatment (67.2% [95% CI: -74.9% to -57.2%] and + 2.9% [95% CI: -8.6% to 15.9%] for pegcetacoplan and placebo respectively. Efficacy of similar magnitude was observed in subgroups irrespective of age (adolescents vs. adults), disease type (C3G vs. primary IC-MPGN), disease status (native vs. post-transplant recurrent disease), and concomitant use of immunosuppressants/glucocorticoids (yes vs. no). The effect of pegcetacoplan on uPCR was sustained through Week 52 (-67.2 % from baseline). Patients who switched from placebo to pegcetacoplan at Week 26 (Figure 4) experienced a similar reduction (-51.3%) at Week 52.
+
+Figure 4. Geometric mean ratio (95% CI) of FMU uPCR compared to baseline over time by treatment group from MMRM model in Study APL2-C3G-310
+
+<!-- image -->
+
+Note: Geometric mean ratio calculated from re-exponentiated LS Means.
+
+CI = Confidence interval, LS = Least square, FMU = First-morning urine, uPCR = Urine protein-to-creatinine ratio, MMRM = Mixed model of repeated measure
+
+Pegcetacoplan treatment for 26 weeks demonstrated statistically significant improvement in the key secondary endpoint related to proteinuria reduction, with 60.3% of patients treated with pegcetacoplan achieving a ≥50% reduction in uPCR compared to 4.9% in the placebo group, a difference of 52.7% (95% CI: 29.2%-76.2%; p&lt;0.0001).
+
+Pegcetacoplan treatment for 26 weeks resulted in a higher proportion of patients achieving a reduction of two orders of magnitude or greater, on a scale of 0-3, in renal C3 staining intensity with 26 (74.3%) patients on pegcetacoplan vs. 4 (11.8%) on placebo and a difference of 64.3% (95% CI: 41.4% 87.2%, nominal p&lt;0.0001).
+
+<div style=\"page-break-after: always\"></div>
+
+Pegcetacoplan treatment for 26 weeks showed stabilisation in eGFR with a change from baseline of 1.497 (2.242) on pegcetacoplan vs. -7.808 (1.919) on placebo, and a treatment difference of 6.312 mL/min/1.73m 2  (95% CI: 0.501, 12.122, nominal p=0.0333). The effect of pegcetacoplan on eGFR was sustained through Week 52. Patients who switched from placebo to pegcetacoplan at Week 26 experienced a similar stabilisation at Week 52.
+
+Efficacy of similar magnitude was broadly observed for proteinuria reduction ≥50%, C3 staining clearance and eGFR stabilisation in subgroups irrespective of age (adolescents vs. adults), disease type (C3G vs. primary IC-MPGN), disease status (native vs. post-transplant recurrent disease) and concomitant use of immunosuppressants/glucocorticoids (yes vs. no) at Week 26.
+
+Study in adult post-transplant recurrent C3G or primary IC-MPGN (APL2-C3G-204) Study APL2-C3G-204 was a phase 2 open-label, randomised study in 13 adult patients with post-transplant recurrent C3G (N=10) or primary IC-MPGN (N=3) for 52 weeks.
+
+During the first 12 weeks of the study, 10 patients received pegcetacoplan, in addition to standard of care (SOC), and 3 only SOC. All patients received pegcetacoplan from Week 13 to Week 52.
+
+The primary endpoint of reduction in C3 staining intensity on renal biopsy at Week 12 was observed in 50% of the patients treated with pegcetacoplan (5 of 10 patients; 4 of which, achieved a staining score of zero), and 33.3% of the patients in the control group (1 of 3 patients; with this patient achieving a staining score of 1).
+
+In general, changes and percentage changes from baseline in eGFR (secondary endpoint) were small. Mean (SD) eGFR changed from 52.3 (12.11) mL/min/1.73 m 2  at baseline to 57.3 (25.12) mL/min/1.73 m 2  at Week 52, and median eGFR changed from 50.5 mL/min/1.73 m 2  at baseline to 58.5 mL/min/1.73 m 2 at Week 52. Most patients (9 of 13 patients [69.2%]) across groups achieved stabilisation or improvement in eGFR by Week 52.
+
+## Immunogenicity
+
+Two different assays for the detection of anti-pegcetacoplan peptide anti-drug antibody (ADA) were used in PNH and C3G or primary IC-MPGN clinical studies, respectively. The assay used for C3G or primary IC-MPGN was more sensitive. Differences in assays preclude meaningful comparisons of the incidence of ADAs in the studies described below.
+
+In PNH clinical studies, ADA incidence (treatment-emergent ADA or boosted ADA from pre-existing level) was low, and when present, had no noticeable impact on the PK/PD, efficacy, or safety profile of pegcetacoplan. Throughout studies APL2-302 and APL2-308, 3 out of 126 patients who were exposed to pegcetacoplan had confirmed positive anti-pegcetacoplan peptide antibodies. All 3 patients also tested positive for neutralising antibody (NAb). NAb response had no apparent impact on PK or clinical efficacy. Eighteen out of 126 patients developed anti-PEG antibodies; 9 were treatmentemergent and 9 were treatment-boosted.
+
+In C3G and primary IC-MPGN clinical studies, ADA incidence (treatment-emergent ADA or boosted ADA from pre-existing level) in study APL2-C3G-310 was 23.6% for anti-PEG and 16.3% for anti-pegcetacoplan peptide. Based on population PK and PD analysis, ADAs had no clinically meaningful impact on efficacy or PK/PD in a pooled analysis population. Five patients also tested positive for NAb. NAb response had no apparent impact on PK or clinical efficacy. Twenty-nine out of 123 patients developed anti-PEG antibodies;14 were treatment-emergent and 15 were treatmentboosted. In patients with post-transplant recurrent disease in study APL2-C3G-204, no patient developed a positive ADA response (treatment-emergent ADA or boosted ADA from pre-existing level) to pegcetacoplan peptide or PEG. During the 26-week placebo-controlled period in study APL2-C3G-310, there was no detectable impact of ADAs on the safety of pegcetacoplan treatment.
+
+<div style=\"page-break-after: always\"></div>
 
 ## Paediatric population
 
-The European Medicines Agency has deferred the obligation to submit the results of studies with ASPAVELI in one or more subsets of the paediatric population in paroxysmal nocturnal haemoglobinuria (see section 4.2 for information on paediatric use).
+The European Medicines Agency has deferred the obligation to submit the results of studies with ASPAVELI in one or more subsets of the paediatric population in PNH and C3G or primary ICMPGN, respectively (see section 4.2 for information on paediatric use).
 
 ## 5.2 Pharmacokinetic properties
 
 ## Absorption
 
-Pegcetacoplan is administered by subcutaneous infusion and gradually absorbed into the systemic circulation with a median Tmax between 108 and 144 hours (4.5 to 6.0 days) following a single subcutaneous dose to healthy volunteers. Steady-state serum concentrations following twice weekly dosing at 1 080 mg in patients with PNH were achieved approximately 4 to 6 weeks following the first dose. In complement inhibitor-experienced patients (Study APL2-302) the geometric mean (%CV) steady-state serum concentrations ranged between 655 (18.6%) and 706 (15.1%) µg/mL in patients treated for 16 weeks. Steady-state concentrations in the patients (n=22) that continued to receive pegcetacoplan up to Week 48 were 623 µg/mL (39.7%), indicating sustainable therapeutic concentrations of pegcetacoplan through Week 48. In complement inhibitor-naïve patients (Study APL2-308) the geometric mean (%CV) steady-state serum concentration at Week 26 was 744 µg/mL (25.5%) with twice weekly dosing. The bioavailability of a subcutaneous dose of pegcetacoplan is estimated to be 76% based on population PK analysis.
+Pegcetacoplan is administered by subcutaneous infusion and gradually absorbed into the systemic circulation with a median Tmax between 108 and 144 hours (4.5 to 6.0 days) following a single subcutaneous dose to healthy volunteers.
+
+Steady-state serum concentrations following twice weekly dosing at 1 080 mg in patients with PNH were achieved approximately 4 to 6 weeks following the first dose. In complement inhibitorexperienced patients (Study APL2-302) the geometric mean (%CV) steady-state serum concentrations ranged between 655 (18.6%) and 706 (15.1%) µg/mL in patients treated for 16 weeks. Steady-state concentrations in the patients (n=22) that continued to receive pegcetacoplan up to Week 48 were 623 µg/mL (39.7%), indicating sustainable therapeutic concentrations of pegcetacoplan through Week 48. In complement inhibitor-naïve patients (Study APL2-308) the geometric mean (%CV) steady-state serum concentration at Week 26 was 744 µg/mL (25.5%) with twice weekly dosing. The bioavailability of a subcutaneous dose of pegcetacoplan is estimated to be 76% based on population PK analysis.
+
+Steady-state serum concentrations following twice weekly dosing at 1 080 mg in C3G or primary ICMPGN patients were achieved approximately 4 to 8 weeks following the first dose and therapeutic concentrations of pegcetacoplan were maintained through Week 52. In patients of study APL2-C3G310, the steady-state mean (%CV) serum concentrations ranged between 715.8 (31.2%) and 765.7 (23.2% ) μg/mL up to Week 26 and remained between 670.1 (30.1%) and 726.6 (30.5% ) μg/mL up to Week 52.
 
 ## Distribution
 
 The mean (%CV) volume of distribution of pegcetacoplan is approximately 3.98 L (32%) in patients with PNH based on population PK analysis.
+
+The mean (%CV) of central volume of distribution of pegcetacoplan is approximately 4.31 L (32.1%) in adult patients with C3G or primary IC-MPGN.
 
 ## Metabolism/elimination
 
@@ -441,25 +637,31 @@ Pegcetacoplan showed no inhibition or induction of the CYP enzyme isoforms teste
 
 Following multiple subcutaneous dosing of pegcetacoplan in patients with PNH, the mean (%CV) clearance is 0.015 L/h (30%) and median effective half-life of elimination (t1/2) is 8.6 days as estimated by the population PK analysis.
 
-<div style=\"page-break-after: always\"></div>
+The estimated mean (CV%) of clearance is 0.012 L/hour (43%) in adult patients with C3G or primary IC-MPGN. The median terminal t1/2 is 10.1 days in adult patients with C3G or primary IC-MPGN.
 
 ## Linearity/non-linearity
 
 Exposure of pegcetacoplan increases in a dose proportional manner from 45 to 1 440 mg.
 
+<div style=\"page-break-after: always\"></div>
+
 ## Special populations
 
-No impact on the pharmacokinetics of pegcetacoplan was identified with age (19-81 years), race or sex based on the results of population PK analysis.
+No impact on the pharmacokinetics of pegcetacoplan was identified with age (12-81 years), race or sex based on the results of population PK analysis in patients with PNH, C3G or primary IC-MPGN.
 
-Compared with a reference 70 kg patient, the steady-state average concentration is predicted to be approximately 20% higher in patients with a body weight of 50 kg. Patients weighing 40 kg are predicted to have a 45% higher average concentration. Minimal data are available on the safety profile of pegcetacoplan for patients with a body weight below 50 kg.
+Compared with a reference 70 kg patient, the steady-state average concentration is predicted to be approximately 20% higher in patients with a body weight of 50 kg. PNH patients weighing 40 kg are predicted to have a 45% higher average concentration. Minimal data are available on the safety profile of pegcetacoplan for PNH patients with a body weight below 50 kg.
 
 ## Elderly
 
 Although there were no apparent age-related differences observed in these studies, the number of patients aged 65 years and over is not sufficient to determine whether they respond differently from younger patients. See section 4.2.
 
+## Paediatric population
+
+Based on population PK analysis, body weight in adolescent patients (12-17 years) has an impact on clearance and volume of distribution. The dosing regimen for adolescents with C3G or primary ICMPGN is based on the patient´s body weight. See section 4.2. The model-predicted exposure for adolescents with C3G or primary IC-MPGN is adequately matched to the adult reference exposure.
+
 ## Renal impairment
 
-In a study of 8 patients with severe renal impairment, defined as creatinine clearance (CrCl) less than 30 mL/min using the Cockcroft-Gault formula (with 4 patients with values less than 20 mL/min), renal impairment had no effect on the pharmacokinetics of a single 270-mg dose of pegcetacoplan. There are minimal data on patients with PNH with renal impairment who have been administered the clinical dose of 1 080 mg twice weekly. There are no available clinical data for the use of pegcetacoplan in patients with ESRD requiring haemodialysis. See section 4.2.
+In a study of 8 patients with severe renal impairment, defined as creatinine clearance (CrCl) less than 30 mL/min using the Cockcroft-Gault formula (with 4 patients with values less than 20 mL/min), renal impairment had no effect on the pharmacokinetics of a single 270-mg dose of pegcetacoplan. There are minimal data on patients with PNH with renal impairment who have been administered the clinical dose of 1 080 mg twice weekly. Based on population PK analysis, eGFR had no clinically meaningful impact on pegcetacoplan exposure in a pooled analysis population. There are no available clinical data for the use of pegcetacoplan in patients with ESRD requiring dialysis. See section 4.2.
 
 ## 5.3 Preclinical safety data
 
@@ -479,9 +681,11 @@ Pegcetacoplan was not mutagenic when tested in in vitro bacterial reverse mutati
 
 ## Animal toxicology
 
-Repeat-dose studies were conducted in rabbits and cynomolgus monkeys with daily subcutaneous doses of pegcetacoplan up to 7 times the human dose (1 080 mg twice weekly). Histologic findings in both species included dose-dependent epithelial vacuolation and infiltrates of vacuolated macrophages in multiple tissues. These findings have been associated with large cumulative doses of long-chain PEG in other marketed PEGylated drugs, were without clinical consequence, and were not considered adverse. Reversibility was not demonstrated in the pegcetacoplan animal studies after one month and was not evaluated for a longer duration. Data from literature suggest reversibility of PEG vacuoles.
+Repeat-dose studies were conducted in rabbits and cynomolgus monkeys with daily subcutaneous doses of pegcetacoplan up to 7 times the human dose (1 080 mg twice weekly). Histologic findings in both species included dose-dependent epithelial vacuolation and infiltrates of vacuolated macrophages in multiple tissues. These findings have been associated with large cumulative doses of long-chain
 
 <div style=\"page-break-after: always\"></div>
+
+PEG in other marketed PEGylated drugs, were without clinical consequence, and were not considered adverse. Reversibility was not demonstrated in the pegcetacoplan animal studies after one month and was not evaluated for a longer duration. Data from literature suggest reversibility of PEG vacuoles.
 
 Renal tubular degeneration was observed microscopically in both species at exposures (Cmax and AUC) less than or comparable to those for the human dose and was minimal and nonprogressive between 4 weeks and 9 months of daily administration of pegcetacoplan. Although no overt signs of renal dysfunction were observed in animals, the clinical significance and functional consequence of these findings are unknown.
 
@@ -521,9 +725,9 @@ ASPAVELI is a clear, colourless to slightly yellowish aqueous solution. Do not u
 
 Always bring the vial to the room temperature for approximately 30 minutes before use.
 
-Remove the protective flip cap from the vial to expose the central portion of the gray rubber stopper of the vial. Clean the stopper with a new alcohol wipe and allow the stopper to dry. Do not use if the protective flip cap is missing or damaged.
-
 <div style=\"page-break-after: always\"></div>
+
+Remove the protective flip cap from the vial to expose the central portion of the gray rubber stopper of the vial. Clean the stopper with a new alcohol wipe and allow the stopper to dry. Do not use if the protective flip cap is missing or damaged.
 
 ## Preparing the syringe:
 
@@ -559,11 +763,11 @@ Swedish Orphan Biovitrum AB (publ) SE-112 76 Stockholm Sweden
 
 EU/1/21/1595/001 EU/1/21/1595/002
 
+<div style=\"page-break-after: always\"></div>
+
 ## 9. DATE OF FIRST AUTHORISATION/RENEWAL OF THE AUTHORISATION
 
 Date of first authorisation: 13 December 2021
-
-<div style=\"page-break-after: always\"></div>
 
 ## 10. DATE OF REVISION OF THE TEXT
 
@@ -625,7 +829,7 @@ The educational and controlled distribution programme is aimed at:
 - Providing information about the signs and symptoms of serious infections to healthcare providers and patients
 - Ensuring that prescribers provide patients with the package leaflet and patient card and explain the main risks of ASPAVELI using these materials
 - Ensuring that patients who experience symptoms of serious infections seek emergency medical treatment and present their patient card to the emergency care provider
-- Educate prescribers and patients about the risk of IVH after discontinuation of the medicinal product and postponement of administration and the need to maintain effective complement inhibitor treatment
+- Educate prescribers and patients about the risk of IVH after discontinuation of the medicinal product and postponement of administration and the need to maintain effective complement inhibitor treatment (PNH indication only).
 - Educate prescribers about the risk of potential long-term effects of PEG accumulation and the recommendation to monitor as clinically indicated, including through laboratory testing.
 
 The MAH shall ensure that in each Member State where ASPAVELI is marketed, all healthcare professionals and patients/carers who are expected to prescribe and use ASPAVELI have access to/are provided with the following educational package:
@@ -644,7 +848,7 @@ The MAH shall ensure that in each Member State where ASPAVELI is marketed, all h
 - o Treatment with ASPAVELI may increase the risk of serious infections with encapsulated bacteria.
 - o The need for patients to be vaccinated against N. meningitidis , S. pneumoniae , and H. influenzae and/or receive antibiotic prophylaxis.
 - o Annual reminder of mandatory revaccinations (in accordance with current national vaccination guidelines).
-- o Risk of IVH after discontinuation and postponement of administration of the medicinal product, its criteria, the required post-treatment monitoring, and its proposed management.
+- o Risk of IVH after discontinuation and postponement of administration of the medicinal product, its criteria, the required post-treatment monitoring, and its proposed management (PNH indication only).
 - o Risk of potential long-term effects of PEG accumulation and the recommendation to monitor as clinically indicated, including through laboratory testing.
 - o The need to educate patients/carers of the following:
 -  the risks of treatment with ASPAVELI
@@ -652,9 +856,9 @@ The MAH shall ensure that in each Member State where ASPAVELI is marketed, all h
 -  the patient/carer guides and its content
 -  the need to carry the patient card and to tell any healthcare practitioner that he/she is receiving treatment with ASPAVELI
 -  the requirement for vaccinations/antibiotic prophylaxis
--  the enrolment in the PASS
+-  the enrolment in the PASS (where available)
 - o Instructions on how to handle possible adverse events.
-- o Information about the PASS, the importance of contributing to such a study, and how to enter patients.
+- o Information about the PASS (where available), the importance of contributing to such a study, and how to enter patients.
 - o Remarks on the importance of reporting on specific adverse reactions, namely: serious infections, serious hypersensitivity reactions, and risk of IVH after discontinuation of the medicinal product.
 
 <div style=\"page-break-after: always\"></div>
@@ -672,7 +876,7 @@ The MAH shall ensure that in each Member State where ASPAVELI is marketed, all h
 
 ## · Patient/carer guide:
 
-- o Treatment with ASPAVELI may increase the risk of serious infections with encapsulated bacteria, serious hypersensitivity reactions, and risk of IVH after discontinuation of the medicinal product.
+- o Treatment with ASPAVELI may increase the risk of serious infections with encapsulated bacteria, serious hypersensitivity reactions, and PNH-specific risk of IVH after discontinuation of the medicinal product.
 - o A description of the signs and symptoms of serious infections, hypersensitivity reactions, IVH after discontinuation of the medicinal product, and the need to seek emergency care at the nearest hospital.
 - o The importance of vaccination prior to treatment with ASPAVELI and/or to receive antibiotic prophylaxis.
 - o Annual reminder of mandatory revaccinations (in accordance with current national vaccination guidelines).
@@ -680,7 +884,7 @@ The MAH shall ensure that in each Member State where ASPAVELI is marketed, all h
 - o Recommendation for use of effective contraception in women of childbearing potential.
 - o Remarks on the importance of reporting on specific adverse reactions, namely: serious infections, serious hypersensitivity reactions, and risk of IVH after discontinuation of the medicinal product.
 - o Instructions on how to view the patient self-treatment video on any internet-connected device.
-- o Enrolment in the PASS.
+- o Enrolment in the PASS (where available).
 
 ## Annual reminder of mandatory revaccinations
 
@@ -750,6 +954,8 @@ Store in a refrigerator.
 
 Store in the original carton in order to protect from light.
 
+<div style=\"page-break-after: always\"></div>
+
 10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
@@ -779,8 +985,6 @@ ASPAVELI 1 080 mg
 ## 18. UNIQUE IDENTIFIER - HUMAN READABLE DATA
 
 PC SN
-
-<div style=\"page-break-after: always\"></div>
 
 NN
 
@@ -912,13 +1116,8 @@ Store in the original carton in order to protect from light.
 
 <div style=\"page-break-after: always\"></div>
 
-10.
-
-SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS
-
-OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF
-
-APPROPRIATE
+| 10.   | SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS ORWASTEMATERIALS DERIVEDFROMSUCH MEDICINAL PRODUCTS, IF APPROPRIATE   |
+|-------|-------------------------------------------------------------------------------------------------------------------------------------|
 
 | 11.   | NAMEANDADDRESS OF THE MARKETING AUTHORISATION HOLDER   |
 |-------|--------------------------------------------------------|
@@ -960,9 +1159,7 @@ ASPAVELI 1 080 mg
 
 ## 1. NAME OF THE MEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION
 
-ASPAVELI 1 080 mg solution for infusion pegcetacoplan
-
-For subcutaneous use.
+ASPAVELI 1 080 mg solution for infusion pegcetacoplan For subcutaneous use.
 
 ## 2. METHOD OF ADMINISTRATION
 
@@ -970,15 +1167,18 @@ For subcutaneous use.
 
 EXP
 
-## 4. BATCH NUMBER
+| 4.   | BATCH NUMBER   |
+|------|----------------|
 
 Lot
 
-## 5. CONTENTS BY WEIGHT, BY VOLUME OR BY UNIT
+| 5.   | CONTENTS BY WEIGHT,BYVOLUMEORBYUNIT   |
+|------|---------------------------------------|
 
 20 mL
 
-## 6. OTHER
+| 6.   | OTHER   |
+|------|---------|
 
 <div style=\"page-break-after: always\"></div>
 
@@ -1014,13 +1214,23 @@ This medicine is subject to additional monitoring. This will allow quick identif
 
 ## What is ASPAVELI
 
-ASPAVELI is a medicine that contains the active substance pegcetacoplan. Pegcetacoplan has been designed to attach to the C3 complement protein, which is a part of the body's defence system called the 'complement system'. Pegcetacoplan prevents your body's immune system from destroying your red blood cells.
+ASPAVELI is a medicine that contains the active substance pegcetacoplan. Pegcetacoplan has been designed to attach to the C3 complement protein, which is a part of the body's defence system called the 'complement system'.
 
 ## What is ASPAVELI used for
+
+## Paroxysmal nocturnal haemoglobinuria (PNH)
 
 ASPAVELI is used to treat adult patients with a disease called paroxysmal nocturnal haemoglobinuria (PNH) who have anaemia as a result of this disease.
 
 In patients with PNH, the 'complement system' is overactive and attacks their red blood cells, which can lead to low blood counts (anaemia), tiredness, difficulty in functioning, pain, abdominal pain, dark urine, shortness of breath, difficulty swallowing, erectile dysfunction, and blood clots. By attaching to and blocking the C3 protein, this medicine can stop the complement system from attacking red blood cells and so control symptoms of the disease. This medicine has been shown to increase the number of red blood cells (reduce anaemia), which may improve these symptoms.
+
+## C3 glomerulopathy (C3G) and primary immune-complex membranoproliferative glomerulonephritis (IC-MPGN)
+
+ASPAVELI is used to treat adult and adolescent patients (aged 12 to 17 years) with diseases called complement C3 glomerulopathy (C3G) or primary immune-complex membranoproliferative glomerulonephritis (primary IC-MPGN). For these diseases, ASPAVELI is used together with a reninangiotensin-system inhibitor (RAS inhibitor), unless the use of a RAS inhibitor is not considered appropriate.
+
+<div style=\"page-break-after: always\"></div>
+
+Glomerulonephritis is a kidney problem where there is inflammation in the kidney. C3G and primary IC-MPGN are types of glomerulonephritis. In patients with C3G or primary IC-MPGN, the 'complement system' is overactive and when this system is not well controlled, this can result in damage to the glomerulus, a network of small blood vessels in the kidney, which filters the blood. Over time, this stops the kidneys from removing waste in the blood. This waste, if not removed from the blood, builds up in the body and may lead to kidney inflammation, damage and failure. This can lead to blood in the urine (haematuria), excess protein in the urine (proteinuria), reduced kidney function (as measured by the glomerular filtration rate [GFR]), high blood creatinine levels, tiredness and swelling (oedema) of hands, feet or ankles. This medicine has been shown to reduce the amount of protein in the urine and can stabilise kidney function.
 
 ## 2. What you need to know before you use ASPAVELI
 
@@ -1029,8 +1239,6 @@ In patients with PNH, the 'complement system' is overactive and attacks their re
 - -if you are allergic to pegcetacoplan or any of the other ingredients of this medicine (listed in section 6).
 - -if you have an infection caused by so-called encapsulated bacteria.
 - -if you are not vaccinated against Neisseria meningitidis , Streptococcus pneumoniae , and Haemophilus influenzae .
-
-<div style=\"page-break-after: always\"></div>
 
 ## Warnings and precautions
 
@@ -1061,6 +1269,8 @@ If you experience any of the following symptoms, you should immediately inform y
 - -confusion
 - -extreme pain or discomfort
 
+<div style=\"page-break-after: always\"></div>
+
 Make sure that you keep your vaccinations up to date. You should also be aware that vaccines reduce the risk of serious infections, but do not prevent all serious infections. In accordance with national recommendations, your doctor might consider that you need supplementary measures such as antibacterial medicines to prevent infection.
 
 ## Allergic reactions
@@ -1071,11 +1281,9 @@ Allergic reactions may appear in some patients. In case of severe allergic react
 
 Injection site reactions have been observed with the use of ASPAVELI. You should undergo appropriate training in proper injection technique before self-administering.
 
-## Laboratory monitoring
+## Laboratory monitoring for PNH
 
 During your treatment with ASPAVELI your doctor will perform regular check-ups, including blood tests for lactate dehydrogenase (LDH) levels and tests of renal function, and may adjust your dose if needed.
-
-<div style=\"page-break-after: always\"></div>
 
 ## Effects on laboratory tests
 
@@ -1083,7 +1291,9 @@ Use of silica reagents in coagulation tests should be avoided as it can result i
 
 ## Children and adolescents
 
-Do not give this medicine to children under 18 years of age as no data are available on its safety and effectiveness in this group.
+Do not give this medicine to children with PNH under 18 years of age as no data are available on its safety and effectiveness in this group.
+
+Do not give this medicine to children with C3G or primary IC-MPGN under 12 years of age as no data are available on its safety and effectiveness in this group.
 
 ## Other medicines and ASPAVELI
 
@@ -1107,6 +1317,8 @@ This medicine has no or negligible influence on the ability to drive and use mac
 
 Sorbitol is a source of fructose. If your doctor has told you that you have an intolerance to some sugars or if you have been diagnosed with hereditary fructose intolerance (HFI), a rare genetic disorder in which a person cannot break down fructose, talk to your doctor before you take or receive this medicine.
 
+<div style=\"page-break-after: always\"></div>
+
 ## ASPAVELI contains sodium
 
 This medicine contains less than 1 mmol sodium (23 mg) per dose, that is to say essentially 'sodium-free'.
@@ -1117,15 +1329,31 @@ Always use this medicine exactly as your doctor has told you. Check with your do
 
 At least 2 weeks before you start treatment with this medicine, your doctor will review your medical records and may give you one or more vaccinations. If you cannot be vaccinated at least 2 weeks before you start treatment with ASPAVELI, to reduce the risk of infection, your doctor will prescribe antibiotics for 2 weeks after you have been vaccinated.
 
-## Dose
+## If you use this medicine to treat PNH
+
+## Dose for adults:
 
 The initial recommended dose for adults with PNH is 1 080 mg twice a week. You should take the twice weekly dose on Day 1 and Day 4 of each treatment week.
 
 If you are switching to ASPAVELI from another type of PNH medicine, called a C5 inhibitor, you should take ASPAVELI in addition to your current dose of C5 inhibitor as prescribed for 4 weeks. After 4 weeks you should stop taking your C5 inhibitor.
 
-<div style=\"page-break-after: always\"></div>
-
 The dose or dosing interval should not be changed without consulting your doctor. Your doctor may adjust your dose to 1 080 mg every third day (e.g., Day 1, Day 4, Day 7, Day 10, Day 13, and so forth) if appropriate. If you think you have missed a dose, speak to your doctor as soon as possible.
+
+## If you use this medicine to treat C3G or primary IC-MPGN
+
+## Dose for adults:
+
+The initial recommended dose for adults with C3G or primary IC-MPGN is 1 080 mg twice a week. You should take the twice weekly dose on Day 1 and Day 4 of each treatment week.
+
+## Dose for adolescents:
+
+The initial recommended twice a week dose for adolescents with C3G or primary IC-MPGN is based on the patient´s body weight. Your doctor will calculate your dose based on the below dosing table. You should take the twice weekly dose on Day 1 and Day 4 of each treatment week.
+
+| Body weight           | First dose (infusion volume)   | Second dose (infusion volume)   | Maintenance dose (infusion volume)   |
+|-----------------------|--------------------------------|---------------------------------|--------------------------------------|
+| 50 kg and above       | 080 mg twice weekly (20 mL)    | 080 mg twice weekly (20 mL)     | 080 mg twice weekly (20 mL)          |
+| 35 to less than 50 kg | 648 mg (12 mL)                 | 810 mg (15 mL)                  | 810 mg twice weekly (15 mL)          |
+| 30 to less than 35 kg | 540 mg (10 mL)                 | 540 mg (10 mL)                  | 648 mg twice weekly (12 mL)          |
 
 ## Method and route of administration
 
@@ -1136,6 +1364,8 @@ ASPAVELI is intended to be given as an infusion under the skin using:
 
 Your first doses of the medicine will be given to you by healthcare professionals in a clinic or treatment centre. If treatment goes well, your doctor may discuss with you the possibility of you giving the medicine yourself at home. If this is appropriate, a healthcare professional will train you or a caregiver how to give the infusion.
 
+<div style=\"page-break-after: always\"></div>
+
 ## Infusion rate(s)
 
 Using the infusion pump, the infusion time is approximately 30 minutes if you use 2 infusion sites or approximately 60 minutes if using 1 site.
@@ -1144,44 +1374,14 @@ Using the on-body delivery system, the infusion time typically ranges from 30 to
 
 The infusion should be started promptly after drawing this medicinal product into the syringe and completed within 2 hours after preparing the syringe.
 
-<div style=\"page-break-after: always\"></div>
-
 ## Instructions for use - preparing the syringe
 
-## Step 1 Prepare for infusion
-
-Before you start:
-
-1. Remove a single vial carton from the refrigerator. Keep the vial in the carton at room temperature and allow it to warm up for approximately 30 minutes. Do not try to speed up the warming process using a microwave or any other heat source.
-2. Find a well-lit, flat work surface area, like a table.
-3. Gather your supplies:
-
-## i) When using an infusion pump (Figure 1):
-
-- A. Syringe system infusion pump and manufacturer's instructions (not shown)
-- B. Compatible syringe
-3. C1. Transfer needle OR
-4. C2. Needleless transfer device to draw up product from the vial
-- D. Infusion set (not shown; varies according to device manufacturer's instructions)
-- E. Infusion tubing and Y connector (if required)
-- F. Sharps container
-- G. Alcohol wipes
-- H. Gauze and tape, or transparent dressing
-
-## OR
-
-## ii) When using an on-body delivery system (Figure 2):
-
-- A. On-body delivery system and manufacturer´s instructions (not shown)
-- B. Compatible syringe
-3. C1. Transfer needle OR
-4. C2. Needleless transfer device to draw up product from the vial
-- F. Sharps container
-- G. Alcohol wipes
-
-Thoroughly clean your work surface using an alcohol wipe.
-
-Wash your hands thoroughly with soap and water. Dry your hands.
+| Step 1   |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     |
+|----------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+|          | Prepare for infusion Before you start: 1. Remove a single vial carton from the refrigerator. Keep the vial in the carton at room temperature and allow it to warm up for approximately 30 minutes. Do not try to speed up the warming process using a microwave or any other heat source. 2. Find a well-lit, flat work surface area, like a table. 3. Gather your supplies: i) When using an infusion pump (Figure 1): A. Syringe system infusion pump and manufacturer's instructions (not shown) B. Compatible syringe C1. Transfer needle OR C2. Needleless transfer device to draw up product from the vial D. Infusion set (not shown; varies according to device manufacturer's instructions) E. Infusion tubing and Y connector (if required) F. Sharps container G. Alcohol wipes H. Gauze and tape, or transparent dressing OR ii) When using an on-body delivery system (Figure 2): A. On-body delivery system and manufacturer´s instructions (not shown) B. Compatible syringe C1. Transfer needle OR C2. Needleless transfer device to draw up product from the vial F. Sharps container G. Alcohol wipes Thoroughly clean your work surface using an |
+|          | alcohol wipe.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       |
+|          | Wash your hands thoroughly with soap and                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            |
+|          | water. Dry your hands.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              |
 
 Figure 1 Example of Supplies (infusion pump)
 
@@ -1230,8 +1430,9 @@ Option 2: If using a transfer needle and a syringe, follow the instructions belo
 - E. Gently push the air from the syringe into the vial. This will inject the air from the syringe into the vial.
 - F. Turn the vial upside down (Figure 7).
 - G. With the transfer needle tip in the solution slowly pull the plunger to fill the syringe with the prescribed dose of ASPAVELI (Figure 8).
-- H. Remove the filled syringe and the transfer needle from the vial.
-- I. Do not recap the transfer needle. Unscrew the needle and throw it away in the sharps container.
+- H. Double check that you have withdrawn your prescribed dose. Any excess volume should be disposed.
+- I. Remove the filled syringe and the transfer needle from the vial.
+- J. Do not recap the transfer needle. Unscrew the needle and throw it away in the sharps container.
 
 Figure 4
 
@@ -1250,8 +1451,6 @@ Figure 7
 <!-- image -->
 
 <div style=\"page-break-after: always\"></div>
-
-Figure 8
 
 <!-- image -->
 
@@ -1278,15 +1477,13 @@ For infusion of the product using a syringe system infusion pump , follow the st
 - B. Secure the needle(s) using sterile gauze and tape or a transparent dressing placed over the infusion site(s) (Figure 13).
 3. Step 7 Start infusion Start the infusion promptly after drawing the
 
-## Step 8
-
 Follow the device manufacturer's instructions to start the infusion. solution into the syringe.
 
-Complete infusion Follow the device manufacturer's instructions to complete the infusion.
+Step 8 Complete infusion Follow the device manufacturer's instructions to complete the infusion.
 
-## Step 9 Record infusion
+- Step 9 Record infusion Record your treatment as directed by your
 
-Record your treatment as directed by your healthcare professional.
+healthcare professional.
 
 Figure 11
 
@@ -1312,7 +1509,7 @@ Figure 13
 
 If you miss a dose, it should be taken as soon as possible; then take the next dose at the regularly planned time.
 
-## If you stop using ASPAVELI
+## If you stop using ASPAVELI for treatment of PNH
 
 PNH is a lifelong condition and so it is expected that you will use this medicine for a long time. If you wish to stop using the medicine, please speak to your doctor first. If you stop taking the medicine suddenly, you may be at risk of making your symptoms worse.
 
@@ -1329,6 +1526,10 @@ If your doctor decides to stop your treatment with this medicine, follow their i
 
 If you have any of these signs and symptoms, contact your doctor.
 
+## If you stop using ASPAVELI for treatment of C3G or primary IC-MPGN
+
+C3G and primary IC-MPGN are lifelong conditions and so it is expected that you will use this medicine for a long time. If you wish to stop using the medicine, please speak to your doctor first.
+
 ## 4. Possible side effects
 
 Like all medicines, this medicine can cause side effects, although not everybody gets them.
@@ -1339,13 +1540,15 @@ The most serious side effect is serious infection.
 
 If you experience any of the infection symptoms (see section 2 'Infection symptoms'), you should immediately inform your doctor.
 
+<div style=\"page-break-after: always\"></div>
+
 If you are not sure what the side effects below are, ask your doctor to explain them to you.
 
-<div style=\"page-break-after: always\"></div>
+## Side effects reported in patients with PNH are listed below:
 
 ## Very common (may affect more than 1 in 10 people):
 
-- -Reactions at the site of injection: These include redness (erythema), swelling, itching (pruritus), bruising and pain. These reactions usually go away within a few days.
+- -Reactions at the site of infusion: These include redness, swelling, itching, bruising and pain, or hardening of the skin. These reactions usually go away within a few days.
 - -Infection of the nose, throat, or airways (upper respiratory tract infection)
 - -Diarrhoea
 - -Destruction of red blood cells (haemolysis)
@@ -1363,7 +1566,6 @@ If you are not sure what the side effects below are, ask your doctor to explain 
 
 ## Common (may affect up to 1 in 10 people):
 
-- -Reaction at the site of injection, such as redness, or hardening of the skin
 - -Infection in the ear, mouth or skin
 - -Pain in the throat
 - -Fewer platelets in the blood (thrombocytopenia) which may cause bleeding or bruising more easily than normal
@@ -1392,18 +1594,46 @@ If you are not sure what the side effects below are, ask your doctor to explain 
 - -Bacterial infection
 - -Vaginal infection
 
-## Uncommon (may affect up to 1 in 100 people):
+<div style=\"page-break-after: always\"></div>
+
+Uncommon (may affect up to 1 in 100 people):
 
 - -Inflammation of the cervix
 - -Groin infection
 - -Pocket of pus in nose (nasal abscess)
 - -Pneumonia
 - -Tuberculosis
-- -Yeast infection in the esophagus
-
-<div style=\"page-break-after: always\"></div>
-
+- -Yeast infection in the oesophagus
 - -Pocket of pus in anus (anal abscess)
+
+## Side effects reported in patients with C3G or primary IC-MPGN are listed below:
+
+Very common (may affect more than 1 in 10 people):
+
+- -Reactions at the site of infusion
+- -Infection of the nose, throat, or airways (upper respiratory tract infection)
+- -Allergic reaction (which includes rash and eczema)
+- -Fever or high temperature (pyrexia)
+- -Headache
+- -Diarrhoea
+- -Nausea (feeling sick)
+- -Impaired kidney function
+- -Influenza
+
+Common (may affect up to 1 in 10 people):
+
+- -Cough
+- -Pneumonia
+- -Tiredness (fatigue)
+- -Opportunistic infections (which include shingles and other infections that occur when the immune system is weakened)
+- -Urinary tract infection
+- -Infection in the ear
+- -Fewer platelets in the blood (thrombocytopenia)
+- -Muscle pain (myalgia)
+- -Nose bleed (epistaxis)
+- -Fewer number of white blood cells (neutropenia)
+- -Decreased levels of potassium in the blood (hypokalaemia)
+- -Arm and leg pain (pain in extremities)
 
 ## Reporting of side effects
 
@@ -1416,6 +1646,8 @@ If you get any side effects, talk to your doctor, pharmacist, or nurse. This inc
 - Store in a refrigerator (2 °C - 8 °C).
 - Keep the vial in the original carton in order to protect it from light.
 - Do not throw away any medicines via wastewater. Ask your pharmacist how to throw away medicines you no longer use. These measures will help protect the environment.
+
+<div style=\"page-break-after: always\"></div>
 
 ## 6. Contents of the pack and other information
 
@@ -1443,9 +1675,11 @@ Swedish Orphan Biovitrum AB (publ) SE-112 76 Stockholm Sweden
 
 ## Manufacturer
 
-Swedish Orphan Biovitrum AB (publ) Norra Stationsgatan 93 113 64 Stockholm Sweden
+Swedish Orphan Biovitrum AB (publ) Norra Stationsgatan 93 113 64 Stockholm
 
-## This leaflet was last revised in MM/YYYY.
+Sweden
+
+This leaflet was last revised in MM/YYYY.
 
 ## Other sources of information
 

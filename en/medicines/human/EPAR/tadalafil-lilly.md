@@ -1,18 +1,18 @@
 ---
-document_datetime: 2025-12-02 05:03:15
+document_datetime: 2026-01-28 11:00:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/tadalafil-lilly.html
 document_name: tadalafil-lilly.html
 version: success
-processing_time: 0.110328
-conversion_datetime: 2025-12-25 08:01:21.567826
+processing_time: 0.1040315
+conversion_datetime: 2026-01-29 12:23:16.287458
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.66.0
-  docling-core: 2.57.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.11.0
+  docling-jobkit: 1.9.0
+  docling: 2.70.0
+  docling-core: 2.61.0
+  docling-ibm-models: 3.11.0
+  docling-parse: 4.7.3
   python: cpython-313 (3.13.11)
   plaform: macOS-26.2-arm64-arm-64bit-Mach-O
 ---
@@ -112,7 +112,7 @@ English (EN) (78.35 KB - PDF)
 
 [View](/en/documents/overview/tadalafil-lilly-epar-summary-public_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-941)
+[Other languages (22)](#file-language-dropdown-77)
 
 български (BG) (106.67 KB - PDF)
 
@@ -390,17 +390,17 @@ English (EN) (963.01 KB - PDF)
 
 Tadalafil Lilly : EPAR - Product Information
 
-English (EN) (817.09 KB - PDF)
+English (EN) (836.91 KB - PDF)
 
 **First published:** 07/04/2017
 
-**Last updated:** 21/09/2023
+**Last updated:** 28/01/2026
 
 [View](/en/documents/product-information/tadalafil-lilly-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-530)
+[Other languages (24)](#file-language-dropdown-701)
 
-български (BG) (1000.05 KB - PDF)
+български (BG) (1.36 MB - PDF)
 
 **First published:**
 
@@ -408,11 +408,11 @@ English (EN) (817.09 KB - PDF)
 
 **Last updated:**
 
-21/09/2023
+28/01/2026
 
 [View](/bg/documents/product-information/tadalafil-lilly-epar-product-information_bg.pdf)
 
-español (ES) (1014.22 KB - PDF)
+español (ES) (1.29 MB - PDF)
 
 **First published:**
 
@@ -420,11 +420,11 @@ español (ES) (1014.22 KB - PDF)
 
 **Last updated:**
 
-21/09/2023
+28/01/2026
 
 [View](/es/documents/product-information/tadalafil-lilly-epar-product-information_es.pdf)
 
-čeština (CS) (872.39 KB - PDF)
+čeština (CS) (1.22 MB - PDF)
 
 **First published:**
 
@@ -432,11 +432,11 @@ español (ES) (1014.22 KB - PDF)
 
 **Last updated:**
 
-21/09/2023
+28/01/2026
 
 [View](/cs/documents/product-information/tadalafil-lilly-epar-product-information_cs.pdf)
 
-dansk (DA) (727.71 KB - PDF)
+dansk (DA) (1.18 MB - PDF)
 
 **First published:**
 
@@ -444,11 +444,11 @@ dansk (DA) (727.71 KB - PDF)
 
 **Last updated:**
 
-21/09/2023
+28/01/2026
 
 [View](/da/documents/product-information/tadalafil-lilly-epar-product-information_da.pdf)
 
-Deutsch (DE) (846.81 KB - PDF)
+Deutsch (DE) (1.24 MB - PDF)
 
 **First published:**
 
@@ -456,11 +456,11 @@ Deutsch (DE) (846.81 KB - PDF)
 
 **Last updated:**
 
-21/09/2023
+28/01/2026
 
 [View](/de/documents/product-information/tadalafil-lilly-epar-product-information_de.pdf)
 
-eesti keel (ET) (785.11 KB - PDF)
+eesti keel (ET) (1.13 MB - PDF)
 
 **First published:**
 
@@ -468,11 +468,11 @@ eesti keel (ET) (785.11 KB - PDF)
 
 **Last updated:**
 
-21/09/2023
+28/01/2026
 
 [View](/et/documents/product-information/tadalafil-lilly-epar-product-information_et.pdf)
 
-ελληνικά (EL) (1.22 MB - PDF)
+ελληνικά (EL) (1008.79 KB - PDF)
 
 **First published:**
 
@@ -480,11 +480,11 @@ eesti keel (ET) (785.11 KB - PDF)
 
 **Last updated:**
 
-21/09/2023
+28/01/2026
 
 [View](/el/documents/product-information/tadalafil-lilly-epar-product-information_el.pdf)
 
-français (FR) (1.01 MB - PDF)
+français (FR) (1.37 MB - PDF)
 
 **First published:**
 
@@ -492,11 +492,11 @@ français (FR) (1.01 MB - PDF)
 
 **Last updated:**
 
-21/09/2023
+28/01/2026
 
 [View](/fr/documents/product-information/tadalafil-lilly-epar-product-information_fr.pdf)
 
-hrvatski (HR) (858.93 KB - PDF)
+hrvatski (HR) (1.23 MB - PDF)
 
 **First published:**
 
@@ -504,11 +504,11 @@ hrvatski (HR) (858.93 KB - PDF)
 
 **Last updated:**
 
-21/09/2023
+28/01/2026
 
 [View](/hr/documents/product-information/tadalafil-lilly-epar-product-information_hr.pdf)
 
-íslenska (IS) (684.64 KB - PDF)
+íslenska (IS) (1.12 MB - PDF)
 
 **First published:**
 
@@ -516,11 +516,11 @@ hrvatski (HR) (858.93 KB - PDF)
 
 **Last updated:**
 
-21/09/2023
+28/01/2026
 
 [View](/is/documents/product-information/tadalafil-lilly-epar-product-information_is.pdf)
 
-italiano (IT) (888.69 KB - PDF)
+italiano (IT) (2.92 MB - PDF)
 
 **First published:**
 
@@ -528,11 +528,11 @@ italiano (IT) (888.69 KB - PDF)
 
 **Last updated:**
 
-21/09/2023
+28/01/2026
 
 [View](/it/documents/product-information/tadalafil-lilly-epar-product-information_it.pdf)
 
-latviešu valoda (LV) (942.16 KB - PDF)
+latviešu valoda (LV) (1.18 MB - PDF)
 
 **First published:**
 
@@ -540,11 +540,11 @@ latviešu valoda (LV) (942.16 KB - PDF)
 
 **Last updated:**
 
-21/09/2023
+28/01/2026
 
 [View](/lv/documents/product-information/tadalafil-lilly-epar-product-information_lv.pdf)
 
-lietuvių kalba (LT) (813.23 KB - PDF)
+lietuvių kalba (LT) (1.15 MB - PDF)
 
 **First published:**
 
@@ -552,11 +552,11 @@ lietuvių kalba (LT) (813.23 KB - PDF)
 
 **Last updated:**
 
-21/09/2023
+28/01/2026
 
 [View](/lt/documents/product-information/tadalafil-lilly-epar-product-information_lt.pdf)
 
-magyar (HU) (909.61 KB - PDF)
+magyar (HU) (811.5 KB - PDF)
 
 **First published:**
 
@@ -564,11 +564,11 @@ magyar (HU) (909.61 KB - PDF)
 
 **Last updated:**
 
-21/09/2023
+28/01/2026
 
 [View](/hu/documents/product-information/tadalafil-lilly-epar-product-information_hu.pdf)
 
-Malti (MT) (969.6 KB - PDF)
+Malti (MT) (1.36 MB - PDF)
 
 **First published:**
 
@@ -576,11 +576,11 @@ Malti (MT) (969.6 KB - PDF)
 
 **Last updated:**
 
-21/09/2023
+28/01/2026
 
 [View](/mt/documents/product-information/tadalafil-lilly-epar-product-information_mt.pdf)
 
-Nederlands (NL) (930.26 KB - PDF)
+Nederlands (NL) (1.24 MB - PDF)
 
 **First published:**
 
@@ -588,11 +588,11 @@ Nederlands (NL) (930.26 KB - PDF)
 
 **Last updated:**
 
-21/09/2023
+28/01/2026
 
 [View](/nl/documents/product-information/tadalafil-lilly-epar-product-information_nl.pdf)
 
-norsk (NO) (757.07 KB - PDF)
+norsk (NO) (668.33 KB - PDF)
 
 **First published:**
 
@@ -600,11 +600,11 @@ norsk (NO) (757.07 KB - PDF)
 
 **Last updated:**
 
-21/09/2023
+28/01/2026
 
 [View](/no/documents/product-information/tadalafil-lilly-epar-product-information_no.pdf)
 
-polski (PL) (990.49 KB - PDF)
+polski (PL) (1.31 MB - PDF)
 
 **First published:**
 
@@ -612,11 +612,11 @@ polski (PL) (990.49 KB - PDF)
 
 **Last updated:**
 
-21/09/2023
+28/01/2026
 
 [View](/pl/documents/product-information/tadalafil-lilly-epar-product-information_pl.pdf)
 
-português (PT) (791.63 KB - PDF)
+português (PT) (1.12 MB - PDF)
 
 **First published:**
 
@@ -624,11 +624,11 @@ português (PT) (791.63 KB - PDF)
 
 **Last updated:**
 
-21/09/2023
+28/01/2026
 
 [View](/pt/documents/product-information/tadalafil-lilly-epar-product-information_pt.pdf)
 
-română (RO) (1.02 MB - PDF)
+română (RO) (2.67 MB - PDF)
 
 **First published:**
 
@@ -636,11 +636,11 @@ română (RO) (1.02 MB - PDF)
 
 **Last updated:**
 
-21/09/2023
+28/01/2026
 
 [View](/ro/documents/product-information/tadalafil-lilly-epar-product-information_ro.pdf)
 
-slovenčina (SK) (942.12 KB - PDF)
+slovenčina (SK) (1.3 MB - PDF)
 
 **First published:**
 
@@ -648,11 +648,11 @@ slovenčina (SK) (942.12 KB - PDF)
 
 **Last updated:**
 
-21/09/2023
+28/01/2026
 
 [View](/sk/documents/product-information/tadalafil-lilly-epar-product-information_sk.pdf)
 
-slovenščina (SL) (915.72 KB - PDF)
+slovenščina (SL) (1.2 MB - PDF)
 
 **First published:**
 
@@ -660,11 +660,11 @@ slovenščina (SL) (915.72 KB - PDF)
 
 **Last updated:**
 
-21/09/2023
+28/01/2026
 
 [View](/sl/documents/product-information/tadalafil-lilly-epar-product-information_sl.pdf)
 
-Suomi (FI) (873.59 KB - PDF)
+Suomi (FI) (1.16 MB - PDF)
 
 **First published:**
 
@@ -672,11 +672,11 @@ Suomi (FI) (873.59 KB - PDF)
 
 **Last updated:**
 
-21/09/2023
+28/01/2026
 
 [View](/fi/documents/product-information/tadalafil-lilly-epar-product-information_fi.pdf)
 
-svenska (SV) (1013.86 KB - PDF)
+svenska (SV) (1.1 MB - PDF)
 
 **First published:**
 
@@ -684,11 +684,11 @@ svenska (SV) (1013.86 KB - PDF)
 
 **Last updated:**
 
-21/09/2023
+28/01/2026
 
 [View](/sv/documents/product-information/tadalafil-lilly-epar-product-information_sv.pdf)
 
-**Latest procedure affecting product information:** PSUSA/00002841/202210 23/08/2023
+**Latest procedure affecting product information:** VR/0000315293 27/01/2026
 
 icon globe
 
@@ -712,7 +712,7 @@ English (EN) (18.7 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/tadalafil-lilly-epar-all-authorised-presentation_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-49)
+[Other languages (24)](#file-language-dropdown-706)
 
 български (BG) (57.65 KB - PDF)
 
@@ -928,9 +928,9 @@ EMA product number EMEA/H/C/004666 Marketing authorisation holder
 
 Eli Lilly Nederland B.V.
 
-Papendorpseweg 83 3528 BJ Utrecht Netherlands
+Orteliuslaan 1000 3528 BD Utrecht Netherlands
 
-Opinion adopted 26/01/2017 Marketing authorisation issued 22/03/2017 Revision 7
+Opinion adopted 26/01/2017 Marketing authorisation issued 22/03/2017 Revision 8
 
 ## Assessment history
 
@@ -942,13 +942,21 @@ Collapse section
 
 Tadalafil Lilly : EPAR - Procedural steps taken and scientific information after authorisation
 
+English (EN) (128.27 KB - PDF)
+
+**First published:** 28/01/2026
+
+[View](/en/documents/procedural-steps-after/tadalafil-lilly-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf)
+
+Tadalafil Lilly : EPAR - Procedural steps taken and scientific information after authorisation (archive)
+
 English (EN) (152.22 KB - PDF)
 
 **First published:** 11/07/2017
 
-**Last updated:** 11/09/2024
+**Last updated:** 28/01/2026
 
-[View](/en/documents/procedural-steps-after/tadalafil-lilly-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf)
+[View](/en/documents/procedural-steps-after/tadalafil-lilly-epar-procedural-steps-taken-scientific-information-after-authorisation-archive_en.pdf)
 
 Tadalafil Lilly-H-C-436-P46-0047 : EPAR - Assessment report
 
@@ -1010,7 +1018,7 @@ English (EN) (71.44 KB - PDF)
 
 - [Medicines](https://www.ema.europa.eu/en/search?f%5B0%5D=ema_search_topics%3A61)
 
-**This page was last updated on** 11/09/2024
+**This page was last updated on** 28/01/2026
 
 ## Share this page
 

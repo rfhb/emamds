@@ -1,18 +1,18 @@
 ---
-document_datetime: 2025-08-06 10:50:27
-document_pages: 41
+document_datetime: 2026-01-26 15:12:04
+document_pages: 42
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/tovanor-breezhaler-epar-product-information_en.pdf
 document_name: tovanor-breezhaler-epar-product-information_en.pdf
 version: success
-processing_time: 9.7891682
-conversion_datetime: 2025-12-25 05:04:09.139728
+processing_time: 10.3345043
+conversion_datetime: 2026-01-29 12:32:27.862502
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.66.0
-  docling-core: 2.57.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.11.0
+  docling-jobkit: 1.9.0
+  docling: 2.70.0
+  docling-core: 2.61.0
+  docling-ibm-models: 3.11.0
+  docling-parse: 4.7.3
   python: cpython-313 (3.13.11)
   plaform: macOS-26.2-arm64-arm-64bit-Mach-O
 ---
@@ -58,7 +58,9 @@ The recommended dose is the inhalation of the content of one capsule once daily 
 
 Tovanor Breezhaler is recommended to be administered, at the same time of the day each day. If a dose is missed, the next dose should be taken as soon as possible. Patients should be instructed not to take more than one dose in a day.
 
-## Special populations Elderly population
+## Special populations
+
+## Elderly population
 
 Tovanor Breezhaler can be used at the recommended dose in elderly patients (75 years of age and older) (see section 4.8).
 
@@ -114,13 +116,11 @@ Tovanor Breezhaler should be used with caution in patients with narrow-angle gla
 
 Patients should be informed about the signs and symptoms of acute narrow-angle glaucoma and should be informed to stop using Tovanor Breezhaler and to contact their doctor immediately should any of these signs or symptoms develop.
 
-## Patients with severe renal impairment
-
-A moderate mean increase in total systemic exposure (AUClast) of up to 1.4-fold was seen in subjects with mild and moderate renal impairment and up to 2.2-fold in subjects with severe renal impairment
-
 <div style=\"page-break-after: always\"></div>
 
-and end-stage renal disease. In patients with severe renal impairment (estimated glomerular filtration rate below 30 ml/min/1.73 m 2 ), including those with end-stage renal disease requiring dialysis, Tovanor Breezhaler should be used only if the expected benefit outweighs the potential risk (see section 5.2). These patients should be monitored closely for potential adverse reactions.
+## Patients with severe renal impairment
+
+A moderate mean increase in total systemic exposure (AUClast) of up to 1.4-fold was seen in subjects with mild and moderate renal impairment and up to 2.2-fold in subjects with severe renal impairment and end-stage renal disease. In patients with severe renal impairment (estimated glomerular filtration rate below 30 ml/min/1.73 m 2 ), including those with end-stage renal disease requiring dialysis, Tovanor Breezhaler should be used only if the expected benefit outweighs the potential risk (see section 5.2). These patients should be monitored closely for potential adverse reactions.
 
 ## Patients with a history of cardiovascular disease
 
@@ -170,7 +170,7 @@ The safety profile is further characterised by other symptoms related to the ant
 
 ## Tabulated summary of adverse reactions
 
-Adverse reactions reported during the first six months of two pooled pivotal Phase III trials of 6 and 12 months duration are listed by MedDRA system organ class (Table 1). Within each system organ class, the adverse reactions are ranked by frequency, with the most frequent reactions first. Within each frequency grouping, adverse reactions are presented in order of decreasing seriousness. In addition, the corresponding frequency category for each adverse reaction is based on the following convention: very common (≥1/10); common (≥1/100 to &lt;1/10); uncommon (≥1/1,000 to &lt;1/100); rare (≥1/10,000 to &lt;1/1,000); very rare (&lt;1/10,000); not known (cannot be estimated from the available data).
+Adverse reactions reported during the first six months of two pooled pivotal Phase III trials of 6 and 12 months duration are listed by MedDRA system organ class (Table 1). Within each system organ class, the adverse reactions are ranked by frequency, with the most frequent reactions first. Within each frequency grouping, adverse reactions are presented in order of decreasing seriousness. In addition, the corresponding frequency category for each adverse reaction is based on the following convention: very c ommon (≥1/10); common (≥1/100 to &lt;1/10); uncommon (≥1/1,000 to &lt;1/100); rare (≥1/10,000 to &lt;1/1,000); very rare (&lt;1/10,000); not known (cannot be estimated from the available data).
 
 ## Table 1 Adverse reactions
 
@@ -276,11 +276,11 @@ Tovanor Breezhaler 44 micrograms once daily provided consistently statistically 
 
 <div style=\"page-break-after: always\"></div>
 
-airflow limitation at baseline (tested by administration of a short-acting muscarinic antagonist bronchodilator): Patients with the lowest degree of reversibility at baseline (&lt;5%) generally exhibited a lower bronchodilator response than patients with a higher degree of reversibility at baseline (≥5%). At 12 weeks (primary endpoint), Tovanor Breezhaler increased trough FEV1 by 72 ml in patients with the lowest degree of reversibility (&lt;5%) and by 113 ml in those patients with a higher degree of reversibility at baseline (≥5%) compared to placebo (both p&lt;0.05).
+airflow limitation at baseline (tested by administration of a short-acting muscarinic antagonist bronchodilator): Patients with the lowest degree of reversibility at baseline (&lt;5%) generally exhibited a lower bronchodilator response than patients with a higher degree of reversibility at baseline (≥5%). At 12 weeks (primary endpoint), Tovanor Breezhaler increased trough FEV1 by 72 ml in patients with the lowest degree of reversibility ( &lt; 5%) and by 113 ml in those patients with a higher degree of reversibilit y at baseline (≥5%) compared to placebo (both p&lt;0.05) .
 
 In the 6-month study, Tovanor Breezhaler increased FEV1 after the first dose with an improvement of 93 ml within 5 minutes and 144 ml within 15 minutes of dosing, compared to placebo (both p&lt;0.001). In the 12-month study, the improvements were 87 ml at 5 minutes and 143 ml at 15 minutes (both p&lt;0.001). In the 12-month study, Tovanor Breezhaler produced statistically significant improvements in FEV1 compared to tiotropium in the first 4 hours after dosing on day 1 and at week 26, and numerically greater values for FEV1 in the first 4 hours after dosing than tiotropium at week 12 and week 52.
 
-The values for FEV1 at the end of the dosing interval (24 h post dose) were similar between the first dose and those seen after 1 year of dosing. At 12 weeks (primary endpoint), Tovanor Breezhaler increased trough FEV1 by 108 ml in the 6-month study and by 97 ml in the 12-month study compared to placebo (both p&lt;0.001). In the 12-month study, the improvement versus placebo for tiotropium was 83 ml (p&lt;0.001).
+The values for FEV1 at the end of the dosing interval (24 h post dose) were similar between the first dose and those seen after 1 year of dosing. At 12 weeks (primary endpoint), Tovanor Breezhaler increased trough FEV1 by 108 ml in the 6-month study and by 97 ml in the 12-month study compared to placebo (both p&lt;0. 001). In the 12-month study, the improvement versus placebo for tiotropium was 83 ml (p&lt;0.001).
 
 ## Symptomatic outcomes
 
@@ -444,6 +444,10 @@ Please read the full Instructions for Use before using the Tovanor Breezhaler.
 
 <!-- image -->
 
+| Step 1c: Remove capsule Separate one of the blisters from the blister card. Peel open the blister and remove the capsule. Do not push the capsule through the foil. Do not swallow the capsule.   | Breathe in quickly and as deeply as you can. During inhalation you will hear a whirring noise. You may taste the medicine as you inhale. Step 3c: Hold breath Hold your breath for up to 5 seconds.   | Remove empty capsule Put the empty capsule in your household waste. Close the inhaler and replace the cap.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               |
+|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Step 1d: Insert capsule Never place a capsule directly into the mouthpiece. Step 1e: Close inhaler                                                                                                |                                                                                                                                                                                                       | Important Information • Tovanor Breezhaler capsules must always be stored in the blister card and only removed immediately before use. • Do not push the capsule through the foil to remove it from the blister. • Do not swallow the capsule. • Do not use the Tovanor Breezhaler capsules with any other inhaler. • Do not use the Tovanor Breezhaler inhaler to take any other capsule medicine. • Never place the capsule into your mouth or the mouthpiece of the inhaler. • Do not press the side buttons more than once. • Do not blow into the mouthpiece. • Do not press the side buttons while inhaling through the mouthpiece. • Do not handle capsules with wet hands. • Never wash your inhaler with water. |
+
 <div style=\"page-break-after: always\"></div>
 
 <!-- image -->
@@ -473,18 +477,15 @@ Detailed information on this medicinal product is available on the website of th
 - A. MANUFACTURER RESPONSIBLE FOR BATCH RELEASE
 - B. CONDITIONS OR RESTRICTIONS REGARDING SUPPLY AND USE
 - C. OTHER CONDITIONS AND REQUIREMENTS OF THE MARKETING AUTHORISATION
-
-## D. CONDITIONS OR RESTRICTIONS WITH REGARD TO THE SAFE AND EFFECTIVE USE OF THE MEDICINAL PRODUCT
+- D. CONDITIONS OR RESTRICTIONS WITH REGARD TO THE SAFE AND EFFECTIVE USE OF THE MEDICINAL PRODUCT
 
 <div style=\"page-break-after: always\"></div>
 
 ## A. MANUFACTURER RESPONSIBLE FOR BATCH RELEASE
 
-Name and address of the manufacturer responsible for batch release
+## Name and address of the manufacturer responsible for batch release
 
 Novartis Farmacéutica SA Gran Via de les Corts Catalanes, 764 08013 Barcelona Spain
-
-Novartis Pharma GmbH Roonstra ß e 25 D-90429 Nuremberg Germany
 
 Novartis Pharma GmbH Sophie-Germain-Strasse 10 90443 Nuremberg Germany
 
@@ -569,13 +570,13 @@ Keep out of the sight and reach of children.
 
 ## 7. OTHER SPECIAL WARNING(S), IF NECESSARY
 
+<div style=\"page-break-after: always\"></div>
+
 ## 8. EXPIRY DATE
 
 EXP
 
 The inhaler in each pack should be disposed of after all capsules in that pack have been used.
-
-<div style=\"page-break-after: always\"></div>
 
 ## 9. SPECIAL STORAGE CONDITIONS
 
@@ -583,7 +584,7 @@ Do not store above 25°C.
 
 Store the capsules in the original blister in order to protect from moisture. Do not remove from the blister until immediately before use.
 
-## 10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
+10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
@@ -629,14 +630,15 @@ Medicinal product subject to medical prescription.
 
 Tovanor Breezhaler
 
-## 17. UNIQUE IDENTIFIER - 2D BARCODE
+<div style=\"page-break-after: always\"></div>
+
+| 17. UNIQUE IDENTIFIER - 2DBARCODE   |
+|-------------------------------------|
 
 2D barcode carrying the unique identifier included.
 
-<div style=\"page-break-after: always\"></div>
-
-| 18.   | UNIQUE IDENTIFIER -HUMANREADABLE DATA   |
-|-------|-----------------------------------------|
+| 18.   | UNIQUE IDENTIFIER - HUMANREADABLE DATA   |
+|-------|------------------------------------------|
 
 PC SN NN
 
@@ -688,13 +690,13 @@ Keep out of the sight and reach of children.
 
 ## 7. OTHER SPECIAL WARNING(S), IF NECESSARY
 
+<div style=\"page-break-after: always\"></div>
+
 ## 8. EXPIRY DATE
 
 EXP
 
 The inhaler in each pack should be disposed of after all capsules in that pack have been used.
-
-<div style=\"page-break-after: always\"></div>
 
 ## 9. SPECIAL STORAGE CONDITIONS
 
@@ -748,14 +750,15 @@ Medicinal product subject to medical prescription.
 
 Tovanor Breezhaler
 
-## 17. UNIQUE IDENTIFIER - 2D BARCODE
+<div style=\"page-break-after: always\"></div>
+
+| 17. UNIQUE IDENTIFIER - 2DBARCODE   |
+|-------------------------------------|
 
 2D barcode carrying the unique identifier included.
 
-<div style=\"page-break-after: always\"></div>
-
-| 18.   | UNIQUE IDENTIFIER -HUMANREADABLE DATA   |
-|-------|-----------------------------------------|
+| 18.   | UNIQUE IDENTIFIER - HUMANREADABLE DATA   |
+|-------|------------------------------------------|
 
 PC SN NN
 
@@ -783,10 +786,7 @@ See package leaflet for further information.
 
 ## Inhalation powder, hard capsule
 
-- 30 x 1 capsules + 1 inhaler. Component of a multipack. Not to be sold separately.
-- 24 x 1 capsules + 1 inhaler. Component of a multipack. Not to be sold separately.
-- 10 x 1 capsules + 1 inhaler. Component of a multipack. Not to be sold separately.
-- 6 x 1 capsules + 1 inhaler. Component of a multipack. Not to be sold separately.
+- 30 x 1 capsules + 1 inhaler. Component of a multipack. Not to be sold separately. 24 x 1 capsules + 1 inhaler. Component of a multipack. Not to be sold separately. 10 x 1 capsules + 1 inhaler. Component of a multipack. Not to be sold separately. 6 x 1 capsules + 1 inhaler. Component of a multipack. Not to be sold separately.
 
 ## 5. METHOD AND ROUTE(S) OF ADMINISTRATION
 
@@ -804,13 +804,13 @@ Keep out of the sight and reach of children.
 
 ## 7. OTHER SPECIAL WARNING(S), IF NECESSARY
 
+<div style=\"page-break-after: always\"></div>
+
 ## 8. EXPIRY DATE
 
 EXP
 
 The inhaler in each pack should be disposed of after all capsules in that pack have been used.
-
-<div style=\"page-break-after: always\"></div>
 
 ## 9. SPECIAL STORAGE CONDITIONS
 
@@ -864,9 +864,15 @@ Medicinal product subject to medical prescription.
 
 Tovanor Breezhaler
 
-## 17. UNIQUE IDENTIFIER - 2D BARCODE
+<div style=\"page-break-after: always\"></div>
 
-## 18. UNIQUE IDENTIFIER - HUMAN READABLE DATA
+| 17. UNIQUE IDENTIFIER - 2DBARCODE   |
+|-------------------------------------|
+
+| 18.   | UNIQUE IDENTIFIER - HUMANREADABLE DATA   |
+|-------|------------------------------------------|
+
+29
 
 <div style=\"page-break-after: always\"></div>
 
@@ -874,7 +880,8 @@ Tovanor Breezhaler
 
 ## INNER LID OF OUTER CARTON OF UNIT PACK AND OF INTERMEDIATE CARTON OF MULTIPACK
 
-## 1. OTHER
+| 1.   | OTHER   |
+|------|---------|
 
 - 1 Insert
 
@@ -888,15 +895,9 @@ Check capsule is empty
 
 Read the leaflet before use.
 
-<div style=\"page-break-after: always\"></div>
+## MINIMUM PARTICULARS TO APPEAR ON BLISTERS OR STRIPS
 
-| 2.   | NAMEOFTHEMARKETINGAUTHORISATION HOLDER   |
-|------|------------------------------------------|
-
-| 4.   | BATCH NUMBER   |
-|------|----------------|
-
-## MINIMUM PARTICULARS TO APPEAR ON BLISTERS OR STRIPS BLISTERS
+BLISTERS
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
@@ -915,6 +916,8 @@ EXP
 Lot
 
 ## 5. OTHER
+
+<div style=\"page-break-after: always\"></div>
 
 Inhalation use only
 
@@ -976,7 +979,9 @@ Talk to your doctor before using Tovanor Breezhaler, if any of the following app
 
 <div style=\"page-break-after: always\"></div>
 
-## During treatment with Tovanor Breezhaler, stop taking this medicine and tell your doctor immediately:
+## During treatment with Tovanor Breezhaler,
+
+immediately:
 
 - -if you experience tightness of the chest, coughing, wheezing or breathlessness immediately after using Tovanor Breezhaler (signs of bronchospasm).
 - -if you experience difficulties in breathing or swallowing, swelling of the tongue, lips or face, skin rash, itching and hives (signs of allergic reaction).
@@ -1025,6 +1030,8 @@ You can use this medicine if you are aged 75 years and over at the same dose as 
 Use this medicine at the same time each day. This will also help you to remember to use it.
 
 You can inhale this medicine anytime before or after food or drink.
+
+stop taking this medicine and tell your doctor
 
 <div style=\"page-break-after: always\"></div>
 
@@ -1172,21 +1179,19 @@ Novartis Europharm Limited Vista Building Elm Park, Merrion Road Dublin 4 Irelan
 
 Novartis Farmacéutica SA Gran Via de les Corts Catalanes, 764 08013 Barcelona Spain
 
-Novartis Pharma GmbH Roonstraße 25 D-90429 Nuremberg Germany
-
 Novartis Pharma GmbH Sophie-Germain-Strasse 10 90443 Nuremberg Germany
-
-<div style=\"page-break-after: always\"></div>
 
 For any information about this medicine, please contact the local representative of the Marketing Authorisation Holder:
 
 ## België/Belgique/Belgien
 
-## Lietuva
-
 Novartis Pharma N.V. Tél/Tel: +32 2 246 16 11
 
+Lietuva
+
 SIA Novartis Baltics Lietuvos filialas Tel: +370 5 269 16 50
+
+<div style=\"page-break-after: always\"></div>
 
 ## България
 
@@ -1194,61 +1199,81 @@ Novartis Bulgaria EOOD
 
 Тел.: +359 2 489 98 28
 
-## Luxembourg/Luxemburg
-
-Novartis Pharma N.V. Tél/Tel: +32 2 246 16 11
-
 ## Česká republika
 
 Novartis s.r.o. Tel: +420 225 775 111
-
-## Magyarország
-
-Novartis Hungária Kft. Tel.: +36 1 457 65 00
 
 ## Danmark
 
 Novartis Healthcare A/S Tlf: +45 39 16 84 00
 
-## Malta
-
-Novartis Pharma Services Inc. Tel: +356 2122 2872
-
 ## Deutschland
 
 Novartis Pharma GmbH Tel: +49 911 273 0
-
-## Nederland
-
-Novartis Pharma B.V. Tel: +31 88 04 52 111
 
 ## Eesti
 
 SIA Novartis Baltics Eesti filiaal Tel: +372 66 30 810
 
-## Norge
-
-Novartis Norge AS Tlf: +47 23 05 20 00
-
 ## Ελλάδα
 
 Novartis (Hellas) A.E.B.E. Τηλ: +30 210 28 11 712 ή INNOVIS PHARMA ΑΕΒΕ Τηλ: +30 210 66 64 805-6
-
-## Österreich
-
-Novartis Pharma GmbH Tel: +43 1 86 6570
 
 ## España
 
 Laboratorios Gebro Pharma, S.A. Tel: +34 93 205 86 86
 
-## Polska
-
-Novartis Poland Sp. z o.o. Tel.: +48 22 375 4888
-
 ## France
 
 Novartis Pharma S.A.S. Tél: +33 1 55 47 66 00
+
+## Hrvatska
+
+Novartis Hrvatska d.o.o. Tel. +385 1 6274 220
+
+## Ireland
+
+Novartis Ireland Limited Tel: +353 1 260 12 55
+
+## Ísland
+
+Vistor hf. Sími: +354 535 7000
+
+## Italia
+
+Alfasigma S.p.A. Tel: +39 06 91 39 4666
+
+## Κύπρος
+
+Novartis Pharma Services Inc. Τηλ: +357 22 690 690
+
+## Luxembourg/Luxemburg
+
+Novartis Pharma N.V. Tél/Tel: +32 2 246 16 11
+
+## Magyarország
+
+Novartis Hungária Kft. Tel.: +36 1 457 65 00
+
+## Malta
+
+Novartis Pharma Services Inc. Tel: +356 2122 2872
+
+## Nederland
+
+Novartis Pharma B.V. Tel: +31 88 04 52 111
+
+## Norge
+
+Novartis Norge AS Tlf: +47 23 05 20 00
+
+## Österreich
+
+Novartis Pharma GmbH Tel: +43 1 86 6570
+
+## Polska
+
+Novartis Poland Sp. z o.o. Tel.: +48 22 375 4888
 
 ## Portugal
 
@@ -1256,47 +1281,27 @@ Laboratório Medinfar - Produtos Farmacêuticos, S.A.
 
 Tel: +351 21 499 7400
 
-## Hrvatska
-
-Novartis Hrvatska d.o.o. Tel. +385 1 6274 220
-
 ## România
 
 Novartis Pharma Services Romania SRL Tel: +40 21 31299 01
-
-## Ireland
-
-Novartis Ireland Limited Tel: +353 1 260 12 55
 
 ## Slovenija
 
 Novartis Pharma Services Inc. Tel: +386 1 300 75 50
 
-## Ísland
-
-Vistor hf.
-
-Sími: +354 535 7000
-
 ## Slovenská republika
 
-Novartis Slovakia s.r.o.
+Novartis Slovakia s.r.o. Tel: +421 2 5542 5439
 
-Tel: +421 2 5542 5439
+## Suomi/Finland
+
+Novartis Finland Oy Puh/Tel: +358 (0)10 6133 200
+
+## Sverige
+
+Novartis Sverige AB Tel: +46 8 732 32 00
 
 <div style=\"page-break-after: always\"></div>
-
-## Italia
-
-Alfasigma S.p.A.
-
-Tel: +39 06 91 39 4666
-
-## Κύπρος
-
-Novartis Pharma Services Inc.
-
-Τηλ: +357 22 690 690
 
 ## Latvija
 
@@ -1310,18 +1315,6 @@ Tel: +371 67 887 070
 
 Detailed information on this medicine is available on the European Medicines Agency website: http://www.ema.europa.eu
 
-## Suomi/Finland
-
-Novartis Finland Oy
-
-Puh/Tel: +358 (0)10 6133 200
-
-## Sverige
-
-Novartis Sverige AB
-
-Tel: +46 8 732 32 00
-
 <div style=\"page-break-after: always\"></div>
 
 ## Instructions for use of Tovanor Breezhaler inhaler
@@ -1334,13 +1327,7 @@ Please read the full Instructions for Use before using the Tovanor Breezhaler.
 
 <!-- image -->
 
-## Step 1c:
-
-Remove capsule Separate one of the blisters from the blister card.
-
-Peel open the blister and
-
-remove the capsule. Do not push the capsule through the foil. Do not swallow the capsule.
+Step 1c: Remove capsule Separate one of the blisters from the blister card. Peel open the blister and remove the capsule. Do not push the capsule through the foil. Do not swallow the capsule.
 
 Step 1d: Insert capsule Never place a capsule directly into the mouthpiece.
 

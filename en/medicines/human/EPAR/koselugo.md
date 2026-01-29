@@ -1,18 +1,18 @@
 ---
-document_datetime: 2025-12-29 07:21:56
+document_datetime: 2026-01-28 16:22:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/koselugo.html
 document_name: koselugo.html
 version: success
-processing_time: 0.1133187
-conversion_datetime: 2025-12-30 09:43:24.389109
+processing_time: 0.1226087
+conversion_datetime: 2026-01-29 12:27:39.629015
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.66.0
-  docling-core: 2.57.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.11.0
+  docling-jobkit: 1.9.0
+  docling: 2.70.0
+  docling-core: 2.61.0
+  docling-ibm-models: 3.11.0
+  docling-parse: 4.7.3
   python: cpython-313 (3.13.11)
   plaform: macOS-26.2-arm64-arm-64bit-Mach-O
 ---
@@ -25,8 +25,6 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 selumetinib Medicine Human Authorised
-
-On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -46,9 +44,9 @@ Page contents
 
 ## Overview
 
-Koselugo is a medicine used to treat plexiform neurofibromas, benign (non-cancerous) tumours along the nerves, when they cause symptoms and cannot be removed by surgery in children from 3 years of age with neurofibromatosis type 1 (NF1).
+Koselugo is a medicine used to treat plexiform neurofibromas, benign (non-cancerous) tumours along the nerves, when they cause symptoms and cannot be removed by surgery in adults and children from 3 years of age with neurofibromatosis type 1 (NF1).
 
-NF1 is rare, and Koselugo was designated an 'orphan medicine' (a medicine used in rare diseases) on 31 July 2018. Further information on the [orphan designation](/en/medicines/human/orphan-designations/eu-3-18-2050) is available.
+NF1 is rare, and Koselugo was designated an 'orphan medicine' (a medicine used in rare diseases) on 31 July 2018. Further information on the orphan designation can be found here: [ema.europa.eu/medicines/human/orphan-designations/eu3182050](https://www.ema.europa.eu/en/medicines/human/orphan-designations/eu3182050) .
 
 Koselugo contains the active substance selumetinib.
 
@@ -58,9 +56,9 @@ Collapse section
 
 ## How is Koselugo used?
 
-Koselugo is available as capsules and can only be obtained with a prescription. Treatment should be started by a doctor experienced in the diagnosis and treatment of NF1-related tumours.
+Koselugo is available as capsules and can only be obtained with a prescription. Treatment should be started by a doctor experienced in the diagnosis and treatment of tumours caused by NF1.
 
-The recommended dose of Koselugo is based on the patient's weight and height. The medicine is taken twice a day, about 12 hours apart, on an empty stomach. The medicine should not be given to patients who cannot swallow the capsule whole.
+The medicine is taken twice a day, about 12 hours apart. It should not be given to patients who cannot swallow the capsule whole.
 
 Before and during treatment with Koselugo, the doctor will check how well the patient's heart, eyes and liver are working. Treatment should be continued for as long as the patient improves or remains stable and the side effects are tolerable. The doctor may reduce the dose or stop treatment temporarily or permanently if certain side effects occur.
 
@@ -68,31 +66,35 @@ For more information about using Koselugo, see the package leaflet or contact yo
 
 ## How does Koselugo work?
 
-The active substance in Koselugo, selumetinib, blocks enzymes called MEK1 and MEK 2 (MEK1/2) which are involved in stimulating cells to grow. MEK1/2 are overactive in NF1, making tumour cells grow uncontrollably. By blocking these enzymes, Koselugo helps slow down growth of the tumour cells.
+The active substance in Koselugo, selumetinib, blocks enzymes (proteins) called MEK1 and MEK2 which are involved in stimulating cells to grow. MEK1 and MEK2 are overactive in NF1, making tumour cells grow uncontrollably. By blocking these enzymes, selumetinib helps slow down the growth of the tumour cells.
 
 ## What benefits of Koselugo have been shown in studies?
 
-A main study found that Koselugo is effective at treating plexiform neurofibromas in children with NF1 by shrinking the size of these tumours. In the study, tumour size decreased by at least 20% in 33 out of 50 (66%) children aged 3 years and older with NF1 and plexiform neurofibromas that could not be removed by surgery. In the study, Koselugo was not compared with any other medicine.
+Two main studies found that Koselugo is effective at treating plexiform neurofibromas in children and adults with NF1 by shrinking the size of these tumours. The main measure of effectiveness in both studies was the proportion of patients who responded to treatment with Koselugo. Patients were considered to have responded when there were no signs of tumours (complete response) or when tumours shrank by at least 20% in size (partial response), and the response was confirmed within 3 to 6 months.
+
+In the first study, tumour size decreased by at least 20% in 33 out of 50 (66%) children aged 3 years and older with NF1 and plexiform neurofibromas that could not be removed by surgery. In this study, Koselugo was not compared with any other medicine or placebo (a dummy treatment).
+
+In the second study involving 145 adults with NF1 and plexiform neurofibromas, tumour size decreased by at least 20% in 14 out of 71 (around 20%) people who received Koselugo, compared with 4 out of 74 (around 5%) of those given placebo.
 
 ## What are the risks associated with Koselugo?
 
-The most common side effects with Koselugo (which may affect more than 4 in 10 people) are vomiting, rash, increased blood creatine phosphokinase (an enzyme released into the blood when muscle is damaged), diarrhoea, nausea (feeling sick), asthenic events (feeling weak), dry skin, fever, acneiform rash (a rash resembling acne), hypoalbuminaemia (low levels of albumin, a blood protein), increased aspartate aminotransferase (an enzyme indicating a possible sign of liver problems) and paronychia (nail bed infection).
+For the full list of side effects and restrictions with Koselugo, see the package leaflet.
 
-The most common serious side effects with Koselugo (which may affect up to 1 in 10 people) are diarrhoea, anaemia (low red blood cell count), fever, increased blood creatine phosphokinase and increased blood creatinine (a sign of kidney problems).
+The most common side effects with Koselugo in children (which may affect more than 4 in 10 people) include vomiting, rash, increased blood creatine phosphokinase (an enzyme released into the blood when muscle is damaged), diarrhoea, nausea (feeling sick), stomatitis (inflammation of the lining of the mouth), asthenic events (feeling weak), dry skin, fever, acneiform dermatitis (a rash resembling acne), hypoalbuminaemia (low levels of albumin, a blood protein), increased aspartate aminotransferase (an enzyme indicating a possible sign of liver problems), decreased haemoglobin (the protein in red blood cells that carries oxygen around the body) and paronychia (nail bed infection).
+
+Some side effects with Koselugo in children can be serious. The most frequent (which may affect up to 1 in 10 people) include diarrhoea, anaemia (low red blood cell count), fever, increased blood creatine phosphokinase, increased blood creatinine (a sign of kidney problems), peripheral oedema (swelling especially of the ankles and feet) and vomiting.
+
+The most common side effects with Koselugo in adults (which may affect more than 2 in 10 people) include acneiform rash (a rash resembling acne), increased blood creatine phosphokinase, diarrhoea, rash and vomiting.
 
 Koselugo must not be used in patients with severe liver disease.
 
-For the full list of side effects and restrictions of Koselugo, see the package leaflet.
-
 ## Why is Koselugo authorised in the EU?
 
-Plexiform neurofibromas can cause disfigurement, movement difficulties, pain and nerve problems. For children with plexiform neurofibromas that cannot be removed by surgery, there are no authorised treatment options; therefore, there is an important unmet medical need. Koselugo has been shown to be effective at shrinking tumour size in such children aged 3 years and older. The number of children included in the trial was small due to the rarity of the disease. Although data on safety were limited, they indicate that Koselugo's side effects are manageable. The European Medicines Agency therefore decided that Koselugo's benefits are greater than its risks and it can be authorised for use in the EU.
+Plexiform neurofibromas can cause disfigurement, movement difficulties, pain and nerve problems. Koselugo has been shown to shrink tumour size in adults and children aged 3 years and older with NF1-associated plexiform neurofibromas that cannot be removed by surgery. In terms of safety, Koselugo's side effects are considered manageable.
 
-Koselugo has been given 'conditional authorisation'. This means that there is more evidence to come about the medicine, which the company is required to provide. Every year, the Agency will review any new information that becomes available and this overview will be updated as necessary.
+Koselugo has been given conditional authorisation. This means that it has been authorised on the basis of less comprehensive data than are normally required because it fulfils an unmet medical need. The Agency considers that the benefit of having the medicine available earlier outweighs any risks associated with using it while awaiting further evidence.
 
-## What information is still awaited for Koselugo?
-
-Since Koselugo has been given conditional authorisation, the company that markets the medicine will provide further information from two ongoing studies that aim to confirm the benefits and safety of Koselugo in children with NF1 aged 3 years and above. The company will also carry out a third study in children to provide more information on the long-term safety of the medicine.
+The company must provide further data on Koselugo. It must submit the results from an ongoing study to confirm the long-term safety of Koselugo in children with NF1 aged 3 years and older. Every year, the Agency will review any new information that becomes available.
 
 ## What measures are being taken to ensure the safe and effective use of Koselugo?
 
@@ -108,187 +110,277 @@ Koselugo : EPAR - Medicine overview
 
 Reference Number: EMA/244286/2021
 
-English (EN) (120.96 KB - PDF)
+English (EN) (125.26 KB - PDF)
 
 **First published:** 13/10/2021
 
+**Last updated:** 28/01/2026
+
 [View](/en/documents/overview/koselugo-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-185)
+[Other languages (22)](#file-language-dropdown-665)
 
-български (BG) (146.08 KB - PDF)
+български (BG) (152.11 KB - PDF)
 
 **First published:**
 
 13/10/2021
+
+**Last updated:**
+
+28/01/2026
 
 [View](/bg/documents/overview/koselugo-epar-medicine-overview_bg.pdf)
 
-español (ES) (120.8 KB - PDF)
+español (ES) (124.97 KB - PDF)
 
 **First published:**
 
 13/10/2021
+
+**Last updated:**
+
+28/01/2026
 
 [View](/es/documents/overview/koselugo-epar-medicine-overview_es.pdf)
 
-čeština (CS) (143.64 KB - PDF)
+čeština (CS) (150.68 KB - PDF)
 
 **First published:**
 
 13/10/2021
+
+**Last updated:**
+
+28/01/2026
 
 [View](/cs/documents/overview/koselugo-epar-medicine-overview_cs.pdf)
 
-dansk (DA) (119.67 KB - PDF)
+dansk (DA) (125.78 KB - PDF)
 
 **First published:**
 
 13/10/2021
+
+**Last updated:**
+
+28/01/2026
 
 [View](/da/documents/overview/koselugo-epar-medicine-overview_da.pdf)
 
-Deutsch (DE) (123.56 KB - PDF)
+Deutsch (DE) (128.9 KB - PDF)
 
 **First published:**
 
 13/10/2021
+
+**Last updated:**
+
+28/01/2026
 
 [View](/de/documents/overview/koselugo-epar-medicine-overview_de.pdf)
 
-eesti keel (ET) (107.08 KB - PDF)
+eesti keel (ET) (121.82 KB - PDF)
 
 **First published:**
 
 13/10/2021
+
+**Last updated:**
+
+28/01/2026
 
 [View](/et/documents/overview/koselugo-epar-medicine-overview_et.pdf)
 
-ελληνικά (EL) (143.47 KB - PDF)
+ελληνικά (EL) (148.77 KB - PDF)
 
 **First published:**
 
 13/10/2021
+
+**Last updated:**
+
+28/01/2026
 
 [View](/el/documents/overview/koselugo-epar-medicine-overview_el.pdf)
 
-français (FR) (122.42 KB - PDF)
+français (FR) (126.98 KB - PDF)
 
 **First published:**
 
 13/10/2021
+
+**Last updated:**
+
+28/01/2026
 
 [View](/fr/documents/overview/koselugo-epar-medicine-overview_fr.pdf)
 
-hrvatski (HR) (141.22 KB - PDF)
+hrvatski (HR) (146.68 KB - PDF)
 
 **First published:**
 
 13/10/2021
+
+**Last updated:**
+
+28/01/2026
 
 [View](/hr/documents/overview/koselugo-epar-medicine-overview_hr.pdf)
 
-italiano (IT) (120.37 KB - PDF)
+italiano (IT) (124.44 KB - PDF)
 
 **First published:**
 
 13/10/2021
+
+**Last updated:**
+
+28/01/2026
 
 [View](/it/documents/overview/koselugo-epar-medicine-overview_it.pdf)
 
-latviešu valoda (LV) (139.9 KB - PDF)
+latviešu valoda (LV) (157.8 KB - PDF)
 
 **First published:**
 
 13/10/2021
+
+**Last updated:**
+
+28/01/2026
 
 [View](/lv/documents/overview/koselugo-epar-medicine-overview_lv.pdf)
 
-lietuvių kalba (LT) (142.98 KB - PDF)
+lietuvių kalba (LT) (146.66 KB - PDF)
 
 **First published:**
 
 13/10/2021
+
+**Last updated:**
+
+28/01/2026
 
 [View](/lt/documents/overview/koselugo-epar-medicine-overview_lt.pdf)
 
-magyar (HU) (142.39 KB - PDF)
+magyar (HU) (149.46 KB - PDF)
 
 **First published:**
 
 13/10/2021
+
+**Last updated:**
+
+28/01/2026
 
 [View](/hu/documents/overview/koselugo-epar-medicine-overview_hu.pdf)
 
-Malti (MT) (145.87 KB - PDF)
+Malti (MT) (150.7 KB - PDF)
 
 **First published:**
 
 13/10/2021
+
+**Last updated:**
+
+28/01/2026
 
 [View](/mt/documents/overview/koselugo-epar-medicine-overview_mt.pdf)
 
-Nederlands (NL) (119.8 KB - PDF)
+Nederlands (NL) (126.81 KB - PDF)
 
 **First published:**
 
 13/10/2021
+
+**Last updated:**
+
+28/01/2026
 
 [View](/nl/documents/overview/koselugo-epar-medicine-overview_nl.pdf)
 
-polski (PL) (146.25 KB - PDF)
+polski (PL) (151.33 KB - PDF)
 
 **First published:**
 
 13/10/2021
+
+**Last updated:**
+
+28/01/2026
 
 [View](/pl/documents/overview/koselugo-epar-medicine-overview_pl.pdf)
 
-português (PT) (120.97 KB - PDF)
+português (PT) (125.58 KB - PDF)
 
 **First published:**
 
 13/10/2021
+
+**Last updated:**
+
+28/01/2026
 
 [View](/pt/documents/overview/koselugo-epar-medicine-overview_pt.pdf)
 
-română (RO) (142.77 KB - PDF)
+română (RO) (144.94 KB - PDF)
 
 **First published:**
 
 13/10/2021
+
+**Last updated:**
+
+28/01/2026
 
 [View](/ro/documents/overview/koselugo-epar-medicine-overview_ro.pdf)
 
-slovenčina (SK) (143.33 KB - PDF)
+slovenčina (SK) (148.69 KB - PDF)
 
 **First published:**
 
 13/10/2021
+
+**Last updated:**
+
+28/01/2026
 
 [View](/sk/documents/overview/koselugo-epar-medicine-overview_sk.pdf)
 
-slovenščina (SL) (141.31 KB - PDF)
+slovenščina (SL) (146.28 KB - PDF)
 
 **First published:**
 
 13/10/2021
+
+**Last updated:**
+
+28/01/2026
 
 [View](/sl/documents/overview/koselugo-epar-medicine-overview_sl.pdf)
 
-Suomi (FI) (118.33 KB - PDF)
+Suomi (FI) (122.52 KB - PDF)
 
 **First published:**
 
 13/10/2021
+
+**Last updated:**
+
+28/01/2026
 
 [View](/fi/documents/overview/koselugo-epar-medicine-overview_fi.pdf)
 
-svenska (SV) (119.16 KB - PDF)
+svenska (SV) (123.12 KB - PDF)
 
 **First published:**
 
 13/10/2021
+
+**Last updated:**
+
+28/01/2026
 
 [View](/sv/documents/overview/koselugo-epar-medicine-overview_sv.pdf)
 
@@ -304,17 +396,17 @@ English (EN) (444.39 KB - PDF)
 
 Koselugo : EPAR - Product information
 
-English (EN) (246.68 KB - PDF)
+English (EN) (395.18 KB - PDF)
 
 **First published:** 13/10/2021
 
-**Last updated:** 09/01/2024
+**Last updated:** 28/01/2026
 
 [View](/en/documents/product-information/koselugo-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-17)
+[Other languages (24)](#file-language-dropdown-303)
 
-български (BG) (296.85 KB - PDF)
+български (BG) (540.18 KB - PDF)
 
 **First published:**
 
@@ -322,11 +414,11 @@ English (EN) (246.68 KB - PDF)
 
 **Last updated:**
 
-09/01/2024
+28/01/2026
 
 [View](/bg/documents/product-information/koselugo-epar-product-information_bg.pdf)
 
-español (ES) (290.56 KB - PDF)
+español (ES) (403.26 KB - PDF)
 
 **First published:**
 
@@ -334,11 +426,11 @@ español (ES) (290.56 KB - PDF)
 
 **Last updated:**
 
-09/01/2024
+28/01/2026
 
 [View](/es/documents/product-information/koselugo-epar-product-information_es.pdf)
 
-čeština (CS) (259.78 KB - PDF)
+čeština (CS) (1.74 MB - PDF)
 
 **First published:**
 
@@ -346,11 +438,11 @@ español (ES) (290.56 KB - PDF)
 
 **Last updated:**
 
-09/01/2024
+28/01/2026
 
 [View](/cs/documents/product-information/koselugo-epar-product-information_cs.pdf)
 
-dansk (DA) (249.57 KB - PDF)
+dansk (DA) (372.42 KB - PDF)
 
 **First published:**
 
@@ -358,11 +450,11 @@ dansk (DA) (249.57 KB - PDF)
 
 **Last updated:**
 
-09/01/2024
+28/01/2026
 
 [View](/da/documents/product-information/koselugo-epar-product-information_da.pdf)
 
-Deutsch (DE) (278.42 KB - PDF)
+Deutsch (DE) (439.91 KB - PDF)
 
 **First published:**
 
@@ -370,11 +462,11 @@ Deutsch (DE) (278.42 KB - PDF)
 
 **Last updated:**
 
-09/01/2024
+28/01/2026
 
 [View](/de/documents/product-information/koselugo-epar-product-information_de.pdf)
 
-eesti keel (ET) (247.26 KB - PDF)
+eesti keel (ET) (380.9 KB - PDF)
 
 **First published:**
 
@@ -382,11 +474,11 @@ eesti keel (ET) (247.26 KB - PDF)
 
 **Last updated:**
 
-09/01/2024
+28/01/2026
 
 [View](/et/documents/product-information/koselugo-epar-product-information_et.pdf)
 
-ελληνικά (EL) (285.97 KB - PDF)
+ελληνικά (EL) (516.71 KB - PDF)
 
 **First published:**
 
@@ -394,11 +486,11 @@ eesti keel (ET) (247.26 KB - PDF)
 
 **Last updated:**
 
-09/01/2024
+28/01/2026
 
 [View](/el/documents/product-information/koselugo-epar-product-information_el.pdf)
 
-français (FR) (257.74 KB - PDF)
+français (FR) (514.77 KB - PDF)
 
 **First published:**
 
@@ -406,11 +498,11 @@ français (FR) (257.74 KB - PDF)
 
 **Last updated:**
 
-09/01/2024
+28/01/2026
 
 [View](/fr/documents/product-information/koselugo-epar-product-information_fr.pdf)
 
-hrvatski (HR) (255.12 KB - PDF)
+hrvatski (HR) (479.57 KB - PDF)
 
 **First published:**
 
@@ -418,11 +510,11 @@ hrvatski (HR) (255.12 KB - PDF)
 
 **Last updated:**
 
-09/01/2024
+28/01/2026
 
 [View](/hr/documents/product-information/koselugo-epar-product-information_hr.pdf)
 
-íslenska (IS) (258.68 KB - PDF)
+íslenska (IS) (395.57 KB - PDF)
 
 **First published:**
 
@@ -430,11 +522,11 @@ hrvatski (HR) (255.12 KB - PDF)
 
 **Last updated:**
 
-09/01/2024
+28/01/2026
 
 [View](/is/documents/product-information/koselugo-epar-product-information_is.pdf)
 
-italiano (IT) (257.98 KB - PDF)
+italiano (IT) (502.1 KB - PDF)
 
 **First published:**
 
@@ -442,11 +534,11 @@ italiano (IT) (257.98 KB - PDF)
 
 **Last updated:**
 
-09/01/2024
+28/01/2026
 
 [View](/it/documents/product-information/koselugo-epar-product-information_it.pdf)
 
-latviešu valoda (LV) (265.49 KB - PDF)
+latviešu valoda (LV) (474.2 KB - PDF)
 
 **First published:**
 
@@ -454,11 +546,11 @@ latviešu valoda (LV) (265.49 KB - PDF)
 
 **Last updated:**
 
-09/01/2024
+28/01/2026
 
 [View](/lv/documents/product-information/koselugo-epar-product-information_lv.pdf)
 
-lietuvių kalba (LT) (278.41 KB - PDF)
+lietuvių kalba (LT) (512.53 KB - PDF)
 
 **First published:**
 
@@ -466,11 +558,11 @@ lietuvių kalba (LT) (278.41 KB - PDF)
 
 **Last updated:**
 
-09/01/2024
+28/01/2026
 
 [View](/lt/documents/product-information/koselugo-epar-product-information_lt.pdf)
 
-magyar (HU) (283.95 KB - PDF)
+magyar (HU) (537.06 KB - PDF)
 
 **First published:**
 
@@ -478,11 +570,11 @@ magyar (HU) (283.95 KB - PDF)
 
 **Last updated:**
 
-09/01/2024
+28/01/2026
 
 [View](/hu/documents/product-information/koselugo-epar-product-information_hu.pdf)
 
-Malti (MT) (287.76 KB - PDF)
+Malti (MT) (502.38 KB - PDF)
 
 **First published:**
 
@@ -490,11 +582,11 @@ Malti (MT) (287.76 KB - PDF)
 
 **Last updated:**
 
-09/01/2024
+28/01/2026
 
 [View](/mt/documents/product-information/koselugo-epar-product-information_mt.pdf)
 
-Nederlands (NL) (261.68 KB - PDF)
+Nederlands (NL) (398.6 KB - PDF)
 
 **First published:**
 
@@ -502,11 +594,11 @@ Nederlands (NL) (261.68 KB - PDF)
 
 **Last updated:**
 
-09/01/2024
+28/01/2026
 
 [View](/nl/documents/product-information/koselugo-epar-product-information_nl.pdf)
 
-norsk (NO) (247 KB - PDF)
+norsk (NO) (397.01 KB - PDF)
 
 **First published:**
 
@@ -514,11 +606,11 @@ norsk (NO) (247 KB - PDF)
 
 **Last updated:**
 
-09/01/2024
+28/01/2026
 
 [View](/no/documents/product-information/koselugo-epar-product-information_no.pdf)
 
-polski (PL) (277.11 KB - PDF)
+polski (PL) (527.25 KB - PDF)
 
 **First published:**
 
@@ -526,11 +618,11 @@ polski (PL) (277.11 KB - PDF)
 
 **Last updated:**
 
-09/01/2024
+28/01/2026
 
 [View](/pl/documents/product-information/koselugo-epar-product-information_pl.pdf)
 
-português (PT) (270.01 KB - PDF)
+português (PT) (477.4 KB - PDF)
 
 **First published:**
 
@@ -538,11 +630,11 @@ português (PT) (270.01 KB - PDF)
 
 **Last updated:**
 
-09/01/2024
+28/01/2026
 
 [View](/pt/documents/product-information/koselugo-epar-product-information_pt.pdf)
 
-română (RO) (277.11 KB - PDF)
+română (RO) (531.76 KB - PDF)
 
 **First published:**
 
@@ -550,11 +642,11 @@ română (RO) (277.11 KB - PDF)
 
 **Last updated:**
 
-09/01/2024
+28/01/2026
 
 [View](/ro/documents/product-information/koselugo-epar-product-information_ro.pdf)
 
-slovenčina (SK) (281.14 KB - PDF)
+slovenčina (SK) (464.14 KB - PDF)
 
 **First published:**
 
@@ -562,11 +654,11 @@ slovenčina (SK) (281.14 KB - PDF)
 
 **Last updated:**
 
-09/01/2024
+28/01/2026
 
 [View](/sk/documents/product-information/koselugo-epar-product-information_sk.pdf)
 
-slovenščina (SL) (250.33 KB - PDF)
+slovenščina (SL) (475.4 KB - PDF)
 
 **First published:**
 
@@ -574,11 +666,11 @@ slovenščina (SL) (250.33 KB - PDF)
 
 **Last updated:**
 
-09/01/2024
+28/01/2026
 
 [View](/sl/documents/product-information/koselugo-epar-product-information_sl.pdf)
 
-Suomi (FI) (254.11 KB - PDF)
+Suomi (FI) (398.46 KB - PDF)
 
 **First published:**
 
@@ -586,11 +678,11 @@ Suomi (FI) (254.11 KB - PDF)
 
 **Last updated:**
 
-09/01/2024
+28/01/2026
 
 [View](/fi/documents/product-information/koselugo-epar-product-information_fi.pdf)
 
-svenska (SV) (262.36 KB - PDF)
+svenska (SV) (405.68 KB - PDF)
 
 **First published:**
 
@@ -598,11 +690,11 @@ svenska (SV) (262.36 KB - PDF)
 
 **Last updated:**
 
-09/01/2024
+28/01/2026
 
 [View](/sv/documents/product-information/koselugo-epar-product-information_sv.pdf)
 
-**Latest procedure affecting product information:** II/0013 19/10/2023
+**Latest procedure affecting product information:** VR/0000245231 24/10/2025
 
 icon globe
 
@@ -626,7 +718,7 @@ English (EN) (22.27 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/koselugo-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-730)
+[Other languages (24)](#file-language-dropdown-694)
 
 български (BG) (26.34 KB - PDF)
 
@@ -854,7 +946,7 @@ AstraZeneca AB
 
 151 85 Sodertalje
 
-Opinion adopted 22/04/2021 Marketing authorisation issued 17/06/2021 Revision 6
+Opinion adopted 22/04/2021 Marketing authorisation issued 17/06/2021 Revision 7
 
 ## Assessment history
 
@@ -866,13 +958,45 @@ Collapse section
 
 Koselugo : EPAR - Procedural steps taken and scientific information after authorisation
 
+English (EN) (148.65 KB - PDF)
+
+**First published:** 28/01/2026
+
+[View](/en/documents/procedural-steps-after/koselugo-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf)
+
+Koselugo : EPAR - Procedural steps taken and scientific information after authorisation (archive)
+
 English (EN) (156.72 KB - PDF)
 
 **First published:** 13/10/2021
 
-**Last updated:** 09/01/2024
+**Last updated:** 28/01/2026
 
-[View](/en/documents/procedural-steps-after/koselugo-epar-procedural-steps-taken-and-scientific-information-after-authorisation_en.pdf)
+[View](/en/documents/procedural-steps-after/koselugo-epar-procedural-steps-taken-scientific-information-after-authorisation-archive_en.pdf)
+
+Koselugo-H-C-005244-X-0018-G : EPAR - Assessment report
+
+Adopted
+
+Reference Number: EMADOC-1700519818-2387194
+
+English (EN) (6.31 MB - PDF)
+
+**First published:** 28/01/2026
+
+[View](/en/documents/variation-report/koselugo-h-c-005244-x-0018-g-epar-assessment-report_en.pdf)
+
+CHMP post-authorisation summary of positive opinion for Koselugo X-18-G
+
+Adopted
+
+Reference Number: EMA/CHMP/348586/2025
+
+English (EN) (120.1 KB - PDF)
+
+**First published:** 14/11/2025
+
+[View](/en/documents/smop/chmp-post-authorisation-summary-positive-opinion-koselugo-x-18-g_en.pdf)
 
 Koselugo-H-C-005244-P46-007 : EPAR - Assessment report
 
@@ -961,9 +1085,8 @@ English (EN) (103.04 KB - PDF)
 - [EMEA-001585-PIP01-13-M06 - paediatric investigation plan](/en/medicines/human/paediatric-investigation-plans/emea-001585-pip01-13-m06)
 - [EU/3/18/2050 - orphan designation for treatment of neurofibromatosis type 1](/en/medicines/human/orphan-designations/eu-3-18-2050)
 - [Koselugo - opinion on variation to marketing authorisation](/en/medicines/human/variation/koselugo)
-- [Koselugo - opinion on variation to marketing authorisation](/en/medicines/human/variation/koselugo-0)
 
-**This page was last updated on** 14/03/2025
+**This page was last updated on** 28/01/2026
 
 ## Share this page
 

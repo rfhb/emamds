@@ -1,18 +1,18 @@
 ---
-document_datetime: 2025-12-19 16:18:00
+document_datetime: 2026-01-27 16:55:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/minjuvi.html
 document_name: minjuvi.html
 version: success
-processing_time: 0.1009185
-conversion_datetime: 2026-01-03 12:55:21.14118
+processing_time: 0.1294866
+conversion_datetime: 2026-01-29 12:07:26.52731
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.66.0
-  docling-core: 2.57.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.11.0
+  docling-jobkit: 1.9.0
+  docling: 2.70.0
+  docling-core: 2.61.0
+  docling-ibm-models: 3.11.0
+  docling-parse: 4.7.3
   python: cpython-313 (3.13.11)
   plaform: macOS-26.2-arm64-arm-64bit-Mach-O
 ---
@@ -25,8 +25,6 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 tafasitamab Medicine Human Authorised
-
-On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -46,9 +44,13 @@ Page contents
 
 ## Overview
 
-Minjuvi is a cancer medicine used first in combination with another medicine called lenalidomide, and then on its own, to treat adults with diffuse large B-cell lymphoma (DLBCL) whose cancer has returned or has stopped responding to other treatments and who cannot have an autologous stem cell transplantation (a transplant where the stem cells are collected from the patients themselves).
+Minjuvi is a medicine used to treat adults with:
 
-DLBCL is rare, and Minjuvi was designated an 'orphan medicine' (a medicine used in rare diseases) on 15 January 2015. Further information on the orphan designation can be found [here](/en/medicines/human/orphan-designations/eu-3-14-1424) .
+- diffuse large B-cell lymphoma, an aggressive cancer of B cells (a type of white blood cells), in patients whose cancer has returned or has stopped responding to other treatments, and who cannot have an autologous stem cell transplantation (a transplant of blood-forming cells using the patient's own cells). For diffuse large B-cell lymphoma, Minjuvi is first given together with lenalidomide (another cancer medicine) and then on its own.
+
+- follicular lymphoma, a cancer of B cells, in patients with grade 1 to 3a disease whose cancer has returned or stopped responding after at least one previous treatment. For follicular lymphoma, Minjuvi is given together with the cancer medicines lenalidomide and rituximab.
+
+Diffuse large B cell lymphoma and follicular lymphoma are rare, and Minjuvi was designated an 'orphan medicine' (a medicine used in rare diseases). Further information on the orphan designations can be found on the EMA website ( [diffuse large B cell lymphoma](https://www.ema.europa.eu/en/medicines/human/orphan-designations/eu-3-14-1424) : 15 January 2015; [follicular lymphoma](https://www.ema.europa.eu/en/medicines/human/orphan-designations/eu-3-25-3027) : 26 February 2025).
 
 Minjuvi contains the active substance tafasitamab.
 
@@ -58,45 +60,57 @@ Collapse section
 
 ## How is Minjuvi used?
 
-Minjuvi can only be obtained with a prescription and must be given by a healthcare professional experienced in cancer treatment. The medicine is available as a powder to be made into a solution for infusion (drip) into a vein.
+Minjuvi can only be obtained with a prescription and must be given by a healthcare professional experienced in the treatment of cancer.
 
-Minjuvi treatment is given over cycles of 28 days, with the infusion given on certain days of each cycle. The dose is based on body weight. The doctor may adjust or stop treatment based on the patient's reaction to the infusion. Minjuvi is given with lenalidomide for up to 12 cycles, after which Minjuvi can be given alone. Treatment continues until the disease progresses or side effects become unacceptable.
+Minjuvi is given by infusion (drip) into a vein in cycles of 28 days, with the infusion given on specific days of each cycle. For the treatment of diffuse large-B cell lymphoma, Minjuvi is given with lenalidomide for up to 12 cycles, after which Minjuvi is continued for as long as the patient benefits from treatment or until the side effects become too severe. For the treatment of follicular lymphoma, Minjuvi is given with lenalidomide for up to 12 cycles, and patients also receive rituximab for the first 5 cycles.
 
-Patients are also given medicines to reduce the risk of reactions to the infusion before each dose of Minjuvi, for at least the first 3 infusions. Any infection should be treated before starting treatment with Minjuvi.
+To reduce the risk of infusion-related reactions, patients should be given other medicines before treatment with Minjuvi. For patients who do not have a reaction to the first three infusions, the doctor may decide that these medicines are not needed for subsequent infusions. If the patient has side effects during an infusion, the infusion should be temporarily stopped.
+
+Any infection should be treated before starting treatment with Minjuvi.
 
 For more information about using Minjuvi, see the package leaflet or contact your doctor or pharmacist.
 
 ## How does Minjuvi work?
 
-The active substance in Minjuvi, tafasitamab, is a monoclonal antibody, a type of protein that is designed to recognise and attach to a specific structure on certain cells in the body. Tafasitamab in particular, was designed to attach to CD19, a protein that is present on the surface of the cancer cells. When attached to CD19, the medicine is expected to stimulate the immune system (the body's natural defences) to attack and kill the cancer cells and thereby slow down the progression of the disease.
+The active substance in Minjuvi, tafasitamab, is a monoclonal antibody, a type of protein made to attach to a target in the body. Tafasitamab targets and attaches to CD19, a protein found on B cells, including cancerous B cells. When tafasitamab attaches to CD19, the medicine stimulates the immune system (the body's natural defences) to attack and kill the cancer cells, thereby slowing down the progression of the cancer.
 
 ## What benefits of Minjuvi have been shown in studies?
 
-Minjuvi used in combination with lenalidomide was investigated in a study involving 81 adult patients with DLBCL that did not respond to other treatments and who could not have an autologous stem cell transplantation. In this study, patients were treated with Minjuvi and lenalidomide for up to 12 cycles followed by Minjuvi on its own until the disease progressed or side effects became unmanageable. Of the patients involved in the study, 46 (57%) had either a complete response (no sign of cancer) or a partial response.
+**Diffuse large B-cell lymphoma**
+
+Minjuvi was investigated in a main study involving 81 adults with diffuse large B-cell lymphoma who had not responded or stopped responding to treatment, and who could not have an autologous stem cell transplantation. In this study, Minjuvi was not compared with another treatment or with placebo (a dummy treatment). Participants received Minjuvi and lenalidomide for up to 12 cycles, followed by Minjuvi on its own until the disease got worse or side effects became unmanageable. Overall, 57% (46 out of 81) of participants had either a complete response (no detectable sign of cancer) or a partial response (the cancer became smaller). The study was not designed to reliably evaluate how long patients lived.
+
+The results from this main study were compared with results from other studies which evaluated Minjuvi or lenalidomide alone.
+
+**Follicular lymphoma**
+
+Minjuvi was investigated in a main study involving 548 adults with Grade 1 to 3a follicular lymphoma who had not responded or stopped responding to at least one previous treatment. Participants received Minjuvi or placebo together with lenalidomide for 12 cycles and rituximab for 5 cycles. On average, participants given Minjuvi lived for around 22 months without their disease getting worse, compared with around 14 months for those given placebo. Information on how long patients lived overall was not yet available.
 
 ## What are the risks associated with Minjuvi?
 
-The most common side effects with Minjuvi (which may affect more than 1 in 10 people) are infections, neutropenia (low white blood cell count), anaemia (low red blood cell count), thrombocytopaenia (low blood platelet count), diarrhoea, weakness, cough, peripheral oedema (swelling especially of the ankles and feet), fever and decreased appetite.
-
-The most common serious side effects (which may affect more than 1 in 100 people) are infection, including pneumonia (infection of the lungs), and neutropenia with fever.
-
 For the full list of side effects and restrictions with Minjuvi, see the package leaflet.
+
+For the treatment of diffuse large B-cell lymphoma, the most common side effects with Minjuvi (which may affect more than 1 in 10 people) include infections, neutropenia (low levels of neutrophils, a type of white blood cell), anaemia (low levels of red blood cells), thrombocytopenia (low levels of platelets in the blood), diarrhoea, weakness, cough, peripheral oedema (swelling especially of the ankles and feet), fever and decreased appetite. Some side effects can be serious. The most frequent serious side effects with Minjuvi (which may affect more than 1 in 100 people) include infections (including pneumonia, an infection of the lungs) and neutropenia with fever.
+
+For the treatment of follicular lymphoma, the most common side effects with Minjuvi (which may affect more than 1 in 10 people) include infection, including viral and bacterial infections, neutropenia, rash, weakness, fever, thrombocytopenia, anaemia, infusion-related reactions, itching and headache. The most frequent serious side effects (which may affect more than 1 in 100 people) include infections, including viral and bacterial infections, neutropenia with fever, sudden kidney damage and fever.
 
 ## Why is Minjuvi authorised in the EU?
 
-Patients with DLBCL whose cancer has returned or does not respond to treatment and who cannot have an autologous stem cell transplantation have limited treatment options. Minjuvi together with lenalidomide was shown to provide a clinically meaningful response and the side effects were manageable. The European Medicines Agency therefore decided that Minjuvi's benefits are greater than its risks and it can be authorised for use in the EU.
+At the time of authorisation, people with diffuse large B-cell lymphoma whose cancer had returned or stopped responding to treatment and who cannot have an autologous stem cell transplantation had limited treatment options. In the main study, Minjuvi given with lenalidomide led to benefits in more than half of participants. Because the treatment was not directly compared with another medicine or placebo, there is some uncertainty about how large the benefit is. Side effects with Minjuvi, such as infections and low levels of white blood cells, are commonly seen with treatments for cancers of B cells and were considered manageable.
 
-Minjuvi has been given 'conditional authorisation'. This means that there is more evidence to come about the medicine, which the company is required to provide. Every year, the European Medicines Agency will review any new information that becomes available and this overview will be updated as necessary.
+In people with follicular lymphoma whose cancer has come back or stopped responding to at least one previous medicine, Minjuvi given with lenalidomide and rituximab helped them live longer without their disease getting worse. Adding Minjuvi to lenalidomide and rituximab led to a higher risk of severe neutropenia and severe infections. However, because the treatment offers benefits for patients, these risks were considered acceptable.
 
-## What information is still awaited for Minjuvi?
+The European Medicines Agency therefore decided that Minjuvi's benefits are greater than its risks and it can be authorised for use in the EU.
 
-Since Minjuvi has been given conditional authorisation, the company that markets Minjuvi will provide evidence from three additional studies on the safety and efficacy of the medicine in combination with lenalidomide or bendamustine (another cancer medicine) in patients with DLBCL.
+Minjuvi has been given 'conditional authorisation'. This means that it has been authorised on the basis of less comprehensive data than are normally required because it fulfils an unmet medical need. The agency considers that the benefit of having it available earlier outweighs any risks associated with using it while awaiting further evidence.
+
+The company must provide further data on Minjuvi. It must submit the results from two studies in patients with diffuse large B-cell lymphoma to confirm the medicine's effectiveness and safety. Every year, the Agency will review any new information that becomes available.
 
 ## What measures are being taken to ensure the safe and effective use of Minjuvi?
 
 Recommendations and precautions to be followed by healthcare professionals and patients for the safe and effective use of Minjuvi have been included in the summary of product characteristics and the package leaflet.
 
-As for all medicines, data on the use of Minjuvi are continuously monitored. Side effects reported with the medicine are carefully evaluated and any necessary action taken to protect patients.
+As for all medicines, data on the use of Minjuvi are continuously monitored. Suspected side effects reported with Minjuvi are carefully evaluated and any necessary action taken to protect patients.
 
 ## Other information about Minjuvi
 
@@ -104,197 +118,289 @@ Minjuvi received a conditional marketing authorisation valid throughout the EU o
 
 Minjuvi : EPAR - Medicine overview
 
-English (EN) (121.86 KB - PDF)
+Reference Number: EMADOC-1829012207-35933
+
+English (EN) (144.1 KB - PDF)
 
 **First published:** 08/09/2021
 
+**Last updated:** 27/01/2026
+
 [View](/en/documents/overview/minjuvi-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-397)
+[Other languages (22)](#file-language-dropdown-25)
 
-български (BG) (136.19 KB - PDF)
+български (BG) (168.3 KB - PDF)
 
 **First published:**
 
 08/09/2021
+
+**Last updated:**
+
+27/01/2026
 
 [View](/bg/documents/overview/minjuvi-epar-medicine-overview_bg.pdf)
 
-español (ES) (120.63 KB - PDF)
+español (ES) (142.45 KB - PDF)
 
 **First published:**
 
 08/09/2021
+
+**Last updated:**
+
+27/01/2026
 
 [View](/es/documents/overview/minjuvi-epar-medicine-overview_es.pdf)
 
-čeština (CS) (142.18 KB - PDF)
+čeština (CS) (168.62 KB - PDF)
 
 **First published:**
 
 08/09/2021
+
+**Last updated:**
+
+27/01/2026
 
 [View](/cs/documents/overview/minjuvi-epar-medicine-overview_cs.pdf)
 
-dansk (DA) (118.67 KB - PDF)
+dansk (DA) (140.59 KB - PDF)
 
 **First published:**
 
 08/09/2021
+
+**Last updated:**
+
+27/01/2026
 
 [View](/da/documents/overview/minjuvi-epar-medicine-overview_da.pdf)
 
-Deutsch (DE) (123.02 KB - PDF)
+Deutsch (DE) (146.41 KB - PDF)
 
 **First published:**
 
 08/09/2021
+
+**Last updated:**
+
+27/01/2026
 
 [View](/de/documents/overview/minjuvi-epar-medicine-overview_de.pdf)
 
-eesti keel (ET) (108.53 KB - PDF)
+eesti keel (ET) (138.44 KB - PDF)
 
 **First published:**
 
 08/09/2021
+
+**Last updated:**
+
+27/01/2026
 
 [View](/et/documents/overview/minjuvi-epar-medicine-overview_et.pdf)
 
-ελληνικά (EL) (146.77 KB - PDF)
+ελληνικά (EL) (166.16 KB - PDF)
 
 **First published:**
 
 08/09/2021
+
+**Last updated:**
+
+27/01/2026
 
 [View](/el/documents/overview/minjuvi-epar-medicine-overview_el.pdf)
 
-français (FR) (121.93 KB - PDF)
+français (FR) (145.31 KB - PDF)
 
 **First published:**
 
 08/09/2021
+
+**Last updated:**
+
+27/01/2026
 
 [View](/fr/documents/overview/minjuvi-epar-medicine-overview_fr.pdf)
 
-hrvatski (HR) (143.87 KB - PDF)
+hrvatski (HR) (165.36 KB - PDF)
 
 **First published:**
 
 08/09/2021
+
+**Last updated:**
+
+27/01/2026
 
 [View](/hr/documents/overview/minjuvi-epar-medicine-overview_hr.pdf)
 
-italiano (IT) (119.69 KB - PDF)
+italiano (IT) (140.93 KB - PDF)
 
 **First published:**
 
 08/09/2021
+
+**Last updated:**
+
+27/01/2026
 
 [View](/it/documents/overview/minjuvi-epar-medicine-overview_it.pdf)
 
-latviešu valoda (LV) (151.14 KB - PDF)
+latviešu valoda (LV) (174.67 KB - PDF)
 
 **First published:**
 
 08/09/2021
+
+**Last updated:**
+
+27/01/2026
 
 [View](/lv/documents/overview/minjuvi-epar-medicine-overview_lv.pdf)
 
-lietuvių kalba (LT) (143.25 KB - PDF)
+lietuvių kalba (LT) (166.07 KB - PDF)
 
 **First published:**
 
 08/09/2021
+
+**Last updated:**
+
+27/01/2026
 
 [View](/lt/documents/overview/minjuvi-epar-medicine-overview_lt.pdf)
 
-magyar (HU) (143.01 KB - PDF)
+magyar (HU) (168.79 KB - PDF)
 
 **First published:**
 
 08/09/2021
+
+**Last updated:**
+
+27/01/2026
 
 [View](/hu/documents/overview/minjuvi-epar-medicine-overview_hu.pdf)
 
-Malti (MT) (144.65 KB - PDF)
+Malti (MT) (169.53 KB - PDF)
 
 **First published:**
 
 08/09/2021
+
+**Last updated:**
+
+27/01/2026
 
 [View](/mt/documents/overview/minjuvi-epar-medicine-overview_mt.pdf)
 
-Nederlands (NL) (119.39 KB - PDF)
+Nederlands (NL) (142.18 KB - PDF)
 
 **First published:**
 
 08/09/2021
+
+**Last updated:**
+
+27/01/2026
 
 [View](/nl/documents/overview/minjuvi-epar-medicine-overview_nl.pdf)
 
-polski (PL) (145 KB - PDF)
+polski (PL) (167.45 KB - PDF)
 
 **First published:**
 
 08/09/2021
+
+**Last updated:**
+
+27/01/2026
 
 [View](/pl/documents/overview/minjuvi-epar-medicine-overview_pl.pdf)
 
-português (PT) (121.19 KB - PDF)
+português (PT) (143.28 KB - PDF)
 
 **First published:**
 
 08/09/2021
+
+**Last updated:**
+
+27/01/2026
 
 [View](/pt/documents/overview/minjuvi-epar-medicine-overview_pt.pdf)
 
-română (RO) (142.01 KB - PDF)
+română (RO) (166.09 KB - PDF)
 
 **First published:**
 
 08/09/2021
+
+**Last updated:**
+
+27/01/2026
 
 [View](/ro/documents/overview/minjuvi-epar-medicine-overview_ro.pdf)
 
-slovenčina (SK) (141.74 KB - PDF)
+slovenčina (SK) (166.79 KB - PDF)
 
 **First published:**
 
 08/09/2021
+
+**Last updated:**
+
+27/01/2026
 
 [View](/sk/documents/overview/minjuvi-epar-medicine-overview_sk.pdf)
 
-slovenščina (SL) (142.41 KB - PDF)
+slovenščina (SL) (163.98 KB - PDF)
 
 **First published:**
 
 08/09/2021
+
+**Last updated:**
+
+27/01/2026
 
 [View](/sl/documents/overview/minjuvi-epar-medicine-overview_sl.pdf)
 
-Suomi (FI) (117.42 KB - PDF)
+Suomi (FI) (139.03 KB - PDF)
 
 **First published:**
 
 08/09/2021
+
+**Last updated:**
+
+27/01/2026
 
 [View](/fi/documents/overview/minjuvi-epar-medicine-overview_fi.pdf)
 
-svenska (SV) (119.56 KB - PDF)
+svenska (SV) (140.1 KB - PDF)
 
 **First published:**
 
 08/09/2021
+
+**Last updated:**
+
+27/01/2026
 
 [View](/sv/documents/overview/minjuvi-epar-medicine-overview_sv.pdf)
 
 Minjuvi : EPAR - Risk management plan
 
-English (EN) (539.15 KB - PDF)
+English (EN) (556.59 KB - PDF)
 
 **First published:** 08/09/2021
 
-**Last updated:** 24/10/2025
+**Last updated:** 27/01/2026
 
 [View](/en/documents/rmp/minjuvi-epar-risk-management-plan_en.pdf)
 
@@ -302,17 +408,17 @@ English (EN) (539.15 KB - PDF)
 
 Minjuvi : EPAR - Product information
 
-English (EN) (207.31 KB - PDF)
+English (EN) (484.99 KB - PDF)
 
 **First published:** 08/09/2021
 
-**Last updated:** 19/12/2025
+**Last updated:** 27/01/2026
 
 [View](/en/documents/product-information/minjuvi-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-469)
+[Other languages (24)](#file-language-dropdown-961)
 
-български (BG) (352.89 KB - PDF)
+български (BG) (555.16 KB - PDF)
 
 **First published:**
 
@@ -320,11 +426,11 @@ English (EN) (207.31 KB - PDF)
 
 **Last updated:**
 
-19/12/2025
+27/01/2026
 
 [View](/bg/documents/product-information/minjuvi-epar-product-information_bg.pdf)
 
-español (ES) (236.41 KB - PDF)
+español (ES) (527.31 KB - PDF)
 
 **First published:**
 
@@ -332,11 +438,11 @@ español (ES) (236.41 KB - PDF)
 
 **Last updated:**
 
-19/12/2025
+27/01/2026
 
 [View](/es/documents/product-information/minjuvi-epar-product-information_es.pdf)
 
-čeština (CS) (310.66 KB - PDF)
+čeština (CS) (520.13 KB - PDF)
 
 **First published:**
 
@@ -344,11 +450,11 @@ español (ES) (236.41 KB - PDF)
 
 **Last updated:**
 
-19/12/2025
+27/01/2026
 
 [View](/cs/documents/product-information/minjuvi-epar-product-information_cs.pdf)
 
-dansk (DA) (212.35 KB - PDF)
+dansk (DA) (496.15 KB - PDF)
 
 **First published:**
 
@@ -356,11 +462,11 @@ dansk (DA) (212.35 KB - PDF)
 
 **Last updated:**
 
-19/12/2025
+27/01/2026
 
 [View](/da/documents/product-information/minjuvi-epar-product-information_da.pdf)
 
-Deutsch (DE) (230.21 KB - PDF)
+Deutsch (DE) (544.86 KB - PDF)
 
 **First published:**
 
@@ -368,11 +474,11 @@ Deutsch (DE) (230.21 KB - PDF)
 
 **Last updated:**
 
-19/12/2025
+27/01/2026
 
 [View](/de/documents/product-information/minjuvi-epar-product-information_de.pdf)
 
-eesti keel (ET) (279.22 KB - PDF)
+eesti keel (ET) (356.83 KB - PDF)
 
 **First published:**
 
@@ -380,11 +486,11 @@ eesti keel (ET) (279.22 KB - PDF)
 
 **Last updated:**
 
-19/12/2025
+27/01/2026
 
 [View](/et/documents/product-information/minjuvi-epar-product-information_et.pdf)
 
-ελληνικά (EL) (336.67 KB - PDF)
+ελληνικά (EL) (639.15 KB - PDF)
 
 **First published:**
 
@@ -392,11 +498,11 @@ eesti keel (ET) (279.22 KB - PDF)
 
 **Last updated:**
 
-19/12/2025
+27/01/2026
 
 [View](/el/documents/product-information/minjuvi-epar-product-information_el.pdf)
 
-français (FR) (225.99 KB - PDF)
+français (FR) (516.25 KB - PDF)
 
 **First published:**
 
@@ -404,11 +510,11 @@ français (FR) (225.99 KB - PDF)
 
 **Last updated:**
 
-19/12/2025
+27/01/2026
 
 [View](/fr/documents/product-information/minjuvi-epar-product-information_fr.pdf)
 
-hrvatski (HR) (304.71 KB - PDF)
+hrvatski (HR) (634.67 KB - PDF)
 
 **First published:**
 
@@ -416,11 +522,11 @@ hrvatski (HR) (304.71 KB - PDF)
 
 **Last updated:**
 
-19/12/2025
+27/01/2026
 
 [View](/hr/documents/product-information/minjuvi-epar-product-information_hr.pdf)
 
-íslenska (IS) (211.54 KB - PDF)
+íslenska (IS) (541.04 KB - PDF)
 
 **First published:**
 
@@ -428,11 +534,11 @@ hrvatski (HR) (304.71 KB - PDF)
 
 **Last updated:**
 
-19/12/2025
+27/01/2026
 
 [View](/is/documents/product-information/minjuvi-epar-product-information_is.pdf)
 
-italiano (IT) (220.12 KB - PDF)
+italiano (IT) (530.43 KB - PDF)
 
 **First published:**
 
@@ -440,11 +546,11 @@ italiano (IT) (220.12 KB - PDF)
 
 **Last updated:**
 
-19/12/2025
+27/01/2026
 
 [View](/it/documents/product-information/minjuvi-epar-product-information_it.pdf)
 
-latviešu valoda (LV) (320.56 KB - PDF)
+latviešu valoda (LV) (552.61 KB - PDF)
 
 **First published:**
 
@@ -452,11 +558,11 @@ latviešu valoda (LV) (320.56 KB - PDF)
 
 **Last updated:**
 
-19/12/2025
+27/01/2026
 
 [View](/lv/documents/product-information/minjuvi-epar-product-information_lv.pdf)
 
-lietuvių kalba (LT) (311.3 KB - PDF)
+lietuvių kalba (LT) (618.33 KB - PDF)
 
 **First published:**
 
@@ -464,11 +570,11 @@ lietuvių kalba (LT) (311.3 KB - PDF)
 
 **Last updated:**
 
-19/12/2025
+27/01/2026
 
 [View](/lt/documents/product-information/minjuvi-epar-product-information_lt.pdf)
 
-magyar (HU) (327.97 KB - PDF)
+magyar (HU) (586.67 KB - PDF)
 
 **First published:**
 
@@ -476,11 +582,11 @@ magyar (HU) (327.97 KB - PDF)
 
 **Last updated:**
 
-19/12/2025
+27/01/2026
 
 [View](/hu/documents/product-information/minjuvi-epar-product-information_hu.pdf)
 
-Malti (MT) (359.76 KB - PDF)
+Malti (MT) (626.22 KB - PDF)
 
 **First published:**
 
@@ -488,11 +594,11 @@ Malti (MT) (359.76 KB - PDF)
 
 **Last updated:**
 
-19/12/2025
+27/01/2026
 
 [View](/mt/documents/product-information/minjuvi-epar-product-information_mt.pdf)
 
-Nederlands (NL) (226.39 KB - PDF)
+Nederlands (NL) (494.49 KB - PDF)
 
 **First published:**
 
@@ -500,11 +606,11 @@ Nederlands (NL) (226.39 KB - PDF)
 
 **Last updated:**
 
-19/12/2025
+27/01/2026
 
 [View](/nl/documents/product-information/minjuvi-epar-product-information_nl.pdf)
 
-norsk (NO) (235.4 KB - PDF)
+norsk (NO) (501.53 KB - PDF)
 
 **First published:**
 
@@ -512,11 +618,11 @@ norsk (NO) (235.4 KB - PDF)
 
 **Last updated:**
 
-19/12/2025
+27/01/2026
 
 [View](/no/documents/product-information/minjuvi-epar-product-information_no.pdf)
 
-polski (PL) (359.77 KB - PDF)
+polski (PL) (600.43 KB - PDF)
 
 **First published:**
 
@@ -524,11 +630,11 @@ polski (PL) (359.77 KB - PDF)
 
 **Last updated:**
 
-19/12/2025
+27/01/2026
 
 [View](/pl/documents/product-information/minjuvi-epar-product-information_pl.pdf)
 
-português (PT) (213.79 KB - PDF)
+português (PT) (481.29 KB - PDF)
 
 **First published:**
 
@@ -536,11 +642,11 @@ português (PT) (213.79 KB - PDF)
 
 **Last updated:**
 
-19/12/2025
+27/01/2026
 
 [View](/pt/documents/product-information/minjuvi-epar-product-information_pt.pdf)
 
-română (RO) (345.76 KB - PDF)
+română (RO) (597.19 KB - PDF)
 
 **First published:**
 
@@ -548,11 +654,11 @@ română (RO) (345.76 KB - PDF)
 
 **Last updated:**
 
-19/12/2025
+27/01/2026
 
 [View](/ro/documents/product-information/minjuvi-epar-product-information_ro.pdf)
 
-slovenčina (SK) (323.05 KB - PDF)
+slovenčina (SK) (589.64 KB - PDF)
 
 **First published:**
 
@@ -560,11 +666,11 @@ slovenčina (SK) (323.05 KB - PDF)
 
 **Last updated:**
 
-19/12/2025
+27/01/2026
 
 [View](/sk/documents/product-information/minjuvi-epar-product-information_sk.pdf)
 
-slovenščina (SL) (512.45 KB - PDF)
+slovenščina (SL) (603.25 KB - PDF)
 
 **First published:**
 
@@ -572,11 +678,11 @@ slovenščina (SL) (512.45 KB - PDF)
 
 **Last updated:**
 
-19/12/2025
+27/01/2026
 
 [View](/sl/documents/product-information/minjuvi-epar-product-information_sl.pdf)
 
-Suomi (FI) (215.69 KB - PDF)
+Suomi (FI) (460.51 KB - PDF)
 
 **First published:**
 
@@ -584,11 +690,11 @@ Suomi (FI) (215.69 KB - PDF)
 
 **Last updated:**
 
-19/12/2025
+27/01/2026
 
 [View](/fi/documents/product-information/minjuvi-epar-product-information_fi.pdf)
 
-svenska (SV) (218.63 KB - PDF)
+svenska (SV) (503.58 KB - PDF)
 
 **First published:**
 
@@ -596,11 +702,11 @@ svenska (SV) (218.63 KB - PDF)
 
 **Last updated:**
 
-19/12/2025
+27/01/2026
 
 [View](/sv/documents/product-information/minjuvi-epar-product-information_sv.pdf)
 
-**Latest procedure affecting product information:** VR/0000310661 18/12/2025
+**Latest procedure affecting product information:** VR/0000255975 15/12/2025
 
 icon globe
 
@@ -626,7 +732,7 @@ English (EN) (15.7 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/minjuvi-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-622)
+[Other languages (24)](#file-language-dropdown-335)
 
 български (BG) (92.34 KB - PDF)
 
@@ -854,7 +960,7 @@ Incyte Biosciences Distribution B.V.
 
 Paasheuvelweg 25
 
-Opinion adopted 24/06/2021 Marketing authorisation issued 26/08/2021 Revision 10
+Opinion adopted 24/06/2021 Marketing authorisation issued 26/08/2021 Revision 12
 
 ## Assessment history
 
@@ -866,11 +972,11 @@ Collapse section
 
 Minjuvi : EPAR - Procedural steps taken and scientific information after the authorisation
 
-English (EN) (147.56 KB - PDF)
+English (EN) (185.36 KB - PDF)
 
 **First published:** 06/10/2025
 
-**Last updated:** 19/12/2025
+**Last updated:** 27/01/2026
 
 [View](/en/documents/procedural-steps-after/minjuvi-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf)
 
@@ -883,6 +989,40 @@ English (EN) (130.07 KB - PDF)
 **Last updated:** 06/10/2025
 
 [View](/en/documents/procedural-steps-after/minjuvi-epar-procedural-steps-taken-scientific-information-after-authorisation-archive_en.pdf)
+
+Minjuvi : Orphan maintenance assessment report (post authorisation)
+
+Reference Number: EMADOC-1700519818-2643640
+
+English (EN) (361.68 KB - PDF)
+
+**First published:** 27/01/2026
+
+[View](/en/documents/orphan-maintenance-report-post/minjuvi-orphan-maintenance-assessment-report-post-authorisation_en.pdf)
+
+Minjuvi-VR-0000255975 : EPAR - Assessment report - Variation
+
+Adopted
+
+Reference Number: EMADOC-1700519818-2579130
+
+English (EN) (11.27 MB - PDF)
+
+**First published:** 27/01/2026
+
+[View](/en/documents/variation-report/minjuvi-vr-0000255975-epar-assessment-report-variation_en.pdf)
+
+CHMP post-authorisation summary of positive opinion for Minjuvi (EMAVR0000255975)
+
+Adopted
+
+Reference Number: EMADOC-1700519818-2579167
+
+English (EN) (149.04 KB - PDF)
+
+**First published:** 14/11/2025
+
+[View](/en/documents/smop/chmp-post-authorisation-summary-positive-opinion-minjuvi-emavr0000255975_en.pdf)
 
 ## Initial marketing authorisation documents
 
@@ -934,9 +1074,8 @@ English (EN) (149.59 KB - PDF)
 
 - [EU/3/14/1424 - orphan designation for treatment of diffuse large B-cell lymphoma](/en/medicines/human/orphan-designations/eu-3-14-1424)
 - [EMEA-002499-PIP03-24 - paediatric investigation plan](/en/medicines/human/paediatric-investigation-plans/emea-002499-pip03-24)
-- [Minjuvi - opinion on variation to marketing authorisation](/en/medicines/human/variation/minjuvi)
 
-**This page was last updated on** 19/12/2025
+**This page was last updated on** 27/01/2026
 
 ## Share this page
 

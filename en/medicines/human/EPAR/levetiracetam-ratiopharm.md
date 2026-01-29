@@ -1,18 +1,18 @@
 ---
-document_datetime: 2025-12-29 14:35:07
+document_datetime: 2026-01-26 17:44:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/levetiracetam-ratiopharm.html
 document_name: levetiracetam-ratiopharm.html
 version: success
-processing_time: 0.127445
-conversion_datetime: 2025-12-31 01:42:10.510725
+processing_time: 0.1371715
+conversion_datetime: 2026-01-29 12:44:09.865586
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.66.0
-  docling-core: 2.57.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.11.0
+  docling-jobkit: 1.9.0
+  docling: 2.70.0
+  docling-core: 2.61.0
+  docling-ibm-models: 3.11.0
+  docling-parse: 4.7.3
   python: cpython-313 (3.13.11)
   plaform: macOS-26.2-arm64-arm-64bit-Mach-O
 ---
@@ -25,8 +25,6 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 levetiracetam Medicine Human Authorised
-
-On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -110,7 +108,7 @@ English (EN) (157.03 KB - PDF)
 
 [View](/en/documents/overview/levetiracetam-ratiopharm-epar-summary-public_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-220)
+[Other languages (22)](#file-language-dropdown-16)
 
 български (BG) (174.98 KB - PDF)
 
@@ -380,17 +378,17 @@ svenska (SV) (147.01 KB - PDF)
 
 Levetiracetam ratiopharm : EPAR - Product Information
 
-English (EN) (1.1 MB - PDF)
+English (EN) (666.92 KB - PDF)
 
 **First published:** 19/09/2011
 
-**Last updated:** 30/06/2025
+**Last updated:** 26/01/2026
 
 [View](/en/documents/product-information/levetiracetam-ratiopharm-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-651)
+[Other languages (24)](#file-language-dropdown-595)
 
-български (BG) (1.29 MB - PDF)
+български (BG) (879.82 KB - PDF)
 
 **First published:**
 
@@ -398,11 +396,11 @@ English (EN) (1.1 MB - PDF)
 
 **Last updated:**
 
-30/06/2025
+26/01/2026
 
 [View](/bg/documents/product-information/levetiracetam-ratiopharm-epar-product-information_bg.pdf)
 
-español (ES) (1.16 MB - PDF)
+español (ES) (674.17 KB - PDF)
 
 **First published:**
 
@@ -410,11 +408,11 @@ español (ES) (1.16 MB - PDF)
 
 **Last updated:**
 
-30/06/2025
+26/01/2026
 
 [View](/es/documents/product-information/levetiracetam-ratiopharm-epar-product-information_es.pdf)
 
-čeština (CS) (1.28 MB - PDF)
+čeština (CS) (800.22 KB - PDF)
 
 **First published:**
 
@@ -422,11 +420,11 @@ español (ES) (1.16 MB - PDF)
 
 **Last updated:**
 
-30/06/2025
+26/01/2026
 
 [View](/cs/documents/product-information/levetiracetam-ratiopharm-epar-product-information_cs.pdf)
 
-dansk (DA) (1.19 MB - PDF)
+dansk (DA) (682.03 KB - PDF)
 
 **First published:**
 
@@ -434,11 +432,11 @@ dansk (DA) (1.19 MB - PDF)
 
 **Last updated:**
 
-30/06/2025
+26/01/2026
 
 [View](/da/documents/product-information/levetiracetam-ratiopharm-epar-product-information_da.pdf)
 
-Deutsch (DE) (1.23 MB - PDF)
+Deutsch (DE) (712.76 KB - PDF)
 
 **First published:**
 
@@ -446,11 +444,11 @@ Deutsch (DE) (1.23 MB - PDF)
 
 **Last updated:**
 
-30/06/2025
+26/01/2026
 
 [View](/de/documents/product-information/levetiracetam-ratiopharm-epar-product-information_de.pdf)
 
-eesti keel (ET) (1.2 MB - PDF)
+eesti keel (ET) (679.36 KB - PDF)
 
 **First published:**
 
@@ -458,11 +456,11 @@ eesti keel (ET) (1.2 MB - PDF)
 
 **Last updated:**
 
-30/06/2025
+26/01/2026
 
 [View](/et/documents/product-information/levetiracetam-ratiopharm-epar-product-information_et.pdf)
 
-ελληνικά (EL) (1.27 MB - PDF)
+ελληνικά (EL) (848.8 KB - PDF)
 
 **First published:**
 
@@ -470,11 +468,11 @@ eesti keel (ET) (1.2 MB - PDF)
 
 **Last updated:**
 
-30/06/2025
+26/01/2026
 
 [View](/el/documents/product-information/levetiracetam-ratiopharm-epar-product-information_el.pdf)
 
-français (FR) (1.22 MB - PDF)
+français (FR) (703.85 KB - PDF)
 
 **First published:**
 
@@ -482,11 +480,11 @@ français (FR) (1.22 MB - PDF)
 
 **Last updated:**
 
-30/06/2025
+26/01/2026
 
 [View](/fr/documents/product-information/levetiracetam-ratiopharm-epar-product-information_fr.pdf)
 
-hrvatski (HR) (1.16 MB - PDF)
+hrvatski (HR) (732.51 KB - PDF)
 
 **First published:**
 
@@ -494,11 +492,11 @@ hrvatski (HR) (1.16 MB - PDF)
 
 **Last updated:**
 
-30/06/2025
+26/01/2026
 
 [View](/hr/documents/product-information/levetiracetam-ratiopharm-epar-product-information_hr.pdf)
 
-íslenska (IS) (1.08 MB - PDF)
+íslenska (IS) (644.39 KB - PDF)
 
 **First published:**
 
@@ -506,11 +504,11 @@ hrvatski (HR) (1.16 MB - PDF)
 
 **Last updated:**
 
-30/06/2025
+26/01/2026
 
 [View](/is/documents/product-information/levetiracetam-ratiopharm-epar-product-information_is.pdf)
 
-italiano (IT) (1.06 MB - PDF)
+italiano (IT) (681.67 KB - PDF)
 
 **First published:**
 
@@ -518,11 +516,11 @@ italiano (IT) (1.06 MB - PDF)
 
 **Last updated:**
 
-30/06/2025
+26/01/2026
 
 [View](/it/documents/product-information/levetiracetam-ratiopharm-epar-product-information_it.pdf)
 
-latviešu valoda (LV) (1.21 MB - PDF)
+latviešu valoda (LV) (794.72 KB - PDF)
 
 **First published:**
 
@@ -530,11 +528,11 @@ latviešu valoda (LV) (1.21 MB - PDF)
 
 **Last updated:**
 
-30/06/2025
+26/01/2026
 
 [View](/lv/documents/product-information/levetiracetam-ratiopharm-epar-product-information_lv.pdf)
 
-lietuvių kalba (LT) (1.28 MB - PDF)
+lietuvių kalba (LT) (902.99 KB - PDF)
 
 **First published:**
 
@@ -542,11 +540,11 @@ lietuvių kalba (LT) (1.28 MB - PDF)
 
 **Last updated:**
 
-30/06/2025
+26/01/2026
 
 [View](/lt/documents/product-information/levetiracetam-ratiopharm-epar-product-information_lt.pdf)
 
-magyar (HU) (1.25 MB - PDF)
+magyar (HU) (831.96 KB - PDF)
 
 **First published:**
 
@@ -554,11 +552,11 @@ magyar (HU) (1.25 MB - PDF)
 
 **Last updated:**
 
-30/06/2025
+26/01/2026
 
 [View](/hu/documents/product-information/levetiracetam-ratiopharm-epar-product-information_hu.pdf)
 
-Malti (MT) (1.32 MB - PDF)
+Malti (MT) (861.03 KB - PDF)
 
 **First published:**
 
@@ -566,11 +564,11 @@ Malti (MT) (1.32 MB - PDF)
 
 **Last updated:**
 
-30/06/2025
+26/01/2026
 
 [View](/mt/documents/product-information/levetiracetam-ratiopharm-epar-product-information_mt.pdf)
 
-Nederlands (NL) (1.09 MB - PDF)
+Nederlands (NL) (703.15 KB - PDF)
 
 **First published:**
 
@@ -578,11 +576,11 @@ Nederlands (NL) (1.09 MB - PDF)
 
 **Last updated:**
 
-30/06/2025
+26/01/2026
 
 [View](/nl/documents/product-information/levetiracetam-ratiopharm-epar-product-information_nl.pdf)
 
-norsk (NO) (1.2 MB - PDF)
+norsk (NO) (710.14 KB - PDF)
 
 **First published:**
 
@@ -590,11 +588,11 @@ norsk (NO) (1.2 MB - PDF)
 
 **Last updated:**
 
-30/06/2025
+26/01/2026
 
 [View](/no/documents/product-information/levetiracetam-ratiopharm-epar-product-information_no.pdf)
 
-polski (PL) (1.34 MB - PDF)
+polski (PL) (863.46 KB - PDF)
 
 **First published:**
 
@@ -602,11 +600,11 @@ polski (PL) (1.34 MB - PDF)
 
 **Last updated:**
 
-30/06/2025
+26/01/2026
 
 [View](/pl/documents/product-information/levetiracetam-ratiopharm-epar-product-information_pl.pdf)
 
-português (PT) (1.07 MB - PDF)
+português (PT) (679.07 KB - PDF)
 
 **First published:**
 
@@ -614,11 +612,11 @@ português (PT) (1.07 MB - PDF)
 
 **Last updated:**
 
-30/06/2025
+26/01/2026
 
 [View](/pt/documents/product-information/levetiracetam-ratiopharm-epar-product-information_pt.pdf)
 
-română (RO) (1.17 MB - PDF)
+română (RO) (817.32 KB - PDF)
 
 **First published:**
 
@@ -626,11 +624,11 @@ română (RO) (1.17 MB - PDF)
 
 **Last updated:**
 
-30/06/2025
+26/01/2026
 
 [View](/ro/documents/product-information/levetiracetam-ratiopharm-epar-product-information_ro.pdf)
 
-slovenčina (SK) (1.36 MB - PDF)
+slovenčina (SK) (862.96 KB - PDF)
 
 **First published:**
 
@@ -638,11 +636,11 @@ slovenčina (SK) (1.36 MB - PDF)
 
 **Last updated:**
 
-30/06/2025
+26/01/2026
 
 [View](/sk/documents/product-information/levetiracetam-ratiopharm-epar-product-information_sk.pdf)
 
-slovenščina (SL) (1.12 MB - PDF)
+slovenščina (SL) (712.62 KB - PDF)
 
 **First published:**
 
@@ -650,11 +648,11 @@ slovenščina (SL) (1.12 MB - PDF)
 
 **Last updated:**
 
-30/06/2025
+26/01/2026
 
 [View](/sl/documents/product-information/levetiracetam-ratiopharm-epar-product-information_sl.pdf)
 
-Suomi (FI) (1.05 MB - PDF)
+Suomi (FI) (646.82 KB - PDF)
 
 **First published:**
 
@@ -662,11 +660,11 @@ Suomi (FI) (1.05 MB - PDF)
 
 **Last updated:**
 
-30/06/2025
+26/01/2026
 
 [View](/fi/documents/product-information/levetiracetam-ratiopharm-epar-product-information_fi.pdf)
 
-svenska (SV) (1.06 MB - PDF)
+svenska (SV) (652.75 KB - PDF)
 
 **First published:**
 
@@ -674,11 +672,11 @@ svenska (SV) (1.06 MB - PDF)
 
 **Last updated:**
 
-30/06/2025
+26/01/2026
 
 [View](/sv/documents/product-information/levetiracetam-ratiopharm-epar-product-information_sv.pdf)
 
-**Latest procedure affecting product information:** VR/0000256234 26/06/2025
+**Latest procedure affecting product information:** VR/0000308189 22/01/2026
 
 icon globe
 
@@ -704,7 +702,7 @@ English (EN) (43.21 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/levetiracetam-ratiopharm-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (23)](#file-language-dropdown-127)
+[Other languages (23)](#file-language-dropdown-154)
 
 български (BG) (79.94 KB - PDF)
 
@@ -1014,7 +1012,7 @@ ratiopharm GmbH
 
 ratiopharm GmbH
 
-Marketing authorisation issued 26/08/2011 Revision 16
+Marketing authorisation issued 26/08/2011 Revision 17
 
 ## Assessment history
 
@@ -1026,9 +1024,11 @@ Collapse section
 
 Levetiracetam ratiopharm : EPAR - Procedural steps taken and scientific information after authorisation
 
-English (EN) (150.6 KB - PDF)
+English (EN) (152.93 KB - PDF)
 
 **First published:** 30/06/2025
+
+**Last updated:** 26/01/2026
 
 [View](/en/documents/procedural-steps-after/levetiracetam-ratiopharm-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf)
 
@@ -1086,7 +1086,7 @@ English (EN) (66.45 KB - PDF)
 
 [View](/en/documents/other/questions-and-answers-generic-medicines_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-573)
+[Other languages (22)](#file-language-dropdown-470)
 
 български (BG) (93.16 KB - PDF)
 
@@ -1357,7 +1357,7 @@ svenska (SV) (67.11 KB - PDF)
 - [Generic and hybrid medicines](https://www.ema.europa.eu/en/search?f%5B0%5D=ema_search_topics%3A54)
 - [Medicines](https://www.ema.europa.eu/en/search?f%5B0%5D=ema_search_topics%3A61)
 
-**This page was last updated on** 30/06/2025
+**This page was last updated on** 26/01/2026
 
 ## Share this page
 

@@ -1,18 +1,18 @@
 ---
-document_datetime: 2025-12-29 14:36:24
+document_datetime: 2026-01-28 16:32:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/hukyndra.html
 document_name: hukyndra.html
 version: success
-processing_time: 0.1173641
-conversion_datetime: 2025-12-30 02:13:52.632057
+processing_time: 0.1153352
+conversion_datetime: 2026-01-29 12:00:00.893918
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.66.0
-  docling-core: 2.57.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.11.0
+  docling-jobkit: 1.9.0
+  docling: 2.70.0
+  docling-core: 2.61.0
+  docling-ibm-models: 3.11.0
+  docling-parse: 4.7.3
   python: cpython-313 (3.13.11)
   plaform: macOS-26.2-arm64-arm-64bit-Mach-O
 ---
@@ -25,8 +25,6 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 adalimumab Medicine Human Authorised
-
-On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -130,7 +128,7 @@ English (EN) (137.42 KB - PDF)
 
 [View](/en/documents/overview/hukyndra-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-500)
+[Other languages (22)](#file-language-dropdown-755)
 
 български (BG) (171.1 KB - PDF)
 
@@ -412,13 +410,13 @@ English (EN) (4.52 MB - PDF)
 
 **First published:** 18/01/2022
 
-**Last updated:** 28/07/2025
+**Last updated:** 28/01/2026
 
 [View](/en/documents/product-information/hukyndra-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-739)
+[Other languages (24)](#file-language-dropdown-124)
 
-български (BG) (5.53 MB - PDF)
+български (BG) (5.54 MB - PDF)
 
 **First published:**
 
@@ -430,7 +428,7 @@ English (EN) (4.52 MB - PDF)
 
 [View](/bg/documents/product-information/hukyndra-epar-product-information_bg.pdf)
 
-español (ES) (4.75 MB - PDF)
+español (ES) (4.76 MB - PDF)
 
 **First published:**
 
@@ -466,7 +464,7 @@ dansk (DA) (4.5 MB - PDF)
 
 [View](/da/documents/product-information/hukyndra-epar-product-information_da.pdf)
 
-Deutsch (DE) (4.45 MB - PDF)
+Deutsch (DE) (4.46 MB - PDF)
 
 **First published:**
 
@@ -490,7 +488,7 @@ eesti keel (ET) (4.45 MB - PDF)
 
 [View](/et/documents/product-information/hukyndra-epar-product-information_et.pdf)
 
-ελληνικά (EL) (6.67 MB - PDF)
+ελληνικά (EL) (6.68 MB - PDF)
 
 **First published:**
 
@@ -502,7 +500,7 @@ eesti keel (ET) (4.45 MB - PDF)
 
 [View](/el/documents/product-information/hukyndra-epar-product-information_el.pdf)
 
-français (FR) (4.59 MB - PDF)
+français (FR) (4.64 MB - PDF)
 
 **First published:**
 
@@ -562,7 +560,7 @@ latviešu valoda (LV) (4.33 MB - PDF)
 
 [View](/lv/documents/product-information/hukyndra-epar-product-information_lv.pdf)
 
-lietuvių kalba (LT) (4.63 MB - PDF)
+lietuvių kalba (LT) (4.64 MB - PDF)
 
 **First published:**
 
@@ -598,7 +596,7 @@ Malti (MT) (4.91 MB - PDF)
 
 [View](/mt/documents/product-information/hukyndra-epar-product-information_mt.pdf)
 
-Nederlands (NL) (4.17 MB - PDF)
+Nederlands (NL) (4.18 MB - PDF)
 
 **First published:**
 
@@ -622,7 +620,7 @@ norsk (NO) (4.43 MB - PDF)
 
 [View](/no/documents/product-information/hukyndra-epar-product-information_no.pdf)
 
-polski (PL) (4.68 MB - PDF)
+polski (PL) (4.69 MB - PDF)
 
 **First published:**
 
@@ -646,7 +644,7 @@ português (PT) (4.5 MB - PDF)
 
 [View](/pt/documents/product-information/hukyndra-epar-product-information_pt.pdf)
 
-română (RO) (4.66 MB - PDF)
+română (RO) (4.67 MB - PDF)
 
 **First published:**
 
@@ -682,7 +680,7 @@ slovenščina (SL) (4.5 MB - PDF)
 
 [View](/sl/documents/product-information/hukyndra-epar-product-information_sl.pdf)
 
-Suomi (FI) (4.49 MB - PDF)
+Suomi (FI) (4.5 MB - PDF)
 
 **First published:**
 
@@ -706,7 +704,7 @@ svenska (SV) (4.24 MB - PDF)
 
 [View](/sv/documents/product-information/hukyndra-epar-product-information_sv.pdf)
 
-**Latest procedure affecting product information:** VR/0000271897 24/07/2025
+**Latest procedure affecting product information:** VR/0000320439 28/01/2026
 
 icon globe
 
@@ -732,7 +730,7 @@ English (EN) (73.47 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/hukyndra-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-741)
+[Other languages (24)](#file-language-dropdown-251)
 
 български (BG) (88.72 KB - PDF)
 
@@ -1065,7 +1063,7 @@ Stada Arzneimittel AG
 
 Stadastrasse 2-18 D-61118 Bad Vilbel Germany
 
-Opinion adopted 16/09/2021 Marketing authorisation issued 15/11/2021 Revision 10
+Opinion adopted 16/09/2021 Marketing authorisation issued 15/11/2021 Revision 11
 
 ## Assessment history
 
@@ -1077,11 +1075,13 @@ Collapse section
 
 Hukyndra : EPAR - Procedural steps taken and scientific information after authorisation
 
-English (EN) (151.44 KB - PDF)
+English (EN) (150.95 KB - PDF)
 
 **First published:** 28/07/2025
 
-[View](/en/documents/procedural-steps-after/hukyndra-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf-0)
+**Last updated:** 28/01/2026
+
+[View](/en/documents/procedural-steps-after/hukyndra-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf)
 
 Hukyndra :  EPAR - Procedural steps taken and scientific information after authorisation (archived)
 
@@ -1127,7 +1127,7 @@ English (EN) (180.43 KB - PDF)
 
 - [Biosimilar medicines: Overview](/en/human-regulatory-overview/biosimilar-medicines-overview)
 
-**This page was last updated on** 28/07/2025
+**This page was last updated on** 28/01/2026
 
 ## Share this page
 

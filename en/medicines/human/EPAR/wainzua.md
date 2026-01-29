@@ -1,18 +1,18 @@
 ---
-document_datetime: 2025-12-29 12:00:23
+document_datetime: 2026-01-27 10:00:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/wainzua.html
 document_name: wainzua.html
 version: success
-processing_time: 0.1013014
-conversion_datetime: 2025-12-31 03:03:48.980866
+processing_time: 0.1145662
+conversion_datetime: 2026-01-29 12:13:30.156852
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.66.0
-  docling-core: 2.57.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.11.0
+  docling-jobkit: 1.9.0
+  docling: 2.70.0
+  docling-core: 2.61.0
+  docling-ibm-models: 3.11.0
+  docling-parse: 4.7.3
   python: cpython-313 (3.13.11)
   plaform: macOS-26.2-arm64-arm-64bit-Mach-O
 ---
@@ -25,8 +25,6 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 eplontersen Medicine Human Authorised
-
-On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -112,7 +110,7 @@ English (EN) (120.58 KB - PDF)
 
 [View](/en/documents/overview/wainzua-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-539)
+[Other languages (22)](#file-language-dropdown-722)
 
 български (BG) (138.56 KB - PDF)
 
@@ -302,207 +300,305 @@ English (EN) (1.16 MB - PDF)
 
 Wainzua : EPAR - Product information
 
-English (EN) (812.79 KB - PDF)
+English (EN) (1.25 MB - PDF)
 
 **First published:** 12/03/2025
 
+**Last updated:** 27/01/2026
+
 [View](/en/documents/product-information/wainzua-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-648)
+[Other languages (24)](#file-language-dropdown-31)
 
-български (BG) (881.49 KB - PDF)
+български (BG) (696.5 KB - PDF)
 
 **First published:**
 
 12/03/2025
+
+**Last updated:**
+
+27/01/2026
 
 [View](/bg/documents/product-information/wainzua-epar-product-information_bg.pdf)
 
-español (ES) (807.64 KB - PDF)
+español (ES) (627.1 KB - PDF)
 
 **First published:**
 
 12/03/2025
+
+**Last updated:**
+
+27/01/2026
 
 [View](/es/documents/product-information/wainzua-epar-product-information_es.pdf)
 
-čeština (CS) (903.76 KB - PDF)
+čeština (CS) (691.42 KB - PDF)
 
 **First published:**
 
 12/03/2025
+
+**Last updated:**
+
+27/01/2026
 
 [View](/cs/documents/product-information/wainzua-epar-product-information_cs.pdf)
 
-dansk (DA) (779.57 KB - PDF)
+dansk (DA) (646.37 KB - PDF)
 
 **First published:**
 
 12/03/2025
+
+**Last updated:**
+
+27/01/2026
 
 [View](/da/documents/product-information/wainzua-epar-product-information_da.pdf)
 
-Deutsch (DE) (868.49 KB - PDF)
+Deutsch (DE) (674.77 KB - PDF)
 
 **First published:**
 
 12/03/2025
+
+**Last updated:**
+
+27/01/2026
 
 [View](/de/documents/product-information/wainzua-epar-product-information_de.pdf)
 
-eesti keel (ET) (778.48 KB - PDF)
+eesti keel (ET) (594 KB - PDF)
 
 **First published:**
 
 12/03/2025
+
+**Last updated:**
+
+27/01/2026
 
 [View](/et/documents/product-information/wainzua-epar-product-information_et.pdf)
 
-ελληνικά (EL) (898.77 KB - PDF)
+ελληνικά (EL) (702.08 KB - PDF)
 
 **First published:**
 
 12/03/2025
+
+**Last updated:**
+
+27/01/2026
 
 [View](/el/documents/product-information/wainzua-epar-product-information_el.pdf)
 
-français (FR) (847.87 KB - PDF)
+français (FR) (668.34 KB - PDF)
 
 **First published:**
 
 12/03/2025
+
+**Last updated:**
+
+27/01/2026
 
 [View](/fr/documents/product-information/wainzua-epar-product-information_fr.pdf)
 
-hrvatski (HR) (851.82 KB - PDF)
+hrvatski (HR) (670.86 KB - PDF)
 
 **First published:**
 
 12/03/2025
+
+**Last updated:**
+
+27/01/2026
 
 [View](/hr/documents/product-information/wainzua-epar-product-information_hr.pdf)
 
-íslenska (IS) (830.27 KB - PDF)
+íslenska (IS) (648.16 KB - PDF)
 
 **First published:**
 
 12/03/2025
+
+**Last updated:**
+
+27/01/2026
 
 [View](/is/documents/product-information/wainzua-epar-product-information_is.pdf)
 
-italiano (IT) (751.48 KB - PDF)
+italiano (IT) (574.94 KB - PDF)
 
 **First published:**
 
 12/03/2025
+
+**Last updated:**
+
+27/01/2026
 
 [View](/it/documents/product-information/wainzua-epar-product-information_it.pdf)
 
-latviešu valoda (LV) (871.61 KB - PDF)
+latviešu valoda (LV) (729.06 KB - PDF)
 
 **First published:**
 
 12/03/2025
+
+**Last updated:**
+
+27/01/2026
 
 [View](/lv/documents/product-information/wainzua-epar-product-information_lv.pdf)
 
-lietuvių kalba (LT) (848.13 KB - PDF)
+lietuvių kalba (LT) (673.34 KB - PDF)
 
 **First published:**
 
 12/03/2025
+
+**Last updated:**
+
+27/01/2026
 
 [View](/lt/documents/product-information/wainzua-epar-product-information_lt.pdf)
 
-magyar (HU) (877.43 KB - PDF)
+magyar (HU) (713.34 KB - PDF)
 
 **First published:**
 
 12/03/2025
+
+**Last updated:**
+
+27/01/2026
 
 [View](/hu/documents/product-information/wainzua-epar-product-information_hu.pdf)
 
-Malti (MT) (893.11 KB - PDF)
+Malti (MT) (715.51 KB - PDF)
 
 **First published:**
 
 12/03/2025
+
+**Last updated:**
+
+27/01/2026
 
 [View](/mt/documents/product-information/wainzua-epar-product-information_mt.pdf)
 
-Nederlands (NL) (773.44 KB - PDF)
+Nederlands (NL) (604.22 KB - PDF)
 
 **First published:**
 
 12/03/2025
+
+**Last updated:**
+
+27/01/2026
 
 [View](/nl/documents/product-information/wainzua-epar-product-information_nl.pdf)
 
-norsk (NO) (746.15 KB - PDF)
+norsk (NO) (570.49 KB - PDF)
 
 **First published:**
 
 12/03/2025
+
+**Last updated:**
+
+27/01/2026
 
 [View](/no/documents/product-information/wainzua-epar-product-information_no.pdf)
 
-polski (PL) (929.35 KB - PDF)
+polski (PL) (744.67 KB - PDF)
 
 **First published:**
 
 12/03/2025
+
+**Last updated:**
+
+27/01/2026
 
 [View](/pl/documents/product-information/wainzua-epar-product-information_pl.pdf)
 
-português (PT) (825.94 KB - PDF)
+português (PT) (651.92 KB - PDF)
 
 **First published:**
 
 12/03/2025
+
+**Last updated:**
+
+27/01/2026
 
 [View](/pt/documents/product-information/wainzua-epar-product-information_pt.pdf)
 
-română (RO) (847.61 KB - PDF)
+română (RO) (670.49 KB - PDF)
 
 **First published:**
 
 12/03/2025
+
+**Last updated:**
+
+27/01/2026
 
 [View](/ro/documents/product-information/wainzua-epar-product-information_ro.pdf)
 
-slovenčina (SK) (826.38 KB - PDF)
+slovenčina (SK) (641.08 KB - PDF)
 
 **First published:**
 
 12/03/2025
+
+**Last updated:**
+
+27/01/2026
 
 [View](/sk/documents/product-information/wainzua-epar-product-information_sk.pdf)
 
-slovenščina (SL) (819.42 KB - PDF)
+slovenščina (SL) (639.61 KB - PDF)
 
 **First published:**
 
 12/03/2025
+
+**Last updated:**
+
+27/01/2026
 
 [View](/sl/documents/product-information/wainzua-epar-product-information_sl.pdf)
 
-Suomi (FI) (768.85 KB - PDF)
+Suomi (FI) (615.03 KB - PDF)
 
 **First published:**
 
 12/03/2025
+
+**Last updated:**
+
+27/01/2026
 
 [View](/fi/documents/product-information/wainzua-epar-product-information_fi.pdf)
 
-svenska (SV) (779.38 KB - PDF)
+svenska (SV) (604.63 KB - PDF)
 
 **First published:**
 
 12/03/2025
 
+**Last updated:**
+
+27/01/2026
+
 [View](/sv/documents/product-information/wainzua-epar-product-information_sv.pdf)
 
-06/03/2025
+**Latest procedure affecting product information:** VR/0000314198 26/01/2026
 
 icon globe
 
@@ -526,7 +622,7 @@ English (EN) (59.6 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/wainzua-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-327)
+[Other languages (24)](#file-language-dropdown-165)
 
 български (BG) (78.08 KB - PDF)
 
@@ -746,9 +842,23 @@ AstraZeneca AB
 
 151 85 Södertälje
 
-Opinion adopted 17/10/2024 Marketing authorisation issued 06/03/2025
+Opinion adopted 17/10/2024 Marketing authorisation issued 06/03/2025 Revision 1
 
 ## Assessment history
+
+Expand section
+
+Collapse section
+
+## Changes since initial authorisation of medicine
+
+Wainzua : EPAR - Procedural steps taken and scientific information after authorisation
+
+English (EN) (140.4 KB - PDF)
+
+**First published:** 27/01/2026
+
+[View](/en/documents/procedural-steps-after/wainzua-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf)
 
 ## Initial marketing authorisation documents
 
@@ -795,9 +905,10 @@ English (EN) (132.81 KB - PDF)
 #### More information on Wainzua
 
 - [EU/3/23/2828 - orphan designation for treatment of transthyretin-mediated amyloidosis](/en/medicines/human/orphan-designations/eu-3-23-2828)
+- [A cohort event monitoring study to characterise use of eplontersen in patients with prior liver transplant and pre-existing severe hepatic impairment and to assess long-term safety among all new users of eplontersen (sTTRing) - post-authorisation study](https://catalogues.ema.europa.eu/study/1000000890)
 - [The Eplontersen Pregnancy and Lactation Outcomes Study: A Descriptive Safety Study of Pregnant and Lactating Individuals and Their Offspring Exposed to Eplontersen (EPPRO) - post-authorisation study](https://catalogues.ema.europa.eu/study/1000000736)
 
-**This page was last updated on** 24/04/2025
+**This page was last updated on** 27/01/2026
 
 ## Share this page
 

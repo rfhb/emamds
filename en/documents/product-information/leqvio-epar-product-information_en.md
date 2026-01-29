@@ -1,18 +1,18 @@
 ---
-document_datetime: 2025-09-18 12:01:03
-document_pages: 43
+document_datetime: 2026-01-27 10:45:37
+document_pages: 42
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/leqvio-epar-product-information_en.pdf
 document_name: leqvio-epar-product-information_en.pdf
 version: success
-processing_time: 9.0825797
-conversion_datetime: 2025-12-28 17:30:06.355767
+processing_time: 9.3378247
+conversion_datetime: 2026-01-29 12:11:10.127642
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.66.0
-  docling-core: 2.57.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.11.0
+  docling-jobkit: 1.9.0
+  docling: 2.70.0
+  docling-core: 2.61.0
+  docling-ibm-models: 3.11.0
+  docling-parse: 4.7.3
   python: cpython-313 (3.13.11)
   plaform: macOS-26.2-arm64-arm-64bit-Mach-O
 ---
@@ -57,9 +57,9 @@ The recommended dose is 284 mg inclisiran administered as a single subcutaneous 
 
 ## Missed doses
 
-If a planned dose is missed by less than 3 months, inclisiran should be administered and dosing continued according to the patient's original schedule.
+If a planned dose is missed by less than 3 months, inclisiran should be administered and dosing continued according to the patient's original schedule .
 
-If a planned dose is missed by more than 3 months, a new dosing schedule should be started inclisiran should be administered initially, again at 3 months, followed by every 6 months.
+If a planned dose is missed by more than 3 months, a new dosing schedule should be started -inclisiran should be administered initially, again at 3 months, followed by every 6 months.
 
 ## Treatment transition from monoclonal antibody proprotein convertase subtilisin/kexin type 9 (PCSK9) inhibitors
 
@@ -105,7 +105,7 @@ The effect of haemodialysis on inclisiran pharmacokinetics has not been studied.
 
 ## Sodium content
 
-This medicinal product contains less than 1 mmol sodium (23 mg) per dose, that is to say essentially 'sodium-free'.
+This medicinal product contains less than 1 mmol sodium (23 mg) per dose, that is to say essentially ' sodium-free ' .
 
 ## 4.5 Interaction with other medicinal products and other forms of interaction
 
@@ -141,7 +141,7 @@ The only adverse reactions associated with inclisiran were adverse reactions at 
 
 ## Tabulated list of adverse reactions
 
-Adverse reactions are presented by system organ class (Table 1). Frequency categories are defined as: very common (≥1/10); common (≥1/100 to &lt;1/10); uncommon (≥1/1 000 to &lt;1/100); rare (≥1/10 000 to &lt;1/1 000); very rare (&lt;1/10 000) and not known (cannot be estimated from the available data).
+Adverse reactions are presented by system organ class (Table 1). Frequency categories are defined as: v ery common (≥1/10); common (≥1/100 to &lt;1/10); uncommon (≥1/1 000 to &lt;1/100); rare (≥1/10 000 to &lt;1/1 000); very rare (&lt;1/10 000) and not known (cannot be estimated from the available data).
 
 ## Table 1 Adverse reactions reported in patients treated with inclisiran
 
@@ -210,15 +210,17 @@ Figure 1 Mean percentage change from baseline LDL-C in patients with primary hyp
 
 <!-- image -->
 
-<div style=\"page-break-after: always\"></div>
-
 ## ASCVD and ASCVD risk equivalents
 
-Two studies were conducted in patients with ASCVD and ASCVD risk equivalents (ORION-10 and ORION-11). Patients were taking a maximally tolerated dose of statins with or without other lipid-modifying therapy, such as ezetimibe, and required additional LDL-C reduction. As lowering LDL-C is expected to improve cardiovascular outcomes, the co-primary endpoints in each study were the percentage change in LDL-C from baseline to day 510 relative to placebo and the time-adjusted percentage change in LDL-C from baseline after day 90 and up to day 540 to estimate the integrated effect on LDL-C over time.
+Two studies were conducted in patients with ASCVD and ASCVD risk equivalents (ORION-10 and ORION-11). Patients were taking a maximally tolerated dose of statins with or without other lipid-modifying therapy, such as ezetimibe, and required additional LDL-C reduction. As lowering LDL-C is expected to improve cardiovascular outcomes, the co-primary endpoints in each study were the percentage change in LDL-C from baseline to day 510 relative to placebo and the time-adjusted
+
+<div style=\"page-break-after: always\"></div>
+
+percentage change in LDL-C from baseline after day 90 and up to day 540 to estimate the integrated effect on LDL-C over time.
 
 ORION-10 was a multicentre, double-blind, randomised, placebo-controlled 18-month study conducted in 1 561 patients with ASCVD.
 
-The mean age at baseline was 66 years (range: 35 to 90 years), 60% were ≥65 years old, 31% were women, 86% were White, 13% were Black, 1% were Asian and 14% were Hispanic or Latino ethnicity. The mean baseline LDL C was 2.7 mmol/l (105 mg/dl). Sixty-nine percent (69%) were taking high-intensity statins, 19% were taking medium-intensity statins, 1% were taking low-intensity statins and 11% were not on a statin. The most commonly administered statins were atorvastatin and rosuvastatin.
+The mean age at baseline was 66 years (range: 35 to 90 years), 60 % were ≥65 years old, 31% were women, 86% were White, 13% were Black, 1% were Asian and 14% were Hispanic or Latino ethnicity. The mean baseline LDL C was 2.7 mmol/l (105 mg/dl). Sixty-nine percent (69%) were taking high-intensity statins, 19% were taking medium-intensity statins, 1% were taking low-intensity statins and 11% were not on a statin. The most commonly administered statins were atorvastatin and rosuvastatin.
 
 Inclisiran significantly reduced the mean percentage change in LDL-C from baseline to day 510 compared to placebo by 52% (95% CI: -56%, -49%; p &lt;0.0001) (Table 2).
 
@@ -241,9 +243,9 @@ Consistent and statistically significant (p&lt;0.0001) reductions in percentage 
 
 ORION-11 was an international, multicentre, double-blind, randomised, placebo-controlled 18-month study which evaluated 1 617 patients with ASCVD or ASCVD risk equivalents. More than 75% of patients were receiving a high-intensity statin background treatment, 87% of patients had ASCVD and 13% were ASCVD risk equivalent.
 
-<div style=\"page-break-after: always\"></div>
-
 The mean age at baseline was 65 years (range: 20 to 88 years), 55% were ≥65 years old, 28% were women, 98% were White, 1% were Black ,1% were Asian and 1% were Hispanic or Latino ethnicity. The mean baseline LDL-C was 2.7 mmol/l (105 mg/dl). Seventy-eight percent (78%) were taking high-intensity statins, 16% were taking medium-intensity statins, 0.4% were taking low-intensity statins and 5% were not on a statin. The most commonly administered statins were atorvastatin and rosuvastatin.
+
+<div style=\"page-break-after: always\"></div>
 
 Inclisiran significantly reduced the mean percentage change in LDL-C from baseline to day 510 compared to placebo by 50% (95% CI: -53%, -47%; p&lt;0.0001) (Table 3).
 
@@ -251,14 +253,17 @@ Inclisiran also significantly reduced time-adjusted percentage change in LDL-C f
 
 Table 3 Mean percentage change from baseline and difference from placebo in lipid parameters at day 510 in ORION-11
 
-| Treatment group                                                                                 | LDL-C                                                                                           | Total cholesterol                                                                               | Non-HDL-C                                                                                       | Apo-B                                                                                           | Lp(a)*                                                                                          |
-|-------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------|
-| Mean baseline value in mg/dl**                                                                  | 105                                                                                             | 185                                                                                             | 136                                                                                             | 96                                                                                              | 107                                                                                             |
-| Day 510 (mean percentage change from baseline)                                                  | Day 510 (mean percentage change from baseline)                                                  | Day 510 (mean percentage change from baseline)                                                  | Day 510 (mean percentage change from baseline)                                                  | Day 510 (mean percentage change from baseline)                                                  | Day 510 (mean percentage change from baseline)                                                  |
-| Placebo (n=807)                                                                                 | 4                                                                                               | 2                                                                                               | 2                                                                                               | 1                                                                                               | 0                                                                                               |
-| Inclisiran (n=810)                                                                              | -46                                                                                             | -28                                                                                             | -41                                                                                             | -38                                                                                             | -19                                                                                             |
-| Difference from placebo (LS mean) (95% CI)                                                      | -50 (-53, -47)                                                                                  | -30 (-32, -28)                                                                                  | -43 (-46, -41)                                                                                  | -39 (-41, -37)                                                                                  | -19 (-21, -16)                                                                                  |
-| *At day 540; median percentage change in Lp(a) values **Mean baseline value in nmol/l for Lp(a) | *At day 540; median percentage change in Lp(a) values **Mean baseline value in nmol/l for Lp(a) | *At day 540; median percentage change in Lp(a) values **Mean baseline value in nmol/l for Lp(a) | *At day 540; median percentage change in Lp(a) values **Mean baseline value in nmol/l for Lp(a) | *At day 540; median percentage change in Lp(a) values **Mean baseline value in nmol/l for Lp(a) | *At day 540; median percentage change in Lp(a) values **Mean baseline value in nmol/l for Lp(a) |
+| Treatment group                                | LDL-C                                          | Total cholesterol                              | Non-HDL-C                                      | Apo-B                                          | Lp(a)*                                         |
+|------------------------------------------------|------------------------------------------------|------------------------------------------------|------------------------------------------------|------------------------------------------------|------------------------------------------------|
+| Mean baseline value in mg/dl**                 | 105                                            | 185                                            | 136                                            | 96                                             | 107                                            |
+| Day 510 (mean percentage change from baseline) | Day 510 (mean percentage change from baseline) | Day 510 (mean percentage change from baseline) | Day 510 (mean percentage change from baseline) | Day 510 (mean percentage change from baseline) | Day 510 (mean percentage change from baseline) |
+| Placebo (n=807)                                | 4                                              | 2                                              | 2                                              | 1                                              | 0                                              |
+| Inclisiran (n=810)                             | -46                                            | -28                                            | -41                                            | -38                                            | -19                                            |
+| Difference from placebo (LS mean) (95% CI)     | -50 (-53, -47)                                 | -30 (-32, -28)                                 | -43 (-46, -41)                                 | -39 (-41, -37)                                 | -19 (-21, -16)                                 |
+
+*At day 540; median percentage change in Lp(a) values
+
+**Mean baseline value in nmol/l for Lp(a)
 
 At day 510, the LDL-C target of &lt;1.8 mmol/l (70 mg/dl) was achieved by 82% of inclisiran patients with ASCVD compared to 16% of placebo patients. In patients with an ASCVD risk equivalent, the LDL-C target of &lt;2.6 mmol/l (100 mg/dl) was achieved by 78% of inclisiran patients compared to 31% of placebo patients.
 
@@ -266,13 +271,15 @@ Consistent and statistically significant (p&lt;0.05) percentage change in LDL-C 
 
 ## Heterozygous familial hypercholesterolaemia
 
-ORION-9 was an international, multicentre, double-blind, randomised, placebo-controlled 18-month trial in 482 patients with heterozygous familial hypercholesterolaemia (HeFH). All patients were taking maximally tolerated doses of statins with or without other lipid-modifying therapy, such as ezetimibe, and required additional LDL-C reduction. The diagnosis of HeFH was made either by genotyping or clinical criteria ('definite FH' using either the Simon Broome or WHO/Dutch Lipid Network criteria).
+ORION-9 was an international, multicentre, double-blind, randomised, placebo-controlled 18-month trial in 482 patients with heterozygous familial hypercholesterolaemia (HeFH). All patients were taking maximally tolerated doses of statins with or without other lipid-modifying therapy, such as ezetimibe, and required additional LDL-C reduction. The diagnosis of HeFH was made either by ge notyping or clinical criteria ('definite FH' using either the Simon Broome or WHO/Dutch Lipid Network criteria).
 
 The co-primary endpoints were the percentage change in LDL-C from baseline to day 510 relative to placebo, and the time-adjusted percentage change in LDL-C from baseline after day 90 and up to day 540 to estimate the integrated effect on LDL-C over time. Key secondary endpoints were the absolute change in LDL-C from baseline to day 510, the time-adjusted absolute change in LDL-C from baseline after day 90 and up to day 540 and the percentage change from baseline to day 510 in PCSK9, total cholesterol, Apo-B, and non-HDL-C. Additional secondary endpoints included the, individual responsiveness to inclisiran and the proportion of patients attaining global lipid targets for their level of ASCVD risk.
 
+The mean age at baseline was 55 years (range: 21 to 80 years), 22% were ≥65 years old, 53% were women, 94% were White, 3% were Black, 3% were Asian and 3% were Hispanic or Latino ethnicity. The mean baseline LDL-C was 4.0 mmol/l (153 mg/dl). Seventy-four percent (74%) were taking high-intensity statins, 15% were taking medium-intensity statins and 10% were not on a statin.
+
 <div style=\"page-break-after: always\"></div>
 
-The mean age at baseline was 55 years (range: 21 to 80 years), 22% were ≥65 years old, 53% were women, 94% were White, 3% were Black, 3% were Asian and 3% were Hispanic or Latino ethnicity. The mean baseline LDL-C was 4.0 mmol/l (153 mg/dl). Seventy-four percent (74%) were taking high-intensity statins, 15% were taking medium-intensity statins and 10% were not on a statin. Fifty-two percent (52%) of patients were treated with ezetimibe. The most commonly administered statins were atorvastatin and rosuvastatin.
+Fifty-two percent (52%) of patients were treated with ezetimibe. The most commonly administered statins were atorvastatin and rosuvastatin.
 
 Inclisiran significantly reduced the mean percentage change in LDL-C from baseline to day 510 compared to placebo by 48% (95% CI: -54%, -42%; p&lt;0.0001) (Table 4).
 
@@ -297,13 +304,13 @@ Consistent and statistically significant (p&lt;0.05) percentage change in LDL-C 
 
 The European Medicines Agency has deferred the obligation to submit the results of studies with inclisiran in one or more subsets of the paediatric population in the treatment of elevated cholesterol (see section 4.2 for information on paediatric use).
 
-<div style=\"page-break-after: always\"></div>
-
 ## 5.2 Pharmacokinetic properties
 
 ## Absorption
 
 Following single subcutaneous administration, systemic exposure to inclisiran increased approximately dose-proportionally over a range from 24 mg to 756 mg. At the recommended dosing regimen of 284 mg plasma concentrations reached peak in approximately 4 hours post dose, with a mean Cmax of 509 ng/ml. Concentrations reached undetectable levels within 48 hours post dosing. The mean area under the plasma concentration-time curve from dosing extrapolated to infinity was 7 980 ng*h/ml. Pharmacokinetic findings following multiple subcutaneous administrations of inclisiran were similar to single-dose administration.
+
+<div style=\"page-break-after: always\"></div>
 
 ## Distribution
 
@@ -325,8 +332,6 @@ In the phase I clinical study, an approximately dose proportional increase in in
 
 In the phase I clinical study, a dissociation was observed between inclisiran pharmacokinetic parameters and LDL-C pharmacodynamic effects. Selective delivery of inclisiran to hepatocytes, where it is incorporated into the RNA-induced silencing complex (RISC), results in a long duration of action, beyond that anticipated based on the plasma elimination half-life of 9 hours. The maximal effects of reducing LDL-C were observed with a 284 mg dose, with higher doses not producing greater effects.
 
-<div style=\"page-break-after: always\"></div>
-
 ## Special populations
 
 ## Renal impairment
@@ -335,7 +340,11 @@ Pharmacokinetic analysis of data from a dedicated renal impairment study reporte
 
 ## Hepatic impairment
 
-Pharmacokinetic analysis of data from a dedicated hepatic impairment study reported an increase in inclisiran Cmax of approximately 1.1 and 2.1-fold, and an increase in inclisiran AUC of approximately1.3 and 2.0-fold, respectively, in patients with mild (Child-Pugh class A) and moderate (Child-Pugh class B) hepatic impairment relative to patients with normal hepatic function. Despite the higher transient inclisiran plasma exposures, the reductions in LDL-C were similar between the groups of patients administered inclisiran with normal hepatic function and mild hepatic impairment. In patients with moderate hepatic impairment baseline PCSK9 levels were markedly lower and the reduction in LDL-C was less than that observed in patients with normal hepatic function. No dose adjustment is necessary in patients with mild to moderate hepatic impairment (Child-Pugh class A and B). Leqvio has not been studied in patients with severe hepatic impairment (Child-Pugh class C).
+Pharmacokinetic analysis of data from a dedicated hepatic impairment study reported an increase in inclisiran Cmax of approximately 1.1 and 2.1-fold, and an increase in inclisiran AUC of approximately1.3 and 2.0-fold, respectively, in patients with mild (Child-Pugh class A) and moderate (Child-Pugh class B) hepatic impairment relative to patients with normal hepatic function. Despite the higher transient inclisiran plasma exposures, the reductions in LDL-C were similar between the groups of patients administered inclisiran with normal hepatic function and mild hepatic impairment. In
+
+<div style=\"page-break-after: always\"></div>
+
+patients with moderate hepatic impairment baseline PCSK9 levels were markedly lower and the reduction in LDL-C was less than that observed in patients with normal hepatic function. No dose adjustment is necessary in patients with mild to moderate hepatic impairment (Child-Pugh class A and B). Leqvio has not been studied in patients with severe hepatic impairment (Child-Pugh class C).
 
 ## Other special populations
 
@@ -350,8 +359,6 @@ Inclisiran was not carcinogenic in Sprague-Dawley rats or in TgRasH2 mice admini
 No mutagenic or clastogenic potential of inclisiran was found in a battery of tests, including  a bacterial mutagenicity assay, in vitro chromosomal aberration assay in human peripheral blood lymphocytes and an in vivo rat bone marrow micronucleus assay.
 
 Reproduction studies performed in rats and rabbits have revealed no evidence of harm to the foetus due to inclisiran at the highest doses administered, which produced exposure considerably in excess of the maximum human exposure.
-
-<div style=\"page-break-after: always\"></div>
 
 Inclisiran did not affect the fertility or reproductive performance of male rats and female rats exposed to inclisiran prior to gestation and during gestation. The doses were associated with systemic exposures many times greater than the human exposure at clinical doses.
 
@@ -369,7 +376,9 @@ In the absence of compatibility studies, this medicinal product must not be mixe
 
 ## 6.3 Shelf life
 
-3 years
+## 3 years
+
+<div style=\"page-break-after: always\"></div>
 
 ## 6.4 Special precautions for storage
 
@@ -397,21 +406,23 @@ Leqvio should be inspected visually prior to administration. The solution should
 
 Any unused medicinal product or waste material should be disposed of in accordance with local requirements.
 
-<div style=\"page-break-after: always\"></div>
-
 ## 7. MARKETING AUTHORISATION HOLDER
 
-Novartis Europharm Limited Vista Building Elm Park, Merrion Road Dublin 4 Ireland
+Novartis Europharm Limited Vista Building Elm Park, Merrion Road Dublin 4
+
+Ireland
 
 ## 8. MARKETING AUTHORISATION NUMBER(S)
 
-EU/1/20/1494/001
-
-EU/1/20/1494/002
+EU/1/20/1494/001 EU/1/20/1494/002
 
 ## 9. DATE OF FIRST AUTHORISATION/RENEWAL OF THE AUTHORISATION
 
-Date of first authorisation: 09 December 2020 Date of latest renewal:
+Date of first authorisation: 09 December 2020
+
+Date of latest renewal: 30 July 2025
+
+<div style=\"page-break-after: always\"></div>
 
 ## 10. DATE OF REVISION OF THE TEXT
 
@@ -432,11 +443,7 @@ Detailed information on this medicinal product is available on the website of th
 
 Name and address of the manufacturers responsible for batch release
 
-Sandoz GmbH Biochemiestrasse 10 6336 Langkampfen Austria
-
 Novartis Pharmaceutical Manufacturing GmbH Biochemiestrasse 10 6336 Langkampfen Austria
-
-Novartis Pharma GmbH Roonstrasse 25 90429 Nuremberg Germany
 
 Novartis Pharma GmbH Sophie-Germain-Strasse 10 90443 Nuremberg Germany
 
@@ -451,8 +458,6 @@ Medicinal product subject to medical prescription.
 ## · Periodic safety update reports (PSURs)
 
 The requirements for submission of PSURs for this medicinal product are set out in the list of Union reference dates (EURD list) provided for under Article 107c(7) of Directive 2001/83/EC and any subsequent updates published on the European medicines web-portal.
-
-<div style=\"page-break-after: always\"></div>
 
 ## D. CONDITIONS OR RESTRICTIONS WITH REGARD TO THE SAFE AND EFFECTIVE USE OF THE MEDICINAL PRODUCT
 
@@ -495,7 +500,7 @@ Also contains: water for injections, sodium hydroxide and concentrated phosphori
 
 ## 4. PHARMACEUTICAL FORM AND CONTENTS
 
-## Solution for injection
+Solution for injection
 
 1 pre-filled syringe
 
@@ -597,7 +602,7 @@ Also contains: water for injections, sodium hydroxide and concentrated phosphori
 
 ## 4. PHARMACEUTICAL FORM AND CONTENTS
 
-## Solution for injection
+Solution for injection
 
 1 pre-filled syringe with needle guard
 
@@ -626,7 +631,8 @@ Do not freeze.
 | 10.   | SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS ORWASTEMATERIALS DERIVEDFROMSUCH MEDICINAL PRODUCTS, IF APPROPRIATE   |
 |-------|-------------------------------------------------------------------------------------------------------------------------------------|
 
-## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
+| 11.   | NAMEANDADDRESS OF THE MARKETING AUTHORISATION HOLDER   |
+|-------|--------------------------------------------------------|
 
 Novartis Europharm Limited Vista Building Elm Park, Merrion Road Dublin 4 Ireland
 
@@ -642,11 +648,14 @@ Lot
 
 14. GENERAL CLASSIFICATION FOR SUPPLY
 15. INSTRUCTIONS ON USE
-16. INFORMATION IN BRAILLE
+
+| 16.   | INFORMATION IN BRAILLE   |
+|-------|--------------------------|
 
 Justification for not including Braille accepted.
 
-17. UNIQUE IDENTIFIER - 2D BARCODE
+| 17.   | UNIQUE IDENTIFIER - 2D BARCODE   |
+|-------|----------------------------------|
 
 2D barcode carrying the unique identifier included.
 
@@ -683,7 +692,7 @@ Lot
 
 <div style=\"page-break-after: always\"></div>
 
-| MINIMUM PARTICULARS TO APPEARONSMALL IMMEDIATE PACKAGING UNITS   |
+| MINIMUM PARTICULARS TO APPEAR ONSMALLIMMEDIATE PACKAGING UNITS   |
 |------------------------------------------------------------------|
 | PRE-FILLED SYRINGE LABEL                                         |
 
@@ -742,7 +751,7 @@ Lot
 
 ## What Leqvio is and how it works
 
-Leqvio contains the active substance inclisiran. Inclisiran lowers levels of LDL-cholesterol ('bad' cholesterol), which can cause heart and blood circulation problems when levels are raised.
+Leqvio contains the active substance inclisiran. Inclisiran lowers levels of LDLcholesterol ('bad' cholesterol), which can cause heart and blood circulation problems when levels are raised.
 
 Inclisiran works by interfering with RNA (genetic material in body cells) to limit the production of a protein called PCSK9. This protein can increase LDL-cholesterol levels and preventing its production helps to lower your LDL-cholesterol levels.
 
@@ -793,7 +802,7 @@ Leqvio is not expected to affect your ability to drive or use machines.
 
 ## Leqvio contains sodium
 
-This medicine contains less than 1 mmol sodium (23 mg) per dose, that is to say essentially 'sodium-free'.
+This medicine contains less than 1 mmol sodium (23 mg) per dose, that is to say essentially ' sodium-free ' .
 
 ## 3. How Leqvio is given
 
@@ -813,15 +822,15 @@ If you miss your appointment for your Leqvio injection, contact your doctor, pha
 
 If you have any further questions on the use of this medicine, ask your doctor, pharmacist or nurse.
 
-<div style=\"page-break-after: always\"></div>
-
 ## 4. Possible side effects
 
 Like all medicines, this medicine can cause side effects, although not everybody gets them.
 
-Common (may affect up to 1 in 10 people)
+## Common (may affect up to 1 in 10 people)
 
 - Injection site reactions, such as pain, redness or rash.
+
+<div style=\"page-break-after: always\"></div>
 
 ## Reporting of side effects
 
@@ -844,7 +853,7 @@ Medicines should not be disposed of via wastewater or household waste. Your doct
 ## What Leqvio contains
 
 - The active substance is inclisiran. Each pre-filled syringe contains inclisiran sodium equivalent to 284 mg inclisiran in 1.5 ml solution. Each ml contains inclisiran sodium equivalent to 189 mg inclisiran.
-- The other ingredients are water for injections, sodium hydroxide (E524) (see section 2 'Leqvio contains sodium') and concentrated phosphoric acid (E338).
+- The other ingredients are water for injections, sodium hydroxide (E524) (see section 2 ' Leqvio contains sodium') and concentrated phosphoric acid (E338).
 
 ## What Leqvio looks like and contents of the pack
 
@@ -858,11 +867,7 @@ Novartis Europharm Limited Vista Building Elm Park, Merrion Road Dublin 4 Irelan
 
 ## Manufacturer
 
-Sandoz GmbH Biochemiestrasse 10 6336 Langkampfen Austria
-
 Novartis Pharmaceutical Manufacturing GmbH Biochemiestrasse 10 6336 Langkampfen Austria
-
-Novartis Pharma GmbH Roonstrasse 25 90429 Nuremberg Germany
 
 Novartis Pharma GmbH Sophie-Germain-Strasse 10 90443 Nuremberg Germany
 
@@ -872,9 +877,7 @@ For any information about this medicine, please contact the local representative
 
 ## België/Belgique/Belgien
 
-Novartis Pharma N.V.
-
-Tél/Tel: +32 2 246 16 11
+Novartis Pharma N.V. Tél/Tel: +32 2 246 16 11
 
 ## Lietuva
 
@@ -882,9 +885,7 @@ SIA Novartis Baltics Lietuvos filialas Tel: +370 5 269 16 50
 
 ## България
 
-Novartis Bulgaria EOOD
-
-Тел.: +359 2 489 98 28
+Novartis Bulgaria EOOD Тел.: +359 2 489 98 28
 
 ## Luxembourg/Luxemburg
 
@@ -898,45 +899,31 @@ Tel: +420 225 775 111
 
 ## Magyarország
 
-Novartis Hungária Kft.
-
-Tel.: +36 1 457 65 00
+Novartis Hungária Kft. Tel.: +36 1 457 65 00
 
 ## Danmark
 
-Novartis Healthcare A/S
-
-Tlf.: +45 39 16 84 00
+Novartis Healthcare A/S Tlf.: +45 39 16 84 00
 
 ## Malta
 
-Novartis Pharma Services Inc.
-
-Tel: +356 2122 2872
+Novartis Pharma Services Inc. Tel: +356 2122 2872
 
 ## Deutschland
 
-Novartis Pharma GmbH
-
-Tel: +49 911 273 0
+Novartis Pharma GmbH Tel: +49 911 273 0
 
 ## Nederland
 
-Novartis Pharma B.V.
-
-Tel: +31 88 04 52 111
+Novartis Pharma B.V. Tel: +31 88 04 52 111
 
 ## Eesti
 
-SIA Novartis Baltics Eesti filiaal
-
-Tel: +372 66 30 810
+SIA Novartis Baltics Eesti filiaal Tel: +372 66 30 810
 
 ## Norge
 
-Novartis Norge AS
-
-Tlf: +47 23 05 20 00
+Novartis Norge AS Tlf: +47 23 05 20 00
 
 ## Ελλάδα
 
@@ -944,9 +931,7 @@ Novartis (Hellas) A.E.B.E. Τηλ: +30 210 281 17 12
 
 ## Österreich
 
-Novartis Pharma GmbH
-
-Tel: +43 1 86 6570
+Novartis Pharma GmbH Tel: +43 1 86 6570
 
 ## España
 
@@ -958,31 +943,23 @@ Tel: +34 93 306 42 00
 
 Novartis Poland Sp. z o.o. Tel.: +48 22 375 4888
 
-<div style=\"page-break-after: always\"></div>
-
 ## France
-
-## Portugal
 
 Novartis Pharma S.A.S.
 
 Tél: +33 1 55 47 66 00
 
-Novartis Farma - Produtos Farmacêuticos, S.A.
+## Portugal
 
-Tel: +351 21 000 8600
+Novartis Farma - Produtos Farmacêuticos, S.A. Tel: +351 21 000 8600
 
 ## Hrvatska
 
-Novartis Hrvatska d.o.o.
-
-Tel: +385 1 6274 220
+Novartis Hrvatska d.o.o. Tel: +385 1 6274 220
 
 ## România
 
-Novartis Pharma Services Romania SRL
-
-Tel: +40 21 31299 01
+Novartis Pharma Services Romania SRL Tel: +40 21 31299 01
 
 ## Ireland
 
@@ -992,9 +969,7 @@ Tel: +353 1 260 12 55
 
 ## Slovenija
 
-Novartis Pharma Services Inc.
-
-Tel: +386 1 300 75 50
+Novartis Pharma Services Inc. Tel: +386 1 300 75 50
 
 ## Ísland
 
@@ -1004,9 +979,7 @@ Sími: +354 535 7000
 
 ## Slovenská republika
 
-Novartis Slovakia s.r.o.
-
-Tel: +421 2 5542 5439
+Novartis Slovakia s.r.o. Tel: +421 2 5542 5439
 
 ## Italia
 
@@ -1020,21 +993,15 @@ Novartis Finland Oy
 
 Puh/Tel: +358 (0)10 6133 200
 
+<div style=\"page-break-after: always\"></div>
+
 ## Κύπρος
 
 Novartis Pharma Services Inc.
 
 Τηλ: +357 22 690 690
 
-## Sverige
-
-Novartis Sverige AB
-
-Tel: +46 8 732 32 00
-
 ## Latvija
-
-SIA Novartis Baltics
 
 SIA Novartis Baltics
 
@@ -1045,6 +1012,12 @@ Tel: +371 67 887 070
 ## Other sources of information
 
 Detailed information on this medicine is available on the European Medicines Agency web site: https://www.ema.europa.eu
+
+## Sverige
+
+Novartis Sverige AB
+
+Tel: +46 8 732 32 00
 
 <div style=\"page-break-after: always\"></div>
 
@@ -1067,9 +1040,9 @@ The recommended dose is 284 mg inclisiran administered as a single subcutaneous 
 
 ## Missed doses
 
-If a planned dose is missed by less than 3 months, inclisiran should be administered and dosing continued according to the patient's original schedule.
+If a planned dose is missed by less than 3 months, inclisiran should be administered and dosing continued according to the patient's original schedule .
 
-If a planned dose is missed by more than 3 months, a new dosing schedule should be started inclisiran should be administered initially, again at 3 months, followed by every 6 months.
+If a planned dose is missed by more than 3 months, a new dosing schedule should be started -inclisiran should be administered initially, again at 3 months, followed by every 6 months.
 
 ## Treatment transition from monoclonal antibody proprotein convertase subtilisin/kexin type 9 (PCSK9) inhibitors
 
@@ -1193,7 +1166,7 @@ Pre-filled syringe with needle guard inclisiran
 
 ## What Leqvio is and how it works
 
-Leqvio contains the active substance inclisiran. Inclisiran lowers levels of LDL-cholesterol ('bad' cholesterol), which can cause heart and blood circulation problems when levels are raised.
+Leqvio contains the active substance inclisiran. Inclisiran lowers levels of LDLcholesterol ('bad' cholesterol), which can cause heart and blood circulation problems when levels are raised.
 
 Inclisiran works by interfering with RNA (genetic material in body cells) to limit the production of a protein called PCSK9. This protein can increase LDL-cholesterol levels and preventing its production helps to lower your LDL-cholesterol levels.
 
@@ -1244,7 +1217,7 @@ Leqvio is not expected to affect your ability to drive or use machines.
 
 ## Leqvio contains sodium
 
-This medicine contains less than 1 mmol sodium (23 mg) per dose, that is to say essentially 'sodium-free'.
+This medicine contains less than 1 mmol sodium (23 mg) per dose, that is to say essentially 'sodium -free'.
 
 ## 3. How Leqvio is given
 
@@ -1311,11 +1284,7 @@ Novartis Europharm Limited Vista Building Elm Park, Merrion Road Dublin 4 Irelan
 
 ## Manufacturer
 
-Sandoz GmbH Biochemiestrasse 10 6336 Langkampfen Austria
-
 Novartis Pharmaceutical Manufacturing GmbH Biochemiestrasse 10 6336 Langkampfen Austria
-
-Novartis Pharma GmbH Roonstrasse 25 90429 Nuremberg Germany
 
 Novartis Pharma GmbH Sophie-Germain-Strasse 10 90443 Nuremberg Germany
 
@@ -1329,7 +1298,9 @@ Tél/Tel: +32 2 246 16 11
 
 ## Lietuva
 
-SIA Novartis Baltics Lietuvos filialas Tel: +370 5 269 16 50
+SIA Novartis Baltics Lietuvos filialas
+
+Tel: +370 5 269 16 50
 
 ## България
 
@@ -1339,7 +1310,9 @@ Novartis Bulgaria EOOD
 
 ## Luxembourg/Luxemburg
 
-Novartis Pharma N.V. Tél/Tel: +32 2 246 16 11
+Novartis Pharma N.V.
+
+Tél/Tel: +32 2 246 16 11
 
 ## Česká republika
 
@@ -1391,7 +1364,9 @@ Tlf: +47 23 05 20 00
 
 ## Ελλάδα
 
-Novartis (Hellas) A.E.B.E. Τηλ: +30 210 281 17 12
+Novartis (Hellas) A.E.B.E.
+
+Τηλ: +30 210 281 17 12
 
 ## Österreich
 
@@ -1407,9 +1382,9 @@ Tel: +34 93 306 42 00
 
 ## Polska
 
-Novartis Poland Sp. z o.o. Tel.: +48 22 375 4888
+Novartis Poland Sp. z o.o.
 
-<div style=\"page-break-after: always\"></div>
+Tel.: +48 22 375 4888
 
 ## France
 
@@ -1417,11 +1392,23 @@ Novartis Pharma S.A.S.
 
 Tél: +33 1 55 47 66 00
 
+## Portugal
+
+Novartis Farma - Produtos Farmacêuticos, S.A.
+
+Tel: +351 21 000 8600
+
 ## Hrvatska
 
 Novartis Hrvatska d.o.o.
 
 Tel: +385 1 6274 220
+
+## România
+
+Novartis Pharma Services Romania SRL
+
+Tel: +40 21 31299 01
 
 ## Ireland
 
@@ -1429,11 +1416,23 @@ Novartis Ireland Limited
 
 Tel: +353 1 260 12 55
 
+## Slovenija
+
+Novartis Pharma Services Inc.
+
+Tel: +386 1 300 75 50
+
 ## Ísland
 
 Vistor ehf.
 
 Sími: +354 535 7000
+
+## Slovenská republika
+
+Novartis Slovakia s.r.o.
+
+Tel: +421 2 5542 5439
 
 ## Italia
 
@@ -1441,11 +1440,25 @@ Novartis Farma S.p.A.
 
 Tel: +39 02 96 54 1
 
+## Suomi/Finland
+
+Novartis Finland Oy
+
+Puh/Tel: +358 (0)10 6133 200
+
 ## Κύπρος
 
 Novartis Pharma Services Inc.
 
 Τηλ: +357 22 690 690
+
+## Sverige
+
+Novartis Sverige AB
+
+Tel: +46 8 732 32 00
+
+<div style=\"page-break-after: always\"></div>
 
 ## Latvija
 
@@ -1458,42 +1471,6 @@ Tel: +371 67 887 070
 ## Other sources of information
 
 Detailed information on this medicine is available on the European Medicines Agency web site: https://www.ema.europa.eu
-
-## Portugal
-
-Novartis Farma - Produtos Farmacêuticos, S.A.
-
-Tel: +351 21 000 8600
-
-## România
-
-Novartis Pharma Services Romania SRL
-
-Tel: +40 21 31299 01
-
-## Slovenija
-
-Novartis Pharma Services Inc.
-
-Tel: +386 1 300 75 50
-
-## Slovenská republika
-
-Novartis Slovakia s.r.o.
-
-Tel: +421 2 5542 5439
-
-## Suomi/Finland
-
-Novartis Finland Oy
-
-Puh/Tel: +358 (0)10 6133 200
-
-## Sverige
-
-Novartis Sverige AB
-
-Tel: +46 8 732 32 00
 
 <div style=\"page-break-after: always\"></div>
 
@@ -1516,17 +1493,15 @@ The recommended dose is 284 mg inclisiran administered as a single subcutaneous 
 
 ## Missed doses
 
-If a planned dose is missed by less than 3 months, inclisiran should be administered and dosing continued according to the patient's original schedule.
+If a planned dose is missed by less than 3 months, inclisiran should be administered and dosing continued according to the patient's original schedule .
 
-If a planned dose is missed by more than 3 months, a new dosing schedule should be started inclisiran should be administered initially, again at 3 months, followed by every 6 months.
+If a planned dose is missed by more than 3 months, a new dosing schedule should be started -inclisiran should be administered initially, again at 3 months, followed by every 6 months.
 
 ## Treatment transition from monoclonal antibody proprotein convertase subtilisin/kexin type 9 (PCSK9) inhibitors
 
 Inclisiran can be administered immediately after the last dose of a monoclonal antibody PCSK9 inhibitor. To maintain low-density lipoprotein cholesterol (LDL-C) lowering it is recommended that inclisiran is administered within 2 weeks after the last dose of a monoclonal antibody PCSK9 inhibitor.
 
-## Special populations
-
-## Elderly
+## Special populations Elderly
 
 No dose adjustments are necessary in elderly patients (see section 5.2 of the SmPC).
 
@@ -1574,13 +1549,12 @@ This section contains information on how to inject Leqvio.
 
 <!-- image -->
 
+<div style=\"page-break-after: always\"></div>
+
 ## Important information you need to know before injecting Leqvio
 
 - Do not use the pre-filled syringe if any of the seals on the outer carton or the seal of the plastic tray are broken.
 - Do not remove the needle cap until you are ready to inject.
-
-<div style=\"page-break-after: always\"></div>
-
 - Do not use if the pre-filled syringe has been dropped onto a hard surface or dropped after removing the needle cap.
 - Do not try to re-use or take apart the pre-filled syringe.
 - The pre-filled syringe has a needle guard that will be activated to cover the needle after the injection is finished. The needle guard will help to prevent needle stick injuries to anyone who handles the pre-filled syringe after injection.

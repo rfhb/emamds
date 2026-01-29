@@ -1,18 +1,18 @@
 ---
-document_datetime: 2024-11-21 15:39:28
-document_pages: 67
+document_datetime: 2026-01-26 10:39:14
+document_pages: 69
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/dapagliflozin-viatris-epar-product-information_en.pdf
 document_name: dapagliflozin-viatris-epar-product-information_en.pdf
 version: success
-processing_time: 38.1219086
-conversion_datetime: 2025-12-27 17:48:55.921127
+processing_time: 42.4115651
+conversion_datetime: 2026-01-29 12:40:36.346932
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.66.0
-  docling-core: 2.57.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.11.0
+  docling-jobkit: 1.9.0
+  docling: 2.70.0
+  docling-core: 2.61.0
+  docling-ibm-models: 3.11.0
+  docling-parse: 4.7.3
   python: cpython-313 (3.13.11)
   plaform: macOS-26.2-arm64-arm-64bit-Mach-O
 ---
@@ -65,7 +65,8 @@ Yellow coloured, diamond shaped, biconvex film coated tablet with dimensions of 
 Dapagliflozin Viatris is indicated in adults and children aged 10 years and above for the treatment of insufficiently controlled type 2 diabetes mellitus as an adjunct to diet and exercise
 
 - -as monotherapy when metformin is considered inappropriate due to intolerance.
-- -in addition to other medicinal products for the treatment of type 2 diabetes.
+
+-in addition to other medicinal products for the treatment of type 2 diabetes.
 
 For study results with respect to combination of therapies, effects on glycaemic control, cardiovascular and renal events, and the populations studied, see sections 4.4, 4.5 and 5.1.
 
@@ -309,7 +310,7 @@ The most frequently reported adverse reactions across the clinical studies were 
 
 ## Heart failure
 
-In the dapagliflozin cardiovascular outcome study in patients with heart failure with reduced ejection fraction (DAPA-HF study), 2 368 patients were treated with dapagliflozin 10 mg and 2 368 patients with placebo for a median exposure time of 18 months. The patient population included patients with type 2 diabetes mellitus and without diabetes, and patients with eGFR ≥ 30 mL/min/1.73 m 2 . In the dapagliflozin cardiovascular outcome study in patients with heart failure with left ventricular ejection fraction &gt; 40% (DELIVER), 3 126 patients were treated with dapagliflozin 10 mg and 3 127 patients with placebo for a median exposure time of 27 months. The patient population included patients with type 2 diabetes mellitus and w ithout diabetes, and patients with eGFR ≥ 25 mL/min/1.73 m 2 .
+In the dapagliflozin cardiovascular outcome study in patients with heart failure with reduced ejection fraction (DAPA-HF study), 2 368 patients were treated with dapagliflozin 10 mg and 2 368 patients with placebo for a median exposure time of 18 months. The patient population included patients with type 2 diabetes mellitus and without diabetes, and patients with eGFR ≥ 30 mL/min/1.73 m 2 . In the dapagliflozin cardiovascular outcome study in patients with heart failure with left ventricular ejection fraction &gt; 40% (DELIVER), 3 126 patients were treated with dapagliflozin 10 mg and 3 127 patients with placebo for a median exposure time of 27 months. The patient population included patients with type 2 diabetes mellitus and without diabetes, and patients with e GFR ≥ 25 mL/min/1.73 m 2 .
 
 The overall safety profile of dapagliflozin in patients with heart failure was consistent with the known safety profile of dapagliflozin.
 
@@ -325,7 +326,7 @@ The overall safety profile of dapagliflozin in patients with chronic kidney dise
 
 ## Tabulated list of adverse reactions
 
-The following adverse reactions have been identified in the placebo-controlled clinical studies and post-marketing surveillance. None were found to be dose-related. Adverse reactions listed below are classified according to frequency and system organ class (SOC). Frequency categories are defined according to the following convention: very common (≥ 1/10), com mon (≥ 1/100 to &lt; 1/10), uncommon (≥ 1/1 000 to &lt; 1/100), rare (≥ 1/10 000 to &lt; 1/1 000), very rare (&lt; 1/10 000), and not known (cannot be estimated from the available data).
+The following adverse reactions have been identified in the placebo-controlled clinical studies and post-marketing surveillance. None were found to be dose-related. Adverse reactions listed below are classified according to frequency and system organ class (SOC). Frequency categories are defined according to the following convention: very common (≥ 1/10), common (≥ 1/100 to &lt; 1/10), uncommon (≥ 1/1 000 to &lt; 1/100), rare (≥ 1/10 000 to &lt; 1/1 000), very rare (&lt; 1/10 000), and not known (cannot be estimated from the available data).
 
 Table 1. Adverse reactions in placebo-controlled clinical studies a  and post-marketing experience
 
@@ -359,7 +360,9 @@ g  Mean changes from baseline in haematocrit were 2.30% for dapagliflozin 10 mg 
 
 h  Mean percent change from baseline for dapagliflozin 10 mg versus placebo, respectively, was: total cholesterol 2.5% versus 0.0%; HDL cholesterol 6.0% versus 2.7%; LDL cholesterol 2.9% versus -1.0%; triglycerides -2.7% versus -0.7%.
 
-i See section 4.4
+i
+
+See section 4.4
 
 j Adverse reaction was identified through post-marketing surveillance. Rash includes the following preferred terms, listed in order of frequency in clinical studies: rash, rash generalised, rash pruritic, rash macular, rash maculo-papular, rash pustular, rash vesicular, and rash erythematous. In active- and placebo-controlled clinical studies (dapagliflozin, N=5936, All control, N=3403), the frequency of rash was similar for dapagliflozin (1.4%) and all control (1.4%), respectively.
 
@@ -529,9 +532,11 @@ Table 2. Results at week 24 (LOCF a ) of a placebo-controlled study of dapaglifl
 | Change from baseline c                                   | -3.16                 | -2.19         |
 | Difference from placebo c (95% CI)                       | -0.97 (-2.20, 0.25)   |               |
 
-a  LOCF: Last observation (prior to rescue for rescued subjects) carried forward b  All randomised subjects who took at least one dose of double-blind study medicinal product during the short-term doubleblind period
+a  LOCF: Last observation (prior to rescue for rescued subjects) carried forward
 
-c  Least squares mean adjusted for baseline value
+b  All randomised subjects who took at least one dose of double-blind study medicinal product during the short-term doubleblind period
+
+- c  Least squares mean adjusted for baseline value
 
 *  p-value &lt; 0.0001 versus placebo
 
@@ -563,17 +568,18 @@ The reductions in HbA1c observed at week 24 were sustained in add-on combination
 
 Table 4. Results of 24-week (LOCF a ) placebo-controlled studies of dapagliflozin in add-on combination with metformin or sitagliptin (with or without metformin)
 
-|                                             | Add-on combination     | Add-on combination   | Add-on combination                             | Add-on combination                             |
-|---------------------------------------------|------------------------|----------------------|------------------------------------------------|------------------------------------------------|
-|                                             | Metformin 1            | Metformin 1          | DPP-4 inhibitor (sitagliptin 2 ) ± metformin 1 | DPP-4 inhibitor (sitagliptin 2 ) ± metformin 1 |
-|                                             | Dapagliflozin 10 mg    | Placebo              | Dapagliflozin 10 mg                            | Placebo                                        |
-| N b                                         | 135                    | 137                  | 223                                            | 224                                            |
-| HbA1c (%)                                   |                        |                      |                                                |                                                |
-| Baseline (mean)                             | 7.92                   | 8.11                 | 7.90                                           | 7.97                                           |
-| Change from baseline c                      | -0.84                  | -0.30                | -0.45                                          | 0.04                                           |
-| Difference from placebo c (95% CI)          | -0.54 * (-0.74, -0.34) |                      | -0.48 *                                        |                                                |
-| Subjects (%)                                | **                     |                      | (-0.62, -0.34)                                 |                                                |
-| achieving: HbA1c < 7% Adjusted for baseline | 40.6                   | 25.9                 |                                                |                                                |
+|                                    | Add-on combination   | Add-on combination   | Add-on combination                             | Add-on combination                             |
+|------------------------------------|----------------------|----------------------|------------------------------------------------|------------------------------------------------|
+|                                    | Metformin 1          | Metformin 1          | DPP-4 inhibitor (sitagliptin 2 ) ± metformin 1 | DPP-4 inhibitor (sitagliptin 2 ) ± metformin 1 |
+|                                    | Dapagliflozin 10 mg  | Placebo              | Dapagliflozin 10 mg                            | Placebo                                        |
+| N b                                | 135                  | 137                  | 223                                            | 224                                            |
+| HbA1c (%)                          |                      |                      |                                                |                                                |
+| Baseline (mean)                    | 7.92                 | 8.11                 | 7.90                                           | 7.97                                           |
+| Change from baseline c             | -0.84                | -0.30                | -0.45                                          | 0.04                                           |
+| Difference from placebo c (95% CI) | -0.54 *              |                      | -0.48 *                                        |                                                |
+| (%)                                | (-0.74, -0.34)       |                      | (-0.62, -0.34)                                 |                                                |
+| Subjects achieving: HbA1c < 7%     |                      |                      |                                                |                                                |
+| Adjusted for baseline              | 40.6 **              | 25.9                 |                                                |                                                |
 
 <div style=\"page-break-after: always\"></div>
 
@@ -586,14 +592,6 @@ Table 4. Results of 24-week (LOCF a ) placebo-controlled studies of dapagliflozi
 | Change from baseline c    | -2.86                | -0.89                | -2.14                                          | 0.26                                           |
 | Difference from placebo c | -1.97 *              |                      | -1.89 *                                        |                                                |
 | (95% CI)                  | (-2.63, -1.31)       |                      | (-2.37, -1.40)                                 |                                                |
-
-b  All randomised subjects who took at least one dose of double-blind study medicinal product during the short-term doubleblind period
-
-- c  Least squares mean adjusted for baseline value
-
-*  p-value &lt; 0.0001 versus placebo + oral glucose-lowering medicinal product
-
-**  p-value &lt; 0.05 versus placebo + oral glucose-lowering medicinal product
 
 Table 5. Results of 24-week placebo-controlled studies of dapagliflozin in add-on combination with sulphonylurea (glimepiride) or metformin and a sulphonylurea
 
@@ -809,25 +807,26 @@ Figure 2: Treatment effects for the primary composite endpoints and their compon
 
 <!-- image -->
 
-|                                                                          | Dapagliflozin n (%) (N=8582)   | Placebo n (%) (N=8578)   | Hazard Ratio (95% CI)   |                   | p-value   |
-|--------------------------------------------------------------------------|--------------------------------|--------------------------|-------------------------|-------------------|-----------|
-| Primary endpoints                                                        |                                |                          |                         |                   |           |
-| Composite of hospitalisation for heart failure/cardiovascular death      |                                | 417 (4.9)                | 496 (5.8)               | 0.83 (0.73), 0.95 | 0.005     |
-| Composite of cardiovascular death/myocardial infarction/ischaemic stroke |                                | 756 (8.8)                | 803 (9.4)               | 0.93 (0.84, 1.03) | 0.172     |
-| Components of the composite endpoints                                    |                                |                          |                         |                   |           |
-| Hospitalisation for heart failure                                        |                                | 212 (2.5)                | 286 (3.6)               | 0.73 (0.61, 0.88) | <0.001    |
-| Cardiovascular death                                                     |                                | 245 (2.9)                | 249 (2.9)               | 0.98 (0.82, 1.17) | 0.830     |
-| Myocardial infarction                                                    |                                | 393 (4.6)                | 441 (5.1)               | 0.89 (0.77, 1.01) | 0.080     |
-| Ischaemic stroke                                                         |                                | 235 (2.7)                | 231 (2.7)               | 1.01 (0.84, 1.21) | 0.916     |
-| Secondary endpoints                                                      |                                |                          |                         |                   |           |
-| Renal composite endpoint                                                 |                                |                          |                         |                   |           |
-| Renal components:                                                        |                                | 370 (4.3)                | 480 (5.6)               | 0.76 (0.67, 0.87) | <0.001    |
-| Sustained eGFR decrease                                                  |                                | 120 (1.4)                | 221 (2.6)               | 0.54 (0.43, 0.67) | <0.001    |
-| End-stage kidney disease                                                 |                                | 6 (<0.1)                 | 19 (0.2)                | 0.31 (0.13, 0.79) | 0.013     |
-| Renal death                                                              |                                | 6 (<0.1)                 | 10 (0.1)                | 0.60 (0.22, 1.65) | 0.324     |
-| All-cause mortability                                                    |                                | 529 (6.2)                | 570 (6.6)               | 0.93 (0.82, 1.04) | 0.198     |
-| Dapagliflozin                                                            | Better Placebo Better          |                          |                         |                   |           |
-|                                                                          | 0.4 0.6 0.8 1 1.2 1.6          |                          |                         |                   |           |
+|                                                                   | Dapagliflozin         | Placebo   | Hazard Ratio   |                   | p-value   |
+|-------------------------------------------------------------------|-----------------------|-----------|----------------|-------------------|-----------|
+|                                                                   |                       | n (%)     | n (%)          | (95% CI)          |           |
+| Primary endpoints                                                 |                       |           |                |                   |           |
+| Composite of hospitalisation for                                  |                       | 417 (4.9) | 496 (5.8)      | 0.83 (0.73), 0.95 | 0.005     |
+| heart failure/cardiovascular death                                |                       |           |                |                   |           |
+| Composite of cardiovascular death/myocardial infarction/ischaemic |                       | 756 (8.8) | 803 (9.4)      | 0.93 (0.84, 1.03) | 0.172     |
+| Components of the composite endpoints                             |                       |           |                |                   |           |
+| Hospitalisation for heart failure                                 |                       | 212 (2.5) | 286 (3.6)      | 0.73 (0.61, 0.88) | <0.001    |
+| Cardiovascular death                                              |                       | 245 (2.9) | 249 (2.9)      | 0.98 (0.82, 1.17) | 0.830     |
+| Myocardial infarction                                             |                       | 393 (4.6) | 441 (5.1)      | 0.89 (0.77, 1.01) | 0.080     |
+| Ischaemic stroke                                                  |                       | 235 (2.7) | 231 (2.7)      | 1.01 (0.84, 1.21) | 0.916     |
+| Secondary endpoints                                               |                       |           |                |                   |           |
+| Renal composite endpoint                                          |                       | 370 (4.3) | 480 (5.6)      | 0.76 (0.67, 0.87) | <0.001    |
+| Renal components: Sustained eGFR decrease                         |                       | 120 (1.4) | 221 (2.6)      | 0.54 (0.43, 0.67) | <0.001    |
+| End - stage kidney disease                                        |                       | 6 (<0.1)  | 19 (0.2)       | 0.31 (0.13, 0.79) | 0.013     |
+| Renal death                                                       |                       | 6 (<0.1)  | 10 (0.1)       | 0.60 (0.22, 1.65) | 0.324     |
+| All- cause mortability                                            |                       | 529 (6.2) | 570 (6.6)      | 0.93 (0.82, 1.04) | 0.198     |
+| Dapagliflozin Better                                              | Placebo Better        |           |                |                   |           |
+| 0.2                                                               | 0.4 0.6 0.8 1 1.2 1.6 |           |                |                   |           |
 
 Renal composite endpoint defined as: sustained confirmed ≥ 40% decrease in eGFR to eGFR &lt; 60 mL/min/1.73 m 2  and/or endstage kidney disease (dialysis ≥ 90 days or kidney transplantation, sustained confirmed eGFR &lt; 15 mL/min/1.73 m 2 ) and/or renal or cardiovascular death.
 
@@ -877,23 +876,11 @@ Figure 4: Treatment effects for the primary composite endpoint, its components a
 
 <!-- image -->
 
-| Characteristics                                                                                        | HR (95% CI)   | Subjects with even (even rate)   | Subjects with even (even rate)   | Hazard Ratio (95% CI)   | P-value   |
-|--------------------------------------------------------------------------------------------------------|---------------|----------------------------------|----------------------------------|-------------------------|-----------|
-|                                                                                                        |               | Dapagliflozin (N=2373)           | Placebo (N=2371)                 |                         |           |
-| The composite of cardiovascular death, hospitalisation for heart failure or urgent heart failure visit |               | 386 (11.6)                       | 502 (15.6)                       | 0.74 (0.65, 0.85)       | <0.0001   |
-| Hospitalisation for heart failure                                                                      |               | 231 (6.9)                        | 318 (9.8)                        | 0.70 (0.59, 0.83)       | <0.0001   |
-| Urgent heart failure visit                                                                             |               | 10 (0.3)                         | 23 (0.7)                         | 0.43 (0.20, 0.90)       | 0.0213    |
-| Cardiovascular death                                                                                   |               | 227 (6.5)                        | 273 (7.9)                        | 0.82 (0.69, 0.98)       | 0.0294    |
-| All-cause mortality                                                                                    |               | 276 (7.9)                        | 329 (9.5)                        | 0.83 (0.71, 0.97)       | 0.0217    |
-| 0.5                                                                                                    | 0.8 1 1.25    | 2                                |                                  |                         |           |
-
 An urgent heart failure visit was defined as an urgent, unplanned, assessment by a physician, e.g. in an Emergency Department, and requiring treatment for worsening heart failure (other than just an increase in oral diuretics).
 
 The number of first events for the single components are the actual number of first events for each component and does not add up to the number of events in the composite endpoint.
 
-Event rates are presented as the number of subjects with event per 100 patient years of follow-up.
-
-p-values for single components and all-cause mortality are nominal.
+Event rates are presented as the number of subjects with event per 100 patient years of follow-up. p-values for single components and all-cause mortality are nominal.
 
 Dapagliflozin also reduced the total number of events of hospitalisations for heart failure (first and recurrent) and cardiovascular death; there were 567 events in the dapagliflozin group versus 742 events in the placebo group (Rate Ratio 0.75 [95% CI 0.65, 0.88]; p=0.0002).
 
@@ -997,7 +984,7 @@ The treatment benefit of dapagliflozin over placebo on the primary endpoint was 
 
 Treatment with dapagliflozin resulted in a statistically significant benefit over placebo in heart failure symptoms, as measured by change from baseline at month 8 in the KCCQ-TSS, (Win Ratio 1.11 [95% CI 1.03, 1.21]; p=0.0086). Both symptom frequency and symptom burden contributed to the results.
 
-In responder analyses, the proportion of patients who experienced a moderate (≥ 5 points) or large (≥ 14 points) deterioration on the KCCQ-TSS from baseline at 8 months was lower in the dapagliflozin treatment group; 24.1% of patients on dapagliflozin versus 29.1% on placebo experienced a moderate deterioration (Odds Ratio 0.78 [95% CI 0.64, 0.95]) and 13.5% of patients on dapagliflozin versus 18.4% on placebo experienced a large deterioration (Odds Ratio 0.70 [95% CI 0.55, 0.88]). The proportion of patients w ith a small to moderate improvement (≥ 13 points) or a large improvement (≥ 17 points) did not differ between treatment groups.
+In responder analyses, the proportion of patients who experienced a moderate (≥ 5 points) or large (≥ 14 points) deterioration on the KCCQ-TSS from baseline at 8 months was lower in the dapagliflozin treatment group; 24.1% of patients on dapagliflozin versus 29.1% on placebo experienced a moderate deterioration (Odds Ratio 0.78 [95% CI 0.64, 0.95]) and 13.5% of patients on dapagliflozin versus 18.4% on placebo experienced a large deterioration (Odds Ratio 0.70 [95% CI 0.55, 0.88]). The proportion of patient s with a small to moderate improvement (≥ 13 points) or a large improvement (≥ 17 points) did not differ between treatment groups.
 
 ## Heart failure across DAPA-HF and DELIVER studies
 
@@ -1017,7 +1004,7 @@ The mean age of the study population was 61.8 years, 66.9% were male. At baselin
 
 The study was stopped early for efficacy prior to the planned analysis based on a recommendation by the independent Data Monitoring Committee. Dapagliflozin was superior to placebo in preventing the primary composite endpoint of ≥ 50% sustained decline in eGFR, reaching end-stage kidney disease, cardiovascular or renal death. Based on the Kaplan-Meier plot for the time to first occurrence of the primary composite endpoint, the treatment effect was evident beginning at 4 months and was maintained through the end of study (Figure 7).
 
-Figure 7 : Time to first occurrence of the primary composite endpoint, ≥ 50% sustained decline in eGFR, end-stage kidney disease, cardiovascular or renal death
+Figure 7: Time to first occurrence of the primary composite endpoint, ≥ 50% sustained decline in eGFR, end-stage kidney disease, cardiovascular or renal death
 
 <!-- image -->
 
@@ -1031,27 +1018,25 @@ Figure 8: Treatment effects for the primary and secondary composite endpoints, t
 
 <!-- image -->
 
-| Characteristics                                                                                               | HR (95% CI)                             | Subjects with (event rate)              | even                                    | HR (95% CI)                             | P-value                                 |
-|---------------------------------------------------------------------------------------------------------------|-----------------------------------------|-----------------------------------------|-----------------------------------------|-----------------------------------------|-----------------------------------------|
-|                                                                                                               | Dapagliflozin Placebo (N=2152) (N=2152) | Dapagliflozin Placebo (N=2152) (N=2152) | Dapagliflozin Placebo (N=2152) (N=2152) | Dapagliflozin Placebo (N=2152) (N=2152) | Dapagliflozin Placebo (N=2152) (N=2152) |
-| Primary endpoints                                                                                             |                                         |                                         |                                         |                                         |                                         |
-| Composite endpoint of ≥50% sustained decline in eGFR, end-stage kidney disease, cardiovascular or renal death |                                         | 197 (4.6)                               | 312 (7.5)                               | 0.61 (0.5, 0.72)                        | <0.0001                                 |
-| Secondary endpoints                                                                                           |                                         |                                         |                                         |                                         |                                         |
-| Composite endpoint of ≥50% sustained decline in eGFR, end-stage kidney disease renal death                    |                                         | 142 (3.3)                               | 243 (5.8)                               | 0.56 (0.45, 0.68)                       | <0.0001                                 |
-| Composite endpoint of cardiovascular death or hospitalisation for heart failure                               |                                         | 100 (2.2)                               | 138 (3.0)                               | 0.71 (0.55, 0.92)                       |                                         |
-| All-cause mortality                                                                                           |                                         | 101 (2.2)                               | 146 (3.1)                               | 0.69 (0.53, 0.88)                       |                                         |
-| Components of the composite endpoints                                                                         |                                         |                                         |                                         |                                         |                                         |
-| ≥50% sustained decline in eGFR                                                                                |                                         | 112 (2.6)                               | 201 (4.8)                               | 0.53 (0.42, 0.67)                       |                                         |
-| End-stage kidney disease                                                                                      |                                         | 109 (2.5)                               | 161 (3.8)                               | 0.64 (0.50, 0.82)                       |                                         |
-| Sustained eGFR <15 mL/min/1.73 m 2                                                                            |                                         | 84 (1.9)                                | 120 (2.8)                               | 0.67 (0.51, 0.88)                       |                                         |
-| Chronic dialysis treatment                                                                                    |                                         | 68 (1.5)                                | 99 (2.2)                                | 0.66 (0.48, 0.90)                       |                                         |
-| Receiving a renal transplant                                                                                  |                                         | 3 (0.1)                                 | 8 (0.2)                                 |                                         |                                         |
-| Cardiovascular death                                                                                          |                                         | 65 (1.4)                                | 80 (1.7)                                | 0.81 (0.58, 1.12)                       |                                         |
-| Renal death                                                                                                   |                                         | 2 (0.0)                                 | 6 (0.1)                                 |                                         |                                         |
-| Hospitalisation for heart failure                                                                             |                                         | 37 (0.8)                                | 71 (1.6)                                | 0.51 (0.34, 0.76)                       |                                         |
-| 0.34                                                                                                          | 0.7 1                                   | 1.2                                     |                                         |                                         |                                         |
-|                                                                                                               | Better                                  | Better                                  | Better                                  |                                         |                                         |
-| Dapagliflozin                                                                                                 | Dapagliflozin                           | Placebo                                 | Placebo                                 |                                         |                                         |
+| Characteristics                                                                                  | HR(95%CI)     | Subjects even                          | with                                   | HR(95%CI) P-                           | value   |
+|--------------------------------------------------------------------------------------------------|---------------|----------------------------------------|----------------------------------------|----------------------------------------|---------|
+| Primary endpoints                                                                                |               | Dapagliflozi Placebo (N=2152) (N=2152) | Dapagliflozi Placebo (N=2152) (N=2152) | Dapagliflozi Placebo (N=2152) (N=2152) |         |
+| Composite endpoint of ≥50%sustained decline in eGFR, end-stage kidney disease, cardiovascular or |               | 197 (4.6)                              | 312 (7.5)                              | 0.61 (0.5, 0.72)                       | <0.0001 |
+| Secondary endpoints renal death                                                                  |               |                                        |                                        |                                        |         |
+| Composite endpoint of ≥50%sustained decline in eGFR, end-stage kidney                            |               | 142 (3.3)                              | 243 (5.8)                              | 0.56 (0.45,                            | <0.0001 |
+| Composite endpoint of cardiovascular death or                                                    |               | 100 (2.2)                              | 138 (3.0)                              | 0.71 (0.55,                            |         |
+| All- cause mortality                                                                             |               | 101 (2.2)                              | 146 (3.1)                              | 0.69 (0.53,                            |         |
+| Components of the composite endpoints                                                            |               |                                        |                                        |                                        |         |
+| ≥50%sustained decline in eGFR                                                                    |               | 112 (2.6)                              | 201 (4.8)                              | 0.53 (0.42,                            |         |
+| End - stage kidney                                                                               |               | 109 (2.5)                              | 161 (3.8)                              | 0.64 (0.50,                            |         |
+| SustainedeGFR <15 mL/min/1.73m 2                                                                 |               | 84 (1.9)                               | 120 (2.8)                              | 0.67 (0.51,                            |         |
+| Chronic dialysis                                                                                 |               | 68 (1.5)                               | 99 (2.2)                               | 0.66 (0.48,                            |         |
+| Receiving a renal transplant                                                                     |               | 3 (0.1)                                | 8 (0.2)                                |                                        |         |
+| Cardiovascular death                                                                             |               | 65 (1.4)                               | 80 (1.7)                               | 0.81 (0.58,                            |         |
+| Renal death                                                                                      |               | 2 (0.0)                                | 6 (0.1)                                |                                        |         |
+| Hospitalisation for heart failure                                                                |               | 37 (0.8)                               | 71 (1.6)                               | 0.51 (0.34,                            |         |
+| 0.34 0.7                                                                                         |               | 1 1.2                                  |                                        |                                        |         |
+| Dapagliflozin                                                                                    | Dapagliflozin | Placebo Better                         | Placebo Better                         |                                        |         |
 
 The number of first events for the single components are the actual number of first events for each component and does not add up to the number of events in the composite endpoint.
 
@@ -1069,7 +1054,7 @@ The treatment benefit of dapagliflozin over placebo on the primary endpoint was 
 
 ## Type 2 diabetes mellitus
 
-In a clinical study in children and adolescents aged 10-24 years with type 2 diabetes mellitus, 39 patients were randomised to dapagliflozin 10 mg and 33 to placebo, as add-on to metformin, insulin or a combination of metformin and insulin. At randomisation, 74% of the patients were &lt; 18 years of age. The adjusted mean change in HbA1c for dapagliflozin relative to placebo from baseline to week 24 was -0.75% (95% CI -1.65, 0.15). In the age group &lt; 18 years the adjusted mean change in HbA1c for dapagliflozin relative to placebo was -0.59% (95% CI -1.66, 0.48). In the age group ≥ 18 years, the mean change from baseline in HbA1c was -1.52% in the dapagliflozin treated group (n=9) and 0.17% in the placebo treated group (n=6). Efficacy and safety were similar to that observed in the adult population treated with dapagliflozin. Safety and tolerability were further confirmed in a 28-week safety extension of the study.
+In a clinical study in children and adolescents aged 10-24 years with type 2 diabetes mellitus, 39 patients were randomised to dapagliflozin 10 mg and 33 to placebo, as add-on to metformin, insulin or a combination of metformin and insulin. At randomisation, 74% of the patients were &lt; 18 years of age. The adjusted mean change in HbA1c for dapagliflozin relative to placebo from baseline to week 24 was -0.75% (95% CI -1.65, 0.15). In the age group &lt; 18 years the adjusted mean change in HbA1c for dapagliflozin relative to placebo was -0.59% (95% CI 1.66, 0.48). In the age group ≥ 18 years, the mean change from baseline in HbA1c was -1.52% in the dapagliflozin treated group (n=9) and 0.17% in the placebo treated group (n=6). Efficacy and safety were similar to that observed in the adult population treated with dapagliflozin. Safety and tolerability were further confirmed in a 28-week safety extension of the study.
 
 ## Heart failure and chronic kidney disease
 
@@ -1202,10 +1187,8 @@ EU/1/23/1721/001 EU/1/23/1721/002 EU/1/23/1721/003 EU/1/23/1721/004 EU/1/23/1721
 ## Dapagliflozin Viatris 10 mg film-coated tablets
 
 ```
-EU/1/23/1721/013 EU/1/23/1721/014 EU/1/23/1721/015 EU/1/23/1721/016 EU/1/23/1721/017 EU/1/23/1721/018 EU/1/23/1721/019 EU/1/23/1721/020 EU/1/23/1721/021 EU/1/23/1721/022 EU/1/23/1721/023
+EU/1/23/1721/013 EU/1/23/1721/014 EU/1/23/1721/015 EU/1/23/1721/016 EU/1/23/1721/017 EU/1/23/1721/018 EU/1/23/1721/019 EU/1/23/1721/020 EU/1/23/1721/021 EU/1/23/1721/022 EU/1/23/1721/023 EU/1/23/1721/024
 ```
-
-EU/1/23/1721/024
 
 ## 9. DATE OF FIRST AUTHORISATION/RENEWAL OF THE AUTHORISATION
 
@@ -1219,9 +1202,7 @@ Detailed information on this medicinal product is available on the website of th
 
 ## ANNEX II
 
-- A. MANUFACTURERS RESPONSIBLE FOR BATCH RELEASE
-- B. CONDITIONS OR RESTRICTIONS REGARDING SUPPLY AND USE
-- C. OTHER CONDITIONS AND REQUIREMENTS OF THE MARKETING AUTHORISATION
+- A. MANUFACTURERS RESPONSIBLE FOR BATCH RELEASE B. CONDITIONS OR RESTRICTIONS REGARDING SUPPLY AND USE C. OTHER CONDITIONS AND REQUIREMENTS OF THE MARKETING AUTHORISATION
 - D. CONDITIONS OR RESTRICTIONS WITH REGARD TO THE SAFE AND EFFECTIVE USE OF THE MEDICINAL PRODUCT
 
 <div style=\"page-break-after: always\"></div>
@@ -1297,9 +1278,7 @@ Blister pack: 30 film-coated tablets
 
 Blister pack: 98 film-coated tablets
 
-Calendar pack: 28 film-coated tablets
-
-Calendar pack: 98 film-coated tablets
+Calendar pack: 28 film-coated tablets Calendar pack: 98 film-coated tablets
 
 Unit dose blister pack: 14 x 1 film-coated tablets
 
@@ -1454,7 +1433,13 @@ CARTON AND LABEL OF BOTTLE 5 MG
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
+## [Outer packaging only]
+
 Dapagliflozin Viatris 5 mg film-coated tablets dapagliflozin
+
+## [Bottle label only]
+
+Dapagliflozin Viatris 5 mg tablets dapagliflozin
 
 ## 2. STATEMENT OF ACTIVE SUBSTANCE(S)
 
@@ -1468,8 +1453,17 @@ Contains lactose. See leaflet for further information.
 
 ## Film-coated tablet
 
-- 30 film-coated tablets
-- 90 film-coated tablets
+[Outer packaging only]
+
+30 film-coated tablets
+
+90 film-coated tablets
+
+## [Bottle label only]
+
+30 tablets
+
+90 tablets
 
 ## 5. METHOD AND ROUTE OF ADMINISTRATION
 
@@ -1481,64 +1475,65 @@ Read the package leaflet before use.
 
 Keep out of the sight and reach of children.
 
-## 7. OTHER SPECIAL WARNING(S), IF NECESSARY
+<div style=\"page-break-after: always\"></div>
 
-8. EXPIRY DATE
+| 7.   | OTHER SPECIAL WARNING(S), IF NECESSARY   |
+|------|------------------------------------------|
+
+| 8.   | EXPIRY DATE   |
+|------|---------------|
 
 EXP
 
-## 9. SPECIAL STORAGE CONDITIONS
+| 9.   | SPECIAL STORAGE CONDITIONS   |
+|------|------------------------------|
 
-<div style=\"page-break-after: always\"></div>
-
-## 10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
+| 10.   | SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS ORWASTEMATERIALS DERIVEDFROMSUCH MEDICINAL PRODUCTS, IF APPROPRIATE   |
+|-------|-------------------------------------------------------------------------------------------------------------------------------------|
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
-Viatris Limited
-
-Damastown Industrial Park
-
-Mulhuddart
-
-Dublin 15
-
-DUBLIN
+Viatris Limited Damastown Industrial Park Mulhuddart Dublin 15 DUBLIN
 
 Ireland
 
-## 12. MARKETING AUTHORISATION NUMBER(S)
+| 12.   | MARKETING AUTHORISATION NUMBER(S)   |
+|-------|-------------------------------------|
 
 EU/1/23/1721/011
 
 EU/1/23/1721/012
 
-## 13. BATCH NUMBER
+| 13.   | BATCH NUMBER   |
+|-------|----------------|
 
 Lot
 
 14. GENERAL CLASSIFICATION FOR SUPPLY
-15. INSTRUCTIONS ON USE
 
-## 16. INFORMATION IN BRAILLE
+| 15.   | INSTRUCTIONS ONUSE   |
+|-------|----------------------|
+
+| 16.   | INFORMATION IN BRAILLE   |
+|-------|--------------------------|
 
 Dapagliflozin Viatris 5 mg
 
-## 17. UNIQUE IDENTIFIER - 2D BARCODE
+| 17.   | UNIQUE IDENTIFIER - 2D BARCODE   |
+|-------|----------------------------------|
 
-Only on outer packaging:
+[Outer packaging only]
 
 2D barcode carrying the unique identifier included.
 
-## 18. UNIQUE IDENTIFIER - HUMAN READABLE DATA
+<div style=\"page-break-after: always\"></div>
 
-Only on outer packaging:
+| 18.   | UNIQUE IDENTIFIER-HUMANREADABLE DATA   |
+|-------|----------------------------------------|
 
-PC
+[Outer packaging only]
 
-SN
-
-NN
+PC SN NN
 
 <div style=\"page-break-after: always\"></div>
 
@@ -1570,9 +1565,7 @@ Blister pack: 30 film-coated tablets
 
 Blister pack: 98 film-coated tablets
 
-Calendar pack: 28 film-coated tablets
-
-Calendar pack: 98 film-coated tablets
+Calendar pack: 28 film-coated tablets Calendar pack: 98 film-coated tablets
 
 Unit dose blister pack: 14 x 1 film-coated tablets
 
@@ -1610,7 +1603,9 @@ EXP
 | 11.   | NAMEANDADDRESS OF THE MARKETING AUTHORISATION HOLDER   |
 |-------|--------------------------------------------------------|
 
-Viatris Limited Damastown Industrial Park Mulhuddart Dublin 15 DUBLIN Ireland
+Viatris Limited Damastown Industrial Park Mulhuddart Dublin 15 DUBLIN
+
+Ireland
 
 | 12.   | MARKETING AUTHORISATION NUMBER(S)   |
 |-------|-------------------------------------|
@@ -1669,15 +1664,9 @@ Lot
 
 <div style=\"page-break-after: always\"></div>
 
-<div style=\"page-break-after: always\"></div>
+## MINIMUM PARTICULARS TO APPEAR ON BLISTERS
 
-| 2.   | NAMEOFTHEMARKETING AUTHORISATION HOLDER   |
-|------|-------------------------------------------|
-
-| 4.   | BATCH NUMBER   |
-|------|----------------|
-
-## MINIMUM PARTICULARS TO APPEAR ON BLISTERS CALENDAR BLISTERS NON-PERFORATED 10 MG
+## CALENDAR BLISTERS NON-PERFORATED 10 MG
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
@@ -1696,6 +1685,8 @@ EXP
 Lot
 
 ## 5. OTHER
+
+<div style=\"page-break-after: always\"></div>
 
 MON. TUE. WED. THU. FRI. SAT. SUN.
 
@@ -1713,7 +1704,7 @@ Viatris Limited
 
 ## 3. EXPIRY DATE
 
-Exp
+EXP
 
 ## 4. BATCH NUMBER
 
@@ -1731,7 +1722,15 @@ Lot
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
-Dapagliflozin Viatris 10 mg film-coated tablets dapagliflozin
+## [Outer packaging only]
+
+Dapagliflozin Viatris 10 mg film-coated tablets
+
+Dapagliflozin
+
+## [Bottle label only]
+
+Dapagliflozin Viatris 10 mg tablets dapagliflozin
 
 ## 2. STATEMENT OF ACTIVE SUBSTANCE(S)
 
@@ -1745,9 +1744,17 @@ Contains lactose. See leaflet for further information.
 
 ## Film-coated tablet
 
-- 30 film-coated tablets
+[Outer packaging only]
+
+30 film-coated tablets
 
 90 film-coated tablets
+
+## [Bottle label only]
+
+30 tablets
+
+90 tablets
 
 ## 5. METHOD AND ROUTE OF ADMINISTRATION
 
@@ -1759,7 +1766,7 @@ Read the package leaflet before use.
 
 Keep out of the sight and reach of children.
 
-## 7. OTHER SPECIAL WARNING(S), IF NECESSARY
+7. OTHER SPECIAL WARNING(S), IF NECESSARY
 
 8. EXPIRY DATE
 
@@ -1767,7 +1774,7 @@ EXP
 
 ## 9. SPECIAL STORAGE CONDITIONS
 
-## 10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
+10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
@@ -1797,27 +1804,24 @@ Lot
 
 15. INSTRUCTIONS ON USE
 
-16. INFORMATION IN BRAILLE
+## 16. INFORMATION IN BRAILLE
 
 Dapagliflozin Viatris 10 mg
 
 ## 17. UNIQUE IDENTIFIER - 2D BARCODE
 
-Only on outer packaging:
+[Outer packaging only]
 
-- 2D barcode carrying the unique identifier included.
-
-## 18. UNIQUE IDENTIFIER - HUMAN READABLE DATA
-
-Only on outer packaging:
-
-PC
-
-SN
+2D barcode carrying the unique identifier included.
 
 <div style=\"page-break-after: always\"></div>
 
-NN
+<div style=\"page-break-after: always\"></div>
+
+| 18.   | UNIQUE IDENTIFIER-HUMANREADABLE DATA   |
+|-------|----------------------------------------|
+
+[Outer packaging only] PC SN NN
 
 <div style=\"page-break-after: always\"></div>
 
@@ -1896,7 +1900,7 @@ Dapagliflozin Viatris contains the active substance dapagliflozin. It belongs to
 
 ## Warnings and precautions
 
-Contact a doctor or the nearest hospital straight away:
+## Contact a doctor or the nearest hospital straight away:
 
 ## Diabetic ketoacidosis
 
@@ -2121,25 +2125,29 @@ Do not throw away any medicines via wastewater or household waste. Ask your phar
 ## What Dapagliflozin Viatris contains
 
 - The active substance is dapagliflozin. Each Dapagliflozin Viatris 5 mg film-coated tablet contains 5 mg of dapagliflozin. Each Dapagliflozin Viatris 10 mg film-coated tablet contains 10 mg of dapagliflozin.
-- The other ingredients are:
+- •
 
-Tablet core: microcrystalline cellulose (E460i), lactose monohydrate (see section 2 'Dapagliflozin Viatris contains lactose'), crospovidone (E1202), magnesium stearate (E470b), sodium laurilsulfate (see section 2 'Dapagliflozin Viatris contains sodium'), colloidal anhydrous silica, mannitol.
+The other ingredients are: Tablet core: microcrystalline cellulose (E460i), lactose monohydrate (see section 2 'Dapagliflozin Viatris contains lactose'), crospovidone (E1202), magnesium stearate (E470b), sodium laurilsulfate (see section 2 'Dapagliflozin Viatris contains sodium'), colloidal anhydrous silica, mannitol. Film-coating: polyvinyl alcohol (E1203), titanium dioxide (E171), macrogol 6000 (E1521), talc
 
-Film-coating: polyvinyl alcohol (E1203), titanium dioxide (E171), macrogol 6000 (E1521), talc (E553b), yellow iron oxide (E172).
+(E553b), yellow iron oxide (E172).
 
 ## What Dapagliflozin Viatris looks like and contents of the pack
 
-Dapagliflozin Viatris 5 mg film-coated tablets are yellow coloured, round shaped, biconvex with a diameter of approximately 7.24 mm. Debossed with '5' on one side and plain on the other side.
+Dapagliflozin Viatris 5 mg film-coated tablets (tablets) are yellow coloured, round shaped, biconvex with a diameter of approximately 7.24 mm. Debossed with '5' on one side and plain on the other side.
 
-Dapagliflozin Viatris 10 mg film-coated tablets are yellow coloured, diamond shaped, biconvex with dimensions of approximately 11 x 8 mm. Debossed with '10' on one side and plain on the other side.
+Dapagliflozin Viatris 10 mg film-coated tablets (tablets) are yellow coloured, diamond shaped, biconvex with dimensions of approximately 11 x 8 mm. Debossed with '10' on one side and plain on the other side.
 
 Dapagliflozin Viatris 5 mg tablets are available in: Aluminium blisters in pack sizes of 14, 28, 30 or 98 film-coated tablets. Calendar blisters in pack sizes of 28 or 98 film-coated tablets Perforated unit dose blisters in pack sizes of 14 x 1, 28 x 1, 30 x 1 or 98 x 1 film-coated tablets Bottles in pack sizes of 30 or 90 film-coated tablets.
 
 <div style=\"page-break-after: always\"></div>
 
-Dapagliflozin Viatris 10 mg tablets are available in: Aluminium blisters in pack sizes of 14, 28, 30 or 98 film-coated tablets. Calendar blisters in pack sizes of 28 or 98 film-coated tablets Perforated unit dose blisters in pack sizes of 14 x 1, 28 x 1, 30 x 1 or 98 x 1 film-coated tablets
+Dapagliflozin Viatris 10 mg tablets are available in:
 
-Bottles in pack sizes of 30 or 90 film-coated tablets.
+Aluminium blisters in pack sizes of 14, 28, 30 or 98 film-coated tablets.
+
+Calendar blisters in pack sizes of 28 or 98 film-coated tablets
+
+Perforated unit dose blisters in pack sizes of 14 x 1, 28 x 1, 30 x 1 or 98 x 1 film-coated tablets Bottles in pack sizes of 30 or 90 film-coated tablets.
 
 Not all pack sizes may be marketed.
 
@@ -2249,11 +2257,17 @@ Tlf: + 47 66 75 33 00
 
 ## Ελλάδα
 
+## Österreich
+
 Viatris Hellas Ltd
 
-Τηλ:
+Τηλ
 
-+30 2100 100 002
+: +30 2100 100 002
+
+Viatris Austria GmbH
+
+Tel: +43 1 86390
 
 ## España
 
@@ -2261,11 +2275,23 @@ Viatris Pharmaceuticals, S.L
 
 Tel: + 34 900 102 712
 
+## Polska
+
+Viatris Healthcare Sp. z o.o.
+
+Tel: + 48 22 546 64 00
+
 ## France
 
 Viatris Santé
 
 Tél: +33 4 37 25 75 00
+
+## Portugal
+
+Mylan, Lda.
+
+Tel: + 351 214 127 200
 
 ## Hrvatska
 
@@ -2273,11 +2299,23 @@ Viatris Hrvatska d.o.o.
 
 Tel: +385 1 23 50 599
 
+## România
+
+BGP Products SRL
+
+Tel: +40 372 579 000
+
 ## Ireland
 
 Viatris Limited
 
 Tel: +353 1 8711600
+
+## Slovenija
+
+Viatris d.o.o.
+
+Tel: + 386 1 23 63 180
 
 ## Ísland
 
@@ -2285,19 +2323,33 @@ Icepharma hf.
 
 Símí: +354 540 8000
 
+## Slovenská republika
+
+Viatris Slovakia s.r.o.
+
+Tel: +421 2 32 199 100
+
 ## Italia
 
 Viatris Italia S.r.l.
 
 Tel: + 39 (0) 2 612 46921
 
+## Suomi/Finland
+
+Viatris Oy
+
+Puh/Tel: +358 20 720 9555
+
 ## Κύπρος
 
-GPA Pharmaceuticals Ltd
+CPO Pharmaceuticals Limited Τηλ : +357 2286 3100
 
-Τηλ
+## Sverige
 
-: +357 2286 3100
+Viatris AB
+
+Tel: + 46 (0) 8 630 19 00
 
 ## Latvija
 
@@ -2309,58 +2361,4 @@ Tel: +371 676 055 80
 
 ## Other sources of information
 
-Detailed information on this medicine is available on the European Medicines Agency web site: http://www.ema.europa.eu.
-
-## Österreich
-
-Viatris Austria GmbH
-
-Tel: +43 1 86390
-
-## Polska
-
-Viatris Healthcare Sp. z o.o.
-
-Tel: + 48 22 546 64 00
-
-## Portugal
-
-Mylan, Lda.
-
-Tel: + 351 214 127 200
-
-## România
-
-BGP Products SRL
-
-Tel: +40 372 579 000
-
-## Slovenija
-
-Viatris d.o.o.
-
-Tel: + 386 1 23 63 180
-
-## Slovenská republika
-
-Viatris Slovakia s.r.o.
-
-Tel: +421 2 32 199 100
-
-## Suomi/Finland
-
-Viatris Oy
-
-Puh/Tel: +358 20 720 9555
-
-## Sverige
-
-Viatris AB
-
-Tel: + 46 (0) 8 630 19 00
-
-## United Kingdom (Northern Ireland)
-
-Mylan IRE Healthcare Limited
-
-Tel: +353 18711600
+Detailed information on this medicine is available on the European Medicines Agency web site: https://www.ema.europa.eu.

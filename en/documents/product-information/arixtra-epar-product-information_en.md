@@ -1,18 +1,18 @@
 ---
-document_datetime: 2024-03-27 11:29:58
-document_pages: 111
+document_datetime: 2026-01-29 10:52:42
+document_pages: 117
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/arixtra-epar-product-information_en.pdf
 document_name: arixtra-epar-product-information_en.pdf
 version: success
-processing_time: 23.9293193
-conversion_datetime: 2025-12-24 17:01:23.178436
+processing_time: 32.1131831
+conversion_datetime: 2026-01-29 11:57:29.781957
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.66.0
-  docling-core: 2.57.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.11.0
+  docling-jobkit: 1.9.0
+  docling: 2.70.0
+  docling-core: 2.61.0
+  docling-ibm-models: 3.11.0
+  docling-parse: 4.7.3
   python: cpython-313 (3.13.11)
   plaform: macOS-26.2-arm64-arm-64bit-Mach-O
 ---
@@ -54,7 +54,7 @@ Treatment of adults with acute symptomatic spontaneous superficial-vein thrombos
 
 ## 4.2 Posology and method of administration
 
-Posology
+## Posology
 
 Patients undergoing major orthopaedic or abdominal surgery
 
@@ -137,7 +137,7 @@ The safety and efficacy of fondaparinux 2.5 mg has not been studied in the follo
 
 ## Spinal / Epidural anaesthesia
 
-In patients undergoing major orthopaedic surgery, epidural or spinal haematomas that may result in long-term or permanent paralysis cannot be excluded with the concurrent use of fondaparinux and spinal/epidural anaesthesia or spinal puncture. The risk of these rare events may be higher with postoperative use of indwelling epidural catheters or the concomitant use of other medicinal products affecting haemostasis.
+In patients undergoing major orthopaedic surgery, epidural or spinal haematomas that may result in long-term or permanent paralysis cannot be excluded with the concurrent use of fondaparinux   and spinal/epidural anaesthesia or spinal puncture. The risk of these rare events may be higher with postoperative use of indwelling epidural catheters or the concomitant use of other medicinal products affecting haemostasis.
 
 ## Elderly patients
 
@@ -219,24 +219,24 @@ These adverse reactions should be interpreted within the surgical or medical con
 
 Adverse reactions are listed below by system organ class and frequency. Frequencies are defined as: very common (≥ 1/10), common (≥ 1/100, &lt;1/10), uncommon (≥ 1/1,000, &lt;1/100), rare (≥ 1/10,000, &lt;1/1,000), very rare (&lt;1/10,000).
 
-| System organ class MedDRA                       | common (≥ 1/100, <1/10)                                                                                                                                                                                                 | uncommon (≥ 1/1,000, <1/100)                                                | rare (≥ 1/10,000, <1/1,000)                                                                         |
-|-------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------|
-| Infections and infestations                     |                                                                                                                                                                                                                         |                                                                             | post-operative wound infections                                                                     |
-| Blood and lymphatic system disorders            | anaemia, post- operative haemorrhage, utero-vaginal haemorrhage * , haemoptysis, haematuria, haematoma, gingival bleeding, purpura, epistaxis, gastrointestinal bleeding, hemarthrosis * , ocular bleeding * , bruise * | thrombocytopenia, thrombocythaemia, platelet abnormal, coagulation disorder | retroperitoneal bleeding * , hepatic, intracranial/ intracerebral bleeding *                        |
-| Immune system disorders                         |                                                                                                                                                                                                                         |                                                                             | allergic reaction (including very rare reports of angioedema, anaphylactoid/ anaphylactic reaction) |
-| Metabolism and nutrition disorders              |                                                                                                                                                                                                                         |                                                                             | hypokalaemia, non-protein-nitrogen (Npn) increased 1*                                               |
-| Nervous system disorders                        |                                                                                                                                                                                                                         | headache                                                                    | anxiety, confusion, dizziness, somnolence, vertigo                                                  |
-| Vascular disorders                              |                                                                                                                                                                                                                         |                                                                             | hypotension                                                                                         |
-| Respiratory, thoracic and mediastinal disorders |                                                                                                                                                                                                                         | dyspnoea                                                                    | coughing                                                                                            |
-| Gastrointestinal disorders                      |                                                                                                                                                                                                                         | nausea, vomiting                                                            | abdominal pain, dyspepsia, gastritis, constipation, diarrhoea                                       |
+| System organ class MedDRA                       | common (≥ 1/100, <1/10)                                                                                                                                                                                                | uncommon (≥ 1/1,000, <1/100)                                                | rare (≥ 1/10,000, <1/1,000)                                                                         |
+|-------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------|
+| Infections and infestations                     |                                                                                                                                                                                                                        |                                                                             | post-operative wound infections                                                                     |
+| Blood and lymphatic system disorders            | anaemia, post- operative haemorrhage, utero-vaginal haemorrhage * , haemoptysis, haematuria, haematoma, gingival bleeding, purpura,epistaxis, gastrointestinal bleeding, hemarthrosis * , ocular bleeding * , bruise * | thrombocytopenia, thrombocythaemia, platelet abnormal, coagulation disorder | retroperitoneal bleeding * , hepatic, intracranial/ intracerebral bleeding *                        |
+| Immune system disorders                         |                                                                                                                                                                                                                        |                                                                             | allergic reaction (including very rare reports of angioedema, anaphylactoid/ anaphylactic reaction) |
+| Metabolism and nutrition disorders              |                                                                                                                                                                                                                        |                                                                             | hypokalaemia, non-protein-nitrogen (Npn) increased 1*                                               |
+| Nervous system disorders                        |                                                                                                                                                                                                                        | headache                                                                    | anxiety, confusion, dizziness, somnolence, vertigo                                                  |
+| Vascular disorders                              |                                                                                                                                                                                                                        |                                                                             | hypotension                                                                                         |
+| Respiratory, thoracic and mediastinal disorders |                                                                                                                                                                                                                        | dyspnoea                                                                    | coughing                                                                                            |
+| Gastrointestinal disorders                      |                                                                                                                                                                                                                        | nausea, vomiting                                                            | abdominal pain, dyspepsia, gastritis, constipation, diarrhoea                                       |
 
 <div style=\"page-break-after: always\"></div>
 
-| System organ class MedDRA                            | common (≥ 1/100, <1/10)   | uncommon (≥ 1/1,000, <1/100)                                        | rare (≥ 1/10,000, <1/1,000)                                                                   |
-|------------------------------------------------------|---------------------------|---------------------------------------------------------------------|-----------------------------------------------------------------------------------------------|
-| Hepatobiliary disorders                              |                           | abnormal liver function tests, hepatic enzymes increased            | bilirubinaemia                                                                                |
-| Skin and subcutaneous tissue disorders               |                           | rash erythematous, pruritus                                         |                                                                                               |
-| General disorders and administration site conditions |                           | oedema, oedema peripheral, pain, fever, chest pain, wound secretion | reaction at injection site, leg pain, fatigue, flushing, syncope, hot flushes, oedema genital |
+| System organ class MedDRA                            | common (≥ 1/100, <1/10)   | uncommon (≥ 1/1,000, <1/100)                                        | rare (≥ 1/10,000, <1/1,000)                                                              |
+|------------------------------------------------------|---------------------------|---------------------------------------------------------------------|------------------------------------------------------------------------------------------|
+| Hepatobiliary disorders                              |                           | abnormal liver function tests,hepatic enzymes increased             | bilirubinaemia                                                                           |
+| Skin and subcutaneous tissue disorders               |                           | rash erythematous, pruritus                                         |                                                                                          |
+| General disorders and administration site conditions |                           | oedema, oedema peripheral, pain, fever, chest pain, wound secretion | reactionat injectionsite,legpain,fatigue, flushing, syncope, hot flushes, oedema genital |
 
 ## Reporting of suspected adverse reactions
 
@@ -252,9 +252,7 @@ Overdose associated with bleeding complications should lead to treatment discont
 
 ## 5.1 Pharmacodynamic properties
 
-Pharmacotherapeutic group: antithrombotic agents.
-
-ATC code: B01AX05
+Pharmacotherapeutic group: antithrombotic agents. ATC code: B01AX05
 
 ## Pharmacodynamic effects
 
@@ -270,7 +268,7 @@ Fondaparinux does not usually cross-react with sera from patients with heparin-i
 
 ## Prevention of Venous Thromboembolic Events (VTE) in patients undergoing major orthopaedic surgery of the lower limbs treated up to 9 days
 
-The fondaparinux clinical program was designed to demonstrate the efficacy of fondaparinux for the prevention of venous thromboembolic events (VTE), i.e. proximal and distal deep vein thrombosis (DVT) and pulmonary embolism (PE) in patients undergoing major orthopaedic surgery of the lower limbs such as hip fracture, major knee surgery or hip replacement surgery. Over 8,000 patients (hip fracture - 1,711, hip replacement - 5,829, major knee surgery - 1,367) were studied in controlled Phase II and III clinical studies. Fondaparinux 2.5 mg once daily started 6-8 hours postoperatively was compared with enoxaparin 40 mg once daily started 12 hours before surgery, or 30 mg twice daily started 12-24 hours after surgery.
+The fondaparinux   clinical program was designed to demonstrate the efficacy of fondaparinux for the prevention of venous thromboembolic events (VTE), i.e. proximal and distal deep vein thrombosis (DVT) and pulmonary embolism (PE) in patients undergoing major orthopaedic surgery of the lower limbs such as hip fracture, major knee surgery or hip replacement surgery. Over 8,000 patients (hip fracture - 1,711, hip replacement - 5,829, major knee surgery - 1,367) were studied in controlled Phase II and III clinical studies. Fondaparinux 2.5 mg once daily started 6-8 hours postoperatively was compared with enoxaparin 40 mg once daily started 12 hours before surgery, or 30 mg twice daily started 12-24 hours after surgery.
 
 In a pooled analysis of these studies, the recommended dose regimen of fondaparinux versus enoxaparin was associated with a significant decrease (54% [95% CI, 44 %; 63%]) in the rate of VTE evaluated up to day 11 after surgery, irrespective of the type of surgery performed. The majority of endpoint events were diagnosed by a prescheduled venography and consisted mainly of distal DVT, but the incidence of proximal DVT was also significantly reduced. The incidence of symptomatic VTE, including PE was not significantly different between treatment groups.
 
@@ -312,7 +310,7 @@ Major bleeding during treatment occurred in 1 (0.1%) fondaparinux patient and in
 
 ## Absorption
 
-After subcutaneous dosing, fondaparinux is completely and rapidly absorbed (absolute bioavailability 100%). Following a single subcutaneous injection of fondaparinux 2.5 mg to young healthy subjects,
+After subcutaneous dosing, fondaparinux is completely and rapidly absorbed (absolute bioavailability 100%). Following a single subcutaneous injection of fondaparinux   2.5 mg to young healthy subjects,
 
 <div style=\"page-break-after: always\"></div>
 
@@ -320,7 +318,7 @@ peak plasma concentration (mean Cmax = 0.34 mg/l) is obtained 2 hours post-dosin
 
 In elderly healthy subjects, pharmacokinetics of fondaparinux are linear in the range of 2 to 8 mg by subcutaneous route. Following once daily dosing, steady state of plasma levels is obtained after 3 to 4 days with a 1.3-fold increase in Cmax and AUC.
 
-Mean (CV%) steady state pharmacokinetic parameters estimates of fondaparinux in patients undergoing hip replacement surgery receiving fondaparinux 2.5 mg once daily are: Cmax (mg/l) - 0.39 (31%), Tmax (h) - 2.8 (18%) and Cmin (mg/l) -0.14 (56%). In hip fracture patients, associated with their increased age, fondaparinux steady state plasma concentrations are: Cmax (mg/l) - 0.50 (32%), Cmin (mg/l) - 0.19 (58%).
+Mean (CV%) steady state pharmacokinetic parameters estimates of fondaparinux in patients undergoing hip replacement surgery receiving fondaparinux   2.5 mg once daily are: Cmax (mg/l) - 0.39 (31%), Tmax (h) - 2.8 (18%) and Cmin (mg/l) -0.14 (56%). In hip fracture patients, associated with their increased age, fondaparinux steady state plasma concentrations are: Cmax (mg/l) - 0.50 (32%), Cmin (mg/l) - 0.19 (58%).
 
 ## Distribution
 
@@ -403,7 +401,7 @@ Instruction for self-administration is mentioned in the Package Leaflet.
 
 The needle protection system of the Arixtra pre-filled syringes have been designed with a safety system to protect from needle stick injuries following injection.
 
-Any  unused  medicinal  product  or  waste  material  should  be  disposed  of  in  accordance  with  local requirements.
+Any  unused  medicinal  product or  waste  material should  be  disposed  of  in accordance  with local requirements.
 
 7.
 
@@ -429,11 +427,9 @@ EU/1/02/206/005-008 EU/1/02/206/024 EU/1/02/206/025 EU/1/02/206/026
 
 Date of first authorisation: 21 March 2002
 
-Date of latest renewal: 21 March 2007
+Date of latest renewal: 20 April 2007
 
-10.
-
-DATE OF REVISION OF THE TEXT
+## 10. DATE OF REVISION OF THE TEXT
 
 Detailed information on this medicinal product is available on the website of the European Medicines
 
@@ -505,11 +501,13 @@ The recommended dose of fondaparinux is 2.5 mg once daily. The first dose of fon
 
 If a patient is to undergo non-primary PCI, unfractionated heparin (UFH) as per standard practice should be administered during PCI, taking into account the patient's potential risk of bleeding, including the time since the last dose of fondaparinux (see section 4.4). The timing of restarting subcutaneous fondaparinux after sheath removal should be based on clinical judgment. In the pivotal STEMI clinical trial, treatment with fondaparinux was restarted no earlier than 3 hours after sheath removal.
 
-- Patients who are to undergo coronary artery bypass graft (CABG) surgery In STEMI or UA/NSTEMI patients who are to undergo coronary artery bypass graft (CABG) surgery, fondaparinux where possible, should not be given during the 24 hours before surgery and may be restarted 48 hours post-operatively .
+· Patients who are to undergo coronary artery bypass graft (CABG) surgery In STEMI or UA/NSTEMI patients who are to undergo coronary artery bypass graft (CABG) surgery, fondaparinux where possible, should not be given during the 24 hours before surgery and may be restarted 48 hours post-operatively .
 
 ## Treatment of superficial-vein thrombosis
 
 The recommended dose of fondaparinux is 2.5 mg once daily, administered by subcutaneous injection. Patients eligible for fondaparinux 2.5 mg treatment should have acute, symptomatic, isolated, spontaneous superficial-vein thrombosis of the lower limbs, at least 5 cm long and documented by ultrasonographic investigation or other objective methods. Treatment should be initiated as soon as possible following diagnosis and after exclusion of concomitant DVT or superficial-vein thrombosis within 3 cm from the sapheno-femoral junction. Treatment should be continued for a minimum of 30 days and up to a maximum of 45 days in patients at high risk of thromboembolic complications (see sections 4.4 and 5.1). Patients could be recommended to self-inject the product when they are judged willing and able to do so. Physicians should provide clear instructions for self-injection.
+
+## •
 
 - Patients who are to undergo surgery or other invasive procedures In superficial vein thrombosis patients who are to undergo surgery or other invasive procedures, fondaparinux, where possible, should not be given during the 24 hours before surgery. Fondaparinux may be restarted at least 6 hours post-operatively provided haemostasis has been achieved.
 
@@ -543,7 +541,9 @@ Paediatric population Fondaparinux is not recommended for use in children below 
 
 ## Method of administration
 
-· Subcutaneous administration Fondaparinux is administered by deep subcutaneous injection while the patient is lying down. Sites of administration should alternate between the left and the right anterolateral and left and right posterolateral abdominal wall. To avoid the loss of medicinal product when using the prefilled syringe do not expel the air bubble from the syringe before the injection. The whole length
+## •
+
+- Subcutaneous administration Fondaparinux is administered by deep subcutaneous injection while the patient is lying down. Sites of administration should alternate between the left and the right anterolateral and left and right posterolateral abdominal wall. To avoid the loss of medicinal product when using the prefilled syringe do not expel the air bubble from the syringe before the injection. The whole length
 
 <div style=\"page-break-after: always\"></div>
 
@@ -592,7 +592,7 @@ The safety and efficacy of fondaparinux 2.5 mg has not been studied in the follo
 
 ## Spinal / Epidural anaesthesia
 
-In patients undergoing major orthopaedic surgery, epidural or spinal haematomas that may result in long-term or permanent paralysis cannot be excluded with the concurrent use of fondaparinux and spinal/epidural anaesthesia or spinal puncture. The risk of these rare events may be higher with postoperative use of indwelling epidural catheters or the concomitant use of other medicinal products affecting haemostasis.
+In patients undergoing major orthopaedic surgery, epidural or spinal haematomas that may result in long-term or permanent paralysis cannot be excluded with the concurrent use of fondaparinux   and spinal/epidural anaesthesia or spinal puncture. The risk of these rare events may be higher with postoperative use of indwelling epidural catheters or the concomitant use of other medicinal products affecting haemostasis.
 
 ## Elderly patients
 
@@ -679,24 +679,24 @@ These adverse reactions should be interpreted within the surgical or medical con
 
 Adverse reactions are listed below by system organ class and frequency. Frequencies are defined as: very common (≥ 1/10), common (≥ 1/100, &lt;1/10), uncommon (≥ 1/1,000, &lt;1/100), rare (≥ 1/10,000, &lt;1/1,000), very rare (&lt;1/10,000).
 
-| System organ class MedDRA            | common (≥ 1/100, <1/10)                                                                                                                                                                                                 | uncommon (≥ 1/1,000, <1/100)                                                | rare (≥ 1/10,000, <1/1,000)                                                                         |
-|--------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------|
-| Infections and infestations          |                                                                                                                                                                                                                         |                                                                             | post-operative wound infections                                                                     |
-| Blood and lymphatic system disorders | anaemia, post-operative haemorrhage, utero- vaginal haemorrhage * , haemoptysis, haematuria, haematoma, gingival bleeding, purpura, epistaxis, gastrointestinal bleeding, hemarthrosis * , ocular bleeding * , bruise * | thrombocytopenia, thrombocythaemia, platelet abnormal, coagulation disorder | retroperitoneal bleeding * , hepatic, intracranial/ intracerebral bleeding *                        |
-| Immune system disorders              |                                                                                                                                                                                                                         |                                                                             | allergic reaction (including very rare reports of angioedema, anaphylactoid/ anaphylactic reaction) |
-| Metabolism and nutrition disorders   |                                                                                                                                                                                                                         |                                                                             | hypokalaemia, non- protein-nitrogen (Npn) increased 1*                                              |
+| System organ class MedDRA            | common (≥ 1/100, <1/10)                                                                                                                                                                                                | uncommon (≥ 1/1,000, <1/100)                                                | rare (≥ 1/10,000, <1/1,000)                                                                         |
+|--------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------|
+| Infections and infestations          |                                                                                                                                                                                                                        |                                                                             | post-operative wound infections                                                                     |
+| Blood and lymphatic system disorders | anaemia, post-operative haemorrhage, utero- vaginal haemorrhage * , haemoptysis,haematuria, haematoma, gingival bleeding, purpura, epistaxis, gastrointestinal bleeding, hemarthrosis * , ocular bleeding * , bruise * | thrombocytopenia, thrombocythaemia, platelet abnormal, coagulation disorder | retroperitoneal bleeding * , hepatic, intracranial/ intracerebral bleeding *                        |
+| Immune system disorders              |                                                                                                                                                                                                                        |                                                                             | allergic reaction (including very rare reports of angioedema, anaphylactoid/ anaphylactic reaction) |
+| Metabolism and nutrition disorders   |                                                                                                                                                                                                                        |                                                                             | hypokalaemia, non- protein-nitrogen (Npn) increased 1*                                              |
 
 <div style=\"page-break-after: always\"></div>
 
-| System organ class MedDRA                            | common (≥ 1/100, <1/10)   | uncommon (≥ 1/1,000, <1/100)                                        | rare (≥ 1/10,000, <1/1,000)                                                                   |
-|------------------------------------------------------|---------------------------|---------------------------------------------------------------------|-----------------------------------------------------------------------------------------------|
-| Nervous system disorders                             |                           | headache                                                            | anxiety, confusion, dizziness, somnolence, vertigo                                            |
-| Vascular disorders                                   |                           |                                                                     | hypotension                                                                                   |
-| Respiratory, thoracic and mediastinal disorders      |                           | dyspnoea                                                            | coughing                                                                                      |
-| Gastrointestinal disorders                           |                           | nausea, vomiting                                                    | abdominal pain, dyspepsia, gastritis, constipation, diarrhoea                                 |
-| Hepatobiliary disorders                              |                           | abnormal liver function tests, hepatic enzymes increased            | bilirubinaemia                                                                                |
-| Skin and subcutaneous tissue disorders               |                           | rash erythematous, pruritus                                         |                                                                                               |
-| General disorders and administration site conditions |                           | oedema, oedema peripheral, pain, fever, chest pain, wound secretion | reaction at injection site, leg pain, fatigue, flushing, syncope, hot flushes, oedema genital |
+| System organ class MedDRA                            | common (≥ 1/100, <1/10)   | uncommon (≥ 1/1,000, <1/100)                                        | rare (≥ 1/10,000, <1/1,000)                                                                 |
+|------------------------------------------------------|---------------------------|---------------------------------------------------------------------|---------------------------------------------------------------------------------------------|
+| Nervous system disorders                             |                           | headache                                                            | anxiety, confusion, dizziness, somnolence, vertigo                                          |
+| Vascular disorders                                   |                           |                                                                     | hypotension                                                                                 |
+| Respiratory, thoracic and mediastinal disorders      |                           | dyspnoea                                                            | coughing                                                                                    |
+| Gastrointestinal disorders                           |                           | nausea, vomiting                                                    | abdominal pain, dyspepsia, gastritis, constipation, diarrhoea                               |
+| Hepatobiliarydisorders                               |                           | abnormalliver function tests, hepatic enzymes increased             | bilirubinaemia                                                                              |
+| Skin and subcutaneous tissue disorders               |                           | rash erythematous, pruritus                                         |                                                                                             |
+| General disorders and administration site conditions |                           | oedema, oedema peripheral, pain, fever, chest pain, wound secretion | reaction at injection site, leg pain,fatigue,flushing, syncope, hot flushes, oedema genital |
 
 (1) Npn stands for non-protein-nitrogen such as urea, uric acid, amino acid, etc.
 
@@ -738,7 +738,7 @@ Fondaparinux does not usually cross-react with sera from patients with heparin-i
 
 ## Prevention of Venous Thromboembolic Events (VTE) in patients undergoing major orthopaedic surgery of the lower limbs treated up to 9 days
 
-The fondaparinux clinical program was designed to demonstrate the efficacy of fondaparinux for the prevention of venous thromboembolic events (VTE), i.e. proximal and distal deep vein thrombosis (DVT) and pulmonary embolism (PE) in patients undergoing major orthopaedic surgery of the lower limbs such as hip fracture, major knee surgery or hip replacement surgery. Over 8,000 patients (hip fracture - 1,711, hip replacement - 5,829, major knee surgery - 1,367) were studied in controlled Phase II and III clinical studies. Fondaparinux 2.5 mg once daily started 6-8 hours postoperatively was compared with enoxaparin 40 mg once daily started 12 hours before surgery, or 30 mg twice daily started 12-24 hours after surgery.
+The fondaparinux   clinical program was designed to demonstrate the efficacy of fondaparinux for the prevention of venous thromboembolic events (VTE), i.e. proximal and distal deep vein thrombosis (DVT) and pulmonary embolism (PE) in patients undergoing major orthopaedic surgery of the lower limbs such as hip fracture, major knee surgery or hip replacement surgery. Over 8,000 patients (hip fracture - 1,711, hip replacement - 5,829, major knee surgery - 1,367) were studied in controlled Phase II and III clinical studies. Fondaparinux 2.5 mg once daily started 6-8 hours postoperatively was compared with enoxaparin 40 mg once daily started 12 hours before surgery, or 30 mg twice daily started 12-24 hours after surgery.
 
 In a pooled analysis of these studies, the recommended dose regimen of fondaparinux versus enoxaparin was associated with a significant decrease (54% [95% CI, 44 %; 63%]) in the rate of VTE evaluated up to day 11 after surgery, irrespective of the type of surgery performed. The majority of endpoint events were diagnosed by a prescheduled venography and consisted mainly of distal DVT, but the incidence of proximal DVT was also significantly reduced. The incidence of symptomatic VTE, including PE was not significantly different between treatment groups.
 
@@ -788,16 +788,17 @@ The baseline characteristics and duration of fondaparinux treatment were compara
 
 The primary outcome was a composite of peri-PCI (defined as time of randomisation up to 48 hours post-PCI) adjudicated major or minor bleeding, or major vascular access site complications.
 
-|                                                                                       | Incidence             | Incidence                  | Odds Ratio 1      | p-    |
-|---------------------------------------------------------------------------------------|-----------------------|----------------------------|-------------------|-------|
-| Outcomes                                                                              | Low Dose UFH N = 1024 | Standard Dose UFH N = 1002 | (95%CI)           | value |
-| Primary Peri-PCI major or minor bleeding, or major vascular access site complications | 4.7%                  | 5.8%                       | 0.80 (0.54, 1.19) | 0.267 |
-| Secondary                                                                             |                       |                            |                   |       |
-| Peri-PCI major bleeding                                                               | 1.4%                  | 1.2%                       | 1.14 (0.53, 2.49) | 0.734 |
-| Peri-PCI minor bleeding                                                               | 0.7%                  | 1.7%                       | 0.40 (0.16, 0.97) | 0.042 |
-| Major vascular access site complications                                              | 3.2%                  | 4.3%                       | 0.74 (0.47, 1.18) | 0.207 |
-| Peri-PCI major bleeding or death, MI or TVR at Day 30                                 | 5.8%                  | 3.9%                       | 1.51 (1.0, 2.28)  | 0.051 |
-| Death, MI or TVR at Day 30                                                            | 4.5%                  | 2.9%                       | 1.58 (0.98, 2.53) | 0.059 |
+|                                                                                    | Incidence           | Incidence               | Odds Ratio 1 (95%CI)   | p-    |
+|------------------------------------------------------------------------------------|---------------------|-------------------------|------------------------|-------|
+| Outcomes                                                                           | Low Dose UFH N=1024 | Standard DoseUFH N=1002 |                        | value |
+| Primary Peri-PCI majororminorbleeding, or major vascular access site complications | 4.7%                | 5.8%                    | 0.80 (0.54, 1.19)      | 0.267 |
+| Secondary Peri-PCI major bleeding                                                  | 1.4%                | 1.2%                    | 1.14 (0.53, 2.49)      | 0.734 |
+| Peri-PCI minor bleeding                                                            | 0.7%                | 1.7%                    | 0.40 (0.16, 0.97)      | 0.042 |
+| Major vascular access site complications                                           | 3.2%                | 4.3%                    | 0.74 (0.47, 1.18)      | 0.207 |
+| Peri-PCI majorbleedingordeath, MI orTVR at Day 30                                  | 5.8%                | 3.9%                    | 1.51 (1.0, 2.28)       | 0.051 |
+| Death, MI orTVR at Day 30                                                          | 4.5%                | 2.9%                    | 1.58 (0.98, 2.53)      | 0.059 |
+
+1: Odds ratio: Low Dose/Standard Dose
 
 Note: MI - myocardial infarction. TVR - target vessel revascularization
 
@@ -843,11 +844,11 @@ Major bleeding during treatment occurred in 1 (0.1%) fondaparinux patient and in
 
 ## Absorption
 
-After subcutaneous dosing, fondaparinux is completely and rapidly absorbed (absolute bioavailability 100%). Following a single subcutaneous injection of fondaparinux 2.5 mg to young healthy subjects, peak plasma concentration (mean Cmax = 0.34 mg/l) is obtained 2 hours post-dosing. Plasma concentrations of half the mean Cmax values are reached 25 minutes post-dosing.
+After subcutaneous dosing, fondaparinux is completely and rapidly absorbed (absolute bioavailability 100%). Following a single subcutaneous injection of fondaparinux   2.5 mg to young healthy subjects, peak plasma concentration (mean Cmax = 0.34 mg/l) is obtained 2 hours post-dosing. Plasma concentrations of half the mean Cmax values are reached 25 minutes post-dosing.
 
 In elderly healthy subjects, pharmacokinetics of fondaparinux are linear in the range of 2 to 8 mg by subcutaneous route. Following once daily subcutaneous dosing, steady state of plasma levels is obtained after 3 to 4 days with a 1.3-fold increase in Cmax and AUC.
 
-Mean (CV%) steady state pharmacokinetic parameters estimates of fondaparinux in patients undergoing hip replacement surgery receiving fondaparinux 2.5 mg once daily are: Cmax (mg/l) - 0.39 (31%), Tmax (h) - 2.8 (18%) and Cmin (mg/l) -0.14 (56%). In hip fracture patients, associated with their increased age, fondaparinux steady state plasma concentrations are: Cmax (mg/l) - 0.50 (32%), Cmin (mg/l) - 0.19 (58%).
+Mean (CV%) steady state pharmacokinetic parameters estimates of fondaparinux in patients undergoing hip replacement surgery receiving fondaparinux   2.5 mg once daily are: Cmax (mg/l) - 0.39 (31%), Tmax (h) - 2.8 (18%) and Cmin (mg/l) -0.14 (56%). In hip fracture patients, associated with their increased age, fondaparinux steady state plasma concentrations are: Cmax (mg/l) - 0.50 (32%), Cmin (mg/l) - 0.19 (58%).
 
 <div style=\"page-break-after: always\"></div>
 
@@ -934,7 +935,7 @@ The needle protection system of the Arixtra pre-filled syringes have been design
 
 <div style=\"page-break-after: always\"></div>
 
-Any  unused  medicinal  product  or  waste  material  should  be  disposed  of  in  accordance  with  local requirements.
+Any  unused  medicinal  product or  waste  material should  be  disposed  of  in accordance  with local requirements.
 
 ## 7. MARKETING AUTHORISATION HOLDER
 
@@ -950,7 +951,7 @@ EU/1/02/206/001-004 EU/1/02/206/021 EU/1/02/206/022 EU/1/02/206/023
 
 Date of first authorisation: 21 March 2002
 
-Date of latest renewal: 21 March 2007
+Date of latest renewal: 20 April 2007
 
 ## 10. DATE OF REVISION OF THE TEXT
 
@@ -986,7 +987,7 @@ Treatment of adults with acute Deep Vein Thrombosis (DVT) and treatment of acute
 
 ## 4.2 Posology and method of administration
 
-Posology
+## Posology
 
 The recommended dose of fondaparinux is 7.5 mg (patients with body weight  50,  100kg) once daily administered by subcutaneous injection. For patients with body weight &lt; 50 kg, the recommended dose is 5 mg. For patients with body weight &gt; 100 kg, the recommended dose is 10 mg.
 
@@ -1006,7 +1007,7 @@ Fondaparinux should not be used in patients with severe renal impairment (creati
 
 Hepatic impairment - No dosing adjustment is necessary in patients with either mild or moderate hepatic impairment. In patients with severe hepatic impairment, fondaparinux should be used with care as this patient group has not been studied (see sections 4.4 and 5.2).
 
-Paediatric population Fondaparinux is not recommended for use in children below 17 years of age due to a lack of data on safety and efficacy (see sections 5.1 and 5.2).
+Paediatric population Fondaparinux is not recommended for use in children below 17 years of age due to limited data on safety and efficacy (see sections 5.1 and 5.2).
 
 ## Method of administration
 
@@ -1119,29 +1120,41 @@ Adverse reactions are listed below by system organ class and frequency. Frequenc
 
 <div style=\"page-break-after: always\"></div>
 
-| System organ class MedDRA                            | common (≥ 1/100, <1/10)                                                                                                                                                                                                 | uncommon (≥ 1/1,000, <1/100)                                                | rare (≥ 1/10,000, <1/1,000)                                                                         |
-|------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------|
-| Infections and infestations                          |                                                                                                                                                                                                                         |                                                                             | post-operative wound infections                                                                     |
-| Blood and lymphatic system disorders                 | anaemia, post-operative haemorrhage, utero- vaginal haemorrhage * , haemoptysis, haematuria, haematoma, gingival bleeding, purpura, epistaxis, gastrointestinal bleeding, hemarthrosis * , ocular bleeding * , bruise * | thrombocytopenia, thrombocythaemia, platelet abnormal, coagulation disorder | retroperitoneal bleeding * , hepatic, intracranial/ intracerebral bleeding *                        |
-| Immune system disorders                              |                                                                                                                                                                                                                         |                                                                             | allergic reaction (including very rare reports of angioedema, anaphylactoid/ anaphylactic reaction) |
-| Metabolism and nutrition disorders                   |                                                                                                                                                                                                                         |                                                                             | hypokalaemia, non- protein-nitrogen (Npn) increased 1*                                              |
-| Nervous system disorders                             |                                                                                                                                                                                                                         | headache                                                                    | anxiety, confusion, dizziness, somnolence, vertigo                                                  |
-| Vascular disorders                                   |                                                                                                                                                                                                                         |                                                                             | hypotension                                                                                         |
-| Respiratory, thoracic and mediastinal disorders      |                                                                                                                                                                                                                         | dyspnoea                                                                    | coughing                                                                                            |
-| Gastrointestinal disorders                           |                                                                                                                                                                                                                         | nausea, vomiting                                                            | abdominal pain, dyspepsia, gastritis, constipation, diarrhoea                                       |
-| Hepatobiliary disorders                              |                                                                                                                                                                                                                         | abnormal liver function tests, hepatic enzymes increased                    | bilirubinaemia                                                                                      |
-| Skin and subcutaneous tissue disorders               |                                                                                                                                                                                                                         | rash erythematous, pruritus                                                 |                                                                                                     |
-| General disorders and administration site conditions |                                                                                                                                                                                                                         | oedema, oedema peripheral, pain, fever, chest pain, wound secretion         | reaction at injection site, leg pain, fatigue, flushing, syncope, hot flushes, oedema genital       |
+| System organ class MedDRA                            | common (≥ 1/100, <1/10)                                                                                                                                                                                                | uncommon (≥ 1/1,000, <1/100)                                                | rare (≥ 1/10,000, <1/1,000)                                                                         |
+|------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------|
+| Infections and infestations                          |                                                                                                                                                                                                                        |                                                                             | post-operative wound infections                                                                     |
+| Blood and lymphatic system disorders                 | anaemia, post-operative haemorrhage, utero- vaginal haemorrhage * , haemoptysis,haematuria, haematoma, gingival bleeding, purpura, epistaxis, gastrointestinal bleeding, hemarthrosis * , ocular bleeding * , bruise * | thrombocytopenia, thrombocythaemia, platelet abnormal, coagulation disorder | retroperitoneal bleeding * , hepatic, intracranial/ intracerebral bleeding *                        |
+| Immune system disorders                              |                                                                                                                                                                                                                        |                                                                             | allergic reaction (including very rare reports of angioedema, anaphylactoid/ anaphylactic reaction) |
+| Metabolism and nutrition disorders                   |                                                                                                                                                                                                                        |                                                                             | hypokalaemia, non- protein-nitrogen (Npn) increased 1*                                              |
+| Nervous system disorders                             |                                                                                                                                                                                                                        | headache                                                                    | anxiety, confusion, dizziness, somnolence, vertigo                                                  |
+| Vascular disorders                                   |                                                                                                                                                                                                                        |                                                                             | hypotension                                                                                         |
+| Respiratory, thoracic and mediastinal disorders      |                                                                                                                                                                                                                        | dyspnoea                                                                    | coughing                                                                                            |
+| Gastrointestinal disorders                           |                                                                                                                                                                                                                        | nausea, vomiting                                                            | abdominal pain, dyspepsia, gastritis, constipation, diarrhoea                                       |
+| Hepatobiliarydisorders                               |                                                                                                                                                                                                                        | abnormalliver function tests, hepatic enzymes increased                     | bilirubinaemia                                                                                      |
+| Skin and subcutaneous tissue disorders               |                                                                                                                                                                                                                        | rash erythematous, pruritus                                                 |                                                                                                     |
+| General disorders and administration site conditions |                                                                                                                                                                                                                        | oedema, oedema peripheral, pain, fever, chest pain, wound secretion         | reaction at injection site, leg pain,fatigue,flushing, syncope, hot flushes, oedema genital         |
 
 (1) Npn stands for non-protein-nitrogen such as urea, uric acid, amino acid, etc.
 
 * ADRs occurred at higher doses 5 mg/0.4 ml, 7.5 mg/0.6 ml and 10 mg/0.8 ml.
 
+## Paediatric population
+
+The safety of fondaparinux in paediatric patients has not been established. In an open-label, single-arm retrospective, non-randomized, single-centre clinical study with 366 paediatric VTE patients treated with fondaparinux, the safety profile was as follows:
+
+Major bleeding events as per ISTH definition (n=7; 1.9%): 1 patient (0.3%) had clinically overt bleeding, 3 patients (0.8%) had major bleeding, and 3 patients (0.8%) had major bleeding that required surgical intervention. Major bleeding events resulted in the interruption of fondaparinux treatment for 4 patients and the discontinuation of fondaparinux for 3 patients.
+
+<div style=\"page-break-after: always\"></div>
+
+In addition, 8 patients (2.2%) had overt bleeding for which a blood product was administered, and which was not directly attributable to the patient's underlying medical condition and 4 patients (1.1%) had bleeding that required medical or surgical intervention. All these events warranted either interruption or withdrawal of fondaparinux treatment except for 1 patient for whom the action taken with fondaparinux was not reported.
+
+An additional 65 patients (17.8%) reported other overt bleeding events or menstrual bleeding resulting in a medical consultation and/or intervention.
+
+The following adverse events of special interest were noted (n=189, 51.6%): anaemia (27%), thrombocytopenia (18%), allergic reactions (1%) and hypokalaemia (14%).
+
 ## Reporting of suspected adverse reactions
 
 Reporting suspected adverse reactions after authorisation of the medicinal product is important. It allows continued monitoring of the benefit/risk balance of the medicinal product. Healthcare professionals are asked to report any suspected adverse reactions via the national reporting system listed in Appendix V.
-
-<div style=\"page-break-after: always\"></div>
 
 ## 4.9 Overdose
 
@@ -1163,6 +1176,8 @@ At the doses used for treatment, fondaparinux does not , to a clinically relevan
 
 Fondaparinux does not usually cross-react with sera from patients with heparin-induced thrombocytopaenia (HIT). However, rare spontaneous reports of HIT in patients treated with fondaparinux have been received.
 
+<div style=\"page-break-after: always\"></div>
+
 ## Clinical studies
 
 The fondaparinux clinical program in treatment of Venous Thromboembolism was designed to demonstrate the efficacy of fondaparinux for the treatment of deep vein thrombosis (DVT) and pulmonary embolism (PE). Over 4,874 patients were studied in controlled Phase II and III clinical studies.
@@ -1170,8 +1185,6 @@ The fondaparinux clinical program in treatment of Venous Thromboembolism was des
 ## Treatment of Deep Venous Thrombosis
 
 In a randomised, double-blind, clinical trial in patients with a confirmed diagnosis of acute symptomatic DVT, fondaparinux 5 mg (body weight &lt; 50 kg), 7.5 mg (body weight  50 kg,  100 kg) or 10 mg (body weight &gt;100 kg) SC once daily was compared to enoxaparin sodium 1 mg/kg SC twice daily. A total of 2,192 patients were treated; for both groups, patients were treated for at least 5 days and up to 26 days (mean 7 days). Both treatment groups received Vitamin K antagonist therapy usually initiated within 72 hours after the first study drug administration and continued for 90 ± 7 days, with regular dose adjustments to achieve an INR of 2-3. The primary efficacy endpoint was the composite of confirmed symptomatic recurrent non-fatal VTE and fatal VTE reported up to Day 97. Treatment with fondaparinux was demonstrated to be non-inferior to enoxaparin (VTE rates 3.9% and 4.1%, respectively).
-
-<div style=\"page-break-after: always\"></div>
 
 Major bleeding during the initial treatment period was observed in 1.1% of fondaparinux patients, compared to 1.2% with enoxaparin.
 
@@ -1181,9 +1194,33 @@ A randomised, open-label, clinical trial was conducted in patients with acute sy
 
 Major bleeding during the initial treatment period was observed in 1.3% of fondaparinux patients, compared to 1.1% with unfractionated heparin.
 
-## A pilot dose-finding and pharmacokinetic study of fondaparinux in children with deep vein thrombosis
+## Treatment of Venous Thromboembolism (VTE) in Paediatric Patients
 
-In an open-label study, 24 paediatric patients (n=10, age 1 to ≤ 5 years weight range 8-20 kg; n=7, age 6 to ≤ 12 years weight range 17-47 kg and n=7 age 13 to ≤ 18 years weight range 47-130 kg) diagnosed with venous thrombosis at study entry were administered fondaparinux. The majority of patients were Hispanic (67%) and 58% were male. Fondaparinux was administered at an initial dose of 0.1 mg/kg subcutaneously once daily and dosing was adjusted to achieve peak fondaparinux sodium concentrations of 0.5 to 1 mg/L after 4 hours. The median duration of treatment in this study was 3.5 days. The majority of patients (88%) achieved target fondaparinux concentrations at 4 hours after the first dose of fondaparinux. Two patients had reports of bleeding during the study. One experienced hypertensive encephalopathy accompanied by intracranial bleeding on day 5 of therapy resulting in fondaparinux discontinuation. Minor gastrointestinal bleeding was reported in another patient on day 5 of therapy which resulted in temporary discontinuation of fondaparinux. No conclusion can be drawn with regard to clinical efficacy in this uncontrolled study.
+Safety and effectiveness of fondaparinux in paediatric patients have not been established in prospective randomized clinical studies (see section 4.2).
+
+In an open-label, single-arm, retrospective, non-randomised, single center clinical study, 366 paediatric patients were consecutively treated with fondaparinux. Out of these 366 patients, 313 patients with diagnosis of VTE were included in efficacy analysis set of which 221 patients reported use of fondaparinux for &gt; 14 days and other anticoagulants for &lt; 33% of the overall fondaparinux treatment duration. The most common type of VTE was catheter-related thrombosis (N=179, 48.9%); 86 patients had lower extremity thromboses, 22 patients had cerebral sinus thromboses and 9 patients had pulmonary embolism. Patients were started on fondaparinux 0.1 mg/kg once daily with doses rounded to the nearest prefilled syringe (2.5 mg, 5 mg, or 7.5 mg) for patients weighing over 20 kg. For patients weighing 10-20 kg, dosing was based on body weight without rounding to the nearest prefilled syringe. Fondaparinux levels were monitored after the second or third dose until therapeutic levels were achieved. Fondaparinux levels were then monitored weekly initially
+
+<div style=\"page-break-after: always\"></div>
+
+and every 1-3 months while outpatient. Dosing adjustments were made to achieve peak fondaparinux blood concentration within the therapeutic target of 0.5-1.0 mg/L. The maximum dose was not to exceed 7.5 mg/day.
+
+Patients received an initial median dose of approximately 0.1 mg/kg body weight, which translates into a median dose of 1.37 mg in the &lt;20 kg weight group, 2.5 mg in the 20 to &lt;40 kg weight group, 5 mg in the 40 to &lt;60 kg, and 7.5 mg in the ≥60 kg weight group. Based on median values, it took approximately 3 days to achieve therapeutic levels across all age groups (see section 5.2). In the study, the median duration of fondaparinux treatment was 85.0 days (range 1 to 3,768 days).
+
+The primary efficacy was based on measuring the proportion of paediatric patients with complete clot resolution up to 3 months (± 15 days). Summaries of complete clot resolution of patients' main VTEs at month 3 are provided by age group and weight group in table 1 and 2.
+
+Table 1. Summary of complete clot resolution of main VTEs up to month 3 by age group
+
+| Parameter                                       | <2 years (N=30) n (%)   | ≥2 to <6 years (N=61) n (%)   | ≥6 to <12 years (N=72) n (%) ≥12 to   | <18 years (N=150) n (%)   |
+|-------------------------------------------------|-------------------------|-------------------------------|---------------------------------------|---------------------------|
+| Complete Resolution of At Least One Clot, n (%) | 14 (46.7)               | 26 (42.6)                     | 38 (52.8)                             | 65 (43.3)                 |
+| Complete Resolution of All Clots, n (%)         | 14 (46.7)               | 25 (41.0)                     | 37 (51.4)                             | 64 (42.7)                 |
+
+Table 2. Summary of complete clot resolution of main VTEs up to month 3 by weight group
+
+| Parameter                                       | <20 kg (N=91) n (%)   | 20 to <40 kg (N=78) n (%)   | 40 to <60 kg (N=70) n (%)   | ≥60 kg (N=73) n (%)   |
+|-------------------------------------------------|-----------------------|-----------------------------|-----------------------------|-----------------------|
+| Complete Resolution of At Least One Clot, n (%) | 42 (46.2)             | 42 (53.8)                   | 30 (42.9)                   | 28 (38.4)             |
+| Complete Resolution of All Clots, n (%)         | 41 (45.1)             | 42 (53.8)                   | 29 (41.4)                   | 27 (37.0)             |
 
 ## 5.2 Pharmacokinetic properties
 
@@ -1191,15 +1228,13 @@ The pharmacokinetics of fondaparinux sodium are derived from fondaparinux plasma
 
 ## Absorption
 
-After subcutaneous dosing, fondaparinux is completely and rapidly absorbed (absolute bioavailability 100%). Following a single subcutaneous injection of fondaparinux 2.5 mg to young healthy subjects, peak plasma concentration (mean Cmax = 0.34 mg/l) is obtained 2 hours post-dosing. Plasma concentrations of half the mean Cmax values are reached 25 minutes post-dosing.
+After subcutaneous dosing, fondaparinux is completely and rapidly absorbed (absolute bioavailability 100%). Following a single subcutaneous injection of fondaparinux   2.5 mg to young healthy subjects, peak plasma concentration (mean Cmax = 0.34 mg/l) is obtained 2 hours post-dosing. Plasma concentrations of half the mean Cmax values are reached 25 minutes post-dosing.
 
 In elderly healthy subjects, pharmacokinetics of fondaparinux is linear in the range of 2 to 8 mg by subcutaneous route. Following once daily dosing, steady state of plasma levels is obtained after 3 to 4 days with a 1.3-fold increase in Cmax and AUC.
 
-Mean (CV%) steady state pharmacokinetic parameters estimates of fondaparinux in patients undergoing hip replacement surgery receiving fondaparinux 2.5 mg once daily are: Cmax (mg/l) - 0.39
+Mean (CV%) steady state pharmacokinetic parameters estimates of fondaparinux in patients undergoing hip replacement surgery receiving fondaparinux   2.5 mg once daily are: Cmax (mg/l) - 0.39 (31%), Tmax (h) - 2.8 (18%) and Cmin (mg/l) -0.14 (56%). In hip fracture patients, associated with their increased age, fondaparinux steady state plasma concentrations are: Cmax (mg/l) - 0.50 (32%), Cmin (mg/l) - 0.19 (58%).
 
 <div style=\"page-break-after: always\"></div>
-
-(31%), Tmax (h) - 2.8 (18%) and Cmin (mg/l) -0.14 (56%). In hip fracture patients, associated with their increased age, fondaparinux steady state plasma concentrations are: Cmax (mg/l) - 0.50 (32%), Cmin (mg/l) - 0.19 (58%).
 
 In DVT and PE treatment, patients receiving fondaparinux 5 mg (body weight &lt;50 kg), 7.5 mg (body weight 50-100 kg inclusive) and 10 mg (body weight &gt;100 kg) once daily, the body weight-adjusted doses provide similar exposure across all body weight categories. The mean (CV%) steady state pharmacokinetic parameters estimates of fondaparinux in patients with VTE receiving the fondaparinux proposed dose regimen once daily are: Cmax (mg/l) - 1.41 (23 %), Tmax (h) - 2.4 (8%) and Cmin (mg/l) -0.52 (45 %). The associated 5th and 95th percentiles are, respectively, 0.97 and 1.92 for Cmax (mg/l), and 0.24 and 0.95 for Cmin (mg/l).
 
@@ -1221,21 +1256,31 @@ The elimination half-life (t½) is about 17 hours in healthy young subjects and 
 
 ## Special populations
 
-Paediatric patients - Limited data are available in paediatric patients (see section 5.1).
+Paediatric patients - Pharmacokinetic parameters of once-daily subcutaneous fondaparinux measured as anti-Factor Xa activity were characterized in study FDPX-IJS-7001, a retrospective study in paediatric patients. Approximately 60% of patients did not require any dose adjustment to reach a therapeutic blood concentration of fondaparinux (0.5-1.0 mg/L) during the course of their treatment; nearly 20% required one dose adjustment, 11% required two dose adjustments, and approximately 10% required more than two dose adjustments during the course of treatment to reach therapeutic concentrations of fondaparinux (see table 3).
+
+Table 3. Applied dose adjustments during study FDPX-IJS-7001
+
+| Fondaparinux-Based Anti-Xa Level (mg/L)   | Dose Adjustment             |
+|-------------------------------------------|-----------------------------|
+| <0.3                                      | Increase dose by 0.03 mg/kg |
+| 0.3-0.49                                  | Increase dose by 0.01 mg/kg |
+| 0.5-1                                     | No change                   |
+| 1.01-1.2                                  | Decrease dose by 0.01 mg/kg |
+| >1.2                                      | Decrease dose by 0.03 mg/kg |
+
+The pharmacokinetics of once-daily subcutaneous fondaparinux, measured as anti-Xa activity, was characterized in 24 pediatric patients with VTE. Pediatric population PK model was developed by combining pediatric PK data with data from adults. The population PK model predicted a C maxss and C minss achieved in pediatric patients were approximately equal to the C maxss and C minss achieved in adults suggesting that 0.1 mg/kg/day dosing regimen is appropriate. Additionally, the observed pediatric data fall within the 95% prediction interval of the adult data lending further evidence that 0.1 mg/kg/day is an appropriate dose in pediatric patients.
+
+<div style=\"page-break-after: always\"></div>
 
 Elderly patients - Renal function may decrease with age and thus, the elimination capacity for fondaparinux may be reduced in elderly. In patients &gt;75 years undergoing orthopaedic surgery and receiving fondaparinux 2.5 mg once daily, the estimated plasma clearance was 1.2 to 1.4 times lower than in patients &lt;65 years. A similar pattern is observed in DVT and PE treatment patients.
 
-Renal impairment - Compared with patients with normal renal function (creatinine clearance &gt; 80 ml/min) undergoing orthopaedic surgery and receiving fondaparinux 2.5 mg once daily, plasma clearance is 1.2 to 1.4 times lower in patients with mild renal impairment (creatinine clearance 50 to 80 ml/min) and on average 2 times lower in patients with moderate renal impairment (creatinine clearance 30 to 50 ml/min). In severe renal impairment (creatinine clearance &lt;30 ml/min), plasma clearance is approximately 5 times lower than in normal renal function. Associated terminal half-life values were 29 h in moderate and 72 h in patients with severe renal impairment. A similar pattern is observed in DVT and PE treatment patients.
+Renal impairment - Compared with patients with normal renal function (creatinine clearance &gt; 80 ml/min) undergoing orthopaedic surgery and receiving fondaparinux   2.5 mg once daily, plasma clearance is 1.2 to 1.4 times lower in patients with mild renal impairment (creatinine clearance 50 to 80 ml/min) and on average 2 times lower in patients with moderate renal impairment (creatinine clearance 30 to 50 ml/min). In severe renal impairment (creatinine clearance &lt;30 ml/min), plasma clearance is approximately 5 times lower than in normal renal function. Associated terminal half-life values were 29 h in moderate and 72 h in patients with severe renal impairment. A similar pattern is observed in DVT and PE treatment patients.
 
 Body weight -Plasma clearance of fondaparinux increases with body weight (9% increase per 10 kg).
 
 Gender - No gender differences were observed after adjustment for body weight.
 
-Race - Pharmacokinetic differences due to race have not been studied prospectively. However, studies performed in Asian (Japanese) healthy subjects did not reveal a different pharmacokinetic profile
-
-<div style=\"page-break-after: always\"></div>
-
-compared to Caucasian healthy subjects. Similarly, no plasma clearance differences were observed between black and Caucasian patients undergoing orthopaedic surgery.
+Race - Pharmacokinetic differences due to race have not been studied prospectively. However, studies performed in Asian (Japanese) healthy subjects did not reveal a different pharmacokinetic profile compared to Caucasian healthy subjects. Similarly, no plasma clearance differences were observed between black and Caucasian patients undergoing orthopaedic surgery.
 
 Hepatic impairment Following a single, subcutaneous dose of fondaparinux in subjects with moderate hepatic impairment (Child-Pugh Category B), total (i.e., bound and unbound) Cmax and AUC were decreased by 22% and 39%, respectively, as compared to subjects with normal liver function. The lower plasma concentrations of fondaparinux were attributed to reduced binding to ATIII secondary to the lower ATIII plasma concentrations in subjects with hepatic impairment thereby resulting in increased renal clearance of fondaparinux. Consequently, unbound concentrations of fondaparinux are expected to be unchanged in patients with mild to moderate hepatic impairment, and therefore, no dose adjustment is necessary based on pharmacokinetics.
 
@@ -1254,6 +1299,8 @@ Sodium chloride Water for injections Hydrochloric acid Sodium hydroxide
 ## 6.2 Incompatibilities
 
 In the absence of compatibility studies, this medicinal product must not be mixed with other medicinal products.
+
+<div style=\"page-break-after: always\"></div>
 
 ## 6.3 Shelf life
 
@@ -1274,11 +1321,7 @@ Arixtra 5 mg/0.4 ml is available in pack sizes of 2, 7, 10 and 20 pre-filled syr
 
 Not all pack sizes may be marketed.
 
-<div style=\"page-break-after: always\"></div>
-
-6.6
-
-Special precautions for disposal and other handling
+## 6.6 Special precautions for disposal and other handling
 
 The subcutaneous injection is administered in the same way as with a classical syringe.
 
@@ -1292,19 +1335,9 @@ Any unused medicinal product or waste material should be disposed of in accordan
 
 This medicinal product is for single use only.
 
-7.
+## 7. MARKETING AUTHORISATION HOLDER
 
-MARKETING AUTHORISATION HOLDER
-
-Viatris Healthcare Limited
-
-Damastown Industrial Park,
-
-Mulhuddart
-
-Dublin 15,
-
-DUBLIN
+Viatris Healthcare Limited Damastown Industrial Park, Mulhuddart Dublin 15, DUBLIN
 
 Ireland
 
@@ -1322,17 +1355,11 @@ EU/1/02/206/033
 
 Date of first authorisation: 21 March 2002
 
-Date of latest renewal: 21 March 2007
+<div style=\"page-break-after: always\"></div>
 
-10.
+## 10. DATE OF REVISION OF THE TEXT
 
-DATE OF REVISION OF THE TEXT
-
-Detailed information on this medicinal product is available on the website of the European Medicines
-
-Agency http://www.ema.europa.eu
-
-39
+Detailed information on this medicinal product is available on the website of the European Medicines Agency http://www.ema.europa.eu
 
 <div style=\"page-break-after: always\"></div>
 
@@ -1348,7 +1375,7 @@ For the full list of excipients, see section 6.1.
 
 ## 3. PHARMACEUTICAL FORM
 
-Solution for injection.
+## Solution for injection.
 
 The solution is a clear and colourless to slightly yellow liquid.
 
@@ -1380,7 +1407,7 @@ Fondaparinux should not be used in patients with severe renal impairment (creati
 
 Hepatic impairment - No dosing adjustment is necessary in patients with either mild or moderate hepatic impairment. In patients with severe hepatic impairment, fondaparinux should be used with care as this patient group has not been studied (see sections 4.4 and 5.2).
 
-Paediatric population Fondaparinux is not recommended for use in children below 17 years of age due to a lack of data on safety and efficacy (see sections 5.1 and 5.2).
+Paediatric population Fondaparinux is not recommended for use in children below 17 years of age due to limited data on safety and efficacy (see sections 5.1 and 5.2).
 
 ## Method of administration
 
@@ -1493,29 +1520,41 @@ Adverse reactions are listed below by system organ class and frequency. Frequenc
 
 <div style=\"page-break-after: always\"></div>
 
-| System organ class MedDRA                            | common (≥ 1/100, <1/10)                                                                                                                                                                                                 | uncommon (≥ 1/1,000, <1/100)                                                | rare (≥ 1/10,000, <1/1,000)                                                                         |
-|------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------|
-| Infections and infestations                          |                                                                                                                                                                                                                         |                                                                             | post-operative wound infections                                                                     |
-| Blood and lymphatic system disorders                 | anaemia, post-operative haemorrhage, utero- vaginal haemorrhage * , haemoptysis, haematuria, haematoma, gingival bleeding, purpura, epistaxis, gastrointestinal bleeding, hemarthrosis * , ocular bleeding * , bruise * | thrombocytopenia, thrombocythaemia, platelet abnormal, coagulation disorder | retroperitoneal bleeding * , hepatic, intracranial/ intracerebral bleeding *                        |
-| Immune system disorders                              |                                                                                                                                                                                                                         |                                                                             | allergic reaction (including very rare reports of angioedema, anaphylactoid/ anaphylactic reaction) |
-| Metabolism and nutrition disorders                   |                                                                                                                                                                                                                         |                                                                             | hypokalaemia, non- protein-nitrogen (Npn) increased 1*                                              |
-| Nervous system disorders                             |                                                                                                                                                                                                                         | headache                                                                    | anxiety, confusion, dizziness, somnolence, vertigo                                                  |
-| Vascular disorders                                   |                                                                                                                                                                                                                         |                                                                             | hypotension                                                                                         |
-| Respiratory, thoracic and mediastinal disorders      |                                                                                                                                                                                                                         | dyspnoea                                                                    | coughing                                                                                            |
-| Gastrointestinal disorders                           |                                                                                                                                                                                                                         | nausea, vomiting                                                            | abdominal pain, dyspepsia, gastritis, constipation, diarrhoea                                       |
-| Hepatobiliary disorders                              |                                                                                                                                                                                                                         | abnormal liver function tests, hepatic enzymes increased                    | bilirubinaemia                                                                                      |
-| Skin and subcutaneous tissue disorders               |                                                                                                                                                                                                                         | rash erythematous, pruritus                                                 |                                                                                                     |
-| General disorders and administration site conditions |                                                                                                                                                                                                                         | oedema, oedema peripheral, pain, fever, chest pain, wound secretion         | reaction at injection site, leg pain, fatigue, flushing, syncope, hot flushes, oedema genital       |
+| System organ class MedDRA                            | common (≥ 1/100, <1/10)                                                                                                                                                                                                | uncommon (≥ 1/1,000, <1/100)                                                | rare (≥ 1/10,000, <1/1,000)                                                                         |
+|------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------|
+| Infections and infestations                          |                                                                                                                                                                                                                        |                                                                             | post-operative wound infections                                                                     |
+| Blood and lymphatic system disorders                 | anaemia, post-operative haemorrhage, utero- vaginal haemorrhage * , haemoptysis,haematuria, haematoma, gingival bleeding, purpura, epistaxis, gastrointestinal bleeding, hemarthrosis * , ocular bleeding * , bruise * | thrombocytopenia, thrombocythaemia, platelet abnormal, coagulation disorder | retroperitoneal bleeding * , hepatic, intracranial/ intracerebral bleeding *                        |
+| Immune system disorders                              |                                                                                                                                                                                                                        |                                                                             | allergic reaction (including very rare reports of angioedema, anaphylactoid/ anaphylactic reaction) |
+| Metabolism and nutrition disorders                   |                                                                                                                                                                                                                        |                                                                             | hypokalaemia, non- protein-nitrogen (Npn) increased 1*                                              |
+| Nervous system disorders                             |                                                                                                                                                                                                                        | headache                                                                    | anxiety, confusion, dizziness, somnolence, vertigo                                                  |
+| Vascular disorders                                   |                                                                                                                                                                                                                        |                                                                             | hypotension                                                                                         |
+| Respiratory, thoracic and mediastinal disorders      |                                                                                                                                                                                                                        | dyspnoea                                                                    | coughing                                                                                            |
+| Gastrointestinal disorders                           |                                                                                                                                                                                                                        | nausea, vomiting                                                            | abdominal pain, dyspepsia, gastritis, constipation, diarrhoea                                       |
+| Hepatobiliarydisorders                               |                                                                                                                                                                                                                        | abnormalliver function tests, hepatic enzymes increased                     | bilirubinaemia                                                                                      |
+| Skin and subcutaneous tissue disorders               |                                                                                                                                                                                                                        | rash erythematous, pruritus                                                 |                                                                                                     |
+| General disorders and administration site conditions |                                                                                                                                                                                                                        | oedema, oedema peripheral, pain, fever, chest pain, wound secretion         | reaction at injection site, leg pain,fatigue,flushing, syncope, hot flushes, oedema genital         |
 
 (1) Npn stands for non-protein-nitrogen such as urea, uric acid, amino acid, etc.
 
 * ADRs occurred at higher doses 5 mg/0.4 ml, 7.5 mg/0.6 ml and 10 mg/0.8 ml.
 
+## Paediatric population
+
+The safety of fondaparinux in paediatric patients has not been established. In an open-label, single-arm retrospective, non-randomized, single-centre clinical study with 366 paediatric VTE patients treated with fondaparinux, the safety profile was as follows:
+
+Major bleeding events as per ISTH definition (n=7; 1.9%): 1 patient (0.3%) had clinically overt bleeding, 3 patients (0.8%) had major bleeding, and 3 patients (0.8%) had major bleeding that required surgical intervention. Major bleeding events resulted in the interruption of fondaparinux treatment for 4 patients and the discontinuation of fondaparinux for 3 patients.
+
+<div style=\"page-break-after: always\"></div>
+
+In addition, 8 patients (2.2%) had overt bleeding for which a blood product was administered, and which was not directly attributable to the patient's underlying medical condition and 4 patients (1.1%) had bleeding that required medical or surgical intervention. All these events warranted either interruption or withdrawal of fondaparinux treatment except for 1 patient for whom the action taken with fondaparinux was not reported.
+
+An additional 65 patients (17.8%) reported other overt bleeding events or menstrual bleeding resulting in a medical consultation and/or intervention.
+
+The following adverse events of special interest were noted (n=189, 51.6%): anaemia (27%), thrombocytopenia (18%), allergic reactions (1%) and hypokalaemia (14%).
+
 ## Reporting of suspected adverse reactions
 
 Reporting suspected adverse reactions after authorisation of the medicinal product is important. It allows continued monitoring of the benefit/risk balance of the medicinal product. Healthcare professionals are asked to report any suspected adverse reactions via the national reporting system listed in Appendix V.
-
-<div style=\"page-break-after: always\"></div>
 
 ## 4.9 Overdose
 
@@ -1539,13 +1578,13 @@ Fondaparinux does not usually cross-react with sera from patients with heparin-i
 
 ## Clinical studies
 
+<div style=\"page-break-after: always\"></div>
+
 The fondaparinux clinical program in treatment of Venous Thromboembolism was designed to demonstrate the efficacy of fondaparinux for the treatment of deep vein thrombosis (DVT) and pulmonary embolism (PE). Over 4,874 patients were studied in controlled Phase II and III clinical studies.
 
 ## Treatment of Deep Venous Thrombosis
 
 In a randomised, double-blind, clinical trial in patients with a confirmed diagnosis of acute symptomatic DVT, fondaparinux 5 mg (body weight &lt; 50 kg), 7.5 mg (body weight  50 kg,  100 kg) or 10 mg (body weight &gt;100 kg) SC once daily was compared to enoxaparin sodium 1 mg/kg SC twice daily. A total of 2,192 patients were treated; for both groups, patients were treated for at least 5 days and up to 26 days (mean 7 days). Both treatment groups received Vitamin K antagonist therapy usually initiated within 72 hours after the first study drug administration and continued for 90 ± 7 days, with regular dose adjustments to achieve an INR of 2-3. The primary efficacy endpoint was the composite of confirmed symptomatic recurrent non-fatal VTE and fatal VTE reported up to Day 97. Treatment with fondaparinux was demonstrated to be non-inferior to enoxaparin (VTE rates 3.9% and 4.1%, respectively).
-
-<div style=\"page-break-after: always\"></div>
 
 Major bleeding during the initial treatment period was observed in 1.1% of fondaparinux patients, compared to 1.2% with enoxaparin.
 
@@ -1555,9 +1594,33 @@ A randomised, open-label, clinical trial was conducted in patients with acute sy
 
 Major bleeding during the initial treatment period was observed in 1.3% of fondaparinux patients, compared to 1.1% with unfractionated heparin.
 
-## A pilot dose-finding and pharmacokinetic study of fondaparinux in children with deep vein thrombosis
+## Treatment of Venous Thromboembolism (VTE) in Paediatric Patients
 
-In an open-label study, 24 paediatric patients (n=10, age 1 to ≤ 5 years weight range 8-20 kg; n=7, age 6 to ≤ 12 years weight range 17-47 kg and n=7 age 13 to ≤ 18 years weight range 47-130 kg) diagnosed with venous thrombosis at study entry were administered fondaparinux. The majority of patients were Hispanic (67%) and 58% were male. Fondaparinux was administered at an initial dose of 0.1 mg/kg subcutaneously once daily and dosing was adjusted to achieve peak fondaparinux sodium concentrations of 0.5 to 1 mg/L after 4 hours. The median duration of treatment in this study was 3.5 days. The majority of patients (88%) achieved target fondaparinux concentrations at 4 hours after the first dose of fondaparinux. Two patients had reports of bleeding during the study. One experienced hypertensive encephalopathy accompanied by intracranial bleeding on day 5 of therapy resulting in fondaparinux discontinuation. Minor gastrointestinal bleeding was reported in another patient on day 5 of therapy which resulted in temporary discontinuation of fondaparinux. No conclusion can be drawn with regard to clinical efficacy in this uncontrolled study.
+Safety and effectiveness of fondaparinux in paediatric patients have not been established in prospective randomized clinical studies (see section 4.2).
+
+In an open-label, single-arm, retrospective, non-randomised, single center clinical study, 366 paediatric patients were consecutively treated with fondaparinux. Out of these 366 patients, 313 patients with diagnosis of VTE were included in efficacy analysis set of which 221 patients reported use of fondaparinux for &gt; 14 days and other anticoagulants for &lt; 33% of the overall fondaparinux treatment duration. The most common type of VTE was catheter-related thrombosis (N=179, 48.9%); 86 patients had lower extremity thromboses, 22 patients had cerebral sinus thromboses and 9 patients had pulmonary embolism. Patients were started on fondaparinux 0.1 mg/kg once daily with doses rounded to the nearest prefilled syringe (2.5 mg, 5 mg, or 7.5 mg) for patients weighing over 20 kg. For patients weighing 10-20 kg, dosing was based on body weight without rounding to the nearest prefilled syringe. Fondaparinux levels were monitored after the second or third dose until therapeutic levels were achieved. Fondaparinux levels were then monitored weekly initially and every 1-3 months while outpatient. Dosing adjustments were made to achieve peak fondaparinux
+
+<div style=\"page-break-after: always\"></div>
+
+blood concentration within the therapeutic target of 0.5-1.0 mg/L. The maximum dose was not to exceed 7.5 mg/day.
+
+Patients received an initial median dose of approximately 0.1 mg/kg body weight, which translates into a median dose of 1.37 mg in the &lt;20 kg weight group, 2.5 mg in the 20 to &lt;40 kg weight group, 5 mg in the 40 to &lt;60 kg, and 7.5 mg in the ≥60 kg weight group. Based on median values, it took approximately 3 days to achieve therapeutic levels across all age groups (see section 5.2). In the study, the median duration of fondaparinux treatment was 85.0 days (range 1 to 3,768 days).
+
+The primary efficacy was based on measuring the proportion of paediatric patients with complete clot resolution up to 3 months (± 15 days). Summaries of complete clot resolution of patients' main VTEs at month 3 are provided by age group and weight group in table 1 and 2.
+
+Table 1. Summary of complete clot resolution of main VTEs up to month 3 by age group
+
+| Parameter                                       | <2 years (N=30) n (%)   | ≥2 to <6 years (N=61) n (%)   | ≥6 to <12 years (N=72) n (%) ≥12 to n   | <18 years (N=150) (%)   |
+|-------------------------------------------------|-------------------------|-------------------------------|-----------------------------------------|-------------------------|
+| Complete Resolution of At Least One Clot, n (%) | 14 (46.7)               | 26 (42.6)                     | 38 (52.8)                               | 65 (43.3)               |
+| Complete Resolution of All Clots, n (%)         | 14 (46.7)               | 25 (41.0)                     | 37 (51.4)                               | 64 (42.7)               |
+
+Table 2. Summary of complete clot resolution of main VTEs up to month 3 by weight group
+
+| Parameter                                       | <20 kg (N=91) n (%)   | 20 to <40 kg (N=78) n (%)   | 40 to <60 kg (N=70) n (%)   | ≥60 kg (N=73) n (%)   |
+|-------------------------------------------------|-----------------------|-----------------------------|-----------------------------|-----------------------|
+| Complete Resolution of At Least One Clot, n (%) | 42 (46.2)             | 42 (53.8)                   | 30 (42.9)                   | 28 (38.4)             |
+| Complete Resolution of All Clots, n (%)         | 41 (45.1)             | 42 (53.8)                   | 29 (41.4)                   | 27 (37.0)             |
 
 ## 5.2 Pharmacokinetic properties
 
@@ -1565,15 +1628,13 @@ The pharmacokinetics of fondaparinux sodium are derived from fondaparinux plasma
 
 ## Absorption
 
-After subcutaneous dosing, fondaparinux is completely and rapidly absorbed (absolute bioavailability 100%). Following a single subcutaneous injection of fondaparinux 2.5 mg to young healthy subjects, peak plasma concentration (mean Cmax = 0.34 mg/l) is obtained 2 hours post-dosing. Plasma concentrations of half the mean Cmax values are reached 25 minutes post-dosing.
+After subcutaneous dosing, fondaparinux is completely and rapidly absorbed (absolute bioavailability 100%). Following a single subcutaneous injection of fondaparinux   2.5 mg to young healthy subjects, peak plasma concentration (mean Cmax = 0.34 mg/l) is obtained 2 hours post-dosing. Plasma concentrations of half the mean Cmax values are reached 25 minutes post-dosing.
 
 In elderly healthy subjects, pharmacokinetics of fondaparinux is linear in the range of 2 to 8 mg by subcutaneous route. Following once daily dosing, steady state of plasma levels is obtained after 3 to 4 days with a 1.3-fold increase in Cmax and AUC.
 
-Mean (CV%) steady state pharmacokinetic parameters estimates of fondaparinux in patients undergoing hip replacement surgery receiving fondaparinux 2.5 mg once daily are: Cmax (mg/l) - 0.39
+Mean (CV%) steady state pharmacokinetic parameters estimates of fondaparinux in patients undergoing hip replacement surgery receiving fondaparinux   2.5 mg once daily are: Cmax (mg/l) - 0.39 (31%), Tmax (h) - 2.8 (18%) and Cmin (mg/l) -0.14 (56%). In hip fracture patients, associated with their increased age, fondaparinux steady state plasma concentrations are: Cmax (mg/l) - 0.50 (32%), Cmin (mg/l) - 0.19 (58%).
 
 <div style=\"page-break-after: always\"></div>
-
-(31%), Tmax (h) - 2.8 (18%) and Cmin (mg/l) -0.14 (56%). In hip fracture patients, associated with their increased age, fondaparinux steady state plasma concentrations are: Cmax (mg/l) - 0.50 (32%), Cmin (mg/l) - 0.19 (58%).
 
 In DVT and PE treatment, patients receiving fondaparinux 5 mg (body weight &lt;50 kg), 7.5 mg (body weight 50-100 kg inclusive) and 10 mg (body weight &gt;100 kg) once daily, the body weight-adjusted doses provide similar exposure across all body weight categories. The mean (CV%) steady state pharmacokinetic parameters estimates of fondaparinux in patients with VTE receiving the fondaparinux proposed dose regimen once daily are: Cmax (mg/l) - 1.41 (23 %), Tmax (h) - 2.4 (8%) and Cmin (mg/l) -0.52 (45 %). The associated 5th and 95th percentiles are, respectively, 0.97 and 1.92 for Cmax (mg/l), and 0.24 and 0.95 for Cmin (mg/l).
 
@@ -1595,21 +1656,31 @@ The elimination half-life (t½) is about 17 hours in healthy young subjects and 
 
 ## Special populations
 
-Paediatric patients - Limited data are available in paediatric patients (see section 5.1).
+Paediatric patients - Pharmacokinetic parameters of once-daily subcutaneous fondaparinux measured as anti-Factor Xa activity were characterized in study FDPX-IJS-7001, a retrospective study in paediatric patients. Approximately 60% of patients did not require any dose adjustment to reach a therapeutic blood concentration of fondaparinux (0.5-1.0 mg/L) during the course of their treatment; nearly 20% required one dose adjustment, 11% required two dose adjustments, and approximately 10% required more than two dose adjustments during the course of treatment to reach therapeutic concentrations of fondaparinux (see table 3).
+
+Table 3. Applied dose adjustments during study FDPX-IJS-7001
+
+| Fondaparinux-Based Anti-Xa Level (mg/L)   | Dose Adjustment             |
+|-------------------------------------------|-----------------------------|
+| <0.3                                      | Increase dose by 0.03 mg/kg |
+| 0.3-0.49                                  | Increase dose by 0.01 mg/kg |
+| 0.5-1                                     | No change                   |
+| 1.01-1.2                                  | Decrease dose by 0.01 mg/kg |
+| >1.2                                      | Decrease dose by 0.03 mg/kg |
+
+The pharmacokinetics of once-daily subcutaneous fondaparinux, measured as anti-Xa activity, was characterized in 24 pediatric patients with VTE. Pediatric population PK model was developed by combining pediatric PK data with data from adults. The population PK model predicted a C maxss and C minss achieved in pediatric patients were approximately equal to the C maxss and C minss achieved in adults suggesting that 0.1 mg/kg/day dosing regimen is appropriate. Additionally, the observed pediatric data fall within the 95% prediction interval of the adult data lending further evidence that 0.1 mg/kg/day is an appropriate dose in pediatric patients.
+
+<div style=\"page-break-after: always\"></div>
 
 Elderly patients - Renal function may decrease with age and thus, the elimination capacity for fondaparinux may be reduced in elderly. In patients &gt;75 years undergoing orthopaedic surgery and receiving fondaparinux 2.5 mg once daily, the estimated plasma clearance was 1.2 to 1.4 times lower than in patients &lt;65 years. A similar pattern is observed in DVT and PE treatment patients.
 
-Renal impairment - Compared with patients with normal renal function (creatinine clearance &gt; 80 ml/min) undergoing orthopaedic surgery and receiving fondaparinux 2.5 mg once daily, plasma clearance is 1.2 to 1.4 times lower in patients with mild renal impairment (creatinine clearance 50 to 80 ml/min) and on average 2 times lower in patients with moderate renal impairment (creatinine clearance 30 to 50 ml/min). In severe renal impairment (creatinine clearance &lt;30 ml/min), plasma clearance is approximately 5 times lower than in normal renal function. Associated terminal half-life values were 29 h in moderate and 72 h in patients with severe renal impairment. A similar pattern is observed in DVT and PE treatment patients.
+Renal impairment - Compared with patients with normal renal function (creatinine clearance &gt; 80 ml/min) undergoing orthopaedic surgery and receiving fondaparinux   2.5 mg once daily, plasma clearance is 1.2 to 1.4 times lower in patients with mild renal impairment (creatinine clearance 50 to 80 ml/min) and on average 2 times lower in patients with moderate renal impairment (creatinine clearance 30 to 50 ml/min). In severe renal impairment (creatinine clearance &lt;30 ml/min), plasma clearance is approximately 5 times lower than in normal renal function. Associated terminal half-life values were 29 h in moderate and 72 h in patients with severe renal impairment. A similar pattern is observed in DVT and PE treatment patients.
 
 Body weight -Plasma clearance of fondaparinux increases with body weight (9% increase per 10 kg).
 
 Gender - No gender differences were observed after adjustment for body weight.
 
-Race - Pharmacokinetic differences due to race have not been studied prospectively. However, studies performed in Asian (Japanese) healthy subjects did not reveal a different pharmacokinetic profile
-
-<div style=\"page-break-after: always\"></div>
-
-compared to Caucasian healthy subjects. Similarly, no plasma clearance differences were observed between black and Caucasian patients undergoing orthopaedic surgery.
+Race - Pharmacokinetic differences due to race have not been studied prospectively. However, studies performed in Asian (Japanese) healthy subjects did not reveal a different pharmacokinetic profile compared to Caucasian healthy subjects. Similarly, no plasma clearance differences were observed between black and Caucasian patients undergoing orthopaedic surgery.
 
 Hepatic impairment Following a single, subcutaneous dose of fondaparinux in subjects with moderate hepatic impairment (Child-Pugh Category B), total (i.e., bound and unbound) Cmax and AUC were decreased by 22% and 39%, respectively, as compared to subjects with normal liver function. The lower plasma concentrations of fondaparinux were attributed to reduced binding to ATIII secondary to the lower ATIII plasma concentrations in subjects with hepatic impairment thereby resulting in increased renal clearance of fondaparinux. Consequently, unbound concentrations of fondaparinux are expected to be unchanged in patients with mild to moderate hepatic impairment, and therefore, no dose adjustment is necessary based on pharmacokinetics.
 
@@ -1628,6 +1699,8 @@ Sodium chloride Water for injections Hydrochloric acid Sodium hydroxide
 ## 6.2 Incompatibilities
 
 In the absence of compatibility studies, this medicinal product must not be mixed with other medicinal products.
+
+<div style=\"page-break-after: always\"></div>
 
 ## 6.3 Shelf life
 
@@ -1648,11 +1721,7 @@ Arixtra 7.5 mg/0.6 ml is available in pack sizes of 2, 7, 10 and 20 pre-filled s
 
 Not all pack sizes may be marketed.
 
-<div style=\"page-break-after: always\"></div>
-
-6.6
-
-Special precautions for disposal and other handling
+## 6.6 Special precautions for disposal and other handling
 
 The subcutaneous injection is administered in the same way as with a classical syringe.
 
@@ -1666,19 +1735,9 @@ Any unused medicinal product or waste material should be disposed of in accordan
 
 This medicinal product is for single use only.
 
-7.
+## 7. MARKETING AUTHORISATION HOLDER
 
-MARKETING AUTHORISATION HOLDER
-
-Viatris Healthcare Limited
-
-Damastown Industrial Park,
-
-Mulhuddart
-
-Dublin 15,
-
-DUBLIN
+Viatris Healthcare Limited Damastown Industrial Park, Mulhuddart Dublin 15, DUBLIN
 
 Ireland
 
@@ -1696,15 +1755,13 @@ EU/1/02/206/034
 
 Date of first authorisation: 21 March 2002
 
-Date of latest renewal: 21 March 2007
+Date of latest renewal: 20 April 2007
+
+<div style=\"page-break-after: always\"></div>
 
 ## 10. DATE OF REVISION OF THE TEXT
 
-Detailed information on this medicinal product is available on the website of the European Medicines
-
-Agency http://www.ema.europa.eu
-
-49
+Detailed information on this medicinal product is available on the website of the European Medicines Agency http://www.ema.europa.eu
 
 <div style=\"page-break-after: always\"></div>
 
@@ -1734,7 +1791,7 @@ Treatment of adults with acute Deep Vein Thrombosis (DVT) and treatment of acute
 
 ## 4.2 Posology and method of administration
 
-Posology
+## Posology
 
 The recommended dose of fondaparinux is 7.5 mg (patients with body weight  50,  100kg) once daily administered by subcutaneous injection. For patients with body weight &lt; 50 kg, the recommended dose is 5 mg. For patients with body weight &gt; 100 kg, the recommended dose is 10 mg.
 
@@ -1754,7 +1811,7 @@ Fondaparinux should not be used in patients with severe renal impairment (creati
 
 Hepatic impairment - No dosing adjustment is necessary in patients with either mild or moderate hepatic impairment. In patients with severe hepatic impairment, fondaparinux should be used with care as this patient group has not been studied (see sections 4.4 and 5.2).
 
-Paediatric population Fondaparinux is not recommended for use in children below 17 years of age due to a lack of data on safety and efficacy (see sections 5.1 and 5.2).
+Paediatric population Fondaparinux is not recommended for use in children below 17 years of age due to limited data on safety and efficacy (see sections 5.1 and 5.2).
 
 ## Method of administration
 
@@ -1869,29 +1926,41 @@ Adverse reactions are listed below by system organ class and frequency. Frequenc
 
 <div style=\"page-break-after: always\"></div>
 
-| System organ class MedDRA                            | common (≥ 1/100, <1/10)                                                                                                                                                                                                 | uncommon (≥ 1/1,000, <1/100)                                                | rare (≥ 1/10,000, <1/1,000)                                                                         |
-|------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------|
-| Infections and infestations                          |                                                                                                                                                                                                                         |                                                                             | post-operative wound infections                                                                     |
-| Blood and lymphatic system disorders                 | anaemia, post-operative haemorrhage, utero- vaginal haemorrhage * , haemoptysis, haematuria, haematoma, gingival bleeding, purpura, epistaxis, gastrointestinal bleeding, hemarthrosis * , ocular bleeding * , bruise * | thrombocytopenia, thrombocythaemia, platelet abnormal, coagulation disorder | retroperitoneal bleeding * , hepatic, intracranial/ intracerebral bleeding *                        |
-| Immune system disorders                              |                                                                                                                                                                                                                         |                                                                             | allergic reaction (including very rare reports of angioedema, anaphylactoid/ anaphylactic reaction) |
-| Metabolism and nutrition disorders                   |                                                                                                                                                                                                                         |                                                                             | hypokalaemia, non- protein-nitrogen (Npn) increased 1*                                              |
-| Nervous system disorders                             |                                                                                                                                                                                                                         | headache                                                                    | anxiety, confusion, dizziness, somnolence, vertigo                                                  |
-| Vascular disorders                                   |                                                                                                                                                                                                                         |                                                                             | hypotension                                                                                         |
-| Respiratory, thoracic and mediastinal disorders      |                                                                                                                                                                                                                         | dyspnoea                                                                    | coughing                                                                                            |
-| Gastrointestinal disorders                           |                                                                                                                                                                                                                         | nausea, vomiting                                                            | abdominal pain, dyspepsia, gastritis, constipation, diarrhoea                                       |
-| Hepatobiliary disorders                              |                                                                                                                                                                                                                         | abnormal liver function tests, hepatic enzymes increased                    | bilirubinaemia                                                                                      |
-| Skin and subcutaneous tissue disorders               |                                                                                                                                                                                                                         | rash erythematous, pruritus                                                 |                                                                                                     |
-| General disorders and administration site conditions |                                                                                                                                                                                                                         | oedema, oedema peripheral, pain, fever, chest pain, wound secretion         | reaction at injection site, leg pain, fatigue, flushing, syncope, hot flushes, oedema genital       |
+| System organ class MedDRA                            | common (≥ 1/100, <1/10)                                                                                                                                                                                                | uncommon (≥ 1/1,000, <1/100)                                                | rare (≥ 1/10,000, <1/1,000)                                                                         |
+|------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------|
+| Infections and infestations                          |                                                                                                                                                                                                                        |                                                                             | post-operative wound infections                                                                     |
+| Blood and lymphatic system disorders                 | anaemia, post-operative haemorrhage, utero- vaginal haemorrhage * , haemoptysis,haematuria, haematoma, gingival bleeding, purpura, epistaxis, gastrointestinal bleeding, hemarthrosis * , ocular bleeding * , bruise * | thrombocytopenia, thrombocythaemia, platelet abnormal, coagulation disorder | retroperitoneal bleeding * , hepatic, intracranial/ intracerebral bleeding *                        |
+| Immune system disorders                              |                                                                                                                                                                                                                        |                                                                             | allergic reaction (including very rare reports of angioedema, anaphylactoid/ anaphylactic reaction) |
+| Metabolism and nutrition disorders                   |                                                                                                                                                                                                                        |                                                                             | hypokalaemia, non- protein-nitrogen (Npn) increased 1*                                              |
+| Nervous system disorders                             |                                                                                                                                                                                                                        | headache                                                                    | anxiety, confusion, dizziness, somnolence, vertigo                                                  |
+| Vascular disorders                                   |                                                                                                                                                                                                                        |                                                                             | hypotension                                                                                         |
+| Respiratory, thoracic and mediastinal disorders      |                                                                                                                                                                                                                        | dyspnoea                                                                    | coughing                                                                                            |
+| Gastrointestinal disorders                           |                                                                                                                                                                                                                        | nausea, vomiting                                                            | abdominal pain, dyspepsia, gastritis, constipation, diarrhoea                                       |
+| Hepatobiliarydisorders                               |                                                                                                                                                                                                                        | abnormalliver function tests, hepatic enzymes increased                     | bilirubinaemia                                                                                      |
+| Skin and subcutaneous tissue disorders               |                                                                                                                                                                                                                        | rash erythematous, pruritus                                                 |                                                                                                     |
+| General disorders and administration site conditions |                                                                                                                                                                                                                        | oedema, oedema peripheral, pain, fever, chest pain, wound secretion         | reaction at injection site, leg pain,fatigue,flushing, syncope, hot flushes, oedema genital         |
 
 (1) Npn stands for non-protein-nitrogen such as urea, uric acid, amino acid, etc.
 
 * ADRs occurred at higher doses 5 mg/0.4 ml, 7.5 mg/0.6 ml and 10 mg/0.8 ml.
 
+## Paediatric population
+
+The safety of fondaparinux in paediatric patients has not been established. In an open-label, single-arm retrospective, non-randomized, single-centre clinical study with 366 paediatric VTE patients treated with fondaparinux, the safety profile was as follows:
+
+Major bleeding events as per ISTH definition (n=7; 1.9%): 1 patient (0.3%) had clinically overt bleeding, 3 patients (0.8%) had major bleeding, and 3 patients (0.8%) had major bleeding that required surgical intervention. Major bleeding events resulted in the interruption of fondaparinux treatment for 4 patients and the discontinuation of fondaparinux for 3 patients.
+
+<div style=\"page-break-after: always\"></div>
+
+In addition, 8 patients (2.2%) had overt bleeding for which a blood product was administered, and which was not directly attributable to the patient's underlying medical condition and 4 patients (1.1%) had bleeding that required medical or surgical intervention. All these events warranted either interruption or withdrawal of fondaparinux treatment except for 1 patient for whom the action taken with fondaparinux was not reported.
+
+An additional 65 patients (17.8%) reported other overt bleeding events or menstrual bleeding resulting in a medical consultation and/or intervention.
+
+The following adverse events of special interest were noted (n=189, 51.6%): anaemia (27%), thrombocytopenia (18%), allergic reactions (1%) and hypokalaemia (14%).
+
 ## Reporting of suspected adverse reactions
 
 Reporting suspected adverse reactions after authorisation of the medicinal product is important. It allows continued monitoring of the benefit/risk balance of the medicinal product. Healthcare professionals are asked to report any suspected adverse reactions via the national reporting system listed in Appendix V.
-
-<div style=\"page-break-after: always\"></div>
 
 ## 4.9 Overdose
 
@@ -1915,13 +1984,13 @@ Fondaparinux does not usually cross-react with sera from patients with heparin-i
 
 ## Clinical studies
 
+<div style=\"page-break-after: always\"></div>
+
 The fondaparinux clinical program in treatment of Venous Thromboembolism was designed to demonstrate the efficacy of fondaparinux for the treatment of deep vein thrombosis (DVT) and pulmonary embolism (PE). Over 4,874 patients were studied in controlled Phase II and III clinical studies.
 
 ## Treatment of Deep Venous Thrombosis
 
 In a randomised, double-blind, clinical trial in patients with a confirmed diagnosis of acute symptomatic DVT, fondaparinux 5 mg (body weight &lt; 50 kg), 7.5 mg (body weight  50 kg,  100 kg) or 10 mg (body weight &gt;100 kg) SC once daily was compared to enoxaparin sodium 1 mg/kg SC twice daily. A total of 2,192 patients were treated; for both groups, patients were treated for at least 5 days and up to 26 days (mean 7 days). Both treatment groups received Vitamin K antagonist therapy usually initiated within 72 hours after the first study drug administration and continued for 90 ± 7 days, with regular dose adjustments to achieve an INR of 2-3. The primary efficacy endpoint was the composite of confirmed symptomatic recurrent non-fatal VTE and fatal VTE reported up to Day 97. Treatment with fondaparinux was demonstrated to be non-inferior to enoxaparin (VTE rates 3.9% and 4.1%, respectively).
-
-<div style=\"page-break-after: always\"></div>
 
 Major bleeding during the initial treatment period was observed in 1.1% of fondaparinux patients, compared to 1.2% with enoxaparin.
 
@@ -1931,9 +2000,33 @@ A randomised, open-label, clinical trial was conducted in patients with acute sy
 
 Major bleeding during the initial treatment period was observed in 1.3% of fondaparinux patients, compared to 1.1% with unfractionated heparin.
 
-## A pilot dose-finding and pharmacokinetic study of fondaparinux in children with deep vein thrombosis
+## Treatment of Venous Thromboembolism (VTE) in Paediatric Patients
 
-In an open-label study, 24 paediatric patients (n=10, age 1 to ≤ 5 years weight range 8-20 kg; n=7, age 6 to ≤ 12 years weight range 17-47 kg and n=7 age 13 to ≤ 18 years weight range 47-130 kg) diagnosed with venous thrombosis at study entry were administered fondaparinux. The majority of patients were Hispanic (67%) and 58% were male. Fondaparinux was administered at an initial dose of 0.1 mg/kg subcutaneously once daily and dosing was adjusted to achieve peak fondaparinux sodium concentrations of 0.5 to 1 mg/L after 4 hours. The median duration of treatment in this study was 3.5 days. The majority of patients (88%) achieved target fondaparinux concentrations at 4 hours after the first dose of fondaparinux. Two patients had reports of bleeding during the study. One experienced hypertensive encephalopathy accompanied by intracranial bleeding on day 5 of therapy resulting in fondaparinux discontinuation. Minor gastrointestinal bleeding was reported in another patient on day 5 of therapy which resulted in temporary discontinuation of fondaparinux. No conclusion can be drawn with regard to clinical efficacy in this uncontrolled study.
+Safety and effectiveness of fondaparinux in paediatric patients have not been established in prospective randomized clinical studies (see section 4.2).
+
+In an open-label, single-arm, retrospective, non-randomised, single center clinical study, 366 paediatric patients were consecutively treated with fondaparinux. Out of these 366 patients, 313 patients with diagnosis of VTE were included in efficacy analysis set of which 221 patients reported use of fondaparinux for &gt; 14 days and other anticoagulants for &lt; 33% of the overall fondaparinux treatment duration. The most common type of VTE was catheter-related thrombosis (N=179, 48.9%); 86 patients had lower extremity thromboses, 22 patients had cerebral sinus thromboses and 9 patients had pulmonary embolism. Patients were started on fondaparinux 0.1 mg/kg once daily with doses rounded to the nearest prefilled syringe (2.5 mg, 5 mg, or 7.5 mg) for patients weighing over 20 kg. For patients weighing 10-20 kg, dosing was based on body weight without rounding to the nearest prefilled syringe. Fondaparinux levels were monitored after the second or third dose until therapeutic levels were achieved. Fondaparinux levels were then monitored weekly initially and every 1-3 months while outpatient. Dosing adjustments were made to achieve peak fondaparinux
+
+<div style=\"page-break-after: always\"></div>
+
+blood concentration within the therapeutic target of 0.5-1.0 mg/L. The maximum dose was not to exceed 7.5 mg/day.
+
+Patients received an initial median dose of approximately 0.1 mg/kg body weight, which translates into a median dose of 1.37 mg in the &lt;20 kg weight group, 2.5 mg in the 20 to &lt;40 kg weight group, 5 mg in the 40 to &lt;60 kg, and 7.5 mg in the ≥60 kg weight group. Based on median values, it took approximately 3 days to achieve therapeutic levels across all age groups (see section 5.2). In the study, the median duration of fondaparinux treatment was 85.0 days (range 1 to 3,768 days).
+
+The primary efficacy was based on measuring the proportion of paediatric patients with complete clot resolution up to 3 months (± 15 days). Summaries of complete clot resolution of patients' main VTEs at month 3 are provided by age group and weight group in table 1 and 2.
+
+Table 1. Summary of complete clot resolution of main VTEs up to month 3 by age group
+
+| Parameter                                       | <2 years (N=30) n (%)   | ≥2 to <6 years (N=61) n (%)   | ≥6 to <12 years (N=72) n (%) ≥12 to n   | <18 years (N=150) (%)   |
+|-------------------------------------------------|-------------------------|-------------------------------|-----------------------------------------|-------------------------|
+| Complete Resolution of At Least One Clot, n (%) | 14 (46.7)               | 26 (42.6)                     | 38 (52.8)                               | 65 (43.3)               |
+| Complete Resolution of All Clots, n (%)         | 14 (46.7)               | 25 (41.0)                     | 37 (51.4)                               | 64 (42.7)               |
+
+Table 2. Summary of complete clot resolution of main VTEs up to month 3 by weight group
+
+| Parameter                                       | <20 kg (N=91) n (%)   | 20 to <40 kg (N=78) n (%)   | 40 to <60 kg (N=70) n (%)   | ≥60 kg (N=73) n (%)   |
+|-------------------------------------------------|-----------------------|-----------------------------|-----------------------------|-----------------------|
+| Complete Resolution of At Least One Clot, n (%) | 42 (46.2)             | 42 (53.8)                   | 30 (42.9)                   | 28 (38.4)             |
+| Complete Resolution of All Clots, n (%)         | 41 (45.1)             | 42 (53.8)                   | 29 (41.4)                   | 27 (37.0)             |
 
 ## 5.2 Pharmacokinetic properties
 
@@ -1941,15 +2034,13 @@ The pharmacokinetics of fondaparinux sodium are derived from fondaparinux plasma
 
 ## Absorption
 
-After subcutaneous dosing, fondaparinux is completely and rapidly absorbed (absolute bioavailability 100%). Following a single subcutaneous injection of fondaparinux 2.5 mg to young healthy subjects, peak plasma concentration (mean Cmax = 0.34 mg/l) is obtained 2 hours post-dosing. Plasma concentrations of half the mean Cmax values are reached 25 minutes post-dosing.
+After subcutaneous dosing, fondaparinux is completely and rapidly absorbed (absolute bioavailability 100%). Following a single subcutaneous injection of fondaparinux   2.5 mg to young healthy subjects, peak plasma concentration (mean Cmax = 0.34 mg/l) is obtained 2 hours post-dosing. Plasma concentrations of half the mean Cmax values are reached 25 minutes post-dosing.
 
 In elderly healthy subjects, pharmacokinetics of fondaparinux is linear in the range of 2 to 8 mg by subcutaneous route. Following once daily dosing, steady state of plasma levels is obtained after 3 to 4 days with a 1.3-fold increase in Cmax and AUC.
 
-Mean (CV%) steady state pharmacokinetic parameters estimates of fondaparinux in patients undergoing hip replacement surgery receiving fondaparinux 2.5 mg once daily are: Cmax (mg/l) - 0.39
+Mean (CV%) steady state pharmacokinetic parameters estimates of fondaparinux in patients undergoing hip replacement surgery receiving fondaparinux   2.5 mg once daily are: Cmax (mg/l) - 0.39 (31%), Tmax (h) - 2.8 (18%) and Cmin (mg/l) -0.14 (56%). In hip fracture patients, associated with their increased age, fondaparinux steady state plasma concentrations are: Cmax (mg/l) - 0.50 (32%), Cmin (mg/l) - 0.19 (58%).
 
 <div style=\"page-break-after: always\"></div>
-
-(31%), Tmax (h) - 2.8 (18%) and Cmin (mg/l) -0.14 (56%). In hip fracture patients, associated with their increased age, fondaparinux steady state plasma concentrations are: Cmax (mg/l) - 0.50 (32%), Cmin (mg/l) - 0.19 (58%).
 
 In DVT and PE treatment, patients receiving fondaparinux 5 mg (body weight &lt;50 kg), 7.5 mg (body weight 50-100 kg inclusive) and 10 mg (body weight &gt;100 kg) once daily, the body weight-adjusted doses provide similar exposure across all body weight categories. The mean (CV%) steady state pharmacokinetic parameters estimates of fondaparinux in patients with VTE receiving the fondaparinux proposed dose regimen once daily are: Cmax (mg/l) - 1.41 (23 %), Tmax (h) - 2.4 (8%) and Cmin (mg/l) -0.52 (45 %). The associated 5th and 95th percentiles are, respectively, 0.97 and 1.92 for Cmax (mg/l), and 0.24 and 0.95 for Cmin (mg/l).
 
@@ -1971,21 +2062,33 @@ The elimination half-life (t½) is about 17 hours in healthy young subjects and 
 
 ## Special populations
 
-Paediatric patients - Limited data are available in paediatric patients (see section 5.1).
+Paediatric patients - Pharmacokinetic parameters of once-daily subcutaneous fondaparinux measured as anti-Factor Xa activity were characterized in study FDPX-IJS-7001, a retrospective study in paediatric patients. Approximately 60% of patients did not require any dose adjustment to reach a therapeutic blood concentration of fondaparinux (0.5-1.0 mg/L) during the course of their treatment; nearly 20% required one dose adjustment, 11% required two dose adjustments, and approximately 10% required more than two dose adjustments during the course of treatment to reach therapeutic concentrations of fondaparinux (see table 3).
 
-Elderly patients - Renal function may decrease with age and thus, the elimination capacity for fondaparinux may be reduced in elderly. In patients &gt;75 years undergoing orthopaedic surgery and receiving fondaparinux 2.5 mg once daily, the estimated plasma clearance was 1.2 to 1.4 times lower than in patients &lt;65 years. A similar pattern is observed in DVT and PE treatment patients.
+Table 3. Applied dose adjustments during study FDPX-IJS-7001
 
-Renal impairment - Compared with patients with normal renal function (creatinine clearance &gt; 80 ml/min) undergoing orthopaedic surgery and receiving fondaparinux 2.5 mg once daily, plasma clearance is 1.2 to 1.4 times lower in patients with mild renal impairment (creatinine clearance 50 to 80 ml/min) and on average 2 times lower in patients with moderate renal impairment (creatinine clearance 30 to 50 ml/min). In severe renal impairment (creatinine clearance &lt;30 ml/min), plasma clearance is approximately 5 times lower than in normal renal function. Associated terminal half-life values were 29 h in moderate and 72 h in patients with severe renal impairment. A similar pattern is observed in DVT and PE treatment patients.
+| Fondaparinux-Based Anti-Xa Level (mg/L)   | Dose Adjustment             |
+|-------------------------------------------|-----------------------------|
+| <0.3                                      | Increase dose by 0.03 mg/kg |
+| 0.3-0.49                                  | Increase dose by 0.01 mg/kg |
+| 0.5-1                                     | No change                   |
+| 1.01-1.2                                  | Decrease dose by 0.01 mg/kg |
+| >1.2                                      | Decrease dose by 0.03 mg/kg |
+
+The pharmacokinetics of once-daily subcutaneous fondaparinux, measured as anti-Xa activity, was characterized in 24 pediatric patients with VTE. Pediatric population PK model was developed by combining pediatric PK data with data from adults. The population PK model predicted a C maxss and C minss achieved in pediatric patients were approximately equal to the C maxss and C minss achieved in adults suggesting that 0.1 mg/kg/day dosing regimen is appropriate. Additionally, the observed pediatric data fall within the 95% prediction interval of the adult data lending further evidence that 0.1 mg/kg/day is an appropriate dose in pediatric patients.
+
+Elderly patients - Renal function may decrease with age and thus, the elimination capacity for fondaparinux may be reduced in elderly. In patients &gt;75 years undergoing orthopaedic surgery and
+
+<div style=\"page-break-after: always\"></div>
+
+receiving fondaparinux 2.5 mg once daily, the estimated plasma clearance was 1.2 to 1.4 times lower than in patients &lt;65 years. A similar pattern is observed in DVT and PE treatment patients.
+
+Renal impairment - Compared with patients with normal renal function (creatinine clearance &gt; 80 ml/min) undergoing orthopaedic surgery and receiving fondaparinux   2.5 mg once daily, plasma clearance is 1.2 to 1.4 times lower in patients with mild renal impairment (creatinine clearance 50 to 80 ml/min) and on average 2 times lower in patients with moderate renal impairment (creatinine clearance 30 to 50 ml/min). In severe renal impairment (creatinine clearance &lt;30 ml/min), plasma clearance is approximately 5 times lower than in normal renal function. Associated terminal half-life values were 29 h in moderate and 72 h in patients with severe renal impairment. A similar pattern is observed in DVT and PE treatment patients.
 
 Body weight - Plasma clearance of fondaparinux increases with body weight (9% increase per 10 kg).
 
 Gender - No gender differences were observed after adjustment for body weight.
 
-Race - Pharmacokinetic differences due to race have not been studied prospectively. However, studies performed in Asian (Japanese) healthy subjects did not reveal a different pharmacokinetic profile
-
-<div style=\"page-break-after: always\"></div>
-
-compared to Caucasian healthy subjects. Similarly, no plasma clearance differences were observed between black and Caucasian patients undergoing orthopaedic surgery.
+Race - Pharmacokinetic differences due to race have not been studied prospectively. However, studies performed in Asian (Japanese) healthy subjects did not reveal a different pharmacokinetic profile compared to Caucasian healthy subjects. Similarly, no plasma clearance differences were observed between black and Caucasian patients undergoing orthopaedic surgery.
 
 Hepatic impairment Following a single, subcutaneous dose of fondaparinux in subjects with moderate hepatic impairment (Child-Pugh Category B), total (i.e., bound and unbound) Cmax and AUC were decreased by 22% and 39%, respectively, as compared to subjects with normal liver function. The lower plasma concentrations of fondaparinux were attributed to reduced binding to ATIII secondary to the lower ATIII plasma concentrations in subjects with hepatic impairment thereby resulting in increased renal clearance of fondaparinux. Consequently, unbound concentrations of fondaparinux are expected to be unchanged in patients with mild to moderate hepatic impairment, and therefore, no dose adjustment is necessary based on pharmacokinetics.
 
@@ -2007,6 +2110,8 @@ In the absence of compatibility studies, this medicinal product must not be mixe
 
 ## 6.3 Shelf life
 
+<div style=\"page-break-after: always\"></div>
+
 3 years
 
 ## 6.4 Special precautions for storage
@@ -2024,11 +2129,7 @@ Arixtra 10 mg/0.8 ml is available in pack sizes of 2, 7, 10 and 20 pre-filled sy
 
 Not all pack sizes may be marketed.
 
-<div style=\"page-break-after: always\"></div>
-
-6.6
-
-Special precautions for disposal and other handling
+## 6.6 Special precautions for disposal and other handling
 
 The subcutaneous injection is administered in the same way as with a classical syringe.
 
@@ -2042,19 +2143,9 @@ Any unused medicinal product or waste material should be disposed of in accordan
 
 This medicinal product is for single use only.
 
-7.
+## 7. MARKETING AUTHORISATION HOLDER
 
-MARKETING AUTHORISATION HOLDER
-
-Viatris Healthcare Limited
-
-Damastown Industrial Park,
-
-Mulhuddart
-
-Dublin 15,
-
-DUBLIN
+Viatris Healthcare Limited Damastown Industrial Park, Mulhuddart Dublin 15, DUBLIN
 
 Ireland
 
@@ -2072,15 +2163,15 @@ EU/1/02/206/035
 
 Date of first authorisation: 21 March 2002
 
-Date of latest renewal: 21 March 2007
+Date of latest renewal: 20 April 2007
+
+64
+
+<div style=\"page-break-after: always\"></div>
 
 ## 10. DATE OF REVISION OF THE TEXT
 
-Detailed information on this medicinal product is available on the website of the European Medicines
-
-Agency http://www.ema.europa.eu
-
-59
+Detailed information on this medicinal product is available on the website of the European Medicines Agency http://www.ema.europa.eu
 
 <div style=\"page-break-after: always\"></div>
 
@@ -2093,7 +2184,7 @@ Agency http://www.ema.europa.eu
 
 <div style=\"page-break-after: always\"></div>
 
-## A. MANUFACTURER(S) RESPONSIBLE FOR BATCH   RELEASE
+## A. MANUFACTURER(S) RESPONSIBLE FOR BATCH RELEASE
 
 Name and address of the manufacturer responsible for batch release
 
@@ -2156,13 +2247,19 @@ Also contains: sodium chloride, water for injections, hydrochloric acid, sodium 
 
 ## 4. PHARMACEUTICAL FORM AND CONTENTS
 
-Solution for injection, 2 pre-filled syringes with an automatic safety system Solution for injection, 7 pre-filled syringes with an automatic safety system
+Solution for injection, 2 pre-filled syringes with an automatic safety system
+
+Solution for injection, 7 pre-filled syringes with an automatic safety system
 
 Solution for injection, 10 pre-filled syringes with an automatic safety system
 
 Solution for injection, 20 pre-filled syringes with an automatic safety system
 
-Solution for injection, 2 pre-filled syringes with a manual safety system Solution for injection, 10 pre-filled syringes with a manual safety system Solution for injection, 20 pre-filled syringes with a manual safety system
+Solution for injection, 2 pre-filled syringes with a manual safety system
+
+Solution for injection, 10 pre-filled syringes with a manual safety system
+
+Solution for injection, 20 pre-filled syringes with a manual safety system
 
 ## 5. METHOD AND ROUTE(S) OF ADMINISTRATION
 
@@ -2188,7 +2285,8 @@ EXP
 
 Store below 25°C. Do not freeze.
 
-10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
+| 10.   | SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE   |
+|-------|-----------------------------------------------------------------------------------------------------------------------------------------|
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
@@ -2206,11 +2304,7 @@ Ireland
 
 ## 12. MARKETING AUTHORISATION NUMBER(S)
 
-EU/1/02/206/005- 2 pre-filled syringes with an automatic safety system
-
-EU/1/02/206/006 - 7 pre-filled syringes with an automatic safety system
-
-EU/1/02/206/007 - 10 pre-filled syringes with an automatic safety system
+EU/1/02/206/005- 2 pre-filled syringes with an automatic safety system EU/1/02/206/006 - 7 pre-filled syringes with an automatic safety system EU/1/02/206/007 - 10 pre-filled syringes with an automatic safety system
 
 EU/1/02/206/008 - 20 pre-filled syringes with an automatic safety system
 
@@ -2234,32 +2328,33 @@ Medicinal product subject to medical prescription.
 
 arixtra 1.5 mg
 
-## 17. UNIQUE IDENTIFIER - 2D BARCODE
+| 17.   | UNIQUE IDENTIFIER - 2D BARCODE   |
+|-------|----------------------------------|
 
 2D barcode carrying the unique identifier included.
 
 <div style=\"page-break-after: always\"></div>
 
-| 18.   | UNIQUE IDENTIFIER -HUMANREADABLE DATA   |
-|-------|-----------------------------------------|
+| 18.   | UNIQUE IDENTIFIER - HUMAN READABLE DATA   |
+|-------|-------------------------------------------|
 
 PC: SN: NN:
 
 <div style=\"page-break-after: always\"></div>
 
-| MINIMUM PARTICULARS TO APPEAR ONSMALLIMMEDIATE PACKAGING UNITS   |
-|------------------------------------------------------------------|
-| PRE-FILLED SYRINGE                                               |
+| MINIMUM PARTICULARS TO APPEAR ON SMALL IMMEDIATE PACKAGING UNITS   |
+|--------------------------------------------------------------------|
+| PRE-FILLED SYRINGE                                                 |
 
-| 1.   | NAMEOFTHEMEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION   |
-|------|-------------------------------------------------------------|
+| 1.   | NAME OF THE MEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION   |
+|------|----------------------------------------------------------------|
 
 Arixtra 1.5 mg/0.3 ml injection fondaparinux Na
 
 SC
 
-| 2.   | METHODOFADMINISTRATION   |
-|------|--------------------------|
+| 2.   | METHOD OF ADMINISTRATION   |
+|------|----------------------------|
 
 | 3.   | EXPIRY DATE   |
 |------|---------------|
@@ -2271,8 +2366,8 @@ EXP
 
 Lot
 
-| 5.   | CONTENTS BY WEIGHT, BYVOLUMEORBYUNIT   |
-|------|----------------------------------------|
+| 5.   | CONTENTS BY WEIGHT, BY VOLUME OR BY UNIT   |
+|------|--------------------------------------------|
 
 <div style=\"page-break-after: always\"></div>
 
@@ -2294,13 +2389,19 @@ Also contains: sodium chloride, water for injections, hydrochloric acid, sodium 
 
 ## 4. PHARMACEUTICAL FORM AND CONTENTS
 
-Solution for injection, 2 pre-filled syringes with an automatic safety system Solution for injection, 7 pre-filled syringes with an automatic safety system
+Solution for injection, 2 pre-filled syringes with an automatic safety system
+
+Solution for injection, 7 pre-filled syringes with an automatic safety system
 
 Solution for injection, 10 pre-filled syringes with an automatic safety system
 
 Solution for injection, 20 pre-filled syringes with an automatic safety system
 
-Solution for injection, 2 pre-filled syringes with a manual safety system Solution for injection, 10 pre-filled syringes with a manual safety system Solution for injection, 20 pre-filled syringes with a manual safety system
+Solution for injection, 2 pre-filled syringes with a manual safety system
+
+Solution for injection, 10 pre-filled syringes with a manual safety system
+
+Solution for injection, 20 pre-filled syringes with a manual safety system
 
 ## 5. METHOD AND ROUTE(S) OF ADMINISTRATION
 
@@ -2326,7 +2427,13 @@ EXP
 
 Store below 25°C. Do not freeze.
 
-10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
+10.
+
+SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS
+
+OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF
+
+APPROPRIATE
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
@@ -2344,11 +2451,7 @@ Ireland
 
 ## 12. MARKETING AUTHORISATION NUMBER(S)
 
-EU/1/02/206/001 - 2 pre-filled syringes with an automatic safety system
-
-EU/1/02/206/002 - 7 pre-filled syringes with an automatic safety system
-
-EU/1/02/206/003 - 10 pre-filled syringes with an automatic safety system
+EU/1/02/206/001 - 2 pre-filled syringes with an automatic safety system EU/1/02/206/002 - 7 pre-filled syringes with an automatic safety system EU/1/02/206/003 - 10 pre-filled syringes with an automatic safety system
 
 EU/1/02/206/004 - 20 pre-filled syringes with an automatic safety system
 
@@ -2372,32 +2475,33 @@ Medicinal product subject to medical prescription.
 
 arixtra 2.5 mg
 
-## 17. UNIQUE IDENTIFIER - 2D BARCODE
+| 17.   | UNIQUE IDENTIFIER - 2D BARCODE   |
+|-------|----------------------------------|
 
 2D barcode carrying the unique identifier included.
 
 <div style=\"page-break-after: always\"></div>
 
-| 18.   | UNIQUE IDENTIFIER -HUMANREADABLE DATA   |
-|-------|-----------------------------------------|
+| 18.   | UNIQUE IDENTIFIER - HUMAN READABLE DATA   |
+|-------|-------------------------------------------|
 
 PC: SN: NN:
 
 <div style=\"page-break-after: always\"></div>
 
-| MINIMUM PARTICULARS TO APPEAR ONSMALLIMMEDIATE PACKAGING UNITS   |
-|------------------------------------------------------------------|
-| PRE-FILLED SYRINGE                                               |
+| MINIMUM PARTICULARS TO APPEAR ON SMALL IMMEDIATE PACKAGING UNITS   |
+|--------------------------------------------------------------------|
+| PRE-FILLED SYRINGE                                                 |
 
-| 1.   | NAMEOFTHEMEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION   |
-|------|-------------------------------------------------------------|
+| 1.   | NAME OF THE MEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION   |
+|------|----------------------------------------------------------------|
 
 Arixtra 2.5 mg/0.5 ml injection fondaparinux Na
 
 SC/IV
 
-| 2.   | METHODOFADMINISTRATION   |
-|------|--------------------------|
+| 2.   | METHOD OF ADMINISTRATION   |
+|------|----------------------------|
 
 | 3.   | EXPIRY DATE   |
 |------|---------------|
@@ -2409,14 +2513,16 @@ EXP
 
 Lot
 
-| 5.   | CONTENTS BY WEIGHT, BYVOLUMEORBYUNIT   |
-|------|----------------------------------------|
+| 5.   | CONTENTS BY WEIGHT, BY VOLUME OR BY UNIT   |
+|------|--------------------------------------------|
+
+77
 
 <div style=\"page-break-after: always\"></div>
 
 ## PARTICULARS TO APPEAR ON THE OUTER PACKAGING
 
-## OUTER BOX
+OUTER BOX
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
@@ -2432,13 +2538,19 @@ Also contains: sodium chloride, water for injections, hydrochloric acid, sodium 
 
 ## 4. PHARMACEUTICAL FORM AND CONTENTS
 
-Solution for injection, 2 pre-filled syringes with an automatic safety system Solution for injection, 7 pre-filled syringes with an automatic safety system
+Solution for injection, 2 pre-filled syringes with an automatic safety system
+
+Solution for injection, 7 pre-filled syringes with an automatic safety system
 
 Solution for injection, 10 pre-filled syringes with an automatic safety system
 
 Solution for injection, 20 pre-filled syringes with an automatic safety system
 
-Solution for injection, 2 pre-filled syringes with a manual safety system Solution for injection, 10 pre-filled syringes with a manual safety system Solution for injection, 20 pre-filled syringes with a manual safety system
+Solution for injection, 2 pre-filled syringes with a manual safety system
+
+Solution for injection, 10 pre-filled syringes with a manual safety system
+
+Solution for injection, 20 pre-filled syringes with a manual safety system
 
 ## 5. METHOD AND ROUTE(S) OF ADMINISTRATION
 
@@ -2458,57 +2570,51 @@ The syringe needle shield contains latex. May cause severe allergic reactions.
 
 <div style=\"page-break-after: always\"></div>
 
-## 8. EXPIRY DATE
+| 8.   | EXPIRY DATE   |
+|------|---------------|
 
 EXP
 
-## 9. SPECIAL STORAGE CONDITIONS
+| 9.   | SPECIAL STORAGE CONDITIONS   |
+|------|------------------------------|
 
 Store below 25°C. Do not freeze.
 
-10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
+| 10.   | SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE   |
+|-------|-----------------------------------------------------------------------------------------------------------------------------------------|
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
-Viatris Healthcare Limited
-
-Damastown Industrial Park,
-
-Mulhuddart
-
-Dublin 15,
-
-DUBLIN
+Viatris Healthcare Limited Damastown Industrial Park, Mulhuddart Dublin 15, DUBLIN
 
 Ireland
 
-## 12. MARKETING AUTHORISATION NUMBER(S)
+| 12. MARKETING AUTHORISATION NUMBER(S)   |
+|-----------------------------------------|
 
-EU/1/02/206/009- 2 pre-filled syringes with an automatic safety system
-
-EU/1/02/206//010 - 7 pre-filled syringes with an automatic safety system
-
-EU/1/02/206/011 - 10 pre-filled syringes with an automatic safety system
+EU/1/02/206/009- 2 pre-filled syringes with an automatic safety system EU/1/02/206//010 - 7 pre-filled syringes with an automatic safety system EU/1/02/206/011 - 10 pre-filled syringes with an automatic safety system
 
 EU/1/02/206/018 - 20 pre-filled syringe with an automatic safety system
 
-EU/1/02/206/027 - 2 pre-filled syringes with a manual safety system
-
-EU/1/02/206/028 - 10 pre-filled syringes with a manual safety system
+EU/1/02/206/027 - 2 pre-filled syringes with a manual safety system EU/1/02/206/028 - 10 pre-filled syringes with a manual safety system
 
 EU/1/02/206/033 - 20 pre-filled syringes with a manual safety system
 
-## 13. BATCH NUMBER
+| 13.   | BATCH NUMBER   |
+|-------|----------------|
 
 Lot
 
-## 14. GENERAL CLASSIFICATION FOR SUPPLY
+| 14.   | GENERAL CLASSIFICATION FOR SUPPLY   |
+|-------|-------------------------------------|
 
 Medicinal product subject to medical prescription.
 
-## 15. INSTRUCTIONS ON USE
+| 15.   | INSTRUCTIONS ON USE   |
+|-------|-----------------------|
 
-## 16. INFORMATION IN BRAILLE
+| 16.   | INFORMATION IN BRAILLE   |
+|-------|--------------------------|
 
 arixtra 5 mg
 
@@ -2519,26 +2625,26 @@ arixtra 5 mg
 
 2D barcode carrying the unique identifier included.
 
-| 18.   | UNIQUE IDENTIFIER -HUMANREADABLE DATA   |
-|-------|-----------------------------------------|
+| 18.   | UNIQUE IDENTIFIER - HUMAN READABLE DATA   |
+|-------|-------------------------------------------|
 
 PC: SN: NN:
 
 <div style=\"page-break-after: always\"></div>
 
-| MINIMUM PARTICULARS TO APPEAR ONSMALLIMMEDIATE PACKAGING UNITS   |
-|------------------------------------------------------------------|
-| PRE-FILLED SYRINGE                                               |
+| MINIMUM PARTICULARS TO APPEAR ON SMALL IMMEDIATE PACKAGING UNITS   |
+|--------------------------------------------------------------------|
+| PRE-FILLED SYRINGE                                                 |
 
-| 1.   | NAMEOFTHEMEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION   |
-|------|-------------------------------------------------------------|
+| 1.   | NAME OF THE MEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION   |
+|------|----------------------------------------------------------------|
 
 Arixtra 5 mg/0.4 ml injection fondaparinux Na
 
 SC
 
-| 2.   | METHODOFADMINISTRATION   |
-|------|--------------------------|
+| 2.   | METHOD OF ADMINISTRATION   |
+|------|----------------------------|
 
 | 3.   | EXPIRY DATE   |
 |------|---------------|
@@ -2550,14 +2656,14 @@ EXP
 
 Lot
 
-| 5.   | CONTENTS BY WEIGHT, BYVOLUMEORBYUNIT   |
-|------|----------------------------------------|
+| 5.   | CONTENTS BY WEIGHT, BY VOLUME OR BY UNIT   |
+|------|--------------------------------------------|
 
 <div style=\"page-break-after: always\"></div>
 
 ## PARTICULARS TO APPEAR ON THE OUTER PACKAGING
 
-## OUTER BOX
+OUTER BOX
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
@@ -2573,13 +2679,19 @@ Also contains: sodium chloride, water for injections, hydrochloric acid, sodium 
 
 ## 4. PHARMACEUTICAL FORM AND CONTENTS
 
-Solution for injection, 2 pre-filled syringes with an automatic safety system Solution for injection, 7 pre-filled syringes with an automatic safety system
+Solution for injection, 2 pre-filled syringes with an automatic safety system
+
+Solution for injection, 7 pre-filled syringes with an automatic safety system
 
 Solution for injection, 10 pre-filled syringes with an automatic safety system
 
 Solution for injection, 20 pre-filled syringes with an automatic safety system
 
-Solution for injection, 2 pre-filled syringes with a manual safety system Solution for injection, 10 pre-filled syringes with a manual safety system Solution for injection, 20 pre-filled syringes with a manual safety system
+Solution for injection, 2 pre-filled syringes with a manual safety system
+
+Solution for injection, 10 pre-filled syringes with a manual safety system
+
+Solution for injection, 20 pre-filled syringes with a manual safety system
 
 ## 5. METHOD AND ROUTE(S) OF ADMINISTRATION
 
@@ -2599,57 +2711,51 @@ The syringe needle shield contains latex. May cause severe allergic reactions.
 
 <div style=\"page-break-after: always\"></div>
 
-## 8. EXPIRY DATE
+| 8.   | EXPIRY DATE   |
+|------|---------------|
 
 EXP
 
-## 9. SPECIAL STORAGE CONDITIONS
+| 9.   | SPECIAL STORAGE CONDITIONS   |
+|------|------------------------------|
 
 Store below 25°C. Do not freeze.
 
-10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
+| 10.   | SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE   |
+|-------|-----------------------------------------------------------------------------------------------------------------------------------------|
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
-Viatris Healthcare Limited
+Viatris Healthcare Limited Damastown Industrial Park, Mulhuddart Dublin 15, DUBLIN Ireland
 
-Damastown Industrial Park,
+| 12. MARKETING AUTHORISATION NUMBER(S)   |
+|-----------------------------------------|
 
-Mulhuddart
-
-Dublin 15,
-
-DUBLIN
-
-Ireland
-
-## 12. MARKETING AUTHORISATION NUMBER(S)
-
-EU/1/02/206/012- 2 pre-filled syringes with an automatic safety system
-
-EU/1/02/206/013 - 7 pre-filled syringes with an automatic safety system
+EU/1/02/206/012- 2 pre-filled syringes with an automatic safety system EU/1/02/206/013 - 7 pre-filled syringes with an automatic safety system
 
 EU/1/02/206/014 - 10 pre-filled syringes with an automatic safety system
 
 EU/1/02/206/019 - 20 pre-filled syringe with an automatic safety system
 
-EU/1/02/206/029 - 2 pre-filled syringes with a manual safety system
-
-EU/1/02/206/030 - 10 pre-filled syringes with a manual safety system
+EU/1/02/206/029 - 2 pre-filled syringes with a manual safety system EU/1/02/206/030 - 10 pre-filled syringes with a manual safety system
 
 EU/1/02/206/034 - 20 pre-filled syringes with a manual safety system
 
-## 13. BATCH NUMBER
+| 13.   | BATCH NUMBER   |
+|-------|----------------|
 
 Lot
 
-## 14. GENERAL CLASSIFICATION FOR SUPPLY
+| 14.   | GENERAL CLASSIFICATION FOR SUPPLY   |
+|-------|-------------------------------------|
 
 Medicinal product subject to medical prescription.
 
-## 15. INSTRUCTIONS ON USE
+| 15.   | INSTRUCTIONS ON USE   |
+|-------|-----------------------|
 
-## 16. INFORMATION IN BRAILLE
+| 16.   | INFORMATION IN BRAILLE   |
+|-------|--------------------------|
 
 arixtra 7.5 mg
 
@@ -2660,26 +2766,26 @@ arixtra 7.5 mg
 
 2D barcode carrying the unique identifier included.
 
-| 18.   | UNIQUE IDENTIFIER -HUMANREADABLE DATA   |
-|-------|-----------------------------------------|
+| 18.   | UNIQUE IDENTIFIER - HUMAN READABLE DATA   |
+|-------|-------------------------------------------|
 
 PC: SN: NN:
 
 <div style=\"page-break-after: always\"></div>
 
-| MINIMUM PARTICULARS TO APPEAR ONSMALLIMMEDIATE PACKAGING UNITS   |
-|------------------------------------------------------------------|
-| PRE-FILLED SYRINGE                                               |
+| MINIMUM PARTICULARS TO APPEAR ON SMALL IMMEDIATE PACKAGING UNITS   |
+|--------------------------------------------------------------------|
+| PRE-FILLED SYRINGE                                                 |
 
-| 1.   | NAMEOFTHEMEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION   |
-|------|-------------------------------------------------------------|
+| 1.   | NAME OF THE MEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION   |
+|------|----------------------------------------------------------------|
 
 Arixtra 7.5 mg/0.6 ml injection fondaparinux Na
 
 SC
 
-| 2.   | METHODOFADMINISTRATION   |
-|------|--------------------------|
+| 2.   | METHOD OF ADMINISTRATION   |
+|------|----------------------------|
 
 | 3.   | EXPIRY DATE   |
 |------|---------------|
@@ -2691,14 +2797,14 @@ EXP
 
 Lot
 
-| 5.   | CONTENTS BY WEIGHT, BYVOLUMEORBYUNIT   |
-|------|----------------------------------------|
+| 5.   | CONTENTS BY WEIGHT, BY VOLUME OR BY UNIT   |
+|------|--------------------------------------------|
 
 <div style=\"page-break-after: always\"></div>
 
 ## PARTICULARS TO APPEAR ON THE OUTER PACKAGING
 
-## OUTER BOX
+OUTER BOX
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
@@ -2714,13 +2820,19 @@ Also contains: sodium chloride, water for injections, hydrochloric acid, sodium 
 
 ## 4. PHARMACEUTICAL FORM AND CONTENTS
 
-Solution for injection, 2 pre-filled syringes with an automatic safety system Solution for injection, 7 pre-filled syringes with an automatic safety system
+Solution for injection, 2 pre-filled syringes with an automatic safety system
+
+Solution for injection, 7 pre-filled syringes with an automatic safety system
 
 Solution for injection, 10 pre-filled syringes with an automatic safety system
 
 Solution for injection, 20 pre-filled syringes with an automatic safety system
 
-Solution for injection, 2 pre-filled syringes with a manual safety system Solution for injection, 10 pre-filled syringes with a manual safety system Solution for injection, 20 pre-filled syringes with a manual safety system
+Solution for injection, 2 pre-filled syringes with a manual safety system
+
+Solution for injection, 10 pre-filled syringes with a manual safety system
+
+Solution for injection, 20 pre-filled syringes with a manual safety system
 
 ## 5. METHOD AND ROUTE(S) OF ADMINISTRATION
 
@@ -2740,57 +2852,51 @@ The syringe needle shield contains latex. May cause severe allergic reactions.
 
 <div style=\"page-break-after: always\"></div>
 
-## 8. EXPIRY DATE
+| 8.   | EXPIRY DATE   |
+|------|---------------|
 
 EXP
 
-## 9. SPECIAL STORAGE CONDITIONS
+| 9.   | SPECIAL STORAGE CONDITIONS   |
+|------|------------------------------|
 
 Store below 25°C. Do not freeze.
 
-10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
+| 10.   | SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE   |
+|-------|-----------------------------------------------------------------------------------------------------------------------------------------|
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
-Viatris Healthcare Limited
+Viatris Healthcare Limited Damastown Industrial Park, Mulhuddart Dublin 15, DUBLIN Ireland
 
-Damastown Industrial Park,
+| 12. MARKETING AUTHORISATION NUMBER(S)   |
+|-----------------------------------------|
 
-Mulhuddart
-
-Dublin 15,
-
-DUBLIN
-
-Ireland
-
-## 12. MARKETING AUTHORISATION NUMBER(S)
-
-EU/1/02/206/015 - 2 pre-filled syringes with an automatic safety system
-
-EU/1/02/206/016 - 7 pre-filled syringes with an automatic safety system
+EU/1/02/206/015 - 2 pre-filled syringes with an automatic safety system EU/1/02/206/016 - 7 pre-filled syringes with an automatic safety system
 
 EU/1/02/206/017 - 10 pre-filled syringes with an automatic safety system
 
 EU/1/02/206/020 - 20 pre-filled syringe with an automatic safety system
 
-EU/1/02/206/031 - 2 pre-filled syringes with a manual safety system
-
-EU/1/02/206/032 - 10 pre-filled syringes with a manual safety system
+EU/1/02/206/031 - 2 pre-filled syringes with a manual safety system EU/1/02/206/032 - 10 pre-filled syringes with a manual safety system
 
 EU/1/02/206/035 - 20 pre-filled syringes with a manual safety system
 
-## 13. BATCH NUMBER
+| 13.   | BATCH NUMBER   |
+|-------|----------------|
 
 Lot
 
-## 14. GENERAL CLASSIFICATION FOR SUPPLY
+| 14.   | GENERAL CLASSIFICATION FOR SUPPLY   |
+|-------|-------------------------------------|
 
 Medicinal product subject to medical prescription.
 
-## 15. INSTRUCTIONS ON USE
+| 15.   | INSTRUCTIONS ON USE   |
+|-------|-----------------------|
 
-## 16. INFORMATION IN BRAILLE
+| 16.   | INFORMATION IN BRAILLE   |
+|-------|--------------------------|
 
 arixtra 10 mg
 
@@ -2801,26 +2907,28 @@ arixtra 10 mg
 
 2D barcode carrying the unique identifier included.
 
-| 18.   | UNIQUE IDENTIFIER -HUMANREADABLE DATA   |
-|-------|-----------------------------------------|
+| 18.   | UNIQUE IDENTIFIER - HUMAN READABLE DATA   |
+|-------|-------------------------------------------|
 
 PC: SN: NN:
 
+88
+
 <div style=\"page-break-after: always\"></div>
 
-| MINIMUM PARTICULARS TO APPEAR ONSMALLIMMEDIATE PACKAGING UNITS   |
-|------------------------------------------------------------------|
-| PRE-FILLED SYRINGE                                               |
+| MINIMUM PARTICULARS TO APPEAR ON SMALL IMMEDIATE PACKAGING UNITS   |
+|--------------------------------------------------------------------|
+| PRE-FILLED SYRINGE                                                 |
 
-| 1.   | NAMEOFTHEMEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION   |
-|------|-------------------------------------------------------------|
+| 1.   | NAME OF THE MEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION   |
+|------|----------------------------------------------------------------|
 
 Arixtra 10 mg/0.8 ml injection fondaparinux Na
 
 SC
 
-| 2.   | METHODOFADMINISTRATION   |
-|------|--------------------------|
+| 2.   | METHOD OF ADMINISTRATION   |
+|------|----------------------------|
 
 | 3.   | EXPIRY DATE   |
 |------|---------------|
@@ -2832,8 +2940,8 @@ EXP
 
 Lot
 
-| 5.   | CONTENTS BY WEIGHT, BYVOLUMEORBYUNIT   |
-|------|----------------------------------------|
+| 5.   | CONTENTS BY WEIGHT, BY VOLUME OR BY UNIT   |
+|------|--------------------------------------------|
 
 <div style=\"page-break-after: always\"></div>
 
@@ -2841,9 +2949,9 @@ Lot
 
 <div style=\"page-break-after: always\"></div>
 
-## Package leaflet: Information for the user
+## Package leaflet: Information for the user Arixtra 1.5 mg/0.3 ml solution for injection
 
-## Arixtra 1.5 mg/0.3 ml solution for injection fondaparinux sodium
+fondaparinux sodium
 
 ## Read all of this leaflet carefully before you start using this medicine because it contains important information for you.
 
@@ -2863,7 +2971,7 @@ Lot
 
 ## 1. What Arixtra is and what it is used for
 
-Arixtra  is  a  medicine  that  helps  prevent  blood  clots  from  forming  in  the  blood  vessels ( an antithrombotic agent ).
+Arixtra  is  a  medicine  that  helps  prevent blood  clots  from  forming  in  the  blood vessels ( an antithrombotic agent ).
 
 Arixtra contains a synthetic substance called fondaparinux sodium. This stops a clotting factor Xa ('ten-A') from working in the blood, and so prevents unwanted blood clots ( thromboses ) from forming in the blood vessels.
 
@@ -2935,7 +3043,7 @@ If you have kidney disease, the dose may be reduced to 1.5 mg once a day.
 
 ## How Arixtra is given
 
-- Arixtra  is  given  by  injection  under  the  skin  ( subcutaneously )  into  a  skin  fold  of  the  lower abdominal area. The syringes are pre-filled with the exact dose you need. There are different syringes for the 2.5 mg and 1.5 mg doses. For step-by-step instructions please see over the page
+- Arixtra is  given by  injection  under  the  skin  ( subcutaneously )  into  a  skin  fold of  the  lower abdominal area. The syringes are pre-filled with the exact dose you need. There are different syringes for the 2.5 mg and 1.5 mg doses. For step-by-step instructions please see over the page
 - Do not inject Arixtra into muscle.
 
 ## How long should Arixtra be taken for
@@ -3144,13 +3252,17 @@ Viatris AS
 
 Tlf: + 47 66 75 33 00
 
-<div style=\"page-break-after: always\"></div>
-
 ## Ελλάδα
 
 Viatris Hellas Ltd
 
 Τηλ: +30 2100 100 002
+
+## Österreich
+
+Viatris Austria GmbH
+
+Tel: +43 1 86390
 
 ## España
 
@@ -3158,65 +3270,17 @@ Viatris Pharmaceuticals, S.L.
 
 Tel: +34 900 102 712
 
-## France
-
-Viatris Santé
-
-Tél: + 33 (0)4 37 25 75 00
-
-## Hrvatska
-
-Viatris Hrvatska d.o.o.
-
-Tel: +385 1 23 50 599
-
-## Ireland
-
-Viatris Limited
-
-Tel: +353 1 8711600
-
-## Ísland
-
-Icepharma hf.
-
-Sími: +354 540 8000
-
-## Italia
-
-Viatris Italia S.r.l.
-
-Tel: + 39 (0) 2 612 46921
-
-## Κύπρος
-
-GPA Pharmaceuticals Ltd
-
-Τηλ: +357 22863100
-
-## Latvija
-
-Viatris SIA
-
-Tel: +371 676 055 80
-
-## This leaflet was last revised in {MM/YYYY}.
-
-## Other sources of information
-
-Detailed information on this medicine is available on the European Medicines Agency web site: http://www.ema.europa.eu.
-
-## Österreich
-
-Mylan Österreich GmbH
-
-Tel: +43 1 86390
-
 ## Polska
 
 Viatris Healthcare Sp. z o.o.
 
 Tel.: + 48 22 546 64 00
+
+## France
+
+Viatris Santé
+
+Tél: + 33 4 37 25 75 00
 
 ## Portugal
 
@@ -3224,11 +3288,23 @@ Viatris Healthcare, Lda.
 
 Tel: + 351 21 412 72 00
 
+## Hrvatska
+
+Viatris Hrvatska d.o.o.
+
+Tel: +385 1 23 50 599
+
 ## România
 
 BGP Products SRL
 
 Tel: +40 372 579 000
+
+## Ireland
+
+Viatris Limited
+
+Tel: +353 1 8711600
 
 ## Slovenija
 
@@ -3236,11 +3312,23 @@ Viatris d.o.o.
 
 Tel: + 386 1 23 63 180
 
+## Ísland
+
+Icepharma hf.
+
+Sími: +354 540 8000
+
 ## Slovenská republika
 
 Viatris Slovakia s.r.o.
 
 Tel: +421 2 32 199 100
+
+## Italia
+
+Viatris Italia S.r.l.
+
+Tel: + 39 (0) 2 612 46921
 
 ## Suomi/Finland
 
@@ -3248,17 +3336,31 @@ Viatris Oy
 
 Puh/Tel: +358 20 720 9555
 
+## Κύπρος
+
+CPO Pharmaceuticals Limited
+
+Τηλ: +357 22863100
+
 ## Sverige
 
 Viatris AB
 
 Tel: + 46 (0)8 630 19 00
 
-## United Kingdom (Northern Ireland)
+## Latvija
 
-Mylan IRE Healthcare Limited
+Viatris SIA
 
-Tel: +353 18711600
+Tel: +371 676 055 80
+
+<div style=\"page-break-after: always\"></div>
+
+## This leaflet was last revised in {MM/YYYY}.
+
+## Other sources of information
+
+Detailed information on this medicine is available on the European Medicines Agency web site: http://www.ema.europa.eu.
 
 <div style=\"page-break-after: always\"></div>
 
@@ -3283,6 +3385,10 @@ Picture 2 . Syringe with a manual needle protection system
 
 <!-- image -->
 
+Picture 3. Syringe with a manual needle protection system showing security sleeve being pulled over needle AFTER USE
+
+<!-- image -->
+
 ## STEP BY STEP GUIDE TO USING ARIXTRA
 
 ## Instructions for use
@@ -3296,10 +3402,6 @@ These instructions are for both types of syringes (automatic and manual needle p
 - the expiry date has not passed
 - the solution is clear and colourless and doesn't contain particles
 - the syringe has not been opened or damaged
-
-Picture 3. Syringe with a manual needle protection system showing security sleeve being pulled over needle AFTER USE
-
-<!-- image -->
 
 <div style=\"page-break-after: always\"></div>
 
@@ -3379,7 +3481,7 @@ Picture F
 - Keep this leaflet. You may need to read it again.
 - If you have any further questions, ask your doctor or pharmacist.
 - This medicine has been prescribed for you only. Do not pass it on to others. It may harm them, even if their signs of illness are the same as yours.
-- If  you get any side effects, talk to your doctor or pharmacist. This includes any possible side effects not listed in this leaflet. See section 4.
+- If you get any side effects, talk to your doctor or pharmacist. This includes any possible side effects not listed in this leaflet. See section 4.
 
 ## What is in this leaflet :
 
@@ -3392,7 +3494,7 @@ Picture F
 
 ## 1. What Arixtra is and what it is used for
 
-Arixtra  is  a  medicine  that  helps  prevent  blood  clots  from  forming  in  the  blood  vessels ( an antithrombotic agent ).
+Arixtra  is  a  medicine  that  helps  prevent blood  clots  from  forming  in  the  blood vessels ( an antithrombotic agent ).
 
 Arixtra contains a synthetic substance called fondaparinux sodium. This stops a clotting factor Xa ('tenA') from working in the blood, and so prevents unwanted blood clots ( thromboses ) from forming in the blood vessels.
 
@@ -3441,11 +3543,11 @@ Tell your doctor or pharmacist if you are taking, have recently taken or might t
 
 ## Pregnancy and breast-feeding
 
-Arixtra  should  not be prescribed  to  pregnant  women  unless  clearly  necessary. Breast-feeding is not recommended during treatment with Arixtra. If you are pregnant , or breast-feeding , think you may be pregnant or are planning to have a baby, ask your doctor or pharmacist for advice before taking this medicine.
+Arixtra should not be  prescribed to pregnant women unless clearly necessary. Breast-feeding is not recommended during treatment with Arixtra. If you are pregnant , or breast-feeding , think you may be pregnant or are planning to have a baby, ask your doctor or pharmacist for advice before taking this medicine.
 
 ## Arixtra contains sodium
 
-This medicinal product contains less than 23 mg of sodium in each dose and therefore is essentially sodium-free.
+This medicinal product contains less  than 23 mg of sodium in each dose and therefore is essentially sodium-free.
 
 ## Arixtra syringe may contain latex
 
@@ -3465,7 +3567,7 @@ If you have kidney disease, the dose may be reduced to 1.5 mg once a day.
 
 ## How Arixtra is given
 
-- Arixtra  is  given  by  injection  under  the  skin  ( subcutaneously )  into  a  skin  fold  of  the  lower abdominal area. The syringes are pre-filled with the exact dose you need. There are different syringes for the 2.5 mg and 1.5 mg doses. For step-by-step instructions please see over the page . To treat some types of heart attack, a health professional may give the first dose into a vein ( intravenously ).
+- Arixtra is  given by  injection  under  the  skin  ( subcutaneously )  into  a  skin  fold of  the  lower abdominal area. The syringes are pre-filled with the exact dose you need. There are different syringes for the 2.5 mg and 1.5 mg doses. For step-by-step instructions please see over the page . To treat some types of heart attack, a health professional may give the first dose into a vein ( intravenously ).
 - Do not inject Arixtra into muscle.
 
 ## How long should Arixtra be taken for
@@ -3474,7 +3576,7 @@ You should continue Arixtra treatment for as long as your doctor has told you, s
 
 ## If you inject too much Arixtra
 
-Contact  your  doctor  or  pharmacist  for  advice  as  soon  as  possible,  because  of  the  increased  risk  of bleeding.
+Contact your doctor or pharmacist for advice as  soon as  possible, because  of the increased  risk of bleeding.
 
 ## If you forget to take Arixtra
 
@@ -3595,7 +3697,7 @@ Aspen Notre Dame de Bondeville, 1 rue de l'Abbaye, F-76960 Notre Dame de Bondevi
 
 Mylan Germany GmbH, Zweigniederlassung Bad Homburg v. d. Höhe, Benzstrasse 1, 61352 Bad Homburg v. d. Höhe, Germany
 
-For  any  information  about  this  medicinal  product,  please  contact  the  local  representative  of  the Marketing Authorisation Holder.
+For  any  information about  this  medicinal  product,  please  contact  the  local  representative  of  the Marketing Authorisation Holder.
 
 ## België/Belgique/Belgien
 
@@ -3671,13 +3773,17 @@ Viatris AS
 
 Tlf: + 47 66 75 33 00
 
-<div style=\"page-break-after: always\"></div>
-
 ## Ελλάδα
 
 Viatris Hellas Ltd
 
 Τηλ: +30 2100 100 002
+
+## Österreich
+
+Viatris Austria GmbH
+
+Tel: +43 1 86390
 
 ## España
 
@@ -3685,65 +3791,17 @@ Viatris Pharmaceuticals, S.L.
 
 Tel: +34 900 102 712
 
-## France
-
-Viatris Santé
-
-Tél: + 33 (0)4 37 25 75 00
-
-## Hrvatska
-
-Viatris Hrvatska d.o.o.
-
-Tel: +385 1 23 50 599
-
-## Ireland
-
-Viatris Limited
-
-Tel: +353 1 8711600
-
-## Ísland
-
-Icepharma hf.
-
-Sími: +354 540 8000
-
-## Italia
-
-Viatris Italia S.r.l.
-
-Tel: + 39 (0) 2 612 46921
-
-## Κύπρος
-
-GPA Pharmaceuticals Ltd
-
-Τηλ: +357 22863100
-
-## Latvija
-
-Viatris SIA
-
-Tel: +371 676 055 80
-
-## This leaflet was last revised in {MM/YYYY}.
-
-## Other sources of information
-
-Detailed information on this medicine is available on the European Medicines Agency web site: http://www.ema.europa.eu.
-
-## Österreich
-
-Mylan Österreich GmbH
-
-Tel: +43 1 86390
-
 ## Polska
 
 Viatris Healthcare Sp. z o.o.
 
 Tel.: + 48 22 546 64 00
+
+## France
+
+Viatris Santé
+
+Tél: + 33 4 37 25 75 00
 
 ## Portugal
 
@@ -3751,11 +3809,23 @@ Viatris Healthcare, Lda.
 
 Tel: + 351 21 412 72 00
 
+## Hrvatska
+
+Viatris Hrvatska d.o.o.
+
+Tel: +385 1 23 50 599
+
 ## România
 
 BGP Products SRL
 
 Tel: +40 372 579 000
+
+## Ireland
+
+Viatris Limited
+
+Tel: +353 1 8711600
 
 ## Slovenija
 
@@ -3763,11 +3833,23 @@ Viatris d.o.o.
 
 Tel: + 386 1 23 63 180
 
+## Ísland
+
+Icepharma hf.
+
+Sími: +354 540 8000
+
 ## Slovenská republika
 
 Viatris Slovakia s.r.o.
 
 Tel: +421 2 32 199 100
+
+## Italia
+
+Viatris Italia S.r.l.
+
+Tel: + 39 (0) 2 612 46921
 
 ## Suomi/Finland
 
@@ -3775,17 +3857,31 @@ Viatris Oy
 
 Puh/Tel: +358 20 720 9555
 
+## Κύπρος
+
+CPO Pharmaceuticals Limited
+
+Τηλ: +357 22863100
+
 ## Sverige
 
 Viatris AB
 
 Tel: + 46 (0)8 630 19 00
 
-## United Kingdom (Northern Ireland)
+## Latvija
 
-Mylan IRE Healthcare Limited
+Viatris SIA
 
-Tel: +353 18711600
+Tel: +371 676 055 80
+
+<div style=\"page-break-after: always\"></div>
+
+## This leaflet was last revised in {MM/YYYY}.
+
+## Other sources of information
+
+Detailed information on this medicine is available on the European Medicines Agency web site: http://www.ema.europa.eu.
 
 <div style=\"page-break-after: always\"></div>
 
@@ -3848,11 +3944,13 @@ Discard the needle shield.
 
 - Do not touch the needle or allow it to touch any surface before the injection.
 - It is normal to see a small air bubble in this syringe. Do not try to remove this air bubble before making the injection - you may lose some of the medicine if you do.
-6. Gently pinch the skin that has been cleaned to make a Hold the fold between the thumb and the forefinger
 
-fold. during the entire injection (picture C ).
+## 6. Gently pinch the skin that has been cleaned to make a
 
-7. Hold the syringe firmly by the finger grip. Insert the full length of the needle at right angles into the skin fold (picture D ).
+- fold. Hold the fold between the thumb and the forefinger during the entire injection (picture C ).
+7. Hold the syringe firmly by the finger grip. Insert the full length of the needle at right angles into the skin
+
+fold (picture D ).
 
 <!-- image -->
 
@@ -3876,7 +3974,7 @@ Picture D
 
 <div style=\"page-break-after: always\"></div>
 
-## 8. Inject ALL of the contents of the syringe by pressing down on the plunger as far as it goes (picture E ).
+8. Inject ALL of the contents of the syringe by pressing down on the plunger as far as it goes (picture E ).
 
 ## Syringe automatic system
 
@@ -4020,7 +4118,9 @@ Like all medicines, this medicine can cause side effects, although not everybody
 
 ## Conditions you need to look out for
 
-Severe allergic reactions (anaphylaxis): These are very rare in people (up to 1 in 10,000) taking Arixtra. Signs include:
+Severe allergic reactions (anaphylaxis): These are very rare in people (up to 1 in 10,000) taking
+
+Arixtra. Signs include:
 
 - swelling, sometimes of the face or mouth ( angioedema ), causing difficulty in swallowing or breathing
 - collapse.
@@ -4212,7 +4312,7 @@ Viatris Hellas Ltd
 
 ## Österreich
 
-Mylan Österreich GmbH
+Viatris Austria GmbH
 
 Tel: +43 1 86390
 
@@ -4228,15 +4328,13 @@ Viatris Healthcare Sp. z o.o.
 
 Tel.: + 48 22 546 64 00
 
-<div style=\"page-break-after: always\"></div>
-
 ## France
-
-## Portugal
 
 Viatris Santé
 
-Tél: + 33 (0)4 37 25 75 00
+Tél: + 33 4 37 25 75 00
+
+## Portugal
 
 Viatris Healthcare, Lda.
 
@@ -4292,7 +4390,7 @@ Puh/Tel: +358 20 720 9555
 
 ## Κύπρος
 
-GPA Pharmaceuticals Ltd
+CPO Pharmaceuticals Limited
 
 Τηλ: +357 22863100
 
@@ -4308,11 +4406,7 @@ Viatris SIA
 
 Tel: +371 676 055 80
 
-## United Kingdom (Northern Ireland)
-
-Mylan IRE Healthcare Limited
-
-Tel: +353 18711600
+<div style=\"page-break-after: always\"></div>
 
 ## This leaflet was last revised in {MM/YYYY}.
 
@@ -4347,7 +4441,7 @@ Picture 2. Syringe with a manual needle protection system
 
 ## Instructions for use
 
-These instructions  are  for  both  types  of  syringes  (automatic  and  manual  needle  protection  system). Where the instruction for a syringe is different this is clearly stated.
+These  instructions are for both types of syringes (automatic and  manual needle  protection system). Where the instruction for a syringe is different this is clearly stated.
 
 1. Wash your hands thoroughly with soap and water and dry them with a towel.
 

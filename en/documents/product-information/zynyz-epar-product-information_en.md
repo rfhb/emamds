@@ -1,20 +1,20 @@
 ---
-document_datetime: 2024-05-01 13:10:59
-document_pages: 33
+document_datetime: 2026-01-26 14:23:05
+document_pages: 35
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/zynyz-epar-product-information_en.pdf
 document_name: zynyz-epar-product-information_en.pdf
 version: success
-processing_time: 7.3317273
-conversion_datetime: 2025-12-17 22:19:39.119801
+processing_time: 7.6297898
+conversion_datetime: 2026-01-29 11:46:25.193199
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.64.1
-  docling-core: 2.55.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.11.0
+  docling-jobkit: 1.9.0
+  docling: 2.70.0
+  docling-core: 2.61.0
+  docling-ibm-models: 3.11.0
+  docling-parse: 4.7.3
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.1-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
 ---
 ## ANNEX I
 
@@ -169,15 +169,19 @@ Early identification and management of immune-related adverse reactions is essen
 
 Based on the severity of the adverse reaction, treatment with retifanlimab should be withheld or permanently discontinued and corticosteroids (1 to 2 mg/kg/day prednisone or equivalent) or other appropriate therapy administered . Upon improvement to Grade ≤ 1, corticosteroid taper should be initiated and continued for at least 1 month (see Table 1).
 
+In patients with pre-existing autoimmune disease (AID), data from observational studies suggest that the risk of immune-mediated adverse reactions following immune-checkpoint inhibitor therapy may be increased as compared with the risk in patients without pre-existing AID. In addition, flares of the underlying AID were frequent, but the majority were mild and manageable. However, data specific to retifanlimab are scarce.
+
 ## Immune-related pneumonitis
 
-Immune-related pneumonitis has been reported in patients receiving retifanlimab (see section 4.8). Patients should be monitored for signs and symptoms of pneumonitis. Suspected pneumonitis should be confirmed with radiographic imaging and other causes excluded. Patients should be managed with retifanlimab treatment modifications and corticosteroids (see Table 1).
+Immune-related pneumonitis has been reported in patients receiving retifanlimab (see section 4.8). Patients should be monitored for signs and symptoms of pneumonitis. Suspected pneumonitis should
+
+<div style=\"page-break-after: always\"></div>
+
+be confirmed with radiographic imaging and other causes excluded. Patients should be managed with retifanlimab treatment modifications and corticosteroids (see Table 1).
 
 ## Immune-related colitis
 
 Immune-related colitis has been reported in patients receiving retifanlimab (see section 4.8). Patients should be monitored for signs and symptoms of colitis and managed with retifanlimab treatment modifications, anti-diarrhoeal agents and corticosteroids (see Table 1).
-
-<div style=\"page-break-after: always\"></div>
 
 ## Immune-related hepatitis
 
@@ -211,13 +215,13 @@ Immune-related nephritis has been reported in patients receiving retifanlimab (s
 
 Immune-related skin reactions, such as toxic epidermal necrolysis, have been reported in patients receiving retifanlimab (see section 4.8). Events of Stevens-Johnson syndrome have been reported in patients treated with PD-1 inhibitors. Patients should be monitored for signs and symptoms of skin reactions. Immune-related skin reactions should be managed as recommended in Table 1.
 
+<div style=\"page-break-after: always\"></div>
+
 Caution should be used when considering the use of retifanlimab in a patient who has previously experienced a severe or life-threatening skin adverse reaction on prior treatment with other checkpoint inhibitors.
 
 ## Other immune-related adverse reactions
 
 Clinically significant, immune-related adverse reactions were reported in patients treated with retifanlimab in clinical studies including: uveitis, arthritis, myositis, demyelinating polyneuropathy (e.g. Guillain Barré syndrome), pancreatitis and myocarditis (see section 4.8).
-
-<div style=\"page-break-after: always\"></div>
 
 Patients should be monitored for signs and symptoms of immune-related adverse reactions and managed with retifanlimab treatment modifications as described in section 4.2.
 
@@ -247,11 +251,11 @@ This medicinal product contains less than 1 mmol sodium (23 mg) per dose, that i
 
 No formal pharmacokinetic drug interaction studies have been conducted with retifanlimab. Since retifanlimab is cleared from the circulation through catabolism, no metabolic drug-drug interactions are expected.
 
+<div style=\"page-break-after: always\"></div>
+
 The use of systemic corticosteroids or immunosuppressants before starting retifanlimab, except for physiological doses of systemic corticosteroids (≤ 10 mg/day prednisone or equivalent), should be avoided because of their potential interference with the pharmacodynamic activity and efficacy of retifanlimab. However, systemic corticosteroids or other immunosuppressants can be used after starting retifanlimab to treat immune-related adverse reactions (see sections 4.2 and 4.4).
 
 Retifanlimab is not expected to be a victim or perpetrator of drug-drug interactions involving drug transporters or CYP enzymes.
-
-<div style=\"page-break-after: always\"></div>
 
 ## 4.6 Fertility, pregnancy and lactation
 
@@ -285,15 +289,13 @@ Immune-related adverse reactions occurred with retifanlimab. Most of these, incl
 
 The most common adverse reactions are fatigue (35.4%), rash (18.8%), diarrhoea (18.6%), anaemia (16.2%), pruritus (15.9%), arthralgia (13.3%), constipation (13.3%), nausea (13.3%), pyrexia (13.1%) and decreased appetite (12.6%). Adverse reactions were serious in 11.7% of patients; most serious adverse reactions were immune-related adverse reactions.
 
+<div style=\"page-break-after: always\"></div>
+
 ZYNYZ was permanently discontinued due to adverse reactions in 8% of patients; most of them were immune-related events.
 
 ## Tabulated list of adverse reactions
 
-The safety of retifanlimab has been evaluated in 452 patients with advanced solid malignancies who received the recommended 500 mg every 4 weeks dose, including 107 patients with metastatic or recurrent locally advanced MCC. Median duration of treatment was 5.4 months (range, 1 day
-
-<div style=\"page-break-after: always\"></div>
-
-- 27 months). The frequencies included below are based on all reported adverse drug reactions, regardless of the investigator assessment of causality.
+The safety of retifanlimab has been evaluated in 452 patients with advanced solid malignancies who received the recommended 500 mg every 4 weeks dose, including 107 patients with metastatic or recurrent locally advanced MCC. Median duration of treatment was 5.4 months (range, 1 day - 27 months). The frequencies included below are based on all reported adverse drug reactions, regardless of the investigator assessment of causality.
 
 These reactions are presented by system organ class and by frequency. Frequencies are defined as: very common ( ≥ 1/10); common ( ≥ 1/100 to &lt; 1/10); uncommon ( ≥ 1/1 000 to &lt; 1/100); rare ( ≥ 1/10,000 to &lt; 1/1,000); very rare (&lt; 1/10,000); and not known (cannot be estimated from the available data). Within each frequency grouping, adverse reactions are presented in order of decreasing incidence.
 
@@ -308,12 +310,13 @@ Table 2: Adverse reactions in patients treated with retifanlimab (N = 452)
 | Eye disorders                                   | Uncommon Uveitis e Keratitis                                                                                                | Uncommon Uveitis e                                                     |
 | Cardiac disorders                               | Uncommon Pericarditis Myocarditis                                                                                           | Uncommon Myocarditis                                                   |
 | Respiratory, thoracic and mediastinal disorders | Common Pneumonitis f                                                                                                        | Uncommon Pneumonitis f                                                 |
-| Gastrointestinal disorders                      | Very common Diarrhoea Nausea Constipation Common Colitis g Uncommon Pancreatitis                                            | Uncommon Diarrhoea Pancreatitis Colitis g                              |
+| Gastrointestinal disorders                      | Very common Diarrhoea Nausea Constipation Common Colitis g Uncommon                                                         | Uncommon Diarrhoea Pancreatitis Colitis g                              |
 
 <div style=\"page-break-after: always\"></div>
 
 | System organ class                                   | Frequency of all grades                                                                                                                                                                                                   | Frequency of grades 3-4                                                                                                           |
 |------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------|
+|                                                      | Pancreatitis                                                                                                                                                                                                              |                                                                                                                                   |
 | Hepatobiliary disorders                              | Common Hepatocellular injury Hepatitis h Uncommon Hyperbilirubinaemia Cholangitis                                                                                                                                         | Uncommon Hepatitis h Hepatocellular injury Cholangitis Hyperbilirubinaemia                                                        |
 | Skin and subcutaneous skin disorders                 | Very common Rash i Pruritus                                                                                                                                                                                               | Common Rash i                                                                                                                     |
 | Musculoskeletal and connective tissue disorders      | Very common Arthralgia Uncommon Arthritis j Myositis Eosinophilic fasciitis Polymyalgia rheumatica                                                                                                                        | Uncommon Arthralgia Arthritis j Myositis Eosinophilic fasciitis                                                                   |
@@ -322,7 +325,7 @@ Table 2: Adverse reactions in patients treated with retifanlimab (N = 452)
 | Investigations                                       | Common Transaminases increased l Blood creatinine increased Amylase increased Lipase increased Blood bilirubin increased Blood thyroid stimulating hormone increased Uncommon Blood thyroid stimulating hormone decreased | Common Transaminases increased l Uncommon Blood bilirubin increased Lipase increased Blood creatinine increased Amylase increased |
 | Injury, poisoning and procedural complications       | Common Infusion-related reaction m                                                                                                                                                                                        | Uncommon Infusion-related reaction m                                                                                              |
 
-a Includes anaemia, iron deficiency anaemia, anaemia of malignant disease and anaemia vitamin B12 deficiency
+- a Includes anaemia, iron deficiency anaemia, anaemia of malignant disease and anaemia vitamin B12 deficiency
 
 b Includes thyroiditis and autoimmune thyroiditis
 
@@ -340,13 +343,12 @@ h Includes hepatitis and autoimmune hepatitis
 
 i Includes rash, rash maculo-papular, rash erythematous, rash pruritic, dermatitis, psoriasis, rash macular, rash papular, lichenoid keratosis, rash pustular, dermatitis bullous, palmar-plantar erythrodyseasthesia syndrome, toxic epidermal necrolysis and toxic skin eruption
 
-j Includes arthritis and polyarthritis
-
 <div style=\"page-break-after: always\"></div>
 
 | System organ class   | Frequency of all grades   | Frequency of grades 3-4   |
 |----------------------|---------------------------|---------------------------|
 
+- j Includes arthritis and polyarthritis
 - k Includes asthenia and fatigue
 - l Includes transaminases increased, alanine aminotransferase increased and aspartate aminotransferase increased
 - m Includes drug hypersensitivity and infusion-related reaction
@@ -377,9 +379,11 @@ Hyperthyroidism occurred in 5.8% of patients receiving retifanlimab, including 2
 
 Hypophysitis occurred in 0.7% of patients receiving retifanlimab, including 0.4% of patients with Grade 2 and 0.2% of patients with Grade 3. The median time to onset of hypophysitis was 308 days (range, 266 - 377 days). Hypophysitis led to discontinuation of retifanlimab in 0.2% of patients. Hypophysitis resolved in 33.3% of patients, with a time to resolution of 6 days.
 
-Adrenal insufficiency occurred in 0.9% of patients receiving retifanlimab, including 0.4% of patients with Grade 2 and 0.4% of patients with Grade 3. The median time to onset of adrenal insufficiency was 220.5 days (range, 146 - 275 days). None of the events led to discontinuation of retifanlimab. Adrenal insufficiency resolved in 25% of patients, with a time to resolution of 12 days.
+Adrenal insufficiency occurred in 0.9% of patients receiving retifanlimab, including 0.4% of patients with Grade 2 and 0.4% of patients with Grade 3. The median time to onset of adrenal insufficiency
 
 <div style=\"page-break-after: always\"></div>
+
+was 220.5 days (range, 146 - 275 days). None of the events led to discontinuation of retifanlimab. Adrenal insufficiency resolved in 25% of patients, with a time to resolution of 12 days.
 
 Type 1 diabetes mellitus presenting as diabetic ketoacidosis (Grade 3) occurred in 0.2% of patients receiving retifanlimab. The time to onset of diabetic ketoacidosis was 284 days. The event did not lead to discontinuation of retifanlimab and resolved with a time to resolution of 6 days.
 
@@ -464,7 +468,7 @@ Table 4: Objective response rates by tumour PD-L1 expression and MCPyV status
 | Positive (n = 73)                        | 52.1% (40, 63.9)                                  |
 | Negative, equivocal, or missing (n = 28) | 57.1% (37.2, 75.5)                                |
 
-## MCPyV = Merkel cell polyomavirus.
+MCPyV = Merkel cell polyomavirus.
 
 a PD-L1 expression was determined by IHC using Combined Positive Score (CPS) interpretation.
 
@@ -586,7 +590,7 @@ EU/1/24/1800/001
 
 ## 9. DATE OF FIRST AUTHORISATION/RENEWAL OF THE AUTHORISATION
 
-Date of first authorisation:
+Date of first authorisation: 19 April 2024
 
 ## 10. DATE OF REVISION OF THE TEXT
 
@@ -742,7 +746,8 @@ Lot
 
 14. GENERAL CLASSIFICATION FOR SUPPLY
 15. INSTRUCTIONS ON USE
-16. INFORMATION IN BRAILLE
+
+## 16. INFORMATION IN BRAILLE
 
 Justification for not including Braille accepted.
 
@@ -831,18 +836,19 @@ ZYNYZ is used in adults to treat Merkel cell carcinoma , a rare type of skin can
 
 Talk to your doctor or nurse before you are given ZYNYZ if you have:
 
-- an illness where the body's immune system attacks its own cells
+- an autoimmune disease (a condition where the body attacks its own cells)
 - had a solid organ transplant or a bone marrow (stem cell) transplant that used donor stem cells
 - lung or breathing problems
 - liver or kidney problems
 - diabetes
 
-Tell your doctor immediately if you have any of the following symptoms during treatment or if they get worse:
-
-- lung inflammation (pneumonitis) such as breathing difficulties, chest pain or new or worsening cough.
+ZYNYZ acts on your immune system. It may cause inflammation in parts of your body. Your risk of these side effects may be higher if you already have an autoimmune disease (a condition where the body attacks its own cells). You may also experience frequent flares of your autoimmune disease, which in the majority of cases are mild.
 
 <div style=\"page-break-after: always\"></div>
 
+Tell your doctor immediately if you have any of the following symptoms during treatment or if they get worse:
+
+- lung inflammation (pneumonitis) such as breathing difficulties, chest pain or new or worsening cough.
 - bowel inflammation (colitis) such as frequent diarrhoea often with blood and/or mucus, more bowel movements than usual, stools that are bloody, black or tarry and severe abdominal pain or tenderness.
 - liver inflammation . Symptoms include persistent nausea or vomiting, loss of appetite, pain on the right side of your stomach, eye and/or skin yellowing, drowsiness, dark-coloured urine, bleeding or bruising more easily than normal.
 - hormone gland problems (including the pituitary, thyroid and adrenal glands) that may affect how these glands work. Symptoms include fast heartbeat, dizziness, fainting, extreme tiredness, persistent or unusual headaches, weight change, hair loss, feeling cold or constipation.
@@ -872,11 +878,11 @@ ZYNYZ should not be given to children and adolescents under 18 years of age beca
 
 Tell your doctor or nurse if you are using, have recently used or might use any other medicines. This applies in particular to medicines that suppress your immune system, such as corticosteroids, which may disrupt the effect of ZYNYZ. Once you are treated with ZYNYZ, your doctor may prescribe corticosteroids to reduce side effects that you may have during treatment. This will not impact the effect of the medicine.
 
+<div style=\"page-break-after: always\"></div>
+
 ## Contraception
 
 Women who could become pregnant must use effective contraception during treatment and for minimum 4 months after the last ZYNYZ dose.
-
-<div style=\"page-break-after: always\"></div>
 
 ## Pregnancy
 
@@ -922,9 +928,9 @@ If you have any further questions about your treatment, ask your doctor or nurse
 
 Like all medicines, this medicine can cause side effects, although not everybody gets them.
 
-ZYNYZ can have serious side effects, which can sometimes become life-threatening and can lead to death. These side effects may happen at any time during treatment, or even after your treatment has ended. You may get more than one side effect at the same time (See section 2, 'Warnings and precautions' for symptoms).
-
 <div style=\"page-break-after: always\"></div>
+
+ZYNYZ can have serious side effects, which can sometimes become life-threatening and can lead to death. These side effects may happen at any time during treatment, or even after your treatment has ended. You may get more than one side effect at the same time (See section 2, 'Warnings and precautions' for symptoms).
 
 ## Tell your doctor immediately if you have any of the following serious side effects :
 
@@ -974,11 +980,12 @@ ZYNYZ can have serious side effects, which can sometimes become life-threatening
 - increased blood level of liver enzymes, including alanine aminotransferase, aspartate aminotransferase
 - increased blood levels of bilirubin
 - increased blood levels of creatinine
+
+<div style=\"page-break-after: always\"></div>
+
 - increased blood levels of thyroid stimulating hormone
 - increased level of amylase, an enzyme that breaks down starch
 - increased levels of lipase, an enzyme that breaks down fats
-
-<div style=\"page-break-after: always\"></div>
 
 Uncommon (may affect up to 1 in 100 people):
 
@@ -1021,9 +1028,9 @@ Do not store any unused medicine for reuse. Any unused medicine or waste materia
 
 ZYNYZ is a clear to slightly opalescent, colourless to pale yellow concentrate for solution for infusion (sterile concentrate).
 
-It is available in a pack containing 1 glass vial of 20 mL of concentrate.
-
 <div style=\"page-break-after: always\"></div>
+
+It is available in a pack containing 1 glass vial of 20 mL of concentrate.
 
 ## Marketing Authorisation Holder and Manufacturer
 
@@ -1056,3 +1063,25 @@ The following information is intended for healthcare professionals only:
 
 - Retifanlimab is for single use only; discard any unused portion left in the vial.
 - Any unused medicinal product or waste material should be disposed of in accordance with local requirements.
+
+<div style=\"page-break-after: always\"></div>
+
+## Annex IV
+
+Scientific conclusions and grounds for the variation to the terms of the marketing authorisation(s)
+
+<div style=\"page-break-after: always\"></div>
+
+## Scientific conclusions
+
+Taking into account the PRAC Assessment Report on the PSUR(s) for retifanlimab, the scientific conclusions of PRAC are as follows:
+
+In view of data on patients with pre-existing autoimmune disease, that suggest an increased risk of immune-mediated adverse reactions and flares of the underlying autoimmune disease following therapy from the literature, the PRAC concluded that the product information of products containing retifanlimab should be amended accordingly.
+
+Having reviewed the PRAC recommendation, the CHMP agrees with the PRAC overall conclusions and grounds for recommendation.
+
+## Grounds for the variation to the terms of the marketing authorisation(s)
+
+On the basis of the scientific conclusions for retifanlimab the CHMP is of the opinion that the benefit-risk balance of the medicinal product(s) containing retifanlimab is unchanged subject to the proposed changes to the product information
+
+The CHMP recommends that the terms of the marketing authorisation(s) should be varied.

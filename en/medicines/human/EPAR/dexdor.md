@@ -1,18 +1,18 @@
 ---
-document_datetime: 2025-12-29 10:08:48
+document_datetime: 2026-01-28 13:50:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/dexdor.html
 document_name: dexdor.html
 version: success
-processing_time: 0.1196917
-conversion_datetime: 2025-12-31 07:38:52.819951
+processing_time: 0.144858
+conversion_datetime: 2026-01-29 12:31:00.307364
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.66.0
-  docling-core: 2.57.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.11.0
+  docling-jobkit: 1.9.0
+  docling: 2.70.0
+  docling-core: 2.61.0
+  docling-ibm-models: 3.11.0
+  docling-parse: 4.7.3
   python: cpython-313 (3.13.11)
   plaform: macOS-26.2-arm64-arm-64bit-Mach-O
 ---
@@ -26,8 +26,6 @@ This medicine is authorised for use in the European Union
 
 dexmedetomidine Medicine Human Authorised
 
-On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
-
 Page contents
 
 ## Page contents
@@ -38,6 +36,7 @@ Page contents
 - [Authorisation details](#authorisation-details)
 - [Assessment history](#assessment-history)
 - [News on Dexdor](#news-on)
+- [Product information - with tracked changes](#product-information-with-tracked-changes-83195)
 - [More information on Dexdor](#related-medicines)
 - [Topics](#topics)
 
@@ -126,7 +125,7 @@ English (EN) (91.24 KB - PDF)
 
 [View](/en/documents/overview/dexdor-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-257)
+[Other languages (22)](#file-language-dropdown-999)
 
 български (BG) (110.7 KB - PDF)
 
@@ -406,17 +405,17 @@ English (EN) (11.07 MB - PDF)
 
 Dexdor : EPAR - Product Information
 
-English (EN) (220.53 KB - PDF)
+English (EN) (229.44 KB - PDF)
 
 **First published:** 04/10/2011
 
-**Last updated:** 14/07/2022
+**Last updated:** 28/01/2026
 
 [View](/en/documents/product-information/dexdor-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-499)
+[Other languages (24)](#file-language-dropdown-860)
 
-български (BG) (253.4 KB - PDF)
+български (BG) (265.48 KB - PDF)
 
 **First published:**
 
@@ -424,11 +423,11 @@ English (EN) (220.53 KB - PDF)
 
 **Last updated:**
 
-14/07/2022
+28/01/2026
 
 [View](/bg/documents/product-information/dexdor-epar-product-information_bg.pdf)
 
-español (ES) (228.17 KB - PDF)
+español (ES) (234.38 KB - PDF)
 
 **First published:**
 
@@ -436,11 +435,11 @@ español (ES) (228.17 KB - PDF)
 
 **Last updated:**
 
-14/07/2022
+28/01/2026
 
 [View](/es/documents/product-information/dexdor-epar-product-information_es.pdf)
 
-čeština (CS) (222.27 KB - PDF)
+čeština (CS) (219.97 KB - PDF)
 
 **First published:**
 
@@ -448,11 +447,11 @@ español (ES) (228.17 KB - PDF)
 
 **Last updated:**
 
-14/07/2022
+28/01/2026
 
 [View](/cs/documents/product-information/dexdor-epar-product-information_cs.pdf)
 
-dansk (DA) (233.12 KB - PDF)
+dansk (DA) (234.9 KB - PDF)
 
 **First published:**
 
@@ -460,11 +459,11 @@ dansk (DA) (233.12 KB - PDF)
 
 **Last updated:**
 
-14/07/2022
+28/01/2026
 
 [View](/da/documents/product-information/dexdor-epar-product-information_da.pdf)
 
-Deutsch (DE) (234.04 KB - PDF)
+Deutsch (DE) (239.68 KB - PDF)
 
 **First published:**
 
@@ -472,11 +471,11 @@ Deutsch (DE) (234.04 KB - PDF)
 
 **Last updated:**
 
-14/07/2022
+28/01/2026
 
 [View](/de/documents/product-information/dexdor-epar-product-information_de.pdf)
 
-eesti keel (ET) (216.52 KB - PDF)
+eesti keel (ET) (224.66 KB - PDF)
 
 **First published:**
 
@@ -484,11 +483,11 @@ eesti keel (ET) (216.52 KB - PDF)
 
 **Last updated:**
 
-14/07/2022
+28/01/2026
 
 [View](/et/documents/product-information/dexdor-epar-product-information_et.pdf)
 
-ελληνικά (EL) (298.25 KB - PDF)
+ελληνικά (EL) (304.55 KB - PDF)
 
 **First published:**
 
@@ -496,11 +495,11 @@ eesti keel (ET) (216.52 KB - PDF)
 
 **Last updated:**
 
-14/07/2022
+28/01/2026
 
 [View](/el/documents/product-information/dexdor-epar-product-information_el.pdf)
 
-français (FR) (235.17 KB - PDF)
+français (FR) (243.67 KB - PDF)
 
 **First published:**
 
@@ -508,11 +507,11 @@ français (FR) (235.17 KB - PDF)
 
 **Last updated:**
 
-14/07/2022
+28/01/2026
 
 [View](/fr/documents/product-information/dexdor-epar-product-information_fr.pdf)
 
-hrvatski (HR) (237.38 KB - PDF)
+hrvatski (HR) (244.51 KB - PDF)
 
 **First published:**
 
@@ -520,11 +519,11 @@ hrvatski (HR) (237.38 KB - PDF)
 
 **Last updated:**
 
-14/07/2022
+28/01/2026
 
 [View](/hr/documents/product-information/dexdor-epar-product-information_hr.pdf)
 
-íslenska (IS) (237.47 KB - PDF)
+íslenska (IS) (239.59 KB - PDF)
 
 **First published:**
 
@@ -532,11 +531,11 @@ hrvatski (HR) (237.38 KB - PDF)
 
 **Last updated:**
 
-14/07/2022
+28/01/2026
 
 [View](/is/documents/product-information/dexdor-epar-product-information_is.pdf)
 
-italiano (IT) (224.1 KB - PDF)
+italiano (IT) (231.83 KB - PDF)
 
 **First published:**
 
@@ -544,11 +543,11 @@ italiano (IT) (224.1 KB - PDF)
 
 **Last updated:**
 
-14/07/2022
+28/01/2026
 
 [View](/it/documents/product-information/dexdor-epar-product-information_it.pdf)
 
-latviešu valoda (LV) (238.7 KB - PDF)
+latviešu valoda (LV) (242.51 KB - PDF)
 
 **First published:**
 
@@ -556,11 +555,11 @@ latviešu valoda (LV) (238.7 KB - PDF)
 
 **Last updated:**
 
-14/07/2022
+28/01/2026
 
 [View](/lv/documents/product-information/dexdor-epar-product-information_lv.pdf)
 
-lietuvių kalba (LT) (222.76 KB - PDF)
+lietuvių kalba (LT) (229.86 KB - PDF)
 
 **First published:**
 
@@ -568,11 +567,11 @@ lietuvių kalba (LT) (222.76 KB - PDF)
 
 **Last updated:**
 
-14/07/2022
+28/01/2026
 
 [View](/lt/documents/product-information/dexdor-epar-product-information_lt.pdf)
 
-magyar (HU) (236.29 KB - PDF)
+magyar (HU) (246.42 KB - PDF)
 
 **First published:**
 
@@ -580,11 +579,11 @@ magyar (HU) (236.29 KB - PDF)
 
 **Last updated:**
 
-14/07/2022
+28/01/2026
 
 [View](/hu/documents/product-information/dexdor-epar-product-information_hu.pdf)
 
-Malti (MT) (266.84 KB - PDF)
+Malti (MT) (275.92 KB - PDF)
 
 **First published:**
 
@@ -592,11 +591,11 @@ Malti (MT) (266.84 KB - PDF)
 
 **Last updated:**
 
-14/07/2022
+28/01/2026
 
 [View](/mt/documents/product-information/dexdor-epar-product-information_mt.pdf)
 
-Nederlands (NL) (229.46 KB - PDF)
+Nederlands (NL) (235.03 KB - PDF)
 
 **First published:**
 
@@ -604,11 +603,11 @@ Nederlands (NL) (229.46 KB - PDF)
 
 **Last updated:**
 
-14/07/2022
+28/01/2026
 
 [View](/nl/documents/product-information/dexdor-epar-product-information_nl.pdf)
 
-norsk (NO) (219.78 KB - PDF)
+norsk (NO) (227.79 KB - PDF)
 
 **First published:**
 
@@ -616,11 +615,11 @@ norsk (NO) (219.78 KB - PDF)
 
 **Last updated:**
 
-14/07/2022
+28/01/2026
 
 [View](/no/documents/product-information/dexdor-epar-product-information_no.pdf)
 
-polski (PL) (237.15 KB - PDF)
+polski (PL) (246.76 KB - PDF)
 
 **First published:**
 
@@ -628,11 +627,11 @@ polski (PL) (237.15 KB - PDF)
 
 **Last updated:**
 
-14/07/2022
+28/01/2026
 
 [View](/pl/documents/product-information/dexdor-epar-product-information_pl.pdf)
 
-português (PT) (224.19 KB - PDF)
+português (PT) (231.81 KB - PDF)
 
 **First published:**
 
@@ -640,11 +639,11 @@ português (PT) (224.19 KB - PDF)
 
 **Last updated:**
 
-14/07/2022
+28/01/2026
 
 [View](/pt/documents/product-information/dexdor-epar-product-information_pt.pdf)
 
-română (RO) (238.5 KB - PDF)
+română (RO) (239.37 KB - PDF)
 
 **First published:**
 
@@ -652,11 +651,11 @@ română (RO) (238.5 KB - PDF)
 
 **Last updated:**
 
-14/07/2022
+28/01/2026
 
 [View](/ro/documents/product-information/dexdor-epar-product-information_ro.pdf)
 
-slovenčina (SK) (243.19 KB - PDF)
+slovenčina (SK) (251.72 KB - PDF)
 
 **First published:**
 
@@ -664,11 +663,11 @@ slovenčina (SK) (243.19 KB - PDF)
 
 **Last updated:**
 
-14/07/2022
+28/01/2026
 
 [View](/sk/documents/product-information/dexdor-epar-product-information_sk.pdf)
 
-slovenščina (SL) (230.52 KB - PDF)
+slovenščina (SL) (237.46 KB - PDF)
 
 **First published:**
 
@@ -676,11 +675,11 @@ slovenščina (SL) (230.52 KB - PDF)
 
 **Last updated:**
 
-14/07/2022
+28/01/2026
 
 [View](/sl/documents/product-information/dexdor-epar-product-information_sl.pdf)
 
-Suomi (FI) (221.96 KB - PDF)
+Suomi (FI) (229.4 KB - PDF)
 
 **First published:**
 
@@ -688,11 +687,11 @@ Suomi (FI) (221.96 KB - PDF)
 
 **Last updated:**
 
-14/07/2022
+28/01/2026
 
 [View](/fi/documents/product-information/dexdor-epar-product-information_fi.pdf)
 
-svenska (SV) (225.9 KB - PDF)
+svenska (SV) (228.74 KB - PDF)
 
 **First published:**
 
@@ -700,11 +699,11 @@ svenska (SV) (225.9 KB - PDF)
 
 **Last updated:**
 
-14/07/2022
+28/01/2026
 
 [View](/sv/documents/product-information/dexdor-epar-product-information_sv.pdf)
 
-**Latest procedure affecting product information:** II/0035 08/07/2022
+**Latest procedure affecting product information:** N/0000320486 26/01/2026
 
 icon globe
 
@@ -730,7 +729,7 @@ English (EN) (32.81 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/dexdor-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-578)
+[Other languages (24)](#file-language-dropdown-511)
 
 български (BG) (37.11 KB - PDF)
 
@@ -1040,7 +1039,7 @@ Orion Corporation
 
 Orionintie 1
 
-Marketing authorisation issued 15/09/2011 Revision 17
+Marketing authorisation issued 15/09/2011 Revision 18
 
 ## Assessment history
 
@@ -1052,9 +1051,11 @@ Collapse section
 
 Dexdor : EPAR - Procedural steps taken and scientific information after authorisation
 
-English (EN) (142.92 KB - PDF)
+English (EN) (159.82 KB - PDF)
 
 **First published:** 11/06/2025
+
+**Last updated:** 28/01/2026
 
 [View](/en/documents/procedural-steps-after/dexdor-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf)
 
@@ -1170,6 +1171,212 @@ English (EN) (1.06 MB - PDF)
 
 [Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 25-28 June 2018](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-25-28-june-2018) 29/06/2018
 
+#### Product information - with tracked changes
+
+The approved product information for this medicine is available below showing the changes since the previous procedure affecting the product information. The same document without tracked changes is above under 'Product information'.
+
+Dexdor : EPAR - Product information - tracked changes
+
+English (EN) (111.77 KB - DOCX)
+
+**First published:** 28/01/2026
+
+[View](/en/documents/product-information-tracked-changes/dexdor-epar-product-information-tracked-changes_en.docx)
+
+[Other languages (24)](#file-language-dropdown-136)
+
+български (BG) (378 KB - DOC)
+
+**First published:**
+
+28/01/2026
+
+[View](/bg/documents/product-information-tracked-changes/dexdor-epar-product-information-tracked-changes_bg.doc)
+
+español (ES) (294.5 KB - DOC)
+
+**First published:**
+
+28/01/2026
+
+[View](/es/documents/product-information-tracked-changes/dexdor-epar-product-information-tracked-changes_es.doc)
+
+čeština (CS) (297.5 KB - DOC)
+
+**First published:**
+
+28/01/2026
+
+[View](/cs/documents/product-information-tracked-changes/dexdor-epar-product-information-tracked-changes_cs.doc)
+
+dansk (DA) (267.5 KB - DOC)
+
+**First published:**
+
+28/01/2026
+
+[View](/da/documents/product-information-tracked-changes/dexdor-epar-product-information-tracked-changes_da.doc)
+
+Deutsch (DE) (105.64 KB - DOCX)
+
+**First published:**
+
+28/01/2026
+
+[View](/de/documents/product-information-tracked-changes/dexdor-epar-product-information-tracked-changes_de.docx)
+
+eesti keel (ET) (270 KB - DOC)
+
+**First published:**
+
+28/01/2026
+
+[View](/et/documents/product-information-tracked-changes/dexdor-epar-product-information-tracked-changes_et.doc)
+
+ελληνικά (EL) (344.5 KB - DOC)
+
+**First published:**
+
+28/01/2026
+
+[View](/el/documents/product-information-tracked-changes/dexdor-epar-product-information-tracked-changes_el.doc)
+
+français (FR) (115.79 KB - DOCX)
+
+**First published:**
+
+28/01/2026
+
+[View](/fr/documents/product-information-tracked-changes/dexdor-epar-product-information-tracked-changes_fr.docx)
+
+hrvatski (HR) (345.5 KB - DOC)
+
+**First published:**
+
+28/01/2026
+
+[View](/hr/documents/product-information-tracked-changes/dexdor-epar-product-information-tracked-changes_hr.doc)
+
+íslenska (IS) (270.5 KB - DOC)
+
+**First published:**
+
+28/01/2026
+
+[View](/is/documents/product-information-tracked-changes/dexdor-epar-product-information-tracked-changes_is.doc)
+
+italiano (IT) (291 KB - DOC)
+
+**First published:**
+
+28/01/2026
+
+[View](/it/documents/product-information-tracked-changes/dexdor-epar-product-information-tracked-changes_it.doc)
+
+latviešu valoda (LV) (330 KB - DOC)
+
+**First published:**
+
+28/01/2026
+
+[View](/lv/documents/product-information-tracked-changes/dexdor-epar-product-information-tracked-changes_lv.doc)
+
+lietuvių kalba (LT) (276 KB - DOC)
+
+**First published:**
+
+28/01/2026
+
+[View](/lt/documents/product-information-tracked-changes/dexdor-epar-product-information-tracked-changes_lt.doc)
+
+magyar (HU) (113.17 KB - DOCX)
+
+**First published:**
+
+28/01/2026
+
+[View](/hu/documents/product-information-tracked-changes/dexdor-epar-product-information-tracked-changes_hu.docx)
+
+Malti (MT) (373.5 KB - DOC)
+
+**First published:**
+
+28/01/2026
+
+[View](/mt/documents/product-information-tracked-changes/dexdor-epar-product-information-tracked-changes_mt.doc)
+
+Nederlands (NL) (108.88 KB - DOCX)
+
+**First published:**
+
+28/01/2026
+
+[View](/nl/documents/product-information-tracked-changes/dexdor-epar-product-information-tracked-changes_nl.docx)
+
+norsk (NO) (107.04 KB - DOCX)
+
+**First published:**
+
+28/01/2026
+
+[View](/no/documents/product-information-tracked-changes/dexdor-epar-product-information-tracked-changes_no.docx)
+
+polski (PL) (123.01 KB - DOCX)
+
+**First published:**
+
+28/01/2026
+
+[View](/pl/documents/product-information-tracked-changes/dexdor-epar-product-information-tracked-changes_pl.docx)
+
+português (PT) (104.81 KB - DOCX)
+
+**First published:**
+
+28/01/2026
+
+[View](/pt/documents/product-information-tracked-changes/dexdor-epar-product-information-tracked-changes_pt.docx)
+
+română (RO) (109.29 KB - DOCX)
+
+**First published:**
+
+28/01/2026
+
+[View](/ro/documents/product-information-tracked-changes/dexdor-epar-product-information-tracked-changes_ro.docx)
+
+slovenčina (SK) (354.5 KB - DOC)
+
+**First published:**
+
+28/01/2026
+
+[View](/sk/documents/product-information-tracked-changes/dexdor-epar-product-information-tracked-changes_sk.doc)
+
+slovenščina (SL) (373 KB - DOC)
+
+**First published:**
+
+28/01/2026
+
+[View](/sl/documents/product-information-tracked-changes/dexdor-epar-product-information-tracked-changes_sl.doc)
+
+Suomi (FI) (106.36 KB - DOCX)
+
+**First published:**
+
+28/01/2026
+
+[View](/fi/documents/product-information-tracked-changes/dexdor-epar-product-information-tracked-changes_fi.docx)
+
+svenska (SV) (317.5 KB - DOC)
+
+**First published:**
+
+28/01/2026
+
+[View](/sv/documents/product-information-tracked-changes/dexdor-epar-product-information-tracked-changes_sv.doc)
+
 #### More information on Dexdor
 
 - [Dexdor - direct healthcare professional communication (DHPC)](/en/medicines/dhpc/dexdor)
@@ -1178,7 +1385,7 @@ English (EN) (1.06 MB - PDF)
 
 - [Medicines](https://www.ema.europa.eu/en/search?f%5B0%5D=ema_search_topics%3A61)
 
-**This page was last updated on** 11/06/2025
+**This page was last updated on** 28/01/2026
 
 ## Share this page
 

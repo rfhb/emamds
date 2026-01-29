@@ -1,18 +1,18 @@
 ---
-document_datetime: 2025-12-29 11:25:20
+document_datetime: 2026-01-28 09:25:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/forsteo.html
 document_name: forsteo.html
 version: success
-processing_time: 0.1120607
-conversion_datetime: 2025-12-30 03:08:08.900874
+processing_time: 0.1406937
+conversion_datetime: 2026-01-29 11:54:50.77138
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.66.0
-  docling-core: 2.57.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.11.0
+  docling-jobkit: 1.9.0
+  docling: 2.70.0
+  docling-core: 2.61.0
+  docling-ibm-models: 3.11.0
+  docling-parse: 4.7.3
   python: cpython-313 (3.13.11)
   plaform: macOS-26.2-arm64-arm-64bit-Mach-O
 ---
@@ -26,8 +26,6 @@ This medicine is authorised for use in the European Union
 
 teriparatide Medicine Human Authorised
 
-On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
-
 Page contents
 
 ## Page contents
@@ -37,6 +35,7 @@ Page contents
 - [Product details](#product-details)
 - [Authorisation details](#authorisation-details)
 - [Assessment history](#assessment-history)
+- [Product information - with tracked changes](#product-information-with-tracked-changes-83197)
 - [More information on Forsteo](#related-medicines)
 - [Topics](#topics)
 
@@ -132,7 +131,7 @@ English (EN) (81.49 KB - PDF)
 
 [View](/en/documents/overview/forsteo-epar-summary-public_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-417)
+[Other languages (22)](#file-language-dropdown-76)
 
 български (BG) (162.57 KB - PDF)
 
@@ -410,17 +409,17 @@ English (EN) (51.72 KB - PDF)
 
 Forsteo : EPAR - Product Information
 
-English (EN) (522.11 KB - PDF)
+English (EN) (583.3 KB - PDF)
 
 **First published:** 21/09/2009
 
-**Last updated:** 20/01/2022
+**Last updated:** 28/01/2026
 
 [View](/en/documents/product-information/forsteo-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-848)
+[Other languages (23)](#file-language-dropdown-219)
 
-български (BG) (557.9 KB - PDF)
+български (BG) (794.39 KB - PDF)
 
 **First published:**
 
@@ -428,11 +427,11 @@ English (EN) (522.11 KB - PDF)
 
 **Last updated:**
 
-20/01/2022
+28/01/2026
 
 [View](/bg/documents/product-information/forsteo-epar-product-information_bg.pdf)
 
-español (ES) (546.23 KB - PDF)
+español (ES) (740.46 KB - PDF)
 
 **First published:**
 
@@ -440,11 +439,11 @@ español (ES) (546.23 KB - PDF)
 
 **Last updated:**
 
-20/01/2022
+28/01/2026
 
 [View](/es/documents/product-information/forsteo-epar-product-information_es.pdf)
 
-čeština (CS) (533.38 KB - PDF)
+čeština (CS) (727.08 KB - PDF)
 
 **First published:**
 
@@ -452,11 +451,11 @@ español (ES) (546.23 KB - PDF)
 
 **Last updated:**
 
-20/01/2022
+28/01/2026
 
 [View](/cs/documents/product-information/forsteo-epar-product-information_cs.pdf)
 
-dansk (DA) (498.1 KB - PDF)
+dansk (DA) (690.9 KB - PDF)
 
 **First published:**
 
@@ -464,11 +463,11 @@ dansk (DA) (498.1 KB - PDF)
 
 **Last updated:**
 
-20/01/2022
+28/01/2026
 
 [View](/da/documents/product-information/forsteo-epar-product-information_da.pdf)
 
-Deutsch (DE) (582.74 KB - PDF)
+Deutsch (DE) (889.72 KB - PDF)
 
 **First published:**
 
@@ -476,11 +475,11 @@ Deutsch (DE) (582.74 KB - PDF)
 
 **Last updated:**
 
-20/01/2022
+28/01/2026
 
 [View](/de/documents/product-information/forsteo-epar-product-information_de.pdf)
 
-eesti keel (ET) (512.67 KB - PDF)
+eesti keel (ET) (695.39 KB - PDF)
 
 **First published:**
 
@@ -488,11 +487,11 @@ eesti keel (ET) (512.67 KB - PDF)
 
 **Last updated:**
 
-20/01/2022
+28/01/2026
 
 [View](/et/documents/product-information/forsteo-epar-product-information_et.pdf)
 
-ελληνικά (EL) (658.73 KB - PDF)
+ελληνικά (EL) (631.41 KB - PDF)
 
 **First published:**
 
@@ -500,11 +499,11 @@ eesti keel (ET) (512.67 KB - PDF)
 
 **Last updated:**
 
-20/01/2022
+28/01/2026
 
 [View](/el/documents/product-information/forsteo-epar-product-information_el.pdf)
 
-français (FR) (555.28 KB - PDF)
+français (FR) (776.47 KB - PDF)
 
 **First published:**
 
@@ -512,11 +511,11 @@ français (FR) (555.28 KB - PDF)
 
 **Last updated:**
 
-20/01/2022
+28/01/2026
 
 [View](/fr/documents/product-information/forsteo-epar-product-information_fr.pdf)
 
-hrvatski (HR) (606.7 KB - PDF)
+hrvatski (HR) (785.46 KB - PDF)
 
 **First published:**
 
@@ -524,11 +523,11 @@ hrvatski (HR) (606.7 KB - PDF)
 
 **Last updated:**
 
-20/01/2022
+28/01/2026
 
 [View](/hr/documents/product-information/forsteo-epar-product-information_hr.pdf)
 
-íslenska (IS) (488.74 KB - PDF)
+íslenska (IS) (690.28 KB - PDF)
 
 **First published:**
 
@@ -536,11 +535,11 @@ hrvatski (HR) (606.7 KB - PDF)
 
 **Last updated:**
 
-20/01/2022
+28/01/2026
 
 [View](/is/documents/product-information/forsteo-epar-product-information_is.pdf)
 
-italiano (IT) (522.58 KB - PDF)
+italiano (IT) (692.55 KB - PDF)
 
 **First published:**
 
@@ -548,11 +547,11 @@ italiano (IT) (522.58 KB - PDF)
 
 **Last updated:**
 
-20/01/2022
+28/01/2026
 
 [View](/it/documents/product-information/forsteo-epar-product-information_it.pdf)
 
-latviešu valoda (LV) (584.26 KB - PDF)
+latviešu valoda (LV) (732.42 KB - PDF)
 
 **First published:**
 
@@ -560,11 +559,11 @@ latviešu valoda (LV) (584.26 KB - PDF)
 
 **Last updated:**
 
-20/01/2022
+28/01/2026
 
 [View](/lv/documents/product-information/forsteo-epar-product-information_lv.pdf)
 
-lietuvių kalba (LT) (570.69 KB - PDF)
+lietuvių kalba (LT) (743.57 KB - PDF)
 
 **First published:**
 
@@ -572,11 +571,11 @@ lietuvių kalba (LT) (570.69 KB - PDF)
 
 **Last updated:**
 
-20/01/2022
+28/01/2026
 
 [View](/lt/documents/product-information/forsteo-epar-product-information_lt.pdf)
 
-magyar (HU) (664.96 KB - PDF)
+magyar (HU) (799.88 KB - PDF)
 
 **First published:**
 
@@ -584,11 +583,11 @@ magyar (HU) (664.96 KB - PDF)
 
 **Last updated:**
 
-20/01/2022
+28/01/2026
 
 [View](/hu/documents/product-information/forsteo-epar-product-information_hu.pdf)
 
-Malti (MT) (694.66 KB - PDF)
+Malti (MT) (871.37 KB - PDF)
 
 **First published:**
 
@@ -596,11 +595,11 @@ Malti (MT) (694.66 KB - PDF)
 
 **Last updated:**
 
-20/01/2022
+28/01/2026
 
 [View](/mt/documents/product-information/forsteo-epar-product-information_mt.pdf)
 
-Nederlands (NL) (525.69 KB - PDF)
+Nederlands (NL) (691.43 KB - PDF)
 
 **First published:**
 
@@ -608,11 +607,11 @@ Nederlands (NL) (525.69 KB - PDF)
 
 **Last updated:**
 
-20/01/2022
+28/01/2026
 
 [View](/nl/documents/product-information/forsteo-epar-product-information_nl.pdf)
 
-norsk (NO) (502.53 KB - PDF)
+polski (PL) (764.39 KB - PDF)
 
 **First published:**
 
@@ -620,23 +619,11 @@ norsk (NO) (502.53 KB - PDF)
 
 **Last updated:**
 
-20/01/2022
-
-[View](/no/documents/product-information/forsteo-epar-product-information_no.pdf)
-
-polski (PL) (586.28 KB - PDF)
-
-**First published:**
-
-21/09/2009
-
-**Last updated:**
-
-20/01/2022
+28/01/2026
 
 [View](/pl/documents/product-information/forsteo-epar-product-information_pl.pdf)
 
-português (PT) (590.88 KB - PDF)
+português (PT) (793.86 KB - PDF)
 
 **First published:**
 
@@ -644,11 +631,11 @@ português (PT) (590.88 KB - PDF)
 
 **Last updated:**
 
-20/01/2022
+28/01/2026
 
 [View](/pt/documents/product-information/forsteo-epar-product-information_pt.pdf)
 
-română (RO) (491.23 KB - PDF)
+română (RO) (1.11 MB - PDF)
 
 **First published:**
 
@@ -656,11 +643,11 @@ română (RO) (491.23 KB - PDF)
 
 **Last updated:**
 
-20/01/2022
+28/01/2026
 
 [View](/ro/documents/product-information/forsteo-epar-product-information_ro.pdf)
 
-slovenčina (SK) (599.71 KB - PDF)
+slovenčina (SK) (776.75 KB - PDF)
 
 **First published:**
 
@@ -668,11 +655,11 @@ slovenčina (SK) (599.71 KB - PDF)
 
 **Last updated:**
 
-20/01/2022
+28/01/2026
 
 [View](/sk/documents/product-information/forsteo-epar-product-information_sk.pdf)
 
-slovenščina (SL) (583.55 KB - PDF)
+slovenščina (SL) (824.26 KB - PDF)
 
 **First published:**
 
@@ -680,11 +667,11 @@ slovenščina (SL) (583.55 KB - PDF)
 
 **Last updated:**
 
-20/01/2022
+28/01/2026
 
 [View](/sl/documents/product-information/forsteo-epar-product-information_sl.pdf)
 
-Suomi (FI) (502.34 KB - PDF)
+Suomi (FI) (567.18 KB - PDF)
 
 **First published:**
 
@@ -692,11 +679,11 @@ Suomi (FI) (502.34 KB - PDF)
 
 **Last updated:**
 
-20/01/2022
+28/01/2026
 
 [View](/fi/documents/product-information/forsteo-epar-product-information_fi.pdf)
 
-svenska (SV) (574.33 KB - PDF)
+svenska (SV) (555.73 KB - PDF)
 
 **First published:**
 
@@ -704,11 +691,11 @@ svenska (SV) (574.33 KB - PDF)
 
 **Last updated:**
 
-20/01/2022
+28/01/2026
 
 [View](/sv/documents/product-information/forsteo-epar-product-information_sv.pdf)
 
-**Latest procedure affecting product information:** N/0060 19/01/2022
+**Latest procedure affecting product information:** VR/0000315293 27/01/2026
 
 icon globe
 
@@ -734,7 +721,7 @@ English (EN) (51.26 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/forsteo-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (21)](#file-language-dropdown-867)
+[Other languages (21)](#file-language-dropdown-748)
 
 български (BG) (82.13 KB - PDF)
 
@@ -1013,9 +1000,9 @@ EMA product number EMEA/H/C/000425 Marketing authorisation holder
 
 Eli Lilly Nederland B.V.
 
-Papendorpseweg 83 3528 BJ Utrecht The Netherlands
+Orteliuslaan 1000 3528 BD Utrecht Netherlands
 
-Opinion adopted 19/03/2003 Marketing authorisation issued 10/06/2003 Revision 24
+Opinion adopted 19/03/2003 Marketing authorisation issued 10/06/2003 Revision 25
 
 ## Assessment history
 
@@ -1027,13 +1014,21 @@ Collapse section
 
 Forsteo : EPAR - Procedural steps taken and scientific information after authorisation
 
+English (EN) (128.54 KB - PDF)
+
+**First published:** 28/01/2026
+
+[View](/en/documents/procedural-steps-after/forsteo-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf)
+
+Forsteo : EPAR - Procedural steps taken and scientific information after authorisation (archive)
+
 English (EN) (207.76 KB - PDF)
 
 **First published:** 21/09/2009
 
-**Last updated:** 20/01/2022
+**Last updated:** 28/01/2026
 
-[View](/en/documents/procedural-steps-after/forsteo-epar-procedural-steps-taken-and-scientific-information-after-authorisation_en.pdf)
+[View](/en/documents/procedural-steps-after/forsteo-epar-procedural-steps-taken-scientific-information-after-authorisation-archive_en.pdf)
 
 Forsteo-H-C-425-II-11 : EPAR - Scientific Discussion - Variation
 
@@ -1095,6 +1090,212 @@ English (EN) (87.92 KB - PDF)
 
 [View](/en/documents/procedural-steps/forsteo-epar-procedural-steps-taken-authorisation_en.pdf)
 
+#### Product information - with tracked changes
+
+The approved product information for this medicine is available below showing the changes since the previous procedure affecting the product information. The same document without tracked changes is above under 'Product information'.
+
+Forsteo : EPAR - Product information - tracked changes
+
+English (EN) (268.09 KB - DOCX)
+
+**First published:** 28/01/2026
+
+[View](/en/documents/product-information-tracked-changes/forsteo-epar-product-information-tracked-changes_en.docx)
+
+[Other languages (24)](#file-language-dropdown-203)
+
+български (BG) (278.06 KB - DOCX)
+
+**First published:**
+
+28/01/2026
+
+[View](/bg/documents/product-information-tracked-changes/forsteo-epar-product-information-tracked-changes_bg.docx)
+
+español (ES) (448 KB - DOC)
+
+**First published:**
+
+28/01/2026
+
+[View](/es/documents/product-information-tracked-changes/forsteo-epar-product-information-tracked-changes_es.doc)
+
+čeština (CS) (295.65 KB - DOCX)
+
+**First published:**
+
+28/01/2026
+
+[View](/cs/documents/product-information-tracked-changes/forsteo-epar-product-information-tracked-changes_cs.docx)
+
+dansk (DA) (270.65 KB - DOCX)
+
+**First published:**
+
+28/01/2026
+
+[View](/da/documents/product-information-tracked-changes/forsteo-epar-product-information-tracked-changes_da.docx)
+
+Deutsch (DE) (426 KB - DOC)
+
+**First published:**
+
+28/01/2026
+
+[View](/de/documents/product-information-tracked-changes/forsteo-epar-product-information-tracked-changes_de.doc)
+
+eesti keel (ET) (413 KB - DOC)
+
+**First published:**
+
+28/01/2026
+
+[View](/et/documents/product-information-tracked-changes/forsteo-epar-product-information-tracked-changes_et.doc)
+
+ελληνικά (EL) (554.5 KB - DOC)
+
+**First published:**
+
+28/01/2026
+
+[View](/el/documents/product-information-tracked-changes/forsteo-epar-product-information-tracked-changes_el.doc)
+
+français (FR) (569.5 KB - DOC)
+
+**First published:**
+
+28/01/2026
+
+[View](/fr/documents/product-information-tracked-changes/forsteo-epar-product-information-tracked-changes_fr.doc)
+
+hrvatski (HR) (344.97 KB - DOCX)
+
+**First published:**
+
+28/01/2026
+
+[View](/hr/documents/product-information-tracked-changes/forsteo-epar-product-information-tracked-changes_hr.docx)
+
+íslenska (IS) (263.49 KB - DOCX)
+
+**First published:**
+
+28/01/2026
+
+[View](/is/documents/product-information-tracked-changes/forsteo-epar-product-information-tracked-changes_is.docx)
+
+italiano (IT) (436.5 KB - DOC)
+
+**First published:**
+
+28/01/2026
+
+[View](/it/documents/product-information-tracked-changes/forsteo-epar-product-information-tracked-changes_it.doc)
+
+latviešu valoda (LV) (508 KB - DOC)
+
+**First published:**
+
+28/01/2026
+
+[View](/lv/documents/product-information-tracked-changes/forsteo-epar-product-information-tracked-changes_lv.doc)
+
+lietuvių kalba (LT) (281.1 KB - DOCX)
+
+**First published:**
+
+28/01/2026
+
+[View](/lt/documents/product-information-tracked-changes/forsteo-epar-product-information-tracked-changes_lt.docx)
+
+magyar (HU) (279.96 KB - DOCX)
+
+**First published:**
+
+28/01/2026
+
+[View](/hu/documents/product-information-tracked-changes/forsteo-epar-product-information-tracked-changes_hu.docx)
+
+Malti (MT) (280.7 KB - DOCX)
+
+**First published:**
+
+28/01/2026
+
+[View](/mt/documents/product-information-tracked-changes/forsteo-epar-product-information-tracked-changes_mt.docx)
+
+Nederlands (NL) (271.53 KB - DOCX)
+
+**First published:**
+
+28/01/2026
+
+[View](/nl/documents/product-information-tracked-changes/forsteo-epar-product-information-tracked-changes_nl.docx)
+
+norsk (NO) (456 KB - DOC)
+
+**First published:**
+
+28/01/2026
+
+[View](/no/documents/product-information-tracked-changes/forsteo-epar-product-information-tracked-changes_no.doc)
+
+polski (PL) (280.56 KB - DOCX)
+
+**First published:**
+
+28/01/2026
+
+[View](/pl/documents/product-information-tracked-changes/forsteo-epar-product-information-tracked-changes_pl.docx)
+
+português (PT) (273.27 KB - DOCX)
+
+**First published:**
+
+28/01/2026
+
+[View](/pt/documents/product-information-tracked-changes/forsteo-epar-product-information-tracked-changes_pt.docx)
+
+română (RO) (515.5 KB - DOC)
+
+**First published:**
+
+28/01/2026
+
+[View](/ro/documents/product-information-tracked-changes/forsteo-epar-product-information-tracked-changes_ro.doc)
+
+slovenčina (SK) (498.5 KB - DOC)
+
+**First published:**
+
+28/01/2026
+
+[View](/sk/documents/product-information-tracked-changes/forsteo-epar-product-information-tracked-changes_sk.doc)
+
+slovenščina (SL) (273.23 KB - DOCX)
+
+**First published:**
+
+28/01/2026
+
+[View](/sl/documents/product-information-tracked-changes/forsteo-epar-product-information-tracked-changes_sl.docx)
+
+Suomi (FI) (282.75 KB - DOCX)
+
+**First published:**
+
+28/01/2026
+
+[View](/fi/documents/product-information-tracked-changes/forsteo-epar-product-information-tracked-changes_fi.docx)
+
+svenska (SV) (440 KB - DOC)
+
+**First published:**
+
+28/01/2026
+
+[View](/sv/documents/product-information-tracked-changes/forsteo-epar-product-information-tracked-changes_sv.doc)
+
 #### More information on Forsteo
 
 - [EMEA-001135-PIP01-11 - paediatric investigation plan](/en/medicines/human/paediatric-investigation-plans/emea-001135-pip01-11)
@@ -1103,7 +1304,7 @@ English (EN) (87.92 KB - PDF)
 
 - [Medicines](https://www.ema.europa.eu/en/search?f%5B0%5D=ema_search_topics%3A61)
 
-**This page was last updated on** 20/01/2022
+**This page was last updated on** 28/01/2026
 
 ## Share this page
 

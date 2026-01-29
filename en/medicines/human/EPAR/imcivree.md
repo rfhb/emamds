@@ -1,18 +1,18 @@
 ---
-document_datetime: 2025-12-29 11:47:41
+document_datetime: 2026-01-27 16:33:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/imcivree.html
 document_name: imcivree.html
 version: success
-processing_time: 0.116841
-conversion_datetime: 2025-12-31 03:34:26.33423
+processing_time: 0.1284902
+conversion_datetime: 2026-01-29 11:47:07.488534
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.66.0
-  docling-core: 2.57.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.11.0
+  docling-jobkit: 1.9.0
+  docling: 2.70.0
+  docling-core: 2.61.0
+  docling-ibm-models: 3.11.0
+  docling-parse: 4.7.3
   python: cpython-313 (3.13.11)
   plaform: macOS-26.2-arm64-arm-64bit-Mach-O
 ---
@@ -25,8 +25,6 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 setmelanotide Medicine Human Authorised
-
-On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -118,7 +116,7 @@ English (EN) (110.68 KB - PDF)
 
 [View](/en/documents/overview/imcivree-epar-medicine-overview_en.pdf)
 
-[Other languages (21)](#file-language-dropdown-716)
+[Other languages (21)](#file-language-dropdown-821)
 
 български (BG) (122.07 KB - PDF)
 
@@ -376,17 +374,17 @@ svenska (SV) (105.77 KB - PDF)
 
 Imcivree : EPAR - Product information
 
-English (EN) (1.1 MB - PDF)
+English (EN) (1.21 MB - PDF)
 
 **First published:** 22/07/2021
 
-**Last updated:** 03/06/2025
+**Last updated:** 27/01/2026
 
 [View](/en/documents/product-information/imcivree-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-755)
+[Other languages (24)](#file-language-dropdown-181)
 
-български (BG) (1.65 MB - PDF)
+български (BG) (1.4 MB - PDF)
 
 **First published:**
 
@@ -394,11 +392,11 @@ English (EN) (1.1 MB - PDF)
 
 **Last updated:**
 
-03/06/2025
+27/01/2026
 
 [View](/bg/documents/product-information/imcivree-epar-product-information_bg.pdf)
 
-español (ES) (1.42 MB - PDF)
+español (ES) (1.28 MB - PDF)
 
 **First published:**
 
@@ -406,11 +404,11 @@ español (ES) (1.42 MB - PDF)
 
 **Last updated:**
 
-03/06/2025
+27/01/2026
 
 [View](/es/documents/product-information/imcivree-epar-product-information_es.pdf)
 
-čeština (CS) (1.67 MB - PDF)
+čeština (CS) (1.45 MB - PDF)
 
 **First published:**
 
@@ -418,11 +416,11 @@ español (ES) (1.42 MB - PDF)
 
 **Last updated:**
 
-03/06/2025
+27/01/2026
 
 [View](/cs/documents/product-information/imcivree-epar-product-information_cs.pdf)
 
-dansk (DA) (1.3 MB - PDF)
+dansk (DA) (1.29 MB - PDF)
 
 **First published:**
 
@@ -430,11 +428,11 @@ dansk (DA) (1.3 MB - PDF)
 
 **Last updated:**
 
-27/10/2025
+27/01/2026
 
 [View](/da/documents/product-information/imcivree-epar-product-information_da.pdf)
 
-Deutsch (DE) (1.48 MB - PDF)
+Deutsch (DE) (1.31 MB - PDF)
 
 **First published:**
 
@@ -442,11 +440,11 @@ Deutsch (DE) (1.48 MB - PDF)
 
 **Last updated:**
 
-03/06/2025
+27/01/2026
 
 [View](/de/documents/product-information/imcivree-epar-product-information_de.pdf)
 
-eesti keel (ET) (1.11 MB - PDF)
+eesti keel (ET) (1.23 MB - PDF)
 
 **First published:**
 
@@ -454,11 +452,11 @@ eesti keel (ET) (1.11 MB - PDF)
 
 **Last updated:**
 
-03/06/2025
+27/01/2026
 
 [View](/et/documents/product-information/imcivree-epar-product-information_et.pdf)
 
-ελληνικά (EL) (1.62 MB - PDF)
+ελληνικά (EL) (1.38 MB - PDF)
 
 **First published:**
 
@@ -466,11 +464,11 @@ eesti keel (ET) (1.11 MB - PDF)
 
 **Last updated:**
 
-03/06/2025
+27/01/2026
 
 [View](/el/documents/product-information/imcivree-epar-product-information_el.pdf)
 
-français (FR) (1.57 MB - PDF)
+français (FR) (1.34 MB - PDF)
 
 **First published:**
 
@@ -478,11 +476,11 @@ français (FR) (1.57 MB - PDF)
 
 **Last updated:**
 
-03/06/2025
+27/01/2026
 
 [View](/fr/documents/product-information/imcivree-epar-product-information_fr.pdf)
 
-hrvatski (HR) (1.65 MB - PDF)
+hrvatski (HR) (1.33 MB - PDF)
 
 **First published:**
 
@@ -490,11 +488,11 @@ hrvatski (HR) (1.65 MB - PDF)
 
 **Last updated:**
 
-03/06/2025
+27/01/2026
 
 [View](/hr/documents/product-information/imcivree-epar-product-information_hr.pdf)
 
-íslenska (IS) (1.55 MB - PDF)
+íslenska (IS) (1.32 MB - PDF)
 
 **First published:**
 
@@ -502,11 +500,11 @@ hrvatski (HR) (1.65 MB - PDF)
 
 **Last updated:**
 
-03/06/2025
+27/01/2026
 
 [View](/is/documents/product-information/imcivree-epar-product-information_is.pdf)
 
-italiano (IT) (1.45 MB - PDF)
+italiano (IT) (1.26 MB - PDF)
 
 **First published:**
 
@@ -514,11 +512,11 @@ italiano (IT) (1.45 MB - PDF)
 
 **Last updated:**
 
-03/06/2025
+27/01/2026
 
 [View](/it/documents/product-information/imcivree-epar-product-information_it.pdf)
 
-latviešu valoda (LV) (1.49 MB - PDF)
+latviešu valoda (LV) (1.29 MB - PDF)
 
 **First published:**
 
@@ -526,11 +524,11 @@ latviešu valoda (LV) (1.49 MB - PDF)
 
 **Last updated:**
 
-03/06/2025
+27/01/2026
 
 [View](/lv/documents/product-information/imcivree-epar-product-information_lv.pdf)
 
-lietuvių kalba (LT) (1.44 MB - PDF)
+lietuvių kalba (LT) (1.28 MB - PDF)
 
 **First published:**
 
@@ -538,11 +536,11 @@ lietuvių kalba (LT) (1.44 MB - PDF)
 
 **Last updated:**
 
-03/06/2025
+27/01/2026
 
 [View](/lt/documents/product-information/imcivree-epar-product-information_lt.pdf)
 
-magyar (HU) (1.61 MB - PDF)
+magyar (HU) (1.33 MB - PDF)
 
 **First published:**
 
@@ -550,11 +548,11 @@ magyar (HU) (1.61 MB - PDF)
 
 **Last updated:**
 
-03/06/2025
+27/01/2026
 
 [View](/hu/documents/product-information/imcivree-epar-product-information_hu.pdf)
 
-Malti (MT) (1.76 MB - PDF)
+Malti (MT) (1.38 MB - PDF)
 
 **First published:**
 
@@ -562,11 +560,11 @@ Malti (MT) (1.76 MB - PDF)
 
 **Last updated:**
 
-03/06/2025
+27/01/2026
 
 [View](/mt/documents/product-information/imcivree-epar-product-information_mt.pdf)
 
-Nederlands (NL) (1.42 MB - PDF)
+Nederlands (NL) (1.31 MB - PDF)
 
 **First published:**
 
@@ -574,11 +572,11 @@ Nederlands (NL) (1.42 MB - PDF)
 
 **Last updated:**
 
-03/06/2025
+27/01/2026
 
 [View](/nl/documents/product-information/imcivree-epar-product-information_nl.pdf)
 
-norsk (NO) (1.56 MB - PDF)
+norsk (NO) (1.36 MB - PDF)
 
 **First published:**
 
@@ -586,11 +584,11 @@ norsk (NO) (1.56 MB - PDF)
 
 **Last updated:**
 
-03/06/2025
+27/01/2026
 
 [View](/no/documents/product-information/imcivree-epar-product-information_no.pdf)
 
-polski (PL) (1.25 MB - PDF)
+polski (PL) (1.17 MB - PDF)
 
 **First published:**
 
@@ -598,11 +596,11 @@ polski (PL) (1.25 MB - PDF)
 
 **Last updated:**
 
-03/06/2025
+27/01/2026
 
 [View](/pl/documents/product-information/imcivree-epar-product-information_pl.pdf)
 
-português (PT) (1.46 MB - PDF)
+português (PT) (1.29 MB - PDF)
 
 **First published:**
 
@@ -610,11 +608,11 @@ português (PT) (1.46 MB - PDF)
 
 **Last updated:**
 
-03/06/2025
+27/01/2026
 
 [View](/pt/documents/product-information/imcivree-epar-product-information_pt.pdf)
 
-română (RO) (1.62 MB - PDF)
+română (RO) (1.33 MB - PDF)
 
 **First published:**
 
@@ -622,11 +620,11 @@ română (RO) (1.62 MB - PDF)
 
 **Last updated:**
 
-03/06/2025
+27/01/2026
 
 [View](/ro/documents/product-information/imcivree-epar-product-information_ro.pdf)
 
-slovenčina (SK) (1.59 MB - PDF)
+slovenčina (SK) (1.34 MB - PDF)
 
 **First published:**
 
@@ -634,11 +632,11 @@ slovenčina (SK) (1.59 MB - PDF)
 
 **Last updated:**
 
-03/06/2025
+27/01/2026
 
 [View](/sk/documents/product-information/imcivree-epar-product-information_sk.pdf)
 
-slovenščina (SL) (1.37 MB - PDF)
+slovenščina (SL) (1.31 MB - PDF)
 
 **First published:**
 
@@ -646,11 +644,11 @@ slovenščina (SL) (1.37 MB - PDF)
 
 **Last updated:**
 
-27/10/2025
+27/01/2026
 
 [View](/sl/documents/product-information/imcivree-epar-product-information_sl.pdf)
 
-Suomi (FI) (1.42 MB - PDF)
+Suomi (FI) (1.25 MB - PDF)
 
 **First published:**
 
@@ -658,11 +656,11 @@ Suomi (FI) (1.42 MB - PDF)
 
 **Last updated:**
 
-03/06/2025
+27/01/2026
 
 [View](/fi/documents/product-information/imcivree-epar-product-information_fi.pdf)
 
-svenska (SV) (1.3 MB - PDF)
+svenska (SV) (1.31 MB - PDF)
 
 **First published:**
 
@@ -670,11 +668,11 @@ svenska (SV) (1.3 MB - PDF)
 
 **Last updated:**
 
-27/10/2025
+27/01/2026
 
 [View](/sv/documents/product-information/imcivree-epar-product-information_sv.pdf)
 
-**Latest procedure affecting product information:** II/0034 03/04/2025
+**Latest procedure affecting product information:** VR/0000257063 11/12/2025
 
 icon globe
 
@@ -700,7 +698,7 @@ English (EN) (14.13 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/imcivree-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-436)
+[Other languages (24)](#file-language-dropdown-152)
 
 български (BG) (42.03 KB - PDF)
 
@@ -1024,7 +1022,7 @@ Rhythm Pharmaceuticals Netherlands B.V.
 
 Radarweg 29
 
-Opinion adopted 20/05/2021 Marketing authorisation issued 16/07/2021 Revision 12
+Opinion adopted 20/05/2021 Marketing authorisation issued 16/07/2021 Revision 13
 
 ## Assessment history
 
@@ -1036,13 +1034,21 @@ Collapse section
 
 Imcivree : EPAR - Procedural steps taken and scientific information after authorisation
 
+English (EN) (140.01 KB - PDF)
+
+**First published:** 27/01/2026
+
+[View](/en/documents/procedural-steps-after/imcivree-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf)
+
+Imcivree : EPAR - Procedural steps taken and scientific information after authorisation (archive)
+
 English (EN) (174.9 KB - PDF)
 
 **First published:** 04/11/2021
 
-**Last updated:** 03/06/2025
+**Last updated:** 27/01/2026
 
-[View](/en/documents/procedural-steps-after/imcivree-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf)
+[View](/en/documents/procedural-steps-after/imcivree-epar-procedural-steps-taken-scientific-information-after-authorisation-archive_en.pdf)
 
 Imcivree-H-C-005089-P46-009 : EPAR - Assessment report
 
@@ -1174,7 +1180,7 @@ English (EN) (155.71 KB - PDF)
 - [EU/3/19/2192 - orphan designation for treatment of Bardet-Biedl syndrome](/en/medicines/human/orphan-designations/eu-3-19-2192)
 - [Imcivree - withdrawal of application for variation to marketing authorisation](/en/medicines/human/variation/imcivree)
 
-**This page was last updated on** 03/06/2025
+**This page was last updated on** 27/01/2026
 
 ## Share this page
 

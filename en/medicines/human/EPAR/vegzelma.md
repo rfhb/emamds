@@ -1,18 +1,18 @@
 ---
-document_datetime: 2025-12-29 09:23:42
+document_datetime: 2026-01-28 15:44:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/vegzelma.html
 document_name: vegzelma.html
 version: success
-processing_time: 0.1208087
-conversion_datetime: 2025-12-30 12:29:31.324795
+processing_time: 0.1279098
+conversion_datetime: 2026-01-29 11:39:48.980078
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.66.0
-  docling-core: 2.57.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.11.0
+  docling-jobkit: 1.9.0
+  docling: 2.70.0
+  docling-core: 2.61.0
+  docling-ibm-models: 3.11.0
+  docling-parse: 4.7.3
   python: cpython-313 (3.13.11)
   plaform: macOS-26.2-arm64-arm-64bit-Mach-O
 ---
@@ -25,8 +25,6 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 bevacizumab Medicine Human Authorised
-
-On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -117,7 +115,7 @@ English (EN) (143.18 KB - PDF)
 
 [View](/en/documents/overview/vegzelma-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-477)
+[Other languages (22)](#file-language-dropdown-653)
 
 български (BG) (175.94 KB - PDF)
 
@@ -307,17 +305,17 @@ English (EN) (59.87 KB - PDF)
 
 Vegzelma : EPAR - Product Information
 
-English (EN) (696.73 KB - PDF)
+English (EN) (701.42 KB - PDF)
 
 **First published:** 07/09/2022
 
-**Last updated:** 10/09/2025
+**Last updated:** 28/01/2026
 
 [View](/en/documents/product-information/vegzelma-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-350)
+[Other languages (24)](#file-language-dropdown-635)
 
-български (BG) (919.08 KB - PDF)
+български (BG) (930.44 KB - PDF)
 
 **First published:**
 
@@ -325,11 +323,11 @@ English (EN) (696.73 KB - PDF)
 
 **Last updated:**
 
-10/09/2025
+28/01/2026
 
 [View](/bg/documents/product-information/vegzelma-epar-product-information_bg.pdf)
 
-español (ES) (633.37 KB - PDF)
+español (ES) (641.34 KB - PDF)
 
 **First published:**
 
@@ -337,11 +335,11 @@ español (ES) (633.37 KB - PDF)
 
 **Last updated:**
 
-10/09/2025
+28/01/2026
 
 [View](/es/documents/product-information/vegzelma-epar-product-information_es.pdf)
 
-čeština (CS) (890.29 KB - PDF)
+čeština (CS) (902.61 KB - PDF)
 
 **First published:**
 
@@ -349,11 +347,11 @@ español (ES) (633.37 KB - PDF)
 
 **Last updated:**
 
-10/09/2025
+28/01/2026
 
 [View](/cs/documents/product-information/vegzelma-epar-product-information_cs.pdf)
 
-dansk (DA) (771.41 KB - PDF)
+dansk (DA) (784.56 KB - PDF)
 
 **First published:**
 
@@ -361,11 +359,11 @@ dansk (DA) (771.41 KB - PDF)
 
 **Last updated:**
 
-10/09/2025
+28/01/2026
 
 [View](/da/documents/product-information/vegzelma-epar-product-information_da.pdf)
 
-Deutsch (DE) (694.28 KB - PDF)
+Deutsch (DE) (701.85 KB - PDF)
 
 **First published:**
 
@@ -373,11 +371,11 @@ Deutsch (DE) (694.28 KB - PDF)
 
 **Last updated:**
 
-10/09/2025
+28/01/2026
 
 [View](/de/documents/product-information/vegzelma-epar-product-information_de.pdf)
 
-eesti keel (ET) (646.03 KB - PDF)
+eesti keel (ET) (652.52 KB - PDF)
 
 **First published:**
 
@@ -385,11 +383,11 @@ eesti keel (ET) (646.03 KB - PDF)
 
 **Last updated:**
 
-10/09/2025
+28/01/2026
 
 [View](/et/documents/product-information/vegzelma-epar-product-information_et.pdf)
 
-ελληνικά (EL) (743.92 KB - PDF)
+ελληνικά (EL) (753.28 KB - PDF)
 
 **First published:**
 
@@ -397,11 +395,11 @@ eesti keel (ET) (646.03 KB - PDF)
 
 **Last updated:**
 
-10/09/2025
+28/01/2026
 
 [View](/el/documents/product-information/vegzelma-epar-product-information_el.pdf)
 
-français (FR) (701.46 KB - PDF)
+français (FR) (707.97 KB - PDF)
 
 **First published:**
 
@@ -409,11 +407,11 @@ français (FR) (701.46 KB - PDF)
 
 **Last updated:**
 
-10/09/2025
+28/01/2026
 
 [View](/fr/documents/product-information/vegzelma-epar-product-information_fr.pdf)
 
-hrvatski (HR) (741.14 KB - PDF)
+hrvatski (HR) (743.53 KB - PDF)
 
 **First published:**
 
@@ -421,11 +419,11 @@ hrvatski (HR) (741.14 KB - PDF)
 
 **Last updated:**
 
-10/09/2025
+28/01/2026
 
 [View](/hr/documents/product-information/vegzelma-epar-product-information_hr.pdf)
 
-íslenska (IS) (640.92 KB - PDF)
+íslenska (IS) (649.33 KB - PDF)
 
 **First published:**
 
@@ -433,11 +431,11 @@ hrvatski (HR) (741.14 KB - PDF)
 
 **Last updated:**
 
-10/09/2025
+28/01/2026
 
 [View](/is/documents/product-information/vegzelma-epar-product-information_is.pdf)
 
-italiano (IT) (677.06 KB - PDF)
+italiano (IT) (691.13 KB - PDF)
 
 **First published:**
 
@@ -445,11 +443,11 @@ italiano (IT) (677.06 KB - PDF)
 
 **Last updated:**
 
-10/09/2025
+28/01/2026
 
 [View](/it/documents/product-information/vegzelma-epar-product-information_it.pdf)
 
-latviešu valoda (LV) (846.16 KB - PDF)
+latviešu valoda (LV) (849 KB - PDF)
 
 **First published:**
 
@@ -457,11 +455,11 @@ latviešu valoda (LV) (846.16 KB - PDF)
 
 **Last updated:**
 
-10/09/2025
+28/01/2026
 
 [View](/lv/documents/product-information/vegzelma-epar-product-information_lv.pdf)
 
-lietuvių kalba (LT) (692.72 KB - PDF)
+lietuvių kalba (LT) (721.94 KB - PDF)
 
 **First published:**
 
@@ -469,11 +467,11 @@ lietuvių kalba (LT) (692.72 KB - PDF)
 
 **Last updated:**
 
-10/09/2025
+28/01/2026
 
 [View](/lt/documents/product-information/vegzelma-epar-product-information_lt.pdf)
 
-magyar (HU) (761.01 KB - PDF)
+magyar (HU) (768.89 KB - PDF)
 
 **First published:**
 
@@ -481,11 +479,11 @@ magyar (HU) (761.01 KB - PDF)
 
 **Last updated:**
 
-10/09/2025
+28/01/2026
 
 [View](/hu/documents/product-information/vegzelma-epar-product-information_hu.pdf)
 
-Malti (MT) (877.65 KB - PDF)
+Malti (MT) (885.99 KB - PDF)
 
 **First published:**
 
@@ -493,11 +491,11 @@ Malti (MT) (877.65 KB - PDF)
 
 **Last updated:**
 
-10/09/2025
+28/01/2026
 
 [View](/mt/documents/product-information/vegzelma-epar-product-information_mt.pdf)
 
-Nederlands (NL) (666.83 KB - PDF)
+Nederlands (NL) (679.57 KB - PDF)
 
 **First published:**
 
@@ -505,11 +503,11 @@ Nederlands (NL) (666.83 KB - PDF)
 
 **Last updated:**
 
-10/09/2025
+28/01/2026
 
 [View](/nl/documents/product-information/vegzelma-epar-product-information_nl.pdf)
 
-norsk (NO) (647.2 KB - PDF)
+norsk (NO) (654.83 KB - PDF)
 
 **First published:**
 
@@ -517,11 +515,11 @@ norsk (NO) (647.2 KB - PDF)
 
 **Last updated:**
 
-10/09/2025
+28/01/2026
 
 [View](/no/documents/product-information/vegzelma-epar-product-information_no.pdf)
 
-polski (PL) (744.04 KB - PDF)
+polski (PL) (751.5 KB - PDF)
 
 **First published:**
 
@@ -529,11 +527,11 @@ polski (PL) (744.04 KB - PDF)
 
 **Last updated:**
 
-10/09/2025
+28/01/2026
 
 [View](/pl/documents/product-information/vegzelma-epar-product-information_pl.pdf)
 
-português (PT) (663.03 KB - PDF)
+português (PT) (670.79 KB - PDF)
 
 **First published:**
 
@@ -541,11 +539,11 @@ português (PT) (663.03 KB - PDF)
 
 **Last updated:**
 
-10/09/2025
+28/01/2026
 
 [View](/pt/documents/product-information/vegzelma-epar-product-information_pt.pdf)
 
-română (RO) (717.64 KB - PDF)
+română (RO) (727.41 KB - PDF)
 
 **First published:**
 
@@ -553,11 +551,11 @@ română (RO) (717.64 KB - PDF)
 
 **Last updated:**
 
-10/09/2025
+28/01/2026
 
 [View](/ro/documents/product-information/vegzelma-epar-product-information_ro.pdf)
 
-slovenčina (SK) (711 KB - PDF)
+slovenčina (SK) (720.11 KB - PDF)
 
 **First published:**
 
@@ -565,11 +563,11 @@ slovenčina (SK) (711 KB - PDF)
 
 **Last updated:**
 
-10/09/2025
+28/01/2026
 
 [View](/sk/documents/product-information/vegzelma-epar-product-information_sk.pdf)
 
-slovenščina (SL) (695.33 KB - PDF)
+slovenščina (SL) (702.67 KB - PDF)
 
 **First published:**
 
@@ -577,11 +575,11 @@ slovenščina (SL) (695.33 KB - PDF)
 
 **Last updated:**
 
-10/09/2025
+28/01/2026
 
 [View](/sl/documents/product-information/vegzelma-epar-product-information_sl.pdf)
 
-Suomi (FI) (660.54 KB - PDF)
+Suomi (FI) (676.84 KB - PDF)
 
 **First published:**
 
@@ -589,11 +587,11 @@ Suomi (FI) (660.54 KB - PDF)
 
 **Last updated:**
 
-10/09/2025
+28/01/2026
 
 [View](/fi/documents/product-information/vegzelma-epar-product-information_fi.pdf)
 
-svenska (SV) (638 KB - PDF)
+svenska (SV) (646.8 KB - PDF)
 
 **First published:**
 
@@ -601,11 +599,11 @@ svenska (SV) (638 KB - PDF)
 
 **Last updated:**
 
-10/09/2025
+28/01/2026
 
 [View](/sv/documents/product-information/vegzelma-epar-product-information_sv.pdf)
 
-**Latest procedure affecting product information:** N/0000295472 08/09/2025
+**Latest procedure affecting product information:** PSUR/0000274402 18/12/2025
 
 icon globe
 
@@ -631,7 +629,7 @@ English (EN) (43.83 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/vegzelma-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-224)
+[Other languages (24)](#file-language-dropdown-72)
 
 български (BG) (51.24 KB - PDF)
 
@@ -980,7 +978,7 @@ Celltrion Healthcare Hungary Kft.
 
 1062 Budapest
 
-Opinion adopted 23/06/2022 Marketing authorisation issued 17/08/2022 Revision 12
+Opinion adopted 23/06/2022 Marketing authorisation issued 17/08/2022 Revision 14
 
 ## Assessment history
 
@@ -992,23 +990,33 @@ Collapse section
 
 Vegzelma : EPAR - Procedural steps taken and scientific information after authorisation
 
-English (EN) (149.1 KB - PDF)
+English (EN) (154.58 KB - PDF)
 
 **First published:** 03/03/2025
 
-**Last updated:** 10/09/2025
+**Last updated:** 28/01/2026
 
 [View](/en/documents/procedural-steps-after/vegzelma-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf)
 
 Vegzelma : EPAR - Procedural steps taken and scientific information after authorisation (archive)
 
-English (EN) (112.48 KB - PDF)
+English (EN) (156.91 KB - PDF)
 
 **First published:** 26/09/2022
 
-**Last updated:** 03/03/2025
+**Last updated:** 28/01/2026
 
 [View](/en/documents/procedural-steps-after/vegzelma-epar-procedural-steps-taken-scientific-information-after-authorisation-archive_en.pdf)
+
+Vegzelma-PSUSA-00000403-202502 : EPAR - Scientific conclusions and grounds for the variation to the terms of the marketing authorisation
+
+Reference Number: EMADOC-1700519818-2470418
+
+English (EN) (208.99 KB - PDF)
+
+**First published:** 28/01/2026
+
+[View](/en/documents/scientific-conclusion/vegzelma-psusa-00000403-202502-epar-scientific-conclusions-grounds-variation-terms-marketing-authorisation_en.pdf)
 
 ## Initial marketing authorisation documents
 
@@ -1052,7 +1060,7 @@ English (EN) (223.77 KB - DOCX)
 
 [View](/en/documents/product-information-tracked-changes/vegzelma-epar-product-information-tracked-changes_en.docx)
 
-[Other languages (24)](#file-language-dropdown-456)
+[Other languages (24)](#file-language-dropdown-933)
 
 български (BG) (261.14 KB - DOCX)
 
@@ -1250,7 +1258,7 @@ svenska (SV) (229.9 KB - DOCX)
 
 - [Real-life data study of the French cohort of patients with Rendu Osler disease treatment with bevacizumab:the CoBevaRO study. - post-authorisation study](https://catalogues.ema.europa.eu/study/1000000548)
 
-**This page was last updated on** 10/09/2025
+**This page was last updated on** 28/01/2026
 
 ## Share this page
 

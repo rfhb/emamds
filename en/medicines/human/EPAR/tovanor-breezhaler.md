@@ -1,18 +1,18 @@
 ---
-document_datetime: 2025-12-29 14:35:26
+document_datetime: 2026-01-26 16:44:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/tovanor-breezhaler.html
 document_name: tovanor-breezhaler.html
 version: success
-processing_time: 0.1107646
-conversion_datetime: 2025-12-31 03:12:55.549989
+processing_time: 0.120433
+conversion_datetime: 2026-01-29 12:46:20.932851
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.66.0
-  docling-core: 2.57.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.11.0
+  docling-jobkit: 1.9.0
+  docling: 2.70.0
+  docling-core: 2.61.0
+  docling-ibm-models: 3.11.0
+  docling-parse: 4.7.3
   python: cpython-313 (3.13.11)
   plaform: macOS-26.2-arm64-arm-64bit-Mach-O
 ---
@@ -25,8 +25,6 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 glycopyrronium bromide Medicine Human Authorised
-
-On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -103,7 +101,7 @@ English (EN) (75.28 KB - PDF)
 
 [View](/en/documents/overview/tovanor-breezhaler-epar-summary-public_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-978)
+[Other languages (22)](#file-language-dropdown-401)
 
 български (BG) (99.57 KB - PDF)
 
@@ -373,17 +371,17 @@ svenska (SV) (73.84 KB - PDF)
 
 Tovanor Breezhaler : EPAR - Product Information
 
-English (EN) (689.59 KB - PDF)
+English (EN) (972.79 KB - PDF)
 
 **First published:** 17/10/2012
 
-**Last updated:** 06/08/2025
+**Last updated:** 26/01/2026
 
 [View](/en/documents/product-information/tovanor-breezhaler-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-250)
+[Other languages (24)](#file-language-dropdown-533)
 
-български (BG) (679.08 KB - PDF)
+български (BG) (892.17 KB - PDF)
 
 **First published:**
 
@@ -391,11 +389,11 @@ English (EN) (689.59 KB - PDF)
 
 **Last updated:**
 
-06/08/2025
+26/01/2026
 
 [View](/bg/documents/product-information/tovanor-breezhaler-epar-product-information_bg.pdf)
 
-español (ES) (594.95 KB - PDF)
+español (ES) (822.92 KB - PDF)
 
 **First published:**
 
@@ -403,11 +401,11 @@ español (ES) (594.95 KB - PDF)
 
 **Last updated:**
 
-06/08/2025
+26/01/2026
 
 [View](/es/documents/product-information/tovanor-breezhaler-epar-product-information_es.pdf)
 
-čeština (CS) (693.09 KB - PDF)
+čeština (CS) (904.05 KB - PDF)
 
 **First published:**
 
@@ -415,11 +413,11 @@ español (ES) (594.95 KB - PDF)
 
 **Last updated:**
 
-06/08/2025
+26/01/2026
 
 [View](/cs/documents/product-information/tovanor-breezhaler-epar-product-information_cs.pdf)
 
-dansk (DA) (586.03 KB - PDF)
+dansk (DA) (857.95 KB - PDF)
 
 **First published:**
 
@@ -427,11 +425,11 @@ dansk (DA) (586.03 KB - PDF)
 
 **Last updated:**
 
-06/08/2025
+26/01/2026
 
 [View](/da/documents/product-information/tovanor-breezhaler-epar-product-information_da.pdf)
 
-Deutsch (DE) (597.62 KB - PDF)
+Deutsch (DE) (886.64 KB - PDF)
 
 **First published:**
 
@@ -439,11 +437,11 @@ Deutsch (DE) (597.62 KB - PDF)
 
 **Last updated:**
 
-06/08/2025
+26/01/2026
 
 [View](/de/documents/product-information/tovanor-breezhaler-epar-product-information_de.pdf)
 
-eesti keel (ET) (624.58 KB - PDF)
+eesti keel (ET) (814.83 KB - PDF)
 
 **First published:**
 
@@ -451,11 +449,11 @@ eesti keel (ET) (624.58 KB - PDF)
 
 **Last updated:**
 
-06/08/2025
+26/01/2026
 
 [View](/et/documents/product-information/tovanor-breezhaler-epar-product-information_et.pdf)
 
-ελληνικά (EL) (676.68 KB - PDF)
+ελληνικά (EL) (908.51 KB - PDF)
 
 **First published:**
 
@@ -463,11 +461,11 @@ eesti keel (ET) (624.58 KB - PDF)
 
 **Last updated:**
 
-06/08/2025
+26/01/2026
 
 [View](/el/documents/product-information/tovanor-breezhaler-epar-product-information_el.pdf)
 
-français (FR) (686.69 KB - PDF)
+français (FR) (883.63 KB - PDF)
 
 **First published:**
 
@@ -475,11 +473,11 @@ français (FR) (686.69 KB - PDF)
 
 **Last updated:**
 
-06/08/2025
+26/01/2026
 
 [View](/fr/documents/product-information/tovanor-breezhaler-epar-product-information_fr.pdf)
 
-hrvatski (HR) (691.62 KB - PDF)
+hrvatski (HR) (901.76 KB - PDF)
 
 **First published:**
 
@@ -487,11 +485,11 @@ hrvatski (HR) (691.62 KB - PDF)
 
 **Last updated:**
 
-06/08/2025
+26/01/2026
 
 [View](/hr/documents/product-information/tovanor-breezhaler-epar-product-information_hr.pdf)
 
-íslenska (IS) (575.23 KB - PDF)
+íslenska (IS) (809.94 KB - PDF)
 
 **First published:**
 
@@ -499,11 +497,11 @@ hrvatski (HR) (691.62 KB - PDF)
 
 **Last updated:**
 
-06/08/2025
+26/01/2026
 
 [View](/is/documents/product-information/tovanor-breezhaler-epar-product-information_is.pdf)
 
-italiano (IT) (644.1 KB - PDF)
+italiano (IT) (820.89 KB - PDF)
 
 **First published:**
 
@@ -511,11 +509,11 @@ italiano (IT) (644.1 KB - PDF)
 
 **Last updated:**
 
-06/08/2025
+26/01/2026
 
 [View](/it/documents/product-information/tovanor-breezhaler-epar-product-information_it.pdf)
 
-latviešu valoda (LV) (643.25 KB - PDF)
+latviešu valoda (LV) (846.44 KB - PDF)
 
 **First published:**
 
@@ -523,11 +521,11 @@ latviešu valoda (LV) (643.25 KB - PDF)
 
 **Last updated:**
 
-06/08/2025
+26/01/2026
 
 [View](/lv/documents/product-information/tovanor-breezhaler-epar-product-information_lv.pdf)
 
-lietuvių kalba (LT) (706.53 KB - PDF)
+lietuvių kalba (LT) (922.23 KB - PDF)
 
 **First published:**
 
@@ -535,11 +533,11 @@ lietuvių kalba (LT) (706.53 KB - PDF)
 
 **Last updated:**
 
-06/08/2025
+26/01/2026
 
 [View](/lt/documents/product-information/tovanor-breezhaler-epar-product-information_lt.pdf)
 
-magyar (HU) (651.21 KB - PDF)
+magyar (HU) (886.51 KB - PDF)
 
 **First published:**
 
@@ -547,11 +545,11 @@ magyar (HU) (651.21 KB - PDF)
 
 **Last updated:**
 
-06/08/2025
+26/01/2026
 
 [View](/hu/documents/product-information/tovanor-breezhaler-epar-product-information_hu.pdf)
 
-Malti (MT) (685.67 KB - PDF)
+Malti (MT) (914.63 KB - PDF)
 
 **First published:**
 
@@ -559,11 +557,11 @@ Malti (MT) (685.67 KB - PDF)
 
 **Last updated:**
 
-06/08/2025
+26/01/2026
 
 [View](/mt/documents/product-information/tovanor-breezhaler-epar-product-information_mt.pdf)
 
-Nederlands (NL) (599.56 KB - PDF)
+Nederlands (NL) (818.16 KB - PDF)
 
 **First published:**
 
@@ -571,11 +569,11 @@ Nederlands (NL) (599.56 KB - PDF)
 
 **Last updated:**
 
-06/08/2025
+26/01/2026
 
 [View](/nl/documents/product-information/tovanor-breezhaler-epar-product-information_nl.pdf)
 
-norsk (NO) (580.22 KB - PDF)
+norsk (NO) (813.58 KB - PDF)
 
 **First published:**
 
@@ -583,11 +581,11 @@ norsk (NO) (580.22 KB - PDF)
 
 **Last updated:**
 
-06/08/2025
+26/01/2026
 
 [View](/no/documents/product-information/tovanor-breezhaler-epar-product-information_no.pdf)
 
-polski (PL) (679.15 KB - PDF)
+polski (PL) (908.35 KB - PDF)
 
 **First published:**
 
@@ -595,11 +593,11 @@ polski (PL) (679.15 KB - PDF)
 
 **Last updated:**
 
-06/08/2025
+26/01/2026
 
 [View](/pl/documents/product-information/tovanor-breezhaler-epar-product-information_pl.pdf)
 
-português (PT) (644.73 KB - PDF)
+português (PT) (827.17 KB - PDF)
 
 **First published:**
 
@@ -607,11 +605,11 @@ português (PT) (644.73 KB - PDF)
 
 **Last updated:**
 
-06/08/2025
+26/01/2026
 
 [View](/pt/documents/product-information/tovanor-breezhaler-epar-product-information_pt.pdf)
 
-română (RO) (699.52 KB - PDF)
+română (RO) (933.74 KB - PDF)
 
 **First published:**
 
@@ -619,11 +617,11 @@ română (RO) (699.52 KB - PDF)
 
 **Last updated:**
 
-06/08/2025
+26/01/2026
 
 [View](/ro/documents/product-information/tovanor-breezhaler-epar-product-information_ro.pdf)
 
-slovenčina (SK) (667.28 KB - PDF)
+slovenčina (SK) (880.27 KB - PDF)
 
 **First published:**
 
@@ -631,11 +629,11 @@ slovenčina (SK) (667.28 KB - PDF)
 
 **Last updated:**
 
-06/08/2025
+26/01/2026
 
 [View](/sk/documents/product-information/tovanor-breezhaler-epar-product-information_sk.pdf)
 
-slovenščina (SL) (640.63 KB - PDF)
+slovenščina (SL) (866.64 KB - PDF)
 
 **First published:**
 
@@ -643,11 +641,11 @@ slovenščina (SL) (640.63 KB - PDF)
 
 **Last updated:**
 
-06/08/2025
+26/01/2026
 
 [View](/sl/documents/product-information/tovanor-breezhaler-epar-product-information_sl.pdf)
 
-Suomi (FI) (580.83 KB - PDF)
+Suomi (FI) (815.71 KB - PDF)
 
 **First published:**
 
@@ -655,11 +653,11 @@ Suomi (FI) (580.83 KB - PDF)
 
 **Last updated:**
 
-06/08/2025
+26/01/2026
 
 [View](/fi/documents/product-information/tovanor-breezhaler-epar-product-information_fi.pdf)
 
-svenska (SV) (566.91 KB - PDF)
+svenska (SV) (821.73 KB - PDF)
 
 **First published:**
 
@@ -667,11 +665,11 @@ svenska (SV) (566.91 KB - PDF)
 
 **Last updated:**
 
-06/08/2025
+26/01/2026
 
 [View](/sv/documents/product-information/tovanor-breezhaler-epar-product-information_sv.pdf)
 
-**Latest procedure affecting product information:** VR/0000280394 06/08/2025
+**Latest procedure affecting product information:** VR/0000320523 23/01/2026
 
 icon globe
 
@@ -697,7 +695,7 @@ English (EN) (95.7 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/tovanor-breezhaler-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-843)
+[Other languages (24)](#file-language-dropdown-316)
 
 български (BG) (104.29 KB - PDF)
 
@@ -1007,7 +1005,7 @@ Novartis Europharm Limited
 
 Vista Building
 
-Marketing authorisation issued 28/09/2012 Revision 16
+Marketing authorisation issued 28/09/2012 Revision 17
 
 ## Assessment history
 
@@ -1019,9 +1017,11 @@ Collapse section
 
 Tovanor Breezhaler : EPAR - Procedural steps taken and scientific information after authorisation
 
-English (EN) (144.7 KB - PDF)
+English (EN) (130.74 KB - PDF)
 
 **First published:** 06/08/2025
+
+**Last updated:** 26/01/2026
 
 [View](/en/documents/procedural-steps-after/tovanor-breezhaler-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf)
 
@@ -1081,7 +1081,7 @@ English (EN) (53.09 KB - PDF)
 
 - [Medicines](https://www.ema.europa.eu/en/search?f%5B0%5D=ema_search_topics%3A61)
 
-**This page was last updated on** 06/08/2025
+**This page was last updated on** 26/01/2026
 
 ## Share this page
 

@@ -1,18 +1,18 @@
 ---
-document_datetime: 2025-01-16 11:04:59
+document_datetime: 2026-01-28 15:55:32
 document_pages: 37
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/erbitux-epar-product-information_en.pdf
 document_name: erbitux-epar-product-information_en.pdf
 version: success
-processing_time: 10.6397514
-conversion_datetime: 2025-12-28 01:02:03.993479
+processing_time: 10.9875707
+conversion_datetime: 2026-01-29 12:23:56.099189
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.66.0
-  docling-core: 2.57.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.11.0
+  docling-jobkit: 1.9.0
+  docling: 2.70.0
+  docling-core: 2.61.0
+  docling-ibm-models: 3.11.0
+  docling-parse: 4.7.3
   python: cpython-313 (3.13.11)
   plaform: macOS-26.2-arm64-arm-64bit-Mach-O
 ---
@@ -77,7 +77,7 @@ Erbitux may be administered in a weekly or every other week dose regimen.
 
 ## Weekly dose regimen
 
-Erbitux is administered once a week. The initial dose is 400 mg cetuximab per m 2 body surface area (BSA). All subsequent weekly doses are 250 mg/m 2 each.
+Erbitux is administered once a week. The initial dose is 400 mg cetuximab per m 2 body surface area (BSA). All subsequent weekly doses are 250 mg/m 2  each.
 
 ## Biweekly dose regimen
 
@@ -93,7 +93,7 @@ It is recommended that cetuximab treatment be continued until progression of the
 
 In patients with locally advanced squamous cell cancer of the head and neck, cetuximab is used concomitantly with radiation therapy. It is recommended to start cetuximab therapy one week before radiation therapy and to continue cetuximab therapy until the end of the radiation therapy period.
 
-Erbitux is administered once a week. The initial dose is 400 mg cetuximab per m 2 body surface area (BSA). All subsequent weekly doses are 250 mg/m 2 each.
+Erbitux is administered once a week. The initial dose is 400 mg cetuximab per m 2 body surface area (BSA). All subsequent weekly doses are 250 mg/m 2  each.
 
 ## In combination with platinum-based chemotherapy
 
@@ -103,7 +103,7 @@ Erbitux may be administered in a weekly or every other week dose regimen.
 
 ## Weekly dose regimen
 
-Erbitux is administered once a week. The initial dose is 400 mg cetuximab per m 2 body surface area (BSA). All subsequent weekly doses are 250 mg/m 2 each.
+Erbitux is administered once a week. The initial dose is 400 mg cetuximab per m 2 body surface area (BSA). All subsequent weekly doses are 250 mg/m 2  each.
 
 ## Biweekly dose regimen
 
@@ -127,7 +127,7 @@ There is no relevant use of cetuximab in the paediatric population for the grant
 
 Erbitux 5 mg/mL is administered intravenously with an infusion pump, gravity drip or a syringe pump (for handling instructions, see section 6.6).
 
-The initial dose should be given slowly to minimize risk of infusion related reactions (see section 4.4). The recommended infusion period is 120 minutes. For subsequent cetuximab administration the infusion rate must not exceed 10 mg/min. If initial infusion is well tolerated the recommended infusion period for weekly dose regimen of 250 mg/m 2 is 60 minutes and recommended infusion period for biweekly dose regimen of 500 mg/m 2 is 120 minutes.
+The initial dose should be given slowly to minimize risk of infusion related reactions (see section 4.4). The recommended infusion period is 120 minutes. For subsequent cetuximab administration the infusion rate must not exceed 10 mg/min. If initial infusion is well tolerated the recommended infusion period for weekly dose regimen of 250 mg/m 2 is 60 minutes and recommended infusion period for biweekly dose regimen of 500 mg/m 2  is 120 minutes.
 
 ## 4.3 Contraindications
 
@@ -151,7 +151,7 @@ Anaphylactic reactions may occur as early as within a few minutes of the first i
 
 <div style=\"page-break-after: always\"></div>
 
-The risk for anaphylactic reactions is much increased in patients with a history of allergy to red meat or tick bites or positive results of tests for IgE antibodies against cetuximab (α -1-3-galactose). In these patients cetuximab should be administered only after a careful assessment of benefit/risk, including alternative treatments, and only under close supervision of well trained personnel with resuscitation equipment ready.
+The risk for anaphylactic reactions is much increased in patients with a history of allergy to red meat or tick bites or positive results of tests for IgE antibodies against cetuximab (α-1-3-galactose). In these patients cetuximab should be administered only after a careful assessment of benefit/risk, including alternative treatments, and only under close supervision of well trained personnel with resuscitation equipment ready.
 
 The first dose should be administered slowly whilst all vital signs are closely monitored for at least two hours. If during the first infusion, an infusion-related reaction occurs within the first 15 minutes, the infusion should be stopped. A careful benefit/risk assessment should be undertaken including consideration whether the patient may have preformed IgE antibodies before a subsequent infusion is given.
 
@@ -191,7 +191,7 @@ Main adverse reactions of cetuximab are skin reactions which may become severe, 
 
 Skin reactions are very common and treatment interruption or discontinuation may be required. According to clinical practice guidelines prophylactic use of oral tetracyclines (6 - 8 weeks) and topical application of 1% hydrocortisone cream with moisturiser should be considered. Medium to high-potency topical corticosteroids or oral tetracyclines have been used for the treatment of skin reactions.
 
-If a patient experiences an intolerable or severe skin reaction ( ≥ grade 3; Common Terminology Criteria for Adverse Events, CTCAE), cetuximab therapy must be interrupted. Treatment may only be resumed if the reaction has resolved to grade 2.
+If a patient experiences an intolerable or severe skin reaction (  grade 3; Common Terminology Criteria for Adverse Events, CTCAE), cetuximab therapy must be interrupted. Treatment may only be resumed if the reaction has resolved to grade 2.
 
 If the severe skin reaction occurred for the first time, treatment may be resumed without any change in dose level.
 
@@ -213,7 +213,7 @@ Patients who receive cetuximab in combination with platinum-based chemotherapy a
 
 ## Cardiovascular disorders
 
-An increased frequency of severe and sometimes fatal cardiovascular events and treatment emergent deaths has been observed in the treatment of non-small cell lung cancer, squamous cell carcinoma of the head and neck and colorectal carcinoma . In some studies association with age ≥ 65 years or performance status has been observed. When prescribing cetuximab, the cardiovascular and performance status of the patients and concomitant administration of cardiotoxic compounds such as fluoropyrimidines should be taken into account.
+An increased frequency of severe and sometimes fatal cardiovascular events and treatment emergent deaths has been observed in the treatment of non-small cell lung cancer, squamous cell carcinoma of the head and neck and colorectal carcinoma. In some studies association with age ≥ 65 years or performance status has been observed. When prescribing cetuximab, the cardiovascular and performance status of the patients and concomitant administration of cardiotoxic compounds such as fluoropyrimidines should be taken into account.
 
 ## Eye disorders
 
@@ -233,7 +233,7 @@ Similar findings were also reported when cetuximab was given as add-on to XELOX 
 
 ## Special populations
 
-Only patients with adequate renal and hepatic function have been investigated to date (serum creatinine ≤ 1.5fold, transaminases ≤ 5fold and bilirubin ≤ 1.5fold the upper limit of normal).
+Only patients with adequate renal and hepatic function have been investigated to date (serum creatinine  1.5fold, transaminases  5fold and bilirubin  1.5fold the upper limit of normal).
 
 Cetuximab has not been studied in patients presenting with one or more of the following laboratory parameters:
 
@@ -288,7 +288,7 @@ The main undesirable effects of cetuximab are skin reactions, which occur in mor
 
 The following definitions apply to the frequency terminology used hereafter:
 
-Very common ( ≥ 1/10) Common ( ≥ 1/100 to &lt; 1/10) Uncommon ( ≥ 1/1 000 to &lt; 1/100) Rare ( ≥ 1/10 000 to &lt; 1/1 000) Very rare (&lt; 1/10 000) Frequency not known (cannot be estimated from the available data)
+Very common (  1/10) Common (  1/100 to &lt; 1/10) Uncommon (  1/1 000 to &lt; 1/100) Rare (  1/10 000 to &lt; 1/1 000) Very rare (&lt; 1/10 000) Frequency not known (cannot be estimated from the available data)
 
 An asterisk (*) indicates that additional information on the respective undesirable effect is provided below the table.
 
@@ -296,11 +296,11 @@ An asterisk (*) indicates that additional information on the respective undesira
 
 Very common:
 
-Hypomagnesaemia (see section 4.4).
+Hypomagnesaemia (see section 4.4). Dehydration, in particular secondary to diarrhoea or mucositis; hypocalcaemia
 
 Common:
 
-Dehydration, in particular secondary to diarrhoea or mucositis; hypocalcaemia (see section 4.4); anorexia which may lead to weight decrease.
+(see section 4.4); anorexia which may lead to weight decrease.
 
 <div style=\"page-break-after: always\"></div>
 
@@ -626,7 +626,7 @@ The efficacy data generated in this study are summarised in the table below:
 | OS                            |                                         |                                         |                                   |
 | months , median (95% CI)      | 49.0                                    | (32.8, 69.5+)                           | (20.6, 41.4)                      |
 | Hazard Ratio (95% CI)         | 29.3 0.73 (0.56, 0.95)                  | 29.3 0.73 (0.56, 0.95)                  | 29.3 0.73 (0.56, 0.95)            |
-| median follow-up,             |                                         |                                         |                                   |
+| median follow-up,             | 0.018                                   | 0.018                                   | 0.018                             |
 | months                        | 60.0                                    | 60.1                                    | 60.1                              |
 | 1-year OS rate, %(95% CI)     | 77.6 (71.4, 82.7)                       | 73.8 (67.3, 79.2)                       | 73.8 (67.3, 79.2)                 |
 | 2-year OS rate, %(95% CI)     | 62.2 (55.2, 68.4)                       | 55.2 (48.2, 61.7)                       | 55.2 (48.2, 61.7)                 |
@@ -647,15 +647,19 @@ The efficacy data generated in this study are summarised in the table below:
 
 CI = confidence interval, CTX = platinum-based chemotherapy, ORR = objective response rate, OS = overall survival time, PFS = progression-free survival time
 
-| Variable/ statistic                         | Cetuximab + CTX (N=222)                               | CTX (N=220)       |
-|---------------------------------------------|-------------------------------------------------------|-------------------|
-| OS                                          |                                                       |                   |
-| months, median (95% CI)                     | 10.1 (8.6, 11.2)                                      | 7.4 (6.4, 8.3)    |
-| Hazard Ratio (95% CI)                       | 0.797 (0.644, 0.986)                                  |                   |
-| p-value months, median (95% CI)             | 0.0362                                                | 3.3 (2.9, 4.3)    |
-| PFS                                         |                                                       |                   |
-| Hazard Ratio (95% CI) p-value ORR %(95% CI) | 5.6 (5.0, 6.0) 0.538 (0.431, 0.672) 35.6 (29.3, 42.3) | 19.5 (14.5, 25.4) |
-| p-value                                     | <0.0001 0.0001                                        |                   |
+| Variable/ statistic     | Cetuximab + CTX (N=222)   | CTX (N=220)       |
+|-------------------------|---------------------------|-------------------|
+| OS                      |                           |                   |
+| months, median (95% CI) | 10.1 (8.6, 11.2)          | 7.4 (6.4, 8.3)    |
+| Hazard Ratio (95% CI)   | 0.797 (0.644, 0.986)      |                   |
+| p-value                 | 0.0362                    |                   |
+| PFS                     |                           |                   |
+| months, median (95% CI) | 5.6 (5.0, 6.0)            | 3.3 (2.9, 4.3)    |
+| Hazard Ratio (95% CI)   | 0.538 (0.431,             | 0.672)            |
+| p-value                 | <0.0001                   |                   |
+| ORR                     |                           |                   |
+| %(95% CI)               | 35.6 (29.3, 42.3)         | 19.5 (14.5, 25.4) |
+| p-value                 |                           | 0.0001            |
 
 Patients with a good prognosis as indicated by tumour stage, Karnofsky performance status (KPS) and age had a more pronounced benefit, when cetuximab was added to platinum-based chemotherapy. In contrast to progression free survival time, no benefit in overall survival time could be demonstrated in patients with KPS ≤ 80 who were 65 years of age or older.
 
@@ -669,7 +673,7 @@ The European Medicines Agency has waived the obligation to submit the results of
 
 Cetuximab pharmacokinetics were studied when cetuximab was administered as monotherapy or in combination with concomitant chemotherapy or radiation therapy in clinical studies. Intravenous infusions of cetuximab exhibited dose-dependent pharmacokinetics at weekly doses ranging from 5 to 500 mg/m 2 body surface area.
 
-When cetuximab was administered at an initial dose of 400 mg/m 2 body surface area, the mean volume of distribution was approximately equivalent to the vascular space (2.9 L/m 2 with a range of 1.5 to 6.2 L/m 2 ). The mean Cmax ( ± standard deviation) was 185 ± 55 microgram per mL. The mean clearance was 0.022 L/h per m² body surface area. Cetuximab has a long elimination half-life with values ranging from 70 to 100 hours.
+When cetuximab was administered at an initial dose of 400 mg/m 2 body surface area, the mean volume of distribution was approximately equivalent to the vascular space (2.9 L/m 2 with a range of 1.5 to 6.2 L/m 2 ). The mean Cmax (  standard deviation) was 185  55 microgram per mL. The mean clearance was 0.022 L/h per m² body surface area. Cetuximab has a long elimination half-life with values ranging from 70 to 100 hours.
 
 When cetuximab was administered in a weekly dose regimen (400 mg/m² loading dose followed by 250 mg/m² weekly dose), cetuximab serum concentrations reached stable levels after three weeks of cetuximab monotherapy. Mean peak cetuximab concentrations were 155.8 microgram per mL in week 3 and 151.6 microgram per mL in week 8, whereas the corresponding mean trough concentrations were 41.3 and 55.4 microgram per mL, respectively. In a study of cetuximab administered in combination with irinotecan, the mean cetuximab trough levels were 50.0 microgram per mL in week 12 and 49.4 microgram per mL in week 36.
 
@@ -681,7 +685,7 @@ Several pathways have been described that may contribute to the metabolism of an
 
 An integrated analysis across all clinical studies showed that the pharmacokinetic characteristics of cetuximab are not influenced by race, age, gender, renal or hepatic status.
 
-Only patients with adequate renal and hepatic function have been investigated to date (serum creatinine ≤ 1.5fold, transaminases ≤ 5fold and bilirubin ≤ 1.5fold the upper limit of normal).
+Only patients with adequate renal and hepatic function have been investigated to date (serum creatinine  1.5fold, transaminases  5fold and bilirubin  1.5fold the upper limit of normal).
 
 ## Paediatric population
 
@@ -723,7 +727,7 @@ Erbitux does not contain any antimicrobial preservative or bacteriostatic agent.
 
 ## 6.4 Special precautions for storage
 
-Store in a refrigerator (2 ° C - 8 ° C).
+Store in a refrigerator (2  C - 8  C).
 
 For storage conditions after opening, see section 6.3.
 
@@ -881,6 +885,8 @@ EXP
 
 Store in a refrigerator.
 
+<div style=\"page-break-after: always\"></div>
+
 10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
@@ -911,11 +917,7 @@ Justification for not including Braille accepted
 
 ## 18. UNIQUE IDENTIFIER - HUMAN READABLE DATA
 
-PC:
-
-SN:
-
-<div style=\"page-break-after: always\"></div>
+PC: SN:
 
 NN:
 
@@ -957,7 +959,9 @@ Merck Europe B.V. 1082 MA Amsterdam The Netherlands
 
 <div style=\"page-break-after: always\"></div>
 
-## Erbitux 5 mg/mL solution for infusion cetuximab
+## Erbitux 5 mg/mL solution for infusion
+
+## cetuximab
 
 ## Read all of this leaflet carefully before you start using this medicine because it contains important information for you.
 
@@ -1186,7 +1190,7 @@ Keep this medicine out of the sight and reach of children.
 
 Do not use this medicine after the expiry date which is stated on the label and the carton after EXP. The expiry date refers to the last day of that month.
 
-Store in a refrigerator (2 ° C - 8 ° C). Once opened, Erbitux is intended for immediate use.
+Store in a refrigerator (2  C - 8  C). Once opened, Erbitux is intended for immediate use.
 
 ## 6. Contents of the pack and other information
 

@@ -1,18 +1,18 @@
 ---
-document_datetime: 2025-12-29 11:05:24
+document_datetime: 2026-01-28 15:30:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/oyavas.html
 document_name: oyavas.html
 version: success
-processing_time: 0.109568
-conversion_datetime: 2025-12-30 20:09:55.50497
+processing_time: 0.1172531
+conversion_datetime: 2026-01-29 11:50:58.653869
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.66.0
-  docling-core: 2.57.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.11.0
+  docling-jobkit: 1.9.0
+  docling: 2.70.0
+  docling-core: 2.61.0
+  docling-ibm-models: 3.11.0
+  docling-parse: 4.7.3
   python: cpython-313 (3.13.11)
   plaform: macOS-26.2-arm64-arm-64bit-Mach-O
 ---
@@ -25,8 +25,6 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 bevacizumab Medicine Human Authorised
-
-On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -119,7 +117,7 @@ English (EN) (116.6 KB - PDF)
 
 [View](/en/documents/overview/oyavas-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-123)
+[Other languages (22)](#file-language-dropdown-34)
 
 български (BG) (167.86 KB - PDF)
 
@@ -309,17 +307,17 @@ English (EN) (31.75 KB - PDF)
 
 Oyavas : EPAR - Product information
 
-English (EN) (423.93 KB - PDF)
+English (EN) (845.75 KB - PDF)
 
 **First published:** 15/04/2021
 
-**Last updated:** 23/04/2024
+**Last updated:** 28/01/2026
 
 [View](/en/documents/product-information/oyavas-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-399)
+[Other languages (24)](#file-language-dropdown-549)
 
-български (BG) (434.68 KB - PDF)
+български (BG) (1.08 MB - PDF)
 
 **First published:**
 
@@ -327,11 +325,11 @@ English (EN) (423.93 KB - PDF)
 
 **Last updated:**
 
-23/04/2024
+28/01/2026
 
 [View](/bg/documents/product-information/oyavas-epar-product-information_bg.pdf)
 
-español (ES) (422.05 KB - PDF)
+español (ES) (1.03 MB - PDF)
 
 **First published:**
 
@@ -339,11 +337,11 @@ español (ES) (422.05 KB - PDF)
 
 **Last updated:**
 
-23/04/2024
+28/01/2026
 
 [View](/es/documents/product-information/oyavas-epar-product-information_es.pdf)
 
-čeština (CS) (401.36 KB - PDF)
+čeština (CS) (1.03 MB - PDF)
 
 **First published:**
 
@@ -351,11 +349,11 @@ español (ES) (422.05 KB - PDF)
 
 **Last updated:**
 
-23/04/2024
+28/01/2026
 
 [View](/cs/documents/product-information/oyavas-epar-product-information_cs.pdf)
 
-dansk (DA) (399.38 KB - PDF)
+dansk (DA) (1016.86 KB - PDF)
 
 **First published:**
 
@@ -363,11 +361,11 @@ dansk (DA) (399.38 KB - PDF)
 
 **Last updated:**
 
-23/04/2024
+28/01/2026
 
 [View](/da/documents/product-information/oyavas-epar-product-information_da.pdf)
 
-Deutsch (DE) (435.61 KB - PDF)
+Deutsch (DE) (1.05 MB - PDF)
 
 **First published:**
 
@@ -375,11 +373,11 @@ Deutsch (DE) (435.61 KB - PDF)
 
 **Last updated:**
 
-23/04/2024
+28/01/2026
 
 [View](/de/documents/product-information/oyavas-epar-product-information_de.pdf)
 
-eesti keel (ET) (397.64 KB - PDF)
+eesti keel (ET) (1 MB - PDF)
 
 **First published:**
 
@@ -387,11 +385,11 @@ eesti keel (ET) (397.64 KB - PDF)
 
 **Last updated:**
 
-23/04/2024
+28/01/2026
 
 [View](/et/documents/product-information/oyavas-epar-product-information_et.pdf)
 
-ελληνικά (EL) (458.53 KB - PDF)
+ελληνικά (EL) (1.1 MB - PDF)
 
 **First published:**
 
@@ -399,11 +397,11 @@ eesti keel (ET) (397.64 KB - PDF)
 
 **Last updated:**
 
-23/04/2024
+28/01/2026
 
 [View](/el/documents/product-information/oyavas-epar-product-information_el.pdf)
 
-français (FR) (415.28 KB - PDF)
+français (FR) (1.06 MB - PDF)
 
 **First published:**
 
@@ -411,11 +409,11 @@ français (FR) (415.28 KB - PDF)
 
 **Last updated:**
 
-23/04/2024
+28/01/2026
 
 [View](/fr/documents/product-information/oyavas-epar-product-information_fr.pdf)
 
-hrvatski (HR) (415.26 KB - PDF)
+hrvatski (HR) (1.06 MB - PDF)
 
 **First published:**
 
@@ -423,11 +421,11 @@ hrvatski (HR) (415.26 KB - PDF)
 
 **Last updated:**
 
-23/04/2024
+28/01/2026
 
 [View](/hr/documents/product-information/oyavas-epar-product-information_hr.pdf)
 
-íslenska (IS) (425.4 KB - PDF)
+íslenska (IS) (1023.72 KB - PDF)
 
 **First published:**
 
@@ -435,11 +433,11 @@ hrvatski (HR) (415.26 KB - PDF)
 
 **Last updated:**
 
-23/04/2024
+28/01/2026
 
 [View](/is/documents/product-information/oyavas-epar-product-information_is.pdf)
 
-italiano (IT) (421.94 KB - PDF)
+italiano (IT) (1.08 MB - PDF)
 
 **First published:**
 
@@ -447,11 +445,11 @@ italiano (IT) (421.94 KB - PDF)
 
 **Last updated:**
 
-23/04/2024
+28/01/2026
 
 [View](/it/documents/product-information/oyavas-epar-product-information_it.pdf)
 
-latviešu valoda (LV) (418.79 KB - PDF)
+latviešu valoda (LV) (1.07 MB - PDF)
 
 **First published:**
 
@@ -459,11 +457,11 @@ latviešu valoda (LV) (418.79 KB - PDF)
 
 **Last updated:**
 
-23/04/2024
+28/01/2026
 
 [View](/lv/documents/product-information/oyavas-epar-product-information_lv.pdf)
 
-lietuvių kalba (LT) (427.41 KB - PDF)
+lietuvių kalba (LT) (1.09 MB - PDF)
 
 **First published:**
 
@@ -471,11 +469,11 @@ lietuvių kalba (LT) (427.41 KB - PDF)
 
 **Last updated:**
 
-23/04/2024
+28/01/2026
 
 [View](/lt/documents/product-information/oyavas-epar-product-information_lt.pdf)
 
-magyar (HU) (444.69 KB - PDF)
+magyar (HU) (1.1 MB - PDF)
 
 **First published:**
 
@@ -483,11 +481,11 @@ magyar (HU) (444.69 KB - PDF)
 
 **Last updated:**
 
-23/04/2024
+28/01/2026
 
 [View](/hu/documents/product-information/oyavas-epar-product-information_hu.pdf)
 
-Malti (MT) (499.12 KB - PDF)
+Malti (MT) (1.16 MB - PDF)
 
 **First published:**
 
@@ -495,11 +493,11 @@ Malti (MT) (499.12 KB - PDF)
 
 **Last updated:**
 
-23/04/2024
+28/01/2026
 
 [View](/mt/documents/product-information/oyavas-epar-product-information_mt.pdf)
 
-Nederlands (NL) (422.26 KB - PDF)
+Nederlands (NL) (1.01 MB - PDF)
 
 **First published:**
 
@@ -507,11 +505,11 @@ Nederlands (NL) (422.26 KB - PDF)
 
 **Last updated:**
 
-23/04/2024
+28/01/2026
 
 [View](/nl/documents/product-information/oyavas-epar-product-information_nl.pdf)
 
-norsk (NO) (411.08 KB - PDF)
+norsk (NO) (1018.96 KB - PDF)
 
 **First published:**
 
@@ -519,11 +517,11 @@ norsk (NO) (411.08 KB - PDF)
 
 **Last updated:**
 
-23/04/2024
+28/01/2026
 
 [View](/no/documents/product-information/oyavas-epar-product-information_no.pdf)
 
-polski (PL) (455.31 KB - PDF)
+polski (PL) (1.09 MB - PDF)
 
 **First published:**
 
@@ -531,11 +529,11 @@ polski (PL) (455.31 KB - PDF)
 
 **Last updated:**
 
-23/04/2024
+28/01/2026
 
 [View](/pl/documents/product-information/oyavas-epar-product-information_pl.pdf)
 
-português (PT) (419.51 KB - PDF)
+português (PT) (1.01 MB - PDF)
 
 **First published:**
 
@@ -543,11 +541,11 @@ português (PT) (419.51 KB - PDF)
 
 **Last updated:**
 
-23/04/2024
+28/01/2026
 
 [View](/pt/documents/product-information/oyavas-epar-product-information_pt.pdf)
 
-română (RO) (440.5 KB - PDF)
+română (RO) (1.08 MB - PDF)
 
 **First published:**
 
@@ -555,11 +553,11 @@ română (RO) (440.5 KB - PDF)
 
 **Last updated:**
 
-23/04/2024
+28/01/2026
 
 [View](/ro/documents/product-information/oyavas-epar-product-information_ro.pdf)
 
-slovenčina (SK) (425.5 KB - PDF)
+slovenčina (SK) (1.07 MB - PDF)
 
 **First published:**
 
@@ -567,11 +565,11 @@ slovenčina (SK) (425.5 KB - PDF)
 
 **Last updated:**
 
-23/04/2024
+28/01/2026
 
 [View](/sk/documents/product-information/oyavas-epar-product-information_sk.pdf)
 
-slovenščina (SL) (418.7 KB - PDF)
+slovenščina (SL) (1.08 MB - PDF)
 
 **First published:**
 
@@ -579,11 +577,11 @@ slovenščina (SL) (418.7 KB - PDF)
 
 **Last updated:**
 
-23/04/2024
+28/01/2026
 
 [View](/sl/documents/product-information/oyavas-epar-product-information_sl.pdf)
 
-Suomi (FI) (417.27 KB - PDF)
+Suomi (FI) (1.01 MB - PDF)
 
 **First published:**
 
@@ -591,11 +589,11 @@ Suomi (FI) (417.27 KB - PDF)
 
 **Last updated:**
 
-23/04/2024
+28/01/2026
 
 [View](/fi/documents/product-information/oyavas-epar-product-information_fi.pdf)
 
-svenska (SV) (417.93 KB - PDF)
+svenska (SV) (1.01 MB - PDF)
 
 **First published:**
 
@@ -603,11 +601,11 @@ svenska (SV) (417.93 KB - PDF)
 
 **Last updated:**
 
-23/04/2024
+28/01/2026
 
 [View](/sv/documents/product-information/oyavas-epar-product-information_sv.pdf)
 
-**Latest procedure affecting product information:** IAIN/0031/G 22/04/2024
+**Latest procedure affecting product information:** R/0000278081 15/01/2026
 
 icon globe
 
@@ -631,7 +629,7 @@ English (EN) (21.44 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/oyavas-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-682)
+[Other languages (24)](#file-language-dropdown-481)
 
 български (BG) (42.19 KB - PDF)
 
@@ -870,10 +868,6 @@ Oyavas, in combination with paclitaxel and cisplatin or, alternatively, paclitax
 
 EMA product number EMEA/H/C/005556
 
-Additional monitoring
-
-This medicine is under additional monitoring, meaning that it is monitored even more intensively than other medicines. For more information, see Medicines under [additional monitoring](/node/68821) .
-
 Biosimilar
 
 This is a biosimilar medicine, which is a biological medicine highly similar to another already approved biological medicine called the 'reference medicine'. For more information, see [Biosimilar medicines](/node/68323) .
@@ -884,7 +878,7 @@ STADA Arzneimittel AG
 
 Stadastrasse 2-18
 
-Opinion adopted 28/01/2021 Marketing authorisation issued 26/03/2021 Revision 8
+Opinion adopted 28/01/2021 Marketing authorisation issued 26/03/2021 Revision 9
 
 ## Assessment history
 
@@ -893,6 +887,14 @@ Expand section
 Collapse section
 
 ## Changes since initial authorisation of medicine
+
+Oyavas : EPAR - Procedural steps taken and scientific information after authorisation
+
+English (EN) (140.47 KB - PDF)
+
+**First published:** 28/01/2026
+
+[View](/en/documents/procedural-steps-after/oyavas-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf)
 
 Oyavas : EPAR - Procedural steps taken and scientific information after authorisation (archived)
 
@@ -903,6 +905,16 @@ English (EN) (194.58 KB - PDF)
 **Last updated:** 10/11/2025
 
 [View](/en/documents/procedural-steps-after/oyavas-epar-procedural-steps-taken-scientific-information-after-authorisation-archived_en.pdf)
+
+Oyavas-PSUSA-00000403-202502 : EPAR - Scientific conclusions and grounds for the variation to the terms of the marketing authorisation
+
+Reference Number: Scientific conclusions and grounds for the variation to the terms of the marketing authorisation(
+
+English (EN) (222.43 KB - PDF)
+
+**First published:** 28/01/2026
+
+[View](/en/documents/scientific-conclusion/oyavas-psusa-00000403-202502-epar-scientific-conclusions-grounds-variation-terms-marketing-authorisation_en.pdf)
 
 Oyavas-H-C-PSUSA-00000403-202202 : EPAR - Scientific conclusions and grounds for the variation to the terms of the marketing authorisation
 
@@ -952,7 +964,7 @@ English (EN) (101.92 KB - PDF)
 
 - [Biosimilar medicines: Overview](/en/human-regulatory-overview/biosimilar-medicines-overview)
 
-**This page was last updated on** 10/11/2025
+**This page was last updated on** 28/01/2026
 
 ## Share this page
 

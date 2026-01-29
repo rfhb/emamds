@@ -1,18 +1,18 @@
 ---
-document_datetime: 2024-10-16 13:59:14
+document_datetime: 2026-01-27 12:06:37
 document_pages: 29
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/constella-epar-product-information_en.pdf
 document_name: constella-epar-product-information_en.pdf
 version: success
-processing_time: 6.4996407
-conversion_datetime: 2025-12-22 12:42:13.887473
+processing_time: 6.5442409
+conversion_datetime: 2026-01-29 12:06:44.489151
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.64.1
-  docling-core: 2.55.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.11.0
+  docling-jobkit: 1.9.0
+  docling: 2.70.0
+  docling-core: 2.61.0
+  docling-ibm-models: 3.11.0
+  docling-parse: 4.7.3
   python: cpython-313 (3.13.11)
   plaform: macOS-26.2-arm64-arm-64bit-Mach-O
 ---
@@ -230,15 +230,13 @@ Other signs and symptoms of IBS-C including bloating, complete spontaneous bowel
 
 ## Effect of linaclotide on IBS-C symptoms during the first 12 weeks of treatment in the pooled phase 3 efficacy clinical studies (studies 1 and 2).
 
-|                                    | Placebo (N =797)   | Placebo (N =797)   | Placebo (N =797)          | Linaclotide (N =805)   | Linaclotide (N =805)   | Linaclotide (N =805)      |                    |
-|------------------------------------|--------------------|--------------------|---------------------------|------------------------|------------------------|---------------------------|--------------------|
-| Main secondary efficacy parameters | Baseline Mean      | 12- weeks Mean     | Change from baseline Mean | Baseline Mean          | 12- weeks Mean         | Change from baseline Mean | LS mean difference |
-| Bloating (11-point NRS)            | 6.5                | 5.4                | -1.0                      | 6.7                    | 4.6                    | -1.9                      | -0.9*              |
-| CSBM/week                          | 0.2                | 1.0                | 0.7                       | 0.2                    | 2.5                    | 2.2                       | 1.6*               |
-| Stool consistency (BSFS Score)     | 2.3                | 3.0                | 0.6                       | 2.3                    | 4.4                    | 2.0                       | 1.4*               |
-| Straining (5-point ordinal scale)  | 3.5                | 2.8                | - 0.6                     | 3.6                    | 2.2                    | -1.3                      | -0.6*              |
-
-*p&lt;0.0001, linaclotide vs placebo. LS: Least Square
+| Main secondary efficacy           | Placebo (N =797)   | Placebo (N =797)   | Placebo (N =797)          | Linaclotide (N =805)   | Linaclotide (N =805)   | Linaclotide (N =805)      |                    |
+|-----------------------------------|--------------------|--------------------|---------------------------|------------------------|------------------------|---------------------------|--------------------|
+| parameters                        | Baseline Mean      | 12- weeks Mean     | Change from baseline Mean | Baseline Mean          | 12- weeks Mean         | Change from baseline Mean | LS mean difference |
+| Bloating (11-point NRS)           | 6.5                | 5.4                | -1.0                      | 6.7                    | 4.6                    | -1.9                      | -0.9*              |
+| CSBM/week                         | 0.2                | 1.0                | 0.7                       | 0.2                    | 2.5                    | 2.2                       | 1.6*               |
+| Stool consistency (BSFS Score)    | 2.3                | 3.0                | 0.6                       | 2.3                    | 4.4                    | 2.0                       | 1.4*               |
+| Straining (5-point ordinal scale) | 3.5                | 2.8                | - 0.6                     | 3.6                    | 2.2                    | -1.3                      | -0.6*              |
 
 CSBM: Complete Spontaneous Bowel Movement
 
@@ -330,17 +328,9 @@ Not all pack sizes may be marketed.
 
 Any unused medicinal product or waste material should be disposed of in accordance with local requirements.
 
-7.
+## 7. MARKETING AUTHORISATION HOLDER
 
-MARKETING AUTHORISATION HOLDER
-
-AbbVie Deutschland GmbH &amp; Co. KG
-
-Knollstrasse
-
-67061 Ludwigshafen
-
-Germany
+AbbVie Deutschland GmbH &amp; Co. KG Knollstrasse 67061 Ludwigshafen Germany
 
 ## 8. MARKETING AUTHORISATION NUMBER(S)
 
@@ -362,11 +352,13 @@ Date of latest renewal: 28 August 2017
 
 Detailed information on this medicinal product is available on the website of the European Medicines Agency http://www.ema.europa.eu.
 
-10
-
 <div style=\"page-break-after: always\"></div>
 
-## ANNEX II A. MANUFACTURERS RESPONSIBLE FOR BATCH RELEASE B. CONDITIONS OR RESTRICTIONS REGARDING SUPPLY AND USE C. OTHER CONDITIONS AND REQUIREMENTS OF THE MARKETING AUTHORISATION
+- A.
+- B.
+- C.
+
+## ANNEX II MANUFACTURERS RESPONSIBLE FOR BATCH RELEASE CONDITIONS OR RESTRICTIONS REGARDING SUPPLY AND USE OTHER CONDITIONS AND REQUIREMENTS OF THE MARKETING AUTHORISATION
 
 ## D. CONDITIONS OR RESTRICTIONS WITH REGARD TO THE SAFE AND EFFECTIVE USE OF THE MEDICINAL PRODUCT
 
@@ -374,7 +366,7 @@ Detailed information on this medicinal product is available on the website of th
 
 ## A. MANUFACTURERS RESPONSIBLE FOR BATCH RELEASE
 
-Name and address of the manufacturers responsible for batch release Allergan Pharmaceuticals International Limited Clonshaugh Business &amp; Technology Park Dublin 17, D17 E400 Ireland
+Name and address of the manufacturers responsible for batch release
 
 Forest Laboratories Ireland Limited Clonshaugh Business and Technology Park Clonshaugh Dublin 17, D17 E400 Ireland
 
@@ -417,7 +409,9 @@ OUTER CARTON CONTAINING SINGLE BOTTLE
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
-Constella 290 micrograms hard capsules linaclotide
+Constella 290 micrograms hard capsules
+
+linaclotide
 
 ## 2. STATEMENT OF ACTIVE SUBSTANCE(S)
 
@@ -730,8 +724,6 @@ Do not store above 30  C.
 
 Keep the bottle tightly closed in order to protect from moisture.
 
-<div style=\"page-break-after: always\"></div>
-
 ## 10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
@@ -740,13 +732,7 @@ AbbVie (as logo)
 
 ## 12. MARKETING AUTHORISATION NUMBER(S)
 
-EU/1/12/801/001 10 capsules
-
-EU/1/12/801/002 28 capsules
-
-EU/1/12/801/004 90 capsules
-
-EU/1/12/801/005 Multipack: 112 (4 packs of 28) capsules
+EU/1/12/801/001 10 capsules EU/1/12/801/002 28 capsules EU/1/12/801/004 90 capsules EU/1/12/801/005 Multipack: 112 (4 packs of 28) capsules
 
 ## 13. BATCH NUMBER
 
@@ -755,10 +741,14 @@ Lot
 ## 14. GENERAL CLASSIFICATION FOR SUPPLY
 
 15. INSTRUCTIONS ON USE
+
 16. INFORMATION IN BRAILLE
+
 17. UNIQUE IDENTIFIER - 2D BARCODE
 
 ## 18. UNIQUE IDENTIFIER - HUMAN READABLE DATA
+
+<div style=\"page-break-after: always\"></div>
 
 <div style=\"page-break-after: always\"></div>
 
@@ -979,11 +969,7 @@ AbbVie Deutschland GmbH &amp; Co. KG Knollstrasse 67061 Ludwigshafen Germany
 
 ## Manufacturer
 
-Allergan Pharmaceuticals International Limited Clonshaugh Business &amp; Technology Park Dublin 17, D17 E400 Ireland
-
-## Forest Laboratories Ireland Limited
-
-Clonshaugh Business and Technology Park Clonshaugh Dublin 17, D17 E400 Ireland
+Forest Laboratories Ireland Limited Clonshaugh Business and Technology Park Clonshaugh Dublin 17, D17 E400 Ireland
 
 For any information about this medicine, please contact the local representative of the Marketing Authorisation Holder:
 
@@ -993,21 +979,9 @@ AbbVie SA
 
 Tél/Tel: +32 10 477811
 
-## Lietuva
-
-AbbVie UAB
-
-Tel: + 370 5 205 3023
-
 ## България
 
-АбВи ЕООД
-
-Тел:+359 2 90 30 430
-
-## Luxembourg/Luxemburg
-
-AbbVie SA Belgique/Belgien Tél/Tel: +32 10 477811
+АбВи ЕООД Тел:+359 2 90 30 430
 
 ## Česká republika
 
@@ -1015,23 +989,11 @@ AbbVie s.r.o.
 
 Tel.: +420 233 098 111
 
-## Magyarország
-
-AbbVie Kft.
-
-Tel:+36 1 455 8600
-
 ## Danmark
 
 AbbVie A/S
 
 Tlf: +45 72 30 20 28
-
-## Malta
-
-Vivian Corporation Ltd.
-
-Tel: +356 27780331
 
 ## Deutschland
 
@@ -1040,14 +1002,6 @@ AbbVie Deutschland GmbH &amp; Co. KG
 Tel.: 00800 222843 33 (gebührenfrei)
 
 Tel.: +49 (0) 611 / 1720-0
-
-## Nederland
-
-AbbVie B.V.
-
-Tel: +31 (0)88 322 2843
-
-<div style=\"page-break-after: always\"></div>
 
 ## Eesti
 
@@ -1067,55 +1021,33 @@ AbbVie Spain, S.L.U.
 
 Tel: +34 913840910
 
-## France
+## Lietuva
 
-## AbbVie
+AbbVie UAB
 
-Tél: +33 (0) 1 45 60 13 00
+Tel: + 370 5 205 3023
 
-## Hrvatska
+## Luxembourg/Luxemburg
 
-AbbVie d.o.o.
+AbbVie SA
 
-Tel: + 385 (0)1 5625 501
+Belgique/Belgien Tél/Tel: +32 10 477811
 
-## Ireland
+## Magyarország
 
-AbbVie Limited
+AbbVie Kft.
 
-Tel: +353 (0)1 4287900
+Tel:+36 1 455 8600
 
-## Ísland
+## Malta
 
-Vistor hf.
+Vivian Corporation Ltd. Tel: +356 27780331
 
-Sími: +354 535 7000
+## Nederland
 
-## Italia
+AbbVie B.V.
 
-AbbVie S.r.l.
-
-Tel: +39 06 928921
-
-## Κύπρος
-
-Lifepharma (Z.A.M.) Ltd
-
-Τηλ: +357 22 34 74 40
-
-## Latvija
-
-AbbVie SIA
-
-Tel: +371 67605000
-
-## This leaflet was last revised in
-
-## Other sources of information
-
-Detailed information on this medicine is available on the European Medicines Agency web site: http://www.ema.europa.eu.
-
-To listen to or request a copy of this leaflet in Braille, large print or audio, please contact the local representative of the Marketing Authorisation Holder.
+Tel: +31 (0)88 322 2843
 
 ## Norge
 
@@ -1135,11 +1067,23 @@ AbbVie Sp. z o.o.
 
 Tel.: +48 22 372 78 00
 
+## France
+
+AbbVie
+
+Tél: +33 (0) 1 45 60 13 00
+
 ## Portugal
 
 AbbVie, Lda.
 
 Tel.: +351 (0)21 1908400
+
+## Hrvatska
+
+AbbVie d.o.o.
+
+Tel: + 385 (0)1 5625 501
 
 ## România
 
@@ -1147,11 +1091,23 @@ AbbVie S.R.L.
 
 Tel: +40 21 529 30 35
 
+## Ireland
+
+AbbVie Limited
+
+Tel: +353 (0)1 4287900
+
 ## Slovenija
 
 AbbVie Biofarmacevtska družba d.o.o.
 
 Tel: +386 (1)32 08 060
+
+## Ísland
+
+Vistor hf.
+
+Sími: +354 535 7000
 
 ## Slovenská republika
 
@@ -1159,14 +1115,44 @@ AbbVie s.r.o.
 
 Tel: +421 2 5050 0777
 
+## Italia
+
+AbbVie S.r.l.
+
+Tel: +39 06 928921
+
 ## Suomi/Finland
 
 AbbVie Oy
 
 Puh/Tel: +358 (0)10 2411 200
 
+## Κύπρος
+
+Lifepharma (Z.A.M.) Ltd
+
+Τηλ: +357 22 34 74 40
+
 ## Sverige
 
 AbbVie AB
 
 Tel: +46 (0)8 684 44 600
+
+## Latvija
+
+AbbVie SIA
+
+<div style=\"page-break-after: always\"></div>
+
+AbbVie SIA
+
+Tel: +371 67605000
+
+## This leaflet was last revised in
+
+## Other sources of information
+
+Detailed information on this medicine is available on the European Medicines Agency web site: http://www.ema.europa.eu.
+
+To listen to or request a copy of this leaflet in Braille, large print or audio, please contact the local representative of the Marketing Authorisation Holder.

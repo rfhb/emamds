@@ -1,18 +1,18 @@
 ---
-document_datetime: 2025-11-27 14:23:02
+document_datetime: 2026-01-27 16:16:31
 document_pages: 49
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/verzenios-epar-product-information_en.pdf
 document_name: verzenios-epar-product-information_en.pdf
 version: success
-processing_time: 13.4552748
-conversion_datetime: 2025-12-26 18:58:18.235775
+processing_time: 13.9781761
+conversion_datetime: 2026-01-29 12:25:24.424861
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.66.0
-  docling-core: 2.57.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.11.0
+  docling-jobkit: 1.9.0
+  docling: 2.70.0
+  docling-core: 2.61.0
+  docling-ibm-models: 3.11.0
+  docling-parse: 4.7.3
   python: cpython-313 (3.13.11)
   plaform: macOS-26.2-arm64-arm-64bit-Mach-O
 ---
@@ -750,7 +750,7 @@ Any unused medicinal product or waste material should be disposed of in accordan
 
 ## 7. MARKETING AUTHORISATION HOLDER
 
-Eli Lilly Nederland B.V., Papendorpseweg 83, 3528BJ Utrecht, The Netherlands.
+Eli Lilly Nederland B.V., Orteliuslaan 1000, 3528 BD Utrecht, The Netherlands.
 
 ## 8. MARKETING AUTHORISATION NUMBER(S)
 
@@ -766,7 +766,7 @@ Date of latest renewal: 23 June 2023
 
 ## 10. DATE OF REVISION OF THE TEXT
 
-Detailed information on this medicinal product is available on the website of the European Medicines Agency: http://www.ema.europa.eu
+Detailed information on this medicinal product is available on the website of the European Medicines Agency: https://www.ema.europa.eu
 
 <div style=\"page-break-after: always\"></div>
 
@@ -877,7 +877,7 @@ Any unused medicinal product or waste material should be disposed of in accordan
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
-Eli Lilly Nederland B.V., Papendorpseweg 83, 3528BJ Utrecht, The Netherlands.
+Eli Lilly Nederland B.V., Orteliuslaan 1000, 3528 BD Utrecht, The Netherlands.
 
 ## 12. MARKETING AUTHORISATION NUMBER(S)
 
@@ -1040,13 +1040,13 @@ Any unused medicinal product or waste material should be disposed of in accordan
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
-Eli Lilly Nederland B.V., Papendorpseweg 83, 3528BJ Utrecht, The Netherlands.
+Eli Lilly Nederland B.V., Orteliuslaan 1000, 3528 BD Utrecht, The Netherlands.
 
 ## 12. MARKETING AUTHORISATION NUMBER(S)
 
 EU/1/18/1307/004 (14 film-coated tablets)
 
-- EU/1/18/1307/005 (168 film-coated tablets)
+EU/1/18/1307/005 (168 film-coated tablets)
 
 EU/1/18/1307/006 (28 x 1 film-coated tablets)
 
@@ -1197,7 +1197,7 @@ Any unused medicinal product or waste material should be disposed of in accordan
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
-Eli Lilly Nederland B.V., Papendorpseweg 83, 3528BJ Utrecht, The Netherlands.
+Eli Lilly Nederland B.V., Orteliuslaan 1000, 3528 BD Utrecht, The Netherlands.
 
 ## 12. MARKETING AUTHORISATION NUMBER(S)
 
@@ -1555,7 +1555,7 @@ Not all the pack sizes may be marketed.
 
 ## Marketing Authorisation Holder
 
-Eli Lilly Nederland B.V., Papendorpseweg 83, 3528BJ Utrecht, The Netherlands.
+Eli Lilly Nederland B.V., Orteliuslaan 1000, 3528 BD Utrecht, The Netherlands.
 
 ## Manufacturer
 
@@ -1571,9 +1571,7 @@ Tél/Tel: + 32-(0)2 548 84 84
 
 ## България
 
-ТП \" Ели Лили Недерланд \" Б . В . -България
-
-тел. + 359 2 491 41 40
+ТП \" Ели Лили Недерланд \" Б . В . -България тел. : + 359 2 491 41 40
 
 ## Česká republika
 
@@ -1585,27 +1583,25 @@ Tel: + 420 234 664 111
 
 Eli Lilly Danmark A/S
 
-Tlf: +45 45 26 60 00
+Tlf.: + 45 45 26 60 00
 
 ## Deutschland
 
 Lilly Deutschland GmbH
 
-Tel. + 49-(0) 6172 273 2222
+Tel: + 49-(0) 6172 273 2222
 
 ## Eesti
 
 Eli Lilly Nederland B.V.
 
-Tel: +372 6 817 280
+Tel: + 372 6 817 280
 
 ## Ελλάδα
 
-ΦΑΡΜΑΣΕΡΒ - ΛΙΛΛΥ Α.Ε.Β.Ε.
+ΦΑΡΜΑΣΕΡΒ -ΛΙΛΛΥ Α.Ε.Β.Ε.
 
-Τηλ: +30
-
-210 629 4600
+Τηλ: + 30 210 629 4600
 
 ## España
 
@@ -1617,13 +1613,13 @@ Tel: + 34-91 663 50 00
 
 Lilly France
 
-Tél: +33-(0) 1 55 49 34 34
+Tél: + 33-(0) 1 55 49 34 34
 
 ## Hrvatska
 
 Eli Lilly Hrvatska d.o.o.
 
-Tel: +385 1 2350 999
+Tel: + 385 1 2350 999
 
 ## Ireland
 
@@ -1635,7 +1631,7 @@ Tel: + 353-(0) 1 661 4377
 
 Eli Lilly Lietuva
 
-Tel. +370 (5) 2649600
+Tel: + 370 (5) 2649600
 
 ## Luxembourg/Luxemburg
 
@@ -1647,7 +1643,7 @@ Tél/Tel: + 32-(0)2 548 84 84
 
 Lilly Hungária Kft.
 
-Tel: + 36 1 328 5100
+Tel.: + 36 1 328 5100
 
 ## Malta
 
@@ -1677,7 +1673,7 @@ Tel: + 43-(0) 1 711 780
 
 Eli Lilly Polska Sp. z o.o.
 
-Tel: +48 22 440 33 00
+Tel.: + 48 22 440 33 00
 
 ## Portugal
 
@@ -1693,9 +1689,9 @@ Tel: + 40 21 4023000
 
 ## Slovenija
 
-Eli Lilly farmacevtska družba , d.o.o.
+Eli Lilly farmacevtska družba, d.o.o.
 
-Tel: +386 (0)1 580 00 10
+Tel: + 386 (0)1 580 00 10
 
 <div style=\"page-break-after: always\"></div>
 
@@ -1703,7 +1699,7 @@ Tel: +386 (0)1 580 00 10
 
 Icepharma hf.
 
-Sími + 354 540 8000
+Sími: + 354 540 8000
 
 ## Italia
 
@@ -1715,7 +1711,9 @@ Tel: + 39- 055 42571
 
 Phadisco Ltd
 
-Τηλ: +357 22 715000
+Τηλ: +
+
+357 22 715000
 
 ## Latvija
 
@@ -1729,7 +1727,7 @@ Tel:
 
 ## Other sources of information
 
-Detailed information on this medicine is available on the European Medicines Agency web site: http://www.ema.europa.eu.
+Detailed information on this medicine is available on the European Medicines Agency web site: https://www.ema.europa.eu.
 
 ## Slovenská republika
 
@@ -1748,9 +1746,3 @@ Puh/Tel: + 358-(0) 9 85 45 250
 Eli Lilly Sweden AB
 
 Tel: + 46-(0) 8 7378800
-
-## United Kingdom (Northern Ireland)
-
-Eli Lilly and Company (Ireland) Limited
-
-Tel: + 353-(0) 1 661 4377

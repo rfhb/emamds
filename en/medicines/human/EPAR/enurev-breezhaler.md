@@ -1,18 +1,18 @@
 ---
-document_datetime: 2025-12-29 14:18:54
+document_datetime: 2026-01-26 16:45:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/enurev-breezhaler.html
 document_name: enurev-breezhaler.html
 version: success
-processing_time: 0.112885
-conversion_datetime: 2025-12-30 08:14:11.544316
+processing_time: 0.1227952
+conversion_datetime: 2026-01-29 12:10:33.484799
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.66.0
-  docling-core: 2.57.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.11.0
+  docling-jobkit: 1.9.0
+  docling: 2.70.0
+  docling-core: 2.61.0
+  docling-ibm-models: 3.11.0
+  docling-parse: 4.7.3
   python: cpython-313 (3.13.11)
   plaform: macOS-26.2-arm64-arm-64bit-Mach-O
 ---
@@ -25,8 +25,6 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 glycopyrronium bromide Medicine Human Authorised
-
-On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -105,7 +103,7 @@ English (EN) (68.77 KB - PDF)
 
 [View](/en/documents/overview/enurev-breezhaler-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-801)
+[Other languages (22)](#file-language-dropdown-52)
 
 български (BG) (99.62 KB - PDF)
 
@@ -385,17 +383,17 @@ English (EN) (138.8 KB - PDF)
 
 Enurev Breezhaler : EPAR - Product Information
 
-English (EN) (947.88 KB - PDF)
+English (EN) (754.9 KB - PDF)
 
 **First published:** 17/10/2012
 
-**Last updated:** 06/08/2025
+**Last updated:** 26/01/2026
 
 [View](/en/documents/product-information/enurev-breezhaler-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-488)
+[Other languages (24)](#file-language-dropdown-82)
 
-български (BG) (864.91 KB - PDF)
+български (BG) (696.4 KB - PDF)
 
 **First published:**
 
@@ -403,11 +401,11 @@ English (EN) (947.88 KB - PDF)
 
 **Last updated:**
 
-06/08/2025
+26/01/2026
 
 [View](/bg/documents/product-information/enurev-breezhaler-epar-product-information_bg.pdf)
 
-español (ES) (790.45 KB - PDF)
+español (ES) (652.3 KB - PDF)
 
 **First published:**
 
@@ -415,11 +413,11 @@ español (ES) (790.45 KB - PDF)
 
 **Last updated:**
 
-06/08/2025
+26/01/2026
 
 [View](/es/documents/product-information/enurev-breezhaler-epar-product-information_es.pdf)
 
-čeština (CS) (883.63 KB - PDF)
+čeština (CS) (705.02 KB - PDF)
 
 **First published:**
 
@@ -427,11 +425,11 @@ español (ES) (790.45 KB - PDF)
 
 **Last updated:**
 
-06/08/2025
+26/01/2026
 
 [View](/cs/documents/product-information/enurev-breezhaler-epar-product-information_cs.pdf)
 
-dansk (DA) (832.33 KB - PDF)
+dansk (DA) (654.17 KB - PDF)
 
 **First published:**
 
@@ -439,11 +437,11 @@ dansk (DA) (832.33 KB - PDF)
 
 **Last updated:**
 
-06/08/2025
+26/01/2026
 
 [View](/da/documents/product-information/enurev-breezhaler-epar-product-information_da.pdf)
 
-Deutsch (DE) (857.95 KB - PDF)
+Deutsch (DE) (687.05 KB - PDF)
 
 **First published:**
 
@@ -451,11 +449,11 @@ Deutsch (DE) (857.95 KB - PDF)
 
 **Last updated:**
 
-06/08/2025
+26/01/2026
 
 [View](/de/documents/product-information/enurev-breezhaler-epar-product-information_de.pdf)
 
-eesti keel (ET) (782.28 KB - PDF)
+eesti keel (ET) (649.88 KB - PDF)
 
 **First published:**
 
@@ -463,11 +461,11 @@ eesti keel (ET) (782.28 KB - PDF)
 
 **Last updated:**
 
-06/08/2025
+26/01/2026
 
 [View](/et/documents/product-information/enurev-breezhaler-epar-product-information_et.pdf)
 
-ελληνικά (EL) (880.56 KB - PDF)
+ελληνικά (EL) (701.29 KB - PDF)
 
 **First published:**
 
@@ -475,11 +473,11 @@ eesti keel (ET) (782.28 KB - PDF)
 
 **Last updated:**
 
-06/08/2025
+26/01/2026
 
 [View](/el/documents/product-information/enurev-breezhaler-epar-product-information_el.pdf)
 
-français (FR) (845.34 KB - PDF)
+français (FR) (702.91 KB - PDF)
 
 **First published:**
 
@@ -487,11 +485,11 @@ français (FR) (845.34 KB - PDF)
 
 **Last updated:**
 
-06/08/2025
+26/01/2026
 
 [View](/fr/documents/product-information/enurev-breezhaler-epar-product-information_fr.pdf)
 
-hrvatski (HR) (873.88 KB - PDF)
+hrvatski (HR) (698.87 KB - PDF)
 
 **First published:**
 
@@ -499,11 +497,11 @@ hrvatski (HR) (873.88 KB - PDF)
 
 **Last updated:**
 
-06/08/2025
+26/01/2026
 
 [View](/hr/documents/product-information/enurev-breezhaler-epar-product-information_hr.pdf)
 
-íslenska (IS) (784.56 KB - PDF)
+íslenska (IS) (643.94 KB - PDF)
 
 **First published:**
 
@@ -511,11 +509,11 @@ hrvatski (HR) (873.88 KB - PDF)
 
 **Last updated:**
 
-06/08/2025
+26/01/2026
 
 [View](/is/documents/product-information/enurev-breezhaler-epar-product-information_is.pdf)
 
-italiano (IT) (783.23 KB - PDF)
+italiano (IT) (659.69 KB - PDF)
 
 **First published:**
 
@@ -523,11 +521,11 @@ italiano (IT) (783.23 KB - PDF)
 
 **Last updated:**
 
-06/08/2025
+26/01/2026
 
 [View](/it/documents/product-information/enurev-breezhaler-epar-product-information_it.pdf)
 
-latviešu valoda (LV) (821.64 KB - PDF)
+latviešu valoda (LV) (666.35 KB - PDF)
 
 **First published:**
 
@@ -535,11 +533,11 @@ latviešu valoda (LV) (821.64 KB - PDF)
 
 **Last updated:**
 
-06/08/2025
+26/01/2026
 
 [View](/lv/documents/product-information/enurev-breezhaler-epar-product-information_lv.pdf)
 
-lietuvių kalba (LT) (896.34 KB - PDF)
+lietuvių kalba (LT) (729.46 KB - PDF)
 
 **First published:**
 
@@ -547,11 +545,11 @@ lietuvių kalba (LT) (896.34 KB - PDF)
 
 **Last updated:**
 
-06/08/2025
+26/01/2026
 
 [View](/lt/documents/product-information/enurev-breezhaler-epar-product-information_lt.pdf)
 
-magyar (HU) (867.56 KB - PDF)
+magyar (HU) (679.13 KB - PDF)
 
 **First published:**
 
@@ -559,11 +557,11 @@ magyar (HU) (867.56 KB - PDF)
 
 **Last updated:**
 
-06/08/2025
+26/01/2026
 
 [View](/hu/documents/product-information/enurev-breezhaler-epar-product-information_hu.pdf)
 
-Malti (MT) (879.04 KB - PDF)
+Malti (MT) (700.46 KB - PDF)
 
 **First published:**
 
@@ -571,11 +569,11 @@ Malti (MT) (879.04 KB - PDF)
 
 **Last updated:**
 
-06/08/2025
+26/01/2026
 
 [View](/mt/documents/product-information/enurev-breezhaler-epar-product-information_mt.pdf)
 
-Nederlands (NL) (785.39 KB - PDF)
+Nederlands (NL) (659.72 KB - PDF)
 
 **First published:**
 
@@ -583,11 +581,11 @@ Nederlands (NL) (785.39 KB - PDF)
 
 **Last updated:**
 
-06/08/2025
+26/01/2026
 
 [View](/nl/documents/product-information/enurev-breezhaler-epar-product-information_nl.pdf)
 
-norsk (NO) (787.2 KB - PDF)
+norsk (NO) (646.04 KB - PDF)
 
 **First published:**
 
@@ -595,11 +593,11 @@ norsk (NO) (787.2 KB - PDF)
 
 **Last updated:**
 
-06/08/2025
+26/01/2026
 
 [View](/no/documents/product-information/enurev-breezhaler-epar-product-information_no.pdf)
 
-polski (PL) (879.19 KB - PDF)
+polski (PL) (685.99 KB - PDF)
 
 **First published:**
 
@@ -607,11 +605,11 @@ polski (PL) (879.19 KB - PDF)
 
 **Last updated:**
 
-06/08/2025
+26/01/2026
 
 [View](/pl/documents/product-information/enurev-breezhaler-epar-product-information_pl.pdf)
 
-português (PT) (794.88 KB - PDF)
+português (PT) (664.68 KB - PDF)
 
 **First published:**
 
@@ -619,11 +617,11 @@ português (PT) (794.88 KB - PDF)
 
 **Last updated:**
 
-06/08/2025
+26/01/2026
 
 [View](/pt/documents/product-information/enurev-breezhaler-epar-product-information_pt.pdf)
 
-română (RO) (870.99 KB - PDF)
+română (RO) (698.32 KB - PDF)
 
 **First published:**
 
@@ -631,11 +629,11 @@ română (RO) (870.99 KB - PDF)
 
 **Last updated:**
 
-06/08/2025
+26/01/2026
 
 [View](/ro/documents/product-information/enurev-breezhaler-epar-product-information_ro.pdf)
 
-slovenčina (SK) (860.27 KB - PDF)
+slovenčina (SK) (681.08 KB - PDF)
 
 **First published:**
 
@@ -643,11 +641,11 @@ slovenčina (SK) (860.27 KB - PDF)
 
 **Last updated:**
 
-06/08/2025
+26/01/2026
 
 [View](/sk/documents/product-information/enurev-breezhaler-epar-product-information_sk.pdf)
 
-slovenščina (SL) (842.34 KB - PDF)
+slovenščina (SL) (660.68 KB - PDF)
 
 **First published:**
 
@@ -655,11 +653,11 @@ slovenščina (SL) (842.34 KB - PDF)
 
 **Last updated:**
 
-06/08/2025
+26/01/2026
 
 [View](/sl/documents/product-information/enurev-breezhaler-epar-product-information_sl.pdf)
 
-Suomi (FI) (784.1 KB - PDF)
+Suomi (FI) (643.19 KB - PDF)
 
 **First published:**
 
@@ -667,11 +665,11 @@ Suomi (FI) (784.1 KB - PDF)
 
 **Last updated:**
 
-06/08/2025
+26/01/2026
 
 [View](/fi/documents/product-information/enurev-breezhaler-epar-product-information_fi.pdf)
 
-svenska (SV) (795.05 KB - PDF)
+svenska (SV) (634.64 KB - PDF)
 
 **First published:**
 
@@ -679,11 +677,11 @@ svenska (SV) (795.05 KB - PDF)
 
 **Last updated:**
 
-06/08/2025
+26/01/2026
 
 [View](/sv/documents/product-information/enurev-breezhaler-epar-product-information_sv.pdf)
 
-**Latest procedure affecting product information:** VR/0000280416 06/08/2025
+**Latest procedure affecting product information:** VR/0000320523 23/01/2026
 
 icon globe
 
@@ -709,7 +707,7 @@ English (EN) (95.46 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/enurev-breezhaler-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-263)
+[Other languages (24)](#file-language-dropdown-608)
 
 български (BG) (104 KB - PDF)
 
@@ -1019,7 +1017,7 @@ Novartis Europharm Ltd
 
 Novartis Europharm Limited
 
-Marketing authorisation issued 28/09/2012 Revision 11
+Marketing authorisation issued 28/09/2012 Revision 12
 
 ## Assessment history
 
@@ -1031,9 +1029,11 @@ Collapse section
 
 Enurev Breezhaler : EPAR - Procedural steps taken and scientific information after authorisation
 
-English (EN) (144.54 KB - PDF)
+English (EN) (130.54 KB - PDF)
 
 **First published:** 06/08/2025
+
+**Last updated:** 26/01/2026
 
 [View](/en/documents/procedural-steps-after/enurev-breezhaler-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf)
 
@@ -1091,7 +1091,7 @@ English (EN) (53.11 KB - PDF)
 
 - [Medicines](https://www.ema.europa.eu/en/search?f%5B0%5D=ema_search_topics%3A61)
 
-**This page was last updated on** 06/08/2025
+**This page was last updated on** 26/01/2026
 
 ## Share this page
 

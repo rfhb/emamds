@@ -1,18 +1,18 @@
 ---
-document_datetime: 2025-12-22 15:10:00
+document_datetime: 2026-01-28 15:14:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/aybintio.html
 document_name: aybintio.html
 version: success
-processing_time: 0.1276522
-conversion_datetime: 2026-01-03 12:46:21.443783
+processing_time: 0.1355772
+conversion_datetime: 2026-01-29 11:40:37.541729
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.66.0
-  docling-core: 2.57.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.11.0
+  docling-jobkit: 1.9.0
+  docling: 2.70.0
+  docling-core: 2.61.0
+  docling-ibm-models: 3.11.0
+  docling-parse: 4.7.3
   python: cpython-313 (3.13.11)
   plaform: macOS-26.2-arm64-arm-64bit-Mach-O
 ---
@@ -25,8 +25,6 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 bevacizumab Medicine Human Authorised
-
-On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -122,7 +120,7 @@ English (EN) (122.11 KB - PDF)
 
 [View](/en/documents/overview/aybintio-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-543)
+[Other languages (22)](#file-language-dropdown-801)
 
 български (BG) (172.08 KB - PDF)
 
@@ -314,17 +312,17 @@ English (EN) (31.53 KB - PDF)
 
 Aybintio : EPAR - Product information
 
-English (EN) (1006.9 KB - PDF)
+English (EN) (1.06 MB - PDF)
 
 **First published:** 02/09/2020
 
-**Last updated:** 22/12/2025
+**Last updated:** 28/01/2026
 
 [View](/en/documents/product-information/aybintio-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-720)
+[Other languages (24)](#file-language-dropdown-25)
 
-български (BG) (768.19 KB - PDF)
+български (BG) (849.72 KB - PDF)
 
 **First published:**
 
@@ -332,11 +330,11 @@ English (EN) (1006.9 KB - PDF)
 
 **Last updated:**
 
-22/12/2025
+28/01/2026
 
 [View](/bg/documents/product-information/aybintio-epar-product-information_bg.pdf)
 
-español (ES) (599.37 KB - PDF)
+español (ES) (647.38 KB - PDF)
 
 **First published:**
 
@@ -344,11 +342,11 @@ español (ES) (599.37 KB - PDF)
 
 **Last updated:**
 
-22/12/2025
+28/01/2026
 
 [View](/es/documents/product-information/aybintio-epar-product-information_es.pdf)
 
-čeština (CS) (774.21 KB - PDF)
+čeština (CS) (825.73 KB - PDF)
 
 **First published:**
 
@@ -356,11 +354,11 @@ español (ES) (599.37 KB - PDF)
 
 **Last updated:**
 
-22/12/2025
+28/01/2026
 
 [View](/cs/documents/product-information/aybintio-epar-product-information_cs.pdf)
 
-dansk (DA) (784.89 KB - PDF)
+dansk (DA) (814.81 KB - PDF)
 
 **First published:**
 
@@ -368,11 +366,11 @@ dansk (DA) (784.89 KB - PDF)
 
 **Last updated:**
 
-22/12/2025
+28/01/2026
 
 [View](/da/documents/product-information/aybintio-epar-product-information_da.pdf)
 
-Deutsch (DE) (625.51 KB - PDF)
+Deutsch (DE) (645.59 KB - PDF)
 
 **First published:**
 
@@ -380,11 +378,11 @@ Deutsch (DE) (625.51 KB - PDF)
 
 **Last updated:**
 
-22/12/2025
+28/01/2026
 
 [View](/de/documents/product-information/aybintio-epar-product-information_de.pdf)
 
-eesti keel (ET) (625.06 KB - PDF)
+eesti keel (ET) (706.74 KB - PDF)
 
 **First published:**
 
@@ -392,11 +390,11 @@ eesti keel (ET) (625.06 KB - PDF)
 
 **Last updated:**
 
-22/12/2025
+28/01/2026
 
 [View](/et/documents/product-information/aybintio-epar-product-information_et.pdf)
 
-ελληνικά (EL) (1.02 MB - PDF)
+ελληνικά (EL) (1.13 MB - PDF)
 
 **First published:**
 
@@ -404,11 +402,11 @@ eesti keel (ET) (625.06 KB - PDF)
 
 **Last updated:**
 
-22/12/2025
+28/01/2026
 
 [View](/el/documents/product-information/aybintio-epar-product-information_el.pdf)
 
-français (FR) (765.26 KB - PDF)
+français (FR) (844.98 KB - PDF)
 
 **First published:**
 
@@ -416,11 +414,11 @@ français (FR) (765.26 KB - PDF)
 
 **Last updated:**
 
-22/12/2025
+28/01/2026
 
 [View](/fr/documents/product-information/aybintio-epar-product-information_fr.pdf)
 
-hrvatski (HR) (681.71 KB - PDF)
+hrvatski (HR) (762.52 KB - PDF)
 
 **First published:**
 
@@ -428,11 +426,11 @@ hrvatski (HR) (681.71 KB - PDF)
 
 **Last updated:**
 
-22/12/2025
+28/01/2026
 
 [View](/hr/documents/product-information/aybintio-epar-product-information_hr.pdf)
 
-íslenska (IS) (620.86 KB - PDF)
+íslenska (IS) (693.99 KB - PDF)
 
 **First published:**
 
@@ -440,11 +438,11 @@ hrvatski (HR) (681.71 KB - PDF)
 
 **Last updated:**
 
-22/12/2025
+28/01/2026
 
 [View](/is/documents/product-information/aybintio-epar-product-information_is.pdf)
 
-italiano (IT) (788.44 KB - PDF)
+italiano (IT) (869.84 KB - PDF)
 
 **First published:**
 
@@ -452,11 +450,11 @@ italiano (IT) (788.44 KB - PDF)
 
 **Last updated:**
 
-22/12/2025
+28/01/2026
 
 [View](/it/documents/product-information/aybintio-epar-product-information_it.pdf)
 
-latviešu valoda (LV) (765.22 KB - PDF)
+latviešu valoda (LV) (1.17 MB - PDF)
 
 **First published:**
 
@@ -464,11 +462,11 @@ latviešu valoda (LV) (765.22 KB - PDF)
 
 **Last updated:**
 
-22/12/2025
+28/01/2026
 
 [View](/lv/documents/product-information/aybintio-epar-product-information_lv.pdf)
 
-lietuvių kalba (LT) (707.85 KB - PDF)
+lietuvių kalba (LT) (1.07 MB - PDF)
 
 **First published:**
 
@@ -476,11 +474,11 @@ lietuvių kalba (LT) (707.85 KB - PDF)
 
 **Last updated:**
 
-22/12/2025
+28/01/2026
 
 [View](/lt/documents/product-information/aybintio-epar-product-information_lt.pdf)
 
-magyar (HU) (683.44 KB - PDF)
+magyar (HU) (726.91 KB - PDF)
 
 **First published:**
 
@@ -488,11 +486,11 @@ magyar (HU) (683.44 KB - PDF)
 
 **Last updated:**
 
-22/12/2025
+28/01/2026
 
 [View](/hu/documents/product-information/aybintio-epar-product-information_hu.pdf)
 
-Malti (MT) (789.32 KB - PDF)
+Malti (MT) (1.04 MB - PDF)
 
 **First published:**
 
@@ -500,11 +498,11 @@ Malti (MT) (789.32 KB - PDF)
 
 **Last updated:**
 
-22/12/2025
+28/01/2026
 
 [View](/mt/documents/product-information/aybintio-epar-product-information_mt.pdf)
 
-Nederlands (NL) (554.58 KB - PDF)
+Nederlands (NL) (848.21 KB - PDF)
 
 **First published:**
 
@@ -512,11 +510,11 @@ Nederlands (NL) (554.58 KB - PDF)
 
 **Last updated:**
 
-22/12/2025
+28/01/2026
 
 [View](/nl/documents/product-information/aybintio-epar-product-information_nl.pdf)
 
-norsk (NO) (617.82 KB - PDF)
+norsk (NO) (833.69 KB - PDF)
 
 **First published:**
 
@@ -524,11 +522,11 @@ norsk (NO) (617.82 KB - PDF)
 
 **Last updated:**
 
-22/12/2025
+28/01/2026
 
 [View](/no/documents/product-information/aybintio-epar-product-information_no.pdf)
 
-polski (PL) (728.87 KB - PDF)
+polski (PL) (1.02 MB - PDF)
 
 **First published:**
 
@@ -536,11 +534,11 @@ polski (PL) (728.87 KB - PDF)
 
 **Last updated:**
 
-22/12/2025
+28/01/2026
 
 [View](/pl/documents/product-information/aybintio-epar-product-information_pl.pdf)
 
-português (PT) (640.7 KB - PDF)
+português (PT) (890.02 KB - PDF)
 
 **First published:**
 
@@ -548,11 +546,11 @@ português (PT) (640.7 KB - PDF)
 
 **Last updated:**
 
-22/12/2025
+28/01/2026
 
 [View](/pt/documents/product-information/aybintio-epar-product-information_pt.pdf)
 
-română (RO) (677.94 KB - PDF)
+română (RO) (1012.52 KB - PDF)
 
 **First published:**
 
@@ -560,11 +558,11 @@ română (RO) (677.94 KB - PDF)
 
 **Last updated:**
 
-22/12/2025
+28/01/2026
 
 [View](/ro/documents/product-information/aybintio-epar-product-information_ro.pdf)
 
-slovenčina (SK) (606.65 KB - PDF)
+slovenčina (SK) (935.38 KB - PDF)
 
 **First published:**
 
@@ -572,11 +570,11 @@ slovenčina (SK) (606.65 KB - PDF)
 
 **Last updated:**
 
-22/12/2025
+28/01/2026
 
 [View](/sk/documents/product-information/aybintio-epar-product-information_sk.pdf)
 
-slovenščina (SL) (718.42 KB - PDF)
+slovenščina (SL) (1.05 MB - PDF)
 
 **First published:**
 
@@ -584,11 +582,11 @@ slovenščina (SL) (718.42 KB - PDF)
 
 **Last updated:**
 
-22/12/2025
+28/01/2026
 
 [View](/sl/documents/product-information/aybintio-epar-product-information_sl.pdf)
 
-Suomi (FI) (649.51 KB - PDF)
+Suomi (FI) (687.54 KB - PDF)
 
 **First published:**
 
@@ -596,11 +594,11 @@ Suomi (FI) (649.51 KB - PDF)
 
 **Last updated:**
 
-22/12/2025
+28/01/2026
 
 [View](/fi/documents/product-information/aybintio-epar-product-information_fi.pdf)
 
-svenska (SV) (540.64 KB - PDF)
+svenska (SV) (943.93 KB - PDF)
 
 **First published:**
 
@@ -608,11 +606,11 @@ svenska (SV) (540.64 KB - PDF)
 
 **Last updated:**
 
-22/12/2025
+28/01/2026
 
 [View](/sv/documents/product-information/aybintio-epar-product-information_sv.pdf)
 
-**Latest procedure affecting product information:** 005106/R/0022 05/06/2025
+**Latest procedure affecting product information:** PSUR/0000274402 18/12/2025
 
 icon globe
 
@@ -636,7 +634,7 @@ English (EN) (28.67 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/aybintio-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-139)
+[Other languages (24)](#file-language-dropdown-257)
 
 български (BG) (43.37 KB - PDF)
 
@@ -885,7 +883,7 @@ Samsung Bioepis NL B.V.
 
 Olof Palmestraat 10 2616 LR Delft The Netherlands
 
-Opinion adopted 25/06/2020 Marketing authorisation issued 19/08/2020 Revision 11
+Opinion adopted 25/06/2020 Marketing authorisation issued 19/08/2020 Revision 12
 
 ## Assessment history
 
@@ -897,11 +895,11 @@ Collapse section
 
 Aybintio : EPAR - Procedural steps taken and scientific information after authorisation
 
-English (EN) (131.48 KB - PDF)
+English (EN) (151.29 KB - PDF)
 
 **First published:** 21/07/2025
 
-**Last updated:** 25/11/2025
+**Last updated:** 28/01/2026
 
 [View](/en/documents/procedural-steps-after/aybintio-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf)
 
@@ -914,6 +912,16 @@ English (EN) (160.15 KB - PDF)
 **Last updated:** 02/12/2025
 
 [View](/en/documents/procedural-steps-after/aybintio-epar-procedural-steps-taken-scientific-information-after-authorisation-archive_en.pdf)
+
+Aybintio-PSUSA-00000403-202502 : EPAR - Scientific conclusions and grounds for the variation to the terms of the marketing authorisation
+
+Reference Number: EMADOC-1700519818-2470418
+
+English (EN) (222.43 KB - PDF)
+
+**First published:** 28/01/2026
+
+[View](/en/documents/scientific-conclusion/aybintio-psusa-00000403-202502-epar-scientific-conclusions-grounds-variation-terms-marketing-authorisation_en.pdf)
 
 Aybintio-H-C-PSUSA-00000403-202202 : EPAR - Scientific conclusions and grounds for the variation to the terms of the marketing authorisation
 
@@ -969,7 +977,7 @@ English (EN) (375.6 KB - DOCX)
 
 [View](/en/documents/product-information-tracked-changes/aybintio-epar-product-information-tracked-changes_en.docx)
 
-[Other languages (24)](#file-language-dropdown-163)
+[Other languages (24)](#file-language-dropdown-311)
 
 български (BG) (306.2 KB - DOCX)
 
@@ -1176,7 +1184,7 @@ svenska (SV) (248.21 KB - DOCX)
 - [Biosimilars](https://www.ema.europa.eu/en/search?f%5B0%5D=ema_search_topics%3A45)
 - [Medicines](https://www.ema.europa.eu/en/search?f%5B0%5D=ema_search_topics%3A61)
 
-**This page was last updated on** 22/12/2025
+**This page was last updated on** 28/01/2026
 
 ## Share this page
 

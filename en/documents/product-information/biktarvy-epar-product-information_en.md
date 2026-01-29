@@ -1,18 +1,18 @@
 ---
-document_datetime: 2024-07-23 14:32:36
-document_pages: 63
+document_datetime: 2026-01-28 16:01:53
+document_pages: 66
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/biktarvy-epar-product-information_en.pdf
 document_name: biktarvy-epar-product-information_en.pdf
 version: success
-processing_time: 15.3639483
-conversion_datetime: 2025-12-30 09:54:00.838136
+processing_time: 15.7538192
+conversion_datetime: 2026-01-29 12:04:22.277014
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.66.0
-  docling-core: 2.57.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.11.0
+  docling-jobkit: 1.9.0
+  docling: 2.70.0
+  docling-core: 2.61.0
+  docling-ibm-models: 3.11.0
+  docling-parse: 4.7.3
   python: cpython-313 (3.13.11)
   plaform: macOS-26.2-arm64-arm-64bit-Mach-O
 ---
@@ -60,7 +60,7 @@ Biktarvy is indicated for the treatment of human immunodeficiency virus-1 (HIV-1
 
 Therapy should be initiated by a physician experienced in the management of HIV infection.
 
-Posology
+## Posology
 
 Paediatric patients at least 2 years of age and weighing at least 14 kg to less than 25 kg One 30 mg/120 mg/15 mg tablet to be taken once daily.
 
@@ -134,7 +134,7 @@ Patients with pre-existing liver dysfunction, including chronic active hepatitis
 
 ## Weight and metabolic parameters
 
-An increase in weight and in levels of blood lipids and glucose may occur during antiretroviral therapy.  Such changes may in part be linked to disease control and lifestyle.  For lipids, there is in some cases evidence for a treatment effect, while for weight gain there is no strong evidence relating this to any particular treatment.  For monitoring of blood lipids and glucose, reference is made to established HIV treatment guidelines.  Lipid disorders should be managed as clinically appropriate.
+An increase in weight and in levels of blood lipids and glucose may occur during antiretroviral therapy.  Such changes may in part be linked to disease control and lifestyle.  For lipids and weight, there is in some cases evidence for a treatment effect. For monitoring of blood lipids and glucose, reference is made to established HIV treatment guidelines.  Lipid disorders should be managed as clinically appropriate.
 
 ## Mitochondrial dysfunction following exposure in utero
 
@@ -170,7 +170,7 @@ Biktarvy should generally be avoided but may be used in adults with end stage re
 
 ## Co-administration of other medicinal products or supplements
 
-Biktarvy should not be co-administered simultaneously with antacids, oral medications or supplements containing magnesium, aluminium or iron under fasted conditions.  Biktarvy should be administered at least 2 hours before, or with food 2 hours after antacids, oral medications or supplements containing magnesium and/or aluminium.  Biktarvy should be administered at least 2 hours before iron supplements, or taken together with food at any time (see section 4.5).
+Biktarvy should not be co-administered simultaneously with antacids, oral medications or supplements containing magnesium, aluminium, zinc or iron under fasted conditions. Biktarvy should be administered at least 2 hours before, or with food 2 hours after antacids, oral medications or supplements containing magnesium, and/or aluminium. Biktarvy should be administered at least 2 hours before iron and/or zinc supplements, or taken together with food at any time (see section 4.5).
 
 In pregnant patients, dosage adjustments are recommended for co-administration of polyvalent cationcontaining antacids, oral medications or supplements (see section 4.5).
 
@@ -218,7 +218,7 @@ Tenofovir alafenamide is not an inhibitor or inducer of CYP3A in vivo .
 
 ## Other interactions
 
-Interactions between Biktarvy or its individual component(s) and co-administered medicinal products are listed in Table 1 below (increase is indicated as '↑', decrease as '↓' and no change as '↔' ; all No Effect Boundaries are 70%-143%).
+Interactions between Biktarvy or its individual component(s) and co-administered medicinal products are listed in Table 1 below (increase is indicated as '↑', decrease as '↓' and no change as '↔ '; all No Effect Boundaries are 70%-143%).
 
 Table 1: Interactions between Biktarvy or its individual component(s) and other medicinal products
 
@@ -233,58 +233,58 @@ Table 1: Interactions between Biktarvy or its individual component(s) and other 
 
 <div style=\"page-break-after: always\"></div>
 
-| Medicinal product by therapeutic areas/possible mechanism of interaction                                                   | Effects on medicinal product levels. Mean percent change in AUC, C , C                                                                                                                                                                          | Recommendation concerning co-administration with Biktarvy   |
-|----------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------|
-| Rifapentine (Induction of CYP3A and P-gp)                                                                                  | max min Interaction not studied with any of the components of Biktarvy. Co-administration of rifapentine may decrease bictegravir and tenofovir alafenamide plasma concentrations.                                                              | Co-administration is not recommended.                       |
-| HIV-1 antiviral agents                                                                                                     | HIV-1 antiviral agents                                                                                                                                                                                                                          | HIV-1 antiviral agents                                      |
-| Atazanavir (300 mg once daily), Cobicistat (150 mg once daily), Bictegravir 1 (Inhibition of CYP3A, UGT1A1, and P-gp/BCRP) | Bictegravir: AUC: ↑ 306% C max : ↔                                                                                                                                                                                                              | Co-administration is not recommended.                       |
-| Atazanavir (400 mg once daily), Bictegravir 1 (Inhibition of CYP3A and UGT1A1)                                             | Bictegravir: AUC: ↑ 315% C max : ↔                                                                                                                                                                                                              | Co-administration is not recommended.                       |
-| Hepatitis C virus antiviral agents                                                                                         | Hepatitis C virus antiviral agents                                                                                                                                                                                                              | Hepatitis C virus antiviral agents                          |
-| Ledipasvir/Sofosbuvir (90 mg/400 mg once daily), Bictegravir/Emtricitabine/ Tenofovir alafenamide 2                        | Bictegravir: AUC: ↔ C min : ↔ C max : ↔ Emtricitabine: AUC: ↔ C min : ↔ C max : ↔ Tenofovir alafenamide: AUC: ↔ C max : ↔ Ledipasvir: AUC: ↔ C min : ↔ C max : ↔ Sofosbuvir: AUC: ↔ C max : ↔ Sofosbuvir metabolite GS-331007: AUC: ↔ C min : ↔ | No dose adjustment is required upon co-administration.      |
+| Medicinal product by therapeutic areas/possible mechanism of interaction                                    | Effects on medicinal product levels. Mean percent change in AUC, C , C                                                                                                                                                                          | Recommendation concerning co-administration with Biktarvy   |
+|-------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------|
+| Rifapentine (Induction of CYP3A and P-gp)                                                                   | max min Interaction not studied with any of the components of Biktarvy. Co-administration of rifapentine may decrease bictegravir and tenofovir alafenamide plasma concentrations.                                                              | Co-administration is not recommended.                       |
+| HIV-1 antiviral agents                                                                                      | HIV-1 antiviral agents                                                                                                                                                                                                                          | HIV-1 antiviral agents                                      |
+| Atazanavir (300 mg once daily), Cobicistat (150 mg once daily), Bictegravir 1 (Inhibition of CYP3A, UGT1A1, | Bictegravir: AUC: ↑ 306% C max : ↔                                                                                                                                                                                                              | Co-administration is not recommended.                       |
+| Atazanavir (400 mg once daily), Bictegravir 1 (Inhibition of CYP3A and UGT1A1)                              | Bictegravir: AUC: ↑ 315% C max : ↔                                                                                                                                                                                                              | Co-administration is not recommended.                       |
+| Hepatitis C virus antiviral agents                                                                          | Hepatitis C virus antiviral agents                                                                                                                                                                                                              | Hepatitis C virus antiviral agents                          |
+| Ledipasvir/Sofosbuvir (90 mg/400 mg once daily), Bictegravir/Emtricitabine/ Tenofovir alafenamide 2         | Bictegravir: AUC: ↔ C min : ↔ C max : ↔ Emtricitabine: AUC: ↔ C min : ↔ C max : ↔ Tenofovir alafenamide: AUC: ↔ C max : ↔ Ledipasvir: AUC: ↔ C min : ↔ C max : ↔ Sofosbuvir: AUC: ↔ C max : ↔ Sofosbuvir metabolite GS-331007: AUC: ↔ C min : ↔ | No dose adjustment is required upon co-administration.      |
 
 <div style=\"page-break-after: always\"></div>
 
-| Medicinal product by therapeutic areas/possible mechanism of interaction                                                                             | Effects on medicinal product levels. Mean percent change in AUC, C max , C min                                                                                                                                                                                                          | Recommendation concerning co-administration with Biktarvy                                                                |
-|------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------|
-| Sofosbuvir/Velpatasvir/ Voxilaprevir (400/100/100 + 100 mg 3 once daily), Bictegravir/Emtricitabine/ Tenofovir alafenamide (Inhibition of P-gp/BCRP) | Bictegravir: AUC: ↔ C min : ↔ C max : ↔ Emtricitabine: AUC: ↔ C min : ↔ C max : ↔ Tenofovir alafenamide: AUC: ↑ 57% C max : ↑ 28% Sofosbuvir: AUC: ↔ C max : ↔ Sofosbuvir metabolite GS-331007: AUC: ↔ C min : ↔ C max : ↔ Velpatasvir: AUC: ↔ C min : ↔ C max : ↔ Voxilaprevir: AUC: ↔ | No dose adjustment is required upon co-administration.                                                                   |
-| Antifungals                                                                                                                                          | C max : ↔                                                                                                                                                                                                                                                                               |                                                                                                                          |
-| Voriconazole (300 mg twice daily), Bictegravir 1 (Inhibition of CYP3A)                                                                               | Bictegravir: AUC: ↑ 61% C max : ↔                                                                                                                                                                                                                                                       | No dose adjustment is required upon co-administration.                                                                   |
-| (Inhibition of P-gp/BCRP) Azithromycin Clarithromycin                                                                                                | or posaconazole may increase bictegravir plasma concentrations. Interaction not studied. Co-administration of azithromycin or clarithromycin may increase bictegravir plasma concentrations.                                                                                            | Caution is recommended due to the potential effect of these medicinal products on the bictegravir component of Biktarvy. |
-| Macrolides                                                                                                                                           |                                                                                                                                                                                                                                                                                         |                                                                                                                          |
-| (Inhibition of P-gp)                                                                                                                                 |                                                                                                                                                                                                                                                                                         |                                                                                                                          |
+| Medicinal product by therapeutic areas/possible mechanism of interaction                                                                             | Effects on medicinal product levels. Mean percent change in AUC,                                                                                                                                                                                                                               | Recommendation concerning co-administration with Biktarvy                                                                |
+|------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------|
+| Sofosbuvir/Velpatasvir/ Voxilaprevir (400/100/100 + 100 mg 3 once daily), Bictegravir/Emtricitabine/ Tenofovir alafenamide (Inhibition of P-gp/BCRP) | C max , C min Bictegravir: AUC: ↔ C min : ↔ C max : ↔ Emtricitabine: AUC: ↔ C min : ↔ C max : ↔ Tenofovir alafenamide: AUC: ↑ 57% C max : ↑ 28% Sofosbuvir: AUC: ↔ C max : ↔ Sofosbuvir metabolite GS-331007: AUC: ↔ C min : ↔ C max : ↔ Velpatasvir: AUC: ↔ C min : ↔ C max : ↔ Voxilaprevir: | No dose adjustment is required upon co-administration.                                                                   |
+| Antifungals                                                                                                                                          | C max : ↔                                                                                                                                                                                                                                                                                      |                                                                                                                          |
+| Voriconazole (300 mg twice daily), Bictegravir 1                                                                                                     | Bictegravir: AUC: ↑ 61% C max : ↔                                                                                                                                                                                                                                                              | No dose adjustment is required upon co-administration.                                                                   |
+| Macrolides Azithromycin Clarithromycin (Inhibition of P-gp)                                                                                          | Interaction not studied. Co-administration of azithromycin or clarithromycin may increase bictegravir plasma concentrations.                                                                                                                                                                   | Caution is recommended due to the potential effect of these medicinal products on the bictegravir component of Biktarvy. |
+| ANTICONVULSANTS                                                                                                                                      |                                                                                                                                                                                                                                                                                                |                                                                                                                          |
+| Carbamazepine (titrated from 100 mg to 300 mg twice a day), Emtricitabine/Tenofovir alafenamide 4 (Induction of CYP3A, UGT1A1, and P-gp)             | Tenofovir alafenamide: AUC: ↓ 54% C max : ↓ 57% Interaction not studied with bictegravir. Co-administration of carbamazepine may decrease bictegravir plasma concentrations.                                                                                                                   | Co-administration is not recommended.                                                                                    |
 
 <div style=\"page-break-after: always\"></div>
 
-| Medicinal product by therapeutic areas/possible mechanism of interaction                                                                 | Effects on medicinal product levels. Mean percent change in AUC,                                                                                                                                                                                                                                                    | Recommendation concerning co-administration with Biktarvy                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     |
-|------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| ANTICONVULSANTS                                                                                                                          | C max , C min                                                                                                                                                                                                                                                                                                       |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               |
-| Carbamazepine (titrated from 100 mg to 300 mg twice a day), Emtricitabine/Tenofovir alafenamide 4 (Induction of CYP3A, UGT1A1, and P-gp) | Tenofovir alafenamide: AUC: ↓ 54% C max : ↓ 57% Interaction not studied with bictegravir. Co-administration of carbamazepine may decrease bictegravir plasma concentrations.                                                                                                                                        | Co-administration is not recommended.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         |
-| Oxcarbazepine Phenobarbital Phenytoin (Induction of CYP3A, UGT1A1, and P-gp)                                                             | Interaction not studied with any of the components of Biktarvy. Co-administration of oxcarbazepine, phenobarbital, or phenytoin may decrease bictegravir and tenofovir alafenamide plasma concentrations.                                                                                                           | Co-administration is not recommended.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         |
-| ANTACIDS, SUPPLEMENTS AND BUFFERED MEDICINES                                                                                             | ANTACIDS, SUPPLEMENTS AND BUFFERED MEDICINES                                                                                                                                                                                                                                                                        |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               |
-| Magnesium/aluminium-containing antacid suspension (20 mL single dose 5 ), Bictegravir (Chelation with polyvalent cations)                | Bictegravir (antacid suspension 2 hours prior, fasted): AUC: ↓ 52% C max : ↓ 58% Bictegravir (antacid suspension after 2 hours, fasted): AUC: ↔ C max : ↔ Bictegravir (simultaneous administration, fasted): AUC: ↓ 79% C max : ↓ 80% Bictegravir (simultaneous administration with food): AUC: ↓ 47% C max : ↓ 49% | For non-pregnant patients: Biktarvy should not be taken simultaneously with antacids or supplements containing magnesium and/or aluminium due to the expected substantial decrease of bictegravir exposure (see section 4.4). Biktarvy should be administered at least 2 hours before, or with food 2 hours after antacids or supplements containing magnesium and/or aluminium. For pregnant patients: Biktarvy should be administered at least 2 hours before or 6 hours after taking antacids or supplements containing aluminium and/or magnesium without regard to food. |
-| Ferrous fumarate (324 mg single dose), Bictegravir (Chelation with polyvalent cations)                                                   | Bictegravir (simultaneous administration, fasted): AUC: ↓ 63% C max : ↓ 71% Bictegravir (simultaneous administration with food): AUC: ↔ C max : ↓ 25%                                                                                                                                                               | For non-pregnant patients: Biktarvy should be administered at least 2 hours before oral medications or supplements containing iron, or taken together with food at any time. For pregnant patients: Biktarvy should be administered at least 2 hours before or 6 hours after taking oral medications or supplements containing iron. Alternatively, Biktarvy and oral medications or supplements containing iron can be taken together with food at any time.                                                                                                                 |
+| Medicinal product by therapeutic areas/possible mechanism of interaction                                                  | Effects on medicinal product levels. Mean percent change in AUC, C , C                                                                                                                                                                                                                                              | Recommendation concerning co-administration with Biktarvy                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     |
+|---------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Oxcarbazepine Phenobarbital Phenytoin (Induction of CYP3A, UGT1A1, and P-gp)                                              | max min Interaction not studied with any of the components of Biktarvy. Co-administration of oxcarbazepine, phenobarbital, or phenytoin may decrease bictegravir and tenofovir alafenamide plasma concentrations.                                                                                                   | Co-administration is not recommended.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         |
+| ANTACIDS, SUPPLEMENTS AND BUFFERED MEDICINES                                                                              | ANTACIDS, SUPPLEMENTS AND BUFFERED MEDICINES                                                                                                                                                                                                                                                                        | ANTACIDS, SUPPLEMENTS AND BUFFERED MEDICINES                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  |
+| Magnesium/aluminium-containing antacid suspension (20 mL single dose 5 ), Bictegravir (Chelation with polyvalent cations) | Bictegravir (antacid suspension 2 hours prior, fasted): AUC: ↓ 52% C max : ↓ 58% Bictegravir (antacid suspension after 2 hours, fasted): AUC: ↔ C max : ↔ Bictegravir (simultaneous administration, fasted): AUC: ↓ 79% C max : ↓ 80% Bictegravir (simultaneous administration with food): AUC: ↓ 47% C max : ↓ 49% | For non-pregnant patients: Biktarvy should not be taken simultaneously with antacids or supplements containing magnesium and/or aluminium due to the expected substantial decrease of bictegravir exposure (see section 4.4). Biktarvy should be administered at least 2 hours before, or with food 2 hours after antacids or supplements containing magnesium and/or aluminium. For pregnant patients: Biktarvy should be administered at least 2 hours before or 6 hours after taking antacids or supplements containing aluminium and/or magnesium without regard to food. |
+| Zinc (Chelation with polyvalent cations)                                                                                  | Interaction not studied with any of the components of Biktarvy. Co-administration may decrease bictegravir plasma concentrations.                                                                                                                                                                                   | For non-pregnant patients: Biktarvy should be administered at least 2 hours before oral medications or supplements containing zinc, or taken together with food at any time. For pregnant patients: Biktarvy should be administered at least 2 hours before or 6 hours after taking oral medications or supplements containing zinc. Alternatively, Biktarvy and oral medications or supplements containing zinc can be taken together with food at any time.                                                                                                                 |
 
 <div style=\"page-break-after: always\"></div>
 
-| Medicinal product by therapeutic areas/possible mechanism of interaction                                    | Effects on medicinal product levels. Mean percent change in AUC,                                                                                                                                               | Recommendation concerning co-administration with Biktarvy                                                                                                                                                                                                                                                                                                                                                                        |
-|-------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Calcium carbonate (1,200 mg single dose), Bictegravir (Chelation with polyvalent cations)                   | C max , C min Bictegravir (simultaneous administration, fasted): AUC: ↓ 33% C max : ↓ 42% Bictegravir (simultaneous administration with food): AUC: ↔ C max : ↔                                                | For non-pregnant patients: Biktarvy and calcium-containing oral medications or supplements can be taken together, without regard to food. For pregnant patients: Biktarvy should be administered at least 2 hours before or 6 hours after taking oral medications or supplements containing calcium. Alternatively, Biktarvy and oral medications or supplements containing calcium can be taken together with food at any time. |
-| Sucralfate (Chelation with polyvalent cations)                                                              | Interaction not studied with any of the components of Biktarvy. Co-administration may decrease bictegravir plasma concentrations.                                                                              | Co-administration not recommended.                                                                                                                                                                                                                                                                                                                                                                                               |
-| ANTIDEPRESSANTS                                                                                             |                                                                                                                                                                                                                |                                                                                                                                                                                                                                                                                                                                                                                                                                  |
-| Sertraline (50 mg single dose), Tenofovir alafenamide 6                                                     | Tenofovir alafenamide: AUC:↔ C max :↔ Sertraline: AUC:↔ C max :↔ No interaction is expected with                                                                                                               | No dose adjustment is required upon co-administration.                                                                                                                                                                                                                                                                                                                                                                           |
-| IMMUNOSUPPRESSANTS                                                                                          |                                                                                                                                                                                                                |                                                                                                                                                                                                                                                                                                                                                                                                                                  |
-| Ciclosporin (IV or oral use) (P-gp inhibition)                                                              | Interaction not studied with any of the components of Biktarvy. Co-administration of ciclosporin (IV or oral use) is expected to increase plasma concentrations of both bictegravir and tenofovir alafenamide. | Co-administration of ciclosporin (IV or oral use) is not recommended. If the combination is needed, clinical and biological monitoring, notably renal function, is recommended.                                                                                                                                                                                                                                                  |
-| ORAL ANTI-DIABETICS                                                                                         |                                                                                                                                                                                                                |                                                                                                                                                                                                                                                                                                                                                                                                                                  |
-| Metformin (500 mg twice daily), Bictegravir/Emtricitabine/ Tenofovir alafenamide (Inhibition of OCT2/MATE1) | Metformin: AUC: ↑ 39% C min : ↑ 36% C max : ↔                                                                                                                                                                  | No dose adjustment is required upon co-administration in patients with normal renal function. In patients with moderate renal impairment, close monitoring should be considered when starting co-administration of bictegravir with metformin, due to the increased risk for lactic acidosis in these patients. A dose adjustment of metformin should be considered if required.                                                 |
+| Medicinal product by therapeutic areas/possible mechanism of interaction                  | Effects on medicinal product levels. Mean percent change in AUC,                                                                                                                                               | Recommendation concerning co-administration with Biktarvy                                                                                                                                                                                                                                                                                                                                                                                                     |
+|-------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Ferrous fumarate (324 mg single dose), Bictegravir (Chelation with polyvalent cations)    | C max , C min Bictegravir (simultaneous administration, fasted): AUC: ↓ 63% C max : ↓ 71% Bictegravir (simultaneous administration with food): AUC: ↔ C max : ↓ 25%                                            | For non-pregnant patients: Biktarvy should be administered at least 2 hours before oral medications or supplements containing iron, or taken together with food at any time. For pregnant patients: Biktarvy should be administered at least 2 hours before or 6 hours after taking oral medications or supplements containing iron. Alternatively, Biktarvy and oral medications or supplements containing iron can be taken together with food at any time. |
+| Calcium carbonate (1,200 mg single dose), Bictegravir (Chelation with polyvalent cations) | Bictegravir (simultaneous administration, fasted): AUC: ↓ 33% C max : ↓ 42% Bictegravir (simultaneous administration with food): AUC: ↔ C max : ↔                                                              | For non-pregnant patients: Biktarvy and calcium-containing oral medications or supplements can be taken together, without regard to food. For pregnant patients: Biktarvy should be administered at least 2 hours before or 6 hours after taking oral medications or supplements containing calcium. Alternatively, Biktarvy and oral medications or supplements containing calcium can be taken together with food at any time.                              |
+| Sucralfate (Chelation with polyvalent cations)                                            | Interaction not studied with any of the components of Biktarvy. Co-administration may decrease bictegravir plasma concentrations.                                                                              | Co-administration not recommended.                                                                                                                                                                                                                                                                                                                                                                                                                            |
+| ANTIDEPRESSANTS                                                                           |                                                                                                                                                                                                                |                                                                                                                                                                                                                                                                                                                                                                                                                                                               |
+| Sertraline (50 mg single dose), Tenofovir alafenamide 6                                   | Tenofovir alafenamide: AUC: ↔ C max : ↔ Sertraline: AUC: ↔ C max : ↔ No interaction is expected with                                                                                                           | No dose adjustment is required upon co-administration.                                                                                                                                                                                                                                                                                                                                                                                                        |
+| IMMUNOSUPPRESSANTS                                                                        |                                                                                                                                                                                                                |                                                                                                                                                                                                                                                                                                                                                                                                                                                               |
+| Ciclosporin (IV or oral use) (P-gp inhibition)                                            | Interaction not studied with any of the components of Biktarvy. Co-administration of ciclosporin (IV or oral use) is expected to increase plasma concentrations of both bictegravir and tenofovir alafenamide. | Co-administration of ciclosporin (IV or oral use) is not recommended. If the combination is needed, clinical and biological monitoring, notably renal function, is recommended.                                                                                                                                                                                                                                                                               |
 
 <div style=\"page-break-after: always\"></div>
 
-| Medicinal product by therapeutic areas/possible mechanism of interaction                                                                                                                                                            | Effects on medicinal product levels. Mean percent change in AUC, C max , C min                                        | Recommendation concerning co-administration with Biktarvy   |
-|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------|
-| ORAL CONTRACEPTIVES                                                                                                                                                                                                                 | ORAL CONTRACEPTIVES                                                                                                   | ORAL CONTRACEPTIVES                                         |
-| Norgestimate (0.180/0.215/0.250 mg once daily)/ Ethinylestradiol (0.025 mg once daily), Bictegravir 1 Norgestimate (0.180/0.215/0.250 mg once daily), Ethinylestradiol (0.025 mg once daily), Emtricitabine/Tenofovir alafenamide 4 | Norelgestromin: AUC:↔ C min :↔ C max :↔ Norgestrel: AUC:↔ C min :↔ C max :↔ Ethinylestradiol: AUC:↔ C min :↔ C max :↔ | No dose adjustment is required upon co-administration.      |
-| SEDATIVES/HYPNOTICS                                                                                                                                                                                                                 | SEDATIVES/HYPNOTICS                                                                                                   | SEDATIVES/HYPNOTICS                                         |
-| Midazolam (2 mg, oral syrup, single dose), Bictegravir/Emtricitabine/ Tenofovir alafenamide                                                                                                                                         | Midazolam: AUC: ↔ C max : ↔                                                                                           | No dose adjustment is required upon co-administration.      |
+| Medicinal product by therapeutic areas/possible mechanism of interaction                                                      | Effects on medicinal product levels. Mean percent change in AUC, C max , C min   | Recommendation concerning co-administration with Biktarvy                                                                                                                                                                                                                                                                                                                        |
+|-------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| ORAL ANTI-DIABETICS                                                                                                           |                                                                                  |                                                                                                                                                                                                                                                                                                                                                                                  |
+| Metformin (500 mg twice daily), Bictegravir/Emtricitabine/ Tenofovir alafenamide (Inhibition of OCT2/MATE1)                   | Metformin: AUC: ↑ 39% C min : ↑ 36% C max : ↔                                    | No dose adjustment is required upon co-administration in patients with normal renal function. In patients with moderate renal impairment, close monitoring should be considered when starting co-administration of bictegravir with metformin, due to the increased risk for lactic acidosis in these patients. A dose adjustment of metformin should be considered if required. |
+| ORAL CONTRACEPTIVES                                                                                                           |                                                                                  |                                                                                                                                                                                                                                                                                                                                                                                  |
+| Norgestimate (0.180/0.215/0.250 mg once daily)/ Ethinylestradiol (0.025 mg once daily), Bictegravir 1                         | Norelgestromin: AUC: ↔ C min : ↔ C max : ↔                                       | No dose adjustment is required upon co-administration.                                                                                                                                                                                                                                                                                                                           |
+| Norgestimate (0.180/0.215/0.250 mg once daily), Ethinylestradiol (0.025 mg once daily), Emtricitabine/Tenofovir alafenamide 4 | Norgestrel: AUC: ↔ C min : ↔ C max : ↔ Ethinylestradiol: AUC: ↔ C min : ↔        |                                                                                                                                                                                                                                                                                                                                                                                  |
+| SEDATIVES/HYPNOTICS                                                                                                           | max                                                                              |                                                                                                                                                                                                                                                                                                                                                                                  |
+| Midazolam (2 mg, oral syrup, single dose), Bictegravir/Emtricitabine/ Tenofovir alafenamide                                   | Midazolam: AUC: ↔ C max : ↔                                                      | No dose adjustment is required upon co-administration.                                                                                                                                                                                                                                                                                                                           |
 
 - 1 This study was conducted using bictegravir 75 mg single dose.
 - 2 This study was conducted using bictegravir/emtricitabine/tenofovir alafenamide 75/200/25 mg once daily.
@@ -294,6 +294,8 @@ Table 1: Interactions between Biktarvy or its individual component(s) and other 
 - 6 This study was conducted using elvitegravir/cobicistat/emtricitabine/tenofovir alafenamide 150/150/200/10 mg once daily.
 
 Based on drug interaction studies conducted with Biktarvy or the components of Biktarvy, no clinically significant drug interactions are expected with: amlodipine, atorvastatin, buprenorphine, drospirenone, famciclovir, famotidine, fluticasone, methadone, naloxone, norbuprenorphine, omeprazole or rosuvastatin.
+
+<div style=\"page-break-after: always\"></div>
 
 ## 4.6 Fertility, pregnancy and lactation
 
@@ -307,11 +309,9 @@ In a study performed in pregnant women receiving Biktarvy, exposures of bictegra
 
 Therefore, Biktarvy may be used during pregnancy if the potential benefit justifies the potential risk to the foetus.  Moreover, viral load should all the more be monitored closely in accordance with established treatment guidelines.
 
-<div style=\"page-break-after: always\"></div>
-
 ## Breast-feeding
 
-It is not known whether bictegravir or tenofovir alafenamide is excreted in human milk.  Emtricitabine is excreted in human milk.  In animal studies, bictegravir was detected in the plasma of nursing rat pups likely due to the presence of bictegravir in milk, without effects on nursing pups.  In animal studies it has been shown that tenofovir is excreted in milk.
+It is not known whether bictegravir  is excreted in human milk. Emtricitabine is excreted in human milk. Based on published data, tenofovir alafenamide is excreted in human milk at low levels. The relative infant dose (RID) is estimated to be below 0.1% of the maternal weight-adjusted dose.In animal studies, bictegravir was detected in the plasma of nursing rat pups likely due to the presence of bictegravir in milk, without effects on nursing pups.
 
 There is insufficient information on the effects of all the components of Biktarvy in newborns/infants, therefore Biktarvy should not be used during breast-feeding.
 
@@ -331,38 +331,37 @@ Biktarvy may have minor influence on the ability to drive and use machines.  Pat
 
 In clinical studies of treatment-naïve patients receiving Biktarvy, the most frequently reported adverse reactions in the double-blind phase (Week 144) were headache (5%), diarrhoea (5%) and nausea (4%).
 
+<div style=\"page-break-after: always\"></div>
+
 ## Tabulated list of adverse reactions
 
 The assessment of adverse reactions is based on safety data from across all Phase 2 and 3 studies with Biktarvy and from post-marketing experience.  The adverse reactions in Table 2 are listed by system organ class and frequency. Frequencies are defined as follows: common (≥ 1/100 to &lt; 1/10) uncommon (≥ 1/1 000 to &lt; 1/100) and rare (≥ 1/10 000 to &lt; 1/1 000).
 
 Table 2: Tabulated list of adverse reactions 1
 
-| Frequency                              | Adverse reaction                                                                                                                                         |
-|----------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Blood and lymphatic system disorders   | Blood and lymphatic system disorders                                                                                                                     |
-| Uncommon:                              | anaemia 2                                                                                                                                                |
-| Psychiatric disorders                  | Psychiatric disorders                                                                                                                                    |
-| Common:                                | depression, abnormal dreams                                                                                                                              |
-| Uncommon:                              | suicidal ideation, suicide attempt (particularly in patients with a pre-existing history of depression or psychiatric illness), anxiety, sleep disorders |
-| Nervous system disorders               | Nervous system disorders                                                                                                                                 |
-| Common:                                | headache, dizziness                                                                                                                                      |
-| Gastrointestinal disorders             | Gastrointestinal disorders                                                                                                                               |
-| Common:                                | diarrhoea, nausea                                                                                                                                        |
-| Uncommon:                              | vomiting, abdominal pain, dyspepsia, flatulence                                                                                                          |
-| Hepatobiliary disorders                | Hepatobiliary disorders                                                                                                                                  |
-| Uncommon:                              | hyperbilirubinaemia                                                                                                                                      |
-| Skin and subcutaneous tissue disorders | Skin and subcutaneous tissue disorders                                                                                                                   |
-| Uncommon:                              | angioedema 3,4 , rash, pruritus, urticaria 4                                                                                                             |
-| Rare:                                  | Stevens-Johnson syndrome 5                                                                                                                               |
-
-<div style=\"page-break-after: always\"></div>
-
-| Frequency                                            | Adverse reaction                                     |
-|------------------------------------------------------|------------------------------------------------------|
-| Musculoskeletal and connective tissue disorders      | Musculoskeletal and connective tissue disorders      |
-| Uncommon:                                            | arthralgia                                           |
-| General disorders and administration site conditions | General disorders and administration site conditions |
-| Common:                                              | fatigue                                              |
+| Frequency                                            | Adverse reaction                                                                                                                                         |
+|------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Blood and lymphatic system disorders                 | Blood and lymphatic system disorders                                                                                                                     |
+| Uncommon:                                            | anaemia 2                                                                                                                                                |
+| Psychiatric disorders                                | Psychiatric disorders                                                                                                                                    |
+| Common:                                              | depression, abnormal dreams                                                                                                                              |
+| Uncommon:                                            | suicidal ideation, suicide attempt (particularly in patients with a pre-existing history of depression or psychiatric illness), anxiety, sleep disorders |
+| Nervous system disorders                             | Nervous system disorders                                                                                                                                 |
+| Common:                                              | headache, dizziness                                                                                                                                      |
+| Gastrointestinal disorders                           | Gastrointestinal disorders                                                                                                                               |
+| Common:                                              | diarrhoea, nausea                                                                                                                                        |
+| Uncommon:                                            | vomiting, abdominal pain, dyspepsia, flatulence                                                                                                          |
+| Hepatobiliary disorders                              | Hepatobiliary disorders                                                                                                                                  |
+| Uncommon:                                            | hyperbilirubinaemia                                                                                                                                      |
+| Skin and subcutaneous tissue disorders               | Skin and subcutaneous tissue disorders                                                                                                                   |
+| Uncommon:                                            | angioedema 3,4 , rash, pruritus, urticaria 4                                                                                                             |
+| Rare:                                                | Stevens-Johnson syndrome 5                                                                                                                               |
+| Musculoskeletal and connective tissue disorders      | Musculoskeletal and connective tissue disorders                                                                                                          |
+| Uncommon:                                            | arthralgia                                                                                                                                               |
+| General disorders and administration site conditions | General disorders and administration site conditions                                                                                                     |
+| Common:                                              | Fatigue                                                                                                                                                  |
+| Investigations                                       | Investigations                                                                                                                                           |
+| Common:                                              | weight increased                                                                                                                                         |
 
 - 1 With the exception of angioedema, anaemia, urticaria and Stevens-Johnson syndrome (see footnotes 2-5), all adverse reactions were identified from Biktarvy clinical studies.  The frequencies were derived from the double-blind phase (Week 144) of Phase 3 Biktarvy clinical studies in treatment-naïve patients (GS-US-380-1489 and GS-US-380-1490).
 - 2 This adverse reaction was not observed in the clinical studies of emtricitabine + tenofovir alafenamide-containing products but identified from clinical studies or post-marketing experience for emtricitabine when used with other antiretrovirals.
@@ -384,6 +383,8 @@ In HIV infected patients with severe immune deficiency at the time of initiation
 
 Cases of osteonecrosis have been reported, particularly in patients with generally acknowledged risk factors, advanced HIV disease or long-term exposure to CART.  The frequency of this is unknown (see section 4.4).
 
+<div style=\"page-break-after: always\"></div>
+
 ## Changes in serum creatinine
 
 Bictegravir has been shown to increase serum creatinine due to inhibition of tubular secretion of creatinine, however these changes are not considered to be clinically relevant since they do not reflect a change in glomerular filtration rate.  Increases in serum creatinine occurred by Week 4 of treatment and remained stable through Week 144.  In Studies GS-US-380-1489 and GS-US-380-1490, median (Q1, Q3) serum creatinine increased by 0.11 (0.03, 0.19) mg/dL (9.7 [2.7, 16.8] µmol/L),
@@ -396,11 +397,7 @@ In Studies GS-US-380-1489 and GS-US-380-1490, total bilirubin increases were obs
 
 ## Paediatric population
 
-The safety of Biktarvy was evaluated in 50 HIV-1 infected adolescents aged 12 to &lt; 18 years and weighing ≥ 35 kg through Week 96 (48-week main phase and 48-week extension), in 50 children aged 6 to &lt; 12 years and weighing ≥ 25 kg through Week 96 (48-week main phase and 48-week extension),
-
-<div style=\"page-break-after: always\"></div>
-
-and in 22 children ≥ 2 years of age and weighing ≥ 14 to &lt; 25 kg through Week 24 in an open-label clinical study (GS-US-380-1474).  In this study, no new adverse reactions have been observed in paediatric subjects aged 2 years and older living with HIV-1 as compared to adult subjects living with HIV-1.  Bone mineral density data were not collected in this study.  Reductions in BMD of the spine and of the TBLH ≥ 4% have been reported in paediatric patients receiving other tenofovir alafenamide containing products for 48 weeks (see section 4.4).
+The safety of Biktarvy was evaluated in 50 HIV-1 infected adolescents aged 12 to &lt; 18 years and weighing ≥ 35 kg through Week 96 (48-week main phase and 48-week extension), in 50 children aged 6 to &lt; 12 years and weighing ≥ 25 kg through Week 96 (48-week main phase and 48-week extension), and in 22 children ≥ 2 years of age and weighing ≥ 14 to &lt; 25 kg through Week 24 in an open-label clinical study (GS-US-380-1474).  In this study, no new adverse reactions have been observed in paediatric subjects aged 2 years and older living with HIV-1 as compared to adult subjects living with HIV-1.  Bone mineral density data were not collected in this study.  Reductions in BMD of the spine and of the TBLH ≥ 4% have been reported in paediatric patients receiving other tenofovir alafenamide containing products for 48 weeks (see section 4.4).
 
 ## Other special populations
 
@@ -418,6 +415,8 @@ The safety of emtricitabine + tenofovir alafenamide was evaluated in a single ar
 
 ## Pregnancy
 
+<div style=\"page-break-after: always\"></div>
+
 Biktarvy was evaluated in a clinical study of 33 HIV-1 infected virologically suppressed (HIV-1 RNA &lt; 50 copies/mL) pregnant adults administered 50 mg/200 mg/25 mg Biktarvy once daily from the second or third trimester through postpartum.  There were no new safety findings compared to the known safety profile of Biktarvy in HIV-1 infected adults.
 
 ## Reporting of suspected adverse reactions
@@ -429,8 +428,6 @@ Reporting suspected adverse reactions after authorisation of the medicinal produ
 If overdose occurs the patient must be monitored for evidence of toxicity (see section 4.8).  Treatment of overdose with Biktarvy consists of general supportive measures including monitoring of vital signs as well as observation of the clinical status of the patient.
 
 There is no specific antidote for overdose with Biktarvy.  As bictegravir is highly bound to plasma proteins, it is unlikely that it will be significantly removed by haemodialysis or peritoneal dialysis. Emtricitabine can be removed by haemodialysis, which removes approximately 30% of the emtricitabine dose over a 3-hour dialysis period starting within 1.5 hours of emtricitabine dosing. Tenofovir is efficiently removed by haemodialysis with an extraction coefficient of approximately 54%.  It is not known whether emtricitabine or tenofovir can be removed by peritoneal dialysis.
-
-<div style=\"page-break-after: always\"></div>
 
 ## 5. PHARMACOLOGICAL PROPERTIES
 
@@ -446,6 +443,8 @@ Emtricitabine is a nucleoside reverse transcriptase inhibitor (NRTI) and analogu
 
 Tenofovir alafenamide is a nucleotide reverse transcriptase inhibitor (NtRTI) and phosphonamidate prodrug of tenofovir (2'-deoxyadenosine monophosphate analogue).  Tenofovir alafenamide is permeable into cells and due to increased plasma stability and intracellular activation through hydrolysis by cathepsin A, tenofovir alafenamide is more efficient than tenofovir disoproxil in loading tenofovir into peripheral blood mononuclear cells (PBMCs) (including lymphocytes and other HIV target cells) and macrophages.  Intracellular tenofovir is subsequently phosphorylated to the pharmacologically active metabolite tenofovir diphosphate.  Tenofovir diphosphate inhibits HIV replication through incorporation into viral DNA by the HIV RT, which results in DNA chaintermination.  Tenofovir has activity against HIV-1, HIV-2 and HBV.
 
+<div style=\"page-break-after: always\"></div>
+
 ## Antiviral activity in vitro
 
 The antiviral activity of bictegravir against laboratory and clinical isolates of HIV-1 was assessed in lymphoblastoid cell lines, PBMCs, primary monocyte/macrophage cells, and CD4+ T-lymphocytes. The 50% effective concentration (EC50) values for bictegravir were in the range of &lt; 0.05 to 6.6 nM. The protein-adjusted EC95 of bictegravir was 361 nM (0.162 µg/mL) for wild type HIV-1 virus. Bictegravir displayed antiviral activity in cell culture against HIV-1 group (M, N, O), including subtypes A, B, C, D, E, F, and G (EC50 values ranged from &lt; 0.05 to 1.71 nM), and activity against HIV-2 (EC50 = 1.1 nM).
@@ -458,11 +457,7 @@ The antiviral activity of tenofovir alafenamide against laboratory and clinical 
 
 ## In vitro
 
-HIV-1 isolates with reduced susceptibility to bictegravir have been selected in cell culture.  In one selection, amino acid substitutions M50I and R263K emerged and phenotypic susceptibility to
-
-<div style=\"page-break-after: always\"></div>
-
-bictegravir was reduced 1.3-, 2.2-, and 2.9-fold for M50I, R263K, and M50I + R263K, respectively. In a second selection, amino acid substitutions T66I and S153F emerged and phenotypic susceptibility to bictegravir was shifted 0.4-, 1.9-, and 0.5-fold for T66I, S153F, and T66I + S153F, respectively.
+HIV-1 isolates with reduced susceptibility to bictegravir have been selected in cell culture.  In one selection, amino acid substitutions M50I and R263K emerged and phenotypic susceptibility to bictegravir was reduced 1.3-, 2.2-, and 2.9-fold for M50I, R263K, and M50I + R263K, respectively. In a second selection, amino acid substitutions T66I and S153F emerged and phenotypic susceptibility to bictegravir was shifted 0.4-, 1.9-, and 0.5-fold for T66I, S153F, and T66I + S153F, respectively.
 
 HIV-1 isolates with reduced susceptibility to emtricitabine have been selected in cell culture and had M184V/I mutations in HIV-1 RT.
 
@@ -473,6 +468,8 @@ HIV-1 isolates with reduced susceptibility to tenofovir alafenamide have been se
 In treatment-naïve patients (Studies GS-US-380-1489 and GS-US-380-1490), through Week 144 of the double-blind phase or 96 weeks of the open-label extension phase, no patient receiving Biktarvy, with HIV1 RNA ≥ 200 copies/mL at the time of confirmed virologic failure or early study drug discontinuation, had HIV-1 with treatment-emergent genotypic or phenotypic resistance to bictegravir, emtricitabine, or tenofovir alafenamide in the final resistance analysis population (n = 11 with data). At the time of study entry, one treatment-naïve patient had pre-existing INSTI resistance-associated mutations Q148H + G140S and had HIV-1 RNA &lt; 50 copies/mL at Week 4 through Week 144. In addition, 6 patients had the pre-existing INSTI resistance-associated mutation T97A; all had HIV-1 RNA &lt; 50 copies/mL at Week 144 or the last visit.
 
 In virologically-suppressed patients (Studies GS-US-380-1844 and GS-US-380-1878), no patients receiving Biktarvy, with HIV-1 RNA ≥ 200 copies/mL at the time of confirmed virologic failure, Week 48, or early study drug discontinuation, had HIV-1 with treatment-emergent genotypic or phenotypic resistance to bictegravir, emtricitabine, or tenofovir alafenamide in the final resistance analysis population (n = 2).
+
+<div style=\"page-break-after: always\"></div>
 
 ## Cross-resistance
 
@@ -486,11 +483,7 @@ The K65R and K70E mutations result in reduced susceptibility to abacavir, didano
 
 ## Clinical data
 
-The efficacy and safety of Biktarvy in HIV-1 infected, treatment-naïve adults are based on 48-week and 144-week data from two randomised, double-blind, active-controlled studies, GS-US-380-1489
-
-<div style=\"page-break-after: always\"></div>
-
-(n = 629) and GS-US-380-1490 (n = 645).  Furthermore, additional efficacy and safety data are available from adults who received open-label Biktarvy for an additional 96 weeks after Week 144 in an optional extension phase of these studies (n = 1025).
+The efficacy and safety of Biktarvy in HIV-1 infected, treatment-naïve adults are based on 48-week and 144-week data from two randomised, double-blind, active-controlled studies, GS-US-380-1489 (n = 629) and GS-US-380-1490 (n = 645).  Furthermore, additional efficacy and safety data are available from adults who received open-label Biktarvy for an additional 96 weeks after Week 144 in an optional extension phase of these studies (n = 1025).
 
 The efficacy and safety of Biktarvy in virologically-suppressed HIV-1 infected adults are based on 48-week data from a randomised, double-blind, active-controlled study, GS-US-380-1844 (n = 563); and a randomised, open-label, active-controlled study, GS-US-380-1878 (n = 577).
 
@@ -502,31 +495,28 @@ In Studies GS-US-380-1489 and GS-US-380-1490, the mean age was 35 years (range 1
 
 Treatment outcomes of Studies GS-US-380-1489 and GS-US-380-1490 through Weeks 48 and 144 are presented in Table 3.
 
-Table 3: Pooled virologic outcomes of Studies GS-US-380-1489 and GS-US-380-1490 at Weeks 48 a and 144 b
-
-|                                                     | Week 48             | Week 48                  | Week 48                 | Week 144            | Week 144                 | Week 144                |
-|-----------------------------------------------------|---------------------|--------------------------|-------------------------|---------------------|--------------------------|-------------------------|
-|                                                     | B/F/TAF (n = 634) c | ABC/DTG/ 3TC (n = 315) d | DTG + F/TAF (n = 325) e | B/F/TAF (n = 634) c | ABC/DTG/ 3TC (n = 315) d | DTG + F/TAF (n = 325) e |
-| HIV-1 RNA < 50 copies/mL                            | 91%                 | 93%                      | 93%                     | 82%                 | 84%                      | 84%                     |
-| Treatment difference (95% CI) B/F/TAF vs Comparator | -                   | -2.1% (-5.9% to 1.6%)    | -1.9% (-5.6% to 1.8%)   | -                   | -2.7% (-7.8% to 2.4%)    | -1.9% (-7.0% to 3.1%)   |
-| HIV-1 RNA ≥ 50 copies/mL f                          | 3%                  | 3%                       | 1%                      | 3%                  | 3%                       | 3%                      |
-| No virologic data at week 48 or 144 window          | 6%                  | 4%                       | 6%                      | 16%                 | 13%                      | 13%                     |
-| Discontinued study drug due to AE or death g        | <1%                 | 1%                       | 1%                      | 2%                  | 2%                       | 3%                      |
-
 <div style=\"page-break-after: always\"></div>
+
+Table 3: Pooled virologic outcomes of Studies GS-US-380-1489 and GS-US-380-1490 at Weeks 48 a and 144 b
 
 |                                                                                             | Week 48             | Week 48                  | Week 48                 | Week 144            | Week 144                 | Week 144                |
 |---------------------------------------------------------------------------------------------|---------------------|--------------------------|-------------------------|---------------------|--------------------------|-------------------------|
 |                                                                                             | B/F/TAF (n = 634) c | ABC/DTG/ 3TC (n = 315) d | DTG + F/TAF (n = 325) e | B/F/TAF (n = 634) c | ABC/DTG/ 3TC (n = 315) d | DTG + F/TAF (n = 325) e |
+| HIV-1 RNA < 50 copies/mL                                                                    | 91%                 | 93%                      | 93%                     | 82%                 | 84%                      | 84%                     |
+| Treatment difference (95% CI) B/F/TAF vs Comparator                                         | -                   | -2.1% (-5.9% to 1.6%)    | -1.9% (-5.6% to 1.8%)   | -                   | -2.7% (-7.8% to 2.4%)    | -1.9% (-7.0% to 3.1%)   |
+| HIV-1 RNA ≥ 50 copies/mL f                                                                  | 3%                  | 3%                       | 1%                      | 3%                  | 3%                       | 3%                      |
+| No virologic data at week 48 or 144 window                                                  | 6%                  | 4%                       | 6%                      | 16%                 | 13%                      | 13%                     |
+| Discontinued study drug due to AE or death g                                                | <1%                 | 1%                       | 1%                      | 2%                  | 2%                       | 3%                      |
 | Discontinued study drug due to other reasons and last available HIV- 1 RNA < 50 copies/mL h | 4%                  | 3%                       | 4%                      | 13%                 | 11%                      | 9%                      |
 | Missing data during window but on study drug                                                | 2%                  | <1%                      | 1%                      | 1%                  | <1%                      | 1%                      |
 | Proportion (%) of patients with HIV-1 RNA < 50 copies/mL by subgroup                        |                     |                          |                         |                     |                          |                         |
-| By baseline viral load ≤ 100,000 copies/ mL > 100,000 copies/                               | 92% 87%             | 94% 90%                  | 93% 94%                 | 82% 79%             | 86% 74%                  | 84% 83%                 |
-| By baseline CD4+ cell count                                                                 | 90%                 | 81%                      | 100%                    | 80%                 | 69%                      | 91%                     |
-| < 200 cells/mm 3 ≥ 200 cells/mm 3                                                           | 91%                 | 94%                      | 92%                     | 82%                 | 86%                      | 83%                     |
+| By baseline viral load ≤ 100,000 copies/ mL > 100,000 copies/ mL                            | 92% 87%             | 94% 90%                  | 93% 94%                 | 82% 79%             | 86% 74%                  | 84% 83%                 |
+| By baseline CD4+ cell count < 200 cells/mm 3                                                | 90% 91%             | 81% 94%                  | 100% 92%                | 80% 82%             | 69% 86%                  | 91% 83%                 |
 | HIV-1 RNA < 20 copies/mL                                                                    | 85%                 | 87%                      | 87%                     | 78%                 | 82%                      | 79%                     |
 
-ABC = abacavir DTG = dolutegravir 3TC = lamivudine F/TAF = emtricitabine/tenofovir alafenamide
+ABC = abacavir DTG = dolutegravir
+
+3TC = lamivudine F/TAF = emtricitabine/tenofovir alafenamide
 
 - a Week 48 window was between Day 295 and 378 (inclusive).
 - b Week 144 window was between Day 967 and 1050 (inclusive).
@@ -537,6 +527,8 @@ ABC = abacavir DTG = dolutegravir 3TC = lamivudine F/TAF = emtricitabine/tenofov
 - g Includes patients who discontinued due to AE or death at any time point from Day 1 through the time window if this resulted in no virologic data on treatment during the specified window.
 - h Includes patients who discontinued for reasons other than an AE, death or lack or loss of efficacy, e.g. withdrew consent, loss to follow-up, etc.
 
+<div style=\"page-break-after: always\"></div>
+
 B/F/TAF was non-inferior in achieving HIV-1 RNA &lt; 50 copies/mL at both Weeks 48 and 144 when compared to abacavir/dolutegravir/lamivudine and to dolutegravir + emtricitabine/tenofovir alafenamide, respectively.  Treatment outcomes between treatment groups were similar across subgroups by age, sex, race, baseline viral load, baseline CD4+ cell count, and region.
 
 In Studies GS-US-380-1489 and GS-US-380-1490, the mean increase from baseline in CD4+ cell count at Week 144 was 288, 317, and 289 cells/mm 3 in the pooled B/F/TAF, abacavir/dolutegravir/lamivudine, and dolutegravir + emtricitabine/tenofovir alafenamide groups, respectively.
@@ -545,41 +537,43 @@ In the optional 96 week open-label extension phase of Studies GS-US-380-1489 and
 
 ## HIV-1 infected, virologically -suppressed patients
 
-In Study GS-US-380-1844, the efficacy and safety of switching from a regimen of dolutegravir + abacavir/lamivudine or abacavir/dolutegravir/lamivudine to B/F/TAF were evaluated in a randomised, double-blind study of virologically-suppressed (HIV-1 RNA &lt; 50 copies/mL) HIV-1 infected adults (n = 563).  Patients must have been stably suppressed (HIV-1 RNA &lt; 50 copies/mL) on
+In Study GS-US-380-1844, the efficacy and safety of switching from a regimen of dolutegravir + abacavir/lamivudine or abacavir/dolutegravir/lamivudine to B/F/TAF were evaluated in a randomised, double-blind study of virologically-suppressed (HIV-1 RNA &lt; 50 copies/mL) HIV-1 infected adults (n = 563).  Patients must have been stably suppressed (HIV-1 RNA &lt; 50 copies/mL) on their baseline regimen for at least 3 months prior to study entry.  Patients were randomised in a 1:1 ratio to either switch to B/F/TAF at baseline (n = 282), or stay on their baseline antiretroviral regimen (n = 281).  Patients had a mean age of 45 years (range 20-71), 89% were male, 73% were White, and 22% were Black.  Seventeen percent (17%) of patients identified as Hispanic/Latino.  The prevalence of different HIV-1 subtypes was comparable between treatment groups, with subtype B predominant in both groups; 5% were non-B subtypes.  The mean baseline CD4+ cell count was 723 cells/mm 3 (range 124-2,444).
 
-<div style=\"page-break-after: always\"></div>
-
-their baseline regimen for at least 3 months prior to study entry.  Patients were randomised in a 1:1 ratio to either switch to B/F/TAF at baseline (n = 282), or stay on their baseline antiretroviral regimen (n = 281).  Patients had a mean age of 45 years (range 20-71), 89% were male, 73% were White, and 22% were Black.  Seventeen percent (17%) of patients identified as Hispanic/Latino.  The prevalence of different HIV-1 subtypes was comparable between treatment groups, with subtype B predominant in both groups; 5% were non-B subtypes.  The mean baseline CD4+ cell count was 723 cells/mm 3 (range 124-2,444).
-
-In Study GS-US-380-1878, the efficacy and safety of switching from either abacavir/lamivudine or emtricitabine/tenofovir disoproxil fumarate (200/300 mg) plus atazanavir or darunavir (boosted by either cobicistat or ritonavir) to B/F/TAF were evaluated in a randomised, open-label study of virologically-suppressed HIV-1 infected adults (n = 577).  Patients must have been stably suppressed on their baseline regimen for at least 6 months and must not have been previously treated with any INSTI.  Patients were randomised in a 1:1 ratio to either switch to B/F/TAF (n = 290), or stay on their baseline antiretroviral regimen (n = 287).  Patients had a mean age of 46 years (range 20-79), 83% were male, 66% were White, and 26% were Black.  Nineteen percent (19%) of patients identified as Hispanic/Latino.  The mean baseline CD4+ cell count was 663 cells/mm 3 (range 62-2,582).  The prevalence of different subtypes was comparable across treatment groups, with subtype B predominant in both groups; 11% were non-B subtypes.  Patients were stratified by prior treatment regimen.  At screening, 15% of patients were receiving abacavir/lamivudine plus atazanavir or darunavir (boosted by either cobicistat or ritonavir) and 85% of patients were receiving emtricitabine/tenofovir disoproxil fumarate plus atazanavir or darunavir (boosted by either cobicistat or ritonavir).
+In Study GS-US-380-1878, the efficacy and safety of switching from either abacavir/lamivudine or emtricitabine/tenofovir disoproxil fumarate (200/300 mg) plus atazanavir or darunavir (boosted by either cobicistat or ritonavir) to B/F/TAF were evaluated in a randomised, open-label study of virologically-suppressed HIV-1 infected adults (n = 577).  Patients must have been stably suppressed on their baseline regimen for at least 6 months and must not have been previously treated with any INSTI.  Patients were randomised in a 1:1 ratio to either switch to B/F/TAF (n = 290) or stay on their baseline antiretroviral regimen (n = 287).  Patients had a mean age of 46 years (range 20-79), 83% were male, 66% were White, and 26% were Black.  Nineteen percent (19%) of patients identified as Hispanic/Latino.  The mean baseline CD4+ cell count was 663 cells/mm 3 (range 62-2,582).  The prevalence of different subtypes was comparable across treatment groups, with subtype B predominant in both groups; 11% were non-B subtypes.  Patients were stratified by prior treatment regimen.  At screening, 15% of patients were receiving abacavir/lamivudine plus atazanavir or darunavir (boosted by either cobicistat or ritonavir) and 85% of patients were receiving emtricitabine/tenofovir disoproxil fumarate plus atazanavir or darunavir (boosted by either cobicistat or ritonavir).
 
 Treatment outcomes of Studies GS-US-380-1844 and GS-US-380-1878 through Week 48 are presented in Table 4.
 
 Table 4: Virologic outcomes of Studies GS-US-380-1844 and GS-US-380-1878 at Week 48 a
 
+|                               | Study GS-US-380-1844   | Study GS-US-380-1844   | Study GS-US-380-1878   | Study GS-US-380-1878                         |
+|-------------------------------|------------------------|------------------------|------------------------|----------------------------------------------|
+|                               | B/F/TAF (n = 282)      | ABC/DTG/3TC (n = 281)  | B/F/TAF (n = 290)      | Baseline ATV- or DRV-based regimen (n = 287) |
+| HIV-1 RNA < 50 copies/mL      | 94%                    | 95%                    | 92%                    | 89%                                          |
+| Treatment difference (95% CI) | -1.4% (-5.5% to 2.6%)  | -1.4% (-5.5% to 2.6%)  | 3.2% (-1.6% to 8.2%)   | 3.2% (-1.6% to 8.2%)                         |
+| HIV-1 RNA ≥ 50 copies/mL b    | 1%                     | < 1%                   | 2%                     | 2%                                           |
+| Treatment difference (95% CI) | 0.7% (-1.0% to 2.8%)   | 0.7% (-1.0% to 2.8%)   | 0.0% (-2.5% to 2.5%)   | 0.0% (-2.5% to 2.5%)                         |
+
+<div style=\"page-break-after: always\"></div>
+
 |                                                                                            | Study GS-US-380-1844   | Study GS-US-380-1844   | Study GS-US-380-1878   | Study GS-US-380-1878                         |
 |--------------------------------------------------------------------------------------------|------------------------|------------------------|------------------------|----------------------------------------------|
 |                                                                                            | B/F/TAF (n = 282)      | ABC/DTG/3TC (n = 281)  | B/F/TAF (n = 290)      | Baseline ATV- or DRV-based regimen (n = 287) |
-| HIV-1 RNA < 50 copies/mL                                                                   | 94%                    | 95%                    | 92%                    | 89%                                          |
-| Treatment difference (95% CI)                                                              | -1.4% (-5.5% to 2.6%)  | -1.4% (-5.5% to 2.6%)  | 3.2% (-1.6% to 8.2%)   | 3.2% (-1.6% to 8.2%)                         |
-| HIV-1 RNA ≥ 50 copies/mL b                                                                 | 1%                     | < 1%                   | 2%                     | 2%                                           |
-| Treatment difference (95% CI)                                                              | 0.7% (-1.0% to 2.8%)   | 0.7% (-1.0% to 2.8%)   | 0.0% (-2.5% to 2.5%)   | 0.0% (-2.5% to 2.5%)                         |
 | No virologic data at Week 48 window                                                        | 5%                     | 5%                     | 6%                     | 9%                                           |
 | Discontinued study drug due to AE or death and last available HIV-1 RNA < 50 copies/mL     | 2%                     | 1%                     | 1%                     | 1%                                           |
 | Discontinued study drug due to other reasons and last available HIV-1 RNA < 50 copies/mL c | 2%                     | 3%                     | 3%                     | 7%                                           |
 | Missing data during window but on study drug                                               | 2%                     | 1%                     | 2%                     | 2%                                           |
 
-ABC = abacavir ATV = atazanavir DRV = darunavir DTG = dolutegravir 3TC = lamivudine
+ABC = abacavir
 
-a Week 48 window was between Day 295 and 378 (inclusive).
+ATV = atazanavir
+
+DRV = darunavir a Week 48 window was between Day 295 and 378 (inclusive).
 
 b Includes patients who had ≥ 50 copies/mL in the Week 48 window; patients who discontinued early due to lack or loss of efficacy; patients who discontinued for reasons other than lack or loss of efficacy and at the time of discontinuation had a viral value of ≥ 50 copies/mL.
 
 c Includes patients who discontinued for reasons other than an AE, death or lack or loss of efficacy, e.g. withdrew consent, loss to follow-up, etc.
 
 B/F/TAF was non-inferior to the control regimen in both studies.  Treatment outcomes between treatment groups were similar across subgroups by age, sex, race, and region.
-
-<div style=\"page-break-after: always\"></div>
 
 In GS-US-380-1844, the mean change from baseline in CD4+ cell count at Week 48 was -31 cells/mm 3 in patients who switched to B/F/TAF and 4 cells/mm 3 in patients who stayed on abacavir/dolutegravir/lamivudine.  In GS-US-380-1878, the mean change from baseline in CD4+ cell count at Week 48 was 25 cells/mm 3 in patients who switched to B/F/TAF and 0 cells/mm 3 in patients who stayed on their baseline regimen.
 
@@ -593,7 +587,11 @@ In Study GS-US-380-1878, at Week 48, 100% (8/8) of the patients co-infected with
 
 In Study GS-US-380-5310, the pharmacokinetics, efficacy and safety of once-daily B/F/TAF were evaluated in an open-label clinical study of virologically suppressed pregnant adults with HIV-1 from the second or third trimester through postpartum (n = 33).  All 32 adult participants who completed the study maintained viral suppression during pregnancy, at delivery, and through Week 18 postpartum. The median (Q1, Q3) CD4+ cell count at baseline was 558 (409, 720) cells/μL, and the median (Q1, Q3) change in CD4+ cell count from baseline to Week 12 postpartum was 159 (27, 296) cells/μL. All 29 neonate participants had negative/nondetectable HIV-1 PCR results at birth and/or 4 to 8 weeks of age.
 
-Paediatric population
+DTG = dolutegravir 3TC = lamivudine
+
+<div style=\"page-break-after: always\"></div>
+
+## Paediatric population
 
 In Study GS-US-380-1474, the pharmacokinetics, safety and efficacy of B/F/TAF in virologically-suppressed children and adolescents with HIV between the ages of 12 to &lt; 18 years (≥ 35 kg) (n = 50), between the ages of 6 to &lt; 12 years (≥ 25 kg) (n = 50), and ≥ 2 years of age (≥ 14 to &lt; 25 kg) (n = 22) were evaluated.
 
@@ -605,11 +603,7 @@ Cohort 2: Virologically-suppressed children (n = 50; 6 to &lt; 12 years; ≥ 25 
 
 After switching to B/F/TAF, 98% (49/50) of patients in Cohort 2 remained suppressed (HIV-1 RNA &lt; 50 copies/mL) at Week 48.  The mean change from baseline in CD4+ cell count at Week 48 was -40 cells/mm 3 .  No patient qualified for resistance analysis through Week 48.
 
-Cohort 3: Virologically-suppressed children (n = 22; ≥ 2 years; ≥ 14 kg to &lt; 25 kg)
-
-<div style=\"page-break-after: always\"></div>
-
-Patients in Cohort 3 had a mean age of 5 years (range: 3 to 9) and a mean baseline weight of 18.8 kg (range: 14 to 24), 50% were female, 23% were Asian and 73% were Black.  At baseline, median CD4+ cell count was 962 cells/mm 3 (range 365 to 1986) and median CD4+% was 32% (range: 24% to 46%).
+Cohort 3: Virologically-suppressed children (n = 22; ≥ 2 years; ≥ 14 kg to &lt; 25 kg) Patients in Cohort 3 had a mean age of 5 years (range: 3 to 9) and a mean baseline weight of 18.8 kg (range: 14 to 24), 50% were female, 23% were Asian and 73% were Black.  At baseline, median CD4+ cell count was 962 cells/mm 3 (range 365 to 1986) and median CD4+% was 32% (range: 24% to 46%).
 
 After switching to B/F/TAF, 91% (20/22) of patients in Cohort 3 remained suppressed (HIV-1 RNA &lt; 50 copies/mL) at Week 24.  The mean change from baseline in CD4+ cell count at Week 24 was -126 cells/mm 3 , and the mean change in CD4+% from baseline to Week 24 was 0.2% (range: -7.7% to 7.5%).  No patient qualified for resistance analysis through Week 24.
 
@@ -623,6 +617,8 @@ Bictegravir is absorbed following oral administration with peak plasma concentra
 
 Following oral administration of B/F/TAF with or without food in HIV-1 infected adults, the multiple dose mean (CV%) pharmacokinetic parameters of bictegravir were Cmax = 6.15 µg/mL (22.9%), AUCtau = 102 µg·h/mL (26.9%), and Ctrough = 2.61 µg/mL (35.2%).
 
+<div style=\"page-break-after: always\"></div>
+
 Emtricitabine is rapidly and extensively absorbed following oral administration with peak plasma concentrations occurring at 1.5-2.0 hours after administration of B/F/TAF.  The mean absolute bioavailability of emtricitabine from 200 mg hard capsules was 93%.  Emtricitabine systemic exposure was unaffected when emtricitabine was administered with food and B/F/TAF can be administered with or without food.
 
 Following oral administration of B/F/TAF with or without food in HIV-1 infected adults, the multiple dose mean (CV%) pharmacokinetic parameters of emtricitabine were Cmax = 2.13 µg/mL (34.7%), AUCtau = 12.3 µg·h/mL (29.2%), and Ctrough = 0.096 µg/mL (37.4%).
@@ -635,11 +631,7 @@ Following oral administration of B/F/TAF with or without food in HIV-1 infected 
 
 In vitro binding of bictegravir to human plasma proteins was &gt; 99% (free fraction ~0.25%).  The in vitro human blood to plasma bictegravir concentration ratio was 0.64.
 
-In vitro binding of emtricitabine to human plasma proteins was &lt; 4% and independent of concentration over the range of 0.02 to 200 µg/mL.  At peak plasma concentration, the mean plasma to
-
-<div style=\"page-break-after: always\"></div>
-
-blood emtricitabine concentration ratio was ~1.0 and the mean semen to plasma emtricitabine concentration ratio was ~4.0.
+In vitro binding of emtricitabine to human plasma proteins was &lt; 4% and independent of concentration over the range of 0.02 to 200 µg/mL.  At peak plasma concentration, the mean plasma to blood emtricitabine concentration ratio was ~1.0 and the mean semen to plasma emtricitabine concentration ratio was ~4.0.
 
 In vitro binding of tenofovir to human plasma proteins is &lt; 0.7% and is independent of concentration over the range of 0.01-25 µg/mL. Ex vivo binding of tenofovir alafenamide to human plasma proteins in samples collected during clinical studies was approximately 80%.
 
@@ -649,7 +641,11 @@ Metabolism is the major clearance pathway for bictegravir in humans. In vitro ph
 
 Following administration of [ 14 C]-emtricitabine, complete recovery of the emtricitabine dose was achieved in urine (~86%) and faeces (~14%).  Thirteen percent of the dose was recovered in the urine as three putative metabolites.  The biotransformation of emtricitabine includes oxidation of the thiol moiety to form the 3'-sulfoxide diastereomers (~9% of dose) and conjugation with glucuronic acid to form 2'-O-glucuronide (~4% of dose).  No other metabolites were identifiable.
 
-Metabolism is a major elimination pathway for tenofovir alafenamide in humans, accounting for &gt; 80% of an oral dose. In vitro studies have shown that tenofovir alafenamide is metabolised to tenofovir (major metabolite) by cathepsin A in PBMCs (including lymphocytes and other HIV target cells) and macrophages; and by carboxylesterase-1 in hepatocytes. In vivo , tenofovir alafenamide is hydrolysed within cells to form tenofovir (major metabolite), which is phosphorylated to the active metabolite, tenofovir diphosphate.  In human clinical studies, a 25 mg oral dose of tenofovir alafenamide resulted in tenofovir diphosphate concentrations &gt; 4-fold higher in PBMCs and &gt; 90% lower concentrations of tenofovir in plasma as compared to a 245 mg oral dose of tenofovir disoproxil.
+Metabolism is a major elimination pathway for tenofovir alafenamide in humans, accounting for &gt; 80% of an oral dose. In vitro studies have shown that tenofovir alafenamide is metabolised to tenofovir (major metabolite) by cathepsin A in PBMCs (including lymphocytes and other HIV target cells) and macrophages; and by carboxylesterase-1 in hepatocytes. In vivo , tenofovir alafenamide is hydrolysed within cells to form tenofovir (major metabolite), which is phosphorylated to the active
+
+<div style=\"page-break-after: always\"></div>
+
+metabolite, tenofovir diphosphate.  In human clinical studies, a 25 mg oral dose of tenofovir alafenamide resulted in tenofovir diphosphate concentrations &gt; 4-fold higher in PBMCs and &gt; 90% lower concentrations of tenofovir in plasma as compared to a 245 mg oral dose of tenofovir disoproxil.
 
 ## Elimination
 
@@ -667,11 +663,7 @@ The multiple dose pharmacokinetics of bictegravir are dose proportional over the
 
 ## Hepatic impairment
 
-Clinically relevant changes in the pharmacokinetics of bictegravir were not observed in subjects with moderate hepatic impairment.  The pharmacokinetics of emtricitabine have not been studied in
-
-<div style=\"page-break-after: always\"></div>
-
-subjects with hepatic impairment; however, emtricitabine is not significantly metabolised by liver enzymes, so the impact of liver impairment should be limited.  Clinically relevant changes in the pharmacokinetics of tenofovir alafenamide or its metabolite tenofovir were not observed in patients with mild, moderate, or severe hepatic impairment.
+Clinically relevant changes in the pharmacokinetics of bictegravir were not observed in subjects with moderate hepatic impairment.  The pharmacokinetics of emtricitabine have not been studied in subjects with hepatic impairment; however, emtricitabine is not significantly metabolised by liver enzymes, so the impact of liver impairment should be limited.  Clinically relevant changes in the pharmacokinetics of tenofovir alafenamide or its metabolite tenofovir were not observed in patients with mild, moderate, or severe hepatic impairment.
 
 ## Renal impairment:
 
@@ -683,6 +675,8 @@ No clinically relevant differences in bictegravir, tenofovir alafenamide, or ten
 
 Exposures of emtricitabine and tenofovir in 12 patients with end stage renal disease (estimated CrCl &lt; 15 mL/min) on chronic haemodialysis who received emtricitabine + tenofovir alafenamide in combination with elvitegravir + cobicistat as a fixed dose combination tablet in Study GS-US-2921825 were significantly higher than in patients with normal renal function.  No clinically relevant differences in tenofovir alafenamide pharmacokinetics were observed in patients with end stage renal disease on chronic haemodialysis as compared to those with normal renal function.  In the extension phase of Study GS-US-292-1825, lower bictegravir Ctrough was observed in patients with end stage renal disease who received Biktarvy compared to patients with normal renal function, but this difference was not considered clinically relevant.  No additional adverse reactions were identified in patients with end stage renal disease on chronic haemodialysis in this study (see section 4.8).
 
+<div style=\"page-break-after: always\"></div>
+
 There are no pharmacokinetic data on bictegravir, emtricitabine or tenofovir alafenamide in patients with end stage renal disease (estimated CrCl &lt; 15 mL/min) not on chronic haemodialysis.  The safety of Biktarvy has not been established in these patients.
 
 ## Age, gender and race
@@ -691,9 +685,7 @@ Pharmacokinetics of bictegravir, emtricitabine, and tenofovir have not been full
 
 ## Paediatric population
 
-Mean bictegravir Cmax, and exposures of emtricitabine and tenofovir alafenamide (AUC and/or Cmax), achieved in 50 children between the ages of 6 to &lt; 1 2 years (≥ 25 kg) who received the 50 mg/200 mg/25 mg dose of B/F/TAF and in 22 children ≥ 2 years of age (≥ 14 to &lt; 25 kg) who received the 30 mg/120 mg/15 mg dose of B/F/TAF, in Study GS-US-380-1474 were generally higher than exposures in adults.  The exposures of bictegravir, emtricitabine, tenofovir alafenamide and tenofovir in children, adolescents, and adults are presented in Table 5.
-
-<div style=\"page-break-after: always\"></div>
+Mean bictegravir Cmax, and exposures of emtricitabine and tenofovir alafenamide (AUC and/or Cmax), achieved in 50 children between the ages of 6 to &lt; 12 years (≥ 25 kg) who received the 50 mg/200 mg/25 mg dose of B/F/TAF and in 22 children ≥ 2 years of age (≥ 14 to &lt; 25 kg) who received the 30 mg/120 mg/15 mg dose of B/F/TAF, in Study GS-US-380-1474 were generally higher than exposures in adults.  The exposures of bictegravir, emtricitabine, tenofovir alafenamide and tenofovir in children, adolescents, and adults are presented in Table 5.
 
 Table 5: Exposures of Bictegravir, Emtricitabine, Tenofovir Alafenamide and Tenofovir in Children, Adolescents, and Adults
 
@@ -718,29 +710,25 @@ Table 5: Exposures of Bictegravir, Emtricitabine, Tenofovir Alafenamide and Teno
 | C max (ng/mL)     | 21.9 (29.2)                                 | 35.5 (89.0)                               | 24.0 (64.2)                                   | 15.2 (26.1) i                |
 | C tau (ng/mL)     | 10.3 (30.5) c                               | 14.0 (30.2) d                             | 11.1 (32.4)                                   | 10.6 (28.5) i                |
 
-BIC = bictegravir; FTC = emtricitabine; TAF = tenofovir alafenamide fumarate; TFV = tenofovir N/A = not applicable; %CV = percentage coefficient of variation Data are presented as mean (%CV).
+BIC = bictegravir; FTC = emtricitabine; TAF = tenofovir alafenamide fumarate; TFV = tenofovir
+
+<div style=\"page-break-after: always\"></div>
+
+N/A = not applicable; %CV = percentage coefficient of variation Data are presented as mean (%CV).
 
 - a Intensive PK data from Study GS-US-380-1474
 - b Intensive PK data from Studies GS-US-380-1489, GS-US-380-1490, GS-US-380-1844, GS-US-380-1878 for BIC, FTC and TAF PK exposures and population PK data from Studies GS-US-292-0104 and GS-US-292-0111 for TFV PK exposures
 - c n = 11
-
-d n = 24
-
-e n = 22
-
-f n = 23
-
-g n = 75
-
-h n = 74
-
+- d n = 24
+- e n = 22
+- f n = 23
+- g n = 75
+- h n = 74
 - i n = 841
 
 ## Pregnancy
 
 Plasma exposures of bictegravir, emtricitabine, and tenofovir alafenamide were lower during pregnancy as compared to postpartum, whereas exposures during postpartum were generally higher than in non-pregnant adults (Table 6).  Exposures were generally similar between the second and third trimesters of pregnancy; exposures were also generally similar between Weeks 6 and 12 postpartum. Based on exposure-response relationships for bictegravir, emtricitabine, and tenofovir alafenamide, the exposure changes during pregnancy are not considered to be clinically relevant; however, specific dosage adjustments for co-administered oral medications or supplements containing polyvalent cations are recommended in pregnant patients (see section 4.5).
-
-<div style=\"page-break-after: always\"></div>
 
 Table 6: Steady-state PK Parameters of bictegravir, emtricitabine, and tenofovir alafenamide in HIV-Infected Virologically Suppressed Pregnant Women in the Third Trimester and Week 12 Postpartum Compared to Historical Data in Non-Pregnant Adults with HIV-1
 
@@ -755,18 +743,17 @@ Table 6: Steady-state PK Parameters of bictegravir, emtricitabine, and tenofovir
 | C max (µg per mL)               | 2.59 (26.5)              | 3.36 (26.9)                 | 2.13 (34.7) c                    |
 | AUC tau (µg•h per mL)           | 10.4 (20.3)              | 15.3 (21.9)                 | 12.3 (29.2) c                    |
 | C trough (µg per mL)            | 0.05 (27.2)              | 0.08 (33.7)                 | 0.096 (37.4) c                   |
-| Tenofovir Alafenamide           |                          |                             |                                  |
+| Tenofovir Alafenamide           | Tenofovir Alafenamide    |                             |                                  |
 | C max (µg per mL)               | 0.27 (42.1)              | 0.49 (52.5)                 | 0.121 (15.4) d                   |
 | AUC tau (µg•h per mL)           | 0.21 (45.0)              | 0.30 (31.8)                 | 0.142 (17.3) d                   |
 | Unbound AUC tau a (µg•h per mL) | 0.016 (28.4)             | 0.017 (23.4)                | NA                               |
 
 - a Calculated by correcting the individual AUCtau estimates by the %unbound fraction.
-
-b From Population PK analysis in Studies 1489, 1490, 1844, and 1878; N = 1193.
-
-c From Intensive PK analysis in Studies 1489, 1490, 1844, and 1878; N = 77.
-
+- b From Population PK analysis in Studies 1489, 1490, 1844, and 1878; N = 1193.
+- c From Intensive PK analysis in Studies 1489, 1490, 1844, and 1878; N = 77.
 - d From Population PK analysis in Studies 1489 and 1490; N = 486.
+
+<div style=\"page-break-after: always\"></div>
 
 ## 5.3 Preclinical safety data
 
@@ -779,8 +766,6 @@ Studies of bictegravir in monkeys revealed the liver as the primary target organ
 Studies in animals with bictegravir have shown no evidence of teratogenicity or an effect on reproductive function.  In offspring from rat and rabbit dams treated with bictegravir during pregnancy, there were no toxicologically significant effects on developmental endpoints.
 
 Non-clinical data on emtricitabine reveal no special hazard for humans based on conventional studies of safety pharmacology, repeated dose toxicity, genotoxicity, carcinogenic potential, toxicity to reproduction and development.  Emtricitabine has demonstrated low carcinogenic potential in mice and rats.
-
-<div style=\"page-break-after: always\"></div>
 
 Non-clinical studies of tenofovir alafenamide in rats and dogs revealed bone and kidney as the primary target organs of toxicity.  Bone toxicity was observed as reduced bone mineral density in rats and dogs at tenofovir exposures at least 43 times greater than those expected after administration of B/F/TAF. A minimal infiltration of histiocytes was present in the eye in dogs at tenofovir alafenamide and tenofovir exposures of approximately 14 and 43 times greater, respectively, than those expected after administration of B/F/TAF.
 
@@ -795,6 +780,8 @@ Because there is a lower tenofovir exposure in rats and mice after the administr
 Tablet core Microcrystalline cellulose (E460) Croscarmellose sodium (E468) Magnesium stearate (E470b)
 
 Film-coating Polyvinyl alcohol (E203) Titanium dioxide (E171) Macrogol (E1521) Talc (E553b) Iron oxide red (E172) Iron oxide black (E172)
+
+<div style=\"page-break-after: always\"></div>
 
 ## 6.2 Incompatibilities
 
@@ -817,8 +804,6 @@ Store in the original package in order to protect from moisture.  Do not use if 
 ## 6.5 Nature and contents of container
 
 The following pack configurations are available:
-
-<div style=\"page-break-after: always\"></div>
 
 ## Bottle
 
@@ -844,9 +829,13 @@ Any unused medicinal product or waste material should be disposed of in accordan
 
 Gilead Sciences Ireland UC Carrigtohill County Cork, T45 DP77 Ireland
 
+<div style=\"page-break-after: always\"></div>
+
 ## 8. MARKETING AUTHORISATION NUMBER(S)
 
-EU/1/18/1289/001 EU/1/18/1289/002 EU/1/18/1289/003 EU/1/18/1289/004 EU/1/18/1289/005 EU/1/18/1289/006
+EU/1/18/1289/001 EU/1/18/1289/002 EU/1/18/1289/003 EU/1/18/1289/004 EU/1/18/1289/005
+
+EU/1/18/1289/006
 
 ## 9. DATE OF FIRST AUTHORISATION/RENEWAL OF THE AUTHORISATION
 
@@ -1260,10 +1249,7 @@ EXP
 
 Store in the original package in order to protect from moisture.
 
-<div style=\"page-break-after: always\"></div>
-
-| 10.   | SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVEDFROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE   |
-|-------|----------------------------------------------------------------------------------------------------------------------------------------|
+10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
@@ -1278,22 +1264,24 @@ EU/1/18/1289/004 90 (3 blister packs of 30) film-coated tablets
 Lot
 
 14. GENERAL CLASSIFICATION FOR SUPPLY
+
 15. INSTRUCTIONS ON USE
 
 ## 16. INFORMATION IN BRAILLE
 
 Biktarvy [Outer packaging only]
 
-17. UNIQUE IDENTIFIER - 2D BARCODE
+## 17. UNIQUE IDENTIFIER - 2D BARCODE
 
-| 18.   | UNIQUE IDENTIFIER - HUMANREADABLE DATA   |
-|-------|------------------------------------------|
+## 18. UNIQUE IDENTIFIER - HUMAN READABLE DATA
 
 <div style=\"page-break-after: always\"></div>
 
-## MINIMUM PARTICULARS TO APPEAR ON BLISTERS OR STRIPS
+<div style=\"page-break-after: always\"></div>
 
-BLISTER (7 tablet blister pack)
+| MINIMUM PARTICULARS TO APPEAR ON BLISTERS OR STRIPS   |
+|-------------------------------------------------------|
+| BLISTER (7 tablet blister pack)                       |
 
 | 1.   | NAME OF THE MEDICINAL PRODUCT   |
 |------|---------------------------------|
@@ -1334,9 +1322,9 @@ Sun.
 
 <div style=\"page-break-after: always\"></div>
 
-| MINIMUM PARTICULARS TO APPEAR ON BLISTERS OR STRIPS   |
-|-------------------------------------------------------|
-| BLISTER (2 tablet blister pack)                       |
+## MINIMUM PARTICULARS TO APPEAR ON BLISTERS OR STRIPS
+
+BLISTER (2 tablet blister pack)
 
 | 1.   | NAME OF THE MEDICINAL PRODUCT   |
 |------|---------------------------------|
@@ -1471,17 +1459,17 @@ Tell your doctor or pharmacist if you are taking, have recently taken or might t
 ## Get advice from a doctor or pharmacist if you are taking:
 
 - antacids to treat stomach ulcers, heartburn, or acid reflux, containing aluminium and/or magnesium hydroxide
-- mineral supplements or vitamins containing magnesium or iron
+- mineral supplements or vitamins containing magnesium, zinc or iron
 -  Get advice from your doctor or pharmacist before taking Biktarvy if you are taking any of these medicines.
 - Antacids and supplements containing aluminium and/or magnesium: you will need to take Biktarvy at least 2 hours before antacids or supplements containing aluminium and/or magnesium.  Or you can take Biktarvy with food at least 2 hours after. However, if you are pregnant see Pregnancy and breast-feeding .
-- Iron supplements: you will need to take Biktarvy at least 2 hours before iron supplements, or you can take them together with food at any time.  However, if you are pregnant see Pregnancy and breast-feeding .
+- Iron and/or zinc supplements: you will need to take Biktarvy at least 2 hours before iron and/or zinc supplements, or you can take them together with food at any time.  However, if you are pregnant see Pregnancy and breast-feeding .
 
 ## Pregnancy and breast-feeding
 
 - If you are pregnant or breast-feeding, think you may be pregnant or are planning to have a baby, ask your doctor or pharmacist for advice before taking this medicine.
 - Tell your doctor immediately if you become pregnant and ask about the potential benefits and risks of your antiretroviral therapy to you and your child.
 - Antacids and supplements containing aluminium and/or magnesium: during your pregnancy you will need to take Biktarvy at least 2 hours before or 6 hours after taking antacids, medicines or supplements containing aluminium and/or magnesium.
-- Supplements or medicines containing calcium and/or iron: during your pregnancy you will need to take Biktarvy at least 2 hours before or 6 hours after taking supplements or medicines containing calcium and/or iron.  Alternatively, you can take them together with food at any time.
+- Supplements or medicines containing calcium, iron and/or zinc: during your pregnancy you will need to take Biktarvy at least 2 hours before or 6 hours after taking supplements or medicines containing calcium, iron and/or zinc.  Alternatively, you can take them together with food at any time.
 
 If you have taken Biktarvy during your pregnancy, your doctor may request regular blood tests and other diagnostic tests to monitor the development of your child.  In children whose mothers took nucleoside reverse transcriptase inhibitors (NRTIs) during pregnancy, the benefit from the protection against HIV outweighed the risk of side effects.
 
@@ -1515,7 +1503,7 @@ The 90-day multipack contains three 30-day packs together.
 
 -  Get advice from a doctor or pharmacist if you are taking:
 - antacids to treat stomach ulcers, heartburn, or acid reflux, containing aluminium and/or magnesium hydroxide
-- mineral supplements or vitamins containing magnesium or iron
+- mineral supplements or vitamins containing magnesium, zinc or iron
 -  See section 2 for more information on taking these medicines with Biktarvy.
 
 If you are on dialysis, take your daily dose of Biktarvy following completion of dialysis.
@@ -1568,7 +1556,7 @@ Like all medicines, this medicine can cause side effects, although not everybody
 
 ## Common side effects
 
-( may affect up to 1 in 10 people )
+## ( may affect up to 1 in 10 people )
 
 - depression
 - abnormal dreams
@@ -1577,6 +1565,7 @@ Like all medicines, this medicine can cause side effects, although not everybody
 - diarrhoea
 - feeling sick ( nausea )
 - tiredness ( fatigue )
+- weight gain
 
 ## Uncommon side effects
 
@@ -1602,30 +1591,30 @@ Like all medicines, this medicine can cause side effects, although not everybody
 
 ## Rare side effects
 
-(may affect up to 1 in 1000 people)
+## (may affect up to 1 in 1000 people)
 
 - Stevens-Johnson syndrome (SJS) is a serious life-threatening condition which usually starts with flu- like symptoms. A few days later other symptoms appear including:
 - -Painful red or purple skin that looks burned and peels off
 - -Blisters on your skin, mouth, nose, and genitals
 - -Red, painful, watery eyes
 -  If you have any of these symptoms, stop your medicine immediately and tell your doctor straight away.
--  If any of the side effects get serious, tell your doctor.
+
+##  If any of the side effects get serious, tell your doctor.
 
 ## Other effects that may be seen during HIV treatment
 
 The frequency of the following side effects is not known (frequency cannot be estimated from the available data).
 
+<div style=\"page-break-after: always\"></div>
+
 - Bone problems. Some patients taking combination antiretroviral medicines such as Biktarvy may develop a bone disease called osteonecrosis (death of bone tissue caused by loss of blood supply to the bone).  Taking this type of medicine for a long time, taking corticosteroids, drinking alcohol, having a very weak immune system, and being overweight, may be some of the many risk factors for developing this disease.  Signs of osteonecrosis are:
 - -joint stiffness
 - -joint aches and pains (especially of the hip, knee and shoulder)
-
-<div style=\"page-break-after: always\"></div>
-
-## -difficulty with movement
+- -difficulty with movement
 
 ##  If you notice any of these symptoms tell your doctor.
 
-During HIV therapy there may be an increase in weight and in levels of blood lipids and glucose.  This is partly linked to restored health and life style, and in the case of blood lipids sometimes to the HIV medicines themselves.  Your doctor will test for these changes.
+During HIV therapy there may be an increase in weight and in levels of blood lipids and glucose.  This is partly linked to restored health and lifestyle, and in the case of blood lipids sometimes to the HIV medicines themselves.  Your doctor will test for these changes.
 
 ## Reporting of side effects
 
@@ -1661,11 +1650,11 @@ Polyvinyl alcohol (E203), titanium dioxide (E171), macrogol (E1521), talc (E553b
 
 Biktarvy 30 mg/120 mg/15 mg film-coated tablets are pink, capsule-shaped, film-coated tablets, debossed with 'BVY' on one side and a score line on the other side of the tablet.
 
+<div style=\"page-break-after: always\"></div>
+
 The tablets are supplied in a bottle. Not all pack sizes may be marketed.
 
 Biktarvy comes in bottles of 30 tablets and in packs made up of 3 bottles, each containing 30 tablets. Each bottle contains a silica gel desiccant that must be kept in the bottle to help protect your tablets. The silica gel desiccant is contained in a separate sachet or canister and should not be swallowed.
-
-<div style=\"page-break-after: always\"></div>
 
 ## Marketing Authorisation Holder
 
@@ -1679,9 +1668,7 @@ For any information about this medicine, please contact the local representative
 
 ## België/Belgique/Belgien
 
-Gilead Sciences Belgium SRL-BV
-
-Tél/Tel: + 32 (0) 24 01 35 50
+Gilead Sciences Belgium SRL-BV Tél/Tel: + 32 (0) 24 01 35 50
 
 ## България
 
@@ -1693,7 +1680,7 @@ Gilead Sciences s.r.o. Tel: + 420 (0) 910 871 986
 
 ## Danmark
 
-Gilead Sciences Sweden AB Tlf: + 46 (0) 8 5057 1849
+Gilead Sciences Sweden AB Tlf.: + 46 (0) 8 5057 1849
 
 ## Deutschland
 
@@ -1710,14 +1697,6 @@ Gilead Sciences Ελλάς Μ.ΕΠΕ. Τηλ: + 30 (0) 210 8930 100
 ## España
 
 Gilead Sciences, S.L. Tel: + 34 (0) 91 378 98 30
-
-## France
-
-Gilead Sciences Tél: + 33 (0) 1 46 09 41 00
-
-## Hrvatska
-
-Gilead Sciences Ireland UC Tel: + 353 (0) 1 686 1888
 
 ## Lietuva
 
@@ -1751,73 +1730,67 @@ Gilead Sciences GesmbH Tel: + 43 (0) 1 260 830
 
 Gilead Sciences Poland Sp. z o.o. Tel.: + 48 (0) 22 262 8702
 
-## Portugal
+<div style=\"page-break-after: always\"></div>
 
-Gilead Sciences, Lda. Tel: + 351 (0) 21 7928790
+## France
 
-## România
+Gilead Sciences
 
-Gilead Sciences (GSR) S.R.L Tel: + 40 31 631 18 00
+Tél: + 33 (0) 1 46 09 41 00
+
+## Hrvatska
+
+Gilead Sciences Ireland UC Tel: + 353 (0) 1 686 1888
 
 ## Ireland
 
-Gilead Sciences Ireland UC
-
-Tel: + 353 (0) 214 825 999
-
-## Slovenija
-
-Gilead Sciences Ireland UC
-
-Tel: + 353 (0) 1 686 1888
+Gilead Sciences Ireland UC Tel: + 353 (0) 214 825 999
 
 ## Ísland
 
-Gilead Sciences Sweden AB
-
-Sími: + 46 (0) 8 5057 1849
-
-## Slovenská republika
-
-Gilead Sciences Slovakia s.r.o.
-
-Tel: + 421 (0) 232 121 210
+Gilead Sciences Sweden AB Sími: + 46 (0) 8 5057 1849
 
 ## Italia
 
-Gilead Sciences S.r.l.
-
-Tel: + 39 02 439201
-
-## Suomi/Finland
-
-Gilead Sciences Sweden AB
-
-Puh/Tel: + 46 (0) 8 5057 1849
+Gilead Sciences S.r.l. Tel: + 39 02 439201
 
 ## Κύπρος
 
 Gilead Sciences Ελλάς Μ.ΕΠΕ. Τηλ: + 30 (0) 210 8930 100
 
-## Sverige
-
-Gilead Sciences Sweden AB Tel: + 46 (0) 8 5057 1849
-
 ## Latvija
 
-Gilead Sciences Ireland UC
-
-Tel.: + 353 (0) 1 686 1888
-
-## United Kingdom (Northern Ireland)
-
-Gilead Sciences Ireland UC Tel: + 44 (0) 8000 113 700
-
-<div style=\"page-break-after: always\"></div>
+Gilead Sciences Ireland UC Tel.: + 353 (0) 1 686 1888
 
 ## This leaflet was last revised in .
 
 Detailed information on this medicine is available on the European Medicines Agency web site: http://www.ema.europa.eu.
+
+## Portugal
+
+Gilead Sciences, Lda.
+
+Tel: + 351 (0) 21 7928790
+
+## România
+
+Gilead Sciences (GSR) S.R.L Tel: + 40 31 631 18 00
+
+## Slovenija
+
+Gilead Sciences Ireland UC Tel: + 353 (0) 1 686 1888
+
+## Slovenská republika
+
+Gilead Sciences Slovakia s.r.o. Tel: + 421 (0) 232 121 210
+
+## Suomi/Finland
+
+Gilead Sciences Sweden AB Puh/Tel: + 46 (0) 8 5057 1849
+
+## Sverige
+
+Gilead Sciences Sweden AB Tel: + 46 (0) 8 5057 1849
 
 ## Package leaflet: Information for the user
 
@@ -1862,7 +1835,9 @@ Biktarvy reduces the amount of HIV in your body.  This will improve your immune 
 ## Do not take Biktarvy
 
 - If you are allergic to bictegravir, emtricitabine, tenofovir alafenamide or any of the other ingredients of this medicine (listed in section 6).
-- If you are currently taking any of the following medicines:
+
+## · If you are currently taking any of the following medicines:
+
 - -rifampicin used to treat some bacterial infections such as tuberculosis
 - -St. John's wort ( Hypericum perforatum ), a herbal remedy used for depression and anxiety, or products that contain it.
 -  If any of these apply to you, do not take Biktarvy and tell your doctor immediately.
@@ -1923,17 +1898,17 @@ Tell your doctor or pharmacist if you are taking, have recently taken or might t
 ## Get advice from a doctor or pharmacist if you are taking:
 
 - antacids to treat stomach ulcers, heartburn, or acid reflux, containing aluminium and/or magnesium hydroxide
-- mineral supplements or vitamins containing magnesium or iron
+- mineral supplements or vitamins containing magnesium, zinc or iron
 -  Get advice from your doctor or pharmacist before taking Biktarvy if you are taking any of these medicines.
-- Antacids and supplements containing aluminium and/or magnesium: you will need to take Biktarvy at least 2 hours before antacids or supplements containing aluminium and/or magnesium  Or you can take Biktarvy with food at least 2 hours after. However, if you are pregnant see Pregnancy and breast-feeding .
-- Iron supplements: you will need to take Biktarvy at least 2 hours before iron supplements, or you can take them together with food at any time.  However, if you are pregnant see Pregnancy and breast-feeding .
+- Antacids and supplements containing aluminium and/or magnesium: you will need to take Biktarvy at least 2 hours before antacids or supplements containing aluminium and/or magnesium. Or you can take Biktarvy with food at least 2 hours after. However, if you are pregnant see Pregnancy and breast-feeding .
+- Iron and/or zinc supplements: you will need to take Biktarvy at least 2 hours before iron and/or zinc supplements, or you can take them together with food at any time.  However, if you are pregnant see Pregnancy and breast-feeding .
 
 ## Pregnancy and breast-feeding
 
 - If you are pregnant or breast-feeding, think you may be pregnant or are planning to have a baby, ask your doctor or pharmacist for advice before taking this medicine.
 - Tell your doctor immediately if you become pregnant and ask about the potential benefits and risks of your antiretroviral therapy to you and your child.
 - Antacids and supplements containing aluminium and/or magnesium: during your pregnancy you will need to take Biktarvy at least 2 hours before or 6 hours after taking antacids, medicines or supplements containing aluminium and/or magnesium.
-- Supplements or medicines containing calcium and/or iron: during your pregnancy you will need to take Biktarvy at least 2 hours before or 6 hours after taking supplements or medicines containing calcium and/or iron.  Alternatively, you can take them together with food at any time.
+- Supplements or medicines containing calcium, iron and/or zinc: during your pregnancy you will need to take Biktarvy at least 2 hours before or 6 hours after taking supplements or medicines containing calcium,  iron and/or zinc.  Alternatively, you can take them together with food at any time.
 
 If you have taken Biktarvy during your pregnancy, your doctor may request regular blood tests and other diagnostic tests to monitor the development of your child.  In children whose mothers took nucleoside reverse transcriptase inhibitors (NRTIs) during pregnancy, the benefit from the protection against HIV outweighed the risk of side effects.
 
@@ -1965,9 +1940,10 @@ The Biktarvy 30-day blister pack contains four 7-blister strips and one 2-bliste
 
 The 90-day multipack contains three 30-day packs together.
 
--  Get advice from a doctor or pharmacist if you are taking:
+##  Get advice from a doctor or pharmacist if you are taking:
+
 - antacids to treat stomach ulcers, heartburn, or acid reflux, containing aluminium and/or magnesium hydroxide
-- mineral supplements or vitamins containing magnesium or iron
+- mineral supplements or vitamins containing magnesium, zinc or iron
 -  See section 2 for more information on taking these medicines with Biktarvy.
 
 If you are on dialysis, take your daily dose of Biktarvy following completion of dialysis.
@@ -2020,7 +1996,7 @@ Like all medicines, this medicine can cause side effects, although not everybody
 
 ## Common side effects
 
-( may affect up to 1 in 10 peo ple )
+## ( may affect up to 1 in 10 people )
 
 - depression
 - abnormal dreams
@@ -2029,6 +2005,7 @@ Like all medicines, this medicine can cause side effects, although not everybody
 - diarrhoea
 - feeling sick ( nausea )
 - tiredness ( fatigue )
+- weight gain
 
 ## Uncommon side effects
 
@@ -2054,30 +2031,30 @@ Like all medicines, this medicine can cause side effects, although not everybody
 
 ## Rare side effects
 
-(may affect up to 1 in 1000 people)
+## (may affect up to 1 in 1000 people)
 
 - Stevens-Johnson syndrome (SJS) is a serious life-threatening condition which usually starts with flu- like symptoms. A few days later other symptoms appear including:
 - -Painful red or purple skin that looks burned and peels off
 - -Blisters on your skin, mouth, nose, and genitals
 - -Red, painful, watery eyes
 -  If you have any of these symptoms, stop your medicine immediately and tell your doctor straight away.
--  If any of the side effects get serious, tell your doctor.
+
+##  If any of the side effects get serious, tell your doctor.
 
 ## Other effects that may be seen during HIV treatment
 
 The frequency of the following side effects is not known (frequency cannot be estimated from the available data).
 
+<div style=\"page-break-after: always\"></div>
+
 - Bone problems. Some patients taking combination antiretroviral medicines such as Biktarvy may develop a bone disease called osteonecrosis (death of bone tissue caused by loss of blood supply to the bone).  Taking this type of medicine for a long time, taking corticosteroids, drinking alcohol, having a very weak immune system, and being overweight, may be some of the many risk factors for developing this disease.  Signs of osteonecrosis are:
 - -joint stiffness
 - -joint aches and pains (especially of the hip, knee and shoulder)
-
-<div style=\"page-break-after: always\"></div>
-
-## -difficulty with movement
+- -difficulty with movement
 
 ##  If you notice any of these symptoms tell your doctor.
 
-During HIV therapy there may be an increase in weight and in levels of blood lipids and glucose.  This is partly linked to restored health and life style, and in the case of blood lipids sometimes to the HIV medicines themselves.  Your doctor will test for these changes.
+During HIV therapy there may be an increase in weight and in levels of blood lipids and glucose.  This is partly linked to restored health and lifestyle, and in the case of blood lipids sometimes to the HIV medicines themselves.  Your doctor will test for these changes.
 
 ## Reporting of side effects
 
@@ -2115,13 +2092,13 @@ Microcrystalline cellulose (E460), croscarmellose sodium (E468), magnesium stear
 
 Polyvinyl alcohol (E203), titanium dioxide (E171), macrogol (E1521), talc (E553b), iron oxide red (E172), iron oxide black (E172).
 
+<div style=\"page-break-after: always\"></div>
+
 ## What Biktarvy looks like and contents of the pack
 
 Biktarvy 50 mg/200 mg/25 mg film-coated tablets are purplish-brown, capsule-shaped, film-coated tablets debossed on one side with 'GSI' and '9883' on the other side.
 
 The tablets may be supplied either in a bottle or in a blister pack. Not all pack sizes may be marketed.
-
-<div style=\"page-break-after: always\"></div>
 
 ## Bottle
 
@@ -2143,7 +2120,9 @@ For any information about this medicine, please contact the local representative
 
 ## België/Belgique/Belgien
 
-Gilead Sciences Belgium SRL-BV Tél/Tel: + 32 (0) 24 01 35 50
+Gilead Sciences Belgium SRL-BV
+
+Tél/Tel: + 32 (0) 24 01 35 50
 
 ## България
 
@@ -2155,19 +2134,13 @@ Gilead Sciences s.r.o. Tel: + 420 (0) 910 871 986
 
 ## Danmark
 
-Gilead Sciences Sweden AB Tlf: + 46 (0) 8 5057 1849
+Gilead Sciences Sweden AB Tlf.: + 46 (0) 8 5057 1849
 
 ## Deutschland
 
-Gilead Sciences GmbH Tel: + 49 (0) 89 899890-0
+Gilead Sciences GmbH
 
-## Eesti
-
-Gilead Sciences Ireland UC Tel.: + 353 (0) 1 686 1888
-
-## Ελλάδα
-
-Gilead Sciences Ελλάς Μ.ΕΠΕ. Τηλ: + 30 (0) 2 10 8930 100
+Tel: + 49 (0) 89 899890-0
 
 ## Lietuva
 
@@ -2189,27 +2162,23 @@ Gilead Sciences Ireland UC Tel: + 353 (0) 1 686 1888
 
 Gilead Sciences Netherlands B.V. Tel: + 31 (0) 20 718 36 98
 
-## Norge
-
-Gilead Sciences Sweden AB Tlf: + 46 (0) 8 5057 1849
-
-## Österreich
-
-Gilead Sciences GesmbH Tel: + 43 (0) 1 260 830
-
 <div style=\"page-break-after: always\"></div>
+
+## Eesti
+
+Gilead Sciences Ireland UC Tel.: + 353 (0) 1 686 1888
+
+## Ελλάδα
+
+Gilead Sciences Ελλάς Μ.ΕΠΕ. Τηλ: + 30 (0) 210 8930 100
 
 ## España
 
-Gilead Sciences, S.L.
-
-Tel: + 34 (0) 91 378 98 30
+Gilead Sciences, S.L. Tel: + 34 (0) 91 378 98 30
 
 ## France
 
-Gilead Sciences
-
-Tél: + 33 (0) 1 46 09 41 00
+Gilead Sciences Tél: + 33 (0) 1 46 09 41 00
 
 ## Hrvatska
 
@@ -2233,13 +2202,19 @@ Gilead Sciences Ελλάς Μ.ΕΠΕ. Τηλ: + 30 (0) 210 8930 100
 
 ## Latvija
 
-Gilead Sciences Ireland UC
-
-Tel.: + 353 (0) 1 686 1888
+Gilead Sciences Ireland UC Tel.: + 353 (0) 1 686 1888
 
 ## This leaflet was last revised in .
 
 Detailed information on this medicine is available on the European Medicines Agency web site: http://www.ema.europa.eu.
+
+## Norge
+
+Gilead Sciences Sweden AB Tlf: + 46 (0) 8 5057 1849
+
+## Österreich
+
+Gilead Sciences GesmbH Tel: + 43 (0) 1 260 830
 
 ## Polska
 
@@ -2247,9 +2222,7 @@ Gilead Sciences Poland Sp. z o.o. Tel.: + 48 (0) 22 262 8702
 
 ## Portugal
 
-Gilead Sciences, Lda.
-
-Tel: + 351 (0) 21 7928790
+Gilead Sciences, Lda. Tel: + 351 (0) 21 7928790
 
 ## România
 
@@ -2271,6 +2244,28 @@ Gilead Sciences Sweden AB Puh/Tel: + 46 (0) 8 5057 1849
 
 Gilead Sciences Sweden AB Tel: + 46 (0) 8 5057 1849
 
-## United Kingdom (Northern Ireland)
+<div style=\"page-break-after: always\"></div>
 
-Gilead Sciences Ireland UC Tel: + 44 (0) 8000 113 700
+## ANNEX IV
+
+## SCIENTIFIC CONCLUSIONS AND GROUNDS FOR THE VARIATION TO THE TERMS OF THE MARKETING AUTHORISATION(S)
+
+<div style=\"page-break-after: always\"></div>
+
+## Scientific conclusions
+
+Taking into account the PRAC Assessment Report on the PSUR(s) for bictegravir/emtricitabine /tenofovir alafenamide, the scientific conclusions of PRAC are as follows:
+
+In view of available data on tenofovir alafenamide excretion in breastmilk from the literature, the PRAC concluded that the product information of products containing tenofovir alafenamide should be amended accordingly.
+
+In view of available data on bictegravir / emtricitabine / tenofovir alafenamide and weight increase from the literature and clinical trial data, the PRAC considers a causal relationship between bictegravir / emtricitabine / tenofovir alafenamide and weight increase at least a reasonable possibility. The PRAC concluded that the product information of bictegravir / emtricitabine / tenofovir alafenamide should be amended accordingly.
+
+In view of available data on Biktarvy and the interaction with zinc based on in vitro data and post marketing data, the PRAC considers that zinc is a possible chelator of bictegravir / emtricitabine / tenofovir alafenamide. The PRAC concluded that the product information of bictegravir / emtricitabine / tenofovir alafenamide should be amended accordingly.
+
+Having reviewed the PRAC recommendation, the CHMP agrees with the PRAC overall conclusions and grounds for recommendation.
+
+## Grounds for the variation to the terms of the Marketing Authorisation(s)
+
+On the basis of the scientific conclusions for bictegravir/emtricitabine/tenofovir alafenamide the CHMP is of the opinion that the benefit-risk balance of the medicinal product(s) containing bictegravir/emtricitabine/tenofovir alafenamide is unchanged subject to the proposed changes to the product information.
+
+The CHMP recommends that the terms of the Marketing Authorisation(s) should be varied.

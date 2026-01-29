@@ -1,18 +1,18 @@
 ---
-document_datetime: 2025-06-30 14:31:52
-document_pages: 102
+document_datetime: 2026-01-26 16:55:43
+document_pages: 103
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/levetiracetam-ratiopharm-epar-product-information_en.pdf
 document_name: levetiracetam-ratiopharm-epar-product-information_en.pdf
 version: success
-processing_time: 38.4959545
-conversion_datetime: 2025-12-28 14:53:16.956214
+processing_time: 40.1492999
+conversion_datetime: 2026-01-29 12:16:57.746546
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.66.0
-  docling-core: 2.57.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.11.0
+  docling-jobkit: 1.9.0
+  docling: 2.70.0
+  docling-core: 2.61.0
+  docling-ibm-models: 3.11.0
+  docling-parse: 4.7.3
   python: cpython-313 (3.13.11)
   plaform: macOS-26.2-arm64-arm-64bit-Mach-O
 ---
@@ -272,7 +272,7 @@ Specialist advice should be given to women who are of childbearing potential. Tr
 
 ## Pregnancy
 
-A large amount of postmarketing data on pregnant women exposed to levetiracetam monotherapy (more than 1800, among which in more than 1500 exposure occurred during the 1 st trimester) do not suggest an increase in the risk for major congenital malformations. Only limited evidence is available on the neurodevelopment of children exposed to levetiracetam monotherapy in utero. However, current epidemiological studies (on about 100 children) do not suggest an increased risk of neurodevelopmental disorders or delays.
+A large amount of postmarketing data on pregnant women exposed to levetiracetam monotherapy (more than 1800, among which in more than 1500 exposure occurred during the 1 st trimester) do not suggest an increase in the risk for major congenital malformations. Limited evidence is available on the neurodevelopment of children exposed to levetiracetam monotherapy in utero. Data from two observational population-based registry studies undertaken in largely the same dataset from the Nordic countries and including more than 1000 children born to women with epilepsy prenatally exposed to levetiracetam monotherapy do not suggest an increased risk of autism spectrum disorders or intellectual disability compared to children born to women with epilepsy not exposed to an antiepileptic drug in utero. The mean follow-up time of children in the levetiracetam group was shorter than for the group of children non exposed to any antiepileptic drug (e.g. 4.4 years vs 6.8 years in one of the studies).
 
 Levetiracetam can be used during pregnancy, if after careful assessment it is considered clinically needed. In such case, the lowest effective dose is recommended.
 
@@ -280,13 +280,15 @@ Physiological changes during pregnancy may affect levetiracetam concentration. D
 
 ## Breast-feeding
 
-Levetiracetam is excreted in human breast milk. Therefore, breast-feeding is not recommended. However, if levetiracetam treatment is needed during breast-feeding, the benefit/risk of the treatment should be weighed considering the importance of breast-feeding.
+Levetiracetam is excreted in human breast milk. Therefore, breast-feeding is not recommended.
+
+<div style=\"page-break-after: always\"></div>
+
+However, if levetiracetam treatment is needed during breast-feeding, the benefit/risk of the treatment should be weighed considering the importance of breast-feeding.
 
 ## Fertility
 
 No impact on fertility was detected in animal studies (see section 5.3). No clinical data are available, potential risk for human is unknown.
-
-<div style=\"page-break-after: always\"></div>
 
 ## 4.7 Effects on ability to drive and use machines
 
@@ -302,38 +304,34 @@ The most frequently reported adverse reactions were nasopharyngitis, somnolence,
 
 Adverse reactions reported in clinical studies (adults, adolescents, children and infants &gt; 1 month) and from post-marketing experience are listed in the following table per System Organ Class and per frequency. Adverse reactions are presented in the order of decreasing seriousness and their frequency is defined as follows: very common (≥ 1/10); common (≥ 1/100 to &lt; 1/10); uncommon (≥ 1/1000 to &lt; 1/100); rare (≥ 1/10000 to &lt; 1/1000) and very rare (&lt; 1/10000).
 
-|                                      | Frequency category   | Frequency category   | Frequency category                | Frequency category                                                                                                          | Frequency category   |
-|--------------------------------------|----------------------|----------------------|-----------------------------------|-----------------------------------------------------------------------------------------------------------------------------|----------------------|
-| MedDRA SOC                           | Very common          | Common               | Uncommon                          | Rare                                                                                                                        | Very rare            |
-| Infections and infestations          | Nasopharyngi tis     |                      |                                   | Infection                                                                                                                   |                      |
-| Blood and lymphatic system disorders |                      |                      | Thrombocytope nia, leukopenia     | Pancytopenia, neutropenia, agranulocytosis                                                                                  |                      |
-| Immune system disorders              |                      |                      |                                   | Drug reaction with eosinophilia and systemic symptoms (DRESS) (1) , Hypersensitivity (including angioedema and anaphylaxis) |                      |
-| Metabolism and nutrition disorders   |                      | Anorexia             | Weight decreased, weight increase | Hyponatraemia                                                                                                               |                      |
+<div style=\"page-break-after: always\"></div>
+
+|                                      | Frequency category   | Frequency category                                                              | Frequency category                                                                                                                                                        | Frequency category                                                                                                                   | Frequency category                |
+|--------------------------------------|----------------------|---------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------|
+| MedDRA SOC                           | Very common          | Common                                                                          | Uncommon                                                                                                                                                                  | Rare                                                                                                                                 | Very rare                         |
+| Infections and infestations          | Nasopharyngi tis     |                                                                                 |                                                                                                                                                                           | Infection                                                                                                                            |                                   |
+| Blood and lymphatic system disorders |                      |                                                                                 | Thrombocytope nia, leukopenia                                                                                                                                             | Pancytopenia, neutropenia, agranulocytosis                                                                                           |                                   |
+| Immune system disorders              |                      |                                                                                 |                                                                                                                                                                           | Drug reaction with eosinophilia and systemic symptoms (DRESS) (1) , Hypersensitivity (including angioedema and anaphylaxis)          |                                   |
+| Metabolism and nutrition disorders   |                      | Anorexia                                                                        | Weight decreased, weight increase                                                                                                                                         | Hyponatraemia                                                                                                                        |                                   |
+| Psychiatric disorders                |                      | Depression, hostility/ aggression, anxiety, insomnia, nervousness/ irritability | Suicide attempt, suicidal ideation, psychotic disorder, abnormal behaviour, hallucination, anger, confusional state, panic attack, affect lability/mood swings, agitation | Completed suicide, personality disorder, thinking abnormal, delirium                                                                 | Obsessive compulsive disorder (2) |
+| Nervous system disorders             | Somnolence, headache | Convulsion, balance disorder, dizziness, lethargy, tremor                       | Amnesia, memory impairment, coordination abnormal/ataxia , paraesthesia, disturbance in attention                                                                         | Choreoathetosis, dyskinesia, hyperkinesia, gait disturbance, encephalopathy, seizures aggravated, Neuroleptic malignant syndrome (3) |                                   |
+| Eye disorders                        |                      |                                                                                 | Diplopia, vision blurred                                                                                                                                                  |                                                                                                                                      |                                   |
+| Ear and labyrinth disorders          |                      | Vertigo                                                                         |                                                                                                                                                                           |                                                                                                                                      |                                   |
+| Cardiac disorders                    |                      |                                                                                 |                                                                                                                                                                           | Electrocardiogra mQTprolonged                                                                                                        |                                   |
 
 <div style=\"page-break-after: always\"></div>
 
-|                                                 | Frequency category   | Frequency category                                                              | Frequency category                                                                                                                                                        | Frequency category                                                                                                                   | Frequency category                |
-|-------------------------------------------------|----------------------|---------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------|
-| MedDRA SOC                                      | Very                 | Common                                                                          | Uncommon                                                                                                                                                                  | Rare                                                                                                                                 | Very rare                         |
-| Psychiatric disorders                           | common               | Depression, hostility/ aggression, anxiety, insomnia, nervousness/ irritability | Suicide attempt, suicidal ideation, psychotic disorder, abnormal behaviour, hallucination, anger, confusional state, panic attack, affect lability/mood swings, agitation | Completed suicide, personality disorder, thinking abnormal, delirium                                                                 | Obsessive compulsive disorder (2) |
-| Nervous system disorders                        | Somnolence, headache | Convulsion, balance disorder, dizziness, lethargy, tremor                       | Amnesia, memory impairment, coordination abnormal/ataxia , paraesthesia, disturbance in attention                                                                         | Choreoathetosis, dyskinesia, hyperkinesia, gait disturbance, encephalopathy, seizures aggravated, Neuroleptic malignant syndrome (3) |                                   |
-| Eye disorders                                   |                      |                                                                                 | Diplopia, vision blurred                                                                                                                                                  |                                                                                                                                      |                                   |
-| Ear and labyrinth disorders                     |                      | Vertigo                                                                         |                                                                                                                                                                           |                                                                                                                                      |                                   |
-| Cardiac disorders                               |                      |                                                                                 |                                                                                                                                                                           | Electrocardiogra mQTprolonged                                                                                                        |                                   |
-| Respiratory, thoracic and mediastinal disorders |                      | Cough                                                                           |                                                                                                                                                                           |                                                                                                                                      |                                   |
-| Gastrointestinal disorders                      |                      | Abdominal pain, diarrhoea, dyspepsia, vomiting, nausea                          |                                                                                                                                                                           | Pancreatitis                                                                                                                         |                                   |
-| Hepatobiliary disorders                         |                      |                                                                                 | Liver function test abnormal                                                                                                                                              | Hepatic failure, hepatitis                                                                                                           |                                   |
-| Renal and Urinary Disorders                     |                      |                                                                                 |                                                                                                                                                                           | Acute Kidney injury                                                                                                                  |                                   |
-| Skin and subcutaneous tissue disorders          |                      | Rash                                                                            | Alopecia, eczema, pruritus,                                                                                                                                               | Toxic epidermal necrolysis, Stevens-Johnson syndrome, erythema multiforme                                                            |                                   |
-
-<div style=\"page-break-after: always\"></div>
-
-|                                                      | Frequency category   | Frequency category   | Frequency category         | Frequency category                                            | Frequency category   |
-|------------------------------------------------------|----------------------|----------------------|----------------------------|---------------------------------------------------------------|----------------------|
-| MedDRA SOC                                           | Very common          | Common               | Uncommon                   | Rare                                                          | Very rare            |
-| Musculoskeleta l and connective tissue disorders     |                      |                      | Muscular weakness, myalgia | Rhabdomyolysis and blood creatine phosphokinase increased (3) |                      |
-| General disorders and administration site conditions |                      | Asthenia/ fatigue    |                            |                                                               |                      |
-| Injury, poisoning and procedural complications       |                      |                      | Injury                     |                                                               |                      |
+| MedDRA SOC                                           | Frequency category   | Frequency category                                     | Frequency category           | Frequency category                                                        | Frequency category   |
+|------------------------------------------------------|----------------------|--------------------------------------------------------|------------------------------|---------------------------------------------------------------------------|----------------------|
+| MedDRA SOC                                           | Very common          | Common                                                 | Uncommon                     | Rare                                                                      | Very rare            |
+| Respiratory, thoracic and mediastinal disorders      |                      | Cough                                                  |                              |                                                                           |                      |
+| Gastrointestinal disorders                           |                      | Abdominal pain, diarrhoea, dyspepsia, vomiting, nausea |                              | Pancreatitis                                                              |                      |
+| Hepatobiliary disorders                              |                      |                                                        | Liver function test abnormal | Hepatic failure, hepatitis                                                |                      |
+| Renal and Urinary Disorders                          |                      |                                                        |                              | Acute Kidney injury                                                       |                      |
+| Skin and subcutaneous tissue disorders               |                      | Rash                                                   | Alopecia, eczema, pruritus,  | Toxic epidermal necrolysis, Stevens-Johnson syndrome, erythema multiforme |                      |
+| Musculoskeleta l and connective tissue disorders     |                      |                                                        | Muscular weakness, myalgia   | Rhabdomyolysis and blood creatine phosphokinase increased (3)             |                      |
+| General disorders and administration site conditions |                      | Asthenia/ fatigue                                      |                              |                                                                           |                      |
+| Injury, poisoning and procedural complications       |                      |                                                        | Injury                       |                                                                           |                      |
 
 (1) See Description of selected adverse reactions.
 
@@ -349,6 +347,8 @@ Multiorgan hypersensitivity reactions (also known as Drug Reaction with Eosinoph
 
 The risk of anorexia is higher when levetiracetam is coadministered with topiramate. In several cases of alopecia, recovery was observed when levetiracetam was discontinued. Bone marrow suppression was identified in some of the cases of pancytopenia.
 
+<div style=\"page-break-after: always\"></div>
+
 Cases of encephalopathy generally occurred at the beginning of the treatment (few days to a few months) and were reversible after treatment discontinuation.
 
 ## Paediatric population
@@ -357,11 +357,7 @@ In patients aged 1 month to less than 4 years, a total of 190 patients have been
 
 In addition, 101 infants aged less than 12 months have been exposed in a post authorization safety study. No new safety concerns for levetiracetam were identified for infants less than 12 months of age with epilepsy.
 
-The adverse reaction profile of levetiracetam is generally similar across age groups and across the approved epilepsy indications. Safety results in paediatric patients in placebo-controlled clinical studies were consistent with the safety profile of levetiracetam in adults except for behavioural and
-
-<div style=\"page-break-after: always\"></div>
-
-psychiatric adverse reactions which were more common in children than in adults. In children and adolescents aged 4 to 16 years, vomiting (very common, 11.2 %), agitation (common, 3.4 %), mood swings (common, 2.1 %), affect lability (common, 1.7 %), aggression (common, 8.2 %), abnormal behaviour (common, 5.6 %), and lethargy (common, 3.9%) were reported more frequently than in other age ranges or in the overall safety profile. In infants and children aged 1 month to less than 4 years, irritability (very common, 11.7 %) and coordination abnormal (common, 3.3 %) were reported more frequently than in other age groups or in the overall safety profile.
+The adverse reaction profile of levetiracetam is generally similar across age groups and across the approved epilepsy indications. Safety results in paediatric patients in placebo-controlled clinical studies were consistent with the safety profile of levetiracetam in adults except for behavioural and psychiatric adverse reactions which were more common in children than in adults. In children and adolescents aged 4 to 16 years, vomiting (very common, 11.2 %), agitation (common, 3.4 %), mood swings (common, 2.1 %), affect lability (common, 1.7 %), aggression (common, 8.2 %), abnormal behaviour (common, 5.6 %), and lethargy (common, 3.9%) were reported more frequently than in other age ranges or in the overall safety profile. In infants and children aged 1 month to less than 4 years, irritability (very common, 11.7 %) and coordination abnormal (common, 3.3 %) were reported more frequently than in other age groups or in the overall safety profile.
 
 A double-blind, placebo-controlled paediatric safety study with a non-inferiority design has assessed the cognitive and neuropsychological effects of levetiracetam in children 4 to 16 years of age with partial onset seizures. It was concluded that levetiracetam was not different (non inferior) from placebo with regard to the change from baseline of the Leiter-R Attention and Memory, Memory Screen Composite score in the per-protocol population. Results related to behavioural and emotional functioning indicated a worsening in levetiracetam treated patients on aggressive behaviour as measured in a standardised and systematic way using a validated instrument (CBCL - Achenbach Child Behavior Checklist). However subjects, who took levetiracetam in the long-term open label follow-up study, did not experience a worsening, on average, in their behavioural and emotional functioning; in particular measures of aggressive behaviour were not worse than baseline.
 
@@ -377,6 +373,8 @@ Somnolence, agitation, aggression, depressed level of consciousness, respiratory
 
 ## Management of overdose
 
+<div style=\"page-break-after: always\"></div>
+
 After an acute overdose, the stomach may be emptied by gastric lavage or by induction of emesis. There is no specific antidote for levetiracetam. Treatment of an overdose will be symptomatic and may include haemodialysis. The dialyser extraction efficiency is 60 % for levetiracetam and 74 % for the primary metabolite.
 
 ## 5. PHARMACOLOGICAL PROPERTIES
@@ -391,11 +389,7 @@ The  active  substance,  levetiracetam,  is  a  pyrrolidone  derivative  (Senant
 
 The mechanism of action of levetiracetam still remains to be fully elucidated. In vitro and in vivo experiments suggest that levetiracetam does not alter basic cell characteristics and normal neurotransmission.
 
-In vitro studies show that levetiracetam affects intraneuronal Ca 2+ levels by partial inhibition of N-type Ca 2+ currents and by reducing the release of Ca 2+ from intraneuronal stores. In addition it partially
-
-<div style=\"page-break-after: always\"></div>
-
-reverses the reductions in GABA- and glycinegated currents induced by zinc and β -carbolines. Furthermore, levetiracetam has been shown in in vitro studies to bind to a specific site in rodent brain tissue. This binding site is the synaptic vesicle protein 2A, believed to be involved in vesicle fusion and neurotransmitter exocytosis. Levetiracetam and related analogs show a rank order of affinity for binding to the synaptic vesicle protein 2A which correlates with the potency of their anti-seizure protection in the mouse audiogenic model of epilepsy. This finding suggests that the interaction between levetiracetam and the synaptic vesicle protein 2A seems to contribute to the antiepileptic mechanism of action of the medicinal product.
+In vitro studies show that levetiracetam affects intraneuronal Ca 2+ levels by partial inhibition of N-type Ca 2+ currents and by reducing the release of Ca 2+ from intraneuronal stores. In addition it partially reverses the reductions in GABA- and glycinegated currents induced by zinc and β -carbolines. Furthermore, levetiracetam has been shown in in vitro studies to bind to a specific site in rodent brain tissue. This binding site is the synaptic vesicle protein 2A, believed to be involved in vesicle fusion and neurotransmitter exocytosis. Levetiracetam and related analogs show a rank order of affinity for binding to the synaptic vesicle protein 2A which correlates with the potency of their anti-seizure protection in the mouse audiogenic model of epilepsy. This finding suggests that the interaction between levetiracetam and the synaptic vesicle protein 2A seems to contribute to the antiepileptic mechanism of action of the medicinal product.
 
 ## Pharmacodynamic effects
 
@@ -411,6 +405,8 @@ In adults, levetiracetam efficacy has been demonstrated in 3 double-blind, place
 
 In paediatric patients (4 to 16 years of age), levetiracetam efficacy was established in a double-blind, placebo-controlled study, which included 198 patients and had a treatment duration of 14 weeks. In this study, the patients received levetiracetam as a fixed dose of 60 mg/kg/day (with twice a day dosing).
 
+<div style=\"page-break-after: always\"></div>
+
 44.6 % of the levetiracetam treated patients and 19.6 % of the patients on placebo had a 50 % or greater reduction from baseline in the partial onset seizure frequency per week. With continued longterm treatment, 11.4 % of the patients were seizure-free for at least 6 months and 7.2 % were seizurefree for at least 1 year.
 
 In paediatric patients (1 month to less than 4 years of age), levetiracetam efficacy was established in a double-blind, placebo-controlled study, which included 116 patients and had a treatment duration of 5 days. In this study, patients were prescribed 20 mg/kg, 25 mg/kg, 40 mg/kg or 50 mg/kg daily dose of oral solution based on their age titration schedule. A dose of 20 mg/kg/day titrating to 40 mg/kg/day for infants one month to less than six months and a dose of 25 mg/kg/day titrating to 50 mg/kg/day for infants and children 6 months to less than 4 years old, was use in this study. The total daily dose was administered twice daily.
@@ -419,9 +415,7 @@ The primary measure of effectiveness was the responder rate (percent of patients
 
 35 infants aged less than 1 year with partial onset seizures have been exposed in placebo-control clinical studies of which only 13 were aged &lt; 6 months.
 
-<div style=\"page-break-after: always\"></div>
-
-Monotherapy in the treatment of partial onset seizures with or without secondary generalisation in patients from 16 years of age with newly diagnosed epilepsy.
+## Monotherapy in the treatment of partial onset seizures with or without secondary generalisation in patients from 16 years of age with newly diagnosed epilepsy.
 
 Efficacy of levetiracetam as monotherapy was established in a double-blind, parallel group, noninferiority comparison to carbamazepine controlled release (CR) in 576 patients 16 years of age or older with newly or recently diagnosed epilepsy. The patients had to present with unprovoked partial seizures or with generalized tonic-clonic seizures only. The patients were randomized to carbamazepine CR 400 - 1200 mg/day or levetiracetam 1000 - 3000 mg/day, the duration of the treatment was up to 121 weeks depending on the response.
 
@@ -439,6 +433,8 @@ In this study, levetiracetam, dose was 3000 mg/day given in 2 divided doses.
 
 Adjunctive therapy in the treatment of primary generalised tonic-clonic seizures in adults and adolescents from 12 years of age with idiopathic generalised epilepsy.
 
+<div style=\"page-break-after: always\"></div>
+
 Levetiracetam efficacy was established in a 24-week double-blind, placebo-controlled study which included adults, adolescents and a limited number of children suffering from idiopathic generalized epilepsy with primary generalized tonic-clonic (PGTC) seizures in different syndromes (juvenile myoclonic epilepsy, juvenile absence epilepsy, childhood absence epilepsy, or epilepsy with Grand Mal seizures on awakening). In this study, levetiracetam dose was 3000 mg/day for adults and adolescents or 60 mg/kg/day for children, given in 2 divided doses.
 
 72.2 % of the levetiracetam treated patients and 45.2 % of the patients on placebo had a 50 % or greater decrease in the frequency of PGTC seizures per week. With continued long-term treatment, 47.4 % of the patients were free of tonic-clonic seizures for at least 6 months and 31.5 % were free of tonic-clonic seizures for at least 1 year.
@@ -448,8 +444,6 @@ Levetiracetam efficacy was established in a 24-week double-blind, placebo-contro
 Levetiracetam is a highly soluble and permeable compound. The pharmacokinetic profile is linear with low intra- and inter-subject variability. There is no modification of the clearance after repeated administration. There is no evidence for any relevant gender, race or circadian variability. The pharmacokinetic profile is comparable in healthy volunteers and in patients with epilepsy.
 
 Due to its complete and linear absorption, plasma levels can be predicted from the oral dose of levetiracetam expressed as mg/kg bodyweight. Therefore, there is no need for plasma level monitoring of levetiracetam.
-
-<div style=\"page-break-after: always\"></div>
 
 A significant correlation between saliva and plasma concentrations has been shown in adults and children (ratio of saliva/plasma concentrations ranged from 1 to 1.7 for oral tablet formulation and after 4 hours post-dose for oral solution formulation).
 
@@ -477,6 +471,8 @@ Levetiracetam is not extensively metabolised in humans. The major metabolic path
 
 Two minor metabolites were also identified. One was obtained by hydroxylation of the pyrrolidone ring (1.6 % of the dose) and the other one by opening of the pyrrolidone ring (0.9 % of the dose). Other unidentified components accounted only for 0.6 % of the dose.
 
+<div style=\"page-break-after: always\"></div>
+
 No enantiomeric interconversion was evidenced in vivo for either levetiracetam or its primary metabolite.
 
 In vitro , levetiracetam and its primary metabolite have been shown not to inhibit the major human liver cytochrome P450 isoforms (CYP3A4, 2A6, 2C9, 2C19, 2D6, 2E1 and 1A2), glucuronyl transferase (UGT1A1 and UGT1A6) and epoxide hydroxylase activities. In addition, levetiracetam does not affect the in vitro glucuronidation of valproic acid.
@@ -488,8 +484,6 @@ In human hepatocytes in culture, levetiracetam had little or no effect on CYP1A2
 The plasma half-life in adults was 7±1 hours and did not vary either with dose, route of administration or repeated administration. The mean total body clearance was 0.96 ml/min/kg.
 
 The major route of excretion was via urine, accounting for a mean 95 % of the dose (approximately 93 % of the dose was excreted within 48 hours). Excretion via faeces accounted for only 0.3 % of the dose.
-
-<div style=\"page-break-after: always\"></div>
 
 The cumulative urinary excretion of levetiracetam and its primary metabolite accounted for 66 % and 24 % of the dose, respectively during the first 48 hours.
 
@@ -517,6 +511,8 @@ In  subjects  with  mild  and  moderate  hepatic  impairment,  there  was  no  r
 
 Following single oral dose administration (20 mg/kg) to epileptic children (6 to 12 years), the half-life of levetiracetam was 6.0 hours. The apparent body weight adjusted clearance was approximately 30 % higher than in epileptic adults.
 
+<div style=\"page-break-after: always\"></div>
+
 Following repeated oral dose administration (20 to 60 mg/kg/day) to epileptic children (4 to 12 years), levetiracetam was rapidly absorbed. Peak plasma concentration was observed 0.5 to 1.0 hour after dosing. Linear and dose proportional increases were observed for peak plasma concentrations and area under the curve. The elimination half-life was approximately 5 hours. The apparent body clearance was 1.1 ml/min/kg.
 
 ## Infants and children (1 month to 4 years)
@@ -524,8 +520,6 @@ Following repeated oral dose administration (20 to 60 mg/kg/day) to epileptic ch
 Following single dose administration (20 mg/kg) of a 100 mg/ml oral solution to epileptic children (1 month to 4 years), levetiracetam was rapidly absorbed and peak plasma concentrations were observed approximately 1 hour after dosing. The pharmacokinetic results indicated that half-life was shorter (5.3 h) than for adults (7.2 h) and apparent clearance was faster (1.5 ml/min/kg) than for adults (0.96 ml/min/kg).
 
 In the population pharmacokinetic analysis conducted in patients from 1 month to 16 years of age, body weight was significantly correlated to apparent clearance (clearance increased with an increase in body weight) and apparent volume of distribution. Age also had an influence on both parameters. This effect was pronounced for the younger infants, and subsided as age increased, to become negligible around 4 years of age.
-
-<div style=\"page-break-after: always\"></div>
 
 In both population pharmacokinetic analyses, there was about a 20 % increase of apparent clearance of levetiracetam when it was co-administered with an enzyme-inducing antiepileptic medicinal product.
 
@@ -545,6 +539,8 @@ A peri- and post-natal development study was performed in rats with levetiraceta
 
 Neonatal and juvenile animal studies in rats and dogs demonstrated that there were no adverse effects seen in any of the standard developmental or maturation endpoints at doses up to 1800 mg/kg/day (x 6 - 17 the MRHD on a mg/m2 basis).
 
+<div style=\"page-break-after: always\"></div>
+
 ## 6. PHARMACEUTICAL PARTICULARS
 
 ## 6.1 List of excipients
@@ -553,17 +549,17 @@ Neonatal and juvenile animal studies in rats and dogs demonstrated that there we
 
 Macrogol 6000, Colloidal anhydrous silica, Crospovidone A, Cellulose powdered, Magnesium stearate.
 
-## Film-coating:
+Film-coating:
 
-Levetiracetam ratiopharm 250 mg film-coated tablets Poly(vinyl alcohol), Titanium dioxide (E171), Macrogol, Talc, Blue indigo carmine aluminium lake
+## Levetiracetam ratiopharm 250 mg film-coated tablets
 
-(E132)
+Poly(vinyl alcohol), Titanium dioxide (E171), Macrogol, Talc, Blue indigo carmine aluminium lake (E132)
 
-Levetiracetam ratiopharm 500 mg film-coated tablets Hypromellose (E464), Microcrystalline cellulose (E460), Macrogol 40 stearate type I, Anatase titanium dioxide (E171), Yellow Iron Oxide (E 172)
+## Levetiracetam ratiopharm 500 mg film-coated tablets
+
+Hypromellose (E464), Microcrystalline cellulose (E460), Macrogol 40 stearate type I, Anatase titanium dioxide (E171), Yellow Iron Oxide (E 172)
 
 ## Levetiracetam ratiopharm 750 mg film-coated tablets
-
-<div style=\"page-break-after: always\"></div>
 
 Hypromellose (E464), Microcrystalline cellulose (E460), Macrogol 40 stearate type I, Anatase titanium dioxide (E171), Yellow Iron Oxide (E172), Red Iron Oxide (E172)
 
@@ -587,15 +583,21 @@ This medicinal product does not require any special storage conditions.
 
 PVC/Aluminium blister packs.
 
-Levetiracetam ratiopharm 250 mg film-coated tablets Packs containing 20, 30, 50, 60 or 100 film-coated tablets or multipacks containing 200 (2 packs of 100) film-coated tablets.
+## Levetiracetam ratiopharm 250 mg film-coated tablets
+
+Packs containing 20, 30, 50, 60 or 100 film-coated tablets or multipacks containing 200 (2 packs of 100) film-coated tablets.
 
 ## Levetiracetam ratiopharm 500 mg film-coated tablets
 
 Packs containing 10, 20, 30, 50, 60 or 100 film-coated tablets or multipacks containing 120 (2 packs of 60) or 200 (2 packs of 100) film-coated tablets.
 
-Levetiracetam ratiopharm 750 mg film-coated tablets Packs containing 20, 30, 50, 60, 80 or 100 film-coated tablets or multipacks containing 200 (2 packs of 100) film-coated tablets.
+## Levetiracetam ratiopharm 750 mg film-coated tablets
 
-## Levetiracetam ratiopharm 1000 mg film-coated tablets
+Packs containing 20, 30, 50, 60, 80 or 100 film-coated tablets or multipacks containing 200 (2 packs of 100) film-coated tablets.
+
+Levetiracetam ratiopharm 1000 mg film-coated tablets
+
+<div style=\"page-break-after: always\"></div>
 
 Packs containing 10, 20, 30, 50, 60 or 100 film-coated tablets or multipacks containing 200 (2 packs of 100) film-coated tablets.
 
@@ -611,23 +613,31 @@ ratiopharm GmbH Graf-Arco-Straße 3 89079 Ulm Germany info@ratiopharm.de
 
 ## 8. MARKETING AUTHORISATION NUMBER(S)
 
-<div style=\"page-break-after: always\"></div>
+| Levetiracetam ratiopharm 250 mg film-coated tablets EU/1/11/702/004 EU/1/11/702/005 EU/1/11/702/006 EU/1/11/702/007   |
+|-----------------------------------------------------------------------------------------------------------------------|
+| Levetiracetam ratiopharm 500 mg film-coated tablets EU/1/11/702/010 EU/1/11/702/011 EU/1/11/702/012                   |
+| Levetiracetam ratiopharm 750 mg film-coated EU/1/11/702/018 EU/1/11/702/019                                           |
+| tablets                                                                                                               |
+| EU/1/11/702/008                                                                                                       |
+| EU/1/11/702/009                                                                                                       |
+| EU/1/11/702/014                                                                                                       |
+| EU/1/11/702/013                                                                                                       |
+| EU/1/11/702/015                                                                                                       |
+| EU/1/11/702/016                                                                                                       |
+| EU/1/11/702/017                                                                                                       |
+| EU/1/11/702/020 EU/1/11/702/021                                                                                       |
+| EU/1/11/702/022                                                                                                       |
+| EU/1/11/702/023                                                                                                       |
+| EU/1/11/702/024                                                                                                       |
+| Levetiracetam ratiopharm 1000 mg film-coated tablets EU/1/11/702/025                                                  |
+| EU/1/11/702/026                                                                                                       |
+| EU/1/11/702/027                                                                                                       |
+| EU/1/11/702/028                                                                                                       |
+| EU/1/11/702/029                                                                                                       |
+| EU/1/11/702/030                                                                                                       |
+| EU/1/11/702/031                                                                                                       |
 
-| Levetiracetam ratiopharm 250 mg film-coated tablets EU/1/11/702/004 EU/1/11/702/005 EU/1/11/702/006 EU/1/11/702/007 EU/1/11/702/008   |
-|---------------------------------------------------------------------------------------------------------------------------------------|
-| Levetiracetam ratiopharm 500 mg film-coated tablets EU/1/11/702/010 EU/1/11/702/011 EU/1/11/702/012 EU/1/11/702/013                   |
-| Levetiracetam ratiopharm 750 mg film-coated tablets EU/1/11/702/018 EU/1/11/702/019 EU/1/11/702/020                                   |
-| EU/1/11/702/021                                                                                                                       |
-| EU/1/11/702/023                                                                                                                       |
-| EU/1/11/702/024                                                                                                                       |
-| EU/1/11/702/014 EU/1/11/702/015 EU/1/11/702/016 EU/1/11/702/017                                                                       |
-| EU/1/11/702/022                                                                                                                       |
-| EU/1/11/702/025 EU/1/11/702/026                                                                                                       |
-| EU/1/11/702/027                                                                                                                       |
-| EU/1/11/702/028                                                                                                                       |
-| EU/1/11/702/029                                                                                                                       |
-| EU/1/11/702/030                                                                                                                       |
-| EU/1/11/702/031                                                                                                                       |
+<div style=\"page-break-after: always\"></div>
 
 ## 9. DATE OF FIRST AUTHORISATION/RENEWAL OF THE AUTHORISATION
 
@@ -638,6 +648,8 @@ Date of latest renewal: 28. April 2016
 ## 10. DATE OF REVISION OF THE TEXT
 
 Detailed information on this medicinal product is available on the website of the European Medicines Agency https://www.ema.europa.eu.
+
+20
 
 <div style=\"page-break-after: always\"></div>
 
@@ -922,11 +934,9 @@ Specialist advice should be given to women who are of childbearing potential. Tr
 
 ## Pregnancy
 
-A large amount of postmarketing data on pregnant women exposed to levetiracetam monotherapy (more than 1800, among which in more than 1500 exposure occurred during the 1st trimester) do not suggest an increase in the risk for major congenital malformations. Only limited evidence is available on the neurodevelopment of children exposed to levetiracetam monotherapy in utero. However, current epidemiological studies (on about 100 children) do not suggest an increased risk of neurodevelopmental disorders or delays.
+A large amount of postmarketing data on pregnant women exposed to levetiracetam monotherapy (more than 1800, among which in more than 1500 exposure occurred during the 1st trimester) do not suggest an increase in the risk for major congenital malformations. Limited evidence is available on the neurodevelopment of children exposed to levetiracetam monotherapy in utero. Data from two observational population-based registry studies undertaken in largely the same dataset from the Nordic countries and including more than 1000 children born to women with epilepsy prenatally exposed to levetiracetam monotherapy do not suggest an increased risk of autism spectrum disorders or intellectual disability compared to children born to women with epilepsy not exposed to an antiepileptic drug in utero. The mean follow-up time of children in the levetiracetam group was shorter than for the group of children non exposed to any antiepileptic drug (e.g. 4.4 years vs 6.8 years in one of the studies).
 
-Levetiracetam can be used during pregnancy, if after careful assessment it is considered clinically needed. In such case, the lowest effective dose is recommended.
-
-Physiological changes during pregnancy may affect levetiracetam concentration. Decrease in levetiracetam plasma concentrations has been observed during pregnancy. This decrease is more pronounced during the third trimester (up to 60 % of baseline concentration before pregnancy). Appropriate clinical management of pregnant women treated with levetiracetam should be ensured.
+Levetiracetam can be used during pregnancy, if after careful assessment it is considered clinically needed. In such case, the lowest effective dose is recommended. Physiological changes during pregnancy may affect levetiracetam concentration. Decrease in levetiracetam plasma concentrations has been observed during pregnancy. This decrease is more pronounced during the third trimester (up to 60 % of baseline concentration before pregnancy). Appropriate clinical management of pregnant women treated with levetiracetam should be ensured.
 
 ## Breast-feeding
 
@@ -944,50 +954,56 @@ Levetiracetam has minor or moderate influence on the ability to drive and use ma
 
 ## Summary of the safety profile
 
-The most frequently reported adverse reactions were nasopharyngitis, somnolence, headache, fatigue and dizziness. The adverse reaction profile presented below is based on the analysis of pooled placebo-controlled clinical trials with all indications studied, with a total of 3,416 patients treated with levetiracetam. These data are supplemented with the use of levetiracetam in corresponding open-label extension studies, as well as post-marketing experience. The safety profile of levetiracetam is generally similar across age groups (adult and paediatric patients) and across the approved epilepsy indications.
+The most frequently reported adverse reactions were nasopharyngitis, somnolence, headache, fatigue and dizziness. The adverse reaction profile presented below is based on the analysis of pooled placebo-controlled clinical trials with all indications studied, with a total of 3,416 patients treated with levetiracetam. These data are supplemented with the use of levetiracetam in corresponding open-label
+
+<div style=\"page-break-after: always\"></div>
+
+extension studies, as well as post-marketing experience. The safety profile of levetiracetam is generally similar across age groups (adult and paediatric patients) and across the approved epilepsy indications.
 
 ## Tabulated list of adverse reactions
 
-<div style=\"page-break-after: always\"></div>
+Adverse reactions reported in clinical studies (adults, adolescents, children and infants &gt; 1 month) and from post-marketing experience are listed in the following table per System Organ Class and per frequency. Adverse reactions are presented in the order of decreasing seriousness and their frequency is defined as follows: very common (≥ 1/10); common (≥ 1/100 to &lt; 1/10); uncommon (≥ 1/1000 to &lt; 1/100); rare (≥ 1/10000 to &lt; 1/1000) and very rare (&lt; 1/10000).
 
-Adverse reactions reported in clinical studies (adults, adolescents, children and infants &gt; 1 month) and from post-marketing experience are listed in the following table per System Organ Class and per frequency. Adverse reactions are presented in the order of decreasing seriousness and their frequency is defined as follows: very common (≥ 1/10); comm on (≥ 1/100 to &lt; 1/10); uncommon (≥ 1/1000 to &lt; 1/100); rare (≥ 1/10000 to &lt; 1/1000) and very rare (&lt; 1/10000).
-
-| MedDRA                               | Frequency category   | Frequency category                                                              | Frequency category                                                                                                                                                        | Frequency category                                                                                                                   | Frequency category                |
-|--------------------------------------|----------------------|---------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------|
-| SOC                                  | Very common          | Common                                                                          | Uncommon                                                                                                                                                                  | Rare                                                                                                                                 | Very rare                         |
-| Infections and infestations          | Nasopharyngi tis     |                                                                                 |                                                                                                                                                                           | Infection                                                                                                                            |                                   |
-| Blood and lymphatic system disorders |                      |                                                                                 | Thrombocytope nia, leukopenia                                                                                                                                             | Pancytopenia, neutropenia, agranulocytosis                                                                                           |                                   |
-| Immune system disorders              |                      |                                                                                 |                                                                                                                                                                           | Drug reaction with eosinophilia and systemic symptoms (DRESS) (1) , Hypersensitivity (including angioedema and anaphylaxis)          |                                   |
-| Metabolism and nutrition disorders   |                      | Anorexia                                                                        | Weight decreased, weight increase                                                                                                                                         | Hyponatraemia                                                                                                                        |                                   |
-| Psychiatric disorders                |                      | Depression, hostility/ aggression, anxiety, insomnia, nervousness/ irritability | Suicide attempt, suicidal ideation, psychotic disorder, abnormal behaviour, hallucination, anger, confusional state, panic attack, affect lability/mood swings, agitation | Completed suicide, personality disorder, thinking abnormal, delirium                                                                 | Obsessive compulsive disorder (2) |
-| Nervous system disorders             | Somnolence, headache | Convulsion, balance disorder, dizziness, lethargy, tremor                       | Amnesia, memory impairment, coordination abnormal/ataxia , paraesthesia, disturbance in attention                                                                         | Choreoathetosis, dyskinesia, hyperkinesia, gait disturbance, encephalopathy, seizures aggravated, Neuroleptic malignant syndrome (3) |                                   |
-| Eye disorders                        |                      |                                                                                 | Diplopia, vision blurred                                                                                                                                                  |                                                                                                                                      |                                   |
+| MedDRA                               | Frequency category   | Frequency category                                                              | Frequency category                                                                                                                                                        | Frequency category                                                                                                          | Frequency category                |
+|--------------------------------------|----------------------|---------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------|-----------------------------------|
+| SOC                                  | Very common          | Common                                                                          | Uncommon                                                                                                                                                                  | Rare                                                                                                                        | Very rare                         |
+| Infections and infestations          | Nasopharyngi tis     |                                                                                 |                                                                                                                                                                           | Infection                                                                                                                   |                                   |
+| Blood and lymphatic system disorders |                      |                                                                                 | Thrombocytope nia, leukopenia                                                                                                                                             | Pancytopenia, neutropenia, agranulocytosis                                                                                  |                                   |
+| Immune system disorders              |                      |                                                                                 |                                                                                                                                                                           | Drug reaction with eosinophilia and systemic symptoms (DRESS) (1) , Hypersensitivity (including angioedema and anaphylaxis) |                                   |
+| Metabolism and nutrition disorders   |                      | Anorexia                                                                        | Weight decreased, weight increase                                                                                                                                         | Hyponatraemia                                                                                                               |                                   |
+| Psychiatric disorders                |                      | Depression, hostility/ aggression, anxiety, insomnia, nervousness/ irritability | Suicide attempt, suicidal ideation, psychotic disorder, abnormal behaviour, hallucination, anger, confusional state, panic attack, affect lability/mood swings, agitation | Completed suicide, personality disorder, thinking abnormal, delirium                                                        | Obsessive compulsive disorder (2) |
 
 <div style=\"page-break-after: always\"></div>
 
-| MedDRA                                               | Frequency category   | Frequency category                                     | Frequency category           | Frequency category                                                        | Frequency category   |
-|------------------------------------------------------|----------------------|--------------------------------------------------------|------------------------------|---------------------------------------------------------------------------|----------------------|
-| SOC                                                  | Very common          | Common                                                 | Uncommon                     | Rare                                                                      | Very rare            |
-| Ear and labyrinth disorders                          |                      | Vertigo                                                |                              |                                                                           |                      |
-| Cardiac disorders                                    |                      |                                                        |                              | Electrocardiogra mQTprolonged                                             |                      |
-| Respiratory, thoracic and mediastinal disorders      |                      | Cough                                                  |                              |                                                                           |                      |
-| Gastrointestin al disorders                          |                      | Abdominal pain, diarrhoea, dyspepsia, vomiting, nausea |                              | Pancreatitis                                                              |                      |
-| Hepatobiliary disorders                              |                      |                                                        | Liver function test abnormal | Hepatic failure, hepatitis                                                |                      |
-| Renal and Urinary Disorders                          |                      |                                                        |                              | Acute Kidney injury                                                       |                      |
-| Skin and subcutaneous tissue disorders               |                      | Rash                                                   | Alopecia, eczema, pruritus,  | Toxic epidermal necrolysis, Stevens-Johnson syndrome, erythema multiforme |                      |
-| Musculoskelet al and connective tissue disorders     |                      |                                                        | Muscular weakness, myalgia   | Rhabdomyolysis and blood creatine phosphokinase increased (3)             |                      |
-| General disorders and administration site conditions |                      | Asthenia/ fatigue                                      |                              |                                                                           |                      |
-| Injury, poisoning and procedural complications       |                      |                                                        | Injury                       |                                                                           |                      |
+| MedDRA                                               | Frequency category   | Frequency category                                        | Frequency category                                                                                | Frequency category                                                                                                                   | Frequency category   |
+|------------------------------------------------------|----------------------|-----------------------------------------------------------|---------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------|----------------------|
+| SOC                                                  | Very common          | Common                                                    | Uncommon                                                                                          | Rare                                                                                                                                 | Very rare            |
+| Nervous system disorders                             | Somnolence, headache | Convulsion, balance disorder, dizziness, lethargy, tremor | Amnesia, memory impairment, coordination abnormal/ataxia , paraesthesia, disturbance in attention | Choreoathetosis, dyskinesia, hyperkinesia, gait disturbance, encephalopathy, seizures aggravated, Neuroleptic malignant syndrome (3) |                      |
+| Eye disorders                                        |                      |                                                           | Diplopia, vision blurred                                                                          |                                                                                                                                      |                      |
+| Ear and labyrinth disorders                          |                      | Vertigo                                                   |                                                                                                   |                                                                                                                                      |                      |
+| Cardiac disorders                                    |                      |                                                           |                                                                                                   | Electrocardiogra mQTprolonged                                                                                                        |                      |
+| Respiratory, thoracic and mediastinal disorders      |                      | Cough                                                     |                                                                                                   |                                                                                                                                      |                      |
+| Gastrointestin al disorders                          |                      | Abdominal pain, diarrhoea, dyspepsia, vomiting, nausea    |                                                                                                   | Pancreatitis                                                                                                                         |                      |
+| Hepatobiliary disorders                              |                      |                                                           | Liver function test abnormal                                                                      | Hepatic failure, hepatitis                                                                                                           |                      |
+| Renal and Urinary Disorders                          |                      |                                                           |                                                                                                   | Acute Kidney injury                                                                                                                  |                      |
+| Skin and subcutaneous tissue disorders               |                      | Rash                                                      | Alopecia, eczema, pruritus,                                                                       | Toxic epidermal necrolysis, Stevens-Johnson syndrome, erythema multiforme                                                            |                      |
+| Musculoskelet al and connective tissue disorders     |                      |                                                           | Muscular weakness, myalgia                                                                        | Rhabdomyolysis and blood creatine phosphokinase increased (3)                                                                        |                      |
+| General disorders and administration site conditions |                      | Asthenia/ fatigue                                         |                                                                                                   |                                                                                                                                      |                      |
+| Injury, poisoning and procedural complications       |                      |                                                           | Injury                                                                                            |                                                                                                                                      |                      |
+
+(1) See Description of selected adverse reactions.
+
+<div style=\"page-break-after: always\"></div>
+
+(2) Very rare cases of development of obsessive-compulsive disorders (OCD) in patients with underlying history of OCD or psychiatric disorders have been observed in post-marketing surveillance.
+
+(3) Prevalence is significantly higher in Japanese patients when compared to non-Japanese patients.
 
 ## Description of selected adverse reactions
 
 ## Multiorgan hypersensitivity reactions
 
-Multiorgan hypersensitivity reactions (also known as Drug Reaction with Eosinophilia and Systemic Symptoms, DRESS) have been reported rarely in patients treated with levetiracetam. Clinical manifestations may develop 2 to 8 weeks after starting treatment. These reactions are variable in expression, but typically present with fever, rash, facial oedema, lymphadenopathies, haematologic
-
-<div style=\"page-break-after: always\"></div>
-
-abnormalities and can be associated with involvement of different organ systems, mostly the liver. If multiorgan hypersensitivity reaction is suspected, levetiracetam should be discontinued.
+Multiorgan hypersensitivity reactions (also known as Drug Reaction with Eosinophilia and Systemic Symptoms, DRESS) have been reported rarely in patients treated with levetiracetam. Clinical manifestations may develop 2 to 8 weeks after starting treatment. These reactions are variable in expression, but typically present with fever, rash, facial oedema, lymphadenopathies, haematologic abnormalities and can be associated with involvement of different organ systems, mostly the liver. If multiorgan hypersensitivity reaction is suspected, levetiracetam should be discontinued.
 
 The risk of anorexia is higher when levetiracetam is coadministered with topiramate. In several cases of alopecia, recovery was observed when levetiracetam was discontinued. Bone marrow suppression was identified in some of the cases of pancytopenia.
 
@@ -1001,7 +1017,11 @@ In addition, 101 infants aged less than 12 months have been exposed in a post au
 
 The adverse reaction profile of levetiracetam is generally similar across age groups and across the approved epilepsy indications. Safety results in paediatric patients in placebo-controlled clinical studies were consistent with the safety profile of levetiracetam in adults except for behavioural and psychiatric adverse reactions which were more common in children than in adults. In children and adolescents aged 4 to 16 years, vomiting (very common, 11.2 %), agitation (common, 3.4%), mood swings (common, 2.1 %), affect lability (common, 1.7 %), aggression (common, 8.2 %), abnormal behaviour (common, 5.6 %), and lethargy (common, 3.9 %) were reported more frequently than in other age ranges or in the overall safety profile. In infants and children aged 1 month to less than 4 years, irritability (very common, 11.7 %) and coordination abnormal (common, 3.3 %) were reported more frequently than in other age groups or in the overall safety profile.
 
-A double-blind, placebo-controlled paediatric safety study with a non-inferiority design has assessed the cognitive and neuropsychological effects of levetiracetam in children 4 to 16 years of age with partial onset seizures. It was concluded that levetiracetam was not different (non inferior) from placebo with regard to the change from baseline of the Leiter-R Attention and Memory, Memory Screen Composite score in the per-protocol population. Results related to behavioural and emotional functioning indicated a worsening in levetiracetam treated patients on aggressive behaviour as measured in a standardised and systematic way using a validated instrument (CBCL - Achenbach Child Behavior Checklist). However subjects, who took levetiracetam in the long-term open label follow-up study, did not experience a worsening, on average, in their behavioural and emotional functioning; in particular measures of aggressive behaviour were not worse than baseline.
+A double-blind, placebo-controlled paediatric safety study with a non-inferiority design has assessed the cognitive and neuropsychological effects of levetiracetam in children 4 to 16 years of age with partial onset seizures. It was concluded that levetiracetam was not different (non inferior) from placebo with regard to the change from baseline of the Leiter-R Attention and Memory, Memory Screen Composite score in the per-protocol population. Results related to behavioural and emotional functioning indicated a worsening in levetiracetam treated patients on aggressive behaviour as measured in a standardised and systematic way using a validated instrument (CBCL - Achenbach Child Behavior Checklist). However subjects, who took levetiracetam in the long-term open label
+
+<div style=\"page-break-after: always\"></div>
+
+follow-up study, did not experience a worsening, on average, in their behavioural and emotional functioning; in particular measures of aggressive behaviour were not worse than baseline.
 
 ## Reporting of suspected adverse reactions
 
@@ -1010,8 +1030,6 @@ Reporting suspected adverse reactions after authorisation of the medicinal produ
 ## 4.9 Overdose
 
 ## Symptoms
-
-<div style=\"page-break-after: always\"></div>
 
 Somnolence, agitation, aggression, depressed level of consciousness, respiratory depression and coma were observed with levetiracetam overdoses.
 
@@ -1037,13 +1055,13 @@ In vitro studies show that levetiracetam affects intraneuronal Ca 2+ levels by p
 
 Levetiracetam induces seizure protection  in  a  broad  range  of  animal  models  of  partial  and  primary generalised seizures without having a pro-convulsant effect. The primary metabolite is inactive. In man, an activity in both partial and generalised epilepsy conditions (epileptiform discharge/photoparoxysmal response) has confirmed the broad spectrum pharmacological profile of levetiracetam.
 
+<div style=\"page-break-after: always\"></div>
+
 ## Clinical efficacy and safety
 
 Adjunctive therapy in the treatment of partial onset seizures with or without secondary generalisation in adults, adolescents, children and infants from 1 month of age with epilepsy.
 
 In adults, levetiracetam efficacy has been demonstrated in 3 double-blind, placebo-controlled studies at 1000 mg, 2000 mg, or 3000 mg/day, given in 2 divided doses, with a treatment duration of up to 18 weeks. In a pooled analysis, the percentage of patients who achieved 50 % or greater reduction from baseline in the partial onset seizure frequency per week at stable dose (12/14 weeks) was of 27.7 %, 31.6 % and 41.3 % for patients on 1000, 2000 or 3000 mg levetiracetam respectively and of 12.6 % for patients on placebo.
-
-<div style=\"page-break-after: always\"></div>
 
 ## Paediatric population
 
@@ -1063,6 +1081,8 @@ Efficacy of levetiracetam as monotherapy was established in a double-blind, para
 
 Six-month seizure freedom was achieved in 73.0 % of levetiracetam-treated patients and 72.8 % of carbamazepine-CR treated patients; the adjusted absolute difference between treatments was 0.2 % (95 % CI: -7.8 8.2). More than half of the subjects remained seizure free for 12 months (56.6 % and 58.5 % of subjects on levetiracetam and on carbamazepine CR respectively).
 
+<div style=\"page-break-after: always\"></div>
+
 In a study reflecting clinical practice, the concomitant antiepileptic medication could be withdrawn in a limited number of patients who responded to levetiracetam adjunctive therapy (36 adult patients out of 69).
 
 Adjunctive therapy in the treatment of myoclonic seizures in adults and adolescents from 12 years of age with Juvenile Myoclonic Epilepsy.
@@ -1071,15 +1091,11 @@ Levetiracetam efficacy was established in a double-blind, placebo-controlled stu
 
 In this study, levetiracetam, dose was 3000 mg/day given in 2 divided doses.
 
-58.3 % of the levetiracetam treated patients and 23.3 % of the patients on placebo had at least a 50 % reduction in myoclonic seizure days per week. With continued long-term treatment, 28.6 % of the
-
-<div style=\"page-break-after: always\"></div>
-
-patients were free of myoclonic seizures for at least 6 months and 21.0 % were free of myoclonic seizures for at least 1 year.
+58.3 % of the levetiracetam treated patients and 23.3 % of the patients on placebo had at least a 50 % reduction in myoclonic seizure days per week. With continued long-term treatment, 28.6 % of the patients were free of myoclonic seizures for at least 6 months and 21.0 % were free of myoclonic seizures for at least 1 year.
 
 Adjunctive therapy in the treatment of primary generalised tonic-clonic seizures in adults and adolescents from 12 years of age with idiopathic generalised epilepsy.
 
-Levetiracetam efficacy was established in a 24-week double-blind, placebo-controlled study which epilepsy with primary generalized tonic-clonic (PGTC) seizures in different syndromes (juvenile Mal seizures on awakening). In this study, levetiracetam dose was 3000 mg/day for adults and included adults, adolescents and a limited number of children suffering from idiopathic generalized myoclonic epilepsy, juvenile absence epilepsy, childhood absence epilepsy, or epilepsy with Grand adolescents or 60 mg/kg/day for children, given in 2 divided doses.
+Levetiracetam efficacy was established in a 24-week double-blind, placebo-controlled study which included adults, adolescents and a limited number of children suffering from idiopathic generalized epilepsy with primary generalized tonic-clonic (PGTC) seizures in different syndromes (juvenile myoclonic epilepsy, juvenile absence epilepsy, childhood absence epilepsy, or epilepsy with Grand Mal seizures on awakening). In this study, levetiracetam dose was 3000 mg/day for adults and adolescents or 60 mg/kg/day for children, given in 2 divided doses.
 
 72.2 % of the levetiracetam treated patients and 45.2 % of the patients on placebo had a 50 % or greater decrease in the frequency of PGTC seizures per week. With continued long-term treatment, 47.4 % of the patients were free of tonic-clonic seizures for at least 6 months and 31.5 % were free of tonic-clonic seizures for at least 1 year.
 
@@ -1103,6 +1119,8 @@ Peak  concentrations  (Cmax)  are  typically  31  and  43 μg/ml  following  a  
 
 The extent of absorption is dose-independent and is not altered by food.
 
+<div style=\"page-break-after: always\"></div>
+
 ## Distribution
 
 No tissue distribution data are available in humans.
@@ -1111,11 +1129,7 @@ Neither levetiracetam nor its primary metabolite are significantly bound to plas
 
 ## Biotransformation
 
-Levetiracetam is not extensively metabolised in humans. The major metabolic pathway (24 % of the dose) is an enzymatic hydrolysis of the acetamide group. Production of the primary metabolite, ucb L057, is not supported by liver cytochrome P450 isoforms. Hydrolysis of the acetamide group was
-
-<div style=\"page-break-after: always\"></div>
-
-measurable in a large number of tissues including blood cells. The metabolite ucb L057 is pharmacologically inactive.
+Levetiracetam is not extensively metabolised in humans. The major metabolic pathway (24 % of the dose) is an enzymatic hydrolysis of the acetamide group. Production of the primary metabolite, ucb L057, is not supported by liver cytochrome P450 isoforms. Hydrolysis of the acetamide group was measurable in a large number of tissues including blood cells. The metabolite ucb L057 is pharmacologically inactive.
 
 Two minor metabolites were also identified. One was obtained by hydroxylation of the pyrrolidone ring (1.6 % of the dose) and the other one by opening of the pyrrolidone ring (0.9 % of the dose). Other unidentified components accounted only for 0.6 % of the dose.
 
@@ -1141,7 +1155,11 @@ In the elderly, the half-life is increased by about 40 % (10 to 11 hours). This 
 
 ## Renal impairment
 
-The apparent body clearance of both levetiracetam and of its primary metabolite is correlated to the creatinine clearance. It is therefore recommended to adjust the maintenance daily dose of levetiracetam, based on creatinine clearance in patients with moderate and severe renal impairment (see section 4.2).
+The apparent body clearance of both levetiracetam and of its primary metabolite is correlated to the creatinine clearance. It is therefore recommended to adjust the maintenance daily dose of
+
+<div style=\"page-break-after: always\"></div>
+
+levetiracetam, based on creatinine clearance in patients with moderate and severe renal impairment (see section 4.2).
 
 In anuric end-stage renal disease adult subjects the half-life was approximately 25 and 3.1 hours during interdialytic and intradialytic periods, respectively.
 
@@ -1150,8 +1168,6 @@ The fractional removal of levetiracetam was 51 % during a typical 4-hour dialysi
 ## Hepatic impairment
 
 In  subjects  with  mild  and  moderate  hepatic  impairment,  there  was  no  relevant  modification  of  the clearance  of  levetiracetam.  In  most  subjects  with  severe  hepatic  impairment,  the  clearance  of levetiracetam was reduced by more than 50 % due to a concomitant renal impairment (see section 4.2).
-
-<div style=\"page-break-after: always\"></div>
 
 ## Paediatric population
 
@@ -1177,13 +1193,13 @@ Adverse effects not observed in clinical studies but seen in the rat and to a le
 
 No adverse reactions on male or female fertility or reproduction performance were observed in rats at doses up to 1800 mg/kg/day (x 6 the MRHD on a mg/m2 or exposure basis) in parents and F1 generation.
 
+<div style=\"page-break-after: always\"></div>
+
 Two embryo-foetal development (EFD) studies were performed in rats at 400, 1200 and 3600 mg/kg/day. At 3600 mg/kg/day, in only one of the 2 EFD studies, there was a slight decrease in foetal weight associated with a marginal increase in skeletal variations/minor anomalies. There was no effect on embryomortality and no increased incidence of malformations. The NOAEL (No Observed Adverse Effect Level) was 3600 mg/kg/day for pregnant female rats (x 12 the MRHD on a mg/m2 basis) and 1200 mg/kg/day for fetuses.
 
 Four embryo-foetal development studies were performed in rabbits covering doses of 200, 600, 800, 1200 and 1800 mg/kg/day. The dose level of 1800 mg/kg/day induced a marked maternal toxicity and a decrease in foetal weight associated with increased incidence of fetuses with cardiovascular/skeletal anomalies. The NOAEL was &lt; 200 mg/kg/day for the dams and 200 mg/kg/day for the fetuses (equal to the MRHD on a mg/m2 basis).
 
-<div style=\"page-break-after: always\"></div>
-
-A peri- and post-natal development study was performed in rats with levetiracetam doses of 70, 350 and 1800 mg/kg/day. The NOAEL wa s ≥ 1800 mg/kg/day for the F0 females, and for the survival, growth and development of the F1 offspring up to weaning (x 6 the MRHD on a mg/m2 basis). Neonatal and juvenile animal studies in rats and dogs demonstrated that there were no adverse effects seen in any of the standard developmental or maturation endpoints at doses up to 1800 mg/kg/day (x 6 - 17 the MRHD on a mg/m2 basis).
+A peri- and post-natal development study was performed in rats with levetiracetam doses of 70, 350 and 1800 mg/kg/day. The NOAEL was ≥ 1800 mg/kg/day for the F0 females, and for the survival, growth and development of the F1 offspring up to weaning (x 6 the MRHD on a mg/m2 basis). Neonatal and juvenile animal studies in rats and dogs demonstrated that there were no adverse effects seen in any of the standard developmental or maturation endpoints at doses up to 1800 mg/kg/day (x 6 - 17 the MRHD on a mg/m2 basis).
 
 ## 6. PHARMACEUTICAL PARTICULARS
 
@@ -1209,7 +1225,11 @@ Keep the bottle in the outer carton in order to protect from light.
 
 150 ml brown glass bottle (type III) with a white child resistant closure (polypropylene) in a cardboard box also containing a 3 ml graduated oral syringe (polypropylene, polyethylene) and an adaptor for the syringe (polyethylene).
 
-150 ml brown glass bottle (type III) with a white child resistant closure (polypropylene) in a cardboard box also containing a 1 ml graduated oral syringe (polypropylene, polyethylene) and an adaptor for the syringe (polyethylene).
+<div style=\"page-break-after: always\"></div>
+
+150 ml brown glass bottle (type III) with a white child resistant closure (polypropylene) in a cardboard box also containing a 1 ml graduated oral syringe (polypropylene, polyethylene) and an adaptor for the
+
+syringe (polyethylene).
 
 Not all pack sizes may be marketed.
 
@@ -1217,15 +1237,17 @@ Not all pack sizes may be marketed.
 
 Any unused medicinal product or waste material should be disposed of in accordance with local requirements.
 
-## 7. MARKETING AUTHORISATION HOLDER
+7.
 
-<div style=\"page-break-after: always\"></div>
+MARKETING AUTHORISATION HOLDER
 
 ratiopharm GmbH Graf-Arco-Straße 3 89079 Ulm Germany info@ratiopharm.de
 
 ## 8. MARKETING AUTHORISATION NUMBER(S)
 
-EU/1/11/702/001 EU/1/11/702/002
+EU/1/11/702/001
+
+EU/1/11/702/002
 
 EU/1/11/702/003
 
@@ -1237,7 +1259,11 @@ Date of latest renewal: 28 April 2016
 
 ## 10. DATE OF REVISION OF THE TEXT
 
-Detailed information on this medicinal product is available on the website of the European Medicines Agency https://www.ema.europa.eu.
+Detailed information on this medicinal product is available on the website of the European Medicines
+
+Agency https://www.ema.europa.eu.
+
+38
 
 <div style=\"page-break-after: always\"></div>
 
@@ -1449,7 +1475,7 @@ See outer carton
 
 2D barcode carrying the unique identifier included.
 
-| 18.   | UNIQUE IDENTIFIER -HUMAN READABLE DATA   |
+| 18.   | UNIQUE IDENTIFIER - HUMANREADABLE DATA   |
 |-------|------------------------------------------|
 
 PC: SN:
@@ -1643,7 +1669,8 @@ Levetiracetam ratiopharm 500 mg
 
 2D barcode carrying the unique identifier included.
 
-## 18. UNIQUE IDENTIFIER - HUMAN READABLE DATA
+| 18.   | UNIQUE IDENTIFIER - HUMANREADABLE DATA   |
+|-------|------------------------------------------|
 
 PC:
 
@@ -1697,37 +1724,36 @@ See outer carton
 
 <div style=\"page-break-after: always\"></div>
 
-## 10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
+| 10.   | SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS   |
+|-------|-----------------------------------------------------------------|
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
-ratiopharm GmbH Graf-Arco-Straße 3 89079 Ulm Germany
+ratiopharm GmbH Graf-Arco-Straße 3 89079 Ulm Germany info@ratiopharm.de
 
-info@ratiopharm.de
-
-## 12. MARKETING AUTHORISATION NUMBER(S)
+| 12. MARKETING AUTHORISATION NUMBER(S)   |
+|-----------------------------------------|
 
 EU/1/11/702/016
 
 EU/1/11/702/017
 
-## 13. BATCH NUMBER
+| 13.   | BATCH NUMBER   |
+|-------|----------------|
 
 Lot
 
 See outer carton
 
 14. GENERAL CLASSIFICATION FOR SUPPLY
-
 15. INSTRUCTIONS ON USE
-
 16. INFORMATION IN BRAILLE
-
 17. UNIQUE IDENTIFIER - 2D BARCODE
 
 2D barcode carrying the unique identifier included.
 
-## 18. UNIQUE IDENTIFIER - HUMAN READABLE DATA
+| 18.   | UNIQUE IDENTIFIER - HUMANREADABLE DATA   |
+|-------|------------------------------------------|
 
 PC: SN:
 
@@ -2293,7 +2319,7 @@ See outer carton
 
 2D barcode carrying the unique identifier included.
 
-| 18.   | UNIQUE IDENTIFIER - HUMANREADABLE DATA   |
+| 18.   | UNIQUE IDENTIFIER -HUMAN READABLE DATA   |
 |-------|------------------------------------------|
 
 PC: SN:
@@ -2449,8 +2475,6 @@ Use the 10 ml syringe included in the package.
 
 10 ml
 
-4+ years
-
 To take as follows:
 
 [Box for the prescription dose]
@@ -2460,6 +2484,8 @@ To take as follows:
 Keep out of the sight and reach of children.
 
 ## 7. OTHER SPECIAL WARNING(S), IF NECESSARY
+
+4+ years
 
 ## 8. EXPIRY DATE
 
@@ -2473,7 +2499,7 @@ First Opening:
 
 Keep the bottle in the outer carton in order to protect from light.
 
-10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
+## 10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
@@ -2508,15 +2534,15 @@ Levetiracetam ratiopharm 100 mg/ml
 
 PC: SN: NN:
 
-<div style=\"page-break-after: always\"></div>
-
 ## PARTICULARS TO APPEAR ON THE IMMEDIATE PACKAGING
 
 Bottle label - 300 ml (10 ml syringe)
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
-Levetiracetam ratiopharm 100 mg/ml oral solution levetiracetam
+Levetiracetam ratiopharm 100 mg/ml oral solution
+
+levetiracetam
 
 For adults and children aged 4 years and older.
 
@@ -2559,6 +2585,8 @@ Keep out of the sight and reach of children.
 ## 7. OTHER SPECIAL WARNING(S), IF NECESSARY
 
 ## 8. EXPIRY DATE
+
+<div style=\"page-break-after: always\"></div>
 
 <div style=\"page-break-after: always\"></div>
 
@@ -2666,9 +2694,7 @@ Keep out of the sight and reach of children.
 
 EXP
 
-Do not use after 4 months of first opening the bottle.
-
-First Opening:
+Do not use after 4 months of first opening the bottle. First Opening:
 
 ## 9. SPECIAL STORAGE CONDITIONS
 
@@ -2771,7 +2797,7 @@ First Opening:
 
 Keep the bottle in the outer carton in order to protect from light.
 
-10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
+## 10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
@@ -2970,7 +2996,7 @@ First Opening:
 
 Keep the bottle in the outer carton in order to protect from light.
 
-## 10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
+10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
@@ -3088,17 +3114,19 @@ If you are pregnant or breast-feeding think you may be pregnant or are planning 
 
 You should not stop your treatment without discussing this with your doctor.
 
-A risk of birth defects for your unborn child cannot be completely excluded. Breast-feeding is not recommended during treatment.
+A risk of birth defects for your unborn child cannot be completely excluded. Two studies do not suggest an increased risk of autism or intellectual disability in children born to mothers treated with levetiracetam during pregnancy. However, the available data regarding the impact of levetiracetam on neurodevelopment in children is limited.
+
+Breast-feeding is not recommended during treatment.
 
 ## Driving and using machines
 
 Levetiracetam ratiopharm may impair your ability to drive or operate any tools or machinery, as it may make you feel sleepy. This is more likely at the beginning of treatment or after an increase in the dose. You should not drive or use machines until it is established that your ability to perform such activities is not affected.
 
+<div style=\"page-break-after: always\"></div>
+
 ## 3. How to take Levetiracetam ratiopharm
 
 Always take this medicine exactly as your doctor or pharmacist has told you. Check with your doctor or pharmacist if you are not sure.
-
-<div style=\"page-break-after: always\"></div>
 
 Take the number of tablets following your doctor's instructions.
 
@@ -3106,9 +3134,9 @@ Levetiracetam ratiopharm must be taken twice a day, once in the morning and once
 
 ## Adjunctive Therapy and monotherapy (from 16 years of age)
 
-## •
+- Adults (≥18 years)
 
-Adults (≥18 ye ars) and adolescents (12 to 17 years) weighing 50 kg or more: Recommended dose: between 1000 mg and 3000 mg each day. When you will first start taking Levetiracetam ratiopharm, your doctor will prescribe you a lower dose during 2 weeks before giving you the lowest daily dose. Example: if your daily dose is intended to be 1000 mg, your reduced starting dose is 1 tablet of
+and adolescents (12 to 17 years) weighing 50 kg or more: Recommended dose: between 1000 mg and 3000 mg each day. When you will first start taking Levetiracetam ratiopharm, your doctor will prescribe you a lower dose during 2 weeks before giving you the lowest daily dose. Example: if your daily dose is intended to be 1000 mg, your reduced starting dose is 1 tablet of
 
 250 mg in the morning and 1 tablet of 250 mg in the evening, and the dose will be gradually incremented to reach 1000 mg daily after 2 weeks.
 
@@ -3137,15 +3165,17 @@ Contact your doctor if you took more tablets than you should. Your doctor will e
 
 ## If you forget to take Levetiracetam ratiopharm
 
-Contact your doctor if you have missed one or more doses. Do not take a double dose to make up for a forgotten tablet.
+Contact your doctor if you have missed one or more doses.
+
+Do not take a double dose to make up for a forgotten tablet.
 
 ## If you stop taking Levetiracetam ratiopharm
 
 If stopping treatment, Levetiracetam ratiopharm should be discontinued gradually to avoid an increase of seizures. Should your doctor decide to stop your Levetiracetam ratiopharm treatment, he/she will instruct you about the gradual withdrawal of Levetiracetam ratiopharm.
 
-If you have any further questions on the use of this medicine, ask your doctor or pharmacist.
-
 <div style=\"page-break-after: always\"></div>
+
+If you have any further questions on the use of this medicine, ask your doctor or pharmacist.
 
 ## 4. Possible side effects
 
@@ -3185,13 +3215,13 @@ The most frequently reported side effects are nasopharyngitis, somnolence (sleep
 - decreased number of blood platelets, decreased number of white blood cells;
 - weight decrease, weight increase;
 - suicide attempt and suicidal ideation, mental disorder, abnormal behaviour, hallucination, anger, confusion, panic attack, emotional instability/mood swings, agitation;
+
+<div style=\"page-break-after: always\"></div>
+
 - amnesia (loss of memory), memory impairment (forgetfulness), abnormal coordination/ataxia (impaired coordinated movements), paraesthesia (tingling), disturbance in attention (loss of concentration);
 - diplopia (double vision), vision blurred;
 - elevated/abnormal values in a liver function test;
 - hair loss, eczema, pruritus;
-
-<div style=\"page-break-after: always\"></div>
-
 - muscle weakness, myalgia (muscle pain);
 - injury.
 
@@ -3215,7 +3245,7 @@ The most frequently reported side effects are nasopharyngitis, somnolence (sleep
 - limp or difficulty walking;
 - combination of fever, muscle stiffness, unstable blood pressure and heart rate, confusion, low level of consciousness (may be signs of a disorder called neuroleptic malignant syndrome ). Prevalence is significantly higher in Japanese patients when compared to non-Japanese patients.
 
-Very rare : may affect up to 1 in 10000 people
+## Very rare : may affect up to 1 in 10000 people
 
 - repeated unwanted thoughts or sensations or the urge to do something over and over again (Obsessive Compulsive Disorder).
 
@@ -3227,13 +3257,15 @@ If you get any side effects, talk to your doctor or pharmacist. This includes an
 
 Keep this medicine out of the sight and reach of children.
 
-Do not use this medicine after the expiry date stated on the carton box and blister after EXP. The expiry date refers to the last day of the month.
+Do not use this medicine after the expiry date stated on the carton box and blister after EXP.
+
+<div style=\"page-break-after: always\"></div>
+
+The expiry date refers to the last day of the month.
 
 This medicine does not require any special storage conditions.
 
 Do not throw away any medicines via wastewater or household waste. Ask your pharmacist how to throw away medicines you no longer use. These measures will help protect the environment.
-
-<div style=\"page-break-after: always\"></div>
 
 ## 6. Contents of the pack and other information
 
@@ -3241,9 +3273,15 @@ Do not throw away any medicines via wastewater or household waste. Ask your phar
 
 The active substance is called levetiracetam.
 
-One film-coated tablet of Levetiracetam ratiopharm 250 mg contains 250 mg levetiracetam. One film-coated tablet of Levetiracetam ratiopharm 500 mg contains 500 mg levetiracetam. One film-coated tablet of Levetiracetam ratiopharm 750 mg contains 750 mg levetiracetam. One film-coated tablet of Levetiracetam ratiopharm 1000 mg contains 1000 mg levetiracetam.
+One film-coated tablet of Levetiracetam ratiopharm 250 mg contains 250 mg levetiracetam.
 
-## The other ingredients are:
+One film-coated tablet of Levetiracetam ratiopharm 500 mg contains 500 mg levetiracetam.
+
+One film-coated tablet of Levetiracetam ratiopharm 750 mg contains 750 mg levetiracetam.
+
+One film-coated tablet of Levetiracetam ratiopharm 1000 mg contains 1000 mg levetiracetam.
+
+The other ingredients are:
 
 ## Tablet core:
 
@@ -3281,13 +3319,13 @@ Film-coated tablets are yellow, oval and scored on one side and are supplied in 
 
 Film-coated tablets are light red coloured, oblong and scored on both sides and are supplied in packs of 20, 30, 50, 60, 80 or 100 film-coated tablets or multipacks of 200 (2 packs of 100) film-coated tablets.
 
+<div style=\"page-break-after: always\"></div>
+
 ## Levetiracetam ratiopharm 1000 mg
 
 Film-coated tablets are white, oblong and scored on both sides and are supplied in packs of 10, 20, 30, 50, 60 or 100 film-coated tablets or multipacks of 200 (2 packs of 100) film-coated tablets.
 
 The tablets can be divided into equal halves.
-
-<div style=\"page-break-after: always\"></div>
 
 Not all pack sizes may be marketed.
 
@@ -3347,14 +3385,6 @@ TEVA HELLAS Α.Ε.
 
 Teva Pharma, S.L.U.
 
-Tel: +34 913873280
-
-## France
-
-Teva Santé
-
-Tél: +33 155917800
-
 ## Lietuva
 
 UAB Teva Baltics
@@ -3373,11 +3403,11 @@ Tel.: +36 12886400
 
 ## Malta
 
-Teva Pharmaceuticals Ireland
+TEVA HELLAS Α.Ε.
 
-L-Irlanda
+ilGreċja
 
-Tel: +44 2075407117
+Tel: +30 2118805000
 
 ## Nederland
 
@@ -3393,13 +3423,65 @@ Tlf: +47 66775590
 
 ## Österreich
 
-ratiopharm Arzneimittel Vertriebs-GmbH
-
-Tel: +43 1970070
+ratiopharm Arzneimittel Vertriebs-GmbH Tel: +43 1970070
 
 ## Polska
 
 Teva Pharmaceuticals Polska Sp. z o.o.
+
+<div style=\"page-break-after: always\"></div>
+
+Tel: +34 915359180
+
+## France
+
+Teva Santé
+
+Tél: +33 155917800
+
+## Hrvatska
+
+Pliva Hrvatska d.o.o.
+
+Tel: +385 13720000
+
+## Ireland
+
+Teva Pharmaceuticals Ireland
+
+Tel: +44 2075407117
+
+## Ísland
+
+Teva Pharma Iceland ehf.
+
+Sími: +354 5503300
+
+## Italia
+
+Teva Italia S.r.l.
+
+Tel: +39 028917981
+
+## Κύπρος
+
+TEVA HELLAS Α.Ε.
+
+Ελλάδα
+
+Τηλ: +30 21 18805000
+
+## Latvija
+
+UAB Teva Baltics filiāle Latvijā
+
+Tel: +371 67323666
+
+## This leaflet was last revised in {month/YYYY}.
+
+Detailed information on this medicine is available on the European Medicines Agency web site:
+
+https://www.ema.europa.eu
 
 Tel.: +48 223459300
 
@@ -3411,23 +3493,11 @@ Farmacêuticos, Lda.
 
 Tel: +351 214767550
 
-## Hrvatska
-
-Pliva Hrvatska d.o.o.
-
-Tel: +385 13720000
-
 ## România
 
 Teva Pharmaceuticals S.R.L.
 
 Tel: +40 212306524
-
-## Ireland
-
-Teva Pharmaceuticals Ireland
-
-Tel: +44 2075407117
 
 ## Slovenija
 
@@ -3435,23 +3505,11 @@ Pliva Ljubljana d.o.o.
 
 Tel: +386 15890390
 
-## Ísland
-
-Teva Pharma Iceland ehf.
-
-Sími: +354 5503300
-
 ## Slovenská republika
 
 TEVA Pharmaceuticals Slovakia s.r.o.
 
 Tel: +421 257267911
-
-## Italia
-
-Teva Italia S.r.l.
-
-Tel: +39 028917981
 
 ## Suomi/Finland
 
@@ -3459,31 +3517,11 @@ Teva Finland Oy
 
 Puh/Tel: +358 201805900
 
-## Κύπρος
-
-TEVA HELLAS Α.Ε.
-
-Ελλάδα
-
-Τηλ: +30 21 18805000
-
 ## Sverige
 
 Teva Sweden AB
 
 Tel: +46 42121100
-
-## Latvija
-
-UAB Teva Baltics filiāle Latvijā
-
-Tel: +371 67323666
-
-## This leaflet was last revised in {month/YYYY}.
-
-Detailed information on this medicine is available on the European Medicines Agency web site: https://www.ema.europa.eu
-
-<div style=\"page-break-after: always\"></div>
 
 <div style=\"page-break-after: always\"></div>
 
@@ -3542,12 +3580,9 @@ Talk to your doctor before taking Levetiracetam ratiopharm
 Tell your doctor or pharmacist if any of the following side effects gets serious or last longer than a few days:
 
 - Abnormal thoughts, feeling irritable or reacting more aggressively than usually, or if you or your family and friends notice important changes in mood or behaviour.
-- •
 - Aggravation of epilepsy:
-
-Your seizures may rarely become worse or happen more often, mainly during the first month after the start of the treatment or increase of the dose.
-
-In a very rare form of early-onset epilepsy (epilepsy associated with SCN8A mutations) that causes multiple types of seizures and loss of skills you may notice that the seizures remain present or are becoming worse during your treatment.
+- Your seizures may rarely become worse or happen more often, mainly during the first month after the start of the treatment or increase of the dose.
+- In a very rare form of early-onset epilepsy (epilepsy associated with SCN8A mutations) that causes multiple types of seizures and loss of skills you may notice that the seizures remain present or are becoming worse during your treatment.
 
 If you experience any of these new symptoms while taking Levetiracetam ratiopharm, see a doctor as soon as possible.
 
@@ -3567,7 +3602,7 @@ If you are pregnant or breast-feeding think you may be pregnant, or are planning
 
 You should not stop your treatment without discussing this with your doctor.
 
-A risk of birth defects for your unborn child cannot be completely excluded.
+A risk of birth defects for your unborn child cannot be completely excluded. Two studies do not suggest an increased risk of autism or intellectual disability in children born to mothers treated with levetiracetam during pregnancy. However, the available data regarding the impact of levetiracetam on neurodevelopment in children is limited.
 
 Breast-feeding is not recommended during treatment.
 
@@ -3581,9 +3616,9 @@ Levetiracetam ratiopharm oral solution includes methyl parahydroxybenzoate (E218
 
 This medicine contains 1.2 mmol (or 46.65 mg) potassium per 15 ml. To be taken into consideration by patients with reduced kidney function or patients on a controlled potassium diet.
 
-This medicine contains less than 1 mmol sodium (23 mg) per 15 ml that is to say essentially 'sodiumfree'.
-
 <div style=\"page-break-after: always\"></div>
+
+This medicine contains less than 1 mmol sodium (23 mg) per 15 ml that is to say essentially 'sodiumfree'.
 
 ## 3. How to take Levetiracetam ratiopharm
 
@@ -3637,11 +3672,11 @@ Recommended: Levetiracetam ratiopharm is taken twice daily, in two equally divid
 
 For infants 1 month to less than 6 months, measure the appropriate dosage using the 1 ml syringe included in the package.
 
+<div style=\"page-break-after: always\"></div>
+
 Recommended dose: Levetiracetam ratiopharm is taken twice daily, in two equally divided doses, each individual dose being measured between 0.07 ml (7 mg) and 0.21 ml (21 mg), per kg bodyweight of the infant. (see table below for dose examples).
 
 ## Dose in infants (1 month to less than 6 months):
-
-<div style=\"page-break-after: always\"></div>
 
 | Weight   | Starting dose: 0.07 ml/kg twice daily   | Maximum dose: 0.21 ml/kg twice daily   |
 |----------|-----------------------------------------|----------------------------------------|
@@ -3659,8 +3694,20 @@ After measuring the correct dose with an appropriate syringe, Levetiracetam rati
 - Open the bottle: press the cap and turn it anticlockwise.
 - Take the syringe and put it in the opening of the bottle. For this the piston must be completely pushed into the syringe (figure  )
 - Hold bottle and syringe securely tight. Then turn bottle and syringe upside down (figure  ).
+
+<!-- image -->
+
+<!-- image -->
+
+
+
 - Fill the syringe with the liquid by pulling the piston to the graduation mark corresponding to the quantity in millilitre (ml) prescribed by your doctor.
 - You can read the corresponding millilitre at the beginning of the thicker part of the piston figure  ).
+
+<!-- image -->
+
+<div style=\"page-break-after: always\"></div>
+
 - If bubbles occur push the piston into the syringe again and fill the syringe once more slowly.
 - Move bottle and the filled syringe back in starting position.
 - Remove the filled syringe from the bottle (figure  ).
@@ -3669,18 +3716,14 @@ After measuring the correct dose with an appropriate syringe, Levetiracetam rati
 
 <!-- image -->
 
-<!-- image -->
-
-<div style=\"page-break-after: always\"></div>
-
-<!-- image -->
-
-<!-- image -->
+
 
 - Empty the contents of the syringe in a glass of water by pushing the piston into the syringe (figure  ).
 - Close the bottle with the plastic screw cap after every usage.
 - Drink the whole contents of the glass.
 - Wash the syringe afterwards with clear water by filling and emptying the syringe repeatedly.
+
+<!-- image -->
 
 <!-- image -->
 
@@ -3709,9 +3752,9 @@ If you have any further questions on the use of this medicine, ask your doctor o
 
 Like all medicines, this medicine can cause side effects, although not everybody gets them.
 
-Tell your doctor immediately, or go to your nearest emergency department, if you experience:
-
 <div style=\"page-break-after: always\"></div>
+
+## Tell your doctor immediately, or go to your nearest emergency department, if you experience:
 
 - weakness, feel light-headed or dizzy or have difficulty breathing, as these may be signs of a serious allergic (anaphylactic) reaction
 - swelling of the face, lips, tongue and throat (Quincke's oedema)
@@ -3752,12 +3795,11 @@ The most frequently reported adverse reactions were nasopharyngitis, somnolence 
 - muscle weakness, myalgia (muscle pain);
 - injury.
 
-## Rare: may affect up to 1 in 1000 people
-
-- infection;
-
 <div style=\"page-break-after: always\"></div>
 
+Rare: may affect up to 1 in 1000 people
+
+- infection;
 - decreased number of all blood cell types;
 - severe allergic reactions (DRESS, anaphylactic reaction [severe and important allergic reaction], Quincke's oedema [swelling of the face, lips, tongue and throat]);
 - decreased blood sodium concentration;
@@ -3774,9 +3816,10 @@ The most frequently reported adverse reactions were nasopharyngitis, somnolence 
 - rhabdomyolysis (breakdown of muscle tissue) and associated blood creatine phosphokinase increase. Prevalence is significantly higher in Japanese patients when compared to non-Japanese patients;
 - limp or difficulty walking;
 - combination of fever, muscle stiffness, unstable blood pressure and heart rate, confusion, low level of consciousness (may be signs of a disorder called neuroleptic malignant syndrome ). Prevalence is significantly higher in Japanese patients when compared to non-Japanese patients.
-- repeated unwanted thoughts or sensations or the urge to do something over and over again (Obsessive Compulsive Disorder).
 
-Very rare : may affect up to 1 in 10000 people
+## Very rare : may affect up to 1 in 10000 people
+
+- repeated unwanted thoughts or sensations or the urge to do something over and over again (Obsessive Compulsive Disorder).
 
 ## Reporting of side effects
 
@@ -3794,9 +3837,9 @@ Do not use after 4 months of first opening the bottle.
 
 Do not throw away any medicines via wastewater or household waste. Ask your pharmacist how to throw away medicines you no longer use. These measures will help protect the environment.
 
-## 6. Contents of the pack and other information
-
 <div style=\"page-break-after: always\"></div>
+
+## 6. Contents of the pack and other information
 
 ## What Levetiracetam ratiopharm contains
 
@@ -3824,13 +3867,17 @@ Merckle GmbH Ludwig-Merckle-Str. 3 89143 Blaubeuren Germany
 
 For any information about this medicine, please contact the local representative of the Marketing Authorisation Holder:
 
-## Lietuva
-
 ## België/Belgique/Belgien
 
-Teva Pharma Belgium N.V./S.A./AG Tél/Tel: +32 38207373
+Teva Pharma Belgium N.V./S.A./AG
 
-UAB Teva Baltics Tel: +370 52660203
+Tél/Tel: +32 38207373
+
+## Lietuva
+
+UAB Teva Baltics
+
+Tel: +370 52660203
 
 ## България
 
@@ -3842,9 +3889,7 @@ UAB Teva Baltics Tel: +370 52660203
 
 ## Luxembourg/Luxemburg
 
-ratiopharm GmbH
-
-Allemagne/Deutschland Tél/Tel: +49 73140202
+ratiopharm GmbH Allemagne/Deutschland Tél/Tel: +49 73140202
 
 ## Česká republika
 
@@ -3866,19 +3911,21 @@ Tlf.: +45 44985511
 
 ## Malta
 
-Teva Pharmaceuticals Ireland L-Irlanda
+TEVA HELLAS Α.Ε. il- Greċja
 
-Tel: +44 2075407117
+Tel: +30 2118805000
+
+<div style=\"page-break-after: always\"></div>
 
 ## Deutschland
 
-ratiopharm GmbH
-
 ## Nederland
 
-Teva Nederland B.V.
+ratiopharm GmbH
 
 Tel: +49 73140202
+
+Teva Nederland B.V.
 
 Tel: +31 8000228400
 
@@ -3898,7 +3945,9 @@ Tlf: +47 66775590
 
 TEVA HELLAS Α.Ε.
 
-Τηλ: +30 21 18805000
+Τηλ: +30
+
+2118805000
 
 ## Österreich
 
@@ -3910,7 +3959,7 @@ Tel: +43 1970070
 
 Teva Pharma, S.L.U.
 
-Tel: +34 913873280
+Tel: +34 915359180
 
 ## Polska
 
@@ -4003,5 +4052,3 @@ Tel: +371 67323666
 ## This leaflet was last revised in {month/YYYY}
 
 Detailed information on this medicine is available on the European Medicines Agency web site: https://www.ema.europa.eu
-
-<div style=\"page-break-after: always\"></div>

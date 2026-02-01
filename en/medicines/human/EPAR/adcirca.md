@@ -1,18 +1,18 @@
 ---
-document_datetime: 2025-12-29 13:19:01
+document_datetime: 2026-01-27 17:25:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/adcirca.html
 document_name: adcirca.html
 version: success
-processing_time: 0.1000292
-conversion_datetime: 2025-12-30 00:16:45.110853
+processing_time: 0.1442922
+conversion_datetime: 2026-02-01 20:32:23.608246
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.66.0
-  docling-core: 2.57.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.11.0
+  docling-jobkit: 1.9.1
+  docling: 2.71.0
+  docling-core: 2.62.0
+  docling-ibm-models: 3.11.0
+  docling-parse: 4.7.3
   python: cpython-313 (3.13.11)
   plaform: macOS-26.2-arm64-arm-64bit-Mach-O
 ---
@@ -26,8 +26,6 @@ This medicine is authorised for use in the European Union
 
 tadalafil Medicine Human Authorised
 
-On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
-
 Page contents
 
 ## Page contents
@@ -38,6 +36,7 @@ Page contents
 - [Authorisation details](#authorisation-details)
 - [Assessment history](#assessment-history)
 - [News on Adcirca (previously Tadalafil Lilly)](#news-on)
+- [Product information - with tracked changes](#product-information-with-tracked-changes-83201)
 - [More information on Adcirca (previously Tadalafil Lilly)](#related-medicines)
 - [Topics](#topics)
 
@@ -109,7 +108,7 @@ English (EN) (150.72 KB - PDF)
 
 [View](/en/documents/overview/adcirca-epar-summary-public_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-204)
+[Other languages (22)](#file-language-dropdown-709)
 
 български (BG) (167.06 KB - PDF)
 
@@ -387,17 +386,17 @@ English (EN) (498.59 KB - PDF)
 
 Adcirca : EPAR - Product Information
 
-English (EN) (1.23 MB - PDF)
+English (EN) (959.41 KB - PDF)
 
 **First published:** 16/10/2008
 
-**Last updated:** 09/07/2024
+**Last updated:** 27/01/2026
 
 [View](/en/documents/product-information/adcirca-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-180)
+[Other languages (24)](#file-language-dropdown-996)
 
-български (BG) (1.34 MB - PDF)
+български (BG) (1.32 MB - PDF)
 
 **First published:**
 
@@ -405,11 +404,11 @@ English (EN) (1.23 MB - PDF)
 
 **Last updated:**
 
-09/07/2024
+27/01/2026
 
 [View](/bg/documents/product-information/adcirca-epar-product-information_bg.pdf)
 
-español (ES) (1.42 MB - PDF)
+español (ES) (1.32 MB - PDF)
 
 **First published:**
 
@@ -417,11 +416,11 @@ español (ES) (1.42 MB - PDF)
 
 **Last updated:**
 
-09/07/2024
+27/01/2026
 
 [View](/es/documents/product-information/adcirca-epar-product-information_es.pdf)
 
-čeština (CS) (1.31 MB - PDF)
+čeština (CS) (1.33 MB - PDF)
 
 **First published:**
 
@@ -429,11 +428,11 @@ español (ES) (1.42 MB - PDF)
 
 **Last updated:**
 
-09/07/2024
+27/01/2026
 
 [View](/cs/documents/product-information/adcirca-epar-product-information_cs.pdf)
 
-dansk (DA) (873.7 KB - PDF)
+dansk (DA) (1.23 MB - PDF)
 
 **First published:**
 
@@ -441,11 +440,11 @@ dansk (DA) (873.7 KB - PDF)
 
 **Last updated:**
 
-09/07/2024
+27/01/2026
 
 [View](/da/documents/product-information/adcirca-epar-product-information_da.pdf)
 
-Deutsch (DE) (1.29 MB - PDF)
+Deutsch (DE) (1.32 MB - PDF)
 
 **First published:**
 
@@ -453,11 +452,11 @@ Deutsch (DE) (1.29 MB - PDF)
 
 **Last updated:**
 
-09/07/2024
+27/01/2026
 
 [View](/de/documents/product-information/adcirca-epar-product-information_de.pdf)
 
-eesti keel (ET) (1.3 MB - PDF)
+eesti keel (ET) (1.28 MB - PDF)
 
 **First published:**
 
@@ -465,11 +464,11 @@ eesti keel (ET) (1.3 MB - PDF)
 
 **Last updated:**
 
-09/07/2024
+27/01/2026
 
 [View](/et/documents/product-information/adcirca-epar-product-information_et.pdf)
 
-ελληνικά (EL) (1.27 MB - PDF)
+ελληνικά (EL) (1.09 MB - PDF)
 
 **First published:**
 
@@ -477,11 +476,11 @@ eesti keel (ET) (1.3 MB - PDF)
 
 **Last updated:**
 
-09/07/2024
+27/01/2026
 
 [View](/el/documents/product-information/adcirca-epar-product-information_el.pdf)
 
-français (FR) (1.45 MB - PDF)
+français (FR) (1.28 MB - PDF)
 
 **First published:**
 
@@ -489,11 +488,11 @@ français (FR) (1.45 MB - PDF)
 
 **Last updated:**
 
-09/07/2024
+27/01/2026
 
 [View](/fr/documents/product-information/adcirca-epar-product-information_fr.pdf)
 
-hrvatski (HR) (1.27 MB - PDF)
+hrvatski (HR) (1.26 MB - PDF)
 
 **First published:**
 
@@ -501,11 +500,11 @@ hrvatski (HR) (1.27 MB - PDF)
 
 **Last updated:**
 
-09/07/2024
+27/01/2026
 
 [View](/hr/documents/product-information/adcirca-epar-product-information_hr.pdf)
 
-íslenska (IS) (893.7 KB - PDF)
+íslenska (IS) (1.19 MB - PDF)
 
 **First published:**
 
@@ -513,11 +512,11 @@ hrvatski (HR) (1.27 MB - PDF)
 
 **Last updated:**
 
-09/07/2024
+27/01/2026
 
 [View](/is/documents/product-information/adcirca-epar-product-information_is.pdf)
 
-italiano (IT) (1.38 MB - PDF)
+italiano (IT) (2.61 MB - PDF)
 
 **First published:**
 
@@ -525,11 +524,11 @@ italiano (IT) (1.38 MB - PDF)
 
 **Last updated:**
 
-09/07/2024
+27/01/2026
 
 [View](/it/documents/product-information/adcirca-epar-product-information_it.pdf)
 
-latviešu valoda (LV) (1.36 MB - PDF)
+latviešu valoda (LV) (1.28 MB - PDF)
 
 **First published:**
 
@@ -537,11 +536,11 @@ latviešu valoda (LV) (1.36 MB - PDF)
 
 **Last updated:**
 
-09/07/2024
+27/01/2026
 
 [View](/lv/documents/product-information/adcirca-epar-product-information_lv.pdf)
 
-lietuvių kalba (LT) (1.27 MB - PDF)
+lietuvių kalba (LT) (1.3 MB - PDF)
 
 **First published:**
 
@@ -549,11 +548,11 @@ lietuvių kalba (LT) (1.27 MB - PDF)
 
 **Last updated:**
 
-09/07/2024
+27/01/2026
 
 [View](/lt/documents/product-information/adcirca-epar-product-information_lt.pdf)
 
-magyar (HU) (1022.54 KB - PDF)
+magyar (HU) (962.92 KB - PDF)
 
 **First published:**
 
@@ -561,11 +560,11 @@ magyar (HU) (1022.54 KB - PDF)
 
 **Last updated:**
 
-09/07/2024
+27/01/2026
 
 [View](/hu/documents/product-information/adcirca-epar-product-information_hu.pdf)
 
-Malti (MT) (1.24 MB - PDF)
+Malti (MT) (1.09 MB - PDF)
 
 **First published:**
 
@@ -573,11 +572,11 @@ Malti (MT) (1.24 MB - PDF)
 
 **Last updated:**
 
-09/07/2024
+27/01/2026
 
 [View](/mt/documents/product-information/adcirca-epar-product-information_mt.pdf)
 
-Nederlands (NL) (1.28 MB - PDF)
+Nederlands (NL) (1.19 MB - PDF)
 
 **First published:**
 
@@ -585,11 +584,11 @@ Nederlands (NL) (1.28 MB - PDF)
 
 **Last updated:**
 
-09/07/2024
+27/01/2026
 
 [View](/nl/documents/product-information/adcirca-epar-product-information_nl.pdf)
 
-norsk (NO) (1.27 MB - PDF)
+norsk (NO) (896.24 KB - PDF)
 
 **First published:**
 
@@ -597,11 +596,11 @@ norsk (NO) (1.27 MB - PDF)
 
 **Last updated:**
 
-09/07/2024
+27/01/2026
 
 [View](/no/documents/product-information/adcirca-epar-product-information_no.pdf)
 
-polski (PL) (1.37 MB - PDF)
+polski (PL) (1.38 MB - PDF)
 
 **First published:**
 
@@ -609,11 +608,11 @@ polski (PL) (1.37 MB - PDF)
 
 **Last updated:**
 
-09/07/2024
+27/01/2026
 
 [View](/pl/documents/product-information/adcirca-epar-product-information_pl.pdf)
 
-português (PT) (1.18 MB - PDF)
+português (PT) (1.23 MB - PDF)
 
 **First published:**
 
@@ -621,11 +620,11 @@ português (PT) (1.18 MB - PDF)
 
 **Last updated:**
 
-09/07/2024
+27/01/2026
 
 [View](/pt/documents/product-information/adcirca-epar-product-information_pt.pdf)
 
-română (RO) (1.22 MB - PDF)
+română (RO) (2.22 MB - PDF)
 
 **First published:**
 
@@ -633,11 +632,11 @@ română (RO) (1.22 MB - PDF)
 
 **Last updated:**
 
-09/07/2024
+27/01/2026
 
 [View](/ro/documents/product-information/adcirca-epar-product-information_ro.pdf)
 
-slovenčina (SK) (1.26 MB - PDF)
+slovenčina (SK) (1.28 MB - PDF)
 
 **First published:**
 
@@ -645,11 +644,11 @@ slovenčina (SK) (1.26 MB - PDF)
 
 **Last updated:**
 
-09/07/2024
+27/01/2026
 
 [View](/sk/documents/product-information/adcirca-epar-product-information_sk.pdf)
 
-slovenščina (SL) (1.24 MB - PDF)
+slovenščina (SL) (1.28 MB - PDF)
 
 **First published:**
 
@@ -657,11 +656,11 @@ slovenščina (SL) (1.24 MB - PDF)
 
 **Last updated:**
 
-09/07/2024
+27/01/2026
 
 [View](/sl/documents/product-information/adcirca-epar-product-information_sl.pdf)
 
-Suomi (FI) (1.2 MB - PDF)
+Suomi (FI) (1.18 MB - PDF)
 
 **First published:**
 
@@ -669,11 +668,11 @@ Suomi (FI) (1.2 MB - PDF)
 
 **Last updated:**
 
-09/07/2024
+27/01/2026
 
 [View](/fi/documents/product-information/adcirca-epar-product-information_fi.pdf)
 
-svenska (SV) (1.23 MB - PDF)
+svenska (SV) (862.09 KB - PDF)
 
 **First published:**
 
@@ -681,11 +680,11 @@ svenska (SV) (1.23 MB - PDF)
 
 **Last updated:**
 
-09/07/2024
+27/01/2026
 
 [View](/sv/documents/product-information/adcirca-epar-product-information_sv.pdf)
 
-**Latest procedure affecting product information:** IB/0038/G 04/07/2024
+**Latest procedure affecting product information:** VR/0000315293 27/01/2026
 
 icon globe
 
@@ -711,7 +710,7 @@ English (EN) (96.89 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/adcirca-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-657)
+[Other languages (24)](#file-language-dropdown-990)
 
 български (BG) (51.05 KB - PDF)
 
@@ -1025,7 +1024,7 @@ Eli Lilly Nederland B.V.
 
 Orteliuslaan 1000 3528 BD Utrecht Netherlands
 
-Opinion adopted 24/07/2008 Marketing authorisation issued 01/10/2008 Revision 18
+Opinion adopted 24/07/2008 Marketing authorisation issued 01/10/2008 Revision 19
 
 ## Assessment history
 
@@ -1037,13 +1036,21 @@ Collapse section
 
 Adcirca : EPAR - Procedural steps taken and scientific information after authorisation
 
+English (EN) (128.23 KB - PDF)
+
+**First published:** 27/01/2026
+
+[View](/en/documents/procedural-steps-after/adcirca-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf)
+
+Adcirca : EPAR - Procedural steps taken and scientific information after authorisation (archive)
+
 English (EN) (161.83 KB - PDF)
 
 **First published:** 22/01/2010
 
-**Last updated:** 09/07/2024
+**Last updated:** 27/01/2026
 
-[View](/en/documents/procedural-steps-after/adcirca-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf)
+[View](/en/documents/procedural-steps-after/adcirca-epar-procedural-steps-taken-scientific-information-after-authorisation-archive_en.pdf)
 
 Adcirca-H-C-1021-X-0035-G : EPAR - Assessment Report - Variation
 
@@ -1175,6 +1182,212 @@ English (EN) (32.22 KB - PDF)
 
 [Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 12-15 December 2022](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-12-15-december-2022) 16/12/2022
 
+#### Product information - with tracked changes
+
+The approved product information for this medicine is available below showing the changes since the previous procedure affecting the product information. The same document without tracked changes is above under 'Product information'.
+
+Adcirca : EPAR - Product information - tracked changes
+
+English (EN) (857.24 KB - DOCX)
+
+**First published:** 28/01/2026
+
+[View](/en/documents/product-information-tracked-changes/adcirca-epar-product-information-tracked-changes_en.docx)
+
+[Other languages (24)](#file-language-dropdown-495)
+
+български (BG) (638.07 KB - DOCX)
+
+**First published:**
+
+28/01/2026
+
+[View](/bg/documents/product-information-tracked-changes/adcirca-epar-product-information-tracked-changes_bg.docx)
+
+español (ES) (1.25 MB - DOC)
+
+**First published:**
+
+28/01/2026
+
+[View](/es/documents/product-information-tracked-changes/adcirca-epar-product-information-tracked-changes_es.doc)
+
+čeština (CS) (685.07 KB - DOCX)
+
+**First published:**
+
+28/01/2026
+
+[View](/cs/documents/product-information-tracked-changes/adcirca-epar-product-information-tracked-changes_cs.docx)
+
+dansk (DA) (1.17 MB - DOC)
+
+**First published:**
+
+28/01/2026
+
+[View](/da/documents/product-information-tracked-changes/adcirca-epar-product-information-tracked-changes_da.doc)
+
+Deutsch (DE) (691.66 KB - DOCX)
+
+**First published:**
+
+28/01/2026
+
+[View](/de/documents/product-information-tracked-changes/adcirca-epar-product-information-tracked-changes_de.docx)
+
+eesti keel (ET) (632.99 KB - DOCX)
+
+**First published:**
+
+28/01/2026
+
+[View](/et/documents/product-information-tracked-changes/adcirca-epar-product-information-tracked-changes_et.docx)
+
+ελληνικά (EL) (1.49 MB - DOC)
+
+**First published:**
+
+28/01/2026
+
+[View](/el/documents/product-information-tracked-changes/adcirca-epar-product-information-tracked-changes_el.doc)
+
+français (FR) (861.75 KB - DOCX)
+
+**First published:**
+
+28/01/2026
+
+[View](/fr/documents/product-information-tracked-changes/adcirca-epar-product-information-tracked-changes_fr.docx)
+
+hrvatski (HR) (1.36 MB - DOC)
+
+**First published:**
+
+28/01/2026
+
+[View](/hr/documents/product-information-tracked-changes/adcirca-epar-product-information-tracked-changes_hr.doc)
+
+íslenska (IS) (1.21 MB - DOC)
+
+**First published:**
+
+28/01/2026
+
+[View](/is/documents/product-information-tracked-changes/adcirca-epar-product-information-tracked-changes_is.doc)
+
+italiano (IT) (1.21 MB - DOC)
+
+**First published:**
+
+28/01/2026
+
+[View](/it/documents/product-information-tracked-changes/adcirca-epar-product-information-tracked-changes_it.doc)
+
+latviešu valoda (LV) (1.42 MB - DOC)
+
+**First published:**
+
+28/01/2026
+
+[View](/lv/documents/product-information-tracked-changes/adcirca-epar-product-information-tracked-changes_lv.doc)
+
+lietuvių kalba (LT) (798.9 KB - DOCX)
+
+**First published:**
+
+28/01/2026
+
+[View](/lt/documents/product-information-tracked-changes/adcirca-epar-product-information-tracked-changes_lt.docx)
+
+magyar (HU) (858.06 KB - DOCX)
+
+**First published:**
+
+28/01/2026
+
+[View](/hu/documents/product-information-tracked-changes/adcirca-epar-product-information-tracked-changes_hu.docx)
+
+Malti (MT) (696.72 KB - DOCX)
+
+**First published:**
+
+28/01/2026
+
+[View](/mt/documents/product-information-tracked-changes/adcirca-epar-product-information-tracked-changes_mt.docx)
+
+Nederlands (NL) (851.34 KB - DOCX)
+
+**First published:**
+
+28/01/2026
+
+[View](/nl/documents/product-information-tracked-changes/adcirca-epar-product-information-tracked-changes_nl.docx)
+
+norsk (NO) (653.55 KB - DOCX)
+
+**First published:**
+
+28/01/2026
+
+[View](/no/documents/product-information-tracked-changes/adcirca-epar-product-information-tracked-changes_no.docx)
+
+polski (PL) (682.6 KB - DOCX)
+
+**First published:**
+
+28/01/2026
+
+[View](/pl/documents/product-information-tracked-changes/adcirca-epar-product-information-tracked-changes_pl.docx)
+
+português (PT) (840.28 KB - DOCX)
+
+**First published:**
+
+28/01/2026
+
+[View](/pt/documents/product-information-tracked-changes/adcirca-epar-product-information-tracked-changes_pt.docx)
+
+română (RO) (1.31 MB - DOC)
+
+**First published:**
+
+28/01/2026
+
+[View](/ro/documents/product-information-tracked-changes/adcirca-epar-product-information-tracked-changes_ro.doc)
+
+slovenčina (SK) (843.77 KB - DOCX)
+
+**First published:**
+
+28/01/2026
+
+[View](/sk/documents/product-information-tracked-changes/adcirca-epar-product-information-tracked-changes_sk.docx)
+
+slovenščina (SL) (857.72 KB - DOCX)
+
+**First published:**
+
+28/01/2026
+
+[View](/sl/documents/product-information-tracked-changes/adcirca-epar-product-information-tracked-changes_sl.docx)
+
+Suomi (FI) (664.57 KB - DOCX)
+
+**First published:**
+
+28/01/2026
+
+[View](/fi/documents/product-information-tracked-changes/adcirca-epar-product-information-tracked-changes_fi.docx)
+
+svenska (SV) (1.13 MB - DOC)
+
+**First published:**
+
+28/01/2026
+
+[View](/sv/documents/product-information-tracked-changes/adcirca-epar-product-information-tracked-changes_sv.doc)
+
 #### More information on Adcirca (previously Tadalafil Lilly)
 
 - [EMEA-000452-PIP02-10-M06 - paediatric investigation plan](/en/medicines/human/paediatric-investigation-plans/emea-000452-pip02-10-m06)
@@ -1183,7 +1396,7 @@ English (EN) (32.22 KB - PDF)
 
 - [Medicines](https://www.ema.europa.eu/en/search?f%5B0%5D=ema_search_topics%3A61)
 
-**This page was last updated on** 09/07/2024
+**This page was last updated on** 27/01/2026
 
 ## Share this page
 

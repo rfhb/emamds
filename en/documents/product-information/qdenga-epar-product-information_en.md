@@ -1,18 +1,18 @@
 ---
-document_datetime: 2025-08-19 12:13:42
+document_datetime: 2026-01-30 08:28:01
 document_pages: 49
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/qdenga-epar-product-information_en.pdf
 document_name: qdenga-epar-product-information_en.pdf
 version: success
-processing_time: 12.5780177
-conversion_datetime: 2025-12-27 17:27:23.136798
+processing_time: 12.5486955
+conversion_datetime: 2026-02-01 20:29:28.472453
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.66.0
-  docling-core: 2.57.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.11.0
+  docling-jobkit: 1.9.1
+  docling: 2.71.0
+  docling-core: 2.62.0
+  docling-ibm-models: 3.11.0
+  docling-parse: 4.7.3
   python: cpython-313 (3.13.11)
   plaform: macOS-26.2-arm64-arm-64bit-Mach-O
 ---
@@ -100,11 +100,11 @@ For instructions on reconstitution of Qdenga before administration, see section 
 
 ## 4.3 Contraindications
 
--  Hypersensitivity to the active substances or to any of the excipients listed in section 6.1 or hypersensitivity to a previous dose of Qdenga.
--  Individuals with congenital or acquired immune deficiency, including those receiving immunosuppressive therapies such as high doses of systemic corticosteroids (e.g. 20 mg/day or 2 mg/kg body weight/day of prednisone for 2 weeks or more) within 4 weeks prior to vaccination, or any other medicinal product with known immunosuppressive properties including chemotherapy. The time to avoid vaccination after immunosuppressive treatment should be considered on an individual basis.
--  Individuals with symptomatic HIV infection or with asymptomatic HIV infection when accompanied by evidence of impaired immune function.
--  Pregnant women (see section 4.6).
--  Breast-feeding women (see section 4.6).
+- Hypersensitivity to the active substances or to any of the excipients listed in section 6.1 or hypersensitivity to a previous dose of Qdenga.
+- Individuals with congenital or acquired immune deficiency, including those receiving immunosuppressive therapies such as high doses of systemic corticosteroids (e.g. 20 mg/day or 2 mg/kg body weight/day of prednisone for 2 weeks or more) within 4 weeks prior to vaccination, or any other medicinal product with known immunosuppressive properties including chemotherapy. The time to avoid vaccination after immunosuppressive treatment should be considered on an individual basis.
+- Individuals with symptomatic HIV infection or with asymptomatic HIV infection when accompanied by evidence of impaired immune function.
+- Pregnant women (see section 4.6).
+- Breast-feeding women (see section 4.6).
 
 <div style=\"page-break-after: always\"></div>
 
@@ -265,15 +265,15 @@ Table  1:  Adverse  reactions  from  clinical  studies  (age  4  to  60  years) 
 | Skin and subcutaneous tissue disorders               | Uncommon    | Rash e Pruritus f Urticaria                                                                        |
 | Skin and subcutaneous tissue disorders               | Rare        | Petechiae c                                                                                        |
 | Skin and subcutaneous tissue disorders               | Very rare   | Angioedema                                                                                         |
-| Musculoskeletal and connective tissue disorders      | Very common | Myalgia                                                                                            |
-|                                                      | Common      | Arthralgia                                                                                         |
+| Musculoskeletal and connective                       | Very common | Myalgia                                                                                            |
+| tissue disorders                                     | Common      | Arthralgia                                                                                         |
 | General disorders and administration site conditions | Very common | Injection site pain Injection site erythema Malaise Asthenia Fever                                 |
 | General disorders and administration site conditions | Common      | Injection site swelling Injection site bruising f Injection site pruritus f Influenza like illness |
 | General disorders and administration site conditions | Uncommon    | Injection site haemorrhage f Fatigue f Injection site discolouration f                             |
 
 ## Paediatric population
 
-## Paediatric data in subjects 4 to 17 years of age
+Paediatric data in subjects 4 to 17 years of age
 
 Pooled safety data from clinical trials are available for 13839 children (9210 aged 4 to 11 years and 4629 aged 12 to 17 years). This includes reactogenicity data collected in 3042 children (1865 aged 4 to 11 years and 1177 aged 12 to 17 years).
 
@@ -323,10 +323,10 @@ to allow Vaccine Efficacy (VE) assessment by baseline serostatus. The baseline d
 
 Table 2 : Vaccine efficacy in preventing VCD fever caused by any serotype from 30 days to 12 months post second vaccination in study DEN-301 (Per Protocol Set) a
 
-|                                       | Qdenga N = 12,700 b      | Placebo N = 6316 b   |
-|---------------------------------------|--------------------------|----------------------|
-| VCD fever, n (%)                      | 61 (0.5)                 | 149 (2.4)            |
-| Vaccine efficacy (95% CI) (%) p-value | 80.2 (73.3, 85.3) <0.001 |                      |
+|                                       | Qdenga N = 12,700 b   | Placebo N = 6316 b   |
+|---------------------------------------|-----------------------|----------------------|
+| VCD fever, n (%)                      | 61 (0.5)              | 149 (2.4)            |
+| Vaccine efficacy (95% CI) (%) p-value | 80.2 (73.3, 85.3)     | 80.2 (73.3, 85.3)    |
 
 VE results according to the secondary endpoints, preventing hospitalisation due to VCD fever, preventing VCD fever by serostatus, by serotype and preventing severe VCD fever are shown in Table 3 . For severe VCD fever, two types of endpoints were considered: clinically severe VCD cases and VCD cases that met the 1997 WHO criteria for Dengue Haemorrhagic Fever (DHF). The criteria used in Trial DEN-301 for the assessment of VCD severity by an independent 'Dengue Case severity Adjudication Committee' (DCAC) were based on the WHO 2009 guidelines. The DCAC assessed all cases of hospitalisation due to VCD utilizing predefined criteria which included an assessment of bleeding abnormality, plasma leakage, liver function, renal function, cardiac function, the central nervous system, and shock. In Trial DEN-301 VCD cases meeting the WHO 1997 criteria for DHF were identified using a programmed algorithm, i.e., without applying medical judgment. Broadly, the criteria included presence of fever lasting 2 to 7 days, haemorrhagic tendencies, thrombocytopenia, and evidence of plasma leakage.
 
@@ -336,12 +336,12 @@ Table 3: Vaccine efficacy in preventing hospitalisation due to VCD fever, VCD fe
 |----------------------------------------------------------------------|----------------------------------------------------------------------|----------------------------------------------------------------------|----------------------------------------------------------------------|
 | VE in preventing hospitalisations due to VCD fever b , n (%)         | VE in preventing hospitalisations due to VCD fever b , n (%)         | VE in preventing hospitalisations due to VCD fever b , n (%)         | VE in preventing hospitalisations due to VCD fever b , n (%)         |
 | Hospitalisations due to VCD fever c                                  | 13 (0.1)                                                             | 66 (1.0)                                                             | 90.4 (82.6, 94.7) d                                                  |
-| VE in preventing VCD fever by dengue serotype, n (%)                 | VE in preventing VCD fever by dengue serotype, n (%)                 | VE in preventing VCD fever by dengue serotype, n (%)                 | VE in preventing VCD fever by dengue serotype, n (%)                 |
+| VE in preventingVCD fever by dengue serotype, n (%)                  | VE in preventingVCD fever by dengue serotype, n (%)                  | VE in preventingVCD fever by dengue serotype, n (%)                  | VE in preventingVCD fever by dengue serotype, n (%)                  |
 | VCD fever caused by DENV-1                                           | 38 (0.3)                                                             | 62 (1.0)                                                             | 69.8 (54.8, 79.9)                                                    |
 | VCD fever caused by DENV-2                                           | 8 (<0.1)                                                             | 80 (1.3)                                                             | 95.1 (89.9, 97.6)                                                    |
 | VCD fever caused by DENV-3                                           | 63 (0.5)                                                             | 60 (0.9)                                                             | 48.9 (27.2, 64.1)                                                    |
 | VCD fever caused by DENV-4                                           | 5 (<0.1)                                                             | 5 (<0.1)                                                             | 51.0 (-69.4, 85.8)                                                   |
-| VE in preventing VCD fever by baseline dengue serostatus, n (%)      | VE in preventing VCD fever by baseline dengue serostatus, n (%)      | VE in preventing VCD fever by baseline dengue serostatus, n (%)      | VE in preventing VCD fever by baseline dengue serostatus, n (%)      |
+| VE in preventingVCD fever by baseline dengue serostatus, n (%)       | VE in preventingVCD fever by baseline dengue serostatus, n (%)       | VE in preventingVCD fever by baseline dengue serostatus, n (%)       | VE in preventingVCD fever by baseline dengue serostatus, n (%)       |
 | VCD fever in all subjects                                            | 114 (0.9)                                                            | 206 (3.3)                                                            | 73.3 (66.5, 78.8)                                                    |
 | VCD fever in baseline seropositive subjects                          | 75 (0.8)                                                             | 150 (3.3)                                                            | 76.1 (68.5, 81.9)                                                    |
 | VCD fever in baseline seronegative subjects                          | 39 (1.1)                                                             | 56 (3.2)                                                             | 66.2 (49.1, 77.5)                                                    |
@@ -370,21 +370,21 @@ In study DEN-301, a number of exploratory analyses were conducted to estimate lo
 
 Table 4: Vaccine efficacy in preventing VCD fever and hospitalisation overall, by baseline dengue serostatus, and against individual serotypes by baseline serostatus from first dose to 54 months post second dose in study DEN-301 (Safety Set)
 
-|                                 | Qdenga n/N                      | Placebo n/N                     | VE (95% CI) in preventing VCD Fever a   | Qdenga n/N                      | Placebo n/N                     | VE (95% CI) in preventing Hospitalisation due to VCD Fever a   |
-|---------------------------------|---------------------------------|---------------------------------|-----------------------------------------|---------------------------------|---------------------------------|----------------------------------------------------------------|
-| Overall                         | 442/13380                       | 547/6687                        | 61.2 (56.0, 65.8)                       | 46/13380                        | 142/6687                        | 84.1 (77.8, 88.6)                                              |
-| Baseline Seronegative,N=5,546   | Baseline Seronegative,N=5,546   | Baseline Seronegative,N=5,546   | Baseline Seronegative,N=5,546           | Baseline Seronegative,N=5,546   | Baseline Seronegative,N=5,546   | Baseline Seronegative,N=5,546                                  |
-| Any serotype                    | 147/3714                        | 153/1832                        | 53.5 (41.6, 62.9)                       | 17/3714                         | 41/1832                         | 79.3 (63.5, 88.2)                                              |
-| DENV-1                          | 89/3714                         | 79/1832                         | 45.4 (26.1, 59.7)                       | 6/3714                          | 14/1832                         | 78.4 (43.9, 91.7)                                              |
-| DENV-2                          | 14/3714                         | 58/1832                         | 88.1 (78.6, 93.3)                       | 0/3714                          | 23/1832                         | 100 (88.5, 100) b                                              |
-| DENV-3                          | 36/3714                         | 16/1832                         | -15.5 (-108.2, 35.9)                    | 11/3714                         | 3/1832                          | -87.9 (-573.4, 47.6)                                           |
-| DENV-4                          | 12/3714                         | 3/1832                          | -105.6 (-628.7, 42.0)                   | 0/3714                          | 1/1832                          | NP c                                                           |
-| Baseline Seropositive, N=14,517 | Baseline Seropositive, N=14,517 | Baseline Seropositive, N=14,517 | Baseline Seropositive, N=14,517         | Baseline Seropositive, N=14,517 | Baseline Seropositive, N=14,517 | Baseline Seropositive, N=14,517                                |
-| Any serotype                    | 295/9663                        | 394/4854                        | 64.2 (58.4,69.2)                        | 29/9663                         | 101/4854                        | 85.9 (78.7, 90.7)                                              |
-| DENV-1                          | 133/9663                        | 151/4854                        | 56.1 (44.6, 65.2)                       | 16/9663                         | 24/4854                         | 66.8 (37.4, 82.3)                                              |
-| DENV-2                          | 54/9663                         | 135/4854                        | 80.4 (73.1, 85.7)                       | 5/9663                          | 59/4854                         | 95.8 (89.6, 98.3)                                              |
-| DENV-3                          | 96/9663                         | 97/4854                         | 52.3 (36.7, 64.0)                       | 8/9663                          | 15/4854                         | 74.0 (38.6, 89.0)                                              |
-| DENV-4                          | 12/9663                         | 20/4854                         | 70.6 (39.9, 85.6)                       | 0/9663                          | 3/4854                          | NP c                                                           |
+|                                 | Qdenga n/N                      | Placebo n/N                     | VE (95% CI) in preventingVCD Fever a   | Qdenga n/N                      | Placebo n/N                     | VE (95% CI) in preventing Hospitalisation due to VCD Fever a   |
+|---------------------------------|---------------------------------|---------------------------------|----------------------------------------|---------------------------------|---------------------------------|----------------------------------------------------------------|
+| Overall                         | 442/13380                       | 547/6687                        | 61.2 (56.0, 65.8)                      | 46/13380                        | 142/6687                        | 84.1 (77.8, 88.6)                                              |
+| Baseline Seronegative,N=5,546   | Baseline Seronegative,N=5,546   | Baseline Seronegative,N=5,546   | Baseline Seronegative,N=5,546          | Baseline Seronegative,N=5,546   | Baseline Seronegative,N=5,546   | Baseline Seronegative,N=5,546                                  |
+| Any serotype                    | 147/3714                        | 153/1832                        | 53.5 (41.6, 62.9)                      | 17/3714                         | 41/1832                         | 79.3 (63.5, 88.2)                                              |
+| DENV-1                          | 89/3714                         | 79/1832                         | 45.4 (26.1, 59.7)                      | 6/3714                          | 14/1832                         | 78.4 (43.9, 91.7)                                              |
+| DENV-2                          | 14/3714                         | 58/1832                         | 88.1 (78.6, 93.3)                      | 0/3714                          | 23/1832                         | 100 (88.5, 100) b                                              |
+| DENV-3                          | 36/3714                         | 16/1832                         | -15.5 (-108.2, 35.9)                   | 11/3714                         | 3/1832                          | -87.9 (-573.4, 47.6)                                           |
+| DENV-4                          | 12/3714                         | 3/1832                          | -105.6 (-628.7, 42.0)                  | 0/3714                          | 1/1832                          | NP c                                                           |
+| Baseline Seropositive, N=14,517 | Baseline Seropositive, N=14,517 | Baseline Seropositive, N=14,517 | Baseline Seropositive, N=14,517        | Baseline Seropositive, N=14,517 | Baseline Seropositive, N=14,517 | Baseline Seropositive, N=14,517                                |
+| Any serotype                    | 295/9663                        | 394/4854                        | 64.2 (58.4,69.2)                       | 29/9663                         | 101/4854                        | 85.9 (78.7, 90.7)                                              |
+| DENV-1                          | 133/9663                        | 151/4854                        | 56.1 (44.6, 65.2)                      | 16/9663                         | 24/4854                         | 66.8 (37.4, 82.3)                                              |
+| DENV-2                          | 54/9663                         | 135/4854                        | 80.4 (73.1, 85.7)                      | 5/9663                          | 59/4854                         | 95.8 (89.6, 98.3)                                              |
+| DENV-3                          | 96/9663                         | 97/4854                         | 52.3 (36.7, 64.0)                      | 8/9663                          | 15/4854                         | 74.0 (38.6, 89.0)                                              |
+| DENV-4                          | 12/9663                         | 20/4854                         | 70.6 (39.9, 85.6)                      | 0/9663                          | 3/4854                          | NP c                                                           |
 
 Additionally, VE in preventing DHF caused by any serotype was 70.0% (95% CI: 31.5%, 86.9%) and in preventing clinically severe VCD cases caused by any serotype was 70.2% (95% CI: -24.7%, 92.9%).
 
@@ -396,18 +396,18 @@ A year-by-year analysis until four and a half years after the second dose was co
 
 Table 5: Vaccine efficacy in preventing VCD fever and hospitalisation overall and by baseline dengue serostatus in yearly intervals 30 days post second dose in study DEN-301 (Per Protocol Set)
 
-|          |                                                         | VE (95% CI) in preventing VCD Fever N a = 19,021      | VE (95% CI) in preventing Hospitalisation due to VCD Fever N a = 19,021   |
-|----------|---------------------------------------------------------|-------------------------------------------------------|---------------------------------------------------------------------------|
-| Year 1 b | Overall                                                 | 80.2 (73.3, 85.3)                                     | 95.4 (88.4, 98.2)                                                         |
-|          | By baseline dengue serostatus Seropositive Seronegative | 82.2 (74.5, 87.6) 74.9 (57.0, 85.4)                   | 94.4 (84.4, 98.0) 97.2 (79.1, 99.6)                                       |
-|          | Overall                                                 | 56.2 (42.3, 66.8)                                     | 76.2 (50.8, 88.4)                                                         |
-| Year 2 c | By baseline dengue serostatus Seropositive              | 60.3 (44.7, 71.5)                                     | 85.2 (59.6, 94.6)                                                         |
-| d        | Seronegative Overall                                    | 45.3 (9.9, 66.8) 45.0 (32.9, 55.0)                    | 51.4 (-50.7, 84.3) 70.8 (49.6, 83.0)                                      |
-| Year 3   | By baseline dengue serostatus Seropositive Seronegative | 48.7 (34.8, 59.6)                                     | 78.4 (57.1, 89.1) 45.0 (-42.6, 78.8)                                      |
-| Year 4 e | Overall                                                 | 35.5 (7.4, 55.1)                                      | 96.4 (72.2, 99.5)                                                         |
-|          | By baseline dengue serostatus Seropositive Seronegative | 62.8 (41.4, 76.4) 64.1 (37.4, 79.4) 60.2 (11.1, 82.1) | 94.0 (52.2, 99.3) NP f                                                    |
+|          |                                                         | VE (95% CI) in preventingVCD Fever N a = 19,021   | VE (95% CI) in preventing Hospitalisation due to VCD Fever N a = 19,021   |
+|----------|---------------------------------------------------------|---------------------------------------------------|---------------------------------------------------------------------------|
+| Year 1 b | Overall                                                 | 80.2 (73.3, 85.3)                                 | 95.4 (88.4, 98.2)                                                         |
+|          | By baseline dengue serostatus Seropositive Seronegative | 82.2 (74.5, 87.6) 74.9 (57.0, 85.4)               | 94.4 (84.4, 98.0) 97.2 (79.1, 99.6)                                       |
+| Year 2 c | Overall                                                 | 56.2 (42.3, 66.8)                                 | 76.2 (50.8, 88.4)                                                         |
+|          | By baseline dengue serostatus Seropositive Seronegative | 60.3 (44.7, 71.5) 45.3 (9.9, 66.8)                | 85.2 (59.6, 94.6) 51.4 (-50.7, 84.3)                                      |
+| Year 3 d | Overall                                                 | 45.0 (32.9, 55.0)                                 | 70.8 (49.6, 83.0)                                                         |
+| e        | By baseline dengue serostatus Seropositive Seronegative | 48.7 (34.8, 59.6) 35.5 (7.4, 55.1)                | 78.4 (57.1, 89.1) 45.0 (-42.6, 78.8)                                      |
+| Year 4   | Overall                                                 | 62.8 (41.4, 76.4)                                 | 96.4 (72.2, 99.5)                                                         |
+|          | By baseline dengue serostatus Seropositive Seronegative | 64.1 (37.4, 79.4) 60.2 (11.1, 82.1)               | 94.0 (52.2, 99.3) NP f                                                    |
 
-VE: vaccine efficacy, CI: confidence interval, VCD: virologically confirmed dengue, NP: not provided, N: total number of subjects in the per analysis set,  a  number of subjects evaluated in each year is different.
+VE: vaccine efficacy, CI: confidence interval, VCD: virologically confirmed dengue, NP: not provided, N: total number of subjects in the per analysis set, a number of subjects evaluated in each year is different.
 
 b  Year 1 refers to 11 months starting 30 days after second dose.
 
@@ -540,17 +540,17 @@ For storage conditions after reconstitution of Qdenga, see section 6.3.
 
 ## Qdenga powder and solvent for solution for injection:
 
--  Powder (1 dose) in glass vial (Type-I glass), with a stopper (butyl rubber) and aluminium seal with green flip-off plastic cap + 0.5 mL solvent (1 dose) in glass vial (Type-I glass), with a stopper (bromobutyl rubber) and aluminium seal with purple flip-off plastic cap
+- Powder (1 dose) in glass vial (Type-I glass), with a stopper (butyl rubber) and aluminium seal with green flip-off plastic cap + 0.5 mL solvent (1 dose) in glass vial (Type-I glass), with a stopper (bromobutyl rubber) and aluminium seal with purple flip-off plastic cap
 
 Pack size of 1 or 10.
 
 ## Qdenga powder and solvent for solution for injection in pre-filled syringe:
 
--  Powder (1 dose) in vial (Type-I glass), with a stopper (butyl rubber) and aluminium seal with green flip-off plastic cap + 0.5 mL solvent (1 dose) in pre-filled syringe (Type-I glass), with a plunger stopper (bromobutyl) and a tip cap (polypropylene), with 2 separate needles
+- Powder (1 dose) in vial (Type-I glass), with a stopper (butyl rubber) and aluminium seal with green flip-off plastic cap + 0.5 mL solvent (1 dose) in pre-filled syringe (Type-I glass), with a plunger stopper (bromobutyl) and a tip cap (polypropylene), with 2 separate needles
 
 Pack size of 1 or 5.
 
--  Powder (1 dose) in vial (Type-I glass), with a stopper (butyl rubber) and aluminium seal with green flip-off plastic cap + 0.5 mL solvent (1 dose) in pre-filled syringe (Type-I glass), with a plunger stopper (bromobutyl) and a tip cap (polypropylene), without needles
+- Powder (1 dose) in vial (Type-I glass), with a stopper (butyl rubber) and aluminium seal with green flip-off plastic cap + 0.5 mL solvent (1 dose) in pre-filled syringe (Type-I glass), with a plunger stopper (bromobutyl) and a tip cap (polypropylene), without needles
 
 Pack size of 1 or 5.
 
@@ -584,16 +584,16 @@ Reconstituted vaccine
 
 Following reconstitution, the resulting solution should be clear, colourless to pale yellow, and essentially free of foreign particulates. Discard the vaccine if particulates are present and/or if it appears discoloured.
 
--  Remove the caps from both vials and clean the surface of stoppers on top of the vials using an alcohol wipe.
--  Attach a sterile needle to a sterile 1 mL syringe and insert the needle into the solvent vial. The recommended needle is 23G.
--  Slowly press the plunger completely down.
--  Turn the vial upside down, withdraw the entire contents of the vial and continue to pull plunger out to 0.75 mL. A bubble should be seen inside of the syringe.
--  Invert the syringe to bring the bubble back to the plunger.
--  Insert the needle of the syringe assembly into the lyophilised vaccine vial.
--  Direct the flow of the solvent toward the side of the vial while slowly depressing the plunger to reduce the chance of forming bubbles.
--  Release your finger from the plunger and, holding the assembly on a flat surface, gently swirl the vial in both directions with the needle syringe assembly attached.
--  DO NOT SHAKE. Foam and bubbles may form in the reconstituted product.
--  Let the vial and syringe assembly sit for a while until the solution becomes clear. This takes about 30-60 seconds.
+- Remove the caps from both vials and clean the surface of stoppers on top of the vials using an alcohol wipe.
+- Attach a sterile needle to a sterile 1 mL syringe and insert the needle into the solvent vial. The recommended needle is 23G.
+- Slowly press the plunger completely down.
+- Turn the vial upside down, withdraw the entire contents of the vial and continue to pull plunger out to 0.75 mL. A bubble should be seen inside of the syringe.
+- Invert the syringe to bring the bubble back to the plunger.
+- Insert the needle of the syringe assembly into the lyophilised vaccine vial.
+- Direct the flow of the solvent toward the side of the vial while slowly depressing the plunger to reduce the chance of forming bubbles.
+- Release your finger from the plunger and, holding the assembly on a flat surface, gently swirl the vial in both directions with the needle syringe assembly attached.
+- DO NOT SHAKE. Foam and bubbles may form in the reconstituted product.
+- Let the vial and syringe assembly sit for a while until the solution becomes clear. This takes about 30-60 seconds.
 
 <div style=\"page-break-after: always\"></div>
 
@@ -601,10 +601,10 @@ Reconstituted vaccine
 
 <!-- image -->
 
--  Withdraw the entire volume of the reconstituted Qdenga solution with the same syringe until an air bubble appears in the syringe.
--  Remove the needle syringe assembly from the vial.
--  Hold the syringe with the needle pointing upwards, tap the side of the syringe to bring the air bubble to the top, discard the attached needle and replace with a new sterile needle, expel the air bubble until a small drop of the liquid forms at the top of the needle. The recommended needle is 25G 16 mm.
--  Qdenga is ready to be administered by subcutaneous injection.
+- Withdraw the entire volume of the reconstituted Qdenga solution with the same syringe until an air bubble appears in the syringe.
+- Remove the needle syringe assembly from the vial.
+- Hold the syringe with the needle pointing upwards, tap the side of the syringe to bring the air bubble to the top, discard the attached needle and replace with a new sterile needle, expel the air bubble until a small drop of the liquid forms at the top of the needle. The recommended needle is 25G 16 mm.
+- Qdenga is ready to be administered by subcutaneous injection.
 
 Qdenga should be administered immediately after reconstitution. Chemical and physical in-use stability have been demonstrated for 2 hours at room temperature (up to 32.5°C) from the time of reconstitution of the vaccine vial. After this time period, the vaccine must be discarded. Do not return it to the refrigerator. From a microbiological point of view Qdenga should be used immediately. If not used immediately, in-use storage times and conditions are the responsibility of the user.
 
@@ -622,9 +622,9 @@ Lyophilised vaccine vial
 
 <!-- image -->
 
--  Remove the cap from the vaccine vial and clean the surface of stopper on top of the vial using an alcohol wipe.
--  Attach a sterile needle to the pre-filled syringe and insert the needle into the vaccine vial. The recommended needle is 23G.
--  Direct the flow of the solvent toward the side of the vial while slowly depressing the plunger to reduce the chance of forming bubbles.
+- Remove the cap from the vaccine vial and clean the surface of stopper on top of the vial using an alcohol wipe.
+- Attach a sterile needle to the pre-filled syringe and insert the needle into the vaccine vial. The recommended needle is 23G.
+- Direct the flow of the solvent toward the side of the vial while slowly depressing the plunger to reduce the chance of forming bubbles.
 
 <div style=\"page-break-after: always\"></div>
 
@@ -638,9 +638,9 @@ Reconstituted vaccine
 
 <!-- image -->
 
--  Withdraw the entire volume of the reconstituted Qdenga solution with the same syringe until an air bubble appears in the syringe.
--  Remove the needle syringe assembly from the vial. Hold the syringe with the needle pointing upwards, tap the side of the syringe to bring the air bubble to the top, discard the attached needle and replace with a new sterile needle, expel the air bubble until a small drop of the liquid forms at the top of the needle. The recommended needle is 25G 16 mm.
--  Qdenga is ready to be administered by subcutaneous injection.
+- Withdraw the entire volume of the reconstituted Qdenga solution with the same syringe until an air bubble appears in the syringe.
+- Remove the needle syringe assembly from the vial. Hold the syringe with the needle pointing upwards, tap the side of the syringe to bring the air bubble to the top, discard the attached needle and replace with a new sterile needle, expel the air bubble until a small drop of the liquid forms at the top of the needle. The recommended needle is 25G 16 mm.
+- Qdenga is ready to be administered by subcutaneous injection.
 
 Qdenga should be administered immediately after reconstitution. Chemical and physical in-use stability have been demonstrated for 2 hours at room temperature (up to 32.5°C) from the time of reconstitution of the vaccine vial. After this time period, the vaccine must be discarded. Do not return it to the refrigerator. From a microbiological point of view Qdenga should be used immediately. If not used immediately, in-use storage times and conditions are the responsibility of the user.
 
@@ -648,15 +648,15 @@ Any unused medicinal product or waste material should be disposed of in accordan
 
 ## 7. MARKETING AUTHORISATION HOLDER
 
-Takeda GmbH Byk-Gulden-Str. 2 78467 Konstanz Germany
+Takeda Pharmaceuticals International AG Ireland Branch Block 2 Miesian Plaza 50-58 Baggot Street Lower Dublin 2 D02 HW68 Ireland
 
 ## 8. MARKETING AUTHORISATION NUMBER(S)
 
 EU/1/22/1699/001 EU/1/22/1699/002 EU/1/22/1699/003 EU/1/22/1699/004 EU/1/22/1699/005 EU/1/22/1699/006
 
--  Release your finger from the plunger and, holding the assembly on a flat surface, gently swirl the vial in both directions with the needle syringe assembly attached.
--  DO NOT SHAKE. Foam and bubbles may form in the reconstituted product.
--  Let the vial and syringe assembly sit for a while until the solution becomes clear. This takes about 30-60 seconds.
+- Release your finger from the plunger and, holding the assembly on a flat surface, gently swirl the vial in both directions with the needle syringe assembly attached.
+- DO NOT SHAKE. Foam and bubbles may form in the reconstituted product.
+- Let the vial and syringe assembly sit for a while until the solution becomes clear. This takes about 30-60 seconds.
 
 <div style=\"page-break-after: always\"></div>
 
@@ -693,13 +693,13 @@ Takeda GmbH Production site Singen Robert-Bosch-Str. 8 78224 Singen Germany
 
 Medicinal product subject to medical prescription.
 
-##  Official batch release
+## · Official batch release
 
 In accordance with Article 114 of Directive 2001/83/EC, the official batch release will be undertaken by a state laboratory or a laboratory designated for that purpose.
 
 ## C. OTHER CONDITIONS AND REQUIREMENTS OF THE MARKETING AUTHORISATION
 
-##  Periodic safety update reports (PSURs)
+## · Periodic safety update reports (PSURs)
 
 The requirements for submission of PSURs for this medicinal product are set out in the list of Union reference dates (EURD list) provided for under Article 107c(7) of Directive 2001/83/EC and any subsequent updates published on the European medicines web-portal.
 
@@ -707,14 +707,14 @@ The marketing authorisation holder (MAH) shall submit the first PSUR for this pr
 
 ## D. CONDITIONS OR RESTRICTIONS WITH REGARD TO THE SAFE AND EFFECTIVE USE OF THE MEDICINAL PRODUCT
 
-##  Risk management plan (RMP)
+## · Risk management plan (RMP)
 
 The marketing authorisation holder (MAH) shall perform the required pharmacovigilance activities and interventions detailed in the agreed RMP presented in Module 1.8.2 of the marketing authorisation and any agreed subsequent updates of the RMP.
 
 An updated RMP should be submitted:
 
--  At the request of the European Medicines Agency;
--  Whenever the risk management system is modified, especially as the result of new information being received that may lead to a significant change to the benefit/risk profile or as the result of an important (pharmacovigilance or risk minimisation) milestone being reached.
+- At the request of the European Medicines Agency;
+- Whenever the risk management system is modified, especially as the result of new information being received that may lead to a significant change to the benefit/risk profile or as the result of an important (pharmacovigilance or risk minimisation) milestone being reached.
 
 <div style=\"page-break-after: always\"></div>
 
@@ -742,8 +742,10 @@ Dengue tetravalent vaccine (live, attenuated)
 
 ## 2. STATEMENT OF ACTIVE SUBSTANCE(S)
 
+After reconstitution, one dose (0.5 mL) contains:
+
 ```
-After reconstitution, one dose (0.5 mL) contains: Dengue virus serotype 1 (live, attenuated): ≥ 3.3 log10 Plaque-forming units (PFU)/dose Dengue virus serotype 2 (live, attenuated): ≥ 2.7 log10 PFU/dose Dengue virus serotype 3 (live, attenuated): ≥ 4.0 log10 PFU/dose Dengue virus serotype 4 (live, attenuated): ≥ 4.5 log10 PFU/dose
+Dengue virus serotype 1 (live, attenuated): ≥ 3.3 log10 Plaque-forming units (PFU)/dose Dengue virus serotype 2 (live, attenuated): ≥ 2.7 log10 PFU/dose Dengue virus serotype 3 (live, attenuated): ≥ 4.0 log10 PFU/dose Dengue virus serotype 4 (live, attenuated): ≥ 4.5 log10 PFU/dose
 ```
 
 ## 3. LIST OF EXCIPIENTS
@@ -764,11 +766,7 @@ Powder and solvent for solution for injection
 
 ## 5. METHOD AND ROUTE(S) OF ADMINISTRATION
 
-Subcutaneous use after reconstitution.
-
-Read the package leaflet before use.
-
-<div style=\"page-break-after: always\"></div>
+Subcutaneous use after reconstitution. Read the package leaflet before use.
 
 ## 6. SPECIAL WARNING THAT THE MEDICINAL PRODUCT MUST BE STORED OUT OF THE SIGHT AND REACH OF CHILDREN
 
@@ -786,11 +784,21 @@ Store in a refrigerator.
 
 Do not freeze. Store in the original package.
 
-10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
+## 10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
-Takeda GmbH Byk-Gulden-Str. 2 78467 Konstanz Germany
+Takeda Pharmaceuticals International AG Ireland Branch
+
+Block 2 Miesian Plaza
+
+50-58 Baggot Street Lower
+
+Dublin 2
+
+D02 HW68
+
+Ireland
 
 ## 12. MARKETING AUTHORISATION NUMBER(S)
 
@@ -806,11 +814,14 @@ Lot
 
 15. INSTRUCTIONS ON USE
 
-16. INFORMATION IN BRAILLE
-
-Justification for not including Braille accepted.
+<div style=\"page-break-after: always\"></div>
 
 <div style=\"page-break-after: always\"></div>
+
+| 16.   | INFORMATION IN BRAILLE   |
+|-------|--------------------------|
+
+Justification for not including Braille accepted.
 
 | 17.   | UNIQUE IDENTIFIER - 2D BARCODE   |
 |-------|----------------------------------|
@@ -824,13 +835,9 @@ PC SN NN
 
 <div style=\"page-break-after: always\"></div>
 
-## PARTICULARS TO APPEAR ON THE OUTER PACKAGING
-
-Powder (1 dose) in vial + solvent in pre-filled syringe
-
-Powder (1 dose) in vial + solvent in pre-filled syringe with 2 separate needles
-
-Pack size of 1 or 5
+```
+PARTICULARS TO APPEAR ON THE OUTER PACKAGING Powder (1 dose) in vial + solvent in pre-filled syringe Powder (1 dose) in vial + solvent in pre-filled syringe with 2 separate needles Pack size of 1 or 5
+```
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
@@ -838,9 +845,7 @@ Qdenga powder and solvent for solution for injection in pre-filled syringe Dengu
 
 ## 2. STATEMENT OF ACTIVE SUBSTANCE(S)
 
-```
 After reconstitution, one dose (0.5 mL) contains:
-```
 
 Dengue virus serotype 1 (live, attenuated): ≥ 3.3 log10 Plaque-forming units (PFU)/dose
 
@@ -876,7 +881,7 @@ Read the package leaflet before use.
 
 Keep out of the sight and reach of children.
 
-7. OTHER SPECIAL WARNING(S), IF NECESSARY
+## 7. OTHER SPECIAL WARNING(S), IF NECESSARY
 
 ## 8. EXPIRY DATE
 
@@ -892,13 +897,17 @@ Do not freeze. Store in the original package.
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
-Takeda GmbH
+Takeda Pharmaceuticals International AG Ireland Branch
 
-Byk-Gulden-Str. 2
+Block 2 Miesian Plaza
 
-78467 Konstanz
+50-58 Baggot Street Lower
 
-Germany
+Dublin 2
+
+D02 HW68
+
+Ireland
 
 ## 12. MARKETING AUTHORISATION NUMBER(S)
 
@@ -914,12 +923,13 @@ EU/1/22/1699/006
 
 Lot
 
-## 14. GENERAL CLASSIFICATION FOR SUPPLY
-
 <div style=\"page-break-after: always\"></div>
 
-| 15.   | INSTRUCTIONS ONUSE   |
-|-------|----------------------|
+| 14.   | GENERAL CLASSIFICATION FOR SUPPLY   |
+|-------|-------------------------------------|
+
+| 15.   | INSTRUCTIONS ON USE   |
+|-------|-----------------------|
 
 | 16.   | INFORMATION IN BRAILLE   |
 |-------|--------------------------|
@@ -938,7 +948,9 @@ PC SN NN
 
 <div style=\"page-break-after: always\"></div>
 
-## MINIMUM PARTICULARS TO APPEAR ON SMALL IMMEDIATE PACKAGING UNITS Powder (1 dose) in vial
+## MINIMUM PARTICULARS TO APPEAR ON SMALL IMMEDIATE PACKAGING UNITS
+
+Powder (1 dose) in vial
 
 ## 1. NAME OF THE MEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION
 
@@ -1014,10 +1026,10 @@ This medicine is subject to additional monitoring. This will allow quick identif
 
 ## Read all of this leaflet carefully before you or your child is vaccinated because it contains important information for you.
 
--  Keep this leaflet. You may need to read it again.
--  If you have any further questions, ask your doctor, pharmacist or nurse.
--  This medicine has been prescribed for you or your child only. Do not pass it on to others.
--  If you or your child get any side effects, talk to your doctor, pharmacist or nurse. This includes any possible side effects not listed in this leaflet. See section 4.
+- Keep this leaflet. You may need to read it again.
+- If you have any further questions, ask your doctor, pharmacist or nurse.
+- This medicine has been prescribed for you or your child only. Do not pass it on to others.
+- If you or your child get any side effects, talk to your doctor, pharmacist or nurse. This includes any possible side effects not listed in this leaflet. See section 4.
 
 ## What is in this leaflet
 
@@ -1044,10 +1056,8 @@ Qdenga stimulates the body's natural defences (immune system). This helps to pro
 
 Dengue is caused by a virus.
 
--  The virus is spread by mosquitos (Aedes mosquitos).
--  If a mosquito bites someone with dengue it can pass the virus on to the next people it bites.
-
-Dengue is not passed directly from person to person.
+- The virus is spread by mosquitos (Aedes mosquitos).
+- If a mosquito bites someone with dengue it can pass the virus on to the next people it bites. Dengue is not passed directly from person to person.
 
 Signs of dengue include fever, headache, pain behind the eyes, muscle and joint pain, feeling or being sick (nausea and vomiting), swollen glands or skin rash. Signs of dengue usually last for 2 to 7 days. You can also be infected with dengue virus but show no signs of illness.
 
@@ -1063,11 +1073,11 @@ To make sure that Qdenga is suitable for you or your child, it is important to t
 
 ## Do not use Qdenga if you or your child
 
--  are allergic to the active substances or any of the other ingredients of Qdenga (listed in section 6).
--  had an allergic reaction after receiving Qdenga before. Signs of an allergic reaction may include an itchy rash, shortness of breath and swelling of the face and tongue.
--  have a weak immune system (the body's natural defences). This may be due to a genetic defect or HIV infection.
--  are taking a medicine that affects the immune system (such as high-dose corticosteroids or chemotherapy). Your doctor will not use Qdenga until some time after you stop treatment with this medicine.
--  are pregnant or breast-feeding.
+- are allergic to the active substances or any of the other ingredients of Qdenga (listed in section 6).
+- had an allergic reaction after receiving Qdenga before. Signs of an allergic reaction may include an itchy rash, shortness of breath and swelling of the face and tongue.
+- have a weak immune system (the body's natural defences). This may be due to a genetic defect or HIV infection.
+- are taking a medicine that affects the immune system (such as high-dose corticosteroids or chemotherapy). Your doctor will not use Qdenga until some time after you stop treatment with this medicine.
+- are pregnant or breast-feeding.
 
 Do not use Qdenga if any of the above applies.
 
@@ -1075,9 +1085,9 @@ Do not use Qdenga if any of the above applies.
 
 Tell your doctor, pharmacist or nurse before receiving Qdenga if you or your child:
 
--  have an infection with fever. It might be necessary to postpone the vaccination until recovery.
--  have ever had any health problems when given a vaccine. Your doctor will carefully consider the risks and benefits of vaccination.
--  have ever fainted from an injection. Dizziness, fainting, and sometimes falling, can happen (mostly in young people) following, or even before, any injection with a needle.
+- have an infection with fever. It might be necessary to postpone the vaccination until recovery.
+- have ever had any health problems when given a vaccine. Your doctor will carefully consider the risks and benefits of vaccination.
+- have ever fainted from an injection. Dizziness, fainting, and sometimes falling, can happen (mostly in young people) following, or even before, any injection with a needle.
 
 ## Important information about the protection provided
 
@@ -1103,15 +1113,15 @@ In particular, tell your doctor or pharmacist if you or your child are taking an
 
 <div style=\"page-break-after: always\"></div>
 
--  Medicines that affect your body's natural defences (immune system) such as high-dose corticosteroids or chemotherapy. In this case, your doctor will not use Qdenga until some time after you stop treatment. This is because Qdenga might not work as well.
--  Medicines called 'immunoglobulins' or blood products containing immunoglobulins, such as blood or plasma. In this case, your doctor will not use Qdenga until 6 weeks, and preferably not for 3 months after you stop treatment. This is because Qdenga might not work as well.
+- Medicines that affect your body's natural defences (immune system) such as high-dose corticosteroids or chemotherapy. In this case, your doctor will not use Qdenga until some time after you stop treatment. This is because Qdenga might not work as well.
+- Medicines called 'immunoglobulins' or blood products containing immunoglobulins, such as blood or plasma. In this case, your doctor will not use Qdenga until 6 weeks, and preferably not for 3 months after you stop treatment. This is because Qdenga might not work as well.
 
 ## Pregnancy and breast-feeding
 
 Do not use Qdenga if you or your daughter are pregnant or breast-feeding. If you or your daughter:
 
--  are of child-bearing age, you must take necessary precautions to avoid pregnancy for one month after Qdenga vaccination.
--  think you or your daughter may be pregnant or are planning to have a baby, ask your doctor, pharmacist or nurse for advice before using Qdenga .
+- are of child-bearing age, you must take necessary precautions to avoid pregnancy for one month after Qdenga vaccination.
+- think you or your daughter may be pregnant or are planning to have a baby, ask your doctor, pharmacist or nurse for advice before using Qdenga .
 
 ## Driving and using machines
 
@@ -1137,8 +1147,8 @@ Qdenga should be used according to official recommendations.
 
 ## If  you or your child miss an injection of Qdenga
 
--  If you or your child miss a scheduled injection, your doctor will decide when to give the missed injection. It is important that you or your child follow the instructions of your doctor, pharmacist or nurse about the follow-up injection.
--  If you forget or are not able to go back at the scheduled time, ask your doctor, pharmacist or nurse for advice.
+- If you or your child miss a scheduled injection, your doctor will decide when to give the missed injection. It is important that you or your child follow the instructions of your doctor, pharmacist or nurse about the follow-up injection.
+- If you forget or are not able to go back at the scheduled time, ask your doctor, pharmacist or nurse for advice.
 
 If you have any further questions on the use of this vaccine, ask your doctor, pharmacist or nurse.
 
@@ -1150,15 +1160,15 @@ Like all medicines, Qdenga can cause side effects, although not everybody gets t
 
 If any of these symptoms occur after leaving the place where you or your child received an injection, contact a doctor immediately:
 
--  difficulty breathing
--  blueness of the tongue or lips
+- difficulty breathing
+- blueness of the tongue or lips
 
 <div style=\"page-break-after: always\"></div>
 
--  a rash
--  swelling of the face or throat
--  low blood pressure causing dizziness or fainting
--  sudden and serious feeling of illness or unease with drop in blood pressure causing dizziness and loss of consciousness, rapid heartbeat linked with breathing difficulty.
+- a rash
+- swelling of the face or throat
+- low blood pressure causing dizziness or fainting
+- sudden and serious feeling of illness or unease with drop in blood pressure causing dizziness and loss of consciousness, rapid heartbeat linked with breathing difficulty.
 
 These signs or symptoms (anaphylactic reactions) usually develop soon after the injection is given and while you or your child are still in the clinic or doctor's surgery. They can also happen very rarely after receiving any vaccine.
 
@@ -1166,71 +1176,71 @@ The following side effects occurred during studies in children, young people and
 
 Very common (may affect more than 1 in 10 people):
 
--  injection site pain
--  headache
--  muscle pain
--  injection site redness
--  generally feeling unwell
--  weakness
--  infections of the nose or throat
--  fever
+- injection site pain
+- headache
+- muscle pain
+- injection site redness
+- generally feeling unwell
+- weakness
+- infections of the nose or throat
+- fever
 
 ## Common (may affect up to 1 in 10 people):
 
--  injection site swelling
--  pain or inflammation of the nose or throat
--  injection site bruising
--  injection site itching
--  inflammation of throat and tonsils
--  joint pain
--  flu like illness
+- injection site swelling
+- pain or inflammation of the nose or throat
+- injection site bruising
+- injection site itching
+- inflammation of throat and tonsils
+- joint pain
+- flu like illness
 
 Uncommon (may affect up to 1 in 100 people):
 
--  diarrhoea
--  feeling sick
+- diarrhoea
+- feeling sick
 
-
+•
 
 stomach pain
 
--  being sick (vomiting)
--  injection site bleeding
--  feeling lightheaded
--  itchy skin
--  skin rash, including blotchy or itchy skin eruptions
--  hives
--  tiredness
--  skin colour changes at the injection site
--  inflammation of the airways
--  runny nose
+- being sick (vomiting)
+- injection site bleeding
+- feeling lightheaded
+- itchy skin
+- skin rash, including blotchy or itchy skin eruptions
+- hives
+- tiredness
+- skin colour changes at the injection site
+- inflammation of the airways
+- runny nose
 
 ## Rare (may affect up to 1 in 1,000 people):
 
--  small red or purple spots under your skin (petechiae)
+- small red or purple spots under your skin (petechiae)
 
 ## Very rare (may affect up to 1 in 10,000 people):
 
--  rapid swelling under the skin in areas such as the face, throat, arms and legs
--  low levels of blood platelets (thrombocytopenia)
+- rapid swelling under the skin in areas such as the face, throat, arms and legs
+- low levels of blood platelets (thrombocytopenia)
 
 ## Not known (cannot be estimated from the available data):
 
--  sudden, severe allergic (anaphylactic) reaction, with breathing difficulty, swelling,
+- sudden, severe allergic (anaphylactic) reaction, with breathing difficulty, swelling,
 
 <div style=\"page-break-after: always\"></div>
 
 lightheadedness, fast heartbeat, sweating and loss of consciousness
 
--  eye pain
+- eye pain
 
 ## Additional side effects in children 4 to 5 years of age:
 
 Very common (may affect more than 1 in 10 people):
 
--  decreased appetite
--  feeling sleepy
--  irritability
+- decreased appetite
+- feeling sleepy
+- irritability
 
 ## Reporting of side effects
 
@@ -1252,7 +1262,7 @@ Do not throw away any medicines via wastewater or household waste. Ask your phar
 
 ## What Qdenga contains
 
--  After reconstitution, one dose (0.5 mL) contains:
+- After reconstitution, one dose (0.5 mL) contains:
 
 ```
 Dengue virus serotype 1 (live, attenuated)*: ≥ 3.3 log10 PFU**/dose Dengue virus serotype 2 (live, attenuated)#: ≥ 2.7 log10 PFU**/dose Dengue virus serotype 3 (live, attenuated)*: ≥ 4.0 log10 PFU**/dose Dengue virus serotype 4 (live, attenuated)*: ≥ 4.5 log10 PFU**/dose
@@ -1264,7 +1274,7 @@ Dengue virus serotype 1 (live, attenuated)*: ≥ 3.3 log10 PFU**/dose Dengue vir
 
 **PFU = Plaque-forming units
 
--  The other ingredients are: α,α-Trehalose dihydrate, Poloxamer 407, human serum albumin, potassium dihydrogen phosphate, disodium hydrogen phosphate, potassium chloride, sodium chloride, water for injections.
+- The other ingredients are: α,α-Trehalose dihydrate, Poloxamer 407, human serum albumin, potassium dihydrogen phosphate, disodium hydrogen phosphate, potassium chloride, sodium chloride, water for injections.
 
 <div style=\"page-break-after: always\"></div>
 
@@ -1288,7 +1298,7 @@ After reconstitution, Qdenga is a clear, colourless to pale yellow solution, ess
 
 ## Marketing Authorisation Holder
 
-Takeda GmbH Byk-Gulden-Str. 2 78467 Konstanz Germany
+Takeda Pharmaceuticals International AG Ireland Branch Block 2 Miesian Plaza 50-58 Baggot Street Lower Dublin 2 D02 HW68 Ireland
 
 ## Manufacturer
 
@@ -1296,7 +1306,9 @@ Takeda GmbH Production site Singen Robert-Bosch-Str. 8 78224 Singen Germany
 
 For any information about this medicine, please contact the local representative of the Marketing Authorisation Holder:
 
-België/Belgique/Belgien Takeda Belgium NV Tél/Tel: +32 2 464 06 11 medinfoEMEA@takeda.com
+## België/Belgique/Belgien
+
+Takeda Belgium NV Tél/Tel: +32 2 464 06 11 medinfoEMEA@takeda.com
 
 ## Lietuva
 
@@ -1308,9 +1320,7 @@ Takeda, UAB Tel: +370 521 09 070 medinfoEMEA@takeda.com
 
 ## Luxembourg/Luxemburg
 
-Takeda Belgium NV Tél/Tel: +32 2 464 06 11
-
-medinfoEMEA@takeda.com
+Takeda Belgium NV Tél/Tel: +32 2 464 06 11 medinfoEMEA@takeda.com
 
 ## Česká republika
 
@@ -1332,9 +1342,7 @@ Takeda HELLAS S.A. Tel: +30 210 6387800 medinfoEMEA@takeda.com
 
 ## Deutschland
 
-Takeda GmbH Tel: +49 (0) 800 825 3325
-
-medinfoEMEA@takeda.com
+Takeda GmbH Tel: +49 (0) 800 825 3325 medinfoEMEA@takeda.com
 
 ## Eesti
 
@@ -1404,7 +1412,7 @@ Takeda Pharmaceuticals SRL Tel: +40 21 335 03 91 medinfoEMEA@takeda.com
 
 ## Slovenija
 
-Takeda Pharmaceuticals farmacevtska dru ž d.o.o. Tel: +386 (0) 59 082 480 medinfoEMEA@takeda.com
+Takeda Pharmaceuticals farmacevtska družba d.o.o. Tel: +386 (0) 59 082 480 medinfoEMEA@takeda.com
 
 ## Slovenská republika
 
@@ -1414,7 +1422,7 @@ Suomi/Finland Takeda Oy Puh/Tel:  0800 774 051 medinfoEMEA@takeda.com
 
 ## Sverige
 
-Takeda Pharma AB Tel: 020 795 079 medinfoEMEA@takeda.com ba
+Takeda Pharma AB Tel: 020 795 079 medinfoEMEA@takeda.com
 
 <div style=\"page-break-after: always\"></div>
 
@@ -1426,13 +1434,13 @@ Detailed information on this medicine is available on the European Medicines Age
 
 ## The following information is intended for healthcare professionals only:
 
--  As with all injectable vaccines, appropriate medical treatment and supervision must always be readily available in the event of an anaphylactic reaction following the administration of Qdenga.
--  Qdenga must not be mixed with other medicinal products or vaccines in the same syringe.
--  Qdenga must not be administered by intravascular injection under any circumstances.
--  Immunisation should be carried out by subcutaneous injection preferably in the upper arm in the region of the deltoid. Qdenga should not be administered by intramuscular injection.
--  Syncope (fainting) can occur following, or even before, any vaccination as a psychogenic response to injection with a needle. Procedures should be in place to prevent injury from falling and to manage syncopal reactions.
+- As with all injectable vaccines, appropriate medical treatment and supervision must always be readily available in the event of an anaphylactic reaction following the administration of Qdenga.
+- Qdenga must not be mixed with other medicinal products or vaccines in the same syringe.
+- Qdenga must not be administered by intravascular injection under any circumstances.
+- Immunisation should be carried out by subcutaneous injection preferably in the upper arm in the region of the deltoid. Qdenga should not be administered by intramuscular injection.
+- Syncope (fainting) can occur following, or even before, any vaccination as a psychogenic response to injection with a needle. Procedures should be in place to prevent injury from falling and to manage syncopal reactions.
 
-Instructions for reconstitution of the vaccine with the solvent presented in vial:
+## Instructions for reconstitution of the vaccine with the solvent presented in vial:
 
 Qdenga is a 2-component vaccine that consists of a vial containing lyophilised vaccine and a vial containing solvent. The lyophilised vaccine must be reconstituted with solvent prior to administration.
 
@@ -1446,11 +1454,11 @@ Solvent vial
 
 <!-- image -->
 
--  Remove the caps from both vials and clean the surface of stoppers on top of the vials using an alcohol wipe.
--  Attach a sterile needle to a sterile 1 mL syringe and insert the needle into the solvent vial. The recommended needle is 23G.
--  Slowly press the plunger completely down.
--  Turn the vial upside down, withdraw the entire contents of the vial and continue to pull plunger out to 0.75 mL. A bubble should be seen inside of the syringe.
--  Invert the syringe to bring the bubble back to the plunger.
+- Remove the caps from both vials and clean the surface of stoppers on top of the vials using an alcohol wipe.
+- Attach a sterile needle to a sterile 1 mL syringe and insert the needle into the solvent vial. The recommended needle is 23G.
+- Slowly press the plunger completely down.
+- Turn the vial upside down, withdraw the entire contents of the vial and continue to pull plunger out to 0.75 mL. A bubble should be seen inside of the syringe.
+- Invert the syringe to bring the bubble back to the plunger.
 
 <div style=\"page-break-after: always\"></div>
 
@@ -1468,20 +1476,20 @@ Reconstituted vaccine
 
 <!-- image -->
 
--  Withdraw the entire volume of the reconstituted Qdenga solution with the same syringe until an air bubble appears in the syringe.
--  Remove the needle syringe assembly from the vial.
--  Hold the syringe with the needle pointing upwards, tap the side of the syringe to bring the air bubble to the top, discard the attached needle and replace with a new sterile needle, expel the air bubble until a small drop of the liquid forms at the top of the needle. The recommended needle is 25G 16 mm.
--  Qdenga is ready to be administered by subcutaneous injection.
+- Withdraw the entire volume of the reconstituted Qdenga solution with the same syringe until an air bubble appears in the syringe.
+- Remove the needle syringe assembly from the vial.
+- Hold the syringe with the needle pointing upwards, tap the side of the syringe to bring the air bubble to the top, discard the attached needle and replace with a new sterile needle, expel the air bubble until a small drop of the liquid forms at the top of the needle. The recommended needle is 25G 16 mm.
+- Qdenga is ready to be administered by subcutaneous injection.
 
 Qdenga should be administered immediately after reconstitution. Chemical and physical in-use stability have been demonstrated for 2 hours at room temperature (up to 32.5°C) from the time of reconstitution of the vaccine vial. After this time period, the vaccine must be discarded. Do not return it to the refrigerator. From a microbiological point of view Qdenga should be used immediately. If not used immediately, in-use storage times and conditions are the responsibility of the user.
 
 Any unused product or waste material should be disposed of in accordance with local regulations.
 
--  Insert the needle of the syringe assembly into the lyophilised vaccine vial.
--  Direct the flow of the solvent toward the side of the vial while slowly depressing the plunger to reduce the chance of forming bubbles.
--  Release your finger from the plunger and, holding the assembly on a flat surface, gently swirl the vial in both directions with the needle syringe assembly attached.
--  DO NOT SHAKE. Foam and bubbles may form in the reconstituted product.
--  Let the vial and syringe assembly sit for a while until the solution becomes clear. This takes about 30-60 seconds.
+- Insert the needle of the syringe assembly into the lyophilised vaccine vial.
+- Direct the flow of the solvent toward the side of the vial while slowly depressing the plunger to reduce the chance of forming bubbles.
+- Release your finger from the plunger and, holding the assembly on a flat surface, gently swirl the vial in both directions with the needle syringe assembly attached.
+- DO NOT SHAKE. Foam and bubbles may form in the reconstituted product.
+- Let the vial and syringe assembly sit for a while until the solution becomes clear. This takes about 30-60 seconds.
 
 <div style=\"page-break-after: always\"></div>
 
@@ -1497,10 +1505,10 @@ This medicine is subject to additional monitoring. This will allow quick identif
 
 ## Read all of this leaflet carefully before you or your child is vaccinated because it contains important information for you.
 
--  Keep this leaflet. You may need to read it again.
--  If you have any further questions, ask your doctor, pharmacist or nurse.
--  This medicine has been prescribed for you or your child only. Do not pass it on to others.
--  If you or your child get any side effects, talk to your doctor, pharmacist or nurse. This includes any possible side effects not listed in this leaflet. See section 4.
+- Keep this leaflet. You may need to read it again.
+- If you have any further questions, ask your doctor, pharmacist or nurse.
+- This medicine has been prescribed for you or your child only. Do not pass it on to others.
+- If you or your child get any side effects, talk to your doctor, pharmacist or nurse. This includes any possible side effects not listed in this leaflet. See section 4.
 
 ## What is in this leaflet
 
@@ -1527,10 +1535,8 @@ Qdenga stimulates the body's natural defences (immune system). This helps to pro
 
 Dengue is caused by a virus.
 
--  The virus is spread by mosquitos (Aedes mosquitos).
--  If a mosquito bites someone with dengue it can pass the virus on to the next people it bites.
-
-Dengue is not passed directly from person to person.
+- The virus is spread by mosquitos (Aedes mosquitos).
+- If a mosquito bites someone with dengue it can pass the virus on to the next people it bites. Dengue is not passed directly from person to person.
 
 Signs of dengue include fever, headache, pain behind the eyes, muscle and joint pain, feeling or being sick (nausea and vomiting), swollen glands or skin rash. Signs of dengue usually last for 2 to 7 days. You can also be infected with dengue virus but show no signs of illness.
 
@@ -1546,21 +1552,21 @@ To make sure that Qdenga is suitable for you or your child, it is important to t
 
 ## Do not use Qdenga if you or your child
 
--  are allergic to the active substances or any of the other ingredients of Qdenga (listed in section 6).
--  had an allergic reaction after receiving Qdenga before. Signs of an allergic reaction may include an itchy rash, shortness of breath and swelling of the face and tongue.
--  have a weak immune system (the body's natural defences). This may be due to a genetic defect or HIV infection.
--  are taking a medicine that affects the immune system (such as high-dose corticosteroids or chemotherapy). Your doctor will not use Qdenga until some time after you stop treatment with this medicine.
--  are pregnant or breast-feeding.
+- are allergic to the active substances or any of the other ingredients of Qdenga (listed in section 6).
+- had an allergic reaction after receiving Qdenga before. Signs of an allergic reaction may include an itchy rash, shortness of breath and swelling of the face and tongue.
+- have a weak immune system (the body's natural defences). This may be due to a genetic defect or HIV infection.
+- are taking a medicine that affects the immune system (such as high-dose corticosteroids or chemotherapy). Your doctor will not use Qdenga until some time after you stop treatment with this medicine.
+- are pregnant or breast-feeding.
 
-## Do not use Qdenga if any of the above applies.
+Do not use Qdenga if any of the above applies.
 
 ## Warnings and precautions
 
 Tell your doctor, pharmacist or nurse before receiving Qdenga if you or your child:
 
--  have an infection with fever. It might be necessary to postpone the vaccination until recovery.
--  have ever had any health problems when given a vaccine. Your doctor will carefully consider the risks and benefits of vaccination.
--  have ever fainted from an injection. Dizziness, fainting, and sometimes falling, can happen (mostly in young people) following, or even before, any injection with a needle.
+- have an infection with fever. It might be necessary to postpone the vaccination until recovery.
+- have ever had any health problems when given a vaccine. Your doctor will carefully consider the risks and benefits of vaccination.
+- have ever fainted from an injection. Dizziness, fainting, and sometimes falling, can happen (mostly in young people) following, or even before, any injection with a needle.
 
 ## Important information about the protection provided
 
@@ -1586,15 +1592,15 @@ In particular, tell your doctor or pharmacist if you or your child are taking an
 
 <div style=\"page-break-after: always\"></div>
 
--  Medicines that affect your body's natural defences (immune system) such as high-dose corticosteroids or chemotherapy. In this case, your doctor will not use Qdenga until some time after you stop treatment. This is because Qdenga might not work as well.
--  Medicines called 'immunoglobulins' or blood products containing immunoglobulins, such as blood or plasma. In this case, your doctor will not use Qdenga until 6 weeks, and preferably not for 3 months after you stop treatment. This is because Qdenga might not work as well.
+- Medicines that affect your body's natural defences (immune system) such as high-dose corticosteroids or chemotherapy. In this case, your doctor will not use Qdenga until some time after you stop treatment. This is because Qdenga might not work as well.
+- Medicines called 'immunoglobulins' or blood products containing immunoglobulins, such as blood or plasma. In this case, your doctor will not use Qdenga until 6 weeks, and preferably not for 3 months after you stop treatment. This is because Qdenga might not work as well.
 
 ## Pregnancy and breast-feeding
 
 Do not use Qdenga if you or your daughter are pregnant or breast-feeding. If you or your daughter:
 
--  are of child-bearing age, you must take necessary precautions to avoid pregnancy for one month after Qdenga vaccination.
--  think you or your daughter may be pregnant or are planning to have a baby, ask your doctor, pharmacist or nurse for advice before using Qdenga .
+- are of child-bearing age, you must take necessary precautions to avoid pregnancy for one month after Qdenga vaccination.
+- think you or your daughter may be pregnant or are planning to have a baby, ask your doctor, pharmacist or nurse for advice before using Qdenga .
 
 ## Driving and using machines
 
@@ -1620,8 +1626,8 @@ Qdenga should be used according to official recommendations.
 
 ## If  you or your child miss an injection of Qdenga
 
--  If you or your child miss a scheduled injection, your doctor will decide when to give the missed injection. It is important that you or your child follow the instructions of your doctor, pharmacist or nurse about the follow-up injection.
--  If you forget or are not able to go back at the scheduled time, ask your doctor, pharmacist or nurse for advice.
+- If you or your child miss a scheduled injection, your doctor will decide when to give the missed injection. It is important that you or your child follow the instructions of your doctor, pharmacist or nurse about the follow-up injection.
+- If you forget or are not able to go back at the scheduled time, ask your doctor, pharmacist or nurse for advice.
 
 If you have any further questions on the use of this vaccine, ask your doctor, pharmacist or nurse.
 
@@ -1633,15 +1639,15 @@ Like all medicines, Qdenga can cause side effects, although not everybody gets t
 
 If any of these symptoms occur after leaving the place where you or your child received an injection, contact a doctor immediately:
 
--  difficulty breathing
--  blueness of the tongue or lips
+- difficulty breathing
+- blueness of the tongue or lips
 
 <div style=\"page-break-after: always\"></div>
 
--  a rash
--  swelling of the face or throat
--  low blood pressure causing dizziness or fainting
--  sudden and serious feeling of illness or unease with drop in blood pressure causing dizziness and loss of consciousness, rapid heartbeat linked with breathing difficulty.
+- a rash
+- swelling of the face or throat
+- low blood pressure causing dizziness or fainting
+- sudden and serious feeling of illness or unease with drop in blood pressure causing dizziness and loss of consciousness, rapid heartbeat linked with breathing difficulty.
 
 These signs or symptoms (anaphylactic reactions) usually develop soon after the injection is given and while you or your child are still in the clinic or doctor's surgery. They can also happen very rarely after receiving any vaccine.
 
@@ -1649,71 +1655,71 @@ The following side effects occurred during studies in children, young people and
 
 Very common (may affect more than 1 in 10 people):
 
--  injection site pain
--  headache
--  muscle pain
--  injection site redness
--  generally feeling unwell
--  weakness
--  infections of the nose or throat
--  fever
+- injection site pain
+- headache
+- muscle pain
+- injection site redness
+- generally feeling unwell
+- weakness
+- infections of the nose or throat
+- fever
 
 Common (may affect up to 1 in 10 people):
 
--  injection site swelling
--  pain or inflammation of the nose or throat
--  injection site bruising
--  injection site itching
--  inflammation of throat and tonsils
--  joint pain
--  flu like illness
+- injection site swelling
+- pain or inflammation of the nose or throat
+- injection site bruising
+- injection site itching
+- inflammation of throat and tonsils
+- joint pain
+- flu like illness
 
 Uncommon (may affect up to 1 in 100 people):
 
--  diarrhoea
--  feeling sick
+- diarrhoea
+- feeling sick
 
-
+•
 
 stomach pain
 
--  being sick (vomiting)
--  injection site bleeding
--  feeling lightheaded
--  itchy skin
--  skin rash, including blotchy or itchy skin eruptions
--  hives
--  tiredness
--  skin colour changes at the injection site
--  inflammation of the airways
--  runny nose
+- being sick (vomiting)
+- injection site bleeding
+- feeling lightheaded
+- itchy skin
+- skin rash, including blotchy or itchy skin eruptions
+- hives
+- tiredness
+- skin colour changes at the injection site
+- inflammation of the airways
+- runny nose
 
 ## Rare (may affect up to 1 in 1,000 people):
 
--  small red or purple spots under your skin (petechiae)
+- small red or purple spots under your skin (petechiae)
 
 ## Very rare (may affect up to 1 in 10,000 people):
 
--  rapid swelling under the skin in areas such as the face, throat, arms and legs
--  low levels of blood platelets (thrombocytopenia)
+- rapid swelling under the skin in areas such as the face, throat, arms and legs
+- low levels of blood platelets (thrombocytopenia)
 
 ## Not known (cannot be estimated from the available data):
 
--  sudden, severe allergic (anaphylactic) reaction, with breathing difficulty, swelling,
+- sudden, severe allergic (anaphylactic) reaction, with breathing difficulty, swelling,
 
 <div style=\"page-break-after: always\"></div>
 
 lightheadedness, fast heartbeat, sweating and loss of consciousness
 
--  eye pain
+- eye pain
 
 ## Additional side effects in children 4 to 5 years of age:
 
 Very common (may affect more than 1 in 10 people):
 
--  decreased appetite
--  feeling sleepy
--  irritability
+- decreased appetite
+- feeling sleepy
+- irritability
 
 ## Reporting of side effects
 
@@ -1735,7 +1741,7 @@ Do not throw away any medicines via wastewater or household waste. Ask your phar
 
 ## What Qdenga contains
 
--  After reconstitution, one dose (0.5 mL) contains:
+- After reconstitution, one dose (0.5 mL) contains:
 
 ```
 Dengue virus serotype 1 (live, attenuated)*: ≥ 3.3 log10 PFU**/dose Dengue virus serotype 2 (live, attenuated)#: ≥ 2.7 log10 PFU**/dose Dengue virus serotype 3 (live, attenuated)*: ≥ 4.0 log10 PFU**/dose Dengue virus serotype 4 (live, attenuated)*: ≥ 4.5 log10 PFU**/dose
@@ -1747,31 +1753,25 @@ Dengue virus serotype 1 (live, attenuated)*: ≥ 3.3 log10 PFU**/dose Dengue vir
 
 **PFU = Plaque-forming units
 
--  The other ingredients are: α,α-Trehalose dihydrate, Poloxamer 407, human serum albumin, potassium dihydrogen phosphate, disodium hydrogen phosphate, potassium chloride, sodium chloride, water for injections.
+- The other ingredients are: α,α-Trehalose dihydrate, Poloxamer 407, human serum albumin, potassium dihydrogen phosphate, disodium hydrogen phosphate, potassium chloride, sodium chloride, water for injections.
 
 <div style=\"page-break-after: always\"></div>
 
 ## What Qdenga looks like and contents of the pack
 
-Qdenga is a powder and solvent for solution for injection. Qdenga is provided as a powder in a singledose vial and a solvent in pre-filled syringe with 2 separate needles or with no needle.
-
-The powder and the solvent must be mixed together before use.
+Qdenga is a powder and solvent for solution for injection. Qdenga is provided as a powder in a singledose vial and a solvent in pre-filled syringe with 2 separate needles or with no needle. The powder and the solvent must be mixed together before use.
 
 Qdenga powder and solvent for solution for injection in pre-filled syringe is available in packs of 1 or 5.
 
 Not all pack sizes might be marketed.
 
-The powder is a white to off-white coloured compact cake.
-
-The solvent (0.22% sodium chloride solution) is a clear, colourless liquid.
-
-After reconstitution, Qdenga is a clear, colourless to pale yellow solution, essentially free of foreign particulates.
+The powder is a white to off-white coloured compact cake. The solvent (0.22% sodium chloride solution) is a clear, colourless liquid. After reconstitution, Qdenga is a clear, colourless to pale yellow solution, essentially free of foreign particulates.
 
 ## Marketing Authorisation Holder and Manufacturer
 
 ## Marketing Authorisation Holder
 
-Takeda GmbH Byk-Gulden-Str. 2 78467 Konstanz Germany
+Takeda Pharmaceuticals International AG Ireland Branch Block 2 Miesian Plaza 50-58 Baggot Street Lower Dublin 2 D02 HW68 Ireland
 
 ## Manufacturer
 
@@ -1779,11 +1779,13 @@ Takeda GmbH Production site Singen Robert-Bosch-Str. 8 78224 Singen Germany
 
 For any information about this medicine, please contact the local representative of the Marketing Authorisation Holder:
 
-## België/Belgique/Belgien
+België/Belgique/Belgien
 
-Takeda Belgium NV Tel/Tél: +32 2 464 06 11 medinfoEMEA@takeda.com
+Takeda Belgium NV Tel/Tél: +32 2 464 06 11
 
-## Lietuva
+medinfoEMEA@takeda.com
+
+Lietuva
 
 Takeda, UAB Tel: +370 521 09 070 medinfoEMEA@takeda.com
 
@@ -1793,15 +1795,15 @@ Takeda, UAB Tel: +370 521 09 070 medinfoEMEA@takeda.com
 
 ## Luxembourg/Luxemburg
 
-Takeda Belgium NV Tel/Tél: +32 2 464 06 11 medinfoEMEA@takeda.com
+Takeda Belgium NV Tel/Tél: +32 2 464 06 11
+
+medinfoEMEA@takeda.com
 
 ## Česká republika
 
 Takeda Pharmaceuticals Czech Republic s.r.o. Tel: +420 234 722 722 medinfoEMEA@takeda.com
 
-## Magyarország
-
-Takeda Pharma Kft. Tel: +36 1 270 7030 medinfoEMEA@takeda.com
+Magyarország Takeda Pharma Kft. Tel: +36 1 270 7030 medinfoEMEA@takeda.com
 
 ## Danmark
 
@@ -1813,7 +1815,9 @@ Takeda HELLAS S.A. Tel: +30 210 6387800 medinfoEMEA@takeda.com
 
 <div style=\"page-break-after: always\"></div>
 
-Deutschland Takeda GmbH Tel: +49 (0) 800 825 3325 medinfoEMEA@takeda.com
+## Deutschland
+
+Takeda GmbH Tel: +49 (0) 800 825 3325 medinfoEMEA@takeda.com
 
 ## Eesti
 
@@ -1881,7 +1885,7 @@ Takeda Pharmaceuticals SRL Tel: +40 21 335 03 91 medinfoEMEA@takeda.com
 
 ## Slovenija
 
-Takeda Pharmaceuticals farmacevtska dru ž d.o.o. Tel: +386 (0) 59 082 480 medinfoEMEA@takeda.com
+Takeda Pharmaceuticals farmacevtska družba d.o.o. Tel: +386 (0) 59 082 480 medinfoEMEA@takeda.com
 
 ## Slovenská republika
 
@@ -1889,11 +1893,15 @@ Takeda Pharmaceuticals Slovakia s.r.o. Tel: +421 (2) 20 602 600 medinfoEMEA@take
 
 ## Suomi/Finland
 
-Takeda Oy Puh/Tel: 0800 774 051 medinfoEMEA@takeda.com
+Takeda Oy Puh/Tel: 0800 774 051
+
+medinfoEMEA@takeda.com
 
 ## Sverige
 
-Takeda Pharma AB Tel: 020 795 079 medinfoEMEA@takeda.com ba
+Takeda Pharma AB Tel: 020 795 079
+
+medinfoEMEA@takeda.com
 
 <div style=\"page-break-after: always\"></div>
 
@@ -1907,11 +1915,11 @@ Detailed information on this medicine is available on the European Medicines Age
 
 ## The following information is intended for healthcare professionals only:
 
--  As with all injectable vaccines, appropriate medical treatment and supervision must always be readily available in the event of an anaphylactic reaction following the administration of Qdenga.
--  Qdenga must not be mixed with other medicinal products or vaccines in the same syringe.
--  Qdenga must not be administered by intravascular injection under any circumstances.
--  Immunisation should be carried out by subcutaneous injection preferably in the upper arm in the region of the deltoid. Qdenga should not be administered by intramuscular injection.
--  Syncope (fainting) can occur following, or even before, any vaccination as a psychogenic response to injection with a needle. Procedures should be in place to prevent injury from falling and to manage syncopal reactions.
+- As with all injectable vaccines, appropriate medical treatment and supervision must always be readily available in the event of an anaphylactic reaction following the administration of Qdenga.
+- Qdenga must not be mixed with other medicinal products or vaccines in the same syringe.
+- Qdenga must not be administered by intravascular injection under any circumstances.
+- Immunisation should be carried out by subcutaneous injection preferably in the upper arm in the region of the deltoid. Qdenga should not be administered by intramuscular injection.
+- Syncope (fainting) can occur following, or even before, any vaccination as a psychogenic response to injection with a needle. Procedures should be in place to prevent injury from falling and to manage syncopal reactions.
 
 ## Instructions for reconstitution of the vaccine with solvent presented in pre-filled syringe:
 
@@ -1927,9 +1935,9 @@ Lyophilised vaccine vial
 
 <!-- image -->
 
--  Remove the cap from the vaccine vial and clean the surface of stopper on top of the vial using an alcohol wipe.
--  Attach a sterile needle to the pre-filled syringe and insert the needle into the vaccine vial. The recommended needle is 23G.
--  Direct the flow of the solvent toward the side of the vial while slowly depressing the plunger to reduce the chance of forming bubbles.
+- Remove the cap from the vaccine vial and clean the surface of stopper on top of the vial using an alcohol wipe.
+- Attach a sterile needle to the pre-filled syringe and insert the needle into the vaccine vial. The recommended needle is 23G.
+- Direct the flow of the solvent toward the side of the vial while slowly depressing the plunger to reduce the chance of forming bubbles.
 
 <div style=\"page-break-after: always\"></div>
 
@@ -1943,15 +1951,15 @@ Reconstituted vaccine
 
 <!-- image -->
 
--  Withdraw the entire volume of the reconstituted Qdenga solution with the same syringe until an air bubble appears in the syringe.
--  Remove the needle syringe assembly from the vial.
--  Hold the syringe with the needle pointing upwards, tap the side of the syringe to bring the air bubble to the top, discard the attached needle and replace with a new sterile needle, expel the air bubble until a small drop of the liquid forms at the top of the needle. The recommended needle is 25G 16 mm.
--  Qdenga is ready to be administered by subcutaneous injection.
+- Withdraw the entire volume of the reconstituted Qdenga solution with the same syringe until an air bubble appears in the syringe.
+- Remove the needle syringe assembly from the vial.
+- Hold the syringe with the needle pointing upwards, tap the side of the syringe to bring the air bubble to the top, discard the attached needle and replace with a new sterile needle, expel the air bubble until a small drop of the liquid forms at the top of the needle. The recommended needle is 25G 16 mm.
+- Qdenga is ready to be administered by subcutaneous injection.
 
 Qdenga should be administered immediately after reconstitution. Chemical and physical in-use stability have been demonstrated for 2 hours at room temperature (up to 32.5°C) from the time of reconstitution of the vaccine vial. After this time period, the vaccine must be discarded. Do not return it to the refrigerator. From a microbiological point of view Qdenga should be used immediately. If not used immediately, in-use storage times and conditions are the responsibility of the user.
 
 Any unused product or waste material should be disposed of in accordance with local regulations.
 
--  Release your finger from the plunger and, holding the assembly on a flat surface, gently swirl the vial in both directions with the needle syringe assembly attached.
--  DO NOT SHAKE. Foam and bubbles may form in the reconstituted product.
--  Let the vial and syringe assembly sit for a while until the solution becomes clear. This takes about 30-60 seconds.
+- Release your finger from the plunger and, holding the assembly on a flat surface, gently swirl the vial in both directions with the needle syringe assembly attached.
+- DO NOT SHAKE. Foam and bubbles may form in the reconstituted product.
+- Let the vial and syringe assembly sit for a while until the solution becomes clear. This takes about 30-60 seconds.

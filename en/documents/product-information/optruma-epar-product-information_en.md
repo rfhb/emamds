@@ -1,20 +1,20 @@
 ---
-document_datetime: 2024-09-26 10:43:44
+document_datetime: 2026-01-27 16:10:46
 document_pages: 27
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/optruma-epar-product-information_en.pdf
 document_name: optruma-epar-product-information_en.pdf
 version: success
-processing_time: 5.4664343
-conversion_datetime: 2025-12-14 20:30:22.068681
+processing_time: 5.3654248
+conversion_datetime: 2026-02-01 20:16:35.224035
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.64.1
-  docling-core: 2.55.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.11.0
+  docling-jobkit: 1.9.1
+  docling: 2.71.0
+  docling-core: 2.62.0
+  docling-ibm-models: 3.11.0
+  docling-parse: 4.7.3
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.1-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
 ---
 ## ANNEX I
 
@@ -182,8 +182,6 @@ The following convention has been used for the classification of the adverse rea
 | Reproductive system and breast disorders Common: Mild breast symptoms a such as pain, enlargement and tenderness                                                                                                                                         |
 | General disorders and administration site conditions Very common: Flu syndrome Common: Peripheral oedema                                                                                                                                                 |
 | Investigations Very common: Increased blood pressure a                                                                                                                                                                                                   |
-
-a Term(s) included based on postmarketing experience.
 
 ## c. Description of selected adverse reactions
 
@@ -365,7 +363,7 @@ No special requirements.
 
 Eli Lilly Nederland B.V.
 
-Papendorpseweg 83 3528 BJ Utrecht The Netherlands
+Orteliuslaan 1000 3528 BD Utrecht The Netherlands
 
 ## 8. MARKETING AUTHORISATION NUMBERS
 
@@ -375,13 +373,15 @@ EU/1/98/074/004
 
 ## 9. DATE OF FIRST AUTHORISATION/RENEWAL OF THE AUTHORISATION
 
-Date of first authorisation: 5 August 1998 Date of latest renewal: 11 August 2008
+Date of first authorisation: 5 August 1998
+
+Date of latest renewal: 11 August 2008
 
 ## 10. DATE OF REVISION OF THE TEXT
 
 DD month YYYY
 
-Detailed information on this medicinal product is available on the website of the European Medicines Agency http://www.ema.europa.eu.
+Detailed information on this medicinal product is available on the website of the European Medicines Agency https://www.ema.europa.eu.
 
 <div style=\"page-break-after: always\"></div>
 
@@ -465,11 +465,11 @@ Store in the original package.
 
 Do not freeze.
 
-## 10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
+10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
-Eli Lilly Nederland B.V. Papendorpseweg 83 3528 BJ Utrecht The Netherlands
+Eli Lilly Nederland B.V. Orteliuslaan 1000 3528 BD Utrecht The Netherlands
 
 ## 12. MARKETING AUTHORISATION NUMBER(S)
 
@@ -485,7 +485,7 @@ Medicinal product subject to medical prescription.
 
 ## 15. INSTRUCTIONS ON USE
 
-## 16. INFORMATION IN BRAILLE
+16. INFORMATION IN BRAILLE
 
 Optruma
 
@@ -499,9 +499,9 @@ PC
 
 SN
 
-NN
-
 <div style=\"page-break-after: always\"></div>
+
+NN
 
 <div style=\"page-break-after: always\"></div>
 
@@ -559,7 +559,9 @@ Do not freeze.
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
-Eli Lilly Nederland B.V. Papendorpseweg 83 3528 BJ Utrecht The Netherlands
+Eli Lilly Nederland B.V. Orteliuslaan 1000 3528 BD Utrecht
+
+The Netherlands
 
 ## 12. MARKETING AUTHORISATION NUMBER(S)
 
@@ -597,17 +599,17 @@ NN
 
 <div style=\"page-break-after: always\"></div>
 
-| MINIMUM PARTICULARS TO APPEARON BLISTERS ORSTRIPS   |
-|-----------------------------------------------------|
-| BLISTER (ALL BLISTER PACKS):                        |
+| MINIMUM PARTICULARS TO APPEAR ON BLISTERS OR STRIPS   |
+|-------------------------------------------------------|
+| BLISTER (ALL BLISTER PACKS):                          |
 
-| 1.   | NAMEOFTHEMEDICINAL PRODUCT   |
-|------|------------------------------|
+| 1.   | NAME OF THE MEDICINAL PRODUCT   |
+|------|---------------------------------|
 
 OPTRUMA 60 mg film coated tablets raloxifene hydrochloride
 
-| 2.   | NAMEOFTHEMARKETING AUTHORISATION HOLDER   |
-|------|-------------------------------------------|
+| 2.   | NAME OF THE MARKETING AUTHORISATION HOLDER   |
+|------|----------------------------------------------|
 
 Lilly
 
@@ -815,7 +817,7 @@ Optruma are white, oval, film coated tablets which are marked with the number 41
 
 ## Marketing Authorisation Holder
 
-Eli Lilly Nederland B.V., Papendorpseweg 83, 3528 BJ Utrecht, The Netherlands
+Eli Lilly Nederland B.V., Orteliuslaan 1000, 3528 BD Utrecht, The Netherlands
 
 ## Manufacturer
 
@@ -833,7 +835,9 @@ Tél/Tel: + 32-(0)2 548 84 84
 
 ## България
 
-ТП \"Ели Лили Недерланд\" Б.В. - България те л . + 359 2 491 41 40
+ТП \"Ели Лили Недерланд\" Б.В. -България
+
+те л . + 359 2 491 41 40
 
 ## Česká republika
 
@@ -849,7 +853,9 @@ Tlf.: +45 45 26 60 00
 
 ## Deutschland
 
-Lilly Deutschland GmbH Tel. + 49-(0) 6172 273 2222
+Lilly Deutschland GmbH
+
+Tel. + 49-(0) 6172 273 2222
 
 ## Eesti
 
@@ -859,9 +865,7 @@ Tel: +372 6 817 280
 
 ## Ελλάδα
 
-ΦΑΡΜΑΣΕΡΒ - ΛΙΛΛΥ Α.Ε.Β.Ε
-
-.
+ΦΑΡΜΑΣΕΡΒ -ΛΙΛΛΥ Α.Ε.Β.Ε
 
 Τηλ: +30 210 629 4600
 
@@ -891,7 +895,9 @@ Tel: + 353-(0) 1 661 4377
 
 ## Ísland
 
-Icepharma hf. Sími + 354 540 8000
+Icepharma hf.
+
+Sími + 354 540 8000
 
 ## Italia
 
@@ -913,13 +919,11 @@ Phadisco Ltd
 
 Eli Lilly (Suisse) S.A Pārstāvniecība Latvijā
 
-Eli Lilly (Suisse) S.A Pārstāvniecība Latvijā
-
 Tel: +371 67364000
 
 ## This leaflet was last revised in month YYYY.
 
-Detailed information on this medicine is available on the European Medicines Agency (EMA) web site: http://www.ema.europa.eu
+Detailed information on this medicine is available on the European Medicines Agency (EMA) web site: https://www.ema.europa.eu
 
 ## Lietuva
 
@@ -1002,3 +1006,5 @@ Puh/Tel: + 358-(0) 9 85 45 250
 Eli Lilly Sweden AB
 
 Tel: + 46-(0) 8 7378800
+
+.

@@ -1,18 +1,18 @@
 ---
-document_datetime: 2023-09-21 20:41:08
-document_pages: 230
+document_datetime: 2026-01-21 14:35:49
+document_pages: 229
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/humalog-epar-product-information_en.pdf
 document_name: humalog-epar-product-information_en.pdf
 version: success
-processing_time: 48.6800063
-conversion_datetime: 2025-12-28 09:03:50.507226
+processing_time: 51.9947301
+conversion_datetime: 2026-02-01 20:28:03.416064
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.66.0
-  docling-core: 2.57.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.11.0
+  docling-jobkit: 1.9.1
+  docling: 2.71.0
+  docling-core: 2.62.0
+  docling-ibm-models: 3.11.0
+  docling-parse: 4.7.3
   python: cpython-313 (3.13.11)
   plaform: macOS-26.2-arm64-arm-64bit-Mach-O
 ---
@@ -24,12 +24,7 @@ docling_version:
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
-| Humalog 100 units/ml solution for injection in vial                            |
-|--------------------------------------------------------------------------------|
-| Humalog 100 units/ml solution for injection in cartridge                       |
-| Humalog 100 units/ml KwikPen solution for injection in a pre-filled pen        |
-| Humalog 100 units/ml Junior KwikPen solution for injection in a pre-filled pen |
-| Humalog 100 units/ml Tempo Pen solution for injection in a pre-filled pen      |
+Humalog 100 units/ml solution for injection in vial Humalog 100 units/ml solution for injection in cartridge Humalog 100 units/ml KwikPen solution for injection in a pre-filled pen Humalog 100 units/ml Junior KwikPen solution for injection in a pre-filled pen Humalog 100 units/ml Tempo Pen solution for injection in a pre-filled pen
 
 ## 2. QUALITATIVE AND QUANTITATIVE COMPOSITION
 
@@ -239,7 +234,7 @@ Hypoglycaemia is the most frequent undesirable effect of insulin therapy that a 
 
 ## Tabulated list of adverse reactions
 
-The following related adverse reactions from clinical trials are listed below as MedDRA preferred term by system organ class and in order o f decreasing incidence (very common: ≥1/10; common: ≥1/100 to &lt;1/10; uncommon: ≥1/1,000 to &lt;1/100; rare: ≥1/10,000 to &lt;1/1,000; very rare: &lt;1/10,000) ; not known (cannot be estimated form the available data).
+The following related adverse reactions from clinical trials are listed below as MedDRA preferred term by system organ class and in order of decreasing incidence (very common: ≥1/10; common: ≥1/100 to &lt;1/10; uncommon: ≥1/1,000 to &lt;1/100; rare: ≥1/10,000 to &lt;1/1,000; very rare: &lt;1/10,000) ; not known (cannot be estimated form the available data).
 
 Within each frequency grouping, adverse reactions are presented in order of decreasing seriousness.
 
@@ -258,9 +253,9 @@ Within each frequency grouping, adverse reactions are presented in order of decr
 
 Local allergy in patients is common. Redness, swelling, and itching can occur at the site of insulin injection. This condition usually resolves in a few days to a few weeks. In some instances, this condition may be related to factors other than insulin, such as irritants in the skin cleansing agent or poor injection technique.
 
-## Systemic allergy
-
 <div style=\"page-break-after: always\"></div>
+
+## Systemic allergy
 
 Systemic allergy,  which is rare  but potentially more serious, is a generalised allergy to insulin. It may cause a rash over the whole body, shortness of breath, wheezing, reduction in blood pressure, fast pulse, or sweating. Severe cases of generalised allergy may be life-threatening.
 
@@ -296,9 +291,9 @@ Sustained carbohydrate intake and observation may be necessary because hypoglyca
 
 Pharmacotherapeutic group : Drugs used in diabetes, insulins and analogues for injection, fast-acting, ATC code: A10AB04
 
-The primary activity of insulin lispro is the regulation of glucose metabolism.
-
 <div style=\"page-break-after: always\"></div>
+
+The primary activity of insulin lispro is the regulation of glucose metabolism.
 
 In addition, insulins have several anabolic and anti-catabolic actions on a variety of different tissues. Within muscle tissue this includes increasing glycogen, fatty acid, glycerol and protein synthesis and amino acid uptake, while decreasing glycogenolysis, gluconeogenesis, ketogenesis, lipolysis, protein catabolism and amino acid output.
 
@@ -498,7 +493,7 @@ Any unused product or waste material should be disposed of in accordance with lo
 
 ## 7. MARKETING AUTHORISATION HOLDER
 
-Eli Lilly Nederland B.V., Papendorpseweg 83, 3528 BJ Utrecht, The Netherlands.
+Eli Lilly Nederland B.V., Orteliuslaan 1000, 3528 BD Utrecht, The Netherlands.
 
 <div style=\"page-break-after: always\"></div>
 
@@ -520,7 +515,7 @@ th April 2006
 
 ## 10. DATE OF REVISION OF THE TEXT
 
-Detailed information on this medicinal product is available on the website of the European Medicines Agency http://www.ema.europa.eu
+Detailed information on this medicinal product is available on the website of the European Medicines Agency https://www.ema.europa.eu
 
 <div style=\"page-break-after: always\"></div>
 
@@ -534,7 +529,7 @@ Each ml contains 100 units insulin lispro* (equivalent to 3.5mg).
 
 Humalog Mix25 consists of 25% insulin lispro solution and 75% insulin lispro protamine suspension.
 
-## Vial
+Vial
 
 Each vial contains 1000 units of insulin lispro in 10 ml suspension.
 
@@ -698,7 +693,7 @@ Hypoglycaemia is the most frequent undesirable effect of insulin therapy that a 
 
 ## Tabulated list of adverse reactions
 
-The following related adverse reactions from clinical trials are listed below as MedDRA preferred ter m by system organ class and in order of decreasing incidence (very common: ≥1/10; common: ≥1/100 to &lt;1/10; uncommon: ≥1/1,000 to &lt;1/100; rare: ≥1/10,000 to &lt;1/1,000; very rare: &lt;1/10,000) ; not known (cannot be estimated form the available data).
+The following related adverse reactions from clinical trials are listed below as MedDRA preferred term by system organ class and in order of decreasing incidence (very common: ≥1/10; common: ≥1/100 to &lt;1/10; uncommon: ≥1/1,000 to &lt;1/100; rare: ≥1/10,000 to &lt;1/1,000; very rare: &lt;1/10,000) ; not known (cannot be estimated form the available data).
 
 Within each frequency grouping, adverse reactions are presented in order of decreasing seriousness.
 
@@ -820,7 +815,7 @@ Before use
 
 3 years.
 
-After first use /after cartridge insertion
+## After first use /after cartridge insertion
 
 28 days.
 
@@ -948,11 +943,15 @@ Use of the injection sites should be rotated so that the same is not used more t
 
 Any unused product or waste material should be disposed of in accordance with local requirements.
 
-## 7. MARKETING AUTHORISATION HOLDER
+7.
 
-Eli Lilly Nederland B.V., Papendorpseweg 83, 3528 BJ Utrecht, The Netherlands.
+MARKETING AUTHORISATION HOLDER
 
-## 8. MARKETING AUTHORISATION NUMBERS
+Eli Lilly Nederland B.V., Orteliuslaan 1000, 3528 BD Utrecht, The Netherlands.
+
+8.
+
+MARKETING AUTHORISATION NUMBERS
 
 EU/1/96/007/005
 
@@ -964,7 +963,9 @@ EU/1/96/007/033
 
 EU/1/96/007/034
 
-## 9. DATE OF FIRST AUTHORISATION/RENEWAL OF AUTHORISATION
+9.
+
+DATE OF FIRST AUTHORISATION/RENEWAL OF AUTHORISATION
 
 Date of first authorisation: 30
 
@@ -978,7 +979,7 @@ th April 2006
 
 Detailed information on this medicinal product is available on the website of the European Medicines
 
-Agency http://www.ema.europa.eu
+Agency https://www.ema.europa.eu
 
 26
 
@@ -1020,7 +1021,7 @@ Humalog Mix50 is indicated for the treatment of patients with diabetes mellitus 
 
 ## 4.2 Posology and method of administration
 
-Posology
+## Posology
 
 The dosage should be determined by the physician, according to the requirement of the patient.
 
@@ -1215,10 +1216,6 @@ Insulin lispro has a rapid onset of action (approximately 15 minutes), thus allo
 
 <div style=\"page-break-after: always\"></div>
 
-Hypoglycaemic activity
-
-Time, hours
-
 <!-- image -->
 
 The above representation reflects the relative amount of glucose over time required to maintain the subject's whole blood glucose concentrations near fasting levels and is an indicator of the effect of these insulins on glucose metabolism over time.
@@ -1233,11 +1230,13 @@ The pharmacokinetics of insulin lispro reflect a compound that is rapidly absorb
 
 Insulin lispro maintains more rapid absorption when compared to soluble human insulin in patients with renal impairment. In patients with type 2 diabetes over a wide range of renal function  the pharmacokinetic differences between insulin lispro and soluble human insulin were generally maintained and shown to be independent of renal function.  Insulin lispro maintains more rapid absorption and elimination when compared to soluble human insulin in patients with hepatic impairment.
 
-<div style=\"page-break-after: always\"></div>
-
 ## 5.3 Preclinical safety data
 
-In in vitro tests, including binding to insulin receptor sites and effects on growing cells, insulin lispro behaved in a manner that closely resembled human insulin. Studies also demonstrate that the dissociation of binding to the insulin receptor of insulin lispro  is equivalent to human insulin. Acute, one month and twelve month toxicology studies produced no significant toxicity findings.
+In in vitro tests, including binding to insulin receptor sites and effects on growing cells, insulin lispro behaved in a manner that closely resembled human insulin. Studies also demonstrate that the
+
+<div style=\"page-break-after: always\"></div>
+
+dissociation of binding to the insulin receptor of insulin lispro  is equivalent to human insulin. Acute, one month and twelve month toxicology studies produced no significant toxicity findings.
 
 Insulin lispro did not induce fertility impairment, embryotoxicity or teratogenicity in animal studies.
 
@@ -1361,7 +1360,7 @@ Any unused product or waste material should be disposed of in accordance with lo
 
 MARKETING AUTHORIZATION HOLDER
 
-Eli Lilly Nederland B.V., Papendorpseweg 83, 3528 BJ Utrecht, The Netherlands.
+Eli Lilly Nederland B.V., Orteliuslaan 1000, 3528 BD Utrecht, The Netherlands.
 
 8.
 
@@ -1393,7 +1392,7 @@ DATE OF REVISION OF THE TEXT
 
 Detailed information on this medicinal product is available on the website of the European Medicines
 
-Agency http://www.ema.europa.eu
+Agency https://www.ema.europa.eu
 
 36
 
@@ -1491,7 +1490,7 @@ Transferring a patient to another type or brand of insulin should be done under 
 
 ## Hypoglycaemia and hyperglycaemia
 
-Conditions  which  may  make  the  early  warning  symptoms  of  hypoglycaemia  different  or  less pronounced include long duration of diabetes,  intensified insulin  therapy,  diabetic  nerve  disease  or medicinal products such as beta-blockers.
+Conditions  which  may  make  the  early  warning  symptoms  of  hypoglycaemia  different  or  less pronounced include  long  duration  of  diabetes,  intensified  insulin  therapy,  diabetic  nerve  disease  or medicinal products such as beta-blockers.
 
 A few patients who have experienced hypoglycaemic reactions after transfer from animal-source insulin to human insulin have reported that the early warning symptoms of hypoglycaemia were less pronounced or different from those experienced with their previous insulin. Uncorrected hypoglycaemic or hyperglycaemic reactions can cause loss of consciousness, coma, or death.
 
@@ -1563,7 +1562,7 @@ Hypoglycaemia is the most frequent adverse reaction of insulin lispro therapy th
 
 ## Tabulated list of adverse reactions
 
-The following related adverse reactions from clinical trials are listed below as MedDRA preferred term by system o rgan class and in order of decreasing incidence (very common: ≥1/10; common: ≥1/100 to &lt;1/10; uncommon: ≥1/1,000 to &lt;1/100; rare: ≥1/10,000 to &lt;1/1,000; very rare: &lt;1/10,000) ; not known (cannot be estimated form the available data).
+The following related adverse reactions from clinical trials are listed below as MedDRA preferred term by system organ class and in order of decreasing incidence (very common: ≥1/10; common: ≥1/100 to &lt;1/10; uncommon: ≥1/1,000 to &lt;1/100; rare: ≥1/10,000 to &lt;1/1,000; very rare: &lt;1/10,000) ; not known (cannot be estimated form the available data).
 
 Within each frequency grouping, adverse reactions are presented in order of decreasing seriousness.
 
@@ -1642,7 +1641,7 @@ Figure 2: Arithmetic mean glucose infusion rate versus time profiles following s
 
 <div style=\"page-break-after: always\"></div>
 
-In patients with type 2 diabetes on maximum doses of sulphonyl urea agents, studies have shown that the  addition  of  insulin  lispro  significantly  reduces  HbA1c  compared  to  sulphonyl  urea  alone.  The reduction  of  HbA1c  would  also  be  expected  with  other  insulin  products  e.g.  soluble  or  isophane insulins.
+In patients with type 2 diabetes on maximum doses of sulphonyl urea agents, studies have shown that the  addition  of  insulin  lispro  significantly  reduces  HbA1c  compared  to  sulphonyl  urea  alone.  The reduction of HbA1c would also be expected with other insulin products e.g. soluble or isophane insulins.
 
 Clinical trials in patients with type 1 and type 2 diabetes have demonstrated a reduced number of episodes of nocturnal hypoglycaemia with insulin lispro compared to soluble human insulin. In some studies, reduction of nocturnal hypoglycaemia was associated with increased episodes of daytime hypoglycaemia.
 
@@ -1654,7 +1653,7 @@ Insulin lispro has been shown to be equipotent to human insulin on a molar basis
 
 The pharmacokinetics of insulin lispro reflect a compound that is rapidly absorbed, and achieves peak blood levels 30 to 70 minutes following subcutaneous injection. When considering the clinical relevance of these kinetics, it is more appropriate to examine the glucose utilisation curves (as discussed in 5.1).
 
-Insulin lispro maintains more rapid absorption when compared to soluble human insulin in patients with  renal  impairment.  In  patients  with  type  2  diabetes  over  a  wide  range  of  renal  function  the pharmacokinetic  differences  between  insulin  lispro  and  soluble  human  insulin  were  generally maintained  and  shown  to  be  independent  of  renal  function.    Insulin  lispro  maintains  more  rapid absorption  and  elimination  when  compared  to  soluble  human  insulin  in  patients  with  hepatic impairment.
+Insulin lispro maintains more rapid absorption when compared to soluble human insulin in patients with renal  impairment.  In  patients  with  type  2  diabetes  over  a  wide  range  of  renal  function  the pharmacokinetic  differences  between  insulin  lispro  and  soluble  human  insulin  were  generally maintained  and  shown  to  be  independent  of  renal  function.    Insulin  lispro  maintains  more  rapid absorption  and  elimination  when  compared  to  soluble  human  insulin  in  patients  with  hepatic impairment.
 
 Insulin lispro 200 units/ml solution for injection was bioequivalent to insulin lispro 100 units/ml solution for injection after subcutaneous administration of a single 20 unit dose in healthy subjects. Time to maximum concentration was also similar between formulations.
 
@@ -1690,7 +1689,7 @@ After first use
 
 Do not freeze. Do not expose to excessive heat or direct sunlight.
 
-## Before use
+Before use
 
 Store in a refrigerator (2°C - 8°C).
 
@@ -1700,9 +1699,11 @@ Store below 30°C. Do not refrigerate. The pre-filled pen should not be stored w
 
 ## 6.5 Nature and contents of container
 
-Type  I  glass  cartridges,  sealed  with  halobutyl  disc  seals  and  plunger  heads  and  secured  with aluminium seals. Dimeticone or silicone emulsion may be used to treat the cartridge plunger, and/or the  glass  cartridge.  The  3  ml  cartridges  which  contain  600 units  insulin  lispro  (200 units/ml),  are sealed in a disposable pen injector, called the 'KwikPen'. Needles are not included.
+Type I glass cartridges, sealed with halobutyl disc seals and plunger heads and secured with aluminium seals.  Dimeticone  or  silicone  emulsion  may  be  used  to  treat  the  cartridge  plunger,  and/or  the  glass cartridge.  The  3  ml  cartridges  which  contain  600 units  insulin  lispro  (200 units/ml),  are  sealed  in  a disposable pen injector, called the 'KwikPen'. Needles are not included.
 
+```
 1 pre-filled pen of 3 ml 2 pre-filled pens of 3 ml 5 pre-filled pens of 3 ml Multipacks containing 10 (2 packs of 5) pre-filled pens of 3 ml
+```
 
 Not all packs may be marketed.
 
@@ -1728,7 +1729,7 @@ Any unused product or waste material should be disposed of in accordance with lo
 
 MARKETING AUTHORISATION HOLDER
 
-Eli Lilly Nederland B.V., Papendorpseweg 83, 3528 BJ Utrecht, The Netherlands.
+Eli Lilly Nederland B.V., Orteliuslaan 1000, 3528 BD Utrecht, The Netherlands.
 
 8.
 
@@ -1752,11 +1753,13 @@ Date of last renewal: 30
 
 th April 2006
 
-## 10. DATE OF REVISION OF THE TEXT
+10.
+
+DATE OF REVISION OF THE TEXT
 
 Detailed information on this medicinal product is available on the website of the European Medicines
 
-Agency http://www.ema.europa.eu
+Agency https://www.ema.europa.eu
 
 46
 
@@ -1793,11 +1796,7 @@ Lilly S.A., Avda. de la Industria 30, 28108 Alcobendas, Madrid, Spain.
 
 Lilly France S.A.S., Rue du Colonel Lilly, 67640 Fegersheim, France. Eli Lilly Italia S.p.A., Via  Gramsci 731-733, 50019 Sesto Fiorentino, (FI) Italy.
 
-Humalog 100 units/ml KwikPen, Humalog Mix25 100 units/ml KwikPen, Humalog Mix50 100 units/ml KwikPen and Humalog 200 units/ml KwikPen
-
-Lilly France S.A.S., Rue du Colonel Lilly, 67640 Fegersheim, France.
-
-Eli Lilly Italia S.p.A., Via  Gramsci 731-733, 50019 Sesto Fiorentino, (FI) Italy.
+Humalog 100 units/ml KwikPen, Humalog Mix25 100 units/ml KwikPen, Humalog Mix50 100 units/ml KwikPen and Humalog 200 units/ml KwikPen Lilly France S.A.S., Rue du Colonel Lilly, 67640 Fegersheim, France. Eli Lilly Italia S.p.A., Via  Gramsci 731-733, 50019 Sesto Fiorentino, (FI) Italy.
 
 Humalog 100 units/ml Junior KwikPen and Humalog 100 units/ml Tempo Pen Lilly France S.A.S., Rue du Colonel Lilly, 67640 Fegersheim, France.
 
@@ -1858,11 +1857,9 @@ Sodium hydroxide and/or hydrochloric acid may have been used to adjust acidity. 
 
 ## 4. PHARMACEUTICAL FORM AND CONTENTS
 
-## Solution for injection
+Solution for injection
 
-1 vial of 10 ml
-
-2 vials of 10 ml
+1 vial of 10 ml 2 vials of 10 ml
 
 ## 5. METHOD AND ROUTES OF ADMINISTRATION
 
@@ -1890,15 +1887,11 @@ Do not freeze. Do not expose to excessive heat or direct sunlight.
 
 Once in use, vials may be used for up to 28 days. Vials in use should be stored below 30 ° C.
 
-10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
+## 10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
-Eli Lilly Nederland B.V.
-
-Papendorpseweg 83, 3528 BJ Utrecht
-
-The Netherlands
+Eli Lilly Nederland B.V. Orteliuslaan 1000, 3528 BD Utrecht The Netherlands
 
 ## 12. MARKETING AUTHORISATION NUMBERS
 
@@ -1913,8 +1906,10 @@ Lot
 ## 14. GENERAL CLASSIFICATION FOR SUPPLY
 
 15. INSTRUCTIONS ON USE
-16. INFORMATION IN BRAILLE
-17. UNIQUE IDENTIFIER - 2D BARCODE
+
+## 16. INFORMATION IN BRAILLE
+
+## 17. UNIQUE IDENTIFIER - 2D BARCODE
 
 2D barcode carrying the unique identifier included.
 
@@ -1968,11 +1963,11 @@ Keep out of the sight and reach of children
 
 EXP
 
-<div style=\"page-break-after: always\"></div>
-
 ## 9. SPECIAL STORAGE CONDITIONS
 
 Store in a refrigerator (2°C - 8°C).
+
+<div style=\"page-break-after: always\"></div>
 
 Do not freeze. Do not expose to excessive heat or direct sunlight.
 
@@ -1982,7 +1977,7 @@ Once in use, vials may be used for up to 28 days. Vials in use should be stored 
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
-Eli Lilly Nederland B.V. Papendorpseweg 83, 3528 BJ Utrecht The Netherlands
+Eli Lilly Nederland B.V. Orteliuslaan 1000, 3528 BD Utrecht The Netherlands
 
 ## 12. MARKETING AUTHORISATION NUMBER
 
@@ -1993,17 +1988,18 @@ EU/1/96/007/021
 Lot
 
 14. GENERAL CLASSIFICATION FOR SUPPLY
+
 15. INSTRUCTIONS ON USE
+
 16. INFORMATION IN BRAILLE
+
 17. UNIQUE IDENTIFIER - 2D BARCODE
 
 2D barcode carrying the unique identifier included.
 
 ## 18. UNIQUE IDENTIFIER - HUMAN READABLE DATA
 
-PC
-
-SN
+PC SN
 
 NN
 
@@ -2059,11 +2055,11 @@ Do not freeze. Do not expose to excessive heat or direct sunlight.
 
 Once in use, vials may be used for up to 28 days. Vials in use should be stored below 30 ° C.
 
-10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
+## 10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
-Eli Lilly Nederland B.V. Papendorpseweg 83, 3528 BJ Utrecht The Netherlands
+Eli Lilly Nederland B.V. Orteliuslaan 1000, 3528 BD Utrecht The Netherlands
 
 ## 12. MARKETING AUTHORISATION NUMBER
 
@@ -2081,7 +2077,9 @@ Lot
 
 <div style=\"page-break-after: always\"></div>
 
-## MINIMUM PARTICULARS TO APPEAR ON SMALL IMMEDIATE PACKAGING UNITS LABEL TEXT
+## MINIMUM PARTICULARS TO APPEAR ON SMALL IMMEDIATE PACKAGING UNITS
+
+## LABEL TEXT
 
 ## 1. NAME OF THE MEDICINAL PRODUCT AND ROUTE OF ADMINISTRATION
 
@@ -2103,7 +2101,8 @@ Lot
 
 10 ml (3.5 mg/ml)
 
-## 6. OTHER
+| 6.   | OTHER   |
+|------|---------|
 
 <div style=\"page-break-after: always\"></div>
 
@@ -2165,9 +2164,11 @@ Once in use cartridges may be used for up to 28 days. Following insertion in a p
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
-Papendorpseweg 83, 3528 BJ Utrecht
+Eli Lilly Nederland B.V.
 
-Eli Lilly Nederland B.V. The Netherlands
+Orteliuslaan 1000, 3528 BD Utrecht
+
+The Netherlands
 
 ## 12. MARKETING AUTHORISATION NUMBERS
 
@@ -2219,8 +2220,7 @@ Humalog 100 units/ml solution for injection in cartridge insulin lispro Subcutan
 
 EXP
 
-| 4.   | BATCH NUMBER   |
-|------|----------------|
+## 4. BATCH NUMBER
 
 Lot
 
@@ -2291,9 +2291,7 @@ Once in use, vials may be used for up to 28 days. Vials in use should be stored 
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
-Eli Lilly Nederland B.V. Papendorpseweg 83, 3528 BJ Utrecht
-
-The Netherlands
+Eli Lilly Nederland B.V. Orteliuslaan 1000, 3528 BD Utrecht The Netherlands
 
 ## 12. MARKETING AUTHORISATION NUMBER
 
@@ -2303,10 +2301,12 @@ EU/1/96/007/005
 
 Lot
 
-14. GENERAL CLASSIFICATION FOR SUPPLY
+## 14. GENERAL CLASSIFICATION FOR SUPPLY
+
 15. INSTRUCTIONS ON USE
 16. INFORMATION IN BRAILLE
-17. UNIQUE IDENTIFIER - 2D BARCODE
+
+## 17. UNIQUE IDENTIFIER - 2D BARCODE
 
 2D barcode carrying the unique identifier included.
 
@@ -2330,7 +2330,7 @@ Humalog Mix25 100 units/ml suspension for injection in vial 25% insulin lispro a
 
 ## 2. METHOD OF ADMINISTRATION
 
-## 3. EXPIRY DATE
+3. EXPIRY DATE
 
 EXP
 
@@ -2368,7 +2368,7 @@ Sodium hydroxide and/or hydrochloric acid may have been used to adjust acidity. 
 
 ## 4. PHARMACEUTICAL FORM AND CONTENTS
 
-Suspension for injection
+## Suspension for injection
 
 5 cartridges of 3 ml
 
@@ -2408,9 +2408,11 @@ Once in use cartridges may be used for up to 28 days. Following insertion in a p
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
-Papendorpseweg 83, 3528 BJ Utrecht
+Eli Lilly Nederland B.V.
 
-Eli Lilly Nederland B.V. The Netherlands
+Orteliuslaan 1000, 3528 BD Utrecht
+
+The Netherlands
 
 ## 12. MARKETING AUTHORISATION NUMBERS
 
@@ -2478,7 +2480,9 @@ OUTER CARTON - Cartridges. Pack of 5 and 10
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
-Humalog Mix50 100 units/ml suspension for injection in cartridge 50% insulin lispro and 50% insulin lispro protamine suspension
+Humalog Mix50 100 units/ml suspension for injection in cartridge
+
+50% insulin lispro and 50% insulin lispro protamine suspension
 
 ## 2. STATEMENT OF ACTIVE SUBSTANCE
 
@@ -2492,7 +2496,7 @@ Sodium hydroxide and/or hydrochloric acid may have been used to adjust acidity. 
 
 ## 4. PHARMACEUTICAL FORM AND CONTENTS
 
-Suspension for injection
+## Suspension for injection
 
 5 cartridges of 3 ml
 
@@ -2534,7 +2538,7 @@ Once in use cartridges may be used for up to 28 days. Following insertion in a p
 
 Eli Lilly Nederland B.V.
 
-Papendorpseweg 83, 3528 BJ Utrecht
+Orteliuslaan 1000, 3528 BD Utrecht
 
 The Netherlands
 
@@ -2650,13 +2654,13 @@ Do not freeze. Do not expose to excessive heat or direct sunlight.
 
 Once in use pens may be used for up to 28 days. Pens in use should be stored below 30 ° C and should not be refrigerated.
 
-## 10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
+10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
 Eli Lilly Nederland B.V.
 
-Papendorpseweg 83, 3528 BJ Utrecht
+Orteliuslaan 1000, 3528 BD Utrecht
 
 The Netherlands
 
@@ -2746,7 +2750,7 @@ Once in use pens may be used for up to 28 days. Pens in use should be stored bel
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
-Eli Lilly Nederland B.V. Papendorpseweg 83, 3528 BJ Utrecht The Netherlands
+Eli Lilly Nederland B.V. Orteliuslaan 1000, 3528 BD Utrecht The Netherlands
 
 ## 12. MARKETING AUTHORISATION NUMBER
 
@@ -2758,7 +2762,7 @@ Lot
 
 ## 14. GENERAL CLASSIFICATION FOR SUPPLY
 
-15. INSTRUCTIONS ON USE
+## 15. INSTRUCTIONS ON USE
 
 ## 16. INFORMATION IN BRAILLE
 
@@ -2796,7 +2800,7 @@ Sodium hydroxide and/or hydrochloric acid may have been used to adjust acidity. 
 
 ## 4. PHARMACEUTICAL FORM AND CONTENTS
 
-## Solution for injection..
+Solution for injection..
 
 5 pens of 3 ml. Component of a multipack, can't be sold separately.
 
@@ -2826,13 +2830,11 @@ Do not freeze. Do not expose to excessive heat or direct sunlight.
 
 Once in use pens may be used for up to 28 days. Pens in use should be stored below 30 ° C and should not be refrigerated.
 
-## 10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
+10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
-Eli Lilly Nederland B.V.
-
-Papendorpseweg 83, 3528 BJ Utrecht
+Eli Lilly Nederland B.V. Orteliuslaan 1000, 3528 BD Utrecht
 
 The Netherlands
 
@@ -2860,17 +2862,17 @@ Humalog KwikPen
 
 <div style=\"page-break-after: always\"></div>
 
-| MINIMUM PARTICULARS TO APPEAR ONSMALLIMMEDIATE PACKAGING UNITS   |
-|------------------------------------------------------------------|
-| LABEL TEXT                                                       |
+| MINIMUM PARTICULARS TO APPEAR ON SMALL IMMEDIATE PACKAGING UNITS   |
+|--------------------------------------------------------------------|
+| LABEL TEXT                                                         |
 
-| 1.   | NAMEOFTHEMEDICINAL PRODUCT AND ROUTE OF ADMINISTRATION   |
-|------|----------------------------------------------------------|
+| 1.   | NAME OF THE MEDICINAL PRODUCT AND ROUTE OF ADMINISTRATION   |
+|------|-------------------------------------------------------------|
 
 Humalog 100 units/ml KwikPen solution for injection insulin lispro Subcutaneous use
 
-| 2.   | METHODOFADMINISTRATION   |
-|------|--------------------------|
+| 2.   | METHOD OF ADMINISTRATION   |
+|------|----------------------------|
 
 | 3.   | EXPIRY DATE   |
 |------|---------------|
@@ -2882,8 +2884,8 @@ EXP
 
 Lot
 
-| 5.   | CONTENTS BY WEIGHT,BYVOLUMEORBYUNIT   |
-|------|---------------------------------------|
+| 5.   | CONTENTS BY WEIGHT, BY VOLUME OR BY UNIT   |
+|------|--------------------------------------------|
 
 3 ml (3.5 mg/ml)
 
@@ -2912,7 +2914,7 @@ Sodium hydroxide and/or hydrochloric acid may have been used to adjust acidity. 
 
 ## 4. PHARMACEUTICAL FORM AND CONTENTS
 
-## Suspension for injection
+Suspension for injection
 
 5 pens of 3 ml
 
@@ -2950,7 +2952,7 @@ Once in use pens may be used for up to 28 days. Pens in use should be stored bel
 
 Eli Lilly Nederland B.V.
 
-Papendorpseweg 83, 3528 BJ Utrecht
+Orteliuslaan 1000, 3528 BD Utrecht
 
 The Netherlands
 
@@ -3012,7 +3014,9 @@ Multipack: 10 (2 packs of 5) pens of 3 ml.
 
 ## 5. METHOD AND ROUTES OF ADMINISTRATION
 
-Read the package leaflet before use Subcutaneous use
+Read the package leaflet before use
+
+Subcutaneous use
 
 ## 6. SPECIAL WARNING THAT THE MEDICINAL PRODUCT MUST BE STORED OUT OF THE SIGHT AND REACH OF CHILDREN
 
@@ -3042,7 +3046,7 @@ Once in use pens may be used for up to 28 days. Pens in use should be stored bel
 
 Eli Lilly Nederland B.V.
 
-Papendorpseweg 83, 3528 BJ Utrecht
+Orteliuslaan 1000, 3528 BD Utrecht
 
 The Netherlands
 
@@ -3136,7 +3140,7 @@ Once in use pens may be used for up to 28 days. Pens in use should be stored bel
 
 Eli Lilly Nederland B.V.
 
-Papendorpseweg 83, 3528 BJ Utrecht
+Orteliuslaan 1000, 3528 BD Utrecht
 
 The Netherlands
 
@@ -3248,7 +3252,7 @@ Once in use pens may be used for up to 28 days. Pens in use should be stored bel
 
 Eli Lilly Nederland B.V.
 
-Papendorpseweg 83, 3528 BJ Utrecht
+Orteliuslaan 1000, 3528 BD Utrecht
 
 The Netherlands
 
@@ -3336,13 +3340,13 @@ Do not freeze. Do not expose to excessive heat or direct sunlight.
 
 Once in use pens may be used for up to 28 days. Pens in use should be stored below 30 ° C and should not be refrigerated.
 
-10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
+## 10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
 Eli Lilly Nederland B.V.
 
-Papendorpseweg 83, 3528 BJ Utrecht
+Orteliuslaan 1000, 3528 BD Utrecht
 
 The Netherlands
 
@@ -3356,7 +3360,7 @@ Lot
 
 ## 14. GENERAL CLASSIFICATION FOR SUPPLY
 
-15. INSTRUCTIONS ON USE
+## 15. INSTRUCTIONS ON USE
 
 ## 16. INFORMATION IN BRAILLE
 
@@ -3432,9 +3436,7 @@ Once in use pens may be used for up to 28 days. Pens in use should be stored bel
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
-Eli Lilly Nederland B.V.
-
-Papendorpseweg 83, 3528 BJ Utrecht
+Eli Lilly Nederland B.V. Orteliuslaan 1000, 3528 BD Utrecht
 
 The Netherlands
 
@@ -3542,23 +3544,27 @@ Do not freeze. Do not expose to excessive heat or direct sunlight.
 
 Once in use pens may be used for up to 28 days. Pens in use should be stored below 30 ° C and should not be refrigerated.
 
-10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
+## 10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
 Eli Lilly Nederland B.V.
 
-Papendorpseweg 83, 3528 BJ Utrecht
+Orteliuslaan 1000, 3528 BD Utrecht
 
 The Netherlands
 
 ## 12. MARKETING AUTHORISATION NUMBERS
 
-EU/1/96/007/039   1 pen
+EU/1/96/007/039
 
-EU/1/96/007/040   2 pens
+1 pen
 
-EU/1/96/007/041   5 pens
+EU/1/96/007/040
+
+2 pens
+
+EU/1/96/007/041 5 pens
 
 ## 13. BATCH NUMBER
 
@@ -3566,7 +3572,7 @@ Lot
 
 ## 14. GENERAL CLASSIFICATION FOR SUPPLY
 
-15. INSTRUCTIONS ON USE
+## 15. INSTRUCTIONS ON USE
 
 ## 16. INFORMATION IN BRAILLE
 
@@ -3606,7 +3612,7 @@ Sodium hydroxide and/or hydrochloric acid may have been used to adjust acidity. 
 
 ## 4. PHARMACEUTICAL FORM AND CONTENTS
 
-## Solution for injection.
+Solution for injection.
 
 Multipack: 10 (2 packs of 5) pens of 3 ml.
 
@@ -3646,7 +3652,7 @@ Once in use pens may be used for up to 28 days. Pens in use should be stored bel
 
 Eli Lilly Nederland B.V.
 
-Papendorpseweg 83, 3528 BJ Utrecht
+Orteliuslaan 1000, 3528 BD Utrecht
 
 The Netherlands
 
@@ -3660,7 +3666,7 @@ Lot
 
 ## 14. GENERAL CLASSIFICATION FOR SUPPLY
 
-15. INSTRUCTIONS ON USE
+## 15. INSTRUCTIONS ON USE
 
 ## 16. INFORMATION IN BRAILLE
 
@@ -3704,7 +3710,9 @@ Multipack: 5 pens of 3 ml. Component of a multipack, can't be sold separately.
 
 ## 5. METHOD AND ROUTES OF ADMINISTRATION
 
-Read the package leaflet before use Subcutaneous use
+Read the package leaflet before use
+
+Subcutaneous use
 
 ## 6. SPECIAL WARNING THAT THE MEDICINAL PRODUCT MUST BE STORED OUT OF THE SIGHT AND REACH OF CHILDREN
 
@@ -3712,7 +3720,7 @@ Keep out of the sight and reach of children
 
 ## 7. OTHER SPECIAL WARNING, IF NECESSARY
 
-Use only in this pen, or severe overdose can result.
+## Use only in this pen, or severe overdose can result.
 
 If seal is broken before first use, contact pharmacist.
 
@@ -3734,7 +3742,7 @@ Once in use pens may be used for up to 28 days. Pens in use should be stored bel
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
-Eli Lilly Nederland B.V. Papendorpseweg 83, 3528 BJ Utrecht The Netherlands
+Eli Lilly Nederland B.V. Orteliuslaan 1000, 3528 BD Utrecht The Netherlands
 
 ## 12. MARKETING AUTHORISATION NUMBER
 
@@ -3758,17 +3766,17 @@ Humalog 200 units/ml
 
 <div style=\"page-break-after: always\"></div>
 
-| MINIMUM PARTICULARS TO APPEAR ONSMALLIMMEDIATE PACKAGING UNITS   |
-|------------------------------------------------------------------|
-| LABEL TEXT                                                       |
+| MINIMUM PARTICULARS TO APPEAR ON SMALL IMMEDIATE PACKAGING UNITS   |
+|--------------------------------------------------------------------|
+| LABEL TEXT                                                         |
 
-| 1.   | NAMEOFTHEMEDICINAL PRODUCT AND ROUTE OF ADMINISTRATION   |
-|------|----------------------------------------------------------|
+| 1.   | NAME OF THE MEDICINAL PRODUCT AND ROUTE OF ADMINISTRATION   |
+|------|-------------------------------------------------------------|
 
 Humalog 200 units/ml KwikPen solution for injection insulin lispro Subcutaneous use
 
-| 2.   | METHODOFADMINISTRATION   |
-|------|--------------------------|
+| 2.   | METHOD OF ADMINISTRATION   |
+|------|----------------------------|
 
 | 3.   | EXPIRY DATE   |
 |------|---------------|
@@ -3780,8 +3788,8 @@ EXP
 
 Lot
 
-| 5.   | CONTENTS BY WEIGHT,BYVOLUMEORBYUNIT   |
-|------|---------------------------------------|
+| 5.   | CONTENTS BY WEIGHT, BY VOLUME OR BY UNIT   |
+|------|--------------------------------------------|
 
 3 ml
 
@@ -3810,7 +3818,7 @@ Contains glycerol, zinc oxide, dibasic sodium phosphate7H 2 0, metacresol and wa
 
 ## 4. PHARMACEUTICAL FORM AND CONTENTS
 
-## Solution for injection.
+Solution for injection.
 
 1 pen of 3 mL.
 
@@ -3852,21 +3860,26 @@ Once in use pens may be used for up to 28 days. Discard after 28 days even if so
 
 Eli Lilly Nederland B.V.
 
-Papendorpseweg 83, 3528 BJ Utrecht
+Orteliuslaan 1000, 3528 BD Utrecht
 
 The Netherlands
 
 ## 12. MARKETING AUTHORISATION NUMBERS
 
-EU/1/96/007/043   1 pen
+EU/1/96/007/043
 
-EU/1/96/007/044   5 pens
+1 pen
+
+EU/1/96/007/044
+
+5 pens
 
 ## 13. BATCH NUMBER
 
 Lot
 
-14. GENERAL CLASSIFICATION FOR SUPPLY
+## 14. GENERAL CLASSIFICATION FOR SUPPLY
+
 15. INSTRUCTIONS ON USE
 
 ## 16. INFORMATION IN BRAILLE
@@ -3875,7 +3888,7 @@ Humalog 100 units/ml Junior KwikPen
 
 ## 17. UNIQUE IDENTIFIER - 2D BARCODE
 
-- 2D barcode carrying the unique identifier included.
+2D barcode carrying the unique identifier included.
 
 ## 18. UNIQUE IDENTIFIER - HUMAN READABLE DATA
 
@@ -3905,7 +3918,7 @@ Contains glycerol, zinc oxide, dibasic sodium phosphate7H 2 0, metacresol and wa
 
 ## 4. PHARMACEUTICAL FORM AND CONTENTS
 
-## Solution for injection.
+Solution for injection.
 
 Multipack: 10 (2 packs of 5) pens of 3 ml.
 
@@ -3937,11 +3950,15 @@ Do not freeze. Do not expose to excessive heat or direct sunlight.
 
 Once in use pens may be used for up to 28 days. Discard after 28 days even if some of the solution remains. Pens in use should be stored below 30 ° C and should not be refrigerated.
 
-10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
+## 10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
-Eli Lilly Nederland B.V. Papendorpseweg 83, 3528 BJ Utrecht The Netherlands
+Eli Lilly Nederland B.V.
+
+Orteliuslaan 1000, 3528 BD Utrecht
+
+The Netherlands
 
 ## 12. MARKETING AUTHORISATION NUMBER
 
@@ -4025,11 +4042,13 @@ Do not freeze. Do not expose to excessive heat or direct sunlight.
 
 Once in use pens may be used for up to 28 days. . Discard after 28 days even if some of the solution remains. Pens in use should be stored below 30 ° C and should not be refrigerated.
 
-10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
+## 10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
-Eli Lilly Nederland B.V. Papendorpseweg 83, 3528 BJ Utrecht The Netherlands
+Eli Lilly Nederland B.V. Orteliuslaan 1000, 3528 BD Utrecht
+
+The Netherlands
 
 ## 12. MARKETING AUTHORISATION NUMBER
 
@@ -4041,13 +4060,13 @@ Lot
 
 ## 14. GENERAL CLASSIFICATION FOR SUPPLY
 
-15. INSTRUCTIONS ON USE
+## 15. INSTRUCTIONS ON USE
 
 ## 16. INFORMATION IN BRAILLE
 
 Humalog 100 units/ml Junior KwikPen
 
-17. UNIQUE IDENTIFIER - 2D BARCODE
+## 17. UNIQUE IDENTIFIER - 2D BARCODE
 
 ## 18. UNIQUE IDENTIFIER - HUMAN READABLE DATA
 
@@ -4059,17 +4078,17 @@ Humalog 100 units/ml Junior KwikPen
 
 ## 1. NAME OF THE MEDICINAL PRODUCT AND ROUTE OF ADMINISTRATION
 
-Humalog 100 units/ml Junior KwikPen solution for injection insulin lispro
+Humalog 100 units/ml Junior KwikPen solution for injection insulin lispro Subcutaneous use
 
-Subcutaneous use
+| 2.   | METHOD OF ADMINISTRATION   |
+|------|----------------------------|
 
-## 2. METHOD OF ADMINISTRATION
-
-## 3. EXPIRY DATE
+3. EXPIRY DATE
 
 EXP
 
-## 4. BATCH NUMBER
+| 4.   | BATCH NUMBER   |
+|------|----------------|
 
 Lot
 
@@ -4077,7 +4096,8 @@ Lot
 
 3 ml
 
-## 6. OTHER
+| 6.   | OTHER   |
+|------|---------|
 
 <div style=\"page-break-after: always\"></div>
 
@@ -4099,7 +4119,7 @@ Excipients: glycerol, zinc oxide, dibasic sodium phosphate 7 H20 with m-cresol a
 
 ## 4. PHARMACEUTICAL FORM AND CONTENTS
 
-## Solution for injection.
+Solution for injection.
 
 5 pens of 3 ml
 
@@ -4119,8 +4139,6 @@ Keep out of the sight and reach of children
 
 EXP
 
-<div style=\"page-break-after: always\"></div>
-
 ## 9. SPECIAL STORAGE CONDITIONS
 
 Store in a refrigerator (2°C - 8°C).
@@ -4129,15 +4147,13 @@ Do not freeze. Do not expose to excessive heat or direct sunlight.
 
 Once in use pens may be used for up to 28 days. Pens in use should be stored below 30 ° C and should not be refrigerated.
 
-## 10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
+<div style=\"page-break-after: always\"></div>
+
+10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
-Eli Lilly Nederland B.V.
-
-Papendorpseweg 83, 3528 BJ Utrecht
-
-The Netherlands
+Eli Lilly Nederland B.V. Orteliuslaan 1000, 3528 BD Utrecht The Netherlands
 
 ## 12. MARKETING AUTHORISATION NUMBER
 
@@ -4207,13 +4223,13 @@ Keep out of the sight and reach of children
 
 EXP
 
+<div style=\"page-break-after: always\"></div>
+
 ## 9. SPECIAL STORAGE CONDITIONS
 
 Store in a refrigerator (2°C - 8°C).
 
 Do not freeze. Do not expose to excessive heat or direct sunlight.
-
-<div style=\"page-break-after: always\"></div>
 
 Once in use pens may be used for up to 28 days. Pens in use should be stored below 30 ° C and should not be refrigerated.
 
@@ -4221,7 +4237,11 @@ Once in use pens may be used for up to 28 days. Pens in use should be stored bel
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
-Eli Lilly Nederland B.V. Papendorpseweg 83, 3528 BJ Utrecht The Netherlands
+Eli Lilly Nederland B.V.
+
+Orteliuslaan 1000, 3528 BD Utrecht
+
+The Netherlands
 
 ## 12. MARKETING AUTHORISATION NUMBER
 
@@ -4233,7 +4253,7 @@ Lot
 
 ## 14. GENERAL CLASSIFICATION FOR SUPPLY
 
-15. INSTRUCTIONS ON USE
+## 15. INSTRUCTIONS ON USE
 
 ## 16. INFORMATION IN BRAILLE
 
@@ -4305,7 +4325,11 @@ Once in use pens may be used for up to 28 days. Pens in use should be stored bel
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
-Eli Lilly Nederland B.V. Papendorpseweg 83, 3528 BJ Utrecht The Netherlands
+Eli Lilly Nederland B.V.
+
+Orteliuslaan 1000, 3528 BD Utrecht
+
+The Netherlands
 
 ## 12. MARKETING AUTHORISATION NUMBER
 
@@ -4331,17 +4355,17 @@ Humalog Tempo Pen
 
 <div style=\"page-break-after: always\"></div>
 
-| MINIMUM PARTICULARS TO APPEAR ONSMALLIMMEDIATE PACKAGING UNITS   |
-|------------------------------------------------------------------|
-| LABEL TEXT                                                       |
+| MINIMUM PARTICULARS TO APPEAR ON SMALL IMMEDIATE PACKAGING UNITS   |
+|--------------------------------------------------------------------|
+| LABEL TEXT                                                         |
 
-| 1.   | NAMEOFTHEMEDICINAL PRODUCT AND ROUTE OF ADMINISTRATION   |
-|------|----------------------------------------------------------|
+| 1.   | NAME OF THE MEDICINAL PRODUCT AND ROUTE OF ADMINISTRATION   |
+|------|-------------------------------------------------------------|
 
 Humalog 100 units/ml Tempo Pen solution for injection insulin lispro Subcutaneous use
 
-| 2.   | METHODOFADMINISTRATION   |
-|------|--------------------------|
+| 2.   | METHOD OF ADMINISTRATION   |
+|------|----------------------------|
 
 | 3.   | EXPIRY DATE   |
 |------|---------------|
@@ -4353,8 +4377,8 @@ EXP
 
 Lot
 
-| 5.   | CONTENTS BY WEIGHT,BYVOLUMEORBYUNIT   |
-|------|---------------------------------------|
+| 5.   | CONTENTS BY WEIGHT, BY VOLUME OR BY UNIT   |
+|------|--------------------------------------------|
 
 3 ml
 
@@ -4525,25 +4549,21 @@ If you have any further questions on the use of this product, ask your doctor or
 
 Like all medicines, this medicine can cause side effects, although not everybody gets them.
 
-Systemic allergy is rare ( ≥ 1/10,000 to &lt;1/1, 000). The symptoms are as follows:
+Systemic allergy is rare ( ≥ 1/10,000 to &lt;1/1,000) . The symptoms are as follows:
 
-- rash over the whole body
-
-- •
+- rash over the whole body •
 
 blood pressure dropping
 
-- difficulty in breathing •
+- difficulty in breathing
+
+•
 
 heart beating fast
 
-- •
-
 - wheezing
 
-- •
-
-sweating.
+- sweating.
 
 If you think you are having this sort of insulin allergy with Humalog, tell your doctor at once.
 
@@ -4580,13 +4600,13 @@ The first symptoms of low blood sugar usually come on quickly and include the fo
 
 rapid heartbeat
 
-- nervousness or shakiness   •
+- nervousness or shakiness •
 
 feeling sick
 
-- headache •
+- headache
 
-cold sweat.
+• cold sweat.
 
 While you are not confident about recognising your warning symptoms, avoid situations, e.g. driving a car, in which you or others would be put at risk by hypoglycaemia.
 
@@ -4650,15 +4670,13 @@ Humalog 100 units/ml solution for injection in vial is made by:
 
 - Lilly S.A., Avda. de la Industria 30, 28108 Alcobendas, Madrid, Spain.
 
-The product licence is held by: Eli Lilly Nederland B.V., Papendorpseweg 83, 3528 BJ Utrecht, The Netherlands.
+The product licence is held by: Eli Lilly Nederland B.V., Orteliuslaan 1000, 3528 BD Utrecht, The Netherlands.
 
 For any information about this medicinal product, please contact the local representative of the Marketing Authorisation Holder:
 
 ## Belgique/België/Belgien
 
-Eli Lilly Benelux S.A./N.V.
-
-Tél/Tel: + 32-(0)2 548 84 84
+Eli Lilly Benelux S.A./N.V. Tél/Tel: + 32-(0)2 548 84 84
 
 ## Lietuva
 
@@ -4680,25 +4698,35 @@ ELI LILLY ČR, s.r.o.
 
 Tel: + 420 234 664 111
 
-## Magyarorsz ág
+## Magyarország
 
 Lilly Hungária Kft.
 
 Tel: + 36 1 328 5100
 
-<div style=\"page-break-after: always\"></div>
-
 ## Danmark
 
 Eli Lilly Danmark A/S
 
-Tlf: +45 45 26 6000
+Tlf.: +45 45 26 6000
+
+## Malta
+
+Charles de Giorgio Ltd.
+
+Tel: + 356 25600 500
 
 ## Deutschland
 
 Lilly Deutschland GmbH
 
 Tel. + 49-(0) 6172 273 2222
+
+## Nederland
+
+Eli Lilly Nederland B.V.
+
+Tel: + 31-(0) 30 60 25 800
 
 ## Eesti
 
@@ -4708,6 +4736,12 @@ Tel:
 
 + 372 6817 280
 
+## Norge
+
+Eli Lilly Norge A.S.
+
+Tlf: + 47 22 88 18 00
+
 ## Ελλάδα
 
 ΦΑΡΜΑΣΕΡΒ - ΛΙΛΛΥ Α.Ε.Β.Ε.
@@ -4716,11 +4750,23 @@ Tel:
 
 : +30 210 629 4600
 
+## Österreich
+
+Eli Lilly Ges. m.b.H.
+
+Tel: + 43-(0) 1 711 780
+
 ## España
 
 Lilly S.A.
 
 Tel: + 34-91 663 50 00
+
+## Polska
+
+Eli Lilly Polska Sp. z o.o.
+
+Tel: +48 22 440 33 00
 
 ## France
 
@@ -4728,11 +4774,23 @@ Lilly France
 
 Tél: +33-(0) 1 55 49 34 34
 
+## Portugal
+
+Lilly Portugal - Produtos Farmacêuticos, Lda
+
+Tel: + 351-21-4126600
+
 ## Hrvatska
 
 Eli Lilly Hrvatska d.o.o.
 
 Tel: +385 1 2350 999
+
+## România
+
+Eli Lilly România S.R.L.
+
+Tel: + 40 21 4023000
 
 ## Ireland
 
@@ -4740,17 +4798,35 @@ Eli Lilly and Company (Ireland) Limited
 
 Tel: + 353-(0) 1 661 4377
 
+## Slovenija
+
+Eli Lilly farmacevtska družba, d.o.o.
+
+Tel: +386 (0) 1 580 00 10
+
 ## Ísland
 
 Icepharma hf.
 
 Sími + 354 540 8000
 
+## Slovenská republika
+
+Eli Lilly Slovakia s.r.o.
+
+Tel: + 421 220 663 111
+
 ## Italia
 
 Eli Lilly Italia S.p.A.
 
 Tel: + 39- 055 42571
+
+## Suomi/Finland
+
+Oy Eli Lilly Finland Ab
+
+Puh/Tel: + 358-(0) 9 85 45 250
 
 ## Κύπρος
 
@@ -4759,6 +4835,12 @@ Phadisco Ltd
 Τηλ
 
 : +357 22 715000
+
+## Sverige
+
+Eli Lilly Sweden AB
+
+Tel: + 46-(0) 8 7378800
 
 ## Latvija
 
@@ -4770,79 +4852,9 @@ Tel:
 
 ## This leaflet was last revised in {MM/YYYY}.
 
-Detailed information on this medicine is available on the European Medicines Agency web site: http://www.ema.europa.eu/.
+Detailed information on this medicine is available on the European Medicines Agency web site: https://www.ema.europa.eu.
 
-## Malta
-
-Charles de Giorgio Ltd.
-
-Tel: + 356 25600 500
-
-## Nederland
-
-Eli Lilly Nederland B.V.
-
-Tel: + 31-(0) 30 60 25 800
-
-## Norge
-
-Eli Lilly Norge A.S.
-
-Tlf: + 47 22 88 18 00
-
-## Österreich
-
-Eli Lilly Ges. m.b.H.
-
-Tel: + 43-(0) 1 711 780
-
-## Polska
-
-Eli Lilly Polska Sp. z o.o.
-
-Tel: +48 22 440 33 00
-
-## Portugal
-
-Lilly Portugal - Produtos Farmacêuticos, Lda
-
-Tel: + 351-21-4126600
-
-## România
-
-Eli Lilly România S.R.L.
-
-Tel: + 40 21 4023000
-
-## Slovenija
-
-Eli Lilly farmacevtska družba, d.o.o.
-
-Tel: +386 (0) 1 580 00 10
-
-## Slovenská republika
-
-Eli Lilly Slovakia s.r.o.
-
-Tel: + 421 220 663 111
-
-## Suomi/Finland
-
-Oy Eli Lilly Finland Ab
-
-Puh/Tel: + 358-(0) 9 85 45 250
-
-## Sverige
-
-Eli Lilly Sweden AB
-
-Tel: + 46-(0) 8 7378800
-
-## United Kingdom (Northern Ireland)
-
-Eli Lilly and Company (Ireland) Limited
-
-Tel: + 353-(0) 1 661 4377
+<div style=\"page-break-after: always\"></div>
 
 <div style=\"page-break-after: always\"></div>
 
@@ -4892,9 +4904,9 @@ Humalog is suitable for use in adults and children.
 
 - A few people who have had hypoglycaemia after switching from animal insulin to human insulin have reported that the early warning symptoms were less obvious or different. If you often have hypoglycaemia or have difficulty recognising it, please discuss this with your doctor.
 - If you answer YES to any of the following questions, tell your doctor, pharmacist or diabetes nurse
-- -Have you recently become ill?
-- -Do you have trouble with your kidneys or liver?
-- -Are you exercising more than usual?
+-  Have you recently become ill?
+-  Do you have trouble with your kidneys or liver?
+-   Are you exercising more than usual?
 - The amount of insulin you need may also change if you drink alcohol.
 - You should also tell your doctor, pharmacist or diabetes nurse if you are planning to go abroad. The time difference between countries may mean that you have to have your injections and meals at different times from when you are at home.
 - Some patients with long-standing type 2 diabetes mellitus and heart disease or previous stroke who were treated with pioglitazone and insulin experienced the development of heart failure. Inform your doctor as soon as possible, if you experience signs of heart failure such as unusual shortness of breath or rapid increase in weight or localised swelling (oedema).
@@ -4932,9 +4944,10 @@ Are you pregnant or thinking about becoming pregnant, or are you breast-feeding?
 Your ability to concentrate and react may be reduced if you have hypoglycaemia. Please keep this possible problem in mind in all situations where you might put yourself and others at risk (e.g. driving a car or operating machinery). You should contact your doctor about the advisability of driving if you have:
 
 - frequent episodes of hypoglycaemia
-- reduced or absent warning signs of hypoglycaemia
 
 <div style=\"page-break-after: always\"></div>
+
+- reduced or absent warning signs of hypoglycaemia
 
 ## Humalog contains sodium
 
@@ -5025,13 +5038,13 @@ Systemic allergy is rare ( ≥ 1/10,000 to &lt;1/1,000) . The symptoms are as fo
 
 blood pressure dropping
 
-- difficulty in breathing •
+- difficulty in breathing
 
-heart beating fast
+- heart beating fast
 
-- wheezing •
+- wheezing
 
-sweating
+- sweating
 
 If you think you are having this sort of insulin allergy with Humalog, tell your doctor at once.
 
@@ -5097,9 +5110,9 @@ no appetite
 
 fruity smell on the breath
 
-- thirst •
+- thirst
 
-feeling or being sick.
+- feeling or being sick.
 
 Severe symptoms are heavy breathing and a rapid pulse. Get medical help immediately.
 
@@ -5143,7 +5156,7 @@ Humalog 100 units/ml solution for injection in cartridge is made by:
 - Lilly France S.A.S., Rue du Colonel Lilly, 67640 Fegersheim, France,
 - Eli Lilly Italia S.p.A., Via Gramsci 731-733, 50019 Sesto Fiorentino, (FI) Italy.
 
-The product licence is held by: Eli Lilly Nederland B.V., Papendorpseweg 83, 3528 BJ Utrecht, The Netherlands.
+The product licence is held by: Eli Lilly Nederland B.V., Orteliuslaan 1000, 3528 BD Utrecht, The Netherlands.
 
 For any information about this medicinal product, please contact the local representative of the Marketing Authorisation Holder:
 
@@ -5157,7 +5170,7 @@ Tél/Tel: + 32-(0)2 548 84 84
 
 ТП \"Ели Лили Недерланд\" Б.В. -България тел. + 359 2 491 41 40
 
-## Česká repub lika
+## Česká republika
 
 ELI LILLY ČR, s.r.o.
 
@@ -5167,7 +5180,7 @@ Tel: + 420 234 664 111
 
 Eli Lilly Danmark A/S
 
-Tlf: +45 45 26 6000
+Tlf.: +45 45 26 6000
 
 ## Deutschland
 
@@ -5313,7 +5326,7 @@ Tel:
 
 ## This leaflet was last revised in {MM/YYYY}.
 
-Detailed information on this medicine is available on the European Medicines Agency web site: http://www.ema.europa.eu/.
+Detailed information on this medicine is available on the European Medicines Agency web site: https://www.ema.europa.eu.
 
 ## Slovenská republika
 
@@ -5333,15 +5346,9 @@ Eli Lilly Sweden AB
 
 Tel: + 46-(0) 8 7378800
 
-## United Kingdom (Northern Ireland)
-
-Eli Lilly and Company (Ireland) Limited
-
-Tel: + 353-(0) 1 661 4377
+## Package leaflet: Information for the user
 
 <div style=\"page-break-after: always\"></div>
-
-## Package leaflet: Information for the user
 
 ## Humalog Mix25 100 units/ml suspension for injection in vial insulin lispro
 
@@ -5379,17 +5386,15 @@ Your doctor may tell you to use Humalog Mix25 as well as a longer-acting insulin
 ## Warnings and precautions
 
 - Always check the pack and the vial label for the name and type of the insulin when you get it from your pharmacy. Make sure you get the Humalog Mix25 that your doctor has told you to use.
-- If your blood sugar levels are well controlled by your current insulin therapy, you may not feel the warning symptoms when your blood sugar is falling too low. Warning signs are listed later in this leaflet.  You must think carefully about when to have your meals, how often to exercise and how
+- If your blood sugar levels are well controlled by your current insulin therapy, you may not feel the warning symptoms when your blood sugar is falling too low. Warning signs are listed later in this leaflet.  You must think carefully about when to have your meals, how often to exercise and how much to do. You must also keep a close watch on your blood sugar levels by testing your blood glucose often.
 
 <div style=\"page-break-after: always\"></div>
 
-much to do. You must also keep a close watch on your blood sugar levels by testing your blood glucose often.
-
 - A few people who have had hypoglycaemia after switching from animal insulin to human insulin have reported that the early warning symptoms were less obvious or different. If you often have hypoglycaemia or have difficulty recognising them, please discuss this with your doctor.
 - If you answer YES to any of the following questions, tell your doctor, pharmacist or diabetes nurse
-- -Have you recently become ill?
-- -Do you have trouble with your kidneys or liver?
-- -Are you exercising more than usual?
+-  Have you recently become ill?
+-  Do you have trouble with your kidneys or liver?
+-   Are you exercising more than usual?
 - The amount of insulin you need may also change if you drink alcohol.
 - You should also tell your doctor, pharmacist or diabetes nurse if you are planning to go abroad. The time difference between countries may mean that you have to have your injections and meals at different times from when you are at home.
 - Some patients with long-standing type 2 diabetes mellitus and heart disease or previous stroke who were treated with pioglitazone and insulin experienced the development of heart failure. Inform your doctor as soon as possible, if you experience signs of heart failure such as unusual shortness of breath or rapid increase in weight or localised swelling (oedema).
@@ -5426,9 +5431,10 @@ Are you pregnant or thinking about becoming pregnant, or are you breast-feeding?
 
 Your ability to concentrate and react may be reduced if you have hypoglycaemia. Please keep this possible problem in mind in all situations where you might put yourself and others at risk (e.g. driving a car or operating machinery). You should contact your doctor about the advisability of driving if you have:
 
+- frequent episodes of hypoglycaemia
+
 <div style=\"page-break-after: always\"></div>
 
-- frequent episodes of hypoglycaemia
 - reduced or absent warning signs of hypoglycaemia
 
 ## Humalog Mix25 contains sodium
@@ -5462,11 +5468,11 @@ If you use more Humalog Mix25 than you need or are unsure how much you have inje
 
 If your blood sugar is low (mild hypoglycaemia) , eat glucose tablets, sugar or drink a sugary drink. Then eat fruit, biscuits, or a sandwich, as your doctor has advised you and have some rest. This will often get you over mild hypoglycaemia or a minor insulin overdose. If you get worse and your breathing is shallow and your skin gets pale, tell your doctor at once. A glucagon injection can treat quite severe hypoglycaemia. Eat glucose or sugar after the glucagon injection. If you do not respond to glucagon, you will have to go to hospital. Ask your doctor to tell you about glucagon.
 
-<div style=\"page-break-after: always\"></div>
-
 ## If you forget to use Humalog Mix25
 
 If you take less Humalog Mix25 than you need or are unsure how much you have injected, a high blood sugar may occur.  Check your blood sugar
+
+<div style=\"page-break-after: always\"></div>
 
 If hypoglycaemia (low blood sugar) or hyperglycaemia (high blood sugar) is not treated they can be very serious and cause headaches, nausea, vomiting, dehydration, unconsciousness, coma or even death (see A and B in section 4 'Possible Side Effects').
 
@@ -5488,7 +5494,9 @@ Like all medicines, this medicine can cause side effects, although not everybody
 
 Systemic allergy is rare ( ≥ 1/10,000 to &lt;1/1,000) . The symptoms are as follows:
 
-- rash over the whole body •
+- rash over the whole body
+
+- •
 
 blood pressure dropping
 
@@ -5496,9 +5504,9 @@ blood pressure dropping
 
 heart beating fast
 
-- wheezing •
+- wheezing
 
-sweating
+- sweating
 
 If you think you are having this sort of insulin allergy with Humalog Mix25, tell your doctor at once.
 
@@ -5521,12 +5529,11 @@ Hypoglycaemia (low blood sugar) means there is not enough sugar in the blood. Th
 - you take too much Humalog Mix25 or other insulin;
 - you miss or delay meals or change your diet;
 - you exercise or work too hard just before or after a meal;
-
-<div style=\"page-break-after: always\"></div>
-
 - you have an infection or illness (especially diarrhoea or vomiting);
 - there is a change in your need for insulin; or
 - you have trouble with your kidneys or liver which gets worse.
+
+<div style=\"page-break-after: always\"></div>
 
 Alcohol and some medicines can affect your blood sugar levels.
 
@@ -5540,7 +5547,9 @@ rapid heartbeat
 
 feeling sick
 
-- headache •
+- headache
+
+- •
 
 cold sweat
 
@@ -5557,11 +5566,15 @@ Hyperglycaemia (too much sugar in the blood) means that your body does not have 
 
 Hyperglycaemia can lead to diabetic ketoacidosis. The first symptoms come on slowly over many hours or days. The symptoms include the following:
 
-- feeling sleepy •
+- feeling sleepy
+
+•
 
 no appetite
 
-- flushed face •
+- flushed face
+
+- •
 
 fruity smell on the breath
 
@@ -5587,13 +5600,15 @@ Do not use this medicine if you notice clumps of material are present or if soli
 
 Medicines should not be disposed of via wastewater or household waste. Ask your pharmacist how to dispose of medicines no longer required. These measures will help to protect the environment.
 
-<div style=\"page-break-after: always\"></div>
-
 ## 6. Contents of the pack and other information
 
 ## What Humalog Mix25 100 units/ml suspension for injection in vial contains
 
-- -The active substance is insulin lispro. Insulin lispro is made in the laboratory by a 'recombinant DNA technology' process. It is a changed form of human insulin and so is different from other human and animal insulins. Insulin lispro is closely related to human insulin which is a natural hormone made by the pancreas.
+- -The active substance is insulin lispro. Insulin lispro is made in the laboratory by a 'recombinant DNA technology' process. It is a changed form of human insulin and so is different from other
+
+<div style=\"page-break-after: always\"></div>
+
+- human and animal insulins. Insulin lispro is closely related to human insulin which is a natural hormone made by the pancreas.
 - -The other ingredients are protamine sulphate, m-cresol, phenol, glycerol, dibasic sodium phosphate 7H 2 O, zinc oxide and water for injection.  Sodium hydroxide or hydrochloric acid may have been used to adjust the acidity.
 
 ## What Humalog Mix25 100 units/ml suspension for injection in vial looks like and contents of the pack
@@ -5606,7 +5621,7 @@ Humalog Mix25 100 units/ml suspension for injection in vial is made by:
 
 - Lilly S.A., Avda. de la Industria 30, 28108 Alcobendas, Madrid, Spain.
 
-The product licence is held by: Eli Lilly Nederland B.V., Papendorpseweg 83, 3528 BJ Utrecht, The Netherlands.
+The product licence is held by: Eli Lilly Nederland B.V., Orteliuslaan 1000, 3528 BD Utrecht, The Netherlands.
 
 For any information about this medicinal product, please contact the local representative of the Marketing Authorisation Holder:
 
@@ -5616,45 +5631,21 @@ Eli Lilly Benelux S.A./N.V.
 
 Tél/Tel: + 32-(0)2 548 84 84
 
-## Lietuva
-
-Eli Lilly Lietuva
-
-Tel. +370 (5) 2649600
-
 ## България
 
-ТП \"Ели Лили Недерланд\" Б.В. - България тел. + 359 2 491 41 40
-
-## Luxembourg/Luxemburg
-
-Eli Lilly Benelux S.A./N.V.
-
-Tél/Tel: + 32-(0)2 548 84 84
+ТП \"Ели Лили Недерланд\" Б.В. -България тел. + 359 2 491 41 40
 
 ## Česká republika
 
-ELI LILLY ČR , s.r.o.
+ELI LILLY ČR, s.r.o.
 
 Tel: + 420 234 664 111
-
-## Magyarország
-
-Lilly Hungária Kft.
-
-Tel: + 36 1 328 5100
 
 ## Danmark
 
 Eli Lilly Danmark A/S
 
-Tlf: +45 45 26 6000
-
-## Malta
-
-Charles de Giorgio Ltd.
-
-Tel: + 356 25600 500
+Tlf.: +45 45 26 6000
 
 ## Deutschland
 
@@ -5662,25 +5653,11 @@ Lilly Deutschland GmbH
 
 Tel. + 49-(0) 6172 273 2222
 
-## Nederland
-
-Eli Lilly Nederland B.V.
-
-Tel: + 31-(0) 30 60 25 800
-
 ## Eesti
 
 Eli Lilly Nederland B.V.
 
-Tel:
-
-+ 372 6817 280
-
-## Norge
-
-Eli Lilly Norge A.S.
-
-Tlf: + 47 22 88 18 00
+Tel: + 372 6817 280
 
 ## Ελλάδα
 
@@ -5690,14 +5667,6 @@ Tlf: + 47 22 88 18 00
 
 : +30 210 629 4600
 
-## Österreich
-
-Eli Lilly Ges. m.b.H.
-
-Tel: + 43-(0) 1 711 780
-
-<div style=\"page-break-after: always\"></div>
-
 ## España
 
 Lilly S.A.
@@ -5706,9 +5675,61 @@ Tel: + 34-91 663 50 00
 
 ## France
 
+## Lietuva
+
+Eli Lilly Lietuva
+
+Tel. +370 (5) 2649600
+
+## Luxembourg/Luxemburg
+
+Eli Lilly Benelux S.A./N.V.
+
+Tél/Tel: + 32-(0)2 548 84 84
+
+## Magyarország
+
+Lilly Hungária Kft.
+
+Tel: + 36 1 328 5100
+
+## Malta
+
+Charles de Giorgio Ltd.
+
+Tel: + 356 25600 500
+
+## Nederland
+
+Eli Lilly Nederland B.V.
+
+Tel: + 31-(0) 30 60 25 800
+
+## Norge
+
+Eli Lilly Norge A.S.
+
+Tlf: + 47 22 88 18 00
+
+## Österreich
+
+Eli Lilly Ges. m.b.H.
+
+Tel: + 43-(0) 1 711 780
+
+## Polska
+
+Eli Lilly Polska Sp. z o.o.
+
+Tel: +48 22 440 33 00
+
+## Portugal
+
 Lilly France
 
 Tél: +33-(0) 1 55 49 34 34
+
+<div style=\"page-break-after: always\"></div>
 
 ## Hrvatska
 
@@ -5752,15 +5773,7 @@ Tel:
 
 ## This leaflet was last revised in {MM/YYYY}.
 
-Detailed information on this medicine is available on the European Medicines Agency web site: http://www.ema.europa.eu/.
-
-## Polska
-
-Eli Lilly Polska Sp. z o.o.
-
-Tel: +48 22 440 33 00
-
-## Portugal
+Detailed information on this medicine is available on the European Medicines Agency web site: https://www.ema.europa.eu.
 
 Lilly Portugal - Produtos Farmacêuticos, Lda
 
@@ -5778,7 +5791,7 @@ Eli Lilly farmacevtska družba, d.o.o.
 
 Tel: +386 (0) 1 580 00 10
 
-## Slovenská republ ika
+## Slovenská republika
 
 Eli Lilly Slovakia s.r.o.
 
@@ -5796,15 +5809,9 @@ Eli Lilly Sweden AB
 
 Tel: + 46-(0) 8 7378800
 
-## United Kingdom (Northern Ireland)
-
-Eli Lilly and Company (Ireland) Limited
-
-Tel: + 353-(0) 1 661 4377
+## Package leaflet: Information for the user
 
 <div style=\"page-break-after: always\"></div>
-
-## Package leaflet: Information for the user
 
 ## Humalog Mix25 100 units/ml suspension for injection in cartridge insulin lispro
 
@@ -5850,9 +5857,9 @@ much to do. You must also keep a close watch on your blood sugar levels by testi
 
 - A few people who have had hypoglycaemia after switching from animal insulin to human insulin have reported that the early warning symptoms were less obvious or different. If you often have hypoglycaemia or have difficulty recognising them, please discuss this with your doctor.
 - If you answer YES to any of the following questions, tell your doctor, pharmacist or diabetes nurse
-- -Have you recently become ill?
-- -Do you have trouble with your kidneys or liver?
-- -Are you exercising more than usual?
+-  Have you recently become ill?
+-  Do you have trouble with your kidneys or liver?
+-   Are you exercising more than usual?
 - The amount of insulin you need may also change if you drink alcohol.
 - You should also tell your doctor, pharmacist or diabetes nurse if you are planning to go abroad. The time difference between countries may mean that you have to have your injections and meals at different times from when you are at home.
 - Some patients with long-standing type 2 diabetes mellitus and heart disease or previous stroke who were treated with pioglitazone and insulin experienced the development of heart failure. Inform your doctor as soon as possible, if you experience signs of heart failure such as unusual shortness of breath or rapid increase in weight or localised swelling (oedema).
@@ -5887,9 +5894,11 @@ Are you pregnant or thinking about becoming pregnant, or are you breast-feeding?
 
 ## Driving and using machines
 
-Your ability to concentrate and react may be reduced if you have hypoglycaemia. Please keep this possible problem in mind in all situations where you might put yourself and others at risk (e.g. driving a car or operating machinery). You should contact your doctor about the advisability of driving if you have:
+Your ability to concentrate and react may be reduced if you have hypoglycaemia. Please keep this possible problem in mind in all situations where you might put yourself and others at risk (e.g. driving
 
 <div style=\"page-break-after: always\"></div>
+
+a car or operating machinery). You should contact your doctor about the advisability of driving if you have:
 
 - frequent episodes of hypoglycaemia
 - reduced or absent warning signs of hypoglycaemia
@@ -5967,17 +5976,23 @@ Like all medicines, this medicine can cause side effects, although not everybody
 
 Systemic allergy is rare ( ≥ 1/10,000 to &lt;1/1,000) . The symptoms are as follows:
 
-- rash over the whole body •
+- rash over the whole body
+
+- •
 
 blood pressure dropping
 
-- difficulty in breathing •
+- difficulty in breathing
+
+- •
 
 heart beating fast
 
-- wheezing •
+•
 
-sweating
+wheezing
+
+- sweating
 
 If you think you are having this sort of insulin allergy with Humalog Mix25, tell your doctor at once.
 
@@ -6037,7 +6052,9 @@ Hyperglycaemia can be brought about by:
 
 Hyperglycaemia can lead to diabetic ketoacidosis. The first symptoms come on slowly over many hours or days. The symptoms include the following:
 
-- feeling sleepy •
+- feeling sleepy
+
+•
 
 no appetite
 
@@ -6089,11 +6106,11 @@ Humalog Mix25 100 units/ml suspension for injection in cartridge is made by:
 - Lilly France S.A.S., Rue du Colonel Lilly, 67640 Fegersheim, France,
 - Eli Lilly Italia S.p.A., Via Gramsci 731-733, 50019 Sesto Fiorentino, (FI) Italy.
 
-The product licence is held by: Eli Lilly Nederland B.V., Papendorpseweg 83, 3528 BJ Utrecht, The Netherlands.
-
-For any information about this medicinal product, please contact the local representative of the Marketing Authorisation Holder:
+The product licence is held by: Eli Lilly Nederland B.V., Orteliuslaan 1000, 3528 BD Utrecht, The Netherlands.
 
 <div style=\"page-break-after: always\"></div>
+
+For any information about this medicinal product, please contact the local representative of the Marketing Authorisation Holder:
 
 ## Belgique/België/Belgien
 
@@ -6101,7 +6118,9 @@ Eli Lilly Benelux S.A./N.V. Tél/Tel: + 32-(0)2 548 84 84
 
 ## България
 
-ТП \"Ели Лили Недерланд\" Б.В. -България тел. + 359 2 491 41 40
+ТП \"Ели Лили Недерланд\" Б.В. -България
+
+тел. + 359 2 491 41 40
 
 ## Česká republika
 
@@ -6109,7 +6128,7 @@ ELI LILLY ČR, s.r.o. Tel: + 420 234 664 111
 
 ## Danmark
 
-Eli Lilly Danmark A/S Tlf: +45 45 26 6000
+Eli Lilly Danmark A/S Tlf.: +45 45 26 6000
 
 ## Deutschland
 
@@ -6127,11 +6146,15 @@ Eli Lilly Nederland B.V. Tel: + 372 6817 280
 
 ## España
 
-Lilly S.A. Tel: + 34-91 663 50 00
+Lilly S.A.
+
+Tel: + 34-91 663 50 00
 
 ## France
 
-Lilly France Tél: +33-(0) 1 55 49 34 34
+Lilly France
+
+Tél: +33-(0) 1 55 49 34 34
 
 ## Hrvatska
 
@@ -6139,13 +6162,13 @@ Eli Lilly Hrvatska d.o.o. Tel: +385 1 2350 999
 
 ## Ireland
 
-Eli Lilly and Company (Ireland) Limited Tel: + 353-(0) 1 661 4377
+Eli Lilly and Company (Ireland) Limited
+
+Tel: + 353-(0) 1 661 4377
 
 ## Ísland
 
-Icepharma hf.
-
-Sími + 354 540 8000
+Icepharma hf. Sími + 354 540 8000
 
 ## Italia
 
@@ -6153,13 +6176,11 @@ Eli Lilly Italia S.p.A. Tel: + 39- 055 42571
 
 ## Κύπρος
 
-Phadisco Ltd Τηλ : +357 22 715000
+Phadisco Ltd
 
 ## Lietuva
 
-Eli Lilly Lietuva
-
-Tel. +370 (5) 2649600
+Eli Lilly Lietuva Tel. +370 (5) 2649600
 
 ## Luxembourg/Luxemburg
 
@@ -6175,19 +6196,17 @@ Charles de Giorgio Ltd. Tel: + 356 25600 500
 
 ## Nederland
 
-Eli Lilly Nederland B.V. Tel: + 31-(0) 30 60 25 800
+Eli Lilly Nederland B.V.
+
+Tel: + 31-(0) 30 60 25 800
 
 ## Norge
 
-Eli Lilly Norge A.S.
-
-Tlf: + 47 22 88 18 00
+Eli Lilly Norge A.S. Tlf: + 47 22 88 18 00
 
 ## Österreich
 
-Eli Lilly Ges. m.b.H.
-
-Tel: + 43-(0) 1 711 780
+Eli Lilly Ges. m.b.H. Tel: + 43-(0) 1 711 780
 
 ## Polska
 
@@ -6217,23 +6236,23 @@ Oy Eli Lilly Finland Ab Puh/Tel: + 358-(0) 9 85 45 250
 
 ## Sverige
 
-Eli Lilly Sweden AB Tel: + 46-(0) 8 7378800
+Eli Lilly Sweden AB
+
+Τηλ
+
+: +357 22 715000
 
 <div style=\"page-break-after: always\"></div>
 
 ## Latvija
 
-Eli Lilly (Suisse) S.A Pārstāvniecība Latvijā
-
-Tel:
-
-+ 371 67364000
+Eli Lilly (Suisse) S.A Pārstāvniecība Latvijā Tel: + 371 67364000
 
 ## This leaflet was last revised in {MM/YYYY}.
 
-Detailed information on this medicine is available on the European Medicines Agency web site: http://www.ema.europa.eu/.
+Detailed information on this medicine is available on the European Medicines Agency web site: https://www.ema.europa.eu.
 
-United Kingdom (Northern Ireland) Eli Lilly and Company (Ireland) Limited Tel: + 353-(0) 1 661 4377
+Tel: + 46-(0) 8 7378800
 
 ## Package leaflet: Information for the user
 
@@ -6283,9 +6302,9 @@ much to do. You must also keep a close watch on your blood sugar levels by testi
 
 - A few people who have had hypoglycaemia after switching from animal insulin to human insulin have reported that the early warning symptoms were less obvious or different. If you often have hypoglycaemia or have difficulty recognising them, please discuss this with your doctor.
 - If you answer YES to any of the following questions, tell your doctor, pharmacist or diabetes nurse
-- -Have you recently become ill?
-- -Do you have trouble with your kidneys or liver?
-- -Are you exercising more than usual?
+-  Have you recently become ill?
+-  Do you have trouble with your kidneys or liver?
+-   Are you exercising more than usual?
 - The amount of insulin you need may also change if you drink alcohol.
 - You should also tell your doctor, pharmacist or diabetes nurse if you are planning to go abroad. The time difference between countries may mean that you have to have your injections and meals at different times from when you are at home.
 - Some patients with long-standing type 2 diabetes mellitus and heart disease or previous stroke who were treated with pioglitazone and insulin experienced the development of heart failure. Inform your doctor as soon as possible, if you experience signs of heart failure such as unusual shortness of breath or rapid increase in weight or localised swelling (oedema).
@@ -6320,9 +6339,11 @@ Are you pregnant or thinking about becoming pregnant, or are you breast-feeding?
 
 ## Driving and using machines
 
-Your ability to concentrate and react may be reduced if you have hypoglycaemia. Please keep this possible problem in mind in all situations where you might put yourself and others at risk (e.g. driving a car or operating machinery). You should contact your doctor about the advisability of driving if you have:
+Your ability to concentrate and react may be reduced if you have hypoglycaemia. Please keep this possible problem in mind in all situations where you might put yourself and others at risk (e.g. driving
 
 <div style=\"page-break-after: always\"></div>
+
+a car or operating machinery). You should contact your doctor about the advisability of driving if you have:
 
 - frequent episodes of hypoglycaemia
 - reduced or absent warning signs of hypoglycaemia
@@ -6358,9 +6379,9 @@ Always use Humalog Mix50 exactly as your doctor has told you. You should check w
 
 - Before you make an injection, clean your skin as you have been instructed. Inject under the skin, as you were taught. Do not inject directly into a vein. After your injection, leave the needle in the skin for five seconds to make sure you have taken the whole dose. Do not rub the area you have just injected. Make sure you inject at least half an inch (1 cm) from the last injection and that you 'rotate' the places you inject, as you have been taught.
 
-## After injecting
-
 <div style=\"page-break-after: always\"></div>
+
+## After injecting
 
 - As soon as you have done the injection, take the needle off the pen using the outer needle cap. This will keep the Humalog Mix50 sterile and prevent leaking. It will also stop air going back into the pen and the needle clogging up. Do not share your needles. Do not share your pen. Replace the cap on your pen. Leave the cartridge in the pen.
 
@@ -6382,7 +6403,7 @@ If you take less Humalog Mix50 than you need or are unsure how much you have inj
 
 If hypoglycaemia (low blood sugar) or hyperglycaemia (high blood sugar) is not treated they can be very serious and cause headaches, nausea, vomiting, dehydration, unconsciousness, coma or even death (see A and B in section 4 'Possible Side Effects').
 
-## Three simple steps to avoid hypoglycaemia or hyperglycaemia are:
+Three simple steps to avoid hypoglycaemia or hyperglycaemia are:
 
 - Always keep a spare pen and cartridges, in case you lose your pen or cartridges or they get damaged.
 - Always carry something to show you are diabetic.
@@ -6401,24 +6422,19 @@ Like all medicines, this medicine can cause side effects, although not everybody
 Systemic allergy is rare ( ≥ 1/10,000 to &lt;1/1,000) . The symptoms are as follows:
 
 - rash over the whole body
-
-- blood pressure dropping
-
-- difficulty in breathing •
-
-heart beating fast
-
+- difficulty in breathing
 - wheezing
-
+- blood pressure dropping
+- heart beating fast
 - sweating
 
 If you think you are having this sort of insulin allergy with Humalog Mix50, tell your doctor at once.
 
 <div style=\"page-break-after: always\"></div>
 
-Local allergy is common ( ≥ 1/10 0 to &lt;1/10). Some people get redness, swelling or itching around the area of the insulin injection. This usually clears up in anything from a few days to a few weeks. If this happens to you, tell your doctor.
+Local allergy is common ( ≥ 1/100 to &lt;1/10). Some people get redness, swelling or itching around the area of the insulin injection. This usually clears up in anything from a few days to a few weeks. If this happens to you, tell your doctor.
 
-Lipodystrophy is uncommon ( ≥ 1/1,000 to &lt;1/10 0).  If you inject insulin too often at the same place, the fatty tissue may either shrink (lipoatrophy) or thicken (lipohypertrophy). Lumps under the skin may also be caused by build-up of a protein called amyloid (cutaneous amyloidosis). The insulin may not work very well if you inject into a lumpy area. Change the injection site with each injection to help prevent these skin changes.
+Lipodystrophy is uncommon ( ≥ 1/1,000 to &lt;1/100) .  If you inject insulin too often at the same place, the fatty tissue may either shrink (lipoatrophy) or thicken (lipohypertrophy). Lumps under the skin may also be caused by build-up of a protein called amyloid (cutaneous amyloidosis). The insulin may not work very well if you inject into a lumpy area. Change the injection site with each injection to help prevent these skin changes.
 
 Oedema (e.g. swelling in arms, ankles; fluid retention) has been reported, particularly at the start of insulin therapy or during a change in therapy to improve control of your blood glucose.
 
@@ -6443,17 +6459,19 @@ Alcohol and some medicines can affect your blood sugar levels.
 
 The first symptoms of low blood sugar usually come on quickly and include the following:
 
-- tiredness •
+- tiredness
+
+•
 
 rapid heartbeat
 
-- nervousness or shakiness •
+- nervousness or shakiness
 
-feeling sick
+• feeling sick
 
-- headache •
+- headache
 
-cold sweat
+• cold sweat
 
 While you are not confident about recognising your warning symptoms, avoid situations, e.g. driving a car, in which you or others would be put at risk by hypoglycaemia.
 
@@ -6470,17 +6488,21 @@ Hyperglycaemia can be brought about by:
 
 Hyperglycaemia can lead to diabetic ketoacidosis. The first symptoms come on slowly over many hours or days. The symptoms include the following:
 
-- feeling sleepy •
+- feeling sleepy
+
+- •
 
 no appetite
 
-- flushed face •
+- flushed face
+
+- •
 
 fruity smell on the breath
 
-- thirst •
+- thirst
 
-feeling or being sick
+- feeling or being sick
 
 Severe symptoms are heavy breathing and a rapid pulse. Get medical help immediately.
 
@@ -6522,7 +6544,7 @@ Humalog Mix50 100 units/ml suspension for injection in cartridge is made by:
 - Lilly France S.A.S., Rue du Colonel Lilly, 67640 Fegersheim, France,
 - Eli Lilly Italia S.p.A., Via  Gramsci 731-733, 50019 Sesto Fiorentino, (FI) Italy.
 
-The product licence is held by: Eli Lilly Nederland B.V., Papendorpseweg 83, 3528 BJ Utrecht, The Netherlands.
+The product licence is held by: Eli Lilly Nederland B.V., Orteliuslaan 1000, 3528 BD Utrecht, The Netherlands.
 
 For any information about this medicinal product, please contact the local representative of the Marketing Authorisation Holder:
 
@@ -6530,19 +6552,21 @@ For any information about this medicinal product, please contact the local repre
 
 ## Belgique/België/Belgien
 
-Eli Lilly Benelux S.A./N.V. Tél/Tel: + 32-(0)2 548 84 84
+Eli Lilly Benelux S.A./N.V.
+
+Tél/Tel: + 32-(0)2 548 84 84
 
 ## България
 
 ТП \"Ели Лили Недерланд\" Б.В. -България тел. + 359 2 491 41 40
 
-## Česká repu blika
+## Česká republika
 
 ELI LILLY ČR, s.r.o. Tel: + 420 234 664 111
 
 ## Danmark
 
-Eli Lilly Danmark A/S Tlf: +45 45 26 6000
+Eli Lilly Danmark A/S Tlf.: +45 45 26 6000
 
 ## Deutschland
 
@@ -6552,11 +6576,7 @@ Tel. + 49-(0) 6172 273 2222
 
 ## Eesti
 
-Eli Lilly Nederland B.V.
-
-Tel:
-
-+ 372 6817 280
+Eli Lilly Nederland B.V. Tel: + 372 6817 280
 
 ## Ελλάδα
 
@@ -6580,41 +6600,41 @@ Eli Lilly and Company (Ireland) Limited Tel: + 353-(0) 1 661 4377
 
 ## Ísland
 
-Icepharma hf.
-
-Sími + 354 540 8000
+Icepharma hf. Sími + 354 540 8000
 
 ## Italia
 
-Eli Lilly Italia S.p.A. Tel: + 39- 055 42571
+Eli Lilly Italia S.p.A.
+
+Tel: + 39- 055 42571
 
 ## Κύπρος
 
 Phadisco Ltd Τηλ : +357 22 715000
 
+## Latvija
+
 ## Lietuva
 
-Eli Lilly Lietuva
-
-Tel. +370 (5) 2649600
+Eli Lilly Lietuva Tel. +370 (5) 2649600
 
 ## Luxembourg/Luxemburg
 
 Eli Lilly Benelux S.A./N.V. Tél/Tel: + 32-(0)2 548 84 84
 
-## Magya rország
+## Magyarország
 
 Lilly Hungária Kft. Tel: + 36 1 328 5100
 
 ## Malta
 
-Charles de Giorgio Ltd.
-
-Tel: + 356 25600 500
+Charles de Giorgio Ltd. Tel: + 356 25600 500
 
 ## Nederland
 
-Eli Lilly Nederland B.V. Tel: + 31-(0) 30 60 25 800
+Eli Lilly Nederland B.V.
+
+Tel: + 31-(0) 30 60 25 800
 
 ## Norge
 
@@ -6624,9 +6644,7 @@ Tlf: + 47 22 88 18 00
 
 ## Österreich
 
-Eli Lilly Ges. m.b.H.
-
-Tel: + 43-(0) 1 711 780
+Eli Lilly Ges. m.b.H. Tel: + 43-(0) 1 711 780
 
 ## Polska
 
@@ -6658,11 +6676,9 @@ Oy Eli Lilly Finland Ab Puh/Tel: + 358-(0) 9 85 45 250
 
 Eli Lilly Sweden AB Tel: + 46-(0) 8 7378800
 
-<div style=\"page-break-after: always\"></div>
-
-## Latvija
-
 Eli Lilly (Suisse) S.A Pārstāvniecība Latvijā
+
+<div style=\"page-break-after: always\"></div>
 
 Tel:
 
@@ -6670,13 +6686,7 @@ Tel:
 
 ## This leaflet was last revised in {MM/YYYY}.
 
-Detailed information on this medicine is available on the European Medicines Agency web site: http://www.ema.europa.eu/.
-
-## United Kingdom (Northern Ireland)
-
-Eli Lilly and Company (Ireland) Limited
-
-Tel: + 353-(0) 1 661 4377
+Detailed information on this medicine is available on the European Medicines Agency web site: https://www.ema.europa.eu.
 
 ## Package leaflet: Information for the user
 
@@ -6731,9 +6741,9 @@ The KwikPen is a disposable pre-filled pen containing 3 ml (300 units, 100 units
 - If your blood sugar levels are well controlled by your current insulin therapy, you may not feel the warning symptoms when your blood sugar is falling too low. Warning signs are listed later in this leaflet. You must think carefully about when to have your meals, how often to exercise and how much to do. You must also keep a close watch on your blood sugar levels by testing your blood glucose often.
 - A few people who have had hypoglycaemia after switching from animal insulin to human insulin have reported that the early warning symptoms were less obvious or different. If you often have hypoglycaemia or have difficulty recognising it, please discuss this with your doctor.
 - If you answer YES to any of the following questions, tell your doctor, pharmacist or diabetes nurse
-- -Have you recently become ill?
-- -Do you have trouble with your kidneys or liver?
-- -Are you exercising more than usual?
+-  Have you recently become ill?
+-  Do you have trouble with your kidneys or liver?
+-   Are you exercising more than usual?
 - The amount of insulin you need may also change if you drink alcohol.
 - You should also tell your doctor, pharmacist or diabetes nurse if you are planning to go abroad. The time difference between countries may mean that you have to have your injections and meals at different times from when you are at home.
 - Some patients with long-standing type 2 diabetes mellitus and heart disease or previous stroke who were treated with pioglitazone and insulin experienced the development of heart failure. Inform your doctor as soon as possible, if you experience signs of heart failure such as unusual shortness of breath or rapid increase in weight or localised swelling (oedema).
@@ -6856,17 +6866,21 @@ Like all medicines, this medicine can cause side effects, although not everybody
 
 Systemic allergy is rare ( ≥ 1/10,000 to &lt;1/1,000) . The symptoms are as follows:
 
-- rash over the whole body •
+- rash over the whole body
+
+- •
 
 blood pressure dropping
 
-- difficulty in breathing •
+- difficulty in breathing
+
+- •
 
 heart beating fast
 
-- wheezing •
+- wheezing
 
-sweating
+- sweating
 
 If you think you are having this sort of insulin allergy with Humalog, tell your doctor at once.
 
@@ -6933,9 +6947,9 @@ no appetite
 
 fruity smell on the breath
 
-- thirst •
+- thirst
 
-feeling or being sick
+- feeling or being sick
 
 Severe symptoms are heavy breathing and a rapid pulse. Get medical help immediately.
 
@@ -6977,7 +6991,7 @@ Humalog 100 units/ml KwikPen solution for injection is made by:
 - Lilly France S.A.S., Rue du Colonel Lilly, 67640 Fegersheim, France,
 - Eli Lilly Italia S.p.A., Via  Gramsci 731-733, 50019 Sesto Fiorentino, (FI) Italy.
 
-The product licence is held by: Eli Lilly Nederland B.V., Papendorpseweg 83, 3528 BJ Utrecht, The Netherlands.
+The product licence is held by: Eli Lilly Nederland B.V., Orteliuslaan 1000, 3528 BD Utrecht, The Netherlands.
 
 For any information about this medicinal product, please contact the local representative of the Marketing Authorisation Holder:
 
@@ -7001,7 +7015,7 @@ Tel: + 420 234 664 111
 
 Eli Lilly Danmark A/S
 
-Tlf: +45 45 26 6000
+Tlf.: +45 45 26 6000
 
 ## Deutschland
 
@@ -7011,19 +7025,13 @@ Tel. + 49-(0) 6172 273 2222
 
 ## Eesti
 
-Eli Lilly Nederland B.V.
-
-Tel:
-
-+ 372 6817 280
+Eli Lilly Nederland B.V. Tel: + 372 6817 280
 
 ## Ελλάδα
 
-ΦΑΡΜΑΣΕΡΒ - ΛΙΛΛΥ Α.Ε.Β.Ε.
+ΦΑΡΜΑΣΕΡΒ -ΛΙΛΛΥ Α.Ε.Β.Ε.
 
-Τηλ
-
-: +30 210 629 4600
+Τηλ : +30 210 629 4600
 
 ## España
 
@@ -7048,6 +7056,10 @@ Tel: +385 1 2350 999
 Eli Lilly and Company (Ireland) Limited
 
 Tel: + 353-(0) 1 661 4377
+
+## Ísland
+
+Icepharma hf.
 
 ## Lietuva
 
@@ -7099,9 +7111,7 @@ Tel: +48 22 440 33 00
 
 ## Portugal
 
-Lilly Portugal - Produtos Farmacêuticos, Lda
-
-Tel: + 351-21-4126600
+Lilly Portugal - Produtos Farmacêuticos, Lda Tel: + 351-21-4126600
 
 ## România
 
@@ -7111,15 +7121,15 @@ Tel: + 40 21 4023000
 
 ## Slovenija
 
-Eli Lilly far macevtska družba, d.o.o.
+Eli Lilly farmacevtska družba, d.o.o.
 
 Tel: +386 (0) 1 580 00 10
 
+## Slovenská republika
+
+Eli Lilly Slovakia s.r.o.
+
 <div style=\"page-break-after: always\"></div>
-
-## Ísland
-
-Icepharma hf.
 
 Sími + 354 540 8000
 
@@ -7139,23 +7149,19 @@ Phadisco Ltd
 
 ## Latvija
 
-Eli Lilly (Suisse) S. A Pārstāvniecība Latvijā
+Eli Lilly (Suisse) S.A Pārstāvniecība Latvijā
 
 Tel:
 
 + 371 67364000
 
-## This leaflet was last revised in {MM/YYYY}.
+This leaflet was last revised in {MM/YYYY}.
 
-## USER MANUAL
+USER MANUAL
 
 Please see manual text later.
 
-Detailed information on this medicine is available on the European Medicines Agency web site: http://www.ema.europa.eu/.
-
-## Slovenská republika
-
-Eli Lilly Slovakia s.r.o.
+Detailed information on this medicine is available on the European Medicines Agency web site: https://www.ema.europa.eu.
 
 Tel: + 421 220 663 111
 
@@ -7170,12 +7176,6 @@ Puh/Tel: + 358-(0) 9 85 45 250
 Eli Lilly Sweden AB
 
 Tel: + 46-(0) 8 7378800
-
-## United Kingdom (Northern Ireland)
-
-Eli Lilly and Company (Ireland) Limited
-
-Tel: + 353-(0) 1 661 4377
 
 ## Package leaflet: Information for the user
 
@@ -7226,9 +7226,9 @@ The KwikPen is a disposable pre-filled pen containing 3 ml (300 units, 100 units
 - If your blood sugar levels are well controlled by your current insulin therapy, you may not feel the warning symptoms when your blood sugar is falling too low. Warning signs are listed later in this leaflet.  You must think carefully about when to have your meals, how often to exercise and how much to do. You must also keep a close watch on your blood sugar levels by testing your blood glucose often.
 - A few people who have had hypoglycaemia after switching from animal insulin to human insulin have reported that the early warning symptoms were less obvious or different. If you often have hypoglycaemia or have difficulty recognising them, please discuss this with your doctor.
 - If you answer YES to any of the following questions, tell your doctor, pharmacist or diabetes nurse
-- -Have you recently become ill?
-- -Do you have trouble with your kidneys or liver?
-- -Are you exercising more than usual?
+-  Have you recently become ill?
+-  Do you have trouble with your kidneys or liver?
+-   Are you exercising more than usual?
 - The amount of insulin you need may also change if you drink alcohol.
 - You should also tell your doctor, pharmacist or diabetes nurse if you are planning to go abroad. The time difference between countries may mean that you have to have your injections and meals at different times from when you are at home.
 - Some patients with long-standing type 2 diabetes mellitus and heart disease or previous stroke who were treated with pioglitazone and insulin experienced the development of heart failure. Inform your doctor as soon as possible, if you experience signs of heart failure such as unusual shortness of breath or rapid increase in weight or localised swelling (oedema).
@@ -7341,7 +7341,9 @@ If you have any further questions on the use of this product, ask your doctor or
 
 Like all medicines, this medicine can cause side effects, although not everybody gets them.
 
-Systemic allergy is rare ( ≥ 1/10,000 t o &lt;1/1,000) . The symptoms are as follows:
+Systemic allergy is rare ( ≥ 1/10,000 to &lt;1/1,000) . The symptoms are as follows:
+
+- •
 
 - rash over the whole body
 
@@ -7349,13 +7351,17 @@ Systemic allergy is rare ( ≥ 1/10,000 t o &lt;1/1,000) . The symptoms are as f
 
 blood pressure dropping
 
-- difficulty in breathing •
+- difficulty in breathing
 
-heart beating fast
+- heart beating fast
+
+- •
+
+- wheezing
+
+- sweating
 
 <div style=\"page-break-after: always\"></div>
-
-- wheezing · sweating
 
 If you think you are having this sort of insulin allergy with Humalog Mix25, tell your doctor at once.
 
@@ -7390,11 +7396,15 @@ The first symptoms of low blood sugar usually come on quickly and include the fo
 
 rapid heartbeat
 
-- nervousness or shakiness •
+- nervousness or shakiness
+
+•
 
 feeling sick
 
-- headache •
+- headache
+
+•
 
 cold sweat
 
@@ -7411,19 +7421,14 @@ Hyperglycaemia (too much sugar in the blood) means that your body does not have 
 
 Hyperglycaemia can lead to diabetic ketoacidosis. The first symptoms come on slowly over many hours or days. The symptoms include the following:
 
-- feeling sleepy •
-
-no appetite
-
-- flushed face •
-
-fruity smell on the breath
-
-- thirst •
-
-feeling or being sick
+- feeling sleepy
+- no appetite
 
 <div style=\"page-break-after: always\"></div>
+
+| flushed face   | fruity smell on the breath   |
+|----------------|------------------------------|
+| thirst         | feeling or being sick        |
 
 Severe symptoms are heavy breathing and a rapid pulse. Get medical help immediately.
 
@@ -7461,11 +7466,12 @@ Humalog Mix25 100 units/ KwikPen suspension for injection is a white, sterile su
 Humalog Mix25 100 units/ml KwikPen suspension for injection is made by:
 
 - Lilly France S.A.S., Rue du Colonel Lilly, 67640 Fegersheim, France,
-- Eli Lilly Italia S.p.A., Via  Gramsci 731-733, 50019 Sesto Fiorentino, (FI) Italy.
 
 <div style=\"page-break-after: always\"></div>
 
-The product licence is held by: Eli Lilly Nederland B.V., Papendorpseweg 83, 3528 BJ Utrecht, The Netherlands.
+- Eli Lilly Italia S.p.A., Via  Gramsci 731-733, 50019 Sesto Fiorentino, (FI) Italy.
+
+The product licence is held by: Eli Lilly Nederland B.V., Orteliuslaan 1000, 3528 BD Utrecht, The Netherlands.
 
 For any information about this medicinal product, please contact the local representative of the Marketing Authorisation Holder:
 
@@ -7477,23 +7483,23 @@ Tél/Tel: + 32-(0)2 548 84 84
 
 ## България
 
-ТП \"Ели Лили Недерланд\" Б.В. -България тел. + 359 2 4 91 41 40
+ТП \"Ели Лили Недерланд\" Б.В. -България
+
+тел. + 359 2 491 41 40
 
 ## Česká republika
 
-ELI LILLY ČR, s.r.o.
-
-Tel: + 420 234 664 111
+ELI LILLY ČR, s.r.o. Tel: + 420 234 664 111
 
 ## Danmark
 
-Eli Lilly Danmark A/S
-
-Tlf: +45 45 26 6000
+Eli Lilly Danmark A/S Tlf.: +45 45 26 6000
 
 ## Deutschland
 
-Lilly Deutschland GmbH Tel. + 49-(0) 6172 273 2222
+Lilly Deutschland GmbH
+
+Tel. + 49-(0) 6172 273 2222
 
 ## Eesti
 
@@ -7505,11 +7511,9 @@ Tel:
 
 ## Ελλάδα
 
-ΦΑΡΜΑΣΕΡΒ - ΛΙΛΛΥ Α.Ε.Β.Ε.
+ΦΑΡΜΑΣΕΡΒ -ΛΙΛΛΥ Α.Ε.Β.Ε.
 
-Τηλ
-
-: +30 210 629 4600
+Τηλ : +30 210 629 4600
 
 ## España
 
@@ -7541,41 +7545,31 @@ Sími + 354 540 8000
 
 ## Italia
 
-Eli Lilly Italia S.p.A.
-
-Tel: + 39- 055 42571
-
 ## Lietuva
 
 Eli Lilly Lietuva Tel. +370 (5) 2649600
 
 ## Luxembourg/Luxemburg
 
-Eli Lilly Benelux S.A./N.V.
-
-Tél/Tel: + 32-(0)2 548 84 84
+Eli Lilly Benelux S.A./N.V. Tél/Tel: + 32-(0)2 548 84 84
 
 ## Magyarország
 
-Lilly Hungária Kft.
-
-Tel: + 36 1 328 5100
+Lilly Hungária Kft. Tel: + 36 1 328 5100
 
 ## Malta
 
-Charles de Giorgio Ltd.
-
-Tel: + 356 25600 500
+Charles de Giorgio Ltd. Tel: + 356 25600 500
 
 ## Nederland
 
-Eli Lilly Nederland B.V. Tel: + 31-(0) 30 60 25 800
+Eli Lilly Nederland B.V.
+
+Tel: + 31-(0) 30 60 25 800
 
 ## Norge
 
-Eli Lilly Norge A.S.
-
-Tlf: + 47 22 88 18 00
+Eli Lilly Norge A.S. Tlf: + 47 22 88 18 00
 
 ## Österreich
 
@@ -7595,29 +7589,23 @@ Lilly Portugal - Produtos Farmacêuticos, Lda Tel: + 351-21-4126600
 
 ## România
 
-Eli Lilly România S.R.L.
-
-Tel: + 40 21 4023000
+Eli Lilly România S.R.L. Tel: + 40 21 4023000
 
 ## Slovenija
 
-Eli Lilly farmacevtska družba, d.o.o.
-
-Tel: +386 (0) 1 580 00 10
+Eli Lilly farmacevtska družba, d.o.o. Tel: +386 (0) 1 580 00 10
 
 ## Slovenská republika
 
-Eli Lilly Slovakia s.r.o.
-
-Tel: + 421 220 663 111
+Eli Lilly Slovakia s.r.o. Tel: + 421 220 663 111
 
 ## Suomi/Finland
 
-Oy Eli Lilly Finland Ab
-
-Puh/Tel: + 358-(0) 9 85 45 250
+Eli Lilly Italia S.p.A.
 
 <div style=\"page-break-after: always\"></div>
+
+Tel: + 39- 055 42571
 
 ## Κύπρος
 
@@ -7641,7 +7629,11 @@ USER MANUAL
 
 Please see manual text later.
 
-Detailed information on this medicine is available on the European Medicines Agency web site: http://www.ema.europa.eu/.
+Detailed information on this medicine is available on the European Medicines Agency web site: https://www.ema.europa.eu.
+
+Oy Eli Lilly Finland Ab
+
+Puh/Tel: + 358-(0) 9 85 45 250
 
 ## Sverige
 
@@ -7649,17 +7641,13 @@ Eli Lilly Sweden AB
 
 Tel: + 46-(0) 8 7378800
 
-## United Kingdom (Northern Ireland)
-
-Eli Lilly and Company (Ireland) Limited
-
-Tel: + 353-(0) 1 661 4377
-
 ## Package leaflet: Information for the user
 
 <div style=\"page-break-after: always\"></div>
 
-## Humalog Mix50 100 units/ml KwikPen suspension for injection in a pre-filled pen insulin lispro
+## Humalog Mix50 100 units/ml KwikPen suspension for injection in a pre-filled pen
+
+## insulin lispro
 
 ## Each KwikPen delivers 1 - 60 units in steps of 1 units.
 
@@ -7704,9 +7692,9 @@ The KwikPen is a disposable pre-filled pen containing 3 ml (300 units, 100 units
 - If your blood sugar levels are well controlled by your current insulin therapy, you may not feel the warning symptoms when your blood sugar is falling too low. Warning signs are listed later in this leaflet.  You must think carefully about when to have your meals, how often to exercise and how much to do. You must also keep a close watch on your blood sugar levels by testing your blood glucose often.
 - A few people who have had hypoglycaemia after switching from animal insulin to human insulin have reported that the early warning symptoms were less obvious or different. If you often have hypoglycaemia or have difficulty recognising them, please discuss this with your doctor.
 - If you answer YES to any of the following questions, tell your doctor, pharmacist or diabetes nurse
-- -Have you recently become ill?
-- -Do you have trouble with your kidneys or liver?
-- -Are you exercising more than usual?
+-  Have you recently become ill?
+-  Do you have trouble with your kidneys or liver?
+-   Are you exercising more than usual?
 - The amount of insulin you need may also change if you drink alcohol.
 - You should also tell your doctor, pharmacist or diabetes nurse if you are planning to go abroad. The time difference between countries may mean that you have to have your injections and meals at different times from when you are at home.
 - Some patients with long-standing type 2 diabetes mellitus and heart disease or previous stroke who were treated with pioglitazone and insulin experienced the development of heart failure. Inform your doctor as soon as possible, if you experience signs of heart failure such as unusual shortness of breath or rapid increase in weight or localised swelling (oedema).
@@ -7821,12 +7809,17 @@ Like all medicines, this medicine can cause side effects, although not everybody
 
 Systemic allergy is rare ( ≥ 1/10,000 to &lt;1/1,000) . The symptoms are as follows:
 
-- rash over the whole body ·
-- difficulty in breathing
-- wheezing
 - •
 
-blood pressure dropping heart beating fast
+- rash over the whole body
+
+- blood pressure dropping
+
+- difficulty in breathing
+
+- heart beating fast
+
+- wheezing
 
 - sweating
 
@@ -7836,7 +7829,7 @@ If you think you are having this sort of insulin allergy with Humalog Mix50, tel
 
 Local allergy is common ( ≥ 1/100 to &lt;1/10). Some people get redness, swelling or itching around the area of the insulin injection. This usually clears up in anything from a few days to a few weeks. If this happens to you, tell your doctor.
 
-Lipodystrophy is uncommon ( ≥ 1/1,000 to &lt; 1/100).  If you inject insulin too often at the same place, the fatty tissue may either shrink (lipoatrophy) or thicken (lipohypertrophy). Lumps under the skin may also be caused by build-up of a protein called amyloid (cutaneous amyloidosis). The insulin may not work very well if you inject into a lumpy area. Change the injection site with each injection to help prevent these skin changes.
+Lipodystrophy is uncommon ( ≥ 1/1,000 to &lt;1/100) .  If you inject insulin too often at the same place, the fatty tissue may either shrink (lipoatrophy) or thicken (lipohypertrophy). Lumps under the skin may also be caused by build-up of a protein called amyloid (cutaneous amyloidosis). The insulin may not work very well if you inject into a lumpy area. Change the injection site with each injection to help prevent these skin changes.
 
 Oedema (e.g. swelling in arms, ankles; fluid retention) has been reported, particularly at the start of insulin therapy or during a change in therapy to improve control of your blood glucose.
 
@@ -7861,23 +7854,27 @@ Alcohol and some medicines can affect your blood sugar levels.
 
 The first symptoms of low blood sugar usually come on quickly and include the following:
 
-- tiredness •
+- tiredness
+
+•
 
 rapid heartbeat
 
-- nervousness or shakiness •
+- nervousness or shakiness
 
-feeling sick
+• feeling sick
 
-- headache •
+- headache
 
-cold sweat
+• cold sweat
 
 While you are not confident about recognising your warning symptoms, avoid situations, e.g. driving a car, in which you or others would be put at risk by hypoglycaemia.
 
 ## B. Hyperglycaemia and diabetic ketoacidosis
 
-Hyperglycaemia (too much sugar in the blood) means that your body does not have enough insulin. Hyperglycaemia can be brought about by:
+Hyperglycaemia (too much sugar in the blood) means that your body does not have enough insulin.
+
+Hyperglycaemia can be brought about by:
 
 - not taking your Humalog or other insulin;
 - taking less insulin than your doctor tells you to;
@@ -7886,17 +7883,21 @@ Hyperglycaemia (too much sugar in the blood) means that your body does not have 
 
 Hyperglycaemia can lead to diabetic ketoacidosis. The first symptoms come on slowly over many hours or days. The symptoms include the following:
 
-- feeling sleepy •
+- feeling sleepy
+
+- •
 
 no appetite
 
-- flushed face •
+- flushed face
+
+- •
 
 fruity smell on the breath
 
-- thirst •
+- thirst
 
-feeling or being sick
+- feeling or being sick
 
 Severe symptoms are heavy breathing and a rapid pulse. Get medical help immediately.
 
@@ -7938,7 +7939,7 @@ Humalog Mix50 100 units/ml KwikPen suspension for injection is made by:
 - Lilly France S.A.S., Rue du Colonel Lilly, 67640 Fegersheim, France,
 - Eli Lilly Italia S.p.A., Via  Gramsci 731-733, 50019 Sesto Fiorentino, (FI) Italy.
 
-The product licence is held by: Eli Lilly Nederland B.V., Papendorpseweg 83, 3528 BJ Utrecht, The Netherlands.
+The product licence is held by: Eli Lilly Nederland B.V., Orteliuslaan 1000, 3528 BD Utrecht, The Netherlands.
 
 <div style=\"page-break-after: always\"></div>
 
@@ -7956,15 +7957,17 @@ Eli Lilly Benelux S.A./N.V. Tél/Tel: + 32-(0)2 548 84 84
 
 ## Česká republika
 
-ELI LILLY ČR, s. r.o. Tel: + 420 234 664 111
+ELI LILLY ČR, s.r.o. Tel: + 420 234 664 111
 
 ## Danmark
 
-Eli Lilly Danmark A/S Tlf: +45 45 26 6000
+Eli Lilly Danmark A/S Tlf.: +45 45 26 6000
 
 ## Deutschland
 
-Lilly Deutschland GmbH Tel. + 49-(0) 6172 273 2222
+Lilly Deutschland GmbH
+
+Tel. + 49-(0) 6172 273 2222
 
 ## Eesti
 
@@ -7996,15 +7999,11 @@ Eli Lilly and Company (Ireland) Limited Tel: + 353-(0) 1 661 4377
 
 ## Ísland
 
-Icepharma hf.
-
-Sími + 354 540 8000
+Icepharma hf. Sími + 354 540 8000
 
 ## Italia
 
-Eli Lilly Italia S.p.A.
-
-Tel: + 39- 055 42571
+Eli Lilly Italia S.p.A. Tel: + 39- 055 42571
 
 ## Lietuva
 
@@ -8020,9 +8019,7 @@ Lilly Hungária Kft. Tel: + 36 1 328 5100
 
 ## Malta
 
-Charles de Giorgio Ltd.
-
-Tel: + 356 25600 500
+Charles de Giorgio Ltd. Tel: + 356 25600 500
 
 ## Nederland
 
@@ -8052,17 +8049,17 @@ Eli Lilly România S.R.L. Tel: + 40 21 4023000
 
 ## Slovenija
 
-Eli Lilly farm acevtska družba, d.o.o. Tel: +386 (0) 1 580 00 10
+Eli Lilly farmacevtska družba, d.o.o. Tel: +386 (0) 1 580 00 10
 
 ## Slovenská republika
 
-Eli Lilly Slovakia s.r.o. Tel: + 421 220 663 111
+Eli Lilly Slovakia s.r.o.
+
+Tel: + 421 220 663 111
 
 ## Suomi/Finland
 
 Oy Eli Lilly Finland Ab Puh/Tel: + 358-(0) 9 85 45 250
-
-<div style=\"page-break-after: always\"></div>
 
 ## Κύπρος
 
@@ -8072,9 +8069,11 @@ Phadisco Ltd
 
 : +357 22 715000
 
+<div style=\"page-break-after: always\"></div>
+
 ## Latvija
 
-E li Lilly (Suisse) S.A Pārstāvniecība Latvijā
+Eli Lilly (Suisse) S.A Pārstāvniecība Latvijā
 
 Tel:
 
@@ -8086,19 +8085,11 @@ USER MANUAL
 
 Please see manual text later.
 
-Detailed information on this medicine is available on the European Medicines Agency web site: http://www.ema.europa.eu/.
+Detailed information on this medicine is available on the European Medicines Agency web site: https://www.ema.europa.eu.
 
-## Sverige
-
-Eli Lilly Sweden AB
+Sverige Eli Lilly Sweden AB
 
 Tel: + 46-(0) 8 7378800
-
-## United Kingdom (Northern Ireland)
-
-Eli Lilly and Company (Ireland) Limited
-
-Tel: + 353-(0) 1 661 4377
 
 <div style=\"page-break-after: always\"></div>
 
@@ -8136,8 +8127,6 @@ This Pen is not recommended for use by the blind or visually impaired without th
 | Dose Knob:  | Burgundy                       | Yellow                                      | Red                                         |
 | Labels:     | White with Burgundy Colour Bar | White with Yellow Colour Bar                | White with Red Colour Bar                   |
 
-<!-- image -->
-
 ## Supplies needed to give your injection:
 
 - KwikPen containing your insulin
@@ -8149,7 +8138,7 @@ Needles and swab are not included.
 ## Preparing your Pen
 
 - Wash your hands with soap and water.
-- Check the Pen to make sure you are taking the right type of insulin. This is especially important if you use  more than 1 type of insulin.
+- Check the Pen to make sure you are taking the right type of insulin. This is especially important if you use more than 1 type of insulin.
 - Do not use your Pen past the expiration date printed on the Label. After you start using the Pen, throw your Pen away after the in-use time specified in the Package Leaflet.
 - Always use a new Needle for each injection to help prevent infections and blocked Needles.
 
@@ -8159,18 +8148,22 @@ Needles and swab are not included.
 
 ## Step 1:
 
+- •
 - Pull the Pen Cap straight off.
 - -Do not remove the Pen Label.
 - Wipe the Rubber Seal with a swab.
 
-## Step 2:
+Step 2:
 
 ## (For HUMALOG suspensions cloudy insulins only)
 
-- Gently roll the Pen 10 times. AND
+- AND
+- Gently roll the Pen 10 times.
 - Invert the Pen 10 times.
 
-Mixing is important to make sure you get the right dose. The insulin should look evenly mixed.
+Mixing is important to make sure you get the right dose.
+
+The insulin should look evenly mixed.
 
 ## Step 3:
 
@@ -8206,7 +8199,9 @@ Mixing is important to make sure you get the right dose. The insulin should look
 
 <div style=\"page-break-after: always\"></div>
 
-## Priming your Pen Prime before each injection.
+## Priming your Pen
+
+## Prime before each injection.
 
 - Priming your Pen means removing the air from the Needle and Cartridge that may collect during normal use and ensures that the Pen is working correctly.
 - If you do not prime before each injection, you may get too much or too little insulin.
@@ -8263,9 +8258,9 @@ Small air bubbles are normal and will not affect your dose.
 - -get a new Pen and inject the full dose.
 - It is normal to see a small amount of insulin left in the Pen that you cannot inject.
 
-<!-- image -->
-
 (Example: 12 units shown in the Dose Window)
+
+<!-- image -->
 
 <!-- image -->
 
@@ -8349,12 +8344,18 @@ If you see blood after you take the Needle out of your skin, press the injection
 
 - Store unused Pens in the refrigerator at 2°C to 8°C.
 - Do not freeze your insulin. Do not use if it has been frozen.
-- Unused Pens may be used until the expiration date printed on the Label, if the Pen has been kept in the  refrigerator.
+- Unused Pens may be used until the expiration date printed on the Label, if the Pen has been kept in the refrigerator.
 
 ## In-use Pen
 
 - Store the Pen you are currently using at room temperature (below 30°C) and away from dust, food and liquids, heat and  light.
 - Throw away the Pen you are using after the time specified in the Package Leaflet, even if it still has insulin left in it.
+
+## General information about the safe and effective use of your pen
+
+- Keep your Pen and Needles out of the sight and reach of children.
+- Do not use your Pen if any part looks broken or damaged.
+- Always carry an extra Pen in case yours is lost or damaged.
 
 <!-- image -->
 
@@ -8363,12 +8364,6 @@ If you see blood after you take the Needle out of your skin, press the injection
 <!-- image -->
 
 <div style=\"page-break-after: always\"></div>
-
-## General information about the safe and effective use of your pen
-
-- Keep your Pen and Needles out of the sight and reach of children.
-- Do not use your Pen if any part looks broken or damaged.
-- Always carry an extra Pen in case yours is lost or damaged.
 
 ## Troubleshooting
 
@@ -8390,7 +8385,7 @@ Document Revision Date:
 
 ## insulin lispro
 
-Each KwikPen delivers 1 - 60 units in steps of 1 units.
+## Each KwikPen delivers 1 - 60 units in steps of 1 units.
 
 ## Read all of this leaflet carefully before you start using this medicine because it contains important information for you.
 
@@ -8437,9 +8432,9 @@ Humalog 200 units/ml KwikPen is a disposable pre-filled pen containing 3 ml (600
 - If your blood sugar levels are well controlled by your current insulin therapy, you may not feel the warning symptoms when your blood sugar is falling too low. Warning signs are listed in section 4 of this leaflet. You must think carefully about when to have your meals, how often to exercise and how much to do. You must also keep a close watch on your blood sugar levels by testing your blood glucose often.
 - A few people who have had hypoglycaemia after switching from animal insulin to human insulin have reported that the early warning symptoms were less obvious or different. If you often have hypoglycaemia or have difficulty recognising it, please discuss this with your doctor.
 - If you answer YES to any of the following questions, tell your doctor, pharmacist or diabetes nurse
-- -Have you recently become ill?
-- -Do you have trouble with your kidneys or liver?
-- -Are you exercising more than usual?
+-  Have you recently become ill?
+-  Do you have trouble with your kidneys or liver?
+-   Are you exercising more than usual?
 - You should also tell your doctor, pharmacist or diabetes nurse if you are planning to go abroad. The time difference between countries may mean that you have to have your injections and meals at different times from when you are at home.
 - Some patients with long-standing type 2 diabetes mellitus and heart disease or previous stroke who were treated with pioglitazone and insulin experienced the development of heart failure. Inform your doctor as soon as possible, if you experience signs of heart failure such as unusual shortness of breath or rapid increase in weight or localised swelling (oedema).
 - This Pen is not recommended for use by the blind or visually impaired without the help of someone trained to use the Pen.
@@ -8538,7 +8533,7 @@ Do not use Humalog 200 units/ml KwikPen solution for injection in an insulin inf
 
 If you use more Humalog than you need or are unsure how much you have injected, a low blood sugar may occur.  Check your blood sugar.
 
-If your blood sugar is low (mild hypoglycaemia) , eat glucose tablets, sugar or drink a sugary drink. Then eat fruit, biscuits, or a sandwich, as your doctor has advised you and have some rest. This will often  get  you  over  mild  hypoglycaemia  or  a  minor  insulin  overdose.  If  you  get  worse  and  your breathing is shallow and your skin gets pale, tell your doctor at once. A glucagon injection can treat quite severe hypoglycaemia. Eat glucose or sugar after the glucagon injection. If you do not respond to glucagon, you will have to go to hospital. Ask your doctor to tell you about glucagon.
+If your blood sugar is low (mild hypoglycaemia) , eat glucose tablets, sugar or drink a sugary drink. Then eat fruit, biscuits, or a sandwich, as your doctor has advised you and have some rest. This will often get you over mild hypoglycaemia or a minor insulin overdose. If you get worse and your breathing is shallow and your skin gets pale, tell your doctor at once. A glucagon injection can treat quite severe hypoglycaemia. Eat glucose or sugar after the glucagon injection. If you do not respond to glucagon, you will have to go to hospital. Ask your doctor to tell you about glucagon.
 
 <div style=\"page-break-after: always\"></div>
 
@@ -8570,15 +8565,13 @@ Severe allergy is rare (may affect up to 1 in 1,000 people). The symptoms are as
 
 blood pressure dropping
 
-- difficulty in breathing •
+- difficulty in breathing
 
-heart beating fast
+- heart beating fast
 
 - wheezing
 
-- •
-
-sweating
+- sweating
 
 If you think you are having this sort of insulin allergy with Humalog, contact a doctor at once.
 
@@ -8620,7 +8613,9 @@ rapid heartbeat
 
 feeling sick
 
-- headache •
+- headache
+
+•
 
 cold sweat
 
@@ -8637,19 +8632,17 @@ Hyperglycaemia (too much sugar in the blood) means that your body does not have 
 
 Hyperglycaemia can lead to diabetic ketoacidosis. The first symptoms come on slowly over many hours or days. The symptoms include the following:
 
-- •
+- feeling sleepy •
 
-- feeling sleepy
-
-• no appetite
+no appetite
 
 - flushed face •
 
 fruity smell on the breath
 
-- thirst •
+- thirst
 
-feeling or being sick
+- feeling or being sick
 
 Severe symptoms are heavy breathing and a rapid pulse. Get medical help immediately.
 
@@ -8686,7 +8679,7 @@ Humalog 200 units/ml KwikPen solution for injection is a sterile, clear, colourl
 
 ## Marketing Authorisation Holder
 
-Eli Lilly Nederland B.V., Papendorpseweg 83, 3528 BJ Utrecht, The Netherlands.
+Eli Lilly Nederland B.V., Orteliuslaan 1000, 3528 BD Utrecht, The Netherlands.
 
 ## Manufacturer
 
@@ -8714,7 +8707,7 @@ Tel: + 420 234 664 111
 
 Eli Lilly Danmark A/S
 
-Tlf: +45 45 26 6000
+Tlf.: +45 45 26 6000
 
 ## Deutschland
 
@@ -8732,7 +8725,7 @@ Tel:
 
 ## Ελλάδα
 
-ΦΑΡΜΑΣΕΡΒ -ΛΙΛΛΥ Α.Ε.Β.Ε.
+ΦΑΡΜΑΣΕΡΒ - ΛΙΛΛΥ Α.Ε.Β.Ε.
 
 Τηλ: +30 210 629 4600
 
@@ -8790,17 +8783,13 @@ Eli Lilly Polska Sp. z o.o.
 
 Tel: +48 22 440 33 00
 
+<div style=\"page-break-after: always\"></div>
+
 ## France
 
 Lilly France
 
 Tél: +33-(0) 1 55 49 34 34
-
-## Portugal
-
-Lilly Portugal - Produtos Farmacêuticos, Lda
-
-Tel: + 351-21-4126600
 
 ## Hrvatska
 
@@ -8808,23 +8797,11 @@ Eli Lilly Hrvatska d.o.o.
 
 Tel: +385 1 2350 999
 
-## România
-
-Eli Lilly România S.R.L.
-
-Tel: + 40 21 4023000
-
 ## Ireland
 
 Eli Lilly and Company (Ireland) Limited
 
 Tel: + 353-(0) 1 661 4377
-
-## Slovenija
-
-Eli Lilly farma cevtska družba, d.o.o.
-
-Tel: +386 (0) 1 580 00 10
 
 ## Ísland
 
@@ -8832,35 +8809,17 @@ Icepharma hf.
 
 Sími + 354 540 8000
 
-## Slovenská republika
-
-Eli Lilly Slovakia s.r.o.
-
-Tel: + 421 220 663 111
-
 ## Italia
 
 Eli Lilly Italia S.p.A.
 
 Tel: + 39- 055 42571
 
-## Suomi/Finland
-
-Oy Eli Lilly Finland Ab
-
-Puh/Tel: + 358-(0) 9 85 45 250
-
 ## Κύπρος
 
 Phadisco Ltd
 
 Τηλ: +357 22 715000
-
-## Sverige
-
-Eli Lilly Sweden AB
-
-Tel: + 46-(0) 8 7378800
 
 ## Latvija
 
@@ -8870,21 +8829,49 @@ Tel:
 
 + 371 67364000
 
-## United Kingdom (Northern Ireland)
-
-Eli Lilly and Company (Ireland) Limited
-
-Tel: + 353-(0) 1 661 4377
-
 ## This leaflet was last revised in {MM/YYYY}.
 
 ## USER MANUAL
 
 Please see manual text later.
 
-Detailed information on this medicine is available on the European Medicines Agency web site: http://www.ema.europa.eu/.
+Detailed information on this medicine is available on the European Medicines Agency web site: https://www.ema.europa.eu.
 
-<div style=\"page-break-after: always\"></div>
+## Portugal
+
+Lilly Portugal - Produtos Farmacêuticos, Lda
+
+Tel: + 351-21-4126600
+
+## România
+
+Eli Lilly România S.R.L.
+
+Tel: + 40 21 4023000
+
+## Slovenija
+
+Eli Lilly farmacevtska družba, d.o.o.
+
+Tel: +386 (0) 1 580 00 10
+
+## Slovenská republika
+
+Eli Lilly Slovakia s.r.o.
+
+Tel: + 421 220 663 111
+
+## Suomi/Finland
+
+Oy Eli Lilly Finland Ab
+
+Puh/Tel: + 358-(0) 9 85 45 250
+
+## Sverige
+
+Eli Lilly Sweden AB
+
+Tel: + 46-(0) 8 7378800
 
 <div style=\"page-break-after: always\"></div>
 
@@ -8922,17 +8909,11 @@ This Pen is not recommended for use by the blind or visually impaired without th
 
 - Pen colour:
 
-Dark grey
+Dark grey Dark grey with burgundy ring on the end Burgundy, '200 units/ml' in yellow box. Yellow warning on cartridge holder
 
 - Dose Knob:
 
-Dark grey with burgundy ring on the end
-
 - Labels:
-
-Burgundy, '200 units/ml' in yellow box.
-
-Yellow warning on cartridge holder
 
 ## Supplies needed to give your injection:
 
@@ -9026,7 +9007,7 @@ Small air bubbles are normal and will not affect your dose.
 
 ## Selecting your dose
 
-This pen has been designed to deliver the dose that is shown in the window. Dial your usual dose as instructed by your healthcare professional.
+## This pen has been designed to deliver the dose that is shown in the window. Dial your usual dose as instructed by your healthcare professional.
 
 - You can give from 1 to 60 units in a single injection.
 - If your dose is more than 60 units, you will need to give more than one injection.
@@ -9046,9 +9027,9 @@ Turn the Dose Knob to select the number of units you need to inject. The Dose In
 
 Always check the number in the Dose Window to make sure you have dialled the correct dose.
 
-(Example: 12 units shown in the Dose Window)
-
 <!-- image -->
+
+(Example: 12 units shown in the Dose Window)
 
 <!-- image -->
 
@@ -9100,6 +9081,8 @@ Pull the Needle out of your skin.
 
 The plunger only moves a little with each injection and you may not notice that it moves.
 
+If you see blood after you take the Needle out of your skin, press the injection site lightly with a piece of gauze or a swab. Do not rub the area.
+
 <!-- image -->
 
 <!-- image -->
@@ -9107,8 +9090,6 @@ The plunger only moves a little with each injection and you may not notice that 
 <!-- image -->
 
 <div style=\"page-break-after: always\"></div>
-
-If you see blood after you take the Needle out of your skin, press the injection site lightly with a piece of gauze or a swab. Do not rub the area.
 
 ## After your injection
 
@@ -9141,6 +9122,11 @@ Replace the Pen Cap by lining up the Cap Clip with the Dose Indicator and pushin
 - Do not freeze Humalog 200 units/ml solution for injection. Do not use if it has been frozen.
 - Unused Pens may be used until the expiration date printed on the Label, if the Pen has been kept in the refrigerator.
 
+## In-use Pen
+
+- Store the Pen you are currently using at room temperature (below 30°C) and away from dust, food and liquids, heat and light.
+- Throw away the Pen you are using after 28 days, even if it still has insulin left in it.
+
 <!-- image -->
 
 <!-- image -->
@@ -9148,11 +9134,6 @@ Replace the Pen Cap by lining up the Cap Clip with the Dose Indicator and pushin
 <!-- image -->
 
 <div style=\"page-break-after: always\"></div>
-
-## In-use Pen
-
-- Store the Pen you are currently using at room temperature (below 30°C) and away from dust, food and liquids, heat and light.
-- Throw away the Pen you are using after 28 days, even if it still has insulin left in it.
 
 ## General information about the safe and effective use of your Pen
 
@@ -9173,9 +9154,9 @@ If you have any questions or problems with your Humalog 200 units/ml KwikPen, ca
 
 Document revision date:
 
-<div style=\"page-break-after: always\"></div>
-
 ## Package leaflet: Information for the user
+
+<div style=\"page-break-after: always\"></div>
 
 ## Humalog 100 units/ml Junior KwikPen solution for injection in a pre-filled pen
 
@@ -9227,9 +9208,9 @@ Humalog 100 units/ml Junior KwikPen is a disposable pre-filled pen containing 3 
 - If your blood sugar levels are well controlled by your current insulin therapy, you may not feel the warning symptoms when your blood sugar is falling too low. Warning signs are listed in section 4 of this leaflet. You must think carefully about when to have your meals, how often to exercise and how much to do. You must also keep a close watch on your blood sugar levels by testing your blood glucose often.
 - A few people who have had hypoglycaemia after switching from animal insulin to human insulin have reported that the early warning symptoms were less obvious or different. If you often have hypoglycaemia or have difficulty recognising it, please discuss this with your doctor.
 - If you answer YES to any of the following questions, tell your doctor, pharmacist or diabetes nurse
-- -Have you recently become ill?
-- -Do you have trouble with your kidneys or liver?
-- -Are you exercising more than usual?
+-  Have you recently become ill?
+-  Do you have trouble with your kidneys or liver?
+-   Are you exercising more than usual?
 - You should also tell your doctor, pharmacist or diabetes nurse if you are planning to go abroad. The time difference between countries may mean that you have to have your injections and meals at different times from when you are at home.
 - Some patients with long-standing type 2 diabetes mellitus and heart disease or previous stroke who were treated with pioglitazone and insulin experienced the development of heart failure. Inform your doctor as soon as possible, if you experience signs of heart failure such as unusual shortness of breath or rapid increase in weight or localised swelling (oedema).
 - This Pen is not recommended for use by the blind or visually impaired without the help of someone trained to use the Pen.
@@ -9354,19 +9335,11 @@ If you have any further questions on the use of this product, ask your doctor or
 
 Like all medicines, this medicine can cause side effects, although not everybody gets them.
 
-Severe allergy is rare (may affect up to 1 in 1,000 people). The symptoms are as follows:
-
-- rash over the whole body •
-
-blood pressure dropping
-
-- difficulty in breathing •
-
-heart beating fast
-
-- wheezing
-
-- sweating
+| Severe allergy is rare (may affect up to 1 in 1,000 people). The symptoms are as follows:   | Severe allergy is rare (may affect up to 1 in 1,000 people). The symptoms are as follows:   |
+|---------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------|
+| rash over the whole body                                                                    | • blood pressure dropping                                                                   |
+| difficulty in breathing                                                                     | • heart beating fast                                                                        |
+| wheezing                                                                                    | • sweating                                                                                  |
 
 If you think you are having this sort of insulin allergy with Humalog, contact a doctor at once.
 
@@ -9405,9 +9378,7 @@ rapid heartbeat
 
 feeling sick
 
-- headache
-
-- •
+- headache •
 
 cold sweat
 
@@ -9434,9 +9405,9 @@ no appetite
 
 fruity smell on the breath
 
-- thirst •
+- thirst
 
-feeling or being sick
+- feeling or being sick
 
 Severe symptoms are heavy breathing and a rapid pulse. Get medical help immediately.
 
@@ -9473,7 +9444,7 @@ Humalog 100 units/ml Junior KwikPen solution for injection is a sterile, clear, 
 
 ## Marketing Authorisation Holder
 
-Eli Lilly Nederland B.V., Papendorpseweg 83, 3528 BJ Utrecht, The Netherlands.
+Eli Lilly Nederland B.V., Orteliuslaan 1000, 3528 BD Utrecht, The Netherlands.
 
 ## Manufacturer
 
@@ -9491,7 +9462,7 @@ Tél/Tel: + 32-(0)2 548 84 84
 
 ТП \"Ели Лили Недерланд\" Б.В. -България тел. + 359 2 491 41 40
 
-## Česká republik a
+## Česká republika
 
 ELI LILLY ČR, s.r.o.
 
@@ -9501,7 +9472,7 @@ Tel: + 420 234 664 111
 
 Eli Lilly Danmark A/S
 
-Tlf: +45 45 26 6000
+Tlf.: +45 45 26 6000
 
 ## Deutschland
 
@@ -9539,7 +9510,9 @@ Tél: +33-(0) 1 55 49 34 34
 
 ## Lietuva
 
-Eli Lilly Lietuva Tel. +370 (5) 2649600
+Eli Lilly Lietuva
+
+Tel. +370 (5) 2649600
 
 ## Luxembourg/Luxemburg
 
@@ -9547,7 +9520,7 @@ Eli Lilly Benelux S.A./N.V.
 
 Tél/Tel: + 32-(0)2 548 84 84
 
-## Mag yarország
+## Magyarország
 
 Lilly Hungária Kft.
 
@@ -9633,11 +9606,11 @@ Tel:
 
 ## This leaflet was last revised in {MM/YYYY}.
 
-## USER MANUAL
+USER MANUAL
 
 Please see manual text later.
 
-Detailed information on this medicine is available on the European Medicines Agency web site: http://www.ema.europa.eu/.
+Detailed information on this medicine is available on the European Medicines Agency web site: https://www.ema.europa.eu.
 
 ## România
 
@@ -9669,12 +9642,6 @@ Eli Lilly Sweden AB
 
 Tel: + 46-(0) 8 7378800
 
-## United Kingdom (Northern Ireland)
-
-Eli Lilly and Company (Ireland) Limited
-
-Tel: + 353-(0) 1 661 4377
-
 <div style=\"page-break-after: always\"></div>
 
 ## Instructions for Use
@@ -9703,21 +9670,23 @@ This Pen is not recommended for use by the blind or visually impaired without th
 
 <div style=\"page-break-after: always\"></div>
 
-## Pen Needle Parts (Needles Not Included)
-
-Paper Tab
+## Paper Tab
 
 <!-- image -->
 
 ## How to recognize your Humalog Junior KwikPen:
 
-- Pen colour: Blue
+- Pen colour:
+
+Blue
 
 - Dose Knob:
 
 Blue, with raised ridges on end and side
 
-- Label: White with an orange colour bar and orange-to-yellow and burgundy colour band
+- Label:
+
+White with an orange colour bar and orange-to-yellow and burgundy colour band
 
 ## Supplies needed to give your injection:
 
@@ -9742,20 +9711,18 @@ Needles and swab are not included.
 
 Humalog should look clear and colourless. Do not use if it is cloudy, coloured, or has particles or clumps in it.
 
-## Dose Knob
+## Step 2:
 
-Blue, with raised ridges on end and side
+- Select a new Needle.
+- Pull off the Paper Tab from the Outer Needle Shield.
+
+<!-- image -->
 
 <!-- image -->
 
 <!-- image -->
 
 <div style=\"page-break-after: always\"></div>
-
-## Step 2:
-
-- Select a new Needle.
-- Pull off the Paper Tab from the Outer Needle Shield.
 
 ## Step 3:
 
@@ -9781,18 +9748,6 @@ Blue, with raised ridges on end and side
 
 - Hold your Pen with the Needle pointing up. Tap the Cartridge Holder gently to collect air bubbles at the top.
 
-<!-- image -->
-
-<!-- image -->
-
-<!-- image -->
-
-<!-- image -->
-
-<!-- image -->
-
-<div style=\"page-break-after: always\"></div>
-
 ## Step 7:
 
 - Continue holding your Pen with the Needle pointing up. Push the Dose Knob in until it stops, and ' 0 ' is seen in the Dose Window. Hold the Dose Knob in and count to 5 slowly .
@@ -9804,22 +9759,30 @@ You should see insulin at the tip of the Needle.
 
 Small air bubbles are normal and will not affect your dose.
 
-## Selecting your dose
+<!-- image -->
 
-- You can give from half unit (0.5 unit) to 30 units in a single injection.
+<!-- image -->
 
-Always check the number in the Dose Window to make sure you have dialled the correct dose.
+<!-- image -->
 
-- If your dose is more than 30 units, you will need to give more than one injection.
-- -Talk to your healthcare professional about how to give your dose.
-- -Use a new Needle for each injection and repeat the priming step.
-- -If you usually need more than 30 units, ask your healthcare professional if a different Humalog KwikPen would be better for you.
+<!-- image -->
 
 <!-- image -->
 
 <!-- image -->
 
 <div style=\"page-break-after: always\"></div>
+
+## Selecting your dose
+
+- You can give from half unit (0.5 unit) to 30 units in a single injection.
+
+## Always check the number in the Dose Window to make sure you have dialled the correct dose.
+
+- If your dose is more than 30 units, you will need to give more than one injection.
+- -Talk to your healthcare professional about how to give your dose.
+- -Use a new Needle for each injection and repeat the priming step.
+- -If you usually need more than 30 units, ask your healthcare professional if a different Humalog KwikPen would be better for you.
 
 ## Step 8:
 
@@ -9831,22 +9794,13 @@ Always check the number in the Dose Window to make sure you have dialled the cor
 - -The whole unit numbers are printed on the dial.
 - -The half units are shown as  lines between the numbers.
 - Always check the number in the Dose Window to make sure you have dialled the correct dose.
-
-<!-- image -->
-
-<!-- image -->
-
-Example: 4 units shown in the Dose Window
-
-<!-- image -->
-
-Example: 10 ½ (10.5) units shown in the Dose Window
-
 - The Pen will not let you dial more than the number of units left in the Pen.
 - If you need to inject more than the number of units left in the Pen, you may either:
 - -inject the amount left in your Pen and then use a new Pen to give the rest of your dose, or
 - -get a new Pen and inject the full dose.
 - It is normal to see a small amount of insulin left in the Pen that you can not inject.
+
+<!-- image -->
 
 ## Giving your injection
 
@@ -9854,17 +9808,16 @@ Example: 10 ½ (10.5) units shown in the Dose Window
 - Change (rotate) your injection site for each injection.
 - Do not try to change your dose while injecting.
 
+<div style=\"page-break-after: always\"></div>
+
 ## Step 9:
 
-- Choose your injection site.
+- •
 
-Humalog is injected under the skin (subcutaneously) of your stomach area, buttocks, upper legs or upper arms.
+Humalog is injected under the skin buttocks, upper legs or upper arms.
 
+- Choose your injection site. (subcutaneously) of your stomach area,
 - Wipe your skin with a swab, and let your skin dry before you inject your dose.
-
-<!-- image -->
-
-<div style=\"page-break-after: always\"></div>
 
 ## Step 10:
 
@@ -9882,6 +9835,8 @@ Do not try to inject your insulin by turning the Dose Knob. You will NOT receive
 - -If you see '0' in the Dose window, you have received the full amount you dialled.
 - -If you do not see '0' in the Dose window, you did not receive your full dose. Do not redial. Insert the needle into your skin and finish your injection.
 - -If you still do not think you received the full amount you dialled for your injection, do not start over or repeat that injection . Monitor your blood glucose and call your healthcare professional for further instructions.
+
+<!-- image -->
 
 <!-- image -->
 
@@ -9956,13 +9911,11 @@ If you have any questions or problems with your Humalog 100 units/ml Junior Kwik
 
 Document revision date:
 
-<div style=\"page-break-after: always\"></div>
-
 ## Package leaflet: Information for the user
 
-## Humalog 100 units/ml Tempo Pen solution for injection in a pre-filled pen insulin lispro
+<div style=\"page-break-after: always\"></div>
 
-Each Tempo Pen delivers 1 - 60 units in steps of 1 units.
+## Humalog 100 units/ml Tempo Pen solution for injection in a pre-filled pen insulin lispro Each Tempo Pen delivers 1 - 60 units in steps of 1 units.
 
 ## Read all of this leaflet carefully before you start using this medicine because it contains important information for you.
 
@@ -10007,9 +9960,9 @@ The Tempo Pen is a disposable pre-filled pen containing 3 ml (300 units, 100 uni
 - If your blood sugar levels are well controlled by your current insulin therapy, you may not feel the warning symptoms when your blood sugar is falling too low. Warning signs are listed in section 4 of this leaflet. You must think carefully about when to have your meals, how often to exercise and how much to do. You must also keep a close watch on your blood sugar levels by testing your blood glucose often.
 - A few people who have had hypoglycaemia after switching from animal insulin to human insulin have reported that the early warning symptoms were less obvious or different. If you often have hypoglycaemia or have difficulty recognising it, please discuss this with your doctor.
 - If you answer YES to any of the following questions, tell your doctor, pharmacist or diabetes nurse
-- -Have you recently become ill?
-- -Do you have trouble with your kidneys or liver?
-- -Are you exercising more than usual?
+-  Have you recently become ill?
+-  Do you have trouble with your kidneys or liver?
+-   Are you exercising more than usual?
 - The amount of insulin you need may also change if you drink alcohol.
 - You should also tell your doctor, pharmacist or diabetes nurse if you are planning to go abroad. The time difference between countries may mean that you have to have your injections and meals at different times from when you are at home.
 - Some patients with long-standing type 2 diabetes mellitus and heart disease or previous stroke who were treated with pioglitazone and insulin experienced the development of heart failure. Inform your doctor as soon as possible, if you experience signs of heart failure such as unusual shortness of breath or rapid increase in weight or localised swelling (oedema).
@@ -10150,7 +10103,9 @@ blood pressure dropping
 
 heart beating fast
 
-- wheezing •
+- wheezing
+
+- •
 
 sweating
 
@@ -10219,9 +10174,9 @@ no appetite
 
 fruity smell on the breath
 
-- thirst •
+- thirst
 
-feeling or being sick
+- feeling or being sick
 
 Severe symptoms are heavy breathing and a rapid pulse. Get medical help immediately.
 
@@ -10258,7 +10213,7 @@ Humalog 100 units/ml Tempo Pen solution for injection is a sterile, clear, colou
 
 ## Marketing Authorisation Holder
 
-Eli Lilly Nederland B.V., Papendorpseweg 83, 3528 BJ Utrecht, The Netherlands.
+Eli Lilly Nederland B.V., Orteliuslaan 1000, 3528 BD Utrecht, The Netherlands.
 
 ## Manufacturer
 
@@ -10272,45 +10227,21 @@ Eli Lilly Benelux S.A./N.V.
 
 Tél/Tel: + 32-(0)2 548 84 84
 
-## Lietuva
-
-Eli Lilly Lietuva
-
-Tel. +370 (5) 2649600
-
 ## България
 
-ТП \"Ели Лили Недерланд\" Б.В. - България тел. + 359 2 491 41 40
-
-## Luxembourg/Luxemburg
-
-Eli Lilly Benelux S.A./N.V.
-
-Tél/Tel: + 32-(0)2 548 84 84
+ТП \"Ели Лили Недерланд\" Б.В. -България тел. + 359 2 491 41 40
 
 ## Česká republika
 
-ELI LILLY ČR, s.r .o.
+ELI LILLY ČR, s.r.o.
 
 Tel: + 420 234 664 111
-
-## Magyarország
-
-Lilly Hungária Kft.
-
-Tel: + 36 1 328 5100
 
 ## Danmark
 
 Eli Lilly Danmark A/S
 
-Tlf: +45 45 26 6000
-
-## Malta
-
-Charles de Giorgio Ltd.
-
-Tel: + 356 25600 500
+Tlf.: +45 45 26 6000
 
 ## Deutschland
 
@@ -10318,25 +10249,11 @@ Lilly Deutschland GmbH
 
 Tel. + 49-(0) 6172 273 2222
 
-## Nederland
-
-Eli Lilly Nederland B.V.
-
-Tel: + 31-(0) 30 60 25 800
-
 ## Eesti
 
 Eli Lilly Nederland B.V.
 
-Tel:
-
-+ 372 6817 280
-
-## Norge
-
-Eli Lilly Norge A.S.
-
-Tlf: + 47 22 88 18 00
+Tel: + 372 6817 280
 
 ## Ελλάδα
 
@@ -10345,6 +10262,40 @@ Tlf: + 47 22 88 18 00
 Τηλ
 
 : +30 210 629 4600
+
+## Lietuva
+
+Eli Lilly Lietuva Tel. +370 (5) 2649600
+
+## Luxembourg/Luxemburg
+
+Eli Lilly Benelux S.A./N.V.
+
+Tél/Tel: + 32-(0)2 548 84 84
+
+## Magyarország
+
+Lilly Hungária Kft.
+
+Tel: + 36 1 328 5100
+
+## Malta
+
+Charles de Giorgio Ltd.
+
+Tel: + 356 25600 500
+
+## Nederland
+
+Eli Lilly Nederland B.V.
+
+Tel: + 31-(0) 30 60 25 800
+
+## Norge
+
+Eli Lilly Norge A.S.
+
+Tlf: + 47 22 88 18 00
 
 ## Österreich
 
@@ -10408,7 +10359,7 @@ Tel:
 
 ## This leaflet was last revised in
 
-Detailed information on this medicine is available on the European Medicines Agency web site: http://www.ema.europa.eu/.
+Detailed information on this medicine is available on the European Medicines Agency web site: https://www.ema.europa.eu.
 
 ## Polska
 
@@ -10452,12 +10403,6 @@ Eli Lilly Sweden AB
 
 Tel: + 46-(0) 8 7378800
 
-## United Kingdom (Northern Ireland)
-
-Eli Lilly and Company (Ireland) Limited
-
-Tel: + 353-(0) 1 661 4377
-
 <div style=\"page-break-after: always\"></div>
 
 ## Instructions for use
@@ -10482,9 +10427,13 @@ This Pen is not recommended for use by the blind or visually impaired without th
 
 <div style=\"page-break-after: always\"></div>
 
+## Pen Needle Parts (Needles Not Included)
+
 <!-- image -->
 
 ## How to recognize your Tempo Pen:
+
+- •
 
 - Pen colour: Blue
 
@@ -10511,16 +10460,14 @@ Needles and swab are not included
 
 - Pull the Pen cap straight off.
 - -Do not remove the Pen label.
-- Wipe the rubber seal with a swab.
+- •
 
-HUMALOG should look clear and colourless. Do not use if it is cloudy, coloured, or has particles or clumps in it.
+Wipe the rubber seal with a swab. HUMALOG should look clear and colourless. Do not use if it is cloudy, coloured, or has particles or clumps in it.
 
 ## Step 2:
 
 - Select a new needle.
 - Pull off the paper tab from the outer needle shield.
-
-<!-- image -->
 
 <!-- image -->
 
@@ -10594,19 +10541,20 @@ Small air bubbles are normal and will not affect your dose .
 - -The even numbers are printed on the dial.
 - -The odd numbers, after the number 1, are shown as full lines.
 - Always check the number in the dose window to make sure you have dialed the correct dose.
-- The Pen will not let you dial more than the number of units left in the Pen.
-- If you need to inject more than the number of units left in the Pen, you may either:
-- -inject the amount left in your Pen and then use a new Pen to give the rest of your dose, or
-- -get a new Pen and inject the full dose.
-- It is normal to see a small amount of insulin left in the Pen that you cannot inject.
+
+<!-- image -->
+
+<!-- image -->
 
 <!-- image -->
 
 (Example: 25 units shown in the dose window)
 
-<!-- image -->
-
-<!-- image -->
+- The Pen will not let you dial more than the number of units left in the Pen.
+- If you need to inject more than the number of units left in the Pen, you may either:
+- -inject the amount left in your Pen and then use a new Pen to give the rest of your dose, or
+- -get a new Pen and inject the full dose.
+- It is normal to see a small amount of insulin left in the Pen that you cannot inject.
 
 ## Giving your injection
 
@@ -10618,10 +10566,11 @@ Small air bubbles are normal and will not affect your dose .
 
 ## Step 9:
 
-- Choose your injection site.
+- •
 
-Your insulin is injected under the skin (subcutaneously) of your stomach area, buttocks, upper legs or upper arms.
+Your insulin is injected under the skin buttocks, upper legs or upper arms.
 
+- Choose your injection site. (subcutaneously) of your stomach area,
 - Wipe the skin with a swab, and let the injection site dry before you inject your dose.
 
 ## Step 10:

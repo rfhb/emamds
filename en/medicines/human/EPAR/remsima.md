@@ -1,18 +1,18 @@
 ---
-document_datetime: 2025-12-29 11:07:59
+document_datetime: 2026-01-29 16:16:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/remsima.html
 document_name: remsima.html
 version: success
-processing_time: 0.1243575
-conversion_datetime: 2025-12-30 03:16:23.708338
+processing_time: 0.1329676
+conversion_datetime: 2026-02-01 20:09:11.057731
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.66.0
-  docling-core: 2.57.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.11.0
+  docling-jobkit: 1.9.1
+  docling: 2.71.0
+  docling-core: 2.62.0
+  docling-ibm-models: 3.11.0
+  docling-parse: 4.7.3
   python: cpython-313 (3.13.11)
   plaform: macOS-26.2-arm64-arm-64bit-Mach-O
 ---
@@ -25,8 +25,6 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 infliximab Medicine Human Authorised
-
-On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -48,7 +46,7 @@ Page contents
 
 ## Overview
 
-Remsima is an anti-inflammatory medicine that contains the active substance infliximab. It is usually used when other medicines or treatments have failed, in adults with the following immune-system diseases:
+Remsima is an anti-inflammatory medicine that is usually used when other medicines or treatments have failed, in adults with the following diseases:
 
 - rheumatoid arthritis (a disease causing inflammation of the joints). Remsima is used with methotrexate (another medicine that acts on the immune system);
 - Crohn's disease (a disease causing inflammation of the digestive tract), when the disease is moderate to severe or fistulising (with the formation of fistulas, abnormal passageways between the gut and other organs);
@@ -57,9 +55,9 @@ Remsima is an anti-inflammatory medicine that contains the active substance infl
 - psoriatic arthritis (a disease causing red, scaly patches on the skin and inflammation of the joints);
 - psoriasis (a disease causing red, scaly patches on the skin).
 
-Remsima is also used in patients aged between 6 and 17 years with severe, active Crohn's disease or severely active ulcerative colitis, when they have not responded to or cannot take other medicines or treatments.
+Remsima is also used in children and adolescents aged between 6 and 17 years with severe, active Crohn's disease or severely active ulcerative colitis, when they have not responded to or cannot take other medicines or treatments.
 
-Remsima is a 'biosimilar' medicine. This means that Remsima is highly similar to another biological medicine (the 'reference medicine') that is already authorised in the EU. The reference medicine for Remsima is Remicade.
+Remsima contains the active substance infliximab and is a biological medicine. It is a 'biosimilar' medicine; this means that Remsima is highly similar to another biological medicine (the 'reference medicine') that is already authorised in the EU. The reference medicine for Remsima is Remicade. For more information on biosimilar medicines, see [here](https://www.ema.europa.eu/en/human-regulatory/overview/biosimilar-medicines-overview) .
 
 Expand section
 
@@ -67,49 +65,53 @@ Collapse section
 
 ## How is Remsima used?
 
-Remsima can only be obtained with a prescription and treatment should be started and supervised by a specialised doctor who has experience in the diagnosis and treatment of the diseases that Remsima can be used to treat.
+Remsima can only be obtained with a prescription and treatment should be started and supervised by a specialised doctor who has experience in the diagnosis and treatment of the diseases that Remsima is used to treat.
 
-Remsima is available as a powder to be made up into a solution for infusion (drip) into a vein. For treatment of rheumatoid arthritis, Remsima is also available as a solution for injection under the skin in a pre-filled syringe or pen.
+Remsima is available as a powder to be made up into a solution for infusion (drip) into a vein. It is also available as a concentrate, which is diluted to make a solution for infusion into a vein. The concentrate formulation contains sorbitol but the powder formulation does not. Remsima is also available as a solution for injection under the skin in a pre-filled syringe or pen.
 
-Remsima is given as an infusion into a vein lasting one or two hours. All patients are monitored for any reactions during the infusion and for at least one to two hours afterwards. To reduce the risk of infusion-related reactions, patients may be given other medicines before or during treatment with Remsima or the infusion may be slowed down. How often the treatment is repeated depends on which disease is being treated, and on the patient's response to the medicine.
+Remsima is given as an infusion into a vein lasting one or two hours. The dose depends on the disease being treated and the patient's bodyweight. All patients are monitored for any reactions during the infusion and for at least one to two hours afterwards. To reduce the risk of infusion-related reactions, patients may be given other medicines before or during treatment with Remsima or the infusion may be slowed down. How often the treatment is repeated depends on which disease is being treated, and on the patient's response to the medicine.
 
-For rheumatoid arthritis, after two treatments with infliximab have been given by infusion, Remsima can be given by injection under the skin for subsequent treatments. Patients can inject Remsima themselves once they have been trained.
+After two doses given by infusion, adults can receive subsequent doses by injection under the skin. Patients can inject Remsima themselves once they have been trained.
 
 For more information about using Remsima, see the package leaflet or contact your doctor or pharmacist.
 
 ## How does Remsima work?
 
-The active substance in Remsima, infliximab, is a monoclonal antibody, a type of protein that has been designed to recognise and attach to a specific structure (called an antigen) in the body. Infliximab has been designed to attach to a chemical messenger in the body called tumour necrosis factor-alpha (TNF-alpha). This messenger is involved in causing inflammation and is found at high levels in patients with the diseases that Remsima is used to treat. By blocking TNF-alpha, infliximab improves the inflammation and other symptoms of the diseases.
+The active substance in Remsima, infliximab, is a monoclonal antibody, a type of protein that has been designed to recognise and attach to a specific structure (called an antigen) in the body. Infliximab attaches to a chemical messenger in the body called tumour necrosis factor alpha (TNF-alpha). This messenger is involved in causing inflammation and is found at high levels in patients with the diseases that Remsima is used to treat. By blocking TNF-alpha, infliximab improves the inflammation and other symptoms of these diseases.
 
 ## What benefits of Remsima have been shown in studies?
 
 Laboratory studies comparing Remsima with Remicade have shown that the active substance in Remsima is highly similar to that in Remicade in terms of structure, purity and biological activity. In addition, Remsima and Remicade given by infusion into a vein were compared in one main study involving 606 adults with rheumatoid arthritis. Patients received either Remsima or Remicade in addition to methotrexate for 30 weeks. The main measure of effectiveness was the change in symptoms. After 30 weeks of treatment, Remsima was as effective as Remicade with around 60% of patients responding to treatment with either medicine.
 
-A study was also carried out in 250 patients with ankylosing spondylitis to show that Remsima given by infusion into a vein produces levels of the active substance in the body that are comparable to the reference medicine, Remicade.
+A study was also carried out in 250 patients with ankylosing spondylitis to show that Remsima given by infusion into a vein leads to levels of the active substance in the body that are comparable to the reference medicine, Remicade.
 
-Because Remsima is a biosimilar medicine, the studies on effectiveness and safety of infliximab carried out with Remicade do not all need to be repeated for Remsima.
+In two main studies, one involving 343 patients with rheumatoid arthritis and the other 131 patients with active Crohn's disease or ulcerative colitis, Remsima given as an injection under the skin was shown to be as effective as Remsima given by infusion into a vein. Patients received Remsima by infusion twice, two weeks apart, and subsequent treatments were given either by infusion or injection under the skin. In both studies, after 22 weeks, the reduction of symptoms was comparable for treatment given by infusion into a vein and by injection under the skin.
 
-Remsima injection to be given under the skin was shown to be as effective as Remsima given by infusion into a vein in a study involving 343 patients with rheumatoid arthritis. Patients received Remsima by infusion twice, two weeks apart and subsequent treatments were given either by infusion or injection under the skin. After 22 weeks, the reduction of symptoms was comparable for treatment given by infusion into a vein and by injection under the skin.
+Because Remsima is a biosimilar medicine, the studies on effectiveness of infliximab carried out with Remicade do not all need to be repeated for Remsima.
 
 ## What are the risks associated with Remsima?
 
-The safety of Remsima has been evaluated, and on the basis of all the studies carried out, the side effects of the medicine are considered to be comparable to those of the reference medicine Remicade.
+The safety of Remsima has been evaluated and, on the basis of all the studies carried out, the side effects of the medicine are considered to be comparable to those of the reference medicine Remicade.
 
-The most common side effects with Remsima (which may affect more than 1 in 10 people) are viral infections (such as flu or cold sores), headache, upper respiratory-tract infection (nose and throat infections), sinusitis (inflammation of the sinuses), nausea (feeling sick), abdominal pain (stomach ache), infusion-related reactions and pain. Some side effects, including infections, may be more common in children than in adults. For the full list of all side effects of Remsima, see the package leaflet.
+For the complete list of side effects and restrictions with Remsima, see the package leaflet.
+
+The most common side effects with Remsima (which may affect more than 1 in 10 people) are viral infections (such as flu or cold sores), headache, upper respiratory tract infection (nose and throat infections), sinusitis (inflammation of the sinuses), nausea (feeling sick), abdominal pain (stomach ache), infusion-related reactions and pain. Some side effects, including infections, may be more common in children than in adults. For the full list of all side effects of Remsima, see the package leaflet.
 
 Remsima must not be used in patients who have experienced hypersensitivity (allergy) to infliximab in the past, or who are hypersensitive (allergic) to mouse proteins or any of the other ingredients of Remsima. Remsima must not be used in patients with tuberculosis, other severe infections, or moderate or severe heart failure (an inability of the heart to pump enough blood around the body).
 
+The formulation of the solution for infusion containing sorbitol (i.e. concentrate for solution for infusion) must not be given to people with hereditary fructose intolerance (HFI). HFI is a rare inherited condition where the body cannot break down fructose, sucrose and sorbitol.
+
 ## Why is Remsima authorised in the EU?
 
-The European Medicines Agency decided that, in accordance with EU requirements for biosimilar medicines, Remsima has a highly similar structure, purity and biological activity to Remicade and is distributed in the body in the same way. In addition, studies in rheumatoid arthritis and ankylosing spondylitis have shown that the safety and effectiveness of Remsima are equivalent to those of Remicade in the conditions.
+The European Medicines Agency decided that, in accordance with EU requirements for biosimilar medicines, Remsima has a highly similar structure, purity and biological activity to Remicade and is distributed in the body in the same way. In addition, studies in rheumatoid arthritis and ankylosing spondylitis have shown that Remsima and Remicade are equivalent in terms of safety and effectiveness in the conditions Remsima is used to treat.
 
-All these data were considered sufficient to conclude that Remsima will behave in the same way as Remicade in terms of effectiveness and safety in its authorised uses. Therefore, the Agency's view was that, as for Remicade, the benefits of Remsima outweigh the identified risks and it can be authorised for use in the EU.
+All these data were considered sufficient to conclude that Remsima will have the same effects as Remicade in its authorised uses. Therefore, the Agency's view was that, as for Remicade, the benefits of Remsima outweigh the identified risks and it can be authorised for use in the EU.
 
-Remsima given by injection under the skin for rheumatoid arthritis is as effective as Remsima given by infusion and the safety profile is acceptable. It also allows patients the convenience of having their treatment at home.
+Remsima given by injection under the skin is as effective as Remsima given by infusion and the safety profile is acceptable. It also allows patients the convenience of having their treatment at home.
 
 ## What measures are being taken to ensure the safe and effective use of Remsima?
 
-The company that markets Remsima will provide a card to patients that includes information about the medicine and can be used to record tests they have taken.
+The company that markets Remsima will provide a card to patients that includes information about the medicine, including a reminder that patients with HFI should not receive the sorbitol-containing concentrate for solution for infusion. The card can also be used to record tests that patients have taken.
 
 Recommendations and precautions to be followed by healthcare professionals and patients for the safe and effective use of Remsima have also been included in the summary of product characteristics and the package leaflet.
 
@@ -121,19 +123,19 @@ Remsima received a marketing authorisation valid throughout the EU on 10 Septemb
 
 Remsima : EPAR - Medicine overview
 
-Reference Number: EMA/547143/2019
+Reference Number: EMA/368402/2025
 
-English (EN) (152.09 KB - PDF)
+English (EN) (142.14 KB - PDF)
 
 **First published:** 04/10/2013
 
-**Last updated:** 06/01/2020
+**Last updated:** 29/01/2026
 
 [View](/en/documents/overview/remsima-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-498)
+[Other languages (22)](#file-language-dropdown-956)
 
-български (BG) (166.31 KB - PDF)
+български (BG) (169.81 KB - PDF)
 
 **First published:**
 
@@ -141,11 +143,11 @@ English (EN) (152.09 KB - PDF)
 
 **Last updated:**
 
-06/01/2020
+29/01/2026
 
 [View](/bg/documents/overview/remsima-epar-medicine-overview_bg.pdf)
 
-español (ES) (140.29 KB - PDF)
+español (ES) (143.36 KB - PDF)
 
 **First published:**
 
@@ -153,11 +155,11 @@ español (ES) (140.29 KB - PDF)
 
 **Last updated:**
 
-06/01/2020
+29/01/2026
 
 [View](/es/documents/overview/remsima-epar-medicine-overview_es.pdf)
 
-čeština (CS) (164.96 KB - PDF)
+čeština (CS) (169.18 KB - PDF)
 
 **First published:**
 
@@ -165,11 +167,11 @@ español (ES) (140.29 KB - PDF)
 
 **Last updated:**
 
-06/01/2020
+29/01/2026
 
 [View](/cs/documents/overview/remsima-epar-medicine-overview_cs.pdf)
 
-dansk (DA) (137.58 KB - PDF)
+dansk (DA) (155.51 KB - PDF)
 
 **First published:**
 
@@ -177,11 +179,11 @@ dansk (DA) (137.58 KB - PDF)
 
 **Last updated:**
 
-06/01/2020
+29/01/2026
 
 [View](/da/documents/overview/remsima-epar-medicine-overview_da.pdf)
 
-Deutsch (DE) (144.03 KB - PDF)
+Deutsch (DE) (146.95 KB - PDF)
 
 **First published:**
 
@@ -189,11 +191,11 @@ Deutsch (DE) (144.03 KB - PDF)
 
 **Last updated:**
 
-06/01/2020
+29/01/2026
 
 [View](/de/documents/overview/remsima-epar-medicine-overview_de.pdf)
 
-eesti keel (ET) (138.71 KB - PDF)
+eesti keel (ET) (151.85 KB - PDF)
 
 **First published:**
 
@@ -201,11 +203,11 @@ eesti keel (ET) (138.71 KB - PDF)
 
 **Last updated:**
 
-06/01/2020
+29/01/2026
 
 [View](/et/documents/overview/remsima-epar-medicine-overview_et.pdf)
 
-ελληνικά (EL) (165.23 KB - PDF)
+ελληνικά (EL) (168.58 KB - PDF)
 
 **First published:**
 
@@ -213,11 +215,11 @@ eesti keel (ET) (138.71 KB - PDF)
 
 **Last updated:**
 
-06/01/2020
+29/01/2026
 
 [View](/el/documents/overview/remsima-epar-medicine-overview_el.pdf)
 
-français (FR) (142.17 KB - PDF)
+français (FR) (145.73 KB - PDF)
 
 **First published:**
 
@@ -225,11 +227,11 @@ français (FR) (142.17 KB - PDF)
 
 **Last updated:**
 
-06/01/2020
+29/01/2026
 
 [View](/fr/documents/overview/remsima-epar-medicine-overview_fr.pdf)
 
-hrvatski (HR) (162.04 KB - PDF)
+hrvatski (HR) (166.52 KB - PDF)
 
 **First published:**
 
@@ -237,11 +239,11 @@ hrvatski (HR) (162.04 KB - PDF)
 
 **Last updated:**
 
-06/01/2020
+29/01/2026
 
 [View](/hr/documents/overview/remsima-epar-medicine-overview_hr.pdf)
 
-italiano (IT) (139.19 KB - PDF)
+italiano (IT) (142.09 KB - PDF)
 
 **First published:**
 
@@ -249,11 +251,11 @@ italiano (IT) (139.19 KB - PDF)
 
 **Last updated:**
 
-06/01/2020
+29/01/2026
 
 [View](/it/documents/overview/remsima-epar-medicine-overview_it.pdf)
 
-latviešu valoda (LV) (170.98 KB - PDF)
+latviešu valoda (LV) (175.18 KB - PDF)
 
 **First published:**
 
@@ -261,11 +263,11 @@ latviešu valoda (LV) (170.98 KB - PDF)
 
 **Last updated:**
 
-06/01/2020
+29/01/2026
 
 [View](/lv/documents/overview/remsima-epar-medicine-overview_lv.pdf)
 
-lietuvių kalba (LT) (163.01 KB - PDF)
+lietuvių kalba (LT) (167.01 KB - PDF)
 
 **First published:**
 
@@ -273,11 +275,11 @@ lietuvių kalba (LT) (163.01 KB - PDF)
 
 **Last updated:**
 
-06/01/2020
+29/01/2026
 
 [View](/lt/documents/overview/remsima-epar-medicine-overview_lt.pdf)
 
-magyar (HU) (163.73 KB - PDF)
+magyar (HU) (167.94 KB - PDF)
 
 **First published:**
 
@@ -285,11 +287,11 @@ magyar (HU) (163.73 KB - PDF)
 
 **Last updated:**
 
-06/01/2020
+29/01/2026
 
 [View](/hu/documents/overview/remsima-epar-medicine-overview_hu.pdf)
 
-Malti (MT) (166.57 KB - PDF)
+Malti (MT) (171.14 KB - PDF)
 
 **First published:**
 
@@ -297,11 +299,11 @@ Malti (MT) (166.57 KB - PDF)
 
 **Last updated:**
 
-06/01/2020
+29/01/2026
 
 [View](/mt/documents/overview/remsima-epar-medicine-overview_mt.pdf)
 
-Nederlands (NL) (139.66 KB - PDF)
+Nederlands (NL) (143.03 KB - PDF)
 
 **First published:**
 
@@ -309,11 +311,11 @@ Nederlands (NL) (139.66 KB - PDF)
 
 **Last updated:**
 
-06/01/2020
+29/01/2026
 
 [View](/nl/documents/overview/remsima-epar-medicine-overview_nl.pdf)
 
-polski (PL) (166.46 KB - PDF)
+polski (PL) (170.25 KB - PDF)
 
 **First published:**
 
@@ -321,11 +323,11 @@ polski (PL) (166.46 KB - PDF)
 
 **Last updated:**
 
-06/01/2020
+29/01/2026
 
 [View](/pl/documents/overview/remsima-epar-medicine-overview_pl.pdf)
 
-português (PT) (140.57 KB - PDF)
+português (PT) (144.15 KB - PDF)
 
 **First published:**
 
@@ -333,11 +335,11 @@ português (PT) (140.57 KB - PDF)
 
 **Last updated:**
 
-06/01/2020
+29/01/2026
 
 [View](/pt/documents/overview/remsima-epar-medicine-overview_pt.pdf)
 
-română (RO) (162.57 KB - PDF)
+română (RO) (166.15 KB - PDF)
 
 **First published:**
 
@@ -345,11 +347,11 @@ română (RO) (162.57 KB - PDF)
 
 **Last updated:**
 
-06/01/2020
+29/01/2026
 
 [View](/ro/documents/overview/remsima-epar-medicine-overview_ro.pdf)
 
-slovenčina (SK) (162.75 KB - PDF)
+slovenčina (SK) (169 KB - PDF)
 
 **First published:**
 
@@ -357,11 +359,11 @@ slovenčina (SK) (162.75 KB - PDF)
 
 **Last updated:**
 
-06/01/2020
+29/01/2026
 
 [View](/sk/documents/overview/remsima-epar-medicine-overview_sk.pdf)
 
-slovenščina (SL) (161.28 KB - PDF)
+slovenščina (SL) (165.27 KB - PDF)
 
 **First published:**
 
@@ -369,11 +371,11 @@ slovenščina (SL) (161.28 KB - PDF)
 
 **Last updated:**
 
-06/01/2020
+29/01/2026
 
 [View](/sl/documents/overview/remsima-epar-medicine-overview_sl.pdf)
 
-Suomi (FI) (136.16 KB - PDF)
+Suomi (FI) (139.62 KB - PDF)
 
 **First published:**
 
@@ -381,11 +383,11 @@ Suomi (FI) (136.16 KB - PDF)
 
 **Last updated:**
 
-06/01/2020
+29/01/2026
 
 [View](/fi/documents/overview/remsima-epar-medicine-overview_fi.pdf)
 
-svenska (SV) (136.81 KB - PDF)
+svenska (SV) (141.23 KB - PDF)
 
 **First published:**
 
@@ -393,7 +395,7 @@ svenska (SV) (136.81 KB - PDF)
 
 **Last updated:**
 
-06/01/2020
+29/01/2026
 
 [View](/sv/documents/overview/remsima-epar-medicine-overview_sv.pdf)
 
@@ -411,17 +413,17 @@ English (EN) (1.22 MB - PDF)
 
 Remsima : EPAR - Product Information
 
-English (EN) (2.23 MB - PDF)
+English (EN) (2.25 MB - PDF)
 
 **First published:** 04/10/2013
 
-**Last updated:** 19/11/2025
+**Last updated:** 15/01/2026
 
 [View](/en/documents/product-information/remsima-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-419)
+[Other languages (24)](#file-language-dropdown-212)
 
-български (BG) (2.88 MB - PDF)
+български (BG) (2.87 MB - PDF)
 
 **First published:**
 
@@ -429,11 +431,11 @@ English (EN) (2.23 MB - PDF)
 
 **Last updated:**
 
-19/11/2025
+15/01/2026
 
 [View](/bg/documents/product-information/remsima-epar-product-information_bg.pdf)
 
-español (ES) (2.78 MB - PDF)
+español (ES) (2.22 MB - PDF)
 
 **First published:**
 
@@ -441,11 +443,11 @@ español (ES) (2.78 MB - PDF)
 
 **Last updated:**
 
-19/11/2025
+15/01/2026
 
 [View](/es/documents/product-information/remsima-epar-product-information_es.pdf)
 
-čeština (CS) (2.94 MB - PDF)
+čeština (CS) (2.43 MB - PDF)
 
 **First published:**
 
@@ -453,11 +455,11 @@ español (ES) (2.78 MB - PDF)
 
 **Last updated:**
 
-19/11/2025
+15/01/2026
 
 [View](/cs/documents/product-information/remsima-epar-product-information_cs.pdf)
 
-dansk (DA) (2.23 MB - PDF)
+dansk (DA) (2.06 MB - PDF)
 
 **First published:**
 
@@ -465,11 +467,11 @@ dansk (DA) (2.23 MB - PDF)
 
 **Last updated:**
 
-19/11/2025
+15/01/2026
 
 [View](/da/documents/product-information/remsima-epar-product-information_da.pdf)
 
-Deutsch (DE) (2.85 MB - PDF)
+Deutsch (DE) (2.33 MB - PDF)
 
 **First published:**
 
@@ -477,11 +479,11 @@ Deutsch (DE) (2.85 MB - PDF)
 
 **Last updated:**
 
-19/11/2025
+15/01/2026
 
 [View](/de/documents/product-information/remsima-epar-product-information_de.pdf)
 
-eesti keel (ET) (2.58 MB - PDF)
+eesti keel (ET) (2.02 MB - PDF)
 
 **First published:**
 
@@ -489,7 +491,7 @@ eesti keel (ET) (2.58 MB - PDF)
 
 **Last updated:**
 
-19/11/2025
+15/01/2026
 
 [View](/et/documents/product-information/remsima-epar-product-information_et.pdf)
 
@@ -501,11 +503,11 @@ eesti keel (ET) (2.58 MB - PDF)
 
 **Last updated:**
 
-19/11/2025
+15/01/2026
 
 [View](/el/documents/product-information/remsima-epar-product-information_el.pdf)
 
-français (FR) (2.96 MB - PDF)
+français (FR) (2.19 MB - PDF)
 
 **First published:**
 
@@ -513,11 +515,11 @@ français (FR) (2.96 MB - PDF)
 
 **Last updated:**
 
-19/11/2025
+15/01/2026
 
 [View](/fr/documents/product-information/remsima-epar-product-information_fr.pdf)
 
-hrvatski (HR) (2.72 MB - PDF)
+hrvatski (HR) (2.21 MB - PDF)
 
 **First published:**
 
@@ -525,11 +527,11 @@ hrvatski (HR) (2.72 MB - PDF)
 
 **Last updated:**
 
-19/11/2025
+15/01/2026
 
 [View](/hr/documents/product-information/remsima-epar-product-information_hr.pdf)
 
-íslenska (IS) (2.74 MB - PDF)
+íslenska (IS) (2.14 MB - PDF)
 
 **First published:**
 
@@ -537,11 +539,11 @@ hrvatski (HR) (2.72 MB - PDF)
 
 **Last updated:**
 
-19/11/2025
+15/01/2026
 
 [View](/is/documents/product-information/remsima-epar-product-information_is.pdf)
 
-italiano (IT) (2.59 MB - PDF)
+italiano (IT) (2.19 MB - PDF)
 
 **First published:**
 
@@ -549,11 +551,11 @@ italiano (IT) (2.59 MB - PDF)
 
 **Last updated:**
 
-19/11/2025
+15/01/2026
 
 [View](/it/documents/product-information/remsima-epar-product-information_it.pdf)
 
-latviešu valoda (LV) (2.77 MB - PDF)
+latviešu valoda (LV) (2.46 MB - PDF)
 
 **First published:**
 
@@ -561,11 +563,11 @@ latviešu valoda (LV) (2.77 MB - PDF)
 
 **Last updated:**
 
-19/11/2025
+15/01/2026
 
 [View](/lv/documents/product-information/remsima-epar-product-information_lv.pdf)
 
-lietuvių kalba (LT) (2.99 MB - PDF)
+lietuvių kalba (LT) (2.36 MB - PDF)
 
 **First published:**
 
@@ -573,11 +575,11 @@ lietuvių kalba (LT) (2.99 MB - PDF)
 
 **Last updated:**
 
-19/11/2025
+15/01/2026
 
 [View](/lt/documents/product-information/remsima-epar-product-information_lt.pdf)
 
-magyar (HU) (3.02 MB - PDF)
+magyar (HU) (2.47 MB - PDF)
 
 **First published:**
 
@@ -585,11 +587,11 @@ magyar (HU) (3.02 MB - PDF)
 
 **Last updated:**
 
-19/11/2025
+15/01/2026
 
 [View](/hu/documents/product-information/remsima-epar-product-information_hu.pdf)
 
-Malti (MT) (3.15 MB - PDF)
+Malti (MT) (2.68 MB - PDF)
 
 **First published:**
 
@@ -597,11 +599,11 @@ Malti (MT) (3.15 MB - PDF)
 
 **Last updated:**
 
-19/11/2025
+15/01/2026
 
 [View](/mt/documents/product-information/remsima-epar-product-information_mt.pdf)
 
-Nederlands (NL) (2.81 MB - PDF)
+Nederlands (NL) (2.19 MB - PDF)
 
 **First published:**
 
@@ -609,11 +611,11 @@ Nederlands (NL) (2.81 MB - PDF)
 
 **Last updated:**
 
-19/11/2025
+15/01/2026
 
 [View](/nl/documents/product-information/remsima-epar-product-information_nl.pdf)
 
-norsk (NO) (2.68 MB - PDF)
+norsk (NO) (2.17 MB - PDF)
 
 **First published:**
 
@@ -621,11 +623,11 @@ norsk (NO) (2.68 MB - PDF)
 
 **Last updated:**
 
-19/11/2025
+15/01/2026
 
 [View](/no/documents/product-information/remsima-epar-product-information_no.pdf)
 
-polski (PL) (3.13 MB - PDF)
+polski (PL) (2.56 MB - PDF)
 
 **First published:**
 
@@ -633,11 +635,11 @@ polski (PL) (3.13 MB - PDF)
 
 **Last updated:**
 
-19/11/2025
+15/01/2026
 
 [View](/pl/documents/product-information/remsima-epar-product-information_pl.pdf)
 
-português (PT) (2.59 MB - PDF)
+português (PT) (2.57 MB - PDF)
 
 **First published:**
 
@@ -645,11 +647,11 @@ português (PT) (2.59 MB - PDF)
 
 **Last updated:**
 
-19/11/2025
+15/01/2026
 
 [View](/pt/documents/product-information/remsima-epar-product-information_pt.pdf)
 
-română (RO) (2.93 MB - PDF)
+română (RO) (2.44 MB - PDF)
 
 **First published:**
 
@@ -657,11 +659,11 @@ română (RO) (2.93 MB - PDF)
 
 **Last updated:**
 
-19/11/2025
+15/01/2026
 
 [View](/ro/documents/product-information/remsima-epar-product-information_ro.pdf)
 
-slovenčina (SK) (4.07 MB - PDF)
+slovenčina (SK) (2.62 MB - PDF)
 
 **First published:**
 
@@ -669,11 +671,11 @@ slovenčina (SK) (4.07 MB - PDF)
 
 **Last updated:**
 
-19/11/2025
+15/01/2026
 
 [View](/sk/documents/product-information/remsima-epar-product-information_sk.pdf)
 
-slovenščina (SL) (2.92 MB - PDF)
+slovenščina (SL) (2.35 MB - PDF)
 
 **First published:**
 
@@ -681,11 +683,11 @@ slovenščina (SL) (2.92 MB - PDF)
 
 **Last updated:**
 
-19/11/2025
+15/01/2026
 
 [View](/sl/documents/product-information/remsima-epar-product-information_sl.pdf)
 
-Suomi (FI) (2.75 MB - PDF)
+Suomi (FI) (2.21 MB - PDF)
 
 **First published:**
 
@@ -693,11 +695,11 @@ Suomi (FI) (2.75 MB - PDF)
 
 **Last updated:**
 
-19/11/2025
+15/01/2026
 
 [View](/fi/documents/product-information/remsima-epar-product-information_fi.pdf)
 
-svenska (SV) (2.58 MB - PDF)
+svenska (SV) (2 MB - PDF)
 
 **First published:**
 
@@ -705,7 +707,7 @@ svenska (SV) (2.58 MB - PDF)
 
 **Last updated:**
 
-19/11/2025
+15/01/2026
 
 [View](/sv/documents/product-information/remsima-epar-product-information_sv.pdf)
 
@@ -735,7 +737,7 @@ English (EN) (88.9 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/remsima-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-793)
+[Other languages (24)](#file-language-dropdown-618)
 
 български (BG) (116.94 KB - PDF)
 
@@ -1256,7 +1258,7 @@ English (EN) (81.94 KB - PDF)
 - [Biosimilars](https://www.ema.europa.eu/en/search?f%5B0%5D=ema_search_topics%3A45)
 - [Medicines](https://www.ema.europa.eu/en/search?f%5B0%5D=ema_search_topics%3A61)
 
-**This page was last updated on** 19/11/2025
+**This page was last updated on** 29/01/2026
 
 ## Share this page
 

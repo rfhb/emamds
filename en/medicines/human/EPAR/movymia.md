@@ -1,18 +1,18 @@
 ---
-document_datetime: 2025-12-29 12:25:35
+document_datetime: 2026-01-28 13:54:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/movymia.html
 document_name: movymia.html
 version: success
-processing_time: 0.1278402
-conversion_datetime: 2025-12-30 00:50:57.062705
+processing_time: 0.259019
+conversion_datetime: 2026-02-01 20:26:10.444036
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.66.0
-  docling-core: 2.57.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.11.0
+  docling-jobkit: 1.9.1
+  docling: 2.71.0
+  docling-core: 2.62.0
+  docling-ibm-models: 3.11.0
+  docling-parse: 4.7.3
   python: cpython-313 (3.13.11)
   plaform: macOS-26.2-arm64-arm-64bit-Mach-O
 ---
@@ -25,8 +25,6 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 teriparatide Medicine Human Authorised
-
-On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -120,7 +118,7 @@ English (EN) (81.2 KB - PDF)
 
 [View](/en/documents/overview/movymia-epar-summary-public_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-93)
+[Other languages (22)](#file-language-dropdown-161)
 
 български (BG) (106.83 KB - PDF)
 
@@ -400,17 +398,17 @@ English (EN) (87.49 KB - PDF)
 
 Movymia : EPAR - Product Information
 
-English (EN) (867.16 KB - PDF)
+English (EN) (867.08 KB - PDF)
 
 **First published:** 16/03/2017
 
-**Last updated:** 24/04/2025
+**Last updated:** 28/01/2026
 
 [View](/en/documents/product-information/movymia-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-40)
+[Other languages (24)](#file-language-dropdown-156)
 
-български (BG) (982.37 KB - PDF)
+български (BG) (981.35 KB - PDF)
 
 **First published:**
 
@@ -418,11 +416,11 @@ English (EN) (867.16 KB - PDF)
 
 **Last updated:**
 
-24/04/2025
+28/01/2026
 
 [View](/bg/documents/product-information/movymia-epar-product-information_bg.pdf)
 
-español (ES) (887.37 KB - PDF)
+español (ES) (887.23 KB - PDF)
 
 **First published:**
 
@@ -430,11 +428,11 @@ español (ES) (887.37 KB - PDF)
 
 **Last updated:**
 
-24/04/2025
+28/01/2026
 
 [View](/es/documents/product-information/movymia-epar-product-information_es.pdf)
 
-čeština (CS) (955.22 KB - PDF)
+čeština (CS) (955.2 KB - PDF)
 
 **First published:**
 
@@ -442,11 +440,11 @@ español (ES) (887.37 KB - PDF)
 
 **Last updated:**
 
-24/04/2025
+28/01/2026
 
 [View](/cs/documents/product-information/movymia-epar-product-information_cs.pdf)
 
-dansk (DA) (894.22 KB - PDF)
+dansk (DA) (894.24 KB - PDF)
 
 **First published:**
 
@@ -454,11 +452,11 @@ dansk (DA) (894.22 KB - PDF)
 
 **Last updated:**
 
-24/04/2025
+28/01/2026
 
 [View](/da/documents/product-information/movymia-epar-product-information_da.pdf)
 
-Deutsch (DE) (1014.38 KB - PDF)
+Deutsch (DE) (1014.37 KB - PDF)
 
 **First published:**
 
@@ -466,11 +464,11 @@ Deutsch (DE) (1014.38 KB - PDF)
 
 **Last updated:**
 
-24/04/2025
+28/01/2026
 
 [View](/de/documents/product-information/movymia-epar-product-information_de.pdf)
 
-eesti keel (ET) (887.17 KB - PDF)
+eesti keel (ET) (887.14 KB - PDF)
 
 **First published:**
 
@@ -478,7 +476,7 @@ eesti keel (ET) (887.17 KB - PDF)
 
 **Last updated:**
 
-24/04/2025
+28/01/2026
 
 [View](/et/documents/product-information/movymia-epar-product-information_et.pdf)
 
@@ -490,11 +488,11 @@ eesti keel (ET) (887.17 KB - PDF)
 
 **Last updated:**
 
-24/04/2025
+28/01/2026
 
 [View](/el/documents/product-information/movymia-epar-product-information_el.pdf)
 
-français (FR) (918.29 KB - PDF)
+français (FR) (918.47 KB - PDF)
 
 **First published:**
 
@@ -502,11 +500,11 @@ français (FR) (918.29 KB - PDF)
 
 **Last updated:**
 
-24/04/2025
+28/01/2026
 
 [View](/fr/documents/product-information/movymia-epar-product-information_fr.pdf)
 
-hrvatski (HR) (915.96 KB - PDF)
+hrvatski (HR) (915.91 KB - PDF)
 
 **First published:**
 
@@ -514,11 +512,11 @@ hrvatski (HR) (915.96 KB - PDF)
 
 **Last updated:**
 
-24/04/2025
+28/01/2026
 
 [View](/hr/documents/product-information/movymia-epar-product-information_hr.pdf)
 
-íslenska (IS) (857.48 KB - PDF)
+íslenska (IS) (857.46 KB - PDF)
 
 **First published:**
 
@@ -526,11 +524,11 @@ hrvatski (HR) (915.96 KB - PDF)
 
 **Last updated:**
 
-24/04/2025
+28/01/2026
 
 [View](/is/documents/product-information/movymia-epar-product-information_is.pdf)
 
-italiano (IT) (894.87 KB - PDF)
+italiano (IT) (894.98 KB - PDF)
 
 **First published:**
 
@@ -538,11 +536,11 @@ italiano (IT) (894.87 KB - PDF)
 
 **Last updated:**
 
-24/04/2025
+28/01/2026
 
 [View](/it/documents/product-information/movymia-epar-product-information_it.pdf)
 
-latviešu valoda (LV) (980.61 KB - PDF)
+latviešu valoda (LV) (980.51 KB - PDF)
 
 **First published:**
 
@@ -550,11 +548,11 @@ latviešu valoda (LV) (980.61 KB - PDF)
 
 **Last updated:**
 
-24/04/2025
+28/01/2026
 
 [View](/lv/documents/product-information/movymia-epar-product-information_lv.pdf)
 
-lietuvių kalba (LT) (934.65 KB - PDF)
+lietuvių kalba (LT) (934.49 KB - PDF)
 
 **First published:**
 
@@ -562,11 +560,11 @@ lietuvių kalba (LT) (934.65 KB - PDF)
 
 **Last updated:**
 
-24/04/2025
+28/01/2026
 
 [View](/lt/documents/product-information/movymia-epar-product-information_lt.pdf)
 
-magyar (HU) (940.43 KB - PDF)
+magyar (HU) (940.35 KB - PDF)
 
 **First published:**
 
@@ -574,11 +572,11 @@ magyar (HU) (940.43 KB - PDF)
 
 **Last updated:**
 
-24/04/2025
+28/01/2026
 
 [View](/hu/documents/product-information/movymia-epar-product-information_hu.pdf)
 
-Malti (MT) (1023.64 KB - PDF)
+Malti (MT) (1023.62 KB - PDF)
 
 **First published:**
 
@@ -586,11 +584,11 @@ Malti (MT) (1023.64 KB - PDF)
 
 **Last updated:**
 
-24/04/2025
+28/01/2026
 
 [View](/mt/documents/product-information/movymia-epar-product-information_mt.pdf)
 
-Nederlands (NL) (991.99 KB - PDF)
+Nederlands (NL) (991.96 KB - PDF)
 
 **First published:**
 
@@ -598,11 +596,11 @@ Nederlands (NL) (991.99 KB - PDF)
 
 **Last updated:**
 
-24/04/2025
+28/01/2026
 
 [View](/nl/documents/product-information/movymia-epar-product-information_nl.pdf)
 
-norsk (NO) (893.11 KB - PDF)
+norsk (NO) (893.09 KB - PDF)
 
 **First published:**
 
@@ -610,11 +608,11 @@ norsk (NO) (893.11 KB - PDF)
 
 **Last updated:**
 
-24/04/2025
+28/01/2026
 
 [View](/no/documents/product-information/movymia-epar-product-information_no.pdf)
 
-polski (PL) (957.65 KB - PDF)
+polski (PL) (958.03 KB - PDF)
 
 **First published:**
 
@@ -622,11 +620,11 @@ polski (PL) (957.65 KB - PDF)
 
 **Last updated:**
 
-24/04/2025
+28/01/2026
 
 [View](/pl/documents/product-information/movymia-epar-product-information_pl.pdf)
 
-português (PT) (879.46 KB - PDF)
+português (PT) (879.42 KB - PDF)
 
 **First published:**
 
@@ -634,11 +632,11 @@ português (PT) (879.46 KB - PDF)
 
 **Last updated:**
 
-24/04/2025
+28/01/2026
 
 [View](/pt/documents/product-information/movymia-epar-product-information_pt.pdf)
 
-română (RO) (928.67 KB - PDF)
+română (RO) (928.42 KB - PDF)
 
 **First published:**
 
@@ -646,11 +644,11 @@ română (RO) (928.67 KB - PDF)
 
 **Last updated:**
 
-24/04/2025
+28/01/2026
 
 [View](/ro/documents/product-information/movymia-epar-product-information_ro.pdf)
 
-slovenčina (SK) (990.86 KB - PDF)
+slovenčina (SK) (991.01 KB - PDF)
 
 **First published:**
 
@@ -658,7 +656,7 @@ slovenčina (SK) (990.86 KB - PDF)
 
 **Last updated:**
 
-24/04/2025
+28/01/2026
 
 [View](/sk/documents/product-information/movymia-epar-product-information_sk.pdf)
 
@@ -670,11 +668,11 @@ slovenščina (SL) (1.02 MB - PDF)
 
 **Last updated:**
 
-24/04/2025
+28/01/2026
 
 [View](/sl/documents/product-information/movymia-epar-product-information_sl.pdf)
 
-Suomi (FI) (866.51 KB - PDF)
+Suomi (FI) (866.75 KB - PDF)
 
 **First published:**
 
@@ -682,11 +680,11 @@ Suomi (FI) (866.51 KB - PDF)
 
 **Last updated:**
 
-24/04/2025
+28/01/2026
 
 [View](/fi/documents/product-information/movymia-epar-product-information_fi.pdf)
 
-svenska (SV) (954.88 KB - PDF)
+svenska (SV) (954.71 KB - PDF)
 
 **First published:**
 
@@ -694,11 +692,11 @@ svenska (SV) (954.88 KB - PDF)
 
 **Last updated:**
 
-24/04/2025
+28/01/2026
 
 [View](/sv/documents/product-information/movymia-epar-product-information_sv.pdf)
 
-**Latest procedure affecting product information:** VR/0000266969 24/04/2025
+**Latest procedure affecting product information:** VR/0000322617 27/01/2026
 
 icon globe
 
@@ -724,7 +722,7 @@ English (EN) (32.89 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/movymia-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-17)
+[Other languages (24)](#file-language-dropdown-942)
 
 български (BG) (41.64 KB - PDF)
 
@@ -1044,7 +1042,7 @@ STADA Arzneimittel AG
 
 Stadastrasse 2-18
 
-Opinion adopted 10/11/2016 Marketing authorisation issued 11/01/2017 Revision 11
+Opinion adopted 10/11/2016 Marketing authorisation issued 11/01/2017 Revision 12
 
 ## Assessment history
 
@@ -1056,9 +1054,11 @@ Collapse section
 
 Movymia : EPAR - Procedural steps taken and scientific information after authorisation
 
-English (EN) (128.12 KB - PDF)
+English (EN) (129.39 KB - PDF)
 
 **First published:** 24/04/2025
+
+**Last updated:** 28/01/2026
 
 [View](/en/documents/procedural-steps-after/movymia-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf)
 
@@ -1116,7 +1116,7 @@ English (EN) (1.26 MB - DOCX)
 
 [View](/en/documents/product-information-tracked-changes/movymia-epar-product-information-tracked-changes_en.docx)
 
-[Other languages (24)](#file-language-dropdown-211)
+[Other languages (24)](#file-language-dropdown-489)
 
 български (BG) (1.02 MB - DOCX)
 
@@ -1319,7 +1319,7 @@ svenska (SV) (1.69 MB - DOCX)
 - [Biosimilars](https://www.ema.europa.eu/en/search?f%5B0%5D=ema_search_topics%3A45)
 - [Medicines](https://www.ema.europa.eu/en/search?f%5B0%5D=ema_search_topics%3A61)
 
-**This page was last updated on** 24/04/2025
+**This page was last updated on** 28/01/2026
 
 ## Share this page
 

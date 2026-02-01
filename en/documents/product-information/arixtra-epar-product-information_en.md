@@ -1,16 +1,16 @@
 ---
-document_datetime: 2026-01-29 10:52:42
+document_datetime: 2026-01-30 16:37:00
 document_pages: 117
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/arixtra-epar-product-information_en.pdf
 document_name: arixtra-epar-product-information_en.pdf
 version: success
-processing_time: 32.1131831
-conversion_datetime: 2026-01-29 11:57:29.781957
+processing_time: 31.5228069
+conversion_datetime: 2026-02-01 20:34:53.747037
 docling_version:
   docling-serve: 1.11.0
-  docling-jobkit: 1.9.0
-  docling: 2.70.0
-  docling-core: 2.61.0
+  docling-jobkit: 1.9.1
+  docling: 2.71.0
+  docling-core: 2.62.0
   docling-ibm-models: 3.11.0
   docling-parse: 4.7.3
   python: cpython-313 (3.13.11)

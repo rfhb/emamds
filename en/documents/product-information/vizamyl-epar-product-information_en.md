@@ -1,18 +1,18 @@
 ---
-document_datetime: 2025-11-18 11:04:54
+document_datetime: 2026-01-30 10:38:20
 document_pages: 38
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/vizamyl-epar-product-information_en.pdf
 document_name: vizamyl-epar-product-information_en.pdf
 version: success
-processing_time: 8.1228651
-conversion_datetime: 2025-12-23 06:47:33.601242
+processing_time: 7.6534094
+conversion_datetime: 2026-02-01 20:26:30.099742
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.64.1
-  docling-core: 2.55.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.11.0
+  docling-jobkit: 1.9.1
+  docling: 2.71.0
+  docling-core: 2.62.0
+  docling-ibm-models: 3.11.0
+  docling-parse: 4.7.3
   python: cpython-313 (3.13.11)
   plaform: macOS-26.2-arm64-arm-64bit-Mach-O
 ---
@@ -42,9 +42,7 @@ For the full list of excipients, see section 6.1.
 
 ## 3. PHARMACEUTICAL FORM
 
-Solution for injection.
-
-Clear, colourless to slightly yellow solution.
+Solution for injection. Clear, colourless to slightly yellow solution.
 
 ## 4. CLINICAL PARTICULARS
 
@@ -222,9 +220,9 @@ When an administration of radiopharmaceuticals to a woman of childbearing potent
 
 ## Pregnancy
 
-No studies have been conducted in pregnant women. No animal studies have been conducted to investigate the reproductive effects of flutemetamol ( 18 F) (see section 5.3).
+No studies have been conducted in pregnant women. No animal studies have been conducted to investigate the reproductive effects of flutemetamol ( 18 F) (see section 5.3). Radionuclide  procedures  carried  out  on  pregnant  women  also  involve  radiation  dose  to  the  foetus.
 
-Radionuclide  procedures  carried  out  on  pregnant  women  also  involve  radiation  dose  to  the  foetus. Only essential investigations should therefore be carried out during pregnancy, when the likely benefit far exceeds the risk incurred by the mother and foetus.
+Only essential investigations should therefore be carried out during pregnancy, when the likely benefit far exceeds the risk incurred by the mother and foetus.
 
 ## Breast-feeding
 
@@ -260,22 +258,22 @@ The following adverse reactions are listed in the Table 1 below:
 
 Table 1 List of adverse reactions
 
-| System Organ Class                                   | Common                   | Uncommon                                                                                                      |
-|------------------------------------------------------|--------------------------|---------------------------------------------------------------------------------------------------------------|
-| Immune system disorders                              |                          | Anaphylactoid reaction                                                                                        |
-| Psychiatric disorders                                |                          | Anxiety                                                                                                       |
-| Nervous system disorders                             |                          | Dizziness Headache Hypoaesthesia Hypotonia Dysgeusia                                                          |
-| Eye disorders                                        |                          | Eye swelling                                                                                                  |
-| Ear and labyrinth disorders                          |                          | Vertigo                                                                                                       |
-| Cardiac disorders                                    |                          | Palpitations                                                                                                  |
-| Vascular disorders                                   | Flushing                 | Pallor                                                                                                        |
-| Respiratory, thoracic and mediastinal disorders      |                          | Dyspnoea Hyperventilation Throat irritation                                                                   |
-| Gastrointestinal disorders                           |                          | Nausea Vomiting Dyspepsia Abdominal discomfort Oral discomfort                                                |
-| Skin and subcutaneous tissue disorders               |                          | Facial hypoaesthesia Pruritus Rash Skin tightness Swelling face                                               |
-| Musculoskeletal and connective tissue disorders      |                          | Back pain Muscle tightness Musculoskeletal pain                                                               |
-| Reproductive system and breast disorders             |                          | Erectile dysfunction                                                                                          |
-| General disorders and administration site conditions |                          | Chest discomfort Feeling hot Asthenia Fatigue Feeling abnormal Feeling cold Infusion site pain Oedema Pyrexia |
-| Investigations                                       | Increased blood pressure | Blood glucose decreased Blood lactate dehydrogenase increased Neutrophil count increased                      |
+| System Organ Class                                   | Common                   | Uncommon                                                                                                            |
+|------------------------------------------------------|--------------------------|---------------------------------------------------------------------------------------------------------------------|
+| Immune system disorders                              |                          | Anaphylactoid reaction                                                                                              |
+| Psychiatric disorders                                |                          | Anxiety                                                                                                             |
+| Nervous system disorders                             |                          | Dizziness Headache Hypoaesthesia Hypotonia Dysgeusia                                                                |
+| Eye disorders                                        |                          | Eye swelling                                                                                                        |
+| Ear and labyrinth disorders                          |                          | Vertigo                                                                                                             |
+| Cardiac disorders                                    |                          | Palpitations                                                                                                        |
+| Vascular disorders                                   | Flushing                 | Pallor                                                                                                              |
+| Respiratory, thoracic and mediastinal disorders      |                          | Dyspnoea Hyperventilation Throat irritation                                                                         |
+| Gastrointestinal disorders                           |                          | Nausea Vomiting Dyspepsia Abdominal discomfort Oral discomfort                                                      |
+| Skin and subcutaneous tissue disorders               |                          | Facial hypoaesthesia Pruritus Rash Skin tightness Swelling face                                                     |
+| Musculoskeletal and connective tissue disorders      |                          | Back pain Muscle tightness Musculoskeletal pain                                                                     |
+| Reproductive system and breast disorders             |                          | Erectile dysfunction                                                                                                |
+| General disorders and administration site conditions |                          | Chest discomfort Feeling hot Asthenia Fatigue Feeling abnormal Feeling cold Infusion site pain Oedema Pyrexia       |
+| Investigations                                       | Increased blood pressure | Blood glucose decreased Blood lactate dehydrogenase increased Neutrophil count increased Respiratory rate increased |
 
 Exposure to ionising radiation is linked with cancer induction and a potential for development of hereditary defects. The effective dose is approximately 5.9 mSv when the maximal recommended activity of 185 MBq of flutemetamol ( 18 F) is administered. These adverse events are expected to occur with low probability.
 
@@ -301,7 +299,7 @@ Pharmacotherapeutic group: diagnostic radiopharmaceutical, central nervous syste
 
 ## Mechanism of action
 
-## Flutemetamol ( 18 F) binds to β-amyloid neuritic plaques in the brain.
+Flutemetamol ( 18 F) binds to β-amyloid neuritic plaques in the brain.
 
 In vitro , flutemetamol ( 18 F) binds to β-amyloid neuritic plaques in the brain, with negligible binding to neurofibrillary tangles. Data suggest that flutemetamol ( 18 F) is able to label cored and diffuse amyloid β deposits and neuritic plaques. There is no evidence of flutemetamol ( 18 F) binding to soluble forms of Abeta.
 
@@ -523,29 +521,13 @@ Detailed information on this medicinal product is available on the website of th
 
 ## A. MANUFACTURER(S) RESPONSIBLE FOR BATCH RELEASE
 
-AAA, Troyes Advanced Accelerator Applications Molecular Imaging France SAS Technopole de l'Aube 14 Rue Gustave Eiffel 10430 Rosières-Près-Troyes France
+AAA, Troyes Technopole de l'Aube 14 Rue Gustave Eiffel 10430 Rosières-Près-Troyes
 
-AAA, Forli Advanced Accelerator Applications Molecular Imaging Italy S.r.l. Via Piero Maroncelli 40 47014 Meldola (FC) Italy
+ITEL, Ruvo di Puglia ITEL Telecomunicazioni S.r.l. 70037, Ruvo di Puglia (BA) Italy
 
-Curium PET France Parc scientifique Georges Besse 180 allee Von Neumann 30000 Nîmes France
-
-Curium Italy S.R.L. Via Ripamonti 435 20141 Milano (MI) Italy
-
-Curium Pharma Spain, S.A., C/Manuel Bartolome Cossio 10 28040 Madrid Spain
-
-Seibersdorf Laboratories, Seibersdorf Seibersdorf Labor GmbH Grundstuck Nr. 482/2 EZ98 KG 2444 Seibersdorf Austria
-
-AAA Venafro Advanced Accelerator Applications Molecular Imaging Italy S.R.L. Via Dell' Industria 86077 Pozzilli (IS) Italy
-
-AAA, Barcelona Advanced Accelerator Applications Molecular Imaging Iberica S.L.U. Josep Anselm Clavé 100 Esplugues de Llobregat Barcelona, 08950 Spain
-
-Curium PET Liege Allée du Six-Août, 8 4000 Liège Belgium
-
-ITEL, Ruvo di Puglia ITEL Telecomunicazioni S.r.l.
+Advanced Accelerator Applications Molecular Imaging France SAS France AAA, Forli Advanced Accelerator Applications Molecular Imaging Italy S.r.l. Via Piero Maroncelli 40 47014 Meldola (FC) Italy Curium PET France Parc scientifique Georges Besse 180 allee Von Neumann 30000 Nîmes France Curium Italy S.R.L. Via Ripamonti 435 20141 Milano (MI) Italy Seibersdorf Labor GmbH Oesterreichisches Forschungszentrum 0 Seibersdorf Lower Austria 2444 Austria AAA Venafro Advanced Accelerator Applications Molecular Imaging Italy S.R.L. Via Dell' Industria 86077 Pozzilli (IS) Italy AAA, Barcelona Advanced Accelerator Applications Molecular Imaging Iberica S.L.U. Josep Anselm Clavé 100 Esplugues de Llobregat Barcelona, 08950 Spain Curium PET Liege Allée du Six-Août, 8 4000 Liège Belgium Via Antonio Labriola Zona Industriale SNC,
 
 <div style=\"page-break-after: always\"></div>
-
-Via Antonio Labriola Zona Industriale SNC, 70037, Ruvo di Puglia (BA) Italy
 
 Helmholtz-Zentrum Dresden-Rossendorf e.V. Zentrum für Radiopharmazeutische Tumorforschung Bautzner Landstraβe 400 01328 Dresden Germany
 
@@ -571,15 +553,14 @@ The marketing authorisation holder shall submit the first periodic safety update
 
 ## · Risk Management Plan (RMP)
 
-The MAH shall perform the required pharmacovigilance activities and interventions detailed in the
-
-<div style=\"page-break-after: always\"></div>
-
-agreed RMP presented in Module 1.8.2 of the Marketing Authorisation and any agreed subsequent updates of the RMP.
+The MAH shall perform the required pharmacovigilance activities and interventions detailed in the agreed RMP presented in Module 1.8.2 of the Marketing Authorisation and any agreed subsequent updates of the RMP.
 
 An updated RMP should be submitted:
 
 - At the request of the European Medicines Agency;
+
+<div style=\"page-break-after: always\"></div>
+
 - Whenever the risk management system is modified, especially as the result of new information being received that may lead to a significant change to the benefit/risk profile or as the result of an important (pharmacovigilance or risk minimisation) milestone being reached.
 
 If the dates for submission of a PSUR and the update of a RMP coincide, they can be submitted at the same time.
@@ -682,8 +663,6 @@ Advanced Accelerator Applications Molecular Imaging France SAS, 10430 Rosières-
 
 Seibersdorf Labor GmbH, 2444 Seibersdorf, Austria
 
-Curium Pharma Spain, S.A., 28040 Madrid, Spain
-
 Curium PET France, Parc scientifique Georges Besse, 180 allée Von Neumann, 30000 Nîmes, France
 
 Curium Italy S.R.L., 20141 Milano (MI), Italy
@@ -714,10 +693,9 @@ Lot:
 
 Vial No: xxx
 
-<div style=\"page-break-after: always\"></div>
+## 14. GENERAL CLASSIFICATION FOR SUPPLY
 
-| 14.   | GENERAL CLASSIFICATION FOR SUPPLY   |
-|-------|-------------------------------------|
+<div style=\"page-break-after: always\"></div>
 
 Medicinal product subject to medical prescription.
 
@@ -732,10 +710,8 @@ Justification for not including Braille accepted
 | 17. UNIQUE IDENTIFIER - 2D BARCODE   |
 |--------------------------------------|
 
-| 18. UNIQUE IDENTIFIER - HUMANREADABLE DATA   |
-|----------------------------------------------|
-
-24
+| 18.   | UNIQUE IDENTIFIER - HUMANREADABLE DATA   |
+|-------|------------------------------------------|
 
 <div style=\"page-break-after: always\"></div>
 
@@ -809,8 +785,6 @@ Advanced Accelerator Applications Molecular Imaging France SAS, 10430 Rosières-
 
 Seibersdorf Labor GmbH, 2444 Seibersdorf, Austria
 
-Curium Pharma Spain, S.A., 28040 Madrid, Spain
-
 Curium PET France, Parc scientifique Georges Besse, 180 allée Von Neumann, 30000 Nîmes, France
 
 Curium Italy S.R.L., 20141 Milano (MI), Italy
@@ -841,10 +815,9 @@ Lot:
 
 Vial No: xxx
 
-<div style=\"page-break-after: always\"></div>
+## 14. GENERAL CLASSIFICATION FOR SUPPLY
 
-| 14.   | GENERAL CLASSIFICATION FOR SUPPLY   |
-|-------|-------------------------------------|
+<div style=\"page-break-after: always\"></div>
 
 Medicinal product subject to medical prescription.
 
@@ -901,8 +874,6 @@ Advanced Accelerator Applications Molecular Imaging Italy S.r.l., Via Piero Maro
 Advanced Accelerator Applications Molecular Imaging France SAS, Technopole de l'Aube, 14 Rue Gustave Eiffel,10430 Rosières-Près-Troyes, France
 
 Seibersdorf Labor GmbH, 2444 Seibersdorf, Austria
-
-Curium Pharma Spain, S.A., 28040 Madrid, Spain
 
 Curium PET France, 30000 Nîmes, France
 
@@ -964,8 +935,6 @@ Advanced Accelerator Applications Molecular Imaging France SAS, Technopole de l'
 
 Seibersdorf Labor GmbH, 2444 Seibersdorf, Austria
 
-Curium Pharma Spain, S.A., 28040 Madrid, Spain
-
 Curium PET France, 30000 Nîmes, France
 
 Curium Italy S.R.L., 20141 Milano (MI), Italy
@@ -974,19 +943,17 @@ Advanced Accelerator Applications Molecular Imaging Italy S.R.L., Via Dell' Indu
 
 Advanced Accelerator Applications Molecular Imaging Iberica S.L.U., Josep Anselm Clavé 100, 08950 Esplugues de Llobregat, Spain
 
-<div style=\"page-break-after: always\"></div>
+Curium PET Liege, 4000 Liège, Belgium
 
-## Curium PET Liege, 4000 Liège, Belgium
+<div style=\"page-break-after: always\"></div>
 
 ITEL Telecomunicazioni Srl, Via Antonio Labriola Zona Industriale snc,  70037, Ruvo di Puglia (BA), Italy
 
 Helmholtz-Zentrum Dresden-Rossendorf e.V., Zentrum für Radiopharmazeutische Tumorforschung, 01328 Dresden, Germany
 
-La Maddalena S.p.A, 90146 Palermo, Italy
+## La Maddalena S.p.A, 90146 Palermo, Italy
 
-Advanced Accelerator Applications Molecular Imaging Iberica, S.L.U.,
-
-HCUV de la Arrixaca, Ct Madrid-Cartagena, s/n 30120, El Palmar Murcia, Spain
+Advanced Accelerator Applications Molecular Imaging Iberica, S.L.U., HCUV de la Arrixaca, Ct Madrid-Cartagena, s/n 30120, El Palmar Murcia, Spain
 
 Pharmazac S.A., Lamia, 351 50, Greece
 
@@ -998,7 +965,11 @@ Pharmazac S.A., Lamia, 351 50, Greece
 
 <div style=\"page-break-after: always\"></div>
 
-VIZAMYL 400 MBq/mL solution for injection flutemetamol ( 18 F)
+## VIZAMYL 400 MBq/mL solution for injection
+
+flutemetamol ( 18
+
+## F)
 
 ## Read all of this leaflet carefully before you are given this medicine because it contains important information for you.
 
@@ -1206,19 +1177,21 @@ GE Healthcare AS Nycoveien 1 NO-0485 Oslo Norway
 
 Advanced Accelerator Applications Molecular Imaging Italy S.r.l. Via Piero Maroncelli 40 47014 Meldola (FC) Italy
 
-Advanced Accelerator Applications Molecular Imaging France SAS Technopole de l'Aube 14 Rue Gustave Eiffel 10430 Rosières-Près-Troyes
+Advanced Accelerator Applications Molecular Imaging France SAS Technopole de l'Aube 14 Rue Gustave Eiffel 10430 Rosières-Près-Troyes France
 
-France
-
-Seibersdorf Labor GmbH Grundstuck. Nr. 482/2 EZ98 KG 2444 Seibersdorf Austria
+Seibersdorf Labor GmbH Oesterreichisches Forschungszentrum 0 Seibersdorf Lower Austria 2444 Austria
 
 Curium PET France Parc scientifique Georges Besse 180 allee Von Neumann 30000 Nîmes France
 
-Curium Pharma Spain, S.A. C/Manuel Bartolome Cossio 10 28040 Madrid Spain
+Advanced Accelerator Applications Molecular Imaging Iberica S.L.U. Hospital Clinico Universitario Virgen de la Arrixaca, Ctra. Madrid-Cartagena, sn, El Palmar, 30120 Murcia
+
+Spain
 
 Curium Italy S.R.L. Via Ripamonti 435 20141 Milano (MI) Italy
 
-Advanced Accelerator Applications Molecular Imaging Iberica S.L.U. Josep Anselm Clavé 100 Esplugues de Llobregat Barcelona, 08950 Spain
+Advanced Accelerator Applications Molecular Imaging Iberica S.L.U. Josep Anselm Clavé 100 Esplugues de Llobregat Barcelona, 08950
+
+Spain
 
 Advanced Accelerator Applications Molecular Imaging Italy S.R.L. Via Dell' Industria, 86077 Pozzilli (IS) Italy
 
@@ -1230,11 +1203,11 @@ Helmholtz-Zentrum Dresden-Rossendorf e.V. Zentrum für Radiopharmazeutische Tumo
 
 ITEL Telecomunicazioni S.r.l. Via Antonio Labriola Zona Industriale SNC 70037, Ruvo di Puglia (BA) Italy
 
-La Maddalena SPA Via San Lorenzo Colli, 312/D 90146 Palermo (PA) Italy
-
-Advanced Accelerator Applications Molecular Imaging Iberica S.L.U. Hospital Clinico Universitario Virgen de la Arrixaca, Ctra. Madrid-Cartagena, sn, El Palmar, 30120 Murcia
+La Maddalena SPA Via San Lorenzo Colli, 312/D 90146 Palermo (PA)
 
 <div style=\"page-break-after: always\"></div>
+
+## Italy
 
 ## This leaflet was last revised in {month YYYY}.
 
@@ -1245,5 +1218,3 @@ The following information is intended for medical or healthcare professionals on
 The complete SmPC of VIZAMYL is provided as a separate document in the product package, with the objective to provide healthcare professionals with other additional scientific and practical information about the administration and use of this radiopharmaceutical.
 
 Please refer to the SmPC {SmPC should be included in the box}.
-
-## Spain

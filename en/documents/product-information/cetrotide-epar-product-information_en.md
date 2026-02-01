@@ -1,18 +1,18 @@
 ---
-document_datetime: 2025-11-24 16:44:54
+document_datetime: 2026-01-27 15:57:50
 document_pages: 26
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/cetrotide-epar-product-information_en.pdf
 document_name: cetrotide-epar-product-information_en.pdf
 version: success
-processing_time: 6.8662328
-conversion_datetime: 2025-12-30 11:50:21.329372
+processing_time: 5.0958313
+conversion_datetime: 2026-02-01 20:21:17.56115
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.66.0
-  docling-core: 2.57.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.11.0
+  docling-jobkit: 1.9.1
+  docling: 2.71.0
+  docling-core: 2.62.0
+  docling-ibm-models: 3.11.0
+  docling-parse: 4.7.3
   python: cpython-313 (3.13.11)
   plaform: macOS-26.2-arm64-arm-64bit-Mach-O
 ---
@@ -371,7 +371,7 @@ Merck Healthcare KGaA, Frankfurter Straße 250 D-64293 Darmstadt Germany
 
 ## B CONDITIONS OR RESTRICTIONS REGARDING SUPPLY AND USE
 
-Medicinal product subject to medical prescription.
+Medicinal product subject to restricted medical prescription (See Annex I: Summary of Product Characteristics, section 4.2).
 
 ## C. OTHER CONDITIONS AND REQUIREMENTS OF THE MARKETING AUTHORISATION
 

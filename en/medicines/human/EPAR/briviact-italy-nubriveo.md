@@ -1,18 +1,18 @@
 ---
-document_datetime: 2025-12-29 11:24:38
+document_datetime: 2026-01-27 10:08:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/briviact-italy-nubriveo.html
 document_name: briviact-italy-nubriveo.html
 version: success
-processing_time: 0.1271474
-conversion_datetime: 2025-12-30 01:16:09.533692
+processing_time: 0.1457772
+conversion_datetime: 2026-02-01 20:35:07.517401
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.66.0
-  docling-core: 2.57.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.11.0
+  docling-jobkit: 1.9.1
+  docling: 2.71.0
+  docling-core: 2.62.0
+  docling-ibm-models: 3.11.0
+  docling-parse: 4.7.3
   python: cpython-313 (3.13.11)
   plaform: macOS-26.2-arm64-arm-64bit-Mach-O
 ---
@@ -25,8 +25,6 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 brivaracetam Medicine Human Authorised
-
-On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -103,7 +101,7 @@ English (EN) (117.53 KB - PDF)
 
 [View](/en/documents/overview/briviact-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-194)
+[Other languages (22)](#file-language-dropdown-939)
 
 български (BG) (140.43 KB - PDF)
 
@@ -391,7 +389,7 @@ English (EN) (1.03 MB - PDF)
 
 [View](/en/documents/product-information/briviact-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-854)
+[Other languages (24)](#file-language-dropdown-587)
 
 български (BG) (1.01 MB - PDF)
 
@@ -707,7 +705,7 @@ English (EN) (87.18 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/briviact-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-115)
+[Other languages (24)](#file-language-dropdown-893)
 
 български (BG) (138.57 KB - PDF)
 
@@ -1017,7 +1015,7 @@ UCB Pharma SA
 
 Allée de la Recherche 60
 
-Marketing authorisation issued 13/01/2016 Revision 27
+Marketing authorisation issued 13/01/2016 Revision 28
 
 ## Assessment history
 
@@ -1044,6 +1042,18 @@ English (EN) (206.19 KB - PDF)
 **Last updated:** 19/05/2025
 
 [View](/en/documents/procedural-steps-after/briviact-epar-procedural-steps-taken-scientific-information-after-authorisation-archive_en.pdf)
+
+Briviact-PAM-0000265372 : EPAR - Assessment report
+
+Adopted
+
+Reference Number: EMADOC-1700519818-2856814
+
+English (EN) (661.78 KB - PDF)
+
+**First published:** 27/01/2026
+
+[View](/en/documents/variation-report/briviact-pam-0000265372-epar-assessment-report_en.pdf)
 
 Briviact-PAM-0000295195 : EPAR - Assessment report
 
@@ -1302,7 +1312,7 @@ English (EN) (67.38 KB - PDF)
 
 - [Medicines](https://www.ema.europa.eu/en/search?f%5B0%5D=ema_search_topics%3A61)
 
-**This page was last updated on** 01/12/2025
+**This page was last updated on** 27/01/2026
 
 ## Share this page
 

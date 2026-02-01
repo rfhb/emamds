@@ -1,18 +1,18 @@
 ---
-document_datetime: 2025-12-29 07:42:53
+document_datetime: 2026-01-29 15:55:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/insulin-lispro-sanofi.html
 document_name: insulin-lispro-sanofi.html
 version: success
-processing_time: 0.1118578
-conversion_datetime: 2025-12-29 23:04:48.892472
+processing_time: 0.1205852
+conversion_datetime: 2026-02-01 20:17:17.203093
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.66.0
-  docling-core: 2.57.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.11.0
+  docling-jobkit: 1.9.1
+  docling: 2.71.0
+  docling-core: 2.62.0
+  docling-ibm-models: 3.11.0
+  docling-parse: 4.7.3
   python: cpython-313 (3.13.11)
   plaform: macOS-26.2-arm64-arm-64bit-Mach-O
 ---
@@ -25,8 +25,6 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 insulin lispro Medicine Human Authorised
-
-On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -114,7 +112,7 @@ English (EN) (76.56 KB - PDF)
 
 [View](/en/documents/overview/insulin-lispro-sanofi-epar-summary-public_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-440)
+[Other languages (22)](#file-language-dropdown-1)
 
 български (BG) (99.28 KB - PDF)
 
@@ -392,17 +390,17 @@ English (EN) (367.14 KB - PDF)
 
 Insulin lispro Sanofi : EPAR - Product Information
 
-English (EN) (828.89 KB - PDF)
+English (EN) (1.01 MB - PDF)
 
 **First published:** 22/09/2017
 
-**Last updated:** 16/08/2024
+**Last updated:** 29/01/2026
 
 [View](/en/documents/product-information/insulin-lispro-sanofi-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-10)
+[Other languages (24)](#file-language-dropdown-271)
 
-български (BG) (1.15 MB - PDF)
+български (BG) (1.14 MB - PDF)
 
 **First published:**
 
@@ -410,11 +408,11 @@ English (EN) (828.89 KB - PDF)
 
 **Last updated:**
 
-16/08/2024
+29/01/2026
 
 [View](/bg/documents/product-information/insulin-lispro-sanofi-epar-product-information_bg.pdf)
 
-español (ES) (1.03 MB - PDF)
+español (ES) (858.08 KB - PDF)
 
 **First published:**
 
@@ -422,11 +420,11 @@ español (ES) (1.03 MB - PDF)
 
 **Last updated:**
 
-16/08/2024
+29/01/2026
 
 [View](/es/documents/product-information/insulin-lispro-sanofi-epar-product-information_es.pdf)
 
-čeština (CS) (1.09 MB - PDF)
+čeština (CS) (1.85 MB - PDF)
 
 **First published:**
 
@@ -434,11 +432,11 @@ español (ES) (1.03 MB - PDF)
 
 **Last updated:**
 
-16/08/2024
+29/01/2026
 
 [View](/cs/documents/product-information/insulin-lispro-sanofi-epar-product-information_cs.pdf)
 
-dansk (DA) (1.04 MB - PDF)
+dansk (DA) (1.03 MB - PDF)
 
 **First published:**
 
@@ -446,7 +444,7 @@ dansk (DA) (1.04 MB - PDF)
 
 **Last updated:**
 
-16/08/2024
+29/01/2026
 
 [View](/da/documents/product-information/insulin-lispro-sanofi-epar-product-information_da.pdf)
 
@@ -458,11 +456,11 @@ Deutsch (DE) (1.13 MB - PDF)
 
 **Last updated:**
 
-16/08/2024
+29/01/2026
 
 [View](/de/documents/product-information/insulin-lispro-sanofi-epar-product-information_de.pdf)
 
-eesti keel (ET) (964.44 KB - PDF)
+eesti keel (ET) (772.68 KB - PDF)
 
 **First published:**
 
@@ -470,7 +468,7 @@ eesti keel (ET) (964.44 KB - PDF)
 
 **Last updated:**
 
-16/08/2024
+29/01/2026
 
 [View](/et/documents/product-information/insulin-lispro-sanofi-epar-product-information_et.pdf)
 
@@ -482,11 +480,11 @@ eesti keel (ET) (964.44 KB - PDF)
 
 **Last updated:**
 
-16/08/2024
+29/01/2026
 
 [View](/el/documents/product-information/insulin-lispro-sanofi-epar-product-information_el.pdf)
 
-français (FR) (1.14 MB - PDF)
+français (FR) (1.13 MB - PDF)
 
 **First published:**
 
@@ -494,11 +492,11 @@ français (FR) (1.14 MB - PDF)
 
 **Last updated:**
 
-16/08/2024
+29/01/2026
 
 [View](/fr/documents/product-information/insulin-lispro-sanofi-epar-product-information_fr.pdf)
 
-hrvatski (HR) (1.02 MB - PDF)
+hrvatski (HR) (864.57 KB - PDF)
 
 **First published:**
 
@@ -506,11 +504,11 @@ hrvatski (HR) (1.02 MB - PDF)
 
 **Last updated:**
 
-16/08/2024
+29/01/2026
 
 [View](/hr/documents/product-information/insulin-lispro-sanofi-epar-product-information_hr.pdf)
 
-íslenska (IS) (1014.16 KB - PDF)
+íslenska (IS) (1.36 MB - PDF)
 
 **First published:**
 
@@ -518,11 +516,11 @@ hrvatski (HR) (1.02 MB - PDF)
 
 **Last updated:**
 
-16/08/2024
+29/01/2026
 
 [View](/is/documents/product-information/insulin-lispro-sanofi-epar-product-information_is.pdf)
 
-italiano (IT) (1.19 MB - PDF)
+italiano (IT) (1.13 MB - PDF)
 
 **First published:**
 
@@ -530,11 +528,11 @@ italiano (IT) (1.19 MB - PDF)
 
 **Last updated:**
 
-16/08/2024
+29/01/2026
 
 [View](/it/documents/product-information/insulin-lispro-sanofi-epar-product-information_it.pdf)
 
-latviešu valoda (LV) (1.17 MB - PDF)
+latviešu valoda (LV) (1.02 MB - PDF)
 
 **First published:**
 
@@ -542,11 +540,11 @@ latviešu valoda (LV) (1.17 MB - PDF)
 
 **Last updated:**
 
-16/08/2024
+29/01/2026
 
 [View](/lv/documents/product-information/insulin-lispro-sanofi-epar-product-information_lv.pdf)
 
-lietuvių kalba (LT) (1.03 MB - PDF)
+lietuvių kalba (LT) (877.04 KB - PDF)
 
 **First published:**
 
@@ -554,11 +552,11 @@ lietuvių kalba (LT) (1.03 MB - PDF)
 
 **Last updated:**
 
-16/08/2024
+29/01/2026
 
 [View](/lt/documents/product-information/insulin-lispro-sanofi-epar-product-information_lt.pdf)
 
-magyar (HU) (1.15 MB - PDF)
+magyar (HU) (1.29 MB - PDF)
 
 **First published:**
 
@@ -566,11 +564,11 @@ magyar (HU) (1.15 MB - PDF)
 
 **Last updated:**
 
-16/08/2024
+29/01/2026
 
 [View](/hu/documents/product-information/insulin-lispro-sanofi-epar-product-information_hu.pdf)
 
-Malti (MT) (1.21 MB - PDF)
+Malti (MT) (1018.36 KB - PDF)
 
 **First published:**
 
@@ -578,11 +576,11 @@ Malti (MT) (1.21 MB - PDF)
 
 **Last updated:**
 
-16/08/2024
+29/01/2026
 
 [View](/mt/documents/product-information/insulin-lispro-sanofi-epar-product-information_mt.pdf)
 
-Nederlands (NL) (1.05 MB - PDF)
+Nederlands (NL) (1.06 MB - PDF)
 
 **First published:**
 
@@ -590,11 +588,11 @@ Nederlands (NL) (1.05 MB - PDF)
 
 **Last updated:**
 
-16/08/2024
+29/01/2026
 
 [View](/nl/documents/product-information/insulin-lispro-sanofi-epar-product-information_nl.pdf)
 
-norsk (NO) (1.04 MB - PDF)
+norsk (NO) (1 MB - PDF)
 
 **First published:**
 
@@ -602,11 +600,11 @@ norsk (NO) (1.04 MB - PDF)
 
 **Last updated:**
 
-16/08/2024
+29/01/2026
 
 [View](/no/documents/product-information/insulin-lispro-sanofi-epar-product-information_no.pdf)
 
-polski (PL) (1.07 MB - PDF)
+polski (PL) (1.17 MB - PDF)
 
 **First published:**
 
@@ -614,11 +612,11 @@ polski (PL) (1.07 MB - PDF)
 
 **Last updated:**
 
-16/08/2024
+29/01/2026
 
 [View](/pl/documents/product-information/insulin-lispro-sanofi-epar-product-information_pl.pdf)
 
-português (PT) (1.04 MB - PDF)
+português (PT) (1.07 MB - PDF)
 
 **First published:**
 
@@ -626,11 +624,11 @@ português (PT) (1.04 MB - PDF)
 
 **Last updated:**
 
-16/08/2024
+29/01/2026
 
 [View](/pt/documents/product-information/insulin-lispro-sanofi-epar-product-information_pt.pdf)
 
-română (RO) (1.15 MB - PDF)
+română (RO) (1.05 MB - PDF)
 
 **First published:**
 
@@ -638,11 +636,11 @@ română (RO) (1.15 MB - PDF)
 
 **Last updated:**
 
-16/08/2024
+29/01/2026
 
 [View](/ro/documents/product-information/insulin-lispro-sanofi-epar-product-information_ro.pdf)
 
-slovenčina (SK) (1.09 MB - PDF)
+slovenčina (SK) (927.59 KB - PDF)
 
 **First published:**
 
@@ -650,11 +648,11 @@ slovenčina (SK) (1.09 MB - PDF)
 
 **Last updated:**
 
-16/08/2024
+29/01/2026
 
 [View](/sk/documents/product-information/insulin-lispro-sanofi-epar-product-information_sk.pdf)
 
-slovenščina (SL) (1.07 MB - PDF)
+slovenščina (SL) (970.3 KB - PDF)
 
 **First published:**
 
@@ -662,11 +660,11 @@ slovenščina (SL) (1.07 MB - PDF)
 
 **Last updated:**
 
-16/08/2024
+29/01/2026
 
 [View](/sl/documents/product-information/insulin-lispro-sanofi-epar-product-information_sl.pdf)
 
-Suomi (FI) (1016.51 KB - PDF)
+Suomi (FI) (889 KB - PDF)
 
 **First published:**
 
@@ -674,11 +672,11 @@ Suomi (FI) (1016.51 KB - PDF)
 
 **Last updated:**
 
-16/08/2024
+29/01/2026
 
 [View](/fi/documents/product-information/insulin-lispro-sanofi-epar-product-information_fi.pdf)
 
-svenska (SV) (1.31 MB - PDF)
+svenska (SV) (927.15 KB - PDF)
 
 **First published:**
 
@@ -686,11 +684,11 @@ svenska (SV) (1.31 MB - PDF)
 
 **Last updated:**
 
-16/08/2024
+29/01/2026
 
 [View](/sv/documents/product-information/insulin-lispro-sanofi-epar-product-information_sv.pdf)
 
-**Latest procedure affecting product information:** N/0019 14/08/2024
+**Latest procedure affecting product information:** N/0000324558 28/01/2026
 
 icon globe
 
@@ -716,7 +714,7 @@ English (EN) (22.41 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/insulin-lispro-sanofi-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-846)
+[Other languages (24)](#file-language-dropdown-768)
 
 български (BG) (63.59 KB - PDF)
 
@@ -1032,7 +1030,7 @@ Sanofi Winthrop Industrie
 
 82 Avenue Raspail
 
-Opinion adopted 17/05/2017 Marketing authorisation issued 19/07/2017 Revision 10
+Opinion adopted 17/05/2017 Marketing authorisation issued 19/07/2017 Revision 11
 
 ## Assessment history
 
@@ -1044,13 +1042,21 @@ Collapse section
 
 Insulin lispro Sanofi : EPAR - Procedural steps taken and scientific information after authorisation
 
+English (EN) (145.13 KB - PDF)
+
+**First published:** 29/01/2026
+
+[View](/en/documents/procedural-steps-after/insulin-lispro-sanofi-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf)
+
+Insulin lispro Sanofi : EPAR - Procedural steps taken and scientific information after authorisation (archive)
+
 English (EN) (122.91 KB - PDF)
 
 **First published:** 06/11/2017
 
-**Last updated:** 16/08/2024
+**Last updated:** 29/01/2026
 
-[View](/en/documents/procedural-steps-after/insulin-lispro-sanofi-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf)
+[View](/en/documents/procedural-steps-after/insulin-lispro-sanofi-epar-procedural-steps-taken-scientific-information-after-authorisation-archive_en.pdf)
 
 ## Initial marketing authorisation documents
 
@@ -1099,7 +1105,7 @@ English (EN) (68.54 KB - PDF)
 - [Biosimilars](https://www.ema.europa.eu/en/search?f%5B0%5D=ema_search_topics%3A45)
 - [Medicines](https://www.ema.europa.eu/en/search?f%5B0%5D=ema_search_topics%3A61)
 
-**This page was last updated on** 16/08/2024
+**This page was last updated on** 29/01/2026
 
 ## Share this page
 

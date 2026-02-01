@@ -1,18 +1,18 @@
 ---
-document_datetime: 2025-12-29 11:12:23
+document_datetime: 2026-01-30 12:00:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/mounjaro.html
 document_name: mounjaro.html
 version: success
-processing_time: 0.138594
-conversion_datetime: 2025-12-31 03:51:03.559148
+processing_time: 0.1529777
+conversion_datetime: 2026-02-01 20:16:48.891016
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.66.0
-  docling-core: 2.57.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.11.0
+  docling-jobkit: 1.9.1
+  docling: 2.71.0
+  docling-core: 2.62.0
+  docling-ibm-models: 3.11.0
+  docling-parse: 4.7.3
   python: cpython-313 (3.13.11)
   plaform: macOS-26.2-arm64-arm-64bit-Mach-O
 ---
@@ -25,8 +25,6 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 tirzepatide Medicine Human Authorised
-
-On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -118,7 +116,7 @@ English (EN) (120.66 KB - PDF)
 
 [View](/en/documents/overview/mounjaro-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-207)
+[Other languages (22)](#file-language-dropdown-578)
 
 български (BG) (149.23 KB - PDF)
 
@@ -406,7 +404,7 @@ English (EN) (3.28 MB - PDF)
 
 [View](/en/documents/product-information/mounjaro-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-242)
+[Other languages (24)](#file-language-dropdown-482)
 
 български (BG) (4.26 MB - PDF)
 
@@ -722,7 +720,7 @@ English (EN) (75.81 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/mounjaro-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-931)
+[Other languages (24)](#file-language-dropdown-250)
 
 български (BG) (104.49 KB - PDF)
 
@@ -1032,11 +1030,17 @@ Drugs used in diabetes
 
 Mounjaro is indicated for the treatment of adults with insufficiently controlled type 2 diabetes mellitus as an adjunct to diet and exercise
 
+- as monotherapy when metformin is considered inappropriate due to intolerance or contraindications
+- in addition to other medicinal products for the treatment of diabetes.
+
 For study results with respect to combinations, effects on glycaemic control and the populations studied, see sections 4.4, 4.5 and 5.1.
 
 **Weight management**
 
-Mounjaro is indicated as an adjunct to a reduced-calorie diet and increased physical activity for weight management, including weight loss and weight maintenance, in adults with an initial Body Mass Index (BMI) of - ≥ 30 kg/m2 (obesity) or - ≥ 27 kg/m2 to &lt; 30 kg/m2 (overweight) in the presence of at least one weight-related comorbid condition (e.g., hypertension, dyslipidaemia, obstructive sleep apnoea, cardiovascular disease, prediabetes, or type 2 diabetes mellitus).
+Mounjaro is indicated as an adjunct to a reduced-calorie diet and increased physical activity for weight management, including weight loss and weight maintenance, in adults with an initial Body Mass Index (BMI) of
+
+- ≥ 30 kg/m2 (obesity) or
+- ≥ 27 kg/m2 to &lt; 30 kg/m2 (overweight) in the presence of at least one weight-related comorbid condition (e.g., hypertension, dyslipidaemia, obstructive sleep apnoea, cardiovascular disease, prediabetes, or type 2 diabetes mellitus).
 
 ## Authorisation details
 
@@ -1044,7 +1048,7 @@ EMA product number EMEA/H/C/005620 Marketing authorisation holder
 
 Eli Lilly Nederland B.V.
 
-Papendorpseweg 83 3528 BJ Utrecht The Netherlands
+Papendorpseweg 83
 
 Opinion adopted 21/07/2022 Marketing authorisation issued 15/09/2022 Revision 18
 
@@ -1168,6 +1172,8 @@ English (EN) (168.58 KB - PDF)
 
 #### News on Mounjaro
 
+[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 26-29 January 2026](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-26-29-january-2026) 30/01/2026
+
 [Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 8-11 December 2025](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-8-11-december-2025) 12/12/2025
 
 [Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 9-12 December 2024](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-9-12-december-2024) 13/12/2024
@@ -1190,7 +1196,7 @@ English (EN) (4.37 MB - DOCX)
 
 [View](/en/documents/product-information-tracked-changes/mounjaro-epar-product-information-tracked-changes_en.docx)
 
-[Other languages (24)](#file-language-dropdown-826)
+[Other languages (24)](#file-language-dropdown-725)
 
 български (BG) (3.99 MB - DOCX)
 
@@ -1482,6 +1488,16 @@ svenska (SV) (4.27 MB - DOCX)
 
 #### Related documents
 
+Questions and answers on the outcome of assessment on use of Mounjaro in treatment of heart failure with preserved ejection fraction in adults with obesity
+
+Reference Number: EMA/18704/2026
+
+English (EN) (142.63 KB - PDF)
+
+**First published:** 30/01/2026
+
+[View](/en/documents/medicine-qa/questions-answers-outcome-assessment-use-mounjaro-treatment-heart-failure-preserved-ejection-fraction-adults-obesity_en.pdf)
+
 Questions and answers on the outcome of assessment on use of Mounjaro in treatment of obstructive sleep apnoea
 
 Reference Number: EMA/576853/2024
@@ -1496,9 +1512,10 @@ English (EN) (127.64 KB - PDF)
 
 - [EMEA-002360-PIP02-22-M02 - paediatric investigation plan](/en/medicines/human/paediatric-investigation-plans/emea-002360-pip02-22-m02)
 - [Mounjaro - opinion on variation to marketing authorisation](/en/medicines/human/variation/mounjaro)
+- [Database Linkage Study to Evaluate the Risk of Medullary Thyroid Carcinoma - post-authorisation study](https://catalogues.ema.europa.eu/study/1000000513)
 - [A Post-Marketing Safety Study of Mounjaro® (Tirzepatide) in Chinese Participants who are Overweight or have Obesity with or without Type 2 Diabetes Mellitus in a Real-World Setting - post-authorisation study](https://catalogues.ema.europa.eu/study/1000000461)
 
-**This page was last updated on** 11/12/2025
+**This page was last updated on** 30/01/2026
 
 ## Share this page
 

@@ -1,17 +1,17 @@
 ---
-document_datetime: 2026-01-14 11:13:52
+document_datetime: 2026-01-28 14:05:07
 document_pages: 72
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/abevmy-epar-product-information_en.pdf
 document_name: abevmy-epar-product-information_en.pdf
 version: success
-processing_time: 28.1587567
-conversion_datetime: 2026-01-17 13:31:00.049809
+processing_time: 26.3839975
+conversion_datetime: 2026-02-01 20:18:12.756028
 docling_version:
-  docling-serve: 1.10.0
-  docling-jobkit: 1.8.1
-  docling: 2.68.0
-  docling-core: 2.59.0
-  docling-ibm-models: 3.10.3
+  docling-serve: 1.11.0
+  docling-jobkit: 1.9.1
+  docling: 2.71.0
+  docling-core: 2.62.0
+  docling-ibm-models: 3.11.0
   docling-parse: 4.7.3
   python: cpython-313 (3.13.11)
   plaform: macOS-26.2-arm64-arm-64bit-Mach-O
@@ -21,8 +21,6 @@ docling_version:
 ## SUMMARY OF PRODUCT CHARACTERISTICS
 
 <div style=\"page-break-after: always\"></div>
-
-▼ This medicinal product is subject to additional monitoring. This will allow quick identification of new safety information. Healthcare professionals are asked to report any suspected adverse reactions. See section 4.8 for how to report adverse reactions.
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
@@ -58,9 +56,9 @@ Abevmy in combination with capecitabine is indicated for first-line treatment of
 
 Abevmy, in addition to platinum-based chemotherapy, is indicated for first-line treatment of adult patients with unresectable advanced, metastatic or recurrent non-small cell lung cancer other than predominantly squamous cell histology.
 
-<div style=\"page-break-after: always\"></div>
-
 Abevmy, in combination with erlotinib, is indicated for first-line treatment of adult patients with unresectable advanced, metastatic or recurrent non-squamous non-small cell lung cancer with Epidermal Growth Factor Receptor (EGFR) activating mutations (see section 5.1).
+
+<div style=\"page-break-after: always\"></div>
 
 Abevmy in combination with interferon alfa-2a is indicated for first line treatment of adult patients with advanced and/or metastatic renal cell cancer.
 
@@ -94,13 +92,13 @@ It is recommended that treatment be continued until progression of the underlyin
 
 ## Non-small cell lung cancer (NSCLC)
 
-First-line treatment of non-squamous NSCLC in combination with platinum-based chemotherapy
-
-<div style=\"page-break-after: always\"></div>
+## First-line treatment of non-squamous NSCLC in combination with platinum-based chemotherapy
 
 Abevmy is administered in addition to platinum-based chemotherapy for up to 6 cycles of treatment followed by Abevmy as a single agent until disease progression.
 
 The recommended dose of Abevmy is 7.5 mg/kg or 15 mg/kg bw given once every 3 weeks as an intravenous infusion.
+
+<div style=\"page-break-after: always\"></div>
 
 Clinical benefit in NSCLC patients has been demonstrated with both 7.5 mg/kg bw and 15 mg/kg bw doses (see section 5.1).
 
@@ -136,13 +134,11 @@ Abevmy is administered in combination with either carboplatin and gemcitabine fo
 
 ## Treatment of platinum-resistant recurrent disease
 
-Abevmy is administered in combination with one of the following agents - paclitaxel, topotecan (given weekly) or pegylated liposomal doxorubicin. The recommended dose of Abevmy is 10 mg/kg bw given once every 2 weeks as an intravenous infusion. When Abevmy is administered in combination with topotecan (given on days 1-5, every 3 weeks), the recommended dose of Abevmy is
-
-<div style=\"page-break-after: always\"></div>
-
-15 mg/kg bw given once every 3 weeks as an intravenous infusion. It is recommended that treatment be continued until disease progression or unacceptable toxicity (see section 5.1, study MO22224).
+Abevmy is administered in combination with one of the following agents - paclitaxel, topotecan (given weekly) or pegylated liposomal doxorubicin. The recommended dose of Abevmy is 10 mg/kg bw given once every 2 weeks as an intravenous infusion. When Abevmy is administered in combination with topotecan (given on days 1-5, every 3 weeks), the recommended dose of Abevmy is 15 mg/kg bw given once every 3 weeks as an intravenous infusion. It is recommended that treatment be continued until disease progression or unacceptable toxicity (see section 5.1, study MO22224).
 
 ## Cervical cancer
+
+<div style=\"page-break-after: always\"></div>
 
 Abevmy is administered in combination with one of the following chemotherapy regimens: paclitaxel and cisplatin or paclitaxel and topotecan.
 
@@ -188,13 +184,13 @@ For instructions on dilution of the medicinal product before administration, see
 - Hypersensitivity to Chinese Hamster Ovary (CHO) cell products or other recombinant human or humanised antibodies.
 - Pregnancy (see section 4.6).
 
-<div style=\"page-break-after: always\"></div>
-
 ## 4.4 Special warnings and precautions for use
 
 ## Traceability
 
 In order to improve the traceability of biological medicinal products, the name and the batch number of the administered product should be clearly recorded.
+
+<div style=\"page-break-after: always\"></div>
 
 ## Gastrointestinal (GI) perforations and fistulae (see section 4.8)
 
@@ -216,13 +212,19 @@ Necrotising fasciitis, including fatal cases, has rarely been reported in patien
 
 ## Hypertension (see section 4.8)
 
-An increased incidence of hypertension was observed in bevacizumab-treated patients. Clinical safety data suggest that the incidence of hypertension is likely to be dose-dependent. Pre-existing hypertension should be adequately controlled before starting bevacizumab treatment. There is no information on the effect of bevacizumab in patients with uncontrolled hypertension at the time of initiating therapy. Monitoring of blood pressure is generally recommended during therapy. In most cases hypertension was controlled adequately using standard antihypertensive treatment appropriate for the individual situation of the affected patient. The use of diuretics to manage hypertension is not advised in patients who receive a cisplatin-based chemotherapy regimen. Bevacizumab should be permanently discontinued if medically significant hypertension cannot be adequately controlled with antihypertensive therapy, or if the patient develops hypertensive crisis or hypertensive encephalopathy.
+An increased incidence of hypertension was observed in bevacizumab-treated patients. Clinical safety data suggest that the incidence of hypertension is likely to be dose-dependent. Pre-existing hypertension should be adequately controlled before starting bevacizumab treatment. There is no information on the effect of bevacizumab in patients with uncontrolled hypertension at the time of initiating therapy. Monitoring of blood pressure is generally recommended during therapy.
 
-Posterior reversible encephalopathy syndrome (PRES) (see section 4.8)
+In most cases hypertension was controlled adequately using standard antihypertensive treatment appropriate for the individual situation of the affected patient. The use of diuretics to manage hypertension is not advised in patients who receive a cisplatin-based chemotherapy regimen.
+
+Bevacizumab should be permanently discontinued if medically significant hypertension cannot be adequately controlled with antihypertensive therapy, or if the patient develops hypertensive crisis or hypertensive encephalopathy.
+
+## Posterior reversible encephalopathy syndrome (PRES) (see section 4.8)
+
+There have been rare reports of bevacizumab-treated patients developing signs and symptoms that are consistent with PRES, a rare neurologic disorder, which can present with the following signs and symptoms among others: seizures, headache, altered mental status, visual disturbance, or cortical blindness, with or without associated hypertension. A diagnosis of PRES requires confirmation by
 
 <div style=\"page-break-after: always\"></div>
 
-There have been rare reports of bevacizumab-treated patients developing signs and symptoms that are consistent with PRES, a rare neurologic disorder, which can present with the following signs and symptoms among others: seizures, headache, altered mental status, visual disturbance, or cortical blindness, with or without associated hypertension. A diagnosis of PRES requires confirmation by brain imaging, preferably magnetic resonance imaging (MRI). In patients developing PRES, treatment of specific symptoms including control of hypertension is recommended along with discontinuation of bevacizumab. The safety of reinitiating bevacizumab therapy in patients previously experiencing PRES is not known.
+brain imaging, preferably magnetic resonance imaging (MRI). In patients developing PRES, treatment of specific symptoms including control of hypertension is recommended along with discontinuation of bevacizumab. The safety of reinitiating bevacizumab therapy in patients previously experiencing PRES is not known.
 
 ## Proteinuria (see section 4.8)
 
@@ -248,15 +250,15 @@ Patients treated with bevacizumab have an increased risk of haemorrhage, especia
 
 Patients with untreated CNS metastases were routinely excluded from clinical trials with bevacizumab, based on imaging procedures or signs and symptoms. Therefore, the risk of CNS haemorrhage in such patients has not been prospectively evaluated in randomised clinical trials (see section 4.8). Patients should be monitored for signs and symptoms of CNS bleeding, and bevacizumab treatment discontinued in cases of intracranial bleeding.
 
-There is no information on the safety profile of bevacizumab in patients with congenital bleeding diathesis, acquired coagulopathy or in patients receiving full dose of anticoagulants for the treatment of thromboembolism prior to starting bevacizumab treatment, as such patients were excluded from clinical trials. Therefore, caution should be exercised before initiating therapy in these patients. However, patients who developed venous thrombosis while receiving therapy did not appear to have an increased rate of Grade 3 or above bleeding when treated with a full dose of warfarin and bevacizumab
-
-<div style=\"page-break-after: always\"></div>
-
-## concomitantly (NCI-CTCAE v.3).
+There is no information on the safety profile of bevacizumab in patients with congenital bleeding diathesis, acquired coagulopathy or in patients receiving full dose of anticoagulants for the treatment of thromboembolism prior to starting bevacizumab treatment, as such patients were excluded from clinical trials. Therefore, caution should be exercised before initiating therapy in these patients. However, patients who developed venous thrombosis while receiving therapy did not appear to have an increased rate of Grade 3 or above bleeding when treated with a full dose of warfarin and bevacizumab concomitantly (NCI-CTCAE v.3).
 
 ## Pulmonary haemorrhage/haemoptysis
 
-Patients with non-small cell lung cancer treated with bevacizumab may be at risk of serious, and in some cases fatal, pulmonary haemorrhage/haemoptysis. Patients with recent pulmonary haemorrhage/ haemoptysis (&gt; 2.5 mL of red blood) should not be treated with bevacizumab.
+Patients with non-small cell lung cancer treated with bevacizumab may be at risk of serious, and in
+
+<div style=\"page-break-after: always\"></div>
+
+some cases fatal, pulmonary haemorrhage/haemoptysis. Patients with recent pulmonary haemorrhage/ haemoptysis (&gt; 2.5 mL of red blood) should not be treated with bevacizumab.
 
 ## Aneurysms and artery dissections
 
@@ -286,11 +288,13 @@ Invasive dental procedures are also an identified risk factor. A dental examinat
 
 bevacizumab is not formulated for intravitreal use.
 
-<div style=\"page-break-after: always\"></div>
-
 ## Eye disorders
 
-Individual cases and clusters of serious ocular adverse reactions have been reported following unapproved intravitreal use of bevacizumab compounded from vials approved for intravenous administration in cancer patients. These reactions included infectious endophthalmitis, intraocular inflammation such as sterile endophthalmitis, uveitis and vitritis, retinal detachment, retinal pigment epithelial tear, intraocular pressure increased, intraocular haemorrhage such as vitreous haemorrhage or retinal haemorrhage and conjunctival haemorrhage. Some of these reactions have resulted in various degrees of visual loss, including permanent blindness.
+Individual cases and clusters of serious ocular adverse reactions have been reported following unapproved intravitreal use of bevacizumab compounded from vials approved for intravenous
+
+<div style=\"page-break-after: always\"></div>
+
+administration in cancer patients. These reactions included infectious endophthalmitis, intraocular inflammation such as sterile endophthalmitis, uveitis and vitritis, retinal detachment, retinal pigment epithelial tear, intraocular pressure increased, intraocular haemorrhage such as vitreous haemorrhage or retinal haemorrhage and conjunctival haemorrhage. Some of these reactions have resulted in various degrees of visual loss, including permanent blindness.
 
 ## Systemic effects following intravitreal use
 
@@ -312,7 +316,9 @@ This medicinal product contains 16.784 mg of sodium in each 16 mL vial, equivale
 
 No clinically relevant interaction of co-administered chemotherapy on bevacizumab pharmacokinetics was observed based on the results of population pharmacokinetic analyses. There were neither statistically significant nor clinically relevant differences in bevacizumab clearance in patients receiving bevacizumab monotherapy compared to patients receiving bevacizumab in combination with interferon alfa-2a, erlotinib or chemotherapies (IFL, 5-FU/LV, carboplatin / paclitaxel, capecitabine, doxorubicin or cisplatin/gemcitabine).
 
-Effect of bevacizumab on the pharmacokinetics of other antineoplastic agents No clinically relevant interaction of bevacizumab was observed on the pharmacokinetics of coadministered interferon alpha 2a, erlotinib (and its active metabolite OSI-420), or the chemotherapies irinotecan (and its active metabolite SN38), capecitabine, oxaliplatin (as determined by measurement of free and total platinum), and cisplatin. Conclusions on the impact of bevacizumab on gemcitabine pharmacokinetics cannot be drawn.
+## Effect of bevacizumab on the pharmacokinetics of other antineoplastic agents
+
+No clinically relevant interaction of bevacizumab was observed on the pharmacokinetics of coadministered interferon alpha 2a, erlotinib (and its active metabolite OSI-420), or the chemotherapies irinotecan (and its active metabolite SN38), capecitabine, oxaliplatin (as determined by measurement of free and total platinum), and cisplatin. Conclusions on the impact of bevacizumab on gemcitabine pharmacokinetics cannot be drawn.
 
 ## Combination of bevacizumab and sunitinib malate
 
@@ -320,13 +326,11 @@ In two clinical trials of metastatic renal cell carcinoma, microangiopathic haem
 
 MAHA is a haemolytic disorder which can present with red cell fragmentation, anaemia, and thrombocytopenia. In addition, hypertension (including hypertensive crisis), elevated creatinine, and neurological symptoms were observed in some of these patients. All of these findings were reversible upon discontinuation of bevacizumab and sunitinib malate (see Hypertension, Proteinuria, PRES in section 4.4).
 
-Combination with platinum- or taxane-based therapies (see sections 4.4 and 4.8) Increased rates of severe neutropenia, febrile neutropenia, or infection with or without severe
-
-<div style=\"page-break-after: always\"></div>
-
-neutropenia (including some fatalities) have been observed mainly in patients treated with platinumor taxane-based therapies in the treatment of NSCLC and mBC.
+Combination with platinum- or taxane-based therapies (see sections 4.4 and 4.8) Increased rates of severe neutropenia, febrile neutropenia, or infection with or without severe neutropenia (including some fatalities) have been observed mainly in patients treated with platinumor taxane-based therapies in the treatment of NSCLC and mBC.
 
 ## Radiotherapy
+
+<div style=\"page-break-after: always\"></div>
 
 The safety and efficacy of concomitant administration of radiotherapy and bevacizumab has not been established.
 
@@ -358,13 +362,11 @@ Bevacizumab has minor influence on the ability to drive and use machines. Howeve
 
 ## Summary of the safety profile
 
-The overall safety profile of bevacizumab is based on data from over 5,700 patients with various malignancies, predominantly treated with bevacizumab in combination with chemotherapy in clinical
-
-<div style=\"page-break-after: always\"></div>
-
-trials.
+The overall safety profile of bevacizumab is based on data from over 5,700 patients with various malignancies, predominantly treated with bevacizumab in combination with chemotherapy in clinical trials.
 
 The most serious adverse reactions were:
+
+<div style=\"page-break-after: always\"></div>
 
 - Gastrointestinal perforations (see section 4.4).
 - Haemorrhage, including pulmonary haemorrhage/haemoptysis, which is more common in nonsmall cell lung cancer patients (see section 4.4).
@@ -460,12 +462,13 @@ Table 2: Severe adverse reactions by frequency
 | Respiratory, thoracic and mediastinal disorders |                                                                   | Pulmonary haemorrhage/ haemoptysis a,b , Pulmonary embolism, Epistaxis, Dyspnoea, Hypoxia                                              |                    | Pulmonary hypertension c , Nasal septum perforation c                                                                   |
 | Gastrointestinal disorders                      | Diarrhoea, Nausea, Vomiting, Abdominal pain                       | Intestinal perforation, Ileus, Intestinal obstruction, Recto- vaginal fistulae c,d , Gastrointestinal disorder, Stomatitis, Proctalgia |                    | Gastrointestinal perforation a,b , Gastrointestinal ulcer c , Rectal haemorrhage                                        |
 | Hepatobiliary disorders                         |                                                                   |                                                                                                                                        |                    | Gallbladder perforation b,c                                                                                             |
-| Skin and subcutaneous tissue disorders          |                                                                   | Wound healing complications a,b , Palmar-plantar erythrodysaesthesia syndrome                                                          |                    |                                                                                                                         |
+| Skin and subcutaneous tissue disorders          |                                                                   | Wound healing complications a,b , Palmar-plantar erythrodysaesthesia                                                                   |                    |                                                                                                                         |
 
 <div style=\"page-break-after: always\"></div>
 
 | System organ class                                   | Very common       | Common                                                          | Rare   | Not known                    |
 |------------------------------------------------------|-------------------|-----------------------------------------------------------------|--------|------------------------------|
+|                                                      |                   | syndrome                                                        |        |                              |
 | Musculoskeletal and connective tissue disorders      |                   | Fistula a,b , Myalgia, Arthralgia, Muscular weakness, Back Pain |        | Osteonecrosis of the jaw b,c |
 | Renal and urinary disorders                          |                   | Proteinuria a,b                                                 |        |                              |
 | Reproductive system and breast disorders             |                   | Pelvic pain                                                     |        | Ovarian failure a,b          |
@@ -474,9 +477,9 @@ Table 2: Severe adverse reactions by frequency
 
 Table 2 provides the frequency of severe adverse reactions. Severe reactions are defined as adverse events with at least a 2% difference compared to the control arm in clinical studies for NCI-CTCAE Grade 3-5 reactions. Table 2 also includes adverse reactions which are considered by the MAH to be clinically significant or severe. These clinically significant adverse reactions were reported in clinical trials but the grade 3-5 reactions did not meet the threshold of at least a 2% difference compared to the control arm. Table 2 also includes clinically significant adverse reactions that were observed only in the postmarketing setting, therefore, the frequency and NCI-CTCAE grade is not known.These clinically significant reactions have therefore been included in Table 2 within the column entitled 'Frequency Not Known.'
 
-a Terms represent a group of events that describe a medical concept rather than a single condition or preferred MedDRA (Medical Dictionary for Regulatory Activities) term. This group of medical terms may involve the same underlying pathophysiology (e.g. arterial thromboembolic reactions include cerebrovascular accident, myocardial infarction, transient ischemic attack and other arterial thromboembolic reactions).
+a Terms represent a group of events that describe a medical concept rather than a single condition or MedDRA (Medical Dictionary for Regulatory Activities) preferred term. This group of medical terms may involve the same underlying pathophysiology (e.g. arterial thromboembolic reactions include cerebrovascular accident, myocardial infarction, transient ischaemic attack and other arterial thromboembolic reactions).
 
-- b For additional information refer below within section \"Further information on selected serious adverse reactions\"
+b For additional information refer below within section \"Further information on selected serious adverse reactions\"
 
 c For further information please refer to Table 3 'Adverse reactions reported in post-marketing setting.'
 
@@ -488,11 +491,13 @@ d Recto-vaginal fistulae are the most common fistulae in the GI-vaginal fistula 
 
 Bevacizumab has been associated with serious cases of gastrointestinal perforation.
 
-Gastrointestinal perforations have been reported in clinical trials with an incidence of less than 1% in patients with non-squamous non-small cell lung cancer, up to 1.3% in patients with metastatic breast cancer, up to 2.0% in patients with metastatic renal cell cancer or in patients with ovarian cancer, and up to 2.7% (including gastrointestinal fistula and abscess) in patients with metastatic colorectal cancer. From a clinical trial in patients with persistent, recurrent, or metastatic cervical cancer (study GOG-0240), GI perforations (all grade) were reported in 3.2% of patients, all of whom had a history of prior pelvic radiation.
+Gastrointestinal perforations have been reported in clinical trials with an incidence of less than 1% in patients with non-squamous non-small cell lung cancer, up to 1.3% in patients with metastatic breast cancer, up to 2.0% in patients with metastatic renal cell cancer or in patients with ovarian cancer, and up to 2.7% (including gastrointestinal fistula and abscess) in patients with metastatic colorectal cancer. From a clinical trial in patients with persistent, recurrent, or metastatic cervical cancer (study GOG0240), GI perforations (all grade) were reported in 3.2% of patients, all of whom had a history of prior pelvic radiation.
 
-The occurrence of those events varied in type and severity, ranging from free air seen on the plain abdominal X-ray, which resolved without treatment, to intestinal perforation with abdominal abscess and fatal outcome. In some cases underlying intra-abdominal inflammation was present, either from gastric ulcer disease, tumour necrosis, diverticulitis, or chemotherapy-associated colitis.
+The occurrence of those events varied in type and severity, ranging from free air seen on the plain abdominal X-ray, which resolved without treatment, to intestinal perforation with abdominal abscess and fatal outcome. In some cases underlying intra-abdominal inflammation was present, either from
 
 <div style=\"page-break-after: always\"></div>
+
+gastric ulcer disease, tumour necrosis, diverticulitis, or chemotherapy-associated colitis.
 
 Fatal outcome was reported in approximately a third of serious cases of gastrointestinal perforations, which represents between 0.2%-1% of all bevacizumab treated patients.
 
@@ -506,7 +511,7 @@ In a trial of patients with persistent, recurrent or metastatic cervical cancer,
 
 Bevacizumab use has been associated with serious cases of fistulae including reactions resulting in death.
 
-From a clinical trial in patients with persistent, recurrent, or metastatic cervical cancer (GOG-240), 1.8% of bevacizumab-treated patients and 1.4% of control patients were reported to have had non-gastrointestinal vaginal, vesical, or female genital tract fistulae.
+From a clinical trial in patients with persistent, recurrent, or metastatic cervical cancer (GOG-240), 1.8% of bevacizumab-treated patients and 1.4% of control patients were reported to have had nongastrointestinal vaginal, vesical, or female genital tract fistulae.
 
 Uncommon (≥ 0.1% to &lt; 1%) reports of fistulae that involve areas of the body other than the gastrointestinal tract (e.g. bronchopleural and biliary fistulae) were observed across various indications. Fistulae have also been reported in post-marketing experience.
 
@@ -516,7 +521,7 @@ Reactions were reported at various time points during treatment ranging from one
 
 As bevacizumab may adversely impact wound healing, patients who had major surgery within the last 28 days were excluded from participation in phase III clinical trials.
 
-In clinical trials of metastatic carcinoma of the colon or rectum, there was no increased risk of post-operative bleeding or wound healing complications observed in patients who underwent major surgery 28-60 days prior to starting bevacizumab. An increased incidence of post-operative bleeding or wound healing complication occurring within 60 days of major surgery was observed if the patient was being treated with bevacizumab at the time of surgery. The incidence varied between 10% (4/40) and 20% (3/15).
+In clinical trials of metastatic carcinoma of the colon or rectum, there was no increased risk of postoperative bleeding or wound healing complications observed in patients who underwent major surgery 28-60 days prior to starting bevacizumab. An increased incidence of post-operative bleeding or wound healing complication occurring within 60 days of major surgery was observed if the patient was being treated with bevacizumab at the time of surgery. The incidence varied between 10% (4/40) and 20% (3/15).
 
 Serious wound healing complications, including anastomotic complications, have been reported, some of which had a fatal outcome.
 
@@ -526,11 +531,9 @@ In clinical trials of ovarian cancer, Grade 3-5 wound healing complications were
 
 ## Hypertension (see section 4.4)
 
-In clinical trials, with the exception of study JO25567, the overall incidence of hypertension (all grades) ranged up to 42.1% in the bevacizumab containing arms compared with up to 14% in the
-
 <div style=\"page-break-after: always\"></div>
 
-control arms. The overall incidence of NCI-CTC Grade 3 and 4 hypertension in patients receiving bevacizumab ranged from 0.4% to 17.9%. Grade 4 hypertension (hypertensive crisis) occurred in up to 1.0% of patients treated with bevacizumab and chemotherapy compared to up to 0.2% of patients treated with the same chemotherapy alone.
+In clinical trials, with the exception of study JO25567, the overall incidence of hypertension (all grades) ranged up to 42.1% in the bevacizumab containing arms compared with up to 14% in the control arms. The overall incidence of NCI-CTC Grade 3 and 4 hypertension in patients receiving bevacizumab ranged from 0.4% to 17.9%. Grade 4 hypertension (hypertensive crisis) occurred in up to 1.0% of patients treated with bevacizumab and chemotherapy compared to up to 0.2% of patients treated with the same chemotherapy alone.
 
 In study JO25567, all grade hypertension was observed in 77.3% of the patients who received bevacizumab in combination with erlotinib as first-line treatment for non-squamous NSCLC with EGFR activating mutations, compared to 14.3% of patients treated with erlotinib alone. Grade 3 hypertension was 60.0% in patients treated with bevacizumab in combination with erlotinib compared to 11.7% in patients treated with erlotinib alone. There were no grade 4 or 5 hypertension events.
 
@@ -558,11 +561,13 @@ Proteinuria ranged in severity from clinically asymptomatic, transient, trace pr
 
 In  clinical trials across all indications the overall incidence of NCI-CTCAE v.3 Grade 3-5 bleeding reactions ranged from 0.4% to 6.9% in bevacizumab treated patients, compared with up to 4.5% of patients in the chemotherapy control group.
 
-From a clinical trial in patients with persistent, recurrent, or metastatic cervical cancer (study GOG-0240), grade 3-5 bleeding reactions have been reported in up to 8.3% of patients treated with bevacizumab in combination with paclitaxel and topotecan compared with up to 4.6% of patients treated with paclitaxel and topotecan.
+From a clinical trial in patients with persistent, recurrent, or metastatic cervical cancer (study GOG0240), grade 3-5 bleeding reactions have been reported in up to 8.3% of patients treated with
 
 <div style=\"page-break-after: always\"></div>
 
-The haemorrhagic reactions that have been observed in clinical trials were predominantly tumour-associated haemorrhage (see below) and minor mucocutaneous haemorrhage (e.g. epistaxis).
+bevacizumab in combination with paclitaxel and topotecan compared with up to 4.6% of patients treated with paclitaxel and topotecan.
+
+The haemorrhagic reactions that have been observed in clinical trials were predominantly tumourassociated haemorrhage (see below) and minor mucocutaneous haemorrhage (e.g. epistaxis).
 
 ## Tumour-associated haemorrhage (see section 4.4)
 
@@ -586,11 +591,11 @@ There have also been less common reactions of minor mucocutaneous haemorrhage in
 
 An increased incidence of arterial thromboembolic reactions was observed in patients treated with bevacizumab across indications, including cerebrovascular accidents, myocardial infarction, transient ischaemic attacks, and other arterial thromboembolic reactions.
 
-In clinical trials, the overall incidence of arterial thromboembolic reactions ranged up to 3.8% in the bevacizumab containing arms compared with up to 2.1% in the chemotherapy control arms. Fatal outcome was reported in 0.8% of patients receiving bevacizumab compared to 0.5% in patients
+In clinical trials, the overall incidence of arterial thromboembolic reactions ranged up to 3.8% in the
 
 <div style=\"page-break-after: always\"></div>
 
-receiving chemotherapy alone. Cerebrovascular accidents (including transient ischaemic attacks) were reported in up to 2.7% of patients treated with bevacizumab in combination with chemotherapy compared to up to 0.5% of patients treated with chemotherapy alone. Myocardial infarction was reported in up to 1.4% of patients treated with bevacizumab in combination with chemotherapy compared to up to 0.7% of patients treated with chemotherapy alone.
+bevacizumab containing arms compared with up to 2.1% in the chemotherapy control arms. Fatal outcome was reported in 0.8% of patients receiving bevacizumab compared to 0.5% in patients receiving chemotherapy alone. Cerebrovascular accidents (including transient ischaemic attacks) were reported in up to 2.7% of patients treated with bevacizumab in combination with chemotherapy compared to up to 0.5% of patients treated with chemotherapy alone. Myocardial infarction was reported in up to 1.4% of patients treated with bevacizumab in combination with chemotherapy compared to up to 0.7% of patients treated with chemotherapy alone.
 
 In one clinical trial evaluating bevacizumab in combination with 5-fluorouracil/folinic acid, AVF2192g, patients with metastatic colorectal cancer who were not candidates for treatment with irinotecan were included. In this trial arterial thromboembolic reactions were observed in 11% (11/100) of patients compared to 5.8% (6/104) in the chemotherapy control group.
 
@@ -602,7 +607,7 @@ In clinical trials across indications, the overall incidence of venous thromboem
 
 Grade 3-5 (NCI-CTCAE v.3) venous thromboembolic reactions have been reported in up to 7.8% of patients treated with chemotherapy plus bevacizumab compared with up to 4.9% in patients treated with chemotherapy alone (across indications, excluding persistent, recurrent, or metastatic cervical cancer).
 
-From a clinical trial in patients with persistent, recurrent, or metastatic cervical cancer (study GOG-0240), grade 3-5 venous thromboembolic events have been reported in up to 15.6% of patients treated with bevacizumab in combination with paclitaxel and cisplatin compared with up to 7.0% of patients treated with paclitaxel and cisplatin.
+From a clinical trial in patients with persistent, recurrent, or metastatic cervical cancer (study GOG0240), grade 3-5 venous thromboembolic events have been reported in up to 15.6% of patients treated with bevacizumab in combination with paclitaxel and cisplatin compared with up to 7.0% of patients treated with paclitaxel and cisplatin.
 
 Patients who have experienced a venous thromboembolic reaction may be at higher risk for a recurrence if they receive bevacizumab in combination with chemotherapy versus chemotherapy alone.
 
@@ -614,9 +619,11 @@ Most patients who developed CHF during mBC trials showed improved symptoms and/o
 
 In  most clinical  trials  of  bevacizumab, patients  with pre-existing CHF  of  NYHA (New York Heart Association) II-IV  were excluded, therefore, no information is available on the risk of CHF in this population.
 
-Prior anthracyclines exposure and/or prior radiation to the chest wall may be possible risk factors for the development of CHF.
+Prior anthracyclines exposure and/or prior radiation to the chest wall may be possible risk factors for
 
 <div style=\"page-break-after: always\"></div>
+
+the development of CHF.
 
 An increased incidence of CHF has been observed in a clinical trial of patients with diffuse large Bcell lymphoma when receiving bevacizumab with a cumulative doxorubicin dose greater than 300 mg/m 2 . This phase III clinical trial compared rituximab / cyclophosphamide /doxorubicin /vincristine /prednisone (R-CHOP) plus bevacizumab to R-CHOP without bevacizumab. While the incidence of CHF was, in both arms, above that previously observed for doxorubicin therapy, the rate was higher in the R-CHOP plus bevacizumab arm. These results suggest that close clinical observation with appropriate cardiac assessments should be considered for patients exposed to cumulative doxorubicin doses greater than 300 mg/m 2  when combined with bevacizumab.
 
@@ -644,11 +651,11 @@ Clinical trials have shown that transient increases in serum creatinine (ranging
 
 ## Elderly
 
-In randomised clinical trials, age &gt; 65 years was associated with an increased risk of developing arterial thromboembolic reactions, including cerebrovascular accidents (CVAs), transient ischaemic attacks (TIAs) and myocardial infarctions (MIs). Other reactions with a higher frequency seen in patients over 65 were Grade 3-4 leucopenia and thrombocytopenia (NCICTCAE v.3); and all Grade neutropenia, diarrhoea, nausea, headache and fatigue as compared to those aged ≤ 65 years when treated with bevacizumab (see sections 4.4 and 4.8 under Thromboembolism ). In one clinical trial, the incidence of hypertension of grade ≥ 3 was two fold higher in patients aged &gt; 65 years than in the younger age group (&lt;65 years). In a study of platinum -resistant recurrent ovarian cancer patients, alopecia, mucosal inflammation, peripheral sensory neuropathy, proteinuria and hypertension were
+In randomised clinical trials, age &gt; 65 years was associated with an increased risk of developing arterial thromboembolic reactions, including cerebrovascular accidents (CVAs), transient ischaemic attacks (TIAs) and myocardial infarctions (MIs). Other reactions with a higher frequency seen in patients over 65 were Grade 3-4 leucopenia and thrombocytopenia (NCICTCAE v.3); and all Grade neutropenia, diarrhoea, nausea, headache and fatigue as compared to those aged ≤ 65 years when treated with bevacizumab (see sections 4.4 and 4.8 under Thromboembolism ). In one clinical trial, the incidence of hypertension of grade ≥ 3 was two fold higher in patients aged &gt; 65 years than in the
 
 <div style=\"page-break-after: always\"></div>
 
-also reported and occurred at a rate at least 5% higher in the CT + BV arm for bevacizumab-treated patients ≥ 65 years of age compared with bevacizumab -treated patients aged &lt; 65 years.
+younger age group (&lt;65 years). In a study of platinum -resistant recurrent ovarian cancer patients, alopecia, mucosal inflammation, peripheral sensory neuropathy, proteinuria and hypertension were also reported and occurred at a rate at least 5% higher in the CT + BV arm for bevacizumab-treated patients ≥ 65 years of age compared with bevacizumab -treated patients aged &lt; 65 years.
 
 No increase in the incidence of other reactions, including gastrointestinal perforation, wound healing complications, congestive heart failure, and haemorrhage was observed in elderly patients (&gt; 65 years) receiving bevacizumab as compared to those aged ≤ 65 years treated with bevacizumab.
 
@@ -906,7 +913,7 @@ Table 9: Efficacy results for study ML18147 (ITT population)
 
 Statistically significant improvements in PFS were also observed. Objective response rate was low in both treatment arms and the difference was not significant.
 
-Study E3200 used a 5 mg/kg/week equivalent dose of bevacizumab in bevacizumab-naïve patients, while study ML18147 used a 2.5 mg/kg/week equivalent dose of bevacizumab in bevacizumab-pretreated patients. A cross-trial comparison of the efficacy and safety data is limited by differences between these studies, most notably in patient populations, previous bevacizumab exposure and chemotherapy regimens. Both the 5 mg/kg/week and 2.5 mg/kg/week equivalent doses of bevacizumab provided a statistically significant benefit with regards to OS (HR 0.751 in study E3200; HR 0.81 in study ML18147) and PFS (HR 0.518 in study E3200; HR 0.68 in study ML18147). In terms of safety, there was a higher overall incidence of Grade 3-5 AEs in study E3200 relative to study ML18147.
+Study E3200 used a 5 mg/kg/week equivalent dose of bevacizumab in bevacizumab-naïve patients, while study ML18147 used a 2.5 mg/kg/week equivalent dose of bevacizumab in bevacizumabpretreated patients. A cross-trial comparison of the efficacy and safety data is limited by differences between these studies, most notably in patient populations, previous bevacizumab  exposure and chemotherapy regimens. Both the 5 mg/kg/week and 2.5 mg/kg/week equivalent doses  of bevacizumab provided a statistically significant benefit with regards to OS (HR 0.751 in study E3200; HR 0.81 in study ML18147) and PFS (HR 0.518 in study E3200; HR 0.68 in study ML18147). In terms of safety, there was a higher overall incidence of Grade 3-5 AEs in study E3200 relative to study ML18147.
 
 ## Metastatic breast cancer (mBC)
 
@@ -1178,8 +1185,8 @@ Table 16: Efficacy results from study GOG-0218
 Prespecified PFS analyses were conducted, all with a cut-off date of 29 September 2009. The results of these prespecified analyses are as follows:
 
 - The protocol specified analysis of investigator-assessed PFS (without censoring for CA-125 progression or non-protocol therapy [NPT]) shows a stratified hazard ratio of 0.71 (95% CI: 0.61-0.83, 1-sided log-rank pvalue &lt; 0.0001) when CPB15+ is compared with CPP, with a median PFS of 10.4 months in the CPP arm and 14.1 months in the CPB15+ arm.
-- The primary analysis of investigator-assessed PFS (censoring for CA-125 progressions and NPT) shows a stratified hazard ratio of 0.62 (95% CI: 0.52-0.75, 1-sided log-rank p-value &lt; 0.0001) when CPB15+ is compared with CPP, with a median PFS of 12.0 months in the CPP arm and 18.2 months in the CPB15+ arm.
-- The analysis of PFS as determined by the independent review committee (censoring for NPT) shows a stratified hazard ratio of 0.62 (95% CI: 0.50-0.77, 1-sided log-rank p-value &lt; 0.0001) when CPB15+ is compared with CPP, with a median PFS of 13.1 in the CPP arm and 19.1 months in the CPB15+ arm.
+- The primary analysis of investigator-assessed PFS (censoring for CA-125 progressions and NPT) shows a stratified hazard ratio of 0.62 (95% CI: 0.52-0.75, 1-sided log-rank pvalue &lt; 0.0001) when CPB15+ is compared with CPP, with a median PFS of 12.0 months in the CPP arm and 18.2 months in the CPB15+ arm.
+- The analysis of PFS as determined by the independent review committee (censoring for NPT) shows a stratified hazard ratio of 0.62 (95% CI: 0.50-0.77, 1-sided log-rank pvalue &lt; 0.0001) when CPB15+ is compared with CPP, with a median PFS of 13.1 in the CPP arm and 19.1 months in the CPB15+ arm.
 
 PFS subgroup analyses by disease stage and debulking status are summarised in Table 17. These results demonstrate robustness of the analysis of PFS as shown in Table 16.
 
@@ -1570,9 +1577,7 @@ average serum concentrations approximately 3 times larger than in humans receivi
 
 ## 6.1 List of excipients
 
-Sodium phosphate (E339) α , α - trehalose dihydrate Polysorbate 20 (E432)
-
-Water for injections
+Sodium phosphate (E339) α , α - trehalose dihydrate Polysorbate 20 (E432) Water for injections
 
 ## 6.2 Incompatibilities
 
@@ -1580,9 +1585,7 @@ This medicinal product must not be mixed with other medicinal products except th
 
 ## 6.3 Shelf life
 
-## Unopened vial
-
-30 months
+Unopened vial 30 months
 
 ## Diluted medicinal product
 
@@ -1630,7 +1633,7 @@ EU/1/20/1515/001 EU/1/20/1515/002 EU/1/20/1515/003 EU/1/20/1515/004 EU/1/20/1515
 
 ## 9. DATE OF FIRST AUTHORISATION/RENEWAL OF THE AUTHORISATION
 
-Date of first authorisation: 21 April 2021
+Date of first authorisation: 21 April 2021 Date of last renewal:
 
 ## 10. DATE OF REVISION OF THE TEXT
 
@@ -1640,11 +1643,10 @@ Detailed information on this medicinal product is available on the website of th
 
 ## ANNEX II
 
-- A. MANUFACTURER OF THE BIOLOGICAL ACTIVE SUBSTANCE AND
-
-## MANUFACTURERS RESPONSIBLE FOR BATCH RELEASE B. CONDITIONS OR RESTRICTIONS REGARDING SUPPLY AND USE C. OTHER CONDITIONS AND REQUIREMENTS OF THE MARKETING AUTHORISATION CONDITIONS OR RESTRICTIONS WITH REGARD TO THE SAFE
-
-## D. AND EFFECTIVE USE OF THE MEDICINAL PRODUCT
+- A. MANUFACTURER OF THE BIOLOGICAL ACTIVE SUBSTANCE AND MANUFACTURERS RESPONSIBLE FOR BATCH RELEASE
+- B. CONDITIONS OR RESTRICTIONS REGARDING SUPPLY AND USE
+- C. OTHER CONDITIONS AND REQUIREMENTS OF THE MARKETING AUTHORISATION
+- D. CONDITIONS OR RESTRICTIONS WITH REGARD TO THE SAFE AND EFFECTIVE USE OF THE MEDICINAL PRODUCT
 
 <div style=\"page-break-after: always\"></div>
 
@@ -1711,7 +1713,7 @@ Sodium phosphate (E339), α, α - trehalose dihydrate, polysorbate 20 (E432), wa
 
 ## 4. PHARMACEUTICAL FORM AND CONTENTS
 
-Concentrate for solution for infusion
+## Concentrate for solution for infusion
 
 1 vial of 4 mL 5 vials of 4 mL
 
@@ -1731,11 +1733,11 @@ Keep out of the sight and reach of children.
 
 EXP
 
+<div style=\"page-break-after: always\"></div>
+
 ## 9. SPECIAL STORAGE CONDITIONS
 
 Store in a refrigerator. Do not freeze.
-
-<div style=\"page-break-after: always\"></div>
 
 Keep the vial in the outer carton in order to protect from light.
 
@@ -1757,33 +1759,29 @@ D13 R20R
 
 ## 12. MARKETING AUTHORISATION NUMBER(S)
 
-## 13. BATCH NUMBER
-
-14. GENERAL CLASSIFICATION FOR SUPPLY
-
-15. INSTRUCTIONS ON USE
-
-16. INFORMATION IN BRAILLE
-
-17. UNIQUE IDENTIFIER - 2D BARCODE
-
 EU/1/20/1515/001 - 1 vial
 
 EU/1/20/1515/002 - 5 vials
 
+## 13. BATCH NUMBER
+
 Lot
+
+14. GENERAL CLASSIFICATION FOR SUPPLY
+15. INSTRUCTIONS ON USE
+16. INFORMATION IN BRAILLE
 
 Justification for not including Braille accepted.
 
+## 17. UNIQUE IDENTIFIER - 2D BARCODE
+
 2D barcode carrying the unique identifier included.
-
-PC
-
-SN
 
 ## 18. UNIQUE IDENTIFIER - HUMAN READABLE DATA
 
-NN
+<div style=\"page-break-after: always\"></div>
+
+## PC SN NN
 
 ## 1. NAME OF THE MEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION
 
@@ -1797,7 +1795,9 @@ NN
 
 6. OTHER
 
-Abevmy 25 mg/mL sterile concentrate bevacizumab For IV use after dilution
+Abevmy 25 mg/mL sterile concentrate bevacizumab
+
+For IV use after dilution
 
 EXP
 
@@ -1857,9 +1857,21 @@ Store in a refrigerator. Do not freeze.
 
 Keep the vial in the outer carton in order to protect from light.
 
-## 10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
+10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
+
+## 12. MARKETING AUTHORISATION NUMBER(S)
+
+## 13. BATCH NUMBER
+
+## 14. GENERAL CLASSIFICATION FOR SUPPLY
+
+15. INSTRUCTIONS ON USE
+
+## 16. INFORMATION IN BRAILLE
+
+## 17. UNIQUE IDENTIFIER - 2D BARCODE
 
 Biosimilar Collaborations Ireland Limited
 
@@ -1873,49 +1885,37 @@ Ireland
 
 D13 R20R
 
-## 12. MARKETING AUTHORISATION NUMBER(S)
-
 EU/1/20/1515/003 - 1 vial
 
 EU/1/20/1515/004 - 2 vials
 
 EU/1/20/1515/005 - 3 vials
 
-## 13. BATCH NUMBER
-
 Lot
 
-## 14. GENERAL CLASSIFICATION FOR SUPPLY
-
-15. INSTRUCTIONS ON USE
-
-## 16. INFORMATION IN BRAILLE
-
 Justification for not including Braille accepted.
-
-## 17. UNIQUE IDENTIFIER - 2D BARCODE
 
 2D barcode carrying the unique identifier included.
 
 ## 18. UNIQUE IDENTIFIER - HUMAN READABLE DATA
 
-PC
+PC SN
 
-SN
+<div style=\"page-break-after: always\"></div>
 
 NN
 
 <div style=\"page-break-after: always\"></div>
 
-## MINIMUM PARTICULARS TO APPEAR ON SMALL IMMEDIATE PACKAGING UNITS VIAL
+| MINIMUMPARTICULARSTOAPPEARONSMALLIMMEDIATEPACKAGINGUNITS   |
+|------------------------------------------------------------|
+| VIAL                                                       |
 
-| 1.   | NAMEOFTHEMEDICINALPRODUCTANDROUTE(S)OFADMINISTRATION   |
-|------|--------------------------------------------------------|
+## 1. NAME OF THE MEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION
 
 Abevmy 25 mg/mL sterile concentrate bevacizumab For IV use after dilution
 
-| 2.   | METHODOFADMINISTRATION   |
-|------|--------------------------|
+2. METHOD OF ADMINISTRATION
 
 | 3.   | EXPIRYDATE   |
 |------|--------------|
@@ -1937,15 +1937,13 @@ Lot
 
 <div style=\"page-break-after: always\"></div>
 
-- B. PACKAGE LEAFLET
+## B. PACKAGE LEAFLET
 
 <div style=\"page-break-after: always\"></div>
 
 ## Package leaflet: Information for the user
 
 ## Abevmy 25 mg/mL concentrate for solution for infusion bevacizumab
-
-This medicine is subject to additional monitoring. This will allow quick identification of new safety information. You can help by reporting any side effects you may get. See the end of section 4 for how to report side effects.
 
 ## Read all of this leaflet carefully before you start using this medicine because it contains important information for you.
 
@@ -1978,11 +1976,9 @@ Abevmy will be administered in combination with erlotinib.
 
 Abevmy is also used for treatment of adult patients with advanced kidney cancer. When used for patients with kidney cancer, it will be administered with another type of medicine called interferon.
 
-Abevmy is also used for the treatment of adult patients with advanced epithelial ovarian, fallopian
+Abevmy is also used for the treatment of adult patients with advanced epithelial ovarian, fallopian tube, or primary peritoneal cancer. When used for patients with epithelial ovarian, fallopian tube, or primary peritoneal cancer, it will be administered in combination with carboplatin and paclitaxel.
 
 <div style=\"page-break-after: always\"></div>
-
-tube, or primary peritoneal cancer. When used for patients with epithelial ovarian, fallopian tube, or primary peritoneal cancer, it will be administered in combination with carboplatin and paclitaxel.
 
 When used for those adult patients with advanced epithelial ovarian, fallopian tube, or primary peritoneal cancer whose disease has come back at least 6 months after the last time they were treated with a chemotherapy regimen containing a platinum agent, Abevmy will be administered in combination with carboplatin and gemcitabine or with carboplatin and paclitaxel.
 
@@ -2011,13 +2007,13 @@ Talk to your doctor, pharmacist or nurse before you are given Abevmy:
 - This medicine increases the risk of having protein in your urine especially if you already have high blood pressure.
 - The risk of developing blood clots in your arteries (a type of blood vessel) can increase if you are over 65 years old, if you have diabetes, or if you have had previous blood clots in your arteries. Please talk to your doctor since blood clots can lead to heart attack and stroke.
 - Abevmy can also increase the risk of developing blood clots in your veins (a type of blood vessel).
-- This medicine may cause bleeding, especially tumour-related bleeding. Please consult your doctor if you or your family tend to suffer from bleeding problems or you are taking medicines
+- This medicine may cause bleeding, especially tumour-related bleeding. Please consult your doctor if you or your family tend to suffer from bleeding problems or you are taking medicines to thin the blood for any reason.
+- It is possible that Abevmy may cause bleeding in and around your brain. Please discuss this
 
 <div style=\"page-break-after: always\"></div>
 
-to thin the blood for any reason.
+with your doctor if you have metastatic cancer affecting your brain.
 
-- It is possible that Abevmy may cause bleeding in and around your brain. Please discuss this with your doctor if you have metastatic cancer affecting your brain.
 - It is possible that Abevmy can increase the risk of bleeding in your lungs, including coughing or spitting blood. Please discuss with your doctor if you noticed this previously.
 - Abevmy can increase the risk of developing a weak heart. It is important that your doctor knows if you have ever received anthracyclines (for example doxorubicin, a specific type of chemotherapy used to treat some cancers) or had radiotherapy to your chest, or if you have heart disease.
 - This medicine may cause infections and a decreased number of your neutrophils (a type of blood cell important for your protection against bacteria).
@@ -2052,9 +2048,9 @@ You must not use this medicine if you are pregnant. Abevmy may cause damage to y
 
 Tell your doctor straightaway if you are pregnant, become pregnant during treatment with this medicine, or plan to become pregnant in the near future.
 
-<div style=\"page-break-after: always\"></div>
-
 You must not breast-feed your baby during treatment with Abevmy and for at least 6 months after the last dose of Abevmy, as this medicine may interfere with the growth and development of your baby.
+
+<div style=\"page-break-after: always\"></div>
 
 Abevmy may impair female fertility. Please consult your doctor for more information. Ask your doctor, pharmacist or nurse for advice before taking any medicine.
 
@@ -2097,11 +2093,13 @@ Abevmy is a concentrate for solution for infusion. Depending on the dose prescri
 - a blood clot in the blood vessels of your lungs,
 - any severe bleeding.
 
-<div style=\"page-break-after: always\"></div>
-
 ## If too much Abevmy is given
 
-- you may develop a severe migraine. If this happens you should talk to your doctor, pharmacist or nurse immediately.
+- you may develop a severe migraine. If this happens you should talk to your doctor, pharmacist
+
+<div style=\"page-break-after: always\"></div>
+
+or nurse immediately.
 
 ## If a dose of Abevmy is missed
 
@@ -2149,11 +2147,11 @@ Severe side effects, which may be very common (may affect more than 1 in 10 peop
 - lack of energy,
 - stomach and intestinal disorder,
 - muscle and joint pain, muscular weakness,
+- dry mouth in combination with thirst and/or reduced or darkened urine,
+- inflammation of the moist lining of mouth and gut, lungs and air passages, reproductive, and urinary tracts,
 
 <div style=\"page-break-after: always\"></div>
 
-- dry mouth in combination with thirst and/or reduced or darkened urine,
-- inflammation of the moist lining of mouth and gut, lungs and air passages, reproductive, and urinary tracts,
 - sores in the mouth and the tube from the mouth to the stomach, which may be painful and cause difficulty swallowing,
 - pain, including headache, back pain and pain in the pelvis and anal regions,
 - localised pus collection,
@@ -2189,12 +2187,13 @@ Severe side effects of Not known frequency (frequency cannot be estimated from t
 
 ## You should seek help as soon as possible if you suffer from any of the below mentioned side effects.
 
-<div style=\"page-break-after: always\"></div>
-
 Very common (may affect more than 1 in 10 people) side effects, which were not severe, include:
 
 - constipation,
 - loss of appetite,
+
+<div style=\"page-break-after: always\"></div>
+
 - fever,
 - problems with the eyes (including increased production of tears),
 - changes in speech,
@@ -2224,7 +2223,9 @@ Pain in the mouth, teeth and/or jaw, swelling or sores inside the mouth, numbnes
 
 Pre-menopausal women (women who have a menstrual cycle) may notice that their periods become irregular or are missed and may experience impaired fertility. If you are considering having children you should discuss this with your doctor before your treatment starts.
 
-Abevmy has been developed and made to treat cancer by injecting it into the bloodstream. It has not been developed or made for injection into the eye. It is therefore not authorised to be used in this way. When Abevmy is injected directly into the eye (unapproved use), the following side effects may occur:
+Abevmy has been developed and made to treat cancer by injecting it into the bloodstream. It has not been developed or made for injection into the eye. It is therefore not authorised to be used in this way.
+
+When Abevmy is injected directly into the eye (unapproved use), the following side effects may occur:
 
 - Infection or inflammation of the eye globe,
 - Redness of the eye, small particles or spots in your vision (floaters), eye pain,
@@ -2236,11 +2237,11 @@ Abevmy has been developed and made to treat cancer by injecting it into the bloo
 
 If you get any side effects, talk to your doctor, pharmacist or nurse. This includes any possible side effects not listed in this leaflet. You can also report side effects directly via the national reporting system listed in Appendix V. By reporting side effects you can help provide more information on the safety of this medicine.
 
-<div style=\"page-break-after: always\"></div>
-
 ## 5. How to store Abevmy
 
 Keep this medicine out of the sight and reach of children.
+
+<div style=\"page-break-after: always\"></div>
 
 Do not use this medicine after the expiry date which is stated on the outer carton and on the vial label after the abbreviation EXP. The expiry date refers to the last day of that month.
 
@@ -2273,13 +2274,19 @@ Biosimilar Collaborations Ireland Limited Unit 35/36 Grange Parade, Baldoyle Ind
 
 ## Manufacturers
 
-Biosimilar Collaborations Ireland Limited Block B, The Crescent Building, Santry Demesne Dublin
+Biosimilar Collaborations Ireland Limited
 
-<div style=\"page-break-after: always\"></div>
+Block B, The Crescent Building, Santry Demesne
 
-D09 C6X8 Ireland
+Dublin
+
+D09 C6X8
+
+Ireland
 
 For any information about this medicine, please contact the local representative of the Marketing Authorisation Holder:
+
+<div style=\"page-break-after: always\"></div>
 
 ## België/Belgique/Belgien
 
@@ -2325,6 +2332,18 @@ Biocon Biologics Germany GmbH Tel: 0080008250910
 
 Biosimilar Collaborations Ireland Limited Tel: 1800 777 794
 
+## Ísland
+
+Biocon Biologics Finland OY Sími: +345 800 4316
+
+## Italia
+
+Biocon Biologics Spain S.L . Tel: 0080008250910
+
+## Κύπρος
+
+Biosimilar Collaborations Ireland Limited Τηλ : 0080008250910
+
 ## Lietuva
 
 Biosimilar Collaborations Ireland Limited Tel: 0080008250910
@@ -2369,33 +2388,25 @@ Biosimilar Collaborations Ireland Limited Tel: 0080008250910
 
 Biosimilar Collaborations Ireland Limited Tel: 0080008250910
 
+## Slovenská republika
+
+Biocon Biologics Germany GmbH Tel: 0080008250910
+
+## Suomi/Finland
+
+## Biocon Biologics Finland OY
+
+Puh/Tel: 99980008250910
+
+## Sverige
+
+Biocon Biologics Finland OY Tel: 0080008250910
+
 <div style=\"page-break-after: always\"></div>
-
-## Ísland
-
-Biocon Biologics Finland OY
-
-Sími: +345 800 4316
-
-## Italia
-
-Biocon Biologics Spain S.L .
-
-Tel: 0080008250910
-
-## Κύπρος
-
-Biosimilar Collaborations Ireland Limited
-
-Τηλ
-
-: 0080008250910
 
 ## Latvija
 
-Biosimilar Collaborations Ireland Limited
-
-Tel: 0080008250910
+Biosimilar Collaborations Ireland Limited Tel: 0080008250910
 
 ## This leaflet was last revised in
 
@@ -2404,43 +2415,3 @@ Tel: 0080008250910
 Detailed information on this medicine is available on the European Medicines Agency web site:
 
 https://www.ema.europa.eu
-
-## Slovenská republika
-
-Biocon Biologics Germany GmbH
-
-Tel: 0080008250910
-
-## Suomi/Finland
-
-Biocon Biologics Finland OY
-
-Puh/Tel: 99980008250910
-
-## Sverige
-
-Biocon Biologics Finland OY
-
-Tel: 0080008250910
-
-<div style=\"page-break-after: always\"></div>
-
-## Annex IV
-
-## Scientific conclusions and grounds for the variation to the terms of the marketing authorisation (s)
-
-<div style=\"page-break-after: always\"></div>
-
-## Scientific conclusions
-
-Taking into account the PRAC Assessment Report on the PSUR(s) for bevacizumab, the scientific conclusions of PRAC are as follows:
-
-In view of available data on hyaline occlusive glomerular microangiopathy reported in the literature, including in some cases a positive de-challenge and in view of a plausible mechanism of action, the PRAC considers a causal relationship between bevacizumab and hyaline occlusive glomerular microangiopathy is at least a reasonable possibility. The PRAC concluded that the product information of products containing bevacizumab should be amended accordingly.
-
-Having reviewed the PRAC recommendation, the CHMP agrees with the PRAC overall conclusions and grounds for recommendation.
-
-## Grounds for the variation to the terms of the marketing authorisation(s)
-
-On the basis of the scientific conclusions for bevacizumab the CHMP is of the opinion that the benefit-risk balance of the medicinal product(s) containing bevacizumab is unchanged subject to the proposed changes to the product information
-
-The CHMP recommends that the terms of the marketing authorisation(s) should be varied.

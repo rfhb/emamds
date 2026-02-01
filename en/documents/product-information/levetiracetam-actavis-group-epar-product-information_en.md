@@ -1,18 +1,18 @@
 ---
-document_datetime: 2025-06-30 14:42:50
+document_datetime: 2026-01-26 16:59:33
 document_pages: 48
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/levetiracetam-actavis-group-epar-product-information_en.pdf
 document_name: levetiracetam-actavis-group-epar-product-information_en.pdf
 version: success
-processing_time: 24.0637092
-conversion_datetime: 2025-12-30 12:07:04.757396
+processing_time: 9.9893959
+conversion_datetime: 2026-02-01 20:43:44.843199
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.66.0
-  docling-core: 2.57.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.11.0
+  docling-jobkit: 1.9.1
+  docling: 2.71.0
+  docling-core: 2.62.0
+  docling-ibm-models: 3.11.0
+  docling-parse: 4.7.3
   python: cpython-313 (3.13.11)
   plaform: macOS-26.2-arm64-arm-64bit-Mach-O
 ---
@@ -310,11 +310,9 @@ Specialist advice should be given to women who are of childbearing potential. Tr
 
 ## Pregnancy
 
-A large amount of postmarketing data on pregnant women exposed to levetiracetam monotherapy (more than 1800, among which in more than 1500 exposure occurred during the 1st trimester) do not suggest an increase in the risk for major congenital malformations. Only limited evidence is available on the neurodevelopment of children exposed to levetiracetam monotherapy in utero. However, current epidemiological studies (on about 100 children) do not suggest an increased risk of neurodevelopmental disorders or delays.
+A large amount of postmarketing data on pregnant women exposed to levetiracetam monotherapy (more than 1800, among which in more than 1500 exposure occurred during the 1st trimester) do not suggest an increase in the risk for major congenital malformations. Limited evidence is available on the neurodevelopment of children exposed to levetiracetam monotherapy in utero. Data from two observational population-based registry studies undertaken in largely the same dataset from the Nordic countries and including more than 1000 children born to women with epilepsy prenatally exposed to levetiracetam monotherapy do not suggest an increased risk of autism spectrum disorders or intellectual disability compared to children born to women with epilepsy not exposed to an antiepileptic drug in utero. The mean follow-up time of children in the levetiracetam group was shorter than for the group of children non exposed to any antiepileptic drug (e.g. 4.4 years vs 6.8 years in one of the studies).
 
-Levetiracetam can be used during pregnancy, if after careful assessment it is considered clinically needed. In such case, the lowest effective dose is recommended.
-
-Physiological changes during pregnancy may affect levetiracetam concentration. Decrease in levetiracetam plasma concentrations has been observed during pregnancy. This decrease is more pronounced during the third trimester (up to 60 % of baseline concentration before pregnancy). Appropriate clinical management of pregnant women treated with levetiracetam should be ensured.
+Levetiracetam can be used during pregnancy, if after careful assessment it is considered clinically needed. In such case, the lowest effective dose is recommended. Physiological changes during pregnancy may affect levetiracetam concentration. Decrease in levetiracetam plasma concentrations has been observed during pregnancy. This decrease is more pronounced during the third trimester (up to 60 % of baseline concentration before pregnancy). Appropriate clinical management of pregnant women treated with levetiracetam should be ensured.
 
 ## Breastfeeding
 
@@ -332,15 +330,13 @@ Levetiracetam has minor or moderate influence on the ability to drive and use ma
 
 ## Summary of the safety profile
 
-The most frequently reported adverse reactions were nasopharyngitis, somnolence, headache, fatigue and dizziness. The adverse reaction profile presented below is based on the analysis of pooled placebo-controlled clinical trials with all indications studied, with a total of 3416 patients treated with levetiracetam. These data are supplemented with the use of levetiracetam in corresponding open-label extension studies, as well as post-marketing experience. The safety profile of levetiracetam is
-
 <div style=\"page-break-after: always\"></div>
 
-generally similar across age groups (adult and paediatric patients) and across the approved epilepsy indications.
+The most frequently reported adverse reactions were nasopharyngitis, somnolence, headache, fatigue and dizziness. The adverse reaction profile presented below is based on the analysis of pooled placebo-controlled clinical trials with all indications studied, with a total of 3416 patients treated with levetiracetam. These data are supplemented with the use of levetiracetam in corresponding open-label extension studies, as well as post-marketing experience. The safety profile of levetiracetam is generally similar across age groups (adult and paediatric patients) and across the approved epilepsy indications.
 
 ## Tabulated list of adverse reactions
 
-Adverse reactions reported in clinical studies (adults, adolescents, children and infants&gt; 1 month) and from post-marketing experience are listed in the following table per System Organ Class and per frequency. Adverse reactions are presented in the order of decreasing seriousness and their frequency is defined as follo ws: very common (≥ 1/10); common (≥ 1/100 to &lt;1/10); uncommon (≥ 1/1000 to &lt;1/100); rare (≥ 1/10000 to &lt;1/1000) and very rare (&lt;1/10000).
+Adverse reactions reported in clinical studies (adults, adolescents, children and infants&gt; 1 month) and from post-marketing experience are listed in the following table per System Organ Class and per frequency. Adverse reactions are presented in the order of decreasing seriousness and their frequency is defined as follows: very common (≥ 1/10); co mmon (≥ 1/100 to &lt;1/10); uncommon (≥ 1/1000 to &lt;1/100); rare (≥ 1/10000 to &lt;1/1000) and very rare (&lt;1/10000).
 
 | MedDRA                               | Frequency category   | Frequency category                                                               | Frequency category                                                                                                                                                        | Frequency category                                                                                                          | Frequency category                |
 |--------------------------------------|----------------------|----------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------|-----------------------------------|
@@ -535,7 +531,7 @@ The apparent body clearance of both levetiracetam and of its primary metabolite 
 
 <div style=\"page-break-after: always\"></div>
 
-impairment (see section 4.2).
+## impairment (see section 4.2).
 
 In anuric end-stage renal disease adult subjects the half-life was approximately 25 and 3.1 hours during interdialytic and intradialytic periods, respectively.
 
@@ -575,7 +571,7 @@ Two embryo-foetal development (EFD) studies were performed in rats at 400, 1200 
 
 Four embryo-foetal development studies were performed in rabbits covering doses of 200, 600, 800, 1200 and 1800 mg/kg/day. The dose level of 1800 mg/kg/day induced a marked maternal toxicity and a decrease in foetal weight associated with increased incidence of fetuses with cardiovascular/skeletal anomalies. The NOAEL was &lt;200 mg/kg/day for the dams and 200 mg/kg/day for the fetuses (equal to the MRHD on a mg/m 2 basis).
 
-A peri- and post-natal development study was performed in rats with levetiracetam doses of 70, 350 and 1800 mg/kg/day. The NOAEL was ≥ 1800 mg/kg/day for the F0 females, and for the survival, growth and development of the F1 offspring up to weaning (x 6 the MRHD on a mg/m 2 basis).
+A peri- and post-natal development study was performed in rats with levetiracetam doses of 70, 350 and 1800 mg/kg/day. The NOAEL w as ≥ 1800 mg/kg/day for the F0 females, and for the survival, growth and development of the F1 offspring up to weaning (x 6 the MRHD on a mg/m 2 basis).
 
 Neonatal and juvenile animal studies in rats and dogs demonstrated that there were no adverse effects seen in any of the standard developmental or maturation endpoints at doses up to 1800 mg/kg/day (x 6- 17 the MRHD on a mg/m 2 basis).
 
@@ -1061,9 +1057,7 @@ EU/1/11/738/001
 Lot
 
 14. GENERAL CLASSIFICATION FOR SUPPLY
-
 15. INSTRUCTIONS ON USE
-
 16. INFORMATION IN BRAILLE
 
 Levetiracetam Actavis Group 100 mg/ml
@@ -1217,10 +1211,10 @@ Talk to your doctor before taking Levetiracetam Actavis Group
 Tell your doctor or pharmacist if any of the following side effects gets serious or last longer than a few days:
 
 - Abnormal thoughts, feeling irritable or reacting more aggressively than usually, or if you or your family and friends notice important changes in mood or behaviour.
-- Aggravation of epilepsy:
-- Your seizures may rarely become worse or happen more often, mainly during the first month after the start of the treatment or increase of the dose.
+- •
+- Aggravation of epilepsy: Your seizures may rarely become worse or happen more often, mainly during the first month after the start of the treatment or increase of the dose. In a very rare form of early-onset epilepsy (epilepsy associated with SCN8A mutations) that
 
-In a very rare form of early-onset epilepsy (epilepsy associated with SCN8A mutations) that causes multiple types of seizures and loss of skills you may notice that the seizures remain present or are becoming worse during your treatment.
+causes multiple types of seizures and loss of skills you may notice that the seizures remain present or are becoming worse during your treatment.
 
 If you experience any of these new symptoms while taking Levetiracetam Actavis Group, see a doctor as soon as possible.
 
@@ -1238,7 +1232,7 @@ Do not take macrogol (a drug used as laxative) for one hour before and one hour 
 
 If you are pregnant or breast-feeding, think you may be pregnant or are planning to have a baby, ask your doctor for advice before taking this medicine. Levetiracetam can be used during pregnancy, only if after careful assessment it is considered necessary by your doctor.
 
-You should not stop your treatment without discussing this with your doctor.A risk of birth defects for your unborn child cannot be completely excluded.
+You should not stop your treatment without discussing this with your doctor.A risk of birth defects for your unborn child cannot be completely excluded. Two studies do not suggest an increased risk of autism or intellectual disability in children born to mothers treated with levetiracetam during pregnancy. However, the available data regarding the impact of levetiracetam on neurodevelopment in children is limited.
 
 Breast-feeding is not recommended during treatment.
 
@@ -1248,15 +1242,13 @@ Levetiracetam Actavis Group may impair your ability to drive or operate any tool
 
 ## Levetiracetam Actavis Group contains methyl parahydroxybenzoate, propyl parahydroxybenzoate, maltitol, propylene glycol and sodium.
 
-Levetiracetam Actavis Group oral solution includes methyl parahydroxybenzoate (E218) and propyl parahydroxybenzoate (E216) which may cause allergic reactions (possibly delayed).
+Levetiracetam Actavis Group oral solution includes methyl parahydroxybenzoate (E218) and propyl parahydroxybenzoate (E216) which may cause allergic reactions (possibly delayed). Levetiracetam Actavis Group oral solution also contains maltitol. If you have been told by your doctor that you have an intolerance to some sugars, contact your doctor before taking this medicine.
 
-Levetiracetam Actavis Group oral solution also contains maltitol. If you have been told by your doctor that you have an intolerance to some sugars, contact your doctor before taking this medicine.
+<div style=\"page-break-after: always\"></div>
 
 Levetiracetam Actavis Group oral solution contains propylene glycol (E1520). If your baby is less than 4 weeks old, talk to your doctor or pharmacist before giving them this medicine, in particular if the baby is given other medicines that contain propylene glycol or alcohol.
 
 This medicine contains less than 1 mmol sodium (23 mg) per ml, that is to say essentially 'sodiumfree'.
-
-<div style=\"page-break-after: always\"></div>
 
 ## 3. How to take Levetiracetam Actavis Group
 
@@ -1308,11 +1300,11 @@ Recommended dose: Levetiracetam Actavis Group is taken twice daily, in two equal
 
 For infants 1 month to less than 6 months , measure the appropriate dosage using the 1 ml syringe included in the package.
 
+<div style=\"page-break-after: always\"></div>
+
 Recommended dose: Levetiracetam Actavis Group is taken twice daily, in two equally divided doses, each individual dose being measured between 0.07 ml (7 mg) and 0.21 ml (21 mg), per kg bodyweight of the infant. (see table below for dose examples).
 
 ## Dose in infants (1 month to less than 6 months):
-
-<div style=\"page-break-after: always\"></div>
 
 | Weight   | Starting dose: 0.07 ml/kg twice daily   | Maximum dose: 0.21 ml/kg twice daily   |
 |----------|-----------------------------------------|----------------------------------------|
@@ -1578,17 +1570,13 @@ Tel: +372 6610801
 
 ## Ελλάδα
 
-TEVA HELLAS Α.Ε.
-
-Τηλ
-
-: +30 2118805000
+TEVA HELLAS Α.Ε. Τηλ : +30 2118805000
 
 ## España
 
 Teva Pharma, S.L.U.
 
-Tel: +34 913873280
+Tel: +34 915359180
 
 ## France
 
@@ -1610,9 +1598,7 @@ Teva Gyógyszergyár Zrt. Tel.: +36 12886400
 
 ## Malta
 
-Teva Pharmaceuticals Ireland L-Irlanda
-
-Tel: +44 2075407117
+TEVA HELLAS Α.Ε. ilGreċja Tel: +30 2118805000
 
 ## Nederland
 

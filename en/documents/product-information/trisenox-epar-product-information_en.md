@@ -1,18 +1,18 @@
 ---
-document_datetime: 2025-12-16 08:40:22
+document_datetime: 2026-01-30 14:54:35
 document_pages: 41
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/trisenox-epar-product-information_en.pdf
 document_name: trisenox-epar-product-information_en.pdf
 version: success
-processing_time: 11.2827747
-conversion_datetime: 2026-01-03 13:13:24.398953
+processing_time: 11.3116359
+conversion_datetime: 2026-02-01 20:32:48.272944
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.66.0
-  docling-core: 2.57.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.11.0
+  docling-jobkit: 1.9.1
+  docling: 2.71.0
+  docling-core: 2.62.0
+  docling-ibm-models: 3.11.0
+  docling-parse: 4.7.3
   python: cpython-313 (3.13.11)
   plaform: macOS-26.2-arm64-arm-64bit-Mach-O
 ---
@@ -256,7 +256,7 @@ In a phase 3, multicentre, non-inferiority trial comparing alltrans -retinoic ac
 
 ## Tabulated list of adverse reactions
 
-The following undesirable effects have been reported in the APL0406 study in newly diagnosed patients and in clinical trials and/or post-marketing experience in relapsed/refractory APL patients. Undesirable effects are listed in table 2 below as MedDRA preferred term by system organ class and frequencies observed during TRISENOX clinical trials in 52 patients with refractory/relapsed APL. Frequencies are defined as: (very common ≥ 1/10), (common ≥ 1/100 to &lt; 1/10), (uncommon ≥ 1/1,000 to &lt; 1/100), not known (cannot be estimated from available data).
+The following undesirable effects have been reported in clinical trials and/or post-marketing experience in newly diagnosed and relapsed/refractory APL patients. Undesirable effects are listed in table 2 below as MedDRA preferred term by system organ class and frequencies observed during TRISENOX clinical trials in 52 patients with refractory/relapsed APL. Frequencies are defined as: (very common ≥ 1/10), (common ≥ 1/100 to &lt; 1/10), (uncommon ≥ 1/1,000 to &lt; 1/100), not known (cannot be estimated from available data).
 
 Within each frequency grouping, undesirable effects are presented in order of decreasing seriousness.
 
@@ -392,7 +392,7 @@ Reporting suspected adverse reactions after authorisation of the medicinal produ
 
 ## 4.9 Overdose
 
-If symptoms suggestive of serious acute arsenic toxicity ( e.g . convulsions, muscle weakness and confusion) appear, TRISENOX must be immediately discontinued and chelating therapy with penicillamine at a daily dose ≤ 1 g per day may be considered. The duration of treatment with penicillamine must be evaluated taking into account the urinary arsenic laboratory values. For patients who cannot take oral medicinal product, dimercaprol administered at a dose of 3 mg/kg intramuscularly every 4 hours until any immediately life-threatening toxicity has subsided may be considered. Thereafter , penicillamine at a daily dose ≤ 1 g per day may be given. In the presence of coagulopathy, the oral administration of the chelating agent Dimercaptosuccinic Acid Succimer (DCI) 10 mg/kg or 350 mg/m 2 every 8 hours during 5 days and then every 12 hours during 2 weeks is recommended. For patients with severe, acute arsenic overdose, dialysis should be considered
+If symptoms suggestive of serious acute arsenic toxicity ( e.g . convulsions, muscle weakness and confusion) appear, TRISENOX must be immediately discontinued and chelating therapy with penicillamine at a daily dose ≤ 1 g per day may be considered. The duration of treatment with penicillamine must be evaluated taking into account the urinary arsenic laboratory values. For patients who cannot take oral medicinal product, dimercaprol administered at a dose of 3 mg/kg intramuscularly every 4 hours until any immediately life-threatening toxicity has subsided may be considered. Thereafter, penicillamine at a daily dose ≤ 1 g per day may be given. In the presence of coagulopathy, the oral administration of the chelating agent Dimercaptosuccinic Acid Succimer (DCI) 10 mg/kg or 350 mg/m 2 every 8 hours during 5 days and then every 12 hours during 2 weeks is recommended. For patients with severe, acute arsenic overdose, dialysis should be considered
 
 ## 5. PHARMACOLOGICAL PROPERTIES
 
@@ -408,7 +408,7 @@ The mechanism of action of TRISENOX is not completely understood. Arsenic trioxi
 
 ## Newly diagnosed non high risk APL patients
 
-TRISENOX has been investigated in 77 newly diagnosed patients with low to intermediate risk APL, in a controlled, randomized, non-inferiority Phase 3 clinical study comparing the efficacy and safety of TRISENOX combined with alltrans -retinoic acid (ATRA) with those of ATRA + chemotherapy (eg, idarubicin and mitoxantrone) (Study APL0406). Patients with newly diagnosed APL confirmed by the presence of t(15; 17) or PMLRARα by RT -PCR or micro speckled PML nuclear distribution in leukaemic cells were included. No data are available on patient with variant translocations like t(11;17) (PLZF/RARα). Patients with significant arrhythmias, EKG abnormalities (congenital long QT syndrome, history or presence of significant ventricular or atrial tachyarrhythmia, clinically significant resting bradycardia (&lt; 50 beats per minute), QTc &gt; 450 msec on screening EKG, right bundle branch block plus left anterior hemiblock, bifascicular block) or neuropathy were excluded from the study. Patients in the ATRA + TRISENOX treatment group received oral ATRA at 45 mg/m 2 daily and IV TRISENOX at 0.15 mg/kg daily until CR. During consolidation, ATRA was given at the same dose for periods of 2 weeks on and 2 weeks off for a total of 7 courses, and TRISENOX was given at the
+TRISENOX has been investigated in 77 newly diagnosed patients with low to intermediate risk APL, in a controlled, randomized, non-inferiority Phase 3 clinical study comparing the efficacy and safety of TRISENOX combined with alltrans -retinoic acid (ATRA) with those of ATRA + chemotherapy (eg, idarubicin and mitoxantrone) (Study APL0406). Patients with newly diagnosed APL confirmed by the presence of t(15; 17) or PMLRARα by RT -PCR or micro speckled PML nuclear distribution in leukaemic cells were included. No data are available on patient with variant translocations like t(11;17) (PLZF/RARα). Patients wit h significant arrhythmias, EKG abnormalities (congenital long QT syndrome, history or presence of significant ventricular or atrial tachyarrhythmia, clinically significant resting bradycardia (&lt; 50 beats per minute), QTc &gt; 450 msec on screening EKG, right bundle branch block plus left anterior hemiblock, bifascicular block) or neuropathy were excluded from the study. Patients in the ATRA + TRISENOX treatment group received oral ATRA at 45 mg/m 2 daily and IV TRISENOX at 0.15 mg/kg daily until CR. During consolidation, ATRA was given at the same dose for periods of 2 weeks on and 2 weeks off for a total of 7 courses, and TRISENOX was given at the
 
 <div style=\"page-break-after: always\"></div>
 
@@ -587,7 +587,13 @@ Any unused medicinal product, any items that come into contact with the product 
 
 ## 7. MARKETING AUTHORISATION HOLDER
 
-Teva B.V. Swensweg 5 2031 GA Haarlem Netherlands
+Teva B.V.
+
+Swensweg 5
+
+2031 GA Haarlem
+
+Netherlands
 
 ## 8. MARKETING AUTHORISATION NUMBER(S)
 
@@ -605,7 +611,7 @@ Date of latest renewal: 05 March 2007
 
 ## 10. DATE OF REVISION OF THE TEXT
 
-Detailed information on this medicinal product is available on the website of the European Medicines Agency http://www.ema.europa.eu.
+Detailed information on this medicinal product is available on the website of the European Medicines Agency https://www.ema.europa.eu.
 
 17
 
@@ -766,7 +772,7 @@ Justification for not including Braille accepted
 
 2D barcode carrying the unique identifier included.
 
-| 18.   | UNIQUE IDENTIFIER - HUMANREADABLE DATA   |
+| 18.   | UNIQUE IDENTIFIER -HUMAN READABLE DATA   |
 |-------|------------------------------------------|
 
 PC SN
@@ -1159,7 +1165,7 @@ Almac Pharma Services (Ireland) Limited; Finnabair Industrial Estate, Dundalk, C
 
 ## This leaflet was last revised in {MM/YYYY}
 
-Detailed information on this medicine is available on the European Medicines Agency web site: http://www.ema.europa.eu
+Detailed information on this medicine is available on the European Medicines Agency web site: https://www.ema.europa.eu.
 
 There are also links to other websites about rare diseases and treatments.
 
@@ -1179,9 +1185,9 @@ Opening the ampoule: Hold the ampoule of TRISENOX with the coloured point upward
 
 Dilution: Carefully insert the needle of a syringe into the ampoule and draw up all of the content. TRISENOX must then be diluted immediately with 100 to 250 ml of glucose 50 mg/ml (5 %) solution for injection or sodium chloride 9 mg/ml (0.9 %) solution for injection.
 
-<div style=\"page-break-after: always\"></div>
-
 Unused portions of each ampoule must be discarded properly. Do not save any unused portions for later administration.
+
+<div style=\"page-break-after: always\"></div>
 
 ## Use of TRISENOX
 
@@ -1376,7 +1382,7 @@ Very common (may affect more than 1 in 10 people):
 - -stomach (abdominal) ache
 - -redness of the skin, swollen face, blurred vision
 
-## Not known (frequency cannot be estimated from the available data):
+Not known (frequency cannot be estimated from the available data):
 
 - -lung infection, infection in the blood
 - -inflammation of the lungs which causes chest pain and breathlessness, cardiac failure
@@ -1427,7 +1433,9 @@ S.C. Sindan-Pharma S.R.L., B-dul Ion Mihalache nr 11, sector 1, Cod 011171, Buch
 
 ## This leaflet was last revised in {MM/YYYY}
 
-Detailed information on this medicine is available on the European Medicines Agency web site: http://www.ema.europa.eu
+Detailed information on this medicine is available on the European Medicines Agency web site:
+
+https://www.ema.europa.eu.
 
 There are also links to other websites about rare diseases and treatments.
 

@@ -1,20 +1,20 @@
 ---
-document_datetime: 2024-09-10 13:47:17
+document_datetime: 2026-01-29 12:52:06
 document_pages: 64
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/insulin-lispro-sanofi-epar-product-information_en.pdf
 document_name: insulin-lispro-sanofi-epar-product-information_en.pdf
 version: success
-processing_time: 15.8540354
-conversion_datetime: 2025-12-18 09:10:23.912175
+processing_time: 14.3624742
+conversion_datetime: 2026-02-01 20:36:05.406789
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.64.1
-  docling-core: 2.55.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.11.0
+  docling-jobkit: 1.9.1
+  docling: 2.71.0
+  docling-core: 2.62.0
+  docling-ibm-models: 3.11.0
+  docling-parse: 4.7.3
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.1-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
 ---
 ## ANNEX I
 
@@ -150,9 +150,9 @@ Hypoglycaemia.
 
 In order to improve the traceability of biological medicinal products, the name and the batch number of the administered product should be clearly recorded.
 
-## Transferring a patient to another type or brand of insulin
-
 <div style=\"page-break-after: always\"></div>
+
+## Transferring a patient to another type or brand of insulin
 
 Transferring a patient to another type or brand of insulin should be done under strict medical supervision. Changes in strength, brand (manufacturer), type (regular, NPH, lente, etc.), species (animal, human, human insulin analogue), and/or method of manufacture (recombinant DNA versus animal-source insulin) may result in the need for a change in dosage. For fast-acting insulins, any patient also on basal insulin must optimise dosage of both insulins to obtain glucose control across the whole day, particularly nocturnal/fasting glucose control.
 
@@ -180,15 +180,15 @@ Cases of cardiac failure have been reported when pioglitazone was used in combin
 
 Patients must be instructed to always check the insulin label before each injection to avoid accidental mix-ups between Insulin lispro Sanofi and other insulin products.
 
-Patients must visually verify the dialled units on the dose counter of the pen. Therefore, the requirement for patients to self-inject is that they can read the dose counter on the pen. Patients who are blind or have poor vision must be instructed to always get help/assistance from another person who has good vision and is trained in using the insulin device.
+Patients must visually verify the dialled units on the dose counter of the pen. Therefore, the requirement for patients to self-inject is that they can read the dose counter on the pen. Patients who
 
 <div style=\"page-break-after: always\"></div>
 
+are blind or have poor vision must be instructed to always get help/assistance from another person who has good vision and is trained in using the insulin device.
+
 ## Insulin lispro Sanofi 100 units/ml solution for injection in vial
 
-When mixing insulin lispro with a longer acting insulin, the shorter-acting Insulin lispro Sanofi should be drawn into the syringe first, to prevent contamination of the vial by the longer-acting insulin. Mixing of the insulins ahead of time or just before the injection should be on advice of the physician. However, a consistent routine must be followed.
-
-For further details on handling, see section 6.6.
+When mixing insulin lispro with a longer acting insulin, the shorter-acting Insulin lispro Sanofi should be drawn into the syringe first, to prevent contamination of the vial by the longer-acting insulin. Mixing of the insulins ahead of time or just before the injection should be on advice of the physician. However, a consistent routine must be followed. For further details on handling, see section 6.6.
 
 ## Insulin lispro Sanofi 100 units/ml solution for injection in cartridge
 
@@ -218,9 +218,11 @@ The physician should be consulted when using other medicinal products in additio
 
 Data on a large number of exposed pregnancies do not indicate any adverse effect of insulin lispro on pregnancy or on the health of the foetus/new-born.
 
-It is essential to maintain good control of the insulin-treated (insulin-dependent or gestational diabetes) patient throughout pregnancy. Insulin requirements usually fall during the first trimester and increase during the second and third trimesters. Patients with diabetes should be advised to inform their doctor if they are pregnant or are contemplating pregnancy. Careful monitoring of glucose control, as well as general health, is essential in pregnant patients with diabetes.
+It is essential to maintain good control of the insulin-treated (insulin-dependent or gestational diabetes) patient throughout pregnancy. Insulin requirements usually fall during the first trimester and increase during the second and third trimesters. Patients with diabetes should be advised to inform their doctor
 
 <div style=\"page-break-after: always\"></div>
+
+if they are pregnant or are contemplating pregnancy. Careful monitoring of glucose control, as well as general health, is essential in pregnant patients with diabetes.
 
 ## Breast-feeding
 
@@ -248,14 +250,14 @@ The following related adverse reactions from clinical investigations are listed 
 
 Within each frequency grouping, adverse reactions are presented in order of decreasing seriousness.
 
-| MedDRA system organ classes            | Common                                 | Uncommon   | Rare   | Not known   |
-|----------------------------------------|----------------------------------------|------------|--------|-------------|
-| Immune system disorders                |                                        |            |        |             |
-| Local allergy                          | X                                      |            |        |             |
-| Systemic allergy                       |                                        |            | X      |             |
-| Skin and subcutaneous tissue disorders | Skin and subcutaneous tissue disorders |            |        |             |
-| Lipodystrophy                          |                                        | X          |        |             |
-| Cutaneous amyloidosis                  |                                        |            |        | X           |
+| MedDRA system organ classes            | Common                                 | Uncommon                               | Rare                                   | Not known   |
+|----------------------------------------|----------------------------------------|----------------------------------------|----------------------------------------|-------------|
+| Immune system disorders                | Immune system disorders                | Immune system disorders                | Immune system disorders                |             |
+| Local allergy                          | X                                      |                                        |                                        |             |
+| Systemic allergy                       |                                        |                                        | X                                      |             |
+| Skin and subcutaneous tissue disorders | Skin and subcutaneous tissue disorders | Skin and subcutaneous tissue disorders | Skin and subcutaneous tissue disorders |             |
+| Lipodystrophy                          |                                        | X                                      |                                        |             |
+| Cutaneous amyloidosis                  |                                        |                                        |                                        | X           |
 
 ## Description of selected adverse reactions
 
@@ -357,9 +359,9 @@ Metacresol Glycerol Disodium hydrogen phosphate heptahydrate Zinc oxide Water fo
 
 ## 6.2 Incompatibilities
 
-Insulin lispro Sanofi 100 units/ml solution for injection in vial
-
 <div style=\"page-break-after: always\"></div>
+
+## Insulin lispro Sanofi 100 units/ml solution for injection in vial
 
 This medicinal product must not be mixed with other medicinal products except those mentioned in section 6.6.
 
@@ -369,7 +371,7 @@ This medicinal product should not be mixed with any other insulin or any other m
 
 ## 6.3 Shelf life
 
-## Before first use
+Before first use
 
 3 years.
 
@@ -379,7 +381,7 @@ Dispose of after 4 weeks.
 
 ## 6.4 Special precautions for storage
 
-## Insulin lispro Sanofi 100 units/ml solution for injection in vial
+Insulin lispro Sanofi 100 units/ml solution for injection in vial
 
 Store in a refrigerator (2°C - 8°C). Do not freeze. Keep the vial in the outer carton in order to protect from light.
 
@@ -387,17 +389,21 @@ Store in a refrigerator (2°C - 8°C). Do not freeze. Keep the vial in the outer
 
 Store below 30°C. Do not refrigerate. Keep the vial in the outer carton in order to protect from light.
 
-## Insulin lispro Sanofi 100 units/ml solution for injection in cartridge
+Insulin lispro Sanofi 100 units/ml solution for injection in cartridge
 
-Store in a refrigerator (2°C - 8°C). Do not freeze. Keep the cartridge in the outer carton in order to protect from light.
+Store in a refrigerator (2°C - 8°C). Do not freeze.
+
+Keep the cartridge in the outer carton in order to protect from light.
 
 ## After first use
 
 Store below 30°C and protect from direct heat and light. Do not refrigerate. Keep the pen cap on the pen in order to protect from light
 
-## Insulin lispro Sanofi 100 units/ml solution for injection in pre-filled pen
+Insulin lispro Sanofi 100 units/ml solution for injection in pre-filled pen
 
-Store in a refrigerator (2°C - 8°C). Do not freeze. Keep the pre-filled pen in the outer carton in order to protect from light.
+Store in a refrigerator (2°C - 8°C). Do not freeze.
+
+Keep the pre-filled pen in the outer carton in order to protect from light.
 
 ## After first use
 
@@ -407,13 +413,15 @@ The pen cap must be put back on the pen after each injection in order to protect
 
 ## 6.5 Nature and contents of container
 
-## Insulin lispro Sanofi 100 units/ml solution for injection in vial
+Insulin lispro Sanofi 100 units/ml solution for injection in vial
 
-Type I colourless glass vial with a flanged cap (aluminium) with a sealing disk (chlorobutyl rubber) and a tear-off cap (polypropylene) containing 10 ml of solution. Pack sizes: 1 or 5 vials.
+Type I colourless glass vial with a flanged cap (aluminium) with a sealing disk (chlorobutyl rubber) and a tear-off cap (polypropylene) containing 10 ml of solution.
 
 <div style=\"page-break-after: always\"></div>
 
-## Not all packs sizes may be marketed.
+Pack sizes: 1 or 5 vials.
+
+Not all packs sizes may be marketed.
 
 ## Insulin lispro Sanofi 100 units/ml solution for injection in cartridge
 
@@ -423,7 +431,7 @@ Pack sizes: 5 or 10 cartridges
 
 Not all packs sizes may be marketed.
 
-## Insulin lispro Sanofi 100 units/ml solution for injection in  pre-filled pen
+## Insulin lispro Sanofi 100 units/ml solution for injection in pre-filled pen
 
 Type 1  colourless  glass  cartridge  with  a  black  plunger  (bromobutyl  rubber)  and  a  flanged  cap (aluminium) with a sealing disk (laminate of isoprene and bromobutyl rubber) sealed in a disposable pen injector. Each pre-filled pen contains 3 ml of solution.
 
@@ -507,9 +515,9 @@ Not all of these pens may be marketed in each country.
 
 The pen with the inserted cartridge should not be stored with the needle attached.
 
-## Preparing a dose
-
 <div style=\"page-break-after: always\"></div>
+
+## Preparing a dose
 
 Inspect the Insulin lispro Sanofi solution. It should be clear and colourless. Do not use the medicinal product if it appears cloudy, thickened, or slightly coloured or if solid particles are visible.
 
@@ -538,19 +546,27 @@ Insulin lispro Sanofi 100 units/ml in pre-filled pen is only suitable for subcut
 
 Inspect the Insulin lispro Sanofi solution. It should be clear and colourless. Do not use it if it appears cloudy, thickened, or slightly coloured or if solid particles are visible.
 
-Before using the pre-filled pen, the user manual included in the package leaflet must be read carefully. The pre-filled pen has to be used as recommended in the user manual. The pre-filled pen should not be stored with the needle attached. A new needle should always be used for each injection. Needles are not included in the pack.
+Before using the pre-filled pen, the user manual included in the package leaflet must be read carefully.
+
+The pre-filled pen has to be used as recommended in the user manual.
+
+The pre-filled pen should not be stored with the needle attached.
+
+A new needle should always be used for each injection.
+
+Needles are not included in the pack.
 
 ## 7. MARKETING AUTHORISATION HOLDER
 
 Sanofi Winthrop Industrie 82 avenue Raspail 94250 Gentilly France
 
-## 8. MARKETING AUTHORISATION NUMBER(S)
-
-## EU/1/17/1203/001
-
 <div style=\"page-break-after: always\"></div>
 
-EU/1/17/1203/002 EU/1/17/1203/003 EU/1/17/1203/004 EU/1/17/1203/005 EU/1/17/1203/006 EU/1/17/1203/007 EU/1/17/1203/008
+## 8. MARKETING AUTHORISATION NUMBER(S)
+
+EU/1/17/1203/001 EU/1/17/1203/002 EU/1/17/1203/003 EU/1/17/1203/004 EU/1/17/1203/005 EU/1/17/1203/006 EU/1/17/1203/007
+
+EU/1/17/1203/008
 
 ## 9. DATE OF FIRST AUTHORISATION/RENEWAL OF THE AUTHORISATION
 
@@ -722,8 +738,8 @@ Insulin lispro Sanofi 100
 
 <div style=\"page-break-after: always\"></div>
 
-| 18.   | UNIQUE IDENTIFIER -HUMANREADABLE DATA   |
-|-------|-----------------------------------------|
+| 18.   | UNIQUE IDENTIFIER - HUMANREADABLE DATA   |
+|-------|------------------------------------------|
 
 PC SN NN
 
@@ -829,7 +845,7 @@ Keep the pen cap on the pen in order to protect from light.
 
 Dispose of after 4 weeks.
 
-10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
+## 10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
@@ -865,8 +881,8 @@ Insulin lispro Sanofi 100
 
 <div style=\"page-break-after: always\"></div>
 
-| 18.   | UNIQUE IDENTIFIER -HUMANREADABLE DATA   |
-|-------|-----------------------------------------|
+| 18.   | UNIQUE IDENTIFIER - HUMANREADABLE DATA   |
+|-------|------------------------------------------|
 
 PC SN NN
 
@@ -1020,8 +1036,8 @@ Insulin lispro 100 SoloStar
 
 2D barcode carrying the unique identifier included.
 
-| 18.   | UNIQUE IDENTIFIER -HUMANREADABLE DATA   |
-|-------|-----------------------------------------|
+| 18.   | UNIQUE IDENTIFIER - HUMANREADABLE DATA   |
+|-------|------------------------------------------|
 
 PC SN NN
 
@@ -1110,9 +1126,9 @@ Insulin lispro Sanofi is suitable for use in adults and children.
 
 Record the brand name ('Insulin lispro Sanofi') and Lot number (included on the outer cartons and labels of each vial, cartridge and pre-filled pen) of the product you are using and provide this information when reporting any side effects.
 
-## Skin changes at the injection site
-
 <div style=\"page-break-after: always\"></div>
+
+## Skin changes at the injection site
 
 The injection site should be rotated to prevent skin changes such as lumps under the skin. The insulin may not work very well if you inject into a lumpy area (see How to use Insulin lispro Sanofi). Contact your doctor if you are currently injecting into a lumpy area before you start injecting in a different area. Your doctor may tell you to check your blood sugar more closely, and to adjust your insulin or your other antidiabetic medications dose.
 
@@ -1191,10 +1207,10 @@ Always use this medicine exactly as your doctor has told you. Check with your do
 - Use a clean, sterile syringe and needle to pierce the rubber stopper and draw in the amount of Insulin lispro Sanofi you want. Your doctor or clinic will tell you how to do this. Do not share your needles and syringes.
 - Inject under the skin, as you were taught. Do not inject directly into a vein. After your injection, leave the needle in the skin for five seconds to make sure you have injected the whole dose. Do not rub the area you have just injected. Make sure you inject at least half an inch (1 cm) from the last injection and that you 'rotate' the places you inject, as you have been taught. It doesn't matter which injection site you use, either upper arm, thigh, buttock or abdomen, your Insulin lispro Sanofi injection will still work quicker than soluble human insulin.
 - Your doctor will tell you if you have to mix Insulin lispro Sanofi with one of the human insulins. For example if you do need to inject a mixture, draw the Insulin lispro Sanofi into the syringe before the long acting insulin. Inject the liquid as soon as you have mixed it. Do the same thing every time.
-- You should not normally mix Insulin lispro Sanofi with one of the mixtures of human insulins. You should never mix Insulin lispro Sanofi with insulins produced by other manufacturers or animal insulins.
 
 <div style=\"page-break-after: always\"></div>
 
+- You should not normally mix Insulin lispro Sanofi with one of the mixtures of human insulins. You should never mix Insulin lispro Sanofi with insulins produced by other manufacturers or animal insulins.
 - You must not administer Insulin lispro Sanofi by the intravenous route (IV). Inject Insulin lispro Sanofi as your physician or nurse has taught you. Only your physician can administer Insulin lispro Sanofi by the intravenous route. He will only do this under special circumstances such as surgery or if you are ill and your glucose levels are too high.
 
 ## Using Insulin lispro Sanofi in an infusion pump
@@ -1228,11 +1244,11 @@ If you use less Insulin lispro Sanofi than you need, a high blood sugar may occu
 
 If you have any further questions on the use of this medicine, ask your doctor or pharmacist.
 
+<div style=\"page-break-after: always\"></div>
+
 ## 4. Possible side effects
 
 Like all medicines, this medicine can cause side effects, although not everybody gets them.
-
-<div style=\"page-break-after: always\"></div>
 
 Systemic allergy is rare (may affect up to 1 in 1,000 people). The symptoms are as follows:
 
@@ -1283,6 +1299,8 @@ The first symptoms of low blood sugar usually come on quickly and include the fo
 
 While you are not confident about recognising your warning symptoms, avoid situations, e.g. driving a car, in which you or others would be put at risk by hypoglycaemia.
 
+<div style=\"page-break-after: always\"></div>
+
 ## B. Hyperglycaemia and diabetic ketoacidosis
 
 Hyperglycaemia (too much sugar in the blood) means that your body does not have enough insulin. Hyperglycaemia can be brought about by:
@@ -1290,10 +1308,7 @@ Hyperglycaemia (too much sugar in the blood) means that your body does not have 
 - not using your Insulin lispro Sanofi or other insulin;
 - using less insulin than your doctor tells you to;
 - eating a lot more than your diet allows; or
-
-<div style=\"page-break-after: always\"></div>
-
-## · fever, infection or emotional stress.
+- fever, infection or emotional stress.
 
 Hyperglycaemia can lead to diabetic ketoacidosis. The first symptoms come on slowly over many hours or days. The symptoms include the following:
 
@@ -1335,6 +1350,8 @@ Do not throw away any medicines via wastewater or household waste. Ask your phar
 
 Insulin lispro Sanofi, solution for injection in a vial is a clear, colourless, aqueous solution Each vial contains 10 ml.
 
+<div style=\"page-break-after: always\"></div>
+
 The Insulin lispro Sanofi in a vial comes in a pack of 1 vial or 5 vials. Not all pack sizes may be marketed.
 
 ## Marketing Authorisation Holder
@@ -1345,21 +1362,27 @@ Sanofi Winthrop Industrie, 82 avenue Raspail, 94250 Gentilly, France
 
 Sanofi-Aventis Deutschland GmbH, D-65926 Frankfurt am Main, Germany.
 
-<div style=\"page-break-after: always\"></div>
-
 For any information about this medicine, please contact the local representative of the Marketing Authorisation Holder.
 
 ## België/Belgique/Belgien
 
-Sanofi Belgium Tél/Tel: +32 (0)2 710 54 00
+Sanofi Belgium
+
+Tél/Tel: +32 (0)2 710 54 00
 
 ## България
 
-Swixx Biopharma EOOD Тел.: +359 (0)2 4942 480
+Swixx Biopharma EOOD
+
+Тел
+
+.: +359 (0)2 4942 480
 
 ## Česká republika
 
-Sanofi s.r.o. Tel: +420 233 086 111
+Sanofi s.r.o.
+
+Tel: +420 233 086 111
 
 ## Danmark
 
@@ -1369,7 +1392,11 @@ Tlf: +45 45 16 70 00
 
 ## Deutschland
 
-Sanofi-Aventis Deutschland GmbH Tel.: 0800 52 52 010 Tel. aus dem Ausland: +49 69 305 21 131
+Sanofi-Aventis Deutschland GmbH
+
+Tel.: 0800 52 52 010
+
+Tel. aus dem Ausland: +49 69 305 21 131
 
 ## Eesti
 
@@ -1379,29 +1406,23 @@ Tel: +372 640 10 30
 
 ## Ελλάδα
 
-Sanofi-Aventis Μονοπρόσωπη ΑΕΒΕ Τηλ: +30 210 900 16 00
+Sanofi- Aventis Μονοπρόσωπη ΑΕΒΕ
+
+Τηλ: +30 210 900 16 00
 
 ## España
 
-sanofi-aventis, S.A. Tel: +34 93 485 94 00
+sanofi-aventis, S.A.
+
+Tel: +34 93 485 94 00
 
 ## France
 
-Sanofi Winthrop Industrie Tél: 0 800 222 555 Appel depuis l'étranger: +33 1 57 63 23 23
+Sanofi Winthrop Industrie
 
-## Hrvatska
+Tél: 0 800 222 555
 
-Swixx Biopharma d.o.o. Tel: +385 1 2078 500
-
-## Ireland
-
-sanofi-aventis Ireland Ltd. T/A SANOFI Tel: +353 (0) 1 403 56 00
-
-## Ísland
-
-Vistor hf.
-
-Sími: +354 535 7000
+Appel depuis l'étranger: +33 1 57 63 23 23
 
 ## Lietuva
 
@@ -1417,7 +1438,9 @@ Tél/Tel: +32 (0)2 710 54 00 (Belgique/Belgien)
 
 ## Magyarország
 
-SANOFI-AVENTIS Zrt., Tel.: +36 1 505 0050
+SANOFI-AVENTIS Zrt.,
+
+Tel.: +36 1 505 0050
 
 ## Malta
 
@@ -1433,39 +1456,69 @@ Tel: +31 20 245 4000
 
 ## Norge
 
-sanofi-aventis Norge AS Tlf: +47 67 10 71 00
+sanofi-aventis Norge AS
+
+Tlf: +47 67 10 71 00
 
 ## Österreich
 
-sanofi-aventis GmbH Tel: +43 1 80 185 - 0
+sanofi-aventis GmbH
+
+Tel: +43 1 80 185 - 0
 
 ## Polska
 
-Sanofi Sp. z o.o. Tel.: +48 22 280 00 00
+Sanofi Sp. z o.o.
+
+Tel.: +48 22 280 00 00
 
 ## Portugal
 
-Sanofi - Produtos Farmacêuticos, Lda Tel: +351 21 35 89 400
+Sanofi - Produtos Farmacêuticos, Lda
+
+Tel: +351 21 35 89 400
+
+## Hrvatska
+
+Swixx Biopharma d.o.o.
+
+Tel: +385 1 2078 500
 
 ## România
 
-Sanofi Romania SRL Tel: +40 (0) 21 317 31 36
+Sanofi Romania SRL
+
+Tel: +40 (0) 21 317 31 36
+
+## Ireland
+
+sanofi-aventis Ireland Ltd. T/A SANOFI
+
+Tel: +353 (0) 1 403 56 00
 
 ## Slovenija
 
-Swixx Biopharma d.o.o. Tel: +386 1 235 51 00
+Swixx Biopharma d.o.o.
+
+Tel: +386 1 235 51 00
+
+## Ísland
+
+Vistor ehf.
+
+Sími: +354 535 7000
 
 ## Slovenská republika
 
-Swixx Biopharma s.r.o. Tel: +421 2 208 33 600
+Swixx Biopharma s.r.o.
+
+Tel: +421 2 208 33 600
 
 ## Italia
 
 Sanofi S.r.l.
 
-Tel: 800 13 12 12 (domande di tipo tecnico)
-
-800.536389 (altre domande)
+Tel: +39 800 536389
 
 ## Suomi/Finland
 
@@ -1477,7 +1530,9 @@ Puh/Tel: +358 (0) 201 200 300
 
 C.A Papaellinas Ltd.
 
-Τηλ: +357 22 741741
+Τηλ
+
+: +357 22 741741
 
 ## Sverige
 
@@ -1490,12 +1545,6 @@ Tel: +46 (0)8 634 50 00
 Swixx Biopharma SIA
 
 Tel: +371 6616 47 50
-
-## United Kingdom (Northern Ireland)
-
-Sanofi-aventis Ireland Ltd. T/A SANOFI
-
-Tel: +44 (0) 800 035 2525
 
 <div style=\"page-break-after: always\"></div>
 
@@ -1675,9 +1724,9 @@ If you use less Insulin lispro Sanofi than you need, a high blood sugar may occu
 
 If you have any further questions on the use of this medicine, ask your doctor or pharmacist.
 
-## 4. Possible side effects
-
 <div style=\"page-break-after: always\"></div>
+
+## 4. Possible side effects
 
 Like all medicines, this medicine can cause side effects, although not everybody gets them.
 
@@ -1735,10 +1784,10 @@ While you are not confident about recognising your warning symptoms, avoid situa
 Hyperglycaemia (too much sugar in the blood) means that your body does not have enough insulin. Hyperglycaemia can be brought about by:
 
 - not using your Insulin lispro Sanofi or other insulin;
-- using less insulin than your doctor tells you to;
 
 <div style=\"page-break-after: always\"></div>
 
+- using less insulin than your doctor tells you to;
 - eating a lot more than your diet allows; or
 - fever, infection or emotional stress.
 
@@ -1784,11 +1833,11 @@ Insulin lispro Sanofi, solution for injection is a clear, colourless, aqueous so
 
 The Insulin lispro Sanofi cartridges come in a pack of 5 or 10 cartridges. Not all pack sizes may be marketed.
 
+<div style=\"page-break-after: always\"></div>
+
 ## Marketing Authorisation Holder
 
 Sanofi Winthrop Industrie, 82 avenue Raspail, 94250 Gentilly, France
-
-<div style=\"page-break-after: always\"></div>
 
 ## Manufacturer
 
@@ -1798,13 +1847,17 @@ For any information about this medicine, please contact the local representative
 
 ## België/Belgique/Belgien
 
-Sanofi Belgium Tél/Tel: +32 (0)2 710 54 00
+Sanofi Belgium
+
+Tél/Tel: +32 (0)2 710 54 00
 
 ## България
 
 Swixx Biopharma EOOD
 
-Тел.: +359 (0)2 4942 480
+Тел
+
+.: +359 (0)2 4942 480
 
 ## Česká republika
 
@@ -1820,7 +1873,9 @@ Tlf: +45 45 16 70 00
 
 ## Deutschland
 
-Sanofi-Aventis Deutschland GmbH Tel.: 0800 52 52 010
+Sanofi-Aventis Deutschland GmbH
+
+Tel.: 0800 52 52 010
 
 Tel. aus dem Ausland: +49 69 305 21 131
 
@@ -1832,7 +1887,9 @@ Tel: +372 640 10 30
 
 ## Ελλάδα
 
-Sanofi-Aventis Μονοπρόσωπη ΑΕΒΕ Τηλ: +30 210 900 16 00
+Sanofi-Aventis Μονοπρόσωπη ΑΕΒΕ
+
+Τηλ: +30 210 900 16 00
 
 ## España
 
@@ -1842,7 +1899,11 @@ Tel: +34 93 485 94 00
 
 ## France
 
-Sanofi Winthrop Industrie Tél: 0 800 222 555 Appel depuis l'étranger: +33 1 57 63 23 23
+Sanofi Winthrop Industrie
+
+Tél: 0 800 222 555
+
+Appel depuis l'étranger: +33 1 57 63 23 23
 
 ## Hrvatska
 
@@ -1852,21 +1913,21 @@ Tel: +385 1 2078 500
 
 ## Ireland
 
-sanofi-aventis Ireland Ltd. T/A SANOFI Tel: +353 (0) 1 403 56 00
+sanofi-aventis Ireland Ltd. T/A SANOFI
 
-## Ísland
-
-Vistor hf.
-
-Sími: +354 535 7000
+Tel: +353 (0) 1 403 56 00
 
 ## Lietuva
 
-Swixx Biopharma UAB Tel: +370 5 236 91 40
+Swixx Biopharma UAB
+
+Tel: +370 5 236 91 40
 
 ## Luxembourg/Luxemburg
 
-Sanofi Belgium Tél/Tel: +32 (0)2 710 54 00 (Belgique/Belgien)
+Sanofi Belgium
+
+Tél/Tel: +32 (0)2 710 54 00 (Belgique/Belgien)
 
 ## Magyarország
 
@@ -1888,11 +1949,15 @@ Tel: +31 20 245 4000
 
 ## Norge
 
-sanofi-aventis Norge AS Tlf: +47 67 10 71 00
+sanofi-aventis Norge AS
+
+Tlf: +47 67 10 71 00
 
 ## Österreich
 
-sanofi-aventis GmbH Tel: +43 1 80 185 - 0
+sanofi-aventis GmbH
+
+Tel: +43 1 80 185 - 0
 
 ## Polska
 
@@ -1902,15 +1967,27 @@ Tel.: +48 22 280 00 00
 
 ## Portugal
 
-Sanofi - Produtos Farmacêuticos, Lda Tel: +351 21 35 89 400
+Sanofi - Produtos Farmacêuticos, Lda
+
+Tel: +351 21 35 89 400
 
 ## România
 
-Sanofi Romania SRL Tel: +40 (0) 21 317 31 36
+Sanofi Romania SRL
+
+Tel: +40 (0) 21 317 31 36
 
 ## Slovenija
 
-Swixx Biopharma d.o.o. Tel: +386 1 235 51 00
+Swixx Biopharma d.o.o.
+
+Tel: +386 1 235 51 00
+
+## Ísland
+
+Vistor ehf.
+
+Sími: +354 535 7000
 
 ## Slovenská republika
 
@@ -1922,9 +1999,7 @@ Tel: +421 2 208 33 600
 
 Sanofi S.r.l.
 
-Tel: 800 13 12 12 (domande di tipo tecnico)
-
-800.536389 (altre domande)
+Tel: +39 800 536389
 
 ## Suomi/Finland
 
@@ -1936,7 +2011,9 @@ Puh/Tel: +358 (0) 201 200 300
 
 C.A Papaellinas Ltd.
 
-Τηλ: +357 22 741741
+Τηλ
+
+: +357 22 741741
 
 ## Sverige
 
@@ -1949,12 +2026,6 @@ Tel: +46 (0)8 634 50 00
 Swixx Biopharma SIA
 
 Tel: +371 6616 47 50
-
-## United Kingdom (Northern Ireland)
-
-Sanofi-aventis Ireland Ltd. T/A SANOFI
-
-Tel: +44 (0) 800 035 2525
 
 <div style=\"page-break-after: always\"></div>
 
@@ -2238,9 +2309,9 @@ Do not throw away any medicines via wastewater or household waste. Ask your phar
 - The active substance is insulin lispro. Each ml of the solution contains 100 units (equivalent to 3.5 mg) of insulin lispro. Each pre-filled pen contains 3 ml of solution for injection, equivalent to 300 units.
 - The other ingredients are: metacresol, glycerol, disodium hydrogen phosphate heptahydrate, zinc oxide and water for injection. Sodium hydroxide or hydrochloric acid may have been used to adjust the acidity (see section 2 'Insulin lispro Sanofi contains sodium').
 
-## What Insulin lispro Sanofi looks like and contents of the pack
-
 <div style=\"page-break-after: always\"></div>
+
+## What Insulin lispro Sanofi looks like and contents of the pack
 
 Insulin lispro Sanofi, solution for injection is a clear, colourless, aqueous solution. Each pre-filled pen contains 3 ml.
 
@@ -2268,7 +2339,9 @@ Tél/Tel: +32 (0)2 710 54 00
 
 Swixx Biopharma EOOD
 
-Тел.: +359 (0)2 4942 480
+Тел
+
+.: +359 (0)2 4942 480
 
 ## Česká republika
 
@@ -2298,7 +2371,7 @@ Tel: +372 640 10 30
 
 ## Ελλάδα
 
-Sanofi-Aventis Μονοπρόσωπη ΑΕΒΕ
+Sanofi- Aventis Μονοπρόσωπη ΑΕΒΕ
 
 Τηλ: +30 210 900 16 00
 
@@ -2396,7 +2469,7 @@ Tel: +386 1 235 51 00
 
 ## Ísland
 
-Vistor hf.
+Vistor ehf.
 
 Sími: +354 535 7000
 
@@ -2410,9 +2483,7 @@ Tel: +421 2 208 33 600
 
 Sanofi S.r.l.
 
-Tel: 800 13 12 12 (domande di tipo tecnico)
-
-800.536389 (altre domande)
+Tel: +39 800 536389
 
 ## Suomi/Finland
 
@@ -2424,7 +2495,9 @@ Puh/Tel: +358 (0) 201 200 300
 
 C.A Papaellinas Ltd.
 
-Τηλ: +357 22 741741
+Τηλ
+
+: +357 22 741741
 
 ## Sverige
 
@@ -2437,12 +2510,6 @@ Tel: +46 (0)8 634 50 00
 Swixx Biopharma SIA
 
 Tel: +371 6616 47 50
-
-## United Kingdom (Northern Ireland)
-
-Sanofi-aventis Ireland Ltd. T/A SANOFI
-
-Tel: +44 (0) 800 035 2525
 
 <div style=\"page-break-after: always\"></div>
 
@@ -2605,7 +2672,7 @@ Odd numbers are shown as a line between even numbers:
 
 <!-- image -->
 
-## Units of insulin in your pen 0
+## Units of insulin in your pen
 
 - Your pen contains a total of 300 units of insulin. You can select doses from 1 to 80 units in steps of 1 unit. Each pen contains more than one dose.
 - You can see roughly how many units of insulin are left by looking at where the plunger is on the insulin scale.

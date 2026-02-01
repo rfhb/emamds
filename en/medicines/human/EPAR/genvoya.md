@@ -1,18 +1,18 @@
 ---
-document_datetime: 2025-12-29 07:33:02
+document_datetime: 2026-01-28 13:48:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/genvoya.html
 document_name: genvoya.html
 version: success
-processing_time: 0.1198895
-conversion_datetime: 2025-12-31 04:54:36.997647
+processing_time: 0.1278235
+conversion_datetime: 2026-02-01 20:44:28.336689
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.66.0
-  docling-core: 2.57.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.11.0
+  docling-jobkit: 1.9.1
+  docling: 2.71.0
+  docling-core: 2.62.0
+  docling-ibm-models: 3.11.0
+  docling-parse: 4.7.3
   python: cpython-313 (3.13.11)
   plaform: macOS-26.2-arm64-arm-64bit-Mach-O
 ---
@@ -25,8 +25,6 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 elvitegravir / cobicistat / emtricitabine / tenofovir alafenamide Medicine Human Authorised
-
-On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -119,7 +117,7 @@ English (EN) (122.76 KB - PDF)
 
 [View](/en/documents/overview/genvoya-epar-summary-public_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-592)
+[Other languages (22)](#file-language-dropdown-444)
 
 български (BG) (150.87 KB - PDF)
 
@@ -385,15 +383,15 @@ svenska (SV) (124.28 KB - PDF)
 
 [View](/sv/documents/overview/genvoya-epar-summary-public_sv.pdf)
 
-Genvoya : EPAR - Risk-management-plan summary
+Genvoya : EPAR - Risk management plan
 
-English (EN) (236.1 KB - PDF)
+English (EN) (13.19 MB - PDF)
 
 **First published:** 01/12/2015
 
-**Last updated:** 14/10/2022
+**Last updated:** 28/01/2026
 
-[View](/en/documents/rmp-summary/genvoya-epar-risk-management-plan-summary_en.pdf)
+[View](/en/documents/rmp/genvoya-epar-risk-management-plan_en.pdf)
 
 ## Product information
 
@@ -407,7 +405,7 @@ English (EN) (621.77 KB - PDF)
 
 [View](/en/documents/product-information/genvoya-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-235)
+[Other languages (24)](#file-language-dropdown-176)
 
 български (BG) (902.67 KB - PDF)
 
@@ -723,7 +721,7 @@ English (EN) (44.1 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/genvoya-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-769)
+[Other languages (24)](#file-language-dropdown-45)
 
 български (BG) (69.97 KB - PDF)
 
@@ -1047,7 +1045,7 @@ Gilead Sciences Ireland UC
 
 IDA Business &amp; Technology Park
 
-Opinion adopted 24/09/2015 Marketing authorisation issued 19/11/2015 Revision 27
+Opinion adopted 24/09/2015 Marketing authorisation issued 19/11/2015 Revision 28
 
 ## Assessment history
 
@@ -1059,13 +1057,21 @@ Collapse section
 
 Genvoya : EPAR - Procedural steps taken and scientific information after authorisation
 
+English (EN) (152.93 KB - PDF)
+
+**First published:** 28/01/2026
+
+[View](/en/documents/procedural-steps-after/genvoya-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf)
+
+Genvoya : EPAR - Procedural steps taken and scientific information after authorisation (archive)
+
 English (EN) (375.35 KB - PDF)
 
 **First published:** 31/03/2016
 
-**Last updated:** 14/10/2022
+**Last updated:** 28/01/2026
 
-[View](/en/documents/procedural-steps-after/genvoya-epar-procedural-steps-taken-and-scientific-information-after-authorisation_en.pdf)
+[View](/en/documents/procedural-steps-after/genvoya-epar-procedural-steps-taken-scientific-information-after-authorisation-archive_en.pdf)
 
 Genvoya-H-C-004042-X-0079-G : EPAR - Assessment report - Extension
 
@@ -1195,7 +1201,7 @@ English (EN) (68.61 KB - PDF)
 
 - [Medicines](https://www.ema.europa.eu/en/search?f%5B0%5D=ema_search_topics%3A61)
 
-**This page was last updated on** 28/11/2022
+**This page was last updated on** 28/01/2026
 
 ## Share this page
 

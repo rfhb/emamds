@@ -1,18 +1,18 @@
 ---
-document_datetime: 2025-05-15 16:39:35
-document_pages: 2
+document_datetime: 2026-01-29 13:04:17
+document_pages: 3
 document_pathfilename: www.ema.europa.eu/en/documents/procedural-steps-after/inomax-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf
 document_name: inomax-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf
 version: success
-processing_time: 3.3774233
-conversion_datetime: 2025-12-19 23:38:51.419903
+processing_time: 1.7071771
+conversion_datetime: 2026-02-01 20:33:47.589661
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.64.1
-  docling-core: 2.55.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.11.0
+  docling-jobkit: 1.9.1
+  docling: 2.71.0
+  docling-core: 2.62.0
+  docling-ibm-models: 3.11.0
+  docling-parse: 4.7.3
   python: cpython-313 (3.13.11)
   plaform: macOS-26.2-arm64-arm-64bit-Mach-O
 ---
@@ -20,17 +20,11 @@ docling_version:
 
 Procedural steps taken and scientific information after the authorisation*
 
-*Due to the Agency' s update of its procedure management systems, an additional document, reflecting the historical lifecycle may be available in the 'Assessmenthistory'section.Forthe completeproductlifecycleprocedures,please alsorefertoEPAR-Proceduralsteps taken andscientific informationafterauthorisation(archive).
+*Due to the Agency`s update of its procedure management systems, an additional document, reflecting the historical lifecycle may be available in the 'Assessment history' section. For the complete product lifecycle procedures, you may need to also refer to EPAR - Procedural steps taken and scientific information after authorisation (archive) .
 
-| Applicationnumber   | Scope                              | Opinion/ Notification 1 issued on   | Commission Decision Issued²/ amendedon   | Product Information affected3   | Summary   |
-|---------------------|------------------------------------|-------------------------------------|------------------------------------------|---------------------------------|-----------|
-| Article 61(3) /     | -Notification acc. Article 61(3) - | 15/05/2025                          |                                          | PL                              |           |
-
-1 Notifications are issued for type I variations and Article 61(3) notifications (unless part of a group including a type II variation or extension application or a worksharing application). Opinions areissuedforallotherprocedures.
-
-3SmPC(Summary ofProductCharacteristics),AnnexII,Labelling,PL(Package Leaflet).
-
-2 A Commission decision(CD) is issued for procedures that affect the terms of the marketing authorisation(e.g.summary of product characteristics, annexII, labelling,package leaflet).The CDisissuedwithintwomonths of the opinionforvariationsfallingunderthescope ofArticle23.1a(a)ofRegulation(EU)No.712/2012,orwithinoneyearforotherprocedures.
+| Application number   | Scope                                        | Opinion/ Notification 1 issued on   | Commission Decision Issued 2 / amended on   | Product Information affected 3   | Summary   |
+|----------------------|----------------------------------------------|-------------------------------------|---------------------------------------------|----------------------------------|-----------|
+| Variation type IB /  | C.I.11 Introduction of, or change(s) to, the | 29/01/2026                          | N/A                                         |                                  |           |
 
 <!-- image -->
 
@@ -38,6 +32,14 @@ Procedural steps taken and scientific information after the authorisation*
 
 <div style=\"page-break-after: always\"></div>
 
-| EMA/N/0000269511                         | Update of the package leaflet with the additionofcontactdetailsoflocal representatives.                                                                                                                                                                                                                                                                               |            |             |                                                                                                                                                                                                                                              |
-|------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------|-------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Variation type IA_IN / EMA/VR/0000256526 | C.1.3Change(s)intheSummary ofProduct Characteristics, Labelling or Package Leaflet of humanmedicinalproducts intended to implementtheoutcomeofaprocedure conceming PSUR or PASS, or the outcome of theassessmentdonebythecompetent authority under Articles 45 or 46 of Regulation1901/2006-C.1.3.a Implementationofwording agreedbythe competent authority -Accepted | 27/03/2025 | SmPC and PL | To update section 4.4 of the SmPC and section 2 of thePL toimplementthesignal recommendations on \"Nitric oxide - Pulmonary oedema in patients with veno-occlusive disease(EPITTno20086)'adopted at the 28 November 2024 at the PRAC meeting. |
+| EMA/VR/0000315082                        | obligations and conditions of a marketing authorisation, including the risk management plan - C.I.11.z Other RMP changes (e.g. agreed wording + template change) - Accepted C.I.11.z - to provide an updated RMP to reflect information following PRAC recommendation on signals (EMA/PRAC/537837/2024). In addition, the RMP has been aligned to Guidance on the format of the risk management plan (RMP) in the EU - in integrated format (Rev. 2.0.1).   |            |     |             |                                                                                                                                                                                                                                                      |
+|------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------|-----|-------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Variation type IB / EMA/VR/0000314836    | B.II.e.1.a Qualitative and quantitative composition - B.II.e.1.a.2 Semi-solid and non-sterile liquid pharmaceutical forms - Accepted                                                                                                                                                                                                                                                                                                                        | 29/01/2026 | N/A |             |                                                                                                                                                                                                                                                      |
+| Article 61(3) / EMA/N/0000269511         | - Notification acc. Article 61(3) - Accepted Update of the package leaflet with the addition of contact details of local representatives.                                                                                                                                                                                                                                                                                                                   | 15/05/2025 |     | PL          |                                                                                                                                                                                                                                                      |
+| Variation type IA_IN / EMA/VR/0000256526 | C.I.3 Change(s) in the Summary of Product Characteristics, Labelling or Package Leaflet of human medicinal products intended to implement the outcome of a procedure concerning PSUR or PASS, or the outcome of the assessment done by the competent                                                                                                                                                                                                        | 27/03/2025 |     | SmPC and PL | To update section 4.4 of the SmPC and section 2 of the PL to implement the signal recommendations on \"Nitric oxide - Pulmonary oedema in patients with veno-occlusive disease (EPITT no 20086)' adopted at the 28 November 2024 at the PRAC meeting. |
+
+<div style=\"page-break-after: always\"></div>
+
+|                            | authority under Articles 45 or 46 of Regulation 1901/2006 - C.I.3.a Implementation of wording agreed by the competent authority - Accepted   |             |
+|----------------------------|----------------------------------------------------------------------------------------------------------------------------------------------|-------------|
+| PSUR / EMA/PSUR/0000268961 | - -                                                                                                                                          | Maintenance |

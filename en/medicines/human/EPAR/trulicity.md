@@ -1,18 +1,18 @@
 ---
-document_datetime: 2025-12-29 08:00:08
+document_datetime: 2026-01-30 11:52:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/trulicity.html
 document_name: trulicity.html
 version: success
-processing_time: 0.1217061
-conversion_datetime: 2025-12-31 01:33:12.11183
+processing_time: 0.1339532
+conversion_datetime: 2026-02-01 20:30:17.956687
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.66.0
-  docling-core: 2.57.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.11.0
+  docling-jobkit: 1.9.1
+  docling: 2.71.0
+  docling-core: 2.62.0
+  docling-ibm-models: 3.11.0
+  docling-parse: 4.7.3
   python: cpython-313 (3.13.11)
   plaform: macOS-26.2-arm64-arm-64bit-Mach-O
 ---
@@ -25,8 +25,6 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 dulaglutide Medicine Human Authorised
-
-On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -114,7 +112,7 @@ English (EN) (106.03 KB - PDF)
 
 [View](/en/documents/overview/trulicity-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-659)
+[Other languages (22)](#file-language-dropdown-221)
 
 български (BG) (133.15 KB - PDF)
 
@@ -394,17 +392,17 @@ English (EN) (210.22 KB - PDF)
 
 Trulicity : EPAR - Product information
 
-English (EN) (2.25 MB - PDF)
+English (EN) (2.19 MB - PDF)
 
 **First published:** 19/12/2014
 
-**Last updated:** 31/07/2025
+**Last updated:** 30/01/2026
 
 [View](/en/documents/product-information/trulicity-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-185)
+[Other languages (24)](#file-language-dropdown-124)
 
-български (BG) (2.41 MB - PDF)
+български (BG) (2.42 MB - PDF)
 
 **First published:**
 
@@ -412,11 +410,11 @@ English (EN) (2.25 MB - PDF)
 
 **Last updated:**
 
-31/07/2025
+30/01/2026
 
 [View](/bg/documents/product-information/trulicity-epar-product-information_bg.pdf)
 
-español (ES) (1.8 MB - PDF)
+español (ES) (1.79 MB - PDF)
 
 **First published:**
 
@@ -424,11 +422,11 @@ español (ES) (1.8 MB - PDF)
 
 **Last updated:**
 
-31/07/2025
+30/01/2026
 
 [View](/es/documents/product-information/trulicity-epar-product-information_es.pdf)
 
-čeština (CS) (1.85 MB - PDF)
+čeština (CS) (1.88 MB - PDF)
 
 **First published:**
 
@@ -436,11 +434,11 @@ español (ES) (1.8 MB - PDF)
 
 **Last updated:**
 
-31/07/2025
+30/01/2026
 
 [View](/cs/documents/product-information/trulicity-epar-product-information_cs.pdf)
 
-dansk (DA) (2.44 MB - PDF)
+dansk (DA) (3.01 MB - PDF)
 
 **First published:**
 
@@ -448,7 +446,7 @@ dansk (DA) (2.44 MB - PDF)
 
 **Last updated:**
 
-31/07/2025
+30/01/2026
 
 [View](/da/documents/product-information/trulicity-epar-product-information_da.pdf)
 
@@ -460,11 +458,11 @@ Deutsch (DE) (2.2 MB - PDF)
 
 **Last updated:**
 
-31/07/2025
+30/01/2026
 
 [View](/de/documents/product-information/trulicity-epar-product-information_de.pdf)
 
-eesti keel (ET) (1.95 MB - PDF)
+eesti keel (ET) (1.93 MB - PDF)
 
 **First published:**
 
@@ -472,11 +470,11 @@ eesti keel (ET) (1.95 MB - PDF)
 
 **Last updated:**
 
-31/07/2025
+30/01/2026
 
 [View](/et/documents/product-information/trulicity-epar-product-information_et.pdf)
 
-ελληνικά (EL) (2.25 MB - PDF)
+ελληνικά (EL) (2.21 MB - PDF)
 
 **First published:**
 
@@ -484,11 +482,11 @@ eesti keel (ET) (1.95 MB - PDF)
 
 **Last updated:**
 
-31/07/2025
+30/01/2026
 
 [View](/el/documents/product-information/trulicity-epar-product-information_el.pdf)
 
-français (FR) (1.38 MB - PDF)
+français (FR) (1.37 MB - PDF)
 
 **First published:**
 
@@ -496,11 +494,11 @@ français (FR) (1.38 MB - PDF)
 
 **Last updated:**
 
-31/07/2025
+30/01/2026
 
 [View](/fr/documents/product-information/trulicity-epar-product-information_fr.pdf)
 
-hrvatski (HR) (2.92 MB - PDF)
+hrvatski (HR) (3.49 MB - PDF)
 
 **First published:**
 
@@ -508,11 +506,11 @@ hrvatski (HR) (2.92 MB - PDF)
 
 **Last updated:**
 
-31/07/2025
+30/01/2026
 
 [View](/hr/documents/product-information/trulicity-epar-product-information_hr.pdf)
 
-íslenska (IS) (2.55 MB - PDF)
+íslenska (IS) (3.15 MB - PDF)
 
 **First published:**
 
@@ -520,11 +518,11 @@ hrvatski (HR) (2.92 MB - PDF)
 
 **Last updated:**
 
-31/07/2025
+30/01/2026
 
 [View](/is/documents/product-information/trulicity-epar-product-information_is.pdf)
 
-italiano (IT) (2.47 MB - PDF)
+italiano (IT) (3.03 MB - PDF)
 
 **First published:**
 
@@ -532,11 +530,11 @@ italiano (IT) (2.47 MB - PDF)
 
 **Last updated:**
 
-31/07/2025
+30/01/2026
 
 [View](/it/documents/product-information/trulicity-epar-product-information_it.pdf)
 
-latviešu valoda (LV) (2.04 MB - PDF)
+latviešu valoda (LV) (2.01 MB - PDF)
 
 **First published:**
 
@@ -544,11 +542,11 @@ latviešu valoda (LV) (2.04 MB - PDF)
 
 **Last updated:**
 
-31/07/2025
+30/01/2026
 
 [View](/lv/documents/product-information/trulicity-epar-product-information_lv.pdf)
 
-lietuvių kalba (LT) (2.52 MB - PDF)
+lietuvių kalba (LT) (2.5 MB - PDF)
 
 **First published:**
 
@@ -556,11 +554,11 @@ lietuvių kalba (LT) (2.52 MB - PDF)
 
 **Last updated:**
 
-31/07/2025
+30/01/2026
 
 [View](/lt/documents/product-information/trulicity-epar-product-information_lt.pdf)
 
-magyar (HU) (1.88 MB - PDF)
+magyar (HU) (1.85 MB - PDF)
 
 **First published:**
 
@@ -568,11 +566,11 @@ magyar (HU) (1.88 MB - PDF)
 
 **Last updated:**
 
-31/07/2025
+30/01/2026
 
 [View](/hu/documents/product-information/trulicity-epar-product-information_hu.pdf)
 
-Malti (MT) (2.54 MB - PDF)
+Malti (MT) (2.52 MB - PDF)
 
 **First published:**
 
@@ -580,11 +578,11 @@ Malti (MT) (2.54 MB - PDF)
 
 **Last updated:**
 
-31/07/2025
+30/01/2026
 
 [View](/mt/documents/product-information/trulicity-epar-product-information_mt.pdf)
 
-Nederlands (NL) (2.44 MB - PDF)
+Nederlands (NL) (2.4 MB - PDF)
 
 **First published:**
 
@@ -592,11 +590,11 @@ Nederlands (NL) (2.44 MB - PDF)
 
 **Last updated:**
 
-31/07/2025
+30/01/2026
 
 [View](/nl/documents/product-information/trulicity-epar-product-information_nl.pdf)
 
-norsk (NO) (2.13 MB - PDF)
+norsk (NO) (2.9 MB - PDF)
 
 **First published:**
 
@@ -604,11 +602,11 @@ norsk (NO) (2.13 MB - PDF)
 
 **Last updated:**
 
-31/07/2025
+30/01/2026
 
 [View](/no/documents/product-information/trulicity-epar-product-information_no.pdf)
 
-polski (PL) (1.84 MB - PDF)
+polski (PL) (1.65 MB - PDF)
 
 **First published:**
 
@@ -616,11 +614,11 @@ polski (PL) (1.84 MB - PDF)
 
 **Last updated:**
 
-31/07/2025
+30/01/2026
 
 [View](/pl/documents/product-information/trulicity-epar-product-information_pl.pdf)
 
-português (PT) (2.29 MB - PDF)
+português (PT) (2.25 MB - PDF)
 
 **First published:**
 
@@ -628,11 +626,11 @@ português (PT) (2.29 MB - PDF)
 
 **Last updated:**
 
-31/07/2025
+30/01/2026
 
 [View](/pt/documents/product-information/trulicity-epar-product-information_pt.pdf)
 
-română (RO) (2.31 MB - PDF)
+română (RO) (3.52 MB - PDF)
 
 **First published:**
 
@@ -640,11 +638,11 @@ română (RO) (2.31 MB - PDF)
 
 **Last updated:**
 
-31/07/2025
+30/01/2026
 
 [View](/ro/documents/product-information/trulicity-epar-product-information_ro.pdf)
 
-slovenčina (SK) (2.07 MB - PDF)
+slovenčina (SK) (2.05 MB - PDF)
 
 **First published:**
 
@@ -652,11 +650,11 @@ slovenčina (SK) (2.07 MB - PDF)
 
 **Last updated:**
 
-31/07/2025
+30/01/2026
 
 [View](/sk/documents/product-information/trulicity-epar-product-information_sk.pdf)
 
-slovenščina (SL) (2.73 MB - PDF)
+slovenščina (SL) (2.69 MB - PDF)
 
 **First published:**
 
@@ -664,11 +662,11 @@ slovenščina (SL) (2.73 MB - PDF)
 
 **Last updated:**
 
-31/07/2025
+30/01/2026
 
 [View](/sl/documents/product-information/trulicity-epar-product-information_sl.pdf)
 
-Suomi (FI) (2.44 MB - PDF)
+Suomi (FI) (3.04 MB - PDF)
 
 **First published:**
 
@@ -676,11 +674,11 @@ Suomi (FI) (2.44 MB - PDF)
 
 **Last updated:**
 
-31/07/2025
+30/01/2026
 
 [View](/fi/documents/product-information/trulicity-epar-product-information_fi.pdf)
 
-svenska (SV) (1.67 MB - PDF)
+svenska (SV) (2.22 MB - PDF)
 
 **First published:**
 
@@ -688,11 +686,11 @@ svenska (SV) (1.67 MB - PDF)
 
 **Last updated:**
 
-31/07/2025
+30/01/2026
 
 [View](/sv/documents/product-information/trulicity-epar-product-information_sv.pdf)
 
-**Latest procedure affecting product information:** PSUSA/00010311/202409 23/07/2025
+**Latest procedure affecting product information:** VR/0000321382 30/01/2026
 
 icon globe
 
@@ -718,7 +716,7 @@ English (EN) (55.93 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/trulicity-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-464)
+[Other languages (24)](#file-language-dropdown-128)
 
 български (BG) (97.46 KB - PDF)
 
@@ -1032,9 +1030,9 @@ EMA product number EMEA/H/C/002825 Marketing authorisation holder
 
 Eli Lilly Nederland B.V.
 
-Papendorpseweg 83
+Orteliuslaan 1000 3528 BD Utrecht Netherlands
 
-Opinion adopted 25/09/2014 Marketing authorisation issued 21/11/2014 Revision 20
+Opinion adopted 25/09/2014 Marketing authorisation issued 21/11/2014 Revision 21
 
 ## Assessment history
 
@@ -1046,13 +1044,21 @@ Collapse section
 
 Trulicity : EPAR - Procedural steps taken and scientific information after authorisation
 
+English (EN) (167.29 KB - PDF)
+
+**First published:** 30/01/2026
+
+[View](/en/documents/procedural-steps-after/trulicity-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf)
+
+Trulicity : EPAR - Procedural steps taken and scientific information after authorisation (archive)
+
 English (EN) (276.54 KB - PDF)
 
 **First published:** 08/09/2015
 
-**Last updated:** 31/07/2025
+**Last updated:** 30/01/2026
 
-[View](/en/documents/procedural-steps-after/trulicity-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf)
+[View](/en/documents/procedural-steps-after/trulicity-epar-procedural-steps-taken-scientific-information-after-authorisation-archive_en.pdf)
 
 Trulicity-H-C-2825-II-0065 : EPAR - Assessment report - Variation
 
@@ -1210,6 +1216,7 @@ English (EN) (87.53 KB - PDF)
 
 - [EMEA-000783-PIP01-09-M06 - paediatric investigation plan](/en/medicines/human/paediatric-investigation-plans/emea-000783-pip01-09-m06)
 - [Trulicity - supply shortage](/en/medicines/human/shortages/trulicity)
+- [Database Linkage Study to Evaluate the Risk of Medullary Thyroid Carcinoma - post-authorisation study](https://catalogues.ema.europa.eu/study/1000000513)
 - [Dulaglutide and Potential Risks of Pancreatic Cancer and Thyroid Cancer: A Non-Interventional PASS (H9X-MC-B013) - post-authorisation study](https://catalogues.ema.europa.eu/study/49022)
 - [DARWIN EU® - Drug Utilisation Study on GLP-1 Receptor Agonists - post-authorisation study](https://catalogues.ema.europa.eu/study/1000000223)
 - [Dulaglutide Modified-Prescription-Event Monitoring Study and network database study: a multi-database collaborative research program of observational studies to monitor the utilisation and safety of dulaglutide in the EU - post-authorisation study](https://catalogues.ema.europa.eu/study/44227)
@@ -1218,7 +1225,7 @@ English (EN) (87.53 KB - PDF)
 
 - [Medicines](https://www.ema.europa.eu/en/search?f%5B0%5D=ema_search_topics%3A61)
 
-**This page was last updated on** 31/07/2025
+**This page was last updated on** 30/01/2026
 
 ## Share this page
 

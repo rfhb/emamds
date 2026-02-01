@@ -1,18 +1,18 @@
 ---
-document_datetime: 2025-07-31 16:46:02
-document_pages: 105
+document_datetime: 2026-01-30 08:45:09
+document_pages: 103
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/trulicity-epar-product-information_en.pdf
 document_name: trulicity-epar-product-information_en.pdf
 version: success
-processing_time: 49.4011084
-conversion_datetime: 2025-12-27 09:49:25.742974
+processing_time: 48.9236717
+conversion_datetime: 2026-02-01 20:24:49.108769
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.66.0
-  docling-core: 2.57.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.11.0
+  docling-jobkit: 1.9.1
+  docling: 2.71.0
+  docling-core: 2.62.0
+  docling-ibm-models: 3.11.0
+  docling-parse: 4.7.3
   python: cpython-313 (3.13.11)
   plaform: macOS-26.2-arm64-arm-64bit-Mach-O
 ---
@@ -32,21 +32,39 @@ Trulicity 0.75 mg solution for injection in pre-filled pen
 
 Each pre-filled pen contains 0.75 mg of dulaglutide* in 0.5 ml solution.
 
-Trulicity 1.5 mg solution for injection in pre-filled pen
+Excipient with known effect:
+
+One ml of solution contains 0.20 mg polysorbate 80.
+
+## Trulicity 1.5 mg solution for injection in pre-filled pen
 
 Each pre-filled pen contains 1.5 mg of dulaglutide* in 0.5 ml solution.
 
-Trulicity 3 mg solution for injection in pre-filled pen
+Excipient with known effect:
+
+One ml of solution contains 0.20 mg polysorbate 80.
+
+## Trulicity 3 mg solution for injection in pre-filled pen
 
 Each pre-filled pen contains 3 mg of dulaglutide* in 0.5 ml solution.
 
-Trulicity 4.5 mg solution for injection in pre-filled pen
+Excipient with known effect:
+
+One ml of solution contains 0.25 mg polysorbate 80.
+
+## Trulicity 4.5 mg solution for injection in pre-filled pen
 
 Each pre-filled pen contains 4.5 mg of dulaglutide* in 0.5 ml solution.
+
+Excipient with known effect:
+
+One ml of solution contains 0.25 mg polysorbate 80.
 
 *produced in CHO cells by recombinant DNA technology.
 
 For the full list of excipients, see section 6.1.
+
+<div style=\"page-break-after: always\"></div>
 
 ## 3. PHARMACEUTICAL FORM
 
@@ -67,8 +85,6 @@ Trulicity is indicated for the treatment of patients 10 years and above with ins
 
 For study results with respect to combinations, effects on glycaemic control and cardiovascular events, and the populations studied, see sections 4.4, 4.5 and 5.1.
 
-<div style=\"page-break-after: always\"></div>
-
 ## 4.2 Posology and method of administration
 
 ## Posology
@@ -83,7 +99,7 @@ The recommended dose is 0.75 mg once weekly.
 
 The recommended dose is 1.5 mg once weekly.
 
-## If needed,
+If needed,
 
 - the 1.5 mg dose can be increased after at least 4 weeks to 3 mg once weekly.
 - the 3 mg dose can be increased after at least 4 weeks to 4.5 mg once weekly.
@@ -99,6 +115,8 @@ If needed, the dose can be increased to 1.5 mg once weekly after at least 4 week
 ## Combination therapy
 
 When Trulicity is added to existing metformin and/or pioglitazone therapy, the current dose of metformin and/or pioglitazone can be continued. When Trulicity is added to existing metformin and/or sodium-glucose co-transporter 2 inhibitor (SGLT2i) therapy, the current dose of metformin and/or SGLT2i can be continued. When it is added to existing therapy of a sulphonylurea or insulin, a reduction in the dose of sulphonylurea or insulin may be considered to reduce the risk of hypoglycaemia (see sections 4.4 and 4.8).
+
+<div style=\"page-break-after: always\"></div>
 
 The use of Trulicity does not require blood glucose self-monitoring. Blood glucose self-monitoring is necessary to adjust the dose of sulphonylurea or insulin, particularly when Trulicity therapy is started and insulin is reduced. A stepwise approach to insulin dose reduction is recommended.
 
@@ -117,8 +135,6 @@ No dose adjustment is required based on age (see section 5.2).
 No dose adjustment is required in patients with mild, moderate or severe renal impairment (eGFR &lt; 90 to ≥ 15 mL/min/1.73m 2 ).
 
 There is very limited experience in patients with end stage renal disease (&lt; 15 ml/min/1.73m 2 ), therefore Trulicity cannot be recommended in this population (see sections 5.1 and 5.2).
-
-<div style=\"page-break-after: always\"></div>
 
 ## Hepatic impairment
 
@@ -148,6 +164,8 @@ In order to improve the traceability of biological medicinal products, the name 
 
 ## Type 1 diabetes mellitus or diabetic ketoacidosis
 
+<div style=\"page-break-after: always\"></div>
+
 Dulaglutide should not be used in patients with type 1 diabetes mellitus or for the treatment of diabetic ketoacidosis. Dulaglutide is not a substitute for insulin.
 
 Diabetic ketoacidosis has been reported in insulin-dependent patients after rapid discontinuation or dose reduction of insulin (see section 4.2).
@@ -162,11 +180,7 @@ Cases of pulmonary aspiration have been reported in patients receiving GLP-1 rec
 
 ## Dehydration
 
-Dehydration, sometimes leading to acute renal failure or worsening renal impairment, has been reported in patients treated with dulaglutide, especially at the initiation of treatment. Many of the
-
-<div style=\"page-break-after: always\"></div>
-
-reported adverse renal events occurred in patients who had experienced nausea, vomiting, diarrhoea, or dehydration. Patients treated with dulaglutide should be advised of the potential risk of dehydration, particularly in relation to gastrointestinal adverse reactions and take precautions to avoid fluid depletion.
+Dehydration, sometimes leading to acute renal failure or worsening renal impairment, has been reported in patients treated with dulaglutide, especially at the initiation of treatment. Many of the reported adverse renal events occurred in patients who had experienced nausea, vomiting, diarrhoea, or dehydration. Patients treated with dulaglutide should be advised of the potential risk of dehydration, particularly in relation to gastrointestinal adverse reactions and take precautions to avoid fluid depletion.
 
 ## Acute pancreatitis
 
@@ -178,9 +192,25 @@ Patients should be informed of the characteristic symptoms of acute pancreatitis
 
 Patients receiving dulaglutide in combination with sulphonylurea or insulin may have an increased risk of hypoglycaemia. The risk of hypoglycaemia may be lowered by a reduction in the dose of sulphonylurea or insulin (see sections 4.2 and 4.8).
 
-## Sodium content
+## Sodium
 
 This medicinal product contains less than 1 mmol sodium (23 mg) per dose, that is to say essentially 'sodium- free'.
+
+## Polysorbate
+
+Trulicity 0.75 mg and 1.5 mg, solution for injection in pre-filled pen
+
+This medicinal product contains 0.10 mg of polysorbate 80 in each 0.5 ml dose which is equivalent to 0.20 mg/ml.
+
+<div style=\"page-break-after: always\"></div>
+
+Polysorbates may cause allergic reactions.
+
+## Trulicity 3 mg and 4.5 mg, solution for injection in pre-filled pen
+
+This medicinal product contains 0.125 mg of polysorbate 80 in each 0.5 ml dose which is equivalent to 0.25 mg/ml.
+
+Polysorbates may cause allergic reactions.
 
 ## 4.5 Interaction with other medicinal products and other forms of interaction
 
@@ -196,8 +226,6 @@ Sitagliptin can produce up to 80 % inhibition of DPP-4 over a 24-hour period. Du
 
 ## Paracetamol
 
-<div style=\"page-break-after: always\"></div>
-
 Following a first dose of 1 and 3 mg dulaglutide, paracetamol C max  was reduced by 36 % and 50 %, respectively, and the median tmax occurred later (3 and 4 hours, respectively). After coadministration with up to 3 mg of dulaglutide at steady state, there were no statistically significant differences on AUC(0-12), Cmax or tmax of paracetamol. No dose adjustment of paracetamol is necessary when administered with dulaglutide.
 
 ## Atorvastatin
@@ -206,7 +234,11 @@ Coadministration of 1.5 mg of dulaglutide with atorvastatin decreased Cmax and A
 
 ## Digoxin
 
-After coadministration of steady state digoxin with 2 consecutive 1.5 mg doses of dulaglutide, overall exposure (AUC τ ) and tmax of digoxin were unchanged; and Cmax decreased by up to 22 %. This change is not expected to have clinical consequences. No dose adjustment is required for digoxin when administered with dulaglutide.
+After coadministration of steady state digoxin with 2 consecutive 1.5 mg doses of dulaglutide, overall exposure (AUC τ ) and tmax of digoxin were unchanged; and Cmax decreased by up to 22 %. This change
+
+<div style=\"page-break-after: always\"></div>
+
+is not expected to have clinical consequences. No dose adjustment is required for digoxin when administered with dulaglutide.
 
 ## Anti-hypertensives
 
@@ -222,11 +254,7 @@ Coadministration of dulaglutide (1.5 mg) with an oral contraceptive (norgestimat
 
 ## Metformin
 
-Following coadministration of multiple 1.5 mg doses of dulaglutide with steady state metformin (immediate release formula [IR]), metformin AUC τ increased up to 15 % and Cmax decreased up to 12 %, respectively, with no changes in tmax. These changes are consistent with the gastric emptying
-
-<div style=\"page-break-after: always\"></div>
-
-delay of dulaglutide and within the pharmacokinetic variability of metformin and thus are not clinically relevant. No dose adjustment for metformin IR is recommended when given with dulaglutide.
+Following coadministration of multiple 1.5 mg doses of dulaglutide with steady state metformin (immediate release formula [IR]), metformin AUC τ increased up to 15 % and Cmax decreased up to 12 %, respectively, with no changes in tmax. These changes are consistent with the gastric emptying delay of dulaglutide and within the pharmacokinetic variability of metformin and thus are not clinically relevant. No dose adjustment for metformin IR is recommended when given with dulaglutide.
 
 ## 4.6 Fertility, pregnancy and lactation
 
@@ -237,6 +265,8 @@ There are no or limited amount of data from the use of dulaglutide in pregnant w
 ## Breast-feeding
 
 It is unknown whether dulaglutide is excreted in human milk. A risk to newborns/infants cannot be excluded. Dulaglutide should not be used during breast-feeding.
+
+<div style=\"page-break-after: always\"></div>
 
 ## Fertility
 
@@ -256,34 +286,34 @@ In the completed phase 2 and phase 3 studies to support the initial registration
 
 The following adverse reactions have been identified based on evaluation of the full duration of the phase 2 and phase 3 clinical studies, the long-term cardiovascular outcome study and post-marketing reports. The adverse reactions are listed in Table 1 as MedDRA preferred term by system organ class and in order of decreasing incidence (very common: ≥ 1/10; common: ≥ 1/100 to &lt; 1/10; uncommon: ≥ 1/1,000 to &lt; 1/100; rare: ≥ 1/10,000 to &lt; 1/1,000; very rare: &lt; 1/10,000 and not known: cannot be estimated from available data). Within each incidence grouping, adverse reactions are presented in order of decreasing frequency. Frequencies for events have been calculated based on their incidence in the phase 2 and phase 3 registration studies.
 
-<div style=\"page-break-after: always\"></div>
-
 Table 1. The frequency of adverse reactions of dulaglutide
 
-| System organ class                                   | Very common                                                                                                    | Common                                                                                                                     | Uncommon                      | Rare                                         | Not known                              |
-|------------------------------------------------------|----------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------|-------------------------------|----------------------------------------------|----------------------------------------|
-| Immune system disorders                              |                                                                                                                |                                                                                                                            | Hypersensitivity              | Anaphylactic reaction #                      |                                        |
-| Metabolism and nutrition disorders                   | Hypoglycaemia* (when used in combination with insulin, glimepiride, metformin † or metformin plus glimepiride) | Hypoglycaemia* (when used as monotherapy or in combination with metformin plus pioglitazone)                               | Dehydration                   |                                              |                                        |
-| Nervous system disorders                             |                                                                                                                |                                                                                                                            | Dysgeusia                     |                                              |                                        |
-| Gastrointestinal disorders                           | Nausea, diarrhoea, vomiting † , abdominal pain †                                                               | Decreased appetite, dyspepsia, constipation, flatulence, abdominal distention, gastroesophageal reflux disease, eructation |                               | Acute pancreatitis, delayed gastric emptying | Non- mechanical intestinal obstruction |
-| Hepatobiliary disorders                              |                                                                                                                |                                                                                                                            | Cholelithiasis, cholecystitis |                                              |                                        |
-| Skin and subcutaneous tissue disorders               |                                                                                                                |                                                                                                                            |                               | Angioedema #                                 |                                        |
-| General disorders and administration site conditions |                                                                                                                | Fatigue                                                                                                                    | Injection site reactions $    |                                              |                                        |
-| Investigations                                       |                                                                                                                | Sinus tachycardia, first degree atrioventricular block (AVB)                                                               |                               |                                              |                                        |
+| System organ class                 | Very common                                                                                                    | Common                                                                                       | Uncommon         | Rare                    | Not known   |
+|------------------------------------|----------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------|------------------|-------------------------|-------------|
+| Immune system disorders            |                                                                                                                |                                                                                              | Hypersensitivity | Anaphylactic reaction # |             |
+| Metabolism and nutrition disorders | Hypoglycaemia* (when used in combination with insulin, glimepiride, metformin † or metformin plus glimepiride) | Hypoglycaemia* (when used as monotherapy or in combination with metformin plus pioglitazone) | Dehydration      |                         |             |
+
+<div style=\"page-break-after: always\"></div>
+
+| Nervous system disorders                             |                                                  |                                                                                                                            | Dysgeusia                     |                                              |                                        |
+|------------------------------------------------------|--------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------|-------------------------------|----------------------------------------------|----------------------------------------|
+| Gastrointestinal disorders                           | Nausea, diarrhoea, vomiting † , abdominal pain † | Decreased appetite, dyspepsia, constipation, flatulence, abdominal distention, gastroesophageal reflux disease, eructation |                               | Acute pancreatitis, delayed gastric emptying | Non- mechanical intestinal obstruction |
+| Hepatobiliary disorders                              |                                                  |                                                                                                                            | Cholelithiasis, cholecystitis |                                              |                                        |
+| Skin and subcutaneous tissue disorders               |                                                  |                                                                                                                            |                               | Angioedema #                                 |                                        |
+| General disorders and administration site conditions |                                                  | Fatigue                                                                                                                    | Injection site reactions $    |                                              |                                        |
+| Investigations                                       |                                                  | Sinus tachycardia, first degree atrioventricular block (AVB)                                                               |                               |                                              |                                        |
 
 ## Description of selected adverse reactions
 
 ## Hypoglycaemia
 
-When dulaglutide 0.75 mg and 1.5 mg were used as monotherapy or in combination with metformin alone or metformin and pioglitazone, the incidences of documented symptomatic hypoglycaemia were
-
-<div style=\"page-break-after: always\"></div>
-
-5.9 % to 10.9 % and the rates were 0.14 to 0.62 events/patient/year, and no episodes of severe hypoglycaemia were reported.
+When dulaglutide 0.75 mg and 1.5 mg were used as monotherapy or in combination with metformin alone or metformin and pioglitazone, the incidences of documented symptomatic hypoglycaemia were 5.9 % to 10.9 % and the rates were 0.14 to 0.62 events/patient/year, and no episodes of severe hypoglycaemia were reported.
 
 The incidences of documented symptomatic hypoglycaemia when dulaglutide 0.75 mg and 1.5 mg, respectively, were used in combination with a sulphonylurea and metformin were 39.0 % and 40.3 % and the rates were 1.67 and 1.67 events/patient/year. The severe hypoglycaemia event incidences were 0 % and 0.7 %, and rates were 0.00 and 0.01 events/patient/year for each dose, respectively. The incidence of documented symptomatic hypoglycaemia when dulaglutide 1.5 mg was used with sulphonylurea alone was 11.3 % and the rate was 0.90 events/patient/year, and there were no episodes of severe hypoglycaemia.
 
 The incidence of documented symptomatic hypoglycaemia when dulaglutide 1.5 mg was used in combination with insulin glargine was 35.3 % and the rate was 3.38 events/patient/year. The severe hypoglycaemia event incidence was 0.7 % and the rate was 0.01 events/patient/year.
+
+<div style=\"page-break-after: always\"></div>
 
 The incidences when dulaglutide 0.75 mg and 1.5 mg, respectively, were used in combination with prandial insulin were 85.3 % and 80.0 % and rates were 35.66 and 31.06 events/patient/year. The severe hypoglycaemia event incidences were 2.4 % and 3.4 %, and rates were 0.05 and 0.06 events/patient/year.
 
@@ -307,8 +337,6 @@ Dulaglutide is associated with mean increases from baseline in pancreatic enzyme
 
 Small mean increases in heart rate of 2 to 4 beats per minute (bpm) and a 1.3 % and 1.4 % incidence of sinus tachycardia, with a concomitant increase from baseline ≥ 15 bpm, were observed with dulaglutide 0.75 mg and 1.5 mg, respectively.
 
-<div style=\"page-break-after: always\"></div>
-
 In a phase 3 study with 1.5 mg, 3 mg and 4.5 mg dulaglutide doses, the incidence of sinus tachycardia, with a concomitant increase from baseline ≥ 15 bpm, was 2.6 %, 1.9 % and 2.6 % respectively. Mean increases in heart rate of 1 - 4 beats per minute (bpm) were observed.
 
 ## First degree AV block/PR interval prolongation
@@ -319,7 +347,11 @@ In a phase 3 study with 1.5 mg, 3 mg and 4.5 mg dulaglutide doses, the incidence
 
 ## Immunogenicity
 
-In registration studies, treatment with dulaglutide was associated with a 1.6 % incidence of treatment emergent dulaglutide anti-drug antibodies, indicating that the structural modifications in the GLP-1 and modified IgG4 parts of the dulaglutide molecule, together with high homology with native GLP-1 and native IgG4, minimise the risk of immune response against dulaglutide. Patients with dulaglutide anti-drug antibodies generally had low titres, and although the number of patients developing dulaglutide anti-drug antibodies was low, examination of the phase 3 data revealed no clear impact of dulaglutide anti-drug antibodies on changes in HbA1c. None of the patients with systemic hypersensitivity developed dulaglutide anti-drug antibodies.
+In registration studies, treatment with dulaglutide was associated with a 1.6 % incidence of treatment emergent dulaglutide anti-drug antibodies, indicating that the structural modifications in the GLP-1
+
+<div style=\"page-break-after: always\"></div>
+
+and modified IgG4 parts of the dulaglutide molecule, together with high homology with native GLP-1 and native IgG4, minimise the risk of immune response against dulaglutide. Patients with dulaglutide anti-drug antibodies generally had low titres, and although the number of patients developing dulaglutide anti-drug antibodies was low, examination of the phase 3 data revealed no clear impact of dulaglutide anti-drug antibodies on changes in HbA1c. None of the patients with systemic hypersensitivity developed dulaglutide anti-drug antibodies.
 
 ## Hypersensitivity
 
@@ -343,13 +375,13 @@ The safety profile in patients treated with dulaglutide 3 mg and 4.5 mg once wee
 
 The safety profile in paediatric patients aged 10 years and above treated with dulaglutide 0.75 mg and 1.5 mg once-weekly is comparable with that described above for adult patients.
 
-<div style=\"page-break-after: always\"></div>
-
 The immunogenicity profile in paediatric patients treated with dulaglutide is consistent with that described above for adult patients. In the paediatric study, 2.1 % and 4.0 % of patients treated with placebo and dulaglutide respectively developed treatment emergent dulaglutide anti-drug antibodies.
 
 ## Reporting of suspected adverse reactions
 
 Reporting suspected adverse reactions after authorisation of the medicinal product is important. It allows continued monitoring of the benefit/risk balance of the medicinal product. Healthcare professionals are asked to report any suspected adverse reactions via the national reporting system listed in Appendix V.
+
+<div style=\"page-break-after: always\"></div>
 
 ## 4.9 Overdose
 
@@ -371,11 +403,7 @@ Dulaglutide exhibits several antihyperglycaemic actions of GLP-1. In the presenc
 
 Dulaglutide improves glycaemic control through the sustained effects of lowering fasting, pre-meal and postprandial glucose concentrations in patients with type 2 diabetes starting after the first dulaglutide administration and is sustained throughout the once weekly dosing interval.
 
-A pharmacodynamic study with dulaglutide demonstrated, in patients with type 2 diabetes, a restoration of first phase insulin secretion to a level that exceeded levels observed in healthy subjects on placebo and improved second phase insulin secretion in response to an intravenous bolus of glucose. In the same study, a single 1.5 mg dose of dulaglutide appeared to increase maximal insulin
-
-<div style=\"page-break-after: always\"></div>
-
-secretion from the β -cells, and to enhance β -cell function in subjects with type 2 diabetes mellitus as compared with placebo.
+A pharmacodynamic study with dulaglutide demonstrated, in patients with type 2 diabetes, a restoration of first phase insulin secretion to a level that exceeded levels observed in healthy subjects on placebo and improved second phase insulin secretion in response to an intravenous bolus of glucose. In the same study, a single 1.5 mg dose of dulaglutide appeared to increase maximal insulin secretion from the β -cells, and to enhance β -cell function in subjects with type 2 diabetes mellitus as compared with placebo.
 
 Consistent with the pharmacokinetic profile, dulaglutide has a pharmacodynamic profile suitable for once weekly administration (see section 5.2).
 
@@ -383,7 +411,11 @@ Consistent with the pharmacokinetic profile, dulaglutide has a pharmacodynamic p
 
 ## Glycaemic control
 
-The safety and efficacy of dulaglutide were evaluated in ten randomised, controlled, phase 3 trials involving 8,035 patients with type 2 diabetes. Of these, 1,644 were ≥ 65 years of which 174 were ≥ 75 years. These studies included 5,650 dulaglutide treated patients, of whom 1,558 were treated with Trulicity 0.75 mg weekly, 2,862 were treated with Trulicity 1.5 mg weekly, 616 were treated with Trulicity 3 mg weekly and 614 were treated with Trulicity 4.5 mg weekly. In all studies, dulaglutide produced clinically significant improvements in glycaemic control as measured by glycosylated haemoglobin A1c (HbA1c).
+The safety and efficacy of dulaglutide were evaluated in ten randomised, controlled, phase 3 trials involving 8,035 patients with type 2 diabetes. Of these, 1,644 were ≥ 65 years of which 174 were ≥ 75 years. These studies included 5,650 dulaglutide treated patients, of whom 1,558 were treated
+
+<div style=\"page-break-after: always\"></div>
+
+with Trulicity 0.75 mg weekly, 2,862 were treated with Trulicity 1.5 mg weekly, 616 were treated with Trulicity 3 mg weekly and 614 were treated with Trulicity 4.5 mg weekly. In all studies, dulaglutide produced clinically significant improvements in glycaemic control as measured by glycosylated haemoglobin A1c (HbA1c).
 
 ## Monotherapy
 
@@ -403,14 +435,8 @@ Table 2. Results of a 52-week active controlled monotherapy study with two doses
 | Dulaglutide 0.75 mg once weekly (n = 270) | 7.58             | -0.55 †                | 53.2                       | 34.7                       | -1.00           | -1.09 #                 |
 | Metformin 1500 - 2000 mg/day (n = 268)    | 7.60             | -0.51                  | 48.3                       | 28.3                       | -1.15           | -2.20                   |
 
-†
-
-multiplicity adjusted 1-sided p-value &lt; 0.025, for noninferiority; †† multiplicity adjusted 1-sided p-value &lt; 0.025, for superiority of dulaglutide to metformin, assessed for HbA1c only
-
+- † multiplicity adjusted 1-sided p-value &lt; 0.025, for noninferiority; †† multiplicity adjusted 1-sided p-value &lt; 0.025, for superiority of dulaglutide to metformin, assessed for HbA1c only
 - # p &lt; 0.05, ## p &lt; 0.001 dulaglutide treatment group compared to metformin
-
-<div style=\"page-break-after: always\"></div>
-
 - a HbA1c value of 7.0 % (DCCT) corresponds to 53.0 mmol/mol (IFCC) (average blood glucose: 8.6 mmol/L)
 - b HbA1c value of 6.5 % (DCCT) corresponds to 47.5 mmol/mol (IFCC) (average blood glucose: 7.8 mmol/L)
 
@@ -418,11 +444,11 @@ FBG = fasting blood glucose; DCCT = Diabetes Control and Complications Trial; IF
 
 The rate of documented symptomatic hypoglycaemia with dulaglutide 1.5 mg and 0.75 mg, and metformin were 0.62, 0.15, and 0.09 episodes/patient/year, respectively. No cases of severe hypoglycaemia were observed.
 
-## Combination therapy with metformin
-
-The safety and efficacy of dulaglutide was investigated in a placebo and active controlled (sitagliptin 100 mg daily) study of 104 weeks duration, all in combination with metformin. Treatment with Trulicity 1.5 mg and 0.75 mg resulted in a superior reduction in HbA1c compared to sitagliptin at 52 weeks, accompanied by a significantly greater proportion of patients achieving HbA1c targets of &lt; 7.0 % and ≤ 6.5 %. These effects were sustained to the end of the study (104 weeks).
+Combination therapy with metformin
 
 <div style=\"page-break-after: always\"></div>
+
+The safety and efficacy of dulaglutide was investigated in a placebo and active controlled (sitagliptin 100 mg daily) study of 104 weeks duration, all in combination with metformin. Treatment with Trulicity 1.5 mg and 0.75 mg resulted in a superior reduction in HbA1c compared to sitagliptin at 52 weeks, accompanied by a significantly greater proportion of patients achieving HbA1c targets of &lt; 7.0 % and ≤ 6.5 %. These effects were sustained to the end of the study (104 weeks).
 
 Table 3. Results of a 104-week placebo and active controlled study with two doses of dulaglutide in comparison to sitagliptin
 
@@ -450,27 +476,26 @@ Table 3. Results of a 104-week placebo and active controlled study with two dose
 - a HbA1c value of 7.0 % (DCCT) corresponds to 53.0 mmol/mol (IFCC) (average blood glucose: 8.6 mmol/L)
 - b HbA1c value of 6.5 % (DCCT) corresponds to 47.5 mmol/mol (IFCC) (average blood glucose: 7.8 mmol/L)
 
-The rates of documented symptomatic hypoglycaemia with dulaglutide 1.5 mg and 0.75 mg, and sitagliptin were 0.19, 0.18, and 0.17 episodes/patient/year, respectively. No cases of severe hypoglycaemia with dulaglutide were observed.
-
-The safety and efficacy of dulaglutide was also investigated in an active controlled study (liraglutide 1.8 mg daily) of 26 weeks duration, both in combination with metformin. Treatment with Trulicity
-
 <div style=\"page-break-after: always\"></div>
 
-- 1.5 mg resulted in similar lowering of HbA1c and patients achieving HbA1c targets of &lt; 7.0 % and ≤ 6.5 % compared to liraglutide.
+The rates of documented symptomatic hypoglycaemia with dulaglutide 1.5 mg and 0.75 mg, and sitagliptin were 0.19, 0.18, and 0.17 episodes/patient/year, respectively. No cases of severe hypoglycaemia with dulaglutide were observed.
+
+The safety and efficacy of dulaglutide was also investigated in an active controlled study (liraglutide 1.8 mg daily) of 26 weeks duration, both in combination with metformin. Treatment with Trulicity 1.5 mg resulted in similar lowering of HbA1c and patients achieving HbA1c targets of &lt; 7.0 % and ≤ 6.5 % compared to liraglutide.
+
+Table 4. Results of a 26-week active controlled study of one dose of dulaglutide in comparison to liraglutide
+
+|                                          | Baseline HbA1c (%)   | Mean change in HbA1c (%)   | Patients at target HbA1c   | Patients at target HbA1c   | Change in FBG   | Change in body weight (kg)   |
+|------------------------------------------|----------------------|----------------------------|----------------------------|----------------------------|-----------------|------------------------------|
+|                                          |                      |                            | < 7.0% (%) a               | ≤ 6.5% (%) b               | (mmol/L)        |                              |
+| 26 weeks                                 |                      |                            |                            |                            |                 |                              |
+| Dulaglutide 1.5 mg once weekly (n = 299) | 8.06                 | -1.42 ‡                    | 68.3                       | 54.6                       | -1.93           | -2.90 #                      |
+| Liraglutide + 1.8 mg daily (n = 300)     | 8.05                 | -1.36                      | 67.9                       | 50.9                       | -1.90           | -3.61                        |
+
 - ‡ 1-sided p-value p &lt; 0.001, for noninferiority of dulaglutide compared to liraglutide, assessed only for HbA1c.
 - # p &lt; 0.05 dulaglutide treatment group compared to liraglutide.
 + Patients randomised to liraglutide were initiated at a dose of 0.6 mg/day. After Week 1, patients were up-titrated to 1.2 mg/day and then at Week 2 to 1.8 mg/day.
 - a HbA1c value of 7.0 % (DCCT) corresponds to 53.0 mmol/mol (IFCC) (average blood glucose: 8.6 mmol/L)
 - b HbA1c value of 6.5 % (DCCT) corresponds to 47.5 mmol/mol (IFCC) (average blood glucose: 7.8 mmol/L)
-
-Table 4. Results of a 26-week active controlled study of one dose of dulaglutide in comparison to liraglutide
-
-|                                          | Baseline HbA1c (%)   | Mean change in HbA1c (%)   | Patients at target HbA1c   | Patients at target HbA1c   | Change in FBG   | Change in body weight   |
-|------------------------------------------|----------------------|----------------------------|----------------------------|----------------------------|-----------------|-------------------------|
-|                                          |                      |                            | < 7.0% (%) a               | ≤ 6.5% (%) b               | (mmol/L)        | (kg)                    |
-| 26 weeks                                 |                      |                            |                            |                            |                 |                         |
-| Dulaglutide 1.5 mg once weekly (n = 299) | 8.06                 | -1.42 ‡                    | 68.3                       | 54.6                       | -1.93           | -2.90 #                 |
-| Liraglutide + 1.8 mg daily (n = 300)     | 8.05                 | -1.36                      | 67.9                       | 50.9                       | -1.90           | -3.61                   |
 
 The rate of documented symptomatic hypoglycaemia with dulaglutide 1.5 mg was 0.12 episodes/patient/year and with liraglutide was 0.29 episodes/patient/year. No cases of severe hypoglycaemia were observed.
 
@@ -912,7 +937,7 @@ The instructions for using the pen, included with the package leaflet, must be f
 
 ## 7. MARKETING AUTHORISATION HOLDER
 
-Eli Lilly Nederland B.V., Papendorpseweg 83, 3528 BJ Utrecht, The Netherlands.
+Eli Lilly Nederland BV., Orteliuslaan 1000, 3528 BD Utrecht, The Netherlands.
 
 ## 8. MARKETING AUTHORISATION NUMBER
 
@@ -972,7 +997,7 @@ The requirements for submission of PSURs for this medicinal product are set out 
 
 ## · Risk management plan (RMP)
 
-The marketing authorisation holder ( MAH) shall perform the required pharmacovigilance activities and interventions detailed in the agreed RMP presented in Module 1.8.2 of the marketing authorisation and any agreed subsequent updates of the RMP.
+The marketing authorisation holder (MAH) shall perform the required pharmacovigilance activities and interventions detailed in the agreed RMP presented in Module 1.8.2 of the marketing authorisation and any agreed subsequent updates of the RMP.
 
 <div style=\"page-break-after: always\"></div>
 
@@ -1049,7 +1074,7 @@ Keep out of the sight and reach of children.
 
 ## 7. OTHER SPECIAL WARNING(S), IF NECESSARY
 
-## 8. EXPIRY DATE
+8. EXPIRY DATE
 
 EXP
 
@@ -1067,7 +1092,7 @@ Store in the original package in order to protect from light.
 
 Eli Lilly Nederland B.V.
 
-Papendorpseweg 83, 3528 BJ Utrecht
+Orteliuslaan 1000, 3528 BD Utrecht
 
 The Netherlands
 
@@ -1081,17 +1106,13 @@ EU/1/14/956/002 4 pre-filled pens
 
 Lot
 
-## 14. GENERAL CLASSIFICATION FOR SUPPLY
+14. GENERAL CLASSIFICATION FOR SUPPLY
+
+15. INSTRUCTIONS ON USE
+
+16. INFORMATION IN BRAILLE
 
 <div style=\"page-break-after: always\"></div>
-
-| 15.   | INSTRUCTIONS ONUSE   |
-|-------|----------------------|
-
-<!-- image -->
-
-| 16.   | INFORMATION IN BRAILLE   |
-|-------|--------------------------|
 
 TRULICITY 0.75 mg
 
@@ -1104,8 +1125,6 @@ TRULICITY 0.75 mg
 |-------|------------------------------------------|
 
 PC SN NN
-
-38
 
 <div style=\"page-break-after: always\"></div>
 
@@ -1151,6 +1170,8 @@ Keep out of the sight and reach of children.
 
 EXP
 
+<div style=\"page-break-after: always\"></div>
+
 ## 9. SPECIAL STORAGE CONDITIONS
 
 Store in a refrigerator.
@@ -1163,7 +1184,7 @@ Store in the original package in order to protect from light.
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
-Eli Lilly Nederland B.V. Papendorpseweg 83, 3528 BJ Utrecht The Netherlands
+Eli Lilly Nederland B.V. Orteliuslaan 1000, 3528 BD Utrecht The Netherlands
 
 ## 12. MARKETING AUTHORISATION NUMBER(S)
 
@@ -1174,9 +1195,7 @@ EU/1/14/956/003
 Lot
 
 14. GENERAL CLASSIFICATION FOR SUPPLY
-
 15. INSTRUCTIONS ON USE
-
 16. INFORMATION IN BRAILLE
 
 TRULICITY 0.75 mg
@@ -1190,8 +1209,6 @@ TRULICITY 0.75 mg
 PC
 
 SN
-
-<div style=\"page-break-after: always\"></div>
 
 NN
 
@@ -1249,9 +1266,9 @@ Subcutaneous use.
 
 Keep out of the sight and reach of children.
 
-## 7. OTHER SPECIAL WARNING(S), IF NECESSARY
+7. OTHER SPECIAL WARNING(S), IF NECESSARY
 
-## 8. EXPIRY DATE
+8. EXPIRY DATE
 
 EXP
 
@@ -1269,7 +1286,7 @@ Store in the original package in order to protect from light.
 
 Eli Lilly Nederland B.V.
 
-Papendorpseweg 83, 3528 BJ Utrecht
+Orteliuslaan 1000, 3528 BD Utrecht
 
 The Netherlands
 
@@ -1281,17 +1298,13 @@ EU/1/14/956/003
 
 Lot
 
-## 14. GENERAL CLASSIFICATION FOR SUPPLY
+14. GENERAL CLASSIFICATION FOR SUPPLY
+
+15. INSTRUCTIONS ON USE
+
+## 16. INFORMATION IN BRAILLE
 
 <div style=\"page-break-after: always\"></div>
-
-| 15.   | INSTRUCTIONS ONUSE   |
-|-------|----------------------|
-
-<!-- image -->
-
-| 16.   | INFORMATION IN BRAILLE   |
-|-------|--------------------------|
 
 TRULICITY 0.75 mg
 
@@ -1395,7 +1408,7 @@ Keep out of the sight and reach of children.
 
 ## 7. OTHER SPECIAL WARNING(S), IF NECESSARY
 
-## 8. EXPIRY DATE
+8. EXPIRY DATE
 
 EXP
 
@@ -1413,7 +1426,7 @@ Store in original package in order to protect from light.
 
 Eli Lilly Nederland B.V.
 
-Papendorpseweg 83, 3528 BJ Utrecht
+Orteliuslaan 1000, 3528 BD Utrecht
 
 The Netherlands
 
@@ -1429,15 +1442,11 @@ Lot
 
 ## 14. GENERAL CLASSIFICATION FOR SUPPLY
 
+15. INSTRUCTIONS ON USE
+
+## 16. INFORMATION IN BRAILLE
+
 <div style=\"page-break-after: always\"></div>
-
-| 15.   | INSTRUCTIONS ONUSE   |
-|-------|----------------------|
-
-<!-- image -->
-
-| 16.   | INFORMATION IN BRAILLE   |
-|-------|--------------------------|
 
 TRULICITY 1.5 mg
 
@@ -1450,8 +1459,6 @@ TRULICITY 1.5 mg
 |-------|------------------------------------------|
 
 PC SN NN
-
-47
 
 <div style=\"page-break-after: always\"></div>
 
@@ -1497,6 +1504,8 @@ Keep out of the sight and reach of children.
 
 EXP
 
+<div style=\"page-break-after: always\"></div>
+
 ## 9. SPECIAL STORAGE CONDITIONS
 
 Store in a refrigerator.
@@ -1509,7 +1518,7 @@ Store in the original package in order to protect from light.
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
-Eli Lilly Nederland B.V. Papendorpseweg 83, 3528 BJ Utrecht The Netherlands
+Eli Lilly Nederland B.V. Orteliuslaan 1000, 3528 BD Utrecht The Netherlands
 
 ## 12. MARKETING AUTHORISATION NUMBER(S)
 
@@ -1520,9 +1529,7 @@ EU/1/14/956/008
 Lot
 
 14. GENERAL CLASSIFICATION FOR SUPPLY
-
 15. INSTRUCTIONS ON USE
-
 16. INFORMATION IN BRAILLE
 
 TRULICITY 1.5 mg
@@ -1536,8 +1543,6 @@ TRULICITY 1.5 mg
 PC
 
 SN
-
-<div style=\"page-break-after: always\"></div>
 
 NN
 
@@ -1595,9 +1600,9 @@ Subcutaneous use.
 
 Keep out of the sight and reach of children.
 
-## 7. OTHER SPECIAL WARNING(S), IF NECESSARY
+7. OTHER SPECIAL WARNING(S), IF NECESSARY
 
-## 8. EXPIRY DATE
+8. EXPIRY DATE
 
 EXP
 
@@ -1609,13 +1614,13 @@ Do not freeze.
 
 Store in the original package in order to protect from light.
 
-## 10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
+10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
 Eli Lilly Nederland B.V.
 
-Papendorpseweg 83, 3528 BJ Utrecht
+Orteliuslaan 1000, 3528 BD Utrecht
 
 The Netherlands
 
@@ -1627,17 +1632,13 @@ EU/1/14/956/008
 
 Lot
 
-## 14. GENERAL CLASSIFICATION FOR SUPPLY
+14. GENERAL CLASSIFICATION FOR SUPPLY
+
+15. INSTRUCTIONS ON USE
+
+16. INFORMATION IN BRAILLE
 
 <div style=\"page-break-after: always\"></div>
-
-| 15.   | INSTRUCTIONS ONUSE   |
-|-------|----------------------|
-
-<!-- image -->
-
-| 16.   | INFORMATION IN BRAILLE   |
-|-------|--------------------------|
 
 TRULICITY 1.5 mg
 
@@ -1741,7 +1742,7 @@ Keep out of the sight and reach of children.
 
 ## 7. OTHER SPECIAL WARNING(S), IF NECESSARY
 
-## 8. EXPIRY DATE
+8. EXPIRY DATE
 
 EXP
 
@@ -1759,7 +1760,7 @@ Store in original package in order to protect from light.
 
 Eli Lilly Nederland B.V.
 
-Papendorpseweg 83, 3528 BJ Utrecht
+Orteliuslaan 1000, 3528 BD Utrecht
 
 The Netherlands
 
@@ -1773,17 +1774,13 @@ EU/1/14/956/012 4 pre-filled pens
 
 Lot
 
-## 14. GENERAL CLASSIFICATION FOR SUPPLY
+14. GENERAL CLASSIFICATION FOR SUPPLY
+
+15. INSTRUCTIONS ON USE
+
+16. INFORMATION IN BRAILLE
 
 <div style=\"page-break-after: always\"></div>
-
-| 15.   | INSTRUCTIONS ONUSE   |
-|-------|----------------------|
-
-<!-- image -->
-
-| 16.   | INFORMATION IN BRAILLE   |
-|-------|--------------------------|
 
 TRULICITY 3 mg
 
@@ -1843,6 +1840,8 @@ Keep out of the sight and reach of children.
 
 EXP
 
+<div style=\"page-break-after: always\"></div>
+
 ## 9. SPECIAL STORAGE CONDITIONS
 
 Store in a refrigerator.
@@ -1855,7 +1854,7 @@ Store in the original package in order to protect from light.
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
-Eli Lilly Nederland B.V. Papendorpseweg 83, 3528 BJ Utrecht The Netherlands
+Eli Lilly Nederland B.V. Orteliuslaan 1000, 3528 BD Utrecht The Netherlands
 
 ## 12. MARKETING AUTHORISATION NUMBER(S)
 
@@ -1866,9 +1865,7 @@ EU/1/14/956/013
 Lot
 
 14. GENERAL CLASSIFICATION FOR SUPPLY
-
 15. INSTRUCTIONS ON USE
-
 16. INFORMATION IN BRAILLE
 
 TRULICITY 3 mg
@@ -1882,8 +1879,6 @@ TRULICITY 3 mg
 PC
 
 SN
-
-<div style=\"page-break-after: always\"></div>
 
 NN
 
@@ -1941,9 +1936,9 @@ Subcutaneous use.
 
 Keep out of the sight and reach of children.
 
-## 7. OTHER SPECIAL WARNING(S), IF NECESSARY
+7. OTHER SPECIAL WARNING(S), IF NECESSARY
 
-## 8. EXPIRY DATE
+8. EXPIRY DATE
 
 EXP
 
@@ -1961,7 +1956,7 @@ Store in the original package in order to protect from light.
 
 Eli Lilly Nederland B.V.
 
-Papendorpseweg 83, 3528 BJ Utrecht
+Orteliuslaan 1000, 3528 BD Utrecht
 
 The Netherlands
 
@@ -1973,17 +1968,13 @@ EU/1/14/956/013
 
 Lot
 
-## 14. GENERAL CLASSIFICATION FOR SUPPLY
+14. GENERAL CLASSIFICATION FOR SUPPLY
+
+15. INSTRUCTIONS ON USE
+
+16. INFORMATION IN BRAILLE
 
 <div style=\"page-break-after: always\"></div>
-
-| 15.   | INSTRUCTIONS ONUSE   |
-|-------|----------------------|
-
-<!-- image -->
-
-| 16.   | INFORMATION IN BRAILLE   |
-|-------|--------------------------|
 
 TRULICITY 3 mg
 
@@ -2086,7 +2077,7 @@ Keep out of the sight and reach of children.
 
 ## 7. OTHER SPECIAL WARNING(S), IF NECESSARY
 
-## 8. EXPIRY DATE
+8. EXPIRY DATE
 
 EXP
 
@@ -2104,7 +2095,7 @@ Store in original package in order to protect from light.
 
 Eli Lilly Nederland B.V.
 
-Papendorpseweg 83, 3528 BJ Utrecht
+Orteliuslaan 1000, 3528 BD Utrecht
 
 The Netherlands
 
@@ -2118,17 +2109,13 @@ EU/1/14/956/015 4 pre-filled pens
 
 Lot
 
-## 14. GENERAL CLASSIFICATION FOR SUPPLY
+14. GENERAL CLASSIFICATION FOR SUPPLY
+
+15. INSTRUCTIONS ON USE
+
+16. INFORMATION IN BRAILLE
 
 <div style=\"page-break-after: always\"></div>
-
-| 15.   | INSTRUCTIONS ONUSE   |
-|-------|----------------------|
-
-<!-- image -->
-
-| 16.   | INFORMATION IN BRAILLE   |
-|-------|--------------------------|
 
 TRULICITY 4.5 mg
 
@@ -2141,8 +2128,6 @@ TRULICITY 4.5 mg
 |-------|------------------------------------------|
 
 PC SN NN
-
-65
 
 <div style=\"page-break-after: always\"></div>
 
@@ -2188,6 +2173,8 @@ Keep out of the sight and reach of children.
 
 EXP
 
+<div style=\"page-break-after: always\"></div>
+
 ## 9. SPECIAL STORAGE CONDITIONS
 
 Store in a refrigerator.
@@ -2200,7 +2187,7 @@ Store in the original package in order to protect from light.
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
-Eli Lilly Nederland B.V. Papendorpseweg 83, 3528 BJ Utrecht The Netherlands
+Eli Lilly Nederland B.V. Orteliuslaan 1000, 3528 BD Utrecht The Netherlands
 
 ## 12. MARKETING AUTHORISATION NUMBER(S)
 
@@ -2211,9 +2198,7 @@ EU/1/14/956/016
 Lot
 
 14. GENERAL CLASSIFICATION FOR SUPPLY
-
 15. INSTRUCTIONS ON USE
-
 16. INFORMATION IN BRAILLE
 
 TRULICITY 4.5 mg
@@ -2227,8 +2212,6 @@ TRULICITY 4.5 mg
 PC
 
 SN
-
-<div style=\"page-break-after: always\"></div>
 
 NN
 
@@ -2301,7 +2284,7 @@ Keep out of the sight and reach of children.
 
 ## 7. OTHER SPECIAL WARNING(S), IF NECESSARY
 
-## 8. EXPIRY DATE
+8. EXPIRY DATE
 
 EXP
 
@@ -2319,7 +2302,7 @@ Store in the original package in order to protect from light.
 
 Eli Lilly Nederland B.V.
 
-Papendorpseweg 83, 3528 BJ Utrecht
+Orteliuslaan 1000, 3528 BD Utrecht
 
 The Netherlands
 
@@ -2331,17 +2314,13 @@ EU/1/14/956/016
 
 Lot
 
-## 14. GENERAL CLASSIFICATION FOR SUPPLY
+14. GENERAL CLASSIFICATION FOR SUPPLY
+
+15. INSTRUCTIONS ON USE
+
+16. INFORMATION IN BRAILLE
 
 <div style=\"page-break-after: always\"></div>
-
-| 15.   | INSTRUCTIONS ONUSE   |
-|-------|----------------------|
-
-<!-- image -->
-
-| 16.   | INFORMATION IN BRAILLE   |
-|-------|--------------------------|
 
 TRULICITY 4.5 mg
 
@@ -2350,8 +2329,6 @@ TRULICITY 4.5 mg
 
 | 18.   | UNIQUE IDENTIFIER - HUMANREADABLE DATA   |
 |-------|------------------------------------------|
-
-70
 
 <div style=\"page-break-after: always\"></div>
 
@@ -2481,6 +2458,20 @@ Trulicity has no to little effect on the ability to drive or use machines. Howev
 
 This medicine contains less than 1 mmol sodium (23 mg) per dose, that is to say essentially 'sodiumfree'.
 
+## Trulicity contains polysorbate
+
+Trulicity 0.75 mg and 1.5 mg, solution for injection in pre-filled pen
+
+This medicine contains 0.10 mg of polysorbate 80 in each pre-filled pen, which is equivalent to 0.20 mg/ml.
+
+Polysorbates may cause allergic reactions. Tell your doctor if you have any known allergies.
+
+## Trulicity 3 mg and 4.5 mg, solution for injection in pre-filled pen
+
+This medicine contains 0.125 mg of polysorbate 80 in each pre-filled pen, which is equivalent to 0.25 mg/ml.
+
+Polysorbates may cause allergic reactions. Tell your doctor if you have any known allergies.
+
 ## 3. How to use Trulicity
 
 Always use this medicine exactly as your doctor or pharmacist has told you. Check with your doctor or pharmacist if you are not sure how to use this medicine.
@@ -2509,6 +2500,8 @@ If you want to do so, you can use the same area of your body each week. But be s
 
 It is important that you test your blood glucose levels as instructed by your doctor, pharmacist or nurse, if you are taking Trulicity with a sulphonylurea or insulin.
 
+<div style=\"page-break-after: always\"></div>
+
 Read the 'Instructions for Use' for the pen carefully before using Trulicity.
 
 ## If you use more Trulicity than you should
@@ -2520,8 +2513,6 @@ If you use more Trulicity than you should talk to your doctor immediately. Too m
 If you forget to inject a dose, and if there are at least 3 days before your next dose is due, then inject your dose as soon as possible. Inject your next dose on your regular scheduled day.
 
 If there are less than 3 days before your next dose is due, skip the dose and inject the next one on your regular scheduled day.
-
-<div style=\"page-break-after: always\"></div>
 
 Do not use a double dose to make up for a forgotten dose.
 
@@ -2541,9 +2532,9 @@ Like all medicines, this medicine can cause side effects, although not everybody
 
 Rare: may affect up to 1 in 1,000 people
 
-- -Severe allergic reactions (anaphylactic reactions, angioedema).
+- -
 
-You should see a doctor immediately if you experience symptoms such as rashes, itching and rapid swelling of the tissues of the neck, face, mouth or throat, hives and difficulties breathing.
+Severe allergic reactions (anaphylactic reactions, angioedema). You should see a doctor immediately if you experience symptoms such as rashes, itching and rapid swelling of the tissues of the neck, face, mouth or throat, hives and difficulties breathing.
 
 - -Inflamed pancreas (acute pancreatitis) which could cause severe pain in the stomach and back which does not go away.
 
@@ -2566,24 +2557,20 @@ Very common: may affect more than 1 in 10 people
 
 These side effects are usually not severe. They are most common when first starting dulaglutide but decrease over time in most patients.
 
+<div style=\"page-break-after: always\"></div>
+
 - -Low blood sugar (hypoglycaemia) is very common when dulaglutide is used with medicines that contain metformin, a sulphonylurea and/or insulin. If you are taking a sulphonylurea or insulin, the dose may need to be lowered while you use dulaglutide.
 - -Symptoms of low blood sugar may include headache, drowsiness, weakness, dizziness, feeling hungry, confusion, irritability, fast heartbeat and sweating. Your doctor should tell you how to treat low blood sugar.
-- -Low blood sugar (hypoglycaemia) is common when dulaglutide is used alone, or with both metformin and pioglitazone together, or with a sodium-glucose co-transporter 2 inhibitor (SGLT2i) with or without metformin. For a list of possible symptoms, see above under very common affects.
-- -Feeling less hungry (decreased appetite)
-- -Indigestion
 
 Common: may affect up to 1 in 10 people
 
-<div style=\"page-break-after: always\"></div>
-
+- -Low blood sugar (hypoglycaemia) is common when dulaglutide is used alone, or with both metformin and pioglitazone together, or with a sodium-glucose co-transporter 2 inhibitor (SGLT2i) with or without metformin. For a list of possible symptoms, see above under very common affects.
+- -Feeling less hungry (decreased appetite)
+- -Indigestion
 - -Constipation
 - -Gas (flatulence)
 - -Bloating of the stomach
-
--
-
-Reflux or heartburn (also called gastroesophageal reflux disease - GERD) - a disease caused by stomach acid coming up into the tube from your stomach to your mouth
-
+- -Reflux or heartburn (also called gastroesophageal reflux disease - GERD) - a disease caused by stomach acid coming up into the tube from your stomach to your mouth
 - -Burping
 - -Feeling tired
 - -Increased heart rate
@@ -2617,6 +2604,8 @@ Store in the original packaging in order to protect from light.
 
 Trulicity can be taken out of the fridge for up to 14 days at a temperature not above 30 ºC.
 
+<div style=\"page-break-after: always\"></div>
+
 Do not use this medicine if you notice that the pen is damaged, or the medicine is cloudy, discoloured or has particles in it.
 
 Do not throw away any medicines via wastewater or household waste. Ask your pharmacist how to throw away medicines you no longer use. These measures will help protect the environment.
@@ -2630,9 +2619,6 @@ The active substance is dulaglutide.
 - -Trulicity 0.75 mg: Each pre-filled pen contains 0.75 mg of dulaglutide in 0.5 ml solution.
 - -Trulicity 1.5 mg: Each pre-filled pen contains 1.5 mg of dulaglutide in 0.5 ml solution.
 - -Trulicity 3 mg: Each pre-filled pen contains 3 mg of dulaglutide in 0.5 ml solution.
-
-<div style=\"page-break-after: always\"></div>
-
 - -Trulicity 4.5 mg: Each pre-filled pen contains 4.5 mg of dulaglutide in 0.5 ml solution.
 
 The other ingredients are sodium citrate (see section 2 under 'Trulicity contains sodium' for further information); citric acid; mannitol; polysorbate 80 and water for injections.
@@ -2649,7 +2635,7 @@ Pack sizes of 2, 4 or multipacks of 12 (3 packs of 4) pre-filled pens. Not all p
 
 ## Marketing Authorisation Holder
 
-Eli Lilly Nederland B.V., Papendorpseweg 83, 3528 BJ Utrecht, The Netherlands.
+Eli Lilly Nederland BV., Orteliuslaan 1000, 3528 BD Utrecht, The Netherlands.
 
 ## Manufacturer
 
@@ -2715,43 +2701,25 @@ Eli Lilly Nederland B.V.
 
 Tel: + 31-(0) 30 60 25 800
 
+<div style=\"page-break-after: always\"></div>
+
 ## Eesti
 
 Eli Lilly Nederland B.V.
 
 Tel: +372 6 817 280
 
-## Norge
-
-Eli Lilly Norge A.S.
-
-Tlf: + 47 22 88 18 00
-
 ## Ελλάδα
 
-ΦΑΡΜΑΣΕΡΒ - ΛΙΛΛΥ Α.Ε.Β.Ε.
+ΦΑΡΜΑΣΕΡΒ -ΛΙΛΛΥ Α.Ε.Β.Ε.
 
 Τηλ: +30 210 629 4600
-
-## Österreich
-
-Eli Lilly Ges.m.b.H.
-
-Tel: + 43-(0) 1 711 780
 
 ## España
 
 Lilly S.A.
 
 Tel: + 34-91 663 50 00
-
-## Polska
-
-Eli Lilly Polska Sp. z o.o.
-
-Tel: +48 22 440 33 00
-
-<div style=\"page-break-after: always\"></div>
 
 ## France
 
@@ -2787,7 +2755,9 @@ Tel: + 39- 055 42571
 
 Phadisco Ltd
 
-Τηλ: +357 22 715000
+Τηλ
+
+: +357 22 715000
 
 ## Latvija
 
@@ -2804,6 +2774,24 @@ Tel:
 Detailed information on this medicine is available on the European Medicines Agency web site: http://www.ema.europa.eu.
 
 --------------------------------------------------------------------------------------------------------------------------
+
+## Norge
+
+Eli Lilly Norge A.S.
+
+Tlf: + 47 22 88 18 00
+
+## Österreich
+
+Eli Lilly Ges.m.b.H.
+
+Tel: + 43-(0) 1 711 780
+
+## Polska
+
+Eli Lilly Polska Sp. z o.o.
+
+Tel: +48 22 440 33 00
 
 ## Portugal
 
@@ -2989,7 +2977,7 @@ Do I need to hold the injection button down until the injection is complete?
 
 This is not necessary, but it may help you keep the pen steady and firm against your skin.
 
-I heard more than two clicks during my injection - two louder clicks and a soft one. Did I get my complete injection?
+## I heard more than two clicks during my injection - two louder clicks and a soft one. Did I get my complete injection?
 
 Some patients may hear a soft click right before the second loud click. That is the normal operation of the pen. Do not remove the pen from your skin until you hear the second louder click.
 
@@ -3009,11 +2997,7 @@ Check to see if you have received your dose. Your dose was delivered correctly i
 
 - If you have any questions or problems with your Trulicity pen, contact your doctor, pharmacist or nurse.
 
-<!-- image -->
-
-SCAN THIS CODE TO LAUNCH www.trulicity.eu
-
-Last revised in Month YYYY
+## Last revised in Month YYYY
 
 <div style=\"page-break-after: always\"></div>
 
@@ -3184,11 +3168,7 @@ Check to see if you have received your dose. Your dose was delivered correctly i
 
 - If you have any questions or problems with your Trulicity pen, contact your doctor, pharmacist or nurse.
 
-<!-- image -->
-
-SCAN THIS CODE TO LAUNCH www.trulicity.eu
-
-Last revised in Month YYYY
+## Last revised in Month YYYY
 
 <div style=\"page-break-after: always\"></div>
 
@@ -3355,11 +3335,7 @@ Check to see if you have received your dose. Your dose was delivered correctly i
 
 - If you have any questions or problems with your Trulicity pen, contact your doctor, pharmacist or nurse.
 
-<!-- image -->
-
-SCAN THIS CODE TO LAUNCH www.trulicity.eu
-
-Last revised in Month YYYY
+## Last revised in Month YYYY
 
 <div style=\"page-break-after: always\"></div>
 
@@ -3527,30 +3503,4 @@ Check to see if you have received your dose. Your dose was delivered correctly i
 
 - If you have any questions or problems with your Trulicity pen, contact your doctor, pharmacist or nurse.
 
-<!-- image -->
-
-SCAN THIS CODE TO LAUNCH www.trulicity.eu
-
-Last revised in Month YYYY
-
-<div style=\"page-break-after: always\"></div>
-
-## Annex IV
-
-## Scientific conclusions and grounds for the variation to the terms of the marketing authorisation(s)
-
-<div style=\"page-break-after: always\"></div>
-
-## Scientific conclusions
-
-Taking into account the PRAC Assessment Report on the PSUR(s) for dulaglutide, the scientific conclusions of PRAC are as follows:
-
-In  view  of  the  data  from  the  completed  placebo  pool  of  clinical  studies,  the  post-marketing  cases demonstrating positive dechallenge and rechallenge and given that dysgeusia is included in the product information  of  other  GLP-1  receptor  agonists,  it  is  considered  that  there  is  reasonable  evidence  to support  the  fact  that  there  is  a  relationship  between  dulaglutide  and  dysgeusia.  It  is  therefore recommended to update the product information of Trulicity to include 'dysgeusia' as a new ADR in section 4.8 of the SmPC. The Package Leaflet should be updated accordingly.
-
-Having reviewed the PRAC recommendation, the CHMP agrees with the PRAC overall conclusions and grounds for recommendation.
-
-## Grounds for the variation to the terms of the marketing authorisation(s)
-
-On the basis of the scientific conclusions for dulaglutide the CHMP is of the opinion that the benefitrisk balance of the medicinal product(s) containing dulaglutide is unchanged subject to the proposed changes to the product information
-
-The CHMP recommends that the terms of the marketing authorisation(s) should be varied.
+## Last revised in Month YYYY

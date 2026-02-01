@@ -1,18 +1,18 @@
 ---
-document_datetime: 2025-12-18 15:00:00
+document_datetime: 2026-01-27 16:00:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/cetrotide.html
 document_name: cetrotide.html
 version: success
-processing_time: 0.1278552
-conversion_datetime: 2026-01-03 13:13:33.421732
+processing_time: 0.1345423
+conversion_datetime: 2026-02-01 20:25:03.222261
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.66.0
-  docling-core: 2.57.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.11.0
+  docling-jobkit: 1.9.1
+  docling: 2.71.0
+  docling-core: 2.62.0
+  docling-ibm-models: 3.11.0
+  docling-parse: 4.7.3
   python: cpython-313 (3.13.11)
   plaform: macOS-26.2-arm64-arm-64bit-Mach-O
 ---
@@ -25,8 +25,6 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 cetrorelix Medicine Human Authorised
-
-On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -113,7 +111,7 @@ English (EN) (123.02 KB - PDF)
 
 [View](/en/documents/overview/cetrotide-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-802)
+[Other languages (22)](#file-language-dropdown-690)
 
 български (BG) (138.26 KB - PDF)
 
@@ -383,17 +381,17 @@ svenska (SV) (113.09 KB - PDF)
 
 Cetrotide : EPAR - Product Information
 
-English (EN) (274.38 KB - PDF)
+English (EN) (374.15 KB - PDF)
 
 **First published:** 16/10/2009
 
-**Last updated:** 24/11/2025
+**Last updated:** 27/01/2026
 
 [View](/en/documents/product-information/cetrotide-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-735)
+[Other languages (24)](#file-language-dropdown-80)
 
-български (BG) (314.89 KB - PDF)
+български (BG) (380.06 KB - PDF)
 
 **First published:**
 
@@ -401,11 +399,11 @@ English (EN) (274.38 KB - PDF)
 
 **Last updated:**
 
-24/11/2025
+27/01/2026
 
 [View](/bg/documents/product-information/cetrotide-epar-product-information_bg.pdf)
 
-español (ES) (197.08 KB - PDF)
+español (ES) (254.88 KB - PDF)
 
 **First published:**
 
@@ -413,11 +411,11 @@ español (ES) (197.08 KB - PDF)
 
 **Last updated:**
 
-24/11/2025
+27/01/2026
 
 [View](/es/documents/product-information/cetrotide-epar-product-information_es.pdf)
 
-čeština (CS) (299.51 KB - PDF)
+čeština (CS) (368.81 KB - PDF)
 
 **First published:**
 
@@ -425,11 +423,11 @@ español (ES) (197.08 KB - PDF)
 
 **Last updated:**
 
-24/11/2025
+27/01/2026
 
 [View](/cs/documents/product-information/cetrotide-epar-product-information_cs.pdf)
 
-dansk (DA) (246.68 KB - PDF)
+dansk (DA) (304.02 KB - PDF)
 
 **First published:**
 
@@ -437,11 +435,11 @@ dansk (DA) (246.68 KB - PDF)
 
 **Last updated:**
 
-24/11/2025
+27/01/2026
 
 [View](/da/documents/product-information/cetrotide-epar-product-information_da.pdf)
 
-Deutsch (DE) (298.61 KB - PDF)
+Deutsch (DE) (364.08 KB - PDF)
 
 **First published:**
 
@@ -449,11 +447,11 @@ Deutsch (DE) (298.61 KB - PDF)
 
 **Last updated:**
 
-24/11/2025
+27/01/2026
 
 [View](/de/documents/product-information/cetrotide-epar-product-information_de.pdf)
 
-eesti keel (ET) (300.78 KB - PDF)
+eesti keel (ET) (368.68 KB - PDF)
 
 **First published:**
 
@@ -461,11 +459,11 @@ eesti keel (ET) (300.78 KB - PDF)
 
 **Last updated:**
 
-24/11/2025
+27/01/2026
 
 [View](/et/documents/product-information/cetrotide-epar-product-information_et.pdf)
 
-ελληνικά (EL) (307.4 KB - PDF)
+ελληνικά (EL) (360.3 KB - PDF)
 
 **First published:**
 
@@ -473,11 +471,11 @@ eesti keel (ET) (300.78 KB - PDF)
 
 **Last updated:**
 
-24/11/2025
+27/01/2026
 
 [View](/el/documents/product-information/cetrotide-epar-product-information_el.pdf)
 
-français (FR) (306.16 KB - PDF)
+français (FR) (375.4 KB - PDF)
 
 **First published:**
 
@@ -485,11 +483,11 @@ français (FR) (306.16 KB - PDF)
 
 **Last updated:**
 
-24/11/2025
+27/01/2026
 
 [View](/fr/documents/product-information/cetrotide-epar-product-information_fr.pdf)
 
-hrvatski (HR) (312.47 KB - PDF)
+hrvatski (HR) (375.09 KB - PDF)
 
 **First published:**
 
@@ -497,11 +495,11 @@ hrvatski (HR) (312.47 KB - PDF)
 
 **Last updated:**
 
-24/11/2025
+27/01/2026
 
 [View](/hr/documents/product-information/cetrotide-epar-product-information_hr.pdf)
 
-íslenska (IS) (247.33 KB - PDF)
+íslenska (IS) (302.3 KB - PDF)
 
 **First published:**
 
@@ -509,11 +507,11 @@ hrvatski (HR) (312.47 KB - PDF)
 
 **Last updated:**
 
-24/11/2025
+27/01/2026
 
 [View](/is/documents/product-information/cetrotide-epar-product-information_is.pdf)
 
-italiano (IT) (286.53 KB - PDF)
+italiano (IT) (342.9 KB - PDF)
 
 **First published:**
 
@@ -521,11 +519,11 @@ italiano (IT) (286.53 KB - PDF)
 
 **Last updated:**
 
-24/11/2025
+27/01/2026
 
 [View](/it/documents/product-information/cetrotide-epar-product-information_it.pdf)
 
-latviešu valoda (LV) (297.16 KB - PDF)
+latviešu valoda (LV) (358.94 KB - PDF)
 
 **First published:**
 
@@ -533,11 +531,11 @@ latviešu valoda (LV) (297.16 KB - PDF)
 
 **Last updated:**
 
-24/11/2025
+27/01/2026
 
 [View](/lv/documents/product-information/cetrotide-epar-product-information_lv.pdf)
 
-lietuvių kalba (LT) (303.65 KB - PDF)
+lietuvių kalba (LT) (371.58 KB - PDF)
 
 **First published:**
 
@@ -545,11 +543,11 @@ lietuvių kalba (LT) (303.65 KB - PDF)
 
 **Last updated:**
 
-24/11/2025
+27/01/2026
 
 [View](/lt/documents/product-information/cetrotide-epar-product-information_lt.pdf)
 
-magyar (HU) (307.69 KB - PDF)
+magyar (HU) (371.83 KB - PDF)
 
 **First published:**
 
@@ -557,11 +555,11 @@ magyar (HU) (307.69 KB - PDF)
 
 **Last updated:**
 
-24/11/2025
+27/01/2026
 
 [View](/hu/documents/product-information/cetrotide-epar-product-information_hu.pdf)
 
-Malti (MT) (324.43 KB - PDF)
+Malti (MT) (415.46 KB - PDF)
 
 **First published:**
 
@@ -569,11 +567,11 @@ Malti (MT) (324.43 KB - PDF)
 
 **Last updated:**
 
-24/11/2025
+27/01/2026
 
 [View](/mt/documents/product-information/cetrotide-epar-product-information_mt.pdf)
 
-Nederlands (NL) (271.52 KB - PDF)
+Nederlands (NL) (334.75 KB - PDF)
 
 **First published:**
 
@@ -581,11 +579,11 @@ Nederlands (NL) (271.52 KB - PDF)
 
 **Last updated:**
 
-24/11/2025
+27/01/2026
 
 [View](/nl/documents/product-information/cetrotide-epar-product-information_nl.pdf)
 
-norsk (NO) (246.74 KB - PDF)
+norsk (NO) (308.39 KB - PDF)
 
 **First published:**
 
@@ -593,11 +591,11 @@ norsk (NO) (246.74 KB - PDF)
 
 **Last updated:**
 
-24/11/2025
+27/01/2026
 
 [View](/no/documents/product-information/cetrotide-epar-product-information_no.pdf)
 
-polski (PL) (300.09 KB - PDF)
+polski (PL) (366.13 KB - PDF)
 
 **First published:**
 
@@ -605,11 +603,11 @@ polski (PL) (300.09 KB - PDF)
 
 **Last updated:**
 
-24/11/2025
+27/01/2026
 
 [View](/pl/documents/product-information/cetrotide-epar-product-information_pl.pdf)
 
-português (PT) (293.02 KB - PDF)
+português (PT) (359.68 KB - PDF)
 
 **First published:**
 
@@ -617,11 +615,11 @@ português (PT) (293.02 KB - PDF)
 
 **Last updated:**
 
-24/11/2025
+27/01/2026
 
 [View](/pt/documents/product-information/cetrotide-epar-product-information_pt.pdf)
 
-română (RO) (306.16 KB - PDF)
+română (RO) (392.72 KB - PDF)
 
 **First published:**
 
@@ -629,11 +627,11 @@ română (RO) (306.16 KB - PDF)
 
 **Last updated:**
 
-24/11/2025
+27/01/2026
 
 [View](/ro/documents/product-information/cetrotide-epar-product-information_ro.pdf)
 
-slovenčina (SK) (304.08 KB - PDF)
+slovenčina (SK) (370.76 KB - PDF)
 
 **First published:**
 
@@ -641,11 +639,11 @@ slovenčina (SK) (304.08 KB - PDF)
 
 **Last updated:**
 
-24/11/2025
+27/01/2026
 
 [View](/sk/documents/product-information/cetrotide-epar-product-information_sk.pdf)
 
-slovenščina (SL) (289.4 KB - PDF)
+slovenščina (SL) (352.13 KB - PDF)
 
 **First published:**
 
@@ -653,11 +651,11 @@ slovenščina (SL) (289.4 KB - PDF)
 
 **Last updated:**
 
-24/11/2025
+27/01/2026
 
 [View](/sl/documents/product-information/cetrotide-epar-product-information_sl.pdf)
 
-Suomi (FI) (243.22 KB - PDF)
+Suomi (FI) (306.55 KB - PDF)
 
 **First published:**
 
@@ -665,11 +663,11 @@ Suomi (FI) (243.22 KB - PDF)
 
 **Last updated:**
 
-24/11/2025
+27/01/2026
 
 [View](/fi/documents/product-information/cetrotide-epar-product-information_fi.pdf)
 
-svenska (SV) (283.76 KB - PDF)
+svenska (SV) (343.43 KB - PDF)
 
 **First published:**
 
@@ -677,11 +675,11 @@ svenska (SV) (283.76 KB - PDF)
 
 **Last updated:**
 
-24/11/2025
+27/01/2026
 
 [View](/sv/documents/product-information/cetrotide-epar-product-information_sv.pdf)
 
-**Latest procedure affecting product information:** N/0000308409 24/11/2025
+**Latest procedure affecting product information:** VR/0000322807 27/01/2026
 
 icon globe
 
@@ -707,7 +705,7 @@ English (EN) (50.87 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/cetrotide-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-308)
+[Other languages (24)](#file-language-dropdown-860)
 
 български (BG) (58.18 KB - PDF)
 
@@ -1024,7 +1022,7 @@ Merck Europe B.V.
 
 Gustav Mahlerplein 102
 
-Marketing authorisation issued 12/04/1999 Revision 30
+Marketing authorisation issued 12/04/1999 Revision 31
 
 ## Assessment history
 
@@ -1036,9 +1034,11 @@ Collapse section
 
 Cetrotide : EPAR - Procedural steps taken and scientific information after authorisation
 
-English (EN) (261.28 KB - PDF)
+English (EN) (154.23 KB - PDF)
 
 **First published:** 24/11/2025
+
+**Last updated:** 27/01/2026
 
 [View](/en/documents/procedural-steps-after/cetrotide-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf)
 
@@ -1086,7 +1086,7 @@ English (EN) (161.42 KB - DOCX)
 
 [View](/en/documents/product-information-tracked-changes/cetrotide-epar-product-information-tracked-changes_en.docx)
 
-[Other languages (24)](#file-language-dropdown-14)
+[Other languages (24)](#file-language-dropdown-658)
 
 български (BG) (136.06 KB - DOCX)
 
@@ -1289,7 +1289,7 @@ svenska (SV) (128.47 KB - DOCX)
 
 - [Medicines](https://www.ema.europa.eu/en/search?f%5B0%5D=ema_search_topics%3A61)
 
-**This page was last updated on** 18/12/2025
+**This page was last updated on** 27/01/2026
 
 ## Share this page
 

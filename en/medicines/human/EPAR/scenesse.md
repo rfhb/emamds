@@ -1,18 +1,18 @@
 ---
-document_datetime: 2025-12-29 11:21:35
+document_datetime: 2026-01-30 12:00:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/scenesse.html
 document_name: scenesse.html
 version: success
-processing_time: 0.1158075
-conversion_datetime: 2025-12-30 22:52:34.936597
+processing_time: 0.1274135
+conversion_datetime: 2026-02-01 20:11:59.1425
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.66.0
-  docling-core: 2.57.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.11.0
+  docling-jobkit: 1.9.1
+  docling: 2.71.0
+  docling-core: 2.62.0
+  docling-ibm-models: 3.11.0
+  docling-parse: 4.7.3
   python: cpython-313 (3.13.11)
   plaform: macOS-26.2-arm64-arm-64bit-Mach-O
 ---
@@ -25,8 +25,6 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 afamelanotide Medicine Human Authorised
-
-On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -126,7 +124,7 @@ English (EN) (77.86 KB - PDF)
 
 [View](/en/documents/overview/scenesse-epar-summary-public_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-986)
+[Other languages (22)](#file-language-dropdown-251)
 
 български (BG) (105.45 KB - PDF)
 
@@ -414,7 +412,7 @@ English (EN) (326.29 KB - PDF)
 
 [View](/en/documents/product-information/scenesse-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-837)
+[Other languages (24)](#file-language-dropdown-808)
 
 български (BG) (444.98 KB - PDF)
 
@@ -730,7 +728,7 @@ English (EN) (33.31 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/scenesse-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-739)
+[Other languages (24)](#file-language-dropdown-251)
 
 български (BG) (51.89 KB - PDF)
 
@@ -1050,7 +1048,7 @@ Clinuvel Europe Limited
 
 10 Earlsfort Terrace
 
-Opinion adopted 23/10/2014 Marketing authorisation issued 22/12/2014 Revision 12
+Opinion adopted 23/10/2014 Marketing authorisation issued 22/12/2014 Revision 13
 
 ## Assessment history
 
@@ -1077,6 +1075,18 @@ English (EN) (229.17 KB - PDF)
 **Last updated:** 17/10/2025
 
 [View](/en/documents/procedural-steps-after/scenesse-epar-procedural-steps-taken-scientific-information-after-authorisation-archive_en.pdf)
+
+Scenesse-PAM-0000291457 : EPAR - Assessment report
+
+Adopted
+
+Reference Number: EMADOC-1700519818-2849983
+
+English (EN) (596.23 KB - PDF)
+
+**First published:** 30/01/2026
+
+[View](/en/documents/variation-report/scenesse-pam-0000291457-epar-assessment-report_en.pdf)
 
 ## Initial marketing authorisation documents
 
@@ -1123,15 +1133,15 @@ This product is no longer an orphan medicine. It was originally [designated an o
 #### More information on Scenesse
 
 - [Scenesse - withdrawal of application for variation to marketing authorisation](/en/medicines/human/variation/scenesse)
-- [SCENESSE® (Afamelanotide 16mg) Retrospective Chart Review (SCENESSE® Chart Review) - post-authorisation study](https://catalogues.ema.europa.eu/study/46830)
-- [Protocol version for countries where patients treated off-label cannot be included in the disease registry: A Post-Authorisation Disease Registry Safety Study to Generate Data on the Long-Term Safety and Clinical Effectiveness of SCENESSE® (Afamelanotide 16mg) in Patients with Erythropoietic Protoporphyria (EPP). (SCENESSE® PASS-002) - post-authorisation study](https://catalogues.ema.europa.eu/study/46827)
 - [A Post-Authorisation Disease Registry Safety Study to Generate Data on the Long-Term Safety and Clinical Effectiveness of SCENESSE® (Afamelanotide 16mg) in Patients with Erythropoietic Protoporphyria (EPP) (SCENESSE® PASS-001) - post-authorisation study](https://catalogues.ema.europa.eu/study/46824)
+- [A Post-Authorisation Disease Registry Safety Study to Generate Data on the Long-Term Safety and Clinical Effectiveness of SCENESSE® (Afamelanotide 16mg) in Patients with Erythropoietic Protoporphyria (EPP). (SCENESSE® PASS-002) - post-authorisation study](https://catalogues.ema.europa.eu/study/46827)
+- [SCENESSE® (Afamelanotide 16mg) Retrospective Chart Review (SCENESSE® Chart Review) - post-authorisation study](https://catalogues.ema.europa.eu/study/46830)
 
 #### Topics
 
 - [Medicines](https://www.ema.europa.eu/en/search?f%5B0%5D=ema_search_topics%3A61)
 
-**This page was last updated on** 17/10/2025
+**This page was last updated on** 30/01/2026
 
 ## Share this page
 

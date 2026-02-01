@@ -1,18 +1,18 @@
 ---
-document_datetime: 2025-06-30 14:47:23
-document_pages: 2
+document_datetime: 2026-01-26 16:59:54
+document_pages: 4
 document_pathfilename: www.ema.europa.eu/en/documents/procedural-steps-after/levetiracetam-actavis-group-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf
 document_name: levetiracetam-actavis-group-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf
 version: success
-processing_time: 1.1846701
-conversion_datetime: 2025-12-23 03:03:42.252332
+processing_time: 2.0865254
+conversion_datetime: 2026-02-01 20:29:44.231761
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.64.1
-  docling-core: 2.55.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.11.0
+  docling-jobkit: 1.9.1
+  docling: 2.71.0
+  docling-core: 2.62.0
+  docling-ibm-models: 3.11.0
+  docling-parse: 4.7.3
   python: cpython-313 (3.13.11)
   plaform: macOS-26.2-arm64-arm-64bit-Mach-O
 ---
@@ -24,13 +24,7 @@ Procedural steps taken and scientific information after the authorisation*
 
 | Application number   | Scope                                   | Opinion/ Notification 1 issued on   | Commission Decision Issued 2 / amended on   | Product Information affected 3   | Summary   |
 |----------------------|-----------------------------------------|-------------------------------------|---------------------------------------------|----------------------------------|-----------|
-| Variation type IB /  | This was an application for a variation | 26/06/2025                          |                                             | SmPC and PL                      |           |
-
-1  Notifications are issued for type I variations and Article 61(3) notifications (unless part of a group including a type II variation or extension application or a worksharing application). Opinions are issued for all other procedures.
-
-2  A Commission decision (CD) is issued for procedures that affect the terms of the marketing authorisation (e.g. summary of product characteristics, annex II, labelling, package leaflet). The CD is issued within two months of the opinion for variations falling under the scope of Article 23.1a(a) of Regulation (EU) No. 712/2012, or within one year for other procedures.
-
-3  SmPC (Summary of Product Characteristics), Annex II, Labelling, PL (Package Leaflet).
+| Variation type IB /  | This was an application for a variation | 22/01/2026                          |                                             | SmPC and PL                      |           |
 
 <!-- image -->
 
@@ -38,5 +32,17 @@ Procedural steps taken and scientific information after the authorisation*
 
 <div style=\"page-break-after: always\"></div>
 
-| EMA/VR/0000256234   |
-|---------------------|
+| EMA/VR/0000308189                     | following a worksharing procedure according to Article 20 of Commission Regulation (EC) No 1234/2008. C.I.3 Change(s) in the Summary of Product Characteristics, Labelling or Package Leaflet of human medicinal products intended to implement the outcome of a procedure concerning PSUR or PASS, or the outcome of the assessment done by the competent authority under Articles 45 or 46 of Regulation 1901/2006 - C.I.3.z Change(s) in the Summary of Product Characteristics, Labelling or Package Leaflet of veterinary medicinal products intended to implement the outcome of a procedure concerning PSUR: implementation of wording agreed by the competent authority - Accepted C.I.3.z - to update section 4.6 of the SmPC and section 2 of the PL to implement the wording agreed by the CHMP following the outcome of the PSUR procedure EMEA/H/C/PSUSA/00001846/202411. In addition, the MAH took the opportunity to submit editorial updates in section 6 of the Package Leaflet (list of local representatives): change of company name   |            |     |
+|---------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------|-----|
+| Variation type IA / EMA/VR/0000315029 | B.III.1.a European Pharmacopoeial Certificate of Suitability to the relevant Ph.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           | 19/12/2025 | N/A |
+
+<div style=\"page-break-after: always\"></div>
+
+|                                       | Eur. Monograph - B.III.1.a.2 Updated certificate from an already approved manufacturer - Accepted                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             |            |             |
+|---------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------|-------------|
+| Variation type IB / EMA/VR/0000256234 | This was an application for a variation following a worksharing procedure according to Article 20 of Commission Regulation (EC) No 1234/2008. C.I.2 Change(s) in the Summary of Product Characteristics, Labelling or Package Leaflet of a generic/hybrid/biosimilar medicinal products following assessment of the same change for the reference product - C.I.2.a Implementation of change(s) for which no new additional data is required to be submitted by the MAH - Accepted Type IB C.I.2.a - Update of section 4.8 of the SmPC and section 4 of the PIL to include additional information on signs and symptoms of Drug Reactions with Eosinophilia and Systemic Symptoms (DRESS) following assessment of the same change for the reference product Keppra (EMEA/H/C/WS2722). In addition, the MAH took the opportunity to update the list of local representatives in the Package Leaflet, to introduce minor changes to the PI (also including a statement that 'this medicine does not require any special storage | 26/06/2025 | SmPC and PL |
+
+<div style=\"page-break-after: always\"></div>
+
+| QRD template.   |
+|-----------------|

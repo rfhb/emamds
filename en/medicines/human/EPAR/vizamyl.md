@@ -1,18 +1,18 @@
 ---
-document_datetime: 2025-12-29 11:57:05
+document_datetime: 2026-01-30 15:08:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/vizamyl.html
 document_name: vizamyl.html
 version: success
-processing_time: 0.1138785
-conversion_datetime: 2025-12-30 10:30:28.863944
+processing_time: 0.1151204
+conversion_datetime: 2026-02-01 20:45:41.201128
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.66.0
-  docling-core: 2.57.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.11.0
+  docling-jobkit: 1.9.1
+  docling: 2.71.0
+  docling-core: 2.62.0
+  docling-ibm-models: 3.11.0
+  docling-parse: 4.7.3
   python: cpython-313 (3.13.11)
   plaform: macOS-26.2-arm64-arm-64bit-Mach-O
 ---
@@ -25,8 +25,6 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 flutemetamol (18F) Medicine Human Authorised
-
-On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -116,7 +114,7 @@ English (EN) (113.17 KB - PDF)
 
 [View](/en/documents/overview/vizamyl-epar-summary-public_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-515)
+[Other languages (22)](#file-language-dropdown-38)
 
 български (BG) (130.73 KB - PDF)
 
@@ -396,17 +394,17 @@ English (EN) (56.2 KB - PDF)
 
 Vizamyl : EPAR - Product Information
 
-English (EN) (456.31 KB - PDF)
+English (EN) (401.78 KB - PDF)
 
 **First published:** 17/09/2014
 
-**Last updated:** 18/11/2025
+**Last updated:** 30/01/2026
 
 [View](/en/documents/product-information/vizamyl-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-639)
+[Other languages (24)](#file-language-dropdown-900)
 
-български (BG) (554.71 KB - PDF)
+български (BG) (536.95 KB - PDF)
 
 **First published:**
 
@@ -414,11 +412,11 @@ English (EN) (456.31 KB - PDF)
 
 **Last updated:**
 
-18/11/2025
+30/01/2026
 
 [View](/bg/documents/product-information/vizamyl-epar-product-information_bg.pdf)
 
-español (ES) (447.38 KB - PDF)
+español (ES) (392.01 KB - PDF)
 
 **First published:**
 
@@ -426,11 +424,11 @@ español (ES) (447.38 KB - PDF)
 
 **Last updated:**
 
-18/11/2025
+30/01/2026
 
 [View](/es/documents/product-information/vizamyl-epar-product-information_es.pdf)
 
-čeština (CS) (485.39 KB - PDF)
+čeština (CS) (446.55 KB - PDF)
 
 **First published:**
 
@@ -438,11 +436,11 @@ español (ES) (447.38 KB - PDF)
 
 **Last updated:**
 
-18/11/2025
+30/01/2026
 
 [View](/cs/documents/product-information/vizamyl-epar-product-information_cs.pdf)
 
-dansk (DA) (433.08 KB - PDF)
+dansk (DA) (366.23 KB - PDF)
 
 **First published:**
 
@@ -450,11 +448,11 @@ dansk (DA) (433.08 KB - PDF)
 
 **Last updated:**
 
-18/11/2025
+30/01/2026
 
 [View](/da/documents/product-information/vizamyl-epar-product-information_da.pdf)
 
-Deutsch (DE) (424.29 KB - PDF)
+Deutsch (DE) (368 KB - PDF)
 
 **First published:**
 
@@ -462,11 +460,11 @@ Deutsch (DE) (424.29 KB - PDF)
 
 **Last updated:**
 
-18/11/2025
+30/01/2026
 
 [View](/de/documents/product-information/vizamyl-epar-product-information_de.pdf)
 
-eesti keel (ET) (475.96 KB - PDF)
+eesti keel (ET) (420.89 KB - PDF)
 
 **First published:**
 
@@ -474,11 +472,11 @@ eesti keel (ET) (475.96 KB - PDF)
 
 **Last updated:**
 
-18/11/2025
+30/01/2026
 
 [View](/et/documents/product-information/vizamyl-epar-product-information_et.pdf)
 
-ελληνικά (EL) (515.18 KB - PDF)
+ελληνικά (EL) (462.53 KB - PDF)
 
 **First published:**
 
@@ -486,11 +484,11 @@ eesti keel (ET) (475.96 KB - PDF)
 
 **Last updated:**
 
-18/11/2025
+30/01/2026
 
 [View](/el/documents/product-information/vizamyl-epar-product-information_el.pdf)
 
-français (FR) (454.77 KB - PDF)
+français (FR) (405.9 KB - PDF)
 
 **First published:**
 
@@ -498,11 +496,11 @@ français (FR) (454.77 KB - PDF)
 
 **Last updated:**
 
-18/11/2025
+30/01/2026
 
 [View](/fr/documents/product-information/vizamyl-epar-product-information_fr.pdf)
 
-hrvatski (HR) (490.66 KB - PDF)
+hrvatski (HR) (456.77 KB - PDF)
 
 **First published:**
 
@@ -510,11 +508,11 @@ hrvatski (HR) (490.66 KB - PDF)
 
 **Last updated:**
 
-18/11/2025
+30/01/2026
 
 [View](/hr/documents/product-information/vizamyl-epar-product-information_hr.pdf)
 
-íslenska (IS) (439.34 KB - PDF)
+íslenska (IS) (393.83 KB - PDF)
 
 **First published:**
 
@@ -522,11 +520,11 @@ hrvatski (HR) (490.66 KB - PDF)
 
 **Last updated:**
 
-18/11/2025
+30/01/2026
 
 [View](/is/documents/product-information/vizamyl-epar-product-information_is.pdf)
 
-italiano (IT) (467.32 KB - PDF)
+italiano (IT) (401.18 KB - PDF)
 
 **First published:**
 
@@ -534,11 +532,11 @@ italiano (IT) (467.32 KB - PDF)
 
 **Last updated:**
 
-18/11/2025
+30/01/2026
 
 [View](/it/documents/product-information/vizamyl-epar-product-information_it.pdf)
 
-latviešu valoda (LV) (489.35 KB - PDF)
+latviešu valoda (LV) (451.48 KB - PDF)
 
 **First published:**
 
@@ -546,11 +544,11 @@ latviešu valoda (LV) (489.35 KB - PDF)
 
 **Last updated:**
 
-18/11/2025
+30/01/2026
 
 [View](/lv/documents/product-information/vizamyl-epar-product-information_lv.pdf)
 
-lietuvių kalba (LT) (489.68 KB - PDF)
+lietuvių kalba (LT) (458.47 KB - PDF)
 
 **First published:**
 
@@ -558,11 +556,11 @@ lietuvių kalba (LT) (489.68 KB - PDF)
 
 **Last updated:**
 
-18/11/2025
+30/01/2026
 
 [View](/lt/documents/product-information/vizamyl-epar-product-information_lt.pdf)
 
-magyar (HU) (501.71 KB - PDF)
+magyar (HU) (445.54 KB - PDF)
 
 **First published:**
 
@@ -570,11 +568,11 @@ magyar (HU) (501.71 KB - PDF)
 
 **Last updated:**
 
-18/11/2025
+30/01/2026
 
 [View](/hu/documents/product-information/vizamyl-epar-product-information_hu.pdf)
 
-Malti (MT) (508.85 KB - PDF)
+Malti (MT) (464.62 KB - PDF)
 
 **First published:**
 
@@ -582,11 +580,11 @@ Malti (MT) (508.85 KB - PDF)
 
 **Last updated:**
 
-18/11/2025
+30/01/2026
 
 [View](/mt/documents/product-information/vizamyl-epar-product-information_mt.pdf)
 
-Nederlands (NL) (454.06 KB - PDF)
+Nederlands (NL) (397.09 KB - PDF)
 
 **First published:**
 
@@ -594,11 +592,11 @@ Nederlands (NL) (454.06 KB - PDF)
 
 **Last updated:**
 
-18/11/2025
+30/01/2026
 
 [View](/nl/documents/product-information/vizamyl-epar-product-information_nl.pdf)
 
-norsk (NO) (468.3 KB - PDF)
+norsk (NO) (408.55 KB - PDF)
 
 **First published:**
 
@@ -606,11 +604,11 @@ norsk (NO) (468.3 KB - PDF)
 
 **Last updated:**
 
-18/11/2025
+30/01/2026
 
 [View](/no/documents/product-information/vizamyl-epar-product-information_no.pdf)
 
-polski (PL) (495.01 KB - PDF)
+polski (PL) (453.37 KB - PDF)
 
 **First published:**
 
@@ -618,11 +616,11 @@ polski (PL) (495.01 KB - PDF)
 
 **Last updated:**
 
-18/11/2025
+30/01/2026
 
 [View](/pl/documents/product-information/vizamyl-epar-product-information_pl.pdf)
 
-português (PT) (437.78 KB - PDF)
+português (PT) (386.41 KB - PDF)
 
 **First published:**
 
@@ -630,11 +628,11 @@ português (PT) (437.78 KB - PDF)
 
 **Last updated:**
 
-18/11/2025
+30/01/2026
 
 [View](/pt/documents/product-information/vizamyl-epar-product-information_pt.pdf)
 
-română (RO) (486.55 KB - PDF)
+română (RO) (439.46 KB - PDF)
 
 **First published:**
 
@@ -642,11 +640,11 @@ română (RO) (486.55 KB - PDF)
 
 **Last updated:**
 
-18/11/2025
+30/01/2026
 
 [View](/ro/documents/product-information/vizamyl-epar-product-information_ro.pdf)
 
-slovenčina (SK) (483.35 KB - PDF)
+slovenčina (SK) (444.83 KB - PDF)
 
 **First published:**
 
@@ -654,11 +652,11 @@ slovenčina (SK) (483.35 KB - PDF)
 
 **Last updated:**
 
-18/11/2025
+30/01/2026
 
 [View](/sk/documents/product-information/vizamyl-epar-product-information_sk.pdf)
 
-slovenščina (SL) (468.05 KB - PDF)
+slovenščina (SL) (421.87 KB - PDF)
 
 **First published:**
 
@@ -666,11 +664,11 @@ slovenščina (SL) (468.05 KB - PDF)
 
 **Last updated:**
 
-18/11/2025
+30/01/2026
 
 [View](/sl/documents/product-information/vizamyl-epar-product-information_sl.pdf)
 
-Suomi (FI) (446.73 KB - PDF)
+Suomi (FI) (391.46 KB - PDF)
 
 **First published:**
 
@@ -678,11 +676,11 @@ Suomi (FI) (446.73 KB - PDF)
 
 **Last updated:**
 
-18/11/2025
+30/01/2026
 
 [View](/fi/documents/product-information/vizamyl-epar-product-information_fi.pdf)
 
-svenska (SV) (416.98 KB - PDF)
+svenska (SV) (370.09 KB - PDF)
 
 **First published:**
 
@@ -690,11 +688,11 @@ svenska (SV) (416.98 KB - PDF)
 
 **Last updated:**
 
-18/11/2025
+30/01/2026
 
 [View](/sv/documents/product-information/vizamyl-epar-product-information_sv.pdf)
 
-**Latest procedure affecting product information:** VR/0000312794 18/11/2025
+**Latest procedure affecting product information:** VR/0000323949 30/01/2026
 
 icon globe
 
@@ -720,7 +718,7 @@ English (EN) (20.54 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/vizamyl-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-828)
+[Other languages (24)](#file-language-dropdown-744)
 
 български (BG) (38.97 KB - PDF)
 
@@ -1039,7 +1037,7 @@ GE Healthcare AS
 
 Nycoveien 1
 
-Opinion adopted 26/06/2014 Marketing authorisation issued 22/08/2014 Revision 20
+Opinion adopted 26/06/2014 Marketing authorisation issued 22/08/2014 Revision 22
 
 ## Assessment history
 
@@ -1051,11 +1049,11 @@ Collapse section
 
 Vizamyl : EPAR - Procedural steps taken and scientific information after authorisation
 
-English (EN) (413.51 KB - PDF)
+English (EN) (154.87 KB - PDF)
 
 **First published:** 23/09/2025
 
-**Last updated:** 18/11/2025
+**Last updated:** 30/01/2026
 
 [View](/en/documents/procedural-steps-after/vizamyl-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf)
 
@@ -1117,7 +1115,7 @@ English (EN) (75.04 KB - PDF)
 
 - [Medicines](https://www.ema.europa.eu/en/search?f%5B0%5D=ema_search_topics%3A61)
 
-**This page was last updated on** 18/11/2025
+**This page was last updated on** 30/01/2026
 
 ## Share this page
 

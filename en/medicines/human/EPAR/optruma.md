@@ -1,18 +1,18 @@
 ---
-document_datetime: 2025-12-29 14:36:47
+document_datetime: 2026-01-27 17:30:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/optruma.html
 document_name: optruma.html
 version: success
-processing_time: 0.1084456
-conversion_datetime: 2025-12-30 22:36:12.425704
+processing_time: 0.1216533
+conversion_datetime: 2026-02-01 20:35:21.423098
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.66.0
-  docling-core: 2.57.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.11.0
+  docling-jobkit: 1.9.1
+  docling: 2.71.0
+  docling-core: 2.62.0
+  docling-ibm-models: 3.11.0
+  docling-parse: 4.7.3
   python: cpython-313 (3.13.11)
   plaform: macOS-26.2-arm64-arm-64bit-Mach-O
 ---
@@ -25,8 +25,6 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 raloxifene Medicine Human Authorised
-
-On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -119,7 +117,7 @@ English (EN) (43.7 KB - PDF)
 
 [View](/en/documents/overview/optruma-epar-summary-public_en.pdf)
 
-[Other languages (21)](#file-language-dropdown-701)
+[Other languages (21)](#file-language-dropdown-854)
 
 български (BG) (172.16 KB - PDF)
 
@@ -377,17 +375,17 @@ svenska (SV) (104.61 KB - PDF)
 
 Optruma : EPAR - Product Information
 
-English (EN) (478.2 KB - PDF)
+English (EN) (431.5 KB - PDF)
 
 **First published:** 03/09/2008
 
-**Last updated:** 26/09/2024
+**Last updated:** 27/01/2026
 
 [View](/en/documents/product-information/optruma-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-443)
+[Other languages (24)](#file-language-dropdown-35)
 
-български (BG) (468.05 KB - PDF)
+български (BG) (584.16 KB - PDF)
 
 **First published:**
 
@@ -395,11 +393,11 @@ English (EN) (478.2 KB - PDF)
 
 **Last updated:**
 
-26/09/2024
+27/01/2026
 
 [View](/bg/documents/product-information/optruma-epar-product-information_bg.pdf)
 
-español (ES) (394.78 KB - PDF)
+español (ES) (536.42 KB - PDF)
 
 **First published:**
 
@@ -407,11 +405,11 @@ español (ES) (394.78 KB - PDF)
 
 **Last updated:**
 
-26/09/2024
+27/01/2026
 
 [View](/es/documents/product-information/optruma-epar-product-information_es.pdf)
 
-čeština (CS) (393.62 KB - PDF)
+čeština (CS) (410.08 KB - PDF)
 
 **First published:**
 
@@ -419,11 +417,11 @@ español (ES) (394.78 KB - PDF)
 
 **Last updated:**
 
-26/09/2024
+27/01/2026
 
 [View](/cs/documents/product-information/optruma-epar-product-information_cs.pdf)
 
-dansk (DA) (561.95 KB - PDF)
+dansk (DA) (552.48 KB - PDF)
 
 **First published:**
 
@@ -431,11 +429,11 @@ dansk (DA) (561.95 KB - PDF)
 
 **Last updated:**
 
-26/09/2024
+27/01/2026
 
 [View](/da/documents/product-information/optruma-epar-product-information_da.pdf)
 
-Deutsch (DE) (382.59 KB - PDF)
+Deutsch (DE) (395.17 KB - PDF)
 
 **First published:**
 
@@ -443,11 +441,11 @@ Deutsch (DE) (382.59 KB - PDF)
 
 **Last updated:**
 
-26/09/2024
+27/01/2026
 
 [View](/de/documents/product-information/optruma-epar-product-information_de.pdf)
 
-eesti keel (ET) (418.15 KB - PDF)
+eesti keel (ET) (559.22 KB - PDF)
 
 **First published:**
 
@@ -455,11 +453,11 @@ eesti keel (ET) (418.15 KB - PDF)
 
 **Last updated:**
 
-26/09/2024
+27/01/2026
 
 [View](/et/documents/product-information/optruma-epar-product-information_et.pdf)
 
-ελληνικά (EL) (418.05 KB - PDF)
+ελληνικά (EL) (426.93 KB - PDF)
 
 **First published:**
 
@@ -467,11 +465,11 @@ eesti keel (ET) (418.15 KB - PDF)
 
 **Last updated:**
 
-26/09/2024
+27/01/2026
 
 [View](/el/documents/product-information/optruma-epar-product-information_el.pdf)
 
-français (FR) (315.07 KB - PDF)
+français (FR) (613.03 KB - PDF)
 
 **First published:**
 
@@ -479,11 +477,11 @@ français (FR) (315.07 KB - PDF)
 
 **Last updated:**
 
-26/09/2024
+27/01/2026
 
 [View](/fr/documents/product-information/optruma-epar-product-information_fr.pdf)
 
-hrvatski (HR) (411.75 KB - PDF)
+hrvatski (HR) (543 KB - PDF)
 
 **First published:**
 
@@ -491,11 +489,11 @@ hrvatski (HR) (411.75 KB - PDF)
 
 **Last updated:**
 
-26/09/2024
+27/01/2026
 
 [View](/hr/documents/product-information/optruma-epar-product-information_hr.pdf)
 
-íslenska (IS) (370.59 KB - PDF)
+íslenska (IS) (515.68 KB - PDF)
 
 **First published:**
 
@@ -503,11 +501,11 @@ hrvatski (HR) (411.75 KB - PDF)
 
 **Last updated:**
 
-26/09/2024
+27/01/2026
 
 [View](/is/documents/product-information/optruma-epar-product-information_is.pdf)
 
-italiano (IT) (296.2 KB - PDF)
+italiano (IT) (903.32 KB - PDF)
 
 **First published:**
 
@@ -515,11 +513,11 @@ italiano (IT) (296.2 KB - PDF)
 
 **Last updated:**
 
-26/09/2024
+27/01/2026
 
 [View](/it/documents/product-information/optruma-epar-product-information_it.pdf)
 
-latviešu valoda (LV) (423.05 KB - PDF)
+latviešu valoda (LV) (559.39 KB - PDF)
 
 **First published:**
 
@@ -527,11 +525,11 @@ latviešu valoda (LV) (423.05 KB - PDF)
 
 **Last updated:**
 
-26/09/2024
+27/01/2026
 
 [View](/lv/documents/product-information/optruma-epar-product-information_lv.pdf)
 
-lietuvių kalba (LT) (425.77 KB - PDF)
+lietuvių kalba (LT) (525.96 KB - PDF)
 
 **First published:**
 
@@ -539,11 +537,11 @@ lietuvių kalba (LT) (425.77 KB - PDF)
 
 **Last updated:**
 
-26/09/2024
+27/01/2026
 
 [View](/lt/documents/product-information/optruma-epar-product-information_lt.pdf)
 
-magyar (HU) (441.6 KB - PDF)
+magyar (HU) (438.37 KB - PDF)
 
 **First published:**
 
@@ -551,11 +549,11 @@ magyar (HU) (441.6 KB - PDF)
 
 **Last updated:**
 
-26/09/2024
+27/01/2026
 
 [View](/hu/documents/product-information/optruma-epar-product-information_hu.pdf)
 
-Malti (MT) (386.02 KB - PDF)
+Malti (MT) (651.87 KB - PDF)
 
 **First published:**
 
@@ -563,11 +561,11 @@ Malti (MT) (386.02 KB - PDF)
 
 **Last updated:**
 
-26/09/2024
+27/01/2026
 
 [View](/mt/documents/product-information/optruma-epar-product-information_mt.pdf)
 
-Nederlands (NL) (406.38 KB - PDF)
+Nederlands (NL) (534.53 KB - PDF)
 
 **First published:**
 
@@ -575,11 +573,11 @@ Nederlands (NL) (406.38 KB - PDF)
 
 **Last updated:**
 
-26/09/2024
+27/01/2026
 
 [View](/nl/documents/product-information/optruma-epar-product-information_nl.pdf)
 
-norsk (NO) (367.16 KB - PDF)
+norsk (NO) (370.03 KB - PDF)
 
 **First published:**
 
@@ -587,11 +585,11 @@ norsk (NO) (367.16 KB - PDF)
 
 **Last updated:**
 
-26/09/2024
+27/01/2026
 
 [View](/no/documents/product-information/optruma-epar-product-information_no.pdf)
 
-polski (PL) (508.36 KB - PDF)
+polski (PL) (662.37 KB - PDF)
 
 **First published:**
 
@@ -599,11 +597,11 @@ polski (PL) (508.36 KB - PDF)
 
 **Last updated:**
 
-26/09/2024
+27/01/2026
 
 [View](/pl/documents/product-information/optruma-epar-product-information_pl.pdf)
 
-português (PT) (499.96 KB - PDF)
+português (PT) (582.23 KB - PDF)
 
 **First published:**
 
@@ -611,11 +609,11 @@ português (PT) (499.96 KB - PDF)
 
 **Last updated:**
 
-26/09/2024
+27/01/2026
 
 [View](/pt/documents/product-information/optruma-epar-product-information_pt.pdf)
 
-română (RO) (312.37 KB - PDF)
+română (RO) (913.61 KB - PDF)
 
 **First published:**
 
@@ -623,11 +621,11 @@ română (RO) (312.37 KB - PDF)
 
 **Last updated:**
 
-26/09/2024
+27/01/2026
 
 [View](/ro/documents/product-information/optruma-epar-product-information_ro.pdf)
 
-slovenčina (SK) (424.87 KB - PDF)
+slovenčina (SK) (551.29 KB - PDF)
 
 **First published:**
 
@@ -635,11 +633,11 @@ slovenčina (SK) (424.87 KB - PDF)
 
 **Last updated:**
 
-26/09/2024
+27/01/2026
 
 [View](/sk/documents/product-information/optruma-epar-product-information_sk.pdf)
 
-slovenščina (SL) (434.33 KB - PDF)
+slovenščina (SL) (554.96 KB - PDF)
 
 **First published:**
 
@@ -647,11 +645,11 @@ slovenščina (SL) (434.33 KB - PDF)
 
 **Last updated:**
 
-26/09/2024
+27/01/2026
 
 [View](/sl/documents/product-information/optruma-epar-product-information_sl.pdf)
 
-Suomi (FI) (442.59 KB - PDF)
+Suomi (FI) (448.3 KB - PDF)
 
 **First published:**
 
@@ -659,11 +657,11 @@ Suomi (FI) (442.59 KB - PDF)
 
 **Last updated:**
 
-26/09/2024
+27/01/2026
 
 [View](/fi/documents/product-information/optruma-epar-product-information_fi.pdf)
 
-svenska (SV) (446.07 KB - PDF)
+svenska (SV) (399.67 KB - PDF)
 
 **First published:**
 
@@ -671,11 +669,11 @@ svenska (SV) (446.07 KB - PDF)
 
 **Last updated:**
 
-26/09/2024
+27/01/2026
 
 [View](/sv/documents/product-information/optruma-epar-product-information_sv.pdf)
 
-**Latest procedure affecting product information:** N/0083 25/09/2024
+**Latest procedure affecting product information:** VR/0000315293 27/01/2026
 
 icon globe
 
@@ -701,7 +699,7 @@ English (EN) (20.84 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/optruma-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-438)
+[Other languages (24)](#file-language-dropdown-93)
 
 български (BG) (138.1 KB - PDF)
 
@@ -1009,9 +1007,9 @@ EMA product number EMEA/H/C/000185 Marketing authorisation holder
 
 Eli Lilly Nederland B.V.
 
-Papendorpseweg 83 3528 BJ Utrecht Netherlands
+Orteliuslaan 1000 3528 BD Utrecht Netherlands
 
-Marketing authorisation issued 05/08/1998 Revision 27
+Marketing authorisation issued 05/08/1998 Revision 28
 
 ## Assessment history
 
@@ -1023,13 +1021,21 @@ Collapse section
 
 Optruma : EPAR - Procedural steps taken and scientific information after authorisation
 
+English (EN) (127.53 KB - PDF)
+
+**First published:** 27/01/2026
+
+[View](/en/documents/procedural-steps-after/optruma-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf)
+
+Optruma : EPAR - Procedural steps taken and scientific information after authorisation (archive)
+
 English (EN) (171.51 KB - PDF)
 
 **First published:** 03/09/2008
 
-**Last updated:** 26/09/2024
+**Last updated:** 27/01/2026
 
-[View](/en/documents/procedural-steps-after/optruma-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf)
+[View](/en/documents/procedural-steps-after/optruma-epar-procedural-steps-taken-scientific-information-after-authorisation-archive_en.pdf)
 
 Optruma : EPAR - Steps taken after authorisation when a cutoff date has been used
 
@@ -1067,7 +1073,7 @@ English (EN) (245.47 KB - PDF)
 
 - [Medicines](https://www.ema.europa.eu/en/search?f%5B0%5D=ema_search_topics%3A61)
 
-**This page was last updated on** 26/09/2024
+**This page was last updated on** 27/01/2026
 
 ## Share this page
 

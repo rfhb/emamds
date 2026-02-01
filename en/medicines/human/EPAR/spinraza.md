@@ -1,18 +1,18 @@
 ---
-document_datetime: 2025-12-29 10:01:30
+document_datetime: 2026-01-29 16:30:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/spinraza.html
 document_name: spinraza.html
 version: success
-processing_time: 0.1123888
-conversion_datetime: 2025-12-30 22:17:32.570071
+processing_time: 0.1257451
+conversion_datetime: 2026-02-01 20:40:44.584268
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.66.0
-  docling-core: 2.57.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.11.0
+  docling-jobkit: 1.9.1
+  docling: 2.71.0
+  docling-core: 2.62.0
+  docling-ibm-models: 3.11.0
+  docling-parse: 4.7.3
   python: cpython-313 (3.13.11)
   plaform: macOS-26.2-arm64-arm-64bit-Mach-O
 ---
@@ -25,8 +25,6 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 nusinersen Medicine Human Authorised
-
-On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -123,7 +121,7 @@ English (EN) (78.3 KB - PDF)
 
 [View](/en/documents/overview/spinraza-epar-summary-public_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-792)
+[Other languages (22)](#file-language-dropdown-127)
 
 български (BG) (105.89 KB - PDF)
 
@@ -391,11 +389,11 @@ svenska (SV) (77.21 KB - PDF)
 
 Spinraza : EPAR - Risk management plan
 
-English (EN) (1.03 MB - PDF)
+English (EN) (1.57 MB - PDF)
 
 **First published:** 09/10/2019
 
-**Last updated:** 27/02/2025
+**Last updated:** 29/01/2026
 
 [View](/en/documents/rmp/spinraza-epar-risk-management-plan_en.pdf)
 
@@ -403,17 +401,17 @@ English (EN) (1.03 MB - PDF)
 
 Spinraza : EPAR - Product Information
 
-English (EN) (618.83 KB - PDF)
+English (EN) (780.46 KB - PDF)
 
 **First published:** 21/06/2017
 
-**Last updated:** 27/02/2025
+**Last updated:** 29/01/2026
 
 [View](/en/documents/product-information/spinraza-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-366)
+[Other languages (24)](#file-language-dropdown-721)
 
-български (BG) (890.21 KB - PDF)
+български (BG) (1.05 MB - PDF)
 
 **First published:**
 
@@ -421,11 +419,11 @@ English (EN) (618.83 KB - PDF)
 
 **Last updated:**
 
-27/02/2025
+29/01/2026
 
 [View](/bg/documents/product-information/spinraza-epar-product-information_bg.pdf)
 
-español (ES) (801.21 KB - PDF)
+español (ES) (951.76 KB - PDF)
 
 **First published:**
 
@@ -433,11 +431,11 @@ español (ES) (801.21 KB - PDF)
 
 **Last updated:**
 
-27/02/2025
+29/01/2026
 
 [View](/es/documents/product-information/spinraza-epar-product-information_es.pdf)
 
-čeština (CS) (869.72 KB - PDF)
+čeština (CS) (1.06 MB - PDF)
 
 **First published:**
 
@@ -445,11 +443,11 @@ español (ES) (801.21 KB - PDF)
 
 **Last updated:**
 
-27/02/2025
+29/01/2026
 
 [View](/cs/documents/product-information/spinraza-epar-product-information_cs.pdf)
 
-dansk (DA) (749.76 KB - PDF)
+dansk (DA) (864.97 KB - PDF)
 
 **First published:**
 
@@ -457,11 +455,11 @@ dansk (DA) (749.76 KB - PDF)
 
 **Last updated:**
 
-27/02/2025
+29/01/2026
 
 [View](/da/documents/product-information/spinraza-epar-product-information_da.pdf)
 
-Deutsch (DE) (833.52 KB - PDF)
+Deutsch (DE) (996.64 KB - PDF)
 
 **First published:**
 
@@ -469,11 +467,11 @@ Deutsch (DE) (833.52 KB - PDF)
 
 **Last updated:**
 
-27/02/2025
+29/01/2026
 
 [View](/de/documents/product-information/spinraza-epar-product-information_de.pdf)
 
-eesti keel (ET) (800.97 KB - PDF)
+eesti keel (ET) (1020.53 KB - PDF)
 
 **First published:**
 
@@ -481,11 +479,11 @@ eesti keel (ET) (800.97 KB - PDF)
 
 **Last updated:**
 
-27/02/2025
+29/01/2026
 
 [View](/et/documents/product-information/spinraza-epar-product-information_et.pdf)
 
-ελληνικά (EL) (867.45 KB - PDF)
+ελληνικά (EL) (1017.33 KB - PDF)
 
 **First published:**
 
@@ -493,11 +491,11 @@ eesti keel (ET) (800.97 KB - PDF)
 
 **Last updated:**
 
-27/02/2025
+29/01/2026
 
 [View](/el/documents/product-information/spinraza-epar-product-information_el.pdf)
 
-français (FR) (845.24 KB - PDF)
+français (FR) (982.93 KB - PDF)
 
 **First published:**
 
@@ -505,11 +503,11 @@ français (FR) (845.24 KB - PDF)
 
 **Last updated:**
 
-27/02/2025
+29/01/2026
 
 [View](/fr/documents/product-information/spinraza-epar-product-information_fr.pdf)
 
-hrvatski (HR) (821.08 KB - PDF)
+hrvatski (HR) (1.02 MB - PDF)
 
 **First published:**
 
@@ -517,11 +515,11 @@ hrvatski (HR) (821.08 KB - PDF)
 
 **Last updated:**
 
-27/02/2025
+29/01/2026
 
 [View](/hr/documents/product-information/spinraza-epar-product-information_hr.pdf)
 
-íslenska (IS) (783.37 KB - PDF)
+íslenska (IS) (898.59 KB - PDF)
 
 **First published:**
 
@@ -529,11 +527,11 @@ hrvatski (HR) (821.08 KB - PDF)
 
 **Last updated:**
 
-27/02/2025
+29/01/2026
 
 [View](/is/documents/product-information/spinraza-epar-product-information_is.pdf)
 
-italiano (IT) (794.12 KB - PDF)
+italiano (IT) (956.08 KB - PDF)
 
 **First published:**
 
@@ -541,11 +539,11 @@ italiano (IT) (794.12 KB - PDF)
 
 **Last updated:**
 
-27/02/2025
+29/01/2026
 
 [View](/it/documents/product-information/spinraza-epar-product-information_it.pdf)
 
-latviešu valoda (LV) (873.06 KB - PDF)
+latviešu valoda (LV) (1.07 MB - PDF)
 
 **First published:**
 
@@ -553,11 +551,11 @@ latviešu valoda (LV) (873.06 KB - PDF)
 
 **Last updated:**
 
-27/02/2025
+29/01/2026
 
 [View](/lv/documents/product-information/spinraza-epar-product-information_lv.pdf)
 
-lietuvių kalba (LT) (842.89 KB - PDF)
+lietuvių kalba (LT) (1.09 MB - PDF)
 
 **First published:**
 
@@ -565,11 +563,11 @@ lietuvių kalba (LT) (842.89 KB - PDF)
 
 **Last updated:**
 
-27/02/2025
+29/01/2026
 
 [View](/lt/documents/product-information/spinraza-epar-product-information_lt.pdf)
 
-magyar (HU) (912.69 KB - PDF)
+magyar (HU) (1.12 MB - PDF)
 
 **First published:**
 
@@ -577,11 +575,11 @@ magyar (HU) (912.69 KB - PDF)
 
 **Last updated:**
 
-27/02/2025
+29/01/2026
 
 [View](/hu/documents/product-information/spinraza-epar-product-information_hu.pdf)
 
-Malti (MT) (839.47 KB - PDF)
+Malti (MT) (1016.06 KB - PDF)
 
 **First published:**
 
@@ -589,11 +587,11 @@ Malti (MT) (839.47 KB - PDF)
 
 **Last updated:**
 
-27/02/2025
+29/01/2026
 
 [View](/mt/documents/product-information/spinraza-epar-product-information_mt.pdf)
 
-Nederlands (NL) (813.59 KB - PDF)
+Nederlands (NL) (1.31 MB - PDF)
 
 **First published:**
 
@@ -601,11 +599,11 @@ Nederlands (NL) (813.59 KB - PDF)
 
 **Last updated:**
 
-27/02/2025
+29/01/2026
 
 [View](/nl/documents/product-information/spinraza-epar-product-information_nl.pdf)
 
-norsk (NO) (755.06 KB - PDF)
+norsk (NO) (922.4 KB - PDF)
 
 **First published:**
 
@@ -613,11 +611,11 @@ norsk (NO) (755.06 KB - PDF)
 
 **Last updated:**
 
-27/02/2025
+29/01/2026
 
 [View](/no/documents/product-information/spinraza-epar-product-information_no.pdf)
 
-polski (PL) (925.43 KB - PDF)
+polski (PL) (1.08 MB - PDF)
 
 **First published:**
 
@@ -625,11 +623,11 @@ polski (PL) (925.43 KB - PDF)
 
 **Last updated:**
 
-27/02/2025
+29/01/2026
 
 [View](/pl/documents/product-information/spinraza-epar-product-information_pl.pdf)
 
-português (PT) (801.23 KB - PDF)
+português (PT) (962.71 KB - PDF)
 
 **First published:**
 
@@ -637,11 +635,11 @@ português (PT) (801.23 KB - PDF)
 
 **Last updated:**
 
-27/02/2025
+29/01/2026
 
 [View](/pt/documents/product-information/spinraza-epar-product-information_pt.pdf)
 
-română (RO) (810.29 KB - PDF)
+română (RO) (1.05 MB - PDF)
 
 **First published:**
 
@@ -649,11 +647,11 @@ română (RO) (810.29 KB - PDF)
 
 **Last updated:**
 
-27/02/2025
+29/01/2026
 
 [View](/ro/documents/product-information/spinraza-epar-product-information_ro.pdf)
 
-slovenčina (SK) (873.26 KB - PDF)
+slovenčina (SK) (1.06 MB - PDF)
 
 **First published:**
 
@@ -661,11 +659,11 @@ slovenčina (SK) (873.26 KB - PDF)
 
 **Last updated:**
 
-27/02/2025
+29/01/2026
 
 [View](/sk/documents/product-information/spinraza-epar-product-information_sk.pdf)
 
-slovenščina (SL) (863.79 KB - PDF)
+slovenščina (SL) (1.02 MB - PDF)
 
 **First published:**
 
@@ -673,11 +671,11 @@ slovenščina (SL) (863.79 KB - PDF)
 
 **Last updated:**
 
-27/02/2025
+29/01/2026
 
 [View](/sl/documents/product-information/spinraza-epar-product-information_sl.pdf)
 
-Suomi (FI) (842.86 KB - PDF)
+Suomi (FI) (1.03 MB - PDF)
 
 **First published:**
 
@@ -685,11 +683,11 @@ Suomi (FI) (842.86 KB - PDF)
 
 **Last updated:**
 
-27/02/2025
+29/01/2026
 
 [View](/fi/documents/product-information/spinraza-epar-product-information_fi.pdf)
 
-svenska (SV) (756.54 KB - PDF)
+svenska (SV) (885.62 KB - PDF)
 
 **First published:**
 
@@ -697,11 +695,11 @@ svenska (SV) (756.54 KB - PDF)
 
 **Last updated:**
 
-27/02/2025
+29/01/2026
 
 [View](/sv/documents/product-information/spinraza-epar-product-information_sv.pdf)
 
-**Latest procedure affecting product information:** II/0034/G 16/01/2025
+**Latest procedure affecting product information:** X/0038 09/01/2026
 
 icon globe
 
@@ -719,17 +717,17 @@ Product information documents contain:
 
 Spinraza : EPAR - All Authorised presentations
 
-English (EN) (11.65 KB - PDF)
+English (EN) (63.67 KB - PDF)
 
 **First published:** 21/06/2017
 
-**Last updated:** 21/06/2017
+**Last updated:** 29/01/2026
 
 [View](/en/documents/all-authorised-presentations/spinraza-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-20)
+[Other languages (23)](#file-language-dropdown-130)
 
-български (BG) (32.8 KB - PDF)
+български (BG) (47.05 KB - PDF)
 
 **First published:**
 
@@ -737,11 +735,11 @@ English (EN) (11.65 KB - PDF)
 
 **Last updated:**
 
-21/06/2017
+29/01/2026
 
 [View](/bg/documents/all-authorised-presentations/spinraza-epar-all-authorised-presentations_bg.pdf)
 
-español (ES) (13.74 KB - PDF)
+español (ES) (43.6 KB - PDF)
 
 **First published:**
 
@@ -749,11 +747,11 @@ español (ES) (13.74 KB - PDF)
 
 **Last updated:**
 
-21/06/2017
+29/01/2026
 
 [View](/es/documents/all-authorised-presentations/spinraza-epar-all-authorised-presentations_es.pdf)
 
-čeština (CS) (28.9 KB - PDF)
+čeština (CS) (42.26 KB - PDF)
 
 **First published:**
 
@@ -761,11 +759,11 @@ español (ES) (13.74 KB - PDF)
 
 **Last updated:**
 
-21/06/2017
+29/01/2026
 
 [View](/cs/documents/all-authorised-presentations/spinraza-epar-all-authorised-presentations_cs.pdf)
 
-dansk (DA) (13.67 KB - PDF)
+dansk (DA) (43.75 KB - PDF)
 
 **First published:**
 
@@ -773,11 +771,11 @@ dansk (DA) (13.67 KB - PDF)
 
 **Last updated:**
 
-21/06/2017
+29/01/2026
 
 [View](/da/documents/all-authorised-presentations/spinraza-epar-all-authorised-presentations_da.pdf)
 
-Deutsch (DE) (13.59 KB - PDF)
+Deutsch (DE) (46.06 KB - PDF)
 
 **First published:**
 
@@ -785,11 +783,11 @@ Deutsch (DE) (13.59 KB - PDF)
 
 **Last updated:**
 
-21/06/2017
+29/01/2026
 
 [View](/de/documents/all-authorised-presentations/spinraza-epar-all-authorised-presentations_de.pdf)
 
-eesti keel (ET) (10.78 KB - PDF)
+eesti keel (ET) (40.68 KB - PDF)
 
 **First published:**
 
@@ -797,11 +795,11 @@ eesti keel (ET) (10.78 KB - PDF)
 
 **Last updated:**
 
-21/06/2017
+29/01/2026
 
 [View](/et/documents/all-authorised-presentations/spinraza-epar-all-authorised-presentations_et.pdf)
 
-ελληνικά (EL) (31.07 KB - PDF)
+ελληνικά (EL) (45.85 KB - PDF)
 
 **First published:**
 
@@ -809,11 +807,11 @@ eesti keel (ET) (10.78 KB - PDF)
 
 **Last updated:**
 
-21/06/2017
+29/01/2026
 
 [View](/el/documents/all-authorised-presentations/spinraza-epar-all-authorised-presentations_el.pdf)
 
-français (FR) (13.4 KB - PDF)
+français (FR) (44.33 KB - PDF)
 
 **First published:**
 
@@ -821,11 +819,11 @@ français (FR) (13.4 KB - PDF)
 
 **Last updated:**
 
-21/06/2017
+29/01/2026
 
 [View](/fr/documents/all-authorised-presentations/spinraza-epar-all-authorised-presentations_fr.pdf)
 
-hrvatski (HR) (26.53 KB - PDF)
+hrvatski (HR) (43.62 KB - PDF)
 
 **First published:**
 
@@ -833,11 +831,11 @@ hrvatski (HR) (26.53 KB - PDF)
 
 **Last updated:**
 
-21/06/2017
+29/01/2026
 
 [View](/hr/documents/all-authorised-presentations/spinraza-epar-all-authorised-presentations_hr.pdf)
 
-íslenska (IS) (13.43 KB - PDF)
+italiano (IT) (43.88 KB - PDF)
 
 **First published:**
 
@@ -845,23 +843,11 @@ hrvatski (HR) (26.53 KB - PDF)
 
 **Last updated:**
 
-21/06/2017
-
-[View](/is/documents/all-authorised-presentations/spinraza-epar-all-authorised-presentations_is.pdf)
-
-italiano (IT) (13.61 KB - PDF)
-
-**First published:**
-
-21/06/2017
-
-**Last updated:**
-
-21/06/2017
+29/01/2026
 
 [View](/it/documents/all-authorised-presentations/spinraza-epar-all-authorised-presentations_it.pdf)
 
-latviešu valoda (LV) (31.65 KB - PDF)
+latviešu valoda (LV) (46.09 KB - PDF)
 
 **First published:**
 
@@ -869,11 +855,11 @@ latviešu valoda (LV) (31.65 KB - PDF)
 
 **Last updated:**
 
-21/06/2017
+29/01/2026
 
 [View](/lv/documents/all-authorised-presentations/spinraza-epar-all-authorised-presentations_lv.pdf)
 
-lietuvių kalba (LT) (26.49 KB - PDF)
+lietuvių kalba (LT) (46.03 KB - PDF)
 
 **First published:**
 
@@ -881,11 +867,11 @@ lietuvių kalba (LT) (26.49 KB - PDF)
 
 **Last updated:**
 
-21/06/2017
+29/01/2026
 
 [View](/lt/documents/all-authorised-presentations/spinraza-epar-all-authorised-presentations_lt.pdf)
 
-magyar (HU) (17.27 KB - PDF)
+magyar (HU) (45.86 KB - PDF)
 
 **First published:**
 
@@ -893,11 +879,11 @@ magyar (HU) (17.27 KB - PDF)
 
 **Last updated:**
 
-21/06/2017
+29/01/2026
 
 [View](/hu/documents/all-authorised-presentations/spinraza-epar-all-authorised-presentations_hu.pdf)
 
-Malti (MT) (29.1 KB - PDF)
+Malti (MT) (45.2 KB - PDF)
 
 **First published:**
 
@@ -905,11 +891,11 @@ Malti (MT) (29.1 KB - PDF)
 
 **Last updated:**
 
-21/06/2017
+29/01/2026
 
 [View](/mt/documents/all-authorised-presentations/spinraza-epar-all-authorised-presentations_mt.pdf)
 
-Nederlands (NL) (10.93 KB - PDF)
+Nederlands (NL) (40.7 KB - PDF)
 
 **First published:**
 
@@ -917,11 +903,11 @@ Nederlands (NL) (10.93 KB - PDF)
 
 **Last updated:**
 
-21/06/2017
+29/01/2026
 
 [View](/nl/documents/all-authorised-presentations/spinraza-epar-all-authorised-presentations_nl.pdf)
 
-norsk (NO) (13.71 KB - PDF)
+norsk (NO) (45.26 KB - PDF)
 
 **First published:**
 
@@ -929,11 +915,11 @@ norsk (NO) (13.71 KB - PDF)
 
 **Last updated:**
 
-21/06/2017
+29/01/2026
 
 [View](/no/documents/all-authorised-presentations/spinraza-epar-all-authorised-presentations_no.pdf)
 
-polski (PL) (28.78 KB - PDF)
+polski (PL) (46.6 KB - PDF)
 
 **First published:**
 
@@ -941,11 +927,11 @@ polski (PL) (28.78 KB - PDF)
 
 **Last updated:**
 
-21/06/2017
+29/01/2026
 
 [View](/pl/documents/all-authorised-presentations/spinraza-epar-all-authorised-presentations_pl.pdf)
 
-português (PT) (13.87 KB - PDF)
+português (PT) (45.91 KB - PDF)
 
 **First published:**
 
@@ -953,11 +939,11 @@ português (PT) (13.87 KB - PDF)
 
 **Last updated:**
 
-21/06/2017
+29/01/2026
 
 [View](/pt/documents/all-authorised-presentations/spinraza-epar-all-authorised-presentations_pt.pdf)
 
-română (RO) (29.44 KB - PDF)
+română (RO) (41.38 KB - PDF)
 
 **First published:**
 
@@ -965,11 +951,11 @@ română (RO) (29.44 KB - PDF)
 
 **Last updated:**
 
-21/06/2017
+29/01/2026
 
 [View](/ro/documents/all-authorised-presentations/spinraza-epar-all-authorised-presentations_ro.pdf)
 
-slovenčina (SK) (28.11 KB - PDF)
+slovenčina (SK) (45.09 KB - PDF)
 
 **First published:**
 
@@ -977,11 +963,11 @@ slovenčina (SK) (28.11 KB - PDF)
 
 **Last updated:**
 
-21/06/2017
+29/01/2026
 
 [View](/sk/documents/all-authorised-presentations/spinraza-epar-all-authorised-presentations_sk.pdf)
 
-slovenščina (SL) (19.9 KB - PDF)
+slovenščina (SL) (43.51 KB - PDF)
 
 **First published:**
 
@@ -989,11 +975,11 @@ slovenščina (SL) (19.9 KB - PDF)
 
 **Last updated:**
 
-21/06/2017
+29/01/2026
 
 [View](/sl/documents/all-authorised-presentations/spinraza-epar-all-authorised-presentations_sl.pdf)
 
-Suomi (FI) (13.34 KB - PDF)
+Suomi (FI) (41.09 KB - PDF)
 
 **First published:**
 
@@ -1001,11 +987,11 @@ Suomi (FI) (13.34 KB - PDF)
 
 **Last updated:**
 
-21/06/2017
+29/01/2026
 
 [View](/fi/documents/all-authorised-presentations/spinraza-epar-all-authorised-presentations_fi.pdf)
 
-svenska (SV) (12.61 KB - PDF)
+svenska (SV) (44.73 KB - PDF)
 
 **First published:**
 
@@ -1013,7 +999,7 @@ svenska (SV) (12.61 KB - PDF)
 
 **Last updated:**
 
-21/06/2017
+29/01/2026
 
 [View](/sv/documents/all-authorised-presentations/spinraza-epar-all-authorised-presentations_sv.pdf)
 
@@ -1047,7 +1033,7 @@ Biogen Netherlands B.V.
 
 Prins Mauritslaan 13 1171 LP Badhoevedorp The Netherlands
 
-Opinion adopted 21/04/2017 Marketing authorisation issued 30/05/2017 Revision 19
+Opinion adopted 21/04/2017 Marketing authorisation issued 30/05/2017 Revision 20
 
 ## Assessment history
 
@@ -1059,13 +1045,25 @@ Collapse section
 
 Spinraza : EPAR - Procedural steps taken and scientific information after authorisation
 
-English (EN) (199.79 KB - PDF)
+English (EN) (201.37 KB - PDF)
 
 **First published:** 11/01/2018
 
-**Last updated:** 27/02/2025
+**Last updated:** 29/01/2026
 
-[View](/en/documents/procedural-steps-after/spinraza-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf)
+[View](/en/documents/procedural-steps-after/spinraza-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf-0)
+
+Spinraza-H-C-004312-X-0038 : EPAR - Assessment report
+
+Adopted
+
+Reference Number: EMA/CHMP/379593/2025
+
+English (EN) (8.09 MB - PDF)
+
+**First published:** 29/01/2026
+
+[View](/en/documents/variation-report/spinraza-h-c-004312-x-0038-epar-assessment-report_en.pdf)
 
 Spinraza-PAM-0000279100 : EPAR - Assessment report
 
@@ -1159,7 +1157,7 @@ English (EN) (112.75 KB - PDF)
 
 - [Medicines](https://www.ema.europa.eu/en/search?f%5B0%5D=ema_search_topics%3A61)
 
-**This page was last updated on** 22/10/2025
+**This page was last updated on** 29/01/2026
 
 ## Share this page
 

@@ -1,18 +1,18 @@
 ---
-document_datetime: 2025-12-29 14:35:53
+document_datetime: 2026-01-30 15:32:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/kisplyx.html
 document_name: kisplyx.html
 version: success
-processing_time: 0.1196191
-conversion_datetime: 2025-12-30 10:04:51.662242
+processing_time: 0.1305422
+conversion_datetime: 2026-02-01 20:45:13.611745
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.66.0
-  docling-core: 2.57.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.11.0
+  docling-jobkit: 1.9.1
+  docling: 2.71.0
+  docling-core: 2.62.0
+  docling-ibm-models: 3.11.0
+  docling-parse: 4.7.3
   python: cpython-313 (3.13.11)
   plaform: macOS-26.2-arm64-arm-64bit-Mach-O
 ---
@@ -25,8 +25,6 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 lenvatinib Medicine Human Authorised
-
-On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -117,7 +115,7 @@ English (EN) (122.03 KB - PDF)
 
 [View](/en/documents/overview/kisplyx-epar-summary-public_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-47)
+[Other languages (22)](#file-language-dropdown-483)
 
 български (BG) (144.92 KB - PDF)
 
@@ -405,7 +403,7 @@ English (EN) (410.42 KB - PDF)
 
 [View](/en/documents/product-information/kisplyx-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-937)
+[Other languages (24)](#file-language-dropdown-722)
 
 български (BG) (499.7 KB - PDF)
 
@@ -721,7 +719,7 @@ English (EN) (35.87 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/kisplyx-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-953)
+[Other languages (24)](#file-language-dropdown-515)
 
 български (BG) (32.15 KB - PDF)
 
@@ -1040,7 +1038,7 @@ Eisai GmbH
 
 Edmund-Rumpler-Straße 3
 
-Opinion adopted 21/07/2016 Marketing authorisation issued 25/08/2016 Revision 26
+Opinion adopted 21/07/2016 Marketing authorisation issued 25/08/2016 Revision 27
 
 ## Assessment history
 
@@ -1067,6 +1065,18 @@ English (EN) (297.05 KB - PDF)
 **Last updated:** 22/04/2025
 
 [View](/en/documents/procedural-steps-after/kisplyx-epar-procedural-steps-taken-scientific-information-after-authorisation-archive_en.pdf)
+
+Kisplyx-PAM-0000279841 : EPAR - Assessment report
+
+Adopted
+
+Reference Number: EMADOC-1700519818-2219662
+
+English (EN) (1.08 MB - PDF)
+
+**First published:** 30/01/2026
+
+[View](/en/documents/variation-report/kisplyx-pam-0000279841-epar-assessment-report_en.pdf)
 
 Kisplyx-H-C-004224-P46-020 : EPAR - Assessment report
 
@@ -1183,7 +1193,7 @@ English (EN) (63.23 KB - PDF)
 
 - [Medicines](https://www.ema.europa.eu/en/search?f%5B0%5D=ema_search_topics%3A61)
 
-**This page was last updated on** 23/05/2025
+**This page was last updated on** 30/01/2026
 
 ## Share this page
 

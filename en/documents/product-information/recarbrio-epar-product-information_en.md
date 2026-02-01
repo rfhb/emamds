@@ -1,20 +1,20 @@
 ---
-document_datetime: 2024-09-24 14:38:35
-document_pages: 34
+document_datetime: 2026-01-26 16:21:36
+document_pages: 36
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/recarbrio-epar-product-information_en.pdf
 document_name: recarbrio-epar-product-information_en.pdf
 version: success
-processing_time: 8.4914201
-conversion_datetime: 2025-12-18 08:58:19.466463
+processing_time: 10.095506
+conversion_datetime: 2026-02-01 20:46:30.978376
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.64.1
-  docling-core: 2.55.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.11.0
+  docling-jobkit: 1.9.1
+  docling: 2.71.0
+  docling-core: 2.62.0
+  docling-ibm-models: 3.11.0
+  docling-parse: 4.7.3
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.1-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
 ---
 ## ANNEX I
 
@@ -46,65 +46,71 @@ A white to light yellow powder.
 
 ## 4.1 Therapeutic indications
 
-Recarbrio is indicated for:
+Recarbrio is indicated in adult and paediatric patients f rom birth f or:
 
-- Treatment of hospital-acquired pneumonia (HAP), including ventilator associated pneumonia (VAP), in adults (see sections 4.4 and 5.1).
-- Treatment of bacteraemia that occurs in association with, or is suspected to be associated with HAP or VAP, in adults.
-- Treatment of infections due to aerobic Gram-negative organisms in adults with limited treatment options (see sections 4.2, 4.4, and 5.1).
+- Treatment of hospital-acquired pneumonia (HAP), including ventilator associated pneumonia (VAP) (see sections 4.4 and 5.1).
+- Treatment of bacteraemia that occurs in association with, or is suspected to be associated with HAP or VAP.
+- Treatment of infections due to aerobic Gram-negative organisms with limited treatment options (see sections 4.2, 4.4, and 5.1).
 
 Consideration should be given to official guidance on the appropriate use of antibacterial agents.
 
 ## 4.2 Posology and method of administration
 
-It is recommended that Recarbrio should be used to treat infections due to aerobic Gram-negative organisms in adult patients with limited treatment options only after consultation with a physician with appropriate experience in the management of infectious diseases.
+It is recommended that Recarbrio should be used to treat infections due to aerobic Gram-negative organisms in patients with limited treatment options only after consultation with a physician with appropriate experience in the management of infectious diseases.
 
 ## Posology
 
-Table 1 shows the recommended intravenous dose for patients with a creatinine clearance (CrCl) ≥ 90 mL/min (see sections 4.4 and 5.1).
+Table 1 shows the recommended intravenous dose for adult patients with a creatinine clearance (CrCl) ≥ 90 mL/min and Table 2 shows the recommended intravenous dose for paediatric patients (from birth to &lt; 18 years of  age) with normal renal function (see sections 4.4 and 5.1).
 
 <div style=\"page-break-after: always\"></div>
 
-Table 1: Recommended intravenous dose for patients with a creatinine clearance (CrCl) ≥ 90 mL/min 1,2
+Table 1: Recommended doses for adult patients with a CrCl ≥ 90 mL/min* †
 
-| Type ofinfection                                                                               | Dose ofRecarbrio (imipenem/cilastatin/ relebactam)   | Frequency     | Infusion time   | Duration of treatment                               |
-|------------------------------------------------------------------------------------------------|------------------------------------------------------|---------------|-----------------|-----------------------------------------------------|
-| Hospital-acquired pneumonia, including ventilator associated pneumonia 2,3                     | 500 mg/500 mg/250 mg                                 | Every 6 hours | 30 mins         | 7 to 14 days                                        |
-| Infections due to aerobic Gram-negative organisms in patients with limited treatment options 2 | 500 mg/500 mg/250 mg                                 | Every 6 hours | 30 mins         | Duration in accordance with the site of infection 4 |
+| Type ofinfection                                                                               | Dose ofRecarbrio (imipenem/cilastatin/ relebactam)   | Frequency     |   Infusion time (minutes) | Duration of treatment                              |
+|------------------------------------------------------------------------------------------------|------------------------------------------------------|---------------|---------------------------|----------------------------------------------------|
+| Hospital-acquired pneumonia, including ventilator associated pneumonia †‡                      | 500 mg/500 mg/250 mg                                 | Every 6 hours |                        30 | 7 to 14 days                                       |
+| Infections due to aerobic Gram-negative organisms in patients with limited treatment options † | 500 mg/500 mg/250 mg                                 | Every 6 hours |                        30 | Duration in accordance with the site ofinfection § |
 
-1 As calculated using the Cockcroft-Gault formula.
+† For HAP or VAP patients with CrCl ˃ 250 mL/min, and for patients with complicated intra-abdominal infections (cIAI) or complicated urinary tract infections (cUTI), including pyelonephritis with CrCl ˃ 150 mL/min, the recommended dose may not be sufficient (see section 4.4).
 
-2 For HAP or VAP patients with CrCl ˃ 250 mL/min, and for patients with complicated intra-abdominal infections (cIAI) or complicated urinary tract infections (cUTI), including pyelonephritis with
+‡ Includes bacteraemia, in association with, or suspected to be associated with, HAP or VAP.
 
-CrCl ˃ 150 mL/min, the recommended dose of Recarbrio may not be sufficient (see section 4.4).
+§ e.g., f or cIAI and cUTI the recommended treatment duration is 5 to 10 days; treatment may continue up to 14 days.
 
-3 Includes bacteraemia, in association with, or suspected to be associated with, HAP or VAP.
+Table 2: Recommended doses for paediatric patients with normal renal function*
 
-4 e.g., f or cIAI and cUTI the recommended treatment duration is 5 to 10 days; treatment may continue up to 14 days.
+| Body Weight     | Age                      | Dose ofRecarbrio (imipenem/cilastatin/relebactam)                            | Frequency     |   Infusion time (minutes) |
+|-----------------|--------------------------|------------------------------------------------------------------------------|---------------|---------------------------|
+| ≥ 30 kg         | < 18 years               | 500 mg/500 mg/250 mg                                                         | Every 6 hours |                        30 |
+| 2 kg to < 30 kg | ≥ 3 months to < 18 years | 37.5 mg/kg (imipenem 15 mg/kg, cilastatin 15 mg/kg and relebactam 7.5 mg/kg) | Every 6 hours |                        60 |
+| 2 kg to < 30 kg | Birth to < 3 months      | 37.5 mg/kg (imipenem 15 mg/kg, cilastatin 15 mg/kg and relebactam 7.5 mg/kg) | Every 8 hours |                        60 |
+
+The recommended treatment duration for paediatric patients with HAP/VAP is the same as for adults. For treatment of infections due to aerobic Gram-negative organisms in paediatric patients with limited treatment options, duration of treatment should be based on prescriber discretion. See section 5.1.
 
 ## Special populations
 
 ## Renal impairment
 
-Patients who have a CrCl less than 90 mL/min require dosage reduction of Recarbrio as indicated in Table 2. For patients with f luctuating renal function, CrCl should be monitored.
+Adult patients who have a CrCl less than 90 mL/min require dose reduction of imipenem/cilastatin/relebactam as indicated in Table 3. For patients with f luctuating renal function, CrCl should be monitored.
 
-Table 2: Recommended intravenous doses for patients with a CrCl &lt; 90 mL/min
+Paediatric patients weighing at least 30 kg with eGFR less than 90 mL/min/1.73 m 2 require a dose reduction of imipenem/cilastatin/relebactam as indicated in Table 3. Imipenem/cilastatin/relebactam is not recommended in paediatric patients weighing less than 30 kg with renal impairment.
 
-| Estimated Creatinine Clearance (mL/min) *         | Recommended dosage ofRecarbrio (imipenem/cilastatin/relebactam) (mg) †   |
-|---------------------------------------------------|--------------------------------------------------------------------------|
-| Less than 90 to greater than or equal to 60       | 400/400/200                                                              |
-| Less than 60 to greater than or equal to 30       | 300/300/150                                                              |
-| Less than 30 to greater than or equal to 15       | 200/200/100                                                              |
-| End stage renal disease (ESRD) on haemodialysis ‡ | 200/200/100                                                              |
+<div style=\"page-break-after: always\"></div>
 
-* CrCl calculated using the Cockcroft-Gault formula.
+Table 3: Recommended intravenous doses for adult patients with a CrCl &lt; 90 mL/min and paediatric patients (weighing at least 30 kg) with an eGFR of &lt; 90 mL/min/1.73 m 2
 
-† Administer intravenously over 30 minutes every 6 hours.
+| Estimated renal function (CrCl [mL/min]* or eGFR[mL/min/1.73m 2 ] † )   | Recommended dose ofRecarbrio (imipenem/cilastatin/relebactam) (mg) ‡   |
+|-------------------------------------------------------------------------|------------------------------------------------------------------------|
+| Less than 90 to greater than or equal to 60                             | 400/400/200                                                            |
+| Less than 60 to greater than or equal to 30                             | 300/300/150                                                            |
+| Less than 30 to greater than or equal to 15                             | 200/200/100                                                            |
+| End stage renal disease (ESRD) on haemodialysis §                       | 200/200/100                                                            |
 
-‡ Administration should be timed to f ollow haemodialysis. Imipenem, cilastatin, and relebactam are cleared from the circulation during haemodialysis.
+- § Administration should be timed to f ollow haemodialysis. Imipenem, cilastatin, and relebactam are cleared from the circulation during haemodialysis.
 
 Recarbrio is provided as a single vial in a f ixed-dose combination; the dose f or each component will be adjusted equally during preparation (see section 6.6).
 
-Patients with CrCl less than 15 mL/min should not receive Recarbrio unless haemodialysis is instituted within 48 hours. There is inadequate information to recommend usage of Recarbrio for patients undergoing peritoneal dialysis.
+Adult patients with CrCl less than 15 mL/min and paediatric patients (weighing at least 30 kg) with an eGFR less than 15 mL/min/1.73 m 2 should not receive imipenem/cilastatin/relebactam unless haemodialysis is instituted within 48 hours. There is inadequate information to recommend usage of imipenem/cilastatin/relebactam for patients undergoing peritoneal dialysis.
 
 ## Hepatic impairment
 
@@ -116,17 +122,13 @@ No dose adjustment is required for elderly patients (see section 5.2).
 
 ## Paediatric population
 
-The safety and efficacy of imipenem/cilastatin/relebactam in children and adolescents below 18 years of age have not yet been established. No data are available.
-
-<div style=\"page-break-after: always\"></div>
+The safety and efficacy of imipenem/cilastatin/relebactam in children weighing less than 30 kg with renal impairment, children weighing less than 2 kg, or preterm infants (less than 37 weeks postmenstrual age) have not been established. No data are available.
 
 ## Method of administration
 
-Intravenous use.
+For intravenous infusion.
 
-Recarbrio is administered by intravenous infusion over 30 minutes.
-
-Recarbrio must be reconstituted (see sections 6.2, 6.3, and 6.6) prior to intravenous infusion.
+For instructions on reconstitution and dilution of the medicinal product before administration, see section 6.6.
 
 ## 4.3 Contraindications
 
@@ -142,43 +144,47 @@ Severe hypersensitivity (e.g., anaphylactic reaction, severe skin reaction) to a
 
 Serious and occasionally fatal hypersensitivity (anaphylactic) reactions have been reported in patients receiving therapy with beta-lactams (see sections 4.3 and 4.8).
 
-These reactions are more likely to occur in individuals with a history of sensitivity to multiple allergens. Before initiating therapy with Recarbrio, careful inquiry should be made concerning previous hypersensitivity reactions to carbapenems, penicillins, cephalosporins, other beta-lactams, and other allergens.
+<div style=\"page-break-after: always\"></div>
 
-If an allergic reaction to Recarbrio occurs, treatment with Recarbrio must be discontinued immediately. Serious anaphylactic reactions require immediate emergency treatment.
+These reactions are more likely to occur in individuals with a history of sensitivity to multiple allergens. Before initiating therapy with imipenem/cilastatin/relebactam, careful inquiry should be made concerning previous hypersensitivity reactions to carbapenems, penicillins, cephalosporins, other beta-lactams, and other allergens.
+
+If an allergic reaction to imipenem/cilastatin/relebactam occurs, treatment must be discontinued immediately. Serious anaphylactic reactions require immediate emergency treatment.
 
 ## Hepatic function
 
-Hepatic function should be closely monitored during treatment with Recarbrio due to the risk of hepatic toxicity (such as increase in transaminases, hepatic f ailure, and fulminant hepatitis) (see section 4.8).
+Hepatic function should be closely monitored during treatment with imipenem/cilastatin/relebactam due to the risk of  hepatic toxicity (such as increase in transaminases, hepatic f ailure, and f ulminant hepatitis) (see section 4.8).
 
-Use in patients with liver disease: patients with pre-existing liver disorders should have liver function monitored during treatment with Recarbrio. There is no dose adjustment necessary (see section 4.2).
+Use in patients with liver disease: patients with pre-existing liver disorders should have liver function monitored during treatment with imipenem/cilastatin/relebactam. There is no dose adjustment necessary (see section 4.2).
 
 ## Central nervous system (CNS)
 
-CNS adverse reactions, such as seizures, confusional states, and myoclonic activity have been reported during treatment with imipenem/cilastatin, components of Recarbrio, especially when recommended dosages of imipenem were exceeded . These reactions have been reported most commonly in patients with CNS disorders (e.g., brain lesions or history of seizures) and/or compromised renal function .
+CNS adverse reactions, such as seizures, confusional states, and myoclonic activity have been reported during treatment with imipenem/cilastatin, especially when recommended doses of imipenem were exceeded . These reactions have been reported most commonly in patients with CNS disorders (e.g., brain lesions or history of seizures) and/or compromised renal function .
+
+Special awareness should be made to neurological symptoms or convulsions in children with known risk f actors f or seizures, or on concomitant treatment with medicinal products lowering the seizures threshold.
 
 ## Increased seizure potential due to interaction with valproic acid
 
-The concomitant use of Recarbrio and valproic acid/divalproex sodium is not recommended. Antibacterials other than carbapenems should be considered to treat infections in patients whose seizures are well-controlled on valproic acid or divalproex sodium. If administration of Recarbrio is necessary, supplemental anti-convulsant therapy should be considered (see section 4.5).
-
-<div style=\"page-break-after: always\"></div>
+The concomitant use of imipenem/cilastatin/relebactam and valproic acid/divalproex sodium is not recommended. Antibacterials other than carbapenems should be considered to treat infections in patients whose seizures are well-controlled on valproic acid or divalproex sodium. If administration of this medicine is necessary, supplemental anti-convulsant therapy should be considered (see section 4.5).
 
 ## Clostridioides difficile -Associated Diarrhoea (CDAD)
 
-Clostridioides difficile -associated diarrhoea (CDAD) has been reported with Recarbrio. CDAD may range in severity from mild diarrhoea to f atal colitis. CDAD must be considered in all patients who present with diarrhoea during or f ollowing the administration of Recarbrio (see section 4.8). Caref ul medical history is necessary since CDAD has been reported to occur over two months after the administration of antibacterial agents.
+Clostridioides difficile -associated diarrhoea (CDAD) has been reported with imipenem/cilastatin/relebactam. CDAD may range in severity from mild diarrhoea to fatal colitis. CDAD must be considered in all patients who present with diarrhoea during or following the administration of imipenem/cilastatin/relebactam (see section 4.8). Careful medical history is necessary since CDAD has been reported to occur over two months after the administration of antibacterial agents.
 
-If CDAD is suspected or confirmed, discontinuation of therapy with Recarbrio, and the administration of specific treatment for C. difficile should be considered. Medicinal products that inhibit peristalsis should not be given.
+If CDAD is suspected or confirmed, discontinuation of therapy with imipenem/cilastatin/relebactam, and the administration of specific treatment for C. difficile should be considered. Medicinal products that inhibit peristalsis should not be given.
 
 ## Patients with CrCl ≥ 150 mL/min
 
-Based on pharmacokinetic-pharmacodynamic analyses, the dose of Recarbrio that is recommended for patients with CrCl of ≥ 90 mL/min may not be sufficient to treat patients with HAP or VAP and CrCl &gt; 250 mL/min, or patients with cIAI or cUTI and CrCl &gt; 150 mL/min. Consideration should be given to using alternative therapies for these patients.
+Based on pharmacokinetic-pharmacodynamic analyses, the dose of imipenem/cilastatin/relebactam that is recommended for patients with CrCl of ≥ 90 mL/min may not be sufficient to treat patients with HAP or VAP and CrCl &gt; 250 mL/min, or patients with cIAI or cUTI and CrCl &gt; 150 mL/min. Consideration should be given to using alternative therapies for these patients.
+
+<div style=\"page-break-after: always\"></div>
 
 ## Renal impairment
 
-Dose adjustment is recommended in patients with renal impairment (see section 4.2). There is inadequate information to recommend usage of Recarbrio for patients undergoing peritoneal dialysis.
+Dose adjustment is recommended in patients with renal impairment (see section 4.2). There is inadequate information to recommend usage of imipenem/cilastatin/relebactam for patients undergoing peritoneal dialysis.
 
 ## Limitations of the clinical data
 
-Patients who were immunocompromised, including those with neutropenia, were excluded from clinical trials.
+Patients who were immunocompromised, including those with neutropenia, were excluded from clinical studies.
 
 ## Hospital-acquired pneumonia, including ventilator-associated pneumonia
 
@@ -186,37 +192,39 @@ In a single study of hospital-acquired pneumonia, including ventilator-associate
 
 ## Patients with limited treatment options
 
-The use of Recarbrio to treat patients with infections due to aerobic Gram-negative organisms who have limited treatment options is based on experience with imipenem/cilastatin, pharmacokineticpharmacodynamic analysis for imipenem/cilastatin/relebactam, and on limited data from a randomised clinical study in which 21 evaluable patients were treated with Recarbrio and 10 evaluable patients were treated with colistin and imipenem/cilastatin for infections caused by imipenem-non-susceptible organisms.
+The use of imipenem/cilastatin/relebactam to treat patients with infections due to aerobic Gramnegative organisms who have limited treatment options is based on experience with imipenem/cilastatin, pharmacokinetic-pharmacodynamic analysis for imipenem/cilastatin/relebactam, and on limited data f rom a randomised clinical study in which 21 evaluable patients were treated with imipenem/cilastatin/relebactam and 10 evaluable patients were treated with colistin and imipenem/cilastatin for inf ections caused by imipenem-non-susceptible organisms.
 
 ## Limitations of the spectrum of antibacterial activity
 
 Imipenem does not have activity against methicillin-resistant Staphylococcus aureus (MRSA) and Staphylococcus epidermidis (MRSE) or against Enterococcus faecium . Alternative or additional antibacterial agents should be used when these pathogens are known or suspected to be contributing to the inf ectious process.
 
-The inhibitory spectrum of relebactam includes class A beta-lactamases (such as ESBLs and KPC) and Class C beta-lactamases including PDC. Relebactam does not inhibit class D carbapenemases such as OXA-48 or class B metallo-beta-lactamases such as NDM and VIM (see section 5.1).
+The inhibitory spectrum of relebactam includes class A beta-lactamases (such as extended-spectrum beta-lactamases (ESBLs) and Klebsiella pneumoniae carbapenemase (KPC)) and Class C betalactamases including Pseudomonas-derived cephalosporinase (PDC). Relebactam does not inhibit class D carbapenemases such as Oxacillinase-48 (OXA-48) or class B metallo-beta-lactamases such as New Delhi metallo-beta-lactamase (NDM) and Verona integron-encoded metallo-beta-lactamase (VIM) (see section 5.1).
 
 ## Non-susceptible organisms
 
 The use of imipenem/cilastatin/relebactam may result in the overgrowth of non-susceptible organisms, which may require interruption of treatment or other appropriate measures.
 
-<div style=\"page-break-after: always\"></div>
-
 ## Antiglobulin test (Coombs test) seroconversion
 
 A positive direct or indirect Coombs test may develop during treatment with imipenem/cilastatin/relebactam (see section 4.8).
 
-## Controlled sodium diet
+## Excipients with known effect
+
+## Sodium
 
 Each vial contains a total of  37.5 mg of sodium (1.6 mmol), equivalent to 1.9 % of the WHO (World Health Organization) recommended maximum daily intake of 2 g sodium for an adult. This should be considered when administering Recarbrio to patients who are on a controlled sodium diet.
+
+<div style=\"page-break-after: always\"></div>
 
 ## 4.5 Interaction with other medicinal products and other forms of interaction
 
 ## Ganciclovir
 
-Generalised seizures have been reported in patients who received ganciclovir concomitantly with imipenem/cilastatin, components of Recarbrio. Ganciclovir should not be used concomitantly with Recarbrio unless the potential benefits outweigh the risks.
+Generalised seizures have been reported in patients who received ganciclovir concomitantly with imipenem/cilastatin. Ganciclovir should not be used concomitantly with imipenem/cilastatin/relebactam unless the potential benefits outweigh the risks.
 
 ## Valproic acid
 
-Case reports in the literature have shown that co-administration of  carbapenems, including imipenem/cilastatin (components of Recarbrio), to patients receiving valproic acid or divalproex sodium results in a reduction in valproic acid concentrations. The valproic acid concentrations may drop below the therapeutic range as a result of this interaction, therefore increasing the risk of breakthrough seizures. Although the mechanism of this interaction is unknown, data from in vitro and animal studies suggest that carbapenems may inhibit the hydrolysis of valproic acid's glucuronide metabolite (VPA-g) back to valproic acid, thus decreasing the serum concentrations of valproic acid . The concomitant use of Recarbrio and valproic acid/divalproex sodium is not recommended (see section 4.4).
+Case reports in the literature have shown that co-administration of  carbapenems, including imipenem/cilastatin, to patients receiving valproic acid or divalproex sodium results in a reduction in valproic acid concentrations. The valproic acid concentrations may drop below the therapeutic range as a result of this interaction, theref ore increasing the risk of  breakthrough seizures. Although the mechanism of this interaction is unknown, data from in vitro and animal studies suggest that carbapenems may inhibit the hydrolysis of valproic acid ' s glucuronide metabolite (VPA-g) back to valproic acid, thus decreasing the serum concentrations of valproic acid . The concomitant use of imipenem/cilastatin/relebactam and valproic acid/divalproex sodium is not recommended (see section 4.4).
 
 ## Oral anti-coagulants
 
@@ -224,7 +232,7 @@ Simultaneous administration of antibacterial agents with warfarin may augment it
 
 ## Clinical drug interaction studies
 
-A clinical drug-drug interaction study demonstrated that imipenem and relebactam exposures do not increase by a clinically signif icant extent when Recarbrio is co-administered with the prototypical OAT-inhibitor probenecid, indicating a lack of clinically meaningful OAT-mediated drug-drug interactions. Concomitant administration of imipenem/cilastatin and probenecid increased the plasma level and half-life of cilastatin, though not to a clinically meaningf ul extent. Theref ore, Recarbrio may be administered concomitantly with OAT inhibitors.
+A clinical drug-drug interaction study demonstrated that imipenem and relebactam exposures do not increase by a clinically signif icant extent when imipenem/cilastatin/relebactam is co-administered with the prototypical OAT-inhibitor probenecid, indicating a lack of clinically meaningful OAT-mediated drug-drug interactions. Concomitant administration of imipenem/cilastatin and probenecid increased the plasma level and half-life of cilastatin, though not to a clinically meaningf ul extent. Theref ore, this medicine may be administered concomitantly with OAT inhibitors.
 
 ## 4.6 Fertility, pregnancy and lactation
 
@@ -234,8 +242,6 @@ There are no adequate and well-controlled studies for the use of imipenem, cilas
 
 Animal studies with imipenem/cilastatin have shown reproductive toxicity in monkeys (see section 5.3). The potential risk for humans is unknown. Animal studies with relebactam do not indicate direct or indirect harmful effects with respect to reproductive toxicity (see section 5.3).
 
-<div style=\"page-break-after: always\"></div>
-
 Recarbrio should be used during pregnancy only if the potential benefit justif ies the potential risk to the f oetus.
 
 ## Breastfeeding
@@ -244,60 +250,67 @@ Imipenem and cilastatin are excreted into the mother's milk in small quantities.
 
 It is unknown whether relebactam is excreted in human milk. Available data in animals have shown excretion of relebactam in the milk of rats (for details see section 5.3).
 
+<div style=\"page-break-after: always\"></div>
+
 A risk to breastfed newborns/infants cannot be excluded. A decision must be made whether to discontinue breastfeeding or to discontinue Recarbrio therapy taking into account the benefit of breastfeeding for the child and the benefit of therapy f or the woman.
 
 ## Fertility
 
-There are no human data available regarding potential ef f ects of  imipenem/cilastatin or relebactam treatment on male or female fertility. Animal studies do not indicate harmful effects of imipenem/cilastatin or relebactam on fertility (see section 5.3).
+There are no human data available regarding potential eff ects of  imipenem/cilastatin or relebactam treatment on male or female fertility. Animal studies do not indicate harmful eff ects of imipenem/cilastatin or relebactam on fertility (see section 5.3).
 
 ## 4.7 Effects on ability to drive and use machines
 
-Recarbrio has moderate influence on the ability to drive and use machines. CNS adverse reactions, such as seizures, confusional states, and myoclonic activity, have been reported during treatment with imipenem/cilastatin, components of Recarbrio, especially when recommended dosages of imipenem were exceeded (see section 4.4). Therefore, caution should be exercised when driving or using machines.
+Recarbrio has moderate influence on the ability to drive and use machines. CNS adverse reactions, such as seizures, confusional states, and myoclonic activity, have been reported during treatment with imipenem/cilastatin, especially when recommended doses of imipenem were exceeded (see section 4.4). Therefore, caution should be exercised when driving or using machines.
 
 ## 4.8 Undesirable effects
 
 ## Summary of the safety profile
 
-The most frequently occurring adverse reaction (≥ 2 %) in patients receiving imipenem/cilastatin plus relebactam in pooled Phase 2 trials of complicated intra-abdominal infections (cIAI) and complicated urinary tract infections (cUTI), including pyelonephritis (N = 431) was diarrhoea. The most f requently occurring adverse reactions ( ≥ 2 %) in patients receiving Recarbrio in a Phase 3 trial of  HAP or VAP (N = 266) were diarrhoea, alanine aminotransferase increased, and aspartate aminotransferase increased.
+The most frequently occurring adverse reaction (≥ 2 %) in adult patients receiving imipenem/cilastatin plus relebactam in pooled Phase 2 studies of complicated intra-abdominal infections (cIAI) and complicated urinary tract infections (cUTI), including pyelonephritis (N = 431) was diarrhoea. The most frequently occurring adverse reactions ( ≥ 2 %) in patients receiving Recarbrio in a Phase 3 study of HAP or VAP (N = 266) were diarrhoea, alanine aminotransferase increased, and aspartate aminotransferase increased.
 
 ## Tabulated summary of adverse reactions
 
-The following adverse reactions have been reported during Phase 2 (imipenem/cilastatin plus relebactam including 431 patients) and Phase 3 (Recarbrio including 266 patients) clinical trials and with imipenem/cilastatin in clinical studies or during post-marketing experience with imipenem/cilastatin (see Table 3).
+The following adverse reactions have been reported during Phase 2 (imipenem/cilastatin plus relebactam including 431 patients) and Phase 3 (Recarbrio including 266 patients) clinical studies and with imipenem/cilastatin in clinical studies or during post-marketing experience with imipenem/cilastatin (see Table 4).
 
-Adverse reactions are classified according to MedDRA System Organ Class and frequency. Frequency categories are derived according to the following conventions: Very common (≥ 1/10), Common (≥ 1/100 to &lt; 1/10), Uncommon (≥ 1/1,000 to &lt; 1/100), Rare (≥ 1/10,000 to &lt; 1/1,000), Very rare (&lt; 1/10,000), and not known (cannot be estimated from the available data).
+Adverse reactions are classified according to MedDRA System Organ Class and frequency. Frequency categories are derived according to the following conventions: Very common (≥ 1/10), Common (≥ 1/100 to &lt; 1/10), Uncommon (≥ 1/1 000 to &lt; 1/100), Rare (≥ 1/10 000 to &lt; 1/1 000), Very rare (&lt; 1/10 000), and not known (cannot be estimated from the available data).
 
-Table 3: Frequency of adverse reactions by system organ class
+Table 4: Tabulated list of adverse reactions
 
-| System Organ Class   | Common   | Uncommon   | Rare   | Very rare   | Unknown   |
-|----------------------|----------|------------|--------|-------------|-----------|
-
-<div style=\"page-break-after: always\"></div>
-
-<!-- image -->
-
-| Infections and infestations                     |                                                                                 |                                                                                          | Pseudomembranous colitis* Candidiasis*                        | Gastro- enteritis*                                                                            |                        |
-|-------------------------------------------------|---------------------------------------------------------------------------------|------------------------------------------------------------------------------------------|---------------------------------------------------------------|-----------------------------------------------------------------------------------------------|------------------------|
-| Blood and lymphatic system disorders            | Eosinophilia*                                                                   | Pancytopenia* Neutropenia* Leukopenia* Thrombocytopenia* Thrombocytosis*                 | Agranulocytosis*                                              | Haemolytic anaemia* Bone marrow depression*                                                   |                        |
-| Immune system disorders                         |                                                                                 |                                                                                          | Anaphylactic reactions*                                       |                                                                                               |                        |
-| Nervous system disorders                        |                                                                                 | Seizures* Hallucinations* Confusional states* Myoclonic activity* Dizziness* Somnolence* | Encephalopathy* Paraesthesia* Focal tremor* Taste perversion* | Aggravation ofmyasthenia gravis* Headache*                                                    | Agitation* Dyskinesia* |
-| Ear and labyrinth disorders                     |                                                                                 |                                                                                          | Hearing loss*                                                 | Vertigo* Tinnitus*                                                                            |                        |
-| Cardiac disorders                               |                                                                                 |                                                                                          |                                                               | Cyanosis* Tachycardia* Palpitations*                                                          |                        |
-| Vascular disorders                              | Thrombophlebitis*                                                               | Hypotension*                                                                             |                                                               | Flushing*                                                                                     |                        |
-| Respiratory, thoracic and mediastinal disorders |                                                                                 |                                                                                          |                                                               | Dyspnoea* Hyper- ventilation* Pharyngeal                                                      |                        |
-| Gastrointestinal disorders                      | Diarrhoea † * Nausea † * Vomiting † *                                           |                                                                                          | Staining ofteeth and/or tongue*                               | pain* Haemorrhagic colitis* Abdominal pain* Heartburn* Glossitis* Tongue papilla hypertrophy* |                        |
-| Hepatobiliary disorders                         | Alanine aminotransferase increased † * Aspartate aminotransferase increased † * |                                                                                          | Hepatic failure* Hepatitis*                                   | Fulminant hepatitis*                                                                          | Jaundice*              |
+| System Organ Class                   | Common        | Uncommon                                                                 | Rare                                   | Very rare                                   | Unknown   |
+|--------------------------------------|---------------|--------------------------------------------------------------------------|----------------------------------------|---------------------------------------------|-----------|
+| Infections and infestations          |               |                                                                          | Pseudomembranous colitis* Candidiasis* | Gastro- enteritis*                          |           |
+| Blood and lymphatic system disorders | Eosinophilia* | Pancytopenia* Neutropenia* Leukopenia* Thrombocytopenia* Thrombocytosis* | Agranulocytosis*                       | Haemolytic anaemia* Bone marrow depression* |           |
+| Immune system disorders              |               |                                                                          | Anaphylactic reactions*                |                                             |           |
 
 <div style=\"page-break-after: always\"></div>
 
-| Skin and subcutaneous tissue disorders               | Rash (e.g., exanthematous)*              | Urticaria* Pruritus*                                                                                                                      | Toxic epidermal necrolysis* Angioedema* Stevens-Johnson syndrome* Erythema multiforme* Exfoliative dermatitis*             | Hyperhidrosis * Skin texture changes*   |                                         |
-|------------------------------------------------------|------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------|-----------------------------------------|-----------------------------------------|
-| Musculoskeletal and connective tissue disorders      |                                          |                                                                                                                                           |                                                                                                                            | Polyarthralgia * Thoracic spine pain*   |                                         |
-| Renal and urinary disorders                          |                                          | Elevations in serum creatinine*                                                                                                           | Acute renal failure* Oliguria/anuria* Polyuria* Urine discoloration (harmless and should not be confused with haematuria)* |                                         |                                         |
-| Reproductive system and breast disorders             |                                          |                                                                                                                                           |                                                                                                                            | Pruritus vulvae*                        |                                         |
-| General disorders and administration site conditions |                                          | Fever* Local pain and induration at the injection site*                                                                                   |                                                                                                                            | Chest discomfort* Asthenia/ weakness*   |                                         |
-| Investigations                                       | Increases in serum alkaline phosphatase* | Coombs test positive* Prolonged prothrombin time* Decreased haemoglobin* Increases in serum bilirubin* Elevations in blood urea nitrogen* |                                                                                                                            |                                         | Blood lactate dehydrogena se increased* |
+| System Organ Class                              | Common                                                                          | Uncommon                                                                                 | Rare                                                                                                           | Very rare                                                                                                     | Unknown                |
+|-------------------------------------------------|---------------------------------------------------------------------------------|------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------|------------------------|
+| Nervous system disorders                        |                                                                                 | Seizures* Hallucinations* Confusional states* Myoclonic activity* Dizziness* Somnolence* | Encephalopathy* Paraesthesia* Focal tremor* Taste perversion*                                                  | Aggravation ofmyasthenia gravis* Headache*                                                                    | Agitation* Dyskinesia* |
+| Ear and labyrinth disorders                     |                                                                                 |                                                                                          | Hearing loss*                                                                                                  | Vertigo* Tinnitus*                                                                                            |                        |
+| Cardiac disorders                               |                                                                                 |                                                                                          |                                                                                                                | Cyanosis* Tachycardia* Palpitations*                                                                          |                        |
+| Vascular disorders                              | Thrombophlebitis*                                                               | Hypotension*                                                                             |                                                                                                                | Flushing*                                                                                                     |                        |
+| Respiratory, thoracic and mediastinal disorders |                                                                                 |                                                                                          |                                                                                                                | Dyspnoea* Hyper- ventilation* Pharyngeal pain*                                                                |                        |
+| Gastrointestinal disorders                      | Diarrhoea † * Nausea † * Vomiting † *                                           |                                                                                          | Staining ofteeth and/or tongue*                                                                                | Haemorrhagic colitis* Abdominal pain* Heartburn* Glossitis* Tongue papilla hypertrophy* Increased salivation* |                        |
+| Hepatobiliary disorders                         | Alanine aminotransferase increased † * Aspartate aminotransferase increased † * |                                                                                          | Hepatic failure* Hepatitis*                                                                                    | Fulminant hepatitis*                                                                                          | Jaundice*              |
+| Skin and subcutaneous tissue disorders          | Rash (e.g., exanthematous)*                                                     | Urticaria* Pruritus*                                                                     | Toxic epidermal necrolysis* Angioedema* Stevens-Johnson syndrome* Erythema multiforme* Exfoliative dermatitis* | Hyperhidrosis * Skin texture changes*                                                                         |                        |
+
+<div style=\"page-break-after: always\"></div>
+
+| System Organ Class                                                                                                  | Common                                                                                                              | Uncommon                                                                                                                                  | Rare                                                                                                                        | Very rare                                                                                                           | Unknown                                                                                                             |
+|---------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------|
+| Musculoskeletal and connective tissue disorders                                                                     |                                                                                                                     |                                                                                                                                           |                                                                                                                             | Polyarthralgia * Thoracic spine pain*                                                                               |                                                                                                                     |
+| Renal and urinary disorders                                                                                         |                                                                                                                     | Elevations in serum creatinine*                                                                                                           | Acute renal failure* Oliguria/anuria* Polyuria* Urine discolouration (harmless and should not be confused with haematuria)* |                                                                                                                     |                                                                                                                     |
+| Reproductive system and breast disorders                                                                            |                                                                                                                     |                                                                                                                                           |                                                                                                                             | Pruritus vulvae*                                                                                                    |                                                                                                                     |
+| General disorders and administration site conditions                                                                |                                                                                                                     | Fever* Local pain and induration at the injection site*                                                                                   |                                                                                                                             | Chest discomfort* Asthenia/ weakness*                                                                               |                                                                                                                     |
+| Investigations                                                                                                      | Increases in serum alkaline phosphatase*                                                                            | Coombs test positive* Prolonged prothrombin time* Decreased haemoglobin* Increases in serum bilirubin* Elevations in blood urea nitrogen* |                                                                                                                             |                                                                                                                     | Blood lactate dehydrogena se increased*                                                                             |
+| *reported with imipenem/cilastatin in clinical studies or during post-marketing experience with imipenem/cilastatin | *reported with imipenem/cilastatin in clinical studies or during post-marketing experience with imipenem/cilastatin | *reported with imipenem/cilastatin in clinical studies or during post-marketing experience with imipenem/cilastatin                       | *reported with imipenem/cilastatin in clinical studies or during post-marketing experience with imipenem/cilastatin         | *reported with imipenem/cilastatin in clinical studies or during post-marketing experience with imipenem/cilastatin | *reported with imipenem/cilastatin in clinical studies or during post-marketing experience with imipenem/cilastatin |
 
 *reported with imipenem/cilastatin in clinical studies or during post-marketing experience with imipenem/cilastatin † reported with imipenem/cilastatin plus relebactam in Phase 2 (N = 431) and in Phase 3 (N = 266) studies
+
+## Paediatric population
+
+The safety of imipenem/cilastatin/relebactam was evaluated in one phase 2/3 clinical study in paediatric participants from birth to less than 18 years of age (see section 5.1). Eighty-five participants were enrolled and treated in the imipenem/cilastatin/relebactam arm out of whom there were 10 adolescents, 31 children aged 6 to less than 12 years, 21 from 2 years to less than 6 years, 15 from 3 months to less than 2 years, and 8 from birth (f ull-term) to less than 3 months. Based on this data, adverse reactions were generally comparable to those observed in adults.
 
 ## Reporting of suspected adverse reactions
 
@@ -305,7 +318,7 @@ Reporting suspected adverse reactions after authorisation of the medicinal produ
 
 ## 4.9 Overdose
 
-In the event of overdose, discontinue Recarbrio, treat based on symptoms, and institute general supportive treatment. Imipenem, cilastatin, and relebactam can be removed by haemodialysis. No clinical inf ormation is available on the use of haemodialysis to treat overdosage.
+In the event of overdose, discontinue Recarbrio, treat based on symptoms, and institute general supportive treatment. Imipenem, cilastatin, and relebactam can be removed by haemodialysis. No clinical inf ormation is available on the use of haemodialysis to treat overdose.
 
 <div style=\"page-break-after: always\"></div>
 
@@ -339,7 +352,7 @@ MIC (minimum inhibitory concentration) interpretive criteria for susceptibility 
 
 ## Pharmacokinetic/pharmacodynamic relationship
 
-Time that unbound plasma concentrations of imipenem exceed the imipenem/relebactam minimum inhibitory concentration (% f T &gt; MIC) has been shown to best correlate with efficacy. The ratio of the 24 - hour unbound plasma relebactam AUC to imipenem/relebactam MIC ( f AUC / MIC) has been determined to be the index that best predicts activity of  relebactam.
+Time that unbound plasma concentrations of imipenem exceed the imipenem/relebactam minimum inhibitory concentration (% f T &gt; MIC) has been shown to best correlate with efficacy. The ratio of the 24 -hour unbound plasma relebactam AUC to imipenem/relebactam MIC ( f AUC / MIC) has been determined to be the index that best predicts activity of  relebactam.
 
 ## Clinical eff icacy against specific pathogens
 
@@ -363,9 +376,9 @@ In vitro studies suggest that the following pathogens would be susceptible to im
 
 - Acinetobacter calcoaceticus-baumannii complex
 - Citrobacter spp. (including C. freundii and C. koseri )
-- Enterobacter spp. (including E. asburiae and E. cloacae)
+- Enterobacter spp. (including E. asburiae and E. cloacae )
 - Escherichia coli
-- Klebsiella spp. (including K. aerogenes, K. oxytoca and K. pneumoniae )
+- Klebsiella spp. (including K. aerogenes , K. oxytoca and K. pneumoniae )
 - Pseudomonas aeruginosa
 - Serratia marcescens
 
@@ -373,7 +386,7 @@ In vitro studies suggest that the following pathogens would be susceptible to im
 
 - Bacteroides spp. (including B. fragilis )
 - Fusobacterium spp. (including F. nucleatum and F. necrophorum )
-- Prevotella spp. (including P. melaninogenica, P. bivia, and P. buccae )
+- Prevotella spp. (including P. melaninogenica , P. bivia , and P. buccae )
 
 ## Gram-positive aerobic micro-organisms
 
@@ -381,7 +394,7 @@ In vitro studies suggest that the following pathogens would be susceptible to im
 - Staphylococcus aureus (methicillin susceptible isolates only)
 - Viridans group streptococci (including S. anginosus and S. constellatus)
 
-In vitro studies indicate that the following species are not susceptible to imipenem and relebactam:
+In vitro studies indicate that the f ollowing species are not susceptible to imipenem and relebactam:
 
 ## Gram-negative aerobic micro-organisms
 
@@ -390,51 +403,48 @@ In vitro studies indicate that the following species are not susceptible to imip
 
 ## Paediatric population
 
-The European Medicines Agency has deferred the obligation to submit the results of studies with Recarbrio in one or more subsets of the paediatric population in the treatment of Gram-negative bacterial infections (see section 4.2 f or inf ormation on paediatric use).
+Recarbrio was evaluated in an open-label, randomised, active-controlled, phase 2/3 clinical study in 115 paediatric participants from birth (f ull-term) to less than 18 years of age with HAP/VAP (n=6), cUTI (n=55) or cIAI (n=54), which included a total of 85 patients treated with imipenem/cilastatin/relebactam and 28 patients treated with active control. The minimum antibiotic treatment duration was 5 days for cIAI and cUTI or 7 days for HAP/VAP, up to a maximum of 14 days. For participants with cUTI or cIAI in the imipenem/cilastatin/relebactam arm, a switch to optional oral step-down therapy was allowed after receiving at least 3 days of intravenous imipenem/cilastatin/relebactam therapy. The primary objective was safety and tolerability, and all statistical analyses were descriptive. Eff icacy in the paediatric population is established on the basis of achieving similar systemic exposures as in adults.
+
+At the early follow-up visit (EFU), 7 to 14 days after the end of therapy, 70.6 % (60/85) of paediatric participants in the imipenem/cilastatin/relebactam arm achieved a f avourable clinical response (cure or sustained cure), compared to 75 % (21/28) in the comparator arm (modified Intention-To-Treat (ITT) population). A f avourable clinical response at the late f ollow-up visit (LFU), 7 to 14 days af ter the EFU visit was achieved by 69.4 % (59/85) and 75.0 % (21/28) of participants, respectively.
+
+<div style=\"page-break-after: always\"></div>
 
 ## 5.2 Pharmacokinetic properties
 
-<div style=\"page-break-after: always\"></div>
-
-## General introduction
-
-The steady-state pharmacokinetic parameters of imipenem, cilastatin, and relebactam in healthy adults with normal renal function (CrCl 90 mL/min or greater), after multiple 30-minute intravenous infusions of 500 mg imipenem/500 mg cilastatin + 250 mg relebactam administered every 6 hours are summarised in Table 4. The steady-state pharmacokinetic parameters of imipenem and relebactam in patients with cIAI or cUTI and HAP or VAP with normal renal function (90 mL/min ≤ CrCl &lt; 150 mL/min) after multiple 30-minute intravenous infusions of 500 mg imipenem/500 mg cilastatin + 250 mg relebactam administered every 6 hours are summarised in Tables 5 and 6, respectively. Pharmacokinetic parameters were similar for single- and multiple-dose administration due to minimal accumulation.
+The steady-state pharmacokinetic parameters of imipenem, cilastatin, and relebactam in healthy adults with normal renal function (CrCl 90 mL/min or greater), after multiple 30-minute intravenous infusions of 500 mg imipenem/500 mg cilastatin + 250 mg relebactam administered every 6 hours are summarised in Table 5. The steady-state pharmacokinetic parameters of imipenem and relebactam in patients with cIAI or cUTI and HAP or VAP with normal renal function (90 mL/min ≤ CrCl &lt; 150 mL/min) after multiple 30-minute intravenous infusions of 500 mg imipenem/500 mg cilastatin + 250 mg relebactam administered every 6 hours are summarised in Tables 6 and 7, respectively. Pharmacokinetic parameters were similar for single- and multiple-dose administration due to minimal accumulation.
 
 The C max and AUC of imipenem, cilastatin, and relebactam increase in proportion to dose. The elimination half-lives (t ½) of imipenem, cilastatin, and relebactam are independent of dose.
 
-Table 4: Steady-state geometric mean (% geometric co-efficient of variation) plasma pharmacokinetic parameters of imipenem, cilastatin, and relebactam after multiple intravenous 30-minute infusions of 500 mg imipenem/500 mg cilastatin + 250 mg relebactam every 6 hours in healthy adults
+Table 5: Steady-state geometric mean (% geometric co-efficient of variation) plasma pharmacokinetic parameters of imipenem, cilastatin, and relebactam after multiple intravenous 30-minute infusions of 500 mg imipenem/500 mg cilastatin/250 mg relebactam every 6 hours in healthy adults
 
-|                                                                                                                                                                                                                        | Imipenem (n=6)                                                                                                                                                                                                         | Cilastatin (n=6)                                                                                                                                                                                                       | Relebactam (n=6)                                                                                                                                                                                                       |
-|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| AUC 0 - 6 hr (μM -hr)                                                                                                                                                                                                  | 138.0 (17.8)                                                                                                                                                                                                           | 98.0 (17.0)                                                                                                                                                                                                            | 81.6 (17.8)                                                                                                                                                                                                            |
-| C max (μM)                                                                                                                                                                                                             | 106.0 (26.8)                                                                                                                                                                                                           | 96.4 (21.8)                                                                                                                                                                                                            | 48.3 (24.9)                                                                                                                                                                                                            |
-| CL (L/hr)                                                                                                                                                                                                              | 12.0 (17.8)                                                                                                                                                                                                            | 14.2 (17.0)                                                                                                                                                                                                            | 8.8 (17.8)                                                                                                                                                                                                             |
-| t 1/2 (hr)*                                                                                                                                                                                                            | 1.1 (±0.1)                                                                                                                                                                                                             | 1.0 (±0.1)                                                                                                                                                                                                             | 1.7 (±0.2)                                                                                                                                                                                                             |
-| *Arithmetic mean (standard deviation) reported for t 1/2 AUC 0 - 6 hr = area under the concentration time curve from 0 to 6 hours; C max = maximum concentration; CL = plasma clearance; t 1/2 = elimination half-life | *Arithmetic mean (standard deviation) reported for t 1/2 AUC 0 - 6 hr = area under the concentration time curve from 0 to 6 hours; C max = maximum concentration; CL = plasma clearance; t 1/2 = elimination half-life | *Arithmetic mean (standard deviation) reported for t 1/2 AUC 0 - 6 hr = area under the concentration time curve from 0 to 6 hours; C max = maximum concentration; CL = plasma clearance; t 1/2 = elimination half-life | *Arithmetic mean (standard deviation) reported for t 1/2 AUC 0 - 6 hr = area under the concentration time curve from 0 to 6 hours; C max = maximum concentration; CL = plasma clearance; t 1/2 = elimination half-life |
+|                                                                                                                                                                                                                    | Imipenem (n=6)                                                                                                                                                                                                     | Cilastatin (n=6)                                                                                                                                                                                                   | Relebactam (n=6)                                                                                                                                                                                                   |
+|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| AUC 0 - 6 hr (μM -hr)                                                                                                                                                                                              | 138.0 (17.8)                                                                                                                                                                                                       | 98.0 (17.0)                                                                                                                                                                                                        | 81.6 (17.8)                                                                                                                                                                                                        |
+| C max (μM)                                                                                                                                                                                                         | 106.0 (26.8)                                                                                                                                                                                                       | 96.4 (21.8)                                                                                                                                                                                                        | 48.3 (24.9)                                                                                                                                                                                                        |
+| CL (L/hr)                                                                                                                                                                                                          | 12.0 (17.8)                                                                                                                                                                                                        | 14.2 (17.0)                                                                                                                                                                                                        | 8.8 (17.8)                                                                                                                                                                                                         |
+| t ½ (hr)*                                                                                                                                                                                                          | 1.1 (±0.1)                                                                                                                                                                                                         | 1.0 (±0.1)                                                                                                                                                                                                         | 1.7 (±0.2)                                                                                                                                                                                                         |
+| *Arithmetic mean (standard deviation) reported for t ½ AUC 0 - 6 hr = area under the concentration time curve from 0 to 6 hours; C max = maximum concentration; CL = plasma clearance; t ½ = elimination half-life | *Arithmetic mean (standard deviation) reported for t ½ AUC 0 - 6 hr = area under the concentration time curve from 0 to 6 hours; C max = maximum concentration; CL = plasma clearance; t ½ = elimination half-life | *Arithmetic mean (standard deviation) reported for t ½ AUC 0 - 6 hr = area under the concentration time curve from 0 to 6 hours; C max = maximum concentration; CL = plasma clearance; t ½ = elimination half-life | *Arithmetic mean (standard deviation) reported for t ½ AUC 0 - 6 hr = area under the concentration time curve from 0 to 6 hours; C max = maximum concentration; CL = plasma clearance; t ½ = elimination half-life |
 
-Table 5: Population pharmacokinetic model based steady-state geometric mean (% geometric co-efficient of variation) plasma pharmacokinetic parameters of imipenem and relebactam after multiple intravenous 30-minute infusions of Recarbrio (500 mg imipenem/500 mg cilastatin/250 mg relebactam) every 6 hours in cIAI or cUTI patients with CrCl 90 mL/min or greater
+Table 6: Population pharmacokinetic model based steady-state geometric mean (% geometric co-efficient of variation) plasma pharmacokinetic parameters of imipenem and relebactam after multiple intravenous 30-minute infusions of Recarbrio (500 mg imipenem/500 mg cilastatin/250 mg relebactam) every 6 hours in cIAI or cUTI adult patients with CrCl 90 mL/min or greater
 
-|                                                                                                                                                                                                                          | Imipenem                                                                                                                                                                                                                 | Relebactam                                                                                                                                                                                                               |
-|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| AUC 0 - 24 hr (µM-hr)                                                                                                                                                                                                    | 500.0 (56.3)                                                                                                                                                                                                             | 390.5 (44.5)                                                                                                                                                                                                             |
-| C max (µM)                                                                                                                                                                                                               | 88.9 (62.1)                                                                                                                                                                                                              | 58.5 (44.9)                                                                                                                                                                                                              |
-| CL (L/hr)                                                                                                                                                                                                                | 13.4 (56.3)                                                                                                                                                                                                              | 7.4 (44.5)                                                                                                                                                                                                               |
-| t 1/2 (hr)*                                                                                                                                                                                                              | 1.0 (±0.5)                                                                                                                                                                                                               | 1.2 (±0.7)                                                                                                                                                                                                               |
-| *Arithmetic mean (standard deviation) reported for t 1/2 AUC 0 - 24 hr = area under the concentration time curve from 0 to 24 hours; C max = maximum concentration; CL = plasma clearance; t 1/2 = elimination half-life | *Arithmetic mean (standard deviation) reported for t 1/2 AUC 0 - 24 hr = area under the concentration time curve from 0 to 24 hours; C max = maximum concentration; CL = plasma clearance; t 1/2 = elimination half-life | *Arithmetic mean (standard deviation) reported for t 1/2 AUC 0 - 24 hr = area under the concentration time curve from 0 to 24 hours; C max = maximum concentration; CL = plasma clearance; t 1/2 = elimination half-life |
-
-Table 6: Population pharmacokinetic model based steady-state geometric mean (% geometric co-efficient of variation) plasma pharmacokinetic parameters of imipenem and relebactam after multiple intravenous 30-minute infusions of Recarbrio (500 mg imipenem/500 mg cilastatin + 250 mg relebactam) every 6 hours in HAP or VAP patients with CrCl 90 mL/min or greater
-
-|                                                                                          | Imipenem                                                                                 | Relebactam                                                                               |
-|------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------|
-| AUC 0 - 24hr (µM-hr)                                                                     | 812.2 (59.4)                                                                             | 655.2 (47.9)                                                                             |
-| C max (µM)                                                                               | 159.1 (62.3)                                                                             | 87.6 (43.8)                                                                              |
-| CL (L/hr)                                                                                | 8.2 (59.4)                                                                               | 4.4 (47.9)                                                                               |
-| AUC 0 - 24hr =area under the concentration time curve from 0 to 24 hours; C max =maximum | AUC 0 - 24hr =area under the concentration time curve from 0 to 24 hours; C max =maximum | AUC 0 - 24hr =area under the concentration time curve from 0 to 24 hours; C max =maximum |
+|                                                                                                                                                                                                                      | Imipenem                                                                                                                                                                                                             | Relebactam                                                                                                                                                                                                           |
+|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| AUC 0 - 24 hr (µM-hr)                                                                                                                                                                                                | 500.0 (56.3)                                                                                                                                                                                                         | 390.5 (44.5)                                                                                                                                                                                                         |
+| C max (µM)                                                                                                                                                                                                           | 88.9 (62.1)                                                                                                                                                                                                          | 58.5 (44.9)                                                                                                                                                                                                          |
+| CL (L/hr)                                                                                                                                                                                                            | 13.4 (56.3)                                                                                                                                                                                                          | 7.4 (44.5)                                                                                                                                                                                                           |
+| t ½ (hr)*                                                                                                                                                                                                            | 1.0 (±0.5)                                                                                                                                                                                                           | 1.2 (±0.7)                                                                                                                                                                                                           |
+| *Arithmetic mean (standard deviation) reported for t ½ AUC 0 - 24 hr = area under the concentration time curve from 0 to 24 hours; C max = maximum concentration; CL = plasma clearance; t ½ = elimination half-life | *Arithmetic mean (standard deviation) reported for t ½ AUC 0 - 24 hr = area under the concentration time curve from 0 to 24 hours; C max = maximum concentration; CL = plasma clearance; t ½ = elimination half-life | *Arithmetic mean (standard deviation) reported for t ½ AUC 0 - 24 hr = area under the concentration time curve from 0 to 24 hours; C max = maximum concentration; CL = plasma clearance; t ½ = elimination half-life |
 
 <div style=\"page-break-after: always\"></div>
 
-| concentration; CL=plasma clearance   |
-|--------------------------------------|
+Table 7: Population pharmacokinetic model based steady-state geometric mean (% geometric co-efficient of variation) plasma pharmacokinetic parameters of imipenem and relebactam after multiple intravenous 30-minute infusions of Recarbrio (500 mg imipenem/500 mg cilastatin/250 mg relebactam) every 6 hours in HAP or VAP adult patients with CrCl 90 mL/min or greater
+
+|                                                                                                                             | Imipenem                                                                                                                    | Relebactam                                                                                                                  |
+|-----------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------|
+| AUC 0 - 24hr (µM-hr)                                                                                                        | 812.2 (59.4)                                                                                                                | 655.2 (47.9)                                                                                                                |
+| C max (µM)                                                                                                                  | 159.1 (62.3)                                                                                                                | 87.6 (43.8)                                                                                                                 |
+| CL (L/hr)                                                                                                                   | 8.2 (59.4)                                                                                                                  | 4.4 (47.9)                                                                                                                  |
+| AUC 0 - 24hr =area under the concentration time curve from 0 to 24 hours; C max =maximum concentration; CL=plasma clearance | AUC 0 - 24hr =area under the concentration time curve from 0 to 24 hours; C max =maximum concentration; CL=plasma clearance | AUC 0 - 24hr =area under the concentration time curve from 0 to 24 hours; C max =maximum concentration; CL=plasma clearance |
 
 ## Distribution
 
@@ -446,9 +456,9 @@ The penetration into pulmonary epithelial lining fluid (ELF) expressed as the to
 
 ## Biotransformation
 
-Imipenem, when administered alone, is metabolised in the kidneys by dehydropeptidase-I, resulting in low levels of imipenem (average of 15-20 % of the dose) recovered in human urine. Cilastatin, an inhibitor of this enzyme, effectively prevents renal metabolism so that when imipenem and cilastatin are given concomitantly, adequate levels of imipenem (approximately 70 % of the dose) are achieved in the urine to enable antibacterial activity.
+Imipenem, when administered alone, is metabolised in the kidneys by dehydropeptidase-I, resulting in low levels of imipenem (average of 15-20 % of the dose) recovered in human urine. Cilastatin, an inhibitor of this enzyme, ef fectively prevents renal metabolism so that when imipenem and cilastatin are given concomitantly, adequate levels of imipenem (approximately 70 % of the dose) are achieved in the urine to enable antibacterial activity.
 
-Cilastatin is mainly eliminated in the urine as unchanged parent drug (approximately 70 - 80 % of the dose), with 10 % of the dose recovered as an N-acetyl metabolite, which has inhibitory activity against dehydropeptidase-I comparable to the parent medicinal product.
+Cilastatin is mainly eliminated in the urine as unchanged parent drug (approximately 70 -80 % of the dose), with 10 % of the dose recovered as an N-acetyl metabolite, which has inhibitory activity against dehydropeptidase-I comparable to the parent medicinal product.
 
 Relebactam is cleared primarily via renal excretion as unchanged parent drug (greater than 90 % of the dose) and is minimally metabolised. Unchanged relebactam was the only drug-related component detected in human plasma.
 
@@ -458,13 +468,13 @@ Imipenem, cilastatin, and relebactam are mainly excreted by the kidneys.
 
 Following multiple-dose administration of 500 mg imipenem, 500 mg cilastatin, and 250 mg relebactam to healthy male subjects, approximately 63 % of the administered imipenem dose, and 77 % of the administered cilastatin dose are recovered as unchanged parent in the urine. The renal excretion of imipenem and cilastatin involves both glomerular filtration and active tubular secretion. Greater than 90 % of the administered relebactam dose was excreted unchanged in human urine. The mean renal clearance for relebactam is 135 mL/min, close to the plasma clearance (148 mL/min), indicating nearly complete elimination of relebactam by the renal route. The unbound renal clearance of relebactam is greater than the glomerular filtration rate, suggesting that in addition to glomerular filtration, active tubular secretion is involved in the renal elimination, accounting f or ~ 30 % of  the total clearance.
 
+<div style=\"page-break-after: always\"></div>
+
 ## Linearity/non-linearity
 
-The pharmacokinetics of relebactam are linear across the 25 mg to 1150 mg dose range studied for a single intravenous administration, and 50 mg to 625 mg dose range studied for multiple intravenous administration every 6 hours up to 7 days. Minimal accumulation of imipenem, cilastatin or relebactam was observed following multiple 30-minute intravenous infusions of relebactam (50 to 625 mg) co-administered with 500 mg imipenem/500 mg cilastatin every 6 hours up to 7 days in healthy adult males with normal renal function.
+The pharmacokinetics of relebactam are linear across the 25 mg to 1 150 mg dose range studied for a single intravenous administration, and 50 mg to 625 mg dose range studied for multiple intravenous administration every 6 hours up to 7 days. Minimal accumulation of imipenem, cilastatin or relebactam was observed following multiple 30-minute intravenous infusions of relebactam (50 to 625 mg) co-administered with 500 mg imipenem/500 mg cilastatin every 6 hours up to 7 days in healthy adult males with normal renal f unction.
 
 ## Drug metabolizing enzymes
-
-<div style=\"page-break-after: always\"></div>
 
 Studies evaluating the potential for imipenem or cilastatin to interact with CYP450 enzymes have not been conducted.
 
@@ -484,9 +494,11 @@ Relebactam is actively secreted into the urine. It is not a substrate of OAT1, O
 
 In a clinical pharmacokinetic study and population pharmacokinetic analysis, clinically relevant differences in exposure (AUC) were observed for imipenem, cilastatin, and relebactam based on the extent of renal impairment.
 
-In the clinical study, imipenem geometric mean AUCs were up to 1.4 - fold, 1.5 - fold, and 2.5 - f old higher in patients with mild, moderate, and severe renal impairment, respectively, compared to healthy subjects with normal renal function. The respective cilastatin geometric mean AUCs were up to 1.6 - f old, 1.9 - f old, and 5.6 - f old higher. Relebactam geometric mean AUCs were up to 1.6 - f old, 2.2 - f old, and 4.9 - f old higher in patients with mild, moderate, and severe renal impairment, respectively, compared to healthy subjects with normal renal function. In patients with End Stage Renal Disease (ESRD) on haemodialysis, imipenem, cilastatin, and relebactam are efficiently removed by haemodialysis.
+In the clinical study in adults, imipenem geometric mean AUCs were up to 1.4 -f old, 1.5 -f old, and 2.5 -f old higher in patients with mild, moderate, and severe renal impairment, respectively, compared to healthy subjects with normal renal function. The respective cilastatin geometric mean AUCs were up to 1.6 -f old, 1.9 -f old, and 5.6 -f old higher. Relebactam geometric mean AUCs were up to 1.6 -f old, 2.2 -f old, and 4.9 -f old higher in patients with mild, moderate, and severe renal impairment, respectively, compared to healthy subjects with normal renal function. In patients with End Stage Renal Disease (ESRD) on haemodialysis, imipenem, cilastatin, and relebactam are efficiently removed by haemodialysis.
 
 To maintain systemic exposures similar to patients with normal renal function, dose adjustment is recommended for patients with renal impairment. ESRD patients on haemodialysis should receive Recarbrio af ter haemodialysis session (see section 4.2).
+
+<div style=\"page-break-after: always\"></div>
 
 ## Hepatic impairment
 
@@ -494,13 +506,32 @@ Imipenem, cilastatin, and relebactam are primarily cleared renally; therefore, h
 
 ## Elderly/gender
 
-In a geriatric/gender study and population pharmacokinetic analysis no clinically relevant diff erences in exposure (AUC) were observed for imipenem, cilastatin, and relebactam based on age or gender, apart f rom the ef f ect of  renal f unction (see section 4.2).
-
-<div style=\"page-break-after: always\"></div>
+In a geriatric/gender study and population pharmacokinetic analysis no clinically relevant dif ferences in exposure (AUC) were observed for imipenem, cilastatin, and relebactam based on age or gender, apart f rom the ef f ect of  renal f unction (see section 4.2).
 
 ## Race
 
 Only a limited number of non-white patients were included in the clinical studies, but no major effect of race on imipenem, cilastatin, and relebactam pharmacokinetics is expected.
+
+## Paediatric population
+
+The steady-state pharmacokinetic parameters of imipenem and relebactam in paediatric patients (birth to less than 18 years of age) with HAP/VAP, cUTI or cIAI following the recommended paediatric dosing regimens are summarised in Table 8.
+
+Population pharmacokinetic analyses and target attainment simulations in paediatric patients with HAP/VAP, cUTI or cIAI demonstrated that the recommended paediatric dosing regimens for patients from birth to less than 18 years with normal renal f unction resulted in generally similar systemic exposures to adults with normal renal f unction given 1.25 g of  imipenem/cilastatin/relebactam. These analyses, including the assumption of proportional effects of renal impairment in adults and paediatric patients, also predict that the recommended dose adjustments for patients weighing at least 30 kg with eGFR less than 90 mL/min/1.73 m 2 result in systemic exposures similar to that in adult patients (see section 4.2).
+
+Dose adjustments are recommended for paediatric patients from birth to less than 18 years of age weighing at least 30 kg with eGFR less than 90 mL/min/1.73 m 2 (see section 4.2). There is insuff icient information to recommend a dose adjustment in paediatric patients weighing less than 30 kg with renal impairment.
+
+Table 8: Population pharmacokinetic model based geometric mean (% geometric co-efficient of variation) steady-state plasma pharmacokinetic parameters
+
+| Body   | Age                            | Imipenem           | Imipenem   | Imipenem    | Imipenem     | Relebactam         | Relebactam   | Relebactam   | Relebactam    |
+|--------|--------------------------------|--------------------|------------|-------------|--------------|--------------------|--------------|--------------|---------------|
+| Weight | Age                            | AUC 0-24hr (µM.hr) | C max (µM) | t 1/2 (hr)  | CL (L/hr/kg) | AUC 0-24hr (µM.hr) | C max (µM)   | t 1/2 (hr)   | CL (L/hr/ kg) |
+| ≥30 kg | <18 years (N=38)               | 662 (38.8)         | 116 (23.3) | 1.67 (26.6) | 0.235 (25.9) | 428 (45)           | 61.1 (27.2)  | 1.85 (26.3)  | 0.156 (28.7)  |
+| <30 kg | ≥3 months and <18 years (N=66) | 715 (27.4)         | 104 (15.1) | 1.37 (19.6) | 0.28 (24.2)  | 474 (49.9)         | 57.2 (23.2)  | 1.57 (29.2)  | 0.182 (32.8)  |
+| <30 kg | Birth to <3 months (N=27)      | 749 (21.6)         | 111 (13.2) | 1.55 (20.3) | 0.201 (20.1) | 545 (44.5)         | 59.9 (21.6)  | 2.09 (39.4)  | 0.119 (35.3)  |
+
+AUC0 -24hr=area under the concentration time curve from 0 to 24 hours; Cmax=maximum concentration;
+
+t1/2=elimination half-life; CL=body weight normalised plasma clearance
 
 ## 5.3 Preclinical safety data
 
@@ -508,7 +539,9 @@ Only a limited number of non-white patients were included in the clinical studie
 
 Non-clinical data reveal no special hazard for humans based on conventional studies of safety pharmacology, repeated dose toxicity, and genotoxicity studies.
 
-Animal studies showed that the toxicity produced by imipenem, as a single entity, was limited to the kidney. Co-administration of cilastatin with imipenem in a 1:1 ratio prevented the nephrotoxic eff ects of imipenem in rabbits and monkeys. Available evidence suggests that cilastatin prevents the nephrotoxicity by preventing entry of imipenem into the tubular cells.
+<div style=\"page-break-after: always\"></div>
+
+Animal studies showed that the toxicity produced by imipenem, as a single entity, was limited to the kidney. Co-administration of cilastatin with imipenem in a 1:1 ratio prevented the nephrotoxic effects of imipenem in rabbits and monkeys. Available evidence suggests that cilastatin prevents the nephrotoxicity by preventing entry of imipenem into the tubular cells.
 
 A teratology study in pregnant cynomolgus monkeys given imipenem/cilastatin sodium at doses of 40/40 mg/kg/day (bolus intravenous injection) resulted in maternal toxicity including emesis, inappetence, body weight loss, diarrhoea, abortion, and death in some cases. When doses of imipenem/cilastatin sodium (approximately 100/100 mg/kg/day or approximately 3 times the recommended daily human intravenous dose) were administered to pregnant cynomolgus monkeys at an intravenous infusion rate which mimics human clinical use, there was minimal maternal intolerance (occasional emesis), no maternal deaths, no evidence of teratogenicity, but an increase in embryonic loss relative to control groups (see section 4.6).
 
@@ -534,15 +567,15 @@ This medicinal product must not be mixed with other medicinal products except th
 
 ## 6.3 Shelf life
 
-<div style=\"page-break-after: always\"></div>
-
 ## Dry powder
 
 30 months.
 
-## After constitution and dilution
+## After reconstitution and dilution
 
 Diluted solutions should be used immediately. The time interval between the beginning of reconstitution and the end of intravenous infusion should not exceed two hours.
+
+<div style=\"page-break-after: always\"></div>
 
 ## 6.4 Special precautions for storage
 
@@ -550,7 +583,7 @@ This medicinal product does not require any special temperature storage conditio
 
 Keep vials in the outer carton in order to protect from light.
 
-For storage conditions after constitution and dilution of  the medicinal product, see section 6.3.
+For storage conditions after reconstitution and dilution of the medicinal product, see section 6.3.
 
 ## 6.5 Nature and contents of container
 
@@ -560,35 +593,51 @@ This medicinal product is supplied in packs of 25 vials.
 
 ## 6.6 Special precautions for disposal and other handling
 
-Recarbrio is supplied as a dry powder in a single-dose vial that must be constituted and f urther diluted using aseptic technique prior to intravenous infusion as outlined below:
+Recarbrio is supplied as a dry powder in a single-dose vial that must be reconstituted and further diluted using aseptic technique prior to intravenous inf usion as outlined below:
 
-- To prepare the infusion solution, contents of the vial must be transferred to 100 mL of  an appropriate infusion solution (see sections 6.2 and 6.3): 9 mg/mL (0.9 %) sodium chloride. In exceptional circumstances where 9 mg/mL (0.9 %) sodium chloride cannot be used for clinical reasons 5 % glucose may be used instead.
-- Withdraw 20 mL (10 mL times 2) of diluent from the appropriate infusion bag and constitute the vial with 10 mL of the diluent. The constituted suspension must not be administered by direct intravenous inf usion.
-- After constitution, shake vial well and transfer resulting suspension into the remaining 80 mL of the infusion bag.
+## Adult patients
+
+To prepare infusion solution, contents of the vial must be transferred to 100 mL of  an appropriate infusion solution (see sections 6.2 and 6.3): 9 mg/mL (0.9 %) sodium chloride. In exceptional circumstances where 9 mg/mL (0.9 %) sodium chloride cannot be used for clinical reasons 5 % glucose may be used instead. Please note that pre-filled infusion bags are overfilled and, to obtain a correct concentration, it is important to be assured that exactly 100 mL of the diluent is used in this step when a part of the content of the infusion bag is administered (e.g., in the case of paediatric weight-based dosing).
+
+- Withdraw 20 mL (10 mL times 2) of diluent from the appropriate infusion bag and reconstitute the vial with 10 mL of the diluent. The reconstituted suspension must not be administered by direct intravenous inf usion.
+- After reconstitution, shake vial well and transfer resulting suspension into the remaining 80 mL of the infusion bag.
 - Add the additional 10 mL of infusion diluent to the vial and shake well to ensure complete transfer of vial contents; repeat transfer of the resulting suspension to the infusion solution before administering. Agitate the resulting mixture until clear.
-- Constituted solutions of Recarbrio range from colorless to yellow. Variations of color within this range do not af fect the potency of  the product.
-- For patients with renal insufficiency, a reduced dose of Recarbrio will be administered according to the patient's CrCl, as determined from Table 7. Prepare 100 mL of infusion solution as directed above. Select the volume (mL) of the final infusion solution needed for the appropriate dose of  Recarbrio as shown in Table 7.
 
-Parenteral medicinal products should be inspected visually for particulate matter and discoloration prior to administration, whenever solution and container permit. Discard if discoloration or visible particles are observed.
+Adult patients with renal impairment and paediatric patients weighing at least 30 kg with renal impairment
 
-## Table 7: Preparation of Recarbrio doses
+A reduced dose of Recarbrio will be administered according to the patient ' s CrCl or eGFR, as determined from Table 9.
 
-| Creatinine Clearance (mL/min)   | Dosage ofRecarbrio (imipenem/cilastatin/relebactam) (mg)   | Volume (mL) ofSolution to be Removed and Discarded from Preparation   | Volume (mL) of Final Infusion Solution Needed for Dosage   |
-|---------------------------------|------------------------------------------------------------|-----------------------------------------------------------------------|------------------------------------------------------------|
+- Prepare 100 mL of infusion solution as directed above for adult patients.
+- Select the volume (mL) of the final infusion solution needed for the appropriate dose of Recarbrio as shown in Table 9.
+
+## Paediatric patients weighing 2 kg to less than 30 kg with normal renal function
+
+- Prepare 100 mL of infusion solution as directed above for adult patients.
+- The volume of the final infusion solution (with a concentration of 12.5 mg/mL) to be administered is calculated based on patient weight as follows:
+- o Infusion volume (mL) = (Weight (kg) x 37.5 mg/kg) / 12.5 mg/mL
+- o Note: The entire volume in the infusion bag (100 mL) will not be required.
+- Transfer the calculated inf usion volume from the prepared 100 mL solution to an adequately sized infusion bag or infusion syringe.
+- The infusion volume will be administered over 60 minutes via infusion or infusion syringe pump.
 
 <div style=\"page-break-after: always\"></div>
 
-| Greater than or equal to 90                                          | 500/500/250   |   N/A |   100 |
-|----------------------------------------------------------------------|---------------|-------|-------|
-| Less than 90 to greater than or equal to 60                          | 400/400/200   |    20 |    80 |
-| Less than 60 to greater than or equal to 30                          | 300/300/150   |    40 |    60 |
-| Less than 30 to greater than or equal to 15 or ESRD on haemodialysis | 200/200/100   |    60 |    40 |
+Table 9: Preparation of Recarbrio solution for intravenous infusion in adult and paediatric patients (weighing at least 30 kg)
+
+| Estimated renal function (CrCl [mL/min] * or eGFR[mL/min/1.73m 2 ] † )   | Dose ofRecarbrio (imipenem/cilastatin/relebactam) (mg)                | Volume (mL) of solution to be removed and discarded from preparation   | Volume (mL) offinal infusion solution needed for dose                 |
+|--------------------------------------------------------------------------|-----------------------------------------------------------------------|------------------------------------------------------------------------|-----------------------------------------------------------------------|
+| Greater than or equal to 90                                              | 500/500/250                                                           | N/A                                                                    | 100                                                                   |
+| Less than 90 to greater than or equal to 60                              | 400/400/200                                                           | 20                                                                     | 80                                                                    |
+| Less than 60 to greater than or equal to 30                              | 300/300/150                                                           | 40                                                                     | 60                                                                    |
+| Less than 30 to greater than or equal to 15 or ESRD on haemodialysis     | 200/200/100                                                           | 60                                                                     | 40                                                                    |
+| *CrCl calculated using the Cockcroft-Gault formula for adult patients    | *CrCl calculated using the Cockcroft-Gault formula for adult patients | *CrCl calculated using the Cockcroft-Gault formula for adult patients  | *CrCl calculated using the Cockcroft-Gault formula for adult patients |
+
+Reconstituted solutions of Recarbrio range from colourless to yellow. Variations of colour within this range do not affect the potency of the product. Parenteral medicinal products should be inspected visually for particulate matter and discolouration prior to administration, whenever solution and container permit. Discard if  discolouration or visible particles are observed.
 
 Any unused medicinal product or waste material should be disposed of in accordance with local requirements.
 
 ## Compatible medicinal products
 
-The physical compatibility of Recarbrio with selected injectable medicinal products was evaluated in two commonly available diluents at a Y-infusion site. Compatible medicinal products with the corresponding compatible diluent (i.e., 5 % Dextrose Injection or 0.9 % Sodium chloride Injection) are listed below. Recarbrio should not be co-administered through the same intravenous line (or cannula), with other medicinal products not listed below, as no compatibility data are available. Refer to the respective prescribing information of the co-administered medicinal product(s) to confirm compatibility of simultaneous co-administration. This medicinal product must not be mixed with other medicinal products except those mentioned below.
+The physical compatibility of Recarbrio with selected injectable medicinal products was evaluated in two commonly available diluents at a Y-infusion site. Compatible medicinal products with the corresponding compatible diluent (i.e., 5 % Dextrose Injection or 0.9 % Sodium chloride Injection) are listed below. Recarbrio should not be co-administered through the same intravenous line (or cannula), with other medicinal products not listed below, as no compatibility data are available. Refer to the respective prescribing inf ormation of the co-administered medicinal product(s) to confirm compatibility of simultaneous co-administration. This medicinal product must not be mixed with other medicinal products except those mentioned below.
 
 List of Compatible Injectable Medicinal Products for use with 5 % Dextrose or 0.9 % Sodium chloride Injection as Diluents
 
@@ -609,17 +658,17 @@ Intravenous Container Bag Materials
 
 Polyvinyl chloride (PVC) and polyolefin (polypropylene and polyethylene)
 
+<div style=\"page-break-after: always\"></div>
+
 Intravenous Infusion Set Materials (with tubing)
 
 PVC + Di-(2-ethylhexyl)phthalate (DEHP) and polyethylene (PE)-lined PVC
 
-## Incompatible medicinal products
+Incompatible medicinal products
 
 Recarbrio for solution for infusion is physically incompatible with propofol in 5 % Dextrose (also named Glucose) or 0.9 % Sodium chloride.
 
 ## 7. MARKETING AUTHORISATION HOLDER
-
-<div style=\"page-break-after: always\"></div>
 
 Merck Sharp &amp; Dohme B.V. Waarderweg 39 2031 BN Haarlem The Netherlands
 
@@ -631,9 +680,11 @@ EU/1/19/1420/001
 
 Date of first authorisation: 13 February 2020
 
+Date of the latest renewal: 19 September 2024
+
 ## 10. DATE OF REVISION OF THE TEXT
 
-Detailed information on this medicinal product is available on the website of the European Medicines Agency http://www.ema.europa.eu.
+Detailed information on this medicinal product is available on the website of the European Medicines Agency https://www.ema.europa.eu.
 
 <div style=\"page-break-after: always\"></div>
 
@@ -670,7 +721,7 @@ The marketing authorisation holder (MAH) shall perform the required pharmacovigi
 
 An updated RMP should be submitted:
 
-- At the request of  the European Medicines Agency;
+- At the request of the European Medicines Agency;
 - Whenever the risk management system is modified, especially as the result of new information being received that may lead to a significant change to the benefit/risk profile or as the result of an important (pharmacovigilance or risk minimisation) milestone being reached.
 
 <div style=\"page-break-after: always\"></div>
@@ -734,28 +785,24 @@ Keep vials in the outer carton in order to protect from light.
 | 10.   | SPECIAL PRECAUTIONS FORDISPOSALOFUNUSED MEDICINAL PRODUCTS ORWASTEMATERIALS DERIVED FROMSUCHMEDICINAL PRODUCTS, IF APPROPRIATE   |
 |-------|----------------------------------------------------------------------------------------------------------------------------------|
 
-| 11.   | NAMEANDADDRESS OF THE MARKETINGAUTHORISATIONHOLDER   |
-|-------|------------------------------------------------------|
+## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
 Merck Sharp &amp; Dohme B.V. Waarderweg 39 2031 BN Haarlem
 
 The Netherlands
 
-| 12. MARKETINGAUTHORISATION NUMBER(S)   |
-|----------------------------------------|
+## 12. MARKETING AUTHORISATION NUMBER(S)
 
 EU/1/19/1420/001
 
-| 13.   | BATCHNUMBER   |
-|-------|---------------|
+## 13. BATCH NUMBER
 
 Lot
 
 | 14.   | GENERAL CLASSIFICATION FORSUPPLY   |
 |-------|------------------------------------|
 
-| 15.   | INSTRUCTIONS ONUSE   |
-|-------|----------------------|
+15. INSTRUCTIONS ON USE
 
 | 16.   | INFORMATION IN BRAILLE   |
 |-------|--------------------------|
@@ -774,25 +821,32 @@ PC SN NN
 
 <div style=\"page-break-after: always\"></div>
 
-## MINIMUM PARTICULARS TO APPEAR ON SMALL IMMEDIATE PACKAGING UNITS Vial label
+| MINIMUMPARTICULARS TO APPEARONSMALLIMMEDIATE PACKAGINGUNITS   |
+|---------------------------------------------------------------|
+| Vial label                                                    |
 
 ## 1. NAME OF THE MEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION
 
 Recarbrio 500 mg/500 mg/250 mg powder for solution for infusion imipenem/cilastatin/relebactam IV use after dilution Intravenous use after dilution
 
-## 2. METHOD OF ADMINISTRATION
+| 2.   | METHODOFADMINISTRATION   |
+|------|--------------------------|
 
-3. EXPIRY DATE
+| 3.   | EXPIRYDATE   |
+|------|--------------|
 
 EXP
 
-## 4. BATCH NUMBER
+| 4.   | BATCHNUMBER   |
+|------|---------------|
 
 Lot
 
-## 5. CONTENTS BY WEIGHT, BY VOLUME OR BY UNIT
+| 5.   | CONTENTS BYWEIGHT,BYVOLUMEORBYUNIT   |
+|------|--------------------------------------|
 
-## 6. OTHER
+| 6.   | OTHER   |
+|------|---------|
 
 MSD
 
@@ -812,7 +866,7 @@ imipenem/cilastatin/relebactam
 
 - Keep this leaflet. You may need to read it again.
 - If you have any further questions, ask your doctor or nurse.
-- If you get any side effects, talk to your doctor or nurse. This includes any possible side ef fects not listed in this leaf let. See section 4.
+- If you get any side ef fects, talk to your doctor or nurse. This includes any possible side ef fects not listed in this leaf let. See section 4.
 
 ## What is in this leaflet
 
@@ -827,13 +881,11 @@ imipenem/cilastatin/relebactam
 
 Recarbrio is an antibiotic. It contains the active substances imipenem, cilastatin, and relebactam.
 
-## Recarbrio is used in adults to treat:
+Recarbrio is used in adults and children (f rom birth to less than 18 years of  age) to treat:
 
-- certain bacterial inf ections of  the lungs (pneumonia)
+- certain bacterial inf ections of the lungs (pneumonia)
 - infections of the blood associated with the infections of  the lung mentioned above
 - infections caused by bacteria that other antibiotics may not be able to kill
-
-Recarbrio is used in patients 18 years or older.
 
 ## 2. What you need to know before you are given Recarbrio
 
@@ -862,7 +914,7 @@ Tell your doctor right away if you have an allergic reaction, convulsions (seizu
 
 ## Children and adolescents
 
-Recarbrio should not be used in children or adolescents who are under 18 years of age. This is because it is not known if the medicine is safe to use in these patients.
+Do not give this medicine to children with kidney problems who weigh less than 30 kg, children who weigh less than 2 kg, or preterm inf ants (less than 37 weeks post-menstrual age). This is because it is not known if the medicine is safe to use in these patients.
 
 ## Other medicines and Recarbrio
 
@@ -888,11 +940,13 @@ This medicine contains approximately 37.5 mg of sodium (main component of cookin
 
 ## 3. How you are given Recarbrio
 
-The usual dose is one vial (containing 500 mg imipenem, 500 mg cilastatin, and 250 mg relebactam) every 6 hours. If you have kidney problems, your doctor may lower your dose.
+The usual dose for adults is one vial (containing 500 mg imipenem, 500 mg cilastatin, and 250 mg relebactam) every 6 hours. It  is  given  as  a  drip  directly  into  a  vein  ('intravenous  inf usion').  The infusion will last 30 minutes.
 
-It is given as a drip directly into a vein ('intravenous inf usion'). The infusion will last 30 minutes.
+Your doctor or nurse will determine the right dose and infusion time f or children based on their age and weight.
 
-The course of treatment usually lasts f rom 5 up to 14 days, depending on the type of infection you have and how you respond to treatment.
+If you have kidney problems, your doctor may lower your dose.
+
+The course of treatment usually lasts from 5 up to 14 days, depending on the type of infection you have and how you respond to treatment.
 
 ## If you are given more Recarbrio than you should
 
@@ -908,6 +962,8 @@ If you have any further questions on the use of this medicine, ask your doctor o
 
 Like all medicines, this medicine can cause side effects, although not everybody gets them.
 
+<div style=\"page-break-after: always\"></div>
+
 ## Serious side effects
 
 Tell your doctor right away if you notice any of the following serious side eff ects - the medicine must be stopped:
@@ -915,11 +971,9 @@ Tell your doctor right away if you notice any of the following serious side eff 
 - allergic reactions -the signs may include hives, swelling of the face, lips, tongue or throat, difficulty in breathing or swallowing
 - severe skin reactions (e.g., severe rash, skin peeling or blistering)
 
-<div style=\"page-break-after: always\"></div>
-
 ## Other side effects
 
-## Common : (may affect up to 1 in 10 people)
+Common : (may affect up to 1 in 10 people)
 
 - nausea, being sick (vomiting), diarrhoea
 - blood test results that may show changes in the liver
@@ -945,44 +999,44 @@ Tell your doctor right away if you notice any of the following serious side eff 
 - fever
 - blood test (called a Coombs test) results showing antibodies that can cause anaemia by destroying red blood cells
 
-## Rare : (may affect up to 1 in 1,000 people)
+## Rare : (may affect up to 1 in 1 000 people)
 
 - fungal infection (candidiasis)
 - changes in taste
 - disease of the brain, tingling sensation (pins and needles), localised tremor
 - hearing loss
-- staining of the teeth and/or tongue
+- staining of  the teeth and/or tongue
 - inflammation of the colon with severe diarrhoea (colitis)
 - low number of white blood cells which may make it difficult for your body to fight infections
 - inflammation of the liver
 - liver f ailure
 - inability of the kidney to perform normal function
-- changes in the amount of urine, changes in urine color
+- changes in the amount of urine, changes in urine colour
 - swelling of the skin
 - painful rash with f lu-like symptoms
 - redness and scaling of the skin
 
-## Very rare : (may affect up to 1 in 10,000 people)
+## Very rare : (may affect up to 1 in 10 000 people)
 
 - inflammation of stomach or intestine (gastro-enteritis)
 - anaemia due to destruction of red blood cells, leading to symptoms like tiredness, pale skin
 - headache
+
+<div style=\"page-break-after: always\"></div>
+
 - worsening of a rare disease associated with muscle weakness (aggravation of myasthenia gravis)
 - a spinning sensation (vertigo)
 - ringing in the ears (tinnitus)
 - irregular heartbeat, the heart beating forcefully or rapidly
-
-<div style=\"page-break-after: always\"></div>
-
 - chest discomfort, diff iculty breathing, abnormally fast and superficial breathing, pain in the upper spine
 - pain in the throat
-- flushing, bluish discoloration of the face and lips, changes in skin texture, excessive sweating
+- flushing, bluish discolouration of the f ace and lips, changes in skin texture, excessive sweating
 - increase in the production of saliva
 - inflammation of intestine with bloody diarrhoea (haemorrhagic colitis)
 - stomach pain
 - heartburn
 - red swollen tongue, overgrowth of the normal projections on the tongue giving it a hairy appearance
-- severe loss of liver f unction due to inflammation (fulminant hepatitis)
+- severe loss of liver function due to inflammation (fulminant hepatitis)
 - pain in several joints
 - itching of the vulva in women
 - weakness, lack of energy
@@ -996,13 +1050,13 @@ Not known : (f requency cannot be estimated from the available data)
 
 ## Reporting of side effects
 
-If you get any side effects, talk to your doctor or nurse. This includes any possible side effects not listed in this leaf let. You can also report side eff ects directly via the national reporting system listed in Appendix V. By reporting side effects you can help provide more information on the safety of this medicine.
+If you get any side ef fects, talk to your doctor or nurse. This includes any possible side ef fects not listed in this leaf let. You can also report side ef f ects directly via the national reporting system listed in Appendix V. By reporting side effects you can help provide more information on the safety of this medicine.
 
 ## 5. How to store Recarbrio
 
 Keep this medicine out of the sight and reach of children.
 
-Do not use this medicine after the expiry date which is stated on the container. The expiry date refers to the last day of that month.
+Do not use this medicine after the expiry date which is stated on the container af ter EXP. The expiry date refers to the last day of  that month.
 
 Keep this medicine in the outer carton to protect f rom light.
 
@@ -1037,43 +1091,39 @@ MSD Belgium Tél/Tel: +32(0)27766211 dpoc\\_belux@msd.com
 
 ## /Beъл/geа/erи/ia
 
-Ме/er/ka  Ша/er/pecyril  и  /Deо/ucyril/em  /Beъл/geа/erи/ia Е/Ocyril/Ocyril/De Тел: +359 2 819 3737 info-msdbg@merck.com
+Ме/er/ka  Ша/er/pecyril  и  /Deо/ucyril/em  /Beъл/geа/erи/ia  Е/Ocyril/Ocyril/De Тел .: +359 2 819 3737 info-msdbg@msd.com
 
 ## Česká republika
 
-Merck Sharp &amp; Dohme s.r.o. Tel: +420 233 010 111 dpoc\\_czechslovak@merck.com
+Merck Sharp &amp; Dohme s.r.o. Tel.: +420 277 050 000 dpoc\\_czechslovak@msd.com
 
 ## Danmark
 
-MSD Danmark ApS Tlf.: + 45 4482 4000 dkmail@merck.com
+MSD Danmark ApS Tlf.: +45 4482 4000 dkmail@msd.com
 
 ## Deutschland
 
-MSD Sharp &amp; Dohme GmbH Tel: 0800 673 673 673 (+49 (0) 89 4561 0) e-mail@msd.de
+MSD Sharp &amp; Dohme GmbH Tel.: +49 (0) 89 20 300 4500 medinfo@msd.de
 
 ## Eesti
 
-Merck Sharp &amp; Dohme OÜ Tel.: +372 6144 200 msdeesti@merck.com
+Merck Sharp &amp; Dohme OÜ Tel: +372 614 4200 dpoc.estonia@msd.com
 
 ## Ελλάδα
 
-MSD Α.Φ.Ε.Ε. Τηλ : +30 210 98 97 300 dpoc\\_greece@merck.com
+MSD Α.Φ.Ε.Ε. Τηλ : +30 210 98 97 300 dpoc.greece@msd.com
 
 ## España
 
-Merck Sharp &amp; Dohme de España, S.A.
-
-Tel: +34 91 321 06 00 msd\\_info@merck.com
+Merck Sharp &amp; Dohme de España, S.A. Tel: +34 91 321 06 00 msd\\_info@msd.com
 
 ## France
 
-MSD France
-
-Tél: + 33 (0) 1 80 46 40 40
+MSD France Tél: +33 (0)1 80 46 40 40
 
 ## Lietuva
 
-UAB Merck Sharp &amp; Dohme Tel: + 370 5 278 02 47 msd\\_lietuva@merck.com
+UAB Merck Sharp &amp; Dohme Tel. +370 5 2780 247 dpoc\\_lithuania@msd.com
 
 ## Luxembourg/Luxemburg
 
@@ -1081,138 +1131,144 @@ MSD Belgium Tél/Tel: +32(0)27766211 dpoc\\_belux@msd.com
 
 ## Magyarország
 
-MSD Pharma Hungary Kft.
-
-Tel: +36 1 888 5300 hungary\\_msd@merck.com
+MSD Pharma Hungary Kft. Tel.: +36 1 888 5300 hungary\\_msd@msd.com
 
 ## Malta
 
-Merck Sharp &amp; Dohme Cyprus Limited Tel: 8007 4433 (+356 99917558) malta\\_info@merck.com
+Merck Sharp &amp; Dohme Cyprus Limited Tel: 8007 4433 (+356 99917558) dpoccyprus@msd.com
 
 ## Nederland
 
-Merck Sharp &amp; Dohme B.V. Tel: 0800 9999000 (+31 23 5153153) medicalinfo.nl@merck.com
+Merck Sharp &amp; Dohme B.V. Tel: 0800 9999000 (+31 23 5153153) medicalinfo.nl@msd.com
 
 ## Norge
 
-MSD (Norge) AS Tlf: +47 32 20 73 00 msdnorge@msd.no
+MSD (Norge) AS Tlf: +47 32 20 73 00 medinfo.norway@msd.com
 
 ## Österreich
 
-Merck Sharp &amp; Dohme Ges.m.b.H. Tel: +43 (0) 1 26 044 dpoc\\_austria@merck.com
+Merck Sharp &amp; Dohme Ges.m.b.H. Tel: +43 (0) 1 26 044 dpoc\\_austria@msd.com
 
 ## Polska
 
-MSD Polska Sp. z o.o. Tel: +48 22 549 51 00 msdpolska@merck.com
+MSD Polska Sp. z o.o. Tel.: +48 22 549 51 00 msdpolska@msd.com
 
 ## Portugal
 
-Merck Sharp &amp; Dohme, Lda Tel: +351 21 4465700 inform\\_pt@merck.com
+Merck Sharp &amp; Dohme, Lda Tel.: +351 21 4465700 inform\\_pt@msd.com
 
 <div style=\"page-break-after: always\"></div>
 
 ## Hrvatska
 
-## România
-
-Merck Sharp &amp; Dohme d.o.o. Tel: + 385 1 6611 333 croatia\\_info@merck.com
-
-Merck Sharp &amp; Dohme Romania S.R.L. Tel: +40 21 529 29 00 msdromania@merck.com
+Merck Sharp &amp; Dohme d.o.o. Tel: +385 1 6611 333 dpoc.croatia@msd.com
 
 ## Ireland
 
-Merck Sharp &amp; Dohme Ireland (Human Health) Limited Tel: +353 (0)1 2998700
+Merck Sharp &amp; Dohme Ireland (Human Health)
 
-medinfo\\_ireland@msd.com
-
-## Slovenija
-
-Merck Sharp &amp; Dohme, inovativna zdravila d.o.o. Tel: +386 1 5204 201 msd.slovenia@merck.com
+Limited Tel: +353 (0)1 2998700 medinfo\\_ireland@msd.com
 
 ## Ísland
 
-Vistor hf.
+Vistor ehf.
 
-Sími: + 354 535 7000
-
-## Slovenská republika
-
-Merck Sharp &amp; Dohme, s. r. o.
-
-Tel: +421 2 58282010 dpoc\\_czechslovak@merck.com
+Sími: +354 535 7000
 
 ## Italia
 
-MSD Italia S.r.l.
-
-Tel: 800 23 99 89 (+39 06 361911)
-
-dpoc.italy@msd.com
-
-## Suomi/Finland
-
-MSD Finland Oy
-
-Puh/Tel: +358 (0)9 804 650 info@msd.fi
+MSD Italia S.r.l. Tel: 800 23 99 89 (+39 06 361911) dpoc.italy@msd.com
 
 ## Κύπρος
 
-Merck Sharp &amp; Dohme Cyprus Limited Τηλ: 800 00 673 (+357 22866700) cyprus\\_info@merck.com
-
-## Sverige
-
-Merck Sharp &amp; Dohme (Sweden) AB
-
-Tel: +46 77 5700488 medicinskinfo@merck.com
+Merck Sharp &amp; Dohme Cyprus Limited Τηλ : 800 00 673 (+357 22866700) dpoccyprus@msd.com
 
 ## Latvija
 
-SIA Merck Sharp &amp; Dohme Latvija
-
-Tel: + 371 67364224 msd\\_lv@merck.com
-
-## United Kingdom (Northern Ireland)
-
-Merck Sharp &amp; Dohme Ireland (Human Health) Limited Tel: +353 (0)1 2998700 medinfoNI@msd.com
+SIA Merck Sharp &amp; Dohme Latvija Tel.: +371 67025300 dpoc.latvia@msd.com
 
 ## This leaflet was last revised in { MM/YYYY }.
 
-Detailed information on this medicine is available on the European Medicines Agency web site: http://www.ema.europa.eu
+Detailed information on this medicine is available on the European Medicines Agency web site: https://www.ema.europa.eu
 
 &lt;------------------------------------------------------------------------------------------------------------------------&gt;
 
 ## The following information is intended for healthcare professionals only:
 
-Recarbrio is supplied as a dry powder in a single-dose vial that must be constituted and f urther diluted using aseptic technique prior to intravenous infusion as outlined below:
+Recarbrio is supplied as a dry powder in a single-dose vial that must be reconstituted and further diluted using aseptic technique prior to intravenous inf usion as outlined below:
 
-- To prepare the infusion solution, contents of the vial must be transferred to 100 mL of  an appropriate infusion solution: 9 mg/mL (0.9 %) sodium chloride. In exceptional circumstances where 9 mg/mL (0.9 %) sodium chloride cannot be used for clinical reasons 5 % glucose may be used instead.
-- Withdraw 20 mL (10 mL times 2) of diluent from the appropriate infusion bag and constitute the vial with 10 mL of the diluent. The constituted suspension must not be administered by direct intravenous inf usion.
-- After constitution, shake vial well and transfer resulting suspension into the remaining 80 mL of the infusion bag.
-- Add the additional 10 mL of infusion diluent to the vial and shake well to ensure complete transfer of vial contents; repeat transfer of the resulting suspension to the infusion solution before administering. Agitate the resulting mixture until clear.
-- Constituted solutions of Recarbrio range from colorless to yellow. Variations of color within this range do not aff ect the potency of the product.
+## Adult patients
+
+To prepare infusion solution, contents of the vial must be transferred to 100 mL of  an appropriate infusion solution (see Summary of Product Characteristics sections 6.2 and 6.3): 9 mg/mL (0.9 %) sodium chloride. In exceptional circumstances where 9 mg/mL (0.9 %) sodium chloride cannot be used for clinical reasons 5 % glucose may be used instead. Please note that pre-filled infusion bags are overfilled and, to obtain a correct concentration, it is important to be assured that exactly 100 mL of the diluent is used in this step when a part of the content of the infusion bag is administered (e.g., in the case of paediatric weight-based dosing).
+
+- Withdraw 20 mL (10 mL times 2) of diluent from the appropriate infusion bag and reconstitute the vial with 10 mL of the diluent. The reconstituted suspension must not be administered by direct intravenous inf usion.
+- After reconstitution, shake vial well and transfer resulting suspension into the remaining 80 mL of the infusion bag.
+
+## România
+
+Merck Sharp &amp; Dohme Romania S.R.L. Tel.: +40 21 529 29 00 msdromania@msd.com
+
+## Slovenija
+
+Merck Sharp &amp; Dohme, inovativna zdravila d.o.o. Tel: +386 1 520 4201 msd.slovenia@msd.com
+
+## Slovenská republika
+
+Merck Sharp &amp; Dohme, s. r. o.
+
+Tel.: +421 2 58282010 dpoc\\_czechslovak@msd.com
+
+## Suomi/Finland
+
+MSD Finland Oy Puh/Tel: +358 (0)9 804 650 info@msd.fi
+
+## Sverige
+
+Merck Sharp &amp; Dohme (Sweden) AB Tel: +46 77 5700488 medicinskinfo@msd.com
 
 <div style=\"page-break-after: always\"></div>
 
-- For patients with renal insufficiency, a reduced dose of  Recarbrio will be administered according to the patient's CrCl, as determined from the table below. Prepare 100 mL of infusion solution as directed above. Select the volume (mL) of the final infusion solution needed for the appropriate dose of Recarbrio as shown in the table below.
+- Add the additional 10 mL of infusion diluent to the vial and shake well to ensure complete transfer of vial contents; repeat transfer of the resulting suspension to the infusion solution before administering. Agitate the resulting mixture until clear.
 
-Parenteral medicinal products should be inspected visually for particulate matter and discoloration prior to administration, whenever solution and container permit. Discard if discoloration or visible particles are observed.
+## Adult patients with renal impairment and paediatric patients weighing at least 30 kg with renal impairment
 
-## Preparation of Recarbrio Doses
+A reduced dose of Recarbrio will be administered according to the patient ' s CrCl or eGFR, as determined from the table below.
 
-| Creatinine Clearance (mL/min)                                        | Dosage ofRecarbrio (imipenem/cilastatin/relebactam) (mg)   | Volume (mL) ofSolution to be Removed and Discarded from Preparation   |   Volume (mL) of Final Infusion Solution Needed for Dosage |
-|----------------------------------------------------------------------|------------------------------------------------------------|-----------------------------------------------------------------------|------------------------------------------------------------|
-| Greater than or equal to 90                                          | 500/500/250                                                | N/A                                                                   |                                                        100 |
-| Less than 90 to greater than or equal to 60                          | 400/400/200                                                | 20                                                                    |                                                         80 |
-| Less than 60 to greater than or equal to 30                          | 300/300/150                                                | 40                                                                    |                                                         60 |
-| Less than 30 to greater than or equal to 15 or ESRD on haemodialysis | 200/200/100                                                | 60                                                                    |                                                         40 |
+- Prepare 100 mL of infusion solution as directed above for adult patients.
+- Select the volume (mL) of the final infusion solution needed for the appropriate dose of Recarbrio as shown in the table below.
+
+## Paediatric patients weighing 2 kg to less than 30 kg with normal renal function
+
+- Prepare 100 mL of infusion solution as directed above for adult patients.
+- The volume of the final infusion solution (with a concentration of 12.5 mg/mL) to be administered is calculated based on patient weight as follows:
+- o Infusion volume (mL) = (Weight (kg) x 37.5 mg/kg) / 12.5 mg/mL
+- o Note: The entire volume in the infusion bag (100 mL) will not be required.
+- Transfer the calculated inf usion volume from the prepared 100 mL solution to an adequately sized infusion bag or infusion syringe.
+- The infusion volume will be administered over 60 minutes via infusion or infusion syringe pump.
+
+## Preparation of Recarbrio solution for intravenous infusion in adult and paediatric patients (weighing at least 30 kg)
+
+| Estimated renal function (CrCl [mL/min] * or eGFR[mL/min/1.73m 2 ] † )   | Dose ofRecarbrio (imipenem/cilastatin/ relebactam) (mg)               | Volume (mL) ofsolution to be removed and discarded from preparation   | Volume (mL) of final infusion solution needed for dose                |
+|--------------------------------------------------------------------------|-----------------------------------------------------------------------|-----------------------------------------------------------------------|-----------------------------------------------------------------------|
+| Greater than or equal to 90                                              | 500/500/250                                                           | N/A                                                                   | 100                                                                   |
+| Less than 90 to greater than or equal to 60                              | 400/400/200                                                           | 20                                                                    | 80                                                                    |
+| Less than 60 to greater than or equal to 30                              | 300/300/150                                                           | 40                                                                    | 60                                                                    |
+| Less than 30 to greater than or equal to 15 or ESRD on haemodialysis     | 200/200/100                                                           | 60                                                                    | 40                                                                    |
+| *CrCl calculated using the Cockcroft-Gault formula for adult patients    | *CrCl calculated using the Cockcroft-Gault formula for adult patients | *CrCl calculated using the Cockcroft-Gault formula for adult patients | *CrCl calculated using the Cockcroft-Gault formula for adult patients |
+
+Reconstituted solutions of Recarbrio range from colourless to yellow. Variations of colour within this range do not affect the potency of the product. Parenteral medicinal products should be inspected visually for particulate matter and discolouration prior to administration, whenever solution and container permit. Discard if  discolouration or visible particles are observed.
 
 Any unused medicinal product or waste material should be disposed of in accordance with local requirements.
 
 ## Compatible medicinal products
 
-The physical compatibility of Recarbrio with selected injectable medicinal products was evaluated in two commonly available diluents at a Y-infusion site. Compatible medicinal products with the corresponding compatible diluent (i.e., 5 % Dextrose Injection or 0.9 % Sodium chloride Injection) are listed below. Recarbrio should not be co-administered through the same intravenous line (or cannula), with other medicinal products not listed below, as no compatibility data are available. Refer to the respective prescribing information of the co-administered medicinal product(s) to confirm compatibility of simultaneous co-administration. This medicinal product must not be mixed with other medicinal products except those mentioned below.
+The physical compatibility of Recarbrio with selected injectable medicinal products was evaluated in two commonly available diluents at a Y-infusion site. Compatible medicinal products with the corresponding compatible diluent (i.e., 5 % Dextrose Injection or 0.9 % Sodium chloride Injection) are listed below. Recarbrio should not be co-administered through the same intravenous line (or cannula), with other medicinal products not listed below, as no compatibility data are available. Refer to the respective prescribing inf ormation of the co-administered medicinal product(s) to confirm
 
-List of Compatible Injectable Medicinal Products for use with 5 % Dextrose or 0.9 % Sodium chloride Injection as Diluents
+<div style=\"page-break-after: always\"></div>
+
+compatibility of simultaneous co-administration. This medicinal product must not be mixed with other medicinal products except those mentioned below.
+
+## List of Compatible Injectable Medicinal Products for use with 5 % Dextrose or 0.9 % Sodium chloride Injection as Diluents
 
 - dexmedetomidine
 - dopamine
@@ -1223,20 +1279,22 @@ List of Compatible Injectable Medicinal Products for use with 5 % Dextrose or 0.
 - norepinephrine
 - phenylephrine
 
-<div style=\"page-break-after: always\"></div>
-
 ## Compatible intravenous bags and infusion set materials
 
 Recarbrio is compatible with the following intravenous container bags and infusion set materials. Any intravenous bags or infusion set materials not listed below should not be used.
 
-Intravenous Container Bag Materials Polyvinyl chloride (PVC) and polyolefin (polypropylene and polyethylene)
+## Intravenous Container Bag Materials
 
-Intravenous Infusion Set Materials (with tubing) PVC + Di-(2-ethylhexyl)phthalate (DEHP) and polyethylene (PE)-lined PVC
+Polyvinyl chloride (PVC) and polyolefin (polypropylene and polyethylene)
+
+## Intravenous Infusion Set Materials (with tubing)
+
+PVC + Di-(2-ethylhexyl)phthalate (DEHP) and polyethylene (PE)-lined PVC
 
 ## Incompatible medicinal products
 
 Recarbrio for solution for infusion is physically incompatible with propofol in 5 % Dextrose (also named Glucose) or 0.9 % Sodium chloride.
 
-## After constitution and dilution
+## After reconstitution and dilution
 
 Diluted solutions should be used immediately. The time interval between the beginning of reconstitution and the end of intravenous infusion should not exceed two hours.

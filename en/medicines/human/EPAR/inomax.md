@@ -1,18 +1,18 @@
 ---
-document_datetime: 2025-12-29 14:13:48
+document_datetime: 2026-01-29 15:58:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/inomax.html
 document_name: inomax.html
 version: success
-processing_time: 0.1321137
-conversion_datetime: 2025-12-30 09:37:23.643253
+processing_time: 0.1437052
+conversion_datetime: 2026-02-01 20:20:59.652454
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.66.0
-  docling-core: 2.57.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.11.0
+  docling-jobkit: 1.9.1
+  docling: 2.71.0
+  docling-core: 2.62.0
+  docling-ibm-models: 3.11.0
+  docling-parse: 4.7.3
   python: cpython-313 (3.13.11)
   plaform: macOS-26.2-arm64-arm-64bit-Mach-O
 ---
@@ -25,8 +25,6 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 nitric oxide Medicine Human Authorised
-
-On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -119,7 +117,7 @@ English (EN) (83.49 KB - PDF)
 
 [View](/en/documents/overview/inomax-epar-summary-public_en.pdf)
 
-[Other languages (21)](#file-language-dropdown-509)
+[Other languages (21)](#file-language-dropdown-93)
 
 български (BG) (132.58 KB - PDF)
 
@@ -373,6 +371,14 @@ svenska (SV) (105.27 KB - PDF)
 
 [View](/sv/documents/overview/inomax-epar-summary-public_sv.pdf)
 
+INOmax : EPAR - Risk management plan
+
+English (EN) (1009.47 KB - PDF)
+
+**First published:** 29/01/2026
+
+[View](/en/documents/rmp/inomax-epar-risk-management-plan_en.pdf)
+
 ## Product information
 
 INOmax : EPAR - Product Information
@@ -385,7 +391,7 @@ English (EN) (671.25 KB - PDF)
 
 [View](/en/documents/product-information/inomax-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-802)
+[Other languages (24)](#file-language-dropdown-951)
 
 български (BG) (2.14 MB - PDF)
 
@@ -701,7 +707,7 @@ English (EN) (19.32 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/inomax-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-321)
+[Other languages (24)](#file-language-dropdown-190)
 
 български (BG) (54.02 KB - PDF)
 
@@ -1001,7 +1007,7 @@ English (EN) (18.13 KB - PDF)
 
 [View](/en/documents/conditions-member-states/inomax-epar-conditions-imposed-member-states-safe-and-effective-use-annex-iv_en.pdf)
 
-[Other languages (23)](#file-language-dropdown-370)
+[Other languages (23)](#file-language-dropdown-564)
 
 български (BG) (86.87 KB - PDF)
 
@@ -1307,7 +1313,7 @@ Linde Healthcare AB
 
 Rättarvägen 3
 
-Marketing authorisation issued 01/08/2001 Revision 25
+Marketing authorisation issued 01/08/2001 Revision 26
 
 ## Assessment history
 
@@ -1319,11 +1325,11 @@ Collapse section
 
 INOmax : EPAR - Procedural steps taken and scientific information after authorisation
 
-English (EN) (218.2 KB - PDF)
+English (EN) (150.37 KB - PDF)
 
 **First published:** 27/03/2025
 
-**Last updated:** 15/05/2025
+**Last updated:** 29/01/2026
 
 [View](/en/documents/procedural-steps-after/inomax-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf)
 
@@ -1422,7 +1428,7 @@ English (EN) (298.23 KB - PDF)
 
 - [Medicines](https://www.ema.europa.eu/en/search?f%5B0%5D=ema_search_topics%3A61)
 
-**This page was last updated on** 15/05/2025
+**This page was last updated on** 29/01/2026
 
 ## Share this page
 

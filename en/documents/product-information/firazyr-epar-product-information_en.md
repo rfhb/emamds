@@ -1,20 +1,20 @@
 ---
-document_datetime: 2025-10-15 14:10:46
-document_pages: 40
+document_datetime: 2026-01-29 13:12:09
+document_pages: 39
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/firazyr-epar-product-information_en.pdf
 document_name: firazyr-epar-product-information_en.pdf
 version: success
-processing_time: 9.5203304
-conversion_datetime: 2025-12-17 15:28:55.121506
+processing_time: 9.4866634
+conversion_datetime: 2026-02-01 20:34:09.382375
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.64.1
-  docling-core: 2.55.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.11.0
+  docling-jobkit: 1.9.1
+  docling: 2.71.0
+  docling-core: 2.62.0
+  docling-ibm-models: 3.11.0
+  docling-parse: 4.7.3
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.1-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
 ---
 ## ANNEX I
 
@@ -100,7 +100,7 @@ Each Firazyr syringe is intended for single use only.
 
 Refer to the patient information leaflet for instructions for use.
 
-## Caregiver/self-administration
+Caregiver/self-administration
 
 The decision on initiating caregiver or self-administration of Firazyr should only be taken by a physician experienced in the diagnosis and treatment of hereditary angioedema (see section 4.4).
 
@@ -289,26 +289,27 @@ Table 3. Efficacy results for FAST-1 and FAST-2
 
 <div style=\"page-break-after: always\"></div>
 
-| Controlled Clinical                                              | FAST-2                         | FAST-2                         | FAST-1                                                           | FAST-1                        | FAST-1                        |
-|------------------------------------------------------------------|--------------------------------|--------------------------------|------------------------------------------------------------------|-------------------------------|-------------------------------|
-|                                                                  | icatibant                      | Tranexamic acid                |                                                                  | icatibant                     | Placebo                       |
-| Baseline VAS(mm)                                                 | 63.7                           | 61.5                           | Baseline VAS(mm)                                                 | 69.3                          | 67.7                          |
-| Change from baseline to 4 hours                                  | -41.6                          | -14.6                          | Change from baseline to 4 hours                                  | -44.8                         | -23.5                         |
-| Difference between treatments (95% CI, p-value)                  | -27.8 (-39.4, -16.2) p < 0.001 | -27.8 (-39.4, -16.2) p < 0.001 | Difference between treatments (95% CI, p-value)                  | -23.3 (-37.1, -9.4) p = 0.002 | -23.3 (-37.1, -9.4) p = 0.002 |
-| Change from baseline to 12 hours                                 | -54.0                          | -30.3                          | Change from baseline to 12 hours                                 | -54.2                         | -42.4                         |
-| Difference between treatments (95% CI, p-value)                  | -24.1 (-33.6, -14.6) p < 0.001 | -24.1 (-33.6, -14.6) p < 0.001 | Difference between treatments (95% CI, p-value)                  | -15.2 (-28.6, -1.7) p = 0.028 | -15.2 (-28.6, -1.7) p = 0.028 |
-| Median time to onset of symptom relief (hours)                   |                                |                                | Median time to onset of symptom relief (hours)                   |                               |                               |
-| All episodes (N = 74)                                            | 2.0                            | 12.0                           | All episodes (N = 56)                                            | 2.5                           | 4.6                           |
-| Response rate (%, CI) at 4 hours after start of treatment        |                                |                                | Response rate (%, CI) at 4 hours after start of treatment        |                               |                               |
-| All episodes (N = 74)                                            | 80.0 (63.1, 91.6)              | 30.6 (16.3, 48.1)              | All episodes (N = 56)                                            | 66.7 (46.0, 83.5)             | 46.4 (27.5, 66.1)             |
-| Median time to onset of symptom relief: all symptoms (hours):    |                                |                                | Median time to onset of symptom relief: all symptoms (hours):    |                               |                               |
-| Abdominal pain Skin swelling Skin pain                           | 1.6 2.6 1.5                    | 3.5 18.1 12.0                  | Abdominal pain Skin swelling Skin pain                           | 2.0 3.1 1.6                   | 3.3 10.2 9.0                  |
-| Median time to almost complete symptom relief (hours)            |                                |                                | Median time to almost complete symptom relief (hours)            |                               |                               |
-| All episodes (N = 74)                                            | 10.0                           | 51.0                           | All episodes (N = 56)                                            | 8.5                           | 19.4                          |
-| Median time to regression of symptoms, by patient (hours)        |                                |                                | Median time to regression of symptoms, by patient (hours)        |                               |                               |
-| All episodes (N = 74)                                            | 0.8                            | 7.9                            | All episodes (N = 56)                                            | 0.8                           | 16.9                          |
-| Median time to overall patient improvement, by physician (hours) |                                |                                | Median time to overall patient improvement, by physician (hours) |                               |                               |
-| All episodes (N = 74)                                            | 1.5                            | 6.9                            | All episodes (N = 56)                                            | 1.0                           | 5.7                           |
+| Controlled Clinical Study of FIRAZYR vs Tranexamic acid or Placebo: Efficacy Results   | Controlled Clinical Study of FIRAZYR vs Tranexamic acid or Placebo: Efficacy Results   | Controlled Clinical Study of FIRAZYR vs Tranexamic acid or Placebo: Efficacy Results   | Controlled Clinical Study of FIRAZYR vs Tranexamic acid or Placebo: Efficacy Results   | Controlled Clinical Study of FIRAZYR vs Tranexamic acid or Placebo: Efficacy Results   | Controlled Clinical Study of FIRAZYR vs Tranexamic acid or Placebo: Efficacy Results   |
+|----------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------|
+|                                                                                        | FAST-2                                                                                 | FAST-2                                                                                 | FAST-1                                                                                 | FAST-1                                                                                 | FAST-1                                                                                 |
+|                                                                                        | icatibant                                                                              | Tranexamic acid                                                                        |                                                                                        | icatibant                                                                              | Placebo                                                                                |
+| Baseline VAS(mm)                                                                       | 63.7                                                                                   | 61.5                                                                                   | Baseline VAS(mm)                                                                       | 69.3                                                                                   | 67.7                                                                                   |
+| Change from baseline to 4 hours                                                        | -41.6                                                                                  | -14.6                                                                                  | Change from baseline to 4 hours                                                        | -44.8                                                                                  | -23.5                                                                                  |
+| Difference between treatments (95% CI, p-value)                                        | -27.8 (-39.4, -16.2) p < 0.001                                                         | -27.8 (-39.4, -16.2) p < 0.001                                                         | Difference between treatments (95% CI, p-value)                                        | -23.3 (-37.1, -9.4) p = 0.002                                                          | -23.3 (-37.1, -9.4) p = 0.002                                                          |
+| Change from baseline to 12 hours                                                       | -54.0                                                                                  | -30.3                                                                                  | Change from baseline to 12 hours                                                       | -54.2                                                                                  | -42.4                                                                                  |
+| Difference between treatments (95% CI, p-value)                                        | -24.1 (-33.6, -14.6) p < 0.001                                                         | -24.1 (-33.6, -14.6) p < 0.001                                                         | Difference between treatments (95% CI, p-value)                                        | -15.2 (-28.6, -1.7) p = 0.028                                                          | -15.2 (-28.6, -1.7) p = 0.028                                                          |
+| Median time to onset of symptom relief (hours)                                         |                                                                                        |                                                                                        | Median time to onset of symptom relief (hours)                                         |                                                                                        |                                                                                        |
+| All episodes (N = 74)                                                                  | 2.0                                                                                    | 12.0                                                                                   | All episodes (N = 56)                                                                  | 2.5                                                                                    | 4.6                                                                                    |
+| Response rate (%, CI) at 4 hours after start of treatment                              |                                                                                        |                                                                                        | Response rate (%, CI) at 4 hours after start of treatment                              |                                                                                        |                                                                                        |
+| All episodes (N = 74)                                                                  | 80.0 (63.1, 91.6)                                                                      | 30.6 (16.3, 48.1)                                                                      | All episodes (N = 56)                                                                  | 66.7 (46.0, 83.5)                                                                      | 46.4 (27.5, 66.1)                                                                      |
+| Median time to onset of symptom relief: all symptoms (hours):                          |                                                                                        |                                                                                        | Median time to onset of symptom relief: all symptoms (hours):                          |                                                                                        |                                                                                        |
+| Abdominal pain Skin swelling Skin pain                                                 | 1.6 2.6 1.5                                                                            | 3.5 18.1 12.0                                                                          | Abdominal pain Skin swelling Skin pain                                                 | 2.0 3.1 1.6                                                                            | 3.3 10.2 9.0                                                                           |
+| Median time to almost complete symptom relief (hours)                                  |                                                                                        |                                                                                        | Median time to almost complete symptom relief (hours)                                  |                                                                                        |                                                                                        |
+| All episodes (N = 74)                                                                  | 10.0                                                                                   | 51.0                                                                                   | All episodes (N = 56)                                                                  | 8.5                                                                                    | 19.4                                                                                   |
+| Median time to regression of symptoms, by patient (hours)                              |                                                                                        |                                                                                        | Median time to regression of symptoms, by patient (hours)                              |                                                                                        |                                                                                        |
+| All episodes (N = 74)                                                                  | 0.8                                                                                    | 7.9                                                                                    | All episodes (N = 56)                                                                  | 0.8                                                                                    | 16.9                                                                                   |
+| Median time to overall patient improvement, by physician (hours)                       |                                                                                        |                                                                                        | Median time to overall patient improvement, by physician (hours)                       |                                                                                        |                                                                                        |
+| All episodes (N = 74)                                                                  | 1.5                                                                                    | 6.9                                                                                    | All episodes (N = 56)                                                                  | 1.0                                                                                    | 5.7                                                                                    |
 
 <div style=\"page-break-after: always\"></div>
 
@@ -449,8 +450,8 @@ The appropriate dose to be administered is based on body weight (see section 4.2
 
 Where the required dose is less than 30 mg (3 ml), the following equipment is required to extract and administer the appropriate dose:
 
--  Adapter (proximal and/or distal female luer lock connector/coupler)
--  3 ml (recommended) graduated syringe
+- Adapter (proximal and/or distal female luer lock connector/coupler)
+- 3 ml (recommended) graduated syringe
 
 The pre-filled icatibant syringe and all other components are for single use only.
 
@@ -482,22 +483,18 @@ Detailed information on this product is available on the website of the European
 
 ## ANNEX II
 
-- A. MANUFACTURER(S) RESPONSIBLE FOR BATCH RELEASE
+- A. MANUFACTURER RESPONSIBLE FOR BATCH RELEASE
 - B. CONDITIONS OR RESTRICTIONS REGARDING SUPPLY AND USE
 - C. OTHER CONDITIONS AND REQUIREMENTS OF THE MARKETING AUTHORISATION
 - D. CONDITIONS OR RESTRICTIONS WITH REGARD TO THE SAFE AND EFFECTIVE USE OF THE MEDICINAL PRODUCT
 
 <div style=\"page-break-after: always\"></div>
 
-## A. MANUFACTURER(S) RESPONSIBLE FOR BATCH RELEASE
+## A. MANUFACTURER RESPONSIBLE FOR BATCH RELEASE
 
-Name and address of the manufacturer(s) responsible for batch release
+Name and address of the manufacturer responsible for batch release
 
 Takeda Pharmaceuticals International AG Ireland Branch Block 2 Miesian Plaza 50-58 Baggot Street Lower Dublin 2 D02 HW68 Ireland
-
-Shire Pharmaceuticals Ireland Limited Block 2 &amp; 3 Miesian Plaza 50-58 Baggot Street Lower Dublin 2 D02 Y754 Ireland
-
-The printed package leaflet of the medicinal product must state the name and address of the manufacturer responsible for the release of the concerned batch.
 
 ## B. CONDITIONS OR RESTRICTIONS REGARDING SUPPLY AND USE
 
@@ -505,20 +502,20 @@ Medicinal product subject to medical prescription.
 
 ## C. OTHER CONDITIONS AND REQUIREMENTS OF THE MARKETING AUTHORISATION
 
-##  Periodic safety update reports (PSURs)
+## · Periodic safety update reports (PSURs)
 
 The requirements for submission of PSURs for this medicinal product are set out in the list of Union reference  dates  (EURD  list)  provided  for  under  Article  107c(7)  of  Directive  2001/83/EC  and  any subsequent updates published on the European medicines web-portal.
 
 ## D. CONDITIONS OR RESTRICTIONS WITH REGARD TO THE SAFE AND EFFECTIVE USE OF THE MEDICINAL PRODUCT
 
-##  Risk management plan (RMP)
+## · Risk management plan (RMP)
 
 The marketing authorisation holder (MAH) shall perform the required pharmacovigilance activities and interventions detailed in the agreed RMP presented in Module 1.8.2 of the marketing authorisation and any agreed subsequent updates of the RMP.
 
 An updated RMP should be submitted:
 
--  At the request of the European Medicines Agency;
--  Whenever the risk management system is modified, especially as the result of new information being received that may lead to a significant change to the benefit/risk profile or as the result of an important (pharmacovigilance or risk minimisation) milestone being reached.
+- At the request of the European Medicines Agency;
+- Whenever the risk management system is modified, especially as the result of new information being received that may lead to a significant change to the benefit/risk profile or as the result of an important (pharmacovigilance or risk minimisation) milestone being reached.
 
 <div style=\"page-break-after: always\"></div>
 
@@ -542,7 +539,9 @@ Firazyr 30 mg solution for injection in pre-filled syringe icatibant
 
 ## 2. STATEMENT OF ACTIVE SUBSTANCE(S)
 
-Each 3 ml pre-filled syringe contains icatibant acetate equivalent to 30 mg icatibant. Each ml of the solution contains 10 mg of icatibant.
+Each 3 ml pre-filled syringe contains icatibant acetate equivalent to 30 mg icatibant.
+
+Each ml of the solution contains 10 mg of icatibant.
 
 ## 3. LIST OF EXCIPIENTS
 
@@ -670,7 +669,7 @@ Do not store above 25ºC. Do not freeze.
 
 <div style=\"page-break-after: always\"></div>
 
-## 10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
+10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
@@ -718,7 +717,9 @@ Firazyr 30 mg solution for injection in pre-filled syringe icatibant
 
 ## 2. STATEMENT OF ACTIVE SUBSTANCE(S)
 
-Each 3 ml pre-filled syringe contains icatibant acetate equivalent to 30 mg icatibant. Each ml of the solution contains 10 mg of icatibant.
+Each 3 ml pre-filled syringe contains icatibant acetate equivalent to 30 mg icatibant.
+
+Each ml of the solution contains 10 mg of icatibant.
 
 ## 3. LIST OF EXCIPIENTS
 
@@ -760,7 +761,17 @@ Do not store above 25ºC. Do not freeze.
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
-Takeda Pharmaceuticals International AG Ireland Branch Block 2 Miesian Plaza 50-58 Baggot Street Lower Dublin 2 D02 HW68 Ireland
+Takeda Pharmaceuticals International AG Ireland Branch
+
+Block 2 Miesian Plaza
+
+50-58 Baggot Street Lower
+
+Dublin 2
+
+D02 HW68
+
+Ireland
 
 ## 12. MARKETING AUTHORISATION NUMBER(S)
 
@@ -794,17 +805,17 @@ NN
 
 <div style=\"page-break-after: always\"></div>
 
-| MINIMUM PARTICULARS TO APPEAR ONBLISTERS ORSTRIPS   |
-|-----------------------------------------------------|
-| {BLISTER TRAY LID}                                  |
+| MINIMUM PARTICULARS TO APPEAR ONBLISTERS OR STRIPS   |
+|------------------------------------------------------|
+| {BLISTER TRAY LID}                                   |
 
 | 1.   | NAMEOFTHEMEDICINAL PRODUCT   |
 |------|------------------------------|
 
 Firazyr 30 mg solution for injection in pre-filled syringe icatibant
 
-| 2.   | NAMEOFTHEMARKETING AUTHORISATION HOLDER   |
-|------|-------------------------------------------|
+| 2.   | NAMEOFTHEMARKETINGAUTHORISATION HOLDER   |
+|------|------------------------------------------|
 
 Takeda Pharmaceuticals International AG Ireland Branch
 
@@ -857,7 +868,9 @@ Takeda Pharmaceuticals International AG Ireland Branch
 
 ## Package Leaflet: Information for the user
 
-## Firazyr 30 mg solution for injection pre-filled syringe icatibant
+## Firazyr 30 mg solution for injection pre-filled syringe
+
+## icatibant
 
 ## Read all of this leaflet carefully before you start using this medicine because it contains important information for you.
 
@@ -985,12 +998,12 @@ The instructions include the following main steps:
 
 ## 1) General Information
 
--  Clean the work area (surface) to be used before beginning the process.
--  Wash your hands with soap and water.
--  Open the tray by peeling back the seal.
--  Remove the pre-filled syringe from the tray.
--  Remove the cap from the end of the pre-filled syringe by unscrewing the cap.
--  Put down the pre-filled syringe after unscrewing the cap.
+- Clean the work area (surface) to be used before beginning the process.
+- Wash your hands with soap and water.
+- Open the tray by peeling back the seal.
+- Remove the pre-filled syringe from the tray.
+- Remove the cap from the end of the pre-filled syringe by unscrewing the cap.
+- Put down the pre-filled syringe after unscrewing the cap.
 
 ## 2a) Preparing the syringe for children and adolescents (2-17 years) weighing 65 kg or less:
 
@@ -1049,22 +1062,25 @@ Patients weighing more than 65 kg will use the full contents of the pre-filled s
 
 ## If there is air in the graduated syringe:
 
--  Turn the connected syringes so that the pre-filled syringe is on top (see below image).
--  Push the plunger of the graduated syringe so that any air is transferred back into the pre-filled syringe (this step may need to be repeated several times).
--  Withdraw the required volume of icatibant solution.
+- Turn the connected syringes so that the pre-filled syringe is on top (see below image).
 
 <!-- image -->
+
+11
+
+- Push the plunger of the graduated syringe so that any air is transferred back into the pre-filled syringe (this step may need to be repeated several times).
+- Withdraw the required volume of icatibant solution.
 
 <div style=\"page-break-after: always\"></div>
 
 - 4) Remove the pre-filled syringe and connector from the graduated syringe.
 - 5) Discard the pre-filled syringe and connector into the sharps container.
-3.  Remove the needle cap from the blister.
-4.  Twist the lid of the needle cap to break the seal (the needle should be still in the needle cap).
-5.  Grip the syringe firmly. Carefully attach the needle to the syringe containing the colourless solution.
-6.  Screw the syringe on the needle still fixed in the needle cap.
-7.  Remove the needle from the needle cap by pulling the syringe. Do not pull up on the plunger.
-8.  The syringe is now ready for injection.
+- Remove the needle cap from the blister.
+- Twist the lid of the needle cap to break the seal (the needle should be still in the needle cap).
+- Grip the syringe firmly. Carefully attach the needle to the syringe containing the colourless solution.
+- Screw the syringe on the needle still fixed in the needle cap.
+- Remove the needle from the needle cap by pulling the syringe. Do not pull up on the plunger.
+- The syringe is now ready for injection.
 
 2b) Preparing the syringe and needle for injection: All patients (adults, adolescents and children)
 
@@ -1078,32 +1094,32 @@ Patients weighing more than 65 kg will use the full contents of the pre-filled s
 
 <!-- image -->
 
--  Choose the injection site. The injection site should be a skin fold on your abdomen approximately 5-10 cm (2-4 inches) below your navel on either side. This area should be at least 5 cm (2 inches) away from any scars. Do not choose an area that is bruised, swollen, or painful.
--  Clean the injection site with a rubbing alcohol pad and allow it to dry.
+- Choose the injection site. The injection site should be a skin fold on your abdomen approximately 5-10 cm (2-4 inches) below your navel on either side. This area should be at least 5 cm (2 inches) away from any scars. Do not choose an area that is bruised, swollen, or painful.
+- Clean the injection site with a rubbing alcohol pad and allow it to dry.
 
 ## 4) Injecting the solution
 
 <!-- image -->
 
--  Hold the syringe in one hand between two fingers with your thumb at the bottom of the plunger.
--  Make sure that there is no air bubble in the syringe by pressing the plunger until the first drop appears on the tip of the needle.
+- Hold the syringe in one hand between two fingers with your thumb at the bottom of the plunger.
+- Make sure that there is no air bubble in the syringe by pressing the plunger until the first drop appears on the tip of the needle.
 
 <div style=\"page-break-after: always\"></div>
 
 <!-- image -->
 
--  Hold syringe between 45-90 degrees angle to skin with needle facing the skin.
--  Keeping the syringe in one hand, use your other hand to gently hold a fold of skin between your thumb and fingers at the previously disinfected injection site.
--  Hold the fold of skin, bring the syringe to the skin and quickly insert the needle into the skin fold.
--  Slowly push the plunger of the syringe with a steady hand until all the fluid is injected into the skin and no liquid remains in the syringe.
--  Press slowly so that this takes approximately 30 seconds.
--  Release the skin fold and gently pull the needle out.
+- Hold syringe between 45-90 degrees angle to skin with needle facing the skin.
+- Keeping the syringe in one hand, use your other hand to gently hold a fold of skin between your thumb and fingers at the previously disinfected injection site.
+- Hold the fold of skin, bring the syringe to the skin and quickly insert the needle into the skin fold.
+- Slowly push the plunger of the syringe with a steady hand until all the fluid is injected into the skin and no liquid remains in the syringe.
+- Press slowly so that this takes approximately 30 seconds.
+- Release the skin fold and gently pull the needle out.
 
 ## 5) Disposal of the injection material
 
 <!-- image -->
 
--  Discard the syringe, needle and needle cap into the sharp container for throwing away waste that might hurt others if not handled properly.
+- Discard the syringe, needle and needle cap into the sharp container for throwing away waste that might hurt others if not handled properly.
 
 <div style=\"page-break-after: always\"></div>
 
@@ -1157,59 +1173,81 @@ Not all pack sizes may be marketed.
 
 ## Marketing Authorisation Holder and Manufacturer
 
-## Marketing Authorisation Holder
-
 Takeda Pharmaceuticals International AG Ireland Branch Block 2 Miesian Plaza 50-58 Baggot Street Lower Dublin 2 D02 HW68 Ireland
-
-## Manufacturer
-
-Takeda Pharmaceuticals International AG Ireland Branch Block 2 Miesian Plaza 50-58 Baggot Street Lower Dublin 2 D02 HW68 Ireland
-
-Shire Pharmaceuticals Ireland Limited Block 2 &amp; 3 Miesian Plaza 50-58 Baggot Street Lower Dublin 2 D02 Y754 Ireland
 
 For any information about this medicine, please contact the local representative of the Marketing Authorisation Holder:
 
-België/Belgique/Belgien Takeda Belgium NV Tél/Tel: +32 2 464 06 11
+## België/Belgique/Belgien
 
-medinfoEMEA@takeda.com
-
-## България
-
-Такеда България ЕООД Тел.: +359 2 958 27 36 medinfoEMEA@takeda.com
+Takeda Belgium NV Tél/Tel: +32 2 464 06 11 medinfoEMEA@takeda.com
 
 ## Lietuva
 
 Takeda, UAB Tel: +370 521 09 070 medinfoEMEA@takeda.com
 
+## България
+
+Такеда България ЕООД
+
+Тел.: +359 2 958 27 36
+
+medinfoEMEA@takeda.com
+
 ## Luxembourg/Luxemburg
 
 Takeda Belgium NV Tél/Tel: +32 2 464 06 11 medinfoEMEA@takeda.com
-
-<div style=\"page-break-after: always\"></div>
 
 ## Česká republika
 
 Takeda Pharmaceuticals Czech Republic s.r.o. Tel: +420 234 722 722 medinfoEMEA@takeda.com
 
+## Magyarország
+
+Takeda Pharma Kft. Tel: +36 1 270 7030 medinfoEMEA@takeda.com
+
 ## Danmark
 
 Takeda Pharma A/S Tlf: +45 46 77 10 10 medinfoEMEA@takeda.com
+
+## Malta
+
+Drugsales Ltd Tel: +356 21419070 safety@drugsalesltd.com
 
 ## Deutschland
 
 Takeda GmbH Tel: +49 (0)800 825 3325 medinfoEMEA@takeda.com
 
+## Nederland
+
+Takeda Nederland B.V. Tel: +31 20 203 5492 medinfoEMEA@takeda.com
+
 ## Eesti
 
-Takeda Pharma AS Tel: +372 6177 669 medinfoEMEA@takeda.com
+Takeda Pharma AS
+
+Tel: +372 6177 669
+
+## Norge
+
+Takeda AS
+
+Tlf: +47 800 800 30
+
+<div style=\"page-break-after: always\"></div>
+
+medinfoEMEA@takeda.com
 
 ## Ελλάδα
 
-Τakeda ΕΛΛΑΣ Α.Ε. Tηλ: +30 210 6387800 medinfoEMEA@takeda.com
+Τakeda ΕΛΛΑΣ Α.Ε. Tηλ: +30 210 6387800
+
+medinfoEMEA@takeda.com
 
 ## España
 
-Takeda Farmacéutica España S.A Tel: +34 917 90 42 22 medinfoEMEA@takeda.com
+Takeda Farmacéutica España S.A
+
+Tel: +34 917 90 42 22 medinfoEMEA@takeda.com
 
 ## France
 
@@ -1231,50 +1269,6 @@ Vistor hf. Sími: +354 535 7000 medinfoEMEA@takeda.com
 
 Takeda Italia S.p.A. Tel: +39 06 502601 medinfoEMEA@takeda.com
 
-Magyarország Takeda Pharma Kft. Tel: +36 1 270 7030 medinfoEMEA@takeda.com
-
-## Malta
-
-Drugsales Ltd Tel: +356 21419070 safety@drugsalesltd.com
-
-## Nederland
-
-Takeda Nederland B.V. Tel: +31 20 203 5492 medinfoEMEA@takeda.com
-
-## Norge
-
-Takeda AS Tlf: +47 800 800 30 medinfoEMEA@takeda.com
-
-## Österreich
-
-Takeda Pharma Ges.m.b.H. Tel: +43 (0) 800-20 80 50 medinfoEMEA@takeda.com
-
-## Polska
-
-Takeda Pharma Sp. z o.o. Tel: +48223062447 medinfoEMEA@takeda.com
-
-## Portugal
-
-Takeda Farmacêuticos Portugal, Lda. Tel: + 351 21 120 1457 medinfoEMEA@takeda.com
-
-## România
-
-Takeda Pharmaceuticals SRL Tel: +40 21 335 03 91 medinfoEMEA@takeda.com
-
-## Slovenija
-
-Takeda Pharmaceuticals farmacevtska dru ž ba d.o.o. Tel: + 386 (0) 59 082 480 medinfoEMEA@takeda.com
-
-## Slovenská republika
-
-Takeda Pharmaceuticals Slovakia s.r.o. Tel: +421 (2) 20 602 600 medinfoEMEA@takeda.com
-
-## Suomi/Finland
-
-Takeda Oy Puh/Tel: 0800 774 051 medinfoEMEA@takeda.com
-
-<div style=\"page-break-after: always\"></div>
-
 ## Κύπρος
 
 A.POTAMITIS MEDICARE LTD Τηλ: +357 22583333 a.potamitismedicare@cytanet.com.cy
@@ -1289,14 +1283,44 @@ Takeda Latvia SIA Tel: +371 67840082 medinfoEMEA@takeda.com
 
 Detailed information on this medicine is available on the European Medicines Agency website: http://www.ema.europa.eu. There are also links to other websites about rare diseases and treatments.
 
-Sverige Takeda Pharma AB Tel: 020 795 079
-
 medinfoEMEA@takeda.com
+
+## Österreich
+
+Takeda Pharma Ges.m.b.H. Tel: +43 (0) 800-20 80 50 medinfoEMEA@takeda.com
+
+## Polska
+
+Takeda Pharma Sp. z o.o. Tel: +48223062447 medinfoEMEA@takeda.com
+
+## Portugal
+
+Takeda Farmacêuticos Portugal, Lda.
+
+Tel: + 351 21 120 1457 medinfoEMEA@takeda.com
+
+## România
+
+Takeda Pharmaceuticals SRL Tel: +40 21 335 03 91 medinfoEMEA@takeda.com
+
+## Slovenija
+
+Takeda Pharmaceuticals farmacevtska družba d.o.o. Tel: + 386 (0) 59 082 480 medinfoEMEA@takeda.com
+
+## Slovenská republika
+
+Takeda Pharmaceuticals Slovakia s.r.o. Tel: +421 (2) 20 602 600 medinfoEMEA@takeda.com
+
+## Suomi/Finland
+
+Takeda Oy Puh/Tel: 0800 774 051 medinfoEMEA@takeda.com
+
+## Sverige
+
+Takeda Pharma AB Tel: 020 795 079 medinfoEMEA@takeda.com
 
 ## United Kingdom (Northern Ireland)
 
-Takeda UK Ltd
-
-Tel: +44 (0) 2830 640 902
+Takeda UK Ltd Tel: +44 (0) 2830 640 902
 
 medinfoEMEA@takeda.com

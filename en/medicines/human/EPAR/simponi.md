@@ -1,17 +1,17 @@
 ---
-document_datetime: 2026-01-21 16:36:00
+document_datetime: 2026-01-30 17:20:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/simponi.html
 document_name: simponi.html
 version: success
-processing_time: 0.1740049
-conversion_datetime: 2026-01-22 21:24:58.35573
+processing_time: 0.174733
+conversion_datetime: 2026-02-01 20:09:56.704286
 docling_version:
-  docling-serve: 1.10.0
-  docling-jobkit: 1.8.1
-  docling: 2.69.0
-  docling-core: 2.60.0
-  docling-ibm-models: 3.10.3
+  docling-serve: 1.11.0
+  docling-jobkit: 1.9.1
+  docling: 2.71.0
+  docling-core: 2.62.0
+  docling-ibm-models: 3.11.0
   docling-parse: 4.7.3
   python: cpython-313 (3.13.11)
   plaform: macOS-26.2-arm64-arm-64bit-Mach-O
@@ -141,7 +141,7 @@ English (EN) (91.92 KB - PDF)
 
 [View](/en/documents/overview/simponi-epar-summary-public_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-640)
+[Other languages (22)](#file-language-dropdown-66)
 
 български (BG) (136.27 KB - PDF)
 
@@ -409,11 +409,11 @@ svenska (SV) (110.26 KB - PDF)
 
 Simponi : EPAR - Risk management plan
 
-English (EN) (1.2 MB - PDF)
+English (EN) (1.31 MB - PDF)
 
 **First published:** 23/10/2018
 
-**Last updated:** 15/12/2023
+**Last updated:** 30/01/2026
 
 [View](/en/documents/rmp/simponi-epar-risk-management-plan_en.pdf)
 
@@ -421,17 +421,17 @@ English (EN) (1.2 MB - PDF)
 
 Simponi : EPAR - Product information
 
-English (EN) (5.97 MB - PDF)
+English (EN) (6.26 MB - PDF)
 
 **First published:** 20/10/2009
 
-**Last updated:** 15/10/2025
+**Last updated:** 30/01/2026
 
 [View](/en/documents/product-information/simponi-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-57)
+[Other languages (24)](#file-language-dropdown-631)
 
-български (BG) (3.92 MB - PDF)
+български (BG) (4.25 MB - PDF)
 
 **First published:**
 
@@ -439,11 +439,11 @@ English (EN) (5.97 MB - PDF)
 
 **Last updated:**
 
-15/10/2025
+30/01/2026
 
 [View](/bg/documents/product-information/simponi-epar-product-information_bg.pdf)
 
-español (ES) (4.2 MB - PDF)
+español (ES) (5.26 MB - PDF)
 
 **First published:**
 
@@ -451,11 +451,11 @@ español (ES) (4.2 MB - PDF)
 
 **Last updated:**
 
-15/10/2025
+30/01/2026
 
 [View](/es/documents/product-information/simponi-epar-product-information_es.pdf)
 
-čeština (CS) (4.91 MB - PDF)
+čeština (CS) (5.54 MB - PDF)
 
 **First published:**
 
@@ -463,11 +463,11 @@ español (ES) (4.2 MB - PDF)
 
 **Last updated:**
 
-15/10/2025
+30/01/2026
 
 [View](/cs/documents/product-information/simponi-epar-product-information_cs.pdf)
 
-dansk (DA) (4.82 MB - PDF)
+dansk (DA) (5.16 MB - PDF)
 
 **First published:**
 
@@ -475,7 +475,7 @@ dansk (DA) (4.82 MB - PDF)
 
 **Last updated:**
 
-15/10/2025
+30/01/2026
 
 [View](/da/documents/product-information/simponi-epar-product-information_da.pdf)
 
@@ -487,11 +487,11 @@ Deutsch (DE) (4.68 MB - PDF)
 
 **Last updated:**
 
-15/10/2025
+30/01/2026
 
 [View](/de/documents/product-information/simponi-epar-product-information_de.pdf)
 
-eesti keel (ET) (4.16 MB - PDF)
+eesti keel (ET) (4.11 MB - PDF)
 
 **First published:**
 
@@ -499,11 +499,11 @@ eesti keel (ET) (4.16 MB - PDF)
 
 **Last updated:**
 
-15/10/2025
+30/01/2026
 
 [View](/et/documents/product-information/simponi-epar-product-information_et.pdf)
 
-ελληνικά (EL) (3.97 MB - PDF)
+ελληνικά (EL) (4.27 MB - PDF)
 
 **First published:**
 
@@ -511,11 +511,11 @@ eesti keel (ET) (4.16 MB - PDF)
 
 **Last updated:**
 
-15/10/2025
+30/01/2026
 
 [View](/el/documents/product-information/simponi-epar-product-information_el.pdf)
 
-français (FR) (3.29 MB - PDF)
+français (FR) (3.58 MB - PDF)
 
 **First published:**
 
@@ -523,11 +523,11 @@ français (FR) (3.29 MB - PDF)
 
 **Last updated:**
 
-15/10/2025
+30/01/2026
 
 [View](/fr/documents/product-information/simponi-epar-product-information_fr.pdf)
 
-hrvatski (HR) (4.59 MB - PDF)
+hrvatski (HR) (4.99 MB - PDF)
 
 **First published:**
 
@@ -535,11 +535,11 @@ hrvatski (HR) (4.59 MB - PDF)
 
 **Last updated:**
 
-15/10/2025
+30/01/2026
 
 [View](/hr/documents/product-information/simponi-epar-product-information_hr.pdf)
 
-íslenska (IS) (4.04 MB - PDF)
+íslenska (IS) (4.67 MB - PDF)
 
 **First published:**
 
@@ -547,11 +547,11 @@ hrvatski (HR) (4.59 MB - PDF)
 
 **Last updated:**
 
-15/10/2025
+30/01/2026
 
 [View](/is/documents/product-information/simponi-epar-product-information_is.pdf)
 
-italiano (IT) (3.2 MB - PDF)
+italiano (IT) (3.57 MB - PDF)
 
 **First published:**
 
@@ -559,11 +559,11 @@ italiano (IT) (3.2 MB - PDF)
 
 **Last updated:**
 
-15/10/2025
+30/01/2026
 
 [View](/it/documents/product-information/simponi-epar-product-information_it.pdf)
 
-latviešu valoda (LV) (4.21 MB - PDF)
+latviešu valoda (LV) (4.69 MB - PDF)
 
 **First published:**
 
@@ -571,11 +571,11 @@ latviešu valoda (LV) (4.21 MB - PDF)
 
 **Last updated:**
 
-15/10/2025
+30/01/2026
 
 [View](/lv/documents/product-information/simponi-epar-product-information_lv.pdf)
 
-lietuvių kalba (LT) (4.29 MB - PDF)
+lietuvių kalba (LT) (4.6 MB - PDF)
 
 **First published:**
 
@@ -583,11 +583,11 @@ lietuvių kalba (LT) (4.29 MB - PDF)
 
 **Last updated:**
 
-15/10/2025
+30/01/2026
 
 [View](/lt/documents/product-information/simponi-epar-product-information_lt.pdf)
 
-magyar (HU) (3.89 MB - PDF)
+magyar (HU) (4.23 MB - PDF)
 
 **First published:**
 
@@ -595,11 +595,11 @@ magyar (HU) (3.89 MB - PDF)
 
 **Last updated:**
 
-15/10/2025
+30/01/2026
 
 [View](/hu/documents/product-information/simponi-epar-product-information_hu.pdf)
 
-Malti (MT) (4.81 MB - PDF)
+Malti (MT) (5.23 MB - PDF)
 
 **First published:**
 
@@ -607,11 +607,11 @@ Malti (MT) (4.81 MB - PDF)
 
 **Last updated:**
 
-15/10/2025
+30/01/2026
 
 [View](/mt/documents/product-information/simponi-epar-product-information_mt.pdf)
 
-Nederlands (NL) (4.11 MB - PDF)
+Nederlands (NL) (4.43 MB - PDF)
 
 **First published:**
 
@@ -619,11 +619,11 @@ Nederlands (NL) (4.11 MB - PDF)
 
 **Last updated:**
 
-15/10/2025
+30/01/2026
 
 [View](/nl/documents/product-information/simponi-epar-product-information_nl.pdf)
 
-norsk (NO) (4.63 MB - PDF)
+norsk (NO) (4.98 MB - PDF)
 
 **First published:**
 
@@ -631,11 +631,11 @@ norsk (NO) (4.63 MB - PDF)
 
 **Last updated:**
 
-15/10/2025
+30/01/2026
 
 [View](/no/documents/product-information/simponi-epar-product-information_no.pdf)
 
-polski (PL) (4.47 MB - PDF)
+polski (PL) (4.8 MB - PDF)
 
 **First published:**
 
@@ -643,11 +643,11 @@ polski (PL) (4.47 MB - PDF)
 
 **Last updated:**
 
-15/10/2025
+30/01/2026
 
 [View](/pl/documents/product-information/simponi-epar-product-information_pl.pdf)
 
-português (PT) (3.75 MB - PDF)
+português (PT) (4.04 MB - PDF)
 
 **First published:**
 
@@ -655,11 +655,11 @@ português (PT) (3.75 MB - PDF)
 
 **Last updated:**
 
-15/10/2025
+30/01/2026
 
 [View](/pt/documents/product-information/simponi-epar-product-information_pt.pdf)
 
-română (RO) (3.86 MB - PDF)
+română (RO) (4.22 MB - PDF)
 
 **First published:**
 
@@ -667,11 +667,11 @@ română (RO) (3.86 MB - PDF)
 
 **Last updated:**
 
-15/10/2025
+30/01/2026
 
 [View](/ro/documents/product-information/simponi-epar-product-information_ro.pdf)
 
-slovenčina (SK) (6.24 MB - PDF)
+slovenčina (SK) (6.58 MB - PDF)
 
 **First published:**
 
@@ -679,11 +679,11 @@ slovenčina (SK) (6.24 MB - PDF)
 
 **Last updated:**
 
-15/10/2025
+30/01/2026
 
 [View](/sk/documents/product-information/simponi-epar-product-information_sk.pdf)
 
-slovenščina (SL) (4.28 MB - PDF)
+slovenščina (SL) (4.57 MB - PDF)
 
 **First published:**
 
@@ -691,11 +691,11 @@ slovenščina (SL) (4.28 MB - PDF)
 
 **Last updated:**
 
-15/10/2025
+30/01/2026
 
 [View](/sl/documents/product-information/simponi-epar-product-information_sl.pdf)
 
-Suomi (FI) (3.97 MB - PDF)
+Suomi (FI) (4.32 MB - PDF)
 
 **First published:**
 
@@ -703,11 +703,11 @@ Suomi (FI) (3.97 MB - PDF)
 
 **Last updated:**
 
-15/10/2025
+30/01/2026
 
 [View](/fi/documents/product-information/simponi-epar-product-information_fi.pdf)
 
-svenska (SV) (3.29 MB - PDF)
+svenska (SV) (3.79 MB - PDF)
 
 **First published:**
 
@@ -715,11 +715,11 @@ svenska (SV) (3.29 MB - PDF)
 
 **Last updated:**
 
-15/10/2025
+30/01/2026
 
 [View](/sv/documents/product-information/simponi-epar-product-information_sv.pdf)
 
-**Latest procedure affecting product information:** T/0000294611 09/10/2025
+**Latest procedure affecting product information:** II/0121 19/01/2026
 
 icon globe
 
@@ -745,7 +745,7 @@ English (EN) (35.59 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/simponi-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-969)
+[Other languages (24)](#file-language-dropdown-957)
 
 български (BG) (31.9 KB - PDF)
 
@@ -795,7 +795,7 @@ dansk (DA) (29.83 KB - PDF)
 
 [View](/da/documents/all-authorised-presentations/simponi-epar-all-authorised-presentations_da.pdf)
 
-Deutsch (DE) (29.74 KB - PDF)
+Deutsch (DE) (28.26 KB - PDF)
 
 **First published:**
 
@@ -803,7 +803,7 @@ Deutsch (DE) (29.74 KB - PDF)
 
 **Last updated:**
 
-13/03/2019
+30/01/2026
 
 [View](/de/documents/all-authorised-presentations/simponi-epar-all-authorised-presentations_de.pdf)
 
@@ -1045,7 +1045,7 @@ English (EN) (24.75 KB - PDF)
 
 [View](/en/documents/conditions-member-states/simponi-epar-conditions-imposed-member-states-safe-and-effective-use-annex-iv_en.pdf)
 
-[Other languages (21)](#file-language-dropdown-80)
+[Other languages (21)](#file-language-dropdown-46)
 
 български (BG) (90.24 KB - PDF)
 
@@ -1345,6 +1345,8 @@ Simponi is indicated for the treatment of adults with severe, active non radiogr
 
 Simponi is indicated for treatment of moderately to severely active ulcerative colitis in adult patients who have had an inadequate response to conventional therapy including corticosteroids and 6 mercaptopurine (6 MP) or azathioprine (AZA), or who are intolerant to or have medical contraindications for such therapies.
 
+**Ulcerative colitis Paediatric ulcerative colitis (pUC)** Simponi is indicated for the treatment of moderately to severely active ulcerative colitis in paediatric patients 2 years of age and older with a body weight of at least 15  kg, who have had an inadequate response to conventional therapy, including corticosteroids and 6-mercaptopurine (6-MP) or azathioprine (AZA), or who are intolerant to or have medical contraindications for such therapies.
+
 **Juvenile idiopathic arthritis**
 
 ***Polyarticular juvenile idiopathic arthritis (pJIA)***
@@ -1392,7 +1394,7 @@ Janssen Cilag International NV
 
 Turnhoutseweg 30
 
-Marketing authorisation issued 01/10/2009 Revision 53
+Marketing authorisation issued 01/10/2009 Revision 54
 
 ## Assessment history
 
@@ -1412,13 +1414,25 @@ English (EN) (121.63 KB - PDF)
 
 Simponi : EPAR - Procedural steps taken and scientific information after authorisation (archive)
 
-English (EN) (224.57 KB - PDF)
+English (EN) (443.64 KB - PDF)
 
 **First published:** 19/04/2010
 
-**Last updated:** 15/10/2025
+**Last updated:** 30/01/2026
 
 [View](/en/documents/procedural-steps-after/simponi-epar-procedural-steps-taken-scientific-information-after-authorisation-archive_en.pdf)
+
+Simponi-H-C-000992-II-0121 : EPAR - Assessment report
+
+Adopted
+
+Reference Number: EMA/8289/2026
+
+English (EN) (4.28 MB - PDF)
+
+**First published:** 30/01/2026
+
+[View](/en/documents/variation-report/simponi-h-c-000992-ii-0121-epar-assessment-report_en.pdf)
 
 Simponi-H-C-000992-II-0113 : EPAR - Assessment report
 
@@ -1429,6 +1443,18 @@ English (EN) (1.16 MB - PDF)
 **First published:** 21/01/2026
 
 [View](/en/documents/variation-report/simponi-h-c-000992-ii-0113-epar-assessment-report_en.pdf)
+
+CHMP post-authorisation summary of positive opinion for Simponi (II-121)
+
+Adopted
+
+Reference Number: EMA/CHMP/378614/2025
+
+English (EN) (206.94 KB - PDF)
+
+**First published:** 12/12/2025
+
+[View](/en/documents/smop/chmp-post-authorisation-summary-positive-opinion-simponi-ii-121_en.pdf)
 
 Simponi-H-C-992-P46-038 : EPAR - Assessment Report
 
@@ -1672,203 +1698,301 @@ The approved product information for this medicine is available below showing th
 
 Simponi : EPAR - Product information - tracked changes
 
-English (EN) (4.23 MB - DOCX)
+English (EN) (4.48 MB - DOCX)
 
 **First published:** 15/10/2025
 
+**Last updated:** 30/01/2026
+
 [View](/en/documents/product-information-tracked-changes/simponi-epar-product-information-tracked-changes_en.docx)
 
-[Other languages (24)](#file-language-dropdown-664)
+[Other languages (24)](#file-language-dropdown-874)
 
-български (BG) (3.98 MB - DOCX)
+български (BG) (4.28 MB - DOCX)
 
 **First published:**
 
 15/10/2025
+
+**Last updated:**
+
+30/01/2026
 
 [View](/bg/documents/product-information-tracked-changes/simponi-epar-product-information-tracked-changes_bg.docx)
 
-español (ES) (2 MB - DOCX)
+español (ES) (2.3 MB - DOCX)
 
 **First published:**
 
 15/10/2025
+
+**Last updated:**
+
+30/01/2026
 
 [View](/es/documents/product-information-tracked-changes/simponi-epar-product-information-tracked-changes_es.docx)
 
-čeština (CS) (2.88 MB - DOCX)
+čeština (CS) (3.19 MB - DOCX)
 
 **First published:**
 
 15/10/2025
+
+**Last updated:**
+
+30/01/2026
 
 [View](/cs/documents/product-information-tracked-changes/simponi-epar-product-information-tracked-changes_cs.docx)
 
-dansk (DA) (3.93 MB - DOCX)
+dansk (DA) (4.3 MB - DOCX)
 
 **First published:**
 
 15/10/2025
+
+**Last updated:**
+
+30/01/2026
 
 [View](/da/documents/product-information-tracked-changes/simponi-epar-product-information-tracked-changes_da.docx)
 
-Deutsch (DE) (3.13 MB - DOCX)
+Deutsch (DE) (3.4 MB - DOCX)
 
 **First published:**
 
 15/10/2025
+
+**Last updated:**
+
+30/01/2026
 
 [View](/de/documents/product-information-tracked-changes/simponi-epar-product-information-tracked-changes_de.docx)
 
-eesti keel (ET) (2.88 MB - DOCX)
+eesti keel (ET) (3.18 MB - DOCX)
 
 **First published:**
 
 15/10/2025
+
+**Last updated:**
+
+30/01/2026
 
 [View](/et/documents/product-information-tracked-changes/simponi-epar-product-information-tracked-changes_et.docx)
 
-ελληνικά (EL) (3.12 MB - DOCX)
+ελληνικά (EL) (3.26 MB - DOCX)
 
 **First published:**
 
 15/10/2025
+
+**Last updated:**
+
+30/01/2026
 
 [View](/el/documents/product-information-tracked-changes/simponi-epar-product-information-tracked-changes_el.docx)
 
-français (FR) (2.28 MB - DOCX)
+français (FR) (2.43 MB - DOCX)
 
 **First published:**
 
 15/10/2025
+
+**Last updated:**
+
+30/01/2026
 
 [View](/fr/documents/product-information-tracked-changes/simponi-epar-product-information-tracked-changes_fr.docx)
 
-hrvatski (HR) (4.56 MB - DOCX)
+hrvatski (HR) (4.93 MB - DOCX)
 
 **First published:**
 
 15/10/2025
+
+**Last updated:**
+
+30/01/2026
 
 [View](/hr/documents/product-information-tracked-changes/simponi-epar-product-information-tracked-changes_hr.docx)
 
-íslenska (IS) (3.95 MB - DOCX)
+íslenska (IS) (4.6 MB - DOCX)
 
 **First published:**
 
 15/10/2025
+
+**Last updated:**
+
+30/01/2026
 
 [View](/is/documents/product-information-tracked-changes/simponi-epar-product-information-tracked-changes_is.docx)
 
-italiano (IT) (2.49 MB - DOCX)
+italiano (IT) (2.51 MB - DOCX)
 
 **First published:**
 
 15/10/2025
+
+**Last updated:**
+
+30/01/2026
 
 [View](/it/documents/product-information-tracked-changes/simponi-epar-product-information-tracked-changes_it.docx)
 
-latviešu valoda (LV) (4.23 MB - DOCX)
+latviešu valoda (LV) (4.49 MB - DOCX)
 
 **First published:**
 
 15/10/2025
+
+**Last updated:**
+
+30/01/2026
 
 [View](/lv/documents/product-information-tracked-changes/simponi-epar-product-information-tracked-changes_lv.docx)
 
-lietuvių kalba (LT) (3.77 MB - DOCX)
+lietuvių kalba (LT) (4.03 MB - DOCX)
 
 **First published:**
 
 15/10/2025
+
+**Last updated:**
+
+30/01/2026
 
 [View](/lt/documents/product-information-tracked-changes/simponi-epar-product-information-tracked-changes_lt.docx)
 
-magyar (HU) (4 MB - DOCX)
+magyar (HU) (4.3 MB - DOCX)
 
 **First published:**
 
 15/10/2025
+
+**Last updated:**
+
+30/01/2026
 
 [View](/hu/documents/product-information-tracked-changes/simponi-epar-product-information-tracked-changes_hu.docx)
 
-Malti (MT) (4.21 MB - DOCX)
+Malti (MT) (4.47 MB - DOCX)
 
 **First published:**
 
 15/10/2025
+
+**Last updated:**
+
+30/01/2026
 
 [View](/mt/documents/product-information-tracked-changes/simponi-epar-product-information-tracked-changes_mt.docx)
 
-Nederlands (NL) (4.6 MB - DOCX)
+Nederlands (NL) (4.82 MB - DOCX)
 
 **First published:**
 
 15/10/2025
+
+**Last updated:**
+
+30/01/2026
 
 [View](/nl/documents/product-information-tracked-changes/simponi-epar-product-information-tracked-changes_nl.docx)
 
-norsk (NO) (4.2 MB - DOCX)
+norsk (NO) (4.59 MB - DOCX)
 
 **First published:**
 
 15/10/2025
+
+**Last updated:**
+
+30/01/2026
 
 [View](/no/documents/product-information-tracked-changes/simponi-epar-product-information-tracked-changes_no.docx)
 
-polski (PL) (4.08 MB - DOCX)
+polski (PL) (4.6 MB - DOCX)
 
 **First published:**
 
 15/10/2025
+
+**Last updated:**
+
+30/01/2026
 
 [View](/pl/documents/product-information-tracked-changes/simponi-epar-product-information-tracked-changes_pl.docx)
 
-português (PT) (3.8 MB - DOCX)
+português (PT) (4.03 MB - DOCX)
 
 **First published:**
 
 15/10/2025
+
+**Last updated:**
+
+30/01/2026
 
 [View](/pt/documents/product-information-tracked-changes/simponi-epar-product-information-tracked-changes_pt.docx)
 
-română (RO) (3.68 MB - DOCX)
+română (RO) (3.97 MB - DOCX)
 
 **First published:**
 
 15/10/2025
+
+**Last updated:**
+
+30/01/2026
 
 [View](/ro/documents/product-information-tracked-changes/simponi-epar-product-information-tracked-changes_ro.docx)
 
-slovenčina (SK) (4.42 MB - DOCX)
+slovenčina (SK) (4.69 MB - DOCX)
 
 **First published:**
 
 15/10/2025
+
+**Last updated:**
+
+30/01/2026
 
 [View](/sk/documents/product-information-tracked-changes/simponi-epar-product-information-tracked-changes_sk.docx)
 
-slovenščina (SL) (3.93 MB - DOCX)
+slovenščina (SL) (4.17 MB - DOCX)
 
 **First published:**
 
 15/10/2025
+
+**Last updated:**
+
+30/01/2026
 
 [View](/sl/documents/product-information-tracked-changes/simponi-epar-product-information-tracked-changes_sl.docx)
 
-Suomi (FI) (3.91 MB - DOCX)
+Suomi (FI) (4.57 MB - DOCX)
 
 **First published:**
 
 15/10/2025
+
+**Last updated:**
+
+30/01/2026
 
 [View](/fi/documents/product-information-tracked-changes/simponi-epar-product-information-tracked-changes_fi.docx)
 
-svenska (SV) (2.2 MB - DOCX)
+svenska (SV) (2.46 MB - DOCX)
 
 **First published:**
 
 15/10/2025
+
+**Last updated:**
+
+30/01/2026
 
 [View](/sv/documents/product-information-tracked-changes/simponi-epar-product-information-tracked-changes_sv.docx)
 
@@ -1878,7 +2002,6 @@ svenska (SV) (2.2 MB - DOCX)
 - [EMEA-000265-PIP02-11-M04 - paediatric investigation plan](/en/medicines/human/paediatric-investigation-plans/emea-000265-pip02-11-m04)
 - [Simponi - withdrawal of application for variation to marketing authorisation](/en/medicines/human/variation/simponi)
 - [Simponi - direct healthcare professional communication (DHPC)](/en/medicines/dhpc/simponi)
-- [Simponi - opinion on variation to marketing authorisation](/en/medicines/human/variation/simponi-0)
 - [A Non-interventional Observational Longitudinal Post-Authorization Safety Study (PASS) of SIMPONI® in Treatment of Ulcerative Colitis using Nordic National Health Registries (MK-8259-013) - post-authorisation study](https://catalogues.ema.europa.eu/study/50508)
 - [Shortening the time to confirm or to rebut Adverse events of interest related to innovative Therapies for immune-mediated inflammATory dIseases: cross-talking between different data sOURces. SATURATIOn study. - post-authorisation study](https://catalogues.ema.europa.eu/study/1000000207)
 - [Pharmacovigilance In Juvenile Idiopathic Arthritis Patients Treated With Biologic Agents And/Or Methotrexate. A Pediatric Rheumatology International Trials Organisation (PRINTO)/Pediatric Rheumatology European Society (PRES) Registry (Pharmachild JIA registry) - post-authorisation study](https://catalogues.ema.europa.eu/study/49777)
@@ -1889,7 +2012,7 @@ svenska (SV) (2.2 MB - DOCX)
 
 - [Medicines](https://www.ema.europa.eu/en/search?f%5B0%5D=ema_search_topics%3A61)
 
-**This page was last updated on** 21/01/2026
+**This page was last updated on** 30/01/2026
 
 ## Share this page
 

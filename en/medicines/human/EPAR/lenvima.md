@@ -1,18 +1,18 @@
 ---
-document_datetime: 2025-12-29 12:05:25
+document_datetime: 2026-01-30 17:02:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/lenvima.html
 document_name: lenvima.html
 version: success
-processing_time: 0.1206324
-conversion_datetime: 2025-12-31 04:35:19.753706
+processing_time: 0.1310535
+conversion_datetime: 2026-02-01 20:47:24.340749
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.66.0
-  docling-core: 2.57.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.11.0
+  docling-jobkit: 1.9.1
+  docling: 2.71.0
+  docling-core: 2.62.0
+  docling-ibm-models: 3.11.0
+  docling-parse: 4.7.3
   python: cpython-313 (3.13.11)
   plaform: macOS-26.2-arm64-arm-64bit-Mach-O
 ---
@@ -25,8 +25,6 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 lenvatinib Medicine Human Authorised
-
-On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -122,7 +120,7 @@ English (EN) (145.19 KB - PDF)
 
 [View](/en/documents/overview/lenvima-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-455)
+[Other languages (22)](#file-language-dropdown-934)
 
 български (BG) (166.66 KB - PDF)
 
@@ -410,7 +408,7 @@ English (EN) (566.4 KB - PDF)
 
 [View](/en/documents/product-information/lenvima-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-928)
+[Other languages (24)](#file-language-dropdown-207)
 
 български (BG) (639.61 KB - PDF)
 
@@ -726,7 +724,7 @@ English (EN) (35.5 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/lenvima-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-677)
+[Other languages (24)](#file-language-dropdown-782)
 
 български (BG) (31.23 KB - PDF)
 
@@ -1044,7 +1042,7 @@ Eisai GmbH
 
 Edmund-Rumpler-Straße 3
 
-Opinion adopted 26/03/2015 Marketing authorisation issued 28/05/2015 Revision 26
+Opinion adopted 26/03/2015 Marketing authorisation issued 28/05/2015 Revision 27
 
 ## Assessment history
 
@@ -1071,6 +1069,18 @@ English (EN) (254.47 KB - PDF)
 **Last updated:** 22/04/2025
 
 [View](/en/documents/procedural-steps-after/lenvima-epar-procedural-steps-taken-scientific-information-after-authorisation-archive_en.pdf)
+
+Lenvima-PAM-0000279817 : Assessment report - Variation
+
+Adopted
+
+Reference Number: EMADOC-1700519818-2219662
+
+English (EN) (1.34 MB - PDF)
+
+**First published:** 30/01/2026
+
+[View](/en/documents/variation-report/lenvima-pam-0000279817-assessment-report-variation_en.pdf)
 
 Lenvima-H-C-003727-P46-023 : EPAR - Assessment report
 
@@ -1226,7 +1236,7 @@ Lenvima for treatment of papillary thyroid cancer and treatment of follicular th
 
 - [Medicines](https://www.ema.europa.eu/en/search?f%5B0%5D=ema_search_topics%3A61)
 
-**This page was last updated on** 22/04/2025
+**This page was last updated on** 30/01/2026
 
 ## Share this page
 

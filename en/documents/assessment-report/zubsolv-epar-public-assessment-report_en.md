@@ -1,24 +1,24 @@
 ---
-document_datetime: 2023-09-21 17:52:22
-document_pages: 46
+document_datetime: 2026-01-29 15:09:10
+document_pages: 45
 document_pathfilename: www.ema.europa.eu/en/documents/assessment-report/zubsolv-epar-public-assessment-report_en.pdf
 document_name: zubsolv-epar-public-assessment-report_en.pdf
 version: success
-processing_time: 20.608744
-conversion_datetime: 2025-12-24 03:51:10.439756
+processing_time: 20.6668672
+conversion_datetime: 2026-02-01 20:18:46.978849
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.64.1
-  docling-core: 2.55.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.11.0
+  docling-jobkit: 1.9.1
+  docling: 2.71.0
+  docling-core: 2.62.0
+  docling-ibm-models: 3.11.0
+  docling-parse: 4.7.3
   python: cpython-313 (3.13.11)
   plaform: macOS-26.2-arm64-arm-64bit-Mach-O
 ---
-14 September 2017 EMA/659116/2017
+<!-- image -->
 
-Committee for Medicinal Products for Human Use (CHMP)
+14 September 2017 EMA/CHMP/12714/2026 Committee for Medicinal Products for Human Use (CHMP)
 
 ## Assessment report
 
@@ -31,8 +31,6 @@ Procedure No. EMEA/H/C/004407/0000
 ## Note
 
 Assessment report as adopted by the CHMP with all information of a commercially confidential nature deleted.
-
-<!-- image -->
 
 <!-- image -->
 
@@ -70,13 +68,13 @@ Assessment report as adopted by the CHMP with all information of a commercially 
 | 2.4. Quality aspects ..................................................................................................11   |
 | 2.5. Non-clinical aspects ............................................................................................18    |
 | 2.6. Clinical aspects ..................................................................................................21  |
-| 2.7. Risk Management Plan........................................................................................38         |
+| 2.7. Risk Management Plan ........................................................................................38        |
 | 2.8. Pharmacovigilance..............................................................................................40      |
 | 2.9. Product information ............................................................................................41     |
 | 3. Benefit-risk balance ..............................................................................41                    |
 | 3.1. Therapeutic Context ........................................................................................41         |
 | 3.2. Favourable effects ..............................................................................................42    |
-| 3.3. Uncertainties and limitations about favourable effects.............................................43                  |
+| 3.3. Uncertainties and limitations about favourable effects .............................................43                 |
 | 3.4. Unfavourable effects...........................................................................................43      |
 | 3.5. Uncertainties and limitations about unfavourable effects .........................................43                   |
 | 3.6. Benefit-risk assessment and discussion.................................................................44              |
@@ -237,13 +235,15 @@ Time to maximum plasma concentration
 
 US United States USP/NF       United States Pharmacopoeia/National Formulary UV Ultraviolet XR(P)D X-Ray (Powder) Diffraction VAS Visual Analogue Scale
 
+Assessment report
+
 <div style=\"page-break-after: always\"></div>
 
 ## 1. Background information on the procedure
 
 ## 1.1. Submission of the dossier
 
-The applicant Mundipharma Corporation Limited submitted on 3 October 2016 an application for marketing authorisation to the European Medicines Agency (EMA) for Zubsolv, through the centralised procedure under Article 3 (3) of Regulation (EC) No. 726/2004- 'Generic of a Centrally authorised product'. The eligibility to the centralised procedure was agreed upon by the EMA/CHMP on 25 February 2016
+The applicant Mundipharma Corporation Limited submitted on 3 October 2016 an application for marketing authorisation to the European Medicines Agency (EMA) for Zubsolv, through the centralised procedure under Article 3 (3) of Regulation (EC) No. 726/2004 -'Generic of a Centrally authorised product'. The eligibility to the centralised procedure was agreed upon by the EMA/CHMP on 25 February 2016
 
 The application concerns a hybrid medicinal product as defined in Article 10(2)(b) of Directive 2001/83/EC and refers to a reference product for which a marketing authorisation is or has been granted in the Union on the basis of a complete dossier in accordance with Article 10b of Directive 2001/83/EC.
 
@@ -307,7 +307,7 @@ The applicant did not seek scientific advice at the CHMP.
 
 The Rapporteur and Co-Rapporteur appointed by the CHMP were:
 
-Rapporteur: Patrick Salmon Co-Rapporteur:  Radka Montoniová
+Rapporteur: Patrick Salmon Co-Rapporteur: Radka Montoniová
 
 - The application was received by the EMA on 3 October 2016.
 - The procedure started on 27 October 2016.
@@ -333,7 +333,7 @@ Opioid dependence is associated with considerable health risks and severe econom
 
 ## 2.1.2. Epidemiology
 
-In Europe there are 1.3 million adult problem opioid users.  The main opioid used is heroin, with an estimated 37,800 heroin use/possession offences and 17,000 heroin supply offences reported in 2013 (European Monitoring Centre for Drugs and Drug Addiction: EMCDDA, 2015). An estimated 700,000 opioid  users  received  substitution  treatment  in  2013;  opioids  were  the  principal  drugs  reported  in approximately 41% of all drug treatment requests. For the same year, average annual prevalence of high-risk opioid use among individuals aged 15 to 64 years was around 0.4% (4 per 1,000 population) although prevalence estimates vary among EU countries from less than 1 to around 8 cases per 1,000 population aged 15 to 64 years.
+In Europe there are 1.3 million adult problem opioid users.  The main opioid used is heroin, with an estimated 37,800 heroin use/possession offences and 17,000 heroin supply offences reported in 2013 (European Monitoring Centre for Drugs and Drug Addiction: EMCDDA, 2015).  An estimated 700,000 opioid  users  received  substitution  treatment  in  2013;  opioids  were  the  principal  drugs  reported  in approximately 41% of all drug treatment requests. For the same year, average annual prevalence of high-risk opioid use among individuals aged 15 to 64 years was around 0.4% (4 per 1,000 population) although prevalence estimates vary among EU countries from less than 1 to around 8 cases per 1,000 population aged 15 to 64 years.
 
 <div style=\"page-break-after: always\"></div>
 
@@ -341,11 +341,11 @@ In Europe there are 1.3 million adult problem opioid users.  The main opioid use
 
 World Health Organisation guidelines for treatment of opioid dependence recommend a combination of both  pharmacological  and  psychosocial  interventions,  with  the  following  aims:  reducing  or  ceasing opioid use, preventing future harms associated with opioid use, and improving the quality of life and well-being of the opioid-dependent patient (WHO 2009).
 
-Opioid substitution is recognised as an effective therapy for keeping patients in treatment programmes and reducing the use of illicit opioids. The principle is to replace the opioid of abuse with a more longacting  opioid  which  will  not  give  a  rush  or  a  high  but  will  relieve  the  opioid-dependent  person  of cravings  and  enable  return  to  a  more  normal  life.  Those  μ-receptor  agonists  with  a  rapid  onset  of action  and  short  half-life  (e.g.,  heroin)  are  the  main  opioid  drugs  of  abuse,  having  the  greatest potential to engender destructive behaviour, because addicted individuals obtain an immediate reward, and the drive to further use is accentuated by rapid and severe withdrawal symptoms.
+Opioid substitution is recognised as an effective therapy for keeping patients in treatment programmes and reducing the use of illicit opioids. The principle is to replace the opioid of abuse with a more longacting  opioid  which  will  not  give  a  rush  or  a  high  but  will  relieve  the  opioid-dependent  person  of cravings  and  enable  return  to  a  more  normal  life.  Those  μ -receptor  agonists  with  a  rapid  onset  of action  and  short  half-life  (e.g.,  heroin)  are  the  main  opioid  drugs  of  abuse,  having  the  greatest potential to engender destructive behaviour, because addicted individuals obtain an immediate reward, and the drive to further use is accentuated by rapid and severe withdrawal symptoms.
 
-In contrast, μ-receptor agonists with a slower onset of action and longer half-life, such as the synthetic opioid  methadone,  cause  physical  dependence  without  necessarily  providing  such  a  potent  stimulus towards addictive behaviour. Methadone (which can be dosed once daily) has little impact on mood, judgment, and psychomotor skills in opioid-tolerant patients, and was thus a mainstay of treatment of opioid dependence for many years. However, the combination of its long terminal half-life and potent full μ-opioid receptor agonism is associated with toxicity problems and fatal.
+In contrast, μ -receptor agonists with a slower onset of action and longer half-life, such as the synthetic opioid  methadone,  cause  physical  dependence  without  necessarily  providing  such  a  potent  stimulus towards addictive behaviour. Methadone (which can be dosed once daily) has little impact on mood, judgment, and psychomotor skills in opioid-tolerant patients, and was thus a mainstay of treatment of opioid dependence for many years. However, the combination of its long terminal half-life and potent full μ -opioid receptor agonism is associated with toxicity problems and fatal.
 
-Buprenorphine is an alternative option for substitution therapy, administered either alone or combined with naloxone. Buprenorphine is a partial μ-receptor agonist and a ƙ -receptor antagonist, which has very  high  affinity  and  low  intrinsic  activity  at  the  μ-receptor  and  will  displace  morphine,  heroin, methadone,  and  other  opioid  full  agonists.  Its  partial  agonist  effects  give  buprenorphine  several clinically desirable pharmacological properties compared with opioid full agonists, including lower abuse potential, lower level of physical dependence (less severe withdrawal syndrome), a ceiling effect with respect to clinical effects at higher doses, and greater safety in overdose. These properties have led to widespread  use  of  buprenorphine  in  both  the  detoxification  and  maintenance  therapy  of  opioid dependent individuals. Previously administered alone, buprenorphine is now more commonly used in combination with the opioid antagonist naloxone. Naloxone  has negligible oral or sublingual bioavailability and does not reach clinically significant concentrations in the general circulation when administered orally or sublingually. The naloxone component is included to deter abuse by other routes (particularly  intravenous),  by  which  it  result  in  systemic  levels  sufficient  to  cause  unpleasant withdrawal effects.
+Buprenorphine is an alternative option for substitution therapy, administered either alone or combined with naloxone. Buprenorphine is a partial μ -receptor agonist and a ƙ -receptor antagonist, which has very  high  affinity  and  low  intrinsic  activity  at  the  μ -receptor  and  will  displace  morphine,  heroin, methadone,  and  other  opioid  full  agonists.  Its  partial  agonist  effects  give  buprenorphine  several clinically desirable pharmacological properties compared with opioid full agonists, including lower abuse potential, lower level of physical dependence (less severe withdrawal syndrome), a ceiling effect with respect to clinical effects at higher doses, and greater safety in overdose. These properties have led to widespread  use  of  buprenorphine  in  both  the  detoxification  and  maintenance  therapy  of  opioid dependent individuals. Previously administered alone, buprenorphine is now more commonly used in combination  with the opioid antagonist naloxone. Naloxone  has  negligible oral or sublingual bioavailability and does not reach clinically significant concentrations in the general circulation when administered orally or sublingually. The naloxone component is included to deter abuse by other routes (particularly  intravenous),  by  which  it  result  in  systemic  levels  sufficient  to  cause  unpleasant withdrawal effects.
 
 In  the  EU,  buprenorphine  only  (Subutex)  was  first  approved  for  use  in  France  in  1996  and subsequently in other European countries, and the buprenorphine and naloxone combination Suboxone was  first  approved  in  the  EU  via  the  Centralised  Procedure  in  2006.  Suboxone  sublingual  tablets, containing  buprenorphine  and  naloxone  in  a  4:1  dose  ratio,  are  well  established  in  the  EU  as  a substitution  treatment  for  opioid  drug  dependence,  within  a  framework  of  medical,  social  and psychological treatment.
 
@@ -369,7 +369,7 @@ Advice from the agencies was similar in many aspects. All 3 agencies advised tha
 
 The proposal that efficacy and systemic safety could be fully bridged by a PK comparison, based on comparative  bioavailability  versus  EU-sourced  Suboxone  at  a  single  dose  strength  combined  with available dose proportionality data, was generally acceptable to the MHRA. The MPA also agreed that a bridging strategy based on PK data was acceptable but recommended PK bridging at 2 dose strengths of Zubsolv, considering the small deviations in dose proportionality in exposure parameters as well as the  deviations  from  strict  compositional  proportionality  for  the  lower  strengths  (2.9/0.71,  1.4/0.36, and 0.7/0.18 mg).
 
-Taking into consideration the above advice from the 3 agencies, Orexo proposed a revised bridging study design, based on bioavailability comparisons at the highest and second-to lowest strengths of Zubsolv to the Suboxone reference product. BfArM accepted the revised plan at the follow-up scientific advice meeting in January 2016. The PK comparisons at the highest (11.4/2.9 mg) and second-tolowest  (1.4/0.36  mg)  strengths  would  allow  for  bracketing  the  in-between  strengths  (2.9/0.71, 5.7/1.4,  and  8.6/2.1  mg).  A  biowaiver  of  strength  for  the  lowest  strength  (0.7/0.18  mg)  was considered feasible based on the directly proportional composition to the 1.4/0.36 mg strength.
+Taking into consideration the above advice from the 3 agencies, Orexo proposed a revised bridging study design, based on bioavailability comparisons at the highest and second-to lowest strengths of Zubsolv to the Suboxone reference product. BfArM accepted the revised plan at the follow-up scientific advice  meeting in  January  2016.  The  PK  comparisons  at  the  highest  (11.4/2.9  mg)  and  second-tolowest  (1.4/0.36  mg)  strengths  would  allow  for  bracketing  the  in-between  strengths  (2.9/0.71, 5.7/1.4,  and  8.6/2.1  mg).  A  biowaiver  of  strength  for  the  lowest  strength  (0.7/0.18  mg)  was considered feasible based on the directly proportional composition to the 1.4/0.36 mg strength.
 
 The  agencies  also  recommended  that  the  previous  clinical  studies  conducted  with  the  Zubsolv  FCP should be included in the MAA as supportive data.
 
@@ -385,13 +385,13 @@ Other ingredients are: mannitol, citric acid anhydrous, sodium citrate, microcry
 
 The product is available in PVC/OPA/Al/PVC // Al/PET/Paper child resistant blister cards as described in section 6.5 of the SmPC.
 
-## 2.4.2. Active  substance
+## 2.4.2. Active substance
 
 ## Buprenorphine Hydrochloride
 
 ## General information
 
-The chemical name of buprenorphine hydrochloride is (2S)-2-[17-Cyclopropylmethyl-4,5α-epoxy-3hydroxy-6-methoxy-6α,14-ethano-14α-morphinan-7α-yl]-3,3-dimethylbutan-2-ol hydrochloride corresponding to the molecular formula  C29H42ClNO4. It has a relative molecular mass of 504.1 g/mol and the following structure:
+The chemical name of buprenorphine hydrochloride is (2S)-2-[17-Cyclopropylmethyl4,5α -epoxy-3hydroxy-6-methoxy6α,14 -ethano14α -morphinan7α -yl]-3,3-dimethylbutan-2-ol hydrochloride corresponding to the molecular formula C29H42ClNO4. It has a relative molecular mass of 504.1 g/mol and the following structure:
 
 Figure 1: Buprenorphine Hydrochloride structure
 
@@ -421,7 +421,7 @@ Batch analysis data for several batches of the active substance are provided. Ce
 
 Unmicronized buprenorphine hydrochloride has a re-test period 5 years. Reference is made to the certificate of suitability.
 
-Stability data were provided for six batches of micronised active substance from the proposed manufacturers stored in the intended commercial package for 36 months under long term conditions at 25 ºC / 60% RH, for 12 months at  30 ºC / 65% RH and for up to 6 months under accelerated conditions at 40 ºC / 75% RH according to the ICH guidelines.
+Stability data were provided for six batches of micronised active substance from the proposed manufacturers stored in the intended commercial package for 36 months under long term conditions at 25 ºC / 60% RH, for 12 months at 30 ºC / 65% RH and for up to 6 months under accelerated conditions at 40 ºC / 75% RH according to the ICH guidelines.
 
 The following parameters were tested: appearance, appearance of solution, specific rotation, loss on drying, related substances and assay. The analytical procedures used are in accordance with the Ph. Eur. Monograph.
 
@@ -433,7 +433,7 @@ Based on the stability result the re-test period and storage conditions are acce
 
 ## General information
 
-The chemical name of naloxone hydrochloride dihydrate is 4,5α-Epoxy-3,14-dihydroxy-17-(prop-2enyl)morphinan-6-one hydrochloride dihydrate corresponding to the molecular formula C19H22ClNO4,2H2O. It has a relative molecular mass of 399.9 g/mol and the following structure:
+The chemical name of naloxone hydrochloride dihydrate is 4,5α -Epoxy-3,14-dihydroxy-17-(prop-2enyl)morphinan-6-one hydrochloride dihydrate corresponding to the molecular formula C19H22ClNO4,2H2O. It has a relative molecular mass of 399.9 g/mol and the following structure:
 
 <div style=\"page-break-after: always\"></div>
 
@@ -510,9 +510,9 @@ All excipients are well known pharmaceutical ingredients and their quality is co
 
 The aim was to formulate rapidly disintegrating sublingual tablet for treatment of opioid dependence. Buprenorphine and naloxone in a 4:1 ratio is approved in the EU as Suboxone sublingual tablet (EU/1/06/359).
 
-Pharmaceutical development is described in detail concerning the development of each strength; physicochemical properties of the active substance and manufacturing considerations have been taken into consideration. Satisfactory information regarding site transfers during development has been provided. Process robustness was investigated originally as a design space, but stated not to be applied in commercial production: no regulatory freedom is granted in this respect.
+Pharmaceutical development is described in detail concerning the development of each strength; physicochemical properties of the active substance and manufacturing considerations have been taken into consideration. Satisfactory information regarding site transfers during development has been provided. Process robustness was investigated originally as a design space but stated not to be applied in commercial production: no regulatory freedom is granted in this respect.
 
-Development formulations were found to have improved absorption compared to the reference product Suboxone.  Therefore lower strengths of active substances were chosen compared to the reference product.
+Development formulations were found to have improved absorption compared to the reference product Suboxone.  Therefore, lower strengths of active substances were chosen compared to the reference product.
 
 1.4/0.36 mg and 11.4/2.9 mg strengths were studied in-vivo and biowaivers were requested for the other four strengths. Using an appropriate discriminatory dissolution method, comparable rapid dissolution was observed for two tablet strengths vs. equivalent Suboxone strengths at two pHs. The lack of further comparative dissolution data with Suboxone is accepted as Zubsolv is not to be interchanged with Suboxone, as discussed in the clinical sections below. However comparability of
 
@@ -520,7 +520,7 @@ Development formulations were found to have improved absorption compared to the 
 
 in-vitro dissolution was shown for all strengths of the product within the Zubsolv product range at 3 pHs: pH 1.2, pH 4.5 and pH 5.8. Whilst some further data dissolution was provided at pH 6.8, the applicant's argumentation that such is not relevant due to the buffer effect in the sublingual cavity is accepted. As bioequivalence failed at the low concentration blend, the biowaiver within the range of the product cannot be assured at the low blend. This therefore also affects the medium concentration blend. As per clinical report, the SmPC will state that the 3 lower strengths are not to be substituted for the higher strengths.
 
-The development of the dissolution method was sufficiently described and the discriminatory power of the method was considered acceptable.
+The development of the dissolution method was sufficiently described, and the discriminatory power of the method was considered acceptable.
 
 The primary packaging is PVC/OPA/Al/PVC // Al/PET/Paper child resistant blister cards. The material complies with Ph.Eur. and EC requirements. The choice of the container closure system has been validated by stability data and is adequate for the intended use of the product.
 
@@ -566,7 +566,7 @@ The batches of medicinal product are either identical or representative to those
 
 Samples were tested according to the shelf-life specifications. The analytical procedures used are stability indicating.
 
-Naloxone assay results were out of specification at accelerated conditions for many batches. Intermediate storage conditions have not been tested for all strengths. Therefore the storage condition 'do not store above 25 °C' was required.
+Naloxone assay results were out of specification at accelerated conditions for many batches. Intermediate storage conditions have not been tested for all strengths. Therefore, the storage condition 'do not store above 25 °C' was required.
 
 For the 1.4 mg/0.36 mg strength and the 5.7 mg/1.4 mg strength, all data is within specification therefore a 48 months shelf life was considered acceptable.
 
@@ -574,7 +574,7 @@ For the 0.7 mg/0.18 mg strength, the applicant claimed 24 months shelf life as t
 
 The applicant claimed 36 months shelf life for the 2.9 mg/0.71 mg strength since it shows the same trend during stability as the 1.4 mg/0.36 mg and 5.7 mg/1.4 mg strengths (this medium concentration blend  is  in-between  the  low  and  high  concentration  blends).  As  trends  are  seen  in  the  naloxone stability in the 1.4 mg/0.36 mg, but not in the 5.7 mg/1.4 mg, a conservative approach was requested and a shelf life of 30 months was applied.
 
-For the 8.6 mg/2.1 mg and 11.4 mg/2.9 mg strengths, stability results are within specification, therefore a 36 month shelf life was accepted.
+For the 8.6 mg/2.1 mg and 11.4 mg/2.9 mg strengths, stability results are within specification, therefore a 36 months shelf life was accepted.
 
 Buprenorphine  Hydrochloride  and  Naloxone  Hydrochloride  dihydrate  are  well-known  pharmaceutical substances and the European Pharmacopoeia recommends that they should be stored protected from light.  The finished product is packed in PVC/OPA/Al/PVC // Al/PET/Paper blisters as the primary pack for the sublingual tablets.  This packaging is completely impenetrable to light.  The patient is instructed
 
@@ -618,7 +618,7 @@ Therefore, the CHMP agreed that no further non-clinical studies are required.
 
 ## 2.5.2. Ecotoxicity/environmental risk assessment
 
-A Phase I, Phase II Tier A and relevant Tier B environmental risk assessments were conducted for both buprenorphine  and  naloxone.  Buprenorphine  and  naloxone  do  not  show  the  potential  to  affect  the environment when examined in sludge micro-organisms, aquatic, sediment, or soil.  However, both buprenorphine and naloxone meet the persistence label criteria.
+A Phase I, Phase II Tier A and relevant Tier B environmental risk assessments were conducted for both buprenorphine  and  naloxone.  Buprenorphine  and  naloxone  do  not  show  the  potential  to  affect  the environment when examined in sludge micro-organisms, aquatic, sediment, or soil.   However, both buprenorphine and naloxone meet the persistence label criteria.
 
 Table 1: Summary of main study results for naloxone
 
@@ -635,18 +635,18 @@ Table 1: Summary of main study results for naloxone
 | PBT-statement :                                                              | The compound is not considered as PBT nor vPvB.                              | The compound is not considered as PBT nor vPvB.                                                       | The compound is not considered as PBT nor vPvB.                              | The compound is not considered as PBT nor vPvB.                              | The compound is not considered as PBT nor vPvB.                                              |
 | Phase I                                                                      |                                                                              |                                                                                                       |                                                                              |                                                                              |                                                                                              |
 | Calculation                                                                  | Value                                                                        | Unit                                                                                                  |                                                                              |                                                                              | Conclusion                                                                                   |
-| PEC surfacewater (default)                                                   | 0.022                                                                        | µ g/L                                                                                                 |                                                                              |                                                                              | > 0.01 threshold (Y)                                                                         |
+| PEC surfacewater (default)                                                   | 0.022                                                                        |  g/L                                                                                                 |                                                                              |                                                                              | > 0.01 threshold (Y)                                                                         |
 | Other concerns (e.g. chemical class)                                         |                                                                              |                                                                                                       |                                                                              |                                                                              | (N)                                                                                          |
-| Phase II Physical-chemical properties and fate                               | Phase II Physical-chemical properties and fate                               | Phase II Physical-chemical properties and fate                                                        | Phase II Physical-chemical properties and fate                               | Phase II Physical-chemical properties and fate                               | Phase II Physical-chemical properties and fate                                               |
+| Phase II Physical-chemical properties and fate                               | Phase II Physical-chemical properties and fate                               |                                                                                                       |                                                                              |                                                                              |                                                                                              |
 | Study type                                                                   | Test protocol                                                                | Results                                                                                               |                                                                              |                                                                              | Remarks                                                                                      |
 | Adsorption-Desorption                                                        | OECD 106 (1 sludge)                                                          | K oc = 874.8                                                                                          |                                                                              |                                                                              | List all values                                                                              |
 | Ready Biodegradability Test                                                  | OECD 301 OECD 308                                                            | Not conducted CO 2 < 1% at 100                                                                        | days                                                                         |                                                                              |                                                                                              |
 | Aerobic and Anaerobic Transformation in Aquatic Sediment systems             | OECD 308 (Day 100 DT50)                                                      | DT 50, water = 4.8-10.3 days DT 50, whole system = 49.9-67.9 %shifting to sediment = 81.7% at day 100 |                                                                              | days 55.5-                                                                   | Not required if readily biodegradable > 10% by day 10 4 metabolites, none at ≥10% at day 100 |
-| Phase IIa Effect studies                                                     | Phase IIa Effect studies                                                     | Phase IIa Effect studies                                                                              | Phase IIa Effect studies                                                     | Phase IIa Effect studies                                                     | Phase IIa Effect studies                                                                     |
+| Phase IIa Effect studies                                                     | Phase IIa Effect studies                                                     | Phase IIa Effect studies                                                                              | Phase IIa Effect studies                                                     | Phase IIa Effect studies                                                     |                                                                                              |
 | Study type                                                                   | Test protocol                                                                | Endpoint                                                                                              | value                                                                        | Unit                                                                         | Remarks                                                                                      |
 | Algae, Growth Inhibition Test/ Species                                       | OECD 201                                                                     | NOEC                                                                                                  | 13                                                                           | mg/L                                                                         | Species Pseudokirchneriella subcapitata                                                      |
 | Daphnia sp . Reproduction Test                                               | OECD 211                                                                     | NOEC                                                                                                  | 21                                                                           | mg/L                                                                         |                                                                                              |
-| Fish, Early Life Stage Toxicity Test/ Species                                | OECD 210                                                                     | NOEC                                                                                                  | 9.9                                                                          | µg/L                                                                         | Species Pimephales promelas                                                                  |
+| Fish, Early Life Stage Toxicity Test/ Species                                | OECD 210                                                                     | NOEC                                                                                                  | 9.9                                                                          | mg/L                                                                         | Species Pimephales promelas                                                                  |
 | Activated Sludge, Respiration                                                | OECD 209                                                                     | NOEC                                                                                                  | > 1000                                                                       | mg/L                                                                         |                                                                                              |
 
 <div style=\"page-break-after: always\"></div>
@@ -677,7 +677,7 @@ Table 2: Summary of main study results
 | PBT-statement :                                                  | The compound is not considered as PBT nor vPvB. | The compound is not considered as PBT nor vPvB.                                                         | The compound is not considered as PBT nor vPvB.                            |
 | Phase I                                                          | Phase I                                         | Phase I                                                                                                 | Phase I                                                                    |
 | Calculation                                                      | Value                                           | Unit                                                                                                    | Conclusion                                                                 |
-| PEC surfacewater (default) (e.g. prevalence, literature)         | 0.086                                           | µ g/L                                                                                                   | > 0.01 threshold (Y)                                                       |
+| PEC surfacewater (default) (e.g. prevalence, literature)         | 0.086                                           |  g/L                                                                                                   | > 0.01 threshold (Y)                                                       |
 | Other concerns (e.g. chemical class)                             |                                                 |                                                                                                         | (N)                                                                        |
 | Phase II Physical-chemical properties and fate                   | Phase II Physical-chemical properties and fate  | Phase II Physical-chemical properties and fate                                                          | Phase II Physical-chemical properties and fate                             |
 | Study type                                                       | Test protocol                                   | Results                                                                                                 | Remarks                                                                    |
@@ -725,20 +725,20 @@ The applicant has provided a statement to the effect that clinical trials conduc
 
 Table 1. Tabular overview of clinical studies
 
-## Clinical studiescondueted with Zubsolv final commereial produet
+## Clinical studiesconductedwithZubsolvfinal commercialproduct
 
-| Study nunber            | Type of study                                                                                                                             | Type of subjects                        | No.of subjects randomised and treated   |
-|-------------------------|-------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------|-----------------------------------------|
-| Pivotal'bridging study: | Pivotal'bridging study:                                                                                                                   | Pivotal'bridging study:                 | Pivotal'bridging study:                 |
-| F10-612XO               | Comparativebioavailabiliry vsEU-sourced Suboxone sublingualtablet                                                                         | Healthy subjects under nalirexone bloek | 125                                     |
-| Supportive studies:     | Supportive studies:                                                                                                                       | Supportive studies:                     | Supportive studies:                     |
-| 200-612XO               | Comparative bioavailabality vsUS-sourced Suboxone tablet                                                                                  | Healthy subjectsumder maltrexone block  | 60                                      |
-| 0X219-004               | Dose proportionality                                                                                                                      | Healthy subjects under naltrexone block | 61                                      |
-| OX219-005               | Pharmaceutieal charactenisation Cevalnation of formnlation properties of Zubsoly vsa US- marketed sublingual film fonmnlaton of Suboxone) | Healtby subjects under naltrexone block | 28                                      |
-| OX219-006               | Randomised.controlled Phase Ill study to evaluate early treatment efficacy and safety Versus generie buprenorphine and Suboxone Filn      | Opioid-dependent paients                | 758                                     |
-| OX219-007               | Randomised.ontrolled Phase Ill study to evaluate early treatment efficacy with Zubsoly versus generic buprenorphine.and safery            | Opioid-dependent patieuts               | 310                                     |
-| OX219-008               | Uncontrolled extension study to evaluate long- term safety and effscacy in patients who conpleted studies OX219-006 or OX219-007          | Opioid-dependent patients               | 665                                     |
-| OX219-009               | Comparative bioavailability following buccal vs sablingual administration                                                                 | Healthy subjects under naltrexone block | 64                                      |
+| Study nunber           | Type of study                                                                                                                            | Type of subjects                        | No.of subjeets randomisedand treated   |
+|------------------------|------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------|----------------------------------------|
+| Pivotal'bridgingstudy: | Pivotal'bridgingstudy:                                                                                                                   | Pivotal'bridgingstudy:                  | Pivotal'bridgingstudy:                 |
+| OX219-014              | Comparative bioavailability vsEU-sourced Suboxone sublingual tablet                                                                      | Healthy subjects under naltrexone block | 125                                    |
+| Supportive studies:    | Supportive studies:                                                                                                                      | Supportive studies:                     | Supportive studies:                    |
+| OX219-003              | Comparative bioavailabality vs US-sourced Suboxone tablet                                                                                | Healthy subjects mder maltrexone block  | 60                                     |
+| OX219-004              | Doseproportionality                                                                                                                      | Healthy subjects under naltrexoneblock  | 61                                     |
+| OX219-005              | Pharmaceutical characterisation (evalmation of formnlation properties of Zubsolvvsa US- marketed sublingual film formnlaton of Suboxone) | Healthy subjects under naltrexone block | 28                                     |
+| OX219-006              | Randomised.controlled Phase Ill study to evaluate-early treatment efficacy and safety versus generie buprenorphine and Suboxone Film     | Opioid-dependent patients               | 758                                    |
+| OX219-007              | Randomised.controlled Phase Ill stdy to evaluate early treatment efficacy with Zubsolv versus generic buprenorphine.and safety           | Opioid-dependent patieuts               | 310                                    |
+| OX219-008              | Uncontrolled extension study toevaluate long- term safety and efficacy in patients who conpleted studiesOX219-006or0X219-007             | Opioid-dependent patients               | 665                                    |
+| 600-617X0              | Comparative bioavailability following buccal vssablingualadministration                                                                  | Healthy subjectsunder naltrexone block  | 64                                     |
 
 ## 2.6.2. Pharmacokinetics
 
@@ -817,14 +817,6 @@ Table 7 Study OX219-014: Buprenorphine PK parameters for Zubsolv and Suboxone (a
 | Kel (1/h)          | 0.031 ±0.006 (19.8)                           | 0.029 ±0.007 (23.2)                           | 0.031 ±0.009 (30.1)                           | 0.029 ±0.008 (27.6)                           |
 | %AUCexp            | 8.91 ±3.76 (42.2)                             | 10.66 ±4.49 (42.1)                            | 9.40 ±4.71 (50.1)                             | 10.35±5.11 (49.4)                             |
 
-2 N=52 for AUCo-int I, Kel and %AUCep for Zubsolv 11.4/2.9 mg.
-
-4 N=57 for AUCo-72h, and N=53 for AUCo-nt. T, Kel and %AUCexp for Zubsolv 2.9/0.71 mg.
-
-3 N=53 for AUCo-mt Ix, Kel and %AUCp for Suboxone 16/4 mg.
-
-5 N=52 for AUCo-nt TI. Kel and %AUCa, for Suboxone 4/1mg.
-
 AUCo-=area under the plasma concentration-time curve from time zero to time t; AUCo-72h=area under the plasma concentration-time curve from time zero to 72 h; AUCo-inf=area under the plasma concentration-time curve from time zero extrapolated to infinity: Cmx=maximum plasma concentration; CV=coefficient of variation; Tx=time to maximum plasma concentration; Kel=elimination rate constant; Ty=Apparent terminal half-life; %AUCexp=percentage of AUCo-inf based on extrapolation.
 
 Data source: OX219-014 CSR, Table 14.2.2.1.
@@ -844,21 +836,11 @@ Table 8 Study OX219-014: Unconjugated naloxone PK parameters for Zubsolv and Sub
 | Kel (1/h)          | 0.263 ±0.140 (53.0)                           | 0.184 ±0.109 (59.0)                           | 0.412 ±0.150 (36.4)                           | 0.392 ±0.131 (33.3)                           |
 | %AUCerp            | 2.11 ±1.52 (72.1)                             | 2.70±1.91 (70.8)                              | 5.23 ±3.79 (72.4)                             | 2.92 ±1.27 (43.7)                             |
 
-2 N=57 for AUCo-inf. Ty, Kel and %AUCexp for Zubsolv 11.4/2.9 mg.
-
-I Tmax expressed as the median (range).
-
-N=52 for AUCo-inf. Ix, Kel and %AUCep for Suboxone 16/4 mg.
-
-4 N=55 for AUCoint. T, Kel and %AUC., for Suboxone 4/1.
-
-AUCo-=area under the plasma concentration-time curve from time zero to time t;, AUCo-inf=area under the plasma concentration-time curve from time zero extrapolated to infinity; Cmx=maximum plasma concentration; Tmx=time to maximum plasma concentration; Kel=elimination rate constant; T,=Apparent terminal half-life; %AUCpercentage of AUCo-inf based on extrapolation.
-
 Data source: OX219-014 CSR, Table 14.2.2.2.
 
 ## Zubsolv 11.4/2.9 mg
 
-The 90%  confidence  intervals (CIs) for Zubsolv  11.4/2.9  mg:Suboxone  16/4  mg  GMRs  for buprenorphine  AUC0-72h  and  Cmax  were  fully  within  the  standard  bioequivalence  limits  of  80%  to 125%, confirming equivalent buprenorphine exposure between the formulations (Table 9).
+The 90%  confidence  intervals (CIs) for Zubsolv  11.4/2.9  mg:Suboxone  16/4  mg  GMRs  for buprenorphine AUC0-72h and Cmax were fully within the standard bioequivalence limits of 80% to 125%, confirming equivalent buprenorphine exposure between the formulations (Table 9).
 
 For unconjugated naloxone, the 90% CIs of the Zubsolv:Suboxone GMRs for AUC0-t and Cmax were also fully within the standard bioequivalence limits of  80%  to  125%,  confirming  equivalent buprenorphine exposure between the formulations
 
@@ -868,10 +850,6 @@ Table 9 Study OX219-014: Buprenorphine geometric means, ratio of means and 90% C
 |--------------------|-------------------------------------------------------|---------------------------------|---------------------|----------------------|
 | AUCo-72h (ng·h/mL) | Zubsolv 11.4/2.9 mg                                   | 38.481 43.834                   | 87.79 83.73 - 92.04 |                 15.6 |
 | Cmax (ng/mL)       | Suboxone 16/4 mg Zubsolv 11.4/2.9 mg Suboxone 16/4 mg | 5.220 5.744                     | 90.88 84.60 - 97.62 |                 23.8 |
-
-Equivalent if confidence intervals (CIs) are within 80.00% to 125.00% limits.
-
-ANOVA=Analysis of variance; AUCo-7zh=area under the plasma concentration-time curve from time zero to 72 h;
 
 Data s0urce: OX219-014 CSR,Table 14.2.3.1.
 
@@ -885,22 +863,18 @@ Derived PK parameters of buprenorphine are summarised in Table 7 for buprenorphi
 
 The 90% CI of Zubsolv 2 x 1.4/0.36 mg: 2 x Suboxone 2/0.5 mg GMRs for buprenorphine did not demonstrate equivalence between the two products and were indicative of approximately 20% lower buprenorphine exposure following administration of Zubsolv (Table 12 below).
 
-Table 12 Study OX219-014: Buprenorphine geometric means, ratio of means and 90% CIs (based on ANOVA of natural log-transformed data) for Zubsolv 2.9/0.71 mg vs. Suboxone 4/1 mg
+Table 12 Study OX219-014: Buprenorphine geometric means,ratio of means and 90% CIs (based on ANOVA of natural log-transformed data) for Zubsolv 2.9/0.71 mg vs. Suboxone 4/1 mg
 
-| Parameter          | Treatment?          |   Geometric least-squares means | Ratio 90% C1   |   Intra-subject % CV |
+| Parameter          | Treatment           |   Geometric least-squares means | Ratio 90% CI   |   Intra-subject % CV |
 |--------------------|---------------------|---------------------------------|----------------|----------------------|
 | AUCo-72h (ng·h/mL) | Zubsolv 2.9/0.71 mg |                          13.804 | 80.87          |                 20.7 |
 | AUCo-72h (ng·h/mL) | Suboxone 4/1 mg     |                          17.069 | 75.84-86.23    |                 20.7 |
 | Cmax (ng/mL)       | Zubsolv 2.9/0.71 mg |                           1.927 | 83.17          |                 21.8 |
-| Cmax (ng/mL)       | Suboxone 4/1 mg     |                           2.317 | 77.77-88.94    |                 21.8 |
+| Cmax (ng/mL)       | Suboxone 4/1 mg     |                           2.317 | 77.77- 88.94   |                 21.8 |
 
-2 N=58 for Zubsolv 2.9/0.71 mg (Cmx) and Suboxone 4/1 mg and N=57 for Zubsolv 2.9/0.71 mg (AUCo-72h).
+ANOVA=Analysis of variance; AUCo-72h=area under the plasma concentration-time curve from time zero to 72 h; Cmx=maximum plasma concentration.
 
-Equivalent if confidence intervals (CIs) are within 80.00% to 125.00% limits.
-
-ANOVA=Analysis of variance; AUCo-72n=area under the plasma concentration-time curve from time zero to 72 h; Cmax=maximum plasma concentration.
-
-Data s0urce: OX219-014 CSR, Table 14.2.3.1.
+Data s0urce:OX219-014 CSRTable 14.2.3.1.
 
 Likewise, statistical analysis of the secondary PK parameters AUC0-t and AUC0-inf for buprenorphine did not demonstrate equivalence between Zubsolv and Suboxone: GMRs were 80.51 (90% CI: 75.52 85.82) and 79.60 (90% CI: 74.64 - 84.88).
 
@@ -908,13 +882,13 @@ For unconjugated naloxone, the 90% CIs of the Zubsolv:Suboxone GMRs for AUC0-t a
 
 For  both  metabolites,  the  90%  CI  of  Zubsolv:  Suboxone  GMRs  for  the  primary  and  secondary  PK parameters  were  lower  than  the  standard  bioequivalence  limits  of  80.00%  to  125.00%  with  point estimates indicative of approximately 30% lower exposure from Zubsolv compared to Suboxone.
 
-The subject-perceived in vivo dissolve times varied considerably between subjects for both dosages of both formulations. The median (minimum, maximum) subjective dissolve time was significantly shorter for 1 × Zubsolv 11.4 mg/2.9 mg (8.520 [0.88, 56.40] minutes) compared with 2 × Suboxone 8 mg/2 mg (16.210 [2.25, 53.25] minutes) (Hodges-Lehman estimate of median difference [95% CI]: -6.035 [-8.205,  -3.615]  minutes).  The  median  (minimum,  maximum)  subjective  dissolve  time  was significantly shorter for 2 × Zubsolv 1.4 mg/0.36 mg (7.580 [1.68, 50.97] minutes) compared with 2
+The subject-perceived in vivo dissolve times varied considerably between subjects for both dosages of both formulations. The median (minimum, maximum) subjective dissolve time was significantly shorter for 1 × Zubsolv 11.4 mg/2.9 mg (8.520 [0.88, 56.40] minutes) compared with 2 × Suboxone 8 mg/2 mg (16.210 [2.25, 53.25] minutes) (Hodges-Lehman estimate of median difference [95% CI]: -6.035 [ -8.205, -3.615]  minutes).  The  median  (minimum,  maximum)  subjective  dissolve  time  was significantly shorter for 2 × Zubsolv 1.4 mg/0.36 mg (7.580 [1.68, 50.97] minutes) compared with 2
 
 <div style=\"page-break-after: always\"></div>
 
-×  Suboxone  2  mg/0.5  mg  (9.080  [3.45,  33.20]  minutes)  (Hodges-Lehman  estimate  of  median difference [95% CI]: -1.485 [-2.635, -0.380] minutes). It is of note that the difference in dissolve time is a lot less with the lower dose.
+×  Suboxone  2  mg/0.5  mg  (9.080  [3.45,  33.20]  minutes)  (Hodges-Lehman  estimate  of  median difference [95% CI]: -1.485 [ -2.635, -0.380] minutes). It is of note that the difference in dissolve time is a lot less with the lower dose.
 
-Zubsolv  received  significantly  higher  VAS  scores  for  taste  and  mouthfeel  compared  to  Suboxone  at both dose levels. The distribution of ratings of unpleasant aftertaste indicated a lower frequency and intensity of unpleasant aftertaste for Zubsolv than for Suboxone. There was a statistically significant preference for the Zubsolv formulations over the Suboxone formulations. In the high-dose cohort, 50 of 63 subjects (79.4%) preferred 1 × Zubsolv 11.4 mg/2.9 mg (95% binomial CI: 69.4% - 89.4%). In the low-dose cohort, 47 of 61 subjects (77.0%) preferred 2 × Zubsolv 1.4 mg/0.36 mg (95% binomial CI: 66.5% - 87.6%).
+Zubsolv  received  significantly  higher  VAS  scores  for  taste  and  mouthfeel  compared  to  Suboxone  at both dose levels. The distribution of ratings of unpleasant aftertaste indicated a lower frequency and intensity of unpleasant aftertaste for Zubsolv than for Suboxone. There was a statistically significant preference for the Zubsolv formulations over the Suboxone formulations. In the high-dose cohort, 50 of 63 subjects (79.4%) preferred 1 × Zubsolv 11.4 mg/2.9 mg (95% binomial CI: 69.4% -89.4%). In the low-dose cohort, 47 of 61 subjects (77.0%) preferred 2 × Zubsolv 1.4 mg/0.36 mg (95% binomial CI: 66.5% -87.6%).
 
 In the high-dose comparison (Zubsolv 11.4 mg/2.9 mg versus 2 × Suboxone 8 mg/2 mg) 90% CIs of the  Zubsolv:Suboxone  AUC  and  Cmax  geometric  least-squares  mean  ratios  for  both  buprenorphine and  unconjugated  naloxone  were  fully  within  the  predefined  equivalence  boundaries  of  80.00%  to 125.00% and equivalent exposure between these products could therefore be concluded.
 
@@ -926,7 +900,7 @@ Exposure  of  metabolites  (norbuprenorphine  and  total  naloxone)  was  lower 
 
 Therefore,  in  this  pivotal  study,  with  the  higher  doses  there  was  equivalent  buprenorphine  and unconjugated naloxone exposure between the formulations. However for the lower strength, there was 20% lower buprenorphine exposure following administration of Zubsolv and naloxone exposure from Zubsolv was approximately 35% lower than for the Suboxone.
 
-The  applicant  performed  a  post-hoc,  dose-normalised,  within-product,  parallel-group  analysis  to compare the  strengths  within  each  product  and  this  suggested  a  less  than  proportional  increase  in buprenorphine  exposure  with  increased  dose  for  either  Zubsolv  or  Suboxone.  For  unconjugated naloxone, a similar deviation from dose proportionality was observed between the Suboxone dosage strengths but not between the Zubsolv dosage strengths. For both buprenorphine and unconjugated naloxone, the deviation from dose proportionality appeared to be greater between Suboxone dosage strengths than between Zubsolv dosage strengths.
+The  applicant  performed  a  post-hoc,  dose-normalised,  within-product,  parallel-group  analysis  to compare the strengths within  each  product  and  this  suggested  a  less  than  proportional  increase  in buprenorphine  exposure  with  increased  dose  for  either  Zubsolv  or  Suboxone.  For  unconjugated naloxone, a similar deviation from dose proportionality was observed between the Suboxone dosage strengths but not between the Zubsolv dosage strengths. For both buprenorphine and unconjugated naloxone, the deviation from dose proportionality appeared to be greater between Suboxone dosage strengths than between Zubsolv dosage strengths.
 
 ## Dose proportionality
 
@@ -940,9 +914,9 @@ Dose  proportionality  for  unconjugated  naloxone  was  confirmed  for  AUC0-t 
 
 For  the  metabolites,  dose  proportionality  was  confirmed  for  norbuprenorphine  Cmax,  AUC0-t,  and AUC0-inf,  and  total  naloxone  AUC0-inf  and  Cmax  over  the  tested  8-fold  dose  range  of  parent compounds buprenorphine/naloxone (1.4/0.36 mg to 11.4/2.9 mg). Total naloxone AUC0-t increased slightly more than proportionally to increased dose.
 
-Both buprenorphine and naloxone exposure increased with dose. Buprenorphine exposure met the prespecified  criteria  for  proportionality  based  on  AUC0-t,  while  AUCinf  indicated  a  slightly  less  than proportional increase in exposure with increased dose. This was noted by the applicant to be consistent with  the  reference  product  Suboxone,  which  displays  a  slightly  less  than  proportional  increase  in buprenorphine exposure with dose, as described in the Suboxone SmPC. While less than proportional increase  in  buprenorphine  exposure  has  been  reported  for  both  Zubsolv  and  Suboxone,  exploratory post hoc data from study OX219-014 suggest that deviation from dose proportionality may be larger between Suboxone than between Zubsolv strengths. Regarding naloxone, both AUC0-t and AUCinf met the  dose  proportionality  criteria.  Cmax  for  both  buprenorphine  and  naloxone  increased  slightly  less than proportionally with dose.
+Both buprenorphine and naloxone exposure increased with dose. Buprenorphine exposure met the prespecified  criteria  for  proportionality  based  on  AUC0-t,  while  AUCinf  indicated  a  slightly  less  than proportional increase in exposure with increased dose. This was noted by the applicant to be consistent with  the  reference  product  Suboxone,  which  displays  a  slightly  less  than  proportional  increase  in buprenorphine exposure with dose, as described in the Suboxone SmPC. While less than proportional increase in  buprenorphine exposure has been reported for both Zubsolv and Suboxone, exploratory post hoc data from study OX219-014 suggest that deviation from dose proportionality may be larger between Suboxone than between Zubsolv strengths. Regarding naloxone, both AUC0-t and AUCinf met the  dose  proportionality  criteria.  Cmax  for  both  buprenorphine  and  naloxone  increased  slightly  less than proportionally with dose.
 
-Buprenorphine  exposure  met  the  pre-specified  criteria  for  proportionality  based  on  AUC0-t,  while AUCinf indicated a slightly less than proportional increase in exposure with increased dose. This was noted by the applicant to be consistent with the reference product Suboxone, which displays a slightly less  than  proportional  increase  in  buprenorphine exposure  with  dose,  as described in  the  Suboxone SmPC.
+Buprenorphine exposure met the pre-specified criteria for proportionality based on AUC0-t, while AUCinf indicated a slightly less than proportional increase in exposure with increased dose. This was noted by the applicant to be consistent with the reference product Suboxone, which displays a slightly less than proportional increase in buprenorphine exposure with dose, as described in the Suboxone SmPC.
 
 ## 2.6.3. Pharmacodynamics
 
@@ -964,7 +938,7 @@ Demonstration of equivalent buprenorphine and naloxone exposure between Zubsolv 
 
 While equivalent buprenorphine exposure was not concluded between 2 x Zubsolv 1.4/0.36 mg and 2 x Suboxone 2/0.5 mg, the exposure difference was approximately 20% lower for Zubsolv, and this was attributed to a larger deviation from dose proportionality between Suboxone strengths than between Zubsolv strengths.
 
-In  a  clinical  context,  buprenorphine  is  individually  titrated  to  clinical  effect,  and  if  small  exposure differences between products were to translate to differences in clinical effects, this would be naturally addressed  by  dose  adjustments  in  the  standard  care  of  the  patient.  Despite  the  deviation  from equivalence in exposure, the applicant proposes that the comparative bioavailability data between 2 x Zubsolv  1.4/0.36  mg  and  2  x  Suboxone  2/0.5  mg  provide  an  appropriate  link  between  the  low concentration blend strengths of Zubsolv and the Suboxone  reference product. Naloxone is insignificantly absorbed after sublingual administration. The purpose of naloxone is to deter parenteral abuse of the product and it has no utility for the intended sublingual route of administration. Thus the lower  naloxone  exposure  compared  to  the  Suboxone  reference  product  seen  in  the  comparison between 2 x Zubsolv 1.4/0.36 mg and 2 x Suboxone 2/0.5 mg (as well as between Zubsolv 5.7/1.4 mg and US sourced Suboxone 8/2 mg) would not be expected to be of any clinical significance.
+In  a  clinical  context,  buprenorphine  is  individually  titrated  to  clinical  effect,  and  if  small  exposure differences between products were to translate to differences in clinical effects, this would be naturally addressed  by  dose  adjustments  in  the  standard  care  of  the  patient.  Despite  the  deviation  from equivalence in exposure, the applicant proposes that the comparative bioavailability data between 2 x Zubsolv  1.4/0.36  mg  and  2  x  Suboxone  2/0.5  mg  provide  an  appropriate  link  between  the  low concentration blend strengths of Zubsolv and the Suboxone  reference product. Naloxone  is insignificantly absorbed after sublingual administration. The purpose of naloxone is to deter parenteral abuse of the product and it has no utility for the intended sublingual route of administration. Thus the lower  naloxone  exposure  compared  to  the  Suboxone  reference  product  seen  in  the  comparison between 2 x Zubsolv 1.4/0.36 mg and 2 x Suboxone 2/0.5 mg (as well as between Zubsolv 5.7/1.4 mg and US sourced Suboxone 8/2 mg) would not be expected to be of any clinical significance.
 
 ## 2.6.5. Conclusions on clinical pharmacology
 
@@ -996,9 +970,9 @@ Study OX219-006 started with a 2-day, blinded, fixed-dose assessment period, in 
 
 <div style=\"page-break-after: always\"></div>
 
-3 and Day 15 performed on the per-protocol analysis set. Zubsolv was to be considered non-inferior if the lower limit of the 95% CI for the difference between the 2 treatments in the proportion of patients retaining treatment on each of the 2 visits was ≥-10%. To preserve a 5% significance level, the Day 15 visit was tested initially and if non-inferiority was demonstrated at this visit, the Day 3 data were then to be tested for non-inferiority using the same method.
+3 and Day 15 performed on the per-protocol analysis set. Zubsolv was to be considered non-inferior if the lower limit of the 95% CI for the difference between the 2 treatments in the proportion of patients retaining treatment on each of the 2 visits was ≥ -10%. To preserve a 5% significance level, the Day 15 visit was tested initially and if non-inferiority was demonstrated at this visit, the Day 3 data were then to be tested for non-inferiority using the same method.
 
-In total, 758 patients were randomised and received treatment in study OX219-006. For the primary endpoint of retention in treatment, Zubsolv was non-inferior to buprenorphine/ Suboxone at both Day 3  and  Day  15.  At  Day  15,  83.0%  of  the  patients  (273/329)  in  the  Zubsolv  group  were  retained  in treatment compared with 82.5% (269/326) in the Suboxone group; Zubsolv to Suboxone difference: 0.5% (95% CI -5.3, 6.3). As the lower limit of the CI was ≥-10% (the pre-specified non-inferiority margin), non-inferiority of Zubsolv was established at this time point. At Day 3, 93.9% of the patients (309/329) in the Zubsolv group were retained in treatment compared with 92.6% (302/326) in the buprenorphine group; Zubsolv to buprenorphine difference: 1.3% (95% CI -2.6, 5.1). As the lower limit  of  the  CI  was  ≥-10%  (the  pre-specified  non-inferiority  margin),  non-inferiority  of  Zubsolv  was also  established  at  Day  3.  Non-inferiority  was  also  demonstrated  in  the  full  analysis  set,  thus supporting the primary analysis.
+In total, 758 patients were randomised and received treatment in study OX219-006. For the primary endpoint of retention in treatment, Zubsolv was non-inferior to buprenorphine/ Suboxone at both Day 3  and  Day  15.  At  Day  15,  83.0%  of  the  patients  (273/329)  in  the  Zubsolv  group  were  retained  in treatment compared with 82.5% (269/326) in the Suboxone group; Zubsolv to Suboxone difference: 0.5% (95% CI 5.3, 6.3). As the lower limit of the CI was ≥ -10% (the pre-specified non-inferiority margin), non-inferiority of Zubsolv was established at this time point. At Day 3, 93.9% of the patients (309/329) in the Zubsolv group were retained in treatment compared with 92.6% (302/326) in the buprenorphine group; Zubsolv to buprenorphine difference: 1.3% (95% CI  -2.6, 5.1). As the lower lim it  of  the  CI  was  ≥ -10% (the pre-specified non-inferiority margin), non-inferiority of Zubsolv was also  established  at  Day  3.  Non-inferiority  was  also  demonstrated  in  the  full  analysis  set,  thus supporting the primary analysis.
 
 Secondary efficacy endpoints (retention at each visit, COWS, SOWS, craving VAS scores, and time to first  opioid-negative  urine  drug  sample)  were  similar  between  treatments,  with  no  statistically significant differences. Following the treatment switch at Day 15, continued improvements in COWS, SOWS, and craving VAS scores were observed for patients in both groups at the end of study. Of the patients who switched to Zubsolv at Day 15, 3.0% withdrew before Day 22, and of the patients who switched to Suboxone Film, 4.4% withdrew by Day 22.
 
@@ -1006,7 +980,7 @@ Secondary efficacy endpoints (retention at each visit, COWS, SOWS, craving VAS s
 
 Study OX219-007 started with a 2-day blinded, fixed-dose assessment period, in which patients were randomised to either Zubsolv (5.7/1.4 mg on Day 1, and 5.7/1.4 to 11.4/2.81mg on Day 2) or generic buprenorphine (8 mg buprenorphine on Day 1, and 8 mg to 16 mg on Day 2). On Day 3, all patients received an open-label dose of Zubsolv 5.7/1.4 mg or 11.4/2.8 mg. Doses on Day 4 through Day 28 were individually titrated between 5.7/1.4 mg and 17.1/4.2 mg. The primary endpoint was retention in treatment at Day 3. The same additional measures of clinical efficacy as in Study OX219-006 were evaluated as secondary endpoints.
 
-310 patients were randomised and received treatment. For the primary endpoint, a lower proportion of patients in the Zubsolv group than in the generic buprenorphine group were retained at Day 3: 88.3% (113/128) versus 95.3% (122/128), respectively, Zubsolv to buprenorphine difference: -7.0% (95% CI -13.7, 0.4). As the lower limit of the CI was &lt;-10% (the pre-specified non-inferiority margin), noninferiority of Zubsolv was not established.
+310 patients were randomised and received treatment. For the primary endpoint, a lower proportion of patients in the Zubsolv group than in the generic buprenorphine group were retained at Day 3: 88.3% (113/128) versus 95.3% (122/128), respectively, Zubsolv to buprenorphine difference:  -7.0% (95% CI -13.7, 0.4). As the lower limit of the CI was &lt;-10% (the pre-specified non-inferiority margin), noninferiority of Zubsolv was not established.
 
 Secondary endpoints (COWS, SOWS, and craving VAS) indicated similar treatment effects for Zubsolv and generic buprenorphine.
 
@@ -1022,7 +996,7 @@ The results provide evidence of a continued clinical effect from the previous st
 
 ## Results of the literature review relating to efficacy
 
-Several studies reported efficacy data for buprenorphine versus active control for treatment of opioid dependence. Compared with naltrexone, buprenorphine maintenance treatment was associated with higher retention rates and a lower degree of positive urine samples (Bandawar et al 2015, Mokri et al 2015).  Comparisons  versus  methadone  indicate  slightly  higher  retention  rates  on  methadone  under similar treatment settings (e.g. Hser et al 2015, Burns et al 2014, Saxon et al 2013), although this difference was not evident in all studies (e.g. Piralishvili et al 2015).
+Several studies reported efficacy data for buprenorphine versus active control for treatment of opioid dependence. Compared with naltrexone, buprenorphine maintenance treatment was associated with higher retention rates and a lower degree of positive urine samples (Bandawar et al 2015, Mokri et al 2015).  Comparisons  versus  methadone indicate  slightly  higher  retention  rates  on  methadone  under similar treatment settings (e.g. Hser et al 2015, Burns et al 2014, Saxon et al 2013), although this difference was not evident in all studies (e.g. Piralishvili et al 2015).
 
 When used for short-term opioid detoxification, buprenorphine demonstrated superior efficacy based on relief from abstinence symptoms and cravings as well as on completion of detoxification compared with  clonidine  (Ling  et  al  2005,  Hussain  et  al  2015,  Steele  and  Cunningham  2012).    Two  studies examining the efficacy of different tapering durations with buprenorphine showed contradictory results. One study found that a 4-week tapering schedule followed by transfer to naltrexone maintenance had more successful outcomes than a 1- or 2- week schedule for the entire 12-week follow-up period, both on retention in treatment and opioid-negative urine (Sigmon et al 2013). In contrast, another study found that abstinence was superior at the end of a 1-week taper than after a 4-week taper (Ling et al 2009).  Regardless  of  tapering  schedule,  long-term  success  rates  for  tapering  remain  low  with prolonged  abstinence  of  no  more  than  5%  to  15%  (e.g.  Weiss  et  al  2011,  Wright  et  al  2011)  and clearly inferior to maintenance treatment (e.g. Fiellin et al 2014).
 
@@ -1058,7 +1032,7 @@ In total, Orexo has performed three patient studies (OX219-006, -007 and -008) a
 
 ## Patient exposure
 
-Overall, 338 healthy adult volunteers and 1068 opioid dependent patients received test and reference products in the clinical development programme presented for Zubsolv. Including 125 healthy subjects in  the  pivotal  OX219-014 study. Overall, 1,295 subjects were exposed to Zubsolv FCP: 330 healthy subjects and 965 patients.
+Overall, 338 healthy adult volunteers and 1068 opioid dependent patients received test and reference products in the clinical development programme presented for Zubsolv. Including 125 healthy subjects in  the  pivotal OX219-014 study. Overall, 1,295 subjects were exposed to Zubsolv FCP: 330 healthy subjects and 965 patients.
 
 The route of dosing for both the test and reference products in each study was sublingual apart from study OX219-009 where buccal administration was used (for the reference treatment [B] only). In the healthy subject studies exposure was to single doses of study treatment.
 
@@ -1104,7 +1078,7 @@ In general there was a balanced incidence and severity of all TEAEs between Zubs
 
 The SOCs of gastrointestinal disorders and infections and infestations had events reported in ≥5% of patients  (72  [10.3%]  and  47  [6.7%],  respectively)  in  the  study  OX219-006.  The  2%  difference between the treatments in patients with TEAEs in the SOC of infections and infestations was largely driven  by  infections  unrelated  to  study  treatment  such  as  upper  respiratory  tract  infection  which occurred in 5 patients in the group taking Zubsolv versus 1 patient in the group taking buprenorphine/Suboxone, and oral herpes occurring in 4 patients in the group taking Zubsolv versus no patients in the group taking buprenorphine/Suboxone.
 
-In the SOC of psychiatric disorders in study OX219-007, insomnia was reported in ≥5% of patients only in the generic buprenorphine group (11 patients out of 155 [7.1%]). Only 4 patients out of 155 (2.6%) experienced insomnia in the Zubsolv group.
+In the SOC of psychiatric disorders in study OX219007, insomnia was reported in ≥5% of patients only in the generic buprenorphine group (11 patients out of 155 [7.1%]). Only 4 patients out of 155 (2.6%) experienced insomnia in the Zubsolv group.
 
 In  OX219-006,  -007  and  OX219-008,  the  most  commonly  reported  treatment-related  TEAE  was constipation &lt;5%.
 
@@ -1126,7 +1100,7 @@ The special populations identified in the proposed Zubsolv SmPC correspond to th
 
 The  following  populations  of  patients  were  excluded  from  participating  in  Zubsolv  clinical  studiespatients over the age of 65 years, patients below the age of 18 years, pregnant or lactating women and newborns, patients with severe liver disease.
 
-No  recommendations  on  posology  are  made  for  the  elderly  population.  Adolescents  age  15  to  &lt;18 years should be more closely monitored during treatment. Zubsolv is not recommended in pregnancy and breast-feeding. Caution is required when prescribing in severe renal impairment and Zubsolv is contraindicated in severe hepatic impairment.
+No  recommendations on posology  are  made  for  the  elderly  population.  Adolescents  age  15  to  &lt;18 years should be more closely monitored during treatment. Zubsolv is not recommended in pregnancy and breast-feeding. Caution is required when prescribing in severe renal impairment and Zubsolv is contraindicated in severe hepatic impairment.
 
 The risk mitigations measures for special populations are in line with Suboxone and consistent with the additional supportive data in the dossier.
 
@@ -1167,12 +1141,14 @@ Table 1. Summary of the Safety Concerns
 | Summary of safety concerns   | Summary of safety concerns                                                                                                                                                                                                                                                                     |
 |------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Important identified risks   | Fatal overdose - Severe respiratory failure (mechanism for death by overdose) - Use in patients with alcoholism/delirium tremens Misuse and/or abuse (injection/intranasal/paediatric use) Hepatitis, hepatic events, use in patients with hepatic failure Dependence Drug withdrawal syndrome |
-| Important potential risks    | Use in patients with head injury and increased intracranial pressure                                                                                                                                                                                                                           |
-| Missing information          | Elderly patients > 65 years old                                                                                                                                                                                                                                                                |
+| Important potential risks    | Use during pregnancy and lactation (effects on newborn and infant) Use in patients with head injury and increased intracranial pressure                                                                                                                                                        |
+| Missing information          | CNS depression (effects on driving ability) Peripheral oedema Elderly patients > 65 years old                                                                                                                                                                                                  |
 
-## Pharmacovigilance plan
+Children &lt; 15 years old
 
-Routine pharmacovigilance activities are considered sufficient to identify and/or further characterise the above safety concerns and to assess the effectiveness of the risk minimisation measures.
+Differences in posology between Zubsolv and other buprenorphine formulations indicated in substitution treatment for opioid drug
+
+dependence Routine pharmacovigilance activities are considered sufficient to identify and/or further characterise the above safety concerns and to assess the effectiveness of the risk minimisation measures.
 
 ## Risk minimisation measures
 
@@ -1181,6 +1157,8 @@ Table 2. Summary of Risk Minimisation Measures
 | Safety concern   | Routine risk minimisation measures          | Additional risk minimisation measures   |
 |------------------|---------------------------------------------|-----------------------------------------|
 | Fatal overdose   | Wording in sections 4.2, 4.3, 4.4, 4.5, 4.8 | None                                    |
+
+## Pharmacovigilance plan
 
 <div style=\"page-break-after: always\"></div>
 
@@ -1239,7 +1217,7 @@ Furthermore, sharing of needles among intravenous users contributes to the sprea
 
 ## 3.1.2. Available therapies and unmet medical need
 
-Opioid substitution is recognised as an effective therapy for keeping patients in treatment programmes and reducing the use of illicit opioids. The principle is to replace the opioid of abuse with a more longacting  opioid  which  will  not  give  a  rush  or  a  high  but  will  relieve  the  opioid-dependent  person  of cravings and enable return to a more normal life. Methadone (which can be dosed once daily) has little impact  on  mood,  judgement,  and  psychomotor  skills  in  opioid-tolerant  patients,  and  was  thus  a mainstay  of  treatment  of  opioid  dependence  for  many  years.  However,  the  combination  of  its  long terminal  half-life  and  potent  full  μ-opioid  receptor  agonism  is  associated  with  toxicity  problems  and fatal.
+Opioid substitution is recognised as an effective therapy for keeping patients in treatment programmes and reducing the use of illicit opioids. The principle is to replace the opioid of abuse with a more longacting  opioid  which  will  not  give  a  rush  or  a  high  but  will  relieve  the  opioid-dependent  person  of cravings and enable return to a more normal life. Methadone (which can be dosed once daily) has little impact  on  mood,  judgement,  and  psychomotor  skills  in  opioid-tolerant  patients,  and  was  thus  a mainstay of  treatment  of  opioid  dependence  for  many  years.  However,  the  combination  of  its  long terminal  halflife  and  potent  full  μ -opioid  receptor  agonism  is  associated  with  toxicity  problems  and fatal.
 
 Buprenorphine is an alternative option for substitution therapy, administered either alone or combined with  naloxone.  The  naloxone  component  is  included  to  deter  abuse  by  other  routes  (particularly intravenous), by which it results in systemic levels sufficient to cause unpleasant withdrawal effects.
 
@@ -1247,22 +1225,22 @@ Zubsolv  is  a  rapidly  disintegrating  sublingual  tablet  containing  bupreno
 
 <div style=\"page-break-after: always\"></div>
 
-μ-opioid receptor agonist known to relieve drug withdrawal symptoms and cravings. Naloxone is a full μ-opioid receptor antagonist, added to deter intravenous (IV) abuse of the medication. Due to the low sublingual bioavailability, naloxone has insignificant or no effects when taken sublingually as intended.
+μ -opioid receptor agonist known to relieve drug withdrawal symptoms and cravings. Naloxone is a full μ -opioid receptor antagonist, added to deter intravenous (IV) abuse of the medication. Due to the low sublingual bioavailability, naloxone has insignificant or no effects when taken sublingually as intended.
 
 Zubsolv has been developed using technology for sublingual delivery that was to provide comparable systemic buprenorphine exposure to Suboxone tablets at a lower administered dose of the drug due to its higher bioavailability.
 
 ## 3.1.3. Main clinical studies
 
-The  efficacy  of  Zubsolv  in  the  proposed  indication  is  bridged  to  the  EU-sourced  reference  product Suboxone.  The 'pivotal' PK bridging study for this application was study OX219-014, which bridged Zubsolv  at  the  strengths  11.4/2.9  mg  and  1.4/0.36  mg  to  corresponding  doses  of  EU-sourced Suboxone reference product in 2 cohorts:
+The  efficacy  of  Zubsolv  in  the  proposed  indication  is  bridged  to  the  EU-sourced  reference  product Suboxone. The 'pivotal' PK bridging study for this application was study OX219-014, which bridged Zubsolv  at  the  strengths  11.4/2.9  mg  and  1.4/0.36  mg  to  corresponding  doses  of  EU-sourced Suboxone reference product in 2 cohorts:
 
 - Cohort 1: Zubsolv 11.4/2.9 mg vs. 2 x Suboxone 8/2 mg
 - Cohort 2: 2 x Zubsolv 1.4/0.36 mg vs. 2 x Suboxone 2/0.5 mg
 
 Further  efficacy  data  from  clinical  studies  OX219-006,  OX219-007  and  OX219-008  conducted  with Zubsolv  in  the  US  together  with  results  of  a  literature  search  performed  to  determine  any  new, relevant findings with buprenorphine alone or combined, are considered supportive.
 
-Study OX219-006 was a prospective, randomised, multi-centre, parallel-group, active-controlled, noninferiority  study  comparing  treatment  efficacy  and  adherence  of  the  sublingual  tablets  of  Zubsolv versus generic buprenorphine following induction of therapy during the first 3 days of treatment.  The purpose of this study was  to assess early treatment efficacy of Zubsolv vs Buprenorphine mono/Suboxone Film.
+Study OX219-006 was a prospective, randomised, multi-centre, parallel-group, active-controlled, noninferiority  study  comparing  treatment  efficacy  and  adherence  of  the  sublingual  tablets  of  Zubsolv versus generic buprenorphine following induction of therapy during the first 3 days of treatment.  The purpose  of this study was  to assess early treatment efficacy of Zubsolv  vs  Buprenorphine mono/Suboxone Film.
 
-Study  OX219-007  was  a  prospective,  randomised,  multi-centre,  blinded,  parallel-group,  activecontrolled study comparing the sublingual tablets of Zubsolv versus buprenorphine monotherapy for the  induction  component  of  opioid  maintenance  therapy.    The  purpose  of  this  study  was  to demonstrate that induction on Zubsolv is non-inferior to induction on Buprenorphine monotherapy.
+Study  OX219-007  was  a  prospective,  randomised,  multi-centre,  blinded,  parallel-group,  activecontrolled study comparing the sublingual tablets of Zubsolv versus buprenorphine monotherapy for the  induction  component  of  opioid  maintenance  therapy.    The  purpose  of  this  study was  to demonstrate that induction on Zubsolv is non-inferior to induction on Buprenorphine monotherapy.
 
 Study OX219-008 was a multi-centre, open-label, uncontrolled extension study conducted in patients who completed studies OX219-006 or -007.  The purpose of this study was to assess long-term (24 weeks) safety, efficacy and effects on quality of life and health economic parameters during Zubsolv treatment.
 
@@ -1270,7 +1248,7 @@ Study OX219-008 was a multi-centre, open-label, uncontrolled extension study con
 
 The favourable effects of Zubsolv are in line with those of Suboxone. The applicant has provided data that suggest it dissolves more rapidly, and is more acceptable to patients form the point of view of taste.
 
-The  efficacy  of  Zubsolv  in  the  proposed  indication  is  bridged  to  the  EU-sourced  reference  product Suboxone whereby efficacy  data  for  buprenorphine/naloxone  are  primarily  derived  from  a  one-year clinical  trial,  comprising  a  4-week  randomised  double  blind  comparison  of  buprenorphine/naloxone, buprenorphine and placebo followed by a 48 week safety study of buprenorphine/naloxone.  In this trial,  326 heroin-addicted subjects were randomly assigned to either buprenorphine/naloxone 16 mg per day, 16 mg buprenorphine per day or placebo. The primary study comparison was to assess the efficacy of buprenorphine and buprenorphine/naloxone individually against placebo. The percentage of
+The  efficacy  of  Zubsolv  in  the  proposed  indication  is  bridged  to  the  EU-sourced  reference  product Suboxone whereby efficacy data  for  buprenorphine/naloxone  are  primarily  derived  from  a  one-year clinical  trial,  comprising  a  4-week  randomised  double  blind  comparison  of  buprenorphine/naloxone, buprenorphine and placebo followed by a 48 week safety study of buprenorphine/naloxone.  In this trial, 326 heroin-addicted subjects were randomly assigned to either buprenorphine/naloxone 16 mg per day, 16 mg buprenorphine per day or placebo. The primary study comparison was to assess the efficacy of buprenorphine and buprenorphine/naloxone individually against placebo. The percentage of
 
 <div style=\"page-break-after: always\"></div>
 
@@ -1282,7 +1260,7 @@ Favourable effects are based on adequate delivery of the constituents of the com
 
 Small deviations in buprenorphine dose proportionality exposure parameters as well as deviations from strict compositional proportionality for the three lower strengths support the recommendation to not use multiples of the three lower dose presentations of Zubsolv to substitute for any of the three higher dose Zubsolv presentations.
 
-The  differences  between  Suboxone  and  Zubsolv  formulations  imply  that  switching  between  the  two would  not  reproduce  the  same  plasma  concentrations  of  buprenorphine.  A  lower  buprenorphine exposure  from  Zubsolv  may  potentially  result  in  reduced  opioid  receptor  stimulation  leading  to withdrawal  symptoms  when  switching  from  another  buprenorphine  product  at  a  dose  level  below 5.7/1.4 mg. In addition, owing to the long terminal half-life of buprenorphine, it would take several days to reach a new steady state when switching between formulations. This uncertainty supports the recommendation that patients should not switch between products.
+The differences  between Suboxone  and  Zubsolv  formulations  imply  that  switching  between  the  two would  not  reproduce  the  same  plasma  concentrations  of  buprenorphine.  A  lower  buprenorphine exposure  from  Zubsolv  may  potentially  result  in  reduced  opioid  receptor  stimulation  leading  to withdrawal  symptoms  when  switching  from  another  buprenorphine  product  at  a  dose  level  below 5.7/1.4 mg. In addition, owing to the long terminal half-life of buprenorphine, it would take several days to reach a new steady state when switching between formulations. This uncertainty supports the recommendation that patients should not switch between products.
 
 ## 3.4. Unfavourable effects
 
@@ -1314,7 +1292,7 @@ The evaluation of Suboxone has concluded positive benefit risk for the combinati
 
 The  Zubsolv  buprenorphine/naloxone  sublingual  tablet  was  designed  to  offer  higher  bioavailability, faster  disintegration,  and  improved  taste  masking  compared  with  the  Suboxone  reference  product. This  application  hence  concerns  a  suprabioavailable  drug  (Zubsolv)  which  is  being  registered  under hybrid legal basis.
 
-From the regulatory as well as scientific point of view the pivotal BE study 014 (if bioequivalence was demonstrated) is considered sufficient to fully bridge the known efficacy and safety profile of Suboxone to the proposed product - Zubsolv.  Other submitted data can be considered as supportive.
+From the regulatory as well as scientific point of view the pivotal BE study 014 (if bioequivalence was demonstrated) is considered sufficient to fully bridge the known efficacy and safety profile of Suboxone to the proposed product -Zubsolv.  Other submitted data can be considered as supportive.
 
 It is acknowledged, that Zubsolv is not intended for generic substitution, nor should it be treated as a generic in terms of strictly following the bioequivalence criteria. Failed proof of bioequivalence to the reference product could be to a certain extent superseded by other available data and hence the strict proof  of  bioequivalence  was  not  deemed  necessary.  The  additional  information  documenting  PK linearity  (dose  proportionality)  across  the  entire  dosage  range  has  established  an  adequate  bridge across the dosage range of Zubsolv and provided evidence to support its use as a stand-alone therapy.
 
@@ -1357,6 +1335,6 @@ An updated RMP should be submitted:
 - At the request of the European Medicines Agency;
 - Whenever the risk management system is modified, especially as the result of new information being received that may lead to a significant change to the benefit/risk profile or as the result of an important (pharmacovigilance or risk minimisation) milestone being reached.
 
-## Conditions or restrictions with regard to the safe and effective use of the medicinal product to be implemented by the Member States.
+Conditions or restrictions with regard to the safe and effective use of the medicinal product to be implemented by the Member States.
 
 Not applicable.

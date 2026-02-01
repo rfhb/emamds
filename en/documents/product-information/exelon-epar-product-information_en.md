@@ -1,18 +1,18 @@
 ---
-document_datetime: 2025-04-11 15:49:10
+document_datetime: 2026-01-26 15:26:26
 document_pages: 119
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/exelon-epar-product-information_en.pdf
 document_name: exelon-epar-product-information_en.pdf
 version: success
-processing_time: 29.8791335
-conversion_datetime: 2025-12-27 22:21:47.234531
+processing_time: 31.5133787
+conversion_datetime: 2026-02-01 20:43:20.841466
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.66.0
-  docling-core: 2.57.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.11.0
+  docling-jobkit: 1.9.1
+  docling: 2.71.0
+  docling-core: 2.62.0
+  docling-ibm-models: 3.11.0
+  docling-parse: 4.7.3
   python: cpython-313 (3.13.11)
   plaform: macOS-26.2-arm64-arm-64bit-Mach-O
 ---
@@ -48,7 +48,7 @@ For the full list of excipients, see section 6.1.
 
 ## 3. PHARMACEUTICAL FORM
 
-Hard capsules
+## Hard capsules
 
 ## Exelon 1.5 mg hard capsules
 
@@ -92,7 +92,7 @@ Rivastigmine should be administered twice a day, with morning and evening meals.
 
 The starting dose is 1.5 mg twice a day. If this dose is well tolerated after a minimum of two weeks of treatment, the dose may be increased to 3 mg twice a day. Subsequent increases to 4.5 mg and then 6 mg twice a day should also be based on good tolerability of the current dose and may be considered after a minimum of two weeks of treatment at that dose level.
 
-If adverse reactions (e.g. nausea, vomiting, abdominal pain or loss of appetite), weight decrease or worsening of extrapyramidal symptoms (e.g. tremor) in patients with dementia associated with Parkinson's disease are observed during treatment, these may respond to omitting one or more doses. If adverse reactions persist, the daily dose should be temporarily reduced to the previous well-tolerated dose or the treatment may be discontinued.
+If adverse reactions (e.g. nausea, vomiting, abdominal pain or loss of appetite), weight decrease or worsening of extrapyramidal symptoms (e.g. tremor) in patients with dementia associated with Parkinson's disease are observed during treatment, these may respond to omitting o ne or more doses. If adverse reactions persist, the daily dose should be temporarily reduced to the previous well-tolerated dose or the treatment may be discontinued.
 
 ## Maintenance dose
 
@@ -140,7 +140,7 @@ There have been rare post-marketing reports of patients experiencing allergic de
 
 Patients and caregivers should be instructed accordingly.
 
-Dose titration: Adverse reactions (e.g. hypertension and hallucinations in patients with Alzheimer's dementia and worsening of extrapyramidal symptoms, in particular tremor, in patients with dementia associated with Parkinson's disease) have been observed shortly after dose increase. They may respond to a dose reduction. In other cases, Exelon has been discontinued (see section 4.8).
+Dose titration: Adverse reaction s (e.g. hypertension and hallucinations in patients with Alzheimer's dementia and worsening of extrapyramidal symptoms, in particular tremor, in patients with dementia associated with Parkinson's disease) have been observed shortly after dose increase. The y may respond to a dose reduction. In other cases, Exelon has been discontinued (see section 4.8).
 
 Gastrointestinal disorders such as nausea, vomiting and diarrhoea are dose-related, and may occur particularly when initiating treatment and/or increasing the dose (see section 4.8). These adverse reactions occur more commonly in women. Patients who show signs or symptoms of dehydration resulting from prolonged vomiting or diarrhoea can be managed with intravenous fluids and dose
 
@@ -162,7 +162,7 @@ Cholinesterase inhibitors should be prescribed with care to patients with a hist
 
 Cholinomimetics may induce or exacerbate urinary obstruction and seizures. Caution is recommended in treating patients predisposed to such diseases.
 
-The use of rivastigmine in patients with severe dementia of Alzheimer's disease or associated with Parkinson's disease, other types of dementia or other types of memory impairment (e.g. age-related cognitive decline) has not been investigated and therefore use in these patient populations is not recommended.
+The use of rivastigmine in patients with severe dementia of Alzheimer's disease or associated with Parkinson's disease, other types of dementia or other types of memory impairment (e.g. age -related cognitive decline) has not been investigated and therefore use in these patient populations is not recommended.
 
 Like other cholinomimetics, rivastigmine may exacerbate or induce extrapyramidal symptoms. Worsening (including bradykinesia, dyskinesia, gait abnormality) and an increased incidence or severity of tremor have been observed in patients with dementia associated with Parkinson's disease (see section 4.8). These events led to the discontinuation of rivastigmine in some cases (e.g. discontinuations due to tremor 1.7% on rivastigmine vs 0% on placebo). Clinical monitoring is recommended for these adverse reactions.
 
@@ -287,23 +287,21 @@ Table 2 shows the adverse reactions reported in patients with dementia associate
 
 Table 2
 
-| Metabolism and nutrition disorders                                      | Decreased appetite                                                                         |
-|-------------------------------------------------------------------------|--------------------------------------------------------------------------------------------|
-| Common Psychiatric disorders                                            | Dehydration                                                                                |
-| Common Common Common Not known Nervous system Very common Common Common |                                                                                            |
-| Common Common                                                           | Insomnia Anxiety Restlessness Hallucination, visual Depression Aggression Tremor Dizziness |
-| Common Common                                                           |                                                                                            |
-| Common                                                                  |                                                                                            |
-| disorders                                                               |                                                                                            |
-|                                                                         | Somnolence                                                                                 |
-|                                                                         | Headache                                                                                   |
-|                                                                         | Parkinson's disease (worsening)                                                            |
-| Common                                                                  | Bradykinesia                                                                               |
-| Common                                                                  | Dyskinesia                                                                                 |
-|                                                                         | Hypokinesia                                                                                |
-| Common                                                                  | Cogwheel rigidity                                                                          |
-| Uncommon                                                                | Dystonia                                                                                   |
-| Not Known                                                               | Pleurothotonus (Pisa syndrome)                                                             |
+| Metabolism and nutrition disorders                 | Decreased appetite                                                                            |
+|----------------------------------------------------|-----------------------------------------------------------------------------------------------|
+| Common Psychiatric disorders                       | Dehydration                                                                                   |
+| Common Common Not known Nervous system Very common |                                                                                               |
+| Common Common Common                               | Restlessness Hallucination, visual Depression Aggression Tremor Dizziness Somnolence Headache |
+| Common Common Common Common Common                 | Insomnia Anxiety                                                                              |
+| Common                                             |                                                                                               |
+| disorders                                          |                                                                                               |
+|                                                    | Parkinson's disease (worsening)                                                               |
+|                                                    | Bradykinesia                                                                                  |
+|                                                    | Dyskinesia                                                                                    |
+| Common                                             | Hypokinesia                                                                                   |
+| Common                                             | Cogwheel rigidity                                                                             |
+| Uncommon                                           | Dystonia                                                                                      |
+| Not Known                                          | Pleurothotonus (Pisa syndrome)                                                                |
 
 <div style=\"page-break-after: always\"></div>
 
@@ -342,8 +340,8 @@ Table 3
 | Pre-defined adverse events that may reflect worsening of parkinsonian symptoms in patients with dementia associated with Parkinson's disease   | Exelon n (%)        | Placebo n (%)       |
 |------------------------------------------------------------------------------------------------------------------------------------------------|---------------------|---------------------|
 | Total patients studied Total patients with pre-defined AE(s)                                                                                   | 362 (100) 99 (27.3) | 179 (100) 28 (15.6) |
-| Tremor                                                                                                                                         | 37 (10.2)           | 7 (3.9)             |
-| Fall                                                                                                                                           | 21 (5.8)            | 11 (6.1)            |
+| Tremor                                                                                                                                         | 37 (10.2) 21 (5.8)  | 7 (3.9)             |
+| Fall                                                                                                                                           |                     | 11 (6.1)            |
 | Parkinson's disease (worsening)                                                                                                                | 12 (3.3)            | 2 (1.1)             |
 | Salivary hypersecretion                                                                                                                        | 5 (1.4)             | 0                   |
 | Dyskinesia                                                                                                                                     | 5 (1.4)             | 1 (0.6)             |
@@ -389,7 +387,7 @@ In massive overdose, atropine can be used. An initial dose of 0.03 mg/kg intrave
 
 Pharmacotherapeutic group: psychoanaleptics, anticholinesterases, ATC code: N06DA03
 
-Rivastigmine is an acetyl- and butyrylcholinesterase inhibitor of the carbamate type, thought to facilitate cholinergic neurotransmission by slowing the degradation of acetylcholine released by functionally intact cholinergic neurones. Thus, rivastigmine may have an ameliorative effect on cholinergic-mediated cognitive deficits in dementia associated with Alzheimer's disease and Parkinson's disease.
+Rivastigmine is an acetyl- and butyrylcholinesterase inhibitor of the carbamate type, thought to facilitate cholinergic neurotransmission by slowing the degradation of acetylcholine released by functionally intact cholinergic neurones. Thus, rivastigmine may have an ameliorative effect on cholinergicmediated cognitive deficits in dementia associated with Alzheimer's disease and Parkinson's disease.
 
 Rivastigmine interacts with its target enzymes by forming a covalently bound complex that temporarily inactivates the enzymes. In healthy young men, an oral 3 mg dose decreases acetylcholinesterase (AChE) activity in CSF by approximately 40% within the first 1.5 hours after administration. Activity of the enzyme returns to baseline levels about 9 hours after the maximum inhibitory effect has been achieved. In patients with Alzheimer's disease, inhibition of AChE in CSF by rivastigmine was dose-dependent up to 6 mg given twice daily, the highest dose tested. Inhibition
 
@@ -399,13 +397,13 @@ of butyrylcholinesterase activity in CSF of 14 Alzheimer patients treated by riv
 
 ## Clinical studies in Alzheimer's dementia
 
-The efficacy of rivastigmine has been established through the use of three independent, domain specific, assessment tools which were assessed at periodic intervals during 6 month treatment periods. These include the ADAS-Cog (Alzheimer's Disease Assessment Scale - Cognitive subscale, a performance based measure of cognition), the CIBIC-Plus (Clinician's Interview Based Impression of Change-Plus, a comprehensive global assessment of the patient by the physician incorporating caregiver input), and the PDS (Progressive Deterioration Scale, a caregiver-rated assessment of the activities of daily living including personal hygiene, feeding, dressing, household chores such as shopping, retention of ability to orient oneself to surroundings as well as involvement in activities relating to finances, etc.).
+The efficacy of rivastigmine has been established through the use of three independent, domain specific, assessment tools which were assessed at periodic intervals during 6 month treatment periods. These include the ADAS-Cog ( Alzheimer's Disease Assessment Scale Cognitive subscale, a performance based measure of cognition), the CIBIC-Plus ( Clinician's Interview Based Impression of Change-Plus, a comprehensive global assessment of the patient by the physician incorporating caregiver input), and the PDS (Progressive Deterioration Scale, a caregiver-rated assessment of the activities of daily living including personal hygiene, feeding, dressing, household chores such as shopping, retention of ability to orient oneself to surroundings as well as involvement in activities relating to finances, etc.).
 
-The patients studied had an MMSE (Mini-Mental State Examination) score of 10-24.
+The patients studied had an MMSE (Mini-Mental State Examination) score of 10 -24.
 
-The results for clinically relevant responders pooled from two flexible dose studies out of the three pivotal 26-week multicentre studies in patients with mild-to-moderately severe Alzheimer's Dementia, are provided in Table 4 below. Clinically relevant improvement in these studies was defined a priori as at least 4-point improvement on the ADAS-Cog, improvement on the CIBIC-Plus, or at least a 10% improvement on the PDS.
+The results for clinically relevant responders pooled from two flexible dose studies out of the three pivotal 26-week multicentre studies in patients with mild-tomoderately severe Alzheimer's Dementia, are provided in Table 4 below. Clinically relevant improvement in these studies was defined a priori as at least 4-point improvement on the ADAS-Cog, improvement on the CIBIC-Plus, or at least a 10% improvement on the PDS.
 
-In addition, a post-hoc definition of response is provided in the same table. The secondary definition of response required a 4-point or greater improvement on the ADAS-Cog, no worsening on the CIBIC-Plus, and no worsening on the PDS. The mean actual daily dose for responders in the 6-12 mg group, corresponding to this definition, was 9.3 mg. It is important to note that the scales used in this indication vary and direct comparisons of results for different therapeutic agents are not valid.
+In addition, a post-hoc definition of response is provided in the same table. The secondary definition of response required a 4-point or greater improvement on the ADAS-Cog, no worsening on the CIBIC-Plus, and no worsening on the PDS. The mean actual daily dose for responders in the 6 -12 mg group, corresponding to this definition, was 9.3 mg. It is important to note that the scales used in this indication vary and direct comparisons of results for different therapeutic agents are not valid.
 
 Table 4
 
@@ -422,11 +420,11 @@ Table 4
 
 ## Clinical studies in dementia associated with Parkinson's disease
 
-The efficacy of rivastigmine in dementia associated with Parkinson's disease has been demonstrated in a 24-week multicentre, double-blind, placebo-controlled core study and its 24-week open-label extension phase. Patients involved in this study had an MMSE (Mini-Mental State Examination) score of 10-24. Efficacy has been established by the use of two independent scales which were assessed at regular intervals during a 6-month treatment period as shown in Table 5 below: the ADAS-Cog, a
+The efficacy of rivastigmine in dementia associated with Parkinson's disease has been demonstrated in a 24-week multicentre, double-blind, placebo-controlled core study and its 24-week open-label extension phase. Patients involved in this study had an MMSE (Mini-Mental State Examination) score of 10 -24. Efficacy has been established by the use of two independent scales which were assessed at regular intervals during a 6-month treatment period as shown in Table 5 below: the ADAS-Cog, a
 
 <div style=\"page-break-after: always\"></div>
 
-measure of cognition, and the global measure ADCS-CGIC (Alzheimer's Disease Cooperative StudyClinician's Global Impression of Change).
+measure of cognition, and the global measure ADCSCGIC (Alzheimer's Disease Cooperative Study -Clinician's Global Impression of Change).
 
 Table 5
 
@@ -447,16 +445,16 @@ Table 6
 |                                                                                                                           | 9.9                                 |                                     | 23.1 ± 10.4                            | 10.1                                   |
 |                                                                                                                           |                                     | -2.1 ± 8.3                          | 2.6 ± 7.6                              | 0.1 ± 6.9                              |
 |                                                                                                                           | 4.27 1                              | 4.27 1                              | 2.09 1 1                               | 2.09 1 1                               |
-|                                                                                                                           | 0.002 1 moderate                    | 0.002 1 moderate                    | 0.015                                  | 0.015                                  |
-|                                                                                                                           | Patients with dementia (MMSE        | 10-17) (n=44)                       | Patients with (MMSE 18-24)             | mild dementia                          |
+|                                                                                                                           | 0.002 1 moderate                    | 0.002 1 moderate                    | 0.015 Patients with mild dementia      | 0.015 Patients with mild dementia      |
+|                                                                                                                           | Patients with dementia (MMSE        | 10-17) (n=44)                       | (MMSE 18-24)                           |                                        |
 | ITT + RDO population                                                                                                      | (n=87)                              |                                     | (n=237)                                | (n=115)                                |
 | Mean baseline ± SD                                                                                                        | 32.6 ± 10.4                         | 33.7 ± 10.3                         | 20.6 ± 7.9                             | 20.7 ± 7.9                             |
 | Mean change at 24 weeks ± SD                                                                                              | 2.6 ± 9.4 4.73 1 0.002 1            | -1.8 ± 7.2                          | 1.9 ± 7.7 2.14 1 1                     | -0.2 ± 7.5                             |
-| difference p-value versus placebo                                                                                         |                                     |                                     | 0.010                                  | 0.010                                  |
+| p-value versus placebo                                                                                                    |                                     |                                     | 0.010                                  | 0.010                                  |
 
 ITT: Intent-To-Treat; RDO: Retrieved Drop Outs
 
-The European Medicines Agency has waived the obligation to submit the results of studies with Exelon in all subsets of the paediatric population in the treatment of Alzheimer's dementia and in the treatment of dementia in patients with idiopathic Parkinson's disease (see section 4.2 for information on paediatric use).
+The European Medicines Agency has waived the obligation to submit the results of studies with Exelon in all subsets of the paediatric population in the treatment of Alzheimer's d ementia and in the treatment of dementia in patients with idiopathic Parkinson's disease (see section 4.2 for information on paediatric use).
 
 ## 5.2 Pharmacokinetic properties
 
@@ -466,7 +464,7 @@ Rivastigmine is rapidly and completely absorbed. Peak plasma concentrations are 
 
 ## Distribution
 
-Protein binding of rivastigmine is approximately 40%. It readily crosses the blood brain barrier and has an apparent volume of distribution in the range of 1.8-2.7 l/kg.
+Protein binding of rivastigmine is approximately 40%. It readily crosses the blood brain barrier and has an apparent volume of distribution in the range of 1.8 -2.7 l/kg.
 
 ## Biotransformation
 
@@ -478,9 +476,9 @@ Based on in vitro studies, no pharmacokinetic interaction is expected with medic
 
 ## Elimination
 
-Unchanged rivastigmine is not found in the urine; renal excretion of the metabolites is the major route of elimination. Following administration of 14 C-rivastigmine, renal elimination was rapid and essentially complete (&gt;90%) within 24 hours. Less than 1% of the administered dose is excreted in the faeces. There is no accumulation of rivastigmine or the decarbamylated metabolite in patients with Alzheimer's disease.
+Unchanged rivastigmine is not found in the urine; renal excretion of the metabolites is the major route of elimination. Following administration of 14 C-rivastigmine, renal elimination was rapid and essentially complete (&gt;90%) within 24 hours. Less than 1% of the administered dose is excreted in the faeces. There is no accumulation of rivastigmine or the decarbamylated metabolite in patients with Alzheim er's disease.
 
-A population pharmacokinetic analysis showed that nicotine use increases the oral clearance of rivastigmine by 23% in patients with Alzheimer's disease (n=75 smokers and 549 non-smokers) following rivastigmine oral capsule doses of up to 12 mg/day.
+A population pharmacokinetic analysis showed that nicotine use increases the oral clearance of rivastigmine by 23% in patients with Alzheimer's disease (n=75 smokers and 549 non -smokers) following rivastigmine oral capsule doses of up to 12 mg/day.
 
 ## Special populations
 
@@ -542,13 +540,15 @@ No special requirements.
 
 Novartis Europharm Limited Vista Building Elm Park, Merrion Road Dublin 4 Ireland
 
-## 8. MARKETING AUTHORISATION NUMBER(S)
+<div style=\"page-break-after: always\"></div>
+
+8.
+
+MARKETING AUTHORISATION NUMBER(S)
 
 Exelon 1.5 mg hard capsules
 
 EU/1/98/066/001-3
-
-<div style=\"page-break-after: always\"></div>
 
 Exelon 3.0 mg hard capsules
 
@@ -568,7 +568,9 @@ Date of first authorisation: 12 May 1998
 
 Date of latest renewal: 20 May 2008
 
-## 10. DATE OF REVISION OF THE TEXT
+10.
+
+DATE OF REVISION OF THE TEXT
 
 Detailed information on this medicinal product is available on the website of the European Medicines Agency http://www.ema.europa.eu
 
@@ -618,7 +620,7 @@ Rivastigmine oral solution should be administered twice a day, with morning and 
 
 The starting dose is 1.5 mg twice a day. If this dose is well tolerated after a minimum of two weeks of treatment, the dose may be increased to 3 mg twice a day. Subsequent increases to 4.5 mg and then 6 mg twice a day should also be based on good tolerability of the current dose and may be considered after a minimum of two weeks of treatment at that dose level.
 
-If adverse reactions (e.g. nausea, vomiting, abdominal pain or loss of appetite), weight decrease or worsening of extrapyramidal symptoms (e.g. tremor) in patients with dementia associated with Parkinson's disease are observed during treatment, these may respond to omitting one or more doses. If
+If adverse reactions (e.g. nausea, vomiting, abdominal pain or loss of appetite), weight decrease or worsening of extrapyramidal symptoms (e.g. tremor) in patients with dementia associated with Parkinson's disease are observed during treatment, these may r espond to omitting one or more doses. If
 
 <div style=\"page-break-after: always\"></div>
 
@@ -692,7 +694,7 @@ Cholinomimetics may induce or exacerbate urinary obstruction and seizures. Cauti
 
 <div style=\"page-break-after: always\"></div>
 
-The use of rivastigmine in patients with severe dementia of Alzheimer's disease or associated with Parkinson's disease, other types of dementia or other types of memory impairment (e.g. age-related cognitive decline) has not been investigated and therefore use in these patient populations is not recommended.
+The use of rivastigmine in patients with severe dementia of Alzheimer's disease or associated with Parkinson's disease, other types of dementia or other types of memory impairment (e.g. age -related cognitive decline) has not been investigated and therefore use in these patient populations is not recommended.
 
 Like other cholinomimetics, rivastigmine may exacerbate or induce extrapyramidal symptoms. Worsening (including bradykinesia, dyskinesia, gait abnormality) and an increased incidence or severity of tremor have been observed in patients with dementia associated with Parkinson's disease (see section 4.8). These events led to the discontinuation of rivastigmine in some cases (e.g. discontinuations due to tremor 1.7% on rivastigmine vs 0% on placebo). Clinical monitoring is recommended for these adverse reactions.
 
@@ -884,8 +886,7 @@ Table 3
 | Pre-defined adverse events that may reflect worsening of parkinsonian symptoms in patients with dementia associated with Parkinson's disease   | Exelon n (%)        | Placebo n (%)       |
 |------------------------------------------------------------------------------------------------------------------------------------------------|---------------------|---------------------|
 | Total patients studied Total patients with pre-defined AE(s)                                                                                   | 362 (100) 99 (27.3) | 179 (100) 28 (15.6) |
-| Tremor                                                                                                                                         | 37 (10.2) 21 (5.8)  | 7 (3.9) 11 (6.1)    |
-| Fall                                                                                                                                           |                     |                     |
+| Tremor Fall                                                                                                                                    | 37 (10.2) 21 (5.8)  | 7 (3.9) 11 (6.1)    |
 | Parkinson's disease (worsening)                                                                                                                | 12 (3.3)            | 2 (1.1)             |
 | Salivary hypersecretion                                                                                                                        | 5 (1.4)             | 0                   |
 | Dyskinesia                                                                                                                                     | 5 (1.4)             | 1 (0.6)             |
@@ -933,21 +934,21 @@ In massive overdose, atropine can be used. An initial dose of 0.03 mg/kg intrave
 
 Pharmacotherapeutic group: psychoanaleptics, anticholinesterases, ATC code: N06DA03
 
-Rivastigmine is an acetyl- and butyrylcholinesterase inhibitor of the carbamate type, thought to facilitate cholinergic neurotransmission by slowing the degradation of acetylcholine released by functionally intact cholinergic neurones. Thus, rivastigmine may have an ameliorative effect on cholinergic-mediated cognitive deficits in dementia associated with Alzheimer's disease and Parkinson's disease.
+Rivastigmine is an acetyl- and butyrylcholinesterase inhibitor of the carbamate type, thought to facilitate cholinergic neurotransmission by slowing the degradation of acetylcholine released by functionally intact cholinergic neurones. Thus, rivastigmine may have an ameliorative effect on cholinergicmediated cognitive deficits in dementia associated with Alzheimer's disease and Parkinson's disease.
 
 Rivastigmine interacts with its target enzymes by forming a covalently bound complex that temporarily inactivates the enzymes. In healthy young men, an oral 3 mg dose decreases acetylcholinesterase (AChE) activity in CSF by approximately 40% within the first 1.5 hours after administration. Activity of the enzyme returns to baseline levels about 9 hours after the maximum inhibitory effect has been achieved. In patients with Alzheimer's disease, inhibition of AChE in CSF by rivastigmine was dose-dependent up to 6 mg given twice daily, the highest dose tested. Inhibition of butyrylcholinesterase activity in CSF of 14 Alzheimer patients treated by rivastigmine was similar to that of AChE.
 
 ## Clinical studies in Alzheimer's dementia
 
-The efficacy of rivastigmine has been established through the use of three independent, domain specific, assessment tools which were assessed at periodic intervals during 6 month treatment periods. These include the ADAS-Cog (Alzheimer's Disease Assessment Scale - Cognitive subscale, a performance based measure of cognition), the CIBIC-Plus (Clinician's Interview Based Impression of Change-Plus, a comprehensive global assessment of the patient by the physician incorporating caregiver input), and the PDS (Progressive Deterioration Scale, a caregiver-rated assessment of the activities of daily living including personal hygiene, feeding, dressing, household chores such as shopping, retention of ability to orient oneself to surroundings as well as involvement in activities relating to finances, etc.).
+The efficacy of rivastigmine has been established through the use of three independent, domain specific, assessment tools which were assessed at periodic intervals during 6 month treatment periods. These include the ADAS-Cog ( Alzheimer's Disease Assessment Scale Cognitive subscale, a performance based measure of cognition), the CIBICPlus (Clinician's Interview Based Impression of Change-Plus, a comprehensive global assessment of the patient by the physician incorporating caregiver input), and the PDS (Progressive Deterioration Scale, a caregiver-rated assessment of the activities of daily living including personal hygiene, feeding, dressing, household chores such as shopping, retention of ability to orient oneself to surroundings as well as involvement in activities relating to finances, etc.).
 
-The patients studied had an MMSE (Mini-Mental State Examination) score of 10-24.
+The patients studied had an MMSE (Mini-Mental State Examination) score of 10 -24.
 
 <div style=\"page-break-after: always\"></div>
 
-The results for clinically relevant responders pooled from two flexible dose studies out of the three pivotal 26-week multicentre studies in patients with mild-to-moderately severe Alzheimer's Dementia, are provided in Table 4 below. Clinically relevant improvement in these studies was defined a priori as at least 4-point improvement on the ADAS-Cog, improvement on the CIBIC-Plus, or at least a 10% improvement on the PDS.
+The results for clinically relevant responders pooled from two flexible dose studies out of the three pivotal 26-week multicentre studies in patients with mild-tomoderately severe Alzheimer's Dementia, are provided in Table 4 below. Clinically relevant improvement in these studies was defined a priori as at least 4-point improvement on the ADAS-Cog, improvement on the CIBIC-Plus, or at least a 10% improvement on the PDS.
 
-In addition, a post-hoc definition of response is provided in the same table. The secondary definition of response required a 4-point or greater improvement on the ADAS-Cog, no worsening on the CIBIC-Plus, and no worsening on the PDS. The mean actual daily dose for responders in the 6-12 mg group, corresponding to this definition, was 9.3 mg. It is important to note that the scales used in this indication vary and direct comparisons of results for different therapeutic agents are not valid.
+In addition, a post-hoc definition of response is provided in the same table. The secondary definition of response required a 4-point or greater improvement on the ADAS-Cog, no worsening on the CIBIC-Plus, and no worsening on the PDS. The mean actual daily dose for responders in the 6 -12 mg group, corresponding to this definition, was 9.3 mg. It is important to note that the scales used in this indication vary and direct comparisons of results for different therapeutic agents are not valid.
 
 Table 4
 
@@ -964,7 +965,7 @@ Table 4
 
 ## Clinical studies in dementia associated with Parkinson's disease
 
-The efficacy of rivastigmine in dementia associated with Parkinson's disease has been demonstrated in a 24-week multicentre, double-blind, placebo-controlled core study and its 24-week open-label extension phase. Patients involved in this study had an MMSE (Mini-Mental State Examination) score of 10-24. Efficacy has been established by the use of two independent scales which were assessed at regular intervals during a 6-month treatment period as shown in Table 5 below: the ADAS-Cog, a measure of cognition, and the global measure ADCS-CGIC (Alzheimer's Disease Cooperative StudyClinician's Global Impression of Change).
+The efficacy of rivastigmine in dementia associated with Parkinson's disease has been demonstrated in a 24-week multicentre, double-blind, placebo-controlled core study and its 24-week open-label extension phase. Patients involved in this study had an MMSE (Mini-Mental State Examination) score of 10 -24. Efficacy has been established by the use of two independent scales which were assessed at regular intervals during a 6-month treatment period as shown in Table 5 below: the ADAS-Cog, a measure of cognition, and the global measure ADCSCGIC (Alzheimer's Disease Cooperative Study -Clinician's Global Impression of Change).
 
 <div style=\"page-break-after: always\"></div>
 
@@ -973,6 +974,8 @@ Table 5
 | Dementia associated with Parkinson's Disease                                                                                                                                                                                                         | ADAS-Cog Exelon                                             | ADAS-Cog Placebo                                                                              | ADCS- CGIC Exelon                           | ADCS-CGIC Placebo                                                    |
 |------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------|-----------------------------------------------------------------------------------------------|---------------------------------------------|----------------------------------------------------------------------|
 | ITT + RDO population Mean baseline ± SD Mean change at 24 weeks ± SD Adjusted treatment difference p-value versus placebo ITT - LOCF population Mean baseline ± SD Mean change at 24 weeks ± SD Adjusted treatment difference p-value versus placebo | (n=329) 23.8 ± 10.2 2.1 ± 8.2 (n=287) 24.0 ± 10.3 2.5 ± 8.4 | (n=161) 24.3 ± 10.5 -0.7 ± 7.5 2.88 1 <0.001 1 (n=154) 24.5 ± 10.6 -0.8 ± 7.5 3.54 1 <0.001 1 | (n=329) n/a 3.8 ± 1.4 (n=289) n/a 3.7 ± 1.4 | (n=165) n/a 4.3 ± 1.5 n/a 0.007 2 (n=158) n/a 4.3 ± 1.5 n/a <0.001 2 |
+
+2 Mean data shown for convenience, categorical analysis performed using van Elteren test ITT: Intent-To-Treat; RDO: Retrieved Drop Outs; LOCF: Last Observation Carried Forward
 
 Although a treatment effect was demonstrated in the overall study population, the data suggested that a larger treatment effect relative to placebo was seen in the subgroup of patients with moderate dementia associated with Parkinson's disease. Similarly a larger treatment effect was observed in those patients with visual hallucinations (see Table 6).
 
@@ -996,17 +999,17 @@ Table 6
 
 ITT: Intent-To-Treat; RDO: Retrieved Drop Outs
 
-The European Medicines Agency has waived the obligation to submit the results of studies with Exelon in all subsets of the paediatric population in the treatment of Alzheimer's dementia and in the treatment of dementia in patients with idiopathic Parkinson's disease (see section 4.2 for information on paediatric use).
+The European Medicines Agency has waived the obligation to submit the results of studies with Exelon in all subsets of the paediatric population in the treatment of Alzheimer's dementia and in the treatment of dementia in patients with idiopathic Parkinson 's disease (see section 4.2 for information on paediatric use).
 
 ## 5.2 Pharmacokinetic properties
 
 ## Absorption
 
-Rivastigmine is rapidly and completely absorbed. Peak plasma concentrations are reached in approximately 1 hour. As a consequence of rivastigmine's interaction with its target enzyme, the increase in bioavailability is about 1.5-fold greater than that expected from the increase in dose. Absolute bioavailability after a 3 mg dose is about 36%  13%. Administration of rivastigmine oral solution with food delays absorption (tmax) by 74 min and lowers Cmax by 43% and increases AUC by approximately 9%.
+Rivastigmine is rapidly and completely absorbed. Peak plasma concentrations are reached in approximately 1 hour. As a consequence of rivastigmine 's interaction with its target enzyme, the increase in bioavailability is about 1.5-fold greater than that expected from the increase in dose. Absolute bioavailability after a 3 mg dose is about 36%  13%. Administration of rivastigmine oral solution with food delays absorption (tmax) by 74 min and lowers Cmax by 43% and increases AUC by approximately 9%.
 
 ## Distribution
 
-Protein binding of rivastigmine is approximately 40%. It readily crosses the blood brain barrier and has an apparent volume of distribution in the range of 1.8-2.7 l/kg.
+Protein binding of rivastigmine is approximately 40%. It readily crosses the blood brain barrier and has an apparent volume of distribution in the range of 1.8 -2.7 l/kg.
 
 <div style=\"page-break-after: always\"></div>
 
@@ -1018,9 +1021,9 @@ Based on in vitro studies, no pharmacokinetic interaction is expected with medic
 
 ## Elimination
 
-Unchanged rivastigmine is not found in the urine; renal excretion of the metabolites is the major route of elimination. Following administration of 14 C-rivastigmine, renal elimination was rapid and essentially complete (&gt;90%) within 24 hours. Less than 1% of the administered dose is excreted in the faeces. There is no accumulation of rivastigmine or the decarbamylated metabolite in patients with Alzheimer's disease.
+Unchanged rivastigmine is not found in the urine; renal excretion of the metabolites is the major route of elimination. Following administration of 14 C-rivastigmine, renal elimination was rapid and essentially complete (&gt;90%) within 24 hours. Less than 1% of the administered dose is excreted in the faeces. There is no accumulation of rivastigmine or the decarbamylated metabolite in patients with Alzheim er's disease.
 
-A population pharmacokinetic analysis showed that nicotine use increases the oral clearance of rivastigmine by 23% in patients with Alzheimer's disease (n=75 smokers and 549 non-smokers) following rivastigmine oral capsule doses of up to 12 mg/day.
+A population pharmacokinetic analysis showed that nicotine use increases the oral clearance of rivastigmine by 23% in patients with Alzheimer's disease (n=75 smokers and 549 non -smokers) following rivastigmine oral capsule doses of up to 12 mg/day.
 
 ## Special populations
 
@@ -1324,7 +1327,7 @@ Alzheimer's disease may cause gradual impairment of driving performance or compr
 
 Application site skin reactions (usually mild to moderate application site erythema), are the most frequent adverse reactions observed with the use of Exelon transdermal patch. The next most common adverse reactions are gastrointestinal in nature including nausea and vomiting .
 
-Adverse reactions in Table 1 are listed according to MedDRA system organ class and frequency category. Frequency categories are defined using the following convention: very common (≥1/10); common (≥1/100 to &lt;1/10); uncommon (≥1/1,000 to &lt;1/100); rare (≥1/10,000 to &lt;1/1,000); very rare (&lt;1/10,000); not known (cannot be estimated from the available data).
+Adverse reactions in Table 1 are listed according to MedDRA system organ class and frequency category. Frequency categories are defined using the following convention: very common (≥1/10); common (≥1/100 to &lt;1/10); uncommon (≥1/1,000 to &lt;1/100); rare (≥1/1 0,000 to &lt;1/1,000); very rare (&lt;1/10,000); not known (cannot be estimated from the available data).
 
 <div style=\"page-break-after: always\"></div>
 
@@ -1348,7 +1351,7 @@ Table 1
 | Common                                               | Headache, syncope, dizziness                                                                                                                                                                                                                                    |
 | Uncommon                                             | Psychomotor hyperactivity                                                                                                                                                                                                                                       |
 | Very rare                                            | Extrapyramidal symptoms                                                                                                                                                                                                                                         |
-| Not known                                            | Worsening of Parkinson's disease, seizure, tremor, somnolence, pleurothotonus (Pisa syndrome)                                                                                                                                                                   |
+| Not known                                            | Worsening of Parkinson's disease, seizure , tremor, somnolence, pleurothotonus (Pisa syndrome)                                                                                                                                                                  |
 | Cardiac disorders                                    | Cardiac disorders                                                                                                                                                                                                                                               |
 | Uncommon                                             | Bradycardia                                                                                                                                                                                                                                                     |
 | Not known                                            | Atrioventricular block, atrial fibrillation, tachycardia, sick sinus syndrome                                                                                                                                                                                   |
@@ -1412,7 +1415,7 @@ In massive overdose, atropine can be used. An initial dose of 0.03 mg/kg intrave
 
 Pharmacotherapeutic group: psychoanaleptics, anticholinesterases, ATC code: N06DA03
 
-Rivastigmine is an acetyl- and butyrylcholinesterase inhibitor of the carbamate type, thought to facilitate cholinergic neurotransmission by slowing the degradation of acetylcholine released by functionally intact cholinergic neurones. Thus, rivastigmine may have an ameliorative effect on cholinergic-mediated cognitive deficits in dementia associated with Alzheimer's disease.
+Rivastigmine is an acetyl- and butyrylcholinesterase inhibitor of the carbamate type, thought to facilitate cholinergic neurotransmission by slowing the degradation of acetylcholine released by functionally intact cholinergic neurones. Thus, rivastigmine may have an ameliorative effect on cholinergicmediated cognitive deficits in dementia associated with Alzheimer's disease.
 
 Rivastigmine interacts with its target enzymes by forming a covalently bound complex that temporarily inactivates the enzymes. In healthy young men, an oral 3 mg dose decreases acetylcholinesterase (AChE) activity in CSF by approximately 40% within the first 1.5 hours after administration. Activity of the enzyme returns to baseline levels about 9 hours after the maximum inhibitory effect has been achieved. In patients with Alzheimer's disease, inhibition of AChE in CSF by oral rivastigmine was dose-dependent up to 6 mg given twice daily, the highest dose tested. Inhibition of butyrylcholinesterase activity in CSF of 14 Alzheimer patients treated by oral rivastigmine was similar to the inhibition of AChE activity.
 
@@ -1422,40 +1425,49 @@ The efficacy of Exelon transdermal patches in patients with Alzheimer's dementia
 
 ## 24-week placebo-controlled study
 
-Patients involved in the placebo-controlled study had an MMSE (Mini-Mental State Examination) score of 10-20. Efficacy was established by the use of independent, domain-specific assessment tools which were applied at regular intervals during the 24-week treatment period. These include the ADAS-Cog (Alzheimer's Disease Assessment Scale - Cognitive subscale, a performance-based measure of cognition) and the ADCS-CGIC (Alzheimer's Disease Cooperative Study - Clinician's Global Impression of Change, a comprehensive global assessment of the patient by the physician incorporating caregiver input), and the ADCS-ADL (Alzheimer's Disease Cooperative Study Activities of Daily Living, a caregiver-rated assessment of the activities of daily living including personal hygiene, feeding, dressing, household chores such as shopping, retention of ability to orient oneself to surroundings as well as involvement in activities related to finances). The 24-week results for the three assessment tools are summarised in Table 2.
+Patients involved in the placebo-controlled study had an MMSE (Mini-Mental State Examination) score of 10 -20. Efficacy was established by the use of independent, domain-specific assessment tools which were applied at regular intervals during the 24-week treatment period. These include the ADAS-Cog ( Alzheimer's Disease Assessment Scale Cognitive subscale, a performance-based measure of cognition) and the ADCSCGIC (Alzheimer's Disease Cooperative Study -Clinician's Global Impression of Change, a comprehensive global assessment of the patient by the physician incorporating caregiver input), and the ADCS-ADL ( Alzheimer's Disease Cooperative Study Activities of Daily Living, a caregiver-rated assessment of the activities of daily living including personal hygiene, feeding, dressing, household chores such as shopping, retention of ability to orient oneself to surroundings as well as involvement in activities related to finances). The 24-week results for the three assessment tools are summarised in Table 2.
 
 <div style=\"page-break-after: always\"></div>
 
 Table 2
 
-| ITT-LOCF population                                                   | Exelon transdermal patches 9.5 mg/24 h N = 251   | Exelon capsules 12 mg/day N = 256      | Placebo N = 282              |
-|-----------------------------------------------------------------------|--------------------------------------------------|----------------------------------------|------------------------------|
-| ADAS-Cog                                                              |                                                  |                                        |                              |
-| Mean baseline  SD Mean change at week 24  SD p-value versus placebo | (n=248) 27.0  10.3 -0.6  6.4 0.005* 1          | (n=253) 27.9  9.4 -0.6  6.2 0.003* 1 | (n=281) 28.6  9.9 1.0  6.8 |
-| ADCS-CGIC                                                             |                                                  |                                        |                              |
-| Mean score  SD                                                       | (n=248) 3.9  1.20 0.010* 2                      | (n=253) 3.9  1.25 0.009* 2            | (n=278) 4.2  1.26           |
-| p-value versus placebo ADCS-ADL Mean baseline  SD                    | (n=247) 50.1  16.3                              | (n=254) 49.3  15.8                    | (n=281) 49.2  16.0          |
-| Mean change at week 24  SD p-value versus placebo                    | -0.1  9.1 0.013* 1                              | -0.5  9.5 0.039* 1                    | -2.3  9.4                   |
+| ITT-LOCF population         | Exelon transdermal patches 9.5 mg/24 h N = 251   | Exelon capsules 12 mg/day N = 256   | Placebo N = 282    |
+|-----------------------------|--------------------------------------------------|-------------------------------------|--------------------|
+| ADAS-Cog                    |                                                  |                                     |                    |
+| Mean baseline  SD          | (n=248) 27.0  10.3 -0.6  6.4                   | (n=253) 27.9  9.4 -0.6  6.2       | (n=281) 28.6  9.9 |
+| Mean change at week 24  SD |                                                  |                                     | 1.0  6.8          |
+| p-value versus placebo      | 0.005* 1                                         | 0.003* 1                            |                    |
+| ADCS-CGIC                   |                                                  |                                     |                    |
+|                             | (n=248)                                          | (n=253)                             | (n=278)            |
+| Mean score  SD             | 3.9  1.20                                       | 3.9  1.25                          | 4.2  1.26         |
+| p-value versus placebo      | 0.010* 2                                         | 0.009* 2                            |                    |
+| ADCS-ADL                    |                                                  |                                     |                    |
+|                             | (n=247)                                          | (n=254)                             | (n=281)            |
+| Mean baseline  SD          | 50.1  16.3                                      | 49.3  15.8                         | 49.2  16.0        |
+| Mean change at week 24  SD | -0.1  9.1                                       | -0.5  9.5                          | -2.3  9.4         |
+| p-value versus placebo      | 0.013* 1                                         | 0.039* 1                            |                    |
 
 The results for clinically relevant responders from the 24-week placebo-controlled study are provided in Table 3. Clinically relevant improvement was defined a priori as at least 4-point improvement on the ADAS-Cog, no worsening on the ADCS-CGIC, and no worsening on the ADCS-ADL.
 
 Table 3
 
-|                        | Patients with clinically significant response (%)   | Patients with clinically significant response (%)   | Patients with clinically significant response (%)   |
-|------------------------|-----------------------------------------------------|-----------------------------------------------------|-----------------------------------------------------|
-| ITT-LOCF population    | Exelon transdermal patches 9.5 mg/24 h N = 251      | Exelon capsules 12 mg/day N = 256                   | Placebo N = 282                                     |
-| At least 4 points      | 17.4                                                | 19.0                                                | 10.5                                                |
-| p-value versus placebo | 0.037*                                              | 0.004*                                              |                                                     |
+|                                           | Patients with clinically significant response (%)   | Patients with clinically significant response (%)   | Patients with clinically significant response (%)   |
+|-------------------------------------------|-----------------------------------------------------|-----------------------------------------------------|-----------------------------------------------------|
+| ITT-LOCF population                       | Exelon transdermal patches 9.5 mg/24 h N = 251      | Exelon capsules 12 mg/day N = 256                   | Placebo N = 282                                     |
+| At least 4 points improvement on ADAS-Cog | 17.4                                                | 19.0                                                | 10.5                                                |
+| p-value versus placebo                    | 0.037*                                              | 0.004*                                              |                                                     |
+
+*p&lt;0.05 versus placebo
 
 As suggested by compartmental modelling, 9.5 mg/24 h transdermal patches exhibited exposure similar to that provided by an oral dose of 12 mg/day.
 
 ## 48-week active comparator controlled study
 
-Patients involved in the active comparator controlled study had an initial baseline MMSE score of 10-24. The study was designed to compare the efficacy of the 13.3 mg/24 h transdermal patch against the 9.5 mg/24 h transdermal patch during a 48-week double-blind treatment phase in Alzheimer's disease patients who demonstrated functional and cognitive decline after an initial 24-48 week openlabel treatment phase while on a maintenance dose of 9.5 mg/24 h transdermal patch. Functional
+Patients involved in the active comparator controlled study had an initial baseline MMSE score of 10-24. The study was designed to compare the efficacy of the 13.3 mg/24 h transdermal patch against the 9.5 mg/24 h transdermal patch during a 48-week doubleblind treatment phase in Alzheimer's disease patients who demonstrated functional and cognitive decline after an initial 24-48 week openlabel treatment phase while on a maintenance dose of 9.5 mg/24 h transdermal patch. Functional
 
 <div style=\"page-break-after: always\"></div>
 
-decline was assessed by the investigator and cognitive decline was defined as a decrease in the MMSE score of &gt;2 points from the previous visit or a decrease of &gt;3 points from baseline. Efficacy was established by the use of ADAS-Cog (Alzheimer's Disease Assessment Scale - Cognitive subscale, a performance-based measure of cognition) and the ADCS-IADL (Alzheimer's Disease Cooperative Study - Instrumental Activities of Daily Living) assessing instrumental activities which include maintaining finances, meal preparation, shopping, ability to orient oneself to surroundings, ability to be left unattended. The 48-week results for the two assessment tools are summarised in Table 4.
+decline was assessed by the investigator and cognitive decline was defined as a decrease in the MMSE score of &gt;2 points from the previous visit or a decrease of &gt;3 points from baseline. Efficacy was established by the use of ADASCog (Alzheimer's Disease Assessment Scale Cognitive subscale, a performance-based measure of cognition) and the ADCSIADL (Alzheimer's Disease Cooperative Study -Instrumental Activities of Daily Living) assessing instrumental activities which include maintaining finances, meal preparation, shopping, ability to orient oneself to surroundings, ability to be left unattended. The 48-week results for the two assessment tools are summarised in Table 4.
 
 Table 4
 
@@ -1471,11 +1483,11 @@ Table 4
 | Week 48            |                | 265                      | 23.1                     | 271                      | 19.6                     |                  |                  |                  |
 |                    | Change         | 265                      | -4.4                     | 271                      | -6.2                     | 2.2              | (0.8, 3.6)       | 0.002*           |
 
-CI - confidence interval.
+CI -confidence interval.
 
-DLSM - difference in least square means.
+DLSM -difference in least square means.
 
-LOCF - Last Observation Carried Forward.
+LOCF -Last Observation Carried Forward.
 
 ADAS-cog scores: A negative difference in DLSM indicates greater improvement in Exelon 15 cm 2 as compared to Exelon 10 cm 2 .
 
@@ -1503,11 +1515,11 @@ transdermal patches and 0.72 for Exelon 13.3 mg/24 h transdermal patches, thus d
 
 The dose of rivastigmine released from the transdermal patch over 24 hours (mg/24 h) cannot be directly equated to the amount (mg) of rivastigmine contained in a capsule with respect to plasma concentration produced over 24 hours.
 
-The single-dose inter-subject variability in rivastigmine pharmacokinetic parameters (normalised to dose/kg bodyweight) was 43% (Cmax) and 49% (AUC0-24h) after transdermal administration versus 74% and 103%, respectively, after the oral form. The inter-patient variability in a steady-state study in Alzheimer's dementia was at most 45% (Cmax) and 43% (AUC0-24h) after use of the transdermal patch, and 71% and 73%, respectively, after administration of the oral form.
+The single-dose inter-subject variability in rivastigmine pharmacokinetic parameters (normalised to dose/kg bodyweight) was 43% (Cmax) and 49% (AUC0-24h) after transdermal administration versus 74% and 103%, respectively, after the oral form. The inter-patient variability in a steady-state study in Alzheimer's dementia was at most 45% (C max) and 43% (AUC0-24h) after use of the transdermal patch, and 71% and 73%, respectively, after administration of the oral form.
 
-A relationship between active substance exposure at steady state (rivastigmine and metabolite NAP226-90) and bodyweight was observed in Alzheimer's dementia patients. Compared to a patient with a body weight of 65 kg, the rivastigmine steady-state concentrations in a patient with a body weight of 35 kg would be approximately doubled, while for a patient with a body weight of 100 kg the concentrations would be approximately halved. The effect of bodyweight on active substance exposure suggests special attention to patients with very low body weight during up-titration (see section 4.4).
+A relationship between active substance exposure at steady state (rivastigmine and metabolite NAP22690) and bodyweight was observed in Alzheimer's dementia patients. Compared to a patient with a body weight of 65 kg, the rivastigmine steady-state concentrations in a patient with a body weight of 35 kg would be approximately doubled, while for a patient with a body weight of 100 kg the concentrations would be approximately halved. The effect of bodyweight on active substance exposure suggests special attention to patients with very low body weight during up-titration (see section 4.4).
 
-Exposure (AUC∞) to rivastigmine (and metabolite NAP266-90) was highest when the transdermal patch was applied to the upper back, chest, or upper arm and approximately 20-30% lower when applied to the abdomen or thigh.
+Exposure (AUC ∞ ) to rivastigmine (and metabolite NAP266-90) was highest when the transdermal patch was applied to the upper back, chest, or upper arm and approximately 20 -30% lower when applied to the abdomen or thigh.
 
 There was no relevant accumulation of rivastigmine or the metabolite NAP226-90 in plasma in patients with Alzheimer's disease, except that plasma levels were higher on the second day of transdermal patch therapy than on the first.
 
@@ -1521,7 +1533,7 @@ Rivastigmine is rapidly and extensively metabolised with an apparent elimination
 
 Based on in vitro studies, no pharmacokinetic interaction is expected with medicinal products metabolised by the following cytochrome isoenzymes: CYP1A2, CYP2D6, CYP3A4/5, CYP2E1, CYP2C9, CYP2C8, CYP2C19, or CYP2B6. Based on evidence from animal studies, the major cytochrome P450 isoenzymes are minimally involved in rivastigmine metabolism. Total plasma clearance of rivastigmine was approximately 130 litres/h after a 0.2 mg intravenous dose and decreased to 70 litres/h after a 2.7 mg intravenous dose, which is consistent with the non-linear, over-proportional pharmacokinetics of rivastigmine due to saturation of its elimination.
 
-The metabolite-to-parent AUC∞ ratio was around 0.7 after transdermal patch administration versus 3.5 after oral administration, indicating that much less metabolism occurred after dermal compared to oral treatment. Less NAP226-90 is formed following application of the transdermal patch, presumably because of the lack of presystemic (hepatic first pass) metabolism, in contrast to oral administration.
+The metabolite-to-parent AUC ∞ ratio was around 0.7 after transdermal patch administration versus 3.5 after oral administration, indicating that much less metabolism occurred after dermal compared to oral treatment. Less NAP226-90 is formed following application of the transdermal patch, presumably because of the lack of presystemic (hepatic first pass) metabolism, in contrast to oral administration.
 
 <div style=\"page-break-after: always\"></div>
 
@@ -1529,7 +1541,7 @@ The metabolite-to-parent AUC∞ ratio was around 0.7 after transdermal patch adm
 
 Unchanged rivastigmine is found in trace amounts in the urine; renal excretion of the metabolites is the major route of elimination after transdermal patch administration. Following administration of oral 14 Crivastigmine, renal elimination was rapid and essentially complete (&gt;90%) within 24 hours. Less than 1% of the administered dose is excreted in the faeces.
 
-A population pharmacokinetic analysis showed that nicotine use increases the oral clearance of rivastigmine by 23% in patients with Alzheimer's disease (n=75 smokers and 549 non-smokers) following rivastigmine oral capsule doses for up to 12 mg/day.
+A population pharmacokinetic analysis showed that nicotine use increases the oral clearance of rivastigmine by 23% in patients with Alzheimer's disease (n=75 smokers and 549 non -smokers) following rivastigmine oral capsule doses for up to 12 mg/day.
 
 ## Special populations
 
@@ -1688,15 +1700,11 @@ Name and address of the manufacturers responsible for batch release
 
 Novartis Farmacéutica, S.A. Gran Via de les Corts Catalanes, 764 08013 Barcelona Spain
 
-Novartis Pharma GmbH Roonstraße 25 D-90429 Nuremberg Germany
-
 Novartis Pharma GmbH Sophie-Germain-Strasse 10 90443 Nuremberg Germany
 
 ## Oral solution
 
 Novartis Farmacéutica, S.A. Gran Via de les Corts Catalanes, 764 08013 Barcelona Spain
-
-Novartis Pharma GmbH Roonstraße 25 D-90429 Nuremberg Germany
 
 Novartis Pharma GmbH Sophie-Germain-Strasse 10 90443 Nuremberg Germany
 
@@ -1704,15 +1712,11 @@ Novartis Pharma GmbH Sophie-Germain-Strasse 10 90443 Nuremberg Germany
 
 Novartis Farmacéutica, S.A. Gran Via de les Corts Catalanes, 764 08013 Barcelona Spain
 
-Novartis Pharma GmbH Roonstraße 25 D-90429 Nuremberg Germany
-
 Novartis Pharma GmbH Sophie-Germain-Strasse 10 90443 Nuremberg Germany
 
 The printed package leaflet of the medicinal product must state the name and address of the manufacturer responsible for the release of the concerned batch.
 
 ## B. CONDITIONS OR RESTRICTIONS REGARDING SUPPLY AND USE
-
-<div style=\"page-break-after: always\"></div>
 
 Medicinal product subject to restricted medical prescription (see Annex I: Summary of Product Characteristics, section 4.2).
 
@@ -1721,6 +1725,8 @@ Medicinal product subject to restricted medical prescription (see Annex I: Summa
 ## · Periodic safety update reports (PSURs)
 
 The requirements for submission of PSURs for this medicinal product are set out in the list of Union reference dates (EURD list) provided for under Article 107c(7) of Directive 2001/83/EC and any subsequent updates published on the European medicines web-portal.
+
+<div style=\"page-break-after: always\"></div>
 
 ## D. CONDITIONS OR RESTRICTIONS WITH REGARD TO THE SAFE AND EFFECTIVE USE OF THE MEDICINAL PRODUCT
 
@@ -1767,7 +1773,9 @@ FOLDING BOX
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
-Exelon 1.5 mg hard capsules rivastigmine
+Exelon 1.5 mg hard capsules
+
+rivastigmine
 
 ## 2. STATEMENT OF ACTIVE SUBSTANCE(S)
 
@@ -1841,13 +1849,15 @@ Lot
 
 Exelon 1.5 mg
 
-## 17. UNIQUE IDENTIFIER - 2D BARCODE
+## 17. UNIQUE IDENTIFIER -2D BARCODE
 
 2D barcode carrying the unique identifier included.
 
 ## 18. UNIQUE IDENTIFIER - HUMAN READABLE DATA
 
-PC SN
+PC
+
+SN
 
 NN
 
@@ -1964,7 +1974,7 @@ Lot
 
 Exelon 3.0 mg
 
-## 17. UNIQUE IDENTIFIER - 2D BARCODE
+## 17. UNIQUE IDENTIFIER -2D BARCODE
 
 2D barcode carrying the unique identifier included.
 
@@ -1978,9 +1988,9 @@ NN
 
 <div style=\"page-break-after: always\"></div>
 
-| MINIMUM PARTICULARS TO APPEARON BLISTERS OR STRIPS   |
-|------------------------------------------------------|
-| BLISTERS                                             |
+## MINIMUM PARTICULARS TO APPEAR ON BLISTERS OR STRIPS
+
+BLISTERS
 
 | 1.   | NAMEOFTHEMEDICINAL PRODUCT   |
 |------|------------------------------|
@@ -2089,7 +2099,7 @@ Lot
 
 Exelon 4.5 mg
 
-## 17. UNIQUE IDENTIFIER - 2D BARCODE
+## 17. UNIQUE IDENTIFIER -2D BARCODE
 
 2D barcode carrying the unique identifier included.
 
@@ -2214,7 +2224,7 @@ Lot
 
 Exelon 6.0 mg
 
-## 17. UNIQUE IDENTIFIER - 2D BARCODE
+## 17. UNIQUE IDENTIFIER -2D BARCODE
 
 2D barcode carrying the unique identifier included.
 
@@ -2343,7 +2353,7 @@ Lot
 
 Exelon 2 mg/ml [folding box only]
 
-## 17. UNIQUE IDENTIFIER - 2D BARCODE
+## 17. UNIQUE IDENTIFIER -2D BARCODE
 
 2D barcode carrying the unique identifier included. [folding box only]
 
@@ -2440,7 +2450,7 @@ Lot
 
 Exelon 4.6 mg/24 h
 
-## 17. UNIQUE IDENTIFIER - 2D BARCODE
+## 17. UNIQUE IDENTIFIER -2D BARCODE
 
 2D barcode carrying the unique identifier included.
 
@@ -2499,7 +2509,8 @@ Keep the patch in the sachet until use.
 
 <div style=\"page-break-after: always\"></div>
 
-## 10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
+| 10.   | SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS ORWASTEMATERIALS DERIVEDFROMSUCH MEDICINAL PRODUCTS, IF APPROPRIATE   |
+|-------|-------------------------------------------------------------------------------------------------------------------------------------|
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
@@ -2526,12 +2537,11 @@ Lot
 ## 14. GENERAL CLASSIFICATION FOR SUPPLY
 
 15. INSTRUCTIONS ON USE
-
-## 16. INFORMATION IN BRAILLE
+16. INFORMATION IN BRAILLE
 
 Exelon 4.6 mg/24 h
 
-## 17. UNIQUE IDENTIFIER - 2D BARCODE
+17. UNIQUE IDENTIFIER -2D BARCODE
 
 | 18.   | UNIQUE IDENTIFIER -HUMANREADABLE DATA   |
 |-------|-----------------------------------------|
@@ -2612,7 +2622,7 @@ Lot
 
 Exelon 4.6 mg/24 h
 
-## 17. UNIQUE IDENTIFIER - 2D BARCODE
+## 17. UNIQUE IDENTIFIER -2D BARCODE
 
 2D barcode carrying the unique identifier included.
 
@@ -2633,7 +2643,9 @@ Exelon 4.6 mg/24 h transdermal patch rivastigmine
 
 ## 2. METHOD OF ADMINISTRATION
 
-Read the package leaflet before use. Transdermal use
+Read the package leaflet before use.
+
+Transdermal use
 
 ## 3. EXPIRY DATE
 
@@ -2728,7 +2740,7 @@ Lot
 
 Exelon 9.5 mg/24 h
 
-## 17. UNIQUE IDENTIFIER - 2D BARCODE
+## 17. UNIQUE IDENTIFIER -2D BARCODE
 
 2D barcode carrying the unique identifier included.
 
@@ -2801,9 +2813,7 @@ EU/1/98/066/026 90 transdermal patches (sachet: paper/PET/alu/PAN)
 
 EU/1/98/066/034 84 transdermal patches (sachet: paper/PET/alu/PAN)
 
-EU/1/98/066/041
-
-60 transdermal patches (sachet: paper/PET/PE/alu/PA)
+EU/1/98/066/041 60 transdermal patches (sachet: paper/PET/PE/alu/PA)
 
 EU/1/98/066/042 90 transdermal patches (sachet: paper/PET/PE/alu/PA)
 
@@ -2813,15 +2823,13 @@ EU/1/98/066/050 84 transdermal patches (sachet: paper/PET/PE/alu/PA)
 
 Lot
 
-## 14. GENERAL CLASSIFICATION FOR SUPPLY
-
+14. GENERAL CLASSIFICATION FOR SUPPLY
 15. INSTRUCTIONS ON USE
-
-## 16. INFORMATION IN BRAILLE
+16. INFORMATION IN BRAILLE
 
 Exelon 9.5 mg/24 h
 
-## 17. UNIQUE IDENTIFIER - 2D BARCODE
+17. UNIQUE IDENTIFIER -2D BARCODE
 
 ## 18. UNIQUE IDENTIFIER - HUMAN READABLE DATA
 
@@ -2871,9 +2879,7 @@ EXP
 
 ## 9. SPECIAL STORAGE CONDITIONS
 
-Do not store above 25°C.
-
-Keep the patch in the sachet until use.
+Do not store above 25°C. Keep the patch in the sachet until use.
 
 ## 10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
 
@@ -2905,13 +2911,13 @@ Lot
 
 ## 14. GENERAL CLASSIFICATION FOR SUPPLY
 
-## 15. INSTRUCTIONS ON USE
+15. INSTRUCTIONS ON USE
 
 ## 16. INFORMATION IN BRAILLE
 
 Exelon 9.5 mg/24 h
 
-## 17. UNIQUE IDENTIFIER - 2D BARCODE
+## 17. UNIQUE IDENTIFIER -2D BARCODE
 
 2D barcode carrying the unique identifier included.
 
@@ -2932,7 +2938,9 @@ Exelon 9.5 mg/24 h transdermal patch rivastigmine
 
 ## 2. METHOD OF ADMINISTRATION
 
-Read the package leaflet before use. Transdermal use
+Read the package leaflet before use.
+
+Transdermal use
 
 ## 3. EXPIRY DATE
 
@@ -3034,7 +3042,7 @@ Lot
 
 Exelon 13.3 mg/24 h
 
-## 17. UNIQUE IDENTIFIER - 2D BARCODE
+## 17. UNIQUE IDENTIFIER -2D BARCODE
 
 2D barcode carrying the unique identifier included.
 
@@ -3102,13 +3110,9 @@ Novartis Europharm Limited Vista Building Elm Park, Merrion Road Dublin 4 Irelan
 
 EU/1/98/066/029 60 transdermal patches (sachet: paper/PET/alu/PAN)
 
-EU/1/98/066/030
+EU/1/98/066/030 90 transdermal patches (sachet: paper/PET/alu/PAN)
 
-90 transdermal patches (sachet: paper/PET/alu/PAN)
-
-EU/1/98/066/045
-
-60 transdermal patches (sachet: paper/PET/PE/alu/PA)
+EU/1/98/066/045 60 transdermal patches (sachet: paper/PET/PE/alu/PA)
 
 EU/1/98/066/046 90 transdermal patches (sachet: paper/PET/PE/alu/PA)
 
@@ -3122,7 +3126,7 @@ Lot
 
 Exelon 13.3 mg/24 h
 
-17. UNIQUE IDENTIFIER - 2D BARCODE
+17. UNIQUE IDENTIFIER -2D BARCODE
 
 ## 18. UNIQUE IDENTIFIER - HUMAN READABLE DATA
 
@@ -3210,7 +3214,7 @@ Lot
 
 Exelon 13.3 mg/24 h
 
-## 17. UNIQUE IDENTIFIER - 2D BARCODE
+## 17. UNIQUE IDENTIFIER -2D BARCODE
 
 2D barcode carrying the unique identifier included.
 
@@ -3232,7 +3236,9 @@ Exelon 13.3 mg/24 h transdermal patch rivastigmine
 
 ## 2. METHOD OF ADMINISTRATION
 
-Read the package leaflet before use. Transdermal use
+Read the package leaflet before use.
+
+Transdermal use
 
 ## 3. EXPIRY DATE
 
@@ -3322,7 +3328,7 @@ There is no relevant use of Exelon in the paediatric population in the treatment
 
 Tell your doctor or pharmacist if you are taking, have recently taken or might take any other medicines.
 
-Exelon should not be given at the same time as other medicines with similar effects to Exelon. Exelon might interfere with anticholinergic medicines (medicines used to relieve stomach cramps or spasms, to treat Parkinson's disease or to prevent travel sickness).
+Exelon should not be given at the same time as other medicines with similar effects to Exelon. Exelon might interfere with anticholinergic medicines (medicines used to relieve stomach cramps or spasms, to treat Parkinson's disease or to prevent travel sick ness).
 
 Exelon should not be given at the same time as metoclopramide (a medicine used to relieve or prevent nausea and vomiting). Taking the two medicines together could cause problems such as stiff limbs and trembling hands.
 
@@ -3430,9 +3436,9 @@ Very common (may affect more than 1 in 10 people)
 - Urinary tract infection
 - Seeing things that are not there (hallucinations)
 - Problems with your heartbeat such as fast or slow heartbeat
-- Bleeding in the gut - shows as blood in stools or when being sick
-- Inflammation of the pancreas - the signs include serious upper stomach pain, often with feeling sick (nausea) or being sick (vomiting)
-- The signs of Parkinson's disease get worse or getting similar signs - such as stiff muscles, difficulty in carrying out movements
+- Bleeding in the gut -shows as blood in stools or when being sick
+- Inflammation of the pancreas -the signs include serious upper stomach pain, often with feeling sick (nausea) or being sick (vomiting)
+- The signs of Parkinson's disease get worse or getting similar signs such as stiff muscles, difficulty in carrying out movements
 
 ## Not known (frequency cannot be estimated from the available data)
 
@@ -3462,7 +3468,7 @@ These patients have some side effects more often. They also have some additional
 - Difficulty in sleeping
 - Too much saliva and dehydration
 - Unusually slow movements or movements you cannot control
-- The signs of Parkinson's disease get worse or getting similar signs - such as stiff muscles, difficulty in carrying out movements and muscle weakness
+- The signs of Parkinson's disease get worse or getting similar signs such as stiff muscles, difficulty in carrying out movements and muscle weakness
 - Seeing things that are not there (hallucinations)
 - Depression
 - High blood pressure
@@ -3539,23 +3545,31 @@ Novartis Europharm Limited Vista Building Elm Park, Merrion Road Dublin 4 Irelan
 
 Novartis Farmacéutica, S.A. Gran Via de les Corts Catalanes, 764 08013 Barcelona Spain
 
-Novartis Pharma GmbH Roonstraße 25 D-90429 Nuremberg Germany
-
 Novartis Pharma GmbH Sophie-Germain-Strasse 10 90443 Nuremberg Germany
 
 For any information about this medicine, please contact the local representative of the Marketing Authorisation Holder:
 
-## België/Belgique/Belgien
+België/Belgique/Belgien Novartis Pharma N.V. Tél/Tel: +32 2 246 16 11
 
-Novartis Pharma N.V. Tél/Tel: +32 2 246 16 11
+## Lietuva
 
-Lietuva SIA Novartis Baltics Lietuvos filialas Tel: +370 5 269 16 50
-
-<div style=\"page-break-after: always\"></div>
+SIA Novartis Baltics Lietuvos filialas Tel: +370 5 269 16 50
 
 ## България
 
-Novartis Bulgaria EOOD Тел: +359 2 489 98 28
+Novartis Bulgaria EOOD
+
+Тел:
+
++359 2 489 98 28
+
+## Luxembourg/Luxemburg
+
+Novartis Pharma N.V.
+
+Tél/Tel: +32 2 246 16 11
+
+<div style=\"page-break-after: always\"></div>
 
 ## Česká republika
 
@@ -3575,7 +3589,7 @@ SIA Novartis Baltics Eesti filiaal Tel: +372 66 30 810
 
 ## Ελλάδα
 
-Novartis (Hellas) A.E.B.E. Τηλ: +30 210 281 17 12
+Novartis (Hellas) A.E.B.E. Τηλ : +30 210 281 17 12
 
 ## España
 
@@ -3607,11 +3621,11 @@ Novartis Pharma Services Inc. Τηλ: +357 22 690 690
 
 ## Latvija
 
-SIA Novartis Baltics Tel: +371 67 887 070
+SIA Novartis Baltics
 
-## Luxembourg/Luxemburg
+Tel: +371 67 887 070
 
-Novartis Pharma N.V. Tél/Tel: +32 2 246 16 11
+## This leaflet was last revised in
 
 ## Magyarország
 
@@ -3662,8 +3676,6 @@ Novartis Finland Oy Puh/Tel: +358 (0)10 6133 200
 Novartis Sverige AB Tel: +46 8 732 32 00
 
 <div style=\"page-break-after: always\"></div>
-
-## This leaflet was last revised in
 
 ## Other sources of information
 
@@ -3708,16 +3720,13 @@ Exelon is used for the treatment of adult patients with mild to moderately sever
 
 If this applies to you, tell your doctor and do not take Exelon.
 
+<div style=\"page-break-after: always\"></div>
+
 ## Warnings and precautions
 
 Talk to your doctor before taking Exelon:
 
-- -if you have, or have ever had, a heart condition such as an irregular or slow heartbeat, QTc prolongation, a family history of QTc prolongation, torsade de pointes, or have a low blood level
-
-<div style=\"page-break-after: always\"></div>
-
-of potassium or magnesium.
-
+- -if you have, or have ever had, a heart condition such as an irregular or slow heartbeat, QTc prolongation, a family history of QTc prolongation, torsade de pointes, or have a low blood level of potassium or magnesium.
 - -if you have, or have ever had, an active stomach ulcer.
 - -if you have, or have ever had, difficulties in passing urine.
 - -if you have, or have ever had, seizures.
@@ -3740,7 +3749,7 @@ There is no relevant use of Exelon in the paediatric population in the treatment
 
 Tell your doctor or pharmacist if you are taking, have recently taken or might take any other medicines.
 
-Exelon should not be given at the same time as other medicines with similar effects to Exelon. Exelon might interfere with anticholinergic medicines (medicines used to relieve stomach cramps or spasms, to treat Parkinson's disease or to prevent travel sickness).
+Exelon should not be given at the same time as other medicines with similar effects to Exelon. Exelon might interfere with anticholinergic medicines (medicines used to relieve stomach cramps or spasms, to treat Parkinson's disease or to prevent travel sick ness).
 
 Exelon should not be given at the same time as metoclopramide (a medicine used to relieve or prevent nausea and vomiting). Taking the two medicines together could cause problems such as such as stiff limbs and trembling hands.
 
@@ -3758,11 +3767,11 @@ If you are pregnant, the benefits of using Exelon must be assessed against the p
 
 You should not breast-feed during treatment with Exelon.
 
+<div style=\"page-break-after: always\"></div>
+
 ## Driving and using machines
 
 Your doctor will tell you whether your illness allows you to drive vehicles and use machines safely. Exelon may cause dizziness and somnolence, mainly at the start of treatment or when increasing the dose. If you feel dizzy or sleepy, do not drive, use machines or perform any tasks that require your attention.
-
-<div style=\"page-break-after: always\"></div>
 
 ## Exelon contains sodium benzoate (E211) and sodium
 
@@ -3796,13 +3805,9 @@ If you have not taken Exelon for more than three days, do not take the next dose
 
 <!-- image -->
 
-<!-- image -->
-
 1. Preparing the bottle and syringe
 - Take the syringe out of its protective case.
 - Push down and turn the child resistant cap to open bottle.
-2. Attaching the syringe to the bottle
-- Push the nozzle of the syringe into the hole in the white stopper.
 
 <div style=\"page-break-after: always\"></div>
 
@@ -3812,6 +3817,12 @@ If you have not taken Exelon for more than three days, do not take the next dose
 
 <!-- image -->
 
+<!-- image -->
+
+<!-- image -->
+
+2. Attaching the syringe to the bottle
+- Push the nozzle of the syringe into the hole in the white stopper.
 3. Filling the syringe
 - Pull the plunger upwards until it reaches the right mark for the dose that your doctor has prescribed.
 4. Removing bubbles
@@ -3822,8 +3833,12 @@ If you have not taken Exelon for more than three days, do not take the next dose
 5. Taking your medicine
 - Swallow your medicine straight from the syringe.
 - You can also mix your medicine with water in a small glass. Stir and drink all of the mixture.
+6. After using the syringe
+- Wipe the outside of the syringe with a clean tissue.
+- Then, put the syringe back in its protective case.
+- Put the child resistant cap back on the bottle to close it.
 
-<!-- image -->
+<div style=\"page-break-after: always\"></div>
 
 ## If you take more Exelon than you should
 
@@ -3834,13 +3849,6 @@ If you accidentally take more Exelon than you should, inform your doctor. You ma
 If you find you have forgotten to take your dose of Exelon, wait and take the next dose at the usual time. Do not take a double dose to make up for a forgotten dose.
 
 If you have any further questions on the use of this medicine, ask your doctor or pharmacist.
-
-6. After using the syringe
-- Wipe the outside of the syringe with a clean tissue.
-- Then, put the syringe back in its protective case.
-- Put the child resistant cap back on the bottle to close it.
-
-<div style=\"page-break-after: always\"></div>
 
 ## 4. Possible side effects
 
@@ -3884,26 +3892,23 @@ You may have side effects more often when you start your medicine or when your d
 - Fits (seizures)
 - Ulcers in your stomach or intestine
 
+<div style=\"page-break-after: always\"></div>
+
 ## Very rare (may affect up to 1 in 10,000 people)
 
 - High blood pressure
 - Urinary tract infection
 - Seeing things that are not there (hallucinations)
 - Problems with your heartbeat such as fast or slow heartbeat
-- Bleeding in the gut - shows as blood in stools or when being sick
-- Inflammation of the pancreas - the signs include serious upper stomach pain, often with feeling sick (nausea) or being sick (vomiting)
-- The signs of Parkinson's disease get worse or getting similar signs - such as stiff muscles, difficulty in carrying out movements
+- Bleeding in the gut -shows as blood in stools or when being sick
+- Inflammation of the pancreas -the signs include serious upper stomach pain, often with feeling sick (nausea) or being sick (vomiting)
+- The signs of Parkinson's disease get worse or getting similar signs such as stiff muscles, difficulty in carrying out movements
 
 ## Not known (frequency cannot be estimated from the available data)
 
 - Being violently sick (vomiting) that can cause tearing of the tube that connects your mouth with your stomach (oesophagus)
 - Dehydration (losing too much fluid)
-- Liver disorders (yellow skin, yellowing of the whites of the eyes, abnormal darkening of the
-
-<div style=\"page-break-after: always\"></div>
-
-urine or unexplained nausea, vomiting, tiredness and loss of appetite)
-
+- Liver disorders (yellow skin, yellowing of the whites of the eyes, abnormal darkening of the urine or unexplained nausea, vomiting, tiredness and loss of appetite)
 - Aggression, feeling restless
 - Uneven heartbeat
 - Pisa syndrome (a condition involving involuntary muscle contraction with abnormal bending of the body and head to one side)
@@ -3925,7 +3930,7 @@ These patients have some side effects more often. They also have some additional
 - Difficulty in sleeping
 - Too much saliva and dehydration
 - Unusually slow movements or movements you cannot control
-- The signs of Parkinson's disease get worse or getting similar signs - such as stiff muscles, difficulty in carrying out movements and muscle weakness
+- The signs of Parkinson's disease get worse or getting similar signs such as stiff muscles, difficulty in carrying out movements and muscle weakness
 - Seeing things that are not there (hallucinations)
 - Depression
 - High blood pressure
@@ -3940,6 +3945,8 @@ These patients have some side effects more often. They also have some additional
 - Pisa syndrome (a condition involving involuntary muscle contraction with abnormal bending of the body and head to one side)
 - Skin rash
 
+<div style=\"page-break-after: always\"></div>
+
 ## Other side effects seen with Exelon transdermal patches and which may occur with the oral solution:
 
 ## Common (may affect up to 1 in 10 people)
@@ -3948,19 +3955,17 @@ These patients have some side effects more often. They also have some additional
 - Severe confusion
 - Urinary incontinence (inability to retain adequate urine)
 
-## Uncommon (may affect up to 1 in 100 people)
+Uncommon (may affect up to 1 in 100 people)
 
 - Hyperactivity (high level of activity, restlessness)
 
-## Not known (frequency cannot be estimated from the available data)
+Not known (frequency cannot be estimated from the available data)
 
 - Allergic reaction where the patch was used, such as blisters or skin inflammation If you get any of these side effects, contact your doctor as you may need medical assistance.
 
 ## Reporting of side effects
 
 If you get any side effects, talk to your doctor, pharmacist or nurse. This includes any possible side effects not listed in this leaflet. You can also report side effects directly via the national reporting system listed in Appendix V. By reporting side effects you can help provide more information on the safety of this medicine.
-
-<div style=\"page-break-after: always\"></div>
 
 ## 5. How to store Exelon
 
@@ -3986,67 +3991,141 @@ Exelon oral solution is supplied as 50 ml or 120 ml of a clear, yellow solution 
 
 Novartis Europharm Limited Vista Building Elm Park, Merrion Road Dublin 4 Ireland
 
+<div style=\"page-break-after: always\"></div>
+
 ## Manufacturer
 
 Novartis Farmacéutica, S.A. Gran Via de les Corts Catalanes, 764 08013 Barcelona Spain
-
-Novartis Pharma GmbH Roonstraße 25 D-90429 Nuremberg Germany
 
 Novartis Pharma GmbH Sophie-Germain-Strasse 10 90443 Nuremberg Germany
 
 For any information about this medicine, please contact the local representative of the Marketing Authorisation Holder:
 
-België/Belgique/Belgien
+## België/Belgique/Belgien
 
-Novartis Pharma N.V. Tél/Tel: +32 2 246 16 11
+## Lietuva
 
-Lietuva
+Novartis Pharma N.V.
+
+Tél/Tel: +32 2 246 16 11
 
 SIA Novartis Baltics Lietuvos filialas Tel: +370 5 269 16 50
-
-<div style=\"page-break-after: always\"></div>
 
 ## България
 
 Novartis Bulgaria EOOD
 
-Тел: +359 2 489 98 28
+Тел:
+
++359 2 489 98 28
+
+## Luxembourg/Luxemburg
+
+Novartis Pharma N.V.
+
+Tél/Tel: +32 2 246 16 11
 
 ## Česká republika
 
-Novartis s.r.o. Tel: +420 225 775 111
+Novartis s.r.o.
+
+Tel: +420 225 775 111
+
+## Magyarország
+
+Novartis Hungária Kft.
+
+Tel.: +36 1 457 65 00
 
 ## Danmark
 
 Novartis Healthcare A/S Tlf: +45 39 16 84 00
 
+## Malta
+
+Novartis Pharma Services Inc. Tel: +356 2122 2872
+
 ## Deutschland
 
-Novartis Pharma GmbH Tel: +49 911 273 0
+Novartis Pharma GmbH
+
+Tel: +49 911 273 0
+
+## Nederland
+
+Novartis Pharma B.V.
+
+Tel: +31 88 04 52 111
 
 ## Eesti
 
-SIA Novartis Baltics Eesti filiaal Tel: +372 66 30 810
+SIA Novartis Baltics Eesti filiaal
+
+Tel: +372 66 30 810
+
+## Norge
+
+Novartis Norge AS
+
+Tlf: +47 23 05 20 00
 
 ## Ελλάδα
 
-Novartis (Hellas) A.E.B.E. Τηλ: +30 210 281 17 12
+Novartis (Hellas) A.E.B.E.
+
+Τηλ
+
+: +30 210 281 17 12
+
+## Österreich
+
+Novartis Pharma GmbH
+
+Tel: +43 1 86 6570
 
 ## España
 
-Novartis Farmacéutica, S.A. Tel: +34 93 306 42 00
+Novartis Farmacéutica, S.A.
+
+Tel: +34 93 306 42 00
+
+## Polska
+
+Novartis Poland Sp. z o.o.
+
+Tel.: +48 22 375 4888
 
 ## France
 
-Novartis Pharma S.A.S. Tél: +33 1 55 47 66 00
+Novartis Pharma S.A.S.
+
+Tél: +33 1 55 47 66 00
+
+## Portugal
+
+Novartis Farma - Produtos Farmacêuticos, S.A. Tel: +351 21 000 8600
 
 ## Hrvatska
 
 Novartis Hrvatska d.o.o. Tel. +385 1 6274 220
 
+## România
+
+Novartis Pharma Services Romania SRL
+
+Tel: +40 21 31299 01
+
 ## Ireland
 
-Novartis Ireland Limited Tel: +353 1 260 12 55
+Novartis Ireland Limited
+
+Tel: +353 1 260 12 55
+
+## Slovenija
+
+Novartis Pharma Services Inc.
+
+Tel: +386 1 300 75 50
 
 ## Ísland
 
@@ -4054,71 +4133,45 @@ Vistor hf.
 
 Sími: +354 535 7000
 
-## Italia
-
-Novartis Farma S.p.A. Tel: +39 02 96 54 1
-
-## Κύπρος
-
-Novartis Pharma Services Inc. Τηλ: +357 22 690 690
-
-## Latvija
-
-SIA Novartis Baltics Tel: +371 67 887 070
-
-## Luxembourg/Luxemburg
-
-Novartis Pharma N.V. Tél/Tel: +32 2 246 16 11
-
-## Magyarország
-
-Novartis Hungária Kft. Tel.: +36 1 457 65 00
-
-## Malta
-
-Novartis Pharma Services Inc. Tel: +356 2122 2872
-
-## Nederland
-
-Novartis Pharma B.V. Tel: +31 88 04 52 111
-
-## Norge
-
-Novartis Norge AS Tlf: +47 23 05 20 00
-
-## Österreich
-
-Novartis Pharma GmbH Tel: +43 1 86 6570
-
-## Polska
-
-Novartis Poland Sp. z o.o. Tel.: +48 22 375 4888
-
-## Portugal
-
-Novartis Farma - Produtos Farmacêuticos, S.A. Tel: +351 21 000 8600
-
-## România
-
-Novartis Pharma Services Romania SRL Tel: +40 21 31299 01
-
-## Slovenija
-
-Novartis Pharma Services Inc. Tel: +386 1 300 75 50
-
 ## Slovenská republika
 
-Novartis Slovakia s.r.o. Tel: +421 2 5542 5439
+Novartis Slovakia s.r.o.
+
+Tel: +421 2 5542 5439
+
+## Italia
+
+Novartis Farma S.p.A.
+
+Tel: +39 02 96 54 1
 
 ## Suomi/Finland
 
-Novartis Finland Oy Puh/Tel: +358 (0)10 6133 200
+Novartis Finland Oy
+
+Puh/Tel: +358 (0)10 6133 200
+
+## Κύπρος
+
+Novartis Pharma Services Inc.
+
+Τηλ: +357 22 690 690
 
 ## Sverige
 
-Novartis Sverige AB Tel: +46 8 732 32 00
+Novartis Sverige AB
+
+Tel: +46 8 732 32 00
+
+## Latvija
+
+SIA Novartis Baltics
 
 <div style=\"page-break-after: always\"></div>
+
+SIA Novartis Baltics
+
+Tel: +371 67 887 070
 
 ## This leaflet was last revised in
 
@@ -4152,7 +4205,7 @@ Exelon 4.6 mg/24 h transdermal patch Exelon 9.5 mg/24 h transdermal patch Exelon
 
 The active substance of Exelon is rivastigmine.
 
-Rivastigmine belongs to a class of substances called cholinesterase inhibitors. In patients with Alzheimer's dementia, certain nerve cells die in the brain, resulting in low levels of the neurotransmitter acetylcholine (a substance that allows nerve cells to communicate with each other). Rivastigmine works by blocking the enzymes that break down acetylcholine: acetylcholinesterase and butyrylcholinesterase. By blocking these enzymes, Exelon allows levels of acetylcholine to be increased in the brain, helping to reduce the symptoms of Alzheimer's disease.
+Rivastigmine belongs to a class of substances called cholinesterase inhibitors. In patients with Alzheimer's dementia, certain nerve cells die in the brain, resulting in low levels of the neurotransmitter acetylcholine (a substance that allows nerve cells to communicate with each other). Rivastigmine works by blocking the enzymes that break down acetylcholine: acetylcholinesterase and butyrylcholinesterase. By blocking these enzymes, Exelon allows levels of acetylcholine to be increased in the brain, helpin g to reduce the symptoms of Alzheimer's disease.
 
 Exelon is used for the treatment of adult patients with mild to moderately severe Alzheimer's dementia, a progressive brain disorder that gradually affects memory, intellectual ability and behaviour.
 
@@ -4166,16 +4219,13 @@ Exelon is used for the treatment of adult patients with mild to moderately sever
 
 If this applies to you, tell your doctor and do not apply Exelon transdermal patches.
 
+<div style=\"page-break-after: always\"></div>
+
 ## Warnings and precautions
 
 Talk to your doctor before using Exelon:
 
-- -if you have, or have ever had, a heart condition such as an irregular or slow heartbeat, QTc
-
-<div style=\"page-break-after: always\"></div>
-
-prolongation, a family history of QTc prolongation, torsade de pointes, or have a low blood level of potassium or magnesium.
-
+- -if you have, or have ever had, a heart condition such as an irregular or slow heartbeat, QTc prolongation, a family history of QTc prolongation, torsade de pointes, or have a low blood level of potassium or magnesium.
 - -if you have, or have ever had, an active stomach ulcer.
 - -if you have, or have ever had, difficulties in passing urine.
 - -if you have, or have ever had, seizures.
@@ -4197,7 +4247,7 @@ There is no relevant use of Exelon in the paediatric population in the treatment
 
 Tell your doctor or pharmacist if you are taking, have recently taken or might take any other medicines.
 
-Exelon might interfere with anticholinergic medicines some of which are medicines used to relieve stomach cramps or spasms (e.g. dicyclomine), to treat Parkinson's disease (e.g. amantadine) or to prevent motion sickness (e.g. diphenhydramine, scopolamine, or meclizine).
+Exelon might interfere with anticholinergic medicines some of which are medicines used to relieve stomach cramps or spasms (e.g. dicyclomine) , to treat Parkinson's disease (e.g. amantadine) or to prevent motion sickness (e.g. diphenhydramine, scopolamine, or meclizine).
 
 Exelon Patch should not be given at the same time as metoclopramide (a medicine used to relieve or prevent nausea and vomiting). Taking the two medicines together could cause problems such as stiff limbs and trembling hands.
 
@@ -4215,11 +4265,11 @@ If you are pregnant, the benefits of using Exelon must be assessed against the p
 
 You should not breast-feed during treatment with Exelon transdermal patches.
 
+<div style=\"page-break-after: always\"></div>
+
 ## Driving and using machines
 
 Your doctor will tell you whether your illness allows you to drive vehicles and use machines safely. Exelon transdermal patches may cause fainting or severe confusion. If you feel faint or confused do not drive, use machines or perform any other tasks that require your attention.
-
-<div style=\"page-break-after: always\"></div>
 
 ## 3. How to use Exelon
 
@@ -4331,13 +4381,11 @@ If a patch falls off, apply a new one for the rest of the day, then replace it a
 - To benefit from treatment, you must apply a new patch every day, preferably at the same time of day.
 - Only wear one Exelon patch at a time and replace the patch with a new one after 24 hours.
 
-## If you use more Exelon than you should
-
-If you accidentally apply more than one patch, remove all the patches from your skin, then inform your doctor that you have accidentally applied more than one patch. You may require medical attention. Some people who have accidentally taken too much Exelon have experienced feeling sick (nausea), being sick (vomiting), diarrhoea, high blood pressure and hallucinations. Slow heartbeat and
-
 <div style=\"page-break-after: always\"></div>
 
-fainting may also occur.
+## If you use more Exelon than you should
+
+If you accidentally apply more than one patch, remove all the patches from your skin, then inform your doctor that you have accidentally applied more than one patch. You may require medical attention. Some people who have accidentally taken too much Exelon have experienced feeling sick (nausea), being sick (vomiting), diarrhoea, high blood pressure and hallucinations. Slow heartbeat and fainting may also occur.
 
 ## If you forget to use Exelon
 
@@ -4386,20 +4434,20 @@ Common (may affect up to 1 in 10 people)
 - Hyperactivity (high level of activity, restlessness)
 - Aggression
 
-Rare (may affect up to 1 in 1,000 people)
+<div style=\"page-break-after: always\"></div>
+
+## Rare (may affect up to 1 in 1,000 people)
 
 - Falling
 
-Very rare (may affect up to 1 in 10,000 people)
+## Very rare (may affect up to 1 in 10,000 people)
 
 - Stiff arms or legs and trembling hands
 
-<div style=\"page-break-after: always\"></div>
+## Not known (frequency cannot be estimated from the available data)
 
-Not known (frequency cannot be estimated from the available data)
-
-- The signs of Parkinson's disease get worse - such as tremor, stiffness and shuffling
-- Inflammation of the pancreas - signs include serious upper stomach pain, often with feeling sick (nausea) or being sick (vomiting)
+- The signs of Parkinson's disease get worse such as tremor, stiffness and shuffling
+- Inflammation of the pancreas -signs include serious upper stomach pain, often with feeling sick (nausea) or being sick (vomiting)
 - Fast or uneven heartbeat
 - High blood pressure
 - Fits (seizures)
@@ -4437,23 +4485,21 @@ Take off your patch and tell your doctor straight away, if you notice any of the
 
 - Fits (seizures)
 - Ulcer in the intestine
-- Chest pain - this may be caused by heart spasm
+- Chest pain -this may be caused by heart spasm
 
-## Very rare (may affect up to 1 in 10,000 people)
+<div style=\"page-break-after: always\"></div>
+
+Very rare (may affect up to 1 in 10,000 people)
 
 - High blood pressure
-- Inflammation of the pancreas - the signs include serious upper stomach pain, often with feeling sick (nausea) or being sick (vomiting)
-- Bleeding in the gut - shows as blood in stools or when being sick
+- Inflammation of the pancreas -the signs include serious upper stomach pain, often with feeling sick (nausea) or being sick (vomiting)
+- Bleeding in the gut -shows as blood in stools or when being sick
 - Seeing things that are not there (hallucinations)
 - Some people who have been violently sick have had tearing of the tube that connects your mouth with your stomach (oesophagus)
 
 ## Reporting of side effects
 
-If you get any side effects, talk to your doctor, pharmacist or nurse. This includes any possible side effects not listed in this leaflet. You can also report side effects directly via the national reporting
-
-<div style=\"page-break-after: always\"></div>
-
-system listed in Appendix V. By reporting side effects you can help provide more information on the safety of this medicine.
+If you get any side effects, talk to your doctor, pharmacist or nurse. This includes any possible side effects not listed in this leaflet. You can also report side effects directly via the national reporting system listed in Appendix V. By reporting side effects you can help provide more information on the safety of this medicine.
 
 ## 5. How to store Exelon
 
@@ -4478,29 +4524,23 @@ system listed in Appendix V. By reporting side effects you can help provide more
 
 Each transdermal patch is a thin patch consisting of three layers. The outer layer is beige and labelled with the following:
 
-- -'Exelon', '4.6 mg/24 h' and 'AMCX',
-- -'Exelon', '9.5 mg/24 h' and 'BHDI',
+- -'Exelon', ' 4.6 mg/24 h ' and 'AMCX',
+- -'Exelon', ' 9.5 mg/24 h ' and 'BHDI' ,
 - -'Exelon', '13.3 mg/24 h' and 'CNFU'.
 
 One transdermal patch is sealed in one sachet.
 
-Exelon 4.6 mg/24 h transdermal patches and Exelon 9.5 mg/24 h transdermal patches are available in packs containing 7, 30 or 42 sachets and in multipacks containing 60, 84 or 90 sachets.
+<div style=\"page-break-after: always\"></div>
 
-Exelon 13.3 mg/24 h transdermal patches are available in packs containing 7 or 30 sachets and in multipacks containing 60 or 90 sachets.
-
-Not all pack sizes may be marketed in your country.
+Exelon 4.6 mg/24 h transdermal patches and Exelon 9.5 mg/24 h transdermal patches are available in packs containing 7, 30 or 42 sachets and in multipacks containing 60, 84 or 90 sachets. Exelon 13.3 mg/24 h transdermal patches are available in packs containing 7 or 30 sachets and in multipacks containing 60 or 90 sachets. Not all pack sizes may be marketed in your country.
 
 ## Marketing Authorisation Holder
 
 Novartis Europharm Limited Vista Building Elm Park, Merrion Road Dublin 4 Ireland
 
-<div style=\"page-break-after: always\"></div>
-
 ## Manufacturer
 
 Novartis Farmacéutica, S.A. Gran Via de les Corts Catalanes, 764 08013 Barcelona Spain
-
-Novartis Pharma GmbH Roonstraße 25 D-90429 Nuremberg Germany
 
 Novartis Pharma GmbH Sophie-Germain-Strasse 10 90443 Nuremberg Germany
 
@@ -4508,7 +4548,9 @@ For any information about this medicine, please contact the local representative
 
 ## België/Belgique/Belgien
 
-Novartis Pharma N.V. Tél/Tel: +32 2 246 16 11
+Novartis Pharma N.V.
+
+Tél/Tel: +32 2 246 16 11
 
 ## Lietuva
 
@@ -4518,67 +4560,103 @@ SIA Novartis Baltics Lietuvos filialas Tel: +370 5 269 16 50
 
 Novartis Bulgaria EOOD
 
-Тел: +359 2 489 98 28
+Тел:
+
++359 2 489 98 28
 
 ## Luxembourg/Luxemburg
 
-Novartis Pharma N.V. Tél/Tel: +32 2 246 16 11
+Novartis Pharma N.V.
+
+Tél/Tel: +32 2 246 16 11
 
 ## Česká republika
 
-Novartis s.r.o. Tel: +420 225 775 111
+Novartis s.r.o.
+
+Tel: +420 225 775 111
 
 ## Magyarország
 
-Novartis Hungária Kft. Tel.: +36 1 457 65 00
+Novartis Hungária Kft.
+
+Tel.: +36 1 457 65 00
 
 ## Danmark
 
-Novartis Healthcare A/S Tlf: +45 39 16 84 00
+Novartis Healthcare A/S
+
+Tlf: +45 39 16 84 00
 
 ## Malta
 
-Novartis Pharma Services Inc. Tel: +356 2122 2872
+Novartis Pharma Services Inc.
+
+Tel: +356 2122 2872
 
 ## Deutschland
 
-Novartis Pharma GmbH Tel: +49 911 273 0
+Novartis Pharma GmbH
+
+Tel: +49 911 273 0
 
 ## Nederland
 
-Novartis Pharma B.V. Tel: +31 88 04 52 111
+Novartis Pharma B.V.
+
+Tel: +31 88 04 52 111
 
 ## Eesti
 
-SIA Novartis Baltics Eesti filiaal Tel: +372 66 30 810
+SIA Novartis Baltics Eesti filiaal
+
+Tel: +372 66 30 810
 
 ## Norge
 
-Novartis Norge AS Tlf: +47 23 05 20 00
+Novartis Norge AS
+
+Tlf: +47 23 05 20 00
 
 ## Ελλάδα
 
-Novartis (Hellas) A.E.B.E. Τηλ: +30 210 281 17 12
+Novartis (Hellas) A.E.B.E.
+
+Τηλ
+
+: +30 210 281 17 12
 
 ## Österreich
 
-Novartis Pharma GmbH Tel: +43 1 86 6570
+Novartis Pharma GmbH
+
+Tel: +43 1 86 6570
+
+<div style=\"page-break-after: always\"></div>
 
 ## España
 
-Novartis Farmacéutica, S.A. Tel: +34 93 306 42 00
-
 ## Polska
 
-Novartis Poland Sp. z o.o. Tel.: +48 22 375 4888
+Novartis Farmacéutica, S.A.
+
+Tel: +34 93 306 42 00
+
+Novartis Poland Sp. z o.o.
+
+Tel.: +48 22 375 4888
 
 ## France
 
-Novartis Pharma S.A.S. Tél: +33 1 55 47 66 00
+Novartis Pharma S.A.S.
+
+Tél: +33 1 55 47 66 00
 
 ## Portugal
 
-Novartis Farma - Produtos Farmacêuticos, S.A. Tel: +351 21 000 8600
+Novartis Farma - Produtos Farmacêuticos, S.A.
+
+Tel: +351 21 000 8600
 
 ## Hrvatska
 
@@ -4641,10 +4719,6 @@ Novartis Sverige AB
 Tel: +46 8 732 32 00
 
 ## Latvija
-
-SIA Novartis Baltics
-
-<div style=\"page-break-after: always\"></div>
 
 SIA Novartis Baltics
 

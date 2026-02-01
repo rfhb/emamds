@@ -1,18 +1,18 @@
 ---
-document_datetime: 2025-12-18 11:53:49
-document_pages: 74
+document_datetime: 2026-01-28 15:39:53
+document_pages: 78
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/saphnelo-epar-product-information_en.pdf
 document_name: saphnelo-epar-product-information_en.pdf
 version: success
-processing_time: 20.3949601
-conversion_datetime: 2026-01-03 12:19:53.422073
+processing_time: 16.8962418
+conversion_datetime: 2026-02-01 20:38:22.827048
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.66.0
-  docling-core: 2.57.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.11.0
+  docling-jobkit: 1.9.1
+  docling: 2.71.0
+  docling-core: 2.62.0
+  docling-ibm-models: 3.11.0
+  docling-parse: 4.7.3
   python: cpython-313 (3.13.11)
   plaform: macOS-26.2-arm64-arm-64bit-Mach-O
 ---
@@ -493,9 +493,9 @@ Effects on male and female fertility have not been directly evaluated in animal 
 
 Histidine Histidine hydrochloride monohydrate Lysine hydrochloride Trehalose dihydrate Polysorbate 80 (E 433) Water for injections
 
-<div style=\"page-break-after: always\"></div>
-
 ## 6.2 Incompatibilities
+
+<div style=\"page-break-after: always\"></div>
 
 In the absence of compatibility studies, this medicinal product must not be mixed with other medicinal products.
 
@@ -1064,7 +1064,7 @@ In the absence of compatibility studies, this medicinal product must not be mixe
 
 4 years.
 
-If needed, an unopened carton can be stored at room temperature (20 °C - 25 °C) for up to 7 days. Once the pre-filled syringe/pre-filled pen has been removed from the refrigerator and has reached room temperature (20 °C - 25 °C), it must either be used within 7 days or discarded.
+If needed, Saphnelo pre-filled syringe/pre-filled pen may be stored at room temperature (20 °C 25 °C) for a maximum of 7 days protected from light. Once Saphnelo pre-filled syringe/pre-filled pen has reached room temperature, do not return to the refrigerator. Discard if not used within 7 days at room temperature storage.
 
 ## 6.4 Special precautions for storage
 
@@ -1074,31 +1074,35 @@ Store in a refrigerator (2 °C - 8 °C). Store in the original package in order 
 
 ## Pre-filled syringe
 
-0.8 ml of solution in a type I glass syringe with a 27-gauge, 12.7 mm stainless steel needle with a needle cover and a bromobutyl plunger stopper. The pre-filled syringe is assembled with a needle guard, plunger rod and a finger flange.
+0.8 ml of solution in a type I glass syringe with a 27-gauge, 12.7 mm stainless steel needle with a rigid needle shield and a bromobutyl plunger stopper. The pre-filled syringe is assembled with a needle guard, plunger rod and a finger flange.
 
 Pack size of 1 pre-filled syringe.
 
 ## Pre-filled pen
 
-0.8 ml of solution in a type I glass syringe with a 27-gauge, 12.7 mm stainless steel needle covered with a needle cover and a bromobutyl plunger stopper. The pre-filled pen consists of the syringe and a handheld, mechanical (spring-based) injection device.
+0.8 ml of solution in a type I glass syringe with a 27-gauge, 12.7 mm stainless steel needle covered with a rigid needle shield and a bromobutyl plunger stopper. The pre-filled pen consists of the syringe and a handheld, mechanical (spring-based) injection device.
 
-Pack size of 1 pre-filled pen.
+Pack size:
 
-Not all presentations may be marketed.
+- 1 pre-filled pen
+- 4 pre-filled pens
+- Multipack containing 12 (3 packs of 4) pre-filled pens
+
+Not all presentations and pack sizes may be marketed.
 
 ## 6.6 Special precautions for disposal and other handling
 
 This medicinal product is for single-use only.
 
-1. Remove carton from the refrigerator and allow the solution for injection to come to room temperature for 60 minutes.
+1. Remove Saphnelo pre-filled syringe/pre-filled pen from the refrigerator and allow the solution for injection to come to room temperature for 60 minutes.
 2. Visually inspect the solution for injection for particulate matter and discolouration prior to administration. Discard the pre-filled syringe or pre-filled pen if the solution is cloudy, discoloured or visible particles are observed.
 3. Comprehensive instructions for the preparation and administration of Saphnelo using the pre-filled syringe or pre-filled pen are given in the 'Instructions for Use'.
+
+<div style=\"page-break-after: always\"></div>
 
 ## Disposal
 
 Any unused medicinal product or waste material should be disposed of in accordance with local requirements.
-
-<div style=\"page-break-after: always\"></div>
 
 ## 7. MARKETING AUTHORISATION HOLDER
 
@@ -1106,7 +1110,11 @@ AstraZeneca AB SE-151 85 Södertälje Sweden
 
 ## 8. MARKETING AUTHORISATION NUMBER(S)
 
-EU/1/21/1623/002 pre-filled syringe EU/1/21/1623/003 pre-filled pen
+| EU/1/21/1623/002   | 1 pre-filled syringe                   |
+|--------------------|----------------------------------------|
+| EU/1/21/1623/003   | 1 pre-filled pen                       |
+| EU/1/21/1623/004   | 4 pre-filled pens                      |
+| EU/1/21/1623/005   | 12 (3 x 4) pre-filled pens (multipack) |
 
 ## 9. DATE OF FIRST AUTHORISATION/RENEWAL OF THE AUTHORISATION
 
@@ -1413,7 +1421,7 @@ Lot
 
 ## PARTICULARS TO APPEAR ON THE OUTER PACKAGING
 
-## OUTER CARTON (PRE-FILLED PEN)
+OUTER CARTON (PRE-FILLED PEN)
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
@@ -1433,6 +1441,8 @@ Solution for injection
 
 1 pre-filled pen
 
+4 pre-filled pens
+
 ## 5. METHOD AND ROUTE(S) OF ADMINISTRATION
 
 Subcutaneous use
@@ -1440,6 +1450,106 @@ Subcutaneous use
 Read the package leaflet before use.
 
 For single use only.
+
+Once weekly.
+
+Open here
+
+## 6. SPECIAL WARNING THAT THE MEDICINAL PRODUCT MUST BE STORED OUT OF THE SIGHT AND REACH OF CHILDREN
+
+Keep out of the sight and reach of children.
+
+## 7. OTHER SPECIAL WARNING(S), IF NECESSARY
+
+## 8. EXPIRY DATE
+
+EXP
+
+## 9. SPECIAL STORAGE CONDITIONS
+
+Store in a refrigerator.
+
+<div style=\"page-break-after: always\"></div>
+
+Do not freeze, shake or expose to heat.
+
+Store in the original package in order to protect from light.
+
+## 10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
+
+## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
+
+SE-151 85 Södertälje
+
+AstraZeneca AB Sweden
+
+## 12. MARKETING AUTHORISATION NUMBER(S)
+
+EU/1/21/1623/003
+
+1 pre-filled pen
+
+EU/1/21/1623/004
+
+4 pre-filled pens
+
+## 13. BATCH NUMBER
+
+Lot
+
+14. GENERAL CLASSIFICATION FOR SUPPLY
+
+15. INSTRUCTIONS ON USE
+
+16. INFORMATION IN BRAILLE
+
+saphnelo 120 mg
+
+## 17. UNIQUE IDENTIFIER - 2D BARCODE
+
+2D barcode carrying the unique identifier included.
+
+## 18. UNIQUE IDENTIFIER - HUMAN READABLE DATA
+
+PC
+
+SN
+
+NN
+
+<div style=\"page-break-after: always\"></div>
+
+## PARTICULARS TO APPEAR ON THE OUTER PACKAGING
+
+## OUTER CARTON (PRE-FILLED PEN MULTIPACK - WITH BLUE BOX)
+
+## 1. NAME OF THE MEDICINAL PRODUCT
+
+Saphnelo 120 mg solution for injection in pre-filled pen anifrolumab
+
+## 2. STATEMENT OF ACTIVE SUBSTANCE(S)
+
+One pre-filled pen contains 120 mg of anifrolumab in 0.8 ml.
+
+## 3. LIST OF EXCIPIENTS
+
+Excipients: histidine, histidine hydrochloride monohydrate, lysine hydrochloride, trehalose dihydrate, polysorbate 80, water for injections.
+
+## 4. PHARMACEUTICAL FORM AND CONTENTS
+
+Solution for injection
+
+Multipack: 12 (3 packs of 4) pre-filled pens
+
+## 5. METHOD AND ROUTE(S) OF ADMINISTRATION
+
+Subcutaneous use
+
+Read the package leaflet before use.
+
+For single use only.
+
+Once weekly.
 
 Open here
 
@@ -1459,6 +1569,8 @@ Store in a refrigerator.
 
 Do not freeze, shake or expose to heat.
 
+<div style=\"page-break-after: always\"></div>
+
 Store in the original package in order to protect from light.
 
 10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
@@ -1467,11 +1579,13 @@ Store in the original package in order to protect from light.
 
 AstraZeneca AB SE-151 85 Södertälje Sweden
 
-12. MARKETING AUTHORISATION NUMBER(S)
+## 12. MARKETING AUTHORISATION NUMBER(S)
 
-EU/1/21/1623/003 1 pre-filled pen
+EU/1/21/1623/005
 
-13. BATCH NUMBER
+12 (3 packs of 4) pre-filled pens
+
+## 13. BATCH NUMBER
 
 Lot
 
@@ -1491,7 +1605,97 @@ saphnelo 120 mg
 
 PC SN
 
+NN
+
 <div style=\"page-break-after: always\"></div>
+
+## PARTICULARS TO APPEAR ON INTERMEDIATE PACKAGING
+
+## INNER CARTON (PRE-FILLED PEN MULTIPACK - WITHOUT BLUE BOX)
+
+## 1. NAME OF THE MEDICINAL PRODUCT
+
+Saphnelo 120 mg solution for injection in pre-filled pen anifrolumab
+
+## 2. STATEMENT OF ACTIVE SUBSTANCE(S)
+
+One pre-filled pen contains 120 mg of anifrolumab in 0.8 ml.
+
+## 3. LIST OF EXCIPIENTS
+
+Excipients: histidine, histidine hydrochloride monohydrate, lysine hydrochloride, trehalose dihydrate, polysorbate 80, water for injections.
+
+## 4. PHARMACEUTICAL FORM AND CONTENTS
+
+## Solution for injection
+
+4 pre-filled pens. Component of a multipack, can't be sold separately.
+
+## 5. METHOD AND ROUTE(S) OF ADMINISTRATION
+
+Subcutaneous use
+
+Read the package leaflet before use.
+
+For single use only.
+
+Once weekly.
+
+Open here
+
+## 6. SPECIAL WARNING THAT THE MEDICINAL PRODUCT MUST BE STORED OUT OF THE SIGHT AND REACH OF CHILDREN
+
+Keep out of the sight and reach of children.
+
+## 7. OTHER SPECIAL WARNING(S), IF NECESSARY
+
+## 8. EXPIRY DATE
+
+EXP
+
+## 9. SPECIAL STORAGE CONDITIONS
+
+Store in a refrigerator.
+
+<div style=\"page-break-after: always\"></div>
+
+Do not freeze, shake or expose to heat.
+
+Store in the original package in order to protect from light.
+
+## 10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
+
+## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
+
+SE-151 85 Södertälje
+
+AstraZeneca AB Sweden
+
+## 12. MARKETING AUTHORISATION NUMBER(S)
+
+EU/1/21/1623/005
+
+12 (3 packs of 4) pre-filled pens
+
+## 13. BATCH NUMBER
+
+Lot
+
+14. GENERAL CLASSIFICATION FOR SUPPLY
+
+15. INSTRUCTIONS ON USE
+
+16. INFORMATION IN BRAILLE
+
+saphnelo 120 mg
+
+17. UNIQUE IDENTIFIER - 2D BARCODE
+
+18. UNIQUE IDENTIFIER - HUMAN READABLE DATA
+
+PC
+
+SN
 
 NN
 
@@ -1531,9 +1735,11 @@ AstraZeneca
 
 ## Package leaflet: Information for the patient
 
+## Saphnelo
+
 ## 300 mg concentrate for solution for infusion
 
-## Saphnelo anifrolumab
+## anifrolumab
 
 This medicine is subject to additional monitoring. This will allow quick identification of new safety information. You can help by reporting any side effects you may get. See the end of section 4 for how to report side effects.
 
@@ -2112,7 +2318,7 @@ Do not freeze, shake or expose to heat.
 
 If needed, an unopened carton can be stored at room temperature (20 °C - 25 °C) for up to 7 days. Once the Saphnelo pre-filled syringe has been removed from the refrigerator and has reached room temperature (20 ºC - 25 ºC) it must either be used within 7 days or thrown away (discarded).
 
-Do not throw away any medicines via wastewater or household waste. Ask your pharmacist how to throw away medicines you no longer use. These measures will help protect the environment.
+Do not throw away any medicines via wastewater. Ask your pharmacist how to throw away medicines you no longer use. These measures will help protect the environment.
 
 <div style=\"page-break-after: always\"></div>
 
@@ -2236,9 +2442,7 @@ AstraZeneca Pharmaceuticals (Ireland) DAC Tel: +353 1609 7100
 
 ## Ísland
 
-Vistor
-
-Sími: +354 535 7000
+Vistor Sími: +354 535 7000
 
 ## Italia
 
@@ -2308,7 +2512,7 @@ Your healthcare provider should show you or your caregiver how to use Saphnelo p
 - Keep Saphnelo pre-filled syringe in original carton to protect from light.
 - Each Saphnelo pre-filled syringe contains 1 dose for one time use only. Do not share Saphnelo pre-filled syringe with other people.
 
-## Do not use Saphnelo pre-filled syringe if it has:
+Do not use Saphnelo pre-filled syringe if it has:
 
 - been frozen or exposed to heat.
 - been dropped, damaged, or appears to be tampered with.
@@ -2321,9 +2525,9 @@ Keep this medicine out of the sight and reach of children.
 
 ## Saphnelo pre-filled syringe parts
 
-Do not remove the needle cover until right before injecting Saphnelo.
+Do not touch the needle guard activation clips. This will keep you from activating the needle guard too
 
-Do not touch the needle guard activation clips. This will keep you from activating the needle guard too soon.
+Do not remove the needle cover until right before injecting Saphnelo. soon.
 
 <!-- image -->
 
@@ -2703,9 +2907,9 @@ Store in the original package to protect from light.
 
 Do not freeze, shake or expose to heat.
 
-If needed, an unopened carton can be stored at room temperature (20 °C - 25 °C) for up to 7 days. Once the Saphnelo pre-filled pen has been removed from the refrigerator and has reached room temperature (20 ºC - 25 ºC) it must either be used within 7 days or thrown away (discarded).
+If needed, Saphnelo pre-filled pen may be stored at room temperature (20 °C - 25 °C) for a maximum of 7 days protected from light. Once Saphnelo pre-filled pen has reached room temperature (20 ºC 25 ºC), do not return to the refrigerator. Discard if not used within 7 days at room temperature storage.
 
-Do not throw away any medicines via wastewater or household waste. Ask your pharmacist how to throw away medicines you no longer use. These measures will help protect the environment.
+Do not throw away any medicines via wastewater. Ask your pharmacist how to throw away medicines you no longer use. These measures will help protect the environment.
 
 <div style=\"page-break-after: always\"></div>
 
@@ -2719,7 +2923,9 @@ Do not throw away any medicines via wastewater or household waste. Ask your phar
 ## What Saphnelo looks like and contents of the pack
 
 - Saphnelo is a clear to opalescent, colourless to slightly yellow solution.
-- Saphnelo is available in a pack containing 1 pre-filled pen.
+- Saphnelo is available in a pack containing 1 or 4 pre-filled pens or in a multipack containing 12 (3 packs of 4) pre-filled pens.
+
+Not all pack sizes may be marketed.
 
 ## Marketing Authorisation Holder
 
@@ -2743,11 +2949,15 @@ UAB AstraZeneca Lietuva Tel: +370 5 2660550
 
 ## България
 
-АстраЗенека България ЕООД Тел.: +359 24455000
+АстраЗенека България ЕООД
+
+Тел.: +359 24455000
 
 ## Luxembourg/Luxemburg
 
-AstraZeneca S.A./N.V. Tél/Tel: +32 2 370 48 11
+AstraZeneca S.A./N.V.
+
+Tél/Tel: +32 2 370 48 11
 
 ## Česká republika
 
@@ -2757,7 +2967,9 @@ Tel: +420 222 807 111
 
 ## Magyarország
 
-AstraZeneca Kft. Tel.: +36 1 883 6500
+AstraZeneca Kft.
+
+Tel.: +36 1 883 6500
 
 ## Danmark
 
@@ -2805,17 +3017,11 @@ AstraZeneca Österreich GmbH
 
 Tel: +43 1 711 31 0
 
+<div style=\"page-break-after: always\"></div>
+
 ## España
 
-AstraZeneca Farmacéutica Spain, S.A.
-
-## Polska
-
-AstraZeneca Pharma Poland Sp. z o.o.
-
-Tel: +34 91 301 91 00
-
-<div style=\"page-break-after: always\"></div>
+AstraZeneca Farmacéutica Spain, S.A. Tel: +34 91 301 91 00
 
 ## France
 
@@ -2831,7 +3037,9 @@ AstraZeneca Pharmaceuticals (Ireland) DAC Tel: +353 1609 7100
 
 ## Ísland
 
-Vistor Sími: +354 535 7000
+Vistor
+
+Sími: +354 535 7000
 
 ## Italia
 
@@ -2845,7 +3053,9 @@ Tel: +39 02 00704500
 
 ## Latvija
 
-SIA AstraZeneca Latvija Tel: +371 67377100
+SIA AstraZeneca Latvija
+
+Tel: +371 67377100
 
 ## This leaflet was last revised in
 
@@ -2853,7 +3063,9 @@ SIA AstraZeneca Latvija Tel: +371 67377100
 
 Detailed information on this medicine is available on the European Medicines Agency web site: https://www.ema.europa.eu.
 
-Tel.: +48 22 245 73 00
+## Polska
+
+AstraZeneca Pharma Poland Sp. z o.o. Tel.: +48 22 245 73 00
 
 ## Portugal
 
@@ -2861,9 +3073,7 @@ AstraZeneca Produtos Farmacêuticos, Lda. Tel: +351 21 434 61 00
 
 ## România
 
-AstraZeneca Pharma SRL
-
-Tel: +40 21 317 60 41
+AstraZeneca Pharma SRL Tel: +40 21 317 60 41
 
 ## Slovenija
 
@@ -2871,17 +3081,19 @@ AstraZeneca UK Limited Tel: +386 1 51 35 600
 
 ## Slovenská republika
 
-AstraZeneca AB, o.z.
-
-Tel: +421 2 5737 7777
+AstraZeneca AB, o.z. Tel: +421 2 5737 7777
 
 ## Suomi/Finland
 
-AstraZeneca Oy Puh/Tel: +358 10 23 010
+AstraZeneca Oy
+
+Puh/Tel: +358 10 23 010
 
 ## Sverige
 
-AstraZeneca AB Tel: +46 8 553 26 000
+AstraZeneca AB
+
+Tel: +46 8 553 26 000
 
 <div style=\"page-break-after: always\"></div>
 
@@ -2899,8 +3111,8 @@ Your healthcare provider should show you or your caregiver how to use Saphnelo p
 
 ## Important storage information and warnings
 
-- Store Saphnelo pre-filled pen in a refrigerator between 2 °C to 8 °C in the original carton until ready to use. If needed, an unopened carton can be stored at room temperature between 20 °C to 25 °C for up to 7 days.
-- Keep Saphnelo pre-filled pen in original carton to protect from light.
+- Store Saphnelo pre-filled pen in a refrigerator between 2 °C to 8 °C in the original carton to protect from light. If needed, Saphnelo pre-filled pen may be stored at room temperature between 20 °C to 25 °C for up to 7 days protected from light .
+- Once Saphnelo pre-filled pen has reached room temperature, do not return to the refrigerator. Discard if not used within 7 days at room temperature storage.
 - Each Saphnelo pre-filled pen contains 1 dose for one time use only. Do not share Saphnelo pre-filled pen with other people.
 
 Do not use Saphnelo pre-filled pen if it has:
@@ -2930,11 +3142,29 @@ Do not touch the green needle guard.
 
 <!-- image -->
 
+<!-- image -->
+
+<!-- image -->
+
+<!-- image -->
+
+<!-- image -->
+
+- 1 Saphnelo pre-filled pen from the refrigerator
+
+1 alcohol wipe
+
+1 cotton ball or gauze
+
+1 small bandage
+
+1 sharps disposal container
+
 Not included
 
 See Step 10 for instructions on how to throw away (dispose of) the used Saphnelo pre-filled pen.
 
-## Step 2 - Inspect carton and wait 60 minutes
+## Step 2 - Remove Saphnelo pre-filled pen from the carton and wait 60 minutes
 
 Select a clean, well-lit, flat work surface, such as a table.
 
@@ -2943,16 +3173,15 @@ Select a clean, well-lit, flat work surface, such as a table.
 - Do not use if the expiry date has passed. Check the carton for damage.
 - Do not use if the carton looks damaged.
 
+Open the carton and remove one Saphnelo pre-filled pen by gently grasping the middle of the device.
+
+- Store any remaining Saphnelo pre-filled pens in the carton and return them to the refrigerator.
+
 ## Let Saphnelo pre-filled pen come to room temperature for 60 minutes before injecting.
 
-- Keep Saphnelo pre-filled pen in original carton to protect from light.
 - Do not warm Saphnelo pre-filled pen in any other way. For example, do not warm it in a microwave, hot water, direct sunlight, or near other heat sources.
 
-<!-- image -->
-
-## Step 3 - Remove Saphnelo from the carton and inspect
-
-Open the carton and remove Saphnelo pre-filled pen by gently grasping the middle of the device.
+## Step 3 -Inspect Saphnelo pre-filled pen
 
 ## Check the expiry date on Saphnelo pre-filled pen.
 
@@ -2967,6 +3196,8 @@ Open the carton and remove Saphnelo pre-filled pen by gently grasping the middle
 - The liquid should be clear and colourless to slightly yellow.
 - Do not use if the liquid is cloudy, discoloured, or contains visible particles.
 - It is normal to see small air bubbles in the liquid. Do not try to remove the air bubbles.
+
+<!-- image -->
 
 <!-- image -->
 
@@ -3085,13 +3316,15 @@ If needed, press a cotton ball or gauze on the area and apply a small bandage.
 
 ## Step 10 - Throw away (dispose of) the used Saphnelo pre-filled pen
 
-Put your used Saphnelo pre-filled pen in a sharps disposal container right away after use.
+Put your used Saphnelo pre-filled pen in a sharps disposal container right away after use. throw away (dispose of) Saphnelo pre-filled
 
-Do not throw away (dispose of) Saphnelo pre-filled pen in your household trash.
+Do not pen in your household trash.
 
 ## Disposal guidelines
 
-Dispose of the full container as instructed by your healthcare provider or pharmacist. Do not dispose of your used sharps disposal container in your household trash unless your community guidelines permit this.
+Dispose of the full container as instructed by your healthcare provider or pharmacist. dispose of your used sharps disposal container in your household trash unless your
+
+Do not community guidelines permit this.
 
 Do not recycle your used sharps disposal container.
 

@@ -1,18 +1,18 @@
 ---
-document_datetime: 2025-12-29 12:26:00
+document_datetime: 2026-01-26 17:30:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/recarbrio.html
 document_name: recarbrio.html
 version: success
-processing_time: 0.1134771
-conversion_datetime: 2025-12-31 04:54:45.771442
+processing_time: 0.1278139
+conversion_datetime: 2026-02-01 20:13:41.175143
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.66.0
-  docling-core: 2.57.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.11.0
+  docling-jobkit: 1.9.1
+  docling: 2.71.0
+  docling-core: 2.62.0
+  docling-ibm-models: 3.11.0
+  docling-parse: 4.7.3
   python: cpython-313 (3.13.11)
   plaform: macOS-26.2-arm64-arm-64bit-Mach-O
 ---
@@ -25,8 +25,6 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 imipenem / cilastatin / relebactam Medicine Human Authorised
-
-On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -119,7 +117,7 @@ English (EN) (162.99 KB - PDF)
 
 [View](/en/documents/overview/recarbrio-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-201)
+[Other languages (22)](#file-language-dropdown-110)
 
 български (BG) (182.75 KB - PDF)
 
@@ -387,11 +385,11 @@ svenska (SV) (156.25 KB - PDF)
 
 Recarbrio : EPAR - Risk-management-plan summary
 
-English (EN) (1.62 MB - PDF)
+English (EN) (3.33 MB - PDF)
 
 **First published:** 26/02/2020
 
-**Last updated:** 18/01/2021
+**Last updated:** 26/01/2026
 
 [View](/en/documents/rmp-summary/recarbrio-epar-risk-management-plan-summary_en.pdf)
 
@@ -399,17 +397,17 @@ English (EN) (1.62 MB - PDF)
 
 Recarbrio : EPAR - Product information
 
-English (EN) (325.13 KB - PDF)
+English (EN) (361.44 KB - PDF)
 
 **First published:** 18/01/2021
 
-**Last updated:** 24/09/2024
+**Last updated:** 26/01/2026
 
 [View](/en/documents/product-information/recarbrio-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-539)
+[Other languages (24)](#file-language-dropdown-670)
 
-български (BG) (342.67 KB - PDF)
+български (BG) (343.58 KB - PDF)
 
 **First published:**
 
@@ -417,11 +415,11 @@ English (EN) (325.13 KB - PDF)
 
 **Last updated:**
 
-24/09/2024
+26/01/2026
 
 [View](/bg/documents/product-information/recarbrio-epar-product-information_bg.pdf)
 
-español (ES) (340.99 KB - PDF)
+español (ES) (387.48 KB - PDF)
 
 **First published:**
 
@@ -429,11 +427,11 @@ español (ES) (340.99 KB - PDF)
 
 **Last updated:**
 
-24/09/2024
+26/01/2026
 
 [View](/es/documents/product-information/recarbrio-epar-product-information_es.pdf)
 
-čeština (CS) (372.99 KB - PDF)
+čeština (CS) (405.92 KB - PDF)
 
 **First published:**
 
@@ -441,11 +439,11 @@ español (ES) (340.99 KB - PDF)
 
 **Last updated:**
 
-24/09/2024
+26/01/2026
 
 [View](/cs/documents/product-information/recarbrio-epar-product-information_cs.pdf)
 
-dansk (DA) (344.74 KB - PDF)
+dansk (DA) (377.82 KB - PDF)
 
 **First published:**
 
@@ -453,11 +451,11 @@ dansk (DA) (344.74 KB - PDF)
 
 **Last updated:**
 
-24/09/2024
+26/01/2026
 
 [View](/da/documents/product-information/recarbrio-epar-product-information_da.pdf)
 
-Deutsch (DE) (377.58 KB - PDF)
+Deutsch (DE) (421.53 KB - PDF)
 
 **First published:**
 
@@ -465,11 +463,11 @@ Deutsch (DE) (377.58 KB - PDF)
 
 **Last updated:**
 
-24/09/2024
+26/01/2026
 
 [View](/de/documents/product-information/recarbrio-epar-product-information_de.pdf)
 
-eesti keel (ET) (345.02 KB - PDF)
+eesti keel (ET) (390.42 KB - PDF)
 
 **First published:**
 
@@ -477,11 +475,11 @@ eesti keel (ET) (345.02 KB - PDF)
 
 **Last updated:**
 
-24/09/2024
+26/01/2026
 
 [View](/et/documents/product-information/recarbrio-epar-product-information_et.pdf)
 
-ελληνικά (EL) (338.78 KB - PDF)
+ελληνικά (EL) (373.27 KB - PDF)
 
 **First published:**
 
@@ -489,11 +487,11 @@ eesti keel (ET) (345.02 KB - PDF)
 
 **Last updated:**
 
-24/09/2024
+26/01/2026
 
 [View](/el/documents/product-information/recarbrio-epar-product-information_el.pdf)
 
-français (FR) (372.71 KB - PDF)
+français (FR) (418.03 KB - PDF)
 
 **First published:**
 
@@ -501,11 +499,11 @@ français (FR) (372.71 KB - PDF)
 
 **Last updated:**
 
-24/09/2024
+26/01/2026
 
 [View](/fr/documents/product-information/recarbrio-epar-product-information_fr.pdf)
 
-hrvatski (HR) (351 KB - PDF)
+hrvatski (HR) (382.03 KB - PDF)
 
 **First published:**
 
@@ -513,11 +511,11 @@ hrvatski (HR) (351 KB - PDF)
 
 **Last updated:**
 
-24/09/2024
+26/01/2026
 
 [View](/hr/documents/product-information/recarbrio-epar-product-information_hr.pdf)
 
-íslenska (IS) (331.59 KB - PDF)
+íslenska (IS) (374.06 KB - PDF)
 
 **First published:**
 
@@ -525,11 +523,11 @@ hrvatski (HR) (351 KB - PDF)
 
 **Last updated:**
 
-24/09/2024
+26/01/2026
 
 [View](/is/documents/product-information/recarbrio-epar-product-information_is.pdf)
 
-italiano (IT) (347.92 KB - PDF)
+italiano (IT) (386.92 KB - PDF)
 
 **First published:**
 
@@ -537,11 +535,11 @@ italiano (IT) (347.92 KB - PDF)
 
 **Last updated:**
 
-24/09/2024
+26/01/2026
 
 [View](/it/documents/product-information/recarbrio-epar-product-information_it.pdf)
 
-latviešu valoda (LV) (328.25 KB - PDF)
+latviešu valoda (LV) (343.07 KB - PDF)
 
 **First published:**
 
@@ -549,11 +547,11 @@ latviešu valoda (LV) (328.25 KB - PDF)
 
 **Last updated:**
 
-24/09/2024
+26/01/2026
 
 [View](/lv/documents/product-information/recarbrio-epar-product-information_lv.pdf)
 
-lietuvių kalba (LT) (365.35 KB - PDF)
+lietuvių kalba (LT) (395 KB - PDF)
 
 **First published:**
 
@@ -561,11 +559,11 @@ lietuvių kalba (LT) (365.35 KB - PDF)
 
 **Last updated:**
 
-24/09/2024
+26/01/2026
 
 [View](/lt/documents/product-information/recarbrio-epar-product-information_lt.pdf)
 
-magyar (HU) (400.45 KB - PDF)
+magyar (HU) (433.24 KB - PDF)
 
 **First published:**
 
@@ -573,11 +571,11 @@ magyar (HU) (400.45 KB - PDF)
 
 **Last updated:**
 
-24/09/2024
+26/01/2026
 
 [View](/hu/documents/product-information/recarbrio-epar-product-information_hu.pdf)
 
-Malti (MT) (381.77 KB - PDF)
+Malti (MT) (422.39 KB - PDF)
 
 **First published:**
 
@@ -585,11 +583,11 @@ Malti (MT) (381.77 KB - PDF)
 
 **Last updated:**
 
-24/09/2024
+26/01/2026
 
 [View](/mt/documents/product-information/recarbrio-epar-product-information_mt.pdf)
 
-Nederlands (NL) (351.41 KB - PDF)
+Nederlands (NL) (392.72 KB - PDF)
 
 **First published:**
 
@@ -597,11 +595,11 @@ Nederlands (NL) (351.41 KB - PDF)
 
 **Last updated:**
 
-24/09/2024
+26/01/2026
 
 [View](/nl/documents/product-information/recarbrio-epar-product-information_nl.pdf)
 
-norsk (NO) (320.05 KB - PDF)
+norsk (NO) (360.01 KB - PDF)
 
 **First published:**
 
@@ -609,11 +607,11 @@ norsk (NO) (320.05 KB - PDF)
 
 **Last updated:**
 
-24/09/2024
+26/01/2026
 
 [View](/no/documents/product-information/recarbrio-epar-product-information_no.pdf)
 
-polski (PL) (395.97 KB - PDF)
+polski (PL) (420.81 KB - PDF)
 
 **First published:**
 
@@ -621,11 +619,11 @@ polski (PL) (395.97 KB - PDF)
 
 **Last updated:**
 
-24/09/2024
+26/01/2026
 
 [View](/pl/documents/product-information/recarbrio-epar-product-information_pl.pdf)
 
-português (PT) (350.9 KB - PDF)
+português (PT) (390.36 KB - PDF)
 
 **First published:**
 
@@ -633,11 +631,11 @@ português (PT) (350.9 KB - PDF)
 
 **Last updated:**
 
-24/09/2024
+26/01/2026
 
 [View](/pt/documents/product-information/recarbrio-epar-product-information_pt.pdf)
 
-română (RO) (347.4 KB - PDF)
+română (RO) (385.31 KB - PDF)
 
 **First published:**
 
@@ -645,11 +643,11 @@ română (RO) (347.4 KB - PDF)
 
 **Last updated:**
 
-24/09/2024
+26/01/2026
 
 [View](/ro/documents/product-information/recarbrio-epar-product-information_ro.pdf)
 
-slovenčina (SK) (380.27 KB - PDF)
+slovenčina (SK) (411.22 KB - PDF)
 
 **First published:**
 
@@ -657,11 +655,11 @@ slovenčina (SK) (380.27 KB - PDF)
 
 **Last updated:**
 
-24/09/2024
+26/01/2026
 
 [View](/sk/documents/product-information/recarbrio-epar-product-information_sk.pdf)
 
-slovenščina (SL) (376.5 KB - PDF)
+slovenščina (SL) (377.58 KB - PDF)
 
 **First published:**
 
@@ -669,11 +667,11 @@ slovenščina (SL) (376.5 KB - PDF)
 
 **Last updated:**
 
-24/09/2024
+26/01/2026
 
 [View](/sl/documents/product-information/recarbrio-epar-product-information_sl.pdf)
 
-Suomi (FI) (345.51 KB - PDF)
+Suomi (FI) (402.61 KB - PDF)
 
 **First published:**
 
@@ -681,11 +679,11 @@ Suomi (FI) (345.51 KB - PDF)
 
 **Last updated:**
 
-24/09/2024
+26/01/2026
 
 [View](/fi/documents/product-information/recarbrio-epar-product-information_fi.pdf)
 
-svenska (SV) (328.89 KB - PDF)
+svenska (SV) (376.08 KB - PDF)
 
 **First published:**
 
@@ -693,11 +691,11 @@ svenska (SV) (328.89 KB - PDF)
 
 **Last updated:**
 
-24/09/2024
+26/01/2026
 
 [View](/sv/documents/product-information/recarbrio-epar-product-information_sv.pdf)
 
-**Latest procedure affecting product information:** R/0029 30/01/2025
+**Latest procedure affecting product information:** VR/0000265089 19/01/2026
 
 icon globe
 
@@ -721,7 +719,7 @@ English (EN) (52.49 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/recarbrio-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-21)
+[Other languages (24)](#file-language-dropdown-818)
 
 български (BG) (53.68 KB - PDF)
 
@@ -950,7 +948,7 @@ Merck Sharp &amp; Dohme B.V.
 
 Waarderweg 39 2031 BN Haarlem The Netherlands
 
-Opinion adopted 12/12/2019 Marketing authorisation issued 13/02/2020 Revision 7
+Opinion adopted 12/12/2019 Marketing authorisation issued 13/02/2020 Revision 8
 
 ## Assessment history
 
@@ -962,13 +960,45 @@ Collapse section
 
 Recarbrio : EPAR - Procedural steps taken and scientific information after authorisation
 
+English (EN) (155.91 KB - PDF)
+
+**First published:** 26/01/2026
+
+[View](/en/documents/procedural-steps-after/recarbrio-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf)
+
+Recarbrio : EPAR - Procedural steps taken and scientific information after authorisation (archive)
+
 English (EN) (185.63 KB - PDF)
 
 **First published:** 18/01/2021
 
-**Last updated:** 24/09/2024
+**Last updated:** 26/01/2026
 
-[View](/en/documents/procedural-steps-after/recarbrio-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf)
+[View](/en/documents/procedural-steps-after/recarbrio-epar-procedural-steps-taken-scientific-information-after-authorisation-archive_en.pdf)
+
+Recarbrio-VR-0000265089 : EPAR - Assessment report - Variation
+
+Adopted
+
+Reference Number: EMADOC-1700519818-2608679
+
+English (EN) (4.58 MB - PDF)
+
+**First published:** 26/01/2026
+
+[View](/en/documents/variation-report/recarbrio-vr-0000265089-epar-assessment-report-variation_en.pdf)
+
+CHMP post-authorisation summary of positive opinion for Recarbrio (EMA/VR/0000265089)
+
+Adopted
+
+Reference Number: EMADOC-1700519818-2608675
+
+English (EN) (152.64 KB - PDF)
+
+**First published:** 12/12/2025
+
+[View](/en/documents/smop/chmp-post-authorisation-summary-positive-opinion-recarbrio-ema-vr-0000265089_en.pdf)
 
 Recarbrio-H-C-4808-P46-005 : EPAR - Assessment report
 
@@ -1051,13 +1081,12 @@ English (EN) (137.52 KB - PDF)
 #### More information on Recarbrio
 
 - [EMEA-001809-PIP01-15-M05 - paediatric investigation plan](/en/medicines/human/paediatric-investigation-plans/emea-001809-pip01-15-m05)
-- [Recarbrio - opinion on variation to marketing authorisation](/en/medicines/human/variation/recarbrio)
 
 #### Topics
 
 - [Medicines](https://www.ema.europa.eu/en/search?f%5B0%5D=ema_search_topics%3A61)
 
-**This page was last updated on** 07/03/2025
+**This page was last updated on** 26/01/2026
 
 ## Share this page
 

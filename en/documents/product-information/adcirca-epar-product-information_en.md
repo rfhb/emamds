@@ -1,18 +1,18 @@
 ---
-document_datetime: 2024-07-09 15:17:27
+document_datetime: 2026-01-27 16:03:06
 document_pages: 67
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/adcirca-epar-product-information_en.pdf
 document_name: adcirca-epar-product-information_en.pdf
 version: success
-processing_time: 14.5200654
-conversion_datetime: 2025-12-20 08:25:52.567281
+processing_time: 13.2131089
+conversion_datetime: 2026-02-01 20:30:43.973196
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.64.1
-  docling-core: 2.55.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.11.0
+  docling-jobkit: 1.9.1
+  docling: 2.71.0
+  docling-core: 2.62.0
+  docling-ibm-models: 3.11.0
+  docling-parse: 4.7.3
   python: cpython-313 (3.13.11)
   plaform: macOS-26.2-arm64-arm-64bit-Mach-O
 ---
@@ -75,8 +75,6 @@ The recommended once daily doses based on age and weight categories in paediatri
 | Paediatric patient's age and/or weight                    | Recommended daily dose and dosing regimen                                                                                     |
 |-----------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------|
 | Age ≥ 2 years old Body weight ≥ 40 kg Body weight < 40 kg | 40 mg (two 20 mg tablets) once daily 20 mg (one 20 mg tablet or 10 mL of oral suspension (OS), 2 mg/mL tadalafil*) once daily |
-
-* Oral suspension is available for administration to paediatric patients who require 20 mg and are not able to swallow tablets.
 
 For patients &lt; 2 years old no PK or efficacy data are available from clinical trials. The most appropriate dose of ADCIRCA in children aged between 6 months to &lt; 2 years has not been established. Therefore, ADCIRCA is not recommended in this age subset.
 
@@ -590,7 +588,7 @@ Any unused medicinal product or waste material should be disposed of in accordan
 
 MARKETING AUTHORISATION HOLDER
 
-Eli Lilly Nederland B.V. Papendorpseweg 83, 3528 BJ Utrecht The Netherlands
+Eli Lilly Nederland B.V. Orteliuslaan 1000, 3528 BD Utrecht The Netherlands
 
 8.
 
@@ -610,7 +608,7 @@ Date of latest renewal: 22 May 2013
 
 DATE OF REVISION OF THE TEXT
 
-Detailed information on this medicinal product is available on the website of the European Medicines Agency http://www.ema.europa.eu.
+Detailed information on this medicinal product is available on the website of the European Medicines Agency https://www.ema.europa.eu.
 
 18
 
@@ -982,7 +980,7 @@ weight cohort, ≥ 25 kg to &lt; 40 kg) or 40 mg (heavyweight cohort, ≥ 40 kg)
 
 ## Uncontrolled pharmacokinetic study in paediatric patients (H6D-MC-LVIG)
 
-In a paediatric multiple ascending dose study, 19patients with a median age of 10.9 years [range 2.5 - 17 years] received once daily ADCIRCA, for an open-label treatment duration of 10 weeks (Period 1) and for up to a further 24 months in an extension (Period 2). SAEs were reported in 8patients (42.1 %). These were pulmonary hypertension (21.0 %), viral infection (10.5 %), and cardiac failure, gastritis, pyrexia, type 1 diabetes mellitus, febrile convulsion, presyncope, seizure, and ovarian cyst (5.3 % each). No patient was discontinued due to AEs. TEAEs were reported in 18 patients (94.7 %) and the most frequent TEAEs (occurring in ≥ 5 patients) were headache, pyrexia, viral upper respiratory tract infection, and vomiting.  Two deaths were reported.
+In a paediatric multiple ascending dose study, 19patients with a median age of 10.9 years [range 2.5 - 17 years] received once daily ADCIRCA, for an open-label treatment duration of 10 weeks (Period 1) and for up to a further 24 months in an extension (Period 2). SAEs were reported in 8patients (42.1 %). These were pulmonary hypertension (21.0 %), viral infection (10.5 %), and cardiac failure, gastritis, pyrexia, type 1 diabetes mellitus, febrile convulsion, presyncope, seizure, and ovarian cyst (5.3 % each). No patient was discontinued due to AEs. TEAEs were reported in 18 patients (94.7 %) and the most freque nt TEAEs (occurring in ≥ 5 patients) were headache, pyrexia, viral upper respiratory tract infection, and vomiting.  Two deaths were reported.
 
 ## Post-marketing study in paediatric patients (H6D-JE-TD01)
 
@@ -1222,7 +1220,7 @@ Any unused medicinal product or waste material should be disposed of in accordan
 
 ## 7. MARKETING AUTHORISATION HOLDER
 
-Eli Lilly Nederland B.V. Papendorpseweg 83, 3528 BJ Utrecht The Netherlands
+Eli Lilly Nederland B.V. Orteliuslaan 1000, 3528 BD Utrecht The Netherlands
 
 ## 8. MARKETING AUTHORISATION NUMBER(S)
 
@@ -1236,7 +1234,9 @@ Date of latest renewal: 22 May 2013
 
 ## 10. DATE OF REVISION OF THE TEXT
 
-Detailed information on this medicinal product is available on the website of the European Medicines Agency http://www.ema.europa.eu.
+Detailed information on this medicinal product is available on the website of the European Medicines Agency https://www.ema.europa.eu.
+
+35
 
 <div style=\"page-break-after: always\"></div>
 
@@ -1342,7 +1342,7 @@ Store in the original package in order to protect from moisture. Do not store ab
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
-Eli Lilly Nederland B.V. Papendorpseweg 83, 3528 BJ Utrecht The Netherlands
+Eli Lilly Nederland B.V. Orteliuslaan 1000, 3528 BD Utrecht The Netherlands
 
 ## 12. MARKETING AUTHORISATION NUMBER(S)
 
@@ -1451,15 +1451,20 @@ After initial opening: use within 110 days. Open date:\\_\\_\\_\\_\\_\\_
 
 <div style=\"page-break-after: always\"></div>
 
+<div style=\"page-break-after: always\"></div>
+
+| 9.   | SPECIAL STORAGE CONDITIONS   |
+|------|------------------------------|
+
 ## 9. SPECIAL STORAGE CONDITIONS
 
 Store the bottle upright.
 
-10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
+## 10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
-Eli Lilly Nederland B.V. Papendorpseweg 83, 3528 BJ Utrecht The Netherlands
+Eli Lilly Nederland B.V. Orteliuslaan 1000, 3528 BD Utrecht The Netherlands
 
 ## 12. MARKETING AUTHORISATION NUMBER(S)
 
@@ -1483,13 +1488,9 @@ ADCIRCA 2 mg/mL
 
 ## 18. UNIQUE IDENTIFIER - HUMAN READABLE DATA
 
-PC
-
-SN
+PC SN
 
 NN
-
-<div style=\"page-break-after: always\"></div>
 
 <div style=\"page-break-after: always\"></div>
 
@@ -1546,9 +1547,10 @@ Store the bottle upright.
 | 10.   | SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS ORWASTEMATERIALS DERIVEDFROMSUCH MEDICINAL PRODUCTS, IF APPROPRIATE   |
 |-------|-------------------------------------------------------------------------------------------------------------------------------------|
 
-## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
+| 11.   | NAMEANDADDRESS OF THE MARKETING AUTHORISATION HOLDER   |
+|-------|--------------------------------------------------------|
 
-Eli Lilly Nederland B.V. Papendorpseweg 83, 3528 BJ Utrecht The Netherlands
+Eli Lilly Nederland B.V. Orteliuslaan 1000, 3528 BD Utrecht The Netherlands
 
 | 12. MARKETING AUTHORISATION NUMBER(S)   |
 |-----------------------------------------|
@@ -1569,7 +1571,8 @@ Lot
 | 16. INFORMATION IN BRAILLE   |
 |------------------------------|
 
-17. UNIQUE IDENTIFIER - 2D BARCODE
+| 17. UNIQUE IDENTIFIER - 2D BARCODE   |
+|--------------------------------------|
 
 | 18.   | UNIQUE IDENTIFIER - HUMANREADABLE DATA   |
 |-------|------------------------------------------|
@@ -1795,7 +1798,7 @@ Not all pack sizes may be marketed.
 
 ## Marketing Authorisation Holder and Manufacturer
 
-Marketing Authorisation Holder: Eli Lilly Nederland B.V., Papendorpseweg 83, 3528 BJ Utrecht, The Netherlands
+Marketing Authorisation Holder: Eli Lilly Nederland B.V., Orteliuslaan 1000, 3528 BD Utrecht, The Netherlands
 
 Manufacturer: Lilly S.A., Avda. de la Industria 30, 28108 Alcobendas, Madrid, Spain
 
@@ -1837,7 +1840,7 @@ Tel: + 36 1 328 5100
 
 Eli Lilly Danmark A/S
 
-Tlf: +45 45 26 60 00
+Tlf.: +45 45 26 60 00
 
 ## Malta
 
@@ -1897,7 +1900,9 @@ Tel: +385 1 2350 999
 
 ## Ireland
 
-Eli Lilly and Company (Ireland) Limited Tel: + 353-(0) 1 661 4377
+Eli Lilly and Company (Ireland) Limited
+
+Tel: + 353-(0) 1 661 4377
 
 ## Ísland
 
@@ -1915,9 +1920,7 @@ Tel: + 39- 055 42571
 
 Phadisco Ltd
 
-Τηλ:
-
-+357 22 715000
+Τηλ: +357 22 715000
 
 ## Latvija
 
@@ -1927,7 +1930,7 @@ Tel: +371 67364000
 
 ## This leaflet was last revised in
 
-Detailed information on this medicine is available on the European Medicines Agency web site: http://www.ema.europa.eu
+Detailed information on this medicine is available on the European Medicines Agency web site: https://www.ema.europa.eu
 
 ## Österreich
 
@@ -1976,10 +1979,6 @@ Puh/Tel: + 358-(0) 9 85 45 250
 Eli Lilly Sweden AB
 
 Tel: + 46-(0) 8 7378800
-
-## United Kingdom (Northern Ireland)
-
-Eli Lilly and Company (Ireland) Limited Tel: + 353-(0) 1 661 4377
 
 <div style=\"page-break-after: always\"></div>
 
@@ -2194,7 +2193,7 @@ ADCIRCA is packaged in a bottle containing 220 mL of oral suspension with a peel
 
 ## Marketing Authorisation Holder and Manufacturer
 
-Marketing Authorisation Holder: Eli Lilly Nederland B.V., Papendorpseweg 83, 3528 BJ Utrecht, The Netherlands
+Marketing Authorisation Holder: Eli Lilly Nederland B.V., Orteliuslaan 1000, 3528 BD Utrecht, The Netherlands
 
 ## Manufacturer:
 
@@ -2241,7 +2240,7 @@ Tel: + 36 1 328 5100
 
 Eli Lilly Danmark A/S
 
-Tlf: +45 45 26 60 00
+Tlf.: +45 45 26 60 00
 
 ## Malta
 
@@ -2319,7 +2318,7 @@ Tel: +371 67364000
 
 ## This leaflet was last revised in
 
-Detailed information on this medicine is available on the European Medicines Agency web site: http://www.ema.europa.eu
+Detailed information on this medicine is available on the European Medicines Agency web site: https://www.ema.europa.eu
 
 ## Nederland
 
@@ -2378,12 +2377,6 @@ Puh/Tel: + 358-(0) 9 85 45 250
 Eli Lilly Sweden AB
 
 Tel: + 46-(0) 8 7378800
-
-## United Kingdom (Northern Ireland)
-
-Eli Lilly and Company (Ireland) Limited
-
-Tel: + 353-(0) 1 661 4377
 
 <div style=\"page-break-after: always\"></div>
 

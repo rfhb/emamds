@@ -1,18 +1,18 @@
 ---
-document_datetime: 2025-12-29 11:32:50
+document_datetime: 2026-01-29 16:23:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/zubsolv.html
 document_name: zubsolv.html
 version: success
-processing_time: 0.1128155
-conversion_datetime: 2025-12-30 01:20:27.998626
+processing_time: 0.2346399
+conversion_datetime: 2026-02-01 20:29:02.556618
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.66.0
-  docling-core: 2.57.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.11.0
+  docling-jobkit: 1.9.1
+  docling: 2.71.0
+  docling-core: 2.62.0
+  docling-ibm-models: 3.11.0
+  docling-parse: 4.7.3
   python: cpython-313 (3.13.11)
   plaform: macOS-26.2-arm64-arm-64bit-Mach-O
 ---
@@ -25,8 +25,6 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 buprenorphine / naloxone Medicine Human Authorised
-
-On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -116,7 +114,7 @@ English (EN) (76.55 KB - PDF)
 
 [View](/en/documents/overview/zubsolv-epar-summary-public_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-463)
+[Other languages (22)](#file-language-dropdown-634)
 
 български (BG) (103.09 KB - PDF)
 
@@ -402,7 +400,7 @@ English (EN) (505.96 KB - PDF)
 
 [View](/en/documents/product-information/zubsolv-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-385)
+[Other languages (24)](#file-language-dropdown-668)
 
 български (BG) (796.51 KB - PDF)
 
@@ -718,7 +716,7 @@ English (EN) (172.29 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/zubsolv-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-269)
+[Other languages (24)](#file-language-dropdown-146)
 
 български (BG) (111.77 KB - PDF)
 
@@ -1086,13 +1084,13 @@ Zubsolv : EPAR - Public assessment report
 
 Adopted
 
-Reference Number: EMA/659116/2017
+Reference Number: EMA/CHMP/12714/2026
 
-English (EN) (822.78 KB - PDF)
+English (EN) (1005.01 KB - PDF)
 
 **First published:** 12/01/2018
 
-**Last updated:** 12/01/2018
+**Last updated:** 29/01/2026
 
 [View](/en/documents/assessment-report/zubsolv-epar-public-assessment-report_en.pdf)
 
@@ -1118,7 +1116,7 @@ English (EN) (68.09 KB - PDF)
 
 - [Medicines](https://www.ema.europa.eu/en/search?f%5B0%5D=ema_search_topics%3A61)
 
-**This page was last updated on** 08/12/2025
+**This page was last updated on** 29/01/2026
 
 ## Share this page
 

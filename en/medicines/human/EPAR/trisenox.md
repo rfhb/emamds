@@ -1,18 +1,18 @@
 ---
-document_datetime: 2025-12-16 12:20:00
+document_datetime: 2026-01-30 17:04:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/trisenox.html
 document_name: trisenox.html
 version: success
-processing_time: 0.2685657
-conversion_datetime: 2026-01-03 12:23:18.256451
+processing_time: 0.1574708
+conversion_datetime: 2026-02-01 20:25:56.678082
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.66.0
-  docling-core: 2.57.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.11.0
+  docling-jobkit: 1.9.1
+  docling: 2.71.0
+  docling-core: 2.62.0
+  docling-ibm-models: 3.11.0
+  docling-parse: 4.7.3
   python: cpython-313 (3.13.11)
   plaform: macOS-26.2-arm64-arm-64bit-Mach-O
 ---
@@ -25,8 +25,6 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 arsenic trioxide Medicine Human Authorised
-
-On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -119,7 +117,7 @@ English (EN) (88.89 KB - PDF)
 
 [View](/en/documents/overview/trisenox-epar-summary-public_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-448)
+[Other languages (22)](#file-language-dropdown-931)
 
 български (BG) (114.49 KB - PDF)
 
@@ -385,21 +383,29 @@ svenska (SV) (87.01 KB - PDF)
 
 [View](/sv/documents/overview/trisenox-epar-summary-public_sv.pdf)
 
+Trisenox : EPAR - Risk management plan
+
+English (EN) (575.67 KB - PDF)
+
+**First published:** 30/01/2026
+
+[View](/en/documents/rmp/trisenox-epar-risk-management-plan_en.pdf)
+
 ## Product information
 
 Trisenox : EPAR - Product Information
 
-English (EN) (501.76 KB - PDF)
+English (EN) (523.38 KB - PDF)
 
 **First published:** 08/10/2009
 
-**Last updated:** 16/12/2025
+**Last updated:** 30/01/2026
 
 [View](/en/documents/product-information/trisenox-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-569)
+[Other languages (24)](#file-language-dropdown-905)
 
-български (BG) (656.38 KB - PDF)
+български (BG) (678.25 KB - PDF)
 
 **First published:**
 
@@ -407,11 +413,11 @@ English (EN) (501.76 KB - PDF)
 
 **Last updated:**
 
-16/12/2025
+30/01/2026
 
 [View](/bg/documents/product-information/trisenox-epar-product-information_bg.pdf)
 
-español (ES) (514.94 KB - PDF)
+español (ES) (539.42 KB - PDF)
 
 **First published:**
 
@@ -419,11 +425,11 @@ español (ES) (514.94 KB - PDF)
 
 **Last updated:**
 
-16/12/2025
+30/01/2026
 
 [View](/es/documents/product-information/trisenox-epar-product-information_es.pdf)
 
-čeština (CS) (663.09 KB - PDF)
+čeština (CS) (686.69 KB - PDF)
 
 **First published:**
 
@@ -431,11 +437,11 @@ español (ES) (514.94 KB - PDF)
 
 **Last updated:**
 
-16/12/2025
+30/01/2026
 
 [View](/cs/documents/product-information/trisenox-epar-product-information_cs.pdf)
 
-dansk (DA) (523.03 KB - PDF)
+dansk (DA) (547.33 KB - PDF)
 
 **First published:**
 
@@ -443,11 +449,11 @@ dansk (DA) (523.03 KB - PDF)
 
 **Last updated:**
 
-16/12/2025
+30/01/2026
 
 [View](/da/documents/product-information/trisenox-epar-product-information_da.pdf)
 
-Deutsch (DE) (527.81 KB - PDF)
+Deutsch (DE) (558.51 KB - PDF)
 
 **First published:**
 
@@ -455,11 +461,11 @@ Deutsch (DE) (527.81 KB - PDF)
 
 **Last updated:**
 
-16/12/2025
+30/01/2026
 
 [View](/de/documents/product-information/trisenox-epar-product-information_de.pdf)
 
-eesti keel (ET) (515.5 KB - PDF)
+eesti keel (ET) (538.76 KB - PDF)
 
 **First published:**
 
@@ -467,11 +473,11 @@ eesti keel (ET) (515.5 KB - PDF)
 
 **Last updated:**
 
-16/12/2025
+30/01/2026
 
 [View](/et/documents/product-information/trisenox-epar-product-information_et.pdf)
 
-ελληνικά (EL) (620.82 KB - PDF)
+ελληνικά (EL) (646.13 KB - PDF)
 
 **First published:**
 
@@ -479,11 +485,11 @@ eesti keel (ET) (515.5 KB - PDF)
 
 **Last updated:**
 
-16/12/2025
+30/01/2026
 
 [View](/el/documents/product-information/trisenox-epar-product-information_el.pdf)
 
-français (FR) (515.57 KB - PDF)
+français (FR) (538.92 KB - PDF)
 
 **First published:**
 
@@ -491,11 +497,11 @@ français (FR) (515.57 KB - PDF)
 
 **Last updated:**
 
-16/12/2025
+30/01/2026
 
 [View](/fr/documents/product-information/trisenox-epar-product-information_fr.pdf)
 
-hrvatski (HR) (588.13 KB - PDF)
+hrvatski (HR) (610.35 KB - PDF)
 
 **First published:**
 
@@ -503,11 +509,11 @@ hrvatski (HR) (588.13 KB - PDF)
 
 **Last updated:**
 
-16/12/2025
+30/01/2026
 
 [View](/hr/documents/product-information/trisenox-epar-product-information_hr.pdf)
 
-íslenska (IS) (503.28 KB - PDF)
+íslenska (IS) (527.52 KB - PDF)
 
 **First published:**
 
@@ -515,11 +521,11 @@ hrvatski (HR) (588.13 KB - PDF)
 
 **Last updated:**
 
-16/12/2025
+30/01/2026
 
 [View](/is/documents/product-information/trisenox-epar-product-information_is.pdf)
 
-italiano (IT) (519.31 KB - PDF)
+italiano (IT) (542.5 KB - PDF)
 
 **First published:**
 
@@ -527,11 +533,11 @@ italiano (IT) (519.31 KB - PDF)
 
 **Last updated:**
 
-16/12/2025
+30/01/2026
 
 [View](/it/documents/product-information/trisenox-epar-product-information_it.pdf)
 
-latviešu valoda (LV) (638.66 KB - PDF)
+latviešu valoda (LV) (661.75 KB - PDF)
 
 **First published:**
 
@@ -539,11 +545,11 @@ latviešu valoda (LV) (638.66 KB - PDF)
 
 **Last updated:**
 
-16/12/2025
+30/01/2026
 
 [View](/lv/documents/product-information/trisenox-epar-product-information_lv.pdf)
 
-lietuvių kalba (LT) (592.83 KB - PDF)
+lietuvių kalba (LT) (616.02 KB - PDF)
 
 **First published:**
 
@@ -551,11 +557,11 @@ lietuvių kalba (LT) (592.83 KB - PDF)
 
 **Last updated:**
 
-16/12/2025
+30/01/2026
 
 [View](/lt/documents/product-information/trisenox-epar-product-information_lt.pdf)
 
-magyar (HU) (740.04 KB - PDF)
+magyar (HU) (762.61 KB - PDF)
 
 **First published:**
 
@@ -563,11 +569,11 @@ magyar (HU) (740.04 KB - PDF)
 
 **Last updated:**
 
-16/12/2025
+30/01/2026
 
 [View](/hu/documents/product-information/trisenox-epar-product-information_hu.pdf)
 
-Malti (MT) (638.55 KB - PDF)
+Malti (MT) (660.24 KB - PDF)
 
 **First published:**
 
@@ -575,11 +581,11 @@ Malti (MT) (638.55 KB - PDF)
 
 **Last updated:**
 
-16/12/2025
+30/01/2026
 
 [View](/mt/documents/product-information/trisenox-epar-product-information_mt.pdf)
 
-Nederlands (NL) (576.36 KB - PDF)
+Nederlands (NL) (599.27 KB - PDF)
 
 **First published:**
 
@@ -587,11 +593,11 @@ Nederlands (NL) (576.36 KB - PDF)
 
 **Last updated:**
 
-16/12/2025
+30/01/2026
 
 [View](/nl/documents/product-information/trisenox-epar-product-information_nl.pdf)
 
-norsk (NO) (526 KB - PDF)
+norsk (NO) (550.52 KB - PDF)
 
 **First published:**
 
@@ -599,11 +605,11 @@ norsk (NO) (526 KB - PDF)
 
 **Last updated:**
 
-16/12/2025
+30/01/2026
 
 [View](/no/documents/product-information/trisenox-epar-product-information_no.pdf)
 
-polski (PL) (628.3 KB - PDF)
+polski (PL) (649.56 KB - PDF)
 
 **First published:**
 
@@ -611,11 +617,11 @@ polski (PL) (628.3 KB - PDF)
 
 **Last updated:**
 
-16/12/2025
+30/01/2026
 
 [View](/pl/documents/product-information/trisenox-epar-product-information_pl.pdf)
 
-português (PT) (515.7 KB - PDF)
+português (PT) (536.63 KB - PDF)
 
 **First published:**
 
@@ -623,11 +629,11 @@ português (PT) (515.7 KB - PDF)
 
 **Last updated:**
 
-16/12/2025
+30/01/2026
 
 [View](/pt/documents/product-information/trisenox-epar-product-information_pt.pdf)
 
-română (RO) (618.4 KB - PDF)
+română (RO) (645.06 KB - PDF)
 
 **First published:**
 
@@ -635,11 +641,11 @@ română (RO) (618.4 KB - PDF)
 
 **Last updated:**
 
-16/12/2025
+30/01/2026
 
 [View](/ro/documents/product-information/trisenox-epar-product-information_ro.pdf)
 
-slovenčina (SK) (634.81 KB - PDF)
+slovenčina (SK) (657.68 KB - PDF)
 
 **First published:**
 
@@ -647,11 +653,11 @@ slovenčina (SK) (634.81 KB - PDF)
 
 **Last updated:**
 
-16/12/2025
+30/01/2026
 
 [View](/sk/documents/product-information/trisenox-epar-product-information_sk.pdf)
 
-slovenščina (SL) (580.85 KB - PDF)
+slovenščina (SL) (604 KB - PDF)
 
 **First published:**
 
@@ -659,11 +665,11 @@ slovenščina (SL) (580.85 KB - PDF)
 
 **Last updated:**
 
-16/12/2025
+30/01/2026
 
 [View](/sl/documents/product-information/trisenox-epar-product-information_sl.pdf)
 
-Suomi (FI) (524.39 KB - PDF)
+Suomi (FI) (548.77 KB - PDF)
 
 **First published:**
 
@@ -671,11 +677,11 @@ Suomi (FI) (524.39 KB - PDF)
 
 **Last updated:**
 
-16/12/2025
+30/01/2026
 
 [View](/fi/documents/product-information/trisenox-epar-product-information_fi.pdf)
 
-svenska (SV) (496.07 KB - PDF)
+svenska (SV) (518.66 KB - PDF)
 
 **First published:**
 
@@ -683,11 +689,11 @@ svenska (SV) (496.07 KB - PDF)
 
 **Last updated:**
 
-16/12/2025
+30/01/2026
 
 [View](/sv/documents/product-information/trisenox-epar-product-information_sv.pdf)
 
-**Latest procedure affecting product information:** VR/0000314149 15/12/2025
+**Latest procedure affecting product information:** VR/0000281747 15/01/2026
 
 icon globe
 
@@ -713,7 +719,7 @@ English (EN) (14.18 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/trisenox-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-766)
+[Other languages (24)](#file-language-dropdown-15)
 
 български (BG) (38.37 KB - PDF)
 
@@ -1030,7 +1036,7 @@ Teva B.V.
 
 Swensweg 5
 
-Marketing authorisation issued 05/03/2002 Revision 32
+Marketing authorisation issued 05/03/2002 Revision 33
 
 ## Assessment history
 
@@ -1042,19 +1048,21 @@ Collapse section
 
 Trisenox : EPAR - Procedural steps taken and scientific information after authorisation
 
-English (EN) (216.52 KB - PDF)
+English (EN) (162.88 KB - PDF)
 
 **First published:** 16/12/2025
+
+**Last updated:** 30/01/2026
 
 [View](/en/documents/procedural-steps-after/trisenox-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf)
 
 Trisenox : EPAR - Procedural steps taken and scientific information after authorisation (archive)
 
-English (EN) (289.34 KB - PDF)
+English (EN) (243.54 KB - PDF)
 
 **First published:** 08/10/2009
 
-**Last updated:** 16/12/2025
+**Last updated:** 30/01/2026
 
 [View](/en/documents/procedural-steps-after/trisenox-epar-procedural-steps-taken-scientific-information-after-authorisation-archive_en.pdf)
 
@@ -1142,203 +1150,301 @@ The approved product information for this medicine is available below showing th
 
 Trisenox : EPAR - Product information - tracked changes
 
-English (EN) (139.28 KB - DOCX)
+English (EN) (136.21 KB - DOCX)
 
 **First published:** 16/12/2025
 
+**Last updated:** 30/01/2026
+
 [View](/en/documents/product-information-tracked-changes/trisenox-epar-product-information-tracked-changes_en.docx)
 
-[Other languages (24)](#file-language-dropdown-698)
+[Other languages (24)](#file-language-dropdown-577)
 
-български (BG) (171.05 KB - DOCX)
+български (BG) (155.67 KB - DOCX)
 
 **First published:**
 
 16/12/2025
+
+**Last updated:**
+
+30/01/2026
 
 [View](/bg/documents/product-information-tracked-changes/trisenox-epar-product-information-tracked-changes_bg.docx)
 
-español (ES) (135.22 KB - DOCX)
+español (ES) (105.59 KB - DOCX)
 
 **First published:**
 
 16/12/2025
+
+**Last updated:**
+
+30/01/2026
 
 [View](/es/documents/product-information-tracked-changes/trisenox-epar-product-information-tracked-changes_es.docx)
 
-čeština (CS) (152.76 KB - DOCX)
+čeština (CS) (138.65 KB - DOCX)
 
 **First published:**
 
 16/12/2025
+
+**Last updated:**
+
+30/01/2026
 
 [View](/cs/documents/product-information-tracked-changes/trisenox-epar-product-information-tracked-changes_cs.docx)
 
-dansk (DA) (158.88 KB - DOCX)
+dansk (DA) (144.93 KB - DOCX)
 
 **First published:**
 
 16/12/2025
+
+**Last updated:**
+
+30/01/2026
 
 [View](/da/documents/product-information-tracked-changes/trisenox-epar-product-information-tracked-changes_da.docx)
 
-Deutsch (DE) (160.27 KB - DOCX)
+Deutsch (DE) (145.76 KB - DOCX)
 
 **First published:**
 
 16/12/2025
+
+**Last updated:**
+
+30/01/2026
 
 [View](/de/documents/product-information-tracked-changes/trisenox-epar-product-information-tracked-changes_de.docx)
 
-eesti keel (ET) (178.14 KB - DOCX)
+eesti keel (ET) (161.9 KB - DOCX)
 
 **First published:**
 
 16/12/2025
+
+**Last updated:**
+
+30/01/2026
 
 [View](/et/documents/product-information-tracked-changes/trisenox-epar-product-information-tracked-changes_et.docx)
 
-ελληνικά (EL) (142.15 KB - DOCX)
+ελληνικά (EL) (110.42 KB - DOCX)
 
 **First published:**
 
 16/12/2025
+
+**Last updated:**
+
+30/01/2026
 
 [View](/el/documents/product-information-tracked-changes/trisenox-epar-product-information-tracked-changes_el.docx)
 
-français (FR) (170.55 KB - DOCX)
+français (FR) (157.23 KB - DOCX)
 
 **First published:**
 
 16/12/2025
+
+**Last updated:**
+
+30/01/2026
 
 [View](/fr/documents/product-information-tracked-changes/trisenox-epar-product-information-tracked-changes_fr.docx)
 
-hrvatski (HR) (164.32 KB - DOCX)
+hrvatski (HR) (147.58 KB - DOCX)
 
 **First published:**
 
 16/12/2025
+
+**Last updated:**
+
+30/01/2026
 
 [View](/hr/documents/product-information-tracked-changes/trisenox-epar-product-information-tracked-changes_hr.docx)
 
-íslenska (IS) (190.48 KB - DOCX)
+íslenska (IS) (176.09 KB - DOCX)
 
 **First published:**
 
 16/12/2025
+
+**Last updated:**
+
+30/01/2026
 
 [View](/is/documents/product-information-tracked-changes/trisenox-epar-product-information-tracked-changes_is.docx)
 
-italiano (IT) (189.27 KB - DOCX)
+italiano (IT) (174.09 KB - DOCX)
 
 **First published:**
 
 16/12/2025
+
+**Last updated:**
+
+30/01/2026
 
 [View](/it/documents/product-information-tracked-changes/trisenox-epar-product-information-tracked-changes_it.docx)
 
-latviešu valoda (LV) (185.92 KB - DOCX)
+latviešu valoda (LV) (170.09 KB - DOCX)
 
 **First published:**
 
 16/12/2025
+
+**Last updated:**
+
+30/01/2026
 
 [View](/lv/documents/product-information-tracked-changes/trisenox-epar-product-information-tracked-changes_lv.docx)
 
-lietuvių kalba (LT) (142.65 KB - DOCX)
+lietuvių kalba (LT) (111.12 KB - DOCX)
 
 **First published:**
 
 16/12/2025
+
+**Last updated:**
+
+30/01/2026
 
 [View](/lt/documents/product-information-tracked-changes/trisenox-epar-product-information-tracked-changes_lt.docx)
 
-magyar (HU) (164.72 KB - DOCX)
+magyar (HU) (147.66 KB - DOCX)
 
 **First published:**
 
 16/12/2025
+
+**Last updated:**
+
+30/01/2026
 
 [View](/hu/documents/product-information-tracked-changes/trisenox-epar-product-information-tracked-changes_hu.docx)
 
-Malti (MT) (170.07 KB - DOCX)
+Malti (MT) (155.49 KB - DOCX)
 
 **First published:**
 
 16/12/2025
+
+**Last updated:**
+
+30/01/2026
 
 [View](/mt/documents/product-information-tracked-changes/trisenox-epar-product-information-tracked-changes_mt.docx)
 
-Nederlands (NL) (153.96 KB - DOCX)
+Nederlands (NL) (139.41 KB - DOCX)
 
 **First published:**
 
 16/12/2025
+
+**Last updated:**
+
+30/01/2026
 
 [View](/nl/documents/product-information-tracked-changes/trisenox-epar-product-information-tracked-changes_nl.docx)
 
-norsk (NO) (153.88 KB - DOCX)
+norsk (NO) (144.14 KB - DOCX)
 
 **First published:**
 
 16/12/2025
+
+**Last updated:**
+
+30/01/2026
 
 [View](/no/documents/product-information-tracked-changes/trisenox-epar-product-information-tracked-changes_no.docx)
 
-polski (PL) (179.66 KB - DOCX)
+polski (PL) (166.26 KB - DOCX)
 
 **First published:**
 
 16/12/2025
+
+**Last updated:**
+
+30/01/2026
 
 [View](/pl/documents/product-information-tracked-changes/trisenox-epar-product-information-tracked-changes_pl.docx)
 
-português (PT) (144.29 KB - DOCX)
+português (PT) (129.11 KB - DOCX)
 
 **First published:**
 
 16/12/2025
+
+**Last updated:**
+
+30/01/2026
 
 [View](/pt/documents/product-information-tracked-changes/trisenox-epar-product-information-tracked-changes_pt.docx)
 
-română (RO) (165.28 KB - DOCX)
+română (RO) (150.8 KB - DOCX)
 
 **First published:**
 
 16/12/2025
+
+**Last updated:**
+
+30/01/2026
 
 [View](/ro/documents/product-information-tracked-changes/trisenox-epar-product-information-tracked-changes_ro.docx)
 
-slovenčina (SK) (152.42 KB - DOCX)
+slovenčina (SK) (137.41 KB - DOCX)
 
 **First published:**
 
 16/12/2025
+
+**Last updated:**
+
+30/01/2026
 
 [View](/sk/documents/product-information-tracked-changes/trisenox-epar-product-information-tracked-changes_sk.docx)
 
-slovenščina (SL) (156.7 KB - DOCX)
+slovenščina (SL) (140.89 KB - DOCX)
 
 **First published:**
 
 16/12/2025
+
+**Last updated:**
+
+30/01/2026
 
 [View](/sl/documents/product-information-tracked-changes/trisenox-epar-product-information-tracked-changes_sl.docx)
 
-Suomi (FI) (165.04 KB - DOCX)
+Suomi (FI) (150.13 KB - DOCX)
 
 **First published:**
 
 16/12/2025
+
+**Last updated:**
+
+30/01/2026
 
 [View](/fi/documents/product-information-tracked-changes/trisenox-epar-product-information-tracked-changes_fi.docx)
 
-svenska (SV) (142.28 KB - DOCX)
+svenska (SV) (125.89 KB - DOCX)
 
 **First published:**
 
 16/12/2025
+
+**Last updated:**
+
+30/01/2026
 
 [View](/sv/documents/product-information-tracked-changes/trisenox-epar-product-information-tracked-changes_sv.docx)
 
@@ -1356,7 +1462,7 @@ English (EN) (228.92 KB - PDF)
 
 [View](/en/documents/medication-error/trisenox-ema-issues-alert-risk-dosing-errors-cancer-medicine-trisenox_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-230)
+[Other languages (22)](#file-language-dropdown-754)
 
 български (BG) (253.45 KB - PDF)
 
@@ -1546,7 +1652,7 @@ svenska (SV) (229.88 KB - PDF)
 
 - [Medicines](https://www.ema.europa.eu/en/search?f%5B0%5D=ema_search_topics%3A61)
 
-**This page was last updated on** 16/12/2025
+**This page was last updated on** 30/01/2026
 
 ## Share this page
 

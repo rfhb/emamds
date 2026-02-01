@@ -1,18 +1,18 @@
 ---
-document_datetime: 2025-12-29 14:26:35
+document_datetime: 2026-01-29 14:40:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/zykadia.html
 document_name: zykadia.html
 version: success
-processing_time: 0.1379892
-conversion_datetime: 2025-12-30 22:55:41.067852
+processing_time: 0.1447394
+conversion_datetime: 2026-02-01 20:33:16.037684
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.66.0
-  docling-core: 2.57.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.11.0
+  docling-jobkit: 1.9.1
+  docling: 2.71.0
+  docling-core: 2.62.0
+  docling-ibm-models: 3.11.0
+  docling-parse: 4.7.3
   python: cpython-313 (3.13.11)
   plaform: macOS-26.2-arm64-arm-64bit-Mach-O
 ---
@@ -25,8 +25,6 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 ceritinib Medicine Human Authorised
-
-On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -111,7 +109,7 @@ English (EN) (77.76 KB - PDF)
 
 [View](/en/documents/overview/zykadia-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-42)
+[Other languages (22)](#file-language-dropdown-825)
 
 български (BG) (105.51 KB - PDF)
 
@@ -391,17 +389,17 @@ English (EN) (1018.77 KB - PDF)
 
 Zykadia : EPAR - Product Information
 
-English (EN) (881.14 KB - PDF)
+English (EN) (820.49 KB - PDF)
 
 **First published:** 04/06/2015
 
-**Last updated:** 26/08/2025
+**Last updated:** 29/01/2026
 
 [View](/en/documents/product-information/zykadia-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-428)
+[Other languages (24)](#file-language-dropdown-626)
 
-български (BG) (1.03 MB - PDF)
+български (BG) (1023.18 KB - PDF)
 
 **First published:**
 
@@ -409,11 +407,11 @@ English (EN) (881.14 KB - PDF)
 
 **Last updated:**
 
-26/08/2025
+29/01/2026
 
 [View](/bg/documents/product-information/zykadia-epar-product-information_bg.pdf)
 
-español (ES) (982.43 KB - PDF)
+español (ES) (869.54 KB - PDF)
 
 **First published:**
 
@@ -421,11 +419,11 @@ español (ES) (982.43 KB - PDF)
 
 **Last updated:**
 
-26/08/2025
+29/01/2026
 
 [View](/es/documents/product-information/zykadia-epar-product-information_es.pdf)
 
-čeština (CS) (1.04 MB - PDF)
+čeština (CS) (1015.22 KB - PDF)
 
 **First published:**
 
@@ -433,11 +431,11 @@ español (ES) (982.43 KB - PDF)
 
 **Last updated:**
 
-26/08/2025
+29/01/2026
 
 [View](/cs/documents/product-information/zykadia-epar-product-information_cs.pdf)
 
-dansk (DA) (949.11 KB - PDF)
+dansk (DA) (892.6 KB - PDF)
 
 **First published:**
 
@@ -445,11 +443,11 @@ dansk (DA) (949.11 KB - PDF)
 
 **Last updated:**
 
-26/08/2025
+29/01/2026
 
 [View](/da/documents/product-information/zykadia-epar-product-information_da.pdf)
 
-Deutsch (DE) (1.02 MB - PDF)
+Deutsch (DE) (1008.86 KB - PDF)
 
 **First published:**
 
@@ -457,11 +455,11 @@ Deutsch (DE) (1.02 MB - PDF)
 
 **Last updated:**
 
-26/08/2025
+29/01/2026
 
 [View](/de/documents/product-information/zykadia-epar-product-information_de.pdf)
 
-eesti keel (ET) (914.18 KB - PDF)
+eesti keel (ET) (895.56 KB - PDF)
 
 **First published:**
 
@@ -469,11 +467,11 @@ eesti keel (ET) (914.18 KB - PDF)
 
 **Last updated:**
 
-26/08/2025
+29/01/2026
 
 [View](/et/documents/product-information/zykadia-epar-product-information_et.pdf)
 
-ελληνικά (EL) (1.01 MB - PDF)
+ελληνικά (EL) (1000.32 KB - PDF)
 
 **First published:**
 
@@ -481,11 +479,11 @@ eesti keel (ET) (914.18 KB - PDF)
 
 **Last updated:**
 
-26/08/2025
+29/01/2026
 
 [View](/el/documents/product-information/zykadia-epar-product-information_el.pdf)
 
-français (FR) (1.03 MB - PDF)
+français (FR) (1013.11 KB - PDF)
 
 **First published:**
 
@@ -493,11 +491,11 @@ français (FR) (1.03 MB - PDF)
 
 **Last updated:**
 
-26/08/2025
+29/01/2026
 
 [View](/fr/documents/product-information/zykadia-epar-product-information_fr.pdf)
 
-hrvatski (HR) (1.03 MB - PDF)
+hrvatski (HR) (981.66 KB - PDF)
 
 **First published:**
 
@@ -505,11 +503,11 @@ hrvatski (HR) (1.03 MB - PDF)
 
 **Last updated:**
 
-26/08/2025
+29/01/2026
 
 [View](/hr/documents/product-information/zykadia-epar-product-information_hr.pdf)
 
-íslenska (IS) (976.56 KB - PDF)
+íslenska (IS) (915.92 KB - PDF)
 
 **First published:**
 
@@ -517,11 +515,11 @@ hrvatski (HR) (1.03 MB - PDF)
 
 **Last updated:**
 
-26/08/2025
+29/01/2026
 
 [View](/is/documents/product-information/zykadia-epar-product-information_is.pdf)
 
-italiano (IT) (1.01 MB - PDF)
+italiano (IT) (943.18 KB - PDF)
 
 **First published:**
 
@@ -529,11 +527,11 @@ italiano (IT) (1.01 MB - PDF)
 
 **Last updated:**
 
-26/08/2025
+29/01/2026
 
 [View](/it/documents/product-information/zykadia-epar-product-information_it.pdf)
 
-latviešu valoda (LV) (1.03 MB - PDF)
+latviešu valoda (LV) (957.44 KB - PDF)
 
 **First published:**
 
@@ -541,11 +539,11 @@ latviešu valoda (LV) (1.03 MB - PDF)
 
 **Last updated:**
 
-26/08/2025
+29/01/2026
 
 [View](/lv/documents/product-information/zykadia-epar-product-information_lv.pdf)
 
-lietuvių kalba (LT) (1.01 MB - PDF)
+lietuvių kalba (LT) (995.62 KB - PDF)
 
 **First published:**
 
@@ -553,11 +551,11 @@ lietuvių kalba (LT) (1.01 MB - PDF)
 
 **Last updated:**
 
-26/08/2025
+29/01/2026
 
 [View](/lt/documents/product-information/zykadia-epar-product-information_lt.pdf)
 
-magyar (HU) (1.08 MB - PDF)
+magyar (HU) (1 MB - PDF)
 
 **First published:**
 
@@ -565,11 +563,11 @@ magyar (HU) (1.08 MB - PDF)
 
 **Last updated:**
 
-26/08/2025
+29/01/2026
 
 [View](/hu/documents/product-information/zykadia-epar-product-information_hu.pdf)
 
-Malti (MT) (1.03 MB - PDF)
+Malti (MT) (1.02 MB - PDF)
 
 **First published:**
 
@@ -577,11 +575,11 @@ Malti (MT) (1.03 MB - PDF)
 
 **Last updated:**
 
-26/08/2025
+29/01/2026
 
 [View](/mt/documents/product-information/zykadia-epar-product-information_mt.pdf)
 
-Nederlands (NL) (891.96 KB - PDF)
+Nederlands (NL) (903.42 KB - PDF)
 
 **First published:**
 
@@ -589,11 +587,11 @@ Nederlands (NL) (891.96 KB - PDF)
 
 **Last updated:**
 
-26/08/2025
+29/01/2026
 
 [View](/nl/documents/product-information/zykadia-epar-product-information_nl.pdf)
 
-norsk (NO) (932.67 KB - PDF)
+norsk (NO) (894.76 KB - PDF)
 
 **First published:**
 
@@ -601,11 +599,11 @@ norsk (NO) (932.67 KB - PDF)
 
 **Last updated:**
 
-26/08/2025
+29/01/2026
 
 [View](/no/documents/product-information/zykadia-epar-product-information_no.pdf)
 
-polski (PL) (1.11 MB - PDF)
+polski (PL) (950.35 KB - PDF)
 
 **First published:**
 
@@ -613,11 +611,11 @@ polski (PL) (1.11 MB - PDF)
 
 **Last updated:**
 
-26/08/2025
+29/01/2026
 
 [View](/pl/documents/product-information/zykadia-epar-product-information_pl.pdf)
 
-português (PT) (941.05 KB - PDF)
+português (PT) (945.05 KB - PDF)
 
 **First published:**
 
@@ -625,11 +623,11 @@ português (PT) (941.05 KB - PDF)
 
 **Last updated:**
 
-26/08/2025
+29/01/2026
 
 [View](/pt/documents/product-information/zykadia-epar-product-information_pt.pdf)
 
-română (RO) (1.03 MB - PDF)
+română (RO) (1.01 MB - PDF)
 
 **First published:**
 
@@ -637,11 +635,11 @@ română (RO) (1.03 MB - PDF)
 
 **Last updated:**
 
-26/08/2025
+29/01/2026
 
 [View](/ro/documents/product-information/zykadia-epar-product-information_ro.pdf)
 
-slovenčina (SK) (1.06 MB - PDF)
+slovenčina (SK) (1005.59 KB - PDF)
 
 **First published:**
 
@@ -649,11 +647,11 @@ slovenčina (SK) (1.06 MB - PDF)
 
 **Last updated:**
 
-26/08/2025
+29/01/2026
 
 [View](/sk/documents/product-information/zykadia-epar-product-information_sk.pdf)
 
-slovenščina (SL) (1 MB - PDF)
+slovenščina (SL) (974.4 KB - PDF)
 
 **First published:**
 
@@ -661,11 +659,11 @@ slovenščina (SL) (1 MB - PDF)
 
 **Last updated:**
 
-26/08/2025
+29/01/2026
 
 [View](/sl/documents/product-information/zykadia-epar-product-information_sl.pdf)
 
-Suomi (FI) (992.36 KB - PDF)
+Suomi (FI) (892.25 KB - PDF)
 
 **First published:**
 
@@ -673,11 +671,11 @@ Suomi (FI) (992.36 KB - PDF)
 
 **Last updated:**
 
-26/08/2025
+29/01/2026
 
 [View](/fi/documents/product-information/zykadia-epar-product-information_fi.pdf)
 
-svenska (SV) (968.46 KB - PDF)
+svenska (SV) (869.22 KB - PDF)
 
 **First published:**
 
@@ -685,11 +683,11 @@ svenska (SV) (968.46 KB - PDF)
 
 **Last updated:**
 
-26/08/2025
+29/01/2026
 
 [View](/sv/documents/product-information/zykadia-epar-product-information_sv.pdf)
 
-**Latest procedure affecting product information:** VR/0000293040 26/08/2025
+**Latest procedure affecting product information:** VR/0000323613 28/01/2026
 
 icon globe
 
@@ -715,7 +713,7 @@ English (EN) (48.39 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/zykadia-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-332)
+[Other languages (24)](#file-language-dropdown-381)
 
 български (BG) (57.84 KB - PDF)
 
@@ -1007,7 +1005,7 @@ svenska (SV) (48.49 KB - PDF)
 
 ## Product details
 
-Name of medicine Zykadia Active substance ceritinib International non-proprietary name (INN) or common name ceritinib Therapeutic area (MeSH) Carcinoma, Non-Small-Cell Lung Anatomical therapeutic chemical (ATC) code L01XE
+Name of medicine Zykadia International non-proprietary name (INN) or common name ceritinib Therapeutic area (MeSH) Carcinoma, Non-Small-Cell Lung Anatomical therapeutic chemical (ATC) code L01XE
 
 ### Pharmacotherapeutic group
 
@@ -1025,7 +1023,7 @@ Novartis Europharm Limited
 
 Vista Building
 
-Opinion adopted 26/02/2015 Marketing authorisation issued 06/05/2015 Revision 23
+Opinion adopted 26/02/2015 Marketing authorisation issued 06/05/2015 Revision 24
 
 ## Assessment history
 
@@ -1037,11 +1035,11 @@ Collapse section
 
 Zykadia : EPAR - Procedural steps taken and scientific information after authorisation
 
-English (EN) (422.42 KB - PDF)
+English (EN) (137.95 KB - PDF)
 
 **First published:** 29/01/2025
 
-**Last updated:** 26/08/2025
+**Last updated:** 29/01/2026
 
 [View](/en/documents/procedural-steps-after/zykadia-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf)
 
@@ -1149,7 +1147,7 @@ English (EN) (1.27 MB - DOCX)
 
 [View](/en/documents/product-information-tracked-changes/zykadia-epar-product-information-tracked-changes_en.docx)
 
-[Other languages (24)](#file-language-dropdown-351)
+[Other languages (24)](#file-language-dropdown-183)
 
 български (BG) (1.31 MB - DOCX)
 
@@ -1443,7 +1441,7 @@ svenska (SV) (1.25 MB - DOCX)
 
 - [Medicines](https://www.ema.europa.eu/en/search?f%5B0%5D=ema_search_topics%3A61)
 
-**This page was last updated on** 26/08/2025
+**This page was last updated on** 29/01/2026
 
 ## Share this page
 

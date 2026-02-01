@@ -1,20 +1,20 @@
 ---
-document_datetime: 2025-10-09 15:29:27
+document_datetime: 2026-01-27 16:22:03
 document_pages: 61
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/emgality-epar-product-information_en.pdf
 document_name: emgality-epar-product-information_en.pdf
 version: success
-processing_time: 22.9055783
-conversion_datetime: 2025-12-14 16:25:27.975829
+processing_time: 23.6412459
+conversion_datetime: 2026-02-01 20:51:22.390771
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.64.1
-  docling-core: 2.55.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.11.0
+  docling-jobkit: 1.9.1
+  docling: 2.71.0
+  docling-core: 2.62.0
+  docling-ibm-models: 3.11.0
+  docling-parse: 4.7.3
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.1-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
 ---
 ## ANNEX I
 
@@ -60,7 +60,7 @@ The treatment benefit should be assessed within 3 months after initiation of tre
 
 ## Elderly ( ≥ 65 years)
 
-There is limited information in subjects aged ≥ 65 years. No dose adjustment is required as the pharmacokinetics of galcanezumab are not affected by age.
+There is limited information in subjects aged ≥ 65 years . No dose adjustment is required as the pharmacokinetics of galcanezumab are not affected by age.
 
 ## Renal impairment/hepatic impairment
 
@@ -134,7 +134,7 @@ Galcanezumab may have a minor influence on the ability to drive and use machines
 
 Over  2 500 patients  were  exposed  to  galcanezumab  in  migraine  prophylaxis  studies  supporting  the initial  registration  of  galcanezumab.  Over  1 400 patients  were  exposed  to  galcanezumab  during  the double-blind treatment phase of the placebo-controlled phase 3 studies. 279  patients were exposed for 12 months.
 
-The reported adverse drug reactions for 120 mg and 240 mg in the migraine clinical trials were injection site pain (10.1 %/11.6 %),  injection site reactions (9.9 %/14.5 %), vertigo (0.7 %/1.2 %), constipation (1.0 %/1.5 %), pruritus (0.7 %/1.2 %) and urticaria (0.3 %/0.1 %). Most of the reactions were mild or moderate in severity. Less than 2.5 % of patients in these studies discontinued due to adverse reactions.
+The reported adverse drug reactions for 120 mg and 240 mg in the migraine clinical trials were injection site pain (10.1 %/11.6 %),  injection site reactions (9.9 %/14.5 %), vertigo (0.7 %/1.2 %), constipation (1.0 %/1.5 %), pruritus (0.7 %/1.2 %) and urticaria (0.3 %/0.1 %). Most of the reactions were mild or moderate in severity. Less than 2. 5 % of patients in these studies discontinued due to adverse reactions.
 
 <div style=\"page-break-after: always\"></div>
 
@@ -151,8 +151,6 @@ Frequency estimate: Very common (≥ 1/10), common (≥ 1/100 to &lt; 1/10), unc
 | Gastrointestinal disorders                           |                                                | Constipation  |            |                        |
 | Skin and subcutaneous tissue disorders               |                                                | Pruritus Rash | Urticaria  |                        |
 | General disorders and administration site conditions | Injection site pain Injection site reactions a |               |            |                        |
-
-a Most frequently reported terms ( ≥ 1 %) were: Injection site reaction, Injection site erythema, Injection site pruritus, Injection site bruising, Injection site swelling.
 
 ## Description of selected adverse reactions
 
@@ -231,9 +229,9 @@ Table 2. Efficacy and patient reported outcome measures
 | Efficacy Outcomes a               |                                   |                                |                                |                                |                                |                                |
 | MHD                               |                                   |                                |                                |                                |                                |                                |
 | Baseline                          | 9.21                              | 9.14                           | 9.08                           | 9.07                           | 9.06                           | 9.19                           |
-| Mean Change                       | -4.73                             | -4.57                          | -2.81                          | -4.29                          | -4.18                          | -2.28                          |
+| Mean Change                       | -4.73                             | - 4.57                         | -2.81                          | -4.29                          | -4.18                          | -2.28                          |
 | Treatment Difference              | -1.92                             | -1.76                          |                                | -2.02                          | -1.90                          |                                |
-| CI 95%                            | (-2.48, -1.37)                    | (-2.31, -1.20)                 |                                | (-2.55, -1.48)                 | (-2.44, -1.36)                 |                                |
+| CI 95 %                           | (-2.48, -1.37)                    | (-2.31, -1.20)                 |                                | (- 2.55, -1.48)                | (-2.44, -1.36)                 |                                |
 | P-value                           | < .001 d                          | < .001 d                       |                                | < .001 d                       | < .001 d                       |                                |
 | ≥ 50 %MHDResponders               |                                   |                                |                                |                                |                                |                                |
 | Percentage,%                      | 62.3                              | 60.9                           | 38.6                           | 59.3                           | 56.5                           | 36.0                           |
@@ -247,17 +245,18 @@ Table 2. Efficacy and patient reported outcome measures
 | MHDwith Acute                     |                                   |                                |                                |                                |                                |                                |
 | Medication Use                    |                                   |                                |                                |                                |                                |                                |
 | Baseline                          | 7.42                              | 7.34                           | 7.38                           | 7.47                           | 7.47                           | 7.62                           |
-| Mean Change                       | -3.96                             | -3.76                          | -2.15                          | -3.67                          | -3.63                          | -1.85                          |
+| Mean Change                       | -3.96                             | -3.76                          | - 2.15                         | -3.67                          | -3.63                          | - 1.85                         |
 | Treatment Difference              | -1.81                             | -1.61                          |                                | -1.82                          | -1.78                          |                                |
-| CI 95%                            | (-2.28, -1.33)                    | (-2.09, -1.14)                 |                                | (-2.29, -1.36)                 | (-2.25, -1.31)                 |                                |
+| CI 95 %                           | (-2.28, -1.33)                    | (-2.09, -1.14)                 |                                | (-2.29, -1.36)                 | (- 2.25, -1.31)                |                                |
 | P-value                           | < .001 d                          | < .001 d                       |                                | < .001 d                       | < .001 d                       |                                |
 | Patient-reported Outcome Measures | Patient-reported Outcome Measures |                                |                                |                                |                                |                                |
 | MSQ Role Function-                |                                   |                                |                                |                                |                                |                                |
+| Restrictive Domain b              |                                   |                                |                                |                                |                                |                                |
 | N                                 | 189                               | 184                            | 377                            | 213                            | 210                            | 396                            |
 | Baseline                          | 51.39                             | 48.76                          | 52.92                          | 52.47                          | 51.71                          | 51.35                          |
 | Mean Change                       | 32.43                             | 32.09                          | 24.69                          | 28.47                          | 27.04                          | 19.65                          |
 | Treatment Difference              | 7.74                              | 7.40                           |                                | 8.82                           | 7.39                           |                                |
-| CI 95%                            | (5.20, 10.28)                     | (4.83, 9.97)                   |                                | (6.33, 11.31)                  | (4.88, 9.90)                   |                                |
+| CI 95 %                           | (5.20, 10.28)                     | (4.83, 9.97)                   |                                | (6.33, 11.31)                  | (4.88, 9.90)                   |                                |
 | P-value                           | < .001 d                          | < .001 d                       |                                | < .001 d                       | < .001 d                       |                                |
 | MSQ Role Function                 |                                   |                                |                                |                                |                                |                                |
 | Restrictive Domain Responders c   |                                   |                                |                                |                                |                                |                                |
@@ -268,17 +267,17 @@ Table 2. Efficacy and patient reported outcome measures
 | N                                 | 177                               | 170                            | 345                            | 202                            | 194                            | 374                            |
 | Baseline                          | 32.93                             | 36.09                          | 31.84                          | 30.87                          | 32.75                          | 34.25                          |
 | Mean Change                       | -21.16                            | -20.06                         | -14.87                         | -21.17                         | -20.24                         | -12.02                         |
-| Treatment Difference              | -6.29                             | -5.19                          |                                | -9.15                          | -8.22                          |                                |
-| CI 95%                            | (-9.45, -3.13)                    | (-8.39, -1.98)                 |                                | (-12.61, -5.69)                | (-11.71, -4.72)                |                                |
+| Treatment Difference              | -6.29                             | - 5.19                         |                                | - 9.15                         | -8.22                          |                                |
+| CI 95%                            | (- 9.45, -3.13)                   | (-8.39, -1.98)                 |                                | (-12.61, - 5.69)               | (-11.71, -4.72)                |                                |
 | P-value                           | < .001 f                          | .002 f                         |                                | < .001 f                       | < .001 f                       |                                |
 
-N = number of patients; CI95 % = 95 % confidence interval.
+N = number of patients; CI 95 % = 95 % confidence interval.
 
 a Efficacy outcomes were evaluated across Months 1-6.
 
 b Evaluated across Months 4-6.
 
-c D efined as those with an improvement of ≥ 25 points for Episodic Migraine at Months 4-6 average.
+c Defined as those with an improvement of ≥ 25 points for Episodic Migraine at Months 4 -6 average.
 
 <div style=\"page-break-after: always\"></div>
 
@@ -291,7 +290,7 @@ In pooled data from studies EVOLVE-1 and EVOLVE-2, in patients who failed one or
 
 ## Chronic migraine
 
-Study REGAIN had a 3 month, double-blind, placebo-controlled treatment period followed by a 9 month open-label extension. Approximately 15 % of the patients continued concurrent treatment with topiramate or propranolol as allowed by the protocol for prophylaxis of migraine. Completion rate of the double-blind treatment phase for patients who received galcanezumab was 95.3 %.
+Study REGAIN had a 3 month, double-blind, placebo-controlled treatment period followed by a 9 month open-label extension. A pproximately 15 % of the patients continued concurrent treatment with topiramate or propranolol as allowed by the protocol for prophylaxis of migraine. Completion rate of the doubleblind treatment phase for patients who received galcanezumab was 95.3 %.
 
 Both galcanezumab 120 mg and 240 mg treatment groups demonstrated statistically significant and clinically meaningful improvements from baseline compared to placebo on mean change in MHD (see Table 3). Patients treated with galcanezumab had greater response rates and greater reductions in the number of monthly MHDs that acute medication was taken compared with placebo-treated patients. Galcanezumab-treated patients had a greater improvement in functioning (as measured by the MSQ Role Function-Restrictive domain score) compared with placebo-treated patients, beginning at month 1. More patients treated with galcanezumab achieved clinically significant levels of improvement in functioning (responder rate based on MSQ Role Function Restrictive domain) compared with those treated with placebo. The 120 mg dose was associated with a statistically significant reduction in disability over placebo.
 
@@ -318,7 +317,7 @@ Table 3. Efficacy and patient reported outcome measures
 | Baseline                             | 19.36                       | 19.17                       | 19.55                       |
 | Mean Change                          | -4.83                       | -4.62                       | -2.74                       |
 | Treatment Difference                 | -2.09                       | -1.88                       |                             |
-| CI 95%                               | (-2.92, -1.26)              | (-2.71, -1.05)              |                             |
+| CI 95 %                              | (-2.92, -1.26)              | (-2.71, - 1.05)             |                             |
 | P-value                              | < .001 c                    | < .001 c                    |                             |
 | ≥ 50 %MHDResponders                  |                             |                             |                             |
 | Percentage,%                         | 27.6                        | 27.5                        | 15.4                        |
@@ -331,9 +330,9 @@ Table 3. Efficacy and patient reported outcome measures
 | P-value                              | > .05 d                     | > .05 d                     |                             |
 | MHDwith Acute Medication Use         |                             |                             |                             |
 | Baseline                             | 15.12                       | 14.49                       | 15.51                       |
-| Mean Change                          | -4.74                       | -4.25                       | -2.23                       |
-| Treatment Difference                 | -2.51                       | -2.01                       |                             |
-| CI 95%                               | (-3.27, -1.76)              | (-2.77, -1.26)              |                             |
+| Mean Change                          | -4.74                       | - 4.25                      | -2.23                       |
+| Treatment Difference                 | - 2.51                      | -2.01                       |                             |
+| CI 95 %                              | (-3.27, -1.76)              | (-2.77, -1.26)              |                             |
 | P-value                              | < .001 d                    | < .001 c                    |                             |
 | Patient-reported Outcome Measures b  |                             |                             |                             |
 | MSQ Role Function-Restrictive Domain |                             |                             |                             |
@@ -341,7 +340,7 @@ Table 3. Efficacy and patient reported outcome measures
 | Baseline                             | 39.29                       | 38.93                       | 38.37                       |
 | Mean Change                          | 21.81                       | 23.05                       | 16.76                       |
 | Treatment Difference                 | 5.06                        | 6.29                        |                             |
-| CI 95%                               | (2.12, 7.99)                | (3.03, 9.55)                |                             |
+| CI 95 %                              | (2.12, 7.99)                | (3.03, 9.55)                |                             |
 | P-value                              | < .001 d                    | < .001 c                    |                             |
 | MSQ Role Function Restrictive Domain |                             |                             |                             |
 | N                                    | 252                         | 253                         | 494                         |
@@ -350,12 +349,12 @@ Table 3. Efficacy and patient reported outcome measures
 | MIDAS Total Score                    |                             |                             |                             |
 | N                                    | 254                         | 258                         | 504                         |
 | Baseline                             | 62.46                       | 69.17                       | 68.66                       |
-| Mean Change                          | -20.27                      | -17.02                      | -11.53                      |
-| Treatment Difference                 | -8.74                       | -5.49                       |                             |
-| CI 95%                               | (-16.39, -1.08)             | (-13.10, 2.12)              |                             |
+| Mean Change                          | -20.27                      | -17.02                      | - 11.53                     |
+| Treatment Difference                 | -8.74                       | - 5.49                      |                             |
+| CI 95 %                              | (-16.39, -1.08)             | (-13.10, 2.12)              |                             |
 | P-value                              | .025 e                      | > .05 e                     |                             |
 
-N = number of patients; CI95 % = 95 % confidence interval.
+N = number of patients; CI 95 % = 95 % confidence interval.
 
 a Efficacy outcomes were evaluated across Months 1-3.
 
@@ -369,9 +368,9 @@ e Not adjusted for multiple comparisons.
 
 <div style=\"page-break-after: always\"></div>
 
-In patients who failed one or more prophylactic treatments for efficacy reasons, the treatment difference for the reduction of mean monthly MHDs observed between galcanezumab 120 mg and placebo was -3.54 days (p &lt; 0.001) and between galcanezumab 240 mg and placebo -1.37 days (p &lt; 0.05). In patients failing two or more prophylactic treatments, the treatment difference was -4.48 days (p &lt; 0.001) between 120 mg and placebo and -1.86 days (p &lt; 0.01) between 240 mg and placebo.
+In patients who failed one or more prophylactic treatments for efficacy reasons, the treatment difference for the reduction of mean monthly MHDs observed between galcanezumab 120 mg and placebo was 3.54 days (p &lt; 0.001) and between galcanezumab 240 mg and placebo -1.37 days (p &lt; 0.05). In patients failing two or more prophylactic treatments, the treatment difference was -4.48 days (p &lt; 0.001) between 120 mg and placebo and -1.86 days (p &lt; 0.01) between 240 mg and placebo.
 
-Sixty-four percent of the patients had acute headache medication overuse at baseline. In these patients, the treatment difference observed between galcanezumab 120 mg and placebo and between galcanezumab 240 mg and placebo for the reduction of MHDs in these patients was respectively -2.53 days (p &lt; 0.001) and -2.26 days (p &lt; 0.001).
+Sixty-four percent of the patients had acute headache medication overuse at baseline. In these patients, the treatment difference observed between galcanezumab 120 mg and placebo and between galcanezumab 240 mg and placebo for the reduction of MHDs in these patients was respectively 2.53 days (p &lt; 0.001) and -2.26 days (p &lt; 0.001).
 
 ## Long term efficacy
 
@@ -413,11 +412,11 @@ Based on a population PK analysis, the apparent clearance of galcanezumab was ap
 
 Galcanezumab exposure increases proportionally with dose.
 
-Based on a population PK analysis that included doses ranging from 5 - 300 mg, the rate of absorption, apparent clearance and apparent volume of distribution was independent of dose.
+Based on a population PK analysis tha t included doses ranging from 5 - 300 mg, the rate of absorption, apparent clearance and apparent volume of distribution was independent of dose.
 
 ## Age, sex, weight, race, ethnicity
 
-No dose adjustment is needed on the basis of age (18 to 65 years), sex, weight, race or ethnicity as there was no clinically meaningful effect of these factors on the apparent clearance or apparent volume of distribution of galcanezumab.
+No dose adjustment is needed on the basis of age ( 18 to 65 years), sex, weight, race or ethnicity as there was no clinically meaningful effect of these factors on the apparent clearance or apparent volume of distribution of galcanezumab.
 
 ## Renal or hepatic impairment
 
@@ -479,9 +478,11 @@ Do not shake.
 
 Any unused medicinal product or waste material should be disposed of in accordance with local requirements.
 
-## 7. MARKETING AUTHORISATION HOLDER
+7.
 
-Eli Lilly Nederland B.V., Papendorpseweg 83, 3528BJ Utrecht, The Netherlands
+MARKETING AUTHORISATION HOLDER
+
+Eli Lilly Nederland B.V., Orteliuslaan 1000, 3528 BD Utrecht, The Netherlands
 
 ## 8. MARKETING AUTHORISATION NUMBER(S)
 
@@ -493,7 +494,7 @@ EU/1/18/1330/005
 
 ## 9. DATE OF FIRST AUTHORISATION/RENEWAL OF THE AUTHORISATION
 
-Date of first authorisation:  14 November 2018
+Date of first authorisation: 14 November 2018
 
 Date of latest renewal: 01 September 2023
 
@@ -617,7 +618,7 @@ Galcanezumab may have a minor influence on the ability to drive and use machines
 
 Over  2 500 patients  were  exposed  to  galcanezumab  in  migraine  prophylaxis  studies  supporting  the initial  registration  of  galcanezumab.  Over  1 400 patients  were  exposed  to  galcanezumab  during  the double-blind treatment phase of the placebo-controlled phase 3 studies. 279  patients were exposed for 12 months.
 
-The reported adverse drug reactions for 120 mg and 240 mg in the migraine clinical trials were injection site pain (10.1 %/11.6 %),  injection site reactions (9.9 %/14.5 %), vertigo (0.7 %/1.2 %), constipation (1.0 %/1.5 %), pruritus (0.7 %/1.2 %) and urticaria (0.3 %/0.1 %). Most of the reactions were mild or moderate in severity. Less than 2.5 % of patients in these studies discontinued due to adverse reactions.
+The reported adverse drug reactions for 120 mg and 240 mg in the migraine clinical trials were injection site pain (10.1 %/11.6 %),  injection site reactions (9.9 %/14.5 %), vertigo (0.7 %/1.2 %), constipation (1.0 %/1.5 %), pruritus (0.7 %/1.2 %) and urticaria (0.3 %/0.1 %). Most of the reactions were mild or moderate in severity. Less than 2. 5 % of patients in these studies discontinued due to adverse reactions.
 
 <div style=\"page-break-after: always\"></div>
 
@@ -625,7 +626,7 @@ The reported adverse drug reactions for 120 mg and 240 mg in the migraine clinic
 
 ## Table 1. List of adverse reactions in clinical studies and post-marketing reports
 
-Frequency estimate: Very common (≥ 1/10), common (≥ 1/100 to &lt; 1/10), uncommon (≥ 1/1 000 to &lt; 1/100), rare (≥ 1/10 000 to &lt; 1/1 000).
+Frequency estimate: Very common (≥ 1/10), common (≥ 1/100 to &lt; 1/10), uncommon (≥ 1/1 000 to &lt; 1/100) , rare (≥ 1/10 000 to &lt; 1/1 000).
 
 | System organ class                                   | Very common                                    | Common        | Uncommon   | Rare                   |
 |------------------------------------------------------|------------------------------------------------|---------------|------------|------------------------|
@@ -634,8 +635,6 @@ Frequency estimate: Very common (≥ 1/10), common (≥ 1/100 to &lt; 1/10), unc
 | Gastrointestinal disorders                           |                                                | Constipation  |            |                        |
 | Skin and subcutaneous tissue disorders               |                                                | Pruritus Rash | Urticaria  |                        |
 | General disorders and administration site conditions | Injection site pain Injection site reactions a |               |            |                        |
-
-a Most frequently reported terms ( ≥ 1 %) were: Injection site reaction, Injection site erythema, Injection site pruritus, Injection site bruising, Injection site swelling.
 
 ## Description of selected adverse reactions
 
@@ -677,7 +676,7 @@ The efficacy and safety of galcanezumab has been studied in 3 phase 3, randomize
 
 Patients received placebo, galcanezumab 120 mg/month (with an initial loading dose of 240 mg for the first month) or galcanezumab 240 mg/month and were allowed to use medication for the acute treatment of migraine. Across the 3 studies, patients were predominantly female (&gt; 83 %) with a mean age of 41 years, and an average migraine history of 20 to 21 years. Approximately one-third of patients across the studies had at least 1 prior failure on a migraine prophylactic treatment for efficacy reasons and approximately 16 % of patients across the studies had at least 2 prior failure on a prophylactic treatment for efficacy reasons.
 
-In all 3 studies, the overall mean change from baseline in number of monthly Migraine Headache Days (MHDs) was the primary efficacy measure. Response rate is the mean percentage of patients meeting a defined threshold in the reduction of the number of monthly MHDs (≥ 50 %, ≥ 75 % and 100 %) across the double-blind treatment period. The impact of migraine on functioning was assessed by the Role Function-Restrictive domain of the Migraine-Specific Quality of Life Questionnaire (MSQ) version 2.1, and by the Migraine Disability Assessment (MIDAS) Questionnaire. The MSQ measures impact of migraine on work or daily activities, relationships with family and friends, leisure time, productivity, concentration, energy, and tiredness. Scoring ranges from 0 to 100, with higher scores indicating less impairment , that is, patients experience fewer restrictions on the performance of day-to-day activities. For the MIDAS, higher scores indicate more disability. The baseline scores of the MIDAS reflected severe migraine related disability of patients in EVOLVE-1 and EVOLVE-2 (mean of 33.1) and a very severely disabled population (mean of 67.2) in REGAIN.
+In all 3 studies, the overall mean change from baseline in number of monthly Migraine Headache Days (MHDs) was the primary efficacy measure. Response rate is the mean percentage of patients meeting a defined threshold in the reduction of the number of mont hly MHDs (≥ 50 %, ≥ 75 % and 100 %) across the double-blind treatment period. The impact of migraine on functioning was assessed by the Role Function-Restrictive domain of the Migraine-Specific Quality of Life Questionnaire (MSQ) version 2.1, and by the Migraine Disability Assessment (MIDAS) Questionnaire. The MSQ measures impact of migraine on work or daily activities, relationships with family and friends, leisure time, productivity, concentration, energy, and tiredness. Scoring ranges from 0 to 100, with higher scores indicating less impairment , that is, patients experience fewer restrictions on the performance of day-to-day activities. For the MIDAS, higher scores indicate more disability. The baseline scores of the MIDAS reflected severe migraine related disability of patients in EVOLVE-1 and EVOLVE-2 (mean of 33.1) and a very severely disabled population (mean of 67.2) in REGAIN.
 
 <div style=\"page-break-after: always\"></div>
 
@@ -714,9 +713,9 @@ Table 2. Efficacy and patient reported outcome measures
 | Efficacy Outcomes a               |                                   |                                |                                |                                |                                |                                |
 | MHD                               |                                   |                                |                                |                                |                                |                                |
 | Baseline                          | 9.21                              | 9.14                           | 9.08                           | 9.07                           | 9.06                           | 9.19                           |
-| Mean Change                       | -4.73                             | -4.57                          | -2.81                          | -4.29                          | -4.18                          | -2.28                          |
+| Mean Change                       | -4.73                             | - 4.57                         | -2.81                          | -4.29                          | -4.18                          | -2.28                          |
 | Treatment Difference              | -1.92                             | -1.76                          |                                | -2.02                          | -1.90                          |                                |
-| CI 95%                            | (-2.48, -1.37)                    | (-2.31, -1.20)                 |                                | (-2.55, -1.48)                 | (-2.44, -1.36)                 |                                |
+| CI 95 %                           | (-2.48, -1.37)                    | (-2.31, -1.20)                 |                                | (- 2.55, -1.48)                | (-2.44, -1.36)                 |                                |
 | P-value                           | < .001 d                          | < .001 d                       |                                | < .001 d                       | < .001 d                       |                                |
 | ≥ 50 %MHDResponders               |                                   |                                |                                |                                |                                |                                |
 | Percentage,%                      | 62.3                              | 60.9                           | 38.6                           | 59.3                           | 56.5                           | 36.0                           |
@@ -730,17 +729,18 @@ Table 2. Efficacy and patient reported outcome measures
 | MHDwith Acute                     |                                   |                                |                                |                                |                                |                                |
 | Medication Use                    |                                   |                                |                                |                                |                                |                                |
 | Baseline                          | 7.42                              | 7.34                           | 7.38                           | 7.47                           | 7.47                           | 7.62                           |
-| Mean Change                       | -3.96                             | -3.76                          | -2.15                          | -3.67                          | -3.63                          | -1.85                          |
+| Mean Change                       | -3.96                             | -3.76                          | - 2.15                         | -3.67                          | -3.63                          | - 1.85                         |
 | Treatment Difference              | -1.81                             | -1.61                          |                                | -1.82                          | -1.78                          |                                |
-| CI 95%                            | (-2.28, -1.33)                    | (-2.09, -1.14)                 |                                | (-2.29, -1.36)                 | (-2.25, -1.31)                 |                                |
+| CI 95 %                           | (-2.28, -1.33)                    | (-2.09, -1.14)                 |                                | (-2.29, -1.36)                 | (- 2.25, -1.31)                |                                |
 | P-value                           | < .001 d                          | < .001 d                       |                                | < .001 d                       | < .001 d                       |                                |
 | Patient-reported Outcome Measures | Patient-reported Outcome Measures |                                |                                |                                |                                |                                |
 | MSQ Role Function-                |                                   |                                |                                |                                |                                |                                |
+| Restrictive Domain b              |                                   |                                |                                |                                |                                |                                |
 | N                                 | 189                               | 184                            | 377                            | 213                            | 210                            | 396                            |
 | Baseline                          | 51.39                             | 48.76                          | 52.92                          | 52.47                          | 51.71                          | 51.35                          |
 | Mean Change                       | 32.43                             | 32.09                          | 24.69                          | 28.47                          | 27.04                          | 19.65                          |
 | Treatment Difference              | 7.74                              | 7.40                           |                                | 8.82                           | 7.39                           |                                |
-| CI 95%                            | (5.20, 10.28)                     | (4.83, 9.97)                   |                                | (6.33, 11.31)                  | (4.88, 9.90)                   |                                |
+| CI 95 %                           | (5.20, 10.28)                     | (4.83, 9.97)                   |                                | (6.33, 11.31)                  | (4.88, 9.90)                   |                                |
 | P-value                           | < .001 d                          | < .001 d                       |                                | < .001 d                       | < .001 d                       |                                |
 | MSQ Role Function                 |                                   |                                |                                |                                |                                |                                |
 | Restrictive Domain Responders c   |                                   |                                |                                |                                |                                |                                |
@@ -751,17 +751,17 @@ Table 2. Efficacy and patient reported outcome measures
 | N                                 | 177                               | 170                            | 345                            | 202                            | 194                            | 374                            |
 | Baseline                          | 32.93                             | 36.09                          | 31.84                          | 30.87                          | 32.75                          | 34.25                          |
 | Mean Change                       | -21.16                            | -20.06                         | -14.87                         | -21.17                         | -20.24                         | -12.02                         |
-| Treatment Difference              | -6.29                             | -5.19                          |                                | -9.15                          | -8.22                          |                                |
-| CI 95%                            | (-9.45, -3.13)                    | (-8.39, -1.98)                 |                                | (-12.61, -5.69)                | (-11.71, -4.72)                |                                |
+| Treatment Difference              | -6.29                             | - 5.19                         |                                | - 9.15                         | -8.22                          |                                |
+| CI 95%                            | (- 9.45, -3.13)                   | (-8.39, -1.98)                 |                                | (-12.61, - 5.69)               | (-11.71, -4.72)                |                                |
 | P-value                           | < .001 f                          | .002 f                         |                                | < .001 f                       | < .001 f                       |                                |
 
-N = number of patients; CI95 % = 95 % confidence interval.
+N = number of patients; CI 95 % = 95 % confidence interval.
 
 a Efficacy outcomes were evaluated across Months 1-6.
 
 b Evaluated across Months 4-6.
 
-c D efined as those with an improvement of ≥ 25 points for Episodic Migraine at Months 4-6 average.
+c Defined as those with an improvement of ≥ 25 points for Episodic Migraine at Months 4 -6 average.
 
 <div style=\"page-break-after: always\"></div>
 
@@ -775,7 +775,7 @@ In pooled data from studies EVOLVE-1 and EVOLVE-2, in patients who failed one or
 
 ## Chronic migraine
 
-Study REGAIN had a 3 month, double-blind, placebo-controlled treatment period followed by a 9 month open-label extension. Approximately 15 % of the patients continued concurrent treatment with topiramate or propranolol as allowed by the protocol for prophylaxis of migraine. Completion rate of the double-blind treatment phase for patients who received galcanezumab was 95.3 %.
+Study REGAIN had a 3 month, double-blind, placebo-controlled treatment period followed by a 9 month openlabel extension. Approximately 15 % of the patients continued concurrent treatment with topiramate or propranolol as allowed by the protocol for prophylaxis of migraine. Completion rate of the doubleblind treatment phase for patients who received galcanezumab was 95.3 %.
 
 Both galcanezumab 120 mg and 240 mg treatment groups demonstrated statistically significant and clinically meaningful improvements from baseline compared to placebo on mean change in MHD (see Table 3). Patients treated with galcanezumab had greater response rates and greater reductions in the number of monthly MHDs that acute medication was taken compared with placebo-treated patients. Galcanezumab-treated patients had a greater improvement in functioning (as measured by the MSQ Role Function-Restrictive domain score) compared with placebo-treated patients, beginning at month 1. More patients treated with galcanezumab achieved clinically significant levels of improvement in functioning (responder rate based on MSQ Role Function Restrictive domain) compared with those treated with placebo. The 120 mg dose was associated with a statistically significant reduction in disability over placebo.
 
@@ -802,7 +802,7 @@ Table 3. Efficacy and patient reported outcome measures
 | Baseline                             | 19.36                       | 19.17                       | 19.55                       |
 | Mean Change                          | -4.83                       | -4.62                       | -2.74                       |
 | Treatment Difference                 | -2.09                       | -1.88                       |                             |
-| CI 95%                               | (-2.92, -1.26)              | (-2.71, -1.05)              |                             |
+| CI 95 %                              | (-2.92, -1.26)              | (-2.71, - 1.05)             |                             |
 | P-value                              | < .001 c                    | < .001 c                    |                             |
 | ≥ 50 %MHDResponders                  |                             |                             |                             |
 | Percentage,%                         | 27.6                        | 27.5                        | 15.4                        |
@@ -815,9 +815,9 @@ Table 3. Efficacy and patient reported outcome measures
 | P-value                              | > .05 d                     | > .05 d                     |                             |
 | MHDwith Acute Medication Use         |                             |                             |                             |
 | Baseline                             | 15.12                       | 14.49                       | 15.51                       |
-| Mean Change                          | -4.74                       | -4.25                       | -2.23                       |
-| Treatment Difference                 | -2.51                       | -2.01                       |                             |
-| CI 95%                               | (-3.27, -1.76)              | (-2.77, -1.26)              |                             |
+| Mean Change                          | -4.74                       | - 4.25                      | -2.23                       |
+| Treatment Difference                 | - 2.51                      | -2.01                       |                             |
+| CI 95 %                              | (-3.27, -1.76)              | (-2.77, -1.26)              |                             |
 | P-value                              | < .001 d                    | < .001 c                    |                             |
 | Patient-reported Outcome Measures b  |                             |                             |                             |
 | MSQ Role Function-Restrictive Domain |                             |                             |                             |
@@ -825,7 +825,7 @@ Table 3. Efficacy and patient reported outcome measures
 | Baseline                             | 39.29                       | 38.93                       | 38.37                       |
 | Mean Change                          | 21.81                       | 23.05                       | 16.76                       |
 | Treatment Difference                 | 5.06                        | 6.29                        |                             |
-| CI 95%                               | (2.12, 7.99)                | (3.03, 9.55)                |                             |
+| CI 95 %                              | (2.12, 7.99)                | (3.03, 9.55)                |                             |
 | P-value                              | < .001 d                    | < .001 c                    |                             |
 | MSQ Role Function Restrictive Domain |                             |                             |                             |
 | N                                    | 252                         | 253                         | 494                         |
@@ -834,12 +834,12 @@ Table 3. Efficacy and patient reported outcome measures
 | MIDAS Total Score                    |                             |                             |                             |
 | N                                    | 254                         | 258                         | 504                         |
 | Baseline                             | 62.46                       | 69.17                       | 68.66                       |
-| Mean Change                          | -20.27                      | -17.02                      | -11.53                      |
-| Treatment Difference                 | -8.74                       | -5.49                       |                             |
-| CI 95%                               | (-16.39, -1.08)             | (-13.10, 2.12)              |                             |
+| Mean Change                          | -20.27                      | -17.02                      | - 11.53                     |
+| Treatment Difference                 | -8.74                       | - 5.49                      |                             |
+| CI 95 %                              | (-16.39, -1.08)             | (-13.10, 2.12)              |                             |
 | P-value                              | .025 e                      | > .05 e                     |                             |
 
-N = number of patients; CI95 % = 95 % confidence interval.
+N = number of patients; CI 95 % = 95 % confidence interval.
 
 a Efficacy outcomes were evaluated across Months 1-3.
 
@@ -853,9 +853,9 @@ e Not adjusted for multiple comparisons.
 
 <div style=\"page-break-after: always\"></div>
 
-In patients who failed one or more prophylactic treatments for efficacy reasons, the treatment difference for the reduction of mean monthly MHDs observed between galcanezumab 120 mg and placebo was -3.54 days (p &lt; 0.001) and between galcanezumab 240 mg and placebo -1.37 days (p &lt; 0.05). In patients failing two or more prophylactic treatments, the treatment difference was -4.48 days (p &lt; 0.001) between 120 mg and placebo and -1.86 days (p &lt; 0.01) between 240 mg and placebo.
+In patients who failed one or more prophylactic treatments for efficacy reasons, the treatment difference for the reduction of mean monthly MHDs observed between galcanezumab 120 mg and placebo was 3.54 days (p &lt; 0.001) and between galcanezumab 240 mg and placebo -1.37 days (p &lt; 0.05). In patients failing two or more prophylactic treatments, the treatment difference was -4.48 days (p &lt; 0.001) between 120 mg and placebo and -1.86 days (p &lt; 0.01) between 240 mg and placebo.
 
-Sixty-four percent of the patients had acute headache medication overuse at baseline. In these patients, the treatment difference observed between galcanezumab 120 mg and placebo and between galcanezumab 240 mg and placebo for the reduction of MHDs in these patients was respectively -2.53 days (p &lt; 0.001) and -2.26 days (p &lt; 0.001).
+Sixty-four percent of the patients had acute headache medication overuse at baseline. In these patients, the treatment difference observed between galcanezumab 120 mg and placebo and between galcanezumab 240 mg and placebo for the reduction of MHDs in these patients was respectively 2.53 days (p &lt; 0.001) and -2.26 days (p &lt; 0.001).
 
 ## Long term efficacy
 
@@ -967,7 +967,7 @@ Any unused medicinal product or waste material should be disposed of in accordan
 
 MARKETING AUTHORISATION HOLDER
 
-Eli Lilly Nederland B.V., Papendorpseweg 83, 3528BJ Utrecht, The Netherlands
+Eli Lilly Nederland B.V., Orteliuslaan 1000, 3528 BD Utrecht, The Netherlands
 
 8.
 
@@ -1121,7 +1121,7 @@ Emgality may be stored unrefrigerated for a single period up to 7 days when stor
 
 Eli Lilly Nederland B.V.
 
-Papendorpseweg 83, 3528 BJ Utrecht
+Orteliuslaan 1000, 3528 BD Utrecht
 
 The Netherlands
 
@@ -1131,7 +1131,7 @@ EU/1/18/1330/001 (1 pre-filled pen)
 
 EU/1/18/1330/002 (3 pre-filled pens)
 
-EU/1/18/1330/005 (2 pre-filled pens)
+EU/1/18/1330/005 (2 pre -filled pens)
 
 ## 13. BATCH NUMBER
 
@@ -1247,7 +1247,7 @@ Emgality may be stored unrefrigerated for a single period up to 7 days when stor
 
 Eli Lilly Nederland B.V.
 
-Papendorpseweg 83, 3528 BJ Utrecht
+Orteliuslaan 1000, 3528 BD Utrecht
 
 The Netherlands
 
@@ -1499,7 +1499,7 @@ Not all pack sizes may be marketed.
 
 ## Marketing Authorisation Holder
 
-Eli Lilly Nederland B. V., Papendorpseweg 83, 3528 BJ Utrecht, The Netherlands.
+Eli Lilly Nederland B. V., Orteliuslaan 1000, 3528 BD Utrecht, The Netherlands.
 
 ## Manufacturer:
 
@@ -1513,7 +1513,9 @@ For any information about this medicine, please contact the local representative
 
 Eli Lilly Benelux S.A./N.V.
 
-Tél/Tel: + 32-(0)2 548 84 84
+Tél/Tel: + 32-
+
+(0)2 548 84 84
 
 ## Lietuva
 
@@ -1523,13 +1525,15 @@ Tel. +370 (5) 2649600
 
 ## България
 
-ТП \" Ели Лили Недерланд \" Б . В . - България тел. + 359 2 491 41 40
+ТП \"Ели Лили Недерланд\" Б.В. - България тел. + 359 2 491 41 40
 
 ## Luxembourg/Luxemburg
 
 Eli Lilly Benelux S.A./N.V.
 
-Tél/Tel: + 32-(0)2 548 84 84
+Tél/Tel: + 32-
+
+(0)2 548 84 84
 
 ## Česká republika
 
@@ -1547,7 +1551,9 @@ Tel: + 36 1 328 5100
 
 Eli Lilly Danmark A/S
 
-Tlf.: +45 45 26 60 00
+Tlf.
+
+: +45 45 26 60 00
 
 ## Malta
 
@@ -1573,7 +1579,7 @@ Tel: +372 6 817 280
 
 ## Ελλάδα
 
-ΦΑΡΜΑΣΕΡΒ - ΛΙΛΛΥ Α . Ε . Β . Ε .
+ΦΑΡΜΑΣΕΡΒ - ΛΙΛΛΥ Α.Ε.Β.Ε.
 
 Τηλ: +30 210 629 4600
 
@@ -1587,7 +1593,7 @@ Tel: +34 91 591 12 79
 
 Organon France
 
-Tél: +33-(0) 1 57 77 32 00
+Tél: +33- (0) 1 57 77 32 00
 
 ## Hrvatska
 
@@ -1599,7 +1605,7 @@ Tel: +385 1 2350 999
 
 Eli Lilly and Company (Ireland) Limited
 
-Tel: + 353-(0) 1 661 4377
+Tel: + 353 -(0) 1 661 4377
 
 ## Ísland
 
@@ -1635,7 +1641,7 @@ Detailed information on this medicine is available on the European Medicines Age
 
 Eli Lilly Nederland B.V.
 
-Tel: + 31-(0) 30 60 25 800
+Tel: + 31- (0) 30 60 25 800
 
 ## Norge
 
@@ -1659,7 +1665,7 @@ Tel: +48 22 440 33 00
 
 Lilly Portugal Produtos Farmacêuticos, Lda
 
-Tel: + 351-21-4126600
+Tel: + 351 -21-4126600
 
 ## România
 
@@ -1683,7 +1689,9 @@ Tel: + 421 220 663 111
 
 Oy Eli Lilly Finland Ab
 
-Puh/Tel: + 358-(0) 9 85 45 250
+Puh/Tel: + 358
+
+- (0) 9 85 45 250
 
 ## Sverige
 
@@ -1982,7 +1990,7 @@ Very common side effects (may affect more than 1 in 10 people):
 - -Injection site pain
 - -Injection site reactions (e.g. red skin, itching, bruising, swelling)
 
-## Common side effects (may affect up to 1 in 10 people):
+Common side effects (may affect up to 1 in 10 people):
 
 - -Vertigo (a feeling of dizziness or 'spinning')
 - -Constipation
@@ -2031,7 +2039,7 @@ Not all pack sizes may be marketed.
 
 ## Marketing Authorisation Holder
 
-Eli Lilly Nederland B. V., Papendorpseweg 83, 3528 BJ Utrecht, The Netherlands.
+Eli Lilly Nederland B. V., Orteliuslaan 1000, 3528 BD Utrecht, The Netherlands.
 
 ## Manufacturer:
 
@@ -2043,7 +2051,9 @@ For any information about this medicine, please contact the local representative
 
 Eli Lilly Benelux S.A./N.V.
 
-Tél/Tel: + 32-(0)2 548 84 84
+Tél/Tel: + 32-
+
+(0)2 548 84 84
 
 ## Lietuva
 
@@ -2053,13 +2063,15 @@ Tel. +370 (5) 2649600
 
 ## България
 
-ТП \" Ели Лили Недерланд \" Б . В . - България тел. + 359 2 491 41 40
+ТП \"Ели Лили Недерланд\" Б.В. - България тел. + 359 2 491 41 40
 
 ## Luxembourg/Luxemburg
 
 Eli Lilly Benelux S.A./N.V.
 
-Tél/Tel: + 32-(0)2 548 84 84
+Tél/Tel: + 32-
+
+(0)2 548 84 84
 
 ## Česká republika
 
@@ -2077,7 +2089,9 @@ Tel: + 36 1 328 5100
 
 Eli Lilly Danmark A/S
 
-Tlf.: +45 45 26 60 00
+Tlf.
+
+: +45 45 26 60 00
 
 ## Malta
 
@@ -2103,7 +2117,7 @@ Tel: +372 6 817 280
 
 ## Ελλάδα
 
-ΦΑΡΜΑΣΕΡΒ - ΛΙΛΛΥ Α . Ε . Β . Ε .
+ΦΑΡΜΑΣΕΡΒ - ΛΙΛΛΥ Α.Ε.Β.Ε.
 
 Τηλ: +30 210 629 4600
 
@@ -2117,7 +2131,7 @@ Tel: +34 91 591 12 79
 
 Organon France
 
-Tél: +33-(0) 1 57 77 32 00
+Tél: +33- (0) 1 57 77 32 00
 
 ## Hrvatska
 
@@ -2129,7 +2143,7 @@ Tel: +385 1 2350 999
 
 Eli Lilly and Company (Ireland) Limited
 
-Tel: + 353-(0) 1 661 4377
+Tel: + 353 -(0) 1 661 4377
 
 ## Ísland
 
@@ -2141,7 +2155,9 @@ Sími + 354 540 8000
 
 Eli Lilly Italia S.p.A.
 
-Tel: + 39- 055 42571
+Tel: + 39-
+
+055 42571
 
 ## Κύπρος
 
@@ -2165,7 +2181,7 @@ Detailed information on this medicine is available on the European Medicines Age
 
 Eli Lilly Nederland B.V.
 
-Tel: + 31-(0) 30 60 25 800
+Tel: + 31- (0) 30 60 25 800
 
 ## Norge
 
@@ -2189,7 +2205,7 @@ Tel: +48 22 440 33 00
 
 Lilly Portugal Produtos Farmacêuticos, Lda
 
-Tel: + 351-21-4126600
+Tel: + 351 -21-4126600
 
 ## România
 
@@ -2213,7 +2229,9 @@ Tel: + 421 220 663 111
 
 Oy Eli Lilly Finland Ab
 
-Puh/Tel: + 358-(0) 9 85 45 250
+Puh/Tel: + 358
+
+- (0) 9 85 45 250
 
 ## Sverige
 

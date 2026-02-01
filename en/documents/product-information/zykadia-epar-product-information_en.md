@@ -1,18 +1,18 @@
 ---
-document_datetime: 2025-08-26 14:11:43
-document_pages: 86
+document_datetime: 2026-01-29 14:22:23
+document_pages: 85
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/zykadia-epar-product-information_en.pdf
 document_name: zykadia-epar-product-information_en.pdf
 version: success
-processing_time: 23.2822071
-conversion_datetime: 2025-12-23 05:47:31.754462
+processing_time: 22.2137849
+conversion_datetime: 2026-02-01 20:11:17.234313
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.64.1
-  docling-core: 2.55.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.11.0
+  docling-jobkit: 1.9.1
+  docling: 2.71.0
+  docling-core: 2.62.0
+  docling-ibm-models: 3.11.0
+  docling-parse: 4.7.3
   python: cpython-313 (3.13.11)
   plaform: macOS-26.2-arm64-arm-64bit-Mach-O
 ---
@@ -64,9 +64,11 @@ The maximum recommended dose with food is 450 mg taken orally once daily. Treatm
 
 If a dose is missed, the patient should make up that dose, unless the next dose is due within 12 hours.
 
+If vomiting occurs during the course of treatment, the patient should not take an additional dose, but
+
 <div style=\"page-break-after: always\"></div>
 
-If vomiting occurs during the course of treatment, the patient should not take an additional dose, but should continue with the next scheduled dose.
+should continue with the next scheduled dose.
 
 Ceritinib should be discontinued in patients unable to tolerate 150 mg daily taken with food.
 
@@ -148,9 +150,11 @@ Hypersensitivity to the active substance or to any of the excipients listed in s
 
 Cases of hepatotoxicity occurred in 1.1% of patients receiving ceritinib in clinical studies. Increases to grade 3 or 4 ALT elevations were observed in 25% of patients. The majority of cases were manageable with dose interruption and/or dose reduction. Few events required discontinuation of treatment.
 
+Patients should be monitored with liver laboratory tests (including ALT, AST and total bilirubin) prior to the start of treatment, every 2 weeks during the first three months of treatment and monthly
+
 <div style=\"page-break-after: always\"></div>
 
-Patients should be monitored with liver laboratory tests (including ALT, AST and total bilirubin) prior to the start of treatment, every 2 weeks during the first three months of treatment and monthly thereafter. In patients who develop transaminase elevations, more frequent monitoring of liver transaminases and total bilirubin should be carried out as clinically indicated (see sections 4.2 and 4.8). Particular caution should be exercised when treating patients with severe hepatic impairment, and the dose should be adjusted (see section 4.2). Limited experience in these patients showed a worsening of the underlying condition (hepatic encephalopathy) in 2 out of 10 patients exposed to 750 mg single doses of ceritinib under fasted conditions (see sections 4.2, 4.8 and 5.2). Other factors apart from study treatment could have impacted on observed events of hepatic encephalopathy, however, the relation between study treatment and events cannot be fully ruled out. No dose adjustment is necessary in patients with mild or moderate hepatic impairment (see section 4.2).
+thereafter. In patients who develop transaminase elevations, more frequent monitoring of liver transaminases and total bilirubin should be carried out as clinically indicated (see sections 4.2 and 4.8). Particular caution should be exercised when treating patients with severe hepatic impairment, and the dose should be adjusted (see section 4.2). Limited experience in these patients showed a worsening of the underlying condition (hepatic encephalopathy) in 2 out of 10 patients exposed to 750 mg single doses of ceritinib under fasted conditions (see sections 4.2, 4.8 and 5.2). Other factors apart from study treatment could have impacted on observed events of hepatic encephalopathy, however, the relation between study treatment and events cannot be fully ruled out. No dose adjustment is necessary in patients with mild or moderate hepatic impairment (see section 4.2).
 
 ## Interstitial lung disease/Pneumonitis
 
@@ -162,15 +166,15 @@ Patients should be monitored for pulmonary symptoms indicative of ILD/pneumoniti
 
 QTc prolongation has been observed in clinical studies in patients treated with ceritinib (see sections 4.8 and 5.2), which may lead to an increased risk for ventricular tachyarrhythmias (e.g. torsade de pointes) or sudden death.
 
-Use of ceritinib in patients with congenital long QT syndrome should be avoided. The benefits and potential risks of ceritinib should be considered before beginning therapy in patients who have pre-existing bradycardia (heart rate less than 60 beats per minute [bpm]), patients who have a history of or predisposition for QTc prolongation, patients who are taking anti-arrhythmics or other medicinal products that are known to prolong the QT interval and patients with relevant pre-existing cardiac disease and/or electrolyte disturbances. Periodic monitoring with ECGs and periodic monitoring of electrolytes (e.g. potassium) is recommended in these patients. In the event of vomiting, diarrhoea, dehydration or impaired renal function, correct electrolytes as clinically indicated. Ceritinib should be permanently discontinued in patients who develop QTc &gt;500 msec or &gt;60 msec change from baseline and torsade de pointes or polymorphic ventricular tachycardia or signs/symptoms of serious arrhythmia. Ceritinib should be withheld in patients who develop QTc &gt;500 msec on at least two separate ECGs until recovery to baseline or a QTc ≤480 msec, then reinitiated with dose reduced by 150 mg (see sections 4.2, 4.8 and 5.2).
+Use of ceritinib in patients with congenital long QT syndrome should be avoided. The benefits and potential risks of ceritinib should be considered before beginning therapy in patients who have pre-existing bradycardia (heart rate less than 60 beats per minute [bpm]), patients who have a history of or predisposition for QTc prolongation, patients who are taking anti-arrhythmics or other medicinal products that are known to prolong the QT interval and patients with relevant pre-existing cardiac disease and/or electrolyte disturbances. Periodic monitoring with ECGs and periodic monitoring of electrolytes (e.g. potassium) is recommended in these patients. In the event of vomiting, diarrhoea, dehydration or impaired renal function, correct electrolytes as clinically indicated. Ceritinib should be permanently discontinued in patients who develop QTc &gt;500 msec or &gt;60 msec change from baseline and torsade de pointes or polymorphic ventricular tachycardia or signs/symptoms of serious arrhythmia. Ceritinib should be withheld in patients who develop QTc &gt;500 msec on at least two separate ECGs until recovery to baseline or a QTc ≤ 480 msec, then reinitiated with dose reduced by 150 mg (see sections 4.2, 4.8 and 5.2).
 
 ## Bradycardia
 
 Asymptomatic cases of bradycardia (heart rate less than 60 bpm) have been observed in 21 out of 925 (2.3%) patients treated with ceritinib in clinical studies.
 
-<div style=\"page-break-after: always\"></div>
-
 Use of ceritinib in combination with other agents known to cause bradycardia (e.g. beta blockers, non-dihydropyridine calcium channel blockers, clonidine and digoxin) should be avoided as far as possible. Heart rate and blood pressure should be monitored regularly. In cases of symptomatic bradycardia that is not life-threatening, ceritinib should be withheld until recovery to asymptomatic bradycardia or to a heart rate of 60 bpm or above, the use of concomitant medicinal products should be evaluated and the ceritinib dose adjusted if necessary. In the event of life-threatening bradycardia ceritinib should be permanently discontinued if no contributing concomitant medicinal product is identified; however, if associated with a concomitant medicinal product known to cause bradycardia or hypotension, ceritinib should be withheld until recovery to asymptomatic bradycardia or to a heart rate of 60 bpm or above. If the concomitant medicinal product can be adjusted or discontinued, ceritinib should be reinitiated with dose reduced by 150 mg on recovery to asymptomatic bradycardia or to a heart rate of 60 bpm or above, with frequent monitoring (see sections 4.2 and 4.8).
+
+<div style=\"page-break-after: always\"></div>
 
 ## Gastrointestinal adverse reactions
 
@@ -192,9 +196,7 @@ Elevations of lipase and/or amylase have occurred in patients treated with cerit
 
 ## Sodium content
 
-This medicinal product contains less than 1 mmol sodium (23 mg) per capsule, that is to say essentially 'sodium-free'.
-
-<div style=\"page-break-after: always\"></div>
+This medicinal product contains less than 1 mmol sodium (23 mg) per capsule, that is to say essentially 'sodium -free'.
 
 ## 4.5 Interaction with other medicinal products and other forms of interaction
 
@@ -202,7 +204,11 @@ This medicinal product contains less than 1 mmol sodium (23 mg) per capsule, tha
 
 ## Strong CYP3A inhibitors
 
-In healthy subjects, co-administration of a single 450 mg fasted ceritinib dose with ketoconazole (200 mg twice daily for 14 days), a strong CYP3A/P-gp inhibitor, resulted in 2.9-fold and 1.2-fold increase in ceritinib AUCinf and Cmax, respectively, compared to when ceritinib was given alone. The steady-state AUC of ceritinib at reduced doses after co-administration with ketoconazole 200 mg twice daily for 14 days was predicted by simulations to be similar to the steady-state AUC of ceritinib alone. Concomitant use of strong CYP3A inhibitors should be avoided during treatment with ceritinib. If it is not possible to avoid concomitant use with strong CYP3A inhibitors (including, but not limited to, ritonavir, saquinavir, telithromycin, ketoconazole, itraconazole, voriconazole, posaconazole and nefazodone), the dose of ceritinib should be reduced by approximately one third, rounded to the nearest multiple of the 150 mg dose strength. After discontinuation of a strong CYP3A inhibitor, ceritinib should be resumed at the dose that was taken prior to initiating the strong CYP3A inhibitor.
+In healthy subjects, co-administration of a single 450 mg fasted ceritinib dose with ketoconazole (200 mg twice daily for 14 days), a strong CYP3A/P-gp inhibitor, resulted in 2.9-fold and 1.2-fold increase in ceritinib AUCinf and Cmax, respectively, compared to when ceritinib was given alone. The steady-state AUC of ceritinib at reduced doses after co-administration with ketoconazole 200 mg twice daily for 14 days was predicted by simulations to be similar to the steady-state AUC of ceritinib alone. Concomitant use of strong CYP3A inhibitors should be avoided during treatment with ceritinib. If it is not possible to avoid concomitant use with strong CYP3A inhibitors (including, but not limited to, ritonavir, saquinavir, telithromycin, ketoconazole, itraconazole, voriconazole, posaconazole and
+
+<div style=\"page-break-after: always\"></div>
+
+nefazodone), the dose of ceritinib should be reduced by approximately one third, rounded to the nearest multiple of the 150 mg dose strength. After discontinuation of a strong CYP3A inhibitor, ceritinib should be resumed at the dose that was taken prior to initiating the strong CYP3A inhibitor.
 
 ## P-gp inhibitors
 
@@ -224,9 +230,9 @@ Ceritinib demonstrates pH-dependent solubility and becomes poorly soluble as pH 
 
 Based on in vitro data, ceritinib competitively inhibits the metabolism of a CYP3A substrate, midazolam, and a CYP2C9 substrate, diclofenac. Time-dependent inhibition of CYP3A was also observed.
 
-<div style=\"page-break-after: always\"></div>
-
 Ceritinib has been classified in vivo as a strong CYP3A4 inhibitor and has the potential to interact with medicinal products that are metabolised by CYP3A, which may lead to increased serum concentrations of the other product. Co-administration of a single dose of midazolam (a sensitive CYP3A substrate) following 3 weeks of ceritinib dosing in patients (750 mg daily fasted) increased the midazolam AUCinf (90% CI) by 5.4-fold (4.6, 6.3) compared to midazolam alone. Co-administration of ceritinib with substrates primarily metabolised by CYP3A or CYP3A substrates known to have narrow therapeutic indices (e.g. alfuzosin, amiodarone, cisapride, ciclosporin, dihydroergotamine, ergotamine, fentanyl, pimozide, quetiapine, quinidine, lovastatin, simvastatin, sildenafil, midazolam, triazolam, tacrolimus, alfentanil and sirolimus) should be avoided and alternative medicinal products that are less sensitive to CYP3A4 inhibition should be used if possible. If unavoidable, dose reduction for co-administered medicinal products that are CYP3A substrates with narrow therapeutic indices should be considered.
+
+<div style=\"page-break-after: always\"></div>
 
 Ceritinib has been classified in vivo as a weak CYP2C9 inhibitor. Co-administration of a single dose of warfarin (a CYP2C9 substrate) following 3 weeks of ceritinib dosing in patients (750 mg daily fasted) increased the S-warfarin AUCinf (90% CI) by 54% (36%, 75%) compared to warfarin alone. Co-administration of ceritinib with substrates primarily metabolised by CYP2C9 or CYP2C9 substrates known to have narrow therapeutic indices (e.g. phenytoin and warfarin) should be avoided. If unavoidable, dose reduction for co-administered medicinal products that are CYP2C9 substrates with narrow therapeutic indices should be considered. Increasing the frequency of international normalised ratio (INR) monitoring may be considered if co-administration with warfarin is unavoidable.
 
@@ -244,13 +250,15 @@ Based on in vitro data, ceritinib does not inhibit apical efflux transporter MRP
 
 In clinical studies, QT prolongation was observed with ceritinib. Therefore, ceritinib should be used with caution in patients who have or may develop prolongation of the QT interval, including those patients taking anti-arrhythmic medicinal products such as class I (e.g. quinidine, procainamide, disopyramide) or class III (e.g. amiodarone, sotalol, dofetilide, ibutilide) anti-arrhythmics or other medicinal products that may lead to QT prolongation such as domperidone, droperidol, chloroquine, halofantrine, clarithromycin, haloperidol, methadone, cisapride and moxifloxacin. Monitoring of the QT interval is indicated in the event of combinations of such medicinal products (see sections 4.2 and 4.4).
 
-<div style=\"page-break-after: always\"></div>
-
 ## Food/drink interactions
 
 Ceritinib should be taken with food. The bioavailability of ceritinib is increased in the presence of food.
 
-For patients who develop a concurrent medical condition and are unable to take ceritinib with food, ceritinib can be taken on an empty stomach as the alternate continued treatment regimen, in which no food should be eaten for at least two hours before and one hour after the dose. Patients should not alternate between fasted and fed dosing. Dose must be adjusted properly, i.e for patients treated with 450 mg or 300 mg with food, the dose should be increased to 750 mg or 450 mg taken on an empty stomach, respectively (see section 5.2) and for patients treated with 150 mg with food treatment should be discontinued. For subsequent dose adjustment and management recommendations for ADRs, please follow table 1 (see section 4.2). The maximum allowable dose under fasted condition is 750 mg (see section 5.2).
+For patients who develop a concurrent medical condition and are unable to take ceritinib with food, ceritinib can be taken on an empty stomach as the alternate continued treatment regimen, in which no food should be eaten for at least two hours before and one hour after the dose. Patients should not alternate between fasted and fed dosing. Dose must be adjusted properly, i.e for patients treated with 450 mg or 300 mg with food, the dose should be increased to 750 mg or 450 mg taken on an empty stomach, respectively (see section 5.2) and for patients treated with 150 mg with food treatment should be discontinued. For subsequent dose adjustment and management recommendations for ADRs, please follow table 1 (see section 4.2). The maximum allowable dose under fasted condition is
+
+<div style=\"page-break-after: always\"></div>
+
+750 mg (see section 5.2).
 
 Patients should be instructed to avoid grapefruit and grapefruit juice as they may inhibit CYP3A in the gut wall and may increase the bioavailability of ceritinib.
 
@@ -282,8 +290,6 @@ The potential for ceritinib to cause infertility in male and female patients is 
 
 Zykadia has minor influence on the ability to drive or use machines. Caution should be exercised when driving or using machines during treatment as patients may experience fatigue or vision disorders.
 
-<div style=\"page-break-after: always\"></div>
-
 ## 4.8 Undesirable effects
 
 ## Summary of the safety profile
@@ -294,7 +300,9 @@ The median duration of exposure to ceritinib 750 mg fasted was 44.9 weeks (range
 
 ADRs with an incidence of ≥10% in patients treated with ceritinib 750 mg fasted were diarrhoea, nausea, vomiting, fatigue, liver laboratory test abnormalities, abdominal pain, decreased appetite, weight decreased, constipation, blood creatinine increased, rash, anaemia and oesophageal disorder.
 
-Grade 3-4 ADRs with an incidence of ≥5% in patients treated with ceritinib 750 mg fasted were liver laboratory test abnormalities, fatigue, vomiting, hyperglycaemia, nausea and diarrhoea.
+Grade 34 ADRs with an incidence of ≥5% in patients treated with ceritinib 750 mg fasted were liver laboratory test abnormalities, fatigue, vomiting, hyperglycaemia, nausea and diarrhoea.
+
+<div style=\"page-break-after: always\"></div>
 
 In the dose optimisation study A2112 (ASCEND-8) in both previously treated and untreated patients with ALK-positive advanced NSCLC, the overall safety profile of ceritinib at the recommended dose of 450 mg with food (N=108) was consistent with ceritinib 750 mg fasted (N=110), except for a reduction in gastrointestinal adverse drug reactions, while achieving comparable steady-state exposure (see section 5.1 and subsection 'Gastrointestinal adverse reactions' below).
 
@@ -321,35 +329,35 @@ Table 2 ADRs in patients treated with ceritinib
 | Bradycardia c                                   | 2.3                 | Common               |
 | Respiratory, thoracic and mediastinal disorders |                     |                      |
 | Pneumonitis d                                   | 2.1                 | Common               |
+| Gastrointestinal disorders                      |                     |                      |
+| Diarrhoea e                                     | 59.3                | Very common          |
+| Nausea e                                        | 42.6                | Very common          |
+| Vomiting e                                      | 38.0                | Very common          |
+| Abdominal pain f                                | 46.1                | Very common          |
+| Constipation                                    | 24.0                | Very common          |
+| Oesophageal disorder g                          | 14.1                | Very common          |
+| Pancreatitis                                    | 0.5                 | Uncommon             |
+| Hepatobiliary disorders                         |                     |                      |
+| Abnormal liver function tests h                 | 2.2                 | Common               |
+| Hepatotoxicity i                                | 1.1                 | Common               |
+| Skin and subcutaneous tissue disorders          |                     |                      |
+| Rash j                                          | 19.6                | Very common          |
+| Renal and urinary disorders                     |                     |                      |
+| Renal failure k                                 | 1.8                 | Common               |
+| Renal impairment l                              | 1.0                 | Common               |
 
 <div style=\"page-break-after: always\"></div>
 
-| Gastrointestinal disorders                           |      |             |
-|------------------------------------------------------|------|-------------|
-| Diarrhoea e                                          | 59.3 | Very common |
-| Nausea e                                             | 42.6 | Very common |
-| Vomiting e                                           | 38.0 | Very common |
-| Abdominal pain f                                     | 46.1 | Very common |
-| Constipation                                         | 24.0 | Very common |
-| Oesophageal disorder g                               | 14.1 | Very common |
-| Pancreatitis                                         | 0.5  | Uncommon    |
-| Hepatobiliary disorders                              |      |             |
-| Abnormal liver function tests h                      | 2.2  | Common      |
-| Hepatotoxicity i                                     | 1.1  | Common      |
-| Skin and subcutaneous tissue disorders               |      |             |
-| Rash j                                               | 19.6 | Very common |
-| Renal and urinary disorders                          |      |             |
-| Renal failure k                                      | 1.8  | Common      |
-| Renal impairment l                                   | 1.0  | Common      |
-| General disorders and administration site conditions |      |             |
-| Fatigue m                                            | 48.4 | Very common |
-| Investigations                                       |      |             |
-| Liver laboratory test abnormalities n                | 60.5 | Very common |
-| Weight decreased                                     | 27.6 | Very common |
-| Blood creatinine increased                           | 22.1 | Very common |
-| Electrocardiogram QT prolonged                       | 9.7  | Common      |
-| Lipase increased                                     | 4.8  | Common      |
-| Amylase increased                                    | 7.0  | Common      |
+| General disorders and administration site conditions   | General disorders and administration site conditions   | General disorders and administration site conditions   |
+|--------------------------------------------------------|--------------------------------------------------------|--------------------------------------------------------|
+| Fatigue m                                              | 48.4                                                   | Very common                                            |
+| Investigations                                         |                                                        |                                                        |
+| Liver laboratory test abnormalities n                  | 60.5                                                   | Very common                                            |
+| Weight decreased                                       | 27.6                                                   | Very common                                            |
+| Blood creatinine increased                             | 22.1                                                   | Very common                                            |
+| Electrocardiogram QT prolonged                         | 9.7                                                    | Common                                                 |
+| Lipase increased                                       | 4.8                                                    | Common                                                 |
+| Amylase increased                                      | 7.0                                                    | Common                                                 |
 
 Includes cases reported within the clustered terms:
 
@@ -357,10 +365,7 @@ Includes cases reported within the clustered terms:
 - b Pericarditis (pericardial effusion, pericarditis)
 - c Bradycardia (bradycardia, sinus bradycardia)
 - d Pneumonitis (interstitial lung disease, pneumonitis)
-- e The frequency of these selected gastrointestinal ADRs (diarrhoea, nausea and vomiting) is based on patients treated with the recommended dose of ceritinib 450 mg with food (N=108) in the study
-
-A2112 (ASCEND-8) (see subsection 'Gastrointestinal adverse reactions' below)
-
+- e The frequency of these selected gastrointestinal ADRs (diarrhoea, nausea and vomiting) is based on patients treated with the recommended dose of ceritinib 450 mg with food (N=108) in the study A2112 (ASCEND8) (see subsection ' Gastrointestinal adverse reactions' below)
 - f Abdominal pain (abdominal pain, abdominal pain upper, abdominal discomfort, epigastric discomfort)
 - g Oesophageal disorder (dyspepsia, gastro-oesophageal reflux disease, dysphagia)
 - h Abnormal liver function test (hepatic function abnormal, hyperbilirubinaemia)
@@ -375,13 +380,13 @@ A2112 (ASCEND-8) (see subsection 'Gastrointestinal adverse reactions' below)
 
 Across seven clinical studies, 168 out of 925 patients (18.2%) treated with ceritinib were aged 65 years or older. The safety profile in patients aged 65 years or older was similar to that in patients less than 65 years of age (see section 4.2). There are no safety data in patients older than 85 years of age.
 
-<div style=\"page-break-after: always\"></div>
-
 ## Hepatotoxicity
 
 Concurrent elevations of ALT or AST greater than 3× ULN and total bilirubin greater than 2× ULN without elevated alkaline phosphatase have been observed in less than 1% of patients in clinical studies with ceritinib. Increases to grade 3 or 4 ALT elevations were observed in 25% of patients receiving ceritinib. Hepatotoxicity events were managed with dose interruptions or reductions in 40.6% of patients. 1% of patients required permanent discontinuation of treatment in clinical studies with ceritinib (see sections 4.2 and 4.4).
 
 Liver laboratory tests including ALT, AST and total bilirubin should be performed prior to the start of treatment, every 2 weeks during the first three months of treatment and monthly thereafter, with more frequent testing for grade 2, 3 or 4 elevations. Patients should be monitored for liver laboratory test abnormalities and managed as recommended in sections 4.2 and 4.4.
+
+<div style=\"page-break-after: always\"></div>
 
 ## Gastrointestinal adverse reactions
 
@@ -399,11 +404,11 @@ Patients should be monitored for QT prolongation and managed as recommended in s
 
 Across the seven clinical studies, bradycardia and/or sinus bradycardia (heart rate less than 60 bpm) events (all grade 1) were reported in 2.3% of patients. These events required dose reduction or interruption in 0.2% of patients. None of these events led to discontinuation of ceritinib treatment. The use of concomitant medicinal products associated with bradycardia should be carefully evaluated. Patients who develop symptomatic bradycardia should be managed as recommended in sections 4.2 and 4.4.
 
-<div style=\"page-break-after: always\"></div>
-
 ## Interstitial lung disease/Pneumonitis
 
 Severe, life-threatening, or fatal interstitial lung disease (ILD)/pneumonitis have been observed in patients treated with ceritinib. Across the seven clinical studies, any grade ILD/pneumonitis has been reported in 2.1% of patients treated with ceritinib, and grade 3 or 4 events have been reported in 1.2% of patients. These events required dose reduction or interruption in 1.1% of patients and led to discontinuation in 0.9% of patients. Patients with pulmonary symptoms indicative of ILD/pneumonitis should be monitored. Other potential causes of ILD/pneumonitis should be excluded (see sections 4.2 and 4.4).
+
+<div style=\"page-break-after: always\"></div>
 
 ## Hyperglycaemia
 
@@ -429,13 +434,15 @@ Ceritinib is an orally highly selective and potent ALK inhibitor. Ceritinib inhi
 
 ALK translocation determines expression of the resulting fusion protein and consequent aberrant ALK signaling in NSCLC. In the majority of NSCLC cases, EML4 is the translocation partner for ALK; this generates an EML4-ALK fusion protein containing the protein kinase domain of ALK fused to the N-terminal part of EML4. Ceritinib was demonstrated to be effective against EML4-ALK activity in a NSCLC cell line (H2228), resulting in inhibition of cell proliferation in vitro and regression of tumours in H2228-derived xenografts in mouse and rat.
 
-<div style=\"page-break-after: always\"></div>
-
 ## Clinical efficacy and safety
 
 Previously untreated ALK-positive advanced NSCLC - randomised phase 3 Study A2301 (ASCEND-4) The efficacy and safety of ceritinib for the treatment of advanced ALK-positive NSCLC patients who have not received previous systemic treatment anti-cancer therapy (including ALK inhibitor) with the exception of neo-adjuvant or adjuvant therapy, was demonstrated in a global multicentre, randomised, open-label phase 3 Study A2301.
 
-A total of 376 patients were randomised in a 1:1 ratio (stratified by WHO performance status, prior adjuvant/neoadjuvant chemotherapy and presence/absence of brain metastasis at screening) to receive either ceritinib (750 mg daily, fasted) or chemotherapy (based on investigator's choice - pemetrexed [500 mg/m 2 ] plus cisplatin [75 mg/m 2 ] or carboplatin [AUC 5-6], administered every 21 days). Patients who completed 4 cycles of chemotherapy (induction) without progressive disease subsequently received pemetrexed (500 mg/m 2 ) as single-agent maintenance therapy every 21 days. One hundred and eighty-nine (189) patients were randomised to ceritinib and one hundred eightyseven (187) were randomised to chemotherapy.
+A total of 376 patients were randomised in a 1:1 ratio (stratified by WHO performance status, prior adjuvant/neoadjuvant chemotherapy and presence/absence of brain metastasis at screening) to receive either ceritinib (750 mg daily, fasted) or chemotherapy (based on investigator's choice - pemetrexed [500 mg/m 2 ] plus cisplatin [75 mg/m 2 ] or carboplatin [AUC 5-6], administered every 21 days). Patients who completed 4 cycles of chemotherapy (induction) without progressive disease subsequently received pemetrexed (500 mg/m 2 ) as single-agent maintenance therapy every 21 days.
+
+<div style=\"page-break-after: always\"></div>
+
+One hundred and eighty-nine (189) patients were randomised to ceritinib and one hundred eightyseven (187) were randomised to chemotherapy.
 
 The median age was 54 years (range: 22 to 81 years); 78.5% of patients were younger than 65 years. A total of 57.4% of patients were female. 53.7% of the study population was Caucasian, 42.0% Asian, 1.6% Black and 2.6% other races The majority of patients had adenocarcinoma (96.5%) and had either never smoked or were former smokers (92.0%). The Eastern Cooperative Oncology Group (ECOG) performance status was 0/1/2 in 37.0%/56.4%/6.4% of patients, and 32.2% had brain metastasis at baseline. 59.5% of patients with brain metastasis at baseline received no prior radiotherapy to the brain. Patients with symptomatic CNS (central nervous system) metastases who were neurologically unstable or had required increasing doses of steroids within the 2 weeks prior to screening to manage CNS symptoms, were excluded from the study.
 
@@ -496,9 +503,11 @@ Figure 2 ASCEND-4 (Study A2301)- Kaplan-Meier plot of overall survival by treatm
 
 <!-- image -->
 
+In Study A2301, 44 patients with measurable brain metastasis at baseline and at least one post-baseline brain radiological assessment (22 patients in the ceritinib arm and 22 patients in the chemotherapy
+
 <div style=\"page-break-after: always\"></div>
 
-In Study A2301, 44 patients with measurable brain metastasis at baseline and at least one post-baseline brain radiological assessment (22 patients in the ceritinib arm and 22 patients in the chemotherapy arm) were assessed for intracranial response by BIRC neuro-radiologist per modified RECIST 1.1 (i.e. up to 5 lesions in the brain). The overall intracranial response rate (OIRR) was higher with ceritinib (72.7%, 95% CI: 49.8, 89.3) as compared to the chemotherapy arm (27.3%, 95% CI: 10.7, 50.2).
+arm) were assessed for intracranial response by BIRC neuro-radiologist per modified RECIST 1.1 (i.e. up to 5 lesions in the brain). The overall intracranial response rate (OIRR) was higher with ceritinib (72.7%, 95% CI: 49.8, 89.3) as compared to the chemotherapy arm (27.3%, 95% CI: 10.7, 50.2).
 
 The median PFS by BIRC using RECIST 1.1 was longer in the ceritinib arm compared to the chemotherapy arm in both subgroups of patients with brain metastases and without brain metastases. The median PFS in patients with brain metastases was 10.7 months (95% CI: 8.1, 16.4) versus 6.7 months (95% CI: 4.1, 10.6) in the ceritinib and chemotherapy arms, respectively, with HR 0.70 (95% CI: 0.44, 1.12). The median PFS in patients without brain metastases was 26.3 months (95% CI: 15.4, 27.7) versus 8.3 months (95% CI: 6.0, 13.7) in the ceritinib and chemotherapy arms, respectively, with HR 0.48 (95% CI: 0.33, 0.69).
 
@@ -518,7 +527,7 @@ Efficacy data from Study A2303 are summarised in Table 4, and the Kaplan-Meier c
 
 <div style=\"page-break-after: always\"></div>
 
-Table 4 ASCEND-5 (Study A2303) Efficacy results in patients with previously treated ALK-positive metastatic/advanced NSCLC (primary analysis)
+Table 4 ASCEND-5 (Study A2303) -Efficacy results in patients with previously treated ALK-positive metastatic/advanced NSCLC (primary analysis)
 
 |                                                        | Ceritinib (N=115)    | Chemotherapy (N=116)   |
 |--------------------------------------------------------|----------------------|------------------------|
@@ -541,7 +550,11 @@ Table 4 ASCEND-5 (Study A2303) Efficacy results in patients with previously trea
 | Median, months d (95% CI)                              | 6.9 (5.4, 8.9)       | 8.3 (3.5, NE)          |
 | Event-free probability estimate at 9 months d (95% CI) | 31.5% (16.7%, 47.3%) | 45.7% (6.9%, 79.5%)    |
 
-HR=hazard ratio; CI=confidence interval; BIRC=Blinded Independent Review Committee; NE=not estimable a Based on the stratified Cox proportional hazards analysis.
+HR=hazard ratio; CI=confidence interval; BIRC=Blinded Independent Review Committee;
+
+NE=not estimable
+
+a Based on the stratified Cox proportional hazards analysis.
 
 b Based on the stratified log-rank test.
 
@@ -551,7 +564,7 @@ d Estimated using the Kaplan-Meier method.
 
 <div style=\"page-break-after: always\"></div>
 
-Figure 3 ASCEND-5 (Study A2303) Kaplan-Meier plot of progression-free survival as assessed by BIRC (primary analysis)
+Figure 3 ASCEND-5 (Study A2303) -Kaplan-Meier plot of progression-free survival as assessed by BIRC (primary analysis)
 
 <!-- image -->
 
@@ -559,7 +572,7 @@ At the final OS analysis, with a median duration of follow-up of 110 months, 102
 
 <div style=\"page-break-after: always\"></div>
 
-## Figure 4 ASCEND-5 (Study A2303) Kaplan-Meier plot of overall survival by treatment arm (final OS analysis)
+## Figure 4 ASCEND-5 (Study A2303) -Kaplan-Meier plot of overall survival by treatment arm (final OS analysis)
 
 <!-- image -->
 
@@ -586,7 +599,9 @@ CI: Confidence Interval
 
 Complete Response (CR), Partial Response (PR) confirmed by repeat assessments performed not less than 4 weeks after response criteria were first met
 
-Overall response rate determined based on BIRC assessment per RECIST 1.1 a Exact binomial 95% confidence interval
+Overall response rate determined based on BIRC assessment per RECIST 1.1
+
+a Exact binomial 95% confidence interval
 
 ## Single arm studies X2101 and A2201
 
@@ -602,28 +617,20 @@ The main efficacy data for both studies are summarised in Table 6. Final overall
 
 Table 6 ALK-positive advanced NSCLC - overview of efficacy results from Studies X2101 and A2201
 
-|                                   | Study X2101 ceritinib 750 mg N=163   | Study A2201 ceritinib 750 mg N=140   |
-|-----------------------------------|--------------------------------------|--------------------------------------|
-| Duration of follow-up             | 10.2                                 | 14.1                                 |
-| Median (months) (min - max)       | (0.1 - 24.1)                         | (0.1 - 35.5)                         |
-| Overall response rate             |                                      |                                      |
-| Investigator (95% CI)             | 56.4% (48.5, 64.2)                   | 40.7% (32.5, 49.3)                   |
-| BIRC (95% CI)                     | 46.0% (38.2, 54.0)                   | 35.7% (27.8, 44.2)                   |
-| Duration of response*             |                                      |                                      |
-| Investigator (months, 95% CI)     | 8.3 (6.8, 9.7)                       | 10.6 (7.4, 14.7)                     |
-| BIRC (months, 95% CI)             | 8.8 (6.0, 13.1)                      | 12.9 (9.3, 18.4)                     |
-| Progression-free survival         |                                      |                                      |
-| Investigator (months, 95% CI)     | 6.9 (5.6, 8.7)                       | 5.8 (5.4, 7.6)                       |
-| BIRC (months, 95% CI)             | 7.0 (5.7, 8.7)                       | 7.4 (5.6, 10.9)                      |
-| Overall survival (months, 95% CI) | 16.7 (14.8, NE)                      | 15.6 (13.6, 24.2)                    |
-
-NE = not estimable
-
-Study X2101: Responses assessed using RECIST 1.0
-
-Study A2201: Responses assessed using RECIST 1.1
-
-*Includes only patients with confirmed CR, PR
+|                                                                                                                                                                    | Study X2101 ceritinib 750 mg N=163                                                                                                                                 | Study A2201 ceritinib 750 mg N=140                                                                                                                                 |
+|--------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Duration of follow-up Median (months) (min - max)                                                                                                                  | 10.2 (0.1 - 24.1)                                                                                                                                                  | 14.1 (0.1 - 35.5)                                                                                                                                                  |
+| Overall response rate                                                                                                                                              |                                                                                                                                                                    |                                                                                                                                                                    |
+| Investigator (95% CI)                                                                                                                                              | 56.4% (48.5, 64.2)                                                                                                                                                 | 40.7% (32.5, 49.3)                                                                                                                                                 |
+| BIRC (95% CI)                                                                                                                                                      | 46.0% (38.2, 54.0)                                                                                                                                                 | 35.7% (27.8, 44.2)                                                                                                                                                 |
+| Duration of response*                                                                                                                                              |                                                                                                                                                                    |                                                                                                                                                                    |
+| Investigator (months, 95% CI)                                                                                                                                      | 8.3 (6.8, 9.7)                                                                                                                                                     | 10.6 (7.4, 14.7)                                                                                                                                                   |
+| BIRC (months, 95% CI)                                                                                                                                              | 8.8 (6.0, 13.1)                                                                                                                                                    | 12.9 (9.3, 18.4)                                                                                                                                                   |
+| Progression-free survival                                                                                                                                          |                                                                                                                                                                    |                                                                                                                                                                    |
+| Investigator (months, 95% CI)                                                                                                                                      | 6.9 (5.6, 8.7)                                                                                                                                                     | 5.8 (5.4, 7.6)                                                                                                                                                     |
+| BIRC (months, 95% CI)                                                                                                                                              | 7.0 (5.7, 8.7)                                                                                                                                                     | 7.4 (5.6, 10.9)                                                                                                                                                    |
+| Overall survival (months, 95% CI)                                                                                                                                  | 16.7 (14.8, NE)                                                                                                                                                    | 15.6 (13.6, 24.2)                                                                                                                                                  |
+| NE = not estimable Study X2101: Responses assessed using RECIST 1.0 Study A2201: Responses assessed using RECIST 1.1 *Includes only patients with confirmed CR, PR | NE = not estimable Study X2101: Responses assessed using RECIST 1.0 Study A2201: Responses assessed using RECIST 1.1 *Includes only patients with confirmed CR, PR | NE = not estimable Study X2101: Responses assessed using RECIST 1.0 Study A2201: Responses assessed using RECIST 1.1 *Includes only patients with confirmed CR, PR |
 
 In Studies X2101 and A2201, brain metastases were seen in 60.1% and 71.4% of patients, respectively. The ORR, DOR and PFS (by BIRC assessment) for patients with brain metastases at baseline were in line with those reported for the overall population of these studies.
 
@@ -645,9 +652,11 @@ The European Medicines Agency has waived the obligation to submit the results of
 
 Peak plasma levels (Cmax) of ceritinib are achieved approximately 4 to 6 hours after a single oral administration in patients. Oral absorption was estimated to be ≥25% based on metabolite percentages in the faeces. The absolute bioavailability of ceritinib has not been determined.
 
+Systemic exposure of ceritinib was increased when administered with food. Ceritinib AUCinf values
+
 <div style=\"page-break-after: always\"></div>
 
-Systemic exposure of ceritinib was increased when administered with food. Ceritinib AUCinf values were approximately 58% and 73% higher (Cmax approximately 43% and 41% higher) in healthy subjects when a single 500 mg ceritinib dose was administered with a low fat meal (containing approximately 330 kcalories and 9 grams of fat) and a high fat meal (containing approximately 1000 kcalories and 58 grams of fat), respectively, as compared with the fasted state.
+were approximately 58% and 73% higher (Cmax approximately 43% and 41% higher) in healthy subjects when a single 500 mg ceritinib dose was administered with a low fat meal (containing approximately 330 kcalories and 9 grams of fat) and a high fat meal (containing approximately 1000 kcalories and 58 grams of fat), respectively, as compared with the fasted state.
 
 In a dose optimisation study A2112 (ASCEND-8) in patients comparing ceritinib 450 mg or 600 mg daily with food (approximately 100 to 500 kcalories and 1.5 to 15 grams of fat) to 750 mg daily under fasted conditions (dose and food condition of administration initially authorised), there was no clinically meaningful difference in the systemic steady-state exposure of ceritinib for the 450 mg with food arm (N=36) compared to the 750 mg fasted arm (N=31), with only small increases in steady-state AUC (90% CI) by 4% (-13%, 24%) and Cmax (90% CI) by 3% (-14%, 22%). In contrast, the steady-state AUC (90% CI) and Cmax (90% CI) for the 600 mg with food arm (N=30) increased by 24% (3%, 49%) and 25% (4%, 49%), respectively, compared to the 750 mg fasted arm. The maximum recommended dose of ceritinib is 450 mg taken orally once daily with food (see section 4.2).
 
@@ -669,9 +678,11 @@ Following a single oral administration of radioactive ceritinib dose at 750 mg f
 
 Following single oral doses of ceritinib under fasted conditions, the geometric mean apparent plasma terminal half-life (T½) of ceritinib ranged from 31 to 41 hours in patients over the 400 to 750 mg dose range. Daily oral dosing of ceritinib results in achievement of steady-state by approximately 15 days and remains stable afterwards, with a geometric mean accumulation ratio of 6.2 after 3 weeks of daily dosing. The geometric mean apparent clearance (CL/F) of ceritinib was lower at steady-state (33.2 litres/hour) after 750 mg daily oral dosing than after a single 750 mg oral dose (88.5 litres/hour), suggesting that ceritinib demonstrates non-linear pharmacokinetics over time.
 
+The primary route of excretion of ceritinib and its metabolites is in the faeces. Recovery of unchanged ceritinib in the faeces accounts for a mean 68% of an oral dose. Only 1.3% of the administered oral
+
 <div style=\"page-break-after: always\"></div>
 
-The primary route of excretion of ceritinib and its metabolites is in the faeces. Recovery of unchanged ceritinib in the faeces accounts for a mean 68% of an oral dose. Only 1.3% of the administered oral dose is recovered in the urine.
+dose is recovered in the urine.
 
 ## Special populations
 
@@ -699,9 +710,9 @@ The potential for QT interval prolongation of ceritinib was assessed in seven cl
 
 Safety pharmacology studies indicate that ceritinib is unlikely to interfere with vital functions of the respiratory and central nervous systems. In vitro data show that the IC50 for the inhibitory effect of ceritinib on the hERG potassium channel was 0.4 micromolar. An in vivo telemetry study in monkeys showed a modest QT prolongation in 1 of 4 animals after receiving the highest dose of ceritinib. ECG studies in monkeys after 4- or 13-weeks of dosing with ceritinib have not shown QT prolongation or abnormal ECGs.
 
-<div style=\"page-break-after: always\"></div>
-
 The micronucleus test in TK6 cells was positive. No signs of mutagenicity or clastogenicity were observed in other in vitro and in vivo genotoxicity studies with ceritinib. Therefore, genotoxic risk is not expected in humans.
+
+<div style=\"page-break-after: always\"></div>
 
 Carcinogenicity studies have not been performed with ceritinib.
 
@@ -727,29 +738,57 @@ Gelatin Indigotine (E132) Titanium dioxide (E171)
 
 Shellac (bleached, de-waxed) glaze 45% Iron oxide black (E172) Propylene glycol Ammonium hydroxide 28%
 
-<div style=\"page-break-after: always\"></div>
+## 6.2 Incompatibilities
 
-| 6.2                                                                                                                    | Incompatibilities                                                                                                      |
-|------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------|
-| Not applicable.                                                                                                        | Not applicable.                                                                                                        |
-| 6.3                                                                                                                    | Shelf life                                                                                                             |
-| 3 years.                                                                                                               | 3 years.                                                                                                               |
-| 6.4                                                                                                                    | Special precautions for storage                                                                                        |
-| This medicinal product does not require any special storage conditions.                                                | This medicinal product does not require any special storage conditions.                                                |
-| 6.5                                                                                                                    | Nature and contents of container                                                                                       |
-| PVC/PCTFE (polyvinylchloride/polychlorotrifluoroethylene) - Aluminium blisters containing 10 hard capsules.            | PVC/PCTFE (polyvinylchloride/polychlorotrifluoroethylene) - Aluminium blisters containing 10 hard capsules.            |
-| Packs containing 40, 90 or 150 (3 packs of 50) hard capsules.                                                          | Packs containing 40, 90 or 150 (3 packs of 50) hard capsules.                                                          |
-| PVC/PE/PVDC (polyvinylchloride/polyethylene/polyvinylidene chloride) - Aluminium blisters containing 10 hard capsules. | PVC/PE/PVDC (polyvinylchloride/polyethylene/polyvinylidene chloride) - Aluminium blisters containing 10 hard capsules. |
-| Packs containing 90 or 150 (3 packs of 50) hard capsules.                                                              | Packs containing 90 or 150 (3 packs of 50) hard capsules.                                                              |
-| Not all pack sizes may be marketed.                                                                                    | Not all pack sizes may be marketed.                                                                                    |
-| 6.6                                                                                                                    | Special precautions for disposal                                                                                       |
-| Any unused medicinal product or waste material should be disposed of in accordance with local requirements.            | Any unused medicinal product or waste material should be disposed of in accordance with local requirements.            |
-| 7.                                                                                                                     | MARKETING AUTHORISATION HOLDER                                                                                         |
-| Novartis Europharm Limited Vista Building Elm Park, Merrion Road Dublin 4 Ireland                                      | Novartis Europharm Limited Vista Building Elm Park, Merrion Road Dublin 4 Ireland                                      |
-| 8.                                                                                                                     | MARKETING AUTHORISATION NUMBERS                                                                                        |
-| EU/1/15/999/001-003                                                                                                    | EU/1/15/999/001-003                                                                                                    |
+Not applicable.
 
 <div style=\"page-break-after: always\"></div>
+
+## 6.3 Shelf life
+
+3 years.
+
+## 6.4 Special precautions for storage
+
+This medicinal product does not require any special storage conditions.
+
+## 6.5 Nature and contents of container
+
+PVC/PCTFE (polyvinylchloride/polychlorotrifluoroethylene)
+
+capsules.
+
+Packs containing 40, 90 or 150 (3 packs of 50) hard capsules.
+
+PVC/PE/PVDC (polyvinylchloride/polyethylene/polyvinylidene chloride) -Aluminium blisters containing 10 hard capsules.
+
+Packs containing 90 or 150 (3 packs of 50) hard capsules.
+
+Not all pack sizes may be marketed.
+
+## 6.6 Special precautions for disposal
+
+Any unused medicinal product or waste material should be disposed of in accordance with local requirements.
+
+7.
+
+MARKETING AUTHORISATION HOLDER
+
+Novartis Europharm Limited
+
+Vista Building
+
+Elm Park, Merrion Road
+
+Dublin 4
+
+Ireland
+
+## 8. MARKETING AUTHORISATION NUMBERS
+
+EU/1/15/999/001-003
+
+EU/1/15/999/005-006
 
 ## 9. DATE OF FIRST AUTHORISATION/RENEWAL OF THE AUTHORISATION
 
@@ -759,7 +798,15 @@ Date of latest renewal: 16 February 2022
 
 ## 10. DATE OF REVISION OF THE TEXT
 
-Detailed information on this medicinal product is available on the website of the European Medicines Agency http://www.ema.europa.eu
+Detailed information on this medicinal product is available on the website of the European Medicines
+
+Agency http://www.ema.europa.eu
+
+27
+
+-
+
+Aluminium blisters containing 10 hard
 
 <div style=\"page-break-after: always\"></div>
 
@@ -851,9 +898,11 @@ After discontinuation of a strong CYP3A inhibitor, resume at the dose that was t
 
 When ceritinib is co-administered with other medicinal products, the Summary of Product Characteristics (SmPC) for the other product must be consulted for the recommendations regarding co-administration with CYP3A4 inhibitors.
 
+Co-administration of ceritinib with substrates primarily metabolised by CYP3A or CYP3A substrates
+
 <div style=\"page-break-after: always\"></div>
 
-Co-administration of ceritinib with substrates primarily metabolised by CYP3A or CYP3A substrates known to have narrow therapeutic indices (e.g. alfuzosin, amiodarone, cisapride, ciclosporin, dihydroergotamine, ergotamine, fentanyl, pimozide, quetiapine, quinidine, lovastatin, simvastatin, sildenafil, midazolam, triazolam, tacrolimus, alfentanil and sirolimus) should be avoided and alternative medicinal products that are less sensitive to CYP3A4 inhibition should be used if possible. If unavoidable, dose reduction for co-administered medicinal products that are CYP3A substrates with narrow therapeutic indices should be considered.
+known to have narrow therapeutic indices (e.g. alfuzosin, amiodarone, cisapride, ciclosporin, dihydroergotamine, ergotamine, fentanyl, pimozide, quetiapine, quinidine, lovastatin, simvastatin, sildenafil, midazolam, triazolam, tacrolimus, alfentanil and sirolimus) should be avoided and alternative medicinal products that are less sensitive to CYP3A4 inhibition should be used if possible. If unavoidable, dose reduction for co-administered medicinal products that are CYP3A substrates with narrow therapeutic indices should be considered.
 
 ## Special populations
 
@@ -889,9 +938,11 @@ Hypersensitivity to the active substance or to any of the excipients listed in s
 
 Cases of hepatotoxicity occurred in 1.1% of patients receiving ceritinib in clinical studies. Increases to grade 3 or 4 ALT elevations were observed in 25% of patients. The majority of cases were manageable with dose interruption and/or dose reduction. Few events required discontinuation of treatment.
 
+Patients should be monitored with liver laboratory tests (including ALT, AST and total bilirubin) prior to the start of treatment, every 2 weeks during the first three months of treatment and monthly thereafter. In patients who develop transaminase elevations, more frequent monitoring of liver
+
 <div style=\"page-break-after: always\"></div>
 
-Patients should be monitored with liver laboratory tests (including ALT, AST and total bilirubin) prior to the start of treatment, every 2 weeks during the first three months of treatment and monthly thereafter. In patients who develop transaminase elevations, more frequent monitoring of liver transaminases and total bilirubin should be carried out as clinically indicated (see sections 4.2 and 4.8). Particular caution should be exercised when treating patients with severe hepatic impairment, and the dose should be adjusted (see section 4.2). Limited experience in these patients showed a worsening of the underlying condition (hepatic encephalopathy) in 2 out of 10 patients exposed to 750 mg single doses of ceritinib under fasted conditions (see sections 4.2, 4.8 and 5.2). Other factors apart from study treatment could have impacted on observed events of hepatic encephalopathy, however, the relation between study treatment and events cannot be fully ruled out. No dose adjustment is necessary in patients with mild or moderate hepatic impairment (see section 4.2).
+transaminases and total bilirubin should be carried out as clinically indicated (see sections 4.2 and 4.8). Particular caution should be exercised when treating patients with severe hepatic impairment, and the dose should be adjusted (see section 4.2). Limited experience in these patients showed a worsening of the underlying condition (hepatic encephalopathy) in 2 out of 10 patients exposed to 750 mg single doses of ceritinib under fasted conditions (see sections 4.2, 4.8 and 5.2). Other factors apart from study treatment could have impacted on observed events of hepatic encephalopathy, however, the relation between study treatment and events cannot be fully ruled out. No dose adjustment is necessary in patients with mild or moderate hepatic impairment (see section 4.2).
 
 ## Interstitial lung disease/Pneumonitis
 
@@ -909,9 +960,9 @@ Use of ceritinib in patients with congenital long QT syndrome should be avoided.
 
 Asymptomatic cases of bradycardia (heart rate less than 60 bpm) have been observed in 21 out of 925 (2.3%) patients treated with ceritinib in clinical studies.
 
-<div style=\"page-break-after: always\"></div>
-
 Use of ceritinib in combination with other agents known to cause bradycardia (e.g. beta blockers, non-dihydropyridine calcium channel blockers, clonidine and digoxin) should be avoided as far as possible. Heart rate and blood pressure should be monitored regularly. In cases of symptomatic bradycardia that is not life-threatening, ceritinib should be withheld until recovery to asymptomatic bradycardia or to a heart rate of 60 bpm or above, the use of concomitant medicinal products should be evaluated and the ceritinib dose adjusted if necessary. In the event of life-threatening bradycardia ceritinib should be permanently discontinued if no contributing concomitant medicinal product is identified; however, if associated with a concomitant medicinal product known to cause bradycardia or hypotension, ceritinib should be withheld until recovery to asymptomatic bradycardia or to a heart rate of 60 bpm or above. If the concomitant medicinal product can be adjusted or discontinued, ceritinib should be reinitiated with dose reduced by 150 mg on recovery to asymptomatic bradycardia or to a heart rate of 60 bpm or above, with frequent monitoring (see sections 4.2 and 4.8).
+
+<div style=\"page-break-after: always\"></div>
 
 ## Gastrointestinal adverse reactions
 
@@ -933,9 +984,7 @@ Elevations of lipase and/or amylase have occurred in patients treated with cerit
 
 ## Sodium content
 
-This medicinal product contains less than 1 mmol sodium (23 mg) per film-coated tablet, that is to say essentially 'sodium-free'.
-
-<div style=\"page-break-after: always\"></div>
+This medicinal product contains less than 1 mmol sodium (23 mg) per film-coated tablet, that is to say essentially 'sodium -free'.
 
 ## 4.5 Interaction with other medicinal products and other forms of interaction
 
@@ -943,7 +992,11 @@ This medicinal product contains less than 1 mmol sodium (23 mg) per film-coated 
 
 ## Strong CYP3A inhibitors
 
-In healthy subjects, co-administration of a single 450 mg fasted ceritinib dose with ketoconazole (200 mg twice daily for 14 days), a strong CYP3A/P-gp inhibitor, resulted in 2.9-fold and 1.2-fold increase in ceritinib AUCinf and Cmax, respectively, compared to when ceritinib was given alone. The steady-state AUC of ceritinib at reduced doses after co-administration with ketoconazole 200 mg twice daily for 14 days was predicted by simulations to be similar to the steady-state AUC of ceritinib alone. Concomitant use of strong CYP3A inhibitors should be avoided during treatment with ceritinib. If it is not possible to avoid concomitant use with strong CYP3A inhibitors (including, but not limited to, ritonavir, saquinavir, telithromycin, ketoconazole, itraconazole, voriconazole, posaconazole and nefazodone), the dose of ceritinib should be reduced by approximately one third, rounded to the nearest multiple of the 150 mg dose strength. After discontinuation of a strong CYP3A inhibitor, ceritinib should be resumed at the dose that was taken prior to initiating the strong CYP3A inhibitor.
+In healthy subjects, co-administration of a single 450 mg fasted ceritinib dose with ketoconazole (200 mg twice daily for 14 days), a strong CYP3A/P-gp inhibitor, resulted in 2.9-fold and 1.2-fold increase in ceritinib AUCinf and Cmax, respectively, compared to when ceritinib was given alone. The steady-state AUC of ceritinib at reduced doses after co-administration with ketoconazole 200 mg twice daily for 14 days was predicted by simulations to be similar to the steady-state AUC of ceritinib alone. Concomitant use of strong CYP3A inhibitors should be avoided during treatment with ceritinib. If it is not possible to avoid concomitant use with strong CYP3A inhibitors (including, but not limited to, ritonavir, saquinavir, telithromycin, ketoconazole, itraconazole, voriconazole, posaconazole and nefazodone), the dose of ceritinib should be reduced by approximately one third, rounded to the
+
+<div style=\"page-break-after: always\"></div>
+
+nearest multiple of the 150 mg dose strength. After discontinuation of a strong CYP3A inhibitor, ceritinib should be resumed at the dose that was taken prior to initiating the strong CYP3A inhibitor.
 
 ## P-gp inhibitors
 
@@ -965,9 +1018,9 @@ Ceritinib demonstrates pH-dependent solubility and becomes poorly soluble as pH 
 
 Based on in vitro data, ceritinib competitively inhibits the metabolism of a CYP3A substrate, midazolam, and a CYP2C9 substrate, diclofenac. Time-dependent inhibition of CYP3A was also observed.
 
-<div style=\"page-break-after: always\"></div>
-
 Ceritinib has been classified in vivo as a strong CYP3A4 inhibitor and has the potential to interact with medicinal products that are metabolised by CYP3A, which may lead to increased serum concentrations of the other product. Co-administration of a single dose of midazolam (a sensitive CYP3A substrate) following 3 weeks of ceritinib dosing in patients (750 mg daily fasted) increased the midazolam AUCinf (90% CI) by 5.4-fold (4.6, 6.3) compared to midazolam alone. Co-administration of ceritinib with substrates primarily metabolised by CYP3A or CYP3A substrates known to have narrow therapeutic indices (e.g. alfuzosin, amiodarone, cisapride, ciclosporin, dihydroergotamine, ergotamine, fentanyl, pimozide, quetiapine, quinidine, lovastatin, simvastatin, sildenafil, midazolam, triazolam, tacrolimus, alfentanil and sirolimus) should be avoided and alternative medicinal products that are less sensitive to CYP3A4 inhibition should be used if possible. If unavoidable, dose reduction for co-administered medicinal products that are CYP3A substrates with narrow therapeutic indices should be considered.
+
+<div style=\"page-break-after: always\"></div>
 
 Ceritinib has been classified in vivo as a weak CYP2C9 inhibitor. Co-administration of a single dose of warfarin (a CYP2C9 substrate) following 3 weeks of ceritinib dosing in patients (750 mg daily fasted) increased the S-warfarin AUCinf (90% CI) by 54% (36%, 75%) compared to warfarin alone. Co-administration of ceritinib with substrates primarily metabolised by CYP2C9 or CYP2C9 substrates known to have narrow therapeutic indices (e.g. phenytoin and warfarin) should be avoided. If unavoidable, dose reduction for co-administered medicinal products that are CYP2C9 substrates with narrow therapeutic indices should be considered. Increasing the frequency of international normalised ratio (INR) monitoring may be considered if co-administration with warfarin is unavoidable.
 
@@ -985,13 +1038,15 @@ Based on in vitro data, ceritinib does not inhibit apical efflux transporter MRP
 
 In clinical studies, QT prolongation was observed with ceritinib. Therefore, ceritinib should be used with caution in patients who have or may develop prolongation of the QT interval, including those patients taking anti-arrhythmic medicinal products such as class I (e.g. quinidine, procainamide, disopyramide) or class III (e.g. amiodarone, sotalol, dofetilide, ibutilide) anti-arrhythmics or other medicinal products that may lead to QT prolongation such as domperidone, droperidol, chloroquine, halofantrine, clarithromycin, haloperidol, methadone, cisapride and moxifloxacin. Monitoring of the QT interval is indicated in the event of combinations of such medicinal products (see sections 4.2 and 4.4).
 
-<div style=\"page-break-after: always\"></div>
-
 ## Food/drink interactions
 
 Ceritinib should be taken with food. The bioavailability of ceritinib is increased in the presence of food.
 
-For patients who develop a concurrent medical condition and are unable to take ceritinib with food, ceritinib can be taken on an empty stomach as the alternate continued treatment regimen, in which no food should be eaten for at least two hours before and one hour after the dose. Patients should not alternate between fasted and fed dosing. Dose must be adjusted properly, i.e for patients treated with 450 mg or 300 mg with food, the dose should be increased to 750 mg or 450 mg taken on an empty stomach, respectively (see section 5.2) and for patients treated with 150 mg with food treatment should be discontinued. For subsequent dose adjustment and management recommendations for ADRs, please follow table 1 (see section 4.2). The maximum allowable dose under fasted condition is 750 mg (see section 5.2).
+For patients who develop a concurrent medical condition and are unable to take ceritinib with food, ceritinib can be taken on an empty stomach as the alternate continued treatment regimen, in which no food should be eaten for at least two hours before and one hour after the dose. Patients should not alternate between fasted and fed dosing. Dose must be adjusted properly, i.e for patients treated with 450 mg or 300 mg with food, the dose should be increased to 750 mg or 450 mg taken on an empty stomach, respectively (see section 5.2) and for patients treated with 150 mg with food treatment should be discontinued. For subsequent dose adjustment and management recommendations for ADRs, please follow table 1 (see section 4.2). The maximum allowable dose under fasted condition is
+
+<div style=\"page-break-after: always\"></div>
+
+750 mg (see section 5.2).
 
 Patients should be instructed to avoid grapefruit and grapefruit juice as they may inhibit CYP3A in the gut wall and may increase the bioavailability of ceritinib.
 
@@ -1023,8 +1078,6 @@ The potential for ceritinib to cause infertility in male and female patients is 
 
 Zykadia has minor influence on the ability to drive or use machines. Caution should be exercised when driving or using machines during treatment as patients may experience fatigue or vision disorders.
 
-<div style=\"page-break-after: always\"></div>
-
 ## 4.8 Undesirable effects
 
 ## Summary of the safety profile
@@ -1035,7 +1088,9 @@ The median duration of exposure to ceritinib 750 mg fasted was 44.9 weeks (range
 
 ADRs with an incidence of ≥10% in patients treated with ceritinib 750 mg fasted were diarrhoea, nausea, vomiting, fatigue, liver laboratory test abnormalities, abdominal pain, decreased appetite, weight decreased, constipation, blood creatinine increased, rash, anaemia and oesophageal disorder.
 
-Grade 3-4 ADRs with an incidence of ≥5% in patients treated with ceritinib 750 mg fasted were liver laboratory test abnormalities, fatigue, vomiting, hyperglycaemia, nausea and diarrhoea.
+Grade 34 ADRs with an incidence of ≥5% in patients treated with ceritinib 750 mg fasted were liver laboratory test abnormalities, fatigue, vomiting, hyperglycaemia, nausea and diarrhoea.
+
+<div style=\"page-break-after: always\"></div>
 
 In the dose optimisation study A2112 (ASCEND-8) in both previously treated and untreated patients with ALK-positive advanced NSCLC, the overall safety profile of ceritinib at the recommended dose of 450 mg with food (N=108) was consistent with ceritinib 750 mg fasted (N=110), except for a reduction in gastrointestinal adverse drug reactions, while achieving comparable steady-state exposure (see section 5.1 and subsection 'Gastrointestinal adverse reactions' below).
 
@@ -1062,35 +1117,35 @@ Table 2 ADRs in patients treated with ceritinib
 | Bradycardia c                                   | 2.3                 | Common               |
 | Respiratory, thoracic and mediastinal disorders |                     |                      |
 | Pneumonitis d                                   | 2.1                 | Common               |
+| Gastrointestinal disorders                      |                     |                      |
+| Diarrhoea e                                     | 59.3                | Very common          |
+| Nausea e                                        | 42.6                | Very common          |
+| Vomiting e                                      | 38.0                | Very common          |
+| Abdominal pain f                                | 46.1                | Very common          |
+| Constipation                                    | 24.0                | Very common          |
+| Oesophageal disorder g                          | 14.1                | Very common          |
+| Pancreatitis                                    | 0.5                 | Uncommon             |
+| Hepatobiliary disorders                         |                     |                      |
+| Abnormal liver function tests h                 | 2.2                 | Common               |
+| Hepatotoxicity i                                | 1.1                 | Common               |
+| Skin and subcutaneous tissue disorders          |                     |                      |
+| Rash j                                          | 19.6                | Very common          |
+| Renal and urinary disorders                     |                     |                      |
+| Renal failure k                                 | 1.8                 | Common               |
+| Renal impairment l                              | 1.0                 | Common               |
 
 <div style=\"page-break-after: always\"></div>
 
-| Gastrointestinal disorders                           |      |             |
-|------------------------------------------------------|------|-------------|
-| Diarrhoea e                                          | 59.3 | Very common |
-| Nausea e                                             | 42.6 | Very common |
-| Vomiting e                                           | 38.0 | Very common |
-| Abdominal pain f                                     | 46.1 | Very common |
-| Constipation                                         | 24.0 | Very common |
-| Oesophageal disorder g                               | 14.1 | Very common |
-| Pancreatitis                                         | 0.5  | Uncommon    |
-| Hepatobiliary disorders                              |      |             |
-| Abnormal liver function tests h                      | 2.2  | Common      |
-| Hepatotoxicity i                                     | 1.1  | Common      |
-| Skin and subcutaneous tissue disorders               |      |             |
-| Rash j                                               | 19.6 | Very common |
-| Renal and urinary disorders                          |      |             |
-| Renal failure k                                      | 1.8  | Common      |
-| Renal impairment l                                   | 1.0  | Common      |
-| General disorders and administration site conditions |      |             |
-| Fatigue m                                            | 48.4 | Very common |
-| Investigations                                       |      |             |
-| Liver laboratory test abnormalities n                | 60.5 | Very common |
-| Weight decreased                                     | 27.6 | Very common |
-| Blood creatinine increased                           | 22.1 | Very common |
-| Electrocardiogram QT prolonged                       | 9.7  | Common      |
-| Lipase increased                                     | 4.8  | Common      |
-| Amylase increased                                    | 7.0  | Common      |
+| General disorders and administration site conditions   | General disorders and administration site conditions   | General disorders and administration site conditions   |
+|--------------------------------------------------------|--------------------------------------------------------|--------------------------------------------------------|
+| Fatigue m                                              | 48.4                                                   | Very common                                            |
+| Investigations                                         |                                                        |                                                        |
+| Liver laboratory test abnormalities n                  | 60.5                                                   | Very common                                            |
+| Weight decreased                                       | 27.6                                                   | Very common                                            |
+| Blood creatinine increased                             | 22.1                                                   | Very common                                            |
+| Electrocardiogram QT prolonged                         | 9.7                                                    | Common                                                 |
+| Lipase increased                                       | 4.8                                                    | Common                                                 |
+| Amylase increased                                      | 7.0                                                    | Common                                                 |
 
 Includes cases reported within the clustered terms:
 
@@ -1098,10 +1153,7 @@ Includes cases reported within the clustered terms:
 - b Pericarditis (pericardial effusion, pericarditis)
 - c Bradycardia (bradycardia, sinus bradycardia)
 - d Pneumonitis (interstitial lung disease, pneumonitis)
-- e The frequency of these selected gastrointestinal ADRs (diarrhoea, nausea and vomiting) is based on patients treated with the recommended dose of ceritinib 450 mg with food (N=108) in the study
-
-A2112 (ASCEND-8) (see subsection 'Gastrointestinal adverse reactions' below)
-
+- e The frequency of these selected gastrointestinal ADRs (diarrhoea, nausea and vomiting) is based on patients treated with the recommended dose of ceritinib 450 mg with food (N=108) in the study A2112 (ASCEND8) (see subsection ' Gastrointestinal adverse reactions' below)
 - f Abdominal pain (abdominal pain, abdominal pain upper, abdominal discomfort, epigastric discomfort)
 - g Oesophageal disorder (dyspepsia, gastro-oesophageal reflux disease, dysphagia)
 - h Abnormal liver function test (hepatic function abnormal, hyperbilirubinaemia)
@@ -1116,13 +1168,13 @@ A2112 (ASCEND-8) (see subsection 'Gastrointestinal adverse reactions' below)
 
 Across seven clinical studies, 168 out of 925 patients (18.2%) treated with ceritinib were aged 65 years or older. The safety profile in patients aged 65 years or older was similar to that in patients less than 65 years of age (see section 4.2). There are no safety data in patients older than 85 years of age.
 
-<div style=\"page-break-after: always\"></div>
-
 ## Hepatotoxicity
 
 Concurrent elevations of ALT or AST greater than 3× ULN and total bilirubin greater than 2× ULN without elevated alkaline phosphatase have been observed in less than 1% of patients in clinical studies with ceritinib. Increases to grade 3 or 4 ALT elevations were observed in 25% of patients receiving ceritinib. Hepatotoxicity events were managed with dose interruptions or reductions in 40.6% of patients. 1% of patients required permanent discontinuation of treatment in clinical studies with ceritinib (see sections 4.2 and 4.4).
 
 Liver laboratory tests including ALT, AST and total bilirubin should be performed prior to the start of treatment, every 2 weeks during the first three months of treatment and monthly thereafter, with more frequent testing for grade 2, 3 or 4 elevations. Patients should be monitored for liver laboratory test abnormalities and managed as recommended in sections 4.2 and 4.4.
+
+<div style=\"page-break-after: always\"></div>
 
 ## Gastrointestinal adverse reactions
 
@@ -1140,11 +1192,11 @@ Patients should be monitored for QT prolongation and managed as recommended in s
 
 Across the seven clinical studies, bradycardia and/or sinus bradycardia (heart rate less than 60 bpm) events (all grade 1) were reported in 2.3% of patients. These events required dose reduction or interruption in 0.2% of patients. None of these events led to discontinuation of ceritinib treatment. The use of concomitant medicinal products associated with bradycardia should be carefully evaluated. Patients who develop symptomatic bradycardia should be managed as recommended in sections 4.2 and 4.4.
 
-<div style=\"page-break-after: always\"></div>
-
 ## Interstitial lung disease/Pneumonitis
 
 Severe, life-threatening, or fatal interstitial lung disease (ILD)/pneumonitis have been observed in patients treated with ceritinib. Across the seven clinical studies, any grade ILD/pneumonitis has been reported in 2.1% of patients treated with ceritinib, and grade 3 or 4 events have been reported in 1.2% of patients. These events required dose reduction or interruption in 1.1% of patients and led to discontinuation in 0.9% of patients. Patients with pulmonary symptoms indicative of ILD/pneumonitis should be monitored. Other potential causes of ILD/pneumonitis should be excluded (see sections 4.2 and 4.4).
+
+<div style=\"page-break-after: always\"></div>
 
 ## Hyperglycaemia
 
@@ -1170,13 +1222,15 @@ Ceritinib is an orally highly selective and potent ALK inhibitor. Ceritinib inhi
 
 ALK translocation determines expression of the resulting fusion protein and consequent aberrant ALK signaling in NSCLC. In the majority of NSCLC cases, EML4 is the translocation partner for ALK; this generates an EML4-ALK fusion protein containing the protein kinase domain of ALK fused to the N-terminal part of EML4. Ceritinib was demonstrated to be effective against EML4-ALK activity in a NSCLC cell line (H2228), resulting in inhibition of cell proliferation in vitro and regression of tumours in H2228-derived xenografts in mouse and rat.
 
-<div style=\"page-break-after: always\"></div>
-
 ## Clinical efficacy and safety
 
 Previously untreated ALK-positive advanced NSCLC - randomised phase 3 Study A2301 (ASCEND-4) The efficacy and safety of ceritinib for the treatment of advanced ALK-positive NSCLC patients who have not received previous systemic treatment anti-cancer therapy (including ALK inhibitor) with the exception of neo-adjuvant or adjuvant therapy, was demonstrated in a global multicentre, randomised, open-label phase 3 Study A2301.
 
-A total of 376 patients were randomised in a 1:1 ratio (stratified by WHO performance status, prior adjuvant/neoadjuvant chemotherapy and presence/absence of brain metastasis at screening) to receive either ceritinib (750 mg daily, fasted) or chemotherapy (based on investigator's choice - pemetrexed [500 mg/m 2 ] plus cisplatin [75 mg/m 2 ] or carboplatin [AUC 5-6], administered every 21 days). Patients who completed 4 cycles of chemotherapy (induction) without progressive disease subsequently received pemetrexed (500 mg/m 2 ) as single-agent maintenance therapy every 21 days. One hundred and eighty-nine (189) patients were randomised to ceritinib and one hundred eightyseven (187) were randomised to chemotherapy.
+A total of 376 patients were randomised in a 1:1 ratio (stratified by WHO performance status, prior adjuvant/neoadjuvant chemotherapy and presence/absence of brain metastasis at screening) to receive either ceritinib (750 mg daily, fasted) or chemotherapy (based on investigator's choice - pemetrexed [500 mg/m 2 ] plus cisplatin [75 mg/m 2 ] or carboplatin [AUC 5-6], administered every 21 days). Patients who completed 4 cycles of chemotherapy (induction) without progressive disease subsequently received pemetrexed (500 mg/m 2 ) as single-agent maintenance therapy every 21 days.
+
+<div style=\"page-break-after: always\"></div>
+
+One hundred and eighty-nine (189) patients were randomised to ceritinib and one hundred eightyseven (187) were randomised to chemotherapy.
 
 The median age was 54 years (range: 22 to 81 years); 78.5% of patients were younger than 65 years. A total of 57.4% of patients were female. 53.7% of the study population was Caucasian, 42.0% Asian, 1.6% Black and 2.6% other races The majority of patients had adenocarcinoma (96.5%) and had either never smoked or were former smokers (92.0%). The Eastern Cooperative Oncology Group (ECOG) performance status was 0/1/2 in 37.0%/56.4%/6.4% of patients, and 32.2% had brain metastasis at baseline. 59.5% of patients with brain metastasis at baseline received no prior radiotherapy to the brain. Patients with symptomatic CNS (central nervous system) metastases who were neurologically unstable or had required increasing doses of steroids within the 2 weeks prior to screening to manage CNS symptoms, were excluded from the study.
 
@@ -1237,9 +1291,11 @@ Figure 2 ASCEND-4 (Study A2301)- Kaplan-Meier plot of overall survival by treatm
 
 <!-- image -->
 
+In Study A2301, 44 patients with measurable brain metastasis at baseline and at least one post-baseline brain radiological assessment (22 patients in the ceritinib arm and 22 patients in the chemotherapy
+
 <div style=\"page-break-after: always\"></div>
 
-In Study A2301, 44 patients with measurable brain metastasis at baseline and at least one post-baseline brain radiological assessment (22 patients in the ceritinib arm and 22 patients in the chemotherapy arm) were assessed for intracranial response by BIRC neuro-radiologist per modified RECIST 1.1 (i.e. up to 5 lesions in the brain). The overall intracranial response rate (OIRR) was higher with ceritinib (72.7%, 95% CI: 49.8, 89.3) as compared to the chemotherapy arm (27.3%, 95% CI: 10.7, 50.2).
+arm) were assessed for intracranial response by BIRC neuro-radiologist per modified RECIST 1.1 (i.e. up to 5 lesions in the brain). The overall intracranial response rate (OIRR) was higher with ceritinib (72.7%, 95% CI: 49.8, 89.3) as compared to the chemotherapy arm (27.3%, 95% CI: 10.7, 50.2).
 
 The median PFS by BIRC using RECIST 1.1 was longer in the ceritinib arm compared to the chemotherapy arm in both subgroups of patients with brain metastases and without brain metastases. The median PFS in patients with brain metastases was 10.7 months (95% CI: 8.1, 16.4) versus 6.7 months (95% CI: 4.1, 10.6) in the ceritinib and chemotherapy arms, respectively, with HR 0.70 (95% CI: 0.44, 1.12). The median PFS in patients without brain metastases was 26.3 months (95% CI: 15.4, 27.7) versus 8.3 months (95% CI: 6.0, 13.7) in the ceritinib and chemotherapy arms, respectively, with HR 0.48 (95% CI: 0.33, 0.69).
 
@@ -1259,7 +1315,7 @@ Efficacy data from Study A2303 are summarised in Table 4, and the Kaplan-Meier c
 
 <div style=\"page-break-after: always\"></div>
 
-Table 4 ASCEND-5 (Study A2303) Efficacy results in patients with previously treated ALK-positive metastatic/advanced NSCLC (primary analysis)
+Table 4 ASCEND-5 (Study A2303) -Efficacy results in patients with previously treated ALK-positive metastatic/advanced NSCLC (primary analysis)
 
 |                                                        | Ceritinib (N=115)    | Chemotherapy (N=116)   |
 |--------------------------------------------------------|----------------------|------------------------|
@@ -1282,7 +1338,9 @@ Table 4 ASCEND-5 (Study A2303) Efficacy results in patients with previously trea
 | Median, months d (95% CI)                              | 6.9 (5.4, 8.9)       | 8.3 (3.5, NE)          |
 | Event-free probability estimate at 9 months d (95% CI) | 31.5% (16.7%, 47.3%) | 45.7% (6.9%, 79.5%)    |
 
-HR=hazard ratio; CI=confidence interval; BIRC=Blinded Independent Review Committee; NE=not estimable a Based on the stratified Cox proportional hazards analysis.
+HR=hazard ratio; CI=confidence interval; BIRC=Blinded Independent Review Committee;
+
+NE=not estimable a Based on the stratified Cox proportional hazards analysis.
 
 b Based on the stratified log-rank test.
 
@@ -1292,7 +1350,7 @@ d Estimated using the Kaplan-Meier method.
 
 <div style=\"page-break-after: always\"></div>
 
-Figure 3 ASCEND-5 (Study A2303) Kaplan-Meier plot of progression-free survival as assessed by BIRC (primary analysis)
+Figure 3 ASCEND-5 (Study A2303) -Kaplan-Meier plot of progression-free survival as assessed by BIRC (primary analysis)
 
 <!-- image -->
 
@@ -1300,7 +1358,7 @@ At the final OS analysis, with a median duration of follow-up of 110 months, 102
 
 <div style=\"page-break-after: always\"></div>
 
-Figure 4 ASCEND-5 (Study A2303) Kaplan-Meier plot of overall survival by treatment arm (final OS analysis)
+Figure 4 ASCEND-5 (Study A2303) -Kaplan-Meier plot of overall survival by treatment arm (final OS analysis)
 
 <!-- image -->
 
@@ -1327,7 +1385,9 @@ CI: Confidence Interval
 
 Complete Response (CR), Partial Response (PR) confirmed by repeat assessments performed not less than 4 weeks after response criteria were first met
 
-Overall response rate determined based on BIRC assessment per RECIST 1.1 a Exact binomial 95% confidence interval
+Overall response rate determined based on BIRC assessment per RECIST 1.1
+
+a Exact binomial 95% confidence interval
 
 ## Single arm studies X2101 and A2201
 
@@ -1343,28 +1403,20 @@ The main efficacy data for both studies are summarised in Table 6. Final overall
 
 Table 6 ALK-positive advanced NSCLC - overview of efficacy results from Studies X2101 and A2201
 
-|                               | Study X2101 ceritinib 750 mg N=163   | Study A2201 ceritinib 750 mg N=140   |
-|-------------------------------|--------------------------------------|--------------------------------------|
-| Duration of follow-up         | 10.2                                 | 14.1                                 |
-| Median (months) (min - max)   | (0.1 - 24.1)                         | (0.1 - 35.5)                         |
-| Overall response rate         |                                      |                                      |
-| Investigator (95% CI)         | 56.4% (48.5, 64.2)                   | 40.7% (32.5, 49.3)                   |
-| BIRC (95% CI)                 | 46.0% (38.2, 54.0)                   | 35.7% (27.8, 44.2)                   |
-| Duration of response*         |                                      |                                      |
-| Investigator (months, 95% CI) | 8.3 (6.8, 9.7)                       | 10.6 (7.4, 14.7)                     |
-| BIRC (months, 95% CI)         | 8.8 (6.0, 13.1)                      | 12.9 (9.3, 18.4)                     |
-| Progression-free survival     |                                      |                                      |
-| Investigator (months, 95% CI) | 6.9 (5.6, 8.7)                       | 5.8 (5.4, 7.6)                       |
-| BIRC (months, 95% CI)         | 7.0 (5.7, 8.7)                       | 7.4 (5.6, 10.9)                      |
-| Overall survival (months, 95% | 16.7 (14.8, NE)                      | 15.6 (13.6, 24.2)                    |
-
-NE = not estimable
-
-Study X2101: Responses assessed using RECIST 1.0
-
-Study A2201: Responses assessed using RECIST 1.1
-
-*Includes only patients with confirmed CR, PR
+|                                                                                                                                                                    | Study X2101 ceritinib 750 mg N=163                                                                                                                                 | Study A2201 ceritinib 750 mg N=140                                                                                                                                 |
+|--------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Duration of follow-up Median (months) (min - max)                                                                                                                  | 10.2 (0.1 - 24.1)                                                                                                                                                  | 14.1 (0.1 - 35.5)                                                                                                                                                  |
+| Overall response rate                                                                                                                                              |                                                                                                                                                                    |                                                                                                                                                                    |
+| Investigator (95% CI)                                                                                                                                              | 56.4% (48.5, 64.2)                                                                                                                                                 | 40.7% (32.5, 49.3)                                                                                                                                                 |
+| BIRC (95% CI)                                                                                                                                                      | 46.0% (38.2, 54.0)                                                                                                                                                 | 35.7% (27.8, 44.2)                                                                                                                                                 |
+| Duration of response*                                                                                                                                              |                                                                                                                                                                    |                                                                                                                                                                    |
+| Investigator (months, 95% CI)                                                                                                                                      | 8.3 (6.8, 9.7)                                                                                                                                                     | 10.6 (7.4, 14.7)                                                                                                                                                   |
+| BIRC (months, 95% CI)                                                                                                                                              | 8.8 (6.0, 13.1)                                                                                                                                                    | 12.9 (9.3, 18.4)                                                                                                                                                   |
+| Progression-free survival                                                                                                                                          |                                                                                                                                                                    |                                                                                                                                                                    |
+| Investigator (months, 95% CI)                                                                                                                                      | 6.9 (5.6, 8.7)                                                                                                                                                     | 5.8 (5.4, 7.6)                                                                                                                                                     |
+| BIRC (months, 95% CI)                                                                                                                                              | 7.0 (5.7, 8.7)                                                                                                                                                     | 7.4 (5.6, 10.9)                                                                                                                                                    |
+| Overall survival (months, 95% CI)                                                                                                                                  | 16.7 (14.8, NE)                                                                                                                                                    | 15.6 (13.6, 24.2)                                                                                                                                                  |
+| NE = not estimable Study X2101: Responses assessed using RECIST 1.0 Study A2201: Responses assessed using RECIST 1.1 *Includes only patients with confirmed CR, PR | NE = not estimable Study X2101: Responses assessed using RECIST 1.0 Study A2201: Responses assessed using RECIST 1.1 *Includes only patients with confirmed CR, PR | NE = not estimable Study X2101: Responses assessed using RECIST 1.0 Study A2201: Responses assessed using RECIST 1.1 *Includes only patients with confirmed CR, PR |
 
 In Studies X2101 and A2201, brain metastases were seen in 60.1% and 71.4% of patients, respectively. The ORR, DOR and PFS (by BIRC assessment) for patients with brain metastases at baseline were in line with those reported for the overall population of these studies.
 
@@ -1386,9 +1438,11 @@ The European Medicines Agency has waived the obligation to submit the results of
 
 Peak plasma levels (Cmax) of ceritinib are achieved approximately 4 to 6 hours after a single oral administration in patients. Oral absorption was estimated to be ≥25% based on metabolite percentages in the faeces. The absolute bioavailability of ceritinib has not been determined.
 
+Systemic exposure of ceritinib was increased when administered with food. Ceritinib AUCinf values
+
 <div style=\"page-break-after: always\"></div>
 
-Systemic exposure of ceritinib was increased when administered with food. Ceritinib AUCinf values were approximately 39% and 64% higher (Cmax approximately 42% and 58% higher) in healthy subjects when a single 750 mg ceritinib dose (tablet) was administered with a low fat meal (containing approximately 330 kcalories and 9 grams of fat) and a high fat meal (containing approximately 1000 kcalories and 58 grams of fat), respectively, as compared with the fasted state.
+were approximately 39% and 64% higher (Cmax approximately 42% and 58% higher) in healthy subjects when a single 750 mg ceritinib dose (tablet) was administered with a low fat meal (containing approximately 330 kcalories and 9 grams of fat) and a high fat meal (containing approximately 1000 kcalories and 58 grams of fat), respectively, as compared with the fasted state.
 
 In a dose optimisation study A2112 (ASCEND-8) in patients comparing ceritinib 450 mg or 600 mg daily with food (approximately 100 to 500 kcalories and 1.5 to 15 grams of fat) to 750 mg daily under fasted conditions (dose and food condition of administration initially authorised), there was no clinically meaningful difference in the systemic steady-state exposure of ceritinib for the 450 mg with food arm (N=36) compared to the 750 mg fasted arm (N=31), with only small increases in steady-state AUC (90% CI) by 4% (-13%, 24%) and Cmax (90% CI) by 3% (-14%, 22%). In contrast, the steady-state AUC (90% CI) and Cmax (90% CI) for the 600 mg with food arm (N=30) increased by 24% (3%, 49%) and 25% (4%, 49%), respectively, compared to the 750 mg fasted arm. The maximum recommended dose of ceritinib is 450 mg taken orally once daily with food (see section 4.2).
 
@@ -1410,9 +1464,11 @@ Following a single oral administration of radioactive ceritinib dose at 750 mg f
 
 Following single oral doses of ceritinib under fasted conditions, the geometric mean apparent plasma terminal half-life (T½) of ceritinib ranged from 31 to 41 hours in patients over the 400 to 750 mg dose range. Daily oral dosing of ceritinib results in achievement of steady-state by approximately 15 days and remains stable afterwards, with a geometric mean accumulation ratio of 6.2 after 3 weeks of daily dosing. The geometric mean apparent clearance (CL/F) of ceritinib was lower at steady-state (33.2 litres/hour) after 750 mg daily oral dosing than after a single 750 mg oral dose (88.5 litres/hour), suggesting that ceritinib demonstrates non-linear pharmacokinetics over time.
 
+The primary route of excretion of ceritinib and its metabolites is in the faeces. Recovery of unchanged ceritinib in the faeces accounts for a mean 68% of an oral dose. Only 1.3% of the administered oral
+
 <div style=\"page-break-after: always\"></div>
 
-The primary route of excretion of ceritinib and its metabolites is in the faeces. Recovery of unchanged ceritinib in the faeces accounts for a mean 68% of an oral dose. Only 1.3% of the administered oral dose is recovered in the urine.
+dose is recovered in the urine.
 
 ## Special populations
 
@@ -1440,9 +1496,9 @@ The potential for QT interval prolongation of ceritinib was assessed in seven cl
 
 Safety pharmacology studies indicate that ceritinib is unlikely to interfere with vital functions of the respiratory and central nervous systems. In vitro data show that the IC50 for the inhibitory effect of ceritinib on the hERG potassium channel was 0.4 micromolar. An in vivo telemetry study in monkeys showed a modest QT prolongation in 1 of 4 animals after receiving the highest dose of ceritinib. ECG studies in monkeys after 4- or 13-weeks of dosing with ceritinib have not shown QT prolongation or abnormal ECGs.
 
-<div style=\"page-break-after: always\"></div>
-
 The micronucleus test in TK6 cells was positive. No signs of mutagenicity or clastogenicity were observed in other in vitro and in vivo genotoxicity studies with ceritinib. Therefore, genotoxic risk is not expected in humans.
+
+<div style=\"page-break-after: always\"></div>
 
 Carcinogenicity studies have not been performed with ceritinib.
 
@@ -1468,13 +1524,15 @@ Hypromellose Titanium dioxide (E171) Macrogol Talc Indigo carmine aluminium lake
 
 Not applicable.
 
-<div style=\"page-break-after: always\"></div>
-
 ## 6.3 Shelf life
 
 3 years.
 
-## 6.4 Special precautions for storage
+<div style=\"page-break-after: always\"></div>
+
+6.4
+
+Special precautions for storage
 
 This medicinal product does not require any special storage conditions.
 
@@ -1482,7 +1540,7 @@ This medicinal product does not require any special storage conditions.
 
 Nature and contents of container
 
-PVC/PCTFE (polyvinylchloride/polychlorotrifluoroethylene) - Aluminium blister containing
+PVC/PCTFE (polyvinylchloride/polychlorotrifluoroethylene)
 
 21 film-coated tablets.
 
@@ -1508,11 +1566,15 @@ Dublin 4
 
 Ireland
 
-## 8. MARKETING AUTHORISATION NUMBERS
+8.
+
+MARKETING AUTHORISATION NUMBERS
 
 EU/1/15/999/004
 
-## 9. DATE OF FIRST AUTHORISATION/RENEWAL OF THE AUTHORISATION
+9.
+
+DATE OF FIRST AUTHORISATION/RENEWAL OF THE AUTHORISATION
 
 Date of first authorisation: 06 May 2015
 
@@ -1526,7 +1588,11 @@ Detailed information on this medicinal product is available on the website of th
 
 Agency http://www.ema.europa.eu
 
-54
+53
+
+-
+
+Aluminium blister containing
 
 <div style=\"page-break-after: always\"></div>
 
@@ -1549,8 +1615,6 @@ Novartis Farmacéutica, S.A. Gran Via de les Corts Catalanes, 764 08013 Barcelon
 
 Novartis Pharmaceuticals S.R.L. Str. Livezeni nr. 7A 540472 Targu Mures Romania
 
-Novartis Pharma GmbH Roonstraße 25 D-90429 Nuremberg Germany
-
 Novartis Pharma GmbH Sophie-Germain-Strasse 10 90443 Nuremberg Germany
 
 150 mg film-coated tablets
@@ -1558,8 +1622,6 @@ Novartis Pharma GmbH Sophie-Germain-Strasse 10 90443 Nuremberg Germany
 Novartis Pharmaceutical Manufacturing LLC Verovškova ulica 57 1000 Ljubljana Slovenia
 
 Lek farmacevtska družba d.d., Poslovna enota PROIZVODNJA LENDAVA Trimlini 2D 9220 Lendava Slovenia
-
-Novartis Pharma GmbH Roonstraße 25 D-90429 Nuremberg Germany
 
 Novartis Pharma GmbH Sophie-Germain-Strasse 10 90443 Nuremberg Germany
 
@@ -1569,13 +1631,13 @@ The printed package leaflet of the medicinal product must state the name and add
 
 Medicinal product subject to restricted medical prescription (see Annex I: Summary of Product Characteristics, section 4.2).
 
-<div style=\"page-break-after: always\"></div>
-
 ## C. OTHER CONDITIONS AND REQUIREMENTS OF THE MARKETING AUTHORISATION
 
 ## · Periodic safety update reports (PSURs)
 
 The requirements for submission of PSURs for this medicinal product are set out in the list of Union reference dates (EURD list) provided for under Article 107c(7) of Directive 2001/83/EC and any subsequent updates published on the European medicines web-portal.
+
+<div style=\"page-break-after: always\"></div>
 
 ## D. CONDITIONS OR RESTRICTIONS WITH REGARD TO THE SAFE AND EFFECTIVE USE OF THE MEDICINAL PRODUCT
 
@@ -1642,7 +1704,7 @@ EXP
 
 <div style=\"page-break-after: always\"></div>
 
-10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
+## 10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
@@ -1677,11 +1739,12 @@ Lot
 ## 14. GENERAL CLASSIFICATION FOR SUPPLY
 
 15. INSTRUCTIONS ON USE
-16. INFORMATION IN BRAILLE
+
+## 16. INFORMATION IN BRAILLE
 
 Zykadia 150 mg
 
-## 17. UNIQUE IDENTIFIER - 2D BARCODE
+## 17. UNIQUE IDENTIFIER -2D BARCODE
 
 2D barcode carrying the unique identifier included.
 
@@ -1769,7 +1832,7 @@ Lot
 
 Zykadia 150 mg
 
-17. UNIQUE IDENTIFIER - 2D BARCODE
+17. UNIQUE IDENTIFIER -2D BARCODE
 
 2D barcode carrying the unique identifier included.
 
@@ -1849,7 +1912,7 @@ Lot
 
 Zykadia 150 mg
 
-17. UNIQUE IDENTIFIER - 2D BARCODE
+17. UNIQUE IDENTIFIER -2D BARCODE
 18. UNIQUE IDENTIFIER - HUMAN READABLE DATA
 
 ## MINIMUM PARTICULARS TO APPEAR ON BLISTERS OR STRIPS
@@ -1906,7 +1969,7 @@ Keep out of the sight and reach of children.
 
 ## 7. OTHER SPECIAL WARNING(S), IF NECESSARY
 
-8. EXPIRY DATE
+## 8. EXPIRY DATE
 
 EXP
 
@@ -1930,7 +1993,7 @@ EU/1/15/999/004
 
 Lot
 
-14. GENERAL CLASSIFICATION FOR SUPPLY
+## 14. GENERAL CLASSIFICATION FOR SUPPLY
 
 15. INSTRUCTIONS ON USE
 
@@ -1954,32 +2017,46 @@ NN
 
 <div style=\"page-break-after: always\"></div>
 
-| MINIMUM PARTICULARS TO APPEAR ON BLISTERS OR STRIPS   |
-|-------------------------------------------------------|
-| BLISTERS                                              |
+| MINIMUM PARTICULARS TO APPEAR ONBLISTERS OR STRIPS   |
+|------------------------------------------------------|
+| BLISTERS                                             |
 
-| 1.   | NAME OF THE MEDICINAL PRODUCT   |
-|------|---------------------------------|
+| 1.   | NAMEOFTHEMEDICINAL PRODUCT   |
+|------|------------------------------|
 
-Zykadia 150 mg tablets ceritinib
-
-| 2.   | NAME OF THE MARKETING AUTHORISATION HOLDER   |
-|------|----------------------------------------------|
-
-Novartis Europharm Limited
+| 2.   | NAMEOFTHEMARKETINGAUTHORISATION HOLDER   |
+|------|------------------------------------------|
 
 | 3.   | EXPIRY DATE   |
 |------|---------------|
 
-EXP
-
 | 4.   | BATCH NUMBER   |
 |------|----------------|
 
-Lot
-
 | 5.   | OTHER   |
 |------|---------|
+
+## MINIMUM PARTICULARS TO APPEAR ON BLISTERS OR STRIPS
+
+BLISTERS
+
+1. NAME OF THE MEDICINAL PRODUCT
+
+Zykadia 150 mg tablets ceritinib
+
+## 2. NAME OF THE MARKETING AUTHORISATION HOLDER
+
+Novartis Europharm Limited
+
+3. EXPIRY DATE
+
+EXP
+
+4. BATCH NUMBER
+
+Lot
+
+5. OTHER
 
 <div style=\"page-break-after: always\"></div>
 
@@ -2033,7 +2110,7 @@ Talk to your doctor or pharmacist before taking Zykadia:
 
 - -if you have problems with your liver.
 - -if you have problems with your lungs or problems breathing.
-- -if you have problems with your heart, including reduced heart rate, or if the results of an electrocardiogram (ECG) have shown that you have an abnormality of the electrical activity of your heart known as 'prolonged QT interval'.
+- -if you have problems with your heart, including reduced heart rate, or if the results of an electrocardiogram (ECG) have shown that you have an abnormality of the electrical activity of your heart known as 'prolonged QT interval' .
 - -if you have diabetes (high level of sugar in your blood).
 - -if you have problems with your pancreas.
 - -if you are currently taking steroids.
@@ -2125,13 +2202,13 @@ You should take special care when driving and using machines when taking Zykadia
 
 ## Zykadia contains sodium
 
-This medicine contains less than 1 mmol sodium (23 mg) per capsule, that is to say essentially 'sodium-free'.
+This medicine contains less than 1 mmol sodium (23 mg) per capsule, that is to say essentially 'sodium -free'.
+
+<div style=\"page-break-after: always\"></div>
 
 ## 3. How to take Zykadia
 
 Always take this medicine exactly as your doctor has told you. Check with your doctor if you are not sure.
-
-<div style=\"page-break-after: always\"></div>
 
 ## How much to take
 
@@ -2171,11 +2248,15 @@ If you have any further questions on the use of this medicine, ask your doctor.
 
 Like all medicines, this medicine can cause side effects, although not everybody gets them.
 
-## STOP taking Zykadia and seek medical help immediately if you experience any of the following , which may be signs of an allergic reaction:
+## STOP taking Zykadia and seek medical help immediately if you experience any of the following ,
+
+which may be signs of an allergic reaction:
 
 - -Difficulty in breathing or swallowing
 - -Swelling of the face, lips, tongue or throat
 - -Severe itching of the skin, with a red rash or raised bumps
+
+<div style=\"page-break-after: always\"></div>
 
 ## Some side effects could be serious
 
@@ -2184,9 +2265,6 @@ If you experience any of the following side effects, tell your doctor or pharmac
 - -Chest pain or discomfort, changes in your heartbeat (fast or slow), light-headedness, fainting, dizziness, blue discoloration of your lips, shortness of breath, swelling of your lower limbs or skin (potential signs or symptoms of heart problems)
 - -New or worsening cough with or without mucus, fever, chest pain, trouble breathing or shortness of breath (potential signs of lung problems)
 - -Tiredness, itchy skin, yellowing of your skin or the whites of your eyes, nausea (feeling sick) or vomiting, decreased appetite, pain on the right side of your abdomen (belly), dark or brown urine, bleeding or bruising more easily than normal (potential signs or symptoms of liver problems)
-
-<div style=\"page-break-after: always\"></div>
-
 - -Severe diarrhoea, nausea or vomiting
 - -Excessive thirst, increased frequency of urination (symptoms of high level of glucose in the blood)
 - -Severe upper stomach pain (sign of inflammation of the pancreas, also known as pancreatitis)
@@ -2219,6 +2297,8 @@ Common (may affect up to 1 in 10 people):
 
 If you get any side effects, talk to your doctor or pharmacist. This includes any possible side effects not listed in this leaflet. You can also report side effects directly via the national reporting system listed in Appendix V. By reporting side effects you can help provide more information on the safety of this medicine.
 
+<div style=\"page-break-after: always\"></div>
+
 ## 5. How to store Zykadia
 
 - -Keep this medicine out of the sight and reach of children.
@@ -2227,8 +2307,6 @@ If you get any side effects, talk to your doctor or pharmacist. This includes an
 - -Do not use this medicine if you notice any damage to the packaging or if there are any signs of tampering.
 
 Do not throw away any medicines via wastewater or household waste. Ask your pharmacist how to throw away medicines you no longer use. These measures will help protect the environment.
-
-<div style=\"page-break-after: always\"></div>
 
 ## 6. Contents of the pack and other information
 
@@ -2242,7 +2320,7 @@ Do not throw away any medicines via wastewater or household waste. Ask your phar
 
 ## What Zykadia looks like and contents of the pack
 
-Zykadia hard capsules have a white opaque body and blue opaque cap, are approximately 23.3 mm long, with 'LDK 150MG' imprinted on the cap and 'NVR' on the body. They contain white to almost white powder.
+Zykadia hard capsules have a white opaque body and blue opaque cap, are approximately 23.3 mm long , with 'LDK 150MG' imprinted on the cap and 'NVR' on the body. They contain white to almost white powder.
 
 The capsules are provided in blisters and are available in packs containing 40, 90 or 150 (3 packs of 50) capsules. Not all pack sizes may be marketed in your country.
 
@@ -2254,9 +2332,7 @@ Novartis Europharm Limited Vista Building Elm Park, Merrion Road Dublin 4 Irelan
 
 Novartis Farmacéutica, S.A. Gran Via de les Corts Catalanes, 764 08013 Barcelona Spain
 
-Romania Novartis Pharmaceuticals S.R.L. Str. Livezeni nr. 7A 540472 Targu Mures
-
-Novartis Pharma GmbH Roonstraße 25 D-90429 Nuremberg Germany
+Novartis Pharmaceuticals S.R.L. Str. Livezeni nr. 7A 540472, Targu Mures Romania
 
 Novartis Pharma GmbH Sophie-Germain-Strasse 10 90443 Nuremberg Germany
 
@@ -2270,7 +2346,11 @@ Novartis Pharma N.V. Tél/Tel: +32 2 246 16 11
 
 ## България
 
-Novartis Bulgaria EOOD Тел: +359 2 489 98 28
+Novartis Bulgaria EOOD
+
+Тел:
+
++359 2 489 98 28
 
 ## Česká republika
 
@@ -2280,19 +2360,25 @@ Tel: +420 225 775 111
 
 ## Danmark
 
-Novartis Healthcare A/S Tlf: +45 39 16 84 00
+Novartis Healthcare A/S
+
+Tlf: +45 39 16 84 00
 
 ## Deutschland
 
-Novartis Pharma GmbH Tel: +49 911 273 0
+Novartis Pharma GmbH
+
+Tel: +49 911 273 0
 
 ## Eesti
 
-SIA Novartis Baltics Eesti filiaal Tel: +372 66 30 810
+SIA Novartis Baltics Eesti filiaal
+
+Tel: +372 66 30 810
 
 ## Ελλάδα
 
-Novartis (Hellas) A.E.B.E. Τηλ: +30 210 281 17 12
+Novartis (Hellas) A.E.B.E. Τηλ : +30 210 281 17 12
 
 ## España
 
@@ -2318,7 +2404,9 @@ Sími: +354 535 7000
 
 ## Italia
 
-Novartis Farma S.p.A. Tel: +39 02 96 54 1
+Novartis Farma S.p.A.
+
+Tel: +39 02 96 54 1
 
 ## Lietuva
 
@@ -2326,7 +2414,9 @@ SIA Novartis Baltics Lietuvos filialas Tel: +370 5 269 16 50
 
 ## Luxembourg/Luxemburg
 
-Novartis Pharma N.V. Tél/Tel: +32 2 246 16 11
+Novartis Pharma N.V.
+
+Tél/Tel: +32 2 246 16 11
 
 ## Magyarország
 
@@ -2370,15 +2460,17 @@ Novartis Slovakia s.r.o. Tel: +421 2 5542 5439
 
 ## Suomi/Finland
 
-Novartis Finland Oy Puh/Tel: +358 (0)10 6133 200
+Novartis Finland Oy
 
-<div style=\"page-break-after: always\"></div>
+Puh/Tel: +358 (0)10 6133 200
 
 ## Κύπρος
 
 Novartis Pharma Services Inc.
 
 Τηλ: +357 22 690 690
+
+<div style=\"page-break-after: always\"></div>
 
 ## Latvija
 
@@ -2446,7 +2538,7 @@ Talk to your doctor or pharmacist before taking Zykadia:
 
 - -if you have problems with your liver.
 - -if you have problems with your lungs or problems breathing.
-- -if you have problems with your heart, including reduced heart rate, or if the results of an electrocardiogram (ECG) have shown that you have an abnormality of the electrical activity of your heart known as 'prolonged QT interval'.
+- -if you have problems with your heart, including reduced heart rate, or if the results of an electrocardiogram (ECG) have shown that you have an abnormality of the electrical activity of your heart known as 'prolonged QT interval' .
 - -if you have diabetes (high level of sugar in your blood).
 - -if you have problems with your pancreas.
 - -if you are currently taking steroids.
@@ -2538,13 +2630,13 @@ You should take special care when driving and using machines when taking Zykadia
 
 ## Zykadia contains sodium
 
-This medicine contains less than 1 mmol sodium (23 mg) per tablet, that is to say essentially 'sodiumfree'.
+This medicine contains less than 1 mmol sodium (23 mg) per tablet, that is to say essentially 'sodium -free'.
+
+<div style=\"page-break-after: always\"></div>
 
 ## 3. How to take Zykadia
 
 Always take this medicine exactly as your doctor has told you. Check with your doctor if you are not sure.
-
-<div style=\"page-break-after: always\"></div>
 
 ## How much to take
 
@@ -2592,6 +2684,8 @@ which may be signs of an allergic reaction:
 - -Swelling of the face, lips, tongue or throat
 - -Severe itching of the skin, with a red rash or raised bumps
 
+<div style=\"page-break-after: always\"></div>
+
 ## Some side effects could be serious
 
 If you experience any of the following side effects, tell your doctor or pharmacist immediately:
@@ -2599,9 +2693,6 @@ If you experience any of the following side effects, tell your doctor or pharmac
 - -Chest pain or discomfort, changes in your heartbeat (fast or slow), light-headedness, fainting, dizziness, blue discoloration of your lips, shortness of breath, swelling of your lower limbs or skin (potential signs or symptoms of heart problems)
 - -New or worsening cough with or without mucus, fever, chest pain, trouble breathing or shortness of breath (potential signs of lung problems)
 - -Tiredness, itchy skin, yellowing of your skin or the whites of your eyes, nausea (feeling sick) or vomiting, decreased appetite, pain on the right side of your abdomen (belly), dark or brown urine, bleeding or bruising more easily than normal (potential signs or symptoms of liver problems)
-
-<div style=\"page-break-after: always\"></div>
-
 - -Severe diarrhoea, nausea or vomiting
 - -Excessive thirst, increased frequency of urination (symptoms of high level of glucose in the blood)
 - -Severe upper stomach pain (sign of inflammation of the pancreas, also known as pancreatitis)
@@ -2634,6 +2725,8 @@ Common (may affect up to 1 in 10 people):
 
 If you get any side effects, talk to your doctor or pharmacist. This includes any possible side effects not listed in this leaflet. You can also report side effects directly via the national reporting system listed in Appendix V. By reporting side effects you can help provide more information on the safety of this medicine.
 
+<div style=\"page-break-after: always\"></div>
+
 ## 5. How to store Zykadia
 
 - -Keep this medicine out of the sight and reach of children.
@@ -2642,8 +2735,6 @@ If you get any side effects, talk to your doctor or pharmacist. This includes an
 - -Do not use this medicine if you notice any damage to the packaging or if there are any signs of tampering.
 
 Do not throw away any medicines via wastewater or household waste. Ask your pharmacist how to throw away medicines you no longer use. These measures will help protect the environment.
-
-<div style=\"page-break-after: always\"></div>
 
 ## 6. Contents of the pack and other information
 
@@ -2670,8 +2761,6 @@ Novartis Pharmaceutical Manufacturing LLC Verovškova ulica 57 1000 Ljubljana Sl
 
 Lek farmacevtska družba d.d., Poslovna enota PROIZVODNJA LENDAVA Trimlini 2D 9220 Lendava Slovenia
 
-Novartis Pharma GmbH Roonstraße 25 D-90429 Nuremberg Germany
-
 Novartis Pharma GmbH Sophie-Germain-Strasse 10 90443 Nuremberg Germany
 
 <div style=\"page-break-after: always\"></div>
@@ -2680,91 +2769,55 @@ For any information about this medicine, please contact the local representative
 
 ## België/Belgique/Belgien
 
-## Lietuva
+Novartis Pharma N.V.
 
-Novartis Pharma N.V. Tél/Tel: +32 2 246 16 11
-
-SIA Novartis Baltics Lietuvos filialas Tel: +370 5 269 16 50
+Tél/Tel: +32 2 246 16 11
 
 ## България
 
 Novartis Bulgaria EOOD Тел: +359 2 489 98 28
 
-## Luxembourg/Luxemburg
-
-Novartis Pharma N.V. Tél/Tel: +32 2 246 16 11
-
 ## Česká republika
 
-Novartis s.r.o. Tel: +420 225 775 111
+Novartis s.r.o.
 
-## Magyarország
-
-Novartis Hungária Kft. Tel.: +36 1 457 65 00
+Tel: +420 225 775 111
 
 ## Danmark
 
-Novartis Healthcare A/S Tlf: +45 39 16 84 00
+Novartis Healthcare A/S
 
-## Malta
-
-Novartis Pharma Services Inc. Tel: +356 2122 2872
+Tlf: +45 39 16 84 00
 
 ## Deutschland
 
-Novartis Pharma GmbH Tel: +49 911 273 0
+Novartis Pharma GmbH
 
-## Nederland
-
-Novartis Pharma B.V. Tel: +31 88 04 52 555
+Tel: +49 911 273 0
 
 ## Eesti
 
 SIA Novartis Baltics Eesti filiaal Tel: +372 66 30 810
 
-## Norge
-
-Novartis Norge AS Tlf: +47 23 05 20 00
-
 ## Ελλάδα
 
-Novartis (Hellas) A.E.B.E. Τηλ: +30 210 281 17 12
-
-## Österreich
-
-Novartis Pharma GmbH Tel: +43 1 86 6570
+Novartis (Hellas) A.E.B.E. Τηλ : +30 210 281 17 12
 
 ## España
 
 Novartis Farmacéutica, S.A. Tel: +34 93 306 42 00
 
-## Polska
-
-Novartis Poland Sp. z o.o. Tel.: +48 22 375 4888
-
 ## France
 
 Novartis Pharma S.A.S. Tél: +33 1 55 47 66 00
-
-## Portugal
-
-Novartis Farma - Produtos Farmacêuticos, S.A. Tel: +351 21 000 8600
 
 ## Hrvatska
 
 Novartis Hrvatska d.o.o. Tel. +385 1 6274 220
 
-## România
-
-Novartis Pharma Services Romania SRL Tel: +40 21 31299 01
-
 ## Ireland
 
 Novartis Ireland Limited Tel: +353 1 260 12 55
-
-## Slovenija
-
-Novartis Pharma Services Inc. Tel: +386 1 300 75 50
 
 ## Ísland
 
@@ -2772,25 +2825,77 @@ Vistor hf.
 
 Sími: +354 535 7000
 
+## Italia
+
+Novartis Farma S.p.A.
+
+Tel: +39 02 96 54 1
+
+## Lietuva
+
+SIA Novartis Baltics Lietuvos filialas Tel: +370 5 269 16 50
+
+## Luxembourg/Luxemburg
+
+Novartis Pharma N.V.
+
+Tél/Tel: +32 2 246 16 11
+
+## Magyarország
+
+Novartis Hungária Kft. Tel.: +36 1 457 65 00
+
+## Malta
+
+Novartis Pharma Services Inc. Tel: +356 2122 2872
+
+## Nederland
+
+Novartis Pharma B.V.
+
+Tel: +31 88 04 52 555
+
+## Norge
+
+Novartis Norge AS Tlf: +47 23 05 20 00
+
+## Österreich
+
+Novartis Pharma GmbH Tel: +43 1 86 6570
+
+## Polska
+
+Novartis Poland Sp. z o.o. Tel.: +48 22 375 4888
+
+## Portugal
+
+Novartis Farma - Produtos Farmacêuticos, S.A. Tel: +351 21 000 8600
+
+## România
+
+Novartis Pharma Services Romania SRL Tel: +40 21 31299 01
+
+## Slovenija
+
+Novartis Pharma Services Inc. Tel: +386 1 300 75 50
+
 ## Slovenská republika
 
 Novartis Slovakia s.r.o. Tel: +421 2 5542 5439
 
-## Italia
-
-Novartis Farma S.p.A. Tel: +39 02 96 54 1
-
 ## Suomi/Finland
 
-Novartis Finland Oy Puh/Tel: +358 (0)10 6133 200
+Novartis Finland Oy
 
-<div style=\"page-break-after: always\"></div>
+Puh/Tel: +358 (0)10 6133 200
 
 ## Κύπρος
 
 Novartis Pharma Services Inc.
 
 Τηλ: +357 22 690 690
+
+<div style=\"page-break-after: always\"></div>
 
 ## Latvija
 

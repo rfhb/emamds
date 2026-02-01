@@ -1,18 +1,18 @@
 ---
-document_datetime: 2025-12-22 15:18:26
+document_datetime: 2026-01-30 15:51:12
 document_pages: 39
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/osvyrti-epar-product-information_en.pdf
 document_name: osvyrti-epar-product-information_en.pdf
 version: success
-processing_time: 8.8201111
-conversion_datetime: 2026-01-03 12:46:56.942473
+processing_time: 8.750756
+conversion_datetime: 2026-02-01 20:13:27.177764
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.66.0
-  docling-core: 2.57.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.11.0
+  docling-jobkit: 1.9.1
+  docling: 2.71.0
+  docling-core: 2.62.0
+  docling-ibm-models: 3.11.0
+  docling-parse: 4.7.3
   python: cpython-313 (3.13.11)
   plaform: macOS-26.2-arm64-arm-64bit-Mach-O
 ---

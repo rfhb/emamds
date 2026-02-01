@@ -1,18 +1,18 @@
 ---
-document_datetime: 2025-12-29 12:18:06
+document_datetime: 2026-01-30 14:06:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/kineret.html
 document_name: kineret.html
 version: success
-processing_time: 0.1415767
-conversion_datetime: 2025-12-30 21:10:17.72661
+processing_time: 0.1390804
+conversion_datetime: 2026-02-01 20:37:24.71284
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.66.0
-  docling-core: 2.57.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.11.0
+  docling-jobkit: 1.9.1
+  docling: 2.71.0
+  docling-core: 2.62.0
+  docling-ibm-models: 3.11.0
+  docling-parse: 4.7.3
   python: cpython-313 (3.13.11)
   plaform: macOS-26.2-arm64-arm-64bit-Mach-O
 ---
@@ -25,8 +25,6 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 anakinra Medicine Human Authorised
-
-On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -136,7 +134,7 @@ English (EN) (156.38 KB - PDF)
 
 [View](/en/documents/overview/kineret-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-35)
+[Other languages (22)](#file-language-dropdown-450)
 
 български (BG) (146.74 KB - PDF)
 
@@ -404,11 +402,11 @@ svenska (SV) (110.7 KB - PDF)
 
 Kineret : EPAR - Risk-management plan
 
-English (EN) (1.9 MB - PDF)
+English (EN) (1.29 MB - PDF)
 
 **First published:** 29/03/2023
 
-**Last updated:** 15/10/2025
+**Last updated:** 30/01/2026
 
 [View](/en/documents/rmp/kineret-epar-risk-management-plan_en.pdf)
 
@@ -424,7 +422,7 @@ English (EN) (355.58 KB - PDF)
 
 [View](/en/documents/product-information/kineret-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-843)
+[Other languages (24)](#file-language-dropdown-879)
 
 български (BG) (493.48 KB - PDF)
 
@@ -740,7 +738,7 @@ English (EN) (19.76 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/kineret-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-594)
+[Other languages (24)](#file-language-dropdown-814)
 
 български (BG) (45.21 KB - PDF)
 
@@ -1083,7 +1081,7 @@ Swedish Orphan Biovitrum AB (publ)
 
 SE-112 76 Stockholm
 
-Marketing authorisation issued 08/03/2002 Revision 37
+Marketing authorisation issued 08/03/2002 Revision 38
 
 ## Assessment history
 
@@ -1095,9 +1093,11 @@ Collapse section
 
 Kineret : EPAR - Procedural steps taken and scientific information after authorisation
 
-English (EN) (130.1 KB - PDF)
+English (EN) (152.71 KB - PDF)
 
 **First published:** 15/10/2025
+
+**Last updated:** 30/01/2026
 
 [View](/en/documents/procedural-steps-after/kineret-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf)
 
@@ -1321,7 +1321,7 @@ English (EN) (86.01 KB - PDF)
 - [COVID-19](https://www.ema.europa.eu/en/search?f%5B0%5D=ema_search_topics%3A61132)
 - [Medicines](https://www.ema.europa.eu/en/search?f%5B0%5D=ema_search_topics%3A61)
 
-**This page was last updated on** 15/10/2025
+**This page was last updated on** 30/01/2026
 
 ## Share this page
 

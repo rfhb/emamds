@@ -1,19 +1,19 @@
 ---
-document_datetime: 2025-02-20 12:34:44
-document_pages: 52
+document_datetime: 2026-02-03 15:04:02
+document_pages: 53
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/sapropterin-dipharma-epar-product-information_en.pdf
 document_name: sapropterin-dipharma-epar-product-information_en.pdf
 version: success
-processing_time: 17.926791
-conversion_datetime: 2025-12-22 20:25:28.332741
+processing_time: 16.8721707
+conversion_datetime: 2026-02-04 15:13:43.497741
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.64.1
-  docling-core: 2.55.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
-  python: cpython-313 (3.13.11)
+  docling-serve: 1.11.0
+  docling-jobkit: 1.9.1
+  docling: 2.72.0
+  docling-core: 2.63.0
+  docling-ibm-models: 3.11.0
+  docling-parse: 4.7.3
+  python: cpython-313 (3.13.12)
   plaform: macOS-26.2-arm64-arm-64bit-Mach-O
 ---
 ## ANNEX I
@@ -214,8 +214,6 @@ Discard unused solution within 20 minutes for tablet solution.
 |            19 |                   190 |                                                          2 |                           40 |                                            38 |
 |            20 |                   200 |                                                          2 |                           40 |                                            40 |
 
-*Reflects volume for total daily dose.
-
 Discard unused solution within 20 minutes for tablet solution.
 
 Table 4: 20 mg/kg per day dosing table for children weighing up to 20 kg
@@ -241,8 +239,6 @@ Table 4: 20 mg/kg per day dosing table for children weighing up to 20 kg
 |            18 |                   360 |                                                          4 |                           80 |                                            72 |
 |            19 |                   380 |                                                          4 |                           80 |                                            76 |
 |            20 |                   400 |                                                          4 |                           80 |                                            80 |
-
-*Reflects volume for total daily dose.
 
 Discard unused solution within 20 minutes for tablet solution.
 
@@ -398,7 +394,7 @@ The rationale for administration of sapropterin dihydrochloride in patients with
 
 The phase III clinical development program for sapropterin included 2, randomised placebo-controlled studies in patients with PKU. The results of these studies demonstrate the efficacy of sapropterin to reduce blood phenylalanine levels and to increase dietary phenylalanine tolerance.
 
-In 88 subjects with poorly controlled PKU who had elevated blood phenylalanine levels at screening, sapropterin dihydrochloride 10 mg/kg/day significantly reduced blood phenylalanine levels as compared to placebo. The baseline blood phenylalanine levels for the sapropterin-treated group and the placebo group were similar, with mean ± SD baseline blood phenylalanine levels of 843 ± 300 μmol/l and 888 ± 323 μmol/l, respectively. The mean ± SD decrease from baseline in blood phenylalanine levels at the end of the 6 week study period was 236 ± 257 μmol/l for the sapropterin treated group (n= 41) as compared to an increase of 2.9 ± 240 μmol /l for the placebo group (n= 47) (p&lt;0.001). For patients with baseline blood phenylalanine levels ≥ 600 µmol/l, 41.9% (13/31) of those treated with sapropterin and 13.2% (5/38) of those treated with placebo had blood phenylalanine levels &lt; 600 µmol/l at the end of the 6-week study period (p= 0.012).
+In 88 subjects with poorly controlled PKU who had elevated blood phenylalanine levels at screening, sapropterin dihydrochloride 10 mg/kg/day significantly reduced blood phenylalanine levels as compared to placebo. The baseline blood phenylalanine levels for the sapropterin-treated group and the placebo group were similar, with mean ± SD baseline blood phenylalanine levels of 843 ± 300 μmol/l and 888 ± 323 μmol/l, respectively. The mean ± SD decrease from baseline in blood phenylalanine levels at the end of the 6 week study period was 236 ± 257 μmol/l for the sapropterin treated group (n= 41) as compared to an increase of 2.9 ± 240 μmol/l for the placebo group (n= 47) (p&lt;0.001). For patients with baseline blood phenylalanine levels ≥ 600 µmol/l, 41.9% (13/31) of those treated with sapropterin and 13.2% (5/38) of those treated with placebo had blood phenylalanine levels &lt; 600 µmol/l at the end of the 6-week study period (p= 0.012).
 
 In a separate 10-week, placebo-controlled study, 45 PKU patients with blood phenylalanine levels controlled on a stable phenylalaninerestricted diet (blood phenylalanine ≤ 480 μmol/l on enrolment) were randomised 3:1 to treatment with sapropterin dihydrochloride 20 mg/kg/day (n= 33) or placebo (n= 12). After 3-weeks of treatment with sapropterin dihydrochloride 20 mg/kg/day, blood phenylalanine levels were significantly reduced; the mean ± SD decrease from baseline in blood phenylalanine level within this group was 149 ± 134 μmol/l (p&lt;0.001). After 3 weeks, subjects in both the sapropterin and placebo treatment groups were continued on their phenylalanine-restricted diets and dietary phenylalanine intake was increased or decreased using standardised phenylalanine supplements with a goal to maintain blood phenylalanine levels at &lt; 360 μmol/l. There was a significant difference in dietary phenylalanine tolerance in the sapropterin treatment group as compared to the placebo group. The mean ± SD increase in dietary phenylalanine tolerance was 17.5 ± 13.3 mg/kg/day for the group treated with sapropterin dihydrochloride 20 mg/kg/day, compared to 3.3 ± 5.3 mg/kg/day for the placebo group (p= 0.006). For the sapropterin treatment group, the mean ± SD total dietary phenylalanine tolerance was 38.4 ± 21.6 mg/kg/day during treatment with sapropterin dihydrochloride 20 mg/kg/day compared to 15.7 ± 7.2 mg/kg/day before treatment.
 
@@ -699,8 +695,6 @@ If only a portion of this solution needs to be administered, an oral syringe sho
 |            19 |                    38 |                                                          1 |                           80 |                                             30 |
 |            20 |                    40 |                                                          1 |                           80 |                                             32 |
 
-*Reflects volume for total daily dose.
-
 Discard unused solution within 30 minutes for powder solution.
 
 Table 2: 5 mg/kg per day dosing table for children weighing up to 20 kg
@@ -726,8 +720,6 @@ Table 2: 5 mg/kg per day dosing table for children weighing up to 20 kg
 |            18 |                    90 |                                                          1 |                           40 |                                            36 |
 |            19 |                    95 |                                                          1 |                           40 |                                            38 |
 |            20 |                   100 |                                                          1 |                           40 |                                            40 |
-
-*Reflects volume for total daily dose.
 
 Discard unused solution within 30 minutes for powder solution.
 
@@ -784,8 +776,6 @@ Table 4: 20 mg/kg per day dosing table for children weighing up to 20 kg
 |            18 |                   360 |                                                          4 |                           80 |                                            72 |
 |            19 |                   380 |                                                          4 |                           80 |                                            76 |
 |            20 |                   400 |                                                          4 |                           80 |                                            80 |
-
-*Reflects volume for total daily dose.
 
 Discard unused solution within 30 minutes for powder solution.
 
@@ -949,7 +939,7 @@ The rationale for administration of sapropterin dihydrochloride in patients with
 
 The phase III clinical development program for sapropterin included 2, randomised placebo-controlled studies in patients with PKU. The results of these studies demonstrate the efficacy of sapropterin to reduce blood phenylalanine levels and to increase dietary phenylalanine tolerance.
 
-In 88 subjects with poorly controlled PKU who had elevated blood phenylalanine levels at screening, sapropterin dihydrochloride 10 mg/kg/day significantly reduced blood phenylalanine levels as compared to placebo. The baseline blood phenylalanine levels for the sapropterin-treated group and the placebo group were similar, with mean ± SD baseline blood phenylalanine levels of 843 ± 300 μmol/l and 888 ± 323 μmol/l, respectively. The mean ± SD decrease from baseline in blood phenylalanine levels at the end of the 6 week study period was 236 ± 257 μmol/l for the sapropterin treated group (n= 41) as compared to an increase of 2.9 ± 240 μmol/l for the placebo group (n= 47) (p&lt; 0.001). For patients with baseline blood phenylalanine levels ≥ 600 µmol/l, 41.9% (13/31) of those treated with sapropterin and 13.2% (5/38) of those treated with placebo had blood phenylalanine levels &lt; 600 µmol/l at the end of the 6-week study period (p= 0.012).
+In 88 subjects with poorly controlled PKU who had elevated blood phenylalanine levels at screening, sapropterin dihydrochloride 10 mg/kg/day significantly reduced blood phenylalanine levels as compared to placebo. The baseline blood phenylalanine levels for the sapropterin-treated group and the placebo group were similar, with mean ± SD baseline blood phenylalanine levels of 843 ± 300 μmol/l and 888 ± 323 μmol/l, respectively. The mean ± SD decrease from baseline in blood phenylalanine levels at the end of the 6 week study period was 236 ± 257 μmol/l for the sapropterin treated group (n= 41) as compared to an increase of 2.9 ± 240 μmol /l for the placebo group (n= 47) (p&lt; 0.001). For patients with baseline blood phenylalanine levels ≥ 600 µmol/l, 41.9% (13/31) of those treated with sapropterin and 13.2% (5/38) of those treated with placebo had blood phenylalanine levels &lt; 600 µmol/l at the end of the 6-week study period (p= 0.012).
 
 In a separate 10-week, placebo-controlled study, 45 PKU patients with blood phenylalanine levels controlled on a stable phenylalaninerestricted diet (blood phenylalanine ≤ 480 μmol/l on enrolment) were randomised 3:1 to treatment with sapropterin dihydrochloride 20 mg/kg/day (n= 33) or placebo (n= 12). After 3-weeks of treatment with sapropterin dihydrochloride 20 mg/kg/day, blood phenylalanine levels were significantly reduced; the mean ± SD decrease from baseline in blood phenylalanine level within this group was 149 ± 134 μmol/l (p &lt; 0.001). After 3 weeks, subjects in both the sapropterin and placebo treatment groups were continued on their phenylalanine-restricted diets and dietary phenylalanine intake was increased or decreased using standardised phenylalanine supplements with a goal to maintain blood phenylalanine levels at &lt; 360 μmol/l. There was a significant difference in dietary phenylalanine tolerance in the sapropterin treatment group as compared to the placebo group. The mean ± SD increase in dietary phenylalanine tolerance was 17.5 ± 13.3 mg/kg/day for the group treated with sapropterin dihydrochloride 20 mg/kg/day, compared to 3.3 ± 5.3 mg/kg/day for the placebo group (p= 0.006). For the sapropterin treatment group, the mean ± SD total dietary phenylalanine tolerance was 38.4 ± 21.6 mg/kg/day during treatment with sapropterin dihydrochloride 20 mg/kg/day compared to 15.7 ± 7.2 mg/kg/day before treatment.
 
@@ -1114,6 +1104,8 @@ Name and address of the manufacturer responsible for batch release
 Depo-Pack S.r.l. Via Giovanni Morandi 28 21047 Saronno (VA) Italy
 
 Pharmadox Healthcare Ltd. KW20A Kordin Industrial Park Paola PLA3000 Malta
+
+Patheon France 40 Boulevard De Champaret 38300 Bourgoin Jallieu France
 
 The printed package leaflet of the medicinal product must state the name and address of the manufacturer responsible for the release of the concerned batch.
 
@@ -1688,7 +1680,9 @@ Dipharma Arzneimittel GmbH Offheimer Weg 33 65549 Limburg a. d. Lahn Germany
 
 Depo-Pack S.r.l. Via Giovanni Morandi 28 21047 Saronno (VA) Italy or
 
-Pharmadox Healthcare Ltd. KW20A Kordin Industrial Park Paola PLA3000 Malta
+Pharmadox Healthcare Ltd. KW20A Kordin Industrial Park Paola PLA3000 Malta or
+
+Patheon France 40 Boulevard De Champaret 38300 Bourgoin Jallieu France
 
 ## This leaflet was last revised in
 
@@ -1951,11 +1945,15 @@ Dipharma Arzneimittel GmbH Offheimer Weg 33 65549 Limburg a. d. Lahn Germany
 
 Depo-Pack S.r.l. Via Giovanni Morandi 28 21047 Saronno (VA) Italy or
 
-Pharmadox Healthcare Ltd. KW20A Kordin Industrial Park Paola PLA3000 Malta
+Pharmadox Healthcare Ltd. KW20A Kordin Industrial Park Paola PLA3000 Malta or
 
-## This leaflet was last revised in
+Patheon France 40 Boulevard De Champaret 38300 Bourgoin Jallieu France
 
-## Other sources of information
+This leaflet was last revised in
+
+Other sources of information
+
+<div style=\"page-break-after: always\"></div>
 
 Detailed information on this medicine is available on the European Medicines Agency web site: http://www.ema.europa.eu.
 

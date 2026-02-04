@@ -1,19 +1,19 @@
 ---
-document_datetime: 2025-12-29 11:33:02
+document_datetime: 2026-02-03 14:56:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/gilenya.html
 document_name: gilenya.html
 version: success
-processing_time: 0.1512755
-conversion_datetime: 2025-12-31 01:47:28.752988
+processing_time: 0.1291018
+conversion_datetime: 2026-02-04 15:07:10.001158
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.66.0
-  docling-core: 2.57.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
-  python: cpython-313 (3.13.11)
+  docling-serve: 1.11.0
+  docling-jobkit: 1.9.1
+  docling: 2.72.0
+  docling-core: 2.63.0
+  docling-ibm-models: 3.11.0
+  docling-parse: 4.7.3
+  python: cpython-313 (3.13.12)
   plaform: macOS-26.2-arm64-arm-64bit-Mach-O
 ---
 # Gilenya
@@ -25,8 +25,6 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 fingolimod Medicine Human Authorised
-
-On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -112,7 +110,7 @@ English (EN) (81.82 KB - PDF)
 
 [View](/en/documents/overview/gilenya-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-390)
+[Other languages (22)](#file-language-dropdown-260)
 
 български (BG) (116.55 KB - PDF)
 
@@ -392,17 +390,17 @@ English (EN) (1.4 MB - PDF)
 
 Gilenya : EPAR - Product Information
 
-English (EN) (414.47 KB - PDF)
+English (EN) (531.43 KB - PDF)
 
 **First published:** 30/03/2011
 
-**Last updated:** 18/12/2024
+**Last updated:** 03/02/2026
 
 [View](/en/documents/product-information/gilenya-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-787)
+[Other languages (24)](#file-language-dropdown-827)
 
-български (BG) (608.38 KB - PDF)
+български (BG) (723.01 KB - PDF)
 
 **First published:**
 
@@ -410,11 +408,11 @@ English (EN) (414.47 KB - PDF)
 
 **Last updated:**
 
-18/12/2024
+03/02/2026
 
 [View](/bg/documents/product-information/gilenya-epar-product-information_bg.pdf)
 
-español (ES) (463.74 KB - PDF)
+español (ES) (640.83 KB - PDF)
 
 **First published:**
 
@@ -422,11 +420,11 @@ español (ES) (463.74 KB - PDF)
 
 **Last updated:**
 
-18/12/2024
+03/02/2026
 
 [View](/es/documents/product-information/gilenya-epar-product-information_es.pdf)
 
-čeština (CS) (560.98 KB - PDF)
+čeština (CS) (680.52 KB - PDF)
 
 **First published:**
 
@@ -434,11 +432,11 @@ español (ES) (463.74 KB - PDF)
 
 **Last updated:**
 
-18/12/2024
+03/02/2026
 
 [View](/cs/documents/product-information/gilenya-epar-product-information_cs.pdf)
 
-dansk (DA) (459.46 KB - PDF)
+dansk (DA) (649.37 KB - PDF)
 
 **First published:**
 
@@ -446,11 +444,11 @@ dansk (DA) (459.46 KB - PDF)
 
 **Last updated:**
 
-18/12/2024
+03/02/2026
 
 [View](/da/documents/product-information/gilenya-epar-product-information_da.pdf)
 
-Deutsch (DE) (485.65 KB - PDF)
+Deutsch (DE) (664.6 KB - PDF)
 
 **First published:**
 
@@ -458,11 +456,11 @@ Deutsch (DE) (485.65 KB - PDF)
 
 **Last updated:**
 
-18/12/2024
+03/02/2026
 
 [View](/de/documents/product-information/gilenya-epar-product-information_de.pdf)
 
-eesti keel (ET) (492.63 KB - PDF)
+eesti keel (ET) (626.04 KB - PDF)
 
 **First published:**
 
@@ -470,11 +468,11 @@ eesti keel (ET) (492.63 KB - PDF)
 
 **Last updated:**
 
-18/12/2024
+03/02/2026
 
 [View](/et/documents/product-information/gilenya-epar-product-information_et.pdf)
 
-ελληνικά (EL) (606.75 KB - PDF)
+ελληνικά (EL) (751.83 KB - PDF)
 
 **First published:**
 
@@ -482,11 +480,11 @@ eesti keel (ET) (492.63 KB - PDF)
 
 **Last updated:**
 
-18/12/2024
+03/02/2026
 
 [View](/el/documents/product-information/gilenya-epar-product-information_el.pdf)
 
-français (FR) (567.24 KB - PDF)
+français (FR) (691.34 KB - PDF)
 
 **First published:**
 
@@ -494,11 +492,11 @@ français (FR) (567.24 KB - PDF)
 
 **Last updated:**
 
-18/12/2024
+03/02/2026
 
 [View](/fr/documents/product-information/gilenya-epar-product-information_fr.pdf)
 
-hrvatski (HR) (547.39 KB - PDF)
+hrvatski (HR) (663.61 KB - PDF)
 
 **First published:**
 
@@ -506,11 +504,11 @@ hrvatski (HR) (547.39 KB - PDF)
 
 **Last updated:**
 
-18/12/2024
+03/02/2026
 
 [View](/hr/documents/product-information/gilenya-epar-product-information_hr.pdf)
 
-íslenska (IS) (456.46 KB - PDF)
+íslenska (IS) (616.43 KB - PDF)
 
 **First published:**
 
@@ -518,11 +516,11 @@ hrvatski (HR) (547.39 KB - PDF)
 
 **Last updated:**
 
-18/12/2024
+03/02/2026
 
 [View](/is/documents/product-information/gilenya-epar-product-information_is.pdf)
 
-italiano (IT) (481.27 KB - PDF)
+italiano (IT) (647.66 KB - PDF)
 
 **First published:**
 
@@ -530,11 +528,11 @@ italiano (IT) (481.27 KB - PDF)
 
 **Last updated:**
 
-18/12/2024
+03/02/2026
 
 [View](/it/documents/product-information/gilenya-epar-product-information_it.pdf)
 
-latviešu valoda (LV) (540.03 KB - PDF)
+latviešu valoda (LV) (654.18 KB - PDF)
 
 **First published:**
 
@@ -542,11 +540,11 @@ latviešu valoda (LV) (540.03 KB - PDF)
 
 **Last updated:**
 
-18/12/2024
+03/02/2026
 
 [View](/lv/documents/product-information/gilenya-epar-product-information_lv.pdf)
 
-lietuvių kalba (LT) (575.5 KB - PDF)
+lietuvių kalba (LT) (709.61 KB - PDF)
 
 **First published:**
 
@@ -554,11 +552,11 @@ lietuvių kalba (LT) (575.5 KB - PDF)
 
 **Last updated:**
 
-18/12/2024
+03/02/2026
 
 [View](/lt/documents/product-information/gilenya-epar-product-information_lt.pdf)
 
-magyar (HU) (553.68 KB - PDF)
+magyar (HU) (674.81 KB - PDF)
 
 **First published:**
 
@@ -566,11 +564,11 @@ magyar (HU) (553.68 KB - PDF)
 
 **Last updated:**
 
-18/12/2024
+03/02/2026
 
 [View](/hu/documents/product-information/gilenya-epar-product-information_hu.pdf)
 
-Malti (MT) (596.26 KB - PDF)
+Malti (MT) (775.57 KB - PDF)
 
 **First published:**
 
@@ -578,11 +576,11 @@ Malti (MT) (596.26 KB - PDF)
 
 **Last updated:**
 
-18/12/2024
+03/02/2026
 
 [View](/mt/documents/product-information/gilenya-epar-product-information_mt.pdf)
 
-Nederlands (NL) (469.63 KB - PDF)
+Nederlands (NL) (622.99 KB - PDF)
 
 **First published:**
 
@@ -590,11 +588,11 @@ Nederlands (NL) (469.63 KB - PDF)
 
 **Last updated:**
 
-18/12/2024
+03/02/2026
 
 [View](/nl/documents/product-information/gilenya-epar-product-information_nl.pdf)
 
-norsk (NO) (448.46 KB - PDF)
+norsk (NO) (604.73 KB - PDF)
 
 **First published:**
 
@@ -602,11 +600,11 @@ norsk (NO) (448.46 KB - PDF)
 
 **Last updated:**
 
-18/12/2024
+03/02/2026
 
 [View](/no/documents/product-information/gilenya-epar-product-information_no.pdf)
 
-polski (PL) (593.52 KB - PDF)
+polski (PL) (707.49 KB - PDF)
 
 **First published:**
 
@@ -614,11 +612,11 @@ polski (PL) (593.52 KB - PDF)
 
 **Last updated:**
 
-18/12/2024
+03/02/2026
 
 [View](/pl/documents/product-information/gilenya-epar-product-information_pl.pdf)
 
-português (PT) (447.88 KB - PDF)
+português (PT) (627.87 KB - PDF)
 
 **First published:**
 
@@ -626,11 +624,11 @@ português (PT) (447.88 KB - PDF)
 
 **Last updated:**
 
-18/12/2024
+03/02/2026
 
 [View](/pt/documents/product-information/gilenya-epar-product-information_pt.pdf)
 
-română (RO) (596.93 KB - PDF)
+română (RO) (696.06 KB - PDF)
 
 **First published:**
 
@@ -638,11 +636,11 @@ română (RO) (596.93 KB - PDF)
 
 **Last updated:**
 
-18/12/2024
+03/02/2026
 
 [View](/ro/documents/product-information/gilenya-epar-product-information_ro.pdf)
 
-slovenčina (SK) (554.75 KB - PDF)
+slovenčina (SK) (683.83 KB - PDF)
 
 **First published:**
 
@@ -650,11 +648,11 @@ slovenčina (SK) (554.75 KB - PDF)
 
 **Last updated:**
 
-18/12/2024
+03/02/2026
 
 [View](/sk/documents/product-information/gilenya-epar-product-information_sk.pdf)
 
-slovenščina (SL) (552.48 KB - PDF)
+slovenščina (SL) (663.73 KB - PDF)
 
 **First published:**
 
@@ -662,11 +660,11 @@ slovenščina (SL) (552.48 KB - PDF)
 
 **Last updated:**
 
-18/12/2024
+03/02/2026
 
 [View](/sl/documents/product-information/gilenya-epar-product-information_sl.pdf)
 
-Suomi (FI) (476.82 KB - PDF)
+Suomi (FI) (635.54 KB - PDF)
 
 **First published:**
 
@@ -674,11 +672,11 @@ Suomi (FI) (476.82 KB - PDF)
 
 **Last updated:**
 
-18/12/2024
+03/02/2026
 
 [View](/fi/documents/product-information/gilenya-epar-product-information_fi.pdf)
 
-svenska (SV) (458.94 KB - PDF)
+svenska (SV) (606.43 KB - PDF)
 
 **First published:**
 
@@ -686,11 +684,11 @@ svenska (SV) (458.94 KB - PDF)
 
 **Last updated:**
 
-18/12/2024
+03/02/2026
 
 [View](/sv/documents/product-information/gilenya-epar-product-information_sv.pdf)
 
-**Latest procedure affecting product information:** VR/0000257758 04/09/2025
+**Latest procedure affecting product information:** VR/0000323955 02/02/2026
 
 icon globe
 
@@ -716,7 +714,7 @@ English (EN) (47.06 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/gilenya-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-589)
+[Other languages (24)](#file-language-dropdown-49)
 
 български (BG) (59.1 KB - PDF)
 
@@ -1016,7 +1014,7 @@ English (EN) (211.72 KB - PDF)
 
 [View](/en/documents/conditions-member-states/gilenya-epar-conditions-imposed-member-states-safe-and-effective-use-annex-iv_en.pdf)
 
-[Other languages (23)](#file-language-dropdown-146)
+[Other languages (23)](#file-language-dropdown-27)
 
 български (BG) (231.47 KB - PDF)
 
@@ -1320,7 +1318,7 @@ Novartis Europharm Limited
 
 Vista Building
 
-Opinion adopted 20/01/2011 Marketing authorisation issued 17/03/2011 Revision 40
+Opinion adopted 20/01/2011 Marketing authorisation issued 17/03/2011 Revision 41
 
 ## Assessment history
 
@@ -1332,9 +1330,11 @@ Collapse section
 
 Gilenya : EPAR - Procedural steps taken and scientific information after authorisation
 
-English (EN) (145.76 KB - PDF)
+English (EN) (791.45 KB - PDF)
 
 **First published:** 23/09/2025
+
+**Last updated:** 03/02/2026
 
 [View](/en/documents/procedural-steps-after/gilenya-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf)
 
@@ -1671,7 +1671,7 @@ English (EN) (162.49 KB - PDF)
 
 - [Medicines](https://www.ema.europa.eu/en/search?f%5B0%5D=ema_search_topics%3A61)
 
-**This page was last updated on** 02/12/2025
+**This page was last updated on** 03/02/2026
 
 ## Share this page
 

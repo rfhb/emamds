@@ -1,19 +1,19 @@
 ---
-document_datetime: 2025-12-29 12:02:33
+document_datetime: 2026-02-03 09:00:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/galliapharm.html
 document_name: galliapharm.html
 version: success
-processing_time: 0.1018846
-conversion_datetime: 2025-12-30 12:08:37.122274
+processing_time: 0.1140675
+conversion_datetime: 2026-02-04 15:12:57.575387
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.66.0
-  docling-core: 2.57.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
-  python: cpython-313 (3.13.11)
+  docling-serve: 1.11.0
+  docling-jobkit: 1.9.1
+  docling: 2.72.0
+  docling-core: 2.63.0
+  docling-ibm-models: 3.11.0
+  docling-parse: 4.7.3
+  python: cpython-313 (3.13.12)
   plaform: macOS-26.2-arm64-arm-64bit-Mach-O
 ---
 # GalliaPharm
@@ -25,8 +25,6 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 gallium (68Ga) chloride / germanium (68Ge) chloride Medicine Human Authorised
-
-On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -99,7 +97,7 @@ English (EN) (120.4 KB - PDF)
 
 [View](/en/documents/overview/galliapharm-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-97)
+[Other languages (22)](#file-language-dropdown-771)
 
 български (BG) (149.46 KB - PDF)
 
@@ -289,75 +287,109 @@ English (EN) (1.7 MB - PDF)
 
 GalliaPharm : EPAR - Product Information
 
-English (EN) (1.51 MB - PDF)
+English (EN) (1.47 MB - PDF)
 
 **First published:** 22/08/2024
 
+**Last updated:** 03/02/2026
+
 [View](/en/documents/product-information/galliapharm-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-979)
+[Other languages (24)](#file-language-dropdown-209)
 
-български (BG) (1.56 MB - PDF)
+български (BG) (1.54 MB - PDF)
 
 **First published:**
 
 22/08/2024
+
+**Last updated:**
+
+03/02/2026
 
 [View](/bg/documents/product-information/galliapharm-epar-product-information_bg.pdf)
 
-español (ES) (1.31 MB - PDF)
+español (ES) (1.29 MB - PDF)
 
 **First published:**
 
 22/08/2024
+
+**Last updated:**
+
+03/02/2026
 
 [View](/es/documents/product-information/galliapharm-epar-product-information_es.pdf)
 
-čeština (CS) (1.46 MB - PDF)
+čeština (CS) (1.4 MB - PDF)
 
 **First published:**
 
 22/08/2024
+
+**Last updated:**
+
+03/02/2026
 
 [View](/cs/documents/product-information/galliapharm-epar-product-information_cs.pdf)
 
-dansk (DA) (1.33 MB - PDF)
+dansk (DA) (1.3 MB - PDF)
 
 **First published:**
 
 22/08/2024
+
+**Last updated:**
+
+03/02/2026
 
 [View](/da/documents/product-information/galliapharm-epar-product-information_da.pdf)
 
-Deutsch (DE) (1.31 MB - PDF)
+Deutsch (DE) (1.32 MB - PDF)
 
 **First published:**
 
 22/08/2024
+
+**Last updated:**
+
+03/02/2026
 
 [View](/de/documents/product-information/galliapharm-epar-product-information_de.pdf)
 
-eesti keel (ET) (1.34 MB - PDF)
+eesti keel (ET) (1.31 MB - PDF)
 
 **First published:**
 
 22/08/2024
+
+**Last updated:**
+
+03/02/2026
 
 [View](/et/documents/product-information/galliapharm-epar-product-information_et.pdf)
 
-ελληνικά (EL) (1.53 MB - PDF)
+ελληνικά (EL) (1.5 MB - PDF)
 
 **First published:**
 
 22/08/2024
+
+**Last updated:**
+
+03/02/2026
 
 [View](/el/documents/product-information/galliapharm-epar-product-information_el.pdf)
 
-français (FR) (1.32 MB - PDF)
+français (FR) (1.33 MB - PDF)
 
 **First published:**
 
 22/08/2024
+
+**Last updated:**
+
+03/02/2026
 
 [View](/fr/documents/product-information/galliapharm-epar-product-information_fr.pdf)
 
@@ -367,109 +399,165 @@ hrvatski (HR) (1.38 MB - PDF)
 
 22/08/2024
 
+**Last updated:**
+
+03/02/2026
+
 [View](/hr/documents/product-information/galliapharm-epar-product-information_hr.pdf)
 
-íslenska (IS) (1.28 MB - PDF)
+íslenska (IS) (1.25 MB - PDF)
 
 **First published:**
 
 22/08/2024
+
+**Last updated:**
+
+03/02/2026
 
 [View](/is/documents/product-information/galliapharm-epar-product-information_is.pdf)
 
-italiano (IT) (1.36 MB - PDF)
+italiano (IT) (1.32 MB - PDF)
 
 **First published:**
 
 22/08/2024
+
+**Last updated:**
+
+03/02/2026
 
 [View](/it/documents/product-information/galliapharm-epar-product-information_it.pdf)
 
-latviešu valoda (LV) (1.42 MB - PDF)
+latviešu valoda (LV) (1.4 MB - PDF)
 
 **First published:**
 
 22/08/2024
+
+**Last updated:**
+
+03/02/2026
 
 [View](/lv/documents/product-information/galliapharm-epar-product-information_lv.pdf)
 
-lietuvių kalba (LT) (1.4 MB - PDF)
+lietuvių kalba (LT) (1.38 MB - PDF)
 
 **First published:**
 
 22/08/2024
+
+**Last updated:**
+
+03/02/2026
 
 [View](/lt/documents/product-information/galliapharm-epar-product-information_lt.pdf)
 
-magyar (HU) (1.55 MB - PDF)
+magyar (HU) (1.52 MB - PDF)
 
 **First published:**
 
 22/08/2024
+
+**Last updated:**
+
+03/02/2026
 
 [View](/hu/documents/product-information/galliapharm-epar-product-information_hu.pdf)
 
-Malti (MT) (1.51 MB - PDF)
+Malti (MT) (1.49 MB - PDF)
 
 **First published:**
 
 22/08/2024
+
+**Last updated:**
+
+03/02/2026
 
 [View](/mt/documents/product-information/galliapharm-epar-product-information_mt.pdf)
 
-Nederlands (NL) (1.37 MB - PDF)
+Nederlands (NL) (1.35 MB - PDF)
 
 **First published:**
 
 22/08/2024
+
+**Last updated:**
+
+03/02/2026
 
 [View](/nl/documents/product-information/galliapharm-epar-product-information_nl.pdf)
 
-norsk (NO) (1.35 MB - PDF)
+norsk (NO) (1.27 MB - PDF)
 
 **First published:**
 
 22/08/2024
+
+**Last updated:**
+
+03/02/2026
 
 [View](/no/documents/product-information/galliapharm-epar-product-information_no.pdf)
 
-polski (PL) (1.52 MB - PDF)
+polski (PL) (1.46 MB - PDF)
 
 **First published:**
 
 22/08/2024
+
+**Last updated:**
+
+03/02/2026
 
 [View](/pl/documents/product-information/galliapharm-epar-product-information_pl.pdf)
 
-português (PT) (1.36 MB - PDF)
+português (PT) (1.29 MB - PDF)
 
 **First published:**
 
 22/08/2024
+
+**Last updated:**
+
+03/02/2026
 
 [View](/pt/documents/product-information/galliapharm-epar-product-information_pt.pdf)
 
-română (RO) (1.51 MB - PDF)
+română (RO) (1.45 MB - PDF)
 
 **First published:**
 
 22/08/2024
+
+**Last updated:**
+
+03/02/2026
 
 [View](/ro/documents/product-information/galliapharm-epar-product-information_ro.pdf)
 
-slovenčina (SK) (1.49 MB - PDF)
+slovenčina (SK) (1.44 MB - PDF)
 
 **First published:**
 
 22/08/2024
+
+**Last updated:**
+
+03/02/2026
 
 [View](/sk/documents/product-information/galliapharm-epar-product-information_sk.pdf)
 
-slovenščina (SL) (1.46 MB - PDF)
+slovenščina (SL) (1.4 MB - PDF)
 
 **First published:**
 
 22/08/2024
+
+**Last updated:**
+
+03/02/2026
 
 [View](/sl/documents/product-information/galliapharm-epar-product-information_sl.pdf)
 
@@ -479,17 +567,25 @@ Suomi (FI) (1.27 MB - PDF)
 
 22/08/2024
 
+**Last updated:**
+
+03/02/2026
+
 [View](/fi/documents/product-information/galliapharm-epar-product-information_fi.pdf)
 
-svenska (SV) (1.35 MB - PDF)
+svenska (SV) (1.27 MB - PDF)
 
 **First published:**
 
 22/08/2024
 
+**Last updated:**
+
+03/02/2026
+
 [View](/sv/documents/product-information/galliapharm-epar-product-information_sv.pdf)
 
-01/08/2024
+**Latest procedure affecting product information:** VR/0000323795 02/02/2026
 
 icon globe
 
@@ -513,7 +609,7 @@ English (EN) (68.5 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/galliapharm-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-346)
+[Other languages (24)](#file-language-dropdown-816)
 
 български (BG) (73.29 KB - PDF)
 
@@ -739,9 +835,23 @@ Eckert &amp; Ziegler Radiopharma GmbH
 
 Robert-Rossle-Str. 10 D-13125 Berlin Germany
 
-Opinion adopted 30/05/2024 Marketing authorisation issued 01/08/2024
+Opinion adopted 30/05/2024 Marketing authorisation issued 01/08/2024 Revision 1
 
 ## Assessment history
+
+Expand section
+
+Collapse section
+
+## Changes since initial authorisation of medicine
+
+GalliaPharm : EPAR - Procedural steps taken and scientific information after the authorisation
+
+English (EN) (145.15 KB - PDF)
+
+**First published:** 03/02/2026
+
+[View](/en/documents/procedural-steps-after/galliapharm-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf)
 
 ## Initial marketing authorisation documents
 
@@ -771,7 +881,7 @@ English (EN) (183.61 KB - PDF)
 
 [Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 27-30 May 2024](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-27-30-may-2024) 31/05/2024
 
-**This page was last updated on** 22/08/2024
+**This page was last updated on** 03/02/2026
 
 ## Share this page
 

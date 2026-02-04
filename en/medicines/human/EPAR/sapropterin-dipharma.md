@@ -1,19 +1,19 @@
 ---
-document_datetime: 2025-12-29 14:36:23
+document_datetime: 2026-02-03 15:05:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/sapropterin-dipharma.html
 document_name: sapropterin-dipharma.html
 version: success
-processing_time: 0.1071044
-conversion_datetime: 2025-12-31 01:53:40.72487
+processing_time: 0.1201745
+conversion_datetime: 2026-02-04 15:08:19.908365
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.66.0
-  docling-core: 2.57.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
-  python: cpython-313 (3.13.11)
+  docling-serve: 1.11.0
+  docling-jobkit: 1.9.1
+  docling: 2.72.0
+  docling-core: 2.63.0
+  docling-ibm-models: 3.11.0
+  docling-parse: 4.7.3
+  python: cpython-313 (3.13.12)
   plaform: macOS-26.2-arm64-arm-64bit-Mach-O
 ---
 # Sapropterin Dipharma
@@ -25,8 +25,6 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 sapropterin Medicine Human Authorised
-
-On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -105,7 +103,7 @@ English (EN) (146.65 KB - PDF)
 
 [View](/en/documents/overview/sapropterin-dipharma-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-306)
+[Other languages (22)](#file-language-dropdown-313)
 
 български (BG) (157.95 KB - PDF)
 
@@ -297,17 +295,17 @@ English (EN) (117.56 KB - PDF)
 
 Sapropterin Dipharma : EPAR - Product Information
 
-English (EN) (506.4 KB - PDF)
+English (EN) (506.79 KB - PDF)
 
 **First published:** 16/03/2022
 
-**Last updated:** 20/02/2025
+**Last updated:** 03/02/2026
 
 [View](/en/documents/product-information/sapropterin-dipharma-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-232)
+[Other languages (24)](#file-language-dropdown-570)
 
-български (BG) (637.15 KB - PDF)
+български (BG) (638 KB - PDF)
 
 **First published:**
 
@@ -315,11 +313,11 @@ English (EN) (506.4 KB - PDF)
 
 **Last updated:**
 
-20/02/2025
+03/02/2026
 
 [View](/bg/documents/product-information/sapropterin-dipharma-epar-product-information_bg.pdf)
 
-español (ES) (540.82 KB - PDF)
+español (ES) (541.16 KB - PDF)
 
 **First published:**
 
@@ -327,11 +325,11 @@ español (ES) (540.82 KB - PDF)
 
 **Last updated:**
 
-20/02/2025
+03/02/2026
 
 [View](/es/documents/product-information/sapropterin-dipharma-epar-product-information_es.pdf)
 
-čeština (CS) (539.53 KB - PDF)
+čeština (CS) (538.3 KB - PDF)
 
 **First published:**
 
@@ -339,11 +337,11 @@ español (ES) (540.82 KB - PDF)
 
 **Last updated:**
 
-20/02/2025
+03/02/2026
 
 [View](/cs/documents/product-information/sapropterin-dipharma-epar-product-information_cs.pdf)
 
-dansk (DA) (480.04 KB - PDF)
+dansk (DA) (479.92 KB - PDF)
 
 **First published:**
 
@@ -351,11 +349,11 @@ dansk (DA) (480.04 KB - PDF)
 
 **Last updated:**
 
-20/02/2025
+03/02/2026
 
 [View](/da/documents/product-information/sapropterin-dipharma-epar-product-information_da.pdf)
 
-Deutsch (DE) (596.68 KB - PDF)
+Deutsch (DE) (597.32 KB - PDF)
 
 **First published:**
 
@@ -363,11 +361,11 @@ Deutsch (DE) (596.68 KB - PDF)
 
 **Last updated:**
 
-20/02/2025
+03/02/2026
 
 [View](/de/documents/product-information/sapropterin-dipharma-epar-product-information_de.pdf)
 
-eesti keel (ET) (523.2 KB - PDF)
+eesti keel (ET) (559.81 KB - PDF)
 
 **First published:**
 
@@ -375,11 +373,11 @@ eesti keel (ET) (523.2 KB - PDF)
 
 **Last updated:**
 
-20/02/2025
+03/02/2026
 
 [View](/et/documents/product-information/sapropterin-dipharma-epar-product-information_et.pdf)
 
-ελληνικά (EL) (609.96 KB - PDF)
+ελληνικά (EL) (612.89 KB - PDF)
 
 **First published:**
 
@@ -387,11 +385,11 @@ eesti keel (ET) (523.2 KB - PDF)
 
 **Last updated:**
 
-20/02/2025
+03/02/2026
 
 [View](/el/documents/product-information/sapropterin-dipharma-epar-product-information_el.pdf)
 
-français (FR) (572.29 KB - PDF)
+français (FR) (573.2 KB - PDF)
 
 **First published:**
 
@@ -399,11 +397,11 @@ français (FR) (572.29 KB - PDF)
 
 **Last updated:**
 
-20/02/2025
+03/02/2026
 
 [View](/fr/documents/product-information/sapropterin-dipharma-epar-product-information_fr.pdf)
 
-hrvatski (HR) (568.33 KB - PDF)
+hrvatski (HR) (567.22 KB - PDF)
 
 **First published:**
 
@@ -411,11 +409,11 @@ hrvatski (HR) (568.33 KB - PDF)
 
 **Last updated:**
 
-20/02/2025
+03/02/2026
 
 [View](/hr/documents/product-information/sapropterin-dipharma-epar-product-information_hr.pdf)
 
-íslenska (IS) (521.65 KB - PDF)
+íslenska (IS) (524.11 KB - PDF)
 
 **First published:**
 
@@ -423,11 +421,11 @@ hrvatski (HR) (568.33 KB - PDF)
 
 **Last updated:**
 
-20/02/2025
+03/02/2026
 
 [View](/is/documents/product-information/sapropterin-dipharma-epar-product-information_is.pdf)
 
-italiano (IT) (646.72 KB - PDF)
+italiano (IT) (649.09 KB - PDF)
 
 **First published:**
 
@@ -435,11 +433,11 @@ italiano (IT) (646.72 KB - PDF)
 
 **Last updated:**
 
-20/02/2025
+03/02/2026
 
 [View](/it/documents/product-information/sapropterin-dipharma-epar-product-information_it.pdf)
 
-latviešu valoda (LV) (584.79 KB - PDF)
+latviešu valoda (LV) (586.52 KB - PDF)
 
 **First published:**
 
@@ -447,11 +445,11 @@ latviešu valoda (LV) (584.79 KB - PDF)
 
 **Last updated:**
 
-20/02/2025
+03/02/2026
 
 [View](/lv/documents/product-information/sapropterin-dipharma-epar-product-information_lv.pdf)
 
-lietuvių kalba (LT) (572.85 KB - PDF)
+lietuvių kalba (LT) (570.59 KB - PDF)
 
 **First published:**
 
@@ -459,11 +457,11 @@ lietuvių kalba (LT) (572.85 KB - PDF)
 
 **Last updated:**
 
-20/02/2025
+03/02/2026
 
 [View](/lt/documents/product-information/sapropterin-dipharma-epar-product-information_lt.pdf)
 
-magyar (HU) (627.12 KB - PDF)
+magyar (HU) (626.03 KB - PDF)
 
 **First published:**
 
@@ -471,11 +469,11 @@ magyar (HU) (627.12 KB - PDF)
 
 **Last updated:**
 
-20/02/2025
+03/02/2026
 
 [View](/hu/documents/product-information/sapropterin-dipharma-epar-product-information_hu.pdf)
 
-Malti (MT) (644.14 KB - PDF)
+Malti (MT) (642.17 KB - PDF)
 
 **First published:**
 
@@ -483,11 +481,11 @@ Malti (MT) (644.14 KB - PDF)
 
 **Last updated:**
 
-20/02/2025
+03/02/2026
 
 [View](/mt/documents/product-information/sapropterin-dipharma-epar-product-information_mt.pdf)
 
-Nederlands (NL) (549.46 KB - PDF)
+Nederlands (NL) (551.84 KB - PDF)
 
 **First published:**
 
@@ -495,11 +493,11 @@ Nederlands (NL) (549.46 KB - PDF)
 
 **Last updated:**
 
-20/02/2025
+03/02/2026
 
 [View](/nl/documents/product-information/sapropterin-dipharma-epar-product-information_nl.pdf)
 
-norsk (NO) (473.94 KB - PDF)
+norsk (NO) (472.98 KB - PDF)
 
 **First published:**
 
@@ -507,11 +505,11 @@ norsk (NO) (473.94 KB - PDF)
 
 **Last updated:**
 
-20/02/2025
+03/02/2026
 
 [View](/no/documents/product-information/sapropterin-dipharma-epar-product-information_no.pdf)
 
-polski (PL) (623.84 KB - PDF)
+polski (PL) (624.86 KB - PDF)
 
 **First published:**
 
@@ -519,11 +517,11 @@ polski (PL) (623.84 KB - PDF)
 
 **Last updated:**
 
-20/02/2025
+03/02/2026
 
 [View](/pl/documents/product-information/sapropterin-dipharma-epar-product-information_pl.pdf)
 
-português (PT) (513.22 KB - PDF)
+português (PT) (513.08 KB - PDF)
 
 **First published:**
 
@@ -531,11 +529,11 @@ português (PT) (513.22 KB - PDF)
 
 **Last updated:**
 
-20/02/2025
+03/02/2026
 
 [View](/pt/documents/product-information/sapropterin-dipharma-epar-product-information_pt.pdf)
 
-română (RO) (610.63 KB - PDF)
+română (RO) (612.35 KB - PDF)
 
 **First published:**
 
@@ -543,11 +541,11 @@ română (RO) (610.63 KB - PDF)
 
 **Last updated:**
 
-20/02/2025
+03/02/2026
 
 [View](/ro/documents/product-information/sapropterin-dipharma-epar-product-information_ro.pdf)
 
-slovenčina (SK) (601.98 KB - PDF)
+slovenčina (SK) (601.88 KB - PDF)
 
 **First published:**
 
@@ -555,11 +553,11 @@ slovenčina (SK) (601.98 KB - PDF)
 
 **Last updated:**
 
-20/02/2025
+03/02/2026
 
 [View](/sk/documents/product-information/sapropterin-dipharma-epar-product-information_sk.pdf)
 
-slovenščina (SL) (590.82 KB - PDF)
+slovenščina (SL) (587.23 KB - PDF)
 
 **First published:**
 
@@ -567,11 +565,11 @@ slovenščina (SL) (590.82 KB - PDF)
 
 **Last updated:**
 
-20/02/2025
+03/02/2026
 
 [View](/sl/documents/product-information/sapropterin-dipharma-epar-product-information_sl.pdf)
 
-Suomi (FI) (501.03 KB - PDF)
+Suomi (FI) (500.82 KB - PDF)
 
 **First published:**
 
@@ -579,11 +577,11 @@ Suomi (FI) (501.03 KB - PDF)
 
 **Last updated:**
 
-20/02/2025
+03/02/2026
 
 [View](/fi/documents/product-information/sapropterin-dipharma-epar-product-information_fi.pdf)
 
-svenska (SV) (501.4 KB - PDF)
+svenska (SV) (501.34 KB - PDF)
 
 **First published:**
 
@@ -591,11 +589,11 @@ svenska (SV) (501.4 KB - PDF)
 
 **Last updated:**
 
-20/02/2025
+03/02/2026
 
 [View](/sv/documents/product-information/sapropterin-dipharma-epar-product-information_sv.pdf)
 
-**Latest procedure affecting product information:** VR/0000247063 20/02/2025
+**Latest procedure affecting product information:** VR/0000319636 18/12/2025
 
 icon globe
 
@@ -619,7 +617,7 @@ English (EN) (41.21 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/sapropterin-dipharma-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (25)](#file-language-dropdown-848)
+[Other languages (25)](#file-language-dropdown-330)
 
 български (BG) (57.17 KB - PDF)
 
@@ -849,7 +847,7 @@ Dipharma Arzneimittel GmbH
 
 Offheimer Weg 33
 
-Opinion adopted 16/12/2021 Marketing authorisation issued 16/02/2022 Revision 6
+Opinion adopted 16/12/2021 Marketing authorisation issued 16/02/2022 Revision 7
 
 ## Assessment history
 
@@ -861,11 +859,11 @@ Collapse section
 
 Sapropterin Dipharma : EPAR - Procedural steps taken and scientific information after authorisation
 
-English (EN) (147.85 KB - PDF)
+English (EN) (125.45 KB - PDF)
 
 **First published:** 20/02/2025
 
-**Last updated:** 17/10/2025
+**Last updated:** 03/02/2026
 
 [View](/en/documents/procedural-steps-after/sapropterin-dipharma-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf)
 
@@ -909,7 +907,7 @@ English (EN) (156.09 KB - PDF)
 
 [Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 13-16 December 2021](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-13-16-december-2021) 17/12/2021
 
-**This page was last updated on** 17/10/2025
+**This page was last updated on** 03/02/2026
 
 ## Share this page
 

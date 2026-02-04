@@ -1,20 +1,20 @@
 ---
-document_datetime: 2024-08-22 13:49:26
-document_pages: 99
+document_datetime: 2026-02-03 09:51:29
+document_pages: 97
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/galliapharm-epar-product-information_en.pdf
 document_name: galliapharm-epar-product-information_en.pdf
 version: success
-processing_time: 28.0881963
-conversion_datetime: 2025-12-14 14:31:38.638276
+processing_time: 25.887387
+conversion_datetime: 2026-02-04 15:08:58.335813
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.64.1
-  docling-core: 2.55.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
-  python: cpython-313 (3.13.11)
-  plaform: macOS-26.1-arm64-arm-64bit-Mach-O
+  docling-serve: 1.11.0
+  docling-jobkit: 1.9.1
+  docling: 2.72.0
+  docling-core: 2.63.0
+  docling-ibm-models: 3.11.0
+  docling-parse: 4.7.3
+  python: cpython-313 (3.13.12)
+  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
 ---
 ## ANNEX I
 
@@ -60,9 +60,11 @@ Data derived from nudat (www.nndc.bnl.gov)
 
 5 ml of the eluate from the radionuclide generator with highest strength (3.70 GBq) contains a potential maximum of 3.70 GBq of  68 Ga and 0.000037 GBq (37 kBq) of  68 Ge (0.001 % breakthrough in the eluate). This corresponds to 2.4 ng of gallium and 0.14 ng of germanium.
 
+The quantity of gallium ( 68 Ga) chloride solution for radiolabelling Ph.Eur. that may be eluted from the radionuclide generator is dependent on the quantity of germanium ( 68 Ge) present on the date/time of elution, the volume of eluent used (typically 5 ml), and the lapsed time since the previous elution. If
+
 <div style=\"page-break-after: always\"></div>
 
-The quantity of gallium ( 68 Ga) chloride solution for radiolabelling Ph.Eur. that may be eluted from the radionuclide generator is dependent on the quantity of germanium ( 68 Ge) present on the date/time of elution, the volume of eluent used (typically 5 ml), and the lapsed time since the previous elution. If mother and daughter nuclides are in equilibrium, more than 60 % of the present gallium ( 68 Ga) activity can be eluted.
+mother and daughter nuclides are in equilibrium, more than 60 % of the present gallium ( 68 Ga) activity can be eluted.
 
 Table 2 summarises the activity on the radionuclide generator, the minimum activities obtained by elution at the start of the shelf-life and at the end of the shelf-life as well as the potential maxima of 68 Ga and  68 Ge in the eluate.
 
@@ -79,12 +81,6 @@ Table 2: Activity on the radionuclide generator and activity obtained by elution
 |            3.33 |                                                                          3.33 |                                                                        0.82 | NLT 2.00                                             | 3.33 / 2.20                                                  | 33.3 / 0.13                                                  | NLT 0.49                                          |
 |            3.7  |                                                                          3.7  |                                                                        0.91 | NLT 2.22                                             | 3.70 / 2.45                                                  | 37.0 / 0.14                                                  | NLT 0.55                                          |
 
-NLT = not less than
-
-* The actual activity inside the radionuclide generator may deviate by ± 10 % from the nominal strength
-
-** In equilibrium
-
 More detailed explanations and examples for elutable activities at various time points are given in section 12.
 
 For the full list of excipients, see section 6.1.
@@ -97,13 +93,13 @@ The radionuclide generator is presented as an unstained stainless-steel case wit
 
 The radionuclide generator provides after elution a sterile gallium ( 68 Ga) chloride solution for radiolabelling. The solution is clear and colourless.
 
-<div style=\"page-break-after: always\"></div>
-
 ## 4. CLINICAL PARTICULARS
 
 ## 4.1 Therapeutic indications
 
 This radionuclide generator is not intended for direct use in patients.
+
+<div style=\"page-break-after: always\"></div>
 
 The sterile eluate (gallium ( 68 Ga) chloride solution) from the radionuclide generator GalliaPharm is indicated for in vitro radiolabelling of various kits for radiopharmaceutical preparation developed and approved for radiolabelling with such eluate, to be used for positron emission tomography (PET) imaging.
 
@@ -137,13 +133,11 @@ For information on contraindications to particular 68 Ga-labelled radiopharmaceu
 
 Gallium ( 68 Ga) chloride solution for radiolabelling is not to be administered directly to the patient but is used for in vitro radiolabelling of various kits for radiopharmaceutical preparation.
 
-Unintended direct administration of gallium ( 68 Ga) chloride solution may lead to increased radiation exposure to patients (see sections 4.9, 5.2, and 11). Accidental administration of gallium ( 68 Ga)
-
-<div style=\"page-break-after: always\"></div>
-
-chloride solution for radiolabelling containing 0.1 mol/l hydrochloric acid may also cause local venous irritation and, in case of paravenous injection, tissue necrosis. The catheter or affected area should be irrigated with 9 mg/ml (0.9 %) sodium chloride solution for injection.
+Unintended direct administration of gallium ( 68 Ga) chloride solution may lead to increased radiation exposure to patients (see sections 4.9, 5.2, and 11). Accidental administration of gallium ( 68 Ga) chloride solution for radiolabelling containing 0.1 mol/l hydrochloric acid may also cause local venous irritation and, in case of paravenous injection, tissue necrosis. The catheter or affected area should be irrigated with 9 mg/ml (0.9 %) sodium chloride solution for injection.
 
 Safe handling of GalliaPharm and its eluate in accordance with the instructions in this document should be permanently ensured to protect patients and healthcare professionals from unintentional excess radiation exposure (see sections 6 and 12).
+
+<div style=\"page-break-after: always\"></div>
 
 68 Ge breakthrough can increase in the eluate above 0.001 % if the radionuclide generator is not eluted for several days (see section 12). All instructions provided in section 12 should be strictly followed to avoid the risk of excess exposure to 68 Ge.
 
@@ -173,8 +167,6 @@ When an administration of radiopharmaceuticals to a woman of childbearing potent
 
 Radionuclide procedures carried out on pregnant women also involve radiation dose to the foetus. Only essential investigations should therefore be carried out during pregnancy, when the likely benefit far exceeds the risk incurred by the mother and the foetus.
 
-<div style=\"page-break-after: always\"></div>
-
 ## Breast-feeding
 
 Before administering a radiopharmaceutical to a mother who is breast-feeding, consideration should be given to whether the investigation could be reasonably delayed until the mother has ceased breastfeeding. If the administration is considered necessary, breast-feeding should be interrupted, and the expressed feeds discarded.
@@ -182,6 +174,8 @@ Before administering a radiopharmaceutical to a mother who is breast-feeding, co
 Further information concerning the use of a 68 Ga-labelled radiopharmaceutical in pregnancy and breast-feeding is specified in the Summary of Product Characteristics/package leaflet of the kit for radiopharmaceutical preparation to be radiolabelled.
 
 ## Fertility
+
+<div style=\"page-break-after: always\"></div>
 
 Further information concerning the use of a 68 Ga-labelled radiopharmaceutical concerning fertility is specified in the Summary of Product Characteristics/package leaflet of the kit for radiopharmaceutical preparation to be radiolabelled.
 
@@ -207,8 +201,6 @@ No toxic effects are to be expected from the free 68 Ga after an inadvertent adm
 
 Human radiation dose in case of an inadvertent administration of the eluate should be estimated using the information given in section 11.
 
-<div style=\"page-break-after: always\"></div>
-
 ## 5.  PHARMACOLOGICAL PROPERTIES
 
 ## 5.1 Pharmacodynamic properties
@@ -218,6 +210,8 @@ Pharmacotherapeutic group: Diagnostic radiopharmaceuticals; other diagnostic rad
 The pharmacodynamic properties of  68 Ga-labelled radiopharmaceutical prepared by radiolabelling with the radionuclide generator eluate prior to administration will be dependent on the nature of the carrier molecule to be labelled. Refer to the Summary of Product Characteristics/package leaflet of the kit for radiopharmaceutical preparation to be radiolabelled.
 
 ## Paediatric population
+
+<div style=\"page-break-after: always\"></div>
 
 The European Medicines Agency has waived the obligation to submit the results of studies with GalliaPharm 1.11 - 3.70 GBq radionuclide generator in all subsets of the paediatric population as it is a radiolabelling agent. See section 4.2 for information on paediatric use.
 
@@ -237,8 +231,6 @@ The activity resulting from 68 Ge breakthrough in the rat study was extremely lo
 
 The toxicological properties of 68 Ga-labelled radiopharmaceuticals prepared by in vitro radiolabelling with gallium ( 68 Ga) chloride solution will depend on the nature of the kit for radiopharmaceutical preparation to be radiolabelled.
 
-<div style=\"page-break-after: always\"></div>
-
 ## 6.  PHARMACEUTICAL PARTICULARS
 
 ## 6.1 List of excipients
@@ -257,13 +249,17 @@ Radiolabelling of carrier molecules with gallium ( 68 Ga) chloride is very sensi
 
 It is important that all glassware, syringe needles etc., used for the preparation of the radiolabelled medicinal product are thoroughly cleaned to ensure freedom from such trace metal impurities. Only syringe needles (for example, non-metallic) with proven resistance to dilute acids should be used to minimise trace metal impurity levels.
 
+<div style=\"page-break-after: always\"></div>
+
 It is recommended not to use uncoated stoppers for the elution vial as they may contain considerable amounts of zinc that is extracted by the acidic eluate.
 
 ## 6.3 Shelf life
 
-## Radionuclide generator
+Radionuclide generator
 
-18 months from calibration date. The calibration date and the expiry date are stated on the label.
+18 months from calibration date.
+
+The calibration date and the expiry date are stated on the label.
 
 Gallium ( 68 Ga) chloride solution for radiolabelling
 
@@ -283,8 +279,6 @@ Storage of radiopharmaceuticals should be in accordance with national regulation
 
 The glass column consists of a borosilicate glass tube (type I) and Polyetheretherketone (PEEK) end plugs which are attached to PEEK inlet and outlet lines via HPLC-style fingertight fittings. These lines are connected to two ports that pass through the outer case of the radionuclide generator.
 
-<div style=\"page-break-after: always\"></div>
-
 The column is contained within the lead shield assembly. The shield assembly is secured in a stainless-steel outer case with two handles.
 
 Accessories supplied with the radionuclide generator (minimum amounts):
@@ -297,8 +291,7 @@ Accessories supplied with the radionuclide generator (minimum amounts):
 6. 1 x Tubing 20 cm (PEEK)
 7. 3 x Fingertight fitting 1/16\" 10-32 (PEEK)
 8. 1 x Fingertight fitting 1/16\" M6 (PEEK)
-9. 1 x Stopcock manifold (TPX = Polymethylpentene/HDPE = High Density
-9. Polyethylene)
+9. 1 x Stopcock manifold (TPX = Polymethylpentene/HDPE = High Density Polyethylene)
 10. 1 x Male LUER union (PP)
 
 ## Pack sizes:
@@ -315,7 +308,9 @@ The radionuclide generators are supplied with the following 68 Ge activity amoun
 
 <!-- image -->
 
-Size: 230 mm x 132 mm x 133 mm (H x W x D)
+Size:
+
+230 mm x 132 mm x 133 mm (H x W x D)
 
 Weight: approx. 14 kg
 
@@ -345,27 +340,13 @@ Eckert &amp; Ziegler Radiopharma GmbH Robert-Rössle-Str. 10 13125 Berlin German
 
 ## 8.  MARKETING AUTHORISATION NUMBER(S)
 
-EU/1/24/1836/001 - GalliaPharm 1.11 GBq radionuclide generator
-
-EU/1/24/1836/002 - GalliaPharm 1.48 GBq radionuclide generator
-
-EU/1/24/1836/003 - GalliaPharm 1.85 GBq radionuclide generator
-
-EU/1/24/1836/004 - GalliaPharm 2.22 GBq radionuclide generator
-
-EU/1/24/1836/005 - GalliaPharm 2.59 GBq radionuclide generator
-
-EU/1/24/1836/006 - GalliaPharm 2.96 GBq radionuclide generator
-
-EU/1/24/1836/007 - GalliaPharm 3.33 GBq radionuclide generator
-
-EU/1/24/1836/008 - GalliaPharm 3.70 GBq radionuclide generator
+```
+EU/1/24/1836/001 - GalliaPharm 1.11 GBq radionuclide generator EU/1/24/1836/002 - GalliaPharm 1.48 GBq radionuclide generator EU/1/24/1836/003 - GalliaPharm 1.85 GBq radionuclide generator EU/1/24/1836/004 - GalliaPharm 2.22 GBq radionuclide generator EU/1/24/1836/005 - GalliaPharm 2.59 GBq radionuclide generator EU/1/24/1836/006 - GalliaPharm 2.96 GBq radionuclide generator EU/1/24/1836/007 - GalliaPharm 3.33 GBq radionuclide generator EU/1/24/1836/008 - GalliaPharm 3.70 GBq radionuclide generator
+```
 
 ## 9. DATE OF FIRST AUTHORISATION/RENEWAL OF THE AUTHORISATION
 
-Date of first authorisation:
-
-<div style=\"page-break-after: always\"></div>
+Date of first authorisation: 01 August 2024
 
 ## 10. DATE OF REVISION OF THE TEXT
 
@@ -409,17 +390,6 @@ Table 3: Absorbed dose per unit activity administered - inadvertent administrati
 | Thyroid                                                     | 0.0265                                                      | 0.0282                                                      | 0.0434                                                      | 0.0923                                                      | 0.1730                                                      | 0.2490                                                      |
 | Urinary bladder wall 4                                      | 0.0174                                                      | 0.0155                                                      | 0.0251                                                      | 0.0419                                                      | 0.0770                                                      | 0.2000                                                      |
 | Uterus/cervix                                               | 0.0291                                                      | 0.0325                                                      | 0.4560                                                      | 0.6900                                                      | 1.2500                                                      | 0.5360                                                      |
-| Effective dose (mSv/MBq)                                    |                                                             |                                                             | 0.0216 3                                                    | 0.0216 3                                                    | 0.0216 3                                                    | 0.0216 3                                                    |
-
-ND = not determined as organ/tissue not available in OLINDA/EXM v1.0.
-
-1 calculations made in IDAC-Dose 2.1 v1.01 software.
-
-2  calculations made in OLINDA v1.0 software.
-
-3 sex-averaged dose derived according to ICRP Publication 103.
-
-4 Due to the methodological limitations of the underlying distribution study in rats, it was not feasible to consider urinary bladder content as an explicit source region for the dosimetry. Since gallium ( 68 Ga) chloride is excreted predominantly into the urine according to the rat data, the reported effective dose is thus possibly underestimated.
 
 <div style=\"page-break-after: always\"></div>
 
@@ -509,8 +479,7 @@ Accessories supplied with the radionuclide generator (minimum amounts):
 6. 1 x Tubing 20 cm (PEEK)
 7. 3 x Fingertight fitting 1/16\" 10-32 (PEEK)
 8. 1 x Fingertight fitting 1/16\" M6 (PEEK)
-9. 1 x Stopcock manifold (TPX = Polymethylpentene/HDPE = High Density
-9. Polyethylene)
+9. 1 x Stopcock manifold (TPX = Polymethylpentene/HDPE = High Density Polyethylene)
 10. 1 x Male LUER union (PP)
 
 Assemble the radionuclide generator in an appropriately clean environment. Aseptic working technique must be maintained during the whole assembly process. Wear gloves during preparation and connecting of the lines to the radionuclide generator and to the eluent container. This is critical for the maintenance of sterility.
@@ -546,6 +515,8 @@ Remove plug from the outlet port of the radionuclide generator [XVI] .  To  conn
 <!-- image -->
 
 <div style=\"page-break-after: always\"></div>
+
+The radionuclide generator is now ready for the first elution:
 
 <!-- image -->
 
@@ -589,9 +560,12 @@ It is recommended to test the eluate for 68 Ge breakthrough after the first elut
 
 Free 68 Ge ions can accumulate in the column over time. If the radionuclide generator has not been used for a period of 96 hours or more, the column should be pre-eluted once, at least 7 hours prior to eluting for radiolabelling. If the radiolabelling procedure does not require maximum achievable eluate activity, the time between the pre-elution and the elution for radiolabelling can be reduced (see also table 6 and calculation example below it). The pre-elution should be done using 10 ml of sterile ultrapure 0.1 mol/l hydrochloric acid.
 
+1. Repeat the steps of the first elution but use only 5 ml eluent for the routine elution. The
+
 <div style=\"page-break-after: always\"></div>
 
-1. Repeat the steps of the first elution but use only 5 ml eluent for the routine elution. The radionuclide generator is designed to elute all of the available 68 Ga activity in a volume of 5 ml.
+radionuclide generator is designed to elute all of the available 68 Ga activity in a volume of 5 ml.
+
 2. The eluate is a clear, sterile, and colourless gallium ( 68 Ga) chloride solution, with a pH between 0.5 and 2.0 and a radiochemical purity greater than 95 %. Check the clarity of the eluate before use and discard it if the solution is not clear.
 3. It is recommended to test the eluate for 68 Ge breakthrough during routine elutions by comparing the activity level of the 68 Ga and the 68 Ge. For further details please refer to Ph. Eur. monograph 2464.
 
@@ -633,36 +607,49 @@ Table 5: Decay Chart for  68 Ge
 
 |   Elapsed Time in weeks |   Decay Factor |   Elapsed Time in weeks |   Decay Factor |
 |-------------------------|----------------|-------------------------|----------------|
-|                       1 |           0.98 |                      27 |           0.62 |
-|                       2 |           0.96 |                      28 |           0.61 |
-|                       3 |           0.95 |                      29 |           0.59 |
-|                       4 |           0.93 |                      30 |           0.58 |
-|                       5 |           0.91 |                      31 |           0.57 |
-|                       6 |           0.9  |                      32 |           0.56 |
-|                       7 |           0.88 |                      33 |           0.55 |
-|                       8 |           0.87 |                      34 |           0.54 |
-|                       9 |           0.85 |                      35 |           0.53 |
-|                      10 |           0.84 |                      36 |           0.52 |
-|                      11 |           0.82 |                      37 |           0.52 |
-|                      12 |           0.81 |                      38 |           0.51 |
-|                      13 |           0.79 |                      39 |           0.5  |
-|                      14 |           0.78 |                      40 |           0.49 |
-|                      15 |           0.76 |                      41 |           0.48 |
-|                      16 |           0.75 |                      42 |           0.47 |
-|                      17 |           0.74 |                      43 |           0.46 |
-|                      18 |           0.72 |                      44 |           0.45 |
-|                      19 |           0.71 |                      45 |           0.45 |
-|                      20 |           0.7  |                      46 |           0.44 |
-|                      21 |           0.69 |                      47 |           0.43 |
-|                      22 |           0.67 |                      48 |           0.42 |
-|                      23 |           0.66 |                      49 |           0.42 |
-|                      24 |           0.65 |                      50 |           0.41 |
-|                      25 |           0.64 |                      51 |           0.4  |
-|                      26 |           0.63 |                      52 |           0.39 |
-
-After elution, the 68 Ga will be built up by the continuous decay of the parent 68 Ge. The radionuclide generator requires at least 7 hours to achieve almost full yield after being eluted, but in practice it is also possible to elute the radionuclide generator earlier, depending on its strength and the activity required for radiolabelling. Table 6 shows the build-up factor of 68 Ga activity over time, up to 410 minutes after an elution.
+|                       1 |           0.98 |                      40 |           0.49 |
+|                       2 |           0.96 |                      41 |           0.48 |
+|                       3 |           0.95 |                      42 |           0.47 |
+|                       4 |           0.93 |                      43 |           0.46 |
+|                       5 |           0.91 |                      44 |           0.45 |
+|                       6 |           0.9  |                      45 |           0.45 |
+|                       7 |           0.88 |                      46 |           0.44 |
+|                       8 |           0.87 |                      47 |           0.43 |
+|                       9 |           0.85 |                      48 |           0.42 |
+|                      10 |           0.84 |                      49 |           0.42 |
+|                      11 |           0.82 |                      50 |           0.41 |
+|                      12 |           0.81 |                      51 |           0.4  |
+|                      13 |           0.79 |                      52 |           0.39 |
+|                      14 |           0.78 |                      53 |           0.39 |
+|                      15 |           0.76 |                      54 |           0.38 |
+|                      16 |           0.75 |                      55 |           0.37 |
+|                      17 |           0.74 |                      56 |           0.37 |
+|                      18 |           0.72 |                      57 |           0.36 |
+|                      19 |           0.71 |                      58 |           0.35 |
+|                      20 |           0.7  |                      59 |           0.35 |
+|                      21 |           0.69 |                      60 |           0.34 |
+|                      22 |           0.67 |                      61 |           0.34 |
+|                      23 |           0.66 |                      62 |           0.33 |
+|                      24 |           0.65 |                      63 |           0.32 |
+|                      25 |           0.64 |                      64 |           0.32 |
+|                      26 |           0.63 |                      65 |           0.31 |
+|                      27 |           0.62 |                      66 |           0.31 |
+|                      28 |           0.61 |                      67 |           0.3  |
+|                      29 |           0.59 |                      68 |           0.3  |
+|                      30 |           0.58 |                      69 |           0.29 |
+|                      31 |           0.57 |                      70 |           0.29 |
+|                      32 |           0.56 |                      71 |           0.28 |
+|                      33 |           0.55 |                      72 |           0.28 |
+|                      34 |           0.54 |                      73 |           0.27 |
+|                      35 |           0.53 |                      74 |           0.27 |
+|                      36 |           0.52 |                      75 |           0.26 |
+|                      37 |           0.52 |                      76 |           0.26 |
+|                      38 |           0.51 |                      77 |           0.25 |
+|                      39 |           0.5  |                      78 |           0.25 |
 
 <div style=\"page-break-after: always\"></div>
+
+After elution, the 68 Ga will be built up by the continuous decay of the parent 68 Ge. The radionuclide generator requires at least 7 hours to achieve almost full yield after being eluted, but in practice it is also possible to elute the radionuclide generator earlier, depending on its strength and the activity required for radiolabelling. Table 6 shows the build-up factor of 68 Ga activity over time, up to 410 minutes after an elution.
 
 Table 6: Build-up factors of 68 Ga
 
@@ -694,7 +681,7 @@ Table 6: Build-up factors of 68 Ga
 
 A 1.85 GBq radionuclide generator is 12 weeks old. According to table 5, the activity of 68 Ge on the column can be calculated as follows:
 
-- 1.85 GBq × 0.81 = 1.50 GBq
+<!-- formula-not-decoded -->
 
 In full equilibrium, the activity of 68 Ga on the column is also 1.50 GBq.
 
@@ -702,17 +689,17 @@ The radionuclide generator is eluted and the collected 68 Ga activity is 1.05 GB
 
 The same radionuclide generator is eluted 4 hours later. The 7 hours needed to reach the 68 Ge/ 68 Gaequilibrium have not elapsed yet. The 68 Ga activity built up on the column in 4 hours (240 minutes) post-elution can be calculated according to table 6 as follows:
 
-- 1.50 GBq × 0.91 = 1.37 GBq
+<!-- formula-not-decoded -->
 
 With a typical yield of 70 % 68 Ga, the collected activity would then be:
 
-- 1.37 GBq × 0.70 = 1.00 GBq
+<!-- formula-not-decoded -->
+
+<div style=\"page-break-after: always\"></div>
 
 ## Note:
 
 The activity of 68 Ga in the eluate can be measured to check the quality with regard to identity and content. The activity should be measured immediately after elution but may also be measured up to 5 half-life periods after elution.
-
-<div style=\"page-break-after: always\"></div>
 
 Due to the short half-time of 68 Ga (67.71 minutes), the elapsed time between the elution and the measurement of the activity has to be decay-corrected to determine the actual yield at the elution time with the decay chart of 68 Ga, table 7.
 
@@ -722,7 +709,9 @@ A new 1.85 GBq radionuclide generator is eluted. The activity of 68 Ga measured 
 
 The yield at the time of the elution can be obtained by dividing the measured activity by the corresponding decay factor of the elapsed time stated in table 7: 1.17 GBq / 0.90 = 1.30 GBq
 
-This corresponds to a yield of 68 Ga of 70 % at the time of the elution: 1.30 GBq / 1.85 GBq × 100 % = 70 %
+68
+
+This corresponds to a yield of Ga of 70 % at the time of the elution: 1.30 GBq / 1.85 GBq × 100 % = 70 %
 
 <div style=\"page-break-after: always\"></div>
 
@@ -1205,8 +1194,6 @@ Not applicable.
 
 Not applicable.
 
-40
-
 <div style=\"page-break-after: always\"></div>
 
 ## PARTICULARS TO APPEAR ON THE OUTER PACKAGING
@@ -1332,6 +1319,8 @@ Not applicable.
 |-------|------------------------------------------|
 
 Not applicable.
+
+41
 
 <div style=\"page-break-after: always\"></div>
 
@@ -1459,7 +1448,7 @@ Not applicable.
 
 Not applicable.
 
-46
+44
 
 <div style=\"page-break-after: always\"></div>
 
@@ -1587,7 +1576,7 @@ Not applicable.
 
 Not applicable.
 
-49
+47
 
 <div style=\"page-break-after: always\"></div>
 
@@ -1850,9 +1839,11 @@ Not applicable.
 1. NAME OF THE MEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION
 2. METHOD OF ADMINISTRATION
 3. EXPIRY DATE
-4. BATCH NUMBER
 5. CONTENTS BY WEIGHT, BY VOLUME OR BY UNIT
 6. OTHER
+
+| 4.   | BATCH NUMBER   |
+|------|----------------|
 
 Ge-68/Ga-68
 
@@ -1878,7 +1869,7 @@ Water
 
 ## 4. PHARMACEUTICAL FORM AND CONTENTS
 
-Solvent for GalliaPharm
+## Solvent for GalliaPharm
 
 250 ml
 
@@ -2076,7 +2067,9 @@ The gallium ( 68 Ga) chloride solution obtained with GalliaPharm must be used im
 ## What GalliaPharm contains
 
 - -The active substance consists of germanium ( 68 Ge) chloride and gallium ( 68 Ga) chloride dissolved in sterile ultrapure 0.1 mol/l hydrochloric acid. Germanium ( 68 Ge) is irreversibly trapped inside the radionuclide generator decaying to its daughter nuclide ( 68 Ga), which is obtained from the generator as gallium ( 68 Ga) chloride.
+
 - -
+
 - The other ingredients are:
 
 Titanium dioxide (matrix)
@@ -2440,9 +2433,7 @@ The gallium ( 68 Ga) chloride solution obtained with GalliaPharm must be used im
 ## What GalliaPharm contains
 
 - -The active substance consists of germanium ( 68 Ge) chloride and gallium ( 68 Ga) chloride dissolved in sterile ultrapure 0.1 mol/l hydrochloric acid. Germanium ( 68 Ge) is irreversibly trapped inside the radionuclide generator decaying to its daughter nuclide ( 68 Ga), which is obtained from the generator as gallium ( 68 Ga) chloride.
-
 - -
-
 - The other ingredients are:
 
 Titanium dioxide (matrix)
@@ -2806,9 +2797,7 @@ The gallium ( 68 Ga) chloride solution obtained with GalliaPharm must be used im
 ## What GalliaPharm contains
 
 - -The active substance consists of germanium ( 68 Ge) chloride and gallium ( 68 Ga) chloride dissolved in sterile ultrapure 0.1 mol/l hydrochloric acid. Germanium ( 68 Ge) is irreversibly trapped inside the radionuclide generator decaying to its daughter nuclide ( 68 Ga), which is obtained from the generator as gallium ( 68 Ga) chloride.
-
 - -
-
 - The other ingredients are:
 
 Titanium dioxide (matrix)
@@ -3172,9 +3161,7 @@ The gallium ( 68 Ga) chloride solution obtained with GalliaPharm must be used im
 ## What GalliaPharm contains
 
 - -The active substance consists of germanium ( 68 Ge) chloride and gallium ( 68 Ga) chloride dissolved in sterile ultrapure 0.1 mol/l hydrochloric acid. Germanium ( 68 Ge) is irreversibly trapped inside the radionuclide generator decaying to its daughter nuclide ( 68 Ga), which is obtained from the generator as gallium ( 68 Ga) chloride.
-
 - -
-
 - The other ingredients are:
 
 Titanium dioxide (matrix)

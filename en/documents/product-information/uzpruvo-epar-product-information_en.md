@@ -1,20 +1,20 @@
 ---
-document_datetime: 2025-11-11 11:47:17
-document_pages: 110
+document_datetime: 2026-02-03 10:42:25
+document_pages: 113
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/uzpruvo-epar-product-information_en.pdf
 document_name: uzpruvo-epar-product-information_en.pdf
 version: success
-processing_time: 30.7915112
-conversion_datetime: 2025-12-19 04:57:05.457245
+processing_time: 31.8725522
+conversion_datetime: 2026-02-04 15:10:49.180066
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.64.1
-  docling-core: 2.55.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
-  python: cpython-313 (3.13.11)
-  plaform: macOS-26.1-arm64-arm-64bit-Mach-O
+  docling-serve: 1.11.0
+  docling-jobkit: 1.9.1
+  docling: 2.72.0
+  docling-core: 2.63.0
+  docling-ibm-models: 3.11.0
+  docling-parse: 4.7.3
+  python: cpython-313 (3.13.12)
+  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
 ---
 ## ANNEX I
 
@@ -52,25 +52,29 @@ The solution is clear and colourless to slightly yellow and practically free of 
 
 ## 4.1 Therapeutic indications
 
-## Crohn's Disease
+## Adult Crohn's Disease
 
-Uzpruvo is indicated for the treatment of adult patients with moderately to severely active Crohn's disease who have had an inadequate response with, lost response to, or were intolerant to either conventional therapy or a TNFα antagonist or have medical contraindications to such therapies.
+Uzpruvo is indicated for the treatment of adult patients with moderately to severely active Crohn's disease who have had an inadequate response with, lost response to, or were intolerant to either conventional therapy or a TNFα antagonist.
+
+## Paediatric Crohn's Disease
+
+Uzpruvo is indicated for the treatment of moderately to severely active Crohn's disease in paediatric patients weighing at least 40 kg, who have had an inadequate response to, or were intolerant to either conventional or biologic therapy.
 
 ## 4.2 Posology and method of administration
 
 Uzpruvo concentrate for solution for infusion is intended for use under the guidance and supervision of physicians experienced in the diagnosis and treatment of Crohn's disease. Uzpruvo concentrate for solution for infusion should only be used for the intravenous induction dose.
 
+<div style=\"page-break-after: always\"></div>
+
 ## Posology
 
-## Crohn's Disease
+## Adults Crohn's Disease
 
 Uzpruvo treatment is to be initiated with a single intravenous dose based on body weight. The infusion solution is to be composed of the number of vials of Uzpruvo 130 mg as specified in Table 1 (see section 6.6 for preparation).
 
-<div style=\"page-break-after: always\"></div>
-
 Table 1 Initial intravenous dosing of Uzpruvo
 
-| Body weight of patient at the time of dosing   | Recommended dose a   |   Number of 130 mg Uzpruvo vials |
+| Body weight of patient at the time of dosing   | Recommended dose a   |   Number of 130 mg Uzpruvo Vials |
 |------------------------------------------------|----------------------|----------------------------------|
 | ≤ 55 kg                                        | 260 mg               |                                2 |
 | > 55 kg to ≤ 85 kg                             | 390 mg               |                                3 |
@@ -90,11 +94,29 @@ Ustekinumab has not been studied in these patient populations. No dose recommend
 
 ## Paediatric population
 
-The safety and efficacy of ustekinumab for the treatment of Crohn's disease in children less than 18 years have not yet been established. No data are available.
+## Paediatric Crohn's disease (patients weighing at least 40 kg)
+
+Uzpruvo treatment is to be initiated with a single intravenous dose based on body weight. The infusion solution is to be composed of the number of vials of Uzpruvo 130 mg as specified in Table 2 (see section 6.6 for preparation).
+
+Table 2 Initial intravenous dosing of Uzpruvo
+
+| Body weight of patient at the time of dosing   | Recommended dose a   |   Number of 130 mg Uzpruvo Vials |
+|------------------------------------------------|----------------------|----------------------------------|
+| ≥ 40 kg to ≤ 55 kg                             | 260 mg               |                                2 |
+| > 55 kg to ≤ 85 kg                             | 390 mg               |                                3 |
+| > 85 kg                                        | 520 mg               |                                4 |
+
+a Approximately 6 mg/kg
+
+The first subcutaneous dose should be given at week 8 following the intravenous dose. For the posology of the subsequent subcutaneous dosing regimen, see section 4.2 of the Uzpruvo solution for injection (vial) and solution for injection in pre-filled syringe SmPC.
+
+The safety and efficacy of Uzpruvo for the treatment of Crohn's disease for paediatric patients weighing less than 40 kg have not yet been established. No data are available.
 
 ## Method of administration
 
 Uzpruvo 130 mg is for intravenous use only. It should be administered over at least one hour. For instructions on dilution of the medicinal product before administration, see section 6.6.
+
+<div style=\"page-break-after: always\"></div>
 
 ## 4.3 Contraindications
 
@@ -116,8 +138,6 @@ Opportunistic infections including reactivation of tuberculosis, other opportuni
 
 Caution should be exercised when considering the use of Uzpruvo in patients with a chronic infection or a history of recurrent infection (see section 4.3).
 
-<div style=\"page-break-after: always\"></div>
-
 Prior to initiating treatment with Uzpruvo, patients should be evaluated for tuberculosis infection. Uzpruvo must not be given to patients with active tuberculosis (see section 4.3). Treatment of latent tuberculosis infection should be initiated prior to administering Uzpruvo. Anti-tuberculosis therapy should also be considered prior to initiation of Uzpruvo in patients with a history of latent or active tuberculosis in whom an adequate course of treatment cannot be confirmed. Patients receiving Uzpruvo should be monitored closely for signs and symptoms of active tuberculosis during and after treatment.
 
 Patients should be instructed to seek medical advice if signs or symptoms suggestive of an infection occur. If a patient develops a serious infection, the patient should be closely monitored and Uzpruvo should not be administered until the infection resolves.
@@ -129,6 +149,8 @@ Immunosuppressants like ustekinumab have the potential to increase the risk of m
 No studies have been conducted that include patients with a history of malignancy or that continue treatment in patients who develop malignancy while receiving ustekinumab. Thus, caution should be exercised when considering the use of Uzpruvo in these patients.
 
 All patients, in particular those greater than 60 years of age, patients with a medical history of prolonged immunosuppressant therapy or those with a history of PUVA (psoralen and ultraviolet A) treatment, should be monitored for the appearance of skin cancer (see section 4.8).
+
+<div style=\"page-break-after: always\"></div>
 
 ## Systemic and respiratory hypersensitivity reactions
 
@@ -146,11 +168,7 @@ Cases of allergic alveolitis, eosinophilic pneumonia, and non-infectious organis
 
 ## Cardiovascular events
 
-Cardiovascular events including myocardial infarction and cerebrovascular accident have been observed in patients with psoriasis exposed to ustekinumab in a post-marketing observational study.
-
-<div style=\"page-break-after: always\"></div>
-
-Risk factors for cardiovascular disease should be regularly assessed during treatment with ustekinumab.
+Cardiovascular events including myocardial infarction and cerebrovascular accident have been observed in patients with psoriasis exposed to ustekinumab in a post-marketing observational study. Risk factors for cardiovascular disease should be regularly assessed during treatment with ustekinumab.
 
 ## Vaccinations
 
@@ -164,7 +182,11 @@ Long term treatment with Uzpruvo does not suppress the humoral immune response t
 
 ## Concomitant immunosuppressive therapy
 
-In psoriasis studies, the safety and efficacy of ustekinumab in combination with immunosuppressants, including biologics, or phototherapy have not been evaluated. In psoriatic arthritis studies, concomitant MTX use did not appear to influence the safety or efficacy of ustekinumab. In Crohn's disease and ulcerative colitis studies, concomitant use of immunosuppressants or corticosteroids did not appear to influence the safety or efficacy of ustekinumab. Caution should be exercised when considering concomitant use of other immunosuppressants and Uzpruvo or when transitioning from other immunosuppressive biologics (see section 4.5).
+In psoriasis studies, the safety and efficacy of ustekinumab in combination with immunosuppressants, including biologics, or phototherapy have not been evaluated. In psoriatic arthritis studies, concomitant MTX use did not appear to influence the safety or efficacy of ustekinumab. In Crohn's
+
+<div style=\"page-break-after: always\"></div>
+
+disease and ulcerative colitis studies, concomitant use of immunosuppressants or corticosteroids did not appear to influence the safety or efficacy of ustekinumab. Caution should be exercised when considering concomitant use of other immunosuppressants and Uzpruvo or when transitioning from other immunosuppressive biologics (see section 4.5).
 
 ## Immunotherapy
 
@@ -177,8 +199,6 @@ In patients with psoriasis, exfoliative dermatitis has been reported following u
 ## Lupus-related conditions
 
 Cases of lupus-related conditions have been reported in patients treated with ustekinumab, including cutaneous lupus erythematosus and lupus-like syndrome. If lesions occur, especially in sun exposed areas of the skin or if accompanied by arthralgia, the patient should seek medical attention promptly. If the diagnosis of a lupus-related condition is confirmed, ustekinumab should be discontinued and appropriate treatment initiated.
-
-<div style=\"page-break-after: always\"></div>
 
 ## Special populations
 
@@ -200,13 +220,13 @@ Live vaccines should not be given concurrently with Uzpruvo (see section 4.4).
 
 Administration of live vaccines (such as the BCG vaccine) to infants exposed in utero to ustekinumab is not recommended for twelve months following birth or until ustekinumab infant serum levels are undetectable (see sections 4.4 and 4.6). If there is a clear clinical benefit for the individual infant, administration of a live vaccine might be considered at an earlier timepoint, if infant ustekinumab serum levels are undetectable.
 
+<div style=\"page-break-after: always\"></div>
+
 In the population pharmacokinetic analyses of the ustekinumab phase 3 studies, the effect of the most frequently used concomitant medicinal products in patients with psoriasis (including paracetamol, ibuprofen, acetylsalicylic acid, metformin, atorvastatin, levothyroxine) on pharmacokinetics of ustekinumab was explored. There were no indications of an interaction with these concomitantly administered medicinal products. The basis for this analysis was that at least 100 patients (&gt; 5% of the studied population) were treated concomitantly with these medicinal products for at least 90% of the study period. The pharmacokinetics of ustekinumab was not impacted by concomitant use of MTX, NSAIDs, 6-mercaptopurine, azathioprine and oral corticosteroids in patients with psoriatic arthritis, Crohn's disease or ulcerative colitis, or prior exposure to anti-TNFα agents, in patients with psoriatic arthritis or Crohn's disease or by prior exposure to biologics (i.e. anti-TNFα agents and/or vedolizumab) in patients with ulcerative colitis.
 
 The results of an in vitro study and a phase 1 study in subjects with active Crohn's disease do not suggest the need for dose adjustments in patients who are receiving concomitant CYP450 substrates (see section 5.2).
 
 In psoriasis studies, the safety and efficacy of ustekinumab in combination with immunosuppressants, including biologics, or phototherapy have not been evaluated. In psoriatic arthritis studies, concomitant MTX use did not appear to influence the safety or efficacy of ustekinumab. In Crohn's disease and ulcerative colitis studies, concomitant use of immunosuppressants or corticosteroids did not appear to influence the safety or efficacy of ustekinumab (see section 4.4).
-
-<div style=\"page-break-after: always\"></div>
 
 ## 4.6 Fertility, pregnancy and lactation
 
@@ -226,7 +246,11 @@ Ustekinumab crosses the placenta and has been detected in the serum of infants b
 
 ## Breast-feeding
 
-Limited data from published literature suggests that ustekinumab is excreted in human breast milk in very small amounts. It is not known if ustekinumab is absorbed systemically after ingestion. Because of the potential for adverse reactions in nursing infants from ustekinumab, a decision on whether to discontinue breast-feeding during treatment and up to 15 weeks after treatment or to discontinue therapy with Uzpruvo must be made taking into account the benefit of breast-feeding to the child and the benefit of Uzpruvo therapy to the woman.
+Limited data from published literature suggests that ustekinumab is excreted in human breast milk in very small amounts. It is not known if ustekinumab is absorbed systemically after ingestion. Because of the potential for adverse reactions in nursing infants from ustekinumab, a decision on whether to discontinue breast-feeding during treatment and up to 15 weeks after treatment or to discontinue
+
+<div style=\"page-break-after: always\"></div>
+
+therapy with Uzpruvo must be made taking into account the benefit of breast-feeding to the child and the benefit of Uzpruvo therapy to the woman.
 
 ## Fertility
 
@@ -242,31 +266,30 @@ Uzpruvo has no or negligible influence on the ability to drive and use machines.
 
 The most common adverse reactions (&gt; 5%) in controlled periods of the adult psoriasis, psoriatic arthritis, Crohn's disease and ulcerative colitis clinical studies with ustekinumab were nasopharyngitis and headache. Most were considered to be mild and did not necessitate discontinuation of study treatment. The most serious adverse reaction that has been reported for ustekinumab is serious hypersensitivity reactions including anaphylaxis (see section 4.4). The overall safety profile was similar for patients with psoriasis, psoriatic arthritis, Crohn's disease and ulcerative colitis.
 
-<div style=\"page-break-after: always\"></div>
-
 ## Tabulated list of adverse reactions
 
 The safety data described below reflect exposure in adults to ustekinumab in 14 phase 2 and phase 3 studies in 6,710 patients (4,135 with psoriasis and/or psoriatic arthritis, 1,749 with Crohn's disease and 826 patients with ulcerative colitis). This includes exposure to ustekinumab in the controlled and non-controlled periods of the clinical studies in patients with psoriasis, psoriatic arthritis, Crohn's disease or ulcerative colitis for at least 6 months (4,577 patients) or at least 1 year (3,648 patients). 2,194 patients with psoriasis, Crohn's disease or ulcerative colitis were exposed for at least 4 years while 1,148 patients with psoriasis or Crohn's disease were exposed for at least 5 years.
 
-Table 2 provides a list of adverse reactions from adult psoriasis, psoriatic arthritis, Crohn's disease and ulcerative colitis clinical studies as well as adverse reactions reported from post-marketing experience. The adverse reactions are classified by System Organ Class and frequency, using the following convention: Very common (≥ 1/10), Common (≥ 1/100 to &lt; 1/10), Uncommon (≥ 1/1,000 to &lt; 1/100), Rare (≥ 1/10,000 to &lt; 1/1,000), Very rare (&lt; 1/10,000), not known (cannot be estimated from the available data). Within each frequency grouping, adverse reactions are presented in order of decreasing seriousness.
+Table 3 provides a list of adverse reactions from adult psoriasis, psoriatic arthritis, Crohn's disease and ulcerative colitis clinical studies as well as adverse reactions reported from post-marketing experience. The adverse reactions are classified by System Organ Class and frequency, using the following convention: Very common (≥ 1/10), Common (≥ 1/100 to &lt; 1/10), Uncommon (≥ 1/1,000 to &lt; 1/100), Rare (≥ 1/10,000 to &lt; 1/1,000), Very rare (&lt; 1/10,000), not known (cannot be estimated from the available data). Within each frequency grouping, adverse reactions are presented in order of decreasing seriousness.
 
-Table 2 List of adverse reactions
+Table 3 List of adverse reactions
 
-| System Organ Class                                   | Frequency: Adverse reaction        | Frequency: Adverse reaction                                                                                                                                                                                            |
-|------------------------------------------------------|------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Infections and infestations                          | Common: Uncommon:                  | Upper respiratory tract infection, nasopharyngitis, sinusitis Cellulitis, dental infections, herpes zoster, lower respiratory tract infection, viral upper respiratory tract infection, vulvovaginal mycotic infection |
-| Immune system disorders                              | Uncommon: Rare:                    | Hypersensitivity reactions (including rash, urticaria) Serious hypersensitivity reactions (including anaphylaxis, angioedema)                                                                                          |
-| Psychiatric disorders                                | Uncommon:                          | Depression                                                                                                                                                                                                             |
-| Nervous system disorders                             | Common: Uncommon:                  | Dizziness, headache Facial palsy                                                                                                                                                                                       |
-| Respiratory, thoracic and mediastinal disorders      | Common: Uncommon: Rare: Very rare: | Oropharyngeal pain Nasal congestion Allergic alveolitis, eosinophilic pneumonia Organising pneumonia*                                                                                                                  |
-| Gastrointestinal disorders                           | Common:                            | Diarrhoea, nausea, vomiting                                                                                                                                                                                            |
-| Skin and subcutaneous tissue disorders               | Common: Uncommon: Rare: Very rare: | Pruritus Pustular psoriasis, skin exfoliation, acne Exfoliative dermatitis, hypersensitivity vasculitis Bullous pemphigoid, cutaneous lupus erythematosus                                                              |
-| Musculoskeletal and connective tissue disorders      | Common: Very rare:                 | Back pain, myalgia, arthralgia Lupus-like syndrome                                                                                                                                                                     |
-| General disorders and administration site conditions | Common: Uncommon:                  | Fatigue, injection site erythema, injection site pain Injection site reactions (including haemorrhage, haematoma, induration, swelling and pruritus), asthenia                                                         |
-
-* See section 4.4, Systemic and respiratory hypersensitivity reactions.
+| System Organ Class          | Frequency: Adverse reaction   | Frequency: Adverse reaction                                                                                                                                                                                            |
+|-----------------------------|-------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Infections and infestations | Common: Uncommon:             | Upper respiratory tract infection, nasopharyngitis, sinusitis Cellulitis, dental infections, herpes zoster, lower respiratory tract infection, viral upper respiratory tract infection, vulvovaginal mycotic infection |
+| Immune system disorders     | Uncommon: Rare:               | Hypersensitivity reactions (including rash, urticaria) Serious hypersensitivity reactions (including anaphylaxis, angioedema)                                                                                          |
+| Psychiatric disorders       | Uncommon:                     | Depression                                                                                                                                                                                                             |
 
 <div style=\"page-break-after: always\"></div>
+
+| System Organ Class                                   | Frequency: Adverse reaction        | Frequency: Adverse reaction                                                                                                                                    |
+|------------------------------------------------------|------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Nervous system disorders                             | Common: Uncommon:                  | Dizziness, headache Facial palsy                                                                                                                               |
+| Respiratory, thoracic and mediastinal disorders      | Common: Uncommon: Rare: Very rare: | Oropharyngeal pain Nasal congestion Allergic alveolitis, eosinophilic pneumonia Organising pneumonia*                                                          |
+| Gastrointestinal disorders                           | Common:                            | Diarrhoea, nausea, vomiting                                                                                                                                    |
+| Skin and subcutaneous tissue disorders               | Common: Uncommon: Rare: Very rare: | Pruritus Pustular psoriasis, skin exfoliation, acne Exfoliative dermatitis, hypersensitivity vasculitis Bullous pemphigoid, cutaneous lupus erythematosus      |
+| Musculoskeletal and connective tissue disorders      | Common: Very rare:                 | Back pain, myalgia, arthralgia Lupus-like syndrome                                                                                                             |
+| General disorders and administration site conditions | Common: Uncommon:                  | Fatigue, injection site erythema, injection site pain Injection site reactions (including haemorrhage, haematoma, induration, swelling and pruritus), asthenia |
 
 ## Description of selected adverse reactions
 
@@ -282,19 +305,23 @@ In clinical studies, patients with latent tuberculosis who were concurrently tre
 
 In the placebo-controlled period of the psoriasis, psoriatic arthritis, Crohn's disease and ulcerative colitis clinical studies, the incidence of malignancies excluding non-melanoma skin cancer was 0.11 per 100 patient-years of follow-up for ustekinumab-treated patients (1 patient in 929 patient-years of follow-up) compared with 0.23 for placebo-treated patients (1 patient in 434 patient-years of follow-up). The incidence of non-melanoma skin cancer was 0.43 per 100 patient-years of follow-up for ustekinumab-treated patients (4 patients in 929 patient-years of follow-up) compared to 0.46 for placebo-treated patients (2 patients in 433 patient-years of follow-up).
 
+<div style=\"page-break-after: always\"></div>
+
 In the controlled and non-controlled periods of psoriasis, psoriatic arthritis, Crohn's disease and ulcerative colitis clinical studies, representing 15,205 patient-years of ustekinumab exposure in 6,710 patients, the median follow-up was 1.2 years; 1.7 years for psoriatic disease studies, 0.6 year for Crohn's disease studies and 2.3 years for ulcerative colitis studies. Malignancies excluding nonmelanoma skin cancers were reported in 76 patients in 15,205 patient-years of follow-up (incidence of 0.50 per 100 patient-years of follow-up for ustekinumab-treated patients). The incidence of malignancies reported in ustekinumab-treated patients was comparable to the incidence expected in the general population (standardised incidence ratio = 0.94 [95% confidence interval: 0.73, 1.18], adjusted for age, gender and race). The most frequently observed malignancies, other than nonmelanoma skin cancer, were prostate cancer, melanoma, colorectal, and breast cancers. The incidence of non-melanoma skin cancer was 0.46 per 100 patient-years of follow-up for ustekinumab-treated patients (69 patients in 15,165 patient-years of follow-up). The ratio of patients with basal versus squamous cell skin cancers (3:1) is comparable with the ratio expected in the general population (see section 4.4).
 
 ## Hypersensitivity and infusion reactions
 
 In Crohn's disease and ulcerative colitis intravenous induction studies, no events of anaphylaxis or other serious infusion reactions were reported following the single intravenous dose. In these studies, 2.2% of 785 placebo-treated patients and 1.9% of 790 patients treated with the recommended dose of ustekinumab reported adverse events occurring during or within an hour of the infusion. Serious infusion-related reactions including anaphylactic reactions to the infusion have been reported in the post-marketing setting (see section 4.4).
 
-<div style=\"page-break-after: always\"></div>
-
 ## Paediatric population
 
 ## Paediatric patients 6 years and older with plaque psoriasis
 
 The safety of ustekinumab has been studied in two phase 3 studies of paediatric patients with moderate to severe plaque psoriasis. The first study was in 110 patients from 12 to 17 years of age treated for up to 60 weeks and the second study was in 44 patients from 6 to 11 years of age treated for up to 56 weeks. In general, the adverse events reported in these two studies with safety data up to 1 year were similar to those seen in previous studies in adults with plaque psoriasis.
+
+## Paediatric patients weighing at least 40 kg with Crohn's disease
+
+The safety of ustekinumab has been studied in one phase 1 and one phase 3 study of paediatric patients with moderately to severely active Crohn's disease up to week 240 and week 52, respectively. In general, the safety profile in this cohort (n = 71) was similar to that seen in previous studies in adults with Crohn's disease.
 
 ## Reporting of suspected adverse reactions
 
@@ -310,6 +337,8 @@ Single doses up to 6 mg/kg have been administered intravenously in clinical stud
 
 Pharmacotherapeutic group: Immunosuppressants, interleukin inhibitors, ATC code: L04AC05.
 
+<div style=\"page-break-after: always\"></div>
+
 Uzpruvo is a biosimilar medicinal product. Detailed information is available on the website of the European Medicines Agency https://www.ema.europa.eu.
 
 ## Mechanism of action
@@ -319,8 +348,6 @@ Ustekinumab is a fully human IgG1κ monoclonal antibody that binds with specific
 By binding the shared p40 subunit of IL-12 and IL-23, ustekinumab may exert its clinical effects in psoriasis, psoriatic arthritis and Crohn's disease through interruption of the Th1 and Th17 cytokine pathways, which are central to the pathology of these diseases.
 
 In patients with Crohn's disease, treatment with ustekinumab resulted in a decrease in inflammatory markers including C-Reactive Protein (CRP) and faecal calprotectin during the induction phase, which were then maintained throughout the maintenance phase. CRP was assessed during the study extension and the reductions observed during maintenance were generally sustained through week 252.
-
-<div style=\"page-break-after: always\"></div>
 
 ## Immunisation
 
@@ -334,13 +361,17 @@ The safety and efficacy of ustekinumab was assessed in three randomised, double-
 
 The induction studies included 1,409 (UNITI-1, n = 769; UNITI-2 n = 640) patients. The primary endpoint for both induction studies was the proportion of subjects in clinical response (defined as a reduction in CDAI score of ≥ 100 points) at week 6. Efficacy data were collected and analysed through week 8 for both studies. Concomitant doses of oral corticosteroids, immunomodulators, aminosalicylates and antibiotics were permitted and 75% of patients continued to receive at least one of these medications. In both studies, patients were randomised to receive a single intravenous administration of either the recommended tiered dose of approximately 6 mg/kg (see Table 1, section 4.2), a fixed dose of 130 mg ustekinumab, or placebo at week 0.
 
-Patients in UNITI-1 had failed or were intolerant to prior anti-TNFα therapy. Approximately 48% of the patients had failed 1 prior anti-TNFα therapy and 52% had failed 2 or 3 prior anti-TNFα therapies. In this study, 29.1% of the patients had an inadequate initial response (primary non-responders), 69.4% responded but lost response (secondary non-responders), and 36.4% were intolerant to antiTNFα therapies.
+Patients in UNITI-1 had failed or were intolerant to prior anti-TNFα therapy. Approximately 48% of the patients had failed 1 prior anti-TNFα therapy and 52% had failed 2 or 3 prior anti-TNFα therapies.
+
+<div style=\"page-break-after: always\"></div>
+
+In this study, 29.1% of the patients had an inadequate initial response (primary non-responders), 69.4% responded but lost response (secondary non-responders), and 36.4% were intolerant to antiTNFα therapies.
 
 Patients in UNITI-2 had failed at least one conventional therapy, including corticosteroids or immunomodulators, and were either anti-TNFα naïve (68.6%) or had previously received but not failed anti-TNFα therapy (31.4%).
 
-In both UNITI-1 and UNITI-2, a significantly greater proportion of patients were in clinical response and remission in the ustekinumab treated group compared to placebo (Table 3). Clinical response and remission were significant as early as week 3 in ustekinumab treated patients and continued to improve through week 8. In these induction studies, efficacy was higher and better sustained in the tiered dose group compared to the 130 mg dose group, and tiered dosing is therefore the recommended intravenous induction dose.
+In both UNITI-1 and UNITI-2, a significantly greater proportion of patients were in clinical response and remission in the ustekinumab treated group compared to placebo (Table 4). Clinical response and remission were significant as early as week 3 in ustekinumab treated patients and continued to improve through week 8. In these induction studies, efficacy was higher and better sustained in the tiered dose group compared to the 130 mg dose group, and tiered dosing is therefore the recommended intravenous induction dose.
 
-Table 3:  Induction of Clinical Response and Remission in UNITI-1 and UNITI 2
+Table 4:  Induction of Clinical Response and Remission in UNITI-1 and UNITI 2
 
 |                                       | UNITI-1 *       | UNITI-1 *                               | UNITI-2 **      | UNITI-2 **                              |
 |---------------------------------------|-----------------|-----------------------------------------|-----------------|-----------------------------------------|
@@ -351,29 +382,35 @@ Table 3:  Induction of Clinical Response and Remission in UNITI-1 and UNITI 2
 | 70 Point Response, week 3             | 67 (27.1%)      | 101 (40.6%) b                           | 66 (31.6%)      | 106 (50.7%) a                           |
 | 70 Point Response, week 6             | 75 (30.4%)      | 109 (43.8%) b                           | 81 (38.8%)      | 135 (64.6%) a                           |
 
-<div style=\"page-break-after: always\"></div>
-
 Clinical remission is defined as CDAI score &lt; 150; Clinical response is defined as reduction in CDAI score by at least 100 points or being in clinical remission
 
 70 point response is defined as reduction in CDAI score by at least 70 points
 
 * Anti-TNFα failures
-- **  Conventional therapy failures
-- a p &lt; 0.001
-- b p &lt; 0.01
+
+**  Conventional therapy failures
+
+a p &lt; 0.001
+
+b p &lt; 0.01
 
 The maintenance study (IM-UNITI), evaluated 388 patients who achieved 100 point clinical response at week 8 of induction with ustekinumab in studies UNITI-1 and UNITI-2. Patients were randomised to receive a subcutaneous maintenance regimen of either 90 mg ustekinumab every 8 weeks, 90 mg ustekinumab every 12 weeks or placebo for 44 weeks (for recommended maintenance posology, see section 4.2 of the Uzpruvo solution for injection (vial) and solution for injection in pre-filled syringe SmPC).
 
-Significantly higher proportions of patients maintained clinical remission and response in the ustekinumab treated groups compared to the placebo group at week 44 (see Table 4).
+Significantly higher proportions of patients maintained clinical remission and response in the ustekinumab treated groups compared to the placebo group at week 44 (see Table 5).
 
-Table 4:  Maintenance of Clinical Response and Remission in IM-UNITI (week 44; 52 weeks from initiation of the induction dose)
+Table 5:  Maintenance of Clinical Response and Remission in IM-UNITI (week 44; 52 weeks from initiation of the induction dose)
+
+|                                        | Placebo* N = 131 †   | 90 mg ustekinumab every 8 weeks N = 128 †   | 90 mg ustekinumab every 12 weeks N = 129 †   |
+|----------------------------------------|----------------------|---------------------------------------------|----------------------------------------------|
+| Clinical Remission                     | 36%                  | 53% a                                       | 49% b                                        |
+| Clinical Response                      | 44%                  | 59% b                                       | 58% b                                        |
+| Corticosteroid-Free Clinical Remission | 30%                  | 47% a                                       | 43% c                                        |
+| Clinical Remission in patients:        |                      |                                             |                                              |
+
+<div style=\"page-break-after: always\"></div>
 
 |                                                  | Placebo* N = 131 †   | 90 mg ustekinumab every 8 weeks N = 128 †   | 90 mg ustekinumab every 12 weeks N = 129 †   |
 |--------------------------------------------------|----------------------|---------------------------------------------|----------------------------------------------|
-| Clinical Remission                               | 36%                  | 53% a                                       | 49% b                                        |
-| Clinical Response                                | 44%                  | 59% b                                       | 58% b                                        |
-| Corticosteroid-Free Clinical Remission           | 30%                  | 47% a                                       | 43% c                                        |
-| Clinical Remission in patients:                  |                      |                                             |                                              |
 | in remission at the start of maintenance therapy | 46% (36/79)          | 67% (52/78) a                               | 56% (44/78)                                  |
 | who entered from study CRD3002 ‡                 | 44% (31/70)          | 63% (45/72) c                               | 57% (41/72)                                  |
 | who are Anti-TNFα naïve                          | 49% (25/51)          | 65% (34/52) c                               | 57% (30/53)                                  |
@@ -382,23 +419,16 @@ Table 4:  Maintenance of Clinical Response and Remission in IM-UNITI (week 44; 5
 Clinical remission is defined as CDAI score &lt; 150; Clinical response is defined as reduction in CDAI of at least 100 points or being in clinical remission
 
 * The placebo group consisted of patients who were in response to ustekinumab and were randomised to receive placebo at the start of maintenance therapy.
-
-† Patients who were in 100 point clinical response to ustekinumab at start of maintenance therapy
-
-‡ Patients who failed conventional therapy but not anti-TNFα therapy
-
-§ Patients who are anti-TNFα refractory/intolerant
-
-a p &lt; 0.01
-
+- † Patients who were in 100 point clinical response to ustekinumab at start of maintenance therapy
+- ‡ Patients who failed conventional therapy but not anti-TNFα therapy
+- § Patients who are anti-TNFα refractory/intolerant
+- a p &lt; 0.01
 - b p &lt; 0.05
 - c nominally significant (p &lt; 0.05)
 
 In IM-UNITI, 29 of 129 patients did not maintain response to ustekinumab when treated every 12 weeks and were allowed to dose adjust to receive ustekinumab every 8 weeks. Loss of response was defined as a CDAI score ≥ 220 points and a ≥ 100 point increase from the CDAI score at baseline. In these patients, clinical remission was achieved in 41.4% of patients 16 weeks after dose adjustment.
 
 Patients who were not in clinical response to ustekinumab induction at week 8 of the UNITI-1 and UNITI-2 induction studies (476 patients) entered into the non-randomised portion of the maintenance study (IM-UNITI) and received a 90 mg subcutaneous injection of ustekinumab at that time. Eight weeks later, 50.5% of the patients achieved clinical response and continued to receive maintenance dosing every 8 weeks; among these patients with continued maintenance dosing, a majority maintained response (68.1%) and achieved remission (50.2%) at week 44, at proportions that were similar to the patients who initially responded to ustekinumab induction.
-
-<div style=\"page-break-after: always\"></div>
 
 Of 131 patients who responded to ustekinumab induction, and were randomised to the placebo group at the start of the maintenance study, 51 subsequently lost response and received 90 mg ustekinumab subcutaneously every 8 weeks. The majority of patients who lost response and resumed ustekinumab did so within 24 weeks of the induction infusion. Of these 51 patients, 70.6% achieved clinical response and 39.2% percent achieved clinical remission 16 weeks after receiving the first subcutaneous dose of ustekinumab.
 
@@ -408,7 +438,9 @@ No new safety concerns were identified in this study extension with up to 5 year
 
 ## Endoscopy
 
-Endoscopic appearance of the mucosa was evaluated in 252 patients with eligible baseline endoscopic disease activity in a substudy. The primary endpoint was change from baseline in Simplified Endoscopic Disease Severity Score for Crohn's Disease (SES-CD), a composite score across 5 ileocolonic segments of presence/size of ulcers, proportion of mucosal surface covered by ulcers, proportion of mucosal surface affected by any other lesions and presence/type of narrowing/strictures. At week 8, after a single intravenous induction dose, the change in SES-CD score was greater in the ustekinumab group (n = 155, mean change = -2.8) than in the placebo group (n = 97, mean change = 0.7, p = 0.012).
+Endoscopic appearance of the mucosa was evaluated in 252 patients with eligible baseline endoscopic disease activity in a substudy. The primary endpoint was change from baseline in Simplified Endoscopic Disease Severity Score for Crohn's Disease (SES-CD), a composite score across 5 ileocolonic segments of presence/size of ulcers, proportion of mucosal surface covered by ulcers, proportion of mucosal surface affected by any other lesions and presence/type of narrowing/strictures. At week 8, after a single intravenous induction dose, the change in SES-CD score was greater in the ustekinumab group (n = 155, mean change = -2.8) than in the placebo group (n = 97, mean change = -0.7, p = 0.012).
+
+<div style=\"page-break-after: always\"></div>
 
 ## Fistula response
 
@@ -426,11 +458,55 @@ Antibodies to ustekinumab may develop during ustekinumab treatment and most are 
 
 The European Medicines Agency has deferred the obligation to submit the results of studies with the reference medicinal product containing ustekinumab in one or more subsets of the paediatric population in Crohn's Disease (see section 4.2 for information on paediatric use).
 
+## Paediatric Crohn's disease
+
+The safety and efficacy of ustekinumab was evaluated in 48 paediatric patients weighing at least 40 kg, in an interim analysis of a multicentre phase 3 study (UNITI-Jr) for paediatric patients with moderately to severely active Crohn's disease (defined by a Paediatric Crohn's Disease Activity Index [PCDAI] score &gt; 30) through 52 weeks of treatment (8 weeks of induction and 44 weeks of maintenance treatment). Patients included in the study either had not adequately responded to or had not tolerated prior biologic therapy or conventional therapy for Crohn's disease. The study included an open-label induction treatment with a single ustekinumab intravenous dose, of approximately 6 mg/kg (see section 4.2), followed by a randomised double-blind subcutaneous maintenance regimen of 90 mg ustekinumab administered either every 8 weeks or every 12 weeks.
+
+## Efficacy results
+
+The primary endpoint of the study was clinical remission at induction week 8 (defined as PCDAI score ≤ 10). The proportion of patients who achieved clinical remission was 52.1% (25/48) and is comparable to that observed in the adult ustekinumab phase 3 studies.
+
+Clinical response was observed as early as week 3. The proportion of patients in clinical response at week 8 (defined as a reduction from baseline in the PCDAI score of &gt; 12.5 points with a total PCDAI score not more than 30) was 93.8% (45/48).
+
+Table 6 presents the analyses for the secondary endpoints through maintenance week 44.
+
 <div style=\"page-break-after: always\"></div>
+
+Table 6:  Summary of Secondary endpoints through Maintenance week 44
+
+|                                                                                      | 90 mg ustekinumab every 8 weeks N = 23   | 90 mg ustekinumab every 12 weeks N = 25   | Total number of patients N = 48   |
+|--------------------------------------------------------------------------------------|------------------------------------------|-------------------------------------------|-----------------------------------|
+| Clinical Remission *                                                                 | 43.5% (10/23)                            | 60.0% (15/25)                             | 52.1% (25/48)                     |
+| Corticosteroid-free Clinical Remission §                                             | 43.5% (10/23)                            | 60.0% (15/25)                             | 52.1% (25/48)                     |
+| Clinical remission for patients who were in clinical remission at induction week 8 * | 64.3% (9/14)                             | 54.5% (6/11)                              | 60.0% (15/25)                     |
+| Clinical Response †                                                                  | 52.2% (12/23)                            | 60.0% (15/25)                             | 56.3% (27/48)                     |
+| Endoscopic response £                                                                | 22.7% (5/22)                             | 28.0% (7/25)                              | 25.5% (12/47)                     |
+
+* Clinical remission is defined as PCDAI score ≤ 10 points.
+
+§ Corticosteroid-free remission is defined as PCDAI score of ≤ 10 points and not receiving corticosteroids for at least 90 days prior to Week M-44.
+
+† Clinical response is defined as a reduction from baseline in the PCDAI score of ≥ 12.5 points with a total PCDAI score not more than 30.
+
+£ Endoscopic response is defined as a reduction in the SES-CD score of ≥ 50% or SES-CD score ≤ 2, in patients with a baseline SES-CD score of ≥ 3.
+
+## Dosing frequency adjustment
+
+Patients who entered the maintenance regimen and experienced loss of response (LOR) based on PCDAI score were eligible for dose adjustment. Patients were either switched from treatment every 12 weeks to every 8 weeks or stayed on treatment every 8 weeks (sham adjustment). 2 patients were dose adjusted to the shorter dosing interval. In these patients, clinical remission was achieved in 100% (2/2) of patients 8 weeks after dose adjustment.
+
+The safety profile of the induction dose regimen and both maintenance dose regimens in the paediatric population weighing at least 40 kg is comparable with that established in the adult Crohn's disease population (see section 4.8).
+
+## Serum and faecal inflammatory biomarkers
+
+The mean change from baseline at maintenance week 44 in C-Reactive protein (CRP) and faecal calprotectin concentrations were -11.17 mg/L (24.159) and -538.2 mg/kg (1,271.33), respectively.
+
+## Health-related quality of life
+
+The total IMPACT-III scores and all subdomains (bowel symptoms, fatigue-related systemic symptoms, and well-being) demonstrated clinically meaningful improvements after 52 weeks.
 
 ## 5.2 Pharmacokinetic properties
 
-Following the recommended intravenous induction dose, median peak serum ustekinumab concentration, observed 1 hour after the infusion, was 126.1 μg/mL in patients with Crohn's disease..
+Following the recommended intravenous induction dose, median peak serum ustekinumab concentration, observed 1 hour after the infusion, was 126.1 μg/mL in patients with Crohn's disease.
 
 ## Distribution
 
@@ -439,6 +515,8 @@ Median volume of distribution during the terminal phase (Vz) following a single 
 ## Biotransformation
 
 The exact metabolic pathway for ustekinumab is unknown.
+
+<div style=\"page-break-after: always\"></div>
 
 ## Elimination
 
@@ -450,9 +528,9 @@ The systemic exposure of ustekinumab (Cmax and AUC) increased in an approximatel
 
 ## Special populations
 
-No pharmacokinetic data are available in patients with impaired renal or hepatic function. No specific studies have been conducted with intravenous ustekinumab in elderly or paediatric patients.
+No pharmacokinetic data are available in patients with impaired renal or hepatic function. No specific studies have been conducted with intravenous ustekinumab in elderly or paediatric patients weighing less than 40 kg.
 
-In patients with Crohn's disease, variability in ustekinumab clearance was affected by body weight, serum albumin level, sex, and antibody to ustekinumab status while body weight was the main covariate affecting the volume of distribution. Additionally in Crohn's disease, clearance was affected by C-reactive protein, TNF antagonist failure status and race (Asian versus non-Asian). The impact of these covariates was within ±20% of the typical or reference value of the respective PK parameter, thus dose adjustment is not warranted for these covariates. Concomitant use of immunomodulators did not have a significant impact on ustekinumab disposition.
+In patients with Crohn's disease, variability in ustekinumab clearance was affected by body weight, serum albumin level, sex, and antibody to ustekinumab status while body weight was the main covariate affecting the volume of distribution. Additionally, in Crohn's disease, clearance was affected by C-reactive protein, TNF antagonist failure status and race (Asian versus non-Asian). The impact of these covariates was within ±20% of the typical or reference value of the respective PK parameter, thus dose adjustment is not warranted for these covariates. Concomitant use of immunomodulators did not have a significant impact on ustekinumab disposition.
 
 ## Regulation of CYP450 enzymes
 
@@ -460,11 +538,15 @@ The effects of IL-12 or IL-23 on the regulation of CYP450 enzymes were evaluated
 
 A phase 1, open-label, drug interaction study, Study CNTO1275CRD1003, was conducted to evaluate the effect of ustekinumab on cytochrome P450 enzyme activities following induction and maintenance dosing in patients with active Crohn's disease (n=18). No clinically significant changes in exposure of caffeine (CYP1A2 substrate), warfarin (CYP2C9 substrate), omeprazole (CYP2C19 substrate), dextromethorphan (CYP2D6 substrate), or midazolam (CYP3A substrate) were observed when used concomitantly with ustekinumab at the approved recommended dosing in patients with Crohn's disease (see section 4.5).
 
-<div style=\"page-break-after: always\"></div>
+## Paediatric population
+
+Serum ustekinumab concentrations in paediatric Crohn's disease patients weighing at least 40 kg, treated with the recommended weight-based dose were generally comparable to those in the adult Crohn's disease population treated with the adult weight-based dose.
 
 ## 5.3 Preclinical safety data
 
 Non-clinical data reveal no special hazard (e.g. organ toxicity) for humans based on studies of repeated-dose toxicity and developmental and reproductive toxicity, including safety pharmacology evaluations. In developmental and reproductive toxicity studies in cynomolgus monkeys, neither adverse effects on male fertility indices nor birth defects or developmental toxicity were observed. No adverse effects on female fertility indices were observed using an analogous antibody to IL-12/23 in mice.
+
+<div style=\"page-break-after: always\"></div>
 
 Dose levels in animal studies were up to approximately 45-fold higher than the highest equivalent dose intended to be administered to psoriasis patients and resulted in peak serum concentrations in monkeys that were more than 100-fold higher than observed in humans.
 
@@ -482,7 +564,7 @@ In the absence of compatibility studies, this medicinal product must not be mixe
 
 ## 6.3 Shelf life
 
-2 years
+## 2 years
 
 Chemical and physical in-use stability has been demonstrated for 8 hours at 15-25 °C.
 
@@ -496,15 +578,17 @@ Store in a refrigerator (2 °C - 8 °C). Do not freeze. Keep the vial in the out
 
 For storage conditions after dilution of the medicinal product, see section 6.3.
 
-<div style=\"page-break-after: always\"></div>
-
 ## 6.5 Nature and contents of container
 
 26 mL solution in a type I glass 30 mL vial closed with a coated bromobutyl rubber stopper. Uzpruvo is available in a 1 vial pack.
 
 ## 6.6 Special precautions for disposal and other handling
 
-The solution in the Uzpruvo vial should not be shaken. The solution should be visually inspected for particulate matter or discolouration prior to administration. The solution is clear, colourless to light yellow and practically free from visible particles. The medicinal product should not be used if the solution is frozen, discoloured or cloudy, or if foreign particulate matter is present.
+The solution in the Uzpruvo vial should not be shaken. The solution should be visually inspected for particulate matter or discolouration prior to administration. The solution is clear, colourless to light
+
+<div style=\"page-break-after: always\"></div>
+
+yellow and practically free from visible particles. The medicinal product should not be used if the solution is frozen, discoloured or cloudy, or if foreign particulate matter is present.
 
 ## Dilution
 
@@ -531,8 +615,6 @@ EU/1/23/1784/005
 Date of first authorisation: 05 January 2024
 
 ## 10. DATE OF REVISION OF THE TEXT
-
-<div style=\"page-break-after: always\"></div>
 
 Detailed information on this medicinal product is available on the website of the European Medicines Agency https://www.ema.europa.eu
 
@@ -592,9 +674,13 @@ Uzpruvo is indicated for the treatment of moderate to severe plaque psoriasis in
 
 Uzpruvo, alone or in combination with MTX, is indicated for the treatment of active psoriatic arthritis in adult patients when the response to previous non-biological disease-modifying anti-rheumatic drug (DMARD) therapy has been inadequate (see section 5.1).
 
-## Crohn's Disease
+## Adult Crohn's Disease
 
-Uzpruvo is indicated for the treatment of adult patients with moderately to severely active Crohn's disease who have had an inadequate response with, lost response to, or were intolerant to either conventional therapy or a TNFα antagonist or have medical contraindications to such therapies.
+Uzpruvo is indicated for the treatment of adult patients with moderately to severely active Crohn's disease who have had an inadequate response with, lost response to, or were intolerant to either conventional therapy or a TNFα antagonist.
+
+## Paediatric Crohn's Disease
+
+Uzpruvo is indicated for the treatment of moderately to severely active Crohn's disease in paediatric patients weighing at least 40 kg, who have had an inadequate response to, or were intolerant to either conventional or biologic therapy.
 
 ## 4.2 Posology and method of administration
 
@@ -626,11 +712,11 @@ No dose adjustment is needed for elderly patients (see section 4.4).
 
 Uzpruvo has not been studied in these patient populations. No dose recommendations can be made.
 
+<div style=\"page-break-after: always\"></div>
+
 ## Paediatric population
 
 The safety and efficacy of Uzpruvo in children with psoriasis less than 6 years of age or in children with psoriatic arthritis less than 18 years of age have not yet been established. No data are available.
-
-<div style=\"page-break-after: always\"></div>
 
 ## Paediatric plaque psoriasis (6 years and older)
 
@@ -675,15 +761,15 @@ Table 2 Injection volumes of Uzpruvo for paediatric psoriasis patients &lt; 60 k
 |                                   37 |        27.8 |                       0.31 |
 |                                   38 |        28.5 |                       0.32 |
 |                                   39 |        29.3 |                       0.32 |
-|                                   40 |        30   |                       0.33 |
-|                                   41 |        30.8 |                       0.34 |
-|                                   42 |        31.5 |                       0.35 |
-|                                   43 |        32.3 |                       0.36 |
 
 <div style=\"page-break-after: always\"></div>
 
 |   Body weight at time of dosing (kg) |   Dose (mg) |   Volume of injection (mL) |
 |--------------------------------------|-------------|----------------------------|
+|                                   40 |        30   |                       0.33 |
+|                                   41 |        30.8 |                       0.34 |
+|                                   42 |        31.5 |                       0.35 |
+|                                   43 |        32.3 |                       0.36 |
 |                                   44 |        33   |                       0.37 |
 |                                   45 |        33.8 |                       0.37 |
 |                                   46 |        34.5 |                       0.38 |
@@ -703,6 +789,8 @@ Table 2 Injection volumes of Uzpruvo for paediatric psoriasis patients &lt; 60 k
 
 Consideration should be given to discontinuing treatment in patients who have shown no response up to 28 weeks of treatment.
 
+## Adults
+
 ## Crohn's disease
 
 In the treatment regimen, the first dose of Uzpruvo is administered intravenously. For the posology of the intravenous dosing regimen, see section 4.2 of the Uzpruvo 130 mg concentrate for solution for infusion SmPC.
@@ -719,13 +807,13 @@ Consideration should be given to discontinuing treatment in patients who show no
 
 Immunomodulators and/or corticosteroids may be continued during treatment with Uzpruvo. In patients who have responded to treatment with Uzpruvo, corticosteroids may be reduced or discontinued in accordance with standard of care.
 
+<div style=\"page-break-after: always\"></div>
+
 In Crohn's disease, if therapy is interrupted, resumption of treatment with subcutaneous dosing every 8 weeks is safe and effective.
 
 ## Elderly (≥ 65 years)
 
 No dose adjustment is needed for elderly patients (see section 4.4).
-
-<div style=\"page-break-after: always\"></div>
 
 ## Renal and hepatic impairment
 
@@ -733,7 +821,21 @@ Ustekinumab has not been studied in these patient populations. No dose recommend
 
 ## Paediatric population
 
-The safety and efficacy of ustekinumab for the treatment of Crohn's disease in children less than 18 years have not yet been established. No data are available.
+## Paediatric Crohn's disease (patients weighing at least 40 kg)
+
+In the treatment regimen, the first dose of Uzpruvo is administered intravenously. For the posology of the intravenous dosing regimen, see section 4.2 of the Uzpruvo 130 mg Concentrate for solution for infusion SmPC.
+
+The first subcutaneous administration of 90 mg Uzpruvo should take place at week 8 after the intravenous dose. After this, dosing every 12 weeks is recommended.
+
+Patients who lose response on dosing every 12 weeks may benefit from an increase in dosing frequency to every 8 weeks (see section 5.1, section 5.2).
+
+Patients may subsequently be dosed every 8 weeks or every 12 weeks according to clinical judgment (see section 5.1).
+
+Consideration should be given to discontinuing treatment in patients who show no evidence of therapeutic benefit 16 weeks after the IV induction dose or 16 weeks after dose adjustment.
+
+Immunomodulators, 5-aminosalicylate (5-ASA) compounds, antibiotics, and/or corticosteroids may be continued during treatment with Uzpruvo. In patients who have responded to treatment with Uzpruvo, these medications maybe reduced or discontinued in accordance with standard of care.
+
+The safety and efficacy of Uzpruvo for the treatment of Crohn's disease for paediatric patients weighing less than 40 kg have not yet been established. No data are available.
 
 ## Method of administration
 
@@ -749,6 +851,8 @@ Hypersensitivity to the active substance or to any of the excipients listed in s
 
 Clinically important, active infection (e.g., active tuberculosis; see section 4.4).
 
+<div style=\"page-break-after: always\"></div>
+
 ## 4.4 Special warnings and precautions for use
 
 ## Traceability
@@ -763,11 +867,7 @@ Opportunistic infections including reactivation of tuberculosis, other opportuni
 
 Caution should be exercised when considering the use of Uzpruvo in patients with a chronic infection or a history of recurrent infection (see section 4.3).
 
-Prior to initiating treatment with Uzpruvo, patients should be evaluated for tuberculosis infection. Uzpruvo must not be given to patients with active tuberculosis (see section 4.3). Treatment of latent tuberculosis infection should be initiated prior to administering Uzpruvo. Anti-tuberculosis therapy should also be considered prior to initiation of Uzpruvo in patients with a history of latent or active tuberculosis in whom an adequate course of treatment cannot be confirmed. Patients receiving
-
-<div style=\"page-break-after: always\"></div>
-
-Uzpruvo should be monitored closely for signs and symptoms of active tuberculosis during and after treatment.
+Prior to initiating treatment with Uzpruvo, patients should be evaluated for tuberculosis infection. Uzpruvo must not be given to patients with active tuberculosis (see section 4.3). Treatment of latent tuberculosis infection should be initiated prior to administering Uzpruvo. Anti-tuberculosis therapy should also be considered prior to initiation of Uzpruvo in patients with a history of latent or active tuberculosis in whom an adequate course of treatment cannot be confirmed. Patients receiving Uzpruvo should be monitored closely for signs and symptoms of active tuberculosis during and after treatment.
 
 Patients should be instructed to seek medical advice if signs or symptoms suggestive of an infection occur. If a patient develops a serious infection, the patient should be closely monitored and Uzpruvo should not be administered until the infection resolves.
 
@@ -783,7 +883,11 @@ All patients, in particular those greater than 60 years of age, patients with a 
 
 ## Systemic
 
-Serious hypersensitivity reactions have been reported in the postmarketing setting, in some cases several days after treatment. Anaphylaxis and angioedema have occurred. If an anaphylactic or other serious hypersensitivity reaction occurs, appropriate therapy should be instituted and administration of Uzpruvo should be discontinued (see section 4.8).
+Serious hypersensitivity reactions have been reported in the postmarketing setting, in some cases several days after treatment. Anaphylaxis and angioedema have occurred. If an anaphylactic or other
+
+<div style=\"page-break-after: always\"></div>
+
+serious hypersensitivity reaction occurs, appropriate therapy should be instituted and administration of Uzpruvo should be discontinued (see section 4.8).
 
 ## Respiratory
 
@@ -796,8 +900,6 @@ Cardiovascular events including myocardial infarction and cerebrovascular accide
 ## Vaccinations
 
 It is recommended that live viral or live bacterial vaccines (such as Bacillus of Calmette and Guérin (BCG)) should not be given concurrently with Uzpruvo. Specific studies have not been conducted in patients who had recently received live viral or live bacterial vaccines. No data are available on the secondary transmission of infection by live vaccines in patients receiving ustekinumab. Before live viral or live bacterial vaccination, treatment with Uzpruvo should be withheld for at least 15 weeks after the last dose and can be resumed at least 2 weeks after vaccination. Prescribers should consult the Summary of Product Characteristics for the specific vaccine for additional information and guidance on concomitant use of immunosuppressive agents post-vaccination.
-
-<div style=\"page-break-after: always\"></div>
 
 Administration of live vaccines (such as the BCG vaccine) to infants exposed in utero to ustekinumab is not recommended for twelve months following birth or until ustekinumab infant serum levels are undetectable (see sections 4.5 and 4.6). If there is a clear clinical benefit for the individual infant, administration of a live vaccine might be considered at an earlier timepoint, if infant ustekinumab serum levels are undetectable.
 
@@ -813,6 +915,8 @@ In psoriasis studies, the safety and efficacy of ustekinumab in combination with
 
 Ustekinumab has not been evaluated in patients who have undergone allergy immunotherapy. It is not known whether Uzpruvo may affect allergy immunotherapy.
 
+<div style=\"page-break-after: always\"></div>
+
 ## Serious skin conditions
 
 In patients with psoriasis, exfoliative dermatitis has been reported following ustekinumab treatment (see section 4.8). Patients with plaque psoriasis may develop erythrodermic psoriasis, with symptoms that may be clinically indistinguishable from exfoliative dermatitis, as part of the natural course of their disease. As part of the monitoring of the patient's psoriasis, physicians should be alert for symptoms of erythrodermic psoriasis or exfoliative dermatitis. If these symptoms occur, appropriate therapy should be instituted. Uzpruvo should be discontinued if a drug reaction is suspected.
@@ -826,8 +930,6 @@ Cases of lupus-related conditions have been reported in patients treated with us
 ## Elderly (≥ 65 years)
 
 No overall differences in efficacy or safety in patients age 65 and older who received ustekinumab were observed compared to younger patients in clinical studies in approved indications, however the number of patients aged 65 and older is not sufficient to determine whether they respond differently from younger patients. Because there is a higher incidence of infections in the elderly population in general, caution should be used in treating the elderly.
-
-<div style=\"page-break-after: always\"></div>
 
 ## Polysorbates
 
@@ -849,7 +951,11 @@ Live vaccines should not be given concurrently with Uzpruvo (see section 4.4).
 
 Administration of live vaccines (such as the BCG vaccine) to infants exposed in utero to ustekinumab is not recommended for twelve months following birth or until ustekinumab infant serum levels are undetectable (see sections 4.4 and 4.6). If there is a clear clinical benefit for the individual infant, administration of a live vaccine might be considered at an earlier timepoint, if infant ustekinumab serum levels are undetectable.
 
-In the population pharmacokinetic analyses of the ustekinumab phase 3 studies, the effect of the most frequently used concomitant medicinal products in patients with psoriasis (including paracetamol, ibuprofen, acetylsalicylic acid, metformin, atorvastatin, levothyroxine) on pharmacokinetics of ustekinumab was explored. There were no indications of an interaction with these concomitantly administered medicinal products. The basis for this analysis was that at least 100 patients (&gt; 5% of the studied population) were treated concomitantly with these medicinal products for at least 90% of the study period. The pharmacokinetics of ustekinumab was not impacted by concomitant use of MTX, NSAIDs, 6-mercaptopurine, azathioprine and oral corticosteroids in patients with psoriatic arthritis, Crohn's disease or ulcerative colitis, or prior exposure to anti-TNFα agents, in patients with psoriatic arthritis or Crohn's disease or by prior exposure to biologics (i.e. anti-TNFα agents and/or vedolizumab) in patients with ulcerative colitis.
+In the population pharmacokinetic analyses of the ustekinumab phase 3 studies, the effect of the most frequently used concomitant medicinal products in patients with psoriasis (including paracetamol, ibuprofen, acetylsalicylic acid, metformin, atorvastatin, levothyroxine) on pharmacokinetics of ustekinumab was explored. There were no indications of an interaction with these concomitantly administered medicinal products. The basis for this analysis was that at least 100 patients (&gt; 5% of the studied population) were treated concomitantly with these medicinal products for at least 90% of the study period. The pharmacokinetics of ustekinumab was not impacted by concomitant use of MTX,
+
+<div style=\"page-break-after: always\"></div>
+
+NSAIDs, 6-mercaptopurine, azathioprine and oral corticosteroids in patients with psoriatic arthritis, Crohn's disease or ulcerative colitis, or prior exposure to anti-TNFα agents, in patients with psoriatic arthritis or Crohn's disease or by prior exposure to biologics (i.e. anti-TNFα agents and/or vedolizumab) in patients with ulcerative colitis.
 
 The results of an in vitro study and a phase 1 study in subjects with active Crohn's disease do not suggest the need for dose adjustments in patients who are receiving concomitant CYP450 substrates (see section 5.2).
 
@@ -863,11 +969,7 @@ Women of childbearing potential should use effective methods of contraception du
 
 ## Pregnancy
 
-Data from a moderate number of prospectively collected pregnancies following exposure to ustekinumab with known outcomes, including more than 450 pregnancies exposed during the first
-
-<div style=\"page-break-after: always\"></div>
-
-trimester, do not indicate an increased risk of major congenital malformations in the newborn.
+Data from a moderate number of prospectively collected pregnancies following exposure to ustekinumab with known outcomes, including more than 450 pregnancies exposed during the first trimester, do not indicate an increased risk of major congenital malformations in the newborn.
 
 Animal studies do not indicate direct or indirect harmful effects with respect to pregnancy, embryonic/foetal development, parturition or postnatal development (see section 5.3).
 
@@ -883,6 +985,8 @@ Limited data from published literature suggests that ustekinumab is excreted in 
 
 The effect of ustekinumab on human fertility has not been evaluated (see section 5.3).
 
+<div style=\"page-break-after: always\"></div>
+
 ## 4.7 Effects on ability to drive and use machines
 
 Uzpruvo has no or negligible influence on the ability to drive and use machines.
@@ -895,39 +999,34 @@ The most common adverse reactions (&gt; 5%) in controlled periods of the adult p
 
 ## Tabulated list of adverse reactions
 
-The safety data described below reflect exposure in adults to ustekinumab in 14 phase 2 and phase 3 studies in 6,710 patients (4,135 with psoriasis and/or psoriatic arthritis, 1,749 with Crohn's disease and 826 patients with ulcerative colitis). This includes exposure to ustekinumab in the controlled and non-controlled periods of the clinical studies in patients with psoriasis, psoriatic arthritis, Crohn's disease or ulcerative colitis for at least 6 months (4,577 patients) or at least 1 year (3,648 patients). 2,194 patients with psoriasis, Crohn's disease or ulcerative colitis for at least 4 years while 1,148 patients with psoriasis or Crohn's disease were exposed for at least 5 years.
+The safety data described below reflect exposure in adults to ustekinumab in 14 phase 2 and phase 3 studies in 6,710 patients (4,135 with psoriasis and/or psoriatic arthritis, 1,749 with Crohn's disease and 826 patients with ulcerative colitis). This includes exposure to ustekinumab in the controlled and non-controlled periods of the clinical studies in patients with psoriasis, psoriatic arthritis, Crohn's disease or ulcerative colitis for at least 6 months (4,577 patients) or at least 1 year (3,648 patients). 2,194 patients with psoriasis, Crohn's disease or ulcerative colitis were exposed for at least 4 years while 1,148 patients with psoriasis or Crohn's disease were exposed for at least 5 years.
 
-Table 3 provides a list of adverse reactions from adult psoriasis, psoriatic arthritis, Crohn's disease and ulcerative colitis clinical studies as well as adverse reactions reported from post-marketing experience.
-
-<div style=\"page-break-after: always\"></div>
-
-The adverse reactions are classified by System Organ Class and frequency, using the following convention: Very common (≥ 1/10), Common (≥ 1/100 to &lt; 1/10), Uncommon (≥ 1/1,000 to &lt; 1/100), Rare (≥ 1/10,000 to &lt; 1/1,000), Very rare (&lt; 1/10,000), not known (cannot be estimated from the available data). Within each frequency grouping, adverse reactions are presented in order of decreasing seriousness.
+Table 3 provides a list of adverse reactions from adult psoriasis, psoriatic arthritis, Crohn's disease and ulcerative colitis clinical studies as well as adverse reactions reported from post-marketing experience. The adverse reactions are classified by System Organ Class and frequency, using the following convention: Very common (≥ 1/10), Common (≥ 1/100 to &lt; 1/10), Uncommon (≥ 1/1,000 to &lt; 1/100), Rare (≥ 1/10,000 to &lt; 1/1,000), Very rare (&lt; 1/10,000), not known (cannot be estimated from the available data). Within each frequency grouping, adverse reactions are presented in order of decreasing seriousness.
 
 Table 3 List of adverse reactions
 
-| System Organ Class                                   | Frequency: Adverse reaction        | Frequency: Adverse reaction                                                                                                                                                                                            |
-|------------------------------------------------------|------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Infections and infestations                          | Common: Uncommon:                  | Upper respiratory tract infection, nasopharyngitis, sinusitis Cellulitis, dental infections, herpes zoster, lower respiratory tract infection, viral upper respiratory tract infection, vulvovaginal mycotic infection |
-| Immune system disorders                              | Uncommon: Rare:                    | Hypersensitivity reactions (including rash, urticaria) Serious hypersensitivity reactions (including anaphylaxis, angioedema)                                                                                          |
-| Psychiatric disorders                                | Uncommon:                          | Depression                                                                                                                                                                                                             |
-| Nervous system disorders                             | Common: Uncommon:                  | Dizziness, headache Facial palsy                                                                                                                                                                                       |
-| Respiratory, thoracic and mediastinal disorders      | Common: Uncommon: Rare: Very rare: | Oropharyngeal pain Nasal congestion Allergic alveolitis, eosinophilic pneumonia Organising pneumonia*                                                                                                                  |
-| Gastrointestinal disorders                           | Common:                            | Diarrhoea, nausea, vomiting                                                                                                                                                                                            |
-| Skin and subcutaneous tissue disorders               | Common: Uncommon: Rare: Very rare: | Pruritus Pustular psoriasis, skin exfoliation, acne Exfoliative dermatitis, hypersensitivity vasculitis Bullous pemphigoid, cutaneous lupus erythematosus                                                              |
-| Musculoskeletal and connective tissue disorders      | Common: Very rare:                 | Back pain, myalgia, arthralgia Lupus-like syndrome                                                                                                                                                                     |
-| General disorders and administration site conditions | Common: Uncommon:                  | Fatigue, injection site erythema, injection site pain Injection site reactions (including haemorrhage, haematoma, induration, swelling and pruritus), asthenia                                                         |
+| System Organ Class          | Frequency: Adverse reaction   | Frequency: Adverse reaction                                                                                                                                                                                            |
+|-----------------------------|-------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Infections and infestations | Common: Uncommon:             | Upper respiratory tract infection, nasopharyngitis, sinusitis Cellulitis, dental infections, herpes zoster, lower respiratory tract infection, viral upper respiratory tract infection, vulvovaginal mycotic infection |
+| Immune system disorders     | Uncommon: Rare:               | Hypersensitivity reactions (including rash, urticaria) Serious hypersensitivity reactions (including anaphylaxis, angioedema)                                                                                          |
+| Psychiatric disorders       | Uncommon:                     | Depression                                                                                                                                                                                                             |
+| Nervous system disorders    | Common: Uncommon:             | Dizziness, headache Facial palsy                                                                                                                                                                                       |
 
-* See section 4.4, Systemic and respiratory hypersensitivity reactions.
+<div style=\"page-break-after: always\"></div>
+
+| System Organ Class                                   | Frequency: Adverse reaction        | Frequency: Adverse reaction                                                                                                                                    |
+|------------------------------------------------------|------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Respiratory, thoracic and mediastinal disorders      | Common: Uncommon: Rare: Very rare: | Oropharyngeal pain Nasal congestion Allergic alveolitis, eosinophilic pneumonia Organising pneumonia*                                                          |
+| Gastrointestinal disorders                           | Common:                            | Diarrhoea, nausea, vomiting                                                                                                                                    |
+| Skin and subcutaneous tissue disorders               | Common: Uncommon: Rare: Very rare: | Pruritus Pustular psoriasis, skin exfoliation, acne Exfoliative dermatitis, hypersensitivity vasculitis Bullous pemphigoid, cutaneous lupus erythematosus      |
+| Musculoskeletal and connective tissue disorders      | Common: Very rare:                 | Back pain, myalgia, arthralgia Lupus-like syndrome                                                                                                             |
+| General disorders and administration site conditions | Common: Uncommon:                  | Fatigue, injection site erythema, injection site pain Injection site reactions (including haemorrhage, haematoma, induration, swelling and pruritus), asthenia |
 
 ## Description of selected adverse reactions
 
 ## Infections
 
-In the placebo-controlled studies of patients with psoriasis, psoriatic arthritis, Crohn's disease and ulcerative colitis, the rates of infection or serious infection were similar between ustekinumab-treated patients and those treated with placebo. In the placebo-controlled period of these clinical studies, the rate of infection was 1.36 per patient-year of follow-up in ustekinumab-treated patients, and 1.34 in
-
-<div style=\"page-break-after: always\"></div>
-
-placebo-treated patients. Serious infections occurred at the rate of 0.03 per patient-year of follow-up in ustekinumab-treated patients (30 serious infections in 930 patient-years of follow-up) and 0.03 in placebo-treated patients (15 serious infections in 434 patient-years of follow-up) (see section 4.4).
+In the placebo-controlled studies of patients with psoriasis, psoriatic arthritis, Crohn's disease and ulcerative colitis, the rates of infection or serious infection were similar between ustekinumab-treated patients and those treated with placebo. In the placebo-controlled period of these clinical studies, the rate of infection was 1.36 per patient-year of follow-up in ustekinumab-treated patients, and 1.34 in placebo-treated patients. Serious infections occurred at the rate of 0.03 per patient-year of follow-up in ustekinumab-treated patients (30 serious infections in 930 patient-years of follow-up) and 0.03 in placebo-treated patients (15 serious infections in 434 patient-years of follow-up) (see section 4.4).
 
 In the controlled and non-controlled periods of psoriasis, psoriatic arthritis, Crohn's disease and ulcerative colitis clinical studies, representing 15,227 patient-years of ustekinumab exposure in 6,710 patients, the median follow-up was 1.2 years; 1.7 years for psoriatic disease studies, 0.6 year for Crohn's disease studies and 2.3 years for ulcerative colitis studies. The rate of infection was 0.85 per patient-year of follow-up in ustekinumab-treated patients, and the rate of serious infections was 0.02 per patient-year of follow-up in ustekinumab-treated patients (289 serious infections in 15,227 patient-years of follow-up) and serious infections reported included pneumonia, anal abscess, cellulitis, diverticulitis, gastroenteritis and viral infections.
 
@@ -936,6 +1035,8 @@ In clinical studies, patients with latent tuberculosis who were concurrently tre
 ## Malignancies
 
 In the placebo-controlled period of the psoriasis, psoriatic arthritis, Crohn's disease and ulcerative colitis clinical studies, the incidence of malignancies excluding non-melanoma skin cancer was 0.11 per 100 patient-years of follow-up for ustekinumab-treated patients (1 patient in 929 patient-years of follow-up) compared with 0.23 for placebo-treated patients (1 patient in 434 patient-years of followup). The incidence of non-melanoma skin cancer was 0.43 per 100 patient-years of follow-up for ustekinumab-treated patients (4 patients in 929 patient-years of follow-up) compared to 0.46 for placebo-treated patients (2 patients in 433 patient-years of follow-up).
+
+<div style=\"page-break-after: always\"></div>
 
 In the controlled and non-controlled periods of psoriasis, psoriatic arthritis, Crohn's disease and ulcerative colitis clinical studies, representing 15,205 patient-years of ustekinumab exposure in 6,710 patients, the median follow-up was 1.2 years; 1.7 years for psoriatic disease studies, 0.6 year for Crohn's disease studies and 2.3 years for ulcerative colitis studies. Malignancies excluding nonmelanoma skin cancers were reported in 76 patients in 15,205 patient-years of follow-up (incidence of 0.50 per 100 patient-years of follow-up for ustekinumab-treated patients). The incidence of malignancies reported in ustekinumab-treated patients was comparable to the incidence expected in the general population (standardised incidence ratio = 0.94 [95% confidence interval: 0.73, 1.18], adjusted for age, gender and race). The most frequently observed malignancies, other than nonmelanoma skin cancer, were prostate cancer, melanoma, colorectal, and breast cancers. The incidence of non-melanoma skin cancer was 0.46 per 100 patient-years of follow-up for ustekinumab-treated patients (69 patients in 15,165 patient-years of follow-up). The ratio of patients with basal versus squamous cell skin cancers (3:1) is comparable with the ratio expected in the general population (see section 4.4).
 
@@ -949,13 +1050,13 @@ During the controlled periods of the psoriasis and psoriatic arthritis clinical 
 
 The safety of ustekinumab has been studied in two phase 3 studies of paediatric patients with moderate to severe plaque psoriasis. The first study was in 110 patients from 12 to 17 years of age treated for up to 60 weeks and the second study was in 44 patients from 6 to 11 years of age treated for up to 56 weeks. In general, the adverse events reported in these two studies with safety data up to 1 year were similar to those seen in previous studies in adults with plaque psoriasis.
 
+## Paediatric patients weighing at least 40 kg with Crohn's disease
+
+The safety of ustekinumab has been studied in one phase 1 and one phase 3 study of paediatric patients with moderately to severely active Crohn's disease up to week 240 and week 52, respectively. In general, the safety profile in this cohort (n = 71) was similar to that seen in previous studies in adults with Crohn's disease.
+
 ## Reporting of suspected adverse reactions
 
-Reporting suspected adverse reactions after authorisation of the medicinal product is important. It allows continued monitoring of the benefit/risk balance of the medicinal product. Healthcare
-
-<div style=\"page-break-after: always\"></div>
-
-professionals are asked to report any suspected adverse reactions via the national reporting system listed in Appendix V.
+Reporting suspected adverse reactions after authorisation of the medicinal product is important. It allows continued monitoring of the benefit/risk balance of the medicinal product. Healthcare professionals are asked to report any suspected adverse reactions via the national reporting system listed in Appendix V.
 
 ## 4.9 Overdose
 
@@ -968,6 +1069,8 @@ Single doses up to 6 mg/kg have been administered intravenously in clinical stud
 Pharmacotherapeutic group: Immunosuppressants, interleukin inhibitors, ATC code: L04AC05.
 
 Uzpruvo is a biosimilar medicinal product. Detailed information is available on the website of the European Medicines Agency https://www.ema.europa.eu.
+
+<div style=\"page-break-after: always\"></div>
 
 ## Mechanism of action
 
@@ -985,15 +1088,15 @@ During the long-term extension of Psoriasis Study 2 (PHOENIX 2), adult patients 
 
 ## Plaque psoriasis (Adults)
 
-The safety and efficacy of ustekinumab was assessed in 1,996 patients in two randomised double blind, placebo-controlled studies in patients with moderate to severe plaque psoriasis and who were candidates for phototherapy or systemic therapy. In addition, a randomised, blinded assessor, active-
-
-<div style=\"page-break-after: always\"></div>
-
-controlled study compared ustekinumab and etanercept in patients with moderate to severe plaque psoriasis who had had an inadequate response to, intolerance to, or contraindication to ciclosporin, MTX, or PUVA.
+The safety and efficacy of ustekinumab was assessed in 1,996 patients in two randomised double blind, placebo-controlled studies in patients with moderate to severe plaque psoriasis and who were candidates for phototherapy or systemic therapy. In addition, a randomised, blinded assessor, activecontrolled study compared ustekinumab and etanercept in patients with moderate to severe plaque psoriasis who had had an inadequate response to, intolerance to, or contraindication to ciclosporin, MTX, or PUVA.
 
 Psoriasis Study 1 (PHOENIX 1) evaluated 766 patients. 53% of these patients were either nonresponsive, intolerant, or had a contraindication to other systemic therapy. Patients randomised to ustekinumab received 45 mg or 90 mg doses at weeks 0 and 4 and followed by the same dose every 12 weeks. Patients randomised to receive placebo at weeks 0 and 4 crossed over to receive ustekinumab (either 45 mg or 90 mg) at weeks 12 and 16 followed by dosing every 12 weeks. Patients originally randomised to ustekinumab who achieved Psoriasis Area and Severity Index 75 response (PASI improvement of at least 75% relative to baseline) at both weeks 28 and 40 were re-randomised to receive ustekinumab every 12 weeks or to placebo (i.e., withdrawal of therapy). Patients who were re- randomised to placebo at week 40 reinitiated ustekinumab at their original dosing regimen when they experienced at least a 50% loss of their PASI improvement obtained at week 40. All patients were followed for up to 76 weeks following first administration of study treatment.
 
-Psoriasis Study 2 (PHOENIX 2) evaluated 1,230 patients. 61% of these patients were either nonresponsive, intolerant, or had a contraindication to other systemic therapy. Patients randomised to ustekinumab received 45 mg or 90 mg doses at weeks 0 and 4 followed by an additional dose at 16 weeks. Patients randomised to receive placebo at weeks 0 and 4 crossed over to receive ustekinumab (either 45 mg or 90 mg) at weeks 12 and 16. All patients were followed for up to 52 weeks following first administration of study treatment.
+Psoriasis Study 2 (PHOENIX 2) evaluated 1,230 patients. 61% of these patients were either nonresponsive, intolerant, or had a contraindication to other systemic therapy. Patients randomised to
+
+<div style=\"page-break-after: always\"></div>
+
+ustekinumab received 45 mg or 90 mg doses at weeks 0 and 4 followed by an additional dose at 16 weeks. Patients randomised to receive placebo at weeks 0 and 4 crossed over to receive ustekinumab (either 45 mg or 90 mg) at weeks 12 and 16. All patients were followed for up to 52 weeks following first administration of study treatment.
 
 Psoriasis Study 3 (ACCEPT) evaluated 903 patients with moderate to severe psoriasis who inadequately responded to, were intolerant to, or had a contraindication to other systemic therapy and compared the efficacy of ustekinumab to etanercept and evaluated the safety of ustekinumab and etanercept. During the 12-week active-controlled portion of the study, patients were randomised to receive etanercept (50 mg twice a week), ustekinumab 45 mg at weeks 0 and 4, or ustekinumab 90 mg at weeks 0 and 4.
 
@@ -1002,6 +1105,8 @@ Baseline disease characteristics were generally consistent across all treatment 
 The primary endpoint in these studies was the proportion of patients who achieved PASI 75 response from baseline at week 12 (see Tables 4 and 5).
 
 Table 4 Summary of clinical response in Psoriasis Study 1 (PHOENIX 1) and Psoriasis Study 2 (PHOENIX 2)
+
+a p &lt; 0.001 for ustekinumab 45 mg or 90 mg in comparison with placebo (PBO).
 
 |                                   | Week 12 2 doses (week 0 and week 4)   | Week 12 2 doses (week 0 and week 4)   | Week 12 2 doses (week 0 and week 4)   | Week 28 3 doses (week 0, week 4 and week 16)   | Week 28 3 doses (week 0, week 4 and week 16)   |
 |-----------------------------------|---------------------------------------|---------------------------------------|---------------------------------------|------------------------------------------------|------------------------------------------------|
@@ -1015,12 +1120,6 @@ Table 4 Summary of clinical response in Psoriasis Study 1 (PHOENIX 1) and Psoria
 | Number of patients ≤ 100 kg       | 166                                   | 168                                   | 164                                   | 164                                            | 153                                            |
 | PASI 75 response N (%)            | 6 (4%)                                | 124 (74%)                             | 107 (65%)                             | 130 (79%)                                      | 124 (81%)                                      |
 | Number of patients > 100 kg       | 89                                    | 87                                    | 92                                    | 86                                             | 90                                             |
-
-<div style=\"page-break-after: always\"></div>
-
-|                                   | Week 12 2 doses (week 0 and week 4)   | Week 12 2 doses (week 0 and week 4)   | Week 12 2 doses (week 0 and week 4)   | Week 28 3 doses (week 0, week 4 and week 16)   | Week 28 3 doses (week 0, week 4 and week 16)   |
-|-----------------------------------|---------------------------------------|---------------------------------------|---------------------------------------|------------------------------------------------|------------------------------------------------|
-|                                   | PBO                                   | 45 mg                                 | 90 mg                                 | 45 mg                                          | 90 mg                                          |
 | PASI 75 response N (%)            | 2 (2%)                                | 47 (54%)                              | 63 (68%)                              | 48 (56%)                                       | 67 (74%)                                       |
 | Psoriasis Study 2                 |                                       |                                       |                                       |                                                |                                                |
 | Number of patients randomised     | 410                                   | 409                                   | 411                                   | 397                                            | 400                                            |
@@ -1033,11 +1132,9 @@ Table 4 Summary of clinical response in Psoriasis Study 1 (PHOENIX 1) and Psoria
 | Number of patients > 100 kg       | 120                                   | 112                                   | 121                                   | 110                                            | 119                                            |
 | PASI 75 response N (%)            | 3 (3%)                                | 55 (49%)                              | 86 (71%)                              | 59 (54%)                                       | 88 (74%)                                       |
 
-b PGA = Physician Global Assessment a p &lt; 0.001 for ustekinumab 45 mg or 90 mg in comparison with placebo (PBO).
+<div style=\"page-break-after: always\"></div>
 
 Table 5 Summary of clinical response at week 12 in Psoriasis Study 3 (ACCEPT)
-
-a p &lt; 0.001 for ustekinumab 45 mg or 90 mg in comparison with etanercept.
 
 |                                | Psoriasis Study 3                        | Psoriasis Study 3                       | Psoriasis Study 3                       |
 |--------------------------------|------------------------------------------|-----------------------------------------|-----------------------------------------|
@@ -1053,23 +1150,25 @@ a p &lt; 0.001 for ustekinumab 45 mg or 90 mg in comparison with etanercept.
 | Number of patients > 100 kg    | 96                                       | 58                                      | 103                                     |
 | PASI 75 response N (%)         | 43 (45%)                                 | 32 (55%)                                | 67 (65%)                                |
 
+a p &lt; 0.001 for ustekinumab 45 mg or 90 mg in comparison with etanercept.
+
 b p = 0.012 for ustekinumab 45 mg in comparison with etanercept.
 
 In Psoriasis Study 1 maintenance of PASI 75 was significantly superior with continuous treatment compared with treatment withdrawal (p &lt; 0.001). Similar results were seen with each dose of ustekinumab. At 1 year (week 52), 89% of patients re-randomised to maintenance treatment were PASI 75 responders compared with 63% of patients re-randomised to placebo (treatment withdrawal) (p&lt; 0.001). At 18 months (week 76), 84% of patients re-randomised to maintenance treatment were PASI 75 responders compared with 19% of patients re-randomised to placebo (treatment withdrawal). At 3 years (week 148), 82% of patients re-randomised to maintenance treatment were PASI 75 responders. At 5 years (week 244), 80% of patients re-randomised to maintenance treatment were PASI 75 responders.
 
 In patients re-randomised to placebo, and who reinitiated their original ustekinumab treatment regimen after loss of ≥ 50% of PASI improvement 85% regained PASI 75 response within 12 weeks after re initiating therapy.
 
-In Psoriasis Study 1, at week 2 and week 12, significantly greater improvements from baseline were demonstrated in the DLQI in each ustekinumab treatment group compared with placebo. The improvement was sustained through week 28. Similarly, significant improvements were seen in
-
-<div style=\"page-break-after: always\"></div>
-
-Psoriasis Study 2 at week 4 and 12, which were sustained through week 24. In Psoriasis Study 1, improvements in nail psoriasis (Nail Psoriasis Severity Index), in the physical and mental component summary scores of the SF-36 and in the Itch Visual Analogue Scale (VAS) were also significant in each ustekinumab treatment group compared with placebo. In Psoriasis Study 2, the Hospital Anxiety and Depression Scale (HADS) and Work Limitations Questionnaire (WLQ) were also significantly improved in each ustekinumab treatment group compared with placebo.
+In Psoriasis Study 1, at week 2 and week 12, significantly greater improvements from baseline were demonstrated in the DLQI in each ustekinumab treatment group compared with placebo. The improvement was sustained through week 28. Similarly, significant improvements were seen in Psoriasis Study 2 at week 4 and 12, which were sustained through week 24. In Psoriasis Study 1, improvements in nail psoriasis (Nail Psoriasis Severity Index), in the physical and mental component summary scores of the SF-36 and in the Itch Visual Analogue Scale (VAS) were also significant in each ustekinumab treatment group compared with placebo. In Psoriasis Study 2, the Hospital Anxiety and Depression Scale (HADS) and Work Limitations Questionnaire (WLQ) were also significantly improved in each ustekinumab treatment group compared with placebo.
 
 ## Psoriatic arthritis (PsA) (Adults)
 
 Ustekinumab has been shown to improve signs and symptoms, physical function and health-related quality of life, and reduce the rate of progression of peripheral joint damage in adult patients with active PsA.
 
-The safety and efficacy of ustekinumab was assessed in 927 patients in two randomised, double-blind, placebo-controlled studies in patients with active PsA (≥ 5 swollen joints and ≥ 5 tender joints) despite non-steroidal anti-inflammatory (NSAID) or disease modifying antirheumatic (DMARD) therapy. Patients in these studies had a diagnosis of PsA for at least 6 months. Patients with each subtype of PsA were enrolled, including polyarticular arthritis with no evidence of rheumatoid nodules (39%), spondylitis with peripheral arthritis (28%), asymmetric peripheral arthritis (21%), distal interphalangeal involvement (12%) and arthritis mutilans (0.5%). Over 70% and 40% of the patients in both studies had enthesitis and dactylitis at baseline, respectively. Patients were randomised to receive treatment with ustekinumab 45 mg, 90 mg, or placebo subcutaneously at weeks 0 and 4 followed by every 12 weeks (q12w) dosing. Approximately 50% of patients continued on stable doses of MTX (≤ 25 mg/week).
+The safety and efficacy of ustekinumab was assessed in 927 patients in two randomised, double-blind, placebo-controlled studies in patients with active PsA (≥ 5 swollen joints and ≥ 5 tender joints) despite non-steroidal anti-inflammatory (NSAID) or disease modifying antirheumatic (DMARD) therapy. Patients in these studies had a diagnosis of PsA for at least 6 months. Patients with each subtype of PsA were enrolled, including polyarticular arthritis with no evidence of rheumatoid nodules (39%), spondylitis with peripheral arthritis (28%), asymmetric peripheral arthritis (21%), distal interphalangeal involvement (12%) and arthritis mutilans (0.5%). Over 70% and 40% of the patients in both studies had enthesitis and dactylitis at baseline, respectively. Patients were randomised to receive treatment with ustekinumab 45 mg, 90 mg, or placebo subcutaneously at weeks 0 and 4 followed by
+
+<div style=\"page-break-after: always\"></div>
+
+every 12 weeks (q12w) dosing. Approximately 50% of patients continued on stable doses of MTX (≤ 25 mg/week).
 
 In PsA Study 1 (PSUMMIT I) and PsA Study 2 (PSUMMIT II), 80% and 86% of the patients, respectively, had been previously treated with DMARDs. In Study 1 previous treatment with antitumour necrosis factor (TNF)α agent was not allowed. In Study 2, the majority of patients (58%, n = 180) had been previously treated with one or more anti-TNFα agent(s), of whom over 70% had discontinued their anti-TNFα treatment for lack of efficacy or intolerance at any time.
 
@@ -1079,23 +1178,18 @@ Treatment with ustekinumab resulted in significant improvements in the measures 
 
 Table 6 Number of patients who achieved clinical response in Psoriatic arthritis Study 1 (PSUMMIT I) and Study 2 (PSUMMIT II) at week 24
 
-|                                    | Psoriatic arthritis Study 1   | Psoriatic arthritis Study 1   | Psoriatic arthritis Study 1   | Psoriatic arthritis Study 2   | Psoriatic arthritis Study 2   | Psoriatic arthritis Study 2   |
-|------------------------------------|-------------------------------|-------------------------------|-------------------------------|-------------------------------|-------------------------------|-------------------------------|
-|                                    | PBO                           | 45 mg                         | 90 mg                         | PBO                           | 45 mg                         | 90 mg                         |
-| Number of patients randomised      | 206                           | 205                           | 204                           | 104                           | 103                           | 105                           |
-| ACR 20 response, N (%)             | 47 (23%)                      | 87 (42%) a                    | 101 (50%) a                   | 21 (20%)                      | 45 (44%) a                    | 46 (44%) a                    |
-| ACR 50 response, N (%)             | 18 (9%)                       | 51 (25%) a                    | 57 (28%) a                    | 7 (7%)                        | 18 (17%) b                    | 24 (23%) a                    |
-| ACR 70 response, N (%)             | 5 (2%)                        | 25 (12%) a                    | 29 (14%) a                    | 3 (3%)                        | 7 (7%) c                      | 9 (9%) c                      |
-| Number of patients with ≥ 3% BSA d | 146                           | 145                           | 149                           | 80                            | 80                            | 81                            |
-| PASI 75 response, N (%)            | 16 (11%)                      | 83 (57%) a                    | 93 (62%) a                    | 4 (5%)                        | 41 (51%) a                    | 45 (56%) a                    |
-| PASI 90 response, N (%)            | 4 (3%)                        | 60 (41%) a                    | 65 (44%) a                    | 3 (4%)                        | 24 (30%) a                    | 36 (44%) a                    |
-
-<div style=\"page-break-after: always\"></div>
+a p &lt; 0.001
 
 |                                             | Psoriatic arthritis Study 1   | Psoriatic arthritis Study 1   | Psoriatic arthritis Study 1   | Psoriatic arthritis Study 2   | Psoriatic arthritis Study 2   | Psoriatic arthritis Study 2   |
 |---------------------------------------------|-------------------------------|-------------------------------|-------------------------------|-------------------------------|-------------------------------|-------------------------------|
 |                                             | PBO                           | 45 mg                         | 90 mg                         | PBO                           | 45 mg                         | 90 mg                         |
 | Number of patients randomised               | 206                           | 205                           | 204                           | 104                           | 103                           | 105                           |
+| ACR 20 response, N (%)                      | 47 (23%)                      | 87 (42%) a                    | 101 (50%) a                   | 21 (20%)                      | 45 (44%) a                    | 46 (44%) a                    |
+| ACR 50 response, N (%)                      | 18 (9%)                       | 51 (25%) a                    | 57 (28%) a                    | 7 (7%)                        | 18 (17%) b                    | 24 (23%) a                    |
+| ACR 70 response, N (%)                      | 5 (2%)                        | 25 (12%) a                    | 29 (14%) a                    | 3 (3%)                        | 7 (7%) c                      | 9 (9%) c                      |
+| Number of patients with ≥ 3% BSA d          | 146                           | 145                           | 149                           | 80                            | 80                            | 81                            |
+| PASI 75 response, N (%)                     | 16 (11%)                      | 83 (57%) a                    | 93 (62%) a                    | 4 (5%)                        | 41 (51%) a                    | 45 (56%) a                    |
+| PASI 90 response, N (%)                     | 4 (3%)                        | 60 (41%) a                    | 65 (44%) a                    | 3 (4%)                        | 24 (30%) a                    | 36 (44%) a                    |
 | Combined PASI 75 and ACR 20 response, N (%) | 8 (5%)                        | 40 (28%) a                    | 62 (42%) a                    | 2 (3%)                        | 24 (30%) a                    | 31 (38%) a                    |
 | Number of patients ≤ 100 kg                 | 154                           | 153                           | 154                           | 74                            | 74                            | 73                            |
 | ACR 20 response, N (%)                      | 39 (25%)                      | 67 (44%)                      | 78 (51%)                      | 17 (23%)                      | 32 (43%)                      | 34 (47%)                      |
@@ -1106,13 +1200,7 @@ Table 6 Number of patients who achieved clinical response in Psoriatic arthritis
 | Number of patients with ≥ 3% BSA d          | 41                            | 40                            | 38                            | 26                            | 22                            | 24                            |
 | PASI 75 response, N (%)                     | 2 (5%)                        | 19 (48%)                      | 20 (53%)                      | 0                             | 10 (45%)                      | 13 (54%)                      |
 
-b p &lt; 0.05
-
-a p &lt; 0.001
-
-c p = NS
-
-d Number of patients with ≥ 3% BSA psoriasis skin involvement at baseline
+<div style=\"page-break-after: always\"></div>
 
 ACR 20, 50 and 70 responses continued to improve or were maintained through week 52 (PsA Study 1 and 2) and week 100 (PsA Study 1). In PsA Study 1, ACR 20 responses at week 100 were achieved by 57% and 64%, for 45 mg and 90 mg, respectively. In PsA Study 2, ACR 20 responses at week 52 were achieved by 47% and 48%, for 45 mg and 90 mg, respectively.
 
@@ -1124,17 +1212,15 @@ For patients with enthesitis and/or dactylitis at baseline, in PsA Study 1 signi
 
 ## Radiographic response
 
-Structural damage in both hands and feet was expressed as change in total van der Heijde-Sharp score (vdH-S score), modified for PsA by addition of hand distal interphalangeal joints, compared to baseline. A pre-specified integrated analysis combining data from 927 subjects in both PsA Study 1
-
-<div style=\"page-break-after: always\"></div>
-
-and 2 was performed. Ustekinumab demonstrated a statistically significant decrease in the rate of progression of structural damage compared to placebo, as measured by change from baseline to week 24 in the total modified vdH-S score (mean ± SD score was 0.97 ± 3.85 in the placebo group compared with 0.40 ± 2.11 and 0.39 ± 2.40 in the ustekinumab 45 mg (p&lt; 0.05) and 90 mg (p&lt; 0.001) groups, respectively). This effect was driven by PsA Study 1. The effect is considered demonstrated irrespective of concomitant MTX use and was maintained through weeks 52 (integrated analysis) and 100 (PsA Study 1).
+Structural damage in both hands and feet was expressed as change in total van der Heijde-Sharp score (vdH-S score), modified for PsA by addition of hand distal interphalangeal joints, compared to baseline. A pre-specified integrated analysis combining data from 927 subjects in both PsA Study 1 and 2 was performed. Ustekinumab demonstrated a statistically significant decrease in the rate of progression of structural damage compared to placebo, as measured by change from baseline to week 24 in the total modified vdH-S score (mean ± SD score was 0.97 ± 3.85 in the placebo group compared with 0.40 ± 2.11 and 0.39 ± 2.40 in the ustekinumab 45 mg (p&lt; 0.05) and 90 mg (p&lt; 0.001) groups, respectively). This effect was driven by PsA Study 1. The effect is considered demonstrated irrespective of concomitant MTX use and was maintained through weeks 52 (integrated analysis) and 100 (PsA Study 1).
 
 ## Physical function and health-related quality of life
 
 Ustekinumab-treated patients showed significant improvement in physical function as assessed by the Disability Index of the Health Assessment Questionnaire (HAQ-DI) at week 24. The proportion of patients achieving a clinically meaningful ≥ 0.3 improvement in HAQ-DI score from baseline was also significantly greater in the ustekinumab groups when compared with placebo. Improvement in HAQ DI score from baseline was maintained through weeks 52 and 100.
 
 There was significant improvement in DLQI scores in the ustekinumab groups as compared with placebo at week 24, which was maintained through weeks 52 and 100. In PsA Study 2 there was a significant improvement in Functional Assessment of Chronic Illness Therapy-Fatigue (FACIT-F) scores in the ustekinumab groups when compared with placebo at week 24. The proportion of patients achieving a clinically significant improvement in fatigue (4 points in FACIT-F) was also significantly greater in the ustekinumab groups compared with placebo. Improvements in FACIT scores were maintained through week 52.
+
+<div style=\"page-break-after: always\"></div>
 
 ## Paediatric population
 
@@ -1152,11 +1238,7 @@ Patients with PASI ≥ 12, PGA ≥ 3 and BSA involvement of at least 10%, who we
 
 The primary endpoint was the proportion of patients who achieved a PGA score of cleared (0) or minimal (1) at week 12. Secondary endpoints included PASI 75, PASI 90, change from baseline in Children's Dermatology Life Quality Index (CDLQI), change from baseline in the total scale score of PedsQL (Paediatric Quality of Life Inventory) at week 12. At week 12, subjects treated with ustekinumab showed significantly greater improvement in their psoriasis and health-related quality of life compared with placebo (Table 7).
 
-All patients were followed for efficacy for up to 52 weeks following first administration of study agent. The proportion of patients with a PGA score of cleared (0) or minimal (1) and the proportion achieving PASI 75 showed separation between the ustekinumab treated group and placebo at the first
-
-<div style=\"page-break-after: always\"></div>
-
-post-baseline visit at week 4, reaching a maximum by week 12. Improvements in PGA, PASI, CDLQI and PedsQL were maintained through week 52 (Table 7).
+All patients were followed for efficacy for up to 52 weeks following first administration of study agent. The proportion of patients with a PGA score of cleared (0) or minimal (1) and the proportion achieving PASI 75 showed separation between the ustekinumab treated group and placebo at the first post-baseline visit at week 4, reaching a maximum by week 12. Improvements in PGA, PASI, CDLQI and PedsQL were maintained through week 52 (Table 7).
 
 Table 7 Summary of primary and secondary endpoints at week 12 and week 52
 
@@ -1169,14 +1251,18 @@ Table 7 Summary of primary and secondary endpoints at week 12 and week 52
 | PGA                                               |                                                   |                                                   |                                                   |
 | PGA of cleared (0) or minimal (1)                 | 2 (5.4%)                                          | 25 (69.4%) a                                      | 20 (57.1%)                                        |
 | PGA of cleared (0)                                | 1 (2.7%)                                          | 17 (47.2%) a                                      | 13 (37.1%)                                        |
-| PASI                                              |                                                   |                                                   |                                                   |
-| PASI 75 responders                                | 4 (10.8%)                                         | 29 (80.6%) a                                      | 28 (80.0%)                                        |
-| PASI 90 responders                                | 2 (5.4%)                                          | 22 (61.1%) a                                      | 23 (65.7%)                                        |
-| PASI 100 responders                               | 1 (2.7%)                                          | 14 (38.9%) a                                      | 13 (37.1%)                                        |
-| CDLQI                                             |                                                   |                                                   |                                                   |
-| CDLQI of 0 or 1 b                                 | 6 (16.2%)                                         | 18 (50.0%) c                                      | 20 (57.1%)                                        |
-| PedsQL                                            |                                                   |                                                   |                                                   |
-| Change from baseline Mean (SD) d                  | 3.35 (10.04)                                      | 8.03 (10.44) e                                    | 7.26 (10.92)                                      |
+
+<div style=\"page-break-after: always\"></div>
+
+| PASI                             | PASI         | PASI           | PASI         |
+|----------------------------------|--------------|----------------|--------------|
+| PASI 75 responders               | 4 (10.8%)    | 29 (80.6%) a   | 28 (80.0%)   |
+| PASI 90 responders               | 2 (5.4%)     | 22 (61.1%) a   | 23 (65.7%)   |
+| PASI 100 responders              | 1 (2.7%)     | 14 (38.9%) a   | 13 (37.1%)   |
+| CDLQI                            |              |                |              |
+| CDLQI of 0 or 1 b                | 6 (16.2%)    | 18 (50.0%) c   | 20 (57.1%)   |
+| PedsQL                           |              |                |              |
+| Change from baseline Mean (SD) d | 3.35 (10.04) | 8.03 (10.44) e | 7.26 (10.92) |
 
 a p &lt; 0.001
 
@@ -1198,9 +1284,9 @@ Patients with PASI ≥ 12, PGA ≥ 3 and BSA involvement of at least 10%, who we
 
 The primary endpoint was the proportion of patients who achieved a PGA score of cleared (0) or minimal (1) at week 12. Secondary endpoints included PASI 75, PASI 90, and change from baseline in Children's Dermatology Life Quality Index (CDLQI) at week 12. At week 12, subjects treated with ustekinumab showed clinically meaningful improvements in their psoriasis and health-related quality of life (Table 8).
 
-<div style=\"page-break-after: always\"></div>
-
 All patients were followed for efficacy for up to 52 weeks following first administration of study agent. The proportion of patients with a PGA score of cleared (0) or minimal (1) at week 12 was 77.3%. Efficacy (defined as PGA 0 or 1) was observed as early as the first post-baseline visit at week 4 and the proportion of subjects who achieved a PGA score of 0 or 1 increased through week 16 and then remained relatively stable through week 52. Improvements in PGA, PASI, and CDLQI were maintained through week 52 (Table 8).
+
+<div style=\"page-break-after: always\"></div>
 
 Table 8 Summary of primary and secondary endpoints at week 12 and week 52
 
@@ -1233,9 +1319,9 @@ Patients in UNITI-1 had failed or were intolerant to prior anti-TNFα therapy. A
 
 Patients in UNITI-2 had failed at least one conventional therapy, including corticosteroids or immunomodulators, and were either anti-TNFα naïve (68.6%) or had previously received but not failed anti-TNFα therapy (31.4%).
 
-<div style=\"page-break-after: always\"></div>
-
 In both UNITI-1 and UNITI-2, a significantly greater proportion of patients were in clinical response and remission in the ustekinumab treated group compared to placebo (Table 9). Clinical response and remission were significant as early as week 3 in ustekinumab treated patients and continued to improve through week 8. In these induction studies, efficacy was higher and better sustained in the tiered dose group compared to the 130 mg dose group, and tiered dosing is therefore the recommended intravenous induction dose.
+
+<div style=\"page-break-after: always\"></div>
 
 Table 9:  Induction of Clinical Response and Remission in UNITI-1 and UNITI 2
 
@@ -1277,16 +1363,22 @@ Table 10:  Maintenance of Clinical Response and Remission in IM-UNITI (week 44; 
 | who are Anti-TNFα naïve                          | 49% (25/51)          | 65% (34/52) c                               | 57% (30/53)                                  |
 | who entered from study CRD3001 §                 | 26% (16/61)          | 41% (23/56)                                 | 39% (22/57)                                  |
 
-<div style=\"page-break-after: always\"></div>
-
 Clinical remission is defined as CDAI score &lt; 150; Clinical response is defined as reduction in CDAI of at least 100 points or being in clinical remission
 
 * The placebo group consisted of patients who were in response to ustekinumab and were randomised to receive placebo at the start of maintenance therapy.
-- † Patients who were in 100 point clinical response to ustekinumab at start of maintenance therapy
-- ‡ Patients who failed conventional therapy but not anti-TNFα therapy
-- § Patients who are anti-TNFα refractory/intolerant
-- a p &lt; 0.01
-- b p &lt; 0.05
+
+† Patients who were in 100 point clinical response to ustekinumab at start of maintenance therapy
+
+‡ Patients who failed conventional therapy but not anti-TNFα therapy
+
+§ Patients who are anti-TNFα refractory/intolerant
+
+a p &lt; 0.01
+
+b p &lt; 0.05
+
+<div style=\"page-break-after: always\"></div>
+
 - c nominally significant (p &lt; 0.05)
 
 In IM-UNITI, 29 of 129 patients did not maintain response to ustekinumab when treated every 12 weeks and were allowed to dose adjust to receive ustekinumab every 8 weeks. Loss of response was defined as a CDAI score ≥ 220 points and a ≥ 100 point increase from the CDAI score at baseline. In these patients, clinical remission was achieved in 41.4% of patients 16 weeks after dose adjustment.
@@ -1307,11 +1399,11 @@ Endoscopic appearance of the mucosa was evaluated in 252 patients with eligible 
 
 In a subgroup of patients with draining fistulas at baseline (8.8%; n = 26), 12/15 (80%) of ustekinumab-treated patients achieved a fistula response over 44 weeks (defined as ≥ 50% reduction from baseline of the induction study in the number of draining fistulas) compared to 5/11 (45.5%) exposed to placebo.
 
-<div style=\"page-break-after: always\"></div>
-
 ## Health-related quality of life
 
 Health-related quality of life was assessed by Inflammatory Bowel Disease Questionnaire (IBDQ) and SF-36 questionnaires. At week 8, patients receiving ustekinumab showed statistically significantly greater and clinically meaningful improvements on IBDQ total score and SF-36 Mental Component Summary Score in both UNITI-1 and UNITI-2, and SF-36 Physical Component Summary Score in UNITI-2, when compared to placebo. These improvements were generally better maintained in ustekinumab-treated patients in the IM-UNITI study through week 44 when compared to placebo. Improvement in health-related quality of life was generally maintained during the extension through week 252.
+
+<div style=\"page-break-after: always\"></div>
 
 ## Immunogenicity
 
@@ -1320,6 +1412,52 @@ Antibodies to ustekinumab may develop during ustekinumab treatment and most are 
 ## Paediatric population
 
 The European Medicines Agency has deferred the obligation to submit the results of studies with the reference medicinal product containing ustekinumab in one or more subsets of the paediatric population in Crohn's Disease (see section 4.2 for information on paediatric use).
+
+## Paediatric Crohn's disease
+
+The safety and efficacy of ustekinumab was evaluated in 48 paediatric patients weighing at least 40 kg, in an interim analysis of a multicentre phase 3 study (UNITI-Jr) for paediatric patients with moderately to severely active Crohn's disease (defined by a Paediatric Crohn's Disease Activity Index [PCDAI] score &gt; 30) through 52 weeks of treatment (8 weeks of induction and 44 weeks of maintenance treatment). Patients included in the study either had not adequately responded to or had not tolerated prior biologic therapy or conventional therapy for Crohn's disease. The study included an open-label induction treatment with a single ustekinumab intravenous dose, of approximately 6 mg/kg (see section 4.2), followed by a randomised double-blind subcutaneous maintenance regimen of 90 mg ustekinumab administered either every 8 weeks or every 12 weeks.
+
+## Efficacy results
+
+The primary endpoint of the study was clinical remission at induction week 8 (defined as PCDAI score ≤ 10). The proportion of patients who achieved clinical remission was 52.1% (25/48) and is comparable to that observed in the adult ustekinumab phase 3 studies.
+
+Clinical response was observed as early as week 3. The proportion of patients in clinical response at week 8 (defined as a reduction from baseline in the PCDAI score of &gt; 12.5 points with a total PCDAI score not more than 30) was 93.8% (45/48).
+
+Table 11 presents the analyses for the secondary endpoints through maintenance week 44.
+
+Table 11: Summary of Secondary endpoints through Maintenance week 44
+
+|                                                                                      | 90 mg ustekinumab every 8 weeks N = 23   | 90 mg ustekinumab every 12 weeks N = 25   | Total number of patients N = 48   |
+|--------------------------------------------------------------------------------------|------------------------------------------|-------------------------------------------|-----------------------------------|
+| Clinical Remission *                                                                 | 43.5% (10/23)                            | 60.0% (15/25)                             | 52.1% (25/48)                     |
+| Corticosteroid-free Clinical Remission §                                             | 43.5% (10/23)                            | 60.0% (15/25)                             | 52.1% (25/48)                     |
+| Clinical remission for patients who were in clinical remission at induction week 8 * | 64.3% (9/14)                             | 54.5% (6/11)                              | 60.0% (15/25)                     |
+| Clinical Response †                                                                  | 52.2% (12/23)                            | 60.0% (15/25)                             | 56.3% (27/48)                     |
+| Endoscopic response £                                                                | 22.7% (5/22)                             | 28.0% (7/25)                              | 25.5% (12/47)                     |
+
+* Clinical remission is defined as PCDAI score ≤ 10 points.
+
+§ Corticosteroid-free remission is defined as PCDAI score of ≤ 10 points and not receiving corticosteroids for at least 90 days prior to Week M-44.
+
+† Clinical response is defined as a reduction from baseline in the PCDAI score of ≥ 12.5 points with a total PCDAI score not more than 30.
+
+£ Endoscopic response is defined as a reduction in the SES-CD score of ≥ 50% or SES-CD score ≤ 2, in patients with a baseline SES-CD score of ≥ 3.
+
+<div style=\"page-break-after: always\"></div>
+
+## Dosing frequency adjustment
+
+Patients who entered the maintenance regimen and experienced loss of response (LOR) based on PCDAI score were eligible for dose adjustment. Patients were either switched from treatment every 12 weeks to every 8 weeks or stayed on treatment every 8 weeks (sham adjustment). 2 patients were dose adjusted to the shorter dosing interval. In these patients, clinical remission was achieved in 100% (2/2) of patients 8 weeks after dose adjustment.
+
+The safety profile of the induction dose regimen and both maintenance dose regimens in the paediatric population weighing at least 40 kg is comparable with that established in the adult Crohn's disease population (see section 4.8).
+
+## Serum and faecal inflammatory biomarkers
+
+The mean change from baseline at maintenance week 44 in C-Reactive protein (CRP) and faecal calprotectin concentrations were -11.17 mg/L (24.159) and -538.2 mg/kg (1,271.33), respectively.
+
+## Health-related quality of life
+
+The total IMPACT-III scores and all subdomains (bowel symptoms, fatigue-related systemic symptoms, and well-being) demonstrated clinically meaningful improvements after 52 weeks.
 
 ## 5.2 Pharmacokinetic properties
 
@@ -1341,11 +1479,13 @@ The exact metabolic pathway for ustekinumab is unknown.
 
 Median systemic clearance (CL) following a single intravenous administration to patients with psoriasis ranged from 1.99 to 2.34 mL/day/kg. Median half-life (t1/2) of ustekinumab was approximately 3 weeks in patients with psoriasis, psoriatic arthritis or Crohn's disease, ranging from 15 to 32 days across all psoriasis and psoriatic arthritis studies. In a population pharmacokinetic analysis, the apparent clearance (CL/F) and apparent volume of distribution (V/F) were 0.465 L/day and 15.7 L, respectively, in patients with psoriasis. The CL/F of ustekinumab was not impacted by gender. Population pharmacokinetic analysis showed that there was a trend towards a higher clearance of ustekinumab in patients who tested positive for antibodies to ustekinumab.
 
-<div style=\"page-break-after: always\"></div>
-
 ## Dose linearity
 
-The systemic exposure of ustekinumab (Cmax and AUC) increased in an approximately doseproportional manner after a single intravenous administration at doses ranging from 0.09 mg/kg to 4.5 mg/kg or following a single subcutaneous administration at doses ranging from approximately 24 mg to 240 mg in patients with psoriasis.
+The systemic exposure of ustekinumab (Cmax and AUC) increased in an approximately doseproportional manner after a single intravenous administration at doses ranging from 0.09 mg/kg to
+
+<div style=\"page-break-after: always\"></div>
+
+4.5 mg/kg or following a single subcutaneous administration at doses ranging from approximately 24 mg to 240 mg in patients with psoriasis.
 
 ## Single dose versus multiple doses
 
@@ -1367,15 +1507,15 @@ No pharmacokinetic data are available in patients with impaired renal or hepatic
 
 The pharmacokinetics of ustekinumab were generally comparable between Asian and non-Asian patients with psoriasis.
 
-In patients with Crohn's disease, variability in ustekinumab clearance was affected by body weight, serum albumin level, sex, and antibody to ustekinumab status while body weight was the main covariate affecting the volume of distribution. Additionally, in Crohn's disease, clearance was affected by C-reactive protein, TNF antagonist failure status and race (Asian versus non-Asian). The impact of these covariates was within ± 20% of the typical or reference value of the respective PK parameter,
+In patients with Crohn's disease, variability in ustekinumab clearance was affected by body weight, serum albumin level, sex, and antibody to ustekinumab status while body weight was the main covariate affecting the volume of distribution. Additionally, in Crohn's disease, clearance was affected by C-reactive protein, TNF antagonist failure status and race (Asian versus non-Asian). The impact of these covariates was within ± 20% of the typical or reference value of the respective PK parameter, thus dose adjustment is not warranted for these covariates. Concomitant use of immunomodulators did not have a significant impact on ustekinumab disposition.
 
 <div style=\"page-break-after: always\"></div>
-
-thus dose adjustment is not warranted for these covariates. Concomitant use of immunomodulators did not have a significant impact on ustekinumab disposition.
 
 In the population pharmacokinetic analysis, there were no indications of an effect of tobacco or alcohol on the pharmacokinetics of ustekinumab.
 
 Serum ustekinumab concentrations in paediatric psoriasis patients 6 to 17 years of age, treated with the recommended weight-based dose were generally comparable to those in the adult psoriasis population treated with the adult dose. Serum ustekinumab concentrations in paediatric psoriasis patients 1217 years of age (CADMUS) treated with half of the recommended weight-based dose were generally lower than those in adults.
+
+The steady-state serum concentrations in paediatric patients with Crohn's disease weighing at least 40 kg were comparable to those in the adult Crohn's disease population.
 
 ## Regulation of CYP450 enzymes
 
@@ -1623,7 +1763,7 @@ Justification for not including in Braille accepted.
 
 2D barcode carrying the unique identifier included.
 
-## 18. UNIQUE IDENTIFIER - HUMAN READABLE DATA
+18. UNIQUE IDENTIFIER - HUMAN READABLE DATA
 
 PC
 
@@ -1635,9 +1775,9 @@ NN
 
 <div style=\"page-break-after: always\"></div>
 
-## MINIMUM PARTICULARS TO APPEAR ON SMALL IMMEDIATE PACKAGING UNITS
-
-VIAL LABEL (130 mg)
+| MINIMUM PARTICULARS TO APPEAR ONSMALLIMMEDIATEPACKAGING UNITS   |
+|-----------------------------------------------------------------|
+| VIAL LABEL (130 mg)                                             |
 
 ## 1. NAME OF THE MEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION
 
@@ -1670,7 +1810,7 @@ Lot
 
 ## PARTICULARS TO APPEAR ON THE OUTER PACKAGING
 
-## VIAL OUTER CARTON (45 mg)
+VIAL OUTER CARTON (45 mg)
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
@@ -1721,6 +1861,9 @@ Keep the vial in the outer carton in order to protect from light.
 <div style=\"page-break-after: always\"></div>
 
 10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
+
+| 11.   | NAMEANDADDRESS OF THE MARKETINGAUTHORISATION HOLDER   |
+|-------|-------------------------------------------------------|
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
@@ -1913,9 +2056,9 @@ For storage information, see leaflet.
 
 <div style=\"page-break-after: always\"></div>
 
-| MINIMUM PARTICULARS TO APPEAR ONSMALLIMMEDIATEPACKAGING   |
-|-----------------------------------------------------------|
-| PRE-FILLED SYRINGE LABEL (45 mg)                          |
+| MINIMUM PARTICULARS TO APPEAR ONSMALLIMMEDIATEPACKAGING UNITS   |
+|-----------------------------------------------------------------|
+| PRE-FILLED SYRINGE LABEL (45 mg)                                |
 
 | 1.   | NAMEOF THE MEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION   |
 |------|---------------------------------------------------------------|
@@ -2045,9 +2188,9 @@ NN
 
 <div style=\"page-break-after: always\"></div>
 
-## MINIMUM PARTICULARS TO APPEAR ON BLISTERS OR STRIPS
-
-## PRE-FILLED SYRINGE BLISTER (90 mg)
+| MINIMUM PARTICULARS TO APPEAR ONBLISTERS ORSTRIPS   |
+|-----------------------------------------------------|
+| PRE-FILLED SYRINGE BLISTER (90 mg)                  |
 
 | 1.   | NAMEOF THE MEDICINAL PRODUCT   |
 |------|--------------------------------|
@@ -2134,7 +2277,7 @@ This medicine is subject to additional monitoring. This will allow quick identif
 
 1. What Uzpruvo is and what it is used for
 2. What you need to know before you use Uzpruvo
-3. How to use Uzpruvo
+3. How Uzpruvo will be given
 4. Possible side effects
 5. How to store Uzpruvo
 6. Contents of the pack and other information
@@ -2151,7 +2294,7 @@ Uzpruvo belongs to a group of medicines called 'immunosuppressants'. These medic
 
 Uzpruvo is used to treat the following inflammatory disease:
 
-- Moderate to severe Crohn's disease - in adults
+- Moderate to severe Crohn's disease - in adults and children who weigh at least 40 kg
 
 ## Crohn's disease
 
@@ -2197,7 +2340,7 @@ Heart attack and strokes have been observed in a study in patients with psoriasi
 
 ## Children and adolescents
 
-Uzpruvo is not recommended for use in children under 18 years of age with Crohn's disease because it has not been studied in this age group.
+Uzpruvo is not recommended for use in children who weigh less than 40 kg with Crohn's disease because it has not been studied in this age group.
 
 ## Other medicines, vaccines and Uzpruvo
 
@@ -2253,6 +2396,17 @@ Your doctor will decide how much Uzpruvo you need to receive and for how long.
 
 - After the starting intravenous dose, you will have the next dose of 90 mg Uzpruvo by an injection under your skin (subcutaneous injection) 8 weeks later, and then every 12 weeks therafter.
 
+## Children with Crohn's disease who weigh at least 40 kg
+
+- The doctor will work out the recommended intravenous infusion dose for you based on your body weight.
+- After the starting intravenous dose, you will have the next dose of 90 mg Uzpruvo by an injection under your skin (subcutaneous injection) 8 weeks later, and then every 12 weeks thereafter.
+
+| Your body weight   | Dose   |
+|--------------------|--------|
+| ≥ 40 to ≤ 55 kg    | 260 mg |
+| > 55 kg to ≤ 85 kg | 390 mg |
+| > 85 kg            | 520 mg |
+
 ## How Uzpruvo is given
 
 - The first dose of Uzpruvo for treatment of Crohn's disease is given by a doctor as a drip in the vein of an arm (intravenous infusion).
@@ -2285,6 +2439,8 @@ Some patients may have serious side effects that may need urgent treatment.
 - o swelling of the face, lips, mouth or throat.
 - Common signs of an allergic reaction include skin rash and hives (may affect up to 1 in 100 people).
 
+<div style=\"page-break-after: always\"></div>
+
 Infusion-related reactions - If you are being treated for Crohn's disease , the first dose of Uzpruvo is given through a drip into a vein (intravenous infusion). Some patients have experienced serious allergic reactions during the infusion.
 
 In rare cases, allergic lung reactions and lung inflammation have been reported in patients who receive ustekinumab. Tell your doctor right away if you develop symptoms such as cough, shortness of breath, and fever.
@@ -2296,9 +2452,6 @@ If you have a serious allergic reaction, your doctor may decide that you should 
 - Infections of the nose or throat and common cold are common (may affect up to 1 in 10 people)
 - Infections of the chest are uncommon (may affect up to 1 in 100 people)
 - Inflammation of tissue under the skin ('cellulitis') is uncommon (may affect up to 1 in 100 people)
-
-<div style=\"page-break-after: always\"></div>
-
 - Shingles (a type of painful rash with blisters) are uncommon (may affect up to 1 in 100 people)
 
 Uzpruvo may make you less able to fight infections. Some infections could become serious and may include infections caused by viruses, fungi, bacteria (including tuberculosis), or parasites, including infections that mainly occur in people with a weakened immune system (opportunistic infections). Opportunistic infections of the brain (encephalitis, meningitis), lungs, and eye have been reported in patients receiving treatment with ustekinumab.
@@ -2331,9 +2484,12 @@ Common (may affect up to 1 in 10 people)
 - Back, muscle or joint pain
 - Sore throat
 - Redness and pain where the injection is given
-- Sinus infection
 
-Uncommon (may affect up to 1 in 100 people)
+<div style=\"page-break-after: always\"></div>
+
+## · Sinus infection
+
+## Uncommon (may affect up to 1 in 100 people)
 
 - Tooth infections
 - Vaginal yeast infection
@@ -2346,14 +2502,12 @@ Uncommon (may affect up to 1 in 100 people)
 - Peeling of the skin (skin exfoliation)
 - Acne
 
-<div style=\"page-break-after: always\"></div>
-
 ## Rare (may affect up to 1 in 1,000 people)
 
 - Redness and shedding of skin over a larger area of the body, which may be itchy or painful (exfoliative dermatitis). Similar symptoms sometimes develop as a natural change in the type of psoriasis symptoms (erythrodermic psoriasis)
 - Inflammation of small blood vessels, which can lead to a skin rash with small red or purple bumps, fever or joint pain (vasculitis)
 
-Very rare (may affect up to 1 in 10,000 people)
+## Very rare (may affect up to 1 in 10,000 people)
 
 - Blistering of the skin that may be red, itchy, and painful (Bullous pemphigoid)
 - Skin lupus or lupus-like syndrome (red, raised scaly rash on areas of the skin exposed to the sun possibly with joint pains)
@@ -2376,6 +2530,9 @@ If you get any side effects, talk to your doctor or pharmacist. This includes an
 - After the expiry date which is stated on the label and the carton after 'EXP'. The expiry date refers to the last day of that month.
 - If the liquid is discoloured, cloudy or has large particles floating in it (see section 6 'What Uzpruvo looks like and contents of the pack').
 - If you know, or think that it may have been exposed to extreme temperatures (such as accidentally frozen or heated).
+
+<div style=\"page-break-after: always\"></div>
+
 - If the product has been shaken vigorously.
 - If the seal is broken.
 
@@ -2387,8 +2544,6 @@ Uzpruvo is for single use only. Any diluted infusion solution or unused product 
 
 - The active substance is ustekinumab. Each vial contains130 mg ustekinumab in 26 mL.
 - The other ingredients are EDTA disodium salt dihydrate, histidine, histidine monohydrochloride, methionine, polysorbate 80 (E433), sucrose and water for injections.
-
-<div style=\"page-break-after: always\"></div>
 
 ## What Uzpruvo looks like and contents of the pack
 
@@ -2402,7 +2557,9 @@ STADA Arzneimittel AG Stadastrasse 2-18 61118 Bad Vilbel Germany
 
 Alvotech Hf Sæmundargata 15-19 Reykjavik, 102 Iceland
 
-STADA Arzneimittel AG Stadastrasse 2-18 61118 Bad Vilbel Germany
+## STADA Arzneimittel AG
+
+Stadastrasse 2-18 61118 Bad Vilbel Germany
 
 For any information about this medicine, please contact the local representative of the Marketing Authorisation Holder:
 
@@ -2410,37 +2567,25 @@ For any information about this medicine, please contact the local representative
 
 EG (Eurogenerics) NV Tél/Tel: +32 24797878
 
-## България
-
-STADA Bulgaria EOOD Teл.: +359 29624626
-
-## Česká republika
-
-STADA PHARMA CZ s.r.o. Tel: +420 257888111
-
-## Danmark
-
-STADA Nordic ApS Tlf: +45 44859999
-
-## Deutschland
-
-STADAPHARM GmbH Tel: +49 61016030
-
-## Eesti
-
-UAB 'STADA Baltics' Tel: +372 53072153
-
-## Ελλάδα
-
-DEMO S.A. Pharmaceutical Industry Τηλ: +30 2108161802
-
 ## Lietuva
 
 UAB 'STADA Baltics' Tel: +370 52603926
 
+## България
+
+STADA Bulgaria EOOD
+
+Teл.: +359 29624626
+
 ## Luxembourg/Luxemburg
 
 EG (Eurogenerics) NV Tél/Tel: +32 24797878
+
+## Česká republika
+
+STADA PHARMA CZ s.r.o.
+
+Tel: +420 257888111
 
 ## Magyarország
 
@@ -2448,29 +2593,37 @@ STADA Hungary Kft
 
 Tel.: +36 18009747
 
+## Danmark
+
+STADA Nordic ApS
+
+Tlf: +45 44859999
+
 ## Malta
 
 Pharma.MT Ltd
 
 Tel: +356 21337008
 
-## Nederland
-
-Centrafarm B.V.
-
-Tel.: +31 765081000
-
-## Norge
-
-STADA Nordic ApS Tlf: +45 44859999
-
-## Österreich
-
-STADA Arzneimittel GmbH
-
-Tel: +43 136785850
-
 <div style=\"page-break-after: always\"></div>
+
+## Deutschland
+
+STADAPHARM GmbH
+
+Tel: +49 61016030
+
+## Eesti
+
+UAB 'STADA Baltics'
+
+Tel: +372 53072153
+
+## Ελλάδα
+
+DEMO S.A. Pharmaceutical Industry
+
+Τηλ: +30 2108161802
 
 ## España
 
@@ -2524,9 +2677,27 @@ Tel: +371 28016404
 
 Detailed information on this medicine is available on the European Medicines Agency web site: https://www.ema.europa.eu.
 
+## Nederland
+
+Centrafarm B.V.
+
+Tel.: +31 765081000
+
+## Norge
+
+STADA Nordic ApS
+
+Tlf: +45 44859999
+
+## Österreich
+
+STADA Arzneimittel GmbH
+
+Tel: +43 136785850
+
 ## Polska
 
-STADA Pharm Sp. z.o o.
+STADA Pharm Sp. z o.o.
 
 Tel: +48 227377920
 
@@ -2556,9 +2727,7 @@ Tel: +421 252621933
 
 ## Suomi/Finland
 
-STADA Nordic ApS, Suomen sivuliike
-
-Puh/Tel: +358 207416888
+STADA Nordic ApS, Suomen sivuliike Puh/Tel: +358 207416888
 
 ## Sverige
 
@@ -2578,7 +2747,7 @@ In order to improve the traceability of biological medicinal products, the trade
 
 Uzpruvo concentrate for solution for infusion must be diluted, prepared and infused by a healthcare professional using aseptic technique.
 
-1. Calculate the dose and the number of Uzpruvo vials needed based on patient weight (see section 3, Table 1). Each 26 mL vial of Uzpruvo contains 130 mg of ustekinumab.
+1. Calculate the dose and the number of Uzpruvo vials needed based on patient weight (see section 3, Table 1, Table 2). Each 26 mL vial of Uzpruvo contains 130 mg of ustekinumab.
 2. Withdraw and then discard a volume of the sodium chloride 9 mg/mL (0.9%) solution from the 250 mL infusion bag equal to the volume of Uzpruvo to be added (discard 26 mL sodium chloride for each vial of Uzpruvo needed, for 2 vials- discard 52 mL, for 3 vials- discard 78 mL, for 4 vials- discard 104 mL).
 3. Withdraw 26 mL of Uzpruvo from each vial needed and add it to the 250 mL infusion bag. The final volume in the infusion bag should be 250 mL. Gently mix.
 4. Visually inspect the diluted solution before infusion. Do not use if visibly opaque particles, discolouration or foreign particles are observed.
@@ -2632,7 +2801,7 @@ Uzpruvo is used to treat the following inflammatory diseases:
 
 - Plaque psoriasis - in adults and children aged 6 years and older
 - Psoriatic arthritis - in adults
-- Moderate to severe Crohn's disease - in adults
+- Moderate to severe Crohn's disease - in adults and children who weigh at least 40 kg
 
 ## Plaque psoriasis
 
@@ -2696,7 +2865,7 @@ Heart attack and strokes have been observed in a study in patients with psoriasi
 
 ## Children and adolescents
 
-Uzpruvo is not recommended for use in children with psoriasis under 6 years of age, or for use in children and adolescents under 18 years of age with psoriatic arthritis and Crohn's disease, because it has not been studied in this age group.
+Uzpruvo is not recommended for use in children with psoriasis under 6 years of age, children with Crohn's disease who weigh less than 40 kg or for use in children under 18 years of age with psoriatic arthritis, because it has not been studied in this age group.
 
 ## Other medicines, vaccines and Uzpruvo
 
@@ -2753,10 +2922,18 @@ Your doctor will decide how much Uzpruvo you need to use and for how long.
 - If you weigh more than 100 kg, the recommended dose is 90 mg Uzpruvo.
 - After the starting dose, you will have the next dose 4 weeks later, and then every 12 weeks.
 
+## Children who weigh at least 40 kg Crohn's disease
+
+- During treatment, the first dose of approximately 6 mg/kg Uzpruvo will be given by your doctor through a drip in a vein in your arm (intravenous infusion). After the starting dose, you will receive the next dose of 90 mg Uzpruvo after 8 weeks, then every 12 weeks thereafter by an injection under the skin ('subcutaneously').
+- In some patients, after the first injection under the skin, 90 mg Uzpruvo may be given every 8 weeks. Your doctor will decide when you should receive your next dose.
+
 ## How Uzpruvo is given
 
 - Uzpruvo is given as an injection under the skin ('subcutaneously'). At the start of your treatment, medical or nursing staff may inject Uzpruvo.
 - However, you and your doctor may decide that you may inject Uzpruvo yourself. In this case you will get training on how to inject Uzpruvo yourself.
+
+<div style=\"page-break-after: always\"></div>
+
 - For instructions on how to inject Uzpruvo, see 'Instructions for administration' at the end of this leaflet.
 
 Talk to your doctor if you have any questions about giving yourself an injection.
@@ -2764,8 +2941,6 @@ Talk to your doctor if you have any questions about giving yourself an injection
 ## If you use more Uzpruvo than you should
 
 If you have used or been given too much Uzpruvo, talk to a doctor or pharmacist straight away. Always have the outer carton of the medicine with you, even if it is empty.
-
-<div style=\"page-break-after: always\"></div>
 
 ## If you forget to use Uzpruvo
 
@@ -2808,6 +2983,8 @@ Uzpruvo may make you less able to fight infections. Some infections could become
 
 You must look out for signs of infection while you are using Uzpruvo. These include:
 
+<div style=\"page-break-after: always\"></div>
+
 - fever, flu-like symptoms, night sweats, weight loss
 - feeling tired or short of breath; cough which will not go away
 - warm, red and painful skin, or a painful skin rash with blisters
@@ -2815,8 +2992,6 @@ You must look out for signs of infection while you are using Uzpruvo. These incl
 - diarrhoea
 - visual disturbance or vision loss
 - headache, neck stiffness, light sensitivity, nausea or confusion
-
-<div style=\"page-break-after: always\"></div>
 
 Tell your doctor straight away if you notice any of these signs of infection. These may be signs of infections such as chest infections, skin infections, shingles or opportunistic infections that could have serious complications. Tell your doctor if you have any kind of infection that will not go away or keeps coming back. Your doctor may decide that you should not use Uzpruvo until the infection goes away. Also tell your doctor if you have any open cuts or sores as they might get infected.
 
@@ -2859,13 +3034,14 @@ Shedding of skin - increase in redness and shedding of skin over a larger area o
 ## Very rare (may affect up to 1 in 10,000 people)
 
 - Blistering of the skin that may be red, itchy, and painful (Bullous pemphigoid)
+
+<div style=\"page-break-after: always\"></div>
+
 - Skin lupus or lupus-like syndrome (red, raised scaly rash on areas of the skin exposed to the sun possibly with joint pains)
 
 ## Reporting of side effects
 
 If you get any side effects, talk to your doctor or pharmacist. This includes any possible side effects not listed in this leaflet. You can also report side effects directly via the national reporting system listed in Appendix V. By reporting side effects you can help provide more information on the safety of this medicine.
-
-<div style=\"page-break-after: always\"></div>
 
 ## 5. How to store Uzpruvo
 
@@ -2902,27 +3078,21 @@ STADA Arzneimittel AG Stadastrasse 2-18 61118 Bad Vilbel Germany
 
 Alvotech Hf Sæmundargata 15-19 Reykjavik, 102 Iceland
 
+<div style=\"page-break-after: always\"></div>
+
 For any information about this medicine, please contact the local representative of the Marketing Authorisation Holder:
 
-België/Belgique/Belgien EG (Eurogenerics) NV Tél/Tel: +32 24797878 България STADA Bulgaria EOOD Teл.: +359 29624626
+## België/Belgique/Belgien
 
-Lietuva
+EG (Eurogenerics) NV Tél/Tel: +32 24797878
 
-UAB 'STADA Baltics' Tel: +370 52603926
+## България
 
-Luxembourg/Luxemburg
-
-EG (Eurogenerics) NV
-
-Tél/Tel: +32 24797878
-
-<div style=\"page-break-after: always\"></div>
+STADA Bulgaria EOOD Teл.: +359 29624626
 
 ## Česká republika
 
-STADA PHARMA CZ s.r.o.
-
-Tel: +420 257888111
+STADA PHARMA CZ s.r.o. Tel: +420 257888111
 
 ## Danmark
 
@@ -2930,7 +3100,9 @@ STADA Nordic ApS Tlf: +45 44859999
 
 ## Deutschland
 
-STADAPHARM GmbH Tel: +49 61016030
+STADAPHARM GmbH
+
+Tel: +49 61016030
 
 ## Eesti
 
@@ -2938,7 +3110,9 @@ UAB 'STADA Baltics' Tel: +372 53072153
 
 ## Ελλάδα
 
-DEMO S.A. Pharmaceutical Industry Τηλ: +30 2108161802
+DEMO S.A. Pharmaceutical Industry
+
+Τηλ: +30 2108161802
 
 ## España
 
@@ -2950,25 +3124,31 @@ EG LABO - Laboratoires EuroGenerics Tél: +33 146948686
 
 ## Hrvatska
 
-STADA d.o.o. Tel: +385 13764111
+STADA d.o.o.
+
+Tel: +385 13764111
 
 ## Ireland
 
-Clonmel Healthcare Ltd. Tel: +353 526177777
+Clonmel Healthcare Ltd.
+
+Tel: +353 526177777
 
 ## Ísland
 
-STADA Arzneimittel AG Sími: +49 61016030
+STADA Arzneimittel AG
+
+Sími: +49 61016030
 
 ## Italia
 
-EG SpA Tel: +39 028310371
+EG SpA
+
+Tel: +39 028310371
 
 ## Κύπρος
 
-DEMO S.A. Pharmaceutical Industry
-
-Τηλ: +30 2108161802
+DEMO S.A. Pharmaceutical Industry Τηλ: +30 2108161802
 
 ## Latvija
 
@@ -2981,6 +3161,14 @@ Tel: +371 28016404
 ## Other sources of information
 
 Detailed information on this medicine is available on the European Medicines Agency web site: https://www.ema.europa.eu.
+
+## Lietuva
+
+UAB 'STADA Baltics' Tel: +370 52603926
+
+## Luxembourg/Luxemburg
+
+EG (Eurogenerics) NV Tél/Tel: +32 24797878
 
 ## Magyarország
 
@@ -3006,13 +3194,15 @@ STADA Arzneimittel GmbH Tel: +43 136785850
 
 ## Polska
 
-STADA Pharm Sp. z.o o.
+STADA Pharm Sp. z o.o.
 
 Tel: +48 227377920
 
 ## Portugal
 
-Stada, Lda. Tel: +351 211209870
+Stada, Lda.
+
+Tel: +351 211209870
 
 ## România
 
@@ -3057,7 +3247,8 @@ Take the vial(s) out of the refrigerator. Let the vial stand for about half an h
 
 Check the vial(s) to make sure:
 
-- the number of vials and strength is correct o If your dose is 45 mg or less, you will get one 45 mg vial of Uzpruvo
+- the number of vials and strength is correct
+- o If your dose is 45 mg or less, you will get one 45 mg vial of Uzpruvo
 - o If your dose is 90 mg you will get two 45 mg vials of Uzpruvo and you will need to give yourself two injections. Choose two different sites for these injections (for example one injection in the right thigh and the other injection in the left thigh), and give the injections one right after the other. Use a new needle and syringe for each injection.
 - it is the right medicine
 - it has not passed its expiry date
@@ -3066,7 +3257,7 @@ Check the vial(s) to make sure:
 - the solution is not discoloured or cloudy and does not contain any foreign particles
 - the solution is not frozen.
 
-Children weighing less than 60 kg need a dose lower than 45 mg. Make sure you know the proper amount (volume) to remove from the vial and type of syringe needed for dosing. If you don't know the amount or type of syringe needed, contact your healthcare provider for further instruction.
+Children with paediatric psoriasis weighing less than 60 kg need a dose lower than 45 mg. Make sure you know the proper amount (volume) to remove from the vial and type of syringe needed for dosing. If you don't know the amount or type of syringe needed, contact your healthcare provider for further instruction.
 
 Get everything together that you need and lay out on a clean surface. This includes a syringe, needle, antiseptic wipes, a cotton ball or gauze, and a sharps container (see Figure 1).
 
@@ -3079,9 +3270,9 @@ Figure 1
 Choose an injection site (see Figure 2)
 
 - Uzpruvo is given by injection under the skin (subcutaneously)
-- Good places for the injection are the upper thigh (legs), buttocks, or around the belly (abdomen) at least 5 cm away from the navel (belly button)
+- Good places for the injection are the upper thigh or around the belly (abdomen) at least 5 cm away from the navel (belly button)
 - If possible, do not use areas of skin that show signs of psoriasis
-- If someone will assist in giving you the injection, then he or she may also choose the upper arms as an injection site
+- If someone will assist in giving you the injection, then he or she may also choose the upper arms or the buttocks as an injection site
 
 <div style=\"page-break-after: always\"></div>
 
@@ -3111,8 +3302,6 @@ Choose an injection site (see Figure 2)
 Figure 3
 
 <!-- image -->
-
-Figure 4
 
 <!-- image -->
 
@@ -3146,6 +3335,8 @@ Figure 5
 
 - Used syringes and needles should be placed in a puncture-resistant container, like a sharps container. Never re-use needles and syringes, for your safety and health, and for the safety of others. Dispose of your sharps container according to your local regulations
 - Empty vials, antiseptic wipes, and other supplies can be disposed of in your garbage.
+
+## Figure 4
 
 <div style=\"page-break-after: always\"></div>
 
@@ -3189,7 +3380,7 @@ Uzpruvo is used to treat the following inflammatory diseases:
 
 - Plaque psoriasis - in adults and children aged 6 years and older
 - Psoriatic arthritis - in adults
-- Moderate to severe Crohn's disease - in adults
+- Moderate to severe Crohn's disease - in adults and children who weigh at least 40 kg
 
 ## Plaque psoriasis
 
@@ -3253,7 +3444,7 @@ Heart attack and strokes have been observed in a study in patients with psoriasi
 
 ## Children and adolescents
 
-Uzpruvo is not recommended for use in children with psoriasis under 6 years of age, or for use in children and adolescents under 18 years of age with psoriatic arthritis and Crohn's disease, because it has not been studied in this age group.
+Uzpruvo is not recommended for use in children with psoriasis under 6 years of age, children with Crohn's disease who weigh less than 40 kg or for use in children under 18 years of age with psoriatic arthritis, because it has not been studied in this age group.
 
 ## Other medicines, vaccines and Uzpruvo
 
@@ -3311,10 +3502,18 @@ Your doctor will decide how much Uzpruvo you need to use and for how long.
 - If you weigh more than 100 kg, the recommended dose is 90 mg Uzpruvo.
 - After the starting dose, you will have the next dose 4 weeks later, and then every 12 weeks.
 
+## Children who weigh at least 40 kg Crohn's disease
+
+- During treatment, the first dose of approximately 6 mg/kg Uzpruvo will be given by your doctor through a drip in a vein in your arm (intravenous infusion). After the starting dose, you will receive the next dose of 90 mg Uzpruvo after 8 weeks, then every 12 weeks thereafter by an injection under the skin ('subcutaneously').
+- In some patients, after the first injection under the skin, 90 mg Uzpruvo may be given every 8 weeks. Your doctor will decide when you should receive your next dose.
+
 ## How Uzpruvo is given
 
 - Uzpruvo is given as an injection under the skin ('subcutaneously'). At the start of your treatment, medical or nursing staff may inject Uzpruvo.
 - However, you and your doctor may decide that you may inject Uzpruvo yourself. In this case you will get training on how to inject Uzpruvo yourself.
+
+<div style=\"page-break-after: always\"></div>
+
 - For instructions on how to inject Uzpruvo, see 'Instructions for administration' at the end of this leaflet.
 
 Talk to your doctor if you have any questions about giving yourself an injection.
@@ -3322,8 +3521,6 @@ Talk to your doctor if you have any questions about giving yourself an injection
 ## If you use more Uzpruvo than you should
 
 If you have used or been given too much Uzpruvo, talk to a doctor or pharmacist straight away. Always have the outer carton of the medicine with you, even if it is empty.
-
-<div style=\"page-break-after: always\"></div>
 
 ## If you forget to use Uzpruvo
 
@@ -3366,6 +3563,8 @@ Uzpruvo may make you less able to fight infections. Some infections could become
 
 You must look out for signs of infection while you are using Uzpruvo. These include:
 
+<div style=\"page-break-after: always\"></div>
+
 - fever, flu-like symptoms, night sweats, weight loss
 - feeling tired or short of breath; cough which will not go away
 - warm, red and painful skin, or a painful skin rash with blisters
@@ -3374,15 +3573,13 @@ You must look out for signs of infection while you are using Uzpruvo. These incl
 - visual disturbance or vision loss
 - headache, neck stiffness, light sensitivity, nausea or confusion
 
-<div style=\"page-break-after: always\"></div>
-
 Tell your doctor straight away if you notice any of these signs of infection. These may be signs of infections such as chest infections, skin infections, shingles or opportunistic infections that could have serious complications. Tell your doctor if you have any kind of infection that will not go away or keeps coming back. Your doctor may decide that you should not use Uzpruvo until the infection goes away. Also tell your doctor if you have any open cuts or sores as they might get infected.
 
 Shedding of skin - increase in redness and shedding of skin over a larger area of the body may be symptoms of erythrodermic psoriasis or exfoliative dermatitis, which are serious skin conditions. You should tell your doctor straight away if you notice any of these signs.
 
 ## Other side effects
 
-Common (may affect up to 1 in 10 people)
+## Common (may affect up to 1 in 10 people)
 
 - Diarrhoea
 - Nausea
@@ -3417,13 +3614,14 @@ Common (may affect up to 1 in 10 people)
 ## Very rare (may affect up to 1 in 10,000 people)
 
 - Blistering of the skin that may be red, itchy, and painful (Bullous pemphigoid)
+
+<div style=\"page-break-after: always\"></div>
+
 - Skin lupus or lupus-like syndrome (red, raised scaly rash on areas of the skin exposed to the sun possibly with joint pains)
 
 ## Reporting of side effects
 
 If you get any side effects, talk to your doctor or pharmacist. This includes any possible side effects not listed in this leaflet. You can also report side effects directly via the national reporting system listed in Appendix V. By reporting side effects you can help provide more information on the safety of this medicine.
-
-<div style=\"page-break-after: always\"></div>
 
 ## 5. How to store Uzpruvo
 
@@ -3456,29 +3654,25 @@ Uzpruvo is a clear, colourless to slightly yellow and practically free of visibl
 
 ## Marketing Authorisation Holder
 
-STADA Arzneimittel AG Stadastrasse 2-18 61118 Bad Vilbel Germany
+STADA Arzneimittel AG Stadastrasse 2-18 61118 Bad Vilbel
+
+<div style=\"page-break-after: always\"></div>
+
+## Germany
 
 ## Manufacturers
 
 Alvotech Hf Sæmundargata 15-19 Reykjavik, 102 Iceland
 
-<div style=\"page-break-after: always\"></div>
-
 STADA Arzneimittel AG Stadastrasse 2-18 61118 Bad Vilbel Germany
 
 For any information about this medicine, please contact the local representative of the Marketing Authorisation Holder:
 
-## België/Belgique/Belgien
+België/Belgique/Belgien EG (Eurogenerics) NV Tél/Tel: +32 24797878
 
-EG (Eurogenerics) NV Tél/Tel: +32 24797878
+България STADA Bulgaria EOOD Teл.: +359 29624626
 
-## България
-
-STADA Bulgaria EOOD Teл.: +359 29624626
-
-Česká republika STADA PHARMA CZ s.r.o.
-
-Tel: +420 257888111
+Česká republika STADA PHARMA CZ s.r.o. Tel: +420 257888111
 
 ## Danmark
 
@@ -3494,7 +3688,9 @@ UAB 'STADA Baltics' Tel: +372 53072153
 
 ## Ελλάδα
 
-DEMO S.A. Pharmaceutical Industry Τηλ: +30 2108161802
+DEMO S.A. Pharmaceutical Industry
+
+Τηλ: +30 2108161802
 
 ## España
 
@@ -3504,33 +3700,13 @@ Laboratorio STADA, S.L. Tel: +34 934738889
 
 EG LABO - Laboratoires EuroGenerics Tél: +33 146948686
 
-## Hrvatska
-
-STADA d.o.o. Tel: +385 13764111
+Hrvatska STADA d.o.o. Tel: +385 13764111
 
 ## Ireland
 
 Clonmel Healthcare Ltd. Tel: +353 526177777
 
-## Ísland
-
-STADA Arzneimittel AG Sími: +49 61016030
-
-Italia EG SpA Tel: +39 028310371
-
-## Κύπρος
-
-DEMO S.A. Pharmaceutical Industry
-
-Τηλ: +30 2108161802
-
-## Latvija
-
-UAB 'STADA Baltics'
-
-Tel: +371 28016404
-
-## This leaflet was last revised in
+Ísland STADA Arzneimittel AG Sími: +49 61016030 Italia EG SpA Tel: +39 028310371
 
 ## Lietuva
 
@@ -3540,7 +3716,9 @@ UAB 'STADA Baltics' Tel: +370 52603926
 
 EG (Eurogenerics) NV Tél/Tel: +32 24797878
 
-Magyarország STADA Hungary Kft Tel.: +36 18009747
+## Magyarország
+
+STADA Hungary Kft Tel.: +36 18009747
 
 ## Malta
 
@@ -3548,11 +3726,15 @@ Pharma.MT Ltd Tel: +356 21337008
 
 ## Nederland
 
-Centrafarm B.V. Tel.: +31 765081000
+Centrafarm B.V.
+
+Tel.: +31 765081000
 
 ## Norge
 
-STADA Nordic ApS Tlf: +45 44859999
+STADA Nordic ApS
+
+Tlf: +45 44859999
 
 ## Österreich
 
@@ -3560,21 +3742,23 @@ STADA Arzneimittel GmbH Tel: +43 136785850
 
 ## Polska
 
-STADA Pharm Sp. z.o o. Tel: +48 227377920
+STADA Pharm Sp. z o.o. Tel: +48 227377920
 
 ## Portugal
 
-Stada, Lda. Tel: +351 211209870
+Stada, Lda.
+
+Tel: +351 211209870
 
 ## România
 
-STADA M&amp;D SRL Tel: +40 213160640
+STADA M&amp;D SRL
+
+Tel: +40 213160640
 
 ## Slovenija
 
-Stada d.o.o.
-
-Tel: +386 15896710
+Stada d.o.o. Tel: +386 15896710
 
 ## Slovenská republika
 
@@ -3584,15 +3768,23 @@ Tel: +421 252621933
 
 ## Suomi/Finland
 
-STADA Nordic ApS, Suomen sivuliike Puh/Tel: +358 207416888 Sverige STADA Nordic ApS Tel: +45 44859999
+STADA Nordic ApS, Suomen sivuliike Puh/Tel: +358 207416888
 
 <div style=\"page-break-after: always\"></div>
+
+Κύπρος DEMO S.A. Pharmaceutical Industry Τηλ: +30 2108161802 Latvija UAB 'STADA Baltics' Tel: +371 28016404
+
+## This leaflet was last revised in
 
 ## Other sources of information
 
 Detailed information on this medicine is available on the European Medicines Agency web site: https://www.ema.europa.eu.
 
 Detailed information on this medicine, including a video on how to use the pre-filled syringe, is available by scanning the QR code included below or the outer carton with a smartphone. The same information is also available on the following URL: uzpruvopatients.com QR code to be included
+
+Sverige
+
+STADA Nordic ApS Tel: +45 44859999
 
 <div style=\"page-break-after: always\"></div>
 
@@ -3654,8 +3846,8 @@ Figure 2
 Choose an injection site (see Figure 3)
 
 - Uzpruvo is given by injection under the skin (subcutaneously)
-- Choose an injection site. Good places for the injection are the upper thigh (legs), buttocks, or around the belly (abdomen) at least 5 cm away from the navel (belly button)
-- If a caregiver is giving you the injection, the outer area of the upper arms may also be used (see Figure 3)
+- Choose an injection site. Good places for the injection are the upper thigh or around the belly (abdomen) at least 5 cm away from the navel (belly button)
+- If a caregiver is giving you the injection, the outer area of the upper arms or the buttocks may also be used (see Figure 3)
 - Use a different injection site for each injection. Do not give an injection in an area of the skin that is tender, bruised, red or hard
 
 Areas in yellow are recommended injection sites
@@ -3793,7 +3985,7 @@ Uzpruvo is used to treat the following inflammatory diseases:
 
 - Plaque psoriasis - in adults and children aged 6 years and older
 - Psoriatic arthritis - in adults
-- Moderate to severe Crohn's disease - in adults
+- Moderate to severe Crohn's disease - in adults and children who weigh at least 40 kg
 
 ## Plaque psoriasis
 
@@ -3857,7 +4049,7 @@ Heart attack and strokes have been observed in a study in patients with psoriasi
 
 ## Children and adolescents
 
-Uzpruvo is not recommended for use in children with psoriasis under 6 years of age, or for use in children and adolescents under 18 years of age with psoriatic arthritis and Crohn's disease, because it has not been studied in this age group.
+Uzpruvo is not recommended for use in children with psoriasis under 6 years of age, children with Crohn's disease who weigh less than 40 kg or for use in children under 18 years of age with psoriatic arthritis, because it has not been studied in this age group.
 
 ## Other medicines, vaccines and Uzpruvo
 
@@ -3896,9 +4088,7 @@ Always use this medicine exactly as your doctor has told you. Check with your do
 
 Your doctor will decide how much Uzpruvo you need to use and for how long.
 
-## Adults aged 18 years or older
-
-## Psoriasis or psoriatic arthritis
+## Adults aged 18 years or older Psoriasis or psoriatic arthritis
 
 - The recommended starting dose is 45 mg Uzpruvo. Patients who weigh more than 100 kilograms (kg) may start on a dose of 90 mg instead of 45 mg.
 - After the starting dose, you will have the next dose 4 weeks later, and then every 12 weeks. The following doses are usually the same as the starting dose.
@@ -3917,10 +4107,20 @@ Your doctor will decide how much Uzpruvo you need to use and for how long.
 - If you weigh more than 100 kg, the recommended dose is 90 mg Uzpruvo.
 - After the starting dose, you will have the next dose 4 weeks later, and then every 12 weeks.
 
+## Children who weigh at least 40 kg Crohn's disease
+
+- During treatment, the first dose of approximately 6 mg/kg Uzpruvo will be given by your doctor through a drip in a vein in your arm (intravenous infusion). After the starting dose, you will receive the next dose of 90 mg Uzpruvo after 8 weeks, then every 12 weeks thereafter by an injection under the skin ('subcutaneously').
+- In some patients, after the first injection under the skin, 90 mg Uzpruvo may be given every 8 weeks. Your doctor will decide when you should receive your next dose.
+
 ## How Uzpruvo is given
 
 - Uzpruvo is given as an injection under the skin ('subcutaneously'). At the start of your treatment, medical or nursing staff may inject Uzpruvo.
-- However, you and your doctor may decide that you may inject Uzpruvo yourself. In this case you will get training on how to inject Uzpruvo yourself.
+- However, you and your doctor may decide that you may inject Uzpruvo yourself. In this case
+
+<div style=\"page-break-after: always\"></div>
+
+you will get training on how to inject Uzpruvo yourself.
+
 - For instructions on how to inject Uzpruvo, see 'Instructions for administration' at the end of this leaflet.
 
 Talk to your doctor if you have any questions about giving yourself an injection.
@@ -3928,8 +4128,6 @@ Talk to your doctor if you have any questions about giving yourself an injection
 ## If you use more Uzpruvo than you should
 
 If you have used or been given too much Uzpruvo, talk to a doctor or pharmacist straight away. Always have the outer carton of the medicine with you, even if it is empty.
-
-<div style=\"page-break-after: always\"></div>
 
 ## If you forget to use Uzpruvo
 
@@ -3970,6 +4168,8 @@ If you have a serious allergic reaction, your doctor may decide that you should 
 
 Uzpruvo may make you less able to fight infections. Some infections could become serious and may include infections caused by viruses, fungi, bacteria (including tuberculosis), or parasites, including infections that mainly occur in people with a weakened immune system (opportunistic infections). Opportunistic infections of the brain (encephalitis, meningitis), lungs, and eye have been reported in patients receiving treatment with ustekinumab.
 
+<div style=\"page-break-after: always\"></div>
+
 You must look out for signs of infection while you are using Uzpruvo. These include:
 
 - fever, flu-like symptoms, night sweats, weight loss
@@ -3980,15 +4180,13 @@ You must look out for signs of infection while you are using Uzpruvo. These incl
 - visual disturbance or vision loss
 - headache, neck stiffness, light sensitivity, nausea or confusion
 
-<div style=\"page-break-after: always\"></div>
-
 Tell your doctor straight away if you notice any of these signs of infection. These may be signs of infections such as chest infections, skin infections, shingles or opportunistic infections that could have serious complications. Tell your doctor if you have any kind of infection that will not go away or keeps coming back. Your doctor may decide that you should not use Uzpruvo until the infection goes away. Also tell your doctor if you have any open cuts or sores as they might get infected.
 
 Shedding of skin - increase in redness and shedding of skin over a larger area of the body may be symptoms of erythrodermic psoriasis or exfoliative dermatitis, which are serious skin conditions. You should tell your doctor straight away if you notice any of these signs.
 
 ## Other side effects
 
-## Common (may affect up to 1 in 10 people)
+Common (may affect up to 1 in 10 people)
 
 - Diarrhoea
 - Nausea
@@ -4002,7 +4200,7 @@ Shedding of skin - increase in redness and shedding of skin over a larger area o
 - Redness and pain where the injection is given
 - Sinus infection
 
-## Uncommon (may affect up to 1 in 100 people)
+Uncommon (may affect up to 1 in 100 people)
 
 - Tooth infections
 - Vaginal yeast infection
@@ -4020,18 +4218,16 @@ Shedding of skin - increase in redness and shedding of skin over a larger area o
 - Redness and shedding of skin over a larger area of the body, which may be itchy or painful (exfoliative dermatitis). Similar symptoms sometimes develop as a natural change in the type of psoriasis symptoms (erythrodermic psoriasis)
 - Inflammation of small blood vessels, which can lead to a skin rash with small red or purple bumps, fever or joint pain (vasculitis)
 
-## Very rare (may affect up to 1 in 10,000 people)
+<div style=\"page-break-after: always\"></div>
+
+Very rare (may affect up to 1 in 10,000 people)
 
 - Blistering of the skin that may be red, itchy, and painful (Bullous pemphigoid)
 - Skin lupus or lupus-like syndrome (red, raised scaly rash on areas of the skin exposed to the sun possibly with joint pains)
 
 ## Reporting of side effects
 
-If you get any side effects, talk to your doctor or pharmacist. This includes any possible side effects not listed in this leaflet. You can also report side effects directly via the national reporting system
-
-<div style=\"page-break-after: always\"></div>
-
-listed in Appendix V. By reporting side effects you can help provide more information on the safety of this medicine.
+If you get any side effects, talk to your doctor or pharmacist. This includes any possible side effects not listed in this leaflet. You can also report side effects directly via the national reporting system listed in Appendix V. By reporting side effects you can help provide more information on the safety of this medicine.
 
 ## 5. How to store Uzpruvo
 
@@ -4064,11 +4260,11 @@ Uzpruvo is a clear, colourless to slightly yellow and practically free of visibl
 
 Not all pack sizes may be marketed.
 
+<div style=\"page-break-after: always\"></div>
+
 ## Marketing Authorisation Holder
 
 STADA Arzneimittel AG Stadastrasse 2-18 61118 Bad Vilbel Germany
-
-<div style=\"page-break-after: always\"></div>
 
 ## Manufacturers
 
@@ -4080,13 +4276,11 @@ For any information about this medicine, please contact the local representative
 
 België/Belgique/Belgien EG (Eurogenerics) NV Tél/Tel: +32 24797878
 
-## България
+България STADA Bulgaria EOOD Teл.: +359 29624626
 
-STADA Bulgaria EOOD Teл.: +359 29624626
+Česká republika STADA PHARMA CZ s.r.o.
 
-## Česká republika
-
-STADA PHARMA CZ s.r.o. Tel: +420 257888111
+Tel: +420 257888111
 
 ## Danmark
 
@@ -4112,29 +4306,11 @@ Laboratorio STADA, S.L. Tel: +34 934738889
 
 EG LABO - Laboratoires EuroGenerics Tél: +33 146948686
 
-## Hrvatska
-
-STADA d.o.o. Tel: +385 13764111
+Hrvatska STADA d.o.o. Tel: +385 13764111
 
 ## Ireland
 
 Clonmel Healthcare Ltd. Tel: +353 526177777
-
-## Ísland
-
-STADA Arzneimittel AG
-
-Sími: +49 61016030
-
-## Italia
-
-EG SpA
-
-Tel: +39 028310371
-
-Κύπρος DEMO S.A. Pharmaceutical Industry
-
-Τηλ: +30 2108161802
 
 ## Lietuva
 
@@ -4154,7 +4330,9 @@ Pharma.MT Ltd Tel: +356 21337008
 
 ## Nederland
 
-Centrafarm B.V. Tel.: +31 765081000
+Centrafarm B.V.
+
+Tel.: +31 765081000
 
 ## Norge
 
@@ -4166,17 +4344,17 @@ STADA Arzneimittel GmbH Tel: +43 136785850
 
 ## Polska
 
-STADA Pharm Sp. z.o o. Tel: +48 227377920
+STADA Pharm Sp. z o.o. Tel: +48 227377920
 
 ## Portugal
 
-Stada, Lda.
-
-Tel: +351 211209870
+Stada, Lda. Tel: +351 211209870
 
 ## România
 
-STADA M&amp;D SRL Tel: +40 213160640
+STADA M&amp;D SRL
+
+Tel: +40 213160640
 
 ## Slovenija
 
@@ -4184,27 +4362,27 @@ Stada d.o.o.
 
 Tel: +386 15896710
 
-## Slovenská republika
+## Ísland
 
-STADA PHARMA Slovakia, s.r.o.
+STADA Arzneimittel AG
 
-Tel: +421 252621933
+Sími: +49 61016030
 
-## Suomi/Finland
+Italia
 
-STADA Nordic ApS, Suomen sivuliike Puh/Tel: +358 207416888
+EG SpA
 
-## Sverige
+Tel: +39 028310371
 
-STADA Nordic ApS
+Κύπρος
 
-Tel: +45 44859999
+DEMO S.A. Pharmaceutical Industry Τηλ: +30 2108161802
 
-<div style=\"page-break-after: always\"></div>
-
-## Latvija
+Latvija
 
 UAB 'STADA Baltics'
+
+<div style=\"page-break-after: always\"></div>
 
 Tel: +371 28016404
 
@@ -4214,7 +4392,25 @@ Tel: +371 28016404
 
 Detailed information on this medicine is available on the European Medicines Agency web site: https://www.ema.europa.eu.
 
-Detailed information on this medicine, including a video on how to use the pre-filled syringe, is available by scanning the QR code included below or the outer carton with a smartphone. The same information is also available on the following URL: uzpruvopatients.com QR code to be included
+Detailed information on this medicine, including a video on how to use the pre-filled syringe, is available by scanning the QR code included below or the outer carton with a smartphone. The same information is also available on the following URL: uzpruvopatients.com
+
+## QR code to be included
+
+## Slovenská republika
+
+STADA PHARMA Slovakia, s.r.o. Tel: +421 252621933
+
+## Suomi/Finland
+
+STADA Nordic ApS, Suomen sivuliike
+
+Puh/Tel: +358 207416888
+
+Sverige
+
+STADA Nordic ApS
+
+Tel: +45 44859999
 
 <div style=\"page-break-after: always\"></div>
 
@@ -4272,8 +4468,8 @@ Get everything together that you need and lay out on a clean surface.
 Choose an injection site (see Figure 3)
 
 - Uzpruvo is given by injection under the skin (subcutaneously)
-- Choose an injection site. Good places for the injection are the upper thigh (legs), buttocks, or around the belly (abdomen) at least 5 cm away from the navel (belly button)
-- If a caregiver is giving you the injection, the outer area of the upper arms may also be used (see Figure 3)
+- Choose an injection site. Good places for the injection are the upper thigh or around the belly (abdomen) at least 5 cm away from the navel (belly button)
+- If a caregiver is giving you the injection, the outer area of the upper arms or the buttocks may also be used (see Figure 3)
 - Use a different injection site for each injection. Do not give an injection in an area of the skin that is tender, bruised, red or hard
 
 Areas in yellow are recommended injection sites.

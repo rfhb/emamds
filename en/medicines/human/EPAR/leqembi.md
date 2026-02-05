@@ -1,19 +1,19 @@
 ---
-document_datetime: 2025-12-29 09:22:24
+document_datetime: 2026-02-04 14:21:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/leqembi.html
 document_name: leqembi.html
 version: success
-processing_time: 0.1254351
-conversion_datetime: 2025-12-31 02:56:33.686035
+processing_time: 0.1380913
+conversion_datetime: 2026-02-05 11:38:43.121728
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.66.0
-  docling-core: 2.57.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
-  python: cpython-313 (3.13.11)
+  docling-serve: 1.11.0
+  docling-jobkit: 1.9.1
+  docling: 2.72.0
+  docling-core: 2.63.0
+  docling-ibm-models: 3.11.0
+  docling-parse: 4.7.3
+  python: cpython-313 (3.13.12)
   plaform: macOS-26.2-arm64-arm-64bit-Mach-O
 ---
 # Leqembi
@@ -25,8 +25,6 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 lecanemab Medicine Human Authorised
-
-On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -119,7 +117,7 @@ English (EN) (114.42 KB - PDF)
 
 [View](/en/documents/overview/leqembi-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-158)
+[Other languages (22)](#file-language-dropdown-980)
 
 български (BG) (140.95 KB - PDF)
 
@@ -299,9 +297,11 @@ svenska (SV) (113.03 KB - PDF)
 
 Leqembi : EPAR - Risk management plan
 
-English (EN) (1.76 MB - PDF)
+English (EN) (2.13 MB - PDF)
 
 **First published:** 05/05/2025
+
+**Last updated:** 04/02/2026
 
 [View](/en/documents/rmp/leqembi-epar-risk-management-plan_en.pdf)
 
@@ -317,7 +317,7 @@ English (EN) (327.37 KB - PDF)
 
 [View](/en/documents/product-information/leqembi-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-30)
+[Other languages (24)](#file-language-dropdown-849)
 
 български (BG) (441.09 KB - PDF)
 
@@ -631,7 +631,7 @@ English (EN) (54.71 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/leqembi-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-582)
+[Other languages (24)](#file-language-dropdown-140)
 
 български (BG) (91.35 KB - PDF)
 
@@ -833,7 +833,7 @@ English (EN) (69.17 KB - PDF)
 
 [View](/en/documents/conditions-member-states/leqembi-epar-conditions-imposed-member-states-safe-effective-use-annex-127a_en.pdf)
 
-[Other languages (25)](#file-language-dropdown-188)
+[Other languages (25)](#file-language-dropdown-26)
 
 български (BG) (76.66 KB - PDF)
 
@@ -1148,7 +1148,7 @@ English (EN) (124.6 KB - PDF)
 
 - [Leqembi - direct healthcare professional communication (DHPC)](/en/medicines/dhpc/leqembi)
 
-**This page was last updated on** 02/10/2025
+**This page was last updated on** 04/02/2026
 
 ## Share this page
 

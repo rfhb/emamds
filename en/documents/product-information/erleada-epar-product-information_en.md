@@ -1,20 +1,20 @@
 ---
-document_datetime: 2025-12-01 13:56:15
-document_pages: 105
+document_datetime: 2026-02-04 12:55:32
+document_pages: 103
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/erleada-epar-product-information_en.pdf
 document_name: erleada-epar-product-information_en.pdf
 version: success
-processing_time: 25.5557731
-conversion_datetime: 2025-12-15 01:40:01.640728
+processing_time: 23.1094302
+conversion_datetime: 2026-02-05 11:38:12.734693
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.64.1
-  docling-core: 2.55.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
-  python: cpython-313 (3.13.11)
-  plaform: macOS-26.1-arm64-arm-64bit-Mach-O
+  docling-serve: 1.11.0
+  docling-jobkit: 1.9.1
+  docling: 2.72.0
+  docling-core: 2.63.0
+  docling-ibm-models: 3.11.0
+  docling-parse: 4.7.3
+  python: cpython-313 (3.13.12)
+  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
 ---
 ## ANNEX I
 
@@ -264,37 +264,38 @@ Within each frequency grouping, adverse reactions are presented in order of decr
 
 Table 1: Adverse reactions
 
-| System Organ Class                                   | Adverse reaction and frequency                                                                                                                                    |
-|------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Blood and lymphatic system disorders                 | common: neutropenia                                                                                                                                               |
-| Blood and lymphatic system disorders                 | not known: agranulocytosis                                                                                                                                        |
-| Endocrine disorders                                  | common: hypothyroidism a                                                                                                                                          |
-| Metabolism and nutrition disorders                   | very common: decreased appetite                                                                                                                                   |
-| Metabolism and nutrition disorders                   | common: hypercholesterolaemia, hypertriglyceridaemia                                                                                                              |
-| Nervous system disorders                             | common: dysgeusia, ischaemic cerebrovascular disorders b                                                                                                          |
-| Nervous system disorders                             | uncommon: seizure c (see section 4.4), restless legs syndrome                                                                                                     |
-| Cardiac disorders                                    | common: ischaemic heart disease d                                                                                                                                 |
-| Cardiac disorders                                    | not known: QT prolongation (see sections 4.4 and 4.5)                                                                                                             |
-| Vascular disorders                                   | very common: hot flush, hypertension                                                                                                                              |
-| Respiratory, thoracic and mediastinal disorders      | not known: interstitial lung disease e                                                                                                                            |
-| Gastrointestinal disorders                           | very common: diarrhoea                                                                                                                                            |
-| Skin and subcutaneous tissue disorders               | very common: skin rash f                                                                                                                                          |
-| Skin and subcutaneous tissue disorders               | common: pruritus, alopecia                                                                                                                                        |
-| Skin and subcutaneous tissue disorders               | not known: drug reaction with eosinophilia and systemic symptoms (DRESS) e , Stevens-Johnson syndrome/toxic epidermal necrolysis (SJS/TEN) e , lichenoid eruption |
-| Musculoskeletal and connective tissue disorders      | very common: fracture g , arthralgia                                                                                                                              |
-| Musculoskeletal and connective tissue disorders      | common: muscle spasm                                                                                                                                              |
-| General disorders and administration site conditions | very common: fatigue                                                                                                                                              |
-| Investigations                                       | very common: weight decreased                                                                                                                                     |
-| Injury, poisoning and procedural complications       | very common: fall                                                                                                                                                 |
-
-a Includes hypothyroidism, blood thyroid stimulating hormone increased, thyroxine decreased, autoimmune thyroiditis, thyroxine free decreased, tri-iodothyronine decreased
-
-b Includes transient ischaemic attack, cerebrovascular accident, cerebrovascular disorder, ischaemic stroke, carotid arteriosclerosis, carotid artery stenosis, hemiparesis, lacunar infarction, lacunar stroke, thrombotic cerebral infarction, vascular encephalopathy, cerebellar infarction, cerebral infarction, and cerebral ischaemia
+| System Organ Class                                   | Adverse reaction and frequency                                                                                                               |
+|------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------|
+| Blood and lymphatic system disorders                 | common: neutropenia                                                                                                                          |
+| Blood and lymphatic system disorders                 | not known: agranulocytosis                                                                                                                   |
+| Endocrine disorders                                  | common: hypothyroidism a                                                                                                                     |
+| Metabolism and nutrition disorders                   | very common: decreased appetite                                                                                                              |
+| Metabolism and nutrition disorders                   | common: hypercholesterolaemia, hypertriglyceridaemia                                                                                         |
+| Nervous system disorders                             | common: dysgeusia, ischaemic cerebrovascular disorders b                                                                                     |
+| Nervous system disorders                             | uncommon: seizure c (see section 4.4), restless legs syndrome                                                                                |
+| Cardiac disorders                                    | common: ischaemic heart disease d                                                                                                            |
+| Cardiac disorders                                    | not known: QT prolongation (see sections 4.4 and 4.5)                                                                                        |
+| Vascular disorders                                   | very common: hot flush, hypertension                                                                                                         |
+| Respiratory, thoracic and mediastinal disorders      | not known: interstitial lung disease e                                                                                                       |
+| Gastrointestinal disorders                           | very common: diarrhoea                                                                                                                       |
+| Skin and subcutaneous tissue disorders               | very common: skin rash f                                                                                                                     |
+| Skin and subcutaneous tissue disorders               | common: pruritus, alopecia                                                                                                                   |
+| Skin and subcutaneous tissue disorders               | uncommon: lichenoid eruption                                                                                                                 |
+| Skin and subcutaneous tissue disorders               | not known: drug reaction with eosinophilia and systemic symptoms (DRESS) e , Stevens-Johnson syndrome/toxic epidermal necrolysis (SJS/TEN) e |
+| Musculoskeletal and connective tissue disorders      | very common: fracture g , arthralgia                                                                                                         |
+| Musculoskeletal and connective tissue disorders      | common: muscle spasm                                                                                                                         |
+| General disorders and administration site conditions | very common: fatigue                                                                                                                         |
+| Investigations                                       | very common: weight decreased                                                                                                                |
+| Injury, poisoning and procedural complications       | very common: fall                                                                                                                            |
 
 - c Includes tongue biting
-- d Includes angina pectoris, angina unstable, myocardial infarction, acute myocardial infarction, coronary artery occlusion, coronary artery stenosis, acute coronary syndrome, arteriosclerosis coronary artery, cardiac stress test abnormal, troponin increased, myocardial ischaemia
+
+d Includes angina pectoris, angina unstable, myocardial infarction, acute myocardial infarction, coronary artery occlusion, coronary artery stenosis, acute coronary syndrome, arteriosclerosis coronary artery, cardiac stress test abnormal, troponin increased, myocardial ischaemia
+
 - e See section 4.4
-- f See 'Skin rash' under 'Description of selected adverse reactions'
+
+f See 'Skin rash' under 'Description of selected adverse reactions'
+
 - g Includes rib fracture, lumbar vertebral fracture, spinal compression fracture, spinal fracture, foot fracture, hip fracture, humerus fracture, thoracic vertebral fracture, upper limb fracture, fractured sacrum, hand fracture, pubis fracture, acetabulum fracture, ankle fracture, compression fracture, costal cartilage fracture, facial bones fracture, lower limb fracture, osteoporotic fracture, wrist fracture, avulsion fracture, fibula fracture, fractured coccyx, pelvic fracture, radius fracture, sternal fracture, stress fracture, traumatic fracture, cervical vertebral fracture, femoral neck fracture, tibia fracture. See below.
 
 ## Description of selected adverse reactions
@@ -388,16 +389,6 @@ Table 2: Summary of efficacy results - Intent-to-treat mHSPC population (TITAN)
 | Median, months (95% CI)                | NE (NE, NE)          | 22.08 (18.46, 32.92) |
 | Hazard ratio (95% CI) b                | 0.484 (0.391, 0.600) |                      |
 | p-value c                              | <0.0001              |                      |
-
-a This is based on the pre-specified interim analysis with a median follow-up time of 22 months.
-
-b Hazard ratio is from stratified proportional hazards model. Hazard ratio &lt; 1 favours active treatment.
-
-c p-value is from the log-rank test stratified by Gleason score at diagnosis (≤ 7 vs. &gt; 7), Region (NA/EU vs. Other Countries) and Prior docetaxel use (Yes vs. No).
-
-d Median follow-up time of 44 months.
-
-e This p-value is nominal instead of being used for formal statistical testing.
 
 NE=Not Estimable
 
@@ -573,12 +564,7 @@ White opaque high-density polyethylene (HDPE) bottle with a polypropylene (PP) c
 
 PVC-PCTFE foil blister with an aluminium push-through foil sealed inside a child-resistant wallet pack.
 
-
-
-Each 28-day carton contains 112 film-coated tablets in 4 cardboard wallet packs of
-
-28 film-coated tablets each.
-
+-  Each 28-day carton contains 112 film-coated tablets in 4 cardboard wallet packs of 28 film-coated tablets each.
 -  Each 30-day carton contains 120 film-coated tablets in 5 cardboard wallet packs of 24 film-coated tablets each.
 
 Not all pack sizes may be marketed.
@@ -861,25 +847,26 @@ Within each frequency grouping, adverse reactions are presented in order of decr
 
 Table 1: Adverse reactions
 
-| System Organ Class                              | Adverse reaction and frequency                                                                                                                                    |
-|-------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Blood and lymphatic system disorders            | common: neutropenia                                                                                                                                               |
-| Blood and lymphatic system disorders            | not known: agranulocytosis                                                                                                                                        |
-| Endocrine disorders                             | common: hypothyroidism a                                                                                                                                          |
-| Metabolism and nutrition disorders              | very common: decreased appetite                                                                                                                                   |
-| Metabolism and nutrition disorders              | common: hypercholesterolaemia, hypertriglyceridaemia                                                                                                              |
-| Nervous system disorders                        | common: dysgeusia, ischaemic cerebrovascular disorders b                                                                                                          |
-| Nervous system disorders                        | uncommon: seizure c (see section 4.4), restless legs syndrome                                                                                                     |
-| Cardiac disorders                               | common: ischaemic heart disease d                                                                                                                                 |
-| Cardiac disorders                               | not known: QT prolongation (see sections 4.4 and 4.5)                                                                                                             |
-| Vascular disorders                              | very common: hot flush, hypertension                                                                                                                              |
-| Respiratory, thoracic and mediastinal disorders | not known: interstitial lung disease e                                                                                                                            |
-| Gastrointestinal disorders                      | very common: diarrhoea                                                                                                                                            |
-| Skin and subcutaneous tissue disorders          | very common: skin rash f                                                                                                                                          |
-| Skin and subcutaneous tissue disorders          | common: pruritus, alopecia                                                                                                                                        |
-| Skin and subcutaneous tissue disorders          | not known: drug reaction with eosinophilia and systemic symptoms (DRESS) e , Stevens-Johnson syndrome/toxic epidermal necrolysis (SJS/TEN) e , lichenoid eruption |
-| Musculoskeletal and connective tissue disorders | very common: fracture g , arthralgia                                                                                                                              |
-| Musculoskeletal and connective tissue disorders | common: muscle spasm                                                                                                                                              |
+| System Organ Class                              | Adverse reaction and frequency                                                                                                               |
+|-------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------|
+| Blood and lymphatic system disorders            | common: neutropenia                                                                                                                          |
+| Blood and lymphatic system disorders            | not known: agranulocytosis                                                                                                                   |
+| Endocrine disorders                             | common: hypothyroidism a                                                                                                                     |
+| Metabolism and nutrition disorders              | very common: decreased appetite                                                                                                              |
+| Metabolism and nutrition disorders              | common: hypercholesterolaemia, hypertriglyceridaemia                                                                                         |
+| Nervous system disorders                        | common: dysgeusia, ischaemic cerebrovascular disorders b                                                                                     |
+| Nervous system disorders                        | uncommon: seizure c (see section 4.4), restless legs syndrome                                                                                |
+| Cardiac disorders                               | common: ischaemic heart disease d                                                                                                            |
+| Cardiac disorders                               | not known: QT prolongation (see sections 4.4 and 4.5)                                                                                        |
+| Vascular disorders                              | very common: hot flush, hypertension                                                                                                         |
+| Respiratory, thoracic and mediastinal disorders | not known: interstitial lung disease e                                                                                                       |
+| Gastrointestinal disorders                      | very common: diarrhoea                                                                                                                       |
+| Skin and subcutaneous tissue disorders          | very common: skin rash f                                                                                                                     |
+| Skin and subcutaneous tissue disorders          | common: pruritus, alopecia                                                                                                                   |
+| Skin and subcutaneous tissue disorders          | uncommon: lichenoid eruption                                                                                                                 |
+| Skin and subcutaneous tissue disorders          | not known: drug reaction with eosinophilia and systemic symptoms (DRESS) e , Stevens-Johnson syndrome/toxic epidermal necrolysis (SJS/TEN) e |
+| Musculoskeletal and connective tissue disorders | very common: fracture g , arthralgia                                                                                                         |
+| Musculoskeletal and connective tissue disorders | common: muscle spasm                                                                                                                         |
 
 <div style=\"page-break-after: always\"></div>
 
@@ -985,16 +972,6 @@ Table 2: Summary of efficacy results - Intent-to-treat mHSPC population (TITAN)
 | Median, months (95% CI)                | NE (NE, NE)          | 22.08 (18.46, 32.92) |
 | Hazard ratio (95% CI) b                | 0.484 (0.391, 0.600) |                      |
 | p-value c                              | <0.0001              |                      |
-
-a This is based on the pre-specified interim analysis with a median follow-up time of 22 months.
-
-b Hazard ratio is from stratified proportional hazards model. Hazard ratio &lt; 1 favours active treatment.
-
-c p-value is from the log-rank test stratified by Gleason score at diagnosis (≤ 7 vs. &gt; 7), Region (NA/EU vs. Other Countries) and Prior docetaxel use (Yes vs. No).
-
-d Median follow-up time of 44 months.
-
-e This p-value is nominal instead of being used for formal statistical testing.
 
 NE=Not Estimable
 
@@ -2776,16 +2753,16 @@ Common (may affect up to 1 in 10 people):
 -  under-active thyroid which can make you feel more tired and have difficulty getting started in the morning, and blood tests may also show an under-active thyroid
 -  low level of a type of white blood cell which can make you more likely to get infections (neutropenia).
 
-Uncommon (may affect up to 1 in 100 people):
+## Uncommon (may affect up to 1 in 100 people):
 
--  seizures/fits.
+-  seizures/fits
+-  eruption of the skin or mucous membranes (lichenoid eruption).
 
 Not known (frequency cannot be estimated from the available data):
 
 -  abnormal heart tracing on an ECG (electrocardiogram)
 -  widespread rash, high body temperature and enlarged lymph nodes (drug reaction with eosinophilia and systemic symptoms or DRESS)
 -  reddish non-elevated, target-like or circular patches on the trunk, often with central blisters, skin peeling, ulcers of mouth, throat, nose, genitals and eyes, which can be preceded by fever and flu-like symptoms. These serious skin rashes can be potentially life-threatening (Stevens-Johnson syndrome, toxic epidermal necrolysis)
--  eruption of the skin or mucous membranes (lichenoid eruption)
 -  very low level of a type of white blood cell which can make you more likely to get infections (agranulocytosis).
 
 Tell your healthcare provider if you notice any of the side effects listed above.
@@ -2867,7 +2844,7 @@ Janssen-Cilag s.r.o.
 
 Tel: +420 227 012 227
 
-## Magyarország
+Magyarország
 
 Janssen-Cilag Kft. Tel.: +36 1 884 2858
 
@@ -3262,14 +3239,14 @@ Common (may affect up to 1 in 10 people):
 
 Uncommon (may affect up to 1 in 100 people):
 
--  seizures/fits.
+-  seizures/fits
+-  eruption of the skin or mucous membranes (lichenoid eruption).
 
 Not known (frequency cannot be estimated from the available data):
 
 -  abnormal heart tracing on an ECG (electrocardiogram)
 -  widespread rash, high body temperature and enlarged lymph nodes (drug reaction with eosinophilia and systemic symptoms or DRESS)
 -  reddish non-elevated, target-like or circular patches on the trunk, often with central blisters, skin peeling, ulcers of mouth, throat, nose, genitals and eyes, which can be preceded by fever and flu-like symptoms. These serious skin rashes can be potentially life-threatening (Stevens-Johnson syndrome, toxic epidermal necrolysis)
--  eruption of the skin or mucous membranes (lichenoid eruption)
 -  very low level of a type of white blood cell which can make you more likely to get infections (agranulocytosis).
 
 Tell your healthcare provider if you notice any of the side effects listed above.
@@ -3365,7 +3342,11 @@ Janssen-Cilag Φαρμακευτική Μονοπρόσωπη Α.Ε.Β.Ε. Tηλ
 
 ## España
 
-Janssen-Cilag, S.A. Tel: +34 91 722 81 00 contacto@its.jnj.com
+Janssen-Cilag, S.A.
+
+Tel: +34 91 722 81 00
+
+contacto@its.jnj.com
 
 ## France
 
@@ -3409,7 +3390,9 @@ Janssen-Cilag AS Tlf: +47 24 12 65 00 jacno@its.jnj.com
 
 ## Österreich
 
-Janssen-Cilag Pharma GmbH Tel: +43 1 610 300
+Janssen-Cilag Pharma GmbH
+
+Tel: +43 1 610 300
 
 ## Polska
 
@@ -3474,25 +3457,3 @@ Janssen-Cilag Oy Puh/Tel: +358 207 531 300 jacfi@its.jnj.com
 ## Sverige
 
 Janssen-Cilag AB Tfn: +46 8 626 50 00 jacse@its.jnj.com
-
-<div style=\"page-break-after: always\"></div>
-
-## ANNEX IV
-
-## SCIENTIFIC CONCLUSIONS AND GROUNDS FOR THE VARIATION TO THE TERMS OF THE MARKETING AUTHORISATION(S)
-
-<div style=\"page-break-after: always\"></div>
-
-## Scientific conclusions
-
-Taking into account the PRAC Assessment Report on the PSUR(s) for apalutamide, the scientific conclusions of PRAC are as follows:
-
-In view of available data on apalutamide and neutropenia as well as agranulocytosis from spontaneous cases with positive dechallenge and/or rechallenge and compatible time to onset, data from clinical trials and in the literature, and in view of a potential mechanism of action, a causal relationship between apalutamide and neutropenia as well as apalutamide and agranulocytosis is at least a reasonable possibility and the product information of apalutamide containing products should be amended accordingly.
-
-Having reviewed the PRAC recommendation, the CHMP agrees with the PRAC overall conclusions and grounds for recommendation.
-
-## Grounds for the variation to the terms of the marketing authorisation(s)
-
-On the basis of the scientific conclusions for apalutamide the CHMP is of the opinion that the benefit-risk balance of the medicinal product(s) containing apalutamide is unchanged subject to the proposed changes to the product information.
-
-The CHMP recommends that the terms of the marketing authorisation(s) should be varied.

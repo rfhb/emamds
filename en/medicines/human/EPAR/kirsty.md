@@ -1,19 +1,19 @@
 ---
-document_datetime: 2025-12-29 12:03:19
+document_datetime: 2026-02-04 17:00:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/kirsty.html
 document_name: kirsty.html
 version: success
-processing_time: 0.107172
-conversion_datetime: 2025-12-30 09:42:31.466752
+processing_time: 0.2050454
+conversion_datetime: 2026-02-05 11:36:28.470198
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.66.0
-  docling-core: 2.57.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
-  python: cpython-313 (3.13.11)
+  docling-serve: 1.11.0
+  docling-jobkit: 1.9.1
+  docling: 2.72.0
+  docling-core: 2.63.0
+  docling-ibm-models: 3.11.0
+  docling-parse: 4.7.3
+  python: cpython-313 (3.13.12)
   plaform: macOS-26.2-arm64-arm-64bit-Mach-O
 ---
 # Kirsty (previously Kixelle)
@@ -25,8 +25,6 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 insulin aspart Medicine Human Authorised
-
-On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -116,7 +114,7 @@ English (EN) (103.42 KB - PDF)
 
 [View](/en/documents/overview/kirsty-previously-kixelle-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-18)
+[Other languages (22)](#file-language-dropdown-141)
 
 български (BG) (161.65 KB - PDF)
 
@@ -394,17 +392,17 @@ English (EN) (83.16 KB - PDF)
 
 Kirsty : EPAR - Product information
 
-English (EN) (1005.36 KB - PDF)
+English (EN) (1.09 MB - PDF)
 
 **First published:** 16/03/2021
 
-**Last updated:** 01/12/2023
+**Last updated:** 04/02/2026
 
 [View](/en/documents/product-information/kirsty-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-328)
+[Other languages (24)](#file-language-dropdown-622)
 
-български (BG) (1.09 MB - PDF)
+български (BG) (1 MB - PDF)
 
 **First published:**
 
@@ -412,11 +410,11 @@ English (EN) (1005.36 KB - PDF)
 
 **Last updated:**
 
-01/12/2023
+04/02/2026
 
 [View](/bg/documents/product-information/kirsty-epar-product-information_bg.pdf)
 
-español (ES) (887.1 KB - PDF)
+español (ES) (927.75 KB - PDF)
 
 **First published:**
 
@@ -424,11 +422,11 @@ español (ES) (887.1 KB - PDF)
 
 **Last updated:**
 
-01/12/2023
+04/02/2026
 
 [View](/es/documents/product-information/kirsty-epar-product-information_es.pdf)
 
-čeština (CS) (983.71 KB - PDF)
+čeština (CS) (1.03 MB - PDF)
 
 **First published:**
 
@@ -436,11 +434,11 @@ español (ES) (887.1 KB - PDF)
 
 **Last updated:**
 
-01/12/2023
+04/02/2026
 
 [View](/cs/documents/product-information/kirsty-epar-product-information_cs.pdf)
 
-dansk (DA) (902.61 KB - PDF)
+dansk (DA) (918.59 KB - PDF)
 
 **First published:**
 
@@ -448,11 +446,11 @@ dansk (DA) (902.61 KB - PDF)
 
 **Last updated:**
 
-01/12/2023
+04/02/2026
 
 [View](/da/documents/product-information/kirsty-epar-product-information_da.pdf)
 
-Deutsch (DE) (981.77 KB - PDF)
+Deutsch (DE) (1 MB - PDF)
 
 **First published:**
 
@@ -460,11 +458,11 @@ Deutsch (DE) (981.77 KB - PDF)
 
 **Last updated:**
 
-01/12/2023
+04/02/2026
 
 [View](/de/documents/product-information/kirsty-epar-product-information_de.pdf)
 
-eesti keel (ET) (891.52 KB - PDF)
+eesti keel (ET) (955.17 KB - PDF)
 
 **First published:**
 
@@ -472,11 +470,11 @@ eesti keel (ET) (891.52 KB - PDF)
 
 **Last updated:**
 
-01/12/2023
+04/02/2026
 
 [View](/et/documents/product-information/kirsty-epar-product-information_et.pdf)
 
-ελληνικά (EL) (1.17 MB - PDF)
+ελληνικά (EL) (1.13 MB - PDF)
 
 **First published:**
 
@@ -484,11 +482,11 @@ eesti keel (ET) (891.52 KB - PDF)
 
 **Last updated:**
 
-01/12/2023
+04/02/2026
 
 [View](/el/documents/product-information/kirsty-epar-product-information_el.pdf)
 
-français (FR) (927.86 KB - PDF)
+français (FR) (960.54 KB - PDF)
 
 **First published:**
 
@@ -496,11 +494,11 @@ français (FR) (927.86 KB - PDF)
 
 **Last updated:**
 
-01/12/2023
+04/02/2026
 
 [View](/fr/documents/product-information/kirsty-epar-product-information_fr.pdf)
 
-hrvatski (HR) (976.54 KB - PDF)
+hrvatski (HR) (1007.01 KB - PDF)
 
 **First published:**
 
@@ -508,11 +506,11 @@ hrvatski (HR) (976.54 KB - PDF)
 
 **Last updated:**
 
-01/12/2023
+04/02/2026
 
 [View](/hr/documents/product-information/kirsty-epar-product-information_hr.pdf)
 
-íslenska (IS) (916.37 KB - PDF)
+íslenska (IS) (929.94 KB - PDF)
 
 **First published:**
 
@@ -520,11 +518,11 @@ hrvatski (HR) (976.54 KB - PDF)
 
 **Last updated:**
 
-01/12/2023
+04/02/2026
 
 [View](/is/documents/product-information/kirsty-epar-product-information_is.pdf)
 
-italiano (IT) (896.55 KB - PDF)
+italiano (IT) (918.48 KB - PDF)
 
 **First published:**
 
@@ -532,11 +530,11 @@ italiano (IT) (896.55 KB - PDF)
 
 **Last updated:**
 
-01/12/2023
+04/02/2026
 
 [View](/it/documents/product-information/kirsty-epar-product-information_it.pdf)
 
-latviešu valoda (LV) (989.01 KB - PDF)
+latviešu valoda (LV) (1.42 MB - PDF)
 
 **First published:**
 
@@ -544,11 +542,11 @@ latviešu valoda (LV) (989.01 KB - PDF)
 
 **Last updated:**
 
-01/12/2023
+04/02/2026
 
 [View](/lv/documents/product-information/kirsty-epar-product-information_lv.pdf)
 
-lietuvių kalba (LT) (1.44 MB - PDF)
+lietuvių kalba (LT) (1.21 MB - PDF)
 
 **First published:**
 
@@ -556,11 +554,11 @@ lietuvių kalba (LT) (1.44 MB - PDF)
 
 **Last updated:**
 
-01/12/2023
+04/02/2026
 
 [View](/lt/documents/product-information/kirsty-epar-product-information_lt.pdf)
 
-magyar (HU) (1.02 MB - PDF)
+magyar (HU) (1.05 MB - PDF)
 
 **First published:**
 
@@ -568,11 +566,11 @@ magyar (HU) (1.02 MB - PDF)
 
 **Last updated:**
 
-01/12/2023
+04/02/2026
 
 [View](/hu/documents/product-information/kirsty-epar-product-information_hu.pdf)
 
-Malti (MT) (1.02 MB - PDF)
+Malti (MT) (1.5 MB - PDF)
 
 **First published:**
 
@@ -580,11 +578,11 @@ Malti (MT) (1.02 MB - PDF)
 
 **Last updated:**
 
-01/12/2023
+04/02/2026
 
 [View](/mt/documents/product-information/kirsty-epar-product-information_mt.pdf)
 
-Nederlands (NL) (1.04 MB - PDF)
+Nederlands (NL) (992.06 KB - PDF)
 
 **First published:**
 
@@ -592,11 +590,11 @@ Nederlands (NL) (1.04 MB - PDF)
 
 **Last updated:**
 
-01/12/2023
+04/02/2026
 
 [View](/nl/documents/product-information/kirsty-epar-product-information_nl.pdf)
 
-norsk (NO) (915.73 KB - PDF)
+norsk (NO) (1.38 MB - PDF)
 
 **First published:**
 
@@ -604,11 +602,11 @@ norsk (NO) (915.73 KB - PDF)
 
 **Last updated:**
 
-01/12/2023
+04/02/2026
 
 [View](/no/documents/product-information/kirsty-epar-product-information_no.pdf)
 
-polski (PL) (1 MB - PDF)
+polski (PL) (1.42 MB - PDF)
 
 **First published:**
 
@@ -616,11 +614,11 @@ polski (PL) (1 MB - PDF)
 
 **Last updated:**
 
-10/03/2025
+04/02/2026
 
 [View](/pl/documents/product-information/kirsty-epar-product-information_pl.pdf)
 
-português (PT) (940.93 KB - PDF)
+português (PT) (1.41 MB - PDF)
 
 **First published:**
 
@@ -628,11 +626,11 @@ português (PT) (940.93 KB - PDF)
 
 **Last updated:**
 
-01/12/2023
+04/02/2026
 
 [View](/pt/documents/product-information/kirsty-epar-product-information_pt.pdf)
 
-română (RO) (977.08 KB - PDF)
+română (RO) (1.46 MB - PDF)
 
 **First published:**
 
@@ -640,11 +638,11 @@ română (RO) (977.08 KB - PDF)
 
 **Last updated:**
 
-01/12/2023
+04/02/2026
 
 [View](/ro/documents/product-information/kirsty-epar-product-information_ro.pdf)
 
-slovenčina (SK) (1.01 MB - PDF)
+slovenčina (SK) (1.5 MB - PDF)
 
 **First published:**
 
@@ -652,11 +650,11 @@ slovenčina (SK) (1.01 MB - PDF)
 
 **Last updated:**
 
-01/12/2023
+04/02/2026
 
 [View](/sk/documents/product-information/kirsty-epar-product-information_sk.pdf)
 
-slovenščina (SL) (1.11 MB - PDF)
+slovenščina (SL) (1.51 MB - PDF)
 
 **First published:**
 
@@ -664,11 +662,11 @@ slovenščina (SL) (1.11 MB - PDF)
 
 **Last updated:**
 
-01/12/2023
+04/02/2026
 
 [View](/sl/documents/product-information/kirsty-epar-product-information_sl.pdf)
 
-Suomi (FI) (885.85 KB - PDF)
+Suomi (FI) (905.96 KB - PDF)
 
 **First published:**
 
@@ -676,11 +674,11 @@ Suomi (FI) (885.85 KB - PDF)
 
 **Last updated:**
 
-01/12/2023
+04/02/2026
 
 [View](/fi/documents/product-information/kirsty-epar-product-information_fi.pdf)
 
-svenska (SV) (919.32 KB - PDF)
+svenska (SV) (1.39 MB - PDF)
 
 **First published:**
 
@@ -688,11 +686,11 @@ svenska (SV) (919.32 KB - PDF)
 
 **Last updated:**
 
-01/12/2023
+04/02/2026
 
 [View](/sv/documents/product-information/kirsty-epar-product-information_sv.pdf)
 
-**Latest procedure affecting product information:** IAIN/0013 30/11/2023
+**Latest procedure affecting product information:** R/0000276245 30/10/2025
 
 icon globe
 
@@ -710,17 +708,17 @@ Product information documents contain:
 
 Kirsty (previously Kixelle) : EPAR - All authorised presentations
 
-English (EN) (4.89 KB - PDF)
+English (EN) (83.13 KB - PDF)
 
 **First published:** 16/03/2021
 
-**Last updated:** 14/09/2021
+**Last updated:** 04/02/2026
 
 [View](/en/documents/all-authorised-presentations/kirsty-previously-kixelle-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-845)
+[Other languages (24)](#file-language-dropdown-468)
 
-български (BG) (47.16 KB - PDF)
+български (BG) (90.55 KB - PDF)
 
 **First published:**
 
@@ -728,11 +726,11 @@ English (EN) (4.89 KB - PDF)
 
 **Last updated:**
 
-14/09/2021
+04/02/2026
 
 [View](/bg/documents/all-authorised-presentations/kirsty-previously-kixelle-epar-all-authorised-presentations_bg.pdf)
 
-español (ES) (5.59 KB - PDF)
+español (ES) (82.16 KB - PDF)
 
 **First published:**
 
@@ -740,11 +738,11 @@ español (ES) (5.59 KB - PDF)
 
 **Last updated:**
 
-14/09/2021
+04/02/2026
 
 [View](/es/documents/all-authorised-presentations/kirsty-previously-kixelle-epar-all-authorised-presentations_es.pdf)
 
-čeština (CS) (20.53 KB - PDF)
+čeština (CS) (102.36 KB - PDF)
 
 **First published:**
 
@@ -752,11 +750,11 @@ español (ES) (5.59 KB - PDF)
 
 **Last updated:**
 
-14/09/2021
+04/02/2026
 
 [View](/cs/documents/all-authorised-presentations/kirsty-previously-kixelle-epar-all-authorised-presentations_cs.pdf)
 
-dansk (DA) (5.42 KB - PDF)
+dansk (DA) (84.41 KB - PDF)
 
 **First published:**
 
@@ -764,11 +762,11 @@ dansk (DA) (5.42 KB - PDF)
 
 **Last updated:**
 
-14/09/2021
+04/02/2026
 
 [View](/da/documents/all-authorised-presentations/kirsty-previously-kixelle-epar-all-authorised-presentations_da.pdf)
 
-Deutsch (DE) (5.53 KB - PDF)
+Deutsch (DE) (84.81 KB - PDF)
 
 **First published:**
 
@@ -776,11 +774,11 @@ Deutsch (DE) (5.53 KB - PDF)
 
 **Last updated:**
 
-14/09/2021
+04/02/2026
 
 [View](/de/documents/all-authorised-presentations/kirsty-previously-kixelle-epar-all-authorised-presentations_de.pdf)
 
-eesti keel (ET) (5.35 KB - PDF)
+eesti keel (ET) (80.01 KB - PDF)
 
 **First published:**
 
@@ -788,11 +786,11 @@ eesti keel (ET) (5.35 KB - PDF)
 
 **Last updated:**
 
-14/09/2021
+04/02/2026
 
 [View](/et/documents/all-authorised-presentations/kirsty-previously-kixelle-epar-all-authorised-presentations_et.pdf)
 
-ελληνικά (EL) (28.54 KB - PDF)
+ελληνικά (EL) (96.96 KB - PDF)
 
 **First published:**
 
@@ -800,11 +798,11 @@ eesti keel (ET) (5.35 KB - PDF)
 
 **Last updated:**
 
-14/09/2021
+04/02/2026
 
 [View](/el/documents/all-authorised-presentations/kirsty-previously-kixelle-epar-all-authorised-presentations_el.pdf)
 
-français (FR) (4.17 KB - PDF)
+français (FR) (82.89 KB - PDF)
 
 **First published:**
 
@@ -812,11 +810,11 @@ français (FR) (4.17 KB - PDF)
 
 **Last updated:**
 
-14/09/2021
+04/02/2026
 
 [View](/fr/documents/all-authorised-presentations/kirsty-previously-kixelle-epar-all-authorised-presentations_fr.pdf)
 
-hrvatski (HR) (19.46 KB - PDF)
+hrvatski (HR) (101.95 KB - PDF)
 
 **First published:**
 
@@ -824,11 +822,11 @@ hrvatski (HR) (19.46 KB - PDF)
 
 **Last updated:**
 
-14/09/2021
+04/02/2026
 
 [View](/hr/documents/all-authorised-presentations/kirsty-previously-kixelle-epar-all-authorised-presentations_hr.pdf)
 
-íslenska (IS) (5.39 KB - PDF)
+íslenska (IS) (83.74 KB - PDF)
 
 **First published:**
 
@@ -836,11 +834,11 @@ hrvatski (HR) (19.46 KB - PDF)
 
 **Last updated:**
 
-14/09/2021
+04/02/2026
 
 [View](/is/documents/all-authorised-presentations/kirsty-previously-kixelle-epar-all-authorised-presentations_is.pdf)
 
-italiano (IT) (5.16 KB - PDF)
+italiano (IT) (81.09 KB - PDF)
 
 **First published:**
 
@@ -848,11 +846,11 @@ italiano (IT) (5.16 KB - PDF)
 
 **Last updated:**
 
-14/09/2021
+04/02/2026
 
 [View](/it/documents/all-authorised-presentations/kirsty-previously-kixelle-epar-all-authorised-presentations_it.pdf)
 
-latviešu valoda (LV) (21.41 KB - PDF)
+latviešu valoda (LV) (100.85 KB - PDF)
 
 **First published:**
 
@@ -860,11 +858,11 @@ latviešu valoda (LV) (21.41 KB - PDF)
 
 **Last updated:**
 
-14/09/2021
+04/02/2026
 
 [View](/lv/documents/all-authorised-presentations/kirsty-previously-kixelle-epar-all-authorised-presentations_lv.pdf)
 
-lietuvių kalba (LT) (20.16 KB - PDF)
+lietuvių kalba (LT) (102.88 KB - PDF)
 
 **First published:**
 
@@ -872,11 +870,11 @@ lietuvių kalba (LT) (20.16 KB - PDF)
 
 **Last updated:**
 
-14/09/2021
+04/02/2026
 
 [View](/lt/documents/all-authorised-presentations/kirsty-previously-kixelle-epar-all-authorised-presentations_lt.pdf)
 
-magyar (HU) (19.88 KB - PDF)
+magyar (HU) (102.33 KB - PDF)
 
 **First published:**
 
@@ -884,11 +882,11 @@ magyar (HU) (19.88 KB - PDF)
 
 **Last updated:**
 
-14/09/2021
+04/02/2026
 
 [View](/hu/documents/all-authorised-presentations/kirsty-previously-kixelle-epar-all-authorised-presentations_hu.pdf)
 
-Malti (MT) (20.67 KB - PDF)
+Malti (MT) (98.59 KB - PDF)
 
 **First published:**
 
@@ -896,11 +894,11 @@ Malti (MT) (20.67 KB - PDF)
 
 **Last updated:**
 
-14/09/2021
+04/02/2026
 
 [View](/mt/documents/all-authorised-presentations/kirsty-previously-kixelle-epar-all-authorised-presentations_mt.pdf)
 
-Nederlands (NL) (4.99 KB - PDF)
+Nederlands (NL) (82.52 KB - PDF)
 
 **First published:**
 
@@ -908,11 +906,11 @@ Nederlands (NL) (4.99 KB - PDF)
 
 **Last updated:**
 
-14/09/2021
+04/02/2026
 
 [View](/nl/documents/all-authorised-presentations/kirsty-previously-kixelle-epar-all-authorised-presentations_nl.pdf)
 
-norsk (NO) (5.48 KB - PDF)
+norsk (NO) (84.09 KB - PDF)
 
 **First published:**
 
@@ -920,11 +918,11 @@ norsk (NO) (5.48 KB - PDF)
 
 **Last updated:**
 
-14/09/2021
+04/02/2026
 
 [View](/no/documents/all-authorised-presentations/kirsty-previously-kixelle-epar-all-authorised-presentations_no.pdf)
 
-polski (PL) (20.67 KB - PDF)
+polski (PL) (102.26 KB - PDF)
 
 **First published:**
 
@@ -932,11 +930,11 @@ polski (PL) (20.67 KB - PDF)
 
 **Last updated:**
 
-14/09/2021
+04/02/2026
 
 [View](/pl/documents/all-authorised-presentations/kirsty-previously-kixelle-epar-all-authorised-presentations_pl.pdf)
 
-português (PT) (8.2 KB - PDF)
+português (PT) (82.69 KB - PDF)
 
 **First published:**
 
@@ -944,11 +942,11 @@ português (PT) (8.2 KB - PDF)
 
 **Last updated:**
 
-14/09/2021
+04/02/2026
 
 [View](/pt/documents/all-authorised-presentations/kirsty-previously-kixelle-epar-all-authorised-presentations_pt.pdf)
 
-română (RO) (20.55 KB - PDF)
+română (RO) (98.29 KB - PDF)
 
 **First published:**
 
@@ -956,11 +954,11 @@ română (RO) (20.55 KB - PDF)
 
 **Last updated:**
 
-14/09/2021
+04/02/2026
 
 [View](/ro/documents/all-authorised-presentations/kirsty-previously-kixelle-epar-all-authorised-presentations_ro.pdf)
 
-slovenčina (SK) (20.17 KB - PDF)
+slovenčina (SK) (99.99 KB - PDF)
 
 **First published:**
 
@@ -968,11 +966,11 @@ slovenčina (SK) (20.17 KB - PDF)
 
 **Last updated:**
 
-14/09/2021
+04/02/2026
 
 [View](/sk/documents/all-authorised-presentations/kirsty-previously-kixelle-epar-all-authorised-presentations_sk.pdf)
 
-slovenščina (SL) (19.55 KB - PDF)
+slovenščina (SL) (98.96 KB - PDF)
 
 **First published:**
 
@@ -980,11 +978,11 @@ slovenščina (SL) (19.55 KB - PDF)
 
 **Last updated:**
 
-14/09/2021
+04/02/2026
 
 [View](/sl/documents/all-authorised-presentations/kirsty-previously-kixelle-epar-all-authorised-presentations_sl.pdf)
 
-Suomi (FI) (5.3 KB - PDF)
+Suomi (FI) (80.69 KB - PDF)
 
 **First published:**
 
@@ -992,11 +990,11 @@ Suomi (FI) (5.3 KB - PDF)
 
 **Last updated:**
 
-14/09/2021
+04/02/2026
 
 [View](/fi/documents/all-authorised-presentations/kirsty-previously-kixelle-epar-all-authorised-presentations_fi.pdf)
 
-svenska (SV) (5.41 KB - PDF)
+svenska (SV) (83.11 KB - PDF)
 
 **First published:**
 
@@ -1004,7 +1002,7 @@ svenska (SV) (5.41 KB - PDF)
 
 **Last updated:**
 
-14/09/2021
+04/02/2026
 
 [View](/sv/documents/all-authorised-presentations/kirsty-previously-kixelle-epar-all-authorised-presentations_sv.pdf)
 
@@ -1038,7 +1036,7 @@ Biosimilar Collaborations Ireland Limited
 
 Unit 35/36
 
-Opinion adopted 10/12/2020 Marketing authorisation issued 05/02/2021 Revision 4
+Opinion adopted 10/12/2020 Marketing authorisation issued 05/02/2021 Revision 5
 
 ## Assessment history
 
@@ -1050,13 +1048,13 @@ Collapse section
 
 Kirsty (previously Kixelle) : EPAR - Procedural steps taken and scientific information after the authorisation
 
-English (EN) (114.23 KB - PDF)
+English (EN) (158.79 KB - PDF)
 
 **First published:** 14/09/2021
 
-**Last updated:** 01/12/2023
+**Last updated:** 04/02/2026
 
-[View](/en/documents/procedural-steps-after/kirsty-previously-kixelle-epar-procedural-steps-taken-and-scientific-information-after-authorisation_en.pdf)
+[View](/en/documents/procedural-steps-after/kirsty-previously-kixelle-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf)
 
 ## Initial marketing authorisation documents
 
@@ -1092,7 +1090,7 @@ English (EN) (121.53 KB - PDF)
 
 - [Biosimilar medicines: Overview](/en/human-regulatory-overview/biosimilar-medicines-overview)
 
-**This page was last updated on** 27/09/2023
+**This page was last updated on** 04/02/2026
 
 ## Share this page
 

@@ -1,18 +1,18 @@
 ---
-document_datetime: 2024-08-20 11:57:31
+document_datetime: 2026-02-06 12:03:15
 document_pages: 74
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/helicobacter-test-infai-epar-product-information_en.pdf
 document_name: helicobacter-test-infai-epar-product-information_en.pdf
 version: success
-processing_time: 15.1709824
-conversion_datetime: 2025-12-23 01:53:54.715873
+processing_time: 14.5258694
+conversion_datetime: 2026-02-09 22:31:09.380904
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.64.1
-  docling-core: 2.55.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.12.0
+  docling-jobkit: 1.10.1
+  docling: 2.72.0
+  docling-core: 2.63.0
+  docling-ibm-models: 3.11.0
+  docling-parse: 4.7.3
   python: cpython-313 (3.13.11)
   plaform: macOS-26.2-arm64-arm-64bit-Mach-O
 ---
@@ -1309,17 +1309,20 @@ EU/1/97/045/004
 
 Batch:
 
-## 14. GENERAL CLASSIFICATION FOR SUPPLY
+| 14.   | GENERAL CLASSIFICATION FOR SUPPLY   |
+|-------|-------------------------------------|
 
 Medicinal product subject to medical prescription.
 
 ## 15. INSTRUCTIONS ON USE
 
-## 16. INFORMATION IN BRAILLE
+| 16.   | INFORMATION IN BRAILLE   |
+|-------|--------------------------|
 
 Helicobacter Test INFAI 75 mg
 
-## 17. UNIQUE IDENTIFIER - 2D BARCODE
+| 17.   | UNIQUE IDENTIFIER - 2D BARCODE   |
+|-------|----------------------------------|
 
 2D barcode carrying the unique identifier included.
 
@@ -1587,19 +1590,7 @@ Jar contains 45 mg 13 C-urea
 
 Single test
 
-Powder for oral solution
-
-Please read enclosed instructions for use.
-
-Keep out of the sight and reach of children.
-
-Do not store above 25 °C.
-
-Medicinal product subject to medical prescription.
-
-Marketing Authorisation Number:
-
-EU/1/97/045/003
+Powder for oral solution Please read enclosed instructions for use. Keep out of the sight and reach of children. Do not store above 25 °C. Medicinal product subject to medical prescription. Marketing Authorisation Number: EU/1/97/045/003
 
 INFAI GmbH An der Kohlenbahn 39 D-58135 Hagen Germany
 
@@ -2086,25 +2077,27 @@ INFAI GmbH An der Kohlenbahn 39 D-58135 Hagen Germany
 
 For any information about this medicine, please contact the local representative of the Marketing Authorisation Holder:
 
-## AT, BE, BG, CZ, DE, DK, EE, ES, FI, IS, IT, LT, LU, LV, NL, NO, RO, SE
+## AT, BE, BG, CZ, DE, DK, EE, ES, FI, HU, IE, IS, IT, LT, LU, LV, NL, NO, PL, RO, SE
 
-INFAI GmbH, Tel / Tél / Teл. / Τηλ / Puh / Sími / Tlf.: +49 2331 349 310 Deutschland / Allemagne / Германия / Německo / Tyskland / Saksamaa / Alemania / Saksa /
+INFAI GmbH, Tel / Tél / Teл. / Τηλ / Puh / Sími / Tlf.: +49 2331 349 310
 
-Þýskaland / Germania / Vokietija / Vācija / Duitsland
+Deutschland / Allemagne / Германия / Německo / Tyskland / Saksamaa / Alemania / Saksa / Németország / Germany / Þýskaland / Germania / Vokietija / Vācija / Duitsland / Niemcy
 
-CY, EL Fertithera Labs Φαρμακευτικη Μονοπρόσωπη ΙΚΕ, Τηλ: +30 699 308 8000, Ελλάδα FR Bioprojet, Tél: +33 1 47 03 66 33
+CY, EL
 
-- HR POLIKLINIKA LABPLUS, Tel: + 385 1 299 3595, E-Mail: info@poliklinika-labplus.hr IE, UK INFAI UK Ltd., Tel: + 44 1904 217 123, United Kingdom
+Fertithera Labs Φαρμακευτικη Μονοπρόσωπη ΙΚΕ, Τηλ: +30 699 308 8000, Ελλάδα
 
-MT Fertithera Labs Pharmaceutical Uniku Proprjetà, Tel: +30 699 308 8000, il- Greċja
+FR Bioprojet, Tél: +33 1 47 03 66 33, contact@bioprojet.com
 
-PL Dr Piktel Medic@l Systems, Tel: +48 85 744 7770
+HR Pharmadia doo, Tel: +385 99 2770 027, office@pharma-dia.com
+
+MT Fertithera Labs Pharmaceutical Uniku Proprjetà, Tel: +30 699 308 8000, ilGreċja
 
 PT Sermail - Logística Integrada Lda., Tel: +351 21 973 9120
 
 SL PLIVA LJUBLJANA d.o.o., Tel: +386 1 5890 390
 
-HU, SK ALLMEDICAL s.r.o, Tel: +421 903 654 103, Szlovákia / Slovenská republika
+SK ALLMEDICAL s.r.o, Tel: +421 903 654 103
 
 ## This leaflet was last revised in MM/YYYY.
 
@@ -2354,27 +2347,23 @@ INFAI GmbH An der Kohlenbahn 39 D-58135 Hagen Germany
 
 For any information about this medicine, please contact the local representative of the Marketing Authorisation Holder:
 
-## AT, BE, BG, CZ, DE, DK, EE, ES, FI, IS, IT, LT, LU, LV, NL, NO, RO, SE
+## AT, BE, BG, CZ, DE, DK, EE, ES, FI, HU, IE, IS, IT, LT, LU, LV, NL, NO, PL, RO, SE
 
-INFAI GmbH, Tel / Tél / Teл. / Τηλ / Puh / Sími / Tlf.: +49 2331 349 310
+INFAI GmbH, Tel / Tél / Teл. / Τηλ / Puh / Sími / Tlf.: +49 2331 349 310 Alemania / Saksa /
 
-Deutschland / Allemagne / Германия / Německo / Tyskland / Saksamaa / Alemania / Saksa / Þýskaland / Germania / Vokietija / Vācija / Duitsland
+Deutschland / Allemagne / Германия / Německo / Tyskland / Saksamaa / Németország / Germany / Þýskaland / Germania / Vokietija / Vācija / Duitsland / Niemcy
 
-CY, EL Fertithera Labs Φαρμακευτικη Μονοπρόσωπη ΙΚΕ, Τηλ: +30 699 308 8000, Ελλάδα FR Bioprojet, Tél: +33 1 47 03 66 33
+CY, EL Fertithera Labs Φαρμακευτικη Μονοπρόσωπη ΙΚΕ, Τηλ: +30 699 308 8000, Ελλάδα FR Bioprojet, Tél: +33 1 47 03 66 33, contact@bioprojet.com
 
-HR POLIKLINIKA LABPLUS, Tel: + 385 1 299 3595, E-Mail: info@poliklinika-labplus.hr
+HR Pharmadia doo, Tel: +385 99 2770 027, office@pharma-dia.com
 
-IE, UK INFAI UK Ltd., Tel: + 44 1904 217 123, United Kingdom
-
-MT Fertithera Labs Pharmaceutical Uniku Proprjetà, Tel: +30 699 308 8000, ilGreċja
-
-PL Dr Piktel Medic@l Systems, Tel: +48 85 744 7770
+MT Fertithera Labs Pharmaceutical Uniku Proprjetà, Tel: +30 699 308 8000, il- Greċja
 
 PT Sermail - Logística Integrada Lda., Tel: +351 21 973 9120
 
 SL PLIVA LJUBLJANA d.o.o., Tel: +386 1 5890 390
 
-HU, SK ALLMEDICAL s.r.o, Tel: +421 903 654 103, Szlovákia / Slovenská republika
+SK ALLMEDICAL s.r.o, Tel: +421 903 654 103
 
 ## This leaflet was last revised in MM/YYYY.
 
@@ -2600,19 +2589,27 @@ INFAI GmbH An der Kohlenbahn 39 D-58135 Hagen Germany
 
 For any information about this medicine, please contact the local representative of the Marketing Authorisation Holder:
 
-## AT, BE, BG, CZ, DE, DK, EE, ES, FI, IS, IT, LT, LU, LV, NL, NO, RO, SE
+## AT, BE, BG, CZ, DE, DK, EE, ES, FI, HU, IE, IS, IT, LT, LU, LV, NL, NO, PL, RO, SE
 
-| INFAI GmbH, Tel / Tél / Teл. / Τηλ / Puh / Sími / Tlf.: +49 2331 349 310   | INFAI GmbH, Tel / Tél / Teл. / Τηλ / Puh / Sími / Tlf.: +49 2331 349 310          |
-|----------------------------------------------------------------------------|-----------------------------------------------------------------------------------|
-| Þýskaland / Germania / Vokietija / Vācija / Duitsland                      | Þýskaland / Germania / Vokietija / Vācija / Duitsland                             |
-| CY, EL                                                                     | Fertithera Labs Φαρμακευτικη Μονοπρόσωπη ΙΚΕ, Τηλ: +30 699 308 8000, Ελλάδα       |
-| HR                                                                         | POLIKLINIKA LABPLUS, Tel: + 385 1 299 3595, E-Mail: info@poliklinika-labplus.hr   |
-| IE, UK                                                                     | INFAI UK Ltd., Tel: + 44 1904 217 123, United Kingdom                             |
-| MT                                                                         | Fertithera Labs Pharmaceutical Uniku Proprjetà, Tel: +30 699 308 8000, il- Greċja |
-| PL                                                                         | Dr Piktel Medic@l Systems, Tel: +48 85 744 7770                                   |
-| PT                                                                         | Sermail - Logística Integrada Lda., Tel: +351 21 973 9120                         |
-| SL                                                                         | PLIVA LJUBLJANA d.o.o., Tel: +386 1 5890 390                                      |
-| HU, SK                                                                     | ALLMEDICAL s.r.o, Tel: +421 903 654 103, Szlovákia / Slovenská republika          |
+INFAI GmbH, Tel / Tél / Teл. / Τηλ / Puh / Sími / Tlf.: +49 2331 349 310
+
+Deutschland / Allemagne / Германия / Německo / Tyskland / Saksamaa / Alemania / Saksa / Németország / Germany / Þýskaland / Germania / Vokietija / Vācija / Duitsland / Niemcy
+
+CY, EL
+
+Fertithera Labs Φαρμακευτικη Μονοπρόσωπη ΙΚΕ, Τηλ: +30 699 308 8000, Ελλάδα
+
+FR Bioprojet, Tél: +33 1 47 03 66 33, contact@bioprojet.com
+
+HR Pharmadia doo, Tel: +385 99 2770 027, office@pharma-dia.com
+
+MT Fertithera Labs Pharmaceutical Uniku Proprjetà, Tel: +30 699 308 8000, ilGreċja
+
+PT Sermail - Logística Integrada Lda., Tel: +351 21 973 9120
+
+SL PLIVA LJUBLJANA d.o.o., Tel: +386 1 5890 390
+
+SK ALLMEDICAL s.r.o, Tel: +421 903 654 103
 
 ## This leaflet was last revised in MM/YYYY.
 
@@ -2850,19 +2847,27 @@ INFAI GmbH An der Kohlenbahn 39 D-58135 Hagen Germany
 
 For any information about this medicine, please contact the local representative of the Marketing Authorisation Holder:
 
-## AT, BE, BG, CZ, DE, DK, EE, ES, FI, IS, IT, LT, LU, LV, NL, NO, RO, SE
+## AT, BE, BG, CZ, DE, DK, EE, ES, FI, HU, IE, IS, IT, LT, LU, LV, NL, NO, PL, RO, SE
 
-| INFAI GmbH, Tel / Tél / Teл. / Τηλ / Puh / Sími / Tlf.: +49 2331 349 310   | INFAI GmbH, Tel / Tél / Teл. / Τηλ / Puh / Sími / Tlf.: +49 2331 349 310                                      |
-|----------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------|
-| Þýskaland / Germania / Vokietija / Vācija / Duitsland                      | Þýskaland / Germania / Vokietija / Vācija / Duitsland                                                         |
-| CY, EL FR                                                                  | Fertithera Labs Φαρμακευτικη Μονοπρόσωπη ΙΚΕ, Τηλ: +30 699 308 8000, Ελλάδα Bioprojet, Tél: +33 1 47 03 66 33 |
-| HR                                                                         | POLIKLINIKA LABPLUS, Tel: + 385 1 299 3595, E-Mail: info@poliklinika-labplus.hr                               |
-| IE, UK                                                                     | INFAI UK Ltd., Tel: + 44 1904 217 123, United Kingdom                                                         |
-| MT                                                                         | Fertithera Labs Pharmaceutical Uniku Proprjetà, Tel: +30 699 308 8000, il- Greċja                             |
-| PL                                                                         | Dr Piktel Medic@l Systems, Tel: +48 85 744 7770                                                               |
-| PT                                                                         | Sermail - Logística Integrada Lda., Tel: +351 21 973 9120                                                     |
-| SL                                                                         | PLIVA LJUBLJANA d.o.o., Tel: +386 1 5890 390                                                                  |
-| HU, SK                                                                     | ALLMEDICAL s.r.o, Tel: +421 903 654 103, Szlovákia / Slovenská republika                                      |
+INFAI GmbH, Tel / Tél / Teл. / Τηλ / Puh / Sími / Tlf.: +49 2331 349 310
+
+Deutschland / Allemagne / Германия / Německo / Tyskland / Saksamaa / Alemania / Saksa / Németország / Germany / Þýskaland / Germania / Vokietija / Vācija / Duitsland / Niemcy
+
+CY, EL
+
+Fertithera Labs Φαρμακευτικη Μονοπρόσωπη ΙΚΕ, Τηλ: +30 699 308 8000, Ελλάδα
+
+FR Bioprojet, Tél: +33 1 47 03 66 33, contact@bioprojet.com
+
+HR Pharmadia doo, Tel: +385 99 2770 027, office@pharma-dia.com
+
+MT Fertithera Labs Pharmaceutical Uniku Proprjetà, Tel: +30 699 308 8000, ilGreċja
+
+PT Sermail - Logística Integrada Lda., Tel: +351 21 973 9120
+
+SL PLIVA LJUBLJANA d.o.o., Tel: +386 1 5890 390
+
+SK ALLMEDICAL s.r.o, Tel: +421 903 654 103
 
 ## This leaflet was last revised in MM/YYYY.
 

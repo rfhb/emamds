@@ -1,36 +1,30 @@
 ---
-document_datetime: 2025-10-21 14:11:49
+document_datetime: 2026-02-06 10:17:41
 document_pages: 2
 document_pathfilename: www.ema.europa.eu/en/documents/procedural-steps-after/rayvow-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf
 document_name: rayvow-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf
 version: success
-processing_time: 1.1731634
-conversion_datetime: 2025-12-17 09:46:19.023631
+processing_time: 3.560377
+conversion_datetime: 2026-02-09 22:22:14.319724
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.64.1
-  docling-core: 2.55.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.12.0
+  docling-jobkit: 1.10.1
+  docling: 2.72.0
+  docling-core: 2.63.0
+  docling-ibm-models: 3.11.0
+  docling-parse: 4.7.3
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.1-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
 ---
 ## RAYVOW
 
 Procedural steps taken and scientific information after the authorisation*
 
-*Due to the Agency`s update of its procedure management systems, an additional document, reflecting the historical lifecycle may be available in the 'Assessment history' section. For the complete product lifecycle procedures, you may need to also refer to EPAR - Procedural steps taken and scientific information after authorisation (archive) .
+*Due to the Agency' s update of its procedure management systems, an additional document, reflecting the historical lifecycle may be available in the 'Assessmenthistory'section.Forthe completeproduct lifecycleprocedures,you mayneedtoalsorefertoEPAR-Proceduralsteps taken andscientific informationafterauthorisation(archive).
 
-| Application number   | Scope                                        | Opinion/ Notification 1 issued on   | Commission Decision Issued 2 / amended on   | Product Information affected 3   | Summary   |
-|----------------------|----------------------------------------------|-------------------------------------|---------------------------------------------|----------------------------------|-----------|
-| Article 61(3) /      | - Notification acc. Article 61(3) - Accepted | 21/10/2025                          |                                             | PL                               |           |
-
-1  Notifications are issued for type I variations and Article 61(3) notifications (unless part of a group including a type II variation or extension application or a worksharing application). Opinions are issued for all other procedures.
-
-2  A Commission decision (CD) is issued for procedures that affect the terms of the marketing authorisation (e.g. summary of product characteristics, annex II, labelling, package leaflet). The CD is issued within two months of the opinion for variations falling under the scope of Article 23.1a(a) of Regulation (EU) No. 712/2012, or within one year for other procedures.
-
-3  SmPC (Summary of Product Characteristics), Annex II, Labelling, PL (Package Leaflet).
+| Applicationnumber      | Scope                              | Opinion/ Notification 1 issued on   | Commission Decision Issued²/ amendedon   | Product Information affected3   | Summary   |
+|------------------------|------------------------------------|-------------------------------------|------------------------------------------|---------------------------------|-----------|
+| Variation type IA_IN / | E.4Changeinthenameand/or addressof | 05/02/2026                          |                                          | SmPC,                           |           |
 
 <!-- image -->
 
@@ -38,5 +32,6 @@ Procedural steps taken and scientific information after the authorisation*
 
 <div style=\"page-break-after: always\"></div>
 
-| EMA/N/0000303870   | Update of the package leaflet with revised contact details of local representative and deletion of 'United Kingdom (Northern Ireland)' from the list of local representatives in line with the QRD template v10.4. Additionally, the MAH took the opportunity to introduce minor editorial amendments.   |
-|--------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| EMA/VR/0000315499                | the marketing Term name: E.4 authorisation holder, ASMF holder, storage site of the master and/or working cell bank, manufacturing site for an active substance, intermediate or finished product, primary and/or secondary packaging site, manufacturer responsible for batch release, site where quality control takes place, and/or supplier of a packaging component, medical device (part), starting material, reagent and/orexcipient(whenmentioned in the dossier-E.4.a)The change in the name and/or address concerns the marketing authorisationholder-Accepted   |            | Labelling and PL   |
+|----------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------|--------------------|
+| Article 61(3) / EMA/N/0000303870 | - Notification acc. Article 61(3) - Accepted Update of the package leaflet with revised contactdetailsoflocalrepresentativeand deletion of 'United Kingdom (Northem Ireland)' from the list of local representatives in line with the QRD templatev10.4.Additionally,theMAH took theopportunity tointroduceminor editorial amendments.                                                                                                                                                                                                                                     | 21/10/2025 | PL                 |

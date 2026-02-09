@@ -1,18 +1,18 @@
 ---
-document_datetime: 2024-10-15 16:45:15
-document_pages: 52
+document_datetime: 2026-02-05 14:23:04
+document_pages: 54
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/clopidogrel-zentiva-epar-product-information_en.pdf
 document_name: clopidogrel-zentiva-epar-product-information_en.pdf
 version: success
-processing_time: 16.5257501
-conversion_datetime: 2025-12-30 12:56:28.232017
+processing_time: 10.8949078
+conversion_datetime: 2026-02-09 22:05:27.563005
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.66.0
-  docling-core: 2.57.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.12.0
+  docling-jobkit: 1.10.1
+  docling: 2.72.0
+  docling-core: 2.63.0
+  docling-ibm-models: 3.11.0
+  docling-parse: 4.7.3
   python: cpython-313 (3.13.11)
   plaform: macOS-26.2-arm64-arm-64bit-Mach-O
 ---
@@ -28,7 +28,7 @@ Clopidogrel Zentiva 75 mg film-coated tablets Clopidogrel Zentiva 300 mg film-co
 
 ## 2. QUALITATIVE AND QUANTITATIVE COMPOSITION
 
-## Clopidogrel Zentiva 75 mg film-coated tablets
+Clopidogrel Zentiva 75 mg film-coated tablets
 
 Each film-coated tablet contains 75 mg of clopidogrel (as hydrogen sulphate).
 
@@ -69,7 +69,7 @@ Clopidogrel is indicated in:
 - Adult patients suffering from myocardial infarction (from a few days until less than 35 days), ischemic stroke (from 7 days until less than 6 months) or established peripheral arterial disease.
 - Adult patients suffering from acute coronary syndrome:
 - -Non-ST segment elevation acute coronary syndrome (unstable angina or non-Q-wave myocardial infarction), including patients undergoing a stent placement following percutaneous coronary intervention, in combination with acetylsalicylic acid (ASA).
-- -ST segment elevation acute myocardial infarction, in combination with ASA in medically treated patients eligible for thrombolytic therapy.
+- -ST segment elevation acute myocardial infarction, in combination with ASA in patients undergoing percutaneous coronary intervention (including patients undergoing a stent placement) or medically treated patients eligible for thrombolytic/fibrinolytic therapy.
 
 <div style=\"page-break-after: always\"></div>
 
@@ -77,9 +77,7 @@ In patients with moderate to high-risk Transient Ischemic Attack (TIA) or minor 
 
 - Adult patients with moderate to high-risk TIA (ABCD2 1 score ≥4) or minor IS (NIHSS 2 ≤3) within 24 hours of either the TIA or IS event.
 
-## Prevention of atherothrombotic and thromboembolic events in atrial fibrillation
-
-In adult patients with atrial fibrillation who have at least one risk factor for vascular events, are not suitable for treatment with Vitamin K antagonists (VKA) and who have a low bleeding risk, clopidogrel is indicated in combination with ASA for the prevention of atherothrombotic and thromboembolic events, including stroke.
+Prevention of atherothrombotic and thromboembolic events in atrial fibrillation In adult patients with atrial fibrillation who have at least one risk factor for vascular events, are not suitable for treatment with Vitamin K antagonists (VKA) and who have a low bleeding risk, clopidogrel is indicated in combination with ASA for the prevention of atherothrombotic and thromboembolic events, including stroke.
 
 For further information please refer to section 5.1.
 
@@ -100,10 +98,21 @@ This 300 mg tablet of clopidogrel is intended for use as a loading dose.
 In patients suffering from acute coronary syndrome:
 
 - Non-ST segment elevation acute coronary syndrome (unstable angina or non-Q-wave myocardial infarction): clopidogrel treatment should be initiated with a single 300 mg or 600 mg loading dose. A 600 mg loading dose may be considered in patients &lt;75 years of age when percutaneous coronary intervention is intended (see section 4.4). Clopidogrel treatment should be continued at 75 mg once a day (with acetylsalicylic acid (ASA) 75 mg-325 mg daily). Since higher doses of ASA were associated with higher bleeding risk it is recommended that the dose of ASA should not be higher than 100 mg. The optimal duration of treatment has not been formally established. Clinical trial data support use up to 12 months, and the maximum benefit was seen at 3 months (see section 5.1).
+- ST segment elevation acute myocardial infarction:
+- -For medically treated patients eligible for thrombolytic/fibrinolytic therapy clopidogrel should be given as a single daily dose of 75 mg initiated with a 300 mg loading dose in combination with ASA and with or without thrombolytics. For medically treated patients over 75 years of age clopidogrel should be initiated without a loading dose. Combined therapy should be started as early as possible after symptoms start and continued for at least four weeks. The benefit of the combination of clopidogrel with ASA beyond four weeks has not been studied in this setting (see section 5.1).
+- -When percutaneous coronary intervention (PCI) is intended:
+- Clopidogrel should be initiated at a loading dose of 600 mg in patients undergoing primary PCI and in patients undergoing PCI more than 24 hours of receiving fibrinolytic therapy. In patients ≥ 75 years old the 600 mg LD should be administered with caution (see section 4.4).
+- Clopidogrel 300 mg loading dose should be given in patients undergoing PCI within 24 hours of receiving fibrinolytic therapy.
 
-ST segment elevation acute myocardial infarction: clopidogrel should be given as a single daily dose of 75 mg initiated with a 300 mg loading dose in combination with ASA and with or without thrombolytics. For medically treated patients over 75 years of age clopidogrel should be initiated without a loading dose. Combined therapy should be started as early as possible after symptoms start and continued for at least four weeks. The benefit of the combination of clopidogrel with ASA beyond four weeks has not been studied in this setting (see section 5.1).
+Clopidogrel treatment should be continued at 75 mg once a day with ASA 75 mg -100 mg daily. Combined therapy should be started as early as possible after symptoms start and continued up to 12 months (see section 5.1).
 
-Adult patients with moderate to high-risk TIA or minor IS:
+1 Age, Blood pressure, Clinical features, Duration, and Diabetes mellitus diagnosis
+
+2 National Institutes of Health Stroke Scale
+
+<div style=\"page-break-after: always\"></div>
+
+## Adult patients with moderate to high-risk TIA or minor IS:
 
 Adult patients with moderate to highrisk TIA (ABCD2 score ≥4) or minor IS (NIHSS ≤3) should be given a loading dose of clopidogrel 300 mg followed by clopidogrel 75 mg once daily and ASA (75 mg -100 mg once daily). Treatment with clopidogrel and ASA should be started within 24 hours of the event and be continued for 21 days followed by single antiplatelet therapy.
 
@@ -112,14 +121,23 @@ In patients with atrial fibrillation, clopidogrel should be given as a single da
 If a dose is missed:
 
 - Within less than 12 hours after regular scheduled time: patients should take the dose immediately and then take the next dose at the regular scheduled time.
-
-1 Age, Blood pressure, Clinical features, Duration, and Diabetes mellitus diagnosis
-
-2 National Institutes of Health Stroke Scale
-
-<div style=\"page-break-after: always\"></div>
-
 - For more than 12 hours: patients should take the next dose at the regular scheduled time and should not double the dose.
+
+## Special populations
+
+## Elderly patients
+
+Non-ST segment elevation acute coronary syndrome (unstable angina or non-Q-wave myocardial infarction):
+
+- A 600 mg loading dose may be considered in patients &lt;75 years of age when percutaneous coronary intervention is intended (see section 4.4).
+
+ST segment elevation acute myocardial infarction:
+
+- For medically treated patients eligible for thrombolytic/fibrinolytic therapy: in patients over 75 years of age clopidogrel should be initiated without a loading dose.
+
+For patients undergoing primary PCI and in patients undergoing PCI more than 24 hours of receiving fibrinolytic therapy:
+
+- In patients ≥ 75 years old the 600 mg LD should be administered with caution (see section 4.4).
 
 ## Paediatric population
 
@@ -149,7 +167,11 @@ It may be given with or without food.
 
 ## Bleeding and haematological disorders
 
-Due to the risk of bleeding and haematological adverse reactions, blood cell count determination and/or other appropriate testing should be promptly considered whenever clinical symptoms suggestive of bleeding arise during the course of treatment (see section 4.8). As with other antiplatelet agents, clopidogrel should be used with caution in patients who may be at risk of increased bleeding from trauma, surgery or other pathological conditions and in patients receiving treatment with ASA, heparin, glycoprotein IIb/IIIa inhibitors or non-steroidal anti-inflammatory drugs (NSAIDs) including Cox-2 inhibitors, or selective serotonin reuptake inhibitors (SSRIs), or CYP2C19 strong inducers or other medicinal products associated with bleeding risk such as pentoxifylline (see section 4.5). Due to the increased risk of haemorrhage, triple antiplatelet therapy (clopidogrel + ASA + dipyridamole) for stroke secondary prevention is not recommended in patients with acute non-cardioembolic ischemic stroke or TIA (see section 4.5 and section 4.8). Patients should be followed carefully for any signs of bleeding including occult bleeding, especially during the first weeks of treatment and/or after invasive cardiac procedures or surgery. The concomitant administration of clopidogrel with oral anticoagulants is not recommended since it may increase the intensity of bleedings (see section 4.5).
+Due to the risk of bleeding and haematological adverse reactions, blood cell count determination and/or other appropriate testing should be promptly considered whenever clinical symptoms suggestive
+
+<div style=\"page-break-after: always\"></div>
+
+of bleeding arise during the course of treatment (see section 4.8). As with other antiplatelet agents, clopidogrel should be used with caution in patients who may be at risk of increased bleeding from trauma, surgery or other pathological conditions and in patients receiving treatment with ASA, heparin, glycoprotein IIb/IIIa inhibitors or non-steroidal anti-inflammatory drugs (NSAIDs) including Cox-2 inhibitors, or selective serotonin reuptake inhibitors (SSRIs), or CYP2C19 strong inducers or other medicinal products associated with bleeding risk such as pentoxifylline (see section 4.5). Due to the increased risk of haemorrhage, triple antiplatelet therapy (clopidogrel + ASA + dipyridamole) for stroke secondary prevention is not recommended in patients with acute non-cardioembolic ischemic stroke or TIA (see section 4.5 and section 4.8). Patients should be followed carefully for any signs of bleeding including occult bleeding, especially during the first weeks of treatment and/or after invasive cardiac procedures or surgery. The concomitant administration of clopidogrel with oral anticoagulants is not recommended since it may increase the intensity of bleedings (see section 4.5).
 
 If a patient is to undergo elective surgery and antiplatelet effect is temporarily not desirable, clopidogrel should be discontinued 7 days prior to surgery. Patients should inform physicians and dentists that they are taking clopidogrel before any surgery is scheduled and before any new medicinal product is taken. Clopidogrel prolongs bleeding time and should be used with caution in patients who have lesions with a propensity to bleed (particularly gastrointestinal and intraocular).
 
@@ -157,7 +179,7 @@ Patients should be told that it might take longer than usual to stop bleeding wh
 
 The use of clopidogrel 600 mg loading dose is not recommended in patients with non-ST segment elevation acute coronary syndrome and ≥75 years of age due to increased bleeding risk in this population.
 
-<div style=\"page-break-after: always\"></div>
+Due to the limited clinical data in patients ≥75 years old with STEMI PCI, and increased risk of bleeding, the use of clopidogrel 600 mg loading dose should be considered only after an individual assessment of the bleeding risk of the patient by the physician.
 
 ## Thrombotic Thrombocytopenic Purpura (TTP)
 
@@ -177,7 +199,11 @@ Acquired haemophilia has been reported following use of clopidogrel. In cases of
 
 ## Non-minor IS patients (NIHSS &gt;4)
 
-In view of the lack of data, use of dual antiplatelet therapy is not recommended (see section 4.1). Recent minor IS or moderate to high-risk TIA in patients for whom intervention is indicated or planned There is no data to support the use of dual antiplatelet therapy in patients for whom treatment with carotid endarterectomy or intravascular thrombectomy is indicated, or in patients planned for thrombolysis or anticoagulant therapy. Dual antiplatelet therapy is not recommended in these situations.
+In view of the lack of data, use of dual antiplatelet therapy is not recommended (see section 4.1). Recent minor IS or moderate to high-risk TIA in patients for whom intervention is indicated or planned
+
+<div style=\"page-break-after: always\"></div>
+
+There is no data to support the use of dual antiplatelet therapy in patients for whom treatment with carotid endarterectomy or intravascular thrombectomy is indicated, or in patients planned for thrombolysis or anticoagulant therapy. Dual antiplatelet therapy is not recommended in these situations.
 
 ## Cytochrome P450 2C19 (CYP2C19)
 
@@ -194,8 +220,6 @@ Caution is required in patients treated concomitantly with clopidogrel and CYP2C
 ## Cross-reactions among thienopyridines
 
 Patients should be evaluated for history of hypersensitivity to thienopyridines (such as clopidogrel, ticlopidine, prasugrel) since cross-reactivity among thienopyridines has been reported (see section 4.8). Thienopyridines may cause mild to severe allergic reactions such as rash, angioedema, or haematological cross-reactions such as thrombocytopaenia and neutropaenia. Patients who had developed a previous allergic reaction and/or haematological reaction to one thienopyridine may have an increased risk of developing the same or another reaction to another thienopyridine. Monitoring for signs of hypersensitivity in patients with a known allergy to thienopyridines is advised.
-
-<div style=\"page-break-after: always\"></div>
 
 ## Renal impairment
 
@@ -217,6 +241,8 @@ This medicinal product contains hydrogenated castor oil which may cause stomach 
 
 There is an increased risk of bleeding due to the potential additive effect. The concomitant administration of medicinal products associated with bleeding risk should be undertaken with caution (see section 4.4).
 
+<div style=\"page-break-after: always\"></div>
+
 ## Oral anticoagulants
 
 The concomitant administration of clopidogrel with oral anticoagulants is not recommended since it may increase the intensity of bleedings (see section 4.4). Although the administration of clopidogrel 75 mg/day did not modify the pharmacokinetics of S-warfarin or International Normalised Ratio (INR) in patients receiving long-term warfarin therapy, coadministration of clopidogrel with warfarin increases the risk of bleeding because of independent effects on hemostasis.
@@ -237,8 +263,6 @@ In a clinical study conducted in healthy subjects, clopidogrel did not necessita
 
 The safety of the concomitant administration of clopidogrel, fibrin or non-fibrin specific thrombolytic agents and heparins was assessed in patients with acute myocardial infarction. The incidence of clinically significant bleeding was similar to that observed when thrombolytic agents and heparin are co-administered with ASA (see section 4.8)
 
-<div style=\"page-break-after: always\"></div>
-
 ## NSAIDs
 
 In a clinical study conducted in healthy volunteers, the concomitant administration of clopidogrel and naproxen increased occult gastrointestinal blood loss. However, due to the lack of interaction studies with other NSAIDs it is presently unclear whether there is an increased risk of gastrointestinal bleeding with all NSAIDs. Consequently, NSAIDs including Cox-2 inhibitors and clopidogrel should be coadministered with caution (see section 4.4).
@@ -255,6 +279,8 @@ Since clopidogrel is metabolised to its active metabolite partly by CYP2C19, use
 
 Rifampicin strongly induces CYP2C19, resulting in both an increased level of clopidogrel active metabolite and platelet inhibition, which in particular might potentiate the risk of bleeding. As a precaution, concomitant use of strong CYP2C19 inducers should be discouraged (see section 4.4).
 
+<div style=\"page-break-after: always\"></div>
+
 ## Inhibitors of CYP2C19
 
 Since clopidogrel is metabolised to its active metabolite partly by CYP2C19, use of medicinal products that inhibit the activity of this enzyme would be expected to result in reduced drug levels of the active metabolite of clopidogrel. The clinical relevance of this interaction is uncertain. As a precaution concomitant use of strong or moderate CYP2C19 inhibitors should be discouraged (see sections 4.4 and 5.2).
@@ -267,13 +293,11 @@ Omeprazole 80 mg once daily administered either at the same time as clopidogrel 
 
 Inconsistent data on the clinical implications of this pharmacokinetic (PK)/pharmacodynamic (PD) interaction in terms of major cardiovascular events have been reported from both observational and clinical studies. As a precaution, concomitant use of omeprazole or esomeprazole should be discouraged (see section 4.4).
 
-## Less pronounced reductions of metabolite exposure has been observed with pantoprazole or lansoprazole.
+Less pronounced reductions of metabolite exposure has been observed with pantoprazole or lansoprazole.
 
 The plasma concentrations of the active metabolite was 20% reduced (loading dose) and 14% reduced (maintenance dose) during concomitant treatment with pantoprazole 80 mg once daily. This was associated with a reduction of the mean inhibition of platelet aggregation by 15% and 11%, respectively. These results indicate that clopidogrel can be administered with pantoprazole.
 
 There is no evidence that other medicinal products that reduce stomach acid such as H2 blockers or antacids interfere with antiplatelet activity of clopidogrel.
-
-<div style=\"page-break-after: always\"></div>
 
 ## Boosted anti-retroviral therapy (ART)
 
@@ -286,6 +310,8 @@ A significantly reduced platelet inhibition has been shown in HIV patients treat
 A number of other clinical studies have been conducted with clopidogrel and other concomitant medicinal products to investigate the potential for pharmacodynamic and pharmacokinetic interactions. No clinically significant pharmacodynamic interactions were observed when clopidogrel was co-administered with atenolol, nifedipine, or both atenolol and nifedipine. Furthermore, the pharmacodynamic activity of clopidogrel was not significantly influenced by the co-administration of phenobarbital or oestrogen.
 
 The pharmacokinetics of digoxin or theophylline were not modified by the co-administration of clopidogrel. Antacids did not modify the extent of clopidogrel absorption.
+
+<div style=\"page-break-after: always\"></div>
 
 Data from the CAPRIE study indicate that phenytoin and tolbutamide which are metabolised by CYP2C9 can be safely co-administered with clopidogrel.
 
@@ -307,8 +333,6 @@ Clopidogrel has been shown to increase rosuvastatin exposure in patients by 2-fo
 
 As no clinical data on exposure to clopidogrel during pregnancy are available, it is preferable not to use clopidogrel during pregnancy as a precautionary measure.
 
-<div style=\"page-break-after: always\"></div>
-
 Animal studies do not indicate direct or indirect harmful effects with respect to pregnancy, embryonal/foetal development, parturition or postnatal development (see section 5.3).
 
 ## Breast-feeding
@@ -327,7 +351,11 @@ Clopidogrel has no or negligible influence on the ability to drive and use machi
 
 ## Summary of the safety profile
 
-Clopidogrel has been evaluated for safety in more than 44,000 patients who have participated in clinical studies, including over 12,000 patients treated for 1 year or more. Overall, clopidogrel 75 mg/day was comparable to ASA 325 mg/day in CAPRIE regardless of age, gender and race. The clinically relevant adverse reactions observed in the CAPRIE, CURE, CLARITY, COMMIT and ACTIVE-A studies are discussed below. In addition to clinical studies experience, adverse reactions have been spontaneously reported.
+Clopidogrel has been evaluated for safety in more than 44,000 patients who have participated in clinical studies, including over 12,000 patients treated for 1 year or more. Overall, clopidogrel 75 mg/day was comparable to ASA 325 mg/day in CAPRIE regardless of age, gender and race. The clinically relevant adverse reactions observed in the CAPRIE, CURE, CLARITY, COMMIT and
+
+<div style=\"page-break-after: always\"></div>
+
+ACTIVE-A studies are discussed below. In addition to clinical studies experience, adverse reactions have been spontaneously reported.
 
 Bleeding is the most common reaction reported both in clinical studies as well as in post-marketing experience where it was mostly reported during the first month of treatment.
 
@@ -341,47 +369,43 @@ In COMMIT, the overall rate of noncerebral major bleeding or cerebral bleeding w
 
 In ACTIVE-A, the rate of major bleeding was greater in the clopidogrel + ASA group than in the placebo + ASA group (6.7% versus 4.3%). Major bleeding was mostly of extracranial origin in both groups (5.3% in the clopidogrel + ASA group; 3.5% in the placebo +ASA group), mainly from the gastrointestinal tract (3.5% vs. 1.8%). There was an excess of intracranial bleeding in the clopidogrel + ASA treatment group compared to the placebo + ASA group (1.4% versus 0.8%, respectively). There was no statistically significant difference in the rates of fatal bleeding (1.1% in the clopidogrel + ASA group and 0.7% in the placebo +ASA group) and hemorrhagic stroke (0.8% and 0.6%, respectively) between groups.
 
-In TARDIS, patients with recent ischemic stroke receiving intensive antiplatelet therapy with three medicinal products (ASA + clopidogrel + dipyridamole) had more bleeding and bleeding of greater
-
-<div style=\"page-break-after: always\"></div>
-
-severity when compared with either clopidogrel alone or combined ASA and dipyridamole (adjusted common OR 2.54, 95% CI 2.05-3.16, p&lt;0.0001).
+In TARDIS, patients with recent ischemic stroke receiving intensive antiplatelet therapy with three medicinal products (ASA + clopidogrel + dipyridamole) had more bleeding and bleeding of greater severity when compared with either clopidogrel alone or combined ASA and dipyridamole (adjusted common OR 2.54, 95% CI 2.05-3.16, p&lt;0.0001).
 
 ## Tabulated list of adverse reactions
 
 Adverse reactions that occurred either during clinical studies or that were spontaneously reported are presented in the table below. Their frequency is defined using the following conventions: common (≥1/100 to &lt;1/10); uncommon (≥1/1,000 to &lt;1/100); rare (≥1/10,000 to &lt;1/1,000); very rare (&lt;1/10,000), not known (cannot be estimated from the available data). Within each system organ class, adverse reactions are presented in order of decreasing seriousness.
 
-| System Organ Class                       | Uncommon                                   | Rare                                      | Very rare, not known*                                                                                                                                                                                                                                                                                                   |
-|------------------------------------------|--------------------------------------------|-------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Blood and the lymphatic system disorders | Thrombocytopenia, leucopenia, eosinophilia | Neutropenia, including severe neutropenia | Thrombotic thrombocytopenic purpura (TTP) (see section 4.4), aplastic anaemia, pancytopenia, agranulocytosis, severe thrombocytopenia, acquired haemophilia A, granulocytopenia, anaemia                                                                                                                                |
-| Cardiac disorders                        |                                            |                                           | Kounis syndrome (vasospastic allergic angina / allergic myocardial infarction) in the context of a hypersensitivity reaction due to clopidogrel*                                                                                                                                                                        |
-| Immune system disorders                  |                                            |                                           | Serum sickness, anaphylactoid reactions, cross-reactive drug hypersensitivity among thienopyridines (such as ticlopidine, prasugrel) (see section 4.4)*, insulin autoimmune syndrome, which can lead to severe hypoglycemia, particularly in patients with HLA DRA4 subtype (more frequent in the Japanese population)* |
-| Psychiatric disorders                    |                                            |                                           | Hallucinations, confusion                                                                                                                                                                                                                                                                                               |
+<div style=\"page-break-after: always\"></div>
+
+| System Organ Class                       | Uncommon                                                                                               | Rare                                      | Very rare, not known*                                                                                                                                                                                                                                                                                                   |
+|------------------------------------------|--------------------------------------------------------------------------------------------------------|-------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Blood and the lymphatic system disorders | Thrombocytopenia, leucopenia, eosinophilia                                                             | Neutropenia, including severe neutropenia | Thrombotic thrombocytopenic purpura (TTP) (see section 4.4), aplastic anaemia, pancytopenia, agranulocytosis, severe thrombocytopenia, acquired haemophilia A, granulocytopenia, anaemia                                                                                                                                |
+| Cardiac disorders                        |                                                                                                        |                                           | Kounis syndrome (vasospastic allergic angina / allergic myocardial infarction) in the context of a hypersensitivity reaction due to clopidogrel*                                                                                                                                                                        |
+| Immune system disorders                  |                                                                                                        |                                           | Serum sickness, anaphylactoid reactions, cross-reactive drug hypersensitivity among thienopyridines (such as ticlopidine, prasugrel) (see section 4.4)*, insulin autoimmune syndrome, which can lead to severe hypoglycemia, particularly in patients with HLA DRA4 subtype (more frequent in the Japanese population)* |
+| Psychiatric disorders                    |                                                                                                        |                                           | Hallucinations, confusion                                                                                                                                                                                                                                                                                               |
+| Nervous system disorders                 | Intracranial bleeding (some cases were reported with fatal outcome), headache, paraesthesia, dizziness |                                           | Taste disturbances, ageusia                                                                                                                                                                                                                                                                                             |
+| Eye disorders                            | Eye bleeding (conjunctival, ocular, retinal)                                                           |                                           |                                                                                                                                                                                                                                                                                                                         |
 
 <div style=\"page-break-after: always\"></div>
 
-| System Organ Class                              | Common                                                            | Uncommon                                                                                               | Rare                       | Very rare, not known*                                                                                                                               |
-|-------------------------------------------------|-------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------|----------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------|
-| Nervous system disorders                        |                                                                   | Intracranial bleeding (some cases were reported with fatal outcome), headache, paraesthesia, dizziness |                            | Taste disturbances, ageusia                                                                                                                         |
-| Eye disorders                                   |                                                                   | Eye bleeding (conjunctival, ocular, retinal)                                                           |                            |                                                                                                                                                     |
-| Ear and labyrinth disorders                     |                                                                   |                                                                                                        | Vertigo                    |                                                                                                                                                     |
-| Vascular disorders                              | Haematoma                                                         |                                                                                                        |                            | Serious hemorrhage, hemorrhage of operative wound, vasculitis, hypotension                                                                          |
-| Respiratory, thoracic and mediastinal disorders | Epistaxis                                                         |                                                                                                        |                            | Respiratory tract bleeding (haemoptysis, pulmonary hemorrhage), bronchospasm, interstitial pneumonitis, eosinophilic pneumonia                      |
-| Gastrointestinal disorders                      | Gastrointestinal hemorrhage, diarrhoea, abdominal pain, dyspepsia | Gastric ulcer and duodenal ulcer, gastritis, vomiting, nausea, constipation, flatulence                | Retroperitoneal hemorrhage | Gastrointestinal and retroperitoneal hemorrhage with fatal outcome, pancreatitis, colitis (including ulcerative or lymphocytic colitis), stomatitis |
-| Hepato-biliary disorders                        |                                                                   |                                                                                                        |                            | Acute liver failure, hepatitis, abnormal liver function test                                                                                        |
+| System Organ Class                              | Common                                                            | Uncommon                                                                                | Rare                       | Very rare, not known*                                                                                                                                                                                                                                                                                                                |
+|-------------------------------------------------|-------------------------------------------------------------------|-----------------------------------------------------------------------------------------|----------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Ear and labyrinth disorders                     |                                                                   |                                                                                         | Vertigo                    |                                                                                                                                                                                                                                                                                                                                      |
+| Vascular disorders                              | Haematoma                                                         |                                                                                         |                            | Serious hemorrhage, hemorrhage of operative wound, vasculitis, hypotension                                                                                                                                                                                                                                                           |
+| Respiratory, thoracic and mediastinal disorders | Epistaxis                                                         |                                                                                         |                            | Respiratory tract bleeding (haemoptysis, pulmonary hemorrhage), bronchospasm, interstitial pneumonitis, eosinophilic pneumonia                                                                                                                                                                                                       |
+| Gastrointestinal disorders                      | Gastrointestinal hemorrhage, diarrhoea, abdominal pain, dyspepsia | Gastric ulcer and duodenal ulcer, gastritis, vomiting, nausea, constipation, flatulence | Retroperitoneal hemorrhage | Gastrointestinal and retroperitoneal hemorrhage with fatal outcome, pancreatitis, colitis (including ulcerative or lymphocytic colitis), stomatitis                                                                                                                                                                                  |
+| Hepato-biliary disorders                        |                                                                   |                                                                                         |                            | Acute liver failure, hepatitis, abnormal liver function test                                                                                                                                                                                                                                                                         |
+| Skin and subcutaneous tissue disorders          | Bruising                                                          | Rash, pruritus, skin bleeding (purpura)                                                 |                            | Bullous dermatitis (toxic epidermal necrolysis, Stevens Johnson Syndrome, erythema multiforme, acute generalised exanthematous pustulosis (AGEP)), angioedema, drug-induced hypersensitivity syndrome, drug rash with eosinophilia and systemic symptoms (DRESS), rash erythematous or exfoliative, urticaria, eczema, lichen planus |
+| Reproductive systems and breast disorders       |                                                                   |                                                                                         | Gynaecomastia              |                                                                                                                                                                                                                                                                                                                                      |
 
 <div style=\"page-break-after: always\"></div>
 
-| System Organ Class                                   | Common                    | Uncommon                                                                      | Rare          | Very rare, not known*                                                                                                                                                                                                                                                                                                                |
-|------------------------------------------------------|---------------------------|-------------------------------------------------------------------------------|---------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Skin and subcutaneous tissue disorders               | Bruising                  | Rash, pruritus, skin bleeding (purpura)                                       |               | Bullous dermatitis (toxic epidermal necrolysis, Stevens Johnson Syndrome, erythema multiforme, acute generalised exanthematous pustulosis (AGEP)), angioedema, drug-induced hypersensitivity syndrome, drug rash with eosinophilia and systemic symptoms (DRESS), rash erythematous or exfoliative, urticaria, eczema, lichen planus |
-| Reproductive systems and breast disorders            |                           |                                                                               | Gynaecomastia |                                                                                                                                                                                                                                                                                                                                      |
-| Musculoskeletal and connective tissue disorders      |                           |                                                                               |               | Musculo-skeletal bleeding (haemarthrosis), arthritis, arthralgia, myalgia                                                                                                                                                                                                                                                            |
-| Renal and urinary disorders                          |                           | Haematuria                                                                    |               | Glomerulonephritis, blood creatinine increased                                                                                                                                                                                                                                                                                       |
-| General disorders and administration site conditions | Bleeding at puncture site |                                                                               |               | Fever                                                                                                                                                                                                                                                                                                                                |
-| Investigations                                       |                           | Bleeding time prolonged, neutrophil count decreased, platelet count decreased |               |                                                                                                                                                                                                                                                                                                                                      |
-
-* Information related to clopidogrel with frequency 'not known'.
+| System Organ Class                                   | Common                    | Uncommon                                                                      | Very rare, not known*                                                     |
+|------------------------------------------------------|---------------------------|-------------------------------------------------------------------------------|---------------------------------------------------------------------------|
+| Musculoskeletal and connective tissue disorders      |                           |                                                                               | Musculo-skeletal bleeding (haemarthrosis), arthritis, arthralgia, myalgia |
+| Renal and urinary disorders                          |                           | Haematuria                                                                    | Glomerulonephritis, blood creatinine increased                            |
+| General disorders and administration site conditions | Bleeding at puncture site |                                                                               | Fever                                                                     |
+| Investigations                                       |                           | Bleeding time prolonged, neutrophil count decreased, platelet count decreased |                                                                           |
 
 ## Reporting of suspected adverse reactions
 
@@ -390,8 +414,6 @@ Reporting suspected adverse reactions after authorisation of the medicinal produ
 ## 4.9 Overdose
 
 Overdose following clopidogrel administration may lead to prolonged bleeding time and subsequent bleeding complications. Appropriate therapy should be considered if bleedings are observed. No antidote to the pharmacological activity of clopidogrel has been found. If prompt correction of prolonged bleeding time is required, platelet transfusion may reverse the effects of clopidogrel.
-
-<div style=\"page-break-after: always\"></div>
 
 ## 5. PHARMACOLOGICAL PROPERTIES
 
@@ -405,6 +427,8 @@ Clopidogrel is a prodrug, one of whose metabolites is an inhibitor of platelet a
 
 Because the active metabolite is formed by CYP450 enzymes, some of which are polymorphic or subject to inhibition by other medicinal products, not all patients will have adequate platelet inhibition.
 
+<div style=\"page-break-after: always\"></div>
+
 ## Pharmacodynamic effects
 
 Repeated doses of 75 mg per day produced substantial inhibition of ADP-induced platelet aggregation from the first day; this increased progressively and reached steady state between Day 3 and Day 7. At steady state, the average inhibition level observed with a dose of 75 mg per day was between 40% and 60%. Platelet aggregation and bleeding time gradually returned to baseline values, generally within 5 days after treatment was discontinued.
@@ -417,11 +441,7 @@ Recent myocardial infarction (MI), recent stroke or established peripheral arter
 
 Clopidogrel significantly reduced the incidence of new ischemic events (combined end point of myocardial infarction, ischemic stroke and vascular death) when compared to ASA. In the intention to treat analysis, 939 events were observed in the clopidogrel group and 1,020 events with ASA (relative risk reduction (RRR) 8.7%, [95% CI: 0.2 to 16.4]; p=0.045), which corresponds, for every 1,000 patients treated for 2 years, to 10 [CI: 0 to 20] additional patients being prevented from experiencing a new ischemic event. Analysis of total mortality as a secondary endpoint did not show any significant difference between clopidogrel (5.8%) and ASA (6.0%).
 
-In a subgroup analysis by qualifying condition (myocardial infarction, ischemic stroke, and PAD) the benefit appeared to be strongest (achieving statistical significance at p=0.003) in patients enrolled due to PAD (especially those who also had a history of myocardial infarction) (RRR = 23.7%; CI: 8.9 to 36.2) and weaker (not significantly different from ASA) in stroke patients (RRR = 7.3%; CI: -5.7 to 18.7 [p=0.258]). In patients who were enrolled in the trial on the sole basis of a recent myocardial infarction, clopidogrel was numerically inferior, but not statistically different from ASA (RRR
-
-<div style=\"page-break-after: always\"></div>
-
-= -4.0%; CI: -22.5 to 11.7 [p=0.639]). In addition, a subgroup analysis by age suggested that the benefit of clopidogrel in patients over 75 years was less than that observed in patients ≤ 75 years.
+In a subgroup analysis by qualifying condition (myocardial infarction, ischemic stroke, and PAD) the benefit appeared to be strongest (achieving statistical significance at p=0.003) in patients enrolled due to PAD (especially those who also had a history of myocardial infarction) (RRR = 23.7%; CI: 8.9 to 36.2) and weaker (not significantly different from ASA) in stroke patients (RRR = 7.3%; CI: -5.7 to 18.7 [p=0.258]). In patients who were enrolled in the trial on the sole basis of a recent myocardial infarction, clopidogrel was numerically inferior, but not statistically different from ASA (RRR = -4.0%; CI: -22.5 to 11.7 [p=0.639]). In addition, a subgroup analysis by age suggested that the benefit of clopidogrel in patients over 75 years was less than that observed in patients  75 years.
 
 Since the CAPRIE trial was not powered to evaluate efficacy of individual subgroups, it is not clear whether the differences in relative risk reduction across qualifying conditions are real, or a result of chance.
 
@@ -429,7 +449,11 @@ Since the CAPRIE trial was not powered to evaluate efficacy of individual subgro
 
 The CURE study included 12,562 patients with non-ST segment elevation acute coronary syndrome (unstable angina or non-Q-wave myocardial infarction), and presenting within 24 hours of onset of the most recent episode of chest pain or symptoms consistent with ischemia. Patients were required to have either ECG changes compatible with new ischemia or elevated cardiac enzymes or troponin I or T to at least twice the upper limit of normal. Patients were randomised to clopidogrel (300 mg loading dose followed by 75 mg/day, N=6,259) or placebo (N=6,303), both given in combination with ASA (75-325 mg once daily) and other standard therapies. Patients were treated for up to one year. In CURE, 823 (6.6%) patients received concomitant GPIIb/IIIa receptor antagonist therapy. Heparins were administered in more than 90% of the patients and the relative rate of bleeding between clopidogrel and placebo was not significantly affected by the concomitant heparin therapy.
 
-The number of patients experiencing the primary endpoint [cardiovascular (CV) death, myocardial infarction (MI), or stroke] was 582 (9.3%) in the clopidogrel-treated group and 719 (11.4%) in the placebo-treated group, a 20% relative risk reduction (95% CI of 10%-28%; p=0.00009) for the clopidogrel-treated group (17% relative risk reduction when patients were treated conservatively, 29% when they underwent percutaneous transluminal coronary angioplasty (PTCA) with or without stent and 10% when they underwent coronary artery bypass graft (CABG)). New cardiovascular events (primary endpoint) were prevented, with relative risk reductions of 22% (CI: 8.6, 33.4), 32% (CI: 12.8, 46.4), 4% (CI: -26.9, 26.7), 6% (CI: -33.5, 34.3) and 14% (CI: -31.6, 44.2), during the 0-1, 1-3, 3-6, 6-9 and 9-12 month study intervals, respectively. Thus, beyond 3 months of treatment, the benefit observed in the clopidogrel + ASA group was not further increased, whereas the risk of hemorrhage persisted (see section 4.4).
+The number of patients experiencing the primary endpoint [cardiovascular (CV) death, myocardial infarction (MI), or stroke] was 582 (9.3%) in the clopidogrel-treated group and 719 (11.4%) in the placebo-treated group, a 20% relative risk reduction (95% CI of 10%-28%; p=0.00009) for the
+
+<div style=\"page-break-after: always\"></div>
+
+clopidogrel-treated group (17% relative risk reduction when patients were treated conservatively, 29% when they underwent percutaneous transluminal coronary angioplasty (PTCA) with or without stent and 10% when they underwent coronary artery bypass graft (CABG)). New cardiovascular events (primary endpoint) were prevented, with relative risk reductions of 22% (CI: 8.6, 33.4), 32% (CI: 12.8, 46.4), 4% (CI: -26.9, 26.7), 6% (CI: -33.5, 34.3) and 14% (CI: -31.6, 44.2), during the 0-1, 1-3, 3-6, 6-9 and 9-12 month study intervals, respectively. Thus, beyond 3 months of treatment, the benefit observed in the clopidogrel + ASA group was not further increased, whereas the risk of hemorrhage persisted (see section 4.4).
 
 The use of clopidogrel in CURE was associated with a decrease in the need of thrombolytic therapy (RRR = 43.3%; CI: 24.3%, 57.5%) and GPIIb/IIIa inhibitors (RRR = 18.2%; CI: 6.5%, 28.3%).
 
@@ -439,51 +463,83 @@ The results obtained in populations with different characteristics (e.g. unstabl
 
 The benefits observed with clopidogrel were independent of other acute and long-term cardiovascular therapies (such as heparin/LMWH, GPIIb/IIIa antagonists, lipid lowering medicinal products, beta blockers, and ACE-inhibitors). The efficacy of clopidogrel was observed independently of the dose of ASA (75-325 mg once daily).
 
-<div style=\"page-break-after: always\"></div>
+## ST-segment Elevation Myocardial Infarction
 
-In patients with acute ST-segment elevation MI, safety and efficacy of clopidogrel have been evaluated in 2 randomised, placebo-controlled, double-blind studies, CLARITY and COMMIT.
+In patients with acute ST-segment elevation MI (STEMI), safety and efficacy of clopidogrel have been evaluated in 2 randomised, placebo-controlled, double-blind studies, CLARITY, a prospective subgroup analysis of CLARITY (CLARITY PCI) and COMMIT.
 
-The CLARITY trial included 3,491 patients presenting within 12 hours of the onset of a ST elevation MI and planned for thrombolytic therapy. Patients received clopidogrel (300 mg loading dose, followed by 75 mg/day, n=1,752) or placebo (n=1,739), both in combination with ASA (150 to 325 mg as a loading dose, followed by 75 to 162 mg/day), a fibrinolytic agent and, when appropriate, heparin. The patients were followed for 30 days. The primary endpoint was the occurrence of the composite of an occluded infarct-related artery on the predischarge angiogram, or death or recurrent MI before coronary angiography. For patients who did not undergo angiography, the primary endpoint was death or recurrent myocardial infarction by Day 8 or by hospital discharge. The patient population included 19.7% women and 29.2% pat ients ≥ 65 years. A total of 99.7% of patients received fibrinolytics (fibrin specific: 68.7%, non-fibrin specific: 31.1%), 89.5% heparin, 78.7% beta blockers, 54.7% ACE inhibitors and 63% statins.
+The CLARITY trial included 3,491 patients presenting within 12 hours of the onset of a ST elevation MI and planned for thrombolytic therapy. Patients received clopidogrel (300 mg loading dose, followed by 75 mg/day, n=1,752) or placebo (n=1,739), both in combination with ASA (150 to 325 mg as a loading dose, followed by 75 to 162 mg/day), a fibrinolytic agent and, when appropriate, heparin. The patients were followed for 30 days. The primary endpoint was the occurrence of the composite of an occluded infarct-related artery on the predischarge angiogram, or death or recurrent MI before coronary angiography. For patients who did not undergo angiography, the primary endpoint was death or recurrent myocardial infarction by Day 8 or by hospital discharge. The patient population included 19.7% women and 29.2% patients ≥ 65 years. A total of 99.7% of patients received fibrinolytics (fibrin specific: 68.7%, non-fibrin specific: 31.1%), 89.5% heparin, 78.7% beta blockers, 54.7% ACE inhibitors and 63% statins.
 
 Fifteen percent (15.0%) of patients in the clopidogrel group and 21.7% in the placebo group reached the primary endpoint, representing an absolute reduction of 6.7% and a 36 % odds reduction in favor of clopidogrel (95% CI: 24, 47%; p &lt; 0.001), mainly related to a reduction in occluded infarct-related arteries. This benefit was consistent across all prespecified subgroups including patients' age and gender, infarct location, and type of fibrinolytic or heparin used.
+
+<div style=\"page-break-after: always\"></div>
+
+CLARITY PCI sub-group analysis involved 1,863 STEMI patients undergoing PCI. Patients receiving 300 mg loading dose (LD) of clopidogrel (n=933) had a significant reduction in incidence of cardiovascular death, MI or stroke following PCI compared to those receiving placebo (n=930) (3.6% with clopidogrel pre-treatment versus 6.2% with placebo, OR: 0.54; 95% CI: 0.35-0.85; p=0.008). The patients receiving 300 mg LD of clopidogrel had a significant reduction in incidence of cardiovascular death, MI or stroke through 30 days following PCI compared to those receiving placebo (7.5% with clopidogrel pre-treatment versus 12.0% with placebo, OR: 0.59; 95% CI: 0.43-0.81; p=0.001). However, this composite endpoint when assessed in the overall population of the CLARITY study was not statistically significant as a secondary endpoint. No significant difference was observed in the rates of major or minor bleeding between both the treatments (2.0% with clopidogrel pre-treatment versus 1.9% with placebo, p&gt;0.99). The findings of this analysis support the early use of clopidogrel loading dose in STEMI and the strategy of routine clopidogrel pretreatment in patients undergoing PCI.
 
 The 2x2 factorial design COMMIT trial included 45,852 patients presenting within 24 hours of the onset of the symptoms of suspected MI with supporting ECG abnormalities (i.e. ST elevation, ST depression or left bundle-branch block). Patients received clopidogrel (75 mg/day, n=22,961) or placebo (n=22,891), in combination with ASA (162 mg/day), for 28 days or until hospital discharge. The co-primary endpoints were death from any cause and the first occurrence of re-infarction, stroke or death. The population included 27.8% women, 58.4% patients ≥ 60 years (26% ≥ 70 years) and 54.5% patients who received fibrinolytics.
 
 Clopidogrel significantly reduced the relative risk of death from any cause by 7% (p=0.029), and the relative risk of the combination of re-infarction, stroke or death by 9% (p=0.002), representing an absolute reduction of 0.5% and 0.9%, respectively. This benefit was consistent across age, gender and with or without fibrinolytics, and was observed as early as 24 hours.
 
+## Clopidogrel 600 mg Loading Dose in Acute Coronary Syndrome Patients Undergoing PCI
+
+## CURRENT-OASIS-7 (Clopidogrel and Aspirin Optimal Dose Usage to Reduce Recurrent Events Seventh Organization to Assess Strategies in Ischemic Syndromes)
+
+This randomized factorial trial included 25,086 individuals with acute coronary syndrome (ACS) intended for early PCI. Patients were randomly assigned to either double-dose (600 mg on Day 1, then 150 mg on Days 2 -7, then 75 mg daily) versus standard-dose (300 mg on day 1 then 75 mg daily) clopidogrel, and high-dose (300 -325 mg daily) versus low-dose (75 -100 mg daily) ASA. The 24,835 enrolled ACS patients underwent coronary angiography and 17,263 received PCI. Among the 17,263 patients receiving PCI treatment, when compared with the standard dose, double-dose clopidogrel reduced the rate of the primary endpoint (3.9% vs 4.5% adjusted HR= 0.86, 95% CI 0.74-0.99, p=0.039) and significantly reduced stent thrombosis (1.6% vs 2.3%, HR: 0.68; 95% CI: 0.55 0.85; p=0.001). Major bleeding was more common with double-dose than with standard-dose clopidogrel (1.6% vs 1.1%, HR=1.41, 95% CI 1.09-1.83, p=0.009). In this trial, clopidogrel 600 mg loading dose has shown consistent efficacy in patients age ≥75 years of age and patients &lt;75 years of age.
+
+## ARMYDA-6 MI (The Antiplatelet therapy for Reduction of MYocardial Damage during Angioplasty Myocardial Infarction)
+
+This randomized, prospective, international, multicenter trial evaluated pre-treatment with a 600 mg versus 300 mg clopidogrel LD in the setting of urgent PCI for STEMI. Patients received a clopidogrel 600 mg LD (n=103) or clopidogrel 300 mg LD (n=98) prior to PCI, then were prescribed 75 mg/day from the day after PCI up to 1 year. Patients receiving a 600 mg LD of clopidogrel had a significantly reduced infarct size compared to those receiving a 300 mg LD. There was less frequent thrombolysis in MI flow Grade &lt;3 after PCI in 600 mg LD (5.8% versus 16.3%, p=0.031), improved LVEF at discharge (52.1 ±9.5% versus 48.8 ±11.3%, p=0.026), and 30 -day major adverse cardiovascular events were fewer (5.8% versus 15%, p=0.049). No increase in bleeding or entry-site complications were observed (secondary endpoints at Day 30).
+
+<div style=\"page-break-after: always\"></div>
+
+## HORIZONS-AMI (Harmonizing Outcomes with Revascularization and Stents in Acute Myocardial Infarction)
+
+This post-hoc analysis trial was conducted to evaluate whether a 600 mg clopidogrel LD provides faster and greater inhibition of platelet activation. The analysis examined the impact of a LD of 600 mg compared with 300 mg on 30-day clinical outcomes in 3,311 patients from the main trial (n=1,153; 300 mg LD group; n=2,158; 600 mg LD group) before cardiac catheterization followed by 75 mg/day dose for ≥6 months post -discharge. The results showed significantly lower 30-day unadjusted rates of mortality (1.9% versus 3.1%, p=0.03), reinfarction (1.3% versus 2.3%, p=0.02), and definite or probable stent thrombosis (1.7% versus 2.8%, p=0.04) with the 600 mg LD without higher bleeding rates. By multivariable analysis, a 600 mg LD was an independent predictor of lower rates of 30-day major adverse cardiac events (HR: 0.72 [95% CI: 0.53 -0.98], p=0.04). Major bleeding rate (non- CABG related) was 6.1% in 600 mg LD group and 9.4% in 300 mg LD group (p=0.0005). Minor bleeding rate was 11.3% in 600 mg LD group and 13.8% in 300 mg LD group (p=0.03).
+
+## Long Term (12 Months) Treatment with Clopidogrel in STEMI Patients after PCI
+
+## CREDO (Clopidogrel for the Reduction of Adverse Events During Observation)
+
+This randomized, double-blind, placebo-controlled trial was conducted in the United States and Canada to evaluate the benefit of long-term (12 month) treatment with clopidogrel after PCI. There were 2,116 patients randomized to receive a 300 mg clopidogrel LD (n=1,053) or placebo (n=1,063) 3 to 24 hours before PCI. All patients also received 325 mg of aspirin. Thereafter, all patients received clopidogrel 75 mg/day through Day 28 in both groups. From Day 29 through 12 months, patients in clopidogrel group received 75 mg/day clopidogrel and in control group received placebo. Both groups received ASA throughout the study (81 to 325 mg/day). At 1-year, significant reduction in the combined risk of death, MI or stroke was observed with clopidogrel (26.9% relative reduction, 95% CI: 3.9%-44.4%; p=0.02; absolute reduction 3%) compared to placebo. No significant increase in the rate of major bleeding (8.8% with clopidogrel versus 6.7% with placebo, p=0.07) or minor bleeding (5.3% with clopidogrel versus 5.6% with placebo, p=0.84) at 1-year was observed. The major finding of this study is that continuation of clopidogrel and ASA for at least 1-year leads to a statistically and clinically significant reduction in major thrombotic events.
+
+## EXCELLENT (Efficacy of Xience/Promus Versus Cypher to Reduce Late Loss After Stenting)
+
+This prospective, open-label, randomized trial was conducted in Korea to evaluate whether 6-month dual antiplatelet therapy (DAPT) would be noninferior to 12-month DAPT after implantation of drugeluting stents. The study included 1,443 patients undergoing implantation who were randomized to receive 6-month DAPT (ASA 100 -200 mg/day plus clopidogrel 75 mg/day for 6 months and thereafter ASA alone up to 12 months) or 12-month DAPT (ASA 100 -200 mg/day plus clopidogrel 75 mg/day for 12 months). No significant difference was observed in the incidence of target vessel failure (composite of cardiac death, MI or target vessel revascularization) which was primary end point between 6-month and 12-month DAPT groups (HR: 1.14; 95% CI: 0.70 1.86; p=0.60). Also, the study showed no significant difference in the safety end point (composite of death, MI, stroke, stent thrombosis or TIMI major bleeding) between 6-month and 12-month DAPT groups (HR: 1.15; 95% CI: 0.64-2.06; p=0.64). The major finding of this study was that 6-month DAPT was non-inferior to 12-month DAPT in the risk of target vessel failure.
+
 ## De-escalation of P2Y12 Inhibitor Agents in Acute Coronary Syndrome
 
-Switching from a more potent P2Y12 receptor inhibitor to clopidogrel in association with aspirin after acute phase in Acute Coronary Syndrome (ACS) has been evaluated in two randomized investigatorsponsored studies (ISS) - TOPIC and TROPICAL-ACS - with clinical outcome data.
+Switching from a more potent P2Y12 receptor inhibitor to clopidogrel in association with aspirin after acute phase in Acute Coronary Syndrome (ACS) has been evaluated in two randomized investigatorsponsored studies (ISS) -TOPIC and TROPICAL-ACS -with clinical outcome data.
 
-The clinical benefit provided by the more potent P2Y12 inhibitors, ticagrelor and prasugrel, in their pivotal studies is related to a significant reduction in recurrent ischemic events (including acute and subacute stent thrombosis (ST), myocardial infarction (MI), and urgent revascularization). Although the ischemic benefit was consistent throughout the first year, greater reduction in ischemic recurrence after ACS was observed during the initial days following the treatment initiation.  In contrast, post-hoc analyses demonstrated statistically significant increases in the bleeding risk with the more potent P2Y12 inhibitors, occurring predominantly during the maintenance phase, after the first month post-ACS. TOPIC and TROPICAL-ACS were designed to study how to mitigate the bleeding events while maintaining efficacy.
+The clinical benefit provided by the more potent P2Y12 inhibitors, ticagrelor and prasugrel, in their pivotal studies is related to a significant reduction in recurrent ischemic events (including acute and subacute stent thrombosis (ST), myocardial infarction (MI), and urgent revascularization). Although the ischemic benefit was consistent throughout the first year, greater reduction in ischemic recurrence after ACS was observed during the initial days following the treatment initiation.  In contrast, post-hoc
+
+<div style=\"page-break-after: always\"></div>
+
+analyses demonstrated statistically significant increases in the bleeding risk with the more potent P2Y12 inhibitors, occurring predominantly during the maintenance phase, after the first month post-ACS. TOPIC and TROPICAL-ACS were designed to study how to mitigate the bleeding events while maintaining efficacy.
 
 ## TOPIC (Timing Of Platelet Inhibition after acute Coronary syndrome)
 
 This randomized, open-label trial included ACS patients requiring percutaneous coronary intervention (PCI). Patients on aspirin and a more potent P2Y12 blocker and without adverse event at one month were assigned to switch to fixed-dose aspirin plus clopidogrel (de-escalated dual antiplatelet therapy (DAPT)) or continuation of their drug regimen (unchanged DAPT).
 
-<div style=\"page-break-after: always\"></div>
-
 Overall, 645 of 646 patients with ST-elevation-MI (STEMI) or non-ST-elevation-MI (NSTEMI) or unstable angina were analyzed (de-escalated DAPT (n=322); unchanged DAPT (n=323)). Follow-up at one year was performed for 316 patients (98.1%) in the de-escalated DAPT group and 318 patients (98.5%) in the unchanged DAPT group. The median follow-up for both groups was 359 days. The characteristics of the studied cohort were similar in the 2 groups.
 
-The primary outcome, a composite of cardiovascular death, stroke, urgent revascularization, and BARC (Bl eeding Academic Research Consortium) bleeding ≥2 at 1 year post ACS, occurred in 43 patients (13.4%) in the de-escalated DAPT group and in 85 patients (26.3%) in the unchanged DAPT group (p&lt;0.01). This statistically significant difference was mainly driven by fewer bleeding events, with no difference reported in ischemic endpoints (p=0.36), while BARC ≥2 bleeding occurred less frequently in the de-escalated DAPT group (4.0%) versus 14.9%  in the unchanged DAPT group (p&lt;0.01). Bleeding events defined as all BARC occurred in 30 patients (9.3%) in the de-escalated DAPT group and in 76 patients (23.5%) in the unchanged DAPT group (p&lt;0.01).
+The primary outcome, a composite of cardiovascular death, stroke, urgent revascularization, and BARC (Bleeding Academic Research Consortium) bleeding ≥2 at 1 year post ACS, occurred in 43 patients (13.4%) in the de-escalated DAPT group and in 85 patients (26.3%) in the unchanged DAPT group (p&lt;0.01). This statistically significant difference was mainly driven by fewer bleeding events, with no difference reported in ischemic endpoints (p=0.36), while BARC ≥2 bleeding occurred less frequently in the de-escalated DAPT group (4.0%) versus 14.9%  in the unchanged DAPT group (p&lt;0.01). Bleeding events defined as all BARC occurred in 30 patients (9.3%) in the de-escalated DAPT group and in 76 patients (23.5%) in the unchanged DAPT group (p&lt;0.01).
 
 ## TROPICAL-ACS (Testing Responsiveness to Platelet Inhibition on Chronic Antiplatelet Treatment for Acute Coronary Syndromes)
 
 This randomized, open-label trial included 2,610 biomarker-positive ACS patients after successful PCI. Patients were randomized to receive either prasugrel 5 or 10 mg/d (Days 0-14) (n=1306), or prasugrel 5 or 10 mg/d (Days 0-7) then de-escalated to clopidogrel 75 mg/d (Days 8-14) (n=1304), in combination with ASA (&lt;100 mg/day).  At Day 14, platelet function testing (PFT) was performed. The prasugrel-only patients were continued on prasugrel for 11.5 months.
 
-The de-escalated patients underwent high plate let reactivity (HPR) testing.  If HPR≥46 units, the patients were escalated back to prasugrel 5 or 10 mg/d for 11.5 months; if HPR&lt;46 units, the patients continued on clopidogrel 75 mg/d for 11.5 months. Therefore, the guided de-escalation arm had patients on either prasugrel (40%) or clopidogrel (60%). All patients were continued on aspirin and were followed for one year.
+The deescalated patients underwent high platelet reactivity (HPR) testing.  If HPR≥46 units, the patients were escalated back to prasugrel 5 or 10 mg/d for 11.5 months; if HPR&lt;46 units, the patients continued on clopidogrel 75 mg/d for 11.5 months. Therefore, the guided de-escalation arm had patients on either prasugrel (40%) or clopidogrel (60%). All patients were continued on aspirin and were followed for one year.
 
-The primary endpoint (the combined incidence of CV death, MI, stroke and BARC bleeding grade ≥2 at 12 months) was met showing non-inferiority. Ninety five patients (7%) in the guided de-escalation group and 118 patients (9%) in the control group (p non-inferiority=0.0004) had an event. The guided de-escalation did not result in an increased combined risk of ischemic events (2.5% in the deescalation group vs 3.2% in the control group; p non-inferiority=0.0115), nor in the key secondary endpoint of BARC bleeding ≥2 ((5%) in the de -escalation group versus 6% in the control group (p=0.23)). The cumulative incidence of all bleeding events (BARC class 1 to 5) was 9% (114 events) in the guided de-escalation group versus 11% (137 events) in the control group (p=0.14).
+The primary endpoint (the combined incidence of CV death, MI, stroke and BARC bleeding grade ≥2 at 12 months) was met showing non-inferiority. Ninety five patients (7%) in the guided de-escalation group and 118 patients (9%) in the control group (p non-inferiority=0.0004) had an event. The guided de-escalation did not result in an increased combined risk of ischemic events (2.5% in the deescalation group vs 3.2% in the control group; p non-inferiority=0.0115), nor in the key secondary endpoint of BARC blee ding ≥2 ((5%) in the de -escalation group versus 6% in the control group (p=0.23)). The cumulative incidence of all bleeding events (BARC class 1 to 5) was 9% (114 events) in the guided de-escalation group versus 11% (137 events) in the control group (p=0.14).
 
-Dual Antiplatelet Therapy (DAPT) in Acute Minor IS or Moderate to High-risk TIA DAPT with combination clopidogrel and ASA as a treatment to prevent stroke after an acute minor IS or moderate to high-risk TIA has been evaluated in two randomized investigator-sponsored studies (ISS) - CHANCE and POINT - with clinical safety and efficacy outcome data.
-
-CHANCE (Clopidogrel in High-risk patients with Acute Non-disabling Cerebrovascular Events) This randomized, double-blinded, multicenter, placebo-controlled clinical trial included 5,170 Chinese patients with acute TIA (ABCD2 score ≥4) or acute minor stroke (NIHSS ≤3). Patients in both groups received open-label ASA on day 1 (with the dose ranging from 75 to 300 mg, at the discretion of the treating physician). Patients randomly assigned to the clopidogrel-ASA group received a loading dose of 300 mg of clopidogrel on day 1, followed by a dose of 75 mg of clopidogrel per day on days 2 through 90, and ASA at a dose of 75 mg per day on days 2 through 21. Patients randomly assigned to the ASA group received a placebo version of clopidogrel on days 1 through 90 and ASA at a dose of 75 mg per day on days 2 through 90.
-
-The primary efficacy outcome was any new stroke event (ischemic and hemorrhagic) in the first 90 days after acute minor IS or high-risk TIA. This occurred in 212 patients (8.2%) in the clopidogrelASA group compared with 303 patients (11.7%) in the ASA group (hazard ratio [HR], 0.68; 95%
+Dual Antiplatelet Therapy (DAPT) in Acute Minor IS or Moderate to High-risk TIA DAPT with combination clopidogrel and ASA as a treatment to prevent stroke after an acute minor IS or moderate to high-risk TIA has been evaluated in two randomized investigator-sponsored studies (ISS) -CHANCE and POINT -with clinical safety and efficacy outcome data.
 
 <div style=\"page-break-after: always\"></div>
 
-confidence interval [CI], 0.57 to 0.81; P&lt;0.001). IS occurred in 204 patients (7.9%) in the clopidogrelASA group compared with 295 (11.4%) in the ASA group (HR, 0.67; 95% CI, 0.56 to 0.81; P&lt;0.001). Hemorrhagic stroke occurred in 8 patients in each of the two study groups (0.3% of each group). Moderate or severe hemorrhage occurred in seven patients (0.3%) in the clopidogrel-ASA group and in eight (0.3%) in the ASA group (P = 0.73). The rate of any bleeding event was 2.3% in the clopidogrel-ASA group as compared with 1.6% in the ASA group (HR, 1.41; 95% CI, 0.95 to 2.10; P = 0.09).
+## CHANCE (Clopidogrel in High-risk patients with Acute Non-disabling Cerebrovascular Events)
+
+This randomized, double-blinded, multicenter, placebo-controlled clinical trial included 5,170 Chinese patients with acute TIA (ABCD2 score ≥4) or acute minor stroke (NIHSS ≤3). Patients in both groups received open-label ASA on day 1 (with the dose ranging from 75 to 300 mg, at the discretion of the treating physician). Patients randomly assigned to the clopidogrel -ASA group received a loading dose of 300 mg of clopidogrel on day 1, followed by a dose of 75 mg of clopidogrel per day on days 2 through 90, and ASA at a dose of 75 mg per day on days 2 through 21. Patients randomly assigned to the ASA group received a placebo version of clopidogrel on days 1 through 90 and ASA at a dose of 75 mg per day on days 2 through 90.
+
+The primary efficacy outcome was any new stroke event (ischemic and hemorrhagic) in the first 90 days after acute minor IS or high-risk TIA. This occurred in 212 patients (8.2%) in the clopidogrelASA group compared with 303 patients (11.7%) in the ASA group (hazard ratio [HR], 0.68; 95% confidence interval [CI], 0.57 to 0.81; P&lt;0.001). IS occurred in 204 patients (7.9%) in the clopidogrel -ASA group compared with 295 (11.4%) in the ASA group (HR, 0.67; 95% CI, 0.56 to 0.81; P&lt;0.001). Hemorrhagic stroke occurred in 8 patients in each of the two study groups (0.3% of each group). Moderate or severe hemorrhage occurred in seven patients (0.3%) in the clopidogrel -ASA group and in eight (0.3%) in the ASA group (P = 0.73). The rate of any bleeding event was 2.3% in the clopidogrel -ASA group as compared with 1.6% in the ASA group (HR, 1.41; 95% CI, 0.95 to 2.10; P = 0.09).
 
 ## POINT (Platelet-Oriented Inhibition in New TIA and Minor Ischemic Stroke)
 
@@ -504,6 +560,12 @@ Table 1- Time course distribution of major ischemic events and major hemorrhages
 |                              | CLP+ASA(n=5,016)     | 328             | 217             | 30              | 14              |
 |                              | Difference           | 130             | 113             | 6               | 7               |
 | Major Hemorrhage             | ASA (n=5,035)        | 18              | 4               | 2               | 1               |
+
+<div style=\"page-break-after: always\"></div>
+
+| No. of events                | No. of events        | No. of events   | No. of events   | No. of events   | No. of events   |
+|------------------------------|----------------------|-----------------|-----------------|-----------------|-----------------|
+| Outcomes in CHANCE and POINT | Treatment assignment | Total           | 1 st week       | 2 nd week       | 3 rd week       |
 |                              | CLP+ASA(n=5,016)     | 30              | 10              | 4               | 2               |
 |                              | Difference           | -12             | -6              | -2              | -1              |
 
@@ -513,11 +575,9 @@ The ACTIVE-W and ACTIVE-A studies, separate trials in the ACTIVE program, includ
 
 The ACTIVE-W study demonstrated that anticoagulant treatment with vitamin K antagonists was more effective than with clopidogrel and ASA.
 
-<div style=\"page-break-after: always\"></div>
-
 The ACTIVE-A study (N=7,554) was a multicenter, randomized, double-blind, placebo-controlled study which compared clopidogrel 75 mg/day + ASA (N=3,772) to placebo + ASA (N=3,782). The recommended dose for ASA was 75 to 100 mg/day. Patients were treated for up to 5 years.
 
-Patients randomized in the ACTIVE program were those presenting with documented AF, i.e., either permanent AF or at least 2 episodes of intermittent AF in the past 6 months, and had at least one of the following risk factors: age ≥ 75 years or age 55 to 74 years and either diabetes mellitus requiring drug therapy, or documented previous MI or documented coronary artery disease; treated for systemic hypertension; prior stroke, transient ischemic attack (TIA), or non-CNS systemic embolus; left ventricular dysfunction with left ventricular ejection fraction &lt;45%; or documented peripheral vascular disease. The mean CHADS2 score was 2.0 (range 0-6).
+Patients randomized in the ACTIVE program were those presenting with documented AF, i.e., either permanent AF or at least 2 episodes of intermittent AF in the past 6 months, and had at least one of the following risk factors: age  75 years or age 55 to 74 years and either diabetes mellitus requiring drug therapy, or documented previous MI or documented coronary artery disease; treated for systemic hypertension; prior stroke, transient ischemic attack (TIA), or non-CNS systemic embolus; left ventricular dysfunction with left ventricular ejection fraction &lt;45%; or documented peripheral vascular disease. The mean CHADS2 score was 2.0 (range 0-6).
 
 The major exclusion criteria for patients were documented peptic ulcer disease within the previous 6 months; prior intracerebral hemorrhage; significant thrombocytopenia (platelet count &lt; 50 x 10 9 /l); requirement for clopidogrel or oral anticoagulants (OAC); or intolerance to any of the two compounds.
 
@@ -529,15 +589,13 @@ The number of patients who reached the primary endpoint (time to first occurrenc
 
 ## Paediatric population
 
-In a dose escalation study of 86 neonates or infants up to 24 months of age at risk for thrombosis (PICOLO), clopidogrel was evaluated at consecutive doses of 0.01, 0.1 and 0.2 mg/kg in neonates and infants and 0.15 mg/kg only in neonates. The dose of 0.2 mg/kg achieved the mean percent inhibition of 49.3% (5 µM ADP-induced platelet aggregation) which was comparable to that of adults taking Clopidogrel Zentiva 75 mg/day.
-
-In a randomised, double-blind, parallel-group study (CLARINET), 906 paediatric patients (neonates and infants) with cyanotic congenital heart disease palliated with a systemic-to-pulmonary arterial shunt were randomised to receive clopidogrel 0.2 mg/kg (n=467) or placebo (n=439) along with concomitant background therapy up to the time of second stage surgery. The mean time between shunt palliation and first administration of study medicinal product was 20 days. Approximately 88% of patients received concomitant ASA (range of 1 to 23 mg/kg/day). There was no significant difference between groups in the primary composite endpoint of death, shunt thrombosis or cardiac-related intervention prior to 120 days of age following an event considered of thrombotic nature (89 [19.1%] for the clopidogrel group and 90 [20.5%] for the placebo group) (see section 4.2). Bleeding was the most frequently reported adverse reaction in both clopidogrel and placebo groups; however, there was no significant difference in the bleeding rate between groups. In the long-term safety follow-up of this study, 26 patients with the shunt still in place at one year of age received clopidogrel up to 18 months of age. No new safety concerns were noted during this long-term follow-up.
-
-The CLARINET and the PICOLO trials were conducted using a constituted solution of clopidogrel. In a relative bioavailability study in adults, the constituted solution of clopidogrel showed a similar extent
+In a dose escalation study of 86 neonates or infants up to 24 months of age at risk for thrombosis (PICOLO), clopidogrel was evaluated at consecutive doses of 0.01, 0.1 and 0.2 mg/kg in neonates and infants and 0.15 mg/kg only in neonates. The dose of 0.2 mg/kg achieved the mean percent inhibition of 49.3% (5 µM ADP -induced platelet aggregation) which was comparable to that of adults taking Clopidogrel Zentiva 75 mg/day.
 
 <div style=\"page-break-after: always\"></div>
 
-and slightly higher rate of absorption of the main circulating (inactive) metabolite compared to the authorised tablet.
+In a randomised, double-blind, parallel-group study (CLARINET), 906 paediatric patients (neonates and infants) with cyanotic congenital heart disease palliated with a systemic-to-pulmonary arterial shunt were randomised to receive clopidogrel 0.2 mg/kg (n=467) or placebo (n=439) along with concomitant background therapy up to the time of second stage surgery. The mean time between shunt palliation and first administration of study medicinal product was 20 days. Approximately 88% of patients received concomitant ASA (range of 1 to 23 mg/kg/day). There was no significant difference between groups in the primary composite endpoint of death, shunt thrombosis or cardiac-related intervention prior to 120 days of age following an event considered of thrombotic nature (89 [19.1%] for the clopidogrel group and 90 [20.5%] for the placebo group) (see section 4.2). Bleeding was the most frequently reported adverse reaction in both clopidogrel and placebo groups; however, there was no significant difference in the bleeding rate between groups. In the long-term safety follow-up of this study, 26 patients with the shunt still in place at one year of age received clopidogrel up to 18 months of age. No new safety concerns were noted during this long-term follow-up.
+
+The CLARINET and the PICOLO trials were conducted using a constituted solution of clopidogrel. In a relative bioavailability study in adults, the constituted solution of clopidogrel showed a similar extent and slightly higher rate of absorption of the main circulating (inactive) metabolite compared to the authorised tablet.
 
 ## 5.2 Pharmacokinetic properties
 
@@ -559,17 +617,15 @@ The Cmax of the active metabolite is twice as high following a single 300-mg clo
 
 Following an oral dose of 14 C-labelled clopidogrel in man, approximately 50% was excreted in the urine and approximately 46% in the faeces in the 120-hour interval after dosing. After a single oral dose of 75 mg, clopidogrel has a half-life of approximately 6 hours. The elimination half-life of the main circulating (inactive) metabolite was 8 hours after single and repeated administration.
 
+<div style=\"page-break-after: always\"></div>
+
 ## Pharmacogenetics
 
 CYP2C19 is involved in the formation of both the active metabolite and the 2-oxo-clopidogrel intermediate metabolite. Clopidogrel active metabolite pharmacokinetics and antiplatelet effects, as measured by ex vivo platelet aggregation assays, differ according to CYP2C19 genotype.
 
 The CYP2C19*1 allele corresponds to fully functional metabolism while the CYP2C19*2 and CYP2C19*3 alleles are non-functional. The CYP2C19*2 and CYP2C19*3 alleles account for the majority of reduced function alleles in Caucasian (85%) and Asian (99%) poor metabolisers. Other alleles associated with absent or reduced metabolism are less frequent and include CYP2C19*4, *5, *6, *7, and *8. A patient with poor metaboliser status will possess two loss-of-function alleles as defined above. Published frequencies for the poor CYP2C19 metaboliser genotypes are  approximately 2% for Caucasians, 4% for Blacks and 14% for Chinese. Tests are available to determine a patient's CYP2C19 genotype.
 
-A crossover study in 40 healthy subjects, 10 each in the four CYP2C19 metaboliser groups (ultrarapid, extensive, intermediate and poor), evaluated pharmacokinetic and antiplatelet responses using 300 mg followed by 75 mg/day and 600 mg followed by 150 mg/day, each for a total of 5 days (steady state). No substantial differences in active metabolite exposure and mean inhibition of platelet aggregation (IPA) were observed between ultrarapid, extensive and intermediate metabolisers. In poor
-
-<div style=\"page-break-after: always\"></div>
-
-metabolisers, active metabolite exposure was decreased by 63-71% compared to extensive metabolisers. After the 300 mg/75 mg dose regimen, antiplatelet responses were decreased in the poor metabolisers with mean IPA (5 μM ADP) of 24% (24 hours) and 37% (Day 5) as compared to IPA of 39% (24 hours) and 58% (Day 5) in the extensive metabolisers and 37% (24 hours) and 60% (Day 5) in the intermediate metabolisers. When poor metabolisers received the 600 mg/150 mg regimen, active metabolite exposure was greater than with the 300 mg/75 mg regimen. In addition, IPA was 32% (24 hours) and 61% (Day 5), which were greater than in the poor metabolisers receiving the 300 mg/75 mg regimen, and were similar to the other CYP2C19 metaboliser groups receiving the 300 mg/75 mg regimen. An appropriate dose regimen for this patient population has not been established in clinical outcome trials.
+A crossover study in 40 healthy subjects, 10 each in the four CYP2C19 metaboliser groups (ultrarapid, extensive, intermediate and poor), evaluated pharmacokinetic and antiplatelet responses using 300 mg followed by 75 mg/day and 600 mg followed by 150 mg/day, each for a total of 5 days (steady state). No substantial differences in active metabolite exposure and mean inhibition of platelet aggregation (IPA) were observed between ultrarapid, extensive and intermediate metabolisers. In poor metabolisers, active metabolite exposure was decreased by 63-71% compared to extensive metabolisers. After the 300 mg/75 mg dose regimen, antiplatelet responses were decreased in the poor metabolisers with mean IPA (5 μM ADP) of 24% (24 hours) and 37% (Day 5) as compared to IPA of 39% (24 hours) and 58% (Day 5) in the extensive metabolisers and 37% (24 hours) and 60% (Day 5) in the intermediate metabolisers. When poor metabolisers received the 600 mg/150 mg regimen, active metabolite exposure was greater than with the 300 mg/75 mg regimen. In addition, IPA was 32% (24 hours) and 61% (Day 5), which were greater than in the poor metabolisers receiving the 300 mg/75 mg regimen, and were similar to the other CYP2C19 metaboliser groups receiving the 300 mg/75 mg regimen. An appropriate dose regimen for this patient population has not been established in clinical outcome trials.
 
 Consistent with the above results, in a meta-analysis including 6 studies of 335 clopidogrel-treated subjects at steady state, it was shown that active metabolite exposure was decreased by 28% for intermediate metabolisers, and 72% for poor metabolisers while platelet aggregation inhibition (5 μM ADP) was decreased with differences in IPA of 5.9% and 21.4%, respectively, when compared to extensive metabolisers.
 
@@ -582,6 +638,8 @@ In CHARISMA and one cohort study (Simon), an increased event rate was observed o
 In CURE, CLARITY, ACTIVE-A and one of the cohort studies (Trenk), no increased event rate was observed based on metaboliser status.
 
 None of these analyses were adequately sized to detect differences in outcome in poor metabolisers.
+
+<div style=\"page-break-after: always\"></div>
 
 ## Special populations
 
@@ -598,8 +656,6 @@ After repeated doses of 75 mg clopidogrel per day for 10 days in patients with s
 ## Race
 
 The prevalence of CYP2C19 alleles that result in intermediate and poor CYP2C19 metabolism differs according to race/ethnicity (see Pharmacogenetics). From literature, limited data in Asian populations are available to assess the clinical implication of genotyping of this CYP on clinical outcome events.
-
-<div style=\"page-break-after: always\"></div>
 
 ## 5.3 Preclinical safety data
 
@@ -625,7 +681,11 @@ Coating:
 
 Hypromellose (E464) Lactose monohydrate Triacetin (E1518) Titanium dioxide (E171) Red iron oxide (E172)
 
-Polishing agent: Carnauba wax
+<div style=\"page-break-after: always\"></div>
+
+Polishing agent:
+
+Carnauba wax
 
 ## 6.2 Incompatibilities
 
@@ -634,8 +694,6 @@ Not applicable
 ## 6.3 Shelf-life
 
 3 years
-
-<div style=\"page-break-after: always\"></div>
 
 ## 6.4 Special precautions for storage
 
@@ -664,6 +722,8 @@ Any unused medicinal product or waste material should be disposed of in accordan
 ## 7. MARKETING AUTHORISATION HOLDER
 
 Zentiva k.s. U kabelovny 130 102 37 Prague 10 Czech Republic
+
+<div style=\"page-break-after: always\"></div>
 
 ## 8. MARKETING AUTHORISATION NUMBERS
 
@@ -707,8 +767,6 @@ EU/1/08/465/021 - Cartons of 50 film-coated tablets in PVC/PVDC/Alu blisters
 
 EU/1/08/465/015 - Cartons of 4x1 film-coated tablets in all aluminium perforated unit-dose blisters
 
-<div style=\"page-break-after: always\"></div>
-
 EU/1/08/465/016 - Cartons of 30x1 film-coated tablets in all aluminium perforated unit-dose blisters
 
 EU/1/08/465/017 - Cartons of 100x1 film-coated tablets in all aluminium perforated unit-dose blisters
@@ -721,13 +779,9 @@ Date of first authorisation: 16 July 2008
 
 Date of latest renewal: 17 December 2012
 
-10.
+## 10. DATE OF REVISION OF THE TEXT
 
-DATE OF REVISION OF THE TEXT
-
-Detailed information on this medicinal product is available on the website of the European Medicines Agency: http://www.ema.europa.eu/
-
-23
+Detailed information on this medicinal product is available on the website of the European Medicines Agency: https://www.ema.europa.eu.
 
 <div style=\"page-break-after: always\"></div>
 
@@ -748,7 +802,7 @@ Name and address of the manufacturers responsible for batch release
 
 Sanofi Winthrop Industrie 1, rue de la Vierge Ambarès &amp; Lagrave F-33565 Carbon Blanc cedex France
 
-Delpharm Dijon 6, Boulevard de l'Europe F-21800 Quétigny France
+Delpharm Dijon 6, Boulevard de l'Europe F-21800 Qu étigny France
 
 S.C. Zentiva S.A. B-dul Theodor Pallady nr. 50, sector 3, 032266 Bukarest Romania
 
@@ -841,9 +895,7 @@ EXP
 
 ## 9. SPECIAL STORAGE CONDITIONS
 
-Store below 30°C (for PVC/PVDC/aluminium blisters)
-
-Or No special storage conditions (for all aluminium blisters)
+Store below 30°C (for PVC/PVDC/aluminium blisters) Or No special storage conditions (for all aluminium blisters)
 
 10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
 
@@ -885,8 +937,8 @@ Clopidogrel Zentiva 75 mg
 
 2D barcode carrying the unique identifier included.
 
-| 18.   | UNIQUE IDENTIFIER - HUMANREADABLE DATA   |
-|-------|------------------------------------------|
+| 18.   | UNIQUE IDENTIFIER -HUMANREADABLE DATA   |
+|-------|-----------------------------------------|
 
 PC SN NN
 
@@ -901,8 +953,8 @@ PC SN NN
 
 Clopidogrel Zentiva 75 mg tablets clopidogrel
 
-| 2.   | NAMEOFTHEMARKETING AUTHORISATION HOLDER   |
-|------|-------------------------------------------|
+| 2.   | NAMEOFTHEMARKETINGAUTHORISATION HOLDER   |
+|------|------------------------------------------|
 
 Zentiva k.s.
 
@@ -996,7 +1048,7 @@ EXP
 
 <div style=\"page-break-after: always\"></div>
 
-10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
+## 10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
@@ -1032,7 +1084,7 @@ Medicinal product subject to medical prescription.
 
 Clopidogrel Zentiva 300 mg
 
-## 17. UNIQUE IDENTIFIER - 2D BARCODE
+## 17. UNIQUE IDENTIFIER -2D BARCODE
 
 2D barcode carrying the unique identifier included.
 
@@ -1046,17 +1098,17 @@ NN
 
 <div style=\"page-break-after: always\"></div>
 
-| MINIMUM PARTICULARS TO APPEAR ONBLISTERS ORSTRIPS   |
-|-----------------------------------------------------|
-| BLISTER 4x1, 10x1, 30x1 or 100x1 tablets            |
+| MINIMUM PARTICULARS TO APPEAR ONBLISTERS OR STRIPS   |
+|------------------------------------------------------|
+| BLISTER 4x1, 10x1, 30x1 or 100x1 tablets             |
 
 | 1.   | NAMEOFTHEMEDICINAL PRODUCT   |
 |------|------------------------------|
 
 Clopidogrel Zentiva 300 mg tablets clopidogrel
 
-| 2.   | NAMEOFTHEMARKETING AUTHORISATION HOLDER   |
-|------|-------------------------------------------|
+| 2.   | NAMEOFTHEMARKETINGAUTHORISATION HOLDER   |
+|------|------------------------------------------|
 
 Zentiva k.s.
 
@@ -1113,7 +1165,7 @@ You have been prescribed Clopidogrel Zentiva to help prevent blood clots and red
 - -You have previously experienced a heart attack, stroke or have a condition known as peripheral arterial disease, or
 - -You have experienced a severe type of chest pain known as 'unstable angina' or 'myocardial infarction' (heart attack). For the treatment of this condition your doctor may have placed a stent in the blocked or narrowed artery to restore effective blood flow. You may also be given acetylsalicylic acid (a substance present in many medicines used to relieve pain and lower fever as well as to prevent blood clotting) by your doctor.
 - -You have experienced symptoms of a stroke which go away within a short period of time (also known as transient ischemic attack) or an ischemic stroke mild in severity. You may also be given acetylsalicylic acid by your doctor starting within the first 24 hours.
-- -You have an irregular heartbeat, a condition called 'atrial fibrillation', and you cannot take medicines known as 'oral anticoagulants' (vitamin K antagonists) which prevent new clots from forming and prevent existing clots from growing. You should have been told that 'oral anticoagulants' are more effective than acetylsalicylic acid or the combined use of Clopidogrel Zentiva and acetylsalicylic acid for this condition. Your doctor should have prescribed Clopidogrel Zentiva plus acetylsalicylic acid if you cannot take 'oral anticoagulants' and you do not have a risk of major bleeding.
+- -You have an irregular heartbeat, a condition called 'atrial fibrillation', and you cannot take medicines known as 'oral anticoagulants' (vitamin K antagonists) which prevent new clots from forming and prevent existing clots from growing. You should have be en told that 'oral anticoagulants' are more effective than acetylsalicylic acid or the combined use of Clopidogrel Zentiva and acetylsalicylic acid for this condition. Your doctor should have prescribed Clopidogrel Zentiva plus acetylsalicylic acid if you cannot take 'oral anticoagulants' and you do not have a risk of major bleeding.
 
 <div style=\"page-break-after: always\"></div>
 
@@ -1145,8 +1197,8 @@ If any of the situations mentioned below apply to you, you should tell your doct
 ## While you are taking Clopidogrel Zentiva:
 
 - -You should tell your doctor if a surgery (including dental) is planned.
-- -You should also tell your doctor immediately if you develop a medical condition (also known as Thrombotic Thrombocytopenic Purpura or TTP) that includes fever and bruising under the skin that may appear as red pinpoint dots, with or without unexplained extreme tiredness, confusion, yellowing of the skin or eyes (jaundice) (see section 4 'Possible side effects').
-- -If you cut or injure yourself, it may take longer than usual for bleeding to stop. This is linked to the way your medicine works as it prevents the ability of blood clots to form. For minor cuts and injuries e.g., cutting yourself, shaving, this is usually of no concern. However, if you are concerned by your bleeding, you should contact your doctor straightaway (see section 4 'Possible side effects').
+- -You should also tell your doctor immediately if you develop a medical condition (also known as Thrombotic Thrombocytopenic Purpura or TTP) that includes fever and bruising under the skin that may appear as red pinpoint dots, with or without unexplained extreme tiredness, confusion, yellowing of the skin or eyes (jaundice) (see section 4 ' Possible side effects ').
+- -If you cut or injure yourself, it may take longer than usual for bleeding to stop. This is linked to the way your medicine works as it prevents the ability of blood clots to form. For minor cuts and injuries e.g., cutting yourself, shaving, this is usually of no concern. However, if you are concerned by your bleeding, you should contact your doctor straightaway (see section 4 ' Possible side effects ').
 - -Your doctor may order blood tests.
 
 ## Children and adolescents
@@ -1248,14 +1300,14 @@ Like all medicines, this medicine can cause side effects, although not everybody
 ## Contact your doctor immediately if you experience:
 
 - -fever, signs of infection or extreme tiredness. These may be due to rare decrease of some blood cells.
-- -signs of liver problems such as yellowing of the skin and/or the eyes (jaundice), whether or not associated with bleeding which appears under the skin as red pinpoint dots and/or confusion (see section 2 'Warnings and precautions').
+- -signs of liver problems such as yellowing of the skin and/or the eyes (jaundice), whether or not associated with bleeding which appears under the skin as red pinpoint dots and/or confusion (see section 2 ' Warnings and precautions ').
 - -swelling in the mouth or skin disorders such as rashes and itching, blisters of the skin. These may be the signs of an allergic reaction.
 
 The most common side effect reported with Clopidogrel Zentiva is bleeding . Bleeding may occur as bleeding in the stomach or bowels, bruising, haematoma (unusual bleeding or bruising under the skin), nose bleed, blood in the urine. In a small number of cases, bleeding in the eye, inside the head, the lung or the joints has also been reported.
 
 ## If you experience prolonged bleeding when taking Clopidogrel Zentiva
 
-If you cut or injure yourself, it may take longer than usual for bleeding to stop. This is linked to the way your medicine works as it prevents the ability of blood clots to form. For minor cuts and injuries e.g., cutting yourself, shaving, this is usually of no concern. However, if you are concerned by your bleeding, you should contact your doctor straightaway (see section 2 'Warnings and precautions').
+If you cut or injure yourself, it may take longer than usual for bleeding to stop. This is linked to the way your medicine works as it prevents the ability of blood clots to form. For minor cuts and injuries e.g., cutting yourself, shaving, this is usually of no concern. However, if you are concerned by your bleeding, you should contact your doctor straightaway (see section 2 ' Warnings and precautions ').
 
 <div style=\"page-break-after: always\"></div>
 
@@ -1267,7 +1319,7 @@ Uncommon side effects (may affect up to 1 in 100 people): Headache, stomach ulce
 
 Rare side effect (may affect up to 1 in 1000 people): Vertigo, enlarged breasts in males.
 
-## Very rare side effects (may affect up to 1 in 10,000 people):
+Very rare side effects (may affect up to 1 in 10,000 people):
 
 Jaundice; severe abdominal pain with or without back pain; fever, breathing difficulties sometimes associated with cough; generalised allergic reactions (for example, overall sensation of heat with sudden general discomfort until fainting); swelling in the mouth; blisters of the skin; skin allergy; sore mouth (stomatitis); decrease in blood pressure; confusion; hallucinations; joint pain; muscular pain; changes in taste or loss of taste of food.
 
@@ -1299,7 +1351,7 @@ Do not throw away any medicines via wastewater or household waste. Ask your phar
 
 The active substance is clopidogrel. Each tablet contains 75 mg of clopidogrel (as hydrogen sulphate).
 
-The other ingredients are (see section 2 'Clopidogrel Zentiva contains lactose' and 'Clopidogrel Zentiva contains hydrogenated castor oil'):
+The other ingredients are (see section 2 'Clopidogrel Zentiva contains lactose' and 'Clopidogrel Zentiva contains hydrogenated castor oil') :
 
 - -Tablet core: mannitol (E421), hydrogenated castor oil, microcrystalline cellulose, macrogol 6000 and low-substituted hydroxypropylcellulose,
 
@@ -1319,21 +1371,19 @@ Not all pack sizes may be marketed.
 
 ## Marketing Authorisation Holder and Manufacturers
 
-Marketing Authorisation Holder:
-
-Zentiva k.s. U kabelovny 130 102 37 Prague 10 Czech Republic
+Marketing Authorisation Holder: Zentiva k.s. U kabelovny 130 102 37 Prague 10 Czech Republic
 
 Manufacturers:
 
 Sanofi Winthrop Industrie
 
-1, rue de la Vierge, Ambarès &amp; Lagrave, F-33565 Carbon Blanc cedex, France
+1, rue de la Vierge, Ambarès &amp; Lagrave , F-33565 Carbon Blanc cedex, France
 
 or
 
 Delpharm Dijon
 
-6, boulevard de l'Europe, F-21800 Quétigny, France
+6, boulevard de l'Europe, F- 21800 Quétigny, France
 
 or
 
@@ -1351,7 +1401,9 @@ For any information about this medicine, please contact the local representative
 
 Zentiva, k.s.
 
-Tél/Tel: +32 (78) 700 112
+Tél/Tel:
+
++32 (78) 700 112
 
 PV-Belgium@zentiva.com
 
@@ -1367,7 +1419,9 @@ PV-Lithuania@zentiva.com
 
 Zentiva, k.s.
 
-Тел: + 35924417136
+Тел:
+
++ 35924417136
 
 PV-Bulgaria@zentiva.com
 
@@ -1375,7 +1429,9 @@ PV-Bulgaria@zentiva.com
 
 Zentiva, k.s.
 
-Tél/Tel: +352 208 82330
+Tél/Tel: +
+
+352 208 82330
 
 PV-Luxembourg@zentiva.com
 
@@ -1387,7 +1443,7 @@ Tel: +420 267 241 111
 
 PV-Czech-Republic@zentiva.com
 
-Magyarország
+## Magyarország
 
 Zentiva Pharma Kft.
 
@@ -1419,7 +1475,7 @@ PV-Greece@zentiva.com
 
 ## España
 
-Zentiva Spain S.L.U. Tel: +34 91 111 58 93
+Zentiva Spain S.L.U. Tel: +34 671 365 828
 
 PV-Spain@zentiva.com
 
@@ -1443,7 +1499,7 @@ PV-Ireland@zentiva.com
 
 ## Ísland
 
-Zentiva Denmark ApS Sími: +354 539 5025
+Zentiva Denmark ApS Sími : +354 539 5025
 
 PV-Iceland@zentiva.com
 
@@ -1475,9 +1531,7 @@ Zentiva, k.s. Tel: +43 720 778 877 PV-Austria@zentiva.com
 
 ## Polska
 
-Zentiva Polska Sp. z o.o. Tel: + 48 22 375 92 00
-
-PV-Poland@zentiva.com
+Zentiva Polska Sp. z o.o. Tel: + 48 22 375 92 00 PV-Poland@zentiva.com
 
 ## Portugal
 
@@ -1519,7 +1573,7 @@ PV-Latvia@zentiva.com
 
 ## This leaflet was last revised in &lt;Month YYYY&gt;.
 
-Detailed information on this medicine is available on the European Medicines Agency website: http://www.ema.europa.eu/
+Detailed information on this medicine is available on the European Medicines Agency website: https://www.ema.europa.eu.
 
 <div style=\"page-break-after: always\"></div>
 
@@ -1555,7 +1609,7 @@ You have been prescribed Clopidogrel Zentiva to help prevent blood clots and red
 - -You have previously experienced a heart attack, stroke or have a condition known as peripheral arterial disease, or
 - -You have experienced a severe type of chest pain known as 'unstable angina' or 'myocardial infarction' (heart attack). For the treatment of this condition your doctor may have placed a stent in the blocked or narrowed artery to restore effective blood flow. You may also be given acetylsalicylic acid (a substance present in many medicines used to relieve pain and lower fever as well as to prevent blood clotting) by your doctor.
 - -You have experienced symptoms of a stroke which go away within a short period of time (also known as transient ischemic attack) or an ischemic stroke mild in severity. You may also be given acetylsalicylic acid by your doctor starting within the first 24 hours.
-- -You have an irregular heartbeat, a condition called 'atrial fibrillation', and you cannot take medicines known as 'oral anticoagulants' (vitamin K antagonists) which prevent new clots from forming and prevent existing clots from growing. You should have been told that 'oral anticoagulants' are more effective than acetylsalicylic acid or the combined use of Clopidogrel Zentiva and acetylsalicylic acid for this condition. Your doctor should have prescribed Clopidogrel Zentiva plus acetylsalicylic acid if you cannot take 'oral anticoagulants' and you do not have a risk of major bleeding.
+- -You have an irregular heartbeat, a condition called 'atrial fibrillation', and you cannot take medicines known as 'oral anticoagulants' (vitamin K antagonists) which prevent new clots from forming and prevent existing clots from growing. You should have be en told that 'oral anticoagulants' are more effective than acetylsalicylic acid or the combined use of Clopidogrel Zentiva and acetylsalicylic acid for this condition. Your doctor should have prescribed Clopidogrel Zentiva plus acetylsalicylic acid if you cannot take 'oral anticoagulants' and you do not have a risk of major bleeding.
 
 <div style=\"page-break-after: always\"></div>
 
@@ -1587,8 +1641,8 @@ If any of the situations mentioned below apply to you, you should tell your doct
 ## While you are taking Clopidogrel Zentiva:
 
 - -You should tell your doctor if a surgery (including dental) is planned.
-- -You should also tell your doctor immediately if you develop a medical condition (also known as Thrombotic Thrombocytopenic Purpura or TTP) that includes fever and bruising under the skin that may appear as red pinpoint dots, with or without unexplained extreme tiredness, confusion, yellowing of the skin or eyes (jaundice) (see section 4 'Possible side effects').
-- -If you cut or injure yourself, it may take longer than usual for bleeding to stop. This is linked to the way your medicine works as it prevents the ability of blood clots to form. For minor cuts and injuries e.g., cutting yourself, shaving, this is usually of no concern. However, if you are concerned by your bleeding, you should contact your doctor straightaway (see section 4 'Possible side effects').
+- -You should also tell your doctor immediately if you develop a medical condition (also known as Thrombotic Thrombocytopenic Purpura or TTP) that includes fever and bruising under the skin that may appear as red pinpoint dots, with or without unexplained extreme tiredness, confusion, yellowing of the skin or eyes (jaundice) (see section 4 ' Possible side effects ').
+- -If you cut or injure yourself, it may take longer than usual for bleeding to stop. This is linked to the way your medicine works as it prevents the ability of blood clots to form. For minor cuts and injuries e.g., cutting yourself, shaving, this is usually of no concern. However, if you are concerned by your bleeding, you should contact your doctor straightaway (see section 4 ' Possible side effects ').
 - -Your doctor may order blood tests.
 
 ## Children and adolescents
@@ -1680,14 +1734,14 @@ Like all medicines, this medicine can cause side effects, although not everybody
 ## Contact your doctor immediately if you experience:
 
 - -fever, signs of infection or extreme tiredness. These may be due to rare decrease of some blood cells.
-- -signs of liver problems such as yellowing of the skin and/or the eyes (jaundice), whether or not associated with bleeding which appears under the skin as red pinpoint dots, and/or confusion (see section 2 'Warnings and precautions').
+- -signs of liver problems such as yellowing of the skin and/or the eyes (jaundice), whether or not associated with bleeding which appears under the skin as red pinpoint dots, and/or confusion (see section 2 ' Warnings and precautions ').
 - -swelling in the mouth or skin disorders such as rashes and itching, blisters of the skin. These may be the signs of an allergic reaction.
 
 The most common side effect reported with Clopidogrel Zentiva is bleeding. Bleeding may occur as bleeding in the stomach or bowels, bruising, haematoma (unusual bleeding or bruising under the skin), nose bleed, blood in the urine. In a small number of cases, bleeding in the eye, inside the head, the lung or the joints has also been reported.
 
 ## If you experience prolonged bleeding when taking Clopidogrel Zentiva
 
-If you cut or injure yourself, it may take longer than usual for bleeding to stop. This is linked to the way your medicine works as it prevents the ability of blood clots to form. For minor cuts and injuries e.g., cutting yourself, shaving, this is usually of no concern. However, if you are concerned by your bleeding, you should contact your doctor straightaway (see section 2 'Warnings and precautions').
+If you cut or injure yourself, it may take longer than usual for bleeding to stop. This is linked to the way your medicine works as it prevents the ability of blood clots to form. For minor cuts and injuries e.g., cutting yourself, shaving, this is usually of no concern. However, if you are concerned by your bleeding, you should contact your doctor straightaway (see section 2 ' Warnings and precautions ').
 
 ## Other side effects include:
 
@@ -1729,7 +1783,7 @@ Do not throw away any medicines via wastewater or household waste. Ask your phar
 
 The active substance is clopidogrel. Each tablet contains 300 mg of clopidogrel (as hydrogen sulphate).
 
-The other ingredients are (see section 2 'Clopidogrel Zentiva contains lactose' and 'Clopidogrel Zentiva contains hydrogenated castor oil'):
+The other ingredients are (see section 2 'Clopidogrel Zentiva contains lactose' and 'Clopidogrel Zentiva contains hydrogenated castor oil' ):
 
 - -Tablet core: mannitol (E421), hydrogenated castor oil, microcrystalline cellulose, macrogol 6000 and low-substituted hydroxypropylcellulose
 - -Tablet coating: lactose monohydrate (milk sugar), hypromellose (E464), triacetin (E1518), red iron oxide (E172) and titanium dioxide (E171),
@@ -1751,7 +1805,7 @@ Manufacturer:
 
 Sanofi Winthrop Industrie
 
-1, rue de la Vierge, Ambarès &amp; Lagrave, F-33565 Carbon Blanc cedex, France
+1, rue de la Vierge, Ambarès &amp; Lagrave , F-33565 Carbon Blanc cedex, France
 
 For any information about this medicine, please contact the local representative of the Marketing Authorisation Holder:
 
@@ -1759,7 +1813,9 @@ For any information about this medicine, please contact the local representative
 
 Zentiva, k.s.
 
-Tél/Tel: +32 (78) 700 112
+Tél/Tel:
+
++32 (78) 700 112
 
 PV-Belgium@zentiva.com
 
@@ -1809,9 +1865,7 @@ PV-Estonia@zentiva.com
 
 Zentiva, k.s.
 
-Τηλ: +30
-
-211 198 7510
+Τηλ: +30 211 198 7510
 
 PV-Greece@zentiva.com
 
@@ -1819,7 +1873,7 @@ PV-Greece@zentiva.com
 
 Zentiva Spain S.L.U.
 
-Tel: +34 91 111 58 93
+Tel: +34 671 365 828
 
 PV-Spain@zentiva.com
 
@@ -1835,7 +1889,9 @@ PV-Lithuania@zentiva.com
 
 Zentiva, k.s.
 
-Tél/Tel: +352 208 82330
+Tél/Tel: +
+
+352 208 82330
 
 PV-Luxembourg@zentiva.com
 
@@ -1893,7 +1949,9 @@ PV-Poland@zentiva.com
 
 Zentiva France
 
-Tél: +33 (0) 800 089 219
+Tél
+
+: +33 (0) 800 089 219
 
 PV-France@zentiva.com
 
@@ -1917,7 +1975,9 @@ PV-Ireland@zentiva.com
 
 Zentiva Denmark ApS
 
-Sími: +354 539 5025
+Sími
+
+: +354 539 5025
 
 PV-Iceland@zentiva.com
 
@@ -1949,7 +2009,7 @@ PV-Latvia@zentiva.com
 
 ## This leaflet was last revised in &lt;Month YYYY&gt;.
 
-Detailed information on this medicine is available on the European Medicines Agency website: http://www.ema.europa.eu/
+Detailed information on this medicine is available on the European Medicines Agency website: https://www.ema.europa.eu/.
 
 ## Portugal
 

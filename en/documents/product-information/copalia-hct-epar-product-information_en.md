@@ -1,20 +1,20 @@
 ---
-document_datetime: 2025-02-12 15:47:07
-document_pages: 86
+document_datetime: 2026-02-06 10:26:08
+document_pages: 85
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/copalia-hct-epar-product-information_en.pdf
 document_name: copalia-hct-epar-product-information_en.pdf
 version: success
-processing_time: 23.451644
-conversion_datetime: 2025-12-15 02:36:45.957131
+processing_time: 22.8270482
+conversion_datetime: 2026-02-09 22:10:36.092307
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.64.1
-  docling-core: 2.55.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.12.0
+  docling-jobkit: 1.10.1
+  docling: 2.72.0
+  docling-core: 2.63.0
+  docling-ibm-models: 3.11.0
+  docling-parse: 4.7.3
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.1-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
 ---
 ## ANNEX I
 
@@ -75,11 +75,11 @@ Yellow, ovaloid, biconvex tablets with bevelled edge, debossed 'NVR' on one side
 
 ## Copalia HCT 10 mg/160 mg/25 mg film-coated tablets
 
-Brown-yellow, ovaloid, biconvex tablets with bevelled edge, debossed 'NVR' on one side and 'VHL' on the other side. Approximate size: 15 mm (length) x 5.9 mm (width).
+Brownyellow, ovaloid, biconvex tablets with bevelled edge, debossed 'NVR' on one side and 'VHL' on the other side. Approximate size: 15 mm (length) x 5.9 mm (width).
 
 ## Copalia HCT 10 mg/320 mg/25 mg film-coated tablets
 
-Brown-yellow, ovaloid, biconvex tablets with bevelled edge, debossed 'NVR' on one side and 'VFL' on the other side. Approximate size: 19 mm (length) x 7.5 mm (width).
+Brownyellow, ovaloid, biconvex tablets with bevelled edge, debossed 'NVR' on one side and 'VFL' on the other side. Approximate size: 19 mm (length) x 7.5 mm (width).
 
 ## 4. CLINICAL PARTICULARS
 
@@ -182,7 +182,7 @@ All patients receiving thiazide diuretics should be periodically monitored for i
 
 Thiazide diuretics may precipitate azotaemia in patients with chronic kidney disease. When Copalia HCT is used in patients with renal impairment periodic monitoring of serum electrolytes (including potassium), creatinine and uric acid serum levels is recommended. Copalia HCT is contraindicated in patients with severe renal impairment, anuria or undergoing dialysis (see section 4.3).
 
-No dose adjustment of Copalia HCT is required for patients with mild to moderate renal impairment (GFR ≥30 ml/min/1.73 m 2 ).
+No dose adjustment of Copalia HCT is required for patients with mild to moderate renal impairment (GFR ≥ 30 ml/min/1.73 m 2 ).
 
 ## Renal artery stenosis
 
@@ -220,11 +220,13 @@ Caution is advised in patients with heart failure and coronary artery disease, p
 
 As with all other vasodilators, special caution is indicated in patients with mitral stenosis or significant aortic stenosis that is not high grade.
 
-<div style=\"page-break-after: always\"></div>
-
 ## Pregnancy
 
-Angiotensin II Receptor Antagonists (AIIRAs) should not be initiated during pregnancy. Unless continued AIIRA therapy is considered essential, patients planning pregnancy should be changed to alternative antihypertensive treatments which have an established safety profile for use in pregnancy. When pregnancy is diagnosed, treatment with AIIRAs should be stopped immediately, and, if appropriate, alternative therapy should be started (see sections 4.3 and 4.6).
+Angiotensin II Receptor Antagonists (AIIRAs) should not be initiated during pregnancy. Unless continued AIIRA therapy is considered essential, patients planning pregnancy should be changed to alternative antihypertensive treatments which have an established safety profile for use in pregnancy.
+
+<div style=\"page-break-after: always\"></div>
+
+When pregnancy is diagnosed, treatment with AIIRAs should be stopped immediately, and, if appropriate, alternative therapy should be started (see sections 4.3 and 4.6).
 
 ## Primary hyperaldosteronism
 
@@ -250,9 +252,9 @@ Cases of photosensitivity reactions have been reported with thiazide diuretics (
 
 Hydrochlorothiazide, a sulphonamide, has been associated with an idiosyncratic reaction resulting in choroidal effusion with visual field defect, acute transient myopia and acute angle-closure glaucoma. Symptoms include acute onset of decreased visual acuity or ocular pain and typically occur within hours to a week of treatment initiation. Untreated acute-angle closure glaucoma can lead to permanent vision loss.
 
-<div style=\"page-break-after: always\"></div>
-
 The primary treatment is to discontinue hydrochlorothiazide as rapidly as possible. Prompt medical or surgical treatment may need to be considered if the intraocular pressure remains uncontrolled. Risk factors for developing acute angle closure glaucoma may include a history of sulphonamide or penicillin allergy.
+
+<div style=\"page-break-after: always\"></div>
 
 ## General
 
@@ -278,13 +280,13 @@ Patients taking hydrochlorothiazide should be informed of the risk of NMSC and a
 
 Very rare severe cases of acute respiratory toxicity, including acute respiratory distress syndrome (ARDS), have been reported after taking hydrochlorothiazide. Pulmonary oedema typically develops within minutes to hours after hydrochlorothiazide intake. At the onset, symptoms include dyspnoea, fever, pulmonary deterioration and hypotension. If diagnosis of ARDS is suspected, Copalia HCT should be withdrawn, and appropriate treatment given. Hydrochlorothiazide should not be administered to patients who previously experienced ARDS following hydrochlorothiazide intake.
 
-<div style=\"page-break-after: always\"></div>
-
 ## 4.5 Interaction with other medicinal products and other forms of interaction
 
 No formal interaction studies with other medicinal products have been performed with Copalia HCT. Thus, only information on interactions with other medicinal products that are known for the individual active substances is provided in this section.
 
 However, it is important to take into account that Copalia HCT may increase the hypotensive effect of other antihypertensive agents.
+
+<div style=\"page-break-after: always\"></div>
 
 ## Concomitant use not recommended
 
@@ -294,53 +296,53 @@ However, it is important to take into account that Copalia HCT may increase the 
 | Valsartan                          | Potassium-sparing diuretics, potassium supplements, salt substitutes containing potassium and other substances that may increase potassium levels | If a medicinal product that affects potassium levels is considered necessary in combination with valsartan, frequent monitoring of potassium plasma levels is advised.                                                                                                                                                                                                                                                                                                        |
 | Amlodipine                         | Grapefruit or grapefruit juice                                                                                                                    | Administration of amlodipine with grapefruit or grapefruit juice is not recommended as bioavailability may be increased in some patients, resulting in increased blood pressure lowering effects.                                                                                                                                                                                                                                                                             |
 
-<div style=\"page-break-after: always\"></div>
-
 ## Caution required with concomitant use
 
-| Copalia HCT individual component   | Known interactions with the following agents                                                                                                                                    | Effect of the interaction with other medicinal products                                                                                                                                                                                                                                                                                                                                                                      |
-|------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Amlodipine                         | CYP3A4 inhibitors (i.e. ketoconazole, itraconazole, ritonavir)                                                                                                                  | Concomitant use of amlodipine with strong or moderate CYP3A4 inhibitors (protease inhibitors, azole antifungals, macrolides like erythromycin or clarithromycin, verapamil or diltiazem) may give rise to significant increase in amlodipine exposure. The clinical translation of these pharmacokinetic variations may be more pronounced in the elderly. Clinical monitoring and dose adjustment may thus be required.     |
-|                                    | CYP3A4 inducers (anticonvulsant agents [e.g. carbamazepine, phenobarbital, phenytoin, fosphenytoin, primidone], rifampicin, Hypericum perforatum [St. John's wort])             | Upon co-administration of known inducers of the CYP3A4, the plasma concentration of amlodipine may vary. Therefore, blood pressure should be monitored and dose regulation considered both during and after concomitant medication particularly with strong CYP3A4 inducers (e.g. rifampicin, hypericum perforatum).                                                                                                         |
-|                                    | Simvastatin                                                                                                                                                                     | Co-administration of multiple doses of 10 mg amlodipine with 80 mg simvastatin resulted in a 77% increase in exposure to simvastatin compared to simvastatin alone. It is recommended to limit the dose of simvastatin to 20 mg daily in patients on amlodipine.                                                                                                                                                             |
-|                                    | Dantrolene (infusion)                                                                                                                                                           | In animals, lethal ventricular fibrillation and cardiovascular collapse are observed in association with hyperkalaemia after administration of verapamil and intravenous dantrolene. Due to risk of hyperkalaemia, it is recommended that the co-administration of calcium channel blockers such as amlodipine be avoided in patients susceptible to malignant hyperthermia and in the management of malignant hyperthermia. |
-|                                    | Tacrolimus                                                                                                                                                                      | There is a risk of increased tacrolimus blood levels when co-administered with amlodipine. In order to avoid toxicity of tacrolimus, administration of amlodipine in a patient treated with tacrolimus requires monitoring of tacrolimus blood levels and dose adjustment of tacrolimus when appropriate.                                                                                                                    |
-| Valsartan and HCT                  | Non-steroidal anti- inflammatory drugs (NSAIDs), including selective cyclooxygenase-2 inhibitors (COX-2 inhibitors), acetylsalicylic acid (>3 g/day), and non- selective NSAIDs | NSAIDS can attenuate the antihypertensive effect of both angiotensin II antagonists and hydrochlorothiazide when administered simultaneously. Furthermore, concomitant use of Copalia HCT and NSAIDs may lead to worsening of renal function and an increase in serum potassium. Therefore, monitoring of renal function at the beginning of the treatment is recommended, as well as adequate hydration of the patient.     |
+| Copalia HCT individual component   | Known interactions with the following agents                                                                                                                        | Effect of the interaction with other medicinal products                                                                                                                                                                                                                                                                                                                                                                  |
+|------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Amlodipine                         | CYP3A4 inhibitors (i.e. ketoconazole, itraconazole, ritonavir)                                                                                                      | Concomitant use of amlodipine with strong or moderate CYP3A4 inhibitors (protease inhibitors, azole antifungals, macrolides like erythromycin or clarithromycin, verapamil or diltiazem) may give rise to significant increase in amlodipine exposure. The clinical translation of these pharmacokinetic variations may be more pronounced in the elderly. Clinical monitoring and dose adjustment may thus be required. |
+|                                    | CYP3A4 inducers (anticonvulsant agents [e.g. carbamazepine, phenobarbital, phenytoin, fosphenytoin, primidone], rifampicin, Hypericum perforatum [St. John's wort]) | Upon co-administration of known inducers of the CYP3A4, the plasma concentration of amlodipine may vary. Therefore, blood pressure should be monitored and dose regulation considered both during and after concomitant medication particularly with strong CYP3A4 inducers (e.g. rifampicin, hypericum perforatum).                                                                                                     |
+|                                    | Simvastatin                                                                                                                                                         | Co-administration of multiple doses of 10 mg amlodipine with 80 mg simvastatin resulted in a 77% increase in exposure to simvastatin compared to simvastatin alone. It is recommended to limit the dose of simvastatin to 20 mg daily in patients on amlodipine.                                                                                                                                                         |
 
 <div style=\"page-break-after: always\"></div>
 
-| Valsartan   | Inhibitors of the uptake transporter (rifampicin, ciclosporin) or efflux transporter (ritonavir)   | The results of an in vitro study with human liver tissue indicate that valsartan is a substrate of the hepatic uptake transporter OATP1B1 and of the hepatic efflux transporter MRP2. Co-administration of inhibitors of the uptake transporter (rifampicin, ciclosporin) or efflux transporter (ritonavir) may increase the systemic exposure to valsartan.                                                         |
-|-------------|----------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| HCT         | Alcohol, barbiturates or narcotics                                                                 | Concomitant administration of thiazide diuretics with substances that also have a blood pressure lowering effect (e.g. by reducing sympathetic central nervous system activity or direct vasodilatation) may potentiate orthostatic hypotension.                                                                                                                                                                     |
-|             | Amantadine                                                                                         | Thiazides, including hydrochlorothiazide, may increase the risk of adverse reactions caused by amantadine.                                                                                                                                                                                                                                                                                                           |
-|             | Anticholinergic agents and other medicinal products affecting gastric motility                     | The bioavailability of thiazide-type diuretics may be increased by anticholinergic agents (e.g. atropine, biperiden), apparently due to a decrease in gastrointestinal motility and the stomach emptying rate. Conversely, it is anticipated that prokinetic substances such as cisapride may decrease the bioavailability of thiazide-type diuretics.                                                               |
-|             | Antidiabetic agents (e.g. insulin and oral antidiabetic agents) - Metformin                        | Thiazides may alter glucose tolerance. Dose adjustment of the antidiabetic medicinal product may be necessary.                                                                                                                                                                                                                                                                                                       |
-|             | blockers                                                                                           | Metformin should be used with caution because of the risk of lactic acidosis induced by possible functional renal failure linked to hydrochlorothiazide.                                                                                                                                                                                                                                                             |
-|             | Beta and diazoxide                                                                                 | Concomitant use of thiazide diuretics, including hydrochlorothiazide, with beta blockers may increase the risk of hyperglycaemia. Thiazide diuretics, including hydrochlorothiazide, may enhance the hyperglycaemic effect of diazoxide.                                                                                                                                                                             |
-|             | Ciclosporin                                                                                        | Concomitant treatment with ciclosporin may increase the risk of hyperuricaemia and gout-type complications.                                                                                                                                                                                                                                                                                                          |
-|             | Cytotoxic agents                                                                                   | Thiazides, including hydrochlorothiazide, may reduce the renal excretion of cytotoxic agents (e.g. cyclophosphamide, methotrexate) and potentiate their myelosuppressive effects.                                                                                                                                                                                                                                    |
-|             | Digitalis glycosides                                                                               | Thiazide-induced hypokalaemia or hypomagnesaemia may occur as undesirable effects, favouring the onset of digitalis-induced cardiac arrhythmias.                                                                                                                                                                                                                                                                     |
-|             | Iodine contrasting agents                                                                          | In case of diuretic-induced dehydration, there is an increased risk of acute renal failure, especially with high doses of iodine products. Patients should be re-hydrated before the administration.                                                                                                                                                                                                                 |
-|             | Ion exchange resins                                                                                | Absorption of thiazide diuretics, including hydrochlorothiazide, is decreased by cholestyramine or colestipol. This could result in sub-therapeutic effects of thiazide diuretics. However, staggering the dosage of hydrochlorothiazide and resin such that hydrochlorothiazide is administered at least 4 hours before or 4-6 hours after the administration of resins would potentially minimise the interaction. |
+|                   | Dantrolene (infusion)                                                                                                                                                           | In animals, lethal ventricular fibrillation and cardiovascular collapse are observed in association with hyperkalaemia after administration of verapamil and intravenous dantrolene. Due to risk of hyperkalaemia, it is recommended that the co-administration of calcium channel blockers such as amlodipine be avoided in patients susceptible to malignant hyperthermia and in the management of malignant hyperthermia.   |
+|-------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+|                   | Tacrolimus                                                                                                                                                                      | There is a risk of increased tacrolimus blood levels when co-administered with amlodipine. In order to avoid toxicity of tacrolimus, administration of amlodipine in a patient treated with tacrolimus requires monitoring of tacrolimus blood levels and dose adjustment of tacrolimus when appropriate.                                                                                                                      |
+| Valsartan and HCT | Non-steroidal anti- inflammatory drugs (NSAIDs), including selective cyclooxygenase-2 inhibitors (COX-2 inhibitors), acetylsalicylic acid (>3 g/day), and non- selective NSAIDs | NSAIDS can attenuate the antihypertensive effect of both angiotensin II antagonists and hydrochlorothiazide when administered simultaneously. Furthermore, concomitant use of Copalia HCT and NSAIDs may lead to worsening of renal function and an increase in serum potassium. Therefore, monitoring of renal function at the beginning of the treatment is recommended, as well as adequate hydration of the patient.       |
+| Valsartan         | Inhibitors of the uptake transporter (rifampicin, ciclosporin) or efflux transporter (ritonavir)                                                                                | The results of an in vitro study with human liver tissue indicate that valsartan is a substrate of the hepatic uptake transporter OATP1B1 and of the hepatic efflux transporter MRP2. Co-administration of inhibitors of the uptake transporter (rifampicin, ciclosporin) or efflux transporter (ritonavir) may increase the systemic exposure to valsartan.                                                                   |
+| HCT               | Alcohol, barbiturates or narcotics                                                                                                                                              | Concomitant administration of thiazide diuretics with substances that also have a blood pressure lowering effect (e.g. by reducing sympathetic central nervous system activity or direct vasodilatation) may potentiate orthostatic hypotension.                                                                                                                                                                               |
+|                   | Amantadine                                                                                                                                                                      | Thiazides, including hydrochlorothiazide, may increase the risk of adverse reactions caused by amantadine.                                                                                                                                                                                                                                                                                                                     |
+|                   | Anticholinergic agents and other medicinal products affecting gastric motility                                                                                                  | The bioavailability of thiazide-type diuretics may be increased by anticholinergic agents (e.g. atropine, biperiden), apparently due to a decrease in gastrointestinal motility and the stomach emptying rate. Conversely, it is anticipated that prokinetic substances such as cisapride may decrease the bioavailability of thiazide-type diuretics.                                                                         |
+|                   | Antidiabetic agents (e.g. insulin and oral antidiabetic agents)                                                                                                                 | Thiazides may alter glucose tolerance. Dose adjustment of the antidiabetic medicinal product may be necessary.                                                                                                                                                                                                                                                                                                                 |
+|                   | - Metformin                                                                                                                                                                     | Metformin should be used with caution because of the risk of lactic acidosis induced by possible functional renal failure linked to hydrochlorothiazide.                                                                                                                                                                                                                                                                       |
+|                   | Beta blockers and diazoxide                                                                                                                                                     | Concomitant use of thiazide diuretics, including hydrochlorothiazide, with beta blockers may increase the risk of hyperglycaemia. Thiazide diuretics, including hydrochlorothiazide, may enhance the hyperglycaemic effect of diazoxide.                                                                                                                                                                                       |
+|                   | Ciclosporin                                                                                                                                                                     | Concomitant treatment with ciclosporin may increase the risk of hyperuricaemia and gout-type complications.                                                                                                                                                                                                                                                                                                                    |
 
 <div style=\"page-break-after: always\"></div>
 
-| Medicinal products affecting serum potassium level                                            | The hypokalaemic effect of hydrochlorothiazide may be increased by concomitant administration of kaliuretic diuretics, corticosteroids, laxatives, adrenocorticotropic hormone (ACTH), amphotericin, carbenoxolone, penicillin G and salicylic acid derivatives or antiarrhythmics. If these medicinal products are to be prescribed with the amlodipine /valsartan /hydrochlorothiazide combination, monitoring of   |
-|-----------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Medicinal products affecting serum sodium level                                               | The hyponatraemic effect of diuretics may be intensified by concomitant administration of medicinal products such as antidepressants, antipsychotics, antiepileptics, etc. Caution is indicated in long-term administration of these medicinal products.                                                                                                                                                              |
-| Medicinal products that could induce torsades de pointes                                      | Due to the risk of hypokalaemia, hydrochlorothiazide should be administered with caution when associated with medicinal products that could induce torsades de pointes , in particular Class Ia and Class III antiarrhythmics and some antipsychotics.                                                                                                                                                                |
-| Medicinal products used in the treatment of gout (probenecid, sulfinpyrazone and allopurinol) | Dose adjustment of uricosuric medicinal products may be necessary as hydrochlorothiazide may raise the level of serum uric acid. Increase of dose of probenecid or sulfinpyrazone may be necessary. Co-administration of thiazide diuretics, including hydrochlorothiazide, may increase the incidence of hypersensitivity reactions to allopurinol.                                                                  |
-| Methyldopa                                                                                    | There have been isolated reports of haemolytic anaemia occurring with concomitant use of hydrochlorothiazide and methyldopa.                                                                                                                                                                                                                                                                                          |
-| Non-depolarising skeletal muscle relaxants (e.g. tubocurarine)                                | Thiazides, including hydrochlorothiazide, potentiate the action of curare derivatives.                                                                                                                                                                                                                                                                                                                                |
-| Other anti-hypertensive medicinal products                                                    | Thiazides potentiate the antihypertensive action of other antihypertensive drugs (e.g. guanethidine, methyldopa, beta-blockers, vasodilators, calcium channel blockers, ACE inhibitors, ARBs and Direct Renin Inhibitors [DRIs]).                                                                                                                                                                                     |
-| Pressor amines (e.g. noradrenaline, adrenaline)                                               | Hydrochlorothiazide may reduce the response to pressor amines such as noradrenaline. The clinical significance of this effect is uncertain and not sufficient to preclude their use.                                                                                                                                                                                                                                  |
-| Vitamin D and calcium salts                                                                   | Administration of thiazide diuretics, including hydrochlorothiazide, with vitamin D or with calcium salts may potentiate the rise in serum calcium. Concomitant use of thiazide type diuretics may lead to hypercalcaemia in patients pre-disposed for hypercalcaemia (e.g. hyperparathyroidism, malignancy or vitamin-D-mediated conditions) by increasing tubular calcium reabsorption.                             |
+| Cytotoxic agents                                                                              | Thiazides, including hydrochlorothiazide, may reduce the renal excretion of cytotoxic agents (e.g. cyclophosphamide, methotrexate) and potentiate their myelosuppressive effects.                                                                                                                                                                                                                                    |
+|-----------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Digitalis glycosides                                                                          | Thiazide-induced hypokalaemia or hypomagnesaemia may occur as undesirable effects, favouring the onset of digitalis-induced cardiac arrhythmias.                                                                                                                                                                                                                                                                     |
+| Iodine contrasting agents                                                                     | In case of diuretic-induced dehydration, there is an increased risk of acute renal failure, especially with high doses of iodine products. Patients should be re-hydrated before the administration.                                                                                                                                                                                                                 |
+| Ion exchange resins                                                                           | Absorption of thiazide diuretics, including hydrochlorothiazide, is decreased by cholestyramine or colestipol. This could result in sub-therapeutic effects of thiazide diuretics. However, staggering the dosage of hydrochlorothiazide and resin such that hydrochlorothiazide is administered at least 4 hours before or 4-6 hours after the administration of resins would potentially minimise the interaction. |
+| Medicinal products affecting serum potassium level                                            | The hypokalaemic effect of hydrochlorothiazide may be increased by concomitant administration of kaliuretic diuretics, corticosteroids, laxatives, adrenocorticotropic hormone (ACTH), amphotericin, carbenoxolone, penicillin G and salicylic acid derivatives or antiarrhythmics. If these medicinal products are to be prescribed with the amlodipine /valsartan /hydrochlorothiazide combination, monitoring of  |
+| Medicinal products affecting serum sodium level                                               | The hyponatraemic effect of diuretics may be intensified by concomitant administration of medicinal products such as antidepressants, antipsychotics, antiepileptics, etc. Caution is indicated in long-term administration of these medicinal products.                                                                                                                                                             |
+| Medicinal products that could induce torsades de pointes                                      | Due to the risk of hypokalaemia, hydrochlorothiazide should be administered with caution when associated with medicinal products that could induce torsades de pointes , in particular Class Ia and Class III antiarrhythmics and some antipsychotics.                                                                                                                                                               |
+| Medicinal products used in the treatment of gout (probenecid, sulfinpyrazone and allopurinol) | Dose adjustment of uricosuric medicinal products may be necessary as hydrochlorothiazide may raise the level of serum uric acid. Increase of dose of probenecid or sulfinpyrazone may be necessary. Co-administration of thiazide diuretics, including hydrochlorothiazide, may increase the incidence of hypersensitivity reactions to allopurinol.                                                                 |
+| Methyldopa                                                                                    | There have been isolated reports of haemolytic anaemia occurring with concomitant use of hydrochlorothiazide and methyldopa.                                                                                                                                                                                                                                                                                         |
+| Non-depolarising skeletal muscle relaxants (e.g. tubocurarine)                                | Thiazides, including hydrochlorothiazide, potentiate the action of curare derivatives.                                                                                                                                                                                                                                                                                                                               |
+| Other anti-hypertensive medicinal products                                                    | Thiazides potentiate the antihypertensive action of other antihypertensive drugs (e.g. guanethidine, methyldopa, beta-blockers, vasodilators, calcium channel blockers, ACE inhibitors, ARBs and Direct Renin Inhibitors [DRIs]).                                                                                                                                                                                    |
+
+<div style=\"page-break-after: always\"></div>
+
+| Pressor amines (e.g. noradrenaline, adrenaline)   | Hydrochlorothiazide may reduce the response to pressor amines such as noradrenaline. The clinical significance of this effect is uncertain and not sufficient to preclude their use.                                                                                                                                                                                                      |
+|---------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Vitamin D and calcium salts                       | Administration of thiazide diuretics, including hydrochlorothiazide, with vitamin D or with calcium salts may potentiate the rise in serum calcium. Concomitant use of thiazide type diuretics may lead to hypercalcaemia in patients pre-disposed for hypercalcaemia (e.g. hyperparathyroidism, malignancy or vitamin-D-mediated conditions) by increasing tubular calcium reabsorption. |
 
 ## Dual blockade of the RAAS with ARBs, ACE inhibitors or aliskiren
 
 Clinical trial data have shown that dual blockade of the RAAS through the combined use of ACE inhibitors, ARBs or aliskiren is associated with a higher frequency of adverse events such as hypotension, hyperkalaemia and decreased renal function (including acute renal failure) compared to the use of a single RAAS-acting agent (see sections 4.3, 4.4 and 5.1).
-
-<div style=\"page-break-after: always\"></div>
 
 ## 4.6 Fertility, pregnancy and lactation
 
@@ -366,13 +368,13 @@ Infants whose mothers have taken AIIRAs should be closely observed for hypotensi
 
 There is limited experience with hydrochlorothiazide during pregnancy, especially during the first trimester. Animal studies are insufficient.
 
+<div style=\"page-break-after: always\"></div>
+
 Hydrochlorothiazide crosses the placenta. Based on the pharmacological mechanism of action of hydrochlorothiazide, its use during the second and third trimester may compromise foeto-placental perfusion and may cause foetal and neonatal effects like icterus, disturbance of electrolyte balance and thrombocytopenia.
 
 ## Amlodipine/valsartan/hydrochlorothiazide
 
 There is no experience on the use of Copalia HCT in pregnant women. Based on the existing data with the components, the use of Copalia HCT is not recommended during first trimester and contraindicated during the second and third trimester of pregnancy (see sections 4.3 and 4.4).
-
-<div style=\"page-break-after: always\"></div>
 
 ## Breast-feeding
 
@@ -384,7 +386,7 @@ There are no clinical studies on fertility with Copalia HCT.
 
 ## Valsartan
 
-Valsartan had no adverse effects on the reproductive performance of male or female rats at oral doses up to 200 mg/kg/day. This dose is 6 times the maximum recommended human dose on a mg/m 2 basis (calculations assume an oral dose of 320 mg/day and a 60-kg patient).
+Valsartan had no adverse effects on the reproductive performance of male or female rats at oral doses up to 200 mg/kg/day. This dose is 6 times the maximum recommended human dose on a mg/m 2  basis (calculations assume an oral dose of 320 mg/day and a 60-kg patient).
 
 ## Amlodipine
 
@@ -402,11 +404,13 @@ The safety profile of Copalia HCT presented below is based on clinical studies p
 
 ## Summary of the safety profile
 
-The safety of Copalia HCT has been evaluated at its maximum dose of 10 mg/320 mg/25 mg in one controlled short-term (8 weeks) clinical study with 2,271 patients, 582 of whom received valsartan in combination with amlodipine and hydrochlorothiazide. Adverse reactions were generally mild and transient in nature and only infrequently required discontinuation of therapy. In this active controlled clinical trial, the most common reasons for discontinuation of therapy with Copalia HCT were dizziness and hypotension (0.7%).
-
-In the 8-week controlled clinical study, no significant new or unexpected adverse reactions were observed with triple therapy treatment compared to the known effects of the monotherapy or dual therapy components.
+The safety of Copalia HCT has been evaluated at its maximum dose of 10 mg/320 mg/25 mg in one controlled short-term (8 weeks) clinical study with 2,271 patients, 582 of whom received valsartan in combination with amlodipine and hydrochlorothiazide. Adverse reactions were generally mild and transient in nature and only infrequently required discontinuation of therapy. In this active controlled
 
 <div style=\"page-break-after: always\"></div>
+
+clinical trial, the most common reasons for discontinuation of therapy with Copalia HCT were dizziness and hypotension (0.7%).
+
+In the 8-week controlled clinical study, no significant new or unexpected adverse reactions were observed with triple therapy treatment compared to the known effects of the monotherapy or dual therapy components.
 
 In the 8-week controlled clinical study, changes in laboratory parameters observed with the combination of Copalia HCT were minor and consistent with the pharmacological mechanism of action of the monotherapy agents. The presence of valsartan in the triple combination attenuated the hypokalaemic effect of hydrochlorothiazide.
 
@@ -482,48 +486,49 @@ The following adverse reactions, listed by MedDRA System Organ Class and frequen
 
 <div style=\"page-break-after: always\"></div>
 
-| Gastrointestinal disorders     | Abdominal discomfort, abdominal pain upper                                                  | Uncommon   | Common      | Uncommon   | Rare      |
-|--------------------------------|---------------------------------------------------------------------------------------------|------------|-------------|------------|-----------|
-| Gastrointestinal disorders     | Breath odour                                                                                | Uncommon   | --          | --         | --        |
-| Gastrointestinal disorders     | Change of bowel habit                                                                       | --         | Uncommon    | --         | --        |
-| Gastrointestinal disorders     | Constipation                                                                                | --         | --          | --         | Rare      |
-| Gastrointestinal disorders     | Decreased appetite                                                                          | --         | --          | --         | Common    |
-| Gastrointestinal disorders     | Diarrhoea                                                                                   | Uncommon   | Uncommon    | --         | Rare      |
-| Gastrointestinal disorders     | Dry mouth                                                                                   | Uncommon   | Uncommon    | --         | --        |
-| Gastrointestinal disorders     | Dyspepsia                                                                                   | Common     | Uncommon    | --         | --        |
-| Gastrointestinal disorders     | Gastritis                                                                                   | --         | Very rare   | --         | --        |
-| Gastrointestinal disorders     | Gingival hyperplasia                                                                        | --         | Very rare   | --         | --        |
-| Gastrointestinal disorders     | Nausea                                                                                      | Uncommon   | Common      | --         | Common    |
-| Gastrointestinal disorders     | Pancreatitis                                                                                | --         | Very rare   | --         | Very rare |
-| Gastrointestinal disorders     | Vomiting                                                                                    | Uncommon   | Uncommon    | --         | Common    |
-| Gastrointestinal disorders     | Intestinal angioedema                                                                       | --         | --          | Very rare  | --        |
-| Hepatobiliary disorders        | Liver function test abnormal, including blood bilirubin increase                            | --         | Very rare** | Not known  | --        |
-| Hepatobiliary disorders        | Hepatitis                                                                                   | --         | Very rare   | --         | --        |
-| Hepatobiliary disorders        | Intrahepatic cholestasis, jaundice                                                          | --         | Very rare   | --         | Rare      |
-| Skin and subcutaneous          | Alopecia                                                                                    | --         | Uncommon    | --         |           |
-| tissue disorders               | Angioedema                                                                                  | --         | Very rare   | Not known  | --        |
-| tissue disorders               | Dermatitis bullous                                                                          | --         | --          | Not known  | --        |
-| tissue disorders               | Cutaneous lupus erythematosus-like reactions, reactivation of cutaneous lupus erythematosus | --         | --          | --         | Very rare |
-| tissue disorders               | Erythema multiforme                                                                         | --         | Very rare   | --         | Not known |
-| tissue disorders               | Exanthema                                                                                   | --         | Uncommon    | --         | --        |
-| tissue disorders               | Hyperhidrosis                                                                               | Uncommon   | Uncommon    | --         | --        |
-| tissue disorders               | Photosensitivity reaction*                                                                  | --         | Very rare   | --         | Rare      |
-| tissue disorders               | Pruritus                                                                                    | Uncommon   | Uncommon    | Not known  | --        |
-| tissue disorders               | Purpura                                                                                     | --         | Uncommon    | --         | Rare      |
-| tissue disorders               | Rash                                                                                        | --         | Uncommon    | Not known  | Common    |
-| tissue disorders               | Skin discoloration                                                                          | --         | Uncommon    | --         | --        |
-| tissue disorders               | Urticaria and other forms of rash                                                           | --         | Very rare   | --         | Common    |
-| tissue disorders               | Vasculitis necrotising and toxic epidermal necrolysis                                       | --         | Not known   | --         | Very rare |
-| tissue disorders               | Exfoliative dermatitis                                                                      | --         | Very rare   | --         | --        |
-| tissue disorders               | Stevens-Johnson syndrome                                                                    | --         | Very rare   | --         | --        |
-| tissue disorders               | Quincke oedema                                                                              | --         | Very rare   | --         | --        |
-| Musculoskeletal and connective | Arthralgia                                                                                  | --         | Uncommon    | --         | --        |
-| Musculoskeletal and connective | Back pain                                                                                   | Uncommon   | Uncommon    | --         | --        |
-| tissue disorders               | Joint swelling                                                                              | Uncommon   | --          | --         | --        |
-| Musculoskeletal and connective | Muscle spasm                                                                                | Uncommon   | Uncommon    | --         | Not known |
-| Musculoskeletal and connective | Muscular weakness                                                                           | Uncommon   | --          | --         | --        |
-| Musculoskeletal and connective | Myalgia                                                                                     | Uncommon   | Uncommon    | Not known  | --        |
-| Musculoskeletal and connective | Pain in extremity                                                                           | Uncommon   | --          | --         | --        |
+| Gastrointestinal disorders             | Abdominal discomfort, abdominal pain upper                                                  | Uncommon   | Common      | Uncommon   | Rare      |
+|----------------------------------------|---------------------------------------------------------------------------------------------|------------|-------------|------------|-----------|
+| Gastrointestinal disorders             | Breath odour                                                                                | Uncommon   | --          | --         | --        |
+| Gastrointestinal disorders             | Change of bowel habit                                                                       | --         | Uncommon    | --         | --        |
+| Gastrointestinal disorders             | Constipation                                                                                | --         | --          | --         | Rare      |
+| Gastrointestinal disorders             | Decreased appetite                                                                          | --         | --          | --         | Common    |
+| Gastrointestinal disorders             | Diarrhoea                                                                                   | Uncommon   | Uncommon    | --         | Rare      |
+| Gastrointestinal disorders             | Dry mouth                                                                                   | Uncommon   | Uncommon    | --         | --        |
+| Gastrointestinal disorders             | Dyspepsia                                                                                   | Common     | Uncommon    | --         | --        |
+| Gastrointestinal disorders             | Gastritis                                                                                   | --         | Very rare   | --         | --        |
+| Gastrointestinal disorders             | Gingival hyperplasia                                                                        | --         | Very rare   | --         | --        |
+| Gastrointestinal disorders             | Nausea                                                                                      | Uncommon   | Common      | --         | Common    |
+| Gastrointestinal disorders             | Pancreatitis                                                                                | --         | Very rare   | --         | Very rare |
+| Gastrointestinal disorders             | Vomiting                                                                                    | Uncommon   | Uncommon    | --         | Common    |
+| Gastrointestinal disorders             | Intestinal angioedema                                                                       | --         | --          | Very rare  | --        |
+| Hepatobiliary disorders                | Liver function test abnormal, including blood bilirubin increase                            | --         | Very rare** | Not known  | --        |
+| Hepatobiliary disorders                | Hepatitis                                                                                   | --         | Very rare   | --         | --        |
+| Hepatobiliary disorders                | Intrahepatic cholestasis, jaundice                                                          | --         | Very rare   | --         | Rare      |
+| Skin and subcutaneous tissue disorders | Alopecia                                                                                    | --         | Uncommon    | --         |           |
+| Skin and subcutaneous tissue disorders | Angioedema                                                                                  | --         | Very rare   | Not known  | --        |
+| Skin and subcutaneous tissue disorders | Dermatitis bullous                                                                          | --         | --          | Not known  | --        |
+| Skin and subcutaneous tissue disorders | Cutaneous lupus erythematosus-like reactions, reactivation of cutaneous lupus erythematosus | --         | --          | --         | Very rare |
+| Skin and subcutaneous tissue disorders | Erythema multiforme                                                                         | --         | Very rare   | --         | Not known |
+| Skin and subcutaneous tissue disorders | Exanthema                                                                                   | --         | Uncommon    | --         | --        |
+| Skin and subcutaneous tissue disorders | Hyperhidrosis                                                                               | Uncommon   | Uncommon    | --         | --        |
+| Skin and subcutaneous tissue disorders | Photosensitivity reaction*                                                                  | --         | Very rare   | --         | Rare      |
+| Skin and subcutaneous tissue disorders | Pruritus                                                                                    | Uncommon   | Uncommon    | Not known  | --        |
+| Skin and subcutaneous tissue disorders | Purpura                                                                                     | --         | Uncommon    | --         | Rare      |
+| Skin and subcutaneous tissue disorders | Rash                                                                                        | --         | Uncommon    | Not known  | Common    |
+| Skin and subcutaneous tissue disorders | Skin discoloration                                                                          | --         | Uncommon    | --         | --        |
+| Skin and subcutaneous tissue disorders | Urticaria and other forms of rash                                                           | --         | Very rare   | --         | Common    |
+| Skin and subcutaneous tissue disorders | Vasculitis necrotising and toxic epidermal necrolysis                                       | --         | Not known   | --         | Very rare |
+| Skin and subcutaneous tissue disorders | Exfoliative dermatitis                                                                      | --         | Very rare   | --         | --        |
+| Skin and subcutaneous tissue disorders | Stevens-Johnson syndrome                                                                    | --         | Very rare   | --         | --        |
+| Skin and subcutaneous tissue disorders | Quincke oedema                                                                              | --         | Very rare   | --         | --        |
+| Musculoskeletal and connective         | Arthralgia                                                                                  | --         | Uncommon    | --         | --        |
+| Musculoskeletal and connective         | Back pain                                                                                   | Uncommon   | Uncommon    | --         | --        |
+| Musculoskeletal and connective         | Joint swelling                                                                              | Uncommon   | --          | --         | --        |
+| Musculoskeletal and connective         | Muscle spasm                                                                                | Uncommon   | Uncommon    | --         | Not known |
+| Musculoskeletal and connective         | Muscular weakness                                                                           | Uncommon   | --          | --         | --        |
+| Musculoskeletal and connective         | Myalgia                                                                                     | Uncommon   | Uncommon    | Not known  | --        |
+| Musculoskeletal and connective         | Pain in extremity                                                                           | Uncommon   | --          | --         | --        |
+| Musculoskeletal and connective         | Ankle swelling                                                                              | --         | Common      | --         | --        |
 
 <div style=\"page-break-after: always\"></div>
 
@@ -606,13 +611,13 @@ Pharmacotherapeutic group: Agents acting on the renin-angiotensin system, angiot
 
 Copalia HCT combines three antihypertensive compounds with complementary mechanisms to control blood pressure in patients with essential hypertension: amlodipine belongs to the calcium antagonist class and valsartan to the angiotensin II antagonist class of medicines and hydrochlorothiazide belongs to the thiazide diuretics class of medicines. The combination of these substances has an additive antihypertensive effect.
 
-<div style=\"page-break-after: always\"></div>
-
 ## Amlodipine/Valsartan/Hydrochlorothiazide
 
 ## Clinical efficacy and safety
 
 Copalia HCT was studied in a double-blind, active controlled study in hypertensive patients. A total of 2,271 patients with moderate to severe hypertension (mean baseline systolic/diastolic blood pressure was 170/107 mmHg) received treatments of amlodipine/valsartan/hydrochlorothiazide 10 mg/320 mg/25 mg, valsartan/hydrochlorothiazide 320 mg/25 mg, amlodipine/valsartan 10 mg/320 mg, or hydrochlorothiazide/amlodipine 25 mg/10 mg. At study initiation patients were assigned lower doses of their treatment combination and were titrated to their full treatment dose by week 2.
+
+<div style=\"page-break-after: always\"></div>
 
 At week 8, the mean reductions in systolic/diastolic blood pressure were 39.7/24.7 mmHg with Copalia HCT, 32.0/19.7 mmHg with valsartan/hydrochlorothiazide, 33.5/21.5 mmHg with amlodipine/valsartan, and 31.5/19.5 mmHg with amlodipine/hydrochlorothiazide. The triple combination therapy was statistically superior to each of the three dual combination treatments in reduction of diastolic and systolic blood pressures. The reductions in systolic/diastolic blood pressure with Copalia HCT were 7.6/5.0 mmHg greater than with valsartan/hydrochlorothiazide, 6.2/3.3 mmHg greater than with amlodipine/valsartan, and 8.2/5.3 mmHg greater than with amlodipine/hydrochlorothiazide. The full blood pressure lowering effect was achieved 2 weeks after being on their maximal dose of Copalia HCT. Statistically greater proportions of patients achieved blood pressure control (&lt;140/90 mmHg) with Copalia HCT (71%) compared to each of the three dual combination therapies (45-54%) (p&lt;0.0001).
 
@@ -634,13 +639,13 @@ Plasma concentrations correlate with effect in both young and elderly patients.
 
 In hypertensive patients with normal renal function, therapeutic doses of amlodipine resulted in a decrease in renal vascular resistance and increases in glomerular filtration rate and effective renal plasma flow, without change in filtration fraction or proteinuria.
 
-<div style=\"page-break-after: always\"></div>
-
 As with other calcium channel blockers, haemodynamic measurements of cardiac function at rest and during exercise (or pacing) in patients with normal ventricular function treated with amlodipine have generally demonstrated a small increase in cardiac index without significant influence on dP/dt or on left ventricular end diastolic pressure or volume. In haemodynamic studies, amlodipine has not been associated with a negative inotropic effect when administered in the therapeutic dose range to intact animals and humans, even when co-administered with beta blockers to humans.
 
 Amlodipine does not change sinoatrial nodal function or atrioventricular conduction in intact animals or humans. In clinical studies in which amlodipine was administered in combination with beta blockers to patients with either hypertension or angina, no adverse effects on electrocardiographic parameters were observed.
 
 Amlodipine has been studied in patients with chronic stable angina, vasospastic angina and angiographically documented coronary artery disease.
+
+<div style=\"page-break-after: always\"></div>
 
 ## Clinical efficacy and safety
 
@@ -664,8 +669,6 @@ Administration of valsartan to patients with hypertension results in a drop in b
 
 In most patients, after administration of a single oral dose, onset of antihypertensive activity occurs within 2 hours, and the peak drop in blood pressure is achieved within 4-6 hours. The antihypertensive effect persists over 24 hours after administration. During repeated administration, the maximum reduction in blood pressure with any dose is generally attained within 2-4 weeks.
 
-<div style=\"page-break-after: always\"></div>
-
 ## Hydrochlorothiazide
 
 ## Mechanism of action
@@ -674,7 +677,11 @@ The site of action of thiazide diuretics is primarily in the renal distal convol
 
 ## Non-melanoma skin cancer
 
-Based on available data from epidemiological studies, cumulative dose-dependent association between hydrochlorothiazide and NMSC has been observed. One study included a population comprised of 71,533 cases of BCC and of 8,629 cases of SCC matched to 1,430,833 and 172,462 population controls, respectively. High hydrochlorothiazide use (≥50000 mg cumulative) was associated with an adjusted odds ratio (OR) of 1.29 (95% CI: 1.23-1.35) for BCC and 3.98 (95% CI: 3.68-4.31) for SCC. A clear cumulative dose response relationship was observed for both BCC and SCC. Another study showed a possible association between lip cancer (SCC) and exposure to hydrochlorothiazide: 633 cases of lip cancer were matched with 63,067 population controls, using a risk-set sampling strategy. A cumulative dose-response relationship was demonstrated with an adjusted OR 2.1 (95% CI: 1.7-2.6) increasing to OR 3.9 (3.0-4.9) for high use (~25000 mg) and OR 7.7 (5.7-10.5) for the highest cumulative dose (~100000 mg) (see also section 4.4).
+Based on available data from epidemiological studies, cumulative dose-dependent association between hydrochlorothiazide and NMSC has been observed. One study included a population comprised of 71,533 cases of BCC and of 8,629 cases of SCC matched to 1,430,833 and 172,462 population controls, respectively. High hydrochlorothiazide use (≥50000 mg cumulative) was associated with an adjusted odds ratio (OR) of 1.29 (95% CI: 1.23-1.35) for BCC and 3.98 (95% CI: 3.68-4.31) for SCC.
+
+<div style=\"page-break-after: always\"></div>
+
+A clear cumulative dose response relationship was observed for both BCC and SCC. Another study showed a possible association between lip cancer (SCC) and exposure to hydrochlorothiazide: 633 cases of lip cancer were matched with 63,067 population controls, using a risk-set sampling strategy. A cumulative dose-response relationship was demonstrated with an adjusted OR 2.1 (95% CI: 1.7-2.6) increasing to OR 3.9 (3.0-4.9) for high use (~25000 mg) and OR 7.7 (5.7-10.5) for the highest cumulative dose (~100000 mg) (see also section 4.4).
 
 ## Paediatric population
 
@@ -690,8 +697,6 @@ These studies have shown no significant beneficial effect on renal and/or cardio
 
 ACE inhibitors and ARBs should therefore not be used concomitantly in patients with diabetic nephropathy (see section 4.4).
 
-<div style=\"page-break-after: always\"></div>
-
 ALTITUDE (Aliskiren Trial in Type 2 Diabetes Using Cardiovascular and Renal Disease Endpoints) was a study designed to test the benefit of adding aliskiren to a standard therapy of an ACE inhibitor or an ARB in patients with type 2 diabetes mellitus and chronic kidney disease, cardiovascular disease, or both. The study was terminated early because of an increased risk of adverse outcomes. Cardiovascular death and stroke were both numerically more frequent in the aliskiren group than in the placebo group and adverse events and serious adverse events of interest (hyperkalaemia, hypotension and renal dysfunction) were more frequently reported in the aliskiren group than in the placebo group.
 
 ## 5.2 Pharmacokinetic properties
@@ -703,6 +708,8 @@ Amlodipine, valsartan and hydrochlorothiazide exhibit linear pharmacokinetics.
 ## Amlodipine/valsartan/hydrochlorothiazide
 
 Following oral administration of Copalia HCT in normal healthy adults, peak plasma concentrations of amlodipine, valsartan and hydrochlorothiazide are reached in 6-8 hours, 3 hours, and 2 hours, respectively. The rate and extent of absorption of amlodipine, valsartan and hydrochlorothiazide from Copalia HCT are the same as when administered as individual dosage forms.
+
+<div style=\"page-break-after: always\"></div>
 
 ## Amlodipine
 
@@ -732,15 +739,13 @@ Following oral administration of valsartan alone, peak plasma concentrations of 
 
 The steady-state volume of distribution of valsartan after intravenous administration is about 17 litres, indicating that valsartan does not distribute into tissues extensively. Valsartan is highly bound to serum proteins (94-97%), mainly serum albumin.
 
-<div style=\"page-break-after: always\"></div>
-
 ## Biotransformation
 
 Valsartan is not transformed to a high extent as only about 20% of dose is recovered as metabolites. A hydroxy metabolite has been identified in plasma at low concentrations (less than 10% of the valsartan AUC). This metabolite is pharmacologically inactive.
 
 ## Elimination
 
-Valsartan shows multiexponential decay kinetics (t½α &lt;1 h and t½ß about 9 h). Valsartan is primarily eliminated in faeces (about 83% of dose) and urine (about 13% of dose), mainly as unchanged drug. Following intravenous administration, plasma clearance of valsartan is about 2 l/h and its renal clearance is 0.62 l/h (about 30% of total clearance). The half-life of valsartan is 6 hours.
+Valsartan shows multiexponential decay kinetics (t ½α &lt;1 h and t½ß about 9 h). Valsartan is primarily eliminated in faeces (about 83% of dose) and urine (about 13% of dose), mainly as unchanged drug. Following intravenous administration, plasma clearance of valsartan is about 2 l/h and its renal clearance is 0.62 l/h (about 30% of total clearance). The half-life of valsartan is 6 hours.
 
 ## Hydrochlorothiazide
 
@@ -749,6 +754,8 @@ Valsartan shows multiexponential decay kinetics (t½α &lt;1 h and t½ß about 9
 The absorption of hydrochlorothiazide, after an oral dose, is rapid (Tmax about 2 hours). The increase in mean AUC is linear and dose proportional in the therapeutic range.
 
 The effect of food on hydrochlorothiazide absorption, if any, has little clinical significance. Absolute bioavailability of hydrochlorothiazide is 70% after oral administration.
+
+<div style=\"page-break-after: always\"></div>
 
 ## Distribution
 
@@ -778,8 +785,6 @@ Limited data suggest that the systemic clearance of hydrochlorothiazide is reduc
 
 Since the three components are equally well tolerated in younger and elderly patients, normal dose regimens are recommended (see section 4.2).
 
-<div style=\"page-break-after: always\"></div>
-
 ## Renal impairment
 
 The pharmacokinetics of amlodipine are not significantly influenced by renal impairment. As expected for a compound where renal clearance accounts for only 30% of total plasma clearance, no correlation was seen between renal function and systemic exposure to valsartan.
@@ -790,7 +795,9 @@ In the presence of renal impairment, mean peak plasma levels and AUC values of h
 
 ## Hepatic impairment
 
-Very limited clinical data are available regarding amlodipine administration in patients with hepatic impairment. Patients with hepatic impairment have decreased clearance of amlodipine with resulting increase of approximately 40-60% in AUC. On average, in patients with mild to moderate chronic liver disease, exposure (measured by AUC values) to valsartan is twice that found in healthy volunteers (matched by age, sex and weight). Due to the valsartan component, Copalia HCT is contraindicated in patients with hepatic impairment (see sections 4.2 and 4.3).
+Very limited clinical data are available regarding amlodipine administration in patients with hepatic impairment. Patients with hepatic impairment have decreased clearance of amlodipine with resulting increase of approximately 40 -60% in AUC. On average, in patients with mild to moderate chronic liver disease, exposure (measured by AUC values) to valsartan is twice that found in healthy volunteers (matched by age, sex and weight). Due to the valsartan component, Copalia HCT is contraindicated in patients with hepatic impairment (see sections 4.2 and 4.3).
+
+<div style=\"page-break-after: always\"></div>
 
 ## 5.3 Preclinical safety data
 
@@ -812,11 +819,9 @@ Reproductive studies in rats and mice have shown delayed date of delivery, prolo
 
 There was no effect on the fertility of rats treated with amlodipine (males for 64 days and females 14 days prior to mating) at doses up to 10 mg/kg/day (8 times* the maximum recommended human dose of 10 mg on a mg/m 2 basis). In another rat study in which male rats were treated with amlodipine besilate for 30 days at a dose comparable with the human dose based on mg/kg, decreased plasma follicle-stimulating hormone and testosterone were found as well as decreases in sperm density and in the number of mature spermatids and Sertoli cells.
 
-<div style=\"page-break-after: always\"></div>
-
 ## Carcinogenesis, mutagenesis
 
-Rats and mice treated with amlodipine in the diet for two years, at concentrations calculated to provide daily dosage levels of 0.5, 1.25, and 2.5 mg/kg/day showed no evidence of carcinogenicity. The highest dose (for mice, similar to, and for rats twice* the maximum recommended clinical dose of 10 mg on a mg/m 2 basis) was close to the maximum tolerated dose for mice but not for rats.
+Rats and mice treated with amlodipine in the diet for two years, at concentrations calculated to provide daily dosage levels of 0.5, 1.25, and 2.5 mg/kg/day showed no evidence of carcinogenicity. The highest dose (for mice, similar to, and for rats twice* the maximum recommended clinical dose of 10 mg on a mg/m 2  basis) was close to the maximum tolerated dose for mice but not for rats.
 
 Mutagenicity studies revealed no drug related effects at either the gene or chromosome levels.
 
@@ -826,9 +831,11 @@ Mutagenicity studies revealed no drug related effects at either the gene or chro
 
 Non-clinical data reveal no special hazard for humans based on conventional studies of safety pharmacology, repeated dose toxicity, genotoxicity, carcinogenic potential, toxicity to reproduction and development.
 
-In rats, maternally toxic doses (600 mg/kg/day) during the last days of gestation and lactation led to lower survival, lower weight gain and delayed development (pinna detachment and ear-canal opening) in the offspring (see section 4.6). These doses in rats (600 mg/kg/day) are approximately 18 times the maximum recommended human dose on a mg/m 2 basis (calculations assume an oral dose of 320 mg/day and a 60-kg patient).
+In rats, maternally toxic doses (600 mg/kg/day) during the last days of gestation and lactation led to lower survival, lower weight gain and delayed development (pinna detachment and ear-canal opening) in the offspring (see section 4.6). These doses in rats (600 mg/kg/day) are approximately 18 times the maximum recommended human dose on a mg/m 2  basis (calculations assume an oral dose of 320 mg/day and a 60-kg patient).
 
-In non-clinical safety studies, high doses of valsartan (200 to 600 mg/kg body weight) caused in rats a reduction of red blood cell parameters (erythrocytes, haemoglobin, haematocrit) and evidence of changes in renal haemodynamics (slightly raised blood urea nitrogen, and renal tubular hyperplasia and basophilia in males). These doses in rats (200 and 600 mg/kg/day) are approximately 6 and 18 times the maximum recommended human dose on a mg/m 2 basis (calculations assume an oral dose of 320 mg/day and a 60-kg patient).
+<div style=\"page-break-after: always\"></div>
+
+In non-clinical safety studies, high doses of valsartan (200 to 600 mg/kg body weight) caused in rats a reduction of red blood cell parameters (erythrocytes, haemoglobin, haematocrit) and evidence of changes in renal haemodynamics (slightly raised blood urea nitrogen, and renal tubular hyperplasia and basophilia in males). These doses in rats (200 and 600 mg/kg/day) are approximately 6 and 18 times the maximum recommended human dose on a mg/m 2  basis (calculations assume an oral dose of 320 mg/day and a 60-kg patient).
 
 In marmosets at comparable doses, the changes were similar though more severe, particularly in the kidney where the changes developed to a nephropathy including raised blood urea nitrogen and creatinine.
 
@@ -844,23 +851,17 @@ Tablet core Cellulose microcrystalline Crospovidone (type A) Silica, colloidal a
 
 Coating Hypromellose, substitution type 2910 (3 mPa.s) Titanium dioxide (E171) Macrogol 4000 Talc
 
-<div style=\"page-break-after: always\"></div>
-
 ## Copalia HCT 10 mg/160 mg/12.5 mg film-coated tablets
 
-## Tablet core
+Tablet core Cellulose microcrystalline Crospovidone (type A) Silica, colloidal anhydrous Magnesium stearate
 
-Cellulose microcrystalline Crospovidone (type A) Silica, colloidal anhydrous Magnesium stearate
+Coating Hypromellose, substitution type 2910 (3 mPa.s) Macrogol 4000 Talc Titanium dioxide (E171) Iron oxide, yellow (E172) Iron oxide, red (E172)
 
-## Coating
-
-Hypromellose, substitution type 2910 (3 mPa.s) Macrogol 4000 Talc Titanium dioxide (E171) Iron oxide, yellow (E172) Iron oxide, red (E172)
+<div style=\"page-break-after: always\"></div>
 
 ## Copalia HCT 5 mg/160 mg/25 mg film-coated tablets
 
-## Tablet core
-
-Cellulose microcrystalline Crospovidone (type A) Silica, colloidal anhydrous Magnesium stearate
+Tablet core Cellulose microcrystalline Crospovidone (type A) Silica, colloidal anhydrous Magnesium stearate
 
 ## Coating
 
@@ -874,17 +875,19 @@ Cellulose microcrystalline Crospovidone (type A) Silica, colloidal anhydrous Mag
 
 ## Coating
 
-Hypromellose, substitution type 2910 (3 mPa.s) Macrogol 4000 Talc Iron oxide, yellow (E172)
+Hypromellose, substitution type 2910 (3 mPa.s)
 
-## Copalia HCT 10 mg/320 mg/25 mg film-coated tablets
+Macrogol 4000 Talc Iron oxide, yellow (E172)
+
+Copalia HCT 10 mg/320 mg/25 mg film-coated tablets
 
 ## Tablet core
 
 Cellulose microcrystalline Crospovidone (type A) Silica, colloidal anhydrous Magnesium stearate
 
-<div style=\"page-break-after: always\"></div>
+## Coating
 
-Coating Hypromellose, substitution type 2910 (3 mPa.s) Macrogol 4000 Talc Iron oxide, yellow (E172)
+Hypromellose, substitution type 2910 (3 mPa.s) Macrogol 4000 Talc Iron oxide, yellow (E172)
 
 ## 6.2 Incompatibilities
 
@@ -900,9 +903,13 @@ Do not store above 30°C.
 
 Store in the original package in order to protect from moisture.
 
+<div style=\"page-break-after: always\"></div>
+
 ## 6.5 Nature and contents of container
 
-PVC/PVDC blisters. One blister contains 7, 10 or 14 film-coated tablets. Pack sizes: 14, 28, 30, 56, 90, 98 or 280 film-coated tablets. Multipacks of 280 tablets, comprising 20 cartons, each containing 14 tablets.
+PVC/PVDC blisters. One blister contains 7, 10 or 14 film-coated tablets. Pack sizes: 14, 28, 30, 56, 90, 98 or 280 film-coated tablets.
+
+Multipacks of 280 tablets, comprising 20 cartons, each containing 14 tablets.
 
 PVC/PVDC perforated unit dose blisters for hospital use: Pack sizes: 56, 98 or 280 film-coated tablets Multipacks of 280 tablets, comprising 4 cartons, each containing 70 tablets.
 
@@ -926,8 +933,6 @@ Copalia HCT 10 mg/160 mg/12.5 mg film-coated tablets
 
 EU/1/09/575/013-024
 
-<div style=\"page-break-after: always\"></div>
-
 Copalia HCT 5 mg/160 mg/25 mg film-coated tablets
 
 EU/1/09/575/025-036
@@ -946,13 +951,11 @@ Date of first authorisation: 04 November 2009
 
 Date of latest renewal: 04 July 2014
 
-10.
+<div style=\"page-break-after: always\"></div>
 
-DATE OF REVISION OF THE TEXT
+## 10. DATE OF REVISION OF THE TEXT
 
 Detailed information on this medicinal product is available on the website of the European Medicines Agency http://www.ema.europa.eu
-
-29
 
 <div style=\"page-break-after: always\"></div>
 
@@ -972,8 +975,6 @@ Name and address of the manufacturer(s) responsible for batch release
 Novartis Farma S.p.A. Via Provinciale Schito 131 80058 Torre Annunziata (NA) Italy
 
 Novartis Farmacéutica S.A. Gran Via de les Corts Catalanes, 764 08013 Barcelona Spain
-
-Novartis Pharma GmbH Roonstrasse 25 D-90429 Nürnberg Germany
 
 Novartis Pharma GmbH Sophie-Germain-Strasse 10 90443 Nuremberg Germany
 
@@ -1036,9 +1037,7 @@ Each tablet contains 5 mg amlodipine (as amlodipine besylate), 160 mg valsartan 
 
 ## 5. METHOD AND ROUTE(S) OF ADMINISTRATION
 
-Read the package leaflet before use.
-
-Oral use
+Read the package leaflet before use. Oral use
 
 ## 6. SPECIAL WARNING THAT THE MEDICINAL PRODUCT MUST BE STORED OUT OF THE SIGHT AND REACH OF CHILDREN
 
@@ -1046,11 +1045,11 @@ Keep out of the sight and reach of children.
 
 ## 7. OTHER SPECIAL WARNING(S), IF NECESSARY
 
+<div style=\"page-break-after: always\"></div>
+
 ## 8. EXPIRY DATE
 
 EXP
-
-<div style=\"page-break-after: always\"></div>
 
 ## 9. SPECIAL STORAGE CONDITIONS
 
@@ -1058,7 +1057,7 @@ Do not store above 30°C.
 
 Store in the original package in order to protect from moisture.
 
-## 10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
+10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
@@ -1131,13 +1130,13 @@ Medicinal product subject to medical prescription.
 
 Copalia HCT 5 mg/160 mg/12.5 mg
 
-| 17.   | UNIQUE IDENTIFIER - 2D BARCODE   |
-|-------|----------------------------------|
+| 17. UNIQUE IDENTIFIER - 2D BARCODE   |
+|--------------------------------------|
 
 2D barcode carrying the unique identifier included.
 
-| 18.   | UNIQUE IDENTIFIER - HUMANREADABLE DATA   |
-|-------|------------------------------------------|
+| 18.   | UNIQUE IDENTIFIER -HUMANREADABLE DATA   |
+|-------|-----------------------------------------|
 
 PC SN NN
 
@@ -1191,15 +1190,7 @@ Store in the original package in order to protect from moisture.
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
-Novartis Europharm Limited
-
-Vista Building
-
-Elm Park, Merrion Road
-
-Dublin 4
-
-Ireland
+Novartis Europharm Limited Vista Building Elm Park, Merrion Road Dublin 4 Ireland
 
 ## 12. MARKETING AUTHORISATION NUMBER(S)
 
@@ -1224,7 +1215,7 @@ Medicinal product subject to medical prescription.
 
 Copalia HCT 5 mg/160 mg/12.5 mg
 
-17. UNIQUE IDENTIFIER - 2D BARCODE
+17. UNIQUE IDENTIFIER -2D BARCODE
 18. UNIQUE IDENTIFIER - HUMAN READABLE DATA
 
 <div style=\"page-break-after: always\"></div>
@@ -1313,7 +1304,7 @@ Medicinal product subject to medical prescription.
 
 Copalia HCT 5 mg/160 mg/12.5 mg
 
-## 17. UNIQUE IDENTIFIER - 2D BARCODE
+## 17. UNIQUE IDENTIFIER -2D BARCODE
 
 2D barcode carrying the unique identifier included.
 
@@ -1324,27 +1315,6 @@ PC
 SN
 
 NN
-
-<div style=\"page-break-after: always\"></div>
-
-| MINIMUM PARTICULARS TO APPEAR ON BLISTERS OR STRIPS   |
-|-------------------------------------------------------|
-| BLISTERS                                              |
-
-| 1.   | NAME OF THE MEDICINAL PRODUCT   |
-|------|---------------------------------|
-
-| 2.   | NAME OF THE MARKETING AUTHORISATION HOLDER   |
-|------|----------------------------------------------|
-
-| 3.   | EXPIRY DATE   |
-|------|---------------|
-
-| 4.   | BATCH NUMBER   |
-|------|----------------|
-
-| 5.   | OTHER   |
-|------|---------|
 
 ## MINIMUM PARTICULARS TO APPEAR ON BLISTERS OR STRIPS
 
@@ -1366,7 +1336,12 @@ EXP
 
 Lot
 
-5. OTHER
+## 5. OTHER
+
+<div style=\"page-break-after: always\"></div>
+
+| 5.   | OTHER   |
+|------|---------|
 
 <div style=\"page-break-after: always\"></div>
 
@@ -1401,9 +1376,7 @@ Each tablet contains 10 mg amlodipine (as amlodipine besylate), 160 mg valsartan
 
 ## 5. METHOD AND ROUTE(S) OF ADMINISTRATION
 
-Read the package leaflet before use.
-
-Oral use
+Read the package leaflet before use. Oral use
 
 ## 6. SPECIAL WARNING THAT THE MEDICINAL PRODUCT MUST BE STORED OUT OF THE SIGHT AND REACH OF CHILDREN
 
@@ -1411,11 +1384,11 @@ Keep out of the sight and reach of children.
 
 ## 7. OTHER SPECIAL WARNING(S), IF NECESSARY
 
+<div style=\"page-break-after: always\"></div>
+
 ## 8. EXPIRY DATE
 
 EXP
-
-<div style=\"page-break-after: always\"></div>
 
 ## 9. SPECIAL STORAGE CONDITIONS
 
@@ -1423,11 +1396,19 @@ Do not store above 30°C.
 
 Store in the original package in order to protect from moisture.
 
-10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
+## 10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
-Novartis Europharm Limited Vista Building Elm Park, Merrion Road Dublin 4 Ireland
+Novartis Europharm Limited
+
+Vista Building
+
+Elm Park, Merrion Road
+
+Dublin 4
+
+Ireland
 
 ## 12. MARKETING AUTHORISATION NUMBER(S)
 
@@ -1488,13 +1469,13 @@ Medicinal product subject to medical prescription.
 
 Copalia HCT 10 mg/160 mg/12.5 mg
 
-| 17.   | UNIQUE IDENTIFIER - 2D BARCODE   |
-|-------|----------------------------------|
+| 17. UNIQUE IDENTIFIER - 2D BARCODE   |
+|--------------------------------------|
 
 2D barcode carrying the unique identifier included.
 
-| 18.   | UNIQUE IDENTIFIER - HUMANREADABLE DATA   |
-|-------|------------------------------------------|
+| 18.   | UNIQUE IDENTIFIER -HUMANREADABLE DATA   |
+|-------|-----------------------------------------|
 
 PC SN NN
 
@@ -1581,7 +1562,7 @@ Medicinal product subject to medical prescription.
 
 Copalia HCT 10 mg/160 mg/12.5 mg
 
-17. UNIQUE IDENTIFIER - 2D BARCODE
+17. UNIQUE IDENTIFIER -2D BARCODE
 18. UNIQUE IDENTIFIER - HUMAN READABLE DATA
 
 <div style=\"page-break-after: always\"></div>
@@ -1670,7 +1651,7 @@ Medicinal product subject to medical prescription.
 
 Copalia HCT 10 mg/160 mg/12.5 mg
 
-## 17. UNIQUE IDENTIFIER - 2D BARCODE
+## 17. UNIQUE IDENTIFIER -2D BARCODE
 
 2D barcode carrying the unique identifier included.
 
@@ -1702,7 +1683,7 @@ EXP
 
 Lot
 
-5. OTHER
+## 5. OTHER
 
 <div style=\"page-break-after: always\"></div>
 
@@ -1739,9 +1720,7 @@ Each tablet contains 5 mg amlodipine (as amlodipine besylate), 160 mg valsartan 
 
 ## 5. METHOD AND ROUTE(S) OF ADMINISTRATION
 
-Read the package leaflet before use.
-
-Oral use
+Read the package leaflet before use. Oral use
 
 ## 6. SPECIAL WARNING THAT THE MEDICINAL PRODUCT MUST BE STORED OUT OF THE SIGHT AND REACH OF CHILDREN
 
@@ -1749,11 +1728,11 @@ Keep out of the sight and reach of children.
 
 ## 7. OTHER SPECIAL WARNING(S), IF NECESSARY
 
+<div style=\"page-break-after: always\"></div>
+
 ## 8. EXPIRY DATE
 
 EXP
-
-<div style=\"page-break-after: always\"></div>
 
 ## 9. SPECIAL STORAGE CONDITIONS
 
@@ -1761,7 +1740,7 @@ Do not store above 30°C.
 
 Store in the original package in order to protect from moisture.
 
-10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
+## 10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
@@ -1834,13 +1813,13 @@ Medicinal product subject to medical prescription.
 
 Copalia HCT 5 mg/160 mg/25 mg
 
-| 17.   | UNIQUE IDENTIFIER - 2D BARCODE   |
-|-------|----------------------------------|
+| 17. UNIQUE IDENTIFIER - 2D BARCODE   |
+|--------------------------------------|
 
 2D barcode carrying the unique identifier included.
 
-| 18.   | UNIQUE IDENTIFIER - HUMANREADABLE DATA   |
-|-------|------------------------------------------|
+| 18.   | UNIQUE IDENTIFIER -HUMANREADABLE DATA   |
+|-------|-----------------------------------------|
 
 PC SN NN
 
@@ -1864,7 +1843,9 @@ Each tablet contains 5 mg amlodipine (as amlodipine besylate), 160 mg valsartan 
 
 ## Film-coated tablet
 
-14 film-coated tablets. Component of a multipack: Not to be sold separately. 70x1 film-coated tablets. Component of a multipack. Not to be sold separately.
+14 film-coated tablets. Component of a multipack: Not to be sold separately.
+
+70x1 film-coated tablets. Component of a multipack. Not to be sold separately.
 
 ## 5. METHOD AND ROUTE(S) OF ADMINISTRATION
 
@@ -1919,7 +1900,7 @@ Medicinal product subject to medical prescription.
 
 Copalia HCT 5 mg/160 mg/25 mg
 
-17. UNIQUE IDENTIFIER - 2D BARCODE
+17. UNIQUE IDENTIFIER -2D BARCODE
 18. UNIQUE IDENTIFIER - HUMAN READABLE DATA
 
 <div style=\"page-break-after: always\"></div>
@@ -2008,7 +1989,7 @@ Medicinal product subject to medical prescription.
 
 Copalia HCT 5 mg/160 mg/25 mg
 
-## 17. UNIQUE IDENTIFIER - 2D BARCODE
+## 17. UNIQUE IDENTIFIER -2D BARCODE
 
 2D barcode carrying the unique identifier included.
 
@@ -2040,7 +2021,7 @@ EXP
 
 Lot
 
-5. OTHER
+## 5. OTHER
 
 <div style=\"page-break-after: always\"></div>
 
@@ -2077,9 +2058,7 @@ Each tablet contains 10 mg amlodipine (as amlodipine besylate), 160 mg valsartan
 
 ## 5. METHOD AND ROUTE(S) OF ADMINISTRATION
 
-Read the package leaflet before use.
-
-Oral use
+Read the package leaflet before use. Oral use
 
 ## 6. SPECIAL WARNING THAT THE MEDICINAL PRODUCT MUST BE STORED OUT OF THE SIGHT AND REACH OF CHILDREN
 
@@ -2087,11 +2066,11 @@ Keep out of the sight and reach of children.
 
 ## 7. OTHER SPECIAL WARNING(S), IF NECESSARY
 
+<div style=\"page-break-after: always\"></div>
+
 ## 8. EXPIRY DATE
 
 EXP
-
-<div style=\"page-break-after: always\"></div>
 
 ## 9. SPECIAL STORAGE CONDITIONS
 
@@ -2172,13 +2151,13 @@ Medicinal product subject to medical prescription.
 
 Copalia HCT 10 mg/160 mg/25 mg
 
-| 17.   | UNIQUE IDENTIFIER - 2D BARCODE   |
-|-------|----------------------------------|
+| 17. UNIQUE IDENTIFIER - 2D BARCODE   |
+|--------------------------------------|
 
 2D barcode carrying the unique identifier included.
 
-| 18.   | UNIQUE IDENTIFIER - HUMANREADABLE DATA   |
-|-------|------------------------------------------|
+| 18.   | UNIQUE IDENTIFIER -HUMANREADABLE DATA   |
+|-------|-----------------------------------------|
 
 PC SN NN
 
@@ -2202,7 +2181,9 @@ Each tablet contains 10 mg amlodipine (as amlodipine besylate), 160 mg valsartan
 
 ## Film-coated tablet
 
-14 film-coated tablets. Component of a multipack. Not to be sold separately. 70x1 film-coated tablets. Component of a multipack. Not to be sold separately.
+14 film-coated tablets. Component of a multipack. Not to be sold separately.
+
+70x1 film-coated tablets. Component of a multipack. Not to be sold separately.
 
 ## 5. METHOD AND ROUTE(S) OF ADMINISTRATION
 
@@ -2232,15 +2213,7 @@ Store in the original package in order to protect from moisture.
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
-Novartis Europharm Limited
-
-Vista Building
-
-Elm Park, Merrion Road
-
-Dublin 4
-
-Ireland
+Novartis Europharm Limited Vista Building Elm Park, Merrion Road Dublin 4 Ireland
 
 ## 12. MARKETING AUTHORISATION NUMBER(S)
 
@@ -2265,7 +2238,7 @@ Medicinal product subject to medical prescription.
 
 Copalia HCT 10 mg/160 mg/25 mg
 
-17. UNIQUE IDENTIFIER - 2D BARCODE
+17. UNIQUE IDENTIFIER -2D BARCODE
 18. UNIQUE IDENTIFIER - HUMAN READABLE DATA
 
 <div style=\"page-break-after: always\"></div>
@@ -2354,7 +2327,7 @@ Medicinal product subject to medical prescription.
 
 Copalia HCT 10 mg/160 mg/25 mg
 
-## 17. UNIQUE IDENTIFIER - 2D BARCODE
+## 17. UNIQUE IDENTIFIER -2D BARCODE
 
 2D barcode carrying the unique identifier included.
 
@@ -2386,7 +2359,7 @@ EXP
 
 Lot
 
-5. OTHER
+## 5. OTHER
 
 <div style=\"page-break-after: always\"></div>
 
@@ -2423,9 +2396,7 @@ Each tablet contains 10 mg amlodipine (as amlodipine besylate), 320 mg valsartan
 
 ## 5. METHOD AND ROUTE(S) OF ADMINISTRATION
 
-Read the package leaflet before use.
-
-Oral use
+Read the package leaflet before use. Oral use
 
 ## 6. SPECIAL WARNING THAT THE MEDICINAL PRODUCT MUST BE STORED OUT OF THE SIGHT AND REACH OF CHILDREN
 
@@ -2433,11 +2404,11 @@ Keep out of the sight and reach of children.
 
 ## 7. OTHER SPECIAL WARNING(S), IF NECESSARY
 
+<div style=\"page-break-after: always\"></div>
+
 ## 8. EXPIRY DATE
 
 EXP
-
-<div style=\"page-break-after: always\"></div>
 
 ## 9. SPECIAL STORAGE CONDITIONS
 
@@ -2518,13 +2489,13 @@ Medicinal product subject to medical prescription.
 
 Copalia HCT 10 mg/320 mg/25 mg
 
-| 17.   | UNIQUE IDENTIFIER - 2D BARCODE   |
-|-------|----------------------------------|
+| 17. UNIQUE IDENTIFIER - 2D BARCODE   |
+|--------------------------------------|
 
 2D barcode carrying the unique identifier included.
 
-| 18.   | UNIQUE IDENTIFIER - HUMANREADABLE DATA   |
-|-------|------------------------------------------|
+| 18.   | UNIQUE IDENTIFIER -HUMANREADABLE DATA   |
+|-------|-----------------------------------------|
 
 PC SN NN
 
@@ -2548,7 +2519,9 @@ Each tablet contains 10 mg amlodipine (as amlodipine besylate), 320 mg valsartan
 
 ## Film-coated tablet
 
-14 film-coated tablets. Component of a multipack: Not to be sold separately. 70x1 film-coated tablets. Component of a multipack. Not to be sold separately.
+14 film-coated tablets. Component of a multipack: Not to be sold separately.
+
+70x1 film-coated tablets. Component of a multipack. Not to be sold separately.
 
 ## 5. METHOD AND ROUTE(S) OF ADMINISTRATION
 
@@ -2611,7 +2584,7 @@ Medicinal product subject to medical prescription.
 
 Copalia HCT 10 mg/320 mg/25 mg
 
-17. UNIQUE IDENTIFIER - 2D BARCODE
+17. UNIQUE IDENTIFIER -2D BARCODE
 18. UNIQUE IDENTIFIER - HUMAN READABLE DATA
 
 <div style=\"page-break-after: always\"></div>
@@ -2662,7 +2635,7 @@ Store in the original package in order to protect from moisture.
 
 <div style=\"page-break-after: always\"></div>
 
-10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
+## 10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
@@ -2700,7 +2673,7 @@ Medicinal product subject to medical prescription.
 
 Copalia HCT 10 mg/320 mg/25 mg
 
-## 17. UNIQUE IDENTIFIER - 2D BARCODE
+## 17. UNIQUE IDENTIFIER -2D BARCODE
 
 2D barcode carrying the unique identifier included.
 
@@ -2711,20 +2684,6 @@ PC
 SN
 
 NN
-
-<div style=\"page-break-after: always\"></div>
-
-| 2.   | NAME OF THE MARKETING AUTHORISATION HOLDER   |
-|------|----------------------------------------------|
-
-| 3.   | EXPIRY DATE   |
-|------|---------------|
-
-| 4.   | BATCH NUMBER   |
-|------|----------------|
-
-| 5.   | OTHER   |
-|------|---------|
 
 ## MINIMUM PARTICULARS TO APPEAR ON BLISTERS OR STRIPS
 
@@ -2746,7 +2705,12 @@ EXP
 
 Lot
 
-5. OTHER
+## 5. OTHER
+
+<div style=\"page-break-after: always\"></div>
+
+| 5.   | OTHER   |
+|------|---------|
 
 <div style=\"page-break-after: always\"></div>
 
@@ -2779,7 +2743,7 @@ Copalia HCT 5 mg/160 mg/12.5 mg film-coated tablets Copalia HCT 10 mg/160 mg/12.
 Copalia HCT tablets contain three substances called amlodipine, valsartan and hydrochlorothiazide. All of these substances help to control high blood pressure.
 
 - -Amlodipine belongs to a group of substances called 'calcium channel blockers'. Amlodipine stops calcium from moving into the blood vessel wall, which stops the blood vessels from tightening.
-- -Valsartan belongs to a group of substances called 'angiotensin-II receptor antagonists'. Angiotensin II is produced by the body and makes the blood vessels tighten, thus increasing the blood pressure. Valsartan works by blocking the effect of angiotensin II.
+- -Valsartan belongs to a group of substances called 'angiotensin -II receptor antagonists'. Angiotensin II is produced by the body and makes the blood vessels tighten, thus increasing the blood pressure. Valsartan works by blocking the effect of angiotensin II.
 - -Hydrochlorothiazide belongs to a group of substances called 'thiazide diuretics'. Hydrochlorothiazide increases urine output, which also lowers blood pressure.
 
 As a result of all three mechanisms, the blood vessels relax and blood pressure is lowered.
@@ -2790,7 +2754,7 @@ Copalia HCT is used to treat high blood pressure in adult patients whose blood p
 
 ## Do not take Copalia HCT
 
-- -if you are more than 3 months pregnant. (It is also recommended to avoid Copalia HCT in early pregnancy - see Pregnancy section.)
+- -if you are more than 3 months pregnant. (It is also recommended to avoid Copalia HCT in early pregnancy -see Pregnancy section.)
 - -if you are allergic to amlodipine or to any other calcium channel blockers, valsartan, hydrochlorothiazide, sulphonamide-derived medicines (medicines used to treat chest or urinary infections), or any of the other ingredients of this medicine (listed in section 6). If you think you may be allergic, do not take Copalia HCT and talk to your doctor.
 
 <div style=\"page-break-after: always\"></div>
@@ -2862,7 +2826,7 @@ Tell your doctor or pharmacist if you are taking, have recently taken or might t
 
 - lithium (a medicine used to treat some types of depression);
 - medicines or substances that increase the amount of potassium in your blood. These include potassium supplements or salt substitutes containing potassium, potassium-sparing medicines and heparin;
-- ACE inhibitors or aliskiren -(see also information under the headings 'Do not take Copalia HCT' and 'Warnings and precautions').
+- ACE inhibitors or aliskiren -(see also information under the headings 'Do not take Copalia HCT' and 'Warning s and precautions') .
 
 ## Caution should be used with:
 
@@ -2910,13 +2874,13 @@ Grapefruit and grapefruit juice should not be consumed by people who are prescri
 
 You must tell your doctor if you think you are (or might become) pregnant. Your doctor will normally advise you to stop taking Copalia HCT before you become pregnant or as soon as you know you are pregnant and will advise you to take another medicine instead of Copalia HCT. Copalia HCT is not recommended in early pregnancy and must not be taken when more than 3 months pregnant, as it may cause serious harm to your baby if used after the third month of pregnancy.
 
-<div style=\"page-break-after: always\"></div>
-
 ## Breast-feeding
 
 Tell your doctor if you are breast-feeding or about to start breast-feeding. Amlodipine has been shown to pass into breast milk in small amounts. Copalia HCT is not recommended for mothers who are breast-feeding, and your doctor may choose another treatment for you if you wish to breast-feed, especially if your baby is a newborn, or was born prematurely.
 
 Ask your doctor or pharmacist for advice before taking any medicine.
+
+<div style=\"page-break-after: always\"></div>
 
 ## Driving and using machines
 
@@ -2954,22 +2918,24 @@ People who have high blood pressure often do not notice any signs of the problem
 
 If you have any further questions on the use of this medicine, ask your doctor or pharmacist.
 
-<div style=\"page-break-after: always\"></div>
-
 ## 4. Possible side effects
 
 Like all medicines, this medicine can cause side effects, although not everybody gets them.
 
 As for any combination containing three active substances, side effects associated with each individual component cannot be excluded. The side effects reported with Copalia HCT or one of its three active substances (amlodipine, valsartan and hydrochlorothiazide) are listed below and may occur with the use of Copalia HCT.
 
-## Some side effects can be serious and need immediate medical attention. Consult a doctor immediately if you experience any of the following serious side effects after taking this medicine:
+<div style=\"page-break-after: always\"></div>
+
+## Some side effects can be serious and need immediate medical attention.
+
+## Consult a doctor immediately if you experience any of the following serious side effects after taking this medicine:
 
 Common (may affect up to 1 in 10 people):
 
 - dizziness
 - low blood pressure (feeling of faintness, light-headedness, sudden loss of consciousness)
 
-Uncommon (may affect up to 1 in 100 people):
+## Uncommon (may affect up to 1 in 100 people):
 
 - severely decreased urine output (decreased kidney function)
 
@@ -2979,7 +2945,7 @@ Rare (may affect up to 1 in 1,000 people):
 - irregular heart beat
 - liver disorder
 
-Very rare (may affect up to 1 in 10,000 people):
+## Very rare (may affect up to 1 in 10,000 people):
 
 - sudden wheeziness, chest pain, shortness of breath or difficulty breathing
 - swelling of eyelids, face or lips
@@ -2999,7 +2965,7 @@ Very common (may affect more than 1 in 10 people):
 - low level of potassium in the blood
 - increase of lipids in the blood
 
-Common (may affect up to 1 in 10 people):
+## Common (may affect up to 1 in 10 people):
 
 - sleepiness
 - palpitations (awareness of your heart beat)
@@ -3008,9 +2974,6 @@ Common (may affect up to 1 in 10 people):
 - abdominal pain
 - stomach discomfort after meal
 - tiredness
-
-<div style=\"page-break-after: always\"></div>
-
 - headache
 - frequent urination
 - high level of uric acid in the blood
@@ -3021,6 +2984,8 @@ Common (may affect up to 1 in 10 people):
 - nausea and vomiting
 - itchy rash and other types of rash
 - inability to achieve or maintain erection
+
+<div style=\"page-break-after: always\"></div>
 
 ## Uncommon (may affect up to 1 in 100 people):
 
@@ -3066,9 +3031,6 @@ Common (may affect up to 1 in 10 people):
 - sleeplessness
 - taste abnormalities
 - fainting
-
-<div style=\"page-break-after: always\"></div>
-
 - loss of pain sensation
 - visual disturbances
 - visual impairment
@@ -3079,6 +3041,9 @@ Common (may affect up to 1 in 10 people):
 - hair loss
 - itchy skin
 - skin discolouration
+
+<div style=\"page-break-after: always\"></div>
+
 - disorder in passing urine
 - increased need to urinate at night
 - increased number of times of passing urine
@@ -3118,13 +3083,12 @@ Common (may affect up to 1 in 10 people):
 - pale skin, tiredness, breathlessness, dark-coloured urine (haemolytic anaemia, abnormal breakdown of red blood cells either in the blood vessels or elsewhere in the body)
 - confusion, tiredness, muscle twitching and spasm, rapid breathing (hypochloraemic alkalosis)
 - severe upper stomach ache (inflammation of the pancreas)
-
-<div style=\"page-break-after: always\"></div>
-
 - difficulty breathing with fever, coughing, wheezing, breathlessness (respiratory distress, pulmonary oedema, pneumonitis)
 - facial rash, joint pain, muscle disorder, fever (lupus erythematosus)
 - inflammation of blood vessels with symptoms such as rash, purplish-red spots, fever (vasculitis)
 - severe skin disease that causes rash, red skin, blistering of the lips, eyes or mouth, skin peeling, fever (toxic epidermal necrolysis)
+
+<div style=\"page-break-after: always\"></div>
 
 Not known (frequency cannot be estimated from the available data):
 
@@ -3201,17 +3165,17 @@ The other ingredients are cellulose microcrystalline; crospovidone (type A); sil
 
 ## What Copalia HCT looks like and contents of the pack
 
-Copalia HCT 5 mg/160 mg/12.5 mg film-coated tablets are white, oval tablets with 'NVR' on one side and 'VCL' on the other side. Approximate size: 15 mm (length) x 5.9 mm (width).
+Copalia HCT 5 mg/160 mg/12.5 mg filmcoated tablets are white, oval tablets with 'NVR' on one side and 'VCL' on the other side. Approximate size: 15 mm (length) x 5.9 mm (width).
 
-Copalia HCT 10 mg/160 mg/12.5 mg film-coated tablets are pale yellow, oval tablets with 'NVR' on one side and 'VDL' on the other side. Approximate size: 15 mm (length) x 5.9 mm (width).
+Copalia HCT 10 mg/160 mg/12.5 mg filmcoated tablets are pale yellow, oval tablets with 'NVR' on one side and 'VDL' on the other side. Approximate size: 15 mm (length) x 5.9 mm (width).
 
 <div style=\"page-break-after: always\"></div>
 
-Copalia HCT 5 mg/160 mg/25 mg film-coated tablets are yellow, oval tablets with 'NVR' on one side and 'VEL' on the other side. Approximate size: 15 mm (length) x 5.9 mm (width).
+Copalia HCT 5 mg/160 mg/25 mg filmcoated tablets are yellow, oval tablets with 'NVR' on one side and 'VEL' on the other side. Approximate size: 15 mm (length) x 5.9 mm (width).
 
-Copalia HCT 10 mg/160 mg/25 mg film-coated tablets are brown-yellow, oval tablets with 'NVR' on one side and 'VHL' on the other side. Approximate size: 15 mm (length) x 5.9 mm (width).
+Copalia HCT 10 mg/160 mg/25 mg film-coated tablets are brownyellow, oval tablets with 'NVR' on one side and 'VHL' on the other side. Approximate size: 15 mm (length) x 5.9 mm (width).
 
-Copalia HCT 10 mg/320 mg/25 mg film-coated tablets are brown-yellow, oval tablets with 'NVR' on one side and 'VFL' on the other side. Approximate size: 19 mm (length) x 7.5 mm (width).
+Copalia HCT 10 mg/320 mg/25 mg film-coated tablets are brownyellow, oval tablets with 'NVR' on one side and 'VFL' on the other side. Approximate size: 19 mm (length) x 7.5 mm (width).
 
 Copalia HCT is available in packs containing 14, 28, 30, 56, 90, 98 or 280 film-coated tablets, in multipacks of 280 tablets (comprising 4 cartons, each containing 70 tablets, or 20 cartons, each containing 14 tablets), and in hospital packs containing 56, 98 or 280 tablets in single perforated dose blisters. Not all pack sizes may be available in your country.
 
@@ -3224,8 +3188,6 @@ Novartis Europharm Limited Vista Building Elm Park, Merrion Road Dublin 4 Irelan
 Novartis Farma S.p.A. Via Provinciale Schito 131 80058 Torre Annunziata (NA) Italy
 
 Novartis Farmacéutica S.A. Gran Via de les Corts Catalanes, 764 08013 Barcelona Spain
-
-Novartis Pharma GmbH Roonstraße 25 D-90429 Nuremberg Germany
 
 Novartis Pharma GmbH Sophie-Germain-Strasse 10 90443 Nuremberg Germany
 
@@ -3243,9 +3205,11 @@ Novartis Bulgaria EOOD
 
 ## Česká republika
 
-Novartis s.r.o.
+Novartis s.r.o. Tel: +420 225 775 111
 
-Tel: +420 225 775 111
+## Danmark
+
+Novartis Healthcare A/S Tlf: +45 39 16 84 00
 
 ## Lietuva
 
@@ -3253,9 +3217,7 @@ SIA Novartis Baltics Lietuvos filialas Tel: +370 5 269 16 50
 
 ## Luxembourg/Luxemburg
 
-Novartis Pharma N.V.
-
-Tél/Tel: +32 2 246 16 11
+Novartis Pharma N.V. Tél/Tel: +32 2 246 16 11
 
 ## Magyarország
 
@@ -3263,19 +3225,23 @@ Novartis Hungária Kft.
 
 Tel.: +36 1 457 65 00
 
+## Malta
+
+Novartis Pharma Services Inc. Tel: +356 2122 2872
+
 <div style=\"page-break-after: always\"></div>
 
-## Danmark
-
-Novartis Healthcare A/S
-
-Tlf: +45 39 16 84 00
-
 ## Deutschland
+
+## Nederland
 
 Novartis Pharma GmbH
 
 Tel: +49 911 273 0
+
+Novartis Pharma B.V.
+
+Tel: +31 88 04 52 111
 
 ## Eesti
 
@@ -3283,11 +3249,23 @@ SIA Novartis Baltics Eesti filiaal
 
 Tel: +372 66 30 810
 
+## Norge
+
+Novartis Norge AS
+
+Tlf: +47 23 05 20 00
+
 ## Ελλάδα
 
 Novartis (Hellas) A.E.B.E.
 
-Τηλ: +30 210 281 17 12
+Τηλ : +30 210 281 17 12
+
+## Österreich
+
+Novartis Pharma GmbH
+
+Tel: +43 1 86 6570
 
 ## España
 
@@ -3295,11 +3273,23 @@ J. Uriach y Cia., S.A.
 
 Tel: +34 93 864 96 92
 
+## Polska
+
+Novartis Poland Sp. z o.o.
+
+Tel.: +48 22 375 4888
+
 ## France
 
 Novartis Pharma S.A.S.
 
 Tél: +33 1 55 47 66 00
+
+## Portugal
+
+Novartis Farma - Produtos Farmacêuticos, S.A.
+
+Tel: +351 21 000 8600
 
 ## Hrvatska
 
@@ -3307,11 +3297,23 @@ Novartis Hrvatska d.o.o.
 
 Tel. +385 1 6274 220
 
+## România
+
+Novartis Pharma Services Romania SRL
+
+Tel: +40 21 31299 01
+
 ## Ireland
 
 Novartis Ireland Limited
 
 Tel: +353 1 260 12 55
+
+## Slovenija
+
+Novartis Pharma Services Inc.
+
+Tel: +386 1 300 75 50
 
 ## Ísland
 
@@ -3319,17 +3321,35 @@ Vistor hf.
 
 Sími: +354 535 7000
 
+## Slovenská republika
+
+Novartis Slovakia s.r.o.
+
+Tel: +421 2 5542 5439
+
 ## Italia
 
 Novartis Farma S.p.A.
 
 Tel: +39 02 96 54 1
 
+## Suomi/Finland
+
+Novartis Finland Oy
+
+Puh/Tel: +358 (0)10 6133 200
+
 ## Κύπρος
 
 Novartis Pharma Services Inc.
 
 Τηλ: +357 22 690 690
+
+## Sverige
+
+Novartis Sverige AB
+
+Tel: +46 8 732 32 00
 
 ## Latvija
 
@@ -3342,67 +3362,3 @@ Tel: +371 67 887 070
 ## Other sources of information
 
 Detailed information on this medicine is available on the European Medicines Agency web site: http://www.ema.europa.eu
-
-## Malta
-
-Novartis Pharma Services Inc.
-
-Tel: +356 2122 2872
-
-## Nederland
-
-Novartis Pharma B.V.
-
-Tel: +31 88 04 52 111
-
-## Norge
-
-Novartis Norge AS
-
-Tlf: +47 23 05 20 00
-
-## Österreich
-
-Novartis Pharma GmbH
-
-Tel: +43 1 86 6570
-
-## Polska
-
-Novartis Poland Sp. z o.o.
-
-Tel.: +48 22 375 4888
-
-## Portugal
-
-Novartis Farma - Produtos Farmacêuticos, S.A. Tel: +351 21 000 8600
-
-## România
-
-Novartis Pharma Services Romania SRL
-
-Tel: +40 21 31299 01
-
-## Slovenija
-
-Novartis Pharma Services Inc.
-
-Tel: +386 1 300 75 50
-
-## Slovenská republika
-
-Novartis Slovakia s.r.o.
-
-Tel: +421 2 5542 5439
-
-## Suomi/Finland
-
-Novartis Finland Oy
-
-Puh/Tel: +358 (0)10 6133 200
-
-## Sverige
-
-Novartis Sverige AB
-
-Tel: +46 8 732 32 00

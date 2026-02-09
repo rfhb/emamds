@@ -1,21 +1,97 @@
 ---
-document_datetime: 2025-12-29 13:16:47
+document_datetime: 2026-02-06 09:55:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/azarga.html
 document_name: azarga.html
 version: success
-processing_time: 0.1255297
-conversion_datetime: 2025-12-29 23:11:52.630439
+processing_time: 0.1044583
+conversion_datetime: 2026-02-09 22:18:54.970728
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.66.0
-  docling-core: 2.57.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.12.0
+  docling-jobkit: 1.10.1
+  docling: 2.72.0
+  docling-core: 2.63.0
+  docling-ibm-models: 3.11.0
+  docling-parse: 4.7.3
   python: cpython-313 (3.13.11)
   plaform: macOS-26.2-arm64-arm-64bit-Mach-O
 ---
+# Search
+
+- [Medicines](/en/medicines)
+    - [Find medicine](/en/medicines)
+    - [Therapeutic areas: latest updates](/en/medicines/therapeutic-areas-latest-updates)
+    - [Download medicine data](/en/medicines/download-medicine-data)
+    - [What we publish on medicines and when](/en/medicines/what-we-publish-medicines-when)
+    - [Medicines under evaluation](/en/medicines/medicines-human-use-under-evaluation)
+    - [National registers](/en/medicines/national-registers-authorised-medicines)
+- [Human regulatory](/en/human-regulatory-overview)
+    - [Overview](/en/human-regulatory-overview)
+    - [Research and development](/en/human-regulatory-overview/research-development)
+    - [Marketing authorisation](/en/human-regulatory-overview/marketing-authorisation)
+    - [Post-authorisation](/en/human-regulatory-overview/post-authorisation)
+    - [Medical devices](/en/human-regulatory-overview/medical-devices)
+    - [Herbal products](/en/human-regulatory-overview/herbal-medicinal-products)
+- [Veterinary regulatory](/en/veterinary-regulatory-overview)
+    - [Overview](/en/veterinary-regulatory-overview)
+    - [Research and development](/en/veterinary-regulatory-overview/research-development-veterinary-medicines)
+    - [Marketing authorisation](/en/veterinary-regulatory-overview/marketing-authorisation-veterinary-medicines)
+    - [Post-authorisation](/en/veterinary-regulatory-overview/post-authorisation-veterinary-medicines)
+- [Committees](/en/committees)
+    - [Overview](/en/committees)
+    - [How the committees work](/en/committees/how-committees-work)
+    - [CHMP](/en/committees/committee-medicinal-products-human-use-chmp)
+    - [CVMP](/en/committees/committee-veterinary-medicinal-products-cvmp)
+    - [PRAC](/en/committees/pharmacovigilance-risk-assessment-committee-prac)
+    - [COMP](/en/committees/committee-orphan-medicinal-products-comp)
+    - [HMPC](/en/committees/committee-herbal-medicinal-products-hmpc)
+    - [CAT](/en/committees/committee-advanced-therapies-cat)
+    - [PDCO](/en/committees/paediatric-committee-pdco)
+    - [Working parties and other groups](/en/committees/working-parties-other-groups)
+- [News &amp; events](/en/news-events)
+    - [Overview](/en/news-events)
+    - [News](/en/news)
+    - [Events](/en/events/upcoming-events)
+    - [What's new](/en/news-events/whats-new)
+    - [Committee highlights](/en/news-events/committee-highlights)
+    - [Publications](/en/news-and-events/publications)
+    - [Press and social media](/en/news-events/press-social-media)
+    - [Podcast: Inside EMA](/en/news-events/podcast-inside-ema)
+    - [Open consultations](/en/news-events/open-consultations)
+    - [RSS feeds](/en/news-events/rss-feeds)
+- [Partners &amp; networks](/en/partners-networks)
+    - [Overview](/en/partners-networks)
+    - [EU partners](/en/partners-networks/eu-partners)
+    - [International activities](/en/partners-networks/international-activities)
+    - [Patients and consumers](/en/partners-networks/patients-consumers)
+    - [Healthcare professionals](/en/partners-networks/healthcare-professionals)
+    - [Academia](/en/partners-networks/academia)
+    - [Pharmaceutical industry](/en/partners-networks/pharmaceutical-industry)
+    - [Networks](/en/partners-networks/networks)
+    - [Health technology assessment bodies](/en/partners-networks/health-technology-assessment-bodies)
+    - [One Health approach](/en/partners-networks/one-health-approach)
+    - [Animal health practitioners](/en/partners-networks/animal-health-practitioners)
+    - [One substance - one assessment](/en/partners-networks/one-substance-one-assessment-osoa-eu-collaboration-chemicals-related-data)
+- [About us](/en/about-us)
+    - [Overview](/en/about-us)
+    - [What we do](/en/about-us/what-we-do)
+    - [Who we are](/en/about-us/who-we-are)
+    - [How we work](/en/about-us/how-we-work)
+    - [Fees](/en/about-us/fees-payable-european-medicines-agency)
+    - [Support to SMEs](/en/about-us/support-smes)
+    - [Annual reports and work programmes](/en/about-us/annual-reports-work-programmes)
+    - [History of EMA](/en/about-us/history-ema)
+    - [Careers](/en/about-us/careers)
+    - [Procurement](/en/about-us/procurement-grants)
+    - [Glossaries](/en/about-us/glossaries)
+    - [About this website](/en/about-us/about-website)
+    - [Data protection and privacy](/en/about-us/data-protection-privacy-ema)
+    - [Contacts](/en/about-us/contacts-european-medicines-agency)
+
+1. [Home](/en/homepage)
+2. [Medicines](https://www.ema.europa.eu/en/medicines)
+3. Azarga
+
 # Azarga
 
 [RSS](/en/individual-human-medicine.xml/65461)
@@ -26,8 +102,6 @@ This medicine is authorised for use in the European Union
 
 brinzolamide / timolol Medicine Human Authorised
 
-On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
-
 Page contents
 
 ## Page contents
@@ -37,7 +111,6 @@ Page contents
 - [Product details](#product-details)
 - [Authorisation details](#authorisation-details)
 - [Assessment history](#assessment-history)
-- [Product information - with tracked changes](#product-information-with-tracked-changes-78860)
 - [Topics](#topics)
 
 - Application under evaluation
@@ -123,7 +196,7 @@ English (EN) (79.47 KB - PDF)
 
 [View](/en/documents/overview/azarga-epar-summary-public_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-943)
+[Other languages (22)](#file-language-dropdown-327)
 
 български (BG) (130.66 KB - PDF)
 
@@ -401,17 +474,17 @@ English (EN) (49.57 KB - PDF)
 
 Azarga : EPAR - Product Information
 
-English (EN) (387.51 KB - PDF)
+English (EN) (390.85 KB - PDF)
 
 **First published:** 08/01/2009
 
-**Last updated:** 02/09/2025
+**Last updated:** 06/02/2026
 
 [View](/en/documents/product-information/azarga-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-294)
+[Other languages (24)](#file-language-dropdown-579)
 
-български (BG) (467.71 KB - PDF)
+български (BG) (449.65 KB - PDF)
 
 **First published:**
 
@@ -419,11 +492,11 @@ English (EN) (387.51 KB - PDF)
 
 **Last updated:**
 
-02/09/2025
+06/02/2026
 
 [View](/bg/documents/product-information/azarga-epar-product-information_bg.pdf)
 
-español (ES) (370.13 KB - PDF)
+español (ES) (389.76 KB - PDF)
 
 **First published:**
 
@@ -431,11 +504,11 @@ español (ES) (370.13 KB - PDF)
 
 **Last updated:**
 
-02/09/2025
+06/02/2026
 
 [View](/es/documents/product-information/azarga-epar-product-information_es.pdf)
 
-čeština (CS) (380.95 KB - PDF)
+čeština (CS) (382.41 KB - PDF)
 
 **First published:**
 
@@ -443,11 +516,11 @@ español (ES) (370.13 KB - PDF)
 
 **Last updated:**
 
-02/09/2025
+06/02/2026
 
 [View](/cs/documents/product-information/azarga-epar-product-information_cs.pdf)
 
-dansk (DA) (387.21 KB - PDF)
+dansk (DA) (380.81 KB - PDF)
 
 **First published:**
 
@@ -455,11 +528,11 @@ dansk (DA) (387.21 KB - PDF)
 
 **Last updated:**
 
-02/09/2025
+06/02/2026
 
 [View](/da/documents/product-information/azarga-epar-product-information_da.pdf)
 
-Deutsch (DE) (407.33 KB - PDF)
+Deutsch (DE) (411.32 KB - PDF)
 
 **First published:**
 
@@ -467,11 +540,11 @@ Deutsch (DE) (407.33 KB - PDF)
 
 **Last updated:**
 
-02/09/2025
+06/02/2026
 
 [View](/de/documents/product-information/azarga-epar-product-information_de.pdf)
 
-eesti keel (ET) (352.83 KB - PDF)
+eesti keel (ET) (364.29 KB - PDF)
 
 **First published:**
 
@@ -479,11 +552,11 @@ eesti keel (ET) (352.83 KB - PDF)
 
 **Last updated:**
 
-02/09/2025
+06/02/2026
 
 [View](/et/documents/product-information/azarga-epar-product-information_et.pdf)
 
-ελληνικά (EL) (436.86 KB - PDF)
+ελληνικά (EL) (425.17 KB - PDF)
 
 **First published:**
 
@@ -491,11 +564,11 @@ eesti keel (ET) (352.83 KB - PDF)
 
 **Last updated:**
 
-02/09/2025
+06/02/2026
 
 [View](/el/documents/product-information/azarga-epar-product-information_el.pdf)
 
-français (FR) (376.49 KB - PDF)
+français (FR) (386.94 KB - PDF)
 
 **First published:**
 
@@ -503,11 +576,11 @@ français (FR) (376.49 KB - PDF)
 
 **Last updated:**
 
-02/09/2025
+06/02/2026
 
 [View](/fr/documents/product-information/azarga-epar-product-information_fr.pdf)
 
-hrvatski (HR) (420.05 KB - PDF)
+hrvatski (HR) (396.41 KB - PDF)
 
 **First published:**
 
@@ -515,11 +588,11 @@ hrvatski (HR) (420.05 KB - PDF)
 
 **Last updated:**
 
-02/09/2025
+06/02/2026
 
 [View](/hr/documents/product-information/azarga-epar-product-information_hr.pdf)
 
-íslenska (IS) (354.71 KB - PDF)
+íslenska (IS) (360.65 KB - PDF)
 
 **First published:**
 
@@ -527,11 +600,11 @@ hrvatski (HR) (420.05 KB - PDF)
 
 **Last updated:**
 
-02/09/2025
+06/02/2026
 
 [View](/is/documents/product-information/azarga-epar-product-information_is.pdf)
 
-italiano (IT) (403.33 KB - PDF)
+italiano (IT) (414.88 KB - PDF)
 
 **First published:**
 
@@ -539,11 +612,11 @@ italiano (IT) (403.33 KB - PDF)
 
 **Last updated:**
 
-02/09/2025
+06/02/2026
 
 [View](/it/documents/product-information/azarga-epar-product-information_it.pdf)
 
-latviešu valoda (LV) (414.88 KB - PDF)
+latviešu valoda (LV) (403.94 KB - PDF)
 
 **First published:**
 
@@ -551,11 +624,11 @@ latviešu valoda (LV) (414.88 KB - PDF)
 
 **Last updated:**
 
-02/09/2025
+06/02/2026
 
 [View](/lv/documents/product-information/azarga-epar-product-information_lv.pdf)
 
-lietuvių kalba (LT) (406.37 KB - PDF)
+lietuvių kalba (LT) (402.55 KB - PDF)
 
 **First published:**
 
@@ -563,11 +636,11 @@ lietuvių kalba (LT) (406.37 KB - PDF)
 
 **Last updated:**
 
-02/09/2025
+06/02/2026
 
 [View](/lt/documents/product-information/azarga-epar-product-information_lt.pdf)
 
-magyar (HU) (439.79 KB - PDF)
+magyar (HU) (390.27 KB - PDF)
 
 **First published:**
 
@@ -575,11 +648,11 @@ magyar (HU) (439.79 KB - PDF)
 
 **Last updated:**
 
-02/09/2025
+06/02/2026
 
 [View](/hu/documents/product-information/azarga-epar-product-information_hu.pdf)
 
-Malti (MT) (537.1 KB - PDF)
+Malti (MT) (449.82 KB - PDF)
 
 **First published:**
 
@@ -587,11 +660,11 @@ Malti (MT) (537.1 KB - PDF)
 
 **Last updated:**
 
-02/09/2025
+06/02/2026
 
 [View](/mt/documents/product-information/azarga-epar-product-information_mt.pdf)
 
-Nederlands (NL) (358.93 KB - PDF)
+Nederlands (NL) (361.06 KB - PDF)
 
 **First published:**
 
@@ -599,11 +672,11 @@ Nederlands (NL) (358.93 KB - PDF)
 
 **Last updated:**
 
-02/09/2025
+06/02/2026
 
 [View](/nl/documents/product-information/azarga-epar-product-information_nl.pdf)
 
-norsk (NO) (369.85 KB - PDF)
+norsk (NO) (389.21 KB - PDF)
 
 **First published:**
 
@@ -611,11 +684,11 @@ norsk (NO) (369.85 KB - PDF)
 
 **Last updated:**
 
-02/09/2025
+06/02/2026
 
 [View](/no/documents/product-information/azarga-epar-product-information_no.pdf)
 
-polski (PL) (478.54 KB - PDF)
+polski (PL) (409.97 KB - PDF)
 
 **First published:**
 
@@ -623,11 +696,11 @@ polski (PL) (478.54 KB - PDF)
 
 **Last updated:**
 
-02/09/2025
+06/02/2026
 
 [View](/pl/documents/product-information/azarga-epar-product-information_pl.pdf)
 
-português (PT) (409.65 KB - PDF)
+português (PT) (423.55 KB - PDF)
 
 **First published:**
 
@@ -635,11 +708,11 @@ português (PT) (409.65 KB - PDF)
 
 **Last updated:**
 
-02/09/2025
+06/02/2026
 
 [View](/pt/documents/product-information/azarga-epar-product-information_pt.pdf)
 
-română (RO) (419.22 KB - PDF)
+română (RO) (416.34 KB - PDF)
 
 **First published:**
 
@@ -647,11 +720,11 @@ română (RO) (419.22 KB - PDF)
 
 **Last updated:**
 
-02/09/2025
+06/02/2026
 
 [View](/ro/documents/product-information/azarga-epar-product-information_ro.pdf)
 
-slovenčina (SK) (454.69 KB - PDF)
+slovenčina (SK) (439.41 KB - PDF)
 
 **First published:**
 
@@ -659,11 +732,11 @@ slovenčina (SK) (454.69 KB - PDF)
 
 **Last updated:**
 
-02/09/2025
+06/02/2026
 
 [View](/sk/documents/product-information/azarga-epar-product-information_sk.pdf)
 
-slovenščina (SL) (446.26 KB - PDF)
+slovenščina (SL) (405.4 KB - PDF)
 
 **First published:**
 
@@ -671,11 +744,11 @@ slovenščina (SL) (446.26 KB - PDF)
 
 **Last updated:**
 
-02/09/2025
+06/02/2026
 
 [View](/sl/documents/product-information/azarga-epar-product-information_sl.pdf)
 
-Suomi (FI) (373.19 KB - PDF)
+Suomi (FI) (366.19 KB - PDF)
 
 **First published:**
 
@@ -683,11 +756,11 @@ Suomi (FI) (373.19 KB - PDF)
 
 **Last updated:**
 
-02/09/2025
+06/02/2026
 
 [View](/fi/documents/product-information/azarga-epar-product-information_fi.pdf)
 
-svenska (SV) (382.68 KB - PDF)
+svenska (SV) (399.12 KB - PDF)
 
 **First published:**
 
@@ -695,11 +768,11 @@ svenska (SV) (382.68 KB - PDF)
 
 **Last updated:**
 
-02/09/2025
+06/02/2026
 
 [View](/sv/documents/product-information/azarga-epar-product-information_sv.pdf)
 
-**Latest procedure affecting product information:** N/0000294072 01/09/2025
+**Latest procedure affecting product information:** VR/0000323366 04/02/2026
 
 icon globe
 
@@ -725,7 +798,7 @@ English (EN) (7.08 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/azarga-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (21)](#file-language-dropdown-868)
+[Other languages (21)](#file-language-dropdown-98)
 
 български (BG) (70.44 KB - PDF)
 
@@ -1014,7 +1087,7 @@ Novartis Europharm Limited
 
 Vista Building
 
-Marketing authorisation issued 25/11/2008 Revision 18
+Marketing authorisation issued 25/11/2008 Revision 19
 
 ## Assessment history
 
@@ -1026,9 +1099,11 @@ Collapse section
 
 Azarga : EPAR - Procedural steps taken and scientific information after authorisation
 
-English (EN) (148.88 KB - PDF)
+English (EN) (160.09 KB - PDF)
 
 **First published:** 02/09/2025
+
+**Last updated:** 06/02/2026
 
 [View](/en/documents/procedural-steps-after/azarga-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf)
 
@@ -1066,217 +1141,11 @@ English (EN) (76.02 KB - PDF)
 
 [View](/en/documents/smop-initial/chmp-summary-positive-opinion-azarga_en.pdf)
 
-#### Product information - with tracked changes
-
-The approved product information for this medicine is available below showing the changes since the previous procedure affecting the product information. The same document without tracked changes is above under 'Product information'.
-
-Azarga : EPAR - Product information - tracked changes
-
-English (EN) (115.05 KB - DOCX)
-
-**First published:** 02/09/2025
-
-[View](/en/documents/product-information-tracked-changes/azarga-epar-product-information-tracked-changes_en.docx)
-
-[Other languages (24)](#file-language-dropdown-970)
-
-български (BG) (133.25 KB - DOCX)
-
-**First published:**
-
-02/09/2025
-
-[View](/bg/documents/product-information-tracked-changes/azarga-epar-product-information-tracked-changes_bg.docx)
-
-español (ES) (117.37 KB - DOCX)
-
-**First published:**
-
-02/09/2025
-
-[View](/es/documents/product-information-tracked-changes/azarga-epar-product-information-tracked-changes_es.docx)
-
-čeština (CS) (97.87 KB - DOCX)
-
-**First published:**
-
-02/09/2025
-
-[View](/cs/documents/product-information-tracked-changes/azarga-epar-product-information-tracked-changes_cs.docx)
-
-dansk (DA) (110.58 KB - DOCX)
-
-**First published:**
-
-02/09/2025
-
-[View](/da/documents/product-information-tracked-changes/azarga-epar-product-information-tracked-changes_da.docx)
-
-Deutsch (DE) (125.23 KB - DOCX)
-
-**First published:**
-
-02/09/2025
-
-[View](/de/documents/product-information-tracked-changes/azarga-epar-product-information-tracked-changes_de.docx)
-
-eesti keel (ET) (111.87 KB - DOCX)
-
-**First published:**
-
-02/09/2025
-
-[View](/et/documents/product-information-tracked-changes/azarga-epar-product-information-tracked-changes_et.docx)
-
-ελληνικά (EL) (138.45 KB - DOCX)
-
-**First published:**
-
-02/09/2025
-
-[View](/el/documents/product-information-tracked-changes/azarga-epar-product-information-tracked-changes_el.docx)
-
-français (FR) (114.05 KB - DOCX)
-
-**First published:**
-
-02/09/2025
-
-[View](/fr/documents/product-information-tracked-changes/azarga-epar-product-information-tracked-changes_fr.docx)
-
-hrvatski (HR) (124.4 KB - DOCX)
-
-**First published:**
-
-02/09/2025
-
-[View](/hr/documents/product-information-tracked-changes/azarga-epar-product-information-tracked-changes_hr.docx)
-
-íslenska (IS) (110.84 KB - DOCX)
-
-**First published:**
-
-02/09/2025
-
-[View](/is/documents/product-information-tracked-changes/azarga-epar-product-information-tracked-changes_is.docx)
-
-italiano (IT) (111.83 KB - DOCX)
-
-**First published:**
-
-02/09/2025
-
-[View](/it/documents/product-information-tracked-changes/azarga-epar-product-information-tracked-changes_it.docx)
-
-latviešu valoda (LV) (104.22 KB - DOCX)
-
-**First published:**
-
-02/09/2025
-
-[View](/lv/documents/product-information-tracked-changes/azarga-epar-product-information-tracked-changes_lv.docx)
-
-lietuvių kalba (LT) (93.83 KB - DOCX)
-
-**First published:**
-
-02/09/2025
-
-[View](/lt/documents/product-information-tracked-changes/azarga-epar-product-information-tracked-changes_lt.docx)
-
-magyar (HU) (116.34 KB - DOCX)
-
-**First published:**
-
-02/09/2025
-
-[View](/hu/documents/product-information-tracked-changes/azarga-epar-product-information-tracked-changes_hu.docx)
-
-Malti (MT) (104.84 KB - DOCX)
-
-**First published:**
-
-02/09/2025
-
-[View](/mt/documents/product-information-tracked-changes/azarga-epar-product-information-tracked-changes_mt.docx)
-
-Nederlands (NL) (123.69 KB - DOCX)
-
-**First published:**
-
-02/09/2025
-
-[View](/nl/documents/product-information-tracked-changes/azarga-epar-product-information-tracked-changes_nl.docx)
-
-norsk (NO) (111.57 KB - DOCX)
-
-**First published:**
-
-02/09/2025
-
-[View](/no/documents/product-information-tracked-changes/azarga-epar-product-information-tracked-changes_no.docx)
-
-polski (PL) (103.75 KB - DOCX)
-
-**First published:**
-
-02/09/2025
-
-[View](/pl/documents/product-information-tracked-changes/azarga-epar-product-information-tracked-changes_pl.docx)
-
-português (PT) (104.65 KB - DOCX)
-
-**First published:**
-
-02/09/2025
-
-[View](/pt/documents/product-information-tracked-changes/azarga-epar-product-information-tracked-changes_pt.docx)
-
-română (RO) (98.66 KB - DOCX)
-
-**First published:**
-
-02/09/2025
-
-[View](/ro/documents/product-information-tracked-changes/azarga-epar-product-information-tracked-changes_ro.docx)
-
-slovenčina (SK) (131.89 KB - DOCX)
-
-**First published:**
-
-02/09/2025
-
-[View](/sk/documents/product-information-tracked-changes/azarga-epar-product-information-tracked-changes_sk.docx)
-
-slovenščina (SL) (115.18 KB - DOCX)
-
-**First published:**
-
-02/09/2025
-
-[View](/sl/documents/product-information-tracked-changes/azarga-epar-product-information-tracked-changes_sl.docx)
-
-Suomi (FI) (115.32 KB - DOCX)
-
-**First published:**
-
-02/09/2025
-
-[View](/fi/documents/product-information-tracked-changes/azarga-epar-product-information-tracked-changes_fi.docx)
-
-svenska (SV) (100.53 KB - DOCX)
-
-**First published:**
-
-02/09/2025
-
-[View](/sv/documents/product-information-tracked-changes/azarga-epar-product-information-tracked-changes_sv.docx)
-
 #### Topics
 
 - [Medicines](https://www.ema.europa.eu/en/search?f%5B0%5D=ema_search_topics%3A61)
 
-**This page was last updated on** 02/09/2025
+**This page was last updated on** 06/02/2026
 
 ## Share this page
 

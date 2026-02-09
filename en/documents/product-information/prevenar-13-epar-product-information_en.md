@@ -1,18 +1,18 @@
 ---
-document_datetime: 2025-04-24 16:16:01
+document_datetime: 2026-02-05 10:26:36
 document_pages: 117
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/prevenar-13-epar-product-information_en.pdf
 document_name: prevenar-13-epar-product-information_en.pdf
 version: success
-processing_time: 40.2442368
-conversion_datetime: 2025-12-31 02:17:39.832752
+processing_time: 39.8867195
+conversion_datetime: 2026-02-09 22:20:32.713774
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.66.0
-  docling-core: 2.57.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.12.0
+  docling-jobkit: 1.10.1
+  docling: 2.72.0
+  docling-core: 2.63.0
+  docling-ibm-models: 3.11.0
+  docling-parse: 4.7.3
   python: cpython-313 (3.13.11)
   plaform: macOS-26.2-arm64-arm-64bit-Mach-O
 ---
@@ -111,7 +111,9 @@ Two doses, each of 0.5 ml, with an interval of at least 2 months between doses (
 
 One single dose of 0.5 ml.
 
-Prevenar 13 vaccine schedule for infants and children previously vaccinated with Prevenar (7-valent) ( Streptococcus pneumoniae serotypes 4, 6B, 9V, 14, 18C, 19F, and 23F)
+## Prevenar 13 vaccine schedule for infants and children previously vaccinated with Prevenar (7-valent)
+
+( Streptococcus pneumoniae serotypes 4, 6B, 9V, 14, 18C, 19F, and 23F)
 
 Prevenar 13 contains the same 7 serotypes included in Prevenar, using the same carrier protein CRM197.
 
@@ -293,9 +295,9 @@ Hypotonic-hyporesponsive episode
 
 Very common:
 
-Common:
-
 Decreased appetite
+
+Common:
 
 Vomiting; diarrhoea
 
@@ -303,9 +305,9 @@ Vomiting; diarrhoea
 
 Common:
 
-Uncommon:
-
 Rash
+
+Uncommon:
 
 Urticaria or urticaria-like rash
 
@@ -415,7 +417,7 @@ Uncommon:
 
 Nausea
 
-Immune system disorders:
+## Immune system disorders:
 
 Uncommon:
 
@@ -465,7 +467,7 @@ The following are considered adverse drug reactions for Prevenar 13; because the
 
 Lymphadenopathy (localised to the region of the vaccination-site)
 
-## Immune system disorders:
+Immune system disorders:
 
 Anaphylactic/anaphylactoid reaction including shock; angioedema
 
@@ -560,7 +562,7 @@ For each of the 6 additional serotypes, Prevenar 13 elicited OPA titres ≥ 1:8 
 
 ## Immune responses following a two-dose primary infant series
 
-The immunogenicity after two doses in infants has been documented in four studies. The proportion of infants achieving a pneumococcal anti-capsular polysaccharide IgG concentration ≥ 0.35 µ g/ml one month after the second dose ranged from 79.6% to 98.5% across 11 of the 13 vaccine serotypes. Smaller proportions of infants achieved this antibody concentration threshold for serotype 6B (27.9% to 57.3%) and 23F (55.8% to 68.1%) for all studies using a 2, 4 month regimen, compared to 58.4% for serotype 6B and 68.6% for 23F for a study using a 3, 5 month regimen. After the booster dose, all vaccine serotypes including 6B and 23F had immune responses consistent with adequate priming with a two-dose primary series. In a UK study, the functional antibody (OPA) responses were comparable for all serotypes including 6B and 23F in the Prevenar and Prevenar 13 arms after the primary series at two and four months of age and after the booster dose at 12 months of age. For Prevenar 13 recipients, the proportion of responders with an OPA titre ≥ 1:8 was at least 87 % following the infant series, and at least 93% following the booster dose. The OPA geometric mean titres for serotypes 1, 3 and 5 were lower than the titres for each of the other additional serotypes; the clinical relevance of this observation is unknown.
+The immunogenicity after two doses in infants has been documented in four studies. The proportion of infants achieving a pneumococcal anticapsular polysaccharide IgG concentration ≥ 0.35 µ g/ml one month after the second dose ranged from 79.6% to 98.5% across 11 of the 13 vaccine serotypes. Smaller proportions of infants achieved this antibody concentration threshold for serotype 6B (27.9% to 57.3%) and 23F (55.8% to 68.1%) for all studies using a 2, 4 month regimen, compared to 58.4% for serotype 6B and 68.6% for 23F for a study using a 3, 5 month regimen. After the booster dose, all vaccine serotypes including 6B and 23F had immune responses consistent with adequate priming with a two-dose primary series. In a UK study, the functional antibody (OPA) responses were comparable for all serotypes including 6B and 23F in the Prevenar and Prevenar 13 arms after the primary series at two and four months of age and after the booster dose at 12 months of age. For Prevenar 13 recipients, the proportion of responders with an OPA titre ≥ 1:8 was at least 87 % following the infant series, and at least 93% following the booster dose. The OPA geometric mean titres for serotypes 1, 3 and 5 were lower than the titres for each of the other additional serotypes; the clinical relevance of this observation is unknown.
 
 ## Booster responses following two-dose and three-dose primary infant series
 
@@ -619,7 +621,7 @@ Data published by Public Health England showed that, four years after the introd
 | Table 2: S erotype specific number of cases and incidence reductions of IPD in 2013/14 compared to 2008/09 - 2009/10 (2008/10) by age in England and Wales   | Table 2: S erotype specific number of cases and incidence reductions of IPD in 2013/14 compared to 2008/09 - 2009/10 (2008/10) by age in England and Wales   | Table 2: S erotype specific number of cases and incidence reductions of IPD in 2013/14 compared to 2008/09 - 2009/10 (2008/10) by age in England and Wales   | Table 2: S erotype specific number of cases and incidence reductions of IPD in 2013/14 compared to 2008/09 - 2009/10 (2008/10) by age in England and Wales   | Table 2: S erotype specific number of cases and incidence reductions of IPD in 2013/14 compared to 2008/09 - 2009/10 (2008/10) by age in England and Wales   | Table 2: S erotype specific number of cases and incidence reductions of IPD in 2013/14 compared to 2008/09 - 2009/10 (2008/10) by age in England and Wales   | Table 2: S erotype specific number of cases and incidence reductions of IPD in 2013/14 compared to 2008/09 - 2009/10 (2008/10) by age in England and Wales   | Table 2: S erotype specific number of cases and incidence reductions of IPD in 2013/14 compared to 2008/09 - 2009/10 (2008/10) by age in England and Wales   | Table 2: S erotype specific number of cases and incidence reductions of IPD in 2013/14 compared to 2008/09 - 2009/10 (2008/10) by age in England and Wales   |
 |--------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------|
 |                                                                                                                                                              | <5 years of age                                                                                                                                              | <5 years of age                                                                                                                                              | <5 years of age                                                                                                                                              | 5 to 64 years of age                                                                                                                                         | 5 to 64 years of age                                                                                                                                         | 5 to 64 years of age                                                                                                                                         | ≥65 years of age                                                                                                                                             | ≥65 years of age                                                                                                                                             |
-|                                                                                                                                                              | 2008- 10 §                                                                                                                                                   | 2013/ 14 §                                                                                                                                                   | %Incidence reduction (95% CI*)                                                                                                                               | 2008- 10 §                                                                                                                                                   | 2013/ 14 §                                                                                                                                                   | % Incidence reduction (95% CI*)                                                                                                                              | 2008- 10 § 2013/ 14 §                                                                                                                                        | %Incidence reduction (95% CI*)                                                                                                                               |
+|                                                                                                                                                              | 2008- 10 §                                                                                                                                                   | 2013/ 14 §                                                                                                                                                   | %Incidence reduction (95% CI*)                                                                                                                               | 2008- 10 §                                                                                                                                                   | 2013/ 14 §                                                                                                                                                   | % Incidence reduction (95% CI*)                                                                                                                              | 2013/ 14 §                                                                                                                                                   | %Incidence reduction (95% CI*)                                                                                                                               |
 | Additional serotypes covered by Prevenar 13                                                                                                                  | Additional serotypes covered by Prevenar 13                                                                                                                  | Additional serotypes covered by Prevenar 13                                                                                                                  | Additional serotypes covered by Prevenar 13                                                                                                                  | Additional serotypes covered by Prevenar 13                                                                                                                  | Additional serotypes covered by Prevenar 13                                                                                                                  | Additional serotypes covered by Prevenar 13                                                                                                                  | Additional serotypes covered by Prevenar 13                                                                                                                  | Additional serotypes covered by Prevenar 13                                                                                                                  |
 
 <div style=\"page-break-after: always\"></div>
@@ -692,7 +694,7 @@ Using the screening method, serotype-specific effectiveness estimates for 2 dose
 | Table 4: Summary of effectiveness of 7-valent Prevenar for invasive pneumococcal disease   | Table 4: Summary of effectiveness of 7-valent Prevenar for invasive pneumococcal disease   | Table 4: Summary of effectiveness of 7-valent Prevenar for invasive pneumococcal disease   | Table 4: Summary of effectiveness of 7-valent Prevenar for invasive pneumococcal disease   |
 |--------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------|
 | Country (year of introduction)                                                             | Recommended schedule                                                                       | Disease reduction,%                                                                        | 95% CI                                                                                     |
-| UK (England &Wales) 1 (2006)                                                               | 2, 4, + 13 months                                                                          | Vaccine serotypes: Two doses under age 1: 85%                                              | 49, 95%                                                                                    |
+| UK (England& Wales) 1 (2006)                                                               | 2, 4, + 13 months                                                                          | Vaccine serotypes: Two doses under age 1: 85%                                              | 49, 95%                                                                                    |
 | USA (2000) Children < 5 2 Persons ≥ 65 3                                                   | 2, 4, 6, + 12-15 months                                                                    | Vaccine serotypes: 98% All serotypes: 77% Vaccine serotypes: 76% All serotypes: 38%        | 97, 99% 73, 79% NA NA                                                                      |
 | Canada (Quebec) 4 (2004)                                                                   | 2, 4, + 12 months                                                                          | All serotypes: 73% Vaccine serotypes: 2-dose infant series: 99% Completed schedule:100%    | NA 92, 100% 82, 100%                                                                       |
 
@@ -864,10 +866,6 @@ Table 9: OPA GMTs in pneumococcal polysaccharide vaccinated adults aged ≥ 70 y
 | 19F      | 333                     | 214                | 1.6                                 | (1.17, 2.06)                        |
 | 23F      | 158                     | 43                 | 3.7                                 | (2.69, 5.09)                        |
 
-- a Non-inferiority was defined as the lower limit of the 2-sided 95% CI for GMR was greater than 0.5.
-
-b Statistically significantly greater response was defined as the lower bound of the 2-sided 95% CI for the GMR was greater than 1.
-
 - c For serotype 6A † , which is unique to Prevenar 13, a statistically significantly greater response was defined as the lower bound of the 2-sided 95% CI for the GMR greater than 2.
 
 In adults vaccinated with pneumococcal polysaccharide vaccine at least 5 years prior to the clinical study, OPA GMTs to Prevenar 13 were non-inferior to the 23-valent pneumococcal polysaccharide vaccine responses for the 12 serotypes in common. Furthermore, in this study statistically significantly greater OPA GMTs were demonstrated for 10 of the 12 serotypes in common. Immune responses to serotype 6A were statistically significantly greater following vaccination with Prevenar 13 than after 23-valent pneumococcal polysaccharide vaccine.
@@ -890,9 +888,7 @@ An open label single arm study in France, Italy, UK, US, Lebanon, Egypt and Saud
 
 vaccination, Prevenar 13 elicited antibody levels measured by both IgG GMCs and OPA GMTs that were statistically significantly higher when compared to levels prior to vaccination. After the second dose immune responses were comparable to those after the first dose. One year after the second dose, antibody levels measured by both IgG GMCs and OPA GMTs were higher than levels prior to the first dose of Prevenar 13, except for the IgG GMCs for serotypes 3 and 5 that were numerically similar.
 
-## Additional Prevenar (7-valent) immunogenicity data: children with sickle cell disease
-
-The immunogenicity of Prevenar has been investigated in an open-label, multicentre study in 49 infants with sickle cell disease. Children were vaccinated with Prevenar (3 doses one month apart from the age of 2 months), 46 of these children also received a 23-valent pneumococcal polysaccharide vaccine at the age of 15-18 months. After primary immunisation, 95.6 % of the subjects had antibody levels of at least 0.35 μg/ml for all seven serotypes found in Prevenar. A significant increase was seen in the concentrations of antibodies against the seven serotypes after the polysaccharide vaccination, suggesting that immunological memory was well established.
+Additional Prevenar (7-valent) immunogenicity data: children with sickle cell disease The immunogenicity of Prevenar has been investigated in an open-label, multicentre study in 49 infants with sickle cell disease. Children were vaccinated with Prevenar (3 doses one month apart from the age of 2 months), 46 of these children also received a 23-valent pneumococcal polysaccharide vaccine at the age of 15-18 months. After primary immunisation, 95.6 % of the subjects had antibody levels of at least 0.35 μg/ml for all seven serotypes found in Prevenar. A significant increase was seen in the concentrations of antibodies against the seven serotypes after the polysaccharide vaccination, suggesting that immunological memory was well established.
 
 ## HIV infection
 
@@ -1263,9 +1259,9 @@ Hypotonic-hyporesponsive episode
 
 Very common:
 
-Common:
-
 Decreased appetite
+
+Common:
 
 Vomiting; diarrhoea
 
@@ -1273,9 +1269,9 @@ Vomiting; diarrhoea
 
 Common:
 
-Uncommon:
-
 Rash
+
+Uncommon:
 
 Urticaria or urticaria-like rash
 
@@ -1309,7 +1305,7 @@ Safety was evaluated in 592 children (294 children aged 5 to 10 years previously
 
 The most common adverse events in children and adolescents 6 to 17 years of age were:
 
-## Nervous system disorders:
+Nervous system disorders:
 
 Common:
 
@@ -1337,9 +1333,13 @@ Very common:
 
 Irritability; any vaccination-site erythema; induration/swelling or
 
-pain/tenderness; somnolence; poor quality sleep; vaccination-site tenderness (including impaired movement) Pyrexia
+pain/tenderness; somnolence; poor quality sleep;
+
+vaccination-site tenderness (including impaired movement)
 
 Common:
+
+Pyrexia
 
 <div style=\"page-break-after: always\"></div>
 
@@ -1367,7 +1367,7 @@ Very common:
 
 Decreased appetite
 
-Nervous system disorders:
+## Nervous system disorders:
 
 Very common:
 
@@ -1593,7 +1593,7 @@ Data published by Public Health England showed that, four years after the introd
 | Table 2: S erotype specific number of cases and incidence reductions of IPD in 2013/14 compared to 2008/09 - 2009/10 (2008/10) by age in England and Wales   | Table 2: S erotype specific number of cases and incidence reductions of IPD in 2013/14 compared to 2008/09 - 2009/10 (2008/10) by age in England and Wales   | Table 2: S erotype specific number of cases and incidence reductions of IPD in 2013/14 compared to 2008/09 - 2009/10 (2008/10) by age in England and Wales   | Table 2: S erotype specific number of cases and incidence reductions of IPD in 2013/14 compared to 2008/09 - 2009/10 (2008/10) by age in England and Wales   | Table 2: S erotype specific number of cases and incidence reductions of IPD in 2013/14 compared to 2008/09 - 2009/10 (2008/10) by age in England and Wales   | Table 2: S erotype specific number of cases and incidence reductions of IPD in 2013/14 compared to 2008/09 - 2009/10 (2008/10) by age in England and Wales   | Table 2: S erotype specific number of cases and incidence reductions of IPD in 2013/14 compared to 2008/09 - 2009/10 (2008/10) by age in England and Wales   | Table 2: S erotype specific number of cases and incidence reductions of IPD in 2013/14 compared to 2008/09 - 2009/10 (2008/10) by age in England and Wales   | Table 2: S erotype specific number of cases and incidence reductions of IPD in 2013/14 compared to 2008/09 - 2009/10 (2008/10) by age in England and Wales   |
 |--------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------|
 |                                                                                                                                                              | <5 years of age                                                                                                                                              | <5 years of age                                                                                                                                              | <5 years of age                                                                                                                                              | 5 to 64 years of age                                                                                                                                         | 5 to 64 years of age                                                                                                                                         | 5 to 64 years of age                                                                                                                                         | ≥65 years of age                                                                                                                                             | ≥65 years of age                                                                                                                                             |
-|                                                                                                                                                              | 2008- 10 §                                                                                                                                                   | 2013/ 14 §                                                                                                                                                   | %Incidence reduction (95% CI*)                                                                                                                               | 2008- 10 §                                                                                                                                                   | 2013/ 14 §                                                                                                                                                   | % Incidence reduction (95% CI*)                                                                                                                              | 2008- 10 § 2013/ 14 §                                                                                                                                        | %Incidence reduction (95% CI*)                                                                                                                               |
+|                                                                                                                                                              | 2008- 10 §                                                                                                                                                   | 2013/ 14 §                                                                                                                                                   | %Incidence reduction (95% CI*)                                                                                                                               | 2008- 10 §                                                                                                                                                   | 2013/ 14 §                                                                                                                                                   | % Incidence reduction (95% CI*)                                                                                                                              | 2013/ 14 §                                                                                                                                                   | %Incidence reduction (95% CI*)                                                                                                                               |
 | Additional serotypes covered by Prevenar 13                                                                                                                  | Additional serotypes covered by Prevenar 13                                                                                                                  | Additional serotypes covered by Prevenar 13                                                                                                                  | Additional serotypes covered by Prevenar 13                                                                                                                  | Additional serotypes covered by Prevenar 13                                                                                                                  | Additional serotypes covered by Prevenar 13                                                                                                                  | Additional serotypes covered by Prevenar 13                                                                                                                  | Additional serotypes covered by Prevenar 13                                                                                                                  | Additional serotypes covered by Prevenar 13                                                                                                                  |
 
 <div style=\"page-break-after: always\"></div>
@@ -1666,7 +1666,7 @@ Using the screening method, serotype-specific effectiveness estimates for 2 dose
 | Table 4: Summary of effectiveness of 7-valent Prevenar for invasive pneumococcal disease   | Table 4: Summary of effectiveness of 7-valent Prevenar for invasive pneumococcal disease   | Table 4: Summary of effectiveness of 7-valent Prevenar for invasive pneumococcal disease   | Table 4: Summary of effectiveness of 7-valent Prevenar for invasive pneumococcal disease   |
 |--------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------|
 | Country (year of introduction)                                                             | Recommended schedule                                                                       | Disease reduction,%                                                                        | 95% CI                                                                                     |
-| UK (England &Wales) 1 (2006)                                                               | 2, 4, + 13 months                                                                          | Vaccine serotypes: Two doses under age 1: 85%                                              | 49, 95%                                                                                    |
+| UK (England& Wales) 1 (2006)                                                               | 2, 4, + 13 months                                                                          | Vaccine serotypes: Two doses under age 1: 85%                                              | 49, 95%                                                                                    |
 | USA (2000) Children < 5 2 Persons ≥ 65 3                                                   | 2, 4, 6, + 12-15 months                                                                    | Vaccine serotypes: 98% All serotypes: 77% Vaccine serotypes: 76% All serotypes: 38%        | 97, 99% 73, 79% NA NA                                                                      |
 | Canada (Quebec) 4 (2004)                                                                   | 2, 4, + 12 months                                                                          | All serotypes: 73% Vaccine serotypes: 2-dose infant series: 99% Completed schedule:100%    | NA 92, 100% 82, 100%                                                                       |
 
@@ -1761,9 +1761,11 @@ Table 7: OPA GMTs in adults aged 60-64 years given Prevenar 13 or 23 -valent pne
 | 19F      | 599                                 | 517                                 | 539                            | 1.2                                         | (0.87, 1.54)                                | 1.0                                           | (0.72, 1.28)                                  |
 | 23F      | 494                                 | 375                                 | 72                             | 1.3                                         | (0.94, 1.84)                                | 5.2                                           | (3.67, 7.33)                                  |
 
-a Non-inferiority was defined as the lower limit of the 2-sided 95% CI for GMR was greater than 0.5.
+a
 
-b Statistically significantly greater response was defined as the lower bound of the 2-sided 95% CI for the GMR was greater than 1.
+b was greater than 1.
+
+Non-inferiority was defined as the lower limit of the 2-sided 95% CI for GMR was greater than 0.5. Statistically significantly greater response was defined as the lower bound of the 2-sided 95% CI for the GMR
 
 c For serotype 6A † , which is unique to Prevenar 13, a statistically significantly greater response was defined as the lower bound of the 2-sided 95% CI for the GMR being greater than 2.
 
@@ -1816,9 +1818,7 @@ One year after vaccination with Prevenar 13 OPA titers had declined compared to 
 |-------------------------------------------------------------------------------------------------|------------------------------|---------------------------------------------|
 | Adults 18-49 years not previously vaccinated with 23-valent pneumococcal polysaccharide vaccine | 5 to 186                     | 23 to 2948                                  |
 
-## Adults previously vaccinated with 23 -valent pneumococcal polysaccharide vaccine
-
-Immune responses to Prevenar 13 and 23-valent pneumococcal polysaccharide vaccine were compared in a head to head trial in adults aged ≥ 70 years, who had received a single dose of pneumococcal polysaccharide vaccine at least 5 years before study vaccination.
+Adults previously vaccinated with 23 -valent pneumococcal polysaccharide vaccine Immune responses to Prevenar 13 and 23-valent pneumococcal polysaccharide vaccine were compared in a head to head trial in adults aged ≥ 70 years, who had received a single dose of pneumococcal polysaccharide vaccine at least 5 years before study vaccination.
 
 Table 9 compares the OPA GMTs, 1-month post-dose, in pneumococcal polysaccharide vaccinated adults aged ≥ 70 years given a single dose of either Prevenar 13 or 23-valent pneumococcal polysaccharide vaccine.
 
@@ -1843,9 +1843,9 @@ Table 9: OPA GMTs in pneumococcal polysaccharide vaccinated adults aged ≥ 70 y
 | 19F      | 333                     | 214                | 1.6                                 | (1.17, 2.06)                        |
 | 23F      | 158                     | 43                 | 3.7                                 | (2.69, 5.09)                        |
 
-a
+a Non-inferiority was defined as the lower limit of the 2-sided 95% CI for GMR was greater than 0.5.
 
-Non-inferiority was defined as the lower limit of the 2-sided 95% CI for GMR was greater than 0.5. b Statistically significantly greater response was defined as the lower bound of the 2-sided 95% CI for the GMR was greater than 1.
+b Statistically significantly greater response was defined as the lower bound of the 2-sided 95% CI for the GMR was greater than 1.
 
 c For serotype 6A † , which is unique to Prevenar 13, a statistically significantly greater response was defined as the lower bound of the 2-sided 95% CI for the GMR greater than 2.
 
@@ -1992,7 +1992,9 @@ This is a multidose presentation. See section 6.5 for the number of doses per co
 
 ## 3. PHARMACEUTICAL FORM
 
-Suspension for injection in multidose container (4 doses). The vaccine is a homogeneous white suspension.
+Suspension for injection in multidose container (4 doses).
+
+The vaccine is a homogeneous white suspension.
 
 ## 4. CLINICAL PARTICULARS
 
@@ -2230,9 +2232,9 @@ Hypotonic-hyporesponsive episode
 
 Very common:
 
-Common:
-
 Decreased appetite
+
+Common:
 
 Vomiting; diarrhoea
 
@@ -2240,9 +2242,9 @@ Vomiting; diarrhoea
 
 Common:
 
-Uncommon:
-
 Rash
+
+Uncommon:
 
 Urticaria or urticaria-like rash
 
@@ -2258,7 +2260,9 @@ Common:
 
 Pyrexia &gt; 39°C; vaccination-site movement impairment (due to pain);
 
-vaccination-site erythema or induration/swelling 2.5 cm-7.0 cm (after infant series)
+vaccination-site erythema or induration/swelling 2.5 cm-7.0 cm (after infant
+
+series)
 
 Uncommon:
 
@@ -2274,7 +2278,7 @@ Safety was evaluated in 592 children (294 children aged 5 to 10 years previously
 
 The most common adverse events in children and adolescents 6 to 17 years of age were:
 
-## Nervous system disorders:
+Nervous system disorders:
 
 Common:
 
@@ -2302,9 +2306,13 @@ Very common:
 
 Irritability; any vaccination-site erythema; induration/swelling or
 
-pain/tenderness; somnolence; poor quality sleep; vaccination-site tenderness (including impaired movement) Pyrexia
+pain/tenderness; somnolence; poor quality sleep;
+
+vaccination-site tenderness (including impaired movement)
 
 Common:
+
+Pyrexia
 
 <div style=\"page-break-after: always\"></div>
 
@@ -2370,13 +2378,13 @@ Rash
 
 Very common :
 
-Common:
-
-Uncommon:
-
 Chills; fatigue; vaccination-site erythema; vaccination-site induration/swelling; vaccination-site pain/tenderness (severe vaccination-site pain/tenderness very common in adults aged 18 to 39 years); limitation of arm movement (severe limitation of arm movements very common in adults aged 18 to 39 years)
 
+Common:
+
 Pyrexia (very common in adults aged 18 to 29 years)
+
+Uncommon:
 
 Lymphadenopathy localized to the region of the vaccination-site
 
@@ -2647,7 +2655,7 @@ Using the screening method, serotype-specific effectiveness estimates for 2 dose
 | Table 4: Summary of effectiveness of 7-valent Prevenar for invasive pneumococcal disease   | Table 4: Summary of effectiveness of 7-valent Prevenar for invasive pneumococcal disease   | Table 4: Summary of effectiveness of 7-valent Prevenar for invasive pneumococcal disease   | Table 4: Summary of effectiveness of 7-valent Prevenar for invasive pneumococcal disease   |
 |--------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------|
 | Country (year of introduction)                                                             | Recommended schedule                                                                       | Disease reduction,%                                                                        | 95% CI                                                                                     |
-| UK (England &Wales) 1 (2006)                                                               | 2, 4, + 13 months                                                                          | Vaccine serotypes: Two doses under age 1: 85%                                              | 49, 95%                                                                                    |
+| UK (England& Wales) 1 (2006)                                                               | 2, 4, + 13 months                                                                          | Vaccine serotypes: Two doses under age 1: 85%                                              | 49, 95%                                                                                    |
 | USA (2000) Children < 5 2 Persons ≥ 65 3                                                   | 2, 4, 6, + 12-15 months                                                                    | Vaccine serotypes: 98% All serotypes: 77% Vaccine serotypes: 76% All serotypes: 38%        | 97, 99% 73, 79% NA NA                                                                      |
 | Canada (Quebec) 4 (2004)                                                                   | 2, 4, + 12 months                                                                          | All serotypes: 73% Vaccine serotypes: 2-dose infant series: 99% Completed schedule:100%    | NA 92, 100% 82, 100%                                                                       |
 
@@ -2731,23 +2739,24 @@ Adults not previously vaccinated with 23 -valent pneumococcal polysaccharide vac
 
 Table 7 compares the OPA GMTs, 1-month post-dose, in 60-64 year olds given either a single dose of Prevenar 13 or 23-valent pneumococcal polysaccharide vaccine, and in 50-59 year olds given a single dose of Prevenar 13.
 
-| Table 7: OPA GMTs in adults aged 60-64 years given Prevenar 13 or 23 - valent pneumococcal polysaccharide vaccine (PPSV23) and in adults aged 50-59 years given Prevenar 13 a,b,c   | Table 7: OPA GMTs in adults aged 60-64 years given Prevenar 13 or 23 - valent pneumococcal polysaccharide vaccine (PPSV23) and in adults aged 50-59 years given Prevenar 13 a,b,c   | Table 7: OPA GMTs in adults aged 60-64 years given Prevenar 13 or 23 - valent pneumococcal polysaccharide vaccine (PPSV23) and in adults aged 50-59 years given Prevenar 13 a,b,c   | Table 7: OPA GMTs in adults aged 60-64 years given Prevenar 13 or 23 - valent pneumococcal polysaccharide vaccine (PPSV23) and in adults aged 50-59 years given Prevenar 13 a,b,c   | Table 7: OPA GMTs in adults aged 60-64 years given Prevenar 13 or 23 - valent pneumococcal polysaccharide vaccine (PPSV23) and in adults aged 50-59 years given Prevenar 13 a,b,c   | Table 7: OPA GMTs in adults aged 60-64 years given Prevenar 13 or 23 - valent pneumococcal polysaccharide vaccine (PPSV23) and in adults aged 50-59 years given Prevenar 13 a,b,c   | Table 7: OPA GMTs in adults aged 60-64 years given Prevenar 13 or 23 - valent pneumococcal polysaccharide vaccine (PPSV23) and in adults aged 50-59 years given Prevenar 13 a,b,c   | Table 7: OPA GMTs in adults aged 60-64 years given Prevenar 13 or 23 - valent pneumococcal polysaccharide vaccine (PPSV23) and in adults aged 50-59 years given Prevenar 13 a,b,c   |
-|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-|                                                                                                                                                                                     | Prevenar 13 50-59 Years N=350-384                                                                                                                                                   | Prevenar 13 60-64 Years N=359-404                                                                                                                                                   | PPSV23 60-64 Years N=367-402                                                                                                                                                        | Prevenar 13 50-59 Relative to 60-64 Years                                                                                                                                           | Prevenar 13 50-59 Relative to 60-64 Years                                                                                                                                           | Prevenar 13 Relative to PPSV23, 60-64 Years                                                                                                                                         | Prevenar 13 Relative to PPSV23, 60-64 Years                                                                                                                                         |
-| Serotype                                                                                                                                                                            | GMT                                                                                                                                                                                 | GMT                                                                                                                                                                                 | GMT                                                                                                                                                                                 | GMR                                                                                                                                                                                 | (95% CI)                                                                                                                                                                            | GMR                                                                                                                                                                                 | (95% CI)                                                                                                                                                                            |
-| 1                                                                                                                                                                                   | 200                                                                                                                                                                                 | 146                                                                                                                                                                                 | 104                                                                                                                                                                                 | 1.4                                                                                                                                                                                 | (1.08, 1.73)                                                                                                                                                                        | 1.4                                                                                                                                                                                 | (1.10, 1.78)                                                                                                                                                                        |
-| 3                                                                                                                                                                                   | 91                                                                                                                                                                                  | 93                                                                                                                                                                                  | 85                                                                                                                                                                                  | 1.0                                                                                                                                                                                 | (0.81, 1.19)                                                                                                                                                                        | 1.1                                                                                                                                                                                 | (0.90, 1.32)                                                                                                                                                                        |
-| 4                                                                                                                                                                                   | 2833                                                                                                                                                                                | 2062                                                                                                                                                                                | 1295                                                                                                                                                                                | 1.4                                                                                                                                                                                 | (1.07, 1.77)                                                                                                                                                                        | 1.6                                                                                                                                                                                 | (1.19, 2.13)                                                                                                                                                                        |
-| 5                                                                                                                                                                                   | 269                                                                                                                                                                                 | 199                                                                                                                                                                                 | 162                                                                                                                                                                                 | 1.4                                                                                                                                                                                 | (1.01, 1.80)                                                                                                                                                                        | 1.2                                                                                                                                                                                 | (0.93, 1.62)                                                                                                                                                                        |
-| 6A †                                                                                                                                                                                | 4328                                                                                                                                                                                | 2593                                                                                                                                                                                | 213                                                                                                                                                                                 | 1.7                                                                                                                                                                                 | (1.30, 2.15)                                                                                                                                                                        | 12.1                                                                                                                                                                                | (8.63, 17.08)                                                                                                                                                                       |
-| 6B                                                                                                                                                                                  | 3212                                                                                                                                                                                | 1984                                                                                                                                                                                | 788                                                                                                                                                                                 | 1.6                                                                                                                                                                                 | (1.24, 2.12)                                                                                                                                                                        | 2.5                                                                                                                                                                                 | (1.82, 3.48)                                                                                                                                                                        |
-| 7F                                                                                                                                                                                  | 1520                                                                                                                                                                                | 1120                                                                                                                                                                                | 405                                                                                                                                                                                 | 1.4                                                                                                                                                                                 | (1.03, 1.79)                                                                                                                                                                        | 2.8                                                                                                                                                                                 | (1.98, 3.87)                                                                                                                                                                        |
-| 9V                                                                                                                                                                                  | 1726                                                                                                                                                                                | 1164                                                                                                                                                                                | 407                                                                                                                                                                                 | 1.5                                                                                                                                                                                 | (1.11, 1.98)                                                                                                                                                                        | 2.9                                                                                                                                                                                 | (2.00, 4.08)                                                                                                                                                                        |
-| 14                                                                                                                                                                                  | 957                                                                                                                                                                                 | 612                                                                                                                                                                                 | 692                                                                                                                                                                                 | 1.6                                                                                                                                                                                 | (1.16, 2.12)                                                                                                                                                                        | 0.9                                                                                                                                                                                 | (0.64, 1.21)                                                                                                                                                                        |
-| 18C                                                                                                                                                                                 | 1939                                                                                                                                                                                | 1726                                                                                                                                                                                | 925                                                                                                                                                                                 | 1.1                                                                                                                                                                                 | (0.86, 1.47)                                                                                                                                                                        | 1.9                                                                                                                                                                                 | (1.39, 2.51)                                                                                                                                                                        |
-| 19A                                                                                                                                                                                 | 956                                                                                                                                                                                 | 682                                                                                                                                                                                 | 352                                                                                                                                                                                 | 1.4                                                                                                                                                                                 | (1.16, 1.69)                                                                                                                                                                        | 1.9                                                                                                                                                                                 | (1.56, 2.41)                                                                                                                                                                        |
-| 19F                                                                                                                                                                                 | 599                                                                                                                                                                                 | 517                                                                                                                                                                                 | 539                                                                                                                                                                                 | 1.2                                                                                                                                                                                 | (0.87, 1.54)                                                                                                                                                                        | 1.0                                                                                                                                                                                 | (0.72, 1.28)                                                                                                                                                                        |
-| 23F                                                                                                                                                                                 | 494                                                                                                                                                                                 | 375                                                                                                                                                                                 | 72                                                                                                                                                                                  | 1.3                                                                                                                                                                                 | (0.94, 1.84)                                                                                                                                                                        | 5.2                                                                                                                                                                                 | (3.67, 7.33)                                                                                                                                                                        |
+Table 7: OPA GMTs in adults aged 60-64 years given Prevenar 13 or 23 -valent pneumococcal polysaccharide vaccine (PPSV23) and in adults aged 50-59 years given Prevenar 13 a,b,c
+
+|          | Prevenar 13 50-59 Years N=350-384   | Prevenar 13 60-64 Years N=359-404   | PPSV23 60-64 Years N=367-402   | Prevenar 13 50-59 Relative to 60-64 Years   | Prevenar 13 50-59 Relative to 60-64 Years   | Prevenar 13 Relative to PPSV23, 60-64 Years   | Prevenar 13 Relative to PPSV23, 60-64 Years   |
+|----------|-------------------------------------|-------------------------------------|--------------------------------|---------------------------------------------|---------------------------------------------|-----------------------------------------------|-----------------------------------------------|
+| Serotype | GMT                                 | GMT                                 | GMT                            | GMR                                         | (95% CI)                                    | GMR                                           | (95% CI)                                      |
+| 1        | 200                                 | 146                                 | 104                            | 1.4                                         | (1.08, 1.73)                                | 1.4                                           | (1.10, 1.78)                                  |
+| 3        | 91                                  | 93                                  | 85                             | 1.0                                         | (0.81, 1.19)                                | 1.1                                           | (0.90, 1.32)                                  |
+| 4        | 2833                                | 2062                                | 1295                           | 1.4                                         | (1.07, 1.77)                                | 1.6                                           | (1.19, 2.13)                                  |
+| 5        | 269                                 | 199                                 | 162                            | 1.4                                         | (1.01, 1.80)                                | 1.2                                           | (0.93, 1.62)                                  |
+| 6A †     | 4328                                | 2593                                | 213                            | 1.7                                         | (1.30, 2.15)                                | 12.1                                          | (8.63, 17.08)                                 |
+| 6B       | 3212                                | 1984                                | 788                            | 1.6                                         | (1.24, 2.12)                                | 2.5                                           | (1.82, 3.48)                                  |
+| 7F       | 1520                                | 1120                                | 405                            | 1.4                                         | (1.03, 1.79)                                | 2.8                                           | (1.98, 3.87)                                  |
+| 9V       | 1726                                | 1164                                | 407                            | 1.5                                         | (1.11, 1.98)                                | 2.9                                           | (2.00, 4.08)                                  |
+| 14       | 957                                 | 612                                 | 692                            | 1.6                                         | (1.16, 2.12)                                | 0.9                                           | (0.64, 1.21)                                  |
+| 18C      | 1939                                | 1726                                | 925                            | 1.1                                         | (0.86, 1.47)                                | 1.9                                           | (1.39, 2.51)                                  |
+| 19A      | 956                                 | 682                                 | 352                            | 1.4                                         | (1.16, 1.69)                                | 1.9                                           | (1.56, 2.41)                                  |
+| 19F      | 599                                 | 517                                 | 539                            | 1.2                                         | (0.87, 1.54)                                | 1.0                                           | (0.72, 1.28)                                  |
+| 23F      | 494                                 | 375                                 | 72                             | 1.3                                         | (0.94, 1.84)                                | 5.2                                           | (3.67, 7.33)                                  |
 
 a Non-inferiority was defined as the lower limit of the 2-sided 95% CI for GMR was greater than 0.5.
 
@@ -2810,7 +2819,7 @@ Table 9 compares the OPA GMTs, 1-month post-dose, in pneumococcal polysaccharide
 
 <div style=\"page-break-after: always\"></div>
 
-Table 9: OPA GMTs in pneumococcal polysaccharide vaccinated adults aged ≥ 70 years given either Prevenar 13 or 23 -valent pneumococcal polysaccharide vaccine (PPSV23) a,b,c
+## Table 9: OPA GMTs in pneumococcal polysaccharide vaccinated adults aged ≥ 70 years given either Prevenar 13 or 23 -valent pneumococcal polysaccharide vaccine (PPSV23) a,b,c
 
 |          | Prevenar 13 N=400-426   | PPSV23 N=395-445   | PrevenarOPAGMT Relative to PPSV23   | PrevenarOPAGMT Relative to PPSV23   |
 |----------|-------------------------|--------------------|-------------------------------------|-------------------------------------|
@@ -2829,9 +2838,11 @@ Table 9: OPA GMTs in pneumococcal polysaccharide vaccinated adults aged ≥ 70 y
 | 19F      | 333                     | 214                | 1.6                                 | (1.17, 2.06)                        |
 | 23F      | 158                     | 43                 | 3.7                                 | (2.69, 5.09)                        |
 
-a Non-inferiority was defined as the lower limit of the 2-sided 95% CI for GMR was greater than 0.5. b Statistically significantly greater response was defined as the lower bound of the 2-sided 95% CI for the GMR was greater than 1.
+a Non-inferiority was defined as the lower limit of the 2-sided 95% CI for GMR was greater than 0.5.
 
-c For serotype 6A † , which is unique to Prevenar 13, a statistically significantly greater response was defined as the lower bound of the 2-sided 95% CI for the GMR greater than 2.
+b Statistically significantly greater response was defined as the lower bound of the 2-sided 95% CI for the GMR was greater than 1.
+
+- c For serotype 6A † , which is unique to Prevenar 13, a statistically significantly greater response was defined as the lower bound of the 2-sided 95% CI for the GMR greater than 2.
 
 In adults vaccinated with pneumococcal polysaccharide vaccine at least 5 years prior to the clinical study, OPA GMTs to Prevenar 13 were non-inferior to the 23-valent pneumococcal polysaccharide vaccine responses for the 12 serotypes in common. Furthermore, in this study statistically significantly greater OPA GMTs were demonstrated for 10 of the 12 serotypes in common. Immune responses to serotype 6A were statistically significantly greater following vaccination with Prevenar 13 than after 23-valent pneumococcal polysaccharide vaccine.
 
@@ -2925,19 +2936,15 @@ No special requirements for disposal.
 
 Any unused medicinal product or waste material should be disposed of in accordance with local requirements.
 
-## 7. MARKETING AUTHORISATION HOLDER
+7.
+
+MARKETING AUTHORISATION HOLDER
 
 Pfizer Europe MA EEIG Boulevard de la Plaine 17 1050 Bruxelles Belgium
 
 ## 8. MARKETING AUTHORISATION NUMBER(S)
 
-EU/1/09/590/012
-
-EU/1/09/590/013
-
-EU/1/09/590/014
-
-EU/1/09/590/015
+EU/1/09/590/012 EU/1/09/590/013 EU/1/09/590/014 EU/1/09/590/015
 
 EU/1/09/590/016
 
@@ -2968,17 +2975,15 @@ Detailed information on this medicinal product is available on the website of th
 
 Name and address of the manufacturers of the biological active substance
 
-Wyeth BioPharma Division of Wyeth Pharmaceuticals LLC One Burtt Road Andover, MA 01810 USA
+Wyeth Pharmaceuticals LLC 1 Burtt Road Andover, MA 01810 USA
 
 Pfizer Ireland Pharmaceuticals Unlimited Company Grange Castle Business Park Nangor Road Dublin 22 D22 V8F8 Ireland
 
-Wyeth Pharmaceutical Division of Wyeth Holdings LLC 4300 Oak Park Sanford, NC 27330 USA
+Wyeth Holdings LLC 4300 Oak Park Sanford, NC 27330 USA
 
 Name and address of the manufacturer responsible for batch release
 
-Pfizer Manufacturing Belgium NV
-
-Rijksweg 12 2870 Puurs-Sint-Amands Belgium
+Pfizer Manufacturing Belgium NV Rijksweg 12 2870 Puurs-Sint-Amands Belgium
 
 ## B. CONDITIONS OR RESTRICTIONS REGARDING SUPPLY AND USE
 
@@ -3076,7 +3081,7 @@ Do not freeze.
 
 Prevenar 13 is stable at temperatures up to 25°C for four days. At the end of this period Prevenar 13 should be used or discarded.
 
-10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
+## 10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
@@ -3128,31 +3133,27 @@ PC SN NN
 
 <div style=\"page-break-after: always\"></div>
 
-| MINIMUM PARTICULARS TO APPEAR ON SMALL IMMEDIATE PACKAGING UNITS   |
-|--------------------------------------------------------------------|
-| Pre-filled syringe                                                 |
+## MINIMUM PARTICULARS TO APPEAR ON SMALL IMMEDIATE PACKAGING UNITS
+
+Pre-filled syringe
 
 ## 1. NAME OF THE MEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION
 
 Prevenar 13 suspension for injection IM
 
-| 2.   | METHOD OF ADMINISTRATION   |
-|------|----------------------------|
+## 2. METHOD OF ADMINISTRATION
 
 Shake well before use.
 
-| 3.   | EXPIRY DATE   |
-|------|---------------|
+## 3. EXPIRY DATE
 
 EXP
 
-| 4.   | BATCH NUMBER   |
-|------|----------------|
+## 4. BATCH NUMBER
 
 Lot
 
-| 5.   | CONTENTS BY WEIGHT, BY VOLUME OR BY UNIT   |
-|------|--------------------------------------------|
+## 5. CONTENTS BY WEIGHT, BY VOLUME OR BY UNIT
 
 1 dose (0.5 ml)
 
@@ -3215,7 +3216,7 @@ Store in a refrigerator.
 
 Do not freeze.
 
-## 10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
+10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
@@ -3255,32 +3256,27 @@ PC SN NN
 
 <div style=\"page-break-after: always\"></div>
 
-| MINIMUM PARTICULARS TO APPEAR ON SMALL IMMEDIATE PACKAGING UNITS   |
-|--------------------------------------------------------------------|
-| Single Dose Vial Label                                             |
+## MINIMUM PARTICULARS TO APPEAR ON SMALL IMMEDIATE PACKAGING UNITS
 
-| 1.   | NAME OF THE MEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION   |
-|------|----------------------------------------------------------------|
+Single Dose Vial Label
+
+## 1. NAME OF THE MEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION
 
 Prevenar 13 suspension for injection in single dose vial IM
 
-| 2.   | METHOD OF ADMINISTRATION   |
-|------|----------------------------|
+## 2. METHOD OF ADMINISTRATION
 
 Shake well before use.
 
-| 3.   | EXPIRY DATE   |
-|------|---------------|
+## 3. EXPIRY DATE
 
 EXP
 
-| 4.   | BATCH NUMBER   |
-|------|----------------|
+## 4. BATCH NUMBER
 
 Lot
 
-| 5.   | CONTENTS BY WEIGHT, BY VOLUME OR BY UNIT   |
-|------|--------------------------------------------|
+## 5. CONTENTS BY WEIGHT, BY VOLUME OR BY UNIT
 
 1 dose (0.5 ml)
 
@@ -3347,7 +3343,13 @@ After first use, the product may be stored in a refrigerator for a maximum of 28
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
-Pfizer Europe MA EEIG Boulevard de la Plaine 17 1050 Bruxelles Belgium
+Pfizer Europe MA EEIG
+
+Boulevard de la Plaine 17
+
+1050 Bruxelles
+
+Belgium
 
 ## 12. MARKETING AUTHORISATION NUMBER(S)
 
@@ -3367,7 +3369,7 @@ Lot
 
 ## 14. GENERAL CLASSIFICATION FOR SUPPLY
 
-## 15. INSTRUCTIONS ON USE
+15. INSTRUCTIONS ON USE
 
 ## 16. INFORMATION IN BRAILLE
 
@@ -3393,18 +3395,15 @@ NN
 
 Prevenar 13 suspension for injection in multidose container IM
 
-| 2.   | METHOD OF ADMINISTRATION   |
-|------|----------------------------|
+## 2. METHOD OF ADMINISTRATION
 
 Shake well before use.
 
-| 3.   | EXPIRY DATE   |
-|------|---------------|
+## 3. EXPIRY DATE
 
 EXP
 
-| 4.   | BATCH NUMBER   |
-|------|----------------|
+## 4. BATCH NUMBER
 
 Lot
 
@@ -3791,13 +3790,13 @@ Pfizer Corporation Austria Ges.m.b.H Tel: + 43 (0)1 521 15-0
 
 ## Polska
 
-Pfizer Polska Sp. z o.o.
-
-Tel.: +48 22 335 61 00
+Pfizer Polska Sp. z o.o. Tel.: +48 22 335 61 00
 
 ## Portugal
 
-Laboratórios Pfizer, Lda. Tel: +351 21 423 5500
+Laboratórios Pfizer, Lda.
+
+Tel: +351 21 423 5500
 
 ## România
 
@@ -3809,11 +3808,7 @@ Pfizer Luxembourg SARL Pfizer, podružnica za svetovanje s področja farmacevtsk
 
 ## Slovenská republika
 
-Pfizer Luxembourg SARL, organiza
-
-čná zložka
-
-Tel: + 421 2 3355 5500
+Pfizer Luxembourg SARL, organiza čná zložka Tel: + 421 2 3355 5500
 
 ## Suomi/Finland
 
@@ -3965,7 +3960,7 @@ Children aged 12 to 23 months should receive two injections. Each injection will
 
 Children aged 2 to 17 years should receive one injection.
 
-Infants, children, and adolescents previously vaccinated with Prevenar
+## Infants, children, and adolescents previously vaccinated with Prevenar
 
 Infants and children who have previously received Prevenar may receive Prevenar 13 to complete the course of injections.
 
@@ -4109,7 +4104,9 @@ The vaccine is a white suspension for injection, provided in a single-dose vial 
 
 ## Marketing Authorisation Holder and Manufacturer
 
-Marketing Authorisation Holder: Pfizer Europe MA EEIG Boulevard de la Plaine 17 1050 Bruxelles Belgium
+Marketing Authorisation Holder:
+
+Pfizer Europe MA EEIG Boulevard de la Plaine 17 1050 Bruxelles Belgium
 
 Manufacturer responsible for batch release:
 
@@ -4131,7 +4128,9 @@ Tél/Tel: + 32 (0)2 554 62 11
 
 Latvija
 
-Pfizer Luxembourg SARL filiāle Latvijā Tel.: + 371 670 35 775
+Pfizer Luxembourg SARL filiāle Latvijā
+
+Tel.: + 371 670 35 775
 
 ## България
 
@@ -4153,15 +4152,11 @@ Pfizer, spol. s r.o. Tel: +420 283 004 111
 
 ## Danmark
 
-Pfizer ApS
-
-Tlf.: + 45 44 201 100
+Pfizer ApS Tlf.: + 45 44 201 100
 
 ## Deutschland
 
-Pfizer Pharma GmbH
-
-Tel: + 49 (0)30 550055-51000
+Pfizer Pharma GmbH Tel: + 49 (0)30 550055-51000
 
 ## Eesti
 
@@ -4173,7 +4168,9 @@ Pfizer Ελλάς A.E. Τηλ.: +30 210 6785 800
 
 ## España
 
-Pfizer, S.L. Télf:+34914909900
+Pfizer, S.L.
+
+Télf:+34914909900
 
 ## France
 
@@ -4193,9 +4190,7 @@ Icepharma hf Simi: + 354 540 8000
 
 ## Italia
 
-Pfizer S.r.l.
-
-Tel: +39 06 33 18 21
+Pfizer S.r.l. Tel: +39 06 33 18 21
 
 ## K ύπρος
 
@@ -4213,13 +4208,13 @@ Vivian Corporation Ltd. Tel: + 35621 344610
 
 ## Nederland
 
-Pfizer BV
-
-Tel: +31 (0)10 406 43 01
+Pfizer BV Tel: +31 (0)10 406 43 01
 
 ## Norge
 
-Pfizer AS Tlf: +47 67 52 61 00
+Pfizer AS
+
+Tlf: +47 67 52 61 00
 
 ## Österreich
 
@@ -4227,9 +4222,7 @@ Pfizer Corporation Austria Ges.m.b.H Tel: + 43 (0)1 521 15-0
 
 ## Polska
 
-Pfizer Polska Sp. z o.o.
-
-Tel.: +48 22 335 61 00
+Pfizer Polska Sp. z o.o. Tel.: +48 22 335 61 00
 
 ## Portugal
 
@@ -4605,9 +4598,7 @@ Pfizer ApS Tlf.: + 45 44 201 100
 
 ## Deutschland
 
-Pfizer Pharma GmbH
-
-Tel: + 49 (0)30 550055-51000
+Pfizer Pharma GmbH Tel: + 49 (0)30 550055-51000
 
 ## Eesti
 
@@ -4657,9 +4648,7 @@ Vivian Corporation Ltd. Tel: + 35621 344610
 
 ## Nederland
 
-Pfizer BV
-
-Tel: +31 (0)10 406 43 01
+Pfizer BV Tel: +31 (0)10 406 43 01
 
 ## Norge
 
@@ -4671,9 +4660,7 @@ Pfizer Corporation Austria Ges.m.b.H Tel: + 43 (0)1 521 15-0
 
 ## Polska
 
-Pfizer Polska Sp. z o.o.
-
-Tel.: +48 22 335 61 00
+Pfizer Polska Sp. z o.o. Tel.: +48 22 335 61 00
 
 ## Portugal
 
@@ -4681,9 +4668,7 @@ Laboratórios Pfizer, Lda. Tel: +351 21 423 5500
 
 ## România
 
-Pfizer Romania S.R.L
-
-Tel: +40 (0) 21 207 28 00
+Pfizer Romania S.R.L Tel: +40 (0) 21 207 28 00
 
 ## Slovenija
 
@@ -4703,9 +4688,7 @@ Pfizer AB Tel: +46 (0)8 550 520 00
 
 <div style=\"page-break-after: always\"></div>
 
-## This leaflet was last revised in
-
-## Other sources of information
+## This leaflet was last revised in Other sources of information
 
 Detailed information on this product is available on the European Medicines Agency website: https://www.ema.europa.eu.
 

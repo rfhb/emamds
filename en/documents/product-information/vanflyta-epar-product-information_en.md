@@ -1,18 +1,18 @@
 ---
-document_datetime: 2024-12-18 17:01:05
+document_datetime: 2026-02-05 15:57:24
 document_pages: 40
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/vanflyta-epar-product-information_en.pdf
 document_name: vanflyta-epar-product-information_en.pdf
 version: success
-processing_time: 9.9658598
-conversion_datetime: 2025-12-20 17:42:06.678921
+processing_time: 9.7218285
+conversion_datetime: 2026-02-09 21:59:17.683728
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.64.1
-  docling-core: 2.55.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.12.0
+  docling-jobkit: 1.10.1
+  docling: 2.72.0
+  docling-core: 2.63.0
+  docling-ibm-models: 3.11.0
+  docling-parse: 4.7.3
   python: cpython-313 (3.13.11)
   plaform: macOS-26.2-arm64-arm-64bit-Mach-O
 ---
@@ -78,21 +78,15 @@ For additional dosing information see Tables 1 to 3.
 
 Table 1: Dose regimen
 
-| VANFLYTA                 | Induction a                             | Consolidation b         | Maintenance                                                         |
-|--------------------------|-----------------------------------------|-------------------------|---------------------------------------------------------------------|
-| initiation               | Starting on day 8 (For 7 + 3 regimen) c | Starting on day 6       | First day of maintenance therapy                                    |
-| 35.4 mg once             | daily                                   | 35.4 mg once daily      | Dose • After two weeks, if QTcF                                     |
-| Duration (28-day cycles) | Two weeks in each cycle                 | Two weeks in each cycle | daily. Once daily with no break between cycles for up to 36 cycles. |
-
-a Patients can receive up to 2 cycles of induction.
-
-b Patients can receive up to 4 cycles of consolidation.
-
-c For 5 + 2 regimen as the second induction cycle, VANFLYTA will be started on day 6.
+| VANFLYTA                 | Induction a                             | Consolidation b         | Maintenance                                                  |
+|--------------------------|-----------------------------------------|-------------------------|--------------------------------------------------------------|
+| initiation               | Starting on day 8 (For 7 + 3 regimen) c | Starting on day 6       | First day of maintenance therapy                             |
+| 35.4 mg once             | daily                                   | 35.4 mg once daily      | Dose • After two weeks, if QTcF                              |
+| Duration (28-day cycles) | Two weeks in each cycle                 | Two weeks in each cycle | Once daily with no break between cycles for up to 36 cycles. |
 
 ## Haematopoietic stem cell transplantation
 
-For patients who proceed to haematopoietic stem cell transplantation (HSCT), VANFLYTA should be stopped 7 days before the start of a conditioning regimen. It may be resumed after completion of the transplant based on white blood cell count (WBC) and at the discretion of the treating physician for patients with sufficient haemato logic recovery and with ≤ Grade 2 graft-versus-host disease (GVHD), not requiring the initiation of new systemic GVHD therapy within 21 days, following the dosing recommendations described above.
+For patients who proceed to haematopoietic stem cell transplantation (HSCT), VANFLYTA should be stopped 7 days before the start of a conditioning regimen. It may be resumed after completion of the transplant based on white blood cell count (WBC) and at the discretion of the treating physician for patients with sufficient haematologic recovery and with ≤ Grade 2 graft-versus-host disease (GVHD), not requiring the initiation of new systemic GVHD therapy within 21 days, following the dosing recommendations described above.
 
 ## Dose modifications
 
@@ -451,12 +445,6 @@ Table 5: Efficacy results from QuANTUM-First (intent-to-treat population)
 | 36 months                                    | 49.9 (43.7, 55.9)     | 41.1 (35.0, 47.0)    |
 | 48 months                                    | 48.4 (41.9, 54.5)     | 37.0 (29.8, 44.2)    |
 
-CI = confidence interval; NE = not estimable
-
-a Kaplan-Meier estimate
-
-b Hazard ratio (HR) was based on stratified Cox regression model.
-
 <div style=\"page-break-after: always\"></div>
 
 Figure 1: Kaplan-Meier curves for overall survival in QuANTUM-First
@@ -757,7 +745,7 @@ Keep out of the sight and reach of children.
 
 ## 7. OTHER SPECIAL WARNING(S), IF NECESSARY
 
-8. EXPIRY DATE
+## 8. EXPIRY DATE
 
 EXP
 
@@ -801,17 +789,17 @@ NN
 
 <div style=\"page-break-after: always\"></div>
 
-| MINIMUM PARTICULARS TO APPEAR ONBLISTERS ORSTRIPS   |
-|-----------------------------------------------------|
-| BLISTER                                             |
+| MINIMUM PARTICULARS TO APPEAR ONBLISTERS OR STRIPS   |
+|------------------------------------------------------|
+| BLISTER                                              |
 
 | 1.   | NAMEOFTHEMEDICINAL PRODUCT   |
 |------|------------------------------|
 
 VANFLYTA 17.7 mg tablets quizartinib
 
-| 2.   | NAMEOFTHEMARKETING AUTHORISATION HOLDER   |
-|------|-------------------------------------------|
+| 2.   | NAMEOFTHEMARKETINGAUTHORISATION HOLDER   |
+|------|------------------------------------------|
 
 Daiichi-Sankyo (logo)
 
@@ -828,15 +816,15 @@ Lot
 | 5.   | OTHER   |
 |------|---------|
 
+<div style=\"page-break-after: always\"></div>
+
 ## PARTICULARS TO APPEAR ON THE OUTER PACKAGING
 
 OUTER CARTON
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
-VANFLYTA 26.5 mg film-coated tablets
-
-quizartinib
+VANFLYTA 26.5 mg film-coated tablets quizartinib
 
 ## 2. STATEMENT OF ACTIVE SUBSTANCE(S)
 
@@ -872,9 +860,7 @@ EXP
 
 ## 9. SPECIAL STORAGE CONDITIONS
 
-<div style=\"page-break-after: always\"></div>
-
-## 10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
+10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
@@ -896,7 +882,7 @@ Lot
 
 15. INSTRUCTIONS ON USE
 
-## 16. INFORMATION IN BRAILLE
+16. INFORMATION IN BRAILLE
 
 vanflyta 26.5 mg
 
@@ -916,17 +902,17 @@ NN
 
 <div style=\"page-break-after: always\"></div>
 
-| MINIMUM PARTICULARS TO APPEAR ONBLISTERS ORSTRIPS   |
-|-----------------------------------------------------|
-| BLISTER                                             |
+| MINIMUM PARTICULARS TO APPEAR ONBLISTERS OR STRIPS   |
+|------------------------------------------------------|
+| BLISTER                                              |
 
 | 1.   | NAMEOFTHEMEDICINAL PRODUCT   |
 |------|------------------------------|
 
 VANFLYTA 26.5 mg tablets quizartinib
 
-| 2.   | NAMEOFTHEMARKETING AUTHORISATION HOLDER   |
-|------|-------------------------------------------|
+| 2.   | NAMEOFTHEMARKETINGAUTHORISATION HOLDER   |
+|------|------------------------------------------|
 
 Daiichi-Sankyo (logo)
 
@@ -1271,9 +1257,7 @@ Do not throw away any medicines via wastewater or household waste. Ask your phar
 
 - The active substance is quizartinib.
 
-VANFLYTA 17.7 mg: Each film-coated tablet contains 17.7 mg quizartinib (as
-
-dihydrochloride).
+VANFLYTA 17.7 mg: Each film-coated tablet contains 17.7 mg quizartinib (as dihydrochloride).
 
 VANFLYTA 26.5 mg: Each film-coated tablet contains 26.5 mg quizartinib (as
 
@@ -1313,81 +1297,129 @@ For any information about this medicine, please contact the local representative
 
 <div style=\"page-break-after: always\"></div>
 
-België/Belgique/Belgien Daiichi Sankyo Belgium N.V.-S.A Tél/Tel: +32-(0) 2 227 18 80
+België/Belgique/Belgien Daiichi Sankyo Belgium N.V.-S.A
 
-България Daiichi Sankyo Europe GmbH Te л .: +49-(0) 89 7808 0
+Tél/Tel: +32-(0) 2 227 18 80
 
-Česká republika Daiichi Sankyo Europe GmbH Tel: +49-(0) 89 7808 0
+## България
 
-Danmark Daiichi Sankyo Nordics ApS Tlf.: +45 (0) 33 68 19 99
+Genesis Pharma Bulgaria EOOD Teл.: +359 2 969 3227
 
-Deutschland Daiichi Sankyo Deutschland GmbH Tel: +49-(0) 89 7808 0
+## Česká republika
 
-Eesti Daiichi Sankyo Europe GmbH Tel: +49-(0) 89 7808 0
+Genesis Biopharma Czech Republic S.R.O. Tel: +357 22765715
 
-Ελλάδα
-
-Daiichi Sankyo Greece Single Member S.A Τηλ : +30 2104448037
-
-España Daiichi Sankyo España, S.A. Tel: +34 91 539 99 11
-
-France
-
-Daiichi Sankyo France S.A.S Tél: +33 (0) 1 55 62 14 60
-
-Hrvatska Daiichi Sankyo Europe GmbH Tel: +49-(0) 89 7808 0
-
-Ireland Daiichi Sankyo Ireland Ltd Tel: +353-(0) 1 489 3000
+## Danmark
 
 Daiichi Sankyo Nordics ApS
 
-Ísland Sími: +354 5357000
+Tlf.: +45 (0) 33 68 19 99
 
-Italia
+## Deutschland
+
+Daiichi Sankyo Deutschland GmbH
+
+Tel: +49-(0) 89 7808 0
+
+## Eesti
+
+Genesis Pharma (Cyprus) Ltd Tel: +357 22765715
+
+## Ελλάδα
+
+Daiichi Sankyo Greece Single Member S.A Τηλ: +30 2104448037
+
+## España
+
+Daiichi Sankyo España, S.A. Tel: +34 91 539 99 11
+
+## France
+
+Daiichi Sankyo France S.A.S Tél: +33 (0) 1 55 62 14 60
+
+## Hrvatska
+
+Genesis Pharma Adriatic d.o.o Tel: +385 1 5530 011
+
+## Ireland
+
+Daiichi Sankyo Ireland Ltd Tel: +353-(0) 1 489 3000
+
+## Ísland
+
+Daiichi Sankyo Nordics ApS Sími: +354 5357000
+
+## Italia
 
 Daiichi Sankyo Italia S.p.A. Tel: +39-06 85 2551
 
-Κύπρος Daiichi Sankyo Europe GmbH Τηλ: +49-(0) 89 7808 0
+## Κύπρος
 
-Latvija Daiichi Sankyo Europe GmbH Tel: +49-(0) 89 7808 0
+Genesis Pharma (Cyprus) Ltd Τηλ: +357 22765715
+
+## Latvija
+
+Genesis Pharma (Cyprus) Ltd Tel: +357 22765715
 
 ## This leaflet was last revised in .
 
-Lietuva
+## Lietuva
 
-Daiichi Sankyo Europe GmbH Tel: +49-(0) 89 7808 0
+Genesis Pharma (Cyprus) Ltd Tel: +357 22765715
 
 Luxembourg/Luxemburg Daiichi Sankyo Belgium N.V.-S.A Tél/Tel: +32-(0) 2 227 18 80
 
-Magyarország Daiichi Sankyo Europe GmbH Tel.: +49-(0) 89 7808 0
+## Magyarország
+
+Genesis Biopharma Hungary kft Tel.: +357 22765715
 
 ## Malta
 
-Daiichi Sankyo Europe GmbH Tel: +49-(0) 89 7808 0
+Genesis Pharma (Cyprus) Ltd Tel: +357 22765715
 
-Nederland Daiichi Sankyo Nederland B.V. Tel: +31-(0) 20 4 07 20 72
+## Nederland
 
-Norge
+Daiichi Sankyo Nederland B.V. Tel: +31-(0) 20 4 07 20 72
+
+## Norge
 
 Daiichi Sankyo Nordics ApS Tlf: +47 (0) 21 09 38 29
 
-Österreich Daiichi Sankyo Austria GmbH Tel: +43-(0) 1 4858642 0
+## Österreich
 
-Polska
+Daiichi Sankyo Austria GmbH Tel: +43-(0) 1 4858642 0
 
-Daiichi Sankyo Europe GmbH Tel.: +49-(0) 89 7808 0
+## Polska
 
-Portugal Daiichi Sankyo Portugal, Unip. LDA Tel: +351 21 4232010
+Genesis Biopharma Poland sp. Z.O.O. Tel.: +357 22765715
 
-România Daiichi Sankyo Europe GmbH Tel: +49-(0) 89 7808 0
+## Portugal
 
-Slovenija Daiichi Sankyo Europe GmbH Tel: +49-(0) 89 7808 0
+Daiichi Sankyo Portugal, Unip. LDA Tel: +351 21 4232010
 
-Slovenská republika Daiichi Sankyo Europe GmbH Tel: +49-(0) 89 7808 0
+## România
 
-Suomi/Finland Daiichi Sankyo Nordics ApS Puh/Tel: +358 (0) 9 3540 7081
+Genesis Biopharma Romania SRL
 
-Sverige Daiichi Sankyo Nordics ApS Tel: +46 (0) 40 699 2524
+Tel: +40 21 403 4074
+
+## Slovenija
+
+Genesis Biopharma SL d.o.o.
+
+Tel: +386 1 292 70 90
+
+## Slovenská republika
+
+Genesis Biopharma Slovakia S.R.O. Tel: +357 22765715
+
+## Suomi/Finland
+
+Daiichi Sankyo Nordics ApS Puh/Tel: +358 (0) 9 3540 7081
+
+## Sverige
+
+Daiichi Sankyo Nordics ApS Tel: +46 (0) 40 699 2524
 
 United Kingdom (Northern Ireland) Daiichi Sankyo Europe GmbH Tel: +49-(0) 89 7808 0
 

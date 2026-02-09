@@ -1,18 +1,18 @@
 ---
-document_datetime: 2025-12-29 12:25:22
+document_datetime: 2026-02-05 17:15:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/dasatinib-accord-healthcare.html
 document_name: dasatinib-accord-healthcare.html
 version: success
-processing_time: 0.4263706
-conversion_datetime: 2025-12-30 10:53:30.789134
+processing_time: 0.1159
+conversion_datetime: 2026-02-09 22:00:47.465762
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.66.0
-  docling-core: 2.57.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.12.0
+  docling-jobkit: 1.10.1
+  docling: 2.72.0
+  docling-core: 2.63.0
+  docling-ibm-models: 3.11.0
+  docling-parse: 4.7.3
   python: cpython-313 (3.13.11)
   plaform: macOS-26.2-arm64-arm-64bit-Mach-O
 ---
@@ -25,8 +25,6 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 dasatinib Medicine Human Authorised
-
-On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -111,7 +109,7 @@ English (EN) (161.76 KB - PDF)
 
 [View](/en/documents/overview/dasatinib-accord-healthcare-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-586)
+[Other languages (22)](#file-language-dropdown-828)
 
 български (BG) (176.94 KB - PDF)
 
@@ -303,17 +301,17 @@ English (EN) (335.62 KB - PDF)
 
 Dasatinib Accord Healthcare : EPAR - Product information
 
-English (EN) (594.28 KB - PDF)
+English (EN) (791.95 KB - PDF)
 
 **First published:** 01/08/2024
 
-**Last updated:** 21/08/2025
+**Last updated:** 05/02/2026
 
 [View](/en/documents/product-information/dasatinib-accord-healthcare-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-870)
+[Other languages (24)](#file-language-dropdown-451)
 
-български (BG) (750.33 KB - PDF)
+български (BG) (790.84 KB - PDF)
 
 **First published:**
 
@@ -321,11 +319,11 @@ English (EN) (594.28 KB - PDF)
 
 **Last updated:**
 
-21/08/2025
+05/02/2026
 
 [View](/bg/documents/product-information/dasatinib-accord-healthcare-epar-product-information_bg.pdf)
 
-español (ES) (581.75 KB - PDF)
+español (ES) (811.5 KB - PDF)
 
 **First published:**
 
@@ -333,11 +331,11 @@ español (ES) (581.75 KB - PDF)
 
 **Last updated:**
 
-21/08/2025
+05/02/2026
 
 [View](/es/documents/product-information/dasatinib-accord-healthcare-epar-product-information_es.pdf)
 
-čeština (CS) (654.81 KB - PDF)
+čeština (CS) (822.29 KB - PDF)
 
 **First published:**
 
@@ -345,11 +343,11 @@ español (ES) (581.75 KB - PDF)
 
 **Last updated:**
 
-21/08/2025
+05/02/2026
 
 [View](/cs/documents/product-information/dasatinib-accord-healthcare-epar-product-information_cs.pdf)
 
-dansk (DA) (612.63 KB - PDF)
+dansk (DA) (988.41 KB - PDF)
 
 **First published:**
 
@@ -357,11 +355,11 @@ dansk (DA) (612.63 KB - PDF)
 
 **Last updated:**
 
-21/08/2025
+05/02/2026
 
 [View](/da/documents/product-information/dasatinib-accord-healthcare-epar-product-information_da.pdf)
 
-Deutsch (DE) (664.47 KB - PDF)
+Deutsch (DE) (1.01 MB - PDF)
 
 **First published:**
 
@@ -369,11 +367,11 @@ Deutsch (DE) (664.47 KB - PDF)
 
 **Last updated:**
 
-21/08/2025
+05/02/2026
 
 [View](/de/documents/product-information/dasatinib-accord-healthcare-epar-product-information_de.pdf)
 
-eesti keel (ET) (561.59 KB - PDF)
+eesti keel (ET) (846.13 KB - PDF)
 
 **First published:**
 
@@ -381,11 +379,11 @@ eesti keel (ET) (561.59 KB - PDF)
 
 **Last updated:**
 
-21/08/2025
+05/02/2026
 
 [View](/et/documents/product-information/dasatinib-accord-healthcare-epar-product-information_et.pdf)
 
-ελληνικά (EL) (838.48 KB - PDF)
+ελληνικά (EL) (957.51 KB - PDF)
 
 **First published:**
 
@@ -393,11 +391,11 @@ eesti keel (ET) (561.59 KB - PDF)
 
 **Last updated:**
 
-21/08/2025
+05/02/2026
 
 [View](/el/documents/product-information/dasatinib-accord-healthcare-epar-product-information_el.pdf)
 
-français (FR) (616.16 KB - PDF)
+français (FR) (899.91 KB - PDF)
 
 **First published:**
 
@@ -405,11 +403,11 @@ français (FR) (616.16 KB - PDF)
 
 **Last updated:**
 
-21/08/2025
+05/02/2026
 
 [View](/fr/documents/product-information/dasatinib-accord-healthcare-epar-product-information_fr.pdf)
 
-hrvatski (HR) (693.15 KB - PDF)
+hrvatski (HR) (900.25 KB - PDF)
 
 **First published:**
 
@@ -417,11 +415,11 @@ hrvatski (HR) (693.15 KB - PDF)
 
 **Last updated:**
 
-21/08/2025
+05/02/2026
 
 [View](/hr/documents/product-information/dasatinib-accord-healthcare-epar-product-information_hr.pdf)
 
-íslenska (IS) (586.66 KB - PDF)
+íslenska (IS) (801.05 KB - PDF)
 
 **First published:**
 
@@ -429,11 +427,11 @@ hrvatski (HR) (693.15 KB - PDF)
 
 **Last updated:**
 
-21/08/2025
+05/02/2026
 
 [View](/is/documents/product-information/dasatinib-accord-healthcare-epar-product-information_is.pdf)
 
-italiano (IT) (601.45 KB - PDF)
+italiano (IT) (789.32 KB - PDF)
 
 **First published:**
 
@@ -441,11 +439,11 @@ italiano (IT) (601.45 KB - PDF)
 
 **Last updated:**
 
-21/08/2025
+05/02/2026
 
 [View](/it/documents/product-information/dasatinib-accord-healthcare-epar-product-information_it.pdf)
 
-latviešu valoda (LV) (694.83 KB - PDF)
+latviešu valoda (LV) (862.36 KB - PDF)
 
 **First published:**
 
@@ -453,11 +451,11 @@ latviešu valoda (LV) (694.83 KB - PDF)
 
 **Last updated:**
 
-21/08/2025
+05/02/2026
 
 [View](/lv/documents/product-information/dasatinib-accord-healthcare-epar-product-information_lv.pdf)
 
-lietuvių kalba (LT) (660.78 KB - PDF)
+lietuvių kalba (LT) (837.32 KB - PDF)
 
 **First published:**
 
@@ -465,11 +463,11 @@ lietuvių kalba (LT) (660.78 KB - PDF)
 
 **Last updated:**
 
-21/08/2025
+05/02/2026
 
 [View](/lt/documents/product-information/dasatinib-accord-healthcare-epar-product-information_lt.pdf)
 
-magyar (HU) (811.21 KB - PDF)
+magyar (HU) (866.71 KB - PDF)
 
 **First published:**
 
@@ -477,11 +475,11 @@ magyar (HU) (811.21 KB - PDF)
 
 **Last updated:**
 
-21/08/2025
+05/02/2026
 
 [View](/hu/documents/product-information/dasatinib-accord-healthcare-epar-product-information_hu.pdf)
 
-Malti (MT) (754.08 KB - PDF)
+Malti (MT) (989.32 KB - PDF)
 
 **First published:**
 
@@ -489,11 +487,11 @@ Malti (MT) (754.08 KB - PDF)
 
 **Last updated:**
 
-21/08/2025
+05/02/2026
 
 [View](/mt/documents/product-information/dasatinib-accord-healthcare-epar-product-information_mt.pdf)
 
-Nederlands (NL) (591.55 KB - PDF)
+Nederlands (NL) (538.18 KB - PDF)
 
 **First published:**
 
@@ -501,11 +499,11 @@ Nederlands (NL) (591.55 KB - PDF)
 
 **Last updated:**
 
-21/08/2025
+05/02/2026
 
 [View](/nl/documents/product-information/dasatinib-accord-healthcare-epar-product-information_nl.pdf)
 
-norsk (NO) (610.32 KB - PDF)
+norsk (NO) (930.47 KB - PDF)
 
 **First published:**
 
@@ -513,11 +511,11 @@ norsk (NO) (610.32 KB - PDF)
 
 **Last updated:**
 
-21/08/2025
+05/02/2026
 
 [View](/no/documents/product-information/dasatinib-accord-healthcare-epar-product-information_no.pdf)
 
-polski (PL) (668.25 KB - PDF)
+polski (PL) (906.74 KB - PDF)
 
 **First published:**
 
@@ -525,11 +523,11 @@ polski (PL) (668.25 KB - PDF)
 
 **Last updated:**
 
-21/08/2025
+05/02/2026
 
 [View](/pl/documents/product-information/dasatinib-accord-healthcare-epar-product-information_pl.pdf)
 
-português (PT) (546.73 KB - PDF)
+português (PT) (775.49 KB - PDF)
 
 **First published:**
 
@@ -537,11 +535,11 @@ português (PT) (546.73 KB - PDF)
 
 **Last updated:**
 
-21/08/2025
+05/02/2026
 
 [View](/pt/documents/product-information/dasatinib-accord-healthcare-epar-product-information_pt.pdf)
 
-română (RO) (750.79 KB - PDF)
+română (RO) (844.7 KB - PDF)
 
 **First published:**
 
@@ -549,11 +547,11 @@ română (RO) (750.79 KB - PDF)
 
 **Last updated:**
 
-21/08/2025
+05/02/2026
 
 [View](/ro/documents/product-information/dasatinib-accord-healthcare-epar-product-information_ro.pdf)
 
-slovenčina (SK) (706.19 KB - PDF)
+slovenčina (SK) (812.02 KB - PDF)
 
 **First published:**
 
@@ -561,11 +559,11 @@ slovenčina (SK) (706.19 KB - PDF)
 
 **Last updated:**
 
-21/08/2025
+05/02/2026
 
 [View](/sk/documents/product-information/dasatinib-accord-healthcare-epar-product-information_sk.pdf)
 
-slovenščina (SL) (700.49 KB - PDF)
+slovenščina (SL) (904.26 KB - PDF)
 
 **First published:**
 
@@ -573,11 +571,11 @@ slovenščina (SL) (700.49 KB - PDF)
 
 **Last updated:**
 
-21/08/2025
+05/02/2026
 
 [View](/sl/documents/product-information/dasatinib-accord-healthcare-epar-product-information_sl.pdf)
 
-Suomi (FI) (604.7 KB - PDF)
+Suomi (FI) (820.09 KB - PDF)
 
 **First published:**
 
@@ -585,11 +583,11 @@ Suomi (FI) (604.7 KB - PDF)
 
 **Last updated:**
 
-21/08/2025
+05/02/2026
 
 [View](/fi/documents/product-information/dasatinib-accord-healthcare-epar-product-information_fi.pdf)
 
-svenska (SV) (650.04 KB - PDF)
+svenska (SV) (984.5 KB - PDF)
 
 **First published:**
 
@@ -597,11 +595,11 @@ svenska (SV) (650.04 KB - PDF)
 
 **Last updated:**
 
-21/08/2025
+05/02/2026
 
 [View](/sv/documents/product-information/dasatinib-accord-healthcare-epar-product-information_sv.pdf)
 
-**Latest procedure affecting product information:** VR/0000288694 19/08/2025
+**Latest procedure affecting product information:** VR/0000324500 04/02/2026
 
 icon globe
 
@@ -627,7 +625,7 @@ English (EN) (40.41 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/dasatinib-accord-healthcare-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-705)
+[Other languages (24)](#file-language-dropdown-541)
 
 български (BG) (74.98 KB - PDF)
 
@@ -957,7 +955,7 @@ Accord Healthcare S.L.U.
 
 Edificio Este Planta 6a
 
-Opinion adopted 30/05/2024 Marketing authorisation issued 26/07/2024 Revision 2
+Opinion adopted 30/05/2024 Marketing authorisation issued 26/07/2024 Revision 3
 
 ## Assessment history
 
@@ -969,11 +967,11 @@ Collapse section
 
 Dasatinib Accord Healthcare : EPAR - Procedural steps taken and scientific information after authorisation
 
-English (EN) (143.57 KB - PDF)
+English (EN) (372.19 KB - PDF)
 
 **First published:** 21/08/2025
 
-**Last updated:** 13/11/2025
+**Last updated:** 05/02/2026
 
 [View](/en/documents/procedural-steps-after/dasatinib-accord-healthcare-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf)
 
@@ -1011,207 +1009,305 @@ The approved product information for this medicine is available below showing th
 
 Dasatinib Accord Healthcare : EPAR - Product information - tracked changes
 
-English (EN) (334.84 KB - DOCX)
+English (EN) (342.96 KB - DOCX)
 
 **First published:** 21/08/2025
 
+**Last updated:** 05/02/2026
+
 [View](/en/documents/product-information-tracked-changes/dasatinib-accord-healthcare-epar-product-information-tracked-changes_en.docx)
 
-[Other languages (24)](#file-language-dropdown-33)
+[Other languages (24)](#file-language-dropdown-78)
 
-български (BG) (271.62 KB - DOCX)
+български (BG) (273.61 KB - DOCX)
 
 **First published:**
 
 21/08/2025
+
+**Last updated:**
+
+05/02/2026
 
 [View](/bg/documents/product-information-tracked-changes/dasatinib-accord-healthcare-epar-product-information-tracked-changes_bg.docx)
 
-español (ES) (297.04 KB - DOCX)
+español (ES) (309.08 KB - DOCX)
 
 **First published:**
 
 21/08/2025
+
+**Last updated:**
+
+05/02/2026
 
 [View](/es/documents/product-information-tracked-changes/dasatinib-accord-healthcare-epar-product-information-tracked-changes_es.docx)
 
-čeština (CS) (400.73 KB - DOCX)
+čeština (CS) (402.34 KB - DOCX)
 
 **First published:**
 
 21/08/2025
+
+**Last updated:**
+
+05/02/2026
 
 [View](/cs/documents/product-information-tracked-changes/dasatinib-accord-healthcare-epar-product-information-tracked-changes_cs.docx)
 
-dansk (DA) (392.74 KB - DOCX)
+dansk (DA) (391.4 KB - DOCX)
 
 **First published:**
 
 21/08/2025
+
+**Last updated:**
+
+05/02/2026
 
 [View](/da/documents/product-information-tracked-changes/dasatinib-accord-healthcare-epar-product-information-tracked-changes_da.docx)
 
-Deutsch (DE) (411.84 KB - DOCX)
+Deutsch (DE) (413.96 KB - DOCX)
 
 **First published:**
 
 21/08/2025
+
+**Last updated:**
+
+05/02/2026
 
 [View](/de/documents/product-information-tracked-changes/dasatinib-accord-healthcare-epar-product-information-tracked-changes_de.docx)
 
-eesti keel (ET) (364.04 KB - DOCX)
+eesti keel (ET) (364.98 KB - DOCX)
 
 **First published:**
 
 21/08/2025
+
+**Last updated:**
+
+05/02/2026
 
 [View](/et/documents/product-information-tracked-changes/dasatinib-accord-healthcare-epar-product-information-tracked-changes_et.docx)
 
-ελληνικά (EL) (362.29 KB - DOCX)
+ελληνικά (EL) (361.02 KB - DOCX)
 
 **First published:**
 
 21/08/2025
+
+**Last updated:**
+
+05/02/2026
 
 [View](/el/documents/product-information-tracked-changes/dasatinib-accord-healthcare-epar-product-information-tracked-changes_el.docx)
 
-français (FR) (380 KB - DOCX)
+français (FR) (383.97 KB - DOCX)
 
 **First published:**
 
 21/08/2025
+
+**Last updated:**
+
+05/02/2026
 
 [View](/fr/documents/product-information-tracked-changes/dasatinib-accord-healthcare-epar-product-information-tracked-changes_fr.docx)
 
-hrvatski (HR) (373.1 KB - DOCX)
+hrvatski (HR) (373.63 KB - DOCX)
 
 **First published:**
 
 21/08/2025
+
+**Last updated:**
+
+05/02/2026
 
 [View](/hr/documents/product-information-tracked-changes/dasatinib-accord-healthcare-epar-product-information-tracked-changes_hr.docx)
 
-íslenska (IS) (337.77 KB - DOCX)
+íslenska (IS) (338.54 KB - DOCX)
 
 **First published:**
 
 21/08/2025
+
+**Last updated:**
+
+05/02/2026
 
 [View](/is/documents/product-information-tracked-changes/dasatinib-accord-healthcare-epar-product-information-tracked-changes_is.docx)
 
-italiano (IT) (329.34 KB - DOCX)
+italiano (IT) (327.97 KB - DOCX)
 
 **First published:**
 
 21/08/2025
+
+**Last updated:**
+
+05/02/2026
 
 [View](/it/documents/product-information-tracked-changes/dasatinib-accord-healthcare-epar-product-information-tracked-changes_it.docx)
 
-latviešu valoda (LV) (295.15 KB - DOCX)
+latviešu valoda (LV) (293.42 KB - DOCX)
 
 **First published:**
 
 21/08/2025
+
+**Last updated:**
+
+05/02/2026
 
 [View](/lv/documents/product-information-tracked-changes/dasatinib-accord-healthcare-epar-product-information-tracked-changes_lv.docx)
 
-lietuvių kalba (LT) (274.85 KB - DOCX)
+lietuvių kalba (LT) (287.05 KB - DOCX)
 
 **First published:**
 
 21/08/2025
+
+**Last updated:**
+
+05/02/2026
 
 [View](/lt/documents/product-information-tracked-changes/dasatinib-accord-healthcare-epar-product-information-tracked-changes_lt.docx)
 
-magyar (HU) (394.38 KB - DOCX)
+magyar (HU) (392.55 KB - DOCX)
 
 **First published:**
 
 21/08/2025
+
+**Last updated:**
+
+05/02/2026
 
 [View](/hu/documents/product-information-tracked-changes/dasatinib-accord-healthcare-epar-product-information-tracked-changes_hu.docx)
 
-Malti (MT) (379.31 KB - DOCX)
+Malti (MT) (379.59 KB - DOCX)
 
 **First published:**
 
 21/08/2025
+
+**Last updated:**
+
+05/02/2026
 
 [View](/mt/documents/product-information-tracked-changes/dasatinib-accord-healthcare-epar-product-information-tracked-changes_mt.docx)
 
-Nederlands (NL) (319.36 KB - DOCX)
+Nederlands (NL) (324.8 KB - DOCX)
 
 **First published:**
 
 21/08/2025
+
+**Last updated:**
+
+05/02/2026
 
 [View](/nl/documents/product-information-tracked-changes/dasatinib-accord-healthcare-epar-product-information-tracked-changes_nl.docx)
 
-norsk (NO) (395.46 KB - DOCX)
+norsk (NO) (395.95 KB - DOCX)
 
 **First published:**
 
 21/08/2025
+
+**Last updated:**
+
+05/02/2026
 
 [View](/no/documents/product-information-tracked-changes/dasatinib-accord-healthcare-epar-product-information-tracked-changes_no.docx)
 
-polski (PL) (282.44 KB - DOCX)
+polski (PL) (295.75 KB - DOCX)
 
 **First published:**
 
 21/08/2025
+
+**Last updated:**
+
+05/02/2026
 
 [View](/pl/documents/product-information-tracked-changes/dasatinib-accord-healthcare-epar-product-information-tracked-changes_pl.docx)
 
-português (PT) (262.8 KB - DOCX)
+português (PT) (266.9 KB - DOCX)
 
 **First published:**
 
 21/08/2025
+
+**Last updated:**
+
+05/02/2026
 
 [View](/pt/documents/product-information-tracked-changes/dasatinib-accord-healthcare-epar-product-information-tracked-changes_pt.docx)
 
-română (RO) (325.79 KB - DOCX)
+română (RO) (325.19 KB - DOCX)
 
 **First published:**
 
 21/08/2025
+
+**Last updated:**
+
+05/02/2026
 
 [View](/ro/documents/product-information-tracked-changes/dasatinib-accord-healthcare-epar-product-information-tracked-changes_ro.docx)
 
-slovenčina (SK) (271.64 KB - DOCX)
+slovenčina (SK) (267.76 KB - DOCX)
 
 **First published:**
 
 21/08/2025
+
+**Last updated:**
+
+05/02/2026
 
 [View](/sk/documents/product-information-tracked-changes/dasatinib-accord-healthcare-epar-product-information-tracked-changes_sk.docx)
 
-slovenščina (SL) (336.37 KB - DOCX)
+slovenščina (SL) (337.56 KB - DOCX)
 
 **First published:**
 
 21/08/2025
+
+**Last updated:**
+
+05/02/2026
 
 [View](/sl/documents/product-information-tracked-changes/dasatinib-accord-healthcare-epar-product-information-tracked-changes_sl.docx)
 
-Suomi (FI) (279.2 KB - DOCX)
+Suomi (FI) (282.42 KB - DOCX)
 
 **First published:**
 
 21/08/2025
+
+**Last updated:**
+
+05/02/2026
 
 [View](/fi/documents/product-information-tracked-changes/dasatinib-accord-healthcare-epar-product-information-tracked-changes_fi.docx)
 
-svenska (SV) (382.61 KB - DOCX)
+svenska (SV) (396.48 KB - DOCX)
 
 **First published:**
 
 21/08/2025
 
+**Last updated:**
+
+05/02/2026
+
 [View](/sv/documents/product-information-tracked-changes/dasatinib-accord-healthcare-epar-product-information-tracked-changes_sv.docx)
 
-**This page was last updated on** 13/11/2025
+**This page was last updated on** 05/02/2026
 
 ## Share this page
 

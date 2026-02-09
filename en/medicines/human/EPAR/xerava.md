@@ -1,21 +1,97 @@
 ---
-document_datetime: 2025-12-29 12:07:21
+document_datetime: 2026-02-06 10:45:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/xerava.html
 document_name: xerava.html
 version: success
-processing_time: 0.1084542
-conversion_datetime: 2025-12-29 23:26:33.875231
+processing_time: 0.1180635
+conversion_datetime: 2026-02-09 22:35:00.92313
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.66.0
-  docling-core: 2.57.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.12.0
+  docling-jobkit: 1.10.1
+  docling: 2.72.0
+  docling-core: 2.63.0
+  docling-ibm-models: 3.11.0
+  docling-parse: 4.7.3
   python: cpython-313 (3.13.11)
   plaform: macOS-26.2-arm64-arm-64bit-Mach-O
 ---
+# Search
+
+- [Medicines](/en/medicines)
+    - [Find medicine](/en/medicines)
+    - [Therapeutic areas: latest updates](/en/medicines/therapeutic-areas-latest-updates)
+    - [Download medicine data](/en/medicines/download-medicine-data)
+    - [What we publish on medicines and when](/en/medicines/what-we-publish-medicines-when)
+    - [Medicines under evaluation](/en/medicines/medicines-human-use-under-evaluation)
+    - [National registers](/en/medicines/national-registers-authorised-medicines)
+- [Human regulatory](/en/human-regulatory-overview)
+    - [Overview](/en/human-regulatory-overview)
+    - [Research and development](/en/human-regulatory-overview/research-development)
+    - [Marketing authorisation](/en/human-regulatory-overview/marketing-authorisation)
+    - [Post-authorisation](/en/human-regulatory-overview/post-authorisation)
+    - [Medical devices](/en/human-regulatory-overview/medical-devices)
+    - [Herbal products](/en/human-regulatory-overview/herbal-medicinal-products)
+- [Veterinary regulatory](/en/veterinary-regulatory-overview)
+    - [Overview](/en/veterinary-regulatory-overview)
+    - [Research and development](/en/veterinary-regulatory-overview/research-development-veterinary-medicines)
+    - [Marketing authorisation](/en/veterinary-regulatory-overview/marketing-authorisation-veterinary-medicines)
+    - [Post-authorisation](/en/veterinary-regulatory-overview/post-authorisation-veterinary-medicines)
+- [Committees](/en/committees)
+    - [Overview](/en/committees)
+    - [How the committees work](/en/committees/how-committees-work)
+    - [CHMP](/en/committees/committee-medicinal-products-human-use-chmp)
+    - [CVMP](/en/committees/committee-veterinary-medicinal-products-cvmp)
+    - [PRAC](/en/committees/pharmacovigilance-risk-assessment-committee-prac)
+    - [COMP](/en/committees/committee-orphan-medicinal-products-comp)
+    - [HMPC](/en/committees/committee-herbal-medicinal-products-hmpc)
+    - [CAT](/en/committees/committee-advanced-therapies-cat)
+    - [PDCO](/en/committees/paediatric-committee-pdco)
+    - [Working parties and other groups](/en/committees/working-parties-other-groups)
+- [News &amp; events](/en/news-events)
+    - [Overview](/en/news-events)
+    - [News](/en/news)
+    - [Events](/en/events/upcoming-events)
+    - [What's new](/en/news-events/whats-new)
+    - [Committee highlights](/en/news-events/committee-highlights)
+    - [Publications](/en/news-and-events/publications)
+    - [Press and social media](/en/news-events/press-social-media)
+    - [Podcast: Inside EMA](/en/news-events/podcast-inside-ema)
+    - [Open consultations](/en/news-events/open-consultations)
+    - [RSS feeds](/en/news-events/rss-feeds)
+- [Partners &amp; networks](/en/partners-networks)
+    - [Overview](/en/partners-networks)
+    - [EU partners](/en/partners-networks/eu-partners)
+    - [International activities](/en/partners-networks/international-activities)
+    - [Patients and consumers](/en/partners-networks/patients-consumers)
+    - [Healthcare professionals](/en/partners-networks/healthcare-professionals)
+    - [Academia](/en/partners-networks/academia)
+    - [Pharmaceutical industry](/en/partners-networks/pharmaceutical-industry)
+    - [Networks](/en/partners-networks/networks)
+    - [Health technology assessment bodies](/en/partners-networks/health-technology-assessment-bodies)
+    - [One Health approach](/en/partners-networks/one-health-approach)
+    - [Animal health practitioners](/en/partners-networks/animal-health-practitioners)
+    - [One substance - one assessment](/en/partners-networks/one-substance-one-assessment-osoa-eu-collaboration-chemicals-related-data)
+- [About us](/en/about-us)
+    - [Overview](/en/about-us)
+    - [What we do](/en/about-us/what-we-do)
+    - [Who we are](/en/about-us/who-we-are)
+    - [How we work](/en/about-us/how-we-work)
+    - [Fees](/en/about-us/fees-payable-european-medicines-agency)
+    - [Support to SMEs](/en/about-us/support-smes)
+    - [Annual reports and work programmes](/en/about-us/annual-reports-work-programmes)
+    - [History of EMA](/en/about-us/history-ema)
+    - [Careers](/en/about-us/careers)
+    - [Procurement](/en/about-us/procurement-grants)
+    - [Glossaries](/en/about-us/glossaries)
+    - [About this website](/en/about-us/about-website)
+    - [Data protection and privacy](/en/about-us/data-protection-privacy-ema)
+    - [Contacts](/en/about-us/contacts-european-medicines-agency)
+
+1. [Home](/en/homepage)
+2. [Medicines](https://www.ema.europa.eu/en/medicines)
+3. Xerava
+
 # Xerava
 
 [RSS](/en/individual-human-medicine.xml/66660)
@@ -25,8 +101,6 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 eravacycline Medicine Human Authorised
-
-On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -38,6 +112,7 @@ Page contents
 - [Authorisation details](#authorisation-details)
 - [Assessment history](#assessment-history)
 - [News on Xerava](#news-on)
+- [Product information - with tracked changes](#product-information-with-tracked-changes-83313)
 - [More information on Xerava](#related-medicines)
 - [Topics](#topics)
 
@@ -47,7 +122,7 @@ Page contents
 
 ## Overview
 
-Xerava is an antibiotic used to treat complicated intra-abdominal (belly) infections (cIAI) in adults. 'Complicated' means that the infection is difficult to treat because it has spread to the abdominal space.
+Xerava is an antibiotic used to treat complicated intra-abdominal (belly) infections (cIAI) in adolescents from 12 years of age who weigh at least 50 kg and in adults. 'Complicated' means that the infection is difficult to treat because it has spread to the abdominal space.
 
 Xerava contains the active substance eravacycline.
 
@@ -59,31 +134,37 @@ Collapse section
 
 Xerava can only be obtained with a prescription and prescribers should take into account official guidance on the use of antibiotics.
 
-Xerava is given by infusion (drip) into a vein over one hour. The medicine is given once every 12 hours for at least 4 days and up to 14 days. The dose depends on the patient's bodyweight, and may be increased if the patient is also taking a type of medicine called a 'strong CYP3A4 inducer'.
+Xerava is given by infusion (drip) into a vein over one hour. It is given once every 12 hours for at least 4 days and up to 14 days. The dose depends on the patient's weight, and may be increased if the patient is also taking a type of medicine called a 'strong CYP3A4 inducer'.
 
 For more information about using Xerava, see the package leaflet or contact your doctor or pharmacist.
 
 ## How does Xerava work?
 
-The active substance in Xerava, eravacycline, belongs to a group of antibiotics called tetracyclines. Tetracyclines work by binding to and blocking part of the cell machinery in bacterial cells that is involved in making proteins. This leads to death of the bacteria causing the infection.
+The active substance in Xerava, eravacycline, belongs to a group of antibiotics called tetracyclines. Tetracyclines work by attaching to and blocking part of the cell machinery in bacteria that is involved in making proteins. This leads to the death of the bacteria causing the infection.
 
 ## What benefits of Xerava have been shown in studies?
 
-Xerava was shown to be as effective as alternative antibiotics in 2 main studies of adults with cIAIs. The main measure of effectiveness in both studies was whether the infection was cured.
+Xerava was shown to be as effective as alternative antibiotics in 2 main studies involving adults with cIAIs. The main measure of effectiveness in both studies was whether the infection was cured.
 
-In the first study involving 538 patients, Xerava was compared with ertapenem (another antibiotic). After around a month, 87% of patients treated with Xerava were cured of their infection, compared to 89% of patients treated with ertapenem.
+In the first study involving 538 adults, Xerava was compared with ertapenem (another antibiotic). After around a month, 87% of people treated with Xerava were cured of their infection, compared with 89% of those treated with ertapenem.
 
-In the second study involving 499 patients, Xerava was compared with meropenem (another antibiotic). After around a month, 92% of patients treated with Xerava and 92% of patients treated with meropenem were cured of their infection.
+In the second study involving 499 adults, Xerava was compared with meropenem (another antibiotic). After around a month, 92% of people treated with Xerava and 92% of those treated with meropenem were cured of their infection.
+
+The company also provided data on how the medicine behaves in the body in children aged 8 to 17 years with a suspected or confirmed bacterial infection. These data were inconclusive and it was therefore not possible to establish an appropriate dose for children below 12 years of age or for adolescents from 12 years of age weighing less than 50 kg.
 
 ## What are the risks associated with Xerava?
 
-The most common side effects with Xerava (which may affect up to 1 in 10 people) are thrombophlebitis (inflammation of veins caused by a blood clot), phlebitis (inflammation of a vein), nausea (feeling sick), vomiting and reactions at the site of the infusion including reddening of skin, reduced sense of touch and pain. For the full list of side effects of Xerava, see the package leaflet.
+For the full list of side effects and restrictions with Xerava, see the package leaflet.
 
-Xerava must not be used in patients who are hypersensitive (allergic) to any of the ingredients of the medicine or to other tetracycline antibiotics.
+The most common side effects with Xerava in adults (seen in up to 1 in 10 people in clinical trials) include nausea (feeling sick), vomiting, phlebitis (inflammation of a vein) at the site of infusion, phlebitis, thrombosis (formation of blood clots in the blood vessels) at the infusion site, diarrhoea, reactions at the site of the infusion including reddening of skin and reduced sense of touch and pain, thrombophlebitis (inflammation of veins caused by a blood clot), hyperhidrosis (excessive sweating) and headache.
+
+The most common side effects with Xerava in children (seen in more than 1 in 10 people in a clinical trial) include nausea, vomiting, headache and hyperhidrosis.
+
+Xerava must not be used in patients who are hypersensitive to other tetracycline antibiotics.
 
 ## Why is Xerava authorised in the EU?
 
-Xerava is as effective as alternative antibiotics in treating infections caused by various types of bacteria and produced high cure rates. Xerava's safety profile was considered acceptable. Therefore the European Medicines Agency decided that Xerava's benefits are greater than its risks and it can be authorised for use in the EU.
+Xerava is as effective as alternative antibiotics in treating infections caused by various types of bacteria and achieves high cure rates. Since Xerava is expected to behave in a similar way in adolescents from 12 years of age and weighing at least 50 kg as in adults, its use can be extended to this population. Xerava's safety profile is considered acceptable. The European Medicines Agency therefore decided that Xerava's benefits are greater than its risks and it can be authorised for use in the EU.
 
 ## What measures are being taken to ensure the safe and effective use of Xerava?
 
@@ -93,193 +174,283 @@ As for all medicines, data on the use of Xerava are continuously monitored. Side
 
 ## Other information about Xerava
 
-Xerava received a marketing authorisation valid throughout the EU on 20.09.2018.
+Xerava received a marketing authorisation valid throughout the EU on 20 September 2018.
 
 Xerava : EPAR - Medicine overview
 
-Reference Number: EMA/521584/2018
+Reference Number: EMADOC-1829012207-35819
 
-English (EN) (73.41 KB - PDF)
+English (EN) (108.38 KB - PDF)
 
 **First published:** 08/10/2018
 
+**Last updated:** 06/02/2026
+
 [View](/en/documents/overview/xerava-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-572)
+[Other languages (22)](#file-language-dropdown-621)
 
-български (BG) (97.83 KB - PDF)
+български (BG) (133.65 KB - PDF)
 
 **First published:**
 
 08/10/2018
+
+**Last updated:**
+
+06/02/2026
 
 [View](/bg/documents/overview/xerava-epar-medicine-overview_bg.pdf)
 
-español (ES) (72.33 KB - PDF)
+español (ES) (109.48 KB - PDF)
 
 **First published:**
 
 08/10/2018
+
+**Last updated:**
+
+06/02/2026
 
 [View](/es/documents/overview/xerava-epar-medicine-overview_es.pdf)
 
-čeština (CS) (94.4 KB - PDF)
+čeština (CS) (131.86 KB - PDF)
 
 **First published:**
 
 08/10/2018
+
+**Last updated:**
+
+06/02/2026
 
 [View](/cs/documents/overview/xerava-epar-medicine-overview_cs.pdf)
 
-dansk (DA) (71.75 KB - PDF)
+dansk (DA) (108.44 KB - PDF)
 
 **First published:**
 
 08/10/2018
+
+**Last updated:**
+
+06/02/2026
 
 [View](/da/documents/overview/xerava-epar-medicine-overview_da.pdf)
 
-Deutsch (DE) (72.99 KB - PDF)
+Deutsch (DE) (112.65 KB - PDF)
 
 **First published:**
 
 08/10/2018
+
+**Last updated:**
+
+06/02/2026
 
 [View](/de/documents/overview/xerava-epar-medicine-overview_de.pdf)
 
-eesti keel (ET) (71.62 KB - PDF)
+eesti keel (ET) (108.06 KB - PDF)
 
 **First published:**
 
 08/10/2018
+
+**Last updated:**
+
+06/02/2026
 
 [View](/et/documents/overview/xerava-epar-medicine-overview_et.pdf)
 
-ελληνικά (EL) (104.25 KB - PDF)
+ελληνικά (EL) (134.2 KB - PDF)
 
 **First published:**
 
 08/10/2018
+
+**Last updated:**
+
+06/02/2026
 
 [View](/el/documents/overview/xerava-epar-medicine-overview_el.pdf)
 
-français (FR) (73.27 KB - PDF)
+français (FR) (111.01 KB - PDF)
 
 **First published:**
 
 08/10/2018
+
+**Last updated:**
+
+06/02/2026
 
 [View](/fr/documents/overview/xerava-epar-medicine-overview_fr.pdf)
 
-hrvatski (HR) (92.24 KB - PDF)
+hrvatski (HR) (134.11 KB - PDF)
 
 **First published:**
 
 08/10/2018
+
+**Last updated:**
+
+06/02/2026
 
 [View](/hr/documents/overview/xerava-epar-medicine-overview_hr.pdf)
 
-italiano (IT) (71.66 KB - PDF)
+italiano (IT) (108.92 KB - PDF)
 
 **First published:**
 
 08/10/2018
+
+**Last updated:**
+
+06/02/2026
 
 [View](/it/documents/overview/xerava-epar-medicine-overview_it.pdf)
 
-latviešu valoda (LV) (101.85 KB - PDF)
+latviešu valoda (LV) (129 KB - PDF)
 
 **First published:**
 
 08/10/2018
+
+**Last updated:**
+
+06/02/2026
 
 [View](/lv/documents/overview/xerava-epar-medicine-overview_lv.pdf)
 
-lietuvių kalba (LT) (94.62 KB - PDF)
+lietuvių kalba (LT) (131.74 KB - PDF)
 
 **First published:**
 
 08/10/2018
+
+**Last updated:**
+
+06/02/2026
 
 [View](/lt/documents/overview/xerava-epar-medicine-overview_lt.pdf)
 
-magyar (HU) (91.7 KB - PDF)
+magyar (HU) (131.64 KB - PDF)
 
 **First published:**
 
 08/10/2018
+
+**Last updated:**
+
+06/02/2026
 
 [View](/hu/documents/overview/xerava-epar-medicine-overview_hu.pdf)
 
-Malti (MT) (95.58 KB - PDF)
+Malti (MT) (133.13 KB - PDF)
 
 **First published:**
 
 08/10/2018
+
+**Last updated:**
+
+06/02/2026
 
 [View](/mt/documents/overview/xerava-epar-medicine-overview_mt.pdf)
 
-Nederlands (NL) (71.99 KB - PDF)
+Nederlands (NL) (109.46 KB - PDF)
 
 **First published:**
 
 08/10/2018
+
+**Last updated:**
+
+06/02/2026
 
 [View](/nl/documents/overview/xerava-epar-medicine-overview_nl.pdf)
 
-polski (PL) (96.12 KB - PDF)
+polski (PL) (135.9 KB - PDF)
 
 **First published:**
 
 08/10/2018
+
+**Last updated:**
+
+06/02/2026
 
 [View](/pl/documents/overview/xerava-epar-medicine-overview_pl.pdf)
 
-português (PT) (72.25 KB - PDF)
+português (PT) (110.56 KB - PDF)
 
 **First published:**
 
 08/10/2018
+
+**Last updated:**
+
+06/02/2026
 
 [View](/pt/documents/overview/xerava-epar-medicine-overview_pt.pdf)
 
-română (RO) (99.7 KB - PDF)
+română (RO) (128.16 KB - PDF)
 
 **First published:**
 
 08/10/2018
+
+**Last updated:**
+
+06/02/2026
 
 [View](/ro/documents/overview/xerava-epar-medicine-overview_ro.pdf)
 
-slovenčina (SK) (95.5 KB - PDF)
+slovenčina (SK) (132.12 KB - PDF)
 
 **First published:**
 
 08/10/2018
+
+**Last updated:**
+
+06/02/2026
 
 [View](/sk/documents/overview/xerava-epar-medicine-overview_sk.pdf)
 
-slovenščina (SL) (90.64 KB - PDF)
+slovenščina (SL) (129.92 KB - PDF)
 
 **First published:**
 
 08/10/2018
+
+**Last updated:**
+
+06/02/2026
 
 [View](/sl/documents/overview/xerava-epar-medicine-overview_sl.pdf)
 
-Suomi (FI) (71.6 KB - PDF)
+Suomi (FI) (107.14 KB - PDF)
 
 **First published:**
 
 08/10/2018
+
+**Last updated:**
+
+06/02/2026
 
 [View](/fi/documents/overview/xerava-epar-medicine-overview_fi.pdf)
 
-svenska (SV) (71.93 KB - PDF)
+svenska (SV) (107.95 KB - PDF)
 
 **First published:**
 
 08/10/2018
+
+**Last updated:**
+
+06/02/2026
 
 [View](/sv/documents/overview/xerava-epar-medicine-overview_sv.pdf)
 
@@ -297,17 +468,17 @@ English (EN) (198.19 KB - PDF)
 
 Xerava : EPAR - Product Information
 
-English (EN) (640.59 KB - PDF)
+English (EN) (542.39 KB - PDF)
 
 **First published:** 08/10/2018
 
-**Last updated:** 06/11/2024
+**Last updated:** 06/02/2026
 
 [View](/en/documents/product-information/xerava-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-531)
+[Other languages (24)](#file-language-dropdown-146)
 
-български (BG) (712.42 KB - PDF)
+български (BG) (889.42 KB - PDF)
 
 **First published:**
 
@@ -315,11 +486,11 @@ English (EN) (640.59 KB - PDF)
 
 **Last updated:**
 
-06/11/2024
+06/02/2026
 
 [View](/bg/documents/product-information/xerava-epar-product-information_bg.pdf)
 
-español (ES) (633.29 KB - PDF)
+español (ES) (860.6 KB - PDF)
 
 **First published:**
 
@@ -327,11 +498,11 @@ español (ES) (633.29 KB - PDF)
 
 **Last updated:**
 
-06/11/2024
+06/02/2026
 
 [View](/es/documents/product-information/xerava-epar-product-information_es.pdf)
 
-čeština (CS) (760.23 KB - PDF)
+čeština (CS) (926.69 KB - PDF)
 
 **First published:**
 
@@ -339,11 +510,11 @@ español (ES) (633.29 KB - PDF)
 
 **Last updated:**
 
-06/11/2024
+06/02/2026
 
 [View](/cs/documents/product-information/xerava-epar-product-information_cs.pdf)
 
-dansk (DA) (611.42 KB - PDF)
+dansk (DA) (832.98 KB - PDF)
 
 **First published:**
 
@@ -351,11 +522,11 @@ dansk (DA) (611.42 KB - PDF)
 
 **Last updated:**
 
-06/11/2024
+06/02/2026
 
 [View](/da/documents/product-information/xerava-epar-product-information_da.pdf)
 
-Deutsch (DE) (542.43 KB - PDF)
+Deutsch (DE) (757.23 KB - PDF)
 
 **First published:**
 
@@ -363,11 +534,11 @@ Deutsch (DE) (542.43 KB - PDF)
 
 **Last updated:**
 
-06/11/2024
+06/02/2026
 
 [View](/de/documents/product-information/xerava-epar-product-information_de.pdf)
 
-eesti keel (ET) (599.54 KB - PDF)
+eesti keel (ET) (805.35 KB - PDF)
 
 **First published:**
 
@@ -375,11 +546,11 @@ eesti keel (ET) (599.54 KB - PDF)
 
 **Last updated:**
 
-06/11/2024
+06/02/2026
 
 [View](/et/documents/product-information/xerava-epar-product-information_et.pdf)
 
-ελληνικά (EL) (725.03 KB - PDF)
+ελληνικά (EL) (898.28 KB - PDF)
 
 **First published:**
 
@@ -387,11 +558,11 @@ eesti keel (ET) (599.54 KB - PDF)
 
 **Last updated:**
 
-06/11/2024
+06/02/2026
 
 [View](/el/documents/product-information/xerava-epar-product-information_el.pdf)
 
-français (FR) (698.21 KB - PDF)
+français (FR) (894.12 KB - PDF)
 
 **First published:**
 
@@ -399,11 +570,11 @@ français (FR) (698.21 KB - PDF)
 
 **Last updated:**
 
-06/11/2024
+06/02/2026
 
 [View](/fr/documents/product-information/xerava-epar-product-information_fr.pdf)
 
-hrvatski (HR) (635.82 KB - PDF)
+hrvatski (HR) (850.96 KB - PDF)
 
 **First published:**
 
@@ -411,11 +582,11 @@ hrvatski (HR) (635.82 KB - PDF)
 
 **Last updated:**
 
-06/11/2024
+06/02/2026
 
 [View](/hr/documents/product-information/xerava-epar-product-information_hr.pdf)
 
-íslenska (IS) (603.65 KB - PDF)
+íslenska (IS) (790.2 KB - PDF)
 
 **First published:**
 
@@ -423,11 +594,11 @@ hrvatski (HR) (635.82 KB - PDF)
 
 **Last updated:**
 
-06/11/2024
+06/02/2026
 
 [View](/is/documents/product-information/xerava-epar-product-information_is.pdf)
 
-italiano (IT) (617.76 KB - PDF)
+italiano (IT) (823.16 KB - PDF)
 
 **First published:**
 
@@ -435,11 +606,11 @@ italiano (IT) (617.76 KB - PDF)
 
 **Last updated:**
 
-06/11/2024
+06/02/2026
 
 [View](/it/documents/product-information/xerava-epar-product-information_it.pdf)
 
-latviešu valoda (LV) (702.33 KB - PDF)
+latviešu valoda (LV) (874.03 KB - PDF)
 
 **First published:**
 
@@ -447,11 +618,11 @@ latviešu valoda (LV) (702.33 KB - PDF)
 
 **Last updated:**
 
-06/11/2024
+06/02/2026
 
 [View](/lv/documents/product-information/xerava-epar-product-information_lv.pdf)
 
-lietuvių kalba (LT) (672.26 KB - PDF)
+lietuvių kalba (LT) (870.43 KB - PDF)
 
 **First published:**
 
@@ -459,11 +630,11 @@ lietuvių kalba (LT) (672.26 KB - PDF)
 
 **Last updated:**
 
-06/11/2024
+06/02/2026
 
 [View](/lt/documents/product-information/xerava-epar-product-information_lt.pdf)
 
-magyar (HU) (683.18 KB - PDF)
+magyar (HU) (890.51 KB - PDF)
 
 **First published:**
 
@@ -471,11 +642,11 @@ magyar (HU) (683.18 KB - PDF)
 
 **Last updated:**
 
-06/11/2024
+06/02/2026
 
 [View](/hu/documents/product-information/xerava-epar-product-information_hu.pdf)
 
-Malti (MT) (840.04 KB - PDF)
+Malti (MT) (959.43 KB - PDF)
 
 **First published:**
 
@@ -483,11 +654,11 @@ Malti (MT) (840.04 KB - PDF)
 
 **Last updated:**
 
-06/11/2024
+06/02/2026
 
 [View](/mt/documents/product-information/xerava-epar-product-information_mt.pdf)
 
-Nederlands (NL) (643.75 KB - PDF)
+Nederlands (NL) (850.74 KB - PDF)
 
 **First published:**
 
@@ -495,11 +666,11 @@ Nederlands (NL) (643.75 KB - PDF)
 
 **Last updated:**
 
-06/11/2024
+06/02/2026
 
 [View](/nl/documents/product-information/xerava-epar-product-information_nl.pdf)
 
-norsk (NO) (590.97 KB - PDF)
+norsk (NO) (781.29 KB - PDF)
 
 **First published:**
 
@@ -507,11 +678,11 @@ norsk (NO) (590.97 KB - PDF)
 
 **Last updated:**
 
-06/11/2024
+06/02/2026
 
 [View](/no/documents/product-information/xerava-epar-product-information_no.pdf)
 
-polski (PL) (694.62 KB - PDF)
+polski (PL) (884.81 KB - PDF)
 
 **First published:**
 
@@ -519,11 +690,11 @@ polski (PL) (694.62 KB - PDF)
 
 **Last updated:**
 
-06/11/2024
+06/02/2026
 
 [View](/pl/documents/product-information/xerava-epar-product-information_pl.pdf)
 
-português (PT) (642.29 KB - PDF)
+português (PT) (859.22 KB - PDF)
 
 **First published:**
 
@@ -531,11 +702,11 @@ português (PT) (642.29 KB - PDF)
 
 **Last updated:**
 
-06/11/2024
+06/02/2026
 
 [View](/pt/documents/product-information/xerava-epar-product-information_pt.pdf)
 
-română (RO) (698.96 KB - PDF)
+română (RO) (873.91 KB - PDF)
 
 **First published:**
 
@@ -543,11 +714,11 @@ română (RO) (698.96 KB - PDF)
 
 **Last updated:**
 
-06/11/2024
+06/02/2026
 
 [View](/ro/documents/product-information/xerava-epar-product-information_ro.pdf)
 
-slovenčina (SK) (751.62 KB - PDF)
+slovenčina (SK) (915.18 KB - PDF)
 
 **First published:**
 
@@ -555,11 +726,11 @@ slovenčina (SK) (751.62 KB - PDF)
 
 **Last updated:**
 
-06/11/2024
+06/02/2026
 
 [View](/sk/documents/product-information/xerava-epar-product-information_sk.pdf)
 
-slovenščina (SL) (663.02 KB - PDF)
+slovenščina (SL) (877 KB - PDF)
 
 **First published:**
 
@@ -567,11 +738,11 @@ slovenščina (SL) (663.02 KB - PDF)
 
 **Last updated:**
 
-06/11/2024
+06/02/2026
 
 [View](/sl/documents/product-information/xerava-epar-product-information_sl.pdf)
 
-Suomi (FI) (621.62 KB - PDF)
+Suomi (FI) (842.42 KB - PDF)
 
 **First published:**
 
@@ -579,11 +750,11 @@ Suomi (FI) (621.62 KB - PDF)
 
 **Last updated:**
 
-06/11/2024
+06/02/2026
 
 [View](/fi/documents/product-information/xerava-epar-product-information_fi.pdf)
 
-svenska (SV) (592.75 KB - PDF)
+svenska (SV) (493.41 KB - PDF)
 
 **First published:**
 
@@ -591,11 +762,11 @@ svenska (SV) (592.75 KB - PDF)
 
 **Last updated:**
 
-06/11/2024
+06/02/2026
 
 [View](/sv/documents/product-information/xerava-epar-product-information_sv.pdf)
 
-**Latest procedure affecting product information:** T/0028 24/10/2024
+**Latest procedure affecting product information:** VR/0000265697 18/12/2025
 
 icon globe
 
@@ -621,7 +792,7 @@ English (EN) (57.58 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/xerava-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-904)
+[Other languages (24)](#file-language-dropdown-265)
 
 български (BG) (67.81 KB - PDF)
 
@@ -918,15 +1089,15 @@ Name of medicine Xerava Active substance eravacycline International non-propriet
 - Infection
 - Bacterial Infections
 
-Anatomical therapeutic chemical (ATC) code J01AA
+Anatomical therapeutic chemical (ATC) code J01AA13
 
 ### Pharmacotherapeutic group
 
-Antibacterials for systemic use
+Tetracyclines
 
 ### Therapeutic indication
 
-Xerava is indicated for the treatment of complicated intra-abdominal infections (cIAI) in adults.
+Xerava is indicated in adolescents from the age of 12 years weighing at least 50 kg, and in adults, for the treatment of complicated intra-abdominal infections (cIAI).
 
 Consideration should be given to official guidance on the appropriate use of antibacterial agents.
 
@@ -938,7 +1109,7 @@ PAION Pharma GmbH
 
 Heussstraße 25 Brand 52078 Aachen Germany
 
-Marketing authorisation issued 20/09/2018 Revision 9
+Marketing authorisation issued 20/09/2018 Revision 10
 
 ## Assessment history
 
@@ -950,13 +1121,21 @@ Collapse section
 
 Xerava : EPAR - Procedural steps taken and scientific information after authorisation
 
+English (EN) (155.53 KB - PDF)
+
+**First published:** 06/02/2026
+
+[View](/en/documents/procedural-steps-after/xerava-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf)
+
+Xerava : EPAR - Procedural steps taken and scientific information after authorisation (archive)
+
 English (EN) (180.62 KB - PDF)
 
 **First published:** 10/07/2019
 
-**Last updated:** 06/11/2024
+**Last updated:** 06/02/2026
 
-[View](/en/documents/procedural-steps-after/xerava-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf)
+[View](/en/documents/procedural-steps-after/xerava-epar-procedural-steps-taken-scientific-information-after-authorisation-archive_en.pdf)
 
 ## Initial marketing authorisation documents
 
@@ -990,6 +1169,212 @@ English (EN) (68.46 KB - PDF)
 
 [Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 23-26 July 2018](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-23-26-july-2018) 27/07/2018
 
+#### Product information - with tracked changes
+
+The approved product information for this medicine is available below showing the changes since the previous procedure affecting the product information. The same document without tracked changes is above under 'Product information'.
+
+Xerava : EPAR - Product information - tracked changes
+
+English (EN) (180.87 KB - DOCX)
+
+**First published:** 06/02/2026
+
+[View](/en/documents/product-information-tracked-changes/xerava-epar-product-information-tracked-changes_en.docx)
+
+[Other languages (24)](#file-language-dropdown-137)
+
+български (BG) (161.68 KB - DOCX)
+
+**First published:**
+
+06/02/2026
+
+[View](/bg/documents/product-information-tracked-changes/xerava-epar-product-information-tracked-changes_bg.docx)
+
+español (ES) (150.86 KB - DOCX)
+
+**First published:**
+
+06/02/2026
+
+[View](/es/documents/product-information-tracked-changes/xerava-epar-product-information-tracked-changes_es.docx)
+
+čeština (CS) (141.68 KB - DOCX)
+
+**First published:**
+
+06/02/2026
+
+[View](/cs/documents/product-information-tracked-changes/xerava-epar-product-information-tracked-changes_cs.docx)
+
+dansk (DA) (149.74 KB - DOCX)
+
+**First published:**
+
+06/02/2026
+
+[View](/da/documents/product-information-tracked-changes/xerava-epar-product-information-tracked-changes_da.docx)
+
+Deutsch (DE) (148.45 KB - DOCX)
+
+**First published:**
+
+06/02/2026
+
+[View](/de/documents/product-information-tracked-changes/xerava-epar-product-information-tracked-changes_de.docx)
+
+eesti keel (ET) (144.24 KB - DOCX)
+
+**First published:**
+
+06/02/2026
+
+[View](/et/documents/product-information-tracked-changes/xerava-epar-product-information-tracked-changes_et.docx)
+
+ελληνικά (EL) (170.66 KB - DOCX)
+
+**First published:**
+
+06/02/2026
+
+[View](/el/documents/product-information-tracked-changes/xerava-epar-product-information-tracked-changes_el.docx)
+
+français (FR) (134.78 KB - DOCX)
+
+**First published:**
+
+06/02/2026
+
+[View](/fr/documents/product-information-tracked-changes/xerava-epar-product-information-tracked-changes_fr.docx)
+
+hrvatski (HR) (141.03 KB - DOCX)
+
+**First published:**
+
+06/02/2026
+
+[View](/hr/documents/product-information-tracked-changes/xerava-epar-product-information-tracked-changes_hr.docx)
+
+íslenska (IS) (140.9 KB - DOCX)
+
+**First published:**
+
+06/02/2026
+
+[View](/is/documents/product-information-tracked-changes/xerava-epar-product-information-tracked-changes_is.docx)
+
+italiano (IT) (153.77 KB - DOCX)
+
+**First published:**
+
+06/02/2026
+
+[View](/it/documents/product-information-tracked-changes/xerava-epar-product-information-tracked-changes_it.docx)
+
+latviešu valoda (LV) (159.41 KB - DOCX)
+
+**First published:**
+
+06/02/2026
+
+[View](/lv/documents/product-information-tracked-changes/xerava-epar-product-information-tracked-changes_lv.docx)
+
+lietuvių kalba (LT) (145.97 KB - DOCX)
+
+**First published:**
+
+06/02/2026
+
+[View](/lt/documents/product-information-tracked-changes/xerava-epar-product-information-tracked-changes_lt.docx)
+
+magyar (HU) (158.9 KB - DOCX)
+
+**First published:**
+
+06/02/2026
+
+[View](/hu/documents/product-information-tracked-changes/xerava-epar-product-information-tracked-changes_hu.docx)
+
+Malti (MT) (141.32 KB - DOCX)
+
+**First published:**
+
+06/02/2026
+
+[View](/mt/documents/product-information-tracked-changes/xerava-epar-product-information-tracked-changes_mt.docx)
+
+Nederlands (NL) (153.15 KB - DOCX)
+
+**First published:**
+
+06/02/2026
+
+[View](/nl/documents/product-information-tracked-changes/xerava-epar-product-information-tracked-changes_nl.docx)
+
+norsk (NO) (141.98 KB - DOCX)
+
+**First published:**
+
+06/02/2026
+
+[View](/no/documents/product-information-tracked-changes/xerava-epar-product-information-tracked-changes_no.docx)
+
+polski (PL) (155.38 KB - DOCX)
+
+**First published:**
+
+06/02/2026
+
+[View](/pl/documents/product-information-tracked-changes/xerava-epar-product-information-tracked-changes_pl.docx)
+
+português (PT) (146.23 KB - DOCX)
+
+**First published:**
+
+06/02/2026
+
+[View](/pt/documents/product-information-tracked-changes/xerava-epar-product-information-tracked-changes_pt.docx)
+
+română (RO) (148.04 KB - DOCX)
+
+**First published:**
+
+06/02/2026
+
+[View](/ro/documents/product-information-tracked-changes/xerava-epar-product-information-tracked-changes_ro.docx)
+
+slovenčina (SK) (156.18 KB - DOCX)
+
+**First published:**
+
+06/02/2026
+
+[View](/sk/documents/product-information-tracked-changes/xerava-epar-product-information-tracked-changes_sk.docx)
+
+slovenščina (SL) (152.03 KB - DOCX)
+
+**First published:**
+
+06/02/2026
+
+[View](/sl/documents/product-information-tracked-changes/xerava-epar-product-information-tracked-changes_sl.docx)
+
+Suomi (FI) (151.33 KB - DOCX)
+
+**First published:**
+
+06/02/2026
+
+[View](/fi/documents/product-information-tracked-changes/xerava-epar-product-information-tracked-changes_fi.docx)
+
+svenska (SV) (149.8 KB - DOCX)
+
+**First published:**
+
+06/02/2026
+
+[View](/sv/documents/product-information-tracked-changes/xerava-epar-product-information-tracked-changes_sv.docx)
+
 #### More information on Xerava
 
 - [EMEA-001555-PIP01-13-M05 - paediatric investigation plan](/en/medicines/human/paediatric-investigation-plans/emea-001555-pip01-13-m05)
@@ -999,7 +1384,7 @@ English (EN) (68.46 KB - PDF)
 
 - [Medicines](https://www.ema.europa.eu/en/search?f%5B0%5D=ema_search_topics%3A61)
 
-**This page was last updated on** 06/11/2024
+**This page was last updated on** 06/02/2026
 
 ## Share this page
 

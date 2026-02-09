@@ -1,20 +1,20 @@
 ---
-document_datetime: 2025-12-11 12:56:01
+document_datetime: 2026-02-06 10:10:43
 document_pages: 196
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/mounjaro-epar-product-information_en.pdf
 document_name: mounjaro-epar-product-information_en.pdf
 version: success
-processing_time: 67.8650803
-conversion_datetime: 2025-12-14 14:26:35.659451
+processing_time: 61.3256082
+conversion_datetime: 2026-02-09 22:16:30.206322
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.64.1
-  docling-core: 2.55.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.12.0
+  docling-jobkit: 1.10.1
+  docling: 2.72.0
+  docling-core: 2.63.0
+  docling-ibm-models: 3.11.0
+  docling-parse: 4.7.3
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.1-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
 ---
 ## ANNEX I
 
@@ -108,7 +108,9 @@ Mounjaro 7.5 mg solution for injection in vial
 
 Each vial contains 7.5 mg of tirzepatide in 0.5 ml solution (15 mg/ml).
 
-Mounjaro 10 mg solution for injection in vial Each vial contains 10 mg of tirzepatide in 0.5 ml solution (20 mg/ml).
+Mounjaro 10 mg solution for injection in vial
+
+Each vial contains 10 mg of tirzepatide in 0.5 ml solution (20 mg/ml).
 
 Mounjaro 12.5 mg solution for injection in vial
 
@@ -124,15 +126,15 @@ Mounjaro 5 mg/dose KwikPen solution for injection in pre-filled pen Each dose co
 
 ## Mounjaro 7.5 mg/dose KwikPen solution for injection in pre-filled pen
 
-Each dose contains 7.5 mg of tirzepatide in 0.6 ml solution. Each multi-dose pre-filled pen contains
-
-30 mg of tirzepatide in 2.4 ml (12.5 mg/ml). Each pen delivers 4 doses of 7.5 mg.
+Each dose contains 7.5 mg of tirzepatide in 0.6 ml solution. Each multi-dose pre-filled pen contains 30 mg of tirzepatide in 2.4 ml (12.5 mg/ml). Each pen delivers 4 doses of 7.5 mg.
 
 Mounjaro 10 mg/dose KwikPen solution for injection in pre-filled pen Each dose contains 10 mg of tirzepatide in 0.6 ml solution. Each multi-dose pre-filled pen contains 40 mg of tirzepatide in 2.4 ml (16.7 mg/ml). Each pen delivers 4 doses of 10 mg.
 
 ## Mounjaro 12.5 mg/dose KwikPen solution for injection in pre-filled pen
 
-Each dose contains 12.5 mg of tirzepatide in 0.6 ml solution. Each multi-dose pre-filled pen contains 50 mg of tirzepatide in 2.4 ml (20.8 mg/ml). Each pen delivers 4 doses of 12.5 mg.
+Each dose contains 12.5 mg of tirzepatide in 0.6 ml solution. Each multi-dose pre-filled pen contains
+
+50 mg of tirzepatide in 2.4 ml (20.8 mg/ml). Each pen delivers 4 doses of 12.5 mg.
 
 Mounjaro 15 mg/dose KwikPen solution for injection in pre-filled pen Each dose contains 15 mg of tirzepatide in 0.6 ml solution. Each multi-dose pre-filled pen contains 60 mg of tirzepatide in 2.4 ml (25 mg/ml). Each pen delivers 4 doses of 15 mg.
 
@@ -576,12 +578,6 @@ Table 3. SURPASS-2: Results at week 40
 | Patients (%) achieving weight loss | ≥ 10%                                | 35.8 ††                | 52.9 ††                 | 64.9 ††                 | 25.3               |
 | Patients (%) achieving weight loss | ≥ 15%                                | 15.2 †                 | 27.7 ††                 | 39.9 ††                 | 8.7                |
 
-* p &lt; 0.05, ** p &lt; 0.001 for superiority, adjusted for multiplicity.
-
-† p &lt; 0.05, †† p &lt; 0.001 compared to semaglutide 1 mg, not adjusted for multiplicity.
-
-# p &lt; 0.05, ## p &lt; 0.001 compared to baseline, not adjusted for multiplicity.
-
 <div style=\"page-break-after: always\"></div>
 
 Figure 2. Mean HbA1c (%) and mean body weight (kg) from baseline to week 40
@@ -622,10 +618,6 @@ Table 4. SURPASS-3: Results at week 52
 | Patients (%) achieving weight loss | ≥ 5%                                      | 66.0 ††                | 83.7 ††                | 87.8 ††                | 6.3                         |
 | Patients (%) achieving weight loss | ≥ 10%                                     | 37.4 ††                | 55.7 ††                | 69.4 ††                | 2.9                         |
 | Patients (%) achieving weight loss | ≥ 15%                                     | 12.5 ††                | 28.3 ††                | 42.5 ††                | 0.0                         |
-
-* p &lt; 0.05, **p &lt; 0.001 for superiority, adjusted for multiplicity.
-
-† p &lt; 0.05, †† p &lt; 0.001 compared to insulin degludec, not adjusted for multiplicity.
 
 # p &lt; 0.05, ## p &lt; 0.001 compared to baseline, not adjusted for multiplicity.
 
@@ -675,12 +667,6 @@ Table 5. SURPASS-4: Results at week 52
 | weight loss                   | ≥ 10%                                     | 35.9 ††                | 53.0 ††                | 65.6 ††                 | 1.5                         |
 | weight loss                   | ≥ 15%                                     | 13.8 ††                | 24.0 ††                | 36.5 ††                 | 0.5                         |
 
-* p &lt; 0.05, ** p &lt; 0.001 for superiority, adjusted for multiplicity.
-
-† p &lt; 0.05, †† p &lt; 0.001 compared to insulin glargine, not adjusted for multiplicity.
-
-# p &lt; 0.05, ## p &lt; 0.001 compared to baseline, not adjusted for multiplicity.
-
 <!-- image -->
 
 <!-- image -->
@@ -723,12 +709,6 @@ Table 6. SURPASS-5: Results at week 40
 | Patients (%) achieving weight loss | ≥ 5%                             | 53.9 ††                | 64.6 ††                | 84.6 ††                | 5.9       |
 | Patients (%) achieving weight loss | ≥ 10%                            | 22.6 ††                | 46.9 ††                | 51.3 ††                | 0.9       |
 | Patients (%) achieving weight loss | ≥ 15%                            | 7.0 †                  | 26.6 †                 | 31.6 ††                | 0.0       |
-
-* p &lt; 0.05, ** p &lt; 0.001 for superiority, adjusted for multiplicity.
-
-† p &lt; 0.05, †† p &lt; 0.001 compared to placebo, not adjusted for multiplicity.
-
-# p &lt; 0.05, ## p &lt; 0.001 compared to baseline, not adjusted for multiplicity.
 
 <div style=\"page-break-after: always\"></div>
 
@@ -773,12 +753,6 @@ Table 7. SURMOUNT-1: Results at week 72
 | Change from baseline                         | -14.6 ††                                     | -19.4 ††                                     | -19.9 ††                                     | -3.4 ††                                      |
 | Difference from placebo [95 %CI]             | -11.2 ## [-12.3, -10.0]                      | -16.0 ** [-17.2, -14.9]                      | -16.5 ** [-17.7, -15.4]                      | -                                            |
 
-†† p &lt; 0.001 versus baseline.
-
-**p &lt; 0.001 versus placebo, adjusted for multiplicity.
-
-## p &lt; 0.001 versus placebo, not adjusted for multiplicity.
-
 <div style=\"page-break-after: always\"></div>
 
 Figure 6. Mean change in body weight (%) from baseline to week 72
@@ -800,12 +774,6 @@ Table 8. SURMOUNT-1: Results at week 176 (patients with prediabetes at baseline)
 | Difference (%) from placebo [95 %CI]  | -13.2 ## [-15.3, -11.1] | -17.7** [-19.8, -15.7]  | -20.7** [-22.8, -18.6]  | -         |
 | Change (kg) from baseline             | -15.7 ††                | -21.4 ††                | -24.6 ††                | -2.3 †    |
 | Difference (kg) from placebo [95 %CI] | -13.4 ## [-15.9, -11.0] | -19.1 ## [-21.5, -16.7] | -22.3 ## [-24.7, -19.9] | -         |
-
-† p &lt; 0.05, †† p &lt; 0.001 versus baseline.
-
-**p &lt; 0.001 versus placebo, adjusted for multiplicity.
-
-## p &lt; 0.001 versus placebo, not adjusted for multiplicity.
 
 <div style=\"page-break-after: always\"></div>
 
@@ -864,14 +832,6 @@ Table 9. SURMOUNT-2: Results at week 72
 | Difference from placebo               | -46.8 **                | -49.3 **                | -         |
 | [95 %CI]                              | [-52.7, -40.9]          | [-55.2, -43.3]          |           |
 
-† p&lt; 0.05 versus baseline
-
-†† p &lt; 0.001 versus baseline.
-
-**p &lt; 0.001 versus placebo, adjusted for multiplicity.
-
-## p &lt; 0.001 versus placebo, not adjusted for multiplicity.
-
 <div style=\"page-break-after: always\"></div>
 
 Figure 8. Mean change in body weight (%) from baseline to week 72
@@ -907,14 +867,6 @@ Table 10. SURMOUNT-3: Results at week 72
 | Baseline 1                                                                               | 109.2                   | 109.6     |
 | Change from baseline 1                                                                   | -16.8 ††                | 1.1       |
 | Difference from placebo [95 %CI]                                                         | -17.9 ** [-19.5, -16.3] | -         |
-
-1 Randomisation (Week 0)
-
-†† p &lt; 0.001 versus baseline 1 .
-
-** p &lt; 0.001 versus placebo, adjusted for multiplicity.
-
-## p &lt; 0.001 versus placebo, not adjusted for multiplicity.
 
 <div style=\"page-break-after: always\"></div>
 
@@ -953,12 +905,6 @@ Table 11. SURMOUNT-4: Results at week 88
 | Randomisation (Week 36)                                                                             | 96.7                                                                | 98.2                                                                |
 | Change from randomisation (Week 36)                                                                 | -4.6 ††                                                             | 8.3 ††                                                              |
 | Difference from placebo [95 %CI]                                                                    | -12.9 ** [-14.1, -11.7]                                             | -                                                                   |
-
-†† p &lt; 0.001 versus baseline.
-
-**p &lt; 0.001 versus placebo, adjusted for multiplicity.
-
-## p &lt; 0.001 versus placebo, not adjusted for multiplicity.
 
 <div style=\"page-break-after: always\"></div>
 
@@ -1277,18 +1223,16 @@ Any unused medicinal product or waste material should be disposed of in accordan
 
 ## 7. MARKETING AUTHORISATION HOLDER
 
-## Eli Lilly Nederland B.V., Papendorpseweg 83, 3528 BJ Utrecht, The Netherlands.
+## Eli Lilly Nederland B.V., Orteliuslaan 1000, 3528 BD Utrecht, The Netherlands.
 
-## 8. MARKETING AUTHORISATION NUMBER
+8. MARKETING AUTHORISATION NUMBER
 
-```
-EU/1/22/1685/001 EU/1/22/1685/002 EU/1/22/1685/003 EU/1/22/1685/004 EU/1/22/1685/005 EU/1/22/1685/006 EU/1/22/1685/007 EU/1/22/1685/008 EU/1/22/1685/009 EU/1/22/1685/010 EU/1/22/1685/011 EU/1/22/1685/012 EU/1/22/1685/013 EU/1/22/1685/014 EU/1/22/1685/015 EU/1/22/1685/016 EU/1/22/1685/017 EU/1/22/1685/018 EU/1/22/1685/019 EU/1/22/1685/020 EU/1/22/1685/021 EU/1/22/1685/022 EU/1/22/1685/023 EU/1/22/1685/024 EU/1/22/1685/025 EU/1/22/1685/026 EU/1/22/1685/027 EU/1/22/1685/028 EU/1/22/1685/029 EU/1/22/1685/030 EU/1/22/1685/031 EU/1/22/1685/032 EU/1/22/1685/033 EU/1/22/1685/034 EU/1/22/1685/035 EU/1/22/1685/036 EU/1/22/1685/037 EU/1/22/1685/038 EU/1/22/1685/039 EU/1/22/1685/040 EU/1/22/1685/041 EU/1/22/1685/042 EU/1/22/1685/043 EU/1/22/1685/044 EU/1/22/1685/045 EU/1/22/1685/046 EU/1/22/1685/047 EU/1/22/1685/048
-```
+## EU/1/22/1685/001 EU/1/22/1685/002 EU/1/22/1685/003 EU/1/22/1685/004 EU/1/22/1685/005 EU/1/22/1685/006 EU/1/22/1685/007 EU/1/22/1685/008 EU/1/22/1685/009 EU/1/22/1685/010 EU/1/22/1685/011 EU/1/22/1685/012 EU/1/22/1685/013 EU/1/22/1685/014 EU/1/22/1685/015 EU/1/22/1685/016 EU/1/22/1685/017 EU/1/22/1685/018 EU/1/22/1685/019 EU/1/22/1685/020 EU/1/22/1685/021 EU/1/22/1685/022 EU/1/22/1685/023 EU/1/22/1685/024 EU/1/22/1685/025 EU/1/22/1685/026 EU/1/22/1685/027 EU/1/22/1685/028 EU/1/22/1685/029 EU/1/22/1685/030 EU/1/22/1685/031 EU/1/22/1685/032 EU/1/22/1685/033 EU/1/22/1685/034 EU/1/22/1685/035 EU/1/22/1685/036 EU/1/22/1685/037 EU/1/22/1685/038 EU/1/22/1685/039 EU/1/22/1685/040 EU/1/22/1685/041 EU/1/22/1685/042 EU/1/22/1685/043 EU/1/22/1685/044 EU/1/22/1685/045 EU/1/22/1685/046 EU/1/22/1685/047 EU/1/22/1685/048 EU/1/22/1685/049
 
 <div style=\"page-break-after: always\"></div>
 
 ```
-EU/1/22/1685/049 EU/1/22/1685/050 EU/1/22/1685/051 EU/1/22/1685/052 EU/1/22/1685/053 EU/1/22/1685/054 EU/1/22/1685/055 EU/1/22/1685/056 EU/1/22/1685/057 EU/1/22/1685/058 EU/1/22/1685/059 EU/1/22/1685/060
+EU/1/22/1685/050 EU/1/22/1685/051 EU/1/22/1685/052 EU/1/22/1685/053 EU/1/22/1685/054 EU/1/22/1685/055 EU/1/22/1685/056 EU/1/22/1685/057 EU/1/22/1685/058 EU/1/22/1685/059 EU/1/22/1685/060
 ```
 
 ## 9. DATE OF FIRST AUTHORISATION/RENEWAL OF THE AUTHORISATION
@@ -1453,7 +1397,7 @@ Store in the original package in order to protect from light.
 
 Eli Lilly Nederland B.V.
 
-Papendorpseweg 83, 3528 BJ Utrecht
+Orteliuslaan 1000, 3528 BD Utrecht
 
 The Netherlands
 
@@ -1547,7 +1491,7 @@ Store in the original package in order to protect from light.
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
-Eli Lilly Nederland B.V. Papendorpseweg 83, 3528 BJ Utrecht The Netherlands
+Eli Lilly Nederland B.V. Orteliuslaan 1000, 3528 BD Utrecht The Netherlands
 
 ## 12. MARKETING AUTHORISATION NUMBER(S)
 
@@ -1642,13 +1586,11 @@ Do not freeze.
 
 Store in the original package in order to protect from light.
 
-10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
+## 10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
-Papendorpseweg 83, 3528 BJ Utrecht
-
-Eli Lilly Nederland B.V. The Netherlands
+Eli Lilly Nederland B.V. Orteliuslaan 1000, 3528 BD Utrecht The Netherlands
 
 ## 12. MARKETING AUTHORISATION NUMBER(S)
 
@@ -1780,7 +1722,7 @@ Store in the original package in order to protect from light.
 
 Eli Lilly Nederland B.V.
 
-Papendorpseweg 83, 3528 BJ Utrecht
+Orteliuslaan 1000, 3528 BD Utrecht
 
 The Netherlands
 
@@ -1798,7 +1740,7 @@ Lot
 
 15. INSTRUCTIONS ON USE
 
-16. INFORMATION IN BRAILLE
+## 16. INFORMATION IN BRAILLE
 
 MOUNJARO 5 mg
 
@@ -1874,7 +1816,7 @@ Store in the original package in order to protect from light.
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
-Eli Lilly Nederland B.V. Papendorpseweg 83, 3528 BJ Utrecht The Netherlands
+Eli Lilly Nederland B.V. Orteliuslaan 1000, 3528 BD Utrecht The Netherlands
 
 ## 12. MARKETING AUTHORISATION NUMBER(S)
 
@@ -1967,13 +1909,11 @@ Do not freeze.
 
 Store in the original package in order to protect from light.
 
-10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
+## 10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
-Papendorpseweg 83, 3528 BJ Utrecht
-
-Eli Lilly Nederland B.V. The Netherlands
+Eli Lilly Nederland B.V. Orteliuslaan 1000, 3528 BD Utrecht The Netherlands
 
 ## 12. MARKETING AUTHORISATION NUMBER(S)
 
@@ -2100,7 +2040,7 @@ Store in the original package in order to protect from light.
 
 Eli Lilly Nederland B.V.
 
-Papendorpseweg 83, 3528 BJ Utrecht
+Orteliuslaan 1000, 3528 BD Utrecht
 
 The Netherlands
 
@@ -2118,7 +2058,7 @@ Lot
 
 15. INSTRUCTIONS ON USE
 
-16. INFORMATION IN BRAILLE
+## 16. INFORMATION IN BRAILLE
 
 MOUNJARO 7.5 mg
 
@@ -2194,7 +2134,7 @@ Store in the original package in order to protect from light.
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
-Eli Lilly Nederland B.V. Papendorpseweg 83, 3528 BJ Utrecht The Netherlands
+Eli Lilly Nederland B.V. Orteliuslaan 1000, 3528 BD Utrecht The Netherlands
 
 ## 12. MARKETING AUTHORISATION NUMBER(S)
 
@@ -2287,13 +2227,11 @@ Do not freeze.
 
 Store in the original package in order to protect from light.
 
-10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
+## 10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
-Papendorpseweg 83, 3528 BJ Utrecht
-
-Eli Lilly Nederland B.V. The Netherlands
+Eli Lilly Nederland B.V. Orteliuslaan 1000, 3528 BD Utrecht The Netherlands
 
 ## 12. MARKETING AUTHORISATION NUMBER(S)
 
@@ -2422,13 +2360,15 @@ Store in the original package in order to protect from light.
 
 Eli Lilly Nederland B.V.
 
-Papendorpseweg 83, 3528 BJ Utrecht
+Orteliuslaan 1000, 3528 BD Utrecht
 
 The Netherlands
 
 ## 12. MARKETING AUTHORISATION NUMBER(S)
 
-EU/1/22/1685/010 2 pre-filled pens EU/1/22/1685/011 4 pre-filled pens
+EU/1/22/1685/010 2 pre-filled pens
+
+EU/1/22/1685/011 4 pre-filled pens
 
 ## 13. BATCH NUMBER
 
@@ -2514,7 +2454,7 @@ Store in the original package in order to protect from light.
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
-Eli Lilly Nederland B.V. Papendorpseweg 83, 3528 BJ Utrecht The Netherlands
+Eli Lilly Nederland B.V. Orteliuslaan 1000, 3528 BD Utrecht The Netherlands
 
 ## 12. MARKETING AUTHORISATION NUMBER(S)
 
@@ -2611,9 +2551,7 @@ Store in the original package in order to protect from light.
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
-Papendorpseweg 83, 3528 BJ Utrecht
-
-Eli Lilly Nederland B.V. The Netherlands
+Eli Lilly Nederland B.V. Orteliuslaan 1000, 3528 BD Utrecht The Netherlands
 
 ## 12. MARKETING AUTHORISATION NUMBER(S)
 
@@ -2744,7 +2682,7 @@ Store in the original package in order to protect from light.
 
 Eli Lilly Nederland B.V.
 
-Papendorpseweg 83, 3528 BJ Utrecht
+Orteliuslaan 1000, 3528 BD Utrecht
 
 The Netherlands
 
@@ -2838,7 +2776,7 @@ Store in the original package in order to protect from light.
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
-Eli Lilly Nederland B.V. Papendorpseweg 83, 3528 BJ Utrecht The Netherlands
+Eli Lilly Nederland B.V. Orteliuslaan 1000, 3528 BD Utrecht The Netherlands
 
 ## 12. MARKETING AUTHORISATION NUMBER(S)
 
@@ -2935,9 +2873,7 @@ Store in the original package in order to protect from light.
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
-Papendorpseweg 83, 3528 BJ Utrecht
-
-Eli Lilly Nederland B.V. The Netherlands
+Eli Lilly Nederland B.V. Orteliuslaan 1000, 3528 BD Utrecht The Netherlands
 
 ## 12. MARKETING AUTHORISATION NUMBER(S)
 
@@ -3066,7 +3002,7 @@ Store in the original package in order to protect from light.
 
 Eli Lilly Nederland B.V.
 
-Papendorpseweg 83, 3528 BJ Utrecht
+Orteliuslaan 1000, 3528 BD Utrecht
 
 The Netherlands
 
@@ -3160,7 +3096,7 @@ Store in the original package in order to protect from light.
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
-Eli Lilly Nederland B.V. Papendorpseweg 83, 3528 BJ Utrecht The Netherlands
+Eli Lilly Nederland B.V. Orteliuslaan 1000, 3528 BD Utrecht The Netherlands
 
 ## 12. MARKETING AUTHORISATION NUMBER(S)
 
@@ -3257,9 +3193,7 @@ Store in the original package in order to protect from light.
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
-Papendorpseweg 83, 3528 BJ Utrecht
-
-Eli Lilly Nederland B.V. The Netherlands
+Eli Lilly Nederland B.V. Orteliuslaan 1000, 3528 BD Utrecht The Netherlands
 
 ## 12. MARKETING AUTHORISATION NUMBER(S)
 
@@ -3377,7 +3311,7 @@ Store in the original package in order to protect from light.
 
 Eli Lilly Nederland B.V.
 
-Papendorpseweg 83, 3528 BJ Utrecht
+Orteliuslaan 1000, 3528 BD Utrecht
 
 The Netherlands
 
@@ -3475,9 +3409,7 @@ Store in the original package in order to protect from light.
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
-Papendorpseweg 83, 3528 BJ Utrecht
-
-Eli Lilly Nederland B.V. The Netherlands
+Eli Lilly Nederland B.V. Orteliuslaan 1000, 3528 BD Utrecht The Netherlands
 
 ## 12. MARKETING AUTHORISATION NUMBER(S)
 
@@ -3569,9 +3501,7 @@ Store in the original package in order to protect from light.
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
-Papendorpseweg 83, 3528 BJ Utrecht
-
-Eli Lilly Nederland B.V. The Netherlands
+Eli Lilly Nederland B.V. Orteliuslaan 1000, 3528 BD Utrecht The Netherlands
 
 ## 12. MARKETING AUTHORISATION NUMBER(S)
 
@@ -3688,7 +3618,7 @@ Store in the original package in order to protect from light.
 
 Eli Lilly Nederland B.V.
 
-Papendorpseweg 83, 3528 BJ Utrecht
+Orteliuslaan 1000, 3528 BD Utrecht
 
 The Netherlands
 
@@ -3788,7 +3718,7 @@ Store in the original package in order to protect from light.
 
 Eli Lilly Nederland B.V.
 
-Papendorpseweg 83, 3528 BJ Utrecht
+Orteliuslaan 1000, 3528 BD Utrecht
 
 The Netherlands
 
@@ -3882,9 +3812,7 @@ Store in the original package in order to protect from light.
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
-Papendorpseweg 83, 3528 BJ Utrecht
-
-Eli Lilly Nederland B.V. The Netherlands
+Eli Lilly Nederland B.V. Orteliuslaan 1000, 3528 BD Utrecht The Netherlands
 
 ## 12. MARKETING AUTHORISATION NUMBER(S)
 
@@ -4005,7 +3933,7 @@ Store in the original package in order to protect from light.
 
 Eli Lilly Nederland B.V.
 
-Papendorpseweg 83, 3528 BJ Utrecht
+Orteliuslaan 1000, 3528 BD Utrecht
 
 The Netherlands
 
@@ -4105,7 +4033,7 @@ Store in the original package in order to protect from light.
 
 Eli Lilly Nederland B.V.
 
-Papendorpseweg 83, 3528 BJ Utrecht
+Orteliuslaan 1000, 3528 BD Utrecht
 
 The Netherlands
 
@@ -4199,9 +4127,7 @@ Store in the original package in order to protect from light.
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
-Papendorpseweg 83, 3528 BJ Utrecht
-
-Eli Lilly Nederland B.V. The Netherlands
+Eli Lilly Nederland B.V. Orteliuslaan 1000, 3528 BD Utrecht The Netherlands
 
 ## 12. MARKETING AUTHORISATION NUMBER(S)
 
@@ -4316,7 +4242,7 @@ Store in the original package in order to protect from light.
 
 Eli Lilly Nederland B.V.
 
-Papendorpseweg 83, 3528 BJ Utrecht
+Orteliuslaan 1000, 3528 BD Utrecht
 
 The Netherlands
 
@@ -4416,7 +4342,7 @@ Store in the original package in order to protect from light.
 
 Eli Lilly Nederland B.V.
 
-Papendorpseweg 83, 3528 BJ Utrecht
+Orteliuslaan 1000, 3528 BD Utrecht
 
 The Netherlands
 
@@ -4510,9 +4436,7 @@ Store in the original package in order to protect from light.
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
-Papendorpseweg 83, 3528 BJ Utrecht
-
-Eli Lilly Nederland B.V. The Netherlands
+Eli Lilly Nederland B.V. Orteliuslaan 1000, 3528 BD Utrecht The Netherlands
 
 ## 12. MARKETING AUTHORISATION NUMBER(S)
 
@@ -4633,7 +4557,7 @@ Store in the original package in order to protect from light.
 
 Eli Lilly Nederland B.V.
 
-Papendorpseweg 83, 3528 BJ Utrecht
+Orteliuslaan 1000, 3528 BD Utrecht
 
 The Netherlands
 
@@ -4733,7 +4657,7 @@ Store in the original package in order to protect from light.
 
 Eli Lilly Nederland B.V.
 
-Papendorpseweg 83, 3528 BJ Utrecht
+Orteliuslaan 1000, 3528 BD Utrecht
 
 The Netherlands
 
@@ -4827,7 +4751,7 @@ Store in the original package in order to protect from light.
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
-Eli Lilly Nederland B.V. Papendorpseweg 83, 3528 BJ Utrecht The Netherlands
+Eli Lilly Nederland B.V. Orteliuslaan 1000, 3528 BD Utrecht The Netherlands
 
 ## 12. MARKETING AUTHORISATION NUMBER(S)
 
@@ -4838,12 +4762,15 @@ EU/1/22/1685/043 EU/1/22/1685/044
 Lot
 
 14. GENERAL CLASSIFICATION FOR SUPPLY
+
 15. INSTRUCTIONS ON USE
+
 16. INFORMATION IN BRAILLE
 
 Justification for not including Braille accepted.
 
-17. UNIQUE IDENTIFIER - 2D BARCODE
+## 17. UNIQUE IDENTIFIER - 2D BARCODE
+
 18. UNIQUE IDENTIFIER - HUMAN READABLE DATA
 
 <div style=\"page-break-after: always\"></div>
@@ -4938,7 +4865,7 @@ Store in the original package in order to protect from light.
 
 Eli Lilly Nederland B.V.
 
-Papendorpseweg 83, 3528 BJ Utrecht
+Orteliuslaan 1000, 3528 BD Utrecht
 
 The Netherlands
 
@@ -5038,7 +4965,7 @@ Store in the original package in order to protect from light.
 
 Eli Lilly Nederland B.V.
 
-Papendorpseweg 83, 3528 BJ Utrecht
+Orteliuslaan 1000, 3528 BD Utrecht
 
 The Netherlands
 
@@ -5132,7 +5059,7 @@ Store in the original package in order to protect from light.
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
-Eli Lilly Nederland B.V. Papendorpseweg 83, 3528 BJ Utrecht The Netherlands
+Eli Lilly Nederland B.V. Orteliuslaan 1000, 3528 BD Utrecht The Netherlands
 
 ## 12. MARKETING AUTHORISATION NUMBER(S)
 
@@ -5261,7 +5188,7 @@ After first use store unrefrigerated below 30 ºC for up to 30 days. Discard pen
 
 Eli Lilly Nederland B.V.
 
-Papendorpseweg 83, 3528 BJ Utrecht
+Orteliuslaan 1000, 3528 BD Utrecht
 
 The Netherlands
 
@@ -5411,7 +5338,7 @@ After first use store unrefrigerated below 30 ºC for up to 30 days. Discard pen
 
 Eli Lilly Nederland B.V.
 
-Papendorpseweg 83, 3528 BJ Utrecht
+Orteliuslaan 1000, 3528 BD Utrecht
 
 The Netherlands
 
@@ -5561,7 +5488,7 @@ After first use store unrefrigerated below 30 ºC for up to 30 days. Discard pen
 
 Eli Lilly Nederland B.V.
 
-Papendorpseweg 83, 3528 BJ Utrecht
+Orteliuslaan 1000, 3528 BD Utrecht
 
 The Netherlands
 
@@ -5711,7 +5638,7 @@ After first use store unrefrigerated below 30 ºC for up to 30 days. Discard pen
 
 Eli Lilly Nederland B.V.
 
-Papendorpseweg 83, 3528 BJ Utrecht
+Orteliuslaan 1000, 3528 BD Utrecht
 
 The Netherlands
 
@@ -5861,7 +5788,7 @@ After first use store unrefrigerated below 30 ºC for up to 30 days. Discard pen
 
 Eli Lilly Nederland B.V.
 
-Papendorpseweg 83, 3528 BJ Utrecht
+Orteliuslaan 1000, 3528 BD Utrecht
 
 The Netherlands
 
@@ -6011,7 +5938,7 @@ After first use store unrefrigerated below 30 ºC for up to 30 days. Discard pen
 
 Eli Lilly Nederland B.V.
 
-Papendorpseweg 83, 3528 BJ Utrecht
+Orteliuslaan 1000, 3528 BD Utrecht
 
 The Netherlands
 
@@ -6083,8 +6010,6 @@ Lot
 ## B. PACKAGE LEAFLET
 
 <div style=\"page-break-after: always\"></div>
-
-<!-- image -->
 
 ## Package leaflet: Information for the patient
 
@@ -6345,7 +6270,7 @@ Pack sizes of 2 pre-filled pens, 4 pre-filled pens or multipack of 12 (3 packs o
 
 ## Marketing Authorisation Holder
 
-Eli Lilly Nederland B.V., Papendorpseweg 83, 3528 BJ Utrecht, The Netherlands.
+Eli Lilly Nederland B.V., Orteliuslaan 1000, 3528 BD Utrecht, The Netherlands.
 
 ## Manufacturer
 
@@ -6977,7 +6902,7 @@ Pack sizes of 1 vial, 4 vials, 12 vials, multipack containing 4 (4 packs of 1) v
 
 ## Marketing Authorisation Holder
 
-Eli Lilly Nederland B.V., Papendorpseweg 83, 3528 BJ Utrecht, The Netherlands.
+Eli Lilly Nederland B.V., Orteliuslaan 1000, 3528 BD Utrecht, The Netherlands.
 
 ## Manufacturer
 
@@ -7402,7 +7327,7 @@ Not all pack sizes may be available in your country.
 
 ## Marketing Authorisation Holder
 
-Eli Lilly Nederland B.V., Papendorpseweg 83, 3528 BJ Utrecht, The Netherlands.
+Eli Lilly Nederland B.V., Orteliuslaan 1000, 3528 BD Utrecht, The Netherlands.
 
 ## Manufacturer
 

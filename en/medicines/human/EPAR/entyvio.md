@@ -1,18 +1,18 @@
 ---
-document_datetime: 2025-12-17 16:30:00
+document_datetime: 2026-02-05 17:00:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/entyvio.html
 document_name: entyvio.html
 version: success
-processing_time: 0.1296823
-conversion_datetime: 2026-01-03 12:42:34.926634
+processing_time: 0.1154025
+conversion_datetime: 2026-02-09 22:12:30.894974
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.66.0
-  docling-core: 2.57.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.12.0
+  docling-jobkit: 1.10.1
+  docling: 2.72.0
+  docling-core: 2.63.0
+  docling-ibm-models: 3.11.0
+  docling-parse: 4.7.3
   python: cpython-313 (3.13.11)
   plaform: macOS-26.2-arm64-arm-64bit-Mach-O
 ---
@@ -25,8 +25,6 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 vedolizumab Medicine Human Authorised
-
-On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -131,7 +129,7 @@ English (EN) (129.94 KB - PDF)
 
 [View](/en/documents/overview/entyvio-epar-summary-public_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-827)
+[Other languages (22)](#file-language-dropdown-586)
 
 български (BG) (155.39 KB - PDF)
 
@@ -397,17 +395,15 @@ svenska (SV) (126.9 KB - PDF)
 
 [View](/sv/documents/overview/entyvio-epar-summary-public_sv.pdf)
 
-Entyvio : EPAR - Risk-management-plan summary
+Entyvio : EPAR - Risk-management-plan
 
-Reference Number: EMA/174665/2014
-
-English (EN) (106.57 KB - PDF)
+English (EN) (5.64 MB - PDF)
 
 **First published:** 16/06/2014
 
-**Last updated:** 14/09/2023
+**Last updated:** 05/02/2026
 
-[View](/en/documents/rmp-summary/entyvio-epar-risk-management-plan-summary_en.pdf)
+[View](/en/documents/rmp/entyvio-epar-risk-management-plan_en.pdf)
 
 ## Product information
 
@@ -421,7 +417,7 @@ English (EN) (923.93 KB - PDF)
 
 [View](/en/documents/product-information/entyvio-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-223)
+[Other languages (24)](#file-language-dropdown-629)
 
 български (BG) (1022.75 KB - PDF)
 
@@ -737,7 +733,7 @@ English (EN) (45.44 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/entyvio-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-330)
+[Other languages (24)](#file-language-dropdown-430)
 
 български (BG) (77.75 KB - PDF)
 
@@ -1061,7 +1057,7 @@ Takeda Pharma A/S
 
 Delta Park 45
 
-Opinion adopted 20/03/2014 Marketing authorisation issued 22/05/2014 Revision 29
+Opinion adopted 20/03/2014 Marketing authorisation issued 22/05/2014 Revision 30
 
 ## Assessment history
 
@@ -1291,7 +1287,7 @@ English (EN) (94.73 KB - PDF)
 
 - [Medicines](https://www.ema.europa.eu/en/search?f%5B0%5D=ema_search_topics%3A61)
 
-**This page was last updated on** 17/12/2025
+**This page was last updated on** 05/02/2026
 
 ## Share this page
 

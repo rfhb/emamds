@@ -1,18 +1,18 @@
 ---
-document_datetime: 2025-12-16 11:45:56
+document_datetime: 2026-02-05 14:52:23
 document_pages: 61
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/kesimpta-epar-product-information_en.pdf
 document_name: kesimpta-epar-product-information_en.pdf
 version: success
-processing_time: 17.5984548
-conversion_datetime: 2026-01-03 12:32:15.274589
+processing_time: 15.1869107
+conversion_datetime: 2026-02-09 22:01:15.604633
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.66.0
-  docling-core: 2.57.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.12.0
+  docling-jobkit: 1.10.1
+  docling: 2.72.0
+  docling-core: 2.63.0
+  docling-ibm-models: 3.11.0
+  docling-parse: 4.7.3
   python: cpython-313 (3.13.11)
   plaform: macOS-26.2-arm64-arm-64bit-Mach-O
 ---
@@ -22,13 +22,11 @@ docling_version:
 
 <div style=\"page-break-after: always\"></div>
 
-<!-- image -->
-
-This medicinal product is subject to additional monitoring. This will allow quick identification of new safety information. Healthcare professionals are asked to report any suspected adverse reactions. See section 4.8 for how to report adverse reactions.
-
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
-Kesimpta 20 mg solution for injection in pre-filled syringe Kesimpta 20 mg solution for injection in pre-filled pen
+Kesimpta 20 mg solution for injection in pre-filled syringe
+
+Kesimpta 20 mg solution for injection in pre-filled pen
 
 ## 2. QUALITATIVE AND QUANTITATIVE COMPOSITION
 
@@ -46,7 +44,9 @@ For the full list of excipients, see section 6.1.
 
 ## 3. PHARMACEUTICAL FORM
 
-Solution for injection (injection) Solution for injection (injection) in pre-filled pen (Sensoready Pen)
+Solution for injection (injection)
+
+Solution for injection (injection) in pre-filled pen (Sensoready Pen)
 
 The solution is clear to slightly opalescent, and colourless to slightly brownish-yellow.
 
@@ -71,13 +71,13 @@ The recommended dose is 20 mg ofatumumab administered by subcutaneous injection 
 
 If an injection is missed, it should be administered as soon as possible without waiting until the next scheduled dose. Subsequent doses should be administered at the recommended intervals.
 
-<div style=\"page-break-after: always\"></div>
-
 ## Special populations
 
 ## Adults over 55 years old
 
 No studies have been performed in MS patients over 55 years old. Based on the limited data available, no dose adjustment is considered necessary in patients over 55 years old (see section 5.2).
+
+<div style=\"page-break-after: always\"></div>
 
 ## Renal impairment
 
@@ -111,23 +111,23 @@ Hypersensitivity to the active substance or to any of the excipients listed in s
 
 In order to improve the traceability of biological medicinal products, the name and the batch number of the administered product should be clearly recorded.
 
-## Injection-related reactions
+## Systemic injection-related reactions
 
 Patients should be informed that systemic injection-related reactions (SIRRs) could occur, generally within 24 hours and predominantly following the first injection (see section 4.8). Symptoms most frequently observed in RMS clinical studies include fever, headache, myalgia, chills, fatigue, nausea and vomiting and were predominantly (99.8%) mild to moderate in severity. There were no lifethreatening SIRRs reported in RMS clinical studies (see section 4.8).
 
 Additional SIRRs reported in the post-marketing setting include rash, urticaria, dyspnoea and angioedema (e.g. tongue, pharyngeal or laryngeal swelling), and rare cases which were reported as anaphylaxis. While there were some cases which were serious and resulted in discontinuation of ofatumumab treatment, there were also serious cases where patients were able to continue ofatumumab treatment without further incidents.
 
-Some SIRR symptoms may be clinically indistinguishable from Type 1 acute hypersensitivity reactions (IgE-mediated). A hypersensitivity reaction may present during any injection, although typically would not present with the first injection. For subsequent injections, more severe symptoms
+Some SIRR symptoms may be clinically indistinguishable from Type 1 acute hypersensitivity reactions (IgE-mediated). A hypersensitivity reaction may present during any injection, although typically would not present with the first injection. For subsequent injections, more severe symptoms than previously experienced, or new severe symptoms, should prompt consideration of a potential hypersensitivity reaction. Patients with known IgE-mediated hypersensitivity to ofatumumab must not be treated with ofatumumab (see section 4.3).
 
 <div style=\"page-break-after: always\"></div>
 
-than previously experienced, or new severe symptoms, should prompt consideration of a potential hypersensitivity reaction. Patients with known IgE-mediated hypersensitivity to ofatumumab must not be treated with ofatumumab (see section 4.3).
-
 Only limited benefit of premedication with steroids was seen in RMS clinical studies. Injection-related reactions can be managed with symptomatic treatment, should they occur. Therefore, use of premedication is not required.
 
-Injection site reaction (local) symptoms observed in clinical studies included erythema, swelling, itching and pain (see section 4.8).
-
 The first injection should be performed under the guidance of an appropriately trained healthcare professional (see section 4.2).
+
+## Local injection-site reactions
+
+Local injection-site reaction symptoms observed in clinical studies included erythema, swelling, itching and pain (see section 4.8).
 
 ## Infections
 
@@ -155,13 +155,13 @@ Patients in a severely immunocompromised state must not be treated until the con
 
 It is not recommended to use other immunosuppressants concomitantly with ofatumumab except corticosteroids for symptomatic treatment of relapses.
 
-<div style=\"page-break-after: always\"></div>
-
 ## Vaccinations
 
 All immunisations should be administered according to immunisation guidelines at least 4 weeks prior to initiation of ofatumumab for live or live-attenuated vaccines and, whenever possible, at least 2 weeks prior to initiation of ofatumumab for inactivated vaccines.
 
-Ofatumumab may interfere with the effectiveness of inactivated vaccines.
+<div style=\"page-break-after: always\"></div>
+
+## Ofatumumab may interfere with the effectiveness of inactivated vaccines.
 
 The safety of immunisation with live or live-attenuated vaccines following ofatumumab therapy has not been studied. Vaccination with live or live-attenuated vaccines is not recommended during treatment and after discontinuation until B-cell repletion (see section 4.5). The median time to B-cell recovery to the lower limit of normal (LLN, defined as 40 cells/µl) or baseline value is 24.6 weeks post treatment discontinuation based on data from phase III studies (see section 5.1).
 
@@ -171,9 +171,15 @@ In infants of mothers treated with ofatumumab during pregnancy live or live-atte
 
 Inactivated vaccines may be administered as indicated prior to recovery from B-cell depletion, however assessment of vaccine immune responses, including consultation with a qualified specialist, should be considered to determine whether a protective immune response was mounted (see section 4.6).
 
-## Sodium content
+## Excipients with known effect
+
+## Sodium
 
 This medicinal product contains less than 1 mmol sodium (23 mg) per dose, that is to say essentially ' sodium-free ' .
+
+## Polysorbates
+
+This medicinal product contains 0.08 mg of polysorbate 80 per dose. Polysorbates may cause allergic reactions.
 
 ## 4.5 Interaction with other medicinal products and other forms of interaction
 
@@ -221,19 +227,17 @@ Non-clinical data did not indicate potential hazards for humans based on male an
 
 Kesimpta has no or negligible influence on the ability to drive and use machines.
 
+<div style=\"page-break-after: always\"></div>
+
 ## 4.8 Undesirable effects
 
 ## Summary of the safety profile
 
-The most important and frequently reported adverse reactions are upper respiratory tract infections (39.4%), systemic injection-related reactions (20.6%), injection-site reactions (10.9%) and urinary
-
-<div style=\"page-break-after: always\"></div>
-
-tract infections (11.9%) (see section 4.4 and below subsection ' Description of selected adverse reactions ' for further details).
+The most important and frequently reported adverse reactions are upper respiratory tract infections (39.4%), systemic injection-related reactions (20.6%), local injection-site reactions (10.9%) and urinary tract infections (11.9%) (see section 4.4 and below subsection ' Description of selected adverse reactions ' for further details).
 
 ## Tabulated list of adverse reactions
 
-Adverse reactions that have been reported in association with the use of ofatumumab in pivotal RMS clinical studies and from post-marketing experience are listed by MedDRA system organ class in Table 1. Within each system organ class, the adverse reactions are ranked by frequency, with the most frequent reactions first. Within each frequency grouping, adverse reactions are presented in order of decreasing seriousness. In addition, the corresponding frequency category for each adverse reaction is based on the following convention: very common (≥1/10); common (≥1/100 to &lt;1/10); uncommon (≥1/1 000 to &lt;1/100); rare (≥1/10 000 to &lt;1/1 000); very rare (&lt;1/10 000) and not known (cannot be estimated from the available data).
+Adverse reactions that have been reported in association with the use of ofatumumab in pivotal RMS clinical studies and from post-marketing experience are listed by MedDRA system organ class in Table 1. Within each system organ class, the adverse reactions are ranked by frequency, with the most frequent reactions first. Within each frequency grouping, adverse reactions are presented in order of decreasing seriousness. In addition, the corresponding frequency category for each adverse reaction is based on the following conven tion: very common (≥1/10); common (≥1/100 to &lt;1/10); uncommon (≥1/1 000 to &lt;1/100); rare (≥1/10 000 to &lt;1/1 000); very rare (&lt;1/10 000) and not known (cannot be estimated from the available data).
 
 Table 1 Tabulated list of adverse reactions
 
@@ -243,18 +247,14 @@ Table 1 Tabulated list of adverse reactions
 | Common                                               | Oral herpes                                                     |
 | Immune system disorders                              | Immune system disorders                                         |
 | Not known                                            | Hypersensitivity reactions 3                                    |
-| General disorders and administration site conditions | General disorders and administration site conditions            |
-| Very common                                          | Injection-site reactions (local)                                |
-| Injury, poisoning and procedural complications       | Injury, poisoning and procedural complications                  |
-| Very common                                          | Injection-related reactions (systemic)                          |
 | Gastrointestinal disorders                           | Gastrointestinal disorders                                      |
 | Common                                               | Nausea, vomiting 4                                              |
+| General disorders and administration site conditions | General disorders and administration site conditions            |
+| Very common                                          | Injection-site reactions (local)                                |
 | Investigations                                       | Investigations                                                  |
 | Common                                               | Blood immunoglobulin Mdecreased                                 |
-
-- 3 Reported during post-marketing experience (see section 4.4).
-
-4 Nausea and vomiting have been reported in association with systemic injection-related reactions (see below and section 4.4)
+| Injury, poisoning and procedural complications       | Injury, poisoning and procedural complications                  |
+| Very common                                          | Injection-related reactions (systemic)                          |
 
 ## Description of selected adverse reactions
 
@@ -262,27 +262,25 @@ Table 1 Tabulated list of adverse reactions
 
 In the RMS phase III clinical studies, the overall rate of infections and serious infections in patients treated with ofatumumab was similar to patients who were treated with teriflunomide (51.6% vs 52.7%, and 2.5% vs 1.8%, respectively). Two patients (0.2%) discontinued and 11 patients (1.2%) temporarily interrupted study treatment due to a serious infection.
 
+<div style=\"page-break-after: always\"></div>
+
 ## Upper respiratory tract infections
 
 In these studies, 39.4% of ofatumumab-treated patients experienced upper respiratory tract infections compared to 37.8% of teriflunomide-treated patients. The infections were predominantly mild to moderate and mostly consisted of nasopharyngitis, upper respiratory tract infection and influenza.
 
-## Injection-related reactions
+## Systemic injection-related reactions
 
-In the RMS phase III clinical studies, injection-related reactions (systemic) were reported in 20.6% of patients treated with ofatumumab.
+In the RMS phase III clinical studies, SIRRs were reported in 20.6% of patients treated with ofatumumab.
 
-<div style=\"page-break-after: always\"></div>
+The incidence of SIRRs was highest with the first injection (14.4%), decreasing significantly with subsequent injections (4.4% with second, &lt;3% from third injection). SIRRs were mostly (99.8%) mild to moderate in severity. Two (0.2%) ofatumumab-treated MS patients reported serious injection-related reactions but not life-threatening. The most frequently reported symptoms (≥2%) included fever, headache, myalgia, chills and fatigue. Additional reported symptoms included nausea (1.7%) and vomiting (0.6%).
 
-The incidence of injection-related reactions was highest with the first injection (14.4%), decreasing significantly with subsequent injections (4.4% with second, &lt;3% from third injection). Injectionrelated reactions were mostly (99.8%) mild to moderate in severity. Two (0.2%) ofatumumab-treated MS patients reported serious injection-related reactions but not life-threatening. The most frequently reported symptoms (≥2%) include d fever, headache, myalgia, chills and fatigue. Additional reported symptoms included nausea (1.7%) and vomiting (0.6%).
+## Local injection-site reactions
 
-## Injection-site reactions
+In the RMS phase III clinical studies, local injection-site reactions were reported in 10.9% of patients treated with ofatumumab.
 
-In the RMS phase III clinical studies, injection-site reactions (local) were reported in 10.9% of patients treated with ofatumumab.
+Local injection-site reactions were very common. They were all mild to moderate in severity and nonserious in nature. The m ost frequently reported symptoms (≥2%) included erythema, pain, itching and swelling.
 
-Local reactions at the administration site were very common. Injection-site reactions were all mild to moderate in severity and non-serious in nature. The m ost frequently reported symptoms (≥2%) included erythema, pain, itching and swelling.
-
-## Laboratory abnormalities
-
-## Immunoglobulins
+## Laboratory abnormalities Immunoglobulins
 
 During the course of the RMS phase III clinical studies, decrease in mean value of immunoglobulin M (IgM) (30.9% decrease after 48 weeks and 38.8% decrease after 96 weeks) was observed and no association with risk of infections, including serious infections, was shown.
 
@@ -300,6 +298,8 @@ Doses up to 700 mg have been administered in clinical studies with MS patients w
 
 Ofatumumab has been previously used in chronic lymphocytic leukaemia (CLL) indications, at doses up to 2 000 mg administered intravenously via infusion. Ofatumumab administered via subcutaneous injection has not been assessed and is not approved for these indications, and must not be used for the treatment of oncology indications.
 
+<div style=\"page-break-after: always\"></div>
+
 ## 5. PHARMACOLOGICAL PROPERTIES
 
 ## 5.1 Pharmacodynamic properties
@@ -308,11 +308,7 @@ Pharmacotherapeutic group: immunosuppressants, monoclonal antibodies, ATC code: 
 
 ## Mechanism of action
 
-Ofatumumab is a fully human anti-CD20 monoclonal immunoglobulin G1 (IgG1) antibody with a theoretical average molecular weight of 145kDa. The CD20 molecule is a transmembrane
-
-<div style=\"page-break-after: always\"></div>
-
-phosphoprotein expressed on B lymphocytes from the pre-B to mature B lymphocyte stage. The CD20 molecule is also expressed on a small fraction of activated T cells. A subcutaneous route of administration of ofatumumab and subsequent release/absorption from the tissue allows a gradual interaction with B cells.
+Ofatumumab is a fully human anti-CD20 monoclonal immunoglobulin G1 (IgG1) antibody. The CD20 molecule is a transmembrane phosphoprotein expressed on B lymphocytes from the pre-B to mature B lymphocyte stage. The CD20 molecule is also expressed on a small fraction of activated T cells. A subcutaneous route of administration of ofatumumab and subsequent release/absorption from the tissue allows a gradual interaction with B cells.
 
 The binding of ofatumumab to CD20 induces lysis of CD20+ B cells primarily through complementdependent cytotoxicity (CDC) and, to a lesser extent, through antibody-dependent cell-mediated cytotoxicity (ADCC). Ofatumumab has also been shown to induce cell lysis in both high and low CD20 expressing cells. CD20-expressing T cells are also depleted by ofatumumab.
 
@@ -336,11 +332,11 @@ The efficacy and safety of ofatumumab were evaluated in two randomised, double-b
 
 In the two studies, 927 and 955 patients with RMS, respectively, were randomised 1:1 to receive either ofatumumab 20 mg subcutaneous injections every 4 weeks starting at week 4 after an initial dosing regimen of three weekly 20 mg doses in the first 14 days (on days 1, 7 and 14) or teriflunomide 14 mg capsules orally once daily. Patients also received matching placebo corresponding to the other treatment arm to ensure blinding (double-dummy design).
 
+<div style=\"page-break-after: always\"></div>
+
 The treatment duration for individual patients was variable based on when the end of study criteria were met. Across both studies, the median treatment duration was 85 weeks, 33.0% of patients in the ofatumumab group vs 23.2% of patients in the teriflunomide group were treated more than 96 weeks.
 
 Demographics and baseline characteristics were well-balanced across treatment arms and both studies (see Table 2). Mean age was 38 years, mean disease duration was 8.2 years since onset of first symptom, and mean EDSS score was 2.9; 40% of patients had not been previously treated with a disease-modifying therapy (DMT) and 40% had gadolinium (Gd)-enhancing T1 lesions on their baseline MRI scan.
-
-<div style=\"page-break-after: always\"></div>
 
 The primary efficacy endpoint of both studies was the annualised rate of confirmed relapses (ARR) based on EDSS. Key secondary efficacy endpoints included the time to disability worsening on EDSS (confirmed at 3 months and 6 months), defined as an increase in EDSS of ≥1.5, ≥1, or ≥0.5 in patients with a baseline EDSS of 0, 1 to 5, or ≥5.5, respectively. Further key secondary endpoints included the number of Gd-enhancing T1 lesions per MRI scan, the annualised rate of new or enlarging T2 lesions and the neurofilament light chain (NfL) concentration in serum. Disability-related key secondary endpoints were evaluated in a meta-analysis of combined data from ASCLEPIOS Study 1 and Study 2, as defined in the study protocols.
 
@@ -369,28 +365,28 @@ Ofatumumab compared to teriflunomide significantly reduced the number of Gd-enha
 
 Ofatumumab compared to teriflunomide significantly reduced NfL concentrations from the first assessment at 3 months (see Table 3 and Figure 2).
 
-A similar effect of ofatumumab on the key efficacy results compared to teriflunomide was observed across the two phase III studies in exploratory subgroups defined by sex, age, body weight, prior nonsteroid MS therapy, and baseline disability and disease activity.
-
 <div style=\"page-break-after: always\"></div>
+
+A similar effect of ofatumumab on the key efficacy results compared to teriflunomide was observed across the two phase III studies in exploratory subgroups defined by sex, age, body weight, prior nonsteroid MS therapy, and baseline disability and disease activity.
 
 Table 3 Overview of key results from phase III studies in RMS
 
-| Endpoints                                                                                                                                                                                                                                                     | Study 1 (ASCLEPIOS I)                                                                                                                                                                                                                                                                                                                                                                               | Study 1 (ASCLEPIOS I)                                                                                                                                                                                                                                                                                                                                                                               | Study 2 (ASCLEPIOS II)                                                                                                                                                                                                                                                                                                                                                                              | Study 2 (ASCLEPIOS II)                                                                                                                                                                                                                                                                                                                                                                              |
-|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-|                                                                                                                                                                                                                                                               | Ofatumumab 20 mg (n=465)                                                                                                                                                                                                                                                                                                                                                                            | Teriflunomide 14 mg (n=462)                                                                                                                                                                                                                                                                                                                                                                         | Ofatumumab 20 mg (n=481)                                                                                                                                                                                                                                                                                                                                                                            | Teriflunomide 14 mg (n=474)                                                                                                                                                                                                                                                                                                                                                                         |
-| Endpoints based on separate studies                                                                                                                                                                                                                           | Endpoints based on separate studies                                                                                                                                                                                                                                                                                                                                                                 | Endpoints based on separate studies                                                                                                                                                                                                                                                                                                                                                                 | Endpoints based on separate studies                                                                                                                                                                                                                                                                                                                                                                 | Endpoints based on separate studies                                                                                                                                                                                                                                                                                                                                                                 |
-| Annualised relapse rate (ARR) (primary endpoint) 1                                                                                                                                                                                                            | 0.11                                                                                                                                                                                                                                                                                                                                                                                                | 0.22                                                                                                                                                                                                                                                                                                                                                                                                | 0.10                                                                                                                                                                                                                                                                                                                                                                                                | 0.25                                                                                                                                                                                                                                                                                                                                                                                                |
-| Rate reduction                                                                                                                                                                                                                                                | 50.5% (p<0.001)                                                                                                                                                                                                                                                                                                                                                                                     | 50.5% (p<0.001)                                                                                                                                                                                                                                                                                                                                                                                     | 58.4% (p<0.001)                                                                                                                                                                                                                                                                                                                                                                                     | 58.4% (p<0.001)                                                                                                                                                                                                                                                                                                                                                                                     |
-| Mean number of T1 Gd-enhancing lesions per MRI scan                                                                                                                                                                                                           | 0.0115                                                                                                                                                                                                                                                                                                                                                                                              | 0.4555                                                                                                                                                                                                                                                                                                                                                                                              | 0.0317                                                                                                                                                                                                                                                                                                                                                                                              | 0.5172                                                                                                                                                                                                                                                                                                                                                                                              |
-| Relative reduction                                                                                                                                                                                                                                            | 97.5% (p<0.001)                                                                                                                                                                                                                                                                                                                                                                                     | 97.5% (p<0.001)                                                                                                                                                                                                                                                                                                                                                                                     | 93.9% (p<0.001)                                                                                                                                                                                                                                                                                                                                                                                     | 93.9% (p<0.001)                                                                                                                                                                                                                                                                                                                                                                                     |
-| Number of new or enlarging T2 lesions per year                                                                                                                                                                                                                | 0.72                                                                                                                                                                                                                                                                                                                                                                                                | 4.00                                                                                                                                                                                                                                                                                                                                                                                                | 0.64                                                                                                                                                                                                                                                                                                                                                                                                | 4.16                                                                                                                                                                                                                                                                                                                                                                                                |
-| Relative reduction                                                                                                                                                                                                                                            | 81.9% (p<0.001)                                                                                                                                                                                                                                                                                                                                                                                     | 81.9% (p<0.001)                                                                                                                                                                                                                                                                                                                                                                                     | 84.6% (p<0.001)                                                                                                                                                                                                                                                                                                                                                                                     | 84.6% (p<0.001)                                                                                                                                                                                                                                                                                                                                                                                     |
-| NfL at 3 months (pg/ml)                                                                                                                                                                                                                                       | 8.80                                                                                                                                                                                                                                                                                                                                                                                                | 9.41                                                                                                                                                                                                                                                                                                                                                                                                | 8.92                                                                                                                                                                                                                                                                                                                                                                                                | 10.02                                                                                                                                                                                                                                                                                                                                                                                               |
-| Relative reduction                                                                                                                                                                                                                                            | 7% (p=0.011)                                                                                                                                                                                                                                                                                                                                                                                        | 7% (p=0.011)                                                                                                                                                                                                                                                                                                                                                                                        | 11% (p<0.001)                                                                                                                                                                                                                                                                                                                                                                                       | 11% (p<0.001)                                                                                                                                                                                                                                                                                                                                                                                       |
-| Endpoints based on pre-specified meta-analyses                                                                                                                                                                                                                | Endpoints based on pre-specified meta-analyses                                                                                                                                                                                                                                                                                                                                                      | Endpoints based on pre-specified meta-analyses                                                                                                                                                                                                                                                                                                                                                      | Endpoints based on pre-specified meta-analyses                                                                                                                                                                                                                                                                                                                                                      | Endpoints based on pre-specified meta-analyses                                                                                                                                                                                                                                                                                                                                                      |
-| Proportion of patients with 3-month confirmed disability progression 2 Risk reduction                                                                                                                                                                         | 10.9% ofatumumab vs. 15.0% teriflunomide 34.3% (p=0.003)                                                                                                                                                                                                                                                                                                                                            | 10.9% ofatumumab vs. 15.0% teriflunomide 34.3% (p=0.003)                                                                                                                                                                                                                                                                                                                                            | 10.9% ofatumumab vs. 15.0% teriflunomide 34.3% (p=0.003)                                                                                                                                                                                                                                                                                                                                            | 10.9% ofatumumab vs. 15.0% teriflunomide 34.3% (p=0.003)                                                                                                                                                                                                                                                                                                                                            |
-| Proportion of patients with 6-month confirmed disability progression 2 Risk reduction                                                                                                                                                                         | 8.1% ofatumumab vs. 12.0% teriflunomide 32.4% (p=0.012)                                                                                                                                                                                                                                                                                                                                             | 8.1% ofatumumab vs. 12.0% teriflunomide 32.4% (p=0.012)                                                                                                                                                                                                                                                                                                                                             | 8.1% ofatumumab vs. 12.0% teriflunomide 32.4% (p=0.012)                                                                                                                                                                                                                                                                                                                                             | 8.1% ofatumumab vs. 12.0% teriflunomide 32.4% (p=0.012)                                                                                                                                                                                                                                                                                                                                             |
-| 1 Confirmed relapses (accompanied by 2 Kaplan-Meier estimates at 24 months. analysis of the combined data from increase in the EDSS sustained for at EDSS is defined as an increase of at least 1.0 point if the baseline EDSS EDSS score was 5.5 or greater. | a clinically relevant change in the EDSS). 3- and 6-month CDP were assessed based on prospectively planned the two phase III studies and defined as a clinically meaningful least 3 or 6 months, respectively. A clinically meaningful increase in least 1.5 points if the baseline EDSS score was 0, an increase of at score was 1.0 - 5.0, and an increase of at least 0.5 points if the baseline | a clinically relevant change in the EDSS). 3- and 6-month CDP were assessed based on prospectively planned the two phase III studies and defined as a clinically meaningful least 3 or 6 months, respectively. A clinically meaningful increase in least 1.5 points if the baseline EDSS score was 0, an increase of at score was 1.0 - 5.0, and an increase of at least 0.5 points if the baseline | a clinically relevant change in the EDSS). 3- and 6-month CDP were assessed based on prospectively planned the two phase III studies and defined as a clinically meaningful least 3 or 6 months, respectively. A clinically meaningful increase in least 1.5 points if the baseline EDSS score was 0, an increase of at score was 1.0 - 5.0, and an increase of at least 0.5 points if the baseline | a clinically relevant change in the EDSS). 3- and 6-month CDP were assessed based on prospectively planned the two phase III studies and defined as a clinically meaningful least 3 or 6 months, respectively. A clinically meaningful increase in least 1.5 points if the baseline EDSS score was 0, an increase of at score was 1.0 - 5.0, and an increase of at least 0.5 points if the baseline |
+| Endpoints                                                                                                                                                                                                                                                                                | Study 1 (ASCLEPIOS I)                                                                                                                                                                                                                                                                                                                                                    | Study 1 (ASCLEPIOS I)                                                                                                                                                                                                                                                                                                                                                    | Study 2 (ASCLEPIOS II)                                                                                                                                                                                                                                                                                                                                                   | Study 2 (ASCLEPIOS II)                                                                                                                                                                                                                                                                                                                                                   |
+|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+|                                                                                                                                                                                                                                                                                          | Ofatumumab 20 mg (n=465)                                                                                                                                                                                                                                                                                                                                                 | Teriflunomide 14 mg (n=462)                                                                                                                                                                                                                                                                                                                                              | Ofatumumab 20 mg (n=481)                                                                                                                                                                                                                                                                                                                                                 | Teriflunomide 14 mg (n=474)                                                                                                                                                                                                                                                                                                                                              |
+| Endpoints based on separate studies                                                                                                                                                                                                                                                      | Endpoints based on separate studies                                                                                                                                                                                                                                                                                                                                      | Endpoints based on separate studies                                                                                                                                                                                                                                                                                                                                      | Endpoints based on separate studies                                                                                                                                                                                                                                                                                                                                      | Endpoints based on separate studies                                                                                                                                                                                                                                                                                                                                      |
+| Annualised relapse rate (ARR) (primary endpoint) 1                                                                                                                                                                                                                                       | 0.11                                                                                                                                                                                                                                                                                                                                                                     | 0.22                                                                                                                                                                                                                                                                                                                                                                     | 0.10                                                                                                                                                                                                                                                                                                                                                                     | 0.25                                                                                                                                                                                                                                                                                                                                                                     |
+| Rate reduction                                                                                                                                                                                                                                                                           | 50.5% (p<0.001)                                                                                                                                                                                                                                                                                                                                                          | 50.5% (p<0.001)                                                                                                                                                                                                                                                                                                                                                          | 58.4% (p<0.001)                                                                                                                                                                                                                                                                                                                                                          | 58.4% (p<0.001)                                                                                                                                                                                                                                                                                                                                                          |
+| Mean number of T1 Gd-enhancing lesions per MRI scan                                                                                                                                                                                                                                      | 0.0115                                                                                                                                                                                                                                                                                                                                                                   | 0.4555                                                                                                                                                                                                                                                                                                                                                                   | 0.0317                                                                                                                                                                                                                                                                                                                                                                   | 0.5172                                                                                                                                                                                                                                                                                                                                                                   |
+| Relative reduction                                                                                                                                                                                                                                                                       | 97.5% (p<0.001)                                                                                                                                                                                                                                                                                                                                                          | 97.5% (p<0.001)                                                                                                                                                                                                                                                                                                                                                          | 93.9% (p<0.001)                                                                                                                                                                                                                                                                                                                                                          | 93.9% (p<0.001)                                                                                                                                                                                                                                                                                                                                                          |
+| Number of new or enlarging T2 lesions per year                                                                                                                                                                                                                                           | 0.72                                                                                                                                                                                                                                                                                                                                                                     | 4.00                                                                                                                                                                                                                                                                                                                                                                     | 0.64                                                                                                                                                                                                                                                                                                                                                                     | 4.16                                                                                                                                                                                                                                                                                                                                                                     |
+| Relative reduction                                                                                                                                                                                                                                                                       | 81.9% (p<0.001)                                                                                                                                                                                                                                                                                                                                                          | 81.9% (p<0.001)                                                                                                                                                                                                                                                                                                                                                          | 84.6% (p<0.001)                                                                                                                                                                                                                                                                                                                                                          | 84.6% (p<0.001)                                                                                                                                                                                                                                                                                                                                                          |
+| NfL at 3 months (pg/ml)                                                                                                                                                                                                                                                                  | 8.80                                                                                                                                                                                                                                                                                                                                                                     | 9.41                                                                                                                                                                                                                                                                                                                                                                     | 8.92                                                                                                                                                                                                                                                                                                                                                                     | 10.02                                                                                                                                                                                                                                                                                                                                                                    |
+| Relative reduction                                                                                                                                                                                                                                                                       | 7% (p=0.011)                                                                                                                                                                                                                                                                                                                                                             | 7% (p=0.011)                                                                                                                                                                                                                                                                                                                                                             | 11% (p<0.001)                                                                                                                                                                                                                                                                                                                                                            | 11% (p<0.001)                                                                                                                                                                                                                                                                                                                                                            |
+| Endpoints based on pre-specified meta-analyses                                                                                                                                                                                                                                           | Endpoints based on pre-specified meta-analyses                                                                                                                                                                                                                                                                                                                           | Endpoints based on pre-specified meta-analyses                                                                                                                                                                                                                                                                                                                           | Endpoints based on pre-specified meta-analyses                                                                                                                                                                                                                                                                                                                           | Endpoints based on pre-specified meta-analyses                                                                                                                                                                                                                                                                                                                           |
+| Proportion of patients with 3-month confirmed disability progression 2 Risk reduction                                                                                                                                                                                                    | 10.9% ofatumumab vs. 15.0% teriflunomide 34.3% (p=0.003)                                                                                                                                                                                                                                                                                                                 | 10.9% ofatumumab vs. 15.0% teriflunomide 34.3% (p=0.003)                                                                                                                                                                                                                                                                                                                 | 10.9% ofatumumab vs. 15.0% teriflunomide 34.3% (p=0.003)                                                                                                                                                                                                                                                                                                                 | 10.9% ofatumumab vs. 15.0% teriflunomide 34.3% (p=0.003)                                                                                                                                                                                                                                                                                                                 |
+| Proportion of patients with 6-month confirmed disability progression 2 Risk reduction                                                                                                                                                                                                    | 8.1% ofatumumab vs. 12.0% teriflunomide 32.4% (p=0.012)                                                                                                                                                                                                                                                                                                                  | 8.1% ofatumumab vs. 12.0% teriflunomide 32.4% (p=0.012)                                                                                                                                                                                                                                                                                                                  | 8.1% ofatumumab vs. 12.0% teriflunomide 32.4% (p=0.012)                                                                                                                                                                                                                                                                                                                  | 8.1% ofatumumab vs. 12.0% teriflunomide 32.4% (p=0.012)                                                                                                                                                                                                                                                                                                                  |
+| 1 Confirmed relapses (accompanied by a 2 Kaplan-Meier estimates at 24 months. 3- analysis of the combined data from the increase in the EDSS sustained for at least EDSS is defined as an increase of at least least 1.0 point if the baseline EDSS score EDSS score was 5.5 or greater. | clinically relevant change in the EDSS). and 6-month CDP were assessed based on prospectively planned two phase III studies and defined as a clinically meaningful 3 or 6 months, respectively. A clinically meaningful increase in 1.5 points if the baseline EDSS score was 0, an increase of at was 1.0 - 5.0, and an increase of at least 0.5 points if the baseline | clinically relevant change in the EDSS). and 6-month CDP were assessed based on prospectively planned two phase III studies and defined as a clinically meaningful 3 or 6 months, respectively. A clinically meaningful increase in 1.5 points if the baseline EDSS score was 0, an increase of at was 1.0 - 5.0, and an increase of at least 0.5 points if the baseline | clinically relevant change in the EDSS). and 6-month CDP were assessed based on prospectively planned two phase III studies and defined as a clinically meaningful 3 or 6 months, respectively. A clinically meaningful increase in 1.5 points if the baseline EDSS score was 0, an increase of at was 1.0 - 5.0, and an increase of at least 0.5 points if the baseline | clinically relevant change in the EDSS). and 6-month CDP were assessed based on prospectively planned two phase III studies and defined as a clinically meaningful 3 or 6 months, respectively. A clinically meaningful increase in 1.5 points if the baseline EDSS score was 0, an increase of at was 1.0 - 5.0, and an increase of at least 0.5 points if the baseline |
 
 <div style=\"page-break-after: always\"></div>
 
@@ -564,7 +560,11 @@ EU/1/21/1532/001-004
 
 ## 9. DATE OF FIRST AUTHORISATION/RENEWAL OF THE AUTHORISATION
 
-26 March 2021
+Date of first authorisation: 26 March 2021
+
+Date of latest renewal: 9 January 2026
+
+<div style=\"page-break-after: always\"></div>
 
 ## 10. DATE OF REVISION OF THE TEXT
 
@@ -605,15 +605,11 @@ Medicinal product subject to restricted medical prescription (see Annex I: Summa
 
 The requirements for submission of PSURs for this medicinal product are set out in the list of Union reference dates (EURD list) provided for under Article 107c(7) of Directive 2001/83/EC and any subsequent updates published on the European medicines web-portal.
 
-The marketing authorisation holder (MAH) shall submit the first PSUR for this product within 6 months following authorisation.
-
 ## D. CONDITIONS OR RESTRICTIONS WITH REGARD TO THE SAFE AND EFFECTIVE USE OF THE MEDICINAL PRODUCT
 
 ## · Risk management plan (RMP)
 
 The marketing authorisation holder (MAH) shall perform the required pharmacovigilance activities and interventions detailed in the agreed RMP presented in Module 1.8.2 of the marketing authorisation and any agreed subsequent updates of the RMP.
-
-<div style=\"page-break-after: always\"></div>
 
 An updated RMP should be submitted:
 
@@ -672,53 +668,47 @@ Keep out of the sight and reach of children.
 
 EXP
 
+<div style=\"page-break-after: always\"></div>
+
 ## 9. SPECIAL STORAGE CONDITIONS
 
 Store in a refrigerator. Do not freeze.
 
 Keep the pre-filled syringe in the outer carton in order to protect from light.
 
-<div style=\"page-break-after: always\"></div>
+## 10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
 
-10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
-
-| 11.   | NAMEANDADDRESS OF THE MARKETING AUTHORISATION HOLDER   |
-|-------|--------------------------------------------------------|
+## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
 Novartis Europharm Limited Vista Building Elm Park, Merrion Road Dublin 4 Ireland
 
-| 12.   | MARKETING AUTHORISATION NUMBER(S)   |
-|-------|-------------------------------------|
+## 12. MARKETING AUTHORISATION NUMBER(S)
 
 EU/1/21/1532/001
 
 Pack containing 1 pre-filled syringe
 
-| 13.   | BATCH NUMBER   |
-|-------|----------------|
+## 13. BATCH NUMBER
 
 Lot
 
-| 14.   | GENERAL CLASSIFICATION FOR SUPPLY   |
-|-------|-------------------------------------|
+## 14. GENERAL CLASSIFICATION FOR SUPPLY
 
-| 15.   | INSTRUCTIONS ON USE   |
-|-------|-----------------------|
+15. INSTRUCTIONS ON USE
 
-| 16.   | INFORMATION IN BRAILLE   |
-|-------|--------------------------|
+## 16. INFORMATION IN BRAILLE
 
 Kesimpta 20 mg
 
-| 17. UNIQUE IDENTIFIER - 2D BARCODE   |
-|--------------------------------------|
+## 17. UNIQUE IDENTIFIER - 2D BARCODE
 
 2D barcode carrying the unique identifier included.
 
-| 18.   | UNIQUE IDENTIFIER - HUMANREADABLE DATA   |
-|-------|------------------------------------------|
+## 18. UNIQUE IDENTIFIER - HUMAN READABLE DATA
 
-PC SN
+PC
+
+SN
 
 NN
 
@@ -764,16 +754,15 @@ Keep out of the sight and reach of children.
 
 EXP
 
+<div style=\"page-break-after: always\"></div>
+
 ## 9. SPECIAL STORAGE CONDITIONS
 
 Store in a refrigerator. Do not freeze.
 
 Keep the pre-filled syringes in the outer carton in order to protect from light.
 
-<div style=\"page-break-after: always\"></div>
-
-| 10.   | SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS ORWASTEMATERIALS DERIVEDFROMSUCH MEDICINAL PRODUCTS, IF APPROPRIATE   |
-|-------|-------------------------------------------------------------------------------------------------------------------------------------|
+## 10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
@@ -782,6 +771,8 @@ Novartis Europharm Limited Vista Building Elm Park, Merrion Road Dublin 4 Irelan
 ## 12. MARKETING AUTHORISATION NUMBER(S)
 
 EU/1/21/1532/002
+
+Multipack containing 3 (3 packs of 1) pre-filled syringes
 
 ## 13. BATCH NUMBER
 
@@ -801,11 +792,11 @@ Kesimpta 20 mg
 
 ## 18. UNIQUE IDENTIFIER -HUMAN READABLE DATA
 
-PC SN
+PC
+
+SN
 
 NN
-
-Multipack containing 3 (3 packs of 1) pre-filled syringes
 
 <div style=\"page-break-after: always\"></div>
 
@@ -827,7 +818,7 @@ Also contains: L-arginine, sodium acetate trihydrate, sodium chloride, polysorba
 
 ## 4. PHARMACEUTICAL FORM AND CONTENTS
 
-## Solution for injection
+Solution for injection
 
 1 pre-filled syringe. Component of a multipack. Not to be sold separately.
 
@@ -849,16 +840,15 @@ Keep out of the sight and reach of children.
 
 EXP
 
+<div style=\"page-break-after: always\"></div>
+
 ## 9. SPECIAL STORAGE CONDITIONS
 
 Store in a refrigerator. Do not freeze.
 
 Keep the pre-filled syringe in the outer carton in order to protect from light.
 
-<div style=\"page-break-after: always\"></div>
-
-| 10.   | SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS ORWASTEMATERIALS DERIVEDFROMSUCH MEDICINAL PRODUCTS, IF APPROPRIATE   |
-|-------|-------------------------------------------------------------------------------------------------------------------------------------|
+## 10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
@@ -866,23 +856,23 @@ Novartis Europharm Limited Vista Building Elm Park, Merrion Road Dublin 4 Irelan
 
 ## 12. MARKETING AUTHORISATION NUMBER(S)
 
-EU/1/21/1532/002 Multipack containing 3 (3 packs of 1) pre-filled syringes
+EU/1/21/1532/002
+
+Multipack containing 3 (3 packs of 1) pre-filled syringes
 
 ## 13. BATCH NUMBER
 
 Lot
 
-## 14. GENERAL CLASSIFICATION FOR SUPPLY
-
+14. GENERAL CLASSIFICATION FOR SUPPLY
 15. INSTRUCTIONS ON USE
 
 ## 16. INFORMATION IN BRAILLE
 
 Kesimpta 20 mg
 
-## 17. UNIQUE IDENTIFIER -2D BARCODE
-
-## 18. UNIQUE IDENTIFIER -HUMAN READABLE DATA
+17. UNIQUE IDENTIFIER -2D BARCODE
+18. UNIQUE IDENTIFIER -HUMAN READABLE DATA
 
 ## MINIMUM PARTICULARS TO APPEAR ON BLISTERS OR STRIPS
 
@@ -980,18 +970,17 @@ Keep out of the sight and reach of children.
 
 EXP
 
+<div style=\"page-break-after: always\"></div>
+
 ## 9. SPECIAL STORAGE CONDITIONS
 
 Store in a refrigerator. Do not freeze.
 
 Keep the pre-filled pen in the outer carton in order to protect from light.
 
-<div style=\"page-break-after: always\"></div>
+## 10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
 
-10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
-
-| 11.   | NAMEANDADDRESS OF THE MARKETING AUTHORISATION HOLDER   |
-|-------|--------------------------------------------------------|
+## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
 Novartis Europharm Limited Vista Building Elm Park, Merrion Road Dublin 4 Ireland
 
@@ -1001,31 +990,27 @@ EU/1/21/1532/003
 
 Pack containing 1 pre-filled pen
 
-| 13.   | BATCH NUMBER   |
-|-------|----------------|
+## 13. BATCH NUMBER
 
 Lot
 
-| 14.   | GENERAL CLASSIFICATION FOR SUPPLY   |
-|-------|-------------------------------------|
+## 14. GENERAL CLASSIFICATION FOR SUPPLY
 
-| 15.   | INSTRUCTIONS ON USE   |
-|-------|-----------------------|
+15. INSTRUCTIONS ON USE
 
-| 16.   | INFORMATION IN BRAILLE   |
-|-------|--------------------------|
+## 16. INFORMATION IN BRAILLE
 
 Kesimpta 20 mg
 
-| 17. UNIQUE IDENTIFIER - 2D BARCODE   |
-|--------------------------------------|
+## 17. UNIQUE IDENTIFIER -2D BARCODE
 
 2D barcode carrying the unique identifier included.
 
-| 18.   | UNIQUE IDENTIFIER - HUMANREADABLE DATA   |
-|-------|------------------------------------------|
+## 18. UNIQUE IDENTIFIER -HUMAN READABLE DATA
 
-PC SN
+PC
+
+SN
 
 NN
 
@@ -1071,16 +1056,15 @@ Keep out of the sight and reach of children.
 
 EXP
 
+<div style=\"page-break-after: always\"></div>
+
 ## 9. SPECIAL STORAGE CONDITIONS
 
 Store in a refrigerator. Do not freeze.
 
 Keep the pre-filled pens in the outer carton in order to protect from light.
 
-<div style=\"page-break-after: always\"></div>
-
-| 10.   | SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS ORWASTEMATERIALS DERIVEDFROMSUCH MEDICINAL PRODUCTS, IF APPROPRIATE   |
-|-------|-------------------------------------------------------------------------------------------------------------------------------------|
+## 10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
@@ -1089,6 +1073,8 @@ Novartis Europharm Limited Vista Building Elm Park, Merrion Road Dublin 4 Irelan
 ## 12. MARKETING AUTHORISATION NUMBER(S)
 
 EU/1/21/1532/004
+
+Multipack containing 3 (3 packs of 1) pre-filled pens
 
 ## 13. BATCH NUMBER
 
@@ -1113,8 +1099,6 @@ PC
 SN
 
 NN
-
-Multipack containing 3 (3 packs of 1) pre-filled pens
 
 <div style=\"page-break-after: always\"></div>
 
@@ -1158,16 +1142,15 @@ Keep out of the sight and reach of children.
 
 EXP
 
+<div style=\"page-break-after: always\"></div>
+
 ## 9. SPECIAL STORAGE CONDITIONS
 
 Store in a refrigerator. Do not freeze.
 
 Keep the pre-filled pen in the outer carton in order to protect from light.
 
-<div style=\"page-break-after: always\"></div>
-
-| 10.   | SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS ORWASTEMATERIALS DERIVEDFROMSUCH MEDICINAL PRODUCTS, IF APPROPRIATE   |
-|-------|-------------------------------------------------------------------------------------------------------------------------------------|
+## 10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
@@ -1176,6 +1159,8 @@ Novartis Europharm Limited Vista Building Elm Park, Merrion Road Dublin 4 Irelan
 ## 12. MARKETING AUTHORISATION NUMBER(S)
 
 EU/1/21/1532/004
+
+Multipack containing 3 (3 packs of 1) pre-filled pens
 
 ## 13. BATCH NUMBER
 
@@ -1190,10 +1175,7 @@ Lot
 Kesimpta 20 mg
 
 17. UNIQUE IDENTIFIER -2D BARCODE
-
-## 18. UNIQUE IDENTIFIER -HUMAN READABLE DATA
-
-Multipack containing 3 (3 packs of 1) pre-filled pens
+18. UNIQUE IDENTIFIER -HUMAN READABLE DATA
 
 <div style=\"page-break-after: always\"></div>
 
@@ -1242,17 +1224,11 @@ Scan code for more information. QR code to be included + pictogram www.kesimpta.
 
 ## B. PACKAGE LEAFLET
 
-<div style=\"page-break-after: always\"></div>
-
-<!-- image -->
-
 ## Package leaflet: Information for the patient
 
-## Kesimpta 20 mg solution for injection in pre-filled syringe
+<div style=\"page-break-after: always\"></div>
 
-## ofatumumab
-
-This medicine is subject to additional monitoring. This will allow quick identification of new safety information. You can help by reporting any side effects you may get. See the end of section 4 for how to report side effects.
+## Kesimpta 20 mg solution for injection in pre-filled syringe ofatumumab
 
 ## Read all of this leaflet carefully before you start using this medicine because it contains important information for you.
 
@@ -1306,7 +1282,7 @@ Kesimpta works by attaching to a target called CD20 on the surface of B cells. B
 
 ## While using Kesimpta
 
-## Tell your doctor:
+Tell your doctor:
 
 - -if you have a general injection-related reaction or a local injection-site reaction. These are the most common side effects of Kesimpta treatment and are described in section 4. They usually occur in the 24 hours after Kesimpta is injected, in particular after the first injection. The first injection should take place under the guidance of a healthcare professional.
 - -if you have an infection. You may get infections more easily or an infection you already have may get worse. This is because the immune cells that Kesimpta targets also help to fight infection. Infections could be serious and sometimes even life-threatening.
@@ -1502,6 +1478,12 @@ Novartis Pharma N.V.
 
 Tél/Tel: +32 2 246 16 11
 
+## Lietuva
+
+SIA Novartis Baltics Lietuvos filialas
+
+Tel: +370 5 269 16 50
+
 ## България
 
 Novartis Bulgaria EOOD
@@ -1510,63 +1492,17 @@ Novartis Bulgaria EOOD
 
 .: +359 2 489 98 28
 
-## Česká republika
-
-Novartis s.r.o.
-
-Tel: +420 225 775 111
-
-## Danmark
-
-Novartis Healthcare A/S
-
-Tlf: +45 39 16 84 00
-
-## Deutschland
-
-Novartis Pharma GmbH
-
-Tel: +49 911 273 0
-
-## Eesti
-
-SIA Novartis Baltics Eesti filiaal
-
-Tel: +372 66 30 810
-
-## Ελλάδα
-
-Novartis (Hellas) A.E.B.E.
-
-Τηλ: +30 210 281 17 12
-
-## España
-
-Novartis Farmacéutica, S.A.
-
-Tel: +34 93 306 42 00
-
-## France
-
-Novartis Pharma S.A.S.
-
-Tél: +33 1 55 47 66 00
-
-## Hrvatska
-
-Novartis Hrvatska d.o.o. Tel. +385 1 6274 220
-
-## Lietuva
-
-SIA Novartis Baltics Lietuvos filialas
-
-Tel: +370 5 269 16 50
-
 ## Luxembourg/Luxemburg
 
 Novartis Pharma N.V.
 
 Tél/Tel: +32 2 246 16 11
+
+## Česká republika
+
+Novartis s.r.o.
+
+Tel: +420 225 775 111
 
 ## Magyarország
 
@@ -1574,11 +1510,23 @@ Novartis Hungária Kft.
 
 Tel.: +36 1 457 65 00
 
+## Danmark
+
+Novartis Healthcare A/S
+
+Tlf.: +45 39 16 84 00
+
 ## Malta
 
 Novartis Pharma Services Inc.
 
 Tel: +356 2122 2872
+
+## Deutschland
+
+Novartis Pharma GmbH
+
+Tel: +49 911 273 0
 
 ## Nederland
 
@@ -1586,11 +1534,25 @@ Novartis Pharma B.V.
 
 Tel: +31 88 04 52 111
 
+## Eesti
+
+SIA Novartis Baltics Eesti filiaal
+
+Tel: +372 66 30 810
+
 ## Norge
 
 Novartis Norge AS
 
 Tlf: +47 23 05 20 00
+
+## Ελλάδα
+
+Novartis (Hellas) A.E.B.E.
+
+Τηλ
+
+: +30 210 281 17 12
 
 ## Österreich
 
@@ -1598,17 +1560,33 @@ Novartis Pharma GmbH
 
 Tel: +43 1 86 6570
 
+## España
+
+Novartis Farmacéutica, S.A.
+
+Tel: +34 93 306 42 00
+
 ## Polska
 
 Novartis Poland Sp. z o.o.
 
 Tel.: +48 22 375 4888
 
+## France
+
+Novartis Pharma S.A.S.
+
+Tél: +33 1 55 47 66 00
+
 ## Portugal
 
 Novartis Farma - Produtos Farmacêuticos, S.A.
 
 Tel: +351 21 000 8600
+
+## Hrvatska
+
+Novartis Hrvatska d.o.o. Tel. +385 1 6274 220
 
 ## România
 
@@ -1630,7 +1608,7 @@ Tel: +386 1 300 75 50
 
 ## Ísland
 
-Vistor hf.
+Vistor ehf.
 
 Sími: +354 535 7000
 
@@ -1814,15 +1792,9 @@ Picture J
 
 <div style=\"page-break-after: always\"></div>
 
-<!-- image -->
-
 ## Package leaflet: Information for the patient
 
-## Kesimpta 20 mg solution for injection in pre-filled pen
-
-ofatumumab
-
-This medicine is subject to additional monitoring. This will allow quick identification of new safety information. You can help by reporting any side effects you may get. See the end of section 4 for how to report side effects.
+## Kesimpta 20 mg solution for injection in pre-filled pen ofatumumab
 
 ## Read all of this leaflet carefully before you start using this medicine because it contains important information for you.
 
@@ -1863,20 +1835,21 @@ Kesimpta works by attaching to a target called CD20 on the surface of B cells. B
 - -if you are suffering from a severe infection.
 - -if you have cancer.
 
-<div style=\"page-break-after: always\"></div>
-
 ## Warnings and precautions
 
 ## Talk to your doctor before using Kesimpta
 
 - -Kesimpta may cause the hepatitis B virus to become active again. Your doctor will perform a blood test to check if you are at risk of hepatitis B infection. If this shows that you have had hepatitis B or are a carrier of the hepatitis B virus, your doctor will ask you to see a specialist.
 - -Before you start treatment with Kesimpta, your doctor may check your immune system.
+
+<div style=\"page-break-after: always\"></div>
+
 - -If you have an infection, your doctor may decide that you cannot be given Kesimpta or may delay your treatment with Kesimpta until the infection is resolved.
 - -Your doctor will check if you need any vaccinations before you start your treatment with Kesimpta. If you need a type of vaccine called a live or live-attenuated vaccine, it should be given at least 4 weeks before you start Kesimpta treatment. Other types of vaccines should be given at least 2 weeks before you start Kesimpta treatment.
 
 ## While using Kesimpta
 
-## Tell your doctor:
+Tell your doctor:
 
 - -if you have a general injection-related reaction or a local injection-site reaction. These are the most common side effects of Kesimpta treatment and are described in section 4. They usually occur in the 24 hours after Kesimpta is injected, in particular after the first injection. The first injection should take place under the guidance of a healthcare professional.
 - -if you have an infection. You may get infections more easily or an infection you already have may get worse. This is because the immune cells that Kesimpta targets also help to fight infection. Infections could be serious and sometimes even life-threatening.
@@ -1908,11 +1881,13 @@ If you are pregnant or breast-feeding, think you may be pregnant or are planning
 
 You should avoid becoming pregnant while using Kesimpta and for 6 months after you stop using it.
 
-<div style=\"page-break-after: always\"></div>
-
 If there is a possibility that you could become pregnant you should use an effective birth control method during treatment and for 6 months after stopping Kesimpta. Ask your doctor about the available options.
 
-If you do become pregnant or think you may be pregnant during treatment or within 6 months after the last dose, tell your doctor straight away. Your doctor will discuss with you the potential risks of Kesimpta on pregnancy. This is because Kesimpta can reduce the number of immune cells (B cells) in both the mother and the unborn baby. Your doctor should report your pregnancy to Novartis. You can also report your pregnancy by contacting the local representative of Novartis (see section 6), in addition to contacting your doctor.
+If you do become pregnant or think you may be pregnant during treatment or within 6 months after the last dose, tell your doctor straight away. Your doctor will discuss with you the potential risks of Kesimpta on pregnancy. This is because Kesimpta can reduce the number of immune cells (B cells) in both the mother and the unborn baby. Your doctor should report your pregnancy to Novartis. You can
+
+<div style=\"page-break-after: always\"></div>
+
+also report your pregnancy by contacting the local representative of Novartis (see section 6), in addition to contacting your doctor.
 
 ## Breast-feeding
 
@@ -1957,8 +1932,6 @@ Do not exceed the dose prescribed by your doctor.
 - -The initial dosing is 20 mg Kesimpta administered on the first day of treatment (Week 0) and after 1 and 2 weeks (Week 1 and Week 2). After these first 3 injections, there is no injection in the following week (Week 3).
 - -Starting at Week 4 and then every month, the recommended dose is 20 mg Kesimpta.
 
-<div style=\"page-break-after: always\"></div>
-
 | Time                            | Dose         |
 |---------------------------------|--------------|
 | Week 0 (first day of treatment) | 20 mg        |
@@ -1967,6 +1940,8 @@ Do not exceed the dose prescribed by your doctor.
 | Week 3                          | No injection |
 | Week 4                          | 20 mg        |
 | Every month afterwards          | 20 mg        |
+
+<div style=\"page-break-after: always\"></div>
 
 ## How long to use Kesimpta
 
@@ -2000,11 +1975,12 @@ Like all medicines, this medicine can cause side effects, although not everybody
 
 The side effects of Kesimpta are listed below. If any of these side effects becomes severe, tell your doctor, pharmacist or nurse.
 
-## Very common (may affect more than 1 in 10 people)
+Very common (may affect more than 1 in 10 people)
 
 - -upper respiratory tract infections, with symptoms such as sore throat and runny nose
-- -injection-related reactions, such as fever, headache, muscle pain, chills and tiredness - these usually occur in the 24 hours after an injection of Kesimpta, in particular after the first injection
-- -urinary tract infections
+- -injection-related reactions, such as fever, headache, muscle pain, chills and tiredness - these
+- -
+- usually occur in the 24 hours after an injection of Kesimpta, in particular after the first injection urinary tract infections
 - -injection-site reactions, such as redness, pain, itching and swelling at the injection site
 
 ## Common (may affect up to 1 in 10 people)
@@ -2013,11 +1989,11 @@ The side effects of Kesimpta are listed below. If any of these side effects beco
 - -oral herpes
 - -nausea, vomiting (have been reported in association with injection-related reactions)
 
-<div style=\"page-break-after: always\"></div>
-
 Not known (frequency cannot be estimated from the available data)
 
 - -allergic reactions, with symptoms such as rash, hives, trouble breathing, swelling of the face, eyelids, lips, mouth, tongue or throat, chest tightness, or feeling faint
+
+<div style=\"page-break-after: always\"></div>
 
 ## Reporting of side effects
 
@@ -2056,11 +2032,11 @@ Not all pack sizes may be marketed.
 
 Novartis Europharm Limited Vista Building Elm Park, Merrion Road Dublin 4 Ireland
 
-<div style=\"page-break-after: always\"></div>
-
 ## Manufacturer
 
 Novartis Farmacéutica, S.A. Gran Via de les Corts Catalanes, 764 08013 Barcelona Spain
+
+<div style=\"page-break-after: always\"></div>
 
 Novartis Pharma GmbH Sophie-Germain-Strasse 10 90443 Nuremberg Germany
 
@@ -2068,17 +2044,11 @@ For any information about this medicine, please contact the local representative
 
 ## België/Belgique/Belgien
 
-Novartis Pharma N.V.
-
-Tél/Tel: +32 2 246 16 11
+Novartis Pharma N.V. Tél/Tel: +32 2 246 16 11
 
 ## България
 
-Novartis Bulgaria EOOD
-
-Тел
-
-.: +359 2 489 98 28
+Novartis Bulgaria EOOD Тел .: +359 2 489 98 28
 
 ## Česká republika
 
@@ -2088,9 +2058,7 @@ Tel: +420 225 775 111
 
 ## Danmark
 
-Novartis Healthcare A/S
-
-Tlf: +45 39 16 84 00
+Novartis Healthcare A/S Tlf.: +45 39 16 84 00
 
 ## Deutschland
 
@@ -2106,61 +2074,13 @@ Tel: +372 66 30 810
 
 ## Ελλάδα
 
-Novartis (Hellas) A.E.B.E. Τηλ: +30 210 281 17 12
+Novartis (Hellas) A.E.B.E. Τηλ : +30 210 281 17 12
 
 ## España
-
-## Lietuva
-
-SIA Novartis Baltics Lietuvos filialas
-
-Tel: +370 5 269 16 50
-
-## Luxembourg/Luxemburg
-
-Novartis Pharma N.V.
-
-Tél/Tel: +32 2 246 16 11
-
-## Magyarország
-
-Novartis Hungária Kft.
-
-Tel.: +36 1 457 65 00
-
-## Malta
-
-Novartis Pharma Services Inc.
-
-Tel: +356 2122 2872
-
-## Nederland
-
-Novartis Pharma B.V.
-
-Tel: +31 88 04 52 111
-
-## Norge
-
-Novartis Norge AS
-
-Tlf: +47 23 05 20 00
-
-## Österreich
-
-Novartis Pharma GmbH
-
-Tel: +43 1 86 6570
-
-## Polska
 
 Novartis Farmacéutica, S.A.
 
 Tel: +34 93 306 42 00
-
-Novartis Poland Sp. z o.o.
-
-Tel.: +48 22 375 4888
 
 ## France
 
@@ -2172,35 +2092,65 @@ Tél: +33 1 55 47 66 00
 
 Novartis Hrvatska d.o.o. Tel. +385 1 6274 220
 
-## Portugal
-
-Novartis Farma - Produtos Farmacêuticos, S.A.
-
-Tel: +351 21 000 8600
-
-## România
-
-Novartis Pharma Services Romania SRL
-
-Tel: +40 21 31299 01
-
 ## Ireland
 
 Novartis Ireland Limited
 
 Tel: +353 1 260 12 55
 
-## Slovenija
-
-Novartis Pharma Services Inc.
-
-Tel: +386 1 300 75 50
-
 ## Ísland
 
-Vistor hf.
+Vistor ehf.
 
 Sími: +354 535 7000
+
+## Lietuva
+
+SIA Novartis Baltics Lietuvos filialas Tel: +370 5 269 16 50
+
+## Luxembourg/Luxemburg
+
+Novartis Pharma N.V.
+
+Tél/Tel: +32 2 246 16 11
+
+## Magyarország
+
+Novartis Hungária Kft. Tel.: +36 1 457 65 00
+
+## Malta
+
+Novartis Pharma Services Inc. Tel: +356 2122 2872
+
+## Nederland
+
+Novartis Pharma B.V.
+
+Tel: +31 88 04 52 111
+
+## Norge
+
+Novartis Norge AS Tlf: +47 23 05 20 00
+
+## Österreich
+
+Novartis Pharma GmbH Tel: +43 1 86 6570
+
+## Polska
+
+Novartis Poland Sp. z o.o. Tel.: +48 22 375 4888
+
+## Portugal
+
+Novartis Farma - Produtos Farmacêuticos, S.A. Tel: +351 21 000 8600
+
+## România
+
+Novartis Pharma Services Romania SRL Tel: +40 21 31299 01
+
+## Slovenija
+
+Novartis Pharma Services Inc. Tel: +386 1 300 75 50
 
 ## Slovenská republika
 
@@ -2208,31 +2158,19 @@ Novartis Slovakia s.r.o.
 
 Tel: +421 2 5542 5439
 
+<div style=\"page-break-after: always\"></div>
+
 ## Italia
 
 Novartis Farma S.p.A.
 
 Tel: +39 02 96 54 1
 
-## Suomi/Finland
-
-Novartis Finland Oy
-
-Puh/Tel: +358 (0)10 6133 200
-
 ## Κύπρος
 
 Novartis Pharma Services Inc.
 
 Τηλ: +357 22 690 690
-
-## Sverige
-
-Novartis Sverige AB
-
-Tel: +46 8 732 32 00
-
-<div style=\"page-break-after: always\"></div>
 
 ## Latvija
 
@@ -2245,6 +2183,18 @@ Tel: +371 67 887 070
 ## Other sources of information
 
 Detailed information on this medicine is available on the European Medicines Agency web site: https://www.ema.europa.eu.
+
+## Suomi/Finland
+
+Novartis Finland Oy
+
+Puh/Tel: +358 (0)10 6133 200
+
+## Sverige
+
+Novartis Sverige AB
+
+Tel: +46 8 732 32 00
 
 <div style=\"page-break-after: always\"></div>
 

@@ -1,18 +1,18 @@
 ---
-document_datetime: 2026-01-06 09:47:39
+document_datetime: 2026-02-05 15:54:58
 document_pages: 75
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/eltrombopag-viatris-epar-product-information_en.pdf
 document_name: eltrombopag-viatris-epar-product-information_en.pdf
 version: success
-processing_time: 24.2326527
-conversion_datetime: 2026-01-10 11:38:44.787524
+processing_time: 23.3687722
+conversion_datetime: 2026-02-09 22:24:29.204591
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.1
-  docling: 2.67.0
-  docling-core: 2.58.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.12.0
+  docling-jobkit: 1.10.1
+  docling: 2.72.0
+  docling-core: 2.63.0
+  docling-ibm-models: 3.11.0
+  docling-parse: 4.7.3
   python: cpython-313 (3.13.11)
   plaform: macOS-26.2-arm64-arm-64bit-Mach-O
 ---
@@ -52,11 +52,11 @@ Film-coated tablet (tablet)
 
 ## Eltrombopag Viatris 12.5 mg film-coated tablets
 
-White, round, biconvex, film-coated tablet (approximately 6 mm in diameter) debossed with 'L' on one side.
+White to off-white, round, biconvex, film-coated tablet (approximately 6 mm in diameter) debossed with 'L' on one side.
 
 ## Eltrombopag Viatris 25 mg film-coated tablets
 
-White, round, biconvex, film-coated tablet (approximately 7 mm in diameter) debossed with '25' on one side.
+White to off-white, round, biconvex, film-coated tablet (approximately 7 mm in diameter) debossed with '25' on one side.
 
 ## Eltrombopag Viatris 50 mg film-coated tablets
 
@@ -1575,9 +1575,6 @@ Lot
 | 4.   | BATCH NUMBER   |
 |------|----------------|
 
-| 5.   | OTHER   |
-|------|---------|
-
 ## MINIMUM PARTICULARS TO APPEAR ON BLISTERS OR STRIPS
 
 Blister for 25 mg
@@ -1715,9 +1712,7 @@ Carton for 50 mg - Multipacks of 84 (3 packs of 28) film-coated tablets - withou
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
-Eltrombopag Viatris 50 mg film-coated tablets
-
-eltrombopag
+Eltrombopag Viatris 50 mg film-coated tablets eltrombopag
 
 ## 2. STATEMENT OF ACTIVE SUBSTANCE(S)
 
@@ -1941,7 +1936,9 @@ Carton for 75 mg - Multipacks of 84 (3 packs of 28) film-coated tablets - withou
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
-Eltrombopag Viatris 75 mg film-coated tablets eltrombopag
+Eltrombopag Viatris 75 mg film-coated tablets
+
+eltrombopag
 
 ## 2. STATEMENT OF ACTIVE SUBSTANCE(S)
 
@@ -2680,9 +2677,9 @@ Eltrombopag Viatris 75 mg film-coated tablets also contain iron oxide red (E172i
 
 ## What Eltrombopag Viatris looks like and contents of the pack
 
-Eltrombopag Viatris 12.5 mg film-coated tablets (tablets) are white, round, biconvex and debossed with 'L' on one side.
+Eltrombopag Viatris 12.5 mg film-coated tablets (tablets) are white to off-white, round, biconvex and debossed with 'L' on one side.
 
-Eltrombopag Viatris 25 mg film-coated tablets (tablets) are white, round, biconvex and debossed with '25' on one side.
+Eltrombopag Viatris 25 mg film-coated tablets (tablets) are white to off-white, round, biconvex and debossed with '25' on one side.
 
 Eltrombopag Viatris 50 mg film-coated tablets (tablets) are brown, round, biconvex and debossed with '50' on  one side.
 

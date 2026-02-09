@@ -1,20 +1,20 @@
 ---
-document_datetime: 2025-01-07 10:48:47
-document_pages: 33
+document_datetime: 2026-02-05 14:28:27
+document_pages: 32
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/duotrav-epar-product-information_en.pdf
 document_name: duotrav-epar-product-information_en.pdf
 version: success
-processing_time: 7.6315165
-conversion_datetime: 2025-12-17 14:36:03.734817
+processing_time: 6.2988915
+conversion_datetime: 2026-02-09 22:03:10.480005
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.64.1
-  docling-core: 2.55.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.12.0
+  docling-jobkit: 1.10.1
+  docling: 2.72.0
+  docling-core: 2.63.0
+  docling-ibm-models: 3.11.0
+  docling-parse: 4.7.3
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.1-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
 ---
 ## ANNEX I
 
@@ -106,7 +106,7 @@ Like other topically applied ophthalmic agents, travoprost and timolol are absor
 
 ## Cardiac disorders
 
-In patients with cardiovascular diseases (e.g. coronary heart disease, Prinzmetal's angina and cardiac failure) and hypotension, therapy with beta blockers should be critically assessed and therapy with other active substances should be considered. Patients with cardiovascular diseases should be watched for signs of deterioration of these diseases and of adverse reactions.
+In patients with cardiovascular diseases (e.g. coronary heart disease, Prinzmetal ' s angina and cardiac failure) and hypotension, therapy with beta blockers should be critically assessed and therapy with other active substances should be considered. Patients with cardiovascular diseases should be watched for signs of deterioration of these diseases and of adverse reactions.
 
 Due to their negative effect on conduction time, beta blockers should only be given with caution to patients with first-degree heart block.
 
@@ -248,7 +248,7 @@ In clinical studies involving 2,170 patients treated with DuoTrav the most frequ
 
 ## Tabulated summary of adverse reactions
 
-The adverse reactions listed in the table below were observed in clinical studies or with post-marketing experience. They are ranked according to system organ class and classified according to the following convention: very common (≥1/10), common (≥1/100 to &lt;1/10), uncommon (≥1/1,000 to &lt;1/100), rare (≥1/10,000 to &lt;1/1,000), very rare (&lt;1/10,000), or not known (cannot be estimated from the available data). Within each frequency grouping, adverse reactions are presented in decreasing order of seriousness.
+The adverse reactions listed in the table below were observed in clinical studies or with post-marketing experience. They are ranked according to system organ class and classified according to the following convention: very common (≥1/10), common (≥ 1/100 to &lt;1/10), uncommon ( ≥ 1/1,000 to &lt;1/100), rare ( ≥ 1/10,000 to &lt;1/1,000), very rare (&lt;1/10,000), or not known (cannot be estimated from the available data). Within each frequency grouping, adverse reactions are presented in decreasing order of seriousness.
 
 <div style=\"page-break-after: always\"></div>
 
@@ -260,10 +260,10 @@ The adverse reactions listed in the table below were observed in clinical studie
 | Nervous system disorders                             | Uncommon    | Dizziness, headache                                                                                                                                                                                                                                          |
 | Nervous system disorders                             | Not known   | Cerebrovascular accident, syncope, paraesthesia                                                                                                                                                                                                              |
 | Eye disorders                                        | Very common | Ocular hyperaemia                                                                                                                                                                                                                                            |
-|                                                      | Common      | Punctate keratitis, eye pain, visual disturbance, vision blurred, dry eye, eye pruritus, ocular discomfort, eye irritation                                                                                                                                   |
-|                                                      | Uncommon    | Keratitis, iritis, conjunctivitis, anterior chamber inflammation, blepharitis, photophobia, visual acuity reduced, asthenopia, eye swelling, lacrimation increased, erythema of eyelid, growth of eyelashes, eye allergy, conjunctival oedema, eyelid oedema |
-|                                                      | Rare        | Corneal erosion, meibomianitis, conjunctival haemorrhage, eyelid margin crusting, trichiasis, distichiasis                                                                                                                                                   |
-|                                                      | Not known   | Macular oedema, eyelid ptosis, lid sulcus deepened, iris hyperpigmentation, corneal disorder                                                                                                                                                                 |
+| Eye disorders                                        | Common      | Punctate keratitis, eye pain, visual disturbance, vision blurred, dry eye, eye pruritus, ocular discomfort, eye irritation                                                                                                                                   |
+| Eye disorders                                        | Uncommon    | Keratitis, iritis, conjunctivitis, anterior chamber inflammation, blepharitis, photophobia, visual acuity reduced, asthenopia, eye swelling, lacrimation increased, erythema of eyelid, growth of eyelashes, eye allergy, conjunctival oedema, eyelid oedema |
+| Eye disorders                                        | Rare        | Corneal erosion, meibomianitis, conjunctival haemorrhage, eyelid margin crusting, trichiasis, distichiasis                                                                                                                                                   |
+| Eye disorders                                        | Not known   | Macular oedema, eyelid ptosis, lid sulcus deepened, iris hyperpigmentation, corneal disorder                                                                                                                                                                 |
 | Cardiac disorders                                    | Uncommon    | Bradycardia                                                                                                                                                                                                                                                  |
 | Cardiac disorders                                    | Rare        | Arrhythmia, heart rate irregular                                                                                                                                                                                                                             |
 | Cardiac disorders                                    | Not known   | Cardiac failure, tachycardia, chest pain, palpitations                                                                                                                                                                                                       |
@@ -281,11 +281,11 @@ The adverse reactions listed in the table below were observed in clinical studie
 | Renal and urinary disorders                          | Rare        | Chromaturia                                                                                                                                                                                                                                                  |
 | General disorders and administration site conditions | Rare        | Thirst, fatigue                                                                                                                                                                                                                                              |
 
-* adverse reactions observed with timolol.
+Additional adverse reactions that have been seen with one of the active substances and may potentially
 
 <div style=\"page-break-after: always\"></div>
 
-Additional adverse reactions that have been seen with one of the active substances and may potentially occur with DuoTrav:
+## occur with DuoTrav:
 
 ## Travoprost
 
@@ -304,11 +304,11 @@ Additional adverse reactions that have been seen with one of the active substanc
 | General disorders and administration site conditions | Asthenia                                                                                                                                                                                                                                                                                                                                       |
 | Investigations                                       | Prostatic specific antigen increased                                                                                                                                                                                                                                                                                                           |
 
-<div style=\"page-break-after: always\"></div>
-
 ## Timolol
 
 Like other topically applied ophthalmic medicinal products, timolol is absorbed into the systemic circulation. This may cause undesirable effects similar to those seen with systemic beta-blocking agents. Additional listed adverse reactions include reactions seen within the class of ophthalmic beta blockers. The incidence of systemic ADRs after topical ophthalmic administration is lower than for systemic administration. For information on how to reduce systemic absorption, see section 4.2.
+
+<div style=\"page-break-after: always\"></div>
 
 | System organ class                                   | MedDRA preferred term                                                                                                                                                                                     |
 |------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -318,7 +318,7 @@ Like other topically applied ophthalmic medicinal products, timolol is absorbed 
 | Nervous system disorders                             | Cerebral ischaemia, increases in signs and symptoms of myasthenia gravis                                                                                                                                  |
 | Eye disorders                                        | Signs and symptoms of ocular irritation (e.g. burning, stinging, itching, tearing, redness), choroidal detachment following filtration surgery (see section 4.4), decreased corneal sensitivity, diplopia |
 | Cardiac disorders                                    | Oedema, congestive heart failure, atrioventricular block, cardiac arrest                                                                                                                                  |
-| Vascular disorders                                   | Raynaud's phenomenon, cold hands and feet                                                                                                                                                                 |
+| Vascular disorders                                   | Raynaud ' s phenomenon, cold hands and feet                                                                                                                                                               |
 | Gastrointestinal disorders                           | Nausea, dyspepsia, diarrhoea, dry mouth, abdominal pain, vomiting                                                                                                                                         |
 | Skin and subcutaneous tissue disorders               | Psoriasiform rash or exacerbation of psoriasis                                                                                                                                                            |
 | Musculoskeletal and connective tissue disorders      | Myalgia                                                                                                                                                                                                   |
@@ -337,8 +337,6 @@ In case of accidental ingestion, symptoms of overdose from systemic beta blockad
 
 If overdose with DuoTrav occurs, treatment should be symptomatic and supportive. Timolol does not dialyse readily.
 
-<div style=\"page-break-after: always\"></div>
-
 ## 5. PHARMACOLOGICAL PROPERTIES
 
 ## 5.1 Pharmacodynamic properties
@@ -349,7 +347,9 @@ Pharmacotherapeutic group: Ophthalmologicals; Antiglaucoma preparations and miot
 
 DuoTrav contains two active substances: travoprost and timolol maleate. These two components lower intraocular pressure by complementary mechanisms of action and the combined effect results in additional IOP reduction compared to either compound alone.
 
-Travoprost, a prostaglandin F2α analogue, is a full agonist which is highly selective and has a high affinity for the prostaglandin FP receptor, and reduces the intraocular pressure by increasing the outflow of aqueous humour via trabecular meshwork and uveoscleral pathways. Reduction of IOP in man starts within approximately 2 hours after administration and maximum effect is reached after 12 hours. Significant lowering of intraocular pressure can be maintained for periods exceeding 24 hours with a single dose.
+<div style=\"page-break-after: always\"></div>
+
+Travoprost, a prostaglandin F 2α analogue, is a full agonist which is highly selective and has a high affinity for the prostaglandin FP receptor, and reduces the intraocular pressure by increasing the outflow of aqueous humour via trabecular meshwork and uveoscleral pathways. Reduction of IOP in man starts within approximately 2 hours after administration and maximum effect is reached after 12 hours. Significant lowering of intraocular pressure can be maintained for periods exceeding 24 hours with a single dose.
 
 Timolol is a non-selective adrenergic blocking agent that has no intrinsic sympathomimetic, direct myocardial depressant or membrane-stabilising activity. Tonography and fluorophotometry studies in man suggest that its predominant action is related to reduced aqueous humour formation and a slight increase in outflow facility.
 
@@ -369,11 +369,11 @@ In two three-month controlled clinical studies in patients with open-angle glauc
 
 In a 6-week controlled clinical study in patients with open-angle glaucoma or ocular hypertension and baseline mean IOP of 24 to 26 mmHg, the mean IOP-lowering effect of DuoTrav (polyquaternium-1-preserved) dosed once daily in the morning was 8 mmHg and equivalent to that of DuoTrav (benzalkonium chloride-preserved).
 
-<div style=\"page-break-after: always\"></div>
-
 Inclusion criteria were common across the studies, with the exception of the IOP entry criteria and response to previous IOP therapy. The clinical development of DuoTrav included both patients naive and on therapy. Insufficient responsiveness to monotherapy was not an inclusion criterion.
 
 Existing data suggest that evening dosing might have some advantages as regards mean IOP reduction. Consideration should be given to patient convenience and their likely compliance when recommending morning vs. evening dosing.
+
+<div style=\"page-break-after: always\"></div>
 
 ## 5.2 Pharmacokinetic properties
 
@@ -401,13 +401,15 @@ In monkeys, administration of DuoTrav twice daily was shown to induce increased 
 
 DuoTrav preserved with polyquaternium-1 induced minimal ocular surface toxicity, compared to eye drops preserved with benzalkonium chloride, on cultured human corneal cells and following topical ocular administration in rabbits.
 
-<div style=\"page-break-after: always\"></div>
-
 ## Travoprost
 
 Topical ocular administration of travoprost to monkeys at concentrations of up to 0.012% to the right eye, twice daily for one year resulted in no systemic toxicity.
 
-Reproduction toxicity studies with travoprost have been undertaken in rats, mice and rabbits using the systemic route. Findings are related to FP receptor agonist activity in uterus with early embryolethality, post-implantation loss and foetotoxicity. In pregnant rats, systemic administration of travoprost at doses more than 200 times the clinical dose during the period of organogenesis resulted in an increased incidence of malformations. Low levels of radioactivity were measured in amniotic fluid and foetal tissues of pregnant rats administered 3 H-travoprost. Reproduction and development studies have demonstrated a potent effect on foetal loss with a high rate observed in rats and mice (180 pg/mL and 30 pg/mL plasma, respectively) at exposures 1.2 to 6 times the clinical exposure (up to 25 pg/mL).
+Reproduction toxicity studies with travoprost have been undertaken in rats, mice and rabbits using the systemic route. Findings are related to FP receptor agonist activity in uterus with early embryolethality, post-implantation loss and foetotoxicity. In pregnant rats, systemic administration of travoprost at doses more than 200 times the clinical dose during the period of organogenesis resulted in an increased incidence of malformations. Low levels of radioactivity were measured in amniotic
+
+<div style=\"page-break-after: always\"></div>
+
+fluid and foetal tissues of pregnant rats administered 3 H-travoprost. Reproduction and development studies have demonstrated a potent effect on foetal loss with a high rate observed in rats and mice (180 pg/mL and 30 pg/mL plasma, respectively) at exposures 1.2 to 6 times the clinical exposure (up to 25 pg/mL).
 
 ## Timolol
 
@@ -433,8 +435,6 @@ Discard 4 weeks after first opening.
 
 Do not store above 30°C.
 
-<div style=\"page-break-after: always\"></div>
-
 ## 6.5 Nature and contents of container
 
 2.5 mL oval polypropylene (PP) or low-density polyethylene (LDPE) bottle and PP or LDPE dispensing plug with PP screw cap, presented in an overwrap.
@@ -444,6 +444,8 @@ Pack sizes of 1, 3 or 6 bottles. Not all pack sizes may be marketed.
 ## 6.6 Special precautions for disposal
 
 No special requirements.
+
+<div style=\"page-break-after: always\"></div>
 
 ## 7. MARKETING AUTHORISATION HOLDER
 
@@ -478,13 +480,9 @@ Detailed information on this medicinal product is available on the website of th
 
 Name and address of the manufacturers responsible for batch release
 
-Novartis Pharma GmbH Roonstraße 25 D-90429 Nuremberg Germany
-
 Novartis Manufacturing NV Rijksweg 14 2870 Puurs-Sint-Amands Belgium
 
 Novartis Farmacéutica, S.A. Gran Via de les Corts Catalanes, 764 08013 Barcelona Spain
-
-Siegfried El Masnou, S.A. Camil Fabra 58 El Masnou 08320 Barcelona Spain
 
 Novartis Pharma GmbH Sophie-Germain-Strasse 10 90443 Nuremberg Germany
 
@@ -499,8 +497,6 @@ Medicinal product subject to medical prescription.
 ## · Periodic safety update reports (PSURs)
 
 The requirements for submission of PSURs for this medicinal product are set out in the list of Union reference dates (EURD list) provided for under Article 107c(7) of Directive 2001/83/EC and any subsequent updates published on the European medicines web-portal.
-
-<div style=\"page-break-after: always\"></div>
 
 ## D. CONDITIONS OR RESTRICTIONS WITH REGARD TO THE SAFE AND EFFECTIVE USE OF THE MEDICINAL PRODUCT
 
@@ -570,18 +566,25 @@ Keep out of the sight and reach of children.
 | 8.   | EXPIRY DATE   |
 |------|---------------|
 
-EXP Discard 4 weeks after first opening. Opened: Opened (1): Opened (2): Opened (3):
+EXP
 
-| 9.   | SPECIAL STORAGE CONDITIONS   |
-|------|------------------------------|
+Discard 4 weeks after first opening.
+
+Opened:
+
+Opened (1):
+
+Opened (2):
+
+Opened (3):
+
+## 9. SPECIAL STORAGE CONDITIONS
 
 Do not store above 30°C.
 
-| 10.   | SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS ORWASTEMATERIALS DERIVEDFROMSUCH MEDICINAL PRODUCTS, IF APPROPRIATE   |
-|-------|-------------------------------------------------------------------------------------------------------------------------------------|
+## 10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
 
-| 11.   | NAMEANDADDRESS OF THE MARKETING AUTHORISATION HOLDER   |
-|-------|--------------------------------------------------------|
+## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
 Novartis Europharm Limited
 
@@ -589,21 +592,19 @@ Vista Building Elm Park, Merrion Road Dublin 4
 
 Ireland
 
-| 12.   | MARKETING AUTHORISATION NUMBERS   |
-|-------|-----------------------------------|
+## 12. MARKETING AUTHORISATION NUMBERS
 
-EU/1/06/338/001 1 x 2.5 ml - PP bottle EU/1/06/338/002 3 x 2.5 ml - PP bottle EU/1/06/338/003 6 x 2.5 ml - PP bottle EU/1/06/338/004 1 x 2.5 ml - LDPE bottle EU/1/06/338/005 3 x 2.5 ml - LDPE bottle EU/1/06/338/006 6 x 2.5 ml - LDPE bottle
+EU/1/06/338/001 1 x 2.5 ml -PP bottle EU/1/06/338/002 3 x 2.5 ml -PP bottle EU/1/06/338/003 6 x 2.5 ml -PP bottle EU/1/06/338/004 1 x 2.5 ml -LDPE bottle EU/1/06/338/005 3 x 2.5 ml -LDPE bottle
 
-| 13.   | BATCH NUMBER   |
-|-------|----------------|
+EU/1/06/338/006 6 x 2.5 ml -LDPE bottle
+
+## 13. BATCH NUMBER
 
 Lot
 
-| 14.   | GENERAL CLASSIFICATION FOR SUPPLY   |
-|-------|-------------------------------------|
+## 14. GENERAL CLASSIFICATION FOR SUPPLY
 
-| 15.   | INSTRUCTIONS ON USE   |
-|-------|-----------------------|
+## 15. INSTRUCTIONS ON USE
 
 | 16   | INFORMATION IN BRAILLE   |
 |------|--------------------------|
@@ -737,7 +738,7 @@ Talk to your doctor before using DuoTrav if you have now or have had in the past
 - coronary heart disease (symptoms can include chest pain or tightness, breathlessness or choking), heart failure, low blood pressure.
 - disturbances of heart rate such as slow heartbeat.
 - breathing problems, asthma or chronic obstructive pulmonary disease.
-- poor blood circulation disease (such as Raynaud's disease or Raynaud's syndrome).
+- poor blood circulation disease (such as Raynaud's disease or Raynaud's syndrome) .
 - diabetes (as timolol may mask signs and symptoms of low blood sugar).
 - overactivity of the thyroid gland (as timolol may mask signs and symptoms of thyroid disease).
 - myasthenia gravis (chronic neuromuscular weakness).
@@ -805,7 +806,7 @@ Only use DuoTrav as eye drops.
 - Wash your hands.
 - Twist off the bottle cap.
 - Hold the bottle, pointing down, between your thumb and fingers.
-- Tilt your head back. Pull your lower eyelid down with a clean finger until there is a 'pocket' between the eyelid and your eye. The drop will go in here (picture 2) .
+- Tilt your head back. Pull your lower eyelid down with a clean finger until there is a ' pocket ' between the eyelid and your eye. The drop will go in here (picture 2) .
 - Bring the bottle dropper close to the eye. Use the mirror if it helps.
 - Do not touch your eye or eyelid, the surrounding areas or other surfaces with the dropper. It could infect the drops.
 - Gently squeeze the bottle to release one drop of DuoTrav at a time (picture 3). If a drop misses your eye, try again.
@@ -824,11 +825,11 @@ If you use more DuoTrav than you should, rinse it all out with warm water. Do no
 
 If you forget to use DuoTrav, continue with the next dose as planned. Do not use a double dose to make up for the forgotten dose. The dose should not exceed one drop daily in the affected eye(s).
 
+<div style=\"page-break-after: always\"></div>
+
 ## If you stop using DuoTrav
 
 If you stop using DuoTrav without speaking to your doctor the pressure in your eye will not be controlled, which could lead to loss of sight.
-
-<div style=\"page-break-after: always\"></div>
 
 If you are using other eye drops in addition to DuoTrav, leave at least 5 minutes between applying DuoTrav and the other drops.
 
@@ -848,7 +849,7 @@ Effects in the eye Eye redness.
 
 ## Common side effects (may affect up to 1 in 10 people)
 
-Effects in the eye
+## Effects in the eye
 
 Eye surface inflammation with surface damage, eye pain, blurred vision, abnormal vision, dry eye, itchy eye, eye discomfort, signs and symptoms of eye irritation (e.g. burning, stinging).
 
@@ -872,6 +873,8 @@ Thinning of the eye surface, inflammation of the eyelid glands, broken blood ves
 
 Nervousness, irregular heart rate, loss of hair, voice disorders, difficulty breathing, cough, throat irritation, hives, abnormal liver blood tests, skin discolouration, thirst, tiredness, discomfort inside of nose, coloured urine, pain in hands and feet.
 
+<div style=\"page-break-after: always\"></div>
+
 ## Not known (frequency cannot be estimated from the available data)
 
 ## Effects in the eye
@@ -881,8 +884,6 @@ Droopy eyelid (making the eye stay half closed), sunken eyes (eyes appear more i
 ## General side effects
 
 Rash, heart failure, chest pain, stroke, fainting, depression, asthma, increased heart rate, numbness or tingling sensation, palpitations, swelling in the lower limbs, bad taste.
-
-<div style=\"page-break-after: always\"></div>
 
 ## Additionally:
 
@@ -898,7 +899,7 @@ Inflammation of the eyelid, inflammation in the cornea, detachment of the layer 
 
 Ear and labyrinth disorders : dizziness with spinning sensation, ringing in the ears.
 
-Heart and circulation : slow heart rate, palpitations, oedema (fluid build-up), changes in heartbeat rhythm or speed, congestive heart failure (heart disease with shortness of breath and swelling of the feet and legs due to fluid build-up), a type of heart rhythm disorder, heart attack, low blood pressure, Raynaud's phenomenon, cold hands and feet, reduced blood supply to the brain.
+Heart and circulation : slow heart rate, palpitations, oedema (fluid build-up), changes in heartbeat rhythm or speed, congestive heart failure (heart disease with shortness of breath and swelling of the feet and legs due to fluid build-up), a type of heart rhythm disorder, heart attack, low blood pressure, Raynaud ' s phenomenon, cold hands and feet, reduced blood supply to the brain.
 
 Respiratory : constriction of the airways in the lungs (predominantly in patients with pre-existing disease), runny or stuffy nose, sneezing (due to allergy), difficulty breathing, nose bleed, nasal dryness.
 
@@ -910,15 +911,19 @@ Allergy : increased allergic symptoms, generalised allergic reactions including 
 
 Skin : skin rash with white silvery coloured appearance (psoriasiform rash) or worsening of psoriasis, peeling skin, abnormal hair texture, inflammation of the skin with itchy rash and redness, hair colour change, loss of eyelashes, itching, abnormal hair growth, skin redness.
 
+<div style=\"page-break-after: always\"></div>
+
 Muscular : increases in signs and symptoms of myasthenia gravis (muscle disorder), unusual sensations like pins and needles, muscle weakness/tiredness, muscle pain not caused by exercise, joint pain.
 
 Renal and urinary disorders : difficulty and pain when passing urine, involuntary leakage of urine,
 
-Reproduction : sexual dysfunction, decreased libido.
+Reproduction
 
-Metabolism : low blood sugar levels, increase in prostate cancer marker.
+: sexual dysfunction, decreased libido.
 
-<div style=\"page-break-after: always\"></div>
+Metabolism
+
+: low blood sugar levels, increase in prostate cancer marker.
 
 ## Reporting of side effects
 
@@ -942,7 +947,8 @@ Do not throw away any medicines via wastewater or household waste. Ask your phar
 
 - -The active substances are travoprost and timolol. Each mL of solution contains 40 micrograms of travoprost and 5 mg of timolol (as timolol maleate).
 - -The other ingredients are Polyquaternium-1, mannitol (E421), propylene glycol (E1520), polyoxyethylene hydrogenated castor oil 40, boric acid, sodium chloride, sodium hydroxide or hydrochloric acid (to adjust pH), purified water.
-- Tiny amounts of sodium hydroxide or hydrochloric acid are added to keep acidity levels (pH levels) normal.
+
+Tiny amounts of sodium hydroxide or hydrochloric acid are added to keep acidity levels (pH levels) normal.
 
 ## What DuoTrav looks like and contents of the pack
 
@@ -952,27 +958,25 @@ Packs of 1, 3 or 6 bottles.
 
 Not all pack sizes may be marketed.
 
+<div style=\"page-break-after: always\"></div>
+
 ## Marketing Authorisation Holder
 
 Novartis Europharm Limited Vista Building Elm Park, Merrion Road Dublin 4 Ireland
 
-<div style=\"page-break-after: always\"></div>
-
 ## Manufacturer
-
-Novartis Pharma GmbH Roonstraße 25 D-90429 Nuremberg Germany
 
 Novartis Manufacturing NV Rijksweg 14 2870 Puurs-Sint-Amands Belgium
 
 Novartis Farmacéutica, S.A. Gran Via de les Corts Catalanes, 764 08013 Barcelona Spain
 
-Siegfried El Masnou, S.A. Camil Fabra 58 El Masnou 08320 Barcelona Spain
-
 Novartis Pharma GmbH Sophie-Germain-Strasse 10 90443 Nuremberg Germany
 
 For any information about this medicine, please contact the local representative of the Marketing Authorisation Holder.
 
-België/Belgique/Belgien Novartis Pharma N.V. Tél/Tel: +32 2 246 16 11
+## België/Belgique/Belgien
+
+Novartis Pharma N.V. Tél/Tel: +32 2 246 16 11
 
 ## Lietuva
 
@@ -980,7 +984,11 @@ SIA Novartis Baltics Lietuvos filialas Tel: +370 5 269 16 50
 
 ## България
 
-Novartis Bulgaria EOOD Тел.: +359 2 489 98 28
+Novartis Bulgaria EOOD
+
+Тел
+
+.: +359 2 489 98 28
 
 ## Luxembourg/Luxemburg
 
@@ -996,15 +1004,21 @@ Tel: +420 225 775 111
 
 ## Magyarország
 
-Novartis Hungária Kft. Tel.: +36 1 457 65 00
+Novartis Hungária Kft.
+
+Tel.: +36 1 457 65 00
 
 ## Danmark
 
-Novartis Healthcare A/S Tlf: +45 39 16 84 00
+Novartis Healthcare A/S
+
+Tlf: +45 39 16 84 00
 
 ## Malta
 
-Novartis Pharma Services Inc. Tel: +356 2122 2872
+Novartis Pharma Services Inc.
+
+Tel: +356 2122 2872
 
 ## Deutschland
 
@@ -1014,7 +1028,9 @@ Tel: +49 911 273 0
 
 ## Nederland
 
-Novartis Pharma B.V. Tel: +31 88 04 52 111
+Novartis Pharma B.V.
+
+Tel: +31 88 04 52 111
 
 ## Eesti
 
@@ -1024,31 +1040,27 @@ Tel: +372 66 30 810
 
 ## Norge
 
-Novartis Norge AS
-
-Tlf: +47 23 05 20 00
-
-<div style=\"page-break-after: always\"></div>
+Novartis Norge AS Tlf: +47 23 05 20 00
 
 ## Ελλάδα
 
+Novartis (Hellas) A.E.B.E. Τηλ: +30 210 281 17 12
+
 ## Österreich
-
-Novartis (Hellas) A.E.B.E.
-
-Τηλ: +30 210 281 17 12
 
 Novartis Pharma GmbH
 
 Tel: +43 1 86 6570
 
+<div style=\"page-break-after: always\"></div>
+
 ## España
+
+## Polska
 
 Novartis Farmacéutica, S.A.
 
 Tel: +34 93 306 42 00
-
-## Polska
 
 Novartis Poland Sp. z o.o.
 

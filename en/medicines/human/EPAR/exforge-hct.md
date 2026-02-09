@@ -1,21 +1,97 @@
 ---
-document_datetime: 2025-12-29 07:36:10
+document_datetime: 2026-02-06 15:45:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/exforge-hct.html
 document_name: exforge-hct.html
 version: success
-processing_time: 0.1638094
-conversion_datetime: 2025-12-31 02:16:26.733241
+processing_time: 0.1441439
+conversion_datetime: 2026-02-09 22:30:27.379292
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.66.0
-  docling-core: 2.57.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.12.0
+  docling-jobkit: 1.10.1
+  docling: 2.72.0
+  docling-core: 2.63.0
+  docling-ibm-models: 3.11.0
+  docling-parse: 4.7.3
   python: cpython-313 (3.13.11)
   plaform: macOS-26.2-arm64-arm-64bit-Mach-O
 ---
+# Search
+
+- [Medicines](/en/medicines)
+    - [Find medicine](/en/medicines)
+    - [Therapeutic areas: latest updates](/en/medicines/therapeutic-areas-latest-updates)
+    - [Download medicine data](/en/medicines/download-medicine-data)
+    - [What we publish on medicines and when](/en/medicines/what-we-publish-medicines-when)
+    - [Medicines under evaluation](/en/medicines/medicines-human-use-under-evaluation)
+    - [National registers](/en/medicines/national-registers-authorised-medicines)
+- [Human regulatory](/en/human-regulatory-overview)
+    - [Overview](/en/human-regulatory-overview)
+    - [Research and development](/en/human-regulatory-overview/research-development)
+    - [Marketing authorisation](/en/human-regulatory-overview/marketing-authorisation)
+    - [Post-authorisation](/en/human-regulatory-overview/post-authorisation)
+    - [Medical devices](/en/human-regulatory-overview/medical-devices)
+    - [Herbal products](/en/human-regulatory-overview/herbal-medicinal-products)
+- [Veterinary regulatory](/en/veterinary-regulatory-overview)
+    - [Overview](/en/veterinary-regulatory-overview)
+    - [Research and development](/en/veterinary-regulatory-overview/research-development-veterinary-medicines)
+    - [Marketing authorisation](/en/veterinary-regulatory-overview/marketing-authorisation-veterinary-medicines)
+    - [Post-authorisation](/en/veterinary-regulatory-overview/post-authorisation-veterinary-medicines)
+- [Committees](/en/committees)
+    - [Overview](/en/committees)
+    - [How the committees work](/en/committees/how-committees-work)
+    - [CHMP](/en/committees/committee-medicinal-products-human-use-chmp)
+    - [CVMP](/en/committees/committee-veterinary-medicinal-products-cvmp)
+    - [PRAC](/en/committees/pharmacovigilance-risk-assessment-committee-prac)
+    - [COMP](/en/committees/committee-orphan-medicinal-products-comp)
+    - [HMPC](/en/committees/committee-herbal-medicinal-products-hmpc)
+    - [CAT](/en/committees/committee-advanced-therapies-cat)
+    - [PDCO](/en/committees/paediatric-committee-pdco)
+    - [Working parties and other groups](/en/committees/working-parties-other-groups)
+- [News &amp; events](/en/news-events)
+    - [Overview](/en/news-events)
+    - [News](/en/news)
+    - [Events](/en/events/upcoming-events)
+    - [What's new](/en/news-events/whats-new)
+    - [Committee highlights](/en/news-events/committee-highlights)
+    - [Publications](/en/news-and-events/publications)
+    - [Press and social media](/en/news-events/press-social-media)
+    - [Podcast: Inside EMA](/en/news-events/podcast-inside-ema)
+    - [Open consultations](/en/news-events/open-consultations)
+    - [RSS feeds](/en/news-events/rss-feeds)
+- [Partners &amp; networks](/en/partners-networks)
+    - [Overview](/en/partners-networks)
+    - [EU partners](/en/partners-networks/eu-partners)
+    - [International activities](/en/partners-networks/international-activities)
+    - [Patients and consumers](/en/partners-networks/patients-consumers)
+    - [Healthcare professionals](/en/partners-networks/healthcare-professionals)
+    - [Academia](/en/partners-networks/academia)
+    - [Pharmaceutical industry](/en/partners-networks/pharmaceutical-industry)
+    - [Networks](/en/partners-networks/networks)
+    - [Health technology assessment bodies](/en/partners-networks/health-technology-assessment-bodies)
+    - [One Health approach](/en/partners-networks/one-health-approach)
+    - [Animal health practitioners](/en/partners-networks/animal-health-practitioners)
+    - [One substance - one assessment](/en/partners-networks/one-substance-one-assessment-osoa-eu-collaboration-chemicals-related-data)
+- [About us](/en/about-us)
+    - [Overview](/en/about-us)
+    - [What we do](/en/about-us/what-we-do)
+    - [Who we are](/en/about-us/who-we-are)
+    - [How we work](/en/about-us/how-we-work)
+    - [Fees](/en/about-us/fees-payable-european-medicines-agency)
+    - [Support to SMEs](/en/about-us/support-smes)
+    - [Annual reports and work programmes](/en/about-us/annual-reports-work-programmes)
+    - [History of EMA](/en/about-us/history-ema)
+    - [Careers](/en/about-us/careers)
+    - [Procurement](/en/about-us/procurement-grants)
+    - [Glossaries](/en/about-us/glossaries)
+    - [About this website](/en/about-us/about-website)
+    - [Data protection and privacy](/en/about-us/data-protection-privacy-ema)
+    - [Contacts](/en/about-us/contacts-european-medicines-agency)
+
+1. [Home](/en/homepage)
+2. [Medicines](https://www.ema.europa.eu/en/medicines)
+3. Exforge HCT
+
 # Exforge HCT
 
 [RSS](/en/individual-human-medicine.xml/66094)
@@ -25,8 +101,6 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 amlodipine besilate / valsartan / hydrochlorothiazide Medicine Human Authorised
-
-On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -118,7 +192,7 @@ English (EN) (75.96 KB - PDF)
 
 [View](/en/documents/overview/exforge-hct-epar-summary-public_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-278)
+[Other languages (22)](#file-language-dropdown-251)
 
 български (BG) (104.42 KB - PDF)
 
@@ -388,17 +462,17 @@ svenska (SV) (77.26 KB - PDF)
 
 Exforge HCT : EPAR - Product Information
 
-English (EN) (489.2 KB - PDF)
+English (EN) (645.78 KB - PDF)
 
 **First published:** 12/11/2009
 
-**Last updated:** 12/02/2025
+**Last updated:** 06/02/2026
 
 [View](/en/documents/product-information/exforge-hct-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-797)
+[Other languages (24)](#file-language-dropdown-830)
 
-български (BG) (693.41 KB - PDF)
+български (BG) (838.1 KB - PDF)
 
 **First published:**
 
@@ -406,11 +480,11 @@ English (EN) (489.2 KB - PDF)
 
 **Last updated:**
 
-12/02/2025
+06/02/2026
 
 [View](/bg/documents/product-information/exforge-hct-epar-product-information_bg.pdf)
 
-español (ES) (576.15 KB - PDF)
+español (ES) (649.39 KB - PDF)
 
 **First published:**
 
@@ -418,11 +492,11 @@ español (ES) (576.15 KB - PDF)
 
 **Last updated:**
 
-12/02/2025
+06/02/2026
 
 [View](/es/documents/product-information/exforge-hct-epar-product-information_es.pdf)
 
-čeština (CS) (557.89 KB - PDF)
+čeština (CS) (681.09 KB - PDF)
 
 **First published:**
 
@@ -430,11 +504,11 @@ español (ES) (576.15 KB - PDF)
 
 **Last updated:**
 
-12/02/2025
+06/02/2026
 
 [View](/cs/documents/product-information/exforge-hct-epar-product-information_cs.pdf)
 
-dansk (DA) (534.36 KB - PDF)
+dansk (DA) (629.5 KB - PDF)
 
 **First published:**
 
@@ -442,11 +516,11 @@ dansk (DA) (534.36 KB - PDF)
 
 **Last updated:**
 
-12/02/2025
+06/02/2026
 
 [View](/da/documents/product-information/exforge-hct-epar-product-information_da.pdf)
 
-Deutsch (DE) (468.45 KB - PDF)
+Deutsch (DE) (592.1 KB - PDF)
 
 **First published:**
 
@@ -454,11 +528,11 @@ Deutsch (DE) (468.45 KB - PDF)
 
 **Last updated:**
 
-12/02/2025
+06/02/2026
 
 [View](/de/documents/product-information/exforge-hct-epar-product-information_de.pdf)
 
-eesti keel (ET) (504.02 KB - PDF)
+eesti keel (ET) (582.55 KB - PDF)
 
 **First published:**
 
@@ -466,11 +540,11 @@ eesti keel (ET) (504.02 KB - PDF)
 
 **Last updated:**
 
-12/02/2025
+06/02/2026
 
 [View](/et/documents/product-information/exforge-hct-epar-product-information_et.pdf)
 
-ελληνικά (EL) (619.45 KB - PDF)
+ελληνικά (EL) (697.2 KB - PDF)
 
 **First published:**
 
@@ -478,11 +552,11 @@ eesti keel (ET) (504.02 KB - PDF)
 
 **Last updated:**
 
-12/02/2025
+06/02/2026
 
 [View](/el/documents/product-information/exforge-hct-epar-product-information_el.pdf)
 
-français (FR) (659.05 KB - PDF)
+français (FR) (735.41 KB - PDF)
 
 **First published:**
 
@@ -490,11 +564,11 @@ français (FR) (659.05 KB - PDF)
 
 **Last updated:**
 
-12/02/2025
+06/02/2026
 
 [View](/fr/documents/product-information/exforge-hct-epar-product-information_fr.pdf)
 
-hrvatski (HR) (621.22 KB - PDF)
+hrvatski (HR) (676.09 KB - PDF)
 
 **First published:**
 
@@ -502,11 +576,11 @@ hrvatski (HR) (621.22 KB - PDF)
 
 **Last updated:**
 
-12/02/2025
+06/02/2026
 
 [View](/hr/documents/product-information/exforge-hct-epar-product-information_hr.pdf)
 
-íslenska (IS) (508.86 KB - PDF)
+íslenska (IS) (628.23 KB - PDF)
 
 **First published:**
 
@@ -514,11 +588,11 @@ hrvatski (HR) (621.22 KB - PDF)
 
 **Last updated:**
 
-12/02/2025
+06/02/2026
 
 [View](/is/documents/product-information/exforge-hct-epar-product-information_is.pdf)
 
-italiano (IT) (531.87 KB - PDF)
+italiano (IT) (658.89 KB - PDF)
 
 **First published:**
 
@@ -526,11 +600,11 @@ italiano (IT) (531.87 KB - PDF)
 
 **Last updated:**
 
-12/02/2025
+06/02/2026
 
 [View](/it/documents/product-information/exforge-hct-epar-product-information_it.pdf)
 
-latviešu valoda (LV) (630.53 KB - PDF)
+latviešu valoda (LV) (662.43 KB - PDF)
 
 **First published:**
 
@@ -538,11 +612,11 @@ latviešu valoda (LV) (630.53 KB - PDF)
 
 **Last updated:**
 
-12/02/2025
+06/02/2026
 
 [View](/lv/documents/product-information/exforge-hct-epar-product-information_lv.pdf)
 
-lietuvių kalba (LT) (644.36 KB - PDF)
+lietuvių kalba (LT) (681.07 KB - PDF)
 
 **First published:**
 
@@ -550,11 +624,11 @@ lietuvių kalba (LT) (644.36 KB - PDF)
 
 **Last updated:**
 
-12/02/2025
+06/02/2026
 
 [View](/lt/documents/product-information/exforge-hct-epar-product-information_lt.pdf)
 
-magyar (HU) (564.42 KB - PDF)
+magyar (HU) (729.11 KB - PDF)
 
 **First published:**
 
@@ -562,11 +636,11 @@ magyar (HU) (564.42 KB - PDF)
 
 **Last updated:**
 
-12/02/2025
+06/02/2026
 
 [View](/hu/documents/product-information/exforge-hct-epar-product-information_hu.pdf)
 
-Malti (MT) (716.17 KB - PDF)
+Malti (MT) (771.78 KB - PDF)
 
 **First published:**
 
@@ -574,11 +648,11 @@ Malti (MT) (716.17 KB - PDF)
 
 **Last updated:**
 
-12/02/2025
+06/02/2026
 
 [View](/mt/documents/product-information/exforge-hct-epar-product-information_mt.pdf)
 
-Nederlands (NL) (505.21 KB - PDF)
+Nederlands (NL) (624.27 KB - PDF)
 
 **First published:**
 
@@ -586,11 +660,11 @@ Nederlands (NL) (505.21 KB - PDF)
 
 **Last updated:**
 
-12/02/2025
+06/02/2026
 
 [View](/nl/documents/product-information/exforge-hct-epar-product-information_nl.pdf)
 
-norsk (NO) (586.46 KB - PDF)
+norsk (NO) (626.37 KB - PDF)
 
 **First published:**
 
@@ -598,11 +672,11 @@ norsk (NO) (586.46 KB - PDF)
 
 **Last updated:**
 
-12/02/2025
+06/02/2026
 
 [View](/no/documents/product-information/exforge-hct-epar-product-information_no.pdf)
 
-polski (PL) (700.72 KB - PDF)
+polski (PL) (715.52 KB - PDF)
 
 **First published:**
 
@@ -610,11 +684,11 @@ polski (PL) (700.72 KB - PDF)
 
 **Last updated:**
 
-12/02/2025
+06/02/2026
 
 [View](/pl/documents/product-information/exforge-hct-epar-product-information_pl.pdf)
 
-português (PT) (617.06 KB - PDF)
+português (PT) (677.56 KB - PDF)
 
 **First published:**
 
@@ -622,11 +696,11 @@ português (PT) (617.06 KB - PDF)
 
 **Last updated:**
 
-12/02/2025
+06/02/2026
 
 [View](/pt/documents/product-information/exforge-hct-epar-product-information_pt.pdf)
 
-română (RO) (557.84 KB - PDF)
+română (RO) (697.63 KB - PDF)
 
 **First published:**
 
@@ -634,11 +708,11 @@ română (RO) (557.84 KB - PDF)
 
 **Last updated:**
 
-12/02/2025
+06/02/2026
 
 [View](/ro/documents/product-information/exforge-hct-epar-product-information_ro.pdf)
 
-slovenčina (SK) (673.59 KB - PDF)
+slovenčina (SK) (705.92 KB - PDF)
 
 **First published:**
 
@@ -646,11 +720,11 @@ slovenčina (SK) (673.59 KB - PDF)
 
 **Last updated:**
 
-12/02/2025
+06/02/2026
 
 [View](/sk/documents/product-information/exforge-hct-epar-product-information_sk.pdf)
 
-slovenščina (SL) (541.3 KB - PDF)
+slovenščina (SL) (659.5 KB - PDF)
 
 **First published:**
 
@@ -658,11 +732,11 @@ slovenščina (SL) (541.3 KB - PDF)
 
 **Last updated:**
 
-12/02/2025
+06/02/2026
 
 [View](/sl/documents/product-information/exforge-hct-epar-product-information_sl.pdf)
 
-Suomi (FI) (507.47 KB - PDF)
+Suomi (FI) (588.34 KB - PDF)
 
 **First published:**
 
@@ -670,11 +744,11 @@ Suomi (FI) (507.47 KB - PDF)
 
 **Last updated:**
 
-12/02/2025
+06/02/2026
 
 [View](/fi/documents/product-information/exforge-hct-epar-product-information_fi.pdf)
 
-svenska (SV) (575.11 KB - PDF)
+svenska (SV) (615.13 KB - PDF)
 
 **First published:**
 
@@ -682,11 +756,11 @@ svenska (SV) (575.11 KB - PDF)
 
 **Last updated:**
 
-12/02/2025
+06/02/2026
 
 [View](/sv/documents/product-information/exforge-hct-epar-product-information_sv.pdf)
 
-**Latest procedure affecting product information:** VR/0000246587 11/02/2025
+**Latest procedure affecting product information:** VR/0000321249 05/02/2026
 
 icon globe
 
@@ -712,7 +786,7 @@ English (EN) (20.81 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/exforge-hct-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-981)
+[Other languages (24)](#file-language-dropdown-262)
 
 български (BG) (90.38 KB - PDF)
 
@@ -1034,7 +1108,7 @@ Novartis Europharm Limited
 
 Vista Building
 
-Marketing authorisation issued 15/10/2009 Revision 27
+Marketing authorisation issued 15/10/2009 Revision 28
 
 ## Assessment history
 
@@ -1046,9 +1120,11 @@ Collapse section
 
 Exforge HCT : EPAR - Procedural steps taken and scientific information after authorisation
 
-English (EN) (142.3 KB - PDF)
+English (EN) (137.33 KB - PDF)
 
 **First published:** 12/02/2025
+
+**Last updated:** 06/02/2026
 
 [View](/en/documents/procedural-steps-after/exforge-hct-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf)
 
@@ -1072,7 +1148,7 @@ English (EN) (119.28 KB - PDF)
 
 [View](/en/documents/scientific-conclusion/angiotensin-ii-receptor-antagonists-sartans-scientific-conclusions-impact-article-53-scientific-opinion-nitrosamines_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-394)
+[Other languages (22)](#file-language-dropdown-751)
 
 български (BG) (145.18 KB - PDF)
 
@@ -1270,7 +1346,7 @@ English (EN) (99.42 KB - PDF)
 
 [View](/en/documents/scientific-conclusion/exforge-hct-epar-scientific-conclusions-annex-iv_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-503)
+[Other languages (22)](#file-language-dropdown-677)
 
 български (BG) (136.15 KB - PDF)
 
@@ -1482,7 +1558,7 @@ English (EN) (48.81 KB - PDF)
 
 [View](/en/documents/scientific-conclusion/exforge-hct-h-c-1068-a31-0029-epar-scientific-conclusions-grounds-variation-terms-marketing-authorisations-and-detailed-explanation-scientific-grounds-differences-prac-recom_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-919)
+[Other languages (22)](#file-language-dropdown-543)
 
 български (BG) (87.49 KB - PDF)
 
@@ -1835,7 +1911,7 @@ English (EN) (511.41 KB - PDF)
 
 - [Medicines](https://www.ema.europa.eu/en/search?f%5B0%5D=ema_search_topics%3A61)
 
-**This page was last updated on** 12/02/2025
+**This page was last updated on** 06/02/2026
 
 ## Share this page
 

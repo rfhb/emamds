@@ -1,18 +1,18 @@
 ---
-document_datetime: 2025-08-21 15:32:19
-document_pages: 94
+document_datetime: 2026-02-05 15:29:38
+document_pages: 93
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/exjade-epar-product-information_en.pdf
 document_name: exjade-epar-product-information_en.pdf
 version: success
-processing_time: 22.3852554
-conversion_datetime: 2025-12-22 13:44:43.628862
+processing_time: 19.8208649
+conversion_datetime: 2026-02-09 22:02:50.273407
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.64.1
-  docling-core: 2.55.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.12.0
+  docling-jobkit: 1.10.1
+  docling: 2.72.0
+  docling-core: 2.63.0
+  docling-ibm-models: 3.11.0
+  docling-parse: 4.7.3
   python: cpython-313 (3.13.11)
   plaform: macOS-26.2-arm64-arm-64bit-Mach-O
 ---
@@ -21,10 +21,6 @@ docling_version:
 ## SUMMARY OF PRODUCT CHARACTERISTICS
 
 <div style=\"page-break-after: always\"></div>
-
-<!-- image -->
-
-This medicinal product is subject to additional monitoring. This will allow quick identification of new safety information. Healthcare professionals are asked to report any suspected adverse reactions. See section 4.8 for how to report adverse reactions.
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
@@ -36,17 +32,13 @@ EXJADE 360 mg film-coated tablets
 
 ## 2. QUALITATIVE AND QUANTITATIVE COMPOSITION
 
-## EXJADE 90 mg film-coated tablets
-
-Each film-coated tablet contains 90 mg deferasirox.
+EXJADE 90 mg film-coated tablets Each film-coated tablet contains 90 mg deferasirox.
 
 ## EXJADE 180 mg film-coated tablets
 
 Each film-coated tablet contains 180 mg deferasirox.
 
-## EXJADE 360 mg film-coated tablets
-
-Each film-coated tablet contains 360 mg deferasirox.
+EXJADE 360 mg film-coated tablets Each film-coated tablet contains 360 mg deferasirox.
 
 For the full list of excipients, see section 6.1.
 
@@ -75,11 +67,10 @@ EXJADE is indicated for the treatment of chronic iron overload due to frequent b
 EXJADE is also indicated for the treatment of chronic iron overload due to blood transfusions when deferoxamine therapy is contraindicated or inadequate in the following patient groups:
 
 - -in paediatric patients with beta thalassaemia major with iron overload due to frequent blood transfusions (  7 ml/kg/month of packed red blood cells) aged 2 to 5 years,
-
-<div style=\"page-break-after: always\"></div>
-
 - -in adult and paediatric patients with beta thalassaemia major with iron overload due to infrequent blood transfusions (&lt;7 ml/kg/month of packed red blood cells) aged 2 years and older,
 - -in adult and paediatric patients with other anaemias aged 2 years and older.
+
+<div style=\"page-break-after: always\"></div>
 
 EXJADE is also indicated for the treatment of chronic iron overload requiring chelation therapy when deferoxamine therapy is contraindicated or inadequate in patients with non-transfusion-dependent thalassaemia syndromes aged 10 years and older.
 
@@ -103,20 +94,21 @@ In the EU, medicines containing deferasirox are available as film-coated tablets
 
 It is recommended that treatment be started after the transfusion of approximately 20 units (about 100 ml/kg) of packed red blood cells (PRBC) or when there is evidence from clinical monitoring that chronic iron overload is present (e.g. serum ferritin &gt;1 000 µg/l) (see Table 1).
 
-<div style=\"page-break-after: always\"></div>
-
 Table 1 Recommended starting doses for transfusional iron overload
 
-| Recommended starting dose                                                                                                                                                                                                                                                                                                                                                                                                                                         | Recommended starting dose                                                                                                                                                                                                                                                                                                                                                                                                                                         | Recommended starting dose                                                                                                                                                                                                                                                                                                                                                                                                                                         | Recommended starting dose                                                                                                                                                                                                                                                                                                                                                                                                                                         |
-|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Serum ferritin                                                                                                                                                                                                                                                                                                                                                                                                                                                    |                                                                                                                                                                                                                                                                                                                                                                                                                                                                   | Patient population                                                                                                                                                                                                                                                                                                                                                                                                                                                | Recommended starting dose                                                                                                                                                                                                                                                                                                                                                                                                                                         |
-| >1 000 µg/l                                                                                                                                                                                                                                                                                                                                                                                                                                                       | or                                                                                                                                                                                                                                                                                                                                                                                                                                                                | Patients who have already received approximately 20 units (about 100 ml/kg) of PRBC.                                                                                                                                                                                                                                                                                                                                                                              | 14 mg/kg/day                                                                                                                                                                                                                                                                                                                                                                                                                                                      |
-| Alternative starting doses                                                                                                                                                                                                                                                                                                                                                                                                                                        | Alternative starting doses                                                                                                                                                                                                                                                                                                                                                                                                                                        | Alternative starting doses                                                                                                                                                                                                                                                                                                                                                                                                                                        | Alternative starting doses                                                                                                                                                                                                                                                                                                                                                                                                                                        |
-| Patient population                                                                                                                                                                                                                                                                                                                                                                                                                                                | Patient population                                                                                                                                                                                                                                                                                                                                                                                                                                                | Patient population                                                                                                                                                                                                                                                                                                                                                                                                                                                | Alternative starting dose                                                                                                                                                                                                                                                                                                                                                                                                                                         |
-| Patients who do not require reduction of body iron levels and who are also receiving <7 ml/kg/month of PRBC (approx. <2 units/month for an adult). The patient's response must be monitored, and a dose increase should be considered if sufficient efficacy is not obtained.                                                                                                                                                                                     | Patients who do not require reduction of body iron levels and who are also receiving <7 ml/kg/month of PRBC (approx. <2 units/month for an adult). The patient's response must be monitored, and a dose increase should be considered if sufficient efficacy is not obtained.                                                                                                                                                                                     | Patients who do not require reduction of body iron levels and who are also receiving <7 ml/kg/month of PRBC (approx. <2 units/month for an adult). The patient's response must be monitored, and a dose increase should be considered if sufficient efficacy is not obtained.                                                                                                                                                                                     | 7 mg/kg/day                                                                                                                                                                                                                                                                                                                                                                                                                                                       |
-| Patients who require reduction of elevated body iron levels and who are also receiving >14 ml/kg/month of PRBC (approx. >4 units/month for an adult).                                                                                                                                                                                                                                                                                                             | Patients who require reduction of elevated body iron levels and who are also receiving >14 ml/kg/month of PRBC (approx. >4 units/month for an adult).                                                                                                                                                                                                                                                                                                             | Patients who require reduction of elevated body iron levels and who are also receiving >14 ml/kg/month of PRBC (approx. >4 units/month for an adult).                                                                                                                                                                                                                                                                                                             | 21 mg/kg/day                                                                                                                                                                                                                                                                                                                                                                                                                                                      |
-| Patients who are well managed on deferoxamine.                                                                                                                                                                                                                                                                                                                                                                                                                    | Patients who are well managed on deferoxamine.                                                                                                                                                                                                                                                                                                                                                                                                                    | Patients who are well managed on deferoxamine.                                                                                                                                                                                                                                                                                                                                                                                                                    | One third of deferoxamine dose*                                                                                                                                                                                                                                                                                                                                                                                                                                   |
-| *A starting dose that is numerically one third that of the deferoxamine dose (e.g. a patient receiving 40 mg/kg/day of deferoxamine for 5 days per week [or equivalent] could be transferred to a starting daily dose of 14 mg/kg/day of EXJADE film-coated tablets). When this results in a daily dose of <14 mg/kg, the patient's response must be monitored and a dose increase should be considered if sufficient efficacy is not obtained (see section 5.1). | *A starting dose that is numerically one third that of the deferoxamine dose (e.g. a patient receiving 40 mg/kg/day of deferoxamine for 5 days per week [or equivalent] could be transferred to a starting daily dose of 14 mg/kg/day of EXJADE film-coated tablets). When this results in a daily dose of <14 mg/kg, the patient's response must be monitored and a dose increase should be considered if sufficient efficacy is not obtained (see section 5.1). | *A starting dose that is numerically one third that of the deferoxamine dose (e.g. a patient receiving 40 mg/kg/day of deferoxamine for 5 days per week [or equivalent] could be transferred to a starting daily dose of 14 mg/kg/day of EXJADE film-coated tablets). When this results in a daily dose of <14 mg/kg, the patient's response must be monitored and a dose increase should be considered if sufficient efficacy is not obtained (see section 5.1). | *A starting dose that is numerically one third that of the deferoxamine dose (e.g. a patient receiving 40 mg/kg/day of deferoxamine for 5 days per week [or equivalent] could be transferred to a starting daily dose of 14 mg/kg/day of EXJADE film-coated tablets). When this results in a daily dose of <14 mg/kg, the patient's response must be monitored and a dose increase should be considered if sufficient efficacy is not obtained (see section 5.1). |
+| Recommended starting dose                                                                                                                                                                                                                                                     | Recommended starting dose                                                                                                                                                                                                                                                     | Recommended starting dose                                                                                                                                                                                                                                                     | Recommended starting dose       |
+|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------|
+| Serum ferritin                                                                                                                                                                                                                                                                |                                                                                                                                                                                                                                                                               | Patient population                                                                                                                                                                                                                                                            | Recommended starting dose       |
+| >1 000 µg/l                                                                                                                                                                                                                                                                   | or                                                                                                                                                                                                                                                                            | Patients who have already received approximately 20 units (about 100 ml/kg) of PRBC.                                                                                                                                                                                          | 14 mg/kg/day                    |
+| Alternative starting doses                                                                                                                                                                                                                                                    | Alternative starting doses                                                                                                                                                                                                                                                    | Alternative starting doses                                                                                                                                                                                                                                                    | Alternative starting doses      |
+| Patient population                                                                                                                                                                                                                                                            | Patient population                                                                                                                                                                                                                                                            | Patient population                                                                                                                                                                                                                                                            | Alternative starting dose       |
+| Patients who do not require reduction of body iron levels and who are also receiving <7 ml/kg/month of PRBC (approx. <2 units/month for an adult). The patient's response must be monitored, and a dose increase should be considered if sufficient efficacy is not obtained. | Patients who do not require reduction of body iron levels and who are also receiving <7 ml/kg/month of PRBC (approx. <2 units/month for an adult). The patient's response must be monitored, and a dose increase should be considered if sufficient efficacy is not obtained. | Patients who do not require reduction of body iron levels and who are also receiving <7 ml/kg/month of PRBC (approx. <2 units/month for an adult). The patient's response must be monitored, and a dose increase should be considered if sufficient efficacy is not obtained. | 7 mg/kg/day                     |
+| Patients who require reduction of elevated body iron levels and who are also receiving >14 ml/kg/month of PRBC (approx. >4 units/month for an adult).                                                                                                                         | Patients who require reduction of elevated body iron levels and who are also receiving >14 ml/kg/month of PRBC (approx. >4 units/month for an adult).                                                                                                                         | Patients who require reduction of elevated body iron levels and who are also receiving >14 ml/kg/month of PRBC (approx. >4 units/month for an adult).                                                                                                                         | 21 mg/kg/day                    |
+| Patients who are well managed on deferoxamine.                                                                                                                                                                                                                                | Patients who are well managed on deferoxamine.                                                                                                                                                                                                                                | Patients who are well managed on deferoxamine.                                                                                                                                                                                                                                | One third of deferoxamine dose* |
+
+*A starting dose that is numerically one third that of the deferoxamine dose (e.g. a patient receiving 40 mg/kg/day of deferoxamine for 5 days per week [or equivalent] could be transferred to a starting daily dose of 14 mg/kg/day of EXJADE film-coated tablets). When this results in a daily dose of &lt;14 mg/kg, the patient's response must be monitored and a dose increase should be considered if sufficient efficacy is not obtained (see section 5.1).
+
+<div style=\"page-break-after: always\"></div>
 
 ## Dose adjustment
 
@@ -124,14 +116,12 @@ It is recommended that serum ferritin be monitored every month and that the dose
 
 Table 2 Recommended dose adjustments for transfusional iron overload
 
-| Serum ferritin (monthly monitoring)                                        | Recommended dose adjustment                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               |
-|----------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Persistently >2 500 µg/l and not showing a decreasing trend over time      | Increase dose every 3 to 6 months in steps of 3.5 to 7 mg/kg/day. The maximum allowed dose is 28 mg/kg/day. If only very poor haemosiderosis control is achieved at doses up to 21 mg/kg/day, a further increase (to a maximum of 28 mg/kg/day) may not achieve satisfactory control, and alternative treatment options may be considered. If no satisfactory control is achieved at doses above 21 mg/kg/day, treatment at such doses should not be maintained and alternative treatment options should be considered whenever possible. |
-| >1 000 µg/l but persistently ≤2 500 µg/l with a decreasing trend over time | Decrease dose every 3 to 6 months in steps of 3.5 to 7 mg/kg/day in patients treated with doses >21 mg/kg/day, until the target of 500 to 1 000 µg/l is reached.                                                                                                                                                                                                                                                                                                                                                                          |
-| 500 to 1 000 µg/l (target range)                                           | Decrease dose in steps of 3.5 to 7 mg/kg/day every 3 to 6 months to maintain serum ferritin levels within the target range and to minimise the risk of overchelation.                                                                                                                                                                                                                                                                                                                                                                     |
-| Consistently <500 µg/l                                                     | Consider interruption of treatment (see section 4.4).                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     |
-
-<div style=\"page-break-after: always\"></div>
+| Serum ferritin (monthly monitoring)                                         | Recommended dose adjustment                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               |
+|-----------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Persistently >2 500 µg/l and not showing a decreasing trend over time       | Increase dose every 3 to 6 months in steps of 3.5 to 7 mg/kg/day. The maximum allowed dose is 28 mg/kg/day. If only very poor haemosiderosis control is achieved at doses up to 21 mg/kg/day, a further increase (to a maximum of 28 mg/kg/day) may not achieve satisfactory control, and alternative treatment options may be considered. If no satisfactory control is achieved at doses above 21 mg/kg/day, treatment at such doses should not be maintained and alternative treatment options should be considered whenever possible. |
+| >1 000 µg/l but persistently ≤ 2 500 µg/l with a decreasing trend over time | Decrease dose every 3 to 6 months in steps of 3.5 to 7 mg/kg/day in patients treated with doses >21 mg/kg/day, until the target of 500 to 1 000 µg/l is reached.                                                                                                                                                                                                                                                                                                                                                                          |
+| 500 to 1 000 µg/l (target range)                                            | Decrease dose in steps of 3.5 to 7 mg/kg/day every 3 to 6 months to maintain serum ferritin levels within the target range and to minimise the risk of overchelation.                                                                                                                                                                                                                                                                                                                                                                     |
+| Consistently <500 µg/l                                                      | Consider interruption of treatment (see section 4.4).                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     |
 
 The availability of long-term efficacy and safety data from clinical studies conducted with EXJADE dispersible tablets used at doses above 30 mg/kg (equivalent to 21 mg/kg when given as film-coated tablets) is currently limited (264 patients followed for an average of 1 year after dose escalation). Doses above 28 mg/kg/day are not recommended because there is only limited experience with doses above this level (see section 5.1).
 
@@ -144,6 +134,8 @@ In the EU, medicines containing deferasirox are available as film-coated tablets
 ## Starting dose
 
 The recommended initial daily dose of EXJADE film-coated tablets in patients with non-transfusiondependent thalassaemia syndromes is 7 mg/kg body weight/day.
+
+<div style=\"page-break-after: always\"></div>
 
 ## Dose adjustment
 
@@ -158,7 +150,7 @@ Table 3 Recommended dose adjustments for non-transfusion-dependent thalassaemia 
 | <300 µg/l                                                                                                                                                                              | or                                                                                                                                                                                     | <3 mg Fe/g dw                                                                                                                                                                          | Treatment should be stopped once a satisfactory body iron level has been achieved.                                                                                                                                                                                                                                                                                                                         |
 | There are no data available on the retreatment of patients who reaccumulate iron after having achieved a satisfactory body iron level and therefore retreatment cannot be recommended. | There are no data available on the retreatment of patients who reaccumulate iron after having achieved a satisfactory body iron level and therefore retreatment cannot be recommended. | There are no data available on the retreatment of patients who reaccumulate iron after having achieved a satisfactory body iron level and therefore retreatment cannot be recommended. | There are no data available on the retreatment of patients who reaccumulate iron after having achieved a satisfactory body iron level and therefore retreatment cannot be recommended.                                                                                                                                                                                                                     |
 
-<div style=\"page-break-after: always\"></div>
+*LIC is the preferred method of iron overload determination.
 
 In both paediatric and adult patients in whom LIC was not assessed and serum ferritin is ≤2 000 µg/l, dosing of EXJADE film-coated tablets should not exceed 7 mg/kg/day.
 
@@ -175,6 +167,8 @@ The dosing recommendations for elderly patients are the same as described above.
 The dosing recommendations for paediatric patients aged 2 to 17 years with transfusional iron overload are the same as for adult patients (see section 4.2). It is recommended that serum ferritin be monitored every month to assess the patient's response to therapy and to minimise the risk of overchelation (see section 4.4). Changes in weight of paediatric patients over time must be taken into account when calculating the dose.
 
 In children with transfusional iron overload aged between 2 and 5 years, exposure is lower than in adults (see section 5.2). This age group may therefore require higher doses than are necessary in adults. However, the initial dose should be the same as in adults, followed by individual titration.
+
+<div style=\"page-break-after: always\"></div>
 
 ## Non-transfusion-dependent thalassaemia syndromes:
 
@@ -200,8 +194,6 @@ The film-coated tablets should be swallowed whole with some water. For patients 
 
 The film-coated tablets should be taken once a day, preferably at the same time each day, and may be taken on an empty stomach or with a light meal (see sections 4.5 and 5.2).
 
-<div style=\"page-break-after: always\"></div>
-
 ## 4.3 Contraindications
 
 Hypersensitivity to the active substance or to any of the excipients listed in section 6.1.
@@ -216,7 +208,9 @@ Patients with estimated creatinine clearance &lt;60 ml/min.
 
 Deferasirox has been studied only in patients with baseline serum creatinine within the ageappropriate normal range.
 
-During clinical studies, increases in serum creatinine of &gt;33% on ≥2 consecutive occasions, sometimes above the upper limit of the normal range, occurred in about 36% of patients. These were dose-dependent. About two-thirds of the patients showing serum creatinine increase returned below the 33% level without dose adjustment. In the remaining third the serum creatinine increase did not always respond to a dose reduction or a dose interruption. In some cases, only a stabilisation of the serum creatinine values has been observed after dose reduction. Cases of acute renal failure have been reported following post-marketing use of deferasirox (see section 4.8). In some post-marketing cases, renal function deterioration has led to renal failure requiring temporary or permanent dialysis.
+During clinical studies , increases in serum creatinine of &gt;33% on ≥2 consecutive occasions, sometimes above the upper limit of the normal range, occurred in about 36% of patients. These were dose-dependent. About two-thirds of the patients showing serum creatinine increase returned below the 33% level without dose adjustment. In the remaining third the serum creatinine increase did not always respond to a dose reduction or a dose interruption. In some cases, only a stabilisation of the serum creatinine values has been observed after dose reduction. Cases of acute renal failure have been reported following post-marketing use of deferasirox (see section 4.8). In some post-marketing cases, renal function deterioration has led to renal failure requiring temporary or permanent dialysis.
+
+<div style=\"page-break-after: always\"></div>
 
 The causes of the rises in serum creatinine have not been elucidated. Particular attention should therefore be paid to monitoring of serum creatinine in patients who are concomitantly receiving medicinal products that depress renal function, and in patients who are receiving high doses of deferasirox and/or low rates of transfusion (&lt;7 ml/kg/month of packed red blood cells or &lt;2 units/month for an adult). While no increase in renal adverse events was observed after dose escalation of EXJADE dispersible tablets to doses above 30 mg/kg in clinical studies, an increased risk of renal adverse events with film-coated tablet doses above 21 mg/kg cannot be excluded.
 
@@ -234,10 +228,11 @@ Table 4 Dose adjustment and interruption of treatment for renal monitoring
 |----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Before initiation of therapy                                                                                                                                                           | Twice (2x)                                                                                                                                                                             | and                                                                                                                                                                                    | Once (1x)                                                                                                                                                                              |
 | Contraindicated                                                                                                                                                                        |                                                                                                                                                                                        |                                                                                                                                                                                        | <60 ml/min                                                                                                                                                                             |
-| Monitoring - First month after start of therapy or dose modification (including switch of formulation) - Thereafter                                                                    | Weekly                                                                                                                                                                                 | and                                                                                                                                                                                    | Weekly                                                                                                                                                                                 |
-|                                                                                                                                                                                        | Monthly                                                                                                                                                                                | and                                                                                                                                                                                    | Monthly                                                                                                                                                                                |
+| Monitoring - First month after start of therapy or dose modification (including switch of formulation)                                                                                 | Weekly                                                                                                                                                                                 | and                                                                                                                                                                                    | Weekly                                                                                                                                                                                 |
+| - Thereafter                                                                                                                                                                           | Monthly                                                                                                                                                                                | and                                                                                                                                                                                    | Monthly                                                                                                                                                                                |
 | Reduction of daily dose by 7 mg/kg/day (film-coated tablet formulation), if following renal parameters are observed at two consecutive visits and cannot be attributed to other causes | Reduction of daily dose by 7 mg/kg/day (film-coated tablet formulation), if following renal parameters are observed at two consecutive visits and cannot be attributed to other causes | Reduction of daily dose by 7 mg/kg/day (film-coated tablet formulation), if following renal parameters are observed at two consecutive visits and cannot be attributed to other causes | Reduction of daily dose by 7 mg/kg/day (film-coated tablet formulation), if following renal parameters are observed at two consecutive visits and cannot be attributed to other causes |
-| Adult patients Paediatric patients                                                                                                                                                     | >33% above pre- treatment average > age appropriate ULN**                                                                                                                              | and and/or                                                                                                                                                                             | Decreases <LLN* (<90 ml/min) Decreases <LLN* (<90 ml/min)                                                                                                                              |
+| Adult patients                                                                                                                                                                         | >33% above pre- treatment average                                                                                                                                                      | and                                                                                                                                                                                    | Decreases <LLN* (<90 ml/min) Decreases <LLN*                                                                                                                                           |
+| Paediatric patients                                                                                                                                                                    | > age appropriate ULN**                                                                                                                                                                | and/or                                                                                                                                                                                 | (<90 ml/min)                                                                                                                                                                           |
 | After dose reduction, interrupt treatment, if                                                                                                                                          | After dose reduction, interrupt treatment, if                                                                                                                                          | After dose reduction, interrupt treatment, if                                                                                                                                          | After dose reduction, interrupt treatment, if                                                                                                                                          |
 | Adult and paediatric                                                                                                                                                                   | Remains >33% above pre-treatment average                                                                                                                                               | and/or                                                                                                                                                                                 | Decreases <LLN* (<90 ml/min)                                                                                                                                                           |
 | *LLN: lower limit of the normal range **ULN: upper limit of the normal range                                                                                                           | *LLN: lower limit of the normal range **ULN: upper limit of the normal range                                                                                                           | *LLN: lower limit of the normal range **ULN: upper limit of the normal range                                                                                                           | *LLN: lower limit of the normal range **ULN: upper limit of the normal range                                                                                                           |
@@ -284,11 +279,13 @@ Caution should be used in elderly patients due to a higher frequency of adverse 
 
 Data in children with non-transfusion-dependent thalassaemia are very limited (see section 5.1). As a consequence, EXJADE therapy should be closely monitored to detect adverse reactions and to follow iron burden in the paediatric population. In addition, before treating heavily iron-overloaded children with non-transfusion-dependent thalassaemia with EXJADE, the physician should be aware that the consequences of long-term exposure in such patients are currently not known.
 
-<div style=\"page-break-after: always\"></div>
-
 ## Gastrointestinal disorders
 
-Upper gastrointestinal ulceration and haemorrhage have been reported in patients, including children and adolescents, receiving deferasirox. Multiple ulcers have been observed in some patients (see section 4.8). There have been reports of ulcers complicated with digestive perforation. Also, there have been reports of fatal gastrointestinal haemorrhages, especially in elderly patients who had haematological malignancies and/or low platelet counts. Physicians and patients should remain alert for signs and symptoms of gastrointestinal ulceration and haemorrhage during EXJADE therapy. In case of gastrointestinal ulceration or haemorrhage, EXJADE should be discontinued and additional evaluation and treatment must be promptly initiated. Caution should be exercised in patients who are taking EXJADE in combination with substances that have known ulcerogenic potential, such as NSAIDs, corticosteroids, or oral bisphosphonates, in patients receiving anticoagulants and in patients with platelet counts below 50 000/mm 3 (50 x 10 9 /l) (see section 4.5).
+Upper gastrointestinal ulceration and haemorrhage have been reported in patients, including children and adolescents, receiving deferasirox. Multiple ulcers have been observed in some patients (see
+
+<div style=\"page-break-after: always\"></div>
+
+section 4.8). There have been reports of ulcers complicated with digestive perforation. Also, there have been reports of fatal gastrointestinal haemorrhages, especially in elderly patients who had haematological malignancies and/or low platelet counts. Physicians and patients should remain alert for signs and symptoms of gastrointestinal ulceration and haemorrhage during EXJADE therapy. In case of gastrointestinal ulceration or haemorrhage, EXJADE should be discontinued and additional evaluation and treatment must be promptly initiated. Caution should be exercised in patients who are taking EXJADE in combination with substances that have known ulcerogenic potential, such as NSAIDs, corticosteroids, or oral bisphosphonates, in patients receiving anticoagulants and in patients with platelet counts below 50 000/mm 3 (50 x 10 9 /l) (see section 4.5).
 
 ## Skin disorders
 
@@ -312,9 +309,9 @@ Monthly monitoring of serum ferritin is recommended in order to assess the patie
 
 The results of the tests for serum creatinine, serum ferritin and serum transaminases should be recorded and regularly assessed for trends.
 
-<div style=\"page-break-after: always\"></div>
+In three clinical studies, growth and sexual development of paediatric patients treated with deferasirox for up to 5 years were not affected (see section 4.8). However, as a general precautionary measure in the management of paediatric patients with transfusional iron overload, body weight, height and sexual development should be monitored prior to therapy and at regular intervals (every 12 months).
 
-In two clinical studies, growth and sexual development of paediatric patients treated with deferasirox for up to 5 years were not affected (see section 4.8). However, as a general precautionary measure in the management of paediatric patients with transfusional iron overload, body weight, height and sexual development should be monitored prior to therapy and at regular intervals (every 12 months).
+<div style=\"page-break-after: always\"></div>
 
 Cardiac dysfunction is a known complication of severe iron overload. Cardiac function should be monitored in patients with severe iron overload during long-term treatment with EXJADE.
 
@@ -332,7 +329,7 @@ The Cmax of deferasirox film-coated tablets was increased (by 29%) when taken wi
 
 ## Agents that may decrease EXJADE systemic exposure
 
-Deferasirox metabolism depends on UGT enzymes. In a healthy volunteer study, the concomitant administration of deferasirox (single dose of 30 mg/kg, dispersible tablet formulation) and the potent UGT inducer, rifampicin, (repeated dose of 600 mg/day) resulted in a decrease of deferasirox exposure by 44% (90% CI: 37% - 51%). Therefore, the concomitant use of EXJADE with potent UGT inducers (e.g. rifampicin, carbamazepine, phenytoin, phenobarbital, ritonavir) may result in a decrease in EXJADE efficacy. The patient's serum ferritin should be monitored during and after the combination, and the dose of EXJADE adjusted if necessary.
+Deferasirox metabolism depends on UGT enzymes. In a healthy volunteer study, the concomitant administration of deferasirox (single dose of 30 mg/kg, dispersible tablet formulation) and the potent UGT inducer, rifampicin, (repeated dose of 600 mg/day) resulted in a decrease of deferasirox exposure by 44% (90% CI: 37% - 51%). Therefore, the concomitant use of EXJADE with potent UGT inducers (e.g. rifampicin, carbamazepine, phenytoin, phenobarbital, ritonavir) may result in a decrease in EXJADE efficacy. The patient's serum ferritin should be monitored during and after th e combination, and the dose of EXJADE adjusted if necessary.
 
 Cholestyramine significantly reduced the deferasirox exposure in a mechanistic study to determine the degree of enterohepatic recycling (see section 5.2).
 
@@ -344,11 +341,13 @@ In a healthy volunteer study, the concomitant administration of deferasirox disp
 
 In a healthy volunteer study, the concomitant administration of deferasirox as a moderate CYP2C8 inhibitor (30 mg/kg daily, dispersible tablet formulation), with repaglinide, a CYP2C8 substrate, given as a single dose of 0.5 mg, increased repaglinide AUC and Cmax about 2.3-fold (90% CI [2.03-2.63]) and 1.6-fold (90% CI [1.42-1.84]), respectively. Since the interaction has not been established with dosages higher than 0.5 mg for repaglinide, the concomitant use of deferasirox with repaglinide should be avoided. If the combination appears necessary, careful clinical and blood glucose monitoring should be performed (see section 4.4). An interaction between deferasirox and other CYP2C8 substrates like paclitaxel cannot be excluded.
 
-<div style=\"page-break-after: always\"></div>
-
 ## Interaction with theophylline and other agents metabolised by CYP1A2
 
-In a healthy volunteer study, the concomitant administration of deferasirox as a CYP1A2 inhibitor (repeated dose of 30 mg/kg/day, dispersible tablet formulation) and the CYP1A2 substrate theophylline (single dose of 120 mg) resulted in an increase of theophylline AUC by 84% (90% CI: 73% to 95%). The single dose Cmax was not affected, but an increase of theophylline Cmax is expected to occur with chronic dosing. Therefore, the concomitant use of deferasirox with theophylline is not recommended. If deferasirox and theophylline are used concomitantly, monitoring of theophylline concentration and theophylline dose reduction should be considered. An interaction between deferasirox and other CYP1A2 substrates cannot be excluded. For substances that are predominantly metabolised by CYP1A2 and that have a narrow therapeutic index (e.g. clozapine, tizanidine), the same recommendations apply as for theophylline.
+In a healthy volunteer study, the concomitant administration of deferasirox as a CYP1A2 inhibitor (repeated dose of 30 mg/kg/day, dispersible tablet formulation) and the CYP1A2 substrate theophylline (single dose of 120 mg) resulted in an increase of theophylline AUC by 84% (90% CI: 73% to 95%). The single dose Cmax was not affected, but an increase of theophylline Cmax is expected to occur with chronic dosing. Therefore, the concomitant use of deferasirox with theophylline is not recommended. If deferasirox and theophylline are used concomitantly, monitoring of theophylline concentration and theophylline dose reduction should be considered. An interaction between
+
+<div style=\"page-break-after: always\"></div>
+
+deferasirox and other CYP1A2 substrates cannot be excluded. For substances that are predominantly metabolised by CYP1A2 and that have a narrow therapeutic index (e.g. clozapine, tizanidine), the same recommendations apply as for theophylline.
 
 ## Other information
 
@@ -380,13 +379,15 @@ No fertility data is available for humans. In animals, no adverse effects on mal
 
 EXJADE has minor influence on the ability to drive and use machines. Patients experiencing the uncommon adverse reaction of dizziness should exercise caution when driving or operating machines (see section 4.8).
 
-<div style=\"page-break-after: always\"></div>
-
 ## 4.8 Undesirable effects
 
 ## Summary of the safety profile
 
-The most frequent reactions reported during chronic treatment in clinical studies conducted with deferasirox dispersible tablets in adult and paediatric patients include gastrointestinal disturbances (mainly nausea, vomiting, diarrhoea or abdominal pain) and skin rash. Diarrhoea is reported more commonly in paediatric patients aged 2 to 5 years and in the elderly. These reactions are dosedependent, mostly mild to moderate, generally transient and mostly resolve even if treatment is continued.
+The most frequent reactions reported during chronic treatment in clinical studies conducted with deferasirox dispersible tablets in adult and paediatric patients include gastrointestinal disturbances (mainly nausea, vomiting, diarrhoea or abdominal pain) and skin rash. Diarrhoea is reported more commonly in paediatric patients aged 2 to 5 years and in the elderly. These reactions are dose-
+
+<div style=\"page-break-after: always\"></div>
+
+dependent, mostly mild to moderate, generally transient and mostly resolve even if treatment is continued.
 
 During clinical studies dose-dependent increases in serum creatinine occurred in about 36% of patients, though most remained within the normal range. Decreases in mean creatinine clearance have been observed in both paediatric and adult patients with beta-thalassemia and iron overload during the first year of treatment, but there is evidence that this does not decrease further in subsequent years of treatment. Elevations of liver transaminases have been reported. Safety monitoring schedules for renal and liver parameters are recommended. Auditory (decreased hearing) and ocular (lens opacities) disturbances are uncommon, and yearly examinations are also recommended (see section 4.4).
 
@@ -398,54 +399,84 @@ Adverse reactions are ranked below using the following convention: very common (
 
 Table 6
 
-| Blood and lymphatic system disorders            | Blood and lymphatic system disorders                                           |
-|-------------------------------------------------|--------------------------------------------------------------------------------|
-| Not known:                                      | Pancytopenia 1 , thrombocytopenia 1 , anaemia aggravated 1 , neutropenia 1     |
-| Immune system disorders                         | Immune system disorders                                                        |
-| Not known:                                      | Hypersensitivity reactions (including anaphylactic reactions and angioedema) 1 |
-| Metabolism and nutrition disorders              | Metabolism and nutrition disorders                                             |
-| Not known:                                      | Metabolic acidosis 1                                                           |
-| Psychiatric disorders                           | Psychiatric disorders                                                          |
-| Uncommon:                                       | Anxiety, sleep disorder                                                        |
-| Nervous system disorders                        | Nervous system disorders                                                       |
-| Common:                                         | Headache                                                                       |
-| Uncommon:                                       | Dizziness                                                                      |
-| Eye disorders                                   | Eye disorders                                                                  |
-| Uncommon:                                       | Cataract, maculopathy                                                          |
-| Rare:                                           | Optic neuritis                                                                 |
-| Ear and labyrinth disorders                     | Ear and labyrinth disorders                                                    |
-| Uncommon:                                       | Deafness                                                                       |
-| Respiratory, thoracic and mediastinal disorders | Respiratory, thoracic and mediastinal disorders                                |
-| Uncommon:                                       | Laryngeal pain                                                                 |
+| Blood and lymphatic system disorders            | Blood and lymphatic system disorders                                                               |
+|-------------------------------------------------|----------------------------------------------------------------------------------------------------|
+| Not known:                                      | Pancytopenia 1 , thrombocytopenia 1 , anaemia aggravated 1 , neutropenia 1                         |
+| Immune system disorders                         | Immune system disorders                                                                            |
+| Not known:                                      | Hypersensitivity reactions (including anaphylactic reactions and angioedema) 1                     |
+| Metabolism and nutrition disorders              | Metabolism and nutrition disorders                                                                 |
+| Not known:                                      | Metabolic acidosis 1                                                                               |
+| Psychiatric disorders                           | Psychiatric disorders                                                                              |
+| Uncommon:                                       | Anxiety, sleep disorder                                                                            |
+| Nervous system disorders                        | Nervous system disorders                                                                           |
+| Common:                                         | Headache                                                                                           |
+| Uncommon:                                       | Dizziness                                                                                          |
+| Eye disorders                                   | Eye disorders                                                                                      |
+| Uncommon:                                       | Cataract, maculopathy                                                                              |
+| Rare:                                           | Optic neuritis                                                                                     |
+| Ear and labyrinth disorders                     | Ear and labyrinth disorders                                                                        |
+| Uncommon:                                       | Deafness                                                                                           |
+| Respiratory, thoracic and mediastinal disorders | Respiratory, thoracic and mediastinal disorders                                                    |
+| Uncommon:                                       | Laryngeal pain                                                                                     |
+| Gastrointestinal disorders                      | Gastrointestinal disorders                                                                         |
+| Common:                                         | Diarrhoea, constipation, vomiting, nausea, abdominal pain, abdominal distension, dyspepsia         |
+| Uncommon:                                       | Gastrointestinal haemorrhage, gastric ulcer (including multiple ulcers), duodenal ulcer, gastritis |
+| Rare:                                           | Oesophagitis                                                                                       |
+| Not known:                                      | Gastrointestinal perforation 1 , acute pancreatitis 1                                              |
+| Hepatobiliary disorders                         | Hepatobiliary disorders                                                                            |
+| Common:                                         | Transaminases increased                                                                            |
+| Uncommon:                                       | Hepatitis, cholelithiasis                                                                          |
+| Not known:                                      | Hepatic failure 1, 2                                                                               |
 
 <div style=\"page-break-after: always\"></div>
 
-| Gastrointestinal disorders                           | Gastrointestinal disorders                                                                                                                         |
-|------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------|
-| Common:                                              | Diarrhoea, constipation, vomiting, nausea, abdominal pain, abdominal distension, dyspepsia                                                         |
-| Uncommon:                                            | Gastrointestinal haemorrhage, gastric ulcer (including multiple ulcers), duodenal ulcer, gastritis                                                 |
-| Rare:                                                | Oesophagitis                                                                                                                                       |
-| Not known:                                           | Gastrointestinal perforation 1 , acute pancreatitis 1                                                                                              |
-| Hepatobiliary disorders                              | Hepatobiliary disorders                                                                                                                            |
-| Common:                                              | Transaminases increased                                                                                                                            |
-| Uncommon:                                            | Hepatitis, cholelithiasis                                                                                                                          |
-| Not known:                                           | Hepatic failure 1, 2                                                                                                                               |
-| Skin and subcutaneous tissue disorders               | Skin and subcutaneous tissue disorders                                                                                                             |
-| Common:                                              | Rash, pruritus                                                                                                                                     |
-| Uncommon:                                            | Pigmentation disorder                                                                                                                              |
-| Rare:                                                | Drug reaction with eosinophilia and systemic symptoms (DRESS)                                                                                      |
-| Not known:                                           | Stevens-Johnson syndrome 1 , hypersensitivity vasculitis 1 , urticaria 1 , erythema multiforme 1 , alopecia 1 , toxic epidermal necrolysis (TEN) 1 |
-| Renal and urinary disorders                          | Renal and urinary disorders                                                                                                                        |
-| Very common:                                         | Blood creatinine increased                                                                                                                         |
-| Common:                                              | Proteinuria                                                                                                                                        |
-| Uncommon:                                            | Renal tubular disorder 2 (acquired Fanconi syndrome), glycosuria                                                                                   |
-| Not known:                                           | Acute renal failure 1, 2 , tubulointerstitial nephritis 1 , nephrolithiasis 1 , renal tubular necrosis 1                                           |
-| General disorders and administration site conditions | General disorders and administration site conditions                                                                                               |
-| Uncommon:                                            | Pyrexia, oedema, fatigue                                                                                                                           |
+## Skin and subcutaneous tissue disorders
+
+Common:
+
+Uncommon:
+
+Rare:
+
+Not known:
+
+Rash, pruritus
+
+Pigmentation disorder
+
+Drug reaction with eosinophilia and systemic symptoms (DRESS) Stevens-Johnson syndrome 1 , hypersensitivity vasculitis 1 , urticaria 1
+
+,
+
+erythema multiforme 1 , alopecia 1 , toxic epidermal necrolysis (TEN) 1
+
+## Renal and urinary disorders
+
+Very common:
+
+Blood creatinine increased
+
+Common:
+
+Proteinuria
+
+Uncommon:
+
+Renal tubular disorder 2 (acquired Fanconi syndrome), glycosuria Acute renal failure 1, 2 , tubulointerstitial nephritis 1 , nephrolithiasis 1 1
+
+Not known:
+
+, renal tubular necrosis
+
+## General disorders and administration site conditions
+
+Uncommon:
+
+Pyrexia, oedema, fatigue
 
 1 Adverse reactions reported during post-marketing experience. These are derived from spontaneous reports for which it is not always possible to reliably establish frequency or a causal relationship to exposure to the medicinal product.
 
-2 Severe forms associated with changes in consciousness in the context of hyperammonaemic encephalopathy have been reported.
+- 2 Severe forms associated with changes in consciousness in the context of hyperammonaemic encephalopathy have been reported.
 
 ## Description of selected adverse reactions
 
@@ -455,17 +486,19 @@ Gallstones and related biliary disorders were reported in about 2% of patients. 
 
 In a retrospective meta-analysis of 2 102 adult and paediatric beta-thalassaemia patients with transfusional iron overload treated with deferasirox dispersible tablets in two randomised and four open label studies of up to five years' duration, a mean creatinine clearance decrease of 13.2% in adult patients (95% CI: -14.4% to -12.1%; n=935) and 9.9% (95% CI: -11.1% to -8.6%; n=1 142) in paediatric patients was observed during the first year of treatment. In 250 patients who were followed for up to five years, no further decrease in mean creatinine clearance levels was observed.
 
-<div style=\"page-break-after: always\"></div>
+## Clinical study in patients with non-transfusion-dependent thalassaemia syndromes
 
-Clinical study in patients with non-transfusion-dependent thalassaemia syndromes In a 1-year study in patients with non-transfusion-dependent thalassaemia syndromes and iron overload (dispersible tablets at a dose of 10 mg/kg/day), diarrhoea (9.1%), rash (9.1%), and nausea (7.3%) were the most frequent study drug-related adverse events. Abnormal serum creatinine and creatinine clearance values were reported in 5.5% and 1.8% of patients, respectively. Elevations of liver transaminases greater than 2 times the baseline and 5 times the upper limit of normal were reported in 1.8% of patients.
+In a 1-year study in patients with non-transfusion-dependent thalassaemia syndromes and iron overload (dispersible tablets at a dose of 10 mg/kg/day), diarrhoea (9.1%), rash (9.1%), and nausea (7.3%) were the most frequent study drug-related adverse events. Abnormal serum creatinine and creatinine clearance values were reported in 5.5% and 1.8% of patients, respectively. Elevations of liver transaminases greater than 2 times the baseline and 5 times the upper limit of normal were reported in 1.8% of patients.
 
 ## Paediatric population
 
-In two clinical studies, growth and sexual development of paediatric patients treated with deferasirox for up to 5 years were not affected (see section 4.4).
+In three clinical studies, growth and sexual development of paediatric patients treated with deferasirox for up to 5 years were not affected (see section 4.4).
 
 Diarrhoea is reported more commonly in paediatric patients aged 2 to 5 years than in older patients.
 
 Renal tubulopathy has been mainly reported in children and adolescents with beta-thalassaemia treated with deferasirox. In post-marketing reports, a high proportion of cases of metabolic acidosis occurred in children in the context of Fanconi syndrome.
+
+<div style=\"page-break-after: always\"></div>
 
 Acute pancreatitis has been reported, particularly in children and adolescents.
 
@@ -493,17 +526,19 @@ Deferasirox is an orally active chelator that is highly selective for iron (III)
 
 In an iron-balance metabolic study in iron-overloaded adult thalassaemic patients, deferasirox at daily doses of 10, 20 and 40 mg/kg (dispersible tablet formulation) induced the mean net excretion of 0.119, 0.329 and 0.445 mg Fe/kg body weight/day, respectively.
 
-<div style=\"page-break-after: always\"></div>
-
 ## Clinical efficacy and safety
 
-Clinical efficacy studies were conducted with EXJADE dispersible tablets (referred to below as 'deferasirox'). Compared to the deferasirox dispersible tablet formulation, the dose of the deferasirox film-coated tablets is 30% lower than the dose of the deferasirox dispersible tablets, rounded to the nearest whole tablet (see section 5.2).
+Clinical efficacy studies were conducted with EXJADE dispersible tablets (referred to below as 'deferasirox') . Compared to the deferasirox dispersible tablet formulation, the dose of the deferasirox film-coated tablets is 30% lower than the dose of the deferasirox dispersible tablets, rounded to the nearest whole tablet (see section 5.2).
 
 Deferasirox has been investigated in 411 adult (age  16 years) and 292 paediatric patients (aged 2 to &lt;16 years) with chronic iron overload due to blood transfusions. Of the paediatric patients 52 were aged 2 to 5 years. The underlying conditions requiring transfusion included beta-thalassaemia, sickle cell disease and other congenital and acquired anaemias (myelodysplastic syndromes [MDS], Diamond-Blackfan syndrome, aplastic anaemia and other very rare anaemias).
 
-Daily treatment with the deferasirox dispersible tablet formulation at doses of 20 and 30 mg/kg for one year in frequently transfused adult and paediatric patients with beta-thalassaemia led to reductions in indicators of total body iron; liver iron concentration was reduced by about -0.4 and -8.9 mg Fe/g liver (biopsy dry weight (dw)) on average, respectively, and serum ferritin was reduced by about -36 and -926 µg/l on average, respectively. At these same doses the ratios of iron excretion: iron intake were 1.02 (indicating net iron balance) and 1.67 (indicating net iron removal), respectively. Deferasirox induced similar responses in iron-overloaded patients with other anaemias. Daily doses of 10 mg/kg (dispersible tablet formulation) for one year could maintain liver iron and serum ferritin levels and induce net iron balance in patients receiving infrequent transfusions or exchange transfusions. Serum ferritin assessed by monthly monitoring reflected changes in liver iron concentration indicating that trends in serum ferritin can be used to monitor response to therapy. Limited clinical data (29 patients with normal cardiac function at baseline) using MRI indicate that treatment with deferasirox 1030 mg/kg/day (dispersible tablet formulation) for 1 year may also reduce levels of iron in the heart (on average, MRI T2* increased from 18.3 to 23.0 milliseconds).
+Daily treatment with the deferasirox dispersible tablet formulation at doses of 20 and 30 mg/kg for one year in frequently transfused adult and paediatric patients with beta-thalassaemia led to reductions in indicators of total body iron; liver iron concentration was reduced by about -0.4 and -8.9 mg Fe/g liver (biopsy dry weight (dw)) on average, respectively, and serum ferritin was reduced by about -36 and -926 µg/l on average, respectively. At these same doses the ratios of iron excretion: iron intake were 1.02 (indicating net iron balance) and 1.67 (indicating net iron removal), respectively. Deferasirox induced similar responses in iron-overloaded patients with other anaemias. Daily doses of 10 mg/kg (dispersible tablet formulation) for one year could maintain liver iron and serum ferritin levels and
 
-The principal analysis of the pivotal comparative study in 586 patients suffering from betathalassaemia and transfusional iron overload did not demonstrate non-inferiority of deferasirox dispersible tablets to deferoxamine in the analysis of the total patient population. It appeared from a post-hoc analysis of this study that, in the subgroup of patients with liver iron concentration ≥7 mg Fe/g dw treated with deferasirox dispersible tablets (20 and 30 mg/kg) or deferoxamine (35 to ≥50 mg/kg), the non-inferiority criteria were achieved. However, in patients with liver iron concentration &lt;7 mg Fe/g dw treated with deferasirox dispersible tablets (5 and 10 mg/kg) or deferoxamine (20 to 35 mg/kg), non-inferiority was not established due to imbalance in the dosing of the two chelators. This imbalance occurred because patients on deferoxamine were allowed to remain on their pre-study dose even if it was higher than the protocol specified dose. Fifty-six patients under the age of 6 years participated in this pivotal study, 28 of them receiving deferasirox dispersible tablets.
+<div style=\"page-break-after: always\"></div>
+
+induce net iron balance in patients receiving infrequent transfusions or exchange transfusions. Serum ferritin assessed by monthly monitoring reflected changes in liver iron concentration indicating that trends in serum ferritin can be used to monitor response to therapy. Limited clinical data (29 patients with normal cardiac function at baseline) using MRI indicate that treatment with deferasirox 1030 mg/kg/day (dispersible tablet formulation) for 1 year may also reduce levels of iron in the heart (on average, MRI T2* increased from 18.3 to 23.0 milliseconds).
+
+The principal analysis of the pivotal comparative study in 586 patients suffering from betathalassaemia and transfusional iron overload did not demonstrate non-inferiority of deferasirox dispersible tablets to deferoxamine in the analysis of the total patient population. It appeared from a posthoc analysis of this study that, in the subgroup of patients with liver iron concentration ≥7 mg Fe/g dw treated with deferasirox dispersible tablets (20 and 30 mg/kg) or deferoxamine (35 to ≥50 mg/kg), the non-inferiority criteria were achieved. However, in patients with liver iron concentration &lt;7 mg Fe/g dw treated with deferasirox dispersible tablets (5 and 10 mg/kg) or deferoxamine (20 to 35 mg/kg), non-inferiority was not established due to imbalance in the dosing of the two chelators. This imbalance occurred because patients on deferoxamine were allowed to remain on their pre-study dose even if it was higher than the protocol specified dose. Fifty-six patients under the age of 6 years participated in this pivotal study, 28 of them receiving deferasirox dispersible tablets.
 
 It appeared from preclinical and clinical studies that deferasirox dispersible tablets could be as active as deferoxamine when used in a dose ratio of 2:1 (i.e. a dose of deferasirox dispersible tablets that is numerically half of the deferoxamine dose). For deferasirox film-coated tablets, a dose ratio of 3:1 can be considered (i.e. a dose of deferasirox film-coated tablets that is numerically one third of the deferoxamine dose). However, this dosing recommendation was not prospectively assessed in the clinical studies.
 
@@ -511,27 +546,31 @@ In addition, in patients with liver iron concentration ≥7 mg Fe/g dw with vari
 
 A placebo-controlled randomised study was performed in 225 patients with MDS (Low/Int-1 risk) and transfusional iron overload. The results of this study suggest that there is a positive impact of deferasirox on event-free survival (EFS, a composite endpoint including non-fatal cardiac or liver events) and serum ferritin levels. The safety profile was consistent with previous studies in adult MDS patients.
 
-<div style=\"page-break-after: always\"></div>
-
 In a 5-year observational study in which 267 children aged 2 to &lt;6 years (at enrollment) with transfusional haemosiderosis received deferasirox, there were no clinically meaningful differences in the safety and tolerability profile of Exjade in paediatric patients aged 2 to &lt;6 years compared to the overall adult and older paediatric population, including increases in serum creatinine of &gt;33% and above the upper limit of normal on ≥2 consecutive occasions (3.1%), and elevation of alanine aminotransferase (ALT) greater than 5 times the upper limit of normal (4.3%). Single events of increase in ALT and aspartate aminotransferase were reported in 20.0% and 8.3%, respectively, of the 145 patients who completed the study.
 
 In a study to assess the safety of deferasirox film-coated and dispersible tablets, 173 adult and paediatric patients with transfusion dependent thalassaemia or myelodysplastic syndrome were treated for 24 weeks. A comparable safety profile for film-coated and dispersible tablets was observed.
 
-An open-label 1:1 randomised study was performed in 224 paediatric patients aged 2 to &lt;18 years old with transfusion-dependant anaemia and iron overload to evaluate treatment compliance, efficacy and safety of the deferasirox granule formulation compared to the dispersible tablet formulation. The majority of patients (142, 63.4%) in the study had beta-thalassemia major, 108 (48.2%) patients were naïve to iron chelation therapy (ICT) (median age 2 years, 92.6% aged 2 to &lt;10 years) and 116 (51.8%) were ICT pre-treated (median age 7.5 years, 71.6% aged 2 to &lt;10 years) of whom 68.1% had previously received deferasirox. In the primary analysis performed in ICT-naïve patients after 24 weeks of treatment, the compliance rate was 84.26% and 86.84% in the deferasirox dispersible tablets arm and in the deferasirox granules arm, respectively, with no statistically significant difference. Similarly, there was no statistically significant difference in mean changes from baseline in serum ferritin (SF) values between the two treatment arms (-171.52 μg/l [95% CI: -517.40, 174.36] for dispersible tablets [DT] and 4.84 μg/l [95% CI: -333.58, 343.27] for the granule formulation, difference between means [granules - DT] 176.36 μg/l [95% CI: -129.00, 481.72], two sided p-value = 0.25). The study concluded that treatment compliance and efficacy were no different between deferasirox granules and deferasirox dispersible tablet arms at different time points (24 and 48 weeks). The safety profile was overall comparable between the granules and the dispersible tablet formulations.
+An open-label 1:1 randomised study was performed in 224 paediatric patients aged 2 to &lt;18 years old with transfusion-dependant anaemia and iron overload to evaluate treatment compliance, efficacy and safety of the deferasirox granule formulation compared to the dispersible tablet formulation. The majority of patients (142, 63.4%) in the study had beta-thalassemia major, 108 (48.2%) patients were naïve to iron chelation therapy (ICT) (median age 2 years, 92.6% aged 2 to &lt;10 years) and 116 (51.8%) were ICT pre-treated (median age 7.5 years, 71.6% aged 2 to &lt;10 years) of whom 68.1% had previously received deferasirox. In the primary analysis performed in ICT-naïve patients after
+
+<div style=\"page-break-after: always\"></div>
+
+24 weeks of treatment, the compliance rate was 84.26% and 86.84% in the deferasirox dispersible tablets arm and in the deferasirox granules arm, respectively, with no statistically significant difference. Similarly, there was no statistically significant difference in mean changes from baseline in serum ferritin (SF) values between the two treatment arms (-171.52 μg/ l [95% CI: -517.40, 174.36] for dispersible tablets [DT] and 4.84 μg/ l [95% CI: -333.58, 343.27] for the granule formulation, difference between means [granules -DT] 176.36 μg/ l [95% CI: -129.00, 481.72], two sided p-value = 0.25). The study concluded that treatment compliance and efficacy were no different between deferasirox granules and deferasirox dispersible tablet arms at different time points (24 and 48 weeks). The safety profile was overall comparable between the granules and the dispersible tablet formulations.
 
 In patients with non-transfusion-dependent thalassaemia syndromes and iron overload, treatment with deferasirox dispersible tablets was assessed in a 1-year, randomised, double-blind, placebo-controlled study. The study compared the efficacy of two different deferasirox dispersible tablet regimens (starting doses of 5 and 10 mg/kg/day, 55 patients in each arm) and of matching placebo (56 patients). The study enrolled 145 adult and 21 paediatric patients. The primary efficacy parameter was the change in liver iron concentration (LIC) from baseline after 12 months of treatment. One of the secondary efficacy parameters was the change in serum ferritin between baseline and fourth quarter. At a starting dose of 10 mg/kg/day, deferasirox dispersible tablets led to reductions in indicators of total body iron. On average, liver iron concentration decreased by 3.80 mg Fe/g dw in patients treated with deferasirox dispersible tablets (starting dose 10 mg/kg/day) and increased by 0.38 mg Fe/g dw in patients treated with placebo (p&lt;0.001). On average, serum ferritin decreased by 222.0 µg/l in patients treated with deferasirox dispersible tablets (starting dose 10 mg/kg/day) and increased by 115 µg/l in patients treated with placebo (p&lt;0.001).
+
+In a 5-year observational study involving 45 paediatric patients aged 10 to &lt;18 years with nontransfusion-dependent thalassaemia syndromes and iron overload treated with deferasirox, no new long-term safety concerns were identified. Analysis of the study data suggests that deferasirox does not affect growth or sexual development in this age group of paediatric patients, however, the results should be interpreted with caution due to the limited number of patients and data available.
 
 ## 5.2 Pharmacokinetic properties
 
 EXJADE film-coated tablets demonstrate higher bioavailability compared to the EXJADE dispersible tablet formulation. After adjustment of the strength, the film-coated tablet formulation (360 mg strength) was equivalent to EXJADE dispersible tablets (500 mg strength) with respect to the mean area under the plasma concentration time curve (AUC) under fasting conditions. The Cmax was increased by 30% (90% CI: 20.3% - 40.0%); however a clinical exposure/response analysis revealed no evidence of clinically relevant effects of such an increase.
-
-<div style=\"page-break-after: always\"></div>
 
 ## Absorption
 
 Deferasirox (dispersible tablet formulation) is absorbed following oral administration with a median time to maximum plasma concentration (tmax) of about 1.5 to 4 hours. The absolute bioavailability (AUC) of deferasirox (dispersible tablet formulation) is about 70% compared to an intravenous dose. The absolute bioavailability of the film-coated tablet formulation has not been determined. Bioavailability of deferasirox film-coated tablets was 36% greater than that with dispersible tablets.
 
 A food-effect study involving administration of the film-coated tablets to healthy volunteers under fasting conditions and with a low-fat (fat content &lt;10% of calories) or high-fat (fat content &gt;50% of calories) meal indicated that the AUC and Cmax were slightly decreased after a low-fat meal (by 11% and 16%, respectively). After a high-fat meal, AUC and Cmax were increased (by 18% and 29%, respectively). The increases in Cmax due to the change in formulation and due to the effect of a high-fat meal may be additive and therefore, it is recommended that the film-coated tablets should be taken either on an empty stomach or with a light meal.
+
+<div style=\"page-break-after: always\"></div>
 
 ## Distribution
 
@@ -565,8 +604,6 @@ Females have a moderately lower apparent clearance (by 17.5%) for deferasirox co
 
 The pharmacokinetics of deferasirox have not been studied in elderly patients (aged 65 or older).
 
-<div style=\"page-break-after: always\"></div>
-
 ## Renal or hepatic impairment
 
 The pharmacokinetics of deferasirox have not been studied in patients with renal impairment. The pharmacokinetics of deferasirox were not influenced by liver transaminase levels up to 5 times the upper limit of the normal range.
@@ -575,7 +612,11 @@ In a clinical study using single doses of 20 mg/kg deferasirox dispersible table
 
 ## 5.3 Preclinical safety data
 
-Non-clinical data reveal no special hazard for humans based on conventional studies of safety pharmacology, repeated dose toxicity, genotoxicity or carcinogenic potential. The main findings were kidney toxicity and lens opacity (cataracts). Similar findings were observed in neonatal and juvenile animals. The kidney toxicity is considered mainly due to iron deprivation in animals that were not previously overloaded with iron.
+Non-clinical data reveal no special hazard for humans based on conventional studies of safety pharmacology, repeated dose toxicity, genotoxicity or carcinogenic potential. The main findings were kidney toxicity and lens opacity (cataracts). Similar findings were observed in neonatal and juvenile
+
+<div style=\"page-break-after: always\"></div>
+
+animals. The kidney toxicity is considered mainly due to iron deprivation in animals that were not previously overloaded with iron.
 
 Tests of genotoxicity in vitro were negative (Ames test, chromosomal aberration test) while deferasirox caused formation of micronuclei in vivo in the bone marrow, but not liver, of non-ironloaded rats at lethal doses. No such effects were observed in iron-preloaded rats. Deferasirox was not carcinogenic when administered to rats in a 2-year study and transgenic p53+/- heterozygous mice in a 6-month study.
 
@@ -593,8 +634,6 @@ Coating material: Hypromellose Titanium dioxide (E171) Macrogol (4000) Talc Indi
 
 Not applicable.
 
-<div style=\"page-break-after: always\"></div>
-
 ## 6.3 Shelf life
 
 3 years
@@ -611,13 +650,17 @@ Unit packs containing 30 or 90 film-coated tablets or multipacks containing 300 
 
 Not all pack sizes may be marketed.
 
+<div style=\"page-break-after: always\"></div>
+
 ## 6.6 Special precautions for disposal
 
 No special requirements.
 
 ## 7. MARKETING AUTHORISATION HOLDER
 
-Novartis Europharm Limited Vista Building Elm Park, Merrion Road Dublin 4 Ireland
+Novartis Europharm Limited Vista Building Elm Park, Merrion Road Dublin 4
+
+Ireland
 
 ## 8. MARKETING AUTHORISATION NUMBER(S)
 
@@ -653,15 +696,9 @@ Date of latest renewal: 18 April 2016
 
 ## 10. DATE OF REVISION OF THE TEXT
 
-<div style=\"page-break-after: always\"></div>
-
 Detailed information on this medicinal product is available on the website of the European Medicines Agency https://www.ema.europa.eu
 
 <div style=\"page-break-after: always\"></div>
-
-<!-- image -->
-
-This medicinal product is subject to additional monitoring. This will allow quick identification of new safety information. Healthcare professionals are asked to report any suspected adverse reactions. See section 4.8 for how to report adverse reactions.
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
@@ -673,17 +710,11 @@ EXJADE 360 mg granules in sachet
 
 ## 2. QUALITATIVE AND QUANTITATIVE COMPOSITION
 
-## EXJADE 90 mg granules
+EXJADE 90 mg granules Each sachet contains 90 mg deferasirox.
 
-Each sachet contains 90 mg deferasirox.
+EXJADE 180 mg granules Each sachet contains 180 mg deferasirox.
 
-EXJADE 180 mg granules
-
-Each sachet contains 180 mg deferasirox.
-
-## EXJADE 360 mg granules
-
-Each sachet contains 360 mg deferasirox.
+EXJADE 360 mg granules Each sachet contains 360 mg deferasirox.
 
 For the full list of excipients, see section 6.1.
 
@@ -741,22 +772,20 @@ Table 1 Recommended starting doses for transfusional iron overload
 | Patients who require reduction of elevated body iron levels and who are also receiving >14 ml/kg/month of PRBC (approx. >4 units/month for an adult).                                                                                                                         | Patients who require reduction of elevated body iron levels and who are also receiving >14 ml/kg/month of PRBC (approx. >4 units/month for an adult).                                                                                                                         | Patients who require reduction of elevated body iron levels and who are also receiving >14 ml/kg/month of PRBC (approx. >4 units/month for an adult).                                                                                                                         | 21 mg/kg/day                    |
 | Patients who are well managed on deferoxamine.                                                                                                                                                                                                                                | Patients who are well managed on deferoxamine.                                                                                                                                                                                                                                | Patients who are well managed on deferoxamine.                                                                                                                                                                                                                                | One third of deferoxamine dose* |
 
-*A starting dose that is numerically one third that of the deferoxamine dose (e.g. a patient receiving 40 mg/kg/day of deferoxamine for 5 days per week [or equivalent] could be transferred to a starting daily dose of 14 mg/kg/day of EXJADE granules). When this results in a daily dose of &lt;14 mg/kg, the patient's response must be monitored and a dose increase should be considered if sufficient efficacy is not obtained (see section 5.1).
+<div style=\"page-break-after: always\"></div>
 
 ## Dose adjustment
 
 It is recommended that serum ferritin be monitored every month and that the dose of EXJADE granules be adjusted, if necessary, every 3 to 6 months based on the trends in serum ferritin (see Table 2). Dose adjustments may be made in steps of 3.5 to 7 mg/kg/day and are to be tailored to the individual patient's response and therapeutic goals (maintenance or reduction of iron burden).
 
-<div style=\"page-break-after: always\"></div>
-
 Table 2 Recommended dose adjustments for transfusional iron overload
 
-| Serum ferritin (monthly monitoring)                                        | Recommended dose adjustment                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               |
-|----------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Persistently >2 500 µg/l and not showing a decreasing trend over time      | Increase dose every 3 to 6 months in steps of 3.5 to 7 mg/kg/day. The maximum allowed dose is 28 mg/kg/day. If only very poor haemosiderosis control is achieved at doses up to 21 mg/kg/day, a further increase (to a maximum of 28 mg/kg/day) may not achieve satisfactory control, and alternative treatment options may be considered. If no satisfactory control is achieved at doses above 21 mg/kg/day, treatment at such doses should not be maintained and alternative treatment options should be considered whenever possible. |
-| >1 000 µg/l but persistently ≤2 500 µg/l with a decreasing trend over time | Decrease dose every 3 to 6 months in steps of 3.5 to 7 mg/kg/day in patients treated with doses >21 mg/kg/day, until the target of 500 to 1 000 µg/l is reached.                                                                                                                                                                                                                                                                                                                                                                          |
-| 500 to 1 000 µg/l (target range)                                           | Decrease dose in steps of 3.5 to 7 mg/kg/day every 3 to 6 months to maintain serum ferritin levels within the target range and to minimise the risk of overchelation.                                                                                                                                                                                                                                                                                                                                                                     |
-| Consistently <500 µg/l                                                     | Consider interruption of treatment (see section 4.4).                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     |
+| Serum ferritin (monthly monitoring)                                         | Recommended dose adjustment                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               |
+|-----------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Persistently >2 500 µg/l and not showing a decreasing trend over time       | Increase dose every 3 to 6 months in steps of 3.5 to 7 mg/kg/day. The maximum allowed dose is 28 mg/kg/day. If only very poor haemosiderosis control is achieved at doses up to 21 mg/kg/day, a further increase (to a maximum of 28 mg/kg/day) may not achieve satisfactory control, and alternative treatment options may be considered. If no satisfactory control is achieved at doses above 21 mg/kg/day, treatment at such doses should not be maintained and alternative treatment options should be considered whenever possible. |
+| >1 000 µg/l but persistently ≤ 2 500 µg/l with a decreasing trend over time | Decrease dose every 3 to 6 months in steps of 3.5 to 7 mg/kg/day in patients treated with doses >21 mg/kg/day, until the target of 500 to 1 000 µg/l is reached.                                                                                                                                                                                                                                                                                                                                                                          |
+| 500 to 1 000 µg/l (target range)                                            | Decrease dose in steps of 3.5 to 7 mg/kg/day every 3 to 6 months to maintain serum ferritin levels within the target range and to minimise the risk of overchelation.                                                                                                                                                                                                                                                                                                                                                                     |
+| Consistently <500 µg/l                                                      | Consider interruption of treatment (see section 4.4).                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     |
 
 The availability of long-term efficacy and safety data from clinical studies conducted with EXJADE dispersible tablets used at doses above 30 mg/kg (equivalent to 21 mg/kg when given as granules) is currently limited (264 patients followed for an average of 1 year after dose escalation). Doses above 28 mg/kg/day are not recommended because there is only limited experience with doses above this level (see section 5.1).
 
@@ -770,20 +799,20 @@ Due to different pharmacokinetic profiles, a 30% lower dose of EXJADE granules i
 
 The recommended initial daily dose of EXJADE granules in patients with non-transfusion-dependent thalassaemia syndromes is 7 mg/kg body weight/day.
 
+<div style=\"page-break-after: always\"></div>
+
 ## Dose adjustment
 
 It is recommended that serum ferritin be monitored every month to assess the patient's response to therapy and to minimise the risk of overchelation (see section 4.4). Recommended dose adjustments for non-transfusion-dependent thalassaemia syndromes are summarised in Table 3.
 
-<div style=\"page-break-after: always\"></div>
+Table 3 Recommended dose adjustments for non-transfusion-dependent thalassaemia syndromes
 
-## Table 3 Recommended dose adjustments for non-transfusion-dependent thalassaemia syndromes
-
-| Serum ferritin (monthly monitoring)                                                                                                                                                    |                                                                                                                                                                                        | Liver iron concentration (LIC)*                                                                                                                                                        | Recommended dose adjustment                                                                                                                                                                                                                                                                                                                                                                                |
-|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Consistently >2 000 µg/l and not showing a downward trend                                                                                                                              | or                                                                                                                                                                                     | ≥7 mg Fe/g dw                                                                                                                                                                          | Increase dose every 3 to 6 months in steps of 3.5 to 7 mg/kg/day if the patient is tolerating the medicinal product well. The maximum allowed dose is 14 mg/kg/day for adult patients and 7 mg/kg/day for paediatric patients. Doses above 14 mg/kg/day are not recommended because there is no experience with doses above this level in patients with non- transfusion dependent thalassaemia syndromes. |
-| ≤2 000 µg/l                                                                                                                                                                            | or                                                                                                                                                                                     | <7 mg Fe/g dw                                                                                                                                                                          | Decrease dose every 3 to 6 months in steps of 3.5 to 7 mg/kg/day down to a dose of 7 mg/kg/day (or less) in patients treated with doses >7 mg/kg/day.                                                                                                                                                                                                                                                      |
-| <300 µg/l                                                                                                                                                                              | or                                                                                                                                                                                     | <3 mg Fe/g dw                                                                                                                                                                          | Treatment should be stopped once a satisfactory body iron level has been achieved.                                                                                                                                                                                                                                                                                                                         |
-| There are no data available on the retreatment of patients who reaccumulate iron after having achieved a satisfactory body iron level and therefore retreatment cannot be recommended. | There are no data available on the retreatment of patients who reaccumulate iron after having achieved a satisfactory body iron level and therefore retreatment cannot be recommended. | There are no data available on the retreatment of patients who reaccumulate iron after having achieved a satisfactory body iron level and therefore retreatment cannot be recommended. | There are no data available on the retreatment of patients who reaccumulate iron after having achieved a satisfactory body iron level and therefore retreatment cannot be recommended.                                                                                                                                                                                                                     |
+| Serum ferritin (monthly monitoring)                                                                                                                                                    |                                                                                                                                                                                        | Liver iron concentration (LIC)*                                                                                                                                                        | Recommended dose adjustment                                                                                                                                                                                                                                                                                                                                  |
+|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Consistently >2 000 µg/l and not showing a downward trend                                                                                                                              | or                                                                                                                                                                                     | ≥7 mg Fe/g dw                                                                                                                                                                          | Increase dose every 3 to 6 months in steps of 3.5 to 7 mg/kg/day if the patient is tolerating the medicinal product well. The maximum allowed dose is 14 mg/kg/day for adult patients and 7 mg/kg/day for paediatric patients. Doses above 14 mg/kg/day are not recommended because there is no experience with doses above this level in patients with non- |
+| ≤2 000 µg/l                                                                                                                                                                            | or                                                                                                                                                                                     | <7 mg Fe/g dw                                                                                                                                                                          | transfusion dependent thalassaemia syndromes. Decrease dose every 3 to 6 months in steps of 3.5 to 7 mg/kg/day down to a dose of 7 mg/kg/day (or less) in patients treated with doses >7 mg/kg/day.                                                                                                                                                          |
+| <300 µg/l                                                                                                                                                                              | or                                                                                                                                                                                     | <3 mg Fe/g dw                                                                                                                                                                          | Treatment should be stopped once a satisfactory body iron level has been achieved.                                                                                                                                                                                                                                                                           |
+| There are no data available on the retreatment of patients who reaccumulate iron after having achieved a satisfactory body iron level and therefore retreatment cannot be recommended. | There are no data available on the retreatment of patients who reaccumulate iron after having achieved a satisfactory body iron level and therefore retreatment cannot be recommended. | There are no data available on the retreatment of patients who reaccumulate iron after having achieved a satisfactory body iron level and therefore retreatment cannot be recommended. | There are no data available on the retreatment of patients who reaccumulate iron after having achieved a satisfactory body iron level and therefore retreatment cannot be recommended.                                                                                                                                                                       |
 
 In both paediatric and adult patients in whom LIC was not assessed and serum ferritin is ≤2 000 µg/l, dosing of EXJADE granules should not exceed 7 mg/kg/day.
 
@@ -801,11 +830,11 @@ The dosing recommendations for paediatric patients aged 2 to 17 years with trans
 
 In children with transfusional iron overload aged between 2 and 5 years, exposure is lower than in adults (see section 5.2). This age group may therefore require higher doses than are necessary in adults. However, the initial dose should be the same as in adults, followed by individual titration.
 
+<div style=\"page-break-after: always\"></div>
+
 ## Non-transfusion-dependent thalassaemia syndromes:
 
 In paediatric patients with non-transfusion-dependent thalassaemia syndromes, dosing of EXJADE granules should not exceed 7 mg/kg/day. In these patients, closer monitoring of LIC and serum ferritin is essential to avoid overchelation (see section 4.4). In addition to monthly serum ferritin assessments, LIC should be monitored every three months when serum ferritin is ≤800 µg/l.
-
-<div style=\"page-break-after: always\"></div>
 
 ## Children from birth to 23 months:
 
@@ -841,13 +870,11 @@ Patients with estimated creatinine clearance &lt;60 ml/min.
 
 Deferasirox has been studied only in patients with baseline serum creatinine within the ageappropriate normal range.
 
-During clinical studies, increases in serum creatinine of &gt;33% on ≥2 consecutive occasions, sometimes above the upper limit of the normal range, occurred in about 36% of patients. These were dose-dependent. About two-thirds of the patients showing serum creatinine increase returned below the 33% level without dose adjustment. In the remaining third the serum creatinine increase did not always respond to a dose reduction or a dose interruption. In some cases, only a stabilisation of the serum creatinine values has been observed after dose reduction. Cases of acute renal failure have been reported following post-marketing use of deferasirox (see section 4.8). In some post-marketing cases, renal function deterioration has led to renal failure requiring temporary or permanent dialysis.
-
-The causes of the rises in serum creatinine have not been elucidated. Particular attention should therefore be paid to monitoring of serum creatinine in patients who are concomitantly receiving medicinal products that depress renal function, and in patients who are receiving high doses of deferasirox and/or low rates of transfusion (&lt;7 ml/kg/month of packed red blood cells or &lt;2 units/month for an adult).
+During clinical studies , increases in serum creatinine of &gt;33% on ≥2 consecutive occasions, sometimes above the upper limit of the normal range, occurred in about 36% of patients. These were dose-dependent. About two-thirds of the patients showing serum creatinine increase returned below the 33% level without dose adjustment. In the remaining third the serum creatinine increase did not always respond to a dose reduction or a dose interruption. In some cases, only a stabilisation of the serum creatinine values has been observed after dose reduction. Cases of acute renal failure have been reported following post-marketing use of deferasirox (see section 4.8). In some post-marketing cases, renal function deterioration has led to renal failure requiring temporary or permanent dialysis.
 
 <div style=\"page-break-after: always\"></div>
 
-While no increase in renal adverse events was observed after dose escalation of EXJADE dispersible tablets to doses above 30 mg/kg in clinical studies, an increased risk of renal adverse events with granule doses above 21 mg/kg cannot be excluded.
+The causes of the rises in serum creatinine have not been elucidated. Particular attention should therefore be paid to monitoring of serum creatinine in patients who are concomitantly receiving medicinal products that depress renal function, and in patients who are receiving high doses of deferasirox and/or low rates of transfusion (&lt;7 ml/kg/month of packed red blood cells or &lt;2 units/month for an adult). While no increase in renal adverse events was observed after dose escalation of EXJADE dispersible tablets to doses above 30 mg/kg in clinical studies, an increased risk of renal adverse events with granule doses above 21 mg/kg cannot be excluded.
 
 It is recommended that serum creatinine be assessed in duplicate before initiating therapy. Serum creatinine, creatinine clearance (estimated with the Cockcroft-Gault or MDRD formula in adults and with the Schwartz formula in children) and/or plasma cystatin C levels should be monitored prior to therapy, weekly in the first month after initiation or modification of therapy with EXJADE (including switch of formulation), and monthly thereafter . Patients with pre-existing renal conditions and patients who are receiving medicinal products that depress renal function may be more at risk of complications. Care should be taken to maintain adequate hydration in patients who develop diarrhoea or vomiting.
 
@@ -913,11 +940,13 @@ Caution should be used in elderly patients due to a higher frequency of adverse 
 
 Data in children with non-transfusion-dependent thalassaemia are very limited (see section 5.1). As a consequence, EXJADE therapy should be closely monitored to detect adverse reactions and to follow iron burden in the paediatric population. In addition, before treating heavily iron-overloaded children with non-transfusion-dependent thalassaemia with EXJADE, the physician should be aware that the consequences of long-term exposure in such patients are currently not known.
 
-<div style=\"page-break-after: always\"></div>
-
 ## Gastrointestinal disorders
 
-Upper gastrointestinal ulceration and haemorrhage have been reported in patients, including children and adolescents, receiving deferasirox. Multiple ulcers have been observed in some patients (see section 4.8). There have been reports of ulcers complicated with digestive perforation. Also, there have been reports of fatal gastrointestinal haemorrhages, especially in elderly patients who had haematological malignancies and/or low platelet counts. Physicians and patients should remain alert for signs and symptoms of gastrointestinal ulceration and haemorrhage during EXJADE therapy. In case of gastrointestinal ulceration or haemorrhage, EXJADE should be discontinued and additional evaluation and treatment must be promptly initiated. Caution should be exercised in patients who are taking EXJADE in combination with substances that have known ulcerogenic potential, such as NSAIDs, corticosteroids, or oral bisphosphonates, in patients receiving anticoagulants and in patients with platelet counts below 50 000/mm 3 (50 x 10 9 /l) (see section 4.5).
+Upper gastrointestinal ulceration and haemorrhage have been reported in patients, including children and adolescents, receiving deferasirox. Multiple ulcers have been observed in some patients (see
+
+<div style=\"page-break-after: always\"></div>
+
+section 4.8). There have been reports of ulcers complicated with digestive perforation. Also, there have been reports of fatal gastrointestinal haemorrhages, especially in elderly patients who had haematological malignancies and/or low platelet counts. Physicians and patients should remain alert for signs and symptoms of gastrointestinal ulceration and haemorrhage during EXJADE therapy. In case of gastrointestinal ulceration or haemorrhage, EXJADE should be discontinued and additional evaluation and treatment must be promptly initiated. Caution should be exercised in patients who are taking EXJADE in combination with substances that have known ulcerogenic potential, such as NSAIDs, corticosteroids, or oral bisphosphonates, in patients receiving anticoagulants and in patients with platelet counts below 50 000/mm 3 (50 x 10 9 /l) (see section 4.5).
 
 ## Skin disorders
 
@@ -941,9 +970,9 @@ Monthly monitoring of serum ferritin is recommended in order to assess the patie
 
 The results of the tests for serum creatinine, serum ferritin and serum transaminases should be recorded and regularly assessed for trends.
 
-<div style=\"page-break-after: always\"></div>
+In three clinical studies, growth and sexual development of paediatric patients treated with deferasirox for up to 5 years were not affected (see section 4.8). However, as a general precautionary measure in the management of paediatric patients with transfusional iron overload, body weight, height and sexual development should be monitored prior to therapy and at regular intervals (every 12 months).
 
-In two clinical studies, growth and sexual development of paediatric patients treated with deferasirox for up to 5 years were not affected (see section 4.8). However, as a general precautionary measure in the management of paediatric patients with transfusional iron overload, body weight, height and sexual development should be monitored prior to therapy and at regular intervals (every 12 months).
+<div style=\"page-break-after: always\"></div>
 
 Cardiac dysfunction is a known complication of severe iron overload. Cardiac function should be monitored in patients with severe iron overload during long-term treatment with EXJADE.
 
@@ -961,7 +990,7 @@ There were no clinically relevant changes in deferasirox pharmacokinetics when E
 
 ## Agents that may decrease EXJADE systemic exposure
 
-Deferasirox metabolism depends on UGT enzymes. In a healthy volunteer study, the concomitant administration of deferasirox (single dose of 30 mg/kg, dispersible tablet formulation) and the potent UGT inducer, rifampicin, (repeated dose of 600 mg/day) resulted in a decrease of deferasirox exposure by 44% (90% CI: 37% - 51%). Therefore, the concomitant use of EXJADE with potent UGT inducers (e.g. rifampicin, carbamazepine, phenytoin, phenobarbital, ritonavir) may result in a decrease in EXJADE efficacy. The patient's serum ferritin should be monitored during and after the combination, and the dose of EXJADE adjusted if necessary.
+Deferasirox metabolism depends on UGT enzymes. In a healthy volunteer study, the concomitant administration of deferasirox (single dose of 30 mg/kg, dispersible tablet formulation) and the potent UGT inducer, rifampicin, (repeated dose of 600 mg/day) resulted in a decrease of deferasirox exposure by 44% (90% CI: 37% - 51%). Therefore, the concomitant use of EXJADE with potent UGT inducers (e.g. rifampicin, carbamazepine, phenytoin, phenobarbital, ritonavir) may result in a decrease in EXJADE efficacy. The p atient's serum ferritin should be monitored during and after the combination, and the dose of EXJADE adjusted if necessary.
 
 Cholestyramine significantly reduced the deferasirox exposure in a mechanistic study to determine the degree of enterohepatic recycling (see section 5.2).
 
@@ -973,11 +1002,13 @@ In a healthy volunteer study, the concomitant administration of deferasirox disp
 
 In a healthy volunteer study, the concomitant administration of deferasirox as a moderate CYP2C8 inhibitor (30 mg/kg daily, dispersible tablet formulation), with repaglinide, a CYP2C8 substrate, given as a single dose of 0.5 mg, increased repaglinide AUC and Cmax about 2.3-fold (90% CI [2.03-2.63]) and 1.6-fold (90% CI [1.42-1.84]), respectively. Since the interaction has not been established with dosages higher than 0.5 mg for repaglinide, the concomitant use of deferasirox with repaglinide should be avoided. If the combination appears necessary, careful clinical and blood glucose monitoring should be performed (see section 4.4). An interaction between deferasirox and other CYP2C8 substrates like paclitaxel cannot be excluded.
 
-<div style=\"page-break-after: always\"></div>
-
 ## Interaction with theophylline and other agents metabolised by CYP1A2
 
-In a healthy volunteer study, the concomitant administration of deferasirox as a CYP1A2 inhibitor (repeated dose of 30 mg/kg/day, dispersible tablet formulation) and the CYP1A2 substrate theophylline (single dose of 120 mg) resulted in an increase of theophylline AUC by 84% (90% CI: 73% to 95%). The single dose Cmax was not affected, but an increase of theophylline Cmax is expected to occur with chronic dosing. Therefore, the concomitant use of deferasirox with theophylline is not recommended. If deferasirox and theophylline are used concomitantly, monitoring of theophylline concentration and theophylline dose reduction should be considered. An interaction between deferasirox and other CYP1A2 substrates cannot be excluded. For substances that are predominantly metabolised by CYP1A2 and that have a narrow therapeutic index (e.g. clozapine, tizanidine), the same recommendations apply as for theophylline.
+In a healthy volunteer study, the concomitant administration of deferasirox as a CYP1A2 inhibitor (repeated dose of 30 mg/kg/day, dispersible tablet formulation) and the CYP1A2 substrate theophylline (single dose of 120 mg) resulted in an increase of theophylline AUC by 84% (90% CI: 73% to 95%). The single dose Cmax was not affected, but an increase of theophylline Cmax is expected to occur with chronic dosing. Therefore, the concomitant use of deferasirox with theophylline is not
+
+<div style=\"page-break-after: always\"></div>
+
+recommended. If deferasirox and theophylline are used concomitantly, monitoring of theophylline concentration and theophylline dose reduction should be considered. An interaction between deferasirox and other CYP1A2 substrates cannot be excluded. For substances that are predominantly metabolised by CYP1A2 and that have a narrow therapeutic index (e.g. clozapine, tizanidine), the same recommendations apply as for theophylline.
 
 ## Other information
 
@@ -1009,13 +1040,15 @@ No fertility data is available for humans. In animals, no adverse effects on mal
 
 EXJADE has minor influence on the ability to drive and use machines. Patients experiencing the uncommon adverse reaction of dizziness should exercise caution when driving or operating machines (see section 4.8).
 
-<div style=\"page-break-after: always\"></div>
-
 ## 4.8 Undesirable effects
 
 ## Summary of the safety profile
 
-The most frequent reactions reported during chronic treatment in clinical studies conducted with deferasirox dispersible tablets in adult and paediatric patients include gastrointestinal disturbances (mainly nausea, vomiting, diarrhoea or abdominal pain) and skin rash. Diarrhoea is reported more commonly in paediatric patients aged 2 to 5 years and in the elderly. These reactions are dosedependent, mostly mild to moderate, generally transient and mostly resolve even if treatment is continued.
+The most frequent reactions reported during chronic treatment in clinical studies conducted with deferasirox dispersible tablets in adult and paediatric patients include gastrointestinal disturbances
+
+<div style=\"page-break-after: always\"></div>
+
+(mainly nausea, vomiting, diarrhoea or abdominal pain) and skin rash. Diarrhoea is reported more commonly in paediatric patients aged 2 to 5 years and in the elderly. These reactions are dosedependent, mostly mild to moderate, generally transient and mostly resolve even if treatment is continued.
 
 During clinical studies dose-dependent increases in serum creatinine occurred in about 36% of patients, though most remained within the normal range. Decreases in mean creatinine clearance have been observed in both paediatric and adult patients with beta-thalassemia and iron overload during the first year of treatment, but there is evidence that this does not decrease further in subsequent years of treatment. Elevations of liver transaminases have been reported. Safety monitoring schedules for renal and liver parameters are recommended. Auditory (decreased hearing) and ocular (lens opacities) disturbances are uncommon, and yearly examinations are also recommended (see section 4.4).
 
@@ -1027,54 +1060,84 @@ Adverse reactions are ranked below using the following convention: very common (
 
 Table 6
 
-| Blood and lymphatic system disorders            | Blood and lymphatic system disorders                                           |
-|-------------------------------------------------|--------------------------------------------------------------------------------|
-| Not known:                                      | Pancytopenia 1 , thrombocytopenia 1 , anaemia aggravated 1 , neutropenia 1     |
-| Immune system disorders                         | Immune system disorders                                                        |
-| Not known:                                      | Hypersensitivity reactions (including anaphylactic reactions and angioedema) 1 |
-| Metabolism and nutrition disorders              | Metabolism and nutrition disorders                                             |
-| Not known:                                      | Metabolic acidosis 1                                                           |
-| Psychiatric disorders                           | Psychiatric disorders                                                          |
-| Uncommon:                                       | Anxiety, sleep disorder                                                        |
-| Nervous system disorders                        | Nervous system disorders                                                       |
-| Common:                                         | Headache                                                                       |
-| Uncommon:                                       | Dizziness                                                                      |
-| Eye disorders                                   | Eye disorders                                                                  |
-| Uncommon:                                       | Cataract, maculopathy                                                          |
-| Rare:                                           | Optic neuritis                                                                 |
-| Ear and labyrinth disorders                     | Ear and labyrinth disorders                                                    |
-| Uncommon:                                       | Deafness                                                                       |
-| Respiratory, thoracic and mediastinal disorders | Respiratory, thoracic and mediastinal disorders                                |
-| Uncommon:                                       | Laryngeal pain                                                                 |
+| Blood and lymphatic system disorders            | Blood and lymphatic system disorders                                                               |
+|-------------------------------------------------|----------------------------------------------------------------------------------------------------|
+| Not known:                                      | Pancytopenia 1 , thrombocytopenia 1 , anaemia aggravated 1 , neutropenia 1                         |
+| Immune system disorders                         | Immune system disorders                                                                            |
+| Not known:                                      | Hypersensitivity reactions (including anaphylactic reactions and angioedema) 1                     |
+| Metabolism and nutrition disorders              | Metabolism and nutrition disorders                                                                 |
+| Not known:                                      | Metabolic acidosis 1                                                                               |
+| Psychiatric disorders                           | Psychiatric disorders                                                                              |
+| Uncommon:                                       | Anxiety, sleep disorder                                                                            |
+| Nervous system disorders                        | Nervous system disorders                                                                           |
+| Common:                                         | Headache                                                                                           |
+| Uncommon:                                       | Dizziness                                                                                          |
+| Eye disorders                                   | Eye disorders                                                                                      |
+| Uncommon:                                       | Cataract, maculopathy                                                                              |
+| Rare:                                           | Optic neuritis                                                                                     |
+| Ear and labyrinth disorders                     | Ear and labyrinth disorders                                                                        |
+| Uncommon:                                       | Deafness                                                                                           |
+| Respiratory, thoracic and mediastinal disorders | Respiratory, thoracic and mediastinal disorders                                                    |
+| Uncommon:                                       | Laryngeal pain                                                                                     |
+| Gastrointestinal disorders                      | Gastrointestinal disorders                                                                         |
+| Common:                                         | Diarrhoea, constipation, vomiting, nausea, abdominal pain, abdominal distension, dyspepsia         |
+| Uncommon:                                       | Gastrointestinal haemorrhage, gastric ulcer (including multiple ulcers), duodenal ulcer, gastritis |
+| Rare:                                           | Oesophagitis                                                                                       |
+| Not known:                                      | Gastrointestinal perforation 1 , acute pancreatitis 1                                              |
+| Hepatobiliary disorders                         | Hepatobiliary disorders                                                                            |
+| Common:                                         | Transaminases increased                                                                            |
+| Uncommon:                                       | Hepatitis, cholelithiasis                                                                          |
+| Not known:                                      | Hepatic failure 1, 2                                                                               |
 
 <div style=\"page-break-after: always\"></div>
 
-| Gastrointestinal disorders                           | Gastrointestinal disorders                                                                                                                         |
-|------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------|
-| Common:                                              | Diarrhoea, constipation, vomiting, nausea, abdominal pain, abdominal distension, dyspepsia                                                         |
-| Uncommon:                                            | Gastrointestinal haemorrhage, gastric ulcer (including multiple ulcers), duodenal ulcer, gastritis                                                 |
-| Rare:                                                | Oesophagitis                                                                                                                                       |
-| Not known:                                           | Gastrointestinal perforation 1 , acute pancreatitis 1                                                                                              |
-| Hepatobiliary disorders                              | Hepatobiliary disorders                                                                                                                            |
-| Common:                                              | Transaminases increased                                                                                                                            |
-| Uncommon:                                            | Hepatitis, cholelithiasis                                                                                                                          |
-| Not known:                                           | Hepatic failure 1, 2                                                                                                                               |
-| Skin and subcutaneous tissue disorders               | Skin and subcutaneous tissue disorders                                                                                                             |
-| Common:                                              | Rash, pruritus                                                                                                                                     |
-| Uncommon:                                            | Pigmentation disorder                                                                                                                              |
-| Rare:                                                | Drug reaction with eosinophilia and systemic symptoms (DRESS)                                                                                      |
-| Not known:                                           | Stevens-Johnson syndrome 1 , hypersensitivity vasculitis 1 , urticaria 1 , erythema multiforme 1 , alopecia 1 , toxic epidermal necrolysis (TEN) 1 |
-| Renal and urinary disorders                          | Renal and urinary disorders                                                                                                                        |
-| Very common:                                         | Blood creatinine increased                                                                                                                         |
-| Common:                                              | Proteinuria                                                                                                                                        |
-| Uncommon:                                            | Renal tubular disorder 2 (acquired Fanconi syndrome), glycosuria                                                                                   |
-| Not known:                                           | Acute renal failure 1, 2 , tubulointerstitial nephritis 1 , nephrolithiasis 1 , renal tubular necrosis 1                                           |
-| General disorders and administration site conditions | General disorders and administration site conditions                                                                                               |
-| Uncommon:                                            | Pyrexia, oedema, fatigue                                                                                                                           |
+## Skin and subcutaneous tissue disorders
+
+Common:
+
+Uncommon:
+
+Rare:
+
+Not known:
+
+Rash, pruritus
+
+Pigmentation disorder
+
+Drug reaction with eosinophilia and systemic symptoms (DRESS) Stevens-Johnson syndrome 1 , hypersensitivity vasculitis 1 , urticaria 1
+
+,
+
+erythema multiforme 1 , alopecia 1 , toxic epidermal necrolysis (TEN) 1
+
+## Renal and urinary disorders
+
+Very common:
+
+Blood creatinine increased
+
+Common:
+
+Proteinuria
+
+Uncommon:
+
+Renal tubular disorder 2 (acquired Fanconi syndrome), glycosuria Acute renal failure 1, 2 , tubulointerstitial nephritis 1 , nephrolithiasis 1 1
+
+Not known:
+
+, renal tubular necrosis
+
+## General disorders and administration site conditions
+
+Uncommon:
+
+Pyrexia, oedema, fatigue
 
 1 Adverse reactions reported during post-marketing experience. These are derived from spontaneous reports for which it is not always possible to reliably establish frequency or a causal relationship to exposure to the medicinal product.
 
-2 Severe forms associated with changes in consciousness in the context of hyperammonaemic encephalopathy have been reported.
+- 2 Severe forms associated with changes in consciousness in the context of hyperammonaemic encephalopathy have been reported.
 
 ## Description of selected adverse reactions
 
@@ -1084,17 +1147,19 @@ Gallstones and related biliary disorders were reported in about 2% of patients. 
 
 In a retrospective meta-analysis of 2 102 adult and paediatric beta-thalassaemia patients with transfusional iron overload treated with deferasirox dispersible tablets in two randomised and four open label studies of up to five years' duration, a mean creatinine clearance decrease of 13.2% in adult patients (95% CI: -14.4% to -12.1%; n=935) and 9.9% (95% CI: -11.1% to -8.6%; n=1 142) in paediatric patients was observed during the first year of treatment. In 250 patients who were followed for up to five years, no further decrease in mean creatinine clearance levels was observed.
 
-<div style=\"page-break-after: always\"></div>
+## Clinical study in patients with non-transfusion-dependent thalassaemia syndromes
 
-Clinical study in patients with non-transfusion-dependent thalassaemia syndromes In a 1-year study in patients with non-transfusion-dependent thalassaemia syndromes and iron overload (dispersible tablets at a dose of 10 mg/kg/day), diarrhoea (9.1%), rash (9.1%), and nausea (7.3%) were the most frequent study drug-related adverse events. Abnormal serum creatinine and creatinine clearance values were reported in 5.5% and 1.8% of patients, respectively. Elevations of liver transaminases greater than 2 times the baseline and 5 times the upper limit of normal were reported in 1.8% of patients.
+In a 1-year study in patients with non-transfusion-dependent thalassaemia syndromes and iron overload (dispersible tablets at a dose of 10 mg/kg/day), diarrhoea (9.1%), rash (9.1%), and nausea (7.3%) were the most frequent study drug-related adverse events. Abnormal serum creatinine and creatinine clearance values were reported in 5.5% and 1.8% of patients, respectively. Elevations of liver transaminases greater than 2 times the baseline and 5 times the upper limit of normal were reported in 1.8% of patients.
 
 ## Paediatric population
 
-In two clinical studies, growth and sexual development of paediatric patients treated with deferasirox for up to 5 years were not affected (see section 4.4).
+In three clinical studies, growth and sexual development of paediatric patients treated with deferasirox for up to 5 years were not affected (see section 4.4).
 
 Diarrhoea is reported more commonly in paediatric patients aged 2 to 5 years than in older patients.
 
 Renal tubulopathy has been mainly reported in children and adolescents with beta-thalassaemia treated with deferasirox. In post-marketing reports, a high proportion of cases of metabolic acidosis occurred in children in the context of Fanconi syndrome.
+
+<div style=\"page-break-after: always\"></div>
 
 Acute pancreatitis has been reported, particularly in children and adolescents.
 
@@ -1122,17 +1187,19 @@ Deferasirox is an orally active chelator that is highly selective for iron (III)
 
 In an iron-balance metabolic study in iron-overloaded adult thalassaemic patients, deferasirox at daily doses of 10, 20 and 40 mg/kg (dispersible tablet formulation) induced the mean net excretion of 0.119, 0.329 and 0.445 mg Fe/kg body weight/day, respectively.
 
-<div style=\"page-break-after: always\"></div>
-
 ## Clinical efficacy and safety
 
-Clinical efficacy studies were conducted with EXJADE dispersible tablets (referred to below as 'deferasirox'). Compared to the deferasirox dispersible tablet formulation, the dose of the deferasirox granules formulation is 34% lower than the dose of the deferasirox dispersible tablets, rounded to the nearest whole tablet (see section 5.2).
+Clinical efficacy studies were conducted with EXJADE dispersible tablets (referred to below as 'deferasirox') . Compared to the deferasirox dispersible tablet formulation, the dose of the deferasirox granules formulation is 34% lower than the dose of the deferasirox dispersible tablets, rounded to the nearest whole tablet (see section 5.2).
 
 Deferasirox has been investigated in 411 adult (age  16 years) and 292 paediatric patients (aged 2 to &lt;16 years) with chronic iron overload due to blood transfusions. Of the paediatric patients 52 were aged 2 to 5 years. The underlying conditions requiring transfusion included beta-thalassaemia, sickle cell disease and other congenital and acquired anaemias (myelodysplastic syndromes [MDS], Diamond-Blackfan syndrome, aplastic anaemia and other very rare anaemias).
 
-Daily treatment with the deferasirox dispersible tablet formulation at doses of 20 and 30 mg/kg for one year in frequently transfused adult and paediatric patients with beta-thalassaemia led to reductions in indicators of total body iron; liver iron concentration was reduced by about -0.4 and -8.9 mg Fe/g liver (biopsy dry weight (dw)) on average, respectively, and serum ferritin was reduced by about -36 and -926 µg/l on average, respectively. At these same doses the ratios of iron excretion: iron intake were 1.02 (indicating net iron balance) and 1.67 (indicating net iron removal), respectively. Deferasirox induced similar responses in iron-overloaded patients with other anaemias. Daily doses of 10 mg/kg (dispersible tablet formulation) for one year could maintain liver iron and serum ferritin levels and induce net iron balance in patients receiving infrequent transfusions or exchange transfusions. Serum ferritin assessed by monthly monitoring reflected changes in liver iron concentration indicating that trends in serum ferritin can be used to monitor response to therapy. Limited clinical data (29 patients with normal cardiac function at baseline) using MRI indicate that treatment with deferasirox 1030 mg/kg/day (dispersible tablet formulation) for 1 year may also reduce levels of iron in the heart (on average, MRI T2* increased from 18.3 to 23.0 milliseconds).
+Daily treatment with the deferasirox dispersible tablet formulation at doses of 20 and 30 mg/kg for one year in frequently transfused adult and paediatric patients with beta-thalassaemia led to reductions in indicators of total body iron; liver iron concentration was reduced by about -0.4 and -8.9 mg Fe/g liver (biopsy dry weight (dw)) on average, respectively, and serum ferritin was reduced by about -36 and -926 µg/l on average, respectively. At these same doses the ratios of iron excretion: iron intake were 1.02 (indicating net iron balance) and 1.67 (indicating net iron removal), respectively. Deferasirox induced similar responses in iron-overloaded patients with other anaemias. Daily doses of 10 mg/kg (dispersible tablet formulation) for one year could maintain liver iron and serum ferritin levels and
 
-The principal analysis of the pivotal comparative study in 586 patients suffering from betathalassaemia and transfusional iron overload did not demonstrate non-inferiority of deferasirox dispersible tablets to deferoxamine in the analysis of the total patient population. It appeared from a post-hoc analysis of this study that, in the subgroup of patients with liver iron concentration ≥7 mg Fe/g dw treated with deferasirox dispersible tablets (20 and 30 mg/kg) or deferoxamine (35 to ≥50 mg/kg), the non-inferiority criteria were achieved. However, in patients with liver iron concentration &lt;7 mg Fe/g dw treated with deferasirox dispersible tablets (5 and 10 mg/kg) or deferoxamine (20 to 35 mg/kg), non-inferiority was not established due to imbalance in the dosing of the two chelators. This imbalance occurred because patients on deferoxamine were allowed to remain on their pre-study dose even if it was higher than the protocol specified dose. Fifty-six patients under the age of 6 years participated in this pivotal study, 28 of them receiving deferasirox dispersible tablets.
+<div style=\"page-break-after: always\"></div>
+
+induce net iron balance in patients receiving infrequent transfusions or exchange transfusions. Serum ferritin assessed by monthly monitoring reflected changes in liver iron concentration indicating that trends in serum ferritin can be used to monitor response to therapy. Limited clinical data (29 patients with normal cardiac function at baseline) using MRI indicate that treatment with deferasirox 1030 mg/kg/day (dispersible tablet formulation) for 1 year may also reduce levels of iron in the heart (on average, MRI T2* increased from 18.3 to 23.0 milliseconds).
+
+The principal analysis of the pivotal comparative study in 586 patients suffering from betathalassaemia and transfusional iron overload did not demonstrate non-inferiority of deferasirox dispersible tablets to deferoxamine in the analysis of the total patient population. It appeared from a posthoc analysis of this study that, in the subgroup of patients with liver iron concentration ≥7 mg Fe/g dw treated with deferasirox dispersible tablets (20 and 30 mg/kg) or deferoxamine (35 to ≥50 mg/kg), the non-inferiority criteria were achieved. However, in patients with liver iron concentration &lt;7 mg Fe/g dw treated with deferasirox dispersible tablets (5 and 10 mg/kg) or deferoxamine (20 to 35 mg/kg), non-inferiority was not established due to imbalance in the dosing of the two chelators. This imbalance occurred because patients on deferoxamine were allowed to remain on their pre-study dose even if it was higher than the protocol specified dose. Fifty-six patients under the age of 6 years participated in this pivotal study, 28 of them receiving deferasirox dispersible tablets.
 
 It appeared from preclinical and clinical studies that deferasirox dispersible tablets could be as active as deferoxamine when used in a dose ratio of 2:1 (i.e. a dose of deferasirox dispersible tablets that is numerically half of the deferoxamine dose). For deferasirox granules, a dose ratio of 3:1 can be considered (i.e. a dose of deferasirox granules that is numerically one third of the deferoxamine dose). However, this dosing recommendation was not prospectively assessed in the clinical studies.
 
@@ -1140,21 +1207,23 @@ In addition, in patients with liver iron concentration ≥7 mg Fe/g dw with vari
 
 A placebo-controlled randomised study was performed in 225 patients with MDS (Low/Int-1 risk) and transfusional iron overload. The results of this study suggest that there is a positive impact of deferasirox on event-free survival (EFS, a composite endpoint including non-fatal cardiac or liver events) and serum ferritin levels. The safety profile was consistent with previous studies in adult MDS patients.
 
-<div style=\"page-break-after: always\"></div>
-
 In a 5-year observational study in which 267 children aged 2 to &lt;6 years (at enrollment) with transfusional haemosiderosis received deferasirox, there were no clinically meaningful differences in the safety and tolerability profile of Exjade in paediatric patients aged 2 to &lt;6 years compared to the overall adult and older paediatric population, including increases in serum creatinine of &gt;33% and above the upper limit of normal on ≥2 consecutive occasions (3.1%), and elevation of alanine aminotransferase (ALT) greater than 5 times the upper limit of normal (4.3%). Single events of increase in ALT and aspartate aminotransferase were reported in 20.0% and 8.3%, respectively, of the 145 patients who completed the study.
 
 In a study to assess the safety of deferasirox film-coated and dispersible tablets, 173 adult and paediatric patients with transfusion dependent thalassaemia or myelodysplastic syndrome were treated for 24 weeks. A comparable safety profile for film-coated and dispersible tablets was observed.
 
-An open-label 1:1 randomised study was performed in 224 paediatric patients aged 2 to &lt;18 years old with transfusion-dependant anaemia and iron overload to evaluate treatment compliance, efficacy and safety of the deferasirox granule formulation compared to the dispersible tablet formulation. The majority of patients (142, 63.4%) in the study had beta-thalassemia major, 108 (48.2%) patients were naïve to iron chelation therapy (ICT) (median age 2 years, 92.6% aged 2 to &lt;10 years) and 116 (51.8%) were ICT pre-treated (median age 7.5 years, 71.6% aged 2 to &lt;10 years) of whom 68.1% had previously received deferasirox. In the primary analysis performed in ICT-naïve patients after 24 weeks of treatment, the compliance rate was 84.26% and 86.84% in the deferasirox dispersible tablets arm and in the deferasirox granules arm, respectively, with no statistically significant difference. Similarly, there was no statistically significant difference in mean changes from baseline in serum ferritin (SF) values between the two treatment arms (-171.52 μg/l [95% CI:  -517.40, 174.36] for dispersible tablets [DT] and 4.84 μg/l [95% CI: -333.58, 343.27] for the granule formulation, difference between means [granules - DT] 176.36 μg/l [95% CI: -129.00, 481.72], two sided p-value = 0.25). The study concluded that treatment compliance and efficacy were no different between deferasirox granules and deferasirox dispersible tablet arms at different time points (24 and 48 weeks). The safety profile was overall comparable between the granules and the dispersible tablet formulations.
+An open-label 1:1 randomised study was performed in 224 paediatric patients aged 2 to &lt;18 years old with transfusion-dependant anaemia and iron overload to evaluate treatment compliance, efficacy and safety of the deferasirox granule formulation compared to the dispersible tablet formulation. The majority of patients (142, 63.4%) in the study had beta-thalassemia major, 108 (48.2%) patients were naïve to iron chelation therapy (ICT) (median age 2 years, 92.6% aged 2 to &lt;10 years) and 116 (51.8%) were ICT pre-treated (median age 7.5 years, 71.6% aged 2 to &lt;10 years) of whom 68.1% had previously received deferasirox. In the primary analysis performed in ICT-naïve patients after 24 weeks of treatment, the compliance rate was 84.26% and 86.84% in the deferasirox dispersible
+
+<div style=\"page-break-after: always\"></div>
+
+tablets arm and in the deferasirox granules arm, respectively, with no statistically significant difference. Similarly, there was no statistically significant difference in mean changes from baseline in serum ferritin (SF) values between the two treatment arms (-171.52 μg/ l [95% CI:  -517.40, 174.36] for dispersible tablets [DT] and 4.84 μg/ l [95% CI: -333.58, 343.27] for the granule formulation, difference between means [granules -DT] 176.36 μg/ l [95% CI: -129.00, 481.72], two sided p-value = 0.25). The study concluded that treatment compliance and efficacy were no different between deferasirox granules and deferasirox dispersible tablet arms at different time points (24 and 48 weeks). The safety profile was overall comparable between the granules and the dispersible tablet formulations.
 
 In patients with non-transfusion-dependent thalassaemia syndromes and iron overload, treatment with deferasirox dispersible tablets was assessed in a 1-year, randomised, double-blind, placebo-controlled study. The study compared the efficacy of two different deferasirox dispersible tablet regimens (starting doses of 5 and 10 mg/kg/day, 55 patients in each arm) and of matching placebo (56 patients). The study enrolled 145 adult and 21 paediatric patients. The primary efficacy parameter was the change in liver iron concentration (LIC) from baseline after 12 months of treatment. One of the secondary efficacy parameters was the change in serum ferritin between baseline and fourth quarter. At a starting dose of 10 mg/kg/day, deferasirox dispersible tablets led to reductions in indicators of total body iron. On average, liver iron concentration decreased by 3.80 mg Fe/g dw in patients treated with deferasirox dispersible tablets (starting dose 10 mg/kg/day) and increased by 0.38 mg Fe/g dw in patients treated with placebo (p&lt;0.001). On average, serum ferritin decreased by 222.0 µg/l in patients treated with deferasirox dispersible tablets (starting dose 10 mg/kg/day) and increased by 115 µg/l in patients treated with placebo (p&lt;0.001).
+
+In a 5-year observational study involving 45 paediatric patients aged 10 to &lt;18 years with nontransfusion-dependent thalassaemia syndromes and iron overload treated with deferasirox, no new long-term safety concerns were identified. Analysis of the study data suggests that deferasirox does not affect growth or sexual development in this age group of paediatric patients, however, the results should be interpreted with caution due to the limited number of patients and data available.
 
 ## 5.2 Pharmacokinetic properties
 
 EXJADE granules demonstrate higher bioavailability compared to the EXJADE dispersible tablet formulation. After adjustment of the strength, the granules formulation (4 x 90 mg strength) was equivalent to EXJADE dispersible tablets (500 mg strength) with respect to the mean area under the plasma concentration time curve (AUC) under fasting conditions. The Cmax was increased by 34% (90% CI: 27.9% - 40.3%); however a clinical exposure/response analysis revealed no evidence of clinically relevant effects of such an increase.
-
-<div style=\"page-break-after: always\"></div>
 
 ## Absorption
 
@@ -1165,6 +1234,8 @@ A food-effect study involving administration of the granules to healthy voluntee
 ## Distribution
 
 Deferasirox is highly (99%) protein bound to plasma proteins, almost exclusively serum albumin, and has a small volume of distribution of approximately 14 litres in adults.
+
+<div style=\"page-break-after: always\"></div>
 
 ## Biotransformation
 
@@ -1198,15 +1269,17 @@ The pharmacokinetics of deferasirox have not been studied in elderly patients (a
 
 The pharmacokinetics of deferasirox have not been studied in patients with renal impairment. The pharmacokinetics of deferasirox were not influenced by liver transaminase levels up to 5 times the upper limit of the normal range.
 
-<div style=\"page-break-after: always\"></div>
-
 In a clinical study using single doses of 20 mg/kg deferasirox dispersible tablets, the average exposure was increased by 16% in subjects with mild hepatic impairment (Child-Pugh Class A) and by 76% in subjects with moderate hepatic impairment (Child-Pugh Class B) compared to subjects with normal hepatic function. The average Cmax of deferasirox in subjects with mild or moderate hepatic impairment was increased by 22%. Exposure was increased 2.8-fold in one subject with severe hepatic impairment (Child-Pugh Class C) (see sections 4.2 and 4.4).
 
 ## 5.3 Preclinical safety data
 
 Non-clinical data reveal no special hazard for humans based on conventional studies of safety pharmacology, repeated dose toxicity, genotoxicity or carcinogenic potential. The main findings were kidney toxicity and lens opacity (cataracts). Similar findings were observed in neonatal and juvenile animals. The kidney toxicity is considered mainly due to iron deprivation in animals that were not previously overloaded with iron.
 
-Tests of genotoxicity in vitro were negative (Ames test, chromosomal aberration test) while deferasirox caused formation of micronuclei in vivo in the bone marrow, but not liver, of non-ironloaded rats at lethal doses. No such effects were observed in iron-preloaded rats. Deferasirox was not carcinogenic when administered to rats in a 2-year study and transgenic p53+/- heterozygous mice in a 6-month study.
+Tests of genotoxicity in vitro were negative (Ames test, chromosomal aberration test) while deferasirox caused formation of micronuclei in vivo in the bone marrow, but not liver, of non-iron-
+
+<div style=\"page-break-after: always\"></div>
+
+loaded rats at lethal doses. No such effects were observed in iron-preloaded rats. Deferasirox was not carcinogenic when administered to rats in a 2-year study and transgenic p53+/- heterozygous mice in a 6-month study.
 
 The potential for toxicity to reproduction was assessed in rats and rabbits. Deferasirox was not teratogenic, but caused increased frequency of skeletal variations and stillborn pups in rats at high doses that were severely toxic to the non-iron-overloaded mother. Deferasirox did not cause other effects on fertility or reproduction.
 
@@ -1234,8 +1307,6 @@ Sachets of polyethylene terephthalate (PET)/Aluminium/polyethylene (PE) foil.
 
 Unit packs containing 30 sachets.
 
-<div style=\"page-break-after: always\"></div>
-
 ## 6.6 Special precautions for disposal
 
 No special requirements.
@@ -1244,15 +1315,15 @@ No special requirements.
 
 Novartis Europharm Limited Vista Building Elm Park, Merrion Road Dublin 4 Ireland
 
+<div style=\"page-break-after: always\"></div>
+
 ## 8. MARKETING AUTHORISATION NUMBER(S)
 
 EXJADE 90 mg granules EU/1/06/356/020
 
 EXJADE 180 mg granules EU/1/06/356/021
 
-EXJADE 360 mg granules
-
-EU/1/06/356/022
+EXJADE 360 mg granules EU/1/06/356/022
 
 ## 9. DATE OF FIRST AUTHORISATION/RENEWAL OF THE AUTHORISATION
 
@@ -1281,8 +1352,6 @@ Name and address of the manufacturer responsible for batch release
 
 ## EXJADE 90 mg, 180 mg and 360 mg film-coated tablets
 
-Novartis Pharma GmbH Roonstraße 25 D-90429 Nuremberg Germany
-
 Novartis Farmacéutica S.A. Gran Via de les Corts Catalanes 764 08013 Barcelona Spain
 
 Novartis Pharmaceuticals S.R.L. Str. Livezeni nr. 7A 540472 Targu Mures Romania
@@ -1293,8 +1362,6 @@ Novartis Pharma GmbH Sophie-Germain-Strasse 10 90443 Nuremberg Germany
 
 Novartis Farmacéutica S.A. Gran Via de les Corts Catalanes 764 08013 Barcelona Spain
 
-Novartis Pharma GmbH Roonstraße 25 D-90429 Nuremberg Germany
-
 Novartis Pharma GmbH Sophie-Germain-Strasse 10 90443 Nuremberg Germany
 
 The printed package leaflet of the medicinal product must state the name and address of the manufacturer responsible for the release of the concerned batch.
@@ -1303,13 +1370,13 @@ The printed package leaflet of the medicinal product must state the name and add
 
 Medicinal product subject to restricted medical prescription (See Annex I: Summary of Product Characteristics, section 4.2).
 
-<div style=\"page-break-after: always\"></div>
-
 ## C. OTHER CONDITIONS AND REQUIREMENTS OF THE MARKETING AUTHORISATION
 
 ## · Periodic safety update reports (PSURs)
 
 The requirements for submission of PSURs for this medicinal product are set out in the list of Union reference dates (EURD list) provided for under Article 107c(7) of Directive 2001/83/EC and and any subsequent updates published on the European medicines web-portal.
+
+<div style=\"page-break-after: always\"></div>
 
 ## D. CONDITIONS OR RESTRICTIONS WITH REGARD TO THE SAFE AND EFFECTIVE USE OF THE MEDICINAL PRODUCT
 
@@ -1340,20 +1407,19 @@ Additional periodic distributions should be performed, notably after substantial
 
 The MAH shall use distinct outer cartons, blisters and tablets for the formulations (film-coated tablets and granules).
 
-<div style=\"page-break-after: always\"></div>
-
 The physician educational material should contain:
 
 - The Summary of Product Characteristics
 - Guide for healthcare professionals (which also includes a prescriber checklist)
 
-## The Guide for healthcare professionals shall contain the following key elements as appropriate
-
-depending on the coexistence of deferasirox formulations at a national level:
+The Guide for healthcare professionals shall contain the following key elements as appropriate depending on the coexistence of deferasirox formulations at a national level:
 
 - Description of available deferasirox formulations (EXJADE film-coated tablets and granules) in the EU
 - o Different posology regimen
 - o Different conditions of administration
+
+<div style=\"page-break-after: always\"></div>
+
 - Dose conversion table of EXJADE film-coated tablets/granules and EXJADE dispersible tablets as a reference when switching between EXJADE film-coated tablets/granules and generic versions of deferasirox dispersible tablets
 - The recommended doses and the rules for starting treatment
 - The need to monitor serum ferritin monthly
@@ -1386,14 +1452,15 @@ depending on the coexistence of deferasirox formulations at a national level:
 X and Y are the days (to be determined) when pre-treatment measurements should be performed.
 
 - A warning on the risk of overchelation and on the necessity of close monitoring of serum ferritin levels and renal and hepatic function.
-
-<div style=\"page-break-after: always\"></div>
-
 - The rules for treatment dose adjustments and interruption when target serum ferritin +/- liver iron concentration are reached.
 - Recommendations for treatment of non-transfusion-dependent thalassaemia (NTDT) syndromes:
 - o Information that only one course of treatment is proposed for NTDT patients
 - o A warning on the necessity of closer monitoring of liver iron concentration and serum ferritin in the paediatric population
-- o A warning on the currently unknown safety consequences of long-term treatment in the paediatric population
+- o A warning on the currently unknown safety consequences of long-term treatment in
+
+<div style=\"page-break-after: always\"></div>
+
+## the paediatric population
 
 ## The patient information pack should contain:
 
@@ -1405,14 +1472,6 @@ Patient guide should contain the following key elements:
 - o Information on the need for regular monitoring, and when it should be carried out, of serum creatinine, creatinine clearance, proteinuria, hepatic enzymes, ferritin
 - o Information that renal biopsy may be considered if significant renal abnormalities occur
 - o Availability of several oral formulations (e.g. film-coated tablets, granules and generic version of deferasirox dispersible tablets) and the main differences associated with these formulations (i.e., different posology regimen, different conditions of administration notably with food)
-
-## · Obligation to conduct post-authorisation measures
-
-The MAH shall complete, within the stated timeframe, the below measures:
-
-| Description                                                                                                                                                                                                                                                                                                                                                                                                                                                      | Due date   |
-|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------|
-| Non-interventional post-authorisation safety study (PASS): In order to assess the long-term exposure and safety of deferasirox dispersible and film-coated tablets, the MAHshould conduct an observational cohort study in paediatric non- transfusion-dependent thalassaemia patients over 10 years old for whom deferoxamine is contraindicated or inadequate conducted according to a CHMP- agreed protocol. The clinical study report should be submitted by | July 2025  |
 
 <div style=\"page-break-after: always\"></div>
 
@@ -1444,7 +1503,7 @@ Each tablet contains 90 mg of deferasirox.
 
 ## Film-coated tablets
 
-- 30 film-coated tablets
+30 film-coated tablets
 
 90 film-coated tablets
 
@@ -1505,7 +1564,7 @@ Lot
 
 Exjade 90 mg
 
-## 17. UNIQUE IDENTIFIER - 2D BARCODE
+## 17. UNIQUE IDENTIFIER -2D BARCODE
 
 2D barcode carrying the unique identifier included.
 
@@ -1549,7 +1608,7 @@ Oral use.
 
 Keep out of the sight and reach of children.
 
-## 7. OTHER SPECIAL WARNING(S), IF NECESSARY
+7. OTHER SPECIAL WARNING(S), IF NECESSARY
 
 8. EXPIRY DATE
 
@@ -1575,7 +1634,7 @@ EU/1/06/356/013
 
 Lot
 
-14. GENERAL CLASSIFICATION FOR SUPPLY
+## 14. GENERAL CLASSIFICATION FOR SUPPLY
 
 15. INSTRUCTIONS ON USE
 
@@ -1589,15 +1648,15 @@ Exjade 90 mg
 
 ## 18. UNIQUE IDENTIFIER - HUMAN READABLE DATA
 
-PC SN
+PC
+
+SN
 
 <div style=\"page-break-after: always\"></div>
 
 NN
 
-## PARTICULARS TO APPEAR ON THE OUTER PACKAGING
-
-## INTERMEDIATE CARTON OF MULTIPACK (WITHOUT BLUE BOX)
+## PARTICULARS TO APPEAR ON THE OUTER PACKAGING INTERMEDIATE CARTON OF MULTIPACK (WITHOUT BLUE BOX)
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
@@ -1613,7 +1672,7 @@ Each tablet contains 90 mg of deferasirox.
 
 ## 4. PHARMACEUTICAL FORM AND CONTENTS
 
-## Film-coated tablets
+Film-coated tablets
 
 30 film-coated tablets. Component of a multipack. Not to be sold separately.
 
@@ -1627,9 +1686,9 @@ Oral use.
 
 Keep out of the sight and reach of children.
 
-## 7. OTHER SPECIAL WARNING(S), IF NECESSARY
+7. OTHER SPECIAL WARNING(S), IF NECESSARY
 
-## 8. EXPIRY DATE
+8. EXPIRY DATE
 
 EXP
 
@@ -1637,69 +1696,57 @@ EXP
 
 <div style=\"page-break-after: always\"></div>
 
-<div style=\"page-break-after: always\"></div>
-
-| 10.   | SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROMSUCHMEDICINAL PRODUCTS, IF APPROPRIATE   |
-|-------|---------------------------------------------------------------------------------------------------------------------------------------|
+10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
 Novartis Europharm Limited Vista Building Elm Park, Merrion Road Dublin 4 Ireland
 
-| 12. MARKETING AUTHORISATION NUMBER(S)   |
-|-----------------------------------------|
+## 12. MARKETING AUTHORISATION NUMBER(S)
 
 EU/1/06/356/013
 
 300 (10 packs of 30) film-coated tablets
 
-| 13.   | BATCH NUMBER   |
-|-------|----------------|
+## 13. BATCH NUMBER
 
 Lot
 
-| 14.   | GENERAL CLASSIFICATION FOR SUPPLY   |
-|-------|-------------------------------------|
+## 14. GENERAL CLASSIFICATION FOR SUPPLY
 
 15. INSTRUCTIONS ON USE
+
 16. INFORMATION IN BRAILLE
 
 Exjade 90 mg
 
-| 17.   | UNIQUE IDENTIFIER - 2D BARCODE   |
-|-------|----------------------------------|
+17. UNIQUE IDENTIFIER - 2D BARCODE
 
-| 18.   | UNIQUE IDENTIFIER - HUMANREADABLE DATA   |
-|-------|------------------------------------------|
+## 18. UNIQUE IDENTIFIER - HUMAN READABLE DATA
 
 <div style=\"page-break-after: always\"></div>
 
-| MINIMUM PARTICULARS TO APPEAR ON BLISTERS OR STRIPS   |
-|-------------------------------------------------------|
-| BLISTERS                                              |
+## MINIMUM PARTICULARS TO APPEAR ON BLISTERS OR STRIPS BLISTERS
 
-| 1.   | NAME OF THE MEDICINAL PRODUCT   |
-|------|---------------------------------|
+## 1. NAME OF THE MEDICINAL PRODUCT
 
 Exjade 90 mg film-coated tablets deferasirox
 
-| 2.   | NAME OF THE MARKETING AUTHORISATION HOLDER   |
-|------|----------------------------------------------|
+## 2. NAME OF THE MARKETING AUTHORISATION HOLDER
 
 Novartis Europharm Limited
 
-| 3.   | EXPIRY DATE   |
-|------|---------------|
+## 3. EXPIRY DATE
 
 EXP
 
-| 4.   | BATCH NUMBER   |
-|------|----------------|
+## 4. BATCH NUMBER
 
 Lot
 
-| 5.   | OTHER   |
-|------|---------|
+5. OTHER
+
+<div style=\"page-break-after: always\"></div>
 
 ## PARTICULARS TO APPEAR ON THE OUTER PACKAGING
 
@@ -1721,7 +1768,7 @@ Each tablet contains 180 mg of deferasirox.
 
 ## Film-coated tablets
 
-- 30 film-coated tablets
+30 film-coated tablets
 
 90 film-coated tablets
 
@@ -1731,7 +1778,7 @@ Read the package leaflet before use.
 
 Oral use.
 
-## 6. SPECIAL WARNING THAT THE MEDICINAL PRODUCT MUST BE STORED OUT OF THE SIGHT AND REACH OF CHILDREN
+6. SPECIAL WARNING THAT THE MEDICINAL PRODUCT MUST BE STORED OUT OF THE SIGHT AND REACH OF CHILDREN
 
 Keep out of the sight and reach of children.
 
@@ -1742,8 +1789,6 @@ Keep out of the sight and reach of children.
 EXP
 
 ## 9. SPECIAL STORAGE CONDITIONS
-
-<div style=\"page-break-after: always\"></div>
 
 <div style=\"page-break-after: always\"></div>
 
@@ -1776,9 +1821,10 @@ EU/1/06/356/015
 Lot
 
 14. GENERAL CLASSIFICATION FOR SUPPLY
+
 15. INSTRUCTIONS ON USE
 
-## 16. INFORMATION IN BRAILLE
+16. INFORMATION IN BRAILLE
 
 Exjade 180 mg
 
@@ -1792,11 +1838,11 @@ PC
 
 SN
 
+<div style=\"page-break-after: always\"></div>
+
 NN
 
-## PARTICULARS TO APPEAR ON THE OUTER PACKAGING
-
-## OUTER CARTON OF MULTIPACK (INCLUDING BLUE BOX)
+## PARTICULARS TO APPEAR ON THE OUTER PACKAGING OUTER CARTON OF MULTIPACK (INCLUDING BLUE BOX)
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
@@ -1808,7 +1854,7 @@ deferasirox
 
 Each tablet contains 180 mg of deferasirox.
 
-## 3. LIST OF EXCIPIENTS
+3. LIST OF EXCIPIENTS
 
 ## 4. PHARMACEUTICAL FORM AND CONTENTS
 
@@ -1826,7 +1872,7 @@ Oral use.
 
 Keep out of the sight and reach of children.
 
-## 7. OTHER SPECIAL WARNING(S), IF NECESSARY
+7. OTHER SPECIAL WARNING(S), IF NECESSARY
 
 8. EXPIRY DATE
 
@@ -1866,15 +1912,15 @@ Exjade 180 mg
 
 ## 18. UNIQUE IDENTIFIER - HUMAN READABLE DATA
 
-PC SN
+PC
+
+SN
 
 <div style=\"page-break-after: always\"></div>
 
 NN
 
-## PARTICULARS TO APPEAR ON THE OUTER PACKAGING
-
-## INTERMEDIATE CARTON OF MULTIPACK (WITHOUT BLUE BOX)
+## PARTICULARS TO APPEAR ON THE OUTER PACKAGING INTERMEDIATE CARTON OF MULTIPACK (WITHOUT BLUE BOX)
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
@@ -1890,7 +1936,7 @@ Each tablet contains 180 mg of deferasirox.
 
 ## 4. PHARMACEUTICAL FORM AND CONTENTS
 
-## Film-coated tablets
+Film-coated tablets
 
 30 film-coated tablets. Component of a multipack. Not to be sold separately.
 
@@ -1904,9 +1950,9 @@ Oral use.
 
 Keep out of the sight and reach of children.
 
-## 7. OTHER SPECIAL WARNING(S), IF NECESSARY
+7. OTHER SPECIAL WARNING(S), IF NECESSARY
 
-## 8. EXPIRY DATE
+8. EXPIRY DATE
 
 EXP
 
@@ -1914,7 +1960,9 @@ EXP
 
 <div style=\"page-break-after: always\"></div>
 
-## 10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
+<div style=\"page-break-after: always\"></div>
+
+10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
@@ -1924,29 +1972,24 @@ Novartis Europharm Limited Vista Building Elm Park, Merrion Road Dublin 4 Irelan
 
 EU/1/06/356/016
 
-300 (10 packs of 30) film-coated tablets
-
 ## 13. BATCH NUMBER
 
 Lot
 
-14. GENERAL CLASSIFICATION FOR SUPPLY
+## 14. GENERAL CLASSIFICATION FOR SUPPLY
 
 15. INSTRUCTIONS ON USE
-
 16. INFORMATION IN BRAILLE
 
 Exjade 180 mg
 
-17. UNIQUE IDENTIFIER - 2D BARCODE
+17. UNIQUE IDENTIFIER -2D BARCODE
 
 ## 18. UNIQUE IDENTIFIER - HUMAN READABLE DATA
 
-<div style=\"page-break-after: always\"></div>
+300 (10 packs of 30) film-coated tablets
 
-## MINIMUM PARTICULARS TO APPEAR ON BLISTERS OR STRIPS
-
-BLISTERS
+## MINIMUM PARTICULARS TO APPEAR ON BLISTERS OR STRIPS BLISTERS
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
@@ -1964,7 +2007,7 @@ EXP
 
 Lot
 
-## 5. OTHER
+5. OTHER
 
 <div style=\"page-break-after: always\"></div>
 
@@ -1988,7 +2031,7 @@ Each tablet contains 360 mg of deferasirox.
 
 ## Film-coated tablets
 
-- 30 film-coated tablets
+30 film-coated tablets
 
 90 film-coated tablets
 
@@ -2012,13 +2055,19 @@ EXP
 
 <div style=\"page-break-after: always\"></div>
 
-<div style=\"page-break-after: always\"></div>
-
 ## 10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
-Novartis Europharm Limited Vista Building Elm Park, Merrion Road Dublin 4 Ireland
+Novartis Europharm Limited
+
+Vista Building
+
+Elm Park, Merrion Road
+
+Dublin 4
+
+Ireland
 
 ## 12. MARKETING AUTHORISATION NUMBER(S)
 
@@ -2035,12 +2084,14 @@ EU/1/06/356/018
 Lot
 
 14. GENERAL CLASSIFICATION FOR SUPPLY
+
 15. INSTRUCTIONS ON USE
+
 16. INFORMATION IN BRAILLE
 
 Exjade 360 mg
 
-17. UNIQUE IDENTIFIER - 2D BARCODE
+## 17. UNIQUE IDENTIFIER - 2D BARCODE
 
 2D barcode carrying the unique identifier included.
 
@@ -2050,11 +2101,11 @@ PC
 
 SN
 
+<div style=\"page-break-after: always\"></div>
+
 NN
 
-## PARTICULARS TO APPEAR ON THE OUTER PACKAGING
-
-## OUTER CARTON OF MULTIPACK (INCLUDING BLUE BOX)
+## PARTICULARS TO APPEAR ON THE OUTER PACKAGING OUTER CARTON OF MULTIPACK (INCLUDING BLUE BOX)
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
@@ -2066,7 +2117,7 @@ deferasirox
 
 Each tablet contains 360 mg of deferasirox.
 
-## 3. LIST OF EXCIPIENTS
+3. LIST OF EXCIPIENTS
 
 ## 4. PHARMACEUTICAL FORM AND CONTENTS
 
@@ -2084,7 +2135,7 @@ Oral use.
 
 Keep out of the sight and reach of children.
 
-## 7. OTHER SPECIAL WARNING(S), IF NECESSARY
+7. OTHER SPECIAL WARNING(S), IF NECESSARY
 
 8. EXPIRY DATE
 
@@ -2124,15 +2175,15 @@ Exjade 360 mg
 
 ## 18. UNIQUE IDENTIFIER - HUMAN READABLE DATA
 
-PC SN
+PC
+
+SN
 
 <div style=\"page-break-after: always\"></div>
 
 NN
 
-## PARTICULARS TO APPEAR ON THE OUTER PACKAGING
-
-## INTERMEDIATE CARTON OF MULTIPACK (WITHOUT BLUE BOX)
+## PARTICULARS TO APPEAR ON THE OUTER PACKAGING INTERMEDIATE CARTON OF MULTIPACK (WITHOUT BLUE BOX)
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
@@ -2148,7 +2199,7 @@ Each tablet contains 360 mg of deferasirox.
 
 ## 4. PHARMACEUTICAL FORM AND CONTENTS
 
-## Film-coated tablets
+Film-coated tablets
 
 30 film-coated tablets. Component of a multipack. Not to be sold separately.
 
@@ -2162,9 +2213,9 @@ Oral use.
 
 Keep out of the sight and reach of children.
 
-## 7. OTHER SPECIAL WARNING(S), IF NECESSARY
+7. OTHER SPECIAL WARNING(S), IF NECESSARY
 
-## 8. EXPIRY DATE
+8. EXPIRY DATE
 
 EXP
 
@@ -2172,10 +2223,7 @@ EXP
 
 <div style=\"page-break-after: always\"></div>
 
-<div style=\"page-break-after: always\"></div>
-
-| 10.   | SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROMSUCHMEDICINAL PRODUCTS, IF APPROPRIATE   |
-|-------|---------------------------------------------------------------------------------------------------------------------------------------|
+10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
@@ -2185,6 +2233,8 @@ Novartis Europharm Limited Vista Building Elm Park, Merrion Road Dublin 4 Irelan
 
 EU/1/06/356/019
 
+300 (10 packs of 30) film-coated tablets
+
 ## 13. BATCH NUMBER
 
 Lot
@@ -2192,20 +2242,18 @@ Lot
 ## 14. GENERAL CLASSIFICATION FOR SUPPLY
 
 15. INSTRUCTIONS ON USE
+
 16. INFORMATION IN BRAILLE
 
 Exjade 360 mg
 
 17. UNIQUE IDENTIFIER - 2D BARCODE
 
-| 18.   | UNIQUE IDENTIFIER - HUMANREADABLE DATA   |
-|-------|------------------------------------------|
+## 18. UNIQUE IDENTIFIER - HUMAN READABLE DATA
 
-300 (10 packs of 30) film-coated tablets
+<div style=\"page-break-after: always\"></div>
 
-## MINIMUM PARTICULARS TO APPEAR ON BLISTERS OR STRIPS
-
-BLISTERS
+## MINIMUM PARTICULARS TO APPEAR ON BLISTERS OR STRIPS BLISTERS
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
@@ -2219,7 +2267,7 @@ Novartis Europharm Limited
 
 EXP
 
-4. BATCH NUMBER
+## 4. BATCH NUMBER
 
 Lot
 
@@ -2249,7 +2297,9 @@ Granules in sachet
 
 ## 5. METHOD AND ROUTE(S) OF ADMINISTRATION
 
-Read the package leaflet before use. Oral use.
+Read the package leaflet before use.
+
+Oral use.
 
 ## 6. SPECIAL WARNING THAT THE MEDICINAL PRODUCT MUST BE STORED OUT OF THE SIGHT AND REACH OF CHILDREN
 
@@ -2257,7 +2307,7 @@ Keep out of the sight and reach of children.
 
 ## 7. OTHER SPECIAL WARNING(S), IF NECESSARY
 
-## 8. EXPIRY DATE
+8. EXPIRY DATE
 
 EXP
 
@@ -2293,7 +2343,7 @@ Exjade 90 mg
 
 2D barcode carrying the unique identifier included.
 
-## 18. UNIQUE IDENTIFIER - HUMAN READABLE DATA
+18. UNIQUE IDENTIFIER - HUMAN READABLE DATA
 
 PC SN
 
@@ -2303,17 +2353,17 @@ NN
 
 <div style=\"page-break-after: always\"></div>
 
-| MINIMUM PARTICULARS TO APPEAR ON SMALL IMMEDIATE PACKAGING UNITS   |
-|--------------------------------------------------------------------|
-| SACHETS                                                            |
+| MINIMUM PARTICULARS TO APPEARON SMALL IMMEDIATE PACKAGING UNITS   |
+|-------------------------------------------------------------------|
+| SACHETS                                                           |
 
-| 1.   | NAME OF THE MEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION   |
-|------|----------------------------------------------------------------|
+| 1.   | NAMEOFTHEMEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION   |
+|------|-------------------------------------------------------------|
 
 Exjade 90 mg granules deferasirox Oral use
 
-| 2.   | METHOD OF ADMINISTRATION   |
-|------|----------------------------|
+| 2.   | METHODOFADMINISTRATION   |
+|------|--------------------------|
 
 | 3.   | EXPIRY DATE   |
 |------|---------------|
@@ -2325,15 +2375,13 @@ EXP
 
 Lot
 
-| 5.   | CONTENTS BY WEIGHT, BY VOLUME OR BY UNIT   |
-|------|--------------------------------------------|
+| 5.   | CONTENTS BY WEIGHT,BYVOLUMEORBYUNIT   |
+|------|---------------------------------------|
 
 162 mg
 
 | 6.   | OTHER   |
 |------|---------|
-
-71
 
 ## PARTICULARS TO APPEAR ON THE OUTER PACKAGING
 
@@ -2365,7 +2413,7 @@ Keep out of the sight and reach of children.
 
 ## 7. OTHER SPECIAL WARNING(S), IF NECESSARY
 
-## 8. EXPIRY DATE
+8. EXPIRY DATE
 
 EXP
 
@@ -2373,64 +2421,55 @@ EXP
 
 <div style=\"page-break-after: always\"></div>
 
-<div style=\"page-break-after: always\"></div>
+10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
 
-| 10.   | SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROMSUCHMEDICINAL PRODUCTS, IF APPROPRIATE   |
-|-------|---------------------------------------------------------------------------------------------------------------------------------------|
-
-| 11.   | NAMEANDADDRESS OF THE MARKETING AUTHORISATION HOLDER   |
-|-------|--------------------------------------------------------|
+## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
 Novartis Europharm Limited Vista Building Elm Park, Merrion Road Dublin 4 Ireland
 
-| 12. MARKETING AUTHORISATION NUMBER(S)   |
-|-----------------------------------------|
+## 12. MARKETING AUTHORISATION NUMBER(S)
 
 EU/1/06/356/021
 
 30 sachets
 
-| 13.   | BATCH NUMBER   |
-|-------|----------------|
+## 13. BATCH NUMBER
 
 Lot
 
-| 14.   | GENERAL CLASSIFICATION FOR SUPPLY   |
-|-------|-------------------------------------|
+## 14. GENERAL CLASSIFICATION FOR SUPPLY
 
-| 15.   | INSTRUCTIONS ON USE   |
-|-------|-----------------------|
+15. INSTRUCTIONS ON USE
 
-| 16.   | INFORMATION IN BRAILLE   |
-|-------|--------------------------|
+16. INFORMATION IN BRAILLE
 
 Exjade 180 mg
 
-| 17.   | UNIQUE IDENTIFIER - 2D BARCODE   |
-|-------|----------------------------------|
+## 17. UNIQUE IDENTIFIER - 2D BARCODE
 
 2D barcode carrying the unique identifier included.
 
-| 18.   | UNIQUE IDENTIFIER - HUMANREADABLE DATA   |
-|-------|------------------------------------------|
+18. UNIQUE IDENTIFIER - HUMAN READABLE DATA
 
 PC SN
+
+<div style=\"page-break-after: always\"></div>
 
 NN
 
 <div style=\"page-break-after: always\"></div>
 
-| MINIMUM PARTICULARS TO APPEAR ON SMALL IMMEDIATE PACKAGING UNITS   |
-|--------------------------------------------------------------------|
-| SACHETS                                                            |
+| MINIMUM PARTICULARS TO APPEARON SMALL IMMEDIATE PACKAGING UNITS   |
+|-------------------------------------------------------------------|
+| SACHETS                                                           |
 
-| 1.   | NAME OF THE MEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION   |
-|------|----------------------------------------------------------------|
+| 1.   | NAMEOFTHEMEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION   |
+|------|-------------------------------------------------------------|
 
 Exjade 180 mg granules deferasirox Oral use
 
-| 2.   | METHOD OF ADMINISTRATION   |
-|------|----------------------------|
+| 2.   | METHODOFADMINISTRATION   |
+|------|--------------------------|
 
 | 3.   | EXPIRY DATE   |
 |------|---------------|
@@ -2442,15 +2481,13 @@ EXP
 
 Lot
 
-| 5.   | CONTENTS BY WEIGHT, BY VOLUME OR BY UNIT   |
-|------|--------------------------------------------|
+| 5.   | CONTENTS BY WEIGHT,BYVOLUMEORBYUNIT   |
+|------|---------------------------------------|
 
 324 mg
 
 | 6.   | OTHER   |
 |------|---------|
-
-74
 
 ## PARTICULARS TO APPEAR ON THE OUTER PACKAGING
 
@@ -2482,7 +2519,7 @@ Keep out of the sight and reach of children.
 
 ## 7. OTHER SPECIAL WARNING(S), IF NECESSARY
 
-## 8. EXPIRY DATE
+8. EXPIRY DATE
 
 EXP
 
@@ -2502,11 +2539,11 @@ EU/1/06/356/022
 
 30 sachets
 
-13. BATCH NUMBER
+## 13. BATCH NUMBER
 
 Lot
 
-14. GENERAL CLASSIFICATION FOR SUPPLY
+## 14. GENERAL CLASSIFICATION FOR SUPPLY
 
 15. INSTRUCTIONS ON USE
 
@@ -2518,7 +2555,7 @@ Exjade 360 mg
 
 2D barcode carrying the unique identifier included.
 
-## 18. UNIQUE IDENTIFIER - HUMAN READABLE DATA
+18. UNIQUE IDENTIFIER - HUMAN READABLE DATA
 
 PC SN
 
@@ -2528,17 +2565,17 @@ NN
 
 <div style=\"page-break-after: always\"></div>
 
-| MINIMUM PARTICULARS TO APPEAR ON SMALL IMMEDIATE PACKAGING UNITS   |
-|--------------------------------------------------------------------|
-| SACHETS                                                            |
+| MINIMUM PARTICULARS TO APPEARON SMALL IMMEDIATE PACKAGING UNITS   |
+|-------------------------------------------------------------------|
+| SACHETS                                                           |
 
-| 1.   | NAME OF THE MEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION   |
-|------|----------------------------------------------------------------|
+| 1.   | NAMEOFTHEMEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION   |
+|------|-------------------------------------------------------------|
 
 Exjade 360 mg granules deferasirox Oral use
 
-| 2.   | METHOD OF ADMINISTRATION   |
-|------|----------------------------|
+| 2.   | METHODOFADMINISTRATION   |
+|------|--------------------------|
 
 | 3.   | EXPIRY DATE   |
 |------|---------------|
@@ -2550,8 +2587,8 @@ EXP
 
 Lot
 
-| 5.   | CONTENTS BY WEIGHT, BY VOLUME OR BY UNIT   |
-|------|--------------------------------------------|
+| 5.   | CONTENTS BY WEIGHT,BYVOLUMEORBYUNIT   |
+|------|---------------------------------------|
 
 648 mg
 
@@ -2567,8 +2604,6 @@ Lot
 <div style=\"page-break-after: always\"></div>
 
 EXJADE 90 mg film-coated tablets EXJADE 180 mg film-coated tablets EXJADE 360 mg film-coated tablets deferasirox
-
-This medicine is subject to additional monitoring. This will allow quick identification of new safety information. You can help by reporting any side effects you may get. See the end of section 4 for how to report side effects.
 
 ## Read all of this leaflet carefully before you start taking this medicine because it contains important information for you.
 
@@ -2648,10 +2683,10 @@ Tell your doctor or pharmacist if you are taking, have recently taken or might t
 
 - -other iron chelators, which must not be taken with EXJADE,
 - -antacids (medicines used to treat heartburn) containing aluminium, which should not be taken at the same time of day as EXJADE,
+- -ciclosporin (used to prevent the body rejecting a transplanted organ or for other conditions, such as rheumatoid arthritis or atopic dermatitis),
 
 <div style=\"page-break-after: always\"></div>
 
-- -ciclosporin (used to prevent the body rejecting a transplanted organ or for other conditions, such as rheumatoid arthritis or atopic dermatitis),
 - -simvastatin (used to lower cholesterol),
 - -certain painkillers or anti-inflammatory medicines (e.g. aspirin, ibuprofen, corticosteroids),
 - -oral bisphosphonates (used to treat osteoporosis),
@@ -2798,13 +2833,12 @@ Very common (may affect more than 1 in 10 people)
 
 If any of these affects you severely, tell your doctor.
 
-## Uncommon (may affect up to 1 in 100 people)
+<div style=\"page-break-after: always\"></div>
+
+Uncommon (may affect up to 1 in 100 people)
 
 - Dizziness
 - Fever
-
-<div style=\"page-break-after: always\"></div>
-
 - Sore throat
 - Swelling of arms or legs
 - Change in the colour of the skin
@@ -2847,15 +2881,15 @@ The active substance is deferasirox.
 
 The other ingredients are microcrystalline cellulose; crospovidone; povidone; magnesium stearate; colloidal anhydrous silica and poloxamer. The tablet coating material contains: hypromellose; titanium dioxide (E171); macrogol (4000); talc; indigo carmine aluminium lake (E132).
 
+<div style=\"page-break-after: always\"></div>
+
 ## What EXJADE looks like and contents of the pack
 
 EXJADE is supplied as film-coated tablets. The film-coated tablets are ovaloid and biconvex.
 
-- EXJADE 90 mg film-coated tablets are light blue and stamped '90' on one side and 'NVR' on the other.
-- EXJADE 180 mg film-coated tablets are medium blue and stamped '180' on one side and 'NVR' on the other.
-- EXJADE 360 mg film-coated tablets are dark blue and stamped '360' on one side and 'NVR' on the other.
-
-<div style=\"page-break-after: always\"></div>
+- EXJADE 90 mg film-coated tablets are light blue and stamped ' 90 ' on one side and 'NVR' on the other.
+- EXJADE 180 mg film-coated tablets are medium blue and stamped ' 18 0' on one side and 'NVR' on the other.
+- EXJADE 360 mg film-coated tablets are dark blue and stamped ' 36 0' on one side and 'NVR' on the other.
 
 Each blister pack contains 30 or 90 film-coated tablets. The multipacks contain 300 (10 packs of 30) film-coated tablets.
 
@@ -2866,8 +2900,6 @@ Not all pack sizes or strengths may be available in your country.
 Novartis Europharm Limited Vista Building Elm Park, Merrion Road Dublin 4 Ireland
 
 ## Manufacturer
-
-Novartis Pharma GmbH Roonstraße 25 D-90429 Nuremberg Germany
 
 Novartis Farmacéutica S.A. Gran Via de les Corts Catalanes 764 08013 Barcelona Spain
 
@@ -2891,7 +2923,9 @@ SIA Novartis Baltics Lietuvos filialas Tel: +370 5 269 16 50
 
 Novartis Bulgaria EOOD
 
-Тел.: +359 2 489 98 28
+Тел
+
+.: +359 2 489 98 28
 
 ## Luxembourg/Luxemburg
 
@@ -2919,29 +2953,31 @@ Tlf.: +45 39 16 84 00
 
 ## Malta
 
-Novartis Pharma Services Inc. Tel: +356 2122 2872
+Novartis Pharma Services Inc.
+
+Tel: +356 2122 2872
+
+<div style=\"page-break-after: always\"></div>
 
 ## Deutschland
+
+## Nederland
 
 Novartis Pharma GmbH
 
 Tel: +49 911 273 0
 
-## Nederland
-
 Novartis Pharma B.V.
 
 Tel: +31 88 04 52 111
 
-<div style=\"page-break-after: always\"></div>
-
 ## Eesti
-
-## Norge
 
 SIA Novartis Baltics Eesti filiaal
 
 Tel: +372 66 30 810
+
+## Norge
 
 Novartis Norge AS
 
@@ -2951,7 +2987,9 @@ Tlf: +47 23 05 20 00
 
 Novartis (Hellas) A.E.B.E.
 
-Τηλ: +30 210 281 17 12
+Τηλ
+
+: +30 210 281 17 12
 
 ## Österreich
 
@@ -3009,7 +3047,7 @@ Tel: +386 1 300 75 50
 
 ## Ísland
 
-Vistor hf.
+Vistor ehf.
 
 Sími: +354 535 7000
 
@@ -3035,7 +3073,9 @@ Puh/Tel: +358 (0)10 6133 200
 
 Novartis Pharma Services Inc.
 
-Τηλ: +357 22 690 690
+Τηλ: +
+
+357 22 690 690
 
 ## Sverige
 
@@ -3060,8 +3100,6 @@ Detailed information on this medicine is available on the European Medicines Age
 <div style=\"page-break-after: always\"></div>
 
 EXJADE 90 mg granules in sachet EXJADE 180 mg granules in sachet EXJADE 360 mg granules in sachet deferasirox
-
-This medicine is subject to additional monitoring. This will allow quick identification of new safety information. You can help by reporting any side effects you may get. See the end of section 4 for how to report side effects.
 
 ## Read all of this leaflet carefully before you start taking this medicine because it contains important information for you.
 
@@ -3135,15 +3173,14 @@ You will have regular blood and urine tests during treatment. These will monitor
 
 Your eyesight and hearing will be tested each year during treatment as a precautionary measure.
 
+<div style=\"page-break-after: always\"></div>
+
 ## Other medicines and EXJADE
 
 Tell your doctor or pharmacist if you are taking, have recently taken or might take any other medicines. This includes in particular:
 
 - -other iron chelators, which must not be taken with EXJADE,
 - -antacids (medicines used to treat heartburn) containing aluminium, which should not be taken at the same time of day as EXJADE,
-
-<div style=\"page-break-after: always\"></div>
-
 - -ciclosporin (used to prevent the body rejecting a transplanted organ or for other conditions, such as rheumatoid arthritis or atopic dermatitis),
 - -simvastatin (used to lower cholesterol),
 - -certain painkillers or anti-inflammatory medicines (e.g. aspirin, ibuprofen, corticosteroids),
@@ -3189,11 +3226,11 @@ Breast-feeding is not recommended during treatment with EXJADE.
 
 If you feel dizzy after taking EXJADE, do not drive or operate any tools or machines until you are feeling normal again.
 
+<div style=\"page-break-after: always\"></div>
+
 ## EXJADE contains sodium
 
 This medicine contains less than 1 mmol sodium (23 mg) per sachet, that is to say essentially 'sodium free'.
-
-<div style=\"page-break-after: always\"></div>
 
 ## 3. How to take EXJADE
 
@@ -3234,11 +3271,11 @@ If you have questions about how long to take EXJADE, talk to your doctor.
 
 If you have taken too much EXJADE, or if someone else accidentally takes your granules, contact your doctor or hospital for advice straight away. Show the doctor the pack of granules. Urgent medical treatment may be necessary. You may experience effects such as abdominal pain, diarrhoea, nausea and vomiting and kidney or liver problems that can be serious.
 
+<div style=\"page-break-after: always\"></div>
+
 ## If you forget to take EXJADE
 
 If you miss a dose, take it as soon as you remember on that day. Take your next dose as scheduled. Do not take a double dose on the next day to make up for the forgotten granules.
-
-<div style=\"page-break-after: always\"></div>
 
 ## If you stop taking EXJADE
 
@@ -3287,17 +3324,17 @@ Very common (may affect more than 1 in 10 people)
 - Headache
 - Disturbance in liver function tests
 - Itching
-- Disturbance in urine test (protein in the urine)
-
-If any of these affects you severely, tell your doctor.
-
-## Uncommon (may affect up to 1 in 100 people)
-
-- Dizziness
-- Fever
 
 <div style=\"page-break-after: always\"></div>
 
+## · Disturbance in urine test (protein in the urine)
+
+If any of these affects you severely, tell your doctor.
+
+Uncommon (may affect up to 1 in 100 people)
+
+- Dizziness
+- Fever
 - Sore throat
 - Swelling of arms or legs
 - Change in the colour of the skin
@@ -3340,6 +3377,8 @@ The active substance is deferasirox.
 
 The other ingredients are microcrystalline cellulose; crospovidone; povidone; magnesium stearate; colloidal anhydrous silica and poloxamer.
 
+<div style=\"page-break-after: always\"></div>
+
 ## What EXJADE looks like and contents of the pack
 
 EXJADE granules are supplied as white to almost white granules in sachets.
@@ -3347,8 +3386,6 @@ EXJADE granules are supplied as white to almost white granules in sachets.
 Each pack contains 30 sachets.
 
 Not all strengths may be available in your country.
-
-<div style=\"page-break-after: always\"></div>
 
 ## Marketing Authorisation Holder
 
@@ -3358,15 +3395,15 @@ Novartis Europharm Limited Vista Building Elm Park, Merrion Road Dublin 4 Irelan
 
 Novartis Farmacéutica S.A. Gran Via de les Corts Catalanes 764 08013 Barcelona Spain
 
-Novartis Pharma GmbH Roonstraße 25 D-90429 Nuremberg Germany
-
 Novartis Pharma GmbH Sophie-Germain-Strasse 10 90443 Nuremberg Germany
 
 For any information about this medicine, please contact the local representative of the Marketing Authorisation Holder:
 
 ## België/Belgique/Belgien
 
-Novartis Pharma N.V. Tél/Tel: +32 2 246 16 11
+Novartis Pharma N.V.
+
+Tél/Tel: +32 2 246 16 11
 
 ## Lietuva
 
@@ -3374,15 +3411,19 @@ SIA Novartis Baltics Lietuvos filialas Tel: +370 5 269 16 50
 
 ## България
 
-Novartis Bulgaria EOOD Тел.: +359 2 489 98 28
+Novartis Bulgaria EOOD Тел .: +359 2 489 98 28
 
 ## Luxembourg/Luxemburg
 
-Novartis Pharma N.V Tél/Tel: +32 2 246 16 11
+Novartis Pharma N.V
+
+Tél/Tel: +32 2 246 16 11
 
 ## Česká republika
 
-Novartis s.r.o. Tel: +420 225 775 111
+Novartis s.r.o.
+
+Tel: +420 225 775 111
 
 ## Magyarország
 
@@ -3390,19 +3431,27 @@ Novartis Hungária Kft. Tel.: +36 1 457 65 00
 
 ## Danmark
 
-Novartis Healthcare A/S Tlf.: +45 39 16 84 00
+Novartis Healthcare A/S
+
+Tlf.: +45 39 16 84 00
 
 ## Malta
 
-Novartis Pharma Services Inc. Tel: +356 2122 2872
+Novartis Pharma Services Inc.
+
+Tel: +356 2122 2872
 
 ## Deutschland
 
-Novartis Pharma GmbH Tel: +49 911 273 0
+Novartis Pharma GmbH
+
+Tel: +49 911 273 0
 
 ## Nederland
 
-Novartis Pharma B.V. Tel: +31 88 04 52 111
+Novartis Pharma B.V.
+
+Tel: +31 88 04 52 111
 
 ## Eesti
 
@@ -3410,15 +3459,19 @@ SIA Novartis Baltics Eesti filiaal Tel: +372 66 30 810
 
 ## Norge
 
-Novartis Norge AS Tlf: +47 23 05 20 00
+Novartis Norge AS
+
+Tlf: +47 23 05 20 00
 
 ## Ελλάδα
 
-Novartis (Hellas) A.E.B.E. Τηλ: +30 210 281 17 12
+Novartis (Hellas) A.E.B.E. Τηλ : +30 210 281 17 12
 
 ## Österreich
 
-Novartis Pharma GmbH Tel: +43 1 86 6570
+Novartis Pharma GmbH
+
+Tel: +43 1 86 6570
 
 ## España
 
@@ -3470,7 +3523,7 @@ Tel: +386 1 300 75 50
 
 ## Ísland
 
-Vistor hf.
+Vistor ehf.
 
 Sími: +354 535 7000
 
@@ -3496,7 +3549,9 @@ Puh/Tel: +358 (0)10 6133 200
 
 Novartis Pharma Services Inc.
 
-Τηλ: +357 22 690 690
+Τηλ: +
+
+357 22 690 690
 
 ## Sverige
 

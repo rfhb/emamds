@@ -1,21 +1,97 @@
 ---
-document_datetime: 2026-01-27 12:10:00
+document_datetime: 2026-02-05 14:23:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/avzivi.html
 document_name: avzivi.html
 version: success
-processing_time: 0.2577723
-conversion_datetime: 2026-01-29 11:41:05.877433
+processing_time: 0.0809285
+conversion_datetime: 2026-02-09 22:21:44.801155
 docling_version:
-  docling-serve: 1.11.0
-  docling-jobkit: 1.9.0
-  docling: 2.70.0
-  docling-core: 2.61.0
+  docling-serve: 1.12.0
+  docling-jobkit: 1.10.1
+  docling: 2.72.0
+  docling-core: 2.63.0
   docling-ibm-models: 3.11.0
   docling-parse: 4.7.3
   python: cpython-313 (3.13.11)
   plaform: macOS-26.2-arm64-arm-64bit-Mach-O
 ---
+# Search
+
+- [Medicines](/en/medicines)
+    - [Find medicine](/en/medicines)
+    - [Therapeutic areas: latest updates](/en/medicines/therapeutic-areas-latest-updates)
+    - [Download medicine data](/en/medicines/download-medicine-data)
+    - [What we publish on medicines and when](/en/medicines/what-we-publish-medicines-when)
+    - [Medicines under evaluation](/en/medicines/medicines-human-use-under-evaluation)
+    - [National registers](/en/medicines/national-registers-authorised-medicines)
+- [Human regulatory](/en/human-regulatory-overview)
+    - [Overview](/en/human-regulatory-overview)
+    - [Research and development](/en/human-regulatory-overview/research-development)
+    - [Marketing authorisation](/en/human-regulatory-overview/marketing-authorisation)
+    - [Post-authorisation](/en/human-regulatory-overview/post-authorisation)
+    - [Medical devices](/en/human-regulatory-overview/medical-devices)
+    - [Herbal products](/en/human-regulatory-overview/herbal-medicinal-products)
+- [Veterinary regulatory](/en/veterinary-regulatory-overview)
+    - [Overview](/en/veterinary-regulatory-overview)
+    - [Research and development](/en/veterinary-regulatory-overview/research-development-veterinary-medicines)
+    - [Marketing authorisation](/en/veterinary-regulatory-overview/marketing-authorisation-veterinary-medicines)
+    - [Post-authorisation](/en/veterinary-regulatory-overview/post-authorisation-veterinary-medicines)
+- [Committees](/en/committees)
+    - [Overview](/en/committees)
+    - [How the committees work](/en/committees/how-committees-work)
+    - [CHMP](/en/committees/committee-medicinal-products-human-use-chmp)
+    - [CVMP](/en/committees/committee-veterinary-medicinal-products-cvmp)
+    - [PRAC](/en/committees/pharmacovigilance-risk-assessment-committee-prac)
+    - [COMP](/en/committees/committee-orphan-medicinal-products-comp)
+    - [HMPC](/en/committees/committee-herbal-medicinal-products-hmpc)
+    - [CAT](/en/committees/committee-advanced-therapies-cat)
+    - [PDCO](/en/committees/paediatric-committee-pdco)
+    - [Working parties and other groups](/en/committees/working-parties-other-groups)
+- [News &amp; events](/en/news-events)
+    - [Overview](/en/news-events)
+    - [News](/en/news)
+    - [Events](/en/events/upcoming-events)
+    - [What's new](/en/news-events/whats-new)
+    - [Committee highlights](/en/news-events/committee-highlights)
+    - [Publications](/en/news-and-events/publications)
+    - [Press and social media](/en/news-events/press-social-media)
+    - [Podcast: Inside EMA](/en/news-events/podcast-inside-ema)
+    - [Open consultations](/en/news-events/open-consultations)
+    - [RSS feeds](/en/news-events/rss-feeds)
+- [Partners &amp; networks](/en/partners-networks)
+    - [Overview](/en/partners-networks)
+    - [EU partners](/en/partners-networks/eu-partners)
+    - [International activities](/en/partners-networks/international-activities)
+    - [Patients and consumers](/en/partners-networks/patients-consumers)
+    - [Healthcare professionals](/en/partners-networks/healthcare-professionals)
+    - [Academia](/en/partners-networks/academia)
+    - [Pharmaceutical industry](/en/partners-networks/pharmaceutical-industry)
+    - [Networks](/en/partners-networks/networks)
+    - [Health technology assessment bodies](/en/partners-networks/health-technology-assessment-bodies)
+    - [One Health approach](/en/partners-networks/one-health-approach)
+    - [Animal health practitioners](/en/partners-networks/animal-health-practitioners)
+    - [One substance - one assessment](/en/partners-networks/one-substance-one-assessment-osoa-eu-collaboration-chemicals-related-data)
+- [About us](/en/about-us)
+    - [Overview](/en/about-us)
+    - [What we do](/en/about-us/what-we-do)
+    - [Who we are](/en/about-us/who-we-are)
+    - [How we work](/en/about-us/how-we-work)
+    - [Fees](/en/about-us/fees-payable-european-medicines-agency)
+    - [Support to SMEs](/en/about-us/support-smes)
+    - [Annual reports and work programmes](/en/about-us/annual-reports-work-programmes)
+    - [History of EMA](/en/about-us/history-ema)
+    - [Careers](/en/about-us/careers)
+    - [Procurement](/en/about-us/procurement-grants)
+    - [Glossaries](/en/about-us/glossaries)
+    - [About this website](/en/about-us/about-website)
+    - [Data protection and privacy](/en/about-us/data-protection-privacy-ema)
+    - [Contacts](/en/about-us/contacts-european-medicines-agency)
+
+1. [Home](/en/homepage)
+2. [Medicines](https://www.ema.europa.eu/en/medicines)
+3. Avzivi
+
 # Avzivi
 
 [RSS](/en/individual-human-medicine.xml/243394)
@@ -115,7 +191,7 @@ English (EN) (125.61 KB - PDF)
 
 [View](/en/documents/overview/avzivi-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-566)
+[Other languages (22)](#file-language-dropdown-460)
 
 български (BG) (160.4 KB - PDF)
 
@@ -305,17 +381,17 @@ English (EN) (431.34 KB - PDF)
 
 Avzivi : EPAR - Product information
 
-English (EN) (580.13 KB - PDF)
+English (EN) (1000.13 KB - PDF)
 
 **First published:** 08/08/2024
 
-**Last updated:** 27/01/2026
+**Last updated:** 05/02/2026
 
 [View](/en/documents/product-information/avzivi-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-437)
+[Other languages (24)](#file-language-dropdown-808)
 
-български (BG) (795.62 KB - PDF)
+български (BG) (1.08 MB - PDF)
 
 **First published:**
 
@@ -323,11 +399,11 @@ English (EN) (580.13 KB - PDF)
 
 **Last updated:**
 
-27/01/2026
+05/02/2026
 
 [View](/bg/documents/product-information/avzivi-epar-product-information_bg.pdf)
 
-español (ES) (636 KB - PDF)
+español (ES) (980.85 KB - PDF)
 
 **First published:**
 
@@ -335,11 +411,11 @@ español (ES) (636 KB - PDF)
 
 **Last updated:**
 
-27/01/2026
+05/02/2026
 
 [View](/es/documents/product-information/avzivi-epar-product-information_es.pdf)
 
-čeština (CS) (766.23 KB - PDF)
+čeština (CS) (1.12 MB - PDF)
 
 **First published:**
 
@@ -347,11 +423,11 @@ español (ES) (636 KB - PDF)
 
 **Last updated:**
 
-27/01/2026
+05/02/2026
 
 [View](/cs/documents/product-information/avzivi-epar-product-information_cs.pdf)
 
-dansk (DA) (578.71 KB - PDF)
+dansk (DA) (1016.33 KB - PDF)
 
 **First published:**
 
@@ -359,11 +435,11 @@ dansk (DA) (578.71 KB - PDF)
 
 **Last updated:**
 
-27/01/2026
+05/02/2026
 
 [View](/da/documents/product-information/avzivi-epar-product-information_da.pdf)
 
-Deutsch (DE) (617.28 KB - PDF)
+Deutsch (DE) (853.57 KB - PDF)
 
 **First published:**
 
@@ -371,11 +447,11 @@ Deutsch (DE) (617.28 KB - PDF)
 
 **Last updated:**
 
-27/01/2026
+05/02/2026
 
 [View](/de/documents/product-information/avzivi-epar-product-information_de.pdf)
 
-eesti keel (ET) (572.2 KB - PDF)
+eesti keel (ET) (986.77 KB - PDF)
 
 **First published:**
 
@@ -383,11 +459,11 @@ eesti keel (ET) (572.2 KB - PDF)
 
 **Last updated:**
 
-27/01/2026
+05/02/2026
 
 [View](/et/documents/product-information/avzivi-epar-product-information_et.pdf)
 
-ελληνικά (EL) (868.31 KB - PDF)
+ελληνικά (EL) (1.05 MB - PDF)
 
 **First published:**
 
@@ -395,11 +471,11 @@ eesti keel (ET) (572.2 KB - PDF)
 
 **Last updated:**
 
-27/01/2026
+05/02/2026
 
 [View](/el/documents/product-information/avzivi-epar-product-information_el.pdf)
 
-français (FR) (655.8 KB - PDF)
+français (FR) (1.03 MB - PDF)
 
 **First published:**
 
@@ -407,11 +483,11 @@ français (FR) (655.8 KB - PDF)
 
 **Last updated:**
 
-27/01/2026
+05/02/2026
 
 [View](/fr/documents/product-information/avzivi-epar-product-information_fr.pdf)
 
-hrvatski (HR) (756.82 KB - PDF)
+hrvatski (HR) (1.02 MB - PDF)
 
 **First published:**
 
@@ -419,11 +495,11 @@ hrvatski (HR) (756.82 KB - PDF)
 
 **Last updated:**
 
-27/01/2026
+05/02/2026
 
 [View](/hr/documents/product-information/avzivi-epar-product-information_hr.pdf)
 
-íslenska (IS) (635.16 KB - PDF)
+íslenska (IS) (978.54 KB - PDF)
 
 **First published:**
 
@@ -431,11 +507,11 @@ hrvatski (HR) (756.82 KB - PDF)
 
 **Last updated:**
 
-27/01/2026
+05/02/2026
 
 [View](/is/documents/product-information/avzivi-epar-product-information_is.pdf)
 
-italiano (IT) (638.12 KB - PDF)
+italiano (IT) (974.54 KB - PDF)
 
 **First published:**
 
@@ -443,11 +519,11 @@ italiano (IT) (638.12 KB - PDF)
 
 **Last updated:**
 
-27/01/2026
+05/02/2026
 
 [View](/it/documents/product-information/avzivi-epar-product-information_it.pdf)
 
-latviešu valoda (LV) (752.54 KB - PDF)
+latviešu valoda (LV) (1.06 MB - PDF)
 
 **First published:**
 
@@ -455,11 +531,11 @@ latviešu valoda (LV) (752.54 KB - PDF)
 
 **Last updated:**
 
-27/01/2026
+05/02/2026
 
 [View](/lv/documents/product-information/avzivi-epar-product-information_lv.pdf)
 
-lietuvių kalba (LT) (799.66 KB - PDF)
+lietuvių kalba (LT) (1.02 MB - PDF)
 
 **First published:**
 
@@ -467,11 +543,11 @@ lietuvių kalba (LT) (799.66 KB - PDF)
 
 **Last updated:**
 
-27/01/2026
+05/02/2026
 
 [View](/lt/documents/product-information/avzivi-epar-product-information_lt.pdf)
 
-magyar (HU) (738.83 KB - PDF)
+magyar (HU) (1.04 MB - PDF)
 
 **First published:**
 
@@ -479,11 +555,11 @@ magyar (HU) (738.83 KB - PDF)
 
 **Last updated:**
 
-27/01/2026
+05/02/2026
 
 [View](/hu/documents/product-information/avzivi-epar-product-information_hu.pdf)
 
-Malti (MT) (807.78 KB - PDF)
+Malti (MT) (1.13 MB - PDF)
 
 **First published:**
 
@@ -491,11 +567,11 @@ Malti (MT) (807.78 KB - PDF)
 
 **Last updated:**
 
-27/01/2026
+05/02/2026
 
 [View](/mt/documents/product-information/avzivi-epar-product-information_mt.pdf)
 
-Nederlands (NL) (618.35 KB - PDF)
+Nederlands (NL) (983.56 KB - PDF)
 
 **First published:**
 
@@ -503,11 +579,11 @@ Nederlands (NL) (618.35 KB - PDF)
 
 **Last updated:**
 
-27/01/2026
+05/02/2026
 
 [View](/nl/documents/product-information/avzivi-epar-product-information_nl.pdf)
 
-norsk (NO) (576.47 KB - PDF)
+norsk (NO) (991.92 KB - PDF)
 
 **First published:**
 
@@ -515,11 +591,11 @@ norsk (NO) (576.47 KB - PDF)
 
 **Last updated:**
 
-27/01/2026
+05/02/2026
 
 [View](/no/documents/product-information/avzivi-epar-product-information_no.pdf)
 
-polski (PL) (746.9 KB - PDF)
+polski (PL) (1.05 MB - PDF)
 
 **First published:**
 
@@ -527,11 +603,11 @@ polski (PL) (746.9 KB - PDF)
 
 **Last updated:**
 
-27/01/2026
+05/02/2026
 
 [View](/pl/documents/product-information/avzivi-epar-product-information_pl.pdf)
 
-português (PT) (610.91 KB - PDF)
+português (PT) (976.12 KB - PDF)
 
 **First published:**
 
@@ -539,11 +615,11 @@ português (PT) (610.91 KB - PDF)
 
 **Last updated:**
 
-27/01/2026
+05/02/2026
 
 [View](/pt/documents/product-information/avzivi-epar-product-information_pt.pdf)
 
-română (RO) (785.72 KB - PDF)
+română (RO) (1.04 MB - PDF)
 
 **First published:**
 
@@ -551,11 +627,11 @@ română (RO) (785.72 KB - PDF)
 
 **Last updated:**
 
-27/01/2026
+05/02/2026
 
 [View](/ro/documents/product-information/avzivi-epar-product-information_ro.pdf)
 
-slovenčina (SK) (785.63 KB - PDF)
+slovenčina (SK) (1.03 MB - PDF)
 
 **First published:**
 
@@ -563,11 +639,11 @@ slovenčina (SK) (785.63 KB - PDF)
 
 **Last updated:**
 
-27/01/2026
+05/02/2026
 
 [View](/sk/documents/product-information/avzivi-epar-product-information_sk.pdf)
 
-slovenščina (SL) (769.43 KB - PDF)
+slovenščina (SL) (1011 KB - PDF)
 
 **First published:**
 
@@ -575,11 +651,11 @@ slovenščina (SL) (769.43 KB - PDF)
 
 **Last updated:**
 
-27/01/2026
+05/02/2026
 
 [View](/sl/documents/product-information/avzivi-epar-product-information_sl.pdf)
 
-Suomi (FI) (610 KB - PDF)
+Suomi (FI) (1014.19 KB - PDF)
 
 **First published:**
 
@@ -587,11 +663,11 @@ Suomi (FI) (610 KB - PDF)
 
 **Last updated:**
 
-27/01/2026
+05/02/2026
 
 [View](/fi/documents/product-information/avzivi-epar-product-information_fi.pdf)
 
-svenska (SV) (527.16 KB - PDF)
+svenska (SV) (945.98 KB - PDF)
 
 **First published:**
 
@@ -599,11 +675,11 @@ svenska (SV) (527.16 KB - PDF)
 
 **Last updated:**
 
-27/01/2026
+05/02/2026
 
 [View](/sv/documents/product-information/avzivi-epar-product-information_sv.pdf)
 
-**Latest procedure affecting product information:** PSUR/0000274402 18/12/2025
+**Latest procedure affecting product information:** VR/0000322269 27/01/2026
 
 icon globe
 
@@ -627,7 +703,7 @@ English (EN) (15.4 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/avzivi-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-700)
+[Other languages (24)](#file-language-dropdown-592)
 
 български (BG) (39.55 KB - PDF)
 
@@ -861,7 +937,7 @@ FGK Representative Service GmbH
 
 Heimeranstr. 35
 
-Opinion adopted 30/05/2024 Marketing authorisation issued 26/07/2024 Revision 1
+Opinion adopted 30/05/2024 Marketing authorisation issued 26/07/2024 Revision 2
 
 ## Assessment history
 
@@ -873,9 +949,11 @@ Collapse section
 
 Avzivi : EPAR - Procedural steps taken and scientific information after authorisation
 
-English (EN) (148.17 KB - PDF)
+English (EN) (144.27 KB - PDF)
 
 **First published:** 27/01/2026
+
+**Last updated:** 05/02/2026
 
 [View](/en/documents/procedural-steps-after/avzivi-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf)
 
@@ -919,7 +997,7 @@ English (EN) (156.8 KB - PDF)
 
 [Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 27-30 May 2024](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-27-30-may-2024) 31/05/2024
 
-**This page was last updated on** 27/01/2026
+**This page was last updated on** 05/02/2026
 
 ## Share this page
 

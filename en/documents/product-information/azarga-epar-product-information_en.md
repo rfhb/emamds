@@ -1,18 +1,18 @@
 ---
-document_datetime: 2025-09-02 13:59:16
-document_pages: 30
+document_datetime: 2026-02-06 09:53:37
+document_pages: 29
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/azarga-epar-product-information_en.pdf
 document_name: azarga-epar-product-information_en.pdf
 version: success
-processing_time: 7.0583577
-conversion_datetime: 2025-12-27 21:07:23.076932
+processing_time: 6.268012
+conversion_datetime: 2026-02-09 22:13:29.160655
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.66.0
-  docling-core: 2.57.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.12.0
+  docling-jobkit: 1.10.1
+  docling: 2.72.0
+  docling-core: 2.63.0
+  docling-ibm-models: 3.11.0
+  docling-parse: 4.7.3
   python: cpython-313 (3.13.11)
   plaform: macOS-26.2-arm64-arm-64bit-Mach-O
 ---
@@ -184,11 +184,11 @@ Benzalkonium chloride has also been reported to cause punctate keratopathy and/o
 
 AZARGA should be used with caution in patients with severe hepatic impairment.
 
+<div style=\"page-break-after: always\"></div>
+
 ## 4.5 Interaction with other medicinal products and other forms of interaction
 
 No specific drug interaction studies have been performed with AZARGA.
-
-<div style=\"page-break-after: always\"></div>
 
 AZARGA contains brinzolamide, a carbonic anhydrase inhibitor and, although administered topically, is absorbed systemically. Acid-base disturbances have been reported with oral carbonic anhydrase inhibitors. The potential for interactions must be considered in patients receiving AZARGA.
 
@@ -216,11 +216,11 @@ There are no adequate data regarding the use of ophthalmic brinzolamide and timo
 
 Epidemiological studies have not revealed malformative effects but show a risk for intra uterine growth retardation when beta-blockers are administered by the oral route. In addition, signs and symptoms of beta-blockade (e.g. bradycardia, hypotension, respiratory distress and hypoglycaemia) have been observed in the neonate when beta-blockers have been administered until delivery. If AZARGA is administered until delivery, the neonate should be carefully monitored during the first days of life.
 
+<div style=\"page-break-after: always\"></div>
+
 ## Breast-feeding
 
 It is not known whether ophthalmic brinzolamide is excreted in human breast milk. Studies in animals have shown that following oral administration brinzolamide is excreted in breast milk, see section 5.3.
-
-<div style=\"page-break-after: always\"></div>
 
 Beta-blockers are excreted in breast milk. However, at therapeutic doses of timolol in eye drops it is not likely that sufficient amounts would be present in breast milk to produce clinical symptoms of beta-blockade in the infant. To reduce the systemic absorption, see section 4.2.
 
@@ -250,39 +250,40 @@ In clinical trials, the most common adverse reactions were blurred vision, eye i
 
 The following adverse reactions have been reported during clinical studies and post-marketing surveillance with AZARGA and the individual components brinzolamide and timolol. They are classified according to the following convention: very common (≥1/10), common ( ≥1/100 to &lt;1/10), uncommon (≥1/1 000 to &lt;1/100), rare (≥1/10 000 to &lt;1/1 000), very rare (&lt;1/10 000), or not known (cannot be estimated from the available data). Within each frequency grouping, adverse reactions are presented in order of decreasing seriousness.
 
-| System Organ Classification          | MedDRA Preferred Term (v. 18.0)                                                                                                                                                        |
-|--------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Infections and infestations          | Not known: nasopharyngitis 3 , pharyngitis 3 , sinusitis 3 , rhinitis 3                                                                                                                |
-| Blood and lymphatic system disorders | Uncommon: white blood cell count decreased 1 Not known: decreased red blood cell count 3 , increased blood chloride 3                                                                  |
-| Immune system disorders              | Not known: anaphylaxis 2 , anaphylactic shock 1 , systemic allergic reactions including angioedema, 2 localised and generalised rash 2 , hypersensitivity 1 , urticaria 2 , pruritus 2 |
-| Metabolism and nutrition disorders   | Not known: hypoglycaemia 2                                                                                                                                                             |
+<div style=\"page-break-after: always\"></div>
+
+| System Organ Classification                     | MedDRA Preferred Term (v. 18.0)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    |
+|-------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Infections and infestations                     | Not known: nasopharyngitis 3 , pharyngitis 3 , sinusitis 3 , rhinitis 3                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            |
+| Blood and lymphatic system disorders            | Uncommon: white blood cell count decreased 1 Not known: decreased red blood cell count 3 , increased blood chloride 3                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              |
+| Immune system disorders                         | Not known: anaphylaxis 2 , anaphylactic shock 1 , systemic allergic reactions including angioedema, 2 localised and generalised rash 2 , hypersensitivity 1 , urticaria 2 , pruritus 2                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             |
+| Metabolism and nutrition disorders              | Not known: hypoglycaemia 2                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         |
+| Psychiatric disorders                           | Rare: insomnia 1 Not known: hallucinations 2 , depression 1 , memory loss 2 , apathy 3 , depressed mood 3 , decreased libido 3 , nightmare 2,3 , nervousness 3                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     |
+| Nervous system disorders                        | Common: dysgeusia 1 Not known: cerebral ischaemia 2 , cerebrovascular accident 2 , syncope 2 , increases in the signs and symptoms of myasthenia gravis 2 , somnolence 3 , motor dysfunction 3 , amnesia 3 , memory impairment 3 , paraesthesia 2,3 , tremor 3 , hypoaesthesia 3 , ageusia 3 , dizziness 1 , headache 1                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            |
+| Eye disorders                                   | Common: punctate keratitis 1 , blurred vision 1 , eye pain 1 , eye irritation 1 Uncommon: keratitis 1,2,3 , dry eye 1 , vital dye staining cornea present 1 , eye discharge 1 , eye pruritus 1 , foreign body sensation in eyes 1 , ocular hyperaemia 1 , conjunctival hyperaemia 1 Rare: corneal erosion 1 , anterior chamber flare 1 , photophobia 1 , lacrimation increased 1 , scleral hyperaemia 1 , erythema of eyelid 1, eyelid margin crusting 1 Not known: increased optic nerve cup/disc ratio 3 , choroidal detachment following filtration surgery 2 (see section 4.4 Special warnings and precautions for use), keratopathy 3 , corneal epithelium defect 3 , corneal epithelium disorder 3 , increased intraocular pressure 3 , eye deposit 3 , corneal staining 3 , corneal oedema 3 , decreased corneal sensitivity 2 , conjunctivitis 3 , meibomianitis 3 , diplopia 2, 3 , glare 3 , photopsia 3 , reduced visual acuity 3 , visual impairment 1 , pterygium 3 , ocular discomfort 3 , keratoconjunctivitis sicca 3 , hypoaesthesia of the eye 3 , scleral pigmentation 3 , subconjunctival cyst 3 , visual disturbance 3 , eye swelling 3 , eye |
+| Ear and labyrinth disorders                     | Not known: vertigo 3 , tinnitus 3                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  |
+| Cardiac disorders                               | Common: heart rate decreased 1 Not known: cardiac arrest 2 , cardiac failure 2 , congestive heart failure 2 , atrioventricular block 2 , cardio-respiratory distress 3 , angina pectoris 3 , bradycardia 2,3 , irregular heart rate 3 , arrhythmia 2,3 , palpitations 2,3 , tachycardia 3 , increased heart rate 3, chest pain 2 , oedema 2                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        |
+| Vascular disorders                              | Uncommon: decreased blood pressure 1 Not known: hypotension 2 , hypertension 3 , blood pressure increased 1 , Raynaud's phenomenon 2 , cold hands and feet 2                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       |
+| Respiratory, thoracic and mediastinal disorders | Uncommon: cough 1 Rare: oropharyngeal pain 1 , rhinorrhoea 1 Not known: bronchospasm 2 (predominantly in patients with pre- existing bronchospastic disease), dyspnoea 1 , asthma 3 , epistaxis 1 , bronchial hyperactivity 3 , throat irritation 3 , nasal congestion 3 , upper respiratory tract congestion 3 , postnasal drip 3 , sneezing 3 , nasal dryness 3                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  |
 
 <div style=\"page-break-after: always\"></div>
 
-| Psychiatric disorders                           | Rare: insomnia 1 Not known: hallucinations 2 , depression 1 , memory loss 2 , apathy 3 , depressed mood 3 , decreased libido 3 , nightmare 2,3 , nervousness 3                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              |
-|-------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Nervous system disorders                        | Common: dysgeusia 1 Not known: cerebral ischaemia 2 , cerebrovascular accident 2 , syncope 2 , increases in the signs and symptoms of myasthenia gravis 2 , somnolence 3 , motor dysfunction 3 , amnesia 3 , memory impairment 3 , paraesthesia 2,3 , tremor 3 , hypoaesthesia 3 , ageusia 3 , dizziness 1 , headache 1                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     |
-| Eye disorders                                   | Common: punctate keratitis 1 , blurred vision 1 , eye pain 1 , eye irritation 1 Uncommon: keratitis 1,2,3 , dry eye 1 , vital dye staining cornea present 1 , eye discharge 1 , eye pruritus 1 , foreign body sensation in eyes 1 , ocular hyperaemia 1 , conjunctival hyperaemia 1 Rare: corneal erosion 1 , anterior chamber flare 1 , photophobia 1 , lacrimation increased 1 , scleral hyperaemia 1 , erythema of eyelid 1, eyelid margin crusting 1 Not known: increased optic nerve cup/disc ratio 3 , choroidal detachment following filtration surgery 2 (see section 4.4 Special warnings and precautions for use), keratopathy 3 , corneal epithelium defect 3 , corneal epithelium disorder 3 , increased intraocular pressure 3 , eye deposit 3 , corneal staining 3 , corneal oedema 3 , decreased corneal sensitivity 2 , conjunctivitis 3 , meibomianitis 3 , diplopia 2, 3 , glare 3 , photopsia 3 , reduced visual acuity 3 , visual impairment 1 , pterygium 3 , ocular discomfort 3 , keratoconjunctivitis sicca 3 , hypoaesthesia of the eye 3 , scleral pigmentation 3 , subconjunctival cyst 3 , visual disturbance 3 , eye swelling 3 , eye allergy 3 , madarosis 3 , eyelid disorder 3 , eyelid oedema 1 , ptosis 2 |
-| Ear and labyrinth disorders                     | Not known: vertigo 3 , tinnitus 3                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           |
-| Cardiac disorders                               | Common: heart rate decreased 1 Not known: cardiac arrest 2 , cardiac failure 2 , congestive heart failure 2 , atrioventricular block 2 , cardio-respiratory distress 3 , angina pectoris 3 , bradycardia 2,3 , irregular heart rate 3 , arrhythmia 2,3 , palpitations 2,3 , tachycardia 3 , increased heart rate 3, chest pain 2 , oedema 2                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 |
-| Vascular disorders                              | Uncommon: decreased blood pressure 1 Not known: hypotension 2 , hypertension 3 , blood pressure increased 1 , Raynaud's phenomenon 2 , cold hands and feet 2                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                |
-| Respiratory, thoracic and mediastinal disorders | Uncommon: cough 1 Rare: oropharyngeal pain 1 , rhinorrhoea 1 Not known: bronchospasm 2 (predominantly in patients with pre- existing bronchospastic disease), dyspnoea 1 , asthma 3 , epistaxis 1 , bronchial hyperactivity 3 , throat irritation 3 , nasal congestion 3 , upper respiratory tract congestion 3 , postnasal drip 3 , sneezing 3 , nasal dryness 3                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           |
-| Gastrointestinal disorders                      | Not known: vomiting 2,3 , abdominal pain upper 1 , abdominal pain 2 , diarrhoea 1 , dry mouth 1 , nausea 1 , oesophagitis 3 , dyspepsia 2,3 , abdominal discomfort 3 , stomach discomfort 3 , frequent bowel movements 3 , gastrointestinal disorder 3 , oral hypoaesthesia 3 , oral paraesthesia 3 , flatulence 3                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          |
-| Hepatobiliary disorders                         | Not known: abnormal liver function test 3                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
-| Skin and subcutaneous tissue disorders          | Not known: Stevens-Johnson syndrome (SJS)/toxic epidermal necrolysis (TEN) (see section 4.4), urticaria 3 , maculo-papular rash 3 , generalised pruritus 3 , skin tightness 3 , dermatitis 3 , alopecia 1 , psoriasiform rash or exacerbation of psoriasis 2 , rash 1 , erythema 1                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          |
-| Musculoskeletal and connective tissue disorders | Not known: myalgia 1 , muscle spasms 3 , arthralgia 3 , back pain 3 , pain in extremity 3                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
+| Gastrointestinal disorders                           | Not known: vomiting 2,3 , abdominal pain upper 1 , abdominal pain 2 , diarrhoea 1 , dry mouth 1 , nausea 1 , oesophagitis 3 , dyspepsia 2,3 , abdominal discomfort 3 , stomach discomfort 3 , frequent bowel movements 3 , gastrointestinal disorder 3 , oral hypoaesthesia 3 , oral paraesthesia 3 , flatulence 3   |
+|------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Hepatobiliary disorders                              | Not known: abnormal liver function test 3                                                                                                                                                                                                                                                                            |
+| Skin and subcutaneous tissue disorders               | Not known: Stevens-Johnson syndrome (SJS)/toxic epidermal necrolysis (TEN) (see section 4.4), urticaria 3 , maculo-papular rash 3 , generalised pruritus 3 , skin tightness 3 , dermatitis 3 , alopecia 1 , psoriasiform rash or exacerbation of psoriasis 2 , rash 1 , erythema 1                                   |
+| Musculoskeletal and connective tissue disorders      | Not known: myalgia 1 , muscle spasms 3 , arthralgia 3 , back pain 3 , pain in extremity 3                                                                                                                                                                                                                            |
+| Renal and urinary disorders                          | Uncommon: blood urine present 1 Not known: renal pain 3 , pollakiuria 3                                                                                                                                                                                                                                              |
+| Reproductive system and breast disorders             | Not known: erectile dysfunction 3 , sexual dysfunction 2 , decreased libido 2                                                                                                                                                                                                                                        |
+| General disorders and administration site conditions | Uncommon: malaise 1,3 Not known: chest pain 1 , pain 3 , fatigue 1 , asthenia 2,3 , chest discomfort 3 , feeling jittery 3 , irritability 3 , peripheral oedema 3 , medication residue 3                                                                                                                             |
+| Investigations                                       | Uncommon: blood potassium increase 1 , blood lactate dehydrogenase increased 1                                                                                                                                                                                                                                       |
 
-<div style=\"page-break-after: always\"></div>
+1
 
-| Renal and urinary disorders                          | Uncommon: blood urine present 1 Not known: renal pain 3 , pollakiuria 3                                                                                                                  |
-|------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Reproductive system and breast disorders             | Not known: erectile dysfunction 3 , sexual dysfunction 2 , decreased libido 2                                                                                                            |
-| General disorders and administration site conditions | Uncommon: malaise 1,3 Not known: chest pain 1 , pain 3 , fatigue 1 , asthenia 2,3 , chest discomfort 3 , feeling jittery 3 , irritability 3 , peripheral oedema 3 , medication residue 3 |
-| Investigations                                       | Uncommon: blood potassium increase 1 , blood lactate dehydrogenase increased 1                                                                                                           |
+adverse reactions observed for Azarga
 
 - 2 additional adverse reactions observed with timolol monotherapy
-
-3 additional adverse reactions observed with brinzolamide monotherapy
+- 3 additional adverse reactions observed with brinzolamide monotherapy
 
 ## Description of selected adverse reactions
 
@@ -300,13 +301,13 @@ AZARGA is not recommended for use in children and adolescents below 18 years due
 
 Reporting suspected adverse reactions after authorisation of the medicinal product is important. It allows continued monitoring of the benefit/risk balance of the medicinal product. Healthcare professionals are asked to report any suspected adverse reactions via the national reporting system listed in Appendix V.
 
+<div style=\"page-break-after: always\"></div>
+
 ## 4.9 Overdose
 
 In case of accidental ingestion, symptoms of overdose from beta blockade may include bradycardia, hypotension, cardiac failure and bronchospasm.
 
 If overdose with AZARGA eye drops occurs, treatment should be symptomatic and supportive. Due to brinzolamide, electrolyte imbalance, development of an acidotic state, and possibly central nervous system effects may occur. Serum electrolyte levels (particularly potassium) and blood pH levels should be monitored. Studies have shown that timolol does not dialyse readily.
-
-<div style=\"page-break-after: always\"></div>
 
 ## 5. PHARMACOLOGICAL PROPERTIES
 
@@ -332,13 +333,13 @@ In a six-month, controlled clinical study in patients with open-angle glaucoma o
 
 In three controlled clinical trials, the ocular discomfort upon instillation of AZARGA was significantly lower than that of dorzolamide 20 mg/ml + timolol 5 mg/ml.
 
+<div style=\"page-break-after: always\"></div>
+
 ## 5.2 Pharmacokinetic properties
 
 ## Absorption
 
-Following topical ocular administration, brinzolamide and timolol are absorbed through the cornea and into the systemic circulation. In a pharmacokinetic study, healthy subjects received oral brinzolamide (1 mg) twice daily for 2 weeks to shorten the time to reach steady-state prior to starting AZARGA administration. Following twice daily dosing of AZARGA for 13 weeks, red blood cell (RBC) concentrations of brinzolamide averaged 18.8 ± 3.29 µM, 18.1 ± 2.68 µM and 18.4 ± 3.01 µM at weeks 4, 10 and 15, respectively, indicating that steady-state RBC concentrations of brinzolamide were maintained
-
-<div style=\"page-break-after: always\"></div>
+Following topical ocular administration, brinzolamide and timolol are absorbed through the cornea and into the systemic circulation. In a pharmacokinetic study, healthy subjects received oral brinzolamide (1 mg) twice daily for 2 weeks to shorten the time to reach steady-state prior to starting AZARGA administration. Following twice daily dosing of AZARGA for 13 weeks, red blood cell (RBC) concentrations of brinzolamide averaged 18.8  3.29 µM, 18.1  2.68 µM and 18.4  3.01 µM at weeks 4, 10 and 15, respectively, indicating that steady-state RBC concentrations of brinzolamide were maintained
 
 At steady state, following administration of AZARGA, the mean plasma Cmax and AUC0-12h of timolol were 27% and 28% lower (Cmax: 0.824 ± 0.453 ng/ml; AUC0-12h: 4.71 ± 4.29 ng·h/ml), respectively, in comparison to the administration of timolol 5 mg/ml (Cmax: 1.13 ± 0.494 ng/ml; AUC0-12h: 6.58 ± 3.18 ng·h/ml). The lower systemic exposure to timolol following AZARGA administration is not clinically relevant. Following administration of AZARGA, mean Cmax of timolol was reached at 0.79 ± 0.45 hours.
 
@@ -360,21 +361,19 @@ Brinzolamide is eliminated primarily by renal excretion (approximately 60%). Abo
 
 Timolol and its metabolites are primarily excreted by the kidneys. Approximately 20% of a timolol dose is excreted in the urine unchanged and the remainder excreted in urine as metabolites. The plasma t1/2 of timolol is 4.8 hours after administration of AZARGA.
 
+<div style=\"page-break-after: always\"></div>
+
 ## 5.3 Preclinical safety data
 
 ## Brinzolamide
 
 Non-clinical data reveal no special hazard for humans with brinzolamide based on single-dose toxicity, repeated dose toxicity, genotoxicity, carcinogenic potential, and topical ocular irritation studies.
 
-Developmental toxicity studies in rabbits with oral doses of brinzolamide of up to 6 mg/kg/day (214 times the recommended daily clinical dose of 28 µg/kg/day) revealed no effect on foetal development despite significant maternal toxicity. Similar studies in rats resulted in slightly reduced ossification of skull and sternebrae of foetuses of dams receiving brinzolamide at doses of 18 mg/kg/day (642 times the recommended daily clinical dose), but not 6 mg/kg/day. These findings occurred at doses that caused metabolic acidosis with decreased body weight gain in dams and decreased foetal weights. Dose-related decreases in foetal weights were observed in pups of dams
-
-<div style=\"page-break-after: always\"></div>
-
-receiving brinzolamide orally ranging from a slight decrease (about 5-6%) at 2 mg/kg/day to nearly 14% at 18 mg/kg/day. During lactation, the no adverse effect level in the offspring was 5 mg/kg/day.
+Developmental toxicity studies in rabbits with oral doses of brinzolamide of up to 6 mg/kg/day (214 times the recommended daily clinical dose of 28 µg/kg/day) revealed no effect on foetal development despite significant maternal toxicity. Similar studies in rats resulted in slightly reduced ossification of skull and sternebrae of foetuses of dams receiving brinzolamide at doses of 18 mg/kg/day (642 times the recommended daily clinical dose), but not 6 mg/kg/day. These findings occurred at doses that caused metabolic acidosis with decreased body weight gain in dams and decreased foetal weights. Dose-related decreases in foetal weights were observed in pups of dams receiving brinzolamide orally ranging from a slight decrease (about 5-6%) at 2 mg/kg/day to nearly 14% at 18 mg/kg/day. During lactation, the no adverse effect level in the offspring was 5 mg/kg/day.
 
 ## Timolol
 
-Non-clinical data reveal no special hazard for humans with timolol based on single-dose toxicity, repeated dose toxicity, genotoxicity, carcinogenic potential, and topical ocular irritation studies. Reproduction toxicity studies with timolol showed delayed foetal ossification in rats with no adverse effects on postnatal development (at 50 mg/kg/day or 3 500 times the daily clinical dose of 14 µ g/kg/day) and increased foetal resorptions in rabbits (at 90 mg/kg/day or 6 400 times the daily clinical dose).
+Non-clinical data reveal no special hazard for humans with timolol based on single-dose toxicity, repeated dose toxicity, genotoxicity, carcinogenic potential, and topical ocular irritation studies. Reproduction toxicity studies with timolol showed delayed foetal ossification in rats with no adverse effects on postnatal development (at 50 mg/kg/day or 3 500 times the daily clinical dose of 14  g/kg/day) and increased foetal resorptions in rabbits (at 90 mg/kg/day or 6 400 times the daily clinical dose).
 
 ## 6. PHARMACEUTICAL PARTICULARS
 
@@ -396,6 +395,8 @@ Not applicable.
 
 This medicinal product does not require any special storage conditions.
 
+<div style=\"page-break-after: always\"></div>
+
 ## 6.5 Nature and contents of container
 
 5 ml round opaque low density polyethylene bottles with a dispensing plug and white polypropylene screw cap containing 5 ml suspension.
@@ -406,11 +407,11 @@ Cartons containing 1 or 3 bottles. Not all pack sizes may be marketed.
 
 No special requirements.
 
-<div style=\"page-break-after: always\"></div>
-
 ## 7. MARKETING AUTHORISATION HOLDER
 
-Novartis Europharm Limited Vista Building Elm Park, Merrion Road Dublin 4 Ireland
+Novartis Europharm Limited
+
+Vista Building Elm Park, Merrion Road Dublin 4 Ireland
 
 ## 8. MARKETING AUTHORISATION NUMBER(S)
 
@@ -441,13 +442,9 @@ Detailed information on this medicinal product is available on the website of th
 
 Name and address of the manufacturer(s) responsible for batch release
 
-Novartis Pharma GmbH Roonstraße 25 D-90429 Nuremberg Germany
-
 Novartis Manufacturing NV Rijksweg 14 2870 Puurs-Sint-Amands Belgium
 
 Novartis Farmacéutica, S.A. Gran Via de les Corts Catalanes, 764 08013 Barcelona Spain
-
-Siegfried El Masnou, S.A. Camil Fabra 58 El Masnou 08320 Barcelona Spain
 
 Novartis Pharma GmbH Sophie-Germain-Strasse 10 90443 Nuremberg Germany
 
@@ -469,9 +466,7 @@ The requirements for submission of PSURs for this medicinal product are set out 
 
 The marketing authorisation holder (MAH) shall perform the required pharmacovigilance activities and interventions detailed in the agreed RMP presented in Module 1.8.2. of the marketing authorisation and any agreed subsequent updates of the RMP.
 
-<div style=\"page-break-after: always\"></div>
-
-## An updated RMP should be submitted:
+An updated RMP should be submitted:
 
 - At the request of the European Medicines Agency;
 - Whenever the risk management system is modified, especially as the result of new information being received that may lead to a significant change to the benefit/risk profile or as the result of an important (pharmacovigilance or risk minimisation) milestone being reached.
@@ -538,17 +533,13 @@ Opened:
 
 <div style=\"page-break-after: always\"></div>
 
-| 9.   | SPECIAL STORAGE CONDITIONS   |
-|------|------------------------------|
+## 9. SPECIAL STORAGE CONDITIONS
 
-| 10.   | SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVEDFROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE   |
-|-------|----------------------------------------------------------------------------------------------------------------------------------------|
+10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
-Novartis Europharm Limited
-
-Vista Building Elm Park, Merrion Road Dublin 4 Ireland
+Novartis Europharm Limited Vista Building Elm Park, Merrion Road Dublin 4 Ireland
 
 ## 12. MARKETING AUTHORISATION NUMBERS
 
@@ -564,7 +555,8 @@ EU/1/08/482/002
 
 Lot
 
-14. GENERAL CLASSIFICATION FOR SUPPLY
+## 14. GENERAL CLASSIFICATION FOR SUPPLY
+
 15. INSTRUCTIONS ON USE
 16. INFORMATION IN BRAILLE
 
@@ -574,8 +566,7 @@ azarga
 
 2D barcode carrying the unique identifier included.
 
-| 18.   | UNIQUE IDENTIFIER - HUMANREADABLE DATA   |
-|-------|------------------------------------------|
+## 18. UNIQUE IDENTIFIER -HUMAN READABLE DATA
 
 PC
 
@@ -613,8 +604,7 @@ Lot
 
 5 ml
 
-| 6   | OTHER   |
-|-----|---------|
+## 6 OTHER
 
 <div style=\"page-break-after: always\"></div>
 
@@ -661,13 +651,13 @@ AZARGA is used to treat high pressure in the eyes, also called glaucoma or ocula
 - If you have too much acidity in your blood (a condition called hyperchloraemic acidosis).
 - If you have severe kidney problems.
 
+<div style=\"page-break-after: always\"></div>
+
 ## Warnings and precautions
 
 Only use AZARGA for dropping in your eye(s).
 
 If signs of serious reactions or hypersensitivity occur, discontinue the use of this product and talk to your doctor.
-
-<div style=\"page-break-after: always\"></div>
 
 Talk to your doctor or pharmacist before using AZARGA if you have or have had in the past:
 
@@ -703,6 +693,8 @@ If you are taking another carbonic anhydrase inhibitor (acetazolamide or dorzola
 
 Increase in pupil size when taking Azarga and adrenaline (epinephrine) together has been reported occasionally.
 
+<div style=\"page-break-after: always\"></div>
+
 ## Pregnancy and breast-feeding
 
 You should not use AZARGA if you are pregnant or might get pregnant, unless your doctor considers it necessary. Talk to your doctor before you use AZARGA.
@@ -712,8 +704,6 @@ Do not use AZARGA if you are breast feeding, timolol may get into your milk. Ask
 ## Driving and using machines
 
 Do not drive or use machines until your vision is clear. You may find that your vision is blurred for some time just after using AZARGA.
-
-<div style=\"page-break-after: always\"></div>
 
 One of the active ingredients may impair the ability to perform tasks requiring mental alertness and/or physical coordination. If affected take care when driving or using machines.
 
@@ -741,6 +731,8 @@ One drop in the affected eye or eyes, twice a day.
 
 Only use AZARGA in both eyes if your doctor told you to. Take it for as long as your doctor told you to.
 
+<div style=\"page-break-after: always\"></div>
+
 ## How to use
 
 <!-- image -->
@@ -753,11 +745,6 @@ Only use AZARGA in both eyes if your doctor told you to. Take it for as long as 
 - Twist off the bottle cap. After the cap is removed, if the tamper evident snap collar is loose, remove before using product.
 - Hold the bottle, pointing down, between your thumb and fingers.
 - Tilt your head back. Pull down your eyelid with a clean finger, until there is a 'pocket' between the eyelid and your eye. The drop will go in here (picture 1).
-
-<!-- image -->
-
-<div style=\"page-break-after: always\"></div>
-
 - Bring the bottle tip close to the eye. Use the mirror if it helps.
 - Do not touch your eye or eyelid, surrounding areas or other surfaces with the dropper. It could infect the drops.
 - Gently press on the base of the bottle to release one drop of AZARGA at a time.
@@ -781,6 +768,10 @@ If you stop using AZARGA without speaking to your doctor, the pressure in your e
 
 If you have any further questions on the use of this medicine, ask your doctor or pharmacist.
 
+<!-- image -->
+
+<div style=\"page-break-after: always\"></div>
+
 ## 4. Possible side effects
 
 Like all medicines, this medicine can cause side effects although not everybody gets them.
@@ -791,29 +782,30 @@ Stop using AZARGA and seek medical attention immediately if you notice any of th
 
 You can usually carry on taking the drops, unless the effects are serious. If you are worried, talk to your doctor or pharmacist. Do not stop using Azarga without speaking to your doctor first.
 
-Common (may affect up to 1 in 10 people)
+## Common (may affect up to 1 in 10 people)
 
 - Effects in the eye : eye surface inflammation, blurred vision, signs and symptoms of eye irritation (e.g. burning, stinging, itching, tearing, redness), eye pain.
 - General side effects : heart rate decreased, taste disturbances.
 
-<div style=\"page-break-after: always\"></div>
-
-## Uncommon (may affect up to 1 in 100 people)
+Uncommon (may affect up to 1 in 100 people)
 
 - Effects in the eye : corneal erosion (damage to the front layer of the eyeball), Eye surface inflammation with surface damage, inflammation inside the eye, corneal staining, abnormal sensation in the eyes, eye discharge, dry eye, tired eyes, itchy eye, eye redness, eyelid redness.
 - General side effects : decrease in white blood cell count, decreased blood pressure, cough, blood in urine, body weakness.
 
-## Rare (may affect up to 1 in 1 000 people)
+Rare (may affect up to 1 in 1 000 people)
 
 - Effects in the eye: corneal disorder, sensitivity to light, increased tear production, eyelid crusting
 - General side effects: difficulty sleeping (insomnia), throat pain, running nose
 
-## Not known (frequency cannot be estimated from the available data)
+Not known (frequency cannot be estimated from the available data)
 
 - Effects in the eye : eye allergy, disturbance of vision, damage to the optic nerve, increased pressure in eye, deposits on the eye surface, decreased eye sensation, inflammation or infection of the conjunctiva (white of the eye), abnormal, double or reduced vision, increased pigmentation of the eye, growth on surface of eye, eye swelling, sensitivity to light, decreased growth or number of eyelashes, drooping of the upper eyelids (making the eye stay half closed), inflammation of the eyelid and eye lid glands, inflammation in the cornea and detachment of the layer below the retina that contains blood vessels following filtration surgery which may cause visual disturbances, decreased corneal sensitivity.
 - General side effects : reddish non-elevated, target-like or circular patches on the trunk, often with central blisters, skin peeling, ulcers of mouth, throat, nose, genitals and eyes, which can be preceded by fever and flu-like symptoms. These serious skin rashes can be potentially lifethreatening (Stevens-Johnson syndrome, toxic epidermal necrolysis).
-- Heart and circulation : changes in rhythm or rate of the heartbeat, slow heart rate, palpitations, a type of heart rhythm disorder, abnormal increase in heart rate, chest pain, reduced heart function, heart attack, increased blood pressure, reduced blood supply to the brain, stroke, oedema (fluid build up), congestive heart failure (heart disease with shortness of breath and swelling of the feet and legs due to fluid build up), swelling of the extremities, low blood pressure, discoloration of the fingers, toes, and occasionally other areas of the body (Raynaud's phenomenon), cold hands and feet.
+- Heart and circulation : changes in rhythm or rate of the heartbeat, slow heart rate, palpitations, a type of heart rhythm disorder, abnormal increase in heart rate, chest pain, reduced heart function, heart attack, increased blood pressure, reduced blood supply to the brain, stroke, oedema (fluid build up), congestive heart failure (heart disease with shortness of breath and swelling of the feet and legs due to fluid build up), swelling of the extremities, low blood pressure, discoloration of the fingers, toes, and occasionally other areas of the body ( Raynaud's phenomenon), cold hands and feet.
 - Respiratory: Constriction of the airways in the lungs (predominantly in patients with preexisting disease) shortness of breath or difficulty breathing, cold symptoms, chest congestion, sinus infection, sneezing, stuffy nose, dry nose, nose bleeds, asthma, throat irritation.
+
+<div style=\"page-break-after: always\"></div>
+
 - Nervous system and general disorders: hallucinations, depression, nightmares, memory loss, headache, nervousness, irritability, tiredness, shaking, feeling abnormal, fainting, dizziness, drowsiness, generalised or severe weakness, unusual sensations like pins and needles.
 - Gastric: nausea, vomiting, diarrhoea, intestinal gas or abdominal discomfort, inflammation of the throat, dry or abnormal sensation in mouth, indigestion, stomach ache.
 - Blood: abnormal liver function values, increased blood chlorine levels, or decreased red blood cell count as seen in a blood test.
@@ -824,8 +816,6 @@ Common (may affect up to 1 in 10 people)
 - Kidney: kidney pain such as lower back pain, frequent urination.
 - Reproduction: sexual dysfunction, decreased libido, male sexual difficulty.
 - Metabolism: low blood sugar levels.
-
-<div style=\"page-break-after: always\"></div>
 
 ## Reporting of side effects
 
@@ -848,8 +838,9 @@ Do not throw away any medicines via wastewater or household waste. Ask your phar
 ## What AZARGA contains
 
 - The active substances are brinzolamide and timolol. One ml of suspension contains 10 mg of brinzolamide and 5 mg of timolol (as maleate).
-- The other ingredients are benzalkonium chloride (see section 2 'AZARGA contains benzalkonium'), carbopol 974P, disodium edetate, mannitol (E421), purified water, sodium chloride, tyloxapol, hydrochloric acid and/or sodium hydroxide.
-- Tiny amounts of hydrochloric acid and/or sodium hydroxide are added to keep acidity levels (pH levels) normal.
+- The other ingredients are benzalkonium chloride (see section 2 'AZARGA contains benzalkonium ' ), carbopol 974P, disodium edetate, mannitol (E421), purified water, sodium chloride, tyloxapol, hydrochloric acid and/or sodium hydroxide. Tiny amounts of hydrochloric acid and/or sodium hydroxide are added to keep acidity levels (pH levels) normal.
+
+<div style=\"page-break-after: always\"></div>
 
 ## What AZARGA looks like and contents of the pack
 
@@ -861,15 +852,9 @@ Novartis Europharm Limited Vista Building Elm Park, Merrion Road Dublin 4 Irelan
 
 ## Manufacturer
 
-Novartis Pharma GmbH Roonstraße 25 D-90429 Nuremberg Germany
-
 Novartis Manufacturing NV Rijksweg 14 2870 Puurs-Sint-Amands Belgium
 
-<div style=\"page-break-after: always\"></div>
-
 Novartis Farmacéutica, S.A. Gran Via de les Corts Catalanes, 764 08013 Barcelona Spain
-
-Siegfried El Masnou, S.A. Camil Fabra 58 El Masnou 08320 Barcelona Spain
 
 Novartis Pharma GmbH Sophie-Germain-Strasse 10 90443 Nuremberg Germany
 
@@ -877,9 +862,11 @@ For any information about this medicine, please contact the local representative
 
 ## België/Belgique/Belgien
 
-Novartis Pharma N.V.
+Novartis Pharma N.V. Tél/Tel: +32 2 246 16 11
 
-Tél/Tel: +32 2 246 16 11
+## Lietuva
+
+SIA Novartis Baltics Lietuvos filialas Tel: +370 5 269 16 50
 
 ## България
 
@@ -887,51 +874,15 @@ Novartis Bulgaria EOOD
 
 Тел.: +359 2 489 98 28
 
-## Česká republika
-
-Novartis s.r.o.
-
-Tel: +420 225 775 111
-
-## Danmark
-
-Novartis Healthcare A/S Tlf: +45 39 16 84 00
-
-## Deutschland
-
-Cranach Pharma GmbH
-
-Tel: +49 40 3803837-10
-
-## Eesti
-
-SIA Novartis Baltics Eesti filiaal Tel: +372 66 30 810
-
-## Ελλάδα
-
-Novartis (Hellas) A.E.B.E. Τηλ: +30 210 281 17 12
-
-## España
-
-Novartis Farmacéutica, S.A.
-
-Tel: +34 93 306 42 00
-
-## France
-
-Novartis Pharma S.A.S.
-
-Tél: +33 1 55 47 66 00
-
-## Lietuva
-
-SIA Novartis Baltics Lietuvos filialas Tel: +370 5 269 16 50
-
 ## Luxembourg/Luxemburg
 
 Novartis Pharma N.V.
 
 Tél/Tel: +32 2 246 16 11
+
+## Česká republika
+
+Novartis s.r.o. Tel: +420 225 775 111
 
 ## Magyarország
 
@@ -939,9 +890,23 @@ Novartis Hungária Kft.
 
 Tel.: +36 1 457 65 00
 
+## Danmark
+
+Novartis Healthcare A/S
+
+Tlf: +45 39 16 84 00
+
 ## Malta
 
-Novartis Pharma Services Inc. Tel: +356 2122 2872
+Novartis Pharma Services Inc.
+
+Tel: +356 2122 2872
+
+## Deutschland
+
+Cranach Pharma GmbH
+
+Tel: +49 40 3803837-10
 
 ## Nederland
 
@@ -949,17 +914,37 @@ Novartis Pharma B.V.
 
 Tel: +31 88 04 52 111
 
+## Eesti
+
+SIA Novartis Baltics Eesti filiaal
+
+Tel: +372 66 30 810
+
 ## Norge
 
 Novartis Norge AS
 
 Tlf: +47 23 05 20 00
 
+<div style=\"page-break-after: always\"></div>
+
+## Ελλάδα
+
 ## Österreich
+
+Novartis (Hellas) A.E.B.E.
+
+Τηλ: +30 210 281 17 12
 
 Novartis Pharma GmbH
 
 Tel: +43 1 86 6570
+
+## España
+
+Novartis Farmacéutica, S.A.
+
+Tel: +34 93 306 42 00
 
 ## Polska
 
@@ -967,11 +952,15 @@ Novartis Poland Sp. z o.o.
 
 Tel.: +48 22 375 4888
 
+## France
+
+Novartis Pharma S.A.S.
+
+Tél: +33 1 55 47 66 00
+
 ## Portugal
 
 Novartis Farma - Produtos Farmacêuticos, S.A. Tel: +351 21 000 8600
-
-<div style=\"page-break-after: always\"></div>
 
 ## Hrvatska
 
@@ -979,11 +968,23 @@ Novartis Hrvatska d.o.o.
 
 Tel. +385 1 6274 220
 
+## România
+
+Novartis Pharma Services Romania SRL
+
+Tel: +40 21 31299 01
+
 ## Ireland
 
 Novartis Ireland Limited
 
 Tel: +353 1 260 12 55
+
+## Slovenija
+
+Novartis Pharma Services Inc.
+
+Tel: +386 1 300 75 50
 
 ## Ísland
 
@@ -991,17 +992,35 @@ Vistor hf.
 
 Sími: +354 535 7000
 
+## Slovenská republika
+
+Novartis Slovakia s.r.o.
+
+Tel: + 421 2 5542 5439
+
 ## Italia
 
 Novartis Farma S.p.A.
 
 Tel: +39 02 96 54 1
 
+## Suomi/Finland
+
+Novartis Finland Oy
+
+Puh/Tel: +358 (0)10 6133 200
+
 ## Κύπρος
 
 Novartis Pharma Services Inc.
 
 Τηλ: +357 22 690 690
+
+## Sverige
+
+Novartis Sverige AB
+
+Tel: +46 8 732 32 00
 
 ## Latvija
 
@@ -1014,33 +1033,3 @@ Tel: +371 67 887 070
 ## Other sources of information
 
 Detailed information on this medicine is available on the European Medicines Agency web site: http://www.ema.europa.eu
-
-## România
-
-Novartis Pharma Services Romania SRL
-
-Tel: +40 21 31299 01
-
-## Slovenija
-
-Novartis Pharma Services Inc.
-
-Tel: +386 1 300 75 50
-
-## Slovenská republika
-
-Novartis Slovakia s.r.o.
-
-Tel: + 421 2 5542 5439
-
-## Suomi/Finland
-
-Novartis Finland Oy
-
-Puh/Tel: +358 (0)10 6133 200
-
-## Sverige
-
-Novartis Sverige AB
-
-Tel: +46 8 732 32 00

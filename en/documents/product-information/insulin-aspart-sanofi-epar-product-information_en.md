@@ -1,18 +1,18 @@
 ---
-document_datetime: 2024-09-23 13:31:22
-document_pages: 67
+document_datetime: 2026-02-06 10:06:06
+document_pages: 66
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/insulin-aspart-sanofi-epar-product-information_en.pdf
 document_name: insulin-aspart-sanofi-epar-product-information_en.pdf
 version: success
-processing_time: 14.5639554
-conversion_datetime: 2025-12-23 20:56:43.330317
+processing_time: 14.459169
+conversion_datetime: 2026-02-09 22:00:33.45488
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.64.1
-  docling-core: 2.55.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.12.0
+  docling-jobkit: 1.10.1
+  docling: 2.72.0
+  docling-core: 2.63.0
+  docling-ibm-models: 3.11.0
+  docling-parse: 4.7.3
   python: cpython-313 (3.13.11)
   plaform: macOS-26.2-arm64-arm-64bit-Mach-O
 ---
@@ -21,10 +21,6 @@ docling_version:
 ## SUMMARY OF PRODUCT CHARACTERISTICS
 
 <div style=\"page-break-after: always\"></div>
-
-<!-- image -->
-
-This medicinal product is subject to additional monitoring. This will allow quick identification of new safety information. Healthcare professionals are asked to report any suspected adverse reactions. See section 4.8 for how to report adverse reactions.
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
@@ -68,11 +64,9 @@ Insulin aspart Sanofi is indicated for the treatment of diabetes mellitus in adu
 
 The potency of insulin analogues, including insulin aspart, is expressed in units, whereas the potency of human insulin is expressed in international units.
 
-Insulin aspart Sanofi dosing is individual and determined in accordance with the needs of the patient. It should normally be used in combination with intermediate-acting or long-acting insulin.
+Insulin aspart Sanofi dosing is individual and determined in accordance with the needs of the patient. It should normally be used in combination with intermediate-acting or long-acting insulin. Moreover, Insulin aspart Sanofi vial can be used for continuous subcutaneous insulin infusion (CSII) in pump systems.
 
 <div style=\"page-break-after: always\"></div>
-
-Moreover, Insulin aspart Sanofi vial can be used for continuous subcutaneous insulin infusion (CSII) in pump systems.
 
 Insulin aspart Sanofi vial can also be used if intravenous administration of insulin aspart, by physicians or other healthcare staff, is applicable.
 
@@ -88,9 +82,9 @@ When transferring from other insulin medicinal products, adjustment of the Insul
 
 Close glucose monitoring is recommended during the transfer and in the initial weeks thereafter (see section 4.4).
 
-## Special populations Elderly ( ≥
+## Special populations
 
-## 65 years old)
+## Elderly ( ≥ 65 years old)
 
 ## Insulin aspart Sanofi can be used in elderly patients.
 
@@ -114,13 +108,15 @@ Insulin aspart Sanofi can be used in adolescents and children aged 1 year and ab
 
 The safety and efficacy of Insulin aspart Sanofi in children below 1 year of age have not been established. No data are available.
 
-<div style=\"page-break-after: always\"></div>
-
 ## Method of administration
 
-## Insulin aspart is a rapid-acting insulin analogue.
+Insulin aspart is a rapid-acting insulin analogue.
 
-Insulin aspart Sanofi is administered subcutaneously by injection in the upper arms, thighs, buttocks or abdomen. Injection sites should always be rotated within the same region in order to reduce the risk of lipodystrophy and cutaneous amyloidosis (see section 4.4 and 4.8). Subcutaneous injection in the abdominal wall ensures a faster absorption than other injection sites. Compared to soluble human insulin the faster onset of action of insulin aspart is maintained regardless of the injection site. The duration of action will vary according to the dose, injection site, blood flow, temperature and level of physical activity.
+Insulin aspart Sanofi is administered subcutaneously by injection in the upper arms, thighs, buttocks or abdomen. Injection sites should always be rotated within the same region in order to reduce the risk of
+
+<div style=\"page-break-after: always\"></div>
+
+lipodystrophy and cutaneous amyloidosis (see section 4.4 and 4.8). Subcutaneous injection in the abdominal wall ensures a faster absorption than other injection sites. Compared to soluble human insulin the faster onset of action of insulin aspart is maintained regardless of the injection site. The duration of action will vary according to the dose, injection site, blood flow, temperature and level of physical activity.
 
 Due to the faster onset of action, insulin aspart should generally be given immediately before a meal. When necessary insulin aspart can be given soon after a meal.
 
@@ -156,14 +152,15 @@ Insulin aspart Sanofi in cartridges is only suitable for subcutaneous injections
 
 - -JuniorSTAR which delivers 1-30 units of insulin aspart in 0.5 unit dose increments
 - -Tactipen which delivers 1-60 units of insulin aspart in 1 unit dose increments
-
-<div style=\"page-break-after: always\"></div>
-
 - -AllStar and AllStar PRO which all deliver 1-80 units of insulin aspart in 1 unit dose increments.
 
 ## Insulin aspart Sanofi 100 units/ml solution for injection in pre-filled pen
 
-Insulin aspart Sanofi 100 units/ml in pre-filled pen is only suitable for subcutaneous injections. If administration by syringe, intravenous injection or infusion pump is necessary, a vial should be used. Other insulin aspart medicinal products offering such an option should be used. Insulin aspart Sanofi in pre-filled pen delivers 1-80 units in increments of 1 unit.
+Insulin aspart Sanofi 100 units/ml in pre-filled pen is only suitable for subcutaneous injections. If administration by syringe, intravenous injection or infusion pump is necessary, a vial should be used.
+
+<div style=\"page-break-after: always\"></div>
+
+Other insulin aspart medicinal products offering such an option should be used. Insulin aspart Sanofi in pre-filled pen delivers 1-80 units in increments of 1 unit.
 
 Patients must visually verify the dialled units on the dose counter of the pen. Therefore, the requirement for patients to self-inject is that they can read the dose counter on the pen. Patients who are blind or have poor vision must be instructed to always get help/assistance from another person who has good vision and is trained in using the insulin device.
 
@@ -191,11 +188,11 @@ Omission of a meal or unplanned, strenuous physical exercise may lead to hypogly
 
 Hypoglycaemia may occur if the insulin dose is too high in relation to the insulin requirement. In case of hypoglycaemia or if hypoglycaemia is suspected insulin aspart must not be injected. After stabilisation of patient's blood glucose adjustment of the dose should be considered (see sections 4.8 and 4.9).
 
-<div style=\"page-break-after: always\"></div>
-
 Patients whose blood glucose control is greatly improved, e.g. by intensified insulin therapy, may experience a change in their usual warning symptoms of hypoglycaemia, and should be advised accordingly. Usual warning symptoms may disappear in patients with longstanding diabetes.
 
 A consequence of the pharmacodynamics of rapid-acting insulin analogues is that if hypoglycaemia occurs, it may occur earlier after an injection when compared with soluble human insulin.
+
+<div style=\"page-break-after: always\"></div>
 
 Since insulin aspart should be administered in immediate relation to a meal, the rapid onset of action should be considered in patients with concomitant diseases or treatment where a delayed absorption of food might be expected.
 
@@ -219,8 +216,6 @@ Cases of cardiac failure have been reported when pioglitazone was used in combin
 
 Patients must be instructed to always check the insulin label before each injection to avoid accidental mix-ups between Insulin aspart Sanofi and other insulin medicinal products.
 
-<div style=\"page-break-after: always\"></div>
-
 ## Insulin antibodies
 
 Insulin administration may cause insulin antibodies to form. In rare cases, the presence of such insulin antibodies may necessitate adjustment of the insulin dose in order to correct a tendency to hyper- or hypoglycaemia.
@@ -232,6 +227,8 @@ Before travelling between different time zones, the patient should seek the doct
 ## Sodium
 
 This medicinal product contains less than 1 mmol sodium (23 mg) per dose, that is to say essentially 'sodium-free'.
+
+<div style=\"page-break-after: always\"></div>
 
 ## 4.5 Interaction with other medicinal products and other forms of interaction
 
@@ -259,8 +256,6 @@ Intensified blood glucose control and monitoring of pregnant women with diabetes
 
 There are no restrictions on treatment with Insulin aspart Sanofi during breast-feeding. Insulin treatment of the breast-feeding mother presents no risk to the baby. However, the Insulin aspart Sanofi dose may need to be adjusted.
 
-<div style=\"page-break-after: always\"></div>
-
 ## Fertility
 
 Animal reproduction studies have not revealed any differences between insulin aspart and human insulin regarding fertility (see section 5.3).
@@ -270,6 +265,8 @@ Animal reproduction studies have not revealed any differences between insulin as
 The patient's ability to concentrate and react may be impaired as a result of hypoglycaemia. This may constitute a risk in situations where these abilities are of special importance (e.g. driving a car or using machines).
 
 Patients should be advised to take precautions to avoid hypoglycaemia while driving, this is particularly important in those who have reduced or absent awareness of the warning signs of hypoglycaemia or have frequent episodes of hypoglycaemia. The advisability of driving should be considered in these circumstances.
+
+<div style=\"page-break-after: always\"></div>
 
 ## 4.8 Undesirable effects
 
@@ -285,20 +282,16 @@ At the beginning of the insulin treatment, refraction anomalies, oedema and inje
 
 Adverse reactions listed below are based on clinical trial data and classified according to System Organ Class. Frequency categories are defined according to the following convention: Very common ( ≥1/10 ); common ( ≥1/100 to &lt;1/10); uncommon ( ≥1/1,000 to &lt;1/100 ); rare ( ≥1/10,000 to &lt;1/1,000 ); very rare (&lt;1/10,000); not known (cannot be estimated from the available data).
 
-| MedDRA system organ classes        | Very common    | Uncommon                   | Rare                                       | Very rare               | Not known   |
-|------------------------------------|----------------|----------------------------|--------------------------------------------|-------------------------|-------------|
-| Immune system disorders            |                | Urticaria, rash, eruptions |                                            | Anaphylactic reactions* |             |
-| Metabolism and nutrition disorders | Hypoglycaemia* |                            |                                            |                         |             |
-| Nervous system disorders           |                |                            | Peripheral neuropathy (painful neuropathy) |                         |             |
+| MedDRA system organ classes                          | Very common    | Uncommon                                   | Rare                                       | Very rare               | Not known              |
+|------------------------------------------------------|----------------|--------------------------------------------|--------------------------------------------|-------------------------|------------------------|
+| Immune system disorders                              |                | Urticaria, rash, eruptions                 |                                            | Anaphylactic reactions* |                        |
+| Metabolism and nutrition disorders                   | Hypoglycaemia* |                                            |                                            |                         |                        |
+| Nervous system disorders                             |                |                                            | Peripheral neuropathy (painful neuropathy) |                         |                        |
+| Eye disorders                                        |                | Refraction disorders, diabetic retinopathy |                                            |                         |                        |
+| Skin and subcutaneous tissue disorders               |                | Lipodystrophy*                             |                                            |                         | Cutaneous amyloidosis* |
+| General disorders and administration site conditions |                | Injection site reactions, oedema           |                                            |                         |                        |
 
 <div style=\"page-break-after: always\"></div>
-
-| Eye disorders                                        | Refraction disorders, diabetic retinopathy   |                        |
-|------------------------------------------------------|----------------------------------------------|------------------------|
-| Skin and subcutaneous tissue disorders               | Lipodystrophy*                               | Cutaneous amyloidosis* |
-| General disorders and administration site conditions | Injection site reactions, oedema             |                        |
-
-*See section 4.8 Description of selected adverse reactions
 
 ## Description of selected adverse reactions
 
@@ -328,14 +321,14 @@ Based on post-marketing sources and clinical trials with insulin aspart, the fre
 
 Reporting suspected adverse reactions after authorisation of the medicinal product is important. It allows continued monitoring of the benefit/risk balance of the medicinal product. Healthcare professionals are asked to report any suspected adverse reactions via the national reporting system listed in Appendix V.
 
-<div style=\"page-break-after: always\"></div>
-
 ## 4.9 Overdose
 
 A specific overdose for insulin cannot be defined, however, hypoglycaemia may develop over sequential stages if too high doses relative to the patient's requirement are administered:
 
 - Mild hypoglycaemic episodes can be treated by oral administration of glucose or sugary products. It is therefore recommended that the diabetic patient always carries sugar-containing products.
 - Severe hypoglycaemic episodes, where the patient has become unconscious, can be treated with glucagon (0.5 to 1 mg) given intramuscularly or subcutaneously by a trained person, or with glucose given intravenously by physicians or other healthcare staff. Glucose must be given intravenously, if the patient does not respond to glucagon within 10 to 15 minutes. Upon regaining consciousness, administration of oral carbohydrates is recommended for the patient in order to prevent a relapse.
+
+<div style=\"page-break-after: always\"></div>
 
 ## 5. PHARMACOLOGICAL PROPERTIES
 
@@ -355,8 +348,6 @@ Fig. I. Blood glucose concentrations following a single pre-meal dose of insulin
 
 <!-- image -->
 
-<div style=\"page-break-after: always\"></div>
-
 When insulin aspart is injected subcutaneously, the onset of action will occur within 10 to 20 minutes of injection. The maximum effect is exerted between 1 and 3 hours after injection. The duration of action is 3 to 5 hours.
 
 ## Clinical efficacy
@@ -364,6 +355,8 @@ When insulin aspart is injected subcutaneously, the onset of action will occur w
 Clinical trials in patients with type 1 diabetes have demonstrated a lower postprandial blood glucose with insulin aspart compared to soluble human insulin (Fig. I). In two long-term open label trials in patients with type 1 diabetes comprising 1070 and 884 patients, respectively, insulin aspart reduced glycated haemoglobin by 0.12 [95% C.I. 0.03; 0.22] percentage points and by 0.15 [95% C.I. 0.05; 0.26] percentage points compared to human insulin; a difference of limited clinical significance.
 
 Clinical trials in patients with type 1 diabetes have demonstrated a reduced risk of nocturnal hypoglycaemia with insulin aspart compared with soluble human insulin. The risk of daytime hypoglycaemia was not significantly increased.
+
+<div style=\"page-break-after: always\"></div>
 
 Insulin aspart is equipotent to soluble human insulin on a molar basis.
 
@@ -391,15 +384,17 @@ In addition, the data from a clinical trial including 27 women with gestational 
 
 In insulin aspart substitution of amino acid proline with aspartic acid at position B28 reduces the tendency to form hexamers as observed with soluble human insulin. Insulin aspart is therefore more rapidly absorbed from the subcutaneous layer compared to soluble human insulin.
 
-<div style=\"page-break-after: always\"></div>
-
 The time to maximum concentration is, on average, half of that for soluble human insulin. A mean maximum plasma concentration of 492±256 pmol/L was reached 40 (interquartile range: 30-40) minutes after a subcutaneous dose of 0.15 unit/kg bodyweight in type 1 diabetic patients. The insulin concentrations returned to baseline about 4 to 6 hours after dose. The absorption rate was somewhat slower in type 2 diabetic patients, resulting in a lower Cmax (352±240 pmol/L) and later tmax (60 (interquartile range: 50-90) minutes). The intra-individual variability in time to maximum concentration is significantly less for insulin aspart than for soluble human insulin, whereas the intra-individual variability in Cmax for insulin aspart is larger.
 
 ## Special populations
 
 ## Elderly (≥ 65 years old)
 
-The relative differences in pharmacokinetic properties between insulin aspart and soluble human insulin in elderly patients (65-83 years, mean age 70 years) with type 2 diabetes were similar to those observed in healthy subjects and in younger patients with diabetes. A decreased absorption rate was observed in elderly patients, resulting in a later tmax (82 (interquartile range: 60-120) minutes), whereas Cmax was similar to that observed in younger patients with type 2 diabetes and slightly lower than in patients with type 1 diabetes.
+The relative differences in pharmacokinetic properties between insulin aspart and soluble human insulin in elderly patients (65-83 years, mean age 70 years) with type 2 diabetes were similar to those observed in healthy subjects and in younger patients with diabetes. A decreased absorption rate was
+
+<div style=\"page-break-after: always\"></div>
+
+observed in elderly patients, resulting in a later tmax (82 (interquartile range: 60-120) minutes), whereas Cmax was similar to that observed in younger patients with type 2 diabetes and slightly lower than in patients with type 1 diabetes.
 
 ## Hepatic impairment
 
@@ -423,23 +418,19 @@ In in vitro tests, including binding to insulin and IGF-1 receptor sites and eff
 
 ## 6.1 List of excipients
 
-Phenol Metacresol
-
-<div style=\"page-break-after: always\"></div>
-
-Zinc chloride Polysorbate 20 Sodium chloride Hydrochloric acid (for pH adjustment) Sodium hydroxide (for pH adjustment)
-
-Water for injections
+Phenol Metacresol Zinc chloride Polysorbate 20 Sodium chloride Hydrochloric acid (for pH adjustment) Sodium hydroxide (for pH adjustment) Water for injections
 
 ## 6.2 Incompatibilities
 
 Substances added to Insulin aspart Sanofi may cause degradation of insulin aspart.
 
-Insulin aspart Sanofi 100 units/ml solution for injection in vial
+## Insulin aspart Sanofi 100 units/ml solution for injection in vial
 
 This medicinal product must not be diluted or mixed with other medicinal products, except with infusion fluids as described in section 4.2.
 
-Insulin aspart Sanofi 100 units/ml solution for injection in cartridge and in pre-filled pen
+<div style=\"page-break-after: always\"></div>
+
+## Insulin aspart Sanofi 100 units/ml solution for injection in cartridge and in pre-filled pen
 
 This medicinal product must not be diluted or mixed with other medicinal products.
 
@@ -459,29 +450,23 @@ After first use
 
 Insulin aspart Sanofi 100 units/ml solution for injection in vial
 
-Before first use
+## Before first use
 
 Store in a refrigerator (2°C - 8°C). Do not freeze.
 
 Keep the vial in the outer carton in order to protect from light.
 
-After first use Store below 30°C. Do not refrigerate. Do not freeze.
-
-Keep the vial in the outer carton in order to protect from light.
+After first use Store below 30°C. Do not refrigerate. Do not freeze. Keep the vial in the outer carton in order to protect from light.
 
 Insulin aspart Sanofi 100 units/ml solution for injection in cartridge
 
-Before first use
+## Before first use
 
 Store in a refrigerator (2°C - 8°C). Do not freeze. Keep the cartridge in the outer carton in order to protect from light.
 
-After first use
-
-Store below 30°C. Do not refrigerate. Do not freeze. Keep the pen cap on the pen in order to protect from light.
+After first use Store below 30°C. Do not refrigerate. Do not freeze. Keep the pen cap on the pen in order to protect from light.
 
 Insulin aspart Sanofi 100 units/ml solution for injection in pre-filled pen
-
-<div style=\"page-break-after: always\"></div>
 
 ## Before first use
 
@@ -489,19 +474,17 @@ Store in a refrigerator (2°C - 8°C). Do not freeze.
 
 Keep the pre-filled pen in the outer carton in order to protect from light.
 
-## After first use
-
-Store below 30°C. Do not refrigerate. Do not freeze.
-
-Keep the pen cap on the pen in order to protect from light.
+After first use Store below 30°C. Do not refrigerate. Do not freeze. Keep the pen cap on the pen in order to protect from light.
 
 ## 6.5 Nature and contents of container
 
-## Insulin aspart Sanofi 100 units/ml solution for injection in vial
+Insulin aspart Sanofi 100 units/ml solution for injection in vial
 
 Type 1 colourless multi-dose glass vial closed with a flanged cap (aluminium) with tear-off lid (polypropylene) and laminated disk (laminate of isoprene and bromobutyl rubber). Each vial contains 10 ml of solution.
 
 Pack sizes: 1 or 5 vials.
+
+<div style=\"page-break-after: always\"></div>
 
 Not all pack sizes may be marketed.
 
@@ -509,11 +492,7 @@ Not all pack sizes may be marketed.
 
 Type 1 colourless glass cartridge with a grey plunger (bromobutyl rubber) and a flanged cap (aluminium) with a sealing disk (laminate of isoprene and bromobutyl rubber).
 
-Each cartridge contains 3 ml of solution.
-
-Pack sizes: 5 or 10 cartridges
-
-Not all pack sizes may be marketed.
+Each cartridge contains 3 ml of solution. Pack sizes: 5 or 10 cartridges Not all pack sizes may be marketed.
 
 ## Insulin aspart Sanofi 100 units/ml solution for injection in pre-filled pen
 
@@ -537,42 +516,53 @@ Any unused medicinal product or waste material should be disposed of in accordan
 
 To prevent the possible transmission of disease, each vial must be used by one patient only, even if the needle is changed.
 
-Insulin aspart Sanofi vial may be used in an infusion pump system (CSII) subcutaneously as described in  section  4.2.  Tubings  in  which  the  inner  surface  materials  are  made  of  polyethylene  have  been evaluated and found compatible with pump use.
+Insulin aspart Sanofi vial may be used in an infusion pump system (CSII) subcutaneously as described in section 4.2. Tubings in which the inner surface materials are made of polyethylene have been evaluated and found compatible with pump use.
 
 Insulin aspart Sanofi vial may be used intravenously as described in section 4.2.
 
+A new needle should always be used for each injection.
+
+Syringes and needles are not included in the pack.
+
+## Insulin aspart Sanofi 100 units/ml solution for injection in cartridge
+
+To prevent the possible transmission of disease, each cartridge must be used by one patient only, even if the needle on the delivery device is changed.
+
+Insulin aspart Sanofi in cartridges are to be used with JuniorSTAR, Tactipen, AllStar or AllStar PRO pens as recommended (see section 4.2 and 4.4).
+
+The pen with the inserted cartridge should not be stored with the needle attached.
+
+A new needle should always be used for each injection.
+
 <div style=\"page-break-after: always\"></div>
 
-| A new needle should always be used for each injection.                                                                                                            |
-|-------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Syringes and needles are not included in the pack.                                                                                                                |
-| Insulin aspart Sanofi 100 units/ml solution for injection in cartridge                                                                                            |
-| To prevent the possible transmission of disease, each cartridge must be used by one patient only, even if the needle on the delivery device is changed.           |
-| Insulin aspart Sanofi in cartridges are to be used with JuniorSTAR, Tactipen, AllStar or AllStar PRO pens as recommended (see section 4.2 and 4.4).               |
-| The pen with the inserted cartridge should not be stored with the needle attached.                                                                                |
-| A new needle should always be used for each injection.                                                                                                            |
-| The manufacturer's instructions with each individual pen must be followed for loading the cartridge, attaching the needle and administering the insulin injection |
-| Insulin aspart Sanofi 100 units/ml solution for injection in pre-filled pen                                                                                       |
-| To prevent the possible transmission of disease, each pen must be used by one patient only, even if the needle is changed.                                        |
-| The pre-filled pen should not be stored with the needle attached.                                                                                                 |
-| A new needle should always be used for each injection.                                                                                                            |
-| Needles are not included in the pack.                                                                                                                             |
-| 7. MARKETING AUTHORISATIONHOLDER                                                                                                                                  |
-| Sanofi Winthrop Industrie 82 avenue Raspail 94250 Gentilly                                                                                                        |
-| France                                                                                                                                                            |
-| 8. MARKETING AUTHORISATION NUMBER(S)                                                                                                                              |
-| EU/1/20/1447/001                                                                                                                                                  |
-| EU/1/20/1447/002                                                                                                                                                  |
-| EU/1/20/1447/003                                                                                                                                                  |
-| EU/1/20/1447/004                                                                                                                                                  |
-| EU/1/20/1447/005 EU/1/20/1447/006                                                                                                                                 |
-| EU/1/20/1447/007                                                                                                                                                  |
-| 9. DATE OF FIRST AUTHORISATION/RENEWAL OF THE AUTHORISATION                                                                                                       |
-| Date of first authorisation: 25 June 2020                                                                                                                         |
+The manufacturer's instructions with each individual pen must be followed for loading the cartridge, attaching the needle and administering the insulin injection
+
+## Insulin aspart Sanofi 100 units/ml solution for injection in pre-filled pen
+
+To prevent the possible transmission of disease, each pen must be used by one patient only, even if the needle is changed.
+
+The pre-filled pen should not be stored with the needle attached.
+
+A new needle should always be used for each injection.
+
+Needles are not included in the pack.
+
+## 7. MARKETING AUTHORISATION HOLDER
+
+Sanofi Winthrop Industrie 82 avenue Raspail 94250 Gentilly
+
+France
+
+## 8. MARKETING AUTHORISATION NUMBER(S)
+
+EU/1/20/1447/001 EU/1/20/1447/002 EU/1/20/1447/003 EU/1/20/1447/004 EU/1/20/1447/005 EU/1/20/1447/006 EU/1/20/1447/007
+
+## 9. DATE OF FIRST AUTHORISATION/RENEWAL OF THE AUTHORISATION
+
+Date of first authorisation: 25 June 2020
 
 ## 10. DATE OF REVISION OF THE TEXT
-
-<div style=\"page-break-after: always\"></div>
 
 Detailed information on this medicinal product is available on the website of the European Medicines Agency http://www.ema.europa.eu.
 
@@ -816,8 +806,6 @@ EXP
 
 ## 9. SPECIAL STORAGE CONDITIONS
 
-<div style=\"page-break-after: always\"></div>
-
 Before first use:
 
 Store in a refrigerator
@@ -834,7 +822,7 @@ Do not refrigerate.
 
 Keep the pen cap on the pen in order to protect from light.
 
-## 10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
+10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
@@ -870,6 +858,8 @@ Insulin aspart Sanofi 100
 
 <div style=\"page-break-after: always\"></div>
 
+<div style=\"page-break-after: always\"></div>
+
 | 18.   | UNIQUE IDENTIFIER - HUMANREADABLE DATA   |
 |-------|------------------------------------------|
 
@@ -881,8 +871,9 @@ PC SN NN
 |------------------------------------------------------------------|
 | LABEL (CARTRIDGE)                                                |
 
-| 1.   | NAMEOFTHEMEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION   |
-|------|-------------------------------------------------------------|
+1.
+
+NAME OF THE MEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION
 
 Insulin aspart Sanofi 100 units/ml solution for injection insulin aspart subcutaneous use
 
@@ -919,7 +910,9 @@ Insulin aspart Sanofi 100 units/ml solution for injection in pre-filled pen insu
 
 ## 2. STATEMENT OF ACTIVE SUBSTANCE(S)
 
-One ml solution contains 100 units (equivalent to 3.5 mg) insulin aspart. Each pre-filled pen contains 3 ml equivalent to 300 units insulin aspart.
+One ml solution contains 100 units (equivalent to 3.5 mg) insulin aspart.
+
+Each pre-filled pen contains 3 ml equivalent to 300 units insulin aspart.
 
 ## 3. LIST OF EXCIPIENTS
 
@@ -1052,17 +1045,13 @@ SoloStar
 
 ## B. PACKAGE LEAFLET
 
-<div style=\"page-break-after: always\"></div>
-
-<!-- image -->
-
 ## Package leaflet: information for the user
+
+<div style=\"page-break-after: always\"></div>
 
 ## Insulin aspart Sanofi 100 units/ml solution for injection in vial
 
 ## insulin aspart
-
-This medicine is subject to additional monitoring. This will allow quick identification of new safety information. You can help by reporting any side effects you may get. See the end of section 4 for how to report side effects.
 
 ## Read all of this leaflet carefully before you start using this medicine because it contains important information for you.
 
@@ -1084,7 +1073,7 @@ This medicine is subject to additional monitoring. This will allow quick identif
 
 Insulin aspart Sanofi is a modern insulin (insulin analogue) with a rapid-acting effect. Modern insulin products are improved versions of human insulin.
 
-Insulin aspart Sanofi is used to reduce the high blood sugar level in adults, adolescents and children aged 1 year and above with diabetes mellitus (diabetes). Diabetes is a disease where your body does not produce enough insulin to control the level of your blood sugar. Treatment with nsulin aspart helps to prevent complications from your diabetes.
+Insulin aspart Sanofi is used to reduce the high blood sugar level in adults, adolescents and children aged 1 year and above with diabetes mellitus (diabetes). Diabetes is a disease where your body does not produce enough insulin to control the level of your blood sugar. Treatment with insulin aspart helps to prevent complications from your diabetes.
 
 Insulin aspart will start to lower your blood sugar 10-20 minutes after you inject it, a maximum effect occurs between 1 and 3 hours after the injection and the effect lasts for 3-5 hours. Due to this short action insulin aspart should normally be taken in combination with intermediate-acting or long-acting insulin preparations. Moreover, Insulin aspart Sanofi can be used for continuous subcutaneous infusion in a pump system.
 
@@ -1095,11 +1084,10 @@ Insulin aspart will start to lower your blood sugar 10-20 minutes after you inje
 - If you are allergic to insulin aspart, or any of the other ingredients of this medicine (listed in 'Contents of the pack and other information' section 6).
 - If you suspect hypoglycaemia (low blood sugar) is starting (see 'Summary of serious and very common side effects' in section 4).
 - If the protective cap is loose or missing. Each vial has a protective, aluminium cap with tear-off lid. If it is not in perfect condition when you get the vial, return the vial to your supplier.
-
-<div style=\"page-break-after: always\"></div>
-
 - If it has not been stored correctly or been frozen (see 'How to store Insulin aspart Sanofi' in section 5).
 - If the insulin does not appear clear and colourless.
+
+<div style=\"page-break-after: always\"></div>
 
 If any of these applies, do not use Insulin aspart Sanofi. Talk with your doctor, nurse or pharmacist for advice.
 
@@ -1149,12 +1137,12 @@ Some medicines affect your blood sugar level and this may mean that your insulin
 
 - Oral contraceptives (birth control pills)
 - Thiazides (used to treat high blood pressure or excessive fluid retention)
-
-<div style=\"page-break-after: always\"></div>
-
 - Glucocorticoids (such as 'cortisone' used to treat inflammation)
 - Thyroid hormones (used to treat thyroid gland disorders)
 - Sympathomimetics (such as epinephrine [adrenaline], or salbutamol, terbutaline used to treat asthma)
+
+<div style=\"page-break-after: always\"></div>
+
 - Growth hormone (medicine for stimulation of skeletal and somatic growth and pronounced influence on the body's metabolic processes)
 - Danazol (medicine acting on ovulation).
 
@@ -1195,13 +1183,13 @@ Insulin aspart Sanofi has a rapid onset of effect therefore if hypoglycaemia occ
 
 This medicine contains less than 1 mmol (23 mg) sodium per dose, that is to say essentially 'sodiumfree'.
 
-<div style=\"page-break-after: always\"></div>
-
 ## 3. How to use Insulin aspart Sanofi
 
 ## Dose and when to use your insulin
 
 Always use your insulin and adjust your dose exactly as your doctor has told you. Check with your doctor, nurse or pharmacist if you are not sure.
+
+<div style=\"page-break-after: always\"></div>
 
 Insulin aspart is generally used immediately before a meal. Eat a meal or snack within 10 minutes of the injection to avoid low blood sugar. When necessary, insulin aspart can be given soon after a meal (see 'How and where to inject' below for information).
 
@@ -1238,12 +1226,11 @@ Insulin aspart Sanofi should never be mixed with any other insulin when used in 
 
 - Before inserting the needle, use soap and water to clean your hands and the skin where the needle is inserted to avoid any infection at the infusion site.
 - When you fill a new reservoir, be certain not to leave large air bubbles in either the syringe or the tubing.
-
-<div style=\"page-break-after: always\"></div>
-
 - Changing of the infusion set (tubing and needle) must be done according to the instructions in the product information supplied with the infusion set.
 
 To get the benefit of insulin infusion, and to detect possible malfunction of the insulin pump, it is recommended that you measure your blood sugar level regularly.
+
+<div style=\"page-break-after: always\"></div>
 
 ## What to do in case of pump system failure
 
@@ -1271,7 +1258,7 @@ Like all medicines, this medicine can cause side effects, although not everybody
 
 Low blood sugar (hypoglycaemia) is a very common side effect. It may affect more than 1 in 10 people.
 
-Low blood sugar may occur if you:
+## Low blood sugar may occur if you:
 
 - Inject too much insulin.
 - Eat too little or miss a meal.
@@ -1285,11 +1272,10 @@ Severe low blood sugar can lead to unconsciousness. If prolonged severe low bloo
 ## What to do if you experience low blood sugar:
 
 - If you experience low blood sugar, eat glucose tablets or another high sugar snack (e.g. sweets, biscuits, fruit juice). Measure your blood sugar if possible and rest. Always carry glucose tablets or high sugar snacks with you, just in case.
-
-<div style=\"page-break-after: always\"></div>
-
 - When symptoms of low blood sugar have disappeared or when blood sugar level is stabilised, continue insulin treatment as usual.
 - If you have such a low blood sugar that it makes you pass out, if you have had need for injection of glucagon, or if you have experienced many incidents of low blood sugar, talk with a doctor. The amount or timing of insulin, food or exercise may need to be adjusted.
+
+<div style=\"page-break-after: always\"></div>
 
 Tell relevant people that you have diabetes and what the consequences may be, including the risk of passing out (become unconscious) due to low blood sugar. Let them know that if you pass out, they must turn you on your side and get medical help straight away. They must not give you any food or drink due to risk of suffocation.
 
@@ -1322,9 +1308,9 @@ Painful neuropathy (pain due to nerve damage): If your blood sugar level improve
 
 ## Reporting of side effects
 
-<div style=\"page-break-after: always\"></div>
-
 If you get any side effects, talk to your doctor, nurse or pharmacist. This includes any possible side effects not listed in this leaflet. You can also report side effects directly via the national reporting system listed in Appendix V. By reporting side effects you can help provide more information on the safety of this medicine.
+
+<div style=\"page-break-after: always\"></div>
 
 ## Effects from diabetes
 
@@ -1368,10 +1354,12 @@ Do not throw away any medicines via wastewater or household waste. Ask your phar
 
 ## What Insulin aspart Sanofi contains
 
+- -The active substance is insulin aspart. One ml of the solution contains 100 units of insulin aspart (equivalent to 3.5 mg). Each vial contains 10 ml of solution for injection, equivalent to 1,000 units of insulin aspart.
+- -The other ingredients are: phenol, metacresol, zinc chloride, polysorbate 20, sodium chloride, hydrochloric acid/sodium hydroxide and water for injections. Sodium hydroxide or hydrochloric
+
 <div style=\"page-break-after: always\"></div>
 
-- -The active substance is insulin aspart. One ml of the solution contains 100 units of insulin aspart (equivalent to 3.5 mg). Each vial contains 10 ml of solution for injection, equivalent to 1,000 units of insulin aspart.
-- -The other ingredients are: phenol, metacresol, zinc chloride, polysorbate 20, sodium chloride, hydrochloric acid/sodium hydroxide and water for injections. Sodium hydroxide or hydrochloric acid may have been used to adjust the acidity (see 'Insulin aspart Sanofi contains sodium' in section 2).
+acid may have been used to adjust the acidity (see 'Insulin aspart Sanofi contains sodium' in section 2).
 
 ## What Insulin aspart Sanofi looks like and contents of the pack
 
@@ -1395,6 +1383,12 @@ Sanofi Belgium
 
 Tél/Tel: +32 (0)2 710 54 00
 
+## Lietuva
+
+Swixx Biopharma UAB
+
+Tel: +370 5 236 91 40
+
 ## България
 
 Swixx Biopharma EOOD
@@ -1403,17 +1397,35 @@ Swixx Biopharma EOOD
 
 .: +359 (0)2 4942 480
 
+## Luxembourg/Luxemburg
+
+Sanofi Belgium
+
+Tél/Tel: +32 (0)2 710 54 00 (Belgique/Belgien)
+
 ## Česká republika
 
 Sanofi s.r.o.
 
 Tel: +420 233 086 111
 
+## Magyarország
+
+SANOFI-AVENTIS Zrt.,
+
+Tel.: +36 1 505 0050
+
 ## Danmark
 
 Sanofi A/S
 
 Tlf: +45 45 16 70 00
+
+## Malta
+
+Sanofi S.r.l.
+
+Tel: +39 02 39394275
 
 ## Deutschland
 
@@ -1423,55 +1435,17 @@ Tel : 0800 52 52 010
 
 Tel. aus dem Ausland: +49 69 305 21 131
 
-## Eesti
-
-Swixx Biopharma OÜ
-
-Tel: +372 640 10 30
-
-## Ελλάδα
-
-SanofiAventis Μονοπρόσωπη ΑΕΒΕ
-
-Τηλ
-
-: +30 210 900 16 00
-
-## España
-
-sanofi-aventis, S.A.
-
-Tel: +34 93 485 94 00
-
-## Lietuva
-
-Swixx Biopharma UAB
-
-Tel: +370 5 236 91 40
-
-## Luxembourg/Luxemburg
-
-Sanofi Belgium
-
-Tél/Tel: +32 (0)2 710 54 00 (Belgique/Belgien)
-
-## Magyarország
-
-SANOFI-AVENTIS Zrt.,
-
-Tel.: +36 1 505 0050
-
-## Malta
-
-Sanofi S.r.l.
-
-Tel: +39 02 39394275
-
 ## Nederland
 
 Sanofi B.V.
 
 Tel: +31 20 245 4000
+
+## Eesti
+
+Swixx Biopharma OÜ
+
+Tel: +372 640 10 30
 
 ## Norge
 
@@ -1479,11 +1453,25 @@ sanofi-aventis Norge AS
 
 Tlf: +47 67 10 71 00
 
+## Ελλάδα
+
+Sanofi- Aventis Μονοπρόσωπη ΑΕΒΕ
+
+Τηλ
+
+: +30 210 900 16 00
+
 ## Österreich
 
 sanofi-aventis GmbH
 
 Tel: +43 1 80 185 - 0
+
+## España
+
+sanofi-aventis, S.A.
+
+Tel: +34 93 485 94 00
 
 ## Polska
 
@@ -1531,7 +1519,7 @@ Tel: +386 1 235 51 00
 
 ## Ísland
 
-Vistor hf.
+Vistor ehf.
 
 Sími: +354 535 7000
 
@@ -1545,9 +1533,7 @@ Tel: +421 2 208 33 600
 
 Sanofi S.r.l.
 
-Tel: 800 13 12 12 (domande di tipo tecnico)
-
-800.536389 (altre domande)
+Tel: +39 800 536389
 
 ## Suomi/Finland
 
@@ -1559,9 +1545,7 @@ Puh/Tel: +358 (0) 201 200 300
 
 C.A. Papaellinas Ltd.
 
-Τηλ: +357 22
-
-741741
+Τηλ: +357 22 741741
 
 ## Sverige
 
@@ -1574,12 +1558,6 @@ Tel: +46 (0)8 634 50 00
 Swixx Biopharma SIA
 
 Tel: +371 6616 47 50
-
-## United Kingdom (Northern Ireland)
-
-Sanofi-aventis Ireland Ltd. T/A SANOFI
-
-Tel: +44 (0) 800 035 2525
 
 <div style=\"page-break-after: always\"></div>
 
@@ -1596,8 +1574,6 @@ Detailed information on this medicine is available on the European Medicines Age
 ## Insulin aspart Sanofi 100 units/ml solution for injection in cartridge
 
 ## insulin aspart
-
-This medicine is subject to additional monitoring. This will allow quick identification of new safety information. You can help by reporting any side effects you may get. See the end of section 4 for how to report side effects.
 
 ## Read all of this leaflet carefully before you start using this medicine because it contains important information for you.
 
@@ -1633,11 +1609,11 @@ Insulin aspart will start to lower your blood sugar 10-20 minutes after you inje
 - If it has not been stored correctly or been frozen (see 'How to store Insulin aspart Sanofi' in section 5).
 - If the insulin does not appear clear and colourless.
 
-<div style=\"page-break-after: always\"></div>
-
 If any of these applies, do not use Insulin aspart Sanofi. Talk with your doctor, nurse or pharmacist for advice.
 
-## Before using Insulin aspart Sanof i
+<div style=\"page-break-after: always\"></div>
+
+## Before using Insulin aspart Sanofi
 
 - Check the label to make sure it is the right type of insulin.
 - Always check the cartridge, including the rubber plunger at the bottom of the cartridge. Do not use it if any damage is seen or if the rubber plunger has been drawn above the white label band at the bottom of the cartridge. This could be a result of leakage of insulin. If you suspect the cartridge is damaged, take it back to your supplier. See your pen manual for further instructions.
@@ -1680,12 +1656,13 @@ Some medicines affect your blood sugar level and this may mean that your insulin
 - Anabolic steroids (such as testosterone)
 - Sulphonamides (used to treat infections).
 
-Your blood sugar level may rise (hyperglycaemia) if you take:
-
-<div style=\"page-break-after: always\"></div>
+## Your blood sugar level may rise (hyperglycaemia) if you take:
 
 - Oral contraceptives (birth control pills)
 - Thiazides (used to treat high blood pressure or excessive fluid retention)
+
+<div style=\"page-break-after: always\"></div>
+
 - Glucocorticoids (such as 'cortisone' used to treat inflammation)
 - Thyroid hormones (used to treat thyroid gland disorders)
 - Sympathomimetics (such as epinephrine [adrenaline], or salbutamol, terbutaline used to treat asthma)
@@ -1774,9 +1751,9 @@ Not all of these pens may be marketed in your country.
 
 If you use too much insulin your blood sugar gets too low (hypoglycaemia) (see 'Summary of serious and very common side effects' in section 4).
 
-## If you forget to use your insulin
-
 <div style=\"page-break-after: always\"></div>
+
+## If you forget to use your insulin
 
 If you forget to use your insulin your blood sugar may get too high (hyperglycaemia) (see 'Effects from diabetes' in section 4).
 
@@ -1830,7 +1807,7 @@ If you notice any of these signs, seek medical advice immediately.
 
 Skin changes at the injection site: If you inject insulin too often at the same place, the fatty tissue under the skin at the injection site may shrink (lipoatrophy) or thicken (lipohypertrophy) ( may affect up to 1 in 100 people ) . Lumps under the skin may also be caused by build-up of a protein called amyloid (cutaneous amyloidosis; how often this occurs is not known). The insulin may not work very well if you inject into a lumpy area. Change the injection site with each injection to help prevent these skin changes. If you notice your skin pitting or thickening at the injection site, tell your doctor or nurse. These reactions can become more severe, or they may change the absorption of your insulin, if you inject in such a site.
 
-Uncommon (may affect up to 1 in 100 people)
+## Uncommon (may affect up to 1 in 100 people)
 
 Signs of allergy: Local allergic reactions (pain, redness, hives, inflammation, bruising, swelling and itching) at the injection site may occur. These usually disappear after a few weeks of using your insulin. If they do not disappear, or if they spread throughout your body, talk to your doctor immediately (see also 'Serious allergic reactions' above).
 
@@ -1852,7 +1829,7 @@ If you get any side effects, talk to your doctor, nurse or pharmacist. This incl
 
 ## High blood sugar (hyperglycaemia)
 
-High blood sugar may occur if you:
+## High blood sugar may occur if you:
 
 - Have not injected enough insulin.
 - Forget to inject your insulin or stop using insulin.
@@ -2057,7 +2034,7 @@ Tel: +386 1 235 51 00
 
 ## Ísland
 
-Vistor hf.
+Vistor ehf.
 
 Sími: +354 535 7000
 
@@ -2071,9 +2048,7 @@ Tel: +421 2 208 33 600
 
 Sanofi S.r.l.
 
-Tel: 800 13 12 12 (domande di tipo tecnico)
-
-800.536389 (altre domande)
+Tel: +39 800 536389
 
 ## Suomi/Finland
 
@@ -2099,12 +2074,6 @@ Swixx Biopharma SIA
 
 Tel: +371 6616 47 50
 
-## United Kingdom (Northern Ireland)
-
-Sanofi-aventis Ireland Ltd. T/A SANOFI
-
-Tel: +44 (0) 800 035 2525
-
 <div style=\"page-break-after: always\"></div>
 
 ## This leaflet was last revised in
@@ -2113,17 +2082,11 @@ Tel: +44 (0) 800 035 2525
 
 Detailed information on this medicine is available on the European Medicines Agency web site: http://www.ema.europa.eu/
 
-<div style=\"page-break-after: always\"></div>
-
-<!-- image -->
-
 ## Package leaflet: information for the user
 
-## Insulin aspart Sanofi 100 units/ml solution for injection in pre-filled pen
+<div style=\"page-break-after: always\"></div>
 
-## insulin aspart
-
-This medicine is subject to additional monitoring. This will allow quick identification of new safety information. You can help by reporting any side effects you may get. See the end of section 4 for how to report side effects.
+## Insulin aspart Sanofi 100 units/ml solution for injection in pre-filled pen insulin aspart
 
 ## Read all of this leaflet carefully before you start using this medicine because it contains important information for you.
 
@@ -2159,9 +2122,9 @@ Insulin aspart will start to lower your blood sugar 10-20 minutes after you inje
 - If it has not been stored correctly or been frozen (see 'How to store Insulin aspart Sanofi' in section 5).
 - If the insulin does not appear clear and colourless.
 
-<div style=\"page-break-after: always\"></div>
-
 If any of these applies, do not use Insulin aspart Sanofi. Talk with your doctor, nurse or pharmacist for advice.
+
+<div style=\"page-break-after: always\"></div>
 
 ## Before using Insulin aspart Sanofi
 
@@ -2205,18 +2168,17 @@ Some medicines affect your blood sugar level and this may mean that your insulin
 - Anabolic steroids (such as testosterone)
 - Sulphonamides (used to treat infections).
 
-Your blood sugar level may rise (hyperglycaemia) if you take:
+## Your blood sugar level may rise (hyperglycaemia) if you take:
 
 - Oral contraceptives (birth control pills)
 - Thiazides (used to treat high blood pressure or excessive fluid retention)
 - Glucocorticoids (such as 'cortisone' used to treat inflammation)
 - Thyroid hormones (used to treat thyroid gland disorders)
-
-<div style=\"page-break-after: always\"></div>
-
 - Sympathomimetics (such as epinephrine [adrenaline], or salbutamol, terbutaline used to treat asthma)
 - Growth hormone (medicine for stimulation of skeletal and somatic growth and pronounced influence on the body's metabolic processes)
 - Danazol (medicine acting on ovulation).
+
+<div style=\"page-break-after: always\"></div>
 
 Octreotide and lanreotide (used for treatment of acromegaly, a rare hormonal disorder that usually occurs in middle-aged adults, caused by the pituitary gland producing excess growth hormone) may either increase or decrease your blood sugar level.
 
@@ -2259,11 +2221,11 @@ This medicine contains less than 1 mmol (23 mg) sodium per dose, that to say ess
 
 ## Dose and when to use your insulin
 
-<div style=\"page-break-after: always\"></div>
-
 Always use your insulin and adjust your dose exactly as your doctor has told you. Check with your doctor, nurse or pharmacist if you are not sure.
 
 Insulin aspart is generally used immediately before a meal. Eat a meal or snack within 10 minutes of the injection to avoid low blood sugar. When necessary, insulin aspart can be given soon after a meal (see 'How and where to inject below for information').
+
+<div style=\"page-break-after: always\"></div>
 
 Do not change your insulin unless your doctor tells you to. If your doctor has switched you from one type or brand of insulin to another, your dose may have to be adjusted by your doctor.
 
@@ -2305,15 +2267,15 @@ If you have any further questions on the use of this medicine, ask your doctor, 
 
 ## 4. Possible side effects
 
-<div style=\"page-break-after: always\"></div>
-
 Like all medicines, this medicine can cause side effects, although not everybody gets them.
 
 ## Summary of serious and very common side effects
 
 Low blood sugar (hypoglycaemia) is a very common side effect. It may affect more than 1 in 10 people.
 
-Low blood sugar may occur if you:
+<div style=\"page-break-after: always\"></div>
+
+## Low blood sugar may occur if you:
 
 - Inject too much insulin.
 - Eat too little or miss a meal.
@@ -2336,7 +2298,7 @@ Tell relevant people that you have diabetes and what the consequences may be, in
 
 Serious allergic reactions to Insulin aspart Sanofi or one of its ingredients (called a systemic allergic reaction) is a very rare side effect but can potentially be life threatening. It may affect up to 1 in 10,000 people.
 
-Seek medical advice immediately:
+## Seek medical advice immediately:
 
 - If signs of allergy spread to other parts of your body.
 - If you suddenly feel unwell, and you: start sweating; start being sick (vomiting); have difficulty in breathing; have a rapid heartbeat; feel dizzy.
@@ -2345,11 +2307,9 @@ If you notice any of these signs, seek medical advice immediately.
 
 ## Other side effects
 
-Skin changes at the injection site: If you inject insulin too often at the same place, the fatty tissue under the skin at the injection site may shrink (lipoatrophy) or thicken (lipohypertrophy) ( may affect up to 1 in 100 people ). Lumps under the skin may also be caused by build-up of a protein called amyloid (cutaneous amyloidosis; how often this occurs is not known). The insulin may not work very
+Skin changes at the injection site: If you inject insulin too often at the same place, the fatty tissue under the skin at the injection site may shrink (lipoatrophy) or thicken (lipohypertrophy) ( may affect up to 1 in 100 people ). Lumps under the skin may also be caused by build-up of a protein called amyloid (cutaneous amyloidosis; how often this occurs is not known). The insulin may not work very well if you inject into a lumpy area. Change the injection site with each injection to help prevent these skin changes. If you notice your skin pitting or thickening at the injection site, tell your doctor or nurse. These reactions can become more severe, or they may change the absorption of your insulin, if you inject in such a site
 
 <div style=\"page-break-after: always\"></div>
-
-well if you inject into a lumpy area. Change the injection site with each injection to help prevent these skin changes. If you notice your skin pitting or thickening at the injection site, tell your doctor or nurse. These reactions can become more severe, or they may change the absorption of your insulin, if you inject in such a site
 
 ## Uncommon (may affect up to 1 in 100 people)
 
@@ -2391,11 +2351,11 @@ The warning signs appear gradually. They include: increased urination; feeling t
 - If you get any of the above signs: test your blood sugar level, test your urine for ketones if you can, then seek medical advice immediately.
 - These may be signs of a very serious condition called diabetic ketoacidosis (build-up of acid in the blood because the body is breaking down fat instead of sugar). If you do not treat it, this could lead to diabetic coma and eventually death.
 
-<div style=\"page-break-after: always\"></div>
-
 ## 5. How to store Insulin aspart Sanofi
 
 Keep this medicine out of the sight and reach of children.
+
+<div style=\"page-break-after: always\"></div>
 
 Do not use this medicine after the expiry date which is stated on the label and carton. The expiry date refers to the last day of that month.
 
@@ -2434,21 +2394,39 @@ For any information about this medicine, please contact the local representative
 
 België/Belgique/Belgien Sanofi Belgium Tél/Tel: +32 (0)2 710 54 00
 
-Lietuva Swixx Biopharma UAB Tel: +370 5 236 91 40
+## Lietuva
 
-<div style=\"page-break-after: always\"></div>
+Swixx Biopharma UAB
+
+Tel: +370 5 236 91 40
 
 ## България
 
-Swixx Biopharma EOOD Тел .: +359 (0)2 4942 480
+Swixx Biopharma EOOD
+
+Тел
+
+.: +359 (0)2 4942 480
+
+## Luxembourg/Luxemburg
+
+Sanofi Belgium
+
+Tél/Tel: +32 (0)2 710 54 00 (Belgique/Belgien)
+
+<div style=\"page-break-after: always\"></div>
 
 ## Česká republika
 
-Sanofi s.r.o. Tel: +420 233 086 111
+Sanofi s.r.o.
+
+Tel: +420 233 086 111
 
 ## Danmark
 
-Sanofi A/S Tlf: +45 45 16 70 00
+Sanofi A/S
+
+Tlf: +45 45 16 70 00
 
 ## Deutschland
 
@@ -2480,21 +2458,23 @@ sanofi-aventis Ireland Ltd. T/A SANOFI Tel: +353 (0) 1 403 56 00
 
 ## Ísland
 
-Vistor hf. Sími: +354 535 7000
+Vistor ehf. Sími: +354 535 7000
 
 ## Italia
 
-Sanofi S.r.l. Tel: 800 13 12 12 (domande di tipo tecnico) 800.536389 (altre domande)
+Sanofi S.r.l. Tel: +39 800 536389
 
 ## Κύπρος
 
 C.A. Papaellinas Ltd. Τηλ : +357 22 741741
 
-## Luxembourg/Luxemburg
+## Latvija
 
-Sanofi Belgium
+Swixx Biopharma SIA
 
-Tél/Tel: +32 (0)2 710 54 00 (Belgique/Belgien)
+Tel: +371 6616 47 50
+
+## This leaflet was last revised in
 
 ## Magyarország
 
@@ -2548,17 +2528,9 @@ Sanofi AB Tel: +46 (0)8 634 50 00
 
 <div style=\"page-break-after: always\"></div>
 
-Latvija
-
-Swixx Biopharma SIA Tel: +371 6616 47 50
-
-## This leaflet was last revised in
-
 ## Other source of information
 
 Detailed information on this medicine is available on the European Medicines Agency web site: http://www.ema.europa.eu/
-
-United Kingdom (Northern Ireland) Sanofi-aventis Ireland Ltd. T/A SANOFI Tel: +44 (0) 800 035 2525
 
 <div style=\"page-break-after: always\"></div>
 

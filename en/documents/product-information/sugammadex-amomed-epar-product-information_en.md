@@ -1,20 +1,20 @@
 ---
-document_datetime: 2025-06-25 13:33:37
+document_datetime: 2026-02-04 16:52:56
 document_pages: 37
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/sugammadex-amomed-epar-product-information_en.pdf
 document_name: sugammadex-amomed-epar-product-information_en.pdf
 version: success
-processing_time: 9.735344
-conversion_datetime: 2025-12-14 15:41:03.963922
+processing_time: 9.988364
+conversion_datetime: 2026-02-09 22:34:47.113149
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.64.1
-  docling-core: 2.55.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.12.0
+  docling-jobkit: 1.10.1
+  docling: 2.72.0
+  docling-core: 2.63.0
+  docling-ibm-models: 3.11.0
+  docling-parse: 4.7.3
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.1-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
 ---
 ## ANNEX I
 
@@ -30,7 +30,7 @@ Sugammadex Amomed 100 mg/ml solution for injection
 
 1 ml contains sugammadex sodium equivalent to 100 mg sugammadex. Each vial of 2 ml contains sugammadex sodium equivalent to 200 mg sugammadex.
 
-## Excipient(s) with known effect
+Excipient(s) with known effect
 
 Contains up to 9.4 mg/ml sodium (see section 4.4).
 
@@ -38,7 +38,11 @@ For the full list of excipients, see section 6.1.
 
 ## 3. PHARMACEUTICAL FORM
 
-Solution for injection (injection). Clear and slightly yellow solution. The pH is between 7 and 8 and osmolality is between 300 and 400 mOsm/kg.
+Solution for injection (injection).
+
+Clear and slightly yellow solution.
+
+The pH is between 7 and 8 and osmolality is between 300 and 400 mOsm/kg.
 
 ## 4. CLINICAL PARTICULARS
 
@@ -150,7 +154,7 @@ In clinical studies with subjects treated with rocuronium or vecuronium, where s
 
 ## Effect on haemostasis
 
-In a study in volunteers doses of 4 mg/kg and 16 mg/kg of sugammadex resulted in maximum mean prolongations of the activated partial thromboplastin time (aPTT) by 17 and 22 % respectively and prothrombin time international normalised ratio [PT(INR)] by 11 and 22 % respectively. These limited mean aPTT and PT(INR) prolongations were of short duration ( ≤ 30 minutes). Based on the clinical data base (N = 3 519) and on a specific study in 1 184 patients undergoing hip fracture/major joint replacement surgery there was no clinically relevant effect of sugammadex 4 mg/kg alone or in combination with anticoagulants on the incidence of peri- or post-operative bleeding complications.
+In a study in volunteers doses of 4 mg/kg and 16 mg/kg of sugammadex resulted in maximum mean prolongations of the activated partial thromboplastin time (aPTT) by 17 and 22 % respectively and prothrombin time international normalised ratio [PT(INR)] by 11 and 22 % respectively. These limited mean aPTT and PT(INR) prolongations were of short duration (≤ 30 minutes). Based on the clinical data base (N = 3 519) and on a specific study in 1 184 patients undergoing hip fracture/major joint replacement surgery there was no clinically relevant effect of sugammadex 4 mg/kg alone or in combination with anticoagulants on the incidence of peri- or post-operative bleeding complications.
 
 In in vitro experiments a pharmacodynamic interaction (aPTT and PT prolongation) was noted with vitamin K antagonists, unfractionated heparin, low molecular weight heparinoids, rivaroxaban and dabigatran. In patients receiving routine post-operative prophylactic anticoagulation this pharmacodynamic interaction is not clinically relevant. Caution should be exercised when considering the use of sugammadex in patients receiving therapeutic anticoagulation for a pre-existing or comorbid condition.
 
@@ -208,9 +212,11 @@ hepatic impairment have not been conducted. Patients with severe hepatic impairm
 
 Sugammadex has not been investigated in patients receiving rocuronium or vecuronium in the ICU setting.
 
-Use for reversal of neuromuscular blocking agents other than rocuronium or vecuronium Sugammadex should not be used to reverse block induced by nonsteroidal neuromuscular blocking agents such as succinylcholine or benzylisoquinolinium compounds. Sugammadex should not be used for reversal of neuromuscular blockade induced by steroidal neuromuscular blocking agents other than rocuronium or vecuronium, since there are no efficacy and safety data for these situations. Limited data are available for reversal of pancuronium induced
+Use for reversal of neuromuscular blocking agents other than rocuronium or vecuronium Sugammadex should not be used to reverse block induced by nonsteroidal
 
-blockade, but it is advised not to use sugammadex in this situation.
+Sugammadex should not be used for reversal of neuromuscular blockade induced by steroidal safety data for these situations. Limited data are available for reversal of pancuronium induced blockade, but it is advised not to use sugammadex in this situation.
+
+neuromuscular blocking agents such as succinylcholine or benzylisoquinolinium compounds. neuromuscular blocking agents other than rocuronium or vecuronium, since there are no efficacy and
 
 ## Delayed recovery
 
@@ -260,7 +266,7 @@ When medicinal products which potentiate neuromuscular blockade are used in the 
 
 In general sugammadex does not interfere with laboratory tests, with the possible exception of the serum progesterone assay. Interference with this test is observed at sugammadex plasma concentrations of 100 microgra m /ml (peak plasma level following 8 mg/kg bolus injection).
 
-In a study in volunteers, doses of 4 mg/kg and 16 mg/kg of sugammadex resulted in maximum mean prolongations of aPTT by 17 and 22% respectively and of PT(INR) by 11 and 22 % respectively. These limited mean aPTT and PT(INR) prolongations were of short duration (≤ 30 minutes). In in vitro experiments a pharmacodynamic interaction (aPTT and PT prolongation) was noted with vitamin K antagonists, unfractionated heparin, low molecular weight heparinoids, rivaroxaban and dabigatran (see section 4.4).
+In a study in volunteers, doses of 4 mg/kg and 16 mg/kg of sugammadex resulted in maximum mean prolongations of aPTT by 17 and 22% respectively and of PT(INR) by 11 and 22 % respectively. These limited mean aPTT and PT(INR) prolongations were of short dura tion (≤ 30 minutes). In in vitro experiments a pharmacodynamic interaction (aPTT and PT prolongation) was noted with vitamin K antagonists, unfractionated heparin, low molecular weight heparinoids, rivaroxaban and dabigatran (see section 4.4).
 
 ## Paediatric population
 
@@ -298,13 +304,13 @@ Sugammadex Amomed has no known influence on the ability to drive and use machine
 
 Sugammadex is administered concomitantly with neuromuscular blocking agents and anaesthetics in surgical patients. The causality of adverse events is therefore difficult to assess.
 
-The most commonly reported adverse reactions in surgical patients were cough, airway complication of anaesthesia, anaesthetic complications, procedural hypotension and procedural complication (Common ( ≥ 1/100 to &lt; 1/10)).
+The most commonly reported adverse reactions in surgical patients were cough, airway complication of anaesthesia, anaesthetic complications, procedural hypotension and procedural complication (Common (≥ 1/100 to &lt; 1/10)).
 
 ## Table 2: Tabulated list of adverse reactions
 
 The safety of sugammadex has been evaluated in 3 519 unique subjects across a pooled phase I-III safety database. The following adverse reactions were reported in placebo controlled trials where subjects received anaesthesia and/or neuromuscular blocking agents (1 078 subject exposures to sugammadex versus 544 to placebo):
 
-Adverse reactions are listed by system organ class and frequency [Very common ( ≥ 1/10), common ( ≥ 1/100 to &lt; 1/10), uncommon ( ≥ 1/1 000 to &lt; 1/100), rare (≥ 1/10 000 to &lt; 1/1 000), very rar e (&lt; 1/10 000)]
+Adverse reactions are listed by system organ class and frequency [Very common (≥ 1/10), common (≥ 1/100 to &lt; 1/10), uncommon (≥ 1/1 000 to &lt; 1/100), rare (≥ 1/10 000 to &lt; 1/1 000), very rar e (&lt; 1/10 000)]
 
 | System organ class                              | Frequencies   | Adverse reactions (Preferred terms)                                                                                          |
 |-------------------------------------------------|---------------|------------------------------------------------------------------------------------------------------------------------------|
@@ -352,7 +358,7 @@ A randomised, double-blind study examined the incidence of drug hypersensitivity
 
 ## In a previous study of similar design, there were three adjudicated cases of anaphylaxis, all after sugammadex 16 mg/kg (incidence 2 %).
 
-In the Pooled Phase 1 database, Adverse Events (AEs) considered common ( ≥ 1/100 to &lt; 1/10) or very common ( ≥ 1/10) and more frequent among subjects treated with sugammadex than in the placebo group, include dysgeusia (10.1 %), headache (6.7 %), nausea (5.6 %), urticaria (1.7 %), pruritus (1.7 %), dizziness (1.6 %), vomiting (1.2 %) and abdominal pain (1.0 %).
+In the Pooled Phase 1 database, Adverse Events (AEs) considered common (≥ 1/100 to &lt; 1/10) or very common (≥ 1/10) and more frequent among subjects treated with sugammadex than in the placebo group, include dysgeusia (10.1 %), headache (6.7 %), nausea (5.6 %), urticaria (1.7 %), pruritus (1.7 %), dizziness (1.6 %), vomiting (1.2 %) and abdominal pain (1.0 %).
 
 ## Additional information on special populations
 
@@ -406,11 +412,13 @@ Sugammadex can be administered at several time points after administration of ro
 
 In a pivotal study patients were randomly assigned to the rocuronium or vecuronium group. After the last dose of rocuronium or vecuronium, at 1-2 PTCs, 4 mg/kg sugammadex or 70 mcg/kg neostigmine was administered in a randomised order. The time from start of administration of sugammadex or neostigmine to recovery of the T4/T1 ratio to 0.9 was:
 
-Table 3: Time (minutes) from administration of sugammadex or neostigmine at deep neuromuscular blockade (1-2 PTCs) after rocuronium or vecuronium to recovery of the T4/T1 ratio to 0.9
+Table 3: Time (minutes) from administration of sugammadex or neostigmine at deep neuromuscular blockade (1-2 PTCs) after rocuronium or vecuronium to recovery of the T4/T1
+
+ratio to 0.9
 
 | Neuromuscular blocking agent   | Treatment regimen    | Treatment regimen       |
 |--------------------------------|----------------------|-------------------------|
-| Neuromuscular blocking agent   | Sugammadex (4 mg/kg) | Neostigmine (70 mcg/kg) |
+|                                | Sugammadex (4 mg/kg) | Neostigmine (70 mcg/kg) |
 | Rocuronium                     |                      |                         |
 | N                              | 37                   | 37                      |
 | Median (minutes)               | 2.7                  | 49.0                    |
@@ -444,7 +452,7 @@ Table 5: Time (minutes) from administration of sugammadex or neostigmine at reap
 
 | Neuromuscular blocking agent   | Treatment regimen                   | Treatment regimen                          |
 |--------------------------------|-------------------------------------|--------------------------------------------|
-| Neuromuscular blocking agent   | Rocuronium and sugammadex (2 mg/kg) | Cis-atracurium and neostigmine (50 mcg/kg) |
+|                                | Rocuronium and sugammadex (2 mg/kg) | Cis-atracurium and neostigmine (50 mcg/kg) |
 | N                              | 34                                  | 39                                         |
 | Median (minutes)               | 1.9                                 | 7.2                                        |
 | Range                          | 0.7 - 6.4                           | 4.2 - 28.2                                 |
@@ -632,7 +640,7 @@ The infusion line should be adequately flushed (e.g., with 0.9% sodium chloride)
 
 ## Use in the paediatric population
 
-For paediatric patients Sugammadex Amomed   can be diluted using sodium chloride 9 mg/ml (0.9 %) to a concentration of 10 mg / ml (see section 6.3).
+For paediatric patients Sugammadex Amomed can be diluted using sodium chloride 9 mg/ml (0.9 %) to a concentration of 10 mg / ml (see section 6.3).
 
 Any unused medicinal product or waste material should be disposed of in accordance with local requirements.
 
@@ -669,7 +677,7 @@ Detailed information on this medicinal product is available on the website of th
 
 Name and address of the manufacturer responsible for batch release
 
-Biofactor GmbH Rudolf-Huch Straße 14 38667 Bad Harzburg Germany
+Bendalis GmbH Keltenring 17 82041 Oberhaching Germany
 
 ## B. CONDITIONS OR RESTRICTIONS REGARDING SUPPLY AND USE
 
@@ -797,9 +805,9 @@ NN {number}
 
 <div style=\"page-break-after: always\"></div>
 
-## MINIMU M PARTICULARS TO APPEAR ON SMALL IMMEDIATE PACKAGING UNITS
-
-## VIAL LABEL, 2 ml vials
+| MINIMU M PARTICULARS TO APPEAR ON SMALL IMMEDIATE PACKAGING UNITS   |
+|---------------------------------------------------------------------|
+| VIAL LABEL, 2 ml vials                                              |
 
 ## 1. NAME OF THE MEDICINA L PRODUCT AND ROUTE(S) OF ADMINISTRATION
 
@@ -831,7 +839,9 @@ Lot
 
 <div style=\"page-break-after: always\"></div>
 
-## Sugammadex Amomed 100 mg/ml solution for injection sugammadex
+## Sugammadex Amomed 100 mg/ml solution for injection
+
+sugammadex
 
 ## Read all of this leaflet carefully before you are given this medicine because it contains important information for you.
 
@@ -903,9 +913,11 @@ In general, Sugammadex Amomed does not have an effect on laboratory tests. Howev
 
 ## Pregnancy and breast-feeding
 
-- → Tell your anaesthetist if you are pregnant or might be pregnant or if you are breast-feeding. You may still be given Sugammadex Amomed, but you need to discuss it first. It is not known whether sugammadex can pass into breast milk. Your anaesthetist will help you decide
+- → Tell your anaesthetist if you are pregnant or might be pregnant or if you are breast-feeding.
 
-whether to stop breast-feeding, or whether to abstain from sugammadex therapy, considering the benefit of breast-feeding to the baby and the benefit of Sugammadex Amomed to the mother.
+You may still be given Sugammadex Amomed, but you need to discuss it first.
+
+It is not known whether sugammadex can pass into breast milk. Your anaesthetist will help you decide whether to stop breast-feeding, or whether to abstain from sugammadex therapy, considering the benefit of breast-feeding to the baby and the benefit of Sugammadex Amomed to the mother.
 
 ## Driving and using machines
 
@@ -928,9 +940,9 @@ Your anaesthetist will work out the dose of Sugammadex Amomed you need based on:
 
 The usual dose is 2-4 mg per kg body weight for patients of any age. A dose of 16 mg/kg can be used in adults if urgent recovery from muscle relaxation is needed.
 
-## How Sugammadex Amomed is given
-
 <div style=\"page-break-after: always\"></div>
+
+## How Sugammadex Amomed is given
 
 Sugammadex Amomed will be given to you by your anaesthetist. It is given as a single injection through an intravenous line.
 
@@ -956,9 +968,7 @@ Like all medicines, this medicine can cause side effects, although not everybody
 
 - Shortness of breath due to muscle cramps of the airways (bronchospasm) occurred in patients with a history of lung problems
 - Allergic (drug hypersensitivity) reactions - such as a rash, red skin, swelling of your tongue and/or throat, shortness of breath, changes in blood pressure or heart rate, sometimes resulting in a serious decrease of blood pressure. Severe allergic or allergic-like reactions can be life threatening.
-
-Allergic reactions were reported more commonly in healthy, conscious volunteers
-
+- Allergic reactions were reported more commonly in healthy, conscious volunteers
 - Return of muscle relaxation after the operation
 
 ## Frequency not known
@@ -973,9 +983,9 @@ If you get any side effects, talk to your anaesthetist or other doctor. This inc
 
 Storage will be handled by healthcare professionals.
 
-Keep this medicine out of the sight and reach of children.
+Keep this medicine out of the sight and reach of children. Do not use this medicine after the expiry date which is stated on the carton and on the label after
 
-Do not use this medicine after the expiry date which is stated on the carton and on the label after 'EXP'. The expiry date refers to the last day of that month.
+'EXP'. The expiry date refers to the last day of that month.
 
 Store below 30 °C. Do not freeze. Keep the vial in the outer carton in order to protect from light.
 
@@ -997,9 +1007,7 @@ Do not throw away any medicines via wastewater or household waste. Ask your phar
 
 ## What Sugammadex Amomed looks like and contents of the pack
 
-Sugammadex Amomed is a clear and slightly yellow solution for injection.
-
-It comes in 10 vials with 2 ml solution for injection.
+Sugammadex Amomed is a clear and slightly yellow solution for injection. It comes in 10 vials with 2 ml solution for injection.
 
 ## Marketing Authorisation Holder
 
@@ -1007,7 +1015,7 @@ AOP Orphan Pharmaceuticals GmbH Leopold-Ungar-Platz 2 1190 Vienna Austria
 
 ## Manufacturer
 
-Biofactor GmbH Rudolf-Huch Straße 14 38667 Bad Harzburg Germany
+Bendalis GmbH Keltenring 17 82041 Oberhaching Germany
 
 For any information about this medicine, please contact the local representative of the Marketing Authorisation Holder:
 
@@ -1021,63 +1029,75 @@ AOP Orphan Pharmaceuticals GmbH (Austrija) Tel: + 43 1 5037244
 
 ## България
 
-AOP Orphan Pharmaceuticals GmbH ( Австрия) Teл.: + 43 1 5037244
+AOP Orphan Pharmaceuticals GmbH (Австрия) Teл.: + 43 1 5037244
 
 ## Luxembourg/Luxemburg
 
-AOP Orphan Pharmaceuticals GmbH (Austria) Tél/Tel: + 43 1 5037244
+AOP Orphan Pharmaceuticals GmbH (Austria)
+
+Tél/Tel: + 43 1 5037244
 
 ## Česká republika
 
-AOP Orphan Pharmaceuticals GmbH (Rakousko) Tel: + 43 1 5037244
+AOP Orphan Pharmaceuticals GmbH (Rakousko)
+
+Tel: + 43 1 5037244
 
 ## Magyarország
 
-AOP Orphan Pharmaceuticals GmbH (Ausztria) Tel.: + 43 1 5037244
+AOP Orphan Pharmaceuticals GmbH (Ausztria)
+
+Tel.: + 43 1 5037244
 
 ## Danmark
 
-AOP Orphan Pharmaceuticals GmbH (Østrig) Tlf: + 43 1 5037244
+AOP Orphan Pharmaceuticals GmbH (Østrig)
+
+Tlf: + 43 1 5037244
 
 ## Malta
 
-AOP Orphan Pharmaceuticals GmbH (L-Awstrija) Tel: + 43 1 5037244
+AOP Orphan Pharmaceuticals GmbH (L-Awstrija)
+
+Tel: + 43 1 5037244
 
 ## Deutschland
 
-AOP Orphan Pharmaceuticals Germany GmbH
-
-Tel: + 49 89 99 740 7600
+AOP Orphan Pharmaceuticals Germany GmbH Tel: + 49 89 99 740 7600
 
 ## Nederland
 
-AOP Orphan Pharmaceuticals GmbH (Oostenrijk) Tel: + 43 1 5037244
+AOP Orphan Pharmaceuticals GmbH (Oostenrijk)
+
+Tel: + 43 1 5037244
+
+<div style=\"page-break-after: always\"></div>
 
 ## Eesti
 
-AOP Orphan Pharmaceuticals GmbH (Austria) Tel: + 43 1 5037244
+AOP Orphan Pharmaceuticals GmbH (Austria)
 
-## Norge
-
-AOP Orphan Pharmaceuticals GmbH (Østerrike) Tlf: + 43 1 5037244
-
-<div style=\"page-break-after: always\"></div>
+Tel: + 43 1 5037244
 
 ## Ελλάδα
 
 AOP Orphan Φαρμακευτική Ελλάδας ΜΕΠΕ ( Ελλάδα)
 
-2107781283
-
 Τηλ: +30
+
+2107781283
 
 ## España
 
-AOP Orphan Pharmaceuticals Iberia S.L.U. Tel: +34 91 449 19 89
+AOP Orphan Pharmaceuticals Iberia S.L.U.
+
+Tel: +34 91 449 19 89
 
 ## France
 
-AOP Orphan Pharmaceuticals France Tél: + 33 1 85 74 69 44
+AOP Orphan Pharmaceuticals France
+
+Tél: + 33 1 85 74 69 44
 
 ## Hrvatska
 
@@ -1091,7 +1111,9 @@ AOP Orphan Pharmaceuticals GmbH (Austria) Tel: + 43 1 5037244
 
 ## Ísland
 
-AOP Orphan Pharmaceuticals GmbH (Austurríki) Sími: + 43 1 5037244
+AOP Orphan Pharmaceuticals GmbH (Austurríki)
+
+Sími: + 43 1 5037244
 
 ## Italia
 
@@ -1103,7 +1125,9 @@ AOP Orphan Pharmaceuticals GmbH (Αυστρία) Τηλ: + 43 1 5037244
 
 ## Latvija
 
-AOP Orphan Pharmaceuticals GmbH (Austrija) Tel: + 43 1 5037244
+AOP Orphan Pharmaceuticals GmbH (Austrija)
+
+Tel: + 43 1 5037244
 
 ## This leaflet was last revised in
 
@@ -1111,9 +1135,17 @@ AOP Orphan Pharmaceuticals GmbH (Austrija) Tel: + 43 1 5037244
 
 Detailed information on this medicine is available on the European Medicines Agency web site: https://www.ema.europa.eu.
 
+## Norge
+
+AOP Orphan Pharmaceuticals GmbH (Østerrike)
+
+Tlf: + 43 1 5037244
+
 ## Österreich
 
-AOP Orphan Pharmaceuticals GmbH Tel: + 43 1 5037244
+AOP Orphan Pharmaceuticals GmbH
+
+Tel: + 43 1 5037244
 
 ## Polska
 
@@ -1123,11 +1155,15 @@ Tel.: + 43 1 5037244
 
 ## Portugal
 
-AOP Orphan Pharmaceuticals Iberia S.L.U. Tel: +34 91 449 19 89
+AOP Orphan Pharmaceuticals Iberia S.L.U.
+
+Tel: +34 91 449 19 89
 
 ## România
 
-AOP Orphan Pharmaceuticals GmbH (Austria) Tel: + 43 1 5037244
+AOP Orphan Pharmaceuticals GmbH (Austria)
+
+Tel: + 43 1 5037244
 
 ## Slovenija
 
@@ -1281,11 +1317,9 @@ Sugammadex has not been investigated in patients receiving rocuronium or vecuron
 
 <div style=\"page-break-after: always\"></div>
 
-Use for reversal of neuromuscular blocking agents other than rocuronium or vecuronium Sugammadex should not be used to reverse block induced by nonsteroidal agents such as succinylcholine or benzylisoquinolinium compounds.
+Use for reversal of neuromuscular blocking agents other than rocuronium or vecuronium Sugammadex should not be used to reverse block induced by nonsteroidal neuromuscular blocking agents such as succinylcholine or benzylisoquinolinium compounds. neuromuscular blocking agents other than rocuronium or vecuronium, since there are no efficacy and
 
 Sugammadex should not be used for reversal of neuromuscular blockade induced by steroidal safety data for these situations. Limited data are available for reversal of pancuronium induced blockade, but it is advised not to use sugammadex in this situation.
-
-neuromuscular blocking neuromuscular blocking agents other than rocuronium or vecuronium, since there are no efficacy and
 
 ## Delayed recovery
 
@@ -1349,7 +1383,9 @@ The effects with sugammadex on human fertility have not been investigated. Anima
 
 ## Summary of the safety profile
 
-Sugammadex is administered concomitantly with neuromuscular blocking agents and anaesthetics in surgical patients. The causality of adverse events is therefore difficult to assess. The most commonly reported adverse reactions in surgical patients were cough, airway complication of anaesthesia, anaesthetic complications, procedural hypotension and procedural complication (Common (≥ 1/100 to &lt; 1/10)).
+Sugammadex is administered concomitantly with neuromuscular blocking agents and anaesthetics in surgical patients. The causality of adverse events is therefore difficult to assess.
+
+The most commonly reported adverse reactions in surgical patients were cough, airway complication of anaesthesia, anaesthetic complications, procedural hypotension and procedural complication (Common (≥ 1/100 to &lt; 1/10)).
 
 <div style=\"page-break-after: always\"></div>
 
@@ -1367,7 +1403,7 @@ Adverse reactions are listed by system organ class and frequency [Very common (�
 
 ## Description of selected adverse reactions
 
-Drug hypersensitivity reactions
+## Drug hypersensitivity reactions
 
 Hypersensitivity reactions, including anaphylaxis, have occurred in some patients and volunteers (for information on volunteers, see Information on healthy volunteers below). In clinical trials of surgical patients these reactions were reported uncommonly and for post-marketing reports the frequency is unknown.
 
@@ -1399,7 +1435,9 @@ In clinical studies with subjects treated with rocuronium or vecuronium, where s
 
 ## Information on healthy volunteers
 
-A randomised, double-blind study examined the incidence of drug hypersensitivity reactions in healthy volunteers given up to 3 doses of placebo (N = 76), sugammadex 4 mg/kg (N = 151) or sugammadex 16 mg/kg (N = 148). Reports of suspected hypersensitivity were adjudicated by a blinded committee. The incidence of adjudicated hypersensitivity was 1.3 %, 6.6 % and 9.5 % in the placebo, sugammadex 4 mg/kg and sugammadex 16 mg/kg groups, respectively. There were no reports of anaphylaxis after placebo or sugammadex 4 mg/kg. There was a single case of adjudicated anaphylaxis after the first dose of sugammadex 16 mg/kg (incidence 0.7 %). There was no evidence of increased frequency or severity of hypersensitivity with repeat dosing of sugammadex.
+A randomised, double-blind study examined the incidence of drug hypersensitivity reactions in healthy volunteers given up to 3 doses of placebo (N = 76), sugammadex 4 mg/kg (N = 151) or sugammadex 16 mg/kg (N = 148). Reports of suspected hypersensitivity were adjudicated by a blinded committee.
+
+The incidence of adjudicated hypersensitivity was 1.3 %, 6.6 % and 9.5 % in the placebo, sugammadex 4 mg/kg and sugammadex 16 mg/kg groups, respectively. There were no reports of anaphylaxis after placebo or sugammadex 4 mg/kg. There was a single case of adjudicated anaphylaxis after the first dose of sugammadex 16 mg/kg (incidence 0.7 %). There was no evidence of increased frequency or severity of hypersensitivity with repeat dosing of sugammadex.
 
 In a previous study of similar design, there were three adjudicated cases of anaphylaxis, all after sugammadex 16 mg/kg (incidence 2 %).
 
@@ -1451,4 +1489,4 @@ The infusion line should be adequately flushed (e.g., with 0.9% sodium chloride)
 
 ## Use in the paediatric population
 
-For paediatric patients Sugammadex Amomed   can be diluted using sodium chloride 9 mg/ml (0.9 %) to a concentration of 10 mg/ml (see SmPC, section 6.3).
+For paediatric patients Sugammadex Amomed can be diluted using sodium chloride 9 mg/ml (0.9 %) to a concentration of 10 mg/ml (see SmPC, section 6.3).

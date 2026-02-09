@@ -1,18 +1,18 @@
 ---
-document_datetime: 2026-01-06 10:45:42
+document_datetime: 2026-02-06 15:53:20
 document_pages: 52
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/bildyos-epar-product-information_en.pdf
 document_name: bildyos-epar-product-information_en.pdf
 version: success
-processing_time: 10.5727226
-conversion_datetime: 2026-01-10 11:17:19.575162
+processing_time: 10.2641429
+conversion_datetime: 2026-02-09 22:13:53.259305
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.1
-  docling: 2.67.0
-  docling-core: 2.58.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.12.0
+  docling-jobkit: 1.10.1
+  docling: 2.72.0
+  docling-core: 2.63.0
+  docling-ibm-models: 3.11.0
+  docling-parse: 4.7.3
   python: cpython-313 (3.13.11)
   plaform: macOS-26.2-arm64-arm-64bit-Mach-O
 ---
@@ -187,7 +187,7 @@ Denosumab should not be used in paediatric patients (age &lt; 18). Serious hyper
 
 This medicine contains 47 mg sorbitol and 0.1 mg polysorbate 20 in each mL of solution. The additive effect of concomitantly administered products containing sorbitol (or fructose) and polysorbate 20, and dietary intake of sorbitol (or fructose) and polysorbate 20 should be taken into account.
 
-This medicinal product contains less than 1 mmol sodium (23 mg) per 60 mg that is to say essentially 'sodium -free'.
+This medicinal product contains less than 1 mmol sodium (23 mg) per 60 mg that is to say essentially 'sodium-free'.
 
 <div style=\"page-break-after: always\"></div>
 
@@ -311,7 +311,7 @@ There is no experience with overdose in clinical studies. Denosumab has been adm
 
 ## 5.1 Pharmacodynamic properties
 
-Pharmacotherapeutic group: Drugs for treatment of bone diseases -Other drugs affecting bone structure and mineralisation. ATC code: M05BX04
+Pharmacotherapeutic group: Drugs for treatment of bone diseases - Other drugs affecting bone structure and mineralisation. ATC code: M05BX04
 
 Bildyos is a biosimilar medicinal product. Detailed information is available on the website of the European Medicines Agency https://www.ema.europa.eu.
 
@@ -321,7 +321,7 @@ Denosumab is a fully human monoclonal antibody (IgG2) that targets and binds wit
 
 ## Pharmacodynamic effects
 
-Denosumab treatment rapidly reduced the rate of bone turnover, reaching a nadir for the bone resorption marker serum type 1 C-telopeptides (CTX) (85% reduction) by 3 days, with reductions maintained over the dosing interval. At the end of each dosing interval, CTX reductions were partially attenuated from maximal reduction of ≥ 87% to approximately ≥ 45% (range 45 -80%), reflecting the reversibility of denosumab's effects on bone remodelling once serum levels diminish. These effects were sustained with continued treatment. Bone turnover markers generally reached pre-treatment levels within 9 months after the last dose. Upon re-initiation, reductions in CTX by denosumab were similar to those observed in patients initiating primary denosumab treatment.
+Denosumab treatment rapidly reduced the rate of bone turnover, reaching a nadir for the bone resorption marker serum type 1 C-telopeptides (CTX) (85% reduction) by 3 days, with reductions maintained over the dosing interval. At the end of each dosing interval, CTX reductions were partially attenuated from maximal reduction of ≥ 87% to approximately ≥ 45% (range 45-80%), reflecting the reversibility of denosumab's effects on bone remodelling once serum levels diminish. These effects were sustained with continued treatment. Bone turnover markers generally reached pre-treatment levels within 9 months after the last dose. Upon re-initiation, reductions in CTX by denosumab were similar to those observed in patients initiating primary denosumab treatment.
 
 <div style=\"page-break-after: always\"></div>
 
@@ -331,7 +331,7 @@ Anti-denosumab antibodies may develop during denosumab treatment. No apparent co
 
 ## Clinical efficacy and safety in postmenopausal women with osteoporosis
 
-Efficacy and safety of denosumab administered once every 6 months for 3 years were investigated in postmenopausal women (7 808 women aged 60-91 years, of which 23.6% had prevalent vertebral fractures) with baseline bone mineral density (BMD) T-scores at the lumbar spine or total hip between -2.5 and -4.0 and a mean absolute 10-year fracture probability of 18.60% (deciles: 7.9 -32.4%) for major osteoporotic fracture and 7.22% (deciles: 1.4 -14.9%) for hip fracture. Women with other diseases or on therapies that may affect bone were excluded from this study. Women received calcium (at least 1 000 mg) and vitamin D (at least 400 IU) supplementation daily.
+Efficacy and safety of denosumab administered once every 6 months for 3 years were investigated in postmenopausal women (7 808 women aged 60-91 years, of which 23.6% had prevalent vertebral fractures) with baseline bone mineral density (BMD) T-scores at the lumbar spine or total hip between -2.5 and -4.0 and a mean absolute 10-year fracture probability of 18.60% (deciles: 7.9-32.4%) for major osteoporotic fracture and 7.22% (deciles: 1.4-14.9%) for hip fracture. Women with other diseases or on therapies that may affect bone were excluded from this study. Women received calcium (at least 1 000 mg) and vitamin D (at least 400 IU) supplementation daily.
 
 ## Effect on vertebral fractures
 
@@ -339,12 +339,12 @@ Denosumab significantly reduced the risk of new vertebral fractures at 1, 2 and 
 
 Table 2 The effect of denosumab on the risk of new vertebral fractures
 
-|           | Proportion of women with fracture (%)   | Proportion of women with fracture (%)   | Absolute risk reduction (%)   | Relative risk reduction (%)   |
-|-----------|-----------------------------------------|-----------------------------------------|-------------------------------|-------------------------------|
-|           | Placebo n = 3 906                       | Denosumab n = 3 902                     | (95% CI)                      | (95% CI)                      |
-| 0-1 year  | 2.2                                     | 0.9                                     | 1.4 (0.8, 1.9)                | 61 (42, 74)**                 |
-| 0-2 years | 5.0                                     | 1.4                                     | 3.5 (2.7, 4.3)                | 71 (61, 79)**                 |
-| 0-3 years | 7.2                                     | 2.3                                     | 4.8 (3.9, 5.8)                | 68 (59, 74)*                  |
+|           | Proportion of women with fracture (%)   | Proportion of women with fracture (%)   | Absolute risk reduction (%)   | Relative risk reduction   |
+|-----------|-----------------------------------------|-----------------------------------------|-------------------------------|---------------------------|
+|           | Placebo n = 3 906                       | Denosumab n = 3 902                     | (95% CI)                      | (%) (95% CI)              |
+| 0-1 year  | 2.2                                     | 0.9                                     | 1.4 (0.8, 1.9)                | 61 (42, 74)**             |
+| 0-2 years | 5.0                                     | 1.4                                     | 3.5 (2.7, 4.3)                | 71 (61, 79)**             |
+| 0-3 years | 7.2                                     | 2.3                                     | 4.8 (3.9, 5.8)                | 68 (59, 74)*              |
 
 ## Effect on hip fractures
 
@@ -391,7 +391,7 @@ Thirteen adjudicated cases of osteonecrosis of the jaw (ONJ) and two adjudicated
 
 ## Clinical efficacy and safety in men with osteoporosis
 
-Efficacy and safety of denosumab once every 6 months for 1 year were investigated in 242 men aged 31 -84 years. Subjects with an eGFR &lt; 30 mL/min/1.73 m 2 were excluded from the study. All men received calcium (at least 1 000 mg) and vitamin D (at least 800 IU) supplementation daily.
+Efficacy and safety of denosumab once every 6 months for 1 year were investigated in 242 men aged 31-84 years. Subjects with an eGFR &lt; 30 mL/min/1.73 m 2 were excluded from the study. All men received calcium (at least 1 000 mg) and vitamin D (at least 800 IU) supplementation daily.
 
 The primary efficacy variable was percent change in lumbar spine BMD, fracture efficacy was not evaluated. Denosumab significantly increased BMD at all clinical sites measured, relative to placebo at 12 months: 4.8% at lumbar spine, 2.0% at total hip, 2.2% at femoral neck, 2.3% at hip trochanter, and 0.9% at distal 1/3 radius (all p &lt; 0.05). Denosumab increased lumbar spine BMD from baseline in 94.7% of men at 1 year. Significant increases in BMD at lumbar spine, total hip, femoral neck and hip trochanter were observed by 6 months (p &lt; 0.0001).
 
@@ -399,11 +399,11 @@ The primary efficacy variable was percent change in lumbar spine BMD, fracture e
 
 ## Bone histology in postmenopausal women and men with osteoporosis
 
-Bone histology was evaluated in 62 postmenopausal women with osteoporosis or with low bone mass who were either naïve to osteoporosis therapies or had transitioned from previous alendronate therapy following 1 -3 years treatment with denosumab. Fifty-nine women participated in the bone biopsy substudy at month 24 (n = 41) and/or month 84 (n = 22) of the extension study in postmenopausal women with osteoporosis. Bone histology was also evaluated in 17 men with osteoporosis following 1 year treatment with denosumab. Bone biopsy results showed bone of normal architecture and quality with no evidence of mineralisation defects, woven bone or marrow fibrosis. Histomorphometry findings in the extension study in postmenopausal women with osteoporosis showed that the antiresorptive effects of denosumab, as measured by activation frequency and bone formation rates, were maintained over time.
+Bone histology was evaluated in 62 postmenopausal women with osteoporosis or with low bone mass who were either naï ve to osteoporosis therapies or had transitioned from previous alendronate therapy following 1-3 years treatment with denosumab. Fifty-nine women participated in the bone biopsy substudy at month 24 (n = 41) and/or month 84 (n = 22) of the extension study in postmenopausal women with osteoporosis. Bone histology was also evaluated in 17 men with osteoporosis following 1 year treatment with denosumab. Bone biopsy results showed bone of normal architecture and quality with no evidence of mineralisation defects, woven bone or marrow fibrosis. Histomorphometry findings in the extension study in postmenopausal women with osteoporosis showed that the antiresorptive effects of denosumab, as measured by activation frequency and bone formation rates, were maintained over time.
 
 ## Clinical efficacy and safety in patients with bone loss associated with androgen deprivation
 
-Efficacy and safety of denosumab once every 6 months for 3 years were investigated in men with histologically confirmed non-metastatic prostate cancer receiving ADT (1 468 men aged 48 -97 years) who were at increased risk of fracture (defined as &gt; 70 years, or &lt; 70 years with a BMD T-score at the lumbar spine, total hip, or femoral neck &lt; -1.0 or a history of an osteoporotic fracture). All men received calcium (at least 1 000 mg) and vitamin D (at least 400 IU) supplementation daily.
+Efficacy and safety of denosumab once every 6 months for 3 years were investigated in men with histologically confirmed non-metastatic prostate cancer receiving ADT (1 468 men aged 48-97 years) who were at increased risk of fracture (defined as &gt; 70 years, or &lt; 70 years with a BMD T-score at the lumbar spine, total hip, or femoral neck &lt; -1.0 or a history of an osteoporotic fracture). All men received calcium (at least 1 000 mg) and vitamin D (at least 400 IU) supplementation daily.
 
 Denosumab significantly increased BMD at all clinical sites measured, relative to treatment with placebo at 3 years: 7.9% at the lumbar spine, 5.7% at the total hip, 4.9% at the femoral neck, 6.9% at the hip trochanter, 6.9% at the distal 1/3 radius and 4.7% at the total body (all p &lt; 0.0001). In a prospectively planned exploratory analysis, significant increases in BMD were observed at the lumbar spine, total hip, femoral neck and the hip trochanter 1 month after the initial dose.
 
@@ -411,7 +411,7 @@ Denosumab demonstrated a significant relative risk reduction of new vertebral fr
 
 ## Clinical efficacy and safety in patients with bone loss associated with adjuvant aromatase inhibitor therapy
 
-Efficacy and safety of denosumab once every 6 months for 2 years were investigated in women with non-metastatic breast cancer (252 women aged 35 -84 years) and baseline BMD T-scores between -1.0 to -2.5 at the lumbar spine, total hip or femoral neck. All women received calcium (at least 1 000 mg) and vitamin D (at least 400 IU) supplementation daily.
+Efficacy and safety of denosumab once every 6 months for 2 years were investigated in women with non-metastatic breast cancer (252 women aged 35-84 years) and baseline BMD T-scores between -1.0 to -2.5 at the lumbar spine, total hip or femoral neck. All women received calcium (at least 1 000 mg) and vitamin D (at least 400 IU) supplementation daily.
 
 The primary efficacy variable was percent change in lumbar spine BMD, fracture efficacy was not evaluated. Denosumab significantly increased BMD at all clinical sites measured, relative to treatment with placebo at 2 years: 7.6% at lumbar spine, 4.7% at total hip, 3.6% at femoral neck, 5.9% at hip trochanter, 6.1% at distal 1/3 radius and 4.2% at total body (all p &lt; 0.0001).
 
@@ -419,7 +419,7 @@ The primary efficacy variable was percent change in lumbar spine BMD, fracture e
 
 Efficacy and safety of denosumab were investigated in 795 patients (70% women and 30% men) aged 20 to 94 years treated with ≥ 7.5 mg daily oral prednisone (or equivalent).
 
-Two subpopulations were studied: glucocorticoidcontinuing (≥ 7.5 mg daily prednisone or its equivalent for ≥ 3 months prior to study enrolment; n = 505) and glucocorticoidinitiating (≥ 7.5 mg daily prednisone or its equivalent for &lt; 3 months prior to study enrolment; n = 290). Patients were randomised (1:1) to receive either denosumab 60 mg subcutaneously once every 6 months or oral risedronate 5 mg once daily (active control) for 2 years. Patients received calcium (at least 1 000 mg) and vitamin D (at least 800 IU) supplementation daily.
+Two subpopulations were studied: glucocorticoid-continuing (≥ 7.5 mg daily prednisone or its equivalent for ≥ 3 months prior to study enrolment; n = 505) and glucocorticoid-initiating (≥ 7.5 mg daily prednisone or its equivalent for &lt; 3 months prior to study enrolment; n = 290). Patients were randomised (1:1) to receive either denosumab 60 mg subcutaneously once every 6 months or oral risedronate 5 mg once daily (active control) for 2 years. Patients received calcium (at least 1 000 mg) and vitamin D (at least 800 IU) supplementation daily.
 
 <div style=\"page-break-after: always\"></div>
 
@@ -451,7 +451,7 @@ The European Medicines Agency has waived the obligation to submit the results of
 
 ## Absorption
 
-Following subcutaneous administration of a 1.0 mg/kg dose, which approximates the approved 60 mg dose, exposure based on AUC was 78% as compared to intravenous administration at the same dose level. For a 60 mg subcutaneous dose, maximum serum denosumab concentrations (Cmax) of 6 mcg/mL (range 1-17 mcg/mL) occurred in 10 days (range 2 -28 days).
+Following subcutaneous administration of a 1.0 mg/kg dose, which approximates the approved 60 mg dose, exposure based on AUC was 78% as compared to intravenous administration at the same dose level. For a 60 mg subcutaneous dose, maximum serum denosumab concentrations (Cmax) of 6 mcg/mL (range 1-17 mcg/mL) occurred in 10 days (range 2-28 days).
 
 <div style=\"page-break-after: always\"></div>
 
@@ -461,9 +461,9 @@ Denosumab is composed solely of amino acids and carbohydrates as native immunogl
 
 ## Elimination
 
-After Cmax, serum levels declined with a half-life of 26 days (range 6 -52 days) over a period of 3 months (range 1.5 -4.5 months). Fifty-three percent (53%) of patients had no measurable amounts of denosumab detected at 6 months post-dose.
+After Cmax, serum levels declined with a half-life of 26 days (range 6-52 days) over a period of 3 months (range 1.5-4.5 months). Fifty-three percent (53%) of patients had no measurable amounts of denosumab detected at 6 months post-dose.
 
-No accumulation or change in denosumab pharmacokinetics with time was observed upon subcutaneous multiple-dosing of 60 mg once every 6 months. Denosumab pharmacokinetics were not affected by the formation of binding antibodies to denosumab and were similar in men and women. Age (28 -87 years), race and disease state (low bone mass or osteoporosis; prostate or breast cancer) do not appear to significantly affect the pharmacokinetics of denosumab.
+No accumulation or change in denosumab pharmacokinetics with time was observed upon subcutaneous multiple-dosing of 60 mg once every 6 months. Denosumab pharmacokinetics were not affected by the formation of binding antibodies to denosumab and were similar in men and women. Age (28-87 years), race and disease state (low bone mass or osteoporosis; prostate or breast cancer) do not appear to significantly affect the pharmacokinetics of denosumab.
 
 A trend was observed between higher body weight and lower exposure based on AUC and Cmax. However, the trend is not considered clinically important, since pharmacodynamic effects based on bone turnover markers and BMD increases were consistent across a wide range of body weight.
 
@@ -523,13 +523,13 @@ In the absence of compatibility studies, this medicinal product must not be mixe
 
 ## 6.3 Shelf life
 
-## 18 months
+## 24 months
 
-Once removed from the refrigerator, Bildyos may be stored at room temperature (up to 25°C) for up to 30 days in the original carton. It must be used within this 30-day period.
+Once removed from the refrigerator, Bildyos may be stored at room temperature (up to 25° C) for up to 30 days in the original carton. It must be used within this 30-day period.
 
 ## 6.4 Special precautions for storage
 
-Store in a refrigerator (2°C 8°C).
+Store in a refrigerator (2° C - 8° C).
 
 Do not freeze.
 
@@ -551,18 +551,18 @@ Pack sizes of one vial.
 
 ## 6.6 Special precautions for disposal and other handling
 
-Bildyos 60 mg solution for injection in pre-filled syringe
+## Bildyos 60 mg solution for injection in pre-filled syringe
 
 - Before administration, the Bildyos solution should be inspected visually. The solution may contain trace amounts of translucent to white proteinaceous particles. Do not inject the solution if it is cloudy or discoloured.
 - Do not shake.
-- To avoid discomfort at the site of injection, allow the pre-filled syringe to reach room temperature (up to 25°C) before injecting and inject slowly.
+- To avoid discomfort at the site of injection, allow the pre-filled syringe to reach room temperature (up to 25° C) before injecting and inject slowly.
 - Inject the entire contents of the pre-filled syringe.
 
-Bildyos 60 mg solution for injection
+## Bildyos 60 mg solution for injection
 
 - Before  administration,  the  Bildyos  solution  should  be  inspected  visually.  The  solution  may contain trace amounts of translucent to white proteinaceous particles. Do not inject the solution if it is cloudy or discoloured.
 - Do not shake.
-- To avoid discomfort at the site of injection, allow the vial to reach room temperature (up to 25°C) before injecting and inject slowly.
+- To avoid discomfort at the site of injection, allow the vial to reach room temperature (up to 25° C) before injecting and inject slowly.
 
 <div style=\"page-break-after: always\"></div>
 
@@ -578,7 +578,9 @@ SciencePharma Sp. z o.o. Chełmska 30/34 00-725 Warsaw Poland
 
 ## 8. MARKETING AUTHORISATION NUMBER(S)
 
-EU/1/25/1978/001 EU/1/25/1978/002
+EU/1/25/1978/001
+
+EU/1/25/1978/002
 
 ## 9. DATE OF FIRST AUTHORISATION/RENEWAL OF THE AUTHORISATION
 
@@ -696,13 +698,13 @@ Do not freeze.
 
 Keep the container in the outer carton in order to protect from light.
 
-<div style=\"page-break-after: always\"></div>
-
 10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
-SciencePharma Sp. z o.o. Chełmska 30/34 00-725 Warsaw Poland
+SciencePharma Sp. z o.o.
+
+Chełmska 30/34 00-725 Warsaw Poland
 
 ## 12. MARKETING AUTHORISATION NUMBER(S)
 
@@ -713,12 +715,14 @@ EU/1/25/1978/001
 LOT
 
 14. GENERAL CLASSIFICATION FOR SUPPLY
+
 15. INSTRUCTIONS ON USE
+
 16. INFORMATION IN BRAILLE
 
 Bildyos
 
-## 17. UNIQUE IDENTIFIER -2D BARCODE
+## 17. UNIQUE IDENTIFIER - 2D BARCODE
 
 2D barcode carrying the unique identifier included.
 
@@ -727,6 +731,8 @@ Bildyos
 PC SN
 
 NN
+
+<div style=\"page-break-after: always\"></div>
 
 <div style=\"page-break-after: always\"></div>
 
@@ -782,7 +788,9 @@ Keep the vial in the outer carton in order to protect from light.
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
-SciencePharma Sp. z o.o. Chełmska 30/34 00-725 Warsaw Poland
+SciencePharma Sp. z o.o.
+
+Chełmska 30/34 00-725 Warsaw Poland
 
 ## 12. MARKETING AUTHORISATION NUMBER(S)
 
@@ -814,7 +822,7 @@ NN
 
 <div style=\"page-break-after: always\"></div>
 
-| MINIMUM PARTICULARS TO APPEAR ONBLISTERS ORSTRIPS   |
+| MINIMUM PARTICULARS TO APPEARON BLISTERS ORSTRIPS   |
 |-----------------------------------------------------|
 | BLISTERED PRE-FILLED SYRINGE                        |
 
@@ -849,9 +857,6 @@ SC
 
 ## MINIMUM PARTICULARS TO APPEAR ON SMALL IMMEDIATE PACKAGING UNITS PRE-FILLED SYRINGE LABEL WITH NEEDLE GUARD (BLISTERED)
 
-| 1.   | NAME OF THE MEDICINAL PRODUCT ANDROUTE(S) OF ADMINISTRATION   |
-|------|---------------------------------------------------------------|
-
 1.
 
 NAME OF THE MEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION
@@ -860,7 +865,7 @@ Bildyos 60 mg denosumab SC
 
 ## 2. METHOD OF ADMINISTRATION
 
-3. EXPIRY DATE
+## 3. EXPIRY DATE
 
 EXP
 
@@ -878,9 +883,7 @@ LOT
 
 ## REMINDER CARD TEXT (included in pack)
 
-Use Bildyos for as long as your doctor prescribes it for you.
-
-Bildyos 60 mg denosumab For Subcutaneous Use Only. Once every 6 months Next injection date:
+Bildyos 60 mg denosumab For Subcutaneous Use Only. Once every 6 months Use Bildyos for as long as your doctor prescribes it for you. Next injection date:
 
 <div style=\"page-break-after: always\"></div>
 
@@ -922,7 +925,9 @@ LOT
 
 ## Package leaflet: Information for the user
 
-## Bildyos 60 mg solution for injection in pre-filled syringe Denosumab
+## Bildyos 60
+
+## mg solution for injection in pre-filled syringe Denosumab
 
 This medicine is subject to additional monitoring. This will allow quick identification of new safety information. You can help by reporting any side effects you may get. See the end of section 4 for how to report side effects.
 
@@ -991,7 +996,7 @@ A side effect called osteonecrosis of the jaw (bone damage in the jaw) has been 
 Before receiving treatment, tell your doctor or nurse (health care professional) if you:
 
 - have any problems with your mouth or teeth such as poor dental health, gum disease, or a planned tooth extraction.
-- don't receive routine dental care or have not had a dental check -up for a long time.
+- don't receive routine dental care or have not had a dental check-up for a long time.
 - are a smoker (as this may increase the risk of dental problems).
 - have previously been treated with a bisphosphonate (used to treat or prevent bone disorders).
 - are taking medicines called corticosteroids (such as prednisolone or dexamethasone).
@@ -1043,7 +1048,7 @@ This medicine contains 47 mg sorbitol and 0.1 mg polysorbate 20 in each mL of so
 
 ## Bildyos contains sodium
 
-This medicine contains less than 1 mmol sodium (23 mg) per 60 mg, that is to say essentially 'sodium -free'.
+This medicine contains less than 1 mmol sodium (23 mg) per 60 mg, that is to say essentially 'sodiumfree'.
 
 ## 3. How to use Bildyos
 
@@ -1121,13 +1126,9 @@ Do not use this medicine after the expiry date which is stated on the label and 
 
 <div style=\"page-break-after: always\"></div>
 
-Store in a refrigerator (2°C -8°C).
+Store in a refrigerator (2° C - 8° C). Do not freeze. Keep the container in the outer carton in order to protect from light.
 
-Do not freeze.
-
-Keep the container in the outer carton in order to protect from light.
-
-Your prefilled syringe may be left outside the refrigerator to reach room temperature (up to 25°C) before injection. This will make the injection more comfortable. Once your syringe has been left to reach room temperature (up to 25°C), it must be used wit hin 30 days.
+Your pre-filled syringe may be left outside the refrigerator to reach room temperature (up to 25° C) before injection. This will make the injection more comfortable. Once your syringe has been left to reach room temperature (up to 25° C), it must be used within 30 days.
 
 Do not throw away any medicines via wastewater or household waste. Ask your pharmacist how to throw away medicines you no longer use. These measures will help to protect the environment.
 
@@ -1154,67 +1155,65 @@ Cilatus Manufacturing Services Limited Pembroke House, 28-32 Pembroke Street Upp
 
 For any information about this medicine, please contact the local representative of the Marketing Authorisation Holder:
 
-## België/Belgique/Belgien
+## België /Belgique/Belgien
 
-SciencePharma Sp. z o.o. Chełmska 30/34, 00 -725 Warsaw Poland denosumabh@qbdgroup.com
+SciencePharma Sp. z o.o. Chełmska 30/34, 00-725 Warsaw Poland denosumabh@qbdgroup.com
 
-България SciencePharma Sp. z o.o. Chełmska 30/34, 00 -725 Warsaw Poland denosumabh@qbdgroup.com
+България SciencePharma Sp. z o.o. Chełmska 30/34, 00-725 Warsaw Poland denosumabh@qbdgroup.com
 
 ## Lietuva
 
-SciencePharma Sp. z o.o. Chełmska 30/34, 00 -725 Warsaw Poland denosumabh@qbdgroup.com
+SciencePharma Sp. z o.o. Chełmska 30/34, 00-725 Warsaw Poland denosumabh@qbdgroup.com
 
-## Luxembourg/Luxemburg
-
-SciencePharma Sp. z o.o. Chełmska 30/34, 00 -725 Warsaw Poland denosumabh@qbdgroup.com
+Luxembourg/Luxemburg SciencePharma Sp. z o.o. Chełmska 30/34, 00-725 Warsaw Poland denosumabh@qbdgroup.com
 
 <div style=\"page-break-after: always\"></div>
 
-Česká republika SciencePharma Sp. z o.o. Chełmska 30/34, 00 -725 Warsaw Poland denosumabh@qbdgroup.com
+Česká republika SciencePharma Sp. z o.o. Chełmska 30/34, 00-725 Warsaw Poland denosumabh@qbdgroup.com
 
-Danmark SciencePharma Sp. z o.o. Chełmska 30/34, 00 -725 Warsaw Poland denosumabh@qbdgroup.com
+Danmark SciencePharma Sp. z o.o. Chełmska 30/34, 00-725 Warsaw Poland denosumabh@qbdgroup.com
 
 Deutschland Organon Healthcare GmbH Tel: 0800 3384 726 (+49 (0) 89 2040022 10)
 
 dpoc.germany@organon.com
 
-Eesti SciencePharma Sp. z o.o. Chełmska 30/34, 00 -725 Warsaw Poland denosumabh@qbdgroup.com
+Eesti SciencePharma Sp. z o.o. Chełmska 30/34, 00-725 Warsaw Poland denosumabh@qbdgroup.com
 
-Ελλάδα SciencePharma Sp. z o.o. Chełmska 30/34, 00 -725 Warsaw Poland denosumabh@qbdgroup.com
+Ελλάδα SciencePharma Sp. z o.o. Chełmska 30/34, 00-725 Warsaw Poland denosumabh@qbdgroup.com
 
-España SciencePharma Sp. z o.o. Chełmska 30/34, 00 -725 Warsaw Poland denosumabh@qbdgroup.com
+Españ a Organon Salud, S.L. Tel: +34 91 591 12 79
 
-France Organon France Tél: +33 (0) 1 57 77 32 00
+dpoc.spain@organon.com
 
-Hrvatska SciencePharma Sp. z o.o. Chełmska 30/34, 00 -725 Warsaw Poland denosumabh@qbdgroup.com
+France Organon France Té l: +33 (0) 1 57 77 32 00
 
-Ireland SciencePharma Sp. z o.o. Chełmska 30/34, 00 -725 Warsaw Poland denosumabh@qbdgroup.com
+Hrvatska SciencePharma Sp. z o.o. Chełmska 30/34, 00-725 Warsaw Poland denosumabh@qbdgroup.com
 
-Magyarország SciencePharma Sp. z o.o. Chełmska 30/34, 00 -725 Warsaw Poland denosumabh@qbdgroup.com
+Ireland SciencePharma Sp. z o.o. Chełmska 30/34, 00-725 Warsaw Poland denosumabh@qbdgroup.com
 
-Malta SciencePharma Sp. z o.o. Chełmska 30/34, 00 -725 Warsaw Poland denosumabh@qbdgroup.com
+Magyarorszá g SciencePharma Sp. z o.o. Chełmska 30/34, 00-725 Warsaw Poland denosumabh@qbdgroup.com
 
-Nederland SciencePharma Sp. z o.o. Chełmska 30/34, 00 -725 Warsaw Poland denosumabh@qbdgroup.com
+Malta SciencePharma Sp. z o.o. Chełmska 30/34, 00-725 Warsaw Poland denosumabh@qbdgroup.com
 
-Norge SciencePharma Sp. z o.o. Chełmska 30/34, 00 -725 Warsaw Poland denosumabh@qbdgroup.com
+Nederland SciencePharma Sp. z o.o. Chełmska 30/34, 00-725 Warsaw Poland denosumabh@qbdgroup.com
 
-Österreich SciencePharma Sp. z o.o. Chełmska 30/34, 00 -725 Warsaw Poland denosumabh@qbdgroup.com
+Norge SciencePharma Sp. z o.o. Chełmska 30/34, 00-725 Warsaw Poland denosumabh@qbdgroup.com
 
-Polska SciencePharma Sp. z o.o. Chełmska 30/34, 00 -725 Warsaw Poland denosumabh@qbdgroup.com
+Österreich SciencePharma Sp. z o.o. Chełmska 30/34, 00-725 Warsaw Poland denosumabh@qbdgroup.com
 
-Portugal SciencePharma Sp. z o.o. Chełmska 30/34, 00 -725 Warsaw Poland denosumabh@qbdgroup.com
+Polska SciencePharma Sp. z o.o. Chełmska 30/34, 00-725 Warsaw Poland denosumabh@qbdgroup.com
 
-România SciencePharma Sp. z o.o. Chełmska 30/34, 00 -725 Warsaw Poland denosumabh@qbdgroup.com
+Portugal SciencePharma Sp. z o.o. Chełmska 30/34, 00-725 Warsaw Poland denosumabh@qbdgroup.com
 
-Slovenija SciencePharma Sp. z o.o. Chełmska 30/34, 00 -725 Warsaw Poland denosumabh@qbdgroup.com
+Româ nia SciencePharma Sp. z o.o. Chełmska 30/34, 00-725 Warsaw Poland denosumabh@qbdgroup.com
+
+Slovenija SciencePharma Sp. z o.o. Chełmska 30/34, 00-725 Warsaw Poland denosumabh@qbdgroup.com
 
 <div style=\"page-break-after: always\"></div>
 
-## Ísland
+## Í sland
 
-SciencePharma Sp. z o.o. Chełmska 30/34, 00
-
--725 Warsaw Poland denosumabh@qbdgroup.com
+SciencePharma Sp. z o.o. Chełmska 30/34, 00-725 Warsaw Poland denosumabh@qbdgroup.com
 
 ## Italia
 
@@ -1224,15 +1223,13 @@ dpoc.italy@organon.com
 
 ## Κύπρος
 
-SciencePharma Sp. z o.o. Chełmska 30/34, 00
-
--725 Warsaw Poland denosumabh@qbdgroup.com
+SciencePharma Sp. z o.o. Chełmska 30/34, 00-725 Warsaw Poland denosumabh@qbdgroup.com
 
 ## Latvija
 
--725 Warsaw
+SciencePharma Sp. z o.o.
 
-SciencePharma Sp. z o.o. Chełmska 30/34, 00 Poland denosumabh@qbdgroup.com
+Chełmska 30/34, 00-725 Warsaw Poland denosumabh@qbdgroup.com
 
 ## This leaflet was last revised in
 
@@ -1240,17 +1237,17 @@ SciencePharma Sp. z o.o. Chełmska 30/34, 00 Poland denosumabh@qbdgroup.com
 
 Detailed information on this medicine is available on the European Medicines Agency web site: https://www.ema.europa.eu/.
 
-## Slovenská republika
+## Slovenská  republika
 
-SciencePharma Sp. z o.o. Chełmska 30/34, 00 -725 Warsaw Poland denosumabh@qbdgroup.com
+SciencePharma Sp. z o.o.
+
+Chełmska 30/34, 00-725 Warsaw Poland denosumabh@qbdgroup.com
 
 ## Suomi/Finland
 
-SciencePharma Sp. z o.o. Chełmska 30/34, 00 -725 Warsaw Poland denosumabh@qbdgroup.com
+SciencePharma Sp. z o.o. Chełmska 30/34, 00-725 Warsaw Poland denosumabh@qbdgroup.com
 
-## Sverige
-
-SciencePharma Sp. z o.o. Chełmska 30/34, 00 -725 Warsaw Poland denosumabh@qbdgroup.com
+Sverige SciencePharma Sp. z o.o. Chełmska 30/34, 00-725 Warsaw Poland denosumabh@qbdgroup.com
 
 <div style=\"page-break-after: always\"></div>
 
@@ -1308,11 +1305,9 @@ For safety reasons:
 - ⚫ The medicine is cloudy or discoloured. It must be a clear to slightly opalescent, colourless to slightly yellow solution.
 - ⚫ Any part appears cracked or broken.
 - ⚫ The black needle cap is missing or not securely attached.
-- ⚫ The expiry date printed on the label has passed the last day of the month shown.
+- ⚫ The expiry date printed on the label has passed the last day of the month shown. In all cases, call your doctor or healthcare provider.
 
-In all cases, call your doctor or healthcare provider.
-
-Step 2: Get ready
+## Step 2: Get ready
 
 ## A Wash your hands thoroughly. Prepare and clean your injection site.
 
@@ -1328,7 +1323,7 @@ Clean the injection site with an alcohol wipe. Let your skin dry.
 
 -  Do not touch the injection site before injecting.
 
-<!-- image -->
+一
 
 Do not inject into areas where the skin is tender, bruised, red, or hard. Avoid injecting into areas with scars or stretch marks.
 
@@ -1346,13 +1341,13 @@ Do not inject into areas where the skin is tender, bruised, red, or hard. Avoid 
 
 <!-- image -->
 
-After releasing the plunger, the pre-filled syringe safety guard will safely cover the injection needle.  Do not put the black needle cap back on used pre-filled syringes.
-
 <div style=\"page-break-after: always\"></div>
+
+A
 
 Step 4: Finish
 
-- A Discard the used pre-filled syringe and other supplies in a sharps disposal container.
+Discard the used pre-filled syringe and other supplies in a sharps disposal container.
 
 <!-- image -->
 
@@ -1444,7 +1439,7 @@ A side effect called osteonecrosis of the jaw (bone damage in the jaw) has been 
 Before receiving treatment, tell your doctor or nurse (health care professional) if you:
 
 - have any problems with your mouth or teeth such as poor dental health, gum disease, or a planned tooth extraction.
-- don't receive routine dental care or have not had a dental check -up for a long time.
+- don't receive routine dental care or have not had a dental check-up for a long time.
 - are a smoker (as this may increase the risk of dental problems).
 - have previously been treated with a bisphosphonate (used to treat or prevent bone disorders).
 - are taking medicines called corticosteroids (such as prednisolone or dexamethasone).
@@ -1494,7 +1489,7 @@ This medicine contains 47 mg sorbitol and 0.1 mg polysorbate 20 in each mL of so
 
 ## Bildyos contains sodium
 
-This medicine contains less than 1 mmol sodium (23 mg) per 60 mg, that is to say essentially 'sodium -free'.
+This medicine contains less than 1 mmol sodium (23 mg) per 60 mg, that is to say essentially 'sodiumfree'.
 
 <div style=\"page-break-after: always\"></div>
 
@@ -1572,13 +1567,13 @@ Keep this medicine out of the sight and reach of children.
 
 Do not use this medicine after the expiry date which is stated on the label and carton after EXP. The expiry date refers to the last day of that month.
 
-## Store in a refrigerator (2°C-8°C).
+## Store in a refrigerator (2° C-8° C).
 
 ## Do not freeze.
 
 Keep the vial in the outer carton in order to protect from light.
 
-The vial may be left outside the refrigerator to reach room temperature (up to 25°C) before injection. This will make the injection more comfortable. Once the vial has been left to reach room temperature (up to 25°C), it must be used within 30 days.
+The vial may be left outside the refrigerator to reach room temperature (up to 25° C) before injection. This will make the injection more comfortable. Once the vial has been left to reach room temperature (up to 25° C), it must be used within 30 days.
 
 <div style=\"page-break-after: always\"></div>
 
@@ -1609,89 +1604,79 @@ Cilatus Manufacturing Services Limited Pembroke House, 28-32 Pembroke Street Upp
 
 For any information about this medicine, please contact the local representative of the Marketing Authorisation Holder:
 
-## België/Belgique/Belgien
+## België /Belgique/Belgien
 
-SciencePharma Sp. z o.o. Chełmska 30/34, 00 -725 Warsaw Poland denosumabh@qbdgroup.com
+SciencePharma Sp. z o.o. Chełmska 30/34, 00-725 Warsaw Poland denosumabh@qbdgroup.com
 
-## България
+България SciencePharma Sp. z o.o. Chełmska 30/34, 00-725 Warsaw Poland denosumabh@qbdgroup.com
 
-SciencePharma Sp. z o.o. Chełmska 30/34, 00 -725 Warsaw Poland denosumabh@qbdgroup.com
-
-Česká republika -725 Warsaw
-
-SciencePharma Sp. z o.o. Chełmska 30/34, 00 Poland denosumabh@qbdgroup.com
+Česká republika SciencePharma Sp. z o.o. Chełmska 30/34, 00-725 Warsaw Poland denosumabh@qbdgroup.com
 
 ## Lietuva
 
-SciencePharma Sp. z o.o. Chełmska 30/34, 00 -725 Warsaw Poland denosumabh@qbdgroup.com
+SciencePharma Sp. z o.o. Chełmska 30/34, 00-725 Warsaw Poland denosumabh@qbdgroup.com
 
 ## Luxembourg/Luxemburg
 
-SciencePharma Sp. z o.o. Chełmska 30/34, 00 -725 Warsaw Poland denosumabh@qbdgroup.com
+SciencePharma Sp. z o.o. Chełmska 30/34, 00-725 Warsaw Poland denosumabh@qbdgroup.com
 
-Magyarország SciencePharma Sp. z o.o. Chełmska 30/34, 00 -725 Warsaw Poland denosumabh@qbdgroup.com
+Magyarorszá g SciencePharma Sp. z o.o. Chełmska 30/34, 00-725 Warsaw Poland denosumabh@qbdgroup.com
 
 <div style=\"page-break-after: always\"></div>
 
-Danmark SciencePharma Sp. z o.o. Chełmska 30/34, 00 -725 Warsaw Poland denosumabh@qbdgroup.com
+Danmark SciencePharma Sp. z o.o. Chełmska 30/34, 00-725 Warsaw Poland denosumabh@qbdgroup.com
 
 Deutschland Organon Healthcare GmbH Tel: 0800 3384 726 (+49 (0) 89 2040022 10)
 
 dpoc.germany@organon.com
 
-Eesti SciencePharma Sp. z o.o. Chełmska 30/34, 00 -725 Warsaw Poland denosumabh@qbdgroup.com
+Eesti SciencePharma Sp. z o.o. Chełmska 30/34, 00-725 Warsaw Poland denosumabh@qbdgroup.com
 
-Ελλάδα SciencePharma Sp. z o.o. Chełmska 30/34, 00 -725 Warsaw Poland denosumabh@qbdgroup.com
+Ελλάδα SciencePharma Sp. z o.o. Chełmska 30/34, 00-725 Warsaw Poland denosumabh@qbdgroup.com
 
-España Organon Salud, S.L. Tel: +34 91 591 12 79
+Españ a Organon Salud, S.L. Tel: +34 91 591 12 79
 
 dpoc.spain@organon.com
 
-France Organon France Tél: +33 (0) 1 57 77 32 00
+France Organon France Té l: +33 (0) 1 57 77 32 00
 
-Hrvatska SciencePharma Sp. z o.o. Chełmska 30/34, 00 -725 Warsaw Poland denosumabh@qbdgroup.com
+Hrvatska SciencePharma Sp. z o.o. Chełmska 30/34, 00-725 Warsaw Poland denosumabh@qbdgroup.com
 
-Ireland SciencePharma Sp. z o.o. Chełmska 30/34, 00 -725 Warsaw Poland denosumabh@qbdgroup.com
+Ireland SciencePharma Sp. z o.o. Chełmska 30/34, 00-725 Warsaw Poland denosumabh@qbdgroup.com
 
-Ísland SciencePharma Sp. z o.o. Chełmska 30/34, 00 -725 Warsaw Poland denosumabh@qbdgroup.com
+Í sland SciencePharma Sp. z o.o. Chełmska 30/34, 00-725 Warsaw Poland denosumabh@qbdgroup.com
 
-Malta SciencePharma Sp. z o.o. Chełmska 30/34, 00 -725 Warsaw Poland denosumabh@qbdgroup.com
+Malta SciencePharma Sp. z o.o. Chełmska 30/34, 00-725 Warsaw Poland denosumabh@qbdgroup.com
 
-Nederland SciencePharma Sp. z o.o. Chełmska 30/34, 00 -725 Warsaw Poland denosumabh@qbdgroup.com
+Nederland SciencePharma Sp. z o.o. Chełmska 30/34, 00-725 Warsaw Poland denosumabh@qbdgroup.com
 
-Norge SciencePharma Sp. z o.o. Chełmska 30/34, 00 -725 Warsaw Poland denosumabh@qbdgroup.com
+Norge SciencePharma Sp. z o.o. Chełmska 30/34, 00-725 Warsaw Poland denosumabh@qbdgroup.com
 
-Österreich SciencePharma Sp. z o.o. Chełmska 30/34, 00 -725 Warsaw Poland denosumabh@qbdgroup.com
+Österreich SciencePharma Sp. z o.o. Chełmska 30/34, 00-725 Warsaw Poland denosumabh@qbdgroup.com
 
-Polska SciencePharma Sp. z o.o. Chełmska 30/34, 00 -725 Warsaw Poland denosumabh@qbdgroup.com
+Polska SciencePharma Sp. z o.o. Chełmska 30/34, 00-725 Warsaw Poland denosumabh@qbdgroup.com
 
-Portugal SciencePharma Sp. z o.o. Chełmska 30/34, 00 -725 Warsaw Poland denosumabh@qbdgroup.com
+Portugal SciencePharma Sp. z o.o. Chełmska 30/34, 00-725 Warsaw Poland denosumabh@qbdgroup.com
 
-România SciencePharma Sp. z o.o. Chełmska 30/34, 00 -725 Warsaw Poland denosumabh@qbdgroup.com
+Româ nia SciencePharma Sp. z o.o. Chełmska 30/34, 00-725 Warsaw Poland denosumabh@qbdgroup.com
 
-Slovenija SciencePharma Sp. z o.o. Chełmska 30/34, 00 -725 Warsaw Poland denosumabh@qbdgroup.com
+Slovenija SciencePharma Sp. z o.o. Chełmska 30/34, 00-725 Warsaw Poland denosumabh@qbdgroup.com
 
-Slovenská republika SciencePharma Sp. z o.o. Chełmska 30/34, 00 -725 Warsaw Poland denosumabh@qbdgroup.com
+Slovenská  republika SciencePharma Sp. z o.o. Chełmska 30/34, 00-725 Warsaw Poland denosumabh@qbdgroup.com
 
-## Italia
-
-Organon Italia S.r.l. Tel: +39 06 90259059 dpoc.italy@organon.com
-
-## Suomi/Finland
-
-SciencePharma Sp. z o.o. Chełmska 30/34, 00 -725 Warsaw Poland denosumabh@qbdgroup.com
-
-Κύπρος SciencePharma Sp. z o.o. Chełmska 30/34, 00 -725 Warsaw Poland denosumabh@qbdgroup.com
-
-## Sverige
-
-SciencePharma Sp. z o.o. Chełmska 30/34, 00 -725 Warsaw Poland
-
-denosumabh@qbdgroup.com
-
-Latvija SciencePharma Sp. z o.o. Chełmska 30/34, 00 -725 Warsaw Poland denosumabh@qbdgroup.com
+51
 
 <div style=\"page-break-after: always\"></div>
+
+Italia
+
+Organon Italia S.r.l. Tel: +39 06 90259059
+
+dpoc.italy@organon.com
+
+Κύπρος SciencePharma Sp. z o.o. Chełmska 30/34, 00-725 Warsaw Poland denosumabh@qbdgroup.com
+
+Latvija SciencePharma Sp. z o.o. Chełmska 30/34, 00-725 Warsaw Poland denosumabh@qbdgroup.com
 
 ## This leaflet was last revised in
 
@@ -1703,9 +1688,17 @@ Detailed information on this medicine is available on the European Medicines Age
 
 - Before administration, the Bildyos solution should be inspected visually. The solution may contain trace amounts of translucent to white proteinaceous particles. Do not inject the solution if it is cloudy or discolored.
 - Do not shake.
-- To avoid discomfort at the site of injection, allow the vial to reach room temperature (up to 25ºC) before injecting and inject slowly.
+- To avoid discomfort at the site of injection, allow the vial to reach room temperature (up to 25º C) before injecting and inject slowly.
 - The entire contents of the vial should be injected.
 - A 27 gauge needle is recommended for the administration of denosumab.
 - The vial should not be re-entered.
 
 Any unused medicinal product or waste material should be disposed of in accordance with local requirements.
+
+## Suomi/Finland
+
+SciencePharma Sp. z o.o. Chełmska 30/34, 00-725 Warsaw Poland denosumabh@qbdgroup.com
+
+## Sverige
+
+SciencePharma Sp. z o.o. Chełmska 30/34, 00-725 Warsaw Poland denosumabh@qbdgroup.com

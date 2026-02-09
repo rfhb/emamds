@@ -1,18 +1,18 @@
 ---
-document_datetime: 2025-12-15 15:53:59
+document_datetime: 2026-02-06 10:21:31
 document_pages: 111
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/retsevmo-epar-product-information_en.pdf
 document_name: retsevmo-epar-product-information_en.pdf
 version: success
-processing_time: 37.2514216
-conversion_datetime: 2026-01-03 13:00:44.554689
+processing_time: 35.5374911
+conversion_datetime: 2026-02-09 22:05:02.64981
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.66.0
-  docling-core: 2.57.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.12.0
+  docling-jobkit: 1.10.1
+  docling: 2.72.0
+  docling-core: 2.63.0
+  docling-ibm-models: 3.11.0
+  docling-parse: 4.7.3
   python: cpython-313 (3.13.11)
   plaform: macOS-26.2-arm64-arm-64bit-Mach-O
 ---
@@ -537,7 +537,7 @@ Data Cut-off date: 01 May 2023
 
 OS was not mature at the time of the primary PFS analysis. At the time of an updated descriptive interim analysis of OS (43% of prespecified OS events needed for the final analysis, with a data lock of 1 May 2024), in the ITT population, 75 events were observed across the two arms and the Hazard Ratio (HR) was 1.259 ([95% CI: 0.777, 2.040]; p=0.3496). At 30 months the estimated overall survival was 71% (95% CI: 63, 78) and 76% (95% CI: 66, 84) in the selpercatinib arm and the control arm, respectively. OS may be affected by the imbalance in post-progression therapies. Of 68 control arm patients who had disease progression, 50 patients (74%) received selpercatinib at progression. Of 71 selpercatinib arm patients who had disease progression, 16 (23%) received chemotherapy and/or immune checkpoint inhibitor therapy, and 44 (62%) continued receiving selpercatinib.
 
-In the ITT-Pembrolizumab population, selpercatinib significantly delayed time to worsening of patient-reported NSCLC symptoms, as measured by the NSCLC-SAQ total score (≥ 2 -point increase) compared with the control (HR: 0.34 [95% CI: 0.20, 0.55]; median time was not reached for selpercatinib arm versus 1.9 months [95% CI: 0.7, 6.6]) for the control arm. In addition, selpercatinib significantly delayed time to confirmed deterioration of physical function and maintained overall quality of life over time.
+In the ITT-Pembrolizumab population, selpercatinib significantly delayed time to worsening of patient-reported NSCLC symptoms, as measured by the NSCLCSAQ total score (≥ 2 -point increase) compared with the control (HR: 0.34 [95% CI: 0.20, 0.55]; median time was not reached for selpercatinib arm versus 1.9 months [95% CI: 0.7, 6.6]) for the control arm. In addition, selpercatinib significantly delayed time to confirmed deterioration of physical function and maintained overall quality of life over time.
 
 ## LIBRETTO-001
 
@@ -985,7 +985,7 @@ Any unused medicinal product or waste material should be disposed of in accordan
 
 ## 7. MARKETING AUTHORISATION HOLDER
 
-Eli Lilly Nederland B.V. Papendorpseweg 83 3528BJ Utrecht The Netherlands
+Eli Lilly Nederland B.V. Orteliuslaan 1000 3528 BD Utrecht The Netherlands
 
 ## 8. MARKETING AUTHORISATION NUMBER(S)
 
@@ -999,7 +999,7 @@ EU/1/20/1527/001 EU/1/20/1527/002 EU/1/20/1527/003 EU/1/20/1527/004 EU/1/20/1527
 
 Date of first authorisation: 11 February 2021
 
-Date of latest renewal: 13 January 2025
+Date of latest renewal: 12 December 2025
 
 ## 10. DATE OF REVISION OF THE TEXT
 
@@ -1317,7 +1317,7 @@ Retsevmo may have minor influence on the ability to drive and use machines. Pati
 
 ## Summary of the safety profile
 
-The integrated frequency of adverse drug reactions (ADRs) reported in patients treated with selpercatinib from an open-label, multicentre, dose-escalation phase 1/2 study (LIBRETTO-001) and from two open-label, multicentre, randomised phase 3 comparative studies (LIBRETTO-431 and LIBRETTO-531) are summarised. Th e most common (≥ 1.0%) serious ADRs are pneumonia (5.3%), haemorrhage (2.4%), abdominal pain (2.1%), blood sodium decreased (2.0%), diarrhoea (1.5%), hypersensitivity (1.4%), vomiting (1.3%), blood creatinine increased (1.3%), pyrexia (1.3%), urinary tract infections (1.3%), ALT increased (1.0%) and AST increased (1.0%).
+The integrated frequency of adverse drug reactions (ADRs) reported in patients treated with selpercatinib from an open-label, multicentre, dose-escalation phase 1/2 study (LIBRETTO-001) and from two open-label, multicentre, randomised phase 3 comparative studies (LIBRETTO-431 and LIBRETTO531) are summarised. The most common (≥ 1.0%) serious ADRs are pneumonia (5.3%), haemorrhage (2.4%), abdominal pain (2.1%), blood sodium decreased (2.0%), diarrhoea (1.5%), hypersensitivity (1.4%), vomiting (1.3%), blood creatinine increased (1.3%), pyrexia (1.3%), urinary tract infections (1.3%), ALT increased (1.0%) and AST increased (1.0%).
 
 Permanent discontinuation of Retsevmo for treatment emergent adverse events, regardless of attribution occurred in 8.8% of patients. The most common ADRs resulting in permanent
 
@@ -1492,7 +1492,7 @@ Pharmacotherapeutic group: Antineoplastic and immunomodulating agents, antineopl
 
 ## Mechanism of action
 
-Selpercatinib is an inhibitor of the rearranged during transfection ( RET ) receptor tyrosine kinase. Selpercatinib inhibited wild-type RET and multiple mutated RET isoforms as well as VEGFR1 and VEGFR3 with IC50 values ranging from 0.92 nM to 67.8 nM. In other enzyme assays, selpercatinib also inhibited FGFR 1, 2, and 3 at higher concentrations that were still clinically achievable. In a binding assay at the concentration of 1 µM selpercatinib, significant antagonist binding activity (&gt;50%) was observed for the 5HT (serotonin) transporter (70.2% antagonist) and α2C adrenoreceptor (51.7% antagonist). The concentration of 1 µM is approximately 7-fold higher than the maximum unbound plasma concentration of at the efficacious dose of selpercatinib.
+Selpercatinib is an inhibitor of the rearranged during transfection ( RET ) receptor tyrosine kinase. Selpercatinib inhibited wild-type RET and multiple mutated RET isoforms as well as VEGFR1 and VEGFR3 with IC50 values ranging from 0.92 nM to 67.8 nM. In other enzyme assays, selpercatinib also inhibited FGFR 1, 2, and 3 at higher concentrations that were still clinically achievable. In a binding assay at the concentration of 1 µM selpercatinib, significant antagonist binding activity (&gt;50%) was observed for the 5HT (serotonin) transporter (70.2% antagonist) and α2C adrenorecept or (51.7% antagonist). The concentration of 1 µM is approximately 7-fold higher than the maximum unbound plasma concentration of at the efficacious dose of selpercatinib.
 
 Certain point mutations in RET or chromosomal rearrangements involving in-frame fusions of RET with various partners can result in constitutively activated chimeric RET fusion proteins that can act as oncogenic drivers by promoting cell proliferation of tumour cell lines. In in vitro and in vivo tumour models, selpercatinib demonstrated anti-tumour activity in cells harboring constitutive activation of RET protein resulting from gene fusions and mutations, including CCDC6-RET, KIF5B-RET, RET V804M, and RET M918T. In addition, selpercatinib showed anti-tumour activity in mice intracranially implanted with a patient-derived RET fusion-positive tumour.
 
@@ -1783,7 +1783,7 @@ Table 13 LIBRETTO001: Objective response and duration of response by Tumour Type
 
 |                          | Patients   | ORR (IRC assessment)   | ORR (IRC assessment)   | DOR Range (months)   |
 |--------------------------|------------|------------------------|------------------------|----------------------|
-| Tumour Type              | (N = 75 )  | n (%)                  | 95% CI                 |                      |
+| Tumour Type              | (N = 75)   | n (%)                  | 95% CI                 |                      |
 | Colorectal               | 22         | 10 (45.5)              | 24.4, 67.8             | 4.63, 36.14+         |
 | Pancreatic               | 18         | 9 (50.0)               | 26.0, 74.0             | 2.50, 52.14          |
 | Salivary                 | 5          | 3 (60.0)               | 14.7, 94.7             | 5.72, 37.19          |
@@ -1944,7 +1944,9 @@ Macrogol Talc
 
 Black iron oxide (E172)
 
-Retsevmo 80 mg film-coated tablets Polyvinyl alcohol Titanium dioxide (E171) Macrogol Talc Red iron oxide (E172) Black iron oxide (E172)
+Retsevmo 80 mg film-coated tablets Polyvinyl alcohol Titanium dioxide (E171) Macrogol Talc Red iron oxide (E172)
+
+Black iron oxide (E172)
 
 Retsevmo 120 mg film-coated tablets Polyvinyl alcohol Titanium dioxide (E171) Macrogol Talc Black iron oxide (E172) Red iron oxide (E172)
 
@@ -1972,27 +1974,23 @@ Not all pack sizes may be marketed.
 
 Any unused medicinal product or waste material should be disposed of in accordance with local requirements.
 
-<div style=\"page-break-after: always\"></div>
-
 ## 7. MARKETING AUTHORISATION HOLDER
 
-Eli Lilly Nederland B.V.
+Eli Lilly Nederland B.V. Orteliuslaan 1000
 
-Papendorpseweg 83 3528BJ Utrecht The Netherlands
+<div style=\"page-break-after: always\"></div>
 
 ## 8. MARKETING AUTHORISATION NUMBER(S)
 
 ```
-EU/1/20/1527/012 EU/1/20/1527/013 EU/1/20/1527/014 EU/1/20/1527/015 EU/1/20/1527/016 EU/1/20/1527/017 EU/1/20/1527/018 EU/1/20/1527/019 EU/1/20/1527/020 EU/1/20/1527/021 EU/1/20/1527/022
+EU/1/20/1527/012 EU/1/20/1527/013 EU/1/20/1527/014 EU/1/20/1527/015 EU/1/20/1527/016 EU/1/20/1527/017 EU/1/20/1527/018 EU/1/20/1527/019 EU/1/20/1527/020 EU/1/20/1527/021 EU/1/20/1527/022 EU/1/20/1527/023
 ```
-
-EU/1/20/1527/023
 
 ## 9. DATE OF FIRST AUTHORISATION/RENEWAL OF THE AUTHORISATION
 
 Date of first authorisation: 11 February 2021
 
-Date of latest renewal: 13 January 2025
+Date of latest renewal: 12 December 2025
 
 ## 10. DATE OF REVISION OF THE TEXT
 
@@ -2101,9 +2099,14 @@ EXP
 
 Discard unused contents appropriately.
 
+<div style=\"page-break-after: always\"></div>
+
+| 11.   | NAMEANDADDRESS OF THE MARKETING AUTHORISATION HOLDER   |
+|-------|--------------------------------------------------------|
+
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
-Eli Lilly Nederland B.V., Papendorpseweg 83, 3528BJ Utrecht, The Netherlands.
+Eli Lilly Nederland B.V., Orteliuslaan 1000, 3528 BD Utrecht, The Netherlands.
 
 ## 12. MARKETING AUTHORISATION NUMBER(S)
 
@@ -2113,11 +2116,11 @@ EU/1/20/1527/001
 
 Lot
 
-## 14. GENERAL CLASSIFICATION FOR SUPPLY
+14. GENERAL CLASSIFICATION FOR SUPPLY
 
 15. INSTRUCTIONS ON USE
 
-## 16. INFORMATION IN BRAILLE
+16. INFORMATION IN BRAILLE
 
 Retsevmo 40 mg
 
@@ -2130,8 +2133,6 @@ Retsevmo 40 mg
 PC SN
 
 NN
-
-<div style=\"page-break-after: always\"></div>
 
 ## PARTICULARS TO APPEAR ON THE IMMEDIATE PACKAGING
 
@@ -2261,7 +2262,7 @@ Discard unused contents appropriately.
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
-Eli Lilly Nederland B.V., Papendorpseweg 83, 3528BJ Utrecht, The Netherlands.
+Eli Lilly Nederland B.V., Orteliuslaan 1000, 3528 BD Utrecht, The Netherlands.
 
 ## 12. MARKETING AUTHORISATION NUMBER(S)
 
@@ -2278,10 +2279,9 @@ EU/1/20/1527/007 (168 hard capsules)
 Lot
 
 14. GENERAL CLASSIFICATION FOR SUPPLY
-
 15. INSTRUCTIONS ON USE
 
-16. INFORMATION IN BRAILLE
+## 16. INFORMATION IN BRAILLE
 
 Retsevmo 40 mg
 
@@ -2401,7 +2401,7 @@ Discard unused contents appropriately.
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
-Eli Lilly Nederland B.V., Papendorpseweg 83, 3528BJ Utrecht, The Netherlands.
+Eli Lilly Nederland B.V., Orteliuslaan 1000, 3528 BD Utrecht, The Netherlands.
 
 ## 12. MARKETING AUTHORISATION NUMBER(S)
 
@@ -2411,11 +2411,11 @@ EU/1/20/1527/002 (60 hard capsules) EU/1/20/1527/003 (120 hard capsules)
 
 Lot
 
-14. GENERAL CLASSIFICATION FOR SUPPLY
+## 14. GENERAL CLASSIFICATION FOR SUPPLY
 
 15. INSTRUCTIONS ON USE
 
-16. INFORMATION IN BRAILLE
+## 16. INFORMATION IN BRAILLE
 
 Retsevmo 80 mg
 
@@ -2427,9 +2427,9 @@ Retsevmo 80 mg
 
 PC SN
 
-<div style=\"page-break-after: always\"></div>
-
 NN
+
+<div style=\"page-break-after: always\"></div>
 
 <div style=\"page-break-after: always\"></div>
 
@@ -2551,15 +2551,11 @@ Discard unused contents appropriately.
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
-Eli Lilly Nederland B.V., Papendorpseweg 83, 3528BJ Utrecht, The Netherlands.
+Eli Lilly Nederland B.V., Orteliuslaan 1000, 3528 BD Utrecht, The Netherlands.
 
 ## 12. MARKETING AUTHORISATION NUMBER(S)
 
-EU/1/20/1527/008 (14 hard capsules)
-
-EU/1/20/1527/009 (28 hard capsules)
-
-EU/1/20/1527/010 (56 hard capsules)
+EU/1/20/1527/008 (14 hard capsules) EU/1/20/1527/009 (28 hard capsules) EU/1/20/1527/010 (56 hard capsules)
 
 EU/1/20/1527/011 (112 hard capsules)
 
@@ -2567,7 +2563,7 @@ EU/1/20/1527/011 (112 hard capsules)
 
 Lot
 
-14. GENERAL CLASSIFICATION FOR SUPPLY
+## 14. GENERAL CLASSIFICATION FOR SUPPLY
 
 15. INSTRUCTIONS ON USE
 
@@ -2691,13 +2687,11 @@ Discard unused contents appropriately.
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
-Eli Lilly Nederland B.V., Papendorpseweg 83, 3528BJ Utrecht, The Netherlands.
+Eli Lilly Nederland B.V., Orteliuslaan 1000, 3528 BD Utrecht, The Netherlands.
 
 ## 12. MARKETING AUTHORISATION NUMBER(S)
 
-EU/1/20/1527/012 (30 film-coated tablets)
-
-EU/1/20/1527/013 (56 film-coated tablets)
+EU/1/20/1527/012 (30 film-coated tablets) EU/1/20/1527/013 (56 film-coated tablets)
 
 EU/1/20/1527/014 (60 film-coated tablets)
 
@@ -2707,7 +2701,7 @@ Lot
 
 ## 14. GENERAL CLASSIFICATION FOR SUPPLY
 
-## 15. INSTRUCTIONS ON USE
+15. INSTRUCTIONS ON USE
 
 ## 16. INFORMATION IN BRAILLE
 
@@ -2800,13 +2794,11 @@ Discard unused contents appropriately.
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
-Eli Lilly Nederland B.V., Papendorpseweg 83, 3528BJ Utrecht, The Netherlands.
+Eli Lilly Nederland B.V., Orteliuslaan 1000, 3528 BD Utrecht, The Netherlands.
 
 ## 12. MARKETING AUTHORISATION NUMBER(S)
 
-EU/1/20/1527/015 (30 film-coated tablets)
-
-EU/1/20/1527/016 (56 film-coated tablets)
+EU/1/20/1527/015 (30 film-coated tablets) EU/1/20/1527/016 (56 film-coated tablets)
 
 EU/1/20/1527/017 (60 film-coated tablets)
 
@@ -2901,13 +2893,15 @@ EXP
 
 <div style=\"page-break-after: always\"></div>
 
+<div style=\"page-break-after: always\"></div>
+
 ## 10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
 
 Discard unused contents appropriately.
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
-Eli Lilly Nederland B.V., Papendorpseweg 83, 3528BJ Utrecht, The Netherlands.
+Eli Lilly Nederland B.V., Orteliuslaan 1000, 3528 BD Utrecht, The Netherlands.
 
 ## 12. MARKETING AUTHORISATION NUMBER(S)
 
@@ -2925,7 +2919,7 @@ Lot
 
 15. INSTRUCTIONS ON USE
 
-16. INFORMATION IN BRAILLE
+## 16. INFORMATION IN BRAILLE
 
 Retsevmo 120 mg
 
@@ -2938,8 +2932,6 @@ Retsevmo 120 mg
 PC
 
 SN
-
-<div style=\"page-break-after: always\"></div>
 
 NN
 
@@ -3020,7 +3012,7 @@ Discard unused contents appropriately.
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
-Eli Lilly Nederland B.V., Papendorpseweg 83, 3528BJ Utrecht, The Netherlands.
+Eli Lilly Nederland B.V., Orteliuslaan 1000, 3528 BD Utrecht, The Netherlands.
 
 ## 12. MARKETING AUTHORISATION NUMBER(S)
 
@@ -3384,7 +3376,7 @@ Not all the pack sizes may be marketed.
 
 ## Marketing Authorisation Holder
 
-Eli Lilly Nederland B.V., Papendorpseweg 83, 3528BJ Utrecht, The Netherlands.
+Eli Lilly Nederland B.V., Orteliuslaan 1000, 3528 BD Utrecht, The Netherlands.
 
 ## Manufacturer
 
@@ -3726,7 +3718,8 @@ Tell your doctor, pharmacist or nurse if you notice any of the following side ef
 - -Low blood levels of calcium
 - -Reduced number of white blood cells (e.g., lymphocytes, neutrophils, etc.)
 - -Low blood levels of albumin
-- -Fluid retention that may cause swelling in your hands or ankles (oedema)
+- -
+- Fluid retention that may cause swelling in your hands or ankles (oedema)
 - -Diarrhoea
 - -Increased blood levels of creatinine in tests, which may indicate that kidneys are not working properly (renal disorders)
 - -Fatigue or tiredness
@@ -3802,7 +3795,7 @@ Not all the pack sizes may be marketed.
 
 ## Marketing Authorisation Holder
 
-Eli Lilly Nederland B.V., Papendorpseweg 83, 3528BJ Utrecht, The Netherlands.
+Eli Lilly Nederland B.V., Orteliuslaan 1000, 3528 BD Utrecht, The Netherlands.
 
 ## Manufacturer
 

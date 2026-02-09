@@ -1,24 +1,22 @@
 ---
-document_datetime: 2026-01-13 10:19:38
+document_datetime: 2026-02-06 10:01:07
 document_pages: 41
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/kisunla-epar-product-information_en.pdf
 document_name: kisunla-epar-product-information_en.pdf
 version: success
-processing_time: 7.8333831
-conversion_datetime: 2026-01-14 08:26:53.033994
+processing_time: 15.4046596
+conversion_datetime: 2026-02-09 21:57:31.092036
 docling_version:
-  docling-serve: 1.10.0
-  docling-jobkit: 1.8.1
-  docling: 2.68.0
-  docling-core: 2.59.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.12.0
+  docling-jobkit: 1.10.1
+  docling: 2.72.0
+  docling-core: 2.63.0
+  docling-ibm-models: 3.11.0
+  docling-parse: 4.7.3
   python: cpython-313 (3.13.11)
   plaform: macOS-26.2-arm64-arm-64bit-Mach-O
 ---
-## ANNEX I
-
-## SUMMARY OF PRODUCT CHARACTERISTICS
+## ANNEX I SUMMARY OF PRODUCT CHARACTERISTICS
 
 <div style=\"page-break-after: always\"></div>
 
@@ -46,7 +44,7 @@ For the full list of excipients, see section 6.1.
 
 Concentrate for solution for infusion (sterile concentrate).
 
-The solution is clear to opalescent, colourless to slightly yellow to slightly brown with a pH of 5.5 -6.5 and an osmolarity of approximately 300 mOsm/L.
+The solution is clear to opalescent, colourless to slightly yellow to slightly brown with a pH of 5.5 - 6.5 and an osmolarity of approximately 300 mOsm/L.
 
 ## 4. CLINICAL PARTICULARS
 
@@ -56,7 +54,7 @@ Donanemab is indicated for the treatment of adult patients with a clinical diagn
 
 ## 4.2 Posology and method of administration
 
-Treatment should be initiated by a physician experienced in the diagnosis and treatment of Alzheimer ' s disease (AD) with timely access to Magnetic Resonance Imaging (MRI). Donanemab should be administered under the supervision of a multidisciplinary team trained in detection, monitoring and management of amyloid-related imaging abnormalities (ARIA) and experienced in detecting and managing infusion related reactions (IRR).
+Treatment should be initiated by a physician experienced in the diagnosis and treatment of Alzheimer's disease (AD) with timely access to Magnetic Resonance Imaging (MRI). Donanemab should be administered under the supervision of a multidisciplinary team trained in detection, monitoring and management of amyloid-related imaging abnormalities (ARIA) and experienced in detecting and managing infusion related reactions (IRR).
 
 Patients treated with donanemab must be given the patient card and be informed about the risks of donanemab (see also package leaflet).
 
@@ -82,7 +80,7 @@ Consideration should be given to discontinuing treatment before the end of the 1
 
 If an infusion is missed, administration should be resumed every 4 weeks at the same dose as soon as possible.
 
-Monitoring, dosing interruption, and treatment discontinuation for amyloid related imaging abnormalities
+## Monitoring, dosing interruption, and treatment discontinuation for amyloid related imaging abnormalities
 
 Donanemab can cause ARIA, characterized as ARIA with oedema (ARIA-E), which can be observed on MRI as brain oedema or sulcal effusions, and ARIA with haemosiderin deposition (ARIA-H), which includes microhaemorrhage and superficial siderosis. In addition to ARIA, intracerebral haemorrhages greater than 1 cm in diameter have occurred in patients treated with donanemab.
 
@@ -168,7 +166,7 @@ The benefit of donanemab for the treatment of AD and potential risk of serious a
 
 Baseline brain MRI and periodic monitoring with MRI are recommended (see section 4.2). Enhanced clinical vigilance for ARIA is recommended during the first 24 weeks of treatment with donanemab.
 
-If a patient experiences symptoms suggestive of ARIA (see section 4.8), clinical evaluation should be performed, including additional MRI testing (see sections 4.2 and 4.4 ' Amyloid-related imaging abnormalities - ARIA ' ).
+If a patient experiences symptoms suggestive of ARIA (see section 4.8), clinical evaluation should be performed, including additional MRI testing (see sections 4.2 and 4.4 'Amyloid-related imaging abnormalities - ARIA').
 
 <div style=\"page-break-after: always\"></div>
 
@@ -211,8 +209,8 @@ Patients who received donanemab and an antithrombotic medicine (acetylsalicylic 
 
 Because intracerebral haemorrhages greater than 1 cm in diameter have been observed in patients taking donanemab and in patients receiving antithrombotic agents during donanemab treatment, additional caution should be exercised when considering the administration of antithrombotics or a thrombolytic agent (e.g., tissue plasminogen activator) to a patient already being treated with donanemab:
 
--  If anticoagulation needs to be commenced during therapy with donanemab (for example incident arterial thromboses, acute pulmonary embolism or other life-threatening indications) then donanemab should be paused. Donanemab can be reinstated if anticoagulation is no longer medically indicated. The use of concomitant aspirin and other antiplatelet therapy is permitted.
--  Although, there was only limited exposure to thrombolytic agents in the clinical trials, there is a plausible risk of severe intracranial haemorrhage resulting from concomitant use with thrombolytics. Use of thrombolytic agents should be avoided except for immediately lifethreatening indications with no alternative management (e.g., pulmonary embolism with haemodynamic compromise) when the benefits could outweigh the risks. The benefits and risks of treatment should be individually reconsidered by the specialist physician and the patient.
+- If anticoagulation needs to be commenced during therapy with donanemab (for example incident arterial thromboses, acute pulmonary embolism or other life-threatening indications) then donanemab should be paused. Donanemab can be reinstated if anticoagulation is no longer medically indicated. The use of concomitant aspirin and other antiplatelet therapy is permitted.
+- Although, there was only limited exposure to thrombolytic agents in the clinical trials, there is a plausible risk of severe intracranial haemorrhage resulting from concomitant use with thrombolytics. Use of thrombolytic agents should be avoided except for immediately lifethreatening indications with no alternative management (e.g., pulmonary embolism with haemodynamic compromise) when the benefits could outweigh the risks. The benefits and risks of treatment should be individually reconsidered by the specialist physician and the patient.
 
 ARIA can cause focal neurologic deficits similar to those observed in an ischaemic stroke. Clinicians treating ischemic stroke should consider whether such symptoms could be due to ARIA before giving thrombolytic therapy to a patient being treated with donanemab. MRI or identification of vascular occlusion can help identify that ischemic stroke rather than ARIA is the etiology, and inform use of thrombolytics or thrombectomy when appropriate.
 
@@ -324,7 +322,7 @@ Standard supportive treatment, including corticosteroids may be considered in ca
 
 Intracranial haemorrhage was reported in 1.4 % (10/710) of ApoE ε4 heterozygotes and non-carrier patients after treatment with donanemab compared to 0.8 % (6/728) of patients on placebo. Of these, intracerebral haemorrhage greater than 1 cm was observed in 0.4% (3/710) of donanemab-treated patients and in 0.3 % (2/728) in placebo treated patients. Additionally, in a participant with baseline superficial siderosis treated with donanemab in the pivotal study, fatal ARIA-H was reported with concurrent intracerebral haemorrhage.
 
-## ApoE ε 4 carrier status and risk of ARIA
+## ApoE ε4 carrier status and risk of ARIA
 
 In the pivotal study, the overall incidence of ARIA was lower in non-carriers (24.7 % donanemab vs. 12.0 % placebo) and heterozygotes (37.6 % donanemab vs. 14.1 % placebo) than in homozygotes (55.9 % donanemab vs. 21.9 % placebo). Among patients on donanemab, ARIA-E occurred in 15.7 % of non-carriers and 23.2 % of heterozygotes compared to 41.3 % of homozygotes. Symptomatic ARIA-E occurred in 3.9 % of non-carriers and 6.6 % of heterozygotes compared to 8.4 % of homozygotes. ARIA-H occurred in 18.8 % of non-carriers and 32.5 % of heterozygotes compared to 50.3 % of homozygotes. Symptomatic ARIA-H occurred in 0.4 % of non-carriers, in 1.5 % of
 
@@ -382,7 +380,7 @@ The safety and efficacy of donanemab were evaluated in a Phase III (TRAILBLAZER-
 
 In this study, 1 736 patients, were randomized 1:1 to receive 700 mg of donanemab every 4 weeks for the first 3 doses, and then 1 400 mg every 4 weeks via intravenous infusion (N = 860) or placebo (N = 876) for a total of up to 72 weeks. 1 447 (83.4 %) patients in the indicated population were randomised. Dosing was continued until study completion or amyloid plaque was cleared, defined as demonstrating a plaque level of less than 25 Centiloids for two consecutive amyloid PET scans or a single PET scan demonstrating a plaque level of less than 11 Centiloids. Additionally, dose suspension was allowed for treatment-emergent ARIA. If patients were already on symptomatic treatment (acetylcholinesterase inhibitors (AChEI) and/or the N-Methyl-D-aspartate inhibitor, memantine) at study entry, these treatments could continue. Symptomatic treatments could be added or changed during the study, at the investigator's discretion. The study excluded patients with pre-existing ARIAE, greater than 4 microhaemorrhages, more than 1 area of superficial siderosis, any intracerebral haemorrhage &gt; 1 cm or severe white matter disease.
 
-At baseline, mean (SD) age was 73 (6.2) years, with a range of 59 to 86 years, with a mean (SD) baseline weight of 71.7 kg (15.7), with a gradual and progressive change in memory function for at least 6 months and with a mean (SD) Mini -Mental State Examination (MMSE) score of 22.29 (3.88). At baseline, 59.4 % had a MMSE score &lt; 24. 57.4 % were female, 91.5 % were White, 5.7 % were of Hispanic or Latino ethnicity, 6.0 % were Asian, and 2.3 % were Black. Of the total number of patients randomized, 29 % were ApoE ε4 non -carriers, 54 % were heterozygotes, and 17 % were homozygotes. 55.6 % of patients were on AChEI, and 20.3 % on memantine. 61.0 % of patients were on either AChEI or memantine use. Mean (SD) of amyloid Centiloids at baseline was 102.5 (34.5). 68.2 % and 31.8 % were in the low-medium and high tau categories, respectively. A total of 24.7 % of patients discontinued treatment in the study. Of those, 29.3 % were patients in the donanemab arm and 20.1 % of patients in the placebo arm.
+At baseline, mean (SD) age was 73 (6.2) years, with a range of 59 to 86 years, with a mean (SD) baseline weight of 71.7 kg (15.7), with a gradual and progressive change in memory function for at least 6 months and with a mean (SD) Mini-Mental State Examination (MMSE) score of 22.29 (3.88). At baseline, 59.4 % had a MMSE score &lt; 24. 57.4 % were female, 91.5 % were White, 5.7 % were of Hispanic or Latino ethnicity, 6.0 % were Asian, and 2.3 % were Black. Of the total number of patients randomized, 29 % were ApoE ε4 non -carriers, 54 % were heterozygotes, and 17 % were homozygotes. 55.6 % of patients were on AChEI, and 20.3 % on memantine. 61.0 % of patients were on either AChEI or memantine use. Mean (SD) of amyloid Centiloids at baseline was 102.5 (34.5). 68.2 % and 31.8 % were in the low-medium and high tau categories, respectively. A total of 24.7 % of patients discontinued treatment in the study. Of those, 29.3 % were patients in the donanemab arm and 20.1 % of patients in the placebo arm.
 
 There were two primary analysis populations based on tau PET imaging at screening with flortaucipir: 1) low-medium tau level population, and 2) overall population (low-medium plus high tau level population).
 
@@ -418,7 +416,7 @@ Table 4: Efficacy analysis results of donanemab study TRAILBLAZER-ALZ 2 at week 
 | LS Mean change from baseline     | -4.91                                   | -6.37                                   |
 | Difference from placebo (95 %CI) | 1.46 (0.50, 2.42)                       |                                         |
 
-Abbreviations: ApoE ε4 = allele subtype 4 of the gene coding for apolipoprotein Class E; CDR -SB = Clinical Dementia Rating Scale -Sum of Boxes; CI = confidence interval; Dona=donanemab; iADRS = integrated Alzheimer's Disease Rating Scale; LS = Least-Square; MMRM = mixed model for repeated measures; N = number of participants; SD = standard deviation.
+Abbreviations: ApoE ε4 = allele subtype 4 of the gene coding for apolipoprotein Class E; CDR -SB = Clinical Dementia Rating Scale - Sum of Boxes; CI = confidence interval; Dona=donanemab; iADRS = integrated Alzheimer's Disease Rating Scale; LS = Least-Square; MMRM = mixed model for repeated measures; N = number of participants; SD = standard deviation.
 
 a Analyses performed in ITT (intent-to-treat) population that included all randomized participants; post hoc sensitivity analyses using conservative methods for handling missing data (multiple imputation with jump to reference and copy increments in reference).
 
@@ -567,7 +565,7 @@ Any unused medicinal product or waste material should be disposed of in accordan
 
 ## 7. MARKETING AUTHORISATION HOLDER
 
-Eli Lilly Nederland B.V., Papendorpseweg 83, 3528 BJ Utrecht, The Netherlands.
+Eli Lilly Nederland B.V., Orteliuslaan 1000, 3528 BD Utrecht, The Netherlands.
 
 ## 8. MARKETING AUTHORISATION NUMBER(S)
 
@@ -610,7 +608,7 @@ Medicinal product subject to restricted medical prescription (see Annex I: Summa
 
 ## C. OTHER CONDITIONS AND REQUIREMENTS OF THE MARKETING AUTHORISATION
 
-##  Periodic safety update reports (PSURs)
+## · Periodic safety update reports (PSURs)
 
 The requirements for submission of PSURs for this medicinal product are set out in the list of Union reference dates (EURD list) provided for under Article 107c(7) of Directive 2001/83/EC and any subsequent updates published on the European medicines web-portal.
 
@@ -618,16 +616,16 @@ The marketing authorisation holder (MAH) shall submit the first PSUR for this pr
 
 ## D. CONDITIONS OR RESTRICTIONS WITH REGARD TO THE SAFE AND EFFECTIVE USE OF THE MEDICINAL PRODUCT
 
-##  Risk management plan (RMP)
+## · Risk management plan (RMP)
 
 The marketing authorisation holder (MAH) shall perform the required pharmacovigilance activities and interventions detailed in the agreed RMP presented in Module 1.8.2 of the marketing authorisation and any agreed subsequent updates of the RMP.
 
 An updated RMP should be submitted:
 
--  At the request of the European Medicines Agency;
--  Whenever the risk management system is modified, especially as the result of new information being received that may lead to a significant change to the benefit/risk profile or as the result of an important (pharmacovigilance or risk minimisation) milestone being reached.
+- At the request of the European Medicines Agency;
+- Whenever the risk management system is modified, especially as the result of new information being received that may lead to a significant change to the benefit/risk profile or as the result of an important (pharmacovigilance or risk minimisation) milestone being reached.
 
-##  Additional risk minimisation measures
+## · Additional risk minimisation measures
 
 Prior to the launch of Kisunla in each Member State, the Marketing Authorisation Holder (MAH) must agree about the content and format of the educational programme, including communication media, distribution modalities, and any other aspects, with the National Competent Authority. The MAH shall also agree the details of the controlled access programme (CAP).
 
@@ -639,8 +637,8 @@ The educational materials are aimed at educating healthcare professionals and pa
 
 The MAH shall ensure that in each Member State where Kisunla is marketed, prior to launch and after launch, all healthcare professionals and patients/caregivers who are expected to prescribe/receive Kisunla have access to/are provided with the following educational materials:
 
--  HCP educational materials
--  Patient Card
+- HCP educational materials
+- Patient Card
 
 ## Healthcare professionals' (HCP) educational materials:
 
@@ -648,59 +646,59 @@ The educational material for prescribers and radiologists shall contain a guide 
 
 ## HCP guide :
 
--  Information about the conditions of the donanemab CAP. Donanemab treatment should be administered under the supervision of a multidisciplinary team trained in monitoring and management of ARIA and experienced in detecting and managing infusion related reactions to ensure adequate management of patients treated with donanemab.
--  Donanemab use may cause ARIA (-E or -H), and patients should be instructed to seek medical advice immediately if signs or symptoms suggesting ARIA appear.
--  Symptoms of ARIA may include, but are not limited to, headache, vomiting, unsteadiness, dizziness, tremor, confusion, visual disturbances, speech disturbances, worsening cognitive function, alteration of consciousness, and seizures, and may mimic stroke or stroke-like symptoms.
--  ARIA -E and -H can both be classified as mild, moderate, or severe based on MRI, and as symptomatic or asymptomatic based upon the clinical symptoms. Most serious ARIA reactions occurred within 12 weeks of initiation of treatment. Standard supportive treatment, including corticosteroids may be considered in case of ARIA-E.
--  Risk factors for ARIA -E or -H include pre-treatment cerebral microhaemorrhage, superficial siderosis and ApoE ε4 carrier status (homozygotes greater than heterozygotes) compared to non-carriers. Donanemab is indicated in ApoE ε4 heterozygotes or non-carrier patients.
--  Testing for ApoE ε4 carrier status is mandatory prior to initiating donanemab treatment to inform the risk of developing ARIA.
--  Donanemab treatment should be initiated or continued as per the indication and contraindications described in sections 4.1 and 4.3 of the SmPC, respectively.
--  Dosing recommendations and treatment discontinuation for patients with ARIA-E and ARIA-H should be followed as described in section 4.2 of the SmPC.
--  Events of ARIA-H and intracerebral haemorrhage greater than 1 cm have been reported in patients on donanemab treatment. Caution should be exercised when considering the administration of antithrombotics or a thrombolytic agent to a patient on donanemab as this may increase the risk of bleeding in the brain as described in section 4.4 of the SmPC.
--  Treatment with donanemab should not be initiated in patients receiving ongoing anticoagulant therapy.
--  ARIA should be considered in the differential diagnosis of patients presenting with stroke-like symptoms.
--  ARIA can cause focal neurologic deficits similar to those observed in an ischemic stroke. Clinicians treating ischemic stroke should consider whether such symptoms could be due to ARIA before giving thrombolytic therapy in a patient being treated with donanemab. MRI or identification of vascular occlusion can help identify that ischemic stroke rather than ARIA is the aetiology, and inform use of thrombolytics or thrombectomy when appropriate.
+- Information about the conditions of the donanemab CAP. Donanemab treatment should be administered under the supervision of a multidisciplinary team trained in monitoring and management of ARIA and experienced in detecting and managing infusion related reactions to ensure adequate management of patients treated with donanemab.
+- Donanemab use may cause ARIA (-E or -H), and patients should be instructed to seek medical advice immediately if signs or symptoms suggesting ARIA appear.
+- Symptoms of ARIA may include, but are not limited to, headache, vomiting, unsteadiness, dizziness, tremor, confusion, visual disturbances, speech disturbances, worsening cognitive function, alteration of consciousness, and seizures, and may mimic stroke or stroke-like symptoms.
+- ARIA -E and -H can both be classified as mild, moderate, or severe based on MRI, and as symptomatic or asymptomatic based upon the clinical symptoms. Most serious ARIA reactions occurred within 12 weeks of initiation of treatment. Standard supportive treatment, including corticosteroids may be considered in case of ARIA-E.
+- Risk factors for ARIA -E or -H include pre-treatment cerebral microhaemorrhage, superficial siderosis and ApoE ε4 carrier status (homozygotes greater than heterozygotes) compared to non-carriers. Donanemab is indicated in ApoE ε4 heterozygotes or non-carrier patients.
+- Testing for ApoE ε4 carrier status is mandatory prior to initiating donanemab treatment to inform the risk of developing ARIA.
+- Donanemab treatment should be initiated or continued as per the indication and contraindications described in sections 4.1 and 4.3 of the SmPC, respectively.
+- Dosing recommendations and treatment discontinuation for patients with ARIA-E and ARIA-H should be followed as described in section 4.2 of the SmPC.
+- Events of ARIA-H and intracerebral haemorrhage greater than 1 cm have been reported in patients on donanemab treatment. Caution should be exercised when considering the administration of antithrombotics or a thrombolytic agent to a patient on donanemab as this may increase the risk of bleeding in the brain as described in section 4.4 of the SmPC.
+- Treatment with donanemab should not be initiated in patients receiving ongoing anticoagulant therapy.
+- ARIA should be considered in the differential diagnosis of patients presenting with stroke-like symptoms.
+- ARIA can cause focal neurologic deficits similar to those observed in an ischemic stroke. Clinicians treating ischemic stroke should consider whether such symptoms could be due to ARIA before giving thrombolytic therapy in a patient being treated with donanemab. MRI or identification of vascular occlusion can help identify that ischemic stroke rather than ARIA is the aetiology, and inform use of thrombolytics or thrombectomy when appropriate.
 
 <div style=\"page-break-after: always\"></div>
 
--  The purpose and use of the patient card including the importance of carrying the card at all times and to provide to HCPs in emergency situations.
+- The purpose and use of the patient card including the importance of carrying the card at all times and to provide to HCPs in emergency situations.
 
 ## Prescriber checklist :
 
 ## Prior to treatment initiation:
 
--  Initiation of donanemab treatment in all patients should be captured in the ' EU CAP Registration System ' implemented as part of a controlled access programme.
--  ApoE ε4 carrier status testing is mandatory to inform the risk of developing ARIA. The use of donanemab in ApoE ε4 homozygous carrier patients is not indicated (see section 4.1 of the SmPC).
--  Patients treated with donanemab must be given the patient card and be informed about the risks of this medicinal product.
--  The presence of amyloid beta pathology and a clinical diagnosis of either mild cognitive impairment due to AD or mild AD dementia should be confirmed prior to initiating donanemab treatment.
--  MRI should be performed at baseline (within 6 months prior to initiating treatment) for risk factors of ARIA including presence of cerebral microhaemorrhage and superficial siderosis. The use of donanemab in patients with &gt; 4 microhaemorrhages or superficial siderosis is contraindicated.
--  Donanemab treatment should not be initiated as per the contraindications described in section 4.3 of the SmPC.
+- Initiation of donanemab treatment in all patients should be captured in the 'EU CAP Registration System' implemented as part of a controlled access programme.
+- ApoE ε4 carrier status testing is mandatory to inform the risk of developing ARIA. The use of donanemab in ApoE ε4 homozygous carrier patients is not indicated (see section 4.1 of the SmPC).
+- Patients treated with donanemab must be given the patient card and be informed about the risks of this medicinal product.
+- The presence of amyloid beta pathology and a clinical diagnosis of either mild cognitive impairment due to AD or mild AD dementia should be confirmed prior to initiating donanemab treatment.
+- MRI should be performed at baseline (within 6 months prior to initiating treatment) for risk factors of ARIA including presence of cerebral microhaemorrhage and superficial siderosis. The use of donanemab in patients with &gt; 4 microhaemorrhages or superficial siderosis is contraindicated.
+- Donanemab treatment should not be initiated as per the contraindications described in section 4.3 of the SmPC.
 
 ## Monitoring during treatment:
 
--  Treatment should be maintained until amyloid plaques are cleared (e.g. at 6 or 12 months, see section 5.1 of the SmPC) as confirmed using a validated method. The maximum treatment duration is 18 months which should not be exceeded even if plaque clearance is not confirmed .
--  MRIs should be performed prior to the second dose, prior to the third dose, prior to the fourth dose, and prior to the seventh dose. An additional MRI at one year of treatment (prior to the twelfth dose) in patients with ARIA risk factors such as ApoE ε 4 heterozygotes, and patients with previous ARIA events earlier in treatment, should be performed.
--  In case of ARIA, please follow the recommendations for dosing interruptions described in section 4.2 of the SmPC. Additional MRI is indicated if ARIA symptoms occur. A follow-up MRI to assess for resolution (ARIA-E) or stabilisation (ARIA-H) should be performed 2 to 4 months after initial identification.
--  Standard supportive treatment, including corticosteroids may be considered in case of ARIA-E.
--  Resumption of dosing or permanent discontinuation after ARIA-E resolution and ARIA-H stabilization should be guided by clinical judgment including re-evaluation of risk factors.
--  Donanemab should be permanently discontinued after serious ARIA-E, serious ARIA-H, intracerebral haemorrhage greater than 1 cm, or recurrent symptomatic or radiographically moderate or severe ARIA events.
+- Treatment should be maintained until amyloid plaques are cleared (e.g. at 6 or 12 months, see section 5.1 of the SmPC) as confirmed using a validated method. The maximum treatment duration is 18 months which should not be exceeded even if plaque clearance is not confirmed.
+- MRIs should be performed prior to the second dose, prior to the third dose, prior to the fourth dose, and prior to the seventh dose. An additional MRI at one year of treatment (prior to the twelfth dose) in patients with ARIA risk factors such as ApoE ε 4 heterozygotes, and patients with previous ARIA events earlier in treatment, should be performed.
+- In case of ARIA, please follow the recommendations for dosing interruptions described in section 4.2 of the SmPC. Additional MRI is indicated if ARIA symptoms occur. A follow-up MRI to assess for resolution (ARIA-E) or stabilisation (ARIA-H) should be performed 2 to 4 months after initial identification.
+- Standard supportive treatment, including corticosteroids may be considered in case of ARIA-E.
+- Resumption of dosing or permanent discontinuation after ARIA-E resolution and ARIA-H stabilization should be guided by clinical judgment including re-evaluation of risk factors.
+- Donanemab should be permanently discontinued after serious ARIA-E, serious ARIA-H, intracerebral haemorrhage greater than 1 cm, or recurrent symptomatic or radiographically moderate or severe ARIA events.
 
 ## Patient Card:
 
 ## Key elements directed towards the patient/caregiver:
 
--  The patient card should be kept with the patient/caregiver at all times, and it should be shared with other healthcare providers involved in their treatment including emergency situations.
--  Treatment with donanemab may cause amyloid related imaging abnormalities (ARIA).
--  Symptoms of ARIA may include, headache, confusion, dizziness, vision changes, nausea, aphasia, weakness, or seizure.
--  Patients should seek medical attention or advice if symptoms of ARIA occur.
--  Emergency contact details of family member or caregiver.
--  Contact details of the prescriber.
+- The patient card should be kept with the patient/caregiver at all times, and it should be shared with other healthcare providers involved in their treatment including emergency situations.
+- Treatment with donanemab may cause amyloid related imaging abnormalities (ARIA).
+- Symptoms of ARIA may include, headache, confusion, dizziness, vision changes, nausea, aphasia, weakness, or seizure.
+- Patients should seek medical attention or advice if symptoms of ARIA occur.
+- Emergency contact details of family member or caregiver.
+- Contact details of the prescriber.
 
 <div style=\"page-break-after: always\"></div>
 
-## K ey elements directed toward HCPs involved in the patient's treatment :
+## Key elements directed toward HCPs involved in the patient's treatment :
 
--  ARIA (detected by MRI) can cause focal neurologic deficits similar to those observed in an ischaemic stroke. Because ARIA occurs more commonly in the first 6 months of treatment with donanemab, clinicians treating ischemic stroke should consider whether such symptoms could be due to ARIA before giving thrombolytic therapy in a patient being treated with donanemab (For additional details see Kisunla SmPC section 4.4 ARIA and Concomitant antithrombotic treatment).
+- ARIA (detected by MRI) can cause focal neurologic deficits similar to those observed in an ischaemic stroke. Because ARIA occurs more commonly in the first 6 months of treatment with donanemab, clinicians treating ischemic stroke should consider whether such symptoms could be due to ARIA before giving thrombolytic therapy in a patient being treated with donanemab (For additional details see Kisunla SmPC section 4.4 ARIA and Concomitant antithrombotic treatment).
 
 ## Controlled Access Programme
 
@@ -716,11 +714,11 @@ The Controlled Access Program includes the following key principles that will be
 
 The CAP allows for pre-selection of centres with required criteria, prescribers able to assess eligibility for donanemab, access to a validated method to assess brain amyloid pathology, access to IV infusions, access to MRI [scheduled and non-scheduled] to monitor for ARIA, and access ApoE ε4 tests). This will be followed by drug distribution to pharmacies of these selected centres with affiliated prescribers, who have received HCP educational materials on donanemab treatment. Prescribers within these centres will, prior to a patient receiving donanemab, use the registration system to
 
--  attest to receiving and understanding the required HCP education guide,
--  confirm that the (anonymised) patient meets required eligibility criteria per label,
--  and verify that the patient has been counselled regarding the risks of donanemab and provided the patient card.
+- attest to receiving and understanding the required HCP education guide,
+- confirm that the (anonymised) patient meets required eligibility criteria per label,
+- and verify that the patient has been counselled regarding the risks of donanemab and provided the patient card.
 
-##  Obligation to conduct post-authorisation measures
+## · Obligation to conduct post-authorisation measures
 
 The MAH shall complete, within the stated timeframe, the below measures:
 
@@ -800,11 +798,11 @@ Keep the vial in the outer carton in order to protect from light.
 
 Do not freeze.
 
-10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
+## 10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
-Eli Lilly Nederland B.V., Papendorpseweg 83, 3528 BJ Utrecht, The Netherlands
+Eli Lilly Nederland B.V., Orteliuslaan 1000, 3528 BD Utrecht, The Netherlands
 
 ## 12. MARKETING AUTHORISATION NUMBER
 
@@ -814,11 +812,11 @@ EU/1/25/1926/001
 
 Lot
 
-14. GENERAL CLASSIFICATION FOR SUPPLY
+## 14. GENERAL CLASSIFICATION FOR SUPPLY
 
 15. INSTRUCTIONS ON USE
 
-16. INFORMATION IN BRAILLE
+## 16. INFORMATION IN BRAILLE
 
 Justification for not including Braille accepted.
 
@@ -892,7 +890,7 @@ Do not freeze.
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
-Eli Lilly Nederland B.V., Papendorpseweg 83, 3528 BJ Utrecht, The Netherlands
+Eli Lilly Nederland B.V., Orteliuslaan 1000, 3528 BD Utrecht, The Netherlands
 
 ## 12. MARKETING AUTHORISATION NUMBER
 
@@ -902,11 +900,11 @@ EU/1/25/1926/002
 
 Lot
 
-14. GENERAL CLASSIFICATION FOR SUPPLY
+## 14. GENERAL CLASSIFICATION FOR SUPPLY
 
 15. INSTRUCTIONS ON USE
 
-16. INFORMATION IN BRAILLE
+## 16. INFORMATION IN BRAILLE
 
 Justification for not including Braille accepted.
 
@@ -976,7 +974,7 @@ Do not freeze.
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
-Eli Lilly Nederland B.V., Papendorpseweg 83, 3528 BJ Utrecht, The Netherlands
+Eli Lilly Nederland B.V., Orteliuslaan 1000, 3528 BD Utrecht, The Netherlands
 
 ## 12. MARKETING AUTHORISATION NUMBER
 
@@ -1059,7 +1057,7 @@ This medicine is subject to additional monitoring. This will allow quick identif
 
 The active substance in Kisunla is donanemab. It belongs to a group of medicines called anti-dementia medicines. Donanemab is a monoclonal antibody, which acts as a protein that your body makes naturally. Donanemab recognises and binds specifically to a protein called amyloid beta, which is involved with Alzheimer's disease. By binding the amyloid beta proteins, the body's immune system is stimulated and will remove them.
 
-Kisunla is used to slow the progression of Alzheimer's disease in adults that have abnormal build-up of amyloid beta proteins in the brain, who have either mild cognitive impairment (difficulty in thinking, remembering and making decisions) or mild dementia (loss of intellectual function) due to Alzheimer's disease , and that carry one copy of a gene called apolipoprotein E4, also known as ApoE ε4 , or in adults who do not carry this gene. Your healthcare provider will perform testing to make sure that Kisunla is right for you.
+Kisunla is used to slow the progression of Alzheimer's disease in adults that have abnormal build-up of amyloid beta proteins in the brain, who have either mild cognitive impairment (difficulty in thinking, remembering and making decisions) or mild dementia (loss of intellectual function) due to Alzheimer's disease, and that carry one copy of a gene called apolipoprotein E4, also known as ApoE ε4 , or in adults who do not carry this gene. Your healthcare provider will perform testing to make sure that Kisunla is right for you.
 
 ## 2. What you need to know before you are given Kisunla
 
@@ -1069,7 +1067,7 @@ Kisunla is used to slow the progression of Alzheimer's disease in adults that ha
 - -if you previously had bleeding in the brain or if the Magnetic Resonance Imaging (MRI) shows small spots of bleeding or fluid in the brain.
 - -if you have an uncontrolled bleeding problem.
 - -if you are receiving medicines (anticoagulants) to prevent blood clots.
-- -if you have changes and damage to your brain's white matter , the pale tissue containing nerve fibres (structures like threads).
+- -if you have changes and damage to your brain's white matter, the pale tissue containing nerve fibres (structures like threads).
 - -if you have uncontrolled high blood pressure
 - -if you cannot undergo an MRI because you live with a fear of enclosed spaces (claustrophobia), you have metal implants or you have been implanted with a metal cardiac rhythm management device (pacemaker).
 
@@ -1182,7 +1180,7 @@ Like all medicines, this medicine can cause side effects, although not everybody
 
 ## More than 1 in 10 people may experience the following side effect:
 
-Cases of  ARIA that resulted  in serious  symptoms,  some  of  these  cases  have  been  fatal.  Symptoms include  headache,  confusion,  feeling  sick,  vomiting,  loss  of  balance,  dizziness,  trembling,  vision changes, speech disturbances, light-headedness, changes in consciousness, fits.
+Cases  of  ARIA  that  resulted  in  serious  symptoms,  some  of  these  cases  have  been  fatal.  Symptoms include  headache,  confusion,  feeling  sick,  vomiting,  loss  of  balance,  dizziness,  trembling,  vision changes, speech disturbances, light-headedness, changes in consciousness, fits.
 
 ## Up to 1 in 100 people may experience the following side effect:
 
@@ -1219,7 +1217,7 @@ Keep this medicine out of the sight and reach of children.
 
 Do not use this medicine after the expiry date which is stated on the label and the carton after EXP. The expiry date refers to the last day of that month.
 
-Store in a refrigerator (2 °C -8 °C). Do not freeze or shake.
+Store in a refrigerator (2 °C - 8 °C). Do not freeze or shake.
 
 <div style=\"page-break-after: always\"></div>
 
@@ -1244,7 +1242,7 @@ Kisunla concentrate for solution for infusion is a solution in a clear glass via
 
 ## Marketing Authorisation Holder
 
-Eli Lilly Nederland B.V Papendorpseweg 83 3528 BJ Utrecht The Netherlands
+Eli Lilly Nederland B.V. Orteliuslaan 1000 3528 BD Utrecht The Netherlands
 
 ## Manufacturer
 
@@ -1256,7 +1254,9 @@ For any information about this medicine, please contact the local representative
 
 ## Belgique/België/Belgien
 
-Eli Lilly Benelux S.A./N.V. Tél/Tel: + 32-(0)2 548 84 84
+Eli Lilly Benelux S.A./N.V.
+
+Tél/Tel: + 32-(0)2 548 84 84
 
 ## Lietuva
 
@@ -1264,9 +1264,7 @@ Eli Lilly Lietuva Tel. +370 (5) 2649600
 
 ## България
 
-ТП \" Ели Лили Недерланд \" Б . В . - България
-
-тел. + 359 2 491 41 40
+ТП \" Ели Лили Недерланд \" Б . В . - България тел. + 359 2 491 41 40
 
 ## Luxembourg/Luxemburg
 
@@ -1274,11 +1272,15 @@ Eli Lilly Benelux S.A./N.V. Tél/Tel: + 32-(0)2 548 84 84
 
 ## Česká republika
 
-ELI LILLY ČR, s.r.o. Tel: + 420 234 664 111
+ELI LILLY ČR, s.r.o.
+
+Tel: + 420 234 664 111
 
 ## Magyarország
 
-Lilly Hungária Kft. Tel: + 36 1 328 5100
+Lilly Hungária Kft.
+
+Tel: + 36 1 328 5100
 
 ## Danmark
 

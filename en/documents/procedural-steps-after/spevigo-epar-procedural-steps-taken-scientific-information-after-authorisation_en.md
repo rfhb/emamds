@@ -1,20 +1,20 @@
 ---
-document_datetime: 2025-06-16 16:42:43
-document_pages: 2
+document_datetime: 2026-02-05 14:04:40
+document_pages: 3
 document_pathfilename: www.ema.europa.eu/en/documents/procedural-steps-after/spevigo-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf
 document_name: spevigo-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf
 version: success
-processing_time: 1.5080765
-conversion_datetime: 2025-12-17 15:20:43.128591
+processing_time: 1.7968433
+conversion_datetime: 2026-02-09 22:32:18.700855
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.64.1
-  docling-core: 2.55.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.12.0
+  docling-jobkit: 1.10.1
+  docling: 2.72.0
+  docling-core: 2.63.0
+  docling-ibm-models: 3.11.0
+  docling-parse: 4.7.3
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.1-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
 ---
 ## Spevigo
 
@@ -22,15 +22,9 @@ Procedural steps taken and scientific information after the authorisation*
 
 *Due to the Agency`s update of its procedure management systems, an additional document, reflecting the historical lifecycle may be available in the 'Assessment history' section. For the complete product lifecycle procedures, you may need to also refer to EPAR - Procedural steps taken and scientific information after authorisation (archive) .
 
-| Application number   | Scope                              | Opinion/ Notification 1 issued on   | Commission Decision Issued 2 / amended on   | Product Information affected 3   | Summary       |
-|----------------------|------------------------------------|-------------------------------------|---------------------------------------------|----------------------------------|---------------|
-| Variation type II /  | C.I HUMAN AND VETERINARY MEDICINAL | 08/05/2025                          | N/A                                         | SmPC and PL                      | SmPC new text |
-
-1  Notifications are issued for type I variations and Article 61(3) notifications (unless part of a group including a type II variation or extension application or a worksharing application). Opinions are issued for all other procedures.
-
-2  A Commission decision (CD) is issued for procedures that affect the terms of the marketing authorisation (e.g. summary of product characteristics, annex II, labelling, package leaflet). The CD is issued within two months of the opinion for variations falling under the scope of Article 23.1a(a) of Regulation (EU) No. 712/2012, or within one year for other procedures.
-
-3  SmPC (Summary of Product Characteristics), Annex II, Labelling, PL (Package Leaflet).
+| Application number      | Scope                                     | Opinion/ Notification 1 issued on   | Commission Decision Issued 2 / amended on   | Product Information affected 3   | Summary   |
+|-------------------------|-------------------------------------------|-------------------------------------|---------------------------------------------|----------------------------------|-----------|
+| Marketing Authorisation | - Transfer of a marketing authorisation - | 19/12/2025                          | 22/01/2026                                  | SmPC,                            |           |
 
 <!-- image -->
 
@@ -38,5 +32,14 @@ Procedural steps taken and scientific information after the authorisation*
 
 <div style=\"page-break-after: always\"></div>
 
-| EMA/VR/0000249137   | PRODUCTS - C.I.4 Change(s) in the Summary of Product Characteristics, Labelling or Package Leaflet due to new quality, preclinical, clinical or pharmacovigilance data - Accepted Update of sections 4.4, and 4.8 of the SmPC in order to add a new warning on hypersensitivity and add hypersensitivity to the list of adverse drug reactions (ADRs) with frequency not known based on data from clinical trials and post-marketing data sources; the Package Leaflet is updated accordingly. The RMP version 4.0 has also been submitted.   | Section 4.4 Immediate hypersensitivity reactions, including anaphylactic reactions have been reported in patients treated with spesolimab (see section 4.8). Section 4.8 Hypersensitivity Hypersensitivity comprises immediate systemic hypersensitivity reactions, including anaphylactic reaction. Immediate systemic hypersensitivity reactions have been reported in open-label extension trials and the post-marketing setting. For more information, please refer to the Summary of Product Characteristics.   |
-|---------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Transfer - H / EMA/T/0000315477       | Transfer of Marketing Authorisation from Boehringer Ingelheim International GmbH to Leo Pharma A/S                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        |            |             | Labelling and PL   |                                                                                        |
+|---------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------|-------------|--------------------|----------------------------------------------------------------------------------------|
+| Variation type IA / EMA/VR/0000310705 | This was an application for a group of variations. B.II.d.2 Change in test procedure for the finished product - B.II.d.2.a Minor changes to an approved test procedure - Accepted B.II.b.5 Change to in-process tests or limits applied during the manufacture of the finished product - B.II.b.5.a Tightening of in- process limits - Accepted B.II.b.5 Change to in-process tests or limits applied during the manufacture of the finished product - B.II.b.5.a Tightening of in- process limits - Accepted B.II.e.2 Change in the specification parameters and/or limits of the immediate packaging of the finished product - B.II.e.2.a Tightening of specification limits - Accepted | 12/11/2025 | N/A         |                    |                                                                                        |
+| Renewal - 1 year / EMA/R/0000272399   | - Renewal - Accepted                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      | 18/09/2025 | 24 /10/2025 |                    |                                                                                        |
+| Variation type II / EMA/VR/0000249137 | C.I HUMAN AND VETERINARY MEDICINAL PRODUCTS - C.I.4 Change(s) in the                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      | 08/05/2025 | 14/08/2025  | SmPC and PL        | SmPC new text Section 4.4 Immediate hypersensitivity reactions, including anaphylactic |
+
+<div style=\"page-break-after: always\"></div>
+
+|                            | Summary of Product Characteristics, Labelling or Package Leaflet due to new quality, preclinical, clinical or pharmacovigilance data - Accepted Update of sections 4.4, and 4.8 of the SmPC in order to add a new warning on hypersensitivity and add hypersensitivity to the list of adverse drug reactions (ADRs) with frequency not known based on data from clinical trials and post-marketing data sources; the Package Leaflet is updated accordingly. The RMP version 4.0 has also been submitted.   | reactions have been reported in patients treated with spesolimab (see section 4.8). Section 4.8 Hypersensitivity Hypersensitivity comprises immediate systemic hypersensitivity reactions, including anaphylactic reaction. Immediate systemic hypersensitivity reactions have been reported in open-label extension trials and the post-marketing setting. For more information, please refer to the Summary of Product Characteristics.   |
+|----------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| PSUR / EMA/PSUR/0000274439 | - - n/a                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     | Maintenance                                                                                                                                                                                                                                                                                                                                                                                                                                 |

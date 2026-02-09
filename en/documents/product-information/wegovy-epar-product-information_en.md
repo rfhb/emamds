@@ -1,17 +1,17 @@
 ---
-document_datetime: 2026-01-19 16:45:36
+document_datetime: 2026-02-05 13:55:43
 document_pages: 107
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/wegovy-epar-product-information_en.pdf
 document_name: wegovy-epar-product-information_en.pdf
 version: success
-processing_time: 38.326605
-conversion_datetime: 2026-01-20 20:14:28.566409
+processing_time: 33.9520852
+conversion_datetime: 2026-02-09 22:02:04.087235
 docling_version:
-  docling-serve: 1.10.0
-  docling-jobkit: 1.8.1
-  docling: 2.69.0
-  docling-core: 2.60.0
-  docling-ibm-models: 3.10.3
+  docling-serve: 1.12.0
+  docling-jobkit: 1.10.1
+  docling: 2.72.0
+  docling-core: 2.63.0
+  docling-ibm-models: 3.11.0
   docling-parse: 4.7.3
   python: cpython-313 (3.13.11)
   plaform: macOS-26.2-arm64-arm-64bit-Mach-O
@@ -222,13 +222,11 @@ Hypersensitivity to the active substance or to any of the excipients listed in s
 
 In order to improve the traceability of biological medicinal products, the name and the batch number of the administered product should be clearly recorded.
 
-## Aspiration in association with general anaesthesia or deep sedation
-
-Cases of pulmonary aspiration have been reported in patients receiving GLP-1 receptor agonists
-
 <div style=\"page-break-after: always\"></div>
 
-undergoing general anaesthesia or deep sedation. Therefore, the increased risk of residual gastric content due to delayed gastric emptying (see section 4.8) should be considered prior to performing procedures with general anaesthesia or deep sedation.
+## Aspiration in association with general anaesthesia or deep sedation
+
+Cases of pulmonary aspiration have been reported in patients receiving GLP-1 receptor agonists undergoing general anaesthesia or deep sedation. Therefore, the increased risk of residual gastric content due to delayed gastric emptying (see section 4.8) should be considered prior to performing procedures with general anaesthesia or deep sedation.
 
 ## Gastrointestinal effects and Dehydration
 
@@ -364,29 +362,23 @@ Adverse reactions associated with Wegovy are listed by system organ class and fr
 
 Table 3 Frequency of adverse reactions of semaglutide
 
-| MedDRA system organ class          | Very common   | Common                                                  | Uncommo n                                                      | Rare                   | Very Rare                                                    | Not known   |
-|------------------------------------|---------------|---------------------------------------------------------|----------------------------------------------------------------|------------------------|--------------------------------------------------------------|-------------|
-| Immune system disorders            |               |                                                         |                                                                | Anaphylact ic reaction |                                                              |             |
-| Metabolism and nutrition disorders |               | Hypoglycaemia in patients with type 2 diabetes a        |                                                                |                        |                                                              |             |
-| Nervous system disorders           | Headache b    | Dizziness b Dysgeusia b,c Dysaesthesia a                |                                                                |                        |                                                              |             |
-| Eye disorders                      |               | Diabetic retinopathy in patients with type 2 diabetes a |                                                                |                        | Non- arteritic anterior ischaemi c optic neuropat hy (NAION) |             |
-| Cardiac disorders                  |               |                                                         | Hypotensi on Orthostatic hypotensio n Increased heart rate a,c |                        |                                                              |             |
+| MedDRA system organ class          | Very common   | Common                                                  | Uncommon                                                     | Rare                   | Very Rare                                                  | Not known   |
+|------------------------------------|---------------|---------------------------------------------------------|--------------------------------------------------------------|------------------------|------------------------------------------------------------|-------------|
+| Immune system disorders            |               |                                                         |                                                              | Anaphylact ic reaction |                                                            |             |
+| Metabolism and nutrition disorders |               | Hypoglycae mia in patients with type 2 diabetes a       |                                                              |                        |                                                            |             |
+| Nervous system disorders           | Headache b    | Dizziness b Dysgeusia b,c Dysaesthesia a                |                                                              |                        |                                                            |             |
+| Eye disorders                      |               | Diabetic retinopathy in patients with type 2 diabetes a |                                                              |                        | Non- arteritic anterior ischaemic optic neuropathy (NAION) |             |
+| Cardiac disorders                  |               |                                                         | Hypotension Orthostatic hypotension Increased heart rate a,c |                        |                                                            |             |
 
 <div style=\"page-break-after: always\"></div>
 
-| MedDRA system organ class                             | Very common                                                               | Common                                                                                                         | Uncommo n                                      | Rare        | Very Rare   | Not known               |
-|-------------------------------------------------------|---------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------|------------------------------------------------|-------------|-------------|-------------------------|
-| Gastrointesti nal disorders                           | Vomiting a,b Diarrhoea a,b Constipation a,b Nausea a,b Abdominal pain b,c | Gastritis b,c Gastrooesophag eal reflux disease b Dyspepsia b Eructation b Flatulence b Abdominal distension b | Acute pancreatiti s a Delayed gastric emptying |             |             | Intestinal obstructi on |
-| Hepatobiliary disorders                               |                                                                           | Cholelithiasis a                                                                                               |                                                |             |             |                         |
-| Skin and subcutaneous tissue disorders                |                                                                           | Hair loss a                                                                                                    |                                                | Angioede ma |             |                         |
-| General disorders and administratio n site conditions | Fatigue b,c                                                               | Injection site reactions c                                                                                     |                                                |             |             |                         |
-| Investigation s                                       |                                                                           |                                                                                                                | Increased amylase c Increased lipase c         |             |             |                         |
-
-a) see description of selected adverse reactions below
-
-b) mainly seen in the dose-escalation period
-
-c) Grouped preferred terms
+| MedDRA system organ class                             | Very common                                                                | Common                                                                                                         | Uncommon                                      | Rare        | Very Rare   | Not known               |
+|-------------------------------------------------------|----------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------|-----------------------------------------------|-------------|-------------|-------------------------|
+| Gastrointes tinal disorders                           | Vomiting a,b Diarrhoea a,b Constipatio n a,b Nausea a,b Abdominal pain b,c | Gastritis b,c Gastrooesop hageal reflux disease b Dyspepsia b Eructation b Flatulence b Abdominal distension b | Acute pancreatitis a Delayed gastric emptying |             |             | Intestinal obstructio n |
+| Hepatobilia ry disorders                              |                                                                            | Cholelithiasi s a                                                                                              |                                               |             |             |                         |
+| Skin and subcutaneo us tissue disorders               |                                                                            | Hair loss a                                                                                                    |                                               | Angioedem a |             |                         |
+| General disorders and administrati on site conditions | Fatigue b,c                                                                | Injection site reactions c                                                                                     |                                               |             |             |                         |
+| Investigatio ns                                       |                                                                            |                                                                                                                | Increased amylase c Increased lipase c        |             |             |                         |
 
 ## Description of selected adverse reactions
 
@@ -404,9 +396,11 @@ Patients with gastroparesis may experience more serious or severe gastrointestin
 
 ## Acute pancreatitis
 
-The frequency of adjudication-confirmed acute pancreatitis reported in phase 3a clinical trials was 0.2% for semaglutide and &lt;0.1% for placebo, respectively. In SELECT, the cardiovascular outcomes trial, the frequency of acute pancreatitis confirmed by adjudication was 0.2% for semaglutide and 0.3% for placebo.
+The frequency of adjudication-confirmed acute pancreatitis reported in phase 3a clinical trials was 0.2% for semaglutide and &lt;0.1% for placebo, respectively. In SELECT, the cardiovascular outcomes
 
 <div style=\"page-break-after: always\"></div>
+
+trial, the frequency of acute pancreatitis confirmed by adjudication was 0.2% for semaglutide and 0.3% for placebo.
 
 ## Acute gallstone disease/Cholelithiasis
 
@@ -478,11 +472,9 @@ Semaglutide is a GLP-1 analogue with 94% sequence homology to human GLP-1. Semag
 
 GLP-1 is a physiological regulator of appetite and calorie intake, and the GLP-1 receptor is present in several areas of the brain involved in appetite regulation.
 
-Animal studies show that semaglutide works in the brain through the GLP-1 receptor. Semaglutide has direct effects on areas in the brain involved in homeostatic regulation of food intake in the
-
 <div style=\"page-break-after: always\"></div>
 
-hypothalamus and the brainstem. Semaglutide may affect the hedonic reward system through direct and indirect effects in brain areas including the septum, thalamus and amygdala.
+Animal studies show that semaglutide works in the brain through the GLP-1 receptor. Semaglutide has direct effects on areas in the brain involved in homeostatic regulation of food intake in the hypothalamus and the brainstem. Semaglutide may affect the hedonic reward system through direct and indirect effects in brain areas including the septum, thalamus and amygdala.
 
 Clinical studies show that semaglutide reduces energy intake, increases feelings of satiety, fullness and control of eating, reduces feelings of hunger, and frequency and intensity of cravings. In addition, semaglutide reduces the preference for high fat foods.
 
@@ -508,11 +500,11 @@ Semaglutide 1 mg compared to placebo lowered fasting triglyceride and very low d
 
 The efficacy and safety of semaglutide for weight management in combination with a reduced calorie intake and increased physical activity were evaluated in four 68 weeks double-blinded randomised placebo-controlled phase 3a trials (STEP 1-4). A total of 4 684 adult patients (2 652 randomised to treatment with semaglutide) were included in these trials. Furthermore, the two-year efficacy and safety of semaglutide compared to placebo were evaluated in a double-blinded randomised placebocontrolled phase 3b trial (STEP 5) including 304 patients (152 in treatment with semaglutide).
 
-Treatment with semaglutide demonstrated superior, clinically meaningful, and sustained weight loss compared with placebo in patients with obesity (BMI ≥30 kg/m 2 ), or overweight (BMI ≥27 kg/m 2 to &lt;30 kg/m 2 ) and at least one weight-related comorbidity. Furthermore, across the trials, a higher proportion of patients achieved ≥5%, ≥10%, ≥15% and ≥20% weight loss with semaglutide compared
+Treatment with semaglutide demonstrated superior, clinically meaningful, and sustained weight loss compared with placebo in patients with obesity (BMI ≥30 kg/m 2 ), or overweight (BMI ≥27 kg/m 2 to &lt;30 kg/m 2 ) and at least one weight-related comorbidity. Furthermore, across the trials, a higher
 
 <div style=\"page-break-after: always\"></div>
 
-with placebo. The reduction in body weight occurred irrespective of the presence of gastrointestinal symptoms such as nausea, vomiting or diarrhoea.
+proportion of patients achieved ≥5%, ≥10%, ≥15% and ≥20% weight loss with semaglutide compared with placebo. The reduction in body weight occurred irrespective of the presence of gastrointestinal symptoms such as nausea, vomiting or diarrhoea.
 
 Treatment with semaglutide also showed statistically significant improvements in waist circumference, systolic blood pressure and physical functioning compared to placebo.
 
@@ -525,6 +517,8 @@ In a 68-week double-blind trial, 1 961 patients with obesity (BMI ≥30 kg/m 2 )
 Weight loss occurred early and continued throughout the trial. At end of treatment (week 68), the weight loss was superior and clinically meaningful compared with placebo (see Table 4 and Figure 1). Furthermore, a higher proportion of patients achieved ≥5%, ≥10%, ≥15% and ≥20% weight loss with semaglutide compared with placebo (see Table 4). Among patients with prediabetes at baseline, a higher proportion of patients had a normo-glycaemic status at end of treatment with semaglutide compared to placebo (84.1% vs. 47.8%).
 
 Table 4 STEP 1: Results at week 68
+
+* p&lt;0.0001 (unadjusted 2-sided) for superiority.
 
 |                                           | Semaglutide 2.4 mg    | Placebo   |
 |-------------------------------------------|-----------------------|-----------|
@@ -1035,7 +1029,7 @@ In the absence of compatibility studies this medicinal product must not be mixed
 
 ## Pre-filled pen, single-dose
 
-1 year.
+2 years.
 
 Wegovy may be stored unrefrigerated for up to 28 days at a temperature not above 30°C. Discard the pen if it has been out of the refrigerator for more than 28 days.
 
@@ -3011,31 +3005,7 @@ Detailed information on this medicine is available on the European Medicines Age
 
 <div style=\"page-break-after: always\"></div>
 
-## Package leaflet: Information for the patient
-
-## Wegovy
-
-0.25 mg
-
-0.5 mg
-
-1 mg
-
-1.7 mg
-
-2.4 mg
-
-Wegovy 0.25 mg solution for injection in pre-filled pen
-
-Wegovy 0.5 mg solution for injection in pre-filled pen
-
-Wegovy 1 mg solution for injection in pre-filled pen
-
-Wegovy 1.7 mg solution for injection in pre-filled pen
-
-Wegovy 2.4 mg solution for injection in pre-filled pen semaglutide
-
-Use Wegovy one time each week
+<!-- image -->
 
 ## Instructions on how to use Wegovy pen
 
@@ -3060,10 +3030,6 @@ The needle cover will lock when the pen is removed from your skin. You cannot pa
 People who are blind or have vision problems should not use Wegovy pen without help from a person trained to use Wegovy.
 
 Always follow these user instructions and any directions given by your doctor or nurse.
-
-Pull out to get started
-
-<!-- image -->
 
 <div style=\"page-break-after: always\"></div>
 
@@ -3560,6 +3526,24 @@ Take a needle when you are ready to take your injection. Check the paper tab and
 <!-- image -->
 
 <div style=\"page-break-after: always\"></div>
+
+## Push the needle straight onto the pen. Turn until it is on tight.
+
+(See figure D).
+
+The needle is covered by two caps. You must remove both caps. If you forget to remove both caps you will not inject any Wegovy.
+
+Pull off the outer needle cap and keep it for later. You will need it to safely remove the needle from the pen after the injection.
+
+Pull off the inner needle cap and dispose of it. A drop of Wegovy may appear at the needle tip. You must still check the Wegovy flow if you use a new pen for the first time. See 'Check the flow with each new pen'.
+
+Never use a bent or damaged needle. For more information about needle handling, see 'About your needles' below these instructions.
+
+(See figure E).
+
+D
+
+f
 
 <!-- image -->
 

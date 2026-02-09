@@ -1,20 +1,20 @@
 ---
-document_datetime: 2024-11-06 15:47:41
-document_pages: 59
+document_datetime: 2026-02-06 09:27:27
+document_pages: 62
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/xerava-epar-product-information_en.pdf
 document_name: xerava-epar-product-information_en.pdf
 version: success
-processing_time: 12.7879747
-conversion_datetime: 2025-12-17 07:47:39.42804
+processing_time: 14.4701823
+conversion_datetime: 2026-02-09 22:36:37.127701
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.64.1
-  docling-core: 2.55.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.12.0
+  docling-jobkit: 1.10.1
+  docling: 2.72.0
+  docling-core: 2.63.0
+  docling-ibm-models: 3.11.0
+  docling-parse: 4.7.3
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.1-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
 ---
 ## ANNEX I
 
@@ -44,7 +44,7 @@ Pale yellow to dark yellow cake.
 
 ## 4.1 Therapeutic indications
 
-Xerava is indicated for the treatment of complicated intra-abdominal infections (cIAI) in adults (see sections 4.4 and 5.1).
+Xerava is indicated in adolescents from the age of 12 years weighing at least 50 kg, and in adults, for the treatment of complicated intra-abdominal infections (cIAI) (see sections 4.4 and 5.1).
 
 Consideration should be given to official guidance on the appropriate use of antibacterial agents.
 
@@ -72,9 +72,11 @@ No dose adjustment is necessary in patients with hepatic impairment (see section
 
 ## Paediatric population
 
-The safety and efficacy of Xerava in children and adolescents less than 18 years of age have not been established. No data are available. Xerava should not be used in children aged under 8 years because of teeth discolouration (see sections 4.4 and 4.6).
+The safety and efficacy of Xerava in children less than 12 years of age or adolescents with body weight below 50 kg have not been established. Currently available data are described in section 4.8 but
 
 <div style=\"page-break-after: always\"></div>
+
+no recommendation on a posology can be made. Xerava should not be used in children aged under 8 years because of the risk of tooth discolouration (see sections 4.4 and 4.6).
 
 ## Method of administration
 
@@ -114,7 +116,7 @@ Pancreatitis has been reported with eravacycline and has been severe in some cas
 
 ## Paediatric population
 
-Xerava should not be used during tooth development (during the 2 nd and 3 rd trimester of pregnancy, and in children under 8 years of age) as it may cause permanent discolouration of the teeth (yellowgrey-brown) (see sections 4.2 and 4.6).
+Xerava should not be used during tooth development (during the 2 nd and 3 rd trimester of pregnancy, and in children under 8 years of age) as it may cause permanent discolouration of the teeth (yellowgrey-brown) (see section 4.6).
 
 ## Concomitant use of strong CYP3A4 inducers
 
@@ -225,6 +227,10 @@ Tetracycline class adverse reactions include photosensitivity, pseudotumor cereb
 
 Antibiotic class adverse reactions include pseudomembranous colitis, and overgrowth of nonsusceptible organisms, including fungi (see section 4.4). In clinical trials, treatment-related diarrhoea occurred in 0.7% of patients; all cases were mild in severity.
 
+## Paediatric Population
+
+In a phase I study to determine the pharmacokinetics and the safety of a single dose of intravenous eravacycline in children aged 8 to less than 18 years (n= 19, with 10 less than 12 years old) the most frequently reported adverse reactions were nausea (26.3%), vomiting (15.8%), headache (15.8%), and hyperhidrosis (10.5%). In general, adverse reactions were mild or moderate in severity and similar to the adverse reactions observed in adults. Two events were assessed as severe including one event of anaphylactic reaction and one event of pleural effusion, which was also assessed as serious.
+
 ## Reporting of suspected adverse reactions
 
 Reporting suspected adverse reactions after authorisation of the medicinal product is important. It allows continued monitoring of the benefit/risk balance of the medicinal product. Healthcare professionals are asked to report any suspected adverse reactions via the national reporting system listed in Appendix V.
@@ -251,23 +257,15 @@ The C-7 and C-9 substitutions in eravacycline are not present in any naturally o
 
 Resistance to eravacycline has been observed in Enterococcus harbouring mutations in rpsJ. There is no target-based cross-resistance between eravacycline and other classes of antibiotics such as quinolones, penicillins, cephalosporins, and carbapenems.
 
+<div style=\"page-break-after: always\"></div>
+
 Other bacterial resistance mechanisms that could potentially affect eravacycline are associated with upregulated, non-specific intrinsic multidrug-resistant (MDR) efflux.
 
 ## Susceptibility testing breakpoints
 
-Minimum inhibitory concentration (MIC) breakpoints established by the European Committee on Antimicrobial Susceptibility Testing (EUCAST) for eravacycline are:
+MIC (minimum inhibitory concentration) interpretive criteria for susceptibility testing have been established by the European Committee on Antimicrobial Susceptibility Testing (EUCAST) for eravacycline and are listed here:
 
-<div style=\"page-break-after: always\"></div>
-
-Table 2 Minimum inhibitory concentration breakpoints of eravacycline for different pathogens
-
-|                             | MIC breakpoints (µg/mL)   | MIC breakpoints (µg/mL)   |
-|-----------------------------|---------------------------|---------------------------|
-| Pathogen                    | Susceptible (S ≤)         | Resistant (R >)           |
-| Escherichia coli            | 0.5                       | 0.5                       |
-| Staphylococcus aureus       | 0.25                      | 0.25                      |
-| Enterococcus spp .          | 0.125                     | 0.125                     |
-| Viridans Streptococcus spp. | 0.125                     | 0.125                     |
+https://www.ema.europa.eu/documents/other/minimum-inhibitory-concentration-mic-breakpoints\\_en.xlsx
 
 ## Pharmacokinetic/pharmacodynamic relationship
 
@@ -302,7 +300,9 @@ Eravacycline is administered intravenously and therefore has 100% bioavailabilit
 
 The mean pharmacokinetic parameters of eravacycline after single and multiple intravenous infusions (60 minutes) of 1 mg/ kg administered to healthy adults every 12 hours are presented in Table 2.
 
-Table 3 Mean (%CV) plasma pharmacokinetic parameters of eravacycline after single and multiple intravenous infusions to healthy adults
+<div style=\"page-break-after: always\"></div>
+
+Table 2 Mean (%CV) plasma pharmacokinetic parameters of eravacycline after single and multiple intravenous infusions to healthy adults
 
 |                             |        | PK parameters arithmetic mean (%CV)   | PK parameters arithmetic mean (%CV)   | PK parameters arithmetic mean (%CV)   | PK parameters arithmetic mean (%CV)   |
 |-----------------------------|--------|---------------------------------------|---------------------------------------|---------------------------------------|---------------------------------------|
@@ -310,15 +310,9 @@ Table 3 Mean (%CV) plasma pharmacokinetic parameters of eravacycline after singl
 | 1.0 mg/kg intravenous every | Day 1  | 2125 (15)                             | 1.0 (1.0-1.0)                         | 4305 (14)                             | 9 (21)                                |
 | 12 hours (n=6)              | Day 10 | 1825 (16)                             | 1.0 (1.0-1.0)                         | 6309 (15)                             | 39 (32)                               |
 
-a Mean (range) represented
-
-b  AUC of Day 1 = AUC 0-12 after the first dose and AUC for Day 10 = steady state AUC0- 12
-
-<div style=\"page-break-after: always\"></div>
-
 ## Distribution
 
-The in vitro binding of eravacycline to human plasma proteins increases with increasing concentrations, with 79%, 86% and 90% (bound) at 0.1, 1 and10  g/mL, respectively. The mean (%CV) volume of distribution at steady-state in healthy normal volunteers following 1 mg/kg every 12h is approximately 321 L (6.35), which is greater than total body water.
+The in vitro binding of eravacycline to human plasma proteins increases with increasing concentrations, with 79%, 86% and 90% (bound) at 0.1, 1 and10 µ g/mL, respectively. The mean (%CV) volume of distribution at steady-state in healthy normal volunteers following 1 mg/kg every 12h is approximately 321 L (6.35), which is greater than total body water.
 
 ## Biotransformation
 
@@ -342,6 +336,8 @@ Eravacycline and its metabolites are not inhibitors of CYP1A2, CYP2B6, CYP2C8, C
 
 Eravacycline, TP-498 and TP-6208 are not inhibitors of BCRP, BSEP, OATP1B1, OATP1B3, OAT1, OAT3, OCT1, OCT2, MATE1 or MATE2-K transporters. The metabolites TP-498 and TP-6208 are not inhibitors of P-gp in vitro .
 
+<div style=\"page-break-after: always\"></div>
+
 ## Special populations
 
 ## Renal impairment
@@ -350,11 +346,7 @@ The geometric least square mean Cmax for eravacycline was increased by 8.8% for 
 
 ## Hepatic impairment
 
-The geometric mean Cmax for eravacycline was increased by 13.9%, 16.3%, and 19.7% for subjects with mild (Child-Pugh Class A), moderate (Child-Pugh Class B), and severe (Child-Pugh Class C) hepatic impairment versus healthy subjects, respectively. The geometric mean AUC0-inf for
-
-<div style=\"page-break-after: always\"></div>
-
-eravacycline was increased by 22.9%, 37.9%, and 110.3% for subjects with mild, moderate, and severe hepatic impairment versus healthy subjects, respectively.
+The geometric mean Cmax for eravacycline was increased by 13.9%, 16.3%, and 19.7% for subjects with mild (Child-Pugh Class A), moderate (Child-Pugh Class B), and severe (Child-Pugh Class C) hepatic impairment versus healthy subjects, respectively. The geometric mean AUC0-inf for eravacycline was increased by 22.9%, 37.9%, and 110.3% for subjects with mild, moderate, and severe hepatic impairment versus healthy subjects, respectively.
 
 ## Gender
 
@@ -363,6 +355,10 @@ In a population pharmacokinetic analysis of eravacycline, no clinically relevant
 ## Elderly (≥ 65 years)
 
 In a population pharmacokinetic analysis of eravacycline, no clinically relevant differences in the pharmacokinetics of eravacycline were observed with respect to age.
+
+## Paediatric population
+
+A popPK study was conducted. This was inconclusive and consequently the dose in children below 12 years / 50 kg could not be determined. Adolescents (12-17 years) weighing at least 50 kg are expected to have comparable exposure to adults when treated with 1 mg/kg every 12 hours.
 
 ## Body weight
 
@@ -376,7 +372,11 @@ Bone discolouration (in the absence of histological findings), which was not ful
 
 Intravenous administration of high doses of eravacycline has been associated with cutaneous responses (including hives, scratching, swelling, and/or skin erythema) in rat and dog studies.
 
-In fertility studies in male rats, eravacycline administered at about 5 times the clinical exposure (based on AUC), gave rise to a significantly reduced number of pregnancies. These findings were reversible following a 70-day (10-week) recovery period, equivalent to a spermatogenic cycle in the rat. Findings on the male reproductive organs were also observed in rats in the repeated dose toxicity studies for 14 days or 13 weeks at exposures more than 10- or 5-fold the clinical exposure based on AUC. The observations included degeneration of the seminiferous tubules, oligospermia, and cellular debris in the epididymides, spermatid retention in the seminiferous tubules, increase of spermatid head retention in Sertoli cells, and vacuolation of Sertoli cells and decreased sperm counts. No adverse effects on mating or fertility were observed in female rats.
+In fertility studies in male rats, eravacycline administered at about 5 times the clinical exposure (based on AUC), gave rise to a significantly reduced number of pregnancies. These findings were reversible following a 70-day (10-week) recovery period, equivalent to a spermatogenic cycle in the rat. Findings on the male reproductive organs were also observed in rats in the repeated dose toxicity studies for 14 days or 13 weeks at exposures more than 10- or 5-fold the clinical exposure based on AUC. The observations included degeneration of the seminiferous tubules, oligospermia, and cellular debris in the epididymides, spermatid retention in the seminiferous tubules, increase of spermatid head retention
+
+<div style=\"page-break-after: always\"></div>
+
+in Sertoli cells, and vacuolation of Sertoli cells and decreased sperm counts. No adverse effects on mating or fertility were observed in female rats.
 
 In embryo-foetal studies, no adverse effects were observed in rats at exposures comparable to clinical exposure or in rabbits at exposures 1.9-fold higher than the clinical exposure (based on AUC) in rats and rabbits respectively. Doses more than 2- or 4-fold higher than the clinical exposure (based on AUC) were associated with maternal toxicity (clinical observations and reduced body weight gain and food consumption), and reduced foetal body weights and delays in skeletal ossification in both species and abortion in the rabbit.
 
@@ -385,8 +385,6 @@ Animal studies indicate that eravacycline crosses the placenta and is found in f
 Eravacycline is not genotoxic. Carcinogenicity studies with eravacycline have not been conducted.
 
 Xerava may have the potential to be very persistent in freshwater sediment.
-
-<div style=\"page-break-after: always\"></div>
 
 ## 6. PHARMACEUTICAL PARTICULARS
 
@@ -400,17 +398,17 @@ This medicinal product must not be mixed with other medicinal products except th
 
 ## 6.3 Shelf life
 
-## 3 years
+3 years
 
 Chemical and physical in-use stability after reconstitution in the vial has been demonstrated for 1 hour at 25 °C.
 
-Chemical and physical in-use stability after dilution has been demonstrated for 72 hours at 2  C - 8  C and 12 hours at 25  C.
+Chemical and physical in-use stability after dilution has been demonstrated for 72 hours at 2 ° C - 8 ° C and 12 hours at 25 ° C.
 
-From a microbiological point of view, the product should be used immediately. If not used immediately, in-use storage times and conditions prior to use are the responsibility of the user and would normally not be longer than 72 hours at 2  C - 8  C, unless the method of reconstitution/dilution has taken place in controlled and validated aseptic conditions.
+From a microbiological point of view, the product should be used immediately. If not used immediately, in-use storage times and conditions prior to use are the responsibility of the user and would normally not be longer than 72 hours at 2 ° C - 8 ° C, unless the method of reconstitution/dilution has taken place in controlled and validated aseptic conditions.
 
 ## 6.4 Special precautions for storage
 
-Store in a refrigerator (2  C - 8  C). Keep the vial in the carton in order to protect from light.
+Store in a refrigerator (2 ° C - 8 ° C). Keep the vial in the carton in order to protect from light.
 
 For storage conditions after reconstitution and dilution of the medicinal product, see section 6.3.
 
@@ -419,6 +417,8 @@ For storage conditions after reconstitution and dilution of the medicinal produc
 10 mL Type I glass vial with chlorobutyl rubber stopper and aluminium cap.
 
 Pack sizes: 1 vial and multipacks containing 12 (12 packs of 1) vials.
+
+<div style=\"page-break-after: always\"></div>
 
 Not all pack sizes may be marketed.
 
@@ -436,38 +436,50 @@ The contents of the required number of vials should each be reconstituted with 5
 
 Reconstituted Xerava should be a clear, pale yellow to orange solution. The solution should not be used if any particles are noticed or the solution is cloudy.
 
-<div style=\"page-break-after: always\"></div>
-
 ## Preparation of the infusion solution
 
-For administration, the reconstituted solution must be further diluted using sodium chloride 9 mg/mL (0.9%) solution for injection. The calculated volume of the reconstituted solution should be added to the infusion bag to a target concentration of 0.3 mg/mL, within a range of 0.2 to 0.6 mg/mL. See example calculations in Table 3.
+For administration, the reconstituted solution must be further diluted using sodium chloride 9 mg/mL (0.9%) solution for injection. The calculated volume of the reconstituted solution should be added to the infusion bag to a target concentration of 0.3 mg/mL, within a range of 0.2 to 0.6 mg/mL. See example calculations in Table 3 (adults) and Table 4 (adolescents 12 - 17 years).
 
 Gently invert the bag to mix the solution.
 
-Table 4 Example calculations for weights ranging from 40 kg to 200 kg 1
+Table 3 Example calculations for adult patients weighing 40 kg to 200 kg 1
 
-|   Patient weight (kg) |   Total dose (mg) |   Number of vials to needed to reconstitute |   Total volume to be diluted (mL) | Recommended infusion bag size   |
-|-----------------------|-------------------|---------------------------------------------|-----------------------------------|---------------------------------|
-|                    40 |                40 |                                           1 |                                 4 | 100 mL                          |
-|                    60 |                60 |                                           2 |                                 6 | 250 mL                          |
-|                    80 |                80 |                                           2 |                                 8 | 250 mL                          |
-|                   100 |               100 |                                           2 |                                10 | 250 mL                          |
-|                   150 |               150 |                                           3 |                                15 | 500 mL                          |
-|                   200 |               200 |                                           4 |                                20 | 500 mL                          |
+|   Patient weight (kg) |   Total dose (mg) |   Number of vials to needed to reconstitute |   Total volume to be diluted (mL) |   Recommended infusion bag size (mL) |
+|-----------------------|-------------------|---------------------------------------------|-----------------------------------|--------------------------------------|
+|                    40 |                40 |                                           1 |                                 4 |                                  100 |
+|                    60 |                60 |                                           2 |                                 6 |                                  250 |
+|                    80 |                80 |                                           2 |                                 8 |                                  250 |
+|                   100 |               100 |                                           2 |                                10 |                                  250 |
+|                   150 |               150 |                                           3 |                                15 |                                  500 |
+|                   200 |               200 |                                           4 |                                20 |                                  500 |
 
-1 The exact dose needs to be calculated based on the specific patient weight.
-
-## For patients weighing ≥ 40 kg - 49 kg :
+## For adult patients weighing ≥ 40 kg - &lt; 50 kg :
 
 Calculate the required volume of the reconstituted solution based on the patient's weight and inject into a 100 mL infusion bag.
 
-## For patients weighing 50 kg - 100 kg :
+## For adult patients weighing 50 kg - 100 kg :
 
 Calculate the required volume of the reconstituted solution based on the patient's weight and inject into a 250 mL infusion bag.
 
-## For patients weighing &gt; 100 kg :
+## For adult patients weighing &gt; 100 kg :
 
 Calculate the required volume of the reconstituted solution based on the patient's weight and inject into a 500 mL infusion bag.
+
+<div style=\"page-break-after: always\"></div>
+
+Table 4 Example calculations for adolescent patients (12 - 17 years) weighing 50 kg to 90 kg 1
+
+|   Patient weight (kg) |   Total dose (mg) |   Number of vials to needed to reconstitute |   Total volume to be diluted (mL) |   Recommended infusion bag size (mL) |
+|-----------------------|-------------------|---------------------------------------------|-----------------------------------|--------------------------------------|
+|                    50 |                50 |                                           1 |                                 5 |                                  250 |
+|                    60 |                60 |                                           2 |                                 6 |                                  250 |
+|                    70 |                70 |                                           2 |                                 7 |                                  250 |
+|                    80 |                80 |                                           2 |                                 8 |                                  250 |
+|                    90 |                90 |                                           2 |                                 9 |                                  250 |
+
+For adolescent patients weighing 50 kg - 90 kg :
+
+Calculate the required volume of the reconstituted solution based on the patient's weight and inject into a 250 mL infusion bag.
 
 ## Infusion
 
@@ -483,23 +495,21 @@ If the same intravenous line is used for sequential infusion of several differen
 
 Any unused medicinal product or waste material should be disposed of in accordance with local requirements.
 
-<div style=\"page-break-after: always\"></div>
-
 ## 7. MARKETING AUTHORISATION HOLDER
 
 PAION Pharma GmbH Heussstraße 25 52078 Aachen Germany
 
 ## 8. MARKETING AUTHORISATION NUMBER(S)
 
-EU/1/18/1312/001
-
-EU/1/18/1312/002
+EU/1/18/1312/001 EU/1/18/1312/002
 
 ## 9. DATE OF FIRST AUTHORISATION/RENEWAL OF THE AUTHORISATION
 
 Date of first authorisation: 20 September 2018
 
 Date of latest renewal: 12 April 2023
+
+<div style=\"page-break-after: always\"></div>
 
 ## 10. DATE OF REVISION OF THE TEXT
 
@@ -529,7 +539,7 @@ Pale yellow to dark yellow cake.
 
 ## 4.1 Therapeutic indications
 
-Xerava is indicated for the treatment of complicated intra-abdominal infections (cIAI) in adults (see sections 4.4 and 5.1).
+Xerava is indicated in adolescents from the age of 12 years weighing at least 50 kg, and in adults, for the treatment of complicated intra-abdominal infections (cIAI) (see sections 4.4 and 5.1).
 
 Consideration should be given to official guidance on the appropriate use of antibacterial agents.
 
@@ -557,9 +567,11 @@ No dose adjustment is necessary in patients with hepatic impairment (see section
 
 ## Paediatric population
 
-The safety and efficacy of Xerava in children and adolescents less than 18 years of age have not been established. No data are available. Xerava should not be used in children aged under 8 years because of teeth discolouration (see sections 4.4 and 4.6).
+The safety and efficacy of Xerava in children less than 12 years of age or adolescents with body weight below 50 kg have not been established. Currently available data are described in section 4.8 but
 
 <div style=\"page-break-after: always\"></div>
+
+no recommendation on a posology can be made. Xerava should not be used in children aged under 8 years because of the risk of tooth discolouration (see sections 4.4 and 4.6).
 
 ## Method of administration
 
@@ -599,7 +611,7 @@ Pancreatitis has been reported with eravacycline and has been severe in some cas
 
 ## Paediatric population
 
-Xerava should not be used during tooth development (during the 2 nd and 3 rd trimester of pregnancy, and in children under 8 years of age) as it may cause permanent discolouration of the teeth (yellowgrey-brown) (see sections 4.2 and 4.6).
+Xerava should not be used during tooth development (during the 2 nd and 3 rd trimester of pregnancy, and in children under 8 years of age) as it may cause permanent discolouration of the teeth (yellowgrey-brown) (see section 4.6).
 
 ## Concomitant use of strong CYP3A4 inducers
 
@@ -710,6 +722,10 @@ Antibiotic class adverse reactions include pseudomembranous colitis, and overgro
 
 <div style=\"page-break-after: always\"></div>
 
+## Paediatric Population
+
+In a phase I study to determine the pharmacokinetics and the safety of a single dose of intravenous eravacycline in children aged 8 to less than 18 years (n= 19, with 10 less than 12 years old) the most frequently reported adverse reactions were nausea (26.3%), vomiting (15.8%), headache (15.8%), and hyperhidrosis (10.5%). In general, adverse reactions were mild or moderate in severity and similar to the adverse reactions observed in adults. Two events were assessed as severe including one event of anaphylactic reaction and one event of pleural effusion, which was also assessed as serious.
+
 ## Reporting of suspected adverse reactions
 
 Reporting suspected adverse reactions after authorisation of the medicinal product is important. It allows continued monitoring of the benefit/risk balance of the medicinal product. Healthcare professionals are asked to report any suspected adverse reactions via the national reporting system listed in Appendix V.
@@ -738,21 +754,13 @@ Resistance to eravacycline has been observed in Enterococcus harbouring mutation
 
 Other bacterial resistance mechanisms that could potentially affect eravacycline are associated with upregulated, non-specific intrinsic multidrug-resistant (MDR) efflux.
 
-## Susceptibility testing breakpoints
-
-Minimum inhibitory concentration (MIC) breakpoints established by the European Committee on Antimicrobial Susceptibility Testing (EUCAST) for eravacycline are:
-
 <div style=\"page-break-after: always\"></div>
 
-Table 2 Minimum inhibitory concentration breakpoints of eravacycline for different pathogens
+## Susceptibility testing breakpoints
 
-|                             | MIC breakpoints (µg/mL)   | MIC breakpoints (µg/mL)   |
-|-----------------------------|---------------------------|---------------------------|
-| Pathogen                    | Susceptible (S ≤)         | Resistant (R >)           |
-| Escherichia coli            | 0.5                       | 0.5                       |
-| Staphylococcus aureus       | 0.25                      | 0.25                      |
-| Enterococcus spp .          | 0.125                     | 0.125                     |
-| Viridans Streptococcus spp. | 0.125                     | 0.125                     |
+MIC (minimum inhibitory concentration) interpretive criteria for susceptibility testing have been established by the European Committee on Antimicrobial Susceptibility Testing (EUCAST) for eravacycline and are listed here:
+
+https://www.ema.europa.eu/documents/other/minimum-inhibitory-concentration-mic-breakpoints\\_en.xlsx
 
 ## Pharmacokinetic/pharmacodynamic relationship
 
@@ -769,7 +777,7 @@ Efficacy has been demonstrated in clinical trials against the pathogens listed f
 - Enterococcus faecium
 - Viridans Streptococcus spp.
 
-## Antibacterial activity against other relevant pathogens
+Antibacterial activity against other relevant pathogens
 
 In vitro data indicate that the following pathogen is not susceptible to eravacycline:
 
@@ -787,7 +795,7 @@ Eravacycline is administered intravenously and therefore has 100% bioavailabilit
 
 The mean pharmacokinetic parameters of eravacycline after single and multiple intravenous infusions (60 minutes) of 1 mg/ kg administered to healthy adults every 12 hours are presented in Table 2.
 
-Table 3 Mean (%CV) plasma pharmacokinetic parameters of eravacycline after single and multiple intravenous infusions to healthy adults
+Table 2 Mean (%CV) plasma pharmacokinetic parameters of eravacycline after single and multiple intravenous infusions to healthy adults
 
 |                             |        | PK parameters arithmetic mean (%CV)   | PK parameters arithmetic mean (%CV)   | PK parameters arithmetic mean (%CV)   | PK parameters arithmetic mean (%CV)   |
 |-----------------------------|--------|---------------------------------------|---------------------------------------|---------------------------------------|---------------------------------------|
@@ -795,15 +803,11 @@ Table 3 Mean (%CV) plasma pharmacokinetic parameters of eravacycline after singl
 | 1.0 mg/kg intravenous every | Day 1  | 2125 (15)                             | 1.0 (1.0-1.0)                         | 4305 (14)                             | 9 (21)                                |
 | 12 hours (n=6)              | Day 10 | 1825 (16)                             | 1.0 (1.0-1.0)                         | 6309 (15)                             | 39 (32)                               |
 
-a Mean (range) represented
-
-b  AUC of Day 1 = AUC 0-12 after the first dose and AUC for Day 10 = steady state AUC0- 12
-
 <div style=\"page-break-after: always\"></div>
 
 ## Distribution
 
-The in vitro binding of eravacycline to human plasma proteins increases with increasing concentrations, with 79%, 86% and 90% (bound) at 0.1, 1 and10  g/mL, respectively. The mean (%CV) volume of distribution at steady-state in healthy normal volunteers following 1 mg/kg every 12h is approximately 321 L (6.35), which is greater than total body water.
+The in vitro binding of eravacycline to human plasma proteins increases with increasing concentrations, with 79%, 86% and 90% (bound) at 0.1, 1 and10 µ g/mL, respectively. The mean (%CV) volume of distribution at steady-state in healthy normal volunteers following 1 mg/kg every 12h is approximately 321 L (6.35), which is greater than total body water.
 
 ## Biotransformation
 
@@ -849,6 +853,10 @@ In a population pharmacokinetic analysis of eravacycline, no clinically relevant
 
 In a population pharmacokinetic analysis of eravacycline, no clinically relevant differences in the pharmacokinetics of eravacycline were observed with respect to age.
 
+## Paediatric population
+
+A popPK study was conducted. This was inconclusive and consequently the dose in children below 12 years / 50 kg could not be determined. Adolescents (12-17 years) weighing at least 50 kg are expected to have comparable exposure to adults when treated with 1 mg/kg every 12 hours.
+
 ## Body weight
 
 In a population pharmacokinetic analysis it was shown that eravacycline disposition (clearance and volume) was dependent on body weight. However, the resulting difference in exposure to eravacycline in terms of AUC does not warrant dose adjustments in the weight range studied. No data are available for patients weighing more than 137 kg. The potential influence of severe obesity on eravacycline exposure has not been studied.
@@ -867,11 +875,11 @@ In embryo-foetal studies, no adverse effects were observed in rats at exposures 
 
 Animal studies indicate that eravacycline crosses the placenta and is found in foetal plasma. Eravacycline (and metabolites) is excreted in the milk of lactating rats.
 
+<div style=\"page-break-after: always\"></div>
+
 Eravacycline is not genotoxic. Carcinogenicity studies with eravacycline have not been conducted.
 
 Xerava may have the potential to be very persistent in freshwater sediment.
-
-<div style=\"page-break-after: always\"></div>
 
 ## 6. PHARMACEUTICAL PARTICULARS
 
@@ -885,17 +893,17 @@ This medicinal product must not be mixed with other medicinal products except th
 
 ## 6.3 Shelf life
 
-3 years
+## 3 years
 
 Chemical and physical in-use stability after reconstitution in the vial has been demonstrated for 1 hour at 25 °C.
 
-Chemical and physical in-use stability after dilution has been demonstrated for 72 hours at 2  C - 8  C and 12 hours at 25  C.
+Chemical and physical in-use stability after dilution has been demonstrated for 72 hours at 2 ° C - 8 ° C and 12 hours at 25 ° C.
 
-From a microbiological point of view, the product should be used immediately. If not used immediately, in-use storage times and conditions prior to use are the responsibility of the user and would normally not be longer than 72 hours at 2  C - 8  C, unless the method of reconstitution/dilution has taken place in controlled and validated aseptic conditions.
+From a microbiological point of view, the product should be used immediately. If not used immediately, in-use storage times and conditions prior to use are the responsibility of the user and would normally not be longer than 72 hours at 2 ° C - 8 ° C, unless the method of reconstitution/dilution has taken place in controlled and validated aseptic conditions.
 
 ## 6.4 Special precautions for storage
 
-Store in a refrigerator (2  C-8  C). Keep the vial in the carton in order to protect from light.
+Store in a refrigerator (2 ° C-8 ° C). Keep the vial in the carton in order to protect from light.
 
 For storage conditions after reconstitution and dilution of the medicinal product, see section 6.3.
 
@@ -917,46 +925,62 @@ Aseptic technique must be followed when preparing the infusion solution.
 
 ## Instructions for reconstitution
 
-The contents of the required number of vials should each be reconstituted with 5 mL water for injections or with 5 mL sodium chloride 9 mg/mL (0.9%) solution for injection, and swirled gently until the powder has dissolved entirely. Shaking or rapid movement should be avoided as it may cause foaming.
-
-Reconstituted Xerava should be a clear, pale yellow to orange solution. The solution should not be used if any particles are noticed or the solution is cloudy.
+The contents of the required number of vials should each be reconstituted with 5 mL water for injections or with 5 mL sodium chloride 9 mg/mL (0.9%) solution for injection, and swirled gently
 
 <div style=\"page-break-after: always\"></div>
 
+until the powder has dissolved entirely. Shaking or rapid movement should be avoided as it may cause foaming.
+
+Reconstituted Xerava should be a clear, pale yellow to orange solution. The solution should not be used if any particles are noticed or the solution is cloudy.
+
 ## Preparation of the infusion solution
 
-For administration, the reconstituted solution must be further diluted using sodium chloride 9 mg/mL (0.9%) solution for injection. The calculated volume of the reconstituted solution should be added to the infusion bag to a target concentration of 0.3 mg/mL, within a range of 0.2 to 0.6 mg/mL. See example calculations in Table 3.
+For administration, the reconstituted solution must be further diluted using sodium chloride 9 mg/mL (0.9%) solution for injection. The calculated volume of the reconstituted solution should be added to the infusion bag to a target concentration of 0.3 mg/mL, within a range of 0.2 to 0.6 mg/mL. See example calculations in Table 3 (adults) and Table 4 (adolescents 12 - 17 years).
 
 Gently invert the bag to mix the solution.
 
-Table 4 Example calculations for weights ranging from 40 kg to 200 kg 1
+Table 3  Example calculations for adult patients weighing 40 kg to 200 kg 1
 
-|   Patient weight (kg) |   Total dose (mg) |   Number of vials to needed to reconstitute |   Total volume to be diluted (mL) | Recommended infusion bag size   |
-|-----------------------|-------------------|---------------------------------------------|-----------------------------------|---------------------------------|
-|                    40 |                40 |                                           1 |                               2   | 100 mL                          |
-|                    60 |                60 |                                           1 |                               3   | 250 mL                          |
-|                    80 |                80 |                                           1 |                               4   | 250 mL                          |
-|                   100 |               100 |                                           1 |                               5   | 250 mL                          |
-|                   150 |               150 |                                           2 |                               7.5 | 500 mL                          |
-|                   200 |               200 |                                           2 |                              10   | 500 mL                          |
+|   Patient weight (kg) |   Total dose (mg) |   Number of vials to needed to reconstitute |   Total volume to be diluted (mL) |   Recommended infusion bag size (mL) |
+|-----------------------|-------------------|---------------------------------------------|-----------------------------------|--------------------------------------|
+|                    40 |                40 |                                           1 |                               2   |                                  100 |
+|                    60 |                60 |                                           1 |                               3   |                                  250 |
+|                    80 |                80 |                                           1 |                               4   |                                  250 |
+|                   100 |               100 |                                           1 |                               5   |                                  250 |
+|                   150 |               150 |                                           2 |                               7.5 |                                  500 |
+|                   200 |               200 |                                           2 |                              10   |                                  500 |
 
-1 The exact dose needs to be calculated based on the specific patient weight.
-
-## For patients weighing ≥ 40 kg - 49 kg :
+For adult patients weighing ≥ 40 kg - &lt; 50 kg :
 
 Calculate the required volume of the reconstituted solution based on the patient's weight and inject into a 100 mL infusion bag.
 
-## For patients weighing 50 kg - 100 kg :
+## For adult patients weighing 50 kg - 100 kg :
 
 Calculate the required volume of the reconstituted solution based on the patient's weight and inject into a 250 mL infusion bag.
 
-## For patients weighing &gt; 100 kg :
+## For adult patients weighing &gt; 100 kg :
 
 Calculate the required volume of the reconstituted solution based on the patient's weight and inject into a 500 mL infusion bag.
+
+Table 4 Example calculations for adolescent patients (12-17 years) weighing 50 kg to 90 kg 1
+
+|   Patient weight (kg) |   Total dose (mg) |   Number of vials to needed to reconstitute |   Total volume to be diluted (mL) |   Recommended infusion bag size (mL) |
+|-----------------------|-------------------|---------------------------------------------|-----------------------------------|--------------------------------------|
+|                    50 |                50 |                                           1 |                               2.5 |                                  250 |
+|                    60 |                60 |                                           1 |                               3   |                                  250 |
+|                    70 |                70 |                                           1 |                               3.5 |                                  250 |
+|                    80 |                80 |                                           1 |                               4   |                                  250 |
+|                    90 |                90 |                                           1 |                               4.5 |                                  250 |
+
+For adolescent patients weighing 50 kg - 90 kg :
+
+Calculate the required volume of the reconstituted solution based on the patient's weight and inject into a 250 mL infusion bag.
 
 ## Infusion
 
 The ready to use solution should be inspected visually for particulate matter prior to administration. Reconstituted and diluted solutions containing visible particles or that are cloudy in appearance should be discarded.
+
+<div style=\"page-break-after: always\"></div>
 
 Following dilution, Xerava is administered intravenously over approximately 1 hour.
 
@@ -967,8 +991,6 @@ If the same intravenous line is used for sequential infusion of several differen
 ## Disposal
 
 Any unused medicinal product or waste material should be disposed of in accordance with local requirements.
-
-<div style=\"page-break-after: always\"></div>
 
 ## 7. MARKETING AUTHORISATION HOLDER
 
@@ -1206,9 +1228,9 @@ Justification for not including Braille accepted.
 
 PC SN
 
-NN
-
 <div style=\"page-break-after: always\"></div>
+
+NN
 
 <div style=\"page-break-after: always\"></div>
 
@@ -1256,7 +1278,10 @@ EXP
 
 Store in a refrigerator. Keep the vial in the carton in order to protect from light.
 
-10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
+<div style=\"page-break-after: always\"></div>
+
+| 10.   | SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS ORWASTEMATERIALS DERIVEDFROMSUCH MEDICINAL PRODUCTS, IF APPROPRIATE   |
+|-------|-------------------------------------------------------------------------------------------------------------------------------------|
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
@@ -1271,9 +1296,7 @@ EU/1/18/1312/002
 Lot
 
 14. GENERAL CLASSIFICATION FOR SUPPLY
-
 15. INSTRUCTIONS ON USE
-
 16. INFORMATION IN BRAILLE
 
 Justification for not including Braille accepted.
@@ -1284,13 +1307,13 @@ Justification for not including Braille accepted.
 
 <div style=\"page-break-after: always\"></div>
 
-<div style=\"page-break-after: always\"></div>
-
 ## MINIMUM PARTICULARS TO APPEAR ON SMALL IMMEDIATE PACKAGING UNITS VIAL LABEL
 
 ## 1. NAME OF THE MEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION
 
-Xerava 50 mg powder for concentrate eravacycline IV after reconstitution and dilution
+Xerava 50 mg powder for concentrate eravacycline
+
+IV after reconstitution and dilution
 
 ## 2. METHOD OF ADMINISTRATION
 
@@ -1304,8 +1327,7 @@ Lot
 
 ## 5. CONTENTS BY WEIGHT, BY VOLUME OR BY UNIT
 
-| 6.   | OTHER   |
-|------|---------|
+## 6. OTHER
 
 <div style=\"page-break-after: always\"></div>
 
@@ -1369,7 +1391,7 @@ EU/1/18/1312/003 1 vial EU/1/18/1312/005 10 vials
 
 Lot
 
-## 14. GENERAL CLASSIFICATION FOR SUPPLY
+14. GENERAL CLASSIFICATION FOR SUPPLY
 
 15. INSTRUCTIONS ON USE
 
@@ -1515,7 +1537,10 @@ EXP
 
 Store in a refrigerator. Keep the vial in the carton in order to protect from light.
 
-10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
+<div style=\"page-break-after: always\"></div>
+
+| 10.   | SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS ORWASTEMATERIALS DERIVEDFROMSUCH MEDICINAL PRODUCTS, IF APPROPRIATE   |
+|-------|-------------------------------------------------------------------------------------------------------------------------------------|
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
@@ -1530,24 +1555,19 @@ EU/1/18/1312/004
 Lot
 
 14. GENERAL CLASSIFICATION FOR SUPPLY
-
 15. INSTRUCTIONS ON USE
-
 16. INFORMATION IN BRAILLE
 
 Justification for not including Braille accepted.
 
 17. UNIQUE IDENTIFIER - 2D BARCODE
 
-## 18. UNIQUE IDENTIFIER - HUMAN READABLE DATA
+| 18.   | UNIQUE IDENTIFIER - HUMANREADABLE DATA   |
+|-------|------------------------------------------|
 
 <div style=\"page-break-after: always\"></div>
 
-<div style=\"page-break-after: always\"></div>
-
-| MINIMUM PARTICULARS TO APPEAR ONSMALLIMMEDIATE PACKAGING UNITS   |
-|------------------------------------------------------------------|
-| VIAL LABEL                                                       |
+## MINIMUM PARTICULARS TO APPEAR ON SMALL IMMEDIATE PACKAGING UNITS VIAL LABEL
 
 ## 1. NAME OF THE MEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION
 
@@ -1559,13 +1579,11 @@ Xerava 100 mg powder for concentrate eravacycline IV after reconstitution and di
 
 EXP
 
-| 4.   | BATCH NUMBER   |
-|------|----------------|
+## 4. BATCH NUMBER
 
 Lot
 
-| 5.   | CONTENTS BY WEIGHT,BYVOLUMEORBYUNIT   |
-|------|---------------------------------------|
+## 5. CONTENTS BY WEIGHT, BY VOLUME OR BY UNIT
 
 | 6.   | OTHER   |
 |------|---------|
@@ -1578,9 +1596,7 @@ Lot
 
 ## Package leaflet: Information for the patient
 
-## Xerava 50 mg powder for concentrate for solution for infusion
-
-## eravacycline
+## Xerava 50 mg powder for concentrate for solution for infusion eravacycline
 
 ## Read all of this leaflet carefully before you receive this medicine because it contains important information for you.
 
@@ -1605,7 +1621,7 @@ Xerava is an antibiotic medicine that contains the active substance eravacycline
 
 ## What Xerava is used for
 
-Xerava is used to treat adults with a complicated infection in the abdomen.
+Xerava is used to treat adolescents from the age of 12 years weighing at least 50 kg, and adults, with a complicated infection in the abdomen.
 
 ## 2. What you need to know before you are given Xerava
 
@@ -1646,7 +1662,7 @@ Talk to your doctor if you have liver problems or if you are overweight, particu
 
 ## Children and adolescents
 
-This medicine should not be used in children and adolescents under the age of 18 years as it has not been studied enough in these populations. Xerava must not be used in children below 8 years of age because it can cause permanent effects on their teeth such as discolouration.
+This medicine should not be used in children under the age of 12 years or in adolescent weighing below 50 kg. Xerava must not be used in children below 8 years of age because it can cause permanent effects on their teeth such as discolouration.
 
 ## Other medicines and Xerava
 
@@ -1671,7 +1687,9 @@ Xerava may affect your ability to drive or use machines safely. Do not drive or 
 
 Xerava will be given to you by a doctor or nurse.
 
-The recommended dose for adults is based on body weight and is 1 mg/kg every 12 hours. Your doctor may increase your dose (1.5 mg/kg every 12 hours) if you are taking other medicines including rifampicin, phenobarbital, carbamazepine, phenytoin, or St. John's Wort.
+The recommended dose is based on body weight and is 1 mg/kg every 12 hours.
+
+Your doctor may increase your dose (1.5 mg/kg every 12 hours) if you are taking other medicines including rifampicin, phenobarbital, carbamazepine, phenytoin, or St. John's Wort.
 
 It will be given to you through a drip directly into a vein (intravenously) over approximately 1 hour.
 
@@ -1748,6 +1766,8 @@ Once the powder has been made into a solution and diluted ready for use, it shou
 
 Reconstituted Xerava should be a clear, pale yellow to orange solution. The solution should not be used if it appears to contain any particles or the solution is cloudy.
 
+Do not throw away any medicines via wastewater or household waste. Ask your pharmacist how to throw away medicines you no longer use. These measures will help protect the environment.
+
 ## 6. Contents of the pack and other information
 
 ## What Xerava contains
@@ -1757,9 +1777,11 @@ Reconstituted Xerava should be a clear, pale yellow to orange solution. The solu
 
 ## What Xerava looks like and contents of the pack
 
-Xerava is a pale yellow to dark yellow cake in a 10 mL glass vial. The powder for concentrate for solution for infusion (powder for concentrate) will be reconstituted in the vial with 5 mL of water for injections. The reconstituted solution will be withdrawn from the vial and added to an infusion bag of sodium chloride 9 mg/mL (0.9%) solution for injection in the hospital.
+Xerava is a pale yellow to dark yellow cake in a 10 mL glass vial. The powder for concentrate for solution for infusion (powder for concentrate) will be reconstituted in the vial with 5 mL of water for
 
 <div style=\"page-break-after: always\"></div>
+
+injections. The reconstituted solution will be withdrawn from the vial and added to an infusion bag of sodium chloride 9 mg/mL (0.9%) solution for injection in the hospital.
 
 Xerava is available in packs containing 1 vial or multipacks comprising 12 cartons, each containing 1 vial.
 
@@ -1775,26 +1797,26 @@ Patheon Italia S.p.A. 2° Trav. SX. Via Morolense, 5 03013 Ferentino (FR) Italy
 
 For any information about this medicine, please contact the local representative of the Marketing Authorisation Holder:
 
-| België/Belgique/Belgien Viatris Tél/Tel: + 32 (0)2 658 61 00   | Lietuva PAION Pharma GmbH Tel: + 49 800 4453 4453                  |
-|----------------------------------------------------------------|--------------------------------------------------------------------|
-| България PAION Pharma GmbH Teл.: + 49 800 4453 4453            | Luxembourg/Luxemburg PAION Pharma GmbH Tél/Tel: + 49 800 4453 4453 |
-| Česká republika PAION Pharma GmbH Tel: + 49 800 4453 4453      | Magyarország PAION Pharma GmbH Tel.: + 49 800 4453 4453            |
-| Danmark PAION Pharma GmbH Tlf: + 49 800 4453 4453              | Malta PAION Pharma GmbH Tel: + 49 800 4453 4453                    |
-| Deutschland PAION Pharma GmbH Tel: + 49 800 4453 4453          | Nederland PAION Pharma GmbH Tel: + 49 800 4453 4453                |
-| Eesti PAION Pharma GmbH Tel: + 49 800 4453 4453                | Norge PAION Pharma GmbH Tlf: + 49 800 4453 4453                    |
-| Ελλάδα Viatris Hellas Ltd Τηλ: +30 210 0100002                 | Österreich PAION Pharma GmbH Tel: + 49 800 4453 4453               |
-| España Viatris Pharmaceuticals, S.L. Tel: + 34 900 102 712     | Polska Viatris Healthcare Sp. z o.o. Tel.: + 48 22 546 64 00       |
-| France Viatris Santé Tél: +33 4 37 25 75 00                    | Portugal PAION Pharma GmbH Tel: + 49 800 4453 4453                 |
+| België/Belgique/Belgien Viatris Tél/Tel: + 32 (0)2 658 61 00   | Lietuva PAION Pharma GmbH Tel: + 800 4453 4453                  |
+|----------------------------------------------------------------|-----------------------------------------------------------------|
+| България PAION Pharma GmbH Teл.: + 800 4453 4453               | Luxembourg/Luxemburg PAION Pharma GmbH Tél/Tel: + 800 4453 4453 |
+| Česká republika PAION Pharma GmbH Tel: + 800 4453 4453         | Magyarország PAION Pharma GmbH Tel.: + 800 4453 4453            |
+| Danmark PAION Pharma GmbH Tlf: + 800 4453 4453                 | Malta PAION Pharma GmbH Tel: + 800 4453 4453                    |
+| Deutschland PAION Pharma GmbH Tel: + 800 4453 4453             | Nederland PAION Pharma GmbH Tel: + 800 4453 4453                |
+| Eesti PAION Pharma GmbH Tel: + 800 4453 4453                   | Norge PAION Pharma GmbH Tlf: + 800 4453 4453                    |
+| Ελλάδα Viatris Hellas Ltd Τηλ: +30 210 0100002                 | Österreich PAION Pharma GmbH Tel: + 800 4453 4453               |
+| España Viatris Pharmaceuticals, S.L. Tel: + 34 900 102 712     | Polska Viatris Healthcare Sp. z o.o. Tel.: + 48 22 546 64 00    |
 
 <div style=\"page-break-after: always\"></div>
 
-| Hrvatska PAION Pharma GmbH Tel: + 49 800 4453 4453   | România BGP Products SRL Tel: +40 372 579 000                               |
-|------------------------------------------------------|-----------------------------------------------------------------------------|
-| Ireland PAION Pharma GmbH Tel: + 49 800 4453 4453    | Slovenija PAION Pharma GmbH Tel: + 49 800 4453 4453                         |
-| Ísland PAION Pharma GmbH Sími: + 49 800 4453 4453    | Slovenská republika PAION Pharma GmbH Tel: + 49 800 4453 4453               |
-| Italia Viatris Italia S.r.l. Tel: + 39 02 612 46921  | Suomi/Finland PAION Pharma GmbH Puh/Tel: + 49 800 4453 4453                 |
-| Κύπρος PAION Pharma GmbH Τηλ: + 49 800 4453 4453     | Sverige PAION Pharma GmbH Tel: + 49 800 4453 4453                           |
-| Latvija PAION Pharma GmbH Tel: + 49 800 4453 4453    | United Kingdom (Northern Ireland) PAION Pharma GmbH Tel: + 49 800 4453 4453 |
+| France Viatris Santé Tél: +33 4 37 25 75 00         | Portugal PAION Pharma GmbH Tel: + 800 4453 4453            |
+|-----------------------------------------------------|------------------------------------------------------------|
+| Hrvatska PAION Pharma GmbH Tel: + 800 4453 4453     | România BGP Products SRL Tel: +40 372 579 000              |
+| Ireland PAION Pharma GmbH Tel: + 800 4453 4453      | Slovenija PAION Pharma GmbH Tel: + 800 4453 4453           |
+| Ísland PAION Pharma GmbH Sími: + 800 4453 4453      | Slovenská republika PAION Pharma GmbH Tel: + 800 4453 4453 |
+| Italia Viatris Italia S.r.l. Tel: + 39 02 612 46921 | Suomi/Finland PAION Pharma GmbH Puh/Tel: + 800 4453 4453   |
+| Κύπρος PAION Pharma GmbH Τηλ: + 800 4453 4453       | Sverige PAION Pharma GmbH Tel: + 800 4453 4453             |
+| Latvija PAION Pharma GmbH Tel: + 800 4453 4453      |                                                            |
 
 ## This leaflet was last revised in .
 
@@ -1822,38 +1844,52 @@ Reconstituted Xerava should be a clear, pale yellow to orange solution. The solu
 
 ## Preparation of the infusion solution
 
-For administration, the reconstituted solution must be further diluted using sodium chloride 9 mg/mL (0.9%) solution for injection. The calculated volume of the reconstituted solution should be added to the infusion bag to a target concentration of 0.3 mg/mL, within a range of 0.2 to 0.6 mg/mL. See example calculations in Table 1.
+For administration, the reconstituted solution must be further diluted using sodium chloride 9 mg/mL (0.9%) solution for injection. The calculated volume of the reconstituted solution should be added to the infusion bag to a target concentration of 0.3 mg/mL, within a range of 0.2 to 0.6 mg/mL. See example calculations in Table 1 (adults) and Table 2 (adolescents 12 - 17 years weighing at least 50 kg).
 
 Gently invert the bag to mix the solution.
 
-Table 1 Example calculations for weights ranging from 40 kg to 200 kg 1
+Table 1 Example calculations for adult patients weighing 40 kg to 200 kg 1
 
-|   Patient weight (kg) |   Total Dose (mg) |   Number of vials to reconstitute |   Total volume to be diluted (mL) | Recommended infusion bag size   |
-|-----------------------|-------------------|-----------------------------------|-----------------------------------|---------------------------------|
-|                    40 |                40 |                                 1 |                                 4 | 100 mL                          |
-|                    60 |                60 |                                 2 |                                 6 | 250 mL                          |
-|                    80 |                80 |                                 2 |                                 8 | 250 mL                          |
-|                   100 |               100 |                                 2 |                                10 | 250 mL                          |
-|                   150 |               150 |                                 3 |                                15 | 500 mL                          |
-|                   200 |               200 |                                 4 |                                20 | 500 mL                          |
+|   Patient weight (kg) |   Total Dose (mg) |   Number of vials to reconstitute |   Total volume to be diluted (mL) |   Recommended infusion bag size (mL) |
+|-----------------------|-------------------|-----------------------------------|-----------------------------------|--------------------------------------|
+|                    40 |                40 |                                 1 |                                 4 |                                  100 |
+|                    60 |                60 |                                 2 |                                 6 |                                  250 |
+|                    80 |                80 |                                 2 |                                 8 |                                  250 |
+|                   100 |               100 |                                 2 |                                10 |                                  250 |
+|                   150 |               150 |                                 3 |                                15 |                                  500 |
+|                   200 |               200 |                                 4 |                                20 |                                  500 |
 
-1 The exact dose needs to be calculated based on the specific patient weight.
-
-For patients weighing ≥ 40 kg - 49 kg :
+For adult patients weighing ≥ 40 kg - &lt; 50 kg :
 
 Calculate the required volume of the reconstituted solution based on the patient's weight and inject into a 100 mL infusion bag.
 
-For patients weighing 50 kg - 100 kg :
+For adult patients weighing 50 kg - 100 kg :
 
 Calculate the required volume of the reconstituted solution based on the patient's weight and inject into a 250 mL infusion bag.
 
-For patients weighing &gt; 100 kg :
+For adult patients weighing &gt; 100 kg :
 
 Calculate the required volume of the reconstituted solution based on the patient's weight and inject into a 500 mL infusion bag.
+
+Table 2 Example calculations for adolescent patients (12 - 17 years) weighing 50 kg to 90 kg 1
+
+|   Patient weight (kg) |   Total dose (mg) |   Number of vials to reconstitute |   Total volume to be diluted (mL) |   Recommended infusion bag size (mL) |
+|-----------------------|-------------------|-----------------------------------|-----------------------------------|--------------------------------------|
+|                    50 |                50 |                                 1 |                                 5 |                                  250 |
+|                    60 |                60 |                                 2 |                                 6 |                                  250 |
+|                    70 |                70 |                                 2 |                                 7 |                                  250 |
+|                    80 |                80 |                                 2 |                                 8 |                                  250 |
+|                    90 |                90 |                                 2 |                                 9 |                                  250 |
+
+For adolescent patients weighing 50 kg - 90 kg :
+
+Calculate the required volume of the reconstituted solution based on the patient's weight and inject into a 250 mL infusion bag.
 
 ## Infusion
 
 The infusion solution should be inspected visually for particulate matter prior to administration. Reconstituted and diluted solutions containing visible particles or that are cloudy in appearance should be discarded.
+
+<div style=\"page-break-after: always\"></div>
 
 Following dilution, Xerava is administered intravenously over approximately 1 hour. The recommended dose regimen of Xerava is 1 mg/kg every 12 hours for 4 to 14 days.
 
@@ -1867,7 +1903,7 @@ For single use only, any unused solution should be discarded.
 
 ## Xerava 100 mg powder for concentrate for solution for infusion eravacycline
 
-## Read all of this leaflet carefully before you receive this medicine because it contains important information for you.
+Read all of this leaflet carefully before you receive this medicine because it contains important information for you.
 
 - -Keep this leaflet. You may need to read it again.
 - -If you have any further questions, ask your doctor or nurse.
@@ -1890,7 +1926,7 @@ Xerava is an antibiotic medicine that contains the active substance eravacycline
 
 ## What Xerava is used for
 
-Xerava is used to treat adults with a complicated infection in the abdomen.
+Xerava is used to treat adolescents from the age of 12 years weighing at least 50 kg, and adults, with a complicated infection in the abdomen.
 
 ## 2. What you need to know before you are given Xerava
 
@@ -1931,7 +1967,7 @@ Talk to your doctor if you have liver problems or if you are overweight, particu
 
 ## Children and adolescents
 
-This medicine should not be used in children and adolescents under the age of 18 years as it has not been studied enough in these populations. Xerava must not be used in children below 8 years of age because it can cause permanent effects on their teeth such as discolouration.
+This medicine should not be used in children under the age of 12 years or in adolescent weighing below 50 kg. Xerava must not be used in children below 8 years of age because it can cause permanent effects on their teeth such as discolouration.
 
 ## Other medicines and Xerava
 
@@ -1956,7 +1992,9 @@ Xerava may affect your ability to drive or use machines safely. Do not drive or 
 
 Xerava will be given to you by a doctor or nurse.
 
-The recommended dose for adults is based on body weight and is 1 mg/kg every 12 hours. Your doctor may increase your dose (1.5 mg/kg every 12 hours) if you are taking other medicines including rifampicin, phenobarbital, carbamazepine, phenytoin, or St. John's Wort.
+The recommended dose is based on body weight and is 1 mg/kg every 12 hours.
+
+Your doctor may increase your dose (1.5 mg/kg every 12 hours) if you are taking other medicines including rifampicin, phenobarbital, carbamazepine, phenytoin, or St. John's Wort.
 
 It will be given to you through a drip directly into a vein (intravenously) over approximately 1 hour.
 
@@ -2033,6 +2071,8 @@ Once the powder has been made into a solution and diluted ready for use, it shou
 
 Reconstituted Xerava should be a clear, pale yellow to orange solution. The solution should not be used if it appears to contain any particles or the solution is cloudy.
 
+Do not throw away any medicines via wastewater or household waste. Ask your pharmacist how to throw away medicines you no longer use. These measures will help protect the environment.
+
 ## 6. Contents of the pack and other information
 
 ## What Xerava contains
@@ -2042,9 +2082,11 @@ Reconstituted Xerava should be a clear, pale yellow to orange solution. The solu
 
 ## What Xerava looks like and contents of the pack
 
-Xerava is a pale yellow to dark yellow cake in a 10 mL glass vial. The powder for concentrate for solution for infusion (powder for concentrate) will be reconstituted in the vial with 5 mL of water for injections or with 5 mL sodium chloride 9 mg/mL (0.9%) solution for injection. The reconstituted solution will be withdrawn from the vial and added to an infusion bag of sodium chloride 9 mg/mL (0.9%) solution for injection in the hospital.
+Xerava is a pale yellow to dark yellow cake in a 10 mL glass vial. The powder for concentrate for solution for infusion (powder for concentrate) will be reconstituted in the vial with 5 mL of water for injections or with 5 mL sodium chloride 9 mg/mL (0.9%) solution for injection. The reconstituted
 
 <div style=\"page-break-after: always\"></div>
+
+solution will be withdrawn from the vial and added to an infusion bag of sodium chloride 9 mg/mL (0.9%) solution for injection in the hospital.
 
 Xerava is available in packs containing 1 vial, 10 vials or multipacks comprising 12 cartons, each containing 1 vial.
 
@@ -2062,27 +2104,26 @@ PAION Deutschland GmbH Heussstraße 25 52078 Aachen Germany
 
 For any information about this medicine, please contact the local representative of the Marketing Authorisation Holder:
 
-| België/Belgique/Belgien Viatris Tél/Tel: + 32 (0)2 658 61 00   | Lietuva PAION Pharma GmbH Tel: + 49 800 4453 4453                  |
-|----------------------------------------------------------------|--------------------------------------------------------------------|
-| България PAION Pharma GmbH Teл.: + 49 800 4453 4453            | Luxembourg/Luxemburg PAION Pharma GmbH Tél/Tel: + 49 800 4453 4453 |
-| Česká republika PAION Pharma GmbH Tel: + 49 800 4453 4453      | Magyarország PAION Pharma GmbH Tel.: + 49 800 4453 4453            |
-| Danmark PAION Pharma GmbH Tlf: + 49 800 4453 4453              | Malta PAION Pharma GmbH Tel: + 49 800 4453 4453                    |
-| Deutschland PAION Pharma GmbH Tel: + 49 800 4453 4453 Eesti    | Nederland PAION Pharma GmbH Tel: + 49 800 4453 4453 Norge          |
-| PAION Pharma GmbH Tel: + 49 800 4453 4453 Ελλάδα               | PAION Pharma GmbH Tlf: + 49 800 4453 4453 Österreich               |
-| Viatris Hellas Ltd Τηλ: +30 210 0100002                        | PAION Pharma GmbH Tel: + 49 800 4453 4453                          |
+| België/Belgique/Belgien Viatris Tél/Tel: + 32 (0)2 658 61 00   | Lietuva PAION Pharma GmbH Tel: + 800 4453 4453                  |
+|----------------------------------------------------------------|-----------------------------------------------------------------|
+| България PAION Pharma GmbH Teл.: + 800 4453 4453               | Luxembourg/Luxemburg PAION Pharma GmbH Tél/Tel: + 800 4453 4453 |
+| Česká republika PAION Pharma GmbH Tel: + 800 4453 4453         | Magyarország PAION Pharma GmbH Tel.: + 800 4453 4453            |
+| Danmark PAION Pharma GmbH Tlf: + 800 4453 4453                 | Malta PAION Pharma GmbH Tel: + 800 4453 4453                    |
+| Deutschland PAION Pharma GmbH Tel: + 800 4453 4453             | Nederland PAION Pharma GmbH Tel: + 800 4453 4453                |
+| Eesti PAION Pharma GmbH Tel: + 800 4453 4453                   | Norge PAION Pharma GmbH Tlf: + 800 4453 4453                    |
 
 <div style=\"page-break-after: always\"></div>
 
-| España Viatris                                           | Polska                                                                      |
-|----------------------------------------------------------|-----------------------------------------------------------------------------|
-| Pharmaceuticals, S.L. Tel: + 34 900 102 712              | Viatris Healthcare Sp. z o.o. Tel.: + 48 22 546 64 00                       |
-| France Viatris Santé Tél: +33 4 37 25 75 00              | Portugal PAION Pharma GmbH Tel: + 49 800 4453 4453                          |
-| Hrvatska PAION Pharma GmbH Tel: + 49 800 4453 4453       | România BGP Products SRL Tel: +40 372 579 000                               |
-| Ireland PAION Pharma GmbH Tel: + 49 800 4453 4453 Ísland | Slovenija PAION Pharma GmbH Tel: + 49 800 4453 4453 Slovenská republika     |
-| PAION Pharma GmbH Sími: + 49 800 4453 4453               | PAION Pharma GmbH Tel: + 49 800 4453 4453                                   |
-| Italia Viatris Italia S.r.l. Tel: + 39 02 612 46921      | Suomi/Finland PAION Pharma GmbH Puh/Tel: + 49 800 4453 4453 Sverige         |
-| Κύπρος PAION Pharma GmbH Τηλ: + 49 800 4453 4453         | PAION Pharma GmbH Tel: + 49 800 4453 4453                                   |
-| Latvija PAION Pharma GmbH Tel: + 49 800 4453 4453        | United Kingdom (Northern Ireland) PAION Pharma GmbH Tel: + 49 800 4453 4453 |
+| Ελλάδα Viatris Hellas Ltd Τηλ: +30 210 0100002                          | Österreich PAION Pharma GmbH Tel: + 800 4453 4453                                                       |
+|-------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------|
+| España Viatris Pharmaceuticals, S.L. Tel: + 34 900 102 712              | Polska Viatris Healthcare Sp. z o.o. Tel.: + 48 22 546 64 00                                            |
+| France Viatris Santé Tél: +33 4 37 25 75 00                             | Portugal PAION Pharma GmbH Tel: + 800 4453 4453                                                         |
+| Hrvatska PAION Pharma GmbH Tel: + 800 4453 4453                         | România BGP Products SRL Tel: +40 372 579 000                                                           |
+| Ireland PAION Pharma GmbH Tel: + 800 4453 4453                          | Slovenija PAION Pharma GmbH Tel: + 800 4453 4453                                                        |
+| Ísland PAION Pharma GmbH Sími: + 800 4453 4453                          | Slovenská republika PAION Pharma GmbH Tel: + 800 4453 4453                                              |
+| Italia Viatris Italia S.r.l. Tel: + 39 02 612 46921                     | Suomi/Finland PAION Pharma GmbH Puh/Tel: + 800 4453 4453 Sverige PAION Pharma GmbH Tel: + 800 4453 4453 |
+| Κύπρος PAION Pharma GmbH Τηλ: + 800 4453 4453 Latvija PAION Pharma GmbH |                                                                                                         |
+| Tel: + 800 4453 4453                                                    |                                                                                                         |
 
 ## This leaflet was last revised in .
 
@@ -2110,34 +2151,48 @@ Reconstituted Xerava should be a clear, pale yellow to orange solution. The solu
 
 ## Preparation of the infusion solution
 
-For administration, the reconstituted solution must be further diluted using sodium chloride 9 mg/mL (0.9%) solution for injection. The calculated volume of the reconstituted solution should be added to the infusion bag to a target concentration of 0.3 mg/mL, within a range of 0.2 to 0.6 mg/mL. See example calculations in Table 1.
+For administration, the reconstituted solution must be further diluted using sodium chloride 9 mg/mL (0.9%) solution for injection. The calculated volume of the reconstituted solution should be added to the infusion bag to a target concentration of 0.3 mg/mL, within a range of 0.2 to 0.6 mg/mL. See example calculations in Table 1 (adults) and Table 2 (adolescents 12 - 17 years weighing at least 50 kg).
 
 Gently invert the bag to mix the solution.
 
-Table 1 Example calculations for weights ranging from 40 kg to 200 kg 1
+Table 1 Example calculations for adult patients weighing 40 kg to 200 kg 1
 
-|   Patient weight (kg) |   Total Dose (mg) |   Number of vials to reconstitute |   Total volume to be diluted (mL) | Recommended infusion bag size   |
-|-----------------------|-------------------|-----------------------------------|-----------------------------------|---------------------------------|
-|                    40 |                40 |                                 1 |                               2   | 100 mL                          |
-|                    60 |                60 |                                 1 |                               3   | 250 mL                          |
-|                    80 |                80 |                                 1 |                               4   | 250 mL                          |
-|                   100 |               100 |                                 1 |                               5   | 250 mL                          |
-|                   150 |               150 |                                 2 |                               7.5 | 500 mL                          |
-|                   200 |               200 |                                 2 |                              10   | 500 mL                          |
+|   Patient weight (kg) |   Total Dose (mg) |   Number of vials to reconstitute |   Total volume to be diluted (mL) |   Recommended infusion bag size (mL) |
+|-----------------------|-------------------|-----------------------------------|-----------------------------------|--------------------------------------|
+|                    40 |                40 |                                 1 |                               2   |                                  100 |
+|                    60 |                60 |                                 1 |                               3   |                                  250 |
+|                    80 |                80 |                                 1 |                               4   |                                  250 |
+|                   100 |               100 |                                 1 |                               5   |                                  250 |
+|                   150 |               150 |                                 2 |                               7.5 |                                  500 |
+|                   200 |               200 |                                 2 |                              10   |                                  500 |
 
-1 The exact dose needs to be calculated based on the specific patient weight.
-
-For patients weighing ≥ 40 kg - 49 kg :
+For adult patients weighing ≥ 40 kg - &lt; 50 kg :
 
 Calculate the required volume of the reconstituted solution based on the patient's weight and inject into a 100 mL infusion bag.
 
-For patients weighing 50 kg - 100 kg :
+## For adult patients weighing 50 kg - 100 kg :
 
 Calculate the required volume of the reconstituted solution based on the patient's weight and inject into a 250 mL infusion bag.
 
-For patients weighing &gt; 100 kg :
+For adult patients weighing &gt; 100 kg :
 
 Calculate the required volume of the reconstituted solution based on the patient's weight and inject into a 500 mL infusion bag.
+
+Table 2  Example calculations for adolescent patients (12 - 17 years) weighing 50 kg to 90 kg 1
+
+|   Patient weight (kg) |   Total dose (mg) |   Number of vials to reconstitute |   Total volume to be diluted (mL) |   Recommended infusion bag size (mL) |
+|-----------------------|-------------------|-----------------------------------|-----------------------------------|--------------------------------------|
+|                    50 |                50 |                                 1 |                               2.5 |                                  250 |
+|                    60 |                60 |                                 1 |                               3   |                                  250 |
+|                    70 |                70 |                                 1 |                               3.5 |                                  250 |
+|                    80 |                80 |                                 1 |                               4   |                                  250 |
+|                    90 |                90 |                                 1 |                               4.5 |                                  250 |
+
+<div style=\"page-break-after: always\"></div>
+
+## For adolescent patients weighing 50 kg - 90 kg :
+
+Calculate the required volume of the reconstituted solution based on the patient's weight and inject into a 250 mL infusion bag.
 
 ## Infusion
 

@@ -1,20 +1,20 @@
 ---
-document_datetime: 2024-10-07 10:46:35
+document_datetime: 2026-02-05 14:03:14
 document_pages: 42
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/yuvanci-epar-product-information_en.pdf
 document_name: yuvanci-epar-product-information_en.pdf
 version: success
-processing_time: 9.5984728
-conversion_datetime: 2025-12-17 22:42:28.553853
+processing_time: 8.8691375
+conversion_datetime: 2026-02-09 22:12:53.138143
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.64.1
-  docling-core: 2.55.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.12.0
+  docling-jobkit: 1.10.1
+  docling: 2.72.0
+  docling-core: 2.63.0
+  docling-ibm-models: 3.11.0
+  docling-parse: 4.7.3
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.1-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
 ---
 ## ANNEX I
 
@@ -73,7 +73,7 @@ Posology
 The recommended dose of Yuvanci is one 10 mg/40 mg tablet taken orally once daily.
 
 -  For patients who are currently treated with 10 mg macitentan and 40 mg tadalafil as separate tablets use Yuvanci 10 mg/40 mg tablet
--  For patients who are currently treated with 10 mg macitentan and 20 mg tadalafil as separate tablets use Yuvanci 10 mg/20 mg tablet. The dose may be increased to 10/40 mg once per day, based on tolerability.
+-  For patients who are currently treated with 10 mg macitentan and 20 mg tadalafil as separate tablets use Yuvanci 10 mg/20 mg tablet. The dose may be increased to 10 mg/40 mg once per day, based on tolerability.
 
 Yuvanci should be taken every day at about the same time .
 
@@ -203,7 +203,7 @@ Effects of other medicinal products on Yuvanci
 
 Potent inducers of CYP3A4 including rifampicin, St. John's wort, carbamazepine, and phenytoin may reduce the efficacy of Yuvanci. The concomitant use of Yuvanci should be avoided.
 
-Rifampicin (600 mg daily) reduced the steady-state exposure to macitentan by 79% but did not affect the exposure to the active metabolite.
+Rifampicin (600 mg daily) reduced the steady-state exposure to macitentan by 79% but did not affect the exposure to the active metabolite aprocitentan.
 
 Rifampicin (600 mg daily), reduced tadalafil AUC by 88% and Cmax by 46%, relative to the AUC and Cmax values for tadalafil alone (10 mg).
 
@@ -337,15 +337,15 @@ Yuvanci has minor influence on the ability to drive and use machines. However, u
 
 ## Summary of the safety profile
 
-The most common adverse reactions (occurring in the Yuvanci treated patients) from the combined double-blind / open-label A DUE study data were anaemia/haemoglobin decrease (22.2%), oedema/fluid retention (17.3%), and headache (14.1%). In this study, the most common serious adverse event was anaemia (1.1% or 2 patients), followed by palpitations, hypotension, intermenstrual bleeding, oedema/fluid retention and influenza, each reported in 1 patient (0.5%)
+The most common adverse reactions (occurring in the Yuvanci treated patients) from the combined double-blind / open-label A DUE study data were anaemia/haemoglobin decrease (24.9%), oedema/fluid retention (18.4%), and headache (15.1%). Based on the identified adverse reaction terms for Yuvanci, macitentan, and tadalafil, the most common treatment-emergent serious adverse events in the combined double-blind and open-label period were bronchitis reported in 3 (1.6%) patients, anaemia and palpitations each reported in 2 patients (1.1%), migraine, hypotension, intermenstrual bleeding, oedema/fluid retention and influenza, each reported in 1 patient (0.5%).
 
 ## Tabulated list of adverse reactions
 
-The safety profile presented below is based on data for Yuvanci and the known safety profile of the individual components macitentan and tadalafil.
-
 <div style=\"page-break-after: always\"></div>
 
-The safety data for Yuvanci was obtained from a double-blind, active controlled, Phase 3 clinical study (A DUE) and an open-label extension in patients with PAH.  The total number of patients receiving Yuvanci was 185 patients with a median exposure to Yuvanci of 59.9 weeks.
+The safety profile presented below is based on data for Yuvanci and the known safety profile of the individual components macitentan and tadalafil.
+
+The safety data for Yuvanci was obtained from a double-blind, active controlled, Phase 3 clinical study (A DUE) and an open-label extension in patients with PAH.  The total number of patients receiving Yuvanci was 185 patients with a median exposure to Yuvanci of 105.1 weeks.
 
 Known adverse reactions for macitentan and tadalafil which have not been observed in the A DUE study, are included in table 1 based on the prescribing information for the individual components macitentan and tadalafil.
 
@@ -366,7 +366,7 @@ Table 1: Adverse reactions in patients with PAH treated with Yuvanci, macitentan
 | Immune system disorders              | Hypersensitivity a (including Pruritus d )                  | Common        |
 | Immune system disorders              | Angioedema a                                                | Common        |
 | Nervous system disorders             | Headache                                                    | Very common   |
-| Nervous system disorders             | Syncope                                                     | Very common   |
+| Nervous system disorders             | Syncope                                                     | Common        |
 | Nervous system disorders             | Migraine a                                                  | Common        |
 | Nervous system disorders             | Seizure e                                                   | Uncommon      |
 | Nervous system disorders             | Transient amnesia e                                         | Uncommon      |
@@ -383,40 +383,40 @@ Table 1: Adverse reactions in patients with PAH treated with Yuvanci, macitentan
 | Cardiac disorders                    | Sudden cardiac death e                                      | Uncommon      |
 | Cardiac disorders                    | Myocardial infarction e                                     | Not known f   |
 | Cardiac disorders                    | Unstable angina pectoris e                                  | Not known f   |
-| Cardiac disorders                    | Ventricular arrhythmia e                                    | Not known f   |
-| Vascular disorders                   | Flushing a,g                                                | Very common   |
-| Vascular disorders                   | Hypotension                                                 | Common        |
 
 <div style=\"page-break-after: always\"></div>
 
-| Respiratory, thoracic and mediastinal disorders      | Nasopharyngitis a (including nasal congestion, sinus congestion and rhinitis)   | Very common   |
-|------------------------------------------------------|---------------------------------------------------------------------------------|---------------|
-| Respiratory, thoracic and mediastinal disorders      | Epistaxis                                                                       | Common        |
-| Gastrointestinal disorders                           | Nausea a                                                                        | Very common   |
-| Gastrointestinal disorders                           | Dyspepsia a                                                                     | Very common   |
-| Gastrointestinal disorders                           | Abdominal discomfort a                                                          | Very common   |
-| Gastrointestinal disorders                           | Abdominal pain a                                                                | Very common   |
-| Gastrointestinal disorders                           | Vomiting                                                                        | Common        |
-| Gastrointestinal disorders                           | Gastroesophageal reflux disease                                                 | Common        |
-| Hepatobiliary disorders                              | Transaminases increased                                                         | Common        |
-| Skin and subcutaneous tissue disorders               | Rash                                                                            | Common        |
-| Skin and subcutaneous tissue disorders               | Urticaria e                                                                     | Uncommon      |
-| Skin and subcutaneous tissue disorders               | Hyperhidrosis e                                                                 | Uncommon      |
-| Skin and subcutaneous tissue disorders               | Stevens-Johnson syndrome e                                                      | Not known f   |
-| Skin and subcutaneous tissue disorders               | Exfoliative dermatitis e                                                        | Not known f   |
-| Musculoskeletal and connective tissue disorders      | Myalgia a                                                                       | Very common   |
-| Musculoskeletal and connective tissue disorders      | Back pain a                                                                     | Very common   |
-| Musculoskeletal and connective tissue disorders      | Pain in extremity a                                                             | Very common   |
-| Renal and urinary disorders                          | Haematuria e                                                                    | Uncommon      |
-| Reproductive system and breast disorders             | Increased uterine bleeding h                                                    | Common        |
-|                                                      | Priapism e                                                                      | Uncommon      |
-|                                                      | Penile haemorrhage e                                                            | Uncommon      |
-|                                                      | Haematospermia e                                                                | Uncommon      |
-|                                                      | Prolonged erections e                                                           | Not known f   |
-| General disorders and administration site conditions | Oedema i                                                                        | Very common   |
-|                                                      | Fluid retention i                                                               | Very common   |
-|                                                      | Swelling face                                                                   | Common        |
-|                                                      | Chest pain                                                                      | Common        |
+|                                                      | Ventricular arrhythmia e                                                      | Not known f   |
+|------------------------------------------------------|-------------------------------------------------------------------------------|---------------|
+| Vascular disorders                                   | Flushing a,g                                                                  | Very common   |
+| Vascular disorders                                   | Hypotension                                                                   | Common        |
+| Respiratory, thoracic and mediastinal disorders      | Nasopharyngitis a (including nasal congestion, sinus congestion and rhinitis) | Very common   |
+| Respiratory, thoracic and mediastinal disorders      | Epistaxis                                                                     | Common        |
+| Gastrointestinal disorders                           | Nausea a                                                                      | Very common   |
+| Gastrointestinal disorders                           | Dyspepsia a                                                                   | Very common   |
+| Gastrointestinal disorders                           | Abdominal discomfort a                                                        | Very common   |
+| Gastrointestinal disorders                           | Abdominal pain a                                                              | Very common   |
+| Gastrointestinal disorders                           | Vomiting                                                                      | Common        |
+| Gastrointestinal disorders                           | Gastroesophageal reflux disease                                               | Common        |
+| Hepatobiliary disorders                              | Transaminases increased                                                       | Common        |
+| Skin and subcutaneous tissue disorders               | Rash                                                                          | Common        |
+| Skin and subcutaneous tissue disorders               | Urticaria e                                                                   | Uncommon      |
+| Skin and subcutaneous tissue disorders               | Hyperhidrosis e                                                               | Uncommon      |
+| Skin and subcutaneous tissue disorders               | Stevens-Johnson syndrome e                                                    | Not known f   |
+| Skin and subcutaneous tissue disorders               | Exfoliative dermatitis e                                                      | Not known f   |
+| Musculoskeletal and connective tissue disorders      | Myalgia a                                                                     | Very common   |
+| Musculoskeletal and connective tissue disorders      | Back pain a                                                                   | Very common   |
+| Musculoskeletal and connective tissue disorders      | Pain in extremity a                                                           | Very common   |
+| Renal and urinary disorders                          | Haematuria e                                                                  | Uncommon      |
+| Reproductive system and breast disorders             | Increased uterine bleeding h                                                  | Common        |
+| Reproductive system and breast disorders             | Priapism e                                                                    | Uncommon      |
+| Reproductive system and breast disorders             | Penile haemorrhage e                                                          | Uncommon      |
+| Reproductive system and breast disorders             | Haematospermia e                                                              | Uncommon      |
+| Reproductive system and breast disorders             | Prolonged erections e                                                         | Not known f   |
+| General disorders and administration site conditions | Oedema i                                                                      | Very common   |
+| General disorders and administration site conditions | Fluid retention i                                                             | Very common   |
+| General disorders and administration site conditions | Swelling face                                                                 | Common        |
+| General disorders and administration site conditions | Chest pain                                                                    | Common        |
 
 - a When the same adverse reaction has been observed in more than one medicinal product (i.e., macitentan, tadalafil, and Yuvanci), the category representing the highest frequency is presented.
 - b Not observed with Yuvanci in double-blind study data, but reported with macitentan monotherapy
@@ -440,7 +440,7 @@ In SERAPHIN, a long-term double-blind study of macitentan in patients with PAH, 
 
 ## Oedema/fluid retention
 
-Oedema/fluid retention has been associated with the use of ERAs including macitentan. In the doubleblind period of the A DUE study with Yuvanci in patients with PAH, the incidence of Oedema/fluid retention was 20.6%, 14.3% and 15.9% in the Yuvanci , macitentan and tadalafil arms, respectively. The incidence of oedema/fluid retention for Yuvanci in the combined double-blind / open-label phase was 17.3%.
+Oedema/fluid retention has been associated with the use of ERAs including macitentan. In the doubleblind period of the A DUE study with Yuvanci in patients with PAH, the incidence of Oedema/fluid retention was 20.6%, 14.3% and 15.9% in the Yuvanci , macitentan and tadalafil arms, respectively. The incidence of oedema/fluid retention for Yuvanci in the combined double-blind / open-label phase was 18.4%.
 
 In SERAPHIN, the incidence of oedema adverse events in the macitentan 10 mg monotherapy and placebo treatment arms was 21.9% and 20.5%, respectively.
 
@@ -454,21 +454,23 @@ In SERAPHIN, the incidence of aminotransferase elevations (ALT/AST) &gt; 3 × UL
 
 ## Haemoglobin decreases and anaemia
 
-In the double-blind period of the A DUE study with Yuvanci in patients with PAH, the incidence of anaemia was 18.7%, 2.9%, and 2.3% in Yuvanci, macitentan and tadalafil arms, respectively. The mean decrease from baseline in haemoglobin concentration at week 16 was greater in magnitude for Yuvanci compared with macitentan and tadalafil: 1.39 g/dL (0.87 mmol/L), 0.68 g/dL (0.42 mmol/L) and 0.08 g/dL (0.05 mmol/L) in the Yuvanci, macitentan and tadalafil arms, respectively. In the combined double-blind / open-label phase of the study, treatment with Yuvanci was associated with a decrease in mean haemoglobin concentration of 0.95 g/dL (0.59 mmol/L) from baseline to week 47 (106 patients).
+In the double-blind period of the A DUE study with Yuvanci in patients with PAH, the incidence of anaemia was 18.7%, 2.9%, and 2.3% in Yuvanci, macitentan and tadalafil arms, respectively. The mean decrease from baseline in haemoglobin concentration at week 16 was greater in magnitude for Yuvanci compared with macitentan and tadalafil: 0.87 mmol/L (1.39 g/dL), 0.42 mmol/L (0.68 g/dL) and  0.05 mmol/L (0.08 g/dL) in the Yuvanci, macitentan and tadalafil arms, respectively. In the combined double-blind / open-label phase of the study, treatment with Yuvanci was associated with a decrease in mean haemoglobin concentration of 0.49 mmol/L (0.79 g/dL) from baseline to week 120 (80 patients).
 
-In SERAPHIN, macitentan 10 mg monotherapy was associated with a mean decrease in haemoglobin of 1 g/dL (0.69 mmol/L) versus placebo
+In SERAPHIN, macitentan 10 mg monotherapy was associated with a mean decrease in haemoglobin of 0.69 mmol/L (1 g/dL) versus placebo.
 
 ## White blood cells
 
-In the double-blind period of the A DUE study with Yuvanci in patients with PAH, the mean decrease from baseline in leukocytes at week 16 was greater in the Yuvanci compared with macitentan and tadalafil: 1.4 × 10 9 /L in the Yuvanci and 0.5 × 10 9 /L in macitentan and tadalafil arms. In the combined double-blind / open-label phase of the study, treatment with Yuvanci was associated with a decrease in mean leukocyte count of 1.2 × 10 9 /L from baseline to week 47 (106 patients).
+In the double-blind period of the A DUE study with Yuvanci in patients with PAH, the mean decrease from baseline in leukocytes at week 16 was greater in the Yuvanci compared with macitentan and tadalafil: 1.4 × 10 9 /L in the Yuvanci and 0.5 × 10 9 /L in macitentan and tadalafil arms. In the combined double-blind / open-label phase of the study, treatment with Yuvanci was associated with a decrease in mean leukocyte count of 1.7 × 10 9 /L from baseline to week 120 (80 patients).
 
 In SERAPHIN, macitentan 10 mg monotherapy was associated with a decrease in mean leucocyte count from baseline of 0.7 × 10 9 /L versus no change in placebo-treated patients.
 
 ## Platelets
 
-In the double-blind period of the A DUE study with Yuvanci in patients with PAH, the mean decrease from baseline in platelets at week 16 was in the Yuvanci arm was 16.2 × 10 9 /L compared with 19.3 × 10 9 /L and 5.6 × 10 9 /L in macitentan and tadalafil arms, respectively. In the combined doubleblind / open-label phase of the study, treatment with Yuvanci was associated with a decrease in mean platelet count of 16.6 × 10 9 /L from baseline to week 47 (104 patients).
+In the double-blind period of the A DUE study with Yuvanci in patients with PAH, the mean decrease from baseline in platelets at week 16 was in the Yuvanci arm was 16.2 × 10 9 /L compared with 19.3 × 10 9 /L and 5.6 × 10 9 /L in macitentan and tadalafil arms, respectively. In the combined double-
 
 <div style=\"page-break-after: always\"></div>
+
+blind / open-label phase of the study, treatment with Yuvanci was associated with a decrease in mean platelet count of 23.3 × 10 9 /L from baseline to week 120 (78 patients).
 
 In SERAPHIN, macitentan 10 mg monotherapy was associated with a decrease in mean platelet count from baseline of 17 × 10 9 /L, versus a mean decrease of 11 × 10 9 /L in placebo-treated patients, respectively.
 
@@ -496,11 +498,11 @@ Tadalafil is a potent and selective inhibitor of PDE5, the enzyme responsible fo
 
 ## Clinical efficacy and safety
 
-The efficacy of Yuvanci was demonstrated in a multi-national, multi-centre, double-blind, adaptive, randomised, active-controlled, parallel-group study (A DUE) in 187 patients with PAH (WHO FC IIIII). The study was designed to compare the efficacy and safety of Yuvanci to each monotherapy, macitentan or tadalafil. Patients with pulmonary vascular resistance (PVR) of at least 240 dyn×s/cm 5
+The efficacy of Yuvanci was demonstrated in a multi-national, multi-centre, double-blind, adaptive, randomised, active-controlled, parallel-group study (A DUE) in 187 patients with PAH (WHO FC IIIII). The study was designed to compare the efficacy and safety of Yuvanci to each monotherapy,
 
 <div style=\"page-break-after: always\"></div>
 
-were randomised to receive Yuvanci (macitentan 10 mg and tadalafil 40 mg) (n=108), 10 mg macitentan monotherapy (n=35) or 40 mg tadalafil monotherapy (n=44), once daily.
+macitentan or tadalafil. Patients with pulmonary vascular resistance (PVR) of at least 240 dyn×s/cm 5 were randomised to receive Yuvanci (macitentan 10 mg and tadalafil 40 mg) (n=108), 10 mg macitentan monotherapy (n=35) or 40 mg tadalafil monotherapy (n=44), once daily.
 
 Patients who were not on a therapeutic PDE-5i dose at baseline, received a 1-week titration period of macitentan 10 mg and tadalafil 20 mg.
 
@@ -573,7 +575,7 @@ Tadalafil is readily absorbed after oral administration and the mean maximum obs
 
 ## Macitentan
 
-Macitentan and its active metabolite are highly bound to plasma proteins (&gt; 99%), primarily to albumin and to a lesser extent to alpha1-acid glycoprotein. Macitentan and its active metabolite ACT-132577 are well distributed into tissues as indicated by an apparent volume of distribution (Vss/F) of approximately 50 L and 40 L for macitentan and ACT-132577, respectively.
+Macitentan and its active metabolite aprocitentan are highly bound to plasma proteins (&gt; 99%), primarily to albumin and to a lesser extent to alpha1-acid glycoprotein. Macitentan and its active metabolite aprocitentan are well distributed into tissues as indicated by an apparent volume of distribution (Vss/F) of approximately 50 L and 40 L for macitentan and aprocitentan, respectively.
 
 ## Tadalafil
 
@@ -585,7 +587,7 @@ Less than 0.0005% of the administered dose appeared in the semen of healthy subj
 
 ## Macitentan
 
-Macitentan has four primary metabolic pathways. Oxidative depropylation of the sulfamide yields a pharmacologically active metabolite. This reaction is dependent on the cytochrome P450 system (CYP), mainly CYP3A4 (approximately 99%) with minor contributions of CYP2C8, CYP2C9 and CYP2C19. The active metabolite circulates in human plasma and may contribute to the pharmacological effect. Other metabolic pathways yield products without pharmacological activity. For these pathways, CYP2C9 plays a predominant role with minor contributions from CYP2C8, CYP2C19 and CYP3A4.
+Macitentan has four primary metabolic pathways. Oxidative depropylation of the sulfamide yields a pharmacologically active metabolite aprocitentan. This reaction is dependent on the cytochrome P450 system (CYP), mainly CYP3A4 (approximately 99%) with minor contributions of CYP2C8, CYP2C9 and CYP2C19. The active metabolite circulates in human plasma and may contribute to the pharmacological effect. Other metabolic pathways yield products without pharmacological activity. For these pathways, CYP2C9 plays a predominant role with minor contributions from CYP2C8, CYP2C19 and CYP3A4.
 
 ## Tadalafil
 
@@ -849,8 +851,6 @@ EXP
 
 Store in original package in order to protect from moisture .
 
-<div style=\"page-break-after: always\"></div>
-
 10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
@@ -866,6 +866,7 @@ EU/1/24/1859/001
 Lot
 
 14. GENERAL CLASSIFICATION FOR SUPPLY
+
 15. INSTRUCTIONS ON USE
 
 ## 16. INFORMATION IN BRAILLE
@@ -884,12 +885,13 @@ NN
 
 <div style=\"page-break-after: always\"></div>
 
+<div style=\"page-break-after: always\"></div>
+
 | MINIMUM PARTICULARS TO APPEAR ONBLISTERS ORSTRIPS   |
 |-----------------------------------------------------|
 | BLISTERS                                            |
 
-| 1.   | NAMEOFTHEMEDICINAL PRODUCT   |
-|------|------------------------------|
+## 1. NAME OF THE MEDICINAL PRODUCT
 
 Yuvanci 10 mg/20 mg film-coated tablets macitentan/tadalafil
 
@@ -1403,7 +1405,9 @@ For any information about this medicine, please contact the local representative
 
 Janssen-Cilag NV Tel/Tél: +32 14 64 94 11 janssen@jacbe.jnj.com
 
-Lietuva UAB \"JOHNSON &amp; JOHNSON\" Tel: +370 5 278 68 88 lt@its.jnj.com
+Lietuva Tel: +370 5 278 68 88 lt@its.jnj.com
+
+UAB \"JOHNSON &amp; JOHNSON\"
 
 <div style=\"page-break-after: always\"></div>
 
@@ -1435,11 +1439,7 @@ Janssen-Cilag Φαρμακευτική Μονοπρόσωπη Α.Ε.Β.Ε. Tηλ
 
 ## España
 
-Janssen-Cilag, S.A.
-
-Tel: +34 91 722 81 00
-
-contacto@its.jnj.com
+Janssen-Cilag, S.A. Tel: +34 91 722 81 00 contacto@its.jnj.com
 
 ## France
 
@@ -1455,7 +1455,7 @@ Janssen Sciences Ireland UC Tel: 1 800 709 122 medinfo@its.jnj.com
 
 ## Ísland
 
-Janssen-Cilag AB c/o Vistor hf. Sími: +354 535 7000 janssen@vistor.is
+Janssen-Cilag AB c/o Vistor ehf. Sími: +354 535 7000 janssen@vistor.is
 
 ## Luxembourg/Luxemburg
 
@@ -1463,9 +1463,7 @@ Janssen-Cilag NV Tél/Tel: +32 14 64 94 11 janssen@jacbe.jnj.com
 
 ## Magyarország
 
-Janssen-Cilag Kft. Tel.: +36 1 884 2858
-
-janssenhu@its.jnj.com
+Janssen-Cilag Kft. Tel.: +36 1 884 2858 janssenhu@its.jnj.com
 
 ## Malta
 
@@ -1497,19 +1495,19 @@ Janssen-Cilag Farmacêutica, Lda. Tel: +351 214 368 600
 
 ## România
 
-Johnson &amp; Johnson România SRL
-
-Tel: +40 21 207 1800
+Johnson &amp; Johnson România SRL Tel: +40 21 207 1800
 
 ## Slovenija
 
-Johnson &amp; Johnson d.o.o. Tel: +386 1 401 18 00 Janssen\\_safety\\_slo@its.jnj.com
+Johnson &amp; Johnson d.o.o. Tel: +386 1 401 18 00 JNJ-SI-safety@its.jnj.com
 
 ## Slovenská republika
 
 Johnson &amp; Johnson, s.r.o.
 
 Tel: +421 232 408 400
+
+<div style=\"page-break-after: always\"></div>
 
 ## Italia
 
@@ -1519,23 +1517,11 @@ Tel: 800.688.777 / +39 02 2510 1
 
 janssenita@its.jnj.com
 
-## Suomi/Finland
-
-Janssen-Cilag Oy
-
-Puh/Tel: +358 207 531 300
-
-jacfi@its.jnj.com
-
 ## Κύπρος
 
 Βαρνάβας Χατζηπαναγής Λτδ
 
 Τηλ: +357 22 207 700
-
-## Sverige
-
-Janssen-Cilag AB Tfn: +46 8 626 50 00 jacse@its.jnj.com
 
 ## Latvija
 
@@ -1545,16 +1531,14 @@ Tel: +371 678 93561
 
 lv@its.jnj.com
 
-## United Kingdom (Northern Ireland)
-
-Janssen Sciences Ireland UC
-
-Tel: +44 1 494 567 444
-
-medinfo@its.jnj.com
-
-<div style=\"page-break-after: always\"></div>
-
 ## This leaflet was last revised in
 
 Detailed information on this medicine is available on the European Medicines Agency web site: https://www.ema.europa.eu
+
+## Suomi/Finland
+
+Janssen-Cilag Oy Puh/Tel: +358 207 531 300 jacfi@its.jnj.com
+
+## Sverige
+
+Janssen-Cilag AB Tfn: +46 8 626 50 00 jacse@its.jnj.com

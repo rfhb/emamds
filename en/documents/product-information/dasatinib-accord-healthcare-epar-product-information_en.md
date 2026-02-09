@@ -1,18 +1,18 @@
 ---
-document_datetime: 2025-08-21 15:20:02
-document_pages: 68
+document_datetime: 2026-02-05 15:20:49
+document_pages: 69
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/dasatinib-accord-healthcare-epar-product-information_en.pdf
 document_name: dasatinib-accord-healthcare-epar-product-information_en.pdf
 version: success
-processing_time: 22.3511642
-conversion_datetime: 2025-12-24 09:27:48.317969
+processing_time: 23.7153794
+conversion_datetime: 2026-02-09 22:18:22.84746
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.64.1
-  docling-core: 2.55.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.12.0
+  docling-jobkit: 1.10.1
+  docling: 2.72.0
+  docling-core: 2.63.0
+  docling-ibm-models: 3.11.0
+  docling-parse: 4.7.3
   python: cpython-313 (3.13.11)
   plaform: macOS-26.2-arm64-arm-64bit-Mach-O
 ---
@@ -120,14 +120,14 @@ White to off-white, biconvex, approximate 10.9 mm round shaped, film-coated tabl
 
 Dasatinib Accord Healthcare is indicated for the treatment of adult patients with:
 
--  newly diagnosed Philadelphia chromosome positive (Ph+) chronic myelogenous leukaemia (CML) in the chronic phase.
--  chronic, accelerated or blast phase CML with resistance or intolerance to prior therapy including imatinib.
--  Ph+ acute lymphoblastic leukaemia (ALL) and lymphoid blast CML with resistance or intolerance to prior therapy.
+- newly diagnosed Philadelphia chromosome positive (Ph+) chronic myelogenous leukaemia (CML) in the chronic phase.
+- chronic, accelerated or blast phase CML with resistance or intolerance to prior therapy including imatinib.
+- Ph+ acute lymphoblastic leukaemia (ALL) and lymphoid blast CML with resistance or intolerance to prior therapy.
 
 Dasatinib Accord Healthcare is indicated for the treatment of paediatric patients with:
 
--  newly diagnosed Ph+ CML in chronic phase (Ph+ CML-CP) or Ph+ CML-CP resistant or intolerant to prior therapy including imatinib.
--  newly diagnosed Ph+ ALL in combination with chemotherapy.
+- newly diagnosed Ph+ CML in chronic phase (Ph+ CML-CP) or Ph+ CML-CP resistant or intolerant to prior therapy including imatinib.
+- newly diagnosed Ph+ ALL in combination with chemotherapy.
 
 ## 4.2 Posology and method of administration
 
@@ -155,14 +155,9 @@ The recommended starting daily dosage of Dasatinib Accord Healthcare tablets in 
 
 Table 1: Dosage of Dasatinib Accord Healthcare tablets for paediatric patients with Ph+ CML-CP or Ph+ ALL
 
-| Body weight (kg) a    | Daily dose (mg)   |
-|-----------------------|-------------------|
-| 10 to less than 20 kg | 40 mg             |
-| 20 to less than 30 kg | 60 mg             |
-| 30 to less than 45 kg | 70 mg             |
-| at least 45 kg        | 100 mg            |
-
-a The tablet is not recommended for patients weighing less than 10 kg; the powder for oral suspension should be used for these patients.
+| Body weight (kg) a                                                               | Daily dose (mg)          |
+|----------------------------------------------------------------------------------|--------------------------|
+| 10 to less than 20 kg 20 to less than 30 kg 30 to less than 45 kg at least 45 kg | 40 mg 60 mg 70 mg 100 mg |
 
 ## Treatment duration
 
@@ -195,7 +190,11 @@ Dose escalation is not recommended for paediatric patients with Ph+ ALL, as dasa
 
 ## Myelosuppression
 
-In clinical studies, myelosuppression was managed by dose interruption, dose reduction, or discontinuation of study therapy. Platelet transfusion and red cell transfusion were used as appropriate. Haematopoietic growth factor has been used in patients with resistant myelosuppression. Guidelines for dose modifications in adults are summarised in Table 3 and in paediatric patients with Ph+ CML-CP in Table 4. Guidelines for paediatric patients with Ph+ ALL treated in combination with chemotherapy are in a separate paragraph following the tables.
+In clinical studies, myelosuppression was managed by dose interruption, dose reduction, or Haematopoietic growth factor has been used in patients with resistant myelosuppression.
+
+Guidelines for dose modifications in adults are summarised in Table 3 and in paediatric patients with chemotherapy are in a separate paragraph following the tables.
+
+discontinuation of study therapy. Platelet transfusion and red cell transfusion were used as appropriate. Ph+ CML-CP in Table 4. Guidelines for paediatric patients with Ph+ ALL treated in combination with
 
 Table 3: Dose adjustments for neutropaenia and thrombocytopaenia in adults
 
@@ -407,7 +406,9 @@ Both sexually active men and women of childbearing potential should use effectiv
 
 Based on human experience, dasatinib is suspected to cause congenital malformations including neural tube defects, and harmful pharmacological effects on the foetus when administered during pregnancy.
 
-Studies in animals have shown reproductive toxicity (see section 5.3). treatment with dasatinib. If dasatinib is used during pregnancy, the patient must be informed of the dasatinib should not be used during pregnancy unless the clinical condition of the woman requires potential risk to the foetus.
+Studies in animals have shown reproductive toxicity (see section 5.3).
+
+dasatinib should not be used during pregnancy unless the clinical condition of the woman requires treatment with dasatinib. If dasatinib is used during pregnancy, the patient must be informed of the potential risk to the foetus.
 
 ## Breast-feeding
 
@@ -449,7 +450,7 @@ Table 5: Tabulated summary of adverse reactions
 |--------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Very common                          | infection (including bacterial, viral, fungal, non-specified)                                                                                                                                                                                     |
 | Common                               | pneumonia (including bacterial, viral, and fungal), upper respiratory tract infection/inflammation, herpes virus infection (including cytomegalovirus - CMV), enterocolitis infection, sepsis (including uncommon cases with fatal outcomes)      |
-| Not known                            | hepatitis B reactivation                                                                                                                                                                                                                          |
+| Not known hepatitis B reactivation   | Not known hepatitis B reactivation                                                                                                                                                                                                                |
 | Blood and lymphatic system disorders | Blood and lymphatic system disorders                                                                                                                                                                                                              |
 | Very common                          | myelosuppression (including anaemia, neutropaenia, thrombocytopaenia)                                                                                                                                                                             |
 | Common                               | febrile neutropaenia                                                                                                                                                                                                                              |
@@ -507,7 +508,7 @@ Table 5: Tabulated summary of adverse reactions
 | Rare                                                 | protein-losing gastroenteropathy, ileus, anal fistula                                                                                                                                                            |
 | Not known                                            | fatal gastrointestinal haemorrhage*                                                                                                                                                                              |
 | Hepatobiliary disorders                              | Hepatobiliary disorders                                                                                                                                                                                          |
-| Uncommon                                             | hepatitis, cholecystitis, cholestasis                                                                                                                                                                            |
+| Uncommon hepatitis, cholecystitis, cholestasis       | Uncommon hepatitis, cholecystitis, cholestasis                                                                                                                                                                   |
 | Skin and subcutaneous tissue disorders               | Skin and subcutaneous tissue disorders                                                                                                                                                                           |
 | Very common                                          | skin rash e                                                                                                                                                                                                      |
 | Common                                               | alopecia, dermatitis (including eczema), pruritus, acne, dry skin, urticaria, hyperhidrosis                                                                                                                      |
@@ -525,7 +526,7 @@ Table 5: Tabulated summary of adverse reactions
 | Pregnancy, puerperium and perinatal conditions       | Pregnancy, puerperium and perinatal conditions                                                                                                                                                                   |
 | Rare                                                 | abortion                                                                                                                                                                                                         |
 | Reproductive system and breast                       | disorders                                                                                                                                                                                                        |
-| Uncommon gynecomastia, menstrual                     | disorder                                                                                                                                                                                                         |
+| Uncommon gynecomastia, menstrual disorder            |                                                                                                                                                                                                                  |
 | General disorders and administration site conditions | General disorders and administration site conditions                                                                                                                                                             |
 | Very common                                          | peripheral oedema i , fatigue, pyrexia, face oedema j                                                                                                                                                            |
 | Common                                               | asthenia, pain, chest pain, generalised oedema* k , chills                                                                                                                                                       |
@@ -534,12 +535,8 @@ Table 5: Tabulated summary of adverse reactions
 | Investigations                                       | Investigations                                                                                                                                                                                                   |
 | Common                                               | weight decreased, weight increased                                                                                                                                                                               |
 | Uncommon                                             | blood creatine phosphokinase increased, gamma-glutamyltransferase increased                                                                                                                                      |
-| Injury, poisoning, and procedural complications      | Injury, poisoning, and procedural complications                                                                                                                                                                  |
+| Injury, poisoning, and                               | procedural complications                                                                                                                                                                                         |
 | Common                                               | contusion                                                                                                                                                                                                        |
-
-a Includes decreased appetite, early satiety, increased appetite.
-
-b Includes central nervous system haemorrhage, cerebral haematoma, cerebral haemorrhage, extradural haematoma, haemorrhage intracranial, haemorrhagic stroke, subarachnoid haemorrhage, subdural haematoma, and subdural haemorrhage.
 
 <div style=\"page-break-after: always\"></div>
 
@@ -549,9 +546,9 @@ b Includes central nervous system haemorrhage, cerebral haematoma, cerebral haem
 - f In the post-marketing setting, individual cases of Stevens-Johnson syndrome have been reported. It could not be determined whether these mucocutaneous adverse reactions were directly related to dasatinib or to concomitant medicinal product.
 - g Musculoskeletal pain reported during or after discontinuing treatment.
 
-h Frequency reported as common in paediatric studies.
+h  Frequency reported as common in paediatric studies.
 
-i Gravitational oedema, localised oedema, oedema peripheral.
+i  Gravitational oedema, localised oedema, oedema peripheral.
 
 j  Conjunctival oedema, eye oedema, eye swelling, eyelid oedema, face oedema, lip oedema, macular oedema, oedema mouth, orbital oedema, periorbital oedema, swelling face.
 
@@ -607,7 +604,7 @@ Hepatitis B reactivation has been reported in association with BCR-ABL TKIs. Som
 
 In the Phase III dose-optimisation study in patients with chronic phase CML with resistance or intolerance to prior imatinib therapy (median duration of treatment of 30 months), the incidence of pleural effusion and congestive heart failure/cardiac dysfunction was lower in patients treated with dasatinib 100 mg once daily than in those treated with dasatinib 70 mg twice daily. Myelosuppression was also reported less frequently in the 100 mg once daily treatment group (see Laboratory test abnormalities below). The median duration of therapy in the 100 mg once daily group was 37 months (range 1-91 months). Cumulative rates of selected adverse reactions that were reported in the 100 mg once daily recommended starting dose are shown in Table 6a.
 
-## Table 6a: Selected adverse reactions reported in a phase 3 dose optimisation study (imatinib intolerant or resistant chronic phase CML )a
+Table 6a: Selected adverse reactions reported in a phase 3 dose optimisation study (imatinib intolerant or resistant chronic phase CML )a
 
 <div style=\"page-break-after: always\"></div>
 
@@ -625,7 +622,7 @@ In the Phase III dose-optimisation study in patients with chronic phase CML with
 | Haemorrhage               | 11                             | 1                              | 11                             | 1                              | 12                             | 1                              |
 | Gastrointestinal bleeding | 2                              | 1                              | 2                              | 1                              | 2                              | 1                              |
 
-a Phase 3 dose optimisation study results reported in recommended starting dose of 100 mg once daily (n=165) population
+a  Phase 3 dose optimisation study results reported in recommended starting dose of 100 mg once daily (n=165) population
 
 In the Phase III dose-optimisation study in patients with advanced phase CML and Ph+ ALL, the median duration of treatment was 14 months for accelerated phase CML, 3 months for myeloid blast CML, 4 months for lymphoid blast CML and 3 months for Ph+ ALL. Selected adverse reactions that were reported in the recommended starting dose of 140 mg once daily are shown in Table 6b. A 70 mg twice daily regimen was also studied. The 140 mg once daily regimen showed a comparable efficacy profile to the 70 mg twice daily regimen but a more favourable safety profile.
 
@@ -633,8 +630,8 @@ Table 6b: Selected adverse reactions reported in phase III dose-optimisation stu
 
 |                                                 | 140 mg once daily n = 304   | 140 mg once daily n = 304   |
 |-------------------------------------------------|-----------------------------|-----------------------------|
-| Preferred                                       | All grades                  | Grade 3/4                   |
-| term                                            | Percent (%) of patients     |                             |
+| term                                            | All grades                  | Grade 3/4                   |
+| Preferred                                       | Percent (%) of patients     |                             |
 | Diarrhoea                                       | 28                          | 3                           |
 | Fluid retention                                 | 33                          | 7                           |
 | Superficial oedema                              | 15                          | <1                          |
@@ -656,7 +653,7 @@ In addition, there were two studies in a total of 161 paediatric patients with P
 
 Of the 126 Ph+ ALL paediatric patients on a continuous dosing regimen, 2 (1.6%) experienced adverse reactions leading to treatment discontinuation. Adverse reactions reported in these two paediatric studies at a frequency of ≥ 10% in patients on a continuous dosing regimen are shown in Table 7. Of note, pleural effusion was reported in 7 (5.6%) patients in this group, and is therefore not included in the table.
 
-Table 7: Adverse reactions reported in ≥10% of paediatric patients wit h Ph+ ALL treated with dasatinib on a continuous dosing regimen in combination with chemotherapy (N=126) a
+Table 7: Adverse reactions reported in ≥10% of paediatric patients with Ph+ ALL treated with dasatinib on a continuous dosing regimen in combination with chemotherapy (N=126) a
 
 | Percent (%) of patients   | Percent (%) of patients   | Percent (%) of patients   |
 |---------------------------|---------------------------|---------------------------|
@@ -670,8 +667,6 @@ Table 7: Adverse reactions reported in ≥10% of paediatric patients wit h Ph+ A
 | Headache                  | 11.1                      | 4.8                       |
 | Decreased appetite        | 10.3                      | 4.8                       |
 | Fatigue                   | 10.3                      | 0                         |
-
-a In the pivotal study, among 106 total patients, 24 patients received the powder for oral suspension at least once, 8 of whom received the powder for oral suspension formulation exclusively.
 
 ## Laboratory test abnormalities
 
@@ -692,18 +687,6 @@ Table 8: CTC grades 3/4 haematological laboratory abnormalities in clinical stud
 | Neutropaenia           | 36                         | 58                             | 77                              | 76                                       |
 | Thrombocytopaenia      | 23                         | 63                             | 78                              | 74                                       |
 | Anaemia                | 13                         | 47                             | 74                              | 44                                       |
-
-a Phase 3 dose optimisation study results reported at 2 year study follow up.
-
-b  CA180-034 study results in recommended starting dose of 100 mg once daily.
-
-c  CA180-035 study results in recommended starting dose of 140 mg once daily.
-
-CTC grades: neutropaenia (Grade 3 ≥ 0.5-&lt; 1.0 × 10 9 /l, Grade 4 &lt; 0.5 × 10 9
-
-/l); thrombocytopaenia
-
-(Grade 3 ≥ 25-&lt; 50 × 10 9 /l, Grade 4 &lt; 25 × 10 9 /l); anaemia (haemoglobin Grade 3 ≥ 65-&lt;80 g/l, Grade 4 &lt;65 g/l).
 
 <div style=\"page-break-after: always\"></div>
 
@@ -755,7 +738,7 @@ Pharmacotherapeutic group: antineoplastic agents, protein kinase inhibitors, ATC
 
 ## Pharmacodynamics
 
-Dasatinib inhibits the activity of the BCR-ABL kinase and SRC family kinases along with a number of other selected oncogenic kinases including c-KIT, ephrin (EPH) receptor kinases, and PDGFβ receptor. Dasatinib is a potent, subnanomolar inhibitor of the BCR-ABL kinase with potency at concentration of 0.6-0.8 nM. It binds to both the inactive and active conformations of the BCR-ABL enzyme.
+Dasatinib inhibits the activity of the BCR-ABL kinase and SRC family kinases along with a number of other selected oncogenic kinases including cKIT, ephrin (EPH) receptor kinases, and PDGFβ receptor. Dasatinib is a potent, subnanomolar inhibitor of the BCR-ABL kinase with potency at concentration of 0.6-0.8 nM. It binds to both the inactive and active conformations of the BCR-ABL enzyme.
 
 ## Mechanism of action
 
@@ -797,7 +780,7 @@ Table 9: Efficacy results from a phase 3 study of newly diagnosed patients with 
 |---------------------------------------|------------------------|------------------------|------------------------|
 |                                       | Response rate (95% CI) | Response rate (95% CI) | Response rate (95% CI) |
 | Cytogenetic response within 12 months |                        |                        |                        |
-| cCCyR a                               | 76.8% (71.2-81.8)      | 66.2% (60.1- 71.9)     | p<0.007*               |
+| cCCyR a                               | 76.8% (71.2 - 81.8)    | 66.2% (60.1 - 71.9)    | p<0.007*               |
 | CCyR b                                | 85.3% (80.4-89.4)      | 73.5% (67.7- 78.7)     |                        |
 | within 24 months                      |                        |                        |                        |
 | cCCyR a                               | 80.3%                  | 74.2%                  |                        |
@@ -843,53 +826,52 @@ Table 9: Efficacy results from a phase 3 study of newly diagnosed patients with 
 
 ̲
 
-|                              | dasatinib n= 259             | imatinib n= 260              | p-value                      |
-|------------------------------|------------------------------|------------------------------|------------------------------|
-| Response rate (95% CI)       | Response rate (95% CI)       | Response rate (95% CI)       | Response rate (95% CI)       |
-| CCyR b                       | 88.0%                        | 83.5%                        |                              |
-| within 48 months             |                              |                              |                              |
-| cCCyR a                      | 82.6%                        | 78.5%                        |                              |
-| CCyR b                       | 87.6%                        | 83.8%                        |                              |
-| within 60 months             |                              |                              |                              |
-| cCCyR a                      | 83.0%                        | 78.5%                        |                              |
-| CCyR b                       | 88.0%                        | 83.8%                        |                              |
-| Major molecular response c   |                              |                              |                              |
-| 12 months                    | 52.1% (45.9-58.3)            | 33.8% (28.1- 39.9)           | p<0.00003*                   |
-| 24 months                    | 64.5% (58.3-70.3)            | 50% (43.8-56.2)              |                              |
-| 36 months                    | 69.1% (63.1-74.7)            | 56.2% (49.9-                 |                              |
-| 48 months                    | 75.7% (70.0-80.8)            | 62.7% (56.5- 68.6)           |                              |
-| 60 months                    | 76.4% (70.8-81.5)            | 64.2% (58.1- 70.1)           | p=0.0021                     |
-| Hazard ratio (HR)            | Hazard ratio (HR)            | Hazard ratio (HR)            | Hazard ratio (HR)            |
-| within 12 months (99.99% CI) | within 12 months (99.99% CI) | within 12 months (99.99% CI) | within 12 months (99.99% CI) |
-| Time-to cCCyR                | 1.55 (1.0-2.3)               | 1.55 (1.0-2.3)               | p<0.0001*                    |
-| Time-toMMR                   | 2.01 (1.2-3.4)               | 2.01 (1.2-3.4)               | p<0.0001*                    |
-| Durability of cCCyR          | 0.7 (0.4-1.4)                | 0.7 (0.4-1.4)                | p<0.035                      |
-| within 24 months (95% CI)    | within 24 months (95% CI)    | within 24 months (95% CI)    | within 24 months (95% CI)    |
-| Time-to cCCyR                | 1.49 (1.22-1.82)             | 1.49 (1.22-1.82)             |                              |
-| Time-toMMR                   | 1.69 (1.34-2.12)             | 1.69 (1.34-2.12)             |                              |
-| Durability of cCCyR          | 0.77 (0.55-1.10)             | 0.77 (0.55-1.10)             |                              |
-| within 36 months (95% CI)    | within 36 months (95% CI)    | within 36 months (95% CI)    | within 36 months (95% CI)    |
-| Time-to cCCyR                | 1.48 (1.22-1.80)             | 1.48 (1.22-1.80)             |                              |
-| Time-toMMR                   | 1.59 (1.28-1.99)             | 1.59 (1.28-1.99)             |                              |
-| Durability of cCCyR          | 0.77 (0.53-1.11)             | 0.77 (0.53-1.11)             |                              |
-| within 48 months (95% CI)    | within 48 months (95% CI)    | within 48 months (95% CI)    | within 48 months (95% CI)    |
-| Time-to cCCyR                | 1.45 (1.20-1.77)             | 1.45 (1.20-1.77)             |                              |
-| Time-toMMR                   | 1.55 (1.26-1.91)             | 1.55 (1.26-1.91)             |                              |
-| Durability of cCCyR          | 0.81 (0.56-1.17)             | 0.81 (0.56-1.17)             |                              |
-| within 60 months (95% CI)    | within 60 months (95% CI)    | within 60 months (95% CI)    | within 60 months (95% CI)    |
-| Time-to cCCyR                | 1.46 (1.20-1.77)             | 1.46 (1.20-1.77)             | p=0.0001                     |
-| Time-toMMR                   | 1.54 (1.25-1.89)             | 1.54 (1.25-1.89)             | p<0.0001                     |
-| Durability of cCCyR          | 0.79 (0.55-1.13)             | 0.79 (0.55-1.13)             | p=0.1983                     |
+|                            | dasatinib n= 259          | imatinib n= 260           | p-value                   |
+|----------------------------|---------------------------|---------------------------|---------------------------|
+|                            | Response rate (95% CI)    | Response rate (95% CI)    | Response rate (95% CI)    |
+| CCyR b                     | 88.0%                     | 83.5%                     |                           |
+| within 48 months           |                           |                           |                           |
+| cCCyR a                    | 82.6%                     | 78.5%                     |                           |
+| CCyR b                     | 87.6%                     | 83.8%                     |                           |
+| within 60 months           |                           |                           |                           |
+| cCCyR a                    | 83.0%                     | 78.5%                     |                           |
+| CCyR b                     | 88.0%                     | 83.8%                     |                           |
+| Major molecular response c |                           |                           |                           |
+| 12 months                  | 52.1% (45.9 - 58.3)       | 33.8% (28.1 - 39.9)       | p<0.00003*                |
+| 24 months                  | 64.5% (58.3-70.3)         | 50% (43.8-56.2)           |                           |
+| 36 months                  | 69.1% (63.1-74.7)         | 56.2% (49.9-              |                           |
+| 48 months                  | 75.7% (70.0-80.8)         | 62.7% (56.5- 68.6)        |                           |
+| 60 months                  | 76.4% (70.8-81.5)         | 64.2% (58.1- 70.1)        | p=0.0021                  |
+| Hazard ratio (HR)          | Hazard ratio (HR)         | Hazard ratio (HR)         | Hazard ratio (HR)         |
+| Time-to cCCyR              | 1.55 (1.0-2.3)            | 1.55 (1.0-2.3)            | p<0.0001*                 |
+| Time-toMMR                 | 2.01 (1.2-3.4)            | 2.01 (1.2-3.4)            | p<0.0001*                 |
+| Durability of cCCyR        | 0.7 (0.4-1.4)             | 0.7 (0.4-1.4)             | p<0.035                   |
+| within 24 months (95% CI)  | within 24 months (95% CI) | within 24 months (95% CI) | within 24 months (95% CI) |
+| Time-to cCCyR              | 1.49 (1.22-1.82)          | 1.49 (1.22-1.82)          |                           |
+| Time-toMMR                 | 1.69 (1.34-2.12)          | 1.69 (1.34-2.12)          |                           |
+| Durability of cCCyR        | 0.77 (0.55-1.10)          | 0.77 (0.55-1.10)          |                           |
+| within 36 months (95% CI)  | within 36 months (95% CI) | within 36 months (95% CI) | within 36 months (95% CI) |
+| Time-to cCCyR              | 1.48 (1.22-1.80)          | 1.48 (1.22-1.80)          |                           |
+| Time-toMMR                 | 1.59 (1.28-1.99)          | 1.59 (1.28-1.99)          |                           |
+| Durability of cCCyR        | 0.77 (0.53-1.11)          | 0.77 (0.53-1.11)          |                           |
+| within 48 months (95% CI)  | within 48 months (95% CI) | within 48 months (95% CI) | within 48 months (95% CI) |
+| Time-to cCCyR              | 1.45 (1.20-1.77)          | 1.45 (1.20-1.77)          |                           |
+| Time-toMMR                 | 1.55 (1.26-1.91)          | 1.55 (1.26-1.91)          |                           |
+| Durability of cCCyR        | 0.81 (0.56-1.17)          | 0.81 (0.56-1.17)          |                           |
+| within 60 months (95% CI)  | within 60 months (95% CI) | within 60 months (95% CI) | within 60 months (95% CI) |
+| Time-to cCCyR              | 1.46 (1.20-1.77)          | 1.46 (1.20-1.77)          | p=0.0001                  |
+| Time-toMMR                 | 1.54 (1.25-1.89)          | 1.54 (1.25-1.89)          | p<0.0001                  |
+| Durability of cCCyR        | 0.79 (0.55-1.13)          | 0.79 (0.55-1.13)          | p=0.1983                  |
 
 a  Confirmed complete cytogenetic response (cCCyR) is defined as a response noted on two consecutive occasions (at least 28 days apart).
 
-b Complete cytogenetic response (CCyR) is based on a single bone marrow cytogenetic evaluation.
+b  Complete cytogenetic response (CCyR) is based on a single bone marrow cytogenetic evaluation.
 
 c Major molecular response (at any time) was defined as BCR ABL ratios ≤0.1% by RQ PCR in peripheral blood samples standardised on the International scale. These are cumulative rates representing minimum follow up for the timeframe specified.
 
-*
+* Adjusted for Hasford Score and indicated statistical significance at a pre-defined nominal level of significance.
 
-Adjusted for Hasford Score and indicated statistical significance at a pre-defined nominal level of significance. CI = confidence interval
+CI = confidence interval
 
 After 60 months of follow-up, median time to cCCyR was 3.1 months in the dasatinib group and 5.8 months in the imatinib group in patients with a confirmed CCyR. Median time to MMR after 60 months of follow-up was 9.3 months in the dasatinib group and 15.0 months in the imatinib group in patients with a MMR. These results are consistent with those seen at 12, 24 and 36 months.
 
@@ -933,12 +915,12 @@ In an additional analysis, more dasatinib-treated patients (84%) achieved early 
 
 Table 10: Dasatinib patients with BCRABL ≤10% and &gt; 10% at 3 months
 
-| Dasatinib N = 235                    | Patients with BCR-ABL ≤ 10% at 3 months   | Patients with BCR-ABL > 10% at 3 months   |
-|--------------------------------------|-------------------------------------------|-------------------------------------------|
-| Number of patients (%)               | 198 (84.3)                                | 37 (15.7)                                 |
-| Transformation at 60 months, n/N (%) | 6/198 (3.0)                               | 5/37 (13.5)                               |
-| Rate of PFS at 60 months (95% CI)    | 92.0% (89.6, 95.2)                        | 73.8% (52.0, 86.8)                        |
-| Rate of OS at 60 months (95% CI)     | 93.8% (89.3, 96.4)                        | 80.6% (63.5, 90.2)                        |
+| Dasatinib N = 235                    | Patients with BCR-ABL ≤ 10% at 3 months   | Patients with BCR-ABL >10% at 3 months   |
+|--------------------------------------|-------------------------------------------|------------------------------------------|
+| Number of patients (%)               | 198 (84.3)                                | 37 (15.7)                                |
+| Transformation at 60 months, n/N (%) | 6/198 (3.0)                               | 5/37 (13.5)                              |
+| Rate of PFS at 60 months (95% CI)    | 92.0% (89.6, 95.2)                        | 73.8% (52.0, 86.8)                       |
+| Rate of OS at 60 months (95% CI)     | 93.8% (89.3, 96.4)                        | 80.6% (63.5, 90.2)                       |
 
 The OS rate by specific time point is displayed graphically in Figure 4. Rate of OS was consistently higher in dasatinib treated patients who achieved BCRABL level ≤10% at 3 months than those who did not.
 
@@ -979,7 +961,7 @@ Based on the Kaplan-Meier estimates, the proportion of patients who had progress
 
 A total of 43% of the patients in the dasatinib arm, and 82% in the imatinib arm had treatment failure, defined as disease progression or cross-over to the other treatment (lack of response, intolerance of study medicinal product, etc.).
 
-The rate of major molecular response (defined as BCR-A BL/control transcripts ≤0.1% by RQ -PCR in peripheral blood samples) prior to crossover was 29% for dasatinib and 12% for imatinib.
+The rate of major molecular response (defined as BCRABL/control transcripts ≤0.1% by RQ -PCR in peripheral blood samples) prior to crossover was 29% for dasatinib and 12% for imatinib.
 
 ## Study 2
 
@@ -1031,21 +1013,20 @@ Table 11: Efficacy in phase II dasatinib single-arm clinical studies a
 | Progression-Free                       |                                        |                                        |                                        |                                        |                                        |
 | 1 year                                 | 91% (88-94)                            | 64% (57-72)                            | 35% (25-45)                            | 14% (3-25)                             | 21% (9-34)                             |
 | 2 year                                 | 80% (75-84)                            | 46% (38-54)                            | 20% (11-29)                            | 5% (0-13)                              | 12% (2-23)                             |
-| Overall                                |                                        |                                        |                                        |                                        |                                        |
-| 1 year                                 | 97% (95-99)                            | 83% (77-89)                            | 48% (38-59)                            | 30% (14-47)                            | 35% (20- 51)                           |
+| Overall 1 year                         | 97% (95-99)                            | 83% (77-89)                            | 48% (38-59)                            | 30% (14-47)                            | 35% (20- 51)                           |
 | 2 year                                 | 94% (91-97)                            | 72% (64-79)                            | 38% (27-50)                            | 26% (10-42)                            | 31% (16- 47)                           |
 
 Data described in this table are from studies using a starting dose of 70 mg twice daily. See section 4.2 for the recommended starting dose.
 
 a Numbers in bold font are the results of primary endpoints.
 
-b Haematologic response criteria (all responses confirmed after 4 weeks): Major haematologic response (MaHR)= complete haematologic response (CHR) + no evidence of leukaemia (NEL).
+b  Haematologic response criteria (all responses confirmed after 4 weeks): Major haematologic response (MaHR)= complete haematologic response (CHR) + no evidence of leukaemia (NEL).
 
 CHR (chronic CML): WBC ≤ institutional ULN, platelets &lt;450,000/mm 3 , no blasts or promyelocytes in peripheral blood, &lt;5% myelocytes plus metamyelocytes in peripheral blood, basophils in peripheral blood &lt;20%, and no extramedullary involvement.
 
 CHR (advanced CML/Ph+ ALL): WBC ≤ institutional ULN, ANC ≥1,000/mm 3 , platelets ≥100,000/mm 3 , no blasts or promyelocytes in peripheral blood, bone marrow blasts ≤5%, &lt;5% myelocytes plus metamyelocytes in peripheral blood, basophils in peripheral blood &lt;20%, and no extramedullary involvement. NEL: same criteria as for CHR but ANC ≥500/mm 3  and &lt;1,000/mm 3 , or platelets ≥20,000/mm 3 and ≤100,000/mm 3 .
 
-- c  Cytogenetic response criteria: complete (0% Ph+ metaphases) or partial (&gt; 0%-35%). MCyR (0%-35%) combines both complete and partial responses.
+c  Cytogenetic response criteria: complete (0% Ph+ metaphases) or partial (&gt; 0%-35%). MCyR (0%-35%) combines both complete and partial responses.
 
 n/a = not applicable; CI = confidence interval; ULN = upper limit of normal range.
 
@@ -1063,40 +1044,42 @@ Efficacy was achieved across all dasatinib treatment groups with the once daily 
 
 Table  12:  Efficacy  of  dasatinib  in  phase  III  dose-optimization  study:  imatinib  resistant  or intolerant chronic phase CML (2-year results) a
 
-| All patients                              | n=167       |
-|-------------------------------------------|-------------|
-| Imatinib-resistant patients               | n=124       |
-| Haematologic response rate b (%) (95% CI) |             |
-| CHR                                       | 92% (86-95) |
-| Cytogenetic responsec (%) (95% CI)        |             |
+| All patients                              | n=167         |
+|-------------------------------------------|---------------|
+| Imatinib-resistant patients               | n=124         |
+| Haematologic response rate b (%) (95% CI) |               |
+| CHR                                       | 92% (86 - 95) |
+
+## Cytogenetic responsec (%) (95% CI)
 
 <div style=\"page-break-after: always\"></div>
 
 | MCyR                                                               |                                                                    |
 |--------------------------------------------------------------------|--------------------------------------------------------------------|
-| All patients                                                       | 63% (56-71)                                                        |
-| Imatinib-resistant patients                                        | 59% (50-68)                                                        |
+| All patients                                                       | 63% (56 - 71)                                                      |
+| Imatinib-resistant patients                                        | 59% (50 - 68)                                                      |
 | CCyR                                                               |                                                                    |
-| All patients                                                       | 50% (42-58)                                                        |
-| Imatinib-resistant patients                                        | 44% (35-53)                                                        |
+| All patients                                                       | 50% (42 - 58)                                                      |
+| Imatinib-resistant patients                                        | 44% (35 - 53)                                                      |
 | Major molecular response in patients achieving CCyR d (%) (95% CI) | Major molecular response in patients achieving CCyR d (%) (95% CI) |
-| All patients                                                       | 69% (58-79)                                                        |
-| Imatinib-resistant patients                                        | 72% (58-83)                                                        |
+| All patients                                                       | 69% (58 - 79)                                                      |
+| Imatinib-resistant patients                                        | 72% (58 - 83)                                                      |
 
-a Results reported in recommended starting dose of 100 mg once daily.
+a  Results reported in recommended starting dose of 100 mg once daily.
 
 b Haematologic response criteria (all responses confirmed after 4 weeks): Complete haematologic response  (CHR) (chronic CML): WBC ≤institutional ULN, platelets &lt;450,000/mm3, no blasts or promyelocytes in peripheral blood, &lt;5% myelocytes plus metamyelocytes in peripheral blood, basophils in peripheral blood &lt;20%, and no extramedullary involvement.
 
-c  Cytogenetic  response  criteria:  complete  (0%  Ph+  metaphases)  or  partial  (&gt;0%-35%).  MCyR  (0%-35%) combines both complete and partial responses.
+c  Cytogenetic  response  criteria:  complete  (0%  Ph+  metaphases)  or  partial  (&gt;0% -35%).  MCyR  (0% -35%) combines both complete and partial responses.
 
-d Major molecular response criteria: Defined as BCRABL/control transcripts ≤0.1% by RQ-PCR in peripheral blood samples
+d Major molecular response criteria: Defined as BCRABL/control transcripts ≤0.1% by RQ -PCR in peripheral blood samples
 
 Table 13: Long term efficacy of dasatinib in phase 3 dose optimisation study: imatinib resistant or intolerant chronic phase CML patients a
 
 |                                       | Minimum follow-up period   | Minimum follow-up period   | Minimum follow-up period   | Minimum follow-up period   |
 |---------------------------------------|----------------------------|----------------------------|----------------------------|----------------------------|
 |                                       | 1 year                     | 2 years                    | 5 years                    | 7 years                    |
-| Major molecular response All patients | NA                         | 37% (57/154)               | 44% (71/160)               | 46% (73/160)               |
+| Major molecular response All patients |                            |                            |                            |                            |
+|                                       | NA                         | 37% (57/154)               | 44% (71/160)               | 46% (73/160)               |
 | Imatinib-resistant patients           | NA                         | 35% (41/117)               | 42% (50/120)               | 43% (51/120)               |
 | Imatinib-intolerant patients          | NA                         | 43% (16/37)                | 53% (21/40)                | 55% (22/40)                |
 | Progression-free survival b           |                            |                            |                            |                            |
@@ -1110,7 +1093,7 @@ Table 13: Long term efficacy of dasatinib in phase 3 dose optimisation study: im
 
 a Results reported in recommended starting dose of 100 mg once daily.
 
-b Progression was defined as increasing WBC count, loss of CHR or MCyR, ≥30% increase in Ph+ metaphases, confirmed AP/BP disease or death. PFS was analysed on an intent-to-treat principle and patients were followed to events including subsequent therapy.
+b  Progression was defined as increasing WBC count, loss of CHR or MCyR , ≥30% increase in Ph+ metaphases, confirmed AP/BP disease or death. PFS was analysed on an intent-to-treat principle and patients were followed to events including subsequent therapy.
 
 Based on the Kaplan-Meier estimates, the proportion of patients treated with dasatinib 100 mg once daily who maintained MCyR for 18 months was 93% (95% CI: [88%-98%]).
 
@@ -1141,7 +1124,7 @@ a Results reported in recommended starting dose of 140 mg once daily (see sectio
 
 b  Haematologic response criteria (all responses confirmed after 4 weeks): Major haematologic response (MaHR) = complete haematologic response (CHR) + no evidence of leukaemia (NEL).
 
-CHR: WBC ≤institutional ULN, ANC ≥1,000/mm 3 ,  platelets ≥100,000/mm 3 ,  no blasts or promyelocytes in peripheral  blood,  bone  marrow  blasts  ≤5%,  &lt;5%  myelocyte s  plus  metamyelocytes  in  peripheral  blood, basophils in peripheral blood &lt;20%, and no extramedullary involvement.
+CHR: WBC ≤institutional ULN, ANC ≥1,000/mm 3 ,  platelets ≥100,000/mm 3 ,  no blasts or promyelocytes in peripheral  blood,  bone  marrow  blasts  ≤5%,  &lt;5%  myelocytes  plus  metamyelocytes  in  peripheral  blood, basophils in peripheral blood &lt;20%, and no extramedullary involvement.
 
 NEL:  same  criteria  as  for  CHR  but  ANC  ≥500/mm 3   and  &lt;1,000/mm 3 ,  or  platelets  ≥20,000/mm 3 and ≤100,000/mm 3 .
 
@@ -1155,7 +1138,9 @@ In patients with myeloid blast phase CML treated with the 140 mg once daily regi
 
 In patients with Ph+ ALL treated with the 140 mg once daily regimen, the median duration of MaHR was 5 months the median PFS was 4 months, and the median overall survival was 7 months.
 
-## Paediatric population Paediatric patients with CML
+## Paediatric population
+
+## Paediatric patients with CML
 
 Among 130 patients with chronic phase CML (CML-CP) treated in two paediatric studies, a Phase I, open-label, nonrandomized dose-ranging trial and a Phase II, open-label, nonrandomized trial, 84 patients (exclusively from the Phase II trial) were newly diagnosed with CML-CP and 46 patients (17 from the Phase I trial and 29 from the Phase II trial) were resistant or intolerant to previous treatment with imatinib. Ninety-seven of the 130 paediatric patients with CML-CP were treated with dasatininb tablets 60 mg/m2 once daily (maximum dose of 100 mg once daily for patients with high BSA). Patients were treated until disease progression or unacceptable toxicity.
 
@@ -1165,25 +1150,26 @@ Key efficacy endpoints were: complete cytogenetic response (CCyR), major cytogen
 
 Table 15: Efficacy of dasatinib in paediatric patients with CML-CP Cumulative response over time by minimum follow-up period
 
-|                 | 3 months           | 6 months           | 12 months          | 24 months          |
-|-----------------|--------------------|--------------------|--------------------|--------------------|
-| CCyR (95% CI)   |                    |                    |                    |                    |
-| Newly diagnosed | 43.1% (29.3, 57.8) | 66.7% (52.1, 79.2) | 96.1% (86.5, 99.5) | 96.1% (86.5, 99.5) |
-| (N = 51) a      |                    |                    |                    |                    |
-| Prior imatinib  | 45.7%              | 71.7%              | 78.3%              | 82.6%              |
-| (N = 46)b       | (30.9, 61.0)       | (56.5, 84.0)       | (63.6, 89.1)       | (68.6, 92.2)       |
-| MCyR (95% CI)   |                    |                    |                    |                    |
-| Newly diagnosed | 60.8%              | 90.2%              | 98.0%              | 98.0%              |
-| (N = 51) a      | (46.1, 74.2)       | (78.6, 96.7)       | (89.6, 100)        | (89.6, 100)        |
-| Prior imatinib  | 60.9%              | 82.6%              | 89.1%              | 89.1%              |
-| (N = 46)b       | (45.4, 74.9)       | (68.6, 92.2)       | (76.4, 96.4)       | (76.4, 96.4)       |
-| MMR (95% CI)    |                    |                    |                    |                    |
-| Newly diagnosed | 7.8%               | 31.4%              | 56.9%              | 74.5%              |
-| (N = 51) a      | (2.2, 18.9)        | (19.1, 45.9)       | (42.2, 70.7)       | (60.4, 85.7)       |
-| Prior imatinib  | 15.2%              | 26.1%              | 39.1%              | 52.2%              |
-| (N = 46) b      | (6.3, 28.9)        | (14.3, 41.1)       | (25.1, 54.6)       | (36.9, 67.1)       |
+|                                                    | 3 months                | 6 months                              | 12 months                            | 24 months                            |
+|----------------------------------------------------|-------------------------|---------------------------------------|--------------------------------------|--------------------------------------|
+| CCyR (95% CI)                                      |                         |                                       |                                      |                                      |
+| Newly diagnosed (N = 51) a                         | 43.1% (29.3, 57.8)      | 66.7% (52.1, 79.2)                    | 96.1% (86.5, 99.5)                   | 96.1% (86.5, 99.5)                   |
+|                                                    |                         | 71.7%                                 |                                      |                                      |
+| Prior imatinib (N = 46)b                           | 45.7% (30.9, 61.0)      |                                       | 78.3% (63.6, 89.1)                   | 82.6% (68.6, 92.2)                   |
+| MCyR                                               |                         | (56.5, 84.0)                          |                                      |                                      |
+| (95% CI) Newly diagnosed (N = 51) a Prior imatinib | 60.8% (46.1, 74.2) 7.8% | 90.2% (78.6, 96.7) 82.6% (68.6, 92.2) | 98.0% (89.6, 100) 89.1% (76.4, 96.4) | 98.0% (89.6, 100) 89.1% (76.4, 96.4) |
+| (95% CI) Newly a                                   |                         | 31.4%                                 | 56.9% (42.2, 70.7)                   | 74.5%                                |
+| (N = 46)b MMR                                      | 60.9%                   |                                       |                                      |                                      |
+|                                                    | (45.4,                  |                                       |                                      |                                      |
+|                                                    | 74.9)                   |                                       |                                      |                                      |
+|                                                    |                         | (19.1, 45.9)                          |                                      |                                      |
+| diagnosed                                          |                         |                                       |                                      |                                      |
+| (N = 51)                                           | (2.2, 18.9)             |                                       |                                      | (60.4, 85.7)                         |
+| Prior imatinib                                     | 15.2%                   | 26.1%                                 | 39.1%                                | 52.2%                                |
+| (N = 46) b                                         | (6.3,                   |                                       |                                      | (36.9,                               |
+|                                                    | 28.9)                   | (14.3, 41.1)                          | (25.1, 54.6)                         | 67.1)                                |
 
-a Patients from Phase II paediatric study of newly diagnosed CML-CP receiving oral tablet formulation b Patients from Phase I and Phase II paediatric studies of imatinib-resistant or intolerant CML-CP receiving oral tablet formulation
+a  Patients from Phase II paediatric study of newly diagnosed CML-CP receiving oral tablet formulation b Patients from Phase I and Phase II paediatric studies of imatinib-resistant or intolerant CML-CP receiving oral tablet formulation
 
 In the Phase I paediatric study, after a minimum of 7 years of follow-up among the 17 patients with imatinib-resistant or intolerant CML-CP, the median duration of PFS was 53.6 months and the rate of OS was 82.4%.
 
@@ -1313,7 +1299,9 @@ Dasatinib Accord Healthcare 100 mg film-coated tablets
 
 OPA/Alu/PVC//Alu blisters (blisters or perforated unit dose blisters).
 
-Carton containing 30 or 56 film-coated tablets in blisters. Carton containing 10 x 1, 30 x 1 or 56 x 1film-coated tablet in perforated unit dose blisters.
+Carton containing 30 or 56 film-coated tablets in blisters.
+
+Carton containing 10 x 1, 30 x 1 or 56 x 1film-coated tablet in perforated unit dose blisters.
 
 Not all pack sizes may be marketed.
 
@@ -1368,6 +1356,8 @@ Accord Healthcare B.V. Winthontlaan 200 Utrecht, 3526 KV Netherlands
 
 Pharmadox Healthcare Limited Kw20a Kordin Industrial Park Paola, PLA 3000 Malta
 
+Accord Healthcare Single Member S.A., 64th Km National Road Athens, Lamia, Schimatari, 32009, Greece
+
 The printed package leaflet of the medicinal product must state the name and address of the manufacturer responsible for the release of the concerned batch.
 
 ## B. CONDITIONS OR RESTRICTIONS REGARDING SUPPLY AND USE
@@ -1376,20 +1366,22 @@ Medicinal product subject to restricted medical prescription (see Annex I: Summa
 
 ## C. OTHER CONDITIONS AND REQUIREMENTS OF THE MARKETING AUTHORISATION
 
-##  Periodic safety update reports (PSURs)
+## ▪ Periodic safety update reports (PSURs)
 
 The requirements for submission of PSURs for this medicinal product are set  out in the list of Union reference dates (EURD list) provided for under Article 107c(7) of Directive  2001/83/EC and any subsequent updates published on the European medicines web-portal.
 
 ## D. CONDITIONS OR RESTRICTIONS WITH REGARD TO THE SAFE  AND EFFECTIVE USE OF THE MEDICINAL PRODUCT
 
-##  Risk management plan (RMP)
+## ▪ Risk management plan (RMP)
 
 The marketing authorisation holder (MAH) shall perform the required pharmacovigilance activities and interventions detailed in the  agreed RMP presented in Module 1.8.2 of the marketing authorisation and any agreed subsequent  updates of the RMP.
 
 An updated RMP should be submitted:
 
--  At the request of the European Medicines Agency,
--  Whenever the risk management system is modified, especially as the result of new information  being received that may lead to a significant change to the benefit/risk profile or as the result of an  important (pharmacovigilance or risk minimisation) milestone being reached.
+<div style=\"page-break-after: always\"></div>
+
+- At the request of the European Medicines Agency,
+- Whenever the risk management system is modified, especially as the result of new information  being received that may lead to a significant change to the benefit/risk profile or as the result of an  important (pharmacovigilance or risk minimisation) milestone being reached.
 
 <div style=\"page-break-after: always\"></div>
 
@@ -1481,7 +1473,7 @@ Lot
 
 Dasatinib Accord Healthcare 20 mg
 
-## 17. UNIQUE IDENTIFIER - 2D BARCODE
+## 17. UNIQUE IDENTIFIER -2D BARCODE
 
 2D barcode carrying the unique identifier included.
 
@@ -1493,9 +1485,7 @@ SN
 
 NN
 
-## MINIMUM PARTICULARS TO APPEAR ON BLISTERS OR STRIPS
-
-## BLISTER or PERFORATED UNIT DOSE BLISTER PACK
+## MINIMUM PARTICULARS TO APPEAR ON BLISTERS OR STRIPS BLISTER or PERFORATED UNIT DOSE BLISTER PACK
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
@@ -1523,7 +1513,7 @@ Oral use.
 
 ## PARTICULARS TO APPEAR ON THE OUTER PACKAGING
 
-OUTER CARTON
+## OUTER CARTON
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
@@ -1541,12 +1531,9 @@ See the package leaflet for further information.
 
 ## 4. PHARMACEUTICAL FORM AND CONTENTS
 
-56 film-coated tablets
-
+- 56 film-coated tablets
 - 60 film-coated tablets
-
-56 x 1 film-coated tablet
-
+- 56 x 1 film-coated tablet
 - 60 x 1 film-coated tablet
 - 10 x 1 film-coated tablet
 
@@ -1570,11 +1557,19 @@ EXP
 
 <div style=\"page-break-after: always\"></div>
 
-## 10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
+10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
-Accord Healthcare S.L.U. World Trade Center, Moll de Barcelona s/n Edifici Est, 6 a Planta 08039 Barcelona Spain
+Accord Healthcare S.L.U.
+
+World Trade Center, Moll de Barcelona s/n
+
+Edifici Est, 6 a Planta
+
+08039 Barcelona
+
+Spain
 
 ## 12. MARKETING AUTHORISATION NUMBER(S)
 
@@ -1599,7 +1594,7 @@ Lot
 
 Dasatinib Accord Healthcare 50 mg
 
-## 17. UNIQUE IDENTIFIER - 2D BARCODE
+## 17. UNIQUE IDENTIFIER -2D BARCODE
 
 2D barcode carrying the unique identifier included.
 
@@ -1611,9 +1606,7 @@ SN
 
 NN
 
-## MINIMUM PARTICULARS TO APPEAR ON BLISTERS OR STRIPS
-
-## BLISTER or PERFORATED UNIT DOSE BLISTER PACK
+## MINIMUM PARTICULARS TO APPEAR ON BLISTERS OR STRIPS BLISTER or PERFORATED UNIT DOSE BLISTER PACK
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
@@ -1667,7 +1660,9 @@ See the package leaflet for further information.
 
 ## 5. METHOD AND ROUTE(S) OF ADMINISTRATION
 
-Read the package leaflet before use. Oral use.
+Read the package leaflet before use.
+
+Oral use.
 
 ## 6. SPECIAL WARNING THAT THE MEDICINAL PRODUCT MUST BE STORED OUT OF THE SIGHT AND REACH OF CHILDREN
 
@@ -1713,14 +1708,15 @@ EU/1/24/1839/027
 
 Lot
 
-14. GENERAL CLASSIFICATION FOR SUPPLY
-15. INSTRUCTIONS ON USE
+## 14. GENERAL CLASSIFICATION FOR SUPPLY
+
+## 15. INSTRUCTIONS ON USE
 
 ## 16. INFORMATION IN BRAILLE
 
 Dasatinib Accord Healthcare 70 mg
 
-## 17. UNIQUE IDENTIFIER - 2D BARCODE
+## 17. UNIQUE IDENTIFIER -2D BARCODE
 
 2D barcode carrying the unique identifier included.
 
@@ -1732,9 +1728,7 @@ SN
 
 NN
 
-## MINIMUM PARTICULARS TO APPEAR ON BLISTERS OR STRIPS
-
-## BLISTER or PERFORATED UNIT DOSE BLISTER PACK
+## MINIMUM PARTICULARS TO APPEAR ON BLISTERS OR STRIPS BLISTER or PERFORATED UNIT DOSE BLISTER PACK
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
@@ -1792,7 +1786,9 @@ See the package leaflet for further information.
 
 ## 5. METHOD AND ROUTE(S) OF ADMINISTRATION
 
-Read the package leaflet before use. Oral use.
+Read the package leaflet before use.
+
+Oral use.
 
 ## 6. SPECIAL WARNING THAT THE MEDICINAL PRODUCT MUST BE STORED OUT OF THE SIGHT AND REACH OF CHILDREN
 
@@ -1808,7 +1804,7 @@ EXP
 
 <div style=\"page-break-after: always\"></div>
 
-## 10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
+10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
@@ -1838,15 +1834,14 @@ EU/1/24/1839/028
 
 Lot
 
-## 14. GENERAL CLASSIFICATION FOR SUPPLY
-
-## 15. INSTRUCTIONS ON USE
+14. GENERAL CLASSIFICATION FOR SUPPLY
+15. INSTRUCTIONS ON USE
 
 ## 16. INFORMATION IN BRAILLE
 
 Dasatinib Accord Healthcare 80 mg
 
-## 17. UNIQUE IDENTIFIER - 2D BARCODE
+## 17. UNIQUE IDENTIFIER -2D BARCODE
 
 2D barcode carrying the unique identifier included.
 
@@ -1858,9 +1853,12 @@ SN
 
 NN
 
-## MINIMUM PARTICULARS TO APPEAR ON BLISTERS OR STRIPS
+<div style=\"page-break-after: always\"></div>
 
-## BLISTER or PERFORATED UNIT DOSE BLISTER PACK
+| 4.   | BATCH NUMBER   |
+|------|----------------|
+
+## MINIMUM PARTICULARS TO APPEAR ON BLISTERS OR STRIPS BLISTER or PERFORATED UNIT DOSE BLISTER PACK
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
@@ -1881,8 +1879,6 @@ Lot
 ## 5. OTHER
 
 Oral use.
-
-<div style=\"page-break-after: always\"></div>
 
 <div style=\"page-break-after: always\"></div>
 
@@ -1918,7 +1914,9 @@ See the package leaflet for further information.
 
 ## 5. METHOD AND ROUTE(S) OF ADMINISTRATION
 
-Read the package leaflet before use. Oral use.
+Read the package leaflet before use.
+
+Oral use.
 
 ## 6. SPECIAL WARNING THAT THE MEDICINAL PRODUCT MUST BE STORED OUT OF THE SIGHT AND REACH OF CHILDREN
 
@@ -1971,7 +1969,7 @@ Lot
 
 Dasatinib Accord Healthcare 100 mg
 
-## 17. UNIQUE IDENTIFIER - 2D BARCODE
+## 17. UNIQUE IDENTIFIER -2D BARCODE
 
 2D barcode carrying the unique identifier included.
 
@@ -2061,7 +2059,7 @@ EXP
 
 <div style=\"page-break-after: always\"></div>
 
-## 10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
+10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
@@ -2098,7 +2096,7 @@ Lot
 
 Dasatinib Accord Healthcare 140 mg
 
-## 17. UNIQUE IDENTIFIER - 2D BARCODE
+## 17. UNIQUE IDENTIFIER -2D BARCODE
 
 2D barcode carrying the unique identifier included.
 
@@ -2192,11 +2190,11 @@ Talk to your doctor or pharmacist before using Dasatinib Accord Healthcare
 
 <div style=\"page-break-after: always\"></div>
 
--  if you are taking medicines to thin the blood or prevent clots (see \"Other medicines and Dasatinib Accord Healthcare\")
--  if you have a liver or heart problem, or used to have one
--  if you start having difficulty breathing, chest pain, or a cough when taking Dasatinib Accord Healthcare: this may be a sign of fluid retention in the lungs or chest (which can be more common in patients aged 65 years and older), or due to changes in the blood vessels supplying the lungs
--  if you have ever had or might now have a hepatitis B infection. This is because Dasatinib Accord Healthcare could cause hepatitis B to become active again, which can be fatal in some cases. Patients will be carefully checked by their doctor for signs of this infection before treatment is started.
--  if you experience bruising, bleeding, fever, fatigue and confusion when taking Dasatinib Accord Healthcare, contact your doctor. This may be a sign of damage to blood vessels known as thrombotic microangiopathy (TMA).
+- if you are taking medicines to thin the blood or prevent clots (see \"Other medicines and Dasatinib Accord Healthcare\")
+- if you have a liver or heart problem, or used to have one
+- if you start having difficulty breathing, chest pain, or a cough when taking Dasatinib Accord Healthcare: this may be a sign of fluid retention in the lungs or chest (which can be more common in patients aged 65 years and older), or due to changes in the blood vessels supplying the lungs
+- if you have ever had or might now have a hepatitis B infection. This is because Dasatinib Accord Healthcare could cause hepatitis B to become active again, which can be fatal in some cases. Patients will be carefully checked by their doctor for signs of this infection before treatment is started.
+- if you experience bruising, bleeding, fever, fatigue and confusion when taking Dasatinib Accord Healthcare, contact your doctor. This may be a sign of damage to blood vessels known as thrombotic microangiopathy (TMA).
 
 Your doctor will regularly monitor your condition to check whether Dasatinib Accord Healthcare is having the desired effect. You will also have blood tests regularly while you are taking Dasatinib Accord Healthcare.
 
@@ -2212,13 +2210,13 @@ Dasatinib Accord Healthcare is mainly handled by the liver. Certain medicines ma
 
 ## These medicines are not to be used with Dasatinib Accord Healthcare:
 
--  ketoconazole, itraconazole - these are antifungal medicines
--  erythromycin, clarithromycin, telithromycin - these are antibiotics
--  ritonavir - this is an antiviral medicine
--  phenytoin, carbamazepine, phenobarbital - these are treaments for epilepsy
--  rifampicin - this is a treatment for tuberculosis
--  famotidine, omeprazole - these are medicines that block stomach acids
--  St. John's wort - a herbal preparation obtained without a prescription, used to treat depression and other conditions (also known as Hypericum perforatum )
+- ketoconazole, itraconazole - these are antifungal medicines
+- erythromycin, clarithromycin, telithromycin - these are antibiotics
+- ritonavir - this is an antiviral medicine
+- phenytoin, carbamazepine, phenobarbital - these are treaments for epilepsy
+- rifampicin - this is a treatment for tuberculosis
+- famotidine, omeprazole - these are medicines that block stomach acids
+- St. John's wort - a herbal preparation obtained without a prescription, used to treat depression and other conditions (also known as Hypericum perforatum )
 
 Do not take medicines that neutralise stomach acids ( antacids such as aluminium hydroxide or magnesium hydroxide) in the 2 hours before or 2 hours after taking Dasatinib Accord Healthcare.
 
@@ -2269,8 +2267,6 @@ Your doctor will decide the right formulation and dose based on your weight, any
 | 30 to less than 45 kg | 70 mg             |
 | at least 45 kg        | 100 mg            |
 
-a The tablet is not recommended for patients weighing less than 10 kg; the powder for oral suspension should be used for these patients.
-
 There is no dose recommendation for Dasatinib Accord Healthcare with children under 1 year of age.
 
 Depending on how you respond to the treatment, your doctor may suggest a higher or lower dose, or even stopping treatment briefly. For higher or lower doses, you may need to take combinations of the different tablet strengths.
@@ -2305,66 +2301,66 @@ If you have any further questions on the use of this medicine, ask your doctor o
 
 Like all medicines, this medicine can cause side effects, although not everybody gets them.
 
--  The following can all be signs of serious side effects:
--  if you have chest pain, difficulty breathing, coughing and fainting
--  if you experience unexpected bleeding or bruising without having an injury
--  if you find blood in your vomit, stools or urine, or have black stools
--  if you get signs of infections such as fever, severe chills
--  if you get fever, sore mouth or throat, blistering or peeling of your skin and/or mucous membranes
+- The following can all be signs of serious side effects:
+- if you have chest pain, difficulty breathing, coughing and fainting
+- if you experience unexpected bleeding or bruising without having an injury
+- if you find blood in your vomit, stools or urine, or have black stools
+- if you get signs of infections such as fever, severe chills
+- if you get fever, sore mouth or throat, blistering or peeling of your skin and/or mucous membranes
 
 Contact your doctor immediately if you notice any of the above.
 
 ## Very common side effects (may affect more than 1 in 10 people)
 
--  Infections (including bacterial, viral and fungal)
--  Heart and lungs: shortness of breath
--  Digestive problems: diarrhoea, feeling or being sick (nausea, vomiting)
--  Skin, hair, eye, general: skin rash, fever, swelling around the face, hands and feet, headache, feeling tired or weak, bleeding
--  Pain : pain in the muscles (during or after discontinuing treatment), tummy (abdominal) pain
--  Tests may show: low blood platelet count, low white blood cells count (neutropaenia), anaemia, fluid around the lungs
+- Infections (including bacterial, viral and fungal)
+- Heart and lungs: shortness of breath
+- Digestive problems: diarrhoea, feeling or being sick (nausea, vomiting)
+- Skin, hair, eye, general: skin rash, fever, swelling around the face, hands and feet, headache, feeling tired or weak, bleeding
+- Pain : pain in the muscles (during or after discontinuing treatment), tummy (abdominal) pain
+- Tests may show: low blood platelet count, low white blood cells count (neutropaenia), anaemia, fluid around the lungs
 
 ## Common side effects (may affect up to 1 in 10 people)
 
--  Infections: pneumonia, herpes virus infection (including cytomegalovirus - CMV), upper respiratory tract infection, serious infection of the blood or tissues (including uncommon cases with fatal outcomes)
--  Heart and lungs: palpitations, irregular heartbeat, congestive heart failure, weak heart muscle, high blood pressure, increased blood pressure in the lungs, cough
--  Digestive problems: appetite disturbances, taste disturbance, bloated or distended tummy (abdomen), inflammation of the colon, constipation, heartburn, mouth ulceration, weight increase, weight decrease, gastritis
--  Skin, hair, eye, general: skin tingling, itching, dry skin, acne, inflammation of the skin, persistent noise in ears, hair loss, excessive perspiration, visual disorder (including blurred
+- Infections: pneumonia, herpes virus infection (including cytomegalovirus - CMV), upper respiratory tract infection, serious infection of the blood or tissues (including uncommon cases with fatal outcomes)
+- Heart and lungs: palpitations, irregular heartbeat, congestive heart failure, weak heart muscle, high blood pressure, increased blood pressure in the lungs, cough
+- Digestive problems: appetite disturbances, taste disturbance, bloated or distended tummy (abdomen), inflammation of the colon, constipation, heartburn, mouth ulceration, weight increase, weight decrease, gastritis
+- Skin, hair, eye, general: skin tingling, itching, dry skin, acne, inflammation of the skin, persistent noise in ears, hair loss, excessive perspiration, visual disorder (including blurred
 
 <div style=\"page-break-after: always\"></div>
 
 - vision and disturbed vision), dry eye, bruise, depression, insomnia, flushing, dizziness, contusion (bruising), anorexia, somnolence, generalised oedema
--  Pain: pain in joints, muscular weakness, chest pain, pain around hands and feet, chills, stiffness in muscles and joints, muscle spasm
--  Tests may show: fluid around the heart, fluid in the lungs, arrhythmia, febrile neutropaenia, gastrointestinal bleeding, high uric acid levels in the blood
+- Pain: pain in joints, muscular weakness, chest pain, pain around hands and feet, chills, stiffness in muscles and joints, muscle spasm
+- Tests may show: fluid around the heart, fluid in the lungs, arrhythmia, febrile neutropaenia, gastrointestinal bleeding, high uric acid levels in the blood
 
 ## Uncommon side effects (may affect up to 1 in 100 people)
 
--  Heart and lungs: heart attack (including fatal outcome), inflammation of the lining (fibrous sack) surrounding the heart, irregular heartbeat, chest pain due to lack of blood supply to the heart (angina), low blood pressure, narrowing of airway that may cause breathing difficulties, asthma, increased blood pressure in the arteries (blood vessels) of the lungs
--  Digestive problems : inflammation of the pancreas, peptic ulcer, inflammation of the food pipe, swollen tummy (abdomen), tear in the skin of the anal canal, difficulty in swallowing, inflammation of the gallbladder, blockage of bile ducts, gastro-oesophageal reflux (a condition where acid and other stomach contents come back up into the throat)
--  Skin, hair, eye, general : allergic reaction including tender, red lumps on the skin (erythema nodosum), anxiety, confusion, mood swings, lower sexual drive, fainting, tremor, inflammation of the eye which causes redness or pain, a skin disease characterized by tender, red, well-defined blotches with the sudden onset of fever and raised white blood cell count (neutrophilic dermatosis), loss of hearing, sensitivity to light, visual impairment, increased eye tearing, disturbance in skin colour, inflammation of fatty tissue under the skin, skin ulcer, blistering of the skin, nail disorder, hair disorder, hand-foot disorder, renal failure, urinary frequency, breast enlargement in men, menstrual disorder, general weakness and discomfort, low thyroid function, losing balance while walking, osteonecrosis (a disease of reduced blood flow to the bones, which can cause bone loss and bone death), arthritis, skin swelling anywhere in the body
--  Pain : inflammation of vein which can cause redness, tenderness and swelling, inflammation of the tendon
--  Brain : loss of memory
--  Tests may show: abnormal blood test results and possibly impaired kidney function caused by the waste products of the dying tumour (tumour lysis syndrome), low levels of albumin in the blood, low levels of lymphocytes (a type of white blood cell) in the blood, high level of cholesterol in the blood, swollen lymph nodes, bleeding in the brain, irregularity of the electrical activity of the heart, enlarged heart, inflammation of the liver, protein in the urine, raised creatine phosphokinase (an enzyme mainly found in the heart, brain and skeletal muscles), raised troponin (an enzyme mainly found in the heart and skeletal muscles), raised gammaglutamyltransferase (an enzyme mainly found in the liver), milky-appearing fluid around the lungs (chylothorax)
+- Heart and lungs: heart attack (including fatal outcome), inflammation of the lining (fibrous sack) surrounding the heart, irregular heartbeat, chest pain due to lack of blood supply to the heart (angina), low blood pressure, narrowing of airway that may cause breathing difficulties, asthma, increased blood pressure in the arteries (blood vessels) of the lungs
+- Digestive problems : inflammation of the pancreas, peptic ulcer, inflammation of the food pipe, swollen tummy (abdomen), tear in the skin of the anal canal, difficulty in swallowing, inflammation of the gallbladder, blockage of bile ducts, gastro-oesophageal reflux (a condition where acid and other stomach contents come back up into the throat)
+- Skin, hair, eye, general : allergic reaction including tender, red lumps on the skin (erythema nodosum), anxiety, confusion, mood swings, lower sexual drive, fainting, tremor, inflammation of the eye which causes redness or pain, a skin disease characterized by tender, red, well-defined blotches with the sudden onset of fever and raised white blood cell count (neutrophilic dermatosis), loss of hearing, sensitivity to light, visual impairment, increased eye tearing, disturbance in skin colour, inflammation of fatty tissue under the skin, skin ulcer, blistering of the skin, nail disorder, hair disorder, hand-foot disorder, renal failure, urinary frequency, breast enlargement in men, menstrual disorder, general weakness and discomfort, low thyroid function, losing balance while walking, osteonecrosis (a disease of reduced blood flow to the bones, which can cause bone loss and bone death), arthritis, skin swelling anywhere in the body
+- Pain : inflammation of vein which can cause redness, tenderness and swelling, inflammation of the tendon
+- Brain : loss of memory
+- Tests may show: abnormal blood test results and possibly impaired kidney function caused by the waste products of the dying tumour (tumour lysis syndrome), low levels of albumin in the blood, low levels of lymphocytes (a type of white blood cell) in the blood, high level of cholesterol in the blood, swollen lymph nodes, bleeding in the brain, irregularity of the electrical activity of the heart, enlarged heart, inflammation of the liver, protein in the urine, raised creatine phosphokinase (an enzyme mainly found in the heart, brain and skeletal muscles), raised troponin (an enzyme mainly found in the heart and skeletal muscles), raised gammaglutamyltransferase (an enzyme mainly found in the liver), milky-appearing fluid around the lungs (chylothorax)
 
 ## Rare side effects (may affect up to 1 in 1,000 people)
 
--  Heart and lungs : enlargement of the right ventricle in the heart, inflammation of the heart muscle, collection of conditions resulting from blockage of blood supply to the heart muscle (acute coronary syndrome), cardiac arrest (stopping of blood flow from the heart), coronary (heart) artery disease, inflammation of the tissue covering the heart and lungs, blood clots, blood clots in the lungs
--  Digestive problems: loss of vital nutrients such as protein from your digestive tract, bowel obstruction, anal fistula (an abnormal opening from the anus to the skin around the anus), impairment of kidney function, diabetes
--  Skin, hair, eye, general : convulsion, inflammation of the optic nerve that may cause a complete or partial loss of vision, blue-purple mottling of the skin, abnormally high thyroid function, inflammation of the thyroid gland, ataxia (a condition associated with lack of muscular coordination), difficulty walking, miscarriage, inflammation of the skin blood vessels, skin fibrosis
--  Brain: stroke, temporary episode of neurologic dysfunction caused by loss of blood flow, facial nerve paralysis, dementia
--  Immune system: severe allergic reaction
+- Heart and lungs : enlargement of the right ventricle in the heart, inflammation of the heart muscle, collection of conditions resulting from blockage of blood supply to the heart muscle (acute coronary syndrome), cardiac arrest (stopping of blood flow from the heart), coronary (heart) artery disease, inflammation of the tissue covering the heart and lungs, blood clots, blood clots in the lungs
+- Digestive problems: loss of vital nutrients such as protein from your digestive tract, bowel obstruction, anal fistula (an abnormal opening from the anus to the skin around the anus), impairment of kidney function, diabetes
+- Skin, hair, eye, general : convulsion, inflammation of the optic nerve that may cause a complete or partial loss of vision, blue-purple mottling of the skin, abnormally high thyroid function, inflammation of the thyroid gland, ataxia (a condition associated with lack of muscular coordination), difficulty walking, miscarriage, inflammation of the skin blood vessels, skin fibrosis
+- Brain: stroke, temporary episode of neurologic dysfunction caused by loss of blood flow, facial nerve paralysis, dementia
+- Immune system: severe allergic reaction
 
 <div style=\"page-break-after: always\"></div>
 
--  Musculoskeletal and connective tissue : delayed fusion of the rounded ends that form joints (epiphyses); slower or delayed growth
+- Musculoskeletal and connective tissue : delayed fusion of the rounded ends that form joints (epiphyses); slower or delayed growth
 
 ## Other side effects that have been reported with frequency not known (cannot be estimated from the available data)
 
--  Inflammation of the lungs
--  Bleeding in the stomach or bowels that can cause death
--  Recurrence (reactivation) of hepatitis B infection when you have had hepatitis B in the past (a liver infection)
--  A reaction with fever, blisters on the skin, and ulceration of the mucous membranes
--  Disease of the kidneys with symptoms including oedema and abnormal laboratory test results such as protein in the urine and low protein level in the blood
--  Damage to blood vessels known as thrombotic microangiopathy (TMA), including decreased red blood cell count, decreased platelets, and formation of blood clots
+- Inflammation of the lungs
+- Bleeding in the stomach or bowels that can cause death
+- Recurrence (reactivation) of hepatitis B infection when you have had hepatitis B in the past (a liver infection)
+- A reaction with fever, blisters on the skin, and ulceration of the mucous membranes
+- Disease of the kidneys with symptoms including oedema and abnormal laboratory test results such as protein in the urine and low protein level in the blood
+- Damage to blood vessels known as thrombotic microangiopathy (TMA), including decreased red blood cell count, decreased platelets, and formation of blood clots
 
 Your doctor will check for some of these effects during your treatment.
 
@@ -2386,10 +2382,10 @@ Do not throw away any medicines via wastewater or household waste. Ask your phar
 
 ## What Dasatinib Accord Healthcare contains
 
--  The active substance is dasatinib. Each film-coated tablet contains 20 mg, 50 mg, 70 mg, 80 mg, 100 mg or 140 mg dasatinib (as monohydrate).
--  The other ingredients are:
--  Tablet core: lactose monohydrate; cellulose, microcrystalline PH 101 (E460); croscarmellose sodium (E468); hydroxypropyl cellulose (E463); cellulose, microcrystalline PH 112 (E460); magnesium stearate (E470).
--  Film-coating : hypromellose (E464); titanium dioxide (E171); triacetin (E1518).
+- The active substance is dasatinib. Each film-coated tablet contains 20 mg, 50 mg, 70 mg, 80 mg, 100 mg or 140 mg dasatinib (as monohydrate).
+- The other ingredients are:
+- Tablet core: lactose monohydrate; cellulose, microcrystalline PH 101 (E460); croscarmellose sodium (E468); hydroxypropyl cellulose (E463); cellulose, microcrystalline PH 112 (E460); magnesium stearate (E470).
+- Film-coating : hypromellose (E464); titanium dioxide (E171); triacetin (E1518).
 
 ## What Dasatinib Accord Healthcare looks like and contents of the pack
 
@@ -2432,6 +2428,8 @@ Pharmadox Healthcare Limited Kw20a Kordin Industrial Park
 <div style=\"page-break-after: always\"></div>
 
 Paola, PLA 3000 Malta
+
+Accord Healthcare Single Member S.A., 64th Km National Road Athens, Lamia, Schimatari, 32009, Greece
 
 For any information about this medicine, please contact the local representative of the Marketing Authorisation Holder:
 

@@ -1,21 +1,97 @@
 ---
-document_datetime: 2025-12-29 12:47:53
+document_datetime: 2026-02-04 12:00:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/imraldi.html
 document_name: imraldi.html
 version: success
-processing_time: 0.1151138
-conversion_datetime: 2025-12-31 04:24:38.695537
+processing_time: 0.0997634
+conversion_datetime: 2026-02-09 22:09:59.92948
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.66.0
-  docling-core: 2.57.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.12.0
+  docling-jobkit: 1.10.1
+  docling: 2.72.0
+  docling-core: 2.63.0
+  docling-ibm-models: 3.11.0
+  docling-parse: 4.7.3
   python: cpython-313 (3.13.11)
   plaform: macOS-26.2-arm64-arm-64bit-Mach-O
 ---
+# Search
+
+- [Medicines](/en/medicines)
+    - [Find medicine](/en/medicines)
+    - [Therapeutic areas: latest updates](/en/medicines/therapeutic-areas-latest-updates)
+    - [Download medicine data](/en/medicines/download-medicine-data)
+    - [What we publish on medicines and when](/en/medicines/what-we-publish-medicines-when)
+    - [Medicines under evaluation](/en/medicines/medicines-human-use-under-evaluation)
+    - [National registers](/en/medicines/national-registers-authorised-medicines)
+- [Human regulatory](/en/human-regulatory-overview)
+    - [Overview](/en/human-regulatory-overview)
+    - [Research and development](/en/human-regulatory-overview/research-development)
+    - [Marketing authorisation](/en/human-regulatory-overview/marketing-authorisation)
+    - [Post-authorisation](/en/human-regulatory-overview/post-authorisation)
+    - [Medical devices](/en/human-regulatory-overview/medical-devices)
+    - [Herbal products](/en/human-regulatory-overview/herbal-medicinal-products)
+- [Veterinary regulatory](/en/veterinary-regulatory-overview)
+    - [Overview](/en/veterinary-regulatory-overview)
+    - [Research and development](/en/veterinary-regulatory-overview/research-development-veterinary-medicines)
+    - [Marketing authorisation](/en/veterinary-regulatory-overview/marketing-authorisation-veterinary-medicines)
+    - [Post-authorisation](/en/veterinary-regulatory-overview/post-authorisation-veterinary-medicines)
+- [Committees](/en/committees)
+    - [Overview](/en/committees)
+    - [How the committees work](/en/committees/how-committees-work)
+    - [CHMP](/en/committees/committee-medicinal-products-human-use-chmp)
+    - [CVMP](/en/committees/committee-veterinary-medicinal-products-cvmp)
+    - [PRAC](/en/committees/pharmacovigilance-risk-assessment-committee-prac)
+    - [COMP](/en/committees/committee-orphan-medicinal-products-comp)
+    - [HMPC](/en/committees/committee-herbal-medicinal-products-hmpc)
+    - [CAT](/en/committees/committee-advanced-therapies-cat)
+    - [PDCO](/en/committees/paediatric-committee-pdco)
+    - [Working parties and other groups](/en/committees/working-parties-other-groups)
+- [News &amp; events](/en/news-events)
+    - [Overview](/en/news-events)
+    - [News](/en/news)
+    - [Events](/en/events/upcoming-events)
+    - [What's new](/en/news-events/whats-new)
+    - [Committee highlights](/en/news-events/committee-highlights)
+    - [Publications](/en/news-and-events/publications)
+    - [Press and social media](/en/news-events/press-social-media)
+    - [Podcast: Inside EMA](/en/news-events/podcast-inside-ema)
+    - [Open consultations](/en/news-events/open-consultations)
+    - [RSS feeds](/en/news-events/rss-feeds)
+- [Partners &amp; networks](/en/partners-networks)
+    - [Overview](/en/partners-networks)
+    - [EU partners](/en/partners-networks/eu-partners)
+    - [International activities](/en/partners-networks/international-activities)
+    - [Patients and consumers](/en/partners-networks/patients-consumers)
+    - [Healthcare professionals](/en/partners-networks/healthcare-professionals)
+    - [Academia](/en/partners-networks/academia)
+    - [Pharmaceutical industry](/en/partners-networks/pharmaceutical-industry)
+    - [Networks](/en/partners-networks/networks)
+    - [Health technology assessment bodies](/en/partners-networks/health-technology-assessment-bodies)
+    - [One Health approach](/en/partners-networks/one-health-approach)
+    - [Animal health practitioners](/en/partners-networks/animal-health-practitioners)
+    - [One substance - one assessment](/en/partners-networks/one-substance-one-assessment-osoa-eu-collaboration-chemicals-related-data)
+- [About us](/en/about-us)
+    - [Overview](/en/about-us)
+    - [What we do](/en/about-us/what-we-do)
+    - [Who we are](/en/about-us/who-we-are)
+    - [How we work](/en/about-us/how-we-work)
+    - [Fees](/en/about-us/fees-payable-european-medicines-agency)
+    - [Support to SMEs](/en/about-us/support-smes)
+    - [Annual reports and work programmes](/en/about-us/annual-reports-work-programmes)
+    - [History of EMA](/en/about-us/history-ema)
+    - [Careers](/en/about-us/careers)
+    - [Procurement](/en/about-us/procurement-grants)
+    - [Glossaries](/en/about-us/glossaries)
+    - [About this website](/en/about-us/about-website)
+    - [Data protection and privacy](/en/about-us/data-protection-privacy-ema)
+    - [Contacts](/en/about-us/contacts-european-medicines-agency)
+
+1. [Home](/en/homepage)
+2. [Medicines](https://www.ema.europa.eu/en/medicines)
+3. Imraldi
+
 # Imraldi
 
 [RSS](/en/individual-human-medicine.xml/65637)
@@ -25,8 +101,6 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 adalimumab Medicine Human Authorised
-
-On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -133,7 +207,7 @@ English (EN) (84.33 KB - PDF)
 
 [View](/en/documents/overview/imraldi-epar-summary-public_en.pdf)
 
-[Other languages (15)](#file-language-dropdown-698)
+[Other languages (15)](#file-language-dropdown-785)
 
 български (BG) (116.07 KB - PDF)
 
@@ -315,15 +389,13 @@ Suomi (FI) (83.32 KB - PDF)
 
 [View](/fi/documents/overview/imraldi-epar-summary-public_fi.pdf)
 
-Imraldi : EPAR - Risk-management-plan summary
+Imraldi : EPAR - Risk-management-plan
 
-English (EN) (439.65 KB - PDF)
+English (EN) (824.27 KB - PDF)
 
-**First published:** 29/10/2020
+**First published:** 04/02/2026
 
-**Last updated:** 01/06/2022
-
-[View](/en/documents/rmp-summary/imraldi-epar-risk-management-plan-summary_en.pdf)
+[View](/en/documents/rmp/imraldi-epar-risk-management-plan_en.pdf)
 
 ## Product information
 
@@ -337,7 +409,7 @@ English (EN) (3.14 MB - PDF)
 
 [View](/en/documents/product-information/imraldi-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-873)
+[Other languages (24)](#file-language-dropdown-279)
 
 български (BG) (3.75 MB - PDF)
 
@@ -627,7 +699,7 @@ svenska (SV) (3.19 MB - PDF)
 
 [View](/sv/documents/product-information/imraldi-epar-product-information_sv.pdf)
 
-**Latest procedure affecting product information:** N/0000254755 12/03/2025
+**Latest procedure affecting product information:** VR/0000282472 15/01/2026
 
 icon globe
 
@@ -653,7 +725,7 @@ English (EN) (170.56 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/imraldi-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-337)
+[Other languages (24)](#file-language-dropdown-744)
 
 български (BG) (116.8 KB - PDF)
 
@@ -1052,7 +1124,7 @@ Samsung Bioepis NL B.V.
 
 Olof Palmestraat 10 2616 LR Delft The Netherlands
 
-Opinion adopted 21/06/2017 Marketing authorisation issued 24/08/2017 Revision 24
+Opinion adopted 21/06/2017 Marketing authorisation issued 24/08/2017 Revision 25
 
 ## Assessment history
 
@@ -1064,9 +1136,11 @@ Collapse section
 
 Imraldi : EPAR - Procedural steps taken and scientific information after authorisation
 
-English (EN) (140.19 KB - PDF)
+English (EN) (162.86 KB - PDF)
 
 **First published:** 13/03/2025
+
+**Last updated:** 04/02/2026
 
 [View](/en/documents/procedural-steps-after/imraldi-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf)
 
@@ -1134,7 +1208,7 @@ English (EN) (92.49 KB - PDF)
 - [Medicines](https://www.ema.europa.eu/en/search?f%5B0%5D=ema_search_topics%3A61)
 - [Paediatrics](https://www.ema.europa.eu/en/search?f%5B0%5D=ema_search_topics%3A65)
 
-**This page was last updated on** 13/03/2025
+**This page was last updated on** 04/02/2026
 
 ## Share this page
 

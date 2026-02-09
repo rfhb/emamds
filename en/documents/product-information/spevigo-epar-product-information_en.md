@@ -1,18 +1,18 @@
 ---
-document_datetime: 2025-09-19 12:35:24
-document_pages: 75
+document_datetime: 2026-02-05 14:03:35
+document_pages: 76
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/spevigo-epar-product-information_en.pdf
 document_name: spevigo-epar-product-information_en.pdf
 version: success
-processing_time: 19.06742
-conversion_datetime: 2025-12-31 03:33:47.150865
+processing_time: 20.1295029
+conversion_datetime: 2026-02-09 22:11:46.731991
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.66.0
-  docling-core: 2.57.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.12.0
+  docling-jobkit: 1.10.1
+  docling: 2.72.0
+  docling-core: 2.63.0
+  docling-ibm-models: 3.11.0
+  docling-parse: 4.7.3
   python: cpython-313 (3.13.11)
   plaform: macOS-26.2-arm64-arm-64bit-Mach-O
 ---
@@ -526,7 +526,8 @@ This medicinal product is compatible with infusion sets composed of polyvinylchl
 
 <div style=\"page-break-after: always\"></div>
 
-- slowly with 15 mL spesolimab sterile concentrate (two vials of 450 mg/7.5 mL).
+slowly with 15 mL spesolimab sterile concentrate (two vials of 450 mg/7.5 mL).
+
 - o For the recommended dose of 450 mg, draw and discard 7.5 mL from a 100 mL container of sodium chloride 9 mg/mL (0.9%) solution for injection and replace slowly with 7.5 mL spesolimab sterile concentrate (one vial of 450 mg/7.5 mL).
 - o Mix gently before use. The diluted spesolimab infusion solution should be used immediately.
 - Spevigo must not be mixed with other medicinal products. A pre-existing intravenous line may be used for administration of diluted spesolimab infusion solution, if the compatibility information above is considered. The line must be flushed with sodium chloride 9 mg/mL (0.9%) solution for injection prior to and at the end of infusion. No other infusion should be administered in parallel via the same intravenous access.
@@ -535,7 +536,7 @@ Any unused medicinal product or waste material should be disposed of in accordan
 
 ## 7. MARKETING AUTHORISATION HOLDER
 
-Boehringer Ingelheim International GmbH Binger Str. 173 55216 Ingelheim am Rhein Germany
+LEO Pharma A/S Industriparken 55 DK-2750 Ballerup Denmark
 
 ## 8. MARKETING AUTHORISATION NUMBER
 
@@ -545,7 +546,7 @@ EU/1/22/1688/001
 
 Date of first authorisation: 09 December 2022
 
-Date of latest renewal: 14 November 2024
+Date of latest renewal: 24 October 2025
 
 ## 10. DATE OF REVISION OF THE TEXT
 
@@ -1036,17 +1037,21 @@ Any unused medicinal product or waste material should be disposed of in accordan
 
 <div style=\"page-break-after: always\"></div>
 
-## 7. MARKETING AUTHORISATION HOLDER
+7.
 
-Boehringer Ingelheim International GmbH
+MARKETING AUTHORISATION HOLDER
 
-Binger Str. 173
+LEO Pharma A/S
 
-55216 Ingelheim am Rhein
+Industriparken 55
 
-Germany
+DK-2750 Ballerup
 
-## 8. MARKETING AUTHORISATION NUMBER
+Denmark
+
+8.
+
+MARKETING AUTHORISATION NUMBER
 
 Spevigo 150 mg solution for injection in pre-filled syringe
 
@@ -1056,13 +1061,17 @@ Spevigo 300 mg solution for injection in pre-filled syringe
 
 EU/1/22/1688/003
 
-## 9. DATE OF FIRST AUTHORISATION/RENEWAL OF THE AUTHORISATION
+9.
+
+DATE OF FIRST AUTHORISATION/RENEWAL OF THE AUTHORISATION
 
 Date of first authorisation: 09 December 2022
 
-Date of latest renewal: 14 November 2024
+Date of latest renewal: 24 October 2025
 
-## 10. DATE OF REVISION OF THE TEXT
+10.
+
+DATE OF REVISION OF THE TEXT
 
 Detailed information on this medicinal product is available on the website of the European Medicines Agency https://www.ema.europa.eu.
 
@@ -1195,10 +1204,10 @@ Prior to use, the unopened vial may be kept at temperatures up to 30 °C for up 
 | 11.   | NAMEANDADDRESS OF THE MARKETING AUTHORISATION HOLDER   |
 |-------|--------------------------------------------------------|
 
-Boehringer Ingelheim International GmbH 55216 Ingelheim am Rhein Germany
+LEO Pharma A/S Industriparken 55 DK-2750 Ballerup Denmark
 
-| 12. MARKETING AUTHORISATION NUMBER(S)   |
-|-----------------------------------------|
+| 12.   | MARKETING AUTHORISATION NUMBER(S)   |
+|-------|-------------------------------------|
 
 EU/1/22/1688/001
 
@@ -1218,8 +1227,8 @@ Lot
 
 Justification for not including Braille accepted.
 
-| 17. UNIQUE IDENTIFIER - 2D BARCODE   |
-|--------------------------------------|
+| 17.   | UNIQUE IDENTIFIER - 2D BARCODE   |
+|-------|----------------------------------|
 
 2D barcode carrying the unique identifier included.
 
@@ -1310,11 +1319,11 @@ Prior to use, Spevigo may be kept at temperatures up to 25 °C for up to 14 days
 
 Store in the original package in order to protect from light.
 
-10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
+## 10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
-Boehringer Ingelheim International GmbH 55216 Ingelheim am Rhein Germany
+LEO Pharma A/S Industriparken 55 DK-2750 Ballerup Denmark
 
 ## 12. MARKETING AUTHORISATION NUMBER(S)
 
@@ -1324,7 +1333,8 @@ EU/1/22/1688/002
 
 Lot
 
-14. GENERAL CLASSIFICATION FOR SUPPLY
+## 14. GENERAL CLASSIFICATION FOR SUPPLY
+
 15. INSTRUCTIONS ON USE
 
 ## 16. INFORMATION IN BRAILLE
@@ -1487,7 +1497,7 @@ Store in the original package in order to protect from light.
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
-Boehringer Ingelheim International GmbH 55216 Ingelheim am Rhein Germany
+LEO Pharma A/S Industriparken 55 DK-2750 Ballerup Denmark
 
 ## 12. MARKETING AUTHORISATION NUMBER(S)
 
@@ -1497,7 +1507,8 @@ EU/1/22/1688/003
 
 Lot
 
-14. GENERAL CLASSIFICATION FOR SUPPLY
+## 14. GENERAL CLASSIFICATION FOR SUPPLY
+
 15. INSTRUCTIONS ON USE
 
 ## 16. INFORMATION IN BRAILLE
@@ -1522,8 +1533,7 @@ NN
 |--------------------------------------------------------------------|
 | SYRINGE LABEL                                                      |
 
-| 1.   | NAMEOFTHEMEDICINAL PRODUCT AND ROUTE OF ADMINISTRATION   |
-|------|----------------------------------------------------------|
+## 1. NAME OF THE MEDICINAL PRODUCT AND ROUTE OF ADMINISTRATION
 
 Spevigo 300 mg injection spesolimab SC
 
@@ -1754,7 +1764,7 @@ Each pack contains two vials.
 
 ## Marketing Authorisation Holder
 
-Boehringer Ingelheim International GmbH Binger Str. 173 55216 Ingelheim am Rhein Germany
+LEO Pharma A/S Industriparken 55 DK-2750 Ballerup Denmark
 
 ## Manufacturer
 
@@ -1768,127 +1778,161 @@ For any information about this medicine, please contact the local representative
 
 ## België/Belgique/Belgien
 
-Boehringer Ingelheim SComm Tél/Tel: +32 2 773 33 11
+LEO Pharma N.V./S.A
+
+Tél/Tel: +32 3 740 7868
 
 ## България
 
-Бьорингер Ингелхайм РЦВ ГмбХ и Ко. КГ - клон България Тел: +359 2 958 79 98
+LEO Pharma A/S
+
+Teл.: +45 44 94 58 88
 
 ## Česká republika
 
-Boehringer Ingelheim spol. s r.o. Tel: +420 234 655 111
+LEO Pharma s.r.o.
+
+Tel: +420 734 575 982
 
 ## Danmark
 
-Boehringer Ingelheim Danmark A/S Tlf.: +45 39 15 88 88
+LEO Pharma AB
+
+Tlf: +45 70 22 49 11
 
 ## Deutschland
 
-Boehringer Ingelheim Pharma GmbH &amp; Co. KG Tel: +49 (0) 800 77 90 900
+LEO Pharma GmbH
+
+Tel: +49 6102 2010
 
 ## Eesti
 
-Boehringer Ingelheim RCV GmbH &amp; Co KG Eesti filiaal Tel: +372 612 8000
+LEO Pharma A/S
+
+Tel: +45 44 94 58 88
 
 ## Ελλάδα
 
-Boehringer Ingelheim Ελλάς Μονοπρόσωπη A.E. Tηλ: +30 2 10 89 06 300
+LEO Pharmaceutical Hellas S.A. Τηλ: +30 212 222 5000
 
 ## España
 
-Boehringer Ingelheim España, S.A. Tel: +34 93 404 51 00
+Laboratorios LEO Pharma, S.A. Tel: +34 93 221 3366
 
 ## France
 
-Boehringer Ingelheim France S.A.S. Tél: +33 3 26 50 45 33
+Laboratoires LEO
+
+Tél: +33 1 3014 4000
 
 ## Hrvatska
 
-Boehringer Ingelheim Zagreb d.o.o. Tel: +385 1 2444 600
+LEO Pharma A/S
+
+Tel: +45 44 94 58 88
 
 ## Ireland
 
-Boehringer Ingelheim Ireland Ltd. Tel: +353 1 295 9620
+LEO Laboratories Ltd Tel: +353 (0) 1 490 8924
 
 ## Ísland
 
-Vistor ehf. Sími: +354 535 7000
+LEO Pharma A/S
 
-## Lietuva
-
-Boehringer Ingelheim RCV GmbH &amp; Co KG Lietuvos filialas Tel: +370 5 2595942
-
-## Luxembourg/Luxemburg
-
-Boehringer Ingelheim SComm Tél/Tel: +32 2 773 33 11
-
-## Magyarország
-
-Boehringer Ingelheim RCV GmbH &amp; Co KG Magyarországi Fióktelepe Tel: +36 1 299 89 00
-
-## Malta
-
-Boehringer Ingelheim Ireland Ltd. Tel: +353 1 295 9620
-
-## Nederland
-
-Boehringer Ingelheim B.V. Tel: +31 (0) 800 22 55 889
-
-## Norge
-
-Boehringer Ingelheim Danmark Norwegian branch Tlf: +47 66 76 13 00
-
-## Österreich
-
-Boehringer Ingelheim RCV GmbH &amp; Co KG Tel: +43 1 80 105-7870
-
-## Polska
-
-Boehringer Ingelheim Sp. z o.o. Tel: +48 22 699 0 699
-
-## Portugal
-
-Boehringer Ingelheim Portugal, Lda. Tel: +351 21 313 53 00
-
-## România
-
-Boehringer Ingelheim RCV GmbH &amp; Co KG Viena - Sucursala Bucureşti Tel: +40 21 302 28 00
-
-## Slovenija
-
-Boehringer Ingelheim RCV GmbH &amp; Co KG Podružnica Ljubljana Tel: +386 1 586 40 00
-
-## Slovenská republika
-
-Boehringer Ingelheim RCV GmbH &amp; Co KG organizačná zložka Tel: +421 2 5810 1211
+Sími: +45 44 94 58 88
 
 ## Italia
 
-Boehringer Ingelheim Italia S.p.A.
+LEO Pharma S.p.A
 
-Tel: +39 02 5355 1
-
-## Suomi/Finland
-
-Boehringer Ingelheim Finland Ky Puh/Tel: +358 10 3102 800
+Tel: +39 06 52625500
 
 ## Κύπρος
 
-Boehringer Ingelheim Ελλάς Μονοπρόσωπη A.E. Tηλ: +30 2 10 89 06 300
+LEO Pharma A/S
+
+## Lietuva
+
+LEO Pharma A/S
+
+Tel: +45 44 94 58 88
+
+## Luxembourg/Luxemburg
+
+LEO Pharma N.V./S.A
+
+Tél/Tel: +32 3 740 7868
+
+## Magyarország
+
+LEO Pharma A/S
+
+Tel: +45 44 94 58 88
+
+## Malta
+
+LEO Pharma A/S
+
+Tel: +45 44 94 58 88
+
+## Nederland
+
+LEO Pharma B.V.
+
+Tel: +31 205104141
+
+## Norge
+
+LEO Pharma AS
+
+Tlf: +47 22514900
+
+## Österreich
+
+LEO Pharma GmbH
+
+Tel: +43 1 503 6979
+
+## Polska
+
+LEO Pharma Sp. z o.o.
+
+Tel.: +48 22 244 18 40
+
+## Portugal
+
+LEO Farmacêuticos Lda. Tel: +351 21 711 0760
+
+## România
+
+LEO Pharma A/S
+
+Tel: +45 44 94 58 88
+
+## Slovenija
+
+LEO Pharma A/S
+
+Tel: +45 44 94 58 88
+
+## Slovenská republika
+
+LEO Pharma s.r.o. Tel: +420 734 575 982
+
+## Suomi/Finland
+
+LEO Pharma Oy Puh/Tel: +358 20 721 8440
 
 ## Sverige
 
-Boehringer Ingelheim AB
+LEO Pharma AB
 
-Tel: +46 8 721 21 00
-
-## Latvija
-
-Boehringer Ingelheim RCV GmbH &amp; Co KG Latvijas filiāle
-
-Tel: +371 67 240 011
+Τηλ: +45 44 94 58 88
 
 <div style=\"page-break-after: always\"></div>
+
+Latvija LEO Pharma A/S Tel: +45 44 94 58 88
 
 ## This leaflet was last revised in {MM/YYYY}.
 
@@ -1922,15 +1966,18 @@ In the event that the infusion is slowed or temporarily stopped, the total infus
 
 ## Handling instructions
 
+- •
 - The vial should be visually inspected before use.
 - -Spevigo is a colourless to slightly brownish-yellow, clear to slightly opalescent solution.
-
-<div style=\"page-break-after: always\"></div>
-
 - -If the solution is cloudy, discoloured, or contains large or coloured particulates, the vial should be discarded.
 - Spesolimab sterile concentrate is for single use only.
 - Aseptic technique must be used to prepare the solution for infusion:
-- o For the recommended dose of 900 mg, draw and discard 15 mL from a 100 mL container of sodium chloride 9 mg/mL (0.9%) solution for injection and replace slowly with 15 mL spesolimab sterile concentrate (two vials of 450 mg/7.5 mL).
+- o For the recommended dose of 900 mg, draw and discard 15 mL from a 100 mL
+
+<div style=\"page-break-after: always\"></div>
+
+container of sodium chloride 9 mg/mL (0.9%) solution for injection and replace slowly with 15 mL spesolimab sterile concentrate (two vials of 450 mg/7.5 mL).
+
 - o For the recommended dose of 450 mg, draw and discard 7.5 mL from a 100 mL container of sodium chloride 9 mg/mL (0.9%) solution for injection and replace slowly with 7.5 mL spesolimab sterile concentrate (one vial of 450 mg/7.5 mL).
 - o Mix gently before use. The diluted spesolimab infusion solution should be used immediately.
 - Spevigo must not be mixed with other medicinal products. A pre-existing intravenous line may be used for administration of the diluted spesolimab infusion solution. The line must be flushed with sodium chloride 9 mg/mL (0.9%) solution for injection prior to and at the end of infusion. No other infusion should be administered in parallel via the same intravenous access.
@@ -2185,179 +2232,183 @@ Each pack contains 2 pre-filled syringes.
 
 ## Marketing Authorisation Holder
 
-Boehringer Ingelheim International GmbH Binger Str. 173 55216 Ingelheim am Rhein Germany
+LEO Pharma A/S Industriparken 55 DK-2750 Ballerup Denmark
 
 ## Manufacturer
 
 Boehringer Ingelheim Pharma GmbH &amp; Co. KG Birkendorfer Strasse 65 88397 Biberach an der Riss Germany
 
+<div style=\"page-break-after: always\"></div>
+
 For any information about this medicine, please contact the local representative of the Marketing Authorisation Holder:
 
 ## België/Belgique/Belgien
 
-Boehringer Ingelheim SComm Tél/Tel: +32 2 773 33 11
+LEO Pharma N.V./S.A
 
-## Lietuva
-
-Boehringer Ingelheim RCV GmbH &amp; Co KG Lietuvos filialas Tel: +370 5 2595942
+Tél/Tel: +32 3 740 7868
 
 ## България
 
-Бьорингер Ингелхайм РЦВ ГмбХ и Ко. КГ - клон България
+LEO Pharma A/S
 
-Тел: +359 2 958 79 98
-
-## Luxembourg/Luxemburg
-
-Boehringer Ingelheim SComm
-
-Tél/Tel: +32 2 773 33 11
+Teл.: +45 44 94 58 88
 
 ## Česká republika
 
-Boehringer Ingelheim spol. s r.o.
+LEO Pharma s.r.o.
 
-Tel: +420 234 655 111
-
-## Magyarország
-
-Boehringer Ingelheim RCV GmbH &amp; Co KG Magyarországi Fióktelepe Tel: +36 1 299 89 00
+Tel: +420 734 575 982
 
 ## Danmark
 
-Boehringer Ingelheim Danmark A/S Tlf.: +45 39 15 88 88
+LEO Pharma AB
 
-## Malta
-
-Boehringer Ingelheim Ireland Ltd.
-
-Tel: +353 1 295 9620
+Tlf: +45 70 22 49 11
 
 ## Deutschland
 
-Boehringer Ingelheim Pharma GmbH &amp; Co. KG Tel: +49 (0) 800 77 90 900
+LEO Pharma GmbH
 
-## Nederland
-
-Boehringer Ingelheim B.V.
-
-Tel: +31 (0) 800 22 55 889
+Tel: +49 6102 2010
 
 ## Eesti
 
-Boehringer Ingelheim RCV GmbH &amp; Co KG
+LEO Pharma A/S
 
-## Norge
-
-Boehringer Ingelheim Danmark
-
-Eesti filiaal
-
-<div style=\"page-break-after: always\"></div>
-
-Tel: +372 612 8000
+Tel: +45 44 94 58 88
 
 ## Ελλάδα
 
-Boehringer Ingelheim Ελλάς Μονοπρόσωπη A.E. Tηλ: +30 2 10 89 06 300
+LEO Pharmaceutical Hellas S.A. Τηλ: +30 212 222 5000
 
 ## España
 
-Boehringer Ingelheim España, S.A. Tel: +34 93 404 51 00
+Laboratorios LEO Pharma, S.A.
+
+Tel: +34 93 221 3366
 
 ## France
 
-Boehringer Ingelheim France S.A.S. Tél: +33 3 26 50 45 33
+Laboratoires LEO
+
+Tél: +33 1 3014 4000
 
 ## Hrvatska
 
-Boehringer Ingelheim Zagreb d.o.o.
+LEO Pharma A/S
 
-Tel: +385 1 2444 600
+Tel: +45 44 94 58 88
 
 ## Ireland
 
-Boehringer Ingelheim Ireland Ltd. Tel: +353 1 295 9620
+LEO Laboratories Ltd Tel: +353 (0) 1 490 8924
 
 ## Ísland
 
-Vistor ehf.
+LEO Pharma A/S
 
-Sími: +354 535 7000
+Sími: +45 44 94 58 88
 
 ## Italia
 
-Boehringer Ingelheim Italia S.p.A.
+LEO Pharma S.p.A
 
-Tel: +39 02 5355 1
+Tel: +39 06 52625500
 
 ## Κύπρος
 
-Boehringer Ingelheim Ελλάς Μονοπρόσωπη A.E. Tηλ: +30 2 10 89 06 300
+LEO Pharma A/S
+
+## Lietuva
+
+LEO Pharma A/S
+
+Tel: +45 44 94 58 88
+
+## Luxembourg/Luxemburg
+
+LEO Pharma N.V./S.A
+
+Tél/Tel: +32 3 740 7868
+
+## Magyarország
+
+LEO Pharma A/S
+
+Tel: +45 44 94 58 88
+
+## Malta
+
+LEO Pharma A/S
+
+Tel: +45 44 94 58 88
+
+## Nederland
+
+LEO Pharma B.V.
+
+Tel: +31 205104141
+
+## Norge
+
+LEO Pharma AS
+
+Tlf: +47 22514900
+
+## Österreich
+
+LEO Pharma GmbH
+
+Tel: +43 1 503 6979
+
+## Polska
+
+LEO Pharma Sp. z o.o.
+
+Tel.: +48 22 244 18 40
+
+## Portugal
+
+LEO Farmacêuticos Lda. Tel: +351 21 711 0760
+
+## România
+
+LEO Pharma A/S
+
+Tel: +45 44 94 58 88
+
+## Slovenija
+
+LEO Pharma A/S
+
+Tel: +45 44 94 58 88
+
+## Slovenská republika
+
+LEO Pharma s.r.o. Tel: +420 734 575 982
+
+## Suomi/Finland
+
+LEO Pharma Oy Puh/Tel: +358 20 721 8440
+
+## Sverige
+
+LEO Pharma AB
+
+<div style=\"page-break-after: always\"></div>
+
+Τηλ: +45 44 94 58 88
 
 ## Latvija
 
-Boehringer Ingelheim RCV GmbH &amp; Co KG Latvijas filiāle
-
-Tel: +371 67 240 011
+LEO Pharma A/S Tel: +45 44 94 58 88
 
 ## This leaflet was last revised in {MM/YYYY}.
 
 ## Other sources of information
 
 Detailed information on this medicine is available on the European Medicines Agency web site: https://www.ema.europa.eu.
-
-Norwegian branch
-
-Tlf: +47 66 76 13 00
-
-## Österreich
-
-Boehringer Ingelheim RCV GmbH &amp; Co KG
-
-Tel: +43 1 80 105-7870
-
-## Polska
-
-Boehringer Ingelheim Sp. z o.o.
-
-Tel: +48 22 699 0 699
-
-## Portugal
-
-Boehringer Ingelheim Portugal, Lda.
-
-Tel: +351 21 313 53 00
-
-## România
-
-Boehringer Ingelheim RCV GmbH &amp; Co KG Viena
-
-- Sucursala Bucureşti
-
-Tel: +40 21 302 28 00
-
-## Slovenija
-
-Boehringer Ingelheim RCV GmbH &amp; Co KG Podružnica Ljubljana Tel: +386 1 586 40 00
-
-## Slovenská republika
-
-Boehringer Ingelheim RCV GmbH &amp; Co KG organizačná zložka
-
-Tel: +421 2 5810 1211
-
-## Suomi/Finland
-
-Boehringer Ingelheim Finland Ky
-
-Puh/Tel: +358 10 3102 800
-
-## Sverige
-
-Boehringer Ingelheim AB
-
-Tel: +46 8 721 21 00
 
 <div style=\"page-break-after: always\"></div>
 
@@ -2414,13 +2465,24 @@ Follow the steps below when you use Spevigo
 
 <!-- image -->
 
+| STEP 1   | Gathering supplies                                                                                                                                                                                                                                                                                                                                     |
+|----------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+|          | • Take the Spevigo carton out of the refrigerator and remove the pre-filled syringes from the carton. • Gather supplies listed on the left side and place them on a clean, flat work surface in a well-lit area. • If you do not have all the supplies listed, contact your pharmacist. • For disposal, see step 10: 'Disposing of the used pre-filled |
+|          | syringes and caps.'                                                                                                                                                                                                                                                                                                                                    |
+
+## STEP 2
+
+## Bringmedicineto roomtemperature
+
 <!-- image -->
 
-| STEP 1   | Gathering supplies                                                                                                                                                                                                                                                                                                                                                         |
-|----------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-|          | • Take the Spevigo carton out of the refrigerator and remove the pre-filled syringes from the carton. • Gather supplies listed on the left side and place them on a clean, flat work surface in a well-lit area. • If you do not have all the supplies listed, contact your pharmacist. • For disposal, see step 10: 'Disposing of the used pre-filled syringes and caps.' |
-| STEP 2   | Preparing to inject Spevigo                                                                                                                                                                                                                                                                                                                                                |
-|          | • Wait 15 to 30 minutes to allow the medicine to reach room temperature to avoid discomfort during injection. Do not speed up the warming process in any way, such as using the microwave or placing the syringe in warm water. • Do not leave the pre-filled syringes in direct sunlight. • Wash your hands well with soap and water and dry them.                        |
+## Preparing to inject Spevigo
+
+- Wait 15 to 30 minutes to allow the medicine to reach room temperature to avoid discomfort during injection. Do not speed up the warming process in any way, such as using the microwave or placing the syringe in warm water.
+- Do not leave the pre-filled syringes in direct sunlight.
+- Wash your hands well with soap and water and dry them.
+
+## Washhands
 
 <!-- image -->
 
@@ -2804,7 +2866,7 @@ Each pack contains 1 pre-filled syringe.
 
 ## Marketing Authorisation Holder
 
-Boehringer Ingelheim International GmbH Binger Str. 173 55216 Ingelheim am Rhein Germany
+LEO Pharma A/S Industriparken 55 DK-2750 Ballerup Denmark
 
 ## Manufacturer
 
@@ -2816,121 +2878,141 @@ For any information about this medicine, please contact the local representative
 
 ## België/Belgique/Belgien
 
-Boehringer Ingelheim SComm Tél/Tel: +32 2 773 33 11
+LEO Pharma N.V./S.A Tél/Tel: +32 3 740 7868
 
 ## България
 
-Бьорингер Ингелхайм РЦВ ГмбХ и Ко. КГ - клон България Тел: +359 2 958 79 98
+LEO Pharma A/S
+
+Teл.: +45 44 94 58 88
 
 ## Česká republika
 
-Boehringer Ingelheim spol. s r.o. Tel: +420 234 655 111
+LEO Pharma s.r.o.
+
+Tel: +420 734 575 982
 
 ## Danmark
 
-Boehringer Ingelheim Danmark A/S Tlf.: +45 39 15 88 88
+LEO Pharma AB
+
+Tlf: +45 70 22 49 11
 
 ## Deutschland
 
-Boehringer Ingelheim Pharma GmbH &amp; Co. KG Tel: +49 (0) 800 77 90 900
+LEO Pharma GmbH Tel: +49 6102 2010
 
 ## Eesti
 
-Boehringer Ingelheim RCV GmbH &amp; Co KG Eesti filiaal Tel: +372 612 8000
+LEO Pharma A/S Tel: +45 44 94 58 88
 
 ## Ελλάδα
 
-Boehringer Ingelheim Ελλάς Μονοπρόσωπη A.E. Tηλ: +30 2 10 89 06 300
+LEO Pharmaceutical Hellas S.A. Τηλ: +30 212 222 5000
 
 ## España
 
-Boehringer Ingelheim España, S.A. Tel: +34 93 404 51 00
+Laboratorios LEO Pharma, S.A. Tel: +34 93 221 3366
 
 ## France
 
-Boehringer Ingelheim France S.A.S. Tél: +33 3 26 50 45 33
+Laboratoires LEO
+
+Tél: +33 1 3014 4000
 
 ## Hrvatska
 
-Boehringer Ingelheim Zagreb d.o.o. Tel: +385 1 2444 600
+LEO Pharma A/S
+
+Tel: +45 44 94 58 88
 
 ## Ireland
 
-Boehringer Ingelheim Ireland Ltd. Tel: +353 1 295 9620
+LEO Laboratories Ltd Tel: +353 (0) 1 490 8924
 
 ## Ísland
 
-Vistor ehf. Sími: +354 535 7000
-
-## Lietuva
-
-Boehringer Ingelheim RCV GmbH &amp; Co KG Lietuvos filialas Tel: +370 5 2595942
-
-## Luxembourg/Luxemburg
-
-Boehringer Ingelheim SComm Tél/Tel: +32 2 773 33 11
-
-## Magyarország
-
-Boehringer Ingelheim RCV GmbH &amp; Co KG Magyarországi Fióktelepe Tel: +36 1 299 89 00
-
-## Malta
-
-Boehringer Ingelheim Ireland Ltd. Tel: +353 1 295 9620
-
-## Nederland
-
-Boehringer Ingelheim B.V. Tel: +31 (0) 800 22 55 889
-
-## Norge
-
-Boehringer Ingelheim Danmark Norwegian branch Tlf: +47 66 76 13 00
-
-## Österreich
-
-Boehringer Ingelheim RCV GmbH &amp; Co KG Tel: +43 1 80 105-7870
-
-## Polska
-
-Boehringer Ingelheim Sp. z o.o. Tel: +48 22 699 0 699
-
-## Portugal
-
-Boehringer Ingelheim Portugal, Lda. Tel: +351 21 313 53 00
-
-## România
-
-Boehringer Ingelheim RCV GmbH &amp; Co KG Viena - Sucursala Bucureşti Tel: +40 21 302 28 00
-
-## Slovenija
-
-Boehringer Ingelheim RCV GmbH &amp; Co KG Podružnica Ljubljana Tel: +386 1 586 40 00
-
-## Slovenská republika
-
-Boehringer Ingelheim RCV GmbH &amp; Co KG organizačná zložka
-
-Tel: +421 2 5810 1211
-
-<div style=\"page-break-after: always\"></div>
+LEO Pharma A/S Sími: +45 44 94 58 88
 
 ## Italia
 
-Boehringer Ingelheim Italia S.p.A.
-
-Tel: +39 02 5355 1
+LEO Pharma S.p.A Tel: +39 06 52625500
 
 ## Κύπρος
 
-Boehringer Ingelheim Ελλάς Μονοπρόσωπη A.E.
+LEO Pharma A/S
 
-Tηλ: +30 2 10 89 06 300
+## Lietuva
+
+LEO Pharma A/S
+
+Tel: +45 44 94 58 88
+
+## Luxembourg/Luxemburg
+
+LEO Pharma N.V./S.A Tél/Tel: +32 3 740 7868
+
+## Magyarország
+
+LEO Pharma A/S Tel: +45 44 94 58 88
+
+## Malta
+
+LEO Pharma A/S Tel: +45 44 94 58 88
+
+## Nederland
+
+LEO Pharma B.V. Tel: +31 205104141
+
+## Norge
+
+LEO Pharma AS Tlf: +47 22514900
+
+## Österreich
+
+LEO Pharma GmbH Tel: +43 1 503 6979
+
+## Polska
+
+LEO Pharma Sp. z o.o.
+
+Tel.: +48 22 244 18 40
+
+## Portugal
+
+LEO Farmacêuticos Lda. Tel: +351 21 711 0760
+
+## România
+
+LEO Pharma A/S Tel: +45 44 94 58 88
+
+## Slovenija
+
+LEO Pharma A/S Tel: +45 44 94 58 88
+
+## Slovenská republika
+
+LEO Pharma s.r.o.
+
+Tel: +420 734 575 982
+
+## Suomi/Finland
+
+LEO Pharma Oy Puh/Tel: +358 20 721 8440
+
+## Sverige
+
+LEO Pharma AB
+
+Τηλ: +45 44 94 58 88
+
+<div style=\"page-break-after: always\"></div>
 
 ## Latvija
 
-Boehringer Ingelheim RCV GmbH &amp; Co KG Latvijas filiāle
+LEO Pharma A/S
 
-Tel: +371 67 240 011
+Tel: +45 44 94 58 88
 
 ## This leaflet was last revised in {MM/YYYY}
 
@@ -2938,15 +3020,7 @@ Tel: +371 67 240 011
 
 Detailed information on this medicine is available on the European Medicines Agency web site: https://www.ema.europa.eu.
 
-## Suomi/Finland
-
-Boehringer Ingelheim Finland Ky Puh/Tel: +358 10 3102 800
-
-## Sverige
-
-Boehringer Ingelheim AB
-
-Tel: +46 8 721 21 00
+Tel: +46 40 3522 00
 
 <div style=\"page-break-after: always\"></div>
 
@@ -2991,7 +3065,7 @@ The following picture shows Spevigo before use and after use with the activated 
 - If you have any problems with your injection, do not repeat the injection steps with Spevigo pre-filled syringe. Call your doctor for help.
 - If you have further questions, ask your doctor or pharmacist.
 
-Follow the steps below when you use Spevigo
+## Follow the steps below when you use Spevigo
 
 <!-- image -->
 

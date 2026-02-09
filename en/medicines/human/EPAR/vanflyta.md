@@ -1,21 +1,97 @@
 ---
-document_datetime: 2025-12-29 12:33:36
+document_datetime: 2026-02-05 16:04:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/vanflyta.html
 document_name: vanflyta.html
 version: success
-processing_time: 0.1065135
-conversion_datetime: 2025-12-31 03:47:35.099004
+processing_time: 0.1107832
+conversion_datetime: 2026-02-09 22:33:06.575289
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.66.0
-  docling-core: 2.57.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.12.0
+  docling-jobkit: 1.10.1
+  docling: 2.72.0
+  docling-core: 2.63.0
+  docling-ibm-models: 3.11.0
+  docling-parse: 4.7.3
   python: cpython-313 (3.13.11)
   plaform: macOS-26.2-arm64-arm-64bit-Mach-O
 ---
+# Search
+
+- [Medicines](/en/medicines)
+    - [Find medicine](/en/medicines)
+    - [Therapeutic areas: latest updates](/en/medicines/therapeutic-areas-latest-updates)
+    - [Download medicine data](/en/medicines/download-medicine-data)
+    - [What we publish on medicines and when](/en/medicines/what-we-publish-medicines-when)
+    - [Medicines under evaluation](/en/medicines/medicines-human-use-under-evaluation)
+    - [National registers](/en/medicines/national-registers-authorised-medicines)
+- [Human regulatory](/en/human-regulatory-overview)
+    - [Overview](/en/human-regulatory-overview)
+    - [Research and development](/en/human-regulatory-overview/research-development)
+    - [Marketing authorisation](/en/human-regulatory-overview/marketing-authorisation)
+    - [Post-authorisation](/en/human-regulatory-overview/post-authorisation)
+    - [Medical devices](/en/human-regulatory-overview/medical-devices)
+    - [Herbal products](/en/human-regulatory-overview/herbal-medicinal-products)
+- [Veterinary regulatory](/en/veterinary-regulatory-overview)
+    - [Overview](/en/veterinary-regulatory-overview)
+    - [Research and development](/en/veterinary-regulatory-overview/research-development-veterinary-medicines)
+    - [Marketing authorisation](/en/veterinary-regulatory-overview/marketing-authorisation-veterinary-medicines)
+    - [Post-authorisation](/en/veterinary-regulatory-overview/post-authorisation-veterinary-medicines)
+- [Committees](/en/committees)
+    - [Overview](/en/committees)
+    - [How the committees work](/en/committees/how-committees-work)
+    - [CHMP](/en/committees/committee-medicinal-products-human-use-chmp)
+    - [CVMP](/en/committees/committee-veterinary-medicinal-products-cvmp)
+    - [PRAC](/en/committees/pharmacovigilance-risk-assessment-committee-prac)
+    - [COMP](/en/committees/committee-orphan-medicinal-products-comp)
+    - [HMPC](/en/committees/committee-herbal-medicinal-products-hmpc)
+    - [CAT](/en/committees/committee-advanced-therapies-cat)
+    - [PDCO](/en/committees/paediatric-committee-pdco)
+    - [Working parties and other groups](/en/committees/working-parties-other-groups)
+- [News &amp; events](/en/news-events)
+    - [Overview](/en/news-events)
+    - [News](/en/news)
+    - [Events](/en/events/upcoming-events)
+    - [What's new](/en/news-events/whats-new)
+    - [Committee highlights](/en/news-events/committee-highlights)
+    - [Publications](/en/news-and-events/publications)
+    - [Press and social media](/en/news-events/press-social-media)
+    - [Podcast: Inside EMA](/en/news-events/podcast-inside-ema)
+    - [Open consultations](/en/news-events/open-consultations)
+    - [RSS feeds](/en/news-events/rss-feeds)
+- [Partners &amp; networks](/en/partners-networks)
+    - [Overview](/en/partners-networks)
+    - [EU partners](/en/partners-networks/eu-partners)
+    - [International activities](/en/partners-networks/international-activities)
+    - [Patients and consumers](/en/partners-networks/patients-consumers)
+    - [Healthcare professionals](/en/partners-networks/healthcare-professionals)
+    - [Academia](/en/partners-networks/academia)
+    - [Pharmaceutical industry](/en/partners-networks/pharmaceutical-industry)
+    - [Networks](/en/partners-networks/networks)
+    - [Health technology assessment bodies](/en/partners-networks/health-technology-assessment-bodies)
+    - [One Health approach](/en/partners-networks/one-health-approach)
+    - [Animal health practitioners](/en/partners-networks/animal-health-practitioners)
+    - [One substance - one assessment](/en/partners-networks/one-substance-one-assessment-osoa-eu-collaboration-chemicals-related-data)
+- [About us](/en/about-us)
+    - [Overview](/en/about-us)
+    - [What we do](/en/about-us/what-we-do)
+    - [Who we are](/en/about-us/who-we-are)
+    - [How we work](/en/about-us/how-we-work)
+    - [Fees](/en/about-us/fees-payable-european-medicines-agency)
+    - [Support to SMEs](/en/about-us/support-smes)
+    - [Annual reports and work programmes](/en/about-us/annual-reports-work-programmes)
+    - [History of EMA](/en/about-us/history-ema)
+    - [Careers](/en/about-us/careers)
+    - [Procurement](/en/about-us/procurement-grants)
+    - [Glossaries](/en/about-us/glossaries)
+    - [About this website](/en/about-us/about-website)
+    - [Data protection and privacy](/en/about-us/data-protection-privacy-ema)
+    - [Contacts](/en/about-us/contacts-european-medicines-agency)
+
+1. [Home](/en/homepage)
+2. [Medicines](https://www.ema.europa.eu/en/medicines)
+3. Vanflyta
+
 # Vanflyta
 
 [RSS](/en/individual-human-medicine.xml/77399)
@@ -25,8 +101,6 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 quizartinib Medicine Human Authorised
-
-On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -39,6 +113,7 @@ Page contents
 - [Assessment history](#assessment-history)
 - [News on Vanflyta](#news-on)
 - [More information on Vanflyta](#more-information-on-vanflyta-63336)
+- [Product information - with tracked changes](#product-information-with-tracked-changes-83311)
 - [More information on Vanflyta](#related-medicines)
 
 - Application under evaluation
@@ -115,7 +190,7 @@ English (EN) (119.61 KB - PDF)
 
 [View](/en/documents/overview/vanflyta-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-378)
+[Other languages (22)](#file-language-dropdown-573)
 
 български (BG) (142.14 KB - PDF)
 
@@ -305,17 +380,17 @@ English (EN) (1.07 MB - PDF)
 
 Vanflyta : EPAR - Product information
 
-English (EN) (535.47 KB - PDF)
+English (EN) (417.13 KB - PDF)
 
 **First published:** 21/11/2023
 
-**Last updated:** 18/12/2024
+**Last updated:** 05/02/2026
 
 [View](/en/documents/product-information/vanflyta-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-234)
+[Other languages (24)](#file-language-dropdown-149)
 
-български (BG) (604.2 KB - PDF)
+български (BG) (548.24 KB - PDF)
 
 **First published:**
 
@@ -323,11 +398,11 @@ English (EN) (535.47 KB - PDF)
 
 **Last updated:**
 
-18/12/2024
+05/02/2026
 
 [View](/bg/documents/product-information/vanflyta-epar-product-information_bg.pdf)
 
-español (ES) (509.35 KB - PDF)
+español (ES) (467.36 KB - PDF)
 
 **First published:**
 
@@ -335,11 +410,11 @@ español (ES) (509.35 KB - PDF)
 
 **Last updated:**
 
-18/12/2024
+05/02/2026
 
 [View](/es/documents/product-information/vanflyta-epar-product-information_es.pdf)
 
-čeština (CS) (542.94 KB - PDF)
+čeština (CS) (545 KB - PDF)
 
 **First published:**
 
@@ -347,11 +422,11 @@ español (ES) (509.35 KB - PDF)
 
 **Last updated:**
 
-18/12/2024
+05/02/2026
 
 [View](/cs/documents/product-information/vanflyta-epar-product-information_cs.pdf)
 
-dansk (DA) (521.09 KB - PDF)
+dansk (DA) (489.26 KB - PDF)
 
 **First published:**
 
@@ -359,11 +434,11 @@ dansk (DA) (521.09 KB - PDF)
 
 **Last updated:**
 
-18/12/2024
+05/02/2026
 
 [View](/da/documents/product-information/vanflyta-epar-product-information_da.pdf)
 
-Deutsch (DE) (526.69 KB - PDF)
+Deutsch (DE) (500.62 KB - PDF)
 
 **First published:**
 
@@ -371,11 +446,11 @@ Deutsch (DE) (526.69 KB - PDF)
 
 **Last updated:**
 
-18/12/2024
+05/02/2026
 
 [View](/de/documents/product-information/vanflyta-epar-product-information_de.pdf)
 
-eesti keel (ET) (501.14 KB - PDF)
+eesti keel (ET) (493.42 KB - PDF)
 
 **First published:**
 
@@ -383,11 +458,11 @@ eesti keel (ET) (501.14 KB - PDF)
 
 **Last updated:**
 
-18/12/2024
+05/02/2026
 
 [View](/et/documents/product-information/vanflyta-epar-product-information_et.pdf)
 
-ελληνικά (EL) (583.52 KB - PDF)
+ελληνικά (EL) (540.77 KB - PDF)
 
 **First published:**
 
@@ -395,11 +470,11 @@ eesti keel (ET) (501.14 KB - PDF)
 
 **Last updated:**
 
-18/12/2024
+05/02/2026
 
 [View](/el/documents/product-information/vanflyta-epar-product-information_el.pdf)
 
-français (FR) (549.9 KB - PDF)
+français (FR) (547.65 KB - PDF)
 
 **First published:**
 
@@ -407,11 +482,11 @@ français (FR) (549.9 KB - PDF)
 
 **Last updated:**
 
-18/12/2024
+05/02/2026
 
 [View](/fr/documents/product-information/vanflyta-epar-product-information_fr.pdf)
 
-hrvatski (HR) (614.32 KB - PDF)
+hrvatski (HR) (551.02 KB - PDF)
 
 **First published:**
 
@@ -419,11 +494,11 @@ hrvatski (HR) (614.32 KB - PDF)
 
 **Last updated:**
 
-18/12/2024
+05/02/2026
 
 [View](/hr/documents/product-information/vanflyta-epar-product-information_hr.pdf)
 
-íslenska (IS) (514.63 KB - PDF)
+íslenska (IS) (464.36 KB - PDF)
 
 **First published:**
 
@@ -431,11 +506,11 @@ hrvatski (HR) (614.32 KB - PDF)
 
 **Last updated:**
 
-18/12/2024
+05/02/2026
 
 [View](/is/documents/product-information/vanflyta-epar-product-information_is.pdf)
 
-italiano (IT) (545.58 KB - PDF)
+italiano (IT) (501.79 KB - PDF)
 
 **First published:**
 
@@ -443,11 +518,11 @@ italiano (IT) (545.58 KB - PDF)
 
 **Last updated:**
 
-18/12/2024
+05/02/2026
 
 [View](/it/documents/product-information/vanflyta-epar-product-information_it.pdf)
 
-latviešu valoda (LV) (546.39 KB - PDF)
+latviešu valoda (LV) (504.43 KB - PDF)
 
 **First published:**
 
@@ -455,11 +530,11 @@ latviešu valoda (LV) (546.39 KB - PDF)
 
 **Last updated:**
 
-18/12/2024
+05/02/2026
 
 [View](/lv/documents/product-information/vanflyta-epar-product-information_lv.pdf)
 
-lietuvių kalba (LT) (555.48 KB - PDF)
+lietuvių kalba (LT) (511.3 KB - PDF)
 
 **First published:**
 
@@ -467,11 +542,11 @@ lietuvių kalba (LT) (555.48 KB - PDF)
 
 **Last updated:**
 
-18/12/2024
+05/02/2026
 
 [View](/lt/documents/product-information/vanflyta-epar-product-information_lt.pdf)
 
-magyar (HU) (599.62 KB - PDF)
+magyar (HU) (527.68 KB - PDF)
 
 **First published:**
 
@@ -479,11 +554,11 @@ magyar (HU) (599.62 KB - PDF)
 
 **Last updated:**
 
-18/12/2024
+05/02/2026
 
 [View](/hu/documents/product-information/vanflyta-epar-product-information_hu.pdf)
 
-Malti (MT) (577.74 KB - PDF)
+Malti (MT) (570.12 KB - PDF)
 
 **First published:**
 
@@ -491,11 +566,11 @@ Malti (MT) (577.74 KB - PDF)
 
 **Last updated:**
 
-18/12/2024
+05/02/2026
 
 [View](/mt/documents/product-information/vanflyta-epar-product-information_mt.pdf)
 
-Nederlands (NL) (513.62 KB - PDF)
+Nederlands (NL) (477.14 KB - PDF)
 
 **First published:**
 
@@ -503,11 +578,11 @@ Nederlands (NL) (513.62 KB - PDF)
 
 **Last updated:**
 
-18/12/2024
+05/02/2026
 
 [View](/nl/documents/product-information/vanflyta-epar-product-information_nl.pdf)
 
-norsk (NO) (501.55 KB - PDF)
+norsk (NO) (462.59 KB - PDF)
 
 **First published:**
 
@@ -515,11 +590,11 @@ norsk (NO) (501.55 KB - PDF)
 
 **Last updated:**
 
-18/12/2024
+05/02/2026
 
 [View](/no/documents/product-information/vanflyta-epar-product-information_no.pdf)
 
-polski (PL) (610.83 KB - PDF)
+polski (PL) (525.86 KB - PDF)
 
 **First published:**
 
@@ -527,11 +602,11 @@ polski (PL) (610.83 KB - PDF)
 
 **Last updated:**
 
-18/12/2024
+05/02/2026
 
 [View](/pl/documents/product-information/vanflyta-epar-product-information_pl.pdf)
 
-português (PT) (514.79 KB - PDF)
+português (PT) (482.32 KB - PDF)
 
 **First published:**
 
@@ -539,11 +614,11 @@ português (PT) (514.79 KB - PDF)
 
 **Last updated:**
 
-18/12/2024
+05/02/2026
 
 [View](/pt/documents/product-information/vanflyta-epar-product-information_pt.pdf)
 
-română (RO) (596.36 KB - PDF)
+română (RO) (500.92 KB - PDF)
 
 **First published:**
 
@@ -551,11 +626,11 @@ română (RO) (596.36 KB - PDF)
 
 **Last updated:**
 
-18/12/2024
+05/02/2026
 
 [View](/ro/documents/product-information/vanflyta-epar-product-information_ro.pdf)
 
-slovenčina (SK) (568.08 KB - PDF)
+slovenčina (SK) (527.56 KB - PDF)
 
 **First published:**
 
@@ -563,11 +638,11 @@ slovenčina (SK) (568.08 KB - PDF)
 
 **Last updated:**
 
-18/12/2024
+05/02/2026
 
 [View](/sk/documents/product-information/vanflyta-epar-product-information_sk.pdf)
 
-slovenščina (SL) (571.13 KB - PDF)
+slovenščina (SL) (512.53 KB - PDF)
 
 **First published:**
 
@@ -575,11 +650,11 @@ slovenščina (SL) (571.13 KB - PDF)
 
 **Last updated:**
 
-18/12/2024
+05/02/2026
 
 [View](/sl/documents/product-information/vanflyta-epar-product-information_sl.pdf)
 
-Suomi (FI) (543.8 KB - PDF)
+Suomi (FI) (476.43 KB - PDF)
 
 **First published:**
 
@@ -587,11 +662,11 @@ Suomi (FI) (543.8 KB - PDF)
 
 **Last updated:**
 
-18/12/2024
+05/02/2026
 
 [View](/fi/documents/product-information/vanflyta-epar-product-information_fi.pdf)
 
-svenska (SV) (504.2 KB - PDF)
+svenska (SV) (459.42 KB - PDF)
 
 **First published:**
 
@@ -599,11 +674,11 @@ svenska (SV) (504.2 KB - PDF)
 
 **Last updated:**
 
-18/12/2024
+05/02/2026
 
 [View](/sv/documents/product-information/vanflyta-epar-product-information_sv.pdf)
 
-**Latest procedure affecting product information:** IB/0005 16/12/2024
+**Latest procedure affecting product information:** N/0000325243 03/02/2026
 
 icon globe
 
@@ -627,7 +702,7 @@ English (EN) (51.07 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/vanflyta-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-494)
+[Other languages (24)](#file-language-dropdown-657)
 
 български (BG) (57.67 KB - PDF)
 
@@ -848,7 +923,7 @@ Daiichi Sankyo Europe GmbH
 
 Zielstattstrasse 48
 
-Opinion adopted 14/09/2023 Marketing authorisation issued 06/11/2023 Revision 3
+Opinion adopted 14/09/2023 Marketing authorisation issued 06/11/2023 Revision 4
 
 ## Assessment history
 
@@ -860,13 +935,21 @@ Collapse section
 
 Vanflyta : EPAR - Procedural steps taken and scientific information after authorisation
 
+English (EN) (148.36 KB - PDF)
+
+**First published:** 05/02/2026
+
+[View](/en/documents/procedural-steps-after/vanflyta-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf)
+
+Vanflyta : EPAR - Procedural steps taken and scientific information after authorisation (archived)
+
 English (EN) (106.22 KB - PDF)
 
 **First published:** 26/06/2024
 
 **Last updated:** 18/12/2024
 
-[View](/en/documents/procedural-steps-after/vanflyta-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf)
+[View](/en/documents/procedural-steps-after/vanflyta-epar-procedural-steps-taken-scientific-information-after-authorisation-archived_en.pdf)
 
 ## Initial marketing authorisation documents
 
@@ -914,11 +997,217 @@ English (EN) (126.51 KB - PDF)
 
 This product is no longer an orphan medicine. It was originally [designated an orphan medicine](https://www.ema.europa.eu/en/medicines/human/orphan-designations/eu-3-09-622) on 23 March 2009. Vanflyta was withdrawn from the Union Register of orphan medicinal products by the European Commission in September 2023 upon request of the marketing authorisation holder at the time of the granting of a marketing authorisation.
 
+#### Product information - with tracked changes
+
+The approved product information for this medicine is available below showing the changes since the previous procedure affecting the product information. The same document without tracked changes is above under 'Product information'.
+
+Vanflyta : EPAR - Product information - tracked changes
+
+English (EN) (215.02 KB - DOCX)
+
+**First published:** 05/02/2026
+
+[View](/en/documents/product-information-tracked-changes/vanflyta-epar-product-information-tracked-changes_en.docx)
+
+[Other languages (24)](#file-language-dropdown-485)
+
+български (BG) (179.19 KB - DOCX)
+
+**First published:**
+
+05/02/2026
+
+[View](/bg/documents/product-information-tracked-changes/vanflyta-epar-product-information-tracked-changes_bg.docx)
+
+español (ES) (204.72 KB - DOCX)
+
+**First published:**
+
+05/02/2026
+
+[View](/es/documents/product-information-tracked-changes/vanflyta-epar-product-information-tracked-changes_es.docx)
+
+čeština (CS) (206.88 KB - DOCX)
+
+**First published:**
+
+05/02/2026
+
+[View](/cs/documents/product-information-tracked-changes/vanflyta-epar-product-information-tracked-changes_cs.docx)
+
+dansk (DA) (204.05 KB - DOCX)
+
+**First published:**
+
+05/02/2026
+
+[View](/da/documents/product-information-tracked-changes/vanflyta-epar-product-information-tracked-changes_da.docx)
+
+Deutsch (DE) (205.34 KB - DOCX)
+
+**First published:**
+
+05/02/2026
+
+[View](/de/documents/product-information-tracked-changes/vanflyta-epar-product-information-tracked-changes_de.docx)
+
+eesti keel (ET) (202.23 KB - DOCX)
+
+**First published:**
+
+05/02/2026
+
+[View](/et/documents/product-information-tracked-changes/vanflyta-epar-product-information-tracked-changes_et.docx)
+
+ελληνικά (EL) (212.79 KB - DOCX)
+
+**First published:**
+
+05/02/2026
+
+[View](/el/documents/product-information-tracked-changes/vanflyta-epar-product-information-tracked-changes_el.docx)
+
+français (FR) (206.52 KB - DOCX)
+
+**First published:**
+
+05/02/2026
+
+[View](/fr/documents/product-information-tracked-changes/vanflyta-epar-product-information-tracked-changes_fr.docx)
+
+hrvatski (HR) (211.32 KB - DOCX)
+
+**First published:**
+
+05/02/2026
+
+[View](/hr/documents/product-information-tracked-changes/vanflyta-epar-product-information-tracked-changes_hr.docx)
+
+íslenska (IS) (202.09 KB - DOCX)
+
+**First published:**
+
+05/02/2026
+
+[View](/is/documents/product-information-tracked-changes/vanflyta-epar-product-information-tracked-changes_is.docx)
+
+italiano (IT) (199.37 KB - DOCX)
+
+**First published:**
+
+05/02/2026
+
+[View](/it/documents/product-information-tracked-changes/vanflyta-epar-product-information-tracked-changes_it.docx)
+
+latviešu valoda (LV) (205.16 KB - DOCX)
+
+**First published:**
+
+05/02/2026
+
+[View](/lv/documents/product-information-tracked-changes/vanflyta-epar-product-information-tracked-changes_lv.docx)
+
+lietuvių kalba (LT) (207.71 KB - DOCX)
+
+**First published:**
+
+05/02/2026
+
+[View](/lt/documents/product-information-tracked-changes/vanflyta-epar-product-information-tracked-changes_lt.docx)
+
+magyar (HU) (207.37 KB - DOCX)
+
+**First published:**
+
+05/02/2026
+
+[View](/hu/documents/product-information-tracked-changes/vanflyta-epar-product-information-tracked-changes_hu.docx)
+
+Malti (MT) (198.56 KB - DOCX)
+
+**First published:**
+
+05/02/2026
+
+[View](/mt/documents/product-information-tracked-changes/vanflyta-epar-product-information-tracked-changes_mt.docx)
+
+Nederlands (NL) (195.02 KB - DOCX)
+
+**First published:**
+
+05/02/2026
+
+[View](/nl/documents/product-information-tracked-changes/vanflyta-epar-product-information-tracked-changes_nl.docx)
+
+norsk (NO) (188.45 KB - DOCX)
+
+**First published:**
+
+05/02/2026
+
+[View](/no/documents/product-information-tracked-changes/vanflyta-epar-product-information-tracked-changes_no.docx)
+
+polski (PL) (211.25 KB - DOCX)
+
+**First published:**
+
+05/02/2026
+
+[View](/pl/documents/product-information-tracked-changes/vanflyta-epar-product-information-tracked-changes_pl.docx)
+
+português (PT) (211.83 KB - DOCX)
+
+**First published:**
+
+05/02/2026
+
+[View](/pt/documents/product-information-tracked-changes/vanflyta-epar-product-information-tracked-changes_pt.docx)
+
+română (RO) (203.65 KB - DOCX)
+
+**First published:**
+
+05/02/2026
+
+[View](/ro/documents/product-information-tracked-changes/vanflyta-epar-product-information-tracked-changes_ro.docx)
+
+slovenčina (SK) (197.82 KB - DOCX)
+
+**First published:**
+
+05/02/2026
+
+[View](/sk/documents/product-information-tracked-changes/vanflyta-epar-product-information-tracked-changes_sk.docx)
+
+slovenščina (SL) (204.17 KB - DOCX)
+
+**First published:**
+
+05/02/2026
+
+[View](/sl/documents/product-information-tracked-changes/vanflyta-epar-product-information-tracked-changes_sl.docx)
+
+Suomi (FI) (203.38 KB - DOCX)
+
+**First published:**
+
+05/02/2026
+
+[View](/fi/documents/product-information-tracked-changes/vanflyta-epar-product-information-tracked-changes_fi.docx)
+
+svenska (SV) (197.85 KB - DOCX)
+
+**First published:**
+
+05/02/2026
+
+[View](/sv/documents/product-information-tracked-changes/vanflyta-epar-product-information-tracked-changes_sv.docx)
+
 #### More information on Vanflyta
 
 - [EMEA-001821-PIP01-15-M08 - paediatric investigation plan](/en/medicines/human/paediatric-investigation-plans/emea-001821-pip01-15-m08)
 
-**This page was last updated on** 18/12/2024
+**This page was last updated on** 05/02/2026
 
 ## Share this page
 

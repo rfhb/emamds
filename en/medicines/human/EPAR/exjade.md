@@ -1,21 +1,97 @@
 ---
-document_datetime: 2025-12-29 09:29:36
+document_datetime: 2026-02-05 17:20:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/exjade.html
 document_name: exjade.html
 version: success
-processing_time: 0.1897391
-conversion_datetime: 2025-12-30 21:54:58.313941
+processing_time: 0.1666262
+conversion_datetime: 2026-02-09 22:25:47.602116
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.66.0
-  docling-core: 2.57.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.12.0
+  docling-jobkit: 1.10.1
+  docling: 2.72.0
+  docling-core: 2.63.0
+  docling-ibm-models: 3.11.0
+  docling-parse: 4.7.3
   python: cpython-313 (3.13.11)
   plaform: macOS-26.2-arm64-arm-64bit-Mach-O
 ---
+# Search
+
+- [Medicines](/en/medicines)
+    - [Find medicine](/en/medicines)
+    - [Therapeutic areas: latest updates](/en/medicines/therapeutic-areas-latest-updates)
+    - [Download medicine data](/en/medicines/download-medicine-data)
+    - [What we publish on medicines and when](/en/medicines/what-we-publish-medicines-when)
+    - [Medicines under evaluation](/en/medicines/medicines-human-use-under-evaluation)
+    - [National registers](/en/medicines/national-registers-authorised-medicines)
+- [Human regulatory](/en/human-regulatory-overview)
+    - [Overview](/en/human-regulatory-overview)
+    - [Research and development](/en/human-regulatory-overview/research-development)
+    - [Marketing authorisation](/en/human-regulatory-overview/marketing-authorisation)
+    - [Post-authorisation](/en/human-regulatory-overview/post-authorisation)
+    - [Medical devices](/en/human-regulatory-overview/medical-devices)
+    - [Herbal products](/en/human-regulatory-overview/herbal-medicinal-products)
+- [Veterinary regulatory](/en/veterinary-regulatory-overview)
+    - [Overview](/en/veterinary-regulatory-overview)
+    - [Research and development](/en/veterinary-regulatory-overview/research-development-veterinary-medicines)
+    - [Marketing authorisation](/en/veterinary-regulatory-overview/marketing-authorisation-veterinary-medicines)
+    - [Post-authorisation](/en/veterinary-regulatory-overview/post-authorisation-veterinary-medicines)
+- [Committees](/en/committees)
+    - [Overview](/en/committees)
+    - [How the committees work](/en/committees/how-committees-work)
+    - [CHMP](/en/committees/committee-medicinal-products-human-use-chmp)
+    - [CVMP](/en/committees/committee-veterinary-medicinal-products-cvmp)
+    - [PRAC](/en/committees/pharmacovigilance-risk-assessment-committee-prac)
+    - [COMP](/en/committees/committee-orphan-medicinal-products-comp)
+    - [HMPC](/en/committees/committee-herbal-medicinal-products-hmpc)
+    - [CAT](/en/committees/committee-advanced-therapies-cat)
+    - [PDCO](/en/committees/paediatric-committee-pdco)
+    - [Working parties and other groups](/en/committees/working-parties-other-groups)
+- [News &amp; events](/en/news-events)
+    - [Overview](/en/news-events)
+    - [News](/en/news)
+    - [Events](/en/events/upcoming-events)
+    - [What's new](/en/news-events/whats-new)
+    - [Committee highlights](/en/news-events/committee-highlights)
+    - [Publications](/en/news-and-events/publications)
+    - [Press and social media](/en/news-events/press-social-media)
+    - [Podcast: Inside EMA](/en/news-events/podcast-inside-ema)
+    - [Open consultations](/en/news-events/open-consultations)
+    - [RSS feeds](/en/news-events/rss-feeds)
+- [Partners &amp; networks](/en/partners-networks)
+    - [Overview](/en/partners-networks)
+    - [EU partners](/en/partners-networks/eu-partners)
+    - [International activities](/en/partners-networks/international-activities)
+    - [Patients and consumers](/en/partners-networks/patients-consumers)
+    - [Healthcare professionals](/en/partners-networks/healthcare-professionals)
+    - [Academia](/en/partners-networks/academia)
+    - [Pharmaceutical industry](/en/partners-networks/pharmaceutical-industry)
+    - [Networks](/en/partners-networks/networks)
+    - [Health technology assessment bodies](/en/partners-networks/health-technology-assessment-bodies)
+    - [One Health approach](/en/partners-networks/one-health-approach)
+    - [Animal health practitioners](/en/partners-networks/animal-health-practitioners)
+    - [One substance - one assessment](/en/partners-networks/one-substance-one-assessment-osoa-eu-collaboration-chemicals-related-data)
+- [About us](/en/about-us)
+    - [Overview](/en/about-us)
+    - [What we do](/en/about-us/what-we-do)
+    - [Who we are](/en/about-us/who-we-are)
+    - [How we work](/en/about-us/how-we-work)
+    - [Fees](/en/about-us/fees-payable-european-medicines-agency)
+    - [Support to SMEs](/en/about-us/support-smes)
+    - [Annual reports and work programmes](/en/about-us/annual-reports-work-programmes)
+    - [History of EMA](/en/about-us/history-ema)
+    - [Careers](/en/about-us/careers)
+    - [Procurement](/en/about-us/procurement-grants)
+    - [Glossaries](/en/about-us/glossaries)
+    - [About this website](/en/about-us/about-website)
+    - [Data protection and privacy](/en/about-us/data-protection-privacy-ema)
+    - [Contacts](/en/about-us/contacts-european-medicines-agency)
+
+1. [Home](/en/homepage)
+2. [Medicines](https://www.ema.europa.eu/en/medicines)
+3. Exjade
+
 # Exjade
 
 [RSS](/en/individual-human-medicine.xml/65634)
@@ -25,8 +101,6 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 deferasirox Medicine Human Authorised
-
-On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -38,9 +112,9 @@ Page contents
 - [Authorisation details](#authorisation-details)
 - [Assessment history](#assessment-history)
 - [News on Exjade](#news-on)
+- [Product information - with tracked changes](#product-information-with-tracked-changes-78711)
 - [More information on Exjade](#more-information-on-exjade-485)
 - [Preventing medication errors](#preventing-medication-errors-1037)
-- [Product information - with tracked changes](#product-information-with-tracked-changes-78711)
 - [More information on Exjade](#related-medicines)
 - [Topics](#topics)
 
@@ -128,7 +202,7 @@ English (EN) (87.56 KB - PDF)
 
 [View](/en/documents/overview/exjade-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-145)
+[Other languages (22)](#file-language-dropdown-496)
 
 български (BG) (133.21 KB - PDF)
 
@@ -408,17 +482,17 @@ English (EN) (2.94 MB - PDF)
 
 Exjade : EPAR - Product Information
 
-English (EN) (624.85 KB - PDF)
+English (EN) (692.17 KB - PDF)
 
 **First published:** 20/08/2009
 
-**Last updated:** 21/08/2025
+**Last updated:** 05/02/2026
 
 [View](/en/documents/product-information/exjade-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-867)
+[Other languages (24)](#file-language-dropdown-976)
 
-български (BG) (756.85 KB - PDF)
+български (BG) (793.79 KB - PDF)
 
 **First published:**
 
@@ -426,11 +500,11 @@ English (EN) (624.85 KB - PDF)
 
 **Last updated:**
 
-21/08/2025
+05/02/2026
 
 [View](/bg/documents/product-information/exjade-epar-product-information_bg.pdf)
 
-español (ES) (676.15 KB - PDF)
+español (ES) (713.4 KB - PDF)
 
 **First published:**
 
@@ -438,11 +512,11 @@ español (ES) (676.15 KB - PDF)
 
 **Last updated:**
 
-21/08/2025
+05/02/2026
 
 [View](/es/documents/product-information/exjade-epar-product-information_es.pdf)
 
-čeština (CS) (685.03 KB - PDF)
+čeština (CS) (766.25 KB - PDF)
 
 **First published:**
 
@@ -450,11 +524,11 @@ español (ES) (676.15 KB - PDF)
 
 **Last updated:**
 
-21/08/2025
+05/02/2026
 
 [View](/cs/documents/product-information/exjade-epar-product-information_cs.pdf)
 
-dansk (DA) (688.68 KB - PDF)
+dansk (DA) (701.5 KB - PDF)
 
 **First published:**
 
@@ -462,11 +536,11 @@ dansk (DA) (688.68 KB - PDF)
 
 **Last updated:**
 
-21/08/2025
+05/02/2026
 
 [View](/da/documents/product-information/exjade-epar-product-information_da.pdf)
 
-Deutsch (DE) (681.18 KB - PDF)
+Deutsch (DE) (747.7 KB - PDF)
 
 **First published:**
 
@@ -474,11 +548,11 @@ Deutsch (DE) (681.18 KB - PDF)
 
 **Last updated:**
 
-21/08/2025
+05/02/2026
 
 [View](/de/documents/product-information/exjade-epar-product-information_de.pdf)
 
-eesti keel (ET) (663.07 KB - PDF)
+eesti keel (ET) (685.57 KB - PDF)
 
 **First published:**
 
@@ -486,11 +560,11 @@ eesti keel (ET) (663.07 KB - PDF)
 
 **Last updated:**
 
-21/08/2025
+05/02/2026
 
 [View](/et/documents/product-information/exjade-epar-product-information_et.pdf)
 
-ελληνικά (EL) (863.7 KB - PDF)
+ελληνικά (EL) (824.48 KB - PDF)
 
 **First published:**
 
@@ -498,11 +572,11 @@ eesti keel (ET) (663.07 KB - PDF)
 
 **Last updated:**
 
-21/08/2025
+05/02/2026
 
 [View](/el/documents/product-information/exjade-epar-product-information_el.pdf)
 
-français (FR) (765.66 KB - PDF)
+français (FR) (765.86 KB - PDF)
 
 **First published:**
 
@@ -510,11 +584,11 @@ français (FR) (765.66 KB - PDF)
 
 **Last updated:**
 
-21/08/2025
+05/02/2026
 
 [View](/fr/documents/product-information/exjade-epar-product-information_fr.pdf)
 
-hrvatski (HR) (649.62 KB - PDF)
+hrvatski (HR) (727.46 KB - PDF)
 
 **First published:**
 
@@ -522,11 +596,11 @@ hrvatski (HR) (649.62 KB - PDF)
 
 **Last updated:**
 
-21/08/2025
+05/02/2026
 
 [View](/hr/documents/product-information/exjade-epar-product-information_hr.pdf)
 
-íslenska (IS) (605.24 KB - PDF)
+íslenska (IS) (677.58 KB - PDF)
 
 **First published:**
 
@@ -534,11 +608,11 @@ hrvatski (HR) (649.62 KB - PDF)
 
 **Last updated:**
 
-21/08/2025
+05/02/2026
 
 [View](/is/documents/product-information/exjade-epar-product-information_is.pdf)
 
-italiano (IT) (651.9 KB - PDF)
+italiano (IT) (722.55 KB - PDF)
 
 **First published:**
 
@@ -546,11 +620,11 @@ italiano (IT) (651.9 KB - PDF)
 
 **Last updated:**
 
-21/08/2025
+05/02/2026
 
 [View](/it/documents/product-information/exjade-epar-product-information_it.pdf)
 
-latviešu valoda (LV) (718.4 KB - PDF)
+latviešu valoda (LV) (749.68 KB - PDF)
 
 **First published:**
 
@@ -558,11 +632,11 @@ latviešu valoda (LV) (718.4 KB - PDF)
 
 **Last updated:**
 
-21/08/2025
+05/02/2026
 
 [View](/lv/documents/product-information/exjade-epar-product-information_lv.pdf)
 
-lietuvių kalba (LT) (843.81 KB - PDF)
+lietuvių kalba (LT) (757.08 KB - PDF)
 
 **First published:**
 
@@ -570,11 +644,11 @@ lietuvių kalba (LT) (843.81 KB - PDF)
 
 **Last updated:**
 
-21/08/2025
+05/02/2026
 
 [View](/lt/documents/product-information/exjade-epar-product-information_lt.pdf)
 
-magyar (HU) (723.34 KB - PDF)
+magyar (HU) (790.19 KB - PDF)
 
 **First published:**
 
@@ -582,11 +656,11 @@ magyar (HU) (723.34 KB - PDF)
 
 **Last updated:**
 
-21/08/2025
+05/02/2026
 
 [View](/hu/documents/product-information/exjade-epar-product-information_hu.pdf)
 
-Malti (MT) (782.49 KB - PDF)
+Malti (MT) (872.89 KB - PDF)
 
 **First published:**
 
@@ -594,11 +668,11 @@ Malti (MT) (782.49 KB - PDF)
 
 **Last updated:**
 
-21/08/2025
+05/02/2026
 
 [View](/mt/documents/product-information/exjade-epar-product-information_mt.pdf)
 
-Nederlands (NL) (649.69 KB - PDF)
+Nederlands (NL) (697.78 KB - PDF)
 
 **First published:**
 
@@ -606,11 +680,11 @@ Nederlands (NL) (649.69 KB - PDF)
 
 **Last updated:**
 
-21/08/2025
+05/02/2026
 
 [View](/nl/documents/product-information/exjade-epar-product-information_nl.pdf)
 
-norsk (NO) (601.83 KB - PDF)
+norsk (NO) (681.77 KB - PDF)
 
 **First published:**
 
@@ -618,11 +692,11 @@ norsk (NO) (601.83 KB - PDF)
 
 **Last updated:**
 
-21/08/2025
+05/02/2026
 
 [View](/no/documents/product-information/exjade-epar-product-information_no.pdf)
 
-polski (PL) (704.68 KB - PDF)
+polski (PL) (809.03 KB - PDF)
 
 **First published:**
 
@@ -630,11 +704,11 @@ polski (PL) (704.68 KB - PDF)
 
 **Last updated:**
 
-21/08/2025
+05/02/2026
 
 [View](/pl/documents/product-information/exjade-epar-product-information_pl.pdf)
 
-português (PT) (641.74 KB - PDF)
+português (PT) (758.81 KB - PDF)
 
 **First published:**
 
@@ -642,11 +716,11 @@ português (PT) (641.74 KB - PDF)
 
 **Last updated:**
 
-21/08/2025
+05/02/2026
 
 [View](/pt/documents/product-information/exjade-epar-product-information_pt.pdf)
 
-română (RO) (726.39 KB - PDF)
+română (RO) (769.39 KB - PDF)
 
 **First published:**
 
@@ -654,11 +728,11 @@ română (RO) (726.39 KB - PDF)
 
 **Last updated:**
 
-21/08/2025
+05/02/2026
 
 [View](/ro/documents/product-information/exjade-epar-product-information_ro.pdf)
 
-slovenčina (SK) (690.84 KB - PDF)
+slovenčina (SK) (777.02 KB - PDF)
 
 **First published:**
 
@@ -666,11 +740,11 @@ slovenčina (SK) (690.84 KB - PDF)
 
 **Last updated:**
 
-21/08/2025
+05/02/2026
 
 [View](/sk/documents/product-information/exjade-epar-product-information_sk.pdf)
 
-slovenščina (SL) (667.42 KB - PDF)
+slovenščina (SL) (744.58 KB - PDF)
 
 **First published:**
 
@@ -678,11 +752,11 @@ slovenščina (SL) (667.42 KB - PDF)
 
 **Last updated:**
 
-21/08/2025
+05/02/2026
 
 [View](/sl/documents/product-information/exjade-epar-product-information_sl.pdf)
 
-Suomi (FI) (662.15 KB - PDF)
+Suomi (FI) (698.45 KB - PDF)
 
 **First published:**
 
@@ -690,11 +764,11 @@ Suomi (FI) (662.15 KB - PDF)
 
 **Last updated:**
 
-21/08/2025
+05/02/2026
 
 [View](/fi/documents/product-information/exjade-epar-product-information_fi.pdf)
 
-svenska (SV) (692.44 KB - PDF)
+svenska (SV) (683.73 KB - PDF)
 
 **First published:**
 
@@ -702,11 +776,11 @@ svenska (SV) (692.44 KB - PDF)
 
 **Last updated:**
 
-21/08/2025
+05/02/2026
 
 [View](/sv/documents/product-information/exjade-epar-product-information_sv.pdf)
 
-**Latest procedure affecting product information:** VR/0000292587 20/08/2025
+**Latest procedure affecting product information:** VR/0000323869 04/02/2026
 
 icon globe
 
@@ -732,7 +806,7 @@ English (EN) (94.56 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/exjade-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-108)
+[Other languages (24)](#file-language-dropdown-522)
 
 български (BG) (102.77 KB - PDF)
 
@@ -1032,7 +1106,7 @@ English (EN) (41.29 KB - PDF)
 
 [View](/en/documents/conditions-member-states/exjade-epar-conditions-imposed-member-states-safe-and-effective-use-annex-iv_en.pdf)
 
-[Other languages (21)](#file-language-dropdown-809)
+[Other languages (21)](#file-language-dropdown-266)
 
 български (BG) (118.85 KB - PDF)
 
@@ -1325,7 +1399,7 @@ Novartis Europharm Limited
 
 Vista Building
 
-Opinion adopted 28/06/2006 Marketing authorisation issued 28/08/2006 Revision 56
+Opinion adopted 28/06/2006 Marketing authorisation issued 28/08/2006 Revision 57
 
 ## Assessment history
 
@@ -1337,9 +1411,11 @@ Collapse section
 
 Exjade : EPAR - Procedural steps taken and scientific information after authorisation
 
-English (EN) (182.33 KB - PDF)
+English (EN) (160.09 KB - PDF)
 
 **First published:** 21/08/2025
+
+**Last updated:** 05/02/2026
 
 [View](/en/documents/procedural-steps-after/exjade-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf)
 
@@ -1675,6 +1751,310 @@ English (EN) (564.29 KB - PDF)
 
 [Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 12-15 November 2012](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-12-15-november-2012) 16/11/2012
 
+#### Product information - with tracked changes
+
+The approved product information for this medicine is available below showing the changes since the previous procedure affecting the product information. The same document without tracked changes is above under 'Product information'.
+
+Exjade : EPAR - Product information - tracked changes
+
+English (EN) (225.53 KB - DOCX)
+
+**First published:** 21/08/2025
+
+**Last updated:** 05/02/2026
+
+[View](/en/documents/product-information-tracked-changes/exjade-epar-product-information-tracked-changes_en.docx)
+
+[Other languages (24)](#file-language-dropdown-571)
+
+български (BG) (288.5 KB - DOCX)
+
+**First published:**
+
+21/08/2025
+
+**Last updated:**
+
+05/02/2026
+
+[View](/bg/documents/product-information-tracked-changes/exjade-epar-product-information-tracked-changes_bg.docx)
+
+español (ES) (255.1 KB - DOCX)
+
+**First published:**
+
+21/08/2025
+
+**Last updated:**
+
+05/02/2026
+
+[View](/es/documents/product-information-tracked-changes/exjade-epar-product-information-tracked-changes_es.docx)
+
+čeština (CS) (247.75 KB - DOCX)
+
+**First published:**
+
+21/08/2025
+
+**Last updated:**
+
+05/02/2026
+
+[View](/cs/documents/product-information-tracked-changes/exjade-epar-product-information-tracked-changes_cs.docx)
+
+dansk (DA) (229.62 KB - DOCX)
+
+**First published:**
+
+21/08/2025
+
+**Last updated:**
+
+05/02/2026
+
+[View](/da/documents/product-information-tracked-changes/exjade-epar-product-information-tracked-changes_da.docx)
+
+Deutsch (DE) (241.19 KB - DOCX)
+
+**First published:**
+
+21/08/2025
+
+**Last updated:**
+
+05/02/2026
+
+[View](/de/documents/product-information-tracked-changes/exjade-epar-product-information-tracked-changes_de.docx)
+
+eesti keel (ET) (237.97 KB - DOCX)
+
+**First published:**
+
+21/08/2025
+
+**Last updated:**
+
+05/02/2026
+
+[View](/et/documents/product-information-tracked-changes/exjade-epar-product-information-tracked-changes_et.docx)
+
+ελληνικά (EL) (291.07 KB - DOCX)
+
+**First published:**
+
+21/08/2025
+
+**Last updated:**
+
+05/02/2026
+
+[View](/el/documents/product-information-tracked-changes/exjade-epar-product-information-tracked-changes_el.docx)
+
+français (FR) (235.78 KB - DOCX)
+
+**First published:**
+
+21/08/2025
+
+**Last updated:**
+
+05/02/2026
+
+[View](/fr/documents/product-information-tracked-changes/exjade-epar-product-information-tracked-changes_fr.docx)
+
+hrvatski (HR) (228.83 KB - DOCX)
+
+**First published:**
+
+21/08/2025
+
+**Last updated:**
+
+05/02/2026
+
+[View](/hr/documents/product-information-tracked-changes/exjade-epar-product-information-tracked-changes_hr.docx)
+
+íslenska (IS) (219.45 KB - DOCX)
+
+**First published:**
+
+21/08/2025
+
+**Last updated:**
+
+05/02/2026
+
+[View](/is/documents/product-information-tracked-changes/exjade-epar-product-information-tracked-changes_is.docx)
+
+italiano (IT) (204.71 KB - DOCX)
+
+**First published:**
+
+21/08/2025
+
+**Last updated:**
+
+05/02/2026
+
+[View](/it/documents/product-information-tracked-changes/exjade-epar-product-information-tracked-changes_it.docx)
+
+latviešu valoda (LV) (262.58 KB - DOCX)
+
+**First published:**
+
+21/08/2025
+
+**Last updated:**
+
+05/02/2026
+
+[View](/lv/documents/product-information-tracked-changes/exjade-epar-product-information-tracked-changes_lv.docx)
+
+lietuvių kalba (LT) (229.95 KB - DOCX)
+
+**First published:**
+
+21/08/2025
+
+**Last updated:**
+
+05/02/2026
+
+[View](/lt/documents/product-information-tracked-changes/exjade-epar-product-information-tracked-changes_lt.docx)
+
+magyar (HU) (282.16 KB - DOCX)
+
+**First published:**
+
+21/08/2025
+
+**Last updated:**
+
+05/02/2026
+
+[View](/hu/documents/product-information-tracked-changes/exjade-epar-product-information-tracked-changes_hu.docx)
+
+Malti (MT) (237.51 KB - DOCX)
+
+**First published:**
+
+21/08/2025
+
+**Last updated:**
+
+05/02/2026
+
+[View](/mt/documents/product-information-tracked-changes/exjade-epar-product-information-tracked-changes_mt.docx)
+
+Nederlands (NL) (235.85 KB - DOCX)
+
+**First published:**
+
+21/08/2025
+
+**Last updated:**
+
+05/02/2026
+
+[View](/nl/documents/product-information-tracked-changes/exjade-epar-product-information-tracked-changes_nl.docx)
+
+norsk (NO) (248.55 KB - DOCX)
+
+**First published:**
+
+21/08/2025
+
+**Last updated:**
+
+05/02/2026
+
+[View](/no/documents/product-information-tracked-changes/exjade-epar-product-information-tracked-changes_no.docx)
+
+polski (PL) (275.03 KB - DOCX)
+
+**First published:**
+
+21/08/2025
+
+**Last updated:**
+
+05/02/2026
+
+[View](/pl/documents/product-information-tracked-changes/exjade-epar-product-information-tracked-changes_pl.docx)
+
+português (PT) (239.49 KB - DOCX)
+
+**First published:**
+
+21/08/2025
+
+**Last updated:**
+
+05/02/2026
+
+[View](/pt/documents/product-information-tracked-changes/exjade-epar-product-information-tracked-changes_pt.docx)
+
+română (RO) (259.41 KB - DOCX)
+
+**First published:**
+
+21/08/2025
+
+**Last updated:**
+
+05/02/2026
+
+[View](/ro/documents/product-information-tracked-changes/exjade-epar-product-information-tracked-changes_ro.docx)
+
+slovenčina (SK) (285.82 KB - DOCX)
+
+**First published:**
+
+21/08/2025
+
+**Last updated:**
+
+05/02/2026
+
+[View](/sk/documents/product-information-tracked-changes/exjade-epar-product-information-tracked-changes_sk.docx)
+
+slovenščina (SL) (237.46 KB - DOCX)
+
+**First published:**
+
+21/08/2025
+
+**Last updated:**
+
+05/02/2026
+
+[View](/sl/documents/product-information-tracked-changes/exjade-epar-product-information-tracked-changes_sl.docx)
+
+Suomi (FI) (228.63 KB - DOCX)
+
+**First published:**
+
+21/08/2025
+
+**Last updated:**
+
+05/02/2026
+
+[View](/fi/documents/product-information-tracked-changes/exjade-epar-product-information-tracked-changes_fi.docx)
+
+svenska (SV) (245.57 KB - DOCX)
+
+**First published:**
+
+21/08/2025
+
+**Last updated:**
+
+05/02/2026
+
+[View](/sv/documents/product-information-tracked-changes/exjade-epar-product-information-tracked-changes_sv.docx)
+
 #### More information on Exjade
 
 This product is no longer an orphan medicine. It was originally [designated an orphan medicine](/en/medicines/human/orphan-designations/eu302092) on 13 March 2002. Exjade was withdrawn from the Community register of orphan medicinal products in September 2016 at the end of the 10-year period of market exclusivity.
@@ -1705,7 +2085,7 @@ English (EN) (95.92 KB - PDF)
 
 [View](/en/documents/medication-error/exjade-measures-avoid-medication-errors_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-853)
+[Other languages (22)](#file-language-dropdown-120)
 
 български (BG) (112.95 KB - PDF)
 
@@ -1971,212 +2351,6 @@ svenska (SV) (86.34 KB - PDF)
 
 [View](/sv/documents/medication-error/exjade-measures-avoid-medication-errors_sv.pdf)
 
-#### Product information - with tracked changes
-
-The approved product information for this medicine is available below showing the changes since the previous procedure affecting the product information. The same document without tracked changes is above under 'Product information'.
-
-Exjade : EPAR - Product information - tracked changes
-
-English (EN) (229.49 KB - DOCX)
-
-**First published:** 21/08/2025
-
-[View](/en/documents/product-information-tracked-changes/exjade-epar-product-information-tracked-changes_en.docx)
-
-[Other languages (24)](#file-language-dropdown-253)
-
-български (BG) (294.38 KB - DOCX)
-
-**First published:**
-
-21/08/2025
-
-[View](/bg/documents/product-information-tracked-changes/exjade-epar-product-information-tracked-changes_bg.docx)
-
-español (ES) (258.58 KB - DOCX)
-
-**First published:**
-
-21/08/2025
-
-[View](/es/documents/product-information-tracked-changes/exjade-epar-product-information-tracked-changes_es.docx)
-
-čeština (CS) (249.78 KB - DOCX)
-
-**First published:**
-
-21/08/2025
-
-[View](/cs/documents/product-information-tracked-changes/exjade-epar-product-information-tracked-changes_cs.docx)
-
-dansk (DA) (234.47 KB - DOCX)
-
-**First published:**
-
-21/08/2025
-
-[View](/da/documents/product-information-tracked-changes/exjade-epar-product-information-tracked-changes_da.docx)
-
-Deutsch (DE) (244.36 KB - DOCX)
-
-**First published:**
-
-21/08/2025
-
-[View](/de/documents/product-information-tracked-changes/exjade-epar-product-information-tracked-changes_de.docx)
-
-eesti keel (ET) (240.91 KB - DOCX)
-
-**First published:**
-
-21/08/2025
-
-[View](/et/documents/product-information-tracked-changes/exjade-epar-product-information-tracked-changes_et.docx)
-
-ελληνικά (EL) (295.5 KB - DOCX)
-
-**First published:**
-
-21/08/2025
-
-[View](/el/documents/product-information-tracked-changes/exjade-epar-product-information-tracked-changes_el.docx)
-
-français (FR) (234.18 KB - DOCX)
-
-**First published:**
-
-21/08/2025
-
-[View](/fr/documents/product-information-tracked-changes/exjade-epar-product-information-tracked-changes_fr.docx)
-
-hrvatski (HR) (229.69 KB - DOCX)
-
-**First published:**
-
-21/08/2025
-
-[View](/hr/documents/product-information-tracked-changes/exjade-epar-product-information-tracked-changes_hr.docx)
-
-íslenska (IS) (222.81 KB - DOCX)
-
-**First published:**
-
-21/08/2025
-
-[View](/is/documents/product-information-tracked-changes/exjade-epar-product-information-tracked-changes_is.docx)
-
-italiano (IT) (207.43 KB - DOCX)
-
-**First published:**
-
-21/08/2025
-
-[View](/it/documents/product-information-tracked-changes/exjade-epar-product-information-tracked-changes_it.docx)
-
-latviešu valoda (LV) (265.6 KB - DOCX)
-
-**First published:**
-
-21/08/2025
-
-[View](/lv/documents/product-information-tracked-changes/exjade-epar-product-information-tracked-changes_lv.docx)
-
-lietuvių kalba (LT) (234.58 KB - DOCX)
-
-**First published:**
-
-21/08/2025
-
-[View](/lt/documents/product-information-tracked-changes/exjade-epar-product-information-tracked-changes_lt.docx)
-
-magyar (HU) (290.15 KB - DOCX)
-
-**First published:**
-
-21/08/2025
-
-[View](/hu/documents/product-information-tracked-changes/exjade-epar-product-information-tracked-changes_hu.docx)
-
-Malti (MT) (244.33 KB - DOCX)
-
-**First published:**
-
-21/08/2025
-
-[View](/mt/documents/product-information-tracked-changes/exjade-epar-product-information-tracked-changes_mt.docx)
-
-Nederlands (NL) (240.56 KB - DOCX)
-
-**First published:**
-
-21/08/2025
-
-[View](/nl/documents/product-information-tracked-changes/exjade-epar-product-information-tracked-changes_nl.docx)
-
-norsk (NO) (250.77 KB - DOCX)
-
-**First published:**
-
-21/08/2025
-
-[View](/no/documents/product-information-tracked-changes/exjade-epar-product-information-tracked-changes_no.docx)
-
-polski (PL) (278.99 KB - DOCX)
-
-**First published:**
-
-21/08/2025
-
-[View](/pl/documents/product-information-tracked-changes/exjade-epar-product-information-tracked-changes_pl.docx)
-
-português (PT) (242.67 KB - DOCX)
-
-**First published:**
-
-21/08/2025
-
-[View](/pt/documents/product-information-tracked-changes/exjade-epar-product-information-tracked-changes_pt.docx)
-
-română (RO) (291.26 KB - DOCX)
-
-**First published:**
-
-21/08/2025
-
-[View](/ro/documents/product-information-tracked-changes/exjade-epar-product-information-tracked-changes_ro.docx)
-
-slovenčina (SK) (288.71 KB - DOCX)
-
-**First published:**
-
-21/08/2025
-
-[View](/sk/documents/product-information-tracked-changes/exjade-epar-product-information-tracked-changes_sk.docx)
-
-slovenščina (SL) (241.98 KB - DOCX)
-
-**First published:**
-
-21/08/2025
-
-[View](/sl/documents/product-information-tracked-changes/exjade-epar-product-information-tracked-changes_sl.docx)
-
-Suomi (FI) (233.33 KB - DOCX)
-
-**First published:**
-
-21/08/2025
-
-[View](/fi/documents/product-information-tracked-changes/exjade-epar-product-information-tracked-changes_fi.docx)
-
-svenska (SV) (247.63 KB - DOCX)
-
-**First published:**
-
-21/08/2025
-
-[View](/sv/documents/product-information-tracked-changes/exjade-epar-product-information-tracked-changes_sv.docx)
-
 #### More information on Exjade
 
 - [EMEA-001103-PIP01-10-M03 - paediatric investigation plan](/en/medicines/human/paediatric-investigation-plans/emea-001103-pip01-10-m03)
@@ -2188,7 +2362,7 @@ svenska (SV) (247.63 KB - DOCX)
 - [Medicines](https://www.ema.europa.eu/en/search?f%5B0%5D=ema_search_topics%3A61)
 - [Paediatrics](https://www.ema.europa.eu/en/search?f%5B0%5D=ema_search_topics%3A65)
 
-**This page was last updated on** 25/11/2025
+**This page was last updated on** 05/02/2026
 
 ## Share this page
 

@@ -1,18 +1,18 @@
 ---
-document_datetime: 2025-03-13 11:18:16
-document_pages: 2
+document_datetime: 2026-02-04 11:36:02
+document_pages: 7
 document_pathfilename: www.ema.europa.eu/en/documents/procedural-steps-after/imraldi-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf
 document_name: imraldi-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf
 version: success
-processing_time: 1.168147
-conversion_datetime: 2025-12-22 17:05:29.809958
+processing_time: 3.4193021
+conversion_datetime: 2026-02-09 22:27:47.032726
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.64.1
-  docling-core: 2.55.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.12.0
+  docling-jobkit: 1.10.1
+  docling: 2.72.0
+  docling-core: 2.63.0
+  docling-ibm-models: 3.11.0
+  docling-parse: 4.7.3
   python: cpython-313 (3.13.11)
   plaform: macOS-26.2-arm64-arm-64bit-Mach-O
 ---
@@ -20,17 +20,11 @@ docling_version:
 
 Procedural steps taken and scientific information after the authorisation*
 
-*Due to the Agency`s update of its procedure management systems, an additional document, reflecting the historical lifecycle may be available in the 'Assessment history' section. For the complete product lifecycle procedures, please also refer to EPAR - Procedural steps taken and scientific information after authorisation (archive) .
+*Due to the Agency`s update of its procedure management systems, an additional document, reflecting the historical lifecycle may be available in the 'Assessment history' section. For the complete product lifecycle procedures, you may need to also refer to EPAR - Procedural steps taken and scientific information after authorisation (archive) .
 
-| Application number   | Scope                               | Opinion/ Notification 1 issued on   | Commission Decision Issued 2 / amended on   | Product Information affected 3   | Summary   |
-|----------------------|-------------------------------------|-------------------------------------|---------------------------------------------|----------------------------------|-----------|
-| Article 61(3) /      | - Notification acc. Article 61(3) - | 12/03/2025                          |                                             | PL                               |           |
-
-1  Notifications are issued for type I variations and Article 61(3) notifications (unless part of a group including a type II variation or extension application or a worksharing application). Opinions are issued for all other procedures.
-
-2  A Commission decision (CD) is issued for procedures that affect the terms of the marketing authorisation (e.g. summary of product characteristics, annex II, labelling, package leaflet). The CD is issued within two months of the opinion for variations falling under the scope of Article 23.1a(a) of Regulation (EU) No. 712/2012, or within one year for other procedures.
-
-3  SmPC (Summary of Product Characteristics), Annex II, Labelling, PL (Package Leaflet).
+| Application number   | Scope                                  | Opinion/ Notification 1 issued on   | Commission Decision Issued 2 / amended on   | Product Information affected 3   | Summary   |
+|----------------------|----------------------------------------|-------------------------------------|---------------------------------------------|----------------------------------|-----------|
+| Variation type II /  | This was an application for a group of | 15/01/2026                          | N/A                                         |                                  |           |
 
 <!-- image -->
 
@@ -38,5 +32,37 @@ Procedural steps taken and scientific information after the authorisation*
 
 <div style=\"page-break-after: always\"></div>
 
-| EMA/N/0000254755   | Update of the package leaflet with revised contact details of local representatives.   |
-|--------------------|----------------------------------------------------------------------------------------|
+| EMA/VR/0000282472   |
+|---------------------|
+
+<div style=\"page-break-after: always\"></div>
+
+|                                       | targeted DMARD therapies in rheumatic diseases. The RMP version 8.0 has been updated accordingly. Type IB (C.I.11) for RMP: Submission of an updated RMP version 8.0 in order to reflect the changes made in the RMP of the reference product Humira.                                                                                                                                                                                                                                                                                                                                                                                                                                             |            |     |
+|---------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------|-----|
+| Variation type IA / EMA/VR/0000321388 | This was an application for a group of variations. - - Accepted B.II.d.2 Change in test procedure for the finished product - B.II.d.2.a Minor changes to an approved test procedure - Accepted B.I.b.2 Change in test procedure for active substance or starting material/reagent/intermediate used in the manufacturing process of the active substance - B.I.b.2.a Minor changes to an approved test procedure - Accepted A.5 Change in the name and/or address of a manufacturer/importer of the finished product (including batch release or quality control testing sites) - A.5.b The activities for which the manufacturer/importer is responsible do not include batch release - Accepted | 15/01/2026 | N/A |
+
+<div style=\"page-break-after: always\"></div>
+
+| manufacturer/importer of the finished product (including batch release or quality control testing sites) - A.5.b The activities for which the manufacturer/importer is responsible do not include batch release - Accepted A.5 Change in the name and/or address of manufacturer/importer of the finished product (including batch release or quality control testing sites) - A.5.b The activities for which the manufacturer/importer is responsible do not include batch release - Accepted A. ADMINISTRATIVE CHANGES - A.4 in the name and/or address of: a manufacturer (including where relevant quality control testing sites); or an ASMF holder; or a supplier of the active starting material, reagent or intermediate used in the manufacture of the active substance (where specified in the technical dossier) where no Ph. Eur. Certificate of Suitability is part of the approved dossier;   |
+|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| a Change                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    |
+| substance, or a manufacturer of a novel excipient (where specified in the technical dossier) - Accepted A. ADMINISTRATIVE CHANGES - A.4 Change in the name and/or address of: a manufacturer (including where relevant                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      |
+
+<div style=\"page-break-after: always\"></div>
+
+|                                       | holder; or a supplier of the active substance, starting material, reagent or intermediate used in the manufacture of the active substance (where specified in the technical dossier) where no Ph. Eur. Certificate of Suitability is part of the approved dossier; or a manufacturer of a novel excipient (where specified in the technical dossier) - Accepted                                                                                                                                                                                                                                                                                                                                                                                                         |            |     |
+|---------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------|-----|
+| Variation type II / EMA/VR/0000265405 | This was an application for a group of variations. B.I.a.2 Changes in the manufacturing process of the active substance - B.I.a.2.a Minor change in the manufacturing process of the active substance - Accepted B.I.a.1 Change in the manufacturer of a starting material/reagent/intermediate used in the manufacturing process of the active substance or change in the manufacturer (including where relevant quality control testing sites) of the active substance, where no Ph. Eur. Certificate of Suitability is part of the approved dossier - B.I.a.1.k New storage site of Master Cell Bank and/or Working Cell Banks - Accepted A. ADMINISTRATIVE CHANGES - A.7 Deletion of manufacturing sites for an active substance, intermediate or finished product, | 25/09/2025 | N/A |
+
+<div style=\"page-break-after: always\"></div>
+
+|                                       | batch release, site where batch control takes place, or supplier of a starting material, reagent or excipient (when mentioned in the dossier)* - Accepted B.I.a.1 Change in the manufacturer of a starting material/reagent/intermediate used in the manufacturing process of the active substance or change in the manufacturer (including where relevant quality control testing sites) of the active substance, where no Ph. Eur. Certificate of Suitability is part of the approved dossier - B.I.a.1.e The change relates to a biological active substance or a starting material/reagent/intermediate used in the manufacture of a biological/immunological product - Accepted   |            |     |
+|---------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------|-----|
+| Variation type II / EMA/VR/0000285837 | B.I.a.2 Changes in the manufacturing process of the active substance - B.I.a.2.c The change refers to a biological / immunological substance or use of a different chemically derived substance in the manufacture of a biological/immunological substance, which may have a significant impact on the quality, safety and efficacy of the medicinal product and is not related to a protocol - Accepted                                                                                                                                                                                                                                                                               | 25/09/2025 | N/A |
+
+<div style=\"page-break-after: always\"></div>
+
+| Variation type IB / EMA/VR/0000279090   | B.I.d.1.a Re-test period/storage period - B.I.d.1.a.4 Extension or introduction of a re- test period/storage period supported by real time data - Accepted                                                                                                                | 04/07/2025   | N/A        |    |
+|-----------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------|------------|----|
+| Variation type IA / EMA/VR/0000267035   | B.I.d.1 Change in the re-test period/storage period or storage conditions of the active substance where no Ph. Eur. Certificate of Suitability covering the retest period is part of the approved dossier - B.I.d.1.c Change to an approved stability protocol - Accepted | 23/04/2025   | N/A        |    |
+| Article 61(3) / EMA/N/0000254755        | - Notification acc. Article 61(3) - Accepted Update of the package leaflet with revised contact details of local representatives.                                                                                                                                         | 12/03/2025   | 11/09/2025 | PL |

@@ -1,16 +1,16 @@
 ---
-document_datetime: 2026-01-28 14:12:12
+document_datetime: 2026-02-06 15:36:40
 document_pages: 71
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/alymsys-epar-product-information_en.pdf
 document_name: alymsys-epar-product-information_en.pdf
 version: success
-processing_time: 29.0315467
-conversion_datetime: 2026-02-01 20:31:55.676221
+processing_time: 30.2358474
+conversion_datetime: 2026-02-09 22:30:13.09227
 docling_version:
-  docling-serve: 1.11.0
-  docling-jobkit: 1.9.1
-  docling: 2.71.0
-  docling-core: 2.62.0
+  docling-serve: 1.12.0
+  docling-jobkit: 1.10.1
+  docling: 2.72.0
+  docling-core: 2.63.0
   docling-ibm-models: 3.11.0
   docling-parse: 4.7.3
   python: cpython-313 (3.13.11)
@@ -1696,9 +1696,13 @@ EU/1/20/1509/001 - 100 mg/4 ml EU/1/20/1509/002 - 400 mg/16 ml
 
 Date of first authorisation: 26 March 2021
 
+Date of latest renewal: 19 January 2026
+
 ## 10. DATE OF REVISION OF THE TEXT
 
 Detailed information on this medicinal product is available on the website of the European Medicines Agency http://www.ema.europa.eu.
+
+50
 
 <div style=\"page-break-after: always\"></div>
 
@@ -2362,9 +2366,9 @@ Cipla Europe NV Sucursal EN ESPANA Tel: +34 91 534 16 73
 
 ## France
 
-Zentiva France
+Mabxience Research SL
 
-Tél: +33 (0) 800 089 219
+Tél/Tel: +34 917 711 500
 
 ## Hrvatska
 
@@ -2422,7 +2426,9 @@ Tel: +43 3136 82577
 
 ## Polska
 
-Zentiva Polska Sp. z o.o. Tel: +48 22 375 92 00
+Zentiva Polska Sp. z o.o.
+
+Tel: +48 22 375 92 00
 
 ## Portugal
 

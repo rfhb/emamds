@@ -1,18 +1,18 @@
 ---
-document_datetime: 2025-02-12 15:38:30
-document_pages: 87
+document_datetime: 2026-02-06 10:34:59
+document_pages: 85
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/exforge-hct-epar-product-information_en.pdf
 document_name: exforge-hct-epar-product-information_en.pdf
 version: success
-processing_time: 21.2805395
-conversion_datetime: 2025-12-28 19:24:37.635738
+processing_time: 22.719179
+conversion_datetime: 2026-02-09 22:11:12.235553
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.66.0
-  docling-core: 2.57.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.12.0
+  docling-jobkit: 1.10.1
+  docling: 2.72.0
+  docling-core: 2.63.0
+  docling-ibm-models: 3.11.0
+  docling-parse: 4.7.3
   python: cpython-313 (3.13.11)
   plaform: macOS-26.2-arm64-arm-64bit-Mach-O
 ---
@@ -127,7 +127,7 @@ There is no relevant use of Exforge HCT in the paediatric population (patients b
 
 ## Oral use.
 
-## Exforge HCT can be taken with or without food.
+Exforge HCT can be taken with or without food.
 
 The tablets should be swallowed whole with some water, at the same time of the day and preferably in the morning.
 
@@ -182,7 +182,7 @@ All patients receiving thiazide diuretics should be periodically monitored for i
 
 Thiazide diuretics may precipitate azotaemia in patients with chronic kidney disease. When Exforge HCT is used in patients with renal impairment periodic monitoring of serum electrolytes (including potassium), creatinine and uric acid serum levels is recommended. Exforge HCT is contraindicated in patients with severe renal impairment, anuria or undergoing dialysis (see section 4.3).
 
-No dose adjustment of Exforge HCT is required for patients with mild to moderate renal impairment (GFR ≥30 ml/min/1.73 m 2 ).
+No dose adjustment of Exforge HCT is required for patients with mild to moderate renal impairment (GFR ≥ 30 ml/min/1.73 m 2 ).
 
 ## Renal artery stenosis
 
@@ -220,11 +220,13 @@ Caution is advised in patients with heart failure and coronary artery disease, p
 
 As with all other vasodilators, special caution is indicated in patients with mitral stenosis or significant aortic stenosis that is not high grade.
 
-<div style=\"page-break-after: always\"></div>
-
 ## Pregnancy
 
-Angiotensin II Receptor Antagonists (AIIRAs) should not be initiated during pregnancy. Unless continued AIIRA therapy is considered essential, patients planning pregnancy should be changed to alternative antihypertensive treatments which have an established safety profile for use in pregnancy. When pregnancy is diagnosed, treatment with AIIRAs should be stopped immediately, and, if appropriate, alternative therapy should be started (see sections 4.3 and 4.6).
+Angiotensin II Receptor Antagonists (AIIRAs) should not be initiated during pregnancy. Unless continued AIIRA therapy is considered essential, patients planning pregnancy should be changed to alternative antihypertensive treatments which have an established safety profile for use in pregnancy.
+
+<div style=\"page-break-after: always\"></div>
+
+When pregnancy is diagnosed, treatment with AIIRAs should be stopped immediately, and, if appropriate, alternative therapy should be started (see sections 4.3 and 4.6).
 
 ## Primary hyperaldosteronism
 
@@ -250,9 +252,9 @@ Cases of photosensitivity reactions have been reported with thiazide diuretics (
 
 Hydrochlorothiazide, a sulphonamide, has been associated with an idiosyncratic reaction resulting in choroidal effusion with visual field defect, acute transient myopia and acute angle-closure glaucoma. Symptoms include acute onset of decreased visual acuity or ocular pain and typically occur within hours to a week of treatment initiation. Untreated acute-angle closure glaucoma can lead to permanent vision loss.
 
-<div style=\"page-break-after: always\"></div>
-
 The primary treatment is to discontinue hydrochlorothiazide as rapidly as possible. Prompt medical or surgical treatment may need to be considered if the intraocular pressure remains uncontrolled. Risk factors for developing acute angle closure glaucoma may include a history of sulphonamide or penicillin allergy.
+
+<div style=\"page-break-after: always\"></div>
 
 ## General
 
@@ -278,13 +280,13 @@ Patients taking hydrochlorothiazide should be informed of the risk of NMSC and a
 
 Very rare severe cases of acute respiratory toxicity, including acute respiratory distress syndrome (ARDS), have been reported after taking hydrochlorothiazide. Pulmonary oedema typically develops within minutes to hours after hydrochlorothiazide intake. At the onset, symptoms include dyspnoea, fever, pulmonary deterioration and hypotension. If diagnosis of ARDS is suspected, Exforge HCT should be withdrawn, and appropriate treatment given. Hydrochlorothiazide should not be administered to patients who previously experienced ARDS following hydrochlorothiazide intake.
 
-<div style=\"page-break-after: always\"></div>
-
 ## 4.5 Interaction with other medicinal products and other forms of interaction
 
 No formal interaction studies with other medicinal products have been performed with Exforge HCT. Thus, only information on interactions with other medicinal products that are known for the individual active substances is provided in this section.
 
 However, it is important to take into account that Exforge HCT may increase the hypotensive effect of other antihypertensive agents.
+
+<div style=\"page-break-after: always\"></div>
 
 ## Concomitant use not recommended
 
@@ -294,53 +296,53 @@ However, it is important to take into account that Exforge HCT may increase the 
 | Valsartan                          | Potassium-sparing diuretics, potassium supplements, salt substitutes containing potassium and other substances that may increase potassium levels | If a medicinal product that affects potassium levels is considered necessary in combination with valsartan, frequent monitoring of potassium plasma levels is advised.                                                                                                                                                                                                                                                                                                        |
 | Amlodipine                         | Grapefruit or grapefruit juice                                                                                                                    | Administration of amlodipine with grapefruit or grapefruit juice is not recommended as bioavailability may be increased in some patients, resulting in increased blood pressure lowering effects.                                                                                                                                                                                                                                                                             |
 
-<div style=\"page-break-after: always\"></div>
-
 ## Caution required with concomitant use
 
-| Exforge HCT individual component   | Known interactions with the following agents                                                                                                                                    | Effect of the interaction with other medicinal products                                                                                                                                                                                                                                                                                                                                                                      |
-|------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Amlodipine                         | CYP3A4 inhibitors (i.e. ketoconazole, itraconazole, ritonavir)                                                                                                                  | Concomitant use of amlodipine with strong or moderate CYP3A4 inhibitors (protease inhibitors, azole antifungals, macrolides like erythromycin or clarithromycin, verapamil or diltiazem) may give rise to significant increase in amlodipine exposure. The clinical translation of these pharmacokinetic variations may be more pronounced in the elderly. Clinical monitoring and dose adjustment may thus be required.     |
-|                                    | CYP3A4 inducers (anticonvulsant agents [e.g. carbamazepine, phenobarbital, phenytoin, fosphenytoin, primidone], rifampicin, Hypericum perforatum [St. John's wort])             | Upon co-administration of known inducers of the CYP3A4, the plasma concentration of amlodipine may vary. Therefore, blood pressure should be monitored and dose regulation considered both during and after concomitant medication particularly with strong CYP3A4 inducers (e.g. rifampicin, hypericum perforatum).                                                                                                         |
-|                                    | Simvastatin                                                                                                                                                                     | Co-administration of multiple doses of 10 mg amlodipine with 80 mg simvastatin resulted in a 77% increase in exposure to simvastatin compared to simvastatin alone. It is recommended to limit the dose of simvastatin to 20 mg daily in patients on amlodipine.                                                                                                                                                             |
-|                                    | Dantrolene (infusion)                                                                                                                                                           | In animals, lethal ventricular fibrillation and cardiovascular collapse are observed in association with hyperkalaemia after administration of verapamil and intravenous dantrolene. Due to risk of hyperkalaemia, it is recommended that the co-administration of calcium channel blockers such as amlodipine be avoided in patients susceptible to malignant hyperthermia and in the management of malignant hyperthermia. |
-|                                    | Tacrolimus                                                                                                                                                                      | There is a risk of increased tacrolimus blood levels when co-administered with amlodipine. In order to avoid toxicity of tacrolimus, administration of amlodipine in a patient treated with tacrolimus requires monitoring of tacrolimus blood levels and dose adjustment of tacrolimus when appropriate.                                                                                                                    |
-| Valsartan and HCT                  | Non-steroidal anti- inflammatory drugs (NSAIDs), including selective cyclooxygenase-2 inhibitors (COX-2 inhibitors), acetylsalicylic acid (>3 g/day), and non- selective NSAIDs | NSAIDS can attenuate the antihypertensive effect of both angiotensin II antagonists and hydrochlorothiazide when administered simultaneously. Furthermore, concomitant use of Exforge HCT and NSAIDs may lead to worsening of renal function and an increase in serum potassium. Therefore, monitoring of renal function at the beginning of the treatment is recommended, as well as adequate hydration of the patient.     |
+| Exforge HCT individual component   | Known interactions with the following agents                                                                                                                        | Effect of the interaction with other medicinal products                                                                                                                                                                                                                                                                                                                                                                  |
+|------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Amlodipine                         | CYP3A4 inhibitors (i.e. ketoconazole, itraconazole, ritonavir)                                                                                                      | Concomitant use of amlodipine with strong or moderate CYP3A4 inhibitors (protease inhibitors, azole antifungals, macrolides like erythromycin or clarithromycin, verapamil or diltiazem) may give rise to significant increase in amlodipine exposure. The clinical translation of these pharmacokinetic variations may be more pronounced in the elderly. Clinical monitoring and dose adjustment may thus be required. |
+|                                    | CYP3A4 inducers (anticonvulsant agents [e.g. carbamazepine, phenobarbital, phenytoin, fosphenytoin, primidone], rifampicin, Hypericum perforatum [St. John's wort]) | Upon co-administration of known inducers of the CYP3A4, the plasma concentration of amlodipine may vary. Therefore, blood pressure should be monitored and dose regulation considered both during and after concomitant medication particularly with strong CYP3A4 inducers (e.g. rifampicin, hypericum perforatum).                                                                                                     |
+|                                    | Simvastatin                                                                                                                                                         | Co-administration of multiple doses of 10 mg amlodipine with 80 mg simvastatin resulted in a 77% increase in exposure to simvastatin compared to simvastatin alone. It is recommended to limit the dose of simvastatin to 20 mg daily in patients on amlodipine.                                                                                                                                                         |
 
 <div style=\"page-break-after: always\"></div>
 
-| Valsartan   | Inhibitors of the uptake transporter (rifampicin, ciclosporin) or efflux transporter (ritonavir)   | The results of an in vitro study with human liver tissue indicate that valsartan is a substrate of the hepatic uptake transporter OATP1B1 and of the hepatic efflux transporter MRP2. Co-administration of inhibitors of the uptake transporter (rifampicin, ciclosporin) or efflux transporter (ritonavir) may increase the systemic exposure to valsartan.                                                         |
-|-------------|----------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| HCT         | Alcohol, barbiturates or narcotics                                                                 | Concomitant administration of thiazide diuretics with substances that also have a blood pressure lowering effect (e.g. by reducing sympathetic central nervous system activity or direct vasodilatation) may potentiate orthostatic hypotension.                                                                                                                                                                     |
-|             | Amantadine                                                                                         | Thiazides, including hydrochlorothiazide, may increase the risk of adverse reactions caused by amantadine.                                                                                                                                                                                                                                                                                                           |
-|             | Anticholinergic agents and other medicinal products affecting gastric motility                     | The bioavailability of thiazide-type diuretics may be increased by anticholinergic agents (e.g. atropine, biperiden), apparently due to a decrease in gastrointestinal motility and the stomach emptying rate. Conversely, it is anticipated that prokinetic substances such as cisapride may decrease the bioavailability of thiazide-type diuretics.                                                               |
-|             | Antidiabetic agents (e.g. insulin and oral antidiabetic agents) - Metformin                        | Thiazides may alter glucose tolerance. Dose adjustment of the antidiabetic medicinal product may be necessary.                                                                                                                                                                                                                                                                                                       |
-|             | blockers                                                                                           | Metformin should be used with caution because of the risk of lactic acidosis induced by possible functional renal failure linked to hydrochlorothiazide.                                                                                                                                                                                                                                                             |
-|             | Beta and diazoxide                                                                                 | Concomitant use of thiazide diuretics, including hydrochlorothiazide, with beta blockers may increase the risk of hyperglycaemia. Thiazide diuretics, including hydrochlorothiazide, may enhance the hyperglycaemic effect of diazoxide.                                                                                                                                                                             |
-|             | Ciclosporin                                                                                        | Concomitant treatment with ciclosporin may increase the risk of hyperuricaemia and gout-type complications.                                                                                                                                                                                                                                                                                                          |
-|             | Cytotoxic agents                                                                                   | Thiazides, including hydrochlorothiazide, may reduce the renal excretion of cytotoxic agents (e.g. cyclophosphamide, methotrexate) and potentiate their myelosuppressive effects.                                                                                                                                                                                                                                    |
-|             | Digitalis glycosides                                                                               | Thiazide-induced hypokalaemia or hypomagnesaemia may occur as undesirable effects, favouring the onset of digitalis-induced cardiac arrhythmias.                                                                                                                                                                                                                                                                     |
-|             | Iodine contrasting agents                                                                          | In case of diuretic-induced dehydration, there is an increased risk of acute renal failure, especially with high doses of iodine products. Patients should be re-hydrated before the administration.                                                                                                                                                                                                                 |
-|             | Ion exchange resins                                                                                | Absorption of thiazide diuretics, including hydrochlorothiazide, is decreased by cholestyramine or colestipol. This could result in sub-therapeutic effects of thiazide diuretics. However, staggering the dosage of hydrochlorothiazide and resin such that hydrochlorothiazide is administered at least 4 hours before or 4-6 hours after the administration of resins would potentially minimise the interaction. |
+|                   | Dantrolene (infusion)                                                                                                                                                           | In animals, lethal ventricular fibrillation and cardiovascular collapse are observed in association with hyperkalaemia after administration of verapamil and intravenous dantrolene. Due to risk of hyperkalaemia, it is recommended that the co-administration of calcium channel blockers such as amlodipine be avoided in patients susceptible to malignant hyperthermia and in the management of malignant hyperthermia.   |
+|-------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+|                   | Tacrolimus                                                                                                                                                                      | There is a risk of increased tacrolimus blood levels when co-administered with amlodipine. In order to avoid toxicity of tacrolimus, administration of amlodipine in a patient treated with tacrolimus requires monitoring of tacrolimus blood levels and dose adjustment of tacrolimus when appropriate.                                                                                                                      |
+| Valsartan and HCT | Non-steroidal anti- inflammatory drugs (NSAIDs), including selective cyclooxygenase-2 inhibitors (COX-2 inhibitors), acetylsalicylic acid (>3 g/day), and non- selective NSAIDs | NSAIDS can attenuate the antihypertensive effect of both angiotensin II antagonists and hydrochlorothiazide when administered simultaneously. Furthermore, concomitant use of Exforge HCT and NSAIDs may lead to worsening of renal function and an increase in serum potassium. Therefore, monitoring of renal function at the beginning of the treatment is recommended, as well as adequate hydration of the patient.       |
+| Valsartan         | Inhibitors of the uptake transporter (rifampicin, ciclosporin) or efflux transporter (ritonavir)                                                                                | The results of an in vitro study with human liver tissue indicate that valsartan is a substrate of the hepatic uptake transporter OATP1B1 and of the hepatic efflux transporter MRP2. Co-administration of inhibitors of the uptake transporter (rifampicin, ciclosporin) or efflux transporter (ritonavir) may increase the systemic exposure to valsartan.                                                                   |
+| HCT               | Alcohol, barbiturates or narcotics                                                                                                                                              | Concomitant administration of thiazide diuretics with substances that also have a blood pressure lowering effect (e.g. by reducing sympathetic central nervous system activity or direct vasodilatation) may potentiate orthostatic hypotension.                                                                                                                                                                               |
+|                   | Amantadine                                                                                                                                                                      | Thiazides, including hydrochlorothiazide, may increase the risk of adverse reactions caused by amantadine.                                                                                                                                                                                                                                                                                                                     |
+|                   | Anticholinergic agents and other medicinal products affecting gastric motility                                                                                                  | The bioavailability of thiazide-type diuretics may be increased by anticholinergic agents (e.g. atropine, biperiden), apparently due to a decrease in gastrointestinal motility and the stomach emptying rate. Conversely, it is anticipated that prokinetic substances such as cisapride may decrease the bioavailability of thiazide-type diuretics.                                                                         |
+|                   | Antidiabetic agents (e.g. insulin and oral antidiabetic agents)                                                                                                                 | Thiazides may alter glucose tolerance. Dose adjustment of the antidiabetic medicinal product may be necessary.                                                                                                                                                                                                                                                                                                                 |
+|                   | - Metformin                                                                                                                                                                     | Metformin should be used with caution because of the risk of lactic acidosis induced by possible functional renal failure linked to hydrochlorothiazide.                                                                                                                                                                                                                                                                       |
+|                   | Beta blockers and diazoxide                                                                                                                                                     | Concomitant use of thiazide diuretics, including hydrochlorothiazide, with beta blockers may increase the risk of hyperglycaemia. Thiazide diuretics, including hydrochlorothiazide, may enhance the hyperglycaemic effect of diazoxide.                                                                                                                                                                                       |
+|                   | Ciclosporin                                                                                                                                                                     | Concomitant treatment with ciclosporin may increase the risk of hyperuricaemia and gout-type complications.                                                                                                                                                                                                                                                                                                                    |
 
 <div style=\"page-break-after: always\"></div>
 
-| Medicinal products affecting serum potassium level                                            | The hypokalaemic effect of hydrochlorothiazide may be increased by concomitant administration of kaliuretic diuretics, corticosteroids, laxatives, adrenocorticotropic hormone (ACTH), amphotericin, carbenoxolone, penicillin G and salicylic acid derivatives or antiarrhythmics. If these medicinal products are to be prescribed with the amlodipine /valsartan /hydrochlorothiazide combination, monitoring of potassium plasma levels is advised.   |
-|-----------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Medicinal products affecting serum sodium level                                               | The hyponatraemic effect of diuretics may be intensified by concomitant administration of medicinal products such as antidepressants, antipsychotics, antiepileptics, etc. Caution is indicated in long-term administration of these medicinal products.                                                                                                                                                                                                  |
-| Medicinal products that could induce torsades de pointes                                      | Due to the risk of hypokalaemia, hydrochlorothiazide should be administered with caution when associated with medicinal products that could induce torsades de pointes , in particular Class Ia and Class III antiarrhythmics and some antipsychotics.                                                                                                                                                                                                    |
-| Medicinal products used in the treatment of gout (probenecid, sulfinpyrazone and allopurinol) | Dose adjustment of uricosuric medicinal products may be necessary as hydrochlorothiazide may raise the level of serum uric acid. Increase of dose of probenecid or sulfinpyrazone may be necessary. Co-administration of thiazide diuretics, including hydrochlorothiazide, may increase the incidence of hypersensitivity reactions to allopurinol.                                                                                                      |
-| Methyldopa                                                                                    | There have been isolated reports of haemolytic anaemia occurring with concomitant use of hydrochlorothiazide and methyldopa.                                                                                                                                                                                                                                                                                                                              |
-| Non-depolarising skeletal muscle relaxants (e.g. tubocurarine)                                | Thiazides, including hydrochlorothiazide, potentiate the action of curare derivatives.                                                                                                                                                                                                                                                                                                                                                                    |
-| Other anti-hypertensive medicinal products                                                    | Thiazides potentiate the antihypertensive action of other antihypertensive drugs (e.g. guanethidine, methyldopa, beta-blockers, vasodilators, calcium channel blockers, ACE inhibitors, ARBs and Direct Renin Inhibitors [DRIs]).                                                                                                                                                                                                                         |
-| Pressor amines (e.g. noradrenaline, adrenaline)                                               | Hydrochlorothiazide may reduce the response to pressor amines such as noradrenaline. The clinical significance of this effect is uncertain and not sufficient to preclude their use.                                                                                                                                                                                                                                                                      |
-| Vitamin D and calcium salts                                                                   | Administration of thiazide diuretics, including hydrochlorothiazide, with vitamin D or with calcium salts may potentiate the rise in serum calcium. Concomitant use of thiazide type diuretics may lead to hypercalcaemia in patients pre-disposed for hypercalcaemia (e.g. hyperparathyroidism, malignancy or vitamin-D-mediated conditions) by increasing tubular calcium reabsorption.                                                                 |
+| Cytotoxic agents                                                                              | Thiazides, including hydrochlorothiazide, may reduce the renal excretion of cytotoxic agents (e.g. cyclophosphamide, methotrexate) and potentiate their myelosuppressive effects.                                                                                                                                                                                                                                    |
+|-----------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Digitalis glycosides                                                                          | Thiazide-induced hypokalaemia or hypomagnesaemia may occur as undesirable effects, favouring the onset of digitalis-induced cardiac arrhythmias.                                                                                                                                                                                                                                                                     |
+| Iodine contrasting agents                                                                     | In case of diuretic-induced dehydration, there is an increased risk of acute renal failure, especially with high doses of iodine products. Patients should be re-hydrated before the administration.                                                                                                                                                                                                                 |
+| Ion exchange resins                                                                           | Absorption of thiazide diuretics, including hydrochlorothiazide, is decreased by cholestyramine or colestipol. This could result in sub-therapeutic effects of thiazide diuretics. However, staggering the dosage of hydrochlorothiazide and resin such that hydrochlorothiazide is administered at least 4 hours before or 4-6 hours after the administration of resins would potentially minimise the interaction. |
+| Medicinal products affecting serum potassium level                                            | The hypokalaemic effect of hydrochlorothiazide may be increased by concomitant administration of kaliuretic diuretics, corticosteroids, laxatives, adrenocorticotropic hormone (ACTH), amphotericin, carbenoxolone, penicillin Gand salicylic acid derivatives or antiarrhythmics. If these medicinal products are to be prescribed with the amlodipine /valsartan /hydrochlorothiazide combination, monitoring of   |
+| Medicinal products affecting serum sodium level                                               | The hyponatraemic effect of diuretics may be intensified by concomitant administration of medicinal products such as antidepressants, antipsychotics, antiepileptics, etc. Caution is indicated in long-term administration of these medicinal products.                                                                                                                                                             |
+| Medicinal products that could induce torsades de pointes                                      | Due to the risk of hypokalaemia, hydrochlorothiazide should be administered with caution when associated with medicinal products that could induce torsades de pointes , in particular Class Ia and Class III antiarrhythmics and some antipsychotics.                                                                                                                                                               |
+| Medicinal products used in the treatment of gout (probenecid, sulfinpyrazone and allopurinol) | Dose adjustment of uricosuric medicinal products may be necessary as hydrochlorothiazide may raise the level of serum uric acid. Increase of dose of probenecid or sulfinpyrazone may be necessary. Co-administration of thiazide diuretics, including hydrochlorothiazide, may increase the incidence of hypersensitivity reactions to allopurinol.                                                                 |
+| Methyldopa                                                                                    | There have been isolated reports of haemolytic anaemia occurring with concomitant use of hydrochlorothiazide and methyldopa.                                                                                                                                                                                                                                                                                         |
+| Non-depolarising skeletal muscle relaxants (e.g. tubocurarine)                                | Thiazides, including hydrochlorothiazide, potentiate the action of curare derivatives.                                                                                                                                                                                                                                                                                                                               |
+| Other anti-hypertensive medicinal products                                                    | Thiazides potentiate the antihypertensive action of other antihypertensive drugs (e.g. guanethidine, methyldopa, beta-blockers, vasodilators, calcium channel blockers, ACE inhibitors, ARBs and Direct Renin Inhibitors [DRIs]).                                                                                                                                                                                    |
+
+<div style=\"page-break-after: always\"></div>
+
+| Pressor amines (e.g. noradrenaline, adrenaline)   | Hydrochlorothiazide may reduce the response to pressor amines such as noradrenaline. The clinical significance of this effect is uncertain and not sufficient to preclude their use.                                                                                                                                                                                                     |
+|---------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Vitamin Dand calcium salts                        | Administration of thiazide diuretics, including hydrochlorothiazide, with vitamin Dor with calcium salts may potentiate the rise in serum calcium. Concomitant use of thiazide type diuretics may lead to hypercalcaemia in patients pre-disposed for hypercalcaemia (e.g. hyperparathyroidism, malignancy or vitamin-D-mediated conditions) by increasing tubular calcium reabsorption. |
 
 ## Dual blockade of the RAAS with ARBs, ACE inhibitors or aliskiren
 
 Clinical trial data have shown that dual blockade of the RAAS through the combined use of ACE inhibitors, ARBs or aliskiren is associated with a higher frequency of adverse events such as hypotension, hyperkalaemia and decreased renal function (including acute renal failure) compared to the use of a single RAAS-acting agent (see sections 4.3, 4.4 and 5.1).
-
-<div style=\"page-break-after: always\"></div>
 
 ## 4.6 Fertility, pregnancy and lactation
 
@@ -362,6 +364,8 @@ Should exposure to AIIRAs have occurred from the second trimester of pregnancy, 
 
 Infants whose mothers have taken AIIRAs should be closely observed for hypotension (see sections 4.3 and 4.4).
 
+<div style=\"page-break-after: always\"></div>
+
 ## Hydrochlorothiazide
 
 There is limited experience with hydrochlorothiazide during pregnancy, especially during the first trimester. Animal studies are insufficient.
@@ -371,8 +375,6 @@ Hydrochlorothiazide crosses the placenta. Based on the pharmacological mechanism
 ## Amlodipine/valsartan/hydrochlorothiazide
 
 There is no experience on the use of Exforge HCT in pregnant women. Based on the existing data with the components, the use of Exforge HCT is not recommended during first trimester and contraindicated during the second and third trimester of pregnancy (see sections 4.3 and 4.4).
-
-<div style=\"page-break-after: always\"></div>
 
 ## Breast-feeding
 
@@ -400,13 +402,13 @@ Amlodipine can have mild or moderate influence on the ability to drive and use m
 
 The safety profile of Exforge HCT presented below is based on clinical studies performed with Exforge HCT and the known safety profile of the individual components amlodipine, valsartan and hydrochlorothiazide.
 
+<div style=\"page-break-after: always\"></div>
+
 ## Summary of the safety profile
 
 The safety of Exforge HCT has been evaluated at its maximum dose of 10 mg/320 mg/25 mg in one controlled short-term (8 weeks) clinical study with 2,271 patients, 582 of whom received valsartan in combination with amlodipine and hydrochlorothiazide. Adverse reactions were generally mild and transient in nature and only infrequently required discontinuation of therapy. In this active controlled clinical trial, the most common reasons for discontinuation of therapy with Exforge HCT were dizziness and hypotension (0.7%).
 
 In the 8-week controlled clinical study, no significant new or unexpected adverse reactions were observed with triple therapy treatment compared to the known effects of the monotherapy or dual therapy components.
-
-<div style=\"page-break-after: always\"></div>
 
 In the 8-week controlled clinical study, changes in laboratory parameters observed with the combination of Exforge HCT were minor and consistent with the pharmacological mechanism of action of the monotherapy agents. The presence of valsartan in the triple combination attenuated the hypokalaemic effect of hydrochlorothiazide.
 
@@ -414,146 +416,146 @@ In the 8-week controlled clinical study, changes in laboratory parameters observ
 
 The following adverse reactions, listed by MedDRA System Organ Class and frequency, concern Exforge HCT (amlodipine/valsartan/HCT) and amlodipine, valsartan and HCT individually. Very common: ≥1/10; common: ≥1/100 to &lt;1/10; uncommon: ≥1/1,000 to &lt;1/100; rare: ≥1/10,000 to &lt;1/1,000; very rare: &lt;1/10,000, not known (cannot be estimated from the available data).
 
-| MedDRA System Organ Class                                           | Adverse reactions                                                           | Frequency   |            |           |             |
-|---------------------------------------------------------------------|-----------------------------------------------------------------------------|-------------|------------|-----------|-------------|
-|                                                                     |                                                                             | Exforge HCT | Amlodipine | Valsartan | HCT         |
-| Neoplasms benign, malignant and unspecified (incl cysts and polyps) | Non-melanoma skin cancer (Basal cell carcinoma and Squamous cell carcinoma) | --          | --         | --        | Not known   |
-| Blood and lymphatic system disorders                                | Agranulocytosis, bone marrow failure                                        | --          | --         | --        | Very rare   |
-| Blood and lymphatic system disorders                                | Haemoglobin and haematocrit decreased                                       | --          | --         | Not known | --          |
-| Blood and lymphatic system disorders                                | Haemolytic anaemia                                                          | --          | --         | --        | Very rare   |
-| Blood and lymphatic system disorders                                | Leukopenia                                                                  | --          | Very rare  | --        | Very rare   |
-| Blood and lymphatic system disorders                                | Neutropenia                                                                 | --          | --         | Not known | --          |
-| Blood and lymphatic system disorders                                | Thrombocytopenia, sometimes with purpura                                    | --          | Very rare  | Not known | Rare        |
-| Blood and lymphatic system disorders                                | Aplastic anaemia                                                            | --          | --         | --        | Not known   |
-| Immune system disorders                                             | Hypersensitivity                                                            | --          | Very rare  | Not known | Very rare   |
-| Metabolism and nutrition disorders                                  | Anorexia                                                                    | Uncommon    | --         | --        | --          |
-| Metabolism and nutrition disorders                                  | Hypercalcaemia                                                              | Uncommon    | --         | --        | Rare        |
-| Metabolism and nutrition disorders                                  | Hyperglycaemia                                                              | --          | Very rare  | --        | Rare        |
-| Metabolism and nutrition disorders                                  | Hyperlipidaemia                                                             | Uncommon    | --         | --        | --          |
-| Metabolism and nutrition disorders                                  | Hyperuricaemia                                                              | Uncommon    | --         | --        | Common      |
-| Metabolism and nutrition disorders                                  | Hypochloraemic alkalosis                                                    | --          | --         | --        | Very rare   |
-| Metabolism and nutrition disorders                                  | Hypokalaemia                                                                | Common      | --         | --        | Very common |
-| Metabolism and nutrition disorders                                  | Hypomagnesaemia                                                             | --          | --         | --        | Common      |
-| Metabolism and nutrition disorders                                  | Hyponatraemia                                                               | Uncommon    | --         | --        | Common      |
-| Metabolism and nutrition disorders                                  | Worsening of diabetic metabolic state                                       | --          | --         | --        | Rare        |
-| Psychiatric disorders                                               | Depression                                                                  | --          | Uncommon   | --        | Rare        |
-| Psychiatric disorders                                               | Insomnia/sleep disorders                                                    | Uncommon    | Uncommon   | --        | Rare        |
-| Psychiatric disorders                                               | Mood swings                                                                 | --          | Uncommon   | --        |             |
-| Psychiatric disorders                                               | Confusion                                                                   | --          | Rare       | --        | --          |
+| MedDRA System Organ                                                 | Adverse reactions                                                           | Frequency   |            |           |           |
+|---------------------------------------------------------------------|-----------------------------------------------------------------------------|-------------|------------|-----------|-----------|
+| Class                                                               |                                                                             | Exforge HCT | Amlodipine | Valsartan | HCT       |
+| Neoplasms benign, malignant and unspecified (incl cysts and polyps) | Non-melanoma skin cancer (Basal cell carcinoma and Squamous cell carcinoma) | --          | --         | --        | Not known |
+| Blood and lymphatic system disorders                                | Agranulocytosis, bone marrow failure                                        | --          | --         | --        | Very rare |
+| Blood and lymphatic system disorders                                | Haemoglobin and haematocrit decreased                                       | --          | --         | Not known | --        |
+| Blood and lymphatic system disorders                                | Haemolytic anaemia                                                          | --          | --         | --        | Very rare |
+| Blood and lymphatic system disorders                                | Leukopenia                                                                  | --          | Very rare  | --        | Very rare |
+| Blood and lymphatic system disorders                                | Neutropenia                                                                 | --          | --         | Not known | --        |
+| Blood and lymphatic system disorders                                | Thrombocytopenia, sometimes with purpura                                    | --          | Very rare  | Not known | Rare      |
+| Blood and lymphatic system disorders                                | Aplastic anaemia                                                            | --          | --         | --        | Not known |
+| Immune system disorders                                             | Hypersensitivity                                                            | --          | Very rare  | Not known | Very rare |
 
 <div style=\"page-break-after: always\"></div>
 
-| Nervous system disorders                        | Coordination abnormal                                                                 | Uncommon   | --        | --        | --        |
-|-------------------------------------------------|---------------------------------------------------------------------------------------|------------|-----------|-----------|-----------|
-| Nervous system disorders                        | Dizziness                                                                             | Common     | Common    | --        | Rare      |
-| Nervous system disorders                        | Dizziness postural, dizziness exertional                                              | Uncommon   | --        | --        | --        |
-| Nervous system disorders                        | Dysgeusia                                                                             | Uncommon   | Uncommon  | --        | --        |
-| Nervous system disorders                        | Extrapyramidal syndrome                                                               | --         | Not known | --        | --        |
-| Nervous system disorders                        | Headache                                                                              | Common     | Common    | --        | Rare      |
-| Nervous system disorders                        | Hypertonia                                                                            | --         | Very rare | --        | --        |
-| Nervous system disorders                        | Lethargy                                                                              | Uncommon   | --        | --        | --        |
-| Nervous system disorders                        | Paraesthesia                                                                          | Uncommon   | Uncommon  | --        | Rare      |
-| Nervous system disorders                        | Peripheral neuropathy, neuropathy                                                     | Uncommon   | Very rare | --        | --        |
-| Nervous system disorders                        | Somnolence                                                                            | Uncommon   | Common    | --        | --        |
-| Nervous system disorders                        | Syncope                                                                               | Uncommon   | Uncommon  | --        | --        |
-| Nervous system disorders                        | Tremor                                                                                | --         | Uncommon  | --        | --        |
-| Nervous system disorders                        | Hypoesthesia                                                                          | --         | Uncommon  | --        | --        |
-| Eye disorders                                   | Acute angle-closure glaucoma                                                          | --         | --        | --        | Not known |
-| Eye disorders                                   | Visual disturbance                                                                    | --         | Uncommon  | --        | --        |
-| Eye disorders                                   | Visual impairment                                                                     | Uncommon   | Uncommon  | --        | Rare      |
-| Eye disorders                                   | Choroidal effusion                                                                    | --         | --        | --        | Not Known |
-| Ear and labyrinth disorders                     | Tinnitus                                                                              | --         | Uncommon  | --        | --        |
-| Ear and labyrinth disorders                     | Vertigo                                                                               | Uncommon   | --        | Uncommon  | --        |
-| Cardiac disorders                               | Palpitations                                                                          | --         | Common    | --        | --        |
-| Cardiac disorders                               | Tachycardia                                                                           | Uncommon   | --        | --        | --        |
-| Cardiac disorders                               | Arrhythmias (including bradycardia, ventricular tachycardia, and atrial fibrillation) | --         | Very rare | --        | Rare      |
-| Cardiac disorders                               | Myocardial infarction                                                                 | --         | Very rare | --        | --        |
-| Vascular disorders                              | Flushing                                                                              | --         | Common    | --        | --        |
-| Vascular disorders                              | Hypotension                                                                           | Common     | Uncommon  | --        | --        |
-| Vascular disorders                              | Orthostatic hypotension                                                               | Uncommon   | --        | --        | Common    |
-| Vascular disorders                              | Phlebitis, thrombophlebitis                                                           | Uncommon   | --        | --        | --        |
-| Vascular disorders                              | Vasculitis                                                                            | --         | Very rare | Not known | --        |
-| Respiratory, thoracic and mediastinal disorders | Cough                                                                                 | Uncommon   | Very rare | Uncommon  | --        |
-| Respiratory, thoracic and mediastinal disorders | Dyspnoea                                                                              | Uncommon   | Uncommon  | --        | --        |
-| Respiratory, thoracic and mediastinal disorders | Acute respiratory distress syndrome (ARDS) (see section 4.4)                          | --         | --        | --        | Very rare |
-| Respiratory, thoracic and mediastinal disorders | Respiratory distress, pulmonary oedema, pneumonitis                                   | --         | --        | --        | Very rare |
-| Respiratory, thoracic and mediastinal disorders | Rhinitis                                                                              | --         | Uncommon  | --        | --        |
-| Respiratory, thoracic and mediastinal disorders | Throat irritation                                                                     | Uncommon   | --        | --        | --        |
+| Metabolism and nutrition disorders   | Anorexia                                                                              | Uncommon   | --        | --        | --          |
+|--------------------------------------|---------------------------------------------------------------------------------------|------------|-----------|-----------|-------------|
+| Metabolism and nutrition disorders   | Hypercalcaemia                                                                        | Uncommon   | --        | --        | Rare        |
+| Metabolism and nutrition disorders   | Hyperglycaemia                                                                        | --         | Very rare | --        | Rare        |
+| Metabolism and nutrition disorders   | Hyperlipidaemia                                                                       | Uncommon   | --        | --        | --          |
+| Metabolism and nutrition disorders   | Hyperuricaemia                                                                        | Uncommon   | --        | --        | Common      |
+| Metabolism and nutrition disorders   | Hypochloraemic alkalosis                                                              | --         | --        | --        | Very rare   |
+| Metabolism and nutrition disorders   | Hypokalaemia                                                                          | Common     | --        | --        | Very common |
+| Metabolism and nutrition disorders   | Hypomagnesaemia                                                                       | --         | --        | --        | Common      |
+| Metabolism and nutrition disorders   | Hyponatraemia                                                                         | Uncommon   | --        | --        | Common      |
+| Metabolism and nutrition disorders   | Worsening of diabetic metabolic state                                                 | --         | --        | --        | Rare        |
+| Psychiatric disorders                | Depression                                                                            | --         | Uncommon  | --        | Rare        |
+| Psychiatric disorders                | Insomnia/sleep disorders                                                              | Uncommon   | Uncommon  | --        | Rare        |
+| Psychiatric disorders                | Mood swings                                                                           | --         | Uncommon  | --        |             |
+| Psychiatric disorders                | Confusion                                                                             | --         | Rare      | --        | --          |
+| Nervous system disorders             | Coordination abnormal                                                                 | Uncommon   | --        | --        | --          |
+| Nervous system disorders             | Dizziness                                                                             | Common     | Common    | --        | Rare        |
+| Nervous system disorders             | Dizziness postural, dizziness exertional                                              | Uncommon   | --        | --        | --          |
+| Nervous system disorders             | Dysgeusia                                                                             | Uncommon   | Uncommon  | --        | --          |
+| Nervous system disorders             | Extrapyramidal syndrome                                                               | --         | Not known | --        | --          |
+| Nervous system disorders             | Headache                                                                              | Common     | Common    | --        | Rare        |
+| Nervous system disorders             | Hypertonia                                                                            | --         | Very rare | --        | --          |
+| Nervous system disorders             | Lethargy                                                                              | Uncommon   | --        | --        | --          |
+| Nervous system disorders             | Paraesthesia                                                                          | Uncommon   | Uncommon  | --        | Rare        |
+| Nervous system disorders             | Peripheral neuropathy, neuropathy                                                     | Uncommon   | Very rare | --        | --          |
+| Nervous system disorders             | Somnolence                                                                            | Uncommon   | Common    | --        | --          |
+| Nervous system disorders             | Syncope                                                                               | Uncommon   | Uncommon  | --        | --          |
+| Nervous system disorders             | Tremor                                                                                | --         | Uncommon  | --        | --          |
+| Nervous system disorders             | Hypoesthesia                                                                          | --         | Uncommon  | --        | --          |
+| Eye disorders                        | Acute angle-closure glaucoma                                                          | --         | --        | --        | Not known   |
+| Eye disorders                        | Visual disturbance                                                                    | --         | Uncommon  | --        | --          |
+| Eye disorders                        | Visual impairment                                                                     | Uncommon   | Uncommon  | --        | Rare        |
+| Eye disorders                        | Choroidal effusion                                                                    | --         | --        | --        | Not         |
+| Ear and labyrinth disorders          | Tinnitus                                                                              | --         | Uncommon  | --        | --          |
+| Ear and labyrinth disorders          | Vertigo                                                                               | Uncommon   | --        | Uncommon  | --          |
+| Cardiac disorders                    | Palpitations                                                                          | --         | Common    | --        | --          |
+| Cardiac disorders                    | Tachycardia                                                                           | Uncommon   | --        | --        | --          |
+| Cardiac disorders                    | Arrhythmias (including bradycardia, ventricular tachycardia, and atrial fibrillation) | --         | Very rare | --        | Rare        |
+| Cardiac disorders                    | Myocardial infarction                                                                 | --         | Very rare | --        | --          |
+| Vascular disorders                   | Flushing                                                                              | --         | Common    | --        | --          |
+| Vascular disorders                   | Hypotension                                                                           | Common     | Uncommon  | --        | --          |
+| Vascular disorders                   | Orthostatic hypotension                                                               | Uncommon   | --        | --        | Common      |
+| Vascular disorders                   | Phlebitis, thrombophlebitis                                                           | Uncommon   | --        | --        | --          |
+|                                      | Vasculitis                                                                            | --         | Very rare | Not known | --          |
 
 <div style=\"page-break-after: always\"></div>
 
-| Gastrointestinal disorders                      | Abdominal discomfort, abdominal pain upper                                                  | Uncommon   | Common      | Uncommon   | Rare      |
-|-------------------------------------------------|---------------------------------------------------------------------------------------------|------------|-------------|------------|-----------|
-| Gastrointestinal disorders                      | Breath odour                                                                                | Uncommon   | --          | --         | --        |
-| Gastrointestinal disorders                      | Change of bowel habit                                                                       | --         | Uncommon    | --         | --        |
-| Gastrointestinal disorders                      | Constipation                                                                                | --         | --          | --         | Rare      |
-| Gastrointestinal disorders                      | Decreased appetite                                                                          | --         | --          | --         | Common    |
-| Gastrointestinal disorders                      | Diarrhoea                                                                                   | Uncommon   | Uncommon    | --         | Rare      |
-| Gastrointestinal disorders                      | Dry mouth                                                                                   | Uncommon   | Uncommon    | --         | --        |
-| Gastrointestinal disorders                      | Dyspepsia                                                                                   | Common     | Uncommon    | --         | --        |
-| Gastrointestinal disorders                      | Gastritis                                                                                   | --         | Very rare   | --         | --        |
-| Gastrointestinal disorders                      | Gingival hyperplasia                                                                        | --         | Very rare   | --         | --        |
-| Gastrointestinal disorders                      | Nausea                                                                                      | Uncommon   | Common      | --         | Common    |
-| Gastrointestinal disorders                      | Pancreatitis                                                                                | --         | Very rare   | --         | Very rare |
-| Gastrointestinal disorders                      | Vomiting                                                                                    | Uncommon   | Uncommon    | --         | Common    |
-| Gastrointestinal disorders                      | Intestinal angioedema                                                                       | --         | --          | Very rare  | --        |
-| Hepatobiliary disorders                         | Liver function test abnormal, including blood bilirubin increase                            | --         | Very rare** | Not known  | --        |
-| Hepatobiliary disorders                         | Hepatitis                                                                                   | --         | Very rare   | --         | --        |
-| Hepatobiliary disorders                         | Intrahepatic cholestasis, jaundice                                                          | --         | Very rare   | --         | Rare      |
-| Skin and subcutaneous tissue disorders          | Alopecia                                                                                    | --         | Uncommon    | --         |           |
-| Skin and subcutaneous tissue disorders          | Angioedema                                                                                  | --         | Very rare   | Not known  | --        |
-| Skin and subcutaneous tissue disorders          | Dermatitis bullous                                                                          | --         | --          | Not known  | --        |
-| Skin and subcutaneous tissue disorders          | Cutaneous lupus erythematosus-like reactions, reactivation of cutaneous lupus erythematosus | --         | --          | --         | Very rare |
-| Skin and subcutaneous tissue disorders          | Erythema multiforme                                                                         | --         | Very rare   | --         | Not       |
-| Skin and subcutaneous tissue disorders          | Exanthema                                                                                   | --         | Uncommon    | --         | --        |
-| Skin and subcutaneous tissue disorders          | Hyperhidrosis                                                                               | Uncommon   | Uncommon    | --         | --        |
-| Skin and subcutaneous tissue disorders          | Photosensitivity reaction*                                                                  | --         | Very rare   | --         | Rare      |
-| Skin and subcutaneous tissue disorders          | Pruritus                                                                                    | Uncommon   | Uncommon    | Not known  | --        |
-| Skin and subcutaneous tissue disorders          | Purpura                                                                                     | --         | Uncommon    | --         | Rare      |
-| Skin and subcutaneous tissue disorders          | Rash                                                                                        | --         | Uncommon    | Not known  | Common    |
-| Skin and subcutaneous tissue disorders          | Skin discoloration                                                                          | --         | Uncommon    | --         | --        |
-| Skin and subcutaneous tissue disorders          | Urticaria and other forms of rash                                                           | --         | Very rare   | --         | Common    |
-| Skin and subcutaneous tissue disorders          | Vasculitis necrotising and toxic epidermal necrolysis                                       | --         | Not known   | --         | Very rare |
-| Skin and subcutaneous tissue disorders          | Exfoliative dermatitis                                                                      | --         | Very rare   | --         | --        |
-| Skin and subcutaneous tissue disorders          | Stevens-Johnson syndrome                                                                    | --         | Very rare   | --         | --        |
-| Skin and subcutaneous tissue disorders          | Quincke oedema                                                                              | --         | Very rare   | --         | --        |
-| Musculoskeletal and connective tissue disorders | Arthralgia                                                                                  | --         | Uncommon    | --         | --        |
-| Musculoskeletal and connective tissue disorders | Back pain                                                                                   | Uncommon   | Uncommon    | --         | --        |
-| Musculoskeletal and connective tissue disorders | Joint swelling                                                                              | Uncommon   | --          | --         | --        |
-| Musculoskeletal and connective tissue disorders | Muscle spasm                                                                                | Uncommon   | Uncommon    | --         | Not       |
-| Musculoskeletal and connective tissue disorders | Muscular weakness                                                                           | Uncommon   | --          | --         | --        |
-| Musculoskeletal and connective tissue disorders | Myalgia                                                                                     | Uncommon   | Uncommon    | Not        | --        |
-| Musculoskeletal and connective tissue disorders | Pain in                                                                                     | Uncommon   | --          | --         | --        |
-| Musculoskeletal and connective tissue disorders | extremity Ankle swelling                                                                    | --         | Common      | known --   | --        |
+| Respiratory, thoracic and mediastinal   | Cough                                                                                       | Uncommon   | Very rare   | Uncommon   | --        |
+|-----------------------------------------|---------------------------------------------------------------------------------------------|------------|-------------|------------|-----------|
+| Respiratory, thoracic and mediastinal   | Dyspnoea                                                                                    | Uncommon   | Uncommon    | --         | --        |
+| disorders                               | Acute respiratory distress syndrome (ARDS) (see section 4.4)                                | --         | --          | --         | Very rare |
+| Respiratory, thoracic and mediastinal   | Respiratory distress, pulmonary oedema, pneumonitis                                         | --         | --          | --         | Very rare |
+| Respiratory, thoracic and mediastinal   | Rhinitis                                                                                    | --         | Uncommon    | --         | --        |
+| Respiratory, thoracic and mediastinal   | Throat irritation                                                                           | Uncommon   | --          | --         | --        |
+| Gastrointestinal disorders              | Abdominal discomfort, abdominal pain upper                                                  | Uncommon   | Common      | Uncommon   | Rare      |
+| Gastrointestinal disorders              | Breath odour                                                                                | Uncommon   | --          | --         | --        |
+| Gastrointestinal disorders              | Change of bowel habit                                                                       | --         | Uncommon    | --         | --        |
+| Gastrointestinal disorders              | Constipation                                                                                | --         | --          | --         | Rare      |
+| Gastrointestinal disorders              | Decreased appetite                                                                          | --         | --          | --         | Common    |
+| Gastrointestinal disorders              | Diarrhoea                                                                                   | Uncommon   | Uncommon    | --         | Rare      |
+| Gastrointestinal disorders              | Dry mouth                                                                                   | Uncommon   | Uncommon    | --         | --        |
+| Gastrointestinal disorders              | Dyspepsia                                                                                   | Common     | Uncommon    | --         | --        |
+| Gastrointestinal disorders              | Gastritis                                                                                   | --         | Very rare   | --         | --        |
+| Gastrointestinal disorders              | Gingival hyperplasia                                                                        | --         | Very rare   | --         | --        |
+| Gastrointestinal disorders              | Nausea                                                                                      | Uncommon   | Common      | --         | Common    |
+| Gastrointestinal disorders              | Pancreatitis                                                                                | --         | Very rare   | --         | Very rare |
+| Gastrointestinal disorders              | Vomiting                                                                                    | Uncommon   | Uncommon    | --         | Common    |
+| Gastrointestinal disorders              | Intestinal angioedema                                                                       | --         | --          | Very rare  | --        |
+| Hepatobiliary disorders                 | Liver function test abnormal, including blood bilirubin increase                            | --         | Very rare** | Not known  | --        |
+| Hepatobiliary disorders                 | Hepatitis                                                                                   | --         | Very rare   | --         | --        |
+| Hepatobiliary disorders                 | Intrahepatic cholestasis, jaundice                                                          | --         | Very rare   | --         | Rare      |
+| Skin and subcutaneous tissue disorders  | Alopecia                                                                                    | --         | Uncommon    | --         |           |
+|                                         | Angioedema                                                                                  | --         | Very rare   | Not known  | --        |
+|                                         | Dermatitis bullous                                                                          | --         | --          | Not known  | --        |
+|                                         | Cutaneous lupus erythematosus-like reactions, reactivation of cutaneous lupus erythematosus | --         | --          | --         | Very rare |
+|                                         | Erythema multiforme                                                                         | --         | Very rare   | --         | Not known |
+|                                         | Exanthema                                                                                   | --         | Uncommon    | --         | --        |
+|                                         | Hyperhidrosis                                                                               | Uncommon   | Uncommon    | --         | --        |
+|                                         | Photosensitivity reaction*                                                                  | --         | Very rare   | --         | Rare      |
+|                                         | Pruritus                                                                                    | Uncommon   | Uncommon    | Not known  | --        |
+|                                         | Purpura                                                                                     | --         | Uncommon    | --         | Rare      |
+|                                         | Rash                                                                                        | --         | Uncommon    | Not known  | Common    |
+|                                         | Skin discoloration                                                                          | --         | Uncommon    | --         | --        |
+|                                         | Urticaria and other forms of rash                                                           | --         | Very rare   | --         | Common    |
+|                                         | Vasculitis necrotising and toxic epidermal necrolysis                                       | --         | Not known   | --         | Very rare |
+|                                         | Exfoliative dermatitis                                                                      | --         | Very rare   | --         | --        |
+|                                         | Stevens-Johnson syndrome                                                                    | --         | Very rare   | --         | --        |
+|                                         | Quincke oedema                                                                              | --         | Very rare   | --         | --        |
 
 <div style=\"page-break-after: always\"></div>
 
-| Renal and urinary disorders                          | Blood creatinine increased    | Uncommon   | --       | Not known   | --          |
-|------------------------------------------------------|-------------------------------|------------|----------|-------------|-------------|
-| Renal and urinary disorders                          | Micturition disorder          |            | Uncommon |             |             |
-| Renal and urinary disorders                          | Nocturia                      | --         | Uncommon | --          | --          |
-| Renal and urinary disorders                          | Pollakiuria                   | Common     | Uncommon |             |             |
-| Renal and urinary disorders                          | Renal dysfunction             | --         | --       | --          | Not known   |
-| Renal and urinary disorders                          | Acute renal failure           | Uncommon   | --       | --          | Not known   |
-| Renal and urinary disorders                          | Renal failure and impairment  | --         | --       | Not known   | Rare        |
-| Reproductive system and breast disorders             | Impotence                     | Uncommon   | Uncommon | --          | Common      |
-| Reproductive system and breast disorders             | Gynaecomastia                 |            | Uncommon | --          | --          |
-| General disorders and administration site conditions | Abasia, gait disturbance      | Uncommon   | --       | --          | --          |
-| General disorders and administration site conditions | Asthenia                      | Uncommon   | Uncommon | --          | Not known   |
-| General disorders and administration site conditions | Discomfort, malaise           | Uncommon   | Uncommon | --          | --          |
-| General disorders and administration site conditions | Fatigue                       | Common     | Common   | Uncommon    | --          |
-| General disorders and administration site conditions | Non cardiac chest pain        | Uncommon   | Uncommon | --          | --          |
-| General disorders and administration site conditions | Oedema                        | Common     | Common   | --          | --          |
-| General disorders and administration site conditions | Pain                          | --         | Uncommon | --          | --          |
-| General disorders and administration site conditions | Pyrexia                       | --         | --       | --          | Not known   |
-| Investigations                                       | Lipids increased              |            | --       |             | Very common |
-| Investigations                                       | Blood urea nitrogen increased | Uncommon   | --       | --          | --          |
-| Investigations                                       | Blood uric acid increased     | Uncommon   | --       | --          |             |
-| Investigations                                       | Glycosuria                    |            |          |             | Rare        |
-| Investigations                                       | Blood potassium decreased     | Uncommon   | --       | --          | --          |
-| Investigations                                       | Blood potassium increased     | --         | --       | Not known   | --          |
-| Investigations                                       | Weight increase               | Uncommon   | Uncommon | --          | --          |
-| Investigations                                       | Weight decrease               | --         | Uncommon | --          | --          |
+| Musculoskeletal and connective tissue disorders      | Arthralgia                    | --       | Uncommon   | --        | --          |
+|------------------------------------------------------|-------------------------------|----------|------------|-----------|-------------|
+| Musculoskeletal and connective tissue disorders      | Back pain                     | Uncommon | Uncommon   | --        | --          |
+| Musculoskeletal and connective tissue disorders      | Joint swelling                | Uncommon | --         | --        | --          |
+| Musculoskeletal and connective tissue disorders      | Muscle spasm                  | Uncommon | Uncommon   | --        | Not known   |
+| Musculoskeletal and connective tissue disorders      | Muscular weakness             | Uncommon | --         | --        | --          |
+| Musculoskeletal and connective tissue disorders      | Myalgia                       | Uncommon | Uncommon   | Not known | --          |
+| Musculoskeletal and connective tissue disorders      | Pain in extremity             | Uncommon | --         | --        | --          |
+| Musculoskeletal and connective tissue disorders      | Ankle swelling                | --       | Common     | --        | --          |
+| Renal and urinary disorders                          | Blood creatinine increased    | Uncommon | --         | Not known | --          |
+| Renal and urinary disorders                          | Micturition disorder          |          | Uncommon   |           |             |
+| Renal and urinary disorders                          | Nocturia                      | --       | Uncommon   | --        | --          |
+| Renal and urinary disorders                          | Pollakiuria                   | Common   | Uncommon   |           |             |
+| Renal and urinary disorders                          | Renal dysfunction             | --       | --         | --        | Not known   |
+| Renal and urinary disorders                          | Acute renal failure           | Uncommon | --         | --        | Not known   |
+| Renal and urinary disorders                          | Renal failure and impairment  | --       | --         | Not known | Rare        |
+| Reproductive system and breast disorders             | Impotence                     | Uncommon | Uncommon   | --        | Common      |
+| Reproductive system and breast disorders             | Gynaecomastia                 |          | Uncommon   | --        | --          |
+| General disorders and administration site conditions | Abasia, gait disturbance      | Uncommon | --         | --        | --          |
+| General disorders and administration site conditions | Asthenia                      | Uncommon | Uncommon   | --        | Not known   |
+| General disorders and administration site conditions | Discomfort, malaise           | Uncommon | Uncommon   | --        | --          |
+| General disorders and administration site conditions | Fatigue                       | Common   | Common     | Uncommon  | --          |
+| General disorders and administration site conditions | Non cardiac chest pain        | Uncommon | Uncommon   | --        | --          |
+| General disorders and administration site conditions | Oedema                        | Common   | Common     | --        | --          |
+| General disorders and administration site conditions | Pain                          | --       | Uncommon   | --        | --          |
+| General disorders and administration site conditions | Pyrexia                       | --       | --         | --        | Not known   |
+| Investigations                                       | Lipids increased              |          | --         |           | Very common |
+| Investigations                                       | Blood urea nitrogen increased | Uncommon | --         | --        | --          |
+| Investigations                                       | Blood uric acid increased     | Uncommon | --         | --        |             |
+| Investigations                                       | Glycosuria                    |          |            |           | Rare        |
+| Investigations                                       | Blood potassium decreased     | Uncommon | --         | --        | --          |
+| Investigations                                       | Blood potassium increased     | --       | --         | Not known | --          |
+| Investigations                                       | Weight increase               | Uncommon | Uncommon   | --        | --          |
+| Investigations                                       | Weight decrease               | --       | Uncommon   | --        | --          |
 
 * See section 4.4 Photosensitivity
 
@@ -565,9 +567,11 @@ Non-melanoma skin cancer: based on available data from epidemiological studies, 
 
 ## Reporting of suspected adverse reactions
 
-Reporting suspected adverse reactions after authorisation of the medicinal product is important. It allows continued monitoring of the benefit/risk balance of the medicinal product. Healthcare professionals are asked to report any suspected adverse reactions via the national reporting system listed in Appendix V.
+Reporting suspected adverse reactions after authorisation of the medicinal product is important. It allows continued monitoring of the benefit/risk balance of the medicinal product. Healthcare
 
 <div style=\"page-break-after: always\"></div>
+
+professionals are asked to report any suspected adverse reactions via the national reporting system listed in Appendix V.
 
 ## 4.9 Overdose
 
@@ -605,9 +609,11 @@ Pharmacotherapeutic group: Agents acting on the renin-angiotensin system, angiot
 
 ## Mechanism of action
 
-Exforge HCT combines three antihypertensive compounds with complementary mechanisms to control blood pressure in patients with essential hypertension: amlodipine belongs to the calcium antagonist class and valsartan to the angiotensin II antagonist class of medicines and hydrochlorothiazide belongs to the thiazide diuretics class of medicines. The combination of these substances has an additive antihypertensive effect.
+Exforge HCT combines three antihypertensive compounds with complementary mechanisms to control blood pressure in patients with essential hypertension: amlodipine belongs to the calcium antagonist class and valsartan to the angiotensin II antagonist class of medicines and
 
 <div style=\"page-break-after: always\"></div>
+
+hydrochlorothiazide belongs to the thiazide diuretics class of medicines. The combination of these substances has an additive antihypertensive effect.
 
 ## Amlodipine/Valsartan/Hydrochlorothiazide
 
@@ -635,9 +641,11 @@ Plasma concentrations correlate with effect in both young and elderly patients.
 
 In hypertensive patients with normal renal function, therapeutic doses of amlodipine resulted in a decrease in renal vascular resistance and increases in glomerular filtration rate and effective renal plasma flow, without change in filtration fraction or proteinuria.
 
+As with other calcium channel blockers, haemodynamic measurements of cardiac function at rest and during exercise (or pacing) in patients with normal ventricular function treated with amlodipine have
+
 <div style=\"page-break-after: always\"></div>
 
-As with other calcium channel blockers, haemodynamic measurements of cardiac function at rest and during exercise (or pacing) in patients with normal ventricular function treated with amlodipine have generally demonstrated a small increase in cardiac index without significant influence on dP/dt or on left ventricular end diastolic pressure or volume. In haemodynamic studies, amlodipine has not been associated with a negative inotropic effect when administered in the therapeutic dose range to intact animals and humans, even when co-administered with beta blockers to humans.
+generally demonstrated a small increase in cardiac index without significant influence on dP/dt or on left ventricular end diastolic pressure or volume. In haemodynamic studies, amlodipine has not been associated with a negative inotropic effect when administered in the therapeutic dose range to intact animals and humans, even when co-administered with beta blockers to humans.
 
 Amlodipine does not change sinoatrial nodal function or atrioventricular conduction in intact animals or humans. In clinical studies in which amlodipine was administered in combination with beta blockers to patients with either hypertension or angina, no adverse effects on electrocardiographic parameters were observed.
 
@@ -665,13 +673,15 @@ Administration of valsartan to patients with hypertension results in a drop in b
 
 In most patients, after administration of a single oral dose, onset of antihypertensive activity occurs within 2 hours, and the peak drop in blood pressure is achieved within 4-6 hours. The antihypertensive effect persists over 24 hours after administration. During repeated administration, the maximum reduction in blood pressure with any dose is generally attained within 2-4 weeks.
 
-<div style=\"page-break-after: always\"></div>
-
 ## Hydrochlorothiazide
 
 ## Mechanism of action
 
-The site of action of thiazide diuretics is primarily in the renal distal convoluted tubule. It has been shown that there is a high-affinity receptor in the renal cortex as the primary binding site for the thiazide diuretic action and inhibition of NaCl transport in the distal convoluted tubule. The mode of action of thiazides is through inhibition of the Na + Cl symporter perhaps by competing for the Cl -site, thereby affecting electrolyte reabsorption mechanisms: directly increasing sodium and chloride excretion to an approximately equal extent, and indirectly, by this diuretic action, reducing plasma volume, with consequent increases in plasma renin activity, aldosterone secretion and urinary potassium loss, and a decrease in serum potassium.
+The site of action of thiazide diuretics is primarily in the renal distal convoluted tubule. It has been shown that there is a high-affinity receptor in the renal cortex as the primary binding site for the
+
+<div style=\"page-break-after: always\"></div>
+
+thiazide diuretic action and inhibition of NaCl transport in the distal convoluted tubule. The mode of action of thiazides is through inhibition of the Na + Cl -symporter perhaps by competing for the Cl -site, thereby affecting electrolyte reabsorption mechanisms: directly increasing sodium and chloride excretion to an approximately equal extent, and indirectly, by this diuretic action, reducing plasma volume, with consequent increases in plasma renin activity, aldosterone secretion and urinary potassium loss, and a decrease in serum potassium.
 
 ## Non-melanoma skin cancer
 
@@ -691,9 +701,9 @@ These studies have shown no significant beneficial effect on renal and/or cardio
 
 ACE inhibitors and ARBs should therefore not be used concomitantly in patients with diabetic nephropathy (see section 4.4).
 
-<div style=\"page-break-after: always\"></div>
-
 ALTITUDE (Aliskiren Trial in Type 2 Diabetes Using Cardiovascular and Renal Disease Endpoints) was a study designed to test the benefit of adding aliskiren to a standard therapy of an ACE inhibitor or an ARB in patients with type 2 diabetes mellitus and chronic kidney disease, cardiovascular disease, or both. The study was terminated early because of an increased risk of adverse outcomes. Cardiovascular death and stroke were both numerically more frequent in the aliskiren group than in the placebo group and adverse events and serious adverse events of interest (hyperkalaemia, hypotension and renal dysfunction) were more frequently reported in the aliskiren group than in the placebo group.
+
+<div style=\"page-break-after: always\"></div>
 
 ## 5.2 Pharmacokinetic properties
 
@@ -733,15 +743,15 @@ Following oral administration of valsartan alone, peak plasma concentrations of 
 
 The steady-state volume of distribution of valsartan after intravenous administration is about 17 litres, indicating that valsartan does not distribute into tissues extensively. Valsartan is highly bound to serum proteins (94-97%), mainly serum albumin.
 
-<div style=\"page-break-after: always\"></div>
-
 ## Biotransformation
 
 Valsartan is not transformed to a high extent as only about 20% of dose is recovered as metabolites. A hydroxy metabolite has been identified in plasma at low concentrations (less than 10% of the valsartan AUC). This metabolite is pharmacologically inactive.
 
 ## Elimination
 
-Valsartan shows multiexponential decay kinetics (t½α &lt;1 h and t½ß about 9 h). Valsartan is primarily eliminated in faeces (about 83% of dose) and urine (about 13% of dose), mainly as unchanged drug. Following intravenous administration, plasma clearance of valsartan is about 2 l/h and its renal clearance is 0.62 l/h (about 30% of total clearance). The half-life of valsartan is 6 hours.
+Valsartan shows multiexponential decay kinetics (t ½α &lt;1 h and t½ß about 9 h). Valsartan is primarily eliminated in faeces (about 83% of dose) and urine (about 13% of dose), mainly as unchanged drug. Following intravenous administration, plasma clearance of valsartan is about 2 l/h and its renal clearance is 0.62 l/h (about 30% of total clearance). The half-life of valsartan is 6 hours.
+
+<div style=\"page-break-after: always\"></div>
 
 ## Hydrochlorothiazide
 
@@ -779,8 +789,6 @@ Limited data suggest that the systemic clearance of hydrochlorothiazide is reduc
 
 Since the three components are equally well tolerated in younger and elderly patients, normal dose regimens are recommended (see section 4.2).
 
-<div style=\"page-break-after: always\"></div>
-
 ## Renal impairment
 
 The pharmacokinetics of amlodipine are not significantly influenced by renal impairment. As expected for a compound where renal clearance accounts for only 30% of total plasma clearance, no correlation was seen between renal function and systemic exposure to valsartan.
@@ -788,6 +796,8 @@ The pharmacokinetics of amlodipine are not significantly influenced by renal imp
 Patients with mild to moderate renal impairment may therefore receive the usual initial dose (see sections 4.2 and 4.4).
 
 In the presence of renal impairment, mean peak plasma levels and AUC values of hydrochlorothiazide are increased and the urinary excretion rate is reduced. In patients with mild to moderate renal impairment, a 3-fold increase in hydrochlorothiazide AUC has been observed. In patients with severe renal impairment an 8-fold increase in AUC has been observed. Exforge HCT is contraindicated in patients with severe renal impairment, anuria or undergoing dialysis (see section 4.3).
+
+<div style=\"page-break-after: always\"></div>
 
 ## Hepatic impairment
 
@@ -813,8 +823,6 @@ Reproductive studies in rats and mice have shown delayed date of delivery, prolo
 
 There was no effect on the fertility of rats treated with amlodipine (males for 64 days and females 14 days prior to mating) at doses up to 10 mg/kg/day (8 times* the maximum recommended human dose of 10 mg on a mg/m 2 basis). In another rat study in which male rats were treated with amlodipine besilate for 30 days at a dose comparable with the human dose based on mg/kg, decreased plasma follicle-stimulating hormone and testosterone were found as well as decreases in sperm density and in the number of mature spermatids and Sertoli cells.
 
-<div style=\"page-break-after: always\"></div>
-
 ## Carcinogenesis, mutagenesis
 
 Rats and mice treated with amlodipine in the diet for two years, at concentrations calculated to provide daily dosage levels of 0.5, 1.25, and 2.5 mg/kg/day showed no evidence of carcinogenicity. The highest dose (for mice, similar to, and for rats twice* the maximum recommended clinical dose of 10 mg on a mg/m 2 basis) was close to the maximum tolerated dose for mice but not for rats.
@@ -822,6 +830,8 @@ Rats and mice treated with amlodipine in the diet for two years, at concentratio
 Mutagenicity studies revealed no drug related effects at either the gene or chromosome levels.
 
 * Based on patient weight of 50 kg
+
+<div style=\"page-break-after: always\"></div>
 
 ## Valsartan
 
@@ -845,13 +855,11 @@ Tablet core Cellulose microcrystalline Crospovidone (type A) Silica, colloidal a
 
 Coating Hypromellose, substitution type 2910 (3 mPa.s) Titanium dioxide (E171) Macrogol 4000 Talc
 
-<div style=\"page-break-after: always\"></div>
-
 ## Exforge HCT 10 mg/160 mg/12.5 mg film-coated tablets
 
-## Tablet core
+Tablet core Cellulose microcrystalline Crospovidone (type A) Silica, colloidal anhydrous Magnesium stearate
 
-Cellulose microcrystalline Crospovidone (type A) Silica, colloidal anhydrous Magnesium stearate
+<div style=\"page-break-after: always\"></div>
 
 ## Coating
 
@@ -863,9 +871,9 @@ Hypromellose, substitution type 2910 (3 mPa.s) Macrogol 4000 Talc Titanium dioxi
 
 Cellulose microcrystalline Crospovidone (type A) Silica, colloidal anhydrous Magnesium stearate
 
-Coating Hypromellose, substitution type 2910 (3 mPa.s)
+## Coating
 
-Macrogol 4000 Talc Titanium dioxide (E171) Iron oxide, yellow (E172)
+Hypromellose, substitution type 2910 (3 mPa.s) Macrogol 4000 Talc Titanium dioxide (E171) Iron oxide, yellow (E172)
 
 ## Exforge HCT 10 mg/160 mg/25 mg film-coated tablets
 
@@ -873,9 +881,9 @@ Macrogol 4000 Talc Titanium dioxide (E171) Iron oxide, yellow (E172)
 
 Cellulose microcrystalline Crospovidone (type A) Silica, colloidal anhydrous Magnesium stearate
 
-Coating Hypromellose, substitution type 2910 (3 mPa.s) Macrogol 4000 Talc Iron oxide, yellow (E172)
+## Coating
 
-<div style=\"page-break-after: always\"></div>
+Hypromellose, substitution type 2910 (3 mPa.s) Macrogol 4000 Talc Iron oxide, yellow (E172)
 
 ## Exforge HCT 10 mg/320 mg/25 mg film-coated tablets
 
@@ -883,13 +891,15 @@ Coating Hypromellose, substitution type 2910 (3 mPa.s) Macrogol 4000 Talc Iron o
 
 Cellulose microcrystalline Crospovidone (type A) Silica, colloidal anhydrous Magnesium stearate
 
-Coating
+## Coating
 
 Hypromellose, substitution type 2910 (3 mPa.s) Macrogol 4000 Talc Iron oxide, yellow (E172)
 
 ## 6.2 Incompatibilities
 
 Not applicable.
+
+<div style=\"page-break-after: always\"></div>
 
 ## 6.3 Shelf life
 
@@ -903,11 +913,11 @@ Store in the original package in order to protect from moisture.
 
 ## 6.5 Nature and contents of container
 
-PVC/PVDC blisters. One blister contains 7, 10 or 14 film-coated tablets. Pack sizes: 14, 28, 30, 56, 90, 98 or 280 film-coated tablets. Multipacks of 280 tablets, comprising 20 cartons, each containing 14 tablets.
+PVC/PVDC blisters. One blister contains 7, 10 or 14 film-coated tablets. Pack sizes: 14, 28, 30, 56, 90, 98 or 280 film-coated tablets.
 
-PVC/PVDC perforated unit dose blisters for hospital use: Pack sizes: 56, 98 or 280 film-coated tablets
+Multipacks of 280 tablets, comprising 20 cartons, each containing 14 tablets.
 
-Multipacks of 280 tablets, comprising 4 cartons, each containing 70 tablets.
+PVC/PVDC perforated unit dose blisters for hospital use: Pack sizes: 56, 98 or 280 film-coated tablets Multipacks of 280 tablets, comprising 4 cartons, each containing 70 tablets.
 
 Not all pack sizes may be marketed.
 
@@ -918,8 +928,6 @@ No special requirements.
 ## 7. MARKETING AUTHORISATION HOLDER
 
 Novartis Europharm Limited Vista Building Elm Park, Merrion Road Dublin 4 Ireland
-
-<div style=\"page-break-after: always\"></div>
 
 ## 8. MARKETING AUTHORISATION NUMBER(S)
 
@@ -942,6 +950,8 @@ EU/1/09/569/037-048
 Exforge HCT 10 mg/320 mg/25 mg film-coated tablets
 
 EU/1/09/569/049-060
+
+<div style=\"page-break-after: always\"></div>
 
 ## 9. DATE OF FIRST AUTHORISATION/RENEWAL OF THE AUTHORISATION
 
@@ -966,13 +976,11 @@ Detailed information on this medicinal product is available on the website of th
 
 ## A. MANUFACTURER(S) RESPONSIBLE FOR BATCH RELEASE
 
-Name and address of the manufacturer(s) responsible for batch release
+## Name and address of the manufacturer(s) responsible for batch release
 
 Novartis Farma S.p.A. Via Provinciale Schito 131 80058 Torre Annunziata (NA) Italy
 
 Novartis Farmacéutica S.A. Gran Via de les Corts Catalanes, 764 08013 Barcelona Spain
-
-Novartis Pharma GmbH Roonstrasse 25 D-90429 Nürnberg Germany
 
 Novartis Pharma GmbH Sophie-Germain-Strasse 10 90443 Nuremberg Germany
 
@@ -1035,9 +1043,7 @@ Each tablet contains 5 mg amlodipine (as amlodipine besylate), 160 mg valsartan 
 
 ## 5. METHOD AND ROUTE(S) OF ADMINISTRATION
 
-Read the package leaflet before use.
-
-Oral use
+Read the package leaflet before use. Oral use
 
 ## 6. SPECIAL WARNING THAT THE MEDICINAL PRODUCT MUST BE STORED OUT OF THE SIGHT AND REACH OF CHILDREN
 
@@ -1045,11 +1051,11 @@ Keep out of the sight and reach of children.
 
 ## 7. OTHER SPECIAL WARNING(S), IF NECESSARY
 
+<div style=\"page-break-after: always\"></div>
+
 ## 8. EXPIRY DATE
 
 EXP
-
-<div style=\"page-break-after: always\"></div>
 
 ## 9. SPECIAL STORAGE CONDITIONS
 
@@ -1057,11 +1063,19 @@ Do not store above 30°C.
 
 Store in the original package in order to protect from moisture.
 
-## 10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
+10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
-Novartis Europharm Limited Vista Building Elm Park, Merrion Road Dublin 4 Ireland
+Novartis Europharm Limited
+
+Vista Building
+
+Elm Park, Merrion Road
+
+Dublin 4
+
+Ireland
 
 ## 12. MARKETING AUTHORISATION NUMBER(S)
 
@@ -1122,8 +1136,8 @@ Medicinal product subject to medical prescription.
 
 Exforge HCT 5 mg/160 mg/12.5 mg
 
-| 17.   | UNIQUE IDENTIFIER - 2D BARCODE   |
-|-------|----------------------------------|
+| 17. UNIQUE IDENTIFIER - 2DBARCODE   |
+|-------------------------------------|
 
 2D barcode carrying the unique identifier included.
 
@@ -1178,19 +1192,11 @@ Store in the original package in order to protect from moisture.
 
 <div style=\"page-break-after: always\"></div>
 
-10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
+## 10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
-Novartis Europharm Limited
-
-Vista Building
-
-Elm Park, Merrion Road
-
-Dublin 4
-
-Ireland
+Novartis Europharm Limited Vista Building Elm Park, Merrion Road Dublin 4 Ireland
 
 ## 12. MARKETING AUTHORISATION NUMBER(S)
 
@@ -1236,7 +1242,7 @@ Each tablet contains 5 mg amlodipine (as amlodipine besylate), 160 mg valsartan 
 
 ## 4. PHARMACEUTICAL FORM AND CONTENTS
 
-## Film-coated tablet
+Film-coated tablet
 
 Multipack: 280 (20 packs of 14) film-coated tablets.
 
@@ -1270,15 +1276,7 @@ Store in the original package in order to protect from moisture.
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
-Novartis Europharm Limited
-
-Vista Building
-
-Elm Park, Merrion Road
-
-Dublin 4
-
-Ireland
+Novartis Europharm Limited Vista Building Elm Park, Merrion Road Dublin 4 Ireland
 
 ## 12. MARKETING AUTHORISATION NUMBER(S)
 
@@ -1373,9 +1371,7 @@ Each tablet contains 10 mg amlodipine (as amlodipine besylate), 160 mg valsartan
 
 ## 5. METHOD AND ROUTE(S) OF ADMINISTRATION
 
-Read the package leaflet before use.
-
-Oral use
+Read the package leaflet before use. Oral use
 
 ## 6. SPECIAL WARNING THAT THE MEDICINAL PRODUCT MUST BE STORED OUT OF THE SIGHT AND REACH OF CHILDREN
 
@@ -1383,11 +1379,11 @@ Keep out of the sight and reach of children.
 
 ## 7. OTHER SPECIAL WARNING(S), IF NECESSARY
 
+<div style=\"page-break-after: always\"></div>
+
 ## 8. EXPIRY DATE
 
 EXP
-
-<div style=\"page-break-after: always\"></div>
 
 ## 9. SPECIAL STORAGE CONDITIONS
 
@@ -1399,7 +1395,15 @@ Store in the original package in order to protect from moisture.
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
-Novartis Europharm Limited Vista Building Elm Park, Merrion Road Dublin 4 Ireland
+Novartis Europharm Limited
+
+Vista Building
+
+Elm Park, Merrion Road
+
+Dublin 4
+
+Ireland
 
 ## 12. MARKETING AUTHORISATION NUMBER(S)
 
@@ -1460,8 +1464,8 @@ Medicinal product subject to medical prescription.
 
 Exforge HCT 10 mg/160 mg/12.5 mg
 
-| 17.   | UNIQUE IDENTIFIER - 2D BARCODE   |
-|-------|----------------------------------|
+| 17. UNIQUE IDENTIFIER - 2DBARCODE   |
+|-------------------------------------|
 
 2D barcode carrying the unique identifier included.
 
@@ -1516,19 +1520,11 @@ Store in the original package in order to protect from moisture.
 
 <div style=\"page-break-after: always\"></div>
 
-10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
+## 10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
-Novartis Europharm Limited
-
-Vista Building
-
-Elm Park, Merrion Road
-
-Dublin 4
-
-Ireland
+Novartis Europharm Limited Vista Building Elm Park, Merrion Road Dublin 4 Ireland
 
 ## 12. MARKETING AUTHORISATION NUMBER(S)
 
@@ -1574,7 +1570,7 @@ Each tablet contains 10 mg amlodipine (as amlodipine besylate), 160 mg valsartan
 
 ## 4. PHARMACEUTICAL FORM AND CONTENTS
 
-## Film-coated tablet
+Film-coated tablet
 
 Multipack: 280 (20 packs of 14) film-coated tablets.
 
@@ -1608,15 +1604,7 @@ Store in the original package in order to protect from moisture.
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
-Novartis Europharm Limited
-
-Vista Building
-
-Elm Park, Merrion Road
-
-Dublin 4
-
-Ireland
+Novartis Europharm Limited Vista Building Elm Park, Merrion Road Dublin 4 Ireland
 
 ## 12. MARKETING AUTHORISATION NUMBER(S)
 
@@ -1654,6 +1642,14 @@ SN
 
 NN
 
+<div style=\"page-break-after: always\"></div>
+
+| 4.   | BATCHNUMBER   |
+|------|---------------|
+
+| 5.   | OTHER   |
+|------|---------|
+
 ## MINIMUM PARTICULARS TO APPEAR ON BLISTERS OR STRIPS
 
 BLISTERS
@@ -1675,8 +1671,6 @@ EXP
 Lot
 
 ## 5. OTHER
-
-<div style=\"page-break-after: always\"></div>
 
 <div style=\"page-break-after: always\"></div>
 
@@ -1711,9 +1705,7 @@ Each tablet contains 5 mg amlodipine (as amlodipine besylate), 160 mg valsartan 
 
 ## 5. METHOD AND ROUTE(S) OF ADMINISTRATION
 
-Read the package leaflet before use.
-
-Oral use
+Read the package leaflet before use. Oral use
 
 ## 6. SPECIAL WARNING THAT THE MEDICINAL PRODUCT MUST BE STORED OUT OF THE SIGHT AND REACH OF CHILDREN
 
@@ -1721,11 +1713,11 @@ Keep out of the sight and reach of children.
 
 ## 7. OTHER SPECIAL WARNING(S), IF NECESSARY
 
+<div style=\"page-break-after: always\"></div>
+
 ## 8. EXPIRY DATE
 
 EXP
-
-<div style=\"page-break-after: always\"></div>
 
 ## 9. SPECIAL STORAGE CONDITIONS
 
@@ -1737,7 +1729,15 @@ Store in the original package in order to protect from moisture.
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
-Novartis Europharm Limited Vista Building Elm Park, Merrion Road Dublin 4 Ireland
+Novartis Europharm Limited
+
+Vista Building
+
+Elm Park, Merrion Road
+
+Dublin 4
+
+Ireland
 
 ## 12. MARKETING AUTHORISATION NUMBER(S)
 
@@ -1798,8 +1798,8 @@ Medicinal product subject to medical prescription.
 
 Exforge HCT 5 mg/160 mg/25 mg
 
-| 17.   | UNIQUE IDENTIFIER - 2D BARCODE   |
-|-------|----------------------------------|
+| 17. UNIQUE IDENTIFIER - 2DBARCODE   |
+|-------------------------------------|
 
 2D barcode carrying the unique identifier included.
 
@@ -1904,7 +1904,7 @@ Each tablet contains 5 mg amlodipine (as amlodipine besylate), 160 mg valsartan 
 
 ## 4. PHARMACEUTICAL FORM AND CONTENTS
 
-## Film-coated tablet
+Film-coated tablet
 
 Multipack: 280 (20 packs of 14) film-coated tablets.
 
@@ -1938,15 +1938,7 @@ Store in the original package in order to protect from moisture.
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
-Novartis Europharm Limited
-
-Vista Building
-
-Elm Park, Merrion Road
-
-Dublin 4
-
-Ireland
+Novartis Europharm Limited Vista Building Elm Park, Merrion Road Dublin 4 Ireland
 
 ## 12. MARKETING AUTHORISATION NUMBER(S)
 
@@ -1984,8 +1976,6 @@ SN
 
 NN
 
-<div style=\"page-break-after: always\"></div>
-
 ## MINIMUM PARTICULARS TO APPEAR ON BLISTERS OR STRIPS
 
 BLISTERS
@@ -2007,6 +1997,8 @@ EXP
 Lot
 
 ## 5. OTHER
+
+<div style=\"page-break-after: always\"></div>
 
 <div style=\"page-break-after: always\"></div>
 
@@ -2041,9 +2033,7 @@ Each tablet contains 10 mg amlodipine (as amlodipine besylate), 160 mg valsartan
 
 ## 5. METHOD AND ROUTE(S) OF ADMINISTRATION
 
-Read the package leaflet before use.
-
-Oral use
+Read the package leaflet before use. Oral use
 
 ## 6. SPECIAL WARNING THAT THE MEDICINAL PRODUCT MUST BE STORED OUT OF THE SIGHT AND REACH OF CHILDREN
 
@@ -2051,11 +2041,11 @@ Keep out of the sight and reach of children.
 
 ## 7. OTHER SPECIAL WARNING(S), IF NECESSARY
 
+<div style=\"page-break-after: always\"></div>
+
 ## 8. EXPIRY DATE
 
 EXP
-
-<div style=\"page-break-after: always\"></div>
 
 ## 9. SPECIAL STORAGE CONDITIONS
 
@@ -2063,11 +2053,19 @@ Do not store above 30°C.
 
 Store in the original package in order to protect from moisture.
 
-## 10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
+10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
-Novartis Europharm Limited Vista Building Elm Park, Merrion Road Dublin 4 Ireland
+Novartis Europharm Limited
+
+Vista Building
+
+Elm Park, Merrion Road
+
+Dublin 4
+
+Ireland
 
 ## 12. MARKETING AUTHORISATION NUMBER(S)
 
@@ -2128,8 +2126,8 @@ Medicinal product subject to medical prescription.
 
 Exforge HCT 10 mg/160 mg/25 mg
 
-| 17.   | UNIQUE IDENTIFIER - 2D BARCODE   |
-|-------|----------------------------------|
+| 17. UNIQUE IDENTIFIER - 2DBARCODE   |
+|-------------------------------------|
 
 2D barcode carrying the unique identifier included.
 
@@ -2184,19 +2182,11 @@ Store in the original package in order to protect from moisture.
 
 <div style=\"page-break-after: always\"></div>
 
-10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
+## 10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
-Novartis Europharm Limited
-
-Vista Building
-
-Elm Park, Merrion Road
-
-Dublin 4
-
-Ireland
+Novartis Europharm Limited Vista Building Elm Park, Merrion Road Dublin 4 Ireland
 
 ## 12. MARKETING AUTHORISATION NUMBER(S)
 
@@ -2242,7 +2232,7 @@ Each tablet contains 10 mg amlodipine (as amlodipine besylate), 160 mg valsartan
 
 ## 4. PHARMACEUTICAL FORM AND CONTENTS
 
-## Film-coated tablet
+Film-coated tablet
 
 Multipack: 280 (20 packs of 14) film-coated tablets.
 
@@ -2276,15 +2266,7 @@ Store in the original package in order to protect from moisture.
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
-Novartis Europharm Limited
-
-Vista Building
-
-Elm Park, Merrion Road
-
-Dublin 4
-
-Ireland
+Novartis Europharm Limited Vista Building Elm Park, Merrion Road Dublin 4 Ireland
 
 ## 12. MARKETING AUTHORISATION NUMBER(S)
 
@@ -2332,7 +2314,8 @@ BLISTERS
 
 Exforge HCT 10 mg/160 mg/25 mg film-coated tablets amlodipine/valsartan/hydrochlorothiazide
 
-## 2. NAME OF THE MARKETING AUTHORISATION HOLDER
+| 2.   | NAME OFTHEMARKETING AUTHORISATION HOLDER   |
+|------|--------------------------------------------|
 
 Novartis Europharm Limited
 
@@ -2340,11 +2323,13 @@ Novartis Europharm Limited
 
 EXP
 
-## 4. BATCH NUMBER
+| 4.   | BATCHNUMBER   |
+|------|---------------|
 
 Lot
 
-## 5. OTHER
+| 5.   | OTHER   |
+|------|---------|
 
 <div style=\"page-break-after: always\"></div>
 
@@ -2379,9 +2364,7 @@ Each tablet contains 10 mg amlodipine (as amlodipine besylate), 320 mg valsartan
 
 ## 5. METHOD AND ROUTE(S) OF ADMINISTRATION
 
-Read the package leaflet before use.
-
-Oral use
+Read the package leaflet before use. Oral use
 
 ## 6. SPECIAL WARNING THAT THE MEDICINAL PRODUCT MUST BE STORED OUT OF THE SIGHT AND REACH OF CHILDREN
 
@@ -2389,11 +2372,11 @@ Keep out of the sight and reach of children.
 
 ## 7. OTHER SPECIAL WARNING(S), IF NECESSARY
 
+<div style=\"page-break-after: always\"></div>
+
 ## 8. EXPIRY DATE
 
 EXP
-
-<div style=\"page-break-after: always\"></div>
 
 ## 9. SPECIAL STORAGE CONDITIONS
 
@@ -2401,11 +2384,19 @@ Do not store above 30°C.
 
 Store in the original package in order to protect from moisture.
 
-## 10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
+10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
-Novartis Europharm Limited Vista Building Elm Park, Merrion Road Dublin 4 Ireland
+Novartis Europharm Limited
+
+Vista Building
+
+Elm Park, Merrion Road
+
+Dublin 4
+
+Ireland
 
 ## 12. MARKETING AUTHORISATION NUMBER(S)
 
@@ -2466,8 +2457,8 @@ Medicinal product subject to medical prescription.
 
 Exforge HCT 10 mg/320 mg/25 mg
 
-| 17.   | UNIQUE IDENTIFIER - 2D BARCODE   |
-|-------|----------------------------------|
+| 17. UNIQUE IDENTIFIER - 2DBARCODE   |
+|-------------------------------------|
 
 2D barcode carrying the unique identifier included.
 
@@ -2522,19 +2513,11 @@ Store in the original package in order to protect from moisture.
 
 <div style=\"page-break-after: always\"></div>
 
-10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
+## 10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
-Novartis Europharm Limited
-
-Vista Building
-
-Elm Park, Merrion Road
-
-Dublin 4
-
-Ireland
+Novartis Europharm Limited Vista Building Elm Park, Merrion Road Dublin 4 Ireland
 
 ## 12. MARKETING AUTHORISATION NUMBER(S)
 
@@ -2580,7 +2563,7 @@ Each tablet contains 10 mg amlodipine (as amlodipine besylate), 320 mg valsartan
 
 ## 4. PHARMACEUTICAL FORM AND CONTENTS
 
-## Film-coated tablet
+Film-coated tablet
 
 Multipack: 280 (20 packs of 14) film-coated tablets.
 
@@ -2614,15 +2597,7 @@ Store in the original package in order to protect from moisture.
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
-Novartis Europharm Limited
-
-Vista Building
-
-Elm Park, Merrion Road
-
-Dublin 4
-
-Ireland
+Novartis Europharm Limited Vista Building Elm Park, Merrion Road Dublin 4 Ireland
 
 ## 12. MARKETING AUTHORISATION NUMBER(S)
 
@@ -2662,25 +2637,27 @@ NN
 
 <div style=\"page-break-after: always\"></div>
 
-## MINIMUM PARTICULARS TO APPEAR ON BLISTERS OR STRIPS
+| MINIMUM PARTICULARSTO APPEARON BLISTERS ORSTRIPS   |
+|----------------------------------------------------|
+| BLISTERS                                           |
 
-BLISTERS
-
-## 1. NAME OF THE MEDICINAL PRODUCT
+| 1.   | NAME OFTHEMEDICINAL PRODUCT   |
+|------|-------------------------------|
 
 Exforge HCT 10 mg/320 mg/25 mg film-coated tablets amlodipine/valsartan/hydrochlorothiazide
 
-| 2.   | NAME OF THE MARKETING AUTHORISATION HOLDER   |
-|------|----------------------------------------------|
+| 2.   | NAME OFTHEMARKETING AUTHORISATION HOLDER   |
+|------|--------------------------------------------|
 
 Novartis Europharm Limited
 
-## 3. EXPIRY DATE
+| 3.   | EXPIRY DATE   |
+|------|---------------|
 
 EXP
 
-| 4.   | BATCH NUMBER   |
-|------|----------------|
+| 4.   | BATCHNUMBER   |
+|------|---------------|
 
 Lot
 
@@ -2725,14 +2702,15 @@ As a result of all three mechanisms, the blood vessels relax and blood pressure 
 
 Exforge HCT is used to treat high blood pressure in adult patients whose blood pressure is already controlled while taking amlodipine, valsartan and hydrochlorothiazide and who may benefit from taking one tablet containing all three substances.
 
-<div style=\"page-break-after: always\"></div>
-
 ## 2. What you need to know before you take Exforge HCT
 
 ## Do not take Exforge HCT
 
 - -if you are more than 3 months pregnant. (It is also recommended to avoid Exforge HCT in early pregnancy - see Pregnancy section.)
 - -if you are allergic to amlodipine or to any other calcium channel blockers, valsartan, hydrochlorothiazide, sulphonamide-derived medicines (medicines used to treat chest or urinary infections), or any of the other ingredients of this medicine (listed in section 6). If you think you may be allergic, do not take Exforge HCT and talk to your doctor.
+
+<div style=\"page-break-after: always\"></div>
+
 - -if you have liver disease, destruction of the small bile ducts within the liver (biliary cirrhosis) leading to the build up of bile in the liver (cholestasis).
 - -if you have severe kidney problems or if you are having dialysis.
 - -if you are unable to produce urine (anuria).
@@ -2763,14 +2741,14 @@ Talk to your doctor or pharmacist before taking Exforge HCT
 - -if you have diabetes (high level of sugar in your blood).
 - -if you have high levels of cholesterol or triglycerides in your blood.
 - -if you experience skin reactions such as rash after sun exposure.
-
-<div style=\"page-break-after: always\"></div>
-
 - -if you had an allergic reaction to other high blood pressure medicines or diuretics (a type of medicine also known as 'water tablets'), especially if you suffer from asthma and allergies
 - -if you have been sick (vomiting or diarrhoea).
 - -if you have experienced swelling, particularly of the face and throat, while taking other medicines (including angiotensin converting enzyme inhibitors). If you get these symptoms, stop taking Exforge HCT and contact your doctor straight away. You should never take Exforge HCT again.
 - -if you experience abdominal pain, nausea, vomiting or diarrhoea after taking Exforge HCT. Your doctor will decide on further treatment. Do not stop taking Exforge HCT on your own.
 - -if you experience dizziness and/or fainting during treatment with Exforge HCT, tell your doctor as soon as possible.
+
+<div style=\"page-break-after: always\"></div>
+
 - -if you experience a decrease in vision or eye pain. These could be symptoms of fluid accumulation in the vascular layer of the eye (choroidal effusion) or an increase of pressure in your eye and can happen within hours to a week of taking Exforge HCT. This can lead to permanent vision impairment, if not treated.
 - -if you are taking any of the following medicines used to treat high blood pressure:
 - -an ACE inhibitor (for example enalapril, lisinopril, ramipril), in particular if you have diabetes-related kidney problems.
@@ -2802,14 +2780,15 @@ Tell your doctor or pharmacist if you are taking, have recently taken or might t
 - medicines or substances that increase the amount of potassium in your blood. These include potassium supplements or salt substitutes containing potassium, potassium-sparing medicines and heparin;
 - ACE inhibitors or aliskiren (see also information under the headings 'Do not take Exforge HCT' and 'Warnings and precautions').
 
-<div style=\"page-break-after: always\"></div>
-
-Caution should be used with:
+## Caution should be used with:
 
 - alcohol, sleeping pills and anaesthetics (medicines allowing patients to undergo surgery and other procedures);
 - amantadine (anti-Parkinson therapy, also used to treat or prevent certain illnesses caused by viruses);
 - anticholinergic agents (medicines used to treat a variety of disorders such as gastrointestinal cramps, urinary bladder spasm, asthma, motion sickness, muscular spasms, Parkinson's disease and as an aid to anaesthesia);
 - anticonvulsant medicines and mood-stabilising medicines used to treat epilepsy and bipolar disorder (e.g. carbamazepine, phenobarbital, phenytoin, fosphenytoin, primidone);
+
+<div style=\"page-break-after: always\"></div>
+
 - cholestyramine, colestipol or other resins (substances used mainly to treat high levels of lipids in the blood);
 - simvastatin (a medicine used to control high cholesterol levels);
 - ciclosporin (a medicine used in transplantation to prevent organ rejection or for other conditions, e.g: rheumatoid arthritis or atopic dermatitis);
@@ -2841,8 +2820,6 @@ Caution should be used with:
 
 Grapefruit and grapefruit juice should not be consumed by people who are prescribed Exforge HCT. This is because grapefruit and grapefruit juice can lead to an increase in the blood levels of the active substance amlodipine, which can cause an unpredictable increase in the blood pressure lowering effect of Exforge HCT. Talk to your doctor before drinking alcohol. Alcohol may make your blood pressure fall too much and/or increase the possibility of dizziness or fainting.
 
-<div style=\"page-break-after: always\"></div>
-
 ## Pregnancy and breast-feeding
 
 ## Pregnancy
@@ -2854,6 +2831,8 @@ You must tell your doctor if you think you are (or might become) pregnant. Your 
 Tell your doctor if you are breast-feeding or about to start breast-feeding. Amlodipine has been shown to pass into breast milk in small amounts. Exforge HCT is not recommended for mothers who are breast-feeding, and your doctor may choose another treatment for you if you wish to breast-feed, especially if your baby is a newborn, or was born prematurely.
 
 Ask your doctor or pharmacist for advice before taking any medicine.
+
+<div style=\"page-break-after: always\"></div>
 
 ## Driving and using machines
 
@@ -2885,8 +2864,6 @@ If you forget to take a dose of this medicine, take it as soon as you remember a
 
 Stopping your treatment with Exforge HCT may cause your disease to get worse. Do not stop taking your medicine unless your doctor tells you to.
 
-<div style=\"page-break-after: always\"></div>
-
 ## Always take this medicine, even if you are feeling well
 
 People who have high blood pressure often do not notice any signs of the problem. Many feel normal. It is very important that you take this medicine exactly as your doctor tells you to get the best results and reduce the risk of side effects. Keep your appointments with the doctor even if you are feeling well.
@@ -2899,16 +2876,18 @@ Like all medicines, this medicine can cause side effects, although not everybody
 
 As for any combination containing three active substances, side effects associated with each individual component cannot be excluded. The side effects reported with Exforge HCT or one of its three active substances (amlodipine, valsartan and hydrochlorothiazide) are listed below and may occur with the use of Exforge HCT.
 
-## Consult a doctor immediately if you experience any of the following serious side effects after
+<div style=\"page-break-after: always\"></div>
 
-## Some side effects can be serious and need immediate medical attention. taking this medicine:
+## Some side effects can be serious and need immediate medical attention.
+
+## Consult a doctor immediately if you experience any of the following serious side effects after taking this medicine:
 
 Common (may affect up to 1 in 10 people):
 
 - dizziness
 - low blood pressure (feeling of faintness, light-headedness, sudden loss of consciousness)
 
-Uncommon (may affect up to 1 in 100 people):
+## Uncommon (may affect up to 1 in 100 people):
 
 - severely decreased urine output (decreased kidney function)
 
@@ -2918,7 +2897,7 @@ Rare (may affect up to 1 in 1,000 people):
 - irregular heart beat
 - liver disorder
 
-Very rare (may affect up to 1 in 10,000 people):
+## Very rare (may affect up to 1 in 10,000 people):
 
 - sudden wheeziness, chest pain, shortness of breath or difficulty breathing
 - swelling of eyelids, face or lips
@@ -2930,8 +2909,6 @@ Very rare (may affect up to 1 in 10,000 people):
 - inflamed pancreas, which may cause severe abdominal and back pain accompanied with feeling of being very unwell
 - weakness, bruising, fever and frequent infections
 - stiffness
-
-<div style=\"page-break-after: always\"></div>
 
 ## Other side effects may include:
 
@@ -2960,7 +2937,9 @@ Very common (may affect more than 1 in 10 people):
 - itchy rash and other types of rash
 - inability to achieve or maintain erection
 
-## Uncommon (may affect up to 1 in 100 people):
+<div style=\"page-break-after: always\"></div>
+
+Uncommon (may affect up to 1 in 100 people):
 
 - fast heart beat
 - spinning sensation
@@ -2990,9 +2969,6 @@ Very common (may affect more than 1 in 10 people):
 - neuropathy
 - sudden, temporary loss of consciousness
 - low blood pressure on standing up
-
-<div style=\"page-break-after: always\"></div>
-
 - cough
 - breathlessness
 - throat irritation
@@ -3018,6 +2994,9 @@ Very common (may affect more than 1 in 10 people):
 - itchy skin
 - skin discolouration
 - disorder in passing urine
+
+<div style=\"page-break-after: always\"></div>
+
 - increased need to urinate at night
 - increased number of times of passing urine
 - discomfort or enlargement of the breasts in men
@@ -3047,9 +3026,6 @@ Very common (may affect more than 1 in 10 people):
 - abdominal bloating (gastritis)
 - inflammation of the liver (hepatitis)
 - yellowing of the skin (jaundice)
-
-<div style=\"page-break-after: always\"></div>
-
 - liver enzyme increase which may have an effect on some medical tests
 - increased muscle tension
 - inflammation of blood vessels often with skin rash
@@ -3071,6 +3047,9 @@ Very common (may affect more than 1 in 10 people):
 - low level of a certain type of white blood cell and blood platelet
 - increase of creatinine in the blood
 - abnormal liver function test
+
+<div style=\"page-break-after: always\"></div>
+
 - severely decreased urine output
 - inflammation of blood vessels
 - weakness, bruising and frequent infections (aplastic anaemia)
@@ -3086,8 +3065,6 @@ Very common (may affect more than 1 in 10 people):
 ## Reporting of side effects
 
 If you get any side effects, talk to your doctor or pharmacist. This includes any possible side effects not listed in this leaflet. You can also report side effects directly via the national reporting system listed in Appendix V. By reporting side effects you can help provide more information on the safety of this medicine.
-
-<div style=\"page-break-after: always\"></div>
 
 ## 5. How to store Exforge HCT
 
@@ -3117,6 +3094,8 @@ The other ingredients are cellulose microcrystalline; crospovidone (type A); sil
 
 The active substances of Exforge HCT are amlodipine (as amlodipine besylate), valsartan and hydrochlorothiazide. Each film-coated tablet contains 10 mg amlodipine (as amlodipine besylate),160 mg valsartan, and 12.5 mg hydrochlorothiazide.
 
+<div style=\"page-break-after: always\"></div>
+
 The other ingredients are cellulose microcrystalline; crospovidone (type A); silica, colloidal anhydrous; magnesium stearate; hypromellose (substitution type 2910 (3 mPa.s)), macrogol 4000, talc, titanium dioxide (E171), yellow iron oxide (E172), red iron oxide (E172).
 
 ## Exforge HCT 5 mg/160 mg/25 mg film-coated tablets
@@ -3130,8 +3109,6 @@ The other ingredients are cellulose microcrystalline; crospovidone (type A); sil
 The active substances of Exforge HCT are amlodipine (as amlodipine besylate), valsartan and hydrochlorothiazide. Each film-coated tablet contains 10 mg amlodipine (as amlodipine besylate), 160 mg valsartan, and 25 mg hydrochlorothiazide.
 
 The other ingredients are cellulose microcrystalline; crospovidone (type A); silica, colloidal anhydrous, magnesium stearate, hypromellose (substitution type 2910 (3 mPa.s)), macrogol 4000, talc, yellow iron oxide (E172).
-
-<div style=\"page-break-after: always\"></div>
 
 ## Exforge HCT 10 mg/320 mg/25 mg film-coated tablets
 
@@ -3155,6 +3132,8 @@ Exforge HCT is available in packs containing 14, 28, 30, 56, 90, 98 or 280 film-
 
 Not all pack sizes may be available in your country.
 
+<div style=\"page-break-after: always\"></div>
+
 ## Marketing Authorisation Holder
 
 Novartis Europharm Limited Vista Building Elm Park, Merrion Road Dublin 4 Ireland
@@ -3163,11 +3142,7 @@ Novartis Europharm Limited Vista Building Elm Park, Merrion Road Dublin 4 Irelan
 
 Novartis Farma S.p.A. Via Provinciale Schito 131 80058 Torre Annunziata (NA) Italy
 
-<div style=\"page-break-after: always\"></div>
-
 Novartis Farmacéutica S.A. Gran Via de les Corts Catalanes, 764 08013 Barcelona Spain
-
-Novartis Pharma GmbH Roonstraße 25 D-90429 Nuremberg Germany
 
 Novartis Pharma GmbH Sophie-Germain-Strasse 10 90443 Nuremberg Germany
 
@@ -3183,9 +3158,7 @@ SIA Novartis Baltics Lietuvos filialas Tel: +370 5 269 16 50
 
 ## България
 
-Novartis Bulgaria EOOD
-
-Тел.: +359 2 489 98 28
+Novartis Bulgaria EOOD Тел .: +359 2 489 98 28
 
 ## Luxembourg/Luxemburg
 
@@ -3201,11 +3174,15 @@ Novartis Hungária Kft. Tel.: +36 1 457 65 00
 
 ## Danmark
 
-Novartis Healthcare A/S Tlf: +45 39 16 84 00
+Novartis Healthcare A/S
+
+Tlf: +45 39 16 84 00
 
 ## Malta
 
-Novartis Pharma Services Inc. Tel: +356 2122 2872
+Novartis Pharma Services Inc.
+
+Tel: +356 2122 2872
 
 ## Deutschland
 
@@ -3225,19 +3202,27 @@ Novartis Norge AS Tlf: +47 23 05 20 00
 
 ## Ελλάδα
 
-Novartis (Hellas) A.E.B.E. Τηλ: +30 210 281 17 12
+Novartis (Hellas) A.E.B.E.
+
+Τηλ : +30 210 281 17 12
 
 ## Österreich
 
-Novartis Pharma GmbH Tel: +43 1 86 6570
+Novartis Pharma GmbH
+
+Tel: +43 1 86 6570
 
 ## España
 
-Novartis Farmacéutica, S.A. Tel: +34 93 306 42 00
+Novartis Farmacéutica, S.A.
+
+Tel: +34 93 306 42 00
 
 ## Polska
 
-Novartis Poland Sp. z o.o. Tel.: +48 22 375 4888
+Novartis Poland Sp. z o.o.
+
+Tel.: +48 22 375 4888
 
 ## France
 
@@ -3247,9 +3232,9 @@ Tél: +33 1 55 47 66 00
 
 ## Portugal
 
-Novartis Farma - Produtos Farmacêuticos, S.A. Tel: +351 21 000 8600
+Novartis Farma - Produtos Farmacêuticos, S.A.
 
-<div style=\"page-break-after: always\"></div>
+Tel: +351 21 000 8600
 
 ## Hrvatska
 
@@ -3257,31 +3242,17 @@ Novartis Hrvatska d.o.o.
 
 Tel. +385 1 6274 220
 
-## Ireland
-
-Novartis Ireland Limited
-
-Tel: +353 1 260 12 55
-
-## Ísland
-
-Vistor hf.
-
-Sími: +354 535 7000
-
-## Italia
-
-Novartis Farma S.p.A.
-
-Tel: +39 02 96 54 1
-
-## Κύπρος
-
 ## România
 
 Novartis Pharma Services Romania SRL
 
 Tel: +40 21 31299 01
+
+## Ireland
+
+Novartis Ireland Limited
+
+Tel: +353 1 260 12 55
 
 ## Slovenija
 
@@ -3289,11 +3260,23 @@ Novartis Pharma Services Inc.
 
 Tel: +386 1 300 75 50
 
+## Ísland
+
+Vistor hf.
+
+Sími: +354 535 7000
+
 ## Slovenská republika
 
 Novartis Slovakia s.r.o.
 
 Tel: +421 2 5542 5439
+
+## Italia
+
+Novartis Farma S.p.A.
+
+Tel: +39 02 96 54 1
 
 ## Suomi/Finland
 
@@ -3301,11 +3284,13 @@ Novartis Finland Oy
 
 Puh/Tel: +358 (0)10 6133 200
 
-## Sverige
+## Κύπρος
 
 Novartis Pharma Services Inc.
 
 Τηλ: +357 22 690 690
+
+## Sverige
 
 Novartis Sverige AB
 
@@ -3314,6 +3299,8 @@ Tel: +46 8 732 32 00
 ## Latvija
 
 SIA Novartis Baltics
+
+<div style=\"page-break-after: always\"></div>
 
 Tel: +371 67 887 070
 

@@ -1,16 +1,16 @@
 ---
-document_datetime: 2026-02-06 14:15:00
+document_datetime: 2026-02-12 15:35:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/retsevmo.html
 document_name: retsevmo.html
 version: success
-processing_time: 0.2687199
-conversion_datetime: 2026-02-09 22:14:21.111736
+processing_time: 0.1184508
+conversion_datetime: 2026-02-13 18:41:38.669785
 docling_version:
   docling-serve: 1.12.0
-  docling-jobkit: 1.10.1
-  docling: 2.72.0
-  docling-core: 2.63.0
+  docling-jobkit: 1.10.2
+  docling: 2.73.1
+  docling-core: 2.65.1
   docling-ibm-models: 3.11.0
   docling-parse: 4.7.3
   python: cpython-313 (3.13.11)
@@ -213,7 +213,7 @@ English (EN) (152.05 KB - PDF)
 
 [View](/en/documents/overview/retsevmo-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-215)
+[Other languages (22)](#file-language-dropdown-290)
 
 български (BG) (178.17 KB - PDF)
 
@@ -493,17 +493,17 @@ English (EN) (2.9 MB - PDF)
 
 Retsevmo : EPAR - Product information
 
-English (EN) (1.03 MB - PDF)
+English (EN) (1.04 MB - PDF)
 
 **First published:** 23/04/2021
 
-**Last updated:** 06/02/2026
+**Last updated:** 12/02/2026
 
 [View](/en/documents/product-information/retsevmo-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-815)
+[Other languages (24)](#file-language-dropdown-984)
 
-български (BG) (1.27 MB - PDF)
+български (BG) (1.3 MB - PDF)
 
 **First published:**
 
@@ -511,7 +511,7 @@ English (EN) (1.03 MB - PDF)
 
 **Last updated:**
 
-06/02/2026
+12/02/2026
 
 [View](/bg/documents/product-information/retsevmo-epar-product-information_bg.pdf)
 
@@ -523,11 +523,11 @@ español (ES) (1.16 MB - PDF)
 
 **Last updated:**
 
-06/02/2026
+12/02/2026
 
 [View](/es/documents/product-information/retsevmo-epar-product-information_es.pdf)
 
-čeština (CS) (1.33 MB - PDF)
+čeština (CS) (1.34 MB - PDF)
 
 **First published:**
 
@@ -535,11 +535,11 @@ español (ES) (1.16 MB - PDF)
 
 **Last updated:**
 
-06/02/2026
+12/02/2026
 
 [View](/cs/documents/product-information/retsevmo-epar-product-information_cs.pdf)
 
-dansk (DA) (1.2 MB - PDF)
+dansk (DA) (1.22 MB - PDF)
 
 **First published:**
 
@@ -547,11 +547,11 @@ dansk (DA) (1.2 MB - PDF)
 
 **Last updated:**
 
-06/02/2026
+12/02/2026
 
 [View](/da/documents/product-information/retsevmo-epar-product-information_da.pdf)
 
-Deutsch (DE) (1.23 MB - PDF)
+Deutsch (DE) (1.21 MB - PDF)
 
 **First published:**
 
@@ -559,11 +559,11 @@ Deutsch (DE) (1.23 MB - PDF)
 
 **Last updated:**
 
-06/02/2026
+12/02/2026
 
 [View](/de/documents/product-information/retsevmo-epar-product-information_de.pdf)
 
-eesti keel (ET) (1.08 MB - PDF)
+eesti keel (ET) (1.1 MB - PDF)
 
 **First published:**
 
@@ -571,11 +571,11 @@ eesti keel (ET) (1.08 MB - PDF)
 
 **Last updated:**
 
-06/02/2026
+12/02/2026
 
 [View](/et/documents/product-information/retsevmo-epar-product-information_et.pdf)
 
-ελληνικά (EL) (1.64 MB - PDF)
+ελληνικά (EL) (1.69 MB - PDF)
 
 **First published:**
 
@@ -583,11 +583,11 @@ eesti keel (ET) (1.08 MB - PDF)
 
 **Last updated:**
 
-06/02/2026
+12/02/2026
 
 [View](/el/documents/product-information/retsevmo-epar-product-information_el.pdf)
 
-français (FR) (1.28 MB - PDF)
+français (FR) (1.31 MB - PDF)
 
 **First published:**
 
@@ -595,11 +595,11 @@ français (FR) (1.28 MB - PDF)
 
 **Last updated:**
 
-06/02/2026
+12/02/2026
 
 [View](/fr/documents/product-information/retsevmo-epar-product-information_fr.pdf)
 
-hrvatski (HR) (1.32 MB - PDF)
+hrvatski (HR) (1.35 MB - PDF)
 
 **First published:**
 
@@ -607,11 +607,11 @@ hrvatski (HR) (1.32 MB - PDF)
 
 **Last updated:**
 
-06/02/2026
+12/02/2026
 
 [View](/hr/documents/product-information/retsevmo-epar-product-information_hr.pdf)
 
-íslenska (IS) (1.15 MB - PDF)
+íslenska (IS) (1.12 MB - PDF)
 
 **First published:**
 
@@ -619,11 +619,11 @@ hrvatski (HR) (1.32 MB - PDF)
 
 **Last updated:**
 
-06/02/2026
+12/02/2026
 
 [View](/is/documents/product-information/retsevmo-epar-product-information_is.pdf)
 
-italiano (IT) (1.28 MB - PDF)
+italiano (IT) (1.26 MB - PDF)
 
 **First published:**
 
@@ -631,11 +631,11 @@ italiano (IT) (1.28 MB - PDF)
 
 **Last updated:**
 
-06/02/2026
+12/02/2026
 
 [View](/it/documents/product-information/retsevmo-epar-product-information_it.pdf)
 
-latviešu valoda (LV) (1.25 MB - PDF)
+latviešu valoda (LV) (1.27 MB - PDF)
 
 **First published:**
 
@@ -643,11 +643,11 @@ latviešu valoda (LV) (1.25 MB - PDF)
 
 **Last updated:**
 
-06/02/2026
+12/02/2026
 
 [View](/lv/documents/product-information/retsevmo-epar-product-information_lv.pdf)
 
-lietuvių kalba (LT) (1.28 MB - PDF)
+lietuvių kalba (LT) (1.29 MB - PDF)
 
 **First published:**
 
@@ -655,11 +655,11 @@ lietuvių kalba (LT) (1.28 MB - PDF)
 
 **Last updated:**
 
-06/02/2026
+12/02/2026
 
 [View](/lt/documents/product-information/retsevmo-epar-product-information_lt.pdf)
 
-magyar (HU) (1.22 MB - PDF)
+magyar (HU) (1.25 MB - PDF)
 
 **First published:**
 
@@ -667,11 +667,11 @@ magyar (HU) (1.22 MB - PDF)
 
 **Last updated:**
 
-06/02/2026
+12/02/2026
 
 [View](/hu/documents/product-information/retsevmo-epar-product-information_hu.pdf)
 
-Malti (MT) (1.45 MB - PDF)
+Malti (MT) (1.46 MB - PDF)
 
 **First published:**
 
@@ -679,11 +679,11 @@ Malti (MT) (1.45 MB - PDF)
 
 **Last updated:**
 
-06/02/2026
+12/02/2026
 
 [View](/mt/documents/product-information/retsevmo-epar-product-information_mt.pdf)
 
-Nederlands (NL) (1.16 MB - PDF)
+Nederlands (NL) (1.15 MB - PDF)
 
 **First published:**
 
@@ -691,11 +691,11 @@ Nederlands (NL) (1.16 MB - PDF)
 
 **Last updated:**
 
-06/02/2026
+12/02/2026
 
 [View](/nl/documents/product-information/retsevmo-epar-product-information_nl.pdf)
 
-norsk (NO) (1.22 MB - PDF)
+norsk (NO) (1.06 MB - PDF)
 
 **First published:**
 
@@ -703,11 +703,11 @@ norsk (NO) (1.22 MB - PDF)
 
 **Last updated:**
 
-06/02/2026
+12/02/2026
 
 [View](/no/documents/product-information/retsevmo-epar-product-information_no.pdf)
 
-polski (PL) (1.33 MB - PDF)
+polski (PL) (1.68 MB - PDF)
 
 **First published:**
 
@@ -715,11 +715,11 @@ polski (PL) (1.33 MB - PDF)
 
 **Last updated:**
 
-06/02/2026
+12/02/2026
 
 [View](/pl/documents/product-information/retsevmo-epar-product-information_pl.pdf)
 
-português (PT) (1.15 MB - PDF)
+português (PT) (1.19 MB - PDF)
 
 **First published:**
 
@@ -727,11 +727,11 @@ português (PT) (1.15 MB - PDF)
 
 **Last updated:**
 
-06/02/2026
+12/02/2026
 
 [View](/pt/documents/product-information/retsevmo-epar-product-information_pt.pdf)
 
-română (RO) (1.37 MB - PDF)
+română (RO) (1.63 MB - PDF)
 
 **First published:**
 
@@ -739,11 +739,11 @@ română (RO) (1.37 MB - PDF)
 
 **Last updated:**
 
-06/02/2026
+12/02/2026
 
 [View](/ro/documents/product-information/retsevmo-epar-product-information_ro.pdf)
 
-slovenčina (SK) (1.29 MB - PDF)
+slovenčina (SK) (1.32 MB - PDF)
 
 **First published:**
 
@@ -751,11 +751,11 @@ slovenčina (SK) (1.29 MB - PDF)
 
 **Last updated:**
 
-06/02/2026
+12/02/2026
 
 [View](/sk/documents/product-information/retsevmo-epar-product-information_sk.pdf)
 
-slovenščina (SL) (1.61 MB - PDF)
+slovenščina (SL) (1.75 MB - PDF)
 
 **First published:**
 
@@ -763,11 +763,11 @@ slovenščina (SL) (1.61 MB - PDF)
 
 **Last updated:**
 
-06/02/2026
+12/02/2026
 
 [View](/sl/documents/product-information/retsevmo-epar-product-information_sl.pdf)
 
-Suomi (FI) (1.14 MB - PDF)
+Suomi (FI) (1.22 MB - PDF)
 
 **First published:**
 
@@ -775,11 +775,11 @@ Suomi (FI) (1.14 MB - PDF)
 
 **Last updated:**
 
-06/02/2026
+12/02/2026
 
 [View](/fi/documents/product-information/retsevmo-epar-product-information_fi.pdf)
 
-svenska (SV) (1.07 MB - PDF)
+svenska (SV) (1.09 MB - PDF)
 
 **First published:**
 
@@ -787,11 +787,11 @@ svenska (SV) (1.07 MB - PDF)
 
 **Last updated:**
 
-06/02/2026
+12/02/2026
 
 [View](/sv/documents/product-information/retsevmo-epar-product-information_sv.pdf)
 
-**Latest procedure affecting product information:** VR/0000315499 05/02/2026
+**Latest procedure affecting product information:** PSUR/0000288253 10/02/2026
 
 icon globe
 
@@ -817,7 +817,7 @@ English (EN) (75.64 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/retsevmo-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-844)
+[Other languages (24)](#file-language-dropdown-68)
 
 български (BG) (84.55 KB - PDF)
 
@@ -1142,7 +1142,7 @@ Eli Lilly Nederland B.V.
 
 Orteliuslaan 1000 3528 BD Utrecht Netherlands
 
-Opinion adopted 10/12/2020 Marketing authorisation issued 11/02/2021 Revision 19
+Opinion adopted 10/12/2020 Marketing authorisation issued 11/02/2021 Revision 20
 
 ## Assessment history
 
@@ -1154,11 +1154,11 @@ Collapse section
 
 Retsevmo : EPAR - Procedural steps taken and scientific information after the authorisation
 
-English (EN) (417.19 KB - PDF)
+English (EN) (167.55 KB - PDF)
 
 **First published:** 23/05/2025
 
-**Last updated:** 06/02/2026
+**Last updated:** 12/02/2026
 
 [View](/en/documents/procedural-steps-after/retsevmo-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf)
 
@@ -1171,6 +1171,16 @@ English (EN) (221.63 KB - PDF)
 **Last updated:** 23/05/2025
 
 [View](/en/documents/procedural-steps-after/retsevmo-epar-procedural-steps-taken-scientific-information-after-authorisation-archive_en.pdf)
+
+Retsevmo-PSUSA-00010917-202505 : EPAR - Scientific conclusions and grounds for the variation to the terms of the marketing authorisation
+
+Reference Number: EMADOC-1700519818-2912670
+
+English (EN) (199.14 KB - PDF)
+
+**First published:** 12/02/2026
+
+[View](/en/documents/scientific-conclusion/retsevmo-psusa-00010917-202505-epar-scientific-conclusions-grounds-variation-terms-marketing-authorisation_en.pdf)
 
 Retsevmo-H-C-005375-X-0031 : EPAR - Assessment report - Variation
 
@@ -1332,7 +1342,7 @@ English (EN) (112.47 KB - PDF)
 
 - [EMEA-002544-PIP01-18-M02 - paediatric investigation plan](/en/medicines/human/paediatric-investigation-plans/emea-002544-pip01-18-m02)
 
-**This page was last updated on** 06/02/2026
+**This page was last updated on** 12/02/2026
 
 ## Share this page
 

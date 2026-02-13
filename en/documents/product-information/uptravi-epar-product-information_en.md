@@ -1,20 +1,20 @@
 ---
-document_datetime: 2025-03-17 15:33:17
+document_datetime: 2026-02-09 09:27:50
 document_pages: 63
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/uptravi-epar-product-information_en.pdf
 document_name: uptravi-epar-product-information_en.pdf
 version: success
-processing_time: 33.5924279
-conversion_datetime: 2025-12-15 01:03:51.053162
+processing_time: 43.9858773
+conversion_datetime: 2026-02-13 18:55:12.262098
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.64.1
-  docling-core: 2.55.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.12.0
+  docling-jobkit: 1.10.2
+  docling: 2.73.1
+  docling-core: 2.65.1
+  docling-ibm-models: 3.11.0
+  docling-parse: 4.7.3
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.1-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
 ---
 ## ANNEX I
 
@@ -346,10 +346,6 @@ Adverse reactions obtained from the pivotal clinical GRIPHON study and post-mark
 | Skin and subcutaneous tissue disorders               |                                                   | Rash Urticaria Erythema Angioedema †                   |                    |
 | Musculoskeletal and connective tissue disorders      | Jaw pain* Myalgia* Arthralgia* Pain in extremity* |                                                        |                    |
 | General disorders and administration site conditions |                                                   | Pain                                                   |                    |
-
-* See section Description of selected adverse reactions.
-
-† Cases of angioedema have been reported in post-marketing experience with a latency that can exceed 30 days of treatment.
 
 <div style=\"page-break-after: always\"></div>
 
@@ -715,9 +711,7 @@ Propylene glycol (E1520)
 
 Titanium dioxide (E171)
 
-Iron oxide black (E172)
-
-Iron oxide red (E172)
+Iron oxide black (E172) Iron oxide red (E172)
 
 Carnauba wax
 
@@ -751,7 +745,7 @@ Not applicable.
 
 Blister: 4 years.
 
-Unopened bottle: 18 months. After the first opening of the bottle: 3 months or until the expiry date (whichever occurs first).
+Unopened bottle: 2 years. After the first opening of the bottle: 5 months or until the expiry date (whichever occurs first).
 
 ## 6.4 Special precautions for storage
 
@@ -940,7 +934,7 @@ Keep out of the sight and reach of children.
 
 EXP
 
-Use within 3 months after the first opening.
+Use within 5 months after the first opening.
 
 Open date:
 
@@ -1024,7 +1018,7 @@ Keep out of the sight and reach of children.
 
 EXP
 
-Use within 3 months after the first opening.
+Use within 5 months after the first opening.
 
 Open date:
 
@@ -1108,7 +1102,7 @@ Keep out of the sight and reach of children.
 
 EXP
 
-Use within 3 months after the first opening.
+Use within 5 months after the first opening.
 
 <div style=\"page-break-after: always\"></div>
 
@@ -1628,7 +1622,7 @@ Keep this medicine out of the sight and reach of children.
 
 Do not use Uptravi after the expiry date, which is stated on the carton and on the blister or bottle label after 'EXP.' The expiry date refers to the last day of that month.
 
-Use Uptravi 100 microgram film-coated tablets within 3 months after the first opening or until the expiry date (whichever occurs first).
+Use Uptravi 100 microgram film-coated tablets within 5 months after the first opening or until the expiry date (whichever occurs first).
 
 This medicine does not require any special storage conditions.
 
@@ -1724,7 +1718,11 @@ Janssen-Cilag GmbH Tel: 0800 086 9247 / +49 2137 955 6955 jancil@its.jnj.com
 
 ## Eesti
 
-UAB \"JOHNSON &amp; JOHNSON\" Eesti filiaal Tel: +372 617 7410 ee@its.jnj.com
+UAB \"JOHNSON &amp; JOHNSON\" Eesti filiaal
+
+Tel: +372 617 7410
+
+ee@its.jnj.com
 
 ## Ελλάδα
 
@@ -1744,17 +1742,19 @@ Johnson &amp; Johnson S.E. d.o.o. Tel: +385 1 6610 700 jjsafety@JNJCR.JNJ.com
 
 ## Ireland
 
-Janssen Sciences Ireland UC
-
-Tel: 1 800 709 122 medinfo@its.jnj.com
+Janssen Sciences Ireland UC Tel: 1 800 709 122 medinfo@its.jnj.com
 
 ## Ísland
 
-Janssen-Cilag AB c/o Vistor hf. Sími: +354 535 7000 janssen@vistor.is
+Janssen-Cilag AB c/o Vistor ehf. Sími: +354 535 7000 janssen@vistor.is
 
 ## Italia
 
 Janssen-Cilag SpA Tel: 800.688.777 / +39 02 2510 1 janssenita@its.jnj.com
+
+## Κύπρος
+
+Βαρνάβας Χατζηπαναγής Λτδ Τηλ: +357 22 207 700
 
 ## Malta
 
@@ -1798,37 +1798,21 @@ Johnson &amp; Johnson, s.r.o. Tel: +421 232 408 400
 
 Janssen-Cilag Oy Puh/Tel: +358 207 531 300 jacfi@its.jnj.com
 
-## Κύπρος
+## Sverige
 
-Βαρνάβας Χατζηπαναγής Λτδ
-
-Τηλ: +357 22 207 700
+Janssen-Cilag AB Tfn: +46 8 626 50 00 jacse@its.jnj.com
 
 <div style=\"page-break-after: always\"></div>
 
 ## Latvija
 
-UAB \"JOHNSON &amp; JOHNSON\" filiāle Latvijā
-
-Tel: +371 678 93561
-
-lv@its.jnj.com
+UAB \"JOHNSON &amp; JOHNSON\" filiāle Latvijā Tel: +371 678 93561 lv@its.jnj.com
 
 ## This leaflet was last revised in
 
 ## Detailed information on this medicine is available on the European Medicines Agency web site:
 
-https://www.ema.europa.eu.
-
-## Sverige
-
-Janssen-Cilag AB Tfn: +46 8 626 50 00 jacse@its.jnj.com
-
-## United Kingdom (Northern Ireland)
-
-Janssen Sciences Ireland UC
-
-Tel: +44 1 494 567 444 medinfo@its.jnj.com
+## https://www.ema.europa.eu.
 
 <div style=\"page-break-after: always\"></div>
 
@@ -2122,6 +2106,8 @@ Once your doctor has found the dose that is right for you, this will be the dose
 
 <div style=\"page-break-after: always\"></div>
 
+## Page 6
+
 ## How should you step up your dose?
 
 You will start at the 100 microgram dose in the morning and in the evening and after discussing with your doctor or nurse step up to the next dose.
@@ -2132,7 +2118,7 @@ The goal is to reach the dose that is most appropriate to treat you.
 
 This dose will be your maintenance dose.
 
-## Page 8
+Page 8
 
 ## Page 7
 

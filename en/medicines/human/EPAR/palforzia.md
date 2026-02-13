@@ -1,21 +1,97 @@
 ---
-document_datetime: 2025-12-29 11:45:43
+document_datetime: 2026-02-12 16:52:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/palforzia.html
 document_name: palforzia.html
 version: success
-processing_time: 0.1188401
-conversion_datetime: 2025-12-30 10:52:09.052037
+processing_time: 0.1103005
+conversion_datetime: 2026-02-13 18:21:07.455599
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.66.0
-  docling-core: 2.57.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.12.0
+  docling-jobkit: 1.10.2
+  docling: 2.73.1
+  docling-core: 2.65.1
+  docling-ibm-models: 3.11.0
+  docling-parse: 4.7.3
   python: cpython-313 (3.13.11)
   plaform: macOS-26.2-arm64-arm-64bit-Mach-O
 ---
+# Search
+
+- [Medicines](/en/medicines)
+    - [Find medicine](/en/medicines)
+    - [Therapeutic areas: latest updates](/en/medicines/therapeutic-areas-latest-updates)
+    - [Download medicine data](/en/medicines/download-medicine-data)
+    - [What we publish on medicines and when](/en/medicines/what-we-publish-medicines-when)
+    - [Medicines under evaluation](/en/medicines/medicines-human-use-under-evaluation)
+    - [National registers](/en/medicines/national-registers-authorised-medicines)
+- [Human regulatory](/en/human-regulatory-overview)
+    - [Overview](/en/human-regulatory-overview)
+    - [Research and development](/en/human-regulatory-overview/research-development)
+    - [Marketing authorisation](/en/human-regulatory-overview/marketing-authorisation)
+    - [Post-authorisation](/en/human-regulatory-overview/post-authorisation)
+    - [Medical devices](/en/human-regulatory-overview/medical-devices)
+    - [Herbal products](/en/human-regulatory-overview/herbal-medicinal-products)
+- [Veterinary regulatory](/en/veterinary-regulatory-overview)
+    - [Overview](/en/veterinary-regulatory-overview)
+    - [Research and development](/en/veterinary-regulatory-overview/research-development-veterinary-medicines)
+    - [Marketing authorisation](/en/veterinary-regulatory-overview/marketing-authorisation-veterinary-medicines)
+    - [Post-authorisation](/en/veterinary-regulatory-overview/post-authorisation-veterinary-medicines)
+- [Committees](/en/committees)
+    - [Overview](/en/committees)
+    - [How the committees work](/en/committees/how-committees-work)
+    - [CHMP](/en/committees/committee-medicinal-products-human-use-chmp)
+    - [CVMP](/en/committees/committee-veterinary-medicinal-products-cvmp)
+    - [PRAC](/en/committees/pharmacovigilance-risk-assessment-committee-prac)
+    - [COMP](/en/committees/committee-orphan-medicinal-products-comp)
+    - [HMPC](/en/committees/committee-herbal-medicinal-products-hmpc)
+    - [CAT](/en/committees/committee-advanced-therapies-cat)
+    - [PDCO](/en/committees/paediatric-committee-pdco)
+    - [Working parties and other groups](/en/committees/working-parties-other-groups)
+- [News &amp; events](/en/news-events)
+    - [Overview](/en/news-events)
+    - [News](/en/news)
+    - [Events](/en/events/upcoming-events)
+    - [What's new](/en/news-events/whats-new)
+    - [Committee highlights](/en/news-events/committee-highlights)
+    - [Publications](/en/news-and-events/publications)
+    - [Press and social media](/en/news-events/press-social-media)
+    - [Podcast: Inside EMA](/en/news-events/podcast-inside-ema)
+    - [Open consultations](/en/news-events/open-consultations)
+    - [RSS feeds](/en/news-events/rss-feeds)
+- [Partners &amp; networks](/en/partners-networks)
+    - [Overview](/en/partners-networks)
+    - [EU partners](/en/partners-networks/eu-partners)
+    - [International activities](/en/partners-networks/international-activities)
+    - [Patients and consumers](/en/partners-networks/patients-consumers)
+    - [Healthcare professionals](/en/partners-networks/healthcare-professionals)
+    - [Academia](/en/partners-networks/academia)
+    - [Pharmaceutical industry](/en/partners-networks/pharmaceutical-industry)
+    - [Networks](/en/partners-networks/networks)
+    - [Health technology assessment bodies](/en/partners-networks/health-technology-assessment-bodies)
+    - [One Health approach](/en/partners-networks/one-health-approach)
+    - [Animal health practitioners](/en/partners-networks/animal-health-practitioners)
+    - [One substance - one assessment](/en/partners-networks/one-substance-one-assessment-osoa-eu-collaboration-chemicals-related-data)
+- [About us](/en/about-us)
+    - [Overview](/en/about-us)
+    - [What we do](/en/about-us/what-we-do)
+    - [Who we are](/en/about-us/who-we-are)
+    - [How we work](/en/about-us/how-we-work)
+    - [Fees](/en/about-us/fees-payable-european-medicines-agency)
+    - [Support to SMEs](/en/about-us/support-smes)
+    - [Annual reports and work programmes](/en/about-us/annual-reports-work-programmes)
+    - [History of EMA](/en/about-us/history-ema)
+    - [Careers](/en/about-us/careers)
+    - [Procurement](/en/about-us/procurement-grants)
+    - [Glossaries](/en/about-us/glossaries)
+    - [About this website](/en/about-us/about-website)
+    - [Data protection and privacy](/en/about-us/data-protection-privacy-ema)
+    - [Contacts](/en/about-us/contacts-european-medicines-agency)
+
+1. [Home](/en/homepage)
+2. [Medicines](https://www.ema.europa.eu/en/medicines)
+3. Palforzia
+
 # Palforzia
 
 [RSS](/en/individual-human-medicine.xml/67384)
@@ -25,8 +101,6 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 defatted powder of Arachis hypogaea L., semen (peanuts) Medicine Human Authorised
-
-On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -38,6 +112,7 @@ Page contents
 - [Authorisation details](#authorisation-details)
 - [Assessment history](#assessment-history)
 - [News on Palforzia](#news-on)
+- [Further information on Palforzia](#further-information-on-palforzia-83403)
 - [More information on Palforzia](#related-medicines)
 
 - Application under evaluation
@@ -118,7 +193,7 @@ English (EN) (101.48 KB - PDF)
 
 [View](/en/documents/overview/palforzia-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-886)
+[Other languages (22)](#file-language-dropdown-376)
 
 български (BG) (134 KB - PDF)
 
@@ -406,7 +481,7 @@ English (EN) (685.57 KB - PDF)
 
 [View](/en/documents/product-information/palforzia-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-358)
+[Other languages (24)](#file-language-dropdown-287)
 
 български (BG) (770.76 KB - PDF)
 
@@ -722,7 +797,7 @@ English (EN) (56.99 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/palforzia-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-45)
+[Other languages (24)](#file-language-dropdown-953)
 
 български (BG) (80.02 KB - PDF)
 
@@ -1150,11 +1225,24 @@ English (EN) (237.81 KB - PDF)
 
 [Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 12-15 October 2020](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-12-15-october-2020) 16/10/2020
 
+#### Further information on Palforzia
+
+Public statement on Palforzia - cessation of marketing in the European Union
+
+Reference Number: EMA/CHMP/38464/2025
+
+English (EN) (119.88 KB - PDF)
+
+**First published:** 12/02/2026
+
+[View](/en/documents/public-statement/public-statement-palforzia-cessation-marketing-european-union_en.pdf)
+
 #### More information on Palforzia
 
 - [EMEA-001734-PIP01-14-M06 - paediatric investigation plan](/en/medicines/human/paediatric-investigation-plans/emea-001734-pip01-14-m06)
+- [Effectiveness Evaluation of PALFORZIA Risk Management Plan Educational Materials - post-authorisation study](https://catalogues.ema.europa.eu/study/44327)
 
-**This page was last updated on** 08/12/2025
+**This page was last updated on** 12/02/2026
 
 ## Share this page
 

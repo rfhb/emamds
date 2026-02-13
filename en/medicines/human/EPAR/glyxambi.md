@@ -1,21 +1,97 @@
 ---
-document_datetime: 2025-12-29 12:21:19
+document_datetime: 2026-02-12 13:46:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/glyxambi.html
 document_name: glyxambi.html
 version: success
-processing_time: 0.1042113
-conversion_datetime: 2025-12-30 12:34:49.918957
+processing_time: 0.1029643
+conversion_datetime: 2026-02-13 18:58:39.6406
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.66.0
-  docling-core: 2.57.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.12.0
+  docling-jobkit: 1.10.2
+  docling: 2.73.1
+  docling-core: 2.65.1
+  docling-ibm-models: 3.11.0
+  docling-parse: 4.7.3
   python: cpython-313 (3.13.11)
   plaform: macOS-26.2-arm64-arm-64bit-Mach-O
 ---
+# Search
+
+- [Medicines](/en/medicines)
+    - [Find medicine](/en/medicines)
+    - [Therapeutic areas: latest updates](/en/medicines/therapeutic-areas-latest-updates)
+    - [Download medicine data](/en/medicines/download-medicine-data)
+    - [What we publish on medicines and when](/en/medicines/what-we-publish-medicines-when)
+    - [Medicines under evaluation](/en/medicines/medicines-human-use-under-evaluation)
+    - [National registers](/en/medicines/national-registers-authorised-medicines)
+- [Human regulatory](/en/human-regulatory-overview)
+    - [Overview](/en/human-regulatory-overview)
+    - [Research and development](/en/human-regulatory-overview/research-development)
+    - [Marketing authorisation](/en/human-regulatory-overview/marketing-authorisation)
+    - [Post-authorisation](/en/human-regulatory-overview/post-authorisation)
+    - [Medical devices](/en/human-regulatory-overview/medical-devices)
+    - [Herbal products](/en/human-regulatory-overview/herbal-medicinal-products)
+- [Veterinary regulatory](/en/veterinary-regulatory-overview)
+    - [Overview](/en/veterinary-regulatory-overview)
+    - [Research and development](/en/veterinary-regulatory-overview/research-development-veterinary-medicines)
+    - [Marketing authorisation](/en/veterinary-regulatory-overview/marketing-authorisation-veterinary-medicines)
+    - [Post-authorisation](/en/veterinary-regulatory-overview/post-authorisation-veterinary-medicines)
+- [Committees](/en/committees)
+    - [Overview](/en/committees)
+    - [How the committees work](/en/committees/how-committees-work)
+    - [CHMP](/en/committees/committee-medicinal-products-human-use-chmp)
+    - [CVMP](/en/committees/committee-veterinary-medicinal-products-cvmp)
+    - [PRAC](/en/committees/pharmacovigilance-risk-assessment-committee-prac)
+    - [COMP](/en/committees/committee-orphan-medicinal-products-comp)
+    - [HMPC](/en/committees/committee-herbal-medicinal-products-hmpc)
+    - [CAT](/en/committees/committee-advanced-therapies-cat)
+    - [PDCO](/en/committees/paediatric-committee-pdco)
+    - [Working parties and other groups](/en/committees/working-parties-other-groups)
+- [News &amp; events](/en/news-events)
+    - [Overview](/en/news-events)
+    - [News](/en/news)
+    - [Events](/en/events/upcoming-events)
+    - [What's new](/en/news-events/whats-new)
+    - [Committee highlights](/en/news-events/committee-highlights)
+    - [Publications](/en/news-and-events/publications)
+    - [Press and social media](/en/news-events/press-social-media)
+    - [Podcast: Inside EMA](/en/news-events/podcast-inside-ema)
+    - [Open consultations](/en/news-events/open-consultations)
+    - [RSS feeds](/en/news-events/rss-feeds)
+- [Partners &amp; networks](/en/partners-networks)
+    - [Overview](/en/partners-networks)
+    - [EU partners](/en/partners-networks/eu-partners)
+    - [International activities](/en/partners-networks/international-activities)
+    - [Patients and consumers](/en/partners-networks/patients-consumers)
+    - [Healthcare professionals](/en/partners-networks/healthcare-professionals)
+    - [Academia](/en/partners-networks/academia)
+    - [Pharmaceutical industry](/en/partners-networks/pharmaceutical-industry)
+    - [Networks](/en/partners-networks/networks)
+    - [Health technology assessment bodies](/en/partners-networks/health-technology-assessment-bodies)
+    - [One Health approach](/en/partners-networks/one-health-approach)
+    - [Animal health practitioners](/en/partners-networks/animal-health-practitioners)
+    - [One substance - one assessment](/en/partners-networks/one-substance-one-assessment-osoa-eu-collaboration-chemicals-related-data)
+- [About us](/en/about-us)
+    - [Overview](/en/about-us)
+    - [What we do](/en/about-us/what-we-do)
+    - [Who we are](/en/about-us/who-we-are)
+    - [How we work](/en/about-us/how-we-work)
+    - [Fees](/en/about-us/fees-payable-european-medicines-agency)
+    - [Support to SMEs](/en/about-us/support-smes)
+    - [Annual reports and work programmes](/en/about-us/annual-reports-work-programmes)
+    - [History of EMA](/en/about-us/history-ema)
+    - [Careers](/en/about-us/careers)
+    - [Procurement](/en/about-us/procurement-grants)
+    - [Glossaries](/en/about-us/glossaries)
+    - [About this website](/en/about-us/about-website)
+    - [Data protection and privacy](/en/about-us/data-protection-privacy-ema)
+    - [Contacts](/en/about-us/contacts-european-medicines-agency)
+
+1. [Home](/en/homepage)
+2. [Medicines](https://www.ema.europa.eu/en/medicines)
+3. Glyxambi
+
 # Glyxambi
 
 [RSS](/en/individual-human-medicine.xml/66381)
@@ -25,8 +101,6 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 empagliflozin / linagliptin Medicine Human Authorised
-
-On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -121,7 +195,7 @@ English (EN) (83.96 KB - PDF)
 
 [View](/en/documents/overview/glyxambi-epar-summary-public_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-512)
+[Other languages (22)](#file-language-dropdown-273)
 
 български (BG) (112.01 KB - PDF)
 
@@ -387,13 +461,15 @@ svenska (SV) (80.76 KB - PDF)
 
 [View](/sv/documents/overview/glyxambi-epar-summary-public_sv.pdf)
 
-Glyxambi : EPAR - Risk-management-plan summary
+Glyxambi : EPAR - Risk management plan
 
-English (EN) (71.1 KB - PDF)
+English (EN) (186.79 KB - PDF)
 
 **First published:** 10/12/2019
 
-[View](/en/documents/rmp-summary/glyxambi-epar-risk-management-plan-summary_en.pdf)
+**Last updated:** 12/02/2026
+
+[View](/en/documents/rmp/glyxambi-epar-risk-management-plan_en.pdf)
 
 ## Product information
 
@@ -407,7 +483,7 @@ English (EN) (432.36 KB - PDF)
 
 [View](/en/documents/product-information/glyxambi-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-258)
+[Other languages (24)](#file-language-dropdown-931)
 
 български (BG) (528.11 KB - PDF)
 
@@ -723,7 +799,7 @@ English (EN) (25.67 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/glyxambi-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-450)
+[Other languages (24)](#file-language-dropdown-924)
 
 български (BG) (28.67 KB - PDF)
 
@@ -1046,7 +1122,7 @@ Boehringer Ingelheim International GmbH
 
 Binger Strasse 173 55216
 
-Opinion adopted 15/09/2016 Marketing authorisation issued 11/11/2016 Revision 21
+Opinion adopted 15/09/2016 Marketing authorisation issued 11/11/2016 Revision 22
 
 ## Assessment history
 
@@ -1121,7 +1197,7 @@ English (EN) (75.6 KB - PDF)
 
 - [Medicines](https://www.ema.europa.eu/en/search?f%5B0%5D=ema_search_topics%3A61)
 
-**This page was last updated on** 30/06/2025
+**This page was last updated on** 12/02/2026
 
 ## Share this page
 

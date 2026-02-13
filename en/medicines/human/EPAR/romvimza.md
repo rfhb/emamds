@@ -1,21 +1,97 @@
 ---
-document_datetime: 2025-12-29 07:45:11
+document_datetime: 2026-02-11 14:02:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/romvimza.html
 document_name: romvimza.html
 version: success
-processing_time: 0.1048168
-conversion_datetime: 2025-12-30 02:23:29.217661
+processing_time: 0.1020603
+conversion_datetime: 2026-02-13 18:31:02.826316
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.66.0
-  docling-core: 2.57.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.12.0
+  docling-jobkit: 1.10.2
+  docling: 2.73.1
+  docling-core: 2.65.1
+  docling-ibm-models: 3.11.0
+  docling-parse: 4.7.3
   python: cpython-313 (3.13.11)
   plaform: macOS-26.2-arm64-arm-64bit-Mach-O
 ---
+# Search
+
+- [Medicines](/en/medicines)
+    - [Find medicine](/en/medicines)
+    - [Therapeutic areas: latest updates](/en/medicines/therapeutic-areas-latest-updates)
+    - [Download medicine data](/en/medicines/download-medicine-data)
+    - [What we publish on medicines and when](/en/medicines/what-we-publish-medicines-when)
+    - [Medicines under evaluation](/en/medicines/medicines-human-use-under-evaluation)
+    - [National registers](/en/medicines/national-registers-authorised-medicines)
+- [Human regulatory](/en/human-regulatory-overview)
+    - [Overview](/en/human-regulatory-overview)
+    - [Research and development](/en/human-regulatory-overview/research-development)
+    - [Marketing authorisation](/en/human-regulatory-overview/marketing-authorisation)
+    - [Post-authorisation](/en/human-regulatory-overview/post-authorisation)
+    - [Medical devices](/en/human-regulatory-overview/medical-devices)
+    - [Herbal products](/en/human-regulatory-overview/herbal-medicinal-products)
+- [Veterinary regulatory](/en/veterinary-regulatory-overview)
+    - [Overview](/en/veterinary-regulatory-overview)
+    - [Research and development](/en/veterinary-regulatory-overview/research-development-veterinary-medicines)
+    - [Marketing authorisation](/en/veterinary-regulatory-overview/marketing-authorisation-veterinary-medicines)
+    - [Post-authorisation](/en/veterinary-regulatory-overview/post-authorisation-veterinary-medicines)
+- [Committees](/en/committees)
+    - [Overview](/en/committees)
+    - [How the committees work](/en/committees/how-committees-work)
+    - [CHMP](/en/committees/committee-medicinal-products-human-use-chmp)
+    - [CVMP](/en/committees/committee-veterinary-medicinal-products-cvmp)
+    - [PRAC](/en/committees/pharmacovigilance-risk-assessment-committee-prac)
+    - [COMP](/en/committees/committee-orphan-medicinal-products-comp)
+    - [HMPC](/en/committees/committee-herbal-medicinal-products-hmpc)
+    - [CAT](/en/committees/committee-advanced-therapies-cat)
+    - [PDCO](/en/committees/paediatric-committee-pdco)
+    - [Working parties and other groups](/en/committees/working-parties-other-groups)
+- [News &amp; events](/en/news-events)
+    - [Overview](/en/news-events)
+    - [News](/en/news)
+    - [Events](/en/events/upcoming-events)
+    - [What's new](/en/news-events/whats-new)
+    - [Committee highlights](/en/news-events/committee-highlights)
+    - [Publications](/en/news-and-events/publications)
+    - [Press and social media](/en/news-events/press-social-media)
+    - [Podcast: Inside EMA](/en/news-events/podcast-inside-ema)
+    - [Open consultations](/en/news-events/open-consultations)
+    - [RSS feeds](/en/news-events/rss-feeds)
+- [Partners &amp; networks](/en/partners-networks)
+    - [Overview](/en/partners-networks)
+    - [EU partners](/en/partners-networks/eu-partners)
+    - [International activities](/en/partners-networks/international-activities)
+    - [Patients and consumers](/en/partners-networks/patients-consumers)
+    - [Healthcare professionals](/en/partners-networks/healthcare-professionals)
+    - [Academia](/en/partners-networks/academia)
+    - [Pharmaceutical industry](/en/partners-networks/pharmaceutical-industry)
+    - [Networks](/en/partners-networks/networks)
+    - [Health technology assessment bodies](/en/partners-networks/health-technology-assessment-bodies)
+    - [One Health approach](/en/partners-networks/one-health-approach)
+    - [Animal health practitioners](/en/partners-networks/animal-health-practitioners)
+    - [One substance - one assessment](/en/partners-networks/one-substance-one-assessment-osoa-eu-collaboration-chemicals-related-data)
+- [About us](/en/about-us)
+    - [Overview](/en/about-us)
+    - [What we do](/en/about-us/what-we-do)
+    - [Who we are](/en/about-us/who-we-are)
+    - [How we work](/en/about-us/how-we-work)
+    - [Fees](/en/about-us/fees-payable-european-medicines-agency)
+    - [Support to SMEs](/en/about-us/support-smes)
+    - [Annual reports and work programmes](/en/about-us/annual-reports-work-programmes)
+    - [History of EMA](/en/about-us/history-ema)
+    - [Careers](/en/about-us/careers)
+    - [Procurement](/en/about-us/procurement-grants)
+    - [Glossaries](/en/about-us/glossaries)
+    - [About this website](/en/about-us/about-website)
+    - [Data protection and privacy](/en/about-us/data-protection-privacy-ema)
+    - [Contacts](/en/about-us/contacts-european-medicines-agency)
+
+1. [Home](/en/homepage)
+2. [Medicines](https://www.ema.europa.eu/en/medicines)
+3. Romvimza
+
 # Romvimza
 
 [RSS](/en/individual-human-medicine.xml/263614)
@@ -25,8 +101,6 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 vimseltinib Medicine Human Authorised
-
-On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -116,7 +190,7 @@ English (EN) (136.79 KB - PDF)
 
 [View](/en/documents/overview/romvimza-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-489)
+[Other languages (22)](#file-language-dropdown-732)
 
 български (BG) (160.38 KB - PDF)
 
@@ -306,205 +380,305 @@ English (EN) (2.85 MB - PDF)
 
 Romvimza : EPAR - Product information
 
-English (EN) (268.48 KB - PDF)
+English (EN) (283.72 KB - PDF)
 
 **First published:** 22/09/2025
 
+**Last updated:** 11/02/2026
+
 [View](/en/documents/product-information/romvimza-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-661)
+[Other languages (24)](#file-language-dropdown-970)
 
-български (BG) (516.11 KB - PDF)
+български (BG) (431.67 KB - PDF)
 
 **First published:**
 
 22/09/2025
+
+**Last updated:**
+
+11/02/2026
 
 [View](/bg/documents/product-information/romvimza-epar-product-information_bg.pdf)
 
-español (ES) (277.83 KB - PDF)
+español (ES) (289.09 KB - PDF)
 
 **First published:**
 
 22/09/2025
+
+**Last updated:**
+
+11/02/2026
 
 [View](/es/documents/product-information/romvimza-epar-product-information_es.pdf)
 
-čeština (CS) (373.9 KB - PDF)
+čeština (CS) (399.23 KB - PDF)
 
 **First published:**
 
 22/09/2025
+
+**Last updated:**
+
+11/02/2026
 
 [View](/cs/documents/product-information/romvimza-epar-product-information_cs.pdf)
 
-dansk (DA) (279.95 KB - PDF)
+dansk (DA) (294.72 KB - PDF)
 
 **First published:**
 
 22/09/2025
+
+**Last updated:**
+
+11/02/2026
 
 [View](/da/documents/product-information/romvimza-epar-product-information_da.pdf)
 
-Deutsch (DE) (292.49 KB - PDF)
+Deutsch (DE) (306.14 KB - PDF)
 
 **First published:**
 
 22/09/2025
+
+**Last updated:**
+
+11/02/2026
 
 [View](/de/documents/product-information/romvimza-epar-product-information_de.pdf)
 
-eesti keel (ET) (280.39 KB - PDF)
+eesti keel (ET) (292.09 KB - PDF)
 
 **First published:**
 
 22/09/2025
+
+**Last updated:**
+
+11/02/2026
 
 [View](/et/documents/product-information/romvimza-epar-product-information_et.pdf)
 
-ελληνικά (EL) (424.52 KB - PDF)
+ελληνικά (EL) (433.96 KB - PDF)
 
 **First published:**
 
 22/09/2025
+
+**Last updated:**
+
+11/02/2026
 
 [View](/el/documents/product-information/romvimza-epar-product-information_el.pdf)
 
-français (FR) (290.68 KB - PDF)
+français (FR) (304.45 KB - PDF)
 
 **First published:**
 
 22/09/2025
+
+**Last updated:**
+
+11/02/2026
 
 [View](/fr/documents/product-information/romvimza-epar-product-information_fr.pdf)
 
-hrvatski (HR) (379.72 KB - PDF)
+hrvatski (HR) (397.8 KB - PDF)
 
 **First published:**
 
 22/09/2025
+
+**Last updated:**
+
+11/02/2026
 
 [View](/hr/documents/product-information/romvimza-epar-product-information_hr.pdf)
 
-íslenska (IS) (272.28 KB - PDF)
+íslenska (IS) (289.6 KB - PDF)
 
 **First published:**
 
 22/09/2025
+
+**Last updated:**
+
+11/02/2026
 
 [View](/is/documents/product-information/romvimza-epar-product-information_is.pdf)
 
-italiano (IT) (327.39 KB - PDF)
+italiano (IT) (297.45 KB - PDF)
 
 **First published:**
 
 22/09/2025
+
+**Last updated:**
+
+11/02/2026
 
 [View](/it/documents/product-information/romvimza-epar-product-information_it.pdf)
 
-latviešu valoda (LV) (379.71 KB - PDF)
+latviešu valoda (LV) (390.13 KB - PDF)
 
 **First published:**
 
 22/09/2025
+
+**Last updated:**
+
+11/02/2026
 
 [View](/lv/documents/product-information/romvimza-epar-product-information_lv.pdf)
 
-lietuvių kalba (LT) (369.37 KB - PDF)
+lietuvių kalba (LT) (388.8 KB - PDF)
 
 **First published:**
 
 22/09/2025
+
+**Last updated:**
+
+11/02/2026
 
 [View](/lt/documents/product-information/romvimza-epar-product-information_lt.pdf)
 
-magyar (HU) (413.03 KB - PDF)
+magyar (HU) (426.08 KB - PDF)
 
 **First published:**
 
 22/09/2025
+
+**Last updated:**
+
+11/02/2026
 
 [View](/hu/documents/product-information/romvimza-epar-product-information_hu.pdf)
 
-Malti (MT) (417.88 KB - PDF)
+Malti (MT) (424.55 KB - PDF)
 
 **First published:**
 
 22/09/2025
+
+**Last updated:**
+
+11/02/2026
 
 [View](/mt/documents/product-information/romvimza-epar-product-information_mt.pdf)
 
-Nederlands (NL) (280.6 KB - PDF)
+Nederlands (NL) (299.73 KB - PDF)
 
 **First published:**
 
 22/09/2025
+
+**Last updated:**
+
+11/02/2026
 
 [View](/nl/documents/product-information/romvimza-epar-product-information_nl.pdf)
 
-norsk (NO) (233.29 KB - PDF)
+norsk (NO) (243.88 KB - PDF)
 
 **First published:**
 
 22/09/2025
+
+**Last updated:**
+
+11/02/2026
 
 [View](/no/documents/product-information/romvimza-epar-product-information_no.pdf)
 
-polski (PL) (386.96 KB - PDF)
+polski (PL) (408.7 KB - PDF)
 
 **First published:**
 
 22/09/2025
+
+**Last updated:**
+
+11/02/2026
 
 [View](/pl/documents/product-information/romvimza-epar-product-information_pl.pdf)
 
-português (PT) (298.11 KB - PDF)
+português (PT) (309.16 KB - PDF)
 
 **First published:**
 
 22/09/2025
+
+**Last updated:**
+
+11/02/2026
 
 [View](/pt/documents/product-information/romvimza-epar-product-information_pt.pdf)
 
-română (RO) (421.74 KB - PDF)
+română (RO) (393.42 KB - PDF)
 
 **First published:**
 
 22/09/2025
+
+**Last updated:**
+
+11/02/2026
 
 [View](/ro/documents/product-information/romvimza-epar-product-information_ro.pdf)
 
-slovenčina (SK) (351.17 KB - PDF)
+slovenčina (SK) (375.03 KB - PDF)
 
 **First published:**
 
 22/09/2025
+
+**Last updated:**
+
+11/02/2026
 
 [View](/sk/documents/product-information/romvimza-epar-product-information_sk.pdf)
 
-slovenščina (SL) (384.67 KB - PDF)
+slovenščina (SL) (407.26 KB - PDF)
 
 **First published:**
 
 22/09/2025
+
+**Last updated:**
+
+11/02/2026
 
 [View](/sl/documents/product-information/romvimza-epar-product-information_sl.pdf)
 
-Suomi (FI) (306.92 KB - PDF)
+Suomi (FI) (316.47 KB - PDF)
 
 **First published:**
 
 22/09/2025
+
+**Last updated:**
+
+11/02/2026
 
 [View](/fi/documents/product-information/romvimza-epar-product-information_fi.pdf)
 
-svenska (SV) (276.82 KB - PDF)
+svenska (SV) (289.16 KB - PDF)
 
 **First published:**
 
 22/09/2025
 
+**Last updated:**
+
+11/02/2026
+
 [View](/sv/documents/product-information/romvimza-epar-product-information_sv.pdf)
+
+**Latest procedure affecting product information:** VR/0000326525 11/02/2026
 
 icon globe
 
@@ -528,7 +702,7 @@ English (EN) (40.42 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/romvimza-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-162)
+[Other languages (24)](#file-language-dropdown-496)
 
 български (BG) (55.67 KB - PDF)
 
@@ -750,11 +924,25 @@ Marketing authorisation holder
 
 Deciphera Pharmaceuticals (Netherlands) B.V.
 
-Atrium Building Floor 4th
+Strawinskylaan 3051 1077 ZX Amsterdam The Netherlands
 
-Opinion adopted 24/07/2025 Marketing authorisation issued 17/09/2025
+Opinion adopted 24/07/2025 Marketing authorisation issued 17/09/2025 Revision 1
 
 ## Assessment history
+
+Expand section
+
+Collapse section
+
+## Changes since initial authorisation of medicine
+
+Romvimza  : EPAR - Procedural steps taken and scientific information after authorisation
+
+English (EN) (293.42 KB - PDF)
+
+**First published:** 11/02/2026
+
+[View](/en/documents/procedural-steps-after/romvimza-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf)
 
 ## Initial marketing authorisation documents
 
@@ -802,7 +990,7 @@ English (EN) (153.47 KB - PDF)
 
 - [EU/3/19/2227 - orphan designation for treatment of tenosynovial giant cell tumour, localised and diffuse type](/en/medicines/human/orphan-designations/eu-3-19-2227)
 
-**This page was last updated on** 22/09/2025
+**This page was last updated on** 11/02/2026
 
 ## Share this page
 

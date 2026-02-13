@@ -1,18 +1,18 @@
 ---
-document_datetime: 2025-10-20 16:26:56
-document_pages: 33
+document_datetime: 2026-02-10 13:42:52
+document_pages: 35
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/vueway-epar-product-information_en.pdf
 document_name: vueway-epar-product-information_en.pdf
 version: success
-processing_time: 9.8685171
-conversion_datetime: 2025-12-30 20:45:00.252475
+processing_time: 9.6514233
+conversion_datetime: 2026-02-13 18:15:55.660395
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.66.0
-  docling-core: 2.57.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.12.0
+  docling-jobkit: 1.10.2
+  docling: 2.73.1
+  docling-core: 2.65.1
+  docling-ibm-models: 3.11.0
+  docling-parse: 4.7.3
   python: cpython-313 (3.13.11)
   plaform: macOS-26.2-arm64-arm-64bit-Mach-O
 ---
@@ -54,7 +54,7 @@ Clear, colourless to pale yellow solution
 
 This medicinal product is for diagnostic use only.
 
-Vueway is indicated in adults and children aged 2 years and older for contrast-enhanced magnetic resonance imaging (MRI) to improve detection and visualization of pathologies with disruption of the blood-brain-barrier (BBB) and/or abnormal vascularity of:
+Vueway is indicated in adults and children from birth for contrast-enhanced magnetic resonance imaging (MRI) to improve detection and visualization of pathologies with disruption of the blood-brain-barrier (BBB) and/or abnormal vascularity of:
 
 - -the brain, spine, and associated tissues of the central nervous system (CNS);
 - -the liver, kidney, pancreas, breast, lung, prostate, and musculoskeletal system.
@@ -106,11 +106,11 @@ No dose adjustment is necessary for patients with any level of renal impairment.
 
 No dose adjustment is considered necessary for patients with hepatic impairment. Caution is recommended, especially in the case of perioperative liver transplantation period (see above 'renal impairment').
 
-## Paediatric population (2 years and older)
+## Paediatric population (from birth)
 
 The recommended and maximum dose of Vueway is 0.1 mL/kg BW (equivalent to 0.05 mmol/kg BW) for all indications. More than one dose should not be used during a scan.
 
-The safety and efficacy of Vueway in children less than 2 years has not yet been established. No data are available.
+Due to immature renal function in neonates up to 4 weeks of age and infants up to 1 year of age, Vueway should only be used in these patients after careful consideration, at a dose not exceeding 0.05 mmol/kg body weight. Because of the lack of information on repeated administration, Vueway injections should not be repeated unless the interval between injections is at least 7 days.
 
 ## Method of administration
 
@@ -167,6 +167,12 @@ Haemodialysis shortly after gadopiclenol administration may be useful at removin
 
 As the renal clearance of gadopiclenol may be impaired in the elderly, it is particularly important to screen patients aged 65 years and older for renal dysfunction. Caution should be exercised in patients with renal impairment (see section 4.2).
 
+## Paediatric population Neonates and infants
+
+Due to immature renal function in neonates up to 4 weeks of age and infants up to 1 year of age, Vueway should only be used in these patients after careful consideration.
+
+There are no clinical data investigating the performance of gadopiclenol in preterm neonates.
+
 ## Seizures
 
 As with other gadolinium-containing contrast agents, special caution is necessary in patients with a lowered threshold for seizures. All equipment and drugs necessary to counter convulsions occurring during the MRI examination must be made ready for use beforehand.
@@ -179,6 +185,8 @@ Caution during administration is necessary to avoid any extravasation. In case o
 
 In patients with severe cardiovascular disease gadopiclenol should only be administrated after careful risk benefit assessment because no data are available so far.
 
+<div style=\"page-break-after: always\"></div>
+
 ## Excipients
 
 This medicinal product contains less than 1 mmol sodium (23 mg) per 15 mL, that is to say essentially 'sodium-free'.
@@ -186,8 +194,6 @@ This medicinal product contains less than 1 mmol sodium (23 mg) per 15 mL, that 
 ## 4.5 Interaction with other medicinal products and other forms of interaction
 
 No interaction studies have been performed.
-
-<div style=\"page-break-after: always\"></div>
 
 ## Concomitant medicinal products to be taken into account
 
@@ -219,11 +225,11 @@ The most frequent adverse reactions were injection site pain, headache, nausea, 
 
 ## Tabulated list of adverse reactions
 
-Table 2 below presents adverse reactions based on clinical trials including 1047 subjects exposed to gadopiclenol ranging from 0.05 mL/kg BW (equivalent to 0.025 mmol/kg BW) to 0.6 mL/kg BW (equivalent to 0.3 mmol/kg BW).
-
-The adverse reactions are listed below by SOC (System Organ Class) and by frequency with the following guidelines: very common ( ≥ 1/10), common ( ≥ 1/100 to &lt; 1/10), uncommon ( ≥ 1/1 000 to &lt; 1/100), rare ( ≥ 1/10 000 to &lt; 1/1 000), very rare (&lt; 1/10 000).
+Table 2 below presents adverse reactions based on clinical trials including 1083 subjects exposed to gadopiclenol ranging from 0.05 mL/kg BW (equivalent to 0.025 mmol/kg BW) to 0.6 mL/kg BW (equivalent to 0.3 mmol/kg BW).
 
 <div style=\"page-break-after: always\"></div>
+
+The adverse reactions are listed below by SOC (System Organ Class) and by frequency with the following guidelines: very common ( ≥ 1/10), common ( ≥ 1/100 to &lt; 1/10), uncommon ( ≥ 1/1 000 to &lt; 1/100), rare ( ≥ 1/10 000 to &lt; 1/1 000), very rare (&lt; 1/10 000).
 
 Table 2: Adverse reactions reported following gadopiclenol administration
 
@@ -245,13 +251,15 @@ Immediate reactions include one or more effects, which appear simultaneously or 
 
 Isolated cases of NSF have been reported with other gadolinium-containing contrast agents (see section 4.4).
 
-## Paediatric population (2 years and older)
+## Paediatric population
 
-A total of 80 paediatric patients aged 2 years and older were included in the clinical trial. As compared to adults, the safety profile of gadopiclenol in this population did not show any specific safety concern.
+A total of 80 paediatric patients aged 2 years and older and 36 paediatric patients aged less than 2 years received an injection of gadopiclenol at the dose of 0.1 mL/kg BW (0.05 mmol/kg BW) in two clinical trials.
 
-A total of 31 Treatment Emergent Adverse Events (TEAEs) occurred during and/or after gadopiclenol administration for 14 patients (17.5%). Twelve TEAEs were reported in the CNS cohort and 2 in the Body cohort.
+As compared to adults, the safety profile of gadopiclenol in the paediatric population did not show any specific safety concern.
 
-Among these TEAEs, 1 event in 1 patient (1.25%) from the CNS cohort was considered related to gadopiclenol.
+Overall, 69 Treatment Emergent Adverse Events (TEAEs) occurred during and/or after gadopiclenol administration for 33 patients out of 116(28.4%).
+
+Among these TEAEs, 2 events in 2 patients (1.7%), one under 2 years old and one 9 years old, were considered related to gadopiclenol (erythema and maculopapular rash).
 
 ## Reporting of suspected adverse reactions
 
@@ -263,9 +271,9 @@ The maximum daily single dose tested in humans was 0.6 mL/kg BW (equivalent to 0
 
 No signs of intoxication from an overdose have so far been reported.
 
-Gadopiclenol can be removed by haemodialysis. However, there is no evidence that haemodialysis is suitable for prevention of nephrogenic systemic fibrosis (NSF).
-
 <div style=\"page-break-after: always\"></div>
+
+Gadopiclenol can be removed by haemodialysis. However, there is no evidence that haemodialysis is suitable for prevention of nephrogenic systemic fibrosis (NSF).
 
 ## 5. PHARMACOLOGICAL PROPERTIES
 
@@ -293,83 +301,84 @@ Table 3: Relaxivity at 37 °C for gadopiclenol
 
 ## Clinical efficacy and safety
 
-Two pivotal studies included adult patients undergoing MRI with gadopiclenol at 0.1 mL/kg BW (equivalent to 0.05 mmol/kg BW) and MRI with gadobutrol at 0.1 mL/kg BW (equivalent to 0.1 mmol/kg BW). One study (Study 1; PICTURE) included 256 patients presenting with known or highly suspected CNS lesions with focal areas of disrupted BBB (e.g. primary and secondary tumors). The majority of patients (72%) presented with brain tumors, 20% had brain or spine metastases and 8% presented with other pathologies.
+Two pivotal studies included adult patients undergoing MRI with gadopiclenol at 0.1 mL/kg BW (equivalent to 0.05 mmol/kg BW) and MRI with gadobutrol at 0.1 mL/kg BW (equivalent to 0.1 mmol/kg BW). One study (Study GDX-44-010; PICTURE) included 256 patients presenting with known or highly suspected CNS lesions with focal areas of disrupted BBB (e.g. primary and secondary tumors). The majority of patients (72%) presented with brain tumors, 20% had brain or spine metastases and 8% presented with other pathologies.
 
-The other study (Study 2; PROMISE) included 304 patients with known or suspected abnormalities or lesions in other body regions (8% in head and neck, 28% in thorax, 35% in abdomen, 22% in pelvis and 7% in musculo-skeletal system) both based on results of a previous imaging procedure such as CT or MRI. The most frequent pathologies were breast tumors (23%) and liver tumors (21%).
+The other study (Study GDX-44-011; PROMISE) included 304 patients with known or suspected abnormalities or lesions in other body regions (8% in head and neck, 28% in thorax, 35% in abdomen, 22% in pelvis and 7% in musculo-skeletal system) both based on results of a previous imaging procedure such as CT or MRI. The most frequent pathologies were breast tumors (23%) and liver tumors (21%).
 
 The primary endpoint was the evaluation of lesion visualization, based on 3 co-criteria (border delineation, internal morphology and degree of contrast enhancement) by three independent blinded readers, using a 4-point scale. The mean of scores for each of the 3 lesion visualization co-criteria was calculated as the sum of scores for up to 3 most representative lesions divided by the number of lesions.
 
-## Both studies demonstrated:
+<div style=\"page-break-after: always\"></div>
+
+Both studies demonstrated:
 
 - -Superiority of the combined unenhanced/contrast-enhanced MRI (Paired) with gadopiclenol over unenhanced MRI (Pre) for all 3 lesion visualization criteria (p &lt; 0.0001 for all three readers, paired t-tests on matching lesions).
 - -Non-inferiority of gadopiclenol at 0.1 mL/kg BW (equivalent to 0.05 mmol/kg BW) to gadobutrol at 0.1 mL/kg BW (equivalent to 0.1 mmol/kg BW) (p &lt; 0.0001 for all three readers, paired t-tests on matching lesions).
-
-<div style=\"page-break-after: always\"></div>
 
 The pooled analysis of the primary outcome over the three readers, and for each lesion visualization criterion also demonstrated the non-inferiority of gadopiclenol at 0.05 mmol/kg to gadobutrol at 0.1 mmol/kg in both studies, as shown in table 4 below.
 
 Table 4: Lesion visualization - Off-site readings - Full analysis set
 
-|                                | n patients   | LS Mean (SE)   | LS Mean (SE)   | LS Mean (SE)   | 95% CI difference   | p-value   |
-|--------------------------------|--------------|----------------|----------------|----------------|---------------------|-----------|
-|                                |              | Gadopiclenol   | Gadobutrol     | Difference     |                     |           |
-| Study 1 (PICTURE)              |              |                |                |                |                     |           |
-| Border delineation             | 239          | 3.83 ( 0.02)   | 3.82 ( 0.02)   | 0.01 ( 0.02)   | [ -0.02 ; 0.05]     | 0.5025    |
-| Internal morphology            | 239          | 3.83 ( 0.02)   | 3.81 ( 0.02)   | 0.02 ( 0.02)   | [ -0.01 ; 0.05]     | 0.2006    |
-| Degree of contrast enhancement | 239          | 3.73 ( 0.03)   | 3.68 ( 0.03)   | 0.05 ( 0.02)   | [ 0.01 ; 0.09]      | 0.0172    |
-| Study 2 (PROMISE)              |              |                |                |                |                     |           |
-| Border delineation             | 273          | 3.60 ( 0.03)   | 3.60 ( 0.03)   | -0.00 ( 0.02)  | [ -0.05 ; 0.04]     | 0.8987    |
-| Internal morphology            | 273          | 3.75 ( 0.02)   | 3.76 ( 0.02)   | -0.01 ( 0.02)  | [ -0.05 ; 0.03]     | 0.6822    |
-| Degree of contrast enhancement | 273          | 3.30 ( 0.04)   | 3.29 ( 0.04)   | 0.01 ( 0.03)   | [ -0.05 ; 0.07]     | 0.8546    |
+|                                                                   | n patients                                                        | LS Mean (SE)                                                      | LS Mean (SE)                                                      | LS Mean (SE)                                                      | 95% CI difference                                                 | p-value                                                           |
+|-------------------------------------------------------------------|-------------------------------------------------------------------|-------------------------------------------------------------------|-------------------------------------------------------------------|-------------------------------------------------------------------|-------------------------------------------------------------------|-------------------------------------------------------------------|
+|                                                                   |                                                                   | Gadopiclenol                                                      | Gadobutrol                                                        | Difference                                                        |                                                                   |                                                                   |
+| Study GDX-44-010 (PICTURE)                                        |                                                                   |                                                                   |                                                                   |                                                                   |                                                                   |                                                                   |
+| Border delineation                                                | 239                                                               | 3.83 ( 0.02)                                                      | 3.82 ( 0.02)                                                      | 0.01 ( 0.02)                                                      | [ -0.02 ; 0.05]                                                   | 0.5025                                                            |
+| Internal morphology                                               | 239                                                               | 3.83 ( 0.02)                                                      | 3.81 ( 0.02)                                                      | 0.02 ( 0.02)                                                      | [ -0.01 ; 0.05]                                                   | 0.2006                                                            |
+| Degree of contrast enhancement                                    | 239                                                               | 3.73 ( 0.03)                                                      | 3.68 ( 0.03)                                                      | 0.05 ( 0.02)                                                      | [ 0.01 ; 0.09]                                                    | 0.0172                                                            |
+| Study GDX-44-011 (PROMISE)                                        |                                                                   |                                                                   |                                                                   |                                                                   |                                                                   |                                                                   |
+| Border delineation                                                | 273                                                               | 3.60 ( 0.03)                                                      | 3.60 ( 0.03)                                                      | -0.00 ( 0.02)                                                     | [ -0.05 ; 0.04]                                                   | 0.8987                                                            |
+| Internal morphology                                               | 273                                                               | 3.75 ( 0.02)                                                      | 3.76 ( 0.02)                                                      | -0.01 ( 0.02)                                                     | [ -0.05 ; 0.03]                                                   | 0.6822                                                            |
+| Degree of contrast enhancement                                    | 273                                                               | 3.30 ( 0.04)                                                      | 3.29 ( 0.04)                                                      | 0.01 ( 0.03)                                                      | [ -0.05 ; 0.07]                                                   | 0.8546                                                            |
+| CI: Confidence Interval ; LS: Least Squares ; SE: Standard Error. | CI: Confidence Interval ; LS: Least Squares ; SE: Standard Error. | CI: Confidence Interval ; LS: Least Squares ; SE: Standard Error. | CI: Confidence Interval ; LS: Least Squares ; SE: Standard Error. | CI: Confidence Interval ; LS: Least Squares ; SE: Standard Error. | CI: Confidence Interval ; LS: Least Squares ; SE: Standard Error. | CI: Confidence Interval ; LS: Least Squares ; SE: Standard Error. |
 
 The secondary criteria evaluated included quantitative evaluations (Contrast to Noise Ratio, Lesion to Brain (background) Ratio and percentage of lesion enhancement), overall diagnostic preference and impact on patient management.
 
-In Study 1, Lesion to Brain Ratio, and percentage of lesion enhancement were statistically significantly higher with gadopiclenol at 0.1 mL/kg BW (equivalent to 0.05 mmol/kg BW) compared to gadobutrol at 0.1 mL/kg BW (equivalent to 0.1 mmol/kg BW) for all 3 readers. Contrast to Noise Ratio was statistically significantly higher for 2 readers. In Study 2, percentage of lesion enhancement was significantly higher with gadopiclenol at 0.1 mL/kg BW (equivalent to 0.05 mmol/kg BW) compared to gadobutrol at 0.1 mL/kg BW (equivalent to 0.1 mmol/kg BW) and no statistically significant difference was observed for Lesion to Background Ratio.
+In Study GDX-44-010, Lesion to Brain Ratio, and percentage of lesion enhancement were statistically significantly higher with gadopiclenol at 0.1 mL/kg BW (equivalent to 0.05 mmol/kg BW) compared to gadobutrol at 0.1 mL/kg BW (equivalent to 0.1 mmol/kg BW) for all 3 readers. Contrast to Noise Ratio was statistically significantly higher for 2 readers. In Study GDX-44-011, percentage of lesion enhancement was significantly higher with gadopiclenol at 0.1 mL/kg BW (equivalent to 0.05 mmol/kg BW) compared to gadobutrol at 0.1 mL/kg BW (equivalent to 0.1 mmol/kg BW) and no statistically significant difference was observed for Lesion to Background Ratio.
 
 Lesion visualisation parameters (e.g., co-primary endpoints and quantitative assessments, such as, Contrast to Noise Ratio, Lesion to Brain (background) Ratio and percentage of lesion enhancement) were assessed in all the lesions identified by the blinded readers, independently of their size, in more than 86% of patients in CNS study and in more than 81% of patients in Body study, who had no more than 3 lesions. In the remaining patients with more than 3 lesions visible, a subset of 3 most representative lesions were selected for assessment of the co-primary endpoints. Therefore, in those patients, the additional lesions were not assessed. Consequently, the technical capability of lesion visualisation for both contrast agents cannot be extrapolated for those non-selected lesions.
 
-The overall diagnostic preference was assessed in a global matched-pairs fashion (reading of images from both MRI assessed side by side) by three additional blinded readers in each study. The results are summarized in the Table 5 below. In Study 1, in majority, the readers expressed a preference for images acquired with gadopiclenol. In Study 2, in majority, the readers expressed no diagnostic preference between images acquired with gadopiclenol and with gadobutrol.
-
-Table 5: Results on overall diagnostic preference for Study 1 (CNS) and Study 2 (Body)
-
-|                |   Reader |   N | gadopiclenol preferred   | No preference   | gadobutrol preferred   | p- value*   |
-|----------------|----------|-----|--------------------------|-----------------|------------------------|-------------|
-| Study 1 (CNS)  |        4 | 241 | 108 (44.8 %)             | 98 (40.7 %)     | 35 (14.5 %)            | < 0.0001    |
-| Study 1 (CNS)  |        5 | 241 | 131 (54.4 %)             | 52 (21.6 %)     | 58 (24.1 %)            | < 0.0001    |
-| Study 1 (CNS)  |        6 | 241 | 138 (57.3 %)             | 56 (23.2 %)     | 47 (19.5 %)            | < 0.0001    |
-| Study 2 (Body) |        4 | 276 | 36 (13.0 %)              | 216 (78.3 %)    | 24 (8.7 %)             | 0.1223      |
-| Study 2 (Body) |        5 | 276 | 40 (14.5 %)              | 206 (74.6 %)    | 30 (10.9 %)            | 0.2346      |
-| Study 2 (Body) |        6 | 276 | 33 (12.0 %)              | 228 (82.6 %)    | 15 (5.4 %)             | 0.0079      |
-
-* Wilcoxon signed-rank test.
+The overall diagnostic preference was assessed in a global matched-pairs fashion (reading of images from both MRI assessed side by side) by three additional blinded readers in each study. The results are summarized in the Table 5 below. In Study GDX-44-010, in majority, the readers expressed a preference for images acquired with gadopiclenol. In Study GDX-44-011, in majority, the readers expressed no diagnostic preference between images acquired with gadopiclenol and with gadobutrol.
 
 <div style=\"page-break-after: always\"></div>
 
-A change in patient treatment plan was reported after administration of gadopiclenol at 0.1 mL/kg BW (equivalent to 0.05 mmol/kg BW) in 23.3 % and 30.1 % of patients in Study 1 and Study 2, respectively. Analysis per subgroups in Study 1 revealed that treatment plan could be changed for 64 % of the 22 patients for whom the investigator considered that diagnosis was not assessable (or grade of glial tumor could not be determined) based on unenhanced MRI, 28 % of 81 patients with malignant diagnosis and about 12 % of 111 patients with non-malignant diagnosis.
+Table 5: Results on overall diagnostic preference for Study GDX-44-010 (CNS) and Study GDX-44011 (Body)
 
-In Study 2, treatment plan could be changed after MRI with gadopiclenol for 41 % of the 22 patients with non-assessable diagnosis based on unenhanced MRI, 32 % of 165 patients with malignant diagnosis and 14 % of 64 patients with non-malignant diagnosis.
+|               |   Reader |   N | gadopiclenol preferred   | No preference   | gadobutrol preferred   | p- value*   |
+|---------------|----------|-----|--------------------------|-----------------|------------------------|-------------|
+| Study GDX-44- |        4 | 241 | 108 (44.8 %)             | 98 (40.7 %)     | 35 (14.5 %)            | < 0.0001    |
+| 010 (CNS)     |        5 | 241 | 131 (54.4 %)             | 52 (21.6 %)     | 58 (24.1 %)            | < 0.0001    |
+| 010 (CNS)     |        6 | 241 | 138 (57.3 %)             | 56 (23.2 %)     | 47 (19.5 %)            | < 0.0001    |
+| Study GDX-44- |        4 | 276 | 36 (13.0 %)              | 216 (78.3 %)    | 24 (8.7 %)             | 0.1223      |
+| 011 (Body)    |        5 | 276 | 40 (14.5 %)              | 206 (74.6 %)    | 30 (10.9 %)            | 0.2346      |
+| 011 (Body)    |        6 | 276 | 33 (12.0 %)              | 228 (82.6 %)    | 15 (5.4 %)             | 0.0079      |
+
+A change in patient treatment plan was reported after administration of gadopiclenol at 0.1 mL/kg BW (equivalent to 0.05 mmol/kg BW) in 23.3 % and 30.1 % of patients in Study GDX-44-010 and Study GDX-44-011, respectively.
+
+Analysis per subgroups in Study GDX-44-010 revealed that treatment plan could be changed for 64 % of the 22 patients for whom the investigator considered that diagnosis was not assessable (or grade of glial tumor could not be determined) based on unenhanced MRI, 28 % of 81 patients with malignant diagnosis and about 12 % of 111 patients with non-malignant diagnosis.
+
+In Study GDX-44-011, treatment plan could be changed after MRI with gadopiclenol for 41 % of the 22 patients with non-assessable diagnosis based on unenhanced MRI, 32 % of 165 patients with malignant diagnosis and 14 % of 64 patients with non-malignant diagnosis.
 
 A post-hoc reading of all images from both pivotal studies for CNS and Body indications was conducted in a fully blinded, unpaired, randomised manner . A high level of concordance in lesion detectability between gadopiclenol at 0.05 mmol/kg and gadobutrol at 0.1 mmol/kg was observed at lesion and at patient level. The results are summarized in Table 6 below.
 
 Table 6: Concordance in lesion detectability between gadopiclenol at 0.05 mmol/kg and gadobutrol at 0.1 mmol/kg
 
-|                        | Perfect match at lesion level*   | Perfect match at patient level*   |
-|------------------------|----------------------------------|-----------------------------------|
-| Study 1 (CNS)          | 88.0% to 89.8%                   | 84.3% to 86.0%                    |
-| Study 2 (Body) overall | 92.3% to 95.5%                   | 81.3% to 85.0%                    |
-| Head & Neck            | 89.5% to 100%                    | 70.6% to 94.1%                    |
-| Thorax                 | 88.3% to 93.2%                   | 69.8% to 73.2%                    |
-| Pelvis                 | 91.7% to 100%                    | 87.5% to 94.6%                    |
-| Abdomen                | 94.6% to 95.2%                   | 84.0% to 87.2%                    |
-| Musculoskeletal        | 100%                             | 100%                              |
+|                                 | Perfect match at lesion level*   | Perfect match at patient level*   |
+|---------------------------------|----------------------------------|-----------------------------------|
+| Study GDX-44-010 (CNS)          | 88.0% to 89.8%                   | 84.3% to 86.0%                    |
+| Study GDX-44-011 (Body) overall | 92.3% to 95.5%                   | 81.3% to 85.0%                    |
+| Head & Neck                     | 89.5% to 100%                    | 70.6% to 94.1%                    |
+| Thorax                          | 88.3% to 93.2%                   | 69.8% to 73.2%                    |
+| Pelvis                          | 91.7% to 100%                    | 87.5% to 94.6%                    |
+| Abdomen                         | 94.6% to 95.2%                   | 84.0% to 87.2%                    |
+| Musculoskeletal                 | 100%                             | 100%                              |
 
 ## Paediatric population
 
-One exploratory study (Study 3) with a single dose of gadopiclenol (0.1 mL/kg BW equivalent to 0.05 mmol/kg BW) included 80 paediatric patients aged 2 to 17 years old with 60 patients undergoing CNS MRI and 20 patients undergoing Body MRI.
+Two studies (Study GDX-44-007 and GDX-44-015) included 80 paediatric patients aged 2 to 17 years old and 36 neonates and infants less than 2 years old, who were administered a single dose of gadopiclenol (0.1 mL/kg BW, equivalent to 0.05 mmol/kg BW). Pre- and post-contrast-enhanced images were assessed for 78 patients undergoing MRI for CNS imaging, 34 patients for body imaging and 3 for blood vessels imaging.
 
 Diagnostic efficacy was evaluated and there was no difference among the paediatric age groups.
 
-The European Medicines Agency has deferred the obligation to submit the results of studies with Vueway in one or more subsets of the paediatric population in the detection and visualisation of disorders or lesions with suspected abnormal vascularity in various body regions for diagnostic purposes. (see section 4.2 for information on paediatric use).
+<div style=\"page-break-after: always\"></div>
 
 ## 5.2 Pharmacokinetic properties
 
@@ -378,8 +387,6 @@ The European Medicines Agency has deferred the obligation to submit the results 
 The absolute bioavailability of gadopiclenol (in humans) is 100%, as it is only administered via the intravenous route.
 
 After an intravenous dose of 0.1 to 0.2 mL/kg BW (equivalent respectively to 0.05 and 0.1 mmol/kg BW), the Cmax was 525 ± 70 mcg/mL and 992 ± 233 mcg/mL, respectively.
-
-<div style=\"page-break-after: always\"></div>
 
 The Cmax increased 1.1-fold, 1.1-fold and 1.4-fold and the AUCinf increased 1.5-fold, 2.5-fold and 8.7-fold in patients with mild, moderate and severe renal impairment, respectively after a dose of 0.2 mL/kg BW (equivalent to 0.1 mmol/kg BW).
 
@@ -407,13 +414,15 @@ The pharmacokinetic profile of gadopiclenol is linear in the studied dose range 
 
 ## Paediatric population
 
-One Phase II study (Study 3) with a single dose of gadopiclenol at 0.1 mL/kg BW (equivalent to 0.05 mmol/kg BW) was conducted and included 60 paediatric patients aged 2 to 17 years old undergoing CNS MRI.
-
-Individual parameters predicted from the population pharmacokinetic model and normalised by BW were similar between adults and children. The terminal half-life was 1.77 hour for age group 12-17 years old, 1.48 hour for age group 7-11 years old and 1.29 hour for age group 2-6 years old. The median clearance ranged from 0.08 L/h/kg (for age group 12-17 years old) to 0.12 l/h/kg (for age group 2-11 years old).
-
-The pharmacokinetics of gadopiclenol in children aged 2 to 17 years are comparable to the pharmacokinetics in adults.
+Two phase 2 studies (GDX-44-007 and GDX-44-015) included 80 paediatric patients aged 2 to 17 years old (60 in the CNS cohort were included in the PK analysis) and 36 aged less than 2 years. They all received a single dose of gadopiclenol at 0.1 mL/kg BW (equivalent to 0.05 mmol/kg BW).
 
 <div style=\"page-break-after: always\"></div>
+
+Individual parameters predicted from the latest population pharmacokinetic model and normalised by BW were similar between adults and children. The median clearance ranged from 0.08 L/h/kg (for age group 12-17 years old) to 0.12 l/h/kg (for age group 3-23 months old).
+
+The median terminal half-life was 1.78 hour for age group 12-17 years old, 1.61 hour for age group 7-11 years old, 1.75 hour for age group 2-6 years old, 1.45 hour for age group 3-23 months old and 2.10 for age group less than 3 months old.
+
+The pharmacokinetics of gadopiclenol in children years are comparable to the pharmacokinetics in adults.
 
 ## Renal impairment and dialysability
 
@@ -441,19 +450,21 @@ Juvenile animal toxicity studies have not revealed any relevant findings.
 
 ## 6.1 List of excipients
 
-Tetraxetan Trometamol Hydrochloric acid (for pH adjustment) Sodium hydroxide (for pH adjustment) Water for injections
+## Tetraxetan
+
+<div style=\"page-break-after: always\"></div>
+
+Trometamol Hydrochloric acid (for pH adjustment) Sodium hydroxide (for pH adjustment) Water for injections
 
 ## 6.2 Incompatibilities
 
 In the absence of compatibility studies, this medicinal product must not be mixed with other medicinal products.
 
-<div style=\"page-break-after: always\"></div>
-
 ## 6.3 Shelf life
 
 3 years.
 
-## For vials
+For vials
 
 Chemical and physical in-use stability has been demonstrated for 24 hours at up to 25 °C.
 
@@ -467,7 +478,7 @@ This medicinal product does not require any special storage conditions.
 
 For storage conditions after first opening of the medicinal product, see section 6.3.
 
-For pre-filled syringes
+## For pre-filled syringes
 
 Do not freeze.
 
@@ -475,11 +486,9 @@ Do not freeze.
 
 3 mL solution for injection in a 10 mL vial (glass type I) with elastomeric stopper in pack size of 1.
 
-7.5 mL solution for injection in a 10 mL vial (glass type I) with elastomeric stopper in pack sizes of 1 or 25.
-
-10 mL solution for injection in a 10 mL vial (glass type I) with elastomeric stopper in pack sizes of 1 or 25.
-
-15 mL solution for injection in a 20 mL vial (glass type I) with elastomeric stopper in pack sizes of 1 or 25.
+- 7.5 mL solution for injection in a 10 mL vial (glass type I) with elastomeric stopper in pack sizes of 1 or 25.
+- 10 mL solution for injection in a 10 mL vial (glass type I) with elastomeric stopper in pack sizes of 1 or 25.
+- 15 mL solution for injection in a 20 mL vial (glass type I) with elastomeric stopper in pack sizes of 1 or 25.
 
 30 mL solution for injection in a 50 mL vial (glass type I) with elastomeric stopper in pack size of 1.
 
@@ -487,11 +496,11 @@ Do not freeze.
 
 100 mL solution for injection in a 100 mL vial (glass type I) with elastomeric stopper in pack size of 1.
 
+<div style=\"page-break-after: always\"></div>
+
 7.5 mL, 10 mL or 15 mL of solution for injection in a 15 mL plastic (polypropylene) pre-filled syringe, graduated every 0.5 mL, without a needle, with an elastomeric (bromobutyl) plunger stopper and capped with an elastomeric (bromobutyl) tip cap. Pack size of 1 or a multipack containing 10 (10 packs of 1) prefilled syringes.
 
 7.5 mL, 10 mL or 15 mL of solution for injection in 15 a mL plastic (polypropylene) pre-filled syringe, graduated every 0.5 mL, with an elastomeric (bromobutyl) plunger stopper and capped with an elastomeric (bromobutyl) tip cap with administration set for manual injection (one extension line and one catheter) in pack size of 1.
-
-<div style=\"page-break-after: always\"></div>
 
 7.5 mL, 10 mL or 15 mL of solution for injection in 15 mL plastic (polypropylene) pre-filled syringe, graduated every 0.5 mL, with an elastomeric (bromobutyl) plunger stopper and capped with an elastomeric (bromobutyl) tip cap with administration set for Optistar Elite injector (one extension line, one catheter and one empty 60 mL plastic syringe) in pack size of 1.
 
@@ -531,6 +540,8 @@ Before connecting to the patient, prime completely the intravenous line and chec
 
 The dose volume accuracy has been checked and is conform to ISO 7886-1.
 
+<div style=\"page-break-after: always\"></div>
+
 The delivered dose accuracy for 15 mL syringes, graduated every 0.5 mL, depends on the injected volume. For a volume range of 5 to 15 mL, it may vary up to ± 0.6 mL.
 
 When used with a power injector, follow injector instructions for use.
@@ -538,8 +549,6 @@ When used with a power injector, follow injector instructions for use.
 Any unused product should be discarded at the end of the examination session.
 
 The peel-off tracking label available on the vial or the pre-filled syringe should be stuck onto the patient record to enable accurate recording of the gadolinium contrast agent used. The dose used should also be recorded. If electronic patient records are used, the name of the product, the batch number and the dose should be entered into the patient record.
-
-<div style=\"page-break-after: always\"></div>
 
 Any unused portions and waste material derived from disposal and items which come into contact with the product when administering this product with an automatic application system should be disposed of in accordance with local requirements.
 
@@ -558,8 +567,6 @@ Date of first authorisation: 07 December 2023
 ## 10. DATE OF REVISION OF THE TEXT
 
 Detailed information on this medicinal product is available on the website of the European Medicines Agency https://www.ema.europa.eu
-
-15
 
 <div style=\"page-break-after: always\"></div>
 
@@ -1021,7 +1028,9 @@ This medicine is subject to additional monitoring. This will allow quick identif
 
 Vueway is a contrast agent which enhances the contrast of the images obtained during magnetic resonance imaging (MRI) examinations. Vueway contains the active substance gadopiclenol.
 
-It improves the visualisation and delineation of abnormal structures or lesions of certain parts of the body and helps in the differentiation between healthy and diseased tissue. It is used in adults and children (2 years of age and older).
+It improves the visualisation and delineation of abnormal structures or lesions of certain parts of the body and helps in the differentiation between healthy and diseased tissue.
+
+It is used in adults and children from birth.
 
 It is given as an injection into your vein. This medicine is for diagnostic use only and will only be administered by healthcare professionals experienced in the field of clinical MRI practice.
 
@@ -1047,6 +1056,10 @@ In all these cases, your doctor will decide whether the intended examination is 
 <div style=\"page-break-after: always\"></div>
 
 Your doctor or radiologist may decide to take a blood test to check how well your kidneys are working before making the decision to use Vueway, especially if you are 65 years of age or older.
+
+## Children
+
+As kidney function is immature in babies up to 4 weeks of age and infants up to 1 year of age, Vueway will only be used in these patients after careful consideration by the doctor.
 
 ## Other medicines and Vueway
 
@@ -1076,7 +1089,7 @@ This medicine contains less than 1 mmol sodium (23 mg) per 15 mL vial, that is t
 
 Vueway will be injected into your vein using a small needle by a specialised healthcare professional. It can be administered by hand or by an automatic injector.
 
-Your doctor or radiologist will determine the dose you will receive and supervise the injection. The usual dose of 0.1 mL/kg body weight is the same in adults and children of 2 years and older.
+Your doctor or radiologist will determine the dose you will receive and supervise the injection. The usual dose of 0.1 mL/kg body weight is the same in adults and children.
 
 In children, your doctor or radiologist will use Vueway in vials with a single use syringe to be able to have a better precision of the injected volume.
 
@@ -1086,11 +1099,15 @@ After the injection, you will be kept under supervision for at least 30 minutes.
 
 The use of Vueway is not recommended in patients with severe kidney problems. However, if it is required you should only receive one dose of Vueway during a scan and you should not receive a second injection for at least 7 days.
 
+<div style=\"page-break-after: always\"></div>
+
+## Use in children
+
+As kidney function is immature in babies up to 4 weeks of age and infants up to 1 year of age, Vueway will only be used in these patients after careful consideration by the doctor. Children should only receive one dose of Vueway during a scan and should not receive a second injection for at least 7 days.
+
 ## Use in elderly
 
 It is not necessary to adjust your dose if you are 65 years of age or older, but you may have a blood test to check how well your kidneys are working.
-
-<div style=\"page-break-after: always\"></div>
 
 ## If you receive more Vueway than you should
 
@@ -1119,13 +1136,13 @@ Possible side effects which have been observed during clinical trials with Vuewa
 | Common (may affect up to 1 in 10 people)    | Injection site reaction* Headache                                                                                                                         |
 | Uncommon (may affect up to 1 in 100 people) | Allergic reaction** Diarrhoea Nausea (feeling sick) Fatigue (tiredness) Abdominal pain Unusual taste in the mouth Feeling of warmth Vomiting (being sick) |
 
+<div style=\"page-break-after: always\"></div>
+
 There have been reports of nephrogenic systemic fibrosis (NSF) (which causes hardening of the skin and may affect also soft tissue and internal organs) with other contrast agent containing gadolinium however no NSF case has been reported with Vueway during the clinical trials.
 
 ## Reporting of side effects
 
 If you get any side effects, talk to your doctor or pharmacist. This includes any possible side effects not listed in this leaflet. You can also report side effects directly via the national reporting system listed in Appendix V. By reporting side effects you can help provide more information on the safety of this medicine.
-
-<div style=\"page-break-after: always\"></div>
 
 ## 5. How to store Vueway
 
@@ -1137,7 +1154,7 @@ This medicine is a clear, colorless to pale yellow solution. Do not use this med
 
 For vials: This medicine does not require any special storage conditions. Chemical and physical in-use stability has been demonstrated for 24 hours at up to 25 °C. From a microbiological point of view, the product should be used immediately after opening.
 
-For pre-filled syringes: Do not freeze.
+## For pre-filled syringes: Do not freeze.
 
 Do not throw away any medicines via wastewater or household waste. Ask your pharmacist how to throw away medicines you no longer use. These measures will help protect the environment.
 
@@ -1163,9 +1180,7 @@ It is available in packs including:
 
 Not all pack sizes may be marketed.
 
-## Marketing Authorisation Holder
-
-Bracco Imaging SPA Via Egidio Folli, 50 20134 Milan Italy
+Marketing Authorisation Holder Bracco Imaging SPA Via Egidio Folli, 50 20134 Milan Italy
 
 ## Manufacturer
 
@@ -1175,16 +1190,28 @@ BIPSO GmbH, Robert-Gerwig-Strasse 4 Singen (Hohentwiel) 78224, Germany
 
 Bracco Imaging S.p.A. Bioindustry Park, Via Ribes 5 10010 Colleretto Giacosa (TO) Italy
 
-This leaflet was last revised in
+## This leaflet was last revised in
 
-Other sources of information
+## Other sources of information
 
-Detailed information on this medicine is available on the European Medicines Agency web site: http://www.ema.europa.eu.
+Detailed information on this medicine is available on the European Medicines Agency web site: https://www.ema.europa.eu.
 
 &lt;------------------------------------------------------------------------------------------------------------------------&gt;
 
+<div style=\"page-break-after: always\"></div>
+
 The following information is intended for healthcare professionals only:
+
+For details on how to use the product, please refer to the section 6.6 Special precautions for disposal and other handling of the Summary of Product Characteristics of this product.
 
 <div style=\"page-break-after: always\"></div>
 
-For details on how to use the product, please refer to the section 6.6 Special precautions for disposal and other handling of the Summary of Product Characteristics of this product.
+## Annex IV Conclusions on the request for one-year marketing protection presented by the European Medicines Agency
+
+<div style=\"page-break-after: always\"></div>
+
+## Conclusions presented by the European Medicines Agency on:
+
+## · one-year marketing protection
+
+The CHMP reviewed the data submitted by the marketing authorisation holder, taking into account the provisions of Article 14(11) of Regulation (EC) No 726/2004, and considers that the new therapeutic indication brings significant clinical benefit in comparison with existing therapies as further explained in the European Public Assessment Report.

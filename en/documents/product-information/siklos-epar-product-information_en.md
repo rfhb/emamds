@@ -1,18 +1,18 @@
 ---
-document_datetime: 2025-11-26 11:45:12
+document_datetime: 2026-02-11 16:04:01
 document_pages: 32
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/siklos-epar-product-information_en.pdf
 document_name: siklos-epar-product-information_en.pdf
 version: success
-processing_time: 7.4495375
-conversion_datetime: 2025-12-20 15:55:11.078291
+processing_time: 7.6076718
+conversion_datetime: 2026-02-13 18:59:44.853674
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.64.1
-  docling-core: 2.55.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.12.0
+  docling-jobkit: 1.10.2
+  docling: 2.73.1
+  docling-core: 2.65.1
+  docling-ibm-models: 3.11.0
+  docling-parse: 4.7.3
   python: cpython-313 (3.13.11)
   plaform: macOS-26.2-arm64-arm-64bit-Mach-O
 ---
@@ -1055,9 +1055,9 @@ France
 
 For any information about this medicine, please contact the local representative of the Marketing Authorisation Holder:
 
-België/Belgique/Belgien THERAVIA Tél/Tel: +32(0) 2 808 2973
+België/Belgique/Belgien Norgine N.V./S.A. Tél/Tel: +32 16 39 27 43 medinfo@norgine.com
 
-Lietuva THERAVIA 16 Rue Montrosier 92200 Neuilly-sur-Seine - Prancūzija
+Lietuva THERAVIA 16 Rue Montrosier 92200 Neuilly-sur-Seine Prancūzija
 
 <div style=\"page-break-after: always\"></div>
 
@@ -1085,11 +1085,11 @@ THERAVIA 16 Rue Montrosier 92200 Neuilly-sur-Seine - Prantsusmaa Tel: +33 (0)1 7
 
 ## Ελλάδα
 
-Specialty Therapeutics IKE Τηλ: +30 213 02 33 913
+Specialty Therapeutics IKE Τηλ : +30 213 02 33 913
 
 ## España
 
-Abacus Medicine A/S Tel: +34 910605214
+Norgine de España, S.L.U. Tel: +34 913275320 medinfo@norgine.com
 
 ## France
 
@@ -1103,13 +1103,9 @@ Tel: +33 (0)1 72 69 01 86
 
 ## Luxembourg/Luxemburg
 
-THERAVIA
+Norgine N.V./S.A. Tél/Tel: +32 16 39 27 43 medinfo@norgine.com
 
-Tél/Tel: +352 27 86 23 29
-
-## Magyarország
-
-THERAVIA 16 Rue Montrosier 92200 Neuilly-sur-Seine - Franciaország Tel.: +33 (0)1 72 69 01 86
+Magyarország THERAVIA 16 Rue Montrosier 92200 Neuilly-sur-Seine - Franciaország Tel.: +33 (0)1 72 69 01 86
 
 ## Malta
 
@@ -1117,9 +1113,7 @@ THERAVIA 16 Rue Montrosier 92200 Neuilly-sur-Seine - Franza Tel: +33 (0)1 72 69 
 
 ## Nederland
 
-THERAVIA
-
-Tel: +31 (0) 20 208 2161
+Norgine Pharma B.V. Tel: +31 20 567 0998 medinfo@norgine.com
 
 ## Norge
 
@@ -1135,7 +1129,7 @@ THERAVIA 16 Rue Montrosier 92200 Neuilly-sur-Seine - Francja Tel: +33 (0)1 72 69
 
 ## Portugal
 
-Abacus Medicine A/S Tel: +34 910605214
+Norgine Portugal Farmacêutica Unipessoal, Lda. Tel:+35 1218945581 medinfo@norgine.com
 
 ## România
 

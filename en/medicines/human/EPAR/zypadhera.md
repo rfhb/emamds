@@ -1,21 +1,97 @@
 ---
-document_datetime: 2026-01-26 11:45:00
+document_datetime: 2026-02-09 16:25:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/zypadhera.html
 document_name: zypadhera.html
 version: success
-processing_time: 0.2971916
-conversion_datetime: 2026-01-29 12:02:19.204198
+processing_time: 0.1196762
+conversion_datetime: 2026-02-13 18:53:07.889517
 docling_version:
-  docling-serve: 1.11.0
-  docling-jobkit: 1.9.0
-  docling: 2.70.0
-  docling-core: 2.61.0
+  docling-serve: 1.12.0
+  docling-jobkit: 1.10.2
+  docling: 2.73.1
+  docling-core: 2.65.1
   docling-ibm-models: 3.11.0
   docling-parse: 4.7.3
   python: cpython-313 (3.13.11)
   plaform: macOS-26.2-arm64-arm-64bit-Mach-O
 ---
+# Search
+
+- [Medicines](/en/medicines)
+    - [Find medicine](/en/medicines)
+    - [Therapeutic areas: latest updates](/en/medicines/therapeutic-areas-latest-updates)
+    - [Download medicine data](/en/medicines/download-medicine-data)
+    - [What we publish on medicines and when](/en/medicines/what-we-publish-medicines-when)
+    - [Medicines under evaluation](/en/medicines/medicines-human-use-under-evaluation)
+    - [National registers](/en/medicines/national-registers-authorised-medicines)
+- [Human regulatory](/en/human-regulatory-overview)
+    - [Overview](/en/human-regulatory-overview)
+    - [Research and development](/en/human-regulatory-overview/research-development)
+    - [Marketing authorisation](/en/human-regulatory-overview/marketing-authorisation)
+    - [Post-authorisation](/en/human-regulatory-overview/post-authorisation)
+    - [Medical devices](/en/human-regulatory-overview/medical-devices)
+    - [Herbal products](/en/human-regulatory-overview/herbal-medicinal-products)
+- [Veterinary regulatory](/en/veterinary-regulatory-overview)
+    - [Overview](/en/veterinary-regulatory-overview)
+    - [Research and development](/en/veterinary-regulatory-overview/research-development-veterinary-medicines)
+    - [Marketing authorisation](/en/veterinary-regulatory-overview/marketing-authorisation-veterinary-medicines)
+    - [Post-authorisation](/en/veterinary-regulatory-overview/post-authorisation-veterinary-medicines)
+- [Committees](/en/committees)
+    - [Overview](/en/committees)
+    - [How the committees work](/en/committees/how-committees-work)
+    - [CHMP](/en/committees/committee-medicinal-products-human-use-chmp)
+    - [CVMP](/en/committees/committee-veterinary-medicinal-products-cvmp)
+    - [PRAC](/en/committees/pharmacovigilance-risk-assessment-committee-prac)
+    - [COMP](/en/committees/committee-orphan-medicinal-products-comp)
+    - [HMPC](/en/committees/committee-herbal-medicinal-products-hmpc)
+    - [CAT](/en/committees/committee-advanced-therapies-cat)
+    - [PDCO](/en/committees/paediatric-committee-pdco)
+    - [Working parties and other groups](/en/committees/working-parties-other-groups)
+- [News &amp; events](/en/news-events)
+    - [Overview](/en/news-events)
+    - [News](/en/news)
+    - [Events](/en/events/upcoming-events)
+    - [What's new](/en/news-events/whats-new)
+    - [Committee highlights](/en/news-events/committee-highlights)
+    - [Publications](/en/news-and-events/publications)
+    - [Press and social media](/en/news-events/press-social-media)
+    - [Podcast: Inside EMA](/en/news-events/podcast-inside-ema)
+    - [Open consultations](/en/news-events/open-consultations)
+    - [RSS feeds](/en/news-events/rss-feeds)
+- [Partners &amp; networks](/en/partners-networks)
+    - [Overview](/en/partners-networks)
+    - [EU partners](/en/partners-networks/eu-partners)
+    - [International activities](/en/partners-networks/international-activities)
+    - [Patients and consumers](/en/partners-networks/patients-consumers)
+    - [Healthcare professionals](/en/partners-networks/healthcare-professionals)
+    - [Academia](/en/partners-networks/academia)
+    - [Pharmaceutical industry](/en/partners-networks/pharmaceutical-industry)
+    - [Networks](/en/partners-networks/networks)
+    - [Health technology assessment bodies](/en/partners-networks/health-technology-assessment-bodies)
+    - [One Health approach](/en/partners-networks/one-health-approach)
+    - [Animal health practitioners](/en/partners-networks/animal-health-practitioners)
+    - [One substance - one assessment](/en/partners-networks/one-substance-one-assessment-osoa-eu-collaboration-chemicals-related-data)
+- [About us](/en/about-us)
+    - [Overview](/en/about-us)
+    - [What we do](/en/about-us/what-we-do)
+    - [Who we are](/en/about-us/who-we-are)
+    - [How we work](/en/about-us/how-we-work)
+    - [Fees](/en/about-us/fees-payable-european-medicines-agency)
+    - [Support to SMEs](/en/about-us/support-smes)
+    - [Annual reports and work programmes](/en/about-us/annual-reports-work-programmes)
+    - [History of EMA](/en/about-us/history-ema)
+    - [Careers](/en/about-us/careers)
+    - [Procurement](/en/about-us/procurement-grants)
+    - [Glossaries](/en/about-us/glossaries)
+    - [About this website](/en/about-us/about-website)
+    - [Data protection and privacy](/en/about-us/data-protection-privacy-ema)
+    - [Contacts](/en/about-us/contacts-european-medicines-agency)
+
+1. [Home](/en/homepage)
+2. [Medicines](https://www.ema.europa.eu/en/medicines)
+3. Zypadhera
+
 # Zypadhera
 
 [RSS](/en/individual-human-medicine.xml/66024)
@@ -120,7 +196,7 @@ English (EN) (63.01 KB - PDF)
 
 [View](/en/documents/overview/zypadhera-epar-summary-public_en.pdf)
 
-[Other languages (21)](#file-language-dropdown-867)
+[Other languages (21)](#file-language-dropdown-7)
 
 български (BG) (98.63 KB - PDF)
 
@@ -386,17 +462,17 @@ English (EN) (14.06 MB - PDF)
 
 Zypadhera : EPAR - Product Information
 
-English (EN) (655.45 KB - PDF)
+English (EN) (655.42 KB - PDF)
 
 **First published:** 05/01/2009
 
-**Last updated:** 14/11/2025
+**Last updated:** 09/02/2026
 
 [View](/en/documents/product-information/zypadhera-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-250)
+[Other languages (24)](#file-language-dropdown-823)
 
-български (BG) (821.86 KB - PDF)
+български (BG) (819 KB - PDF)
 
 **First published:**
 
@@ -404,11 +480,11 @@ English (EN) (655.45 KB - PDF)
 
 **Last updated:**
 
-14/11/2025
+09/02/2026
 
 [View](/bg/documents/product-information/zypadhera-epar-product-information_bg.pdf)
 
-español (ES) (740.23 KB - PDF)
+español (ES) (736.94 KB - PDF)
 
 **First published:**
 
@@ -416,11 +492,11 @@ español (ES) (740.23 KB - PDF)
 
 **Last updated:**
 
-14/11/2025
+09/02/2026
 
 [View](/es/documents/product-information/zypadhera-epar-product-information_es.pdf)
 
-čeština (CS) (741.84 KB - PDF)
+čeština (CS) (741.72 KB - PDF)
 
 **First published:**
 
@@ -428,11 +504,11 @@ español (ES) (740.23 KB - PDF)
 
 **Last updated:**
 
-14/11/2025
+09/02/2026
 
 [View](/cs/documents/product-information/zypadhera-epar-product-information_cs.pdf)
 
-dansk (DA) (663.08 KB - PDF)
+dansk (DA) (663.07 KB - PDF)
 
 **First published:**
 
@@ -440,11 +516,11 @@ dansk (DA) (663.08 KB - PDF)
 
 **Last updated:**
 
-14/11/2025
+09/02/2026
 
 [View](/da/documents/product-information/zypadhera-epar-product-information_da.pdf)
 
-Deutsch (DE) (731.67 KB - PDF)
+Deutsch (DE) (731.27 KB - PDF)
 
 **First published:**
 
@@ -452,11 +528,11 @@ Deutsch (DE) (731.67 KB - PDF)
 
 **Last updated:**
 
-14/11/2025
+09/02/2026
 
 [View](/de/documents/product-information/zypadhera-epar-product-information_de.pdf)
 
-eesti keel (ET) (648.49 KB - PDF)
+eesti keel (ET) (649.05 KB - PDF)
 
 **First published:**
 
@@ -464,11 +540,11 @@ eesti keel (ET) (648.49 KB - PDF)
 
 **Last updated:**
 
-14/11/2025
+09/02/2026
 
 [View](/et/documents/product-information/zypadhera-epar-product-information_et.pdf)
 
-ελληνικά (EL) (855.11 KB - PDF)
+ελληνικά (EL) (852.35 KB - PDF)
 
 **First published:**
 
@@ -476,11 +552,11 @@ eesti keel (ET) (648.49 KB - PDF)
 
 **Last updated:**
 
-14/11/2025
+09/02/2026
 
 [View](/el/documents/product-information/zypadhera-epar-product-information_el.pdf)
 
-français (FR) (664.79 KB - PDF)
+français (FR) (664.75 KB - PDF)
 
 **First published:**
 
@@ -488,11 +564,11 @@ français (FR) (664.79 KB - PDF)
 
 **Last updated:**
 
-14/11/2025
+09/02/2026
 
 [View](/fr/documents/product-information/zypadhera-epar-product-information_fr.pdf)
 
-hrvatski (HR) (754.31 KB - PDF)
+hrvatski (HR) (762.73 KB - PDF)
 
 **First published:**
 
@@ -500,11 +576,11 @@ hrvatski (HR) (754.31 KB - PDF)
 
 **Last updated:**
 
-14/11/2025
+09/02/2026
 
 [View](/hr/documents/product-information/zypadhera-epar-product-information_hr.pdf)
 
-íslenska (IS) (656.78 KB - PDF)
+íslenska (IS) (656.17 KB - PDF)
 
 **First published:**
 
@@ -512,11 +588,11 @@ hrvatski (HR) (754.31 KB - PDF)
 
 **Last updated:**
 
-14/11/2025
+09/02/2026
 
 [View](/is/documents/product-information/zypadhera-epar-product-information_is.pdf)
 
-italiano (IT) (661.18 KB - PDF)
+italiano (IT) (661.08 KB - PDF)
 
 **First published:**
 
@@ -524,11 +600,11 @@ italiano (IT) (661.18 KB - PDF)
 
 **Last updated:**
 
-14/11/2025
+09/02/2026
 
 [View](/it/documents/product-information/zypadhera-epar-product-information_it.pdf)
 
-latviešu valoda (LV) (726.4 KB - PDF)
+latviešu valoda (LV) (726.98 KB - PDF)
 
 **First published:**
 
@@ -536,11 +612,11 @@ latviešu valoda (LV) (726.4 KB - PDF)
 
 **Last updated:**
 
-14/11/2025
+09/02/2026
 
 [View](/lv/documents/product-information/zypadhera-epar-product-information_lv.pdf)
 
-lietuvių kalba (LT) (640.77 KB - PDF)
+lietuvių kalba (LT) (641.11 KB - PDF)
 
 **First published:**
 
@@ -548,11 +624,11 @@ lietuvių kalba (LT) (640.77 KB - PDF)
 
 **Last updated:**
 
-14/11/2025
+09/02/2026
 
 [View](/lt/documents/product-information/zypadhera-epar-product-information_lt.pdf)
 
-magyar (HU) (795.13 KB - PDF)
+magyar (HU) (803.64 KB - PDF)
 
 **First published:**
 
@@ -560,11 +636,11 @@ magyar (HU) (795.13 KB - PDF)
 
 **Last updated:**
 
-14/11/2025
+09/02/2026
 
 [View](/hu/documents/product-information/zypadhera-epar-product-information_hu.pdf)
 
-Malti (MT) (776.5 KB - PDF)
+Malti (MT) (777.19 KB - PDF)
 
 **First published:**
 
@@ -572,11 +648,11 @@ Malti (MT) (776.5 KB - PDF)
 
 **Last updated:**
 
-14/11/2025
+09/02/2026
 
 [View](/mt/documents/product-information/zypadhera-epar-product-information_mt.pdf)
 
-Nederlands (NL) (692.29 KB - PDF)
+Nederlands (NL) (692.67 KB - PDF)
 
 **First published:**
 
@@ -584,11 +660,11 @@ Nederlands (NL) (692.29 KB - PDF)
 
 **Last updated:**
 
-14/11/2025
+09/02/2026
 
 [View](/nl/documents/product-information/zypadhera-epar-product-information_nl.pdf)
 
-norsk (NO) (641.09 KB - PDF)
+norsk (NO) (640.25 KB - PDF)
 
 **First published:**
 
@@ -596,11 +672,11 @@ norsk (NO) (641.09 KB - PDF)
 
 **Last updated:**
 
-14/11/2025
+09/02/2026
 
 [View](/no/documents/product-information/zypadhera-epar-product-information_no.pdf)
 
-polski (PL) (809.59 KB - PDF)
+polski (PL) (809.81 KB - PDF)
 
 **First published:**
 
@@ -608,11 +684,11 @@ polski (PL) (809.59 KB - PDF)
 
 **Last updated:**
 
-14/11/2025
+09/02/2026
 
 [View](/pl/documents/product-information/zypadhera-epar-product-information_pl.pdf)
 
-português (PT) (630.98 KB - PDF)
+português (PT) (631 KB - PDF)
 
 **First published:**
 
@@ -620,11 +696,11 @@ português (PT) (630.98 KB - PDF)
 
 **Last updated:**
 
-14/11/2025
+09/02/2026
 
 [View](/pt/documents/product-information/zypadhera-epar-product-information_pt.pdf)
 
-română (RO) (772.78 KB - PDF)
+română (RO) (772.7 KB - PDF)
 
 **First published:**
 
@@ -632,11 +708,11 @@ română (RO) (772.78 KB - PDF)
 
 **Last updated:**
 
-14/11/2025
+09/02/2026
 
 [View](/ro/documents/product-information/zypadhera-epar-product-information_ro.pdf)
 
-slovenčina (SK) (738.1 KB - PDF)
+slovenčina (SK) (737.97 KB - PDF)
 
 **First published:**
 
@@ -644,11 +720,11 @@ slovenčina (SK) (738.1 KB - PDF)
 
 **Last updated:**
 
-14/11/2025
+09/02/2026
 
 [View](/sk/documents/product-information/zypadhera-epar-product-information_sk.pdf)
 
-slovenščina (SL) (769.96 KB - PDF)
+slovenščina (SL) (770.86 KB - PDF)
 
 **First published:**
 
@@ -656,11 +732,11 @@ slovenščina (SL) (769.96 KB - PDF)
 
 **Last updated:**
 
-14/11/2025
+09/02/2026
 
 [View](/sl/documents/product-information/zypadhera-epar-product-information_sl.pdf)
 
-Suomi (FI) (611.38 KB - PDF)
+Suomi (FI) (611.1 KB - PDF)
 
 **First published:**
 
@@ -668,11 +744,11 @@ Suomi (FI) (611.38 KB - PDF)
 
 **Last updated:**
 
-14/11/2025
+09/02/2026
 
 [View](/fi/documents/product-information/zypadhera-epar-product-information_fi.pdf)
 
-svenska (SV) (627.41 KB - PDF)
+svenska (SV) (626.7 KB - PDF)
 
 **First published:**
 
@@ -680,7 +756,7 @@ svenska (SV) (627.41 KB - PDF)
 
 **Last updated:**
 
-14/11/2025
+09/02/2026
 
 [View](/sv/documents/product-information/zypadhera-epar-product-information_sv.pdf)
 
@@ -710,7 +786,7 @@ English (EN) (58.89 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/zypadhera-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-449)
+[Other languages (24)](#file-language-dropdown-127)
 
 български (BG) (55.16 KB - PDF)
 
@@ -1010,7 +1086,7 @@ English (EN) (30.64 KB - PDF)
 
 [View](/en/documents/conditions-member-states/zypadhera-epar-conditions-imposed-member-states-safe-and-effective-use-annex-iv_en.pdf)
 
-[Other languages (21)](#file-language-dropdown-527)
+[Other languages (21)](#file-language-dropdown-905)
 
 български (BG) (92.42 KB - PDF)
 
@@ -1296,9 +1372,11 @@ Collapse section
 
 Zypadhera : EPAR - Procedural steps taken and scientific information after authorisation
 
-English (EN) (227.46 KB - PDF)
+English (EN) (257.78 KB - PDF)
 
 **First published:** 14/11/2025
+
+**Last updated:** 09/02/2026
 
 [View](/en/documents/procedural-steps-after/zypadhera-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf)
 
@@ -1363,7 +1441,7 @@ English (EN) (37.03 KB - PDF)
 - [Zypadhera - direct healthcare professional communication (DHPC)](/en/medicines/dhpc/zypadhera)
 - [Zypadhera - supply shortage](/en/medicines/human/shortages/zypadhera)
 
-**This page was last updated on** 26/01/2026
+**This page was last updated on** 09/02/2026
 
 ## Share this page
 

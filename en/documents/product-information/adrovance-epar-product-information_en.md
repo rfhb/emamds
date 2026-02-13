@@ -1,18 +1,18 @@
 ---
-document_datetime: 2024-07-18 12:37:15
+document_datetime: 2026-02-12 15:06:57
 document_pages: 36
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/adrovance-epar-product-information_en.pdf
 document_name: adrovance-epar-product-information_en.pdf
 version: success
-processing_time: 7.4600615
-conversion_datetime: 2025-12-25 11:23:04.043327
+processing_time: 9.5055732
+conversion_datetime: 2026-02-13 18:46:48.176067
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.66.0
-  docling-core: 2.57.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.12.0
+  docling-jobkit: 1.10.2
+  docling: 2.73.1
+  docling-core: 2.65.1
+  docling-ibm-models: 3.11.0
+  docling-parse: 4.7.3
   python: cpython-313 (3.13.11)
   plaform: macOS-26.2-arm64-arm-64bit-Mach-O
 ---
@@ -68,7 +68,7 @@ ADROVANCE is indicated for the treatment of postmenopausal osteoporosis in women
 
 ## 4.2 Posology and method of administration
 
-Posology
+## Posology
 
 The recommended dose is one tablet once weekly.
 
@@ -1148,11 +1148,11 @@ Organon Belgium Tél/Tel: 0080066550123 (+32 2 2418100) dpoc.benelux@organon.com
 
 ## Česká republika
 
-Organon Czech Republic s.r.o. Tel: +420 233 010 300 dpoc.czech@organon.com
+Organon Czech Republic s.r.o. Tel: +420 277 051 010 dpoc.czech@organon.com
 
 ## Danmark
 
-Organon Denmark ApS Tlf: +45 4484 6800 info.denmark@organon.com
+Organon Denmark ApS Tlf: +45 4484 6800 dpoc.dk.is@organon.com
 
 ## Deutschland
 
@@ -1198,7 +1198,7 @@ N.V. Organon Tel.: 00800 66550123 (+32 2 2418100) dpoc.benelux@organon.com
 
 Organon Norway AS Tlf: +47 24 14 56 60
 
-info.norway@organon.com
+dpoc.norway@organon.com
 
 ## Österreich
 
@@ -1206,7 +1206,7 @@ Organon Healthcare GmbH Tel: +49 (0) 89 2040022 10 dpoc.austria@organon.com
 
 ## Polska
 
-Organon Polska Sp. z o.o. Tel.: +48 22 105 50 01 organonpolska@organon.com
+Organon Polska Sp. z o.o. Tel.: +48 22 306 57 64 dpoc.poland@organon.com
 
 ## Portugal
 
@@ -1228,13 +1228,17 @@ Organon Pharma (Ireland) Limited Tel: +353 15828260 medinfo.ROI@organon.com
 
 ## Ísland
 
-Vistor hf.
+Vistor ehf.
 
 Sími: +354 535 7000
 
 ## Ιtalia
 
-Addenda Pharma S.r.l., Tel: +39-06-9139 3303 addendapharma@legalmail.it
+Addenda Pharma S.r.l.,
+
+Tel: +39-06-9139 3303
+
+addendapharma@legalmail.it
 
 ## Κύπρος
 
@@ -1242,7 +1246,9 @@ Organon Pharma B.V., Cyprus branch Τηλ: +357 22866730 dpoc.cyprus@organon.com
 
 ## Latvija
 
-Ārvalsts komersanta 'Organon Pharma B.V.' pārstāvniecība Tel: +371 66968876 dpoc.latvia@organon.com
+Ārvalsts komersanta 'Organon Pharma B.V.'
+
+pārstāvniecība Tel: +371 66968876 dpoc.latvia@organon.com
 
 ## This leaflet was last revised in &lt;{MM/YYYY}&gt;
 
@@ -1274,8 +1280,6 @@ Organon Finland Oy Puh/Tel: +358 (0) 29 170 3520 dpoc.finland@organon.com
 
 ## Sverige
 
-Organon Sweden AB Tel: +46 8 502 597 00 dpoc.sweden@organon.com
+Organon Sweden AB Tel: +46 8 502 597 00
 
-## United Kingdom (Northern Ireland)
-
-Organon Pharma (UK) Limited Tel: +44 (0) 208 159 3593 medicalinformationuk@organon.com
+dpoc.sweden@organon.com

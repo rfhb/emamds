@@ -1,21 +1,97 @@
 ---
-document_datetime: 2025-12-29 11:27:55
+document_datetime: 2026-02-11 10:55:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/plegridy.html
 document_name: plegridy.html
 version: success
-processing_time: 0.1184246
-conversion_datetime: 2025-12-30 00:06:57.136065
+processing_time: 0.1120332
+conversion_datetime: 2026-02-13 18:28:00.963171
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.66.0
-  docling-core: 2.57.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.12.0
+  docling-jobkit: 1.10.2
+  docling: 2.73.1
+  docling-core: 2.65.1
+  docling-ibm-models: 3.11.0
+  docling-parse: 4.7.3
   python: cpython-313 (3.13.11)
   plaform: macOS-26.2-arm64-arm-64bit-Mach-O
 ---
+# Search
+
+- [Medicines](/en/medicines)
+    - [Find medicine](/en/medicines)
+    - [Therapeutic areas: latest updates](/en/medicines/therapeutic-areas-latest-updates)
+    - [Download medicine data](/en/medicines/download-medicine-data)
+    - [What we publish on medicines and when](/en/medicines/what-we-publish-medicines-when)
+    - [Medicines under evaluation](/en/medicines/medicines-human-use-under-evaluation)
+    - [National registers](/en/medicines/national-registers-authorised-medicines)
+- [Human regulatory](/en/human-regulatory-overview)
+    - [Overview](/en/human-regulatory-overview)
+    - [Research and development](/en/human-regulatory-overview/research-development)
+    - [Marketing authorisation](/en/human-regulatory-overview/marketing-authorisation)
+    - [Post-authorisation](/en/human-regulatory-overview/post-authorisation)
+    - [Medical devices](/en/human-regulatory-overview/medical-devices)
+    - [Herbal products](/en/human-regulatory-overview/herbal-medicinal-products)
+- [Veterinary regulatory](/en/veterinary-regulatory-overview)
+    - [Overview](/en/veterinary-regulatory-overview)
+    - [Research and development](/en/veterinary-regulatory-overview/research-development-veterinary-medicines)
+    - [Marketing authorisation](/en/veterinary-regulatory-overview/marketing-authorisation-veterinary-medicines)
+    - [Post-authorisation](/en/veterinary-regulatory-overview/post-authorisation-veterinary-medicines)
+- [Committees](/en/committees)
+    - [Overview](/en/committees)
+    - [How the committees work](/en/committees/how-committees-work)
+    - [CHMP](/en/committees/committee-medicinal-products-human-use-chmp)
+    - [CVMP](/en/committees/committee-veterinary-medicinal-products-cvmp)
+    - [PRAC](/en/committees/pharmacovigilance-risk-assessment-committee-prac)
+    - [COMP](/en/committees/committee-orphan-medicinal-products-comp)
+    - [HMPC](/en/committees/committee-herbal-medicinal-products-hmpc)
+    - [CAT](/en/committees/committee-advanced-therapies-cat)
+    - [PDCO](/en/committees/paediatric-committee-pdco)
+    - [Working parties and other groups](/en/committees/working-parties-other-groups)
+- [News &amp; events](/en/news-events)
+    - [Overview](/en/news-events)
+    - [News](/en/news)
+    - [Events](/en/events/upcoming-events)
+    - [What's new](/en/news-events/whats-new)
+    - [Committee highlights](/en/news-events/committee-highlights)
+    - [Publications](/en/news-and-events/publications)
+    - [Press and social media](/en/news-events/press-social-media)
+    - [Podcast: Inside EMA](/en/news-events/podcast-inside-ema)
+    - [Open consultations](/en/news-events/open-consultations)
+    - [RSS feeds](/en/news-events/rss-feeds)
+- [Partners &amp; networks](/en/partners-networks)
+    - [Overview](/en/partners-networks)
+    - [EU partners](/en/partners-networks/eu-partners)
+    - [International activities](/en/partners-networks/international-activities)
+    - [Patients and consumers](/en/partners-networks/patients-consumers)
+    - [Healthcare professionals](/en/partners-networks/healthcare-professionals)
+    - [Academia](/en/partners-networks/academia)
+    - [Pharmaceutical industry](/en/partners-networks/pharmaceutical-industry)
+    - [Networks](/en/partners-networks/networks)
+    - [Health technology assessment bodies](/en/partners-networks/health-technology-assessment-bodies)
+    - [One Health approach](/en/partners-networks/one-health-approach)
+    - [Animal health practitioners](/en/partners-networks/animal-health-practitioners)
+    - [One substance - one assessment](/en/partners-networks/one-substance-one-assessment-osoa-eu-collaboration-chemicals-related-data)
+- [About us](/en/about-us)
+    - [Overview](/en/about-us)
+    - [What we do](/en/about-us/what-we-do)
+    - [Who we are](/en/about-us/who-we-are)
+    - [How we work](/en/about-us/how-we-work)
+    - [Fees](/en/about-us/fees-payable-european-medicines-agency)
+    - [Support to SMEs](/en/about-us/support-smes)
+    - [Annual reports and work programmes](/en/about-us/annual-reports-work-programmes)
+    - [History of EMA](/en/about-us/history-ema)
+    - [Careers](/en/about-us/careers)
+    - [Procurement](/en/about-us/procurement-grants)
+    - [Glossaries](/en/about-us/glossaries)
+    - [About this website](/en/about-us/about-website)
+    - [Data protection and privacy](/en/about-us/data-protection-privacy-ema)
+    - [Contacts](/en/about-us/contacts-european-medicines-agency)
+
+1. [Home](/en/homepage)
+2. [Medicines](https://www.ema.europa.eu/en/medicines)
+3. Plegridy
+
 # Plegridy
 
 [RSS](/en/individual-human-medicine.xml/66377)
@@ -25,8 +101,6 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 peginterferon beta-1a Medicine Human Authorised
-
-On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -117,7 +191,7 @@ English (EN) (121.59 KB - PDF)
 
 [View](/en/documents/overview/plegridy-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-751)
+[Other languages (22)](#file-language-dropdown-288)
 
 български (BG) (144.11 KB - PDF)
 
@@ -397,17 +471,17 @@ English (EN) (149.06 KB - PDF)
 
 Plegridy : EPAR - Product Information
 
-English (EN) (1.35 MB - PDF)
+English (EN) (1.6 MB - PDF)
 
 **First published:** 31/07/2014
 
-**Last updated:** 16/10/2025
+**Last updated:** 11/02/2026
 
 [View](/en/documents/product-information/plegridy-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-505)
+[Other languages (24)](#file-language-dropdown-438)
 
-български (BG) (1.28 MB - PDF)
+български (BG) (1.85 MB - PDF)
 
 **First published:**
 
@@ -415,11 +489,11 @@ English (EN) (1.35 MB - PDF)
 
 **Last updated:**
 
-16/10/2025
+11/02/2026
 
 [View](/bg/documents/product-information/plegridy-epar-product-information_bg.pdf)
 
-español (ES) (1.17 MB - PDF)
+español (ES) (1.44 MB - PDF)
 
 **First published:**
 
@@ -427,11 +501,11 @@ español (ES) (1.17 MB - PDF)
 
 **Last updated:**
 
-16/10/2025
+11/02/2026
 
 [View](/es/documents/product-information/plegridy-epar-product-information_es.pdf)
 
-čeština (CS) (1.2 MB - PDF)
+čeština (CS) (1.8 MB - PDF)
 
 **First published:**
 
@@ -439,11 +513,11 @@ español (ES) (1.17 MB - PDF)
 
 **Last updated:**
 
-16/10/2025
+11/02/2026
 
 [View](/cs/documents/product-information/plegridy-epar-product-information_cs.pdf)
 
-dansk (DA) (1.31 MB - PDF)
+dansk (DA) (2.14 MB - PDF)
 
 **First published:**
 
@@ -451,11 +525,11 @@ dansk (DA) (1.31 MB - PDF)
 
 **Last updated:**
 
-16/10/2025
+11/02/2026
 
 [View](/da/documents/product-information/plegridy-epar-product-information_da.pdf)
 
-Deutsch (DE) (1.27 MB - PDF)
+Deutsch (DE) (1.88 MB - PDF)
 
 **First published:**
 
@@ -463,11 +537,11 @@ Deutsch (DE) (1.27 MB - PDF)
 
 **Last updated:**
 
-16/10/2025
+11/02/2026
 
 [View](/de/documents/product-information/plegridy-epar-product-information_de.pdf)
 
-eesti keel (ET) (1.18 MB - PDF)
+eesti keel (ET) (1.64 MB - PDF)
 
 **First published:**
 
@@ -475,11 +549,11 @@ eesti keel (ET) (1.18 MB - PDF)
 
 **Last updated:**
 
-16/10/2025
+11/02/2026
 
 [View](/et/documents/product-information/plegridy-epar-product-information_et.pdf)
 
-ελληνικά (EL) (1.29 MB - PDF)
+ελληνικά (EL) (2.07 MB - PDF)
 
 **First published:**
 
@@ -487,11 +561,11 @@ eesti keel (ET) (1.18 MB - PDF)
 
 **Last updated:**
 
-16/10/2025
+11/02/2026
 
 [View](/el/documents/product-information/plegridy-epar-product-information_el.pdf)
 
-français (FR) (1.27 MB - PDF)
+français (FR) (2.16 MB - PDF)
 
 **First published:**
 
@@ -499,11 +573,11 @@ français (FR) (1.27 MB - PDF)
 
 **Last updated:**
 
-16/10/2025
+11/02/2026
 
 [View](/fr/documents/product-information/plegridy-epar-product-information_fr.pdf)
 
-hrvatski (HR) (1.2 MB - PDF)
+hrvatski (HR) (1.82 MB - PDF)
 
 **First published:**
 
@@ -511,11 +585,11 @@ hrvatski (HR) (1.2 MB - PDF)
 
 **Last updated:**
 
-16/10/2025
+11/02/2026
 
 [View](/hr/documents/product-information/plegridy-epar-product-information_hr.pdf)
 
-íslenska (IS) (1.16 MB - PDF)
+íslenska (IS) (1.65 MB - PDF)
 
 **First published:**
 
@@ -523,11 +597,11 @@ hrvatski (HR) (1.2 MB - PDF)
 
 **Last updated:**
 
-16/10/2025
+11/02/2026
 
 [View](/is/documents/product-information/plegridy-epar-product-information_is.pdf)
 
-italiano (IT) (1.22 MB - PDF)
+italiano (IT) (1.8 MB - PDF)
 
 **First published:**
 
@@ -535,11 +609,11 @@ italiano (IT) (1.22 MB - PDF)
 
 **Last updated:**
 
-16/10/2025
+11/02/2026
 
 [View](/it/documents/product-information/plegridy-epar-product-information_it.pdf)
 
-latviešu valoda (LV) (1.2 MB - PDF)
+latviešu valoda (LV) (1.82 MB - PDF)
 
 **First published:**
 
@@ -547,11 +621,11 @@ latviešu valoda (LV) (1.2 MB - PDF)
 
 **Last updated:**
 
-16/10/2025
+11/02/2026
 
 [View](/lv/documents/product-information/plegridy-epar-product-information_lv.pdf)
 
-lietuvių kalba (LT) (1.24 MB - PDF)
+lietuvių kalba (LT) (2.14 MB - PDF)
 
 **First published:**
 
@@ -559,11 +633,11 @@ lietuvių kalba (LT) (1.24 MB - PDF)
 
 **Last updated:**
 
-16/10/2025
+11/02/2026
 
 [View](/lt/documents/product-information/plegridy-epar-product-information_lt.pdf)
 
-magyar (HU) (1.27 MB - PDF)
+magyar (HU) (1.94 MB - PDF)
 
 **First published:**
 
@@ -571,11 +645,11 @@ magyar (HU) (1.27 MB - PDF)
 
 **Last updated:**
 
-16/10/2025
+11/02/2026
 
 [View](/hu/documents/product-information/plegridy-epar-product-information_hu.pdf)
 
-Malti (MT) (1.32 MB - PDF)
+Malti (MT) (1.86 MB - PDF)
 
 **First published:**
 
@@ -583,11 +657,11 @@ Malti (MT) (1.32 MB - PDF)
 
 **Last updated:**
 
-16/10/2025
+11/02/2026
 
 [View](/mt/documents/product-information/plegridy-epar-product-information_mt.pdf)
 
-Nederlands (NL) (1.19 MB - PDF)
+Nederlands (NL) (1.8 MB - PDF)
 
 **First published:**
 
@@ -595,11 +669,11 @@ Nederlands (NL) (1.19 MB - PDF)
 
 **Last updated:**
 
-16/10/2025
+11/02/2026
 
 [View](/nl/documents/product-information/plegridy-epar-product-information_nl.pdf)
 
-norsk (NO) (1.12 MB - PDF)
+norsk (NO) (1.7 MB - PDF)
 
 **First published:**
 
@@ -607,11 +681,11 @@ norsk (NO) (1.12 MB - PDF)
 
 **Last updated:**
 
-16/10/2025
+11/02/2026
 
 [View](/no/documents/product-information/plegridy-epar-product-information_no.pdf)
 
-polski (PL) (1.28 MB - PDF)
+polski (PL) (1.88 MB - PDF)
 
 **First published:**
 
@@ -619,11 +693,11 @@ polski (PL) (1.28 MB - PDF)
 
 **Last updated:**
 
-16/10/2025
+11/02/2026
 
 [View](/pl/documents/product-information/plegridy-epar-product-information_pl.pdf)
 
-português (PT) (1.27 MB - PDF)
+português (PT) (2.01 MB - PDF)
 
 **First published:**
 
@@ -631,11 +705,11 @@ português (PT) (1.27 MB - PDF)
 
 **Last updated:**
 
-16/10/2025
+11/02/2026
 
 [View](/pt/documents/product-information/plegridy-epar-product-information_pt.pdf)
 
-română (RO) (1.21 MB - PDF)
+română (RO) (1.94 MB - PDF)
 
 **First published:**
 
@@ -643,11 +717,11 @@ română (RO) (1.21 MB - PDF)
 
 **Last updated:**
 
-16/10/2025
+11/02/2026
 
 [View](/ro/documents/product-information/plegridy-epar-product-information_ro.pdf)
 
-slovenčina (SK) (1.36 MB - PDF)
+slovenčina (SK) (2.08 MB - PDF)
 
 **First published:**
 
@@ -655,11 +729,11 @@ slovenčina (SK) (1.36 MB - PDF)
 
 **Last updated:**
 
-16/10/2025
+11/02/2026
 
 [View](/sk/documents/product-information/plegridy-epar-product-information_sk.pdf)
 
-slovenščina (SL) (1.18 MB - PDF)
+slovenščina (SL) (1.92 MB - PDF)
 
 **First published:**
 
@@ -667,11 +741,11 @@ slovenščina (SL) (1.18 MB - PDF)
 
 **Last updated:**
 
-16/10/2025
+11/02/2026
 
 [View](/sl/documents/product-information/plegridy-epar-product-information_sl.pdf)
 
-Suomi (FI) (1.25 MB - PDF)
+Suomi (FI) (2.04 MB - PDF)
 
 **First published:**
 
@@ -679,11 +753,11 @@ Suomi (FI) (1.25 MB - PDF)
 
 **Last updated:**
 
-16/10/2025
+11/02/2026
 
 [View](/fi/documents/product-information/plegridy-epar-product-information_fi.pdf)
 
-svenska (SV) (1.13 MB - PDF)
+svenska (SV) (1.79 MB - PDF)
 
 **First published:**
 
@@ -691,11 +765,11 @@ svenska (SV) (1.13 MB - PDF)
 
 **Last updated:**
 
-16/10/2025
+11/02/2026
 
 [View](/sv/documents/product-information/plegridy-epar-product-information_sv.pdf)
 
-**Latest procedure affecting product information:** VR/0000300515 16/10/2025
+**Latest procedure affecting product information:** VR/0000286235 11/12/2025
 
 icon globe
 
@@ -721,7 +795,7 @@ English (EN) (60.64 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/plegridy-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-829)
+[Other languages (24)](#file-language-dropdown-525)
 
 български (BG) (74.16 KB - PDF)
 
@@ -1031,7 +1105,7 @@ Biogen Netherlands B.V.
 
 Prins Mauritslaan 13 1171 LP Badhoevedorp The Netherlands
 
-Opinion adopted 21/05/2014 Marketing authorisation issued 18/07/2014 Revision 28
+Opinion adopted 21/05/2014 Marketing authorisation issued 18/07/2014 Revision 29
 
 ## Assessment history
 
@@ -1043,11 +1117,11 @@ Collapse section
 
 Plegridy : EPAR - Procedural steps taken and scientific information after authorisation
 
-English (EN) (149.47 KB - PDF)
+English (EN) (159.42 KB - PDF)
 
 **First published:** 16/10/2025
 
-**Last updated:** 14/11/2025
+**Last updated:** 11/02/2026
 
 [View](/en/documents/procedural-steps-after/plegridy-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf)
 
@@ -1060,6 +1134,28 @@ English (EN) (196.94 KB - PDF)
 **Last updated:** 16/10/2025
 
 [View](/en/documents/procedural-steps-after/plegridy-epar-procedural-steps-taken-scientific-information-after-authorisation-archive_en.pdf)
+
+Plegridy : EPAR - Statement indicating compliance with the agreed completed paediatric investigation plan
+
+Reference Number: EMADOC-1700519818-2712795
+
+English (EN) (145.22 KB - PDF)
+
+**First published:** 11/02/2026
+
+[View](/en/documents/pip-compliance/plegridy-epar-statement-indicating-compliance-agreed-completed-paediatric-investigation-plan_en.pdf)
+
+Plegridy-VR-0000286235 : EPAR - Assessment report - Variation
+
+Adopted
+
+Reference Number: EMADOC-1700519818-2324069
+
+English (EN) (826.66 KB - PDF)
+
+**First published:** 11/02/2026
+
+[View](/en/documents/variation-report/plegridy-vr-0000286235-epar-assessment-report-variation_en.pdf)
 
 Plegridy-PAM-0000245467 : EPAR - Assessment report
 
@@ -1155,7 +1251,7 @@ English (EN) (69.32 KB - PDF)
 
 - [Medicines](https://www.ema.europa.eu/en/search?f%5B0%5D=ema_search_topics%3A61)
 
-**This page was last updated on** 14/11/2025
+**This page was last updated on** 11/02/2026
 
 ## Share this page
 

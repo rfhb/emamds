@@ -1,18 +1,18 @@
 ---
-document_datetime: 2025-12-17 08:44:45
-document_pages: 34
+document_datetime: 2026-02-09 17:45:30
+document_pages: 35
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/datroway-epar-product-information_en.pdf
 document_name: datroway-epar-product-information_en.pdf
 version: success
-processing_time: 8.3438856
-conversion_datetime: 2026-01-03 13:10:44.199829
+processing_time: 9.551645
+conversion_datetime: 2026-02-13 18:15:31.878712
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.66.0
-  docling-core: 2.57.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.12.0
+  docling-jobkit: 1.10.2
+  docling: 2.73.1
+  docling-core: 2.65.1
+  docling-ibm-models: 3.11.0
+  docling-parse: 4.7.3
   python: cpython-313 (3.13.11)
   plaform: macOS-26.2-arm64-arm-64bit-Mach-O
 ---
@@ -175,6 +175,10 @@ Patients should be advised to immediately report cough, dyspnoea, fever, and/or 
 
 <div style=\"page-break-after: always\"></div>
 
+## Hypersensitivity
+
+Serious, anaphylactic reactions have been observed with datopotamab deruxtecan. Patients should be observed closely for hypersensitivity/allergic reactions, which may have the same clinical presentation as an infusion-related reaction. Medicinal products to treat such reactions, as well as emergency equipment, should be available for immediate use. In the event of a serious hypersensitivity reaction, datopotamab deruxtecan treatment must be immediately and permanently discontinued.
+
 ## Keratitis
 
 Datroway can cause ocular surface undesirable effects including keratitis. Signs and symptoms of keratitis may include dry eye, increased lacrimation, photophobia, and detrimental changes to vision (see section 4.8).
@@ -197,13 +201,15 @@ The pregnancy status of females of childbearing potential should be verified pri
 
 ## Patients with moderate or severe hepatic impairment
 
-There are limited data in patients with moderate hepatic impairment and severe hepatic impairment. As metabolism and biliary excretion are the primary routes of elimination of the topoisomerase I inhibitor, DXd, Datroway should be administered with caution in patients with moderate and severe hepatic impairment (see sections 4.2 and 5.2).
+There are limited data in patients with moderate hepatic impairment and severe hepatic impairment. As metabolism and biliary excretion are the primary routes of elimination of the topoisomerase I
+
+<div style=\"page-break-after: always\"></div>
+
+inhibitor, DXd, Datroway should be administered with caution in patients with moderate and severe hepatic impairment (see sections 4.2 and 5.2).
 
 ## Excipient with known effect
 
 This medicine contains 1.5 mg of polysorbate 80 in each vial. Polysorbates may cause allergic reactions.
-
-<div style=\"page-break-after: always\"></div>
 
 ## 4.5 Interaction with other medicinal products and other forms of interaction
 
@@ -233,13 +239,15 @@ It is not known if datopotamab deruxtecan is excreted in human milk. Human IgG i
 
 No human data on the effect of datopotamab deruxtecan on fertility are available. Based on results from animal toxicity studies, Datroway may impair male and female reproductive function and fertility (see section 5.3).
 
-Both men and women should seek advice on fertility preservation before treatment. It is not known whether datopotamab deruxtecan or its metabolites are found in seminal fluid. Male patients must not freeze or donate sperm throughout the treatment period, and for at least 4 months after the final dose of Datroway. Females must not donate, or retrieve for their own use, ova throughout the treatment period and for at least 7 months after the final dose of Datroway.
+Both men and women should seek advice on fertility preservation before treatment. It is not known whether datopotamab deruxtecan or its metabolites are found in seminal fluid. Male patients must not freeze or donate sperm throughout the treatment period, and for at least 4 months after the final dose
+
+<div style=\"page-break-after: always\"></div>
+
+of Datroway. Females must not donate, or retrieve for their own use, ova throughout the treatment period and for at least 7 months after the final dose of Datroway.
 
 ## 4.7 Effects on ability to drive and use machines
 
 Datroway may influence the ability to drive and use machines. Patients should be advised to use caution when driving or operating machines in case they experience fatigue or vision changes during treatment with Datroway (see section 4.8).
-
-<div style=\"page-break-after: always\"></div>
 
 ## 4.8 Undesirable effects
 
@@ -261,21 +269,20 @@ Table 3 presents adverse reactions reported with Datroway. Adverse reactions are
 
 Frequency categories are defined as: very common (≥ 1/10), common (≥ 1/100 to &lt; 1/10), uncommon (≥ 1/1 000 to &lt; 1/100), rare (≥ 1/10 000 to &lt; 1/1 000), very rare (&lt; 1/10 000), and not known (cannot be estimated from the available data). Within each frequency grouping, adverse reactions are presented in the order of decreasing seriousness.
 
-Table 3: Adverse reactions in patients treated with datopotamab deruxtecan 6 mg/kg
-
-| System organ class                   | Frequency category                   | Adverse reactions                             |
-|--------------------------------------|--------------------------------------|-----------------------------------------------|
-| Infections and infestations          | Infections and infestations          | Infections and infestations                   |
-|                                      | Very common                          | COVID-19 a                                    |
-|                                      | Common                               | urinary tract infection, pneumonia b , sepsis |
-| Blood and lymphatic system disorders | Blood and lymphatic system disorders | Blood and lymphatic system disorders          |
-|                                      | Very common                          | anaemia, neutropenia c                        |
-|                                      | Common                               | leukopenia                                    |
-
 <div style=\"page-break-after: always\"></div>
+
+Table 3: Adverse reactions in patients treated with datopotamab deruxtecan 6 mg/kg
 
 | System organ class                                   | Frequency category                                   | Adverse reactions                                                                                               |
 |------------------------------------------------------|------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------|
+| Infections and infestations                          | Infections and infestations                          | Infections and infestations                                                                                     |
+|                                                      | Very common                                          | COVID-19 a                                                                                                      |
+|                                                      | Common                                               | urinary tract infection, pneumonia b , sepsis                                                                   |
+| Blood and lymphatic system disorders                 | Blood and lymphatic system disorders                 | Blood and lymphatic system disorders                                                                            |
+|                                                      | Very common                                          | anaemia, neutropenia c                                                                                          |
+|                                                      | Common                                               | leukopenia                                                                                                      |
+| Immune system disorders                              | Immune system disorders                              | Immune system disorders                                                                                         |
+|                                                      | Not known                                            | anaphylactic reaction                                                                                           |
 | Metabolism and nutrition disorders                   | Metabolism and nutrition disorders                   | Metabolism and nutrition disorders                                                                              |
 |                                                      | Very common                                          | decreased appetite                                                                                              |
 | Nervous system disorders                             | Nervous system disorders                             | Nervous system disorders                                                                                        |
@@ -299,13 +306,13 @@ Table 3: Adverse reactions in patients treated with datopotamab deruxtecan 6 mg/
 | Injury, poisoning and procedural complications       | Injury, poisoning and procedural complications       | Injury, poisoning and procedural complications                                                                  |
 |                                                      | Common                                               | infusion-related reaction k                                                                                     |
 
+<div style=\"page-break-after: always\"></div>
+
 ## Description of selected adverse reactions
 
 ## Interstitial lung disease/pneumonitis
 
 ILD/pneumonitis occurred in 4.7% of the pool of patients with breast cancer treated with Datroway 6 mg/kg, of which 3.6% were adjudicated as drug-related ILD/pneumonitis by independent review. Most ILD/pneumonitis cases were Grade 1 (2.9%). Grade 2 events occurred in 0.9% of patients. Grade 3 events occurred in 0.9% of patients. Adjudicated drug-related Grade 5 events occurred in 0.2% of patients. Median time to first onset was 5.8 months (range: 1.1 to 10.8).
-
-<div style=\"page-break-after: always\"></div>
 
 ## Ocular surface undesirable effects
 
@@ -333,6 +340,8 @@ Reporting suspected adverse reactions after authorisation of the medicinal produ
 
 There is currently no specific treatment in the event of an overdose. Higher than the indicated dosing may increase risk of adverse reactions. Physicians should follow general supportive measures and institute appropriate treatment.
 
+<div style=\"page-break-after: always\"></div>
+
 ## 5. PHARMACOLOGICAL PROPERTIES
 
 ## 5.1 Pharmacodynamic properties
@@ -341,17 +350,15 @@ Pharmacotherapeutic group: Antineoplastic agents, monoclonal antibodies and anti
 
 ## Mechanism of action
 
-Datopotamab deruxtecan is a TROP2-directed antibody-drug conjugate. The antibody is a humanised anti-TROP2 IgG1 attached to deruxtecan, a topoisomerase I inhibitor (DXd) bound by a tetrapeptide-based cleavable linker. The antibody-drug conjugate is stable in plasma. The antibody binds to TROP2 expressed on the surface of certain tumour cells. After binding, datopotamab
-
-<div style=\"page-break-after: always\"></div>
-
-deruxtecan undergoes internalisation into the tumour cells. Subsequently, the release of DXd results in DNA damage and apoptotic cell death via topoisomerase I inhibition. Datopotamab deruxtecan may also exhibit indirect cytotoxicity as shown in vitro through mechanisms of antibody-dependent cellular cytotoxicity (ADCC), antibody-dependent cellular phagocytosis (ADCP) and bystander cytotoxicity of DXd against TROP2 expressing tumour cells and neighbouring cells.
+Datopotamab deruxtecan is a TROP2-directed antibody-drug conjugate. The antibody is a humanised anti-TROP2 IgG1 attached to deruxtecan, a topoisomerase I inhibitor (DXd) bound by a tetrapeptide-based cleavable linker. The antibody-drug conjugate is stable in plasma. The antibody binds to TROP2 expressed on the surface of certain tumour cells. After binding, datopotamab deruxtecan undergoes internalisation into the tumour cells. Subsequently, the release of DXd results in DNA damage and apoptotic cell death via topoisomerase I inhibition. Datopotamab deruxtecan may also exhibit indirect cytotoxicity as shown in vitro through mechanisms of antibody-dependent cellular cytotoxicity (ADCC), antibody-dependent cellular phagocytosis (ADCP) and bystander cytotoxicity of DXd against TROP2 expressing tumour cells and neighbouring cells.
 
 ## Pharmacodynamic effects
 
 ## Immunogenicity
 
-As with all therapeutic proteins, there is a potential for immunogenicity. During the median 5.5 month treatment period across clinical studies in NSCLC and breast cancer patients treated with Datroway at 6 mg/kg, the incidence of anti-datopotamab deruxtecan antibodies was 16% (146 out of 912) and the incidence of neutralising antibodies against datopotamab deruxtecan was 2.5% (23 out of 912). There was no apparent effect of anti-drug antibodies on the pharmacokinetics or effectiveness of datopotamab deruxtecan. No clinically meaningful impact on the safety of datopotamab deruxtecan was observed.
+## As with all therapeutic proteins, there is a potential for immunogenicity.
+
+During the median 5.5 month treatment period across clinical studies in NSCLC and breast cancer patients treated with Datroway at 6 mg/kg, the incidence of anti-datopotamab deruxtecan antibodies was 16% (146 out of 912) and the incidence of neutralising antibodies against datopotamab deruxtecan was 2.5% (23 out of 912). There was no apparent effect of anti-drug antibodies on the pharmacokinetics or effectiveness of datopotamab deruxtecan. No clinically meaningful impact on the safety of datopotamab deruxtecan was observed.
 
 ## Clinical efficacy and safety
 
@@ -365,13 +372,11 @@ A total of 732 patients were randomised 1:1 to receive either Datroway 6 mg/kg (
 
 The dual primary efficacy endpoints were progression-free survival (PFS) as assessed by blinded independent central review (BICR) based on Response Evaluation Criteria in Solid Tumours (RECIST) v.1.1 and overall survival (OS). Confirmed objective response rate (ORR) and duration of response (DOR) were secondary endpoints.
 
-Baseline demographics and disease characteristics were similar between treatment arms. The median age was 55 years (range 28 to 86); 22.3% were ≥ 65 years and 98.8% were female; 47.8% were White, 1.5% were Black or African American, 40.7% were Asian and 11.3% were of Hispanic/Latino ethnicity; 57% had ECOG PS 0 and 42.3% had ECOG PS of 1; 97.3% had visceral disease, 71.9% had liver metastases and 7.9% had stable brain metastases at baseline at the time of randomisation.
-
-There were 60.2% of patients who received prior endocrine therapy in the (neo) adjuvant setting, 88.5% received prior endocrine therapy in the unresectable or metastatic setting and all patients received prior chemotherapy regimens in the unresectable or metastatic setting. Overall, 80.7% of patients had received prior taxanes and 63.8% had received prior anthracyclines. There were 62% of patients who had 1 prior chemotherapy regimen and 37.7% of patients who had 2 prior chemotherapy
-
 <div style=\"page-break-after: always\"></div>
 
-regimens for treatment of unresectable or metastatic disease. 82.5% of patients had prior treatment with a CDK4/6 inhibitor.
+Baseline demographics and disease characteristics were similar between treatment arms. The median age was 55 years (range 28 to 86); 22.3% were ≥ 65 years and 98.8% were female; 47.8% were White, 1.5% were Black or African American, 40.7% were Asian and 11.3% were of Hispanic/Latino ethnicity; 57% had ECOG PS 0 and 42.3% had ECOG PS of 1; 97.3% had visceral disease, 71.9% had liver metastases and 7.9% had stable brain metastases at baseline at the time of randomisation.
+
+There were 60.2% of patients who received prior endocrine therapy in the (neo) adjuvant setting, 88.5% received prior endocrine therapy in the unresectable or metastatic setting and all patients received prior chemotherapy regimens in the unresectable or metastatic setting. Overall, 80.7% of patients had received prior taxanes and 63.8% had received prior anthracyclines. There were 62% of patients who had 1 prior chemotherapy regimen and 37.7% of patients who had 2 prior chemotherapy regimens for treatment of unresectable or metastatic disease. 82.5% of patients had prior treatment with a CDK4/6 inhibitor.
 
 Efficacy results are shown in Table 4 and Figure 1 and 2.
 
@@ -395,13 +400,13 @@ Table 4: Efficacy results in TROPION-Breast01
 | Duration of response by BICR a, f    | Duration of response by BICR a, f    | Duration of response by BICR a, f    |
 | Median, months (95% CI)              | 6.7 (5.6, 9.8)                       | 5.7 (4.9, 6.8)                       |
 
+<div style=\"page-break-after: always\"></div>
+
 Figure 1: Kaplan-Meier plot of PFS by BICR in TROPION-Breast01 (data cutoff 17 July 2023)
 
 <!-- image -->
 
 The improvement in PFS by BICR was consistent amongst the prespecified subgroups of patients including by geographic region, prior use of CDK4/6 inhibitor and previous line of therapy.
-
-<div style=\"page-break-after: always\"></div>
 
 Figure 2: Kaplan-Meier plot of final OS in TROPION-Breast01 (data cutoff 24 July 2024)
 
@@ -417,6 +422,8 @@ The pharmacokinetics of datopotamab deruxtecan was evaluated in 729 patients.
 
 At the recommended dosage of Datroway, the geometric mean (coefficient of variation [CV]%) Cmax of datopotamab deruxtecan and DXd were 154 µg/mL (20.3%) and 2.82 ng/mL (58.1%), respectively, and the AUC (area under the plasma concentration versus time curve) of datopotamab deruxtecan and DXd were 671 µg*day/mL (31.4%) and 18.5 ng*day/mL (42.6%) after the first dose in cycle 1, respectively.
 
+<div style=\"page-break-after: always\"></div>
+
 ## Distribution
 
 Steady state volume of distribution of datopotamab deruxtecan is 3.52 L. In vitro, across the concentration range of 10 ng/mL to 100 ng/mL, the mean human plasma protein binding of DXd was 96.8 to 98.0%, and the blood-to-plasma concentration ratio of DXd was 0.59-0.62.
@@ -427,11 +434,7 @@ Datopotamab deruxtecan undergoes intracellular cleavage by lysosomal enzymes to 
 
 ## Elimination
 
-Following intravenous administration of datopotamab deruxtecan in patients, the clearance of datopotamab deruxtecan was estimated to be 0.57 L/day. The median elimination half-life (t1/2) of datopotamab deruxtecan was 4.82 days and apparent median t1/2 of released DXd was approximately
-
-<div style=\"page-break-after: always\"></div>
-
-5.50 days. In vitro , DXd was a substrate of P-gp, OATP1B1, OATP1B3, MATE2-K, MRP1 and BCRP. DXd excretion was not studied in humans.
+Following intravenous administration of datopotamab deruxtecan in patients, the clearance of datopotamab deruxtecan was estimated to be 0.57 L/day. The median elimination half-life (t1/2) of datopotamab deruxtecan was 4.82 days and apparent median t1/2 of released DXd was approximately 5.50 days. In vitro , DXd was a substrate of P-gp, OATP1B1, OATP1B3, MATE2-K, MRP1 and BCRP. DXd excretion was not studied in humans.
 
 ## In vitro interactions
 
@@ -455,6 +458,8 @@ Based on population pharmacokinetic analysis, age (26 to 86 years), race, region
 
 No dedicated renal impairment study was conducted. Based on population pharmacokinetic analysis including patients with mild to moderate (CLcr ≥ 30 and &lt;90 mL/min) renal impairment (estimated by Cockcroft-Gault), the pharmacokinetics of datopotamab deruxtecan or DXd was not affected by mild to moderate renal impairment as compared to normal renal function (CLcr ≥ 90 mL/min) (see section 4.2).
 
+<div style=\"page-break-after: always\"></div>
+
 ## Hepatic impairment
 
 No dedicated hepatic impairment study was conducted. Based on population pharmacokinetic analysis including patients with mild hepatic impairment (total bilirubin ≤ ULN and any AST &gt; ULN or total bilirubin &gt; 1 to 1.5 times ULN and any AST), the pharmacokinetics of datopotamab deruxtecan or DXd was not affected by mild hepatic impairment as compared to normal hepatic function. There are limited data in patients with moderate (total bilirubin &gt; 1.5 to 3 times ULN and any AST) hepatic impairment to draw conclusions. Insufficient data are available for patients with severe (total bilirubin &gt; 3 times ULN and any AST) hepatic impairment. Therefore, patients with moderate and severe hepatic impairment should be monitored carefully (see section 4.2 and 4.4).
@@ -463,11 +468,7 @@ No dedicated hepatic impairment study was conducted. Based on population pharmac
 
 ## Repeat-dose toxicity
 
-In animals, toxicities were observed in lymphatic and haematopoietic organs, intestines, kidneys, male and female reproductive tracts, lung, skin, eye (cornea), liver and incisor teeth following the administration of datopotamab deruxtecan at exposure levels of the topoisomerase I inhibitor below
-
-<div style=\"page-break-after: always\"></div>
-
-clinical plasma exposure. In these animals, ADC exposure levels were similar or above clinical plasma exposure.
+In animals, toxicities were observed in lymphatic and haematopoietic organs, intestines, kidneys, male and female reproductive tracts, lung, skin, eye (cornea), liver and incisor teeth following the administration of datopotamab deruxtecan at exposure levels of the topoisomerase I inhibitor below clinical plasma exposure. In these animals, ADC exposure levels were similar or above clinical plasma exposure.
 
 ## Genotoxicity
 
@@ -482,6 +483,8 @@ Carcinogenicity studies have not been conducted with datopotamab deruxtecan.
 Dedicated fertility studies have not been conducted with datopotamab deruxtecan. Based on the results from an animal toxicity study in rats, datopotamab deruxtecan at 200 mg/kg (approximately 29 times the human recommended dose of 6 mg/kg based on AUC) may impair male and female reproductive function and fertility at exposure levels of the topoisomerase I inhibitor below clinical plasma exposure. Toxicity to male reproductive tract included testis (degeneration of germinal epithelium and atrophy of seminiferous tubule) and epididymis (single cell necrosis of ductal epithelium, cell debris in duct and decreased number of spermatozoa in duct), which did not reverse after 8 weeks of treatment cessation, except for single cell necrosis of ductal epithelium. The effects on female fertility, including an increase in the number of atretic follicles in the ovaries and single cell necrosis of mucosal epithelium in the vagina, may be reversible.
 
 Reproductive and developmental toxicity studies have not been conducted with datopotamab deruxtecan. Based on results from general animal toxicity studies, datopotamab deruxtecan and DXd were toxic to rapidly dividing cells (testes), and DXd was genotoxic, suggesting the potential for embryotoxicity and teratogenicity.
+
+<div style=\"page-break-after: always\"></div>
 
 ## 6. PHARMACEUTICAL PARTICULARS
 
@@ -500,8 +503,6 @@ Sodium chloride solution for infusion must not be used for reconstitution or dil
 ## Unopened vial
 
 4 years.
-
-<div style=\"page-break-after: always\"></div>
 
 ## Reconstituted solution
 
@@ -527,6 +528,8 @@ Each carton contains 1 vial.
 
 Datroway contains a cytotoxic component and should be administered under the supervision of a physician experienced in the use of cytotoxic agents. Appropriate procedures for proper preparation, handling and disposal of antineoplastic and cytotoxic medicinal products should be used.
 
+<div style=\"page-break-after: always\"></div>
+
 Appropriate aseptic technique should be used for the following reconstitution and dilution procedures.
 
 ## Reconstitution
@@ -541,9 +544,6 @@ Appropriate aseptic technique should be used for the following reconstitution an
 ## Dilution
 
 - Withdraw the calculated amount from the vial(s) using a sterile syringe. Inspect the reconstituted solution for particulates and discolouration. The solution should be clear and colourless to light yellow. Do not use if visible particles are observed or if the solution is cloudy or discoloured.
-
-<div style=\"page-break-after: always\"></div>
-
 - Dilute the calculated volume of reconstituted Datroway in an infusion bag containing 100 mL of 5% glucose solution. Do not use sodium chloride solution (see section 6.2). An infusion bag made of polyvinylchloride (PVC) or polyolefin (polypropylene (PP) or copolymer of ethylene and propylene) is recommended.
 - Gently invert the infusion bag to thoroughly mix the solution. Do not shake.
 - Cover the infusion bag to protect from light.
@@ -562,6 +562,8 @@ Appropriate aseptic technique should be used for the following reconstitution an
 ## Disposal
 
 Any unused medicinal product or waste material should be disposed of in accordance with local requirements.
+
+<div style=\"page-break-after: always\"></div>
 
 ## 7. MARKETING AUTHORISATION HOLDER
 
@@ -685,20 +687,20 @@ EXP
 
 <div style=\"page-break-after: always\"></div>
 
-| 9.   | SPECIAL STORAGE CONDITIONS   |
-|------|------------------------------|
+## 9. SPECIAL STORAGE CONDITIONS
 
-Store in a refrigerator. Do not freeze.
+Store in a refrigerator.
 
-10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
+Do not freeze.
 
-| 11.   | NAMEANDADDRESS OF THE MARKETING AUTHORISATION HOLDER   |
-|-------|--------------------------------------------------------|
+| 10.   | SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS ORWASTEMATERIALS DERIVEDFROMSUCH MEDICINAL PRODUCTS, IF APPROPRIATE   |
+|-------|-------------------------------------------------------------------------------------------------------------------------------------|
+
+## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
 Daiichi Sankyo Europe GmbH 81366 Munich Germany
 
-| 12.   | MARKETING AUTHORISATION NUMBER   |
-|-------|----------------------------------|
+## 12. MARKETING AUTHORISATION NUMBER
 
 EU/1/25/1915/001
 
@@ -710,8 +712,7 @@ Lot
 | 14.   | GENERAL CLASSIFICATION FOR SUPPLY   |
 |-------|-------------------------------------|
 
-| 15.   | INSTRUCTIONS ON USE   |
-|-------|-----------------------|
+15. INSTRUCTIONS ON USE
 
 | 16.   | INFORMATION IN BRAILLE   |
 |-------|--------------------------|
@@ -813,6 +814,7 @@ history of lung disease may increase the risk of developing interstitial lung di
 
 Datroway may also cause:
 
+- allergic reactions, including anaphylaxis: allergic reactions which can be serious can occur during or shortly after the infusion. Your doctor will observe you closely while you are being given Datroway. For signs and symptoms of allergic reactions see section 4. Possible side effects. If you experience a serious allergic reaction your doctor will permanently stop your treatment.
 - eye problems. You should use preservative-free lubricating eye drops several times daily to prevent dry eye and other eye problems. You should avoid the use of contact lenses during treatment. If you have or develop eye problems, which may include dry eyes, increased tears, sensitivity to light or vision changes during treatment, contact your doctor or nurse. Your doctor may refer you to an eye care provider if needed.
 - mouth ulcers and sores. In addition to good oral hygiene and dietary recommendations, your doctor or nurse will also recommend a non-alcoholic mouthwash to use 4 times a day. This mouthwash may contain steroids. If you develop pain, discomfort, or open sores in your mouth, tell your doctor or nurse. Follow your doctor or nurse's instructions on how to use mouthwash to prevent or treat mouth ulcers and sores.
 
@@ -843,13 +845,11 @@ Datroway is not recommended during pregnancy because this medicine may harm the 
 
 You should not breast-feed during treatment with Datroway and for at least 1 month after your last dose. This is because it is not known whether Datroway passes into breast milk. Talk to your doctor about this.
 
-## Fertility
-
-If you are being treated with Datroway, you should take advice on conserving sperm or eggs (ova) before treatment because the medicine may reduce your fertility. Therefore, discuss this with your
-
 <div style=\"page-break-after: always\"></div>
 
-doctor before starting treatment.
+## Fertility
+
+If you are being treated with Datroway, you should take advice on conserving sperm or eggs (ova) before treatment because the medicine may reduce your fertility. Therefore, discuss this with your doctor before starting treatment.
 
 ## Driving and using machines
 
@@ -885,11 +885,11 @@ Contact your doctor or treatment centre right away to reschedule your appointmen
 
 Do not stop treatment with Datroway without checking with your doctor or nurse. If you have any further questions on the use of this medicine, ask your doctor or nurse.
 
+<div style=\"page-break-after: always\"></div>
+
 ## 4. Possible side effects
 
 Like all medicines, this medicine can cause side effects, although not everybody gets them. Tell your doctor or nurse if you get any side effects, including those not listed in this leaflet.
-
-<div style=\"page-break-after: always\"></div>
 
 Some side effects may be serious, and possibly fatal. Speak with your doctor or nurse immediately if you notice any of the following:
 
@@ -898,9 +898,13 @@ Very common (may affect more than 1 in 10 people):
 - Mouth ulcers and sores (stomatitis).
 - Inflammation of the cornea (keratitis). Symptoms can include dry eyes, increased tears, sensitivity to light or vision changes. Inflammation of the cornea (the transparent layer in front of the eye that covers the pupil and iris) may lead to an ulcer.
 
-## Common (may affect up to 1 in 10 people):
+Common (may affect up to 1 in 10 people):
 
 - Interstitial lung disease. Symptoms can include cough, shortness of breath, fever, or other new or worsening breathing problems.
+
+Not known (frequency cannot be estimated from the available data)
+
+- Allergic reaction, including anaphylaxis: may include signs and symptoms such as rash, severe itching, flushing, dizziness, swelling of the face, lips, tongue and/or throat (angioedema), difficulty breathing or swallowing, and/or low blood pressure.
 
 Getting medical treatment right away may help keep these problems from becoming more serious.
 
@@ -908,7 +912,7 @@ Getting medical treatment right away may help keep these problems from becoming 
 
 The frequency and severity of side effects may vary with the dose you received. Tell your doctor or nurse if you notice any of the following side effects:
 
-## Very common (may affect more than 1 in 10 people)
+Very common (may affect more than 1 in 10 people)
 
 - nausea (feeling sick)
 - tiredness (fatigue)
@@ -925,7 +929,7 @@ The frequency and severity of side effects may vary with the dose you received. 
 - low levels of neutrophils, a type of white blood cell that fights infection (neutropenia)
 - increased levels of liver enzyme (alanine aminotransferase) in the blood
 
-## Common (may affect up to 1 in 10 people)
+Common (may affect up to 1 in 10 people)
 
 - redness and discomfort in the eye (conjunctivitis)
 - infusion-related reactions. These may include fever, chills, itching or rash
@@ -935,6 +939,9 @@ The frequency and severity of side effects may vary with the dose you received. 
 - dry mouth
 - itching (pruritus)
 - inflammation of the eyelid (blepharitis)
+
+<div style=\"page-break-after: always\"></div>
+
 - difficulty breathing (dyspnoea)
 - taste disturbance (dysgeusia)
 - dysfunction of the glands of the eyelids (meibomian glands)
@@ -944,9 +951,6 @@ The frequency and severity of side effects may vary with the dose you received. 
 - low levels of white blood cells which fight infection (leukopenia)
 - loss of eyelashes (madarosis)
 - abnormal sensitivity of the eyes to light
-
-<div style=\"page-break-after: always\"></div>
-
 - shiver, fever, general discomfort, pale or discoloured skin, shortness of breath due to overwhelmed bloodstream by bacteria (sepsis)
 
 Uncommon (may affect up to 1 in 100 people)
@@ -983,11 +987,11 @@ One vial of powder for concentrate for solution for infusion contains 100 mg of 
 
 Datroway is a white to yellowish white lyophilised powder supplied in a clear amber vial with a rubber stopper, aluminium seal and plastic flip-off cap. Each carton contains 1 vial.
 
+<div style=\"page-break-after: always\"></div>
+
 ## Marketing Authorisation Holder
 
 Daiichi Sankyo Europe GmbH Zielstattstrasse 48 81379 Munich Germany
-
-<div style=\"page-break-after: always\"></div>
 
 ## Manufacturer
 
@@ -995,13 +999,13 @@ Daiichi Sankyo Europe GmbH Luitpoldstrasse 1 85276 Pfaffenhofen Germany
 
 For any information about this medicine, please contact the local representative of the Marketing Authorisation Holder:
 
-België/Belgique/Belgien Daiichi Sankyo Belgium N.V.-S.A Tél/Tel: +32-(0) 2 227 18 80
+## België/Belgique/Belgien
+
+Daiichi Sankyo Belgium N.V.-S.A Tél/Tel: +32-(0) 2 227 18 80
 
 ## България
 
-АстраЗенека България ЕООД
-
-Тел.: +359 24455000
+АстраЗенека България ЕООД Тел.: +359 24455000
 
 ## Česká republika
 
@@ -1013,9 +1017,7 @@ Daiichi Sankyo Nordics ApS Tlf.: +45 (0) 33 68 19 99
 
 ## Deutschland
 
-Daiichi Sankyo Deutschland GmbH
-
-Tel: +49-(0) 89 7808 0
+Daiichi Sankyo Deutschland GmbH Tel: +49-(0) 89 7808 0
 
 ## Eesti
 
@@ -1041,25 +1043,17 @@ AstraZeneca d.o.o. Tel: +385 1 4628 000
 
 Daiichi Sankyo Ireland Ltd Tel: +353-(0) 1 489 3000
 
-## Ísland
-
-Icepharma hf Sími: +354 540 8000
-
-## Italia
-
-Daiichi Sankyo Italia S.p.A. Tel: +39-06 85 2551
-
 ## Lietuva
 
 UAB AstraZeneca Lietuva Tel: +370 5 2660550
 
 ## Luxembourg/Luxemburg
 
-Daiichi Sankyo Belgium N.V.-S.A
+Daiichi Sankyo Belgium N.V.-S.A Tél/Tel: +32-(0) 2 227 18 80
 
-Tél/Tel: +32-(0) 2 227 18 80
+## Magyarország
 
-Magyarország AstraZeneca Kft. Tel.: +36 1 883 6500
+AstraZeneca Kft. Tel.: +36 1 883 6500
 
 ## Malta
 
@@ -1093,27 +1087,29 @@ AstraZeneca Pharma SRL Tel: +40 21 317 60 41
 
 AstraZeneca UK Limited Tel: +386 1 51 35 600
 
-## Slovenská republika
+<div style=\"page-break-after: always\"></div>
 
-AstraZeneca AB, o.z. Tel: +421 2 5737 7777
+## Ísland
 
-## Suomi/Finland
+Icepharma hf
 
-Daiichi Sankyo Nordics ApS Puh/Tel: +358 (0) 9 3540 7081
+Sími: +354 540 8000
+
+## Italia
+
+Daiichi Sankyo Italia S.p.A.
+
+Tel: +39-06 85 2551
 
 ## Κύπρος
 
-Daiichi Sankyo Europe GmbH
-
-Τηλ: +49-(0) 89 7808 0
+Daiichi Sankyo Europe GmbH Τηλ: +49-(0) 89 7808 0
 
 ## Latvija
 
 SIA AstraZeneca Latvija
 
 Tel: +371 67377100
-
-<div style=\"page-break-after: always\"></div>
 
 ## This leaflet was last revised in
 
@@ -1144,8 +1140,18 @@ Appropriate aseptic technique should be used for the following reconstitution an
 - Dilute the calculated volume of reconstituted Datroway in an infusion bag containing 100 mL of 5% glucose solution. Do not use sodium chloride solution. An infusion bag made of polyvinylchloride (PVC) or polyolefin (polypropylene (PP) or copolymer of ethylene and propylene) is recommended.
 - Gently invert the infusion bag to thoroughly mix the solution. Do not shake.
 - Cover the infusion bag to protect from light.
-- If not used immediately, store at room temperature (≤ 25 °C) for up to 4 hours including preparation and infusion, or in a refrigerator at 2 °C to 8 °C for up to 24 hours, protected from light. Do not freeze.
-- Discard any unused portion left in the vial.
+
+## Slovenská republika
+
+AstraZeneca AB, o.z.
+
+Tel: +421 2 5737 7777
+
+## Suomi/Finland
+
+Daiichi Sankyo Nordics ApS
+
+Puh/Tel: +358 (0) 9 3540 7081
 
 ## Sverige
 
@@ -1154,6 +1160,9 @@ Daiichi Sankyo Nordics ApS
 Tel: +46 (0) 40 699 2524
 
 <div style=\"page-break-after: always\"></div>
+
+- If not used immediately, store at room temperature (≤ 25 °C) for up to 4 hours including preparation and infusion, or in a refrigerator at 2 °C to 8 °C for up to 24 hours, protected from light. Do not freeze.
+- Discard any unused portion left in the vial.
 
 ## Administration
 

@@ -1,21 +1,97 @@
 ---
-document_datetime: 2025-12-29 12:36:30
+document_datetime: 2026-02-11 14:10:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/imjudo.html
 document_name: imjudo.html
 version: success
-processing_time: 0.1307944
-conversion_datetime: 2025-12-31 01:52:51.273312
+processing_time: 0.1222987
+conversion_datetime: 2026-02-13 18:16:33.690368
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.66.0
-  docling-core: 2.57.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.12.0
+  docling-jobkit: 1.10.2
+  docling: 2.73.1
+  docling-core: 2.65.1
+  docling-ibm-models: 3.11.0
+  docling-parse: 4.7.3
   python: cpython-313 (3.13.11)
   plaform: macOS-26.2-arm64-arm-64bit-Mach-O
 ---
+# Search
+
+- [Medicines](/en/medicines)
+    - [Find medicine](/en/medicines)
+    - [Therapeutic areas: latest updates](/en/medicines/therapeutic-areas-latest-updates)
+    - [Download medicine data](/en/medicines/download-medicine-data)
+    - [What we publish on medicines and when](/en/medicines/what-we-publish-medicines-when)
+    - [Medicines under evaluation](/en/medicines/medicines-human-use-under-evaluation)
+    - [National registers](/en/medicines/national-registers-authorised-medicines)
+- [Human regulatory](/en/human-regulatory-overview)
+    - [Overview](/en/human-regulatory-overview)
+    - [Research and development](/en/human-regulatory-overview/research-development)
+    - [Marketing authorisation](/en/human-regulatory-overview/marketing-authorisation)
+    - [Post-authorisation](/en/human-regulatory-overview/post-authorisation)
+    - [Medical devices](/en/human-regulatory-overview/medical-devices)
+    - [Herbal products](/en/human-regulatory-overview/herbal-medicinal-products)
+- [Veterinary regulatory](/en/veterinary-regulatory-overview)
+    - [Overview](/en/veterinary-regulatory-overview)
+    - [Research and development](/en/veterinary-regulatory-overview/research-development-veterinary-medicines)
+    - [Marketing authorisation](/en/veterinary-regulatory-overview/marketing-authorisation-veterinary-medicines)
+    - [Post-authorisation](/en/veterinary-regulatory-overview/post-authorisation-veterinary-medicines)
+- [Committees](/en/committees)
+    - [Overview](/en/committees)
+    - [How the committees work](/en/committees/how-committees-work)
+    - [CHMP](/en/committees/committee-medicinal-products-human-use-chmp)
+    - [CVMP](/en/committees/committee-veterinary-medicinal-products-cvmp)
+    - [PRAC](/en/committees/pharmacovigilance-risk-assessment-committee-prac)
+    - [COMP](/en/committees/committee-orphan-medicinal-products-comp)
+    - [HMPC](/en/committees/committee-herbal-medicinal-products-hmpc)
+    - [CAT](/en/committees/committee-advanced-therapies-cat)
+    - [PDCO](/en/committees/paediatric-committee-pdco)
+    - [Working parties and other groups](/en/committees/working-parties-other-groups)
+- [News &amp; events](/en/news-events)
+    - [Overview](/en/news-events)
+    - [News](/en/news)
+    - [Events](/en/events/upcoming-events)
+    - [What's new](/en/news-events/whats-new)
+    - [Committee highlights](/en/news-events/committee-highlights)
+    - [Publications](/en/news-and-events/publications)
+    - [Press and social media](/en/news-events/press-social-media)
+    - [Podcast: Inside EMA](/en/news-events/podcast-inside-ema)
+    - [Open consultations](/en/news-events/open-consultations)
+    - [RSS feeds](/en/news-events/rss-feeds)
+- [Partners &amp; networks](/en/partners-networks)
+    - [Overview](/en/partners-networks)
+    - [EU partners](/en/partners-networks/eu-partners)
+    - [International activities](/en/partners-networks/international-activities)
+    - [Patients and consumers](/en/partners-networks/patients-consumers)
+    - [Healthcare professionals](/en/partners-networks/healthcare-professionals)
+    - [Academia](/en/partners-networks/academia)
+    - [Pharmaceutical industry](/en/partners-networks/pharmaceutical-industry)
+    - [Networks](/en/partners-networks/networks)
+    - [Health technology assessment bodies](/en/partners-networks/health-technology-assessment-bodies)
+    - [One Health approach](/en/partners-networks/one-health-approach)
+    - [Animal health practitioners](/en/partners-networks/animal-health-practitioners)
+    - [One substance - one assessment](/en/partners-networks/one-substance-one-assessment-osoa-eu-collaboration-chemicals-related-data)
+- [About us](/en/about-us)
+    - [Overview](/en/about-us)
+    - [What we do](/en/about-us/what-we-do)
+    - [Who we are](/en/about-us/who-we-are)
+    - [How we work](/en/about-us/how-we-work)
+    - [Fees](/en/about-us/fees-payable-european-medicines-agency)
+    - [Support to SMEs](/en/about-us/support-smes)
+    - [Annual reports and work programmes](/en/about-us/annual-reports-work-programmes)
+    - [History of EMA](/en/about-us/history-ema)
+    - [Careers](/en/about-us/careers)
+    - [Procurement](/en/about-us/procurement-grants)
+    - [Glossaries](/en/about-us/glossaries)
+    - [About this website](/en/about-us/about-website)
+    - [Data protection and privacy](/en/about-us/data-protection-privacy-ema)
+    - [Contacts](/en/about-us/contacts-european-medicines-agency)
+
+1. [Home](/en/homepage)
+2. [Medicines](https://www.ema.europa.eu/en/medicines)
+3. Imjudo
+
 # Imjudo
 
 [RSS](/en/individual-human-medicine.xml/67648)
@@ -25,8 +101,6 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 tremelimumab Medicine Human Authorised
-
-On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -124,7 +198,7 @@ English (EN) (138.67 KB - PDF)
 
 [View](/en/documents/overview/imjudo-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-349)
+[Other languages (22)](#file-language-dropdown-912)
 
 български (BG) (162.88 KB - PDF)
 
@@ -410,7 +484,7 @@ English (EN) (939.84 KB - PDF)
 
 [View](/en/documents/product-information/imjudo-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-338)
+[Other languages (24)](#file-language-dropdown-901)
 
 български (BG) (1 MB - PDF)
 
@@ -724,7 +798,7 @@ English (EN) (23.33 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/imjudo-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-24)
+[Other languages (24)](#file-language-dropdown-67)
 
 български (BG) (27.43 KB - PDF)
 
@@ -971,6 +1045,18 @@ English (EN) (166.67 KB - PDF)
 
 [View](/en/documents/procedural-steps-after/imjudo-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf)
 
+Imjudo-H-C-WS2543 : EPAR - Assessment report - Variation
+
+Adopted
+
+Reference Number: EMA/20881/2026
+
+English (EN) (5.62 MB - PDF)
+
+**First published:** 11/02/2026
+
+[View](/en/documents/variation-report/imjudo-h-c-ws2543-epar-assessment-report-variation_en.pdf)
+
 Imjudo-H-C-PSUSA-00011038-202410 : EPAR - Scientific conclusions and grounds for the variation to the terms of the marketing authorisation
 
 Reference Number: EMA/264545/2025
@@ -1071,7 +1157,7 @@ English (EN) (473.23 KB - DOCX)
 
 [View](/en/documents/product-information-tracked-changes/imjudo-epar-product-information-tracked-changes_en.docx)
 
-[Other languages (24)](#file-language-dropdown-573)
+[Other languages (24)](#file-language-dropdown-395)
 
 български (BG) (461.97 KB - DOCX)
 
@@ -1269,7 +1355,7 @@ svenska (SV) (455.18 KB - DOCX)
 
 - [EMEA-002029-PIP01-16-M04 - paediatric investigation plan](/en/medicines/human/paediatric-investigation-plans/emea-002029-pip01-16-m04)
 
-**This page was last updated on** 14/08/2025
+**This page was last updated on** 11/02/2026
 
 ## Share this page
 

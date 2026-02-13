@@ -1,21 +1,97 @@
 ---
-document_datetime: 2025-12-17 13:58:08
+document_datetime: 2026-02-09 17:50:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/datroway.html
 document_name: datroway.html
 version: success
-processing_time: 0.1060185
-conversion_datetime: 2026-01-03 13:12:53.760647
+processing_time: 0.0794087
+conversion_datetime: 2026-02-13 18:57:41.284935
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.66.0
-  docling-core: 2.57.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.12.0
+  docling-jobkit: 1.10.2
+  docling: 2.73.1
+  docling-core: 2.65.1
+  docling-ibm-models: 3.11.0
+  docling-parse: 4.7.3
   python: cpython-313 (3.13.11)
   plaform: macOS-26.2-arm64-arm-64bit-Mach-O
 ---
+# Search
+
+- [Medicines](/en/medicines)
+    - [Find medicine](/en/medicines)
+    - [Therapeutic areas: latest updates](/en/medicines/therapeutic-areas-latest-updates)
+    - [Download medicine data](/en/medicines/download-medicine-data)
+    - [What we publish on medicines and when](/en/medicines/what-we-publish-medicines-when)
+    - [Medicines under evaluation](/en/medicines/medicines-human-use-under-evaluation)
+    - [National registers](/en/medicines/national-registers-authorised-medicines)
+- [Human regulatory](/en/human-regulatory-overview)
+    - [Overview](/en/human-regulatory-overview)
+    - [Research and development](/en/human-regulatory-overview/research-development)
+    - [Marketing authorisation](/en/human-regulatory-overview/marketing-authorisation)
+    - [Post-authorisation](/en/human-regulatory-overview/post-authorisation)
+    - [Medical devices](/en/human-regulatory-overview/medical-devices)
+    - [Herbal products](/en/human-regulatory-overview/herbal-medicinal-products)
+- [Veterinary regulatory](/en/veterinary-regulatory-overview)
+    - [Overview](/en/veterinary-regulatory-overview)
+    - [Research and development](/en/veterinary-regulatory-overview/research-development-veterinary-medicines)
+    - [Marketing authorisation](/en/veterinary-regulatory-overview/marketing-authorisation-veterinary-medicines)
+    - [Post-authorisation](/en/veterinary-regulatory-overview/post-authorisation-veterinary-medicines)
+- [Committees](/en/committees)
+    - [Overview](/en/committees)
+    - [How the committees work](/en/committees/how-committees-work)
+    - [CHMP](/en/committees/committee-medicinal-products-human-use-chmp)
+    - [CVMP](/en/committees/committee-veterinary-medicinal-products-cvmp)
+    - [PRAC](/en/committees/pharmacovigilance-risk-assessment-committee-prac)
+    - [COMP](/en/committees/committee-orphan-medicinal-products-comp)
+    - [HMPC](/en/committees/committee-herbal-medicinal-products-hmpc)
+    - [CAT](/en/committees/committee-advanced-therapies-cat)
+    - [PDCO](/en/committees/paediatric-committee-pdco)
+    - [Working parties and other groups](/en/committees/working-parties-other-groups)
+- [News &amp; events](/en/news-events)
+    - [Overview](/en/news-events)
+    - [News](/en/news)
+    - [Events](/en/events/upcoming-events)
+    - [What's new](/en/news-events/whats-new)
+    - [Committee highlights](/en/news-events/committee-highlights)
+    - [Publications](/en/news-and-events/publications)
+    - [Press and social media](/en/news-events/press-social-media)
+    - [Podcast: Inside EMA](/en/news-events/podcast-inside-ema)
+    - [Open consultations](/en/news-events/open-consultations)
+    - [RSS feeds](/en/news-events/rss-feeds)
+- [Partners &amp; networks](/en/partners-networks)
+    - [Overview](/en/partners-networks)
+    - [EU partners](/en/partners-networks/eu-partners)
+    - [International activities](/en/partners-networks/international-activities)
+    - [Patients and consumers](/en/partners-networks/patients-consumers)
+    - [Healthcare professionals](/en/partners-networks/healthcare-professionals)
+    - [Academia](/en/partners-networks/academia)
+    - [Pharmaceutical industry](/en/partners-networks/pharmaceutical-industry)
+    - [Networks](/en/partners-networks/networks)
+    - [Health technology assessment bodies](/en/partners-networks/health-technology-assessment-bodies)
+    - [One Health approach](/en/partners-networks/one-health-approach)
+    - [Animal health practitioners](/en/partners-networks/animal-health-practitioners)
+    - [One substance - one assessment](/en/partners-networks/one-substance-one-assessment-osoa-eu-collaboration-chemicals-related-data)
+- [About us](/en/about-us)
+    - [Overview](/en/about-us)
+    - [What we do](/en/about-us/what-we-do)
+    - [Who we are](/en/about-us/who-we-are)
+    - [How we work](/en/about-us/how-we-work)
+    - [Fees](/en/about-us/fees-payable-european-medicines-agency)
+    - [Support to SMEs](/en/about-us/support-smes)
+    - [Annual reports and work programmes](/en/about-us/annual-reports-work-programmes)
+    - [History of EMA](/en/about-us/history-ema)
+    - [Careers](/en/about-us/careers)
+    - [Procurement](/en/about-us/procurement-grants)
+    - [Glossaries](/en/about-us/glossaries)
+    - [About this website](/en/about-us/about-website)
+    - [Data protection and privacy](/en/about-us/data-protection-privacy-ema)
+    - [Contacts](/en/about-us/contacts-european-medicines-agency)
+
+1. [Home](/en/homepage)
+2. [Medicines](https://www.ema.europa.eu/en/medicines)
+3. Datroway
+
 # Datroway
 
 [RSS](/en/individual-human-medicine.xml/254519)
@@ -25,8 +101,6 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 datopotamab deruxtecan Medicine Human Authorised
-
-On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -108,7 +182,7 @@ English (EN) (143.64 KB - PDF)
 
 [View](/en/documents/overview/datroway-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-254)
+[Other languages (22)](#file-language-dropdown-697)
 
 български (BG) (158.94 KB - PDF)
 
@@ -298,17 +372,17 @@ English (EN) (591.18 KB - PDF)
 
 Datroway : EPAR - Product information
 
-English (EN) (359.8 KB - PDF)
+English (EN) (362.54 KB - PDF)
 
 **First published:** 13/05/2025
 
-**Last updated:** 17/12/2025
+**Last updated:** 09/02/2026
 
 [View](/en/documents/product-information/datroway-epar-product-information_en.pdf)
 
-[Other languages (23)](#file-language-dropdown-883)
+[Other languages (24)](#file-language-dropdown-917)
 
-български (BG) (513.46 KB - PDF)
+български (BG) (519.72 KB - PDF)
 
 **First published:**
 
@@ -316,11 +390,11 @@ English (EN) (359.8 KB - PDF)
 
 **Last updated:**
 
-17/12/2025
+09/02/2026
 
 [View](/bg/documents/product-information/datroway-epar-product-information_bg.pdf)
 
-español (ES) (460 KB - PDF)
+español (ES) (486.03 KB - PDF)
 
 **First published:**
 
@@ -328,11 +402,11 @@ español (ES) (460 KB - PDF)
 
 **Last updated:**
 
-17/12/2025
+09/02/2026
 
 [View](/es/documents/product-information/datroway-epar-product-information_es.pdf)
 
-čeština (CS) (487.79 KB - PDF)
+čeština (CS) (511.25 KB - PDF)
 
 **First published:**
 
@@ -340,11 +414,11 @@ español (ES) (460 KB - PDF)
 
 **Last updated:**
 
-17/12/2025
+09/02/2026
 
 [View](/cs/documents/product-information/datroway-epar-product-information_cs.pdf)
 
-dansk (DA) (444.12 KB - PDF)
+dansk (DA) (447.54 KB - PDF)
 
 **First published:**
 
@@ -352,11 +426,11 @@ dansk (DA) (444.12 KB - PDF)
 
 **Last updated:**
 
-17/12/2025
+09/02/2026
 
 [View](/da/documents/product-information/datroway-epar-product-information_da.pdf)
 
-Deutsch (DE) (454.56 KB - PDF)
+Deutsch (DE) (479.82 KB - PDF)
 
 **First published:**
 
@@ -364,11 +438,11 @@ Deutsch (DE) (454.56 KB - PDF)
 
 **Last updated:**
 
-17/12/2025
+09/02/2026
 
 [View](/de/documents/product-information/datroway-epar-product-information_de.pdf)
 
-eesti keel (ET) (470.71 KB - PDF)
+eesti keel (ET) (443.9 KB - PDF)
 
 **First published:**
 
@@ -376,11 +450,11 @@ eesti keel (ET) (470.71 KB - PDF)
 
 **Last updated:**
 
-17/12/2025
+09/02/2026
 
 [View](/et/documents/product-information/datroway-epar-product-information_et.pdf)
 
-ελληνικά (EL) (743.43 KB - PDF)
+ελληνικά (EL) (531.74 KB - PDF)
 
 **First published:**
 
@@ -388,11 +462,11 @@ eesti keel (ET) (470.71 KB - PDF)
 
 **Last updated:**
 
-17/12/2025
+09/02/2026
 
 [View](/el/documents/product-information/datroway-epar-product-information_el.pdf)
 
-hrvatski (HR) (525.62 KB - PDF)
+français (FR) (493.75 KB - PDF)
 
 **First published:**
 
@@ -400,11 +474,23 @@ hrvatski (HR) (525.62 KB - PDF)
 
 **Last updated:**
 
-17/12/2025
+09/02/2026
+
+[View](/fr/documents/product-information/datroway-epar-product-information_fr.pdf)
+
+hrvatski (HR) (552.6 KB - PDF)
+
+**First published:**
+
+13/05/2025
+
+**Last updated:**
+
+09/02/2026
 
 [View](/hr/documents/product-information/datroway-epar-product-information_hr.pdf)
 
-íslenska (IS) (438.37 KB - PDF)
+íslenska (IS) (443.54 KB - PDF)
 
 **First published:**
 
@@ -412,11 +498,11 @@ hrvatski (HR) (525.62 KB - PDF)
 
 **Last updated:**
 
-17/12/2025
+09/02/2026
 
 [View](/is/documents/product-information/datroway-epar-product-information_is.pdf)
 
-italiano (IT) (422.84 KB - PDF)
+italiano (IT) (450.46 KB - PDF)
 
 **First published:**
 
@@ -424,11 +510,11 @@ italiano (IT) (422.84 KB - PDF)
 
 **Last updated:**
 
-17/12/2025
+09/02/2026
 
 [View](/it/documents/product-information/datroway-epar-product-information_it.pdf)
 
-latviešu valoda (LV) (440.09 KB - PDF)
+latviešu valoda (LV) (466.64 KB - PDF)
 
 **First published:**
 
@@ -436,11 +522,11 @@ latviešu valoda (LV) (440.09 KB - PDF)
 
 **Last updated:**
 
-17/12/2025
+09/02/2026
 
 [View](/lv/documents/product-information/datroway-epar-product-information_lv.pdf)
 
-lietuvių kalba (LT) (500.65 KB - PDF)
+lietuvių kalba (LT) (527.85 KB - PDF)
 
 **First published:**
 
@@ -448,11 +534,11 @@ lietuvių kalba (LT) (500.65 KB - PDF)
 
 **Last updated:**
 
-17/12/2025
+09/02/2026
 
 [View](/lt/documents/product-information/datroway-epar-product-information_lt.pdf)
 
-magyar (HU) (526.51 KB - PDF)
+magyar (HU) (553.12 KB - PDF)
 
 **First published:**
 
@@ -460,11 +546,11 @@ magyar (HU) (526.51 KB - PDF)
 
 **Last updated:**
 
-17/12/2025
+09/02/2026
 
 [View](/hu/documents/product-information/datroway-epar-product-information_hu.pdf)
 
-Malti (MT) (527.37 KB - PDF)
+Malti (MT) (556.75 KB - PDF)
 
 **First published:**
 
@@ -472,11 +558,11 @@ Malti (MT) (527.37 KB - PDF)
 
 **Last updated:**
 
-17/12/2025
+09/02/2026
 
 [View](/mt/documents/product-information/datroway-epar-product-information_mt.pdf)
 
-Nederlands (NL) (440.57 KB - PDF)
+Nederlands (NL) (463.62 KB - PDF)
 
 **First published:**
 
@@ -484,11 +570,11 @@ Nederlands (NL) (440.57 KB - PDF)
 
 **Last updated:**
 
-17/12/2025
+09/02/2026
 
 [View](/nl/documents/product-information/datroway-epar-product-information_nl.pdf)
 
-norsk (NO) (423.06 KB - PDF)
+norsk (NO) (445.03 KB - PDF)
 
 **First published:**
 
@@ -496,11 +582,11 @@ norsk (NO) (423.06 KB - PDF)
 
 **Last updated:**
 
-17/12/2025
+09/02/2026
 
 [View](/no/documents/product-information/datroway-epar-product-information_no.pdf)
 
-polski (PL) (512.62 KB - PDF)
+polski (PL) (536.69 KB - PDF)
 
 **First published:**
 
@@ -508,11 +594,11 @@ polski (PL) (512.62 KB - PDF)
 
 **Last updated:**
 
-17/12/2025
+09/02/2026
 
 [View](/pl/documents/product-information/datroway-epar-product-information_pl.pdf)
 
-português (PT) (420.77 KB - PDF)
+português (PT) (443.69 KB - PDF)
 
 **First published:**
 
@@ -520,11 +606,11 @@ português (PT) (420.77 KB - PDF)
 
 **Last updated:**
 
-17/12/2025
+09/02/2026
 
 [View](/pt/documents/product-information/datroway-epar-product-information_pt.pdf)
 
-română (RO) (466.49 KB - PDF)
+română (RO) (494.32 KB - PDF)
 
 **First published:**
 
@@ -532,11 +618,11 @@ română (RO) (466.49 KB - PDF)
 
 **Last updated:**
 
-17/12/2025
+09/02/2026
 
 [View](/ro/documents/product-information/datroway-epar-product-information_ro.pdf)
 
-slovenčina (SK) (503.3 KB - PDF)
+slovenčina (SK) (526.37 KB - PDF)
 
 **First published:**
 
@@ -544,11 +630,11 @@ slovenčina (SK) (503.3 KB - PDF)
 
 **Last updated:**
 
-17/12/2025
+09/02/2026
 
 [View](/sk/documents/product-information/datroway-epar-product-information_sk.pdf)
 
-slovenščina (SL) (475.05 KB - PDF)
+slovenščina (SL) (482.87 KB - PDF)
 
 **First published:**
 
@@ -556,11 +642,11 @@ slovenščina (SL) (475.05 KB - PDF)
 
 **Last updated:**
 
-17/12/2025
+09/02/2026
 
 [View](/sl/documents/product-information/datroway-epar-product-information_sl.pdf)
 
-Suomi (FI) (447.57 KB - PDF)
+Suomi (FI) (450.54 KB - PDF)
 
 **First published:**
 
@@ -568,11 +654,11 @@ Suomi (FI) (447.57 KB - PDF)
 
 **Last updated:**
 
-17/12/2025
+09/02/2026
 
 [View](/fi/documents/product-information/datroway-epar-product-information_fi.pdf)
 
-svenska (SV) (432.87 KB - PDF)
+svenska (SV) (452.15 KB - PDF)
 
 **First published:**
 
@@ -580,11 +666,11 @@ svenska (SV) (432.87 KB - PDF)
 
 **Last updated:**
 
-17/12/2025
+09/02/2026
 
 [View](/sv/documents/product-information/datroway-epar-product-information_sv.pdf)
 
-**Latest procedure affecting product information:** VR/0000308661 10/12/2025
+**Latest procedure affecting product information:** VR/0000325249 09/02/2026
 
 icon globe
 
@@ -608,7 +694,7 @@ English (EN) (11.37 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/datroway-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-728)
+[Other languages (24)](#file-language-dropdown-719)
 
 български (BG) (43.82 KB - PDF)
 
@@ -828,7 +914,7 @@ Daiichi Sankyo Europe GmbH
 
 Zielstattstrasse 48
 
-Opinion adopted 30/01/2025 Marketing authorisation issued 04/04/2025 Revision 3
+Opinion adopted 30/01/2025 Marketing authorisation issued 04/04/2025 Revision 4
 
 ## Assessment history
 
@@ -840,11 +926,11 @@ Collapse section
 
 Datroway : EPAR - Procedural steps taken and scientific information after authorisation
 
-English (EN) (135.03 KB - PDF)
+English (EN) (158.07 KB - PDF)
 
 **First published:** 24/06/2025
 
-**Last updated:** 17/12/2025
+**Last updated:** 09/02/2026
 
 [View](/en/documents/procedural-steps-after/datroway-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf)
 
@@ -880,7 +966,7 @@ English (EN) (155.33 KB - PDF)
 
 [Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 27-30 January 2025](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-27-30-january-2025) 31/01/2025
 
-**This page was last updated on** 17/12/2025
+**This page was last updated on** 09/02/2026
 
 ## Share this page
 

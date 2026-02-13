@@ -1,21 +1,97 @@
 ---
-document_datetime: 2025-12-29 12:49:08
+document_datetime: 2026-02-09 17:46:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/lytenava.html
 document_name: lytenava.html
 version: success
-processing_time: 0.0936508
-conversion_datetime: 2025-12-30 11:50:38.970927
+processing_time: 0.0935786
+conversion_datetime: 2026-02-13 18:15:09.769076
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.66.0
-  docling-core: 2.57.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.12.0
+  docling-jobkit: 1.10.2
+  docling: 2.73.1
+  docling-core: 2.65.1
+  docling-ibm-models: 3.11.0
+  docling-parse: 4.7.3
   python: cpython-313 (3.13.11)
   plaform: macOS-26.2-arm64-arm-64bit-Mach-O
 ---
+# Search
+
+- [Medicines](/en/medicines)
+    - [Find medicine](/en/medicines)
+    - [Therapeutic areas: latest updates](/en/medicines/therapeutic-areas-latest-updates)
+    - [Download medicine data](/en/medicines/download-medicine-data)
+    - [What we publish on medicines and when](/en/medicines/what-we-publish-medicines-when)
+    - [Medicines under evaluation](/en/medicines/medicines-human-use-under-evaluation)
+    - [National registers](/en/medicines/national-registers-authorised-medicines)
+- [Human regulatory](/en/human-regulatory-overview)
+    - [Overview](/en/human-regulatory-overview)
+    - [Research and development](/en/human-regulatory-overview/research-development)
+    - [Marketing authorisation](/en/human-regulatory-overview/marketing-authorisation)
+    - [Post-authorisation](/en/human-regulatory-overview/post-authorisation)
+    - [Medical devices](/en/human-regulatory-overview/medical-devices)
+    - [Herbal products](/en/human-regulatory-overview/herbal-medicinal-products)
+- [Veterinary regulatory](/en/veterinary-regulatory-overview)
+    - [Overview](/en/veterinary-regulatory-overview)
+    - [Research and development](/en/veterinary-regulatory-overview/research-development-veterinary-medicines)
+    - [Marketing authorisation](/en/veterinary-regulatory-overview/marketing-authorisation-veterinary-medicines)
+    - [Post-authorisation](/en/veterinary-regulatory-overview/post-authorisation-veterinary-medicines)
+- [Committees](/en/committees)
+    - [Overview](/en/committees)
+    - [How the committees work](/en/committees/how-committees-work)
+    - [CHMP](/en/committees/committee-medicinal-products-human-use-chmp)
+    - [CVMP](/en/committees/committee-veterinary-medicinal-products-cvmp)
+    - [PRAC](/en/committees/pharmacovigilance-risk-assessment-committee-prac)
+    - [COMP](/en/committees/committee-orphan-medicinal-products-comp)
+    - [HMPC](/en/committees/committee-herbal-medicinal-products-hmpc)
+    - [CAT](/en/committees/committee-advanced-therapies-cat)
+    - [PDCO](/en/committees/paediatric-committee-pdco)
+    - [Working parties and other groups](/en/committees/working-parties-other-groups)
+- [News &amp; events](/en/news-events)
+    - [Overview](/en/news-events)
+    - [News](/en/news)
+    - [Events](/en/events/upcoming-events)
+    - [What's new](/en/news-events/whats-new)
+    - [Committee highlights](/en/news-events/committee-highlights)
+    - [Publications](/en/news-and-events/publications)
+    - [Press and social media](/en/news-events/press-social-media)
+    - [Podcast: Inside EMA](/en/news-events/podcast-inside-ema)
+    - [Open consultations](/en/news-events/open-consultations)
+    - [RSS feeds](/en/news-events/rss-feeds)
+- [Partners &amp; networks](/en/partners-networks)
+    - [Overview](/en/partners-networks)
+    - [EU partners](/en/partners-networks/eu-partners)
+    - [International activities](/en/partners-networks/international-activities)
+    - [Patients and consumers](/en/partners-networks/patients-consumers)
+    - [Healthcare professionals](/en/partners-networks/healthcare-professionals)
+    - [Academia](/en/partners-networks/academia)
+    - [Pharmaceutical industry](/en/partners-networks/pharmaceutical-industry)
+    - [Networks](/en/partners-networks/networks)
+    - [Health technology assessment bodies](/en/partners-networks/health-technology-assessment-bodies)
+    - [One Health approach](/en/partners-networks/one-health-approach)
+    - [Animal health practitioners](/en/partners-networks/animal-health-practitioners)
+    - [One substance - one assessment](/en/partners-networks/one-substance-one-assessment-osoa-eu-collaboration-chemicals-related-data)
+- [About us](/en/about-us)
+    - [Overview](/en/about-us)
+    - [What we do](/en/about-us/what-we-do)
+    - [Who we are](/en/about-us/who-we-are)
+    - [How we work](/en/about-us/how-we-work)
+    - [Fees](/en/about-us/fees-payable-european-medicines-agency)
+    - [Support to SMEs](/en/about-us/support-smes)
+    - [Annual reports and work programmes](/en/about-us/annual-reports-work-programmes)
+    - [History of EMA](/en/about-us/history-ema)
+    - [Careers](/en/about-us/careers)
+    - [Procurement](/en/about-us/procurement-grants)
+    - [Glossaries](/en/about-us/glossaries)
+    - [About this website](/en/about-us/about-website)
+    - [Data protection and privacy](/en/about-us/data-protection-privacy-ema)
+    - [Contacts](/en/about-us/contacts-european-medicines-agency)
+
+1. [Home](/en/homepage)
+2. [Medicines](https://www.ema.europa.eu/en/medicines)
+3. Lytenava
+
 # Lytenava
 
 [RSS](/en/individual-human-medicine.xml/240140)
@@ -25,8 +101,6 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 bevacizumab Medicine Human Authorised
-
-On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -109,7 +183,7 @@ English (EN) (114.12 KB - PDF)
 
 [View](/en/documents/overview/lytenava-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-399)
+[Other languages (22)](#file-language-dropdown-743)
 
 български (BG) (146.87 KB - PDF)
 
@@ -299,17 +373,17 @@ English (EN) (1.29 MB - PDF)
 
 Lytenava : EPAR - Product information
 
-English (EN) (276.66 KB - PDF)
+English (EN) (413.04 KB - PDF)
 
 **First published:** 31/05/2024
 
-**Last updated:** 22/01/2025
+**Last updated:** 09/02/2026
 
 [View](/en/documents/product-information/lytenava-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-690)
+[Other languages (24)](#file-language-dropdown-181)
 
-български (BG) (386.12 KB - PDF)
+български (BG) (499.24 KB - PDF)
 
 **First published:**
 
@@ -317,11 +391,11 @@ English (EN) (276.66 KB - PDF)
 
 **Last updated:**
 
-22/01/2025
+09/02/2026
 
 [View](/bg/documents/product-information/lytenava-epar-product-information_bg.pdf)
 
-español (ES) (280.45 KB - PDF)
+español (ES) (426.59 KB - PDF)
 
 **First published:**
 
@@ -329,11 +403,11 @@ español (ES) (280.45 KB - PDF)
 
 **Last updated:**
 
-22/01/2025
+09/02/2026
 
 [View](/es/documents/product-information/lytenava-epar-product-information_es.pdf)
 
-čeština (CS) (361.73 KB - PDF)
+čeština (CS) (486.9 KB - PDF)
 
 **First published:**
 
@@ -341,11 +415,11 @@ español (ES) (280.45 KB - PDF)
 
 **Last updated:**
 
-22/01/2025
+09/02/2026
 
 [View](/cs/documents/product-information/lytenava-epar-product-information_cs.pdf)
 
-dansk (DA) (277.9 KB - PDF)
+dansk (DA) (425.23 KB - PDF)
 
 **First published:**
 
@@ -353,11 +427,11 @@ dansk (DA) (277.9 KB - PDF)
 
 **Last updated:**
 
-22/01/2025
+09/02/2026
 
 [View](/da/documents/product-information/lytenava-epar-product-information_da.pdf)
 
-Deutsch (DE) (386.48 KB - PDF)
+Deutsch (DE) (418.12 KB - PDF)
 
 **First published:**
 
@@ -365,11 +439,11 @@ Deutsch (DE) (386.48 KB - PDF)
 
 **Last updated:**
 
-22/01/2025
+09/02/2026
 
 [View](/de/documents/product-information/lytenava-epar-product-information_de.pdf)
 
-eesti keel (ET) (269.93 KB - PDF)
+eesti keel (ET) (426.23 KB - PDF)
 
 **First published:**
 
@@ -377,11 +451,11 @@ eesti keel (ET) (269.93 KB - PDF)
 
 **Last updated:**
 
-22/01/2025
+09/02/2026
 
 [View](/et/documents/product-information/lytenava-epar-product-information_et.pdf)
 
-ελληνικά (EL) (390.15 KB - PDF)
+ελληνικά (EL) (461.81 KB - PDF)
 
 **First published:**
 
@@ -389,11 +463,11 @@ eesti keel (ET) (269.93 KB - PDF)
 
 **Last updated:**
 
-22/01/2025
+09/02/2026
 
 [View](/el/documents/product-information/lytenava-epar-product-information_el.pdf)
 
-français (FR) (286.76 KB - PDF)
+français (FR) (491.84 KB - PDF)
 
 **First published:**
 
@@ -401,11 +475,11 @@ français (FR) (286.76 KB - PDF)
 
 **Last updated:**
 
-22/01/2025
+09/02/2026
 
 [View](/fr/documents/product-information/lytenava-epar-product-information_fr.pdf)
 
-hrvatski (HR) (356.31 KB - PDF)
+hrvatski (HR) (448.97 KB - PDF)
 
 **First published:**
 
@@ -413,11 +487,11 @@ hrvatski (HR) (356.31 KB - PDF)
 
 **Last updated:**
 
-22/01/2025
+09/02/2026
 
 [View](/hr/documents/product-information/lytenava-epar-product-information_hr.pdf)
 
-íslenska (IS) (417.41 KB - PDF)
+íslenska (IS) (414.16 KB - PDF)
 
 **First published:**
 
@@ -425,11 +499,11 @@ hrvatski (HR) (356.31 KB - PDF)
 
 **Last updated:**
 
-22/01/2025
+09/02/2026
 
 [View](/is/documents/product-information/lytenava-epar-product-information_is.pdf)
 
-italiano (IT) (278.53 KB - PDF)
+italiano (IT) (436.2 KB - PDF)
 
 **First published:**
 
@@ -437,11 +511,11 @@ italiano (IT) (278.53 KB - PDF)
 
 **Last updated:**
 
-22/01/2025
+09/02/2026
 
 [View](/it/documents/product-information/lytenava-epar-product-information_it.pdf)
 
-latviešu valoda (LV) (366.12 KB - PDF)
+latviešu valoda (LV) (489.97 KB - PDF)
 
 **First published:**
 
@@ -449,11 +523,11 @@ latviešu valoda (LV) (366.12 KB - PDF)
 
 **Last updated:**
 
-22/01/2025
+09/02/2026
 
 [View](/lv/documents/product-information/lytenava-epar-product-information_lv.pdf)
 
-lietuvių kalba (LT) (362.56 KB - PDF)
+lietuvių kalba (LT) (453.45 KB - PDF)
 
 **First published:**
 
@@ -461,11 +535,11 @@ lietuvių kalba (LT) (362.56 KB - PDF)
 
 **Last updated:**
 
-22/01/2025
+09/02/2026
 
 [View](/lt/documents/product-information/lytenava-epar-product-information_lt.pdf)
 
-magyar (HU) (364.48 KB - PDF)
+magyar (HU) (451.4 KB - PDF)
 
 **First published:**
 
@@ -473,11 +547,11 @@ magyar (HU) (364.48 KB - PDF)
 
 **Last updated:**
 
-22/01/2025
+09/02/2026
 
 [View](/hu/documents/product-information/lytenava-epar-product-information_hu.pdf)
 
-Malti (MT) (379.72 KB - PDF)
+Malti (MT) (479.25 KB - PDF)
 
 **First published:**
 
@@ -485,11 +559,11 @@ Malti (MT) (379.72 KB - PDF)
 
 **Last updated:**
 
-22/01/2025
+09/02/2026
 
 [View](/mt/documents/product-information/lytenava-epar-product-information_mt.pdf)
 
-Nederlands (NL) (281.92 KB - PDF)
+Nederlands (NL) (446.4 KB - PDF)
 
 **First published:**
 
@@ -497,11 +571,11 @@ Nederlands (NL) (281.92 KB - PDF)
 
 **Last updated:**
 
-22/01/2025
+09/02/2026
 
 [View](/nl/documents/product-information/lytenava-epar-product-information_nl.pdf)
 
-norsk (NO) (301.71 KB - PDF)
+norsk (NO) (399.9 KB - PDF)
 
 **First published:**
 
@@ -509,11 +583,11 @@ norsk (NO) (301.71 KB - PDF)
 
 **Last updated:**
 
-22/01/2025
+09/02/2026
 
 [View](/no/documents/product-information/lytenava-epar-product-information_no.pdf)
 
-polski (PL) (362.26 KB - PDF)
+polski (PL) (471.71 KB - PDF)
 
 **First published:**
 
@@ -521,11 +595,11 @@ polski (PL) (362.26 KB - PDF)
 
 **Last updated:**
 
-22/01/2025
+09/02/2026
 
 [View](/pl/documents/product-information/lytenava-epar-product-information_pl.pdf)
 
-português (PT) (278.27 KB - PDF)
+português (PT) (430.76 KB - PDF)
 
 **First published:**
 
@@ -533,11 +607,11 @@ português (PT) (278.27 KB - PDF)
 
 **Last updated:**
 
-22/01/2025
+09/02/2026
 
 [View](/pt/documents/product-information/lytenava-epar-product-information_pt.pdf)
 
-română (RO) (365.38 KB - PDF)
+română (RO) (475.26 KB - PDF)
 
 **First published:**
 
@@ -545,11 +619,11 @@ română (RO) (365.38 KB - PDF)
 
 **Last updated:**
 
-22/01/2025
+09/02/2026
 
 [View](/ro/documents/product-information/lytenava-epar-product-information_ro.pdf)
 
-slovenčina (SK) (356.41 KB - PDF)
+slovenčina (SK) (443.35 KB - PDF)
 
 **First published:**
 
@@ -557,11 +631,11 @@ slovenčina (SK) (356.41 KB - PDF)
 
 **Last updated:**
 
-22/01/2025
+09/02/2026
 
 [View](/sk/documents/product-information/lytenava-epar-product-information_sk.pdf)
 
-slovenščina (SL) (350.08 KB - PDF)
+slovenščina (SL) (437.45 KB - PDF)
 
 **First published:**
 
@@ -569,11 +643,11 @@ slovenščina (SL) (350.08 KB - PDF)
 
 **Last updated:**
 
-22/01/2025
+09/02/2026
 
 [View](/sl/documents/product-information/lytenava-epar-product-information_sl.pdf)
 
-Suomi (FI) (281 KB - PDF)
+Suomi (FI) (432.89 KB - PDF)
 
 **First published:**
 
@@ -581,11 +655,11 @@ Suomi (FI) (281 KB - PDF)
 
 **Last updated:**
 
-22/01/2025
+09/02/2026
 
 [View](/fi/documents/product-information/lytenava-epar-product-information_fi.pdf)
 
-svenska (SV) (275.92 KB - PDF)
+svenska (SV) (421.97 KB - PDF)
 
 **First published:**
 
@@ -593,11 +667,11 @@ svenska (SV) (275.92 KB - PDF)
 
 **Last updated:**
 
-22/01/2025
+09/02/2026
 
 [View](/sv/documents/product-information/lytenava-epar-product-information_sv.pdf)
 
-**Latest procedure affecting product information:** IB/0004 21/01/2025
+**Latest procedure affecting product information:** T/0000320474 04/02/2026
 
 icon globe
 
@@ -621,7 +695,7 @@ English (EN) (48.04 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/lytenava-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-527)
+[Other languages (22)](#file-language-dropdown-669)
 
 български (BG) (64.45 KB - PDF)
 
@@ -821,11 +895,11 @@ This medicine is under additional monitoring, meaning that it is monitored even 
 
 Marketing authorisation holder
 
-Outlook Therapeutics Limited
+Outlook Therapeutics NL B. V.
 
-10 Earlsfort Terrace Dublin 2 Co. Dublin D02 T380 IRELAND
+Strawinskylaan 569 1077XX Amsterdam The Netherlands
 
-Opinion adopted 21/03/2024 Marketing authorisation issued 27/05/2024 Revision 2
+Opinion adopted 21/03/2024 Marketing authorisation issued 27/05/2024 Revision 3
 
 ## Assessment history
 
@@ -837,13 +911,21 @@ Collapse section
 
 Lytenava : EPAR - Procedural steps taken and scientific information after authorisation
 
+English (EN) (140.82 KB - PDF)
+
+**First published:** 09/02/2026
+
+[View](/en/documents/procedural-steps-after/lytenava-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf)
+
+Lytenava : EPAR - Procedural steps taken and scientific information after authorisation (archive)
+
 English (EN) (104.53 KB - PDF)
 
 **First published:** 09/09/2024
 
-**Last updated:** 22/01/2025
+**Last updated:** 09/02/2026
 
-[View](/en/documents/procedural-steps-after/lytenava-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf)
+[View](/en/documents/procedural-steps-after/lytenava-epar-procedural-steps-taken-scientific-information-after-authorisation-archive_en.pdf)
 
 ## Initial marketing authorisation documents
 
@@ -875,7 +957,7 @@ English (EN) (101.03 KB - PDF)
 
 [Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 18-21 March 2024](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-18-21-march-2024) 22/03/2024
 
-**This page was last updated on** 22/01/2025
+**This page was last updated on** 09/02/2026
 
 ## Share this page
 

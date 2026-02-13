@@ -1,18 +1,18 @@
 ---
-document_datetime: 2025-11-14 10:31:39
+document_datetime: 2026-02-09 15:38:15
 document_pages: 46
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/zypadhera-epar-product-information_en.pdf
 document_name: zypadhera-epar-product-information_en.pdf
 version: success
-processing_time: 10.0814096
-conversion_datetime: 2025-12-20 16:27:29.370344
+processing_time: 10.0586333
+conversion_datetime: 2026-02-13 18:35:12.790423
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.64.1
-  docling-core: 2.55.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.12.0
+  docling-jobkit: 1.10.2
+  docling: 2.73.1
+  docling-core: 2.65.1
+  docling-ibm-models: 3.11.0
+  docling-parse: 4.7.3
   python: cpython-313 (3.13.11)
   plaform: macOS-26.2-arm64-arm-64bit-Mach-O
 ---
@@ -586,7 +586,7 @@ ZYPADHERA 210 mg powder: Type I glass vial. Bromobutyl stopper with rust colour 
 
 ZYPADHERA 405 mg powder: Type I glass vial. Bromobutyl stopper with steel blue colour seal.
 
-3 ml solvent: Type I glass vial. Butyl stopper with purple seal.
+3 ml solvent: Type I glass vial. Butyl stopper with seal.
 
 One carton contains one vial of powder and one vial of solvent, one Hypodermic 3ml syringe with preattached 19-gauge, 38 mm safety needle, one 19-gauge, 38 mm Hypodermic  safety needle and two 19gauge, 50 mm Hypodermic safety needles.
 

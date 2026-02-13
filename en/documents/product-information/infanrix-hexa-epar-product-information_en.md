@@ -1,18 +1,18 @@
 ---
-document_datetime: 2024-08-27 13:27:19
-document_pages: 44
+document_datetime: 2026-02-12 15:27:49
+document_pages: 43
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/infanrix-hexa-epar-product-information_en.pdf
 document_name: infanrix-hexa-epar-product-information_en.pdf
 version: success
-processing_time: 11.393622
-conversion_datetime: 2025-12-20 10:12:30.229379
+processing_time: 13.0440748
+conversion_datetime: 2026-02-13 18:19:41.446161
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.64.1
-  docling-core: 2.55.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.12.0
+  docling-jobkit: 1.10.2
+  docling: 2.73.1
+  docling-core: 2.65.1
+  docling-ibm-models: 3.11.0
+  docling-parse: 4.7.3
   python: cpython-313 (3.13.11)
   plaform: macOS-26.2-arm64-arm-64bit-Mach-O
 ---
@@ -277,10 +277,6 @@ The following drug-related adverse reactions were reported in clinical studies (
 | General disorders and administration site conditions | Uncommon    | Diffuse swelling of the injected limb, sometimes involving the adjacent joint 1 , fatigue                                      |
 | General disorders and administration site conditions | Rare        | Swelling of the entire injected limb 1, 2 , extensive swelling reactions 2 , injection site mass 2 , injection site vesicles 2 |
 
-1 Children primed with acellular pertussis vaccines are more likely to experience swelling reactions after booster administration in comparison with children primed with whole cell vaccines. These reactions resolve over an average of 4 days.
-
-2 Adverse reactions from spontaneous reporting.
-
 ## · Experience in co-administration:
 
 Analysis of postmarketing reporting rates suggests a potential increased risk of convulsions (with or without fever) and HHE when comparing groups which reported use of Infanrix hexa with Prevenar 13 to those which reported use of Infanrix hexa alone.
@@ -344,14 +340,6 @@ After a 3-dose primary vaccination schedule, at least 95.7% of infants had devel
 | Anti-Polio type 3 (1/8 dilution) † | 100.0                           | 99.7                             | 99.7                             | 99.6                           | 99.9                                                                                                 |
 | Anti-PRP (0.15 µ g/ml) †           | 96.4                            | 96.6                             | 96.8                             | 97.4                           | 99.7**                                                                                               |
 
-N = number of subjects
-
-* in a subgroup of infants not administered hepatitis B vaccine at birth, 77.7% of subjects had anti-HBs titres ≥ 10 mIU/ml
-
-** Post booster, 98.4% of subjects had antiPRP concentration ≥ 1 µ g/ml indicative of long-term protection
-
-† cut-off accepted as indicative of protection
-
 After a 2-dose primary vaccination schedule, at least 84.3% of infants had developed seroprotective or seropositive antibody levels against each of the vaccine antigens. After a complete vaccination according to a 2-dose primary and booster schedule with Infanrix hexa, at least 97.9% of the subjects had developed seroprotective or seropositive antibody levels against each of the vaccine antigens.
 
 According to different studies, immune response to the PRP antigen of Infanrix hexa after 2 doses given at 2 and 4 months of age will vary if co-administered with a tetanus toxoid conjugate vaccine. Infanrix hexa will confer an anti-PRP immune response (cutoff ≥ 0.15µg/ml) in at least 84% of the infants. This rises to 88% in case of concomitant use of pneumococcal vaccine containing tetanus toxoid as carrier and to 98% when Infanrix hexa is co-administered with a TT conjugated meningococcal vaccine (see section 4.5).
@@ -373,12 +361,6 @@ According to different studies, immune response to the PRP antigen of Infanrix h
 | Anti-Polio type 2 (1/8 dilution) † | 85.6                                 | 96.3                                   | 98.4                                 | 99.4                                   |
 | Anti-Polio type 3 (1/8 dilution) † | 92.8                                 | 98.8                                   | 97.9                                 | 99.2                                   |
 | Anti-PRP (0.15 µ g/ml) †           | 84.3                                 | 91.7                                   | 100.0*                               | 99.6*                                  |
-
-N = number of subjects
-
-† cut-off accepted as indicative of protection
-
-* Post booster, 94.4% of subjects in the 2-4-12 months schedule and 97.0% of subjects in the 3-5-11 months schedule had antiPRP concentration ≥ 1 µ g/ml indicative of long-term protection.
 
 Serological correlates of protection have been established for diphtheria, tetanus, polio, hepatitis B and Hib. For pertussis there is no serological correlate of protection. However, as the immune response to pertussis antigens following Infanrix hexa administration is equivalent to that of Infanrix (DTPa), the protective efficacy of the two vaccines is expected to be equivalent.
 
@@ -427,7 +409,9 @@ Immunogenicity in infants and toddlers born to mothers vaccinated with dTpa duri
 
 <div style=\"page-break-after: always\"></div>
 
-The immunogenicity of Infanrix hexa in infants and toddlers born to healthy mothers vaccinated with dTpa at 27-36 weeks of pregnancy was evaluated in two clinical studies. Infanrix hexa was co-administered with a 13-valent pneumococcal conjugate vaccine to infants at 2, 4 and 6 months or 2, 3 and 4 months in three-dose primary vaccination schedules (n=241), or at 3 and 5 months or 2 and 4 months in two-dose primary vaccination schedules (n=27); and to the same infants/toddlers from 11 to 18 months as booster dose (n=229).
+The immunogenicity of Infanrix hexa in infants and toddlers born to healthy mothers vaccinated with dTpa at 27-36 weeks of pregnancy was evaluated in two clinical studies. and 6 months or 2, 3 and 4 months in three-dose primary vaccination schedules (n=241), or at 3 and 5 months or 2 and 4 months in two-dose primary vaccination schedules (n=27); and to the same
+
+Infanrix hexa was co-administered with a 13-valent pneumococcal conjugate vaccine to infants at 2, 4 infants/toddlers from 11 to 18 months as booster dose (n=229).
 
 Post-primary and post-booster vaccination, immunological data did not show clinically relevant interference of maternal vaccination with dTpa on the infant's and toddler's responses to diphtheria, tetanus, hepatitis B, inactivated poliovirus, Haemophilus influenzae type b or pneumococcal antigens.
 
@@ -533,7 +517,9 @@ Any unused medicinal product or waste material should be disposed of in accordan
 
 MARKETING AUTHORISATION HOLDER
 
-GlaxoSmithKline Biologicals s.a. Rue de l'Institut 89
+GlaxoSmithKline Biologicals s.a.
+
+Rue de l'Institut 89
 
 B-1330 Rixensart, Belgium
 
@@ -582,8 +568,6 @@ GlaxoSmithKline Biologicals s.a. Parc de la Noire Epine 20, rue Fleming, 1300 Wa
 
 GlaxoSmithKline Biologicals s.a. 10, Tuas South Avenue 8 Singapore 637421 Singapore
 
-GSK Vaccines GmbH Emil-von-Behring-Str. 76, D-35041 Marburg Germany
-
 GlaxoSmithKline Biologicals Kft Homoki Nagy István utca 1. H-2100 Gödöllö Hungary
 
 Name and address of the manufacturer responsible for batch release
@@ -603,8 +587,6 @@ In accordance with Article 114 of Directive 2001/83/EC, the official batch relea
 ## · Periodic safety update reports (PSURs)
 
 The requirements for submission of PSURs for this medicinal product are set out in the list of Union reference dates (EURD list) provided for under Article 107c(7) of Directive 2001/83/EC and any subsequent updates published on the European medicines web-portal.
-
-<div style=\"page-break-after: always\"></div>
 
 ## D. CONDITIONS OR RESTRICTIONS WITH REGARD TO THE SAFE AND EFFECTIVE USE OF THE MEDICINAL PRODUCT
 
@@ -754,9 +736,11 @@ LOT:
 
 14. GENERAL CLASSIFICATION FOR SUPPLY
 15. INSTRUCTIONS ON USE
-16. INFORMATION IN BRAILLE
 
 <div style=\"page-break-after: always\"></div>
+
+| 16.   | INFORMATION IN BRAILLE   |
+|-------|--------------------------|
 
 | for not including Braille accepted.   | Justification   |
 |---------------------------------------|-----------------|
@@ -779,7 +763,7 @@ PC: SN: NN:
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
-Infanrix hexa, Powder and suspension for suspension for injection in a pre-filled syringe Diphtheria (D), tetanus (T), pertussis (acellular, component) (Pa), hepatitis B (rDNA) (HBV), poliomyelitis (inactivated) (IPV) and Haemophilus influenzae type b (Hib) conjugate vaccine (adsorbed)
+Infanrix hexa, Powder and suspension for suspension for injection in a pre-filled syringe Diphtheria (D), tetanus (T), pertussis (acellular, component) (Pa), hepatitis B (rDNA) (HBV), poliomyelitis (inactivated) (IPV) and Haemophilus influenzae
 
 ## 2. STATEMENT OF ACTIVE SUBSTANCE(S)
 
@@ -857,7 +841,7 @@ Read the package leaflet before use
 
 Intramuscular use
 
-Shake well before use
+Shake well before use type b (Hib) conjugate vaccine (adsorbed)
 
 <div style=\"page-break-after: always\"></div>
 
@@ -899,11 +883,14 @@ EU/1/00/152/006 - 10 vials and 10 pre-filled syringes with 20 needles
 
 LOT:
 
-14. GENERAL CLASSIFICATION FOR SUPPLY
+## 14. GENERAL CLASSIFICATION FOR SUPPLY
+
 15. INSTRUCTIONS ON USE
-16. INFORMATION IN BRAILLE
 
 <div style=\"page-break-after: always\"></div>
+
+| 16.   | INFORMATION IN BRAILLE   |
+|-------|--------------------------|
 
 | for not including Braille accepted.   | Justification   |
 |---------------------------------------|-----------------|
@@ -1022,7 +1009,7 @@ Do not freeze
 
 Store in the original package in order to protect from light
 
-10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
+## 10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
@@ -1040,13 +1027,17 @@ EU/1/00/152/021 - pack of 50 (5 X 10) without needles
 
 LOT:
 
-14. GENERAL CLASSIFICATION FOR SUPPLY
+## 14. GENERAL CLASSIFICATION FOR SUPPLY
+
 15. INSTRUCTIONS ON USE
-16. INFORMATION IN BRAILLE
 
 <div style=\"page-break-after: always\"></div>
 
-Justification for not including Braille accepted.
+| 16.   | INFORMATION IN BRAILLE   |
+|-------|--------------------------|
+
+| Justification for not including Braille accepted.   |
+|-----------------------------------------------------|
 
 <div style=\"page-break-after: always\"></div>
 
@@ -1054,7 +1045,7 @@ Justification for not including Braille accepted.
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
-Infanrix hexa, Powder and suspension for suspension for injection in a pre-filled syringe Diphtheria (D), tetanus (T), pertussis (acellular, component) (Pa), hepatitis B (rDNA) (HBV), poliomyelitis (inactivated) (IPV) and Haemophilus influenzae
+Infanrix hexa, Powder and suspension for suspension for injection in a pre-filled syringe Diphtheria (D), tetanus (T), pertussis (acellular, component) (Pa), hepatitis B (rDNA) (HBV), poliomyelitis (inactivated) (IPV) and Haemophilus influenzae type b (Hib) conjugate vaccine (adsorbed)
 
 ## 2. STATEMENT OF ACTIVE SUBSTANCE(S)
 
@@ -1124,7 +1115,9 @@ Each individual pack cannot be sold separately
 
 ## 5. METHOD AND ROUTE(S) OF ADMINISTRATION
 
-Read the package leaflet before use Intramuscular use Shake well before use type b (Hib) conjugate vaccine (adsorbed)
+Read the package leaflet before use Intramuscular use Shake well before use
+
+<div style=\"page-break-after: always\"></div>
 
 ## 6. SPECIAL WARNING THAT THE MEDICINAL PRODUCT MUST BE STORED OUT OF THE SIGHT AND REACH OF CHILDREN
 
@@ -1169,8 +1162,6 @@ LOT:
 16. INFORMATION IN BRAILLE
 
 Justification for not including Braille accepted.
-
-<div style=\"page-break-after: always\"></div>
 
 <div style=\"page-break-after: always\"></div>
 
@@ -1229,11 +1220,13 @@ DTPa HBV IPV for Infanrix hexa Suspension for suspension for injection I.M.
 
 EXP:
 
-## 4. BATCH NUMBER
+| 4.   | BATCH NUMBER   |
+|------|----------------|
 
 LOT:
 
-## 5. CONTENTS BY WEIGHT, BY VOLUME OR BY UNIT
+| 5.   | CONTENTS BY WEIGHT,BYVOLUMEORBYUNIT   |
+|------|---------------------------------------|
 
 1 dose (0.5 ml)
 
@@ -1298,9 +1291,8 @@ Signs of an allergic reaction may include itchy skin, rash, shortness of breath 
 
 - if your child has had an allergic reaction to any vaccine against diphtheria, tetanus, whooping cough, hepatitis B, polio or Haemophilus influenzae type b.
 - if your child has had problems of the nervous system within 7 days after previous vaccination with a vaccine against whooping cough
-- if your child has a severe infection with a high temperature (over 38°C).
-
-A minor infection such as a cold should not be a problem, but talk to your doctor first.
+- •
+- if your child has a severe infection with a high temperature (over 38°C). A minor infection such as a cold should not be a problem, but talk to your doctor first.
 
 Infanrix hexa should not be given if any of the above apply to your child. If you are not sure, talk to your doctor or pharmacist before your child is given Infanrix hexa.
 
@@ -1419,77 +1411,26 @@ If your child gets any side effects, talk to your doctor or pharmacist. This inc
 
 The active substances are:
 
-Diphtheria toxoid 1
-
-not less than 30 International Units (IU)
-
-Tetanus toxoid 1
-
-not less than 40 International Units (IU)
-
-Bordetella pertussis antigens
-
-Pertussis toxoid 1
-
-25 micrograms
-
-Filamentous Haemagglutinin 1
-
-25 micrograms
-
-Pertactin 1
-
-8 micrograms
-
-Hepatitis B surface antigen 2,3
-
-10 micrograms
-
-Poliovirus (inactivated)
-
-type 1 (Mahoney strain) 4
-
-40 D-antigen unit
-
-type 2 (MEF-1 strain) 4
-
-8 D-antigen unit
-
-type 3 (Saukett strain) 4
-
-32 D-antigen unit
-
-Haemophilus influenzae type b polysaccharide
-
-10 micrograms
-
-(polyribosylribitol phosphate)
-
-3
-
-conjugated to tetanus toxoid as carrier protein
-
-approximately 25 micrograms
-
-1 adsorbed on aluminium hydroxide, hydrated (Al(OH)3)
-
-0.5 milligrams Al 3+
-
-2
-
-produced in yeast cells (
-
-Saccharomyces cerevisiae
-
-) by recombinant DNA technology
-
-3 adsorbed on aluminium phosphate (AlPO4)
-
-0.32 milligrams Al 3+
-
-4 propagated in VERO cells
-
 <div style=\"page-break-after: always\"></div>
+
+| Diphtheria toxoid 1                                                                                               | not less than 30 International Units (IU)   |
+|-------------------------------------------------------------------------------------------------------------------|---------------------------------------------|
+| Tetanus toxoid 1                                                                                                  | not less than 40 International Units (IU)   |
+| Bordetella pertussis antigens                                                                                     |                                             |
+| Pertussis toxoid 1                                                                                                | 25 micrograms                               |
+| Filamentous Haemagglutinin 1                                                                                      | 25 micrograms                               |
+| Pertactin 1                                                                                                       | 8 micrograms                                |
+| Hepatitis B surface antigen 2,3                                                                                   | 10 micrograms                               |
+| Poliovirus (inactivated)                                                                                          |                                             |
+| type 1 (Mahoney strain) 4                                                                                         | 40 D-antigen unit                           |
+| type 2 (MEF-1 strain) 4                                                                                           | 8 D-antigen unit                            |
+| type 3 (Saukett strain) 4                                                                                         | 32 D-antigen unit                           |
+| Haemophilus influenzae type b polysaccharide                                                                      | 10 micrograms                               |
+| (polyribosylribitol phosphate) 3 conjugated to tetanus toxoid as carrier protein                                  | approximately 25 micrograms                 |
+| 1 adsorbed on aluminium hydroxide, hydrated (Al(OH) 3 ) 2 produced in yeast cells ( Saccharomyces cerevisiae ) by | 0.5 milligrams Al 3+                        |
+| recombinant DNA technology                                                                                        | recombinant DNA technology                  |
+| 3 adsorbed on aluminium phosphate (AlPO 4 )                                                                       | 0.32 milligrams Al 3+                       |
+| 4 propagated in VERO cells                                                                                        |                                             |
 
 ## The other ingredients are:
 
@@ -1517,12 +1458,6 @@ GlaxoSmithKline Pharmaceuticals SA/NV
 
 Tél/Tel: + 32 10 85 52 00
 
-## Lietuva
-
-GlaxoSmithKline Biologicals SA
-
-Tel: +370 80000334
-
 ## България
 
 GlaxoSmithKline Biologicals SA
@@ -1531,17 +1466,21 @@ GlaxoSmithKline Biologicals SA
 
 : +359 80018205
 
+## Lietuva
+
+GlaxoSmithKline Biologicals SA
+
+Tel: +370 80000334
+
 ## Luxembourg/Luxemburg
 
 GlaxoSmithKline Pharmaceuticals SA/NV
 
 Tél/Tel: + 32 10 85 52 00
 
-## Česká republika
-
-Magyarország
-
 <div style=\"page-break-after: always\"></div>
+
+## Česká republika
 
 GlaxoSmithKline s.r.o. Tel: + 420 2 22 00 11 11 cz.info@gsk.com
 
@@ -1589,9 +1528,9 @@ GlaxoSmithKline S.p.A. Tel:+ 39 (0)45 7741 111
 
 GlaxoSmithKline Biologicals SA Τηλ: +357 80070017
 
-## Latvija
-
 .
+
+## Magyarország
 
 GlaxoSmithKline Biologicals SA Tel.: +36 80088309
 
@@ -1613,7 +1552,9 @@ GlaxoSmithKline Pharma GmbH Tel: + 43 (0)1 97075 0 at.info@gsk.com
 
 ## Polska
 
-GSK Services Sp. z o.o. Tel.: + 48 (22) 576 9000
+GSK Services Sp. z o.o.
+
+Tel.: + 48 (22) 576 9000
 
 ## Portugal
 
@@ -1639,9 +1580,9 @@ GlaxoSmithKline Oy Puh/Tel: + 358 (0)10 30 30 30
 
 GlaxoSmithKline AB Tel: + 46 (0)8 638 93 00 info.produkt@gsk.com
 
-## United Kingdom (Northern Ireland)
-
 <div style=\"page-break-after: always\"></div>
+
+Latvija GlaxoSmithKline Biologicals SA Tel: +371 80205045
 
 ## This leaflet was last revised in
 
@@ -1665,7 +1606,7 @@ The reconstituted vaccine appears as a slightly more cloudy suspension than the 
 
 The vaccine suspension should be inspected visually before and after reconstitution for any foreign particulate matter and/or abnormal physical appearance. If either is observed, do not administer the vaccine.
 
-GlaxoSmithKline Biologicals SA Tel: +44(0)800 221441 customercontactuk@gsk.com
+United Kingdom (Northern Ireland) GlaxoSmithKline Biologicals SA Tel: +44(0)800 221441 customercontactuk@gsk.com
 
 <div style=\"page-break-after: always\"></div>
 

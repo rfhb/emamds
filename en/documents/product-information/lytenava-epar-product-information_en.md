@@ -1,18 +1,18 @@
 ---
-document_datetime: 2025-01-22 14:47:57
+document_datetime: 2026-02-09 17:38:38
 document_pages: 27
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/lytenava-epar-product-information_en.pdf
 document_name: lytenava-epar-product-information_en.pdf
 version: success
-processing_time: 5.2582765
-conversion_datetime: 2025-12-22 13:20:25.80555
+processing_time: 5.5493196
+conversion_datetime: 2026-02-13 18:24:20.056401
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.64.1
-  docling-core: 2.55.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.12.0
+  docling-jobkit: 1.10.2
+  docling: 2.73.1
+  docling-core: 2.65.1
+  docling-ibm-models: 3.11.0
+  docling-parse: 4.7.3
   python: cpython-313 (3.13.11)
   plaform: macOS-26.2-arm64-arm-64bit-Mach-O
 ---
@@ -44,7 +44,7 @@ For the full list of excipients, see section 6.1.
 
 Solution for injection (injection).
 
-Colourless to slightly brown solution with a pH of 6.1 and an osmolality of 235 - 315 mOsm/kg.
+Colourless to slightly brown solution with a pH of 6.1 and an osmolality of 235 -315 mOsm/kg.
 
 ## 4. CLINICAL PARTICULARS
 
@@ -94,7 +94,7 @@ Since the volume contained in the vial (0.3 mL) is greater than the recommended 
 
 Ensure that the injection is given immediately after preparation of the dose.
 
-The intravitreal injection procedure should be carried out under aseptic conditions, which includes the use of surgical hand disinfection, sterile gloves, a sterile drape and a sterile eyelid speculum (or equivalent). Sterile paracentesis equipment should be available as a precautionary measure. The patient's medical history for hypersensitivity reactions should be carefully evaluated prior to performing the intravitreal procedure (see section 4.4). Adequate anaesthesia and a broad-spectrum topical microbicide to disinfect the periocular skin, eyelid and ocular surface should be administered prior to the injection.
+The intravitreal injection procedure should be carried out under aseptic conditions, which includes the use of surgical hand disinfection, sterile gloves, a sterile drape and a sterile eyelid speculum (or equivalent). Sterile paracentesis equipment should be available as a precautionary measure. The patient ' s medical history for hypersensitivity reactions should be carefully evaluated prior to performing the intravitreal procedure (see section 4.4). Adequate anaesthesia and a broad-spectrum topical microbicide to disinfect the periocular skin, eyelid and ocular surface should be administered prior to the injection.
 
 The injection needle should be inserted 3.5-4.0 mm posterior to the limbus into the vitreous cavity, avoiding the horizontal meridian and aiming towards the centre of the globe. The injection volume of 0.05 mL is then delivered slowly; a different scleral site should be used for subsequent injections.
 
@@ -169,7 +169,7 @@ Non-ocular haemorrhages and arterial thromboembolic events, have been reported f
 
 ## Excipients with known effect
 
-This medicinal product contains less than 1 mmol sodium (23 mg) per dose, that is to say essentially 'sodium-free'.
+This medicinal product contains less than 1 mmol sodium (23 mg) per dose, that is to say essentially 'sodium -free'.
 
 ## 4.5 Interaction with other medicinal products and other forms of interaction
 
@@ -209,7 +209,7 @@ The majority of adverse reactions reported following administration of bevacizum
 
 A total of 341 patients from two randomized and one open-label clinical studies were treated with the recommended dose of 1.25 mg. The adverse reactions reported in clinical studies of bevacizumab gamma are listed in Table 1 below.
 
-Adverse reactions are listed according to the MedDRA system organ class. Within each system organ class, the adverse reactions are ranked by frequency, with the most frequent reactions first. Frequency categories for each adverse reaction are based on the followin g convention: very common (≥1/10), common (≥1/100 to &lt;1/10), uncommon (≥1/1 000 to &lt;1/100), rare (≥1/10 000 to &lt;1/1 000), very rare (&lt;1/10 000), not known (cannot be estimated from the available data). Within each frequency grouping, adverse reactions are presented in order of decreasing seriousness.
+Adverse reactions are listed according to the MedDRA system organ class. Within each system organ class, the adverse reactions are ranked by frequency, with the most frequent reactions first. Frequency categories for each adverse reaction are based on the following convention: very common (≥1/10), common (≥1/100 to &lt;1/10), uncommon (≥1/1 000 to &lt;1/100), rare (≥1/10 000 to &lt;1/1 000), very rare (&lt;1/10 000), not known (cannot be estimated from the available data). Within each frequency grouping, adverse reactions are presented in order of decreasing seriousness.
 
 <div style=\"page-break-after: always\"></div>
 
@@ -280,7 +280,7 @@ The NORSE TWO study met its primary efficacy endpoint and bevacizumab gamma demo
 
 The efficacy of bevacizumab gamma was further supported when evaluating the change from baseline to month 11 in mean BCVA. The difference between the treatments and its corresponding 95% CI was 3.805 (-0.016, 7.626) BCVA letters.
 
-Table 2 NORSE TWO primary and secondary efficacy endpoints - responder analysis
+Table 2 NORSE TWO primary and secondary efficacy endpoints -responder analysis
 
 |                                                                  | Ranibizumab (N = 115)   | Bevacizumab gamma (N = 113)   |
 |------------------------------------------------------------------|-------------------------|-------------------------------|
@@ -316,7 +316,7 @@ The European Medicines Agency has waived the obligation to submit the results of
 
 Bevacizumab gamma is administered intravitreally to exert local effects in the eye.
 
-Following a single dose of 2 mg/kg intravenous infusion of bevacizumab gamma in 45 healthy male volunteers, the peak concentration was reached at 2 hours. The geometric mean Cmax and total exposure (AUC0-t) values were 40 µg/mL and 12 148 h·µg/mL, respectively.
+Following a single dose of 2 mg/kg intravenous infusion of bevacizumab gamma in 45 healthy male volunteers, the peak concentration was reached at 2 hours. The geometric mean Cmax and total exposure (AUC0-t) values were 40 µg/mL and 12 148 h· µg/mL, respectively.
 
 In general, the serum PK following intravitreal administration of bevacizumab gamma, was significantly lower than that seen following intravenous administration. No PK parameters could be characterised from the generated clinical data.
 
@@ -344,7 +344,9 @@ In the absence of compatibility studies, this medicinal product must not be mixe
 
 ## 6.4 Special precautions for storage
 
-Store in a refrigerator (2 °C - 8 °C). Do not freeze. Keep the vial in the outer carton in order to protect from light. The unopened vial may be stored outside the refrigerator below 25 °C for up to 12 hours.
+Store in a refrigerator (2 °C - 8 °C).
+
+Do not freeze. Keep the vial in the outer carton in order to protect from light. The unopened vial may be stored outside the refrigerator below 25 °C for up to 12 hours.
 
 ## 6.5 Nature and contents of container
 
@@ -384,7 +386,7 @@ Any unused medicinal product or waste material should be disposed of in accordan
 
 ## 7. MARKETING AUTHORISATION HOLDER
 
-Outlook Therapeutics Limited 10 Earlsfort Terrace Dublin 2 D02 T380 Ireland
+Outlook Therapeutics NL B.V. Strawinskylaan 569 1077XX Amsterdam The Netherlands
 
 ## 8. MARKETING AUTHORISATION NUMBER
 
@@ -517,7 +519,7 @@ EXP
 
 ## 9. SPECIAL STORAGE CONDITIONS
 
-Store in a refrigerator (2 °C - 8 °C).
+Store in a refrigerator (2 °C -8 °C).
 
 Do not freeze.
 
@@ -525,13 +527,11 @@ Do not freeze.
 
 Keep the vial in the outer carton in order to protect from light.
 
-10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
+## 10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
-Outlook Therapeutics Limited 10 Earlsfort Terrace Dublin 2 D02 T380
-
-Ireland
+Outlook Therapeutics NL B.V. Strawinskylaan 569 1077XX Amsterdam The Netherlands
 
 ## 12. MARKETING AUTHORISATION NUMBER(S)
 
@@ -541,7 +541,7 @@ EU/1/24/1798/001
 
 Lot
 
-14. GENERAL CLASSIFICATION FOR SUPPLY
+## 14. GENERAL CLASSIFICATION FOR SUPPLY
 
 15. INSTRUCTIONS ON USE
 
@@ -561,29 +561,23 @@ NN
 
 <div style=\"page-break-after: always\"></div>
 
-| MINIMUM PARTICULARS TO APPEAR ONSMALLIMMEDIATEPACKAGING UNITS   |
-|-----------------------------------------------------------------|
-| VIAL                                                            |
+## MINIMUM PARTICULARS TO APPEAR ON SMALL IMMEDIATE PACKAGING UNITS VIAL
 
 ## 1. NAME OF THE MEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION
 
 Lytenava 25 mg/mL injection bevacizumab gamma Intravitreal use
 
-| 2.   | METHODOF ADMINISTRATION   |
-|------|---------------------------|
+## 2. METHOD OF ADMINISTRATION
 
-| 3.   | EXPIRY DATE   |
-|------|---------------|
+## 3. EXPIRY DATE
 
 EXP
 
-| 4.   | BATCH NUMBER   |
-|------|----------------|
+## 4. BATCH NUMBER
 
 Lot
 
-| 5.   | CONTENTS BY WEIGHT, BY VOLUMEORBYUNIT   |
-|------|-----------------------------------------|
+## 5. CONTENTS BY WEIGHT, BY VOLUME OR BY UNIT
 
 7.5 mg/0.3 mL
 
@@ -600,9 +594,7 @@ Lot
 
 ## Package leaflet: Information for the patient
 
-## Lytenava 25 mg/mL solution for injection
-
-## bevacizumab gamma
+## Lytenava 25 mg/mL solution for injection bevacizumab gamma
 
 This medicine is subject to additional monitoring. This will allow quick identification of new safety information. You can help by reporting any side effects you may get. See the end of section 4 for how to report side effects.
 
@@ -700,7 +692,7 @@ After Lytenava treatment you may experience some temporary vision blurring. If t
 
 ## Lytenava contains sodium
 
-This medicine contains less than 1 mmol sodium (23 mg) per dose, that is to say essentially 'sodiumfree'.
+This medicine contains less than 1 mmol sodium (23 mg) per dose, that is to say essentially 'sodium -free'.
 
 ## 3. How to use Lytenava
 
@@ -778,7 +770,7 @@ Keep this medicine out of the sight and reach of children.
 
 Do not use this medicine after the expiry date which is stated on the carton and vial label after EXP. The expiry date refers to the last day of that month.
 
-Store in a refrigerator (2 °C - 8 °C). Do not freeze.
+Store in a refrigerator (2 °C -8 °C). Do not freeze.
 
 The unopened vial may be stored outside the refrigerator below 25 °C for up to 12 hours.
 
@@ -801,7 +793,7 @@ Pack containing one glass vial with butyl rubber stopper. The vial is for single
 
 ## Marketing Authorisation Holder and Manufacturer
 
-Outlook Therapeutics Limited 10 Earlsfort Terrace Dublin 2 D02 T380 Dublin Ireland
+Outlook Therapeutics NL B.V. Strawinskylaan 569 1077XX Amsterdam The Netherlands
 
 ## Manufacturer
 
@@ -840,10 +832,10 @@ Use aseptic technique to carry out the following preparation steps:
 - Alcohol swab
 2. Before withdrawal, disinfect the outer part of the rubber stopper of the vial.
 3. Place the 5 micron filter needle onto the 1 mL syringe using aseptic technique.
+4. Push the filter needle into the centre of the vial stopper and ensure the tip of the needle remains within the Lytenava solution to minimise the potential for air bubbles.
 
 <div style=\"page-break-after: always\"></div>
 
-4. Push the filter needle into the centre of the vial stopper and ensure the tip of the needle remains within the Lytenava solution to minimise the potential for air bubbles.
 5. Withdraw the entire content of Lytenava to ensure a full dose can be prepared in the syringe, keeping the vial in an upright position, slightly inclined to ease sufficient withdrawal.
 6. Ensure that the plunger rod is drawn sufficiently back when drawing up Lytenava to provide for sufficient volume to prepare a 0.05 mL injection.
 7. The filter needle should be discarded after withdrawal of the vial content and must not be used for the intravitreal injection.

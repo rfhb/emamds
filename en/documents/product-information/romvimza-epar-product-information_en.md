@@ -1,18 +1,18 @@
 ---
-document_datetime: 2025-09-22 11:54:45
+document_datetime: 2026-02-11 11:36:39
 document_pages: 46
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/romvimza-epar-product-information_en.pdf
 document_name: romvimza-epar-product-information_en.pdf
 version: success
-processing_time: 10.927498
-conversion_datetime: 2025-12-23 07:59:35.627936
+processing_time: 13.90094
+conversion_datetime: 2026-02-13 18:26:23.946775
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.64.1
-  docling-core: 2.55.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.12.0
+  docling-jobkit: 1.10.2
+  docling: 2.73.1
+  docling-core: 2.65.1
+  docling-ibm-models: 3.11.0
+  docling-parse: 4.7.3
   python: cpython-313 (3.13.11)
   plaform: macOS-26.2-arm64-arm-64bit-Mach-O
 ---
@@ -293,16 +293,6 @@ Table 2: Adverse reactions observed in MOTION and DCC-3014-01-001 studies
 |----------------------|----------------------|-------------------------------------------------------------------------------------|
 |                      |                      | count decreased, alanine aminotransferase increased, alkaline phosphatase increased |
 
-1 Neuropathy comprises peripheral neuropathy, paraesthesia, hypoaesthesia, peripheral sensory neuropathy.
-
-2 Periorbital oedema comprises eye oedema, eyelid oedema, swelling of eyelid, periorbital oedema, periorbital swelling.
-
-3 Rash comprises rash, rash erythematous, rash macular, rash maculo-papular, rash papular, rash pruritic, dermatitis acneiform, erythema.
-
-4 Terms based on laboratory parameters.
-
-5 Frequency category for blood creatine phosphokinase increased is based on laboratory data from DCC-3014-01-001 only.
-
 ## Description of selected adverse reactions
 
 ## Creatine phosphokinase (CPK)
@@ -389,7 +379,7 @@ Table 3: Efficacy results assessed at Week 25
 | Duration of response median (range), months 1,2                | NR (2.5+, 33.1+)     | N/A                  |
 | ActiveROM 4                                                    |                      |                      |
 | Baseline mean (SD) active ROM, %points 5                       | 63.0 (29.4)          | 62.9 (32.2)          |
-| LS Mean change from baseline in active ROM (95% CI) 5          | 18.4 (5.6, 31.2)     | 3.8 (-10.5, 18.0)    |
+| LS Mean change from baseline in activeROM (95% CI) 5           | 18.4 (5.6, 31.2)     | 3.8 (-10.5, 18.0)    |
 | Difference in LS Means (95% CI)                                | 14.6 (4.0, 25.3)     | 14.6 (4.0, 25.3)     |
 | p-value                                                        | 0.0077               | 0.0077               |
 | PROMIS-PF                                                      |                      |                      |
@@ -552,7 +542,7 @@ Any unused medicinal product or waste material should be disposed of in accordan
 
 ## 7. MARKETING AUTHORISATION HOLDER
 
-Deciphera Pharmaceuticals (Netherlands) B.V. Atrium Building 4th Floor Strawinskylaan 3051 1077 ZX, Amsterdam Netherlands
+Deciphera Pharmaceuticals (Netherlands) B.V. Strawinskylaan 3051 1077 ZX, Amsterdam Netherlands
 
 ## 8. MARKETING AUTHORISATION NUMBER(S)
 
@@ -562,7 +552,7 @@ EU/1/25/1968/003
 
 ## 9. DATE OF FIRST AUTHORISATION/RENEWAL OF THE AUTHORISATION
 
-Date of first authorisation:
+Date of first authorisation: 17 September 2025
 
 <div style=\"page-break-after: always\"></div>
 
@@ -575,11 +565,8 @@ Detailed information on this medicinal product is available on the website of th
 ## ANNEX II
 
 - A. MANUFACTURER RESPONSIBLE FOR BATCH RELEASE
-
-## B. CONDITIONS OR RESTRICTIONS REGARDING SUPPLY AND USE
-
-## C. OTHER CONDITIONS AND REQUIREMENTS OF THE MARKETING AUTHORISATION
-
+- B. CONDITIONS OR RESTRICTIONS REGARDING SUPPLY AND USE
+- C. OTHER CONDITIONS AND REQUIREMENTS OF THE MARKETING AUTHORISATION
 - D. CONDITIONS OR RESTRICTIONS WITH REGARD TO THE SAFE AND EFFECTIVE USE OF THE MEDICINAL PRODUCT
 
 <div style=\"page-break-after: always\"></div>
@@ -588,9 +575,7 @@ Detailed information on this medicinal product is available on the website of th
 
 Name and address of the manufacturer responsible for batch release
 
-Deciphera Pharmaceuticals (Netherlands) B.V. Atrium Building 4th Floor Strawinskylaan 3051 1077 ZX, Amsterdam
-
-Netherlands
+Deciphera Pharmaceuticals (Netherlands) B.V. Strawinskylaan 3051 1077 ZX, Amsterdam Netherlands
 
 ## B. CONDITIONS OR RESTRICTIONS REGARDING SUPPLY AND USE
 
@@ -647,15 +632,15 @@ The MAH shall ensure that, at the time of launch, a healthcare professional guid
 
 ## A. LABELLING
 
-<div style=\"page-break-after: always\"></div>
-
 ## PARTICULARS TO APPEAR ON THE OUTER PACKAGING
 
 OUTER CARTON
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
-ROMVIMZA 14 mg hard capsules vimseltinib
+ROMVIMZA 14 mg hard capsules
+
+vimseltinib
 
 ## 2. STATEMENT OF ACTIVE SUBSTANCE(S)
 
@@ -695,15 +680,13 @@ Store in the original package in order to protect from moisture.
 
 <div style=\"page-break-after: always\"></div>
 
-10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
+## 10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
 Deciphera Pharmaceuticals (Netherlands) B.V.
 
-Atrium Building 4th Floor Strawinskylaan 3051 1077 ZX, Amsterdam
-
-Netherlands
+Strawinskylaan 3051 1077 ZX, Amsterdam Netherlands
 
 ## 12. MARKETING AUTHORISATION NUMBER(S)
 
@@ -727,9 +710,13 @@ Romvimza 14 mg
 
 ## 18. UNIQUE IDENTIFIER - HUMAN READABLE DATA
 
-PC SN
+PC
+
+SN
 
 NN
+
+<div style=\"page-break-after: always\"></div>
 
 <div style=\"page-break-after: always\"></div>
 
@@ -798,13 +785,9 @@ DOSE 2: Fri. - Sat. - Sun. - Mon. - Tue. - Wed. - Thu.
 
 The box you circled are the days of the week you will always take your medicine.
 
-WEEK 1 - DOSE 1 - DOSE 2
-
-WEEK 2 - DOSE 1 - DOSE 2
-
-WEEK 3 - DOSE 1 - DOSE 2
-
-WEEK 4 - DOSE 1 - DOSE 2
+```
+WEEK 1 - DOSE 1 - DOSE 2 WEEK 2 - DOSE 1 - DOSE 2 WEEK 3 - DOSE 1 - DOSE 2 WEEK 4 - DOSE 1 - DOSE 2
+```
 
 ## 6. SPECIAL WARNING THAT THE MEDICINAL PRODUCT MUST BE STORED OUT OF THE SIGHT AND REACH OF CHILDREN
 
@@ -826,8 +809,6 @@ Store in the original package in order to protect from moisture.
 
 Deciphera Pharmaceuticals (Netherlands) B.V.
 
-Atrium Building 4th Floor
-
 Strawinskylaan 3051
 
 1077 ZX, Amsterdam
@@ -847,8 +828,8 @@ Lot
 | 14.   | GENERAL CLASSIFICATION FOR SUPPLY   |
 |-------|-------------------------------------|
 
-| 15.   | INSTRUCTIONS ONUSE   |
-|-------|----------------------|
+| 15.   | INSTRUCTIONS ON USE   |
+|-------|-----------------------|
 
 | 16.   | INFORMATION IN BRAILLE   |
 |-------|--------------------------|
@@ -861,17 +842,17 @@ Lot
 
 <div style=\"page-break-after: always\"></div>
 
-| MINIMUM PARTICULARS TO APPEAR ONBLISTERS ORSTRIPS   |
-|-----------------------------------------------------|
-| BLISTER FOR WALLET                                  |
+| MINIMUM PARTICULARS TO APPEAR ON BLISTERS OR STRIPS   |
+|-------------------------------------------------------|
+| BLISTER FOR WALLET                                    |
 
-| 1.   | NAMEOFTHEMEDICINAL PRODUCT   |
-|------|------------------------------|
+| 1.   | NAME OF THE MEDICINAL PRODUCT   |
+|------|---------------------------------|
 
 ROMVIMZA 14 mg hard capsules vimseltinib
 
-| 2.   | NAMEOFTHEMARKETING AUTHORISATION HOLDER   |
-|------|-------------------------------------------|
+| 2.   | NAME OF THE MARKETING AUTHORISATION HOLDER   |
+|------|----------------------------------------------|
 
 Deciphera
 
@@ -934,17 +915,13 @@ EXP
 
 Store in the original package in order to protect from moisture.
 
-<div style=\"page-break-after: always\"></div>
-
-10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
+## 10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
 Deciphera Pharmaceuticals (Netherlands) B.V.
 
-Atrium Building 4th Floor Strawinskylaan 3051 1077 ZX, Amsterdam
-
-Netherlands
+Strawinskylaan 3051 1077 ZX, Amsterdam Netherlands
 
 ## 12. MARKETING AUTHORISATION NUMBER(S)
 
@@ -955,6 +932,7 @@ EU/1/25/1968/002
 Lot
 
 14. GENERAL CLASSIFICATION FOR SUPPLY
+
 15. INSTRUCTIONS ON USE
 
 ## 16. INFORMATION IN BRAILLE
@@ -970,6 +948,8 @@ Romvimza 20 mg
 PC
 
 SN
+
+<div style=\"page-break-after: always\"></div>
 
 NN
 
@@ -1009,7 +989,8 @@ Read the package leaflet before use.
 
 Take this medicine on the SAME DAYS EACH WEEK . Do not take daily.
 
-1. PRESS &amp; HOLD HERE
+## 1. PRESS &amp; HOLD HERE
+
 2. PULL OUT HERE
 
 ## Opening Instructions
@@ -1068,8 +1049,6 @@ Store in the original package in order to protect from moisture.
 
 Deciphera Pharmaceuticals (Netherlands) B.V.
 
-Atrium Building 4th Floor
-
 Strawinskylaan 3051
 
 1077 ZX, Amsterdam
@@ -1089,8 +1068,8 @@ Lot
 | 14.   | GENERAL CLASSIFICATION FOR SUPPLY   |
 |-------|-------------------------------------|
 
-| 15.   | INSTRUCTIONS ONUSE   |
-|-------|----------------------|
+| 15.   | INSTRUCTIONS ON USE   |
+|-------|-----------------------|
 
 | 16.   | INFORMATION IN BRAILLE   |
 |-------|--------------------------|
@@ -1103,17 +1082,17 @@ Lot
 
 <div style=\"page-break-after: always\"></div>
 
-| MINIMUM PARTICULARS TO APPEAR ONBLISTERS ORSTRIPS   |
-|-----------------------------------------------------|
-| BLISTER FOR WALLET                                  |
+| MINIMUM PARTICULARS TO APPEAR ON BLISTERS OR STRIPS   |
+|-------------------------------------------------------|
+| BLISTER FOR WALLET                                    |
 
-| 1.   | NAMEOFTHEMEDICINAL PRODUCT   |
-|------|------------------------------|
+| 1.   | NAME OF THE MEDICINAL PRODUCT   |
+|------|---------------------------------|
 
 ROMVIMZA 20 mg hard capsules vimseltinib
 
-| 2.   | NAMEOFTHEMARKETING AUTHORISATION HOLDER   |
-|------|-------------------------------------------|
+| 2.   | NAME OF THE MARKETING AUTHORISATION HOLDER   |
+|------|----------------------------------------------|
 
 Deciphera
 
@@ -1178,17 +1157,13 @@ Store in the original package in order to protect from moisture.
 
 <div style=\"page-break-after: always\"></div>
 
-<div style=\"page-break-after: always\"></div>
-
 10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
 Deciphera Pharmaceuticals (Netherlands) B.V.
 
-Atrium Building 4th Floor Strawinskylaan 3051 1077 ZX, Amsterdam
-
-Netherlands
+Strawinskylaan 3051 1077 ZX, Amsterdam Netherlands
 
 ## 12. MARKETING AUTHORISATION NUMBER(S)
 
@@ -1212,9 +1187,13 @@ Romvimza 30 mg
 
 ## 18. UNIQUE IDENTIFIER - HUMAN READABLE DATA
 
-PC SN
+PC
+
+SN
 
 NN
+
+<div style=\"page-break-after: always\"></div>
 
 <div style=\"page-break-after: always\"></div>
 
@@ -1255,7 +1234,7 @@ Take this medicine on the SAME DAYS EACH WEEK . Do not take daily.
 1. PRESS &amp; HOLD HERE
 2. PULL OUT HERE
 
-## Opening Instructions
+Opening Instructions
 
 Step 1
 
@@ -1281,9 +1260,13 @@ Based on Dose 1 , refer to the chart below to determine the day you will take Do
 
 The box you circled are the days of the week you will always take your medicine.
 
-```
-WEEK 1 - DOSE 1 - DOSE 2 WEEK 2 - DOSE 1 - DOSE 2 WEEK 3 - DOSE 1 - DOSE 2 WEEK 4 - DOSE 1 - DOSE 2
-```
+WEEK 1 - DOSE 1 - DOSE 2
+
+WEEK 2 - DOSE 1 - DOSE 2
+
+WEEK 3 - DOSE 1 - DOSE 2
+
+WEEK 4 - DOSE 1 - DOSE 2
 
 ## 6. SPECIAL WARNING THAT THE MEDICINAL PRODUCT MUST BE STORED OUT OF THE SIGHT AND REACH OF CHILDREN
 
@@ -1305,8 +1288,6 @@ Store in the original package in order to protect from moisture.
 
 Deciphera Pharmaceuticals (Netherlands) B.V.
 
-Atrium Building 4th Floor
-
 Strawinskylaan 3051
 
 1077 ZX, Amsterdam
@@ -1326,31 +1307,31 @@ Lot
 | 14.   | GENERAL CLASSIFICATION FOR SUPPLY   |
 |-------|-------------------------------------|
 
-| 15.   | INSTRUCTIONS ONUSE   |
-|-------|----------------------|
+| 15.   | INSTRUCTIONS ON USE   |
+|-------|-----------------------|
 
 | 16.   | INFORMATION IN BRAILLE   |
 |-------|--------------------------|
 
-| 17. UNIQUE IDENTIFIER - 2D BARCODE   |
-|--------------------------------------|
+| 17.   | UNIQUE IDENTIFIER - 2D BARCODE   |
+|-------|----------------------------------|
 
 | 18.   | UNIQUE IDENTIFIER - HUMANREADABLE DATA   |
 |-------|------------------------------------------|
 
 <div style=\"page-break-after: always\"></div>
 
-| MINIMUM PARTICULARS TO APPEAR ONBLISTERS ORSTRIPS   |
-|-----------------------------------------------------|
-| BLISTER FOR WALLET                                  |
+| MINIMUM PARTICULARS TO APPEAR ON BLISTERS OR STRIPS   |
+|-------------------------------------------------------|
+| BLISTER FOR WALLET                                    |
 
-| 1.   | NAMEOFTHEMEDICINAL PRODUCT   |
-|------|------------------------------|
+| 1.   | NAME OF THE MEDICINAL PRODUCT   |
+|------|---------------------------------|
 
 ROMVIMZA 30 mg hard capsules vimseltinib
 
-| 2.   | NAMEOFTHEMARKETING AUTHORISATION HOLDER   |
-|------|-------------------------------------------|
+| 2.   | NAME OF THE MARKETING AUTHORISATION HOLDER   |
+|------|----------------------------------------------|
 
 Deciphera
 
@@ -1514,7 +1495,7 @@ Your treatment will be started by a doctor who is experienced in the treatment o
 
 The recommended dose is one 30 mg capsule, taken twice a week, at least 72 hours apart.
 
-The capsules can be taken with or without food.
+## The capsules can be taken with or without food.
 
 Swallow the capsules whole with a glass of water and do not open, break or chew the capsules. Do not take any capsules that are broken, cracked, or damaged. The effects of taking broken capsules are not known.
 
@@ -1644,9 +1625,9 @@ The hard capsule has a light blue opaque cap and white opaque body. It is approx
 
 ## Marketing Authorisation Holder and Manufacturer
 
-Deciphera Pharmaceuticals (Netherlands) B.V. Atrium Building 4th Floor Strawinskylaan 3051 1077 ZX, Amsterdam
+Deciphera Pharmaceuticals (Netherlands) B.V.
 
-Netherlands
+Strawinskylaan 3051 1077 ZX, Amsterdam Netherlands
 
 For any information about this medicine, please contact the Marketing Authorisation Holder.
 

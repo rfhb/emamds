@@ -1,18 +1,18 @@
 ---
-document_datetime: 2024-07-26 12:57:39
+document_datetime: 2026-02-09 13:56:23
 document_pages: 33
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/xadago-epar-product-information_en.pdf
 document_name: xadago-epar-product-information_en.pdf
 version: success
-processing_time: 11.7764255
-conversion_datetime: 2025-12-26 13:09:47.995704
+processing_time: 13.4340921
+conversion_datetime: 2026-02-13 18:36:34.144556
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.66.0
-  docling-core: 2.57.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.12.0
+  docling-jobkit: 1.10.2
+  docling: 2.73.1
+  docling-core: 2.65.1
+  docling-ibm-models: 3.11.0
+  docling-parse: 4.7.3
   python: cpython-313 (3.13.11)
   plaform: macOS-26.2-arm64-arm-64bit-Mach-O
 ---
@@ -60,7 +60,9 @@ Xadago is indicated for the treatment of adult patients with idiopathic Parkinso
 
 ## Posology
 
-Treatment with safinamide should be started at 50 mg per day. This daily dose may be increased to 100 mg/day on the basis of individual clinical need. If a dose is missed the next dose should be taken at the usual time the next day.
+Treatment with safinamide should be started at 50 mg per day. This daily dose may be increased to 100 mg/day on the basis of individual clinical need.
+
+If a dose is missed the next dose should be taken at the usual time the next day.
 
 ## Elderly
 
@@ -86,9 +88,7 @@ The safety and efficacy of safinamide in children and adolescents under 18 years
 
 ## For oral use.
 
-Safinamide should be taken with water.
-
-Safinamide may be taken with or without food.
+Safinamide should be taken with water. Safinamide may be taken with or without food.
 
 ## 4.3 Contraindications
 
@@ -210,7 +210,7 @@ Impulse control disorders; pathological gambling, increased libido, hypersexuali
 
 The tabulation below includes all adverse reactions in clinical trials where adverse reactions were considered related.
 
-Adverse reactions are ranked under headings of frequency using the following conventions: very common (≥1/10), common (≥1/100 to &lt;1/10), uncommon (≥1/1000 to &lt;1/100), rare (≥1/10,000 to &lt;1/1000), very rare (&lt;1/10,000) and not known (cannot be estimated from the available data).
+Adverse reactions are ranked under headings of frequency using the following conventions: very common (≥1/10), common (≥1/100 to &lt;1/10), uncommon (≥1/1000 to &lt;1/100), rare (≥1/10,000 to &lt;1/1000), very rare (&lt;1/10,000) and not known (cannot be estimated fro m the available data).
 
 | System Organ Class                                                  | Very common   | Common   | Uncommon                            | Rare                                                                                              |
 |---------------------------------------------------------------------|---------------|----------|-------------------------------------|---------------------------------------------------------------------------------------------------|
@@ -222,7 +222,8 @@ Adverse reactions are ranked under headings of frequency using the following con
 
 | System Organ Class                    | Very common   | Common                                                            | Uncommon                                                                                                                                                    | Rare                                                                                                                                                                                                         |
 |---------------------------------------|---------------|-------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Metabolism and nutrition disorders    |               |                                                                   | abnormality Decreased appetite, hypertriglyceridaemia, increased appetite,                                                                                  | Cachexia, hyperkalaemia                                                                                                                                                                                      |
+|                                       |               |                                                                   | abnormality                                                                                                                                                 |                                                                                                                                                                                                              |
+| Metabolism and nutrition disorders    |               |                                                                   | Decreased appetite, hypertriglyceridaemia, increased appetite, hypercholesterolaemia, hyperglycaemia,                                                       | Cachexia, hyperkalaemia                                                                                                                                                                                      |
 | Psychiatric disorders                 |               | Insomnia                                                          | Hallucination, depression, abnormal dreams, anxiety, confusional state, affect lability, libido increased, psychotic disorder, restlessness, sleep disorder | Compulsions, delirium, disorientation, illusion, impulsive behaviour, loss of libido, obsessive thoughts, paranoia, premature ejaculation, sleep attacks, social phobia, suicidal ideation                   |
 | Nervous system disorders              |               | Dyskinesia somnolenc e, dizziness, headache, Parkinson' s disease | Paraesthesia, balance disorder, hypoaesthesia, dystonia, head discomfort, dysarthria, syncope, cognitive disorder                                           | Coordination abnormal, disturbance in attention, dysgeusia, hyporeflexia, radicular pain, Restless Legs Syndrome, sedation                                                                                   |
 | Eye disorders                         |               | Cataract                                                          | Vision blurred, scotoma, diplopia, photophobia, retinal disorder, conjunctivitis, glaucoma                                                                  | Amblyopia, chromatopsia, diabetic retinopathy, erythropsia, eye haemorrhage, eye pain, eyelid oedema, hypermetropia, keratitis, lacrimation increased, night blindness, papilloedema, presbyopia, strabismus |
@@ -246,11 +247,11 @@ Adverse reactions are ranked under headings of frequency using the following con
 
 <div style=\"page-break-after: always\"></div>
 
-| System Organ Class                             | Very common   | Common   | Uncommon                                                                                                                                                                                                                                                                                                                                                                                                                  | Rare                                                                                                                                                                                                                                                                                                                                            |
-|------------------------------------------------|---------------|----------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Investigations                                 |               |          | Weight decreased, weight increased, blood creatine phosphokinase increased, blood triglycerides increased, blood glucose increased, blood urea increased, blood alkaline phosphatase increased, blood bicarbonate increased, blood creatinine increased, electrocardiogram QT prolonged, liver function test abnormal, urine analysis abnormal, blood pressure increased, blood pressure decreased, ophthalmic diagnostic | Blood calcium decreased, blood potassium decreased, blood cholesterol decreased, body temperature increased, cardiac murmur, cardiac stress test abnormal, haematocrit decreased, haemoglobin decreased, international normalised ratio decreased, lymphocyte count decreased, platelet count decreased, very low density lipoprotein increased |
-| Injury, poisoning and procedural complications |               | Fall     | Foot fracture                                                                                                                                                                                                                                                                                                                                                                                                             | Contusion, fat embolism, head injury, mouth injury, skeletal injury                                                                                                                                                                                                                                                                             |
-| Social circumstances                           |               |          |                                                                                                                                                                                                                                                                                                                                                                                                                           | Gambling                                                                                                                                                                                                                                                                                                                                        |
+| System Organ Class                             | Very common   | Common   | Uncommon                                                                                                                                                                                                                                                                                                                                                                                                                                      | Rare                                                                                                                                                                                                                                                                                                                                            |
+|------------------------------------------------|---------------|----------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Investigations                                 |               |          | Weight decreased, weight increased, blood creatine phosphokinase increased, blood triglycerides increased, blood glucose increased, blood urea increased, blood alkaline phosphatase increased, blood bicarbonate increased, blood creatinine increased, electrocardiogram QT prolonged, liver function test abnormal, urine analysis abnormal, blood pressure increased, blood pressure decreased, ophthalmic diagnostic procedures abnormal | Blood calcium decreased, blood potassium decreased, blood cholesterol decreased, body temperature increased, cardiac murmur, cardiac stress test abnormal, haematocrit decreased, haemoglobin decreased, international normalised ratio decreased, lymphocyte count decreased, platelet count decreased, very low density lipoprotein increased |
+| Injury, poisoning and procedural complications |               | Fall     | Foot fracture                                                                                                                                                                                                                                                                                                                                                                                                                                 | Contusion, fat embolism, head injury, mouth injury, skeletal injury                                                                                                                                                                                                                                                                             |
+| Social circumstances                           |               |          |                                                                                                                                                                                                                                                                                                                                                                                                                                               | Gambling                                                                                                                                                                                                                                                                                                                                        |
 
 ## Description of selected adverse dreactions
 
@@ -264,7 +265,7 @@ Reporting suspected adverse reactions after authorisation of the medicinal produ
 
 In one patient suspected of consuming more than the daily prescribed dose of 100 mg for one month, symptoms of confusion, sleepiness, forgetfulness and dilated pupils were reported. These symptoms resolved on discontinuing the medicinal product, without sequelae.
 
-The expected pattern of events or symptoms following intentional or accidental overdose with Safinamide would be those related to its pharmacodynamic profile: MAO-B inhibition with activity-dependent inhibition of Na +  channels. The symptoms of an excessive MAO-B inhibition
+The expected pattern of events or symptoms following intentional or accidental overdose with Safinamide would be those related to its pharmacodynamic profile: MAO-B inhibition with activity-dependent inhibition of Na + channels. The symptoms of an excessive MAO-B inhibition
 
 <div style=\"page-break-after: always\"></div>
 
@@ -306,8 +307,8 @@ variables, as summarized in the table below. The effect on ON Time was maintaine
 
 | Study                                           | 016 (24 weeks)                                  | 016 (24 weeks)                                  | 016 (24 weeks)                                  | 016/018 (2 years)                               | 016/018 (2 years)                               | 016/018 (2 years)                               | 27919 (SETTLE) (24 weeks)                       | 27919 (SETTLE) (24 weeks)                       |
 |-------------------------------------------------|-------------------------------------------------|-------------------------------------------------|-------------------------------------------------|-------------------------------------------------|-------------------------------------------------|-------------------------------------------------|-------------------------------------------------|-------------------------------------------------|
-| Dose (mg/day) (a)                               | Placebo                                         | Safinamide                                      | Safinamide                                      | Placebo                                         | Safinamide                                      | Safinamide                                      | Placebo                                         | Safin- amide                                    |
-| Dose (mg/day) (a)                               | Placebo                                         | 50                                              | 100                                             | Placebo                                         | 50                                              | 100                                             | Placebo                                         | 50-100 (d)                                      |
+| Dose (mg/day) (a)                               | Placebo                                         | Safinamide                                      | Safinamide                                      | Placebo                                         | Safinamide                                      | Safinamide                                      | Placebo                                         | Safin- amide 50-100                             |
+| Dose (mg/day) (a)                               | Placebo                                         | 50                                              | 100                                             | Placebo                                         | 50                                              | 100                                             | Placebo                                         | (d)                                             |
 | Randomized                                      | 222                                             | 223                                             | 224                                             | 222                                             | 223                                             | 224                                             | 275                                             | 274                                             |
 | Age (years) (b)                                 | 59.4 (9.5)                                      | 60.1 (9.7)                                      | 60.1 (9.2)                                      | 59.4 (9.5)                                      | 60.1 (9.7)                                      | 60.1 (9.2)                                      | 62.1 (9.0)                                      | 61.7 (9.0)                                      |
 | PD Duration (years) (b)                         | 8.4 (3.8)                                       | 7.9 (3.9)                                       | 8.2 (3.8)                                       | 8.4 (3.8)                                       | 7.9 (3.9)                                       | 8.2 (3.8)                                       | 9.0 (4.9)                                       | 8.9 (4.4)                                       |
@@ -331,11 +332,11 @@ variables, as summarized in the table below. The effect on ON Time was maintaine
 | p-value                                         |                                                 | 0.0207                                          | 0.0010                                          |                                                 | 0.0939                                          | 0.0047                                          |                                                 | 0.0514                                          |
 | UPDRS II (c)                                    | UPDRS II (c)                                    | UPDRS II (c)                                    | UPDRS II (c)                                    | UPDRS II (c)                                    | UPDRS II (c)                                    | UPDRS II (c)                                    | UPDRS II (c)                                    | UPDRS II (c)                                    |
 | Baseline (b)                                    | 12.2 (5.9)                                      | 11.8 (5.7)                                      | 12.1 (5.9)                                      | 12.2 (5.9)                                      | 11.8 (5.7)                                      | 12.1 (5.9)                                      | 10.4 (6.3)                                      | 10.0 (5.6)                                      |
-| Change LSM (SE)                                 | -1.2 (0.4)                                      | -1.9 (0.4)                                      | -2.3 (0.4)                                      | -1.4 (0.3)                                      | -2.0 (0.3)                                      | -2.5 (0.3)                                      | -0.8 (0.2)                                      | -1.2 (0.2)                                      |
-| LS Diff vs Placebo                              |                                                 | -0.7                                            | -1.1                                            |                                                 | -0.6                                            | -1.1                                            |                                                 | -0.4                                            |
-|                                                 |                                                 | [-1.3, -0.0]                                    | [-1.7, -0.5]                                    |                                                 | [-1.3,                                          | [-1.8,                                          |                                                 | [-0.9, 0.0]                                     |
-| 95% CI p-value                                  |                                                 | 0.0367                                          | 0.0007                                          |                                                 | 0.0] 0.0676                                     | -0.4] 0.0010                                    |                                                 | 0.0564                                          |
-| Responder analyses (post-hoc) (e) n(%)          | Responder analyses (post-hoc) (e) n(%)          | Responder analyses (post-hoc) (e) n(%)          | Responder analyses (post-hoc) (e) n(%)          | Responder analyses (post-hoc) (e) n(%)          | Responder analyses (post-hoc) (e) n(%)          | Responder analyses (post-hoc) (e) n(%)          | Responder analyses (post-hoc) (e) n(%)          | Responder analyses (post-hoc) (e) n(%)          |
+| Change LSM (SE)                                 | -1.2 (0.4)                                      | -1.9 (0.4)                                      | -2.3                                            | -1.4 (0.3)                                      | -2.0 (0.3)                                      | -2.5 (0.3)                                      | -0.8 (0.2)                                      | -1.2 (0.2)                                      |
+| LS Diff vs Placebo                              |                                                 | -0.7                                            | (0.4) -1.1                                      |                                                 | -0.6                                            | -1.1                                            |                                                 | -0.4                                            |
+|                                                 |                                                 | [-1.3, -0.0]                                    | [-1.7, -0.5]                                    |                                                 | [-1.3, 0.0]                                     | [-1.8, -0.4]                                    |                                                 | [-0.9, 0.0]                                     |
+| 95% CI p-value                                  |                                                 | 0.0367                                          | 0.0007                                          |                                                 | 0.0676                                          | 0.0010                                          |                                                 | 0.0564                                          |
+| Responder analyses (post-hoc) (e) n(%)          | Responder analyses (post-hoc) (e) n(%)          | Responder analyses (post-hoc) (e) n(%)          | Responder analyses (post-hoc) (e) n(%)          | Responder analyses (post-hoc) (e) n(%)          | Responder analyses (post-hoc) (e) n(%)          | Responder analyses (post-hoc) (e) n(%)          | Responder analyses (post-hoc) (e) n(%)          |                                                 |
 
 <div style=\"page-break-after: always\"></div>
 
@@ -380,7 +381,7 @@ Metabolite structure elucidation revealed three metabolic pathways of safinamide
 
 Safinamide does not appear to significantly induce or inhibit enzymes at clinically relevant systemic concentrations. In vitro metabolism studies have indicated that there is no meaningful induction or inhibition of cytochrome P450, CYP2A6, 2B6, 2C8, 2C9, 2C19, 2D6, 2E1 and 3A3/5 at concentrations which are relevant (Cmax of free safinamide 0.4 µM at 100 mg/day) in man. Dedicated drug-drug interaction studies performed with ketoconazole, L-dopa and CYP1A2 and CYP3A4 substrates (caffeine and midazolam), did not detect any clinically significant effects on the pharmacokinetics of safinamide, or L-dopa, caffeine and midazolam.
 
-A mass balance study showed that the plasma AUC0-24h of the unchanged  14 C-safinamide accounted for approximately 30% of the total radioactivity AUC0-24h, indicative of an extensive metabolism.
+A mass balance study showed that the plasma AUC0-24h of the unchanged 14 C-safinamide accounted for approximately 30% of the total radioactivity AUC0-24h, indicative of an extensive metabolism.
 
 ## Transporters
 
@@ -394,7 +395,7 @@ The pharmacokinetics of safinamide are linear after single and repeated doses. N
 
 ## Elimination
 
-Safinamide undergoes almost complete metabolic transformation (&lt;10% of the administered dose was found unchanged in urine). Substance-related radioactivity was largely excreted in urine (76%) and only to a low extent in faeces (1.5%) after 192 hours. The terminal elimination half-life of total radioactivity was approximately 80 hours.
+Safinamide undergoes almost complete metabolic transformation ( &lt;10% of the administered dose was found unchanged in urine). Substance-related radioactivity was largely excreted in urine (76%) and only to a low extent in faeces (1.5%) after 192 hours. The terminal elimination half-life of total radioactivity was approximately 80 hours.
 
 <div style=\"page-break-after: always\"></div>
 
@@ -484,19 +485,11 @@ EU/1/14/984/004
 
 <div style=\"page-break-after: always\"></div>
 
-EU/1/14/984/005
+## EU/1/14/984/005
 
 ## Xadago 100 mg film-coated tablets
 
-EU/1/14/984/006
-
-EU/1/14/984/007
-
-EU/1/14/984/008
-
-EU/1/14/984/009
-
-EU/1/14/984/010
+EU/1/14/984/006 EU/1/14/984/007 EU/1/14/984/008 EU/1/14/984/009 EU/1/14/984/010
 
 ## 9 DATE OF FIRST AUTHORISATION/RENEWAL OF THE AUTHORISATION
 
@@ -512,7 +505,11 @@ Detailed information on this medicinal product is available on the website of th
 
 ## ANNEX II
 
-## A. MANUFACTURER RESPONSIBLE FOR BATCH RELEASE B. CONDITIONS OR RESTRICTIONS REGARDING SUPPLY AND USE C. OTHER CONDITIONS AND REQUIREMENTS OF THE MARKETING AUTHORISATION
+- A. MANUFACTURER RESPONSIBLE FOR BATCH RELEASE
+
+## B. CONDITIONS OR RESTRICTIONS REGARDING SUPPLY AND USE
+
+## C. OTHER CONDITIONS AND REQUIREMENTS OF THE MARKETING AUTHORISATION
 
 ## D. CONDITIONS OR RESTRICTIONS WITH REGARD TO THE SAFE AND EFFECTIVE USE OF THE MEDICINAL PRODUCT
 
@@ -522,9 +519,9 @@ Detailed information on this medicinal product is available on the website of th
 
 Name and address of the manufacturer responsible for batch release
 
-Catalent Germany Schorndorf GmbH Steinbeisstrasse 2 D-73614 Schorndorf Germany
+Catalent Germany Schorndorf GmbH Steinbeisstrasse 2 D-73614 Schorndorf Germany Via della Chimica, 9
 
-Zambon S.p.A. Via della Chimica, 9 36100 Vicenza Italy
+Zambon S.p.A. 36100 Vicenza Italy
 
 The printed package leaflet of the medicinal product must state the name and address of the manufacturer responsible for the release of the concerned batch.
 
@@ -534,20 +531,20 @@ Medicinal product subject to medical prescription
 
 ## C. OTHER CONDITIONS AND REQUIREMENTS OF THE MARKETING AUTHORISATION
 
-##  Periodic Safety Update Reports
+## · Periodic Safety Update Reports
 
 The requirements for submission of periodic safety update reports for this medicinal product are set out in the list of Union reference dates (EURD list) provided for under Article 107c(7) of Directive 2001/83/EC and any subsequent updates published on the European medicines web-portal.
 
 ## D. CONDITIONS OR RESTRICTIONS WITH REGARD TO THE SAFE AND EFFECTIVE USE OF THE MEDICINAL PRODUCT
 
-##  Risk Management Plan (RMP)
+## · Risk Management Plan (RMP)
 
 The MAH shall perform the required pharmacovigilance activities and interventions detailed in the agreed RMP presented in Module 1.8.2 of the Marketing Authorisation and any agreed subsequent updates of the RMP.
 
 An updated RMP should be submitted:
 
--  At the request of the European Medicines Agency;
--  Whenever the risk management system is modified, especially as the result of new information being received that may lead to a significant change to the benefit/risk profile or as the result of an important (pharmacovigilance or risk minimisation) milestone being reached.
+- At the request of the European Medicines Agency;
+- Whenever the risk management system is modified, especially as the result of new information being received that may lead to a significant change to the benefit/risk profile or as the result of an important (pharmacovigilance or risk minimisation) milestone being reached.
 
 <div style=\"page-break-after: always\"></div>
 
@@ -611,7 +608,9 @@ EXP
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
-Zambon S.p.A. Via Lillo del Duca 10 20091 Bresso (MI) - Italy
+Zambon S.p.A. Via Lillo del Duca 10
+
+20091 Bresso (MI) - Italy
 
 ## 12. MARKETING AUTHORISATION NUMBER(S)
 
@@ -634,10 +633,12 @@ xadago 50 mg
 
 2D barcode carrying the unique identifier included.
 
-| 18.   | UNIQUE IDENTIFIER -HUMANREADABLE DATA   |
-|-------|-----------------------------------------|
+| 18.   | UNIQUE IDENTIFIER - HUMANREADABLE DATA   |
+|-------|------------------------------------------|
 
-PC: SN:
+PC:
+
+SN:
 
 NN:
 
@@ -670,8 +671,6 @@ Lot
 | 5.   | OTHER   |
 |------|---------|
 
-<div style=\"page-break-after: always\"></div>
-
 ## PARTICULARS TO APPEAR ON THE OUTER PACKAGING
 
 CARTON - film-coated tablets
@@ -689,9 +688,13 @@ Each film-coated tablet contains safinamide methansulfonate equivalent to 100 mg
 ## 4. PHARMACEUTICAL FORM AND CONTENTS
 
 - 14 film-coated tablets
+
 - 28 film-coated tablets
+
 - 30 film-coated tablets
+
 - 90 film-coated tablets
+
 - 100 film-coated tablets
 
 ## 5. METHOD AND ROUTE(S) OF ADMINISTRATION
@@ -711,6 +714,8 @@ Keep out of the sight and reach of children.
 EXP
 
 ## 9. SPECIAL STORAGE CONDITIONS
+
+<div style=\"page-break-after: always\"></div>
 
 <div style=\"page-break-after: always\"></div>
 
@@ -739,6 +744,7 @@ Lot
 ## 14. GENERAL CLASSIFICATION FOR SUPPLY
 
 15. INSTRUCTIONS ON USE
+
 16. INFORMATION IN BRAILLE
 
 xadago 100 mg
@@ -901,7 +907,9 @@ Do not take a double dose to make up for a forgotten dose. Skip the missed dose 
 
 ## If you stop taking Xadago
 
-Do not stop taking Xadago without first talking to your doctor. If you have any further questions on the use of this medicine, ask your doctor or pharmacist.
+Do not stop taking Xadago without first talking to your doctor.
+
+If you have any further questions on the use of this medicine, ask your doctor or pharmacist.
 
 ## 4. Possible side effects
 
@@ -970,27 +978,29 @@ Email: info.zambonspa@zambongroup.com
 
 Catalent Germany Schorndorf GmbH Steinbeisstrasse 2 D- 73614 Schorndorf Germany
 
-## Zambon S.p.A.
+Zambon S.p.A. Via della Chimica, 9
 
-Via della Chimica, 9 36100 Vicenza Italy
+36100 Vicenza Italy
 
 For any information about this medicine, please contact the local representative of the Marketing Authorisation Holder:
 
 België/Belgique/Belgien/ Luxembourg/Luxemburg
 
-Zambon N.V./S.A. Tél/Tel: + 32 2 777 02 00
+Zambon N.V./S.A.
+
+Tél/Tel: + 32 2 777 02 00
 
 ## France
 
-Zambon France S.A.
+Zambon France S.A. Tél: + 33 (0)1 58 04 41 41
 
-Tél: + 33 (0)1 58 04 41 41
-
-България/ Eesti/ Ireland/Ísland/Κύπρος/Latvija/ Malta/Polska/ România
+Česká republika/България/ Ireland/Ísland/ Κύπρος/ Malta/ România /Slovenská republika
 
 Zambon S.p.A.
 
-Teл./Tel/Τηλ/Sími: + 39 02665241
+Te л./ Tel/ Τηλ/
+
+Sími: + 39 02665241
 
 ## Italia
 
@@ -1016,9 +1026,9 @@ Tel: 00800 92626633
 
 ## Portugal
 
-Zambon - Produtos Farmacêuticos, Lda.
+Zambon - Produtos Farmacêuticos, Lda. Tel: + 351 217 600 952 / 217 600 954
 
-Tel: + 351 217 600 952 / 217 600 954
+<div style=\"page-break-after: always\"></div>
 
 ## España
 
@@ -1026,23 +1036,13 @@ Zambon, S.A.U.
 
 Tel: + 34 93 544 64 00
 
-## Hrvatska/Slovenija
-
-SALUS, Veletrgovina, d.o.o. Tel: + 386 1 5899 100
-
-## Česká republika
-
-Desitin Pharma spol. s r.o. Tel: + 420 222 245 375
-
-## Slovenská republika
-
-Desitin Pharma s.r.o.
-
-Tel: + 421 2 5556 3810
-
 ## Ελλάδα
 
-Innovis Pharma A.E.B.E. Τηλ:+ 30 216 200 5600
+Innovis Pharma A.E.B.E.
+
+T ηλ
+
+:+ 30 216 200 5600
 
 ## Magyarország
 
@@ -1050,16 +1050,24 @@ Richter Gedeon Nyrt.
 
 Tel.: +36 1 505 7032
 
-## Lietuva
-
-UAB 'Norameda'
-
-Tel: + 370 5 2306499
-
-<div style=\"page-break-after: always\"></div>
-
 ## This leaflet was last revised in .
 
 ## Other sources of information
 
 Detailed information on this medicine is available on the European Medicines Agency web site: http://www.ema.europa.eu.
+
+## Hrvatska/Slovenija
+
+SALUS, Veletrgovina, d.o.o. Tel: + 386 1 5899 100
+
+## Lietuva/Eesti/Latvija
+
+UAB 'Norameda'
+
+Tel: + 370 5 2306499
+
+## Polska
+
+Gedeon Richter Polska Sp. z o.o.
+
+Tel: +48 (22) 755 96 48

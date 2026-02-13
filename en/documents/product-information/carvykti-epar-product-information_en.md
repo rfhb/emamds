@@ -1,18 +1,18 @@
 ---
-document_datetime: 2025-10-10 11:38:20
+document_datetime: 2026-02-10 11:16:05
 document_pages: 53
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/carvykti-epar-product-information_en.pdf
 document_name: carvykti-epar-product-information_en.pdf
 version: success
-processing_time: 16.324386
-conversion_datetime: 2025-12-25 02:38:18.454238
+processing_time: 16.5557409
+conversion_datetime: 2026-02-13 18:17:03.664092
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.66.0
-  docling-core: 2.57.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.12.0
+  docling-jobkit: 1.10.2
+  docling: 2.73.1
+  docling-core: 2.65.1
+  docling-ibm-models: 3.11.0
+  docling-parse: 4.7.3
   python: cpython-313 (3.13.11)
   plaform: macOS-26.2-arm64-arm-64bit-Mach-O
 ---
@@ -225,12 +225,12 @@ Table 1: CRS grading and management guidance
 
 <div style=\"page-break-after: always\"></div>
 
-| Hypoxia requiring oxygen via cannula e or blow-by, or, Grade 2 organ toxicity.                                                                                                                                                                                                                                                                                              | If no improvement within 24 hours or rapid progression, repeat tocilizumab and escalate dose of dexamethasone (20 mg IV every 6 to 12 hours). After 2 doses of tocilizumab, consider alternative anti-cytokine agents. d Do not exceed                                                                                                                           | tocilizumab in 24 hours, or 4 doses in                                                                                                                                                                                                                                                                                                                        |
-|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Grade 3 Symptoms require and respond to aggressive intervention. Temperature ≥38 °C c with:                                                                                                                                                                                                                                                                                 | Per Grade 2                                                                                                                                                                                                                                                                                                                                                      | Administer methylprednisolone 1 mg/kg IV twice daily or dexamethasone (e.g., 10 mg IV every 6 hours).                                                                                                                                                                                                                                                         |
-| Hypotension requiring one vasopressor with or without vasopressin, and/or, Hypoxia requiring oxygen via high-flow nasal cannula e , facemask, non-rebreather mask, or Venturi mask, or,                                                                                                                                                                                     | If no improvement within 24 hours or rapid progression, repeat tocilizumab and escalate dose of dexamethasone (20 mg IV every 6 to 12 hours). If no improvement within 24 hours or continued rapid progression, switch to methylprednisolone 2 mg/kg IV every 12 hours. After 2 doses of tocilizumab, consider alternative anti-cytokine agents. d Do not exceed | tocilizumab in 24 hours, or 4 doses in                                                                                                                                                                                                                                                                                                                        |
-| 4 transaminitis. Grade 4 Life-threatening symptoms. Requirements for ventilator support, continuous veno- venous haemodialysis (CVVHD). Temperature ≥38 °C c with: Hypotension requiring multiple vasopressors (excluding vasopressin), and/or, Hypoxia requiring positive pressure (e.g., CPAP, BiPAP, intubation, and mechanical ventilation), or, Grade 4 organ toxicity | Per Grade 2                                                                                                                                                                                                                                                                                                                                                      | Administer dexamethasone 20 mg IV every 6 hours.                                                                                                                                                                                                                                                                                                              |
-|                                                                                                                                                                                                                                                                                                                                                                             | After 2 doses of tocilizumab, consider alternative anti-cytokine agents d . Do not exceed 3 doses of tocilizumab in 24 hours, or 4 doses in total. If no improvement within 24 hours, consider methylprednisolone (1-2 g IV, repeat every 24 hours if needed; taper as clinically indicated) or other immunosuppressants (e.g., other anti-T cell therapies).    | After 2 doses of tocilizumab, consider alternative anti-cytokine agents d . Do not exceed 3 doses of tocilizumab in 24 hours, or 4 doses in total. If no improvement within 24 hours, consider methylprednisolone (1-2 g IV, repeat every 24 hours if needed; taper as clinically indicated) or other immunosuppressants (e.g., other anti-T cell therapies). |
+| Hypoxia requiring oxygen via cannula e or blow-by, or, Grade 2 organ toxicity.                                                                                                                                                                                                                                                                                              | If no improvement within 24 hours or rapid progression, repeat tocilizumab and escalate dose of dexamethasone (20 mg IV every 6 to 12 hours). After 2 doses of tocilizumab, consider alternative anti-cytokine agents. d Do not exceed                                                                                                                                  | tocilizumab in 24 hours, or 4 doses in                                                                                                                                                                                                                                                                                                                        |
+|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Grade 3 Symptoms require and respond to aggressive intervention. Temperature ≥38 °C c with:                                                                                                                                                                                                                                                                                 | Per Grade 2                                                                                                                                                                                                                                                                                                                                                             | Administer methylprednisolone 1 mg/kg IV twice daily or dexamethasone (e.g., 10 mg IV every 6 hours).                                                                                                                                                                                                                                                         |
+| Hypotension requiring one vasopressor with or without vasopressin, and/or, Hypoxia requiring oxygen via high-flow nasal cannula e , facemask, non-rebreather mask, or Venturi mask, or,                                                                                                                                                                                     | If no improvement within 24 hours or rapid progression, repeat tocilizumab and escalate dose of dexamethasone (20 mg IV every 6 to 12 hours). If no improvement within 24 hours or continued rapid progression, switch to methylprednisolone 2 mg/kg IV every 12 hours. After 2 doses of tocilizumab, consider alternative anti-cytokine agents. d Do not exceed total. | tocilizumab in 24 hours, or 4 doses in                                                                                                                                                                                                                                                                                                                        |
+| 4 transaminitis. Grade 4 Life-threatening symptoms. Requirements for ventilator support, continuous veno- venous haemodialysis (CVVHD). Temperature ≥38 °C c with: Hypotension requiring multiple vasopressors (excluding vasopressin), and/or, Hypoxia requiring positive pressure (e.g., CPAP, BiPAP, intubation, and mechanical ventilation), or, Grade 4 organ toxicity | Per Grade 2                                                                                                                                                                                                                                                                                                                                                             | Administer dexamethasone 20 mg IV every 6 hours.                                                                                                                                                                                                                                                                                                              |
+|                                                                                                                                                                                                                                                                                                                                                                             | After 2 doses of tocilizumab, consider alternative anti-cytokine agents d . Do not exceed 3 doses of tocilizumab in 24 hours, or 4 doses in total. If no improvement within 24 hours, consider methylprednisolone (1-2 g IV, repeat every 24 hours if needed; taper as clinically indicated) or other immunosuppressants (e.g., other anti-T cell therapies).           | After 2 doses of tocilizumab, consider alternative anti-cytokine agents d . Do not exceed 3 doses of tocilizumab in 24 hours, or 4 doses in total. If no improvement within 24 hours, consider methylprednisolone (1-2 g IV, repeat every 24 hours if needed; taper as clinically indicated) or other immunosuppressants (e.g., other anti-T cell therapies). |
 
 <div style=\"page-break-after: always\"></div>
 
@@ -1062,7 +1062,7 @@ Detailed information on this medicinal product is available on the website of th
 
 Name and address of the manufacturer(s) of the biological active substance
 
-Janssen Pharmaceuticals Inc. 1000 U.S. Route 202 South Raritan, NJ, USA 08869
+Legend Biotech USA, Inc. 1002 US Highway 202 Raritan, New Jersey 08869, US
 
 Janssen Pharmaceutica NV Technologiepark-Zwijnaarde 73 9052, Ghent Belgium
 
@@ -1698,7 +1698,7 @@ Other side effects are listed below. Tell your doctor or nurse if you get any of
 -  increased level of a protein called 'C-reactive protein' in the blood that may indicate an infection or inflammation
 -  a new type of cancer beginning in blood cells and including bone marrow cells
 
-Uncommon (may affect up to 1 in 100 people):
+## Uncommon (may affect up to 1 in 100 people):
 
 -  tingling, numbness, and pain of hands and feet, difficulty walking, leg and/or arm weakness, and difficulty breathing
 -  A new type of cancer beginning in a type of white blood cells called T-cells (secondary malignancy of T-cell origin)
@@ -1715,7 +1715,9 @@ The following information is intended for doctors only.
 
 Do not use this medicine after the expiry date which is stated on the container label and infusion bag after 'EXP'.
 
-Store frozen in vapour phase of liquid nitrogen (≤ -120 °C) until thawed for use. Do not refreeze.
+Store frozen in vapour phase of liquid nitrogen (≤ -120 °C) until thawed for use.
+
+Do not refreeze.
 
 ## 6. Contents of the pack and other information
 
@@ -1751,7 +1753,7 @@ For any information about this medicine, please contact the local representative
 
 ## België/Belgique/Belgien
 
-Janssen-Cilag NV Tel/Tél: +32 14 64 94 11 janssen@jacbe.jnj.com
+Janssen-Cilag NV Tel/Tél: 0800 93 377 info\\_belux@its.jnj.com
 
 ## България
 
@@ -1759,9 +1761,7 @@ Janssen-Cilag NV Tel/Tél: +32 14 64 94 11 janssen@jacbe.jnj.com
 
 ## Česká republika
 
-Janssen-Cilag s.r.o.
-
-Tel: +420 227 012 227
+Janssen-Cilag s.r.o. Tel: +420 227 012 227
 
 ## Danmark
 
@@ -1769,11 +1769,11 @@ Janssen-Cilag A/S Tlf.: +45 4594 8282 jacdk@its.jnj.com
 
 ## Deutschland
 
-Janssen-Cilag GmbH Tel: 0800 086 9247 / +49 2137 955 6955 jancil@its.jnj.com
+Janssen-Cilag GmbH Tel: 0800 086 9247 / +49 2137 955 6955 medinfo-de@its.jnj.com
 
 ## Eesti
 
-UAB \"JOHNSON &amp; JOHNSON\" Eesti filiaal Tel: +372 617 7410
+UAB \"JOHNSON &amp; JOHNSON\" Eesti filiaal
 
 ## Lietuva
 
@@ -1781,7 +1781,7 @@ UAB \"JOHNSON &amp; JOHNSON\" Tel: +370 5 278 68 88 lt@its.jnj.com
 
 ## Luxembourg/Luxemburg
 
-Janssen-Cilag NV Tél/Tel: +32 14 64 94 11 janssen@jacbe.jnj.com
+Janssen-Cilag NV Tél/Tel: 800 29 504 info\\_belux@its.jnj.com
 
 ## Magyarország
 
@@ -1795,19 +1795,21 @@ Tel: +356 2397 6000
 
 ## Nederland
 
-Janssen-Cilag B.V. Tel: +31 76 711 1111 janssen@jacnl.jnj.com
+Janssen-Cilag B.V. Tel: 0800 242 42 42 info\\_nl@its.jnj.com
 
 ## Norge
 
-Janssen-Cilag AS Tlf: +47 24 12 65 00
+Janssen-Cilag AS
+
+Tel: +372 617 7410
+
+ee@its.jnj.com
 
 <div style=\"page-break-after: always\"></div>
 
 ## Ελλάδα
 
-Janssen-Cilag Φαρμακευτική Μονοπρόσωπη Α.Ε.Β.Ε.
-
-Tηλ: +30 210 80 90 000
+Janssen-Cilag Φαρμακευτική Μονοπρόσωπη Α.Ε.Β.Ε. Tηλ: +30 210 80 90 000
 
 ## España
 
@@ -1835,25 +1837,17 @@ Janssen-Cilag AB c/o Vistor ehf. Sími: +354 535 7000 janssen@vistor.is
 
 ## Italia
 
-Janssen-Cilag SpA
-
-Tel: 800.688.777 / +39 02 2510 1
+Janssen-Cilag SpA Tel: 800.688.777 / +39 02 2510 1
 
 janssenita@its.jnj.com
 
 ## Κύπρος
 
-Βαρνάβας Χατζηπαναγής Λτδ
-
-Τηλ: +357 22 207 700
+Βαρνάβας Χατζηπαναγής Λτδ Τηλ: +357 22 207 700
 
 ## Latvija
 
-UAB \"JOHNSON &amp; JOHNSON\" filiāle Latvijā
-
-Tel: +371 678 93561
-
-lv@its.jnj.com
+UAB \"JOHNSON &amp; JOHNSON\" filiāle Latvijā Tel: +371 678 93561 lv@its.jnj.com
 
 ## This leaflet was last revised in MM/YYYY .
 
@@ -1863,7 +1857,7 @@ Detailed information on this medicine is available on the European Medicines Age
 
 ------------------------------------------------------------------------------------------------------------------------
 
-The following information is intended for healthcare professionals only:
+Tlf: +47 24 12 65 00
 
 jacno@its.jnj.com
 
@@ -1875,21 +1869,15 @@ Tel: +43 1 610 300
 
 ## Polska
 
-Janssen-Cilag Polska Sp. z o.o.
-
-Tel.: +48 22 237 60 00
+Janssen-Cilag Polska Sp. z o.o. Tel.: +48 22 237 60 00
 
 ## Portugal
 
-Janssen-Cilag Farmacêutica, Lda.
-
-Tel: +351 214 368 600
+Janssen-Cilag Farmacêutica, Lda. Tel: +351 214 368 600
 
 ## România
 
-Johnson &amp; Johnson România SRL
-
-Tel: +40 21 207 1800
+Johnson &amp; Johnson România SRL Tel: +40 21 207 1800
 
 ## Slovenija
 
@@ -1899,9 +1887,7 @@ JNJ-SI-safety@its.jnj.com
 
 ## Slovenská republika
 
-Johnson &amp; Johnson, s.r.o.
-
-Tel: +421 232 408 400
+Johnson &amp; Johnson, s.r.o. Tel: +421 232 408 400
 
 ## Suomi/Finland
 
@@ -1912,6 +1898,8 @@ Janssen-Cilag Oy Puh/Tel: +358 207 531 300 jacfi@its.jnj.com
 Janssen-Cilag AB Tfn: +46 8 626 50 00 jacse@its.jnj.com
 
 <div style=\"page-break-after: always\"></div>
+
+The following information is intended for healthcare professionals only:
 
 CARVYKTI should not be irradiated as irradiation could inactivate the medicinal product.
 
@@ -1946,9 +1934,10 @@ The timing of CARVYKTI thaw and infusion should be coordinated; the infusion tim
 -  Once thawed, the entire contents of the CARVYKTI bag should be administered by intravenous infusion within 2.5 hours at room temperature (20°C to 25°C), using infusion sets fitted with an in-line filter. The infusion usually takes less than 60 min.
 -  Do NOT use a leukodepleting filter.
 -  Gently mix the contents of the bag during CARVYKTI infusion to disperse cell clumps.
--  After the entire content of the product bag is infused, flush the administration line, inclusive of the  in-line  filter,  with  sodium  chloride 9 mg/mL (0.9%)  solution  for  injection to  ensure  all medicinal product is delivered.
 
 <div style=\"page-break-after: always\"></div>
+
+-  After the entire content of the product bag is infused, flush the administration line, inclusive of the  in-line  filter,  with  sodium  chloride 9 mg/mL (0.9%)  solution  for  injection to  ensure  all medicinal product is delivered.
 
 ## Precautions to be taken for the disposal of the medicinal product
 

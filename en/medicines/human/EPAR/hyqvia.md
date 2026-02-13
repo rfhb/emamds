@@ -1,17 +1,17 @@
 ---
-document_datetime: 2026-01-20 17:26:00
+document_datetime: 2026-02-11 12:22:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/hyqvia.html
 document_name: hyqvia.html
 version: success
-processing_time: 0.1334459
-conversion_datetime: 2026-01-20 20:21:02.584244
+processing_time: 0.1183203
+conversion_datetime: 2026-02-13 18:35:54.596122
 docling_version:
-  docling-serve: 1.10.0
-  docling-jobkit: 1.8.1
-  docling: 2.69.0
-  docling-core: 2.60.0
-  docling-ibm-models: 3.10.3
+  docling-serve: 1.12.0
+  docling-jobkit: 1.10.2
+  docling: 2.73.1
+  docling-core: 2.65.1
+  docling-ibm-models: 3.11.0
   docling-parse: 4.7.3
   python: cpython-313 (3.13.11)
   plaform: macOS-26.2-arm64-arm-64bit-Mach-O
@@ -61,16 +61,17 @@ docling_version:
     - [RSS feeds](/en/news-events/rss-feeds)
 - [Partners &amp; networks](/en/partners-networks)
     - [Overview](/en/partners-networks)
-    - [Animal health practitioners](/en/partners-networks/animal-health-practitioners)
-    - [One Health approach](/en/partners-networks/one-health-approach)
-    - [Academia](/en/partners-networks/academia)
     - [EU partners](/en/partners-networks/eu-partners)
     - [International activities](/en/partners-networks/international-activities)
     - [Patients and consumers](/en/partners-networks/patients-consumers)
     - [Healthcare professionals](/en/partners-networks/healthcare-professionals)
+    - [Academia](/en/partners-networks/academia)
     - [Pharmaceutical industry](/en/partners-networks/pharmaceutical-industry)
     - [Networks](/en/partners-networks/networks)
     - [Health technology assessment bodies](/en/partners-networks/health-technology-assessment-bodies)
+    - [One Health approach](/en/partners-networks/one-health-approach)
+    - [Animal health practitioners](/en/partners-networks/animal-health-practitioners)
+    - [One substance - one assessment](/en/partners-networks/one-substance-one-assessment-osoa-eu-collaboration-chemicals-related-data)
 - [About us](/en/about-us)
     - [Overview](/en/about-us)
     - [What we do](/en/about-us/what-we-do)
@@ -198,7 +199,7 @@ English (EN) (148.29 KB - PDF)
 
 [View](/en/documents/overview/hyqvia-epar-summary-public_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-853)
+[Other languages (22)](#file-language-dropdown-621)
 
 български (BG) (135.83 KB - PDF)
 
@@ -486,7 +487,7 @@ English (EN) (764.72 KB - PDF)
 
 [View](/en/documents/product-information/hyqvia-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-288)
+[Other languages (24)](#file-language-dropdown-715)
 
 български (BG) (1.08 MB - PDF)
 
@@ -802,7 +803,7 @@ English (EN) (21.69 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/hyqvia-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-486)
+[Other languages (24)](#file-language-dropdown-521)
 
 български (BG) (41.68 KB - PDF)
 
@@ -1125,7 +1126,7 @@ Baxalta Innovations GmbH
 
 Industriestrasse 67
 
-Opinion adopted 21/03/2013 Marketing authorisation issued 16/05/2013 Revision 24
+Opinion adopted 21/03/2013 Marketing authorisation issued 16/05/2013 Revision 25
 
 ## Assessment history
 
@@ -1144,6 +1145,18 @@ English (EN) (330.49 KB - PDF)
 **Last updated:** 27/05/2025
 
 [View](/en/documents/procedural-steps-after/hyqvia-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf)
+
+HyQvia-PAM-0000302076 : EPAR - Assessment report
+
+Adopted
+
+Reference Number: EMADOC-1700519818-2906839
+
+English (EN) (539.35 KB - PDF)
+
+**First published:** 11/02/2026
+
+[View](/en/documents/variation-report/hyqvia-pam-0000302076-epar-assessment-report_en.pdf)
 
 HyQvia-H-C-002491-II-0087 : EPAR - Assessment report - Variation
 
@@ -1308,7 +1321,7 @@ English (EN) (76.38 KB - PDF)
 
 - [Medicines](https://www.ema.europa.eu/en/search?f%5B0%5D=ema_search_topics%3A61)
 
-**This page was last updated on** 20/01/2026
+**This page was last updated on** 11/02/2026
 
 ## Share this page
 

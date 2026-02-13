@@ -1,21 +1,97 @@
 ---
-document_datetime: 2026-01-13 14:30:00
+document_datetime: 2026-02-10 14:36:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/winlevi.html
 document_name: winlevi.html
 version: success
-processing_time: 0.0733142
-conversion_datetime: 2026-01-14 06:45:11.21178
+processing_time: 0.100301
+conversion_datetime: 2026-02-13 18:44:01.6694
 docling_version:
-  docling-serve: 1.10.0
-  docling-jobkit: 1.8.1
-  docling: 2.68.0
-  docling-core: 2.59.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.12.0
+  docling-jobkit: 1.10.2
+  docling: 2.73.1
+  docling-core: 2.65.1
+  docling-ibm-models: 3.11.0
+  docling-parse: 4.7.3
   python: cpython-313 (3.13.11)
   plaform: macOS-26.2-arm64-arm-64bit-Mach-O
 ---
+# Search
+
+- [Medicines](/en/medicines)
+    - [Find medicine](/en/medicines)
+    - [Therapeutic areas: latest updates](/en/medicines/therapeutic-areas-latest-updates)
+    - [Download medicine data](/en/medicines/download-medicine-data)
+    - [What we publish on medicines and when](/en/medicines/what-we-publish-medicines-when)
+    - [Medicines under evaluation](/en/medicines/medicines-human-use-under-evaluation)
+    - [National registers](/en/medicines/national-registers-authorised-medicines)
+- [Human regulatory](/en/human-regulatory-overview)
+    - [Overview](/en/human-regulatory-overview)
+    - [Research and development](/en/human-regulatory-overview/research-development)
+    - [Marketing authorisation](/en/human-regulatory-overview/marketing-authorisation)
+    - [Post-authorisation](/en/human-regulatory-overview/post-authorisation)
+    - [Medical devices](/en/human-regulatory-overview/medical-devices)
+    - [Herbal products](/en/human-regulatory-overview/herbal-medicinal-products)
+- [Veterinary regulatory](/en/veterinary-regulatory-overview)
+    - [Overview](/en/veterinary-regulatory-overview)
+    - [Research and development](/en/veterinary-regulatory-overview/research-development-veterinary-medicines)
+    - [Marketing authorisation](/en/veterinary-regulatory-overview/marketing-authorisation-veterinary-medicines)
+    - [Post-authorisation](/en/veterinary-regulatory-overview/post-authorisation-veterinary-medicines)
+- [Committees](/en/committees)
+    - [Overview](/en/committees)
+    - [How the committees work](/en/committees/how-committees-work)
+    - [CHMP](/en/committees/committee-medicinal-products-human-use-chmp)
+    - [CVMP](/en/committees/committee-veterinary-medicinal-products-cvmp)
+    - [PRAC](/en/committees/pharmacovigilance-risk-assessment-committee-prac)
+    - [COMP](/en/committees/committee-orphan-medicinal-products-comp)
+    - [HMPC](/en/committees/committee-herbal-medicinal-products-hmpc)
+    - [CAT](/en/committees/committee-advanced-therapies-cat)
+    - [PDCO](/en/committees/paediatric-committee-pdco)
+    - [Working parties and other groups](/en/committees/working-parties-other-groups)
+- [News &amp; events](/en/news-events)
+    - [Overview](/en/news-events)
+    - [News](/en/news)
+    - [Events](/en/events/upcoming-events)
+    - [What's new](/en/news-events/whats-new)
+    - [Committee highlights](/en/news-events/committee-highlights)
+    - [Publications](/en/news-and-events/publications)
+    - [Press and social media](/en/news-events/press-social-media)
+    - [Podcast: Inside EMA](/en/news-events/podcast-inside-ema)
+    - [Open consultations](/en/news-events/open-consultations)
+    - [RSS feeds](/en/news-events/rss-feeds)
+- [Partners &amp; networks](/en/partners-networks)
+    - [Overview](/en/partners-networks)
+    - [EU partners](/en/partners-networks/eu-partners)
+    - [International activities](/en/partners-networks/international-activities)
+    - [Patients and consumers](/en/partners-networks/patients-consumers)
+    - [Healthcare professionals](/en/partners-networks/healthcare-professionals)
+    - [Academia](/en/partners-networks/academia)
+    - [Pharmaceutical industry](/en/partners-networks/pharmaceutical-industry)
+    - [Networks](/en/partners-networks/networks)
+    - [Health technology assessment bodies](/en/partners-networks/health-technology-assessment-bodies)
+    - [One Health approach](/en/partners-networks/one-health-approach)
+    - [Animal health practitioners](/en/partners-networks/animal-health-practitioners)
+    - [One substance - one assessment](/en/partners-networks/one-substance-one-assessment-osoa-eu-collaboration-chemicals-related-data)
+- [About us](/en/about-us)
+    - [Overview](/en/about-us)
+    - [What we do](/en/about-us/what-we-do)
+    - [Who we are](/en/about-us/who-we-are)
+    - [How we work](/en/about-us/how-we-work)
+    - [Fees](/en/about-us/fees-payable-european-medicines-agency)
+    - [Support to SMEs](/en/about-us/support-smes)
+    - [Annual reports and work programmes](/en/about-us/annual-reports-work-programmes)
+    - [History of EMA](/en/about-us/history-ema)
+    - [Careers](/en/about-us/careers)
+    - [Procurement](/en/about-us/procurement-grants)
+    - [Glossaries](/en/about-us/glossaries)
+    - [About this website](/en/about-us/about-website)
+    - [Data protection and privacy](/en/about-us/data-protection-privacy-ema)
+    - [Contacts](/en/about-us/contacts-european-medicines-agency)
+
+1. [Home](/en/homepage)
+2. [Medicines](https://www.ema.europa.eu/en/medicines)
+3. Winlevi
+
 # Winlevi
 
 [RSS](/en/individual-human-medicine.xml/258594)
@@ -112,7 +188,7 @@ English (EN) (121.18 KB - PDF)
 
 [View](/en/documents/overview/winlevi-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-367)
+[Other languages (22)](#file-language-dropdown-965)
 
 български (BG) (145.9 KB - PDF)
 
@@ -302,203 +378,301 @@ English (EN) (1.11 MB - PDF)
 
 Winlevi : EPAR - Product information
 
-English (EN) (484.36 KB - PDF)
+English (EN) (773.41 KB - PDF)
 
 **First published:** 13/01/2026
 
+**Last updated:** 16/01/2026
+
 [View](/en/documents/product-information/winlevi-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-440)
+[Other languages (24)](#file-language-dropdown-491)
 
-български (BG) (512.92 KB - PDF)
+български (BG) (831.61 KB - PDF)
 
 **First published:**
 
 13/01/2026
+
+**Last updated:**
+
+16/01/2026
 
 [View](/bg/documents/product-information/winlevi-epar-product-information_bg.pdf)
 
-español (ES) (468.27 KB - PDF)
+español (ES) (809.34 KB - PDF)
 
 **First published:**
 
 13/01/2026
+
+**Last updated:**
+
+16/01/2026
 
 [View](/es/documents/product-information/winlevi-epar-product-information_es.pdf)
 
-čeština (CS) (461.73 KB - PDF)
+čeština (CS) (557.38 KB - PDF)
 
 **First published:**
 
 13/01/2026
+
+**Last updated:**
+
+16/01/2026
 
 [View](/cs/documents/product-information/winlevi-epar-product-information_cs.pdf)
 
-dansk (DA) (442.53 KB - PDF)
+dansk (DA) (522.11 KB - PDF)
 
 **First published:**
 
 13/01/2026
+
+**Last updated:**
+
+16/01/2026
 
 [View](/da/documents/product-information/winlevi-epar-product-information_da.pdf)
 
-Deutsch (DE) (450.5 KB - PDF)
+Deutsch (DE) (793.21 KB - PDF)
 
 **First published:**
 
 13/01/2026
+
+**Last updated:**
+
+16/01/2026
 
 [View](/de/documents/product-information/winlevi-epar-product-information_de.pdf)
 
-eesti keel (ET) (464.21 KB - PDF)
+eesti keel (ET) (548.17 KB - PDF)
 
 **First published:**
 
 13/01/2026
+
+**Last updated:**
+
+16/01/2026
 
 [View](/et/documents/product-information/winlevi-epar-product-information_et.pdf)
 
-ελληνικά (EL) (541.72 KB - PDF)
+ελληνικά (EL) (877.19 KB - PDF)
 
 **First published:**
 
 13/01/2026
+
+**Last updated:**
+
+16/01/2026
 
 [View](/el/documents/product-information/winlevi-epar-product-information_el.pdf)
 
-français (FR) (455.88 KB - PDF)
+français (FR) (558.36 KB - PDF)
 
 **First published:**
 
 13/01/2026
+
+**Last updated:**
+
+16/01/2026
 
 [View](/fr/documents/product-information/winlevi-epar-product-information_fr.pdf)
 
-hrvatski (HR) (477.01 KB - PDF)
+hrvatski (HR) (545.76 KB - PDF)
 
 **First published:**
 
 13/01/2026
+
+**Last updated:**
+
+16/01/2026
 
 [View](/hr/documents/product-information/winlevi-epar-product-information_hr.pdf)
 
-íslenska (IS) (429.71 KB - PDF)
+íslenska (IS) (510.51 KB - PDF)
 
 **First published:**
 
 13/01/2026
+
+**Last updated:**
+
+16/01/2026
 
 [View](/is/documents/product-information/winlevi-epar-product-information_is.pdf)
 
-italiano (IT) (441.56 KB - PDF)
+italiano (IT) (474.22 KB - PDF)
 
 **First published:**
 
 13/01/2026
+
+**Last updated:**
+
+16/01/2026
 
 [View](/it/documents/product-information/winlevi-epar-product-information_it.pdf)
 
-latviešu valoda (LV) (496.01 KB - PDF)
+latviešu valoda (LV) (563.74 KB - PDF)
 
 **First published:**
 
 13/01/2026
+
+**Last updated:**
+
+16/01/2026
 
 [View](/lv/documents/product-information/winlevi-epar-product-information_lv.pdf)
 
-lietuvių kalba (LT) (503.79 KB - PDF)
+lietuvių kalba (LT) (562.94 KB - PDF)
 
 **First published:**
 
 13/01/2026
+
+**Last updated:**
+
+16/01/2026
 
 [View](/lt/documents/product-information/winlevi-epar-product-information_lt.pdf)
 
-magyar (HU) (484.81 KB - PDF)
+magyar (HU) (576.67 KB - PDF)
 
 **First published:**
 
 13/01/2026
+
+**Last updated:**
+
+16/01/2026
 
 [View](/hu/documents/product-information/winlevi-epar-product-information_hu.pdf)
 
-Malti (MT) (599.92 KB - PDF)
+Malti (MT) (907.38 KB - PDF)
 
 **First published:**
 
 13/01/2026
+
+**Last updated:**
+
+16/01/2026
 
 [View](/mt/documents/product-information/winlevi-epar-product-information_mt.pdf)
 
-Nederlands (NL) (438.18 KB - PDF)
+Nederlands (NL) (526.12 KB - PDF)
 
 **First published:**
 
 13/01/2026
+
+**Last updated:**
+
+16/01/2026
 
 [View](/nl/documents/product-information/winlevi-epar-product-information_nl.pdf)
 
-norsk (NO) (462.05 KB - PDF)
+norsk (NO) (521.92 KB - PDF)
 
 **First published:**
 
 13/01/2026
+
+**Last updated:**
+
+16/01/2026
 
 [View](/no/documents/product-information/winlevi-epar-product-information_no.pdf)
 
-polski (PL) (499.18 KB - PDF)
+polski (PL) (556.82 KB - PDF)
 
 **First published:**
 
 13/01/2026
+
+**Last updated:**
+
+16/01/2026
 
 [View](/pl/documents/product-information/winlevi-epar-product-information_pl.pdf)
 
-português (PT) (472.3 KB - PDF)
+português (PT) (552.81 KB - PDF)
 
 **First published:**
 
 13/01/2026
+
+**Last updated:**
+
+16/01/2026
 
 [View](/pt/documents/product-information/winlevi-epar-product-information_pt.pdf)
 
-română (RO) (564.74 KB - PDF)
+română (RO) (590.58 KB - PDF)
 
 **First published:**
 
 13/01/2026
+
+**Last updated:**
+
+16/01/2026
 
 [View](/ro/documents/product-information/winlevi-epar-product-information_ro.pdf)
 
-slovenčina (SK) (508.72 KB - PDF)
+slovenčina (SK) (572.66 KB - PDF)
 
 **First published:**
 
 13/01/2026
+
+**Last updated:**
+
+16/01/2026
 
 [View](/sk/documents/product-information/winlevi-epar-product-information_sk.pdf)
 
-slovenščina (SL) (506.52 KB - PDF)
+slovenščina (SL) (543.75 KB - PDF)
 
 **First published:**
 
 13/01/2026
+
+**Last updated:**
+
+16/01/2026
 
 [View](/sl/documents/product-information/winlevi-epar-product-information_sl.pdf)
 
-Suomi (FI) (449.24 KB - PDF)
+Suomi (FI) (523.18 KB - PDF)
 
 **First published:**
 
 13/01/2026
+
+**Last updated:**
+
+16/01/2026
 
 [View](/fi/documents/product-information/winlevi-epar-product-information_fi.pdf)
 
-svenska (SV) (458.57 KB - PDF)
+svenska (SV) (560.37 KB - PDF)
 
 **First published:**
 
 13/01/2026
+
+**Last updated:**
+
+16/01/2026
 
 [View](/sv/documents/product-information/winlevi-epar-product-information_sv.pdf)
 
@@ -524,7 +698,7 @@ English (EN) (61.75 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/winlevi-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-351)
+[Other languages (24)](#file-language-dropdown-512)
 
 български (BG) (61.78 KB - PDF)
 
@@ -750,6 +924,22 @@ Opinion adopted 25/08/2025 Marketing authorisation issued 17/10/2025
 
 ## Assessment history
 
+Expand section
+
+Collapse section
+
+## Changes since initial authorisation of medicine
+
+Winlevi : EPAR - Statement indicating compliance with the agreed completed  paediatric investigation plan
+
+Reference Number: EMA/CHMP/278079/2025
+
+English (EN) (121.1 KB - PDF)
+
+**First published:** 10/02/2026
+
+[View](/en/documents/pip-compliance/winlevi-epar-statement-indicating-compliance-agreed-completed-paediatric-investigation-plan_en.pdf)
+
 ## Initial marketing authorisation documents
 
 Winlevi : EPAR - Public assessment report
@@ -796,7 +986,7 @@ English (EN) (107.2 KB - PDF)
 
 [View](/en/documents/medicine-qa/questions-answers-approval-marketing-authorisation-winlevi-clascoterone_en.pdf)
 
-**This page was last updated on** 13/01/2026
+**This page was last updated on** 10/02/2026
 
 ## Share this page
 

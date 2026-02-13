@@ -1,18 +1,18 @@
 ---
-document_datetime: 2025-10-15 14:01:33
+document_datetime: 2026-02-11 12:03:30
 document_pages: 33
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/qinlock-epar-product-information_en.pdf
 document_name: qinlock-epar-product-information_en.pdf
 version: success
-processing_time: 7.6715306
-conversion_datetime: 2025-12-23 07:52:22.794281
+processing_time: 7.9235151
+conversion_datetime: 2026-02-13 18:25:58.21364
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.64.1
-  docling-core: 2.55.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.12.0
+  docling-jobkit: 1.10.2
+  docling: 2.73.1
+  docling-core: 2.65.1
+  docling-ibm-models: 3.11.0
+  docling-parse: 4.7.3
   python: cpython-313 (3.13.11)
   plaform: macOS-26.2-arm64-arm-64bit-Mach-O
 ---
@@ -318,12 +318,6 @@ Table 2: Adverse drug reactions reported in INVICTUS and study DCC-2618-01-001
 | Very common                                                                | Weight decreased, lipase increased, blood bilirubin increased                                |
 | Common                                                                     | Alanine aminotransferase increased                                                           |
 
-a Squamous cell carcinoma of skin (Squamous cell carcinoma of skin, Keratoacanthoma, Squamous cell carcinoma of head and neck)
-
-b Cardiac Failure (Cardiac failure, Acute left ventricular failure, Cardiac failure acute, Diastolic dysfunction)
-
-c Hypertension (Hypertension, Blood pressure increased)
-
 ## Description of selected adverse drug reactions
 
 ## Palmar-plantar erythrodysaesthesia syndrome (PPES)
@@ -538,13 +532,13 @@ Any unused medicinal product or waste material should be disposed of in accordan
 
 ## 7. MARKETING AUTHORISATION HOLDER
 
-Deciphera Pharmaceuticals (Netherlands) B.V. Atrium Building 4th Floor Strawinskylaan 3051 1077ZX, Amsterdam Netherlands
+Deciphera Pharmaceuticals (Netherlands) B.V. Strawinskylaan 3051 1077ZX, Amsterdam
+
+Netherlands
 
 ## 8. MARKETING AUTHORISATION NUMBER(S)
 
-EU/1/21/1569/001
-
-EU/1/21/1569/002
+EU/1/21/1569/001 EU/1/21/1569/002
 
 ## 9. DATE OF FIRST AUTHORISATION/RENEWAL OF THE AUTHORISATION
 
@@ -569,7 +563,7 @@ Detailed information on this medicinal product is available on the website of th
 
 Name and address of the manufacturer responsible for batch release
 
-Deciphera Pharmaceuticals (Netherlands) B.V. Atrium Building 4th Floor Strawinskylaan 3051 1077ZX, Amsterdam Netherlands
+Deciphera Pharmaceuticals (Netherlands) B.V. Strawinskylaan 3051 1077ZX, Amsterdam Netherlands
 
 ## B. CONDITIONS OR RESTRICTIONS REGARDING SUPPLY AND USE
 
@@ -646,17 +640,13 @@ EXP
 
 Store in the original package and keep bottle tightly closed in order to protect from light and moisture.
 
-<div style=\"page-break-after: always\"></div>
-
 10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
 Deciphera Pharmaceuticals (Netherlands) B.V.
 
-Atrium Building 4th Floor Strawinskylaan 3051 1077ZX, Amsterdam
-
-Netherlands
+Strawinskylaan 3051 1077ZX, Amsterdam Netherlands
 
 ## 12. MARKETING AUTHORISATION NUMBER(S)
 
@@ -672,14 +662,15 @@ EU/1/21/1569/002
 
 Lot
 
-## 14. GENERAL CLASSIFICATION FOR SUPPLY
+14. GENERAL CLASSIFICATION FOR SUPPLY
 
 15. INSTRUCTIONS ON USE
+
 16. INFORMATION IN BRAILLE
 
 QINLOCK 50 mg
 
-## 17. UNIQUE IDENTIFIER - 2D BARCODE
+17. UNIQUE IDENTIFIER - 2D BARCODE
 
 2D barcode carrying the unique identifier included.
 
@@ -688,6 +679,8 @@ QINLOCK 50 mg
 PC
 
 SN
+
+<div style=\"page-break-after: always\"></div>
 
 NN
 
@@ -1054,11 +1047,11 @@ Not all pack sizes may be marketed.
 
 ## Marketing Authorisation Holder
 
-Deciphera Pharmaceuticals (Netherlands) B.V. Atrium Building 4th Floor Strawinskylaan 3051 1077ZX, Amsterdam Netherlands
+Deciphera Pharmaceuticals (Netherlands) B.V. Strawinskylaan 3051 1077ZX, Amsterdam Netherlands
 
 ## Manufacturer
 
-Deciphera Pharmaceuticals (Netherlands) B.V. Atrium Building 4th Floor Strawinskylaan 3051 1077ZX, Amsterdam Netherlands
+Deciphera Pharmaceuticals (Netherlands) B.V. Strawinskylaan 3051 1077ZX, Amsterdam Netherlands
 
 <div style=\"page-break-after: always\"></div>
 

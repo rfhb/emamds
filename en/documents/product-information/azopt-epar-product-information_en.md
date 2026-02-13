@@ -1,18 +1,18 @@
 ---
-document_datetime: 2025-01-06 14:42:38
-document_pages: 28
+document_datetime: 2026-02-09 15:33:01
+document_pages: 27
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/azopt-epar-product-information_en.pdf
 document_name: azopt-epar-product-information_en.pdf
 version: success
-processing_time: 5.2093388
-conversion_datetime: 2025-12-29 22:18:07.188801
+processing_time: 8.1256091
+conversion_datetime: 2026-02-13 18:42:40.557207
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.66.0
-  docling-core: 2.57.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.12.0
+  docling-jobkit: 1.10.2
+  docling: 2.73.1
+  docling-core: 2.65.1
+  docling-ibm-models: 3.11.0
+  docling-parse: 4.7.3
   python: cpython-313 (3.13.11)
   plaform: macOS-26.2-arm64-arm-64bit-Mach-O
 ---
@@ -182,7 +182,7 @@ In clinical studies involving 2 732 patients treated with AZOPT as monotherapy o
 
 ## Tabulated summary of adverse reactions
 
-The following adverse reactions have been reported with brinzolamide 10mg/ml eye drops, suspension and are classified according to the following convention: very common (≥1/10), common (≥1/100 to &lt;1/10), uncommon (≥1/1 000 to &lt;1/100), rare (≥1/10 000 to &lt;1/1 000), very rare (&lt;1/10 000), or not known (cannot be estimated from the available data). Within each frequency grouping, adverse reactions are presented in order of decreasing seriousness. The adverse reactions were obtained from clinical trials and post-marketing spontaneous reports.
+The following adverse reactions have been reported with brinzolamide 10mg/ml eye drops, suspension and are classified according to the following convention: very common (≥1/10), common (≥1/100 to &lt;1/10), uncommon (≥1/1 000 to &lt;1/100) , rare (≥1/10 000 to &lt;1/1 000), very rare (&lt;1/10 000), or not known (cannot be estimated from the available data). Within each frequency grouping, adverse reactions are presented in order of decreasing seriousness. The adverse reactions were obtained from clinical trials and post-marketing spontaneous reports.
 
 | System Organ Classification                     | MedDRA Preferred Term (v.15.1)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 |
 |-------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -253,11 +253,13 @@ A clinical trial was conducted with AZOPT in 32 paediatric patients less than 6 
 
 Among patients who were naive to IOP therapy (10 patients), the efficacy of AZOPT was similar to that seen previously in adults, with mean IOP reductions from baseline ranging up to 5 mmHg. Among patients who were on topical IOP-lowering medicinal product(s) (22 patients), mean IOP increased slightly from baseline in the AZOPT group.
 
-<div style=\"page-break-after: always\"></div>
-
 ## 5.2 Pharmacokinetic properties
 
-Following topical ocular administration, brinzolamide is absorbed into the systemic circulation. Due to its high affinity for CA-II, brinzolamide distributes extensively into the red blood cells (RBCs) and exhibits a long half-life in whole blood (mean of approximately 24 weeks). In humans, the metabolite N-desethylbrinzolamide is formed, which also binds to CA and accumulates in RBCs. This metabolite binds mainly to CA-I in the presence of brinzolamide. In plasma, both brinzolamide and Ndesethylbrinzolamide concentrations are low and generally below assay quantitation limits (&lt;7.5 ng/ml).
+Following topical ocular administration, brinzolamide is absorbed into the systemic circulation. Due to its high affinity for CA-II, brinzolamide distributes extensively into the red blood cells (RBCs) and exhibits a long half-life in whole blood (mean of approximately 24 weeks). In humans, the metabolite N-desethylbrinzolamide is formed, which also binds to CA and accumulates in RBCs. This metabolite binds mainly to CA-I in the presence of brinzolamide. In plasma, both brinzolamide and N-
+
+<div style=\"page-break-after: always\"></div>
+
+desethylbrinzolamide concentrations are low and generally below assay quantitation limits (&lt;7.5 ng/ml).
 
 Binding to plasma proteins is not extensive (about 60%). Brinzolamide is eliminated primarily by renal excretion (approximately 60%). About 20% of the dose has been accounted for in urine as metabolite. Brinzolamide and N-desethylbrinzolamide are the predominant components in the urine along with trace levels (&lt;1%) of the N-desmethoxypropyl and O-desmethyl metabolites.
 
@@ -283,7 +285,9 @@ Developmental toxicity studies in rabbits with oral doses of brinzolamide of up 
 
 ## 6.1 List of excipients
 
-Benzalkonium chloride Mannitol (E421) Carbomer 974P Tyloxapol Edetate disodium Sodium chloride Hydrochloric acid/sodium hydroxide (to adjust pH) Purified water
+Hydrochloric acid/sodium hydroxide (to adjust pH)
+
+Benzalkonium chloride Mannitol (E421) Carbomer 974P Tyloxapol Edetate disodium Sodium chloride Purified water
 
 ## 6.2 Incompatibilities
 
@@ -311,19 +315,21 @@ No special requirements.
 
 ## 7. MARKETING AUTHORISATION HOLDER
 
-Novartis Europharm Limited Vista Building Elm Park, Merrion Road Dublin 4 Ireland
+Novartis Europharm Limited
+
+Vista Building Elm Park, Merrion Road Dublin 4 Ireland
 
 ## 8. MARKETING AUTHORISATION NUMBERS
 
 EU/1/00/129/001-3
-
-<div style=\"page-break-after: always\"></div>
 
 ## 9. DATE OF FIRST AUTHORISATION/RENEWAL OF THE AUTHORISATION
 
 Date of first authorisation: 9 March 2000
 
 Date of latest renewal: 29 January 2010
+
+<div style=\"page-break-after: always\"></div>
 
 ## 10. DATE OF REVISION OF THE TEXT
 
@@ -344,13 +350,9 @@ Detailed information on this medicinal product is available on the website of th
 
 Name and address of the manufacturer responsible for batch release
 
-Novartis Pharma GmbH Roonstraße 25 D-90429 Nuremberg Germany
-
 Novartis Manufacturing NV Rijksweg 14 2870 Puurs-Sint-Amands Belgium
 
 Novartis Farmacéutica, S.A. Gran Via de les Corts Catalanes, 764 08013 Barcelona Spain
-
-Siegfried El Masnou, S.A. Camil Fabra 58 El Masnou 08320 Barcelona Spain
 
 Novartis Pharma GmbH Sophie-Germain-Strasse 10 90443 Nuremberg Germany
 
@@ -365,8 +367,6 @@ Medicinal product subject to medical prescription
 ## · Periodic safety update reports (PSURs)
 
 The requirements for submission of PSURs for this medicinal product are set out in the list of Union reference dates (EURD list) provided for under Article 107c(7) of Directive 2001/83/EC and any subsequent updates published on the European medicines web-portal.
-
-<div style=\"page-break-after: always\"></div>
 
 ## D. CONDITIONS OR RESTRICTIONS WITH REGARD TO THE SAFE AND EFFECTIVE USE OF THE MEDICINAL PRODUCT
 
@@ -535,9 +535,7 @@ Lot
 
 <div style=\"page-break-after: always\"></div>
 
-## AZOPT 10 mg/ml eye drops, suspension
-
-## brinzolamide
+## AZOPT 10 mg/ml eye drops, suspension brinzolamide
 
 ## Read all of this leaflet carefully before you start using this medicine because it contains important information for you .
 
@@ -748,13 +746,9 @@ Novartis Europharm Limited Vista Building Elm Park, Merrion Road Dublin 4 Irelan
 
 ## Manufacturer
 
-Novartis Pharma GmbH Roonstraße 25 D-90429 Nuremberg Germany
-
 Novartis Manufacturing NV Rijksweg 14 2870 Puurs-Sint-Amands Belgium
 
 Novartis Farmacéutica, S.A. Gran Via de les Corts Catalanes, 764 08013 Barcelona Spain
-
-Siegfried El Masnou, S.A. Camil Fabra 58 El Masnou 08320 Barcelona Spain
 
 Novartis Pharma GmbH Sophie-Germain-Strasse 10 90443 Nuremberg Germany
 
@@ -764,9 +758,21 @@ For any information about this medicine, please contact the local representative
 
 Novartis Pharma N.V. Tél/Tel: +32 2 246 16 11
 
+## Lietuva
+
+SIA Novartis Baltics Lietuvos filialas Tel: +370 5 269 16 50
+
 ## България
 
-Novartis Bulgaria EOOD Тел.: +359 2 489 98 28
+Novartis Bulgaria EOOD
+
+Тел
+
+.: +359 2 489 98 28
+
+## Luxembourg/Luxemburg
+
+Novartis Pharma N.V. Tél/Tel: +32 2 246 16 11
 
 ## Česká republika
 
@@ -774,27 +780,19 @@ Novartis s.r.o.
 
 Tel: +420 225 775 111
 
-## Danmark
-
-Novartis Healthcare A/S Tlf: +45 39 16 84 00
-
-## Lietuva
-
-SIA Novartis Baltics Lietuvos filialas Tel: +370 5 269 16 50
-
-## Luxembourg/Luxemburg
-
-Novartis Pharma N.V. Tél/Tel: +32 2 246 16 11
-
 ## Magyarország
 
 Novartis Hungária Kft. Tel.: +36 1 457 65 00
 
+## Danmark
+
+Novartis Healthcare A/S Tlf: +45 39 16 84 00
+
 ## Malta
 
-Novartis Pharma Services Inc. Tel: +356 2122 2872
+Novartis Pharma Services Inc.
 
-<div style=\"page-break-after: always\"></div>
+Tel: +356 2122 2872
 
 ## Deutschland
 
@@ -802,23 +800,45 @@ Novartis Pharma GmbH
 
 Tel: +49 911 273 0
 
+## Nederland
+
+Novartis Pharma B.V.
+
+Tel: +31 88 04 52 111
+
 ## Eesti
 
 SIA Novartis Baltics Eesti filiaal
 
 Tel: +372 66 30 810
 
+## Norge
+
+Novartis Norge AS Tlf: +47 23 05 20 00
+
 ## Ελλάδα
 
-Novartis (Hellas) A.E.B.E.
+Novartis (Hellas) A.E.B.E. Τηλ: +30 210 281 17 12
 
-Τηλ: +30 210 281 17 12
+## Österreich
+
+Novartis Pharma GmbH
+
+Tel: +43 1 86 6570
+
+<div style=\"page-break-after: always\"></div>
 
 ## España
+
+## Polska
 
 Novartis Farmacéutica, S.A.
 
 Tel: +34 93 306 42 00
+
+Novartis Poland Sp. z o.o.
+
+Tel.: +48 22 375 4888
 
 ## France
 
@@ -826,9 +846,23 @@ Novartis Pharma S.A.S.
 
 Tél: +33 1 55 47 66 00
 
+## Portugal
+
+Novartis Farma - Produtos Farmacêuticos, S.A.
+
+Tel: +351 21 000 8600
+
 ## Hrvatska
 
-Novartis Hrvatska d.o.o. Tel. +385 1 6274 220
+Novartis Hrvatska d.o.o.
+
+Tel. +385 1 6274 220
+
+## România
+
+Novartis Pharma Services Romania SRL
+
+Tel: +40 21 31299 01
 
 ## Ireland
 
@@ -836,11 +870,23 @@ Novartis Ireland Limited
 
 Tel: +353 1 260 12 55
 
+## Slovenija
+
+Novartis Pharma Services Inc.
+
+Tel: +386 1 300 75 50
+
 ## Ísland
 
 Vistor hf.
 
 Sími: +354 535 7000
+
+## Slovenská republika
+
+Novartis Slovakia s.r.o.
+
+Tel: + 421 2 5542 5439
 
 ## Italia
 
@@ -848,11 +894,23 @@ Novartis Farma S.p.A.
 
 Tel: +39 02 96 54 1
 
+## Suomi/Finland
+
+Novartis Finland Oy
+
+Puh/Tel: +358 (0)10 6133 200
+
 ## Κύπρος
 
 Novartis Pharma Services Inc.
 
 Τηλ: +357 22 690 690
+
+## Sverige
+
+Novartis Sverige AB
+
+Tel: +46 8 732 32 00
 
 ## Latvija
 
@@ -865,59 +923,3 @@ Tel: +371 67 887 070
 ## Other sources of information
 
 Detailed information on this medicine is available on the European Medicines Agency website http://www.ema.europa.eu
-
-## Nederland
-
-Novartis Pharma B.V.
-
-Tel: +31 88 04 52 111
-
-## Norge
-
-Novartis Norge AS
-
-Tlf: +47 23 05 20 00
-
-## Österreich
-
-Novartis Pharma GmbH
-
-Tel: +43 1 86 6570
-
-## Polska
-
-Novartis Poland Sp. z o.o.
-
-Tel.: +48 22 375 4888
-
-## Portugal
-
-Novartis Farma - Produtos Farmacêuticos, S.A. Tel: +351 21 000 8600
-
-## România
-
-Novartis Pharma Services Romania SRL Tel: +40 21 31299 01
-
-## Slovenija
-
-Novartis Pharma Services Inc.
-
-Tel: +386 1 300 75 50
-
-## Slovenská republika
-
-Novartis Slovakia s.r.o.
-
-Tel: + 421 2 5542 5439
-
-## Suomi/Finland
-
-Novartis Finland Oy
-
-Puh/Tel: +358 (0)10 6133 200
-
-## Sverige
-
-Novartis Sverige AB
-
-Tel: +46 8 732 32 00

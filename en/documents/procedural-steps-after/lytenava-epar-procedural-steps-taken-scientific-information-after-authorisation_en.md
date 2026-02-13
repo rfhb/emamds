@@ -1,37 +1,30 @@
 ---
-document_datetime: 2025-01-22 14:48:37
-document_pages: 2
+document_datetime: 2026-02-09 17:39:34
+document_pages: 5
 document_pathfilename: www.ema.europa.eu/en/documents/procedural-steps-after/lytenava-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf
 document_name: lytenava-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf
 version: success
-processing_time: 1.3586433
-conversion_datetime: 2025-12-22 00:45:13.562976
+processing_time: 3.2571221
+conversion_datetime: 2026-02-13 18:26:53.600743
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.64.1
-  docling-core: 2.55.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.12.0
+  docling-jobkit: 1.10.2
+  docling: 2.73.1
+  docling-core: 2.65.1
+  docling-ibm-models: 3.11.0
+  docling-parse: 4.7.3
   python: cpython-313 (3.13.11)
   plaform: macOS-26.2-arm64-arm-64bit-Mach-O
 ---
 ## Lytenava
 
-Procedural steps taken and scientific information after the authorisation
+Procedural steps taken and scientific information after the authorisation*
 
-| Application number   | Scope                                                                                                                                                                               | Opinion/ Notification 1 issued on   | Commission Decision Issued 2 / amended on   | Product Information affected 3   | Summary   |
-|----------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------|---------------------------------------------|----------------------------------|-----------|
-| IB/0004              | B.II.f.1.b.5 - Stability of FP - Extension of the shelf life of the finished product - Biological/immunological medicinal product in accordance with an approved stability protocol | 21/01/2025                          |                                             | SmPC                             |           |
-| IB/0003              | B.I.d.1.a.4 - Stability of AS - Change in the re-test                                                                                                                               | 18/12/2024                          | n/a                                         |                                  |           |
+*Due to the Agency`s update of its procedure management systems, an additional document, reflecting the historical lifecycle may be available in the 'Assessment history' section. For the complete product lifecycle procedures, you may need to also refer to EPAR - Procedural steps taken and scientific information after authorisation (archive) .
 
-1 Notifications are issued for type I variations and Article 61(3) notifications (unless part of a group including a type II variation or extension application or a worksharing application). Opinions are issued for all other procedures.
-
-2 A Commission decision (CD) is issued for procedures that affect the terms of the marketing authorisation (e.g. summary of product characteristics, annex II, labelling, package leaflet). The CD is issued within two months of the opinion for variations falling under the scope of Article 23.1a(a) of Regulation (EU) No. 712/2012, or within one year for other procedures.
-
-3 SmPC (Summary of Product Characteristics), Annex II, Labelling, PL (Package Leaflet).
-
-Official address Domenico Scarlattilaan 6 ● 1083 HS Amsterdam ● The Netherlands Address for visits and deliveries Refer to www.ema.europa.eu/how-to-find-us Send us a question Go to www.ema.europa.eu/contact Telephone +31 (0)88 781 6000
+| Application number         | Scope   | Opinion/ Notification 1 issued on   | Commission Decision Issued 2 / amended on   | Product Information affected 3   | Summary     |
+|----------------------------|---------|-------------------------------------|---------------------------------------------|----------------------------------|-------------|
+| PSUR / EMA/PSUR/0000296623 |         |                                     |                                             |                                  | Maintenance |
 
 <!-- image -->
 
@@ -39,6 +32,27 @@ Official address Domenico Scarlattilaan 6 ● 1083 HS Amsterdam ● The Netherla
 
 <div style=\"page-break-after: always\"></div>
 
-|             | period/storage period - Extension or introduction of a re-test period/storage period supported by real time data                                                                                                                                                                                                                                                                             |            |                 |
-|-------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------|-----------------|
-| IAIN/0002/G | This was an application for a group of variations. B.II.b.1.a - Replacement or addition of a manufacturing site for the FP - Secondary packaging site B.II.b.2.c.1 - Change to importer, batch release arrangements and quality control testing of the FP - Replacement or addition of a manufacturer responsible for importation and/or batch release - Not including batch control/testing | 06/09/2024 | Annex II and PL |
+| PSUR / EMA/PSUR/0000257885            |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            |            |
+|---------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------|
+| Variation type IB / EMA/VR/0000273546 | B.I.d.1.a Re-test period/storage period - B.I.d.1.a.4 Extension or introduction of a re- test period/storage period supported by real time data - Accepted                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 | 06/06/2025 |
+| Variation type II / EMA/VR/0000287116 | This was an application for a group of variations. B.II.b.2 Change to importer, batch release arrangements and quality control testing of the finished product - B.II.b.2.b Replacement or addition of a site where batch control/testing takes place for a biological/immunological product and any of the test methods performed at the site is a biological/immunological method - Accepted B.I.a.1 Change in the manufacturer of a starting material/reagent/intermediate used in the manufacturing process of the active substance or change in the manufacturer (including where relevant quality control testing sites) of the active substance, where no Ph. Eur. Certificate of Suitability is part of the approved dossier - B.I.a.1.j Changes to quality control testing arrangements for a biological active substance: replacement or addition of a site where batch control/testing including a biological / immunological / | 02/10/2025 |
+
+<div style=\"page-break-after: always\"></div>
+
+|                                                         | Accepted                                                                                                                                                                                                                                                                                                                                                                                            |            |            |                        |
+|---------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------|------------|------------------------|
+| Variation type IA_IN / EMA/VR/0000247784                | B.II.b.1 Replacement or addition of a manufacturing site for part or all of the manufacturing process of the finished product - B.II.b.1.a Secondary packaging site - Accepted                                                                                                                                                                                                                      | 14/02/2025 |            |                        |
+| Marketing Authorisation Transfer - H / EMA/T/0000320474 | Transfer of Marketing Authorisation from Outlook Therapeutics Limited to Outlook Therapeutics NL B.V.                                                                                                                                                                                                                                                                                               | 09/01/2026 | 04/02/2026 | SmPC, Labelling and PL |
+| Variation type IB / EMA/VR/0000308837                   | B.I.d.1.a Re-test period/storage period - B.I.d.1.a.4 Extension or introduction of a re- test period/storage period supported by real time data - Accepted                                                                                                                                                                                                                                          | 20/11/2025 |            |                        |
+| Variation type II / EMA/VR/0000291539                   | This was an application for a group of variations. B.I.b.2 Change in test procedure for active substance or starting material/reagent/intermediate used in the manufacturing process of the active substance - B.I.b.2.d Substantial change to or replacement of a biological/ immunological/ immunochemical test method or a method using a biological reagent for a biological active substance - | 15/01/2026 |            |                        |
+
+<div style=\"page-break-after: always\"></div>
+
+|                     | Accepted B.I.a.1 Change in the manufacturer of a starting material/reagent/intermediate used in the manufacturing process of the active substance or change in the manufacturer (including where relevant quality control testing sites) of the active substance, where no Ph. Eur. Certificate of Suitability is part of the approved dossier - B.I.a.1.j Changes to quality control testing arrangements for a biological active substance: replacement or addition of a site where batch control/testing including a biological / immunological / immunochemical method takes place - Accepted   |            |                   |
+|---------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------|-------------------|
+| Variation type IA / | This was an application for a group of variations. A.5 Change in the name and/or address of a manufacturer/importer of the finished product (including batch release or quality control testing sites) - A.5.b The activities for which the manufacturer/importer is responsible do not include batch release - Accepted A.5 Change in the name and/or address of a manufacturer/importer of the finished product (including batch release or quality control testing sites) - A.5.b The activities for which the manufacturer/importer is                                                          | 18/06/2025 | EMA/VR/0000277866 |
+
+<div style=\"page-break-after: always\"></div>
+
+| responsible do not include batch release - Accepted A. ADMINISTRATIVE CHANGES - A.4 Change in the name and/or address of: a manufacturer (including where relevant quality control testing sites); or an ASMF holder; or a supplier of the active substance, starting material, reagent or intermediate used in the manufacture of the active substance (where specified in the technical dossier) where no Ph. Eur. Certificate of Suitability is part of the approved dossier; or a manufacturer of a novel excipient (where specified in the technical dossier) - Accepted   |
+|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|

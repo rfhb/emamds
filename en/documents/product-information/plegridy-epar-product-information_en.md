@@ -1,18 +1,18 @@
 ---
-document_datetime: 2025-10-16 14:48:42
-document_pages: 90
+document_datetime: 2026-02-11 08:59:38
+document_pages: 91
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/plegridy-epar-product-information_en.pdf
 document_name: plegridy-epar-product-information_en.pdf
 version: success
-processing_time: 22.1616409
-conversion_datetime: 2025-12-24 23:41:38.539109
+processing_time: 23.714134
+conversion_datetime: 2026-02-13 18:14:48.233117
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.66.0
-  docling-core: 2.57.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.12.0
+  docling-jobkit: 1.10.2
+  docling: 2.73.1
+  docling-core: 2.65.1
+  docling-ibm-models: 3.11.0
+  docling-parse: 4.7.3
   python: cpython-313 (3.13.11)
   plaform: macOS-26.2-arm64-arm-64bit-Mach-O
 ---
@@ -24,8 +24,7 @@ docling_version:
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
-Plegridy 63 micrograms solution for injection in pre-filled syringe
-
+- Plegridy 63 micrograms solution for injection in pre-filled syringe
 - Plegridy 94 micrograms solution for injection in pre-filled syringe
 - Plegridy 125 micrograms solution for injection in pre-filled syringe
 - Plegridy 63 micrograms solution for injection in pre-filled pen
@@ -44,9 +43,7 @@ Plegridy 125 micrograms solution for injection in pre-filled syringe (for intram
 
 Plegridy 63 micrograms solution for injection in pre-filled pen (for subcutaneous use) Each pre-filled pen contains 63 micrograms of peginterferon beta-1a* in 0.5 mL solution for injection.
 
-Plegridy 94 micrograms solution for injection in pre-filled pen (for subcutaneous use)
-
-Each pre-filled pen contains 94 micrograms of peginterferon beta-1a* in 0.5 mL solution for injection.
+Plegridy 94 micrograms solution for injection in pre-filled pen (for subcutaneous use) Each pre-filled pen contains 94 micrograms of peginterferon beta-1a* in 0.5 mL solution for injection.
 
 Plegridy 125 micrograms solution for injection in pre-filled pen (for subcutaneous use) Each pre-filled pen contains 125 micrograms of peginterferon beta-1a* in 0.5 mL solution for injection.
 
@@ -143,21 +140,23 @@ Peginterferon beta-1a has not been studied in patients with hepatic impairment (
 
 ## Paediatric population
 
-The safety and efficacy of peginterferon beta-1a in children and adolescents aged 0 to 18 years have not been established in multiple sclerosis. No data are available.
+The safety and efficacy of peginterferon beta-1a in children and adolescents aged 10 to less than 18 years have not been established in multiple sclerosis. Currently available data are described in section 4.8, 5.1 and 5.2 but no recommendation on a posology can be made.
+
+The safety and efficacy of peginterferon beta-1a in children below 10 years of age have not been established. No data are available.
 
 ## Method of administration
 
-It is recommended that a healthcare professional trains patients in the proper technique for self -administering SC injections using the SC pre-filled syringe/pre-filled pen or IM injections using the IM pre-filled syringes as appropriate. Patients should be advised to rotate sites for SC or IM injections every two weeks. The usual sites for subcutaneous injections include abdomen, arm, and thigh.  The usual site for intramuscular injection is the thigh.
+It is recommended that a healthcare professional trains patients in the proper technique for selfadministering SC injections using the SC pre-filled syringe/pre-filled pen or IM injections using the IM pre-filled syringes as appropriate. Patients should be advised to rotate sites for SC or IM injections every two weeks. The usual sites for subcutaneous injections include abdomen, arm, and thigh.  The usual site for intramuscular injection is the thigh.
 
 Each Plegridy pre-filled pen/syringe for SC is provided with the needle pre-attached.  Plegridy prefilled syringe for IM use is supplied as a prefilled syringe with a separate needle for IM use.
 
 Both IM and SC pre-filled syringes and SC pre-filled pens are for single use only and should be discarded after use.
 
-Precautions to be taken before handling or administering the medicinal product Once removed from the refrigerator, Plegridy should be allowed to warm to room temperature (up to 25  C) for about 30 minutes prior to injection. External heat sources such as hot water must not be used to warm the medicinal product
-
-Plegridy pre-filled syringe must not be used if the liquid is coloured, cloudy, or contains floating particles. The liquid in the syringe must be clear and colourless.
+Precautions to be taken before handling or administering the medicinal product Once removed from the refrigerator, Plegridy should be allowed to warm to room temperature (up to 25 ° C) for about 30 minutes prior to injection. External heat sources such as hot water must not be used to warm the medicinal product
 
 <div style=\"page-break-after: always\"></div>
+
+Plegridy pre-filled syringe must not be used if the liquid is coloured, cloudy, or contains floating particles. The liquid in the syringe must be clear and colourless.
 
 Plegridy pre-filled pen must not be used unless the green stripes are visible in the pen injection status window. Plegridy pre-filled pen must not be used if the liquid is coloured, cloudy, or contains floating particles. The liquid in the medicinal product window must be clear and colourless.
 
@@ -242,7 +241,7 @@ Caution should be used and close monitoring considered when administering pegint
 
 ## Sodium content
 
-This medicinal product contains less than 1 mmol (23 mg) sodium, that is to say it is essentially 'sodium -free'.
+This medicinal product contains less than 1 mmol (23 mg) sodium, that is to say it is essentially 'sodium-free'.
 
 ## 4.5 Interaction with other medicinal products and other forms of interaction
 
@@ -335,6 +334,7 @@ Table 2 Tabulated summary of adverse drug reactions
 | General disorders and administration site conditions | Pain                                                                                                  |                      |
 | General disorders and administration site conditions | Injection site haematoma                                                                              |                      |
 | General disorders and administration site conditions | Injection site swelling                                                                               |                      |
+| General disorders and administration site conditions | Injection site oedema                                                                                 |                      |
 | General disorders and administration site conditions | Injection site rash                                                                                   |                      |
 | General disorders and administration site conditions | Injection site discolouration                                                                         |                      |
 | General disorders and administration site conditions | Injection site necrosis                                                                               | Rare                 |
@@ -342,7 +342,8 @@ Table 2 Tabulated summary of adverse drug reactions
 | Investigations                                       | Aspartate aminotransferase increased                                                                  | Common               |
 | Investigations                                       | Gamma-glutamyltransferase increased                                                                   | Common               |
 | Investigations                                       | White blood cell count decreased                                                                      | Common               |
-| Investigations                                       | Haemoglobin decreased                                                                                 | Common               |
+| Investigations                                       | Haemoglobin                                                                                           | Common               |
+| Investigations                                       | decreased                                                                                             | Common               |
 
 <div style=\"page-break-after: always\"></div>
 
@@ -393,6 +394,10 @@ An open-label, crossover study enrolled 136 subjects to assess the bioequivalenc
 
 Abnormal urine protein was reported in 1/130 (0.8%) for the SC arm and 4/131 (3.1%) in the IM group without any associated adverse drug reactions.
 
+## Paediatric population
+
+The safety of peginterferon beta-1a in paediatric patients aged 10 to less than 18 years was studied in an open-label  randomized  active  controlled  paediatric  trial  with  152  paediatric  patients  with  RRMS (peginterferon beta-1a n=75; interferon beta-1a n=77). 66 patients in the peginterferon beta-1a group completed 48 weeks of this study. The following adverse events which are very common in the adult population were also reported as very common in the paediatric population: injection site erythema, influenza like illness, headache and pyrexia.
+
 ## Reporting of suspected adverse reactions
 
 Reporting suspected adverse reactions after authorisation of the medicinal product is important. It allows continued monitoring of the benefit/risk balance of the medicinal product. Healthcare professionals are asked to report any suspected adverse reactions via the national reporting system listed in Appendix V.
@@ -407,15 +412,15 @@ In case of over-dose, patients may be hospitalized for observation and appropria
 
 Pharmacotherapeutic group: Antineoplastic and immunomodulating agents, immunostimulants, interferons, ATC code: L03AB13
 
-Peginterferon beta-1a is an interferon beta-1a conjugated with a single, linear molecule of 20,000 Da methoxy poly(ethyleneglycol)-O-2-methylpropionaldehyde (20 kDa mPEG-O-2-methylpropionaldehyde) at a degree of substitution of 1 mole of polymer/mole of protein. The average molecular mass is approximately 44 kDa of which the protein moiety constitutes approximately 23 kDa.
-
-## Mechanism of action
-
-A definitive mechanism of action of peginterferon beta-1a in multiple sclerosis (MS) is not known. peginterferon beta-1a binds to the type I interferon receptor on the surface of cells and elicits a cascade of intracellular events leading to the regulation of interferon-responsive gene expression. Biological effects that may be mediated by peginterferon beta-1a include up-regulation of anti-inflammatory
+Peginterferon beta-1a is an interferon beta-1a conjugated with a single, linear molecule of 20,000 Da methoxy poly(ethyleneglycol)-O-2-methylpropionaldehyde (20 kDa mPEG-O-2-methylpropionaldehyde) at a degree of substitution of 1 mole of polymer/mole of protein. The average molecular mass is approximately 44 kDa of which the protein moiety constitutes
 
 <div style=\"page-break-after: always\"></div>
 
-cytokines (e.g. IL-4, IL-10, IL-27), down-regulation of pro-inflammatory cytokines (e.g. IL-2, IL-12, IFNγ, TNF -α) and inhibiting the migration of activated T cells across the blood brain barrier; however additional mechanisms may be involved. Whether the mechanism of action of peginterferon beta-1a in MS is mediated by the same pathway(s) as the biological effects described above is not known because the pathophysiology of MS is only partially understood.
+approximately 23 kDa.
+
+## Mechanism of action
+
+A definitive mechanism of action of peginterferon beta-1a in multiple sclerosis (MS) is not known. peginterferon beta-1a binds to the type I interferon receptor on the surface of cells and elicits a cascade of intracellular events leading to the regulation of interferon-responsive gene expression. Biological effects that may be mediated by peginterferon beta-1a include up-regulation of anti-inflammatory cytokines (e.g. IL-4, IL-10, IL-27), down-regulation of pro-inflammatory cytokines (e.g. IL-2, IL-12, IFNγ, TNF -α) and inhibiting the migration of activated T cells across the blood brain barrier; however additional mechanisms may be involved. Whether the mechanism of action of peginterferon beta-1a in MS is mediated by the same pathway(s) as the biological effects described above is not known because the pathophysiology of MS is only partially understood.
 
 ## Pharmacodynamic effects
 
@@ -431,7 +436,7 @@ The efficacy and safety of peginterferon beta-1a was assessed from the placebo c
 
 The primary endpoint was the annualised relapse rate (ARR) over 1 year. The study design and patient demographics are presented in Table .3
 
-No data are available from clinical efficacy/safety studies directly comparing pegylated with non-pegylated interferon beta-1a, or from patients switching between non-pegylated and pegylated interferon.
+No data are available from clinical efficacy/safety studies directly comparing pegylated with non-pegylated interferon beta-1a in adults, or from patients switching between non-pegylated and pegylated interferon.
 
 <div style=\"page-break-after: always\"></div>
 
@@ -489,13 +494,17 @@ HR: hazard ratio
 
 CI: confidence interval
 
-* Sustained disability progression was defined as at least a 1 point increase from baseline EDSS ≥ 1 or 1.5 point increase for patients with baseline EDSS of 0, sustained for 12/24 weeks.
+* Sustained disability progression was defined as at least a 1 point increase from baseline EDSS ≥ 1
+
+1.5 point increase for patients with baseline EDSS of 0, sustained for 12/24 weeks.
 
 ^n=477
 
 Patients who failed previous MS treatment were not included in the study.
 
 Subgroups of patients with higher disease activity were defined by relapse and MRI criteria as reported below, with the following efficacy results:
+
+or
 
 <div style=\"page-break-after: always\"></div>
 
@@ -514,11 +523,19 @@ Since bioequivalence was demonstrated between the IM and SC routes of administra
 
 ## Paediatric population
 
-The European Medicines Agency has deferred the obligation to submit the results of studies with Plegridy in one or more subsets of the paediatric population in treatment of multiple sclerosis (see section 4.2 for information on paediatric use).
+The safety and effectiveness of peginterferon beta-1a in paediatric RRMS was evaluated in a randomised, open-label active-controlled (interferon beta-1a) parallel group study in patients with RRMS aged 10 to less than 18 years of age.
+
+152 patients were randomized in a 1:1 ratio to treatment with peginterferon beta-1a, administered at a dose of 125 μg SC every 2 weeks or interferon beta-1a administered at a dose of 30 μg IM injection once weekly, for 48 weeks. 124 patients (peginterferon beta-1a n=66; interferon beta-1a n=58) completed 48 weeks of the study.
+
+The primary endpoint, the adjusted annualized relapse rate (ARR) at week 48 was numerically lower in patients treated with peginterferon beta-1a (0.386) compared to patients who received interferon beta-1a (0.521).
+
+The main secondary endpoint at week 48, was the number of participants free of new or newly enlarging T2 hyperintense lesions on brain MRI scans. At week 48, 0.136 (95% CI: 0.064, 0.243) participants in peginterferon beta-1a group were free of new or newly enlarging T2 hyperintense lesions compared to participants in interferon beta-1a group 0.065 (95% CI: 0.018, 0.157).
 
 ## 5.2 Pharmacokinetic properties
 
 The serum half-life of peginterferon beta-1a is prolonged compared with non-pegylated interferon beta-1a. Serum concentration of peginterferon beta-1a was dose-proportional in the range of 63 to 188 micrograms as observed in a single dose and a multiple dose study in healthy subjects. Pharmacokinetics observed in multiple sclerosis patients were consistent with those seen in healthy subjects.
+
+<div style=\"page-break-after: always\"></div>
 
 ## Absorption
 
@@ -528,11 +545,7 @@ Subcutaneous peginterferon beta-1a resulted in approximately 4-, 9-, and 13-fold
 
 ## Distribution
 
-Following repeat dosing of 125 micrograms doses every two weeks by subcutaneous administration,
-
-<div style=\"page-break-after: always\"></div>
-
-the volume of distribution uncorrected for bioavailability (mean±SE) was 481 ± 105 L.
+Following repeat dosing of 125 micrograms doses every two weeks by subcutaneous administration, the volume of distribution uncorrected for bioavailability (mean±SE) was 481 ± 105 L.
 
 ## Biotransformation and elimination
 
@@ -544,13 +557,19 @@ Urinary (renal) clearance is postulated to be a major excretory pathway for pegi
 
 Clinical experience in patients aged above 65 years is limited. However, results from a population pharmacokinetic analysis (in patients up to 65 years) suggest that age does not impact peginterferon beta-1a clearance.
 
+## Paediatric population
+
+The pharmacokinetics of peginterferon beta-1a in paediatric population was studied in an open label, randomised active-controlled parallel-group study involving RRMS patients aged 10 to less than 18 years. Population pharmacokinetic analysis showed that individual steady-state exposures in paediatric patients had substantial overlap with the adult levels, although the mean steady-state exposures in paediatric patients were approximately 2.5 times the exposures in adult RRMS patients.
+
 ## Renal impairment
 
-A single-dose study in healthy subjects and subjects with various degrees of renal impairment (mild, moderate, and severe renal impairment as well as subjects with end state renal disease) showed a fractional increase in AUC (13-62%) and Cmax (42-71%) in subjects with mild (estimated glomerular filtration rate 50 to ≤80 mL/min/1.73m 2 ), moderate (estimated glomerular filtration rate 30 to  50 mL/min/1.73m 2 ), and severe (estimated glomerular filtration rate &lt;30 mL/min/1.73m 2 ) renal impairment, compared to subjects with normal renal function (estimated glomerular filtration rate &gt;80 mL/min/1.73m 2 ).  Subjects with end stage renal disease requiring 2-3 times haemodialysis weekly showed similar AUC and Cmax as compared to subjects with normal renal function. Each haemodialysis reduced peginterferon beta-1a concentration by approximately 24%, suggesting that haemodialysis partially removes peginterferon beta-1a from systemic circulation.
+A single-dose study in healthy subjects and subjects with various degrees of renal impairment (mild, moderate, and severe renal impairment as well as subjects with end state renal disease) showed a fractional increase in AUC (13-62%) and Cmax (42-71%) in subjects with mild (estimated glomerular filtration rate 50 to ≤80 mL/min/1.73m 2 ), moderate (estimated glomerular filtration rate 30 to &lt; 50 mL/min/1.73m 2 ), and severe (estimated glomerular filtration rate &lt;30 mL/min/1.73m 2 ) renal impairment, compared to subjects with normal renal function (estimated glomerular filtration rate &gt;80 mL/min/1.73m 2 ).  Subjects with end stage renal disease requiring 2-3 times haemodialysis weekly showed similar AUC and Cmax as compared to subjects with normal renal function. Each haemodialysis reduced peginterferon beta-1a concentration by approximately 24%, suggesting that haemodialysis partially removes peginterferon beta-1a from systemic circulation.
 
 ## Hepatic function
 
 The pharmacokinetics of peginterferon beta-1a has not been evaluated in patients with hepatic insufficiency.
+
+<div style=\"page-break-after: always\"></div>
 
 ## Gender
 
@@ -562,17 +581,13 @@ Race had no effect on the pharmacokinetics of peginterferon beta-1a in a populat
 
 ## IM and SC bioequivalence study
 
-The pharmacokinetic (PK) profiles following single doses of 125 micrograms peginterferon beta-1a IM and 125 micrograms peginterferon beta-1a SC in healthy volunteers were similar, with maximal concentrations reached at 40.0 hours post-dose (for both SC and IM), and t1/2 values of 97.1 hours and 79.1 hours, respectively.  Statistical analysis of Cmax and AUC ∞ further demonstrated bioequivalence between 125 micrograms peginterferon beta-1a IM and SC. The geometric mean ratio (90% confidence interval) of IM versus SC for Cmax was 1.08 (0.98 to 1.20) and 1.09 (1.02 to 1.16) for AUC∞. These values fall within the designated 0.80 to 1.25 equivalence range.
+The pharmacokinetic (PK) profiles following single doses of 125 micrograms peginterferon beta-1a IM and 125 micrograms peginterferon beta-1a SC in healthy volunteers were similar, with maximal concentrations reached at 40.0 hours post-dose (for both SC and IM), and t1/2 values of 97.1 hours and 79.1 hours, respectively.  Statistical analysis of Cmax and AUC ∞ further demonstrated bioequivalence between 125 micrograms peginterferon beta-1a IM and SC. The geometric mean ratio (90% confidence interval) of IM versus SC for Cmax was 1.08 (0.98 to 1.20) and 1.09 (1.02 to 1.16) for AUC∞. These values fall within the designated 0.80 to 1.25 equivalenc e range.
 
 ## 5.3 Preclinical safety data
 
 ## Toxicity
 
-Following repeated subcutaneous administration of peginterferon beta-1a in rhesus monkeys at doses
-
-<div style=\"page-break-after: always\"></div>
-
-up to 400-fold (based on exposure, AUC) the recommended therapeutic dose; no effects other than the known mild pharmacological responses by rhesus monkeys to interferon beta-1a were observed after the first and second weekly dose.  Repeated dose toxicology studies were limited to 5 weeks as exposure was greatly diminished from 3 weeks onwards, due to the formation of anti-drug antibodies by rhesus monkeys to human interferon beta-1a. Therefore, the long-term safety of chronic administration of peginterferon beta-1a to patients cannot be assessed on the basis of these studies.
+Following repeated subcutaneous administration of peginterferon beta-1a in rhesus monkeys at doses up to 400-fold (based on exposure, AUC) the recommended therapeutic dose; no effects other than the known mild pharmacological responses by rhesus monkeys to interferon beta-1a were observed after the first and second weekly dose.  Repeated dose toxicology studies were limited to 5 weeks as exposure was greatly diminished from 3 weeks onwards, due to the formation of anti-drug antibodies by rhesus monkeys to human interferon beta-1a. Therefore, the long-term safety of chronic administration of peginterferon beta-1a to patients cannot be assessed on the basis of these studies.
 
 ## Mutagenesis
 
@@ -587,6 +602,8 @@ Peginterferon beta-1a has not been tested for carcinogenicity in animals. Based 
 Peginterferon beta-1a has not been tested for reproductive toxicity in pregnant animals. Fertility and developmental studies in rhesus monkeys have been carried out with non-pegylated interferon beta-1a. At very high doses, anovulatory and abortifacient effects were observed in animals. No information is available on the potential effects of peginterferon beta-1a on male fertility. Upon repeated dosing with peginterferon beta-1a of sexually mature female monkeys, effects on menstrual cycle length and progesterone levels were observed. Reversibility of the effects on menstrual cycle length was demonstrated. The validity of extrapolating these non-clinical data to humans is unknown.
 
 Data from studies with other interferon beta compounds did not show teratogenic potential. The available information on the effects of interferon beta-1a in the peri- and postnatal periods is limited.
+
+<div style=\"page-break-after: always\"></div>
 
 ## 6. PHARMACEUTICAL PARTICULARS
 
@@ -604,11 +621,9 @@ Not applicable.
 
 Plegridy for SC or IM administration can be stored at room temperature (up to 25 °C) for up to 30 days as long as it is stored away from light. If Plegridy is at room temperature for a total of 30 days, it should be used or discarded. If it is not clear if Plegridy has been stored at room temperature 30 days or more, it should be discarded.
 
-<div style=\"page-break-after: always\"></div>
-
 ## 6.4 Special precautions for storage
 
-Store in a refrigerator (2  C to 8  C).
+Store in a refrigerator (2 ° C to 8 ° C).
 
 Do not freeze.
 
@@ -636,6 +651,8 @@ Box of two 125 microgram pre-filled pens (grey labelled pens) in a protective pl
 
 Multipacks containing 6 (3 packs of 2) 125 microgram pre-filled pens (grey labelled pens). The pack contains 3 inner cartons. Each inner carton contains 2 pens in a protective plastic tray.
 
+<div style=\"page-break-after: always\"></div>
+
 Not all pack sizes may be marketed.
 
 ## Pre-filled syringe (intramuscular)
@@ -651,8 +668,6 @@ Not all pack sizes may be marketed.
 Plegridy prefilled syringes (for IM and SC administration) and pen (for SC administration) are for single-use only.
 
 Before use check the dosage form to be used. It should not have any cracks or damage and the solution should be clear, colourless and not have any particles in it.
-
-<div style=\"page-break-after: always\"></div>
 
 Once removed from the refrigerator, the Plegridy pre-filled syringe or pen to be used should be allowed to warm to room temperature (15°C to 30°C) for about 30 minutes.
 
@@ -670,15 +685,13 @@ Any unused medicinal product or waste material should be disposed of in accordan
 
 ## 7. MARKETING AUTHORISATION HOLDER
 
-Biogen Netherlands B.V.
-
-Prins Mauritslaan 13 1171 LP Badhoevedorp The Netherlands
+Biogen Netherlands B.V. Prins Mauritslaan 13 1171 LP Badhoevedorp The Netherlands
 
 ## 8. MARKETING AUTHORISATION NUMBER(S)
 
-EU/1/14/934/001 EU/1/14/934/002 EU/1/14/934/003 EU/1/14/934/004 EU/1/14/934/005 EU/1/14/934/006 EU/1/14/934/007
+EU/1/14/934/001 EU/1/14/934/002 EU/1/14/934/003 EU/1/14/934/004 EU/1/14/934/005 EU/1/14/934/006 EU/1/14/934/007 EU/1/14/934/008
 
-EU/1/14/934/008
+<div style=\"page-break-after: always\"></div>
 
 ## 9. DATE OF FIRST AUTHORISATION/RENEWAL OF THE AUTHORISATION
 
@@ -711,9 +724,7 @@ Name and address of the manufacturer(s) responsible for batch release
 
 FUJIFILM Diosynth Biotechnologies Denmark ApS Biotek Allé 1 DK-3400 Hillerød Denmark
 
-Biogen Netherlands B.V.
-
-Prins Mauritslaan 13 1171 LP Badhoevedorp The Netherlands
+Biogen Netherlands B.V. Prins Mauritslaan 13 1171 LP Badhoevedorp The Netherlands
 
 ## B. CONDITIONS OR RESTRICTIONS REGARDING SUPPLY AND USE
 
@@ -778,7 +789,7 @@ Initiation Pack
 
 1 pre-filled syringe of 63 micrograms
 
-- 1 pre-filled syringe of 94 micrograms
+1 pre-filled syringe of 94 micrograms
 
 ## 5. METHOD AND ROUTE(S) OF ADMINISTRATION
 
@@ -861,8 +872,8 @@ Plegridy 94
 
 2D barcode carrying the unique identifier included.
 
-| 18.   | UNIQUE IDENTIFIER -HUMANREADABLE DATA   |
-|-------|-----------------------------------------|
+| 18.   | UNIQUE IDENTIFIER - HUMANREADABLE DATA   |
+|-------|------------------------------------------|
 
 PC: SN: NN:
 
@@ -918,7 +929,8 @@ Plegridy 63 mcg injection Plegridy 94 mcg injection peginterferon beta-1a SC
 
 EXP
 
-## 4. BATCH NUMBER
+| 4.   | BATCH NUMBER   |
+|------|----------------|
 
 Lot
 
@@ -1015,30 +1027,30 @@ Medicinal product subject to medical prescription.
 
 Plegridy 125
 
-## 17. UNIQUE IDENTIFIER -2D BARCODE
+## 17. UNIQUE IDENTIFIER - 2D BARCODE
 
 2D barcode carrying the unique identifier included.
 
 <div style=\"page-break-after: always\"></div>
 
-| 18.   | UNIQUE IDENTIFIER -HUMANREADABLE DATA   |
-|-------|-----------------------------------------|
+| 18.   | UNIQUE IDENTIFIER - HUMANREADABLE DATA   |
+|-------|------------------------------------------|
 
 PC: SN: NN:
 
 <div style=\"page-break-after: always\"></div>
 
-| MINIMUM PARTICULARS TO APPEAR ONBLISTERS OR STRIPS   |
-|------------------------------------------------------|
-| Pre-Filled Syringe Double Lid 125 mcg                |
+| MINIMUM PARTICULARS TO APPEAR ON BLISTERS OR STRIPS   |
+|-------------------------------------------------------|
+| Pre-Filled Syringe Double Lid 125 mcg                 |
 
-| 1.   | NAMEOFTHEMEDICINAL PRODUCT   |
-|------|------------------------------|
+| 1.   | NAME OF THE MEDICINAL PRODUCT   |
+|------|---------------------------------|
 
 Plegridy 125 micrograms solution for injection in pre-filled syringe peginterferon beta-1a
 
-| 2.   | NAMEOFTHEMARKETINGAUTHORISATION HOLDER   |
-|------|------------------------------------------|
+| 2.   | NAME OF THE MARKETING AUTHORISATION HOLDER   |
+|------|----------------------------------------------|
 
 Biogen Netherlands B.V.
 
@@ -1061,7 +1073,7 @@ Read the package leaflet before use.
 
 Store in a refrigerator.
 
-Do not freeze.
+## Do not freeze.
 
 Store in the original package in order to protect from light.
 
@@ -1075,9 +1087,11 @@ Pre-Filled Syringe Label 125 mcg
 
 Plegridy 125 mcg injection peginterferon beta-1a SC
 
-## 2. METHOD OF ADMINISTRATION
+| 2.   | METHOD OF ADMINISTRATION   |
+|------|----------------------------|
 
-## 3. EXPIRY DATE
+| 3.   | EXPIRY DATE   |
+|------|---------------|
 
 EXP
 
@@ -1086,8 +1100,8 @@ EXP
 
 Lot
 
-| 5.   | CONTENTS BY WEIGHT,BYVOLUMEORBYUNIT   |
-|------|---------------------------------------|
+| 5.   | CONTENTS BY WEIGHT, BY VOLUME OR BY UNIT   |
+|------|--------------------------------------------|
 
 0.5 mL
 
@@ -1108,7 +1122,8 @@ Plegridy 63 micrograms solution for injection in pre-filled pen Plegridy 94 micr
 
 ## 2. STATEMENT OF ACTIVE SUBSTANCE(S)
 
-- 1 pre-filled pen contains 63 micrograms of peginterferon beta-1a in 0.5 mL.
+1 pre-filled pen contains 63 micrograms of peginterferon beta-1a in 0.5 mL.
+
 - 1 pre-filled pen contains 94 micrograms of peginterferon beta-1a in 0.5 mL.
 
 ## 3. LIST OF EXCIPIENTS
@@ -1123,7 +1138,7 @@ Initiation Pack
 
 1 pre-filled pen of 63 micrograms
 
-- 1 pre-filled pen of 94 micrograms
+1 pre-filled pen of 94 micrograms
 
 ## 5. METHOD AND ROUTE(S) OF ADMINISTRATION
 
@@ -1195,12 +1210,12 @@ Plegridy 63 Plegridy 94
 
 2D barcode carrying the unique identifier included.
 
-| 18.   | UNIQUE IDENTIFIER -HUMANREADABLE DATA   |
-|-------|-----------------------------------------|
+| 18.   | UNIQUE IDENTIFIER - HUMANREADABLE DATA   |
+|-------|------------------------------------------|
 
 PC: SN: NN:
 
-36
+37
 
 <div style=\"page-break-after: always\"></div>
 
@@ -1214,7 +1229,8 @@ Plegridy 63 mcg injection Plegridy 94  mcg injection peginterferon beta-1a SC
 
 ## 2. METHOD OF ADMINISTRATION
 
-## 3. EXPIRY DATE
+| 3.   | EXPIRY DATE   |
+|------|---------------|
 
 EXP
 
@@ -1412,7 +1428,7 @@ Medicinal product subject to medical prescription.
 
 Plegridy 125
 
-## 17. UNIQUE IDENTIFIER -2D BARCODE
+## 17. UNIQUE IDENTIFIER - 2D BARCODE
 
 2D barcode carrying the unique identifier included.
 
@@ -1446,7 +1462,7 @@ Sodium acetate trihydrate, acetic acid glacial, arginine hydrochloride, polysorb
 
 ## 4. PHARMACEUTICAL FORM AND CONTENTS
 
-## Solution for injection
+Solution for injection
 
 2 pre-filled pens. Component of a multipack, cannot be sold separately.
 
@@ -1508,21 +1524,22 @@ Medicinal product subject to medical prescription.
 
 Plegridy 125
 
-17. UNIQUE IDENTIFIER -2D BARCODE
-18. UNIQUE IDENTIFIER - HUMAN READABLE DATA
+## 17. UNIQUE IDENTIFIER - 2D BARCODE
+
+## 18. UNIQUE IDENTIFIER - HUMAN READABLE DATA
 
 <div style=\"page-break-after: always\"></div>
 
-| MINIMUM PARTICULARS TO APPEAR ONSMALLIMMEDIATE PACKAGING UNITS   |
-|------------------------------------------------------------------|
-| Pre-Filled Pen Label 125 mcg                                     |
+| MINIMUM PARTICULARS TO APPEAR ON SMALL IMMEDIATE PACKAGING UNITS   |
+|--------------------------------------------------------------------|
+| Pre-Filled Pen Label 125 mcg                                       |
 
 ## 1. NAME OF THE MEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION
 
 Plegridy 125 mcg injection peginterferon beta-1a SC
 
-| 2.   | METHODOFADMINISTRATION   |
-|------|--------------------------|
+| 2.   | METHOD OF ADMINISTRATION   |
+|------|----------------------------|
 
 | 3.   | EXPIRY DATE   |
 |------|---------------|
@@ -1534,8 +1551,8 @@ EXP
 
 Lot
 
-| 5.   | CONTENTS BY WEIGHT,BYVOLUMEORBYUNIT   |
-|------|---------------------------------------|
+| 5.   | CONTENTS BY WEIGHT, BY VOLUME OR BY UNIT   |
+|------|--------------------------------------------|
 
 0.5 mL
 
@@ -1564,7 +1581,7 @@ Sodium acetate trihydrate, acetic acid glacial, arginine hydrochloride, polysorb
 
 ## 4. PHARMACEUTICAL FORM AND CONTENTS
 
-## Solution for injection
+Solution for injection
 
 2 pre-filled syringes
 
@@ -1626,7 +1643,7 @@ Lot
 
 Plegridy 125
 
-## 17. UNIQUE IDENTIFIER -2D BARCODE
+## 17. UNIQUE IDENTIFIER - 2D BARCODE
 
 2D barcode carrying the unique identifier included.
 
@@ -1652,7 +1669,8 @@ Biogen Netherlands B.V.
 
 EXP
 
-## 4. BATCH NUMBER
+| 4.   | BATCH NUMBER   |
+|------|----------------|
 
 Lot
 
@@ -1779,7 +1797,7 @@ If you accidentally prick yourself or someone else with the needle in Plegridy, 
 
 ## Children and adolescents
 
-Plegridy is not to be used in children and adolescents below 18 years old. The safety and effectiveness of Plegridy in this age group are not known.
+Plegridy should not be used in children and adolescents because it is yet to be established whether it would work for them and whether it would be safe.
 
 <div style=\"page-break-after: always\"></div>
 
@@ -1803,7 +1821,7 @@ Plegridy has no or negligible influence on the ability to drive and use machines
 
 ## Plegridy contains sodium
 
-This medicine contains less than 1 mmol sodium (23 mg), that is to say it is essentially 'sodium -free'.
+This medicine contains less than 1 mmol sodium (23 mg), that is to say it is essentially 'sodium-free'.
 
 ## 3. How to use Plegridy
 
@@ -1870,8 +1888,9 @@ If you get any of these symptoms:
 - -Feeling sick, being sick (nausea and vomiting)
 - -Easy bruising of the skin
 - -Contact a doctor immediately. They may be signs of a possible liver problem.
+- -
 
-## -Depression
+## Depression
 
 (common - may affect up to 1 in 10 people)
 
@@ -1921,7 +1940,7 @@ If you get some or all of these symptoms:
 
 ## -Blood problems
 
-## (rare - may affect up to 1 in 1,000 people)
+(rare - may affect up to 1 in 1,000 people)
 
 The following may occur: Blood clots in the small blood vessels that can affect your kidneys (thrombotic thrombocytopenic purpura or haemolytic uremic syndrome). Symptoms may include increased bruising, bleeding, fever, extreme weakness, headache, dizziness or light-headedness.  Your doctor may find changes in your blood and the function of your kidneys.
 
@@ -1938,7 +1957,7 @@ If you get some or all of these symptoms:
 
 (may affect more than 1 in 10 people)
 
-- -Flulike symptoms.  These symptoms are not really flu, see below. You can't pass it on to anyone else.
+- -Flu-like symptoms.  These symptoms are not really flu, see below. You can't pass it on to anyone else.
 - -Headache
 - -Muscle pain ( myalgia )
 - -Pain in your joints, arms, legs or neck ( arthralgia )
@@ -1987,6 +2006,10 @@ Three simple ways to help reduce the impact of flu-like symptoms:
 
 - -Pulmonary arterial hypertension: A disease of severe narrowing of the blood vessels in the lungs resulting in high blood pressure in the blood vessels that carry blood from the heart to the lungs. Pulmonary arterial hypertension has been seen at various time points during treatment, including several years after starting treatment with interferon beta-products.
 
+## Children (10 years of age and above) and adolescents
+
+In clinical trials, some side effects were reported very commonly in both adults and children, e.g., redness at the injection site, flu-like symptoms, headache, and fever.
+
 ## Reporting of side effects
 
 If you get any side effects, talk to your doctor, pharmacist or nurse. This includes any possible side effects not listed in this leaflet. You can also report side effects directly via the national reporting system listed in Appendix V. By reporting side effects you can help provide more information on the safety of this medicine.
@@ -2003,12 +2026,12 @@ Do not use this medicine after the expiry date which is stated on the carton and
 - -Store in a refrigerator (fridge) 2º -8 ºC.
 - -Do not freeze. Throw away any Plegridy that is accidentally frozen.
 - -Plegridy can be kept outside a fridge at room temperature (up to 25 °C) for up to 30 days but it must be kept away from light .
-- -Packs can be taken out of the fridge and then put back in a fridge more than once if you need to.
-- -Make sure the time the syringes spend out of a fridge is no more than 30 days in total .
-- -Throw away any syringe that is kept out of the fridge for more than 30 days.
 
 <div style=\"page-break-after: always\"></div>
 
+- -Packs can be taken out of the fridge and then put back in a fridge more than once if you need to.
+- -Make sure the time the syringes spend out of a fridge is no more than 30 days in total .
+- -Throw away any syringe that is kept out of the fridge for more than 30 days.
 - -If you are unsure of the number of days you have kept a syringe out of the fridge, throw the syringe away.
 - -Do not use this medicine if you notice any of the following:
 - -If the syringe is broken.
@@ -2048,111 +2071,169 @@ Biogen Netherlands B.V. Prins Mauritslaan 13 1171 LP Badhoevedorp The Netherland
 
 FUJIFILM Diosynth Biotechnologies Denmark ApS Biotek Allé 1 DK-3400 Hillerød Denmark
 
-Biogen Netherlands B.V. Prins Mauritslaan 13 1171 LP Badhoevedorp The Netherlands
-
-For any information about this medicine, please contact the local representative of the Marketing Authorisation Holder:
+Biogen Netherlands B.V. Prins Mauritslaan 13 1171 LP Badhoevedorp
 
 <div style=\"page-break-after: always\"></div>
 
+## The Netherlands
+
+For any information about this medicine, please contact the local representative of the Marketing Authorisation Holder:
+
 ## België/Belgique/Belgien
 
-Biogen Belgium NV/SA Tél: +32 2 2191218
+Biogen Belgium NV/SA
 
-## България
-
-ЕВОФАРМА ЕООД Teл.: +359 2 962 12 00
-
-## Česká republika
-
-Biogen (Czech Republic) s.r.o. Tel: +420 255 706 200
-
-## Danmark
-
-Biogen Denmark A/S Tlf.: +45 77 41 57 57
-
-## Deutschland
-
-Biogen GmbH Tel: +49 (0) 89 99 6170
-
-## Eesti
-
-Biogen Estonia OÜ Tel: +372 618 9551
-
-## Ελλάδα
-
-Genesis Pharma SA Τηλ: +30 210 8771500
-
-## España
-
-Biogen Spain S.L. Tel: +34 91 310 7110
-
-## France
-
-Biogen France SAS Tél: +33 (0)1 41 37 9595
-
-## Hrvatska
-
-Biogen Pharma d.o.o. Tel: +385 1 775 73 22
-
-## Ireland
-
-Biogen Idec (Ireland) Ltd. Tel: +353 (0)1 463 7799
-
-## Ísland
-
-Icepharma hf Sími: +354 540 8000
-
-## Italia
-
-Biogen Italia s.r.l. Tel: +39 02 584 9901
+Tél: +32 2 2191218
 
 ## Lietuva
 
-Biogen Lithuania UAB Tel: +370 5 259 6176
+Biogen Lithuania UAB
+
+Tel: +370 5 259 6176
+
+## България
+
+ЕВОФАРМА ЕООД
+
+Teл.:
+
++359 2 962 12 00
 
 ## Luxembourg/Luxemburg
 
-Biogen Belgium NV/SA Tél: +32 2 2191218
+Biogen Belgium NV/SA
+
+Tél: +32 2 2191218
+
+## Česká republika
+
+Biogen (Czech Republic) s.r.o.
+
+Tel: +420 255 706 200
 
 ## Magyarország
 
-Biogen Hungary Kft. Tel.: +36 1 899 9880
+Biogen Hungary Kft.
+
+Tel.: +36 1 899 9880
+
+## Danmark
+
+Biogen Denmark A/S
+
+Tlf.: +45 77 41 57 57
 
 ## Malta
 
-Pharma. MT Ltd.. Tel: +356 21337008
+Pharma. MT Ltd..
+
+Tel: +356 21337008
+
+## Deutschland
+
+Biogen GmbH
+
+Tel: +49 (0) 89 99 6170
 
 ## Nederland
 
-Biogen Netherlands B.V. Tel: +31 20 542 2000
+Biogen Netherlands B.V.
+
+Tel: +31 20 542 2000
+
+## Eesti
+
+Biogen Estonia OÜ
+
+Tel: +372 618 9551
 
 ## Norge
 
-Biogen Norway AS Tlf: +47 23 40 01 00
+Biogen Norway AS
+
+Tlf: +47 23 40 01 00
+
+## Ελλάδα
+
+Genesis Pharma SA
+
+Τηλ:
+
++30 210 8771500
 
 ## Österreich
 
-Biogen Austria GmbH Tel: +43 1 484 46 13
+Biogen Austria GmbH
+
+Tel: +43 1 484 46 13
+
+## España
+
+Biogen Spain S.L.
+
+Tel: +34 91 310 7110
 
 ## Polska
 
-Biogen Poland Sp. z o.o. Tel.: +48 22 351 51 00
+Biogen Poland Sp. z o.o.
+
+Tel.: +48 22 351 51 00
+
+## France
+
+Biogen France SAS
+
+Tél: +33 (0)1 41 37 9595
 
 ## Portugal
 
-Biogen Portugal Sociedade Farmacêutica, Unipessoal Lda. Tel: +351 21 318 8450
+Biogen Portugal
+
+Sociedade Farmacêutica, Unipessoal Lda.
+
+Tel: +351 21 318 8450
+
+## Hrvatska
+
+Biogen Pharma d.o.o.
+
+Tel: +385 1 775 73 22
 
 ## România
 
-Johnson &amp; Johnson Romania S.R.L. Tel: +40 21 207 18 00
+Johnson &amp; Johnson Romania S.R.L.
+
+Tel: +40 21 207 18 00
+
+## Ireland
+
+Biogen Idec (Ireland) Ltd.
+
+Tel: +353 (0)1 463 7799
 
 ## Slovenija
 
-Biogen Pharma d.o.o. Tel: +386 1 511 02 90
+Biogen Pharma d.o.o.
+
+Tel: +386 1 511 02 90
+
+## Ísland
+
+Icepharma hf
+
+Sími: +354 540 8000
 
 ## Slovenská republika
 
-Biogen Slovakia s.r.o. Tel: +421 2 323 34008
+Biogen Slovakia s.r.o.
+
+Tel: +421 2 323 34008
+
+## Italia
+
+Biogen Italia s.r.l.
+
+Tel: +39 02 584 9901
 
 ## Suomi/Finland
 
@@ -2168,13 +2249,19 @@ Genesis Pharma Cyprus Ltd
 
 +357 22 76 57 15
 
-<div style=\"page-break-after: always\"></div>
+## Sverige
+
+Biogen Sweden AB
+
+Tel: +46 8 594 113 60
 
 ## Latvija
 
 Biogen Latvia SIA
 
 Tel: +371 68 688 158
+
+<div style=\"page-break-after: always\"></div>
 
 This leaflet was last revised in &lt; { MM/YYYY }&gt; &lt;{ month YYYY }&gt;.
 
@@ -2209,17 +2296,11 @@ The Initiation Pack contains your first two injections to gradually adjust your 
 | Day 14 (94 micrograms)                                      | Second injection: 94 micrograms, choose blue syringe     |              |
 | Day 28 and then every two weeks after that (125 micrograms) | Full dose injection: 125 micrograms, choose grey syringe |              |
 
-## Sverige
-
-Biogen Sweden AB
-
-Tel: +46 8 594 113 60
-
 <div style=\"page-break-after: always\"></div>
 
 ## Supplies needed for your Plegridy injection
 
-Plegridy pre-filled syringe (see Figure A) Before Use -Parts of your Plegridy pre-filled syringe (Figure A)
+Plegridy pre-filled syringe (see Figure A) Before Use - Parts of your Plegridy pre-filled syringe (Figure A)
 
 Figure A
 
@@ -2233,7 +2314,7 @@ Figure A
 
 Ask your doctor, pharmacist, or nurse for instructions on throwing away used syringes.
 
-FigureB
+Figure B
 
 <!-- image -->
 
@@ -2243,8 +2324,7 @@ FigureB
 
 - Remove one Plegridy pack out of the fridge and select the appropriate pre-filled syringe from the pack .
 - Close the pack and put pack back in the fridge after removing one pre-filled syringe.
-- Let the Plegridy pre-filled syringe warm to room temperature for at least 30 minutes
-- .
+- Let the Plegridy pre-filled syringe warm to room temperature for at least 30 minutes .
 - Do not use external heat sources such as hot water to warm the Plegridy pre-filled syringe. A
 
 ## Step 2: Collect your supplies and wash your hands
@@ -2314,7 +2394,7 @@ FigureH
 <div style=\"page-break-after: always\"></div>
 
 - Slowly push the plunger all the way down until syringe is empty (See Figure I).
-- Do not take your Plegridy pre-filled syringe out of the injection site until you have pushed the plunger all the way down.
+- Do not take your Plegridy pre-filled syringe out of the injection site until you have pushed the plunger all the way down. A
 - Keep the needle inserted in for 5 seconds (see Figure J).
 
 Figurel
@@ -2328,7 +2408,7 @@ Figure J
 ## Step 8: Remove the pre-filled syringe from your injection site
 
 - Pull the needle straight out (See Figure K).
-- Caution - Do not recap the Plegridy pre-filled syringe. You could get a needle injury. A
+- Caution - Do not recap the Plegridy pre-filled syringe. You could get a needle injury.
 - Do not reuse the Plegridy pre-filled syringe.
 
 ## After your injection
@@ -2339,7 +2419,6 @@ Figure J
 
 ## Step 10: Care for your injection site
 
-- •
 - If needed, apply a gauze pad or adhesive bandage to the injection site.
 
 ## Step 11: Check your injection site
@@ -2450,7 +2529,7 @@ If you accidentally prick yourself or someone else with the needle in Plegridy, 
 
 ## Children and adolescents
 
-Plegridy is not to be used in children and adolescents below 18 years old. The safety and effectiveness of Plegridy in this age group are not known.
+Plegridy should not be used in children and adolescents because it is yet to be established whether it would work for them and whether it would be safe.
 
 <div style=\"page-break-after: always\"></div>
 
@@ -2474,7 +2553,7 @@ Plegridy has no or negligible influence on the ability to drive and use machines
 
 ## Plegridy contains sodium
 
-This medicine contains less than 1 mmol sodium (23 mg), that is to say it is essentially 'sodium -free'.
+This medicine contains less than 1 mmol sodium (23 mg), that is to say it is essentially 'sodium-free'.
 
 ## 3. How to use Plegridy
 
@@ -2551,7 +2630,9 @@ If you get any of these symptoms:
 
 ## -Serious allergic reaction
 
-(uncommon - may affect up to 1 in 100 people) If you get any of these:
+(uncommon - may affect up to 1 in 100 people)
+
+If you get any of these:
 
 - -Difficulty breathing
 - -Swelling around the face (lips, tongue or throat)
@@ -2593,7 +2674,7 @@ If you get some or all of these symptoms:
 
 ## -Blood problems
 
-## (rare - may affect up to 1 in 1,000 people)
+(rare - may affect up to 1 in 1,000 people)
 
 The following may occur: Blood clots in the small blood vessels that can affect your kidneys (thrombotic thrombocytopenic purpura or haemolytic uremic syndrome). Symptoms may include increased bruising, bleeding, fever, extreme weakness, headache, dizziness or light-headedness.  Your doctor may find changes in your blood and the function of your kidneys.
 
@@ -2610,7 +2691,7 @@ If you get some or all of these symptoms:
 
 (may affect more than 1 in 10 people)
 
-- -Flulike symptoms.  These symptoms are not really flu, see below. You can't pass it on to anyone else.
+- -Flu-like symptoms.  These symptoms are not really flu, see below. You can't pass it on to anyone else.
 - -Headache
 - -Muscle pain ( myalgia )
 - -Pain in your joints, arms, legs or neck ( arthralgia )
@@ -2659,6 +2740,10 @@ Three simple ways to help reduce the impact of flu-like symptoms:
 
 - -Pulmonary arterial hypertension: A disease of severe narrowing of the blood vessels in the lungs resulting in high blood pressure in the blood vessels that carry blood from the heart to the lungs. Pulmonary arterial hypertension has been seen at various time points during treatment, including several years after starting treatment with interferon beta-products.
 
+## Children (10 years of age and above) and adolescents
+
+In clinical trials, some side effects were reported very commonly in both adults and children e.g., redness at the injection site, flu-like symptoms, headache, and fever.
+
 ## Reporting of side effects
 
 If you get any side effects, talk to your doctor, pharmacist or nurse. This includes any possible side effects not listed in this leaflet. You can also report side effects directly via the national reporting system listed in Appendix V. By reporting side effects you can help provide more information on the safety of this medicine.
@@ -2675,12 +2760,12 @@ Do not use this medicine after the expiry date which is stated on the carton and
 - -Store in a refrigerator (fridge), 2º-8ºC.
 - -Do not freeze. Throw away any Plegridy that is accidentally frozen.
 - -Plegridy can be kept outside a fridge at room temperature (up to 25°C) for up to 30 days but it must be kept away from light .
-- -Packs can be taken out of the fridge and then put back in a fridge more than once if you need to.
-- -Make sure the time the pens spend out of a fridge is no more than 30 days in total .
-- -Throw away any pen that is kept out of the fridge for more than 30 days.
 
 <div style=\"page-break-after: always\"></div>
 
+- -Packs can be taken out of the fridge and then put back in a fridge more than once if you need to.
+- -Make sure the time the pens spend out of a fridge is no more than 30 days in total .
+- -Throw away any pen that is kept out of the fridge for more than 30 days.
 - -If you are unsure of the number of days you have kept a pen out of the fridge, throw the pen away.
 - -Do not use this medicine if you notice any of the following:
 - -If the pen is broken.
@@ -2714,27 +2799,29 @@ Not all pack sizes may be marketed.
 
 ## Marketing Authorisation Holder
 
-Biogen Netherlands B.V.
-
-Prins Mauritslaan 13 1171 LP Badhoevedorp The Netherlands
+Biogen Netherlands B.V. Prins Mauritslaan 13 1171 LP Badhoevedorp The Netherlands
 
 ## Manufacturer
 
-FUJIFILM Diosynth Biotechnologies Denmark ApS
+FUJIFILM Diosynth Biotechnologies Denmark ApS Biotek Allé 1 DK-3400 Hillerød Denmark
 
-Biotek Allé 1 DK-3400 Hillerød Denmark
-
-Biogen Netherlands B.V.
-
-Prins Mauritslaan 13 1171 LP Badhoevedorp The Netherlands
-
-For any information about this medicine, please contact the local representative of the Marketing Authorisation Holder:
+Biogen Netherlands B.V. Prins Mauritslaan 13 1171 LP Badhoevedorp The Netherlands
 
 <div style=\"page-break-after: always\"></div>
 
+For any information about this medicine, please contact the local representative of the Marketing Authorisation Holder:
+
 ## België/Belgique/Belgien
 
-Biogen Belgium NV/SA Tél: +32 2 2191218
+Biogen Belgium NV/SA
+
+Tél: +32 2 2191218
+
+## Lietuva
+
+Biogen Lithuania UAB
+
+Tel: +370 5 259 6176
 
 ## България
 
@@ -2744,25 +2831,73 @@ Teл.:
 
 +359 2 962 12 00
 
+## Luxembourg/Luxemburg
+
+Biogen Belgium NV/SA
+
+Tél: +32 2 2191218
+
 ## Česká republika
 
-Biogen (Czech Republic) s.r.o. Tel: +420 255 706 200
+Biogen (Czech Republic) s.r.o.
+
+Tel: +420 255 706 200
+
+## Magyarország
+
+Biogen Hungary Kft.
+
+Tel.: +36 1 899 9880
 
 ## Danmark
 
-Biogen Denmark A/S Tlf.: +45 77 41 57 57
+Biogen Denmark A/S
+
+Tlf.: +45 77 41 57 57
+
+## Malta
+
+Pharma. MT Ltd..
+
+Tel: +356 21337008
 
 ## Deutschland
 
-Biogen GmbH Tel: +49 (0) 89 99 6170
+Biogen GmbH
+
+Tel: +49 (0) 89 99 6170
+
+## Nederland
+
+Biogen Netherlands B.V.
+
+Tel: +31 20 542 2000
 
 ## Eesti
 
-Biogen Estonia OÜ Tel: +372 618 9551
+Biogen Estonia OÜ
+
+Tel: +372 618 9551
+
+## Norge
+
+Biogen Norway AS
+
+Tlf: +47 23 40 01 00
 
 ## Ελλάδα
 
-Genesis Pharma SA Τηλ: +30 210 8771500
+Genesis Pharma SA
+
+Τηλ:
+
++30 210 8771500
+
+## Österreich
+
+Biogen Austria GmbH
+
+Tel: +43 1 484 46 13
 
 ## España
 
@@ -2770,79 +2905,71 @@ Biogen Spain S.L.
 
 Tel: +34 91 310 7110
 
-## France
-
-Biogen France SAS Tél: +33 (0)1 41 37 9595
-
-## Hrvatska
-
-Biogen Pharma d.o.o. Tel: +385 1 775 73 22
-
-## Ireland
-
-Biogen Idec (Ireland) Ltd. Tel: +353 (0)1 463 7799
-
-## Ísland
-
-Icepharma hf Sími: +354 540 8000
-
-## Italia
-
-Biogen Italia s.r.l. Tel: +39 02 584 9901
-
-## Lietuva
-
-Biogen Lithuania UAB Tel: +370 5 259 6176
-
-## Luxembourg/Luxemburg
-
-Biogen Belgium NV/SA Tél: +32 2 2191218
-
-## Magyarország
-
-Biogen Hungary Kft. Tel.: +36 1 899 9880
-
-## Malta
-
-Pharma. MT Ltd.. Tel: +356 21337008
-
-## Nederland
-
-Biogen Netherlands B.V. Tel: +31 20 542 2000
-
-## Norge
-
-Biogen Norway AS Tlf: +47 23 40 01 00
-
-## Österreich
-
-Biogen Austria GmbH Tel: +43 1 484 46 13
-
 ## Polska
 
-Biogen Poland Sp. z o.o. Tel.: +48 22 351 51 00
+Biogen Poland Sp. z o.o.
+
+Tel.: +48 22 351 51 00
+
+## France
+
+Biogen France SAS
+
+Tél: +33 (0)1 41 37 9595
 
 ## Portugal
 
-Biogen Portugal Sociedade Farmacêutica, Unipessoal Lda. Tel: +351 21 318 8450
+Biogen Portugal
+
+Sociedade Farmacêutica, Unipessoal Lda.
+
+Tel: +351 21 318 8450
+
+## Hrvatska
+
+Biogen Pharma d.o.o.
+
+Tel: +385 1 775 73 22
 
 ## România
 
-Johnson &amp; Johnson Romania S.R.L.
+Johnson &amp; Johnson Romania S.R.L. Tel: +40 21 207 18 00
 
-Tel: +40 21 207 18 00
+## Ireland
+
+Biogen Idec (Ireland) Ltd.
+
+Tel: +353 (0)1 463 7799
 
 ## Slovenija
 
-Biogen Pharma d.o.o. Tel: +386 1 511 02 90
+Biogen Pharma d.o.o.
+
+Tel: +386 1 511 02 90
+
+## Ísland
+
+Icepharma hf
+
+Sími: +354 540 8000
 
 ## Slovenská republika
 
-Biogen Slovakia s.r.o. Tel: +421 2 323 34008
+Biogen Slovakia s.r.o.
+
+Tel: +421 2 323 34008
+
+## Italia
+
+Biogen Italia s.r.l.
+
+Tel: +39 02 584 9901
 
 ## Suomi/Finland
 
-Biogen Finland Oy Puh/Tel: +358 207 401 200
+Biogen Finland Oy
+
+Puh/Tel: +358 207 401 200
 
 ## Κύπρος
 
@@ -2852,7 +2979,11 @@ Genesis Pharma Cyprus Ltd
 
 +357 22 76 57 15
 
-<div style=\"page-break-after: always\"></div>
+## Sverige
+
+Biogen Sweden AB
+
+Tel: +46 8 594 113 60
 
 ## Latvija
 
@@ -2860,15 +2991,18 @@ Biogen Latvia SIA
 
 Tel: +371 68 688 158
 
+<div style=\"page-break-after: always\"></div>
+
 This leaflet was last revised in &lt; { MM/YYYY }&gt; &lt;{ month YYYY }&gt;.
 
 ## Other sources of information
 
 Detailed information on this medicine is available on the European Medicines Agency web site: https://www.ema.europa.eu.
 
-## 7. Instructions for injecting Plegridy pre-filled pen
+7. Instructions for injecting Plegridy pre-filled pen
+2. Caution! Do not
 
-- Caution! Do not remove the cap until you are ready to inject. A
+remove the cap until you are ready to inject.
 
 ## How to Inject Plegridy
 
@@ -2887,29 +3021,20 @@ Read the instructions for use before you start using Plegridy and each time you 
 
 The Initiation Pack contains your first two injections to gradually adjust your dose. Choose the correct pen from a pack.
 
-<!-- image -->
-
-| When                                                        | Which dose                                           | Which pack   |
-|-------------------------------------------------------------|------------------------------------------------------|--------------|
-| Day 0 (63 micrograms)                                       | First injection: 63 micrograms, choose orange pen    |              |
-| Day 14 (94 micrograms)                                      | Second injection: 94 micrograms, choose blue pen     |              |
-| Day 28 and then every two weeks after that (125 micrograms) | Full dose injection: 125 micrograms, choose grey pen |              |
-
-## Sverige
-
-Biogen Sweden AB
-
-Tel: +46 8 594 113 60
+| When                   | Which dose                                                          | Which pack   |
+|------------------------|---------------------------------------------------------------------|--------------|
+| Day 0 (63 micrograms)  | First injection: 63 micrograms, choose orange pen Second injection: |              |
+| Day 14 (94 micrograms) | 94 micrograms, choose blue pen                                      |              |
 
 <div style=\"page-break-after: always\"></div>
 
+<!-- image -->
+
+- Do not use more than one pen per 14-day period (every 2 weeks).
+
 ## Supplies needed for your Plegridy Pen injection :
 
-- •
-
-Before use -
-
-- 1 Plegridy Pen (see Figure A) Parts of Plegridy Pen (Figure A)
+- 1 Plegridy Pen (see Figure A) Before use - Parts of Plegridy Pen (Figure A)
 - Caution! Do not remove the cap until you are ready to inject. If you remove the cap, do not recap the pen. Re-capping could cause the pen to lock.
 
 Figure A
@@ -2928,8 +3053,8 @@ FigureB
 
 - a. Remove your Plegridy pack from the fridge and select the appropriate pen (dosage) from the pack.
 - b. Close the pack and put back in the fridge after removing one pen.
-- c. Let the pen warm to room temperature for at least 30 minutes. A
-4. Do not use external heat sources, such as hot water, to warm your pen.
+- c. Let the pen warm to room temperature for at least 30 minutes.
+4. Do not use external heat sources, such as hot water, to warm your pen. A
 
 ## Step 2: Collect your supplies and wash your hands.
 
@@ -2959,7 +3084,7 @@ Note:  You might see air bubbles in the medicine window. This is normal and will
 3. Do not inject into an area of your body where the skin is irritated, red, bruised, tattooed, infected, or scarred. A
 4. Do not inject directly into your belly button. A
 - b. Wipe your skin with an alcohol wipe.
-6. Note: Do not touch or blow on this area again before giving your injection.
+6. Note: Do not touch or blow on this area again before giving your injection. A
 - c. Let your injection site dry on its own before injecting your dose.
 
 Figure C
@@ -2984,7 +3109,7 @@ Figure D
 
 - a. Hold the pen over your injection site. Make sure you can see the green stripes in the injection status window (see Figure F).
 - You should hold the pen over your injection site at 90 o angle.
-3. Warning! Do not rest the pen on the injection site until you are ready to inject. This may cause the pen to accidently lock.
+3. Warning! Do not rest the pen on the injection site until you are ready to inject. This may cause the pen to accidently lock. A
 - b. Firmly press and hold down the pen on your injection site. You will hear the clicking sounds start. This tells you that the injection is happening (see Figure G).
 - c. Continue to hold the pen firmly down on your injection site until the clicking sounds have stopped (see Figure H).
 6. Do not lift your pen off your injection site until the clicking sounds stop and you see green ticks in the injection status window. A
@@ -3006,8 +3131,6 @@ Figure H
 
 <!-- image -->
 
-Starts
-
 <div style=\"page-break-after: always\"></div>
 
 ## Step 7: Remove the Plegridy pen from your injection site
@@ -3026,7 +3149,7 @@ Figurel
 
 ## After the injection
 
-## After Use -Parts of your Plegridy pen (see Figure K):
+## After Use - Parts of your Plegridy pen (see Figure K):
 
 Figure K
 
@@ -3151,7 +3274,7 @@ If you accidentally prick yourself or someone else with the needle in Plegridy, 
 
 ## Children and adolescents
 
-Plegridy is not to be used in children and adolescents below 18 years old. The safety and effectiveness of Plegridy in this age group are not known.
+Plegridy should not be used in children and adolescents because it is yet to be established whether it would work for them and whether it would be safe.
 
 <div style=\"page-break-after: always\"></div>
 
@@ -3175,7 +3298,7 @@ Plegridy has no or negligible influence on the ability to drive and use machines
 
 ## Plegridy contains sodium
 
-This medicine contains less than 1 mmol sodium (23 mg), that is to say it is essentially 'sodium -free'.
+This medicine contains less than 1 mmol sodium (23 mg), that is to say it is essentially 'sodium-free'.
 
 ## 3. How to use Plegridy
 
@@ -3195,7 +3318,7 @@ Dose 1 on day 0: 1/2 dose (63 micrograms) with YELLOW titration clip
 
 Dose 2 on day 14: 3/4 dose (94 micrograms) with PURPLE titration clip
 
-Dose 3 on day 28 and then every 2 weeks: full dose (125 micrograms) -NO titration clip needed
+Dose 3 on day 28 and then every 2 weeks: full dose (125 micrograms) - NO titration clip needed
 
 Plegridy supplied in this pack is meant for injection into your thigh muscle.
 
@@ -3265,7 +3388,9 @@ If you get any of these symptoms:
 
 ## -Serious allergic reaction
 
-(uncommon - may affect up to 1 in 100 people) If you get any of these:
+(uncommon - may affect up to 1 in 100 people)
+
+If you get any of these:
 
 - -Difficulty breathing
 
@@ -3314,11 +3439,13 @@ If you get some or all of these symptoms:
 - -Headache, dizziness or light-headedness
 - -Contact a doctor immediately.
 
-## Other side effects Very common side effects
+## Other side effects
+
+## Very common side effects
 
 (may affect more than 1 in 10 people)
 
-- -Flulike symptoms.  These symptoms are not really flu, see below. You can't pass it on to anyone else.
+- -Flu-like symptoms.  These symptoms are not really flu, see below. You can't pass it on to anyone else.
 - -Headache
 - -Muscle pain ( myalgia )
 - -Pain in your joints, arms, legs or neck ( arthralgia )
@@ -3367,6 +3494,10 @@ Three simple ways to help reduce the impact of flu-like symptoms:
 
 - -Pulmonary arterial hypertension: A disease of severe narrowing of the blood vessels in the lungs resulting in high blood pressure in the blood vessels that carry blood from the heart to the lungs. Pulmonary arterial hypertension has been seen at various time points during treatment, including several years after starting treatment with interferon beta-products.
 
+## Children (10 years of age and above) and adolescents
+
+In clinical trials, some side effects were reported very commonly in both adults and children, e.g., redness at the injection site, flu-like symptoms, headache, and fever.
+
 ## Reporting of side effects
 
 If you get any side effects, talk to your doctor, pharmacist or nurse. This includes any possible side effects not listed in this leaflet. You can also report side effects directly via the national reporting system listed in Appendix V. By reporting side effects you can help provide more information on the safety of this medicine.
@@ -3379,15 +3510,17 @@ Keep this medicine out of the sight and reach of children.
 
 Do not use this medicine after the expiry date which is stated on the carton and the label after 'EXP'. The expiry date refers to the last day of that month.
 
-- -Store in the original package in order to protect from light. Only open the pack when you need a new syringe.
-- -Store in a refrigerator (fridge) 2 º-8 ºC.
-
 <div style=\"page-break-after: always\"></div>
 
+- -Store in the original package in order to protect from light. Only open the pack when you need a new syringe.
+- -Store in a refrigerator (fridge) 2 º-8 ºC.
 - -Do not freeze. Throw away any Plegridy that is accidentally frozen.
 - -Plegridy can be kept outside a fridge at room temperature (up to 25 °C) for up to 30 days but it must be kept away from light .
 - -Packs can be taken out of the fridge and then put back in a fridge more than once if you need to.
-- -Make sure the time the syringes spend out of a fridge is no more than 30 days in total .
+- -Make sure the time the syringes spend out of a fridge is no more than 30 days in total
+
+.
+
 - -Throw away any syringe that is kept out of the fridge for more than 30 days.
 - -If you are unsure of the number of days you have kept a syringe out of the fridge, throw the syringe away.
 - -Do not use this medicine if you notice any of the following:
@@ -3423,7 +3556,9 @@ Biogen Netherlands B.V. Prins Mauritslaan 13 1171 LP Badhoevedorp The Netherland
 
 FUJIFILM Diosynth Biotechnologies Denmark ApS Biotek Allé 1 DK-3400 Hillerød Denmark
 
-Biogen Netherlands B.V. Prins Mauritslaan 13 1171 LP Badhoevedorp The Netherlands
+Biogen Netherlands B.V.
+
+Prins Mauritslaan 13 1171 LP Badhoevedorp The Netherlands
 
 <div style=\"page-break-after: always\"></div>
 
@@ -3435,6 +3570,12 @@ Biogen Belgium NV/SA
 
 Tél: +32 2 2191218
 
+## Lietuva
+
+Biogen Lithuania UAB
+
+Tel: +370 5 259 6176
+
 ## България
 
 ЕВОФАРМА ЕООД
@@ -3443,9 +3584,23 @@ Teл.:
 
 +359 2 962 12 00
 
+## Luxembourg/Luxemburg
+
+Biogen Belgium NV/SA
+
+Tél: +32 2 2191218
+
 ## Česká republika
 
-Biogen (Czech Republic) s.r.o. Tel: +420 255 706 200
+Biogen (Czech Republic) s.r.o.
+
+Tel: +420 255 706 200
+
+## Magyarország
+
+Biogen Hungary Kft.
+
+Tel.: +36 1 899 9880
 
 ## Danmark
 
@@ -3453,11 +3608,23 @@ Biogen Denmark A/S
 
 Tlf.: +45 77 41 57 57
 
+## Malta
+
+Pharma. MT Ltd..
+
+Tel: +356 21337008
+
 ## Deutschland
 
 Biogen GmbH
 
 Tel: +49 (0) 89 99 6170
+
+## Nederland
+
+Biogen Netherlands B.V.
+
+Tel: +31 20 542 2000
 
 ## Eesti
 
@@ -3465,69 +3632,19 @@ Biogen Estonia OÜ
 
 Tel: +372 618 9551
 
+## Norge
+
+Biogen Norway AS
+
+Tlf: +47 23 40 01 00
+
 ## Ελλάδα
 
 Genesis Pharma SA
 
-Τηλ: +30 210 8771500
+Τηλ:
 
-## España
-
-Biogen Spain S.L.
-
-Tel: +34 91 310 7110
-
-## France
-
-Biogen France SAS Tél: +33 (0)1 41 37 9595
-
-## Hrvatska
-
-Biogen Pharma d.o.o. Tel: +385 1 775 73 22
-
-## Ireland
-
-Biogen Idec (Ireland) Ltd. Tel: +353 (0)1 463 7799
-
-## Ísland
-
-Icepharma hf
-
-Sími: +354 540 8000
-
-## Italia
-
-Biogen Italia s.r.l.
-
-Tel: +39 02 584 9901
-
-## Lietuva
-
-Biogen Lithuania UAB
-
-Tel: +370 5 259 6176
-
-## Luxembourg/Luxemburg
-
-Biogen Belgium NV/SA Tél: +32 2 2191218
-
-## Magyarország
-
-Biogen Hungary Kft. Tel.: +36 1 899 9880
-
-## Malta
-
-Pharma. MT Ltd..
-
-Tel: +356 21337008
-
-## Nederland
-
-Biogen Netherlands B.V. Tel: +31 20 542 2000
-
-## Norge
-
-Biogen Norway AS Tlf: +47 23 40 01 00
++30 210 8771500
 
 ## Österreich
 
@@ -3535,21 +3652,49 @@ Biogen Austria GmbH
 
 Tel: +43 1 484 46 13
 
+## España
+
+Biogen Spain S.L.
+
+Tel: +34 91 310 7110
+
 ## Polska
 
 Biogen Poland Sp. z o.o.
 
 Tel.: +48 22 351 51 00
 
+## France
+
+Biogen France SAS
+
+Tél: +33 (0)1 41 37 9595
+
 ## Portugal
 
-Biogen Portugal Sociedade Farmacêutica, Unipessoal Lda.
+Biogen Portugal
+
+Sociedade Farmacêutica, Unipessoal Lda.
 
 Tel: +351 21 318 8450
 
+## Hrvatska
+
+Biogen Pharma d.o.o.
+
+Tel: +385 1 775 73 22
+
 ## România
 
-Johnson &amp; Johnson Romania S.R.L. Tel: +40 21 207 18 00
+Johnson &amp; Johnson Romania S.R.L.
+
+Tel: +40 21 207 18 00
+
+## Ireland
+
+Biogen Idec (Ireland) Ltd.
+
+Tel: +353 (0)1 463 7799
 
 ## Slovenija
 
@@ -3557,19 +3702,31 @@ Biogen Pharma d.o.o.
 
 Tel: +386 1 511 02 90
 
+## Ísland
+
+Icepharma hf
+
+Sími: +354 540 8000
+
 ## Slovenská republika
 
 Biogen Slovakia s.r.o.
 
 Tel: +421 2 323 34008
 
+Italia
+
+Biogen Italia s.r.l.
+
+Tel: +39 02 584 9901
+
 ## Suomi/Finland
 
-Biogen Finland Oy Puh/Tel: +358 207 401 200
+Biogen Finland Oy
 
-<div style=\"page-break-after: always\"></div>
+Puh/Tel: +358 207 401 200
 
-Κύπρος
+## Κύπρος
 
 Genesis Pharma Cyprus Ltd
 
@@ -3577,11 +3734,19 @@ Genesis Pharma Cyprus Ltd
 
 +357 22 76 57 15
 
+Sverige
+
+Biogen Sweden AB
+
+Tel: +46 8 594 113 60
+
 Latvija
 
 Biogen Latvia SIA
 
 Tel: +371 68 688 158
+
+<div style=\"page-break-after: always\"></div>
 
 This leaflet was last revised in &lt; { MM/YYYY }&gt; &lt;{ month YYYY }&gt;.
 
@@ -3604,21 +3769,14 @@ Read the instructions for use before you start using Plegridy pre-filled syringe
 - Gauze pad
 - Adhesive bandage
 
-## If you are new to Plegridy your dose may be titrated over 2 injections by using the syringe with the Plegridy titration kit.
+If you are new to Plegridy your dose may be titrated over 2 injections by using the syringe with the Plegridy titration kit.
 
 o Dose 1: ½ dose (yellow titration clip) (not supplied as part of the pack) o Dose 2: ¾ dose (purple titration clip) (not supplied as part of the pack) o Dose 3: a full dose (no clip required)
 
-- The Plegridy titration clips are for single use only with the Plegridy pre-filled syringe. Do not re-use the syringe or titration clips.
-
-## Sverige
-
-Biogen Sweden AB
-
-Tel: +46 8 594 113 60
-
 <div style=\"page-break-after: always\"></div>
 
-- You must prepare the Plegridy pre -filled syringe and needle before you put it into the Plegridy titration clip
+- The   Plegridy titration clips are for single use only with the Plegridy pre-filled syringe. Do not re-use the syringe or titration clips.
+- You must prepare the Plegridy pre-filled syringe and needle before you put it into the Plegridy titration clip
 
 ## Preparing the dose of Plegridy:
 

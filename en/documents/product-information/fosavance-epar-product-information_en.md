@@ -1,18 +1,18 @@
 ---
-document_datetime: 2024-07-18 12:41:11
+document_datetime: 2026-02-12 11:05:41
 document_pages: 36
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/fosavance-epar-product-information_en.pdf
 document_name: fosavance-epar-product-information_en.pdf
 version: success
-processing_time: 7.3152876
-conversion_datetime: 2025-12-27 20:56:19.165537
+processing_time: 7.4344285
+conversion_datetime: 2026-02-13 18:31:36.815559
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.66.0
-  docling-core: 2.57.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.12.0
+  docling-jobkit: 1.10.2
+  docling: 2.73.1
+  docling-core: 2.65.1
+  docling-ibm-models: 3.11.0
+  docling-parse: 4.7.3
   python: cpython-313 (3.13.11)
   plaform: macOS-26.2-arm64-arm-64bit-Mach-O
 ---
@@ -1145,13 +1145,11 @@ Organon Belgium Tél/Tel: 0080066550123 (+32 2 2418100) dpoc.benelux@organon.com
 
 ## Česká republika
 
-Organon Czech Republic s.r.o. Tel: +420 233 010 300 dpoc.czech@organon.com
+Organon Czech Republic s.r.o. Tel: +420 277 051 010 dpoc.czech@organon.com
 
 ## Danmark
 
-Organon Denmark ApS Tlf: +45 4484 6800
-
-info.denmark@organon.com
+Organon Denmark ApS Tlf: +45 4484 6800 dpoc.dk.is@organon.com
 
 ## Deutschland
 
@@ -1195,9 +1193,7 @@ N.V. Organon Tel.: 00800 66550123 (+32 2 2418100) dpoc.benelux@organon.com
 
 ## Norge
 
-Organon Norway AS Tlf: +47 24 14 56 60
-
-info.norway@organon.com
+Organon Norway AS Tlf: +47 24 14 56 60 dpoc.norway@organon.com
 
 ## Österreich
 
@@ -1205,7 +1201,9 @@ Organon Healthcare GmbH Tel: +49 (0) 89 2040022 10 dpoc.austria@organon.com
 
 ## Polska
 
-Organon Polska Sp. z o.o. Tel.: +48 22 105 50 01 organonpolska@organon.com
+Organon Polska Sp. z o.o. Tel.: +48 22 306 57 64
+
+dpoc.poland@organon.com
 
 ## Portugal
 
@@ -1215,51 +1213,23 @@ Organon Portugal, Sociedade Unipessoal Lda. Tel: +351 218705500 geral\\_pt@org
 
 ## Hrvatska
 
+## România
+
 Organon Pharma d.o.o.
 
 Tel: +385 1 638 4530
 
 dpoc.croatia@organon.com
 
-## Ireland
-
-Organon Pharma (Ireland) Limited Tel: +353 15828260 medinfo.ROI@organon.com
-
-## Ísland
-
-Vistor hf.
-
-Sími: +354 535 7000
-
-## Ιtalia
-
-Organon Italia S.r.l.
-
-Tel: +39 06 90259059
-
-dpoc.italy@organon.com
-
-## Κύπρος
-
-Organon Pharma B.V., Cyprus branch Τηλ: +357 22866730 dpoc.cyprus@organon.com
-
-## Latvija
-
-Ārvalsts komersanta 'Organon Pharma B.V.' pārstāvniecība
-
-Tel: +371 66968876 dpoc.latvia@organon.com
-
-## This leaflet was last revised in &lt;{MM/YYYY}&gt;
-
-Detailed information on this medicine is available on the European Medicines Agency website: https://www.ema.europa.eu.
-
-## România
-
 Organon Biosciences S.R.L.
 
 Tel: +40 21 527 29 90
 
 dpoc.romania@organon.com
+
+## Ireland
+
+Organon Pharma (Ireland) Limited Tel: +353 15828260 medinfo.ROI@organon.com
 
 ## Slovenija
 
@@ -1271,18 +1241,52 @@ Tel: +386 1 300 10 80
 
 dpoc.slovenia@organon.com
 
+## Ísland
+
+Vistor ehf.
+
+Sími: +354 535 7000
+
 ## Slovenská republika
 
-Organon Slovakia s. r. o. Tel: +421 2 44 88 98 88 dpoc.slovakia@organon.com
+Organon Slovakia s. r. o.
+
+Tel: +421 2 44 88 98 88
+
+dpoc.slovakia@organon.com
+
+## Ιtalia
+
+Organon Italia S.r.l.
+
+Tel: +39 06 90259059
+
+dpoc.italy@organon.com
 
 ## Suomi/Finland
 
-Organon Finland Oy Puh/Tel: +358 (0) 29 170 3520 dpoc.finland@organon.com
+Organon Finland Oy
+
+Puh/Tel: +358 (0) 29 170 3520
+
+dpoc.finland@organon.com
+
+## Κύπρος
+
+Organon Pharma B.V., Cyprus branch Τηλ: +357 22866730 dpoc.cyprus@organon.com
 
 ## Sverige
 
 Organon Sweden AB Tel: +46 8 502 597 00 dpoc.sweden@organon.com
 
-## United Kingdom (Northern Ireland)
+## Latvija
 
-Organon Pharma (UK) Limited Tel: +44 (0) 208 159 3593 medicalinformationuk@organon.com
+Ārvalsts komersanta 'Organon Pharma B.V.' pārstāvniecība
+
+Tel: +371 66968876
+
+dpoc.latvia@organon.com
+
+## This leaflet was last revised in &lt;{MM/YYYY}&gt;
+
+Detailed information on this medicine is available on the European Medicines Agency website: https://www.ema.europa.eu.

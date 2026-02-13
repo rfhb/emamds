@@ -1,21 +1,97 @@
 ---
-document_datetime: 2025-12-29 14:34:52
+document_datetime: 2026-02-12 17:00:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/vantavo.html
 document_name: vantavo.html
 version: success
-processing_time: 0.1128225
-conversion_datetime: 2025-12-31 01:41:44.064751
+processing_time: 0.0912819
+conversion_datetime: 2026-02-13 18:36:08.290011
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.66.0
-  docling-core: 2.57.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.12.0
+  docling-jobkit: 1.10.2
+  docling: 2.73.1
+  docling-core: 2.65.1
+  docling-ibm-models: 3.11.0
+  docling-parse: 4.7.3
   python: cpython-313 (3.13.11)
   plaform: macOS-26.2-arm64-arm-64bit-Mach-O
 ---
+# Search
+
+- [Medicines](/en/medicines)
+    - [Find medicine](/en/medicines)
+    - [Therapeutic areas: latest updates](/en/medicines/therapeutic-areas-latest-updates)
+    - [Download medicine data](/en/medicines/download-medicine-data)
+    - [What we publish on medicines and when](/en/medicines/what-we-publish-medicines-when)
+    - [Medicines under evaluation](/en/medicines/medicines-human-use-under-evaluation)
+    - [National registers](/en/medicines/national-registers-authorised-medicines)
+- [Human regulatory](/en/human-regulatory-overview)
+    - [Overview](/en/human-regulatory-overview)
+    - [Research and development](/en/human-regulatory-overview/research-development)
+    - [Marketing authorisation](/en/human-regulatory-overview/marketing-authorisation)
+    - [Post-authorisation](/en/human-regulatory-overview/post-authorisation)
+    - [Medical devices](/en/human-regulatory-overview/medical-devices)
+    - [Herbal products](/en/human-regulatory-overview/herbal-medicinal-products)
+- [Veterinary regulatory](/en/veterinary-regulatory-overview)
+    - [Overview](/en/veterinary-regulatory-overview)
+    - [Research and development](/en/veterinary-regulatory-overview/research-development-veterinary-medicines)
+    - [Marketing authorisation](/en/veterinary-regulatory-overview/marketing-authorisation-veterinary-medicines)
+    - [Post-authorisation](/en/veterinary-regulatory-overview/post-authorisation-veterinary-medicines)
+- [Committees](/en/committees)
+    - [Overview](/en/committees)
+    - [How the committees work](/en/committees/how-committees-work)
+    - [CHMP](/en/committees/committee-medicinal-products-human-use-chmp)
+    - [CVMP](/en/committees/committee-veterinary-medicinal-products-cvmp)
+    - [PRAC](/en/committees/pharmacovigilance-risk-assessment-committee-prac)
+    - [COMP](/en/committees/committee-orphan-medicinal-products-comp)
+    - [HMPC](/en/committees/committee-herbal-medicinal-products-hmpc)
+    - [CAT](/en/committees/committee-advanced-therapies-cat)
+    - [PDCO](/en/committees/paediatric-committee-pdco)
+    - [Working parties and other groups](/en/committees/working-parties-other-groups)
+- [News &amp; events](/en/news-events)
+    - [Overview](/en/news-events)
+    - [News](/en/news)
+    - [Events](/en/events/upcoming-events)
+    - [What's new](/en/news-events/whats-new)
+    - [Committee highlights](/en/news-events/committee-highlights)
+    - [Publications](/en/news-and-events/publications)
+    - [Press and social media](/en/news-events/press-social-media)
+    - [Podcast: Inside EMA](/en/news-events/podcast-inside-ema)
+    - [Open consultations](/en/news-events/open-consultations)
+    - [RSS feeds](/en/news-events/rss-feeds)
+- [Partners &amp; networks](/en/partners-networks)
+    - [Overview](/en/partners-networks)
+    - [EU partners](/en/partners-networks/eu-partners)
+    - [International activities](/en/partners-networks/international-activities)
+    - [Patients and consumers](/en/partners-networks/patients-consumers)
+    - [Healthcare professionals](/en/partners-networks/healthcare-professionals)
+    - [Academia](/en/partners-networks/academia)
+    - [Pharmaceutical industry](/en/partners-networks/pharmaceutical-industry)
+    - [Networks](/en/partners-networks/networks)
+    - [Health technology assessment bodies](/en/partners-networks/health-technology-assessment-bodies)
+    - [One Health approach](/en/partners-networks/one-health-approach)
+    - [Animal health practitioners](/en/partners-networks/animal-health-practitioners)
+    - [One substance - one assessment](/en/partners-networks/one-substance-one-assessment-osoa-eu-collaboration-chemicals-related-data)
+- [About us](/en/about-us)
+    - [Overview](/en/about-us)
+    - [What we do](/en/about-us/what-we-do)
+    - [Who we are](/en/about-us/who-we-are)
+    - [How we work](/en/about-us/how-we-work)
+    - [Fees](/en/about-us/fees-payable-european-medicines-agency)
+    - [Support to SMEs](/en/about-us/support-smes)
+    - [Annual reports and work programmes](/en/about-us/annual-reports-work-programmes)
+    - [History of EMA](/en/about-us/history-ema)
+    - [Careers](/en/about-us/careers)
+    - [Procurement](/en/about-us/procurement-grants)
+    - [Glossaries](/en/about-us/glossaries)
+    - [About this website](/en/about-us/about-website)
+    - [Data protection and privacy](/en/about-us/data-protection-privacy-ema)
+    - [Contacts](/en/about-us/contacts-european-medicines-agency)
+
+1. [Home](/en/homepage)
+2. [Medicines](https://www.ema.europa.eu/en/medicines)
+3. Vantavo (previously Alendronate sodium and colecalciferol, MSD)
+
 # Vantavo (previously Alendronate sodium and colecalciferol, MSD)
 
 [RSS](/en/individual-human-medicine.xml/65854)
@@ -25,8 +101,6 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 alendronic acid / colecalciferol Medicine Human Authorised
-
-On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -117,7 +191,7 @@ English (EN) (83.88 KB - PDF)
 
 [View](/en/documents/overview/vantavo-epar-summary-public_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-32)
+[Other languages (22)](#file-language-dropdown-888)
 
 български (BG) (137.37 KB - PDF)
 
@@ -395,17 +469,17 @@ English (EN) (1.21 MB - PDF)
 
 Vantavo : EPAR - Product Information
 
-English (EN) (289.21 KB - PDF)
+English (EN) (281.06 KB - PDF)
 
 **First published:** 13/11/2009
 
-**Last updated:** 18/07/2024
+**Last updated:** 12/02/2026
 
 [View](/en/documents/product-information/vantavo-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-145)
+[Other languages (24)](#file-language-dropdown-402)
 
-български (BG) (418.64 KB - PDF)
+български (BG) (525.92 KB - PDF)
 
 **First published:**
 
@@ -413,11 +487,11 @@ English (EN) (289.21 KB - PDF)
 
 **Last updated:**
 
-18/07/2024
+12/02/2026
 
 [View](/bg/documents/product-information/vantavo-epar-product-information_bg.pdf)
 
-español (ES) (316.42 KB - PDF)
+español (ES) (307.21 KB - PDF)
 
 **First published:**
 
@@ -425,11 +499,11 @@ español (ES) (316.42 KB - PDF)
 
 **Last updated:**
 
-18/07/2024
+12/02/2026
 
 [View](/es/documents/product-information/vantavo-epar-product-information_es.pdf)
 
-čeština (CS) (415.86 KB - PDF)
+čeština (CS) (421.45 KB - PDF)
 
 **First published:**
 
@@ -437,11 +511,11 @@ español (ES) (316.42 KB - PDF)
 
 **Last updated:**
 
-18/07/2024
+12/02/2026
 
 [View](/cs/documents/product-information/vantavo-epar-product-information_cs.pdf)
 
-dansk (DA) (304.32 KB - PDF)
+dansk (DA) (296.11 KB - PDF)
 
 **First published:**
 
@@ -449,11 +523,11 @@ dansk (DA) (304.32 KB - PDF)
 
 **Last updated:**
 
-18/07/2024
+12/02/2026
 
 [View](/da/documents/product-information/vantavo-epar-product-information_da.pdf)
 
-Deutsch (DE) (362.07 KB - PDF)
+Deutsch (DE) (356.39 KB - PDF)
 
 **First published:**
 
@@ -461,11 +535,11 @@ Deutsch (DE) (362.07 KB - PDF)
 
 **Last updated:**
 
-18/07/2024
+12/02/2026
 
 [View](/de/documents/product-information/vantavo-epar-product-information_de.pdf)
 
-eesti keel (ET) (370.56 KB - PDF)
+eesti keel (ET) (361.94 KB - PDF)
 
 **First published:**
 
@@ -473,11 +547,11 @@ eesti keel (ET) (370.56 KB - PDF)
 
 **Last updated:**
 
-18/07/2024
+12/02/2026
 
 [View](/et/documents/product-information/vantavo-epar-product-information_et.pdf)
 
-ελληνικά (EL) (436.04 KB - PDF)
+ελληνικά (EL) (435.13 KB - PDF)
 
 **First published:**
 
@@ -485,11 +559,11 @@ eesti keel (ET) (370.56 KB - PDF)
 
 **Last updated:**
 
-18/07/2024
+12/02/2026
 
 [View](/el/documents/product-information/vantavo-epar-product-information_el.pdf)
 
-français (FR) (376.25 KB - PDF)
+français (FR) (367.12 KB - PDF)
 
 **First published:**
 
@@ -497,11 +571,11 @@ français (FR) (376.25 KB - PDF)
 
 **Last updated:**
 
-18/07/2024
+12/02/2026
 
 [View](/fr/documents/product-information/vantavo-epar-product-information_fr.pdf)
 
-hrvatski (HR) (435.41 KB - PDF)
+hrvatski (HR) (427.36 KB - PDF)
 
 **First published:**
 
@@ -509,11 +583,11 @@ hrvatski (HR) (435.41 KB - PDF)
 
 **Last updated:**
 
-18/07/2024
+12/02/2026
 
 [View](/hr/documents/product-information/vantavo-epar-product-information_hr.pdf)
 
-íslenska (IS) (302.38 KB - PDF)
+íslenska (IS) (291.92 KB - PDF)
 
 **First published:**
 
@@ -521,11 +595,11 @@ hrvatski (HR) (435.41 KB - PDF)
 
 **Last updated:**
 
-18/07/2024
+12/02/2026
 
 [View](/is/documents/product-information/vantavo-epar-product-information_is.pdf)
 
-italiano (IT) (416.3 KB - PDF)
+italiano (IT) (413.84 KB - PDF)
 
 **First published:**
 
@@ -533,11 +607,11 @@ italiano (IT) (416.3 KB - PDF)
 
 **Last updated:**
 
-18/07/2024
+12/02/2026
 
 [View](/it/documents/product-information/vantavo-epar-product-information_it.pdf)
 
-latviešu valoda (LV) (391.06 KB - PDF)
+latviešu valoda (LV) (376.12 KB - PDF)
 
 **First published:**
 
@@ -545,11 +619,11 @@ latviešu valoda (LV) (391.06 KB - PDF)
 
 **Last updated:**
 
-18/07/2024
+12/02/2026
 
 [View](/lv/documents/product-information/vantavo-epar-product-information_lv.pdf)
 
-lietuvių kalba (LT) (413.36 KB - PDF)
+lietuvių kalba (LT) (398.66 KB - PDF)
 
 **First published:**
 
@@ -557,11 +631,11 @@ lietuvių kalba (LT) (413.36 KB - PDF)
 
 **Last updated:**
 
-18/07/2024
+12/02/2026
 
 [View](/lt/documents/product-information/vantavo-epar-product-information_lt.pdf)
 
-magyar (HU) (410.7 KB - PDF)
+magyar (HU) (410.08 KB - PDF)
 
 **First published:**
 
@@ -569,11 +643,11 @@ magyar (HU) (410.7 KB - PDF)
 
 **Last updated:**
 
-18/07/2024
+12/02/2026
 
 [View](/hu/documents/product-information/vantavo-epar-product-information_hu.pdf)
 
-Malti (MT) (446.9 KB - PDF)
+Malti (MT) (411.38 KB - PDF)
 
 **First published:**
 
@@ -581,11 +655,11 @@ Malti (MT) (446.9 KB - PDF)
 
 **Last updated:**
 
-18/07/2024
+12/02/2026
 
 [View](/mt/documents/product-information/vantavo-epar-product-information_mt.pdf)
 
-Nederlands (NL) (296.73 KB - PDF)
+Nederlands (NL) (292.3 KB - PDF)
 
 **First published:**
 
@@ -593,11 +667,11 @@ Nederlands (NL) (296.73 KB - PDF)
 
 **Last updated:**
 
-18/07/2024
+12/02/2026
 
 [View](/nl/documents/product-information/vantavo-epar-product-information_nl.pdf)
 
-norsk (NO) (340.28 KB - PDF)
+norsk (NO) (419.27 KB - PDF)
 
 **First published:**
 
@@ -605,11 +679,11 @@ norsk (NO) (340.28 KB - PDF)
 
 **Last updated:**
 
-18/07/2024
+12/02/2026
 
 [View](/no/documents/product-information/vantavo-epar-product-information_no.pdf)
 
-polski (PL) (421.28 KB - PDF)
+polski (PL) (412.99 KB - PDF)
 
 **First published:**
 
@@ -617,11 +691,11 @@ polski (PL) (421.28 KB - PDF)
 
 **Last updated:**
 
-18/07/2024
+12/02/2026
 
 [View](/pl/documents/product-information/vantavo-epar-product-information_pl.pdf)
 
-português (PT) (351.02 KB - PDF)
+português (PT) (427.46 KB - PDF)
 
 **First published:**
 
@@ -629,11 +703,11 @@ português (PT) (351.02 KB - PDF)
 
 **Last updated:**
 
-18/07/2024
+12/02/2026
 
 [View](/pt/documents/product-information/vantavo-epar-product-information_pt.pdf)
 
-română (RO) (402.5 KB - PDF)
+română (RO) (411.69 KB - PDF)
 
 **First published:**
 
@@ -641,11 +715,11 @@ română (RO) (402.5 KB - PDF)
 
 **Last updated:**
 
-18/07/2024
+12/02/2026
 
 [View](/ro/documents/product-information/vantavo-epar-product-information_ro.pdf)
 
-slovenčina (SK) (419.28 KB - PDF)
+slovenčina (SK) (416.03 KB - PDF)
 
 **First published:**
 
@@ -653,11 +727,11 @@ slovenčina (SK) (419.28 KB - PDF)
 
 **Last updated:**
 
-18/07/2024
+12/02/2026
 
 [View](/sk/documents/product-information/vantavo-epar-product-information_sk.pdf)
 
-slovenščina (SL) (428.43 KB - PDF)
+slovenščina (SL) (423.34 KB - PDF)
 
 **First published:**
 
@@ -665,11 +739,11 @@ slovenščina (SL) (428.43 KB - PDF)
 
 **Last updated:**
 
-18/07/2024
+12/02/2026
 
 [View](/sl/documents/product-information/vantavo-epar-product-information_sl.pdf)
 
-Suomi (FI) (353.16 KB - PDF)
+Suomi (FI) (353.2 KB - PDF)
 
 **First published:**
 
@@ -677,11 +751,11 @@ Suomi (FI) (353.16 KB - PDF)
 
 **Last updated:**
 
-18/07/2024
+12/02/2026
 
 [View](/fi/documents/product-information/vantavo-epar-product-information_fi.pdf)
 
-svenska (SV) (280.77 KB - PDF)
+svenska (SV) (284.49 KB - PDF)
 
 **First published:**
 
@@ -689,11 +763,11 @@ svenska (SV) (280.77 KB - PDF)
 
 **Last updated:**
 
-18/07/2024
+12/02/2026
 
 [View](/sv/documents/product-information/vantavo-epar-product-information_sv.pdf)
 
-**Latest procedure affecting product information:** WS/2696 31/10/2024
+**Latest procedure affecting product information:** N/0000326535 12/02/2026
 
 icon globe
 
@@ -719,7 +793,7 @@ English (EN) (13.42 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/vantavo-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-314)
+[Other languages (24)](#file-language-dropdown-268)
 
 български (BG) (80.91 KB - PDF)
 
@@ -1045,7 +1119,7 @@ N.V. Organon
 
 Kloosterstraat 6
 
-Opinion adopted 23/07/2009 Marketing authorisation issued 16/10/2009 Revision 21
+Opinion adopted 23/07/2009 Marketing authorisation issued 16/10/2009 Revision 22
 
 ## Assessment history
 
@@ -1057,13 +1131,21 @@ Collapse section
 
 Vantavo : EPAR - Procedural steps taken and scientific information after authorisation
 
+English (EN) (141.2 KB - PDF)
+
+**First published:** 12/02/2026
+
+[View](/en/documents/procedural-steps-after/vantavo-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf)
+
+Vantavo : EPAR - Procedural steps taken and scientific information after authorisation (archive)
+
 English (EN) (224 KB - PDF)
 
 **First published:** 27/04/2010
 
-**Last updated:** 05/12/2024
+**Last updated:** 12/02/2026
 
-[View](/en/documents/procedural-steps-after/vantavo-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf)
+[View](/en/documents/procedural-steps-after/vantavo-epar-procedural-steps-taken-scientific-information-after-authorisation-archive_en.pdf)
 
 Vantavo-H-C-1180-A20-0005 : EPAR - Assessment Report - Article 20
 
@@ -1107,7 +1189,7 @@ English (EN) (32.67 KB - PDF)
 
 - [Medicines](https://www.ema.europa.eu/en/search?f%5B0%5D=ema_search_topics%3A61)
 
-**This page was last updated on** 05/12/2024
+**This page was last updated on** 12/02/2026
 
 ## Share this page
 

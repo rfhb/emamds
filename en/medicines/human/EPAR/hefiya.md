@@ -1,20 +1,20 @@
 ---
-document_datetime: 2025-12-29 12:31:11
+document_datetime: 2026-02-16 09:56:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/hefiya.html
 document_name: hefiya.html
 version: success
-processing_time: 0.1019842
-conversion_datetime: 2025-12-30 00:18:11.847995
+processing_time: 0.0972157
+conversion_datetime: 2026-02-18 17:51:20.237552
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.66.0
-  docling-core: 2.57.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.13.0
+  docling-jobkit: 1.11.0
+  docling: 2.74.0
+  docling-core: 2.65.1
+  docling-ibm-models: 3.11.0
+  docling-parse: 5.3.2
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.3-arm64-arm-64bit-Mach-O
 ---
 # Hefiya
 
@@ -25,8 +25,6 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 adalimumab Medicine Human Authorised
-
-On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -131,11 +129,11 @@ English (EN) (84.42 KB - PDF)
 
 Hefiya : EPAR - Risk management plan
 
-English (EN) (687.8 KB - PDF)
+English (EN) (821.37 KB - PDF)
 
 **First published:** 06/08/2018
 
-**Last updated:** 11/12/2025
+**Last updated:** 16/02/2026
 
 [View](/en/documents/rmp/hefiya-epar-risk-management-plan_en.pdf)
 
@@ -151,7 +149,7 @@ English (EN) (4.26 MB - PDF)
 
 [View](/en/documents/product-information/hefiya-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-38)
+[Other languages (24)](#file-language-dropdown-864)
 
 български (BG) (4.09 MB - PDF)
 
@@ -467,7 +465,7 @@ English (EN) (83.07 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/hefiya-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-247)
+[Other languages (24)](#file-language-dropdown-111)
 
 български (BG) (95.36 KB - PDF)
 
@@ -939,7 +937,7 @@ English (EN) (92.46 KB - PDF)
 - [Medicines](https://www.ema.europa.eu/en/search?f%5B0%5D=ema_search_topics%3A61)
 - [Paediatrics](https://www.ema.europa.eu/en/search?f%5B0%5D=ema_search_topics%3A65)
 
-**This page was last updated on** 11/12/2025
+**This page was last updated on** 16/02/2026
 
 ## Share this page
 

@@ -1,20 +1,20 @@
 ---
-document_datetime: 2025-10-14 14:40:30
+document_datetime: 2026-02-16 15:55:28
 document_pages: 35
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/vaxelis-epar-product-information_en.pdf
 document_name: vaxelis-epar-product-information_en.pdf
 version: success
-processing_time: 10.4004375
-conversion_datetime: 2025-12-27 14:48:24.584317
+processing_time: 10.6035393
+conversion_datetime: 2026-02-18 17:52:54.464643
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.66.0
-  docling-core: 2.57.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.13.0
+  docling-jobkit: 1.11.0
+  docling: 2.74.0
+  docling-core: 2.65.1
+  docling-ibm-models: 3.11.0
+  docling-parse: 5.3.2
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.3-arm64-arm-64bit-Mach-O
 ---
 ## ANNEX I
 
@@ -464,7 +464,7 @@ Merck Sharp &amp; Dohme LLC 770 Sumneytown Pike West Point, PA 19486 USA
 
 Sanofi Winthrop Industrie 1541 Avenue Marcel Mérieux 69280 Marcy l'Etoile France
 
-Sanofi Pasteur Limited 1755 Steeles Avenue West Toronto Ontario M2R 3T4 Canada
+Sanofi Vaccines Canada Ltd. 1755 Steeles Avenue West Toronto Ontario M2R 3T4 Canada
 
 Name and address of the manufacturer responsible for batch release
 
@@ -847,9 +847,9 @@ PC SN NN
 
 <div style=\"page-break-after: always\"></div>
 
-| MINIMUMPARTICULARS TO APPEARON SMALL IMMEDIATE PACKAGINGUNITS   |
-|-----------------------------------------------------------------|
-| Label - Prefilled Syringe                                       |
+| MINIMUMPARTICULARS TO APPEARONSMALLIMMEDIATE PACKAGINGUNITS   |
+|---------------------------------------------------------------|
+| Label - Prefilled Syringe                                     |
 
 | 1.   | NAMEOFTHEMEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION   |
 |------|-------------------------------------------------------------|
@@ -900,7 +900,7 @@ Diphtheria, tetanus, pertussis (acellular, component), hepatitis B (rDNA), polio
 
 ## What is in this leaflet
 
-1. What Vaxelis is and what it is used f or
+1. What Vaxelis is and what it is used for
 2. What you need to know before Vaxelis is given to your child
 3. How to use Vaxelis
 4. Possible side effects
@@ -1139,9 +1139,7 @@ For any information about this medicine, please contact the local representative
 
 ## België/Belgique/Belgien
 
-MSD Belgium
-
-Tél/Tel: +32(0)27766211 dpoc\\_belux@msd.com
+MSD Belgium Tél/Tel: +32(0)27766211 dpoc\\_belux@msd.com
 
 ## /Beъл/geа/erи/ia
 
@@ -1157,9 +1155,7 @@ Tel.: +420 277 050 000 dpoc\\_czechslovak@msd.com
 
 MSD Danmark ApS
 
-Tlf.: +45 4482 4000
-
-dkmail@msd.com
+Tlf.: +45 4482 4000 dkmail@msd.com
 
 ## Deutschland
 
@@ -1167,11 +1163,7 @@ MSD Sharp &amp; Dohme GmbH Tel.: +49 (0) 89 20 300 4500 medinfo@msd.de
 
 ## Eesti
 
-Merck Sharp &amp; Dohme OÜ
-
-Tel.: +372 614 4200
-
-dpoc.estonia@msd.com
+Merck Sharp &amp; Dohme OÜ Tel.: +372 614 4200 dpoc.estonia@msd.com
 
 ## Ελλάδα
 
@@ -1183,11 +1175,7 @@ dpoc.greece@msd.com
 
 ## España
 
-Merck Sharp &amp; Dohme de España, S.A.
-
-Tel: +34 91 321 06 00
-
-msd\\_info@msd.com
+Merck Sharp &amp; Dohme de España, S.A. Tel: +34 91 321 06 00 msd\\_info@msd.com
 
 ## Lietuva
 
@@ -1211,37 +1199,23 @@ Merck Sharp &amp; Dohme Cyprus Limited Tel: 8007 4433 (+356 99917558) dpoccyprus
 
 ## Nederland
 
-Merck Sharp &amp; Dohme B.V.
-
-Tel: 0800 9999000
-
-(+31 23 5153153)
-
-medicalinfo.nl@msd.com
+Merck Sharp &amp; Dohme B.V. Tel: 0800 9999000 (+31 23 5153153) medicalinfo.nl@msd.com
 
 ## Norge
 
 MSD (Norge) AS
 
-Tlf: +47 32 20 73 00
-
-medinfo.norway@msd.com
+Tlf: +47 32 20 73 00 medinfo.norway@msd.com
 
 ## Österreich
 
-Merck Sharp &amp; Dohme Ges.m.b.H.
-
-Tel: +43 (0) 1 26 044
-
-dpoc\\_austria@msd.com
+Merck Sharp &amp; Dohme Ges.m.b.H. Tel: +43 (0) 1 26 044 dpoc\\_austria@msd.com
 
 ## Polska
 
 MSD Polska Sp. z o.o.
 
-Tel.: +48 22 549 51 00
-
-msdpolska@msd.com
+Tel.: +48 22 549 51 00 msdpolska@msd.com
 
 <div style=\"page-break-after: always\"></div>
 
@@ -1253,11 +1227,17 @@ Tél: + 33 (0) 1 80 46 40 40
 
 ## Hrvatska
 
-Merck Sharp &amp; Dohme d.o.o. Tel: + 385 1 66 11 333 dpoc.croatia@msd.com
+Merck Sharp &amp; Dohme d.o.o.
+
+Tel: + 385 1 66 11 333
+
+dpoc.croatia@msd.com
 
 ## Ireland
 
-Merck Sharp &amp; Dohme Ireland (Human Health) Limited Tel: +353 (0)1 2998700 medinfo\\_ireland@msd.com
+Merck Sharp &amp; Dohme Ireland (Human
+
+Health) Limited Tel: +353 (0)1 2998700 medinfo\\_ireland@msd.com
 
 ## Ísland
 
@@ -1277,7 +1257,9 @@ dpoc.italy@msd.com
 
 Merck Sharp &amp; Dohme Cyprus Limited
 
-Τηλ.: 800 00 673 (+357 22866700) dpoccyprus@msd.com
+Τηλ.: 800 00 673 (+357 22866700)
+
+dpoccyprus@msd.com
 
 ## Latvija
 
@@ -1303,13 +1285,19 @@ The suspension should be visually inspected, prior to administration, for foreig
 
 ## Portugal
 
-Merck Sharp &amp; Dohme, Lda Tel: +351 21 4465700 inform\\_pt@msd.com
+Merck Sharp &amp; Dohme, Lda
+
+Tel: +351 21 4465700
+
+inform\\_pt@msd.com
 
 ## România
 
 Merck Sharp &amp; Dohme Romania S.R.L.
 
-Tel: +40 21 529 29 00 msdromania@msd.com
+Tel: +40 21 529 29 00
+
+msdromania@msd.com
 
 ## Slovenija
 
@@ -1319,7 +1307,9 @@ Merck Sharp &amp; Dohme, inovativna zdravila d.o.o. Tel: +386 1 520 4201 msd.slo
 
 Merck Sharp &amp; Dohme, s. r. o.
 
-Tel: +421 2 58282010 dpoc\\_czechslovak@msd.com
+Tel: +421 2 58282010
+
+dpoc\\_czechslovak@msd.com
 
 ## Suomi/Finland
 

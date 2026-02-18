@@ -1,20 +1,20 @@
 ---
-document_datetime: 2025-12-29 09:26:50
+document_datetime: 2026-02-16 14:42:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/dovato.html
 document_name: dovato.html
 version: success
-processing_time: 0.1150039
-conversion_datetime: 2025-12-30 03:38:14.466966
+processing_time: 0.1083231
+conversion_datetime: 2026-02-18 17:44:46.673675
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.66.0
-  docling-core: 2.57.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.13.0
+  docling-jobkit: 1.11.0
+  docling: 2.74.0
+  docling-core: 2.65.1
+  docling-ibm-models: 3.11.0
+  docling-parse: 5.3.2
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.3-arm64-arm-64bit-Mach-O
 ---
 # Dovato
 
@@ -25,8 +25,6 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 dolutegravir / lamivudine Medicine Human Authorised
-
-On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -111,7 +109,7 @@ English (EN) (121.73 KB - PDF)
 
 [View](/en/documents/overview/dovato-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-486)
+[Other languages (22)](#file-language-dropdown-153)
 
 български (BG) (145.44 KB - PDF)
 
@@ -399,7 +397,7 @@ English (EN) (826.94 KB - PDF)
 
 [View](/en/documents/product-information/dovato-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-644)
+[Other languages (24)](#file-language-dropdown-618)
 
 български (BG) (928.77 KB - PDF)
 
@@ -715,7 +713,7 @@ English (EN) (65.57 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/dovato-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-507)
+[Other languages (24)](#file-language-dropdown-329)
 
 български (BG) (62.96 KB - PDF)
 
@@ -1035,7 +1033,7 @@ ViiV Healthcare B.V.
 
 Van Asch van Wijckstraat 55 H
 
-Opinion adopted 26/04/2019 Marketing authorisation issued 01/07/2019 Revision 19
+Opinion adopted 26/04/2019 Marketing authorisation issued 01/07/2019 Revision 20
 
 ## Assessment history
 
@@ -1064,6 +1062,18 @@ English (EN) (268.37 KB - PDF)
 **Last updated:** 26/09/2025
 
 [View](/en/documents/procedural-steps-after/dovato-epar-procedural-steps-taken-scientific-information-after-authorisation-archive_en.pdf)
+
+Dovato-PAM-0000309558 : EPAR - Assessment report
+
+Adopted
+
+Reference Number: EMADOC-1700519818-2594576
+
+English (EN) (608.91 KB - PDF)
+
+**First published:** 16/02/2026
+
+[View](/en/documents/variation-report/dovato-pam-0000309558-epar-assessment-report_en.pdf)
 
 Dovato-H-C-PSUSA-00010075-202001 : EPAR - Scientific conclusions and grounds for the variation to the terms of the marketing authorisation
 
@@ -1113,7 +1123,7 @@ English (EN) (107.01 KB - PDF)
 
 - [Medicines](https://www.ema.europa.eu/en/search?f%5B0%5D=ema_search_topics%3A61)
 
-**This page was last updated on** 14/11/2025
+**This page was last updated on** 16/02/2026
 
 ## Share this page
 

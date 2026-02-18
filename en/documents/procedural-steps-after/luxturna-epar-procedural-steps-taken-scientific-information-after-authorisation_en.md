@@ -1,80 +1,58 @@
 ---
-document_datetime: 2025-10-21 12:39:26
+document_datetime: 2026-02-16 14:13:38
 document_pages: 5
 document_pathfilename: www.ema.europa.eu/en/documents/procedural-steps-after/luxturna-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf
 document_name: luxturna-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf
 version: success
-processing_time: 7.82989
-conversion_datetime: 2025-12-25 01:55:41.477307
+processing_time: 3.2057577
+conversion_datetime: 2026-02-18 17:50:10.225607
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.66.0
-  docling-core: 2.57.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.13.0
+  docling-jobkit: 1.11.0
+  docling: 2.74.0
+  docling-core: 2.65.1
+  docling-ibm-models: 3.11.0
+  docling-parse: 5.3.2
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.3-arm64-arm-64bit-Mach-O
 ---
 ## Luxturna
 
 Procedural steps taken and scientific information after the authorisation*
 
-*Due to the Agency' s update of its procedure management systems, an additional document, reflecting the historical lifecycle may be available in the 'Assessmenthistory'section.Forthe completeproductlifecycleprocedures,youmayneed to alsorefer toEPAR-Procedural steps taken and scientific information after authorisation (archive).
+*Due to the Agency`s update of its procedure management systems, an additional document, reflecting the historical lifecycle may be available in the 'Assessment history' section. For the complete product lifecycle procedures, you may need to also refer to EPAR - Procedural steps taken and scientific information after authorisation (archive) .
 
-| Applicationnumber   | Scope                                  | Opinion/ Notification 1 issued on   | Commission Decision Issued²/ amended on   | Product Information affected3   | Summary   |
-|---------------------|----------------------------------------|-------------------------------------|-------------------------------------------|---------------------------------|-----------|
-| Variation type IA / | This was an application for a group of | 20/10/2025                          |                                           | SmPC and PL                     |           |
-
-<!-- image -->
+| Application number   | Scope                                        | Opinion/ Notification 1 issued on   | Commission Decision Issued 2 / amended on   | Product Information affected 3   | Summary   |
+|----------------------|----------------------------------------------|-------------------------------------|---------------------------------------------|----------------------------------|-----------|
+| Variation type IB /  | C.I.11 Introduction of, or change(s) to, the | 13/02/2026                          |                                             |                                  |           |
 
 <!-- image -->
 
-<div style=\"page-break-after: always\"></div>
-
-| EMA/VR/0000306868                     | variations.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             |            |     |
-|---------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------|-----|
-|                                       | A.5Changeinthename and/oraddress of a manufacturer/importer of the finished product (including batch release or quality control testing sites)-A.5.bThe activities for which the manufacturer/importer is responsible do not include batch release - Accepted A.ADMINISTRATIVECHANGES-A.7 Deletionofmanufacturingsitesforan active substance,intermediate orfinishedproduct, packaging site,manufacturerresponsiblefor batchrelease,sitewherebatchcontrol takes place,orsupplierofastartingmaterial, reagent or excipient(when mentioned in the dossier)*-Accepted B.III.1.bEuropeanPharmacopoeialTSE Certificateofsuitabilityfor anactive substance/startingmaterial/reagent/ intermediate/or excipient-B.IlI1.1.b.3 Updatedcertificatefrom an already |            |     |
-| Variation type IB / EMA/VR/0000295473 | Thiswas an applicationfor a group of variations. B.I.b.2 Change in test procedure for active substanceorstarting material/reagent/intermediateusedinthe                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 | 12/09/2025 | N/A |
+<!-- image -->
 
 <div style=\"page-break-after: always\"></div>
 
-|                                       | manufacturingprocessofthe active substance-B.I.b.2.e Other changes to a test procedure (including replacement or addition)fortheactivesubstanceora startingmaterial/intermediate-Accepted B.I.b.2 Change in test procedure for active substance or starting material/reagent/intermediateusedinthe manufacturingprocess of the active substance-B.1.b.2.e Other changes to a test procedure(includingreplacementor addition)forthe activesubstanceora startingmaterial/intermediate-Accepted   |            |     |
-|---------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------|-----|
-| PASS/EMA/PASS/0000263977              |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                | 05/06/2025 | N/A |
-| Variation typeIB/ EMA/VR/0000268133   | B.II.b.3 Change in the manufacturing process of the finished product, including an intermediateused inthemanufacture of the finishedproduct-B.II.b.3.z Other changes- Accepted                                                                                                                                                                                                                                                                                                                 | 28/05/2025 | N/A |
-| Variation type IB / EMA/VR/0000255122 | This was an applicationfor a group of variations. B.I.b.1 Change in the specification parameters and/or limits of an active substance,startingmaterial/intermediate/                                                                                                                                                                                                                                                                                                                           | 09/04/2025 | N/A |
+| EMA/VR/0000315168                     | obligations and conditions of a marketing authorisation, including the risk management plan - C.I.11.z Other RMP changes (e.g. agreed wording + template change) - Accepted C.I.11.z - to provide an updated Risk Management Plan (RMP).                                                                                                                                                                                                                                                                                                                                                                            |            |             |                   |
+|---------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------|-------------|-------------------|
+| Variation type IB /                   | This was an application for a group of variations. B.I.a.4 Change to in-process tests or limits applied during the manufacture of the active substance - B.I.a.4.a Tightening of in- process limits - Accepted B.I.b.1 Change in the specification parameters and/or limits of an active substance, starting material / intermediate / reagent used in the manufacturing process of the active substance - B.I.b.1.b Tightening of specification limits - Accepted B.II.d.1 Change in the specification parameters and/or limits of the finished product - B.II.d.1.a Tightening of specification limits - Accepted | 27/01/2026 |             | EMA/VR/0000322706 |
+| Variation type IA / EMA/VR/0000306868 | This was an application for a group of variations. A.5 Change in the name and/or address of a                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       | 20/10/2025 | SmPC and PL |                   |
 
 <div style=\"page-break-after: always\"></div>
 
-| reagent used in themanufacturingprocess changes-Accepted                  |
-|---------------------------------------------------------------------------|
-| of the active substance-B.I.b.1.z Other                                   |
-| B.1.b.1 Change in the specification parameters and/or limits of an active |
-| substance, starting material / intermediate /                             |
-| reagentused inthemanufacturingprocess                                     |
-| of the active substance-B.I.b.1.z Other                                   |
-| changes-Accepted                                                          |
-| B.1.b.1 Change in the specification                                       |
-| parameters and/or limits of an active                                     |
-| substance,startingmaterial/intermediate/                                  |
-| reagent used in themanufacturingprocess                                   |
-| of the active substance-B.I.b.1.zOther                                    |
-| changes-Accepted                                                          |
-| B.III.1.bEuropeanPharmacopoeialTSE                                        |
-| Certificateofsuitabilityfor anactive                                      |
-| substance/startingmaterial/reagent/                                       |
-| intermediate/or excipient - B.II1.1.b.3                                   |
-| Updated certificate from an already                                       |
-| approved manufacturer-Accepted                                            |
-| B.Ill.1.bEuropeanPharmacopoeialTSE                                        |
-| Certificateofsuitabilityforanactive                                       |
-| substance/startingmaterial/reagent/                                       |
-| intermediate/or excipient-B.1l1.1.b.3                                     |
-| Updatedcertificatefrom an already                                         |
-| approved manufacturer-Accepted                                            |
+|                                       | manufacturer/importer of the finished product (including batch release or quality control testing sites) - A.5.b The activities for which the manufacturer/importer is responsible do not include batch release - Accepted A. ADMINISTRATIVE CHANGES - A.7 Deletion of manufacturing sites for an active substance, intermediate or finished product, packaging site, manufacturer responsible for batch release, site where batch control takes place, or supplier of a starting material, reagent or excipient (when mentioned in the dossier)* - Accepted B.III.1.b European Pharmacopoeial TSE Certificate of suitability for an active substance/starting material/reagent/ intermediate/or excipient - B.III.1.b.3 Updated certificate from an already   |            |
+|---------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------|
+| Variation type IB / EMA/VR/0000295473 | This was an application for a group of variations. B.I.b.2 Change in test procedure for active substance or starting material/reagent/intermediate used in the manufacturing process of the active substance - B.I.b.2.e Other changes to a test procedure (including replacement or addition) for the active substance or a starting material/intermediate - Accepted                                                                                                                                                                                                                                                                                                                                                                                         | 12/09/2025 |
 
 <div style=\"page-break-after: always\"></div>
 
-| B.III.1.bEuropeanPharmacopoeialTSE Certificate of suitability for an active substance/startingmaterial/reagent/ intermediate/or excipient - B.II1.1.b.3 Updated certificate from an already approved manufacturer-Accepted   |
-|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+|                                       | B.I.b.2 Change in test procedure for active substance or starting material/reagent/intermediate used in the manufacturing process of the active substance - B.I.b.2.e Other changes to a test procedure (including replacement or addition) for the active substance or a starting material/intermediate - Accepted                                                                                       |            |                   |
+|---------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------|-------------------|
+| PASS / EMA/PASS/0000263977            |                                                                                                                                                                                                                                                                                                                                                                                                           | 05/06/2025 |                   |
+| Variation type IB / EMA/VR/0000268133 | B.II.b.3 Change in the manufacturing process of the finished product, including an intermediate used in the manufacture of the finished product - B.II.b.3.z Other changes - Accepted                                                                                                                                                                                                                     | 28/05/2025 |                   |
+| Variation type IB /                   | This was an application for a group of variations. B.I.b.1 Change in the specification parameters and/or limits of an active substance, starting material / intermediate / reagent used in the manufacturing process of the active substance - B.I.b.1.z Other changes - Accepted B.I.b.1 Change in the specification parameters and/or limits of an active substance, starting material / intermediate / | 09/04/2025 | EMA/VR/0000255122 |
+
+<div style=\"page-break-after: always\"></div>
+
+|                            | of the active substance - B.I.b.1.z Other changes - Accepted B.I.b.1 Change in the specification parameters and/or limits of an active substance, starting material / intermediate reagent used in the manufacturing process of the active substance - B.I.b.1.z Other changes - Accepted B.III.1.b European Pharmacopoeial TSE Certificate of suitability for an active substance/starting material/reagent/ intermediate/or excipient - B.III.1.b.3 Updated certificate from an already approved manufacturer - Accepted B.III.1.b European Pharmacopoeial TSE Certificate of suitability for an active substance/starting material/reagent/ intermediate/or excipient - B.III.1.b.3 Updated certificate from an already approved manufacturer - Accepted B.III.1.b European Pharmacopoeial TSE Certificate of suitability for an active substance/starting material/reagent/ intermediate/or excipient - B.III.1.b.3   |             |
+|----------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------|
+| PSUR / EMA/PSUR/0000305077 |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           | Maintenance |

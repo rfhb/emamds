@@ -1,20 +1,20 @@
 ---
-document_datetime: 2025-12-29 11:26:15
+document_datetime: 2026-02-16 16:00:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/vaxelis.html
 document_name: vaxelis.html
 version: success
-processing_time: 0.11534
-conversion_datetime: 2025-12-30 09:23:45.234353
+processing_time: 0.1101822
+conversion_datetime: 2026-02-18 17:55:00.232574
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.66.0
-  docling-core: 2.57.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.13.0
+  docling-jobkit: 1.11.0
+  docling: 2.74.0
+  docling-core: 2.65.1
+  docling-ibm-models: 3.11.0
+  docling-parse: 5.3.2
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.3-arm64-arm-64bit-Mach-O
 ---
 # Vaxelis
 
@@ -25,8 +25,6 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 diphtheria, tetanus, pertussis (acellular, component), hepatitis B (rDNA), poliomyelitis (inactivated) and Haemophilus type b conjugate vaccine (adsorbed) Medicine Human Authorised
-
-On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -121,7 +119,7 @@ English (EN) (83.73 KB - PDF)
 
 [View](/en/documents/overview/vaxelis-epar-summary-public_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-428)
+[Other languages (22)](#file-language-dropdown-626)
 
 български (BG) (110.58 KB - PDF)
 
@@ -401,17 +399,17 @@ English (EN) (47.23 KB - PDF)
 
 Vaxelis : EPAR - Product information
 
-English (EN) (286.06 KB - PDF)
+English (EN) (277 KB - PDF)
 
 **First published:** 26/02/2016
 
-**Last updated:** 03/12/2025
+**Last updated:** 16/02/2026
 
 [View](/en/documents/product-information/vaxelis-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-362)
+[Other languages (24)](#file-language-dropdown-29)
 
-български (BG) (280.12 KB - PDF)
+български (BG) (280.67 KB - PDF)
 
 **First published:**
 
@@ -419,11 +417,11 @@ English (EN) (286.06 KB - PDF)
 
 **Last updated:**
 
-14/10/2025
+16/02/2026
 
 [View](/bg/documents/product-information/vaxelis-epar-product-information_bg.pdf)
 
-español (ES) (319.25 KB - PDF)
+español (ES) (325.89 KB - PDF)
 
 **First published:**
 
@@ -431,11 +429,11 @@ español (ES) (319.25 KB - PDF)
 
 **Last updated:**
 
-14/10/2025
+16/02/2026
 
 [View](/es/documents/product-information/vaxelis-epar-product-information_es.pdf)
 
-čeština (CS) (298.25 KB - PDF)
+čeština (CS) (299.44 KB - PDF)
 
 **First published:**
 
@@ -443,11 +441,11 @@ español (ES) (319.25 KB - PDF)
 
 **Last updated:**
 
-03/12/2025
+16/02/2026
 
 [View](/cs/documents/product-information/vaxelis-epar-product-information_cs.pdf)
 
-dansk (DA) (300.4 KB - PDF)
+dansk (DA) (299.53 KB - PDF)
 
 **First published:**
 
@@ -455,11 +453,11 @@ dansk (DA) (300.4 KB - PDF)
 
 **Last updated:**
 
-14/10/2025
+16/02/2026
 
 [View](/da/documents/product-information/vaxelis-epar-product-information_da.pdf)
 
-Deutsch (DE) (323.97 KB - PDF)
+Deutsch (DE) (318.27 KB - PDF)
 
 **First published:**
 
@@ -467,11 +465,11 @@ Deutsch (DE) (323.97 KB - PDF)
 
 **Last updated:**
 
-14/10/2025
+16/02/2026
 
 [View](/de/documents/product-information/vaxelis-epar-product-information_de.pdf)
 
-eesti keel (ET) (297.26 KB - PDF)
+eesti keel (ET) (295.54 KB - PDF)
 
 **First published:**
 
@@ -479,11 +477,11 @@ eesti keel (ET) (297.26 KB - PDF)
 
 **Last updated:**
 
-14/10/2025
+16/02/2026
 
 [View](/et/documents/product-information/vaxelis-epar-product-information_et.pdf)
 
-ελληνικά (EL) (297.98 KB - PDF)
+ελληνικά (EL) (307.08 KB - PDF)
 
 **First published:**
 
@@ -491,11 +489,11 @@ eesti keel (ET) (297.26 KB - PDF)
 
 **Last updated:**
 
-14/10/2025
+16/02/2026
 
 [View](/el/documents/product-information/vaxelis-epar-product-information_el.pdf)
 
-français (FR) (322.08 KB - PDF)
+français (FR) (348.12 KB - PDF)
 
 **First published:**
 
@@ -503,11 +501,11 @@ français (FR) (322.08 KB - PDF)
 
 **Last updated:**
 
-14/10/2025
+16/02/2026
 
 [View](/fr/documents/product-information/vaxelis-epar-product-information_fr.pdf)
 
-hrvatski (HR) (307.54 KB - PDF)
+hrvatski (HR) (307.93 KB - PDF)
 
 **First published:**
 
@@ -515,11 +513,11 @@ hrvatski (HR) (307.54 KB - PDF)
 
 **Last updated:**
 
-14/10/2025
+16/02/2026
 
 [View](/hr/documents/product-information/vaxelis-epar-product-information_hr.pdf)
 
-íslenska (IS) (296.72 KB - PDF)
+íslenska (IS) (303.63 KB - PDF)
 
 **First published:**
 
@@ -527,11 +525,11 @@ hrvatski (HR) (307.54 KB - PDF)
 
 **Last updated:**
 
-14/10/2025
+16/02/2026
 
 [View](/is/documents/product-information/vaxelis-epar-product-information_is.pdf)
 
-italiano (IT) (310.48 KB - PDF)
+italiano (IT) (310.87 KB - PDF)
 
 **First published:**
 
@@ -539,11 +537,11 @@ italiano (IT) (310.48 KB - PDF)
 
 **Last updated:**
 
-14/10/2025
+16/02/2026
 
 [View](/it/documents/product-information/vaxelis-epar-product-information_it.pdf)
 
-latviešu valoda (LV) (256.88 KB - PDF)
+latviešu valoda (LV) (257.76 KB - PDF)
 
 **First published:**
 
@@ -551,11 +549,11 @@ latviešu valoda (LV) (256.88 KB - PDF)
 
 **Last updated:**
 
-14/10/2025
+16/02/2026
 
 [View](/lv/documents/product-information/vaxelis-epar-product-information_lv.pdf)
 
-lietuvių kalba (LT) (295.73 KB - PDF)
+lietuvių kalba (LT) (297.1 KB - PDF)
 
 **First published:**
 
@@ -563,11 +561,11 @@ lietuvių kalba (LT) (295.73 KB - PDF)
 
 **Last updated:**
 
-14/10/2025
+16/02/2026
 
 [View](/lt/documents/product-information/vaxelis-epar-product-information_lt.pdf)
 
-magyar (HU) (340.35 KB - PDF)
+magyar (HU) (333.82 KB - PDF)
 
 **First published:**
 
@@ -575,11 +573,11 @@ magyar (HU) (340.35 KB - PDF)
 
 **Last updated:**
 
-14/10/2025
+16/02/2026
 
 [View](/hu/documents/product-information/vaxelis-epar-product-information_hu.pdf)
 
-Malti (MT) (311.25 KB - PDF)
+Malti (MT) (312.36 KB - PDF)
 
 **First published:**
 
@@ -587,11 +585,11 @@ Malti (MT) (311.25 KB - PDF)
 
 **Last updated:**
 
-14/10/2025
+16/02/2026
 
 [View](/mt/documents/product-information/vaxelis-epar-product-information_mt.pdf)
 
-Nederlands (NL) (303.42 KB - PDF)
+Nederlands (NL) (302.68 KB - PDF)
 
 **First published:**
 
@@ -599,11 +597,11 @@ Nederlands (NL) (303.42 KB - PDF)
 
 **Last updated:**
 
-14/10/2025
+16/02/2026
 
 [View](/nl/documents/product-information/vaxelis-epar-product-information_nl.pdf)
 
-norsk (NO) (288.8 KB - PDF)
+norsk (NO) (286.94 KB - PDF)
 
 **First published:**
 
@@ -611,11 +609,11 @@ norsk (NO) (288.8 KB - PDF)
 
 **Last updated:**
 
-14/10/2025
+16/02/2026
 
 [View](/no/documents/product-information/vaxelis-epar-product-information_no.pdf)
 
-polski (PL) (316.21 KB - PDF)
+polski (PL) (316.32 KB - PDF)
 
 **First published:**
 
@@ -623,11 +621,11 @@ polski (PL) (316.21 KB - PDF)
 
 **Last updated:**
 
-14/10/2025
+16/02/2026
 
 [View](/pl/documents/product-information/vaxelis-epar-product-information_pl.pdf)
 
-português (PT) (309.97 KB - PDF)
+português (PT) (317.5 KB - PDF)
 
 **First published:**
 
@@ -635,11 +633,11 @@ português (PT) (309.97 KB - PDF)
 
 **Last updated:**
 
-14/10/2025
+16/02/2026
 
 [View](/pt/documents/product-information/vaxelis-epar-product-information_pt.pdf)
 
-română (RO) (304.77 KB - PDF)
+română (RO) (306.1 KB - PDF)
 
 **First published:**
 
@@ -647,11 +645,11 @@ română (RO) (304.77 KB - PDF)
 
 **Last updated:**
 
-14/10/2025
+16/02/2026
 
 [View](/ro/documents/product-information/vaxelis-epar-product-information_ro.pdf)
 
-slovenčina (SK) (311.82 KB - PDF)
+slovenčina (SK) (313.25 KB - PDF)
 
 **First published:**
 
@@ -659,11 +657,11 @@ slovenčina (SK) (311.82 KB - PDF)
 
 **Last updated:**
 
-14/10/2025
+16/02/2026
 
 [View](/sk/documents/product-information/vaxelis-epar-product-information_sk.pdf)
 
-slovenščina (SL) (303.23 KB - PDF)
+slovenščina (SL) (303.06 KB - PDF)
 
 **First published:**
 
@@ -671,11 +669,11 @@ slovenščina (SL) (303.23 KB - PDF)
 
 **Last updated:**
 
-14/10/2025
+16/02/2026
 
 [View](/sl/documents/product-information/vaxelis-epar-product-information_sl.pdf)
 
-Suomi (FI) (300.52 KB - PDF)
+Suomi (FI) (300.17 KB - PDF)
 
 **First published:**
 
@@ -683,11 +681,11 @@ Suomi (FI) (300.52 KB - PDF)
 
 **Last updated:**
 
-14/10/2025
+16/02/2026
 
 [View](/fi/documents/product-information/vaxelis-epar-product-information_fi.pdf)
 
-svenska (SV) (288.73 KB - PDF)
+svenska (SV) (288.06 KB - PDF)
 
 **First published:**
 
@@ -695,11 +693,11 @@ svenska (SV) (288.73 KB - PDF)
 
 **Last updated:**
 
-14/10/2025
+16/02/2026
 
 [View](/sv/documents/product-information/vaxelis-epar-product-information_sv.pdf)
 
-**Latest procedure affecting product information:** VR/0000266450 18/09/2025
+**Latest procedure affecting product information:** VR/0000323852 13/02/2026
 
 icon globe
 
@@ -725,7 +723,7 @@ English (EN) (29.09 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/vaxelis-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-881)
+[Other languages (24)](#file-language-dropdown-632)
 
 български (BG) (42 KB - PDF)
 
@@ -1052,7 +1050,7 @@ MCM Vaccine B.V.
 
 Robert Boyleweg 4
 
-Opinion adopted 17/12/2015 Marketing authorisation issued 15/02/2016 Revision 17
+Opinion adopted 17/12/2015 Marketing authorisation issued 15/02/2016 Revision 18
 
 ## Assessment history
 
@@ -1064,9 +1062,11 @@ Collapse section
 
 Vaxelis : EPAR - Procedural steps taken and scientific information after authorisation
 
-English (EN) (154.47 KB - PDF)
+English (EN) (152.88 KB - PDF)
 
 **First published:** 14/10/2025
+
+**Last updated:** 16/02/2026
 
 [View](/en/documents/procedural-steps-after/vaxelis-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf)
 
@@ -1143,7 +1143,7 @@ English (EN) (69.59 KB - PDF)
 - [Medicines](https://www.ema.europa.eu/en/search?f%5B0%5D=ema_search_topics%3A61)
 - [Vaccines](https://www.ema.europa.eu/en/search?f%5B0%5D=ema_search_topics%3A76)
 
-**This page was last updated on** 14/10/2025
+**This page was last updated on** 16/02/2026
 
 ## Share this page
 

@@ -1,20 +1,20 @@
 ---
-document_datetime: 2026-01-07 16:25:00
+document_datetime: 2026-02-16 16:49:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/lunsumio.html
 document_name: lunsumio.html
 version: success
-processing_time: 0.1266451
-conversion_datetime: 2026-01-10 11:09:49.109999
+processing_time: 0.10815
+conversion_datetime: 2026-02-18 17:55:14.17988
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.1
-  docling: 2.67.0
-  docling-core: 2.58.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.13.0
+  docling-jobkit: 1.11.0
+  docling: 2.74.0
+  docling-core: 2.65.1
+  docling-ibm-models: 3.11.0
+  docling-parse: 5.3.2
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.3-arm64-arm-64bit-Mach-O
 ---
 # Lunsumio
 
@@ -25,8 +25,6 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 mosunetuzumab Medicine Human Authorised
-
-On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -50,7 +48,7 @@ Lunsumio is a cancer medicine used to treat adults with follicular lymphoma that
 
 Follicular lymphoma is a cancer that affects a type of white blood cell called B lymphocytes.
 
-Follicular lymphoma is rare, and Lunsumio was designated an 'orphan medicine' (a medicine used in rare diseases) on 16 November 2021. Further information on the orphan designation can be found on the EMA [website](https://ema.europa.eu/medicines/human/orphan-designations/EU3212517) .
+Follicular lymphoma is rare, and Lunsumio was designated an 'orphan medicine' (a medicine used in rare diseases) on 16 November 2021.
 
 Lunsumio contains the active substance mosunetuzumab.
 
@@ -124,7 +122,7 @@ English (EN) (126.18 KB - PDF)
 
 [View](/en/documents/overview/lunsumio-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-977)
+[Other languages (22)](#file-language-dropdown-927)
 
 български (BG) (149.6 KB - PDF)
 
@@ -410,7 +408,7 @@ English (EN) (255.36 KB - PDF)
 
 [View](/en/documents/product-information/lunsumio-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-314)
+[Other languages (24)](#file-language-dropdown-537)
 
 български (BG) (877.14 KB - PDF)
 
@@ -726,7 +724,7 @@ English (EN) (61.31 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/lunsumio-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-487)
+[Other languages (24)](#file-language-dropdown-217)
 
 български (BG) (41.44 KB - PDF)
 
@@ -1071,6 +1069,18 @@ English (EN) (165.43 KB - PDF)
 
 [View](/en/documents/procedural-steps-after/lunsumio-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf)
 
+Lunsumio-H-C-005680-X-0015 : EPAR - Assessment report - Variation
+
+Adopted
+
+Reference Number: EMA/CHMP/289782/2025
+
+English (EN) (8.49 MB - PDF)
+
+**First published:** 16/02/2026
+
+[View](/en/documents/variation-report/lunsumio-h-c-005680-x-0015-epar-assessment-report-variation_en.pdf)
+
 CHMP post-authorisation summary of positive opinion for Lunsumio (X-15)
 
 Adopted
@@ -1149,7 +1159,7 @@ English (EN) (125.71 KB - PDF)
 
 - [EU/3/21/2517 - orphan designation for treatment of follicular lymphoma](/en/medicines/human/orphan-designations/eu-3-21-2517)
 
-**This page was last updated on** 07/01/2026
+**This page was last updated on** 16/02/2026
 
 ## Share this page
 

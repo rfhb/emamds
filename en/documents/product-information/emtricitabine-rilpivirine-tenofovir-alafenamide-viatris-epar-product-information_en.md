@@ -1,24 +1,22 @@
 ---
-document_datetime: 2025-09-25 09:42:16
+document_datetime: 2026-02-13 15:17:55
 document_pages: 58
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/emtricitabine-rilpivirine-tenofovir-alafenamide-viatris-epar-product-information_en.pdf
 document_name: emtricitabine-rilpivirine-tenofovir-alafenamide-viatris-epar-product-information_en.pdf
 version: success
-processing_time: 16.1833622
-conversion_datetime: 2025-12-28 03:34:21.268538
+processing_time: 15.2534472
+conversion_datetime: 2026-02-18 17:54:32.509508
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.66.0
-  docling-core: 2.57.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.13.0
+  docling-jobkit: 1.11.0
+  docling: 2.74.0
+  docling-core: 2.65.1
+  docling-ibm-models: 3.11.0
+  docling-parse: 5.3.2
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.3-arm64-arm-64bit-Mach-O
 ---
-## ANNEX I
-
-## SUMMARY OF PRODUCT CHARACTERISTICS
+## ANNEX I SUMMARY OF PRODUCT CHARACTERISTICS
 
 <div style=\"page-break-after: always\"></div>
 
@@ -206,7 +204,7 @@ Medicinal products that decrease renal function may increase concentrations of e
 
 ## Rilpivirine
 
-Rilpivirine is primarily metabolised by CYP3A. Medicinal products that induce or inhibit CYP3A may thus affect the clearance of rilpivirine (see section 5.2). Rilpivirine inhibits P-glycoprotein (Pgp) in vitro (50% inhibitory concentration [IC50] is 9.2 µM). In a clinical study, rilpivirine did not significantly affect the pharmacokinetics of digoxin. Additionally, in a clinical drug-drug interaction study with tenofovir alafenamide, which is more sensitive to intestinal P-gp inhibition, rilpivirine did not affect tenofovir alafenamide exposures when administered concurrently, indicating that rilpivirine is not a P-gp inhibitor in vivo.
+Rilpivirine is primarily metabolised by CYP3A. Medicinal products that induce or inhibit CYP3A may thus affect the clearance of rilpivirine (see section 5.2). Rilpivirine inhibits P-glycoprotein (Pgp) in vitro (50% inhibitory concentration [IC 50 ] is 9.2 µM). In a clinical study, rilpivirine did not significantly affect the pharmacokinetics of digoxin. Additionally, in a clinical drug-drug interaction study with tenofovir alafenamide, which is more sensitive to intestinal P-gp inhibition, rilpivirine did not affect tenofovir alafenamide exposures when administered concurrently, indicating that rilpivirine is not a P-gp inhibitor in vivo.
 
 Rilpivirine is an in vitro inhibitor of the transporter MATE-2K with an IC50 of &lt; 2.7 nM. The clinical implications of this finding are currently unknown.
 
@@ -244,38 +242,38 @@ Interactions between Emtricitabine/Rilpivirine/Tenofovir Alafenamide or its indi
 
 Table 1: Interactions between Emtricitabine/Rilpivirine/Tenofovir Alafenamide or its individual component(s) and other medicinal products
 
-| Medicinal productby therapeutic areas   | Effectsonmedicinalproductlevels. Mean percent change in AUC, C max ,C min   | Recommendation concerning co- administration with Emtricitabine/Rilpivirine/Tenofovir Alafenamide   |
-|-----------------------------------------|-----------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------|
-| ANTI-INFECTIVES                         | ANTI-INFECTIVES                                                             | ANTI-INFECTIVES                                                                                     |
-| Antifungals                             | Antifungals                                                                 | Antifungals                                                                                         |
+| Medicinal product by therapeutic areas   | Effects on medicinal product levels. Mean percent change in AUC, C max , C min   | Recommendation concerning co- administration with Emtricitabine/Rilpivirine/Tenofovir Alafenamide   |
+|------------------------------------------|----------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------|
+| ANTI-INFECTIVES                          | ANTI-INFECTIVES                                                                  | ANTI-INFECTIVES                                                                                     |
+| Antifungals                              | Antifungals                                                                      | Antifungals                                                                                         |
 
 <div style=\"page-break-after: always\"></div>
 
-| Ketoconazole(400mgonce daily)/ Rilpivirine 1       | Ketoconazole: AUC: ↓ 24% C min : ↓ 66% C max :↔ Rilpivirine: AUC: ↑ 49% C min : ↑ 76% C max : ↑ 30% Inhibition of CYP3A Expected: Tenofovir alafenamide: AUC: ↑ C max : ↑ Inhibition of P-gp Interactionnotstudied with tenofovir alafenamide. Co-administrationof ketoconazole is expected to increase plasma concentrations of tenofovir   | Co-administration is not recommended.   |
-|----------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------|
-| Fluconazole Itraconazole Posaconazole Voriconazole | Interaction not studied with any of the components of Emtricitabine/Rilpivirine/Tenofovir alafenamide. Co-administration of these antifungalagents is expected to increase plasma concentrations of rilpivirine (inhibition of CYP3A)and tenofoviralafenamide (inhibition of P-gp).                                                          | Co-administration is not recommended.   |
-| Antimycobacterials                                 | Antimycobacterials                                                                                                                                                                                                                                                                                                                           | Antimycobacterials                      |
+| Ketoconazole (400 mg once daily)/ Rilpivirine 1    | Ketoconazole: AUC: ↓ 24% C min : ↓ 66% C max :↔ Rilpivirine: AUC: ↑ 49% C min : ↑ 76% C max : ↑ 30% Inhibition of CYP3A Expected: Tenofovir alafenamide: AUC: ↑ C max : ↑ Inhibition of P-gp Interaction not studied with tenofovir alafenamide. Co-administration of ketoconazole is expected to increase plasma concentrations of tenofovir alafenamide (inhibition of P-gp).   | Co-administration is not recommended.   |
+|----------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------|
+| Fluconazole Itraconazole Posaconazole Voriconazole | Interaction not studied with any of the components of Emtricitabine/Rilpivirine/Tenofovir alafenamide. Co-administration of these antifungal agents is expected to increase plasma concentrations of rilpivirine (inhibition of CYP3A) and tenofovir alafenamide (inhibition of P-gp).                                                                                            | Co-administration is not recommended.   |
+| Antimycobacterials                                 | Antimycobacterials                                                                                                                                                                                                                                                                                                                                                                | Antimycobacterials                      |
 
 <div style=\"page-break-after: always\"></div>
 
-| Rifampicin/ Rilpivirine   | Rifampicin: AUC:↔ C min : N/A C max :↔ 25-desacetyl-rifampicin: AUC: ↓9% C min : N/A C max : ↔ Rilpivirine: AUC: ↓ 80% C min : ↓ 89% C max : ↓ 69% Induction of CYP3A Expected: Tenofovir alafenamide: AUC: ↓ C max : ↓ Induction of P-gp Interactionnotstudied with tenofovir alafenamide. Co-administration is likely to cause significant decreases in the plasma concentrations of tenofovir   | Co-administrationis contraindicated.   |
-|---------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------|
-| Rifapentine               | alafenamide (induction of P-gp). Interactionnotstudied with anyof the components of Emtricitabine/Rilpivirine/Tenofovir alafenamide. Co-administration is likely to cause significant decreases in the plasma concentrations of rilpivirine (induction ofCYP3A) and tenofovir alafenamide (induction of P-gp).                                                                                     | Co-administrationis contraindicated.   |
+| Rifampicin/ Rilpivirine   | Rifampicin: AUC:↔ C min : N/A C max :↔ 25-desacetyl-rifampicin: AUC:↓9% C min : N/A C max:↔ Rilpivirine: AUC: ↓ 80% C min : ↓ 89% C max : ↓ 69% Induction of CYP3A Expected: Tenofovir alafenamide: AUC: ↓ C max : ↓ Induction of P-gp Interaction not studied with tenofovir alafenamide. Co-administration is likely to cause significant decreases in the plasma concentrations of tenofovir   | Co-administration is contraindicated.   |
+|---------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------|
+| Rifapentine               | alafenamide (induction of P-gp). Interaction not studied with any of the components of Emtricitabine/Rilpivirine/Tenofovir alafenamide. Co-administration is likely to cause significant decreases in the plasma concentrations of rilpivirine (induction of CYP3A) and tenofovir alafenamide (induction of P-gp).                                                                                | Co-administration is contraindicated.   |
 
 <div style=\"page-break-after: always\"></div>
 
-| Rifabutin (300 mgonce daily)/ Rilpivirine 1 Rifabutin (300 mgonce daily)/ Rilpivirine   | Rifabutin: AUC:↔ C min :↔ C max :↔ 25-O-desacetyl-rifabutin: AUC:↔ C min :↔ C max :↔ Rilpivirine: AUC: ↓ 42% C min : ↓ 48% C max : ↓ 31% Induction of CYP3A Expected: Tenofovir alafenamide: AUC: ↓ C max : ↓ Induction of P-gp Interactionnotstudied with tenofovir alafenamide. Co-administration is likely to cause significant decreases in the plasma concentrations of tenofovir alafenamide (induction of P-gp).   | Co-administrationis contraindicated.   |
-|-----------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------|
-| Macrolide antibiotics                                                                   |                                                                                                                                                                                                                                                                                                                                                                                                                           |                                        |
-| Clarithromycin Erythromycin                                                             | Interaction not studied with any of the components of Emtricitabine/Rilpivirine/Tenofovir alafenamide. The combination of Emtricitabine/Rilpivirine/Tenofovir alafenamide with these macrolide antibioticsmay cause an increase in the plasma concentrations of rilpivirine (inhibition of CYP3A)and tenofoviralafenamide (inhibition of P-gp).                                                                           | Co-administration is not recommended.  |
-| Antiviral agents                                                                        | Antiviral agents                                                                                                                                                                                                                                                                                                                                                                                                          | Antiviral agents                       |
+| Rifabutin (300 mg once daily)/ Rilpivirine 1 Rifabutin (300 mg once daily)/ Rilpivirine   | Rifabutin: AUC:↔ C min :↔ C max :↔ 25-O-desacetyl-rifabutin: AUC:↔ C min :↔ C max :↔ Rilpivirine: AUC: ↓ 42% C min : ↓ 48% C max : ↓ 31% Induction of CYP3A Expected: Tenofovir alafenamide: AUC: ↓ C max : ↓ Induction of P-gp Interaction not studied with tenofovir alafenamide. Co-administration is likely to cause significant decreases in the plasma concentrations of tenofovir alafenamide (induction of P-gp).   | Co-administration is contraindicated.   |
+|-------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------|
+| Macrolide antibiotics                                                                     |                                                                                                                                                                                                                                                                                                                                                                                                                             |                                         |
+| Clarithromycin Erythromycin                                                               | Interaction not studied with any of the components of Emtricitabine/Rilpivirine/Tenofovir alafenamide. The combination of Emtricitabine/Rilpivirine/Tenofovir alafenamide with these macrolide antibiotics may cause an increase in the plasma concentrations of rilpivirine (inhibition of CYP3A) and tenofovir alafenamide (inhibition of P-gp).                                                                          | Co-administration is not recommended.   |
+| Antiviral agents                                                                          | Antiviral agents                                                                                                                                                                                                                                                                                                                                                                                                            | Antiviral agents                        |
 
 <div style=\"page-break-after: always\"></div>
 
-| Ledipasvir/Sofosbuvir (90 mg/400 mgonce daily)/ Rilpivirine           | Ledipasvir: AUC: ↑ 2% C min : ↑ 2% C max : ↑ 1% Sofosbuvir: AUC: ↑5% C max : ↓4% Sofosbuvir metabolite GS-331007: AUC: ↑8% C min : ↑10% C max : ↑8% Rilpivirine: AUC: ↓5% C min : ↓ 7% C max : ↓ 3%   | No dose adjustment is required.   |
-|-----------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------|
-| Ledipasvir/Sofosbuvir (90 mg/400 mgonce daily)/ Tenofovir alafenamide | Tenofovir alafenamide: AUC: ↑ 32% C max : ↑ 3%                                                                                                                                                        |                                   |
-| Sofosbuvir/Velpatasvir (400 mg/100 mgonce daily)/ Rilpivirine 2       | Sofosbuvir: AUC:↔ C max :↔ Sofosbuvir metabolite GS-331007: AUC:↔ C min :↔ C max :↔ Velpatasvir: AUC:↔ C min :↔ C max :↔ Rilpivirine: AUC:↔ C min :↔ C max :↔                                         | No dose adjustment is required.   |
+| Ledipasvir/Sofosbuvir (90 mg/400 mg once daily)/ Rilpivirine           | Ledipasvir: AUC: ↑ 2% C min : ↑ 2% C max : ↑ 1% Sofosbuvir: AUC:↑5% C max :↓4% Sofosbuvir metabolite GS-331007: AUC:↑8% C min :↑10% C max :↑8% Rilpivirine: AUC:↓5% C min : ↓ 7% C max : ↓ 3%   | No dose adjustment is required.   |
+|------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------|
+| Ledipasvir/Sofosbuvir (90 mg/400 mg once daily)/ Tenofovir alafenamide | Tenofovir alafenamide: AUC: ↑ 32% C max : ↑ 3%                                                                                                                                                  |                                   |
+| Sofosbuvir/Velpatasvir (400 mg/100 mg once daily)/ Rilpivirine 2       | Sofosbuvir: AUC:↔ C max :↔ Sofosbuvir metabolite GS-331007: AUC:↔ C min :↔ C max :↔ Velpatasvir: AUC:↔ C min :↔ C max :↔ Rilpivirine: AUC:↔ C min :↔ C max :↔                                   | No dose adjustment is required.   |
 
 Sofosbuvir/Velpatasvir/Voxilaprevir (400 mg/100 mg/100 mg + 100 mg once daily) 3 /
 
@@ -283,81 +281,51 @@ Emtricitabine/Rilpivirine/Tenofovir alafenamide (200 mg/25 mg/25 mg once daily)
 
 Sofosbuvir:
 
-AUC:
-
-↔
+AUC: ↔
 
 Cmin: N/A
 
-Cmax:
-
-↔
+Cmax: ↔
 
 Sofosbuvir metabolite GS-331007:
 
-AUC:
-
-↔
+AUC: ↔
 
 Cmin: N/A
 
-Cmax:
-
-↔
+Cmax: ↔
 
 Velpatasvir:
 
-AUC:
+AUC: ↔
 
-↔
+Cmin: ↔
 
-Cmin:
-
-↔
-
-Cmax:
-
-↔
+Cmax: ↔
 
 Voxilaprevir:
 
 AUC: ↔
 
-Cmin:
+Cmin: ↔
 
-↔
-
-Cmax:
-
-↔
+Cmax: ↔
 
 Emtricitabine:
 
-AUC:
+AUC: ↔
 
-↔
+Cmin: ↔
 
-Cmin:
-
-↔
-
-Cmax:
-
-↔
+Cmax: ↔
 
 Rilpivirine:
 
-AUC:
+AUC: ↔
 
-↔
+Cmin: ↔
 
-Cmin:
-
-↔
-
-Cmax:
-
-↔
+Cmax: ↔
 
 Tenofovir alafenamide:
 
@@ -369,7 +337,7 @@ Cmax: ↑ 32%
 
 No dose adjustment is required.
 
-Sofosbuvir  (400 mg once  daily)/ Rilpivirine (25 mg once daily)
+Sofosbuvir (400 mg once daily)/ Rilpivirine (25 mg once daily)
 
 Sofosbuvir:
 
@@ -399,55 +367,54 @@ ANTICONVULSANTS
 
 <div style=\"page-break-after: always\"></div>
 
-| Carbamazepine Oxcarbazepine Phenobarbital Phenytoin                | Interactionnotstudied with anyof the components of Emtricitabine/Rilpivirine/Tenofovir alafenamide.Co-administration may cause significant decreases in the plasma concentrations of rilpivirine (induction ofCYP3A) and tenofovir alafenamide (induction of P-gp).   | Co-administrationis contraindicated.   |
-|--------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------|
-| GLUCOCORTICOIDS                                                    |                                                                                                                                                                                                                                                                       |                                        |
-| Dexamethasone (systemic, except for single dose use)               | Interactionnotstudied with anyof the components of Emtricitabine/Rilpivirine/Tenofovir alafenamide. Significant dose dependent decreases in rilpivirine plasma concentrations are expected (induction of CYP3A).                                                      | Co-administrationis contraindicated.   |
-| PROTONPUMP INHIBITORS                                              |                                                                                                                                                                                                                                                                       |                                        |
-| Omeprazole (20 mgonce daily)/ Rilpivirine 1                        | Omeprazole: AUC: ↓14% C min : N/A C max : ↓14% Rilpivirine: AUC: ↓40% C min : ↓33% C max : ↓40% Reduced absorption, increase in                                                                                                                                       | Co-administrationis contraindicated.   |
-| Lansoprazole Rabeprazole Pantoprazole Esomeprazole Dexlansoprazole | Interactionnotstudied with anyof the components of Emtricitabine/Rilpivirine/Tenofovir alafenamide.Significantdecreases in rilpivirine plasma concentrations are expected (reduced absorption, increase in gastric pH).                                               | Co-administrationis contraindicated.   |
-| HERBAL PRODUCTS                                                    |                                                                                                                                                                                                                                                                       |                                        |
-| St. John's wort ( Hypericum perforatum )                           | Interactionnotstudied with anyof the components of Emtricitabine/Rilpivirine/Tenofovir alafenamide.Co-administration may cause significant decreases in the plasma concentrations of rilpivirine (induction ofCYP3A) and tenofovir alafenamide (induction of P-gp).   | Co-administrationis contraindicated.   |
-| H 2 -RECEPTOR ANTAGONISTS                                          | H 2 -RECEPTOR ANTAGONISTS                                                                                                                                                                                                                                             | H 2 -RECEPTOR ANTAGONISTS              |
+| Carbamazepine Oxcarbazepine Phenobarbital Phenytoin                | Interaction not studied with any of the components of Emtricitabine/Rilpivirine/Tenofovir alafenamide. Co-administration may cause significant decreases in the plasma concentrations of rilpivirine (induction of CYP3A) and tenofovir alafenamide (induction of P-gp).   | Co-administration is contraindicated.   |
+|--------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------|
+| GLUCOCORTICOIDS                                                    |                                                                                                                                                                                                                                                                            |                                         |
+| Dexamethasone (systemic, except for single dose use)               | Interaction not studied with any of the components of Emtricitabine/Rilpivirine/Tenofovir alafenamide. Significant dose dependent decreases in rilpivirine plasma concentrations are expected (induction of CYP3A).                                                        | Co-administration is contraindicated.   |
+| PROTON PUMP INHIBITORS                                             |                                                                                                                                                                                                                                                                            |                                         |
+| Omeprazole (20 mg once daily)/ Rilpivirine 1                       | Omeprazole: AUC:↓14% C min : N/A C max :↓14% Rilpivirine: AUC:↓40% C min :↓33% C max :↓40% Reduced absorption, increase in                                                                                                                                                 | Co-administration is contraindicated.   |
+| Lansoprazole Rabeprazole Pantoprazole Esomeprazole Dexlansoprazole | Interaction not studied with any of the components of Emtricitabine/Rilpivirine/Tenofovir alafenamide. Significant decreases in rilpivirine plasma concentrations are expected (reduced absorption, increase in gastric pH).                                               | Co-administration is contraindicated.   |
+| HERBAL PRODUCTS                                                    |                                                                                                                                                                                                                                                                            |                                         |
+| St. John's wort ( Hypericum perforatum )                           | Interaction not studied with any of the components of Emtricitabine/Rilpivirine/Tenofovir alafenamide. Co-administration may cause significant decreases in the plasma concentrations of rilpivirine (induction of CYP3A) and tenofovir alafenamide (induction of P-gp).   | Co-administration is contraindicated.   |
+| H 2 -RECEPTOR ANTAGONISTS                                          | H 2 -RECEPTOR ANTAGONISTS                                                                                                                                                                                                                                                  | H 2 -RECEPTOR ANTAGONISTS               |
 
 <div style=\"page-break-after: always\"></div>
 
-| Famotidine (40 mgsingle dose taken 12 hours before rilpivirine)/ Rilpivirine 1 Famotidine (40 mg single dose taken 2 hours before rilpivirine)/ Rilpivirine 1 Famotidine (40 mg single dose taken 4 hoursafter rilpivirine)/ Rilpivirine Cimetidine Nizatidine Ranitidine   | Rilpivirine: AUC: ↓9% C min : N/A C max : ↔ Rilpivirine: AUC: ↓76% C min : N/A C max : ↓85% Reduced absorption, increase in gastric pH Rilpivirine: AUC: ↑ 13% C min : N/A C max : ↑ 21% Interactionnotstudied with anyof the components of Emtricitabine/Rilpivirine/Tenofovir   | OnlyH 2 -receptorantagonists that can be dosed once daily should beused.A strict dosing schedule with intake of theH 2 -receptorantagonists atleast12 hoursbefore orat least 4 hours after Emtricitabine/Rilpivirine/Tenofovir Alafenamide Viatris should be used.   |
-|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| ANTACIDS                                                                                                                                                                                                                                                                    |                                                                                                                                                                                                                                                                                   |                                                                                                                                                                                                                                                                      |
-| Antacids (e.g., aluminium or magnesium hydroxide, calcium carbonate)                                                                                                                                                                                                        | Interactionnotstudied with anyof the components of Emtricitabine/Rilpivirine/Tenofovir alafenamide.Co-administration may cause significant decreases in rilpivirine plasma concentrations (reduced absorption, increase in gastric pH).                                           | Antacids should only be administered eitherat least 2 hours before or at least 4 hours after Emtricitabine/Rilpivirine/Tenofovir Alafenamide Viatris.                                                                                                                |
-| ORAL                                                                                                                                                                                                                                                                        |                                                                                                                                                                                                                                                                                   |                                                                                                                                                                                                                                                                      |
-| Ethinylestradiol (0.035 mgonce daily)/ Rilpivirine                                                                                                                                                                                                                          |                                                                                                                                                                                                                                                                                   |                                                                                                                                                                                                                                                                      |
-| CONTRACEPTIVES                                                                                                                                                                                                                                                              |                                                                                                                                                                                                                                                                                   |                                                                                                                                                                                                                                                                      |
-| Norethindrone (1 mgonce daily)/ Rilpivirine                                                                                                                                                                                                                                 | Ethinylestradiol: AUC:↔ C min :↔ C max : ↑ 17% Norethindrone: AUC:↔ C min :↔ C max :↔ Rilpivirine: AUC: ↔* C min : ↔* C max : ↔* *based on historic controls                                                                                                                      | No dose adjustment is required.                                                                                                                                                                                                                                      |
+| Famotidine (40 mg single dose taken 12 hours before rilpivirine)/ Rilpivirine 1 Famotidine (40 mg single dose taken 2 hours before rilpivirine)/ Rilpivirine 1 Famotidine (40 mg single dose taken   | Rilpivirine: AUC:↓9% C min : N/A C max:↔ Rilpivirine: AUC:↓76% C min : N/A C max :↓85% Reduced absorption, increase in gastric pH Rilpivirine: AUC: ↑ 13% C min : N/A C max : ↑ 21%                                                         | Only H 2 -receptor antagonists that can be dosed once daily should be used. A strict dosing schedule with intake of the H 2 -receptor antagonists at least 12 hours before or at least 4 hours after Emtricitabine/Rilpivirine/Tenofovir Alafenamide Viatris should be used.   |
+|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| ANTACIDS                                                                                                                                                                                             |                                                                                                                                                                                                                                             |                                                                                                                                                                                                                                                                                |
+| Antacids (e.g., aluminium or magnesium hydroxide, calcium carbonate)                                                                                                                                 | Interaction not studied with any of the components of Emtricitabine/Rilpivirine/Tenofovir alafenamide. Co-administration may cause significant decreases in rilpivirine plasma concentrations (reduced absorption, increase in gastric pH). | Antacids should only be administered either at least 2 hours before or at least 4 hours after Emtricitabine/Rilpivirine/Tenofovir Alafenamide Viatris.                                                                                                                         |
+| ORAL                                                                                                                                                                                                 |                                                                                                                                                                                                                                             |                                                                                                                                                                                                                                                                                |
+| Ethinylestradiol (0.035 mg once daily)/ Rilpivirine                                                                                                                                                  |                                                                                                                                                                                                                                             |                                                                                                                                                                                                                                                                                |
+| CONTRACEPTIVES                                                                                                                                                                                       |                                                                                                                                                                                                                                             |                                                                                                                                                                                                                                                                                |
+| Norethindrone (1 mg once daily)/ Rilpivirine                                                                                                                                                         | Ethinylestradiol: AUC:↔ C min :↔ C max : ↑ 17% Norethindrone: AUC:↔ C min :↔ C max :↔ Rilpivirine: AUC: ↔* C min :↔* C max : ↔* *based on historic controls                                                                                 | No dose adjustment is required.                                                                                                                                                                                                                                                |
 
 <div style=\"page-break-after: always\"></div>
 
-| Norgestimate (0.180/0.215/0.250 mg once daily)/ Ethinylestradiol (0.025 mgonce daily)/ Emtricitabine/Tenofovir alafenamide (200/25 mgonce daily)   | Norelgestromin: AUC: ↔ C min : ↔ C max : ↔ Norgestrel: AUC: ↔ C min : ↔ C max : ↔ Ethinylestradiol : AUC : ↔ C min : ↔ C max :↔                                                                               | No dose adjustment is required.                                                                                                              |
-|----------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------|
-| NARCOTIC ANALGESICS                                                                                                                                |                                                                                                                                                                                                               |                                                                                                                                              |
-| Methadone (60-100mg once daily, individualised dose)/ Rilpivirine                                                                                  | R(-) methadone: AUC: ↓ 16% C min : ↓ 22% C max : ↓ 14% S(+) methadone: AUC: ↓ 16% C min : ↓ 21% C max : ↓ 13% Rilpivirine: AUC: ↔* C min : ↔* C max : ↔*                                                      | No dose adjustments are required. Clinicalmonitoringis recommended asmethadone maintenance therapy may need to be adjusted in some patients. |
-| ANALGESICS                                                                                                                                         |                                                                                                                                                                                                               |                                                                                                                                              |
-| Paracetamol(500mg single dose)/ Rilpivirine 1                                                                                                      | Paracetamol: AUC: ↔ C min : N/A C max : ↔ Rilpivirine: AUC:↔ C min : ↑ 26% C max :↔                                                                                                                           | No dose adjustment is required.                                                                                                              |
-| ANTIARRHYTHMICS                                                                                                                                    |                                                                                                                                                                                                               |                                                                                                                                              |
-| Digoxin/ Rilpivirine                                                                                                                               | Digoxin: AUC: ↔ C min : N/A C max : ↔                                                                                                                                                                         | No dose adjustment is required.                                                                                                              |
-| ANTICOAGULANTS                                                                                                                                     |                                                                                                                                                                                                               |                                                                                                                                              |
-| Dabigatran etexilate                                                                                                                               | Interactionnotstudied with any of the components of Emtricitabine/Rilpivirine/Tenofovir alafenamide.Arisk forincreases in dabigatranplasma concentrations cannot be excluded (inhibition of intestinal P-gp). | Co-administration should be used with caution.                                                                                               |
+| Norgestimate (0.180/0.215/0.250 mg once daily)/ Ethinylestradiol (0.025 mg once daily)/ Emtricitabine/Tenofovir alafenamide (200/25 mg once daily)   | Norelgestromin: AUC:↔ C min:↔ C max:↔ Norgestrel: AUC:↔ C min:↔ C max :↔ Ethinylestradiol : AUC:↔ C min :↔ C max :↔                                                                                                 | No dose adjustment is required.                                                                                                                 |
+|------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------|
+| NARCOTIC ANALGESICS                                                                                                                                  |                                                                                                                                                                                                                     |                                                                                                                                                 |
+| Methadone (60-100 mg once daily, individualised dose)/ Rilpivirine                                                                                   | R(-) methadone: AUC: ↓ 16% C min : ↓ 22% C max : ↓ 14% S(+) methadone: AUC: ↓ 16% C min : ↓ 21% C max : ↓ 13% Rilpivirine: AUC: ↔* C min :↔*                                                                        | No dose adjustments are required. Clinical monitoring is recommended as methadone maintenance therapy may need to be adjusted in some patients. |
+| ANALGESICS                                                                                                                                           |                                                                                                                                                                                                                     |                                                                                                                                                 |
+| Paracetamol (500 mg single dose)/ Rilpivirine 1                                                                                                      | Paracetamol: AUC:↔ C min : N/A C max:↔ Rilpivirine: AUC:↔ C min : ↑ 26% C max :↔                                                                                                                                    | No dose adjustment is required.                                                                                                                 |
+| ANTIARRHYTHMICS                                                                                                                                      |                                                                                                                                                                                                                     |                                                                                                                                                 |
+| Digoxin/ Rilpivirine                                                                                                                                 | Digoxin: AUC:↔ C min : N/A C max:↔                                                                                                                                                                                  | No dose adjustment is required.                                                                                                                 |
+| ANTICOAGULANTS                                                                                                                                       |                                                                                                                                                                                                                     |                                                                                                                                                 |
+| Dabigatran etexilate                                                                                                                                 | Interaction not studied with any of the components of Emtricitabine/Rilpivirine/Tenofovir alafenamide. A risk for increases in dabigatran plasma concentrations cannot be excluded (inhibition of intestinal P-gp). | Co-administration should be used with caution.                                                                                                  |
 
 <div style=\"page-break-after: always\"></div>
 
-| IMMUNOSUPPRESSANTS                                                                                                                | IMMUNOSUPPRESSANTS                                                                                                                                                                                                                                                    | IMMUNOSUPPRESSANTS                    |
-|-----------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------|
-| Ciclosporin                                                                                                                       | Interactionnotstudied with any of the components of Emtricitabine/Rilpivirine/Tenofovir alafenamide.Co-administration of ciclosporin isexpected to increase plasma concentrations ofrilpivirine (inhibition of CYP3A) and tenofovir alafenamide (inhibition of P-gp). | Co-administration is not recommended. |
-| ANTIDIABETICS                                                                                                                     |                                                                                                                                                                                                                                                                       |                                       |
-| Metformin (850 mg single dose)/Rilpivirine                                                                                        | Metformin: AUC: ↔ C min : N/A C max : ↔                                                                                                                                                                                                                               | No dose adjustment is required.       |
-| HMGCO-A REDUCTASE INHIBITORS                                                                                                      | HMGCO-A REDUCTASE INHIBITORS                                                                                                                                                                                                                                          |                                       |
-| Atorvastatin (40 mgonce daily)/Rilpivirine 1                                                                                      | Atorvastatin: AUC:↔ C min : ↓ 15% C max : ↑ 35% Rilpivirine: AUC:↔ C min :↔                                                                                                                                                                                           | No dose adjustment is required.       |
-| PHOSPHODIESTERASE TYPE 5 (PDE-5) INHIBITORS                                                                                       | PHOSPHODIESTERASE TYPE 5 (PDE-5) INHIBITORS                                                                                                                                                                                                                           |                                       |
-| Sildenafil (50 mg single dose)/Rilpivirine 1                                                                                      | Sildenafil: AUC: ↔ C min : N/A C max : ↔ Rilpivirine: AUC:↔ C min :↔ C max :↔                                                                                                                                                                                         | No dose adjustment is required.       |
-| Vardenafil Tadalafil                                                                                                              | Interaction notstudied with any of the components of Emtricitabine/Rilpivirine/Tenofovir alafenamide.These are medicinal productswithin classwhere similar interactions could be predicted.                                                                           | No dose adjustment is required.       |
-| HYPNOTICS/SEDATIVES                                                                                                               | HYPNOTICS/SEDATIVES                                                                                                                                                                                                                                                   |                                       |
-| Midazolam (2.5 mg, orally, single dose)/ Tenofovir alafenamide Midazolam (1 mg, intravenously, single dose)/ Tenofoviralafenamide | Midazolam: AUC: ↑12% C min : N/A C max : ↑2% Midazolam: AUC: ↑8% C min : N/A C max : ↓1%                                                                                                                                                                              | No dose adjustment is required.       |
+| IMMUNOSUPPRESSANTS                                                                                                                 | Interaction not studied with any of                                                                                                                                                             | Co-administration is not recommended.       |
+|------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------|
+| ANTIDIABETICS                                                                                                                      | ANTIDIABETICS                                                                                                                                                                                   | ANTIDIABETICS                               |
+| Metformin (850 mg single dose)/Rilpivirine                                                                                         | Metformin: AUC:↔ C min : N/A C max :↔                                                                                                                                                           | No dose adjustment is required.             |
+| HMGCO-A REDUCTASE INHIBITORS                                                                                                       | HMGCO-A REDUCTASE INHIBITORS                                                                                                                                                                    | HMGCO-A REDUCTASE INHIBITORS                |
+| Atorvastatin (40 mg once daily)/Rilpivirine 1                                                                                      | Atorvastatin: AUC:↔ C min : ↓ 15% C max : ↑ 35% Rilpivirine: AUC:↔ C min :↔ C max : ↓ 9%                                                                                                        | No dose adjustment is required.             |
+| PHOSPHODIESTERASE TYPE 5 (PDE-5) INHIBITORS                                                                                        | PHOSPHODIESTERASE TYPE 5 (PDE-5) INHIBITORS                                                                                                                                                     | PHOSPHODIESTERASE TYPE 5 (PDE-5) INHIBITORS |
+| Sildenafil (50 mg single dose)/Rilpivirine 1                                                                                       | Sildenafil: AUC:↔ C min : N/A C max :↔ Rilpivirine: AUC:↔ C min :↔ C max :↔                                                                                                                     | No dose adjustment is required.             |
+| Vardenafil Tadalafil                                                                                                               | Interaction not studied with any of the components of Emtricitabine/Rilpivirine/Tenofovir alafenamide. These are medicinal products within class where similar interactions could be predicted. | No dose adjustment is required.             |
+| HYPNOTICS/SEDATIVES                                                                                                                | HYPNOTICS/SEDATIVES                                                                                                                                                                             | HYPNOTICS/SEDATIVES                         |
+| Midazolam (2.5 mg, orally, single dose)/ Tenofovir alafenamide Midazolam (1 mg, intravenously, single dose)/ Tenofovir alafenamide | Midazolam: AUC:↑12% C min : N/A C max :↑2% Midazolam: AUC:↑8% C min : N/A                                                                                                                       | No dose adjustment is required.             |
 
 N/A = not applicable
 
@@ -455,7 +422,7 @@ N/A = not applicable
 
 <div style=\"page-break-after: always\"></div>
 
-- 2 Study conducted with emtricitabine/rilpivirine/tenofovir disoproxil fumarate fixed -dose combination tablet.
+- 2 Study conducted with emtricitabine/rilpivirine/tenofovir disoproxil fumarate fixed-dose combination tablet.
 - 3 Study conducted with additional voxilaprevir 100 mg to achieve voxilaprevir exposures expected in HCV infected patients.
 
 ## Studies conducted with other medicinal products
@@ -512,53 +479,53 @@ The adverse reactions in Table 2 are listed by system organ class and highest fr
 
 Table 2: Tabulated list of adverse reactions
 
-| Frequency                            | Adverse reaction                                                                   |
-|--------------------------------------|------------------------------------------------------------------------------------|
-| Blood and lymphatic system disorders | Blood and lymphatic system disorders                                               |
-| Common:                              | decreasedwhite bloodcellcount 1 ,decreased haemoglobin 1 ,decreasedplateletcount 1 |
-| Uncommon:                            | anaemia 2                                                                          |
-| Immune system disorders              | Immune system disorders                                                            |
-| Uncommon:                            | immune reactivation syndrome 1                                                     |
-| Metabolism and nutrition disorders   | Metabolism and nutrition disorders                                                 |
-| Very common:                         | increased total cholesterol (fasted) 1 , increased LDL-cholesterol (fasted) 1      |
-| Common:                              | decreased appetite 1 , increased triglycerides (fasted) 1                          |
-| Psychiatric disorders                | Psychiatric disorders                                                              |
-| Very common:                         | insomnia 1                                                                         |
-| Common:                              | depression 1 , abnormal dreams 1, 3 , sleep disorders 1 , depressed mood 1         |
-| Nervous system disorders             | Nervous system disorders                                                           |
-| Very common:                         | headache 1, 3 , dizziness 1, 3                                                     |
-| Common:                              | somnolence 1                                                                       |
-| Gastrointestinal disorders           | Gastrointestinal disorders                                                         |
-| Very common:                         | nausea 1, 3 , increased pancreatic amylase 1                                       |
+| Frequency                            | Adverse reaction                                                                          |
+|--------------------------------------|-------------------------------------------------------------------------------------------|
+| Blood and lymphatic system disorders | Blood and lymphatic system disorders                                                      |
+| Common:                              | decreased white blood cell count 1 , decreased haemoglobin 1 , decreased platelet count 1 |
+| Uncommon:                            | anaemia 2                                                                                 |
+| Immune system disorders              | Immune system disorders                                                                   |
+| Uncommon:                            | immune reactivation syndrome 1                                                            |
+| Metabolism and nutrition disorders   | Metabolism and nutrition disorders                                                        |
+| Very common:                         | increased total cholesterol (fasted) 1 , increased LDL-cholesterol (fasted) 1             |
+| Common:                              | decreased appetite 1 , increased triglycerides (fasted) 1                                 |
+| Psychiatric disorders                | Psychiatric disorders                                                                     |
+| Very common:                         | insomnia 1                                                                                |
+| Common:                              | depression 1 , abnormal dreams 1, 3 , sleep disorders 1 , depressed mood 1                |
+| Nervous system disorders             | Nervous system disorders                                                                  |
+| Very common:                         | headache 1, 3 , dizziness 1, 3                                                            |
+| Common:                              | somnolence 1                                                                              |
+| Gastrointestinal disorders           | Gastrointestinal disorders                                                                |
+| Very common:                         | nausea 1, 3 , increased pancreatic amylase 1                                              |
 
 <div style=\"page-break-after: always\"></div>
 
-| Common:                                              | abdominalpain 1, 3 ,vomiting 1, 3 ,increased lipase 1 ,abdominaldiscomfort 1 ,drymouth 1 , flatulence 3 , diarrhoea 3   |
-|------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------|
-| Uncommon:                                            | dyspepsia 3                                                                                                             |
-| Hepatobiliary disorders                              | Hepatobiliary disorders                                                                                                 |
-| Very common:                                         | increased transaminases (AST and/or ALT) 1                                                                              |
-| Common:                                              | increased bilirubin 1                                                                                                   |
-| Skin and subcutaneous tissue disorders               | Skin and subcutaneous tissue disorders                                                                                  |
-| Common:                                              | rash 1, 3                                                                                                               |
-| Uncommon:                                            | severe skin reactions with systemic symptoms 4 ,angioedema 5, 6 , pruritus 3 , urticaria 6                              |
-| Musculoskeletal and connective tissue disorders      | Musculoskeletal and connective tissue disorders                                                                         |
-| Uncommon:                                            | arthralgia 3                                                                                                            |
-| General disorders and administration site conditions | General disorders and administration site conditions                                                                    |
-| Common:                                              | fatigue 1, 3                                                                                                            |
+| Common:                                              | abdominal pain 1, 3 , vomiting 1, 3 , increased lipase 1 , abdominal discomfort 1 , dry mouth 1 , flatulence 3 , diarrhoea 3   |
+|------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------|
+| Uncommon:                                            | dyspepsia 3                                                                                                                    |
+| Hepatobiliary disorders                              | Hepatobiliary disorders                                                                                                        |
+| Very common:                                         | increased transaminases (AST and/or ALT) 1                                                                                     |
+| Common:                                              | increased bilirubin 1                                                                                                          |
+| Skin and subcutaneous tissue disorders               | Skin and subcutaneous tissue disorders                                                                                         |
+| Common:                                              | rash 1, 3                                                                                                                      |
+| Uncommon:                                            | severe skin reactions with systemic symptoms 4 , angioedema 5, 6 , pruritus 3 , urticaria 6                                    |
+| Musculoskeletal and connective tissue disorders      | Musculoskeletal and connective tissue disorders                                                                                |
+| Uncommon:                                            | arthralgia 3                                                                                                                   |
+| General disorders and administration site conditions | General disorders and administration site conditions                                                                           |
+| Common:                                              | fatigue 1, 3                                                                                                                   |
 
 - 1 Adverse reactions identified from rilpivirine clinical studies.
 - 2 This adverse reaction was not observed in the Phase 3 studies of emtricitabine + tenofovir alafenamide in combination with elvitegravir + cobicistat or in the Phase 3 studies with emtricitabine/rilpivirine/tenofovir alafenamide but identified from clinical studies or post-marketing experience of emtricitabine when used with other antiretrovirals.
 - 3 Adverse reactions identified from clinical studies of emtricitabine + tenofovir alafenamide-containing products.
 - 4 Adverse reaction identified through post-marketing surveillance of emtricitabine/rilpivirine/tenofovir disoproxil fumarate.
-- 5 Adverse reaction identified through post-marketing surveillance for emtricitabine-containing products.
 - 6 Adverse reaction identified through post-marketing surveillance for tenofovir alafenamide-containing products.
+- 5 Adverse reaction identified through post-marketing surveillance for emtricitabine-containing products.
 
 ## Laboratory abnormalities
 
 ## Changes in serum creatinine for rilpivirine-containing regimens
 
-The pooled data from the Phase 3 TMC278-C209 and TMC278-C215 studies of treatment-naïve patients also demonstrate that serum creatinine increased and estimated glomerular filtration rate (eGFR) decreased over 96 weeks of treatment with rilpivirine. Most of this increase in creatinine and decrease in eGFR occurred within the first four weeks of treatment. Over 96 weeks of treatment with rilpivirine mean changes of 0.1 mg/dL (range: -0.3 mg/dL to 0.6 mg/dL) for creatinine and -13.3 mL/min/1.73 m 2  (range: -63.7 mL/min/1.73 m 2  to 40.1 mL/min/1.73 m 2 ) for eGFR were observed. In patients who entered the studies with mild or moderate renal impairment, the serum creatinine increase observed was similar to that seen in patients with normal renal function. These increases do not reflect a change in actual glomerular filtration rate (GFR).
+The pooled data from the Phase 3 TMC278-C209 and TMC278-C215 studies of treatment-naïve patients also demonstrate that serum creatinine increased and estimated glomerular filtration rate (eGFR) decreased over 96 weeks of treatment with rilpivirine. Most of this increase in creatinine and decrease in eGFR occurred within the first four weeks of treatment. Over 96 weeks of treatment with rilpivirine mean changes of 0.1 mg/dL (range: -0.3 mg/dL to 0.6 mg/dL) for creatinine and -13.3 mL/min/1.73 m 2 (range: -63.7 mL/min/1.73 m 2 to 40.1 mL/min/1.73 m 2 ) for eGFR were observed. In patients who entered the studies with mild or moderate renal impairment, the serum creatinine increase observed was similar to that seen in patients with normal renal function. These increases do not reflect a change in actual glomerular filtration rate (GFR).
 
 ## Changes in lipid laboratory tests
 
@@ -568,7 +535,9 @@ Switching from a TDF-based regimen to Emtricitabine/Rilpivirine/Tenofovir Alafen
 
 <div style=\"page-break-after: always\"></div>
 
-virologically suppressed patients switching from EFV/FTC/TDF to emtricitabine/rilpivirine/tenofovir alafenamide (Study GS-US-366-1160), decreases from baseline were observed in the fasting values of total cholesterol and HDL-cholesterol in the emtricitabine/rilpivirine/tenofovir alafenamide arm; no clinically relevant changes from baseline in median fasting values for total cholesterol to HDL-cholesterol ratio, direct LDL-cholesterol or triglycerides were observed in either treatment arm at Week 96.
+## virologically suppressed patients switching from EFV/FTC/TDF to
+
+emtricitabine/rilpivirine/tenofovir alafenamide (Study GS-US-366-1160), decreases from baseline were observed in the fasting values of total cholesterol and HDL-cholesterol in the emtricitabine/rilpivirine/tenofovir alafenamide arm; no clinically relevant changes from baseline in median fasting values for total cholesterol to HDL-cholesterol ratio, direct LDL-cholesterol or triglycerides were observed in either treatment arm at Week 96.
 
 ## Cortisol
 
@@ -650,15 +619,15 @@ Tenofovir alafenamide is a nucleotide reverse transcriptase inhibitor (NtRTI) an
 
 The combinations of emtricitabine, rilpivirine, and tenofovir alafenamide were not antagonistic and showed synergistic effects with each other in cell culture combination antiviral activity assays.
 
-The antiviral activity of emtricitabine against laboratory and clinical isolates of HIV-1 was assessed in lymphoblastoid cell lines, the MAGI CCR5 cell line, and PBMCs. The 50% effective concentration (EC50) values for emtricitabine were in the range of 0.0013 to 0.64 µM. Emtricitabine displayed antiviral activity in cell culture against HIV-1 subtype A, B, C, D, E, F, and G (EC50 values ranged from 0.007 to 0.075 µM) and showed activity against HIV-2 (EC50 values ranged from 0.007 to 1.5 µM).
+The antiviral activity of emtricitabine against laboratory and clinical isolates of HIV-1 was assessed in lymphoblastoid cell lines, the MAGI CCR5 cell line, and PBMCs. The 50% effective concentration (EC50) values for emtricitabine were in the range of 0.0013 to 0.64 µM. Emtricitabine displayed antiviral activity in cell culture against HIV-1 subtype A, B, C, D, E, F, and G (EC 50 values ranged from 0.007 to 0.075 µM) and showed activity against HIV-2 (EC50 values ranged from 0.007 to 1.5 µM).
 
-Rilpivirine exhibited activity against laboratory strains of wild-type HIV-1 in an acutely infected Tcell line with a median EC50 value for HIV-1/IIIB of 0.73 nM (0.27 ng/mL). Rilpivirine also demonstrated antiviral activity against a broad panel of HIV-1 group M (subtype A, B, C, D, F, G, H) primary isolates with EC50 values ranging from 0.07 to 1.01 nM (0.03 to 0.37 ng/mL), group O primary isolates with EC50 values ranging from 2.88 to 8.45 nM (1.06 to 3.10 ng/mL), and showed limited in vitro activity against HIV-2 with EC50 values ranging from 2 510 to 10 830 nM (920 to 3 970 ng/mL).
+Rilpivirine exhibited activity against laboratory strains of wild-type HIV-1 in an acutely infected Tcell line with a median EC 50 value for HIV-1/IIIB of 0.73 nM (0.27 ng/mL). Rilpivirine also demonstrated antiviral activity against a broad panel of HIV-1 group M (subtype A, B, C, D, F, G, H) primary isolates with EC50 values ranging from 0.07 to 1.01 nM (0.03 to 0.37 ng/mL), group O primary isolates with EC50 values ranging from 2.88 to 8.45 nM (1.06 to 3.10 ng/mL), and showed limited in vitro activity against HIV-2 with EC 50 values ranging from 2 510 to 10 830 nM (920 to 3 970 ng/mL).
 
 The antiviral activity of tenofovir alafenamide against laboratory and clinical isolates of HIV-1 subtype B was assessed in lymphoblastoid cell lines, PBMCs, primary monocyte/macrophage cells, and CD4+ T-lymphocytes. The EC50 values for tenofovir alafenamide were in the range of 2.0 to 14.7 nM. Tenofovir alafenamide displayed antiviral activity in cell culture against all HIV-1 groups
 
 <div style=\"page-break-after: always\"></div>
 
-(M, N, O), including subtypes A, B, C, D, E, F, and G (EC50 values ranged from 0.10 to 12.0 nM) and showed activity against HIV-2 (EC50 values ranged from 0.91 to 2.63 nM).
+(M, N, O), including subtypes A, B, C, D, E, F, and G (EC 50 values ranged from 0.10 to 12.0 nM) and showed activity against HIV-2 (EC50 values ranged from 0.91 to 2.63 nM).
 
 ## Resistance
 
@@ -714,7 +683,7 @@ Clinical efficacy of Emtricitabine/Rilpivirine/Tenofovir alafenamide was establi
 
 In Study GS-US-292-0104 and Study GS-US-292-0111, patients received either E/C/F/TAF (n = 866) or elvitegravir/cobicistat/emtricitabine/tenofovir disoproxil fumarate (E/C/F/TDF) (n = 867) once daily, both given as FDC tablets.
 
-The mean age was 36 years (range 18-76), 85% were male, 57% were White, 25% were Black, and 10% were Asian. The mean baseline plasma HIV-1 RNA was 4.5 log10 copies/mL (range 1.3-7.0) and 23% of patients had baseline viral loads &gt; 100 000 copies/mL. The mean baseline CD4+ cell count was 427 cells/mm 3  (range 0-1 360) and 13% had CD4+ cell counts &lt; 200 cells/mm 3 .
+The mean age was 36 years (range 18-76), 85% were male, 57% were White, 25% were Black, and 10% were Asian. The mean baseline plasma HIV-1 RNA was 4.5 log10 copies/mL (range 1.3-7.0) and 23% of patients had baseline viral loads &gt; 100 000 copies/mL. The mean baseline CD4+ cell count was 427 cells/mm 3 (range 0-1 360) and 13% had CD4+ cell counts &lt; 200 cells/mm 3 .
 
 In Studies GS-US-292-0104 and GS-US-292-0111, E/C/F/TAF demonstrated statistical superiority in achieving HIV-1 RNA &lt; 50 copies/mL when compared to E/C/F/TDF at Week 144. The
 
@@ -726,25 +695,25 @@ In Study GS-US-292-0109, the efficacy and safety of switching from either EFV/FT
 
 &lt; 50 copies/mL) HIV-1 infected adults (n = 959 switching to E/C/F/TAF, n = 477 Stayed on Baseline
 
-Regimen [SBR]). Patients had a mean age of 41 years (range 21-77), 89% were male, 67% were White, and 19% were Black. The mean baseline CD4+ cell count was 697 cells/mm 3  (range 79-1 951).
+Regimen [SBR]). Patients had a mean age of 41 years (range 21-77), 89% were male, 67% were White, and 19% were Black. The mean baseline CD4+ cell count was 697 cells/mm 3 (range 79-1 951).
 
 In Study GS-US-292-0109, switching from a tenofovir disoproxil fumarate-based regimen to E/C/F/TAF was superior in maintaining HIV-1 RNA &lt; 50 copies/mL compared to staying on the baseline regimen. Pooled treatment outcomes at 48 weeks are shown in Table 3.
 
 Table 3: Virologic outcomes of Studies GS-US-292-0104, GS-US-292-0111 at Week 48 and Week 144 a , and GS-US-292-0109 at Week 48 a
 
-|                                                                                           | Treatment-naïve adults in Studies GS-US-292-0104 and GS-US-292-0111b   | Treatment-naïve adults in Studies GS-US-292-0104 and GS-US-292-0111b   | Treatment-naïve adults in Studies GS-US-292-0104 and GS-US-292-0111b   | Treatment-naïve adults in Studies GS-US-292-0104 and GS-US-292-0111b   | Virologically suppressed adults in Study GS-US-292-0109   | Virologically suppressed adults in Study GS-US-292-0109   |
-|-------------------------------------------------------------------------------------------|------------------------------------------------------------------------|------------------------------------------------------------------------|------------------------------------------------------------------------|------------------------------------------------------------------------|-----------------------------------------------------------|-----------------------------------------------------------|
-|                                                                                           | Week 48                                                                | Week 48                                                                | Week 144                                                               | Week 144                                                               | Week 48                                                   | Week 48                                                   |
-|                                                                                           | E/C/F/TAF (n = 866)                                                    | E/C/F/TDF (n = 867)                                                    | E/C/F/TAF (n = 866)                                                    | E/C/F/TDF (n = 867)                                                    | E/C/F/TAF (n = 959)                                       | Baseline regimen (n = 477)                                |
-| HIV-1 RNA < 50 copies/mL                                                                  | 92%                                                                    | 90%                                                                    | 84%                                                                    | 80%                                                                    | 97%                                                       | 93%                                                       |
-| Treatment difference                                                                      | 2.0%(95%CI: -0.7% to 4.7%)                                             | 2.0%(95%CI: -0.7% to 4.7%)                                             | 4.2%(95%CI:0.6%to 7.8%)                                                | 4.2%(95%CI:0.6%to 7.8%)                                                | 4.1% (95% CI: 1.6% to 6.7%, p < 0.001 c )                 | 4.1% (95% CI: 1.6% to 6.7%, p < 0.001 c )                 |
-| HIV-1 RNA ≥ 50 copies/mL d                                                                | 4%                                                                     | 4%                                                                     | 5%                                                                     | 4%                                                                     | 1%                                                        | 1%                                                        |
-| Novirologic data in Week 48 or 144 window                                                 | 4%                                                                     | 6%                                                                     | 11%                                                                    | 16%                                                                    | 2%                                                        | 6%                                                        |
-| Discontinued study drug due to AE or death e                                              | 1%                                                                     | 2%                                                                     | 1%                                                                     | 3%                                                                     | 1%                                                        | 1%                                                        |
-| Discontinued study drug due to otherreasons and last available HIV-1 RNA < 50 copies/mL f | 2%                                                                     | 4%                                                                     | 9%                                                                     | 11%                                                                    | 1%                                                        | 4%                                                        |
-| Missing data during window but on study drug                                              | 1%                                                                     | <1%                                                                    | 1%                                                                     | 1%                                                                     | 0%                                                        | <1%                                                       |
-| HIV-1 RNA < 20 copies/mL                                                                  | 84%                                                                    | 84%                                                                    | 81%                                                                    | 76%                                                                    |                                                           |                                                           |
-| Treatment difference                                                                      | 0.4%(95%CI: -3.0% to 3.8%)                                             | 0.4%(95%CI: -3.0% to 3.8%)                                             | 5.4%(95%CI:1.5%to 9.2%)                                                | 5.4%(95%CI:1.5%to 9.2%)                                                |                                                           |                                                           |
+|                                                                                            | Treatment-naïve adults in Studies GS-US-292-0104 and GS-US-292-0111b   | Treatment-naïve adults in Studies GS-US-292-0104 and GS-US-292-0111b   | Treatment-naïve adults in Studies GS-US-292-0104 and GS-US-292-0111b   | Treatment-naïve adults in Studies GS-US-292-0104 and GS-US-292-0111b   | Virologically suppressed adults in Study GS-US-292-0109   | Virologically suppressed adults in Study GS-US-292-0109   |
+|--------------------------------------------------------------------------------------------|------------------------------------------------------------------------|------------------------------------------------------------------------|------------------------------------------------------------------------|------------------------------------------------------------------------|-----------------------------------------------------------|-----------------------------------------------------------|
+|                                                                                            | Week 48                                                                | Week 48                                                                | Week 144                                                               | Week 144                                                               | Week 48                                                   | Week 48                                                   |
+|                                                                                            | E/C/F/TAF (n = 866)                                                    | E/C/F/TDF (n = 867)                                                    | E/C/F/TAF (n = 866)                                                    | E/C/F/TDF (n = 867)                                                    | E/C/F/TAF (n = 959)                                       | Baseline regimen (n = 477)                                |
+| HIV-1 RNA < 50 copies/mL                                                                   | 92%                                                                    | 90%                                                                    | 84%                                                                    | 80%                                                                    | 97%                                                       | 93%                                                       |
+| Treatment difference                                                                       | 2.0% (95% CI: -0.7% to 4.7%)                                           | 2.0% (95% CI: -0.7% to 4.7%)                                           | 4.2% (95% CI: 0.6% to 7.8%)                                            | 4.2% (95% CI: 0.6% to 7.8%)                                            | 4.1% (95% CI: 1.6% to 6.7%, p < 0.001 c )                 | 4.1% (95% CI: 1.6% to 6.7%, p < 0.001 c )                 |
+| HIV-1 RNA ≥ 50 copies/mL d                                                                 | 4%                                                                     | 4%                                                                     | 5%                                                                     | 4%                                                                     | 1%                                                        | 1%                                                        |
+| No virologic data in Week 48 or 144 window                                                 | 4%                                                                     | 6%                                                                     | 11%                                                                    | 16%                                                                    | 2%                                                        | 6%                                                        |
+| Discontinued study drug due to AE or death e                                               | 1%                                                                     | 2%                                                                     | 1%                                                                     | 3%                                                                     | 1%                                                        | 1%                                                        |
+| Discontinued study drug due to other reasons and last available HIV-1 RNA < 50 copies/mL f | 2%                                                                     | 4%                                                                     | 9%                                                                     | 11%                                                                    | 1%                                                        | 4%                                                        |
+| Missing data during window but on study drug                                               | 1%                                                                     | < 1%                                                                   | 1%                                                                     | 1%                                                                     | 0%                                                        | < 1%                                                      |
+| HIV-1 RNA < 20 copies/mL                                                                   | 84%                                                                    | 84%                                                                    | 81%                                                                    | 76%                                                                    |                                                           |                                                           |
+| Treatment difference                                                                       | 0.4% (95% CI: -3.0% to 3.8%)                                           | 0.4% (95% CI: -3.0% to 3.8%)                                           | 5.4% (95% CI: 1.5% to 9.2%)                                            | 5.4% (95% CI: 1.5% to 9.2%)                                            |                                                           |                                                           |
 
 <div style=\"page-break-after: always\"></div>
 
@@ -763,7 +732,7 @@ Table 3: Virologic outcomes of Studies GS-US-292-0104, GS-US-292-0111 at Week 48
 
 In Studies GS-US-292-0104 and GS-US-292-0111, the rate of virologic success was similar across patient subgroups (age, gender, race, baseline HIV-1 RNA, or baseline CD4+ cell count).
 
-The mean increase from baseline in CD4+ cell count was 230 cells/mm 3  in E/C/F/TAF-treated patients and 211 cells/mm 3  in E/C/F/TDF-treated patients (p = 0.024) at Week 48 and 326 cells/mm 3 in E/C/F/TAF-treated patients and 305 cells/mm 3  in E/C/F/TDF-treated patients (p = 0.06) at Week 144.
+The mean increase from baseline in CD4+ cell count was 230 cells/mm 3 in E/C/F/TAF-treated patients and 211 cells/mm 3 in E/C/F/TDF-treated patients (p = 0.024) at Week 48 and 326 cells/mm 3 in E/C/F/TAF-treated patients and 305 cells/mm 3 in E/C/F/TDF-treated patients (p = 0.06) at Week 144.
 
 ## Rilpivirine-containing regimens Treatment-naïve HIV-1 infected adult patients
 
@@ -777,7 +746,7 @@ Overall response and a subgroup analysis of the virologic response (&lt; 50 HIV-
 
 Table 4: Virologic outcomes of randomised treatment of Studies TMC278-C209 and TMC278C215 (pooled data for patients receiving rilpivirine hydrochloride or efavirenz in combination with FTC/TDF) at Week 48 (primary) and Week 96
 
-|                                                          | RPV+FTC/TDF (n = 550)              | EFV+FTC/TDF (n = 546)              | RPV+FTC/TDF (n = 550)              | EFV+FTC/TDF (n = 546)              |
+|                                                          | RPV + FTC/TDF (n = 550)            | EFV + FTC/TDF (n = 546)            | RPV + FTC/TDF (n = 550)            | EFV + FTC/TDF (n = 546)            |
 |----------------------------------------------------------|------------------------------------|------------------------------------|------------------------------------|------------------------------------|
 |                                                          | Week 48                            | Week 48                            | Week 96                            | Week 96                            |
 | Overall response (HIV-1 RNA < 50 copies/mL (TLOVR a )) b | 83.5% (459/550)                    | 82.4% (450/546)                    | 76.9% (423/550)                    | 77.3% (422/546)                    |
@@ -786,7 +755,7 @@ Table 4: Virologic outcomes of randomised treatment of Studies TMC278-C209 and T
 | > 100 000                                                | 76.7% (201/262)                    | 80.3% (233/290)                    | 69.5% (182/262)                    | 74.2% (216/291)                    |
 | Non-response                                             | Non-response                       | Non-response                       | Non-response                       | Non-response                       |
 | Virologic failure (all patients)                         | 9.5% (52/550)                      | 4.2% (23/546)                      | 11.5% (63/550) c                   | 5.1% (28/546) d                    |
-|                                                          | RPV+FTC/TDF (n = 550)              | EFV+FTC/TDF (n = 546)              | RPV+FTC/TDF (n = 550)              | EFV+FTC/TDF (n = 546)              |
+|                                                          | RPV + FTC/TDF (n = 550)            | EFV + FTC/TDF (n = 546)            | RPV + FTC/TDF (n = 550)            | EFV + FTC/TDF (n = 546)            |
 |                                                          | Week 48                            | Week 48                            | Week 96                            | Week 96                            |
 | By baseline viral load (copies/mL)                       | By baseline viral load (copies/mL) | By baseline viral load (copies/mL) | By baseline viral load (copies/mL) | By baseline viral load (copies/mL) |
 | ≤ 100 000                                                | 4.2% (12/288)                      | 2.3% (6/256)                       | 5.9% (17/288)                      | 2.4% (6/255)                       |
@@ -795,7 +764,9 @@ Table 4: Virologic outcomes of randomised treatment of Studies TMC278-C209 and T
 | Discontinued due to adverse event (AE)                   | 2.2% (12/550)                      | 7.1% (39/546)                      | 3.6% (20/550)                      | 8.1% (44/546)                      |
 | Discontinued for non-AE reason e                         | 4.9% (27/550)                      | 6.0% (33/546)                      | 8% (44/550)                        | 8.8% (48/546)                      |
 
-EFV = efavirenz; RPV = rilpivirine a ITT TLOVR = Intention to treat time to loss of virologic response.
+EFV = efavirenz; RPV = rilpivirine
+
+- a ITT TLOVR = Intention to treat time to loss of virologic response.
 
 b The difference of response rate at Week 48 is 1% (95% confidence interval -3% to 6%) using normal approximation.
 
@@ -805,37 +776,37 @@ b The difference of response rate at Week 48 is 1% (95% confidence interval -3% 
 
 FTC/TDF + rilpivirine hydrochloride was non-inferior in achieving HIV-1 RNA &lt; 50 copies/mL compared to FTC/TDF + efavirenz.
 
-## Emtricitabine/rilpivirine/tenofovir alafenamide regimen Virologically suppressed HIV-1 infected adult patients
+Emtricitabine/rilpivirine/tenofovir alafenamide regimen Virologically suppressed HIV-1 infected adult patients
 
-In Study GS-US-366-1216, the efficacy and safety of switching from FTC/RPV/TDF to emtricitabine/rilpivirine/tenofovir alafenamide were evaluated in a randomised, double-blind study of virologically suppressed HIV-1 infected adults. Patients had a mean age of 45 years (range 23-72), 90% were male, 75% were White, and 19% were Black. The mean baseline CD4+ cell count was 709 cells/mm 3  (range 104-2 527).
+In Study GS-US-366-1216, the efficacy and safety of switching from FTC/RPV/TDF to emtricitabine/rilpivirine/tenofovir alafenamide were evaluated in a randomised, double-blind study of virologically suppressed HIV-1 infected adults. Patients had a mean age of 45 years (range 23-72), 90% were male, 75% were White, and 19% were Black. The mean baseline CD4+ cell count was 709 cells/mm 3 (range 104-2 527).
 
 <div style=\"page-break-after: always\"></div>
 
-In Study GS-US-366-1160, the efficacy and safety of switching from EFV/FTC/TDF to emtricitabine/rilpivirine/tenofovir alafenamide were evaluated in a randomised, double-blind study of virologically suppressed HIV-1 infected adults. Patients had a mean age of 48 years (range 19-76), 87% were male, 67% were White, and 27% were Black. The mean baseline CD4+ cell count was 700 cells/mm 3  (range 140-1 862).
+In Study GS-US-366-1160, the efficacy and safety of switching from EFV/FTC/TDF to emtricitabine/rilpivirine/tenofovir alafenamide were evaluated in a randomised, double-blind study of virologically suppressed HIV-1 infected adults. Patients had a mean age of 48 years (range 19-76), 87% were male, 67% were White, and 27% were Black. The mean baseline CD4+ cell count was 700 cells/mm 3 (range 140-1 862).
 
 Treatment outcomes of Studies GS-US-366-1216 and GS-US-366-1160 are presented in Table 5.
 
 Table 5: Virologic outcomes of Studies GS-US-366-1216 and GS-US-366-1160 at Weeks 48 a and 96 b
 
-|                                                                                        | GS-US-366-1216              | GS-US-366-1216              | GS-US-366-1216                | GS-US-366-1216                | GS-US-366-1160                 | GS-US-366-1160                 | GS-US-366-1160             | GS-US-366-1160             |
-|----------------------------------------------------------------------------------------|-----------------------------|-----------------------------|-------------------------------|-------------------------------|--------------------------------|--------------------------------|----------------------------|----------------------------|
-|                                                                                        | Week 48                     | Week 48                     | Week 96                       | Week 96                       | Week 48                        | Week 48                        | Week 96                    | Week 96                    |
-|                                                                                        | FTC/RPV /TAF (n = 316)      | FTC/RPV /TDF (n = 313) c    | FTC/RPV /TAF (n = 316)        | FTC/RPV /TDF (n = 313) c      | FTC/RPV /TAF (n = 438)         | EFV/FTC /TDF (n = 437)         | FTC/RPV /TAF (n = 438)     | EFV/FTC /TDF (n = 437)     |
-| HIV-1 RNA < 50 copies/mL                                                               | 94%                         | 94%                         | 89%                           | 88%                           | 90%                            | 92%                            | 85%                        | 85%                        |
-| Treatment difference                                                                   | -0.3%(95%CI: -4.2% to 3.7%) | -0.3%(95%CI: -4.2% to 3.7%) | 0.7% (95% CI: - 4.3% to 5.8%) | 0.7% (95% CI: - 4.3% to 5.8%) | -2.0% (95% CI: - 5.9% to 1.8%) | -2.0% (95% CI: - 5.9% to 1.8%) | 0% (95% CI: -4.8% to 4.8%) | 0% (95% CI: -4.8% to 4.8%) |
-| HIV-1 RNA ≥ 50 copies/mL d                                                             | 1%                          | 0%                          | 1%                            | 1%                            | 1%                             | 1%                             | 1%                         | 1%                         |
-| Novirologic data in Week48or 96 window                                                 | 6%                          | 6%                          | 10%                           | 11%                           | 9%                             | 7%                             | 14%                        | 14%                        |
-| Discontinued study drug due to AE or death and last available HIV-1 RNA < 50 copies/mL | 2%                          | 1%                          | 2%                            | 3%                            | 3%                             | 1%                             | 4%                         | 3%                         |
-| Discontinued study drug due to otherreasons and last available HIV-1 RNA <             | 4%                          | 4%                          | 8%                            | 8%                            | 5%                             | 5%                             | 10%                        | 11%                        |
-| Missing data during window but on study                                                | <1%                         | 1%                          | 1%                            | 0                             | 1%                             | 1%                             | <1%                        | 0                          |
+|                                                                                            | GS-US-366-1216                | GS-US-366-1216                | GS-US-366-1216                | GS-US-366-1216                | GS-US-366-1160                 | GS-US-366-1160                 | GS-US-366-1160             | GS-US-366-1160             |
+|--------------------------------------------------------------------------------------------|-------------------------------|-------------------------------|-------------------------------|-------------------------------|--------------------------------|--------------------------------|----------------------------|----------------------------|
+|                                                                                            | Week 48                       | Week 48                       | Week 96                       | Week 96                       | Week 48                        | Week 48                        | Week 96                    | Week 96                    |
+|                                                                                            | FTC/RPV /TAF (n = 316)        | FTC/RPV /TDF (n = 313) c      | FTC/RPV /TAF (n = 316)        | FTC/RPV /TDF (n = 313) c      | FTC/RPV /TAF (n = 438)         | EFV/FTC /TDF (n = 437)         | FTC/RPV /TAF (n = 438)     | EFV/FTC /TDF (n = 437)     |
+| HIV-1 RNA < 50 copies/mL                                                                   | 94%                           | 94%                           | 89%                           | 88%                           | 90%                            | 92%                            | 85%                        | 85%                        |
+| Treatment difference                                                                       | -0.3% (95% CI: -4.2% to 3.7%) | -0.3% (95% CI: -4.2% to 3.7%) | 0.7% (95% CI: - 4.3% to 5.8%) | 0.7% (95% CI: - 4.3% to 5.8%) | -2.0% (95% CI: - 5.9% to 1.8%) | -2.0% (95% CI: - 5.9% to 1.8%) | 0% (95% CI: -4.8% to 4.8%) | 0% (95% CI: -4.8% to 4.8%) |
+| HIV-1 RNA ≥ 50 copies/mL d                                                                 | 1%                            | 0%                            | 1%                            | 1%                            | 1%                             | 1%                             | 1%                         | 1%                         |
+| No virologic data in Week 48 or 96 window                                                  | 6%                            | 6%                            | 10%                           | 11%                           | 9%                             | 7%                             | 14%                        | 14%                        |
+| Discontinued study drug due to AE or death and last available HIV-1 RNA < 50 copies/mL     | 2%                            | 1%                            | 2%                            | 3%                            | 3%                             | 1%                             | 4%                         | 3%                         |
+| Discontinued study drug due to other reasons and last available HIV-1 RNA < 50 copies/mL e | 4%                            | 4%                            | 8%                            | 8%                            | 5%                             | 5%                             | 10%                        | 11%                        |
+| Missing data during window but on study drug                                               | < 1%                          | 1%                            | 1%                            | 0                             | 1%                             | 1%                             | < 1%                       | 0                          |
 
-FTC/RPV/TAF  = Emtricitabine/rilpivirine/tenofovir alafenamide
+FTC/RPV/TAF = Emtricitabine/rilpivirine/tenofovir alafenamide
 
-a Week 48 window was between Day 295 and 378 (inclusive).
+- a Week 48 window was between Day 295 and 378 (inclusive).
 
 b Week 96 window was between Day 631 and 714 (inclusive).
 
-c One patient who was not on FTC/RPV/TDF prior to screening was excluded from the analysis.
+- c One patient who was not on FTC/RPV/TDF prior to screening was excluded from the analysis.
 
 d Includes patients who had ≥ 50 copies/mL in the Week 48 or Week 96 window; patients who discontinued early due to lack or loss of efficacy; patients who discontinued for reasons other than lack or loss of efficacy and at the time of discontinuation had a viral value of ≥ 50 copies/mL.
 
@@ -845,23 +816,23 @@ At Week 96, switching to emtricitabine/rilpivirine/tenofovir alafenamide was non
 
 <div style=\"page-break-after: always\"></div>
 
-In Study GS-US-366-1216, the mean change from baseline in CD4+ cell count at Week 96 was 12 cells/mm 3  in patients who switched to emtricitabine/rilpivirine/tenofovir alafenamide and 16 cells/mm 3  in those who remained on FTC/RPV/TDF. In Study GS-US-366-1160, the mean change from baseline in CD4+ cell count at Week 96 was 12 cells/mm 3  in patients who switched to emtricitabine/rilpivirine/tenofovir alafenamide and 6 cells/mm 3  in those who stayed on EFV/FTC/TDF.
+In Study GS-US-366-1216, the mean change from baseline in CD4+ cell count at Week 96 was 12 cells/mm 3 in patients who switched to emtricitabine/rilpivirine/tenofovir alafenamide and 16 cells/mm 3 in those who remained on FTC/RPV/TDF. In Study GS-US-366-1160, the mean change from baseline in CD4+ cell count at Week 96 was 12 cells/mm 3 in patients who switched to emtricitabine/rilpivirine/tenofovir alafenamide and 6 cells/mm 3 in those who stayed on EFV/FTC/TDF.
 
 ## HIV-1 infected adult patients with mild to moderate renal impairment
 
 In Study GS-US-292-0112, the efficacy and safety of E/C/F/TAF FDC tablet were evaluated in an open-label clinical study of 242 HIV-1 infected, virologically suppressed patients with mild to moderate renal impairment (eGFRCG: 30-69 mL/min).
 
-The mean age was 58 years (range 24-82), with 63 patients (26%) who were ≥ 65 years of age. Seventy-nine percent were male, 63% were White, 18% were Black, and 14% were Asian. Thirtyfive percent of patients were on a treatment regimen that did not contain tenofovir disoproxil fumarate. At baseline, median eGFRCG was 56 mL/min, and 33% of patients had an eGFRCG from 30 to 49 mL/min. The mean baseline CD4+ cell count was 664 cells/mm 3  (range 126-1 813).
+The mean age was 58 years (range 24-82), with 63 patients (26%) who were ≥ 65 years of age. Seventy-nine percent were male, 63% were White, 18% were Black, and 14% were Asian. Thirtyfive percent of patients were on a treatment regimen that did not contain tenofovir disoproxil fumarate. At baseline, median eGFRCG was 56 mL/min, and 33% of patients had an eGFRCG from 30 to 49 mL/min. The mean baseline CD4+ cell count was 664 cells/mm 3 (range 126-1 813).
 
 At Week 144, 83.1% (197/237 patients) maintained HIV-1 RNA &lt; 50 copies/mL after switching to E/C/F/TAF FDC tablet.
 
 In Study GS-US-292-1825, the efficacy and safety of E/C/F/TAF were evaluated in a single arm, open-label clinical study in which 55 HIV-1 infected adults with end stage renal disease (eGFRCG &lt; 15 mL/min) on chronic haemodialysis for at least 6 months before switching to E/C/F/TAF FDC tablet. Patients were virologically suppressed (HIV-1 RNA &lt; 50 copies/mL) for at least 6 months before switching.
 
-The mean age was 48 years (range 23-64). Seventy-six percent were male, 82% were Black and 18% were White. Fifteen percent of patients identified as Hispanic/Latino. The mean baseline CD4+ cell count was 545 cells/mm 3  (range 205-1473). At Week 48, 81.8% (45/55 patients) maintained HIV-1 RNA &lt; 50 copies/mL after switching to E/C/F/TAF. There were no clinically significant changes in fasting lipid laboratory tests in patients who switched.
+The mean age was 48 years (range 23-64). Seventy-six percent were male, 82% were Black and 18% were White. Fifteen percent of patients identified as Hispanic/Latino. The mean baseline CD4+ cell count was 545 cells/mm 3 (range 205-1473). At Week 48, 81.8% (45/55 patients) maintained HIV-1 RNA &lt; 50 copies/mL after switching to E/C/F/TAF. There were no clinically significant changes in fasting lipid laboratory tests in patients who switched.
 
 ## Patients co-infected with HIV and HBV
 
-In open-label Study GS-US-292-1249, the efficacy and safety of E/C/F/TAF were evaluated in adult patients co-infected with HIV-1 and chronic hepatitis B. Sixty-nine of the 72 patients were on prior TDF-containing antiretroviral therapy. At the start of treatment with E/C/F/TAF, the 72 patients had been HIV suppressed (HIV-1 RNA &lt; 50 copies/mL) for at least 6 months with or without suppression of HBV DNA and had compensated liver function. The mean age was 50 years (range 28-67), 92% of patients were male, 69% were White, 18% were Black, and 10% were Asian. The mean baseline CD4+ cell count was 636 cells/mm 3  (range 263-1 498). Eighty-six percent of patients (62/72) were HBV suppressed (HBV DNA &lt; 29 IU/mL) and 42% (30/72) were HBeAg positive at baseline.
+In open-label Study GS-US-292-1249, the efficacy and safety of E/C/F/TAF were evaluated in adult patients co-infected with HIV-1 and chronic hepatitis B. Sixty-nine of the 72 patients were on prior TDF-containing antiretroviral therapy. At the start of treatment with E/C/F/TAF, the 72 patients had been HIV suppressed (HIV-1 RNA &lt; 50 copies/mL) for at least 6 months with or without suppression of HBV DNA and had compensated liver function. The mean age was 50 years (range 28-67), 92% of patients were male, 69% were White, 18% were Black, and 10% were Asian. The mean baseline CD4+ cell count was 636 cells/mm 3 (range 263-1 498). Eighty-six percent of patients (62/72) were HBV suppressed (HBV DNA &lt; 29 IU/mL) and 42% (30/72) were HBeAg positive at baseline.
 
 Of the patients who were HBeAg positive at baseline, 1/30 (3.3%) achieved seroconversion to antiHBe at Week 48. Of the patients who were HBsAg positive at baseline, 3/70 (4.3%) achieved seroconversion to anti-HBs at Week 48.
 
@@ -889,7 +860,7 @@ In studies in treatment-naïve adult patients, E/C/F/TAF was associated with low
 
 ## Emtricitabine + tenofovir alafenamide regimen
 
-In Study GS-US-292-0106, the efficacy, safety, and pharmacokinetics of E/C/F/TAF FDC tablet were evaluated in an open-label study of 50 HIV-1 infected, treatment-naïve adolescents. Patients had a mean age of 15 years (range 12-17), were 56% female, 12% Asian, and 88% Black. At baseline, median plasma HIV-1 RNA was 4.7 log10 copies/mL, median CD4+ cell count was 456 cells/mm 3  (range 95 to 1 110), and median CD4+% was 23% (range 7-45). Overall, 22% had baseline plasma HIV-1 RNA &gt; 100 000 copies/mL.
+In Study GS-US-292-0106, the efficacy, safety, and pharmacokinetics of E/C/F/TAF FDC tablet were evaluated in an open-label study of 50 HIV-1 infected, treatment-naïve adolescents. Patients had a mean age of 15 years (range 12-17), were 56% female, 12% Asian, and 88% Black. At baseline, median plasma HIV-1 RNA was 4.7 log10 copies/mL, median CD4+ cell count was 456 cells/mm 3 (range 95 to 1 110), and median CD4+% was 23% (range 7-45). Overall, 22% had baseline plasma HIV-1 RNA &gt; 100 000 copies/mL.
 
 At 48 weeks, 92% (46/50) achieved HIV-1 RNA &lt; 50 copies/mL, similar to response rates in studies of treatment-naïve HIV-1 infected adults. No emergent resistance to E/C/F/TAF was detected through Week 48.
 
@@ -907,7 +878,7 @@ The European Medicines Agency has deferred the obligation to submit the results 
 
 ## Pregnancy
 
-Rilpivirine (one of the components of Emtricitabine/Rilpivirine/Tenofovir Alafenamide Viatris) in combination with a background regimen was evaluated in Study TMC114HIV3015 in 19 pregnant women during the 2 nd  and 3 rd  trimesters, and postpartum. The pharmacokinetic data demonstrate that total exposure (AUC) to rilpivirine as a part of an antiretroviral regimen was approximately 30% lower during pregnancy compared with postpartum (6-12 weeks). The virologic response was generally preserved throughout the study: of the 12 patients that completed the study, 10 patients were suppressed at the end of the study; in the other 2 patients an increase in viral load was observed only postpartum, for at least 1 patient due to suspected suboptimal adherence. No mother to child transmission occurred in all 10 infants born to the mothers who completed the study and for whom the HIV status was available. Rilpivirine was well tolerated during pregnancy and postpartum. There were no new safety findings compared with the known safety profile of rilpivirine in HIV-1 infected adults (see sections 4.4 and 5.2).
+Rilpivirine (one of the components of Emtricitabine/Rilpivirine/Tenofovir Alafenamide Viatris) in combination with a background regimen was evaluated in Study TMC114HIV3015 in 19 pregnant women during the 2 nd and 3 rd trimesters, and postpartum. The pharmacokinetic data demonstrate that total exposure (AUC) to rilpivirine as a part of an antiretroviral regimen was approximately 30% lower during pregnancy compared with postpartum (6-12 weeks). The virologic response was generally preserved throughout the study: of the 12 patients that completed the study, 10 patients were suppressed at the end of the study; in the other 2 patients an increase in viral load was observed only postpartum, for at least 1 patient due to suspected suboptimal adherence. No mother to child transmission occurred in all 10 infants born to the mothers who completed the study and for whom the HIV status was available. Rilpivirine was well tolerated during pregnancy and postpartum. There were no new safety findings compared with the known safety profile of rilpivirine in HIV-1 infected adults (see sections 4.4 and 5.2).
 
 ## 5.2 Pharmacokinetic properties
 
@@ -982,9 +953,7 @@ a n = 24 adolescents (GS-US-292-0106); n = 19 adults (GS-US-292-0102).
 
 b n = 23 adolescents (GS-US-292-0106, population PK analysis).
 
-c
-
-n = 539 (TAF) or 841 (TFV) adults (GS-US-292-0111 and GS-US-292-0104, population PK analysis).
+c n = 539 (TAF) or 841 (TFV) adults (GS-US-292-0111 and GS-US-292-0104, population PK analysis).
 
 ## Renal impairment
 
@@ -1016,9 +985,9 @@ The pharmacokinetics of emtricitabine, rilpivirine and tenofovir alafenamide hav
 
 ## Pregnancy and postpartum
 
-After taking rilpivirine 25 mg once daily as part of an antiretroviral regimen, the total exposure of rilpivirine was lower during pregnancy (similar for the 2 nd  and 3 rd  trimester) compared with postpartum. The decrease in the unbound free fraction of rilpivirine exposure (i.e., active) during pregnancy compared to postpartum was less pronounced than for total exposure of rilpivirine.
+After taking rilpivirine 25 mg once daily as part of an antiretroviral regimen, the total exposure of rilpivirine was lower during pregnancy (similar for the 2 nd and 3 rd trimester) compared with postpartum. The decrease in the unbound free fraction of rilpivirine exposure (i.e., active) during pregnancy compared to postpartum was less pronounced than for total exposure of rilpivirine.
 
-In women receiving rilpivirine 25 mg once daily during the 2 nd  trimester of pregnancy, mean intraindividual values for total rilpivirine Cmax, AUC24h and Cmin values were 21%, 29% and 35% lower, respectively, as compared to postpartum; during the 3 rd  trimester of pregnancy, Cmax, AUC24h and Cmin values were 20%, 31% and 42% lower, respectively, as compared to postpartum.
+In women receiving rilpivirine 25 mg once daily during the 2 nd trimester of pregnancy, mean intraindividual values for total rilpivirine Cmax, AUC24h and Cmin values were 21%, 29% and 35% lower, respectively, as compared to postpartum; during the 3 rd trimester of pregnancy, C max, AUC24h and Cmin values were 20%, 31% and 42% lower, respectively, as compared to postpartum.
 
 ## 5.3 Preclinical safety data
 
@@ -1046,7 +1015,9 @@ Cellulose, microcrystalline Croscarmellose sodium Magnesium stearate Povidone (K
 
 ## Film-coating
 
-Poly(vinyl alcohol) Calcium carbonate Macrogol (MW 3350) Talc
+Poly(vinyl alcohol) Calcium carbonate Macrogol (MW 3350)
+
+Talc
 
 ## 6.2 Incompatibilities
 
@@ -1054,7 +1025,7 @@ Not applicable.
 
 ## 6.3 Shelf life
 
-## 12 months
+2 years
 
 Bottles of 30 film-coated tablets:
 
@@ -1074,7 +1045,11 @@ Blister packs of OPA/Aluminium/PE+Desiccant+HDPE Coating - Aluminium/PE. blister
 
 High density polyethylene (HDPE) bottle pack (primary pack) comprises of round wide mouth white opaque HDPE bottle with white opaque polypropylene (PP) child-resistant closure with aluminium induction sealing liner wad along with a desiccant.
 
-Blisters: 30 and 90 film-coated tablets. Blister Unit Dose (BUD): 30 x 1 and 90 x 1 film-coated tablets. Bottles:30 and 90 film-coated tablets.
+Blisters: 30 and 90 film-coated tablets.
+
+Blister Unit Dose (BUD): 30 x 1 and 90 x 1 film-coated tablets.
+
+Bottles:30 and 90 film-coated tablets.
 
 Not all pack sizes may be marketed.
 
@@ -1090,13 +1065,11 @@ Viatris Limited Damastown Industrial Park Mulhuddart, Dublin 15 DUBLIN Ireland
 
 ## 8. MARKETING AUTHORISATION NUMBER(S)
 
-EU/1/25/1966/001 EU/1/25/1966/002 EU/1/25/1966/003 EU/1/25/1966/004 EU/1/25/1966/005
-
-EU/1/25/1966/006
+EU/1/25/1966/001 EU/1/25/1966/002 EU/1/25/1966/003 EU/1/25/1966/004 EU/1/25/1966/005 EU/1/25/1966/006
 
 ## 9. DATE OF FIRST AUTHORISATION/RENEWAL OF THE AUTHORISATION
 
-Date of first authorisation: Date of latest renewal:
+Date of first authorisation: 19 August 2025 Date of latest renewal:
 
 ## 10. DATE OF REVISION OF THE TEXT
 
@@ -1127,20 +1100,20 @@ Medicinal product subject to restricted medical prescription (see Annex I: Summa
 
 ## C. OTHER CONDITIONS AND REQUIREMENTS OF THE MARKETING AUTHORISATION
 
-## · Periodic safety update reports (PSURs)
+##  Periodic safety update reports (PSURs)
 
 The requirements for submission of PSURs for this medicinal product are set out in the list of Union reference dates (EURD list) provided for under Article 107c(7) of Directive 2001/83/EC and any subsequent updates published on the European medicines web-portal.
 
 ## D. CONDITIONS OR RESTRICTIONS WITH REGARD TO THE SAFE AND EFFECTIVE USE OF THE MEDICINAL PRODUCT
 
-## · Risk management plan (RMP)
+##  Risk management plan (RMP)
 
 The marketing authorisation holder (MAH) shall perform the required pharmacovigilance activities and interventions detailed in the agreed RMP presented in Module 1.8.2 of the marketing authorisation and any agreed subsequent updates of the RMP.
 
 An updated RMP should be submitted:
 
-- At the request of the European Medicines Agency;
-- Whenever the risk management system is modified, especially as the result of new information being received that may lead to a significant change to the benefit/risk profile or as the result of an important (pharmacovigilance or risk minimisation) milestone being reached.
+-  At the request of the European Medicines Agency;
+-  Whenever the risk management system is modified, especially as the result of new information being received that may lead to a significant change to the benefit/risk profile or as the result of an important (pharmacovigilance or risk minimisation) milestone being reached.
 
 <div style=\"page-break-after: always\"></div>
 
@@ -1181,7 +1154,7 @@ Blister Unit Dose (BUD):
 
 30 x 1 film-coated tablets
 
-90 x 1 film-coated tablets.
+- 90 x 1 film-coated tablets.
 
 ## 5. METHOD AND ROUTE(S) OF ADMINISTRATION
 
@@ -1201,84 +1174,72 @@ EXP
 
 <div style=\"page-break-after: always\"></div>
 
-| 9.   | SPECIAL STORAGE CONDITIONS   |
-|------|------------------------------|
+## 9. SPECIAL STORAGE CONDITIONS
 
 Do not store above 25°C.
 
-| 10.   | SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE   |
-|-------|-----------------------------------------------------------------------------------------------------------------------------------------|
+10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
 
-| 11.   | NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER   |
-|-------|----------------------------------------------------------|
+## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
-Viatris Limited Damastown Industrial Park Mulhuddart, Dublin 15 DUBLIN
+Viatris Limited Damastown Industrial Park Mulhuddart, Dublin 15 DUBLIN Ireland
 
-Ireland
+## 12. MARKETING AUTHORISATION NUMBER(S)
 
-| 12.   | MARKETING AUTHORISATION NUMBER(S)   |
-|-------|-------------------------------------|
+EU/1/25/1966/001
 
-EU/1/25/1966/001 EU/1/25/1966/002 EU/1/25/1966/003
+EU/1/25/1966/002
+
+EU/1/25/1966/003
 
 EU/1/25/1966/004
 
-| 13.   | BATCH NUMBER   |
-|-------|----------------|
+## 13. BATCH NUMBER
 
 Lot
 
-| 14.   | GENERAL CLASSIFICATION FOR SUPPLY   |
-|-------|-------------------------------------|
+## 14. GENERAL CLASSIFICATION FOR SUPPLY
 
-| 15.   | INSTRUCTIONS ON USE   |
-|-------|-----------------------|
+15. INSTRUCTIONS ON USE
 
-| 16.   | INFORMATION IN BRAILLE   |
-|-------|--------------------------|
+## 16. INFORMATION IN BRAILLE
 
 Emtricitabine/Rilpivirine/Tenofovir Alafenamide Viatris
 
-| 17.   | UNIQUE IDENTIFIER - 2D BARCODE   |
-|-------|----------------------------------|
+## 17. UNIQUE IDENTIFIER - 2D BARCODE
 
 2D barcode carrying the unique identifier included.
 
-| 18.   | UNIQUE IDENTIFIER - HUMAN READABLE DATA   |
-|-------|-------------------------------------------|
+| 18.   | UNIQUE IDENTIFIER - HUMANREADABLE DATA   |
+|-------|------------------------------------------|
 
-<div style=\"page-break-after: always\"></div>
+## MINIMUM PARTICULARS TO APPEAR ON BLISTERS OR STRIPS
 
-| MINIMUM PARTICULARS TO APPEAR ON BLISTERS OR STRIPS   |
-|-------------------------------------------------------|
-| BLISTER AND BLISTER UNIT DOSE                         |
+## BLISTER AND BLISTER UNIT DOSE
 
-| 1.   | NAME OF THE MEDICINAL PRODUCT   |
-|------|---------------------------------|
+## 1. NAME OF THE MEDICINAL PRODUCT
 
 Emtricitabine/Rilpivirine/Tenofovir Alafenamide Viatris 200 mg/25 mg/25 mg film-coated tablets Emtricitabine/rilpivirine/tenofovir alafenamide
 
-| 2.   | NAME OF THE MARKETING AUTHORISATION HOLDER   |
-|------|----------------------------------------------|
+## 2. NAME OF THE MARKETING AUTHORISATION HOLDER
 
 Viatris Limited
 
-| 3.   | EXPIRY DATE   |
-|------|---------------|
+## 3. EXPIRY DATE
 
 EXP
 
-| 4.   | BATCH NUMBER   |
-|------|----------------|
+## 4. BATCH NUMBER
 
 Lot
 
-| 5.   | OTHER   |
-|------|---------|
+## 5. OTHER
 
 [For BUD]
 
 Oral use
+
+<div style=\"page-break-after: always\"></div>
 
 <div style=\"page-break-after: always\"></div>
 
@@ -1337,11 +1298,19 @@ In-use shelf life of 90 days is proposed after first opening the container.
 
 Do not store above 25°C.
 
-10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
+## 10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
-Viatris Limited Damastown Industrial Park Mulhuddart, Dublin 15 DUBLIN Ireland
+Viatris Limited
+
+Damastown Industrial Park
+
+Mulhuddart, Dublin 15
+
+DUBLIN
+
+Ireland
 
 ## 12. MARKETING AUTHORISATION NUMBER(S)
 
@@ -1355,7 +1324,7 @@ Lot
 
 ## 14. GENERAL CLASSIFICATION FOR SUPPLY
 
-## 15. INSTRUCTIONS ON USE
+15. INSTRUCTIONS ON USE
 
 ## 16. INFORMATION IN BRAILLE
 
@@ -1407,8 +1376,10 @@ Emtricitabine/Rilpivirine/Tenofovir Alafenamide Viatris is used in adults and ad
 
 ## Do not take Emtricitabine/Rilpivirine/Tenofovir Alafenamide Viatris
 
-- If you are allergic to emtricitabine, rilpivirine, tenofovir alafenamide or any of the other ingredients of this medicine (listed in section 6).
-- If you are currently taking any of the following medicines:
+-  If you are allergic to emtricitabine, rilpivirine, tenofovir alafenamide or any of the other ingredients of this medicine (listed in section 6).
+
+##  If you are currently taking any of the following medicines:
+
 - -carbamazepine, oxcarbazepine, phenobarbital and phenytoin (used to treat epilepsy and prevent seizures)
 - -rifabutin, rifampicin and rifapentine (used to treat some bacterial infections such as tuberculosis)
 
@@ -1417,7 +1388,7 @@ Emtricitabine/Rilpivirine/Tenofovir Alafenamide Viatris is used in adults and ad
 - -omeprazole, dexlansoprazole, lansoprazole, rabeprazole, pantoprazole and esomeprazole (used to prevent and treat stomach ulcers, heartburn, acid reflux disease)
 - -dexamethasone (a corticosteroid medicine used to treat inflammation and suppress the immune system) when taken by mouth or injected (except as a single dose treatment)
 - -products that contain St. John's wort ( Hypericum perforatum ) (a herbal remedy used for depression and anxiety)
-- → If this applies to you, do not take Emtricitabine/Rilpivirine/Tenofovir Alafenamide Viatris and tell your doctor immediately.
+-  If this applies to you, do not take Emtricitabine/Rilpivirine/Tenofovir Alafenamide Viatris and tell your doctor immediately.
 
 ## Warnings and precautions
 
@@ -1438,7 +1409,7 @@ Once you start taking Emtricitabine/Rilpivirine/Tenofovir Alafenamide Viatris, l
 
 - Signs of inflammation or infection
 - Joint pain, stiffness or bone problems
-- → If you notice any of these symptoms, tell your doctor immediately. For more information see section 4, Possible side effects.
+-  If you notice any of these symptoms, tell your doctor immediately. For more information see section 4, Possible side effects.
 
 There is a possibility that you may experience kidney problems when taking this medicine over a long period of time ( see Warnings and precautions).
 
@@ -1459,7 +1430,7 @@ Tell your doctor or pharmacist if you are taking, have recently taken or might t
 - -omeprazole, dexlansoprazole, lansoprazole, rabeprazole, pantoprazole and esomeprazole (used to prevent and treat stomach ulcers, heartburn, acid reflux disease)
 - -dexamethasone (a corticosteroid medicine used to treat inflammation and suppress the immune system) when taken by mouth or injected (except as a single dose treatment)
 - -products that contain St. John's wort ( Hypericum perforatum ) (a herbal remedy used for depression and anxiety)
-- → If you are taking any of these medicines, do not take Emtricitabine/Rilpivirine/Tenofovir Alafenamide Viatris and tell your doctor immediately.
+-  If you are taking any of these medicines, do not take Emtricitabine/Rilpivirine/Tenofovir Alafenamide Viatris and tell your doctor immediately.
 
 ## Other types of medicine:
 
@@ -1496,11 +1467,14 @@ These medicines can increase the amount of rilpivirine and tenofovir alafenamide
 These medicines can decrease the amount of rilpivirine (a component of Emtricitabine/Rilpivirine/Tenofovir Alafenamide Viatris) in your blood. If you are taking one of these medicines your doctor will either give you a different medicine, or recommend how and when you take that medicine:
 
 - -If you are taking an antacid, take it at least 2 hours before or at least 4 hours after Emtricitabine/Rilpivirine/Tenofovir Alafenamide Viatris.
-- -If you are taking an H2-antagonist, take it at least 12 hours before or at least 4 hours after Emtricitabine/Rilpivirine/Tenofovir Alafenamide Viatris. H2-antagonists can only be taken once a day if you take Emtricitabine/Rilpivirine/Tenofovir Alafenamide Viatris. H2-antagonists should not be taken in a twice a day regimen. Talk to your doctor about an alternative regimen (see How to take Emtricitabine/Rilpivirine/Tenofovir Alafenamide Viatris ).
+- -If you are taking an H2-antagonist, take it at least 12 hours before or at least 4 hours after Emtricitabine/Rilpivirine/Tenofovir Alafenamide Viatris. H 2 -antagonists can only be taken once a day if you take Emtricitabine/Rilpivirine/Tenofovir Alafenamide Viatris. H 2 -antagonists should not be taken in a twice a day regimen. Talk to your doctor about an alternative regimen (see How to take
+
+Emtricitabine/Rilpivirine/Tenofovir Alafenamide Viatris ).
+
 - Ciclosporin, a medicine used to reduce the strength of the body's immune system: This medicine can increase the amount of rilpivirine and tenofovir alafenamide (components of Emtricitabine/Rilpivirine/Tenofovir Alafenamide Viatris) in your blood. Your doctor will give you a different medicine.
 - Methadone, a medicine used to treat opiate addiction, as your doctor may need to change your methadone dose.
 - Dabigatran etexilate, a medicine used to treat heart conditions, as your doctor may need to monitor the levels of this medicine in your blood.
-- → Tell your doctor if you are taking any of these medicines. Do not stop your treatment without contacting your doctor.
+-  Tell your doctor if you are taking any of these medicines. Do not stop your treatment without contacting your doctor.
 
 ## Pregnancy and breast-feeding
 
@@ -1511,9 +1485,7 @@ Ask your doctor or pharmacist for advice before taking any medicine when pregnan
 
 If you have taken Emtricitabine/Rilpivirine/Tenofovir Alafenamide Viatris during your pregnancy, your doctor may request regular blood tests and other diagnostic tests to monitor the development of your child. In children whose mothers took nucleoside reverse transcriptase inhibitors (NRTIs) during pregnancy, the benefit from the protection against HIV outweighed the risk of side effects.
 
-Do not breast-feed during treatment with Emtricitabine/Rilpivirine/Tenofovir Alafenamide
-
-Viatris. This is because some of the active substances in this medicine pass into human breast milk.
+Do not breast-feed during treatment with Emtricitabine/Rilpivirine/Tenofovir Alafenamide Viatris. This is because some of the active substances in this medicine pass into human breast milk.
 
 <div style=\"page-break-after: always\"></div>
 
@@ -1531,7 +1503,7 @@ If you have been told by your doctor that you have an intolerance to some sugars
 
 This medicine contains less than 1 mmol sodium (23 mg) per tablet, that is to say essentially 'sodium-free'.
 
-## → If any of these applies to you, talk to your doctor before taking Emtricitabine/Rilpivirine/Tenofovir Alafenamide Viatris.
+ If any of these applies to you, talk to your doctor before taking Emtricitabine/Rilpivirine/Tenofovir Alafenamide Viatris.
 
 ## 3. How to take Emtricitabine/Rilpivirine/Tenofovir Alafenamide Viatris
 
@@ -1539,7 +1511,9 @@ Always take this medicine exactly as your doctor has told you. Check with your d
 
 ## The recommended dose is:
 
-Adults: one tablet each day with food Adolescents 12 years of age and older, who weigh at least 35 kg: one tablet each day with food
+Adults: one tablet each day with food
+
+Adolescents 12 years of age and older, who weigh at least 35 kg: one tablet each day with food
 
 It is important to take Emtricitabine/Rilpivirine/Tenofovir Alafenamide Viatris with food to get the right levels of active substance in your body. A nutritional drink alone does not replace food.
 
@@ -1547,7 +1521,7 @@ It is recommended not to chew, crush or split the tablet due to the bitter taste
 
 If you are taking an antacid such as aluminium/magnesium hydroxide, or calcium carbonate, take it at least 2 hours before or at least 4 hours after Emtricitabine/Rilpivirine/Tenofovir Alafenamide Viatris.
 
-If you are taking an H2-antagonist such as famotidine, cimetidine, nizatidine or ranitidine, take it at least 12 hours before or at least 4 hours after Emtricitabine/Rilpivirine/Tenofovir Alafenamide Viatris. H2-antagonists can only be taken once a day if you take Emtricitabine/Rilpivirine/Tenofovir Alafenamide Viatris. H2-antagonists should not be taken twice a day. Talk to your doctor about an alternative regimen.
+If you are taking an H2-antagonist such as famotidine, cimetidine, nizatidine or ranitidine, take it at least 12 hours before or at least 4 hours after Emtricitabine/Rilpivirine/Tenofovir Alafenamide Viatris. H 2 -antagonists can only be taken once a day if you take Emtricitabine/Rilpivirine/Tenofovir Alafenamide Viatris. H2-antagonists should not be taken twice a day. Talk to your doctor about an alternative regimen.
 
 If you are on dialysis , take your daily dose of Emtricitabine/Rilpivirine/Tenofovir Alafenamide Viatris following completion of dialysis.
 
@@ -1565,7 +1539,8 @@ It is important not to miss a dose of Emtricitabine/Rilpivirine/Tenofovir Alafen
 
 If you do miss a dose:
 
-- If you notice within 12 hours of the time you usually take Emtricitabine/Rilpivirine/Tenofovir Alafenamide Viatris, you must take the tablet as soon as possible. Always take the tablet with food. Then take the next dose as usual.
+- If you notice within 12 hours of the time you usually take
+- Emtricitabine/Rilpivirine/Tenofovir Alafenamide Viatris, you must take the tablet as soon as possible. Always take the tablet with food. Then take the next dose as usual.
 - If you notice 12 hours or more after the time you usually take Emtricitabine/Rilpivirine/Tenofovir Alafenamide Viatris, then do not take the missed dose. Wait and take the next dose, with food, at your usual time.
 
 If you vomit less than 4 hours after taking Emtricitabine/Rilpivirine/Tenofovir Alafenamide Viatris, take another tablet with food. If you vomit more than 4 hours after taking Emtricitabine/Rilpivirine/Tenofovir Alafenamide Viatris you do not need to take another tablet until your next regularly scheduled tablet.
@@ -1578,7 +1553,7 @@ When your supply of Emtricitabine/Rilpivirine/Tenofovir Alafenamide Viatris star
 
 If you have both HIV infection and hepatitis B, it is especially important not to stop your Emtricitabine/Rilpivirine/Tenofovir Alafenamide Viatris treatment without talking to your doctor first. You may require blood tests for several months after stopping treatment. In some patients with advanced liver disease or cirrhosis, stopping treatment is not recommended as this may lead to worsening of your hepatitis, which may be life-threatening.
 
-- → Tell your doctor immediately about new or unusual symptoms after you stop treatment, particularly symptoms you associate with hepatitis B infection.
+-  Tell your doctor immediately about new or unusual symptoms after you stop treatment, particularly symptoms you associate with hepatitis B infection.
 
 If you have any further questions on the use of this medicine, ask your doctor or pharmacist.
 
@@ -1599,7 +1574,7 @@ improvement in the body's immune response, enabling the body to fight infections
 - -weakness beginning in the hands and feet and moving up towards the trunk of the body
 - -palpitations, tremor or hyperactivity
 
-## → If you notice these or any symptoms of inflammation or infection, tell your doctor immediately.
+##  If you notice these or any symptoms of inflammation or infection, tell your doctor immediately.
 
 ## Very common side effects
 
@@ -1657,7 +1632,7 @@ improvement in the body's immune response, enabling the body to fight infections
 - hives ( urticaria )
 - joint pain ( arthralgia )
 
-## → If any of the side effects get serious tell your doctor.
+##  If any of the side effects get serious tell your doctor.
 
 ## Other effects that may be seen during HIV treatment
 
@@ -1667,8 +1642,7 @@ The frequency of the following side effects is not known (frequency cannot be es
 - -joint stiffness
 - -joint aches and pains (especially of the hip, knee and shoulder)
 - -difficulty with movement
-
-## → If you notice any of these symptoms tell your doctor.
+-  If you notice any of these symptoms tell your doctor.
 
 During HIV therapy there may be an increase in weight and in levels of blood lipids and glucose. This is partly linked to restored health and life style, and in the case of blood lipids sometimes to the HIV medicines themselves. Your doctor will test for these changes.
 
@@ -1715,7 +1689,9 @@ Mylan Hungary Kft Mylan utca 1, Komárom, 2900, Hungary
 
 ## Mylan Germany GmbH
 
-Zweigniederlassung Bad Homburg v. d. Hoehe, Benzstrasse 1, Bad Homburg v. d. Hoehe, Hessen, 61352, Germany
+Zweigniederlassung Bad Homburg v. d. Hoehe,
+
+Benzstrasse 1, Bad Homburg v. d. Hoehe, Hessen, 61352, Germany
 
 For any information about this medicine, please contact the local representative of the Marketing Authorisation Holder:
 
@@ -1825,7 +1801,7 @@ Tel: + 39 (0) 2 612 46921
 
 ## Κύπρος
 
-CPO Pharmaceuticals Ltd
+CPO Pharmaceuticals Limited
 
 Τηλ: +357 22863100
 

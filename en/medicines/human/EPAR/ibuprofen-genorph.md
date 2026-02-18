@@ -1,20 +1,20 @@
 ---
-document_datetime: 2025-12-29 13:24:31
+document_datetime: 2026-02-16 09:51:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/ibuprofen-genorph.html
 document_name: ibuprofen-genorph.html
 version: success
-processing_time: 0.1088761
-conversion_datetime: 2025-12-30 02:54:34.703597
+processing_time: 0.0971659
+conversion_datetime: 2026-02-18 17:45:31.885951
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.66.0
-  docling-core: 2.57.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.13.0
+  docling-jobkit: 1.11.0
+  docling: 2.74.0
+  docling-core: 2.65.1
+  docling-ibm-models: 3.11.0
+  docling-parse: 5.3.2
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.3-arm64-arm-64bit-Mach-O
 ---
 # Ibuprofen Gen.Orph
 
@@ -25,8 +25,6 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 ibuprofen Medicine Human Authorised
-
-On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -47,7 +45,7 @@ Page contents
 
 Ibuprofen Gen.Orph is a medicine used to treat 'patent ductus arteriosus' in newborn premature babies who were born six or more weeks too early (less than 34 weeks gestational age). Patent ductus arteriosus is a condition where the ductus arteriosus (the blood vessel that allows blood to bypass the baby's lungs before birth) fails to close after birth. This causes heart and lung problems in the baby.
 
-Ibuprofen Gen.Orph is a 'generic medicine'. This means that Ibuprofen Gen.Orph contains the same active substance and works in the same way as a 'reference medicine' already authorised in the EU. The reference medicine for Ibuprofen Gen.Orph is Pedea. For more information on generic medicines, see the question-and-answer document [here](https://www.ema.europa.eu/en/documents/other/questions-and-answers-generic-medicines_en.pdf) .
+Ibuprofen Gen.Orph is a 'generic medicine'. This means that Ibuprofen Gen.Orph contains the same active substance and works in the same way as a 'reference medicine' already authorised in the EU.
 
 Ibuprofen Gen.Orph contains the active substance ibuprofen.
 
@@ -107,7 +105,7 @@ English (EN) (144.81 KB - PDF)
 
 [View](/en/documents/overview/ibuprofen-genorph-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-307)
+[Other languages (22)](#file-language-dropdown-735)
 
 български (BG) (180.19 KB - PDF)
 
@@ -385,17 +383,17 @@ English (EN) (179.25 KB - PDF)
 
 Ibuprofen Gen.Orph : EPAR - Product information
 
-English (EN) (295.01 KB - PDF)
+English (EN) (296.28 KB - PDF)
 
 **First published:** 12/03/2024
 
-**Last updated:** 28/05/2025
+**Last updated:** 16/02/2026
 
 [View](/en/documents/product-information/ibuprofen-genorph-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-413)
+[Other languages (24)](#file-language-dropdown-954)
 
-български (BG) (329.41 KB - PDF)
+български (BG) (350.27 KB - PDF)
 
 **First published:**
 
@@ -403,11 +401,11 @@ English (EN) (295.01 KB - PDF)
 
 **Last updated:**
 
-28/05/2025
+16/02/2026
 
 [View](/bg/documents/product-information/ibuprofen-genorph-epar-product-information_bg.pdf)
 
-español (ES) (283.12 KB - PDF)
+español (ES) (284.95 KB - PDF)
 
 **First published:**
 
@@ -415,11 +413,11 @@ español (ES) (283.12 KB - PDF)
 
 **Last updated:**
 
-28/05/2025
+16/02/2026
 
 [View](/es/documents/product-information/ibuprofen-genorph-epar-product-information_es.pdf)
 
-čeština (CS) (325.83 KB - PDF)
+čeština (CS) (342.68 KB - PDF)
 
 **First published:**
 
@@ -427,11 +425,11 @@ español (ES) (283.12 KB - PDF)
 
 **Last updated:**
 
-28/05/2025
+16/02/2026
 
 [View](/cs/documents/product-information/ibuprofen-genorph-epar-product-information_cs.pdf)
 
-dansk (DA) (280.77 KB - PDF)
+dansk (DA) (282.76 KB - PDF)
 
 **First published:**
 
@@ -439,11 +437,11 @@ dansk (DA) (280.77 KB - PDF)
 
 **Last updated:**
 
-28/05/2025
+16/02/2026
 
 [View](/da/documents/product-information/ibuprofen-genorph-epar-product-information_da.pdf)
 
-Deutsch (DE) (293.45 KB - PDF)
+Deutsch (DE) (295.33 KB - PDF)
 
 **First published:**
 
@@ -451,11 +449,11 @@ Deutsch (DE) (293.45 KB - PDF)
 
 **Last updated:**
 
-28/05/2025
+16/02/2026
 
 [View](/de/documents/product-information/ibuprofen-genorph-epar-product-information_de.pdf)
 
-eesti keel (ET) (274.36 KB - PDF)
+eesti keel (ET) (277.73 KB - PDF)
 
 **First published:**
 
@@ -463,11 +461,11 @@ eesti keel (ET) (274.36 KB - PDF)
 
 **Last updated:**
 
-28/05/2025
+16/02/2026
 
 [View](/et/documents/product-information/ibuprofen-genorph-epar-product-information_et.pdf)
 
-ελληνικά (EL) (335.97 KB - PDF)
+ελληνικά (EL) (353.5 KB - PDF)
 
 **First published:**
 
@@ -475,11 +473,11 @@ eesti keel (ET) (274.36 KB - PDF)
 
 **Last updated:**
 
-28/05/2025
+16/02/2026
 
 [View](/el/documents/product-information/ibuprofen-genorph-epar-product-information_el.pdf)
 
-français (FR) (257.91 KB - PDF)
+français (FR) (273.48 KB - PDF)
 
 **First published:**
 
@@ -487,11 +485,11 @@ français (FR) (257.91 KB - PDF)
 
 **Last updated:**
 
-28/05/2025
+16/02/2026
 
 [View](/fr/documents/product-information/ibuprofen-genorph-epar-product-information_fr.pdf)
 
-hrvatski (HR) (303.25 KB - PDF)
+hrvatski (HR) (327.35 KB - PDF)
 
 **First published:**
 
@@ -499,11 +497,11 @@ hrvatski (HR) (303.25 KB - PDF)
 
 **Last updated:**
 
-28/05/2025
+16/02/2026
 
 [View](/hr/documents/product-information/ibuprofen-genorph-epar-product-information_hr.pdf)
 
-íslenska (IS) (350.15 KB - PDF)
+íslenska (IS) (355.69 KB - PDF)
 
 **First published:**
 
@@ -511,11 +509,11 @@ hrvatski (HR) (303.25 KB - PDF)
 
 **Last updated:**
 
-28/05/2025
+16/02/2026
 
 [View](/is/documents/product-information/ibuprofen-genorph-epar-product-information_is.pdf)
 
-italiano (IT) (289.71 KB - PDF)
+italiano (IT) (299.12 KB - PDF)
 
 **First published:**
 
@@ -523,11 +521,11 @@ italiano (IT) (289.71 KB - PDF)
 
 **Last updated:**
 
-28/05/2025
+16/02/2026
 
 [View](/it/documents/product-information/ibuprofen-genorph-epar-product-information_it.pdf)
 
-latviešu valoda (LV) (339.4 KB - PDF)
+latviešu valoda (LV) (358.41 KB - PDF)
 
 **First published:**
 
@@ -535,11 +533,11 @@ latviešu valoda (LV) (339.4 KB - PDF)
 
 **Last updated:**
 
-28/05/2025
+16/02/2026
 
 [View](/lv/documents/product-information/ibuprofen-genorph-epar-product-information_lv.pdf)
 
-lietuvių kalba (LT) (308.61 KB - PDF)
+lietuvių kalba (LT) (324.9 KB - PDF)
 
 **First published:**
 
@@ -547,11 +545,11 @@ lietuvių kalba (LT) (308.61 KB - PDF)
 
 **Last updated:**
 
-28/05/2025
+16/02/2026
 
 [View](/lt/documents/product-information/ibuprofen-genorph-epar-product-information_lt.pdf)
 
-magyar (HU) (305.83 KB - PDF)
+magyar (HU) (320.13 KB - PDF)
 
 **First published:**
 
@@ -559,11 +557,11 @@ magyar (HU) (305.83 KB - PDF)
 
 **Last updated:**
 
-28/05/2025
+16/02/2026
 
 [View](/hu/documents/product-information/ibuprofen-genorph-epar-product-information_hu.pdf)
 
-Malti (MT) (350.88 KB - PDF)
+Malti (MT) (372.42 KB - PDF)
 
 **First published:**
 
@@ -571,11 +569,11 @@ Malti (MT) (350.88 KB - PDF)
 
 **Last updated:**
 
-28/05/2025
+16/02/2026
 
 [View](/mt/documents/product-information/ibuprofen-genorph-epar-product-information_mt.pdf)
 
-Nederlands (NL) (297.69 KB - PDF)
+Nederlands (NL) (299.92 KB - PDF)
 
 **First published:**
 
@@ -583,11 +581,11 @@ Nederlands (NL) (297.69 KB - PDF)
 
 **Last updated:**
 
-28/05/2025
+16/02/2026
 
 [View](/nl/documents/product-information/ibuprofen-genorph-epar-product-information_nl.pdf)
 
-norsk (NO) (373.51 KB - PDF)
+norsk (NO) (375.2 KB - PDF)
 
 **First published:**
 
@@ -595,11 +593,11 @@ norsk (NO) (373.51 KB - PDF)
 
 **Last updated:**
 
-28/05/2025
+16/02/2026
 
 [View](/no/documents/product-information/ibuprofen-genorph-epar-product-information_no.pdf)
 
-polski (PL) (308.44 KB - PDF)
+polski (PL) (324.79 KB - PDF)
 
 **First published:**
 
@@ -607,11 +605,11 @@ polski (PL) (308.44 KB - PDF)
 
 **Last updated:**
 
-28/05/2025
+16/02/2026
 
 [View](/pl/documents/product-information/ibuprofen-genorph-epar-product-information_pl.pdf)
 
-português (PT) (289.16 KB - PDF)
+português (PT) (290.07 KB - PDF)
 
 **First published:**
 
@@ -619,11 +617,11 @@ português (PT) (289.16 KB - PDF)
 
 **Last updated:**
 
-28/05/2025
+16/02/2026
 
 [View](/pt/documents/product-information/ibuprofen-genorph-epar-product-information_pt.pdf)
 
-română (RO) (289.22 KB - PDF)
+română (RO) (303.24 KB - PDF)
 
 **First published:**
 
@@ -631,11 +629,11 @@ română (RO) (289.22 KB - PDF)
 
 **Last updated:**
 
-28/05/2025
+16/02/2026
 
 [View](/ro/documents/product-information/ibuprofen-genorph-epar-product-information_ro.pdf)
 
-slovenčina (SK) (320.62 KB - PDF)
+slovenčina (SK) (338.32 KB - PDF)
 
 **First published:**
 
@@ -643,11 +641,11 @@ slovenčina (SK) (320.62 KB - PDF)
 
 **Last updated:**
 
-28/05/2025
+16/02/2026
 
 [View](/sk/documents/product-information/ibuprofen-genorph-epar-product-information_sk.pdf)
 
-slovenščina (SL) (282.85 KB - PDF)
+slovenščina (SL) (296.49 KB - PDF)
 
 **First published:**
 
@@ -655,11 +653,11 @@ slovenščina (SL) (282.85 KB - PDF)
 
 **Last updated:**
 
-28/05/2025
+16/02/2026
 
 [View](/sl/documents/product-information/ibuprofen-genorph-epar-product-information_sl.pdf)
 
-Suomi (FI) (280.07 KB - PDF)
+Suomi (FI) (280.96 KB - PDF)
 
 **First published:**
 
@@ -667,11 +665,11 @@ Suomi (FI) (280.07 KB - PDF)
 
 **Last updated:**
 
-28/05/2025
+16/02/2026
 
 [View](/fi/documents/product-information/ibuprofen-genorph-epar-product-information_fi.pdf)
 
-svenska (SV) (278.33 KB - PDF)
+svenska (SV) (279.86 KB - PDF)
 
 **First published:**
 
@@ -679,11 +677,11 @@ svenska (SV) (278.33 KB - PDF)
 
 **Last updated:**
 
-28/05/2025
+16/02/2026
 
 [View](/sv/documents/product-information/ibuprofen-genorph-epar-product-information_sv.pdf)
 
-**Latest procedure affecting product information:** VR/0000267682 27/05/2025
+**Latest procedure affecting product information:** EMA/VR/0000325757 13/02/2026
 
 icon globe
 
@@ -707,7 +705,7 @@ English (EN) (23.85 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/ibuprofen-genorph-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-732)
+[Other languages (24)](#file-language-dropdown-519)
 
 български (BG) (48.72 KB - PDF)
 
@@ -927,7 +925,7 @@ Gen.Orph
 
 185 Bureaux de la Colline
 
-Marketing authorisation issued 16/02/2024 Revision 2
+Marketing authorisation issued 16/02/2024 Revision 3
 
 ## Assessment history
 
@@ -939,9 +937,11 @@ Collapse section
 
 Ibuprofen Gen.Orph : EPAR - Procedural steps taken and scientific information after authorisation
 
-English (EN) (141.08 KB - PDF)
+English (EN) (144.55 KB - PDF)
 
 **First published:** 28/05/2025
+
+**Last updated:** 16/02/2026
 
 [View](/en/documents/procedural-steps-after/ibuprofen-genorph-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf)
 
@@ -983,7 +983,7 @@ English (EN) (131.43 KB - PDF)
 
 [Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 11-14 December 2023](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-11-14-december-2023) 15/12/2023
 
-**This page was last updated on** 28/05/2025
+**This page was last updated on** 16/02/2026
 
 ## Share this page
 

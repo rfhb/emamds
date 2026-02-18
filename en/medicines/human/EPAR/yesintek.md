@@ -1,20 +1,20 @@
 ---
-document_datetime: 2026-01-13 16:10:00
+document_datetime: 2026-02-16 10:30:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/yesintek.html
 document_name: yesintek.html
 version: success
-processing_time: 0.1139312
-conversion_datetime: 2026-01-14 07:20:43.568881
+processing_time: 0.1132833
+conversion_datetime: 2026-02-18 17:51:06.208622
 docling_version:
-  docling-serve: 1.10.0
-  docling-jobkit: 1.8.1
-  docling: 2.68.0
-  docling-core: 2.59.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.13.0
+  docling-jobkit: 1.11.0
+  docling: 2.74.0
+  docling-core: 2.65.1
+  docling-ibm-models: 3.11.0
+  docling-parse: 5.3.2
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.3-arm64-arm-64bit-Mach-O
 ---
 # Yesintek
 
@@ -36,6 +36,7 @@ Page contents
 - [Authorisation details](#authorisation-details)
 - [Assessment history](#assessment-history)
 - [News on Yesintek](#news-on)
+- [Product information - with tracked changes](#product-information-with-tracked-changes-83446)
 
 - Application under evaluation
 - CHMP opinion
@@ -115,7 +116,7 @@ English (EN) (148.82 KB - PDF)
 
 [View](/en/documents/overview/yesintek-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-632)
+[Other languages (22)](#file-language-dropdown-708)
 
 български (BG) (176.25 KB - PDF)
 
@@ -307,17 +308,17 @@ English (EN) (4.54 MB - PDF)
 
 Yesintek : EPAR - Product information
 
-English (EN) (2.45 MB - PDF)
+English (EN) (2.23 MB - PDF)
 
 **First published:** 20/02/2025
 
-**Last updated:** 13/01/2026
+**Last updated:** 16/02/2026
 
 [View](/en/documents/product-information/yesintek-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-974)
+[Other languages (24)](#file-language-dropdown-996)
 
-български (BG) (3.23 MB - PDF)
+български (BG) (2.79 MB - PDF)
 
 **First published:**
 
@@ -325,11 +326,11 @@ English (EN) (2.45 MB - PDF)
 
 **Last updated:**
 
-13/01/2026
+16/02/2026
 
 [View](/bg/documents/product-information/yesintek-epar-product-information_bg.pdf)
 
-español (ES) (2.82 MB - PDF)
+español (ES) (2.59 MB - PDF)
 
 **First published:**
 
@@ -337,11 +338,11 @@ español (ES) (2.82 MB - PDF)
 
 **Last updated:**
 
-13/01/2026
+16/02/2026
 
 [View](/es/documents/product-information/yesintek-epar-product-information_es.pdf)
 
-čeština (CS) (2.72 MB - PDF)
+čeština (CS) (2.58 MB - PDF)
 
 **First published:**
 
@@ -349,11 +350,11 @@ español (ES) (2.82 MB - PDF)
 
 **Last updated:**
 
-13/01/2026
+16/02/2026
 
 [View](/cs/documents/product-information/yesintek-epar-product-information_cs.pdf)
 
-dansk (DA) (2.92 MB - PDF)
+dansk (DA) (2.78 MB - PDF)
 
 **First published:**
 
@@ -361,11 +362,11 @@ dansk (DA) (2.92 MB - PDF)
 
 **Last updated:**
 
-13/01/2026
+16/02/2026
 
 [View](/da/documents/product-information/yesintek-epar-product-information_da.pdf)
 
-Deutsch (DE) (3.38 MB - PDF)
+Deutsch (DE) (3.22 MB - PDF)
 
 **First published:**
 
@@ -373,11 +374,11 @@ Deutsch (DE) (3.38 MB - PDF)
 
 **Last updated:**
 
-13/01/2026
+16/02/2026
 
 [View](/de/documents/product-information/yesintek-epar-product-information_de.pdf)
 
-eesti keel (ET) (2.94 MB - PDF)
+eesti keel (ET) (2.73 MB - PDF)
 
 **First published:**
 
@@ -385,11 +386,11 @@ eesti keel (ET) (2.94 MB - PDF)
 
 **Last updated:**
 
-13/01/2026
+16/02/2026
 
 [View](/et/documents/product-information/yesintek-epar-product-information_et.pdf)
 
-ελληνικά (EL) (3.16 MB - PDF)
+ελληνικά (EL) (3.01 MB - PDF)
 
 **First published:**
 
@@ -397,11 +398,11 @@ eesti keel (ET) (2.94 MB - PDF)
 
 **Last updated:**
 
-13/01/2026
+16/02/2026
 
 [View](/el/documents/product-information/yesintek-epar-product-information_el.pdf)
 
-français (FR) (2.84 MB - PDF)
+français (FR) (2.6 MB - PDF)
 
 **First published:**
 
@@ -409,11 +410,11 @@ français (FR) (2.84 MB - PDF)
 
 **Last updated:**
 
-13/01/2026
+16/02/2026
 
 [View](/fr/documents/product-information/yesintek-epar-product-information_fr.pdf)
 
-hrvatski (HR) (3.05 MB - PDF)
+hrvatski (HR) (2.85 MB - PDF)
 
 **First published:**
 
@@ -421,11 +422,11 @@ hrvatski (HR) (3.05 MB - PDF)
 
 **Last updated:**
 
-13/01/2026
+16/02/2026
 
 [View](/hr/documents/product-information/yesintek-epar-product-information_hr.pdf)
 
-íslenska (IS) (2.85 MB - PDF)
+íslenska (IS) (2.65 MB - PDF)
 
 **First published:**
 
@@ -433,11 +434,11 @@ hrvatski (HR) (3.05 MB - PDF)
 
 **Last updated:**
 
-13/01/2026
+16/02/2026
 
 [View](/is/documents/product-information/yesintek-epar-product-information_is.pdf)
 
-italiano (IT) (2.98 MB - PDF)
+italiano (IT) (2.74 MB - PDF)
 
 **First published:**
 
@@ -445,11 +446,11 @@ italiano (IT) (2.98 MB - PDF)
 
 **Last updated:**
 
-13/01/2026
+16/02/2026
 
 [View](/it/documents/product-information/yesintek-epar-product-information_it.pdf)
 
-latviešu valoda (LV) (2.86 MB - PDF)
+latviešu valoda (LV) (2.58 MB - PDF)
 
 **First published:**
 
@@ -457,11 +458,11 @@ latviešu valoda (LV) (2.86 MB - PDF)
 
 **Last updated:**
 
-13/01/2026
+16/02/2026
 
 [View](/lv/documents/product-information/yesintek-epar-product-information_lv.pdf)
 
-lietuvių kalba (LT) (2.99 MB - PDF)
+lietuvių kalba (LT) (2.81 MB - PDF)
 
 **First published:**
 
@@ -469,11 +470,11 @@ lietuvių kalba (LT) (2.99 MB - PDF)
 
 **Last updated:**
 
-13/01/2026
+16/02/2026
 
 [View](/lt/documents/product-information/yesintek-epar-product-information_lt.pdf)
 
-magyar (HU) (3.13 MB - PDF)
+magyar (HU) (2.94 MB - PDF)
 
 **First published:**
 
@@ -481,11 +482,11 @@ magyar (HU) (3.13 MB - PDF)
 
 **Last updated:**
 
-13/01/2026
+16/02/2026
 
 [View](/hu/documents/product-information/yesintek-epar-product-information_hu.pdf)
 
-Malti (MT) (3.21 MB - PDF)
+Malti (MT) (2.92 MB - PDF)
 
 **First published:**
 
@@ -493,11 +494,11 @@ Malti (MT) (3.21 MB - PDF)
 
 **Last updated:**
 
-13/01/2026
+16/02/2026
 
 [View](/mt/documents/product-information/yesintek-epar-product-information_mt.pdf)
 
-Nederlands (NL) (3.03 MB - PDF)
+Nederlands (NL) (2.82 MB - PDF)
 
 **First published:**
 
@@ -505,11 +506,11 @@ Nederlands (NL) (3.03 MB - PDF)
 
 **Last updated:**
 
-13/01/2026
+16/02/2026
 
 [View](/nl/documents/product-information/yesintek-epar-product-information_nl.pdf)
 
-norsk (NO) (2.74 MB - PDF)
+norsk (NO) (2.58 MB - PDF)
 
 **First published:**
 
@@ -517,11 +518,11 @@ norsk (NO) (2.74 MB - PDF)
 
 **Last updated:**
 
-13/01/2026
+16/02/2026
 
 [View](/no/documents/product-information/yesintek-epar-product-information_no.pdf)
 
-polski (PL) (3.08 MB - PDF)
+polski (PL) (2.88 MB - PDF)
 
 **First published:**
 
@@ -529,11 +530,11 @@ polski (PL) (3.08 MB - PDF)
 
 **Last updated:**
 
-13/01/2026
+16/02/2026
 
 [View](/pl/documents/product-information/yesintek-epar-product-information_pl.pdf)
 
-português (PT) (2.85 MB - PDF)
+português (PT) (2.61 MB - PDF)
 
 **First published:**
 
@@ -541,11 +542,11 @@ português (PT) (2.85 MB - PDF)
 
 **Last updated:**
 
-13/01/2026
+16/02/2026
 
 [View](/pt/documents/product-information/yesintek-epar-product-information_pt.pdf)
 
-română (RO) (2.65 MB - PDF)
+română (RO) (2.5 MB - PDF)
 
 **First published:**
 
@@ -553,11 +554,11 @@ română (RO) (2.65 MB - PDF)
 
 **Last updated:**
 
-13/01/2026
+16/02/2026
 
 [View](/ro/documents/product-information/yesintek-epar-product-information_ro.pdf)
 
-slovenčina (SK) (3.12 MB - PDF)
+slovenčina (SK) (2.95 MB - PDF)
 
 **First published:**
 
@@ -565,11 +566,11 @@ slovenčina (SK) (3.12 MB - PDF)
 
 **Last updated:**
 
-13/01/2026
+16/02/2026
 
 [View](/sk/documents/product-information/yesintek-epar-product-information_sk.pdf)
 
-slovenščina (SL) (2.99 MB - PDF)
+slovenščina (SL) (2.83 MB - PDF)
 
 **First published:**
 
@@ -577,11 +578,11 @@ slovenščina (SL) (2.99 MB - PDF)
 
 **Last updated:**
 
-13/01/2026
+16/02/2026
 
 [View](/sl/documents/product-information/yesintek-epar-product-information_sl.pdf)
 
-Suomi (FI) (2.96 MB - PDF)
+Suomi (FI) (2.74 MB - PDF)
 
 **First published:**
 
@@ -589,11 +590,11 @@ Suomi (FI) (2.96 MB - PDF)
 
 **Last updated:**
 
-13/01/2026
+16/02/2026
 
 [View](/fi/documents/product-information/yesintek-epar-product-information_fi.pdf)
 
-svenska (SV) (2.61 MB - PDF)
+svenska (SV) (2.47 MB - PDF)
 
 **First published:**
 
@@ -601,11 +602,11 @@ svenska (SV) (2.61 MB - PDF)
 
 **Last updated:**
 
-13/01/2026
+16/02/2026
 
 [View](/sv/documents/product-information/yesintek-epar-product-information_sv.pdf)
 
-**Latest procedure affecting product information:** VR/0000290373 11/12/2025
+**Latest procedure affecting product information:** EMA/N/0000326579 13/02/2026
 
 icon globe
 
@@ -631,7 +632,7 @@ English (EN) (79.32 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/yesintek-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-66)
+[Other languages (24)](#file-language-dropdown-126)
 
 български (BG) (99.99 KB - PDF)
 
@@ -963,7 +964,7 @@ Biosimilar Collaborations Ireland Limited
 
 Unit 35/36
 
-Opinion adopted 12/12/2024 Marketing authorisation issued 14/02/2025 Revision 2
+Opinion adopted 12/12/2024 Marketing authorisation issued 14/02/2025 Revision 3
 
 ## Assessment history
 
@@ -975,11 +976,11 @@ Collapse section
 
 Yesintek : EPAR - Procedural steps taken and scientific information after authorisation
 
-English (EN) (177.51 KB - PDF)
+English (EN) (170.31 KB - PDF)
 
 **First published:** 07/11/2025
 
-**Last updated:** 13/01/2026
+**Last updated:** 16/02/2026
 
 [View](/en/documents/procedural-steps-after/yesintek-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf)
 
@@ -1013,7 +1014,213 @@ English (EN) (164.37 KB - PDF)
 
 [Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 9-12 December 2024](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-9-12-december-2024) 13/12/2024
 
-**This page was last updated on** 13/01/2026
+#### Product information - with tracked changes
+
+The approved product information for this medicine is available below showing the changes since the previous procedure affecting the product information. The same document without tracked changes is above under 'Product information'.
+
+Yesintek : EPAR - Product information - tracked changes
+
+English (EN) (1.86 MB - DOCX)
+
+**First published:** 16/02/2026
+
+[View](/en/documents/product-information-tracked-changes/yesintek-epar-product-information-tracked-changes_en.docx)
+
+[Other languages (24)](#file-language-dropdown-941)
+
+български (BG) (2.92 MB - DOCX)
+
+**First published:**
+
+16/02/2026
+
+[View](/bg/documents/product-information-tracked-changes/yesintek-epar-product-information-tracked-changes_bg.docx)
+
+español (ES) (2.66 MB - DOCX)
+
+**First published:**
+
+16/02/2026
+
+[View](/es/documents/product-information-tracked-changes/yesintek-epar-product-information-tracked-changes_es.docx)
+
+čeština (CS) (2.3 MB - DOCX)
+
+**First published:**
+
+16/02/2026
+
+[View](/cs/documents/product-information-tracked-changes/yesintek-epar-product-information-tracked-changes_cs.docx)
+
+dansk (DA) (3.28 MB - DOCX)
+
+**First published:**
+
+16/02/2026
+
+[View](/da/documents/product-information-tracked-changes/yesintek-epar-product-information-tracked-changes_da.docx)
+
+Deutsch (DE) (3.1 MB - DOCX)
+
+**First published:**
+
+16/02/2026
+
+[View](/de/documents/product-information-tracked-changes/yesintek-epar-product-information-tracked-changes_de.docx)
+
+eesti keel (ET) (3.21 MB - DOCX)
+
+**First published:**
+
+16/02/2026
+
+[View](/et/documents/product-information-tracked-changes/yesintek-epar-product-information-tracked-changes_et.docx)
+
+ελληνικά (EL) (2.58 MB - DOCX)
+
+**First published:**
+
+16/02/2026
+
+[View](/el/documents/product-information-tracked-changes/yesintek-epar-product-information-tracked-changes_el.docx)
+
+français (FR) (2.44 MB - DOCX)
+
+**First published:**
+
+16/02/2026
+
+[View](/fr/documents/product-information-tracked-changes/yesintek-epar-product-information-tracked-changes_fr.docx)
+
+hrvatski (HR) (2.49 MB - DOCX)
+
+**First published:**
+
+16/02/2026
+
+[View](/hr/documents/product-information-tracked-changes/yesintek-epar-product-information-tracked-changes_hr.docx)
+
+íslenska (IS) (2.67 MB - DOCX)
+
+**First published:**
+
+16/02/2026
+
+[View](/is/documents/product-information-tracked-changes/yesintek-epar-product-information-tracked-changes_is.docx)
+
+italiano (IT) (2.55 MB - DOCX)
+
+**First published:**
+
+16/02/2026
+
+[View](/it/documents/product-information-tracked-changes/yesintek-epar-product-information-tracked-changes_it.docx)
+
+latviešu valoda (LV) (2.86 MB - DOCX)
+
+**First published:**
+
+16/02/2026
+
+[View](/lv/documents/product-information-tracked-changes/yesintek-epar-product-information-tracked-changes_lv.docx)
+
+lietuvių kalba (LT) (3.14 MB - DOCX)
+
+**First published:**
+
+16/02/2026
+
+[View](/lt/documents/product-information-tracked-changes/yesintek-epar-product-information-tracked-changes_lt.docx)
+
+magyar (HU) (2.55 MB - DOCX)
+
+**First published:**
+
+16/02/2026
+
+[View](/hu/documents/product-information-tracked-changes/yesintek-epar-product-information-tracked-changes_hu.docx)
+
+Malti (MT) (3.24 MB - DOCX)
+
+**First published:**
+
+16/02/2026
+
+[View](/mt/documents/product-information-tracked-changes/yesintek-epar-product-information-tracked-changes_mt.docx)
+
+Nederlands (NL) (2.85 MB - DOCX)
+
+**First published:**
+
+16/02/2026
+
+[View](/nl/documents/product-information-tracked-changes/yesintek-epar-product-information-tracked-changes_nl.docx)
+
+norsk (NO) (2.68 MB - DOCX)
+
+**First published:**
+
+16/02/2026
+
+[View](/no/documents/product-information-tracked-changes/yesintek-epar-product-information-tracked-changes_no.docx)
+
+polski (PL) (2.72 MB - DOCX)
+
+**First published:**
+
+16/02/2026
+
+[View](/pl/documents/product-information-tracked-changes/yesintek-epar-product-information-tracked-changes_pl.docx)
+
+português (PT) (3.24 MB - DOCX)
+
+**First published:**
+
+16/02/2026
+
+[View](/pt/documents/product-information-tracked-changes/yesintek-epar-product-information-tracked-changes_pt.docx)
+
+română (RO) (1.8 MB - DOCX)
+
+**First published:**
+
+16/02/2026
+
+[View](/ro/documents/product-information-tracked-changes/yesintek-epar-product-information-tracked-changes_ro.docx)
+
+slovenčina (SK) (2.55 MB - DOCX)
+
+**First published:**
+
+16/02/2026
+
+[View](/sk/documents/product-information-tracked-changes/yesintek-epar-product-information-tracked-changes_sk.docx)
+
+slovenščina (SL) (3.05 MB - DOCX)
+
+**First published:**
+
+16/02/2026
+
+[View](/sl/documents/product-information-tracked-changes/yesintek-epar-product-information-tracked-changes_sl.docx)
+
+Suomi (FI) (2.75 MB - DOCX)
+
+**First published:**
+
+16/02/2026
+
+[View](/fi/documents/product-information-tracked-changes/yesintek-epar-product-information-tracked-changes_fi.docx)
+
+svenska (SV) (2.32 MB - DOCX)
+
+**First published:**
+
+16/02/2026
+
+[View](/sv/documents/product-information-tracked-changes/yesintek-epar-product-information-tracked-changes_sv.docx)
+
+**This page was last updated on** 16/02/2026
 
 ## Share this page
 

@@ -1,20 +1,20 @@
 ---
-document_datetime: 2026-01-13 16:04:59
+document_datetime: 2026-02-16 10:22:16
 document_pages: 172
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/yesintek-epar-product-information_en.pdf
 document_name: yesintek-epar-product-information_en.pdf
 version: success
-processing_time: 46.6453896
-conversion_datetime: 2026-01-14 08:31:06.612683
+processing_time: 49.8970276
+conversion_datetime: 2026-02-18 17:44:32.503832
 docling_version:
-  docling-serve: 1.10.0
-  docling-jobkit: 1.8.1
-  docling: 2.68.0
-  docling-core: 2.59.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.13.0
+  docling-jobkit: 1.11.0
+  docling: 2.74.0
+  docling-core: 2.65.1
+  docling-ibm-models: 3.11.0
+  docling-parse: 5.3.2
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.3-arm64-arm-64bit-Mach-O
 ---
 ## ANNEX I
 
@@ -255,8 +255,8 @@ Table 2: List of adverse reactions
 | Infections and infestations                          | Common: Upper respiratory tract infection, nasopharyngitis, sinusitis Uncommon: Cellulitis, dental infections, herpes zoster, lower respiratory tract infection, viral upper respiratory tract infection, vulvovaginal mycotic infection |
 | Immune system disorders                              | Uncommon: Hypersensitivity reactions (including rash, urticaria) Rare: Serious hypersensitivity reactions (including anaphylaxis, angioedema)                                                                                            |
 | Psychiatric disorders                                | Uncommon: Depression                                                                                                                                                                                                                     |
-| Nervous system disorders                             | Common: Dizziness, headache Uncommon: Facial palsy                                                                                                                                                                                       |
-| Respiratory, thoracic and mediastinal disorders      | Common: Oropharyngeal pain Uncommon: Nasal congestion Rare: Allergic alveolitis, eosinophilic pneumonia Very rare: Organising pneumonia*                                                                                                 |
+| Nervous system disorders                             | Common:Dizziness, headache Uncommon: Facial palsy                                                                                                                                                                                        |
+| Respiratory, thoracic and mediastinal disorders      | Common:Oropharyngeal pain Uncommon: Nasal congestion Rare: Allergic alveolitis, eosinophilic pneumonia Very rare: Organising pneumonia*                                                                                                  |
 | Gastrointestinal disorders                           | Common: Diarrhoea, nausea, vomiting                                                                                                                                                                                                      |
 | Skin and subcutaneous tissue disorders               | Common: Pruritus Uncommon: Pustular psoriasis, skin exfoliation, acne Rare: Exfoliative dermatitis, hypersensitivity vasculitis Very rare: Bullous pemphigoid, cutaneous lupus erythematosus                                             |
 | Musculoskeletal and connective tissue disorders      | Common: Back pain, myalgia, arthralgia Very rare: Lupus-like syndrome                                                                                                                                                                    |
@@ -353,9 +353,10 @@ Table 3: Induction of Clinical Response and Remission in UNITI-1 and UNITI 2
 
 Clinical remission is defined as CDAI score &lt; 150; Clinical response is defined as reduction in CDAI score by at least 100 points or being in clinical remission 70-point response is defined as reduction in CDAI score by at least 70 points
 
-*AntiTNFα failures
+- *AntiTNFα failures
+- **  Conventional therapy failures
 
-**  Conventional therapy failures a p &lt; 0.001
+a p &lt; 0.001
 
 b p &lt; 0.01
 
@@ -688,7 +689,7 @@ Consideration should be given to discontinuing treatment in patients who have sh
 
 <div style=\"page-break-after: always\"></div>
 
-to 28 weeks of treatment.
+## to 28 weeks of treatment.
 
 ## Crohn's Disease
 
@@ -891,8 +892,8 @@ Table 3:  List of adverse reactions
 | Infections and infestations                          | Common: Upper respiratory tract infection, nasopharyngitis, sinusitis Uncommon: Cellulitis, dental infections, herpes zoster, lower respiratory tract infection, viral upper respiratory tract infection, vulvovaginal mycotic infection |
 | Immune system disorders                              | Uncommon: Hypersensitivity reactions (including rash, urticaria) Rare: Serious hypersensitivity reactions (including anaphylaxis, angioedema)                                                                                            |
 | Psychiatric disorders                                | Uncommon: Depression                                                                                                                                                                                                                     |
-| Nervous system disorders                             | Common: Dizziness, headache Uncommon: Facial palsy                                                                                                                                                                                       |
-| Respiratory, thoracic and mediastinal disorders      | Common: Oropharyngeal pain Uncommon: Nasal congestion Rare: Allergic alveolitis, eosinophilic pneumonia Very rare: Organising pneumonia*                                                                                                 |
+| Nervous system disorders                             | Common:Dizziness, headache Uncommon: Facial palsy                                                                                                                                                                                        |
+| Respiratory, thoracic and mediastinal disorders      | Common:Oropharyngeal pain Uncommon: Nasal congestion Rare: Allergic alveolitis, eosinophilic pneumonia Very rare: Organising pneumonia*                                                                                                  |
 | Gastrointestinal disorders                           | Common: Diarrhoea, nausea, vomiting                                                                                                                                                                                                      |
 | Skin and subcutaneous tissue disorders               | Common: Pruritus Uncommon: Pustular psoriasis, skin exfoliation, acne Rare: Exfoliative dermatitis, hypersensitivity vasculitis Very rare: Bullous pemphigoid, cutaneous lupus erythematosus                                             |
 | Musculoskeletal and connective tissue disorders      | Common: Back pain, myalgia, arthralgia Very rare: Lupus-like syndrome                                                                                                                                                                    |
@@ -1012,19 +1013,19 @@ Table 4:  Summary of clinical response in Psoriasis Study 1 (PHOENIX 1) and Psor
 
 Table 5:  Summary of clinical response at week 12 in Psoriasis Study 3 (ACCEPT)
 
-|                                 | Psoriasis Study 3                       | Psoriasis Study 3                       | Psoriasis Study 3                       |
-|---------------------------------|-----------------------------------------|-----------------------------------------|-----------------------------------------|
-|                                 | Etanercept 24 doses (50 mgtwice a week) | ustekinumab 2 doses (week 0 and week 4) | ustekinumab 2 doses (week 0 and week 4) |
-|                                 |                                         | 45 mg                                   | 90 mg                                   |
-| Number of patients randomised   | 347                                     | 209                                     | 347                                     |
-| PASI 50 response n (%)          | 286 (82%)                               | 181 (87%)                               | 320 (92%) a                             |
-| PASI 75 response n (%)          | 197 (57%)                               | 141 (67%) b                             | 256 (74%) a                             |
-| PASI 90 response n (%)          | 80 (23%)                                | 76 (36%) a                              | 155 (45%) a                             |
-| PGA of cleared or minimal n (%) | 170 (49%)                               | 136 (65%) a                             | 245 (71%) a                             |
-| Number of patients ≤ 100 kg     | 251                                     | 151                                     | 244                                     |
-| PASI 75 response n (%)          | 154 (61%)                               | 109 (72%)                               | 189 (77%)                               |
-| Number of patients > 100 kg     | 96                                      | 58                                      | 103                                     |
-| PASI 75 response n (%)          | 43 (45%)                                | 32 (55%)                                | 67 (65%)                                |
+|                                 | Psoriasis Study 3                 | Psoriasis Study 3                       | Psoriasis Study 3                       |
+|---------------------------------|-----------------------------------|-----------------------------------------|-----------------------------------------|
+|                                 | Etanercept 24 doses (50 mgtwice a | ustekinumab 2 doses (week 0 and week 4) | ustekinumab 2 doses (week 0 and week 4) |
+|                                 | week)                             | 45 mg                                   | 90 mg                                   |
+| Number of patients randomised   | 347                               | 209                                     | 347                                     |
+| PASI 50 response n (%)          | 286 (82%)                         | 181 (87%)                               | 320 (92%) a                             |
+| PASI 75 response n (%)          | 197 (57%)                         | 141 (67%) b                             | 256 (74%) a                             |
+| PASI 90 response n (%)          | 80 (23%)                          | 76 (36%) a                              | 155 (45%) a                             |
+| PGA of cleared or minimal n (%) | 170 (49%)                         | 136 (65%) a                             | 245 (71%) a                             |
+| Number of patients ≤ 100 kg     | 251                               | 151                                     | 244                                     |
+| PASI 75 response n (%)          | 154 (61%)                         | 109 (72%)                               | 189 (77%)                               |
+| Number of patients > 100 kg     | 96                                | 58                                      | 103                                     |
+| PASI 75 response n (%)          | 43 (45%)                          | 32 (55%)                                | 67 (65%)                                |
 
 In Psoriasis Study 1 maintenance of PASI 75 was significantly superior with continuous treatment compared with treatment withdrawal (p &lt; 0.001). Similar results were seen with each dose of ustekinumab. At 1 year (week 52), 89% of patients re-randomised to maintenance treatment were PASI 75 responders compared with 63% of patients re-randomised to placebo (treatment withdrawal) (p &lt; 0.001). At 18 months (week 76), 84% of patients re -randomised to maintenance treatment were
 
@@ -1069,12 +1070,14 @@ Table 6:  Number of patients who achieved clinical response in Psoriatic arthrit
 | ACR20response, n (%)                       | 39 (25%)                      | 67 (44%)                      | 78 (51%)                      | 17 (23%)                      | 32 (43%)                      | 34 (47%)                      |
 | Number of patients with ≥ 3% BSA d         | 105                           | 105                           | 111                           | 54                            | 58                            | 57                            |
 | PASI 75 response, n (%)                    | 14 (13%)                      | 64 (61%)                      | 73 (66%)                      | 4 (7%)                        | 31 (53%)                      | 32 (56%)                      |
-| Number of patients> 100 kg                 | 52                            | 52                            | 50                            | 30                            | 29                            | 31                            |
+| Number of patients > 100 kg                | 52                            | 52                            | 50                            | 30                            | 29                            | 31                            |
 | ACR20response, n (%)                       | 8 (15%)                       | 20 (38%)                      | 23 (46%)                      | 4 (13%)                       | 13 (45%)                      | 12 (39%)                      |
 | Number of patients with ≥ 3% BSA d         | 41                            | 40                            | 38                            | 26                            | 22                            | 24                            |
 | PASI 75 response, n (%)                    | 2 (5%)                        | 19 (48%)                      | 20 (53%)                      | 0                             | 10 (45%)                      | 13 (54%)                      |
 
-a p &lt; 0.001
+a p &lt;
+
+0.001
 
 b p &lt; 0.05
 
@@ -1124,25 +1127,24 @@ All patients were followed for efficacy for up to 52 weeks following first admin
 
 Table 7:  Summary of primary and secondary endpoints at week 12 and week 52
 
-| Paediatric psoriasis study(CADMUS) (Age 12-17)   | Paediatric psoriasis study(CADMUS) (Age 12-17)   | Paediatric psoriasis study(CADMUS) (Age 12-17)   | Paediatric psoriasis study(CADMUS) (Age 12-17)   |
-|--------------------------------------------------|--------------------------------------------------|--------------------------------------------------|--------------------------------------------------|
-|                                                  | Week 12                                          | Week 12                                          | Week 52                                          |
-|                                                  | Placebo                                          | Recommended dose of ustekinumab                  | Recommended dose of ustekinumab                  |
-|                                                  | n (%)                                            | n (%)                                            | n (%)                                            |
-| Patients randomised                              | 37                                               | 36                                               | 35                                               |
-| PGA                                              |                                                  |                                                  |                                                  |
-| PGAof cleared (0) or minimal (1)                 | 2 (5.4%)                                         | 25 (69.4%) a                                     | 20 (57.1%)                                       |
-| PGA of Cleared (0)                               | 1 (2.7%)                                         | 17 (47.2%) a                                     | 13 (37.1%)                                       |
-| PASI                                             |                                                  |                                                  |                                                  |
-| PASI 75 responders                               | 4 (10.8%)                                        | 29 (80.6%) a                                     | 28 (80.0%)                                       |
-| PASI 90 responders                               | 2 (5.4%)                                         | 22 (61.1%) a                                     | 23 (65.7%)                                       |
-| PASI 100 responders                              | 1 (2.7%)                                         | 14 (38.9%) a                                     | 13 (37.1%)                                       |
-| CDLQI                                            |                                                  |                                                  |                                                  |
-| CDLQI of 0 or 1 b                                | 6 (16.2%)                                        | 18 (50.0%) c                                     | 20 (57.1%)                                       |
-| PedsQL                                           |                                                  |                                                  |                                                  |
-| Change from baseline Mean (SD) d                 | 3.35 (10.04)                                     | 8.03 (10.44) e                                   | 7.26 (10.92)                                     |
+| Paediatric psoriasis study (CADMUS) (Age 12-17)   | Paediatric psoriasis study (CADMUS) (Age 12-17)   | Paediatric psoriasis study (CADMUS) (Age 12-17)   | Paediatric psoriasis study (CADMUS) (Age 12-17)   |
+|---------------------------------------------------|---------------------------------------------------|---------------------------------------------------|---------------------------------------------------|
+|                                                   | Week 12                                           | Week 12                                           | Week 52                                           |
+|                                                   | Placebo                                           | Recommended dose of ustekinumab                   | Recommended dose of ustekinumab                   |
+|                                                   | n (%)                                             | n (%)                                             | n (%)                                             |
+| Patients randomised                               | 37                                                | 36                                                | 35                                                |
+| PGA                                               |                                                   |                                                   |                                                   |
+| PGAof cleared (0) or minimal (1)                  | 2 (5.4%)                                          | 25 (69.4%) a                                      | 20 (57.1%)                                        |
+| PGA of Cleared (0)                                | 1 (2.7%)                                          | 17 (47.2%) a                                      | 13 (37.1%)                                        |
+| PASI                                              |                                                   |                                                   |                                                   |
+| PASI 75 responders                                | 4 (10.8%)                                         | 29 (80.6%) a                                      | 28 (80.0%)                                        |
+| PASI 90 responders                                | 2 (5.4%)                                          | 22 (61.1%) a                                      | 23 (65.7%)                                        |
+| PASI 100 responders                               | 1 (2.7%)                                          | 14 (38.9%) a                                      | 13 (37.1%)                                        |
+| CDLQI                                             |                                                   |                                                   |                                                   |
+| CDLQI of 0 or 1 b                                 | 6 (16.2%)                                         | 18 (50.0%) c                                      | 20 (57.1%)                                        |
+| PedsQL                                            |                                                   |                                                   |                                                   |
+| Change from baseline Mean (SD) d                  | 3.35 (10.04)                                      | 8.03 (10.44) e                                    | 7.26 (10.92)                                      |
 
-- b CDLQI: The CDLQI is a dermatology instrument to assess the effect of a skin problem on the health-related quality of life in the paediatric population. CDLQI of 0 or 1 indicates no effect on child's quality of life.
 - c p = 0.002
 - d PedsQL: The PedsQL Total Scale Score is a general health-related quality of life measure developed for use in children and adolescent populations. For the placebo group at week 12, n = 36
 - e p = 0.028
@@ -1167,8 +1169,8 @@ Table 8:  Summary of primary and secondary endpoints at week 12 and week 52
 
 | Paediatric psoriasis study (CADMUSJr.) (Age 6-11)   | Paediatric psoriasis study (CADMUSJr.) (Age 6-11)   | Paediatric psoriasis study (CADMUSJr.) (Age 6-11)   |
 |-----------------------------------------------------|-----------------------------------------------------|-----------------------------------------------------|
-|                                                     | Week 12                                             | Week 52 Recommended dose of ustekinumab             |
-|                                                     | Recommended dose of ustekinumab                     |                                                     |
+|                                                     | Week 12                                             | Week 52 dose                                        |
+|                                                     | Recommended dose of ustekinumab                     | Recommended of ustekinumab                          |
 |                                                     | n (%)                                               | n (%)                                               |
 | Patients enrolled                                   | 44                                                  | 41                                                  |
 | PGA                                                 |                                                     |                                                     |
@@ -1367,9 +1369,7 @@ Carcinogenicity studies were not performed with ustekinumab due to the lack of a
 
 <div style=\"page-break-after: always\"></div>
 
-L-histidine monohydrochloride monohydrate Polysorbate 80 (E 433) Sucrose Sodium hydroxide (for pH adjustment) Hydrochloric acid (for pH adjustment)
-
-Water for injections
+L-histidine monohydrochloride monohydrate Polysorbate 80 (E 433) Sucrose Sodium hydroxide (for pH adjustment) Hydrochloric acid (for pH adjustment) Water for injections
 
 ## 6.2 Incompatibilities
 
@@ -1641,9 +1641,7 @@ In patients with psoriasis, exfoliative dermatitis has been reported following u
 
 Cases of lupus-related conditions have been reported in patients treated with ustekinumab, including cutaneous lupus erythematosus and lupus-like syndrome. If lesions occur, especially in sun exposed areas of the skin or if accompanied by arthralgia, the patient should seek medical attention promptly. If the diagnosis of a lupus-related condition is confirmed, ustekinumab should be discontinued and appropriate treatment initiated.
 
-## Special populations
-
-## Elderly
+## Special populations Elderly
 
 No overall differences in efficacy or safety in patients aged 65 and older who received ustekinumab were observed compared to younger patients in clinical studies in approved indications, however the number of patients aged 65 and older is not sufficient to determine whether they respond differently from younger patients. Because there is a higher incidence of infections in the elderly population in general, caution should be used in treating the elderly.
 
@@ -1724,8 +1722,8 @@ Table 1: List of adverse reactions
 | Infections and infestations                          | Common: Upper respiratory tract infection, nasopharyngitis, sinusitis Uncommon: Cellulitis, dental infections, herpes zoster, lower respiratory tract infection, viral upper respiratory tract infection, vulvovaginal mycotic infection |
 | Immune system disorders                              | Uncommon: Hypersensitivity reactions (including rash, urticaria) Rare: Serious hypersensitivity reactions (including anaphylaxis, angioedema)                                                                                            |
 | Psychiatric disorders                                | Uncommon: Depression                                                                                                                                                                                                                     |
-| Nervous system disorders                             | Common: Dizziness, headache Uncommon: Facial palsy                                                                                                                                                                                       |
-| Respiratory, thoracic and mediastinal disorders      | Common: Oropharyngeal pain Uncommon: Nasal congestion Rare: Allergic alveolitis, eosinophilic pneumonia Very rare: Organising pneumonia*                                                                                                 |
+| Nervous system disorders                             | Common:Dizziness, headache Uncommon: Facial palsy                                                                                                                                                                                        |
+| Respiratory, thoracic and mediastinal disorders      | Common:Oropharyngeal pain Uncommon: Nasal congestion Rare: Allergic alveolitis, eosinophilic pneumonia Very rare: Organising pneumonia*                                                                                                  |
 | Gastrointestinal disorders                           | Common: Diarrhoea, nausea, vomiting                                                                                                                                                                                                      |
 | Skin and subcutaneous tissue disorders               | Common: Pruritus Uncommon: Pustular psoriasis, skin exfoliation, acne Rare: Exfoliative dermatitis, hypersensitivity vasculitis Very rare: Bullous pemphigoid, cutaneous lupus erythematosus                                             |
 | Musculoskeletal and connective tissue disorders      | Common: Back pain, myalgia, arthralgia Very rare: Lupus-like syndrome                                                                                                                                                                    |
@@ -1826,7 +1824,7 @@ Table 2: Summary of clinical response in Psoriasis Study 1 (PHOENIX 1) and Psori
 | PASI 75 response N(%)            | 2 (2%)                                | 47 (54%)                              | 63 (68%)                              | 48 (56%)                                       | 67 (74%)                                       |
 | Psoriasis Study 2                |                                       |                                       |                                       |                                                |                                                |
 | Number of patients randomised    | 410                                   | 409                                   | 411                                   | 397                                            | 400                                            |
-| PASI 50 response N(%)            | 41 (10%)                              | 342 (84%) a                           | 367 (89%) a                           | 369 (93%)                                      | 380 (95%)                                      |
+| PASI 50 responseN (%)            | 41 (10%)                              | 342 (84%) a                           | 367 (89%) a                           | 369 (93%)                                      | 380 (95%)                                      |
 | PASI 75 response N(%)            | 15 (4%)                               | 273 (67%) a                           | 311 (76%) a                           | 276 (70%)                                      | 314 (79%)                                      |
 | PASI 90 response N(%)            | 3 (1%)                                | 173 (42%) a                           | 209 (51%) a                           | 178 (45%)                                      | 217 (54%)                                      |
 | PGA b of cleared or minimalN (%) | 18 (4%)                               | 277 (68%) a                           | 300 (73%) a                           | 241 (61%)                                      | 279 (70%)                                      |
@@ -1844,12 +1842,12 @@ Table 3: Summary of clinical response at week 12 in Psoriasis Study 3 (ACCEPT)
 | Number of patients randomised  | 347                                     | 209                                     | 347                                     |
 | PASI 50 response N(%)          | 286 (82%)                               | 181 (87%)                               | 320 (92%) a                             |
 | PASI 75 response N(%)          | 197 (57%)                               | 141 (67%) b                             | 256 (74%) a                             |
-| PASI 90 response N(%)          | 80 (23%)                                | 76 (36%) a                              | 155 (45%) a                             |
+| PASI 90 response N (%)         | 80 (23%)                                | 76 (36%) a                              | 155 (45%) a                             |
 | PGA of cleared or minimal N(%) | 170 (49%)                               | 136 (65%) a                             | 245 (71%) a                             |
 | Number of patients ≤ 100 kg    | 251                                     | 151                                     | 244                                     |
 | PASI 75 response N(%)          | 154 (61%)                               | 109 (72%)                               | 189 (77%)                               |
 | Number of patients > 100 kg    | 96                                      | 58                                      | 103                                     |
-| PASI 75 response N(%)          | 43 (45%)                                | 32 (55%)                                | 67 (65%)                                |
+| PASI 75 response N (%)         | 43 (45%)                                | 32 (55%)                                | 67 (65%)                                |
 
 <div style=\"page-break-after: always\"></div>
 
@@ -1937,14 +1935,14 @@ In both UNITI-1 and UNITI-2, a significantly greater proportion of patients were
 
 Table 5: Induction of Clinical Response and Remission in UNITI-1 and UNITI 2
 
-|                                       | UNITI-1 *      | UNITI-1 *                               | UNITI-2 **     | UNITI-2 **                              |
-|---------------------------------------|----------------|-----------------------------------------|----------------|-----------------------------------------|
-|                                       | PlaceboN = 247 | Recommende d dose of ustekinumabN = 249 | PlaceboN = 209 | Recommende d dose of ustekinumabN = 209 |
-| Clinical Remission, week 8            | 18 (7.3%)      | 52 (20.9%) a                            | 41 (19.6%)     | 84 (40.2%) a                            |
-| Clinical Response (100 point), week 6 | 53 (21.5%)     | 84 (33.7%) b                            | 60 (28.7%)     | 116 (55.5%) a                           |
-| Clinical Response (100 point), week 8 | 50 (20.2%)     | 94 (37.8%) a                            | 67 (32.1%)     | 121 (57.9%) a                           |
-| 70 Point Response, week 3             | 67 (27.1%)     | 101 (40.6%) b                           | 66 (31.6%)     | 106 (50.7%) a                           |
-| 70 Point Response, week 6             | 75 (30.4%)     | 109 (43.8%) b                           | 81 (38.8%)     | 135 (64.6%) a                           |
+|                                       | UNITI-1 *       | UNITI-1 *                               | UNITI-2 **      | UNITI-2 **                              |
+|---------------------------------------|-----------------|-----------------------------------------|-----------------|-----------------------------------------|
+|                                       | Placebo N = 247 | Recommende d dose of ustekinumabN = 249 | Placebo N = 209 | Recommende d dose of ustekinumabN = 209 |
+| Clinical Remission, week 8            | 18 (7.3%)       | 52 (20.9%) a                            | 41 (19.6%)      | 84 (40.2%) a                            |
+| Clinical Response (100 point), week 6 | 53 (21.5%)      | 84 (33.7%) b                            | 60 (28.7%)      | 116 (55.5%) a                           |
+| Clinical Response (100 point), week 8 | 50 (20.2%)      | 94 (37.8%) a                            | 67 (32.1%)      | 121 (57.9%) a                           |
+| 70 Point Response, week 3             | 67 (27.1%)      | 101 (40.6%) b                           | 66 (31.6%)      | 106 (50.7%) a                           |
+| 70 Point Response, week 6             | 75 (30.4%)      | 109 (43.8%) b                           | 81 (38.8%)      | 135 (64.6%) a                           |
 
 Clinical remission is defined as CDAI score &lt; 150; Clinical response is defined as reduction in CDAI score by at least 100 points or being in clinical remission 70 point response is defined as reduction in CDAI score by at least 70 points
 
@@ -2173,7 +2171,9 @@ Name and address of the manufacturer of the biological active substance
 
 ## Biocon Biologics Limited.
 
-Block No. Bl , B2, B3, B5 Q13 of Q1 and W20 &amp; Unit S 18, 1st Floor, Block B4 Special Economic Zone, Plot No.2. 3, 4 &amp; 5, Phase IV, Bommasandra-Jigani Link Road, Bommasandra Post, Bengaluru-560 099 India
+Block No. Bl , B2, B3, B5 Q13 of Q1 and W20 &amp;
+
+Unit S 18, 1st Floor, Block B4 Special Economic Zone, Plot No.2. 3, 4 &amp; 5, Phase IV, Bommasandra-Jigani Link Road, Bommasandra Post, Bengaluru-560 099 India
 
 Name and address of the manufacturer responsible for batch release
 
@@ -2197,7 +2197,7 @@ The requirements for submission of PSURs for this medicinal product are set out 
 
 The marketing authorisation holder (MAH) shall perform the required pharmacovigilance activities and interventions detailed in the agreed RMP presented in Module 1.8.2 of the marketing authorisation and any agreed subsequent updates of the RMP.
 
-## An updated RMP should be submitted:
+An updated RMP should be submitted:
 
 - At the request of the European Medicines Agency:
 - Whenever the risk management system is modified, especially as the result of new information being received that may lead to a significant change to the benefit/risk profile or as the result of an important (pharmacovigilance or risk minimisation) milestone being reached.
@@ -2262,41 +2262,45 @@ Do not freeze.
 
 Keep the vial in the outer carton in order to protect from light.
 
-<div style=\"page-break-after: always\"></div>
+## Biosimilar Collaborations Ireland Limited
+
+Unit 35/36 Grange Parade,
+
+Baldoyle Industrial Estate,
+
+Dublin 13, DUBLIN
+
+Ireland, D13 R20R
+
+EU/1/24/1892/004
+
+Lot
+
+Justification for not including in Braille accepted.
+
+2D barcode carrying the unique identifier included.
+
+PC SN
 
 10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
-## Biosimilar Collaborations Ireland Limited
-
-Unit 35/36 Grange Parade,
-
-Baldoyle Industrial Estate, Dublin 13, DUBLIN
-
-Ireland, D13 R20R
-
 ## 12. MARKETING AUTHORISATION NUMBER
-
-EU/1/24/1892/004
 
 ## 13. BATCH NUMBER
 
-Lot
+## 14. GENERAL CLASSIFICATION FOR SUPPLY
 
-14. GENERAL CLASSIFICATION FOR SUPPLY
 15. INSTRUCTIONS ON USE
-16. INFORMATION IN BRAILLE
 
-Justification for not including in Braille accepted.
+16. INFORMATION IN BRAILLE
 
 ## 17. UNIQUE IDENTIFIER - 2D BARCODE
 
-2D barcode carrying the unique identifier included.
-
 ## 18. UNIQUE IDENTIFIER - HUMAN READABLE DATA
 
-PC SN
+<div style=\"page-break-after: always\"></div>
 
 NN
 
@@ -2388,11 +2392,15 @@ Do not freeze.
 
 Keep the vial in the outer carton in order to protect from light.
 
+## 10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
+
 ## Biosimilar Collaborations Ireland Limited
 
 Unit 35/36 Grange Parade,
 
-Baldoyle Industrial Estate, Dublin 13, DUBLIN Ireland, D13 R20R
+Baldoyle Industrial Estate, Dublin 13, DUBLIN
+
+Ireland, D13 R20R
 
 EU/1/24/1892/001
 
@@ -2407,8 +2415,6 @@ PC
 SN
 
 NN
-
-## 10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
@@ -2520,7 +2526,9 @@ Can be stored at room temperature (up to 30 °C) for a single period up to 30 da
 
 ## Biosimilar Collaborations Ireland Limited
 
-Unit 35/36 Grange Parade, Baldoyle Industrial Estate, Dublin 13, DUBLIN Ireland, D13 R20R
+Unit 35/36 Grange Parade, Baldoyle Industrial Estate, Dublin 13, DUBLIN
+
+Ireland, D13 R20R
 
 EU/1/24/1892/002
 
@@ -2544,7 +2552,7 @@ NN
 
 ## 13. BATCH NUMBER
 
-14. GENERAL CLASSIFICATION FOR SUPPLY
+## 14. GENERAL CLASSIFICATION FOR SUPPLY
 
 15. INSTRUCTIONS ON USE
 
@@ -2584,9 +2592,9 @@ Subcutaneous use
 
 <div style=\"page-break-after: always\"></div>
 
-| MINIMUMPARTICULARSTOAPPEARONSMALLIMMEDIATEPACKAGINGUNITS   |
-|------------------------------------------------------------|
-| PRE-FILLEDSYRINGELABEL TEXT(45 mg)                         |
+MINIMUM PARTICULARS TO APPEAR ON SMALL IMMEDIATE PACKAGING UNITS
+
+PRE-FILLED SYRINGE LABEL TEXT (45 mg)
 
 | 1.   | NAMEOFTHEMEDICINALPRODUCTANDROUTEOFADMINISTRATION   |
 |------|-----------------------------------------------------|
@@ -2676,7 +2684,13 @@ Can be stored at room temperature (up to 30°C) for a single period up to 30 day
 
 ## Biosimilar Collaborations Ireland Limited
 
-Unit 35/36 Grange Parade, Baldoyle Industrial Estate, Dublin 13, DUBLIN Ireland, D13 R20R
+Unit 35/36 Grange Parade,
+
+Baldoyle Industrial Estate,
+
+Dublin 13, DUBLIN
+
+Ireland, D13 R20R
 
 EU/1/24/1892/003
 
@@ -2700,7 +2714,7 @@ NN
 
 ## 13. BATCH NUMBER
 
-14. GENERAL CLASSIFICATION FOR SUPPLY
+## 14. GENERAL CLASSIFICATION FOR SUPPLY
 
 15. INSTRUCTIONS ON USE
 
@@ -2742,7 +2756,7 @@ Subcutaneous use
 
 | MINIMUMPARTICULARSTOAPPEARONSMALLIMMEDIATEPACKAGINGUNITS   |
 |------------------------------------------------------------|
-| PRE-FILLEDSYRINGELABEL TEXT (90 mg)                        |
+| PRE-FILLEDSYRINGE LABEL TEXT (90 mg)                       |
 
 | 1.   | NAMEOFTHEMEDICINALPRODUCTANDROUTEOFADMINISTRATION   |
 |------|-----------------------------------------------------|
@@ -2867,9 +2881,9 @@ NN
 
 <div style=\"page-break-after: always\"></div>
 
-| MINIMUMPARTICULARSTOAPPEARONSMALLIMMEDIATEPACKAGINGUNITS   |
-|------------------------------------------------------------|
-| PRE-FILLEDPEN LABEL TEXT (45 mg)                           |
+MINIMUM PARTICULARS TO APPEAR ON SMALL IMMEDIATE PACKAGING UNITS
+
+PRE-FILLED PEN LABEL TEXT (45 mg)
 
 | 1.   | NAMEOFTHEMEDICINALPRODUCTANDROUTE(S)OFADMINISTRATION   |
 |------|--------------------------------------------------------|
@@ -2957,7 +2971,9 @@ Can be stored at room temperature (up to 30°C) for a single period up to 30 day
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
-Biosimilar Collaborations Ireland Limited Unit 35/36 Grange Parade, Baldoyle Industrial Estate, Dublin 13, DUBLIN Ireland, D13 R20R
+Biosimilar Collaborations Ireland Limited Unit 35/36 Grange Parade, Baldoyle Industrial Estate, Dublin 13, DUBLIN
+
+Ireland, D13 R20R
 
 EU/1/24/1892/006
 
@@ -2981,7 +2997,7 @@ NN
 
 15. INSTRUCTIONS ON USE
 
-16. INFORMATION IN BRAILLE
+## 16. INFORMATION IN BRAILLE
 
 ## 17. UNIQUE IDENTIFIER - 2D BARCODE
 
@@ -3031,7 +3047,7 @@ Lot
 
 This medicine is subject to additional monitoring. This will allow quick identification of new safety information. You can help by reporting any side effects you may get. See the end of section 4 for how to report side effects.
 
-Read all of this leaflet carefully before you start using this medicine because it contains important information for you.
+## Read all of this leaflet carefully before you start using this medicine because it contains important information for you.
 
 ## This leaflet has been written for the person taking the medicine.
 
@@ -3227,7 +3243,7 @@ Shedding of skin - increase in redness and shedding of skin over a larger area o
 
 ## Other side effects
 
-Common side effects (may affect up to 1 in 10 people):
+## Common side effects (may affect up to 1 in 10 people):
 
 - Diarrhoea
 - Nausea
@@ -3306,9 +3322,9 @@ Yesintek is a clear, colourless to pale yellow concentrate for solution for infu
 
 Unit 35/36 Grange Parade,
 
-Baldoyle Industrial Estate, Dublin 13, DUBLIN Ireland, D13 R20R
-
 <div style=\"page-break-after: always\"></div>
+
+Baldoyle Industrial Estate, Dublin 13, DUBLIN Ireland, D13 R20R
 
 ## Manufacturers
 
@@ -3324,7 +3340,7 @@ Biocon Biologics Belgium BV Tél/Tel: 0080008250910
 
 ## България
 
-Biosimilar Collaborations Ireland Limited Тел: 0080008250910
+Biosimilar Collaborations Ireland Limited Тел : 0080008250910
 
 ## Česká republika
 
@@ -3344,7 +3360,7 @@ Biosimilar Collaborations Ireland Limited Tel: 0080008250910
 
 ## Ελλάδα
 
-Biocon Biologics Greece ΜΟΝΟΠΡΟΣΩΠΗ Ι.Κ.Ε
+Biocon Biologics Greece ΜΟΝΟΠΡΟΣΩΠΗ Ι . Κ . Ε
 
 Τηλ.:
 
@@ -3364,13 +3380,15 @@ Biocon Biologics Germany GmbH Tel: 0080008250910
 
 ## Ireland
 
+Biosimilar Collaborations Ireland Limited
+
 ## Lietuva
 
 Biosimilar Collaborations Ireland Limited Tel: 0080008250910
 
 ## Luxembourg/Luxemburg
 
-Biocon Biologics France S.A.S Tél/Tel: 0080008250910 (Belgique/Belgien)
+Biosimilar Collaborations Ireland Limited Tél/Tel: 0080008250910
 
 ## Magyarország
 
@@ -3382,7 +3400,7 @@ Biosimilar Collaborations Ireland Limited Tel.: 0080008250910
 
 ## Nederland
 
-Biocon Biologics France S.A.S Tel: 0080008250910
+Biosimilar Collaborations Ireland Limited Tel: 0080008250910
 
 ## Norge
 
@@ -3426,7 +3444,11 @@ Tel: 0080008250910
 
 ## Κύπρος
 
-Biosimilar Collaborations Ireland Limited Τηλ: 0080008250910
+Biosimilar Collaborations Ireland Limited
+
+Τηλ
+
+: 0080008250910
 
 ## Latvija
 
@@ -3442,13 +3464,13 @@ Detailed information on this medicine is available on the European Medicines Age
 
 https://www.ema.europa.eu
 
-Biosimilar Collaborations Ireland Limited
-
 Tel: 0080008250910
 
 ## Slovenská republika
 
-Biocon Biologics Germany GmbH Tel: 0080008250910
+Biocon Biologics Germany GmbH
+
+Tel: 0080008250910
 
 ## Suomi/Finland
 
@@ -3816,7 +3838,7 @@ Biosimilar Collaborations Ireland Limited Tel: 0080008250910
 
 Luxembourg/Luxemburg
 
-Biosimilar Collaborations Ireland Limited Тел: 0080008250910
+Biosimilar Collaborations Ireland Limited Тел : 0080008250910
 
 <div style=\"page-break-after: always\"></div>
 
@@ -3838,7 +3860,7 @@ Biosimilar Collaborations Ireland Limited Tel: 0080008250910
 
 ## Ελλάδα
 
-Biocon Biologics Greece ΜΟΝΟΠΡΟΣΩΠΗ Ι.Κ.Ε Τηλ.: 0080008250910
+Biocon Biologics Greece ΜΟΝΟΠΡΟΣΩΠΗ Ι . Κ . Ε Τηλ.: 0080008250910
 
 ## España
 
@@ -3866,13 +3888,15 @@ Biocon Biologics Spain S.L . Tel: 0080008250910
 
 ## Κύπρος
 
-Biosimilar Collaborations Ireland Limited Τηλ: 0080008250910
+Biosimilar Collaborations Ireland Limited Τηλ : 0080008250910
 
 ## Latvija
 
 Biosimilar Collaborations Ireland Limited Tel: 0080008250910
 
-Biocon Biologics France S.A.S Tél/Tel: 0080008250910 (Belgique/Belgien)
+## This leaflet was last revised in
+
+Biosimilar Collaborations Ireland Limited Tél/Tel: 0080008250910
 
 ## Magyarország
 
@@ -3884,7 +3908,7 @@ Biosimilar Collaborations Ireland Limited Tel.: 0080008250910
 
 ## Nederland
 
-Biocon Biologics France S.A.S Tel: 0080008250910
+Biosimilar Collaborations Ireland Limited Tel: 0080008250910
 
 ## Norge
 
@@ -3914,9 +3938,9 @@ Biosimilar Collaborations Ireland Limited Tel: 0080008250910
 
 Biocon Biologics Germany GmbH Tel: 0080008250910
 
-## Suomi/Finland Biocon Biologics Finland OY
+## Suomi/Finland
 
-Puh/Tel: 99980008250910
+Biocon Biologics Finland OY Puh/Tel: 99980008250910
 
 ## Sverige
 
@@ -3924,7 +3948,7 @@ Biocon Biologics Finland OY Tel: 0080008250910
 
 <div style=\"page-break-after: always\"></div>
 
-## This leaflet was last revised in Other sources of information
+## Other sources of information
 
 Detailed information on this medicine is available on the European Medicines Agency web site: https://www.ema.europa.eu
 
@@ -4017,7 +4041,6 @@ Figure 5
 
 ## 4. Inject the dose:
 
-- •
 - Gently pinch the cleaned skin between your thumb and index finger. Do not squeeze it tightly
 - Push the needle into the pinched skin
 - Push the plunger with your thumb as far as it will go to inject all of the liquid. Push it slowly and evenly, keeping the skin gently pinched
@@ -4345,6 +4368,7 @@ Yesintek is for single use only. Any unused product remaining in the syringe sho
 ## What Yesintek contains
 
 - The active substance is ustekinumab. Each pre-filled syringe contains 45 mg ustekinumab in 0.5 mL.
+- •
 - The other ingredients are L-histidine, L-histidine monohydrochloride monohydrate, polysorbate 80 (E 433), sucrose, sodium hydroxide (for pH adjustment), hydrochloric acid (for pH adjustment) and water for injections.
 
 ## What Yesintek looks like and contents of the pack
@@ -4355,11 +4379,13 @@ Yesintek is a clear, colorless to pale yellow solution for injection. It is supp
 
 ## Biosimilar Collaborations Ireland Limited
 
-Unit 35/36 Grange Parade,
+Unit 35/36 Grange Parade, Baldoyle Industrial Estate, Dublin 13, DUBLIN
 
-Baldoyle Industrial Estate, Dublin 13, DUBLIN Ireland, D13 R20R
+Ireland, D13 R20R
 
-Manufacturers Biosimilar Collaborations Ireland Limited
+## Manufacturers
+
+Biosimilar Collaborations Ireland Limited
 
 <div style=\"page-break-after: always\"></div>
 
@@ -4373,7 +4399,7 @@ Biocon Biologics Belgium BV Tél/Tel: 0080008250910
 
 ## България
 
-Biosimilar Collaborations Ireland Limited Тел: 0080008250910
+Biosimilar Collaborations Ireland Limited Тел : 0080008250910
 
 ## Česká republika
 
@@ -4393,7 +4419,7 @@ Biosimilar Collaborations Ireland Limited Tel: 0080008250910
 
 ## Ελλάδα
 
-Biocon Biologics Greece ΜΟΝΟΠΡΟΣΩΠΗ Ι.Κ.Ε Τηλ.: 0080008250910
+Biocon Biologics Greece ΜΟΝΟΠΡΟΣΩΠΗ Ι . Κ . Ε Τηλ.: 0080008250910
 
 ## España
 
@@ -4411,13 +4437,17 @@ Biocon Biologics Germany GmbH Tel: 0080008250910
 
 Biosimilar Collaborations Ireland Limited Tel: 1800 777 794
 
+## Ísland
+
+Biocon Biologics Finland OY Sími: +345 800 4316
+
 ## Lietuva
 
 Biosimilar Collaborations Ireland Limited Tel: 0080008250910
 
 ## Luxembourg/Luxemburg
 
-Biocon Biologics France S.A.S Tél/Tel: 0080008250910 (Belgique/Belgien)
+Biosimilar Collaborations Ireland Limited Tél/Tel: 0080008250910
 
 ## Magyarország
 
@@ -4429,7 +4459,7 @@ Biosimilar Collaborations Ireland Limited Tel.: 0080008250910
 
 ## Nederland
 
-Biocon Biologics France S.A.S Tel: 0080008250910
+Biosimilar Collaborations Ireland Limited Tel: 0080008250910
 
 ## Norge
 
@@ -4455,17 +4485,9 @@ Biosimilar Collaborations Ireland Limited Tel: 0080008250910
 
 Biosimilar Collaborations Ireland Limited Tel: 0080008250910
 
-## Ísland
-
-Biocon Biologics Finland OY
-
-Sími: +345 800 4316
-
 ## Slovenská republika
 
-Biocon Biologics Germany GmbH
-
-Tel: 0080008250910
+Biocon Biologics Germany GmbH Tel: 0080008250910
 
 ## Italia
 
@@ -4473,7 +4495,7 @@ Biocon Biologics Spain S.L .
 
 Tel: 0080008250910
 
-Suomi/Finland
+## Suomi/Finland
 
 Biocon Biologics Finland OY
 
@@ -4481,7 +4503,11 @@ Puh/Tel: 99980008250910
 
 ## Κύπρος
 
-Biosimilar Collaborations Ireland Limited Τηλ: 0080008250910
+Biosimilar Collaborations Ireland Limited
+
+Τηλ
+
+: 0080008250910
 
 ## Sverige
 
@@ -4573,8 +4599,6 @@ Choose an injection site( see Figure 3)
 
 <!-- image -->
 
-Figure 2
-
 <div style=\"page-break-after: always\"></div>
 
 Prepare the injection site
@@ -4650,7 +4674,9 @@ FIGURE10
 
 <!-- image -->
 
-## Manufactured by: Biosimilar Collaborations Ireland Limited
+## Manufactured by:
+
+## Biosimilar Collaborations Ireland Limited
 
 Block B, The Crescent Building, Santry Demesne Dublin D09 C6X8 Ireland
 
@@ -4969,7 +4995,9 @@ Yesintek is for single use only. Any unused product remaining in the syringe sho
 
 Yesintekis a clear, colorless to pale yellow solution for injection. It is supplied as a carton pack containing 1 single-dose, glass 1 mL pre-filled syringe. Each pre-filled syringe contains 90 mg ustekinumab in 1 mL of solution for injection.
 
-## Marketing Authorisation Holder Biosimilar Collaborations Ireland Limited
+## Marketing Authorisation Holder
+
+## Biosimilar Collaborations Ireland Limited
 
 Unit 35/36 Grange Parade,
 
@@ -4983,15 +5011,19 @@ Block B, The Crescent Building, Santry Demesne Dublin D09 C6X8 Ireland
 
 For any information about this medicine, please contact the local representative of the Marketing Authorisation Holder:
 
+België/Belgique/Belgien Biocon Biologics Belgium BV
+
+Lietuva
+
+Biosimilar Collaborations Ireland Limited
+
 <div style=\"page-break-after: always\"></div>
 
-## België/Belgique/Belgien
-
-Biocon Biologics Belgium BV Tél/Tel: 0080008250910
+Tél/Tel: 0080008250910
 
 ## България
 
-Biosimilar Collaborations Ireland Limited Тел: 0080008250910
+Biosimilar Collaborations Ireland Limited Тел : 0080008250910
 
 ## Česká republika
 
@@ -5011,7 +5043,7 @@ Biosimilar Collaborations Ireland Limited Tel: 0080008250910
 
 ## Ελλάδα
 
-Biocon Biologics Greece ΜΟΝΟΠΡΟΣΩΠΗ Ι.Κ.Ε Τηλ.: 0080008250910
+Biocon Biologics Greece ΜΟΝΟΠΡΟΣΩΠΗ Ι . Κ . Ε Τηλ.: 0080008250910
 
 ## España
 
@@ -5039,15 +5071,17 @@ Biocon Biologics Spain S.L . Tel: 0080008250910
 
 ## Κύπρος
 
+Biosimilar Collaborations Ireland Limited Τηλ : 0080008250910
+
+## Latvija
+
 Biosimilar Collaborations Ireland Limited
 
-## Lietuva
-
-Biosimilar Collaborations Ireland Limited Tel: 0080008250910
+Tel: 0080008250910
 
 ## Luxembourg/Luxemburg
 
-Biocon Biologics France S.A.S Tél/Tel: 0080008250910 (Belgique/Belgien)
+Biosimilar Collaborations Ireland Limited Tél/Tel: 0080008250910
 
 ## Magyarország
 
@@ -5059,7 +5093,7 @@ Biosimilar Collaborations Ireland Limited Tel.: 0080008250910
 
 ## Nederland
 
-Biocon Biologics France S.A.S Tel: 0080008250910
+Biosimilar Collaborations Ireland Limited Tel: 0080008250910
 
 ## Norge
 
@@ -5091,25 +5125,15 @@ Biocon Biologics Germany GmbH Tel: 0080008250910
 
 ## Suomi/Finland
 
-## Biocon Biologics Finland OY
-
-Puh/Tel: 99980008250910
+Biocon Biologics Finland OY Puh/Tel: 99980008250910
 
 ## Sverige
 
-Biocon Biologics Finland OY
-
-Τηλ:
-
-0080008250910
+Biocon Biologics Finland OY Tel: 0080008250910
 
 <div style=\"page-break-after: always\"></div>
 
-## Latvija
-
-Biosimilar Collaborations Ireland Limited
-
-Tel: 0080008250910
+## Tel: 0080008250910
 
 ## This leaflet was last revised in
 
@@ -5182,7 +5206,11 @@ Choose an injection site (see Figure 3)
 - If possible, do not use areas of skin that show signs of psoriasis.
 - If someone will assist in giving you the injection, then he or she may also choose the upper arms as an injection site
 
+Figure 3
+
 <!-- image -->
+
+*Areas in blue are recommended injection sites.
 
 Prepare the injection site
 
@@ -5265,17 +5293,15 @@ Block B, The Crescent Building, Santry Demesne Dublin D09 C6X8 Ireland
 
 ## Marketed by: Biosimilar Collaborations Ireland Limited
 
-Unit 35/36 Grange Parade, Baldoyle Industrial Estate, Dublin 13, DUBLIN
-
-Ireland, D13 R20R
-
-## Package leaflet: Information for the user
+Unit 35/36 Grange Parade, Baldoyle Industrial Estate, Dublin 13, DUBLIN Ireland, D13 R20R
 
 <div style=\"page-break-after: always\"></div>
 
+## Package leaflet: Information for the user
+
 ## Yesintek 45 mg solution for injection in pre-filled pen
 
-## ustekinumab
+ustekinumab
 
 ▼ This medicine is subject to additional monitoring. This will allow quick identification of new safety information. You can help by reporting any side effects you may get. See the end of section 4 for how to report side effects
 
@@ -5567,9 +5593,7 @@ Yesintek is a clear, colorless to pale yellow solution for injection. It is supp
 
 Unit 35/36 Grange Parade, Baldoyle Industrial Estate, Dublin 13, DUBLIN Ireland, D13 R20R
 
-## Manufacturers
-
-## Biosimilar Collaborations Ireland Limited
+## Manufacturers Biosimilar Collaborations Ireland Limited
 
 Block B, The Crescent Building, Santry Demesne Dublin D09 C6X8
 
@@ -5583,7 +5607,7 @@ Biocon Biologics Belgium BV Tél/Tel: 0080008250910
 
 ## България
 
-Biosimilar Collaborations Ireland Limited Тел: 0080008250910
+Biosimilar Collaborations Ireland Limited Тел : 0080008250910
 
 ## Česká republika
 
@@ -5593,7 +5617,9 @@ Tel: 0080008250910
 
 ## Danmark
 
-Biocon Biologics Finland OY Tlf: 0080008250910
+Biocon Biologics Finland OY
+
+Tlf: 0080008250910
 
 ## Deutschland
 
@@ -5603,13 +5629,17 @@ Tel: 0080008250910
 
 ## Eesti
 
+Biosimilar Collaborations Ireland Limited
+
+Tel: 0080008250910
+
 ## Lietuva
 
 Biosimilar Collaborations Ireland Limited Tel: 0080008250910
 
 ## Luxembourg/Luxemburg
 
-Biocon Biologics France S.A.S Tél/Tel: 0080008250910 (Belgique/Belgien)
+Biosimilar Collaborations Ireland Limited Tél/Tel: 0080008250910
 
 ## Magyarország
 
@@ -5623,21 +5653,21 @@ Tel.: 0080008250910
 
 ## Nederland
 
-Biocon Biologics France S.A.S Tel: 0080008250910
+Biosimilar Collaborations Ireland Limited Tel: 0080008250910
 
 ## Norge
 
+Biocon Biologics Finland OY
+
+Tlf: +47 800 62 671
+
 <div style=\"page-break-after: always\"></div>
-
-Biosimilar Collaborations Ireland Limited
-
-Tel: 0080008250910
 
 ## Ελλάδα
 
 Biocon Biologics Greece ΜΟΝΟΠΡΟΣΩΠΗ
 
-Ι.Κ.Ε
+Ι . Κ . Ε
 
 Τηλ.:
 
@@ -5663,9 +5693,7 @@ Tel: 0080008250910
 
 ## Ireland
 
-Biosimilar Collaborations Ireland Limited
-
-Tel: 1800 777 794
+Biosimilar Collaborations Ireland Limited Tel: 1800 777 794
 
 ## Ísland
 
@@ -5681,11 +5709,7 @@ Tel: 0080008250910
 
 ## Κύπρος
 
-Biosimilar Collaborations Ireland Limited
-
-Τηλ:
-
-0080008250910
+Biosimilar Collaborations Ireland Limited Τηλ : 0080008250910
 
 ## Latvija
 
@@ -5699,10 +5723,6 @@ Tel: 0080008250910
 
 Detailed information on this medicine is available on the European Medicines Agency web site: https://www.ema.europa.eu.
 
-Biocon Biologics Finland OY
-
-Tlf: +47 800 62 671
-
 ## Österreich
 
 Biocon Biologics Germany GmbH
@@ -5711,9 +5731,7 @@ Tel: 0080008250910
 
 ## Polska
 
-Biosimilar Collaborations Ireland Limited
-
-Tel: 0080008250910
+Biosimilar Collaborations Ireland Limited Tel: 0080008250910
 
 ## Portugal
 
@@ -5727,17 +5745,15 @@ Biosimilar Collaborations Ireland Limited Tel: 0080008250910
 
 ## Slovenija
 
-Biosimilar Collaborations Ireland Limited
-
-Tel: 0080008250910
+Biosimilar Collaborations Ireland Limited Tel: 0080008250910
 
 ## Slovenská republika
 
-Biocon Biologics Germany GmbH
+Biocon Biologics Germany GmbH Tel: 0080008250910
 
-Tel: 0080008250910
+## Suomi/Finland
 
-## Suomi/Finland Biocon Biologics Finland OY
+Biocon Biologics Finland OY
 
 Puh/Tel: 99980008250910
 
@@ -5849,7 +5865,7 @@ Figure G
 
 <!-- image -->
 
-1 Gauze Pad or Cotton Ball (See Figure H)
+## 1 Gauze Pad or Cotton Ball (See Figure H)
 
 Figure H
 
@@ -5951,6 +5967,8 @@ The window will turn completely yellow (see Figure Q), and you will hear a '2 nd
 
 ## Hold Down
 
+Figure Q
+
 <!-- image -->
 
 ## 13. Wait 5 seconds
@@ -5962,8 +5980,6 @@ Continue holding the pre-filled pen down and wait for 5 seconds after the window
 Figure P
 
 <!-- image -->
-
-Figure Q
 
 <div style=\"page-break-after: always\"></div>
 
@@ -6286,7 +6302,6 @@ If you get any side effects, talk to your doctor or pharmacist. This includes an
 - Keep the pre-filled pen in the outer carton in order to protect from light.
 - If needed, individual Yesintek pre-filled pens may also be stored at room temperature up to 30°C for a maximum single period of up to 30 days in the original carton in order to protect from light. Record the date when the pre-filled pen is first removed from the refrigerator and the discard date in the space provided on the outer carton. The discard date must not exceed the
 - original expiry date printed on the carton. Once a pre-filled pen has been stored at room temperature (up to 30°C), it should not be returned to the refrigerator. Discard the pre-filled pen if not used within 30 days at room temperature storage or by the original expiry date, whichever is earlier.
-- •
 - Do not shake Yesintek pre-filled pen. Prolonged vigorous shaking may damage the medicine.
 
 ## Do not use this medicine:
@@ -6317,7 +6332,9 @@ Yesintek is a clear, colorless to pale yellow  solution for injection. It is sup
 
 Unit 35/36 Grange Parade, Baldoyle Industrial Estate, Dublin 13, DUBLIN Ireland, D13 R20R
 
-## Manufacturers Biosimilar Collaborations Ireland Limited
+## Manufacturers
+
+## Biosimilar Collaborations Ireland Limited
 
 Block B, The Crescent Building, Santry Demesne Dublin D09 C6X8 Ireland
 
@@ -6329,23 +6346,33 @@ Biocon Biologics Belgium BV
 
 Tél/Tel: 0080008250910
 
+## Lietuva
+
+Biosimilar Collaborations Ireland Limited Tel: 0080008250910
+
 ## България
 
-Biosimilar Collaborations Ireland Limited
+Biosimilar Collaborations Ireland Limited Тел : 0080008250910
 
-Тел:
+## Luxembourg/Luxemburg
 
-0080008250910
+Biosimilar Collaborations Ireland Limited Tél/Tel: 0080008250910
 
 ## Česká republika
 
-Biocon Biologics Germany GmbH
+Biocon Biologics Germany GmbH Tel: 0080008250910
 
-Tel: 0080008250910
+## Magyarország
+
+Biosimilar Collaborations Ireland Limited Tel.: 0080008250910
 
 ## Danmark
 
 Biocon Biologics Finland OY Tlf: 0080008250910
+
+## Malta
+
+Biosimilar Collaborations Ireland Limited Tel.: 0080008250910
 
 ## Deutschland
 
@@ -6353,31 +6380,13 @@ Biocon Biologics Germany GmbH
 
 Tel: 0080008250910
 
-## Eesti
-
-Biosimilar Collaborations Ireland Limited
-
-Tel: 0080008250910
-
-## Lietuva
+## Nederland
 
 Biosimilar Collaborations Ireland Limited Tel: 0080008250910
 
-## Luxembourg/Luxemburg
+## Eesti
 
-Biocon Biologics France S.A.S Tél/Tel: 0080008250910 (Belgique/Belgien)
-
-## Magyarország
-
-Biosimilar Collaborations Ireland Limited Tel.: 0080008250910
-
-## Malta
-
-Biosimilar Collaborations Ireland Limited Tel.: 0080008250910
-
-## Nederland
-
-Biocon Biologics France S.A.S
+Biosimilar Collaborations Ireland Limited
 
 Tel: 0080008250910
 
@@ -6393,7 +6402,7 @@ Tlf: +47 800 62 671
 
 Biocon Biologics Greece ΜΟΝΟΠΡΟΣΩΠΗ
 
-Ι.Κ.Ε
+Ι . Κ . Ε
 
 Τηλ.:
 
@@ -6437,7 +6446,11 @@ Tel: 0080008250910
 
 ## Κύπρος
 
-Biosimilar Collaborations Ireland Limited Τηλ: 0080008250910
+Biosimilar Collaborations Ireland Limited
+
+Τηλ
+
+: 0080008250910
 
 ## Latvija
 
@@ -6457,7 +6470,9 @@ Tel: 0080008250910
 
 ## Polska
 
-Biosimilar Collaborations Ireland Limited Tel: 0080008250910
+Biosimilar Collaborations Ireland Limited
+
+Tel: 0080008250910
 
 ## Portugal
 
@@ -6483,7 +6498,7 @@ Tel: 0080008250910
 
 ## Suomi/Finland
 
-## Biocon Biologics Finland OY
+Biocon Biologics Finland OY
 
 Puh/Tel: 99980008250910
 

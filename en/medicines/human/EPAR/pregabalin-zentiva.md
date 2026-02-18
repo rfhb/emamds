@@ -1,20 +1,20 @@
 ---
-document_datetime: 2025-12-29 12:23:10
+document_datetime: 2026-02-16 15:40:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/pregabalin-zentiva.html
 document_name: pregabalin-zentiva.html
 version: success
-processing_time: 0.1286625
-conversion_datetime: 2025-12-30 09:22:17.81797
+processing_time: 0.118616
+conversion_datetime: 2026-02-18 17:45:00.798497
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.66.0
-  docling-core: 2.57.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.13.0
+  docling-jobkit: 1.11.0
+  docling: 2.74.0
+  docling-core: 2.65.1
+  docling-ibm-models: 3.11.0
+  docling-parse: 5.3.2
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.3-arm64-arm-64bit-Mach-O
 ---
 # Pregabalin Zentiva
 
@@ -25,8 +25,6 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 pregabalin Medicine Human Authorised
-
-On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -108,7 +106,7 @@ English (EN) (119.29 KB - PDF)
 
 [View](/en/documents/overview/pregabalin-zentiva-epar-summary-public_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-915)
+[Other languages (22)](#file-language-dropdown-499)
 
 български (BG) (124.19 KB - PDF)
 
@@ -384,6 +382,14 @@ English (EN) (49.6 KB - PDF)
 
 [View](/en/documents/rmp-summary/pregabalin-zentiva-epar-risk-management-plan-summary_en.pdf)
 
+Pregabalin Zentiva : EPAR - Risk-management-plan
+
+English (EN) (338.33 KB - PDF)
+
+**First published:** 16/02/2026
+
+[View](/en/documents/rmp/pregabalin-zentiva-epar-risk-management-plan_en.pdf)
+
 ## Product information
 
 Pregabalin Zentiva : EPAR - Product Information
@@ -396,7 +402,7 @@ English (EN) (340.67 KB - PDF)
 
 [View](/en/documents/product-information/pregabalin-zentiva-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-839)
+[Other languages (24)](#file-language-dropdown-383)
 
 български (BG) (508.64 KB - PDF)
 
@@ -686,7 +692,7 @@ svenska (SV) (341.34 KB - PDF)
 
 [View](/sv/documents/product-information/pregabalin-zentiva-epar-product-information_sv.pdf)
 
-**Latest procedure affecting product information:** IB/0053 15/10/2024
+**Latest procedure affecting product information:** H/C/003900 13/02/2026
 
 icon globe
 
@@ -712,7 +718,7 @@ English (EN) (75.78 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/pregabalin-zentiva-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-533)
+[Other languages (24)](#file-language-dropdown-120)
 
 български (BG) (147.57 KB - PDF)
 
@@ -1043,7 +1049,7 @@ Zentiva, k.s.
 
 U kabelovny 130
 
-Opinion adopted 21/05/2015 Marketing authorisation issued 17/07/2015 Revision 18
+Opinion adopted 21/05/2015 Marketing authorisation issued 17/07/2015 Revision 19
 
 ## Assessment history
 
@@ -1055,11 +1061,11 @@ Collapse section
 
 Pregabalin Zentiva : EPAR - Procedural steps taken and scientific information after authorisation
 
-English (EN) (184.29 KB - PDF)
+English (EN) (146.5 KB - PDF)
 
 **First published:** 20/07/2017
 
-**Last updated:** 17/10/2024
+**Last updated:** 16/02/2026
 
 [View](/en/documents/procedural-steps-after/pregabalin-zentiva-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf)
 
@@ -1111,7 +1117,7 @@ English (EN) (66.45 KB - PDF)
 
 [View](/en/documents/other/questions-and-answers-generic-medicines_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-573)
+[Other languages (22)](#file-language-dropdown-129)
 
 български (BG) (93.16 KB - PDF)
 
@@ -1382,7 +1388,7 @@ svenska (SV) (67.11 KB - PDF)
 - [Generic and hybrid medicines](https://www.ema.europa.eu/en/search?f%5B0%5D=ema_search_topics%3A54)
 - [Medicines](https://www.ema.europa.eu/en/search?f%5B0%5D=ema_search_topics%3A61)
 
-**This page was last updated on** 17/10/2024
+**This page was last updated on** 16/02/2026
 
 ## Share this page
 

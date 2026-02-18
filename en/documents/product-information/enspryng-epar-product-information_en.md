@@ -1,42 +1,40 @@
 ---
-document_datetime: 2025-05-16 13:42:31
-document_pages: 46
+document_datetime: 2026-02-16 09:31:21
+document_pages: 49
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/enspryng-epar-product-information_en.pdf
 document_name: enspryng-epar-product-information_en.pdf
 version: success
-processing_time: 10.3726518
-conversion_datetime: 2025-12-31 05:08:02.252266
+processing_time: 15.6191111
+conversion_datetime: 2026-02-18 17:46:00.390567
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.66.0
-  docling-core: 2.57.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.13.0
+  docling-jobkit: 1.11.0
+  docling: 2.74.0
+  docling-core: 2.65.1
+  docling-ibm-models: 3.11.0
+  docling-parse: 5.3.2
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.3-arm64-arm-64bit-Mach-O
 ---
-## ANNEX I
+## ANNEXI
 
 ## SUMMARY OF PRODUCT CHARACTERISTICS
 
 <div style=\"page-break-after: always\"></div>
 
-This medicinal product is subject to additional monitoring. This will allow quick identification of new safety information. Healthcare professionals are asked to report any suspected adverse reactions. See section 4.8 for how to report adverse reactions.
-
-## 1. NAME OF THE MEDICINAL PRODUCT
+## 1. NAMEOFTHEMEDICINALPRODUCT
 
 Enspryng 120 mg solution for injection in pre-filled syringe
 
-## 2. QUALITATIVE AND QUANTITATIVE COMPOSITION
+## 2. QUALITATIVEANDQUANTITATIVECOMPOSITION
 
-Each pre-filled syringe (PFS) contains 120 mg of satralizumab in 1 mL.
+Each pre-filled syringe contains 120 mg of satralizumab in 1 mL.
 
 Satralizumab is produced in Chinese hamster ovary cells by recombinant DNA technology.
 
 For the full list of excipients, see section 6.1.
 
-## 3. PHARMACEUTICAL FORM
+## 3. PHARMACEUTICALFORM
 
 Solution for injection (injection)
 
@@ -54,15 +52,15 @@ Treatment should be initiated under the supervision of a physician experienced i
 
 ## Posology
 
-Enspryng can be used as a monotherapy or in combination with oral corticosteroids (OCs), azathioprine (AZA) or mycophenolate mofetil (MMF) (see section 5.1). The posology in adolescent patients ≥12 years of age with body weight ≥ 40 kg and adult patients is the same .
+Enspryng can be used as a monotherapy or in combination with oral corticosteroids (OCs), azathioprine (AZA) or mycophenolate mofetil (MMF) (see section 5.1). The posology in adolescent patients ≥ 12 years of age with body weight ≥ 40 kg and adult patients is the same.
 
 ## Loading doses
 
-The recommended loading dose is 120 mg subcutaneous (SC) injection every two weeks for the first three administrations (first dose at week 0, second dose at week 2 and third dose at week 4).
+The recommended loading dose is 120 mg subcutaneous injection every two weeks for the first three administrations (first dose at week 0, second dose at week 2 and third dose at week 4).
 
 ## Maintenance doses
 
-The recommended maintenance dose is 120 mg SC injection every four weeks.
+The recommended maintenance dose is 120 mg subcutaneous injection every four weeks.
 
 <div style=\"page-break-after: always\"></div>
 
@@ -74,9 +72,9 @@ Enspryng is intended for long-term treatment.
 
 If an injection is missed, for any reason other than increases in liver enzymes, it should be administered as described in table 1.
 
-Table 1: Recommended dosage for delayed or missed doses
+Table 1: Recommended dose for delayed or missed doses
 
-| Last dose administered                                                   | Recommended dosage for delayed or missed doses                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      |
+| Last dose administered                                                   | Recommended dose for delayed or missed doses                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        |
 |--------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Missed a loading dose or less than 8 weeks during the maintenance period | The recommended dose should be administered as soon as possible without waiting until the next planned dose. Loading period If the second loading dose is delayed or missed, this dose should be administered as soon as possible and the third and final loading dose 2 weeks later. If the third loading dose is delayed or missed, this dose should be administered as soon as possible and the first maintenance dose 4 weeks later. Maintenance period After the delayed or missed dose is administered, the dosing schedule should be reset to every 4 weeks. |
 | 8 weeks to less than 12 weeks                                            | The recommended dose should be administered at 0*, 2 weeks and every 4 weeks thereafter.                                                                                                                                                                                                                                                                                                                                                                                                                                                                            |
@@ -88,7 +86,7 @@ Table 1: Recommended dosage for delayed or missed doses
 
 If the alanine aminotransferase (ALT) or aspartate transaminase (AST) elevation is &gt;5 x upper limit of normal (ULN) and associated with any bilirubin elevation, treatment must be discontinued, and reinitiation is not recommended.
 
-If the ALT or AST elevation is &gt;5 x ULN and not associated with any bilirubin elevation, treatment should be discontinued. Treatment can be restarted at a dose of 120 mg SC injection every four weeks when the ALT and AST levels have returned to the normal range and based on assessment of benefitrisk of treatment in the patient. If the decision is taken to restart treatment, liver parameters must be closely monitored, and if any subsequent increase in ALT/AST and/or bilirubin is observed, treatment must be discontinued, and reinitiation is not recommended (see sections 4.4 and 4.8).
+If the ALT or AST elevation is &gt;5 x ULN and not associated with any bilirubin elevation, treatment should be discontinued. Treatment can be restarted at a dose of 120 mg subcutaneous injection every four weeks when the ALT and AST levels have returned to the normal range and based on assessment of benefit-risk of treatment in the patient. If the decision is taken to restart treatment, liver parameters must be closely monitored, and if any subsequent increase in ALT/AST and/or bilirubin is observed, treatment must be discontinued, and reinitiation is not recommended (see sections 4.4 and 4.8).
 
 <div style=\"page-break-after: always\"></div>
 
@@ -105,17 +103,19 @@ If the neutrophil count is below 1.0 x 10 9 /L and confirmed by repeat testing, 
 
 ## Dose modification advice for low platelet count
 
-If the platelet count is below 75 x 10 9 /L and confirmed by repeat testing, treatment should be interrupted until the platelet count is ≥75 x 10 9 /L.
+If the platelet count is below 75 x 10 9 /L and confirmed by repeat testing, treatment should be interrupted until the platelet count is ≥ 75 x 10 9 /L.
 
 ## Special populations
 
 ## Paediatric population
 
-The posology in adolescent patients ≥12 years of age with body weight ≥ 40 kg and adult patients is the same (see sections 5.1 and 5.2). The safety and efficacy of satralizumab in children with body weight &lt; 40 kg have not yet been established. No data are available.
+The posology in adolescent patients ≥ 12 years of age with body weight ≥ 40 kg and adult patients is the same (see sections 5.1 and 5.2).
+
+The safety and efficacy of satralizumab in children with body weight &lt; 40 kg have not yet been established. No data are available.
 
 ## Elderly
 
-No dose adjustment is required in patients ≥65 years of age (see section 5.2).
+No dose adjustment is required in patients ≥ 65 years of age (see section 5.2).
 
 ## Renal impairment
 
@@ -129,7 +129,7 @@ Elevations of liver enzymes have been observed during treatment with satralizuma
 
 ## Method of administration
 
-Satralizumab 120 mg is administered by SC injection using a single-dose PFS. The total content (1 mL) of the PFS should be administered.
+Satralizumab 120 mg is administered by subcutaneous injection using a single-dose pre-filled syringe. The total content (1 mL) of the pre-filled syringe should be administered.
 
 <div style=\"page-break-after: always\"></div>
 
@@ -169,9 +169,9 @@ No data are available on the effects of vaccination in patients receiving satral
 
 ## Liver enzymes
 
-Mild and moderate elevations of liver transaminases have been observed with satralizumab treatment, most elevations were below 5 x ULN (see section 4.8).
-
 <div style=\"page-break-after: always\"></div>
+
+Mild and moderate elevations of liver transaminases have been observed with satralizumab treatment, most elevations were below 5 x ULN (see section 4.8).
 
 ALT and AST levels should be monitored every four weeks for the first three months of treatment, followed by every three months for one year, thereafter as clinically indicated.
 
@@ -209,11 +209,11 @@ It is unknown whether satralizumab is excreted in human breast milk. Human IgG i
 
 No clinical data are available on the effect of satralizumab on human fertility. Animal studies showed no impairment of male or female fertility (see section 5.3).
 
+<div style=\"page-break-after: always\"></div>
+
 ## 4.7 Effects on ability to drive and use machines
 
 Enspryng has no or negligible influence on the ability to drive and use machines.
-
-<div style=\"page-break-after: always\"></div>
 
 ## 4.8 Undesirable effects
 
@@ -225,7 +225,7 @@ The most frequently reported adverse reactions observed were: headache (19.2%), 
 
 Table 3 summarises the adverse reactions that have been reported in association with the use of satralizumab as a monotherapy or in combination with IST in clinical trials.
 
-Adverse reactions from clinical trials (Table 3) are listed by MedDRA system organ class. Adverse reactions are presented using number of adverse events per 100 patient years and by frequency figures. The corresponding frequency category for each adverse reaction is based on frequency figures and the following convention: very common (≥1/10), common (≥1/100 to &lt;1/10), uncommon (≥1/1,000 to &lt;1/100), rare (≥1/10,000 to &lt;1/1,000), very rare (&lt;1/10,000).
+Adverse reactions from clinical trials (Table 3) are listed by MedDRA system organ class. Adverse reactions are presented using number of adverse events per 100 patient years and by frequency figures. The corresponding frequency category for each adverse reaction is based on frequency figures and the following convention: very common ( ≥ 1/10), common ( ≥ 1/100 to &lt;1/10), uncommon ( ≥ 1/1,000 to &lt;1/100), rare ( ≥ 1/10,000 to &lt;1/1,000), very rare (&lt;1/10,000).
 
 Table 3: Adverse reactions
 
@@ -247,15 +247,15 @@ Table 3: Adverse reactions
 
 ## Description of selected adverse reactions
 
-## Injection-related reactions (IRRs)
-
-IRRs reported in patients treated with satralizumab were predominantly mild to moderate, and most occurred within 24 hours after injections. The most commonly reported systemic symptoms were diarrhoea and headache. The most commonly reported local injection site reactions were flushing, erythema, pruritus, rash and pain.
+Injection-related reactions (IRRs)
 
 <div style=\"page-break-after: always\"></div>
 
+IRRs reported in patients treated with satralizumab were predominantly mild to moderate, and most occurred within 24 hours after injections. The most commonly reported systemic symptoms were diarrhoea and headache. The most commonly reported local injection site reactions were flushing, erythema, pruritus, rash and pain.
+
 ## Body weight
 
-In the doubleblinded treatment period, body weight increase ≥15% from baseline were observed in 3.8% of patients treated with satralizumab (monotherapy or in combination with IST) as compared with 2.7% of patients receiving placebo (or plus IST).
+In the double-blinded treatment period, body weight increase ≥ 15% from baseline were observed in 3.8% of patients treated with satralizumab (monotherapy or in combination with IST) as compared with 2.7% of patients receiving placebo (or plus IST).
 
 ## Laboratory abnormalities
 
@@ -285,21 +285,19 @@ In the double-blinded treatment period, 10.6% of patients receiving satralizumab
 
 ## Paediatric population
 
-The safety and efficacy of satralizumab have been studied in 9 children ≥12 years of age. Frequency, type and severity of adverse reactions in children from 12 years of age are expected to be the same as in adults.
-
-## Reporting of suspected adverse reactions
-
-Reporting suspected adverse reactions after authorisation of the medicinal product is important. It allows continued monitoring of the benefit/risk balance of the medicinal product. Healthcare
+The safety and efficacy of satralizumab have been studied in 9 children ≥ 12 years of age. Frequency, type and severity of adverse reactions in children from 12 years of age are expected to be the same as in adults.
 
 <div style=\"page-break-after: always\"></div>
 
-professionals are asked to report any suspected adverse reactions via the national reporting system listed in Appendix V.
+## Reporting of suspected adverse reactions
+
+Reporting suspected adverse reactions after authorisation of the medicinal product is important. It allows continued monitoring of the benefit/risk balance of the medicinal product. Healthcare professionals are asked to report any suspected adverse reactions via the national reporting system listed in Appendix V.
 
 ## 4.9 Overdose
 
 In the event of an overdose, the patient should be closely supervised, treated symptomatically, and supportive measures instituted as required.
 
-## 5. PHARMACOLOGICAL PROPERTIES
+## 5. PHARMACOLOGICALPROPERTIES
 
 ## 5.1 Pharmacodynamic properties
 
@@ -325,13 +323,9 @@ Both studies included approximately 30% AQP4-IgG seronegative NMO patients.
 
 Efficacy in both studies was evaluated based on time to first relapse as adjudicated by an independent Clinical Endpoint Committee (CEC), with relapse defined by pre-specified worsening in the EDSS and functional system score (FSS) criteria, evaluated within 7 days after the patient reported symptoms (adjudicated relapse).
 
-## Study BN40898 (also known as SA-307JG or SAkuraSky)
-
-Study BN40898 was a randomised, multicentre, double-blind, placebo-controlled clinical trial to evaluate the effect of satralizumab in combination with stable IST (OCs up to 15 mg/day
-
 <div style=\"page-break-after: always\"></div>
 
-[prednisolone equivalent], AZA up to 3 mg/kg/day or MMF up to 3000 mg/day, adolescents received a combination of AZA and OCs or MMF and OCs). The double blind period of the study included 83 AQP4-IgG seropositive and seronegative patients (76 adults and 7 adolescents). Patients received the first 3 single doses of satralizumab 120 mg or matching placebo by SC injection in the abdominal or femoral region every 2 weeks for the first 4 weeks and once every 4 weeks thereafter.
+Study BN40898 was a randomised, multicentre, double-blind, placebo-controlled clinical trial to evaluate the effect of satralizumab in combination with stable IST (OCs up to 15 mg/day [prednisolone equivalent], AZA up to 3 mg/kg/day or MMF up to 3000 mg/day, adolescents received a combination of AZA and OCs or MMF and OCs). The double blind period of the study included 83 AQP4-IgG seropositive and seronegative patients (76 adults and 7 adolescents). Patients received the first 3 single doses of satralizumab 120 mg or matching placebo by subcutaneous injection in the abdominal or femoral region every 2 weeks for the first 4 weeks and once every 4 weeks thereafter.
 
 Study design and baseline characteristics of the study population are presented in table 4.
 
@@ -342,12 +336,12 @@ Table 4: Study design and baseline characteristics in AQP4-IgG seropositive pati
 | Study design                                                       | Study design                                                                                                                                                                                                                | Study design                                                                                                                                                                                                                |
 | Study population                                                   | Adolescent and adult patients with NMOor NMOSD, treated with stable IST Age 12-74 years, ≥ 2 relapses in the last 2 years prior screening (with at least one relapse in the 12 months prior to screening), EDSS of 0 to 6.5 | Adolescent and adult patients with NMOor NMOSD, treated with stable IST Age 12-74 years, ≥ 2 relapses in the last 2 years prior screening (with at least one relapse in the 12 months prior to screening), EDSS of 0 to 6.5 |
 | Study duration for efficacy evaluation                             | Event-driven** (26 adjudicated relapses) Median follow-up time: satralizumab 139.4 weeks, placebo 40.2 weeks (in ITT: 115.1 weeks and 42.5 weeks, respectively)                                                             | Event-driven** (26 adjudicated relapses) Median follow-up time: satralizumab 139.4 weeks, placebo 40.2 weeks (in ITT: 115.1 weeks and 42.5 weeks, respectively)                                                             |
-| Treatment groups, in 1:1 randomisation                             | Group A: satralizumab 120 mg SC Group B: placebo                                                                                                                                                                            | Group A: satralizumab 120 mg SC Group B: placebo                                                                                                                                                                            |
+| Treatment groups, in 1:1 randomisation                             | Group A: satralizumab 120 mg subcutaneous Group B: placebo                                                                                                                                                                  | Group A: satralizumab 120 mg subcutaneous Group B: placebo                                                                                                                                                                  |
 | Baseline characteristics of AQP4-IgG seropositive patients         | Satralizumab + IST (n=27)                                                                                                                                                                                                   | Placebo + IST (n=28)                                                                                                                                                                                                        |
 | Diagnosis, n (%): NMO NMOSD                                        | 19 (70.4) 8 (29.6)                                                                                                                                                                                                          | 14 (50.0) 14 (50.0)                                                                                                                                                                                                         |
 | Mean age in years (SD) (Min-Max)                                   | 44.4 (15.7) (13 - 73)                                                                                                                                                                                                       | 43.4 (12.9) (14 - 65)                                                                                                                                                                                                       |
-| Elderly (≥65 years), n (%)                                         | 3 (11.1)                                                                                                                                                                                                                    | 1 (3.6)                                                                                                                                                                                                                     |
-| Adolescents (≥12 to <18 years), n (%)                              | 1 (3.7)                                                                                                                                                                                                                     | 2 (7.1)                                                                                                                                                                                                                     |
+| Elderly ( ≥ 65 years), n (%)                                       | 3 (11.1)                                                                                                                                                                                                                    | 1 (3.6)                                                                                                                                                                                                                     |
+| Adolescents ( ≥ 12 to <18 years), n (%)                            | 1 (3.7)                                                                                                                                                                                                                     | 2 (7.1)                                                                                                                                                                                                                     |
 | Gender distribution, n (%) male/ n (%) female                      | 0 / 27 (100)                                                                                                                                                                                                                | 0 / 28 (100)                                                                                                                                                                                                                |
 | Immunosuppressive therapy (IST), n (%): Oral corticosteroids (OCs) | 14 (51.9)                                                                                                                                                                                                                   | 13 (46.4)                                                                                                                                                                                                                   |
 | Azathioprine (AZA)                                                 | 11 (40.7)                                                                                                                                                                                                                   | 11 (39.3)                                                                                                                                                                                                                   |
@@ -355,13 +349,17 @@ Table 4: Study design and baseline characteristics in AQP4-IgG seropositive pati
 | AZA + OCs***                                                       | 0                                                                                                                                                                                                                           | 0                                                                                                                                                                                                                           |
 | MMF+OCs***                                                         | 1 ( 3.7)                                                                                                                                                                                                                    | 1 ( 3.6)                                                                                                                                                                                                                    |
 
-## Study BN40900 (also known as SA-309JG or SAkuraStar)
-
-Study BN40900 was a randomised, multicentre, double-blind, placebo-controlled clinical trial to evaluate the effect of satralizumab monotherapy compared to placebo. The study included 95 AQP4IgG seropositive and seronegative adult patients. Patients received the first 3 single doses of
-
 <div style=\"page-break-after: always\"></div>
 
-satralizumab 120 mg or matching placebo by SC injection in the abdominal or femoral region every 2 weeks for the first 4 weeks and once every 4 weeks thereafter.
+* Intention-To-Treat (ITT)
+
+** Patients treated with rescue therapy with no adjudicated relapse were allowed to enter the OLE period of the study and were censored from the primary efficacy analysis
+
+*** Combination allowed for adolescent patients
+
+## Study BN40900 (also known as SA-309JG or SAkuraStar)
+
+Study BN40900 was a randomised, multicentre, double-blind, placebo-controlled clinical trial to evaluate the effect of satralizumab monotherapy compared to placebo. The study included 95 AQP4IgG seropositive and seronegative adult patients. Patients received the first 3 single doses of satralizumab 120 mg or matching placebo by subcutaneous injection in the abdominal or femoral region every 2 weeks for the first 4 weeks and once every 4 weeks thereafter.
 
 Study design and baseline characteristics of the study population are presented in table 5.
 
@@ -372,38 +370,39 @@ Table 5: Study design and baseline characteristics in AQP4-IgG seropositive pati
 | Study design                                               | Study design                                                                                                                                                                                                                                                 | Study design                                                                                                                                                                                                                                                 |
 | Study population                                           | Adult patients with NMOor NMOSD Age 18-74 years, ≥ 1 relapse or first attack in the last 12 months prior to screening, EDSS of 0 to 6.5. Patients either received prior relapse prevention treatment for NMOSD or were treatment naïve                       | Adult patients with NMOor NMOSD Age 18-74 years, ≥ 1 relapse or first attack in the last 12 months prior to screening, EDSS of 0 to 6.5. Patients either received prior relapse prevention treatment for NMOSD or were treatment naïve                       |
 | Study duration for efficacy evaluation                     | Event-driven (44 adjudicated relapses, or 1.5 years after the date of randomisation of the last patient enrolled, whichever comes first) Median follow-up time: satralizumab 96.7 weeks, placebo 60.1 weeks(in ITT: 95.4 weeks and 60.5 weeks, respectively) | Event-driven (44 adjudicated relapses, or 1.5 years after the date of randomisation of the last patient enrolled, whichever comes first) Median follow-up time: satralizumab 96.7 weeks, placebo 60.1 weeks(in ITT: 95.4 weeks and 60.5 weeks, respectively) |
-| Treatment groups, in 2:1 randomisation                     | Monotherapy: Group A: satralizumab 120 mg SC Group B: placebo                                                                                                                                                                                                | Monotherapy: Group A: satralizumab 120 mg SC Group B: placebo                                                                                                                                                                                                |
+| Treatment groups, in 2:1 randomisation                     | Monotherapy: Group A: satralizumab 120 mg subcutaneous Group B: placebo                                                                                                                                                                                      | Monotherapy: Group A: satralizumab 120 mg subcutaneous Group B: placebo                                                                                                                                                                                      |
 | Baseline characteristics of AQP4-IgG seropositive patients | Satralizumab (n=41)                                                                                                                                                                                                                                          | Placebo (n=23)                                                                                                                                                                                                                                               |
-| Diagnosis, n (%): NMO NMOSD                                | 26 (63.4) 15 (36.6)                                                                                                                                                                                                                                          | 15 (65.2) 8 (34.8)                                                                                                                                                                                                                                           |
-| Mean age in years (SD) (Min-Max)                           | 46.0 (12.0) (22 - 70)                                                                                                                                                                                                                                        | 40.1 (11.5) (20 - 56)                                                                                                                                                                                                                                        |
-| Elderly (≥65 years), n (%)                                 | 1 (2.4)                                                                                                                                                                                                                                                      | 0                                                                                                                                                                                                                                                            |
+| Diagnosis, n (%):                                          |                                                                                                                                                                                                                                                              |                                                                                                                                                                                                                                                              |
+| NMO                                                        | 26 (63.4)                                                                                                                                                                                                                                                    | 15 (65.2)                                                                                                                                                                                                                                                    |
+| NMOSD Mean age                                             | 15 (36.6)                                                                                                                                                                                                                                                    | 8 (34.8)                                                                                                                                                                                                                                                     |
+| in years (SD) (Min-Max)                                    | 46.0 (12.0) (22 - 70)                                                                                                                                                                                                                                        | 40.1 (11.5)                                                                                                                                                                                                                                                  |
+|                                                            |                                                                                                                                                                                                                                                              | (20 - 56)                                                                                                                                                                                                                                                    |
+| Elderly ( ≥ 65 years), n (%)                               | 1 (2.4)                                                                                                                                                                                                                                                      | 0                                                                                                                                                                                                                                                            |
 | Gender distribution, n (%) male/ n (%) female              | 10 (24.4) / 31 (75.6)                                                                                                                                                                                                                                        | 1 (4.3) / 22 (95.7)                                                                                                                                                                                                                                          |
-
-* Intention-To-Treat (ITT)
 
 ## Primary efficacy
 
-In AQP4-IgG seropositive patients the relative risk of experiencing an adjudicated relapse in study BN40898 was reduced by 79% (Hazard Ratio, HR [95% CI]: 0.21 [0.06-0.75]), in study BN40900 by 74% (HR [95% CI]: 0.26 [0.11-0.63]) (see Figures 1 and 2). When data across studies BN40898 and BN40900 were pooled, treatment with satralizumab with or without IST led to an overall risk reduction of 75% (HR [95% CI]; 0.25 (0.12-0.50]) in AQP4-IgG seropositive patients. At 48 weeks, 85.7% of satralizumab-treated AQP4-IgG seropositive patients remained adjudicated relapse-free when used in combination with IST or as monotherapy compared to 58.7% in the placebo group. At 96 weeks, 81.4% of satralizumab-treated AQP4-IgG seropositive patients remained adjudicated relapse-free when used in combination with IST or as monotherapy compared to 47.2% in the placebo group. Efficacy was not significant in AQP4-IgG seronegative patients.
+In AQP4-IgG seropositive patients the relative risk of experiencing an adjudicated relapse in study BN40898 was reduced by 79% (Hazard Ratio, HR [95% CI]: 0.21 [0.06-0.75]), in study BN40900 by 74% (HR [95% CI]: 0.26 [0.11-0.63]) (see Figures 1 and 2). When data across studies BN40898 and BN40900 were pooled, treatment with satralizumab with or without IST led to an overall risk
 
 <div style=\"page-break-after: always\"></div>
+
+reduction of 75% (HR [95% CI]; 0.25 (0.12-0.50]) in AQP4-IgG seropositive patients. At 48 weeks, 85.7% of satralizumab-treated AQP4-IgG seropositive patients remained adjudicated relapse-free when used in combination with IST or as monotherapy compared to 58.7% in the placebo group. At 96 weeks, 81.4% of satralizumab-treated AQP4-IgG seropositive patients remained adjudicated relapse-free when used in combination with IST or as monotherapy compared to 47.2% in the placebo group. Efficacy was not significant in AQP4-IgG seronegative patients.
 
 Figure 1: Study BN40898 - time to first adjudicated relapse during the double-blind period in AQP4-IgG seropositive patients
 
 <!-- image -->
 
-TimetoRelapse(Weeks)
-
 Figure 2: Study BN40900 - time to first adjudicated relapse during the double-blind period in AQP4-IgG seropositive patients
 
 <!-- image -->
 
-Treatment with satralizumab in AQP4-IgG seropositive patients reduced the annualized rate of adjudicated relapses (ARR) by 88% (rate ratio [RR]=0.122, 95% CI: 0.027 - 0.546; p=0.0039) in study BN40898 and 90% (RR=0.096, 95% CI: 0.020 - 0.473; p= 0.0086) in study BN40900 compared to treatment with placebo.
-
-As compared to placebo-treated patients, the need for rescue therapy (e.g., corticosteroids, intravenous immunoglobulin, and/or apheresis [including plasmapheresis or plasma exchange]) was reduced in satralizumab-treated AQP4-IgG seropositive patients by 61% (odds ratio [OR]= 0.3930, 95% CI:
+Treatment with satralizumab in AQP4-IgG seropositive patients reduced the annualised rate of adjudicated relapses (ARR) by 88% (rate ratio [RR]=0.122, 95% CI: 0.027 - 0.546; p=0.0039) in study
 
 <div style=\"page-break-after: always\"></div>
 
-0.1343 -1.1502; p=0.0883) in study BN40898 and by 74% (OR = 0.2617, 95% CI: 0.0862 - 0.7943; p=0.0180) in study BN40900.
+BN40898 and 90% (RR=0.096, 95% CI: 0.020 - 0.473; p= 0.0086) in study BN40900 compared to treatment with placebo.
+
+As compared to placebo-treated patients, the need for rescue therapy (e.g., corticosteroids, intravenous immunoglobulin, and/or apheresis [including plasmapheresis or plasma exchange]) was reduced in satralizumab-treated AQP4-IgG seropositive patients by 61% (odds ratio [OR]= 0.3930, 95% CI: 0.1343 -1.1502; p=0.0883) in study BN40898 and by 74% (OR = 0.2617, 95% CI: 0.0862 - 0.7943; p=0.0180) in study BN40900.
 
 Treatment with satralizumab in AQP4-IgG seropositive patients reduced the risk of experiencing a severe relapse defined as an EDSS increase ≥ 2 points from the previous EDSS assessment by 85% (time to severe adjudicated relapse during the double blind period; HR=0.15, 95% CI: 0.02 -1.25; p=0.0441) in study BN40898 and by 79% (HR=0.21, 95% CI: 0.05 - 0.91; p=0.0231) in study BN40900 compared to treatment with placebo.
 
@@ -425,17 +424,17 @@ Treatment with satralizumab led to a similar reduction in the risk of experienci
 
 ## Paediatric population
 
-In study BN40898, there were 7 adolescent patients enrolled during the double blind period. Their mean age was 15.4 years and the median body weight was 79.6 kg. The majority were female (n = 6). Four patients were White, 2 were Black/African American, and 1 was Asian. Three (42.9%) adolescent patients were AQP4-IgG seropositive at screening (2 in the placebo group and 1 in the satralizumab group). During the double-blind period, 1 of 3 adolescents in the placebo group and 1 of 4 adolescents in the satralizumab group experienced an adjudicated relapse. Due to the small sample size, the hazard ratio for the primary endpoint of time to first adjudicated relapse in this subgroup was not calculated. Two additional adolescent patients were enrolled in the open-label period of the study.
+In study BN40898, there were 7 adolescent patients enrolled during the double-blind period. Their mean age was 15.4 years and the median body weight was 79.6 kg. The majority were female (n=6). Four patients were White, 2 were Black/African American, and 1 was Asian. Three (42.9%) adolescent patients were AQP4-IgG seropositive at screening (2 in the placebo group and 1 in the satralizumab group). During the double-blind period, 1 of 3 adolescents in the placebo group and 1 of 4 adolescents in the satralizumab group experienced an adjudicated relapse. Due to the small sample size, the hazard ratio for the primary endpoint of time to first adjudicated relapse in this subgroup was not calculated. Two additional adolescent patients were enrolled in the open-label period of the study.
 
 The European Medicines Agency has deferred the obligation to submit the results of studies with Enspryng in one or more subsets of the paediatric population in treatment of NMOSD (see section 4.2 for information on paediatric use).
 
 ## 5.2 Pharmacokinetic properties
 
-The pharmacokinetics of satralizumab have been characterised both in Japanese and Caucasian healthy volunteers, and in NMO and NMOSD patients. The pharmacokinetics in NMO and NMOSD patients using the recommended dose were characterised using population PK analysis methods based on a database of 154 patients.
-
 <div style=\"page-break-after: always\"></div>
 
-The concentration-time course of satralizumab in patients with NMO or NMOSD was accurately described by a two-compartment population PK model with parallel linear and target-mediated (Michaelis-Menten) elimination and first-order SC absorption. Satralizumab clearance and volume parameters allometrically scaled by body weight (through power function with the fixed power coefficient of 0.75 and 1 for clearance and volume parameters, respectively). Bodyweight was shown to be a significant covariate, with clearance and Vc for patients weighing 123 kg (97.5th percentile of the weight distribution) increased by 71.3% and 105%, respectively, compared to a 60 kg patient.
+The pharmacokinetics of satralizumab have been characterised both in Japanese and Caucasian healthy volunteers, and in NMO and NMOSD patients. The pharmacokinetics in NMO and NMOSD patients using the recommended dose were characterised using population PK analysis methods based on a database of 154 patients.
+
+The concentration-time course of satralizumab in patients with NMO or NMOSD was accurately described by a two-compartment population PK model with parallel linear and target-mediated (Michaelis-Menten) elimination and first-order subcutaneous absorption. Satralizumab clearance and volume parameters allometrically scaled by body weight (through power function with the fixed power coefficient of 0.75 and 1 for clearance and volume parameters, respectively). Bodyweight was shown to be a significant covariate, with clearance and Vc for patients weighing 123 kg (97.5th percentile of the weight distribution) increased by 71.3% and 105%, respectively, compared to a 60 kg patient.
 
 Steady state pharmacokinetics were achieved after the loading period (8 weeks) for Cmin, Cmax and AUC as follows (mean (±SD): Cmin: 19.7 (12.2) mcg/mL, Cmax: 31.5 (14.9) mcg/mL and AUC: 737 (386) mcg. mL/day.
 
@@ -465,13 +464,13 @@ Data obtained in 8 adolescent patients [13-17 years of age] who received the adu
 
 ## Elderly
 
-No dedicated studies have been conducted to investigate the PK of satralizumab in patients ≥65 years of age, however patients with NMO or NMOSD between 65 and 74 years of age were included in the BN40898 and BN40900 clinical studies.
-
 <div style=\"page-break-after: always\"></div>
+
+No dedicated studies have been conducted to investigate the PK of satralizumab in patients ≥ 65 years of age, however patients with NMO or NMOSD between 65 and 74 years of age were included in the BN40898 and BN40900 clinical studies.
 
 ## Renal impairment
 
-No formal study of the effect of renal impairment on the PK of satralizumab has been conducted. However, patients with mild renal impairment (creatinine clearance ≥50 mL/min and &lt;80 mL/min) were included in the phase III studies. Based on population PK analysis there is no impact of renal impairment on the PK of satralizumab which is in line with the known mechanisms of clearance for satralizumab. Therefore no dose adjustment is required.
+No formal study of the effect of renal impairment on the PK of satralizumab has been conducted. However, patients with mild renal impairment (creatinine clearance ≥ 50 mL/min and &lt;80 mL/min) were included in the phase III studies. Based on population PK analysis there is no impact of renal impairment on the PK of satralizumab which is in line with the known mechanisms of clearance for satralizumab. Therefore no dose adjustment is required.
 
 ## Hepatic impairment
 
@@ -505,7 +504,7 @@ Based on in vitro studies with human blood, the risk of the release of pro-infla
 
 <div style=\"page-break-after: always\"></div>
 
-## 6. PHARMACEUTICAL PARTICULARS
+## 6. PHARMACEUTICALPARTICULARS
 
 ## 6.1 List of excipients
 
@@ -523,43 +522,51 @@ In the absence of compatibility studies, this medicinal product must not be mixe
 
 Store in a refrigerator (2°C - 8°C). Do not freeze. Do not use the syringe if it has been frozen. Always keep the syringe dry.
 
-Keep the PFS in the outer carton in order to protect from light and moisture.
+Keep the pre-filled syringe in the outer carton in order to protect from light and moisture.
 
 If unopened and kept in the outer carton, the syringe may be left out of the refrigerator below 30°C for a single period up to 8 days. After storage at room temperature the product should not be returned to the refrigerator and should be either used or discarded.
 
 ## 6.5 Nature and contents of container
 
-1 mL solution in a PFS (polymer) with a staked-in, stainless steel needle, fitted with a chlorinated butyl rubber-polypropylene rigid needle shield and sealed with a chlorinated butyl rubber plunger stopper. The PFS is labelled and assembled with an automatic needle guard, plunger rod, and extended finger flanges (EFF).
+1 mL solution in a pre-filled syringe (polymer) with a staked-in, stainless steel needle, fitted with a chlorinated butyl rubber-polypropylene rigid needle shield and sealed with a chlorinated butyl rubber plunger stopper. The pre-filled syringe is labelled and assembled with an automatic needle guard, plunger rod, and extended finger flanges (EFF).
 
-Pack size of 1 PFS and multipack of 3 (3 packs of 1) PFS. Not all pack sizes may be marketed.
+Pack size of 1 pre-filled syringe and multipack containing 3 (3 packs of 1) pre-filled syringes. Not all pack sizes may be marketed.
 
 ## 6.6 Special precautions for disposal and other handling
 
-After removing the carton from the refrigerator, the sealed carton should be open and the PFS carefully lifted out of the carton by holding the barrel. It is important to let the PFS reach room temperature by waiting for 30 minutes before initiating the administration process.
+After removing the carton from the refrigerator, the sealed carton should be open and the pre-filled syringe carefully lifted out of the carton by holding the barrel. It is important to let the pre-filled syringe reach room temperature by waiting for 30 minutes before initiating the administration process.
 
-The medicinal product should not be used if the liquid is cloudy, discoloured, has visible particles in it or if any part of the PFS appears to be damaged.
+The medicinal product should not be used if the liquid is cloudy, discoloured, has visible particles in it or if any part of the pre-filled syringe appears to be damaged.
 
 The injection must be performed right after removing the cap and no later than 5 minutes, to prevent the medicinal product from drying out and blocking the needle. If the pre-filled syringe is not used within 5 minutes of removing the cap, you must dispose of it in a puncture resistant container and use a new pre-filled syringe.
 
-Any unused medicinal product or waste material should be disposed of in accordance with local requirements.
-
 <div style=\"page-break-after: always\"></div>
 
-## 7. MARKETING AUTHORISATION HOLDER
+Any unused medicinal product or waste material should be disposed of in accordance with local requirements.
 
-Roche Registration GmbH Emil-Barell-Strasse 1 79639 Grenzach-Wyhlen Germany
+## 7. MARKETINGAUTHORISATIONHOLDER
 
-## 8. MARKETING AUTHORISATION NUMBER(S)
+Roche Registration GmbH Emil-Barell-Strasse 1 79639 Grenzach-Wyhlen
 
-EU/1/21/1559/001 EU/1/21/1559/002
+Germany
 
-## 9. DATE OF FIRST AUTHORISATION/RENEWAL OF THE AUTHORISATION
+## 8. MARKETINGAUTHORISATIONNUMBER(S)
+
+EU/1/21/1559/001
+
+EU/1/21/1559/002
+
+## 9. DATEOFFIRSTAUTHORISATION/RENEWALOFTHEAUTHORISATION
 
 Date of first authorisation: 24 June 2021
 
-## 10. DATE OF REVISION OF THE TEXT
+Date of latest renewal:
+
+## 10. DATEOFREVISIONOFTHETEXT
 
 Detailed information on this medicinal product is available on the website of the European Medicines Agency http://www.ema.europa.eu.
+
+17
 
 <div style=\"page-break-after: always\"></div>
 
@@ -568,7 +575,7 @@ Detailed information on this medicinal product is available on the website of th
 - A. MANUFACTURER(S) OF THE BIOLOGICAL ACTIVE SUBSTANCE(S) AND MANUFACTURER(S) RESPONSIBLE FOR BATCH RELEASE
 - B. CONDITIONS OR RESTRICTIONS REGARDING SUPPLY AND USE
 - C. OTHER CONDITIONS AND REQUIREMENTS OF THE MARKETING AUTHORISATION
-- D. CONDITIONS OR RESTRICTIONS WITH REGARD TO THE SAFE AND EFFECTIVE USE OF THE MEDICINAL PRODUCT
+- D. CONDITIONSORRESTRICTIONSWITHREGARDTO THESAFEANDEFFECTIVEUSEOFTHEMEDICINAL PRODUCT
 
 <div style=\"page-break-after: always\"></div>
 
@@ -576,7 +583,9 @@ Detailed information on this medicinal product is available on the website of th
 
 Name and address of the manufacturer(s) of the biological active substance(s)
 
-Chugai Pharma Manufacturing Co., Ltd. 5-1, Ukima 5-Chome, Kita-ku, Tokyo, 115-8543 Japan
+Chugai Pharma Manufacturing Co., Ltd.
+
+5-1, Ukima 5-Chome, Kita-ku, Tokyo, 115-8543 Japan
 
 WuXi Biologics Co., Ltd. 108 Meiliang Road Mashan, Binhu District Wuxi, Jiangsu, 214092 China
 
@@ -590,15 +599,13 @@ Medicinal product subject to restricted medical prescription (see Annex I: Summa
 
 ## C. OTHER CONDITIONS AND REQUIREMENTS OF THE MARKETING AUTHORISATION
 
-## · Periodic safety update reports (PSURs)
+## ∙ Periodic safety update reports (PSURs)
 
 The requirements for submission of PSURs for this medicinal product are set out in the list of Union reference dates (EURD list) provided for under Article 107c(7) of Directive 2001/83/EC and any subsequent updates published on the European medicines web-portal.
 
-The marketing authorisation holder (MAH) shall submit the first PSUR for this product within 6 months following authorisation.
-
 ## D. CONDITIONS OR RESTRICTIONS WITH REGARD TO THE SAFE AND EFFECTIVE USE OF THE MEDICINAL PRODUCT
 
-## · Risk management plan (RMP)
+## ∙ Risk management plan (RMP)
 
 The marketing authorisation holder (MAH) shall perform the required pharmacovigilance activities and interventions detailed in the agreed RMP presented in Module 1.8.2 of the marketing authorisation and any agreed subsequent updates of the RMP.
 
@@ -610,7 +617,7 @@ An updated RMP should be submitted:
 
 - Whenever the risk management system is modified, especially as the result of new information being received that may lead to a significant change to the benefit/risk profile or as the result of an important (pharmacovigilance or risk minimisation) milestone being reached.
 
-## · Additional risk minimisation measures
+## ∙ Additional risk minimisation measures
 
 Prior to the launch of Enspryng in each Member State, the Marketing Authorisation Holder (MAH) must agree about the content and format of the patient alert card, distribution modalities, and any other aspects of the card, with the National Competent Authority.
 
@@ -655,7 +662,7 @@ Excipients: histidine, aspartic acid, arginine, poloxamer 188, water for injecti
 
 ## 4. PHARMACEUTICAL FORM AND CONTENTS
 
-## Solution for injection
+Solution for injection
 
 1 pre-filled syringe
 
@@ -663,13 +670,13 @@ Excipients: histidine, aspartic acid, arginine, poloxamer 188, water for injecti
 
 ## 5. METHOD AND ROUTE(S) OF ADMINISTRATION
 
-Read the package leaflet before use
+Read the package leaflet before use.
 
 Subcutaneous use
 
 For single use only
 
-Allow the syringe to sit at room temperature outside the box for 30 minutes before use
+Allow the syringe to sit at room temperature outside the box for 30 minutes before use.
 
 ## 6. SPECIAL WARNING THAT THE MEDICINAL PRODUCT MUST BE STORED OUT OF THE SIGHT AND REACH OF CHILDREN
 
@@ -679,27 +686,25 @@ Keep out of the sight and reach of children
 
 ## 8. EXPIRY DATE
 
-EXP
-
 <div style=\"page-break-after: always\"></div>
 
 ## 9. SPECIAL STORAGE CONDITIONS
 
-Store in a refrigerator
+Store in a refrigerator.
 
-Do not freeze
+Do not freeze.
 
-Keep the pre-filled syringe in the outer carton in order to protect from light and moisture
+Keep the pre-filled syringe in the outer carton in order to protect from light and moisture.
 
-If unopened and kept in the outer carton, Enspryng may be left out of the refrigerator below 30°C for a single period up to 8 days
+If unopened and kept in the outer carton, Enspryng may be left out of the refrigerator below 30°C for a single period up to 8 days.
 
 ## 10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
-Roche Registration GmbH
+Roche Registration GmbH Emil-Barell-Strasse 1 79639 Grenzach-Wyhlen
 
-Emil-Barell-Strasse 1 79639 Grenzach-Wyhlen Germany
+Germany
 
 ## 12. MARKETING AUTHORISATION NUMBER(S)
 
@@ -721,19 +726,18 @@ enspryng 120 mg
 
 2D barcode carrying the unique identifier included
 
-## 18. UNIQUE IDENTIFIER - HUMAN READABLE DATA
+<div style=\"page-break-after: always\"></div>
 
-PC
+| 18.   | UNIQUE IDENTIFIER - HUMANREADABLE DATA   |
+|-------|------------------------------------------|
 
-SN
-
-NN
+PC SN NN
 
 <div style=\"page-break-after: always\"></div>
 
 ## PARTICULARS TO APPEAR ON THE OUTER PACKAGING
 
-OUTER CARTON (WITH BLUE BOX) - MULTIPACK
+OUTER CARTON FOR MULTIPACK (WITH BLUE BOX)
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
@@ -749,19 +753,21 @@ Excipients: histidine, aspartic acid, arginine, poloxamer 188, water for injecti
 
 ## 4. PHARMACEUTICAL FORM AND CONTENTS
 
-Solution for injection
+## Solution for injection
 
-Multipack: 3 (3 packs of 1) pre-filled syringes 120 mg/1 mL
+Multipack: 3 (3 packs of 1) pre-filled syringes
+
+120 mg/1 mL
 
 ## 5. METHOD AND ROUTE(S) OF ADMINISTRATION
 
-Read the package leaflet before use
+Read the package leaflet before use.
 
 Subcutaneous use
 
 For single use only
 
-Allow the syringe to sit at room temperature outside the box for 30 minutes before use
+Allow the syringe to sit at room temperature outside the box for 30 minutes before use.
 
 ## 6. SPECIAL WARNING THAT THE MEDICINAL PRODUCT MUST BE STORED OUT OF THE SIGHT AND REACH OF CHILDREN
 
@@ -771,31 +777,29 @@ Keep out of the sight and reach of children
 
 ## 8. EXPIRY DATE
 
-EXP
-
 <div style=\"page-break-after: always\"></div>
 
 ## 9. SPECIAL STORAGE CONDITIONS
 
-Store in a refrigerator
+Store in a refrigerator.
 
-Do not freeze
+Do not freeze.
 
-Keep the pre-filled syringe in the outer carton in order to protect from light and moisture
+Keep the pre-filled syringe in the outer carton in order to protect from light and moisture.
 
-If unopened and kept in the outer carton, Enspryng may be left out of the refrigerator below 30°C for a single period up to 8 days
+If unopened and kept in the outer carton, Enspryng may be left out of the refrigerator below 30°C for a single period up to 8 days.
 
 ## 10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
-Roche Registration GmbH
+Roche Registration GmbH Emil-Barell-Strasse 1 79639 Grenzach-Wyhlen
 
-Emil-Barell-Strasse 1 79639 Grenzach-Wyhlen Germany
+Germany
 
 ## 12. MARKETING AUTHORISATION NUMBER(S)
 
-EU/1/21/1559/002 3 prefilled-syringes (3 packs of 1)
+EU/1/21/1559/002 3 pre-filled syringes (3 packs of 1)
 
 ## 13. BATCH NUMBER
 
@@ -813,19 +817,18 @@ enspryng 120 mg
 
 2D barcode carrying the unique identifier included
 
-## 18. UNIQUE IDENTIFIER - HUMAN READABLE DATA
+<div style=\"page-break-after: always\"></div>
 
-PC
+| 18.   | UNIQUE IDENTIFIER - HUMANREADABLE DATA   |
+|-------|------------------------------------------|
 
-SN
-
-NN
+PC SN NN
 
 <div style=\"page-break-after: always\"></div>
 
 ## PARTICULARS TO APPEAR ON THE OUTER PACKAGING
 
-INNER CARTON (WITHOUT BLUE BOX) - MULTIPACK
+INNER CARTON OF MULTIPACK (WITHOUT BLUE BOX)
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
@@ -849,13 +852,13 @@ Excipients: histidine, aspartic acid, arginine, poloxamer 188, water for injecti
 
 ## 5. METHOD AND ROUTE(S) OF ADMINISTRATION
 
-Read the package leaflet before use
+Read the package leaflet before use.
 
 Subcutaneous use
 
 For single use only
 
-Allow the syringe to sit at room temperature outside the box for 30 minutes before use
+Allow the syringe to sit at room temperature outside the box for 30 minutes before use.
 
 ## 6. SPECIAL WARNING THAT THE MEDICINAL PRODUCT MUST BE STORED OUT OF THE SIGHT AND REACH OF CHILDREN
 
@@ -865,27 +868,25 @@ Keep out of the sight and reach of children
 
 ## 8. EXPIRY DATE
 
-EXP
-
 <div style=\"page-break-after: always\"></div>
 
 ## 9. SPECIAL STORAGE CONDITIONS
 
-Store in a refrigerator
+Store in a refrigerator.
 
-Do not freeze
+Do not freeze.
 
-Keep the pre-filled syringe in the outer carton in order to protect from light and moisture
+Keep the pre-filled syringe in the outer carton in order to protect from light and moisture.
 
-If unopened and kept in the outer carton, Enspryng may be left out of the refrigerator below 30°C for a single period up to 8 days
+If unopened and kept in the outer carton, Enspryng may be left out of the refrigerator below 30°C for a single period up to 8 days.
 
 ## 10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
-Roche Registration GmbH
+Roche Registration GmbH Emil-Barell-Strasse 1 79639 Grenzach-Wyhlen
 
-Emil-Barell-Strasse 1 79639 Grenzach-Wyhlen Germany
+Germany
 
 ## 12. MARKETING AUTHORISATION NUMBER(S)
 
@@ -907,33 +908,41 @@ enspryng 120 mg
 
 2D barcode carrying the unique identifier included
 
-## 18. UNIQUE IDENTIFIER - HUMAN READABLE DATA
+<div style=\"page-break-after: always\"></div>
 
-PC
+| 18.   | UNIQUE IDENTIFIER - HUMANREADABLE DATA   |
+|-------|------------------------------------------|
 
-SN
-
-NN
+PC SN NN
 
 <div style=\"page-break-after: always\"></div>
 
-## MINIMUM PARTICULARS TO APPEAR ON SMALL IMMEDIATE PACKAGING UNITS PRE-FILLED SYRINGE LABEL
+| MINIMUM PARTICULARS TO APPEARONSMALL IMMEDIATE PACKAGING UNITS   |
+|------------------------------------------------------------------|
+| PRE-FILLED SYRINGE LABEL                                         |
 
-## 1. NAME OF THE MEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION
+| 1.   | NAMEOFTHEMEDICINALPRODUCTANDROUTE(S) OF ADMINISTRATION   |
+|------|----------------------------------------------------------|
 
-Enspryng 120 mg injection satralizumab SC
+Enspryng 120 mg injection satralizumab
 
-## 2. METHOD OF ADMINISTRATION
+SC
 
-3. EXPIRY DATE
+| 2.   | METHODOFADMINISTRATION   |
+|------|--------------------------|
+
+| 3.   | EXPIRY DATE   |
+|------|---------------|
 
 EXP
 
-## 4. BATCH NUMBER
+| 4.   | BATCHNUMBER   |
+|------|---------------|
 
 Lot
 
-## 5. CONTENTS BY WEIGHT, BY VOLUME OR BY UNIT
+| 5.   | CONTENTS BY WEIGHT, BYVOLUMEORBYUNIT   |
+|------|----------------------------------------|
 
 120 mg/1 mL
 
@@ -948,11 +957,7 @@ Lot
 
 ## Package leaflet: Information for the patient
 
-## Enspryng 120 mg solution for injection in pre-filled syringe
-
-satralizumab
-
-This medicine is subject to additional monitoring. This will allow quick identification of new safety information. You can help by reporting any side effects you may get. See the end of section 4 for how to report side effects.
+## Enspryng 120 mg solution for injection in pre-filled syringe satralizumab
 
 ## Read all of this leaflet carefully before you start using this medicine because it contains important information for you.
 
@@ -1032,12 +1037,11 @@ Your doctor will wait until the infection is controlled before giving you Enspry
 
 ## Vaccinations
 
+<div style=\"page-break-after: always\"></div>
+
 Tell your doctor if you have recently been given any vaccine or might be given a vaccine in the near future.
 
 - Your doctor will check if you need any vaccines before you start Enspryng.
-
-<div style=\"page-break-after: always\"></div>
-
 - Do not have live or live attenuated vaccines (for example BCG for tuberculosis or vaccines against yellow fever) while you are being treated with Enspryng.
 
 ## Liver enzymes
@@ -1077,14 +1081,13 @@ Enspryng is not likely to affect you being able to drive, cycle or use any tools
 
 Always use this medicine exactly as your doctor or pharmacist has told you. Check with your doctor or pharmacist if you are not sure.
 
+<div style=\"page-break-after: always\"></div>
+
 ## How much Enspryng to use
 
 Each injection contains 120 mg of satralizumab. The first injection will be given under the supervision of your doctor or nurse.
 
 - The first three injections are given once every 2 weeks. These are called 'loading doses'.
-
-<div style=\"page-break-after: always\"></div>
-
 - After this, the injection is given every 4 weeks. This is called the 'maintenance dose'. Continue with the injections once every 4 weeks for as long as your doctor tells you to.
 
 ## How to use Enspryng
@@ -1122,6 +1125,8 @@ Check with your doctor, pharmacist or nurse if you are not sure.
 
 Do not suddenly stop using Enspryng without asking your doctor first. If you have any further questions on the use of this medicine, ask your doctor, pharmacist or nurse.
 
+<div style=\"page-break-after: always\"></div>
+
 ## 4. Possible side effects
 
 Like all medicines, this medicine can cause side effects, although not everybody gets them.
@@ -1132,9 +1137,6 @@ Tell your doctor straight away or go to the emergency department of your nearest
 
 - tight chest or wheezing
 - feeling short of breath
-
-<div style=\"page-break-after: always\"></div>
-
 - fever or chills
 - severe dizziness or light-headedness
 - swelling of the lips, tongue, face
@@ -1142,7 +1144,7 @@ Tell your doctor straight away or go to the emergency department of your nearest
 
 Do not take the next dose until you have spoken with your doctor and your doctor has told you to take the next dose.
 
-## Injection-related reactions (very common: may affect more than 1 in 10 people)
+Injection-related reactions (very common: may affect more than 1 in 10 people)
 
 In most cases these are mild reactions, but some can be serious.
 
@@ -1164,20 +1166,23 @@ Tell your doctor or nurse straight away if you have any of the signs above.
 
 ## Other side effects:
 
-## Very common (may affect more than 1 in 10 people)
+Very common (may affect more than 1 in 10 people)
 
 - headache
 - joint pain
 - high levels of blood lipids (fats)
 - low level of white blood cells in tests
 
-## Common (may affect up to 1 in 10 people)
+Common (may affect up to 1 in 10 people)
 
 - feeling stiff
 - migraine
 - slow heart beat (bradycardia)
 - increase in blood pressure
 - being unable to sleep
+
+<div style=\"page-break-after: always\"></div>
+
 - swelling in your lower legs, feet or hands
 - rash or itching
 - allergies or hay fever
@@ -1188,8 +1193,6 @@ Tell your doctor or nurse straight away if you have any of the signs above.
 - -high level of liver enzymes (transaminases, possible sign of liver problems)
 - -high level of bilirubin (possible sign of liver problems)
 - -low level of platelets (which may lead to bleeding or bruising easily)
-
-<div style=\"page-break-after: always\"></div>
 
 ## Reporting of side effects
 
@@ -1214,20 +1217,20 @@ Do not throw away any medicines via wastewater or household waste. Ask your phar
 
 ## What Enspryng contains
 
-- The active substance is satralizumab. Each pre-filled syringe contains120 mg of satralizumab in 1 mL.
+- The active substance is satralizumab. Each pre-filled syringe contains 120 mg of satralizumab in 1 mL.
 - The other ingredients are histidine, aspartic acid, arginine, poloxamer 188, water for injections.
+
+<div style=\"page-break-after: always\"></div>
 
 ## What Enspryng looks like and contents of the pack
 
 - It is a colourless to slightly yellow liquid.
 - Enspryng is a solution for injection.
-- Each pack of Enspryng contains 1 pre-filled syringe. Each multipack of Enspryng contains 3 (3 packs of 1) pre-filled syringes. Not all pack sizes may be marketed.
+- Enspryng is available in packs containing 1 pre-filled syringe and in multipacks comprising 3 cartons, each carton contains 1 pre-filled syringe. Not all pack sizes may be marketed.
 
 ## Marketing Authorisation Holder
 
 Roche Registration GmbH Emil-Barell-Strasse 1 79639 Grenzach-Wyhlen Germany
-
-<div style=\"page-break-after: always\"></div>
 
 ## Manufacturer
 
@@ -1241,9 +1244,7 @@ Germany
 
 For any information about this medicine, please contact the local representative of the Marketing Authorisation Holder:
 
-## België/Belgique/Belgien
-
-## Luxembourg/Luxemburg
+## België/Belgique/Belgien Luxembourg/Luxemburg
 
 N.V. Roche S.A. België/Belgique/Belgien Tél/Tel: +32 (0) 2 525 82 11
 
@@ -1251,11 +1252,9 @@ N.V. Roche S.A. België/Belgique/Belgien Tél/Tel: +32 (0) 2 525 82 11
 
 Рош България ЕООД
 
-Тел
+Тел : +359 2 818 44 44
 
-: +359 2 818 44 44
-
-## Česká republika
+## Č eská republika
 
 Roche s. r. o.
 
@@ -1283,7 +1282,9 @@ Tel: + 372 - 6 177 380
 
 Roche (Hellas) A.E. Ελλάδα
 
-Τηλ: +30 210 61 66 100
+Τηλ
+
+: +30 210 61 66 100
 
 ## España
 
@@ -1291,35 +1292,19 @@ Roche Farma S.A.
 
 Tel: +34 - 91 324 81 00
 
-## France
+## Latvija
 
-Roche
+Roche Latvija SIA
 
-Tél: +33 (0) 1 47 61 40 00
-
-## Hrvatska
-
-Roche d.o.o.
-
-Tel: +385 1 4722 333
-
-## Ireland, Malta
-
-Roche Products (Ireland) Ltd. Ireland/L-Irlanda
-
-Tel: +353 (0) 1 469 0700
+Tel: +371 - 6 7039831
 
 ## Lietuva
 
-UAB 'Roche Lietuva'
-
-Tel: +370 5 2546799
+UAB 'Roche Lietuva' Tel: +370 5 2546799
 
 ## Magyarország
 
-Roche (Magyarország) Kft.
-
-Tel: +36 - 12 794 500
+Roche (Magyarország) Kft. Tel: +36 - 12 794 500
 
 ## Nederland
 
@@ -1327,9 +1312,7 @@ Roche Nederland B.V. Tel: +31 (0) 348 438050
 
 ## Norge
 
-Roche Norge AS
-
-Tlf: +47 - 22 78 90 00
+Roche Norge AS Tlf: +47 - 22 78 90 00
 
 ## Österreich
 
@@ -1349,11 +1332,23 @@ Roche Farmacêutica Química, Lda
 
 Tel: +351 - 21 425 70 00
 
+France
+
+Roche
+
+Tél: +33 (0) 1 47 61 40 00
+
 ## România
 
 Roche România S.R.L.
 
 Tel: +40 21 206 47 01
+
+## Hrvatska
+
+Roche d.o.o.
+
+Tel: +385 1 4722 333
 
 ## Slovenija
 
@@ -1361,31 +1356,13 @@ Roche farmacevtska družba d.o.o.
 
 Tel: +386 - 1 360 26 00
 
-<div style=\"page-break-after: always\"></div>
+## Ireland, Malta
 
-## Ísland
+Roche Products (Ireland) Ltd.
 
-Roche Pharmaceuticals A/S c/o Icepharma hf
+Ireland/L-Irlanda
 
-Sími: +354 540 8000
-
-## Italia
-
-Roche S.p.A.
-
-Tel: +39 - 039 2471
-
-## Latvija
-
-Roche Latvija SIA
-
-Tel: +371 - 6 7039831
-
-## This leaflet was last revised in
-
-Detailed information on this medicine is available on the European Medicines Agency web site: http://www.ema.europa.eu
-
-There are also links to other websites about rare diseases and treatments.
+Tel: +353 (0) 1 469 0700
 
 ## Slovenská republika
 
@@ -1393,17 +1370,37 @@ Roche Slovensko, s.r.o.
 
 Tel: +421 - 2 52638201
 
+## Ísland
+
+Roche Pharmaceuticals A/S c/o Icepharma hf
+
+Sími: +354 540 8000
+
 ## Suomi/Finland
 
 Roche Oy
 
 Puh/Tel: +358 (0) 10 554 500
 
-Sverige
+## Italia
+
+Roche S.p.A.
+
+Tel: +39 - 039 2471
+
+## Sverige
 
 Roche AB
 
 Tel: +46 (0) 8 726 1200
+
+<div style=\"page-break-after: always\"></div>
+
+## This leaflet was last revised in
+
+Detailed information on this medicine is available on the European Medicines Agency web site: http://www.ema.europa.eu
+
+There are also links to other websites about rare diseases and treatments.
 
 <div style=\"page-break-after: always\"></div>
 
@@ -1454,7 +1451,11 @@ Tel: +46 (0) 8 726 1200
 
 <div style=\"page-break-after: always\"></div>
 
-## Enspryng pre-filled syringe (See Figure A and Figure B) Before use:
+## Enspryng pre-filled syringe
+
+(See Figure A and Figure B)
+
+Before use:
 
 Figure A
 
@@ -1521,11 +1522,9 @@ It is important to let the syringe gently reach room temperature because injecti
 - Do not speed up the warming process by heating the syringe in any way.
 - Do not remove the needle cover while the syringe is reaching room temperature.
 
+Figure G 30 min
+
 <!-- image -->
-
-30
-
-Figure G
 
 <div style=\"page-break-after: always\"></div>
 
@@ -1555,6 +1554,8 @@ Choose a different injection site for each new injection. Choose a different sit
 
 12. Wipe the injection site with an alcohol pad and let it air dry.
 
+Injection site areas
+
 <div style=\"page-break-after: always\"></div>
 
 - Do not fan or blow on the area which you have cleaned.
@@ -1581,11 +1582,11 @@ Figure K
 
 <!-- image -->
 
-Figure L
-
 <!-- image -->
 
 <div style=\"page-break-after: always\"></div>
+
+## Figure L
 
 17. After the needle is inserted, let go of the pinched skin.
 18. Slowly inject all of the medicine by gently pushing the plunger all the way down until it touches the activation guards (see Figure M).
@@ -1608,11 +1609,11 @@ Figure N
 
 21. Do not try to re-cap your syringe. Put your used syringe in a sharps disposal container immediately after use (see Figure O) . Do not throw the syringe in your household waste and do not recycle it.
 
+<div style=\"page-break-after: always\"></div>
+
 Figure O
 
 <!-- image -->
-
-<div style=\"page-break-after: always\"></div>
 
 - Ask your doctor or nurse or pharmacist for information about where you can get a \"sharps\" container or what other types of puncture-resistant containers you can use to safely dispose of your used syringes and needle caps.
 - Dispose of the used sharps disposal container as instructed by your healthcare provider or pharmacist .

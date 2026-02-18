@@ -1,24 +1,22 @@
 ---
-document_datetime: 2025-05-28 10:42:40
+document_datetime: 2026-02-16 09:46:39
 document_pages: 23
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/ibuprofen-genorph-epar-product-information_en.pdf
 document_name: ibuprofen-genorph-epar-product-information_en.pdf
 version: success
-processing_time: 6.1458728
-conversion_datetime: 2025-12-27 14:13:42.523319
+processing_time: 4.7366405
+conversion_datetime: 2026-02-18 17:46:18.563733
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.66.0
-  docling-core: 2.57.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.13.0
+  docling-jobkit: 1.11.0
+  docling: 2.74.0
+  docling-core: 2.65.1
+  docling-ibm-models: 3.11.0
+  docling-parse: 5.3.2
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.3-arm64-arm-64bit-Mach-O
 ---
-## ANNEX I
-
-## SUMMARY OF PRODUCT CHARACTERISTICS
+## ANNEX I SUMMARY OF PRODUCT CHARACTERISTICS
 
 <div style=\"page-break-after: always\"></div>
 
@@ -38,9 +36,7 @@ For the full list of excipients, see section 6.1.
 
 Solution for injection.
 
-Clear, colourless to slightly yellow solution.
-
-The pH is between 7.5 and 8.5 and osmolality is between 280 and 320 mOsm/kg.
+Clear, colourless to slightly yellow solution. The pH is between 7.5 and 8.5 and osmolality is between 280 and 320 mOsm/kg.
 
 ## 4. CLINICAL PARTICULARS
 
@@ -109,11 +105,11 @@ Careful monitoring of both renal and gastrointestinal function is recommended.
 
 ## Severe skin reactions
 
-Serious skin reactions, some of them fatal, including exfoliative dermatitis, Stevens-Johnson syndrome, and toxic epidermal necrolysis have been reported rarely in association with the use of NSAIDSs (see section 4.8). Patients appear to be at highest risk of these reactions early in the course of therapy, the onset of the reaction occurring in the majority of cases within the first month of treatment. Acute generalised exanthematous pustulosis (AGEP) has been reported in relation to
+Serious skin reactions, some of them fatal, including exfoliative dermatitis, Stevens-Johnson syndrome, and toxic epidermal necrolysis have been reported rarely in association with the use of NSAIDSs (see section 4.8). Patients appear to be at highest risk of these reactions early in the course of therapy, the onset of the reaction occurring in the majority of cases within the first month of treatment. Acute generalised exanthematous pustulosis (AGEP) and drug reaction with eosinophilia
 
 <div style=\"page-break-after: always\"></div>
 
-ibuprofen-containing products. Ibuprofen should be discontinued, at the first appearance of signs and symptoms of severe skin reactions, such as skin rash, mucosal lesions, or any other sign of hypersensitivity.
+and systemic symptoms (DRESS syndrome) have been reported in relation to ibuprofen-containing products. Ibuprofen should be discontinued, at the first appearance of signs and symptoms of severe skin reactions, such as skin rash, mucosal lesions, or any other sign of hypersensitivity.
 
 In preterm newborn infants less than 27 weeks of gestational age, the closure rate of the ductus arteriosus (33 to 50%) was shown to be low at the recommended dose regimen (see section 5.1).
 
@@ -146,7 +142,7 @@ Data are currently available on approximately 1 000 preterm newborn from both th
 
 ## Tabulated list of adverse reactions
 
-- -Reported adverse reactions are listed in the table below according to MedDRA system organ class and frequency. Frequencies are defined as: very common (≥ 1/10), common (≥ 1/100, &lt; 1/10), uncommon (≥ 1/1 000, &lt; 1/100), rare (≥ 1/10 000, &lt; 1/1 000), very rare (&lt; 1/10 000), and not known (cannot be estimated from the available data).
+- -Reported adverse reactions are listed in the table below according to MedDRA system organ class and frequency. Frequencies are defined as: very common ( ≥ 1/10), common ( ≥ 1/100, &lt; 1/10), uncommon ( ≥ 1/1 000, &lt; 1/100), rare ( ≥ 1/10 000, &lt; 1/1 000), very rare (&lt; 1/10 000), and not known (cannot be estimated from the available data).
 
 .
 
@@ -160,19 +156,19 @@ Within each frequency grouping, adverse reactions are presented in order of decr
 
 <div style=\"page-break-after: always\"></div>
 
-| Nervous system disorders                        | Common      | Intraventricular haemorrhage, Periventricular leukomalacia   |
-|-------------------------------------------------|-------------|--------------------------------------------------------------|
-| Respiratory, thoracic and mediastinal disorders | Very common | Bronchopulmonary dysplasia*                                  |
-| Respiratory, thoracic and mediastinal disorders | Common      | Pulmonary haemorrhage                                        |
-| Respiratory, thoracic and mediastinal disorders | Uncommon    | Hypoxemia*                                                   |
-| Gastrointestinal disorders                      | Common      | Necrotizing enterocolitis, Intestinal perforation            |
-| Gastrointestinal disorders                      | Uncommon    | Gastrointestinal haemorrhage                                 |
-| Gastrointestinal disorders                      | Not known   | Gastric perforation                                          |
-| Skin and subcutaneous tissue disorders          | Not known   | Acute generalised exanthematous pustulosis (AGEP)            |
-| Renal and urinary disorders                     | Common      | Oliguria, Fluid retention, Haematuria                        |
-| Renal and urinary disorders                     | Uncommon    | Acute renal failure                                          |
-| Investigations                                  | Very common | Blood creatinine increased, Blood sodium decreased           |
-| * see below                                     | * see below | * see below                                                  |
+| Nervous system disorders                        | Common      | Intraventricular haemorrhage, Periventricular leukomalacia                                                                |
+|-------------------------------------------------|-------------|---------------------------------------------------------------------------------------------------------------------------|
+| Respiratory, thoracic and mediastinal disorders | Very common | Bronchopulmonary dysplasia*                                                                                               |
+| Respiratory, thoracic and mediastinal disorders | Common      | Pulmonary haemorrhage                                                                                                     |
+| Respiratory, thoracic and mediastinal disorders | Uncommon    | Hypoxemia*                                                                                                                |
+| Gastrointestinal disorders                      | Common      | Necrotizing enterocolitis, Intestinal perforation                                                                         |
+| Gastrointestinal disorders                      | Uncommon    | Gastrointestinal haemorrhage                                                                                              |
+| Gastrointestinal disorders                      | Not known   | Gastric perforation                                                                                                       |
+| Skin and subcutaneous tissue disorders          | Not known   | Acute generalised exanthematous pustulosis (AGEP), drug reaction with eosinophilia and systemic symptoms (DRESS syndrome) |
+| Renal and urinary disorders                     | Common      | Oliguria, Fluid retention, Haematuria                                                                                     |
+| Renal and urinary disorders                     | Uncommon    | Acute renal failure                                                                                                       |
+| Investigations                                  | Very common | Blood creatinine increased, Blood sodium decreased                                                                        |
+| * see below                                     | * see below | * see below                                                                                                               |
 
 In a clinical curative trial involving 175 preterm newborn infants less than 35 weeks of gestational age, the incidence of bronchopulmonary dysplasia at 36 weeks post-conceptional age was 13/81 (16%) for indomethacin versus 23/94 (24%) for ibuprofen.
 
@@ -192,11 +188,13 @@ Massive overdose (up to more than 1 000 mg/kg) has been reported to induce coma,
 
 The management of ibuprofen overdose is primarily supportive.
 
+Prolonged use at higher than recommended doses or overdose may result in renal tubular acidosis and hypokalaemia.
+
+<div style=\"page-break-after: always\"></div>
+
 ## 5. PHARMACOLOGICAL PROPERTIES
 
 ## 5.1 Pharmacodynamic properties
-
-<div style=\"page-break-after: always\"></div>
 
 Pharmacotherapeutic group: other cardiac preparations, ATC code: C01 EB16
 
@@ -204,7 +202,7 @@ Ibuprofen is a NSAID that possesses anti-inflammatory, analgesic and antipyretic
 
 Since prostaglandins are involved in the persistence of the ductus arteriosus after birth, this effect is believed to be the main mechanism of action of ibuprofen in this indication.
 
-In a dose-response study of ibuprofen in 40 preterm newborn infants, the ductus arteriosus closure rate associated to the 10-5-5 mg/kg dose regimen was 75% (6/8) in neonates of 27-29 weeks' gestation and 33% (2/6) in neonates of 24-26 weeks' gestation.
+In a dose-response study of ibuprofen in 40 preterm newborn infants, the ductus arteriosus closure rate associated to the 10-5-5 mg/kg dose regimen was 75% (6/8) in neonates of 2729 weeks' gestation and 33% (2/6) in neonates of 24-26 weeks' gestation.
 
 Prophylactic use of ibuprofen in the first 3 days of life (starting within 6 hours of birth) in preterm newborn infants less than 28 weeks of gestational age was associated with increased incidence of renal failure and pulmonary adverse events including hypoxia, pulmonary hypertension, pulmonary haemorrhage, as compared to curative use. Conversely, a lower incidence of neonatal grade III-IV intraventricular haemorrhage and of surgical ligation was associated with prophylactic use of ibuprofen.
 
@@ -222,15 +220,15 @@ In vitro studies suggest that, similarly to other NSAIDs, ibuprofen is highly bo
 
 ## Elimination
 
-Elimination rate is markedly lower than in older children and adults, with an elimination half-life estimated at approximately 30 hours (16-43). The clearance of both enantiomers increases with gestational age, at least in the range of 24 to 28 weeks.
+Elimination rate is markedly lower than in older children and adults, with an elimination half-life estimated at approximately 30 hours (16 -43). The clearance of both enantiomers increases with gestational age, at least in the range of 24 to 28 weeks.
 
 ## Pharmacokinetic/pharmacodynamic relationship
 
 In preterm newborns ibuprofen significantly reduced plasma concentrations of prostaglandins and their metabolites, particularly PGE2 and 6-keto-PGF-1-alpha. Low levels were sustained up to 72 hours in neonates who received 3 doses of ibuprofen, whereas subsequent re-increases were observed at 72 hours after only 1 dose of ibuprofen.
 
-## 5.3 Preclinical safety data
-
 <div style=\"page-break-after: always\"></div>
+
+## 5.3 Preclinical safety data
 
 There are no preclinical data considered relevant to clinical safety beyond data included in other sections of this Summary of Product Characteristics. With the exception of an acute toxicity study, no further studies have been carried out in juvenile animals with ibuprofen.
 
@@ -270,9 +268,9 @@ For asepsis of the ampoule before use, ethanol 60% or isopropyl alcohol 70% is r
 
 The required volume to be given to the infant should be determined according to body weight, and should be injected intravenously as a short infusion over 15 minutes, preferably undiluted.
 
-Use only sodium chloride 9 mg/mL (0.9%) solution for injection or glucose 50 mg/mL (5%) solution in PVC-free bag to adjust injection volume.
-
 <div style=\"page-break-after: always\"></div>
+
+Use only sodium chloride 9 mg/mL (0.9%) solution for injection or glucose 50 mg/mL (5%) solution in PVC-free bag to adjust injection volume.
 
 The total volume of solution injected to preterm infants should take into account the total daily fluid volume administered. A maximal volume of 80 mL/kg/day on the first day of life should usually be respected; this should be progressively increased in the following 1-2 weeks (about 20 mL/kg birthweight/day) up to a maximal volume of 180 mL/kg birthweight/day.
 
@@ -425,9 +423,9 @@ Justification for not including Braille accepted
 
 PC SN
 
-<div style=\"page-break-after: always\"></div>
-
 NN
+
+<div style=\"page-break-after: always\"></div>
 
 <div style=\"page-break-after: always\"></div>
 
@@ -520,7 +518,7 @@ Ibuprofen Gen.Orph will only be given to your baby in a special neonatal intensi
 
 <div style=\"page-break-after: always\"></div>
 
-- -Before treatment with Ibuprofen Gen.Orph, your baby's heart will be examined to confirm that the ductus arteriosus is open.
+- -Before treatment with Ibuprofen Gen.Orph , your baby's heart will be examined to confirm that the ductus arteriosus is open.
 - -Ibuprofen Gen.Orph should not be given in the first 6 hours of life.
 - -If your baby is suspected of having liver disease, signs and symptoms of which include yellowing of the skin and eyes.
 - -If your baby is already suffering from an infection that is being treated, the doctor will treat your baby with Ibuprofen Gen.Orph only after careful consideration of your baby's condition.
@@ -529,7 +527,8 @@ Ibuprofen Gen.Orph will only be given to your baby in a special neonatal intensi
 - -Your baby may develop some bleeding from the intestines and the kidneys. To detect this, your baby's stools and urine may be tested to determine if there is any blood present in them.
 - -Ibuprofen Gen.Orph may reduce the amount of urine your baby passes. If this is significant, your baby's treatment may be stopped until the volume of urine returns to normal.
 - -Ibuprofen Gen.Orph may be less effective in very premature babies less than 27 weeks of gestational age.
-- -Serious skin reactions have been reported in association with Ibuprofen Gen.Orph treatment. You should stop taking Ibuprofen Gen.Orph and seek medical attention immediately, if you develop any skin rash, lesions of the mucous membranes, blisters or other signs of allergy since this can be the first signs of a very serious skin reaction. See section 4.
+- -Serious skin reactions have been reported in association with Ibuprofen Gen.Orph treatment. Your doctor should discontinue Ibuprofen Gen.Orph immediately, if any of the following side effects occur: skin rash, lesions of the mucous membranes, blisters or other signs of allergy since this can be the first signs of a very serious skin reaction. See section 4.
+- -Drug reaction with eosinophilia and systemic symptoms (DRESS syndrome) has been identified as a potential risk associated with ibuprofen. Your doctor should discontinue Ibuprofen Gen.Orph immediately, if any of the following side effects occur: skin rash, fever, swelling of lymph nodes and an increase of eosinophils (a type of white blood cells).
 
 ## Other medicines and Ibuprofen Gen.Orph
 
@@ -552,15 +551,17 @@ This medicine contains less than 1 mmol sodium (23 mg) per 2 mL, that is to say 
 
 Ibuprofen Gen.Orph will only be given to your baby in a special neonatal intensive care unit by qualified healthcare professional.
 
-A course of therapy is defined as three intravenous injections of Ibuprofen Gen.Orph given at 24 hour intervals. The dose to be administered will be calculated from the weight of your baby. It is 10 mg/kg for the first administration and 5 mg/kg for the second and the third administrations.
-
-This calculated amount will be given by infusion in a vein over a period of 15 minutes.
-
 <div style=\"page-break-after: always\"></div>
 
-If after this first course of treatment, the ductus arteriosus is not closed or re-opens, your baby's doctor may decide to give a second course of treatment.
+A course of therapy is defined as three intravenous injections of Ibuprofen Gen.Orph given at 24 hour intervals. The dose to be administered will be calculated from the weight of your baby. It is 10 mg/kg for the first administration and 5 mg/kg for the second and the third administrations.
+
+This calculated amount will be given by infusion in a vein over a period of 15 minutes. If after this first course of treatment, the ductus arteriosus is not closed or reopens, your baby's doctor may decide to give a second course of treatment.
 
 If after the second course of treatment, the ductus arteriosus is still not closed, a surgery may then be proposed.
+
+## If your baby is administered more Ibuprofen Gen.Orph than they should:
+
+If your baby is administered more Ibuprofen Gen.Orph than they should, speak to your baby's doctor about the risks and any action that need to be taken. The symptoms of overdose can include drowsiness, loss of consciousness, coma, convulsions, gastrointestinal problems, slow heart rate, low blood pressure, breathing problems or stopped breathing, blood in the urine, inability of kidneys to work properly, excess acid in the blood, and low levels of potassium in the blood.
 
 If you have any further questions on the use of this medicine, ask your baby's doctor or pharmacist.
 
@@ -587,7 +588,7 @@ The possible side effects are listed below.
 
 ## Uncommon (may affect up to 1 in 100 people)
 
-- -Acute failure of the kidney's functions,
+- -Acute failure of the kidney's functions ,
 - -Bleeding in the intestine,
 - -Below normal oxygen content in the arterial blood (hypoxemia).
 
@@ -595,6 +596,9 @@ The possible side effects are listed below.
 
 - -Perforation of the stomach.
 - -A red, scaly widespread rash with bumps under the skin and blisters mainly localized on the skin folds, trunk, and upper extremities accompanied by fever at the initiation of treatment (acute generalised exanthematous pustulosis). Stop using Ibuprofen Gen.Orph if you develop these symptoms and seek medical attention immediately. See also section 2.
+- -Drug reaction with eosinophilia and systemic symptoms: a severe skin reaction known as DRESS syndrome can occur. Symptoms of DRESS syndrome include skin rash, fever, swelling of lymph nodes and an increase of eosinophils (a type of white blood cells).
+
+<div style=\"page-break-after: always\"></div>
 
 ## Reporting of side effects
 
@@ -605,8 +609,6 @@ If you get any side effects, talk to your doctor or pharmacist. This includes an
 Keep this medicine out of the sight and reach of children.
 
 Do not use this medicine after the expiry date which is stated on the label after EXP. The expiry date refers to the last day of that month.
-
-<div style=\"page-break-after: always\"></div>
 
 This medicinal product does not require any special storage conditions.
 
@@ -629,173 +631,185 @@ Ibuprofen Gen.Orph 5 mg/mL solution for injection is a clear, colourless to slig
 
 ## Marketing Authorisation Holder
 
-Gen.Orph
-
-185 Bureaux de la Colline 92213 Saint Cloud Cedex France
+Gen.Orph 185 Bureaux de la Colline 92213 Saint Cloud Cedex France
 
 ## Manufacturer
 
-Haupt Pharma 1 rue Comte de Sinard 26250 Livron-sur-Drôme
-
-France
+Haupt Pharma 1 rue Comte de Sinard 26250 Livron-sur-Drôme France
 
 For any information about this medicine, please contact the local representative of the Marketing Authorisation Holder.
 
-## België/Belgique/Belgien
-
-Gen.Orph
+België/Belgique/Belgien Gen.Orph
 
 Tél/Tel: +32 (0)496 85 87 49
 
 e-mail: reg@studiopharma.be
 
-## Lietuva
+Lietuva
 
 Gen.Orph
 
 Tel: +33 (0)1 47 71 04 50
-
-e-mail: contact@gen-orph.com
-
-## България
-
-Диакомерс ЕООД
-
-Тел.: +359 2 807 50 00
-
-e-mail: diacommerce@diacommerce.bg
-
-## Luxembourg/Luxemburg
-
-Gen.Orph
-
-Tél/Tel: +32 (0)496 85 87 49
-
-e-mail: reg@studiopharma.be
-
-## Česká republika
-
-Gen. Orph
-
-Tel: +33 (0)1 47 71 04 50
-
-e-mail: contact@gen-orph.com
-
-## Magyarország
-
-Gen.Orph
-
-Tel.: +33 (0)1 47 71 04 50
 
 e-mail: contact@gen-orph.com
 
 <div style=\"page-break-after: always\"></div>
 
-## Danmark
+## България
 
-Gen.Orph
+Диакомерс ЕООД Тел .: +359 2 807 50 00 e-mail: diacommerce@diacommerce.bg
 
-Tlf: +46 (0)8 21 54 45 e-mail: pharmacovigilance.SE@propharmagroup.com
+## Česká republika
+
+Gen. Orph Tel: +33 (0)1 47 71 04 50 e-mail: contact@gen-orph.com
+
+Danmark
+
+Gen.Orph Tlf: +46 (0)8 21 54 45 e-mail:
+
+pharmacovigilance.SE@propharmagroup.com
 
 ## Deutschland
 
+Gen.Orph Tel: +49 30 8560687897 e-mail:
+
+pharmacovigilance.DE@propharmagroup.com
+
+Eesti
+
 Gen.Orph
 
-Tel: +49 30 8560687897 e-mail: pharmacovigilance.DE@propharmagroup.com
+Tel: +33 (0)1 47 71 04 50
 
-## Eesti
+e-mail: contact@gen-orph.com
 
-Gen.Orph Tel: +33 (0)1 47 71 04 50 e-mail: contact@gen-orph.com
+Ελλάδα
 
-## Ελλάδα
+Gen.Orph Τηλ : +33 (0)1 47 71 04 50 e-mail: contact@gen-orph.com
 
-Gen.Orph Τηλ: +33 (0)1 47 71 04 50 e-mail: contact@gen-orph.com
-
-## España
+España
 
 Biojam España, S.L. Tel: +34 683 13 71 84 e-mail: drugsafety.es@phagecon.pt
 
-## France
+France
 
 Gen.Orph Tél.: +33 (0)1 47 71 04 50 e-mail : contact@gen-orph.com
 
-## Hrvatska
+Hrvatska
 
 Gen.Orph Tel: +33 (0)1 47 71 04 50 e-mail: contact@gen-orph.com
 
-## Ireland
+Ireland
 
 Gen.Orph Tel : +33 (0)1 47 71 04 50 e-mail: contact@gen-orph.com
 
-## Ísland
+Ísland
 
-Gen.Orph Sími: +33 (0)1 47 71 04 50 e-mail : contact@gen-orph.com
+Gen.Orph Sími: +33 (0)1 47 71 04 50
 
-## Italia
+## Luxembourg/Luxemburg
 
-Biovalley Investments Partner s.p.a. Tel: +39 040 899 2219 e-mail: info@biovalleyinvestmentspartner.it
+Gen.Orph Tél/Tel: +32 (0)496 85 87 49 e-mail: reg@studiopharma.be
 
-## Κύπρος
+## Magyarország
 
-Gen.Orph Τηλ: +33 (0)1 47 71 04 50 e-mail: contact@gen-orph.com
+Gen.Orph Tel.: +33 (0)1 47 71 04 50 e-mail: contact@gen-orph.com
 
 ## Malta
 
 Gen.Orph Tel: +33 (0)1 47 71 04 50 e-mail: contact@gen-orph.com
 
-## Nederland
+Nederland
 
 Gen.Orph
 
 Tel: +32 (0)496 85 87 49 e-mail : reg@studiopharma.be
 
-## Norge
+Norge
 
-Gen.Orph Tlf: +46 (0)8 21 54 45 e-mail: pharmacovigilance.SE@propharmagroup.com
+Gen.Orph Tlf: +46 (0)8 21 54 45
+
+e-mail: pharmacovigilance.SE@propharmagroup.com
 
 ## Österreich
 
 Gen.Orph Tel : +33 (0)1 47 71 04 50 e-mail : contact@gen-orph.com
 
-## Polska
+Polska
 
 Gen.Orph Tel.: +33 (0)1 47 71 04 50 e-mail: contact@gen-orph.com
 
-## Portugal
+Portugal
 
 Biojam, S.A. Tel:  +351 212 697 910 e-mail:  farmacovigilancia@phagecon.pt
 
-## România
+România
 
 Gen.Orph Tel: +33 (0)1 47 71 04 50 e-mail: contact@gen-orph.com
 
-## Slovenija
+Slovenija
 
 Gen.Orph Tel: +33 (0)1 47 71 04 50 e-mail: contact@gen-orph.com
 
 ## Slovenská republika
 
-Gen.Orph Tel: +33 (0)1 47 71 04 50 e-mail: contact@gen-orph.com
+Gen.Orph Tel: +33 (0)1 47 71 04 50
+
+e-mail : contact@gen-orph.com
+
+e-mail: contact@gen-orph.com
+
+## Italia
+
+Biovalley Investments Partner s.p.a.
+
+Tel: +39 040 899 2219
+
+e-mail: info@biovalleyinvestmentspartner.it
 
 ## Suomi/Finland
 
-Gen.Orph Puh/Tel : +46 (0)8 21 54 45
+Gen.Orph
+
+Puh/Tel : +46 (0)8 21 54 45
 
 e-mail: pharmacovigilance.SE@propharmagroup.com
 
+## Κύπρος
+
+Gen.Orph
+
+Τηλ
+
+: +33 (0)1 47 71 04 50
+
+e-mail: contact@gen-orph.com
+
 ## Sverige
 
-Gen.Orph Tel: +46 (0)8 21 54 45
+Gen.Orph
+
+Tel: +46 (0)8 21 54 45
 
 e-mail : pharmacovigilance.SE@propharmagroup.com
 
-<div style=\"page-break-after: always\"></div>
+## Latvija
 
-Latvija Gen.Orph
+Gen.Orph
 
 Tel: +33 (0)1 47 71 04 50
 
 e-mail : contact@gen-orph.com
+
+## United Kingdom
+
+Gen.Orph
+
+Tel: +33 (0)1 47 71 04 50
+
+e-mail: contact@gen-orph.com
+
+<div style=\"page-break-after: always\"></div>
 
 ## This leaflet was last revised in
 
@@ -828,6 +842,8 @@ If anuria or manifest oliguria occurs after the first or second dose, the next d
 
 Ibuprofen Gen.Orph should be administered as a short infusion over 15 minutes, preferably undiluted. To facilitate the administration an infusion pump may be used.
 
+<div style=\"page-break-after: always\"></div>
+
 If necessary, the injection volume may be adjusted with either sodium chloride 9 mg/mL (0.9%) solution for injection or glucose 50 mg/mL (5%) solution for injection in PVC-free bag. Any unused portion of the solution should be discarded.
 
 The total volume of solution injected to preterm infants should take into account the total daily fluid volume administered. A maximal volume of 80 mL/kg/day on the first day of life should usually be respected; this should be progressively increased in the following 1-2 weeks (about 20 mL/kg birthweight/day) up to a maximal volume of 180 mL/kg birthweight/day.
@@ -835,14 +851,6 @@ The total volume of solution injected to preterm infants should take into accoun
 ## Incompatibilities
 
 Chlorhexidine must not be used to disinfect the neck of the ampoule as it is not compatible with the Ibuprofen Gen.Orph solution. Therefore, for asepsis of the ampoule before use, ethanol 60% or isopropyl alcohol 70% is recommended.
-
-## United Kingdom Gen.Orph
-
-Tel: +33 (0)1 47 71 04 50
-
-e-mail: contact@gen-orph.com
-
-<div style=\"page-break-after: always\"></div>
 
 When disinfecting the neck of the ampoule with an antiseptic, to avoid any interaction with the Ibuprofen Gen.Orph solution, the ampoule must be completely dry before it is opened.
 

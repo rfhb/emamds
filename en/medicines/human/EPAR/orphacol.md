@@ -1,20 +1,20 @@
 ---
-document_datetime: 2025-12-29 14:35:00
+document_datetime: 2026-02-16 14:55:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/orphacol.html
 document_name: orphacol.html
 version: success
-processing_time: 0.1248902
-conversion_datetime: 2025-12-30 21:51:46.941795
+processing_time: 0.1156739
+conversion_datetime: 2026-02-18 17:56:12.433203
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.66.0
-  docling-core: 2.57.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.13.0
+  docling-jobkit: 1.11.0
+  docling: 2.74.0
+  docling-core: 2.65.1
+  docling-ibm-models: 3.11.0
+  docling-parse: 5.3.2
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.3-arm64-arm-64bit-Mach-O
 ---
 # Orphacol
 
@@ -25,8 +25,6 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 cholic acid Medicine Human Authorised
-
-On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -59,7 +57,7 @@ Collapse section
 
 Orphacol is a medicine containing cholic acid, a substance found in the bile, which is used to digest fats.
 
-It is used to treat adults and children from one month of age who have a genetic abnormality that makes them unable to produce bile. Orphacol is used in patients who do not have enough of two specific liver enzymes (3?-hydroxy-?5-C27-steroid oxidoreductase or ?4-3-oxosteroid-5?-reductase). This makes their liver unable to produce enough of the main components of bile, called primary bile acids, such as cholic acid. When these primary bile acids are lacking, the body produces abnormal bile acids instead which can damage the liver, potentially leading to life-threatening liver failure.
+It is used to treat adults and children from one month of age who have a genetic abnormality that makes them unable to produce bile. Orphacol is used in patients who do not have enough of two specific liver enzymes (3β-Hydroxy-Δ5 -C27-steroid oxidoreductase or Δ4 -3-Oxosteroid-5β-reductase). This makes their liver unable to produce enough of the main components of bile, called primary bile acids, such as cholic acid. When these primary bile acids are lacking, the body produces abnormal bile acids instead which can damage the liver, potentially leading to life-threatening liver failure.
 
 Because the number of patients with inborn errors in primary bile acid synthesis is low, the condition is considered 'rare', and Orphacol was designated an 'orphan medicine' (a medicine used in rare diseases) on 18 December 2002.
 
@@ -75,7 +73,7 @@ Cholic acid is the main primary bile acid produced by the liver. The cholic acid
 
 ## What benefits of Orphacol have been shown in studies?
 
-Because cholic acid is a well known substance, and its use in these enzyme deficiencies is well established, the applicant presented data from the scientific literature. The applicant presented data on 49 patients with inborn errors in primary bile acid synthesis, taken from the scientific literature (38 patients with 3?-hydroxy-?5-C27-steroid oxidoreductase deficiency and 11 patients with ?4-3-oxosteroid-5?-reductase deficiency). It compared the outcomes of 28 patients who received cholic acid with others who were given different bile acids or did not receive bile-acid treatment.
+Because cholic acid is a well-known substance, and its use in these enzyme deficiencies is well established, the applicant presented data from the scientific literature. The applicant presented data on 49 patients with inborn errors in primary bile acid synthesis, taken from the scientific literature (38 patients with 3β-Hydroxy-Δ5 -C27-steroid oxidoreductase deficiency and 11 patients with Δ4 -3-Oxosteroid-5β-reductase deficiency). It compared the outcomes of 28 patients who received cholic acid with others who were given different bile acids or did not receive bile acid treatment.
 
 In the scientific literature, cholic acid treatment was shown to reduce the amount of abnormal bile acids in patients, to restore the normal functions of the liver and to help delay or prevent the need for a liver transplant.
 
@@ -117,7 +115,7 @@ English (EN) (85.95 KB - PDF)
 
 [View](/en/documents/overview/orphacol-epar-summary-public_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-254)
+[Other languages (22)](#file-language-dropdown-459)
 
 български (BG) (106.45 KB - PDF)
 
@@ -395,17 +393,17 @@ English (EN) (105.97 KB - PDF)
 
 Orphacol : EPAR - Product Information
 
-English (EN) (344.79 KB - PDF)
+English (EN) (342.45 KB - PDF)
 
 **First published:** 02/10/2013
 
-**Last updated:** 08/10/2024
+**Last updated:** 16/02/2026
 
 [View](/en/documents/product-information/orphacol-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-526)
+[Other languages (24)](#file-language-dropdown-760)
 
-български (BG) (430.53 KB - PDF)
+български (BG) (411.81 KB - PDF)
 
 **First published:**
 
@@ -413,11 +411,11 @@ English (EN) (344.79 KB - PDF)
 
 **Last updated:**
 
-08/10/2024
+16/02/2026
 
 [View](/bg/documents/product-information/orphacol-epar-product-information_bg.pdf)
 
-español (ES) (349.43 KB - PDF)
+español (ES) (324.83 KB - PDF)
 
 **First published:**
 
@@ -425,11 +423,11 @@ español (ES) (349.43 KB - PDF)
 
 **Last updated:**
 
-08/10/2024
+16/02/2026
 
 [View](/es/documents/product-information/orphacol-epar-product-information_es.pdf)
 
-čeština (CS) (378.77 KB - PDF)
+čeština (CS) (366.37 KB - PDF)
 
 **First published:**
 
@@ -437,11 +435,11 @@ español (ES) (349.43 KB - PDF)
 
 **Last updated:**
 
-08/10/2024
+16/02/2026
 
 [View](/cs/documents/product-information/orphacol-epar-product-information_cs.pdf)
 
-dansk (DA) (368.54 KB - PDF)
+dansk (DA) (357.12 KB - PDF)
 
 **First published:**
 
@@ -449,11 +447,11 @@ dansk (DA) (368.54 KB - PDF)
 
 **Last updated:**
 
-08/10/2024
+16/02/2026
 
 [View](/da/documents/product-information/orphacol-epar-product-information_da.pdf)
 
-Deutsch (DE) (368.79 KB - PDF)
+Deutsch (DE) (359.66 KB - PDF)
 
 **First published:**
 
@@ -461,11 +459,11 @@ Deutsch (DE) (368.79 KB - PDF)
 
 **Last updated:**
 
-08/10/2024
+16/02/2026
 
 [View](/de/documents/product-information/orphacol-epar-product-information_de.pdf)
 
-eesti keel (ET) (344.67 KB - PDF)
+eesti keel (ET) (336.43 KB - PDF)
 
 **First published:**
 
@@ -473,11 +471,11 @@ eesti keel (ET) (344.67 KB - PDF)
 
 **Last updated:**
 
-08/10/2024
+16/02/2026
 
 [View](/et/documents/product-information/orphacol-epar-product-information_et.pdf)
 
-ελληνικά (EL) (432.04 KB - PDF)
+ελληνικά (EL) (415.62 KB - PDF)
 
 **First published:**
 
@@ -485,11 +483,11 @@ eesti keel (ET) (344.67 KB - PDF)
 
 **Last updated:**
 
-08/10/2024
+16/02/2026
 
 [View](/el/documents/product-information/orphacol-epar-product-information_el.pdf)
 
-français (FR) (334.54 KB - PDF)
+français (FR) (390.48 KB - PDF)
 
 **First published:**
 
@@ -497,11 +495,11 @@ français (FR) (334.54 KB - PDF)
 
 **Last updated:**
 
-08/10/2024
+16/02/2026
 
 [View](/fr/documents/product-information/orphacol-epar-product-information_fr.pdf)
 
-hrvatski (HR) (402.94 KB - PDF)
+hrvatski (HR) (356.42 KB - PDF)
 
 **First published:**
 
@@ -509,11 +507,11 @@ hrvatski (HR) (402.94 KB - PDF)
 
 **Last updated:**
 
-08/10/2024
+16/02/2026
 
 [View](/hr/documents/product-information/orphacol-epar-product-information_hr.pdf)
 
-íslenska (IS) (384.78 KB - PDF)
+íslenska (IS) (371.81 KB - PDF)
 
 **First published:**
 
@@ -521,11 +519,11 @@ hrvatski (HR) (402.94 KB - PDF)
 
 **Last updated:**
 
-08/10/2024
+16/02/2026
 
 [View](/is/documents/product-information/orphacol-epar-product-information_is.pdf)
 
-italiano (IT) (376.57 KB - PDF)
+italiano (IT) (369.54 KB - PDF)
 
 **First published:**
 
@@ -533,11 +531,11 @@ italiano (IT) (376.57 KB - PDF)
 
 **Last updated:**
 
-08/10/2024
+16/02/2026
 
 [View](/it/documents/product-information/orphacol-epar-product-information_it.pdf)
 
-latviešu valoda (LV) (360.66 KB - PDF)
+latviešu valoda (LV) (360.44 KB - PDF)
 
 **First published:**
 
@@ -545,11 +543,11 @@ latviešu valoda (LV) (360.66 KB - PDF)
 
 **Last updated:**
 
-08/10/2024
+16/02/2026
 
 [View](/lv/documents/product-information/orphacol-epar-product-information_lv.pdf)
 
-lietuvių kalba (LT) (347.67 KB - PDF)
+lietuvių kalba (LT) (347.22 KB - PDF)
 
 **First published:**
 
@@ -557,11 +555,11 @@ lietuvių kalba (LT) (347.67 KB - PDF)
 
 **Last updated:**
 
-08/10/2024
+16/02/2026
 
 [View](/lt/documents/product-information/orphacol-epar-product-information_lt.pdf)
 
-magyar (HU) (414.13 KB - PDF)
+magyar (HU) (397.93 KB - PDF)
 
 **First published:**
 
@@ -569,11 +567,11 @@ magyar (HU) (414.13 KB - PDF)
 
 **Last updated:**
 
-08/10/2024
+16/02/2026
 
 [View](/hu/documents/product-information/orphacol-epar-product-information_hu.pdf)
 
-Malti (MT) (414.1 KB - PDF)
+Malti (MT) (411.49 KB - PDF)
 
 **First published:**
 
@@ -581,11 +579,11 @@ Malti (MT) (414.1 KB - PDF)
 
 **Last updated:**
 
-08/10/2024
+16/02/2026
 
 [View](/mt/documents/product-information/orphacol-epar-product-information_mt.pdf)
 
-Nederlands (NL) (368.55 KB - PDF)
+Nederlands (NL) (365.18 KB - PDF)
 
 **First published:**
 
@@ -593,11 +591,11 @@ Nederlands (NL) (368.55 KB - PDF)
 
 **Last updated:**
 
-08/10/2024
+16/02/2026
 
 [View](/nl/documents/product-information/orphacol-epar-product-information_nl.pdf)
 
-norsk (NO) (350.89 KB - PDF)
+norsk (NO) (343.74 KB - PDF)
 
 **First published:**
 
@@ -605,11 +603,11 @@ norsk (NO) (350.89 KB - PDF)
 
 **Last updated:**
 
-08/10/2024
+16/02/2026
 
 [View](/no/documents/product-information/orphacol-epar-product-information_no.pdf)
 
-polski (PL) (368.46 KB - PDF)
+polski (PL) (374.08 KB - PDF)
 
 **First published:**
 
@@ -617,11 +615,11 @@ polski (PL) (368.46 KB - PDF)
 
 **Last updated:**
 
-08/10/2024
+16/02/2026
 
 [View](/pl/documents/product-information/orphacol-epar-product-information_pl.pdf)
 
-português (PT) (405.22 KB - PDF)
+português (PT) (417.95 KB - PDF)
 
 **First published:**
 
@@ -629,11 +627,11 @@ português (PT) (405.22 KB - PDF)
 
 **Last updated:**
 
-08/10/2024
+16/02/2026
 
 [View](/pt/documents/product-information/orphacol-epar-product-information_pt.pdf)
 
-română (RO) (411.68 KB - PDF)
+română (RO) (360.76 KB - PDF)
 
 **First published:**
 
@@ -641,11 +639,11 @@ română (RO) (411.68 KB - PDF)
 
 **Last updated:**
 
-08/10/2024
+16/02/2026
 
 [View](/ro/documents/product-information/orphacol-epar-product-information_ro.pdf)
 
-slovenčina (SK) (391.14 KB - PDF)
+slovenčina (SK) (373.62 KB - PDF)
 
 **First published:**
 
@@ -653,11 +651,11 @@ slovenčina (SK) (391.14 KB - PDF)
 
 **Last updated:**
 
-08/10/2024
+16/02/2026
 
 [View](/sk/documents/product-information/orphacol-epar-product-information_sk.pdf)
 
-slovenščina (SL) (352.98 KB - PDF)
+slovenščina (SL) (346.63 KB - PDF)
 
 **First published:**
 
@@ -665,11 +663,11 @@ slovenščina (SL) (352.98 KB - PDF)
 
 **Last updated:**
 
-08/10/2024
+16/02/2026
 
 [View](/sl/documents/product-information/orphacol-epar-product-information_sl.pdf)
 
-Suomi (FI) (355.08 KB - PDF)
+Suomi (FI) (344.07 KB - PDF)
 
 **First published:**
 
@@ -677,11 +675,11 @@ Suomi (FI) (355.08 KB - PDF)
 
 **Last updated:**
 
-08/10/2024
+16/02/2026
 
 [View](/fi/documents/product-information/orphacol-epar-product-information_fi.pdf)
 
-svenska (SV) (346.61 KB - PDF)
+svenska (SV) (340.74 KB - PDF)
 
 **First published:**
 
@@ -689,11 +687,11 @@ svenska (SV) (346.61 KB - PDF)
 
 **Last updated:**
 
-08/10/2024
+16/02/2026
 
 [View](/sv/documents/product-information/orphacol-epar-product-information_sv.pdf)
 
-**Latest procedure affecting product information:** PSUSA-10208-202409 10/04/2025
+**Latest procedure affecting product information:** N/0000324497 13/02/2026
 
 icon globe
 
@@ -719,7 +717,7 @@ English (EN) (81.55 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/orphacol-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-99)
+[Other languages (24)](#file-language-dropdown-542)
 
 български (BG) (87.45 KB - PDF)
 
@@ -1019,7 +1017,7 @@ English (EN) (41.66 KB - PDF)
 
 [View](/en/documents/conditions-member-states/orphacol-epar-conditions-imposed-member-states-safe-and-effective-use_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-973)
+[Other languages (24)](#file-language-dropdown-437)
 
 български (BG) (82.69 KB - PDF)
 
@@ -1324,7 +1322,7 @@ Bile acids and derivatives
 
 ### Therapeutic indication
 
-Orphacol is indicated for the treatment of inborn errors in primary bile-acid synthesis due to 3?-hydroxy-? 5 -C 27 -steroid oxidoreductase deficiency or ? 4 -3-oxosteroid-5?-reductase deficiency in infants, children and adolescents aged one month to 18 years and adults.
+Orphacol is indicated for the treatment of inborn errors in primary bile acid synthesis due to 3β-Hydroxy-Δ5-C27-steroid oxidoreductase deficiency or Δ4-3-Oxosteroid-5β-reductase deficiency in infants, children and adolescents aged 1 month to 18 years and adults.
 
 ## Authorisation details
 
@@ -1344,7 +1342,7 @@ Theravia
 
 16 rue Montrosier
 
-Opinion adopted 16/12/2010 Marketing authorisation issued 12/09/2013 Revision 15
+Opinion adopted 16/12/2010 Marketing authorisation issued 12/09/2013 Revision 16
 
 ## Assessment history
 
@@ -1356,13 +1354,21 @@ Collapse section
 
 Orphacol : EPAR - Procedural steps taken and scientific information after authorisation
 
+English (EN) (147.43 KB - PDF)
+
+**First published:** 16/02/2026
+
+[View](/en/documents/procedural-steps-after/orphacol-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf)
+
+Orphacol : EPAR - Procedural steps taken and scientific information after authorisation (archive)
+
 English (EN) (256.16 KB - PDF)
 
 **First published:** 10/12/2013
 
 **Last updated:** 11/04/2025
 
-[View](/en/documents/procedural-steps-after/orphacol-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf)
+[View](/en/documents/procedural-steps-after/orphacol-epar-procedural-steps-taken-scientific-information-after-authorisation-archive_en.pdf)
 
 ## Initial marketing authorisation documents
 
@@ -1392,7 +1398,7 @@ This product is no longer an orphan medicine. It was originally [designated an o
 
 - [Medicines](https://www.ema.europa.eu/en/search?f%5B0%5D=ema_search_topics%3A61)
 
-**This page was last updated on** 11/04/2025
+**This page was last updated on** 16/02/2026
 
 ## Share this page
 

@@ -1,20 +1,20 @@
 ---
-document_datetime: 2025-12-29 09:54:04
+document_datetime: 2026-02-16 14:15:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/luxturna.html
 document_name: luxturna.html
 version: success
-processing_time: 0.1114426
-conversion_datetime: 2025-12-30 01:44:08.574364
+processing_time: 0.102638
+conversion_datetime: 2026-02-18 17:46:32.611085
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.66.0
-  docling-core: 2.57.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.13.0
+  docling-jobkit: 1.11.0
+  docling: 2.74.0
+  docling-core: 2.65.1
+  docling-ibm-models: 3.11.0
+  docling-parse: 5.3.2
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.3-arm64-arm-64bit-Mach-O
 ---
 # Luxturna
 
@@ -25,8 +25,6 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 voretigene neparvovec Medicine Human Authorised
-
-On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -112,7 +110,7 @@ English (EN) (79.08 KB - PDF)
 
 [View](/en/documents/overview/luxturna-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-843)
+[Other languages (22)](#file-language-dropdown-280)
 
 български (BG) (104.73 KB - PDF)
 
@@ -292,11 +290,11 @@ svenska (SV) (77.03 KB - PDF)
 
 Luxturna : EPAR - Risk management plan
 
-English (EN) (2.52 MB - PDF)
+English (EN) (730.94 KB - PDF)
 
 **First published:** 11/01/2019
 
-**Last updated:** 20/06/2024
+**Last updated:** 16/02/2026
 
 [View](/en/documents/rmp/luxturna-epar-risk-management-plan_en.pdf)
 
@@ -312,7 +310,7 @@ English (EN) (499.83 KB - PDF)
 
 [View](/en/documents/product-information/luxturna-epar-product-information_en.pdf)
 
-[Other languages (23)](#file-language-dropdown-101)
+[Other languages (23)](#file-language-dropdown-312)
 
 български (BG) (598.38 KB - PDF)
 
@@ -590,7 +588,7 @@ svenska (SV) (529.68 KB - PDF)
 
 [View](/sv/documents/product-information/luxturna-epar-product-information_sv.pdf)
 
-**Latest procedure affecting product information:** VR/0000306868 20/10/2025
+**Latest procedure affecting product information:** EMA/VR/0000315168 13/02/2026
 
 icon globe
 
@@ -614,7 +612,7 @@ English (EN) (82.97 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/luxturna-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-980)
+[Other languages (24)](#file-language-dropdown-810)
 
 български (BG) (91.06 KB - PDF)
 
@@ -847,7 +845,7 @@ Novartis Europharm Limited
 
 Vista Building
 
-Opinion adopted 20/09/2018 Marketing authorisation issued 22/11/2018 Revision 11
+Opinion adopted 20/09/2018 Marketing authorisation issued 22/11/2018 Revision 12
 
 ## Assessment history
 
@@ -859,9 +857,11 @@ Collapse section
 
 Luxturna : EPAR - Procedural steps taken and scientific information after authorisation
 
-English (EN) (463.77 KB - PDF)
+English (EN) (161.08 KB - PDF)
 
 **First published:** 21/10/2025
+
+**Last updated:** 16/02/2026
 
 [View](/en/documents/procedural-steps-after/luxturna-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf)
 
@@ -941,7 +941,7 @@ English (EN) (2.53 MB - PDF)
 - [EU/3/15/1518 - orphan designation for treatment of retinitis pigmentosa](/en/medicines/human/orphan-designations/eu-3-15-1518)
 - [A Post-Authorization, Multicenter, Multinational, Longitudinal, Observational Safety Registry Study for Patients Treated with Voretigene Neparvovec - post-authorisation study](https://catalogues.ema.europa.eu/study/46265)
 
-**This page was last updated on** 21/10/2025
+**This page was last updated on** 16/02/2026
 
 ## Share this page
 

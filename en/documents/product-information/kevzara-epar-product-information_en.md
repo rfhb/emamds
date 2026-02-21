@@ -1,34 +1,30 @@
 ---
-document_datetime: 2025-03-28 11:43:07
-document_pages: 120
+document_datetime: 2026-02-20 10:25:00
+document_pages: 119
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/kevzara-epar-product-information_en.pdf
 document_name: kevzara-epar-product-information_en.pdf
 version: success
-processing_time: 29.3420937
-conversion_datetime: 2025-12-26 09:44:44.545492
+processing_time: 36.426569
+conversion_datetime: 2026-02-21 12:26:49.772412
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.66.0
-  docling-core: 2.57.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.13.0
+  docling-jobkit: 1.11.0
+  docling: 2.74.0
+  docling-core: 2.65.1
+  docling-ibm-models: 3.11.0
+  docling-parse: 5.3.2
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.3-arm64-arm-64bit-Mach-O
 ---
-## ANNEX I SUMMARY OF PRODUCT CHARACTERISTICS
+## ANNEX I
+
+## SUMMARY OF PRODUCT CHARACTERISTICS
 
 <div style=\"page-break-after: always\"></div>
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
-Kevzara 150 mg solution for injection in pre-filled syringe
-
-Kevzara 150 mg solution for injection in pre-filled pen
-
-Kevzara 200 mg solution for injection in pre-filled syringe
-
-Kevzara 200 mg solution for injection in pre-filled pen
+Kevzara 150 mg solution for injection in pre-filled syringe Kevzara 150 mg solution for injection in pre-filled pen Kevzara 200 mg solution for injection in pre-filled syringe Kevzara 200 mg solution for injection in pre-filled pen
 
 ## 2. QUALITATIVE AND QUANTITATIVE COMPOSITION
 
@@ -117,9 +113,9 @@ Table 1: Recommended dose modifications in case of neutropenia, thrombocytopenia
 | ANC0.5-1                                          | Treatment with sarilumab to be withheld until >1 x 10 9 /L. Sarilumab can then be resumed at 150 mg every 2 weeks and increased to 200 mg every 2 weeks as clinically appropriate. |
 | ANC less than 0.5                                 | Treatment with sarilumab to be discontinued.                                                                                                                                       |
 
-| Low Platelet Count           | Low Platelet Count   |
-|------------------------------|----------------------|
-| Lab Value (cells x 10 3 /µL) | Recommendation       |
+| Low Platelet Count           |                |
+|------------------------------|----------------|
+| Lab Value (cells x 10 3 /µL) | Recommendation |
 
 <div style=\"page-break-after: always\"></div>
 
@@ -282,9 +278,9 @@ Concurrent use of live vaccines as well as live attenuated vaccines should be av
 
 RA patients have an increased risk for cardiovascular disorders and risk factors (e.g. hypertension, hyperlipidaemia) should be managed as part of usual standard of care.
 
-## Polysorbate 20 (E 432)
-
 <div style=\"page-break-after: always\"></div>
+
+## Polysorbate 20 (E 432)
 
 This medicinal product contains 2.28 mg of polysorbate 20 in each 1.14 ml of solution for injection which is equivalent to 2 mg/ml. Polysorbates may cause allergic reactions.
 
@@ -292,7 +288,7 @@ This medicinal product contains 2.28 mg of polysorbate 20 in each 1.14 ml of sol
 
 Sarilumab exposure was not affected when coadministered with MTX based on the population pharmacokinetic analyses and across study comparisons. MTX exposure is not expected to be changed by sarilumab coadministration; however, no clinical data was collected. Sarilumab has not been investigated in combination with Janus kinase (JAK) inhibitors or biological DMARDs such as tumour necrosis factor (TNF) antagonists.
 
-Various in vitro and limited in vivo human studies have shown that cytokines and cytokine modulators can influence the expression and activity of specific cytochrome P450 (CYP) enzymes (CYP1A2, CYP2C9, CYP2C19, and CYP3A4) and therefore have the potential to alter the pharmacokinetics of concomitantly administered medicinal products that are substrates of these enzymes. Elevated levels of interleukin-6 (IL-6) may down-regulate CYP activity such as in patients with RA or PMR and hence increase drug levels compared to subjects without RA or PMR. Blockade of IL-6 signalling by IL6Rα antagonists such as sarilumab might reverse the inhibitory effect of IL-6 and restore CYP activity, leading to altered medicinal products concentrations.
+Various in vitro and limited in vivo human studies have shown that cytokines and cytokine modulators can influence the expression and activity of specific cytochrome P450 (CYP) enzymes (CYP1A2, CYP2C9, CYP2C19, and CYP3A4) and therefore have the potential to alter the pharmacokinetics of concomitantly administered medicinal products that are substrates of these enzymes. Elevated levels of interleukin-6 (IL-6) may down-regulate CYP activity such as in patients with RA or PMR and hence increase drug levels compared to subjects without RA or PMR. Blockade of IL-6 signalling by IL-6Rα antagonists such as sarilumab might reverse the inhibitory effect of IL-6 and restore CYP activity, leading to altered medicinal products concentrations.
 
 The modulation of IL-6 effect on CYP enzymes by sarilumab may be clinically relevant for CYP substrates with a narrow therapeutic index, where the dose is individually adjusted. Upon initiation or discontinuation of sarilumab in patients being treated with CYP substrate medicinal products, therapeutic monitoring of effect (e.g., warfarin) or concentration of the medicinal product (e.g., theophylline) should be performed and the individual dose of the medicinal product should be adjusted as needed.
 
@@ -314,9 +310,11 @@ Sarilumab should not be used during pregnancy unless the clinical condition of t
 
 It is unknown whether sarilumab is excreted in human milk or absorbed systemically after ingestion.
 
-The excretion of sarilumab in milk has not been studied in animals (see section 5.3). Because IgG1 are excreted in human milk , a decision must be made whether to discontinue breastfeeding or to discontinue sarilumab therapy taking into account the benefit of breast-feeding for the child and the benefit of therapy for the woman.
+The excretion of sarilumab in milk has not been studied in animals (see section 5.3). Because IgG1 are excreted in human milk , a decision must be made whether to discontinue breastfeeding or to discontinue sarilumab therapy taking into account the benefit of breast-feeding for the
 
 <div style=\"page-break-after: always\"></div>
+
+child and the benefit of therapy for the woman.
 
 ## Fertility
 
@@ -334,9 +332,9 @@ The most frequent adverse reactions in RA (n=661) and PMR (n=59) patients are ne
 
 ## Tabulated list of adverse reactions
 
-Adverse reactions listed in the table have been reported in controlled clinical studies. The frequency of adverse reactions listed below is defined using the following convention:
+Adverse reactions listed in the table have been reported in controlled clinical studies. The frequency of adverse reactions listed below is defined using the following convention: very common (≥ 1/10); common (≥ 1/100 to &lt; 1/10); uncommon (≥ 1/1 000 to &lt; 1/100); rare (≥ 1/10 000 to &lt; 1/1 000); very rare (&lt; 1/10 000); not known (cannot be estimated from the available data). Within each frequency grouping, adverse reactions are presented in order of decreasing
 
-very common (≥ 1/10); common (≥ 1/100 to &lt; 1/10); uncommon (≥ 1/1 000 to &lt; 1/100); rare (≥ 1/10 000 to &lt; 1/1 000); very rare (&lt; 1/10 000); not known (cannot be estimated from the available data). Within each frequency grouping, adverse reactions are presented in order of decreasing seriousness.
+seriousness.
 
 Table 2: Adverse reactions in patients with RA and PMR
 
@@ -359,9 +357,9 @@ Table 2: Adverse reactions in patients with RA and PMR
 | General disorders and administration site conditions | Common      | Injection site erythema           |
 | General disorders and administration site conditions | Common      | Injection site pruritus*          |
 
-## Description of selected adverse reactions
-
 <div style=\"page-break-after: always\"></div>
+
+## Description of selected adverse reactions
 
 ## Rheumatoid arthritis
 
@@ -393,9 +391,11 @@ To allow for a direct comparison of frequency of laboratory abnormalities betwee
 
 ## Neutrophil count
 
-Decreases in neutrophil counts below 1 x 10 9 /L occurred in 6.4% and 3.6% of patients in the 200 mg and 150 mg sarilumab + DMARDs group, respectively, compared to no patients in the placebo + DMARDs group. Decreases in neutrophil counts below 0.5 x 10 9 /L occurred in 0.8% and 0.6% of patients in the 200 mg and 150 mg sarilumab+ DMARDs groups, respectively. In patients experiencing a decrease in absolute neutrophil count (ANC), modification of treatment regimen such as interruption of sarilumab or reduction in dose resulted in an increase or normalisation of ANC (see section 4.2) . Decrease in ANC was not associated with higher incidence of infections, including serious infections.
+Decreases in neutrophil counts below 1 x 10 9 /L occurred in 6.4% and 3.6% of patients in the 200 mg and 150 mg sarilumab + DMARDs group, respectively, compared to no patients in the placebo + DMARDs group. Decreases in neutrophil counts below 0.5 x 10 9 /L occurred in 0.8% and 0.6% of patients in the 200 mg and 150 mg sarilumab+ DMARDs groups, respectively. In patients experiencing a decrease in absolute neutrophil count (ANC), modification of treatment regimen such as interruption of sarilumab or reduction in dose resulted in an increase or normalisation of ANC (see section 4.2) . Decrease in ANC was not associated with higher incidence of infections, including
 
 <div style=\"page-break-after: always\"></div>
+
+serious infections.
 
 In the sarilumab + DMARDs long-term safety population and the sarilumab monotherapy population, the observations on neutrophil counts were consistent with those seen in the placebo-controlled population (see section 4.4).
 
@@ -434,13 +434,13 @@ In the placebo-controlled population, malignancies occurred at the same rate in 
 
 In the sarilumab + DMARDs long-term safety population and the sarilumab monotherapy population, the rates of malignancies were consistent with the rate observed in the placebo-controlled population (see section 4.4).
 
-## Immunogenicity
-
 <div style=\"page-break-after: always\"></div>
+
+## Immunogenicity
 
 As with all therapeutic proteins, there is a potential for immunogenicity with sarilumab.
 
-In the placebo-controlled population, 4.0%, 5.6%, and 2.0% of patients treated with sarilumab 200 mg + DMARDs, sarilumab 150 mg + DMARDs and placebo + DMARDs respectively, exhibited a positive response in the antidrug antibody (ADA) assay. Positive responses in the neutralising antibody (NAb) assay were detected in 1.0%, 1.6%, and 0.2% of patients on sarilumab 200 mg, sarilumab 150 mg, and placebo respectively.
+In the placebo-controlled population, 4.0%, 5.6%, and 2.0% of patients treated with sarilumab 200 mg+ DMARDs, sarilumab 150 mg + DMARDs and placebo + DMARDs respectively, exhibited a positive response in the antidrug antibody (ADA) assay. Positive responses in the neutralising antibody (NAb) assay were detected in 1.0%, 1.6%, and 0.2% of patients on sarilumab 200 mg, sarilumab 150 mg, and placebo respectively.
 
 In the sarilumab monotherapy population, observations were consistent with the sarilumab + DMARDs population.
 
@@ -452,7 +452,9 @@ The safety of sarilumab was studied in one Phase 3 study (SAPHYR) in 117 PMR pat
 
 ## Infections
 
-In the SAPHYR study, the proportion of patients with infections was lower in the sarilumab 200 mg with 14-week prednisone taper group (37.3%) compared to the placebo with 52-week prednisone taper group (50.0%). Serious infections were reported in 3 (5.1%) patients in the sarilumab 200 mg with 14week prednisone taper group (all of which were cases of bacterial infections) and 3 (5.2%) patients in the placebo with 52-week prednisone taper group (all of which were cases of COVID-19 infection). Laboratory abnormalities
+In the SAPHYR study, the proportion of patients with infections was lower in the sarilumab 200 mg with 14-week prednisone taper group (37.3%) compared to the placebo with 52-week prednisone taper group (50.0%). Serious infections were reported in 3 (5.1%) patients in the sarilumab 200 mg with 14week prednisone taper group (all of which were cases of bacterial infections) and 3 (5.2%) patients in the placebo with 52-week prednisone taper group (all of which were cases of COVID-19 infection).
+
+## Laboratory abnormalities
 
 ## Neutrophil count
 
@@ -492,7 +494,7 @@ Pharmacotherapeutic group: Immunosuppressants, Interleukin inhibitors, ATC code:
 
 ## Mechanism of action
 
-Sarilumab is a human monoclonal antibody (IgG1 subtype) that specifically binds to both soluble and membrane-bound IL-6 receptors (IL-6R α ), and inhibits IL-6-mediated signalling which involves ubiquitous signal-transducing glycoprotein 130 (gp130) and the Signal Transducer and Activator of Transcription-3 (STAT-3).
+Sarilumab is a human monoclonal antibody (IgG1 subtype) that specifically binds to both soluble and membrane-bound IL-6 receptors (IL-6R  ), and inhibits IL-6-mediated signalling which involves ubiquitous signal-transducing glycoprotein 130 (gp130) and the Signal Transducer and Activator of Transcription-3 (STAT-3).
 
 In functional human cell-based assays, sarilumab was able to block the IL-6 signalling pathway, measured as STAT-3 inhibition, only in the presence of IL-6.
 
@@ -516,7 +518,7 @@ The efficacy and safety of sarilumab were assessed in three randomised, double-b
 
 MOBILITY evaluated 1197 patients with RA who had inadequate clinical response to MTX. Patients received sarilumab 200 mg, sarilumab 150 mg, or placebo every 2 weeks with concomitant MTX. The primary endpoints were the proportion of patients who achieved an ACR20 response at week 24, changes from baseline in Health Assessment Questionnaire - Disability Index (HAQ-DI) score at week 16, and change from baseline in van der Heijde-modified Total Sharp Score (mTSS) at week 52.
 
-TARGET evaluated 546 patients with RA who had an inadequate clinical response or were intolerant to one or more TNFα antagonists. Patients received sarilumab 200 mg, sarilumab 150 mg, or placebo every 2 weeks with concomitant conventional DMARDs (cDMARDs). The primary endpoints were the proportion of patients who achieved an ACR20 response at week 24 and the changes from baseline HAQ-DI score at week 12.
+TARGET evaluated 546 patients with RA who had an inadequate clinical response or were intolerant to one or more TNF-α antagonists. Patients received sarilumab 200 mg, sarilumab 150 mg, or placebo every 2 weeks with concomitant conventional DMARDs (cDMARDs). The primary endpoints were the proportion of patients who achieved an ACR20 response at week 24 and the changes from baseline HAQ-DI score at week 12.
 
 ## Clinical response
 
@@ -537,13 +539,13 @@ Table 4: Clinical response at weeks 12, 24, and 52 in placebo-controlled studies
 | ACR70                       | 4.0%                              | 11.0% ††                          | 17.5% †††                         | 2.2%                                      | 13.8% †††                                 | 14.7% †††                                 |
 | Week24                      |                                   |                                   |                                   |                                           |                                           |                                           |
 | DAS28-CRP remission (< 2.6) | 10.1%                             | 27.8% †††                         | 34.1% †††                         | 7.2%                                      | 24.9% †††                                 | 28.8% †††                                 |
-| ACR20 ‡                     | 33.4%                             | 58.0% †††                         | 66.4% †††                         | 33.7%                                     | 55.8% †††                                 | 60.9% †††                                 |
-| ACR50                       | 16.6%                             | 37.0% †††                         | 45.6% †††                         | 18.2%                                     | 37.0% †††                                 | 40.8% †††                                 |
+| ACR20 ‡                     | 33.4%                             | 58.0% †††                         | 66.4% †††                         | 33.7%                                     | 55.8% †††                                 | 60.9% ††† †††                             |
+| ACR50                       | 16.6%                             | 37.0% †††                         | 45.6% †††                         | 18.2%                                     | 37.0% †††                                 | 40.8%                                     |
 | ACR70                       | 7.3%                              | 19.8% †††                         | 24.8% †††                         | 7.2%                                      | 19.9% ††                                  | 16.3% †                                   |
 | Week52                      |                                   |                                   |                                   |                                           |                                           |                                           |
 | DAS28-CRP remission (< 2.6) | 8.5%                              | 31.0% †††                         | 34.1% †††                         | NA §                                      | NA §                                      | NA §                                      |
-| ACR20                       | 31.7%                             | 53.5% ††† †††                     | 58.6% †††                         | NA §                                      | NA §                                      | NA §                                      |
-| ACR50                       | 18.1%                             | 40.0%                             | 42.9% †††                         | NA §                                      | NA §                                      | NA §                                      |
+| ACR20                       | 31.7%                             | 53.5% †††                         | 58.6% †††                         | NA §                                      | NA §                                      | NA §                                      |
+| ACR50                       | 18.1%                             | 40.0% †††                         | 42.9% †††                         | NA §                                      | NA §                                      | NA §                                      |
 | ACR70                       | 9.0%                              | 24.8%                             | 26.8%                             | NA §                                      | NA §                                      | NA §                                      |
 
 <div style=\"page-break-after: always\"></div>
@@ -683,7 +685,7 @@ Table 8: Clinical Response in Adults with Active PMR (SAPHYR study)
 |                                              | Absence of signs and symptoms and CRP < 10 mg/L (disease remission*) no later than Week 12 | n (%) | 22 (37.9)        | 28 (46.7)          | NC †                 |
 |                                              | Absence of disease flare ‡ from Week 12 through Week 52                                    | n (%) | 19 (32.8)        | 33 (55.0)          | NC                   |
 |                                              | Sustained reductionofCRP (<10 mg/L) from Week 12 through Week 52                           | n (%) | 26 (44.8)        | 40 (66.7)          | NC                   |
-|                                              | Successful adherence to prednisone taper fromWeek 12 through Week 52                       | n (%) | 14(24.1)         | 30 (50.0)          | NC                   |
+|                                              | Successful adherence to prednisone taper from Week 12 through Week 52                      | n (%) | 14(24.1)         | 30 (50.0)          | NC                   |
 
 *Disease remission is defined as the resolution of signs and symptoms of PMR, and normalization of CRP (&lt;10 mg/L).
 
@@ -765,15 +767,15 @@ No formal study of the effect of hepatic impairment on the pharmacokinetics of s
 
 Non-clinical data reveal no special hazard for humans based on conventional studies of repeated-dose toxicity, carcinogenic risk assessment and toxicity to reproduction and development.
 
-No long-term animal studies have been performed to establish the carcinogenicity potential of sarilumab. The weight of evidence for IL6Rα inhibition mainly indicates anti -tumour effects mediated by multiple mechanisms predominantly involving STAT-3 inhibition. In vitro and in vivo studies with sarilumab using human tumour cell lines showed inhibition of STAT-3 activation and inhibition of tumour growth in human tumour xenograft animal models.
+No long-term animal studies have been performed to establish the carcinogenicity potential of sarilumab. The weight of evidence for IL-6Rα inhibition mainly indicates anti-tumour effects mediated by multiple mechanisms predominantly involving STAT-3 inhibition. In vitro and in vivo studies with sarilumab using human tumour cell lines showed inhibition of STAT-3 activation and inhibition of tumour growth in human tumour xenograft animal models.
 
-Fertility studies conducted in male and female mice using a murine surrogate antibody against mouse IL-6R α showed no impairment of fertility.
+Fertility studies conducted in male and female mice using a murine surrogate antibody against mouse IL-6R  showed no impairment of fertility.
 
 In an enhanced pre-/postnatal developmental toxicity study, pregnant Cynomolgus monkeys were administered sarilumab once-weekly intravenously from early gestation to natural birth (approximately 21 weeks) Maternal exposure up to approximately 83 times the human exposure based on AUC after subcutaneous doses of 200 mg every 2 weeks, did not cause any maternal or embryo-foetal effects. Sarilumab had no effect on maintenance of pregnancy or on the neonates evaluated up to 1 month after birth in body weight measurements, in parameters of functional or morphological development including skeletal evaluations, in immunophenotyping of peripheral blood lymphocytes, and in microscopic evaluations. Sarilumab was detected in the serum of neonates up to 1 month. The excretion of sarilumab in Cynomolgus monkey's milk has not been studied.
 
-## 6. PHARMACEUTICAL PARTICULARS
-
 <div style=\"page-break-after: always\"></div>
+
+## 6. PHARMACEUTICAL PARTICULARS
 
 ## 6.1 List of excipients
 
@@ -817,9 +819,9 @@ The syringe components are pre-assembled into a single-use pre-filled pen with a
 
 The syringe components are pre-assembled into a single-use pre-filled pen with a yellow needle cover and dark-orange cap.
 
-Pack sizes:
-
 <div style=\"page-break-after: always\"></div>
+
+Pack sizes:
 
 - 1 pre-filled syringe
 - 2 pre-filled syringes
@@ -856,8 +858,6 @@ Date of latest renewal: 25 April 2022
 
 ## 10. DATE OF REVISION OF THE TEXT
 
-<div style=\"page-break-after: always\"></div>
-
 Detailed information on this medicinal product is available on the website of the European Medicines Agency https://www.ema.europa.eu.
 
 <div style=\"page-break-after: always\"></div>
@@ -870,7 +870,7 @@ Kevzara 175 mg/ml solution for injection
 
 Kevzara 175 mg/ml solution for injection
 
-Each vial contains 270 mg sarilumab in 1.54 ml solution (175 mg/ml).
+Each vial contains 200 mg sarilumab in 1.14 ml solution (175 mg/ml).
 
 Sarilumab is a human monoclonal antibody produced in Chinese Hamster Ovary cells by recombinant DNA technology.
 
@@ -948,26 +948,26 @@ Table 1: Subcutaneous sarilumab doses based on body weight range
 
 Table 2: Recommendation in case of neutropenia, thrombocytopenia, or liver enzyme elevations for pJIA (see sections 4.4 and 4.8):
 
-| Low Absolute Neutrophil Count                                           | Low Absolute Neutrophil Count                                                        |
-|-------------------------------------------------------------------------|--------------------------------------------------------------------------------------|
-| Lab Value (cells x 10 9 /L)                                             | Recommendation                                                                       |
-| ANCgreater than 1                                                       | Current dose of sarilumab to be maintained.                                          |
-| • ANC ≥ 0.5 - <1 with or without infection • ANC< 0.5 without infection | Treatment with sarilumab to be withheld until clinical condition has been evaluated. |
-| ANC<0.5 associated with infection                                       | Treatment with sarilumab to be discontinued.                                         |
-| Low Platelet Count                                                      | Low Platelet Count                                                                   |
-| Lab Value (cells x 10 3 /µL)                                            | Recommendation                                                                       |
-| 50 to 100                                                               | Treatment with sarilumab to be withheld until >100 x 10 3 /µL and                    |
+| Low Absolute Neutrophil Count                                          | Low Absolute Neutrophil Count                                                        |
+|------------------------------------------------------------------------|--------------------------------------------------------------------------------------|
+| Lab Value (cells x 10 9 /L)                                            | Recommendation                                                                       |
+| ANCgreater than 1                                                      | Current dose of sarilumab to be maintained.                                          |
+| • ANC≥ 0.5 - <1 with or without infection • ANC< 0.5 without infection | Treatment with sarilumab to be withheld until clinical condition has been evaluated. |
+| ANC<0.5 associated with infection                                      | Treatment with sarilumab to be discontinued.                                         |
+| Low Platelet Count                                                     | Low Platelet Count                                                                   |
+| Lab Value (cells x 10 3 /µL)                                           | Recommendation                                                                       |
+| 50 to 100                                                              | Treatment with sarilumab to be withheld until >100 x 10 3 /µL and                    |
 
 <div style=\"page-break-after: always\"></div>
 
-|                                            | until clinical condition has been evaluated.                                                                 |
-|--------------------------------------------|--------------------------------------------------------------------------------------------------------------|
-| Less than 50                               | Treatment with sarilumab to be discontinued.                                                                 |
-| Liver Enzyme Abnormalities                 | Liver Enzyme Abnormalities                                                                                   |
-| Lab Value                                  | Recommendation                                                                                               |
-| ALT > 1 to 3 x Upper Limit of Normal (ULN) | Clinically appropriate dose modification of concomitantMTX and/or other medicinal products to be considered. |
-| ALT > 3 to 5 x ULN                         | Treatment with sarilumab to be withheld until < 3 x ULN and until clinical condition has been evaluated.     |
-| ALT > 5 x ULN                              | Treatment with sarilumab to be discontinued.                                                                 |
+|                                           | until clinical condition has been evaluated.                                                                 |
+|-------------------------------------------|--------------------------------------------------------------------------------------------------------------|
+| Less than 50                              | Treatment with sarilumab to be discontinued.                                                                 |
+| Liver Enzyme Abnormalities                | Liver Enzyme Abnormalities                                                                                   |
+| Lab Value                                 | Recommendation                                                                                               |
+| ALT> 1 to 3 x Upper Limit of Normal (ULN) | Clinically appropriate dose modification of concomitantMTX and/or other medicinal products to be considered. |
+| ALT > 3 to 5 x ULN                        | Treatment with sarilumab to be withheld until < 3 x ULNand until clinical condition has been evaluated.      |
+| ALT > 5 x ULN                             | Treatment with sarilumab to be discontinued.                                                                 |
 
 Dose reduction of sarilumab has not been studied in the pJIA population. The decision to resume or discontinue sarilumab should be based upon the medical assessment of the individual patient. If appropriate, the dose of concomitant MTX and/or other treatment should be modified or stopped.
 
@@ -1117,7 +1117,7 @@ Various in vitro and limited in vivo human studies have shown that cytokines and
 
 <div style=\"page-break-after: always\"></div>
 
-drug levels compared to subjects without RA. Blockade of IL-6 signalling by IL6Rα antagonists such as sarilumab might reverse the inhibitory effect of IL-6 and restore CYP activity, leading to altered medicinal products concentrations.
+drug levels compared to subjects without RA. Blockade of IL-6 signalling by IL-6Rα antagonists such as sarilumab might reverse the inhibitory effect of IL-6 and restore CYP activity, leading to altered medicinal products concentrations.
 
 The modulation of IL-6 effect on CYP enzymes by sarilumab may be clinically relevant for CYP substrates with a narrow therapeutic index, where the dose is individually adjusted. Upon initiation or discontinuation of sarilumab in patients being treated with CYP substrate medicinal products, therapeutic monitoring of effect (e.g., warfarin) or concentration of the medicinal product (e.g., theophylline) should be performed and the individual dose of the medicinal product should be adjusted as needed.
 
@@ -1151,9 +1151,11 @@ Kevzara has no or negligible influence on the ability to drive and use machines.
 
 ## Paediatric population
 
-Polyarticular Juvenile Idiopathic Arthritis (pJIA) Summary of the safety profile
+Polyarticular Juvenile Idiopathic Arthritis (pJIA)
 
 <div style=\"page-break-after: always\"></div>
+
+## Summary of the safety profile
 
 The most common adverse reactions were nasopharyngitis (36.6%), neutropenia (31.2%), upper respiratory tract infection (14.0%), injection site erythema (9.7%), pharyngitis (9.7%) and alanine aminotransferase increased (9.7%).
 
@@ -1182,9 +1184,7 @@ In the pJIA study, the rate of infections was 146.6 events per 100 patient-years
 
 In the pJIA study, injection site reactions (ISRs) occurred in 13 (14.0%) patients and the most commonly reported ISR was injection site erythema (9.7%). The majority of these events were mild and none of the ISRs required patient withdrawal from treatment or dose interruption.
 
-## Laboratory abnormalities
-
-## Neutrophil count
+## Laboratory abnormalities Neutrophil count
 
 In the pJIA study, decreases in neutrophil counts below 1 x 10 9 /L occurred in 10/52 (19.2%) patients weighing in ≥30 kg and 20/41 (48.8%) patients weighing 10 to &lt;30 kg. The frequency of decreased neutrophil count was higher until Week 12. Decrease in ANC was not associated with an occurrence of infections, including serious infections.
 
@@ -1222,7 +1222,7 @@ Pharmacotherapeutic group: Immunosuppressants, Interleukin inhibitors, ATC code:
 
 ## Mechanism of action
 
-Sarilumab is a human monoclonal antibody (IgG1 subtype) that specifically binds to both soluble and membrane-bound IL-6 receptors (IL-6R α ), and inhibits IL-6-mediated signalling which involves ubiquitous signal-transducing glycoprotein 130 (gp130) and the Signal Transducer and Activator of Transcription-3 (STAT-3).
+Sarilumab is a human monoclonal antibody (IgG1 subtype) that specifically binds to both soluble and membrane-bound IL-6 receptors (IL-6R  ), and inhibits IL-6-mediated signalling which involves ubiquitous signal-transducing glycoprotein 130 (gp130) and the Signal Transducer and Activator of Transcription-3 (STAT-3).
 
 In functional human cell-based assays, sarilumab was able to block the IL-6 signalling pathway, measured as STAT-3 inhibition, only in the presence of IL-6.
 
@@ -1272,7 +1272,7 @@ The pharmacokinetics of sarilumab in pJIA patients was characterized by observed
 
 For 3 mg/kg sarilumab (patients with a body weight ≥30 kg) given every 2 weeks, the estimated mean (±SD) steady-state AUC, Cmin, and Cmax of sarilumab were 294 ± 148 mg.day/L, 9.84 ± 6.35 mg/L, and 29.2 ± 15.0 mg/L, respectively by population PK analysis.
 
-For 4 mg/kg sarilumab (patients with a body weight 10 to &lt;30 kg) given every 2 weeks, the estimated mean (± SD) steady-state AUC, Cmin, and Cmax of sarilumab were 375 ± 102 mg.day/L, 14.5 ± 8.56 mg/L, and 37.3 ± 8.10 mg/L, respectively by population PK analysis.
+For 4 mg/kg sarilumab (patients with a body weight 10 to &lt;30 kg) given every 2 weeks, the estimated mean (± SD) steady-state AUC, Cmin, and Cmax  of sarilumab were 375 ± 102 mg.day/L, 14.5 ± 8.56 mg/L, and 37.3 ± 8.10 mg/L, respectively by population PK analysis.
 
 Consistent with RA adult patients, sarilumab is eliminated by parallel linear and non-linear pathways, in pJIA patients, these parallel elimination pathways result in an initial half-life of 5 to 7 days.  Time to steady state was about 10 weeks longer compared to RA adult patients. Following subcutaneous administration at Week 48, accumulation ratio was approximately 5-fold based on the observed mean trough concentrations (11.6 mg/L and 14.2 mg/L) compared to single dose exposure (2.24 mg/L and 3.10 mg/L) for 3 and 4 mg/kg q2w, respectively. Steady state concentrations were within the range of exposures in adult RA patients following 200 mg every 2 weeks.
 
@@ -1280,27 +1280,19 @@ Consistent with RA adult patients, sarilumab is eliminated by parallel linear an
 
 Non-clinical data reveal no special hazard for humans based on conventional studies of repeated-dose toxicity, carcinogenic risk assessment and toxicity to reproduction and development.
 
-No long-term animal studies have been performed to establish the carcinogenicity potential of sarilumab. The weight of evidence for IL6Rα inhibition mainly indicates anti -tumour effects mediated by multiple mechanisms predominantly involving STAT-3 inhibition. In vitro and in vivo studies with sarilumab using human tumour cell lines showed inhibition of STAT-3 activation and inhibition of tumour growth in human tumour xenograft animal models.
+No long-term animal studies have been performed to establish the carcinogenicity potential of sarilumab. The weight of evidence for IL-6Rα inhibition mainly indicates anti-tumour effects mediated by multiple mechanisms predominantly involving STAT-3 inhibition. In vitro and in vivo studies with sarilumab using human tumour cell lines showed inhibition of STAT-3 activation and inhibition of tumour growth in human tumour xenograft animal models.
 
-Fertility studies conducted in male and female mice using a murine surrogate antibody against mouse IL-6R α showed no impairment of fertility.
+Fertility studies conducted in male and female mice using a murine surrogate antibody against mouse IL-6R  showed no impairment of fertility.
 
 In an enhanced pre-/postnatal developmental toxicity study, pregnant Cynomolgus monkeys were administered sarilumab once-weekly intravenously from early gestation to natural birth (approximately 21 weeks) Maternal exposure up to approximately 83 times the human exposure based on AUC after subcutaneous doses of 200 mg every 2 weeks, did not cause any maternal or embryo-foetal effects. Sarilumab had no effect on maintenance of pregnancy or on the neonates evaluated up to 1 month after birth in body weight measurements, in parameters of functional or morphological development including skeletal evaluations, in immunophenotyping of peripheral blood lymphocytes, and in microscopic evaluations. Sarilumab was detected in the serum of neonates up to 1 month. The excretion of sarilumab in Cynomolgus monkey's milk has not been studied.
 
-## 6. PHARMACEUTICAL PARTICULARS
-
 <div style=\"page-break-after: always\"></div>
+
+## 6. PHARMACEUTICAL PARTICULARS
 
 ## 6.1 List of excipients
 
-Histidine
-
-Arginine
-
-Polysorbate 20 (E 432)
-
-Sucrose
-
-Water for injections
+Histidine Arginine Polysorbate 20 (E 432) Sucrose Water for injections
 
 ## 6.2 Incompatibilities
 
@@ -1310,7 +1302,7 @@ In the absence of compatibility studies, this medicinal product must not be mixe
 
 ## Kevzara 175 mg/ml solution for injection
 
-2 years
+3 years
 
 Once removed from the refrigerator, Kevzara should be administered within 14 days and should not be stored above 25 ºC.
 
@@ -1324,7 +1316,7 @@ Store in the original carton in order to protect from light.
 
 ## Kevzara 175 mg/ml solution for injection
 
-The vial (type 1 glass) containing 1.54 ml solution is closed with ETFE-coated bromobutyl stoppers and crimped with an aluminium seal with a flip-off cap.
+The vial (type 1 glass) containing 1.14 ml solution is closed with ETFE-coated bromobutyl stoppers and crimped with an aluminium seal with a flip-off cap.
 
 Pack sizes:
 
@@ -1344,11 +1336,7 @@ Any unused medicinal product or waste material should be disposed of in accordan
 
 ## 7. MARKETING AUTHORISATION HOLDER
 
-Sanofi Winthrop Industrie
-
-82 avenue Raspail 94250 Gentilly
-
-France
+Sanofi Winthrop Industrie 82 avenue Raspail 94250 Gentilly France
 
 <div style=\"page-break-after: always\"></div>
 
@@ -1602,8 +1590,7 @@ Store in the original carton in order to protect from light.
 
 ## 10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
 
-| 11.   | NAMEANDADDRESSOFTHEMARKETINGAUTHORISATIONHOLDER   |
-|-------|---------------------------------------------------|
+## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
 Sanofi Winthrop Industrie 82 avenue Raspail 94250 Gentilly
 
@@ -1619,8 +1606,8 @@ EU/1/17/1196/002 6 pre-filled syringes (3 packs of 2)
 
 Lot
 
-| 14.   | GENERALCLASSIFICATIONFOR SUPPLY   |
-|-------|-----------------------------------|
+| 14.   | GENERALCLASSIFICATIONFORSUPPLY   |
+|-------|----------------------------------|
 
 | 15.   | INSTRUCTIONSONUSE   |
 |-------|---------------------|
@@ -1732,9 +1719,9 @@ kevzara 150 mg syringe
 
 <div style=\"page-break-after: always\"></div>
 
-| MINIMUMPARTICULARSTOAPPEARONSMALLIMMEDIATEPACKAGINGUNITS   |
-|------------------------------------------------------------|
-| PRE-FILLED SYRINGE                                         |
+| MINIMUMPARTICULARSTOAPPEARONSMALLIMMEDIATEPACKAGING UNITS   |
+|-------------------------------------------------------------|
+| PRE-FILLED SYRINGE                                          |
 
 | 1.   | NAMEOFTHEMEDICINALPRODUCTANDROUTEOFADMINISTRATION   |
 |------|-----------------------------------------------------|
@@ -1916,11 +1903,9 @@ Store in the original carton in order to protect from light.
 
 <div style=\"page-break-after: always\"></div>
 
-| 10.   | SPECIALPRECAUTIONS FORDISPOSALOFUNUSEDMEDICINAL PRODUCTS ORWASTEMATERIALS DERIVEDFROMSUCH MEDICINAL PRODUCTS, IF APPROPRIATE   |
-|-------|--------------------------------------------------------------------------------------------------------------------------------|
+## 10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
 
-| 11.   | NAMEANDADDRESSOFTHEMARKETINGAUTHORISATIONHOLDER   |
-|-------|---------------------------------------------------|
+## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
 Sanofi Winthrop Industrie 82 avenue Raspail 94250 Gentilly
 
@@ -1936,8 +1921,8 @@ EU/1/17/1196/004 6 pre-filled syringes (3 packs of 2)
 
 Lot
 
-| 14.   | GENERALCLASSIFICATIONFOR SUPPLY   |
-|-------|-----------------------------------|
+| 14.   | GENERALCLASSIFICATIONFORSUPPLY   |
+|-------|----------------------------------|
 
 | 15.   | INSTRUCTIONSONUSE   |
 |-------|---------------------|
@@ -2049,9 +2034,9 @@ kevzara 200 mg syringe
 
 <div style=\"page-break-after: always\"></div>
 
-| MINIMUMPARTICULARSTOAPPEARONSMALLIMMEDIATEPACKAGINGUNITS   |
-|------------------------------------------------------------|
-| PRE-FILLED SYRINGE                                         |
+| MINIMUMPARTICULARSTOAPPEARONSMALLIMMEDIATEPACKAGING UNITS   |
+|-------------------------------------------------------------|
+| PRE-FILLED SYRINGE                                          |
 
 | 1.   | NAMEOFTHEMEDICINALPRODUCTANDROUTEOFADMINISTRATION   |
 |------|-----------------------------------------------------|
@@ -2099,7 +2084,7 @@ Excipients: histidine, arginine, polysorbate 20 E 432, sucrose, water for inject
 
 ## 4. PHARMACEUTICAL FORM AND CONTENTS
 
-solution for injection
+## solution for injection
 
 1 pre-filled pen
 
@@ -2359,9 +2344,9 @@ kevzara 150 mg pen
 
 <div style=\"page-break-after: always\"></div>
 
-| MINIMUMPARTICULARSTOAPPEARONSMALLIMMEDIATEPACKAGINGUNITS   |
-|------------------------------------------------------------|
-| PRE-FILLEDPEN                                              |
+| MINIMUMPARTICULARSTOAPPEARONSMALLIMMEDIATEPACKAGING UNITS   |
+|-------------------------------------------------------------|
+| PRE-FILLEDPEN                                               |
 
 | 1.   | NAMEOFTHEMEDICINALPRODUCTANDROUTEOFADMINISTRATION   |
 |------|-----------------------------------------------------|
@@ -2409,7 +2394,7 @@ Excipients: histidine, arginine, polysorbate 20 E 432, sucrose, water for inject
 
 ## 4. PHARMACEUTICAL FORM AND CONTENTS
 
-solution for injection
+## solution for injection
 
 1 pre-filled pen
 
@@ -2583,7 +2568,7 @@ NN
 
 ## PARTICULARS TO APPEAR ON THE OUTER PACKAGING
 
-INNER CARTON without Blue Box - 2 PRE-FILLED PENS (MULTIPACK PRESENTATION)
+## INNER CARTON without Blue Box - 2 PRE-FILLED PENS (MULTIPACK PRESENTATION)
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
@@ -2669,9 +2654,9 @@ kevzara 200 mg pen
 
 <div style=\"page-break-after: always\"></div>
 
-| MINIMUMPARTICULARSTOAPPEARONSMALLIMMEDIATEPACKAGINGUNITS   |
-|------------------------------------------------------------|
-| PRE-FILLEDPEN                                              |
+| MINIMUMPARTICULARSTOAPPEARONSMALLIMMEDIATEPACKAGING UNITS   |
+|-------------------------------------------------------------|
+| PRE-FILLEDPEN                                               |
 
 | 1.   | NAMEOFTHEMEDICINALPRODUCTANDROUTEOFADMINISTRATION   |
 |------|-----------------------------------------------------|
@@ -2711,7 +2696,7 @@ KEVZARA 175 mg/ml solution for injection sarilumab
 
 ## 2. STATEMENT OF ACTIVE SUBSTANCE
 
-Each vial contains 270 mg sarilumab in 1.54 ml solution (175 mg/ml).
+Each vial contains 200 mg sarilumab in 1.14 ml solution (175 mg/ml).
 
 ## 3. LIST OF EXCIPIENTS
 
@@ -2719,9 +2704,7 @@ Excipients: histidine, arginine, polysorbate 20 E 432, sucrose, water for inject
 
 ## 4. PHARMACEUTICAL FORM AND CONTENTS
 
-270 mg/1.54 mlsolution for injection
-
-2 vials
+200 mg/1.14 ml solution for injection 2 vials
 
 ## 5. METHOD AND ROUTE OF ADMINISTRATION
 
@@ -2789,9 +2772,9 @@ NN
 
 <div style=\"page-break-after: always\"></div>
 
-| MINIMUMPARTICULARSTOAPPEARONSMALLIMMEDIATEPACKAGINGUNITS   |
-|------------------------------------------------------------|
-| VIAL LABEL                                                 |
+| MINIMUMPARTICULARSTOAPPEARONSMALLIMMEDIATEPACKAGING UNITS   |
+|-------------------------------------------------------------|
+| VIAL LABEL                                                  |
 
 | 1.   | NAMEOFTHEMEDICINALPRODUCTANDROUTEOFADMINISTRATION   |
 |------|-----------------------------------------------------|
@@ -2816,7 +2799,7 @@ Lot
 | 5.   | CONTENTSBYWEIGHT,BYVOLUMEORBYUNIT   |
 |------|-------------------------------------|
 
-270 mg/1.54 ml
+200 mg/1.14 ml
 
 | 6.   | OTHER   |
 |------|---------|
@@ -2986,9 +2969,9 @@ If you have any further questions on the use of this medicine, ask your doctor, 
 
 Like all medicines, this medicine can cause side effects, although not everybody gets them.
 
-## Serious side effect
-
 <div style=\"page-break-after: always\"></div>
+
+## Serious side effect
 
 Tell your doctor straight away if you think you have an infection (which may affect up to 1 in every 10 people). The symptoms may include fever, sweats, or chills.
 
@@ -3081,9 +3064,7 @@ For any information about this medicine, please contact the local representative
 
 ## België/Belgique/Belgien
 
-Sanofi Belgium
-
-Tél/Tel: +32 (0)2 710 54 00
+Sanofi Belgium Tél/Tel: +32 (0)2 710 54 00
 
 Lietuva
 
@@ -3095,9 +3076,7 @@ Tel: +370 5 236 91 40
 
 Swixx Biopharma EOOD
 
-Тел
-
-.: +359 (0)2 4942 480
+Тел.: +359 (0)2 4942 480
 
 ## Luxembourg/Luxemburg
 
@@ -3149,9 +3128,7 @@ Tel: +372 640 10 30
 
 Sanofi-Aventis Μονοπρόσωπη AEBE
 
-Τηλ
-
-: +30 210 900 16 00
+Τηλ: +30 210 900 16 00
 
 ## España
 
@@ -3195,9 +3172,7 @@ Tel: 800 536389
 
 C.A. Papaellinas Ltd.
 
-Τηλ
-
-: +357 22 741741
+Τηλ: +357 22 741741
 
 ## Latvija
 
@@ -3287,13 +3262,13 @@ Ask your healthcare professional to show you the right way to use the syringe be
 
 ## Do
 
--  Read all of the instructions carefully before using a syringe.
--  Check that you have the correct medicine and the correct dose.
--  Keep unused syringes in the original carton and store in the refrigerator between 2ºC and 8ºC.
--  Keep the carton in an insulated bag with an ice pack when travelling.
--  Let the syringe warm up to room temperature for at least 30 minutes before using.
--  Use the syringe within 14 days after taking it out of the refrigerator or insulated bag.
--  Keep the syringe out of the sight and reach of children.
+- Read all of the instructions carefully before using a syringe.
+- Check that you have the correct medicine and the correct dose.
+- Keep unused syringes in the original carton and store in the refrigerator between 2ºC and 8ºC.
+- Keep the carton in an insulated bag with an ice pack when travelling.
+- Let the syringe warm up to room temperature for at least 30 minutes before using.
+- Use the syringe within 14 days after taking it out of the refrigerator or insulated bag.
+- Keep the syringe out of the sight and reach of children.
 
 <div style=\"page-break-after: always\"></div>
 
@@ -3426,13 +3401,13 @@ Ask your healthcare professional to show you the right way to use the syringe be
 
 ## Do
 
--  Read all of the instructions carefully before using a syringe.
--  Check that you have the correct medicine and the correct dose.
--  Keep unused syringes in the original carton and store in the refrigerator between 2ºC and 8ºC.
--  Keep the carton in an insulated bag with an ice pack when travelling.
--  Let the syringe warm up to room temperature for at least 30 minutes before using.
--  Use the syringe within 14 days after taking it out of the refrigerator or insulated bag.
--  Keep the syringe out of the sight and reach of children.
+- Read all of the instructions carefully before using a syringe.
+- Check that you have the correct medicine and the correct dose.
+- Keep unused syringes in the original carton and store in the refrigerator between 2ºC and 8ºC.
+- Keep the carton in an insulated bag with an ice pack when travelling.
+- Let the syringe warm up to room temperature for at least 30 minutes before using.
+- Use the syringe within 14 days after taking it out of the refrigerator or insulated bag.
+- Keep the syringe out of the sight and reach of children.
 
 <div style=\"page-break-after: always\"></div>
 
@@ -3791,9 +3766,7 @@ Kevzara is available as 150 mg or 200 mg pre-filled pens.
 
 ## Marketing Authorisation Holder
 
-Sanofi Winthrop Industrie 82 avenue Raspail 94250 Gentilly
-
-France
+Sanofi Winthrop Industrie 82 avenue Raspail 94250 Gentilly France
 
 ## Manufacturer
 
@@ -3819,9 +3792,7 @@ Tel: +370 5 236 91 40
 
 Swixx Biopharma EOOD
 
-Тел
-
-.: +359 (0)2 4942 480
+Тел.: +359 (0)2 4942 480
 
 ## Luxembourg/Luxemburg
 
@@ -3859,9 +3830,7 @@ Tel: +372 640 10 30
 
 Sanofi-Aventis Μονοπρόσωπη AEBE
 
-Τηλ
-
-: +30 210 900 16 00
+Τηλ: +30 210 900 16 00
 
 <div style=\"page-break-after: always\"></div>
 
@@ -3973,9 +3942,7 @@ Puh/Tel: +358 (0) 201 200 300
 
 C.A. Papaellinas Ltd.
 
-Τηλ:
-
-+357 22 741741
+Τηλ: +357 22 741741
 
 ## Sverige
 
@@ -3989,11 +3956,11 @@ Swixx Biopharma SIA
 
 Tel: +371 6 616 47 50
 
+<div style=\"page-break-after: always\"></div>
+
 ## This leaflet was last revised in
 
 Detailed information on this medicine is available on the European Medicines Agency web site: https://www.ema.europa.eu.
-
-<div style=\"page-break-after: always\"></div>
 
 <div style=\"page-break-after: always\"></div>
 
@@ -4013,13 +3980,13 @@ Ask your healthcare professional to show you the right way to use the pen before
 
 ## Do
 
--  Read all of the instructions carefully before using a pen.
--  Check that you have the correct medicine and the correct dose.
--  Keep unused pens in the original carton and store in the refrigerator between 2ºC and 8ºC.
--  Keep the carton in an insulated bag with an ice pack when travelling.
--  Let the pen warm up to room temperature for at least 60 minutes before using.
--  Use the pen within 14 days after taking it out of the refrigerator or insulated bag.
--  Keep the pen out of the sight and reach of children.
+- Read all of the instructions carefully before using a pen.
+- Check that you have the correct medicine and the correct dose.
+- Keep unused pens in the original carton and store in the refrigerator between 2ºC and 8ºC.
+- Keep the carton in an insulated bag with an ice pack when travelling.
+- Let the pen warm up to room temperature for at least 60 minutes before using.
+- Use the pen within 14 days after taking it out of the refrigerator or insulated bag.
+- Keep the pen out of the sight and reach of children.
 
 ## Do not
 
@@ -4163,18 +4130,22 @@ Ask your healthcare professional to show you the right way to use the pen before
 
 ## Do
 
--  Read all of the instructions carefully before using a pen.
--  Check that you have the correct medicine and the correct dose.
--  Keep unused pens in the original carton and store in the refrigerator between 2ºC and 8ºC.
--  Keep the carton in an insulated bag with an ice pack when travelling.
--  Let the pen warm up to room temperature for at least 60 minutes before using.
--  Use the pen within 14 days after taking it out of the refrigerator or insulated bag.
--  Keep the pen out of the sight and reach of children.
+- Read all of the instructions carefully before using a pen.
+- Check that you have the correct medicine and the correct dose.
+- Keep unused pens in the original carton and store in the refrigerator between 2ºC and 8ºC.
+- Keep the carton in an insulated bag with an ice pack when travelling.
+- Let the pen warm up to room temperature for at least 60 minutes before using.
+- Use the pen within 14 days after taking it out of the refrigerator or insulated bag.
+- Keep the pen out of the sight and reach of children.
 
 ## Do not
 
 - Do not use a pen if it has been damaged or the cap is missing or not attached.
 - Do not remove the cap until just before you are ready to inject.
+
+<!-- image -->
+
+<!-- image -->
 
 <div style=\"page-break-after: always\"></div>
 
@@ -4299,13 +4270,13 @@ Ask your healthcare professional to show you the right way to use the pen before
 
 <!-- image -->
 
-<div style=\"page-break-after: always\"></div>
-
 ## Package leaflet: Information for the patient
+
+<div style=\"page-break-after: always\"></div>
 
 ## Kevzara 175 mg/ml solution for injection
 
-sarilumab
+## sarilumab
 
 ## Read all of this leaflet carefully before you start using this medicine because it contains important information for you.
 
@@ -4403,9 +4374,9 @@ Talk to your doctor before using Kevzara if you are pregnant or breast feeding, 
 - The effects of Kevzara on an unborn baby are not known.
 - You and your doctor should decide if you should use Kevzara if you are breast-feeding.
 
-## Driving and using machines
-
 <div style=\"page-break-after: always\"></div>
+
+## Driving and using machines
 
 The use of Kevzara is not expected to affect your ability to drive or use machines. However, if you/ your child are feeling tired or unwell after you use Kevzara, you/your child should not drive/ride a bicycle or use machines.
 
@@ -4476,7 +4447,7 @@ Very common (may affect more than 1 in 10 people)
 - low white blood cell counts shown by blood tests (neutropenia)
 - injection-site reactions (including redness and itching).
 
-## Common (may affect up to 1 in 10 people)
+Common (may affect up to 1 in 10 people)
 
 - abnormal liver function tests (increased alanine aminotransferase)
 
@@ -4506,14 +4477,14 @@ Do not throw away any medicines via wastewater or household waste. Your healthca
 
 ## What Kevzara contains
 
-- The active substance is sarilumab. Each vial contains 270 mg sarilumab in 1.54 ml solution
+- The active substance is sarilumab. Each vial contains 200 mg sarilumab in 1.14 ml solution
 - The other ingredients are arginine, histidine, polysorbate 20 (E 432), sucrose, and water for injections.
 
 ## What Kevzara looks like and contents of the pack
 
 Kevzara is a clear, colourless to pale yellow solution for injection that comes in a vial.
 
-Each vial contains 1.54 ml of solution. Kevzara is available in a pack containing 2 vials.
+Each vial contains 1.14 ml of solution. Kevzara is available in a pack containing 2 vials.
 
 Not all pack sizes may be marketed.
 
@@ -4543,7 +4514,7 @@ Tél/Tel: +32 (0)2 710 54 00
 
 ## България
 
-Swixx Biopharma EOOD Тел .: +359 (0)2 4942 480
+Swixx Biopharma EOOD Тел.: +359 (0)2 4942 480
 
 ## Česká republika
 
@@ -4559,11 +4530,7 @@ Tlf: +45 45 16 70 00
 
 ## Deutschland
 
-Sanofi-Aventis Deutschland GmbH
-
-Telefon: 0800 04 36 996
-
-Telefon aus dem Ausland: +49 69 305 70 13
+Sanofi-Aventis Deutschland GmbH Telefon: 0800 04 36 996 Telefon aus dem Ausland: +49 69 305 70 13
 
 ## Eesti
 
@@ -4575,9 +4542,7 @@ Tel: +372 640 10 30
 
 Sanofi-Aventis Μονοπρόσωπη AEBE
 
-Τηλ
-
-: +30 210 900 16 00
+Τηλ: +30 210 900 16 00
 
 ## España
 
@@ -4697,9 +4662,7 @@ Puh/Tel: +358 (0) 201 200 300
 
 C.A. Papaellinas Ltd.
 
-Τηλ:
-
-+357 22 741741
+Τηλ: +357 22 741741
 
 ## Sverige
 

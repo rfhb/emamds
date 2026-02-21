@@ -1,20 +1,20 @@
 ---
-document_datetime: 2023-12-04 10:38:29
+document_datetime: 2026-02-19 10:32:03
 document_pages: 45
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/fulphila-epar-product-information_en.pdf
 document_name: fulphila-epar-product-information_en.pdf
 version: success
-processing_time: 10.247047
-conversion_datetime: 2025-12-29 21:30:05.412792
+processing_time: 10.5322632
+conversion_datetime: 2026-02-21 12:20:23.878969
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.66.0
-  docling-core: 2.57.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.13.0
+  docling-jobkit: 1.11.0
+  docling: 2.74.0
+  docling-core: 2.65.1
+  docling-ibm-models: 3.11.0
+  docling-parse: 5.3.2
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.3-arm64-arm-64bit-Mach-O
 ---
 ## ANNEX I
 
@@ -32,21 +32,17 @@ Each pre-filled syringe contains 6 mg of pegfilgrastim* in 0.6 mL solution for i
 
 *Produced in Escherichia coli cells by recombinant DNA technology followed by conjugation with polyethylene glycol (PEG).
 
-** The concentration is 20 mg/mL if the PEG moiety is included.
+- ** The concentration is 20 mg/mL if the PEG moiety is included.
 
-The potency of this product should not be compared to the potency of another pegylated or non-pegylated protein of the same therapeutic class. For more information, see section 5.1
+The potency of this product should not be compared to the potency of another pegylated or nonpegylated protein of the same therapeutic class. For more information, see section 5.1
 
 ## Excipient with known effect
 
-Each pre-filled syringe contains 30 mg sorbitol (E420) (see section 4.4).
+Each pre-filled syringe contains 30 mg sorbitol (E420) (see section 4.4). For the full list of excipients, see section 6.1.
 
-For the full list of excipients, see section 6.1.
+## 3. PHARMACEUTICAL  FORM
 
-## 3. PHARMACEUTICAL FORM
-
-Solution for injection (injection).
-
-Clear, colourless solution for injection.
+Solution for injection (injection). Clear, colourless solution for injection.
 
 ## 4. CLINICAL PARTICULARS
 
@@ -68,9 +64,9 @@ One 6 mg dose (a single pre-filled syringe) of pegfilgrastim is recommended for 
 
 No dose change is recommended in patients with renal impairment, including those with end stage renal disease.
 
-<div style=\"page-break-after: always\"></div>
-
 ## Paediatric population
+
+<div style=\"page-break-after: always\"></div>
 
 The safety and efficacy of pegfilgrastim in children has not yet been established. Currently available data are described in sections 4.8, 5.1 and 5.2 but no recommendation on a posology can be made.
 
@@ -108,9 +104,11 @@ The safety and efficacy of pegfilgrastim have not been investigated in patients 
 
 Pulmonary adverse reactions, in particular interstitial pneumonia, have been reported after G-CSF administration. Patients with a recent history of pulmonary infiltrates or pneumonia may be at higher risk (see section 4.8).
 
-The onset of pulmonary signs such as cough, fever, and dyspnoea in association with radiological signs of pulmonary infiltrates, and deterioration in pulmonary function along with increased neutrophil count may be preliminary signs of acute respiratory distress syndrome (ARDS). In such circumstances pegfilgrastim should be discontinued at the discretion of the physician and the appropriate treatment given (see section 4.8).
+The onset of pulmonary signs such as cough, fever, and dyspnoea in association with radiological signs of pulmonary infiltrates, and deterioration in pulmonary function along with increased neutrophil
 
 <div style=\"page-break-after: always\"></div>
+
+count may be preliminary signs of acute respiratory distress syndrome (ARDS). In such circumstances pegfilgrastim should be discontinued at the discretion of the physician and the appropriate treatment given (see section 4.8).
 
 ## Glomerulonephritis
 
@@ -138,15 +136,17 @@ Sickle cell crises have been associated with the use of pegfilgrastim in patient
 
 ## Leukocytosis
 
-White blood cell (WBC) counts of 100 × 10 9 /L or greater have been observed in less than 1 % of patients receiving pegfilgrastim. No adverse events directly attributable to this degree of leukocytosis have been reported. Such elevation in white blood cells is transient, typically seen 24 to 48 hours after administration and is consistent with the pharmacodynamic effects of this medicinal product. Consistent with the clinical effects and the potential for leukocytosis, a WBC count should be performed at regular intervals during therapy. If leukocyte counts exceed 50 × 10 9 /L after the expected nadir, this medicinal product should be discontinued immediately.
-
-## Hypersensitivity
+White blood cell (WBC) counts of 100 × 10 9 /L or greater have been observed in less than 1 % of patients receiving pegfilgrastim. No adverse events directly attributable to this degree of leukocytosis have been reported. Such elevation in white blood cells is transient, typically seen 24 to 48 hours after administration and is consistent with the pharmacodynamic effects of this medicinal product.
 
 <div style=\"page-break-after: always\"></div>
 
+Consistent with the clinical effects and the potential for leukocytosis, a WBC count should be performed at regular intervals during therapy. If leukocyte counts exceed 50 × 10 9 /L after the expected nadir, this medicinal product should be discontinued immediately.
+
+## Hypersensitivity
+
 Hypersensitivity, including anaphylactic reactions, occurring on initial or subsequent treatment have been reported in patients treated with pegfilgrastim. Permanently discontinue pegfilgrastim in patients with clinically significant hypersensitivity. Do not administer pegfilgrastim to patients with a history of hypersensitivity to pegfilgrastim or filgrastim. If a serious allergic reaction occurs, appropriate therapy should be administered, with close patient follow-up over several days.
 
-## Stevens-Johnson syndrome
+## Stevens-Johnson  syndrome
 
 Stevens-Johnson syndrome (SJS), which can be life-threatening or fatal, has been reported rarely in association with pegfilgrastim treatment. If the patient has developed SJS with the use of pegfilgrastim, treatment with pegfilgrastim must not be restarted in this patient at any time.
 
@@ -174,11 +174,13 @@ This medicinal product contains 30 mg sorbitol in each pre-filed syringe which i
 
 This medicinal product contains less than 1 mmol sodium (23 mg) per 6 mg dose, that is to say essentially 'sodium-free'.
 
+<div style=\"page-break-after: always\"></div>
+
 ## 4.5 Interaction with other medicinal products and other forms of interaction
 
-Due to the potential sensitivity of rapidly dividing myeloid cells to cytotoxic chemotherapy, pegfilgrastim should be administered at least 24 hours after administration of cytotoxic chemotherapy. In clinical trials, pegfilgrastim has been safely administered 14 days before chemotherapy. Concomitant use of pegfilgrastim with any chemotherapy agent has not been evaluated in patients. In animal models concomitant administration of pegfilgrastim and 5-fluorouracil (5-FU) or other antimetabolites has been shown to potentiate myelosuppression.
+Due to the potential sensitivity of rapidly dividing myeloid cells to cytotoxic chemotherapy, pegfilgrastim should be administered at least 24 hours after administration of cytotoxic chemotherapy. In clinical trials, pegfilgrastim has been safely administered 14 days before chemotherapy.
 
-<div style=\"page-break-after: always\"></div>
+Concomitant use of pegfilgrastim with any chemotherapy agent has not been evaluated in patients. In animal models concomitant administration of pegfilgrastim and 5-fluorouracil (5-FU) or other antimetabolites has been shown to potentiate myelosuppression.
 
 Possible interactions with other haematopoietic growth factors and cytokines have not been specifically investigated in clinical trials.
 
@@ -210,15 +212,17 @@ Pegfilgrastim has no or negligible influence on the ability to drive and use mac
 
 ## Summary of the safety profile
 
-The most frequently reported adverse reactions were bone pain (very common [ ≥ 1/10]) and musculoskeletal pain (common [ ≥ 1/100 to &lt; 1/10]). Bone pain was generally of mild to moderate severity, transient and could be controlled in most patients with standard analgesics.
-
-Hypersensitivity-type reactions, including skin rash, urticaria, angioedema, dyspnoea, erythema, flushing, and hypotension occurred on initial or subsequent treatment with pegfilgrastim (uncommon [ ≥ 1/1 000 to &lt; 1/100]). Serious allergic reactions, including anaphylaxis can occur in patients receiving pegfilgrastim (uncommon) (see section 4.4).
-
-Capillary Leak Syndrome, which can be life-threatening if treatment is delayed, has been reported as uncommon ( ≥ 1/1 000 to &lt; 1/100) in cancer patients undergoing chemotherapy following administration of G-CSF; see section 4.4 and section 'Description of selected adverse reactions' below.
-
-Splenomegaly, generally asymptomatic, is uncommon.
+The most frequently reported adverse reactions were bone pain (very common [≥ 1/10]) and musculoskeletal pain (common [≥ 1/100 to &lt; 1/10]). Bone pain was generally of mild to moderate
 
 <div style=\"page-break-after: always\"></div>
+
+severity, transient and could be controlled in most patients with standard analgesics.
+
+Hypersensitivity-type reactions, including skin rash, urticaria, angioedema, dyspnoea, erythema, flushing, and hypotension occurred on initial or subsequent treatment with pegfilgrastim (uncommon [≥ 1/1 000 to &lt; 1/100]). Serious allergic reactions, including anaphylaxis can occur in patients receiving pegfilgrastim (uncommon) (see section 4.4).
+
+Capillary Leak Syndrome, which can be life-threatening if treatment is delayed, has been reported as uncommon (≥ 1/1 000 to &lt; 1/100) in cancer patients undergoing chemotherapy following administration of G-CSF; see section 4.4 and section 'Description of selected adverse reactions' below.
+
+Splenomegaly, generally asymptomatic, is uncommon.
 
 Splenic rupture including some fatal cases is uncommonly reported following administration of pegfilgrastim (see section 4.4).
 
@@ -232,19 +236,19 @@ The data in the table below describe adverse reactions reported from clinical tr
 
 | MedDRA system organ class                                           | Adverse reactions    | Adverse reactions                 | Adverse reactions                                                  | Adverse reactions              |
 |---------------------------------------------------------------------|----------------------|-----------------------------------|--------------------------------------------------------------------|--------------------------------|
-|                                                                     | Very common (≥ 1/10) | Common (≥ 1/100 to < 1/10)        | Uncommon (≥ 1/1 000 to < 1/100)                                    | Rare (≥ 1/10 000 to < 1/1 000) |
+|                                                                     | Very common (≥ 1/10) | Common (≥ 1/100 to < 1/10)        | Uncommon (≥ 1/1 000 to < 1/100)                                    | Rare (≥ 1/10 000 To < 1/1 000) |
 | Neoplasms benign, malignant and unspecified (incl cysts and polyps) |                      |                                   | Myelodysplastic syndrome 1 Acute myeloid leukaemia 1               |                                |
 | Blood and lymphatic system disorders                                |                      | Thrombocytopenia 1 Leukocytosis 1 | Sickle cell anaemia with crisis 2 Splenomegaly 2 Splenic rupture 2 |                                |
 | Immune system disorders                                             |                      |                                   | Hypersensitivity reactions Anaphylaxis                             |                                |
-| Metabolism and nutrition disorders                                  |                      |                                   | Elevations in uric acid                                            |                                |
-| Nervous system disorders                                            | Headache 1           |                                   |                                                                    |                                |
-| Vascular disorders                                                  |                      |                                   | Capillary leak syndrome 1                                          | Aortitis                       |
 
 <div style=\"page-break-after: always\"></div>
 
 | MedDRA system organ class                            | Adverse reactions    | Adverse reactions                                                                                          | Adverse reactions                                                                                                                                                      | Adverse reactions              |
 |------------------------------------------------------|----------------------|------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------|
-|                                                      | Very common (≥ 1/10) | Common (≥ 1/100 to < 1/10)                                                                                 | Uncommon (≥ 1/1 000 to < 1/100)                                                                                                                                        | Rare (≥ 1/10 000 to < 1/1 000) |
+|                                                      | Very common (≥ 1/10) | Common (≥ 1/100 to < 1/10)                                                                                 | Uncommon (≥ 1/1 000 to < 1/100)                                                                                                                                        | Rare (≥ 1/10 000 To < 1/1 000) |
+| Metabolism and nutrition disorders                   |                      |                                                                                                            | Elevations in uric acid                                                                                                                                                |                                |
+| Nervous system disorders                             | Headache 1           |                                                                                                            |                                                                                                                                                                        |                                |
+| Vascular disorders                                   |                      |                                                                                                            | Capillary leak syndrome 1                                                                                                                                              | Aortitis                       |
 | Respiratory, thoracic and mediastinal disorders      |                      |                                                                                                            | Acute Respiratory Distress Syndrome 2 Pulmonary adverse reactions (interstitial pneumonia, pulmonary oedema, pulmonary infiltrates and pulmonary fibrosis) Haemoptysis | Pulmonary haemorrhage          |
 | Gastrointestinal disorders                           | Nausea 1             |                                                                                                            |                                                                                                                                                                        |                                |
 | Skin and subcutaneous tissue disorders               |                      |                                                                                                            | Sweet's syndrome (acute febrile neutrophilic dermatosis) 1,2 Cutaneous vasculitis 1,2                                                                                  | Stevens- Johnson syndrome      |
@@ -253,17 +257,17 @@ The data in the table below describe adverse reactions reported from clinical tr
 | General disorders and administration site conditions |                      | Injection site pain 1 Non-cardiac chest pain                                                               | Injection site reactions 2                                                                                                                                             |                                |
 | Investigations                                       |                      |                                                                                                            | Elevations in lactate dehydrogenase and alkaline phosphatase 1 Transient elevations in LFT's for ALT or AST 1                                                          |                                |
 
-1  See section 'Description of selected adverse reactions' below.
+<div style=\"page-break-after: always\"></div>
 
-2  This adverse reaction was identified through post-marketing surveillance but not observed in randomised, controlled clinical trials in adults. The frequency category was estimated from a statistical calculation based upon 1 576 patients receiving pegfilgrastim in nine randomised clinical trials.
+1 See section 'Description of selected adverse reactions' below.
+
+2 This adverse reaction was identified through post-marketing surveillance but not observed in randomised, controlled clinical trials in adults. The frequency category was estimated from a statistical calculation based upon 1 576 patients receiving pegfilgrastim in nine randomised clinical trials.
 
 ## Description of selected adverse reactions
 
 Uncommon cases of Sweet's syndrome have been reported, although in some cases underlying haematological malignancies may play a role.
 
 Uncommon events of cutaneous vasculitis have been reported in patients treated with pegfilgrastim. The mechanism of vasculitis in patients receiving pegfilgrastim is unknown.
-
-<div style=\"page-break-after: always\"></div>
 
 Injection site reactions, including injection site erythema (uncommon) as well as injection site pain (common) have occurred on initial or subsequent treatment with pegfilgrastim.
 
@@ -289,19 +293,19 @@ The experience in children and adolescents is limited. A higher frequency of ser
 
 Reporting suspected adverse reactions after authorisation of the medicinal product is important. It allows continued monitoring of the benefit/risk balance of the medicinal product. Healthcare professionals are asked to report any suspected adverse reactions via the national reporting system listed in Appendix V.
 
+<div style=\"page-break-after: always\"></div>
+
 ## 4.9 Overdose
 
 Single doses of 300 mcg/kg have been administered subcutaneously to a limited number of healthy volunteers and patients with non-small cell lung cancer without serious adverse reactions. The adverse events were similar to those in subjects receiving lower doses of pegfilgrastim .
 
 ## 5. PHARMACOLOGICAL PROPERTIES
 
-## 5.1 Pharmacodynamic properties
+## 5.1 Pharmacodynamic  properties
 
 Pharmacotherapeutic group: immunostimulants, colony stimulating factors; ATC Code: L03AA13
 
 Fulphila is a biosimilar medicinal product. Detailed information is available on the website of the European Medicines Agency http://www.ema.europa.eu.
-
-<div style=\"page-break-after: always\"></div>
 
 Human granulocyte-colony stimulating factor (G-CSF) is a glycoprotein, which regulates the production and release of neutrophils from the bone marrow. Pegfilgrastim is a covalent conjugate of recombinant human G-CSF (r-metHuG-CSF) with a single 20 kd polyethylene glycol (PEG) molecule. Pegfilgrastim is a sustained duration form of filgrastim due to decreased renal clearance. Pegfilgrastim and filgrastim have been shown to have identical modes of action, causing a marked increase in peripheral blood neutrophil counts within 24 hours, with minor increases in monocytes and/or lymphocytes. Similarly to filgrastim, neutrophils produced in response to pegfilgrastim show normal or enhanced function as demonstrated by tests of chemotactic and phagocytic function. As with other haematopoietic growth factors, G-CSF has shown in vitro stimulating properties on human endothelial cells. G-CSF can promote growth of myeloid cells, including malignant cells, in vitro and similar effects may be seen on some non-myeloid cells in vitro .
 
@@ -309,23 +313,23 @@ In two randomised, double-blind, pivotal studies in patients with high risk stag
 
 In a placebo-controlled, double-blind study in patients with breast cancer the effect of pegfilgrastim on the incidence of febrile neutropenia was evaluated following administration of a chemotherapy regimen associated with a febrile neutropenia rate of 10-20 % (docetaxel 100 mg/m² every 3 weeks for 4 cycles). Nine hundred and twenty-eight patients were randomised to receive either a single dose of pegfilgrastim or placebo approximately 24 hours (day 2) after chemotherapy in each cycle. The incidence of febrile neutropenia was lower for patients randomised to receive pegfilgrastim compared with placebo (1 % versus 17 %, p &lt; 0.001). The incidence of hospitalisations and IV anti-infective use associated with a clinical diagnosis of febrile neutropenia was lower in the pegfilgrastim group compared with placebo (1 % versus 14 %, p &lt; 0.001; and 2 % versus 10 %, p &lt; 0.001).
 
+<div style=\"page-break-after: always\"></div>
+
 A small (n = 83), phase II, randomised, double-blind study in patients receiving chemotherapy for de novo acute myeloid leukaemia compared pegfilgrastim (single dose of 6 mg) with filgrastim, administered during induction chemotherapy. Median time to recovery from severe neutropenia was estimated as 22 days in both treatment groups. Long-term outcome was not studied (see section 4.4).
 
 In a phase II (n = 37) multicentre, randomised, open-label study of paediatric sarcoma patients receiving 100 mcg/kg pegfilgrastim following cycle 1 of vincristine, doxorubicin and cyclophosphamide (VAdriaC/IE) chemotherapy, a longer duration of severe neutropenia (neutrophils &lt; 0.5 × 10 9 /L) was observed in younger children aged 0-5 years (8.9 days) compared to older children aged 6-11 years and 12-21 years (6 days and 3.7 days, respectively) and adults. Additionally a higher incidence of febrile neutropenia was observed in younger children aged 0-5 years (75 %) compared to older children aged 6-11 years and 12-21 years (70 % and 33 %, respectively) and adults (see sections 4.8 and 5.2).
 
-## 5.2 Pharmacokinetic properties
+## 5.2 Pharmacokinetic  properties
 
-After a single subcutaneous dose of pegfilgrastim, the peak serum concentration of pegfilgrastim occurs at 16 to 120 hours after dosing and serum concentrations of pegfilgrastim are maintained
-
-<div style=\"page-break-after: always\"></div>
-
-during the period of neutropenia after myelosuppressive chemotherapy. The elimination of pegfilgrastim is non-linear with respect to dose; serum clearance of pegfilgrastim decreases with increasing dose. Pegfilgrastim appears to be mainly eliminated by neutrophil-mediated clearance, which becomes saturated at higher doses. Consistent with a self-regulating clearance mechanism, the serum concentration of pegfilgrastim declines rapidly at the onset of neutrophil recovery (see figure 1).
+After a single subcutaneous dose of pegfilgrastim, the peak serum concentration of pegfilgrastim occurs at 16 to 120 hours after dosing and serum concentrations of pegfilgrastim are maintained during the period of neutropenia after myelosuppressive chemotherapy. The elimination of pegfilgrastim is non-linear with respect to dose; serum clearance of pegfilgrastim decreases with increasing dose. Pegfilgrastim appears to be mainly eliminated by neutrophil-mediated clearance, which becomes saturated at higher doses. Consistent with a self-regulating clearance mechanism, the serum concentration of pegfilgrastim declines rapidly at the onset of neutrophil recovery (see figure 1).
 
 Figure 1. Profile of median pegfilgrastim serum concentration and Absolute Neutrophil Count (ANC) in chemotherapy treated patients after a single 6 mg injection
 
 <!-- image -->
 
 Due to the neutrophil-mediated clearance mechanism, the pharmacokinetics of pegfilgrastim is not expected to be affected by renal or hepatic impairment. In an open label, single dose study (n = 31) various stages of renal impairment, including end-stage renal disease, had no impact on the pharmacokinetics of pegfilgrastim.
+
+<div style=\"page-break-after: always\"></div>
 
 ## Elderly
 
@@ -337,17 +341,17 @@ The pharmacokinetics of pegfilgrastim were studied in 37 paediatric patients wit
 
 ## 5.3 Preclinical safety data
 
-<div style=\"page-break-after: always\"></div>
-
 Preclinical data from conventional studies of repeated dose toxicity revealed the expected pharmacological effects including increases in leukocyte count, myeloid hyperplasia in bone marrow, extramedullary haematopoiesis and splenic enlargement.
 
 There were no adverse effects observed in offspring from pregnant rats given pegfilgrastim subcutaneously, but in rabbits pegfilgrastim has been shown to cause embryo/foetal toxicity (embryo loss) at cumulative doses approximately 4 times the recommended human dose, which were not seen when pregnant rabbits were exposed to the recommended human dose. In rat studies, it was shown that pegfilgrastim may cross the placenta. Studies in rats indicated that reproductive performance, fertility, oestrous cycling, days between pairing and coitus, and intrauterine survival were unaffected by pegfilgrastim given subcutaneously. The relevance of these findings for humans is not known.
 
-## 6. PHARMACEUTICAL PARTICULARS
+## 6. PHARMACEUTICAL  PARTICULARS
 
 ## 6.1 List of excipients
 
-Sodium acetate* Sorbitol (E420) Polysorbate 20 Water for injections *Sodium acetate is formed by titrating glacial acetic acid with sodium hydroxide.
+Sodium acetate* Sorbitol (E420) Polysorbate 20 Water for injections
+
+*Sodium acetate is formed by titrating glacial acetic acid with sodium hydroxide.
 
 ## 6.2 Incompatibilities
 
@@ -360,6 +364,8 @@ This medicinal product must not be mixed with other medicinal products, particul
 ## 6.4 Special precautions for storage
 
 Store in a refrigerator (2 °C - 8 °C).
+
+<div style=\"page-break-after: always\"></div>
 
 Fulphila may be exposed to room temperature (not above 30 °C) for a maximum single period of up to 72 hours. Fulphila left at room temperature for more than 72 hours should be discarded.
 
@@ -379,31 +385,29 @@ Before administration, Fulphila solution should be inspected visually for partic
 
 Excessive shaking may aggregate pegfilgrastim, rendering it biologically inactive.
 
-<div style=\"page-break-after: always\"></div>
-
 Allow the pre-filled syringe for manual administration to come to room temperature for 30 minutes before using the syringe.
 
 Any unused medicinal product or waste material should be disposed of in accordance with local requirements.
 
 ## 7. MARKETING AUTHORISATION HOLDER
 
-Biosimilar Collaborations Ireland Limited Unit 35/36 Grange Parade, Baldoyle Industrial Estate, Dublin 13 DUBLIN Ireland
-
-D13 R20R
+Biosimilar Collaborations Ireland Limited Unit 35/36 Grange Parade, Baldoyle Industrial Estate, Dublin 13 DUBLIN Ireland D13 R20R
 
 ## 8. MARKETING AUTHORISATION NUMBER(S)
 
-EU/1/18/1329/001
-
-EU/1/18/1329/002
+EU/1/18/1329/001 EU/1/18/1329/002
 
 ## 9. DATE OF FIRST AUTHORISATION/RENEWAL OF THE AUTHORISATION
 
 Date of first authorisation: 20 November 2018
 
-Date of latest renewal:
+Date of latest renewal: 11 September 2023
 
 ## 10. DATE OF REVISION OF THE TEXT
+
+13
+
+<div style=\"page-break-after: always\"></div>
 
 Detailed information on this medicinal product is available on the website of the European Medicines Agency http://www.ema.europa.eu.
 
@@ -412,21 +416,26 @@ Detailed information on this medicinal product is available on the website of th
 ## ANNEX II
 
 - A. MANUFACTURERS OF THE BIOLOGICAL ACTIVE SUBSTANCE AND MANUFACTURERS RESPONSIBLE FOR BATCH RELEASE
-- B. CONDITIONS OR RESTRICTIONS REGARDING SUPPLY AND USE
-- C. OTHER CONDITIONS AND REQUIREMENTS OF THE MARKETING AUTHORISATION
-- D. CONDITIONS OR RESTRICTIONS WITH REGARD TO THE SAFE AND EFFECTIVE USE OF THE MEDICINAL PRODUCT
+
+## B. CONDITIONS OR RESTRICTIONS REGARDING SUPPLY AND USE
+
+## C. OTHER CONDITIONS AND REQUIREMENTS OF THE MARKETING AUTHORISATION
+
+## D. CONDITIONS OR RESTRICTIONS WITH REGARD TO THE SAFE AND EFFECTIVE USE OF THE MEDICINAL PRODUCT
 
 <div style=\"page-break-after: always\"></div>
 
 ## A. MANUFACTURERS OF THE BIOLOGICAL ACTIVE SUBSTANCE AND MANUFACTURERS RESPONSIBLE FOR BATCH RELEASE
 
-Name and address of the manufacturers of the biological active substance
+## Name and address of the manufacturers of the biological active substance
 
-Biocon Biologics Limited Block No. M1, M2 and M6, Q1 (QC3 and QC10) and W3, 20th KM, Hosur Road, Electronics City, Bengaluru - 560 100, India
+Block No. M1, M2 and M6, Q1 (QC3 and QC10) and W3, 20th KM, Hosur Road,
+
+Biocon Biologics Limited Electronics City, Bengaluru - 560 100, India
 
 Biocon Biologics Limited Block No. B1, B2, B3, Q13 of Q1 and W20 &amp; Unit S18, 1st Floor, Block B4 Special Economic Zone Plot No: 2, 3, 4 &amp; 5, Phase - IV Bommasandra-Jigani Link Road, Bommasandra Post, Bengaluru - 560 099, India
 
-Name and address of the manufacturers responsible for batch release
+## Name and address of the manufacturers responsible for batch release
 
 Biosimilar Collaborations Ireland Limited Block B, The Crescent Building, Santry Demesne Dublin D09 C6X8 Ireland
 
@@ -446,13 +455,11 @@ The requirements for submission of PSURs for this medicinal product are set out 
 
 ## · Risk management plan (RMP)
 
-The marketing authorisation holder (MAH) shall perform the required pharmacovigilance activities
+The marketing authorisation holder (MAH) shall perform the required pharmacovigilance activities and interventions detailed in the agreed RMP presented in Module 1.8.2 of the marketing authorisation and any agreed subsequent updates of the RMP.
+
+An updated RMP should be submitted:
 
 <div style=\"page-break-after: always\"></div>
-
-and interventions detailed in the agreed RMP presented in Module 1.8.2 of the marketing authorisation and any agreed subsequent updates of the RMP.
-
-## An updated RMP should be submitted:
 
 - At the request of the European Medicines Agency;
 - Whenever the risk management system is modified, especially as the result of new information being received that may lead to a significant change to the benefit/risk profile or as the result of an important (pharmacovigilance or risk minimisation) milestone being reached.
@@ -465,7 +472,7 @@ and interventions detailed in the agreed RMP presented in Module 1.8.2 of the ma
 
 <div style=\"page-break-after: always\"></div>
 
-## A. LABELLING
+- A. LABELLING
 
 <div style=\"page-break-after: always\"></div>
 
@@ -497,25 +504,21 @@ Solution for injection
 
 Read the package leaflet before use.
 
-Important : read the package leaflet before handling the pre-filled syringe.
-
-For subcutaneous use.
-
-Avoid vigorous shaking.
+Important : read the package leaflet before handling the pre-filled syringe. For subcutaneous use. Avoid vigorous shaking.
 
 ## 6. SPECIAL WARNING THAT THE MEDICINAL PRODUCT MUST BE STORED OUT OF THE SIGHT AND REACH OF CHILDREN
 
 Keep out of the sight and reach of children.
 
-## 7. OTHER SPECIAL WARNING(S), IF NECESSARY
+## 7. OTHER SPECIAL WARNING(S), IF  NECESSARY
 
 ## 8. EXPIRY DATE
 
 EXP
 
-## 9. SPECIAL STORAGE CONDITIONS
-
 <div style=\"page-break-after: always\"></div>
+
+## 9. SPECIAL STORAGE CONDITIONS
 
 Store in a refrigerator.
 
@@ -523,27 +526,16 @@ Do not freeze.
 
 Keep the container in the outer carton in order to protect from light.
 
-10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
+| 10.   | SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE   |
+|-------|-----------------------------------------------------------------------------------------------------------------------------------------|
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
-Biosimilar Collaborations Ireland Limited
+Biosimilar Collaborations Ireland Limited Unit 35/36 Grange Parade, Baldoyle Industrial Estate, Dublin 13 DUBLIN
 
-Unit 35/36
+Ireland D13 R20R
 
-Grange Parade,
-
-Baldoyle Industrial Estate,
-
-Dublin 13
-
-DUBLIN
-
-Ireland
-
-D13 R20R
-
-## 12. MARKETING AUTHORISATION NUMBER(S)
+12. MARKETING AUTHORISATION NUMBER(S)
 
 EU/1/18/1329/001
 
@@ -553,7 +545,8 @@ EU/1/18/1329/002
 
 Lot
 
-## 14. GENERAL CLASSIFICATION FOR SUPPLY
+| 14.   | GENERAL CLASSIFICATION FOR SUPPLY   |
+|-------|-------------------------------------|
 
 15. INSTRUCTIONS ON USE
 
@@ -561,25 +554,25 @@ Lot
 
 Fulphila
 
-## 17. UNIQUE IDENTIFIER - 2D BARCODE
+| 17.   | UNIQUE IDENTIFIER - 2D BARCODE   |
+|-------|----------------------------------|
 
 2D barcode carrying the unique identifier included.
 
 <div style=\"page-break-after: always\"></div>
 
-| 18.   | UNIQUE IDENTIFIER - HUMANREADABLE DATA   |
-|-------|------------------------------------------|
+| 18.   | UNIQUE IDENTIFIER - HUMAN READABLE DATA   |
+|-------|-------------------------------------------|
 
 PC SN NN
 
 <div style=\"page-break-after: always\"></div>
 
-| MINIMUM PARTICULARS TO APPEAR ON BLISTERS OR STRIPS   |
-|-------------------------------------------------------|
-| BLISTER WITH SYRINGE                                  |
+## MINIMUM PARTICULARS TO APPEAR ON BLISTERS OR STRIPS
 
-| 1.   | NAME OF THE MEDICINAL PRODUCT   |
-|------|---------------------------------|
+BLISTER WITH SYRINGE
+
+## 1. NAME OF THE MEDICINAL PRODUCT
 
 Fulphila 6 mg solution for injection pegfilgrastim
 
@@ -587,18 +580,15 @@ Fulphila 6 mg solution for injection pegfilgrastim
 
 Biosimilar Collaborations Ireland Limited
 
-| 3.   | EXPIRY DATE   |
-|------|---------------|
+## 3. EXPIRY DATE
 
 EXP
 
-| 4.   | BATCH NUMBER   |
-|------|----------------|
+## 4. BATCH NUMBER
 
 Lot
 
-| 5.   | OTHER   |
-|------|---------|
+## 5. OTHER
 
 Subcutaneous use
 
@@ -619,8 +609,8 @@ handle syringe as pictured
 
 Fulphila 6 mg injection pegfilgrastim SC
 
-| 2.   | METHOD OF ADMINISTRATION   |
-|------|----------------------------|
+| 2.   | METHODOFADMINISTRATION   |
+|------|--------------------------|
 
 | 3.   | EXPIRY DATE   |
 |------|---------------|
@@ -632,25 +622,27 @@ EXP
 
 Lot
 
-| 5.   | CONTENTS BY WEIGHT, BY VOLUME OR BY UNIT   |
-|------|--------------------------------------------|
+| 5.   | CONTENTS BY WEIGHT, BYVOLUMEORBYUNIT   |
+|------|----------------------------------------|
 
 0.6 mL
 
 | 6.   | OTHER   |
 |------|---------|
 
-<div style=\"page-break-after: always\"></div>
-
-## B. PACKAGE LEAFLET
+24
 
 <div style=\"page-break-after: always\"></div>
+
+- B. PACKAGE LEAFLET
 
 ## Package leaflet: Information for the user
 
-## Fulphila 6 mg solution for injection pegfilgrastim
+<div style=\"page-break-after: always\"></div>
 
-## in pre-filled syringe
+## Fulphila 6 mg solution for injection in pre-filled syringe
+
+## pegfilgrastim
 
 ## Read all of this leaflet carefully before you start using this medicine because it contains important information for you.
 
@@ -684,13 +676,16 @@ Fulphila is for use in adults aged 18 and over.
 
 - -if you are allergic to pegfilgrastim, filgrastim or any of the other ingredients of this medicine (listed in section 6).
 
-<div style=\"page-break-after: always\"></div>
-
 ## Warnings and precautions
 
 Talk to your doctor, pharmacist or nurse before using Fulphila:
 
-- -if you experience an allergic reaction including weakness, drop in blood pressure, difficulty breathing, swelling of the face (anaphylaxis), redness and flushing, skin rash and areas of the skin that itch.
+- -if you experience an allergic reaction including weakness, drop in blood pressure, difficulty
+
+<div style=\"page-break-after: always\"></div>
+
+breathing, swelling of the face (anaphylaxis), redness and flushing, skin rash and areas of the skin that itch.
+
 - -if you experience a cough, fever and difficulty breathing. This can be a sign of Acute Respiratory Distress Syndrome (ARDS).
 - -if you have any of the following or combination of the following side effects:
 - swelling or puffiness, which may be associated with passing water less frequently, difficulty breathing, abdominal swelling and feeling of fullness, and a general feeling of tiredness.
@@ -721,9 +716,11 @@ Fulphila is not recommended for use in children and adolescents due to insuffici
 
 ## Other medicines and Fulphila
 
-Tell your doctor or pharmacist if you are taking, have recently taken or might take any other medicines.
+Tell your doctor or pharmacist if you are taking, have recently taken or might take any other
 
 <div style=\"page-break-after: always\"></div>
+
+medicines.
 
 ## Pregnancy and breast-feeding
 
@@ -771,11 +768,11 @@ If you have any further questions on the use of this medicine, ask your doctor, 
 
 ## 4. Possible side effects
 
+<div style=\"page-break-after: always\"></div>
+
 Like all medicines, this medicine can cause side effects, although not everybody gets them.
 
 Please tell your doctor immediately if you have any of the following or combination of the following side effects:
-
-<div style=\"page-break-after: always\"></div>
 
 - -swelling or puffiness, which may be associated with passing water less frequently, difficulty breathing, abdominal swelling and feeling of fullness, and a general feeling of tiredness. These symptoms generally develop in a rapid fashion.
 
@@ -814,11 +811,11 @@ These could be symptoms of an uncommon (may affect up to 1 in 100 people) condit
 - -bleeding from the lung (pulmonary haemorrhage).
 - -Stevens-Johnson syndrome, which can appear as reddish target-like or circular patches often with central blisters on the trunk, skin peeling, ulcers of mouth, throat, nose, genitals and eyes and can be preceded by fever and flu-like symptoms. Stop using Fulphila if you develop these symptoms and contact your doctor or seek medical attention immediately. See also section 2.
 
+<div style=\"page-break-after: always\"></div>
+
 ## Reporting of side effects
 
 If you get any side effects, talk to your doctor, pharmacist or nurse. This includes any possible side effects not listed in this leaflet. You can also report side effects directly via the national reporting system listed in Appendix V. By reporting side effects you can help provide more information on the safety of this medicine.
-
-<div style=\"page-break-after: always\"></div>
 
 ## 5. How to store Fulphila
 
@@ -843,7 +840,9 @@ Do not throw away any medicines via wastewater or household waste. Ask your phar
 ## What Fulphila contains
 
 - -The active substance is pegfilgrastim. Each pre-filled syringe contains 6 mg of pegfilgrastim in 0.6 mL of solution.
-- -The other ingredients are sodium acetate, sorbitol (E420), polysorbate 20 and water for injections. See section 2 'Fulphila contains sorbitol and sodium'.
+- -The other ingredients are sodium acetate, sorbitol (E420), polysorbate 20 and water for injections.
+
+See section 2 'Fulphila contains sorbitol and sodium'.
 
 ## What Fulphila looks like and contents of the pack
 
@@ -855,9 +854,9 @@ Biosimilar Collaborations Ireland Limited Unit 35/36 Grange Parade, Baldoyle Ind
 
 ## Manufacturer
 
-Biosimilar Collaborations Ireland Limited Block B, The Crescent Building, Santry Demesne Dublin D09 C6X8 Ireland
-
 <div style=\"page-break-after: always\"></div>
+
+Biosimilar Collaborations Ireland Limited Block B, The Crescent Building, Santry Demesne Dublin D09 C6X8 Ireland
 
 For any information about this medicine, please contact the local representative of the Marketing Authorisation Holder:
 
@@ -867,7 +866,7 @@ Biocon Biologics Belgium BV Tél/Tel: 0080008250910
 
 ## България
 
-Biosimilar Collaborations Ireland Limited Teл.: 0080008250910
+Biosimilar Collaborations Ireland Limited Тел : 0080008250910
 
 ## Česká republika
 
@@ -887,7 +886,7 @@ Biosimilar Collaborations Ireland Limited Tel: 0080008250910
 
 ## Ελλάδα
 
-Biocon Biologics Greece ΜΟΝΟΠΡΟΣΩΠΗ Ι.Κ.Ε Τηλ: 0080008250910
+Biocon Biologics Greece ΜΟΝΟΠΡΟΣΩΠΗ Ι . Κ . Ε Τηλ.: 0080008250910
 
 ## España
 
@@ -895,7 +894,7 @@ Biocon Biologics Spain S.L. Tel: 0080008250910
 
 ## France
 
-Biocon Biologics France S.A.S Tél: +Teél: 0080008250910
+Biocon Biologics France S.A.S Tel: 0080008250910
 
 ## Hrvatska
 
@@ -907,31 +906,25 @@ Biosimilar Collaborations Ireland Limited Tel: 1800 777 794
 
 ## Ísland
 
-Biocon Biologics Finland OY Sími: +345 8004316
-
-## Italia
-
-Biocon Biologics Spain S.L. Tel: 0080008250910
-
 ## Lietuva
 
 Biosimilar Collaborations Ireland Limited Tel: 0080008250910
 
 ## Luxembourg/Luxemburg
 
-Biocon Biologics France S.A.S Tél/Tel: 0080008250910
+Biosimilar Collaborations Ireland Limited Tél/Tel: 0080008250910
 
 ## Magyarország
 
-Biosimilar Collaborations Ireland Limited Tel: 0080008250910
+Biosimilar Collaborations Ireland Limited Tel.: 0080008250910
 
 ## Malta
 
-Biosimilar Collaborations Ireland Limited Tel: 0080008250910
+Biosimilar Collaborations Ireland Limited Tel.: 0080008250910
 
 ## Nederland
 
-Biocon Biologics France S.A.S. Tel: 0080008250910
+Biosimilar Collaborations Ireland Limited Tel: 0080008250910
 
 ## Norge
 
@@ -943,11 +936,11 @@ Biocon Biologics Germany GmbH Tel: 0080008250910
 
 ## Polska
 
-Biosimilar Collaborations Ireland Limited Tel:.: 0080008250910
+Biosimilar Collaborations Ireland Limited Tel: 0080008250910
 
 ## Portugal
 
-Biocon Biologics Spain S.L.. Tel: 0080008250910
+Biocon Biologics Spain S.L. Tel: 0080008250910
 
 ## România
 
@@ -959,31 +952,43 @@ Biosimilar Collaborations Ireland Limited Tel: 0080008250910
 
 ## Slovenská republika
 
-Biocon Biologics Germany GmbH Tel: 0080008250910
+Biocon Biologics Finland OY
 
-## Suomi/Finland
-
-Biocon Biologics Finland OY Puh/Tel: 99980008250910
+Sími: +345 800 4316
 
 <div style=\"page-break-after: always\"></div>
 
+## Italia
+
+Biocon Biologics Spain S.L .
+
+Tel: 0080008250910
+
 ## Κύπρος
 
-Biosimilar Collaborations Ireland Limited Τηλ: 0080008250910
+Biosimilar Collaborations Ireland Limited Τηλ : 0080008250910
 
 ## Latvija
 
-Biosimilar Collaborations Ireland Limited Tel: 0080008250910
+Biosimilar Collaborations Ireland Limited
 
-This leaflet was last revised in { MM/YYYY }.
+Tel: 0080008250910
+
+## This leaflet was last revised in { MM/YYYY }.
 
 ## Other sources of information
 
-Detailed information on this medicine is available on the European Medicines Agency web site:
+Detailed information on this medicine is available on the European Medicines Agency web site: http://www.ema.europa.eu
 
-http://www.ema.europa.eu
+Biocon Biologics Germany GmbH
 
-------------------------------------------------------------------------------------------------------------------------
+Tel: 0080008250910
+
+## Suomi/Finland
+
+Biocon Biologics Finland OY
+
+Puh/Tel: 99980008250910
 
 ## Sverige
 
@@ -1059,15 +1064,15 @@ Only use each syringe for one injection. If you have any problems, please ask yo
 
 - Do not put the cap back on used needles.
 - Keep used syringes out of the sight and reach of children.
-- The used syringe should be disposed of in accordance with local requirements. Ask your pharmacist how to dispose of medicines no longer required. These measures will help to protect the environment.
-
-<div style=\"page-break-after: always\"></div>
+- The  used  syringe  should  be  disposed  of  in  accordance  with  local  requirements.  Ask  your pharmacist how to dispose of medicines no longer required. These measures will help to protect the environment.
 
 ## Package leaflet: Information for the user
 
-## Fulphila 6 mg solution for injection pegfilgrastim
+<div style=\"page-break-after: always\"></div>
 
-## in pre-filled syringe
+## Fulphila 6 mg solution for injection in pre-filled syringe
+
+## pegfilgrastim
 
 ## Read all of this leaflet carefully before you start using this medicine because it contains important information for you.
 
@@ -1101,13 +1106,16 @@ Fulphila is for use in adults aged 18 and over.
 
 - -if you are allergic to pegfilgrastim, filgrastim or any of the other ingredients of this medicine (listed in section 6).
 
-<div style=\"page-break-after: always\"></div>
-
 ## Warnings and precautions
 
 Talk to your doctor, pharmacist or nurse before using Fulphila:
 
-- -if you experience an allergic reaction including weakness, drop in blood pressure, difficulty breathing, swelling of the face (anaphylaxis), redness and flushing, skin rash and areas of the skin that itch.
+- -if you experience an allergic reaction including weakness, drop in blood pressure, difficulty breathing, swelling of the face (anaphylaxis), redness and flushing, skin rash and areas of the
+
+<div style=\"page-break-after: always\"></div>
+
+skin that itch.
+
 - -if you experience a cough, fever and difficulty breathing. This can be a sign of Acute Respiratory Distress Syndrome (ARDS).
 - -if you have any of the following or combination of the following side effects:
 - swelling or puffiness, which may be associated with passing water less frequently, difficulty breathing, abdominal swelling and feeling of fullness, and a general feeling of tiredness.
@@ -1118,9 +1126,14 @@ These could be symptoms of condition called 'Capillary Leak Syndrome' which caus
 - -if you have recently had a serious lung infection (pneumonia), fluid in the lungs (pulmonary oedema), inflammation of the lungs (interstitial lung disease) or an abnormal chest x-ray (lung infiltration).
 - -if you are aware of any altered blood cell counts (e.g. increase in white blood cells or anaemia) or decreased blood platelet counts, which reduces the ability of your blood to clot (thrombocytopenia). Your doctor may want to monitor you more closely.
 - -if you have sickle cell anaemia. Your doctor may monitor your condition more closely.
-- -if you are a patient with breast cancer or lung cancer, Fulphila in combination with chemotherapy and/or radiation therapy may increase your risk of a precancerous blood condition called myelodysplastic syndrome (MDS) or a blood cancer called acute myeloid leukaemia (AML). Symptoms may include tiredness, fever, and easy bruising or bleeding.
+- -if you are a patient with breast cancer or lung cancer, Fulphila in combination with chemotherapy and/or radiation therapy may increase your risk of a precancerous blood condition called myelodysplastic syndrome (MDS) or a blood cancer called acute myeloid leukaemia (AML).
+
+Symptoms may include tiredness, fever, and easy bruising or bleeding.
+
 - -if you have sudden signs of allergy such as rash, itching or hives on the skin, swelling of the face, lips, tongue or other parts of the body, shortness of breath, wheezing or trouble breathing, these could be signs of a severe allergic reaction.
-- -if you have symptoms of inflammation of the aorta (the large blood vessel which transports blood from the heart to the body); this has been reported rarely in cancer patients and healthy donors. The symptoms can include fever, abdominal pain, malaise, back pain and increased inflammatory markers. Tell your doctor if you experience these symptoms.
+- -if you have symptoms of inflammation of the aorta (the large blood vessel which transports blood from the heart to the body); this has been reported rarely in cancer patients and healthy donors.
+
+The symptoms can include fever, abdominal pain, malaise, back pain and increased inflammatory markers. Tell your doctor if you experience these symptoms.
 
 Your doctor will check your blood and urine regularly as Fulphila can harm the tiny filters inside your kidneys (glomerulonephritis).
 
@@ -1136,11 +1149,11 @@ If you experience a loss of response or failure to maintain a response with pegf
 
 Fulphila is not recommended for use in children and adolescents due to insufficient data on safety and effectiveness.
 
+<div style=\"page-break-after: always\"></div>
+
 ## Other medicines and Fulphila
 
 Tell your doctor or pharmacist if you are taking, have recently taken or might take any other medicines.
-
-<div style=\"page-break-after: always\"></div>
 
 ## Pregnancy and breast-feeding
 
@@ -1184,13 +1197,13 @@ If you have forgotten a dose of Fulphila, you should contact your doctor to disc
 
 If you have any further questions on the use of this medicine, ask your doctor, pharmacist or nurse.
 
+<div style=\"page-break-after: always\"></div>
+
 ## 4. Possible side effects
 
 Like all medicines, this medicine can cause side effects, although not everybody gets them.
 
 Please tell your doctor immediately if you have any of the following or combination of the following side effects:
-
-<div style=\"page-break-after: always\"></div>
 
 - -swelling or puffiness, which may be associated with passing water less frequently, difficulty breathing, abdominal swelling and feeling of fullness, and a general feeling of tiredness. These symptoms generally develop in a rapid fashion.
 
@@ -1227,13 +1240,15 @@ These could be symptoms of an uncommon (may affect up to 1 in 100 people) condit
 
 - -inflammation of the aorta (the large blood vessel which transports blood from the heart to the body), see section 2.
 - -bleeding from the lung (pulmonary haemorrhage).
-- -Stevens-Johnson syndrome, which can appear as reddish target-like or circular patches often with central blisters on the trunk, skin peeling, ulcers of mouth, throat, nose, genitals and eyes and can be preceded by fever and flu-like symptoms. Stop using Fulphila if you develop these symptoms and contact your doctor or seek medical attention immediately. See also section 2.
+- -Stevens-Johnson syndrome, which can appear as reddish target-like or circular patches often with central blisters on the trunk, skin peeling, ulcers of mouth, throat, nose, genitals and eyes and can be preceded by fever and flu-like symptoms. Stop using Fulphila if you develop these
+
+<div style=\"page-break-after: always\"></div>
+
+symptoms and contact your doctor or seek medical attention immediately. See also section 2.
 
 ## Reporting of side effects
 
 If you get any side effects, talk to your doctor, pharmacist or nurse. This includes any possible side effects not listed in this leaflet. You can also report side effects directly via the national reporting system listed in Appendix V. By reporting side effects you can help provide more information on the safety of this medicine.
-
-<div style=\"page-break-after: always\"></div>
 
 ## 5. How to store Fulphila
 
@@ -1258,23 +1273,25 @@ Do not throw away any medicines via wastewater or household waste. Ask your phar
 ## What Fulphila contains
 
 - -The active substance is pegfilgrastim. Each pre-filled syringe contains 6 mg of pegfilgrastim in 0.6 mL of solution.
-- -The other ingredients are sodium acetate, sorbitol (E420), polysorbate 20 and water for injections. See section 2 'Fulphila contains sorbitol and sodium'.
+- -The other ingredients are sodium acetate, sorbitol (E420), polysorbate 20 and water for injections.
+
+See section 2 'Fulphila contains sorbitol and sodium'.
 
 ## What Fulphila looks like and contents of the pack
 
-Fulphila is a clear, colourless solution for injection (injection) in a glass pre-filled syringe with an attached stainless steel needle and needle cap. The syringe is provided with a blister wrapping, the syringe is provided with an automatic needle guard.
-
-Each pack contains 1 glass pre-filled syringe
+Fulphila is a clear, colourless solution for injection (injection) in a glass pre-filled syringe with an attached stainless steel needle and needle cap. The syringe is provided with a blister wrapping, the syringe is provided with an automatic needle guard. Each pack contains 1 glass pre-filled syringe
 
 ## Marketing Authorisation Holder
 
-Biosimilar Collaborations Ireland Limited Unit 35/36 Grange Parade, Baldoyle Industrial Estate, Dublin 13 DUBLIN Ireland D13 R20R
+Biosimilar Collaborations Ireland Limited Unit 35/36 Grange Parade, Baldoyle Industrial Estate, Dublin 13 DUBLIN
+
+<div style=\"page-break-after: always\"></div>
+
+## Ireland D13 R20R
 
 ## Manufacturer
 
 Biosimilar Collaborations Ireland Limited Block B, The Crescent Building, Santry Demesne Dublin D09 C6X8 Ireland
-
-<div style=\"page-break-after: always\"></div>
 
 For any information about this medicine, please contact the local representative of the Marketing Authorisation Holder:
 
@@ -1284,7 +1301,7 @@ Biocon Biologics Belgium BV Tél/Tel: 0080008250910
 
 ## България
 
-Biosimilar Collaborations Ireland Limited Teл.: 0080008250910
+Biosimilar Collaborations Ireland Limited Тел : 0080008250910
 
 ## Česká republika
 
@@ -1304,7 +1321,7 @@ Biosimilar Collaborations Ireland Limited Tel: 0080008250910
 
 ## Ελλάδα
 
-Biocon Biologics Greece ΜΟΝΟΠΡΟΣΩΠΗ Ι.Κ.Ε Τηλ: 0080008250910
+Biocon Biologics Greece ΜΟΝΟΠΡΟΣΩΠΗ Ι . Κ . Ε Τηλ.: 0080008250910
 
 ## España
 
@@ -1312,7 +1329,7 @@ Biocon Biologics Spain S.L. Tel: 0080008250910
 
 ## France
 
-Biocon Biologics France S.A.S Tél: +Teél: 0080008250910
+Biocon Biologics France S.A.S Tel: 0080008250910
 
 ## Hrvatska
 
@@ -1320,11 +1337,7 @@ Biocon Biologics Germany GmbH Tel: 0080008250910
 
 ## Ireland
 
-Biosimilar Collaborations Ireland Limited Tel: 1800 777 794
-
-## Ísland
-
-Biocon Biologics Finland OY Sími: +345 8004316
+Biosimilar Collaborations Ireland Limited
 
 ## Lietuva
 
@@ -1332,19 +1345,19 @@ Biosimilar Collaborations Ireland Limited Tel: 0080008250910
 
 ## Luxembourg/Luxemburg
 
-Biocon Biologics France S.A.S Tél/Tel: 0080008250910
+Biosimilar Collaborations Ireland Limited Tél/Tel: 0080008250910
 
 ## Magyarország
 
-Biosimilar Collaborations Ireland Limited Tel: 0080008250910
+Biosimilar Collaborations Ireland Limited Tel.: 0080008250910
 
 ## Malta
 
-Biosimilar Collaborations Ireland Limited Tel: 0080008250910
+Biosimilar Collaborations Ireland Limited Tel.: 0080008250910
 
 ## Nederland
 
-Biocon Biologics France S.A.S. Tel: 0080008250910
+Biosimilar Collaborations Ireland Limited Tel: 0080008250910
 
 ## Norge
 
@@ -1356,11 +1369,11 @@ Biocon Biologics Germany GmbH Tel: 0080008250910
 
 ## Polska
 
-Biosimilar Collaborations Ireland Limited Tel:.: 0080008250910
+Biosimilar Collaborations Ireland Limited Tel: 0080008250910
 
 ## Portugal
 
-Biocon Biologics Spain S.L.. Tel: 0080008250910
+Biocon Biologics Spain S.L. Tel: 0080008250910
 
 ## România
 
@@ -1368,39 +1381,39 @@ Biosimilar Collaborations Ireland Limited Tel: 0080008250910
 
 ## Slovenija
 
-Biosimilar Collaborations Ireland Limited Tel: 0080008250910
-
-## Slovenská republika
-
-Biocon Biologics Germany GmbH Tel: 0080008250910
-
-<div style=\"page-break-after: always\"></div>
-
-## Italia
-
-Biocon Biologics Spain S.L. Tel: 0080008250910
-
-## Κύπρος
-
-Biosimilar Collaborations Ireland Limited Τηλ: 0080008250910
-
-## Latvija
-
 Biosimilar Collaborations Ireland Limited
+
+Tel: 1800 777 794
 
 Tel: 0080008250910
 
-## This leaflet was last revised in {MM/YYYY}.
+## Ísland
 
-## Other sources of information
+Biocon Biologics Finland OY
 
-Detailed information on this medicine is available on the European Medicines Agency web site: http://www.ema.europa.eu
+Sími: +345 800 4316
 
-------------------------------------------------------------------------------------------------------------------------
+## Slovenská republika
+
+Biocon Biologics Germany GmbH
+
+Tel: 0080008250910
+
+## Italia
+
+Biocon Biologics Spain S.L .
+
+Tel: 0080008250910
 
 ## Suomi/Finland
 
-Biocon Biologics Finland OY Puh/Tel: 99980008250910
+Biocon Biologics Finland OY
+
+Puh/Tel: 99980008250910
+
+## Κύπρος
+
+Biosimilar Collaborations Ireland Limited Τηλ : 0080008250910
 
 ## Sverige
 
@@ -1408,13 +1421,23 @@ Biocon Biologics Finland OY
 
 Tel: 0080008250910
 
+## Latvija
+
+Biosimilar Collaborations Ireland Limited
+
+Tel: 0080008250910
+
 <div style=\"page-break-after: always\"></div>
 
-Instructions for use:
+## This leaflet was last revised in { MM/YYYY }.
+
+## Other sources of information
+
+Detailed information on this medicine is available on the European Medicines Agency web site: http://www.ema.europa.eu
+
+<div style=\"page-break-after: always\"></div>
 
 <!-- image -->
-
-<div style=\"page-break-after: always\"></div>
 
 ## Important
 
@@ -1422,10 +1445,10 @@ Instructions for use:
 
 - It is important that you do not try to give yourself the injection unless you have received training from your doctor or healthcare provider.
 - Fulphila is given as an injection into the tissue just under the skin (subcutaneous injection).
-- Χ Do not remove the grey needle cap from the pre-filled syringe until you are ready to inject.
-- Χ Do not use the pre-filled syringe if it has been dropped on a hard surface. Use a new pre-filled syringe and call your doctor or healthcare provider.
-- Χ Do not attempt to activate the pre-filled syringe prior to injection.
-- Χ Do not attempt to remove the clear pre-filled syringe safety guard from the pre-filled syringe.
+- Do not remove the grey needle cap from the pre-filled syringe until you are ready to inject.
+- Do not use the pre-filled syringe if it has been dropped on a hard surface. Use a new pre-filled syringe and call your doctor or healthcare provider.
+- Do not attempt to activate the pre-filled syringe prior to injection.
+- Do not attempt to remove the clear pre-filled syringe safety guard from the pre-filled syringe.
 
 Call your doctor or healthcare provider if you have any questions.
 
@@ -1437,33 +1460,32 @@ For a more comfortable injection, leave the pre-filled syringe at room temperatu
 
 On a clean, well-lit work surface, place the new pre-filled syringe and the other supplies.
 
-- Χ Do not try to warm the syringe by using a heat source such as hot water or microwave.
-- Χ Do not leave the pre-filled syringe exposed to direct sunlight.
-- Χ Do not shake the pre-filled syringe.
+- Do not try to warm the syringe by using a heat source such as hot water or microwave.
+- Do not leave the pre-filled syringe exposed to direct sunlight.
+- Do not shake the pre-filled syringe.
 - Keep pre-filled syringes out of the sight and reach of children.
 - B. Open the tray, peeling away the cover. Grab the pre-filled syringe safety guard to remove the pre-filled syringe from the tray.
 
-<!-- image -->
-
-For safety reasons:
-
-- Χ Do not grasp the plunger.
-- Χ Do not grasp the grey needle cap.
-
-<!-- image -->
-
 <div style=\"page-break-after: always\"></div>
 
+<!-- image -->
+
+## For safety reasons:
+
+- Do not grasp the plunger.
+- Do not grasp the grey needle cap.
+- C. Inspect the medicine and pre-filled syringe.
+- Do not use the pre-filled syringe if:
 - The medicine is cloudy or there are particles in it. It must be a clear and colourless liquid.
 - Any part appears cracked or broken.
 - The grey needle cap is missing or not securely attached.
-- The expiry date printed on the label has passed the last day of the month shown.
+- The expiry date printed on the label has passed the last day of the month shown. In all cases, call your doctor or healthcare provider.
 
-In all cases, call your doctor or healthcare provider.
+<!-- image -->
 
 ## Step 2: Get ready
 
-## A. Wash your hands thoroughly. Prepare and clean your injection site.
+- A. Wash your hands thoroughly. Prepare and clean your injection site.
 
 <!-- image -->
 
@@ -1472,10 +1494,8 @@ In all cases, call your doctor or healthcare provider.
 - Upper part of your thigh
 - Belly, except for a 5 cm (2-inch) area right around your belly button.
 - Outer area of upper arm (only if someone else is giving you the injection).
-
-Clean the injection site with an alcohol wipe. Let your skin dry.
-
-Χ
+- Clean the injection site with an alcohol wipe. Let your skin dry.
+- 
 
 <!-- image -->
 
@@ -1483,29 +1503,17 @@ Do not touch the injection site before injecting.
 
 Do not inject into areas where the skin is tender, bruised, red, or hard. Avoid injecting into areas with scars or stretch marks.
 
-## B Carefully pull the grey needle cap straight out and away from your body.
-
-<!-- image -->
-
-- C Pinch your injection site to create a firm surface.
+- B Carefully pull the grey needle cap straight out and away from your body.
 
 <div style=\"page-break-after: always\"></div>
 
 <!-- image -->
 
-<!-- image -->
-
-<!-- image -->
-
 <div style=\"page-break-after: always\"></div>
 
-## C RELEASE your thumb. Then LIFT the syringe off skin.
-
 <!-- image -->
 
-After releasing the plunger, the pre-filled syringe safety guard will safely cover the injection needle.
-
-- Χ Do not put the grey needle cap back on used pre-filled syringes.
+After releasing the plunger, the pre-filled syringe safety guard will safely cover the injection needle.  Do not put the grey needle cap back on used pre-filled syringes.
 
 ## Healthcare professionals only
 
@@ -1513,16 +1521,16 @@ The trade name of the administered product should be clearly recorded in the pat
 
 ## Step 4: Finish
 
-- A Discard the used pre-filled syringe and other supplies in a sharps disposal container.
+Discard the used pre-filled syringe and other supplies in a sharps disposal container.
+
+A
 
 <!-- image -->
 
-Medicines should be disposed of in accordance with local requirements. Ask your pharmacist how to dispose of medicines no longer required. These measures will help to protect the environment.
+Medicines should be disposed of in accordance with local requirements. Ask your pharmacist how to dispose of medicines no longer required. These measures will help to protect the environment. Keep the syringe and sharps disposal container out of sight and reach of children.
 
-Keep the syringe and sharps disposal container out of sight and reach of children.
-
-- Χ Do not reuse the pre-filled syringe.
-- Χ Do not recycle pre-filled syringes or throw them into household waste.
+-  Do not reuse the pre-filled syringe.
+-  Do not recycle pre-filled syringes or throw them into household waste.
 
 ## B Examine the injection site.
 

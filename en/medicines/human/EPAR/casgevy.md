@@ -1,20 +1,20 @@
 ---
-document_datetime: 2025-12-29 12:21:03
+document_datetime: 2026-02-19 17:15:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/casgevy.html
 document_name: casgevy.html
 version: success
-processing_time: 0.1077038
-conversion_datetime: 2025-12-30 01:35:11.50667
+processing_time: 0.0982
+conversion_datetime: 2026-02-21 12:18:41.056644
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.66.0
-  docling-core: 2.57.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.13.0
+  docling-jobkit: 1.11.0
+  docling: 2.74.0
+  docling-core: 2.65.1
+  docling-ibm-models: 3.11.0
+  docling-parse: 5.3.2
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.3-arm64-arm-64bit-Mach-O
 ---
 # Casgevy
 
@@ -25,8 +25,6 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 exagamglogene autotemcel Medicine Human Authorised
-
-On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -122,7 +120,7 @@ English (EN) (119.25 KB - PDF)
 
 [View](/en/documents/overview/casgevy-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-884)
+[Other languages (22)](#file-language-dropdown-928)
 
 български (BG) (136.14 KB - PDF)
 
@@ -302,9 +300,11 @@ svenska (SV) (106.86 KB - PDF)
 
 Casgevy : EPAR - Risk management plan
 
-English (EN) (4.04 MB - PDF)
+English (EN) (15.72 MB - PDF)
 
 **First published:** 28/02/2024
+
+**Last updated:** 19/02/2026
 
 [View](/en/documents/rmp/casgevy-epar-risk-management-plan_en.pdf)
 
@@ -320,7 +320,7 @@ English (EN) (961.79 KB - PDF)
 
 [View](/en/documents/product-information/casgevy-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-118)
+[Other languages (24)](#file-language-dropdown-742)
 
 български (BG) (1.12 MB - PDF)
 
@@ -610,7 +610,7 @@ svenska (SV) (995.04 KB - PDF)
 
 [View](/sv/documents/product-information/casgevy-epar-product-information_sv.pdf)
 
-**Latest procedure affecting product information:** VR/0000258214 24/07/2025
+**Latest procedure affecting product information:** R/0000290395 10/02/2026
 
 icon globe
 
@@ -634,7 +634,7 @@ English (EN) (69.75 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/casgevy-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-33)
+[Other languages (24)](#file-language-dropdown-247)
 
 български (BG) (81.42 KB - PDF)
 
@@ -881,7 +881,7 @@ Vertex Pharmaceuticals (Ireland) Limited
 
 Unit 49, Block 5 Northwood Court Northwood Crescent Dublin 9 D09 T665 Ireland
 
-Opinion adopted 14/12/2023 Marketing authorisation issued 09/02/2024 Revision 5
+Opinion adopted 14/12/2023 Marketing authorisation issued 09/02/2024 Revision 6
 
 ## Assessment history
 
@@ -893,9 +893,11 @@ Collapse section
 
 Casgevy : EPAR - Procedural steps taken and scientific information after authorisation
 
-English (EN) (163.16 KB - PDF)
+English (EN) (193.54 KB - PDF)
 
 **First published:** 03/09/2025
+
+**Last updated:** 19/02/2026
 
 [View](/en/documents/procedural-steps-after/casgevy-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf)
 
@@ -955,10 +957,10 @@ English (EN) (169.71 KB - PDF)
 
 - [EU/3/19/2210 - orphan designation for treatment of beta thalassaemia intermedia and major](/en/medicines/human/orphan-designations/eu-3-19-2210)
 - [EU/3/19/2242 - orphan designation for treatment of sickle cell disease](/en/medicines/human/orphan-designations/eu-3-19-2242)
-- [Healthcare Professional (HCP) Survey to Assess the Effectiveness of the Additional Risk Minimization Measures (aRMM) for Casgevy® (exagamglogene autotemcel) - post-authorisation study](https://catalogues.ema.europa.eu/study/1000000704)
 - [Long-term registry-based study of patients with transfusion-dependent β-thalassemia (TDT) or sickle cell disease (SCD) treated with exagamglogene autotemcel (exa-cel) - post-authorisation study](https://catalogues.ema.europa.eu/study/1000000504)
+- [Healthcare Professional (HCP) Survey to Assess the Effectiveness of the Additional Risk Minimization Measures (aRMM) for Casgevy® (exagamglogene autotemcel) - post-authorisation study](https://catalogues.ema.europa.eu/study/1000000704)
 
-**This page was last updated on** 03/09/2025
+**This page was last updated on** 19/02/2026
 
 ## Share this page
 

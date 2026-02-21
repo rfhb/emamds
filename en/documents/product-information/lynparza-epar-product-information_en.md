@@ -1,20 +1,20 @@
 ---
-document_datetime: 2025-12-04 09:10:30
-document_pages: 90
+document_datetime: 2026-02-19 16:22:46
+document_pages: 91
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/lynparza-epar-product-information_en.pdf
 document_name: lynparza-epar-product-information_en.pdf
 version: success
-processing_time: 37.1351261
-conversion_datetime: 2025-12-15 02:28:35.386808
+processing_time: 42.1835148
+conversion_datetime: 2026-02-21 12:22:08.473799
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.64.1
-  docling-core: 2.55.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.13.0
+  docling-jobkit: 1.11.0
+  docling: 2.74.0
+  docling-core: 2.65.1
+  docling-ibm-models: 3.11.0
+  docling-parse: 5.3.2
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.1-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.3-arm64-arm-64bit-Mach-O
 ---
 ## ANNEX I
 
@@ -125,7 +125,13 @@ Before Lynparza treatment is initiated for adjuvant treatment of HER2 negative h
 
 For germline breast cancer susceptibility genes (g BRCA1/2 ) mutated human epidermal growth factor receptor 2 (HER2)-negative locally advanced or metastatic breast cancer, patients must have confirmation of a deleterious or suspected deleterious g BRCA1/2 mutation before Lynparza treatment is initiated. g BRCA1/2 mutation status should be determined by an experienced laboratory using a validated test method. Data demonstrating clinical validation of tumour BRCA1/2 tests in breast cancer are not currently available.
 
-## First-line maintenance treatment of g BRCA-mutated metastatic adenocarcinoma of the pancreas :
+First-line maintenance treatment of
+
+g
+
+BRCA-mutated metastatic adenocarcinoma of the pancreas
+
+:
 
 For first-line maintenance treatment of germline BRCA1/2mutated metastatic adenocarcinoma of the pancreas, patients must have confirmation of a deleterious or suspected deleterious g BRCA1/2 mutation before Lynparza treatment is initiated. g BRCA1/2 mutation status should be determined by an experienced laboratory using a validated test method. Data demonstrating clinical validation of tumour BRCA1/2 tests in adenocarcinoma of the pancreas are not currently available.
 
@@ -145,9 +151,9 @@ Lynparza is available as 100 mg and 150 mg tablets.
 
 The recommended dose of Lynparza in monotherapy or in combination with other agents is 300 mg (two 150 mg tablets) taken twice daily, equivalent to a total daily dose of 600 mg. The 100 mg tablet is available for dose reduction.
 
-Lynparza monotherapy
-
 <div style=\"page-break-after: always\"></div>
+
+## Lynparza monotherapy
 
 Patients with platinum-sensitive relapsed (PSR) high-grade epithelial ovarian, fallopian tube, or primary peritoneal cancer who are in response (complete or partial) to platinum-based chemotherapy should start treatment with Lynparza no later than 8 weeks after completion of their final dose of the platinum-containing regimen.
 
@@ -181,11 +187,11 @@ For patients with platinum-sensitive relapsed high-grade epithelial ovarian, fal
 
 Patients can continue treatment with Lynparza until radiological disease progression, unacceptable toxicity or for up to 2 years if there is no radiological evidence of disease after 2 years of treatment. Patients with evidence of disease at 2 years, who in the opinion of the treating physician can derive further benefit from continuous Lynparza treatment, can be treated beyond 2 years. Please refer to the product information for bevacizumab for the recommended overall duration of treatment of a maximum of 15 months including the periods in combination with chemotherapy and as maintenance (see section 5.1).
 
+<div style=\"page-break-after: always\"></div>
+
 ## Adjuvant treatment of germline BRCA-mutated high risk early breast cancer
 
 It is recommended that patients are treated for up to 1 year, or until disease recurrence, or unacceptable toxicity, whichever occurs first.
-
-<div style=\"page-break-after: always\"></div>
 
 Monotherapy  treatment of g BRCA1/2-mutated HER2-negative metastatic breast cancer: It is recommended that treatment be continued until progression of the underlying disease or unacceptable toxicity.
 
@@ -219,9 +225,11 @@ If a further dose reduction is required, then reduction to 200 mg (two 100 mg ta
 
 ## Dose adjustments for co-administration with CYP3A inhibitors
 
-Concomitant use of strong or moderate CYP3A inhibitors is not recommended and alternative agents should be considered. If a strong CYP3A inhibitor must be co-administered, the recommended Lynparza dose reduction is to 100 mg (one 100 mg tablet) taken twice daily (equivalent to a total daily dose of 200 mg). If a moderate CYP3A inhibitor must be co-administered, the recommended Lynparza dose reduction is to 150 mg (one 150 mg tablet) taken twice daily (equivalent to a total daily dose of 300 mg) (see sections 4.4 and 4.5).
+Concomitant use of strong or moderate CYP3A inhibitors is not recommended and alternative agents should be considered. If a strong CYP3A inhibitor must be co-administered, the recommended Lynparza dose reduction is to 100 mg (one 100 mg tablet) taken twice daily (equivalent to a total daily dose of 200 mg). If a moderate CYP3A inhibitor must be co-administered, the recommended Lynparza
 
 <div style=\"page-break-after: always\"></div>
+
+dose reduction is to 150 mg (one 150 mg tablet) taken twice daily (equivalent to a total daily dose of 300 mg) (see sections 4.4 and 4.5).
 
 ## Special populations
 
@@ -259,15 +267,13 @@ Lynparza tablets should be swallowed whole and not chewed, crushed, dissolved or
 
 Hypersensitivity to the active substance or to any of the excipients listed in section 6.1. Breast-feeding during treatment and for 1 month after the last dose (see section 4.6).
 
+<div style=\"page-break-after: always\"></div>
+
 ## 4.4 Special warnings and precautions for use
 
 ## Haematological toxicity
 
-Haematological toxicity has been reported in patients treated with Lynparza, including clinical diagnoses and/or laboratory findings of generally mild or moderate (CTCAE grade 1 or 2) anaemia, neutropenia, thrombocytopenia and lymphopenia. Pure red cell aplasia (PRCA) (see Section 4.8)
-
-<div style=\"page-break-after: always\"></div>
-
-and/or autoimmune haemolytic anaemia (AIHA) have been reported when Lynparza has been used in combination with durvalumab.
+Haematological toxicity has been reported in patients treated with Lynparza, including clinical diagnoses and/or laboratory findings of generally mild or moderate (CTCAE grade 1 or 2) anaemia, neutropenia, thrombocytopenia and lymphopenia. Pure red cell aplasia (PRCA) (see Section 4.8) and/or autoimmune haemolytic anaemia (AIHA) have been reported when Lynparza has been used in combination with durvalumab.
 
 Patients should not start treatment with Lynparza until they have recovered from haematological toxicity caused by previous anticancer therapy (haemoglobin, platelet and neutrophil levels should be ≤CTCAE grade 1). Baseline testing, followed by monthly monitoring, of complete blood counts is recommended for the first 12 months of treatment and periodically after this time to monitor for clinically significant changes in any parameter during treatment (see section 4.8).
 
@@ -289,15 +295,15 @@ Pneumonitis, including events with a fatal outcome, has been reported in patient
 
 ## Hepatotoxicity
 
-Cases of hepatotoxicity have been reported in patients treated with olaparib (see section 4.8). If clinical symptoms or signs suggestive of hepatotoxicity develop, prompt clinical evaluation of the patient and measurement of liver function tests should be performed. In case of suspected druginduced liver injury (DILI), treatment should be interrupted. In case of severe DILI treatment discontinuation should be considered as clinically appropriate.
-
-## Embryofoetal toxicity
-
-Based on its mechanism of action (PARP inhibition), Lynparza could cause foetal harm when administered to a pregnant woman. Nonclinical studies in rats have shown that olaparib causes adverse
+Cases of hepatotoxicity have been reported in patients treated with olaparib (see section 4.8). If clinical symptoms or signs suggestive of hepatotoxicity develop, prompt clinical evaluation of the patient and measurement of liver function tests should be performed. In case of suspected drug-
 
 <div style=\"page-break-after: always\"></div>
 
-effects on embryofoetal survival and induces major foetal malformations at exposures below those expected at the recommended human dose of 300 mg twice daily.
+induced liver injury (DILI), treatment should be interrupted. In case of severe DILI treatment discontinuation should be considered as clinically appropriate.
+
+## Embryofoetal toxicity
+
+Based on its mechanism of action (PARP inhibition), Lynparza could cause foetal harm when administered to a pregnant woman. Nonclinical studies in rats have shown that olaparib causes adverse effects on embryofoetal survival and induces major foetal malformations at exposures below those expected at the recommended human dose of 300 mg twice daily.
 
 ## Pregnancy/contraception
 
@@ -327,9 +333,11 @@ Combination of olaparib with vaccines or immunosuppressant agents has not been s
 
 CYP3A4/5 are the isozymes predominantly responsible for the metabolic clearance of olaparib.
 
-A clinical study to evaluate the impact of itraconazole, a known CYP3A inhibitor, has shown that co-administration with olaparib increased mean olaparib Cmax by 42% (90% CI: 33-52%) and mean AUC by 170% (90% CI: 144-197%). Therefore, known strong (e.g. itraconazole, telithromycin, clarithromycin, protease inhibitors boosted with ritonavir or cobicistat, boceprevir, telaprevir) or moderate (e.g. erythromycin, diltiazem, fluconazole, verapamil) inhibitors of this isozyme are not recommended with Lynparza (see section 4.4). If strong or moderate CYP3A inhibitors must be co-administered, the dose of Lynparza should be reduced. The recommended Lynparza dose reduction is to 100 mg taken twice daily (equivalent to a total daily dose of 200 mg) with a strong CYP3A inhibitor or 150 mg taken twice daily (equivalent to a total daily dose of 300 mg) with a moderate CYP3A inhibitor (see sections 4.2 and 4.4). It is also not recommended to consume grapefruit juice while on Lynparza therapy as it is a CYP3A inhibitor.
+A clinical study to evaluate the impact of itraconazole, a known CYP3A inhibitor, has shown that co-administration with olaparib increased mean olaparib Cmax by 42% (90% CI: 33-52%) and mean AUC by 170% (90% CI: 144-197%). Therefore, known strong (e.g. itraconazole, telithromycin, clarithromycin, protease inhibitors boosted with ritonavir or cobicistat, boceprevir, telaprevir) or moderate (e.g. erythromycin, diltiazem, fluconazole, verapamil) inhibitors of this isozyme are not recommended with Lynparza (see section 4.4). If strong or moderate CYP3A inhibitors must be co-administered, the dose of Lynparza should be reduced. The recommended Lynparza dose reduction
 
 <div style=\"page-break-after: always\"></div>
+
+is to 100 mg taken twice daily (equivalent to a total daily dose of 200 mg) with a strong CYP3A inhibitor or 150 mg taken twice daily (equivalent to a total daily dose of 300 mg) with a moderate CYP3A inhibitor (see sections 4.2 and 4.4). It is also not recommended to consume grapefruit juice while on Lynparza therapy as it is a CYP3A inhibitor.
 
 A clinical study to evaluate the impact of rifampicin, a known CYP3A inducer, has shown that co-administration with olaparib decreased olaparib mean Cmax by 71% (90% CI: 76-67%) and mean AUC by 87% (90% CI: 89-84%). Therefore, known strong inducers of this isozyme (e.g. phenytoin, rifampicin, rifapentine, carbamazepine, nevirapine, phenobarbital and St John's Wort) are not recommended with Lynparza, as it is possible that the efficacy of Lynparza could be substantially reduced. The magnitude of the effect of moderate to strong inducers (e.g. efavirenz, rifabutin) on olaparib exposure is not established, therefore the co-administration of Lynparza with these medicinal products is also not recommended (see section 4.4).
 
@@ -353,13 +361,13 @@ A clinical study has been performed to assess the combination of olaparib with a
 
 Women of childbearing potential should not become pregnant while on Lynparza and not be pregnant at the beginning of treatment. A pregnancy test should be performed on all women of childbearing potential prior to treatment and considered regularly throughout treatment.
 
-Women of childbearing potential must use two forms of reliable contraception before starting Lynparza therapy, during therapy and for 6 months after receiving the last dose of Lynparza, unless abstinence is the chosen method of contraception (see section 4.4). Two highly effective and complementary forms of contraception are recommended.
-
-Since it cannot be excluded that olaparib may reduce exposure to substrates of CYP2C9 through enzyme induction, the efficacy of some hormonal contraceptives may be reduced if co-administered with olaparib. Therefore, an additional non-hormonal contraceptive method should be considered
+Women of childbearing potential must use two forms of reliable contraception before starting Lynparza therapy, during therapy and for 6 months after receiving the last dose of Lynparza, unless
 
 <div style=\"page-break-after: always\"></div>
 
-during treatment (see section 4.5). For women with hormone dependent cancer, two non-hormonal contraceptive methods should be considered.
+abstinence is the chosen method of contraception (see section 4.4). Two highly effective and complementary forms of contraception are recommended.
+
+Since it cannot be excluded that olaparib may reduce exposure to substrates of CYP2C9 through enzyme induction, the efficacy of some hormonal contraceptives may be reduced if co-administered with olaparib. Therefore, an additional non-hormonal contraceptive method should be considered during treatment (see section 4.5). For women with hormone dependent cancer, two non-hormonal contraceptive methods should be considered.
 
 ## Contraception in males
 
@@ -389,9 +397,9 @@ Lynparza has been associated with adverse reactions generally of mild or moderat
 
 The Grade ≥3 adverse reactions occurring in &gt; 2% of patients were anaemia (14%), neutropenia (5%), fatigue/asthenia (4%), leukopenia (2%) and thrombocytopenia (2%).
 
-Adverse reactions that most commonly led to dose interruptions and/ or reductions in monotherapy were anaemia (16%), nausea (7%), fatigue/asthenia (6%), neutropenia (6%) and vomiting (6%). Adverse reactions that most commonly led to permanent discontinuation were anaemia (1.7%), nausea (0.9%), fatigue/asthenia (0.8%), thrombocytopenia (0.7%), neutropenia (0.6%) and vomiting (0.5%).
-
 <div style=\"page-break-after: always\"></div>
+
+Adverse reactions that most commonly led to dose interruptions and/ or reductions in monotherapy were anaemia (16%), nausea (7%), fatigue/asthenia (6%), neutropenia (6%) and vomiting (6%). Adverse reactions that most commonly led to permanent discontinuation were anaemia (1.7%), nausea (0.9%), fatigue/asthenia (0.8%), thrombocytopenia (0.7%), neutropenia (0.6%) and vomiting (0.5%).
 
 When Lynparza is used in combination with bevacizumab for ovarian cancer, in combination with abiraterone and prednisone or prednisolone for prostate cancer, or in combination with durvalumab following treatment with durvalumab in combination with platinum-based chemotherapy for endometrial cancer, the safety profile is generally consistent with that of the individual therapies.
 
@@ -514,11 +522,9 @@ In clinical studies with Lynparza the incidence of CTCAE grade ≥2 shifts (elev
 
 ## Gastrointestinal toxicities
 
-Nausea was generally reported very early, with first onset within the first month of Lynparza treatment in the majority of patients. Vomiting was reported early, with first onset within the first two months of Lynparza treatment in the majority of patients. Both nausea and vomiting were reported to be
+Nausea was generally reported very early, with first onset within the first month of Lynparza treatment in the majority of patients. Vomiting was reported early, with first onset within the first two months of Lynparza treatment in the majority of patients. Both nausea and vomiting were reported to be intermittent for the majority of patients and can be managed by dose interruption, dose reduction and/or antiemetic therapy. Antiemetic prophylaxis is not required.
 
 <div style=\"page-break-after: always\"></div>
-
-intermittent for the majority of patients and can be managed by dose interruption, dose reduction and/or antiemetic therapy. Antiemetic prophylaxis is not required.
 
 In first-line ovarian cancer maintenance treatment, patients experienced nausea events (77% on olaparib, 38% on placebo), vomiting (40% on olaparib, 15% on placebo), diarrhoea (34% on olaparib, 25% on placebo) and dyspepsia (17% on olaparib, 12% on placebo). Nausea events led to discontinuation in 2.3% of olaparib-treated patients (CTCAE Grade 2) and 0.8% of placebo-treated patients (CTCAE Grade 1); 0.8% and 0.4% of olaparib-treated patients discontinued treatment due to low grade (CTCAE Grade 2) vomiting and dyspepsia, respectively. No olaparib or placebo-treated patients discontinued due to diarrhoea. No placebo-treated patients discontinued due to vomiting or dyspepsia. Nausea events led to dose interruption and dose reductions in 14% and 4%, respectively, of olaparib-treated patients. Vomiting events led to interruption in 10% of olaparib-treated patients; no olaparib-treated patients experienced a vomiting event leading to dose reduction.
 
@@ -548,11 +554,11 @@ Pharmacotherapeutic group: Other antineoplastic agents, ATC code: L01XK01
 
 Olaparib is a potent inhibitor of human poly (ADP-ribose) polymerase enzymes (PARP-1, PARP-2, and PARP-3), and has been shown to inhibit the growth of selected tumour cell lines in vitro and tumour growth in vivo either as a standalone treatment or in combination with established chemotherapies or new hormonal agents (NHA).
 
-PARPs are required for the efficient repair of DNA single strand breaks and an important aspect of PARP-induced repair requires that after chromatin modification, PARP auto-modifies itself and dissociates from the DNA to facilitate access for base excision repair (BER) enzymes. When olaparib is bound to the active site of DNA-associated PARP it prevents the dissociation of PARP and traps it on the DNA, thus blocking repair. In replicating cells this also leads to the formation of DNA
+PARPs are required for the efficient repair of DNA single strand breaks and an important aspect of PARP-induced repair requires that after chromatin modification, PARP auto-modifies itself and dissociates from the DNA to facilitate access for base excision repair (BER) enzymes. When olaparib is bound to the active site of DNA-associated PARP it prevents the dissociation of PARP and traps it on the DNA, thus blocking repair. In replicating cells this also leads to the formation of DNA double-strand breaks (DSBs) when replication forks meet the PARP-DNA adducts. In normal cells, homologous recombination repair (HRR) pathway is effective at repairing these DNA DSBs. In cancer
 
 <div style=\"page-break-after: always\"></div>
 
-double-strand breaks (DSBs) when replication forks meet the PARP-DNA adducts. In normal cells, homologous recombination repair (HRR) pathway is effective at repairing these DNA DSBs. In cancer cells lacking critical functional components for efficient HRR such as BRCA1 or 2, DNA DSBs cannot be repaired accurately or effectively, leading to substantial homologous recombination deficiency (HRD). Instead, alternative and error-prone pathways are activated, such as the classical non-homologous end joining (NHEJ) pathway, leading to a high degree of genomic instability. After a number of rounds of replication, genomic instability can reach insupportable levels and result in cancer cell death, as cancer cells already have a high DNA damage load relative to normal cells. HRR pathway may be compromised by other mechanisms, although the causative aberrancy and penetrance are not fully elucidated. Absence of fully functional HRR pathway is one of the key determinants of platinum sensitivity in ovarian and possibly other cancers.
+cells lacking critical functional components for efficient HRR such as BRCA1 or 2, DNA DSBs cannot be repaired accurately or effectively, leading to substantial homologous recombination deficiency (HRD). Instead, alternative and error-prone pathways are activated, such as the classical non-homologous end joining (NHEJ) pathway, leading to a high degree of genomic instability. After a number of rounds of replication, genomic instability can reach insupportable levels and result in cancer cell death, as cancer cells already have a high DNA damage load relative to normal cells. HRR pathway may be compromised by other mechanisms, although the causative aberrancy and penetrance are not fully elucidated. Absence of fully functional HRR pathway is one of the key determinants of platinum sensitivity in ovarian and possibly other cancers.
 
 In BRCA1/2 -deficient in vivo models, olaparib given after platinum treatment resulted in a delay in tumour progression and an increase in overall survival compared to platinum treatment alone that correlated with the period of olaparib maintenance treatment.
 
@@ -572,11 +578,13 @@ HRD positive status can be defined by a composite GIS score for HR deficiency-as
 
 ## Clinical efficacy and safety
 
-First-line maintenance treatment of BRCA -mutated advanced ovarian cancer SOLO1 Study
+## First-line maintenance treatment of BRCA -mutated advanced ovarian cancer SOLO1 Study
+
+The safety and efficacy of olaparib as maintenance therapy were studied in patients with newly diagnosed advanced (FIGO Stage III-IV) high-grade serous or endometrioid BRCA1/2 mutated ( BRCA1/2m ) ovarian cancer following completion of first-line platinum-based chemotherapy in a
 
 <div style=\"page-break-after: always\"></div>
 
-The safety and efficacy of olaparib as maintenance therapy were studied in patients with newly diagnosed advanced (FIGO Stage III-IV) high-grade serous or endometrioid BRCA1/2 mutated ( BRCA1/2m ) ovarian cancer following completion of first-line platinum-based chemotherapy in a Phase III randomised, double-blind, placebo-controlled, multicentre trial. In this study 391 patients were randomised 2:1 to receive either Lynparza (300 mg [2 x 150 mg tablets] twice daily) or placebo. Patients were stratified by response to first-line platinum chemotherapy; complete response (CR) or partial response (PR). Treatment was continued until radiological progression of the underlying disease, unacceptable toxicity or for up to 2 years. For patients who remained in complete clinical response (i.e. no radiological evidence of disease), the maximum duration of treatment was 2 years; however, patients who had evidence of disease that remained stable (i.e. no evidence of disease progression) could continue to receive Lynparza beyond 2 years.
+Phase III randomised, double-blind, placebo-controlled, multicentre trial. In this study 391 patients were randomised 2:1 to receive either Lynparza (300 mg [2 x 150 mg tablets] twice daily) or placebo. Patients were stratified by response to first-line platinum chemotherapy; complete response (CR) or partial response (PR). Treatment was continued until radiological progression of the underlying disease, unacceptable toxicity or for up to 2 years. For patients who remained in complete clinical response (i.e. no radiological evidence of disease), the maximum duration of treatment was 2 years; however, patients who had evidence of disease that remained stable (i.e. no evidence of disease progression) could continue to receive Lynparza beyond 2 years.
 
 Patients with germline or somatic BRCA1/2 mutations were identified prospectively either from germline testing in blood via a local test (n=208) or central test (n=181) or from testing a tumour sample using a local test (n=2). By central germline testing, deleterious or suspected deleterious mutations were identified in 95.3% (365/383) and 4.7% (18/383) of patients, respectively. Large rearrangements in the BRCA1/2 genes were detected in 5.5% (21/383) of the randomised patients. The g BRCAm status of patients enrolled via local testing was confirmed retrospectively by central testing. Retrospective testing of patients with available tumour samples was performed using central testing and generated successful results in 341 patients, of which 95% had an eligible mutation (known [n=47] or likely pathogenic [n=277]) and 2 g BRCAwt patients were confirmed to have s BRCAm only. There were 389 patients who were germline BRCA1/2m and 2 who were somatic BRCA1/2m in SOLO1.
 
@@ -584,11 +592,9 @@ Demographic and baseline characteristics were generally well balanced between th
 
 The primary endpoint was progression-free survival (PFS) defined as time from randomisation to progression determined by investigator assessment using modified Response Evaluation Criteria in Solid Tumors (RECIST) 1.1, or death. Secondary efficacy endpoints included time from randomisation to second progression or death (PFS2), overall survival (OS), time from randomisation to discontinuation of treatment or death (TDT), time from randomisation to first subsequent anticancer therapy or death (TFST) and health related quality of life (HRQoL). Patients had tumour assessments at baseline and every 12 weeks for 3 years, and then every 24 weeks relative to date of randomisation, until objective radiological disease progression.
 
-The study demonstrated a clinically relevant and statistically significant improvement in investigator assessed PFS for olaparib compared to placebo. The investigator assessment of PFS was supported with a blinded independent central radiological (BICR) review of PFS. A descriptive analysis
+The study demonstrated a clinically relevant and statistically significant improvement in investigator assessed PFS for olaparib compared to placebo. The investigator assessment of PFS was supported with a blinded independent central radiological (BICR) review of PFS. A descriptive analysis performed at seven years after the last patient was randomized demonstrated a clinically meaningful benefit in OS that numerically favoured the olaparib arm. Efficacy results are presented in Table 3 and Figures 1 and 2.
 
 <div style=\"page-break-after: always\"></div>
-
-performed at seven years after the last patient was randomized demonstrated a clinically meaningful benefit in OS that numerically favoured the olaparib arm. Efficacy results are presented in Table 3 and Figures 1 and 2.
 
 Table 3 Efficacy results for newly diagnosed patients with BRCA1/2m advanced ovarian cancer in SOLO1
 
@@ -654,10 +660,6 @@ Table 4 Summary of primary objective outcome for patients with g BRCA1/2m PSR ov
 | Median time (months) (95% CI)                  | 19.1 (16.3-25.7)            | 5.5 (5.2-5.8) |
 | HR (95% CI) a                                  | 0.30 (0.22-0.41)            |               |
 | P value (2-sided)                              | p<0.0001                    |               |
-
-a HR= Hazard Ratio. A value &lt;1 favours olaparib. The analysis was performed using a Cox proportional hazard model including response to previous platinum chemotherapy (CR or PR), and time to disease progression (&gt;6-12 months and &gt;12 months) in the penultimate platinum-based chemotherapy as covariates.
-
-bd Twice daily; PFS progression-free survival; CI confidence interval
 
 <div style=\"page-break-after: always\"></div>
 
@@ -748,10 +750,6 @@ Table 6 Summary of primary objective outcome for all patients and patients with 
 | HR (95% CI) b                                  | 0.35 (0.25-0.49)       | 0.35 (0.25-0.49)       | 0.18 (0.10-0.31)       | 0.18 (0.10-0.31)       | 0.54 (0.34-0.85)       | 0.54 (0.34-0.85)       |
 | P value (2-sided)                              | p<0.00001              | p<0.00001              | p<0.00001              | p<0.00001              | p=0.00745              | p=0.00745              |
 
-a All patients comprises of the following subgroups: BRCA1/2 -mutated, BRCA1/2 wt /VUS and BRCA1/2 status unknown (11 patients with status unknown, not shown as a separate subgroup in table).
-
-b HR= Hazard Ratio. A value &lt;1 favours olaparib. The analysis was performed using a Cox proportional hazards model with factors for treatment, ethnic descent, platinum sensitivity and response to final platinum therapy. PFS progression-free survival; DCO data cut off; CI confidence interval; NR not reached.
-
 Figure 5 Study 19: Kaplan-Meier plot of PFS in the FAS (58% maturity - investigator assessment) DCO 30 June 2010
 
 <!-- image -->
@@ -827,10 +825,6 @@ Table 8 Summary of key objective outcome for non-g BRCA m patients with PSR ovar
 | Number of events: total number of patients (%) | 146: 279 (52.3)              |
 | Median OS (95% CI), months a                   | 32.7 (29.5, 35.3)            |
 
-a  Calculated using the Kaplan-Meier technique.
-
-Confidence intervals for median PFS and OS were derived based on Brookmeyer Crowley method.
-
 bd Twice daily; PFS Progression-free survival; OS Overall survival; DCO Data cut off; CI Confidence interval.
 
 First-line maintenance treatment of HRD positive advanced ovarian cancer
@@ -880,10 +874,6 @@ Table 9 Summary of key efficacy findings for patients with homologous recombinat
 | Number of events: Total number of patients (%)                 | 49:158 (31.0)                                                  | 37:77 (48.1)                                                   | 44:97 (45.4)                                                   | 32:55 (58.2)                                                   | 93:255 (36.5)                                                  | 69:132 (52.3)                                                  |
 | Median time (months)                                           | 75.2                                                           | 66.9                                                           | NR                                                             | 52.0                                                           | 75.2                                                           | 57.3                                                           |
 | HR (95%) CI b                                                  | 0.57 (0.37, 0.88)                                              | 0.57 (0.37, 0.88)                                              | 0.71 (0.45 , 1. 13 )                                           | 0.71 (0.45 , 1. 13 )                                           | 0.62 (0.45, 0.85)                                              | 0.62 (0.45, 0.85)                                              |
-
-* Pre-planned subgroup
-
-a  Based on Kaplan-Meier estimates, the proportion of patients that were progression free at 12 and 24 months were 89% and 66% for olaparib/bevacizumab versus 71% and 29% for placebo/bevacizumab.
 
 <div style=\"page-break-after: always\"></div>
 
@@ -970,14 +960,6 @@ a Based on the stratified Cox's proportional hazards model, &lt;1 indicates a lo
 | Percentage (95% CI) of patients alive at 4 years                                                                  | 90 (88, 92)                  | 87 (85, 89)                  |
 | Percentage (95% CI) of patients alive at 5 years c                                                                | 89 (87, 91)                  | 86 (83, 88) 83 (80,          |
 | Percentage (95% CI) of patients alive at 6 years c                                                                | 88 (85, 90)                  | 86)                          |
-
-b P-value from a stratified log-rank test.
-
-c Percentages are calculated using KM estimates.
-
-bd = twice daily; CI = confidence interval; DCO = data cut off; DDFS = distant disease free survival; HR = hazard ratio;
-
-IDFS = invasive disease free survival; KM = Kaplan-Meier; OS = overall survival.
 
 <div style=\"page-break-after: always\"></div>
 
@@ -1164,18 +1146,6 @@ Table 14 Efficacy results for patients with g BRCA m metastatic adenocarcinoma o
 | HR (95% CI) d                                      | 0.83 (0.56-1.22)                                   | 0.83 (0.56-1.22)   |
 | P value (2-sided)                                  | p=0.3487                                           | p=0.3487           |
 
-a Based on Kaplan-Meier estimates, the proportion of patients that were alive and progression-free at 12 and 24 months were 34% and 22% for olaparib vs 15% and 10% for placebo.
-
-b For PFS, the median follow-up time for censored patients was 9.1 months in the olaparib arm and 3.8 months in the placebo arm.
-
-c A value &lt;1 favours olaparib.
-
-d The analysis was performed using a log-rank test.
-
-e For OS, the median follow-up time for censored patients was 31.3 months in the olaparib arm and 23.9 months in the placebo arm.
-
-bd Twice daily; CI Confidence interval; HR Hazard Ratio; OS Overall Survival; PFS Progression-free survival.
-
 Figure 14 POLO: Kaplan-Meier plot of PFS for patients with g BRCA m metastatic adenocarcinoma of the pancreas (68% maturity - BICR, DCO 15 January 2019)
 
 <!-- image -->
@@ -1217,12 +1187,6 @@ Table 15 Summary of key efficacy findings in patients with BRCA1/2 -mutated mCRP
 | OS a DCO 20 March 2020 c                                                                                             |                               |                                      |
 | Number of events: Total number of patients (%) Median OS (95% CI) [months]                                           | 53:102 (52) 20.1 (17.4, 26.8) | 41:58 (71) 14.4 (10.7, 18.9)         |
 | HR (95% CI)                                                                                                          | 0.63 (0.42, 0.95)             | 0.63 (0.42, 0.95)                    |
-
-a Not controlled for multiplicity
-
-b  rPFS 71% maturity
-
-c  The HR and CI were calculated using a Cox proportional hazards model that contains terms for treatment, factor and treatment by factor interaction.
 
 <div style=\"page-break-after: always\"></div>
 
@@ -1279,12 +1243,6 @@ Table 16 Summary of key efficacy findings for treatment of patients with mCRPC i
 | p-value b                      | p=0.0544                       | p=0.0544                      |
 | %Alive at 36 months (95% CI) c | 56.9 (51.7, 61.7)              | 49.5 (44.3, 54.5)             |
 
-a  The HR and CI were calculated using a Cox proportional hazards model adjusted for the variables selected in the primary pooling strategy: metastases, docetaxel treatment at mHSPC stage. The Efron approach was used for handling ties. A HR &lt;1 favours olaparib 300 mg bd + abiraterone 1000 mg qd.
-
-b  The 2-sided p-value was calculated using the log-rank test stratified by the same variables selected in the primary pooling strategy.
-
-c  Calculated using the Kaplan-Meier technique.
-
 Table 17 rPFS subgroup analyses by investigator assessment in PROpel (DCO 30 July 2021)
 
 |                                                                          | Olaparib/abiraterone                                                     | Placebo/abiraterone                                                      |
@@ -1308,12 +1266,6 @@ Table 17 rPFS subgroup analyses by investigator assessment in PROpel (DCO 30 Jul
 | Number of events: Total number of patients (%)                           | 148:343 (43.1)                                                           | 194:350 (55.4)                                                           |
 | Median (months)                                                          | 24.11                                                                    | 18.96                                                                    |
 | Hazard ratio (95% CI) b                                                  | 0.76 (0.61, 0.94)                                                        | 0.76 (0.61, 0.94)                                                        |
-
-a  Aggregate subgroups were derived from ctDNA and tissue-based groupings.
-
-b  The analysis was performed using a Cox proportional hazards model including terms for treatment group, the subgroup
-
-factor, and a treatment by subgroup interaction. Confidence interval calculated using the profile likelihood method. An HR &lt; 1 favors olaparib 300 mg bd.
 
 <div style=\"page-break-after: always\"></div>
 
@@ -1383,14 +1335,6 @@ Table 18 Summary of efficacy results in patients with advanced or recurrent endo
 | Number of objective responders: Total number of patients with measurable disease at baseline (%) | 90:147 (61.2)                                               | 92:156 (59.0)                       |
 | Duration of Response (DCO 12 April 2023)                                                         |                                                             |                                     |
 | Median a (95% CI), months                                                                        | 18.7 (10.5, NR)                                             | 7.6 (7.1, 10.2)                     |
-
-a Calculated using the Kaplan-Meier technique
-
-b Based on first interim analysis
-
-c Response: Best objective response as confirmed complete response or partial response.
-
-CI Confidence interval; DCO Data cutoff; HR Hazard ratio; NR Not reached; OS Overall survival; PFS Progression-free survival
 
 <div style=\"page-break-after: always\"></div>
 
@@ -1596,10 +1540,10 @@ The MAH shall complete, within the stated timeframe, the below measures:
 
 <div style=\"page-break-after: always\"></div>
 
-| Description                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             | Due date                                                                   |
-|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------|
-| Post-authorisation efficacy study (PAES): In order to further confirm the efficacy of olaparib as maintenance treatment after the first-line platinum-containing chemotherapy in patients with BRCA mutated high grade serous ovarian cancer, the MAHshould submit the updated PFS2, updated OS and final OS results of the study D0818C00001 (SOLO1), a phase III randomised double-blind placebo-controlled multicentre study. The clinical study report should be submitted by:                                                                                                                                      | December 2029                                                              |
-| Post-authorisation efficacy study (PAES): In order to further characterise the long- term efficacy of olaparib in combination with durvalumab for the maintenance treatment of adult patients with primary advanced or recurrent endometrial cancer that is mismatch proficient (pMMR) whose disease has not progressed on first-line treatment with durvalumab in combination with carboplatin and paclitaxel, theMAH should submit the results of the second interim OS analysis and the final OS analysis from study D9311C00001 (DUO-E), a phase III randomised double-blind placebo- controlled multicentre study. | Second interim OS analysis: December 2025 Final OS analysis: December 2026 |
+| Description                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             | Due date                                                                |
+|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------|
+| Post-authorisation efficacy study (PAES): In order to further confirm the efficacy of olaparib as maintenance treatment after the first-line platinum-containing chemotherapy in patients with BRCA mutated high grade serous ovarian cancer, the MAHshould submit the updated PFS2, updated OS and final OS results of the study D0818C00001 (SOLO1), a phase III randomised double-blind placebo-controlled multicentre study. The clinical study report should be submitted by:                                                                                                                                      | December 2029                                                           |
+| Post-authorisation efficacy study (PAES): In order to further characterise the long- term efficacy of olaparib in combination with durvalumab for the maintenance treatment of adult patients with primary advanced or recurrent endometrial cancer that is mismatch proficient (pMMR) whose disease has not progressed on first-line treatment with durvalumab in combination with carboplatin and paclitaxel, theMAH should submit the results of the second interim OS analysis and the final OS analysis from study D9311C00001 (DUO-E), a phase III randomised double-blind placebo- controlled multicentre study. | Second interim OS analysis: March 2027 Final OS analysis: November 2028 |
 
 <div style=\"page-break-after: always\"></div>
 
@@ -2452,9 +2396,9 @@ Store in the original package in order to protect from moisture.
 
 Do not throw away any medicines via wastewater or household waste. Ask your pharmacist how to throw away medicines you no longer use. These measures will help protect the environment.
 
-## 6. Contents of the pack and other information
-
 <div style=\"page-break-after: always\"></div>
+
+## 6. Contents of the pack and other information
 
 ## What Lynparza contains
 
@@ -2463,7 +2407,7 @@ The active substance is olaparib.
 - Each Lynparza 100 mg film-coated tablet contains 100 mg olaparib.
 - Each Lynparza 150 mg film-coated tablet contains 150 mg olaparib.
 
-The other ingredients (excipients) are
+## The other ingredients (excipients) are
 
 - Tablet core: copovidone, silica colloidal anhydrous, mannitol, sodium stearyl fumarate.
 - Tablet coating: hypromellose, macrogol 400, titanium dioxide (E171), iron oxide yellow (E172), iron oxide black (E172) (150 mg tablets only).
@@ -2486,7 +2430,9 @@ AstraZeneca AB SE-151 85 Södertälje Sweden
 
 ## Manufacturer
 
-AstraZeneca AB Gärtunavägen SE-152 57 Södertälje Sweden
+AstraZeneca AB Gärtunavägen SE-152 57 Södertälje
+
+Sweden
 
 For any information about this medicine, please contact the local representative of the Marketing Authorisation Holder:
 
@@ -2496,17 +2442,21 @@ AstraZeneca S.A./N.V.
 
 Tel: +32 2 370 48 11
 
-Lietuva
+## Lietuva
 
 UAB AstraZeneca Lietuva Tel: +370 5 2660550
 
 ## България
 
-АстраЗенека България ЕООД Тел.: +359 24455000
+АстраЗенека България ЕООД
+
+Тел.: +359 24455000
 
 ## Luxembourg/Luxemburg
 
-AstraZeneca S.A./N.V. Tél/Tel: +32 2 370 48 11
+AstraZeneca S.A./N.V.
+
+Tél/Tel: +32 2 370 48 11
 
 ## Česká republika
 
@@ -2516,29 +2466,25 @@ Tel: +420 222 807 111
 
 ## Magyarország
 
-AstraZeneca Kft. Tel.: +36 1 883 6500
+AstraZeneca Kft.
 
-Danmark
+Tel.: +36 1 883 6500
 
-Malta
+<div style=\"page-break-after: always\"></div>
+
+## Danmark
 
 AstraZeneca A/S
 
 Tlf.: +45 43 66 64 62
 
-<div style=\"page-break-after: always\"></div>
-
 ## Deutschland
 
-AstraZeneca GmbH
-
-Tel: +49 40 809034100
+AstraZeneca GmbH Tel: +49 40 809034100
 
 ## Eesti
 
-AstraZeneca
-
-Tel: +372 6549 600
+AstraZeneca Tel: +372 6549 600
 
 ## Ελλάδα
 
@@ -2572,23 +2518,19 @@ AstraZeneca S.p.A. Tel: +39 02 00704500
 
 ## Κύπρος
 
-Αλέκτωρ Φαρµακευτική Λτδ
-
-Τηλ: +357 22490305
+Αλέκτωρ Φαρµακευτική Λτδ Τηλ: +357 22490305
 
 ## Latvija
 
-SIA AstraZeneca Latvija Tel: +371 67377100
+SIA AstraZeneca Latvija
+
+Tel: +371 67377100
 
 ## This leaflet was last revised in
 
-## Other sources of information
+## Malta
 
-Detailed information on this medicine is available on the European Medicines Agency web site: http://www.ema.europa.eu
-
-Associated Drug Co. Ltd
-
-Tel: +356 2277 8000
+Associated Drug Co. Ltd Tel: +356 2277 8000
 
 ## Nederland
 
@@ -2620,7 +2562,9 @@ AstraZeneca UK Limited Tel: +386 1 51 35 600
 
 ## Slovenská republika
 
-AstraZeneca AB, o.z. Tel: +421 2 5737 7777
+AstraZeneca AB, o.z.
+
+Tel: +421 2 5737 7777
 
 ## Suomi/Finland
 
@@ -2629,3 +2573,9 @@ AstraZeneca Oy Puh/Tel: +358 10 23 010
 ## Sverige
 
 AstraZeneca AB Tel: +46 8 553 26 000
+
+<div style=\"page-break-after: always\"></div>
+
+## Other sources of information
+
+Detailed information on this medicine is available on the European Medicines Agency web site: http://www.ema.europa.eu

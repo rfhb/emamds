@@ -1,20 +1,20 @@
 ---
-document_datetime: 2024-03-07 11:54:09
+document_datetime: 2026-02-17 10:42:02
 document_pages: 38
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/trecondi-epar-product-information_en.pdf
 document_name: trecondi-epar-product-information_en.pdf
 version: success
-processing_time: 8.9217298
-conversion_datetime: 2025-12-18 21:49:37.011453
+processing_time: 9.7398832
+conversion_datetime: 2026-02-21 12:10:11.286316
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.64.1
-  docling-core: 2.55.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.13.0
+  docling-jobkit: 1.11.0
+  docling: 2.74.0
+  docling-core: 2.65.1
+  docling-ibm-models: 3.11.0
+  docling-parse: 5.3.2
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.1-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.3-arm64-arm-64bit-Mach-O
 ---
 ## ANNEX I
 
@@ -180,17 +180,19 @@ Treosulfan is considered an irritant. Intravenous application should be performe
 
 No interaction of treosulfan was observed in high-dose chemotherapy.
 
-Detailed in vitro studies did not completely exclude potential interactions between high plasma concentrations of treosulfan and CYP3A4, CYP2C19, or P-glycoprotein (P-gp) substrates. Physiologically-based pharmacokinetic modelling predicted a weak (AUC rat io ≥ 1.25 and &lt; 2) to moderate (AUC ratio ≥ 2 and &lt; 5) interaction for CYP3A4, a weak interaction for CYP2C19, and a negligible (AUC ratio &lt; 1.25) interaction for P-gp. Therefore, medicinal products with a narrow therapeutic index (e.g. digoxin) that are substrates for CYP3A4 or CYP2C19 should not be given during treatment with treosulfan.
+Detailed in vitro studies did not completely exclude potential interactions between high plasma concentrations of treosulfan and CYP3A4, CYP2C19, or P-glycoprotein (P-gp) substrates. Treosulfan does not inhibit CYP1A2, 2B6, 2C8, 2C9, 2D6, or CYP3A4 using testosterone as substrate. However, treosulfan was a reversible inhibitor for CYP2C19, and of CYP3A4 using midazolam as the substrate. Treosulfan does not inhibit substrate transport via various transport proteins with the exception of P-gp and MATE2 at very high concentrations.
+
+Physiologically-based pharmacokinetic modelling predicted a weak (AUC ratio ≥ 1.25 and &lt; 2) to moderate (AUC ratio ≥ 2 and &lt; 5) interaction for CYP3A4, a weak interaction for CYP2C19, and a negligible (AUC ratio &lt; 1.25) interaction for P-gp. Therefore, medicinal products with a narrow therapeutic index (e.g. tacrolimus) that are substrates for CYP3A4 or CYP2C19 should not be given during treatment with treosulfan.
 
 Considering overall timing of treatments and the respective pharmacokinetic properties of concomitantly used medicinal products (e.g. half-life), the interaction potential can be reduced to 'no interaction' (AUC ratio &lt; 1.25), if all concomitantly used medicinal products are dosed 2 hours before or 8 hours after the 2-hour intravenous infusion of treosulfan.
 
 The effect of treosulfan on the pharmacokinetics of fludarabine is not known.
 
+<div style=\"page-break-after: always\"></div>
+
 ## 4.6 Fertility, pregnancy and lactation
 
-Women of childbearing potential/Contraception in males and females
-
-<div style=\"page-break-after: always\"></div>
+## Women of childbearing potential/Contraception in males and females
 
 Both sexually active men and women of childbearing potential have to use effective contraception during and up to 6 months after treatment.
 
@@ -226,11 +228,9 @@ The most commonly observed adverse reactions (adults/paediatric patients) after 
 
 The frequencies of adverse reactions reported in the table below are derived from 5 clinical trials (including a total of 613 patients) where treosulfan combined with fludarabine was investigated as conditioning treatment prior to alloHSCT in adult patients. Treosulfan was administered in a dose range of 10-14 g/m² BSA on 3 consecutive days.
 
-Adverse reactions are listed below, by system organ class and by frequency : very common (≥ 1/10), common (≥ 1/100 to &lt; 1/10), uncommon (≥ 1/1 000 to &lt; 1/100), rare (≥ 1/10 000 to &lt; 1/1 000), very
-
 <div style=\"page-break-after: always\"></div>
 
-rare (&lt; 1/10 000) and not known (cannot be estimated from the available data). Within each frequency group, undesirable effects are presented in order of decreasing seriousness.
+Adverse reactions are listed below, by system organ class and by frequency : very common (≥ 1/10), common (≥ 1/100 to &lt; 1/10), uncommon (≥ 1/1 000 to &lt; 1/100), rare (≥ 1/10 000 to &lt; 1/1 000), very rare (&lt; 1/10 000) and not known (cannot be estimated from the available data). Within each frequency group, undesirable effects are presented in order of decreasing seriousness.
 
 | System organ class (SOC)                                                  | All adverse reactions / frequency                                                                                                                                    | Grade 3-4 adverse reactions / frequency                                                                                        |
 |---------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------|
@@ -263,8 +263,6 @@ rare (&lt; 1/10 000) and not known (cannot be estimated from the available data)
 | Renal and urinary disorders                          | Common Acute kidney injury, haematuria Uncommon Urinary tract pain Not known Renal failure, haemorrhagic cystitis c , dysuria                                                                                                                              | Uncommon Acute kidney injury Not known Haematuria                                                                                                                       |
 | General disorders and administration site conditions | Very common Asthenic conditions (fatigue, asthenia, lethargy) Common Oedema, pyrexia e , chills Uncommon Non-cardiac chest pain, pain                                                                                                                      | Common Fatigue Not known Non-cardiac chest pain, pyrexia e                                                                                                              |
 | Investigations                                       | Very common Blood bilirubin increased Common Transaminases (ALT/AST) increased, γGT increased, C -reactive protein increased, weight decreased, weight increased Uncommon Blood alkaline phosphatase increased Not known Blood lactate dehydrogenase (LDH) | Common Blood bilirubin increased, transaminases (ALT/AST) increased, γGT increased Uncommon C-reactive protein increased Not known Blood alkaline phosphatase increased |
-
-* See detailed sections below
 
 <div style=\"page-break-after: always\"></div>
 
@@ -476,8 +474,6 @@ Treosulfan is rapidly distributed in the body; however, its penetration through 
 
 Under physiological conditions (pH 7.4, temperature 37 °C), the pharmacologically inactive treosulfan is converted spontaneously (non-enzymatically) into the active monoepoxide intermediate (S,S-EBDM = (2S,3S)-1,2-epoxybutane-3,4-diol-4-methanesulfonate) and finally to L-diepoxibutane (S,S-DEB = (2S,3S)-1,2:3,4-diepoxybutane).
 
-Treosulfan does not inhibit CYP1A2, 2B6, 2C8, 2C9, 2C19, 2D6, or 3A4 using testosterone as substrate. However, using midazolam as the substrate, treosulfan was a reversible inhibitor for CYP2C19 and 3A4. Treosulfan does not inhibit substrate transport via various transport proteins with the exception of P-gp and MATE2 at very high concentrations.
-
 ## Elimination
 
 Plasma concentrations of treosulfan decline exponentially and are best described by a first order elimination process fitted by a two-compartment model.
@@ -504,9 +500,9 @@ PK/PD evaluation did not show a significant change of time to engraftment as fun
 
 Four-week subchronic, intravenous treatment of rats resulted in haematological changes in form of decreased levels of leucocytes and neutrophilic granulocytes; decreased relative spleen and thymus weights in the context of a lymphoid atrophy, and bone marrow depression. Lymphohistiocytic infiltration in the skeletal musculature and histopathological changes in the urinary bladder were observed. Signs of haematuria were seen preferentially in male animals.
 
-<div style=\"page-break-after: always\"></div>
-
 Due to its alkylating mechanism of action treosulfan is characterised as a genotoxic compound with carcinogenic potential. Specific reproductive and developmental toxicity studies on treosulfan in animals were not conducted. However, during chronic toxicity tests in rats spermatogenesis and ovarian function were significantly affected. Published literature data report on gonadotoxicity of treosulfan in pre-pubertal and pubertal male and female mice.
+
+<div style=\"page-break-after: always\"></div>
 
 Published data concerning treatment of mice and rats with L-diepoxibutane (the alkylating transformation product of treosulfan) revealed impairment of fertility, uterine-ovarian and sperm development.
 
@@ -534,7 +530,9 @@ In the absence of compatibility studies, this medicinal product must not be mixe
 
 After reconstitution with sodium chloride 4.5 mg/mL (0.45%) solution, chemical and physical stability has been demonstrated for 3 days at 25 °C.
 
-From a microbiological point of view, unless the method of reconstitution precludes the risk of microbial contamination, the product should be used immediately. If not used immediately, in-use storage times and conditions are the responsibility of the user. Do not store in a refrigerator (2 °C-8 °C) as this might cause precipitation.
+From a microbiological point of view, unless the method of reconstitution precludes the risk of microbial contamination, the product should be used immediately. If not used immediately, in-use storage times and conditions are the responsibility of the user.
+
+Do not store in a refrigerator (2 °C-8 °C) as this might cause precipitation.
 
 ## 6.4 Special precautions for storage
 
@@ -552,11 +550,11 @@ Colourless type I glass vial, with rubber stopper and aluminium cap containing 1
 
 Colourless type I glass vial, with rubber stopper and aluminium cap containing 5 g of treosulfan.
 
-<div style=\"page-break-after: always\"></div>
-
 Trecondi is available in packs of 1 or 5 vials.
 
 Not all pack sizes may be marketed.
+
+<div style=\"page-break-after: always\"></div>
 
 ## 6.6 Special precautions for disposal and other handling
 
@@ -585,7 +583,9 @@ medac Gesellschaft für klinische Spezialpräparate mbH Theaterstr. 6 22880 Wede
 
 ## 8. MARKETING AUTHORISATION NUMBER(S)
 
-EU/1/18/1351/001 (1 g, 1 vial) EU/1/18/1351/002 (1 g, 5 vials) EU/1/18/1351/003 (5 g, 1 vial) EU/1/18/1351/004 (5 g, 5 vials)
+EU/1/18/1351/001 (1 g, 1 vial) EU/1/18/1351/002 (1 g, 5 vials) EU/1/18/1351/003 (5 g, 1 vial)
+
+EU/1/18/1351/004 (5 g, 5 vials)
 
 <div style=\"page-break-after: always\"></div>
 
@@ -593,11 +593,13 @@ EU/1/18/1351/001 (1 g, 1 vial) EU/1/18/1351/002 (1 g, 5 vials) EU/1/18/1351/003 
 
 Date of first authorisation: 20 June 2019
 
-Date of latest renewal:
+Date of latest renewal: 05 January 2024
 
 ## 10. DATE OF REVISION OF THE TEXT
 
 Detailed information on this medicinal product is available on the website of the European Medicines Agency http://www.ema.europa.eu.
+
+21
 
 <div style=\"page-break-after: always\"></div>
 

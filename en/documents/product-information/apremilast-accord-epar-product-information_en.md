@@ -1,20 +1,20 @@
 ---
-document_datetime: 2026-01-07 14:34:43
-document_pages: 55
+document_datetime: 2026-02-20 13:44:54
+document_pages: 56
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/apremilast-accord-epar-product-information_en.pdf
 document_name: apremilast-accord-epar-product-information_en.pdf
 version: success
-processing_time: 18.1648923
-conversion_datetime: 2026-01-10 10:48:08.071611
+processing_time: 17.9291985
+conversion_datetime: 2026-02-21 12:14:26.458887
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.1
-  docling: 2.67.0
-  docling-core: 2.58.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.13.0
+  docling-jobkit: 1.11.0
+  docling: 2.74.0
+  docling-core: 2.65.1
+  docling-ibm-models: 3.11.0
+  docling-parse: 5.3.2
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.3-arm64-arm-64bit-Mach-O
 ---
 ## ANNEX I
 
@@ -191,9 +191,15 @@ Patients who are underweight and paediatric patients who have a borderline to lo
 
 <div style=\"page-break-after: always\"></div>
 
-## Lactose content
+## Excipients warning:
+
+## Lactose
 
 Patients with rare hereditary problems of galactose intolerance, total lactase deficiency or glucosegalactose malabsorption should not take this medicinal product.
+
+## Sodium
+
+This medicinal product contains less than 1 mmol sodium (23 mg) per dose, that is to say essentially 'sodium -free'.
 
 ## 4.5 Interaction with other medicinal products and other forms of interaction
 
@@ -225,9 +231,9 @@ Apremilast was detected in milk of lactating mice (see section 5.3). It is not k
 
 ## Fertility
 
-No fertility data is available in humans. In animal studies in mice, no adverse effects on fertility were observed in males at exposure levels 3-fold clinical exposure and in females at exposure levels 1-fold clinical exposure. For pre-clinical fertility data, see section 5.3.
-
 <div style=\"page-break-after: always\"></div>
+
+No fertility data is available in humans. In animal studies in mice, no adverse effects on fertility were observed in males at exposure levels 3-fold clinical exposure and in females at exposure levels 1-fold clinical exposure. For pre-clinical fertility data, see section 5.3.
 
 ## 4.7 Effects on ability to drive and use machines
 
@@ -259,20 +265,20 @@ Table 3. Summary of adverse reactions in psoriatic arthritis (PsA), psoriasis (P
 |------------------------------------|-------------|-------------------------------------|
 | Infections and infestations        | Very common | Upper respiratory tract infection a |
 | Infections and infestations        | Common      | Bronchitis                          |
-| Infections and infestations        | Common      | Nasopharyngitis*                    |
+| Infections and infestations        | Very common | Nasopharyngitis*                    |
 | Immune system disorders            | Uncommon    | Hypersensitivity                    |
 | Metabolism and nutrition disorders | Common      | Decreased appetite*                 |
 | Psychiatric disorders              | Common      | Insomnia                            |
 | Psychiatric disorders              | Common      | Depression                          |
 | Psychiatric disorders              | Uncommon    | Suicidal ideation and behaviour     |
-| Nervous system disorders           | Very common | Headache* ,a                        |
-| Nervous system disorders           | Common      | Migraine*                           |
-| Nervous system disorders           | Common      | Tension headache*                   |
 
 <div style=\"page-break-after: always\"></div>
 
 | System Organ Class                                   | Frequency   | Adverse reaction                |
 |------------------------------------------------------|-------------|---------------------------------|
+| Nervous system disorders                             | Very common | Headache* ,a                    |
+| Nervous system disorders                             | Common      | Migraine*                       |
+| Nervous system disorders                             | Common      | Tension headache*               |
 | Respiratory, thoracic, and mediastinal disorders     | Common      | Cough                           |
 | Gastrointestinal disorders                           | Very common | Diarrhoea*                      |
 | Gastrointestinal disorders                           | Very common | Nausea*                         |
@@ -307,11 +313,11 @@ Please see additional warning in section 4.4 for patients who are underweight at
 
 From postmarketing experience, elderly patients ≥ 65 years of age may be at a higher risk of complications of severe diarrhoea, nausea and vomiting (see section 4.4).
 
+<div style=\"page-break-after: always\"></div>
+
 ## Patients with hepatic impairment
 
 The safety of apremilast was not evaluated in PsA, PSOR or BD patients with hepatic impairment.
-
-<div style=\"page-break-after: always\"></div>
 
 ## Patients with renal impairment
 
@@ -341,9 +347,11 @@ Apremilast, an oral small-molecule inhibitor of phosphodiesterase 4 (PDE4), work
 
 ## Pharmacodynamic effects
 
-In clinical studies in patients with psoriatic arthritis, apremilast significantly modulated, but did not fully inhibit, plasma protein levels of IL1α, IL -6, IL-8, MCP-1, MIP1β, MMP -3, and TNFα. After 40 weeks of treatment with apremilast, there was a decrease in plasma protein levels of IL-17 and IL23, and an increase in IL-10. In clinical studies in patients with psoriasis, apremilast decreased lesional skin epidermal thickness, inflammatory cell infiltration, and expression of pro-inflammatory genes, including those for inducible nitric oxide synthase (iNOS), IL-12/IL-23p40, IL-17A, IL-22 and IL-8. In clinical studies in patients with Behçet Disease treated with apremilast, there was a significant positive association between the change in plasma TNF-alpha and clinical efficacy as measured by the number of oral ulcers.
+In clinical studies in patients with psoriatic arthritis, apremilast significantly modulated, but did not fully inhibit, plasma protein levels of IL1α, IL -6, IL-8, MCP-1, MIP1β, MMP -3, and TNFα. After 40 weeks of treatment with apremilast, there was a decrease in plasma protein levels of IL-17 and IL23, and an increase in IL-10. In clinical studies in patients with psoriasis, apremilast decreased lesional skin epidermal thickness, inflammatory cell infiltration, and expression of pro-inflammatory genes, including those for inducible nitric oxide synthase (iNOS), IL-12/IL-23p40, IL-17A, IL-22 and IL-8. In clinical studies in patients with Behçet Disease treated with apremilast, there was a significant
 
 <div style=\"page-break-after: always\"></div>
+
+positive association between the change in plasma TNF-alpha and clinical efficacy as measured by the number of oral ulcers.
 
 Apremilast administered at doses of up to 50 mg twice daily did not prolong the QT interval in healthy subjects.
 
@@ -389,7 +397,7 @@ Responses observed in the apremilast treated group were similar in patients rece
 
 Similar ACR responses were observed in patients with different PsA subtypes, including DIP. The number of patients with arthritis mutilans and predominant spondylitis subtypes was too small to allow meaningful assessment.
 
-In PALACE 1, PALACE 2 and PALACE 3, improvements in Disease Activity Scale (DAS) 28 C-reactive protein (CRP) and in the proportion of patients achieving a modified PsA response criteria (PsARC) were greater in the apremilast group, compared to placebo at week 16 (nominal p-value p ≤ 0.0004, pvalue ≤ 0.0017, respectively). These improvement s were maintained at week 24. Among patients who remained on the apremilast treatment to which they were randomised at study start, DAS28 (CRP) score and PsARC response were maintained through week 52.
+In PALACE 1, PALACE 2 and PALACE 3, improvements in Disease Activity Scale (DAS) 28 C-reactive protein (CRP) and in the proportion of patients achieving a modified PsA response criteria (PsARC) were greater in the apremilast group, compared to placebo at week 16 (nominal p-value p ≤ 0.0004, pvalue ≤ 0.0017, respectively). These improvements were maintained at week 24. Among patients who remained on the apremilast treatment to which they were randomised at study start, DAS28 (CRP) score and PsARC response were maintained through week 52.
 
 At weeks 16 and 24 improvements in parameters of peripheral activity characteristic of psoriatic arthritis (e.g. number of swollen joints, number of painful/tender joints, dactylitis and enthesitis) and in the skin manifestations of psoriasis were seen in the apremilast-treated patients. Among patients who remained on the apremilast treatment to which they were randomised at study start, these improvements were maintained through week 52.
 
@@ -661,7 +669,7 @@ In vitro , apremilast is not an inhibitor or inducer of cytochrome P450 enzymes.
 
 In vitro , apremilast is a substrate, and a weak inhibitor of Pglycoprotein (IC50 &gt; 50 μM), however clinically relevant drug interactions mediated via P-gp are not expected to occur.
 
-In vitro , apremilast has little to no inhibitory effect (IC50 &gt; 10 μM) on Organic Anion Transporter (OAT)1 and OAT3, Organic Cation Transporter (OCT)2, Organic Anion Transporting Polypeptide (OATP)1B1 and OATP1B3, or breast cancer resistance protein (BCRP) and is not a substrate for these transporters. Hence, clinically relevant drug-drug interactions are unlikely when apremilast is coadministered with drugs that are substrates or inhibitors of these transporters.
+In vitro , apremilast has little to no inhibitory effect (IC50 &gt; 10 μM ) on Organic Anion Transporter (OAT)1 and OAT3, Organic Cation Transporter (OCT)2, Organic Anion Transporting Polypeptide (OATP)1B1 and OATP1B3, or breast cancer resistance protein (BCRP) and is not a substrate for these transporters. Hence, clinically relevant drug-drug interactions are unlikely when apremilast is coadministered with drugs that are substrates or inhibitors of these transporters.
 
 <div style=\"page-break-after: always\"></div>
 
@@ -809,11 +817,13 @@ EU/1/24/1796/004
 
 ## 9. DATE OF FIRST AUTHORISATION/RENEWAL OF THE AUTHORISATION
 
-Date of first authorisation:
+Date of first authorisation: 19 April 2024
 
 ## 10. DATE OF REVISION OF THE TEXT
 
-Detailed information on this medicinal product is available on the website of the European Medicines Agency http://www.ema.europa.eu.
+Detailed information on this medicinal product is available on the website of the European Medicines Agency https://www.ema.europa.eu.
+
+24
 
 <div style=\"page-break-after: always\"></div>
 
@@ -1055,8 +1065,6 @@ Apremilast Accord 30 mg
 
 PC SN NN
 
-<div style=\"page-break-after: always\"></div>
-
 ## MINIMUM PARTICULARS TO APPEAR ON BLISTERS OR STRIPS
 
 Blister sealed inside the wallet card
@@ -1077,8 +1085,9 @@ EXP
 
 Lot
 
-| 5.   | OTHER   |
-|------|---------|
+## 5. OTHER
+
+<div style=\"page-break-after: always\"></div>
 
 ## MINIMUM PARTICULARS TO APPEAR ON BLISTERS OR STRIPS
 
@@ -1602,6 +1611,10 @@ Apremilast Accord contains lactose (a type of sugar). If you have been told by y
 
 <div style=\"page-break-after: always\"></div>
 
+## Apremilast Accord contains sodium
+
+This medicine contains less than 1 mmol sodium (23 mg) per dose , that is to say essentially 'sodium -free'.
+
 ## 3. How to take Apremilast Accord
 
 Always take this medicine exactly as your doctor has told you. Check with your doctor or pharmacist if you are not sure.
@@ -1632,7 +1645,11 @@ Children and adolescents 6 years of age and older
 
 - The Apremilast Accord dose will be based on body weight.
 
-For patients who weigh from 20 kg to less than 50 kg: The recommended dose of Apremilast Accord is 20 mg twice a day, after the titration phase is completed, as shown in the table below - one 20 mg dose in the morning and one 20 mg dose in the evening, approximately 12 hours apart, with or without food. This is a total daily dose of 40 mg.
+For patients who weigh from 20 kg to less than 50 kg: The recommended dose of Apremilast Accord is 20 mg twice a day, after the titration phase is completed, as shown in the table below - one 20 mg
+
+<div style=\"page-break-after: always\"></div>
+
+dose in the morning and one 20 mg dose in the evening, approximately 12 hours apart, with or without food. This is a total daily dose of 40 mg.
 
 |               | Weight of 20 kg to less than 50 kg   | Weight of 20 kg to less than 50 kg   | Weight of 20 kg to less than 50 kg   |
 |---------------|--------------------------------------|--------------------------------------|--------------------------------------|
@@ -1644,11 +1661,7 @@ For patients who weigh from 20 kg to less than 50 kg: The recommended dose of Ap
 | Day 5         | 20 mg (brown)                        | 20 mg (brown)                        | 40 mg                                |
 | Day 6 onwards | 20 mg (brown)                        | 20 mg (brown)                        | 40 mg                                |
 
-For patients who weigh at least 50 kg : The recommended dose of Apremilast Accord is 30 mg twice a day after the titration phase is completed (the same as the adult dose), as shown in the table below -
-
-<div style=\"page-break-after: always\"></div>
-
-one 30 mg dose in the morning and one 30 mg dose in the evening, approximately 12 hours apart, with or without food. This is a total daily dose of 60 mg.
+For patients who weigh at least 50 kg : The recommended dose of Apremilast Accord is 30 mg twice a day after the titration phase is completed (the same as the adult dose), as shown in the table below one 30 mg dose in the morning and one 30 mg dose in the evening, approximately 12 hours apart, with or without food. This is a total daily dose of 60 mg.
 
 |               | Weight of 50 kg or more   | Weight of 50 kg or more   | Weight of 50 kg or more   |
 |---------------|---------------------------|---------------------------|---------------------------|
@@ -1681,6 +1694,8 @@ If your condition has not improved after six months of treatment, you should tal
 
 If you take more Apremilast Accord than you should, talk to a doctor or go to a hospital straight away. Take the medicine pack and this leaflet with you.
 
+<div style=\"page-break-after: always\"></div>
+
 ## If you forget to take Apremilast Accord
 
 - If you miss a dose of Apremilast Accord, take it as soon as you remember. If it is close to the time for your next dose, just skip the missed dose. Take the next dose at your regular time.
@@ -1692,8 +1707,6 @@ If you take more Apremilast Accord than you should, talk to a doctor or go to a 
 - Do not stop taking Apremilast Accord without talking to your doctor first.
 
 If you have any further questions on the use of this medicine, ask your doctor or pharmacist.
-
-<div style=\"page-break-after: always\"></div>
 
 ## 4. Possible side effects
 
@@ -1736,6 +1749,8 @@ Tell your doctor straight away about any changes in behaviour or mood, feelings 
 - bleeding in the bowel or in the stomach
 - suicidal ideation or behaviour
 
+<div style=\"page-break-after: always\"></div>
+
 ## Not known side effects (frequency cannot be estimated from the available data)
 
 - severe allergic reaction (may include swelling of the face, lips, mouth, tongue, or throat that may lead to difficulty breathing or swallowing)
@@ -1745,8 +1760,6 @@ If you are 65 years of age or older, you might have a higher risk of complicatio
 ## Reporting of side effects
 
 If you get any side effects, talk to your doctor or pharmacist. This includes any possible side effects not listed in this leaflet. You can also report side effects directly via the national reporting system listed in Appendix V. By reporting side effects you can help provide more information on the safety of this medicine.
-
-<div style=\"page-break-after: always\"></div>
 
 ## 5. How to store Apremilast Accord
 
@@ -1765,7 +1778,7 @@ Do not throw away any medicines via wastewater or household waste. Ask your phar
 
 Apremilast Accord 10 mg film-coated tablets: each film-coated tablet contains 10 mg of apremilast. Apremilast Accord 20 mg film-coated tablets: each film-coated tablet contains 20 mg of apremilast. Apremilast Accord 30 mg film-coated tablets: each film-coated tablet contains 30 mg of apremilast.
 
-The other ingredients in the tablet core are cellulose microcrystalline, lactose monohydrate, croscarmellose sodium, silica colloidal anhydrous and magnesium stearate.
+The other ingredients in the tablet core are cellulose microcrystalline (E460), lactose monohydrate, croscarmellose sodium (E468), silica colloidal anhydrous (E551) and magnesium stearate (E572).
 
 - The film-coating contains hypromellose (E464), titanium dioxide (E171), di-acetylated monoglycerides (E472a), iron oxide red (E172).
 - The 20 mg film-coated tablet also contains iron oxide yellow (E172).
@@ -1777,6 +1790,8 @@ Apremilast Accord 10 mg film-coated tablet is a pink, diamond shaped, biconvex f
 
 Apremilast Accord 20 mg film-coated tablet is a brown, diamond shaped, biconvex film-coated tablet debossed with 'A2' on one side and plain on other side. The size of the tablet is approximately 10 x 6 mm.
 
+<div style=\"page-break-after: always\"></div>
+
 Apremilast Accord 30 mg film-coated tablet is a beige, diamond shaped, biconvex film-coated tablet debossed with 'A3' on one side and plain on other side. The size of the tablet is approximately 12 x 6 mm.
 
 ## Pack sizes for treatment initiation
@@ -1786,18 +1801,13 @@ The treatment initiation packs are folding wallets containing:
 - 27 film-coated tablets: 4 × 10 mg tablets and 23 × 20 mg tablets
 - 27 film-coated tablets: 4 × 10 mg tablets, 4 × 20 mg tablets and 19 × 30 mg tablets.
 
-Pack sizes with Apremilast Accord 20 mg tablets
+## Pack sizes with Apremilast Accord 20 mg tablets
 
 - The one-month standard pack contains 56 × 20 mg film-coated tablets or perforated unit dose blisters of 56 × 1 × 20 mg film-coated tablets.
 
-Pack sizes with Apremilast Accord 30 mg tablets
+## Pack sizes with Apremilast Accord 30 mg tablets
 
-- The one-month standard pack contains 56 × 30 mg film-coated tablets or perforated unit dose
-
-<div style=\"page-break-after: always\"></div>
-
-blisters of 56 × 1 × 30 mg film-coated tablets.
-
+- The one-month standard pack contains 56 × 30 mg film-coated tablets or perforated unit dose blisters of 56 × 1 × 30 mg film-coated tablets.
 - The three-month standard multipack contains 168 × 30 mg film-coated tablets (3 packs of 56).
 
 ## Marketing Authorisation Holder
@@ -1816,9 +1826,7 @@ For any information about this medicine, please contact the local representative
 
 AT / BE / BG / CY / CZ / DE / DK / EE / ES / FI / FR / HR / HU / IE / IS / IT / LT / LV / LU/ MT / NL / NO / PL / PT / RO / SE / SI / SK
 
-Accord Healthcare S.L.U.
-
-Tel: +34 93 301 00 64
+Accord Healthcare S.L.U. Tel: +34 93 301 00 64
 
 EL
 
@@ -1831,5 +1839,7 @@ el: +30 210 74 88 821
 ## This leaflet was last revised in.
 
 ## Other sources of information
+
+<div style=\"page-break-after: always\"></div>
 
 Detailed information on this medicine is available on the European Medicines Agency website: http://www.ema.europa.eu.

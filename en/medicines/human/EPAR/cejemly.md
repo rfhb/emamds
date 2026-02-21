@@ -1,20 +1,20 @@
 ---
-document_datetime: 2025-12-29 12:13:06
+document_datetime: 2026-02-18 09:30:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/cejemly.html
 document_name: cejemly.html
 version: success
-processing_time: 0.1065566
-conversion_datetime: 2025-12-30 09:55:59.845648
+processing_time: 0.1020683
+conversion_datetime: 2026-02-21 12:23:45.568632
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.66.0
-  docling-core: 2.57.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.13.0
+  docling-jobkit: 1.11.0
+  docling: 2.74.0
+  docling-core: 2.65.1
+  docling-ibm-models: 3.11.0
+  docling-parse: 5.3.2
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.3-arm64-arm-64bit-Mach-O
 ---
 # Cejemly
 
@@ -25,8 +25,6 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 sugemalimab Medicine Human Authorised
-
-On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -118,7 +116,7 @@ English (EN) (151.62 KB - PDF)
 
 [View](/en/documents/overview/cejemly-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-33)
+[Other languages (22)](#file-language-dropdown-657)
 
 български (BG) (179.48 KB - PDF)
 
@@ -398,17 +396,17 @@ English (EN) (1.46 MB - PDF)
 
 Cejemly : EPAR - Product information
 
-English (EN) (1.12 MB - PDF)
+English (EN) (1.15 MB - PDF)
 
 **First published:** 05/11/2024
 
-**Last updated:** 27/11/2025
+**Last updated:** 18/02/2026
 
 [View](/en/documents/product-information/cejemly-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-599)
+[Other languages (24)](#file-language-dropdown-283)
 
-български (BG) (973.47 KB - PDF)
+български (BG) (1.1 MB - PDF)
 
 **First published:**
 
@@ -416,11 +414,11 @@ English (EN) (1.12 MB - PDF)
 
 **Last updated:**
 
-27/11/2025
+18/02/2026
 
 [View](/bg/documents/product-information/cejemly-epar-product-information_bg.pdf)
 
-español (ES) (1.24 MB - PDF)
+español (ES) (966.79 KB - PDF)
 
 **First published:**
 
@@ -428,11 +426,11 @@ español (ES) (1.24 MB - PDF)
 
 **Last updated:**
 
-27/11/2025
+18/02/2026
 
 [View](/es/documents/product-information/cejemly-epar-product-information_es.pdf)
 
-čeština (CS) (1.09 MB - PDF)
+čeština (CS) (992.69 KB - PDF)
 
 **First published:**
 
@@ -440,11 +438,11 @@ español (ES) (1.24 MB - PDF)
 
 **Last updated:**
 
-27/11/2025
+18/02/2026
 
 [View](/cs/documents/product-information/cejemly-epar-product-information_cs.pdf)
 
-dansk (DA) (1009.31 KB - PDF)
+dansk (DA) (909.15 KB - PDF)
 
 **First published:**
 
@@ -452,11 +450,11 @@ dansk (DA) (1009.31 KB - PDF)
 
 **Last updated:**
 
-27/11/2025
+18/02/2026
 
 [View](/da/documents/product-information/cejemly-epar-product-information_da.pdf)
 
-Deutsch (DE) (843.04 KB - PDF)
+Deutsch (DE) (983.15 KB - PDF)
 
 **First published:**
 
@@ -464,11 +462,11 @@ Deutsch (DE) (843.04 KB - PDF)
 
 **Last updated:**
 
-27/11/2025
+18/02/2026
 
 [View](/de/documents/product-information/cejemly-epar-product-information_de.pdf)
 
-eesti keel (ET) (789.23 KB - PDF)
+eesti keel (ET) (791.91 KB - PDF)
 
 **First published:**
 
@@ -476,11 +474,11 @@ eesti keel (ET) (789.23 KB - PDF)
 
 **Last updated:**
 
-27/11/2025
+18/02/2026
 
 [View](/et/documents/product-information/cejemly-epar-product-information_et.pdf)
 
-ελληνικά (EL) (819.87 KB - PDF)
+ελληνικά (EL) (1002.33 KB - PDF)
 
 **First published:**
 
@@ -488,11 +486,11 @@ eesti keel (ET) (789.23 KB - PDF)
 
 **Last updated:**
 
-27/11/2025
+18/02/2026
 
 [View](/el/documents/product-information/cejemly-epar-product-information_el.pdf)
 
-français (FR) (935.58 KB - PDF)
+français (FR) (889.7 KB - PDF)
 
 **First published:**
 
@@ -500,11 +498,11 @@ français (FR) (935.58 KB - PDF)
 
 **Last updated:**
 
-27/11/2025
+18/02/2026
 
 [View](/fr/documents/product-information/cejemly-epar-product-information_fr.pdf)
 
-hrvatski (HR) (976.17 KB - PDF)
+hrvatski (HR) (986.07 KB - PDF)
 
 **First published:**
 
@@ -512,11 +510,11 @@ hrvatski (HR) (976.17 KB - PDF)
 
 **Last updated:**
 
-27/11/2025
+18/02/2026
 
 [View](/hr/documents/product-information/cejemly-epar-product-information_hr.pdf)
 
-íslenska (IS) (1.17 MB - PDF)
+íslenska (IS) (832.49 KB - PDF)
 
 **First published:**
 
@@ -524,11 +522,11 @@ hrvatski (HR) (976.17 KB - PDF)
 
 **Last updated:**
 
-27/11/2025
+18/02/2026
 
 [View](/is/documents/product-information/cejemly-epar-product-information_is.pdf)
 
-italiano (IT) (1004.45 KB - PDF)
+italiano (IT) (937.57 KB - PDF)
 
 **First published:**
 
@@ -536,11 +534,11 @@ italiano (IT) (1004.45 KB - PDF)
 
 **Last updated:**
 
-27/11/2025
+18/02/2026
 
 [View](/it/documents/product-information/cejemly-epar-product-information_it.pdf)
 
-latviešu valoda (LV) (1.09 MB - PDF)
+latviešu valoda (LV) (878.18 KB - PDF)
 
 **First published:**
 
@@ -548,11 +546,11 @@ latviešu valoda (LV) (1.09 MB - PDF)
 
 **Last updated:**
 
-27/11/2025
+18/02/2026
 
 [View](/lv/documents/product-information/cejemly-epar-product-information_lv.pdf)
 
-lietuvių kalba (LT) (1.14 MB - PDF)
+lietuvių kalba (LT) (1.01 MB - PDF)
 
 **First published:**
 
@@ -560,11 +558,11 @@ lietuvių kalba (LT) (1.14 MB - PDF)
 
 **Last updated:**
 
-27/11/2025
+18/02/2026
 
 [View](/lt/documents/product-information/cejemly-epar-product-information_lt.pdf)
 
-magyar (HU) (963.99 KB - PDF)
+magyar (HU) (924.35 KB - PDF)
 
 **First published:**
 
@@ -572,11 +570,11 @@ magyar (HU) (963.99 KB - PDF)
 
 **Last updated:**
 
-27/11/2025
+18/02/2026
 
 [View](/hu/documents/product-information/cejemly-epar-product-information_hu.pdf)
 
-Malti (MT) (1.13 MB - PDF)
+Malti (MT) (909.59 KB - PDF)
 
 **First published:**
 
@@ -584,11 +582,11 @@ Malti (MT) (1.13 MB - PDF)
 
 **Last updated:**
 
-27/11/2025
+18/02/2026
 
 [View](/mt/documents/product-information/cejemly-epar-product-information_mt.pdf)
 
-Nederlands (NL) (960.82 KB - PDF)
+Nederlands (NL) (833.46 KB - PDF)
 
 **First published:**
 
@@ -596,11 +594,11 @@ Nederlands (NL) (960.82 KB - PDF)
 
 **Last updated:**
 
-27/11/2025
+18/02/2026
 
 [View](/nl/documents/product-information/cejemly-epar-product-information_nl.pdf)
 
-norsk (NO) (885.11 KB - PDF)
+norsk (NO) (766.6 KB - PDF)
 
 **First published:**
 
@@ -608,11 +606,11 @@ norsk (NO) (885.11 KB - PDF)
 
 **Last updated:**
 
-27/11/2025
+18/02/2026
 
 [View](/no/documents/product-information/cejemly-epar-product-information_no.pdf)
 
-polski (PL) (1.12 MB - PDF)
+polski (PL) (688.96 KB - PDF)
 
 **First published:**
 
@@ -620,11 +618,11 @@ polski (PL) (1.12 MB - PDF)
 
 **Last updated:**
 
-27/11/2025
+18/02/2026
 
 [View](/pl/documents/product-information/cejemly-epar-product-information_pl.pdf)
 
-português (PT) (851.79 KB - PDF)
+português (PT) (667.63 KB - PDF)
 
 **First published:**
 
@@ -632,11 +630,11 @@ português (PT) (851.79 KB - PDF)
 
 **Last updated:**
 
-27/11/2025
+18/02/2026
 
 [View](/pt/documents/product-information/cejemly-epar-product-information_pt.pdf)
 
-română (RO) (1.05 MB - PDF)
+română (RO) (674.16 KB - PDF)
 
 **First published:**
 
@@ -644,11 +642,11 @@ română (RO) (1.05 MB - PDF)
 
 **Last updated:**
 
-27/11/2025
+18/02/2026
 
 [View](/ro/documents/product-information/cejemly-epar-product-information_ro.pdf)
 
-slovenčina (SK) (1.01 MB - PDF)
+slovenčina (SK) (670.74 KB - PDF)
 
 **First published:**
 
@@ -656,11 +654,11 @@ slovenčina (SK) (1.01 MB - PDF)
 
 **Last updated:**
 
-27/11/2025
+18/02/2026
 
 [View](/sk/documents/product-information/cejemly-epar-product-information_sk.pdf)
 
-slovenščina (SL) (1.03 MB - PDF)
+slovenščina (SL) (683.66 KB - PDF)
 
 **First published:**
 
@@ -668,11 +666,11 @@ slovenščina (SL) (1.03 MB - PDF)
 
 **Last updated:**
 
-27/11/2025
+18/02/2026
 
 [View](/sl/documents/product-information/cejemly-epar-product-information_sl.pdf)
 
-Suomi (FI) (1.02 MB - PDF)
+Suomi (FI) (1.06 MB - PDF)
 
 **First published:**
 
@@ -680,11 +678,11 @@ Suomi (FI) (1.02 MB - PDF)
 
 **Last updated:**
 
-27/11/2025
+18/02/2026
 
 [View](/fi/documents/product-information/cejemly-epar-product-information_fi.pdf)
 
-svenska (SV) (1.49 MB - PDF)
+svenska (SV) (612.2 KB - PDF)
 
 **First published:**
 
@@ -692,11 +690,11 @@ svenska (SV) (1.49 MB - PDF)
 
 **Last updated:**
 
-27/11/2025
+18/02/2026
 
 [View](/sv/documents/product-information/cejemly-epar-product-information_sv.pdf)
 
-**Latest procedure affecting product information:** VR/0000261157 21/11/2025
+**Latest procedure affecting product information:** VR/0000332420 16/02/2026
 
 icon globe
 
@@ -720,7 +718,7 @@ English (EN) (42.54 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/cejemly-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-675)
+[Other languages (24)](#file-language-dropdown-653)
 
 български (BG) (45.42 KB - PDF)
 
@@ -942,7 +940,7 @@ Cstone Pharmaceuticals Ireland Limited
 
 117-126 Sheriff Street Upper Dublin 1 D01 YC43 Ireland
 
-Opinion adopted 30/05/2024 Marketing authorisation issued 24/07/2024 Revision 6
+Opinion adopted 30/05/2024 Marketing authorisation issued 24/07/2024 Revision 7
 
 ## Assessment history
 
@@ -954,11 +952,11 @@ Collapse section
 
 Cejemly : EPAR - Procedural steps taken and scientific information after authorisation
 
-English (EN) (180.68 KB - PDF)
+English (EN) (411.16 KB - PDF)
 
 **First published:** 17/03/2025
 
-**Last updated:** 27/11/2025
+**Last updated:** 18/02/2026
 
 [View](/en/documents/procedural-steps-after/cejemly-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf)
 
@@ -1032,7 +1030,7 @@ English (EN) (110.99 KB - PDF)
 
 [Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 27-30 May 2024](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-27-30-may-2024) 31/05/2024
 
-**This page was last updated on** 10/12/2025
+**This page was last updated on** 18/02/2026
 
 ## Share this page
 

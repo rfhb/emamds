@@ -1,20 +1,20 @@
 ---
-document_datetime: 2025-08-11 11:46:34
-document_pages: 148
+document_datetime: 2026-02-18 09:40:13
+document_pages: 149
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/wezenla-epar-product-information_en.pdf
 document_name: wezenla-epar-product-information_en.pdf
 version: success
-processing_time: 52.1826189
-conversion_datetime: 2025-12-22 14:09:12.742403
+processing_time: 57.5332625
+conversion_datetime: 2026-02-21 12:11:23.244811
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.64.1
-  docling-core: 2.55.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.13.0
+  docling-jobkit: 1.11.0
+  docling: 2.74.0
+  docling-core: 2.65.1
+  docling-ibm-models: 3.11.0
+  docling-parse: 5.3.2
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.3-arm64-arm-64bit-Mach-O
 ---
 ## ANNEX I
 
@@ -54,7 +54,7 @@ The solution is clear to opalescent, colourless to light yellow. The solution ha
 
 ## Adult Crohn's disease
 
-WEZENLA is indicated for the treatment of adult patients with moderately to severely active Crohn's disease who have had an inadequate response with, lost response to, or were intolerant to either conventional therapy or a TNFα antagonist .
+WEZENLA is indicated for the treatment of adult patients with moderately to severely active Crohn's disease who have had an inadequate response with, lost response to, or were intolerant to either conventional therapy or a TNFα antagonist.
 
 ## Paediatric Crohn's disease
 
@@ -82,8 +82,6 @@ Table 1. Initial intravenous dosing of WEZENLA
 | > 55 kg to ≤ 85 kg                             | 390 mg               |                                3 |
 | > 85 kg                                        | 520 mg               |                                4 |
 
-a Approximately 6 mg/kg
-
 The first subcutaneous dose should be given at week 8 following the intravenous dose. For the posology of the subsequent subcutaneous dosing regimen, see section 4.2 of the WEZENLA solution for injection (vial) and solution for injection in pre-filled syringe SmPC or pre-filled pen SmPC.
 
 Elderly ( ≥ 65 years)
@@ -107,8 +105,6 @@ Table 2. Initial intravenous dosing of WEZENLA
 | ≥ 40 kg to ≤ 55 kg                             | 260 mg               |                                2 |
 | > 55 kg to ≤ 85 kg                             | 390 mg               |                                3 |
 | > 85 kg                                        | 520 mg               |                                4 |
-
-a  Approximately 6 mg/kg
 
 The first subcutaneous dose should be given at week 8 following the intravenous dose. For the posology of the subsequent subcutaneous dosing regimen, see section 4.2 of the WEZENLA solution for injection (vial) and solution for injection in pre-filled syringe SmPC.
 
@@ -288,8 +284,6 @@ Table 3. List of adverse reactions
 | Musculoskeletal and connective tissue disorders      | Common: Back pain, myalgia, arthralgia Very rare: Lupus-like syndrome                                                                                                                                                                    |
 | General disorders and administration site conditions | Common: Fatigue, injection site erythema, injection site pain Uncommon: Injection site reactions (including haemorrhage, haematoma, induration, swelling and pruritus), asthenia                                                         |
 
-* See section 4.4, Systemic and respiratory hypersensitivity reactions.
-
 ## Description of selected adverse reactions
 
 ## Infections
@@ -308,7 +302,7 @@ In clinical studies, patients with latent tuberculosis who were concurrently tre
 
 In the placebocontrolled period of the psoriasis, psoriatic arthritis, Crohn's disease and ulcerative colitis clinical studies, the incidence of malignancies excluding non-melanoma skin cancer was 0.11 per 100 patient-years of follow-up for ustekinumab-treated patients (1 patient in 929 patient-years of follow-up) compared with 0.23 for placebo-treated patients (1 patient in 434 patient-years of follow-up). The incidence of non-melanoma skin cancer was 0.43 per 100 patient-years of follow-up for ustekinumab-treated patients (4 patients in 929 patient-years of follow-up) compared to 0.46 for placebo-treated patients (2 patients in 433 patient-years of follow-up).
 
-In the controlled and non-controlled periods of psoriasis, psoriatic arthritis, Crohn's disease and ulcerative colitis clinical studies, representing 15 205 patient-years of ustekinumab exposure in 6 710 patients, the median follow-up was 1.2 years; 1.7 years for psoriatic disease studies, 0.6 year for Crohn's disease studies and 2.3 years for ulcerative colitis studies. Malignancies excluding non-melanoma skin cancers were reported in 76 patients in 15 205 patient-years of follow-up (incidence of 0.50 per 100 patient-years of follow-up for ustekinumab-treated patients). The incidence of malignancies reported in ustekinumab-treated patients was comparable to the incidence expected in the general population (standardised incidence ratio = 0.94 [95% confidence interval: 0.73, 1.18], adjusted for age, gender and race). The most frequently observed malignancies, other than non-melanoma skin cancer, were prostate, melanoma, colorectal, and breast cancers. The incidence of non-melanoma skin cancer was 0.46 per 100 patient-years of follow-up for ustekinumab-treated patients (69 patients in 15 165 patient-years of follow-up). The ratio of patients with basal versus squamous cell skin cancers (3:1) is comparable with the ratio expected in the general population (see section 4.4).
+In the controlled and noncontrolled periods of psoriasis, psoriatic arthritis, Crohn's disease and ulcerative colitis clinical studies, representing 15 205 patient-years of ustekinumab exposure in 6 710 patients, the median follow-up was 1.2 years; 1.7 years for psoriatic disease studies, 0.6 year for Crohn's disease studies and 2.3 years for ulcerative colitis studies. Malignancies excluding non-melanoma skin cancers were reported in 76 patients in 15 205 patient-years of follow-up (incidence of 0.50 per 100 patient-years of follow-up for ustekinumab-treated patients). The incidence of malignancies reported in ustekinumab-treated patients was comparable to the incidence expected in the general population (standardised incidence ratio = 0.94 [95% confidence interval: 0.73, 1.18], adjusted for age, gender and race). The most frequently observed malignancies, other than non-melanoma skin cancer, were prostate, melanoma, colorectal, and breast cancers. The incidence of non-melanoma skin cancer was 0.46 per 100 patient-years of follow-up for ustekinumab-treated patients (69 patients in 15 165 patient-years of follow-up). The ratio of patients with basal versus squamous cell skin cancers (3:1) is comparable with the ratio expected in the general population (see section 4.4).
 
 ## Hypersensitivity and infusion reactions
 
@@ -360,7 +354,7 @@ During the long term extension of Psoriasis Study 2 (PHOENIX 2), adult patients 
 
 ## Crohn's disease
 
-The safety and efficacy of ustekinumab was assessed in three randomised, double-blind, placebo-controlled, multicentre studies in adult patients with moderately to severely active Crohn's disease ( Crohn's Disease Activity Index [CDAI] score of ≥ 220 and ≤ 450). The clinical development program consisted of two 8-week intravenous induction studies (UNITI-1 and UNITI-2) followed by a 44-week subcutaneous randomised withdrawal maintenance study (IM-UNITI) representing 52 weeks of therapy.
+The safety and efficacy of ustekinumab was assessed in three randomised, double-blind, placebocontrolled, multicentre studies in adult patients with moderately to severely active Crohn's disease ( Crohn's Disease Activity Index [CDAI] score of ≥ 220 and ≤ 450). The clinical development program consisted of two 8-week intravenous induction studies (UNITI-1 and UNITI-2) followed by a 44-week subcutaneous randomised withdrawal maintenance study (IM-UNITI) representing 52 weeks of therapy.
 
 The induction studies included 1 409 (UNITI-1, n = 769; UNITI-2 n = 640) patients. The primary endpoint for both induction studies was the proportion of subjects in clinical response (defined as a reduction in CDAI score of ≥ 100 points) at week 6. Efficacy data were collected and analysed through week 8 for both studies. Concomitant doses of oral corticosteroids, immunomodulators, aminosalicylates and antibiotics were permitted and 75% of patients continued to receive at least one of these medications. In both studies, patients were randomised to receive a single intravenous administration of either the recommended tiered dose of approximately 6 mg/kg (see table 1, section 4.2), a fixed dose of 130 mg ustekinumab, or placebo at week 0.
 
@@ -510,7 +504,7 @@ The total IMPACT-III scores and all subdomains (bowel symptoms, fatigue-related 
 
 ## 5.2 Pharmacokinetic properties
 
-Following the recommended intravenous induction dose, median peak serum ustekinumab concentration, observed 1 hour after the infusion, was 126.1 mcg/mL in patients with Crohn's disease.
+Following the recommended intravenous induction dose, median peak serum ustekinumab concentration, observed 1 hour after the infusion, was 126.1 mcg/m L in patients with Crohn's disease.
 
 ## Distribution
 
@@ -634,9 +628,7 @@ This medicinal product is subject to additional monitoring. This will allow quic
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
-WEZENLA 45 mg solution for injection WEZENLA 45 mg solution for injection in pre-filled syringe
-
-WEZENLA 90 mg solution for injection in pre-filled syringe
+WEZENLA 45 mg solution for injection WEZENLA 45 mg solution for injection in pre-filled syringe WEZENLA 90 mg solution for injection in pre-filled syringe
 
 ## 2. QUALITATIVE AND QUANTITATIVE COMPOSITION
 
@@ -696,7 +688,7 @@ WEZENLA, alone or in combination with MTX, is indicated for the treatment of act
 
 ## Adult Crohn's disease
 
-WEZENLA is indicated for the treatment of adult patients with moderately to severely active Crohn's disease who have had an inadequate response with, lost response to, or were intolerant to either conventional therapy or a TNFα antagonist .
+WEZENLA is indicated for the treatment of adult patients with moderately to severely active Crohn's disease who have had an inadequate response with, lost response to, or were intolerant to either conventional therapy or a TNFα antagonist.
 
 ## Paediatric Crohn's disease
 
@@ -1030,8 +1022,6 @@ Table 3. List of adverse reactions
 | Musculoskeletal and connective tissue disorders      | Common: Back pain, myalgia, arthralgia Very rare: Lupus-like syndrome                                                                                                                        |
 | General disorders and administration site conditions | Common: Fatigue, injection site erythema, injection site pain Uncommon: Injection site reactions (including haemorrhage, haematoma, induration, swelling and pruritus), asthenia             |
 
-* See section 4.4, Systemic and respiratory hypersensitivity reactions.
-
 ## Description of selected adverse reactions
 
 ## Infections
@@ -1330,7 +1320,7 @@ a  CDLQI: The CDLQI is a dermatology instrument to assess the effect of a skin p
 
 ## Crohn's disease
 
-The safety and efficacy of ustekinumab was assessed in three randomised, double-blind, placebo-controlled, multicentre studies in adult patients with moderately to severely active Crohn's disease (Crohn's Disease Activity Index [CDAI] score of ≥ 220 and ≤ 450). The clinical development program consisted of two 8 week intravenous induction studies (UNITI-1 and UNITI-2) followed by a 44-week subcutaneous randomised withdrawal maintenance study (IM-UNITI) representing 52 weeks of therapy.
+The safety and efficacy of ustekinumab was assessed in three randomised, double-blind, placebocontrolled, multicentre studies in adult patients with moderately to severely active Crohn's disease (Crohn's Disease Activity Index [CDAI] score of ≥ 220 and ≤ 450). The clinical development program consisted of two 8 week intravenous induction studies (UNITI-1 and UNITI-2) followed by a 44-week subcutaneous randomised withdrawal maintenance study (IM-UNITI) representing 52 weeks of therapy.
 
 The induction studies included 1 409 (UNITI-1, n = 769; UNITI-2 n = 640) patients. The primary endpoint for both induction studies was the proportion of subjects in clinical response (defined as a reduction in CDAI score of ≥ 100 points) at week 6. Efficacy data were collected and analysed through week 8 for both studies. Concomitant doses of oral corticosteroids, immunomodulators, aminosalicylates and antibiotics were permitted and 75% of patients continued to receive at least one of these medications. In both studies, patients were randomised to receive a single intravenous administration of either the recommended tiered dose of approximately 6 mg/kg (see section 4.2 of the WEZENLA 130 mg concentrate for solution for infusion SmPC), a fixed dose of 130 mg ustekinumab, or placebo at week 0.
 
@@ -1461,14 +1451,6 @@ Table 11. Summary of Secondary endpoints through Maintenance week 44
 | Clinical response †                                                                  | 52.2% (12/23)                            | 60.0% (15/25)                             | 56.3% (27/48)                     |
 | Endoscopic response £                                                                | 22.7% (5/22)                             | 28.0% (7/25)                              | 25.5% (12/47)                     |
 
-* Clinical remission is defined as PCDAI score ≤ 10 points
-
-§ Corticosteroidfree remission is defined as PCDAI score of ≤ 10 points and not receiving corticosteroids for at least 90 days prior to Week M-44
-
-† Clinical response is defined as a reduction from baseline in the PCDAI score of ≥ 12.5 points with a total PCDAI score not more than 30
-
-£ Endoscopic response is defined as a reduction in the SESCD score of ≥ 50% or SESCD score ≤ 2, in patients with a baseline SESCD score of ≥ 3
-
 ## Dosing frequency adjustment
 
 Patients who entered the maintenance regimen and experienced loss of response (LOR) based on PCDAI score were eligible for dose adjustment. Patients were either switched from treatment every 12 weeks to every 8 weeks or stayed on treatment every 8 weeks (sham adjustment). Two patients were dose adjusted to the shorter dosing interval. In these patients, clinical remission was achieved in 100% (2/2) of patients 8 weeks after dose adjustment.
@@ -1523,7 +1505,7 @@ In a population pharmacokinetic analysis using data from patients with psoriasis
 
 ## Dosing frequency adjustment
 
-In patients with Crohn's disease, based on observed data and population PK analyses, randomi sed subjects who lost response to treatment had lower serum ustekinumab concentrations over time compared w ith subjects who did not lose response. In Crohn's disease, dose adjustment from 90 mg every 12 weeks to 90 mg every 8 weeks was associated with an increase in trough serum ustekinumab concentrations and an accompanying increase in efficacy.
+In patients with Crohn's disease, based on observed data and population PK analyses, randomised subjects who lost response to treatment had lower serum ustekinumab concentrations over time compared w ith subjects who did not lose response. In Crohn's disease, dose adjustment from 90 mg every 12 weeks to 90 mg every 8 weeks was associated with an increase in trough serum ustekinumab concentrations and an accompanying increase in efficacy.
 
 ## Special populations
 
@@ -1705,7 +1687,7 @@ WEZENLA, alone or in combination with MTX, is indicated for the treatment of act
 
 ## Crohn's disease
 
-WEZENLA is indicated for the treatment of adult patients with moderately to severely active Crohn's disease who have had an inadequate response with, lost response to, or were intolerant to either conventional therapy or a TNFα antagonist .
+WEZENLA is indicated for the treatment of adult patients with moderately to severely active Crohn's disease who have had an inadequate response with, lost response to, or were intolerant to either conventional therapy or a TNFα antagonist.
 
 ## 4.2 Posology and method of administration
 
@@ -1952,8 +1934,6 @@ Table 1. List of adverse reactions
 | Musculoskeletal and connective tissue disorders      | Common: Back pain, myalgia, arthralgia Very rare: Lupus-like syndrome                                                                                                                        |
 | General disorders and administration site conditions | Common: Fatigue, injection site erythema, injection site pain Uncommon: Injection site reactions (including haemorrhage, haematoma, induration, swelling and pruritus), asthenia             |
 
-* See section 4.4, Systemic and respiratory hypersensitivity reactions.
-
 ## Description of selected adverse reactions
 
 ## Infections
@@ -1968,7 +1948,7 @@ In clinical studies, patients with latent tuberculosis who were concurrently tre
 
 In the placebocontrolled period of the psoriasis, psoriatic arthritis, Crohn's disease and ulcerative colitis clinical studies, the incidence of malignancies excluding non-melanoma skin cancer was 0.11 per 100 patient-years of follow-up for ustekinumab-treated patients (1 patient in 929 patient-years of follow-up) compared with 0.23 for placebo-treated patients (1 patient in 434 patient-years of follow-up). The incidence of non-melanoma skin cancer was 0.43 per 100 patient-years of follow-up for ustekinumab-treated patients (4 patients in 929 patient-years of follow-up) compared to 0.46 for placebo-treated patients (2 patients in 433 patient-years of follow-up).
 
-In the controlled and non-controlled periods of psoriasis, psoriatic arthritis, Crohn's disease and ulcerative colitis clinical studies, representing 15 205 patient-years of ustekinumab exposure in 6 710 patients, the median follow-up was 1.2 years; 1.7 years for psoriatic disease studies, 0.6 year for Crohn's disease studies and 2.3 years for ulcerative colitis studies. Malignancies excluding nonmelanoma skin cancers were reported in 76 patients in 15 205 patient-years of follow-up (incidence of 0.50 per 100 patient-years of follow-up for ustekinumab-treated patients). The incidence of malignancies reported in ustekinumab-treated patients was comparable to the incidence expected in the
+In the controlled and noncontrolled periods of psoriasis, psoriatic arthritis, Crohn's disease and ulcerative colitis clinical studies, representing 15 205 patient-years of ustekinumab exposure in 6 710 patients, the median follow-up was 1.2 years; 1.7 years for psoriatic disease studies, 0.6 year for Crohn's disease studies and 2.3 years for ulcerative colitis studies. Malignancies excluding nonmelanoma skin cancers were reported in 76 patients in 15 205 patient-years of follow-up (incidence of 0.50 per 100 patient-years of follow-up for ustekinumab-treated patients). The incidence of malignancies reported in ustekinumab-treated patients was comparable to the incidence expected in the
 
 <div style=\"page-break-after: always\"></div>
 
@@ -2054,10 +2034,6 @@ Table 2. Summary of clinical response in Psoriasis Study 1 (PHOENIX 1) and Psori
 | Number of patients > 100 kg       | 120                                   | 112                                   | 121                                   | 110                                            | 119                                            |
 | PASI 75 response N (%)            | 3 (3%)                                | 55 (49%)                              | 86 (71%)                              | 59 (54%)                                       | 88 (74%)                                       |
 
-a  p &lt; 0.001 for ustekinumab 45 mg or 90 mg in comparison with placebo (PBO).
-
-b  PGA = Physician Global Assessment.
-
 Table 3. Summary of clinical response at week 12 in Psoriasis Study 3 (ACCEPT)
 
 |                                 | Psoriasis Study 3                  | Psoriasis Study 3                       | Psoriasis Study 3                       |
@@ -2073,10 +2049,6 @@ Table 3. Summary of clinical response at week 12 in Psoriasis Study 3 (ACCEPT)
 | PASI 75 response N (%)          | 154 (61%)                          | 109 (72%)                               | 189 (77%)                               |
 | Number of patients > 100 kg     | 96                                 | 58                                      | 103                                     |
 | PASI 75 response N (%)          | 43 (45%)                           | 32 (55%)                                | 67 (65%)                                |
-
-a p &lt; 0.001 for ustekinumab 45 mg or 90 mg in comparison with etanercept.
-
-b p = 0.012 for ustekinumab 45 mg in comparison with etanercept.
 
 <div style=\"page-break-after: always\"></div>
 
@@ -2121,14 +2093,6 @@ Table 4. Number of patients who achieved clinical response in Psoriatic arthriti
 | ACR 20 response,N (%)                      | 8 (15%)                       | 20 (38%)                      | 23 (46%)                      | 4 (13%)                       | 13 (45%)                      | 12 (39%)                      |
 | Number of patients with ≥ 3% BSA d         | 41                            | 40                            | 38                            | 26                            | 22                            | 24                            |
 | PASI 75 response,N (%)                     | 2 (5%)                        | 19 (48%)                      | 20 (53%)                      | 0                             | 10 (45%)                      | 13 (54%)                      |
-
-a p &lt; 0.001
-
-b  p &lt; 0.05
-
-c  p = NS
-
-d  Number of patients with ≥ 3% BSA psoriasis skin involvement at baseline
 
 ACR 20, 50 and 70 responses continued to improve or were maintained through week 52 (PsA Study 1 and 2) and week 100 (PsA Study 1). In PsA Study 1, ACR 20 responses at week 100 were achieved by 57% and 64%, for 45 mg and 90 mg, respectively. In PsA Study 2, ACR 20 responses at week 52 were achieved by 47% and 48%, for 45 mg and 90 mg, respectively.
 
@@ -2262,7 +2226,7 @@ Antibodies to ustekinumab may develop during ustekinumab treatment and most are 
 
 ## Paediatric population
 
-The European Medicines Agency has deferred the obligation to submit the results of studies with ustekinumab in one or more subsets of the paediatric population in Crohn's disease . The pre-filled pen has not been studied in the paediatric population and is not recommended for use by paediatric patients.
+The European Medicines Agency has deferred the obligation to submit the results of studies with ustekinumab in one or more subsets of the paediatric population in Crohn's disease. The pre-filled pen has not been studied in the paediatric population and is not recommended for use by paediatric patients.
 
 ## 5.2 Pharmacokinetic properties
 
@@ -2429,9 +2393,13 @@ Detailed information on this medicinal product is available on the website of th
 
 ## A. MANUFACTURER OF THE BIOLOGICAL ACTIVE SUBSTANCE AND MANUFACTURERS RESPONSIBLE FOR BATCH RELEASE
 
-Name and address of the manufacturer of the biological active substance Immunex Rhode Island Corporation 40 Technology Way West Greenwich Rhode Island, 02817 United States
+Name and address of the manufacturer of the biological active substance
+
+Immunex Rhode Island Corporation 40 Technology Way West Greenwich Rhode Island, 02817 United States
 
 Name and address of the manufacturers responsible for batch release Amgen Technology (Ireland) UC, Pottery Road, Dun Laoghaire, Co Dublin, Ireland
+
+Amgen Europe B.V. Minervum 7061 4817 ZK Breda The Netherlands
 
 Amgen NV Telecomlaan 5-7 1831 Diegem Belgium
 
@@ -2452,6 +2420,8 @@ The requirements for submission of PSURs for this medicinal product are set out 
 ## · Risk management plan (RMP)
 
 The marketing authorisation holder (MAH) shall perform the required pharmacovigilance activities and interventions detailed in the agreed RMP presented in Module 1.8.2 of the marketing authorisation and any agreed subsequent updates of the RMP.
+
+<div style=\"page-break-after: always\"></div>
 
 An updated RMP should be submitted:
 
@@ -2576,8 +2546,7 @@ WEZENLA 130 mg concentrate for solution for infusion ustekinumab
 
 For IV use after dilution. Do not shake.
 
-| 3.   | EXPIRY DATE   |
-|------|---------------|
+## 3. EXPIRY DATE
 
 EXP
 
@@ -2683,7 +2652,9 @@ WEZENLA 45 mg vial
 | 18.   | UNIQUE IDENTIFIER - HUMANREADABLEDATA   |
 |-------|-----------------------------------------|
 
-PC SN NN
+PC SN
+
+NN
 
 <div style=\"page-break-after: always\"></div>
 
@@ -2960,9 +2931,7 @@ WEZENLA 90 mg syringe
 | 18.   | UNIQUE IDENTIFIER - HUMANREADABLEDATA   |
 |-------|-----------------------------------------|
 
-PC SN
-
-NN
+PC SN NN
 
 <div style=\"page-break-after: always\"></div>
 
@@ -2975,8 +2944,8 @@ NN
 
 WEZENLA 90 mg injection ustekinumab
 
-| 2.   | NAMEOFTHEMARKETING AUTHORISATION HOLDER   |
-|------|-------------------------------------------|
+| 2.   | NAMEOFTHEMARKETINGAUTHORISATION HOLDER   |
+|------|------------------------------------------|
 
 Amgen
 
@@ -3027,7 +2996,7 @@ Lot
 | 6.   | OTHER   |
 |------|---------|
 
-88
+89
 
 <div style=\"page-break-after: always\"></div>
 
@@ -3157,6 +3126,8 @@ Lot
 | 6.   | OTHER   |
 |------|---------|
 
+92
+
 <div style=\"page-break-after: always\"></div>
 
 ## PARTICULARS TO APPEAR ON THE OUTER PACKAGING
@@ -3282,7 +3253,7 @@ Lot
 | 6.   | OTHER   |
 |------|---------|
 
-94
+95
 
 <div style=\"page-break-after: always\"></div>
 
@@ -3589,33 +3560,27 @@ Amgen Technology (Ireland) UC, Pottery Road, Dun Laoghaire, Co Dublin, Ireland
 
 ## Manufacturer
 
+Amgen Europe B.V., Minervum 7061, 4817 ZK Breda, The Netherlands
+
+## Manufacturer
+
 Amgen NV Telecomlaan 5-7 1831 Diegem Belgium
 
 For any information about this medicine, please contact the local representative of the Marketing Authorisation Holder:
 
-## België/Belgique/Belgien
-
-s.a. Amgen n.v.
+België/Belgique/Belgien s.a. Amgen n.v.
 
 Tél/Tel: +32 (0)2 7752711
 
-## Lietuva
+Lietuva Tel: +370 5 219 7474
 
 Amgen Switzerland AG Vilniaus filialas
 
-Tel: +370 5 219 7474
+<div style=\"page-break-after: always\"></div>
 
 ## България
 
-Амджен България ЕООД
-
-Тел.: +359 (0)2 424 7440
-
-## Luxembourg/Luxemburg
-
-s.a. Amgen
-
-Belgique/Belgien Tél/Tel: +32 (0)2 7752711
+Амджен България ЕООД Тел.: +359 (0)2 424 7440
 
 ## Česká republika
 
@@ -3623,61 +3588,37 @@ Amgen s.r.o.
 
 Tel: +420 221 773 500
 
-## Magyarország
-
-Amgen Kft.
-
-Tel.: +36 1 35 44 700
-
-<div style=\"page-break-after: always\"></div>
-
 ## Danmark
 
-Amgen, filial af Amgen AB, Sverige
-
-Tlf.: +45 39617500
+Amgen, filial af Amgen AB, Sverige Tlf.: +45 39617500
 
 ## Deutschland
 
-Amgen GmbH
-
-Tel.: +49 89 1490960
+Amgen GmbH Tel.: +49 89 1490960
 
 ## Eesti
 
-Amgen Switzerland AG Vilniaus filialas
-
-Tel: +372 586 09553
+Amgen Switzerland AG Vilniaus filialas Tel: +372 586 09553
 
 ## Ελλάδα
 
-Amgen Ελλάς Φαρμακευτικά Ε.Π.Ε.
-
-Τηλ.: +30 210 3447000
+Amgen Ελλάς Φαρμακευτικά Ε.Π.Ε. Τηλ.: +30 210 3447000
 
 ## España
 
-Amgen S.A.
-
-Tel: +34 93 600 18 60
+Amgen S.A. Tel: +34 93 600 18 60
 
 ## France
 
-Amgen S.A.S.
-
-Tél: +33 (0)9 69 363 363
+Amgen S.A.S. Tél: +33 (0)9 69 363 363
 
 ## Hrvatska
 
-Amgen d.o.o.
-
-Tel: +385 (0)1 562 57 20
+Amgen d.o.o. Tel: +385 (0)1 562 57 20
 
 ## Ireland
 
-Amgen Ireland Limited
-
-Tel: +353 1 8527400
+Amgen Ireland Limited Tel: +353 1 8527400
 
 ## Ísland
 
@@ -3687,15 +3628,69 @@ Sími: +354 535 7000
 
 ## Italia
 
-Amgen S.r.l.
-
-Tel: +39 02 6241121
+Amgen S.r.l. Tel: +39 02 6241121
 
 ## Kύπρος
 
-C.A. Papaellinas Ltd
+C.A. Papaellinas Ltd Τηλ: +357 22741 741
 
-Τηλ: +357 22741 741
+## Luxembourg/Luxemburg
+
+s.a. Amgen Belgique/Belgien Tél/Tel: +32 (0)2 7752711
+
+## Magyarország
+
+Amgen Kft.
+
+Tel.: +36 1 35 44 700
+
+## Malta
+
+Amgen S.r.l. Italy Tel: +39 02 6241121
+
+## Nederland
+
+Amgen B.V. Tel: +31 (0)76 5732500
+
+## Norge
+
+Amgen AB Tlf: +47 23308000
+
+## Österreich
+
+Amgen GmbH Tel: +43 (0)1 50 217
+
+## Polska
+
+Amgen Biotechnologia Sp. z o.o. Tel.: +48 22 581 3000
+
+## Portugal
+
+Amgen Biofarmacêutica, Lda. Tel: +351 21 4220606
+
+## România
+
+Amgen România SRL Tel: +4021 527 3000
+
+## Slovenija
+
+AMGEN zdravila d.o.o. Tel: +386 (0)1 585 1767
+
+## Slovenská republika
+
+Amgen Slovakia s.r.o.
+
+Tel: +421 2 321 114 49
+
+## Suomi/Finland
+
+Amgen AB, sivuliike Suomessa/Amgen AB, filial i Finland Puh/Tel: +358 (0)9 54900500
+
+## Sverige
+
+Amgen AB Tel: +46 (0)8 6951100
+
+<div style=\"page-break-after: always\"></div>
 
 ## Latvija
 
@@ -3708,76 +3703,6 @@ Tel: +371 257 25888
 ## Other sources of information
 
 Detailed information on this medicine is available on the European Medicines Agency web site: https://www.ema.europa.eu.
-
-## Malta
-
-Amgen S.r.l.
-
-Italy
-
-Tel: +39 02 6241121
-
-## Nederland
-
-Amgen B.V.
-
-Tel: +31 (0)76 5732500
-
-## Norge
-
-Amgen AB
-
-Tlf: +47 23308000
-
-## Österreich
-
-Amgen GmbH
-
-Tel: +43 (0)1 50 217
-
-## Polska
-
-Amgen Biotechnologia Sp. z o.o.
-
-Tel.: +48 22 581 3000
-
-## Portugal
-
-Amgen Biofarmacêutica, Lda.
-
-Tel: +351 21 4220606
-
-## România
-
-Amgen România SRL
-
-Tel: +4021 527 3000
-
-## Slovenija
-
-AMGEN zdravila d.o.o.
-
-Tel: +386 (0)1 585 1767
-
-## Slovenská republika
-
-Amgen Slovakia s.r.o.
-
-Tel: +421 2 321 114 49
-
-## Suomi/Finland
-
-Amgen AB, sivuliike Suomessa/Amgen AB, filial i Finland
-
-Puh/Tel: +358 (0)9 54900500
-
-## Sverige
-
-Amgen AB
-
-Tel: +46 (0)8 6951100
-
-<div style=\"page-break-after: always\"></div>
 
 --------------------------------------------------------------------------------------------------------------------------
 
@@ -3801,7 +3726,9 @@ WEZENLA concentrate for solution for infusion must be diluted, prepared and infu
 
 ## Storage
 
-If necessary, the diluted infusion solution may be stored at room temperature. After dilution chemical and physical in-use stability has been demonstrated between 0.86 mg/mL and 2.60 mg/mL for 24 hours at 15°C-25°C. Do not return to the refrigerator. Do not freeze.
+If necessary, the diluted infusion solution may be stored at room temperature.
+
+After dilution chemical and physical in-use stability has been demonstrated between 0.86 mg/mL and 2.60 mg/mL for 24 hours at 15°C-25°C. Do not return to the refrigerator. Do not freeze.
 
 <div style=\"page-break-after: always\"></div>
 
@@ -3891,8 +3818,7 @@ WEZENLA can cause serious side effects, including allergic reactions and infecti
 ## Before you use WEZENLA tell your doctor:
 
 - If you ever had an allergic reaction to WEZENLA . Ask your doctor if you are not sure.
-- If you have ever had any type of cancer -this is because immunosuppressants like
-- WEZENLA weaken part of the immune system. This may increase the risk of cancer.
+- If you have ever had any type of cancer -this is because immunosuppressants like WEZENLA weaken part of the immune system. This may increase the risk of cancer.
 - If you have been treated for psoriasis with other biologic medicines (a medicine produced from a biological source and usually given by injection) -the risk of cancer may be higher.
 - If you have or have had a recent infection .
 - If you have any new or changing lesions within psoriasis areas or on normal skin.
@@ -4054,7 +3980,7 @@ Shedding of skin -increase in redness and shedding of skin over a larger area of
 - Feeling tired
 - Feeling dizzy
 - Headache
-- Itching ('pruritus')
+- It ching ('pruritus')
 - Back, muscle or joint pain
 - Sore throat
 - Redness and pain where the injection is given
@@ -4123,13 +4049,15 @@ WEZENLA is a clear to opalescent, colourless to light yellow solution for inject
 
 ## Marketing Authorisation Holder and Manufacturer
 
-Amgen Technology (Ireland) UC,
-
-Pottery Road, Dun Laoghaire, Co Dublin, Ireland
+Amgen Technology (Ireland) UC, Pottery Road, Dun Laoghaire, Co Dublin, Ireland
 
 ## Marketing Authorisation Holder
 
 Amgen Technology (Ireland) UC, Pottery Road, Dun Laoghaire, Co Dublin, Ireland
+
+## Manufacturer
+
+Amgen Europe B.V., Minervum 7061, 4817 ZK Breda, The Netherlands
 
 ## Manufacturer
 
@@ -4141,17 +4069,39 @@ For any information about this medicine, please contact the local representative
 
 s.a. Amgen n.v. Tél/Tel: +32 (0)2 7752711
 
+## Lietuva
+
+Amgen Switzerland AG Vilniaus filialas Tel: +370 5 219 7474
+
 ## България
 
-Амджен България ЕООД Тел.: +359 (0)2 424 7440
+Амджен България ЕООД
+
+Тел.: +359 (0)2 424 7440
+
+## Luxembourg/Luxemburg
+
+s.a. Amgen Belgique/Belgien Tél/Tel: +32 (0)2 7752711
 
 ## Česká republika
 
-Amgen s.r.o. Tel: +420 221 773 500
+Amgen s.r.o.
+
+Tel: +420 221 773 500
+
+## Magyarország
+
+Amgen Kft. Tel.: +36 1 35 44 700
 
 ## Danmark
 
 Amgen, filial af Amgen AB, Sverige Tlf.: +45 39617500
+
+## Malta
+
+Amgen S.r.l. Italy
+
+Tel: +39 02 6241121
 
 ## Deutschland
 
@@ -4159,13 +4109,29 @@ Amgen GmbH
 
 Tel.: +49 89 1490960
 
+## Nederland
+
+Amgen B.V.
+
+Tel: +31 (0)76 5732500
+
 ## Eesti
 
 Amgen Switzerland AG Vilniaus filialas Tel: +372 586 09553
 
+## Norge
+
+Amgen AB
+
+Tlf: +47 23308000
+
+<div style=\"page-break-after: always\"></div>
+
 ## Ελλάδα
 
-Amgen Ελλάς Φαρμακευτικά Ε.Π.Ε. Τηλ.: +30 210 3447000
+Amgen Ελλάς Φαρμακευτικά Ε.Π.Ε.
+
+Τηλ.: +30 210 3447000
 
 ## España
 
@@ -4173,55 +4139,11 @@ Amgen S.A.
 
 Tel: +34 93 600 18 60
 
-## Lietuva
-
-Amgen Switzerland AG Vilniaus filialas Tel: +370 5 219 7474
-
-## Luxembourg/Luxemburg
-
-s.a. Amgen Belgique/Belgien Tél/Tel: +32 (0)2 7752711
-
-## Magyarország
-
-Amgen Kft.
-
-Tel.: +36 1 35 44 700
-
-## Malta
-
-Amgen S.r.l. Italy Tel: +39 02 6241121
-
-## Nederland
-
-Amgen B.V. Tel: +31 (0)76 5732500
-
-## Norge
-
-Amgen AB Tlf: +47 23308000
-
-## Österreich
-
-Amgen GmbH
-
-Tel: +43 (0)1 50 217
-
-## Polska
-
-Amgen Biotechnologia Sp. z o.o.
-
-Tel.: +48 22 581 3000
-
 ## France
 
 Amgen S.A.S.
 
 Tél: +33 (0)9 69 363 363
-
-## Portugal
-
-Amgen Biofarmacêutica, Lda.
-
-Tel: +351 21 4220606
 
 ## Hrvatska
 
@@ -4229,23 +4151,11 @@ Amgen d.o.o.
 
 Tel: +385 (0)1 562 57 20
 
-## România
-
-Amgen România SRL
-
-Tel: +4021 527 3000
-
 ## Ireland
 
 Amgen Ireland Limited
 
 Tel: +353 1 8527400
-
-## Slovenija
-
-AMGEN zdravila d.o.o.
-
-Tel: +386 (0)1 585 1767
 
 ## Ísland
 
@@ -4253,35 +4163,17 @@ Vistor
 
 Sími: +354 535 7000
 
-## Slovenská republika
-
-Amgen Slovakia s.r.o.
-
-Tel: +421 2 321 114 49
-
 ## Italia
 
 Amgen S.r.l.
 
 Tel: +39 02 6241121
 
-## Suomi/Finland
-
-Amgen AB, sivuliike Suomessa/Amgen AB, filial i Finland
-
-Puh/Tel: +358 (0)9 54900500
-
 ## Kύπρος
 
 C.A. Papaellinas Ltd
 
 Τηλ: +357 22741 741
-
-## Sverige
-
-Amgen AB
-
-Tel: +46 (0)8 6951100
 
 ## Latvija
 
@@ -4295,8 +4187,6 @@ Tel: +371 257 25888
 
 Detailed information on this medicine is available on the European Medicines Agency web site: https://www.ema.europa.eu.
 
-<div style=\"page-break-after: always\"></div>
-
 --------------------------------------------------------------------------------------------------------------------------
 
 ## Instructions for use
@@ -4306,11 +4196,59 @@ At the start of treatment, your healthcare provider will assist you with your fi
 - Do not mix WEZENLA with other liquids for injection.
 - Do not shake WEZENLA vials. This is because strong shaking may damage the medicine. Do not use the medicine if it has been shaken strongly.
 
+## Österreich
+
+Amgen GmbH
+
+Tel: +43 (0)1 50 217
+
+## Polska
+
+Amgen Biotechnologia Sp. z o.o.
+
+Tel.: +48 22 581 3000
+
+## Portugal
+
+Amgen Biofarmacêutica, Lda.
+
+Tel: +351 21 4220606
+
+## România
+
+Amgen România SRL
+
+Tel: +4021 527 3000
+
+## Slovenija
+
+AMGEN zdravila d.o.o.
+
+Tel: +386 (0)1 585 1767
+
+## Slovenská republika
+
+Amgen Slovakia s.r.o.
+
+Tel: +421 2 321 114 49
+
+## Suomi/Finland
+
+Amgen AB, sivuliike Suomessa/Amgen AB, filial i Finland
+
+Puh/Tel: +358 (0)9 54900500
+
+## Sverige
+
+Amgen AB
+
+Tel: +46 (0)8 6951100
+
+<div style=\"page-break-after: always\"></div>
+
 ## 1. Check the number of vials and prepare the materials:
 
 Take the vial(s) out of the refrigerator. Let the vial stand for about half an hour. This will let the liquid come to a comfortable temperature for injection (room temperature).
-
-<div style=\"page-break-after: always\"></div>
 
 Check the vial(s) to make sure:
 
@@ -4585,7 +4523,7 @@ Your doctor will decide how much WEZENLA you need to use and for how long.
 <div style=\"page-break-after: always\"></div>
 
 - However, you and your doctor may decide that you may inject WEZENLA yourself. In this case you will get training on how to inject WEZENLA yourself.
-- For instructions on how to inject WEZENLA , see 'Instructions for use ' at the end of this leaflet. Talk to your doctor if you have any questions about giving yourself an injection.
+- For instructions on how to inject WEZENLA , see 'Instructions for use' at the end of this leaflet. Talk to your doctor if you have any questions about giving yourself an injection.
 
 ## If you use more WEZENLA than you should
 
@@ -4723,13 +4661,15 @@ WEZENLA is a clear to opalescent, colourless to light yellow solution for inject
 
 ## Marketing Authorisation Holder and Manufacturer
 
-Amgen Technology (Ireland) UC,
-
-Pottery Road, Dun Laoghaire, Co Dublin, Ireland
+Amgen Technology (Ireland) UC, Pottery Road, Dun Laoghaire, Co Dublin, Ireland
 
 ## Marketing Authorisation Holder
 
 Amgen Technology (Ireland) UC, Pottery Road, Dun Laoghaire, Co Dublin, Ireland
+
+## Manufacturer
+
+Amgen Europe B.V., Minervum 7061, 4817 ZK Breda, The Netherlands
 
 ## Manufacturer
 
@@ -4751,7 +4691,9 @@ Tél/Tel: +32 (0)2 7752711
 
 ## Česká republika
 
-Amgen s.r.o. Tel: +420 221 773 500
+Amgen s.r.o.
+
+Tel: +420 221 773 500
 
 ## Danmark
 
@@ -4767,18 +4709,6 @@ Tel.: +49 89 1490960
 
 Amgen Switzerland AG Vilniaus filialas Tel: +372 586 09553
 
-## Ελλάδα
-
-Amgen Ελλάς Φαρμακευτικά Ε.Π.Ε.
-
-Τηλ.: +30 210 3447000
-
-## España
-
-Amgen S.A.
-
-Tel: +34 93 600 18 60
-
 ## Lietuva
 
 Amgen Switzerland AG Vilniaus filialas Tel: +370 5 219 7474
@@ -4787,31 +4717,53 @@ Amgen Switzerland AG Vilniaus filialas Tel: +370 5 219 7474
 
 s.a. Amgen
 
-Belgique/Belgien Tél/Tel: +32 (0)2 7752711
+Belgique/Belgien
+
+Tél/Tel: +32 (0)2 7752711
 
 ## Magyarország
 
-Amgen Kft. Tel.: +36 1 35 44 700
+Amgen Kft.
+
+Tel.: +36 1 35 44 700
 
 ## Malta
 
-Amgen S.r.l.
-
-Italy
+Amgen S.r.l. Italy
 
 Tel: +39 02 6241121
 
 ## Nederland
 
-Amgen B.V. Tel: +31 (0)76 5732500
+Amgen B.V.
+
+Tel: +31 (0)76 5732500
 
 ## Norge
 
-Amgen AB Tlf: +47 23308000
+Amgen AB
+
+Tlf: +47 23308000
+
+<div style=\"page-break-after: always\"></div>
+
+## Ελλάδα
 
 ## Österreich
 
-Amgen GmbH Tel: +43 (0)1 50 217
+Amgen Ελλάς Φαρμακευτικά Ε.Π.Ε.
+
+Τηλ.: +30 210 3447000
+
+Amgen GmbH
+
+Tel: +43 (0)1 50 217
+
+## España
+
+Amgen S.A.
+
+Tel: +34 93 600 18 60
 
 ## Polska
 
@@ -4903,8 +4855,6 @@ Tel: +371 257 25888
 
 Detailed information on this medicine is available on the European Medicines Agency web site: https://www.ema.europa.eu.
 
-<div style=\"page-break-after: always\"></div>
-
 --------------------------------------------------------------------------------------------------------------------------
 
 <div style=\"page-break-after: always\"></div>
@@ -4936,8 +4886,7 @@ This pre-filled syringe delivers WEZENLA with an under-the-skin (subcutaneous) i
 ## Using your WEZENLA pre-filled syringe:
 
 - It is important that you do not try to give yourself the injection unless you have received training from your doctor or healthcare provider.
-- In children 12 years of age and older with psoriasis who weigh 60 kg or more, it is
-- recommended that WEZENLA is used by or under supervision of a parent or caregiver.
+- In children 12 years of age and older with psoriasis who weigh 60 kg or more, it is recommended that WEZENLA is used by or under supervision of a parent or caregiver.
 - Do not use the pre-filled syringe if the carton is damaged or seal is broken.
 - Do not use the pre-filled syringe after the expiry date on the label.
 - Do not shake the pre-filled syringe.
@@ -5044,6 +4993,8 @@ Important: Only remove the cap when you can inject right away (within 5 minutes)
 - A drop of medicine is normal.
 - Pinch the skin between thumb and index finger to create a bump for injection.
 - If possible, the bump should be about 5 cm wide.
+- Insert the needle into the pinched skin at a 45-degree angle.
+- Do not place your finger on the plunger rod while inserting the needle, as this may result in lost medicine.
 
 4b Pinch the skin around the injection site before injection. PINCH
 
@@ -5053,12 +5004,7 @@ Important: Continue to pinch the skin until injection is complete.
 
 4c Insert the needle into the pinched skin. INSERT
 
-1L2452
-
 <!-- image -->
-
-- Insert the needle into the pinched skin at a 45-degree angle.
-- Do not place your finger on the plunger rod while inserting the needle, as this may result in lost medicine.
 
 <div style=\"page-break-after: always\"></div>
 
@@ -5081,7 +5027,7 @@ LIFT
 - Let go of the skin after needle is removed.
 - Slowly take your thumb off the plunger head. This will let the empty syringe move up until the entire needle is entirely covered by the needle guard.
 
-## If a second injection is required …
+## If a second injection is required…
 
 ## 4f Repeat steps 2a-4e if a second injection is required.
 
@@ -5166,11 +5112,11 @@ Plaque psoriasis is a skin condition that causes inflammation affecting the skin
 
 WEZENLA is used in adults with moderate to severe plaque psoriasis, who cannot use ciclosporin, methotrexate or phototherapy, or where these treatments did not work.
 
+<div style=\"page-break-after: always\"></div>
+
 ## Psoriatic arthritis
 
 Psoriatic arthritis is an inflammatory disease of the joints, usually accompanied by psoriasis. If you have active psoriatic arthritis you will first be given other medicines. If you do not respond well enough to these medicines, you may be given WEZENLA to:
-
-<div style=\"page-break-after: always\"></div>
 
 - Reduce the signs and symptoms of your disease.
 - Improve your physical function.
@@ -5210,9 +5156,9 @@ WEZENLA can cause serious side effects, including allergic reactions and infecti
 
 If you are not sure if any of the above applies to you, talk to your doctor or pharmacist before using WEZENLA.
 
-Some patients have experienced lupus-like reactions including skin lupus or lupus-like syndrome during treatment with ustekinumab. Talk to your doctor right away if you experience a red, raised, scaly rash sometimes with a darker border, in areas of the skin that are exposed to the sun or with joint pains.
-
 <div style=\"page-break-after: always\"></div>
+
+Some patients have experienced lupus-like reactions including skin lupus or lupus-like syndrome during treatment with ustekinumab. Talk to your doctor right away if you experience a red, raised, scaly rash sometimes with a darker border, in areas of the skin that are exposed to the sun or with joint pains.
 
 ## Heart attack and strokes
 
@@ -5245,11 +5191,11 @@ Tell your doctor or pharmacist:
 
 WEZENLA has no or negligible influence on the ability to drive and use machines.
 
+<div style=\"page-break-after: always\"></div>
+
 ## WEZENLA contains polysorbate 80
 
 WEZENLA contains 0.02 mg (45 mg/0.5 mL) or 0.04 mg (90 mg/1.0 mL) of polysorbate 80 (E 433) in each dosage unit which is equivalent to 0.04 mg/mL. Polysorbates may cause allergic reactions. Tell your doctor if you have any known allergies.
-
-<div style=\"page-break-after: always\"></div>
 
 ## 3. How to use WEZENLA
 
@@ -5295,11 +5241,11 @@ If you have any further questions on the use of this medicine, ask your doctor o
 
 Like all medicines, this medicine can cause side effects, although not everybody gets them.
 
+<div style=\"page-break-after: always\"></div>
+
 ## Serious side effects
 
 Some patients may have serious side effects that may need urgent treatment.
-
-<div style=\"page-break-after: always\"></div>
 
 ## Allergic reactions -these may need urgent treatment. Tell your doctor or get emergency medical help straight away if you notice any of the following signs.
 
@@ -5336,6 +5282,8 @@ Tell your doctor straight away if you notice any of these signs of infection. Th
 
 Shedding of skin -increase in redness and shedding of skin over a larger area of the body may be symptoms of erythrodermic psoriasis or exfoliative dermatitis, which are serious skin conditions. You should tell your doctor straight away if you notice any of these signs.
 
+<div style=\"page-break-after: always\"></div>
+
 ## Other side effects
 
 ## Common side effects (may affect up to 1 in 10 people) :
@@ -5343,13 +5291,10 @@ Shedding of skin -increase in redness and shedding of skin over a larger area of
 - Diarrhoea
 - Nausea
 - Vomiting
-
-<div style=\"page-break-after: always\"></div>
-
 - Feeling tired
 - Feeling dizzy
 - Headache
-- Itching ('pruritus')
+- It ching ('pruritus')
 - Back, muscle or joint pain
 - Sore throat
 - Redness and pain where the injection is given
@@ -5387,10 +5332,10 @@ If you get any side effects, talk to your doctor or pharmacist. This includes an
 - Keep this medicine out of the sight and reach of children.
 - Store in a refrigerator (2°C -8°C). Do not freeze.
 - Keep the pre-filled pen in the outer carton in order to protect from light.
-- If needed, individual WEZENLA pre-filled pens may also be stored at room temperature up to 30°C for a maximum single period of up to 30 days in the original carton in order to protect from light. Record the date when the pre-filled pen is first removed from the refrigerator and the discard date. The discard date must not exceed the original expiry date printed on the carton. Once a pre-filled pen has been stored at room temperature (up to 30°C), it should not be returned to the refrigerator. Discard the pre-filled pen if not used within 30 days at room temperature storage or by the original expiry date, whichever is earlier.
 
 <div style=\"page-break-after: always\"></div>
 
+- If needed, individual WEZENLA pre-filled pens may also be stored at room temperature up to 30°C for a maximum single period of up to 30 days in the original carton in order to protect from light. Record the date when the pre-filled pen is first removed from the refrigerator and the discard date. The discard date must not exceed the original expiry date printed on the carton. Once a pre-filled pen has been stored at room temperature (up to 30°C), it should not be returned to the refrigerator. Discard the pre-filled pen if not used within 30 days at room temperature storage or by the original expiry date, whichever is earlier.
 - Do not shake the WEZENLA pre-filled pens. Prolonged vigorous shaking may damage the medicine.
 
 ## Do not use this medicine:
@@ -5421,11 +5366,11 @@ Amgen Technology (Ireland) UC, Pottery Road, Dun Laoghaire, Co Dublin, Ireland
 
 Amgen Technology (Ireland) UC, Pottery Road, Dun Laoghaire, Co Dublin, Ireland
 
+<div style=\"page-break-after: always\"></div>
+
 ## Manufacturer
 
 Amgen NV Telecomlaan 5-7 1831 Diegem Belgium
-
-<div style=\"page-break-after: always\"></div>
 
 For any information about this medicine, please contact the local representative of the Marketing Authorisation Holder:
 
@@ -5437,9 +5382,7 @@ Tél/Tel: +32 (0)2 7752711
 
 ## България
 
-Амджен България ЕООД
-
-Тел.: +359 (0)2 424 7440
+Амджен България ЕООД Тел.: +359 (0)2 424 7440
 
 ## Česká republika
 
@@ -5475,19 +5418,11 @@ Tél: +33 (0)9 69 363 363
 
 ## Hrvatska
 
-Amgen d.o.o.
-
-Tel: +385 (0)1 562 57 20
+Amgen d.o.o. Tel: +385 (0)1 562 57 20
 
 ## Ireland
 
 Amgen Ireland Limited Tel: +353 1 8527400
-
-## Ísland
-
-Vistor
-
-Sími: +354 535 7000
 
 ## Lietuva
 
@@ -5515,9 +5450,7 @@ Amgen AB Tlf: +47 23308000
 
 ## Österreich
 
-Amgen GmbH
-
-Tel: +43 (0)1 50 217
+Amgen GmbH Tel: +43 (0)1 50 217
 
 ## Polska
 
@@ -5535,13 +5468,17 @@ Amgen România SRL Tel: +4021 527 3000
 
 AMGEN zdravila d.o.o. Tel: +386 (0)1 585 1767
 
+## Ísland
+
+Vistor
+
+Sími: +354 535 7000
+
 ## Slovenská republika
 
 Amgen Slovakia s.r.o.
 
 Tel: +421 2 321 114 49
-
-<div style=\"page-break-after: always\"></div>
 
 ## Italia
 
@@ -5549,11 +5486,23 @@ Amgen S.r.l.
 
 Tel: +39 02 6241121
 
+## Suomi/Finland
+
+Amgen AB, sivuliike Suomessa/Amgen AB, filial i Finland
+
+Puh/Tel: +358 (0)9 54900500
+
 ## Kύπρος
 
 C.A. Papaellinas Ltd
 
 Τηλ: +357 22741 741
+
+## Sverige
+
+Amgen AB
+
+Tel: +46 (0)8 6951100
 
 ## Latvija
 
@@ -5567,17 +5516,9 @@ Tel: +371 257 25888
 
 Detailed information on this medicine is available on the European Medicines Agency web site: https://www.ema.europa.eu.
 
+<div style=\"page-break-after: always\"></div>
+
 -----------------------------------------------------------------------------------------------------------------------
-
-## Suomi/Finland
-
-Amgen AB, sivuliike Suomessa/Amgen AB, filial i Finland Puh/Tel: +358 (0)9 54900500
-
-## Sverige
-
-Amgen AB
-
-Tel: +46 (0)8 6951100
 
 <div style=\"page-break-after: always\"></div>
 
@@ -5735,6 +5676,8 @@ WATCH
 
 - The injection can take up to 15 seconds to complete. You may hear or feel a click.
 - After the window turns fully yellow, lift the pre-filled pen away from the skin.
+
+## Checking the injection site and disposing of the pre-filled pen
 
 <!-- image -->
 

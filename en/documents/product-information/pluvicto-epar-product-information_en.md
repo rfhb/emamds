@@ -1,20 +1,20 @@
 ---
-document_datetime: 2025-10-20 15:56:47
-document_pages: 41
+document_datetime: 2026-02-18 11:23:29
+document_pages: 40
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/pluvicto-epar-product-information_en.pdf
 document_name: pluvicto-epar-product-information_en.pdf
 version: success
-processing_time: 11.4367963
-conversion_datetime: 2025-12-25 10:57:12.30524
+processing_time: 24.4242715
+conversion_datetime: 2026-02-21 13:15:15.838458
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.66.0
-  docling-core: 2.57.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.13.0
+  docling-jobkit: 1.11.0
+  docling: 2.74.0
+  docling-core: 2.65.1
+  docling-ibm-models: 3.11.0
+  docling-parse: 5.3.2
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.3-arm64-arm-64bit-Mach-O
 ---
 ## ANNEX I
 
@@ -94,26 +94,26 @@ Recommended dose modifications of Pluvicto for adverse reactions are provided in
 
 Table 1 Recommended dose modifications of Pluvicto for adverse reactions
 
-| Adverse reaction                                                                   | Severity a                                                                                                                                        | Dose modification                                                                                                                                                                                                                                                                                                                                  |
-|------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Dry mouth                                                                          | Grade 3                                                                                                                                           | ReducePluvicto dose by 20% to 5 900 MBq.                                                                                                                                                                                                                                                                                                           |
-| Gastrointestinal toxicity                                                          | Grade ≥3 (not amenable to medical intervention)                                                                                                   | Withhold Pluvicto until improvement to grade 2 or baseline. ReducePluvicto dose by 20% to 5 900 MBq.                                                                                                                                                                                                                                               |
-| Myelosuppresion (anaemia, thrombocytopenia, leukopenia, neutropenia, pancytopenia) | Grade 2                                                                                                                                           | Withhold Pluvicto until improvement to grade 1 or baseline. Manage as deemed appropriate. The use of growth factors is permitted but should be discontinued once improved to grade 1 or baseline. Checking haematinic levels (iron, B12 and folate) and providing supplementation is advocated. Transfusions may be given as clinically indicated. |
-| Myelosuppresion (anaemia, thrombocytopenia, leukopenia, neutropenia, pancytopenia) | Grade ≥3                                                                                                                                          | Withhold Pluvicto until improvement to grade 1 or baseline. Reduce Pluvicto dose by 20% to 5 900 MBq.                                                                                                                                                                                                                                              |
-| Renal toxicity                                                                     | Defined as: • Confirmed serum creatinine increase (grade ≥2) • Confirmed CLcr <50 mL/min; calculate using Cockcroft-Gault with actual body weight | Withhold Pluvicto until improvement.                                                                                                                                                                                                                                                                                                               |
-| Renal toxicity                                                                     | Defined as: • Confirmed ≥40% increase from baseline serum creatinine and • Confirmed >40% decrease from baseline                                  | Withhold Pluvicto until improvement or return to baseline. Reduce Pluvicto dose by 20% to 5 900 MBq.                                                                                                                                                                                                                                               |
-| Renal toxicity                                                                     | Recurrent renal toxicity (grade ≥3)                                                                                                               | Permanently discontinue Pluvicto.                                                                                                                                                                                                                                                                                                                  |
-| Spinal cord compression                                                            | Any                                                                                                                                               | Withhold Pluvicto until the compression has been adequately treated and any neurological sequela have stabilised and ECOG performance status has stabilised.                                                                                                                                                                                       |
-| Fracture in weight-bearing bones                                                   | Any                                                                                                                                               | Withhold Pluvicto until the fracture has been adequately stabilised/treated and ECOG performance status has stabilised.                                                                                                                                                                                                                            |
-| Fatigue                                                                            | Grade ≥3                                                                                                                                          | Withhold Pluvicto until improvement to Grade 2 or baseline.                                                                                                                                                                                                                                                                                        |
-| Electrolyte or metabolic abnormalities                                             | Grade ≥2                                                                                                                                          | Withhold Pluvicto until improvement to Grade 1 or baseline.                                                                                                                                                                                                                                                                                        |
-| Non-haematological toxicity (clinically significant, not otherwise stated)         | Grade ≥2                                                                                                                                          | Withhold Pluvicto until improvement to Grade 1 or baseline.                                                                                                                                                                                                                                                                                        |
+| Adverse reaction                                                                   | Severity a                                                                                                                                                                     | Dose modification                                                                                                                                                                                                                                                                                                                                  |
+|------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Dry mouth                                                                          | Grade 3                                                                                                                                                                        | ReducePluvicto dose by 20% to 5 900 MBq.                                                                                                                                                                                                                                                                                                           |
+| Gastrointestinal toxicity                                                          | Grade ≥3 (not amenable to medical intervention)                                                                                                                                | Withhold Pluvicto until improvement to grade 2 or baseline. ReducePluvicto dose by 20% to 5 900 MBq.                                                                                                                                                                                                                                               |
+| Myelosuppresion (anaemia, thrombocytopenia, leukopenia, neutropenia, pancytopenia) | Grade 2                                                                                                                                                                        | Withhold Pluvicto until improvement to grade 1 or baseline. Manage as deemed appropriate. The use of growth factors is permitted but should be discontinued once improved to grade 1 or baseline. Checking haematinic levels (iron, B12 and folate) and providing supplementation is advocated. Transfusions may be given as clinically indicated. |
+| Myelosuppresion (anaemia, thrombocytopenia, leukopenia, neutropenia, pancytopenia) | Grade ≥3                                                                                                                                                                       | Withhold Pluvicto until improvement to grade 1 or baseline. Reduce Pluvicto dose by 20% to 5 900 MBq.                                                                                                                                                                                                                                              |
+| Renal toxicity                                                                     | Defined as: • Confirmed serum creatinine increase (grade ≥2) • Confirmed CLcr <50 mL/min; calculate using Cockcroft-Gault with actual body weight                              | Withhold Pluvicto until improvement.                                                                                                                                                                                                                                                                                                               |
+| Renal toxicity                                                                     | Defined as: • Confirmed ≥40% increase from baseline serum creatinine and • Confirmed >40% decrease from baseline CLcr; calculate using Cockcroft-Gault with actual body weight | Withhold Pluvicto until improvement or return to baseline. Reduce Pluvicto dose by 20% to 5 900 MBq.                                                                                                                                                                                                                                               |
+| Renal toxicity                                                                     | Recurrent renal toxicity (grade ≥3)                                                                                                                                            | Permanently discontinue Pluvicto.                                                                                                                                                                                                                                                                                                                  |
+| Spinal cord compression                                                            | Any                                                                                                                                                                            | Withhold Pluvicto until the compression has been adequately treated and any neurological sequela have stabilised and ECOG performance status has stabilised.                                                                                                                                                                                       |
+| Fracture in weight-bearing bones                                                   | Any                                                                                                                                                                            | Withhold Pluvicto until the fracture has been adequately stabilised/treated and ECOG performance status has stabilised.                                                                                                                                                                                                                            |
+| Fatigue                                                                            | Grade ≥3                                                                                                                                                                       | Withhold Pluvicto until improvement to Grade 2 or baseline.                                                                                                                                                                                                                                                                                        |
+| Electrolyte or metabolic abnormalities                                             | Grade ≥2                                                                                                                                                                       | Withhold Pluvicto until improvement to Grade 1 or baseline.                                                                                                                                                                                                                                                                                        |
 
 <div style=\"page-break-after: always\"></div>
 
-| AST or ALT elevation                                                                                                                                                                                                                                                         | AST or ALT >5 times ULN in the absence of liver metastases                                                                                                                                                                                                                   | Permanently discontinue Pluvicto.                                                                                                                                                                                                                                            |
-|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Abbreviations: CLcr, creatinine clearance; ECOG, Eastern Cooperative Oncology Group; AST, aspartate aminotransferase; ALT, alanine aminotransferase; ULN, upper limit of normal. Grading according to most current Common Terminology Criteria for Adverse Events (CTCAE). a | Abbreviations: CLcr, creatinine clearance; ECOG, Eastern Cooperative Oncology Group; AST, aspartate aminotransferase; ALT, alanine aminotransferase; ULN, upper limit of normal. Grading according to most current Common Terminology Criteria for Adverse Events (CTCAE). a | Abbreviations: CLcr, creatinine clearance; ECOG, Eastern Cooperative Oncology Group; AST, aspartate aminotransferase; ALT, alanine aminotransferase; ULN, upper limit of normal. Grading according to most current Common Terminology Criteria for Adverse Events (CTCAE). a |
+| Non-haematological toxicity (clinically significant, not otherwise stated)                                                                                                                                                                                                                                                                                                                 | Grade ≥2                                                                                                                                                                                                                                                                                                                                                                                   | Withhold Pluvicto until improvement to Grade 1 or baseline.                                                                                                                                                                                                                                                                                                                                |
+|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| AST or ALT elevation                                                                                                                                                                                                                                                                                                                                                                       | AST or ALT >5 times ULN in the absence of liver metastases                                                                                                                                                                                                                                                                                                                                 | Permanently discontinue Pluvicto.                                                                                                                                                                                                                                                                                                                                                          |
+| Abbreviations: CLcr, creatinine clearance; ECOG, Eastern Cooperative Oncology Group; AST, aspartate aminotransferase; ALT, alanine aminotransferase; ULN, upper limit of normal. Grading according to most current Common Terminology Criteria for Adverse Events (CTCAE). a The same thresholds are also applicable to baseline values at the time of treatment initiation with Pluvicto. | Abbreviations: CLcr, creatinine clearance; ECOG, Eastern Cooperative Oncology Group; AST, aspartate aminotransferase; ALT, alanine aminotransferase; ULN, upper limit of normal. Grading according to most current Common Terminology Criteria for Adverse Events (CTCAE). a The same thresholds are also applicable to baseline values at the time of treatment initiation with Pluvicto. | Abbreviations: CLcr, creatinine clearance; ECOG, Eastern Cooperative Oncology Group; AST, aspartate aminotransferase; ALT, alanine aminotransferase; ULN, upper limit of normal. Grading according to most current Common Terminology Criteria for Adverse Events (CTCAE). a The same thresholds are also applicable to baseline values at the time of treatment initiation with Pluvicto. |
 
 ## Special populations
 
@@ -147,11 +147,11 @@ The syringe method or the peristaltic pump method should be used when administer
 
 Prior to administration, the intravenous catheter used exclusively for Pluvicto administration should be flushed with ≥10 mL of sterile sodium chloride 9 mg/mL (0.9%) solution for injection to ensure patency and to minimise the risk of extravasation. Cases of extravasation should be managed as per institutional guidelines. Patients should be advised to remain well hydrated and to urinate frequently before and after administration of Pluvicto (see section 4.4).
 
+<div style=\"page-break-after: always\"></div>
+
 For instructions on the method of preparation and intravenous methods of administration, see section 12.
 
 For patient preparation, see section 4.4.
-
-<div style=\"page-break-after: always\"></div>
 
 ## 4.3 Contraindications
 
@@ -165,7 +165,7 @@ For each patient, the radiation exposure must be justifiable by the likely benef
 
 ## Risk from radiation exposure
 
-Pluvicto contributes to a patient's overall long-term cumulative radiation exposure. Long-term cumulative radiation exposure is associated with an increased risk for cancer.
+Pluvicto contributes to a patient's overall long -term cumulative radiation exposure. Long-term cumulative radiation exposure is associated with an increased risk for cancer.
 
 Radiation exposure to patients, medical personnel, and others should be minimised during and after treatment with Pluvicto consistent with institutional good radiation safety practices, patient management procedures, and instructions to the patient for follow-up radiation protection at home.
 
@@ -223,13 +223,13 @@ Precautions with respect to environmental hazard see section 6.6.
 
 No clinical drug interaction studies were performed.
 
+<div style=\"page-break-after: always\"></div>
+
 ## 4.6 Fertility, pregnancy and lactation
 
 ## Contraception in males
 
 Because of potential effects on spermatogenesis associated with radiations of lutetium ( 177 Lu) vipivotide tetraxetan, male patients are advised not to father a child and to use a condom for intercourse during treatment with Pluvicto and for 14 weeks after the last dose (see section 4.4).
-
-<div style=\"page-break-after: always\"></div>
 
 ## Pregnancy
 
@@ -257,11 +257,11 @@ The most common adverse reactions include: fatigue (48.0%), dry mouth (39.3%), n
 
 At the time of VISION final analysis, after a median follow-up duration of 14.2 months (range: 0.6 to 60.9 months), the overall safety profile remained consistent with that previously reported.
 
+<div style=\"page-break-after: always\"></div>
+
 ## Tabulated list of adverse reactions
 
 Adverse reactions (Table 2) are listed by MedDRA system organ class. Within each system organ class, the adverse reactions are ranked by frequency, with the most frequent reactions first. In addition, the corresponding frequency category for each adverse reaction is based on the following convention (CIOMS III): very common (≥1/10); common (≥1/100 to &lt;1/10); uncommon (≥1/1 000 to &lt;1/100); rare (≥1/10 000 to &lt;1/1 000); very rare (&lt;1/10 000).
-
-<div style=\"page-break-after: always\"></div>
 
 Table 2 Adverse reactions occurring at a higher incidence in patients who received Pluvicto plus BSoC compared to BSoC alone in VISION a
 
@@ -309,7 +309,7 @@ Table 2 Adverse reactions occurring at a higher incidence in patients who receiv
 | Oedema peripheral o                                    | Very common                                            | 53 (10.0)                                              | 2 (0.4)                                                |
 | Pyrexia                                                | Common                                                 | 37 (7.0)                                               | 2 (0.4)                                                |
 
-## Abbreviation: BSoC, best standard of care.
+Abbreviation: BSoC, best standard of care.
 
 - a National Cancer Institute Common Terminology Criteria for Adverse Events (NCI CTCAE) Version 5.0.
 - b Only includes grades 3 to 4 adverse reactions, with the exception of pancytopenia and bone marrow failure. Grade 5 (fatal) pancytopenia was reported in 2 patients who received Pluvicto plus BSoC. Grade 5 (fatal) bone marrow failure was reported in 1 patient who received Pluvicto plus BSoC.
@@ -331,21 +331,21 @@ Table 2 Adverse reactions occurring at a higher incidence in patients who receiv
 
 ## Myelosuppression
 
-In the VISION study, myelosuppression occurred more frequently in patients who received Pluvicto plus BSoC compared to patients who received BSoC alone (all grades/grade ≥3): anaemia (31.9%/12.9%) versus (13.2%/4.9%); thrombocytopenia (17.2%/7.9%) versus (4.4%/1.0%); leukopenia (12.5%/2.5%) versus (2.0%/0.5%); lymphopenia (14.2%/7.8%) versus (3.9%/0.5%); neutropenia (8.5%/3.4%) versus (1.5%/0.5%); pancytopenia (1.5%/1.1%) versus (0%/0%) including two fatal events of pancytopenia in patients who received Pluvicto plus BSoC; bicytopenia (0.2%/0.2%) versus (0%/0%); and bone marrow failure (0.2%/0.2%) versus (0%/0%) including one fatal event of bone marrow failure in a patient who received Pluvicto plus BSoC.
+In the VISION study, myelosuppression occurred more frequently in patients who received Pluvicto plus BSoC compared to patients who received BSoC alone (all grades/grade ≥ 3): anaemia (31.9%/12.9%) versus (13.2%/4.9%); thrombocytopenia (17.2%/7.9%) versus (4.4%/1.0%); leukopenia (12.5%/2.5%) versus (2.0%/0.5%); lymphopenia (14.2%/7.8%) versus (3.9%/0.5%); neutropenia (8.5%/3.4%) versus (1.5%/0.5%); pancytopenia (1.5%/1.1%) versus (0%/0%) including two fatal events of pancytopenia in patients who received Pluvicto plus BSoC; bicytopenia (0.2%/0.2%) versus (0%/0%); and bone marrow failure (0.2%/0.2%) versus (0%/0%) including one fatal event of bone marrow failure in a patient who received Pluvicto plus BSoC.
 
-Myelosuppression adverse reactions that led to permanent discontinuation in ≥0.5% of patients who received Pluvicto plus BSoC included: anaemia (2.8%), thrombocytopenia (2.8%), leukopenia (1.3%), neutropenia (0.8%) and pancytopenia (0.6%). Myelosuppression adverse reactions that led to dose interruptions/dose reductions in ≥0.5% of patients who received Pluvicto plus BSoC included: anaemia (5.1%/1.3%), thrombocytopenia (3.6%/1.9%), leukopenia (1.5%/0.6%) and neutropenia (0.8%/0.6%).
+Myelosuppression adverse reactions that led to permanent discontinuation in ≥0.5 % of patients who received Pluvicto plus BSoC included: anaemia (2.8%), thrombocytopenia (2.8%), leukopenia (1.3%), neutropenia (0.8%) and pancytopenia (0.6%). Myelosuppression adverse reactions that led to dose interruptions/dose reductions in ≥ 0.5% of patients who received Pluvicto plus BSoC included: anaemia (5.1%/1.3%), thrombocytopenia (3.6%/1.9%), leukopenia (1.5%/0.6%) and neutropenia (0.8%/0.6%).
 
 ## Renal toxicity
 
 In the VISION study, renal toxicity occurred more frequently in patients who received Pluvicto plus BSoC compared to patients who received BSoC alone (all grades/grades 3 to 4): blood creatinine increased (5.7%/0.2%) versus (2.4%/0.5%); acute kidney injury (3.8%/3.2%) versus (3.9%/2.4%); renal failure (0.2%/0%) versus (0%/0%); and blood urea increased (0.2%/0%) versus (0%/0%).
 
-Renal adverse reactions that led to permanent discontinuation in ≥0.2% of patients who received Pluvicto plus BSoC included: blood creatinine increased (0.2%). Renal adverse reactions that led to dose interruptions/dose reductions in ≥0.2% of patients who received Pluvicto plus BSoC included: blood creatinine increased (0.2%/0.4%) and acute kidney injury (0.2%/0%).
+Renal adverse reactions that led to permanent discontinuation in ≥ 0.2% of patients who received Pluvicto plus BSoC included: blood creatinine increased (0.2%). Renal adverse reactions that led to dose interruptions/dose reductions in ≥ 0.2% of patients who received Pluvicto plus BSoC included: blood creatinine increased (0.2%/0.4%) and acute kidney injury (0.2%/0%).
 
 <div style=\"page-break-after: always\"></div>
 
 ## Second primary malignancies
 
-Exposure to ionising radiation is linked with cancer induction and a potential for development of hereditary defects. The radiation dose resulting from therapeutic exposure may result in higher incidence of cancer and mutations. In all cases it is necessary to ensure that the risks of the radiation are less than from the disease itself. As Pluvicto contributes to a patient's overall long-term radiation exposure, which is associated with an increased risk for cancer (see section 4.4), a potential risk of second primary malignancies cannot be ruled out for radiopharmaceuticals such as Pluvicto. At the time of the VISION primary analysis (cut-off date 27-Jan-2021), cases of squamous cell carcinoma (4 patients; 0.8%) and basal cell carcinoma, malignant melanoma and squamous cell carcinoma of the skin (1 patient each; 0.2% each) were reported in patients who received Pluvicto plus BSoC.
+Exposure to ionising radiation is linked with cancer induction and a potential for development of hereditary defects. The radiation dose resulting from therapeutic exposure may result in higher incidence of cancer and mutations. In all cases it is necessary to ensure that the risks of the radiation are less than from the disease itself. As Pluvicto contributes to a patient's overall long -term radiation exposure, which is associated with an increased risk for cancer (see section 4.4), a potential risk of second primary malignancies cannot be ruled out for radiopharmaceuticals such as Pluvicto. At the time of the VISION primary analysis (cut-off date 27-Jan-2021), cases of squamous cell carcinoma (4 patients; 0.8%) and basal cell carcinoma, malignant melanoma and squamous cell carcinoma of the skin (1 patient each; 0.2% each) were reported in patients who received Pluvicto plus BSoC.
 
 ## Reporting of suspected adverse reactions
 
@@ -379,7 +379,7 @@ The efficacy of Pluvicto in patients with progressive, PSMA-positive mCRPC was e
 
 To maintain castration status, all patients continued to receive a GnRH analogue or had prior bilateral orchiectomy. Eligible patients were required to have progressive, PSMA-positive mCRPC, Eastern Cooperative Oncology Group (ECOG) performance status (PS) of 0 to 2, at least one metastatic lesion present on computed tomography (CT), magnetic resonance imaging (MRI) or bone scan imaging, and adequate renal, hepatic and haematological function.
 
-Eligible patients were also required to have received at least one AR pathway inhibitor, such as abiraterone acetate or enzalutamide, and 1 or 2 prior taxane-based chemotherapy regimens (with a regimen defined as a minimum exposure of 2 cycles of a taxane). Patients treated with only 1 prior taxane-based chemotherapy regimen were eligible if the patient was unwilling or the physician deemed the patient unsuitable to receive a second regimen. Patients with unstable symptomatic central nervous system metastases or symptomatic or clinically/radiologically impending spinal cord compression were not eligible for the study. Patients underwent a gallium ( 68 Ga) gozetotide positron emission tomography (PET) scan to evaluate PSMA expression in lesions defined by central read criteria. Eligible patients were required to have PSMA-positive mCRPC defined as having at least one tumour lesion with gallium ( 68 Ga) gozetotide uptake greater than in normal liver. Patients were excluded if any lesions exceeding size criteria in short axis (organs ≥1 cm, lymph nodes ≥2.5 cm, bones [soft-tissue component] ≥1 cm) had uptake less than or equal to uptake in normal liver.
+Eligible patients were also required to have received at least one AR pathway inhibitor, such as abiraterone acetate or enzalutamide, and 1 or 2 prior taxane-based chemotherapy regimens (with a regimen defined as a minimum exposure of 2 cycles of a taxane). Patients treated with only 1 prior taxane-based chemotherapy regimen were eligible if the patient was unwilling or the physician deemed the patient unsuitable to receive a second regimen. Patients with unstable symptomatic central nervous system metastases or symptomatic or clinically/radiologically impending spinal cord compression were not eligible for the study. Patients underwent a gallium ( 68 Ga) gozetotide positron emission tomography (PET) scan to evaluate PSMA expression in lesions defined by central read criteria. Eligible patients were required to have PSMA-positive mCRPC defined as having at least one tumour lesion with gallium ( 68 Ga) gozetotide uptake greater than in normal liver. Patients were excluded if any lesions exceeding size criteria in short axis ( organs ≥1 cm, lymph nodes ≥2.5 cm, bones [soft-tissue component] ≥1 cm) had uptake less than or equal to uptake in normal liver.
 
 BSoC administered at the physician's discretion included: supportive measures including pain management, hydration, blood transfusions, etc.; ketoconazole; radiation therapy (including seeded form or any external beam radiotherapy [including stereotactic body radiotherapy and palliative external beam]) to localised prostate cancer targets; bone-targeted agents including zoledronic acid, denosumab and any bisphosphonates; androgen-reducing agents including GnRH analogues, any corticosteroid, and 5-alpha reductases; AR pathway inhibitors. BSoC excluded investigational agents, cytotoxic chemotherapy, immunotherapy, other systemic radioisotopes and hemi-body radiotherapy treatment.
 
@@ -438,7 +438,7 @@ BSoC: Best standard of care; CI: Confidence interval; NE: Not evaluable; BICR: B
 - g Stratified log-rank test two-sided p-value.
 - h By BICR per RECIST v1.1.
 - i ORR: CR+PR. Confirmed response for CR and PR.
-- j Stratified Wald's Chi-square test two-sided p-value.
+- j Stratified Wald's Chi -square test two-sided p-value.
 - k Median DOR in the BSoC only arm was not reliable since only 1 of the 2 patients who responded had RECIST v1.1 radiographic progression or death.
 
 <div style=\"page-break-after: always\"></div>
@@ -519,11 +519,13 @@ No clinically significant effects on the pharmacokinetic parameters of lutetium 
 
 Exposure (AUC) of lutetium ( 177 Lu) vipivotide tetraxetan increased by 20% in patients with mild renal impairment compared to normal renal function. Kidney dosimetry half-life also increased in patients with mild renal impairment compared to normal renal function, 51 hours vs. 37 hours, respectively. Patients with mild or moderate renal impairment may be at greater risk of toxicity (see section 4.4). No pharmacokinetic data are available for patients with moderate to severe renal impairment with baseline CLcr &lt;50 mL/min or end-stage renal disease.
 
-<div style=\"page-break-after: always\"></div>
-
 ## 5.3 Preclinical safety data
 
-No toxicological effects were observed in safety pharmacology or single-dose toxicity studies in rats and minipigs administered a non-radioactive formulation containing vipivotide tetraxetan and lutetium ( 175 Lu) vipivotide tetraxetan, or in repeat-dose toxicity studies in rats administered vipivotide tetraxetan.
+No toxicological effects were observed in safety pharmacology or single-dose toxicity studies in rats and minipigs administered a non-radioactive formulation containing vipivotide tetraxetan and lutetium
+
+<div style=\"page-break-after: always\"></div>
+
+( 175 Lu) vipivotide tetraxetan, or in repeat-dose toxicity studies in rats administered vipivotide tetraxetan.
 
 ## Carcinogenicity and mutagenicity
 
@@ -565,9 +567,9 @@ The vial is enclosed within a lead container for protective shielding.
 
 Radiopharmaceuticals should be received, used and administered only by authorised persons in designated clinical settings. Their receipt, storage, use, transfer and disposal are subject to the regulations and/or appropriate licences of the competent official organisation.
 
-<div style=\"page-break-after: always\"></div>
-
 Radiopharmaceuticals should be prepared in a manner which satisfies both radiation safety and pharmaceutical quality requirements. Appropriate aseptic precautions should be taken.
+
+<div style=\"page-break-after: always\"></div>
 
 For instructions on preparation of the medicinal product before administration, see section 12.
 
@@ -579,7 +581,7 @@ The administration of radiopharmaceuticals creates risks for other persons from 
 
 This preparation is likely to result in a relatively high radiation dose to most patients. The administration of Pluvicto may result in significant environmental hazard. This may be of concern to the immediate family of those individuals undergoing treatment or the general public depending on the level of activity administered. Suitable precautions in accordance with national regulations should be taken concerning the activity eliminated by the patients in order to avoid any contaminations.
 
-Lutetium-177 for Pluvicto may be prepared using two different sources of stable nuclides (either lutetium-176 or ytterbium-176). Lutetium-177 for Pluvicto prepared using the stable isotope lutetium-176 ('carrier added') requires special attention with regard to waste management due to the presence of the long-lived metastable lutetium-177 ( 177m Lu) impurity with a half-life of 160.4 days. Lutetium-177 for Pluvicto is prepared using ytterbium-176 ('non-carrier added') unless otherwise communicated on the product batch release certificate. The user must consult the product batch release certificate provided before using Pluvicto to ensure appropriate waste management.
+Lutetium-177 for Pluvicto may be prepared using two different sources of stable nuclides (either lutetium-176 or ytterbium-176). Lutetium-177 for Pluvicto prepared using the stable isotope lutetium176 ('carrier added') requires special attention with regard to waste management due to the presence of the long-lived metastable lutetium-177 ( 177m Lu) impurity with a half-life of 160.4 days. Lutetium-177 for Pluvicto is prepared using ytterbium176 ('non -carrier added') unless otherwise communicated on the product batch release certificate. The user must consult the product batch release certificate provided before using Pluvicto to ensure appropriate waste management.
 
 Any unused medicinal product or waste material should be disposed of in accordance with local requirements.
 
@@ -595,60 +597,59 @@ EU/1/22/1703/001
 
 09 December 2022
 
-<div style=\"page-break-after: always\"></div>
-
 ## 10. DATE OF REVISION OF THE TEXT
 
 ## 11. DOSIMETRY
 
 Radiation dose to specific organs, which may not be the target organ of therapy, can be influenced significantly by pathophysiological changes induced by the disease process. This should be taken into consideration when using the following information.
 
+<div style=\"page-break-after: always\"></div>
+
 Dosimetry of lutetium ( 177 Lu) vipivotide tetraxetan was collected in 29 patients in the phase III VISION sub-study, in order to calculate whole body and organ radiation dosimetry. The mean and standard deviation (SD) of the estimated absorbed doses to different organs for adult patients receiving Pluvicto are shown in Table 4. The organs with the highest absorbed doses are lacrimal glands and salivary glands.
 
 The maximum penetration of lutetium-177 in tissue is approximately 2 mm and the mean penetration is 0.67 mm.
 
-<div style=\"page-break-after: always\"></div>
-
 Table 4 Estimated absorbed dose a  for Pluvicto in the VISION sub-study
 
-|                      | Absorbed dose per unit activity (mGy/MBq) (N=29)   | Absorbed dose per unit activity (mGy/MBq) (N=29)   | Calculated absorbed dose for 7 400 MBq administration (Gy)   | Calculated absorbed dose for 7 400 MBq administration (Gy)   | Calculated absorbed dose for 6 x 7 400 MBq (44 400 MBq cumulative activity)   | Calculated absorbed dose for 6 x 7 400 MBq (44 400 MBq cumulative activity)   |
-|----------------------|----------------------------------------------------|----------------------------------------------------|--------------------------------------------------------------|--------------------------------------------------------------|-------------------------------------------------------------------------------|-------------------------------------------------------------------------------|
-| Organ                | Mean                                               | SD                                                 | Mean                                                         | SD                                                           | Mean                                                                          | SD                                                                            |
-| Adrenals             | 0.033                                              | 0.025                                              | 0.24                                                         | 0.19                                                         | 1.5                                                                           | 1.1                                                                           |
-| Brain                | 0.007                                              | 0.005                                              | 0.049                                                        | 0.035                                                        | 0.30                                                                          | 0.22                                                                          |
-| Eyes                 | 0.022                                              | 0.024                                              | 0.16                                                         | 0.18                                                         | 0.99                                                                          | 1.1                                                                           |
-| Gallbladder wall     | 0.028                                              | 0.026                                              | 0.20                                                         | 0.19                                                         | 1.2                                                                           | 1.1                                                                           |
-| Heart wall           | 0.17                                               | 0.12                                               | 1.2                                                          | 0.83                                                         | 7.8                                                                           | 5.2                                                                           |
-| Kidneys              | 0.43                                               | 0.16                                               | 3.1                                                          | 1.2                                                          | 19                                                                            | 7.3                                                                           |
-| Lacrimal glands      | 2.1                                                | 0.47                                               | 15                                                           | 3.4                                                          | 92                                                                            | 21                                                                            |
-| Left colon           | 0.58                                               | 0.14                                               | 4.1                                                          | 1.0                                                          | 26                                                                            | 6.0                                                                           |
-| Liver                | 0.090                                              | 0.044                                              | 0.64                                                         | 0.32                                                         | 4.0                                                                           | 2.0                                                                           |
-| Lungs                | 0.11                                               | 0.11                                               | 0.76                                                         | 0.81                                                         | 4.7                                                                           | 4.9                                                                           |
-| Oesophagus           | 0.025                                              | 0.026                                              | 0.18                                                         | 0.19                                                         | 1.1                                                                           | 1.1                                                                           |
-| Osteogenic cells     | 0.036                                              | 0.028                                              | 0.26                                                         | 0.21                                                         | 1.6                                                                           | 1.3                                                                           |
-| Pancreas             | 0.027                                              | 0.026                                              | 0.19                                                         | 0.19                                                         | 1.2                                                                           | 1.1                                                                           |
-| Prostate             | 0.027                                              | 0.026                                              | 0.19                                                         | 0.19                                                         | 1.2                                                                           | 1.1                                                                           |
-| Red marrow           | 0.035                                              | 0.020                                              | 0.25                                                         | 0.15                                                         | 1.5                                                                           | 0.90                                                                          |
-| Rectum               | 0.56                                               | 0.14                                               | 4.0                                                          | 1.1                                                          | 25                                                                            | 6.2                                                                           |
-| Right colon          | 0.32                                               | 0.078                                              | 2.3                                                          | 0.58                                                         | 14                                                                            | 3.4                                                                           |
-| Salivary glands      | 0.63                                               | 0.36                                               | 4.5                                                          | 2.6                                                          | 28                                                                            | 16                                                                            |
-| Small intestine      | 0.071                                              | 0.031                                              | 0.50                                                         | 0.23                                                         | 3.1                                                                           | 1.4                                                                           |
-| Spleen               | 0.067                                              | 0.027                                              | 0.48                                                         | 0.20                                                         | 3.0                                                                           | 1.2                                                                           |
-| Stomach wall         | 0.025                                              | 0.026                                              | 0.18                                                         | 0.19                                                         | 1.1                                                                           | 1.1                                                                           |
-| Testes               | 0.023                                              | 0.025                                              | 0.16                                                         | 0.18                                                         | 1.0                                                                           | 1.1                                                                           |
-| Thymus               | 0.025                                              | 0.026                                              | 0.18                                                         | 0.19                                                         | 1.1                                                                           | 1.1                                                                           |
-| Thyroid              | 0.26                                               | 0.37                                               | 1.8                                                          | 2.7                                                          | 11                                                                            | 16                                                                            |
-| Total body           | 0.037                                              | 0.027                                              | 0.27                                                         | 0.20                                                         | 1.6                                                                           | 1.2                                                                           |
-| Urinary bladder wall | 0.32                                               | 0.025                                              | 2.3                                                          | 0.19                                                         | 14                                                                            | 1.1                                                                           |
-| Effective dose b     | 0.120 mSv/MBq                                      | 0.043 mSv/MBq                                      | 0.886 Sv                                                     | 0.315 Sv                                                     | 5.319 Sv                                                                      | 1.892 Sv                                                                      |
+|                      | Absorbed dose per unit activity (mGy/MBq) (N=29)   | Absorbed dose per unit activity (mGy/MBq) (N=29)   | Calculated absorbed dose for 7 400 MBq administration (Gy)   | Calculated absorbed dose for 7 400 MBq administration (Gy)   | Calculated absorbed dose for 6 x 7 400 MBq (44 400 MBq cumulative activity) (Gy)   | Calculated absorbed dose for 6 x 7 400 MBq (44 400 MBq cumulative activity) (Gy)   |
+|----------------------|----------------------------------------------------|----------------------------------------------------|--------------------------------------------------------------|--------------------------------------------------------------|------------------------------------------------------------------------------------|------------------------------------------------------------------------------------|
+| Organ                | Mean                                               | SD                                                 | Mean                                                         | SD                                                           | Mean                                                                               | SD                                                                                 |
+| Adrenals             | 0.033                                              | 0.026                                              | 0.25                                                         | 0.19                                                         | 1.5                                                                                | 1.1                                                                                |
+| Brain                | 0.0069                                             | 0.0051                                             | 0.051                                                        | 0.038                                                        | 0.30                                                                               | 0.23                                                                               |
+| Eyes                 | 0.022                                              | 0.025                                              | 0.16                                                         | 0.18                                                         | 0.98                                                                               | 1.1                                                                                |
+| Gallbladder wall     | 0.028                                              | 0.026                                              | 0.21                                                         | 0.19                                                         | 1.3                                                                                | 1.2                                                                                |
+| Heart wall           | 0.17                                               | 0.12                                               | 1.3                                                          | 0.88                                                         | 7.8                                                                                | 5.3                                                                                |
+| Kidneys              | 0.42                                               | 0.19                                               | 3.1                                                          | 1.4                                                          | 19                                                                                 | 8.4                                                                                |
+| Lacrimal glands      | 2.1                                                | 0.48                                               | 15                                                           | 3.6                                                          | 92                                                                                 | 21                                                                                 |
+| Left colon           | 0.58                                               | 0.14                                               | 4.3                                                          | 1.0                                                          | 26                                                                                 | 6.1                                                                                |
+| Liver                | 0.093                                              | 0.050                                              | 0.69                                                         | 0.37                                                         | 4.1                                                                                | 2.2                                                                                |
+| Lungs                | 0.11                                               | 0.11                                               | 0.78                                                         | 0.83                                                         | 4.7                                                                                | 5.0                                                                                |
+| Oesophagus           | 0.025                                              | 0.026                                              | 0.18                                                         | 0.19                                                         | 1.1                                                                                | 1.2                                                                                |
+| Osteogenic cells     | 0.036                                              | 0.029                                              | 0.26                                                         | 0.21                                                         | 1.6                                                                                | 1.3                                                                                |
+| Pancreas             | 0.027                                              | 0.026                                              | 0.20                                                         | 0.19                                                         | 1.2                                                                                | 1.2                                                                                |
+| Prostate             | 0.027                                              | 0.026                                              | 0.20                                                         | 0.19                                                         | 1.2                                                                                | 1.2                                                                                |
+| Rectum               | 0.56                                               | 0.14                                               | 4.1                                                          | 1.1                                                          | 25                                                                                 | 6.3                                                                                |
+| Red marrow           | 0.035                                              | 0.020                                              | 0.26                                                         | 0.15                                                         | 1.5                                                                                | 0.91                                                                               |
+| Right colon          | 0.32                                               | 0.079                                              | 2.4                                                          | 0.58                                                         | 14                                                                                 | 3.5                                                                                |
+| Salivary glands      | 0.63                                               | 0.37                                               | 4.6                                                          | 2.7                                                          | 28                                                                                 | 16                                                                                 |
+| Small intestine      | 0.071                                              | 0.031                                              | 0.52                                                         | 0.23                                                         | 3.1                                                                                | 1.4                                                                                |
+| Spleen               | 0.061                                              | 0.028                                              | 0.45                                                         | 0.21                                                         | 2.7                                                                                | 1.2                                                                                |
+| Stomach wall         | 0.025                                              | 0.026                                              | 0.19                                                         | 0.19                                                         | 1.1                                                                                | 1.2                                                                                |
+| Testes               | 0.023                                              | 0.025                                              | 0.17                                                         | 0.19                                                         | 1.0                                                                                | 1.1                                                                                |
+| Thymus               | 0.024                                              | 0.026                                              | 0.18                                                         | 0.19                                                         | 1.1                                                                                | 1.2                                                                                |
+| Thyroid              | 0.26                                               | 0.37                                               | 1.9                                                          | 2.8                                                          | 11                                                                                 | 17                                                                                 |
+| Total body           | 0.037                                              | 0.027                                              | 0.28                                                         | 0.20                                                         | 1.7                                                                                | 1.2                                                                                |
+| Urinary bladder wall | 0.32                                               | 0.025                                              | 2.4                                                          | 0.19                                                         | 14                                                                                 | 1.1                                                                                |
+| Effective dose b     | 0.12                                               | 0.043                                              | 0.89                                                         | 0.315                                                        | 5.3                                                                                | 1.9                                                                                |
+|                      | mSv/MBq                                            | mSv/MBq                                            | Sv                                                           | Sv                                                           | Sv                                                                                 | Sv                                                                                 |
+
+<div style=\"page-break-after: always\"></div>
 
 ## 12. INSTRUCTIONS FOR PREPARATION OF RADIOPHARMACEUTICALS
 
 The user must consult the product batch release certificate provided before using Pluvicto to ensure appropriate waste management (see section 6.6).
 
 Withdrawals should be performed under aseptic conditions. The vials must not be opened before disinfecting the stopper, the solution should be withdrawn via the stopper using a single-dose syringe fitted with suitable protective shielding and a disposable sterile needle or using an authorised automated application system.
-
-<div style=\"page-break-after: always\"></div>
 
 ## Preparation instructions
 
@@ -671,12 +672,13 @@ Withdrawals should be performed under aseptic conditions. The vials must not be 
 
 - Insert a 2.5 cm, 20 gauge needle (short needle) into the Pluvicto vial and connect via a catheter to 500 mL sterile sodium chloride 9 mg/mL (0.9%) solution for injection (used to transport the Pluvicto solution during the infusion). Ensure that the short needle does not touch the Pluvicto solution in the vial and do not connect the short needle directly to the patient. Do not allow the sterile sodium chloride 9 mg/mL (0.9%) solution for injection to flow into the Pluvicto vial prior to the initiation of the Pluvicto infusion and do not inject the Pluvicto solution directly into the sterile sodium chloride 9 mg/mL (0.9%) solution for injection.
 - Insert a second needle that is 9 cm, 18 gauge (long needle) into the Pluvicto vial, ensuring that the long needle touches and is secured to the bottom of the Pluvicto vial during the entire infusion. Connect the long needle to the patient by an intravenous catheter that is primed with sterile sodium chloride 9 mg/mL (0.9%) solution for injection and that is used exclusively for the Pluvicto infusion into the patient.
+
+<div style=\"page-break-after: always\"></div>
+
 - Use a clamp or an infusion pump to regulate the flow of the sterile sodium chloride 9 mg/mL (0.9%) solution for injection via the short needle into the Pluvicto vial (the sterile sodium chloride 9 mg/mL (0.9%) solution for injection entering the vial through the short needle will carry the Pluvicto solution from the vial to the patient via the intravenous catheter connected to the long needle within approximately 30 minutes).
 - During the infusion, ensure that the level of solution in the Pluvicto vial remains constant.
 - Disconnect the vial from the long needle line and clamp the sterile sodium chloride 9 mg/mL (0.9%) solution for injection line once the level of radioactivity is stable for at least five minutes.
 - Follow the infusion with an intravenous flush of ≥10 mL of sterile sodium chloride 9 mg/mL (0.9%) solution for injection through the intravenous catheter to the patient.
-
-<div style=\"page-break-after: always\"></div>
 
 ## Instructions for the peristaltic pump method
 
@@ -716,7 +718,7 @@ Name and address of the manufacturer responsible for batch release
 
 Advanced Accelerator Applications (Italy) S.R.L. Via Ribes 5 10010 Colleretto Giacosa (TO) Italy
 
-Advanced Accelerator Applications Ibérica, S.L.U. Polígono Industrial la Cuesta - Sector 3 Parcelas 1 y 2 La Almunia de Doña Godina 50100 Zaragoza Spain
+Advanced Accelerator Applications Ibérica, S.L.U. Polígono Industrial la Cuesta -Sector 3 Parcelas 1 y 2 La Almunia de Doña Godina 50100 Zaragoza Spain
 
 The printed package leaflet of the medicinal product must state the name and address of the manufacturer responsible for the release of the concerned batch.
 
@@ -835,15 +837,7 @@ Any unused medicinal product or waste material should be disposed of in accordan
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
-Novartis Europharm Limited
-
-Vista Building
-
-Elm Park, Merrion Road
-
-Dublin 4
-
-Ireland
+Novartis Europharm Limited Vista Building Elm Park, Merrion Road Dublin 4 Ireland
 
 ## 12. MARKETING AUTHORISATION NUMBER(S)
 
@@ -869,24 +863,20 @@ Not applicable.
 
 <div style=\"page-break-after: always\"></div>
 
-| 18.   | UNIQUE IDENTIFIER - HUMANREADABLE DATA   |
-|-------|------------------------------------------|
+| 18.   | UNIQUE IDENTIFIER -HUMANREADABLE DATA   |
+|-------|-----------------------------------------|
 
 Not applicable.
 
-30
-
 <div style=\"page-break-after: always\"></div>
 
-## MINIMUM PARTICULARS TO APPEAR ON SMALL IMMEDIATE PACKAGING UNITS
-
-VIAL
+## MINIMUM PARTICULARS TO APPEAR ON SMALL IMMEDIATE PACKAGING UNITS VIAL
 
 ## 1. NAME OF THE MEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION
 
-Pluvicto 1 000 MBq/mL solution for injection/infusion
+Pluvicto 1 000 MBq/mL solution for injection/infusion lutetium ( 177 Lu) vipivotide tetraxetan
 
-lutetium ( 177 Lu) vipivotide tetraxetan Intravenous use
+Intravenous use
 
 ## 2. METHOD OF ADMINISTRATION
 
@@ -914,13 +904,13 @@ Activity at administration time: {Z} MBq - {DD/MM/YYYY hh:mm UTC}
 
 <!-- image -->
 
-<div style=\"page-break-after: always\"></div>
-
-## Manufacturer
+Manufacturer
 
 Advanced Accelerator Applications (Italy) S.R.L. Via Ribes 5 10010 Colleretto Giacosa (TO) Italy
 
-Advanced Accelerator Applications Ibérica, S.L.U. Polígono Industrial la Cuesta - Sector 3 Parcelas 1 y 2 La Almunia de Doña Godina 50100 Zaragoza Spain
+<div style=\"page-break-after: always\"></div>
+
+Advanced Accelerator Applications Ibérica, S.L.U. Polígono Industrial la Cuesta -Sector 3 Parcelas 1 y 2 La Almunia de Doña Godina 50100 Zaragoza Spain
 
 <div style=\"page-break-after: always\"></div>
 
@@ -1135,10 +1125,11 @@ If you experience any of the following serious side effects, tell your nuclear m
 
 - -bleeding or bruising more easily than normal or bleeding for longer than normal (possible signs of low levels of platelets [ thrombocytopenia ])
 - -frequent infections with signs such as fever, sore throat or mouth ulcers (possible signs of low levels of white blood cells [ leukopenia, lymphopenia ])
-- -passing urine less often or in much smaller amounts than usual (possible sign of kidney problems [ acute kidney injury ])
-- -tiredness, weakness, pale skin, shortness of breath, bleeding or bruising more easily than normal or bleeding for longer than normal or frequent infections with signs such as fever, chills, sore throat or mouth ulcers (possible signs of low levels of blood cells [ pancytopenia ])
 
 ## Common: may affect up to 1 in every 10 people
+
+- -passing urine less often or in much smaller amounts than usual (possible sign of kidney problems [ acute kidney injury ])
+- -tiredness, weakness, pale skin, shortness of breath, bleeding or bruising more easily than normal or bleeding for longer than normal or frequent infections with signs such as fever, chills, sore throat or mouth ulcers (possible signs of low levels of blood cells [ pancytopenia ])
 
 ## Uncommon: may affect up to 1 in every 100 people
 
@@ -1178,11 +1169,11 @@ Other side effects include the following listed below. If these side effects bec
 
 If you get any side effects, talk to your nuclear medicine doctor. This includes any possible side effects not listed in this leaflet. You can also report side effects directly via the national reporting system listed in Appendix V. By reporting side effects you can help provide more information on the safety of this medicine.
 
+<div style=\"page-break-after: always\"></div>
+
 ## 5. How Pluvicto is stored
 
 You will not have to store this medicine. This medicine is stored under the responsibility of the specialist in appropriate premises. Storage of radiopharmaceuticals will be in accordance with national regulations on radioactive materials.
-
-<div style=\"page-break-after: always\"></div>
 
 The following information is intended for the specialist only:
 
@@ -1197,7 +1188,7 @@ The following information is intended for the specialist only:
 ## What Pluvicto contains
 
 - -The active substance is lutetium ( 177 Lu) vipivotide tetraxetan. One mL of solution contains 1 000 MBq lutetium ( 177 Lu) vipivotide tetraxetan at the date and time of calibration.
-- -The other ingredients are: acetic acid, sodium acetate, gentisic acid, sodium ascorbate, pentetic acid, water for injections (see 'Pluvicto contains sodium' in section 2).
+- -The other ingredients are: acetic acid, sodium acetate, gentisic acid, sodium ascorbate, pentetic acid, water for injections (see ' Pluvicto contains sodium' in section 2).
 
 ## What Pluvicto looks like and contents of the pack
 
@@ -1215,57 +1206,75 @@ Novartis Europharm Limited Vista Building Elm Park, Merrion Road Dublin 4 Irelan
 
 Advanced Accelerator Applications (Italy) S.R.L. Via Ribes 5 10010 Colleretto Giacosa (TO) Italy
 
-Advanced Accelerator Applications Ibérica, S.L.U. Polígono Industrial la Cuesta - Sector 3 Parcelas 1 y 2 La Almunia de Doña Godina 50100 Zaragoza Spain
+Advanced Accelerator Applications Ibérica, S.L.U. Polígono Industrial la Cuesta -Sector 3 Parcelas 1 y 2 La Almunia de Doña Godina 50100 Zaragoza Spain
+
+<div style=\"page-break-after: always\"></div>
 
 For any information about this medicine, please contact the local representative of the Marketing Authorisation Holder:
 
-België/Belgique/Belgien Novartis Pharma N.V. Tél/Tel: +32 2 246 16 11
-
-## Lietuva
-
-SIA Novartis Baltics Lietuvos filialas Tel: +370 5 269 16 50
-
-## България
-
-Novartis Bulgaria EOOD
-
-Тел: +359 2 489 98 28
-
-## Luxembourg/Luxemburg
+## België/Belgique/Belgien
 
 Novartis Pharma N.V.
 
 Tél/Tel: +32 2 246 16 11
 
-<div style=\"page-break-after: always\"></div>
+## България
+
+Novartis Bulgaria EOOD
+
+Тел:
+
++359 2 489 98 28
 
 ## Česká republika
 
-Novartis s.r.o. Tel: +420 225 775 111
+Novartis s.r.o.
+
+Tel: +420 225 775 111
 
 ## Danmark
 
-Novartis Sverige AB Tlf.: +46 8 732 32 00
+Novartis Sverige AB
+
+Tlf.: +46 8 732 32 00
 
 ## Deutschland
 
-Novartis Pharma GmbH Tel: +49 911 273 0
+Novartis Pharma GmbH
+
+Tel: +49 911 273 0
 
 ## Eesti
 
-SIA Novartis Baltics Eesti filiaal Tel: +372 66 30 810
+SIA Novartis Baltics Eesti filiaal
+
+Tel: +372 66 30 810
 
 ## Ελλάδα
 
-ΒΙΟΚΟΣΜΟΣ ΑΕΒΕ Τηλ: +30 22920 63900 ή Novartis (Hellas) A.E.B.E. Τηλ: +30 210 281 17 12
+ΒΙΟΚΟΣΜΟΣ ΑΕΒΕ
+
+Τηλ
+
+: +30 22920 63900
+
+ή
+
+Novartis (Hellas) A.E.B.E.
+
+Τηλ: +30 210 281 17 12
 
 ## España
 
-Novartis Farmacéutica, S.A. Tel: +34 93 306 42 00
+Novartis Farmacéutica, S.A.
+
+Tel: +34 93 306 42 00
 
 ## France
 
-Novartis Pharma S.A.S. Tél: +33 1 55 47 66 00
+Novartis Pharma S.A.S.
+
+Tél: +33 1 55 47 66 00
 
 ## Hrvatska
 
@@ -1273,51 +1282,61 @@ Novartis Hrvatska d.o.o. Tel. +385 1 6274 220
 
 ## Ireland
 
-Novartis Ireland Limited Tel: +353 1 260 12 55
+Novartis Ireland Limited
+
+Tel: +353 1 260 12 55
 
 ## Ísland
 
-Novartis Sverige AB Sími: +46 8 732 32 00
+Novartis Sverige AB
 
-## Italia
+Sími: +46 8 732 32 00
 
-Novartis Farma S.p.A. Tel: +39 02 96 54 1
+## Lietuva
 
-## Κύπρος
+SIA Novartis Baltics Lietuvos filialas
 
-ΒΙΟΚΟΣΜΟΣ ΑΕΒΕ
+Tel: +370 5 269 16 50
 
-Τηλ: +30 22920 63900
+## Luxembourg/Luxemburg
 
-ή
+Novartis Pharma N.V.
 
-Novartis Pharma Services Inc.
-
-Τηλ: +357 22 690 690
+Tél/Tel: +32 2 246 16 11
 
 ## Magyarország
 
-Novartis Hungária Kft. Tel.: +36 1 457 65 00
+Novartis Hungária Kft.
+
+Tel.: +36 1 457 65 00
 
 ## Malta
 
-Novartis Pharma Services Inc. Tel: +356 2122 2872
+Novartis Pharma Services Inc.
+
+Tel: +356 2122 2872
 
 ## Nederland
 
-Novartis Pharma B.V. Tel: +31 88 04 52 111
+Novartis Pharma B.V.
+
+Tel: +31 88 04 52 111
 
 ## Norge
 
-Novartis Norge AS Tlf: +4 7 23 05 20 00
+Novartis Norge AS Tlf: +47 23 05 20 00
 
 ## Österreich
 
-Novartis Pharma GmbH Tel: +43 1 86 6570
+Novartis Pharma GmbH
+
+Tel: +43 1 86 6570
 
 ## Polska
 
-Novartis Poland Sp. z o.o. Tel.: +48 22 375 4888
+Novartis Poland Sp. z o.o.
+
+Tel.: +48 22 375 4888
 
 ## Portugal
 
@@ -1329,21 +1348,37 @@ Novartis Pharma Services Romania SRL Tel: +40 21 31299 01
 
 ## Slovenija
 
-Novartis Pharma Services Inc. Tel: +386 1 300 75 50
+Novartis Pharma Services Inc.
+
+Tel: +386 1 300 75 50
 
 ## Slovenská republika
 
-Novartis Slovakia s.r.o. Tel: +421 2 5542 5439
+Novartis Slovakia s.r.o.
 
-## Suomi/Finland
-
-Novartis Sverige AB Puh/Tel: +46 8 732 32 00
-
-## Sverige
-
-Novartis Sverige AB Tel: +46 8 732 32 00
+Tel: +421 2 5542 5439
 
 <div style=\"page-break-after: always\"></div>
+
+## Italia
+
+Novartis Farma S.p.A.
+
+Tel: +39 02 96 54 1
+
+## Κύπρος
+
+ΒΙΟΚΟΣΜΟΣ ΑΕΒΕ
+
+Τηλ
+
+: +30 22920 63900
+
+ή
+
+Novartis Pharma Services Inc.
+
+Τηλ: +357 22 690 690
 
 ## Latvija
 
@@ -1364,3 +1399,15 @@ The following information is intended for healthcare professionals only:
 The complete SmPC of Pluvicto is provided as a separate document in the product package, with the objective to provide healthcare professionals with other additional scientific and practical information about the administration and use of this radiopharmaceutical.
 
 Please refer to the SmPC.
+
+## Suomi/Finland
+
+Novartis Sverige AB
+
+Puh/Tel: +46 8 732 32 00
+
+## Sverige
+
+Novartis Sverige AB
+
+Tel: +46 8 732 32 00

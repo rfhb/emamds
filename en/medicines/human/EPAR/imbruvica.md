@@ -1,20 +1,20 @@
 ---
-document_datetime: 2025-12-29 11:42:16
+document_datetime: 2026-02-17 10:35:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/imbruvica.html
 document_name: imbruvica.html
 version: success
-processing_time: 0.1632373
-conversion_datetime: 2025-12-31 03:05:24.315078
+processing_time: 0.143599
+conversion_datetime: 2026-02-21 12:36:38.452569
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.66.0
-  docling-core: 2.57.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.13.0
+  docling-jobkit: 1.11.0
+  docling: 2.74.0
+  docling-core: 2.65.1
+  docling-ibm-models: 3.11.0
+  docling-parse: 5.3.2
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.3-arm64-arm-64bit-Mach-O
 ---
 # Imbruvica
 
@@ -25,8 +25,6 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 ibrutinib Medicine Human Authorised
-
-On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -166,7 +164,7 @@ English (EN) (155.39 KB - PDF)
 
 [View](/en/documents/overview/imbruvica-epar-medicine-overview_en.pdf)
 
-[Other languages (21)](#file-language-dropdown-336)
+[Other languages (21)](#file-language-dropdown-952)
 
 български (BG) (184.21 KB - PDF)
 
@@ -434,15 +432,27 @@ English (EN) (1.76 MB - PDF)
 
 Imbruvica : EPAR - Product Information
 
-English (EN) (2.39 MB - PDF)
+English (EN) (2.83 MB - PDF)
 
 **First published:** 25/11/2014
 
-**Last updated:** 27/10/2025
+**Last updated:** 17/02/2026
 
 [View](/en/documents/product-information/imbruvica-epar-product-information_en.pdf)
 
-[Other languages (23)](#file-language-dropdown-411)
+[Other languages (24)](#file-language-dropdown-730)
+
+български (BG) (1.36 MB - PDF)
+
+**First published:**
+
+25/11/2014
+
+**Last updated:**
+
+17/02/2026
+
+[View](/bg/documents/product-information/imbruvica-epar-product-information_bg.pdf)
 
 español (ES) (2.21 MB - PDF)
 
@@ -452,7 +462,7 @@ español (ES) (2.21 MB - PDF)
 
 **Last updated:**
 
-27/10/2025
+17/02/2026
 
 [View](/es/documents/product-information/imbruvica-epar-product-information_es.pdf)
 
@@ -464,7 +474,7 @@ español (ES) (2.21 MB - PDF)
 
 **Last updated:**
 
-27/10/2025
+17/02/2026
 
 [View](/cs/documents/product-information/imbruvica-epar-product-information_cs.pdf)
 
@@ -476,7 +486,7 @@ dansk (DA) (2.88 MB - PDF)
 
 **Last updated:**
 
-27/10/2025
+17/02/2026
 
 [View](/da/documents/product-information/imbruvica-epar-product-information_da.pdf)
 
@@ -488,7 +498,7 @@ Deutsch (DE) (2.6 MB - PDF)
 
 **Last updated:**
 
-27/10/2025
+17/02/2026
 
 [View](/de/documents/product-information/imbruvica-epar-product-information_de.pdf)
 
@@ -500,7 +510,7 @@ eesti keel (ET) (2.22 MB - PDF)
 
 **Last updated:**
 
-27/10/2025
+17/02/2026
 
 [View](/et/documents/product-information/imbruvica-epar-product-information_et.pdf)
 
@@ -512,7 +522,7 @@ eesti keel (ET) (2.22 MB - PDF)
 
 **Last updated:**
 
-27/10/2025
+17/02/2026
 
 [View](/el/documents/product-information/imbruvica-epar-product-information_el.pdf)
 
@@ -524,7 +534,7 @@ français (FR) (3.29 MB - PDF)
 
 **Last updated:**
 
-27/10/2025
+17/02/2026
 
 [View](/fr/documents/product-information/imbruvica-epar-product-information_fr.pdf)
 
@@ -536,7 +546,7 @@ hrvatski (HR) (2.07 MB - PDF)
 
 **Last updated:**
 
-27/10/2025
+17/02/2026
 
 [View](/hr/documents/product-information/imbruvica-epar-product-information_hr.pdf)
 
@@ -548,7 +558,7 @@ hrvatski (HR) (2.07 MB - PDF)
 
 **Last updated:**
 
-27/10/2025
+17/02/2026
 
 [View](/is/documents/product-information/imbruvica-epar-product-information_is.pdf)
 
@@ -560,7 +570,7 @@ italiano (IT) (2.54 MB - PDF)
 
 **Last updated:**
 
-27/10/2025
+17/02/2026
 
 [View](/it/documents/product-information/imbruvica-epar-product-information_it.pdf)
 
@@ -572,7 +582,7 @@ latviešu valoda (LV) (3.55 MB - PDF)
 
 **Last updated:**
 
-27/10/2025
+17/02/2026
 
 [View](/lv/documents/product-information/imbruvica-epar-product-information_lv.pdf)
 
@@ -584,7 +594,7 @@ lietuvių kalba (LT) (2.57 MB - PDF)
 
 **Last updated:**
 
-27/10/2025
+17/02/2026
 
 [View](/lt/documents/product-information/imbruvica-epar-product-information_lt.pdf)
 
@@ -596,7 +606,7 @@ magyar (HU) (1.4 MB - PDF)
 
 **Last updated:**
 
-27/10/2025
+17/02/2026
 
 [View](/hu/documents/product-information/imbruvica-epar-product-information_hu.pdf)
 
@@ -608,7 +618,7 @@ Malti (MT) (3.18 MB - PDF)
 
 **Last updated:**
 
-27/10/2025
+17/02/2026
 
 [View](/mt/documents/product-information/imbruvica-epar-product-information_mt.pdf)
 
@@ -620,7 +630,7 @@ Nederlands (NL) (1.61 MB - PDF)
 
 **Last updated:**
 
-27/10/2025
+17/02/2026
 
 [View](/nl/documents/product-information/imbruvica-epar-product-information_nl.pdf)
 
@@ -632,7 +642,7 @@ norsk (NO) (2.98 MB - PDF)
 
 **Last updated:**
 
-27/10/2025
+17/02/2026
 
 [View](/no/documents/product-information/imbruvica-epar-product-information_no.pdf)
 
@@ -644,7 +654,7 @@ polski (PL) (2.3 MB - PDF)
 
 **Last updated:**
 
-27/10/2025
+17/02/2026
 
 [View](/pl/documents/product-information/imbruvica-epar-product-information_pl.pdf)
 
@@ -656,7 +666,7 @@ português (PT) (2.54 MB - PDF)
 
 **Last updated:**
 
-27/10/2025
+17/02/2026
 
 [View](/pt/documents/product-information/imbruvica-epar-product-information_pt.pdf)
 
@@ -668,7 +678,7 @@ română (RO) (3.51 MB - PDF)
 
 **Last updated:**
 
-27/10/2025
+17/02/2026
 
 [View](/ro/documents/product-information/imbruvica-epar-product-information_ro.pdf)
 
@@ -680,11 +690,11 @@ slovenčina (SK) (2.11 MB - PDF)
 
 **Last updated:**
 
-27/10/2025
+17/02/2026
 
 [View](/sk/documents/product-information/imbruvica-epar-product-information_sk.pdf)
 
-slovenščina (SL) (3.39 MB - PDF)
+slovenščina (SL) (3.37 MB - PDF)
 
 **First published:**
 
@@ -692,7 +702,7 @@ slovenščina (SL) (3.39 MB - PDF)
 
 **Last updated:**
 
-27/10/2025
+17/02/2026
 
 [View](/sl/documents/product-information/imbruvica-epar-product-information_sl.pdf)
 
@@ -704,7 +714,7 @@ Suomi (FI) (1.72 MB - PDF)
 
 **Last updated:**
 
-27/10/2025
+17/02/2026
 
 [View](/fi/documents/product-information/imbruvica-epar-product-information_fi.pdf)
 
@@ -716,11 +726,11 @@ svenska (SV) (2.07 MB - PDF)
 
 **Last updated:**
 
-27/10/2025
+17/02/2026
 
 [View](/sv/documents/product-information/imbruvica-epar-product-information_sv.pdf)
 
-**Latest procedure affecting product information:** VR/0000281739 11/09/2025
+**Latest procedure affecting product information:** VR/0000327541 13/02/2026
 
 icon globe
 
@@ -746,7 +756,7 @@ English (EN) (35.41 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/imbruvica-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-913)
+[Other languages (24)](#file-language-dropdown-671)
 
 български (BG) (31.69 KB - PDF)
 
@@ -1062,7 +1072,7 @@ Janssen-Cilag International NV
 
 Turnhoutseweg 30
 
-Opinion adopted 25/07/2014 Marketing authorisation issued 21/10/2014 Revision 36
+Opinion adopted 25/07/2014 Marketing authorisation issued 21/10/2014 Revision 37
 
 ## Assessment history
 
@@ -1074,9 +1084,11 @@ Collapse section
 
 Imbruvica : EPAR - Procedural steps taken and scientific information after authorisation
 
-English (EN) (148.3 KB - PDF)
+English (EN) (396.7 KB - PDF)
 
 **First published:** 27/10/2025
+
+**Last updated:** 17/02/2026
 
 [View](/en/documents/procedural-steps-after/imbruvica-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf)
 
@@ -1482,7 +1494,7 @@ English (EN) (1.99 MB - DOCX)
 
 [View](/en/documents/product-information-tracked-changes/imbruvica-epar-product-information-tracked-changes_en.docx)
 
-[Other languages (24)](#file-language-dropdown-938)
+[Other languages (24)](#file-language-dropdown-259)
 
 български (BG) (2.53 MB - DOC)
 
@@ -1703,7 +1715,7 @@ Imbruvica was withdrawn from the Community register of orphan medicinal products
 
 - [Medicines](https://www.ema.europa.eu/en/search?f%5B0%5D=ema_search_topics%3A61)
 
-**This page was last updated on** 27/10/2025
+**This page was last updated on** 17/02/2026
 
 ## Share this page
 

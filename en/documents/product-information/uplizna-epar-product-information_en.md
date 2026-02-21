@@ -1,20 +1,20 @@
 ---
-document_datetime: 2025-11-27 12:01:08
-document_pages: 38
+document_datetime: 2026-02-17 12:50:44
+document_pages: 41
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/uplizna-epar-product-information_en.pdf
 document_name: uplizna-epar-product-information_en.pdf
 version: success
-processing_time: 11.6995132
-conversion_datetime: 2025-12-14 16:13:57.9714
+processing_time: 19.6595811
+conversion_datetime: 2026-02-21 13:16:44.727512
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.64.1
-  docling-core: 2.55.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.13.0
+  docling-jobkit: 1.11.0
+  docling: 2.74.0
+  docling-core: 2.65.1
+  docling-ibm-models: 3.11.0
+  docling-parse: 5.3.2
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.1-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.3-arm64-arm-64bit-Mach-O
 ---
 ## ANNEX I
 
@@ -36,9 +36,11 @@ Each vial contains 100 mg of inebilizumab in 10 mL at a concentration of 10 mg/m
 
 Inebilizumab is a humanised monoclonal antibody produced in Chinese hamster ovary cell line by recombinant DNA technology.
 
-## Excipient with known effect
+## Excipients with known effect
 
 This medicinal product contains 16.1 mg of sodium per vial.
+
+This medicinal product contains 1 mg of polysorbate 80 per vial which is equivalent to 0.1 mg/mL.
 
 For the full list of excipients, see section 6.1.
 
@@ -52,7 +54,7 @@ Clear to slightly opalescent, colourless to slightly yellow solution. The soluti
 
 ## 4.1 Therapeutic indications
 
-Neuromyelitis optica spectrum disorders (NMOSD)
+## Neuromyelitis optica spectrum disorders (NMOSD)
 
 Uplizna is indicated as monotherapy for the treatment of adult patients with NMOSD who are anti-aquaporin-4 immunoglobulin G (AQP4-IgG) seropositive (see section 5.1).
 
@@ -60,13 +62,17 @@ Uplizna is indicated as monotherapy for the treatment of adult patients with NMO
 
 Uplizna is indicated for the treatment of adult patients with active IgG4-RD (see section 5.1).
 
-## 4.2 Posology and method of administration
+## Generalized myasthenia gravis (gMG)
 
-Treatment should be initiated under the supervision of a physician experienced in the treatment of NMOSD or IgG4-RD and with access to appropriate medical support to manage potential severe reactions such as serious infusion-related reactions.
-
-The patient should be monitored for infusion reactions during and for at least one hour after the completion of the infusion (see section 4.4).
+Uplizna is indicated as an add-on to standard therapy for the treatment of gMG in adult patients who are anti-acetylcholine receptor (AChR) or anti-muscle-specific tyrosine kinase (MuSK) antibody positive (see section 5.1).
 
 <div style=\"page-break-after: always\"></div>
+
+## 4.2 Posology and method of administration
+
+Treatment should be initiated under the supervision of a physician experienced in the treatment of NMOSD or IgG4-RD or gMG and with access to appropriate medical support to manage potential severe reactions such as serious infusion-related reactions.
+
+The patient should be monitored for infusion reactions during and for at least one hour after the completion of the infusion (see section 4.4).
 
 ## Assessments prior to first dose of inebilizumab
 
@@ -105,15 +111,17 @@ Prior to every infusion of inebilizumab, it should be determined whether there i
 
 ## Required premedication
 
-Premedication with a corticosteroid (e.g., methylprednisolone 80-125 mg intravenous or equivalent) should be administered approximately 30 minutes prior to each inebilizumab infusion; and an antihistamine (e.g., diphenhydramine 25-50 mg orally or equivalent) and an anti-pyretic (e.g., paracetamol 500-650 mg orally or equivalent) approximately 30-60 minutes prior to each inebilizumab infusion (see section 4.4).
+Premedication with a corticosteroid (e.g., methylprednisolone 80-125 mg intravenous or equivalent) should be administered approximately 30 minutes prior to each inebilizumab infusion; and an antihistamine (e.g., diphenhydramine 25-50 mg orally or equivalent) and an anti-pyretic (e.g.,
+
+<div style=\"page-break-after: always\"></div>
+
+paracetamol 500-650 mg orally or equivalent) approximately 30-60 minutes prior to each inebilizumab infusion (see section 4.4).
 
 ## Special populations
 
-## Elderly
+Elderly
 
-Inebilizumab has been administered to 42 elderly patients (≥ 65 years of age) in clinical studies. Based on the data available, no dose adjustment is considered necessary in patients over 65 years old (see section 5.2).
-
-<div style=\"page-break-after: always\"></div>
+Inebilizumab has been administered to 72 elderly patients (≥ 65 years of age) in clinical studies. Based on the data available, no dose adjustment is considered necessary in patients over 65 years old (see section 5.2).
 
 ## Renal and hepatic impairment
 
@@ -152,6 +160,8 @@ For instructions on dilution of the medicinal product before administration, see
 - Severely immunocompromised state
 - Active malignancies
 
+<div style=\"page-break-after: always\"></div>
+
 ## 4.4 Special warnings and precautions for use
 
 ## Instructions for patients at the time of prescribing
@@ -161,8 +171,6 @@ Patients treated with Uplizna should be given a patient card which includes info
 ## Traceability
 
 In order to improve the traceability of biological medicinal products, the name and the batch number of the administered product should be clearly recorded.
-
-<div style=\"page-break-after: always\"></div>
 
 ## Infusion-related reactions and hypersensitivity
 
@@ -186,15 +194,13 @@ Inebilizumab causes reduction in peripheral blood lymphocyte count and Ig levels
 
 A recent (i.e. within 6 months) complete blood cell count (CBC) including differentials and immunoglobulins should be obtained before initiation of inebilizumab. Assessments of CBC including differentials and immunoglobulins are also recommended periodically during treatment and after discontinuation of treatment until B-cell repletion. Prior to every infusion of inebilizumab, it should be determined whether there is a clinically significant infection. In case of infection, infusion of inebilizumab should be delayed until the infection resolves. Patients should be instructed to promptly report symptoms of infection to their physician. Treatment discontinuation should be considered if a patient develops a serious opportunistic infection or recurrent infections if Ig levels indicate immune compromise.
 
-The most common infections reported by inebilizumab-treated NMOSD patients across the randomised controlled period (RCP) and the open-label period (OLP) included urinary tract infection (26.2%), nasopharyngitis (20.9%), upper respiratory tract infection (15.6%), influenza (8.9%), and bronchitis (6.7%). In the IgG4-RD RCP and OLP, the most common infections reported by inebilizumab-treated patients were upper respiratory tract infection (10.7%), nasopharyngitis (9.8%), urinary tract infection (8.9%), and influenza (6.3%).
+<div style=\"page-break-after: always\"></div>
+
+The most common infections reported by inebilizumab-treated NMOSD patients across the randomised controlled period (RCP) and the open-label period (OLP) included urinary tract infection (26.2%), nasopharyngitis (20.9%), upper respiratory tract infection (15.6%), influenza (8.9%), and bronchitis (6.7%). In the IgG4-RD RCP and OLP, the most common infections reported by inebilizumab-treated patients were upper respiratory tract infection (10.7%), nasopharyngitis (9.8%), urinary tract infection (8.9%), and influenza (6.3%). In the gMG RCP and OLP, the most common infections reported by inebilizumab-treated patients were nasopharyngitis (6.9%) and upper respiratory tract infection (6.9%).
 
 ## Hepatitis B virus reactivation
 
-Risk of HBV reactivation has been observed with other B-cell -depleting antibodies. Patients with chronic HBV were excluded from clinical trials with inebilizumab. HBV screening should be performed in all patients before initiation of treatment with inebilizumab. Inebilizumab should not be administered to patients with active hepatitis due to HBV who are positive for hepatitis B surface
-
-<div style=\"page-break-after: always\"></div>
-
-antigen (HBsAg) or hepatitis B core antibody (HBcAb). Patients who are chronic carriers of HBV [HBsAg+] should consult a liver disease expert before starting and during treatment (see section 4.3).
+Risk of HBV reactivation has been observed with other B-cell -depleting antibodies. One case of HBV reactivation was observed in a patient treated with inebilizumab during the gMG clinical trial. Patients with chronic HBV were excluded from clinical trials with inebilizumab. HBV screening should be performed in all patients before initiation of treatment with inebilizumab. Inebilizumab should not be administered to patients with active hepatitis due to HBV who are positive for hepatitis B surface antigen (HBsAg) or hepatitis B core antibody (HBcAb). Patients who are chronic carriers of HBV [HBsAg+] should consult a liver disease expert before starting and during treatment (see section 4.3).
 
 ## Hepatitis C virus
 
@@ -214,6 +220,8 @@ Physicians should be vigilant for clinical symptoms or magnetic resonance imagin
 
 At the first sign or symptom suggestive of PML, treatment with inebilizumab should be suspended until PML has been excluded. Further evaluation, including consultation with a neurologist, MRI scan preferably with contrast, cerebrospinal fluid testing for JC viral DNA, and repeat neurological assessments, should be considered. If confirmed, treatment with inebilizumab should be discontinued.
 
+<div style=\"page-break-after: always\"></div>
+
 ## Late neutropenia
 
 Cases of late onset of neutropenia have been reported (see section 4.8). Although some cases were grade 3, the majority of cases were grade 1 or 2. Cases of late onset of neutropenia have been reported at least 4 weeks after the latest infusion of inebilizumab. In patients with signs and symptoms of infection, measurement of blood neutrophils is recommended.
@@ -222,11 +230,9 @@ Cases of late onset of neutropenia have been reported (see section 4.8). Althoug
 
 Patients in a severely immunocompromised state must not be treated until the condition resolves (see section 4.3).
 
-Inebilizumab has not been tested together with other immunosuppressants. If combining it with another immunosuppressive therapy, consider the potential for increased immunosuppressive effects.
+If combining inebilizumab with another immunosuppressive therapy, consider the potential for increased immunosuppressive effects.
 
 Patients with a known congenital or acquired immunodeficiency, including HIV infection or splenectomy, have not been studied.
-
-<div style=\"page-break-after: always\"></div>
 
 ## Vaccinations
 
@@ -244,11 +250,23 @@ As a precautionary measure, it is preferable to avoid the use of inebilizumab du
 
 ## Malignancy
 
-Immunomodulatory medicinal products may increase the risk of malignancy. On the basis of limited experience with inebilizumab in NMOSD and IgG4-RD (see section 4.8), the current data do not seem to suggest any increased risk of malignancy. However, the possible risk for the development of solid tumours cannot be excluded at this time.
+Immunomodulatory medicinal products may increase the risk of malignancy. Current data do not seem to suggest any increased risk of malignancy; however, the possible risk for the development of solid tumours cannot be excluded at this time (see section 4.8).
+
+## gMG patients with a Myasthenia Gravis Foundation of America (MGFA) Class V
+
+Inebilizumab has not been studied in gMG patients with a MGFA Class V.
+
+<div style=\"page-break-after: always\"></div>
+
+## Excipients with known effects
 
 ## Sodium content
 
 This medicinal product contains 48.3 mg sodium per dose, equivalent to 2% of the WHO recommended maximum daily intake of 2 g sodium for an adult.
+
+## Polysorbate
+
+This medicinal product contains 1 mg of polysorbate 80 per vial which is equivalent to 0.1 mg/mL. Polysorbates may cause allergic reactions.
 
 ## 4.5 Interaction with other medicinal products and other forms of interaction
 
@@ -260,11 +278,9 @@ The primary elimination pathway for therapeutic antibodies is clearance by the r
 
 The efficacy and safety of immunisation with live or live-attenuated vaccines following inebilizumab therapy has not been studied. The response to vaccination could be impaired when B cells are depleted. It is recommended that patients complete immunisations prior to the start of inebilizumab therapy (see section 4.4).
 
-<div style=\"page-break-after: always\"></div>
-
 ## Immunosuppressants
 
-No data are available on the safety or efficacy of combining inebilizumab with other immunosuppressants. In the pivotal NMOSD study, during the RCP, a 2-week course of oral corticosteroids (plus a 1-week taper) was given to all subjects following the first administration of inebilizumab. In the pivotal IgG4-RD study, during the RCP, subjects were at a uniform dose of glucocorticoids (GCs) at the time of initiation of inebilizumab and then began a prespecified taper to discontinuation at the end of 8 weeks (see section 5.1).
+In the pivotal NMOSD study, during the RCP, a 2-week course of oral corticosteroids (plus a 1-week taper) was given to all subjects following the first administration of inebilizumab. In the pivotal IgG4-RD study, during the RCP, subjects were at a uniform dose of glucocorticoids (GCs) at the time of initiation of inebilizumab and then began a prespecified taper to discontinuation at the end of 8 weeks. In the pivotal gMG study, subjects were on oral corticosteroids or stable dose of other immunosuppressants at the time of initiation of inebilizumab treatment. Subjects began a prespecified corticosteroid taper to 5 mg/day from week 4 to week 24, but were permitted to continuing receiving other immunosuppressants while receiving inebilizumab (see section 5.1).
 
 Concomitant usage of inebilizumab with immunosuppressants, including systemic corticosteroids, may increase the risk of infection. The effects of inebilizumab on B cells and immunoglobulins may persist for 6 months or longer following its administration.
 
@@ -275,6 +291,8 @@ When initiating inebilizumab after other immunosuppressive therapies with prolon
 ## Women of childbearing potential
 
 Women of childbearing potential should use effective contraception (methods that result in less than 1% pregnancy rates) while receiving Uplizna and for 6 months after the last administration of Uplizna.
+
+<div style=\"page-break-after: always\"></div>
 
 ## Pregnancy
 
@@ -290,8 +308,6 @@ In case of exposure during pregnancy, depletion of B cells may be expected in ne
 
 The use of inebilizumab in women during lactation has not been studied. It is unknown whether inebilizumab is excreted in human milk. In humans, excretion of IgG antibodies in milk occurs during the first few days after birth, which is decreasing to low concentrations soon afterwards. Consequently, a risk to the breast-fed child cannot be excluded during this short period. Afterwards, Uplizna could be used during breast-feeding if clinically needed. However, if the patient was treated with Uplizna up to the last few months of pregnancy, breast-feeding can be started immediately after birth.
 
-<div style=\"page-break-after: always\"></div>
-
 ## Fertility
 
 There are limited data on the effect of inebilizumab on human fertility; however, studies in animals have shown reduced fertility. The clinical significance of these nonclinical findings is not known (see section 5.3).
@@ -304,15 +320,17 @@ The pharmacological activity and adverse reactions reported to date suggest that
 
 ## Summary of the safety profile
 
-The most frequently reported adverse reactions by inebilizumab-treated patients were urinary tract infection (26.2%), nasopharyngitis (20.9%), upper respiratory tract infection (15.6%), arthralgia (17.3%), back pain (13.8%), and lymphopenia (10.7%) across both the randomised controlled period (RCP) and open-label period (OLP).
+The most frequently reported adverse reactions by inebilizumab-treated patients from the 3 NMOSD, IgG4-RD and gMG pivotal clinical trials were urinary tract infection (26.2%), nasopharyngitis (20.9%), upper respiratory tract infection (15.6%), arthralgia (17.3%), back pain (13.8%), lymphopenia (10.7%) and headache (10.3%) across both the randomised controlled period (RCP) and open-label period (OLP).
 
 The most frequently reported serious adverse reactions by inebilizumab-treated patients across the RCP and OLP were infections (11.1%) (including urinary tract infections (4.0%), pneumonia (1.8%)) and NMOSD (1.8%).
+
+<div style=\"page-break-after: always\"></div>
 
 ## Tabulated list of adverse reactions
 
 Adverse reactions reported in clinical trials and post-marketing experience following treatment with inebilizumab are listed in table 2 according to the following frequency categories: very common (≥ 1/10), common (≥ 1/100 to &lt; 1/10), uncommon (≥ 1/1 000 to &lt; 1/100), rare (≥ 1/10 000 to &lt; 1/1 000), very rare (&lt; 1/10 000), not known (cannot be estimated from the available data).
 
-Table 2. Adverse reactions reported in inebilizumab clinical trials, including patients with NMOSD and IgG4-RD as well as from post-marketing experience
+Table 2. Adverse reactions reported in inebilizumab clinical trials, including patients with NMOSD, gMG and IgG4-RD as well as from post-marketing experience
 
 | MedDRA system organ class                            | Very common (≥ 1/10)                                                             | Common (≥ 1/100 to < 1/10)                      | Uncommon (≥ 1/1 000 to < 1/100)             |
 |------------------------------------------------------|----------------------------------------------------------------------------------|-------------------------------------------------|---------------------------------------------|
@@ -320,47 +338,44 @@ Table 2. Adverse reactions reported in inebilizumab clinical trials, including p
 | Blood and lymphatic system disorders                 | Lymphopenia*                                                                     | Neutropenia, Late-on-set neutropenia            |                                             |
 | Musculoskeletal and connective tissue disorders      | Arthralgia, back pain                                                            | Myalgia                                         |                                             |
 | General disorders and administration site conditions |                                                                                  | Pyrexia                                         |                                             |
-
-<div style=\"page-break-after: always\"></div>
-
-| MedDRA system organ class                      | Very common (≥ 1/10)      | Common (≥ 1/100 to < 1/10)   | Uncommon (≥ 1/1 000 to < 1/100)   |
-|------------------------------------------------|---------------------------|------------------------------|-----------------------------------|
-| Investigations                                 | Immunoglobulins decreased |                              |                                   |
-| Injury, poisoning and procedural complications | Infusion-related reaction |                              |                                   |
-
-* Lymphopenia includes lymphocyte count decreased
+| Nervous system disorder                              | Headache                                                                         |                                                 |                                             |
+| Investigations                                       | Immunoglobulins decreased                                                        |                                                 |                                             |
+| Injury, poisoning and procedural complications       | Infusion-related reaction                                                        |                                                 |                                             |
+| Respiratory, thoracic and mediastinal disorders      |                                                                                  | Cough                                           |                                             |
 
 ## Description of selected adverse reactions
 
 ## Infusion-related reactions
 
-Inebilizumab can cause infusion-related reactions, which can include headache, nausea, somnolence, dyspnoea, fever, myalgia, rash, palpitations or other symptoms. All patients were given premedication. Infusion reactions were observed in 9.2% of NMOSD patients during the first course of inebilizumab compared to 10.7% of placebo-treated patients. Infusion reactions to inebilizumab were observed in 7.4% of IgG4-RD patients compared to 14.9% of placebo-treated patients during the RCP. Infusion-related reactions were most common with the first infusion but were observed during subsequent infusions. The majority of infusion-related reactions reported in inebilizumab-treated patients were either mild or moderate in severity.
+Inebilizumab can cause infusion-related reactions, which can include headache, nausea, somnolence, dyspnoea, fever, myalgia, rash, palpitations or other symptoms. All patients were given premedication. Infusion reactions were observed in 9.2% of NMOSD patients during the first course of inebilizumab compared to 10.7% of placebo-treated patients. Infusion reactions to inebilizumab were observed in 7.4% of IgG4-RD patients compared to 14.9% of placebo-treated patients during the RCP. Infusion reactions to inebilizumab were observed in 10.1% of gMG patients compared to 5.9% of placebo-treated patients during the RCP. Infusion-related reactions were most common with the first infusion but were observed during subsequent infusions. The majority of infusion-related reactions reported in inebilizumab-treated patients were either mild or moderate in severity.
 
 ## Infections
 
-In clinical trials, an infection was reported by 74.7% of NMOSD patients and 70.5% of IgG4-RD patients treated with inebilizumab across the RCP and OLP. The most common infections in NMOSD patients included urinary tract infection (26.2%), nasopharyngitis (20.9%), and upper respiratory tract infection (15.6%), influenza (8.9%), and bronchitis (6.7%). Serious infections reported by more than one inebilizumab-treated NMOSD patient were urinary tract infection (4.0%) and pneumonia (1.8%). The most common infections in IgG4-RD patients included upper respiratory tract infection (10.7%), nasopharyngitis (9.8%), urinary tract infection (8.9%), and influenza (6.3%). Serious infections reported by more than one inebilizumab-treated IgG4-RD patient was pneumonia (1.8%). See section 4.4 for action to be taken in case of infection.
+In clinical trials, an infection was reported by 74.7% of NMOSD patients, 70.5% of IgG4-RD patients and 42.9% of gMG patients treated with inebilizumab across the RCP and OLP. The most common
+
+<div style=\"page-break-after: always\"></div>
+
+infections in NMOSD patients included urinary tract infection (26.2%), nasopharyngitis (20.9%), and upper respiratory tract infection (15.6%), influenza (8.9%), and bronchitis (6.7%). Serious infections reported by more than one inebilizumab-treated NMOSD patient were urinary tract infection (4.0%) and pneumonia (1.8%). The most common infections in IgG4-RD patients included upper respiratory tract infection (10.7%), nasopharyngitis (9.8%), urinary tract infection (8.9%), and influenza (6.3%). Serious infections reported by more than one inebilizumab-treated IgG4-RD patient was pneumonia (1.8%). The most common infections in gMG patients included nasopharyngitis (6.9%) and upper respiratory tract infection (6.9%). Serious infections reported by more than one inebilizumab-treated gMG patient was pneumonia (1.5%). See section 4.4 for action to be taken in case of infection.
 
 ## Opportunistic and serious infections
 
-In NMOSD study during the RCP, no opportunistic infections occurred in either treatment group, and a single grade 4 infectious adverse reaction (atypical pneumonia) occurred in a patient treated with inebilizumab. During the OLP, 2 inebilizumab-treated patients (0.9%) experienced an opportunistic infection (one of which was not confirmed) and 3 inebilizumab-treated patients (1.4%) experienced a grade 4 infectious adverse reaction. See section 4.4 for action to be taken in case of infection. In IgG4-RD study, 3 inebilizumab-treated patients (2.7%) experienced an opportunistic infection (all non-serious herpes zoster) across the RCP and OLP.
+In NMOSD study during the RCP, no opportunistic infections occurred in either treatment group, and a single grade 4 infectious adverse reaction (atypical pneumonia) occurred in a patient treated with inebilizumab. During the OLP, 2 inebilizumab-treated patients (0.9%) experienced an opportunistic infection (one of which was not confirmed) and 3 inebilizumab-treated patients (1.4%) experienced a grade 4 infectious adverse reaction. See section 4.4 for action to be taken in case of infection. In IgG4-RD study, 3 inebilizumab-treated patients (2.7%) experienced an opportunistic infection (all non-serious herpes zoster) across the RCP and OLP. In the gMG study, 1 inebilizumab-treated patient (0.8%) experienced a grade 3 serious event (herpes zoster disseminated) during the RCP.
 
 ## Laboratory abnormalities
 
 ## Decreased immunoglobulins
 
-Consistent with its mechanism of action, average immunoglobulin levels decreased with inebilizumab use. In NMOSD study, at the end of the 6.5-month RCP, the proportion of patients with levels below the lower limit of normal was as follows: IgA 9.8% inebilizumab and 3.1% placebo, IgE 10.6% inebilizumab and 12.5% placebo, IgG 3.8% inebilizumab and 9.4% placebo, and IgM 29.3% inebilizumab and 15.6% placebo. A single adverse reaction of IgG decreased was reported (grade 2, during the OLP). The proportion of inebilizumab-treated patients with IgG levels below the lower limit of normal at year 1 was 7.4% and at year 2 was 9.9%. With a median exposure of 3.2 years, the
-
-<div style=\"page-break-after: always\"></div>
-
-frequency of moderate IgG reduction (300 to &lt; 500 mg/dL) was 14.2% and the frequency of severe IgG reduction (&lt; 300 mg/dL) was 3.6%. In IgG4-RD study at the end of the 12-month RCP, the total immunoglobulin level was reduced by approximately 12% from baseline for patients treated with inebilizumab as compared to an increase of 21% in patients treated with placebo. The mean decreases from baseline in immunoglobulin G (IgG) and immunoglobulin M (IgM) were approximately 9% and 32%, respectively, in patients treated with inebilizumab, whereas IgG was increased by 26% and IgM was increased by approximately 3% in placebo-treated patients.
+Consistent with its mechanism of action, average immunoglobulin levels decreased with inebilizumab use. In NMOSD study, at the end of the 6.5-month RCP, the proportion of patients with levels below the lower limit of normal was as follows: IgA 9.8% inebilizumab and 3.1% placebo, IgE 10.6% inebilizumab and 12.5% placebo, IgG 3.8% inebilizumab and 9.4% placebo, and IgM 29.3% inebilizumab and 15.6% placebo. A single adverse reaction of IgG decreased was reported (grade 2, during the OLP). The proportion of inebilizumab-treated patients with IgG levels below the lower limit of normal at year 1 was 7.4% and at year 2 was 9.9%. With a median exposure of 3.2 years, the frequency of moderate IgG reduction (300 to &lt; 500 mg/dL) was 14.2% and the frequency of severe IgG reduction (&lt; 300 mg/dL) was 3.6%. In IgG4-RD study at the end of the 12-month RCP, the total immunoglobulin level was reduced by approximately 12% from baseline for patients treated with inebilizumab as compared to an increase of 21% in patients treated with placebo. The mean decreases from baseline in immunoglobulin G (IgG) and immunoglobulin M (IgM) were approximately 9% and 32%, respectively, in patients treated with inebilizumab, whereas IgG was increased by 26% and IgM was increased by approximately 3% in placebo-treated patients. In the gMG study at the end of the 6-month RCP, the total immunoglobulin level was reduced by 13.3% from baseline for patients treated with inebilizumab as compared to an increase of 14.5% in patients treated with placebo. The mean decreases from baseline in immunoglobulin G (IgG) and immunoglobulin M (IgM) were 8.4% and 30%, respectively, in patients treated with inebilizumab, whereas IgG and IgM were increased by 17.8% and 4.9%, respectively, in placebo-treated patients.
 
 ## Decreased neutrophil counts
 
 In NMOSD study, after 6.5 months of treatment, neutrophil counts between 1.0-1.5 × 10 9 /L (grade 2) were observed in 7.5% of inebilizumab-treated patients versus 1.8% of placebo-treated patients. Neutrophil counts between 0.5-1.0 × 10 9 /L (grade 3) were observed in 1.7% of inebilizumab-treated patients versus 0% of placebo-treated patients. In IgG4-RD study during the 12-month RCP, neutrophil counts between 1.0-1.5 × 10 9 /L were observed in 7.5% of inebilizumab-treated patients versus 3% of placebo-treated patients. Neutrophil counts between 0.5-1.0 × 10 9 /L were observed in 0% of inebilizumab-treated patients versus 1.5% of placebo-treated patients. Neutropenia was generally transient and was not associated with serious infections.
 
+<div style=\"page-break-after: always\"></div>
+
 ## Decreased lymphocyte counts
 
-In NMOSD study, during 6.5 months of treatment, a reduction in lymphocyte counts was observed more commonly in patients treated with inebilizumab than placebo: lymphocyte counts between 500-&lt; 800/mm 3  (grade 2) were observed in 21.4% of inebilizumab-treated patients versus 12.5% of placebo-treated patients. Lymphocyte counts between 200-&lt; 500/mm 3  (grade 3) were observed in 2.9% of inebilizumab-treated patients versus 1.8% of placebo-treated patients. In IgG4-RD study, during 12 months of treatment in RCP, a reduction in lymphocyte counts was observed more commonly in patients treated with inebilizumab than placebo: lymphocyte counts between 500-&lt; 800/mm 3  (grade 2) were observed in 26.9% of both inebilizumab-treated and placebo-treated patients. Lymphocyte counts between 200-&lt; 500/mm 3  (grade 3) were observed in 10.4% of inebilizumab-treated patients versus 3.0% of placebo-treated patients. This finding is consistent with the mechanism of action of B-cell depletion since B cells are a subset of the lymphocyte population.
+In NMOSD study, during 6.5 months of treatment, a reduction in lymphocyte counts was observed more commonly in patients treated with inebilizumab than placebo: lymphocyte counts between 500-&lt; 800/mm 3  (grade 2) were observed in 21.4% of inebilizumab-treated patients versus 12.5% of placebo-treated patients. Lymphocyte counts between 200-&lt; 500/mm 3  (grade 3) were observed in 2.9% of inebilizumab-treated patients versus 1.8% of placebo-treated patients. In IgG4-RD study, during 12 months of treatment in RCP, a reduction in lymphocyte counts was observed more commonly in patients treated with inebilizumab than placebo: lymphocyte counts between 500-&lt; 800/mm 3  (grade 2) were observed in 26.9% of both inebilizumab-treated and placebo-treated patients. Lymphocyte counts between 200-&lt; 500/mm 3  (grade 3) were observed in 10.4% of inebilizumab-treated patients versus 3.0% of placebo-treated patients. In the gMG study, at the end of the 6-month RCP, a reduction in lymphocyte counts was observed in 35% of inebilizumab-treated versus 30.8% of placebo-treated patients. Lymphocyte counts between 500-&lt; 800/mm 3  (grade 2) were observed in 21.4% of inebilizumab-treated patients versus 12.8% of placebo-treated patients. Lymphocyte counts between 200-&lt; 500/mm 3  (grade 3) were observed in 10.3% of inebilizumabtreated patients versus 7.7% of placebo-treated patients. This finding is consistent with the mechanism of action of B-cell depletion since B cells are a subset of the lymphocyte population.
 
 ## Reporting of suspected adverse reactions
 
@@ -378,17 +393,17 @@ There is no specific antidote in the event of an overdose; the infusion should b
 
 Pharmacotherapeutic group: immunosuppressants, monoclonal antibodies, ATC code: L04AG10
 
-<div style=\"page-break-after: always\"></div>
-
 ## Mechanism of action
 
-Inebilizumab is a monoclonal antibody that specifically binds to CD19, a cell surface antigen present on pre-B and mature B-cell lymphocytes, including plasmablasts and some plasma cells. Following cell surface binding to B lymphocytes, inebilizumab supports antibody-dependent cellular cytolysis (ADCC) and antibody-dependent cellular phagocytosis (ADCP). B cells are believed to play a central role in the pathogenesis of NMOSD and IgG4-RD. The precise mechanism by which inebilizumab exerts its therapeutic effects in these diseases is unknown but is presumed to involve B-cell depletion and may include the suppression of antibody secretion, antigen presentation, B-cell -T-cell interaction, and the production of inflammatory mediators.
+Inebilizumab is a monoclonal antibody that specifically binds to CD19, a cell surface antigen present on pre-B and mature B-cell lymphocytes, including plasmablasts and some plasma cells. Following cell surface binding to B lymphocytes, inebilizumab supports antibody-dependent cellular cytolysis (ADCC) and antibody-dependent cellular phagocytosis (ADCP). B cells are believed to play a central role in the pathogenesis of NMOSD, IgG4-RD and gMG. The precise mechanism by which inebilizumab exerts its therapeutic effects in these diseases is presumed to involve B-cell depletion and may include the suppression of antibody secretion, antigen presentation, B-cell -T-cell interaction, and the production of inflammatory mediators.
+
+<div style=\"page-break-after: always\"></div>
 
 ## Pharmacodynamic effects
 
-Pharmacodynamics of inebilizumab were assessed with an assay for CD20+ B cells, since inebilizumab can interfere with the CD19+ B-cell assay. Treatment with inebilizumab reduces CD20+ B-cell counts in blood by 8 days after infusion. In the clinical study of 174-NMOSD patients, CD20+ B-cell counts were reduced below the lower limit of normal by 4 weeks in 100% of patients treated with inebilizumab and remained below the lower limit of normal in 94% of patients for 28 weeks after initiation of treatment. In the clinical study of 68-IgG4-RD patients, CD20+ B-cell counts were reduced below the lower limit of normal by week 2 in 100% of patients treated with inebilizumab and remained below the lower limit of normal in 82% and 79% of patients at week 26 and 52, respectively, with 6-month treatment interval. The time to B-cell repletion following administration of inebilizumab is not known.
+Pharmacodynamics of inebilizumab were assessed with an assay for CD20+ B cells, since inebilizumab can interfere with the CD19+ B-cell assay. Treatment with inebilizumab reduces CD20+ B-cell counts in blood by 8 days after infusion. In the clinical study of 174-NMOSD patients, CD20+ B-cell counts were reduced below the lower limit of normal by 4 weeks in 100% of patients treated with inebilizumab and remained below the lower limit of normal in 94% of patients for 28 weeks after initiation of treatment. In the clinical study of 68-IgG4-RD patients, CD20+ B-cell counts were reduced below the lower limit of normal by week 2 in 100% of patients treated with inebilizumab and remained below the lower limit of normal in 82% and 79% of patients at week 26 and 52, respectively, with 6-month treatment interval. In the gMG study, CD20+ B-cell counts were reduced below the lower limit of normal by week 4 in ≥ 99% of inebilizumab-treated patients in the overall population (anti-AChR-Ab+ and anti-MuSK-Ab+). B cell counts remained below the lower limit of normal in ≥ 96% of patients in the overall population at the end of the 6-month randomisedcontrolled period (RCP). After 1 year of inebilizumab treatment in patients with anti-AChR-Ab+ gMG, 92% of patients had B-cell counts below the lower limit of normal. The time to B-cell repletion following administration of inebilizumab is not known.
 
-During the RCP of clinical studies of inebilizumab in NMOSD and IgG4-RD, treatment-emergent anti-drug antibodies (ADAs) were observed in 2.9% and 8.8% of patients, respectively. ADA-positive status appeared to have no clinically relevant impact on PK and PD (B-cell) parameters and did not impact the long-term safety profile. There was no apparent effect of ADA status on the efficacy outcome; however, the impact cannot be fully assessed given the low incidence of ADA associated with inebilizumab treatment.
+ADA (anti-drug antibodies)-positive status appeared to have no clinically relevant impact on PK and PD (B-cell) parameters and did not impact the long-term safety profile. There was no apparent effect of ADA status on the efficacy outcome; however, the impact cannot be fully assessed given the low incidence of ADA associated with inebilizumab treatment.
 
 ## Clinical efficacy and safety
 
@@ -398,16 +413,19 @@ The efficacy of inebilizumab for the treatment of NMOSD was studied in a randomi
 
 Patients were treated with intravenous infusions of inebilizumab 300 mg on day 1 and on day 15, or matching placebo, and then followed for a period of up to 197 days or an adjudicated attack, termed the randomised-controlled period (RCP). All potential attacks were evaluated by a blinded, independent, Adjudication Committee (AC), who determined whether the attack met protocol-defined criteria. The attack criteria recognised attacks in all domains affected by NMOSD (optic neuritis, myelitis, brain, and brainstem) and included criteria based exclusively on substantial clinical manifestations, as well as criteria that augmented more modest clinical findings with the use of MRI (see table 3).
 
-<div style=\"page-break-after: always\"></div>
-
 Table 3. Overview of the protocol-defined criteria for an NMOSD attack
 
-| Domain      | Representative symptoms                                                                                                                                                                         | Clinical-only findings                                                                    | Clinical PLUS radiological findings                                                                                               |
-|-------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------|
-| Optic nerve | Blurred vision Loss of vision Eye pain                                                                                                                                                          | 8 criteria based on changes in visual acuity or relative afferent pupillary defect (RAPD) | 3 criteria based on changes in visual acuity or RAPD plus presence of corresponding optic nerve MRI findings                      |
-| Spinal cord | Deep or radicular pain Extremity paraesthesia Weakness Sphincter dysfunction Lhermitte's sign (not in isolation)                                                                                | 2 criteria based on changes in pyramidal, bladder/bowel, or sensory functional scores     | 2 criteria based on changes in pyramidal, bladder/bowel, or sensory functional scores PLUS corresponding spinal cord MRI findings |
-| Brainstem   | Intractable vomiting Intractable hiccups Other neurological signs (e.g., double vision, dysarthria, dysphagia, vertigo, oculomotor palsy, weakness, nystagmus, other cranial nerve abnormality) | None                                                                                      | 2 criteria based on symptoms or changes in brainstem/cerebellar functional scores PLUS corresponding brainstem MRI findings       |
-| Brain       | Encephalopathy Hypothalamic dysfunction                                                                                                                                                         | None                                                                                      | changes in cerebral/sensory/pyramidal functional scores PLUS corresponding brain MRI                                              |
+| Domain      | Representative symptoms                | Clinical-only findings                                                                    | Clinical PLUS radiological findings                                                                          |
+|-------------|----------------------------------------|-------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------|
+| Optic nerve | Blurred vision Loss of vision Eye pain | 8 criteria based on changes in visual acuity or relative afferent pupillary defect (RAPD) | 3 criteria based on changes in visual acuity or RAPD plus presence of corresponding optic nerve MRI findings |
+
+<div style=\"page-break-after: always\"></div>
+
+| Domain      | Representative symptoms                                                                                                                                                                                | Clinical-only findings                                                                | Clinical PLUS radiological findings                                                                                               |
+|-------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------|
+| Spinal cord | Deep or radicular pain Extremity paraesthesia Weakness Sphincter dysfunction Lhermitte's sign (not in isolation)                                                                                       | 2 criteria based on changes in pyramidal, bladder/bowel, or sensory functional scores | 2 criteria based on changes in pyramidal, bladder/bowel, or sensory functional scores PLUS corresponding spinal cord MRI findings |
+| Brainstem   | Nausea Intractable vomiting Intractable hiccups Other neurological signs (e.g., double vision, dysarthria, dysphagia, vertigo, oculomotor palsy, weakness, nystagmus, other cranial nerve abnormality) | None                                                                                  | 2 criteria based on symptoms or changes in brainstem/cerebellar functional scores PLUS corresponding brainstem MRI findings       |
+| Brain       | Encephalopathy Hypothalamic dysfunction                                                                                                                                                                | None                                                                                  | 1 criterion based on changes in cerebral/sensory/pyramidal functional scores PLUS corresponding brain MRI findings                |
 
 Patients who experienced an AC-determined attack in the RCP, or who completed the day 197 visit without an attack, exited the RCP and had the option to enrol into an OLP and initiate or continue treatment with inebilizumab.
 
@@ -417,21 +435,18 @@ Baseline demographics and disease characteristics were balanced across the 2 tre
 
 Table 4. Demographics and baseline characteristics of the AQP4-IgG seropositive NMOSD patients
 
-| Characteristic                              | Placebo N = 52   | Inebilizumab N = 161   | Overall N = 213   |
-|---------------------------------------------|------------------|------------------------|-------------------|
-| Age (years): mean (standard deviation [SD]) | 42.4 (14.3)      | 43.2 (11.6)            | 43.0 (12.3)       |
-| Age ≥ 65 years, n (%)                       | 4 (7.7)          | 6 (3.7)                | 10 (4.7)          |
-| Sex: Male, n (%)                            | 3 (5.8)          | 10 (6.2)               | 13 (6.1)          |
-
-<div style=\"page-break-after: always\"></div>
-
 | Characteristic                                     | Placebo N = 52   | Inebilizumab N = 161   | Overall N = 213   |
 |----------------------------------------------------|------------------|------------------------|-------------------|
+| Age (years): mean (standard deviation [SD])        | 42.4 (14.3)      | 43.2 (11.6)            | 43.0 (12.3)       |
+| Age ≥ 65 years, n (%)                              | 4 (7.7)          | 6 (3.7)                | 10 (4.7)          |
+| Sex: Male, n (%)                                   | 3 (5.8)          | 10 (6.2)               | 13 (6.1)          |
 | Sex: Female, n (%)                                 | 49 (94.2)        | 151 (93.8)             | 200 (93.9)        |
 | Expanded disability status scale (EDSS): mean (SD) | 4.35 (1.63)      | 3.81 (1.77)            | 3.94 (1.75)       |
 | Disease duration (years): mean (SD)                | 2.92 (3.54)      | 2.49 (3.39)            | 2.59 (3.42)       |
 | Number of prior relapses: ≥ 2, n (%)               | 39 (75.0)        | 137 (85.1)             | 176 (82.6)        |
 | Annualised relapse rate: mean (SD)                 | 1.456 (1.360)    | 1.682 (1.490)          | 1.627 (1.459)     |
+
+<div style=\"page-break-after: always\"></div>
 
 Rescue therapy was initiated as needed for NMOSD attacks. All patients were pre-medicated prior to investigational product administration to reduce the risk of infusion-related reactions.
 
@@ -496,8 +511,6 @@ Figure 2. Primary endpoint - Kaplan-Meier plot of time to first treated and AC-d
 
 <!-- image -->
 
-a  Based on Cox regression method, with placebo as the reference group.
-
 GRH2676 v2
 
 <div style=\"page-break-after: always\"></div>
@@ -506,18 +519,18 @@ Patients who did not complete the RCP and who did not have a treated and AC-dete
 
 Table 7. Key secondary efficacy results in IgG4-RD patients
 
-|                                                                                                  | Treatment group    | Treatment group    |
-|--------------------------------------------------------------------------------------------------|--------------------|--------------------|
-|                                                                                                  | Uplizna N = 68     | Placebo N = 67     |
-| Annualised flare rate for treated and AC-determined IgG4-RD flares                               | 0.10               | 0.71               |
-| Rate ratio (95% CI) a                                                                            | 0.14 (0.06, 0.31)  | 0.14 (0.06, 0.31)  |
-| p-value a                                                                                        | < 0.0001           | < 0.0001           |
-| Proportion of subjects achieving treatment-free, flare-free complete remission at week 52 b      | 39 (57.4%)         | 15 (22.4%)         |
-| Odds ratio (95% CI) c                                                                            | 4.68 (2.21, 9.91)  | 4.68 (2.21, 9.91)  |
-| p-value c                                                                                        | < 0.0001           | < 0.0001           |
-| Proportion of subjects achieving corticosteroid-free, flare-free complete remission at week 52 d | 40 (58.8%)         | 15 (22.4%)         |
-| Odds ratio (95% CI) c                                                                            | 4.96 (2.34, 10.52) | 4.96 (2.34, 10.52) |
-| p-value c                                                                                        | < 0.0001           | < 0.0001           |
+|                                                                                                  | Treatment group     | Treatment group    |
+|--------------------------------------------------------------------------------------------------|---------------------|--------------------|
+|                                                                                                  | Inebilizumab N = 68 | Placebo N = 67     |
+| Annualised flare rate for treated and AC-determined IgG4-RD flares                               | 0.10                | 0.71               |
+| Rate ratio (95% CI) a                                                                            | 0.14 (0.06, 0.31)   | 0.14 (0.06, 0.31)  |
+| p-value a                                                                                        | < 0.0001            | < 0.0001           |
+| Proportion of subjects achieving treatment-free, flare-free complete remission at week 52 b      | 39 (57.4%)          | 15 (22.4%)         |
+| Odds ratio (95% CI) c                                                                            | 4.68 (2.21, 9.91)   | 4.68 (2.21, 9.91)  |
+| p-value c                                                                                        | < 0.0001            | < 0.0001           |
+| Proportion of subjects achieving corticosteroid-free, flare-free complete remission at week 52 d | 40 (58.8%)          | 15 (22.4%)         |
+| Odds ratio (95% CI) c                                                                            | 4.96 (2.34, 10.52)  | 4.96 (2.34, 10.52) |
+| p-value c                                                                                        | < 0.0001            | < 0.0001           |
 
 a Estimated from the negative binomial regression, with placebo as the reference group.
 
@@ -531,19 +544,121 @@ The mean (SD) total GC use for IgG4-RD disease control per patient was lower in 
 
 Available data from the OLP, in which patients continued to receive inebilizumab supports a sustained treatment effect of inebilizumab.
 
+## Generalized myasthenia gravis (gMG)
+
+The efficacy of inebilizumab for the treatment of gMG was studied in a randomised, double-blind, multicentre, placebo-controlled clinical trial. The RCP was 52 weeks for the anti-AChR-Ab+ population who received 300 mg IV of inebilizumab or placebo at Days 1, 15 and 183. The RCP was 26 weeks for the anti-MuSK-Ab+ population who received 300 mg IV of inebilizumab or placebo at Days 1 and 15. The primary analysis was conducted after week 26 in both populations.
+
+Patients met the following eligibility criteria:
+
+- Presence of autoantibodies against AChR or MuSK
+- Myasthenia Gravis Foundation of America (MGFA) Clinical Classification Class II to IV
+- Myasthenia Gravis-Activities of Daily Living (MG-ADL) score between 6 and 10 with &gt; 50% of this score attributed to non-ocular items or an MGADL score ≥ 11
+
+<div style=\"page-break-after: always\"></div>
+
+- Quantitative Myasthenia Gravis (QMG) score of ≥ 11
+- On a stable dose of a corticosteroid or a specified non-steroidal immunosuppressive therapy (NSIST), or a combination of both prior to randomisation.
+
+The stable dose of corticosteroid (&gt; 5 mg/day prednisone or equivalent) was tapered to 5 mg/day (prednisone or equivalent) from week 4 to week 24. Rescue therapy included IVIg and plasma exchange.
+
+Inebilizumab was administered according to the recommended dosage regimen (see section 4.2).
+
+Patients were randomised at a 1:1 ratio; of the 238 enrolled gMG patients, 95 anti-AChR-Ab+ patients and 24 anti-MuSK-Ab+ patients were randomised to receive inebilizumab and 95 anti-AChR-Ab+ patients and 24 anti-MuSK-Ab+ patients were randomised to receive placebo.
+
+Baseline demographics and disease characteristics for gMG patients during the RCP were balanced across the treatment groups (see Table 8).
+
+Table 8. Demographics and baseline characteristics of gMG patients for overall population
+
+| Characteristic                                                                   | Placebo N = 117   | Inebilizumab N = 119   | Overall N = 236   |
+|----------------------------------------------------------------------------------|-------------------|------------------------|-------------------|
+| Age (years): mean (standard deviation [SD])                                      | 47.9 (15.0)       | 47.1 (15.7)            | 47.5 (15.3)       |
+| Age ≥ 65 years, n (%)                                                            | 16 (13.7)         | 22 (18.5)              | 38 (16.1)         |
+| Sex: Male, n (%)                                                                 | 52 (44.4)         | 40 (33.6)              | 92 (39.0)         |
+| Sex: Female, n (%)                                                               | 65 (55.6)         | 79 (66.4)              | 144 (61.0)        |
+| Race, (%)                                                                        |                   |                        |                   |
+| Asian                                                                            | 46.2              | 38.7                   | 42.4              |
+| Black or African American                                                        | 2.6               | 1.7                    | 2.1               |
+| White                                                                            | 47.9              | 58                     | 53                |
+| Disease duration (years): mean (SD)                                              | 6.73 (7.28)       | 5.94 (6.96)            | 6.34 (7.12)       |
+| Baseline MG-ADL Score: mean (SD)                                                 |                   |                        |                   |
+| Overall population                                                               | 9.1 (2.8)         | 9.0 (2.8)              | 9.1 (2.8)         |
+| AChR+ population                                                                 | 9.3 (2.8)         | 9.1 (2.7)              | 9.2 (2.7)         |
+| MuSK+ population                                                                 | 8.3 (2.5)         | 8.8 (3.1)              | 8.5 (2.8)         |
+| Baseline QMGScore: mean (SD)                                                     |                   |                        |                   |
+| Overall population                                                               | 17.3 (4.2)        | 16.7 (4.2)             | 17.0 (4.2)        |
+| AChR+ population                                                                 | 17.4 (4.3)        | 16.9 (4.1)             | 17.1 (4.2)        |
+| MuSK+ population                                                                 | 17.2 (3.9)        | 16.1 (4.8)             | 16.7 (4.3)        |
+| Number of patients receiving stable immunosuppressant therapy at baseline: n (%) |                   |                        |                   |
+| Corticosteroid only                                                              | 68 (58.1)         | 82 (68.9)              | 150 (63.6)        |
+| NSIST only                                                                       | 9 (7.7)           | 8 (6.7)                | 17 (7.2)          |
+| Corticosteroid plus 1 NSIST                                                      | 39 (33.3)         | 29 (24.4)              | 68 (28.8)         |
+| Acetylcholinesterase inhibitor: n (%)                                            | 93 (79.5)         | 94 (79.0)              | 187 (79.2)        |
+
+The results of the primary and key secondary endpoints are presented in Table 9 and Figures 3 to 5.
+
+The efficacy of inebilizumab was measured using the MG-ADL scale, which assesses the impact of gMG on an 8item questionnaire that focuses on the MG patient's relevant symptoms and functional performance of activities of daily living. Each item is assessed on a 4-point scale where a score of 0
+
+<div style=\"page-break-after: always\"></div>
+
+represents normal function and a score of 3 represents the most severe impact by the disease. The total MG-ADL score ranges from 0 to 24, with higher scores indicating more impairment.
+
+The primary efficacy endpoint was the change from baseline in the MG-ADL score at week 26, in the overall population. A statistically significant difference favoring inebilizumab was observed in the mean change from baseline in MG-ADL total score (-4.3 inebilizumab vs -3.0 for placebo, a difference of -1.3, 95% CI: -2.2, -0.4; p-value: 0.0067). The proportion of patients who received rescue therapy by week 26 was lower in the inebilizumab group compared with placebo (8.4% inebilizumab vs 23.9% placebo).
+
+The key secondary endpoint was the change from baseline in the QMG score at week 26 in the overall population. The QMG score is a 13-item categorical grading system that quantitively measures disease impairment by mainly assessing muscle weakness. Each item is assessed on a 4-point scale where a score of 0 represents no impairment and a score of 3 represents severe impairment. A total possible score ranges from 0 to 39, where higher scores indicate more severe impairment. A statistically significant difference favoring inebilizumab was observed in the mean change from baseline in QMG total score (-4.9 inebilizumab vs -2.9 placebo, a difference of -2.0, 95% CI: -3.3, -0.7).
+
+Table 9. Change from baseline in MG-ADL and QMG scores at week 26 in adult gMG patients who are Anti-AChR-Ab+ or Anti-MuSK-Ab+
+
+|              | Overall Population   | Overall Population   |
+|--------------|----------------------|----------------------|
+|              | Inebilizumab N = 119 | Placebo N = 117      |
+| MG-ADL Score |                      |                      |
+| LS Mean      | -4.3                 | -3.0                 |
+| Difference   | -1.3                 |                      |
+| 95% CI       | (-2.2, -0.4)         |                      |
+| p-value      | 0.0067               |                      |
+| QMGScore     |                      |                      |
+| LS Mean      | -4.9                 | -2.9                 |
+| Difference   | -2.0                 |                      |
+| 95% CI       | (-3.3, -0.7)         |                      |
+| p-value      | 0.0028               |                      |
+
+CI = confidence interval; LS = least square
+
+The proportion of patients who achieved a ≥ 3-point improvement in MG-ADL score at week 26 with no use of rescue therapy between Day 28 and week 26 was 68.7% in the inebilizumab group and 48.2% in the placebo group.
+
+<div style=\"page-break-after: always\"></div>
+
+Figure 3. Mean change from baseline in MG-ADL score by week 26 for overall population
+
+<!-- image -->
+
+Figure 4. Mean change from baseline in QMG score by week 26 for overall population
+
+<!-- image -->
+
+Patients who were gMG anti-AChR-Ab+ continued in the RCP until week 52. Results in these patients show that the treatment difference favoring inebilizumab increased over time, compared with placebo. At week 52, in the anti-AChR-Ab+ population, the change from baseline in the MG-ADL score was -5.1 vs -3.0 for inebilizumab and placebo, respectively.
+
+<div style=\"page-break-after: always\"></div>
+
+Figure 5. Mean change from baseline in MG-ADL score by week 52 for anti-AChR-Ab+ patients
+
+<!-- image -->
+
+At the time of primary analysis, in total, 94 patients (79.0%) in the inebilizumab group and 84 patients (70.6%) in the placebo group received any dose of inebilizumab during the OLP. Among patients who initially received inebilizumab during the RCP, continued improvements in MG-ADL and QMG were observed through week 78 of OLP in the anti-AChR-Ab+ and in the anti-MuSK-Ab+ subpopulations, respectively. Among patients who initially received placebo and initiated treatment with inebilizumab during the OLP, improvements in MG-ADL and QMG continued through week 78 of OLP in the anti-AChR-Ab + and in the anti-MuSK-Ab+ subpopulations, respectively.
+
 ## Paediatric population
 
-The European Medicines Agency has deferred the obligation to submit the results of studies with inebilizumab in one or more subsets of the paediatric population in NMOSD and IgG4-RD (see section 4.2 for information on paediatric use).
+The European Medicines Agency has deferred the obligation to submit the results of studies with inebilizumab in one or more subsets of the paediatric population in NMOSD, IgG4-RD and gMG (see section 4.2 for information on paediatric use).
 
 ## 5.2 Pharmacokinetic properties
 
 ## Absorption
 
-Inebilizumab is administered as an intravenous infusion. In the NMOSD study, the mean maximum concentration was 108 μg/mL (300 mg, second dose on day 15), and the cumulative area under the curve (AUC) of the 26-week treatment period in which NMOSD patients received two intravenous administrations 2-week apart was 2980 µg×d/mL. In the IgG4-RD study, the mean maximum
+Inebilizumab is administered as an intravenous infusion. In the NMOSD study, the mean maximum concentration was 108 μg/mL (300 mg, second dose on day 15), and the cumulative area under the curve (AUC) of the 26-week treatment period in which NMOSD patients received two intravenous administrations 2-week apart was 2980 µg×d/mL. In the IgG4-RD study, the mean maximum concentration was 127 μg/mL (300 mg, second dose on day 15), and the cumulative AUC of the 52-week treatment period in which IgG4-RD patients received two intravenous administrations 2 weeks apart, followed by a third dose at week 26 was 4290 µg×d/mL.
+
+In the gMG study, the mean maximum concentration (300 mg, second dose on day 15) was 126 μ g/mL for the anti-AChR-Ab+ subpopulation (n = 90) and 159 μg/mL for the anti -MuSK-Ab+ subpopulation (n = 20). The cumulative AUC of the 26-week treatment period in which anti-AChR-Ab+ patients (n = 82) received two intravenous administrations 2 weeks apart was 3120 µg×d/mL. The cumulative AUC of the 26-week treatment period in which anti-MuSK-Ab+ patients (n = 17) received two intravenous administrations 2 weeks apart was 3740 µg×d/mL. Additionally, the cumulative AUC of the 52-week treatment period in which anti-AChR-Ab+ patients (n = 84) received two intravenous administrations 2 weeks apart, followed by a third dose at week 26 was 4240 µg×d/mL.
 
 <div style=\"page-break-after: always\"></div>
-
-concentration was 127 μg/mL (300 mg, second dose on day 15), and the cumulative AUC of the 52-week treatment period in which IgG4-RD patients received two intravenous administrations 2 weeks apart, followed by a third dose at week 26 was 4290 µg×d/mL.
 
 ## Distribution
 
@@ -555,7 +670,7 @@ Inebilizumab is a humanised IgG1 monoclonal antibody that is degraded by proteol
 
 ## Elimination
 
-In adult patients with NMOSD and IgG4-RD, the terminal elimination half-life was approximately 18 days. From population pharmacokinetic analysis, the estimated inebilizumab systemic clearance of the first-order elimination pathway was 0.19 L/day. At low pharmacokinetic exposure levels, inebilizumab was likely subject to the receptor (CD19)-mediated clearance, which decreased with time presumably due to the depletion of B cells by inebilizumab treatment.
+In adult patients with NMOSD, IgG4-RD and gMG, the terminal elimination half-life was approximately 18 days. From population pharmacokinetic analysis, the estimated inebilizumab systemic clearance of the first-order elimination pathway was 0.19 L/day. At low pharmacokinetic exposure levels, inebilizumab was likely subject to the receptor (CD19)-mediated clearance, which decreased with time presumably due to the depletion of B cells by inebilizumab treatment.
 
 ## Special populations
 
@@ -579,13 +694,15 @@ No formal clinical studies have been conducted to investigate the effect of rena
 
 No formal clinical studies have been conducted to investigate the effect of hepatic impairment on inebilizumab. In clinical studies, no subjects with severe hepatic impairment have been exposed to inebilizumab. IgG monoclonal antibodies are not primarily cleared via the hepatic pathway; change in hepatic function is, therefore, not expected to influence inebilizumab clearance. Based on population pharmacokinetic analysis, baseline hepatic function biomarkers (AST, ALP, and bilirubin) had no clinically relevant effect on inebilizumab clearance.
 
-<div style=\"page-break-after: always\"></div>
-
 ## 5.3 Preclinical safety data
 
 Nonclinical data reveal no special hazard for humans based on conventional studies of safety pharmacology, repeated dose toxicity, genotoxicity, and carcinogenic potential.
 
-Inebilizumab was evaluated in a combined fertility and embryo-foetal development study in female and male huCD19 Tg mice at intravenous doses of 3 and 30 mg/kg. There was no effect on embryo-foetal development, however, there was a treatment-related reduction in fertility index at both tested doses. The relevance of this finding to humans is unknown. Additionally, there was a decrease in B-cell populations at the site of B-cell development in foetal mice born to inebilizumab-treated animals as compared to the offspring of control animals, suggesting that inebilizumab crosses the placenta and depletes B cells.
+Inebilizumab was evaluated in a combined fertility and embryo-foetal development study in female and male huCD19 Tg mice at intravenous doses of 3 and 30 mg/kg. There was no effect on
+
+<div style=\"page-break-after: always\"></div>
+
+embryo-foetal development, however, there was a treatment-related reduction in fertility index at both tested doses. The relevance of this finding to humans is unknown. Additionally, there was a decrease in B-cell populations at the site of B-cell development in foetal mice born to inebilizumab-treated animals as compared to the offspring of control animals, suggesting that inebilizumab crosses the placenta and depletes B cells.
 
 Only sparse toxicokinetic samples were collected in the combined fertility and embryo-foetal development study; based on first dose maximum concentration (Cmax), the exposure multiples of 3 and 30 mg/kg in female huCD19 Tg mice were 0.4-fold and 4-fold, respectively for the 300 mg clinical therapeutic dose.
 
@@ -615,11 +732,11 @@ Store in a refrigerator (2°C to 8°C).
 
 Do not freeze.
 
-<div style=\"page-break-after: always\"></div>
-
 Store in the original package to protect from light.
 
 For storage conditions after dilution of the medicinal product, see section 6.3.
+
+<div style=\"page-break-after: always\"></div>
 
 ## 6.5 Nature and contents of container
 
@@ -910,6 +1027,7 @@ Uplizna is used to treat adults with:
 
 - -Neuromyelitis optic spectrum disorder (NMOSD), a rare condition which affects the nerves of the eye and spinal cord. The condition is thought to be due to the immune system mistakenly attacking the nerves in the body. Uplizna is given to patients with NMOSD whose B cells produce antibodies against aquaporin-4, a protein that plays an important role in nerve function.
 - -Immunoglobulin G4-related disease (IgG4-RD), a rare condition which affects multiple organs in the body. The condition is due to the immune system damaging the body's own tissues. Patients with IgG4-RD may have high levels of a specific type of antibody called IgG4. B cells producing IgG4 build up in affected tissues and contribute to organ damage.
+- -Generalized myasthenia gravis (gMG), a rare condition where the immune system attacks and damages muscle cells causing muscle weakness throughout the body. Patients with gMG produce IgG autoantibodies against specific proteins, which disrupt or block communication between nerves and muscles.
 
 ## 2. What you need to know before you use Uplizna
 
@@ -918,11 +1036,12 @@ Uplizna is used to treat adults with:
 - -if you are allergic to inebilizumab or any of the other ingredients of this medicine (listed in section 6).
 - -if you are suffering from a severe active infection such as hepatitis B.
 - -if you have active or untreated latent tuberculosis.
+
+<div style=\"page-break-after: always\"></div>
+
 - -if you have a history of progressive multifocal leukoencephalopathy (PML), an uncommon but serious brain infection caused by a virus.
 - -if you have been told that you have severe problems with your immune system.
 - -if you have cancer.
-
-<div style=\"page-break-after: always\"></div>
 
 ## Warnings and precautions
 
@@ -966,6 +1085,12 @@ Uplizna is not expected to impact your ability to drive or use machines.
 
 This medicine contains 48 mg sodium (main component of cooking/table salt) in each infusion. This is equivalent to 2% of the recommended maximum daily dietary intake of sodium for an adult.
 
+## Uplizna contains polysorbate
+
+This medicine contains 1 mg of polysorbate 80 per vial which is equivalent to 0.1 mg/mL. Polysorbates may cause allergic reactions. Tell your doctor if you have any known allergies.
+
+<div style=\"page-break-after: always\"></div>
+
 ## 3. How Uplizna is given
 
 Uplizna is given by a drip (infusion) into a vein under the supervision of a doctor experienced in treating patients with your condition.
@@ -975,8 +1100,6 @@ The recommended dose is 300 mg.
 The first dose is followed 2 weeks later by a second dose, and after that a dose every 6 months.
 
 You will be given other medicines half an hour to an hour before the infusion, to reduce the risk of side effects. A doctor or nurse will monitor you during the infusion and for an hour afterward.
-
-<div style=\"page-break-after: always\"></div>
 
 If you have any further questions on the use of this medicine, ask your doctor.
 
@@ -994,13 +1117,14 @@ Very common (may affect more than 1 in 10 people)
 
 - -bladder infection
 - -infection in the nose, throat, sinuses, and/or lungs
-- -common cold
+- -common cold (nasopharyngitis)
 - -flu
 - -joint pain
 - -back pain
 - -immunoglobulins decreased
 - -lower-than-normal number lymphocyte (a form of white blood cells) in the blood (lymphopenia)
 - -reaction to the Uplizna infusion (see Infusion-related reactions, above)
+- -headache
 
 Common (may affect up to 1 in 10 people)
 
@@ -1011,8 +1135,11 @@ Common (may affect up to 1 in 10 people)
 - -shingles (herpes zoster, a painful, blistering rash in one part of the body)
 - -muscle pain (myalgia)
 - -fever (pyrexia)
+- -cough
 
-Uncommon (may affect up to 1 in 100 people)
+<div style=\"page-break-after: always\"></div>
+
+## Uncommon (may affect up to 1 in 100 people)
 
 - -infection in the blood (sepsis), an unusually severe response to an infection
 - -progressive multifocal leukoencephalopathy (PML), an uncommon but serious brain infection caused by a virus
@@ -1022,8 +1149,6 @@ Uncommon (may affect up to 1 in 100 people)
 ## Reporting of side effects
 
 If you get any side effects, talk to your doctor, pharmacist, or nurse. This includes any possible side effects not listed in this leaflet. You can also report side effects directly via the national reporting system listed in Appendix V. By reporting side effects, you can help provide more information on the safety of this medicine.
-
-<div style=\"page-break-after: always\"></div>
 
 ## 5. How to store Uplizna
 
@@ -1057,9 +1182,9 @@ Amgen Europe B.V. Minervum 7061 4817 ZK Breda The Netherlands
 
 ## Manufacturer
 
-Horizon Therapeutics Ireland DAC
+Horizon Therapeutics Ireland DAC Pottery Road Dun Laoghaire Co. Dublin A96 F2A8 Ireland
 
-Pottery Road Dun Laoghaire Co. Dublin A96 F2A8 Ireland
+<div style=\"page-break-after: always\"></div>
 
 ## Manufacturer
 
@@ -1069,15 +1194,7 @@ For any information about this medicine, please contact the local representative
 
 ## België/Belgique/Belgien
 
-s.a. Amgen n.v.
-
-Tél/Tel: +32 (0)2 7752711
-
-## Lietuva
-
-Amgen Switzerland AG Vilniaus filialas Tel. +370 5 219 7474
-
-<div style=\"page-break-after: always\"></div>
+s.a. Amgen n.v. Tél/Tel: +32 (0)2 7752711
 
 ## България
 
@@ -1119,17 +1236,9 @@ Amgen d.o.o. Tel: +385 (0)1 562 57 20
 
 Amgen Ireland Limited Tel: +353 1 8527400
 
-## Ísland
+## Lietuva
 
-Vistor Sími: +354 535 7000
-
-## Italia
-
-Amgen S.r.l. Tel: +39 02 6241121
-
-## Kύπρος
-
-C.A. Papaellinas Ltd Τηλ: +357 22741 741
+Amgen Switzerland AG Vilniaus filialas Tel. +370 5 219 7474
 
 ## Luxembourg/Luxemburg
 
@@ -1137,9 +1246,7 @@ s.a. Amgen Belgique/Belgien Tél/Tel: +32 (0)2 7752711
 
 ## Magyarország
 
-Amgen Kft.
-
-Tel.: +36 1 35 44 700
+Amgen Kft. Tel.: +36 1 35 44 700
 
 ## Malta
 
@@ -1147,9 +1254,7 @@ Amgen S.r.l. Italy Tel: +39 02 6241121
 
 ## Nederland
 
-Amgen B.V.
-
-Tel: +31 (0)76 5732500
+Amgen B.V. Tel: +31 (0)76 5732500
 
 ## Norge
 
@@ -1175,40 +1280,52 @@ Amgen România SRL Tel: +4021 527 3000
 
 AMGEN zdravila d.o.o. Tel: +386 (0)1 585 1767
 
+## Ísland
+
+Vistor
+
+Sími: +354 535 7000
+
 ## Slovenská republika
 
-Amgen Slovakia s.r.o. Tel: +421 2 321 114 49
+Amgen Slovakia s.r.o.
+
+Tel: +421 2 321 114 49
+
+## Italia
+
+Amgen S.r.l.
+
+Tel: +39 02 6241121
 
 ## Suomi/Finland
 
-Amgen AB, sivuliike Suomessa/Amgen AB, filial i Finland Puh/Tel: +358 (0)9 54900500
+Amgen AB, sivuliike Suomessa/Amgen AB, filial i Finland
+
+Puh/Tel: +358 (0)9 54900500
+
+## Kύπρος
+
+C.A. Papaellinas Ltd
+
+Τηλ: +357 22741 741
 
 ## Sverige
 
-Amgen AB Tel: +46 (0)8 6951100
+Amgen AB
+
+Tel: +46 (0)8 6951100
 
 <div style=\"page-break-after: always\"></div>
 
 ## Latvija
 
-Amgen Switzerland AG Rīgas filiāle Tel: +371 257 25888
+Amgen Switzerland AG Rīgas filiāle
+
+Tel: +371 257 25888
 
 ## This leaflet was last revised in
 
 ## Other sources of information
 
 Detailed information on this medicine is available on the European Medicines Agency website: http://www.ema.europa.eu.
-
-<div style=\"page-break-after: always\"></div>
-
-## ANNEX IV
-
-## CONCLUSIONS ON THE REQUEST FOR ONE-YEAR MARKETING PROTECTION PRESENTED BY THE EUROPEAN MEDICINES AGENCY
-
-<div style=\"page-break-after: always\"></div>
-
-## Conclusions presented by the European Medicines Agency on:
-
-## · one-year marketing protection
-
-The CHMP reviewed the data submitted by the Marketing Authorisation Holder, taking into account the provisions of Article 14(11) of Regulation (EC) No 726/2004, and considers that the new therapeutic indication brings significant clinical benefit in comparison with existing therapies as further explained in the European Public Assessment Report.

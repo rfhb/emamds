@@ -1,20 +1,20 @@
 ---
-document_datetime: 2025-12-29 12:35:27
+document_datetime: 2026-02-19 16:00:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/klisyri.html
 document_name: klisyri.html
 version: success
-processing_time: 0.1051174
-conversion_datetime: 2025-12-31 07:47:08.385426
+processing_time: 0.1113881
+conversion_datetime: 2026-02-21 13:08:30.899261
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.66.0
-  docling-core: 2.57.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.13.0
+  docling-jobkit: 1.11.0
+  docling: 2.74.0
+  docling-core: 2.65.1
+  docling-ibm-models: 3.11.0
+  docling-parse: 5.3.2
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.3-arm64-arm-64bit-Mach-O
 ---
 # Klisyri
 
@@ -26,8 +26,6 @@ This medicine is authorised for use in the European Union
 
 tirbanibulin Medicine Human Authorised
 
-On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
-
 Page contents
 
 ## Page contents
@@ -38,6 +36,7 @@ Page contents
 - [Authorisation details](#authorisation-details)
 - [Assessment history](#assessment-history)
 - [News on Klisyri](#news-on)
+- [Product information - with tracked changes](#product-information-with-tracked-changes-83543)
 
 - Application under evaluation
 - CHMP opinion
@@ -107,7 +106,7 @@ English (EN) (118.09 KB - PDF)
 
 [View](/en/documents/overview/klisyri-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-50)
+[Other languages (22)](#file-language-dropdown-394)
 
 български (BG) (129.65 KB - PDF)
 
@@ -299,17 +298,17 @@ English (EN) (957.99 KB - PDF)
 
 Klisyri : EPAR - Product information
 
-English (EN) (403.97 KB - PDF)
+English (EN) (414.02 KB - PDF)
 
 **First published:** 21/07/2021
 
-**Last updated:** 19/09/2024
+**Last updated:** 19/02/2026
 
 [View](/en/documents/product-information/klisyri-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-136)
+[Other languages (24)](#file-language-dropdown-380)
 
-български (BG) (511.45 KB - PDF)
+български (BG) (510.42 KB - PDF)
 
 **First published:**
 
@@ -317,11 +316,11 @@ English (EN) (403.97 KB - PDF)
 
 **Last updated:**
 
-19/09/2024
+19/02/2026
 
 [View](/bg/documents/product-information/klisyri-epar-product-information_bg.pdf)
 
-español (ES) (394.35 KB - PDF)
+español (ES) (398.99 KB - PDF)
 
 **First published:**
 
@@ -329,11 +328,11 @@ español (ES) (394.35 KB - PDF)
 
 **Last updated:**
 
-19/09/2024
+19/02/2026
 
 [View](/es/documents/product-information/klisyri-epar-product-information_es.pdf)
 
-čeština (CS) (407.33 KB - PDF)
+čeština (CS) (422.85 KB - PDF)
 
 **First published:**
 
@@ -341,11 +340,11 @@ español (ES) (394.35 KB - PDF)
 
 **Last updated:**
 
-19/09/2024
+19/02/2026
 
 [View](/cs/documents/product-information/klisyri-epar-product-information_cs.pdf)
 
-dansk (DA) (401.91 KB - PDF)
+dansk (DA) (406 KB - PDF)
 
 **First published:**
 
@@ -353,11 +352,11 @@ dansk (DA) (401.91 KB - PDF)
 
 **Last updated:**
 
-19/09/2024
+19/02/2026
 
 [View](/da/documents/product-information/klisyri-epar-product-information_da.pdf)
 
-Deutsch (DE) (412.83 KB - PDF)
+Deutsch (DE) (448.85 KB - PDF)
 
 **First published:**
 
@@ -365,11 +364,11 @@ Deutsch (DE) (412.83 KB - PDF)
 
 **Last updated:**
 
-19/09/2024
+19/02/2026
 
 [View](/de/documents/product-information/klisyri-epar-product-information_de.pdf)
 
-eesti keel (ET) (393.09 KB - PDF)
+eesti keel (ET) (397.83 KB - PDF)
 
 **First published:**
 
@@ -377,11 +376,11 @@ eesti keel (ET) (393.09 KB - PDF)
 
 **Last updated:**
 
-19/09/2024
+19/02/2026
 
 [View](/et/documents/product-information/klisyri-epar-product-information_et.pdf)
 
-ελληνικά (EL) (430.19 KB - PDF)
+ελληνικά (EL) (462.78 KB - PDF)
 
 **First published:**
 
@@ -389,11 +388,11 @@ eesti keel (ET) (393.09 KB - PDF)
 
 **Last updated:**
 
-19/09/2024
+19/02/2026
 
 [View](/el/documents/product-information/klisyri-epar-product-information_el.pdf)
 
-français (FR) (419.5 KB - PDF)
+français (FR) (446.12 KB - PDF)
 
 **First published:**
 
@@ -401,11 +400,11 @@ français (FR) (419.5 KB - PDF)
 
 **Last updated:**
 
-19/09/2024
+19/02/2026
 
 [View](/fr/documents/product-information/klisyri-epar-product-information_fr.pdf)
 
-hrvatski (HR) (444.13 KB - PDF)
+hrvatski (HR) (439.73 KB - PDF)
 
 **First published:**
 
@@ -413,11 +412,11 @@ hrvatski (HR) (444.13 KB - PDF)
 
 **Last updated:**
 
-19/09/2024
+19/02/2026
 
 [View](/hr/documents/product-information/klisyri-epar-product-information_hr.pdf)
 
-íslenska (IS) (407.47 KB - PDF)
+íslenska (IS) (425.21 KB - PDF)
 
 **First published:**
 
@@ -425,11 +424,11 @@ hrvatski (HR) (444.13 KB - PDF)
 
 **Last updated:**
 
-19/09/2024
+19/02/2026
 
 [View](/is/documents/product-information/klisyri-epar-product-information_is.pdf)
 
-italiano (IT) (397.49 KB - PDF)
+italiano (IT) (406.26 KB - PDF)
 
 **First published:**
 
@@ -437,11 +436,11 @@ italiano (IT) (397.49 KB - PDF)
 
 **Last updated:**
 
-19/09/2024
+19/02/2026
 
 [View](/it/documents/product-information/klisyri-epar-product-information_it.pdf)
 
-latviešu valoda (LV) (410.26 KB - PDF)
+latviešu valoda (LV) (414.71 KB - PDF)
 
 **First published:**
 
@@ -449,11 +448,11 @@ latviešu valoda (LV) (410.26 KB - PDF)
 
 **Last updated:**
 
-19/09/2024
+19/02/2026
 
 [View](/lv/documents/product-information/klisyri-epar-product-information_lv.pdf)
 
-lietuvių kalba (LT) (413.62 KB - PDF)
+lietuvių kalba (LT) (433.9 KB - PDF)
 
 **First published:**
 
@@ -461,11 +460,11 @@ lietuvių kalba (LT) (413.62 KB - PDF)
 
 **Last updated:**
 
-19/09/2024
+19/02/2026
 
 [View](/lt/documents/product-information/klisyri-epar-product-information_lt.pdf)
 
-magyar (HU) (451.09 KB - PDF)
+magyar (HU) (459.4 KB - PDF)
 
 **First published:**
 
@@ -473,11 +472,11 @@ magyar (HU) (451.09 KB - PDF)
 
 **Last updated:**
 
-19/09/2024
+19/02/2026
 
 [View](/hu/documents/product-information/klisyri-epar-product-information_hu.pdf)
 
-Malti (MT) (453.54 KB - PDF)
+Malti (MT) (481.44 KB - PDF)
 
 **First published:**
 
@@ -485,11 +484,11 @@ Malti (MT) (453.54 KB - PDF)
 
 **Last updated:**
 
-19/09/2024
+19/02/2026
 
 [View](/mt/documents/product-information/klisyri-epar-product-information_mt.pdf)
 
-Nederlands (NL) (403.37 KB - PDF)
+Nederlands (NL) (420.61 KB - PDF)
 
 **First published:**
 
@@ -497,11 +496,11 @@ Nederlands (NL) (403.37 KB - PDF)
 
 **Last updated:**
 
-19/09/2024
+19/02/2026
 
 [View](/nl/documents/product-information/klisyri-epar-product-information_nl.pdf)
 
-norsk (NO) (394.91 KB - PDF)
+norsk (NO) (416.98 KB - PDF)
 
 **First published:**
 
@@ -509,11 +508,11 @@ norsk (NO) (394.91 KB - PDF)
 
 **Last updated:**
 
-19/09/2024
+19/02/2026
 
 [View](/no/documents/product-information/klisyri-epar-product-information_no.pdf)
 
-polski (PL) (444.46 KB - PDF)
+polski (PL) (455.46 KB - PDF)
 
 **First published:**
 
@@ -521,11 +520,11 @@ polski (PL) (444.46 KB - PDF)
 
 **Last updated:**
 
-19/09/2024
+19/02/2026
 
 [View](/pl/documents/product-information/klisyri-epar-product-information_pl.pdf)
 
-português (PT) (409.68 KB - PDF)
+português (PT) (424.02 KB - PDF)
 
 **First published:**
 
@@ -533,11 +532,11 @@ português (PT) (409.68 KB - PDF)
 
 **Last updated:**
 
-19/09/2024
+19/02/2026
 
 [View](/pt/documents/product-information/klisyri-epar-product-information_pt.pdf)
 
-română (RO) (437.1 KB - PDF)
+română (RO) (450.09 KB - PDF)
 
 **First published:**
 
@@ -545,11 +544,11 @@ română (RO) (437.1 KB - PDF)
 
 **Last updated:**
 
-19/09/2024
+19/02/2026
 
 [View](/ro/documents/product-information/klisyri-epar-product-information_ro.pdf)
 
-slovenčina (SK) (431.81 KB - PDF)
+slovenčina (SK) (450.9 KB - PDF)
 
 **First published:**
 
@@ -557,11 +556,11 @@ slovenčina (SK) (431.81 KB - PDF)
 
 **Last updated:**
 
-19/09/2024
+19/02/2026
 
 [View](/sk/documents/product-information/klisyri-epar-product-information_sk.pdf)
 
-slovenščina (SL) (433.41 KB - PDF)
+slovenščina (SL) (459.1 KB - PDF)
 
 **First published:**
 
@@ -569,11 +568,11 @@ slovenščina (SL) (433.41 KB - PDF)
 
 **Last updated:**
 
-19/09/2024
+19/02/2026
 
 [View](/sl/documents/product-information/klisyri-epar-product-information_sl.pdf)
 
-Suomi (FI) (398.58 KB - PDF)
+Suomi (FI) (433.58 KB - PDF)
 
 **First published:**
 
@@ -581,11 +580,11 @@ Suomi (FI) (398.58 KB - PDF)
 
 **Last updated:**
 
-19/09/2024
+19/02/2026
 
 [View](/fi/documents/product-information/klisyri-epar-product-information_fi.pdf)
 
-svenska (SV) (393.81 KB - PDF)
+svenska (SV) (402.83 KB - PDF)
 
 **First published:**
 
@@ -593,11 +592,11 @@ svenska (SV) (393.81 KB - PDF)
 
 **Last updated:**
 
-19/09/2024
+19/02/2026
 
 [View](/sv/documents/product-information/klisyri-epar-product-information_sv.pdf)
 
-**Latest procedure affecting product information:** IB/0020 17/09/2024
+**Latest procedure affecting product information:** R/0000293300 12/02/2026
 
 icon globe
 
@@ -621,7 +620,7 @@ English (EN) (38.62 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/klisyri-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-659)
+[Other languages (24)](#file-language-dropdown-795)
 
 български (BG) (50.81 KB - PDF)
 
@@ -841,7 +840,7 @@ Almirall, S.A.
 
 Ronda General Mitre, 151
 
-Opinion adopted 20/05/2021 Marketing authorisation issued 16/07/2021 Revision 4
+Opinion adopted 20/05/2021 Marketing authorisation issued 16/07/2021 Revision 6
 
 ## Assessment history
 
@@ -853,19 +852,21 @@ Collapse section
 
 Klisyri : EPAR - Procedural steps taken and scientific information after authorisation
 
-English (EN) (144.31 KB - PDF)
+English (EN) (151.61 KB - PDF)
 
 **First published:** 26/08/2025
+
+**Last updated:** 19/02/2026
 
 [View](/en/documents/procedural-steps-after/klisyri-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf)
 
 Klisyri : EPAR - Procedural steps taken and scientific information after authorisation (archive)
 
-English (EN) (168.25 KB - PDF)
+English (EN) (166.43 KB - PDF)
 
 **First published:** 19/01/2022
 
-**Last updated:** 26/08/2025
+**Last updated:** 19/02/2026
 
 [View](/en/documents/procedural-steps-after/klisyri-epar-procedural-steps-taken-scientific-information-after-authorisation-archive_en.pdf)
 
@@ -899,7 +900,213 @@ English (EN) (125.63 KB - PDF)
 
 [Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 17-20 May 2021](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-17-20-may-2021) 21/05/2021
 
-**This page was last updated on** 26/08/2025
+#### Product information - with tracked changes
+
+The approved product information for this medicine is available below showing the changes since the previous procedure affecting the product information. The same document without tracked changes is above under 'Product information'.
+
+Klisyri : EPAR - Product information - tracked changes
+
+English (EN) (258.01 KB - DOCX)
+
+**First published:** 19/02/2026
+
+[View](/en/documents/product-information-tracked-changes/klisyri-epar-product-information-tracked-changes_en.docx)
+
+[Other languages (24)](#file-language-dropdown-195)
+
+български (BG) (241.34 KB - DOCX)
+
+**First published:**
+
+19/02/2026
+
+[View](/bg/documents/product-information-tracked-changes/klisyri-epar-product-information-tracked-changes_bg.docx)
+
+español (ES) (226.31 KB - DOCX)
+
+**First published:**
+
+19/02/2026
+
+[View](/es/documents/product-information-tracked-changes/klisyri-epar-product-information-tracked-changes_es.docx)
+
+čeština (CS) (232.87 KB - DOCX)
+
+**First published:**
+
+19/02/2026
+
+[View](/cs/documents/product-information-tracked-changes/klisyri-epar-product-information-tracked-changes_cs.docx)
+
+dansk (DA) (219.57 KB - DOCX)
+
+**First published:**
+
+19/02/2026
+
+[View](/da/documents/product-information-tracked-changes/klisyri-epar-product-information-tracked-changes_da.docx)
+
+Deutsch (DE) (239.28 KB - DOCX)
+
+**First published:**
+
+19/02/2026
+
+[View](/de/documents/product-information-tracked-changes/klisyri-epar-product-information-tracked-changes_de.docx)
+
+eesti keel (ET) (225.83 KB - DOCX)
+
+**First published:**
+
+19/02/2026
+
+[View](/et/documents/product-information-tracked-changes/klisyri-epar-product-information-tracked-changes_et.docx)
+
+ελληνικά (EL) (238.89 KB - DOCX)
+
+**First published:**
+
+19/02/2026
+
+[View](/el/documents/product-information-tracked-changes/klisyri-epar-product-information-tracked-changes_el.docx)
+
+français (FR) (239.14 KB - DOCX)
+
+**First published:**
+
+19/02/2026
+
+[View](/fr/documents/product-information-tracked-changes/klisyri-epar-product-information-tracked-changes_fr.docx)
+
+hrvatski (HR) (226.52 KB - DOCX)
+
+**First published:**
+
+19/02/2026
+
+[View](/hr/documents/product-information-tracked-changes/klisyri-epar-product-information-tracked-changes_hr.docx)
+
+íslenska (IS) (224.38 KB - DOCX)
+
+**First published:**
+
+19/02/2026
+
+[View](/is/documents/product-information-tracked-changes/klisyri-epar-product-information-tracked-changes_is.docx)
+
+italiano (IT) (231.45 KB - DOCX)
+
+**First published:**
+
+19/02/2026
+
+[View](/it/documents/product-information-tracked-changes/klisyri-epar-product-information-tracked-changes_it.docx)
+
+latviešu valoda (LV) (238.62 KB - DOCX)
+
+**First published:**
+
+19/02/2026
+
+[View](/lv/documents/product-information-tracked-changes/klisyri-epar-product-information-tracked-changes_lv.docx)
+
+lietuvių kalba (LT) (234.72 KB - DOCX)
+
+**First published:**
+
+19/02/2026
+
+[View](/lt/documents/product-information-tracked-changes/klisyri-epar-product-information-tracked-changes_lt.docx)
+
+magyar (HU) (239.15 KB - DOCX)
+
+**First published:**
+
+19/02/2026
+
+[View](/hu/documents/product-information-tracked-changes/klisyri-epar-product-information-tracked-changes_hu.docx)
+
+Malti (MT) (249.18 KB - DOCX)
+
+**First published:**
+
+19/02/2026
+
+[View](/mt/documents/product-information-tracked-changes/klisyri-epar-product-information-tracked-changes_mt.docx)
+
+Nederlands (NL) (228.92 KB - DOCX)
+
+**First published:**
+
+19/02/2026
+
+[View](/nl/documents/product-information-tracked-changes/klisyri-epar-product-information-tracked-changes_nl.docx)
+
+norsk (NO) (245.53 KB - DOCX)
+
+**First published:**
+
+19/02/2026
+
+[View](/no/documents/product-information-tracked-changes/klisyri-epar-product-information-tracked-changes_no.docx)
+
+polski (PL) (231.25 KB - DOCX)
+
+**First published:**
+
+19/02/2026
+
+[View](/pl/documents/product-information-tracked-changes/klisyri-epar-product-information-tracked-changes_pl.docx)
+
+português (PT) (255.39 KB - DOCX)
+
+**First published:**
+
+19/02/2026
+
+[View](/pt/documents/product-information-tracked-changes/klisyri-epar-product-information-tracked-changes_pt.docx)
+
+română (RO) (237.5 KB - DOCX)
+
+**First published:**
+
+19/02/2026
+
+[View](/ro/documents/product-information-tracked-changes/klisyri-epar-product-information-tracked-changes_ro.docx)
+
+slovenčina (SK) (227.46 KB - DOCX)
+
+**First published:**
+
+19/02/2026
+
+[View](/sk/documents/product-information-tracked-changes/klisyri-epar-product-information-tracked-changes_sk.docx)
+
+slovenščina (SL) (228.66 KB - DOCX)
+
+**First published:**
+
+19/02/2026
+
+[View](/sl/documents/product-information-tracked-changes/klisyri-epar-product-information-tracked-changes_sl.docx)
+
+Suomi (FI) (241.49 KB - DOCX)
+
+**First published:**
+
+19/02/2026
+
+[View](/fi/documents/product-information-tracked-changes/klisyri-epar-product-information-tracked-changes_fi.docx)
+
+svenska (SV) (227.98 KB - DOCX)
+
+**First published:**
+
+19/02/2026
+
+[View](/sv/documents/product-information-tracked-changes/klisyri-epar-product-information-tracked-changes_sv.docx)
+
+**This page was last updated on** 19/02/2026
 
 ## Share this page
 

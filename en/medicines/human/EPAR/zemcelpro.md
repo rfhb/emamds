@@ -1,20 +1,20 @@
 ---
-document_datetime: 2025-12-22 15:00:00
+document_datetime: 2026-02-18 11:30:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/zemcelpro.html
 document_name: zemcelpro.html
 version: success
-processing_time: 0.1090875
-conversion_datetime: 2026-01-03 13:01:29.883757
+processing_time: 0.0988596
+conversion_datetime: 2026-02-21 12:40:03.14383
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.66.0
-  docling-core: 2.57.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.13.0
+  docling-jobkit: 1.11.0
+  docling: 2.74.0
+  docling-core: 2.65.1
+  docling-ibm-models: 3.11.0
+  docling-parse: 5.3.2
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.3-arm64-arm-64bit-Mach-O
 ---
 # Zemcelpro
 
@@ -25,8 +25,6 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 allogeneic umbilical cord-derived CD34- cells, non-expanded / dorocubicel Medicine Human Authorised
-
-On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -124,7 +122,7 @@ English (EN) (118.7 KB - PDF)
 
 [View](/en/documents/overview/zemcelpro-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-918)
+[Other languages (22)](#file-language-dropdown-419)
 
 български (BG) (148.36 KB - PDF)
 
@@ -314,17 +312,17 @@ English (EN) (2.34 MB - PDF)
 
 Zemcelpro : EPAR - Product information
 
-English (EN) (574.5 KB - PDF)
+English (EN) (778.75 KB - PDF)
 
 **First published:** 05/09/2025
 
-**Last updated:** 22/12/2025
+**Last updated:** 18/02/2026
 
 [View](/en/documents/product-information/zemcelpro-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-180)
+[Other languages (24)](#file-language-dropdown-499)
 
-български (BG) (693.36 KB - PDF)
+български (BG) (858.98 KB - PDF)
 
 **First published:**
 
@@ -332,11 +330,11 @@ English (EN) (574.5 KB - PDF)
 
 **Last updated:**
 
-22/12/2025
+18/02/2026
 
 [View](/bg/documents/product-information/zemcelpro-epar-product-information_bg.pdf)
 
-español (ES) (595.47 KB - PDF)
+español (ES) (781.3 KB - PDF)
 
 **First published:**
 
@@ -344,11 +342,11 @@ español (ES) (595.47 KB - PDF)
 
 **Last updated:**
 
-22/12/2025
+18/02/2026
 
 [View](/es/documents/product-information/zemcelpro-epar-product-information_es.pdf)
 
-čeština (CS) (641.53 KB - PDF)
+čeština (CS) (824.03 KB - PDF)
 
 **First published:**
 
@@ -356,11 +354,11 @@ español (ES) (595.47 KB - PDF)
 
 **Last updated:**
 
-22/12/2025
+18/02/2026
 
 [View](/cs/documents/product-information/zemcelpro-epar-product-information_cs.pdf)
 
-dansk (DA) (539.06 KB - PDF)
+dansk (DA) (754.52 KB - PDF)
 
 **First published:**
 
@@ -368,11 +366,11 @@ dansk (DA) (539.06 KB - PDF)
 
 **Last updated:**
 
-22/12/2025
+18/02/2026
 
 [View](/da/documents/product-information/zemcelpro-epar-product-information_da.pdf)
 
-Deutsch (DE) (574.55 KB - PDF)
+Deutsch (DE) (806.55 KB - PDF)
 
 **First published:**
 
@@ -380,11 +378,11 @@ Deutsch (DE) (574.55 KB - PDF)
 
 **Last updated:**
 
-22/12/2025
+18/02/2026
 
 [View](/de/documents/product-information/zemcelpro-epar-product-information_de.pdf)
 
-eesti keel (ET) (545.79 KB - PDF)
+eesti keel (ET) (756.29 KB - PDF)
 
 **First published:**
 
@@ -392,11 +390,11 @@ eesti keel (ET) (545.79 KB - PDF)
 
 **Last updated:**
 
-22/12/2025
+18/02/2026
 
 [View](/et/documents/product-information/zemcelpro-epar-product-information_et.pdf)
 
-ελληνικά (EL) (720.01 KB - PDF)
+ελληνικά (EL) (862.09 KB - PDF)
 
 **First published:**
 
@@ -404,11 +402,11 @@ eesti keel (ET) (545.79 KB - PDF)
 
 **Last updated:**
 
-22/12/2025
+18/02/2026
 
 [View](/el/documents/product-information/zemcelpro-epar-product-information_el.pdf)
 
-français (FR) (569.63 KB - PDF)
+français (FR) (773.38 KB - PDF)
 
 **First published:**
 
@@ -416,11 +414,11 @@ français (FR) (569.63 KB - PDF)
 
 **Last updated:**
 
-22/12/2025
+18/02/2026
 
 [View](/fr/documents/product-information/zemcelpro-epar-product-information_fr.pdf)
 
-hrvatski (HR) (633.41 KB - PDF)
+hrvatski (HR) (812.72 KB - PDF)
 
 **First published:**
 
@@ -428,11 +426,11 @@ hrvatski (HR) (633.41 KB - PDF)
 
 **Last updated:**
 
-22/12/2025
+18/02/2026
 
 [View](/hr/documents/product-information/zemcelpro-epar-product-information_hr.pdf)
 
-íslenska (IS) (472.77 KB - PDF)
+íslenska (IS) (620.23 KB - PDF)
 
 **First published:**
 
@@ -440,11 +438,11 @@ hrvatski (HR) (633.41 KB - PDF)
 
 **Last updated:**
 
-22/12/2025
+18/02/2026
 
 [View](/is/documents/product-information/zemcelpro-epar-product-information_is.pdf)
 
-italiano (IT) (567.09 KB - PDF)
+italiano (IT) (760.71 KB - PDF)
 
 **First published:**
 
@@ -452,11 +450,11 @@ italiano (IT) (567.09 KB - PDF)
 
 **Last updated:**
 
-22/12/2025
+18/02/2026
 
 [View](/it/documents/product-information/zemcelpro-epar-product-information_it.pdf)
 
-latviešu valoda (LV) (660.27 KB - PDF)
+latviešu valoda (LV) (793.81 KB - PDF)
 
 **First published:**
 
@@ -464,11 +462,11 @@ latviešu valoda (LV) (660.27 KB - PDF)
 
 **Last updated:**
 
-22/12/2025
+18/02/2026
 
 [View](/lv/documents/product-information/zemcelpro-epar-product-information_lv.pdf)
 
-lietuvių kalba (LT) (651.9 KB - PDF)
+lietuvių kalba (LT) (848.88 KB - PDF)
 
 **First published:**
 
@@ -476,11 +474,11 @@ lietuvių kalba (LT) (651.9 KB - PDF)
 
 **Last updated:**
 
-22/12/2025
+18/02/2026
 
 [View](/lt/documents/product-information/zemcelpro-epar-product-information_lt.pdf)
 
-magyar (HU) (663.18 KB - PDF)
+magyar (HU) (843.71 KB - PDF)
 
 **First published:**
 
@@ -488,11 +486,11 @@ magyar (HU) (663.18 KB - PDF)
 
 **Last updated:**
 
-22/12/2025
+18/02/2026
 
 [View](/hu/documents/product-information/zemcelpro-epar-product-information_hu.pdf)
 
-Malti (MT) (679.51 KB - PDF)
+Malti (MT) (879.78 KB - PDF)
 
 **First published:**
 
@@ -500,11 +498,11 @@ Malti (MT) (679.51 KB - PDF)
 
 **Last updated:**
 
-22/12/2025
+18/02/2026
 
 [View](/mt/documents/product-information/zemcelpro-epar-product-information_mt.pdf)
 
-Nederlands (NL) (557.68 KB - PDF)
+Nederlands (NL) (708.65 KB - PDF)
 
 **First published:**
 
@@ -512,11 +510,11 @@ Nederlands (NL) (557.68 KB - PDF)
 
 **Last updated:**
 
-22/12/2025
+18/02/2026
 
 [View](/nl/documents/product-information/zemcelpro-epar-product-information_nl.pdf)
 
-norsk (NO) (566.11 KB - PDF)
+norsk (NO) (1.6 MB - PDF)
 
 **First published:**
 
@@ -524,11 +522,11 @@ norsk (NO) (566.11 KB - PDF)
 
 **Last updated:**
 
-22/12/2025
+18/02/2026
 
 [View](/no/documents/product-information/zemcelpro-epar-product-information_no.pdf)
 
-polski (PL) (647.73 KB - PDF)
+polski (PL) (877.01 KB - PDF)
 
 **First published:**
 
@@ -536,11 +534,11 @@ polski (PL) (647.73 KB - PDF)
 
 **Last updated:**
 
-22/12/2025
+18/02/2026
 
 [View](/pl/documents/product-information/zemcelpro-epar-product-information_pl.pdf)
 
-português (PT) (557.02 KB - PDF)
+português (PT) (716.04 KB - PDF)
 
 **First published:**
 
@@ -548,11 +546,11 @@ português (PT) (557.02 KB - PDF)
 
 **Last updated:**
 
-22/12/2025
+18/02/2026
 
 [View](/pt/documents/product-information/zemcelpro-epar-product-information_pt.pdf)
 
-română (RO) (661.42 KB - PDF)
+română (RO) (832.38 KB - PDF)
 
 **First published:**
 
@@ -560,11 +558,11 @@ română (RO) (661.42 KB - PDF)
 
 **Last updated:**
 
-22/12/2025
+18/02/2026
 
 [View](/ro/documents/product-information/zemcelpro-epar-product-information_ro.pdf)
 
-slovenčina (SK) (639.76 KB - PDF)
+slovenčina (SK) (858.3 KB - PDF)
 
 **First published:**
 
@@ -572,11 +570,11 @@ slovenčina (SK) (639.76 KB - PDF)
 
 **Last updated:**
 
-22/12/2025
+18/02/2026
 
 [View](/sk/documents/product-information/zemcelpro-epar-product-information_sk.pdf)
 
-slovenščina (SL) (629.8 KB - PDF)
+slovenščina (SL) (823.5 KB - PDF)
 
 **First published:**
 
@@ -584,11 +582,11 @@ slovenščina (SL) (629.8 KB - PDF)
 
 **Last updated:**
 
-22/12/2025
+18/02/2026
 
 [View](/sl/documents/product-information/zemcelpro-epar-product-information_sl.pdf)
 
-Suomi (FI) (595.66 KB - PDF)
+Suomi (FI) (782.34 KB - PDF)
 
 **First published:**
 
@@ -596,11 +594,11 @@ Suomi (FI) (595.66 KB - PDF)
 
 **Last updated:**
 
-22/12/2025
+18/02/2026
 
 [View](/fi/documents/product-information/zemcelpro-epar-product-information_fi.pdf)
 
-svenska (SV) (543.71 KB - PDF)
+svenska (SV) (753.26 KB - PDF)
 
 **First published:**
 
@@ -608,11 +606,11 @@ svenska (SV) (543.71 KB - PDF)
 
 **Last updated:**
 
-22/12/2025
+18/02/2026
 
 [View](/sv/documents/product-information/zemcelpro-epar-product-information_sv.pdf)
 
-**Latest procedure affecting product information:** VR/0000316958 22/12/2025
+**Latest procedure affecting product information:** EMA/N/0000325403 17/02/2026
 
 icon globe
 
@@ -636,7 +634,7 @@ English (EN) (89.94 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/zemcelpro-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-159)
+[Other languages (24)](#file-language-dropdown-613)
 
 български (BG) (70.74 KB - PDF)
 
@@ -865,6 +863,10 @@ Additional monitoring
 
 This medicine is under additional monitoring, meaning that it is monitored even more intensively than other medicines. For more information, see Medicines under [additional monitoring](/node/68821) .
 
+Advanced therapy
+
+This medicine is classified as an advanced therapy medicinal product (ATMP): a medicine for human use that is based on genes, tissues or cells. It offers groundbreaking new opportunities for the treatment of disease and injury. For more information, see [Advanced therapy medicinal products: Overview](/node/69659) .
+
 Conditional approval
 
 This medicine received a conditional marketing authorisation. This was granted in the interest of public health because the medicine addresses an unmet medical need and the benefit of immediate availability outweighs the risk from less comprehensive data than normally required. For more information, see [Conditional marketing authorisation](/node/68774) .
@@ -883,7 +885,7 @@ Cordex Biologics International Limited
 
 8th Floor Block E Iveagh Court Harcourt Road Dublin 2 D02 YT22 IRELAND
 
-Opinion adopted 19/06/2025 Marketing authorisation issued 25/08/2025 Revision 1
+Opinion adopted 19/06/2025 Marketing authorisation issued 25/08/2025 Revision 2
 
 ## Assessment history
 
@@ -895,9 +897,11 @@ Collapse section
 
 Zemcelpro : EPAR - Procedural steps taken and scientific information after authorisation
 
-English (EN) (142.72 KB - PDF)
+English (EN) (144.62 KB - PDF)
 
 **First published:** 22/12/2025
+
+**Last updated:** 18/02/2026
 
 [View](/en/documents/procedural-steps-after/zemcelpro-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf)
 
@@ -949,7 +953,7 @@ English (EN) (175.73 KB - PDF)
 
 - [EU/3/20/2271 - orphan designation for treatment in haematopoietic stem cell transplantation](/en/medicines/human/orphan-designations/eu-3-20-2271)
 
-**This page was last updated on** 22/12/2025
+**This page was last updated on** 18/02/2026
 
 ## Share this page
 

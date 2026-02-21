@@ -1,20 +1,20 @@
 ---
-document_datetime: 2025-12-29 08:00:53
+document_datetime: 2026-02-20 16:00:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/semglee.html
 document_name: semglee.html
 version: success
-processing_time: 0.1130402
-conversion_datetime: 2025-12-30 03:23:59.842294
+processing_time: 0.1041167
+conversion_datetime: 2026-02-21 12:20:37.910149
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.66.0
-  docling-core: 2.57.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.13.0
+  docling-jobkit: 1.11.0
+  docling: 2.74.0
+  docling-core: 2.65.1
+  docling-ibm-models: 3.11.0
+  docling-parse: 5.3.2
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.3-arm64-arm-64bit-Mach-O
 ---
 # Semglee
 
@@ -25,8 +25,6 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 insulin glargine Medicine Human Authorised
-
-On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -107,7 +105,7 @@ English (EN) (105.93 KB - PDF)
 
 [View](/en/documents/overview/semglee-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-636)
+[Other languages (22)](#file-language-dropdown-65)
 
 български (BG) (100.35 KB - PDF)
 
@@ -385,17 +383,17 @@ English (EN) (127.76 KB - PDF)
 
 Semglee : EPAR - Product Information
 
-English (EN) (727.76 KB - PDF)
+English (EN) (819.63 KB - PDF)
 
 **First published:** 23/05/2018
 
-**Last updated:** 01/12/2023
+**Last updated:** 20/02/2026
 
 [View](/en/documents/product-information/semglee-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-337)
+[Other languages (24)](#file-language-dropdown-154)
 
-български (BG) (1001.08 KB - PDF)
+български (BG) (1.04 MB - PDF)
 
 **First published:**
 
@@ -403,11 +401,11 @@ English (EN) (727.76 KB - PDF)
 
 **Last updated:**
 
-01/12/2023
+20/02/2026
 
 [View](/bg/documents/product-information/semglee-epar-product-information_bg.pdf)
 
-español (ES) (628.96 KB - PDF)
+español (ES) (716.47 KB - PDF)
 
 **First published:**
 
@@ -415,11 +413,11 @@ español (ES) (628.96 KB - PDF)
 
 **Last updated:**
 
-01/12/2023
+20/02/2026
 
 [View](/es/documents/product-information/semglee-epar-product-information_es.pdf)
 
-čeština (CS) (742.64 KB - PDF)
+čeština (CS) (834.12 KB - PDF)
 
 **First published:**
 
@@ -427,11 +425,11 @@ español (ES) (628.96 KB - PDF)
 
 **Last updated:**
 
-01/12/2023
+20/02/2026
 
 [View](/cs/documents/product-information/semglee-epar-product-information_cs.pdf)
 
-dansk (DA) (1.78 MB - PDF)
+dansk (DA) (1.29 MB - PDF)
 
 **First published:**
 
@@ -439,11 +437,11 @@ dansk (DA) (1.78 MB - PDF)
 
 **Last updated:**
 
-01/12/2023
+20/02/2026
 
 [View](/da/documents/product-information/semglee-epar-product-information_da.pdf)
 
-Deutsch (DE) (805.14 KB - PDF)
+Deutsch (DE) (853.04 KB - PDF)
 
 **First published:**
 
@@ -451,11 +449,11 @@ Deutsch (DE) (805.14 KB - PDF)
 
 **Last updated:**
 
-01/12/2023
+20/02/2026
 
 [View](/de/documents/product-information/semglee-epar-product-information_de.pdf)
 
-eesti keel (ET) (976.33 KB - PDF)
+eesti keel (ET) (915.33 KB - PDF)
 
 **First published:**
 
@@ -463,11 +461,11 @@ eesti keel (ET) (976.33 KB - PDF)
 
 **Last updated:**
 
-01/12/2023
+20/02/2026
 
 [View](/et/documents/product-information/semglee-epar-product-information_et.pdf)
 
-ελληνικά (EL) (772.08 KB - PDF)
+ελληνικά (EL) (915.33 KB - PDF)
 
 **First published:**
 
@@ -475,11 +473,11 @@ eesti keel (ET) (976.33 KB - PDF)
 
 **Last updated:**
 
-01/12/2023
+20/02/2026
 
 [View](/el/documents/product-information/semglee-epar-product-information_el.pdf)
 
-français (FR) (1.78 MB - PDF)
+français (FR) (1.28 MB - PDF)
 
 **First published:**
 
@@ -487,11 +485,11 @@ français (FR) (1.78 MB - PDF)
 
 **Last updated:**
 
-01/12/2023
+20/02/2026
 
 [View](/fr/documents/product-information/semglee-epar-product-information_fr.pdf)
 
-hrvatski (HR) (685.13 KB - PDF)
+hrvatski (HR) (733.48 KB - PDF)
 
 **First published:**
 
@@ -499,11 +497,11 @@ hrvatski (HR) (685.13 KB - PDF)
 
 **Last updated:**
 
-01/12/2023
+20/02/2026
 
 [View](/hr/documents/product-information/semglee-epar-product-information_hr.pdf)
 
-íslenska (IS) (951.55 KB - PDF)
+íslenska (IS) (1.1 MB - PDF)
 
 **First published:**
 
@@ -511,11 +509,11 @@ hrvatski (HR) (685.13 KB - PDF)
 
 **Last updated:**
 
-01/12/2023
+20/02/2026
 
 [View](/is/documents/product-information/semglee-epar-product-information_is.pdf)
 
-italiano (IT) (632.09 KB - PDF)
+italiano (IT) (699.65 KB - PDF)
 
 **First published:**
 
@@ -523,11 +521,11 @@ italiano (IT) (632.09 KB - PDF)
 
 **Last updated:**
 
-01/12/2023
+20/02/2026
 
 [View](/it/documents/product-information/semglee-epar-product-information_it.pdf)
 
-latviešu valoda (LV) (854.6 KB - PDF)
+latviešu valoda (LV) (969.06 KB - PDF)
 
 **First published:**
 
@@ -535,11 +533,11 @@ latviešu valoda (LV) (854.6 KB - PDF)
 
 **Last updated:**
 
-01/12/2023
+20/02/2026
 
 [View](/lv/documents/product-information/semglee-epar-product-information_lv.pdf)
 
-lietuvių kalba (LT) (960.07 KB - PDF)
+lietuvių kalba (LT) (1.01 MB - PDF)
 
 **First published:**
 
@@ -547,11 +545,11 @@ lietuvių kalba (LT) (960.07 KB - PDF)
 
 **Last updated:**
 
-01/12/2023
+20/02/2026
 
 [View](/lt/documents/product-information/semglee-epar-product-information_lt.pdf)
 
-magyar (HU) (706.37 KB - PDF)
+magyar (HU) (801.04 KB - PDF)
 
 **First published:**
 
@@ -559,11 +557,11 @@ magyar (HU) (706.37 KB - PDF)
 
 **Last updated:**
 
-01/12/2023
+20/02/2026
 
 [View](/hu/documents/product-information/semglee-epar-product-information_hu.pdf)
 
-Malti (MT) (697.16 KB - PDF)
+Malti (MT) (812.33 KB - PDF)
 
 **First published:**
 
@@ -571,11 +569,11 @@ Malti (MT) (697.16 KB - PDF)
 
 **Last updated:**
 
-01/12/2023
+20/02/2026
 
 [View](/mt/documents/product-information/semglee-epar-product-information_mt.pdf)
 
-Nederlands (NL) (884.98 KB - PDF)
+Nederlands (NL) (1.02 MB - PDF)
 
 **First published:**
 
@@ -583,11 +581,11 @@ Nederlands (NL) (884.98 KB - PDF)
 
 **Last updated:**
 
-01/12/2023
+20/02/2026
 
 [View](/nl/documents/product-information/semglee-epar-product-information_nl.pdf)
 
-norsk (NO) (1.05 MB - PDF)
+norsk (NO) (976.29 KB - PDF)
 
 **First published:**
 
@@ -595,11 +593,11 @@ norsk (NO) (1.05 MB - PDF)
 
 **Last updated:**
 
-01/12/2023
+20/02/2026
 
 [View](/no/documents/product-information/semglee-epar-product-information_no.pdf)
 
-polski (PL) (688.29 KB - PDF)
+polski (PL) (787.98 KB - PDF)
 
 **First published:**
 
@@ -607,11 +605,11 @@ polski (PL) (688.29 KB - PDF)
 
 **Last updated:**
 
-01/12/2023
+20/02/2026
 
 [View](/pl/documents/product-information/semglee-epar-product-information_pl.pdf)
 
-português (PT) (878.23 KB - PDF)
+português (PT) (1005.78 KB - PDF)
 
 **First published:**
 
@@ -619,11 +617,11 @@ português (PT) (878.23 KB - PDF)
 
 **Last updated:**
 
-01/12/2023
+20/02/2026
 
 [View](/pt/documents/product-information/semglee-epar-product-information_pt.pdf)
 
-română (RO) (691.5 KB - PDF)
+română (RO) (791.93 KB - PDF)
 
 **First published:**
 
@@ -631,11 +629,11 @@ română (RO) (691.5 KB - PDF)
 
 **Last updated:**
 
-01/12/2023
+20/02/2026
 
 [View](/ro/documents/product-information/semglee-epar-product-information_ro.pdf)
 
-slovenčina (SK) (852.04 KB - PDF)
+slovenčina (SK) (1.02 MB - PDF)
 
 **First published:**
 
@@ -643,11 +641,11 @@ slovenčina (SK) (852.04 KB - PDF)
 
 **Last updated:**
 
-01/12/2023
+20/02/2026
 
 [View](/sk/documents/product-information/semglee-epar-product-information_sk.pdf)
 
-slovenščina (SL) (644.08 KB - PDF)
+slovenščina (SL) (723.94 KB - PDF)
 
 **First published:**
 
@@ -655,11 +653,11 @@ slovenščina (SL) (644.08 KB - PDF)
 
 **Last updated:**
 
-01/12/2023
+20/02/2026
 
 [View](/sl/documents/product-information/semglee-epar-product-information_sl.pdf)
 
-Suomi (FI) (1.74 MB - PDF)
+Suomi (FI) (1.16 MB - PDF)
 
 **First published:**
 
@@ -667,11 +665,11 @@ Suomi (FI) (1.74 MB - PDF)
 
 **Last updated:**
 
-01/12/2023
+20/02/2026
 
 [View](/fi/documents/product-information/semglee-epar-product-information_fi.pdf)
 
-svenska (SV) (847.94 KB - PDF)
+svenska (SV) (1016.61 KB - PDF)
 
 **First published:**
 
@@ -679,11 +677,11 @@ svenska (SV) (847.94 KB - PDF)
 
 **Last updated:**
 
-01/12/2023
+20/02/2026
 
 [View](/sv/documents/product-information/semglee-epar-product-information_sv.pdf)
 
-**Latest procedure affecting product information:** IAIN/0047 30/11/2023
+**Latest procedure affecting product information:** N/0000326578 19/02/2026
 
 icon globe
 
@@ -709,7 +707,7 @@ English (EN) (17.69 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/semglee-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-627)
+[Other languages (24)](#file-language-dropdown-760)
 
 български (BG) (88.61 KB - PDF)
 
@@ -1023,9 +1021,9 @@ Marketing authorisation holder
 
 Biosimilar Collaborations Ireland Limited
 
-Unit 35/36
+Unit 35/36 Grange Parade Baldoyle Industrial Estate Dublin 13, D13 R20R Ireland
 
-Opinion adopted 25/01/2018 Marketing authorisation issued 23/03/2018 Revision 10
+Opinion adopted 25/01/2018 Marketing authorisation issued 23/03/2018 Revision 11
 
 ## Assessment history
 
@@ -1037,13 +1035,21 @@ Collapse section
 
 Semglee : EPAR - Procedural steps taken and scientific information after authorisation
 
+English (EN) (172 KB - PDF)
+
+**First published:** 20/02/2026
+
+[View](/en/documents/procedural-steps-after/semglee-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf)
+
+Semglee : EPAR - Procedural steps taken and scientific information after authorisation (archive)
+
 English (EN) (152.44 KB - PDF)
 
 **First published:** 04/06/2018
 
 **Last updated:** 01/12/2023
 
-[View](/en/documents/procedural-steps-after/semglee-epar-procedural-steps-taken-and-scientific-information-after-authorisation_en.pdf)
+[View](/en/documents/procedural-steps-after/semglee-epar-procedural-steps-taken-scientific-information-after-authorisation-archive_en.pdf)
 
 Semglee-H-C-PSUSA-00001751-201904 : EPAR - Scientific conclusions and grounds for the variation to the terms of the marketing authorisation
 
@@ -1099,7 +1105,7 @@ English (EN) (84.02 KB - PDF)
 - [Biosimilars](https://www.ema.europa.eu/en/search?f%5B0%5D=ema_search_topics%3A45)
 - [Medicines](https://www.ema.europa.eu/en/search?f%5B0%5D=ema_search_topics%3A61)
 
-**This page was last updated on** 22/09/2023
+**This page was last updated on** 20/02/2026
 
 ## Share this page
 

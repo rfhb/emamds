@@ -1,20 +1,20 @@
 ---
-document_datetime: 2026-01-22 14:20:00
+document_datetime: 2026-02-19 15:10:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/nuvaxovid.html
 document_name: nuvaxovid.html
 version: success
-processing_time: 0.1442308
-conversion_datetime: 2026-01-26 20:39:29.73265
+processing_time: 0.1631696
+conversion_datetime: 2026-02-21 12:08:08.547088
 docling_version:
-  docling-serve: 1.10.0
-  docling-jobkit: 1.8.1
-  docling: 2.70.0
-  docling-core: 2.60.2
+  docling-serve: 1.13.0
+  docling-jobkit: 1.11.0
+  docling: 2.74.0
+  docling-core: 2.65.1
   docling-ibm-models: 3.11.0
-  docling-parse: 4.7.3
+  docling-parse: 5.3.2
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.3-arm64-arm-64bit-Mach-O
 ---
 # Nuvaxovid
 
@@ -194,7 +194,7 @@ English (EN) (162.29 KB - PDF)
 
 [View](/en/documents/overview/nuvaxovid-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-556)
+[Other languages (22)](#file-language-dropdown-576)
 
 български (BG) (171.5 KB - PDF)
 
@@ -482,7 +482,7 @@ English (EN) (1 MB - PDF)
 
 [View](/en/documents/product-information/nuvaxovid-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-332)
+[Other languages (24)](#file-language-dropdown-620)
 
 български (BG) (1.15 MB - PDF)
 
@@ -798,7 +798,7 @@ English (EN) (54.02 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/nuvaxovid-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-732)
+[Other languages (24)](#file-language-dropdown-588)
 
 български (BG) (111.52 KB - PDF)
 
@@ -1203,6 +1203,16 @@ English (EN) (122.7 KB - PDF)
 
 #### Safety updates
 
+Nuvaxovid: Periodic safety update report assessment 20 June 2024 to 19 December 2024
+
+Adopted
+
+English (EN) (52.81 MB - PDF)
+
+**First published:** 19/02/2026
+
+[View](/en/documents/covid-19-vaccine-safety-update/nuvaxovid-periodic-safety-update-report-assessment-20-june-2024-19-december-2024_en.pdf)
+
 Nuvaxovid: Periodic safety update report assessment 20 December 2023 to 19 June 2024
 
 Adopted
@@ -1397,7 +1407,7 @@ English (EN) (2.87 MB - PDF)
 - [Vaccine Effectiveness, Burden and Impact Studies (VEBIS) - Vaccine effectiveness hospital admission with Severe Acute Respiratory Infection - post-authorisation study](https://catalogues.ema.europa.eu/study/1000000099)
 - [Safety of the Novavax COVID-19 vaccine in England using a self-controlled case series design: A post-authorisation safety study using data from the Clinical Practice Research Datalink (CPRD) Aurum and linked databases - post-authorisation study](https://catalogues.ema.europa.eu/study/103859)
 
-**This page was last updated on** 22/01/2026
+**This page was last updated on** 19/02/2026
 
 ## Share this page
 

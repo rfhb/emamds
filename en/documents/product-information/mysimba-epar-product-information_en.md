@@ -1,20 +1,20 @@
 ---
-document_datetime: 2025-11-06 15:11:52
+document_datetime: 2026-02-19 10:28:25
 document_pages: 49
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/mysimba-epar-product-information_en.pdf
 document_name: mysimba-epar-product-information_en.pdf
 version: success
-processing_time: 13.9418687
-conversion_datetime: 2025-12-21 17:36:09.709708
+processing_time: 16.3394552
+conversion_datetime: 2026-02-21 12:28:12.085064
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.64.1
-  docling-core: 2.55.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.13.0
+  docling-jobkit: 1.11.0
+  docling: 2.74.0
+  docling-core: 2.65.1
+  docling-ibm-models: 3.11.0
+  docling-parse: 5.3.2
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.3-arm64-arm-64bit-Mach-O
 ---
 ## ANNEX I
 
@@ -116,7 +116,8 @@ Oral use. The tablets should be swallowed whole with some water. The tablets sho
 
 treated with opioid agonists used in opioid dependence (e.g., methadone, buprenorphine), or patients in acute opioid withdrawal (see sections 4.4 and 4.5)
 
-- Patients receiving concomitant administration of monoamine oxidase inhibitors (MAOI). At least 14 days should elapse between discontinuation of MAOI and initiation of treatment with naltrexone/bupropion (see section 4.5)Patients with severe hepatic impairment (see sections 4.2 and 5.2)
+- Patients receiving concomitant administration of monoamine oxidase inhibitors (MAOI). At least 14 days should elapse between discontinuation of MAOI and initiation of treatment with naltrexone/bupropion (see section 4.5)
+- Patients with severe hepatic impairment (see sections 4.2 and 5.2)
 - Patients with end-stage renal failure (see sections 4.2 and 5.2)
 
 ## 4.4 Special warnings and precautions for use
@@ -377,7 +378,7 @@ Table 1. Adverse reactions reported in subjects who received naltrexone/bupropio
 
 <div style=\"page-break-after: always\"></div>
 
-|                                                 | Not known   | Dystonia Memoryimpairment Parkinsonism Restlessness Serotonin syndrome****                                               |
+|                                                 | Not known   | Dystonia Memory impairment Parkinsonism Restlessness Serotonin syndrome****                                              |
 |-------------------------------------------------|-------------|--------------------------------------------------------------------------------------------------------------------------|
 | Eye disorders                                   | Not known   | Eye irritation Eye pain or asthenopia Eye swelling Lacrimation increased Photophobia                                     |
 |                                                 |             | Vision blurred                                                                                                           |
@@ -537,7 +538,7 @@ Four multicentre, double-blind, placebo-controlled obesity Phase 3 studies (NB-3
 
 Of the overall population of 4,536 subjects in the naltrexone/bupropion Phase 3 studies, 25% had hypertension, 33% had fasting glucose levels ≥100 mg/dL (5.6 mmol/L) at baseline, 54% had dyslipidaemia at study entry, and 11% had type 2 diabetes.
 
-In the combined Phase 3 studies, the mean age was 46 years, 83% were female, and 77% were White, 18% were Black and 5% were other races. Baseline mean BMI was 36 kg/m 2  and mean waist circumference was 110 cm. The two co-primary endpoints were percent change from baseline body
+In the combined Phase 3 studies, the mean age was 46 years, 83% were female, and 77% were White, 18% were Black and 5% were other races. Baseline mean BMI was 36 kg/m 2 and mean waist circumference was 110 cm. The two co-primary endpoints were percent change from baseline body
 
 <div style=\"page-break-after: always\"></div>
 
@@ -572,7 +573,7 @@ CI, Confidence Interval; LS, Least Squares.
 
 +  Subjects who were randomised, had a baseline body weight measurement, and had at least one postbaseline body weight measurement during the defined treatment phase. Results are based on last-observationcarried-forward (LOCF).
 
-++  Subjects who have a baseline and a post-baseline body weight measurement and completed 56 weeks (Studies NB-301, NB-302, and NB-304) or 28 weeks (NB-303) of treatment.
+++   Subjects who have a baseline and a post-baseline body weight measurement and completed 56 weeks (Studies NB-301, NB-302, and NB-304) or 28 weeks (NB-303) of treatment.
 
 * Difference from placebo, p&lt;0.001.
 
@@ -599,7 +600,7 @@ Table 4. Percentage (%) of subjects losing ≥5% and ≥10% of body weight from 
 
 + With baseline observation carried forward (BOCF)
 
-++  Subjects who have a baseline and a post-baseline body weight measurement and completed 56 weeks (Studies NB-301, NB-302, and NB-304) or 28 weeks (NB-303) of treatment.
+++   Subjects who have a baseline and a post-baseline body weight measurement and completed 56 weeks (Studies NB-301, NB-302, and NB-304) or 28 weeks (NB-303) of treatment.
 
 * Difference from placebo, p&lt;0.001
 
@@ -692,7 +693,7 @@ Bupropion is extensively metabolised with three active metabolites: hydroxybupro
 
 Bupropion and its metabolites inhibit CYP2D6. Plasma protein binding of hydroxybupropion is similar to that of bupropion (84%) whereas the other two metabolites have approximately half the binding.
 
-Following oral administration of 200 mg of  14 C-bupropion hydrochloride in humans, 87% and 10% of the radioactive dose were recovered in the urine and feces, respectively. The fraction of the oral dose of bupropion excreted unchanged was 0.5%, a finding consistent with the extensive metabolism of bupropion.
+Following oral administration of 200 mg of 14 C-bupropion hydrochloride in humans, 87% and 10% of the radioactive dose were recovered in the urine and feces, respectively. The fraction of the oral dose of bupropion excreted unchanged was 0.5%, a finding consistent with the extensive metabolism of bupropion.
 
 ## Accumulation
 
@@ -822,7 +823,7 @@ Detailed information on this medicinal product is available on the website of th
 
 Name and address of the manufacturer responsible for batch release
 
-MIAS Pharma Ltd Suite 1 Stafford House, Strand Road, Portmarnock, Co. Dublin, Ireland
+Siegfried Barberà S.L. Ronda de Santa María, 158, 08210 Barberà del Vallès, Barcelona, Spain
 
 ## B. CONDITIONS OR RESTRICTIONS REGARDING SUPPLY AND USE
 
@@ -973,9 +974,9 @@ NN:
 
 <div style=\"page-break-after: always\"></div>
 
-| MINIMUMPARTICULARSTO APPEAR ONBLISTERSORSTRIPS   |
-|--------------------------------------------------|
-| BLISTERS                                         |
+| MINIMUMPARTICULARSTOAPPEARONBLISTERSORSTRIPS   |
+|------------------------------------------------|
+| BLISTERS                                       |
 
 | 1.   | NAMEOFTHEMEDICINALPRODUCT   |
 |------|-----------------------------|
@@ -1166,13 +1167,7 @@ If you take higher doses of opioids to overcome these effects of naltrexone, you
 - o quinolones (antibiotics such as ciprofloxacine to treat infections);
 - o theophylline (used in the treatment of asthma);
 - o antihistamines (medicines to treat hayfever, itch, and other allergic reactions) that cause sleepiness (such as chlorphenamine);
-
-o
-
-medicines to lower sugar levels in your blood (such as insulin, sulphonylureas such as glyburide or glibenclamide, and meglitinides such as nateglinide or
-
-repaglinide);
-
+- o medicines to lower sugar levels in your blood (such as insulin, sulphonylureas such as glyburide or glibenclamide, and meglitinides such as nateglinide or repaglinide);
 - o medicines to help you to sleep (sedatives such as diazepam).
 - Medicines to treat depression (such as amitriptyline, desipramine, imipramine, venlafaxine, paroxetine, fluoxetine, citalopram, escitalopram) or other mental health problems (such as risperidone, haloperidol, thioridazine). Mysimba may interact with some medicines used for treatment of depression and you may experience a so-called serotonin syndrome. Symptoms are mental status changes (e.g. agitation, hallucinations, coma), and other effects, such as body temperature above 38°C, increase in heart rate, unstable blood pressure, and exaggeration of reflexes, muscular rigidity, lack of coordination and/or gastrointestinal symptoms (e.g. nausea, vomiting, diarrhoea) (see section 4.)
 - Some medicines used to treat high blood pressure (beta-blockers such as metoprolol, and clonidine, a centrally acting antihypertensive);
@@ -1262,11 +1257,9 @@ Frequency of the side effects suicide attempts, suicidal behavior, suicidal thou
 
 <div style=\"page-break-after: always\"></div>
 
-## -
-
 There have been reports of depression, suicidal thoughts, and suicide attempts during treatment with Mysimba. If you have thoughts about harming yourself or other distressing thoughts, or if you are depressed and notice that you feel worse or develop new symptoms, contact your doctor or go to a hospital straight away.
 
-## Fits (seizures):
+## -Fits (seizures):
 
 Rare - may affect up to 1 in 1,000 people taking Mysimba with risk of having a fit. Symptoms of a fit include convulsions and usually loss of consciousness. Someone who has had a fit may be confused afterwards and may not remember what has happened. Fits are more likely if you take too much, if you take some other medicines or if you are at a higher than usual risk of fits (see section 2).
 
@@ -1284,7 +1277,7 @@ Not known - frequency cannot be estimated from the available data in people taki
 
 Rhabdomyolysis is an abnormal breakdown of muscle tissue which can lead to kidney problems. Symptoms include severe muscle cramps, muscle pain or muscle weakness.
 
-- -Lupus skin rash or worsening of lupus symptoms
+## -Lupus skin rash or worsening of lupus symptoms
 
 Not known - frequency cannot be estimated from the available data in people taking Mysimba. Lupus is an immune system disorder affecting the skin and other organs. If you experience lupus flares, skin rash or lesions (particularly on sun-exposed areas) while taking Mysimba, contact your doctor straight away, as it might be necessary to stop the treatment.
 
@@ -1443,11 +1436,7 @@ With the packaging of Mysimba you will find a Patient Card that includes importa
 
 Orexigen Therapeutics Ireland Limited 9-10 Fenian Street, Dublin 2, D02 RX24 Ireland
 
-MIAS Pharma Ltd
-
-Suite 1 Stafford House, Strand Road, Portmarnock, Co. Dublin,
-
-Ireland
+Siegfried Barberà S.L. Ronda de Santa María, 158, 08210 Barberà del Vallès, Barcelona, Spain
 
 For any information about this medicine, please contact the local representative of the Marketing Authorisation Holder:
 
@@ -1469,7 +1458,7 @@ PharmaSwiss EOOD
 
 Teл
 
-.: +359 800 1100179
+.: 008001100179
 
 ## Luxembourg/Luxemburg
 
@@ -1487,7 +1476,7 @@ Tel: +420 800 202135
 
 Bausch Health Magyarország Kft.
 
-Tel.: +36 800 1433701
+Tel.: +36 800 14337
 
 ## Danmark
 
@@ -1527,11 +1516,7 @@ Tlf: +47 800 31511
 
 ## Ελλάδα
 
-Win Medica Pharmaceutical S.A.
-
-Τηλ
-
-: +30 800 3252735
+Win Medica Pharmaceutical S.A. Τηλ : +30 800 3252735
 
 ## Österreich
 
@@ -1635,4 +1620,4 @@ Tel: +371 800 05400
 
 ## Other sources of information
 
-Detailed  information on  this  medicine  is  available  on  the  European  Medicines  Agency  web  site: http://www.ema.europa.eu.
+Detailed  information on  this medicine  is  available  on  the  European  Medicines  Agency  web  site: http://www.ema.europa.eu.

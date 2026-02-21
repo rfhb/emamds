@@ -1,20 +1,20 @@
 ---
-document_datetime: 2025-09-19 16:45:38
+document_datetime: 2026-02-18 10:35:03
 document_pages: 45
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/epysqli-epar-product-information_en.pdf
 document_name: epysqli-epar-product-information_en.pdf
 version: success
-processing_time: 14.3344635
-conversion_datetime: 2025-12-19 22:43:24.6593
+processing_time: 25.3065769
+conversion_datetime: 2026-02-21 13:16:11.952986
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.64.1
-  docling-core: 2.55.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.13.0
+  docling-jobkit: 1.11.0
+  docling: 2.74.0
+  docling-core: 2.65.1
+  docling-ibm-models: 3.11.0
+  docling-parse: 5.3.2
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.3-arm64-arm-64bit-Mach-O
 ---
 ## ANNEX I
 
@@ -42,7 +42,7 @@ For the full list of excipients, see section 6.1.
 
 ## 3. PHARMACEUTICAL FORM
 
-Concentrate for solution for infusion
+Concentrate for solution for infusion.
 
 Clear, colourless, pH 7.0 solution.
 
@@ -87,8 +87,6 @@ Paediatric PNH or aHUS patients with body weight ≥ 40 kg are treated with the 
 
 In paediatric PNH and aHUS patients with body weight below 40 kg, Epysqli dosing regimen consists of:
 
-Table 1: Epysqli dose for paediatric patients
-
 | Patient body weight   | Initial phase                       | Maintenance phase                           |
 |-----------------------|-------------------------------------|---------------------------------------------|
 | 30 to < 40 kg         | 600 mg weekly for the first 2 weeks | 900 mg at week 3; then 900 mg every 2 weeks |
@@ -103,12 +101,13 @@ Supplemental dosing of Epysqli is required in the setting of concomitant plasmap
 | Type of plasma intervention       | Most recent Epysqli dose   | Supplemental Epysqli dose with each PP/PE/PI Intervention   | Timing of supplemental Epysqli dose                            |
 |-----------------------------------|----------------------------|-------------------------------------------------------------|----------------------------------------------------------------|
 | Plasmapheresis or plasma exchange | 300 mg                     | 300 mg per each plasmapheresis or plasma exchange session   | Within 60 minutes after each plasmapheresis or plasma exchange |
+| Plasmapheresis or plasma exchange | ≥ 600 mg                   | 600 mg per each plasmapheresis or plasma                    | Within 60 minutes after each plasmapheresis or plasma exchange |
 
 <div style=\"page-break-after: always\"></div>
 
-|                              | ≥ 600 mg   | 600 mg per each plasmapheresis or plasma exchange session   |                                                          |
-|------------------------------|------------|-------------------------------------------------------------|----------------------------------------------------------|
-| Fresh frozen plasma infusion | ≥ 300 mg   | 300 mg per infusion of fresh frozen plasma                  | 60 minutes prior to each infusion of fresh frozen plasma |
+|                              |          | exchange session                           |                                                          |
+|------------------------------|----------|--------------------------------------------|----------------------------------------------------------|
+| Fresh frozen plasma infusion | ≥ 300 mg | 300 mg per infusion of fresh frozen plasma | 60 minutes prior to each infusion of fresh frozen plasma |
 
 Abbreviations: PP/PE/PI = plasmapheresis/plasma exchange/plasma infusion
 
@@ -153,9 +152,9 @@ There is limited safety data supporting home-based infusions, additional precaut
 
 Infusion reactions are described in sections 4.4 and 4.8 on the SmPC.
 
-<div style=\"page-break-after: always\"></div>
-
 ## 4.3 Contraindications
+
+<div style=\"page-break-after: always\"></div>
 
 Hypersensitivity to the active substance, CHO cell products or to any of the excipients listed in section 6.1.
 
@@ -182,11 +181,9 @@ Vaccination may not be sufficient to prevent meningococcal infection. Considerat
 
 ## Other Systemic Infections
 
-Due to its mechanism of action, eculizumab therapy should be administered with caution to patients with active systemic infections. Patients may have increased susceptibility to infections, especially with Neisseria and encapsulated bacteria. Serious infections with Neisseria species (other than Neisseria meningitidis ), including disseminated gonococcal infections, have been reported.
+Due to its mechanism of action, eculizumab therapy should be administered with caution to patients with active systemic infections. Patients may have increased susceptibility to infections, especially with Neisseria and encapsulated bacteria. Serious infections with Neisseria species (other than Neisseria meningitidis ), including disseminated gonococcal infections, have been reported. Patients should be provided with information from the Package Leaflet to increase their awareness of potential serious infections and the signs and symptoms of them. Physicians should advise patients about gonorrhoea prevention.
 
 <div style=\"page-break-after: always\"></div>
-
-Patients should be provided with information from the Package Leaflet to increase their awareness of potential serious infections and the signs and symptoms of them. Physicians should advise patients about gonorrhoea prevention.
 
 ## Infusion Reactions
 
@@ -216,13 +213,11 @@ PNH patients should be monitored for signs and symptoms of intravascular haemoly
 
 aHUS patients receiving eculizumab therapy should be monitored for thrombotic microangiopathy by measuring platelet counts, serum LDH and serum creatinine, and may require dose adjustment within the recommended 14±2 day dosing schedule during the maintenance phase (up to every 12 days).
 
-<div style=\"page-break-after: always\"></div>
-
 ## Treatment Discontinuation for PNH
 
-If patients discontinue treatment with eculizumab they should be closely monitored for signs and symptoms of serious intravascular haemolysis. Serious haemolysis is identified by serum LDH levels greater than the pre-treatment level, along with any of the following: greater than 25 % absolute decrease in PNH clone size (in the absence of dilution due to transfusion) in one week or less; a haemoglobin level of &lt; 5 g/dL or a decrease of &gt; 4 g/dL in one week or less; angina; change in mental status; a 50 % increase in serum creatinine level; or thrombosis. Monitor any patient who discontinues eculizumab for at least 8 weeks to detect serious haemolysis and other reactions.
+<div style=\"page-break-after: always\"></div>
 
-If serious haemolysis occurs after eculizumab discontinuation, consider the following procedures/treatments: blood transfusion (packed RBCs), or exchange transfusion if the PNH RBCs are &gt; 50 % of the total RBCs by flow cytometry; anticoagulation; corticosteroids; or reinstitution of eculizumab. In PNH clinical trials, 16 patients discontinued the eculizumab treatment regimen. Serious haemolysis was not observed.
+If patients discontinue treatment with eculizumab they should be closely monitored for signs and symptoms of serious intravascular haemolysis. Serious haemolysis is identified by serum LDH levels greater than the pre-treatment level, along with any of the following: greater than 25 % absolute decrease in PNH clone size (in the absence of dilution due to transfusion) in one week or less; a haemoglobin level of &lt; 5 g/dL or a decrease of &gt; 4 g/dL in one week or less; angina; change in mental status; a 50 % increase in serum creatinine level; or thrombosis. Monitor any patient who discontinues eculizumab for at least 8 weeks to detect serious haemolysis and other reactions. If serious haemolysis occurs after eculizumab discontinuation, consider the following procedures/treatments: blood transfusion (packed RBCs), or exchange transfusion if the PNH RBCs are &gt; 50 % of the total RBCs by flow cytometry; anticoagulation; corticosteroids; or reinstitution of eculizumab. In PNH clinical trials, 16 patients discontinued the eculizumab treatment regimen. Serious haemolysis was not observed.
 
 ## Treatment Discontinuation for aHUS
 
@@ -238,13 +233,11 @@ If severe thrombotic microangiopathy complications occur after eculizumab discon
 
 ## Educational materials
 
-All physicians who intend to prescribe eculizumab must ensure they are familiar with the guide for Healthcare Professionals to prescribing. Physicians must discuss the benefits and risks of eculizumab therapy with patients and provide them with a Patient guide and a Patient card.
-
-<div style=\"page-break-after: always\"></div>
-
-Patients should be instructed that if they develop fever, headache accompanied with fever and/or stiff neck or sensitivity to light, they should immediately seek medical care as these signs may be indicative of meningococcal infection.
+All physicians who intend to prescribe eculizumab must ensure they are familiar with the guide for Healthcare Professionals to prescribing. Physicians must discuss the benefits and risks of eculizumab therapy with patients and provide them with a Patient guide and a Patient card. Patients should be instructed that if they develop fever, headache accompanied with fever and/or stiff neck or sensitivity to light, they should immediately seek medical care as these signs may be indicative of meningococcal infection.
 
 ## Excipients with known effect
+
+<div style=\"page-break-after: always\"></div>
 
 ## Sodium
 
@@ -276,11 +269,11 @@ There are no well-controlled studies in pregnant women treated with eculizumab. 
 
 Animal reproduction studies have not been conducted with eculizumab (see section 5.3).
 
-<div style=\"page-break-after: always\"></div>
-
 Human IgG are known to cross the human placental barrier, and thus eculizumab may potentially cause terminal complement inhibition in the foetal circulation. Therefore, eculizumab should be given to a pregnant woman only if clearly needed.
 
 ## Breast-feeding
+
+<div style=\"page-break-after: always\"></div>
 
 No effects on the breastfed newborn / infant are anticipated as limited data available suggest that eculizumab is not excreted in human breast milk. However, due to the limitations of the available data, the developmental and health benefits of breastfeeding should be considered along with the mother's clinical need for eculizumab and any potential adverse events on the breastfed child from eculizumab or from the underlying maternal condition.
 
@@ -296,48 +289,52 @@ Eculizumab has no or negligible influence on the ability to drive and use machin
 
 ## Summary of the safety profile
 
-Supportive safety data were obtained from 33 completed clinical trials that included 1 555 patients exposed to eculizumab in complement-mediated disease populations, including PNH, aHUS, gMG and Neuromyelitis Optica Spectrum Disorder (NMOSD). The most common adverse reaction was headache, (occurred mostly in the initial phase of dosing), and the most serious adverse reaction was meningococcal infection.
+Supportive safety data were obtained from 33 completed clinical trials that included 1,555 patients exposed to eculizumab in complement-mediated disease populations, including PNH, aHUS, gMG and Neuromyelitis Optica Spectrum Disorder (NMOSD). The most common adverse reaction was headache, (occurred mostly in the initial phase of dosing), and the most serious adverse reaction was meningococcal infection.
 
 ## Tabulated list of adverse reactions
 
-Table 2 gives the adverse reactions observed from spontaneous reporting and in eculizumab completed clinical trials, including PNH, aHUS, refractory gMG and NMOSD studies. Adverse reactions reported at a very common ( ≥ 1/10), common ( ≥ 1/100 to &lt; 1/10), uncommon ( ≥ 1/1 000 to &lt; 1/100) or rare ( ≥ 1/10 000 to &lt; 1/1 000) frequency with eculizumab, are listed by system organ class and preferred term. Within each frequency grouping, adverse reactions are presented in order of decreasing seriousness.
+Table 1 gives the adverse reactions observed from spontaneous reporting and in eculizumab completed clinical trials, including PNH, aHUS, refractory gMG and NMOSD studies. Adverse reactions reported at a very common ( ≥ 1/10), common ( ≥ 1/100 to &lt; 1/10), uncommon ( ≥ 1/1 000 to &lt; 1/100), rare ( ≥ 1/10 000 to &lt; 1/1 000) or not known (cannot be estimated from the available data) frequency with eculizumab, are listed by system organ class and preferred term. Within each frequency grouping, adverse reactions are presented in order of decreasing seriousness.
 
-Table 2: Adverse reactions reported in eculizumab clinical trials, including patients with PNH, aHUS, refractory gMG and NMOSD as well as from post marketing experience
+Table 1: Adverse reactions reported in eculizumab clinical trials, including patients with PNH, aHUS, refractory gMG and NMOSD as well as from post marketing experience
 
-| MedDRA system organ class   | Very common   | Common                                                                                                          | Uncommon                                                                                                                                                                                                                                       | Rare                                                                                                                        |
-|-----------------------------|---------------|-----------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------|
-| Infection and infestations  |               | Pneumonia, Upper respiratory tract infection, Bronchitis, Nasopharyngitis, Urinary tract infection, Oral Herpes | Meningococcal infection b , Sepsis, Septic shock, Peritonitis, Lower respiratory tract infection, Fungal infection, Viral infection, Abscess a , Cellulitis, Influenza, Gastrointestinal infection, Cystitis, Infection, Sinusitis, Gingivitis | Aspergillus infection c , Arthritis bacterial c , Genitourinary tract gonococcal infection, Haemophilus infection, Impetigo |
-
-<div style=\"page-break-after: always\"></div>
-
-| MedDRA system organ class                                                | Very common   | Common                                      | Uncommon                                                                  | Rare                                                                              |
-|--------------------------------------------------------------------------|---------------|---------------------------------------------|---------------------------------------------------------------------------|-----------------------------------------------------------------------------------|
-| Neoplasms benign, malignant and unspecified (including cysts and polyps) |               |                                             |                                                                           | Malignant melanoma, Myelodysplastic syndrome                                      |
-| Blood and lymphatic system disorders                                     |               | Leukopenia, Anaemia                         | Thrombocytopenia, Lymphopenia                                             | Haemolysis*, Abnormal clotting factor, Red blood cell agglutination, Coagulopathy |
-| Immune system disorders                                                  |               |                                             | Anaphylactic reaction, Hypersensitivity                                   |                                                                                   |
-| Endocrine disorders                                                      |               |                                             |                                                                           | Grave's disease                                                                   |
-| Metabolism and                                                           |               |                                             | Decreased appetite                                                        |                                                                                   |
-| Psychiatric disorders                                                    |               | Insomnia                                    | Depression, Anxiety, Mood swings, Sleep disorder                          | Abnormal dreams                                                                   |
-| Nervous system disorders                                                 | Headache      | Dizziness                                   | Paraesthesia, Tremor, Dysgeusia, Syncope                                  |                                                                                   |
-| Eye disorders                                                            |               |                                             |                                                                           | Conjunctival irritation                                                           |
-| Ear and labyrinth disorders                                              |               |                                             | Vision blurred Tinnitus, Vertigo                                          |                                                                                   |
-| Cardiac disorders                                                        |               |                                             | Palpitation                                                               |                                                                                   |
-| Vascular disorders                                                       |               | Hypertension                                | Accelerated hypertension, Hypotension, Hot flush, Vein disorder           | Haematoma                                                                         |
-| Respiratory, thoracic and mediastinal disorders                          |               | Cough, Oropharyngeal pain                   | Dyspnoea, Epistaxis, Throat irritation, Nasal congestion, Rhinorrhoea     |                                                                                   |
-| Gastrointestinal disorders                                               |               | Diarrhoea, Vomiting, Nausea, Abdominal pain | Constipation, Dyspepsia, Abdominal distension                             | Gastroesophageal reflux disease, Gingival pain                                    |
-| Hepatobiliary disorders                                                  |               |                                             |                                                                           | Jaundice                                                                          |
-| Skin and subcutaneous tissue disorders                                   |               | Rash, Pruritus, Alopecia                    | Urticaria, Erythema, Petechiae, Hyperhidrosis, Dry skin, Dermatitis       | Skin depigmentation                                                               |
-| Musculoskeletal and connective tissue disorders                          |               | Arthralgia, Myalgia, Pain in extremity      | Muscle spasms, Bone pain, Back pain, Neck pain                            | Trismus, Joint swelling                                                           |
-| Renal and urinary disorders                                              |               |                                             | Renal impairment, Dysuria, Haematuria                                     |                                                                                   |
-| Reproductive system and breast disorders                                 |               |                                             | Spontaneous penile erection                                               | Menstrual disorder                                                                |
-| General disorders and administration site conditions                     |               | Pyrexia, Fatigue, Influenza-like illness    | Edema, Chest discomfort, Asthenia, Chest pain, Infusion site pain, Chills | Extravasation, Infusion site paraesthesia, Feeling hot                            |
+| MedDRA system organ class                                    | Very common ( ≥ 1/10)   | Common ( ≥ 1/100 to <1/10)                                                                                      | Uncommon ( ≥ 1/1 000 to <1/100)                                                                                                                                                                                                                | Rare ( ≥ 1/10000 to <1/1000)                                                                                                | Not known (cannot be estimated from the available data)   |
+|--------------------------------------------------------------|-------------------------|-----------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------|
+| Infection and infestations                                   |                         | Pneumonia, Upper respiratory tract infection, Bronchitis, Nasopharyngitis, Urinary tract infection, Oral Herpes | Meningococcal infection b , Sepsis, Septic shock, Peritonitis, Lower respiratory tract infection, Fungal infection, Viral infection, Abscess a , Cellulitis, Influenza, Gastrointestinal infection, Cystitis, Infection, Sinusitis, Gingivitis | Aspergillus infection c , Arthritis bacterial c , Genitourinary tract gonococcal infection, Haemophilus infection, Impetigo |                                                           |
+| Neoplasms benign, malignant and unspecified (including cysts |                         |                                                                                                                 |                                                                                                                                                                                                                                                | Malignant melanoma, Myelodysplastic syndrome                                                                                |                                                           |
 
 <div style=\"page-break-after: always\"></div>
 
-| MedDRA system organ class                     | Very common   | Common                    | Uncommon                                                                                                                                                     | Rare                   |
-|-----------------------------------------------|---------------|---------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------|
-| Investigations                                |               |                           | Alanine aminotransferase increased, Aspartate aminotransferase increased, Gamma- glutamyltransferase increased, Haematocrit decreased, Haemoglobin decreased | Coombs test positive c |
-| Injury, poisoning and procedural complication |               | Infusion related reaction |                                                                                                                                                              |                        |
+<!-- image -->
+
+| MedDRA system organ class                       | Very common ( ≥ 1/10)   | Common ( ≥ 1/100 to <1/10)                  | Uncommon ( ≥ 1/1 000 to <1/100)                                                                                | Rare ( ≥ 1/10000 to <1/1000)                                                      | Not known (cannot be estimated from the available data)   |
+|-------------------------------------------------|-------------------------|---------------------------------------------|----------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------|-----------------------------------------------------------|
+| and polyps)                                     |                         |                                             |                                                                                                                |                                                                                   |                                                           |
+| Blood and lymphatic system disorders            |                         | Leukopenia, Anaemia                         | Thrombocytopenia, Lymphopenia                                                                                  | Haemolysis*, Abnormal clotting factor, Red blood cell agglutination, Coagulopathy |                                                           |
+| Immune system disorders                         |                         |                                             | Anaphylactic reaction, Hypersensitivity                                                                        |                                                                                   |                                                           |
+| Endocrine disorders                             |                         |                                             |                                                                                                                | Grave's disease                                                                   |                                                           |
+| Metabolism and nutrition disorders              |                         |                                             | Decreased appetite                                                                                             |                                                                                   |                                                           |
+| Psychiatric disorders                           |                         | Insomnia                                    | Depression, Anxiety, Mood swings, Sleep disorder                                                               | Abnormal dreams                                                                   |                                                           |
+| Nervous system disorders                        |                         | HeadacheDizziness                           | Paraesthesia, Tremor, Dysgeusia, Syncope                                                                       |                                                                                   |                                                           |
+| Eye disorders                                   |                         |                                             | Vision blurred                                                                                                 | Conjunctival irritation                                                           |                                                           |
+| Ear and labyrinth disorders                     |                         |                                             | Tinnitus, Vertigo                                                                                              |                                                                                   |                                                           |
+| Cardiac disorders                               |                         |                                             | Palpitation                                                                                                    |                                                                                   |                                                           |
+| Vascular disorders                              |                         | Hypertension                                | Accelerated hypertension, Hypotension, Hot flush, Vein disorder                                                | Haematoma                                                                         |                                                           |
+| Respiratory, thoracic and mediastinal           |                         | Cough, Oropharyngeal pain                   | Dyspnoea, Epistaxis, Throat irritation, Nasal congestion, Rhinorrhoea                                          |                                                                                   |                                                           |
+| disorders Gastrointestinal disorders            |                         | Diarrhoea, Vomiting, Nausea, Abdominal pain | Constipation, Dyspepsia, Abdominal distension                                                                  | Gastroesophageal reflux disease, Gingival pain                                    |                                                           |
+| Hepatobiliary disorders                         |                         |                                             | Alanine aminotransferase increased, Aspartate aminotransferase increased, Gamma- glutamyltransferase increased | Jaundice                                                                          | Liver injury d                                            |
+| Skin and subcutaneous tissue disorders          |                         | Rash, Pruritus, Alopecia                    | Urticaria, Erythema, Petechiae, Hyperhidrosis, Dry skin, Dermatitis                                            | Skin depigmentation                                                               |                                                           |
+| Musculoskeletal and connective tissue disorders |                         | Arthralgia, Myalgia, Pain in extremity      | Muscle spasms, Bone pain, Back pain, Neck pain Renal impairment, Dysuria,                                      | Trismus, Joint swelling                                                           |                                                           |
+| Renal and urinary disorders                     |                         |                                             | Haematuria                                                                                                     |                                                                                   |                                                           |
+| Reproductive                                    |                         |                                             | Spontaneous penile                                                                                             | Menstrual disorder                                                                |                                                           |
+
+<div style=\"page-break-after: always\"></div>
+
+| MedDRA system organ class                            | Very common ( ≥ 1/10)   | Common ( ≥ 1/100 to <1/10)               | Uncommon ( ≥ 1/1 000 to <1/100)                                           | Rare ( ≥ 1/10000 to <1/1000)                           | Not known (cannot be estimated from the available data)   |
+|------------------------------------------------------|-------------------------|------------------------------------------|---------------------------------------------------------------------------|--------------------------------------------------------|-----------------------------------------------------------|
+| system and breast disorders                          |                         |                                          | erection                                                                  |                                                        |                                                           |
+| General disorders and administration site conditions |                         | Pyrexia, Fatigue, Influenza-like illness | Edema, Chest discomfort, Asthenia, Chest pain, Infusion site pain, Chills | Extravasation, Infusion site paraesthesia, Feeling hot |                                                           |
+| Investigations                                       |                         |                                          | Haematocrit decreased, Haemoglobin decreased                              | Coombs test positive c                                 |                                                           |
+| Injury, poisoning and procedural complication        |                         | Infusion related reaction                |                                                                           |                                                        |                                                           |
 
 Included Studies: Asthma (C07-002), aHUS(C08-002, C08-003, C10-003, C10-004), Dermatomyositis (C99006), refractory gMG (C08-001, ECU-MG-301, ECU-MG-302, ECU-MG-303), Neuromyelitis Optica Spectrum Disorder (ECU-NMO-301, ECU-NMO-302), IMG (C99-004, E99-004), PNH (C02-001, C04-001, C04-002, C06-002, C07-001, E02-001, E05-001, E07-001, M07-005, X03-001, X03-001A), Psoriasis (C99-007), RA (C01-004, C97-001, C99-001, E01-004, E99-001), STEC-HUS (C11-001), SLE (C97-002). MedDRA version 26.1.
 
@@ -347,7 +344,7 @@ a Abscess includes the following group of PTs: Abscess limb, Colonic abscess, Re
 
 b  Meningococcal infection includes the following group of PTs: Meningococcal infection, Meningococcal sepsis, Meningitis meningococcal.
 
-c ADRs identified in post marketing reports
+c ADRs identified in post marketing reports d Frequency cannot be estimated from the available postmarketing data.
 
 ## Description of selected adverse reactions
 
@@ -363,9 +360,9 @@ Cases of thrombotic microangiopathy complication have been reported in the setti
 
 In children and adolescent PNH patients (aged 11 years to less than 18 years) included in the paediatric PNH Study M07-005, the safety profile appeared similar to that observed in adult patients. The most common adverse reaction reported in paediatric patients was headache.
 
-In paediatric aHUS patients (aged 2 months to less than 18 years) included in the aHUS studies C08002, C08-003, C09-001r and C10-003, the safety profile appeared similar to that observed in adult aHUS patients. The safety profiles in the different paediatric subsets of age appear similar.
-
 <div style=\"page-break-after: always\"></div>
+
+In paediatric aHUS patients (aged 2 months to less than 18 years) included in the aHUS studies C08002, C08-003, C09-001r and C10-003, the safety profile appeared similar to that observed in adult aHUS patients. The safety profiles in the different paediatric subsets of age appear similar.
 
 ## Other special populations
 
@@ -377,7 +374,7 @@ No overall differences in safety were reported between elderly ( ≥ 65 years) a
 
 ## Safety Data from Other Clinical trials
 
-Supportive safety data were obtained in 12 completed clinical trials that included 934 patients exposed to eculizumab in other disease populations other than PNH, aHUS, refractory gMG or NMOSD. There was an un-vaccinated patient diagnosed with idiopathic membranous glomerulonephropathy who experienced meningococcal meningitis. Adverse reactions reported in patients with disease other than PNH, aHUS, refractory gMG or NMOSD were similar to those reported in patients with PNH, aHUS, refractory gMG or NMOSD (see Table 2 above). No specific adverse reactions have emerged from these clinical trials.
+Supportive safety data were obtained in 12 completed clinical trials that included 934 patients exposed to eculizumab in other disease populations other than PNH, aHUS, refractory gMG or NMOSD. There was an un-vaccinated patient diagnosed with idiopathic membranous glomerulonephropathy who experienced meningococcal meningitis. Adverse reactions reported in patients with disease other than PNH, aHUS, refractory gMG or NMOSD were similar to those reported in patients with PNH, aHUS, refractory gMG or NMOSD (see Table 1 above). No specific adverse reactions have emerged from these clinical trials.
 
 ## Reporting of suspected adverse reactions
 
@@ -401,11 +398,13 @@ Epysqli is a biosimilar medicinal product. Detailed information is available on 
 
 ## Mechanism of action
 
-Eculizumab, the active substance in Epysqli, is a terminal complement inhibitor that specifically binds to the complement protein C5 with high affinity, thereby inhibiting its cleavage to C5a and C5b and preventing the generation of the terminal complement complex C5b-9. Eculizumab preserves the early components of complement activation that are essential for opsonisation of microorganisms and clearance of immune complexes.
-
-In PNH patients, uncontrolled terminal complement activation and the resulting complement-mediated intravascular haemolysis are blocked with eculizumab treatment.
+Eculizumab, the active substance in Epysqli, is a terminal complement inhibitor that specifically binds to the complement protein C5 with high affinity, thereby inhibiting its cleavage to C5a and C5b and preventing the generation of the terminal complement complex C5b-9. Eculizumab preserves the early
 
 <div style=\"page-break-after: always\"></div>
+
+components of complement activation that are essential for opsonisation of microorganisms and clearance of immune complexes.
+
+In PNH patients, uncontrolled terminal complement activation and the resulting complement-mediated intravascular haemolysis are blocked with eculizumab treatment.
 
 In most PNH patients, eculizumab serum concentrations of approximately 35 microgram/mL are sufficient for essentially complete inhibition of terminal complement-mediated intravascular haemolysis.
 
@@ -423,35 +422,33 @@ In aHUS, chronic administration of eculizumab resulted in a rapid and sustained 
 
 The safety and efficacy of eculizumab in PNH patients with haemolysis were assessed in a randomized, double-blind, placebo-controlled 26 week study (C04-001). PNH patients were also treated with eculizumab in a single arm 52 week study (C04-002), and in a long term extension study (E05-001). Patients received meningococcal vaccination prior to receipt of eculizumab. In all studies, the dose of eculizumab was 600 mg every 7 ± 2 days for 4 weeks, followed by 900 mg 7 ± 2 days later, then 900 mg every 14 ± 2 days for the study duration. Eculizumab was administered as an intravenous infusion over 25 - 45 minutes (35 minutes ± 10 minutes). An observational noninterventional Registry in patients with PNH (M07-001) was also initiated to characterize the natural history of PNH in untreated patients and the clinical outcomes during eculizumab treatment.
 
-In study C04-001 (TRIUMPH) PNH patients with at least 4 transfusions in the prior 12 months, flow cytometric confirmation of at least 10 % PNH cells and platelet counts of at least 100 000 /microliter were randomized to either eculizumab (n = 43) or placebo (n = 44). Prior to randomisation, all patients underwent an initial observation period to confirm the need for RBC transfusion and to identify the haemoglobin concentration (the \"set-point\") which would define each patient's haemoglobin stabilisation and transfusion outcomes. The haemoglobin set-point was less than or equal to 9 g/dL in patients with symptoms and was less than or equal to 7 g/dL in patients without symptoms. Primary efficacy endpoints were haemoglobin stabilisation (patients who maintained a haemoglobin concentration above the haemoglobin set-point and avoid any RBC transfusion for the entire 26 week period) and blood transfusion requirement. Fatigue and health-related quality of life were relevant secondary endpoints.
+In study C04-001 (TRIUMPH) PNH patients with at least 4 transfusions in the prior 12 months, flow cytometric confirmation of at least 10 % PNH cells and platelet counts of at least 100,000 /microliter were randomized to either eculizumab (n = 43) or placebo (n = 44). Prior to randomisation, all patients underwent an initial observation period to confirm the need for RBC transfusion and to identify the haemoglobin concentration (the \"set-point\") which would define each patient's haemoglobin stabilisation and transfusion outcomes. The haemoglobin set-point was less than or equal to 9 g/dL in patients with symptoms and was less than or equal to 7 g/dL in patients without symptoms. Primary efficacy endpoints were haemoglobin stabilisation (patients who maintained a haemoglobin concentration above the haemoglobin set-point and avoid any RBC transfusion for the entire 26 week period) and blood transfusion requirement. Fatigue and health-related quality of life were relevant secondary endpoints.
 
-Haemolysis was monitored mainly by the measurement of serum LDH levels, and the proportion of PNH RBCs was monitored by flow cytometry. Patients receiving anticoagulants and systemic corticosteroids at baseline continued these medications. Major baseline characteristics were balanced (see Table 3).
+Haemolysis was monitored mainly by the measurement of serum LDH levels, and the proportion of PNH RBCs was monitored by flow cytometry. Patients receiving anticoagulants and systemic corticosteroids at baseline continued these medications. Major baseline characteristics were balanced (see Table 2).
 
-In the non-controlled study C04-002 (SHEPHERD), PNH patients with at least one transfusion in the prior 24 months and at least 30 000 platelets/microliter received eculizumab over a 52-week period. Concomitant medications included anti-thrombotic agents in 63 % of the patients and systemic corticosteroids in 40 % of the patients. Baseline characteristics are shown in Table 3.
-
-Table 3: Patient demographics and characteristics in C04-001 and C04-002
-
-|                     | C04-001        | C04-001           | C04-002           |
-|---------------------|----------------|-------------------|-------------------|
-| Parameter           | Placebo N = 44 | Eculizumab N = 43 | Eculizumab N = 97 |
-| Mean age (SD)       | 38.4 (13.4)    | 42.1 (15.5)       | 41.1 (14.4)       |
-| Gender - Female (%) | 29 (65.9)      | 23 (53.5)         | 49 (50.5)         |
+In the non-controlled study C04-002 (SHEPHERD), PNH patients with at least one transfusion in the prior 24 months and at least 30,000 platelets/microliter received eculizumab over a 52-week period. Concomitant medications included anti-thrombotic agents in 63 % of the patients and systemic corticosteroids in 40 % of the patients. Baseline characteristics are shown in Table 2.
 
 <div style=\"page-break-after: always\"></div>
 
-| History of aplastic anaemia or MDS(%)                 | 12 (27.3)         | 8 (18.7)          | 29 (29.9)       |
-|-------------------------------------------------------|-------------------|-------------------|-----------------|
-| Concomitant anticoagulants (%)                        | 20 (45.5)         | 24 (55.8)         | 59 (61)         |
-| Concomitant steroids/immunosuppressant treatments (%) | 16 (36.4)         | 14 (32.6)         | 46 (47.4)       |
-| Discontinued treatment                                | 10                | 2                 | 1               |
-| PRBC in previous 12 months (median (Q1,Q3))           | 17.0 (13.5, 25.0) | 18.0 (12.0, 24.0) | 8.0 (4.0, 24.0) |
-| Mean Hgb level (g/dL) at setpoint (SD)                | 7.7 (0.75)        | 7.8 (0.79)        | N/A             |
-| Pre-treatment LDH levels (median, U/L)                | 2,234.5           | 2,032.0           | 2,051.0         |
-| Free haemoglobin at baseline (median, mg/dL)          | 46.2              | 40.5              | 34.9            |
+Table 2: Patient demographics and characteristics in C04-001 and C04-002
 
-In TRIUMPH, study patients treated with eculizumab had significantly reduced (p&lt; 0.001) haemolysis resulting in improvements in anaemia as indicated by increased haemoglobin stabilisation and reduced need for RBC transfusions compared to placebo treated patients (see Table 4). These effects were seen among patients within each of the three pre-study RBC transfusion strata (4 - 14 units; 15 25 units; &gt; 25 units). After 3 weeks of eculizumab treatment, patients reported less fatigue and improved health-related quality of life. Because of the study sample size and duration, the effects of eculizumab on thrombotic events could not be determined. In SHEPHERD study, 96 of the 97 enrolled patients completed the study (one patient died following a thrombotic event). A reduction in intravascular haemolysis as measured by serum LDH levels was sustained for the treatment period and resulted in increased transfusion avoidance, a reduced need for RBC transfusion and less fatigue. See Table 4.
+|                                                       | C04-001           | C04-001           | C04-002           |
+|-------------------------------------------------------|-------------------|-------------------|-------------------|
+| Parameter                                             | Placebo N = 44    | Eculizumab N = 43 | Eculizumab N = 97 |
+| Mean age (SD)                                         | 38.4 (13.4)       | 42.1 (15.5)       | 41.1 (14.4)       |
+| Gender - Female (%)                                   | 29 (65.9)         | 23 (53.5)         | 49 (50.5)         |
+| History of aplastic anaemia or MDS(%)                 | 12 (27.3)         | 8 (18.7)          | 29 (29.9)         |
+| Concomitant anticoagulants (%)                        | 20 (45.5)         | 24 (55.8)         | 59 (61)           |
+| Concomitant steroids/immunosuppressant treatments (%) | 16 (36.4)         | 14 (32.6)         | 46 (47.4)         |
+| Discontinued treatment                                | 10                | 2                 | 1                 |
+| PRBC in previous 12 months (median (Q1,Q3))           | 17.0 (13.5, 25.0) | 18.0 (12.0, 24.0) | 8.0 (4.0, 24.0)   |
+| Mean Hgb level (g/dL) at setpoint (SD)                | 7.7 (0.75)        | 7.8 (0.79)        | N/A               |
+| Pre-treatment LDH levels (median, U/L)                | 2,234.5           | 2,032.0           | 2,051.0           |
+| Free haemoglobin at baseline (median, mg/dL)          | 46.2              | 40.5              | 34.9              |
 
-Table 4: Efficacy outcomes in C04-001 and C04-002
+In TRIUMPH, study patients treated with eculizumab had significantly reduced (p&lt; 0.001) haemolysis resulting in improvements in anaemia as indicated by increased haemoglobin stabilisation and reduced need for RBC transfusions compared to placebo treated patients (see Table 3). These effects were seen among patients within each of the three pre-study RBC transfusion strata (4 - 14 units; 15 25 units; &gt; 25 units). After 3 weeks of eculizumab treatment, patients reported less fatigue and improved health-related quality of life. Because of the study sample size and duration, the effects of eculizumab on thrombotic events could not be determined. In SHEPHERD study, 96 of the 97 enrolled patients completed the study (one patient died following a thrombotic event). A reduction in intravascular haemolysis as measured by serum LDH levels was sustained for the treatment period and resulted in increased transfusion avoidance, a reduced need for RBC transfusion and less fatigue. See Table 3.
+
+Table 3: Efficacy outcomes in C04-001 and C04-002
 
 |                                                                           | C04-001        | C04-001           | C04-001   | C04-002*          | C04-002*   |
 |---------------------------------------------------------------------------|----------------|-------------------|-----------|-------------------|------------|
@@ -459,8 +456,8 @@ Table 4: Efficacy outcomes in C04-001 and C04-002
 | Percentage of patients with stabilized haemoglobin levels at end of study | 0              | 49                | < 0.001   | N/A               | N/A        |
 | PRBC transfused during treatment (median)                                 | 10             | 0                 | < 0.001   | 0                 | < 0.001    |
 | Transfusion avoidance during treatment (%)                                | 0              | 51                | < 0.001   | 51                | < 0.001    |
-| LDH levels at end of study (median, U/L)                                  | 2 167          | 239               | < 0.001   | 269               | < 0.001    |
-| LDH AUC at end of study (median, U/L x Day)                               | 411 822        | 58 587            | < 0.001   | -632 264          | < 0.001    |
+| LDH levels at end of study (median, U/L)                                  | 2 , 167        | 239               | < 0.001   | 269               | < 0.001    |
+| LDH AUC at end of study (median, U/L x Day)                               | 411,822        | 58 , 587          | < 0.001   | -632 , 264        | < 0.001    |
 | Free haemoglobin at end of study (median, mg/dL)                          | 62             | 5                 | < 0.001   | 5                 | < 0.001    |
 | FACIT-Fatigue (effect size)                                               |                | 1.12              | < 0.001   | 1.14              | < 0.001    |
 
@@ -468,20 +465,20 @@ Table 4: Efficacy outcomes in C04-001 and C04-002
 
 From the 195 patients that originated in C04-001, C04-002 and other initial studies, eculizumabtreated PNH patients were enrolled in a long term extension study (E05-001). All patients sustained a reduction in intravascular haemolysis over a total eculizumab exposure time ranging from 10 to 54 months. There were fewer thrombotic events with eculizumab treatment than during the same period of time prior to treatment.
 
+<div style=\"page-break-after: always\"></div>
+
 However, this finding was shown in non-controlled clinical trials.
 
 The PNH registry (M07-001) was used to evaluate the efficacy of eculizumab in PNH patients with no history of RBC transfusion. These patients had high disease activity as defined by elevated haemolysis (LDH ≥ 1.5 x ULN) and the presence of related clinical symptom(s): fatigue, haemoglobinuria, abdominal pain, shortness of breath (dyspnoea), anaemia (haemoglobin &lt; 100 g/L), major adverse vascular event (including thrombosis), dysphagia, or erectile dysfunction.
 
-<div style=\"page-break-after: always\"></div>
+In the PNH Registry, patients treated with eculizumab were observed to have a reduction in haemolysis and associated symptoms. At 6 months, patients treated with eculizumab with no history of RBC transfusion had significantly (p&lt; 0.001) reduced LDH levels (median LDH of 305 U/L; Table 4). Furthermore, 74 % of the patients without a history of transfusion and treated with eculizumab experienced clinically meaningful improvements in FACIT-Fatigue score (i.e., increase by 4 points or more) and 84 % in EORTC fatigue score (i.e., decrease by 10 points or more).
 
-In the PNH Registry, patients treated with eculizumab were observed to have a reduction in haemolysis and associated symptoms. At 6 months, patients treated with eculizumab with no history of RBC transfusion had significantly (p&lt; 0.001) reduced LDH levels (median LDH of 305 U/L; Table 5). Furthermore, 74 % of the patients without a history of transfusion and treated with eculizumab experienced clinically meaningful improvements in FACIT-Fatigue score (i.e., increase by 4 points or more) and 84 % in EORTC fatigue score (i.e., decrease by 10 points or more).
-
-Table 5: Efficacy outcomes (LDH level and FACIT-Fatigue) in patients with PNH with no history of transfusion in M07-001
+Table 4: Efficacy outcomes (LDH level and FACIT-Fatigue) in patients with PNH with no history of transfusion in M07-001
 
 |                                                           | M07-001                   |
 |-----------------------------------------------------------|---------------------------|
 | Parameter                                                 | Eculizumab No transfusion |
-| LDH level at baseline (median, U/L)                       | N=43 1 447                |
+| LDH level at baseline (median, U/L)                       | N=43 1447                 |
 | LDH level at 6 months (median, U/L)                       | N=36 305                  |
 | FACIT-Fatigue score at baseline (median)                  | N=25 32                   |
 | FACIT-Fatigue score at last available assessment (median) | N=31 44                   |
@@ -496,18 +493,16 @@ Study C08-002A/B was a prospective, controlled, open-label study which accrued p
 
 Patients received meningococcal vaccination prior to receipt of eculizumab or received prophylactic treatment with appropriate antibiotics until 2 weeks after vaccination. In all studies, the dose of eculizumab in adult and adolescent aHUS patients was 900 mg every 7 ± 2 days for 4 weeks, followed by 1,200 mg 7 ± 2 days later, then 1,200 mg every 14 ± 2 days for the study duration. Eculizumab was administered as an intravenous infusion over 35 minutes. The dosing regimen in paediatric patients and adolescents weighing less than 40 kg was defined based on a pharmacokinetic (PK) simulation that identified the recommended dose and schedule based on body weight (see section 4.2).
 
-Primary endpoints included platelet count change from baseline in study C08-002A/B and thrombotic microangiopathy (TMA) event-free status in study C08-003A/B. Additional endpoints included TMA intervention rate, haematologic normalization, complete TMA response, changes in LDH, renal function and quality of life. TMA-event free status was defined as the absence for at least 12 weeks of the following: decrease in platelet count of &gt; 25% from baseline, PE/PI, and new dialysis. TMA
-
 <div style=\"page-break-after: always\"></div>
 
-interventions were defined as PE/PI or new dialysis. Haematologic normalization was defined as normalization of platelet counts and LDH levels sustained for ≥2 consecutive measurements for ≥4 weeks. Complete TMA response was defined as haematologic normalization and a ≥25% reduction in serum creatinine sustained in ≥ 2 consecutive measurements for ≥ 4 weeks. Baseline characteristics are shown in Table 6.
+Primary endpoints included platelet count change from baseline in study C08-002A/B and thrombotic microangiopathy (TMA) event-free status in study C08-003A/B. Additional endpoints included TMA intervention rate, haematologic normalization, complete TMA response, changes in LDH, renal function and quality of life. TMA-event free status was defined as the absence for at least 12 weeks of the following: decrease in platelet count of &gt; 25% from baseline, PE/PI, and new dialysis. TMA interventions were defined as PE/PI or new dialysis. Haematologic normalization was defined as normalization of platelet counts and LDH levels sustained for ≥2 consecutive measurements for ≥4 weeks. Complete TMA response was defined as haematologic normalization and a ≥25% reduction in serum creatinine sustained in ≥ 2 consecutive measurements for ≥ 4 weeks. Baseline characteristics are shown in Table 5.
 
-Table 6: Patient Demographics and Characteristics in C08-002A/B and C08-003A/B
+Table 5: Patient Demographics and Characteristics in C08-002A/B and C08-003A/B
 
 | Parameter                                                                                | C08-002A/B Eculizumab N = 17   | C08-003A/B Eculizumab N = 20   |
 |------------------------------------------------------------------------------------------|--------------------------------|--------------------------------|
 | Time from first diagnosis until screening in months, median (min, max)                   | 10 (0.26, 236)                 | 48 (0.66, 286)                 |
-| Time from current clinical TMAmanifestation until screening in months, median (min, max) | < 1 (<1, 4)                    | 9 (1, 45)                      |
+| Time from current clinicalTMA manifestation until screening in months, median (min, max) | < 1 (<1, 4)                    | 9 (1, 45)                      |
 | Number of PE/PI sessions for current clinicalTMA manifestation, median (min, max)        | 17 (2, 37)                     | 62 (20, 230)                   |
 | Number of PE/PI sessions in 7 days prior to first dose of eculizumab, median (min, max)  | 6 (0, 7)                       | 2 (1, 3)                       |
 | Baseline platelet count (× 10 9 /L), mean (SD)                                           | 109 (32)                       | 228 (78)                       |
@@ -516,17 +511,19 @@ Table 6: Patient Demographics and Characteristics in C08-002A/B and C08-003A/B
 
 Patients in aHUS Study C08-002 A/B received eculizumab for a minimum of 26 weeks. After completion of the initial 26-week treatment period, most patients continued to receive eculizumab by enrolling into an extension study. In aHUS Study C08-002A/B, the median duration of eculizumab therapy was approximately100 weeks (range: 2 weeks to 145 weeks).
 
-A reduction in terminal complement activity and an increase in platelet count relative to baseline were observed after commencement of eculizumab. Reduction in terminal complement activity was observed in all patients after commencement of eculizumab. Table 7 summarizes the efficacy results for aHUS Study C08-002A/B. All rates of efficacy endpoints improved or were maintained through 2 years of treatment. Complete TMA response was maintained by all responders. When treatment was continued for more than 26 weeks, two additional patients achieved and maintained Complete TMA response due to normalization of LDH (1 patient) and a decrease in serum creatinine (2 patients). Renal function, as measured by eGFR, was improved and maintained during eculizumab therapy. Four of the five patients who required dialysis at study entry were able to discontinue dialysis for the duration of eculizumab treatment, and one patient developed a new dialysis requirement. Patients reported improved health-related quality of life (QoL).
+A reduction in terminal complement activity and an increase in platelet count relative to baseline were observed after commencement of eculizumab. Reduction in terminal complement activity was observed in all patients after commencement of eculizumab. Table 6 summarizes the efficacy results for aHUS Study C08-002A/B. All rates of efficacy endpoints improved or were maintained through 2 years of treatment. Complete TMA response was maintained by all responders. When treatment was continued for more than 26 weeks, two additional patients achieved and maintained Complete TMA response due to normalization of LDH (1 patient) and a decrease in serum creatinine (2 patients). Renal function, as measured by eGFR, was improved and maintained during eculizumab therapy. Four of the five patients who required dialysis at study entry were able to discontinue dialysis for the duration of eculizumab treatment, and one patient developed a new dialysis requirement. Patients reported improved health-related quality of life (QoL).
 
 In aHUS Study C08-002A/B, responses to eculizumab were similar in patients with and without identified mutations in genes encoding complement regulatory factor proteins.
 
-Patients in aHUS study C08-003A/B received eculizumab for a minimum of 26 weeks. After completion of the initial 26-week treatment period, most patients continued to receive eculizumab by enrolling into an extension study. In aHUS Study C08-003A/B, the median duration of eculizumab therapy was approximately 114 weeks (range: 26 to 129 weeks). Table 7 summarizes the efficacy results for aHUS Study C08-003A/B.
+Patients in aHUS study C08-003A/B received eculizumab for a minimum of 26 weeks. After completion of the initial 26-week treatment period, most patients continued to receive eculizumab by enrolling into an extension study. In aHUS Study C08-003A/B, the median duration of eculizumab therapy was approximately 114 weeks (range: 26 to 129 weeks). Table 6 summarizes the efficacy results for aHUS Study C08-003A/B.
 
-In aHUS Study C08-003A/B, responses to eculizumab were similar in patients with and without identified mutations in genes encoding complement regulatory factor proteins. Reduction in terminal complement activity was observed in all patients after commencement of eculizumab. All rates of efficacy endpoints improved or were maintained through 2 years of treatment. Complete TMA response was maintained by all responders. When treatment was continued for more than 26 weeks, six additional patients achieved and maintained Complete TMA response due to a decrease in serum creatinine. No patient required new dialysis with eculizumab. Renal function, as measured by median eGFR, increased during eculizumab therapy.
+In aHUS Study C08-003A/B, responses to eculizumab were similar in patients with and without identified mutations in genes encoding complement regulatory factor proteins. Reduction in terminal complement activity was observed in all patients after commencement of eculizumab. All rates of
 
 <div style=\"page-break-after: always\"></div>
 
-Table 7: Efficacy Outcomes in Prospective aHUS Studies C08-002A/B and C08-003A/B
+efficacy endpoints improved or were maintained through 2 years of treatment. Complete TMA response was maintained by all responders. When treatment was continued for more than 26 weeks, six additional patients achieved and maintained Complete TMA response due to a decrease in serum creatinine. No patient required new dialysis with eculizumab. Renal function, as measured by median eGFR, increased during eculizumab therapy.
+
+Table 6: Efficacy Outcomes in Prospective aHUS Studies C08-002A/B and C08-003A/B
 
 |                                                                                                                              | C08-002A/B N=17                        | C08-002A/B N=17                        | C08-003A/B N=20               | C08-003A/B N=20              |
 |------------------------------------------------------------------------------------------------------------------------------|----------------------------------------|----------------------------------------|-------------------------------|------------------------------|
@@ -536,8 +533,8 @@ Table 7: Efficacy Outcomes in Prospective aHUS Studies C08-002A/B and C08-003A/B
 | TMA intervention rate Daily pre- eculizumab rate, median (min, max) Daily during- eculizumab rate, median (min, max) P-value | 0.88 (0.04, 1.59) 0 (0, 0.31) P<0.0001 | 0.88 (0.04, 1.59) 0 (0, 0.31) P<0.0001 | 0.23 (0.05, 1.09) 0 P <0.0001 | 0.23 (0.05, 1.09) 0 P<0.0001 |
 | CKD improvement by ≥1 stage, n (%) (95% CI)                                                                                  | 10 (59) (33-82)                        | 12 (71) (44-90)                        | 7 (35) (15-59)                | 12 (60) (36-81)              |
 | eGFR change mL/min/1.73m 2 : median (range)                                                                                  | 20 (-1, 98)                            | 28 (3, 82)                             | 5 (-1, 20)                    | 11 (-42, 30)                 |
-| eGFR improvement ≥15 mL/min/1.73m 2 , n (%) (95% CI)                                                                         | 8 (47) (23-72)                         | 10 (59) (33-82)                        | 1 (5) (0-25)                  | 8 (40) (19-64) 13 (65)       |
-| Change in Hgb > 20g/L, n (%) (95% CI)                                                                                        | 11 (65) (38-86) 2                      | 13 (76) (50-93)                        | 9 (45) (23-68) 3              | (41-85)                      |
+| eGFR improvement ≥15 mL/min/1.73m 2 , n (%) (95% CI)                                                                         | 8 (47) (23-72)                         | 10 (59) (33-82)                        | 1 (5) (0-25)                  | 8 (40) (19-64)               |
+| Change in Hgb > 20g/L, n (%) (95% CI)                                                                                        | 11 (65) (38-86) 2                      | 13 (76) (50-93)                        | 9 (45) (23-68) 3              | 13 (65) (41-85)              |
 | Haematologic normalization, n (%) (95% CI)                                                                                   | 13 (76) (50-93)                        | 15 (88) (64-99)                        | 18 (90) (68-99)               | 18 (90) (68-99)              |
 | Complete TMA response, n (%) (95% CI)                                                                                        | 11(65) (38-86)                         | 13(76) (50-93)                         | 5 (25) (9-49)                 | 11(55) (32-77)               |
 
@@ -545,26 +542,25 @@ Table 7: Efficacy Outcomes in Prospective aHUS Studies C08-002A/B and C08-003A/B
 
 2 Study C08-002: 3 patients received ESA which was discontinued after eculizumab initiation
 
-3 Study C08-003: 8 patients received ESA which was discontinued in 3 of them during eculizumab therapy aHUS Study C10-004 enrolled 41 patients who displayed signs of thrombotic microangiopathy (TMA). In order to qualify for enrolment, patients were required to have a platelet count &lt; lower limit of normal range (LLN), evidence of haemolysis such as an elevation in serum LDH, and serum creatinine above the upper limits of normal, without the need for chronic dialysis. The median patient age was 35 (range: 18 to 80 years). All patients enrolled in aHUS Study C10-004 had an ADAMTS-13 level above 5%. Fifty-one percent of patients had an identified complement regulatory factor mutation or auto-antibody. A total of 35 patients received PE/PI prior to eculizumab. Table 8 summarizes the key baseline clinical and disease-related characteristics of patients enrolled in aHUS C10-004.
+3 Study C08-003: 8 patients received ESA which was discontinued in 3 of them during eculizumab therapy
 
-Table 8: Baseline Characteristics of Patients Enrolled in aHUS Study C10-004
-
-| Parameter   | aHUS Study C10-004   |
-|-------------|----------------------|
-|             | N = 41               |
+aHUS Study C10-004 enrolled 41 patients who displayed signs of thrombotic microangiopathy (TMA). In order to qualify for enrolment, patients were required to have a platelet count &lt; lower limit of normal range (LLN), evidence of haemolysis such as an elevation in serum LDH, and serum creatinine above the upper limits of normal, without the need for chronic dialysis. The median patient age was 35 (range: 18 to 80 years). All patients enrolled in aHUS Study C10-004 had an ADAMTS-13 level above 5%. Fifty-one percent of patients had an identified complement regulatory factor mutation or auto-antibody. A total of 35 patients received PE/PI prior to eculizumab. Table 7 summarizes the key baseline clinical and disease-related characteristics of patients enrolled in aHUS C10-004.
 
 <div style=\"page-break-after: always\"></div>
 
-| Time from aHUS diagnosis to first study dose (months), median (min, max)                       | 0.79 (0.03, 311)   |
-|------------------------------------------------------------------------------------------------|--------------------|
-| Time from current clinical TMAmanifestation until first study dose (months), median (min, max) | 0.52 (0.03, 19)    |
-| Baseline platelet count (× 10 9 /L), median (min, max )                                        | 125 (16, 332)      |
-| Baseline LDH(U/L), median (min, max)                                                           | 375 (131, 3318)    |
-| Baseline eGFR (mL/min/1.73m 2 ), median (min, max)                                             | 10 (6, 53)         |
+Table 7: Baseline Characteristics of Patients Enrolled in aHUS Study C10-004
 
-Patients in aHUS Study C10-004 received eculizumab for a minimum of 26 weeks. After completion of the initial 26-week treatment period, most patients elected to continue on chronic dosing. Reduction in terminal complement activity and an increase in platelet count relative to baseline were observed after commencement of eculizumab. Eculizumab reduced signs of complement-mediated TMA activity, as shown by an increase in mean platelet counts from baseline to 26 weeks. In aHUS C10-004, mean (±SD) platelet count increased from 119 ± 66 x10 9 /L at baseline to 200 ± 84 x10 9 /L by one week; this effect was maintained through 26 weeks (mean platelet count (±SD) at week 26: 252 ± 70 x10 9 /L). Renal function, as measured by eGFR, was improved during eculizumab therapy. Twenty of the 24 patients who required dialysis at baseline were able to discontinue dialysis during eculizumab treatment. Table 9 summarizes the efficacy results for aHUS study C10-004.
+| Parameter                                                                                      | aHUS Study C10-004 N = 41   |
+|------------------------------------------------------------------------------------------------|-----------------------------|
+| Time from aHUS diagnosis to first study dose (months), median (min, max)                       | 0.79 (0.03, 311)            |
+| Time from current clinical TMAmanifestation until first study dose (months), median (min, max) | 0.52 (0.03, 19)             |
+| Baseline platelet count (× 10 9 /L), median (min, max )                                        | 125 (16, 332)               |
+| Baseline LDH(U/L), median (min, max)                                                           | 375 (131, 3318)             |
+| Baseline eGFR (mL/min/1.73m 2 ), median (min, max)                                             | 10 (6, 53)                  |
 
-Table 9: Efficacy Outcomes in Prospective aHUS Study C10-004
+Patients in aHUS Study C10-004 received eculizumab for a minimum of 26 weeks. After completion of the initial 26-week treatment period, most patients elected to continue on chronic dosing. Reduction in terminal complement activity and an increase in platelet count relative to baseline were observed after commencement of eculizumab. Eculizumab reduced signs of complement-mediated TMA activity, as shown by an increase in mean platelet counts from baseline to 26 weeks. In aHUS C10-004, mean (±SD) platelet count increased from 119 ± 66 x10 9 /L at baseline to 200 ± 84 x10 9 /L by one week; this effect was maintained through 26 weeks (mean platelet count (±SD) at week 26: 252 ± 70 x10 9 /L). Renal function, as measured by eGFR, was improved during eculizumab therapy. Twenty of the 24 patients who required dialysis at baseline were able to discontinue dialysis during eculizumab treatment. Table 8 summarizes the efficacy results for aHUS study C10-004.
+
+Table 8: Efficacy Outcomes in Prospective aHUS Study C10-004
 
 | Efficacy Parameter                                                                             | aHUSStudyC10-004 (N = 41) At 26-weeks   |
 |------------------------------------------------------------------------------------------------|-----------------------------------------|
@@ -578,23 +574,23 @@ Table 9: Efficacy Outcomes in Prospective aHUS Study C10-004
 
 Longer term treatment with eculizumab (median 52 weeks ranging from 15 to 126 weeks) was associated with an increased rate of clinically meaningful improvements in adult patients with aHUS. When eculizumab treatment was continued for more than 26 weeks, three additional patients (63% of patients in total) achieved Complete TMA response and four additional patients (98% of patients in total) achieved hematologic normalization. At the last evaluation, 25 of 41 patients (61%) achieved eGFR improvement of ≥ 15 mL/min/1.73 m 2  from baseline.
 
+<div style=\"page-break-after: always\"></div>
+
 ## Paediatric population
 
-Paroxysmal Nocturnal Haemoglobinuria
-
-<div style=\"page-break-after: always\"></div>
+## Paroxysmal Nocturnal Haemoglobinuria
 
 A total of 7 PNH paediatric patients, with a median weight of 57.2 kg (range of 48.6 to 69.8 kg) and aged from 11 to 17 years (median age: 15.6 years), received eculizumab in study M07-005.
 
-Treatment with eculizumab at the proposed dosing regimen in the paediatric population was associated with a reduction of intravascular haemolysis as measured by serum LDH level. It also resulted in a marked decrease or elimination of blood transfusions, and a trend towards an overall improvement in general function. The efficacy of eculizumab treatment in paediatric PNH patients appears to be consistent with that observed in adult PNH patients enrolled in PNH pivotal Studies (C04-001 and C04-002) (Table 4 and 10).
+Treatment with eculizumab at the proposed dosing regimen in the paediatric population was associated with a reduction of intravascular haemolysis as measured by serum LDH level. It also resulted in a marked decrease or elimination of blood transfusions, and a trend towards an overall improvement in general function. The efficacy of eculizumab treatment in paediatric PNH patients appears to be consistent with that observed in adult PNH patients enrolled in PNH pivotal Studies (C04-001 and C04-002) (Table 3 and 9).
 
-Table 10: Efficacy outcomes in paediatric PNH study M07-005
+Table 9: Efficacy outcomes in paediatric PNH study M07-005
 
 |                                                                                  | P - Value        | P - Value            | P - Value     |
 |----------------------------------------------------------------------------------|------------------|----------------------|---------------|
 |                                                                                  | Mean (SD)        | Wilcoxon Signed Rank | Paired t-test |
 | Change from baseline at 12 weeks of LDH value (U/L)                              | -771 (914)       | 0.0156               | 0.0336        |
-| LDH AUC (U/L x Day)                                                              | -60 634 (72 916) | 0.0156               | 0.0350        |
+| LDH AUC (U/L x Day)                                                              | -60,634 (72,916) | 0.0156               | 0.0350        |
 | Change from baseline at 12 weeks in plasma free haemoglobin (mg/dL)              | -10.3 (21.13)    | 0.2188               | 0.1232        |
 | Change from baseline Type III RBC clone size (Percent of aberrant cells)         | 1.80 (358.1)     |                      |               |
 | Change from baseline at 12 weeks of PedsQLTM 4.0 generic core scale              | 10.5 (6.66)      | 0.1250               | 0.0256        |
@@ -606,26 +602,26 @@ Atypical Haemolytic Uremic Syndrome
 
 A total of 15 paediatric patients (aged 2 months to 12 years) received eculizumab in aHUS Study C09001r. Forty seven percent of patients had an identified complement regulatory factor mutation or autoantibody. The median time from aHUS diagnosis to first dose of eculizumab was 14 months (range &lt;1, 110 months). The median time from current thrombotic microangiopathy manifestation to first dose of eculizumab was 1 month (range &lt;1 to 16 months). The median duration of eculizumab therapy was 16 weeks (range 4 to 70 weeks) for children &lt; 2 years of age (n=5) and 31 weeks (range 19 to 63 weeks) for children 2 to &lt;12 years of age (n=10).
 
-Overall, the efficacy results for these paediatric patients appeared consistent with what was observed in patients enrolled in aHUS pivotal Studies C08-002 and C08-003 (Table 7). No paediatric patient required new dialysis during treatment with eculizumab.
+Overall, the efficacy results for these paediatric patients appeared consistent with what was observed in patients enrolled in aHUS pivotal Studies C08-002 and C08-003 (Table 6). No paediatric patient required new dialysis during treatment with eculizumab.
 
-Table 11: Efficacy Results in Paediatric Patients Enrolled in aHUS C09-001r
+Table 10: Efficacy Results in Paediatric Patients Enrolled in aHUS C09-001r
 
-| Efficacy Parameter                                | <2 years (n=5)   | 2 to <12 years (n=10)   | <12 years (n=15)   |
-|---------------------------------------------------|------------------|-------------------------|--------------------|
-| Patients with platelet count normalization, n (%) | 4 (80)           | 10 (100)                | 14 (93)            |
-| Complete TMA response, n (%)                      | 2 (40)           | 5 (50)                  | 7 (50)             |
+| Efficacy Parameter   | <2 years (n=5)   | 2 to <12 years (n=10)   | <12 years (n=15)   |
+|----------------------|------------------|-------------------------|--------------------|
 
 <div style=\"page-break-after: always\"></div>
 
-| Daily TMA intervention rate, median (range) Before eculizumab On eculizumab treatment   | 1 (0, 2) <1 (0, <1)   | <1 (0.07, 1.46) 0 (0, <1)   | <1 (0, 2) 0 (0, <1)   |
-|-----------------------------------------------------------------------------------------|-----------------------|-----------------------------|-----------------------|
-| Patients with eGFR improvement ≥15 mL/min/1.73 m 2 , n (%)                              | 2 (40)                | 6 (60)                      | 8 (53)                |
+| Patients with platelet count normalization, n (%)                                     | 4 (80)              | 10 (100)                  | 14 (93)             |
+|---------------------------------------------------------------------------------------|---------------------|---------------------------|---------------------|
+| Complete TMA response, n (%)                                                          | 2 (40)              | 5 (50)                    | 7 (50)              |
+| Daily TMA intervention rate, median (range) Before eculizumab On eculizumab treatment | 1 (0, 2) <1 (0, <1) | <1 (0.07, 1.46) 0 (0, <1) | <1 (0, 2) 0 (0, <1) |
+| Patients with eGFR improvement ≥15 mL/min/1.73 m 2 , n (%)                            | 2 (40)              | 6 (60)                    | 8 (53)              |
 
-In paediatric patients with shorter duration of current severe clinical thrombotic microangiopathy (TMA) manifestation prior to eculizumab, there was TMA control and improvement of renal function with eculizumab treatment (Table 11).
+In paediatric patients with shorter duration of current severe clinical thrombotic microangiopathy (TMA) manifestation prior to eculizumab, there was TMA control and improvement of renal function with eculizumab treatment (Table 10).
 
-In paediatric patients with longer duration of current severe clinical TMA manifestation prior to eculizumab, there was TMA control with eculizumab treatment. However, renal function was not changed due to prior irreversible kidney damage (Table 12).
+In paediatric patients with longer duration of current severe clinical TMA manifestation prior to eculizumab, there was TMA control with eculizumab treatment. However, renal function was not changed due to prior irreversible kidney damage (Table 11).
 
-Table 12: Efficacy Outcomes in Paediatric Patients in Study C09-001r according to duration of current severe clinical thrombotic microangiopathy ( TMA) manifestation
+Table 11: Efficacy Outcomes in Paediatric Patients in Study C09-001r according to duration of current severe clinical thrombotic microangiopathy ( TMA) manifestation
 
 |                                      | Duration of current severe clinical TMAmanifestation   | Duration of current severe clinical TMAmanifestation   |
 |--------------------------------------|--------------------------------------------------------|--------------------------------------------------------|
@@ -635,31 +631,29 @@ Table 12: Efficacy Outcomes in Paediatric Patients in Study C09-001r according t
 | Complete TMA response                | 7 (70)                                                 | 0                                                      |
 | eGFR improvement ≥ 15 mL/min/1.73m 2 | 7 (70)                                                 | 0 *                                                    |
 
-*One patient achieved eGFR improvement after renal transplant
-
 A total of 22 paediatric and adolescents patients (aged 5 months to 17 years) received eculizumab in aHUS Study C10-003.
 
-In Study C10-003, patients who enrolled in the study were required to have a platelet count &lt; lower limit of normal range (LLN), evidence of haemolysis such as an elevation in serum LDH above the upper limits of normal and serum creatinine level ≥97 percentile for age without the need for chronic dialysis. The median patient age was 6.5 years (range: 5 months to 17 years). Patients enrolled in aHUS C10-003 had an ADAMTS-13 level above 5%. Fifty percent of patients had an identified complement regulatory factor mutation or auto-antibody. A total of 10 patients received PE/PI prior to eculizumab. Table 13 summarizes the key baseline clinical and disease-related characteristics of patients enrolled in aHUS Study C10-003.
+In Study C10-003, patients who enrolled in the study were required to have a platelet count &lt; lower limit of normal range (LLN), evidence of haemolysis such as an elevation in serum LDH above the upper limits of normal and serum creatinine level ≥97 percentile for age without the need for chronic dialysis. The median patient age was 6.5 years (range: 5 months to 17 years). Patients enrolled in aHUS C10-003 had an ADAMTS-13 level above 5%. Fifty percent of patients had an identified complement regulatory factor mutation or auto-antibody. A total of 10 patients received PE/PI prior to eculizumab. Table 12 summarizes the key baseline clinical and disease-related characteristics of patients enrolled in aHUS Study C10-003.
 
-Table 13: Baseline Characteristics of Paediatric and Adolescents Patients Enrolled in aHUS Study C10-003
+Table 12: Baseline Characteristics of Paediatric and Adolescents Patients Enrolled in aHUS Study C10-003
 
 | Parameter                                                                                       | 1 month to <12 years (N = 18)   | All Patients (N = 22)   |
 |-------------------------------------------------------------------------------------------------|---------------------------------|-------------------------|
 | Time from aHUS diagnosis until first study dose (months) median (min, max )                     | 0.51 (0.03, 58)                 | 0.56 (0.03,191)         |
 | Time from current clinicalTMA manifestation until first study dose (months), median ( min, max) | 0.23 (0.03, 4)                  | 0.20 (0.03, 4)          |
-| Baseline platelet count (x 10 9 /L), median ( min, max)                                         | 110 (19, 146)                   | 91 (19,146)             |
-| Baseline LDH (U/L) median (min, max )                                                           | 1510 (282, 7164)                | 1244 (282, 7164)        |
 
 <div style=\"page-break-after: always\"></div>
 
-| Baseline eGFR (mL/min/1.73m 2 ), median (min, max)   | 22 (10, 105)   | 22 (10, 105)   |
-|------------------------------------------------------|----------------|----------------|
+| Baseline platelet count (x 10 9 /L), median ( min, max)   | 110 (19, 146)    | 91 (19,146)      |
+|-----------------------------------------------------------|------------------|------------------|
+| Baseline LDH (U/L) median (min, max )                     | 1510 (282, 7164) | 1244 (282, 7164) |
+| Baseline eGFR (mL/min/1.73m 2 ), median (min, max)        | 22 (10, 105)     | 22 (10, 105)     |
 
 Patients in aHUS C10-003 received eculizumab for a minimum of 26 weeks. After completion of the initial 26-week treatment period, most patients elected to continue on chronic dosing. Reduction in terminal complement activity was observed in all patients after commencement of eculizumab. Eculizumab reduced signs of complement-mediated TMA activity, as shown by an increase in mean platelet counts from baseline to 26 weeks. The mean (±SD) platelet count increased from 88 ± 42 x10 9 /L at baseline to 281 ± 123 x10 9 /L by one week; this effect was maintained through 26 weeks (mean platelet count (±SD) at week 26: 293 ± 106 x10 9 /L). Renal function, as measured by eGFR, was improved during eculizumab therapy. Nine of the 11 patients who required dialysis at baseline no longer required dialysis after Study Day 15 of eculizumab treatment. Responses were similar across all ages from 5 months to 17 years of age. In aHUS C10-003, responses to eculizumab were similar in patients with and without identified mutations in genes encoding complement regulatory factor proteins or auto-antibodies to factor H.
 
-Table 14 summarizes the efficacy results for aHUS C10-003.
+Table 13 summarizes the efficacy results for aHUS C10-003.
 
-Table 14: Efficacy Outcomes in Prospective aHUS Study C10-003
+Table 13: Efficacy Outcomes in Prospective aHUS Study C10-003
 
 | Efficacy Parameter                                                                                               | 1 month to <12 years (N = 18) At 26-weeks   | All Patients (N = 22) At 26-weeks   |
 |------------------------------------------------------------------------------------------------------------------|---------------------------------------------|-------------------------------------|
@@ -674,11 +668,11 @@ Table 14: Efficacy Outcomes in Prospective aHUS Study C10-003
 
 1 Through data cut-off (October 12, 2012), with median duration of eculizumab therapy of 44 weeks (range: 1 dose to 88 weeks).
 
-Longer term treatment with eculizumab (median 55 weeks ranging from 1day to 107 weeks) was associated with an increased rate of clinically meaningful improvements in paediatric and adolescent patients with aHUS. When eculizumab treatment was continued for more than 26 weeks, one additional patient (68% of patients in total) achieved Complete TMA Response and two additional patients (91% of patients in total) achieved hematologic normalization. At the last evaluation, 19 of 22
+Longer term treatment with eculizumab (median 55 weeks ranging from 1day to 107 weeks) was associated with an increased rate of clinically meaningful improvements in paediatric and adolescent
 
 <div style=\"page-break-after: always\"></div>
 
-patients (86%) achieved eGFR improvement of ≥ 15 mL/min/1.73 m 2  from baseline. No patient required new dialysis with eculizumab.
+patients with aHUS. When eculizumab treatment was continued for more than 26 weeks, one additional patient (68% of patients in total) achieved Complete TMA Response and two additional patients (91% of patients in total) achieved hematologic normalization. At the last evaluation, 19 of 22 patients (86%) achieved eGFR improvement of ≥ 15 mL/min/1.73 m 2  from baseline. No patient required new dialysis with eculizumab.
 
 ## 5.2 Pharmacokinetic properties
 
@@ -704,13 +698,11 @@ The second population PK model was applied to the multiple dose PK data from 22 
 
 The clearance and half-life of eculizumab were also evaluated during plasma exchange interventions. Plasma exchange resulted in an approximately 50% decline in eculizumab concentrations following a 1 hour intervention and the elimination half-life of eculizumab was reduced to 52.4 hours. Supplemental dosing is recommended when eculizumab is administered to aHUS patients receiving plasma infusion or exchange (see section 4.2).
 
-All aHUS patients treated with eculizumab when administered as recommended demonstrated rapid and sustained reduction in terminal complement activity. In aHUS patients, pharmacodynamic activity correlates directly with eculizumab serum concentrations and maintenance of trough levels of
-
 <div style=\"page-break-after: always\"></div>
 
-approximately 50-100 microgram/ml results in essentially complete blockade of terminal complement activity in all aHUS patients.
+All aHUS patients treated with eculizumab when administered as recommended demonstrated rapid and sustained reduction in terminal complement activity. In aHUS patients, pharmacodynamic activity correlates directly with eculizumab serum concentrations and maintenance of trough levels of approximately 50-100 microgram/ml results in essentially complete blockade of terminal complement activity in all aHUS patients.
 
-PK parameters are consistent across PNH and aHUS patient populations. Pharmacodynamic activity measured by free C5 concentrations of &lt; 0.5 ug/mL, is correlated with essentially complete blockade of terminal complement activity in PNH and aHUS patients.
+PK parameters are consistent across PNH and aHUS patient populations. Pharmacodynamic activity measured by free C5 concentrations of &lt; 0.5 microgram/mL, is correlated with essentially complete blockade of terminal complement activity in PNH and aHUS patients.
 
 ## Special populations
 
@@ -736,17 +728,15 @@ No clear treatment-related effects or adverse effects were observed in reproduct
 
 When maternal exposure to the antibody occurred during organogenesis, two cases of retinal dysplasia and one case of umbilical hernia were observed among 230 offspring born to mothers exposed to the higher antibody dose (approximately 4 times the maximum recommended human eculizumab dose, based on a body weight comparison); however, the exposure did not increase foetal loss or neonatal death.
 
-No animal studies have been conducted to evaluate the genotoxic and carcinogenic potential of eculizumab.
-
 <div style=\"page-break-after: always\"></div>
+
+No animal studies have been conducted to evaluate the genotoxic and carcinogenic potential of eculizumab.
 
 ## 6. PHARMACEUTICAL PARTICULARS
 
 ## 6.1 List of excipients
 
-Sodium dihydrogen phosphate monohydrate Disodium hydrogen phosphate heptahydrate Trehalose dihydrate Polysorbate 80 (E 433)
-
-Water for injections
+Sodium dihydrogen phosphate monohydrate Disodium hydrogen phosphate heptahydrate Trehalose dihydrate Polysorbate 80 (E 433) Water for injections
 
 ## 6.2 Incompatibilities
 
@@ -754,7 +744,7 @@ This medicinal product must not be mixed with other medicinal products except th
 
 ## 6.3 Shelf life
 
-## Before dilution
+Before dilution
 
 <!-- formula-not-decoded -->
 
@@ -785,11 +775,11 @@ For storage conditions after dilution of the medicinal product, see section 6.3.
 
 30 ml of concentrate in a vial (Type I glass) with a stopper (coated chlorinated butyl rubber), and a seal (aluminium) with flip-off cap (polypropylene).
 
+<div style=\"page-break-after: always\"></div>
+
 Pack size of one vial.
 
 ## 6.6 Special precautions for disposal and other handling
-
-<div style=\"page-break-after: always\"></div>
 
 Prior to administration, Epysqli solution should be visually inspected for particulate matter and discolouration. Do not use if there is evidence of particulate matter or discolouration.
 
@@ -1130,7 +1120,7 @@ Epysqli is also used to treat adults and children patients with a certain type o
 
 ## Meningococcal and other Neisseria infections alert
 
-Epysqli treatment may reduce your natural resistance to infections, especially against certain organisms that cause meningococcal infection (severe infection of the linings of the brain and sepsis) and other Neisseria infections including disseminated gonorrhea.
+Epysqli treatment may reduce your natural resistance to infections, especially against certain organisms that cause meningococcal infection (severe infection of the linings of the brain and sepsis) and other Neisseria infections including disseminated gonorrhoea.
 
 Consult your doctor before you take Epysqli to be sure that you receive vaccination against Neisseria meningitidis , an organism that causes meningococcal infection, at least 2 weeks before beginning therapy, or that you take antibiotics to reduce the risk of infection until 2 weeks after you have been vaccinated. Ensure that your current meningococcal vaccination is up to date. You should also be aware that vaccination may not prevent this type of infection. In accordance with national recommendations, your doctor might consider that you need supplementary measures to prevent infection.
 
@@ -1311,13 +1301,13 @@ If you are not sure what the side effects below are, ask your doctor to explain 
 
 Very common : may affect more than 1 in 10 people:
 
-- headache.
+- headache
 
 Common : may affect up to 1 in 10 people:
 
 <div style=\"page-break-after: always\"></div>
 
-- infection of the lung (pneumonia), common cold (nasopharyngitis), infection of the urinary system (urinary tract infection),
+- infection of the lung (pneumonia), common cold (nasopharyngitis), infection of the urinary system (urinary tract infection)
 - low white blood cell count (leukopenia), reduction in red blood cells which can make the skin pale and cause weakness or breathlessness
 - inability to sleep
 - dizziness, high blood pressure
@@ -1341,12 +1331,13 @@ Common : may affect up to 1 in 10 people:
 - sudden and rapid development of extremely high blood pressure, low blood pressure, hot flush, vein disorder
 - dyspnoea (difficulty breathing), nose bleed, stuffy nose (nasal congestion), throat irritation, runny nose (rhinorrhoea)
 - inflammation of the peritoneum (the tissue that lines most of the organs of the abdomen), constipation, stomach discomfort after meals (dyspepsia), abdominal distension
+- increase of liver enzymes
 - hives, redness of the skin, dry skin, red or purple spots under the skin, increased sweating, inflammation of the skin
 - muscle cramp, muscle aches, back and neck pain, bone pain
 - kidney disorder, difficulties or pain when urinating (dysuria), blood in urine
 - spontaneous penile erection
 - swelling (edema), chest discomfort, feeling of weakness (asthenia), chest pain, infusion site pain, chills
-- increase of liver enzymes, decrease of the proportion of blood volume that is occupied by red blood cells, decrease in the protein in red blood cells that carries oxygen
+- decrease of the proportion of blood volume that is occupied by red blood cells, decrease in the protein in red blood cells that carries oxygen
 
 ## Rare : may affect up to 1 in 1 000 people:
 
@@ -1357,15 +1348,19 @@ Common : may affect up to 1 in 10 people:
 - abnormal dreams
 - irritation of eye
 - bruise
-- unusual backflow of food from stomach, gum pain
 
 <div style=\"page-break-after: always\"></div>
 
+- unusual backflow of food from stomach, gum pain
 - yellowing of the skin and/or eyes (jaundice)
 - skin colour disorder
 - spasm of mouth muscle, joint swelling
 - menstrual disorder
 - abnormal leakage of the infused medicine out of the vein, infusion site abnormal sensation, feeling hot
+
+Not known : frequency cannot be estimated from the available data:
+
+- liver injury
 
 ## Reporting of side effects
 
@@ -1393,6 +1388,8 @@ Do not throw away any medicines via wastewater. Ask your pharmacist how to throw
 
 ## What Epysqli contains
 
+<div style=\"page-break-after: always\"></div>
+
 - -The active substance is eculizumab (300 mg/ 30 ml in a vial corresponding to 10 mg/ml).
 - -The other ingredients are:
 - -sodium dihydrogen phosphate monohydrate (see section 2 'Epysqli contains sodium')
@@ -1405,8 +1402,6 @@ Solvent: Water for injections
 - -Epysqli contains sodium and polysorbate 80. See section 2.
 
 ## What Epysqli looks like and contents of the pack
-
-<div style=\"page-break-after: always\"></div>
 
 Epysqli is presented as a concentrate for solution for infusion (30 ml in a vial - pack size of 1 vial). Epysqli is a clear and colourless solution.
 

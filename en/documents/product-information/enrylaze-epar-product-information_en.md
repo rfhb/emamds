@@ -1,20 +1,20 @@
 ---
-document_datetime: 2023-10-31 11:14:25
+document_datetime: 2026-02-19 13:25:26
 document_pages: 28
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/enrylaze-epar-product-information_en.pdf
 document_name: enrylaze-epar-product-information_en.pdf
 version: success
-processing_time: 5.771256
-conversion_datetime: 2025-12-19 05:58:43.283034
+processing_time: 7.2124679
+conversion_datetime: 2026-02-21 13:01:38.43379
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.64.1
-  docling-core: 2.55.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.13.0
+  docling-jobkit: 1.11.0
+  docling: 2.74.0
+  docling-core: 2.65.1
+  docling-ibm-models: 3.11.0
+  docling-parse: 5.3.2
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.1-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.3-arm64-arm-64bit-Mach-O
 ---
 ## ANNEX I
 
@@ -44,7 +44,7 @@ For the full list of excipients, see section 6.1.
 
 Solution for injection/infusion.
 
-Clear to opalescent, colourless to slightly yellow solution with a pH of 7.0 ± 0.5 and an osmolality: 290-350 mOsmol/Kg.
+Clear to opalescent, colourless to slightly yellow solution with a pH of 7.0 ± 0.5 and an osmolality: 290-350 mOsmol/kg.
 
 ## 4. CLINICAL PARTICULARS
 
@@ -61,14 +61,16 @@ Enrylaze should be prescribed and administered by physicians and healthcare pers
 The recommended dose of Enrylaze is:
 
 - -Every 48 hours
-- 25 mg/m 2  intramuscularly or intravenously
+- 25 mg/m 2 intramuscularly or intravenously
 
 <div style=\"page-break-after: always\"></div>
 
+## Or
+
 - -Monday/Wednesday/Friday
-- 25 mg/m 2  intramuscularly on Monday and Wednesday, and 50 mg/m 2 intramuscularly on Friday; or
-- 25 mg/m 2  intravenously on Monday and Wednesday, and 50 mg/m 2 intramuscularly on Friday; or
-- 25 mg/m 2  intravenously on Monday and Wednesday, and 50 mg/m 2 intravenously on Friday
+- 25 mg/m 2 intramuscularly on Monday and Wednesday, and 50 mg/m 2 intramuscularly on Friday; or
+- 25 mg/m 2 intravenously on Monday and Wednesday, and 50 mg/m 2 intramuscularly on Friday; or
+- 25 mg/m 2 intravenously on Monday and Wednesday, and 50 mg/m 2 intravenously on Friday
 
 ## Recommended premedication
 
@@ -110,11 +112,9 @@ No dose adjustment is required in elderly patients.
 
 Enrylaze is for intramuscular and/or intravenous use.
 
-For intramuscular use, limit the volume of Enrylaze at a single injection site to 2 mL for patients with
+For intramuscular use, limit the volume of Enrylaze at a single injection site to 2 mL for patients with a body surface area (BSA) &gt; 0.5 m 2 , for patients with a BSA &lt; 0.5 m 2 limit the volume to 1 mL. If the volume to be administered is greater than the mentioned limits, use multiple injection sites.
 
 <div style=\"page-break-after: always\"></div>
-
-a body surface area (BSA) &gt; 0.5 m 2 , for patients with a BSA &lt; 0.5 m 2 limit the volume to 1 mL. If the volume to be administered is greater than the mentioned limits, use multiple injection sites.
 
 For intravenous infusion, it is recommended to administer the dose over 2 hours.
 
@@ -155,11 +155,11 @@ Enrylaze should be discontinued in patients that develop necrotising or haemorrh
 
 In the case of elevations in lipase or amylase &gt; 2 times the ULN or symptomatic pancreatitis, Enrylaze should be withheld until the ULN and symptoms subside. After resolution of pancreatitis, treatment with Enrylaze may be resumed.
 
-<div style=\"page-break-after: always\"></div>
-
 ## Glucose intolerance
 
 Cases of glucose intolerance have been reported in patients receiving Enrylaze in clinical trials (see section 4.8). Glucose levels in patients should be monitored at baseline and periodically during treatment. Insulin therapy should be administered as necessary in patients with hyperglycaemia.
+
+<div style=\"page-break-after: always\"></div>
 
 ## Coagulation disorders
 
@@ -169,7 +169,7 @@ Thrombotic and bleeding events, including sagittal sinus thrombosis and pulmonar
 
 Therapy that includes Enrylaze can cause hepatotoxicity as experienced during clinical trials (see section 4.8).
 
-Patients should be monitored for signs and symptoms of hepatotoxicity.  Bilirubin and transaminases should be monitored prior to treatment and as clinically required during treatment with Enrylaze. In the event of severe liver toxicity,  treatment with Enrylaze must be discontinued and supportive care provided.
+Patients should be monitored for signs and symptoms of hepatotoxicity. Bilirubin and transaminases should be monitored prior to treatment and as clinically required during treatment with Enrylaze. In the event of severe liver toxicity, treatment with Enrylaze must be discontinued and supportive care provided.
 
 ## Neurotoxicity
 
@@ -195,11 +195,11 @@ No interaction studies have been performed.
 
 The possibility of interactions with medicinal products whose pharmacokinetics or pharmacodynamics are affected by asparaginase-induced changes in the liver function or plasma protein levels should be taken into account when administering asparaginase. Asparaginase may increase toxicity of other medicinal products through its effect on liver function.
 
-<div style=\"page-break-after: always\"></div>
-
 ## Vincristine
 
 Administration of asparaginase concurrently or immediately before vincristine may be associated with increased toxicity of vincristine. Asparaginase inhibits hepatic clearance of vincristine.
+
+<div style=\"page-break-after: always\"></div>
 
 ## Methotrexate, cytarabine
 
@@ -239,9 +239,9 @@ Enrylaze has minor influence on the ability to drive and use machines. This infl
 
 Serious adverse reactions occurred in 59% of patients who received Enrylaze in a clinical trial. The most frequent serious adverse reactions were febrile neutropenia (29%), pyrexia (10%), vomiting (8%), sepsis (7%), medicinal product hypersensitivity (6%), nausea (6%), and pancreatitis (5%).
 
-<div style=\"page-break-after: always\"></div>
-
 The most common adverse reactions were anaemia (52%), vomiting (49%), thrombocytopenia (42%), neutropenia (41%), nausea (38%), febrile neutropenia (32%), fatigue (32%), pyrexia (32%), decreased appetite (29%), transaminase increased (29%), abdominal pain (27%), white blood cell count decreased (27%), headache (25%), diarrhoea (22%), and lymphocyte count decreased (20%).
+
+<div style=\"page-break-after: always\"></div>
 
 ## Tabulated list of adverse reactions
 
@@ -251,36 +251,36 @@ Frequencies are defined as: very common (≥ 1/10); common (≥ 1/100 to &lt; 1/
 
 Table 1: Adverse reactions in patients receiving Enrylaze with multi-agent chemotherapy (Study JZP458-201)
 
-| System organ class                              | Frequency   | Adverse reaction                                                   |
-|-------------------------------------------------|-------------|--------------------------------------------------------------------|
-| Infections and infestations                     | Common      | Sepsis                                                             |
-| Blood and lymphatic system disorders            | Very common | Anaemia, Thrombocytopenia, Neutropenia, Febrile neutropenia        |
-| Immune system disorders                         | Very common | Drug hypersensitivity                                              |
-| Immune system disorders                         | Common      | Anaphylactic reaction, Hypersensitivity                            |
-| Metabolism and nutrition disorders              | Very common | Decreased appetite, Hyperglycaemia, Hypoalbuminemia                |
-| Metabolism and nutrition disorders              | Common      | Hypertriglyceridemia, Hypoglycaemia, Hyperammonaemia               |
-| Psychiatric disorders                           | Very common | Anxiety                                                            |
-| Psychiatric disorders                           | Common      | Irritability                                                       |
-| Nervous system disorders                        | Very common | Headache                                                           |
-| Nervous system disorders                        | Common      | Dizziness                                                          |
-| Nervous system disorders                        | Uncommon    | Superior sagittal sinus thrombosis                                 |
-| Vascular disorders                              | Common      | Hypotension                                                        |
-| Vascular disorders                              | Uncommon    | Jugular vein thrombosis, Deep vein thrombosis                      |
-| Respiratory, thoracic and mediastinal disorders | Common      | Pulmonary embolism                                                 |
-| Gastrointestinal disorders                      | Very common | Vomiting, Nausea, Abdominal pain, Diarrhoea                        |
-| Gastrointestinal disorders                      | Common      | Pancreatitis                                                       |
-| Skin and subcutaneous tissue disorders          | Common      | Rash maculo-papular, Pruritus, Rash, Urticaria, Rash erythematous, |
-| Musculoskeletal and connective tissue disorders | Very common | Pain in extremity                                                  |
+| System organ class                                   | Frequency   | Adverse reaction                                                   |
+|------------------------------------------------------|-------------|--------------------------------------------------------------------|
+| Infections and infestations                          | Common      | Sepsis                                                             |
+| Blood and lymphatic system disorders                 | Very common | Anaemia, Thrombocytopenia, Neutropenia, Febrile neutropenia        |
+| Immune system disorders                              | Very common | Drug hypersensitivity                                              |
+| Immune system disorders                              | Common      | Anaphylactic reaction, Hypersensitivity                            |
+| Metabolism and nutrition disorders                   | Very common | Decreased appetite, Hyperglycaemia, Hypoalbuminemia                |
+| Metabolism and nutrition disorders                   | Common      | Hypertriglyceridemia, Hypoglycaemia, Hyperammonaemia               |
+| Psychiatric disorders                                | Very common | Anxiety                                                            |
+| Psychiatric disorders                                | Common      | Irritability                                                       |
+| Nervous system disorders                             | Very common | Headache                                                           |
+| Nervous system disorders                             | Common      | Dizziness                                                          |
+| Nervous system disorders                             | Uncommon    | Superior sagittal sinus thrombosis                                 |
+| Vascular disorders                                   | Common      | Hypotension                                                        |
+| Vascular disorders                                   | Uncommon    | Jugular vein thrombosis, Deep vein thrombosis                      |
+| Respiratory, thoracic and mediastinal disorders      | Common      | Pulmonary embolism                                                 |
+| Gastrointestinal disorders                           | Very common | Vomiting, Nausea, Abdominal pain, Diarrhoea                        |
+| Gastrointestinal disorders                           | Common      | Pancreatitis                                                       |
+| Skin and subcutaneous tissue disorders               | Common      | Rash maculo-papular, Pruritus, Rash, Urticaria, Rash erythematous, |
+| Musculoskeletal and connective tissue disorders      | Very common | Pain in extremity                                                  |
+| General disorders and administration site conditions | Very common | Fatigue, Pyrexia                                                   |
+| General disorders and administration site conditions | Common      | Injection site pain, Injection site reaction                       |
 
 <div style=\"page-break-after: always\"></div>
 
-| General disorders and administration site conditions   | Very common   | Fatigue, Pyrexia                                                                                                                     |
-|--------------------------------------------------------|---------------|--------------------------------------------------------------------------------------------------------------------------------------|
-| General disorders and administration site conditions   | Common        | Injection site pain, Injection site reaction                                                                                         |
-| Investigations                                         | Very common   | Transaminases increased, White blood cell count decreased, Lymphocyte count decreased, Weight decreased, Blood bilirubin increased   |
-| Investigations                                         | Common        | Blood creatinine increased , Activated partial thromboplastin time prolonged, Blood fibrinogen decreased, Antithrombin III decreased |
-| Injury, poisoning and procedural complications         | Very common   | Contusion                                                                                                                            |
-| Injury, poisoning and procedural complications         | Common        | Infusion-related reaction                                                                                                            |
+| Investigations                                 | Very common   | Transaminases increased, White blood cell count decreased, Lymphocyte count decreased, Weight decreased, Blood bilirubin increased   |
+|------------------------------------------------|---------------|--------------------------------------------------------------------------------------------------------------------------------------|
+| Investigations                                 | Common        | Blood creatinine increased, Activated partial thromboplastin time prolonged, Blood fibrinogen decreased, Antithrombin III decreased  |
+| Injury, poisoning and procedural complications | Very common   | Contusion                                                                                                                            |
+| Injury, poisoning and procedural complications | Common        | Infusion-related reaction                                                                                                            |
 
 ## Description of selected adverse reactions
 
@@ -296,7 +296,7 @@ Cases of pancreatitis including life threatening cases have been reported in the
 
 Although the safety profile of adults above 25 years of age has not been studied, some adverse reactions, such as hepatotoxicity, thrombosis, and pancreatitis, have been reported more frequently in adults with acute lymphoblastic leukemia receiving other asparaginases than in paediatric patients.
 
-## Immunogencity
+## Immunogenicity
 
 It has been reported that there is no to little cross reactivity between crisantaspase and other E. coli derived asparaginase.
 
@@ -356,9 +356,9 @@ The efficacy and safety of Enrylaze was determined in the clinical trials, an op
 
 patients with ALL or LBL who developed hypersensitivity to a long-acting E. coli -derived asparaginases. The median age of patients was 10 years (range, 1 to 25 years).
 
-Prior long-acting E. coli -derived asparaginase treatments included pegaspargase for all patients apart from one who received other type of E. coli -derived asparaginase. In Study JZP458-201, 190 (83%) patients experienced a h ypersensitivity (Grade ≥ 3) to a long-acting E. coli -derived asparaginases, 15 (7%) patients experienced silent inactivation, and 23 (10%) patients experienced an allergic reaction with inactivation. The number of courses of Enrylaze received ranged from 1 to 15.
+Prior long-acting E. coli -derived asparaginase treatments included pegaspargase for all patients apart from one who received other type of E. coli -derived asparaginase. In Study JZP458-201, 190 (83%) patients experienced a hypersensitivity (Grade ≥ 3) to a long-acting E. coli -derived asparaginases, 15 (7%) patients experienced silent inactivation, and 23 (10%) patients experienced an allergic reaction with inactivation. The number of courses of Enrylaze received ranged from 1 to 15.
 
-Patients received 6 doses of Enrylaze, either intramuscularly at 25 mg/m 2 or 37.5 mg/m 2 three times a week (Monday/Wednesday/Friday), or 25 mg/m 2  on Monday and Wednesday then 50 mg/m 2  on Friday by intravenous infusion or an intramuscular injection as a replacement for each dose of E. coli derived asparaginase remaining on a patient's treatment plan.
+Patients received 6 doses of Enrylaze, either intramuscularly at 25 mg/m 2 or 37.5 mg/m 2 three times a week (Monday/Wednesday/Friday), or 25 mg/m 2 on Monday and Wednesday then 50 mg/m 2 on Friday by intravenous infusion or an intramuscular injection as a replacement for each dose of E. coli derived asparaginase remaining on a patient's treatment plan.
 
 The determination of efficacy was based on demonstration of the achievement and maintenance of nadir serum asparaginase activity (NSAA) levels ≥ 0.1 U/mL. Serum trough asparaginase activity ≥ 0.1 U/mL has been demonstrated to correlate with asparagine depletion that predicts clinical efficacy (see section 5.2).
 
@@ -381,19 +381,20 @@ No clinically significant difference is expected in probability of achieving a t
 
 ## 5.2 Pharmacokinetic properties
 
-The PK of Enrylaze was determined based on SAA. Patients received 6 doses of Enrylaze at various doses intramuscularly on Monday, Wednesday and Friday or 25 mg/m 2  administered intramuscularly or intravenously on Monday and Wednesday and 50 mg/m 2  on Friday as a replacement for each dose of a long-acting E. coli -derived asparaginase remaining on their original treatment plan. Recombinant crisantaspase maximum SAA (Cmax) and area under the SAA-time curve (AUC) increase approximately proportionally over a dose range from 12.5 to 50 mg/m 2 . The trough SAA at 48-hour (Ctrough,48) or 72-hour (Ctrough,72) post the last dose for recombinant crisantaspase are summarised in Table 3.
+The PK of Enrylaze was determined based on SAA. Patients received 6 doses of Enrylaze at various doses intramuscularly on Monday, Wednesday and Friday or 25 mg/m 2 administered intramuscularly or intravenously on Monday and Wednesday and 50 mg/m 2 on Friday as a replacement for each dose of a long-acting E. coli -derived asparaginase remaining on their original treatment plan. Recombinant crisantaspase maximum SAA (Cmax) and area under the SAA-time curve (AUC) increase approximately proportionally over a dose range from 12.5 to 50 mg/m 2 . The trough SAA at 48-hour (Ctrough,48) or 72-hour (Ctrough,72) post the last dose for recombinant crisantaspase are summarised in Table 3.
 
 <div style=\"page-break-after: always\"></div>
 
 Table 3: Enrylaze pharmacokinetic parameters based on SAA
 
-|                    | Mean (95% CI) after last dose                             | Mean (95% CI) after last dose                             | Mean (95% CI) after last dose                           | Mean (95% CI) after last dose                           |
-|--------------------|-----------------------------------------------------------|-----------------------------------------------------------|---------------------------------------------------------|---------------------------------------------------------|
-| PK Parameter a     | 25/25/50 mg/m 2 Monday, Wednesday, Friday Intramuscularly | 25/25/50 mg/m 2 Monday, Wednesday, Friday Intramuscularly | 25/25/50 mg/m 2 Monday, Wednesday, Friday Intravenously | 25/25/50 mg/m 2 Monday, Wednesday, Friday Intravenously |
-| C trough,48 (U/mL) | N =49                                                     | 0.66 (0.54-0.77)                                          | N = 59                                                  | 0.25 (0.20-0.29)                                        |
-| C trough,72 (U/mL) | N=49                                                      | 0.47 (0.35-0.59)                                          | N =50                                                   | 0.10 (0.07-0.13)                                        |
+|                    | Mean (95% CI) after last dose             | Mean (95% CI) after last dose             | Mean (95% CI) after last dose             | Mean (95% CI) after last dose             |
+|--------------------|-------------------------------------------|-------------------------------------------|-------------------------------------------|-------------------------------------------|
+| PK Parameter a     | 25/25/50 mg/m 2 Monday, Wednesday, Friday | 25/25/50 mg/m 2 Monday, Wednesday, Friday | 25/25/50 mg/m 2 Monday, Wednesday, Friday | 25/25/50 mg/m 2 Monday, Wednesday, Friday |
+|                    | Intramuscularly                           | Intramuscularly                           | Intravenously                             | Intravenously                             |
+| C trough,48 (U/mL) | N =49                                     | 0.66 (0.54-0.77)                          | N = 59                                    | 0.25 (0.20-0.29)                          |
+| C trough,72 (U/mL) | N=49                                      | 0.47 (0.35-0.59)                          | N =50                                     | 0.10 (0.07-0.13)                          |
 
-a : Ctrough,48: Trough SAA at 48 hour post the last 25 mg/m 2 dose in cycle 1; Ctrough,72: Trough SAA at 72 hour post the last 50 mg/m 2 dose in cycle 1.
+a : Ctrough,48: Trough SAA at 48 hours post the last 25 mg/m 2 dose in cycle 1; Ctrough,72: Trough SAA at 72 hours post the last 50 mg/m 2 dose in cycle 1.
 
 ## Absorption
 
@@ -419,7 +420,7 @@ The geometric mean (%CV) half-life is 8.6 hours (13%) following intravenous admi
 
 There was no dedicated study on renal or hepatic impairment with Enrylaze.
 
-During treatment dose adjustment is not required for patients with total bilirubin ≤ 3 times the Upper Limit of Normal; there is limited data with Enrylaze in patients with total bilirubin &gt; 3 times to ≤ 10 times the ULN.
+During treatment d ose adjustment is not required for patients with total bilirubin ≤ 3 times the Upper Limit of Normal; there is limited data with Enrylaze in patients with total bilirubin &gt; 3 times to ≤ 10 times the ULN.
 
 Dose adjustment is not required for patients with pre-existing mild or moderate hepatic impairment (total bilirubin &gt; 1 to 3 times the ULN or AST &gt; than the ULN). There are insufficient data in patients with pre-existing severe hepatic impairment to support a dose recommendation.There are insufficient data in patients with mild, moderate or severe renal impairment to support a dose recommendation.
 
@@ -463,7 +464,9 @@ In the absence of compatibility studies, this medicinal product must not be mixe
 
 ## 6.3 Shelf life
 
-Unopened vial 3 years.
+Unopened vial
+
+<!-- image -->
 
 ## In-use stability data
 
@@ -534,7 +537,7 @@ EU/1/23/1747/001
 
 ## 9. DATE OF FIRST AUTHORISATION/RENEWAL OF THE AUTHORISATION
 
-Date of first authorisation:
+Date of first authorisation: 15 September 2023
 
 ## 10. DATE OF REVISION OF THE TEXT
 
@@ -646,7 +649,7 @@ Keep the vial in the outer carton in order to protect from light.
 
 Store in an upright position.
 
-## 10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
+10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
@@ -674,7 +677,7 @@ Lot
 
 ## 14. GENERAL CLASSIFICATION FOR SUPPLY
 
-15. INSTRUCTIONS ON USE
+## 15. INSTRUCTIONS ON USE
 
 ## 16. INFORMATION IN BRAILLE
 
@@ -693,18 +696,17 @@ PC SN NN
 
 <div style=\"page-break-after: always\"></div>
 
-| MINIMUM PARTICULARS TO APPEAR ONSMALLIMMEDIATE PACKAGING UNITS   |
-|------------------------------------------------------------------|
-| VIAL                                                             |
+| MINIMUM PARTICULARS TO APPEAR ON SMALL IMMEDIATE PACKAGING UNITS   |
+|--------------------------------------------------------------------|
+| VIAL                                                               |
 
-1.
-
-NAME OF THE MEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION
+| 1.   | NAME OF THE MEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION   |
+|------|----------------------------------------------------------------|
 
 Enrylaze 10 mg/ 0.5 mL injection/infusion recombinant crisantaspase IV or IM IV/IM
 
-| 2.   | METHODOFADMINISTRATION   |
-|------|--------------------------|
+| 2.   | METHOD OF ADMINISTRATION   |
+|------|----------------------------|
 
 | 3.   | EXPIRY DATE   |
 |------|---------------|
@@ -716,8 +718,8 @@ EXP
 
 Lot
 
-| 5.   | CONTENTS BY WEIGHT,BYVOLUMEORBYUNIT   |
-|------|---------------------------------------|
+| 5.   | CONTENTS BY WEIGHT, BY VOLUME OR BY UNIT   |
+|------|--------------------------------------------|
 
 | 6.   | OTHER   |
 |------|---------|
@@ -893,15 +895,15 @@ Very common side effects (may affect more than 1 in 10 people):
 - blood poisoning (sepsis)
 - sudden, severe allergic reaction with breathing difficulty, swelling, lightheadedness, fast heartbeat, sweating and loss of consciousness (anaphylactic reaction)
 - skin rash characterized with flat, discolored patches (macules) and raised, reddened bumps (papules) (rash maculo-papular)
-- skin rash with redness and inflamation (rash erythematous)
+- skin rash with redness and inflammation (rash erythematous)
 - hives (urticaria)
 - itchy skin (pruritus)
 - inflammation of the pancreas (pancreatitis)
 - injection site pain
 - injection site reaction
 - infusion related reactions
-- abnormal blood clotting factor levels (prolonged activated partial thromboplastin time,
-- decreased antithrombin III, decreased blood fibrinogen)
+- •
+- abnormal blood clotting factor levels (prolonged activated partial thromboplastin time, decreased antithrombin III, decreased blood fibrinogen)
 - abnormal kidney function (increased blood creatinine)
 - low blood sugar levels (hypoglycaemia)
 - low blood pressure (hypotension)

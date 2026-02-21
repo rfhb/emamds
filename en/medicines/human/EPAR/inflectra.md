@@ -1,20 +1,20 @@
 ---
-document_datetime: 2025-12-29 12:47:52
+document_datetime: 2026-02-17 13:49:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/inflectra.html
 document_name: inflectra.html
 version: success
-processing_time: 0.1158142
-conversion_datetime: 2025-12-30 00:25:50.233525
+processing_time: 0.272134
+conversion_datetime: 2026-02-21 12:07:47.654467
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.66.0
-  docling-core: 2.57.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.13.0
+  docling-jobkit: 1.11.0
+  docling: 2.74.0
+  docling-core: 2.65.1
+  docling-ibm-models: 3.11.0
+  docling-parse: 5.3.2
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.3-arm64-arm-64bit-Mach-O
 ---
 # Inflectra
 
@@ -25,8 +25,6 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 infliximab Medicine Human Authorised
-
-On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -128,7 +126,7 @@ English (EN) (86.09 KB - PDF)
 
 [View](/en/documents/overview/inflectra-epar-summary-public_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-968)
+[Other languages (22)](#file-language-dropdown-761)
 
 български (BG) (117.17 KB - PDF)
 
@@ -396,9 +394,11 @@ svenska (SV) (85.94 KB - PDF)
 
 Inflectra : EPAR - Risk management plan
 
-English (EN) (1.26 MB - PDF)
+English (EN) (1.32 MB - PDF)
 
 **First published:** 17/09/2024
+
+**Last updated:** 17/02/2026
 
 [View](/en/documents/rmp/inflectra-epar-risk-management-plan_en.pdf)
 
@@ -414,7 +414,7 @@ English (EN) (1.02 MB - PDF)
 
 [View](/en/documents/product-information/inflectra-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-242)
+[Other languages (24)](#file-language-dropdown-549)
 
 български (BG) (404.39 KB - PDF)
 
@@ -704,7 +704,7 @@ svenska (SV) (350.32 KB - PDF)
 
 [View](/sv/documents/product-information/inflectra-epar-product-information_sv.pdf)
 
-**Latest procedure affecting product information:** VR/0000294606 10/09/2025
+**Latest procedure affecting product information:** VR/0000323223 16/02/2026
 
 icon globe
 
@@ -730,7 +730,7 @@ English (EN) (15.88 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/inflectra-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-737)
+[Other languages (24)](#file-language-dropdown-782)
 
 български (BG) (36.4 KB - PDF)
 
@@ -1100,7 +1100,7 @@ Pfizer Europe MA EEIG
 
 Boulevard de la Plaine 17
 
-Opinion adopted 27/06/2013 Marketing authorisation issued 10/09/2013 Revision 33
+Opinion adopted 27/06/2013 Marketing authorisation issued 10/09/2013 Revision 34
 
 ## Assessment history
 
@@ -1112,11 +1112,11 @@ Collapse section
 
 Inflectra : EPAR - Procedural steps taken and scientific information after authorisation
 
-English (EN) (148.24 KB - PDF)
+English (EN) (153.32 KB - PDF)
 
 **First published:** 27/05/2025
 
-**Last updated:** 10/09/2025
+**Last updated:** 17/02/2026
 
 [View](/en/documents/procedural-steps-after/inflectra-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf)
 
@@ -1173,7 +1173,7 @@ English (EN) (81.9 KB - PDF)
 - [Biosimilars](https://www.ema.europa.eu/en/search?f%5B0%5D=ema_search_topics%3A45)
 - [Medicines](https://www.ema.europa.eu/en/search?f%5B0%5D=ema_search_topics%3A61)
 
-**This page was last updated on** 10/09/2025
+**This page was last updated on** 17/02/2026
 
 ## Share this page
 

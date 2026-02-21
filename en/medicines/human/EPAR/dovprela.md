@@ -1,20 +1,20 @@
 ---
-document_datetime: 2025-12-29 10:45:40
+document_datetime: 2026-02-19 17:00:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/dovprela.html
 document_name: dovprela.html
 version: success
-processing_time: 0.111945
-conversion_datetime: 2025-12-31 01:17:38.608117
+processing_time: 0.1040048
+conversion_datetime: 2026-02-21 12:45:33.454489
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.66.0
-  docling-core: 2.57.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.13.0
+  docling-jobkit: 1.11.0
+  docling: 2.74.0
+  docling-core: 2.65.1
+  docling-ibm-models: 3.11.0
+  docling-parse: 5.3.2
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.3-arm64-arm-64bit-Mach-O
 ---
 # Dovprela (previously Pretomanid FGK)
 
@@ -25,8 +25,6 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 pretomanid Medicine Human Authorised
-
-On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -47,18 +45,14 @@ Page contents
 
 ## Overview
 
-Dovprela 1 is a medicine for treating adults with drug-resistant tuberculosis. It is used to treat tuberculosis that is:
+Dovprela is an antibiotic for treating adults with drug-resistant tuberculosis. It is used together with:
 
-- extensively drug-resistant (resistant to at least 4 antibiotics used for treating tuberculosis, including the standard antibiotics isoniazid and rifampicin);
-- multi-drug resistant (resistant to isoniazid and rifampicin) and when antibiotics used for this form of tuberculosis do not work or cause unacceptable side effects.
+- bedaquiline (another tuberculosis medicine), linezolid and moxifloxacin (other antibiotics) to treat tuberculosis that is resistant to the antibiotic rifampicin, with or without resistance to isoniazid (another antibiotic);
+- bedaquiline and linezolid to treat tuberculosis that is resistant to rifampicin and a fluoroquinolone antibiotic, with or without resistance to isoniazid;
 
-Dovprela is used together with bedaquiline and linezolid.
-
-Tuberculosis is rare in the EU, and Dovprela was designated an 'orphan medicine' (a medicine used in rare diseases) on 29 November 2007. Further information on the orphan designation can be found on the EMA website: [ema.europa.eu/medicines/human/orphan-designations/eu 307513](https://www.ema.europa.eu/en/medicines/human/orphan-designations/eu307513) .
+Tuberculosis is rare in the EU, and Dovprela was designated an 'orphan medicine' (a medicine used in rare diseases) on 29 November 2007.
 
 Dovprela contains the active substance pretomanid.
-
-1 Previously known as Pretomanid FGK
 
 Expand section
 
@@ -66,9 +60,9 @@ Collapse section
 
 ## How is Dovprela used?
 
-The medicine can only be obtained with a prescription. Treatment should be started and monitored by a doctor experienced in managing multi-drug resistant (MDR) tuberculosis.
+The medicine can only be obtained with a prescription and prescribers should take into account official guidance on the use of antibiotics. Treatment should be started and monitored by a doctor experienced in managing drug-resistant tuberculosis.
 
-Dovprela is available as tablets to be taken with food once daily for 6 months, or longer if necessary. It is taken in combination with bedaquiline and linezolid.
+Dovprela is available as tablets to be taken with food once daily for 26 weeks. When taken in combination with bedaquiline and linezolid (without moxifloxacin), treatment can be extended to a total of 39 weeks, if necessary.
 
 For more information about using Dovprela, see the package leaflet or contact your doctor or pharmacist.
 
@@ -78,25 +72,33 @@ The way the active substance in Dovprela works is not fully understood. It is th
 
 ## What benefits of Dovprela have been shown in studies?
 
-A main study showed that Dovprela taken with bedaquiline and linezolid for 6 months is effective at clearing the bacteria causing tuberculosis in patients with either extensively drug-resistant tuberculosis or MDR tuberculosis when other treatments did not work or cause too many side effects.
+A main study showed that Dovprela taken with bedaquiline and linezolid for 6 months is effective at clearing the bacteria that cause tuberculosis in patients with either extensively drug-resistant tuberculosis or multidrug-resistant (MDR) tuberculosis when other treatments did not work or caused too many side effects.
+
+At the time of the study, extensively drug-resistant tuberculosis was defined as tuberculosis caused by bacteria that are resistant to isoniazid, rifampicin, a fluoroquinolone and an injectable aminoglycoside (another class of antibiotics). MDR tuberculosis was defined as being caused by bacteria resistant to isoniazid and rifampicin.
 
 In this study, 90% of patients with extensively drug-resistant tuberculosis (63 out of 70) and 95% of patients with MDR tuberculosis (35 out of 37) were cleared of the infection and did not get re-infected in the 6 months after the end of the treatment.
+
+A second main study showed that Dovprela taken with bedaquiline, linezolid and moxifloxacin for 6 months was at least as effective as standard treatment given for 9 to 24 months in treating people with rifampicin-resistant tuberculosis. The study looked at how many people had an unfavourable outcome (treatment stopped, treatment not working, infection returned, or patient died). In this study, 12% (16 out of 138) of people treated with Dovprela plus bedaquiline, linezolid and moxifloxacin had an unfavourable outcome compared with 41% (56 out of 137) of those receiving standard treatment.
 
 ## What are the risks associated with Dovprela?
 
 For the full list of side effects and restrictions with Dovprela, see the package leaflet.
 
-The most common side effects with Dovprela (which may affect more than 1 in 10 people) include nausea (feeling sick), vomiting and blood tests showing raised levels of liver enzymes (a sign of liver stress).
+The most common side effects with Dovprela when used together with bedaquiline and linezolid (which may affect more than 1 in 10 people) include nausea (feeling sick), vomiting and blood tests showing raised levels of liver enzymes (a sign of liver stress).
+
+The most common side effects with Dovprela when used together with bedaquiline, linezolid and moxifloxacin (which may affect more than 1 in 10 people) include increased blood levels of liver enzymes and QT prolongation (abnormal electrical activity of the heart seen on an electrocardiogram [ECG]).
 
 ## Why is Dovprela authorised in the EU?
 
-Dovprela used with bedaquiline and linezolid has been shown to be effective at treating difficult-to-treat tuberculosis. Although the number of patients included in the main study was small and the effects of the combination were not compared with those of other treatments, the European Medicines Agency considered that the high cure rate in the study, the shorter treatment duration and simplification of treatment compared to existing therapies are significant benefits. At the time of approval, treatment options were limited for these patients with difficult-to-treat, life-threatening infection.
+At the time of approval, treatment options were limited for patients with difficult-to-treat, life-threatening tuberculosis. Dovprela used with bedaquiline and linezolid was shown to be effective at treating difficult-to-treat tuberculosis. Although the number of patients included in the main study was small and the effects of the combination were not compared with those of other treatments, the European Medicines Agency considered that the high cure rate in the study, the shorter treatment duration and simplification of treatment compared to existing therapies are significant benefits.
 
-The safety profile of the combination regimen is considered acceptable and the side effects manageable, provided that close monitoring and surveillance of the patients during and after treatment are in place.
+Since the initial approval, Dovprela used with bedaquiline, linezolid and moxifloxacin for 6 months has been shown to be effective in treating rifampicin-resistant tuberculosis. In 2022, this combination was recommended by the World Health Organization as the standard treatment for rifampicin-resistant tuberculosis because it is better tolerated than the previous standard treatment and easier to follow due to its shorter treatment duration.
 
-The European Medicines Agency decided that Pretomanid FGK's benefits are greater than its risks and it can be authorised for use in the EU.
+The safety profiles of the combination regimens with Dovprela are considered acceptable and the side effects manageable, provided that close monitoring and surveillance of the patients during and after treatment are in place.
 
-Dovprela was originally given 'conditional authorisation' because there was more evidence to come about the medicine. As the company has supplied the additional information necessary, the authorisation has been switched from conditional to standard authorisation.
+The European Medicines Agency decided that Dovprela's benefits are greater than its risks and it can be authorised for use in the EU.
+
+Dovprela was originally given 'conditional authorisation'. The authorisation was then switched to standard authorisation as the company has provided additional data requested by the Agency.
 
 ## What measures are being taken to ensure the safe and effective use of Dovprela?
 
@@ -112,19 +114,19 @@ The conditional marketing authorisation was switched to a standard marketing aut
 
 Dovprela (previously Pretomanid FGK) : EPAR - Medicine overview
 
-Reference Number: EMA/536326/2023
+Reference Number: EMADOC-1829012207-38633
 
-English (EN) (161.9 KB - PDF)
+English (EN) (217.29 KB - PDF)
 
 **First published:** 11/08/2020
 
-**Last updated:** 05/04/2024
+**Last updated:** 19/02/2026
 
 [View](/en/documents/overview/dovprela-previously-pretomanid-fgk-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-59)
+[Other languages (22)](#file-language-dropdown-640)
 
-български (BG) (185.5 KB - PDF)
+български (BG) (242.34 KB - PDF)
 
 **First published:**
 
@@ -132,11 +134,11 @@ English (EN) (161.9 KB - PDF)
 
 **Last updated:**
 
-05/04/2024
+19/02/2026
 
 [View](/bg/documents/overview/dovprela-previously-pretomanid-fgk-epar-medicine-overview_bg.pdf)
 
-español (ES) (161.45 KB - PDF)
+español (ES) (215.67 KB - PDF)
 
 **First published:**
 
@@ -144,11 +146,11 @@ español (ES) (161.45 KB - PDF)
 
 **Last updated:**
 
-05/04/2024
+19/02/2026
 
 [View](/es/documents/overview/dovprela-previously-pretomanid-fgk-epar-medicine-overview_es.pdf)
 
-čeština (CS) (183.92 KB - PDF)
+čeština (CS) (241.37 KB - PDF)
 
 **First published:**
 
@@ -156,11 +158,11 @@ español (ES) (161.45 KB - PDF)
 
 **Last updated:**
 
-05/04/2024
+19/02/2026
 
 [View](/cs/documents/overview/dovprela-previously-pretomanid-fgk-epar-medicine-overview_cs.pdf)
 
-dansk (DA) (160.37 KB - PDF)
+dansk (DA) (216.51 KB - PDF)
 
 **First published:**
 
@@ -168,11 +170,11 @@ dansk (DA) (160.37 KB - PDF)
 
 **Last updated:**
 
-05/04/2024
+19/02/2026
 
 [View](/da/documents/overview/dovprela-previously-pretomanid-fgk-epar-medicine-overview_da.pdf)
 
-Deutsch (DE) (163.59 KB - PDF)
+Deutsch (DE) (220.03 KB - PDF)
 
 **First published:**
 
@@ -180,11 +182,11 @@ Deutsch (DE) (163.59 KB - PDF)
 
 **Last updated:**
 
-05/04/2024
+19/02/2026
 
 [View](/de/documents/overview/dovprela-previously-pretomanid-fgk-epar-medicine-overview_de.pdf)
 
-eesti keel (ET) (158.55 KB - PDF)
+eesti keel (ET) (212.62 KB - PDF)
 
 **First published:**
 
@@ -192,11 +194,11 @@ eesti keel (ET) (158.55 KB - PDF)
 
 **Last updated:**
 
-05/04/2024
+19/02/2026
 
 [View](/et/documents/overview/dovprela-previously-pretomanid-fgk-epar-medicine-overview_et.pdf)
 
-ελληνικά (EL) (195.36 KB - PDF)
+ελληνικά (EL) (252.73 KB - PDF)
 
 **First published:**
 
@@ -204,11 +206,11 @@ eesti keel (ET) (158.55 KB - PDF)
 
 **Last updated:**
 
-05/04/2024
+19/02/2026
 
 [View](/el/documents/overview/dovprela-previously-pretomanid-fgk-epar-medicine-overview_el.pdf)
 
-français (FR) (162.47 KB - PDF)
+français (FR) (217.71 KB - PDF)
 
 **First published:**
 
@@ -216,11 +218,11 @@ français (FR) (162.47 KB - PDF)
 
 **Last updated:**
 
-05/04/2024
+19/02/2026
 
 [View](/fr/documents/overview/dovprela-previously-pretomanid-fgk-epar-medicine-overview_fr.pdf)
 
-hrvatski (HR) (181.91 KB - PDF)
+hrvatski (HR) (236.05 KB - PDF)
 
 **First published:**
 
@@ -228,11 +230,11 @@ hrvatski (HR) (181.91 KB - PDF)
 
 **Last updated:**
 
-05/04/2024
+19/02/2026
 
 [View](/hr/documents/overview/dovprela-previously-pretomanid-fgk-epar-medicine-overview_hr.pdf)
 
-italiano (IT) (160.09 KB - PDF)
+italiano (IT) (214.86 KB - PDF)
 
 **First published:**
 
@@ -240,11 +242,11 @@ italiano (IT) (160.09 KB - PDF)
 
 **Last updated:**
 
-05/04/2024
+19/02/2026
 
 [View](/it/documents/overview/dovprela-previously-pretomanid-fgk-epar-medicine-overview_it.pdf)
 
-latviešu valoda (LV) (199.99 KB - PDF)
+latviešu valoda (LV) (254.83 KB - PDF)
 
 **First published:**
 
@@ -252,11 +254,11 @@ latviešu valoda (LV) (199.99 KB - PDF)
 
 **Last updated:**
 
-05/04/2024
+19/02/2026
 
 [View](/lv/documents/overview/dovprela-previously-pretomanid-fgk-epar-medicine-overview_lv.pdf)
 
-lietuvių kalba (LT) (183.7 KB - PDF)
+lietuvių kalba (LT) (236.92 KB - PDF)
 
 **First published:**
 
@@ -264,11 +266,11 @@ lietuvių kalba (LT) (183.7 KB - PDF)
 
 **Last updated:**
 
-05/04/2024
+19/02/2026
 
 [View](/lt/documents/overview/dovprela-previously-pretomanid-fgk-epar-medicine-overview_lt.pdf)
 
-magyar (HU) (183.15 KB - PDF)
+magyar (HU) (240.33 KB - PDF)
 
 **First published:**
 
@@ -276,11 +278,11 @@ magyar (HU) (183.15 KB - PDF)
 
 **Last updated:**
 
-05/04/2024
+19/02/2026
 
 [View](/hu/documents/overview/dovprela-previously-pretomanid-fgk-epar-medicine-overview_hu.pdf)
 
-Malti (MT) (186.48 KB - PDF)
+Malti (MT) (241.09 KB - PDF)
 
 **First published:**
 
@@ -288,11 +290,11 @@ Malti (MT) (186.48 KB - PDF)
 
 **Last updated:**
 
-05/04/2024
+19/02/2026
 
 [View](/mt/documents/overview/dovprela-previously-pretomanid-fgk-epar-medicine-overview_mt.pdf)
 
-Nederlands (NL) (160.8 KB - PDF)
+Nederlands (NL) (217.37 KB - PDF)
 
 **First published:**
 
@@ -300,11 +302,11 @@ Nederlands (NL) (160.8 KB - PDF)
 
 **Last updated:**
 
-05/04/2024
+19/02/2026
 
 [View](/nl/documents/overview/dovprela-previously-pretomanid-fgk-epar-medicine-overview_nl.pdf)
 
-polski (PL) (184.5 KB - PDF)
+polski (PL) (241.66 KB - PDF)
 
 **First published:**
 
@@ -312,11 +314,11 @@ polski (PL) (184.5 KB - PDF)
 
 **Last updated:**
 
-05/04/2024
+19/02/2026
 
 [View](/pl/documents/overview/dovprela-previously-pretomanid-fgk-epar-medicine-overview_pl.pdf)
 
-português (PT) (162.07 KB - PDF)
+português (PT) (216.11 KB - PDF)
 
 **First published:**
 
@@ -324,11 +326,11 @@ português (PT) (162.07 KB - PDF)
 
 **Last updated:**
 
-05/04/2024
+19/02/2026
 
 [View](/pt/documents/overview/dovprela-previously-pretomanid-fgk-epar-medicine-overview_pt.pdf)
 
-română (RO) (181.34 KB - PDF)
+română (RO) (236.49 KB - PDF)
 
 **First published:**
 
@@ -336,11 +338,11 @@ română (RO) (181.34 KB - PDF)
 
 **Last updated:**
 
-05/04/2024
+19/02/2026
 
 [View](/ro/documents/overview/dovprela-previously-pretomanid-fgk-epar-medicine-overview_ro.pdf)
 
-slovenčina (SK) (183.48 KB - PDF)
+slovenčina (SK) (239.8 KB - PDF)
 
 **First published:**
 
@@ -348,11 +350,11 @@ slovenčina (SK) (183.48 KB - PDF)
 
 **Last updated:**
 
-05/04/2024
+19/02/2026
 
 [View](/sk/documents/overview/dovprela-previously-pretomanid-fgk-epar-medicine-overview_sk.pdf)
 
-slovenščina (SL) (180.63 KB - PDF)
+slovenščina (SL) (236.01 KB - PDF)
 
 **First published:**
 
@@ -360,11 +362,11 @@ slovenščina (SL) (180.63 KB - PDF)
 
 **Last updated:**
 
-05/04/2024
+19/02/2026
 
 [View](/sl/documents/overview/dovprela-previously-pretomanid-fgk-epar-medicine-overview_sl.pdf)
 
-Suomi (FI) (158.71 KB - PDF)
+Suomi (FI) (212.86 KB - PDF)
 
 **First published:**
 
@@ -372,11 +374,11 @@ Suomi (FI) (158.71 KB - PDF)
 
 **Last updated:**
 
-05/04/2024
+19/02/2026
 
 [View](/fi/documents/overview/dovprela-previously-pretomanid-fgk-epar-medicine-overview_fi.pdf)
 
-svenska (SV) (159.9 KB - PDF)
+svenska (SV) (214.19 KB - PDF)
 
 **First published:**
 
@@ -384,7 +386,7 @@ svenska (SV) (159.9 KB - PDF)
 
 **Last updated:**
 
-05/04/2024
+19/02/2026
 
 [View](/sv/documents/overview/dovprela-previously-pretomanid-fgk-epar-medicine-overview_sv.pdf)
 
@@ -402,17 +404,17 @@ English (EN) (539.16 KB - PDF)
 
 Dovprela : EPAR - Product information
 
-English (EN) (394.51 KB - PDF)
+English (EN) (403.58 KB - PDF)
 
 **First published:** 11/08/2020
 
-**Last updated:** 04/09/2024
+**Last updated:** 19/02/2026
 
 [View](/en/documents/product-information/dovprela-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-59)
+[Other languages (24)](#file-language-dropdown-289)
 
-български (BG) (514.2 KB - PDF)
+български (BG) (361.93 KB - PDF)
 
 **First published:**
 
@@ -420,11 +422,11 @@ English (EN) (394.51 KB - PDF)
 
 **Last updated:**
 
-04/09/2024
+19/02/2026
 
 [View](/bg/documents/product-information/dovprela-epar-product-information_bg.pdf)
 
-español (ES) (435.99 KB - PDF)
+español (ES) (494.8 KB - PDF)
 
 **First published:**
 
@@ -432,11 +434,11 @@ español (ES) (435.99 KB - PDF)
 
 **Last updated:**
 
-04/09/2024
+19/02/2026
 
 [View](/es/documents/product-information/dovprela-epar-product-information_es.pdf)
 
-čeština (CS) (510.57 KB - PDF)
+čeština (CS) (491.1 KB - PDF)
 
 **First published:**
 
@@ -444,11 +446,11 @@ español (ES) (435.99 KB - PDF)
 
 **Last updated:**
 
-04/09/2024
+19/02/2026
 
 [View](/cs/documents/product-information/dovprela-epar-product-information_cs.pdf)
 
-dansk (DA) (472.91 KB - PDF)
+dansk (DA) (285.38 KB - PDF)
 
 **First published:**
 
@@ -456,11 +458,11 @@ dansk (DA) (472.91 KB - PDF)
 
 **Last updated:**
 
-04/09/2024
+19/02/2026
 
 [View](/da/documents/product-information/dovprela-epar-product-information_da.pdf)
 
-Deutsch (DE) (460.48 KB - PDF)
+Deutsch (DE) (286.77 KB - PDF)
 
 **First published:**
 
@@ -468,11 +470,11 @@ Deutsch (DE) (460.48 KB - PDF)
 
 **Last updated:**
 
-04/09/2024
+19/02/2026
 
 [View](/de/documents/product-information/dovprela-epar-product-information_de.pdf)
 
-eesti keel (ET) (463.07 KB - PDF)
+eesti keel (ET) (475.4 KB - PDF)
 
 **First published:**
 
@@ -480,11 +482,11 @@ eesti keel (ET) (463.07 KB - PDF)
 
 **Last updated:**
 
-04/09/2024
+19/02/2026
 
 [View](/et/documents/product-information/dovprela-epar-product-information_et.pdf)
 
-ελληνικά (EL) (652.74 KB - PDF)
+ελληνικά (EL) (574.28 KB - PDF)
 
 **First published:**
 
@@ -492,11 +494,11 @@ eesti keel (ET) (463.07 KB - PDF)
 
 **Last updated:**
 
-04/09/2024
+19/02/2026
 
 [View](/el/documents/product-information/dovprela-epar-product-information_el.pdf)
 
-français (FR) (435.45 KB - PDF)
+français (FR) (261.07 KB - PDF)
 
 **First published:**
 
@@ -504,11 +506,11 @@ français (FR) (435.45 KB - PDF)
 
 **Last updated:**
 
-04/09/2024
+19/02/2026
 
 [View](/fr/documents/product-information/dovprela-epar-product-information_fr.pdf)
 
-hrvatski (HR) (480.29 KB - PDF)
+hrvatski (HR) (505.94 KB - PDF)
 
 **First published:**
 
@@ -516,11 +518,11 @@ hrvatski (HR) (480.29 KB - PDF)
 
 **Last updated:**
 
-04/09/2024
+19/02/2026
 
 [View](/hr/documents/product-information/dovprela-epar-product-information_hr.pdf)
 
-íslenska (IS) (235 KB - PDF)
+íslenska (IS) (488.69 KB - PDF)
 
 **First published:**
 
@@ -528,11 +530,11 @@ hrvatski (HR) (480.29 KB - PDF)
 
 **Last updated:**
 
-04/09/2024
+19/02/2026
 
 [View](/is/documents/product-information/dovprela-epar-product-information_is.pdf)
 
-italiano (IT) (484.5 KB - PDF)
+italiano (IT) (517.06 KB - PDF)
 
 **First published:**
 
@@ -540,11 +542,11 @@ italiano (IT) (484.5 KB - PDF)
 
 **Last updated:**
 
-04/09/2024
+19/02/2026
 
 [View](/it/documents/product-information/dovprela-epar-product-information_it.pdf)
 
-latviešu valoda (LV) (471.79 KB - PDF)
+latviešu valoda (LV) (498.35 KB - PDF)
 
 **First published:**
 
@@ -552,11 +554,11 @@ latviešu valoda (LV) (471.79 KB - PDF)
 
 **Last updated:**
 
-04/09/2024
+19/02/2026
 
 [View](/lv/documents/product-information/dovprela-epar-product-information_lv.pdf)
 
-lietuvių kalba (LT) (475.74 KB - PDF)
+lietuvių kalba (LT) (520.67 KB - PDF)
 
 **First published:**
 
@@ -564,11 +566,11 @@ lietuvių kalba (LT) (475.74 KB - PDF)
 
 **Last updated:**
 
-04/09/2024
+19/02/2026
 
 [View](/lt/documents/product-information/dovprela-epar-product-information_lt.pdf)
 
-magyar (HU) (522.83 KB - PDF)
+magyar (HU) (537.75 KB - PDF)
 
 **First published:**
 
@@ -576,11 +578,11 @@ magyar (HU) (522.83 KB - PDF)
 
 **Last updated:**
 
-04/09/2024
+19/02/2026
 
 [View](/hu/documents/product-information/dovprela-epar-product-information_hu.pdf)
 
-Malti (MT) (468.96 KB - PDF)
+Malti (MT) (535.63 KB - PDF)
 
 **First published:**
 
@@ -588,11 +590,11 @@ Malti (MT) (468.96 KB - PDF)
 
 **Last updated:**
 
-04/09/2024
+19/02/2026
 
 [View](/mt/documents/product-information/dovprela-epar-product-information_mt.pdf)
 
-Nederlands (NL) (450.93 KB - PDF)
+Nederlands (NL) (473.9 KB - PDF)
 
 **First published:**
 
@@ -600,11 +602,11 @@ Nederlands (NL) (450.93 KB - PDF)
 
 **Last updated:**
 
-04/09/2024
+19/02/2026
 
 [View](/nl/documents/product-information/dovprela-epar-product-information_nl.pdf)
 
-norsk (NO) (428.67 KB - PDF)
+norsk (NO) (233.24 KB - PDF)
 
 **First published:**
 
@@ -612,11 +614,11 @@ norsk (NO) (428.67 KB - PDF)
 
 **Last updated:**
 
-04/09/2024
+19/02/2026
 
 [View](/no/documents/product-information/dovprela-epar-product-information_no.pdf)
 
-polski (PL) (516.27 KB - PDF)
+polski (PL) (448.84 KB - PDF)
 
 **First published:**
 
@@ -624,11 +626,11 @@ polski (PL) (516.27 KB - PDF)
 
 **Last updated:**
 
-04/09/2024
+19/02/2026
 
 [View](/pl/documents/product-information/dovprela-epar-product-information_pl.pdf)
 
-português (PT) (455.3 KB - PDF)
+português (PT) (478.95 KB - PDF)
 
 **First published:**
 
@@ -636,11 +638,11 @@ português (PT) (455.3 KB - PDF)
 
 **Last updated:**
 
-04/09/2024
+19/02/2026
 
 [View](/pt/documents/product-information/dovprela-epar-product-information_pt.pdf)
 
-română (RO) (494.1 KB - PDF)
+română (RO) (524.54 KB - PDF)
 
 **First published:**
 
@@ -648,11 +650,11 @@ română (RO) (494.1 KB - PDF)
 
 **Last updated:**
 
-04/09/2024
+19/02/2026
 
 [View](/ro/documents/product-information/dovprela-epar-product-information_ro.pdf)
 
-slovenčina (SK) (480.47 KB - PDF)
+slovenčina (SK) (530.28 KB - PDF)
 
 **First published:**
 
@@ -660,11 +662,11 @@ slovenčina (SK) (480.47 KB - PDF)
 
 **Last updated:**
 
-04/09/2024
+19/02/2026
 
 [View](/sk/documents/product-information/dovprela-epar-product-information_sk.pdf)
 
-slovenščina (SL) (461.46 KB - PDF)
+slovenščina (SL) (522.85 KB - PDF)
 
 **First published:**
 
@@ -672,11 +674,11 @@ slovenščina (SL) (461.46 KB - PDF)
 
 **Last updated:**
 
-04/09/2024
+19/02/2026
 
 [View](/sl/documents/product-information/dovprela-epar-product-information_sl.pdf)
 
-Suomi (FI) (487.72 KB - PDF)
+Suomi (FI) (496.66 KB - PDF)
 
 **First published:**
 
@@ -684,11 +686,11 @@ Suomi (FI) (487.72 KB - PDF)
 
 **Last updated:**
 
-04/09/2024
+19/02/2026
 
 [View](/fi/documents/product-information/dovprela-epar-product-information_fi.pdf)
 
-svenska (SV) (439.83 KB - PDF)
+svenska (SV) (365.36 KB - PDF)
 
 **First published:**
 
@@ -696,11 +698,11 @@ svenska (SV) (439.83 KB - PDF)
 
 **Last updated:**
 
-04/09/2024
+19/02/2026
 
 [View](/sv/documents/product-information/dovprela-epar-product-information_sv.pdf)
 
-**Latest procedure affecting product information:** IA/0021 03/09/2024
+**Latest procedure affecting product information:** VR/0000258124 19/01/2026
 
 icon globe
 
@@ -726,7 +728,7 @@ English (EN) (10.17 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/dovprela-previously-pretomanid-fgk-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-568)
+[Other languages (24)](#file-language-dropdown-55)
 
 български (BG) (44.33 KB - PDF)
 
@@ -1048,7 +1050,7 @@ Mylan IRE Healthcare Limited
 
 Mylan IRE Healthcare Limited
 
-Opinion adopted 26/03/2020 Marketing authorisation issued 31/07/2020 Revision 11
+Opinion adopted 26/03/2020 Marketing authorisation issued 31/07/2020 Revision 12
 
 ## Assessment history
 
@@ -1060,15 +1062,39 @@ Collapse section
 
 Dovprela : EPAR - Procedural steps taken and scientific information after authorisation
 
-English (EN) (132.19 KB - PDF)
+English (EN) (150.78 KB - PDF)
 
 **First published:** 09/02/2021
 
-**Last updated:** 04/09/2024
+**Last updated:** 19/02/2026
 
 [View](/en/documents/procedural-steps-after/dovprela-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf)
 
-Dovprela-H-C-005167-II-0013 : EPAR - Assessment report
+Dovprela-VR-0000258124 : EPAR - Assessment report - Variation
+
+Adopted
+
+Reference Number: EMADOC-1700519818-2703796
+
+English (EN) (2.01 MB - PDF)
+
+**First published:** 19/02/2026
+
+[View](/en/documents/variation-report/dovprela-vr-0000258124-epar-assessment-report-variation_en.pdf)
+
+CHMP post-authorisation summary of positive opinion for Dovprela (VR-0000258124)
+
+Adopted
+
+Reference Number: EMADOC-1700519818-2699355
+
+English (EN) (177.13 KB - PDF)
+
+**First published:** 12/12/2025
+
+[View](/en/documents/smop/chmp-post-authorisation-summary-positive-opinion-dovprela-vr-0000258124_en.pdf)
+
+Dovprela-H-C-005167-II-0013 : EPAR - Assessment report - Variation
 
 Adopted
 
@@ -1078,7 +1104,7 @@ English (EN) (1.68 MB - PDF)
 
 **First published:** 01/12/2023
 
-[View](/en/documents/variation-report/dovprela-h-c-005167-ii-0013-epar-assessment-report_en.pdf)
+[View](/en/documents/variation-report/dovprela-h-c-005167-ii-0013-epar-assessment-report-variation_en.pdf)
 
 ## Initial marketing authorisation documents
 
@@ -1128,14 +1154,13 @@ English (EN) (163.31 KB - PDF)
 
 - [EU/3/07/513 - orphan designation for treatment of tuberculosis](/en/medicines/human/orphan-designations/eu-3-07-513)
 - [EMEA-002115-PIP01-17-M06 - paediatric investigation plan](/en/medicines/human/paediatric-investigation-plans/emea-002115-pip01-17-m06)
-- [Dovprela (previously Pretomanid FGK) - opinion on variation to marketing authorisation](/en/medicines/human/variation/dovprela-previously-pretomanid-fgk)
 
 #### Topics
 
 - [Medicines](https://www.ema.europa.eu/en/search?f%5B0%5D=ema_search_topics%3A61)
 - [Rare diseases](https://www.ema.europa.eu/en/search?f%5B0%5D=ema_search_topics%3A64)
 
-**This page was last updated on** 04/09/2024
+**This page was last updated on** 19/02/2026
 
 ## Share this page
 

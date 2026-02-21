@@ -1,20 +1,20 @@
 ---
-document_datetime: 2025-11-27 08:54:57
+document_datetime: 2026-02-18 09:24:39
 document_pages: 46
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/cejemly-epar-product-information_en.pdf
 document_name: cejemly-epar-product-information_en.pdf
 version: success
-processing_time: 15.7472179
-conversion_datetime: 2025-12-20 09:22:34.769393
+processing_time: 15.8927365
+conversion_datetime: 2026-02-21 12:13:56.271327
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.64.1
-  docling-core: 2.55.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.13.0
+  docling-jobkit: 1.11.0
+  docling: 2.74.0
+  docling-core: 2.65.1
+  docling-ibm-models: 3.11.0
+  docling-parse: 5.3.2
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.3-arm64-arm-64bit-Mach-O
 ---
 ## ANNEX I
 
@@ -426,7 +426,9 @@ Data for the following immune-related adverse reactions are based on information
 
 ## Immune-related hypothyroidism
 
-Immune-related hypothyroidism was reported in 14.3 % of patients treated with sugemalimab in combination with chemotherapy. The majority of events were Grade 1 or 2 in severity reported in 9.2% and 4.8% of patients, respectively. Grade 3 hypothyroidism was reported in 0.2% of patients. No serious hypothyroidism was reported. Events led to treatment interruption and discontinuation were reported in 0.9% and 0.2% of patients, respectively. The median time to onset was 112 days (range: 16 to 607 days), and the median duration was 83 days (range: 1 + to 857 + days).
+Immune-related hypothyroidism was reported in 14.3 % of patients treated with sugemalimab in combination with chemotherapy. The majority of events were Grade 1 or 2 in severity reported in 9.2% and 4.8% of patients, respectively. Grade 3 hypothyroidism was reported in 0.2% of patients. No serious hypothyroidism was reported. Events led to treatment interruption and discontinuation were reported in 0.9% and 0.2% of patients, respectively. The median time to onset was 112 days (range: 16 + +
+
+to 607 days), and the median duration was 83 days (range: 1 to 857 days).
 
 Immune-related hypothyroidism was reported in 16.7 % of patients treated with sugemalimab monotherapy. The majority of events were Grade 1 or 2 in severity reported in 10.9 % and 5.1 % of patients, respectively. Grade 3 hypothyroidism was reported in 0.7 % of patients. No serious hypothyroidism was reported. Events led to treatment interruption and discontinuation were reported in 1.6 % and 0.2% of patients, respectively . The median time to onset was 92 days (range: 20 to 683 days), and the median duration was 125 days (range: 2 + to 979 + days).
 
@@ -444,7 +446,7 @@ Immunerelated thyroiditis was reported in 0.5% of patients treated with sugemali
 
 ## Diabetes mellitus
 
-Immunerelated diabetes mellitus was reported in 2.8% of patients treated with sugemalimab in combination with chemotherapy. The majority of events were Grade 1 in severity reported in 2.3% of patients. Grade 2 and Grade 3 events were reported in 0.2% of patients, respectively. There were no serious events, or events led to treatment interruption or discontinuation. The median time to onset was 154 days (range: 43 to 635 days), and the median duration was 41 days (range: 2 to 307 + days). Immune-related diabetes mellitus was reported in 2.3 % of patients treated with sugemalimab monotherapy. The majority of events were Grade 1 and 2 in severity reported in 1.8 % and 0.4% of patients, respectively. Grade 3 events were reported in 0.2% of patients. There were no serious events, or events led to treatment interruption or discontinuation. The median time to onset was 101 days (range: 20 to 454 days), and the median duration was 43 days (range: 1 to 911 + days).
+Immune-related diabetes mellitus was reported in 2.8% of patients treated with sugemalimab in combination with chemotherapy. The majority of events were Grade 1 in severity reported in 2.3% of patients. Grade 2 and Grade 3 events were reported in 0.2% of patients, respectively. There were no serious events, or events led to treatment interruption or discontinuation. The median time to onset was 154 days (range: 43 to 635 days), and the median duration was 41 days (range: 2 to 307 + days). Immune-related diabetes mellitus was reported in 2.3 % of patients treated with sugemalimab monotherapy. The majority of events were Grade 1 and 2 in severity reported in 1.8 % and 0.4% of patients, respectively. Grade 3 events were reported in 0.2% of patients. There were no serious events, or events led to treatment interruption or discontinuation. The median time to onset was 101 days (range: 20 to 454 days), and the median duration was 43 days (range: 1 to 911 + days).
 
 ## Immune-related hypophysitis
 
@@ -472,7 +474,7 @@ Immune-related severe skin adverse reaction was reported in 1.1 % of patients tr
 
 ## Immune-related hepatitis
 
-Immunerelated hepatitis was reported in 9.7% of patients treated with sugemalimab in combination with chemotherapy. Grade 1, 2, 3 and 4 events were reported in 5.7%, 1.4%, 2.3% and 0.2% of patients, respectively. Serious events were reported in 2.5% of patients. Events leading to treatment interruption and discontinuation were reported in 2.3% and 1.6% of patients, respectively. The median time to onset was 53 days (range: 1 to 717 days), and the median duration was 25 days (range: 2 to 777 + days).
+Immune-related hepatitis was reported in 9.7% of patients treated with sugemalimab in combination with chemotherapy. Grade 1, 2, 3 and 4 events were reported in 5.7%, 1.4%, 2.3% and 0.2% of patients, respectively. Serious events were reported in 2.5% of patients. Events leading to treatment interruption and discontinuation were reported in 2.3% and 1.6% of patients, respectively. The median time to onset was 53 days (range: 1 to 717 days), and the median duration was 25 days (range: 2 to 777 + days).
 
 Immune-related hepatitis was reported in 8.1 % of patients treated with sugemalimab monotherapy.Grade 3,4 and 5 events were reported in 0.7%, 0.2%, and 0.2% of patients. Serious events were reported in 0.7% of patients. Events leading to treatment interruption and discontinuation were reported in 0.9% and 0.4% of patients, respectively. The median time to onset was 86.5 days (range: 20 to 509 days), and the median duration was 31 days (range: 5 to 470 + days).
 
@@ -490,7 +492,7 @@ Immunerelated pneumonitis was reported in 3.0% of patients treated with sugemali
 
 Immune-related pneumonitis was reported in 9.3 % of patients treated with sugemalimab monotherapy. Grade 1, 2, 3, 4 and 5 events were reported in 1.8 %, 6.0 %, 0.9%, 0.4 % and 0.4 % of patients, respectively. Serious events were reported in 4.8 % of patients. Events leading to treatment interruption and discontinuation were reported in 4.0 % and 3.0 % of patients , respectively. The median time to onset was 63 days (range: 1 to 490 days), and the median duration was 556 days (range: 2 to 845 + days).
 
-Immune-related pneumonitis occurred more frequently in patients in the Study GEMSTONE-301 who had  completed  treatment with concurrent  or  sequential  chemoradiation  within  1  to  42 days  prior  to initiation of study treatment (21.6%), than in the other patients in the monotherapy (1.3%).
+Immune-related pneumonitis occurred more frequently in patients in the Study GEMSTONE-301 who had completed treatment  with concurrent or sequential  chemoradiation  within  1  to  42 days  prior  to initiation of study treatment (21.6%), than in the other patients in the monotherapy (1.3%).
 
 In Study GEMSTONE-301 (n=255 in the sugemalimab group), immune- related pneumonitis occurred in 55 (21.6%) patients . Grade 1, 2, 3,4 and 5 events were reported in 3.1%, 14.9%, 2.4%, 0.8% and 0.4% of patients, respectively. Serious events were reported in 12.5% of patients. Events leading to treatment interruption  and  discontinuation  were  reported  in  8.6 % and  8.2 %  of  patients ,  respectively. The median time  to  onset  was  63 days  (range:  1  to  784 days),  and  the  median duration  was  not estimable (range: 9 to 1601 days).
 
@@ -586,7 +588,7 @@ There have been cases of the following adverse reaction(s) reported during treat
 
 ## Infusion-related reactions
 
-Infusion-related adverse reactions were reported in 4.4 % of patients treated with sugemalimab in combination with chemotherapy. Reported e vents were infusion related reaction (0.9%), anaphylactic reaction (0.7%), hyperhidrosis (0.5 % ), pyrexia (0.5%) , erythema, rash, rash maculo-papular, skin depigmentation, skin disorder, skin swelling, chills, oedema peripheral, tenderness, nausea, breath holding and throat irritation (0.2% each) , respectively.
+Infusion-related adverse reactions were reported in 4.4 % of patients treated with sugemalimab in combination with chemotherapy. Reported events were infusion related reaction (0.9%), anaphylactic reaction (0.7%), hyperhidrosis (0.5 % ), pyrexia (0.5%) , erythema, rash, rash maculo-papular, skin depigmentation, skin disorder, skin swelling, chills, oedema peripheral, tenderness, nausea, breath holding and throat irritation (0.2% each) , respectively.
 
 Infusion-related adverse reactions were reported in 3.3 % of patients treated with sugemalimab monotherapy. Reported events were pyrexia (2.5 %), infusion-related reaction (0.4 %), and chills, pain, vomiting, dizziness, erythema, and pruritus (0.2% each), respectively.
 
@@ -623,7 +625,7 @@ The primary endpoint of this study was progression-free survival (PFS) assessed 
 A total of 479 participants were randomly (2:1) assigned to receive:
 
 - for squamous NSCLC, sugemalimab 1200 mg with carboplatin AUC = 5 mg/mL/min and paclitaxel 175 mg/m 2 intravenously administered every 3 weeks for up to 4 cycles, followed by sugemalimab 1200 mg every 3 weeks
-- for non-squamous NSCLC, sugemalimab 1200 mg with carboplatin AUC = 5 mg/mL/min and pemetrexed 500 mg/m 2  intravenously administered every 3 weeks for up to 4 cycles followed by sugemalimab 1200 mg and pemetrexed 500 mg/m 2  every 3 weeks
+- for non-squamous NSCLC, sugemalimab 1200 mg with carboplatin AUC = 5 mg/mL/min and pemetrexed 500 mg/m 2 intravenously administered every 3 weeks for up to 4 cycles followed by sugemalimab 1200 mg and pemetrexed 500 mg/m 2 every 3 weeks
 
 or
 
@@ -661,25 +663,21 @@ Table 4. Efficacy results of the GEMSTONE-302 study
 | ORR n (%) (95% CI)                 | 203 (63.4%) (57.9, 68.7)                                                 | 64 (40.3%) (32.6, 48.3)                              |
 | p-value §                          | < 0.0001                                                                 |                                                      |
 
-CI = Confidence interval, ORR= Objective response rate
-
-* Investigator assessed
-
-† Hazard ratio (HR) is based on the stratified Cox model. P-value is based on the stratified log-rank test. The 3 stratification factors are ECOG performance status, PD-L1, and histology type from randomisation. See below for further explanation of histology type.
-
-§  P value based on Cochran-Mantel-Haenszel test stratified by ECOG performance status, histology type and PD-L1 from randomisation.
-
 <div style=\"page-break-after: always\"></div>
 
 Figure 1. Kaplan-Meier curve for investigator assessed progression-free survival - ITT population - study GEMSTONE-302
 
 <!-- image -->
 
-2132
+Placebo+ Chemo·  159
 
-Placebo+Chemo*159152
+152
 
-2116103
+132
+
+116
+
+103
 
 67
 
@@ -727,29 +725,87 @@ Figure 2. Kaplan-Meier curve of overall survival - ITT population - study GEMSTO
 
 <!-- image -->
 
-No.of Patients at Risk
+No. of Patients at Risk
 
-Placebo+Chemo*15915615114614413411911310510093928883807674716662595446423328211411653
+Sugemalimab+Chemo·  320313304297287277268260253247240227219213206199197190180169162157146128108  90
+
+Placebo+ Chemo•  159156151146144134119113105100 93
+
+92
+
+88
+
+83
+
+80
+
+76
+
+74
+
+71
 
 Figure 3. Forest-plot of PFS - study GEMSTONE-302
 
 <!-- image -->
 
-|                    | Sugemalimab+ Chemotherapy (N=320)   | Sugemalimab+ Chemotherapy (N=320)   | Placebo+ Chemotherapy (N=159)   | Placebo+ Chemotherapy (N=159)   |                     | Placebo+Chemotherapy   |
-|--------------------|-------------------------------------|-------------------------------------|---------------------------------|---------------------------------|---------------------|------------------------|
-| BaselineRiskFactor | Event/n                             | Median                              | Event/n                         | Median                          | Hazard Ratio(95%Cl) | better                 |
-| HistologyType      |                                     |                                     |                                 |                                 |                     |                        |
-| NSQ                | 128/191                             | 9.56                                | 78/96                           | 5.85                            | 0.59 (0.45, 0.79)   |                        |
-| SQ                 | 95/129                              | 8.31                                | 57/63                           | 4.76                            | 0.34 (0.24,0.48)    |                        |
-| PD-L1              |                                     |                                     |                                 |                                 |                     |                        |
-| <1%                | 100/124                             | 7.39                                | 57/64                           | 4.93                            | 0.56 (0.40, 0.77)   |                        |
-| >=1%               | 123/196                             | 10.87                               | 78/95                           | 4.90                            | 0.46 (0.35,0.62)    |                        |
-| >=1%and<50%        | 66/92                               | 8.80                                | 39/48                           | 4.83                            | 0.53 (0.35,0.79)    |                        |
-| >=50%              | 57/104                              | 12.91                               | 39/47                           | 5.06                            | 0.41 (0.27, 0.62)   |                        |
+|                      | Sugemalimab+ Chemotherapy (N=320)   | Sugemalimab+ Chemotherapy (N=320)   | Placebo+ Chemotherapy (N=159)   | Placebo+ Chemotherapy (N=159)   |                      | Sugemalimab+Chemotherapy   | Placebo+Chemotherapy   |
+|----------------------|-------------------------------------|-------------------------------------|---------------------------------|---------------------------------|----------------------|----------------------------|------------------------|
+| Baseline Risk Factor | Event/n                             | Median                              | Eventln                         | Median                          | Hazard Ratio(95% Cl) | better                     | better                 |
+| Histology Type       |                                     |                                     |                                 |                                 |                      |                            |                        |
+| NSQ                  | 128/191                             | 9.56                                | 78/96                           | 5.85                            | 0.59 (0.45, 0.79)    |                            |                        |
+| SQ                   | 95/129                              | 8.31                                | 57/63                           | 4.76                            | 0.34 (0.24, 0.48)    |                            |                        |
+| PD-Lt                |                                     |                                     |                                 |                                 |                      |                            |                        |
+| <1%                  | 100/124                             | 7.39                                | 57/64                           | 4.93                            | 0.56 (0.40, 0.77)    | f-----+-+---,              |                        |
+| >=1%                 | 123/196                             | 10.87                               | 78/95                           | 4.90                            | 0.46 (0.35, 0.62)    | ~                          |                        |
+| >=1% and <50%        | 66/92                               | 8.80                                | 39/48                           | 4.83                            | 0.53 (0.35, 0.79)    | ~                          |                        |
+| >=50%                | 57/104                              | 12.91                               | 39/47                           | 5.06                            | 0.41 (0.27, 0.62)    |                            |                        |
 
 Note: the subgroup analyses were not controlled for type 1 error.
 
 Subgroup analysis showed improvements in PFS with sugemalimab, regardless of histological subtype and PD-L1, expression consistent with the overall intent-to-treat (ITT) population.
+
+66
+
+62
+
+59
+
+54
+
+46
+
+42
+
+33
+
+28
+
+71
+
+21
+
+58
+
+14
+
+41
+
+11
+
+31
+
+6
+
+21
+
+5
+
+17
+
+3
+
+12
 
 5
 
@@ -809,10 +865,6 @@ The study demonstrated a statistically significant prolongation of PFS in the Su
 | Median in months (95% CI)          | 47.4 (34.3, NR)         | 32.4 (24.1, NR)     |
 | Hazard ratio (95% CI) †            | 0.78 (0.57, 1.05)       |                     |
 
-CI = Confidence interval, NR=Not Reached
-
-†  Hazard ratio (HR) is based on the stratified Cox model. The 3 stratification factors are ECOG performance score, chemoradiotherapy and total radiotherapy dose.
-
 Figure 4. Kaplan-Meier Curve of Progression-free Survival (PFS) Assessed by BICR - Intent-toTreat Analysis Set - study GEMSTONE-301
 
 <!-- image -->
@@ -854,7 +906,7 @@ Consistent with a limited extravascular distribution of monoclonal antibodies, t
 PopPK analysis estimated the geometric mean (CV%) Vss to be:
 
 - 5.56 L (21%) in Stage IV NSCLC patients (Study GEMSTONE -302).
-- 4.74 L (20%) in Stage III NSCLC patients (Study GEMSTONE -301).
+- 4.74 L (20%) in Stage III NSCLC patients (Study GEMSTONE-301).
 
 ## Biotransformation
 
@@ -936,7 +988,7 @@ Cejemly is supplied as a single-use vial and does not contain any preservatives.
 
 See SmPCs of platinum-based chemotherapy medicinal products and pemetrexed or paclitaxel for preparation.
 
-Preparation and administration of Cejemly concentrate for solution for infusion
+## Preparation and administration of Cejemly concentrate for solution for infusion
 
 - a. Do not shake the vial.
 
@@ -993,7 +1045,7 @@ WuXi Biologics Co., Ltd. 108 Meiliang Road Mashan, Binhu District Wuxi, Jiangsu 
 
 Name and address of the manufacturer responsible for batch release
 
-Manufacturing Packaging Farmaca ( MPF) B.V. Neptunus 12, 8448CN Heerenveen, Netherlands
+Sciencepharma Sp. z o.o. Ul. Chelmska 30/34, Warsaw, 00-725, Poland
 
 ## B. CONDITIONS OR RESTRICTIONS REGARDING SUPPLY AND USE
 
@@ -1044,7 +1096,7 @@ The patient card shall contain the following key elements:
 
 ## PARTICULARS TO APPEAR ON THE OUTER PACKAGING
 
-CARTON -2 VIALS
+CARTON - 2 VIALS
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
@@ -1174,16 +1226,14 @@ Keep the vial in the outer carton in order to protect from light.
 
 <div style=\"page-break-after: always\"></div>
 
-| 10.   | SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROMSUCHMEDICINAL PRODUCTS, IF APPROPRIATE   |
-|-------|---------------------------------------------------------------------------------------------------------------------------------------|
+| 10.   | SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVEDFROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE   |
+|-------|----------------------------------------------------------------------------------------------------------------------------------------|
 
-| 11.   | NAMEANDADDRESS OF THE MARKETING AUTHORISATION HOLDER   |
-|-------|--------------------------------------------------------|
+## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
 CStone Pharmaceuticals Ireland Limited
 
-| 12. MARKETING AUTHORISATION NUMBER(S)   |
-|-----------------------------------------|
+## 12. MARKETING AUTHORISATION NUMBER(S)
 
 EU/1/24/1833/001
 
@@ -1192,14 +1242,9 @@ EU/1/24/1833/001
 
 Lot
 
-| 14.   | GENERAL CLASSIFICATION FOR SUPPLY   |
-|-------|-------------------------------------|
-
-| 15.   | INSTRUCTIONS ON USE   |
-|-------|-----------------------|
-
-| 16.   | INFORMATION IN BRAILLE   |
-|-------|--------------------------|
+14. GENERAL CLASSIFICATION FOR SUPPLY
+15. INSTRUCTIONS ON USE
+16. INFORMATION IN BRAILLE
 
 Justification for not including Braille accepted.
 
@@ -1449,19 +1494,25 @@ CStone Pharmaceuticals Ireland Limited 117-126 Sheriff Street Upper Dublin 1, D0
 
 ## Manufacturer
 
-Manufacturing Packaging Farmaca (MPF) B.V. Neptunus 12 8448CN Heerenveen Netherlands
+Sciencepharma Sp. z o.o. Ul. Chelmska 30/34 Warsaw, 00-725 Poland
 
 <div style=\"page-break-after: always\"></div>
 
 For any information about this medicine, please contact the local representative of the Marketing Authorisation Holder:
 
-AT / BE / CY / DE / DK / EL / ES / FI / FR / IE / IS / IT / LU / MT / NL / NO / PT / SE
+AT / CY / DK / EL / FI / FR / IE / IS / LU / MT / NO / PT / SE
 
 CStone Pharmaceuticals Ireland Limited
 
 Ireland
 
-Tel: +353 1 437 0580
+Tel: +353 1 575 9239
+
+## België/Belgique/Belgien
+
+Gentili Pharma B.V.
+
+Tél/Tel: +32 16 891 600
 
 ## Lietuva
 
@@ -1469,11 +1520,35 @@ Ewopharma UAB
 
 Tel.: +370 5248 7350
 
+## България
+
+Евофарма ЕООД
+
+Teл.: + 359 2 962 12 00
+
 ## Česká republika
 
 Ewopharma, spol. s r. o.
 
 Tel: + 420 2 673 11 613
+
+## Magyarország
+
+Ewopharma Hungary Ltd.
+
+Tel.: + 36 1 200 46 50
+
+## Deutschland
+
+Istituto Gentili S.r.l
+
+Tel: 08006850000
+
+## Nederland
+
+Gentili Pharma B.V.
+
+Tel: +31-242049706
 
 ## Eesti
 
@@ -1481,17 +1556,47 @@ Ewopharma OÜ
 
 Tel: + 372 600 4440
 
+## España
+
+QUALITECFARMA REGULATORY &amp; BUSINESS STRATEGIES SL
+
+Tel: +34 913 728 399
+
+## Polska
+
+Ewopharma AG Sp. z o.o.
+
+Tel.: + 48 22 620 11 71
+
 ## Hrvatska
 
 Ewopharma d.o.o.
 
 Tel: + 385 1 6646 563
 
+## România
+
+Ewopharma România SRL
+
+Tel: + 40 21 260 13 44
+
 ## Slovenija
 
 Ewopharma d.o.o.
 
 Tel: + 386 590 848 40
+
+## Slovenská republika
+
+Ewopharma spol. s r.o.
+
+Tel: + 421 2 54 79 35 08
+
+## Italia
+
+Istituto Gentili S.r.l
+
+Tel: +39 02 89132 700
 
 ## Latvija
 
@@ -1506,34 +1611,6 @@ Tel: + 371 6770 4000
 Detailed information on this medicine is available on the European Medicines Agency web site: https://www.ema.europa.eu.
 
 This leaflet is available in all EU/EEA languages on the European Medicines Agency website.
-
-България
-
-Евофарма ЕООД
-
-Teл.: + 359 2 962 12 00
-
-## Magyarország
-
-Ewopharma Hungary Ltd.
-
-Tel.: + 36 1 200 46 50
-
-## Polska
-
-Ewopharma AG Sp. z o.o.
-
-Tel.: + 48 22 620 11 71
-
-## România
-
-Ewopharma România SRL Tel: + 40 21 260 13 44
-
-## Slovenská republika
-
-Ewopharma spol. s r.o.
-
-Tel: + 421 2 54 79 35 08
 
 <div style=\"page-break-after: always\"></div>
 

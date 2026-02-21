@@ -1,20 +1,20 @@
 ---
-document_datetime: 2025-01-23 09:54:45
+document_datetime: 2026-02-19 14:11:44
 document_pages: 37
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/kigabeq-epar-product-information_en.pdf
 document_name: kigabeq-epar-product-information_en.pdf
 version: success
-processing_time: 22.5977607
-conversion_datetime: 2025-12-27 16:00:11.478979
+processing_time: 22.3565598
+conversion_datetime: 2026-02-21 12:12:13.480525
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.66.0
-  docling-core: 2.57.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.13.0
+  docling-jobkit: 1.11.0
+  docling: 2.74.0
+  docling-core: 2.65.1
+  docling-ibm-models: 3.11.0
+  docling-parse: 5.3.2
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.3-arm64-arm-64bit-Mach-O
 ---
 ## ANNEX I
 
@@ -531,7 +531,9 @@ Name and address of the manufacturers responsible for batch release
 
 Farmea 10, rue Bouché Thomas ZAC d'Orgemont F-49000 Angers France
 
-Centre Spécialités Pharmaceutiques 76-78 avenue du Midi 63800 Cournon d'Auvergne France
+Centre Spécialités Pharmaceutiques 76-78 avenue du Midi 63800 Cournon d'Auvergne
+
+France
 
 Biocodex 1 avenue Blaise Pascal 60000 Beauvais France
 
@@ -693,8 +695,8 @@ EXP
 
 <div style=\"page-break-after: always\"></div>
 
-| 10.   | SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVEDFROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE   |
-|-------|----------------------------------------------------------------------------------------------------------------------------------------|
+| 10.   | SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS ORWASTEMATERIALS DERIVEDFROMSUCH MEDICINAL PRODUCTS, IF APPROPRIATE   |
+|-------|-------------------------------------------------------------------------------------------------------------------------------------|
 
 | 11.   | NAMEANDADDRESS OF THE MARKETING AUTHORISATION HOLDER   |
 |-------|--------------------------------------------------------|
@@ -714,8 +716,8 @@ Lot
 | 14.   | GENERAL CLASSIFICATION FOR SUPPLY   |
 |-------|-------------------------------------|
 
-| 15.   | INSTRUCTIONS ON USE   |
-|-------|-----------------------|
+| 15.   | INSTRUCTIONS ONUSE   |
+|-------|----------------------|
 
 | 16.   | INFORMATION IN BRAILLE   |
 |-------|--------------------------|
@@ -725,6 +727,8 @@ Lot
 
 | 18.   | UNIQUE IDENTIFIER - HUMANREADABLE DATA   |
 |-------|------------------------------------------|
+
+<div style=\"page-break-after: always\"></div>
 
 ## PARTICULARS TO APPEAR ON THE OUTER PACKAGING
 
@@ -768,8 +772,6 @@ EXP
 
 ## 9. SPECIAL STORAGE CONDITIONS
 
-<div style=\"page-break-after: always\"></div>
-
 10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
@@ -804,15 +806,15 @@ PC SN
 
 NN
 
-<div style=\"page-break-after: always\"></div>
-
 ## PARTICULARS TO APPEAR ON IMMEDIATE PACKAGING
 
 ## LABEL FOR BOTTLE CONTAINING 50 SOLUBLE TABLETS OF KIGABEQ 500 MG
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
-Kigabeq 500 mg soluble tablets vigabatrin
+Kigabeq 500 mg soluble tablets
+
+vigabatrin
 
 For children aged 1 month to less than 7 years
 
@@ -824,7 +826,7 @@ Each soluble tablet contains 500 mg vigabatrin.
 
 ## 4. PHARMACEUTICAL FORM AND CONTENTS
 
-## Soluble tablets
+Soluble tablets
 
 50 soluble tablets
 
@@ -834,29 +836,31 @@ Read the package leaflet before use.
 
 Oral and gastric use.
 
-## 6. SPECIAL WARNING THAT THE MEDICINAL PRODUCT MUST BE STORED OUT OF THE SIGHT AND REACH OF CHILDREN
+6. SPECIAL WARNING THAT THE MEDICINAL PRODUCT MUST BE STORED OUT OF THE SIGHT AND REACH OF CHILDREN
 
 Keep out of the sight and reach of children.
 
 ## 7. OTHER SPECIAL WARNING(S), IF NECESSARY
 
-## 8. EXPIRY DATE
+8. EXPIRY DATE
 
 EXP
 
 ## 9. SPECIAL STORAGE CONDITIONS
 
+<div style=\"page-break-after: always\"></div>
+
 10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
-ORPHELIA Pharma SAS 85 boulevard Saint-Michel 75005 PARIS
+ORPHELIA Pharma SAS 85 boulevard Saint-Michel 75005 PARIS France
 
-12. MARKETING AUTHORISATION NUMBER(S)
+## 12. MARKETING AUTHORISATION NUMBER(S)
 
 EU/1/18/1302/002
 
-13. BATCH NUMBER
+## 13. BATCH NUMBER
 
 Lot
 
@@ -868,7 +872,7 @@ Lot
 
 17. UNIQUE IDENTIFIER - 2D BARCODE
 
-18. UNIQUE IDENTIFIER - HUMAN READABLE DATA
+## 18. UNIQUE IDENTIFIER - HUMAN READABLE DATA
 
 <div style=\"page-break-after: always\"></div>
 
@@ -1142,13 +1146,13 @@ The solution in water is whitish and cloudy.
 
 ## Pack sizes:
 
-Kigabeq 100 mg is supplied in packs of 100 soluble tablets.
-
-Kigabeq 500 mg is supplied in packs of 50 soluble tablets
+Kigabeq 100 mg is supplied in packs of 100 soluble tablets. Kigabeq 500 mg is supplied in packs of 50 soluble tablets
 
 ## Marketing Authorisation Holder
 
-ORPHELIA Pharma SAS 85 boulevard Saint-Michel 75005 PARIS France
+ORPHELIA Pharma SAS 85 boulevard Saint-Michel
+
+75005 PARIS France
 
 ## Manufacturer
 
@@ -1178,7 +1182,9 @@ België/Belgique/Belgien ORPHELIA Pharma SAS
 
 Tél/Tel: + 33 1 42 77 08 18
 
-Lietuva ENTAFARMA Klonėnų vs. 1, LT-19156 Širvintai dist. munic. Tel. +370 382 33001
+Lietuva ENTAFARMA Klonėnų vs. 1, LT-19156 Širvintai dist. munic.
+
+Tel. +370 382 33001
 
 e-mail: info@entafarma.lt
 
@@ -1200,7 +1206,7 @@ Tél/Tel: + 33 1 42 77 08 18
 
 ## Deutschland
 
-ORPHELIA Pharma SAS Tel: + 33 1 42 77 08 18
+Orphalan GmbH Karlsplatz 3 80335 München E-mail: info@orphalan.com
 
 ## Eesti
 
@@ -1208,7 +1214,7 @@ ENTAFARMA Klonėnų vs. 1, LT-19156 Širvintai dist. munic. Tel. +370 382 33001 
 
 ## Ελλάδα
 
-Biocodex 22 rue des Aqueducs F-94250 Gentilly Tel: + 33 (0)1 41 24 30 00 e-mail: medinfo@biocodex.com
+ORPHELIA Pharma SAS Tel: + 33 1 42 77 08 18
 
 ## España
 
@@ -1216,7 +1222,9 @@ ORPHELIA Pharma SAS Tel: + 33 1 42 77 08 18
 
 ## France
 
-Biocodex 22 rue des Aqueducs F-94250 Gentilly Tel: + 33 (0)1 41 24 30 00 E-mail: medinfo@biocodex.com
+Orphalan SAS
+
+226 boulevard Voltaire 75011 Paris E-mail: info-france@orphalan.com
 
 ## Hrvatska
 
@@ -1230,11 +1238,11 @@ ORPHELIA Pharma SAS Tel: + 33 1 42 77 08 18
 
 ORPHELIA Pharma SAS Sími: + 33 1 42 77 08 18
 
-## Italia
-
 ## Luxembourg/Luxemburg
 
-ORPHELIA Pharma SAS Tél/Tel: + 33 1 42 77 08 18
+ORPHELIA Pharma SAS
+
+Tél/Tel: + 33 1 42 77 08 18
 
 ## Magyarország
 
@@ -1256,7 +1264,7 @@ Tel: + 33 1 42 77 08 18
 
 ## Österreich
 
-ORPHELIA Pharma SAS Tel: + 33 1 42 77 08 18
+Orphalan GmbH Karlsplatz 3 80335 München Deutschland E-mail: info@orphalan.com
 
 ## Polska
 
@@ -1264,9 +1272,7 @@ ORPHELIA Pharma SAS Tel: + 33 1 42 77 08 18
 
 ## Portugal
 
-ORPHELIA Pharma SAS
-
-Tel: + 33 1 42 77 08 18
+ORPHELIA Pharma SAS Tel: + 33 1 42 77 08 18
 
 ## România
 
@@ -1274,27 +1280,23 @@ ORPHELIA Pharma SAS Tel: + 33 1 42 77 08 18
 
 ## Slovenija
 
-ORPHELIA Pharma SAS Tel: + 33 1 42 77 08 18
+Lenis farmacevtika d.o.o. Litostrojska cesta 52 1000 Ljubljana Email: info@lenis.si
 
 ## Slovenská republika
 
-ORPHELIA Pharma SAS Tel: + 33 1 42 77 08 18
-
-## Suomi/Finland
-
-ORPHELIA Pharma SAS Tel: + 33 1 42 77 08 18
+ORPHELIA Pharma SAS
 
 <div style=\"page-break-after: always\"></div>
+
+## Italia
+
+ORPHELIA Pharma SAS Tel: + 33 1 42 77 08 18
 
 ## Κύπρος
 
 ORPHELIA Pharma SAS Τηλ : + 33 1 42 77 08 18
 
-Latvija ENTAFARMA Klonėnų vs. 1, LT-19156 Širvintai dist. munic.
-
-Tel. +370 382 33001
-
-e-mail: info@entafarma.lt
+Latvija ENTAFARMA Klonėnų vs. 1, LT-19156 Širvintai dist. munic. Tel. +370 382 33001 e-mail: info@entafarma.lt
 
 ## This leaflet was last revised in
 
@@ -1302,8 +1304,12 @@ e-mail: info@entafarma.lt
 
 Detailed information on this medicine is available on the European Medicines Agency web site: http://www.ema.europa.eu
 
-ORPHELIA Pharma SAS
-
 Tel: + 33 1 42 77 08 18
 
-Sverige ORPHELIA Pharma SAS Tel: + 33 1 42 77 08 18
+## Suomi/Finland
+
+ORPHELIA Pharma SAS Tel: + 33 1 42 77 08 18
+
+## Sverige
+
+ORPHELIA Pharma SAS Tel: + 33 1 42 77 08 18

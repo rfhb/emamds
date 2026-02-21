@@ -1,20 +1,20 @@
 ---
-document_datetime: 2025-12-29 09:53:30
+document_datetime: 2026-02-19 16:30:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/lynparza.html
 document_name: lynparza.html
 version: success
-processing_time: 0.1829901
-conversion_datetime: 2025-12-30 11:43:46.358065
+processing_time: 0.2103904
+conversion_datetime: 2026-02-21 12:27:41.91642
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.66.0
-  docling-core: 2.57.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.13.0
+  docling-jobkit: 1.11.0
+  docling: 2.74.0
+  docling-core: 2.65.1
+  docling-ibm-models: 3.11.0
+  docling-parse: 5.3.2
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.3-arm64-arm-64bit-Mach-O
 ---
 # Lynparza
 
@@ -25,8 +25,6 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 olaparib Medicine Human Authorised
-
-On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -163,7 +161,7 @@ English (EN) (159.3 KB - PDF)
 
 [View](/en/documents/overview/lynparza-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-788)
+[Other languages (22)](#file-language-dropdown-48)
 
 български (BG) (186.45 KB - PDF)
 
@@ -431,11 +429,11 @@ svenska (SV) (157.03 KB - PDF)
 
 Lynparza : EPAR - Risk-management-plan
 
-English (EN) (968.5 KB - PDF)
+English (EN) (741.13 KB - PDF)
 
 **First published:** 09/01/2015
 
-**Last updated:** 20/08/2024
+**Last updated:** 19/02/2026
 
 [View](/en/documents/rmp-summary/lynparza-epar-risk-management-plan_en.pdf)
 
@@ -447,11 +445,11 @@ English (EN) (1.72 MB - PDF)
 
 **First published:** 09/01/2015
 
-**Last updated:** 04/12/2025
+**Last updated:** 19/02/2026
 
 [View](/en/documents/product-information/lynparza-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-334)
+[Other languages (24)](#file-language-dropdown-84)
 
 български (BG) (1.72 MB - PDF)
 
@@ -461,7 +459,7 @@ English (EN) (1.72 MB - PDF)
 
 **Last updated:**
 
-04/12/2025
+19/02/2026
 
 [View](/bg/documents/product-information/lynparza-epar-product-information_bg.pdf)
 
@@ -473,11 +471,11 @@ español (ES) (1.66 MB - PDF)
 
 **Last updated:**
 
-04/12/2025
+19/02/2026
 
 [View](/es/documents/product-information/lynparza-epar-product-information_es.pdf)
 
-čeština (CS) (4.66 MB - PDF)
+čeština (CS) (4.63 MB - PDF)
 
 **First published:**
 
@@ -485,7 +483,7 @@ español (ES) (1.66 MB - PDF)
 
 **Last updated:**
 
-04/12/2025
+19/02/2026
 
 [View](/cs/documents/product-information/lynparza-epar-product-information_cs.pdf)
 
@@ -497,11 +495,11 @@ dansk (DA) (1.79 MB - PDF)
 
 **Last updated:**
 
-04/12/2025
+19/02/2026
 
 [View](/da/documents/product-information/lynparza-epar-product-information_da.pdf)
 
-Deutsch (DE) (1.68 MB - PDF)
+Deutsch (DE) (1.65 MB - PDF)
 
 **First published:**
 
@@ -509,7 +507,7 @@ Deutsch (DE) (1.68 MB - PDF)
 
 **Last updated:**
 
-04/12/2025
+19/02/2026
 
 [View](/de/documents/product-information/lynparza-epar-product-information_de.pdf)
 
@@ -521,11 +519,11 @@ eesti keel (ET) (1.54 MB - PDF)
 
 **Last updated:**
 
-04/12/2025
+19/02/2026
 
 [View](/et/documents/product-information/lynparza-epar-product-information_et.pdf)
 
-ελληνικά (EL) (1.93 MB - PDF)
+ελληνικά (EL) (1.91 MB - PDF)
 
 **First published:**
 
@@ -533,7 +531,7 @@ eesti keel (ET) (1.54 MB - PDF)
 
 **Last updated:**
 
-04/12/2025
+19/02/2026
 
 [View](/el/documents/product-information/lynparza-epar-product-information_el.pdf)
 
@@ -545,7 +543,7 @@ français (FR) (4.17 MB - PDF)
 
 **Last updated:**
 
-04/12/2025
+19/02/2026
 
 [View](/fr/documents/product-information/lynparza-epar-product-information_fr.pdf)
 
@@ -557,7 +555,7 @@ hrvatski (HR) (1.82 MB - PDF)
 
 **Last updated:**
 
-04/12/2025
+19/02/2026
 
 [View](/hr/documents/product-information/lynparza-epar-product-information_hr.pdf)
 
@@ -569,7 +567,7 @@ hrvatski (HR) (1.82 MB - PDF)
 
 **Last updated:**
 
-04/12/2025
+19/02/2026
 
 [View](/is/documents/product-information/lynparza-epar-product-information_is.pdf)
 
@@ -581,7 +579,7 @@ italiano (IT) (1.63 MB - PDF)
 
 **Last updated:**
 
-04/12/2025
+19/02/2026
 
 [View](/it/documents/product-information/lynparza-epar-product-information_it.pdf)
 
@@ -593,7 +591,7 @@ latviešu valoda (LV) (1.82 MB - PDF)
 
 **Last updated:**
 
-04/12/2025
+19/02/2026
 
 [View](/lv/documents/product-information/lynparza-epar-product-information_lv.pdf)
 
@@ -605,7 +603,7 @@ lietuvių kalba (LT) (1.87 MB - PDF)
 
 **Last updated:**
 
-04/12/2025
+19/02/2026
 
 [View](/lt/documents/product-information/lynparza-epar-product-information_lt.pdf)
 
@@ -617,7 +615,7 @@ magyar (HU) (1.82 MB - PDF)
 
 **Last updated:**
 
-04/12/2025
+19/02/2026
 
 [View](/hu/documents/product-information/lynparza-epar-product-information_hu.pdf)
 
@@ -629,7 +627,7 @@ Malti (MT) (1.98 MB - PDF)
 
 **Last updated:**
 
-04/12/2025
+19/02/2026
 
 [View](/mt/documents/product-information/lynparza-epar-product-information_mt.pdf)
 
@@ -641,7 +639,7 @@ Nederlands (NL) (1.83 MB - PDF)
 
 **Last updated:**
 
-04/12/2025
+19/02/2026
 
 [View](/nl/documents/product-information/lynparza-epar-product-information_nl.pdf)
 
@@ -653,7 +651,7 @@ norsk (NO) (1.78 MB - PDF)
 
 **Last updated:**
 
-04/12/2025
+19/02/2026
 
 [View](/no/documents/product-information/lynparza-epar-product-information_no.pdf)
 
@@ -665,7 +663,7 @@ polski (PL) (4.02 MB - PDF)
 
 **Last updated:**
 
-04/12/2025
+19/02/2026
 
 [View](/pl/documents/product-information/lynparza-epar-product-information_pl.pdf)
 
@@ -677,7 +675,7 @@ português (PT) (1.63 MB - PDF)
 
 **Last updated:**
 
-04/12/2025
+19/02/2026
 
 [View](/pt/documents/product-information/lynparza-epar-product-information_pt.pdf)
 
@@ -689,7 +687,7 @@ română (RO) (3.98 MB - PDF)
 
 **Last updated:**
 
-04/12/2025
+19/02/2026
 
 [View](/ro/documents/product-information/lynparza-epar-product-information_ro.pdf)
 
@@ -701,7 +699,7 @@ slovenčina (SK) (1.99 MB - PDF)
 
 **Last updated:**
 
-04/12/2025
+19/02/2026
 
 [View](/sk/documents/product-information/lynparza-epar-product-information_sk.pdf)
 
@@ -713,11 +711,11 @@ slovenščina (SL) (1.86 MB - PDF)
 
 **Last updated:**
 
-04/12/2025
+19/02/2026
 
 [View](/sl/documents/product-information/lynparza-epar-product-information_sl.pdf)
 
-Suomi (FI) (1.82 MB - PDF)
+Suomi (FI) (1.79 MB - PDF)
 
 **First published:**
 
@@ -725,11 +723,11 @@ Suomi (FI) (1.82 MB - PDF)
 
 **Last updated:**
 
-04/12/2025
+19/02/2026
 
 [View](/fi/documents/product-information/lynparza-epar-product-information_fi.pdf)
 
-svenska (SV) (1.7 MB - PDF)
+svenska (SV) (1.71 MB - PDF)
 
 **First published:**
 
@@ -737,11 +735,11 @@ svenska (SV) (1.7 MB - PDF)
 
 **Last updated:**
 
-04/12/2025
+19/02/2026
 
 [View](/sv/documents/product-information/lynparza-epar-product-information_sv.pdf)
 
-**Latest procedure affecting product information:** VR/0000287658 09/10/2025
+**Latest procedure affecting product information:** VR/0000296305 12/02/2026
 
 icon globe
 
@@ -767,7 +765,7 @@ English (EN) (35.27 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/lynparza-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-124)
+[Other languages (24)](#file-language-dropdown-508)
 
 български (BG) (35.76 KB - PDF)
 
@@ -1117,7 +1115,7 @@ AstraZeneca AB
 
 SE-151 85 Södertälje
 
-Marketing authorisation issued 16/12/2014 Revision 30
+Marketing authorisation issued 16/12/2014 Revision 31
 
 ## Assessment history
 
@@ -1129,11 +1127,11 @@ Collapse section
 
 Lynparza : EPAR - Procedural steps taken and scientific information after authorisation
 
-English (EN) (176.29 KB - PDF)
+English (EN) (187.29 KB - PDF)
 
 **First published:** 18/07/2025
 
-**Last updated:** 04/12/2025
+**Last updated:** 19/02/2026
 
 [View](/en/documents/procedural-steps-after/lynparza-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf)
 
@@ -1435,11 +1433,11 @@ English (EN) (2.15 MB - DOCX)
 
 **First published:** 29/10/2025
 
-**Last updated:** 04/12/2025
+**Last updated:** 19/02/2026
 
 [View](/en/documents/product-information-tracked-changes/lynparza-epar-product-information-tracked-changes_en.docx)
 
-[Other languages (24)](#file-language-dropdown-940)
+[Other languages (24)](#file-language-dropdown-154)
 
 български (BG) (2.1 MB - DOCX)
 
@@ -1449,7 +1447,7 @@ English (EN) (2.15 MB - DOCX)
 
 **Last updated:**
 
-04/12/2025
+19/02/2026
 
 [View](/bg/documents/product-information-tracked-changes/lynparza-epar-product-information-tracked-changes_bg.docx)
 
@@ -1461,11 +1459,11 @@ español (ES) (2.26 MB - DOCX)
 
 **Last updated:**
 
-04/12/2025
+19/02/2026
 
 [View](/es/documents/product-information-tracked-changes/lynparza-epar-product-information-tracked-changes_es.docx)
 
-čeština (CS) (2.28 MB - DOCX)
+čeština (CS) (2.27 MB - DOCX)
 
 **First published:**
 
@@ -1473,7 +1471,7 @@ español (ES) (2.26 MB - DOCX)
 
 **Last updated:**
 
-04/12/2025
+19/02/2026
 
 [View](/cs/documents/product-information-tracked-changes/lynparza-epar-product-information-tracked-changes_cs.docx)
 
@@ -1485,11 +1483,11 @@ dansk (DA) (2.39 MB - DOCX)
 
 **Last updated:**
 
-04/12/2025
+19/02/2026
 
 [View](/da/documents/product-information-tracked-changes/lynparza-epar-product-information-tracked-changes_da.docx)
 
-Deutsch (DE) (2.12 MB - DOCX)
+Deutsch (DE) (2.1 MB - DOCX)
 
 **First published:**
 
@@ -1497,7 +1495,7 @@ Deutsch (DE) (2.12 MB - DOCX)
 
 **Last updated:**
 
-04/12/2025
+19/02/2026
 
 [View](/de/documents/product-information-tracked-changes/lynparza-epar-product-information-tracked-changes_de.docx)
 
@@ -1509,11 +1507,11 @@ eesti keel (ET) (1.94 MB - DOCX)
 
 **Last updated:**
 
-04/12/2025
+19/02/2026
 
 [View](/et/documents/product-information-tracked-changes/lynparza-epar-product-information-tracked-changes_et.docx)
 
-ελληνικά (EL) (2.27 MB - DOCX)
+ελληνικά (EL) (2.26 MB - DOCX)
 
 **First published:**
 
@@ -1521,7 +1519,7 @@ eesti keel (ET) (1.94 MB - DOCX)
 
 **Last updated:**
 
-04/12/2025
+19/02/2026
 
 [View](/el/documents/product-information-tracked-changes/lynparza-epar-product-information-tracked-changes_el.docx)
 
@@ -1533,7 +1531,7 @@ français (FR) (2.37 MB - DOCX)
 
 **Last updated:**
 
-04/12/2025
+19/02/2026
 
 [View](/fr/documents/product-information-tracked-changes/lynparza-epar-product-information-tracked-changes_fr.docx)
 
@@ -1545,11 +1543,11 @@ hrvatski (HR) (2.31 MB - DOCX)
 
 **Last updated:**
 
-04/12/2025
+19/02/2026
 
 [View](/hr/documents/product-information-tracked-changes/lynparza-epar-product-information-tracked-changes_hr.docx)
 
-íslenska (IS) (2.26 MB - DOCX)
+íslenska (IS) (2.25 MB - DOCX)
 
 **First published:**
 
@@ -1557,11 +1555,11 @@ hrvatski (HR) (2.31 MB - DOCX)
 
 **Last updated:**
 
-04/12/2025
+19/02/2026
 
 [View](/is/documents/product-information-tracked-changes/lynparza-epar-product-information-tracked-changes_is.docx)
 
-italiano (IT) (2.09 MB - DOCX)
+italiano (IT) (2.08 MB - DOCX)
 
 **First published:**
 
@@ -1569,11 +1567,11 @@ italiano (IT) (2.09 MB - DOCX)
 
 **Last updated:**
 
-04/12/2025
+19/02/2026
 
 [View](/it/documents/product-information-tracked-changes/lynparza-epar-product-information-tracked-changes_it.docx)
 
-latviešu valoda (LV) (2.23 MB - DOCX)
+latviešu valoda (LV) (2.22 MB - DOCX)
 
 **First published:**
 
@@ -1581,11 +1579,11 @@ latviešu valoda (LV) (2.23 MB - DOCX)
 
 **Last updated:**
 
-04/12/2025
+19/02/2026
 
 [View](/lv/documents/product-information-tracked-changes/lynparza-epar-product-information-tracked-changes_lv.docx)
 
-lietuvių kalba (LT) (2.12 MB - DOCX)
+lietuvių kalba (LT) (2.11 MB - DOCX)
 
 **First published:**
 
@@ -1593,7 +1591,7 @@ lietuvių kalba (LT) (2.12 MB - DOCX)
 
 **Last updated:**
 
-04/12/2025
+19/02/2026
 
 [View](/lt/documents/product-information-tracked-changes/lynparza-epar-product-information-tracked-changes_lt.docx)
 
@@ -1605,7 +1603,7 @@ magyar (HU) (2.06 MB - DOCX)
 
 **Last updated:**
 
-04/12/2025
+19/02/2026
 
 [View](/hu/documents/product-information-tracked-changes/lynparza-epar-product-information-tracked-changes_hu.docx)
 
@@ -1617,7 +1615,7 @@ Malti (MT) (3.25 MB - DOC)
 
 **Last updated:**
 
-04/12/2025
+19/02/2026
 
 [View](/mt/documents/product-information-tracked-changes/lynparza-epar-product-information-tracked-changes_mt.doc)
 
@@ -1629,7 +1627,7 @@ Nederlands (NL) (2.76 MB - DOCX)
 
 **Last updated:**
 
-04/12/2025
+19/02/2026
 
 [View](/nl/documents/product-information-tracked-changes/lynparza-epar-product-information-tracked-changes_nl.docx)
 
@@ -1641,11 +1639,11 @@ norsk (NO) (2.42 MB - DOCX)
 
 **Last updated:**
 
-04/12/2025
+19/02/2026
 
 [View](/no/documents/product-information-tracked-changes/lynparza-epar-product-information-tracked-changes_no.docx)
 
-polski (PL) (2.36 MB - DOCX)
+polski (PL) (2.35 MB - DOCX)
 
 **First published:**
 
@@ -1653,11 +1651,11 @@ polski (PL) (2.36 MB - DOCX)
 
 **Last updated:**
 
-04/12/2025
+19/02/2026
 
 [View](/pl/documents/product-information-tracked-changes/lynparza-epar-product-information-tracked-changes_pl.docx)
 
-português (PT) (2.08 MB - DOCX)
+português (PT) (2.09 MB - DOCX)
 
 **First published:**
 
@@ -1665,7 +1663,7 @@ português (PT) (2.08 MB - DOCX)
 
 **Last updated:**
 
-04/12/2025
+19/02/2026
 
 [View](/pt/documents/product-information-tracked-changes/lynparza-epar-product-information-tracked-changes_pt.docx)
 
@@ -1677,7 +1675,7 @@ română (RO) (2.29 MB - DOCX)
 
 **Last updated:**
 
-04/12/2025
+19/02/2026
 
 [View](/ro/documents/product-information-tracked-changes/lynparza-epar-product-information-tracked-changes_ro.docx)
 
@@ -1689,11 +1687,11 @@ slovenčina (SK) (2.27 MB - DOCX)
 
 **Last updated:**
 
-04/12/2025
+19/02/2026
 
 [View](/sk/documents/product-information-tracked-changes/lynparza-epar-product-information-tracked-changes_sk.docx)
 
-slovenščina (SL) (2.48 MB - DOCX)
+slovenščina (SL) (2.47 MB - DOCX)
 
 **First published:**
 
@@ -1701,11 +1699,11 @@ slovenščina (SL) (2.48 MB - DOCX)
 
 **Last updated:**
 
-04/12/2025
+19/02/2026
 
 [View](/sl/documents/product-information-tracked-changes/lynparza-epar-product-information-tracked-changes_sl.docx)
 
-Suomi (FI) (2.47 MB - DOCX)
+Suomi (FI) (2.46 MB - DOCX)
 
 **First published:**
 
@@ -1713,11 +1711,11 @@ Suomi (FI) (2.47 MB - DOCX)
 
 **Last updated:**
 
-04/12/2025
+19/02/2026
 
 [View](/fi/documents/product-information-tracked-changes/lynparza-epar-product-information-tracked-changes_fi.docx)
 
-svenska (SV) (2.27 MB - DOCX)
+svenska (SV) (2.28 MB - DOCX)
 
 **First published:**
 
@@ -1725,7 +1723,7 @@ svenska (SV) (2.27 MB - DOCX)
 
 **Last updated:**
 
-04/12/2025
+19/02/2026
 
 [View](/sv/documents/product-information-tracked-changes/lynparza-epar-product-information-tracked-changes_sv.docx)
 
@@ -1756,7 +1754,7 @@ English (EN) (79.43 KB - PDF)
 
 - [Medicines](https://www.ema.europa.eu/en/search?f%5B0%5D=ema_search_topics%3A61)
 
-**This page was last updated on** 04/12/2025
+**This page was last updated on** 19/02/2026
 
 ## Share this page
 

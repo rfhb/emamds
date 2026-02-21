@@ -1,20 +1,20 @@
 ---
-document_datetime: 2025-12-22 14:58:43
-document_pages: 52
+document_datetime: 2026-02-18 11:33:30
+document_pages: 53
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/zemcelpro-epar-product-information_en.pdf
 document_name: zemcelpro-epar-product-information_en.pdf
 version: success
-processing_time: 9.9023981
-conversion_datetime: 2026-01-03 13:07:49.581337
+processing_time: 18.26339
+conversion_datetime: 2026-02-21 13:02:28.621313
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.66.0
-  docling-core: 2.57.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.13.0
+  docling-jobkit: 1.11.0
+  docling: 2.74.0
+  docling-core: 2.65.1
+  docling-ibm-models: 3.11.0
+  docling-parse: 5.3.2
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.3-arm64-arm-64bit-Mach-O
 ---
 ## ANNEX I
 
@@ -28,7 +28,7 @@ This medicinal product is subject to additional monitoring. This will allow quic
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
-Zemcelpro ≥ 0.23×10 6  viable CD34+ cells/mL / ≥ 0.53×10 6 viable CD3+ cells/mL dispersion for infusion
+Zemcelpro ≥ 0.23×10 6 viable CD34+ cells/mL / ≥ 0.53×10 6 viable CD3+ cells/mL dispersion for infusion
 
 ## 2. QUALITATIVE AND QUANTITATIVE COMPOSITION
 
@@ -329,68 +329,68 @@ Common Terminology Criteria for Adverse Events (CTCAE) Grade 3 or higher and unu
 
 <div style=\"page-break-after: always\"></div>
 
-|                                                      | Leukopenia Febrile neutropenia                                                                                              |
-|------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------|
-| Uncommon                                             | Autoimmune haemolytic anaemia Cytopenia Thrombotic microangiopathy                                                          |
-| Cardiac disorders                                    | Cardiac disorders                                                                                                           |
-| Uncommon                                             | Angina pectoris Atrial fibrillation Atrial flutter Pericarditis Right ventricular dysfunction                               |
-| Congenital, familial and genetic disorders           | Congenital, familial and genetic disorders                                                                                  |
-| Uncommon                                             | Aplasia Cytogenetic abnormality                                                                                             |
-| Ear and labyrinth disorders                          | Ear and labyrinth disorders                                                                                                 |
-| Uncommon                                             | Hypoacusis                                                                                                                  |
-| Endocrine disorders                                  | Endocrine disorders                                                                                                         |
-| Uncommon                                             | Adrenal insufficiency                                                                                                       |
-| Gastrointestinal disorders                           | Gastrointestinal disorders                                                                                                  |
-| Common                                               | Diarrhoea Nausea Stomatitis Abdominal pain                                                                                  |
-| Uncommon                                             | Anal stenosis Colitis Enterocolitis Jejunal perforation Malabsorption Pneumatosis intestinalis                              |
-| General disorders and administration site conditions | General disorders and administration site conditions                                                                        |
-| Common                                               | Pyrexia Fatigue                                                                                                             |
-| Uncommon                                             | Generalised oedema Malaise Mucosal inflammation                                                                             |
-| Hepatobiliary disorders                              | Hepatobiliary disorders                                                                                                     |
-| Common                                               | Venoocclusive liver disease                                                                                                 |
-| Uncommon                                             | Hyperbilirubinaemia                                                                                                         |
-| Immune system disorders                              | Immune system disorders                                                                                                     |
-| Very common                                          | Acute GvHD (grade II-III) * Hypogammaglobulinaemia Engraftment syndrome Chronic GvHD **                                     |
-| Infections and infestations***                       | Infections and infestations***                                                                                              |
-| Very common                                          | Bacterial infections (Including pneumonias) Viral infections                                                                |
-| Common                                               | Fungal infections Unspecified infections                                                                                    |
-| Injury, poisoning and procedural complications       | Injury, poisoning and procedural complications                                                                              |
-| Common                                               | Graft failure                                                                                                               |
-| Investigations                                       | Investigations                                                                                                              |
-| Common                                               | CD4 lymphocytes decreased Alanine aminotransferase increased Immunoglobulins decreased Aspartate aminotransferase increased |
+|                                                                               | Leukopenia Febrile neutropenia                                                                                              |
+|-------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------|
+| Uncommon                                                                      | Autoimmune haemolytic anaemia Cytopenia Thrombotic microangiopathy                                                          |
+| Cardiac disorders                                                             | Cardiac disorders                                                                                                           |
+| Uncommon                                                                      | Angina pectoris Atrial fibrillation Atrial flutter Pericarditis Right ventricular dysfunction                               |
+| Congenital, familial and genetic disorders                                    | Congenital, familial and genetic disorders                                                                                  |
+| Uncommon                                                                      | Aplasia Cytogenetic abnormality                                                                                             |
+| Ear and labyrinth disorders                                                   | Ear and labyrinth disorders                                                                                                 |
+| Uncommon                                                                      | Hypoacusis                                                                                                                  |
+| Endocrine disorders                                                           | Endocrine disorders                                                                                                         |
+| Uncommon                                                                      | Adrenal insufficiency                                                                                                       |
+| Gastrointestinal disorders                                                    | Gastrointestinal disorders                                                                                                  |
+| Common                                                                        | Diarrhoea Nausea Stomatitis Abdominal pain                                                                                  |
+| Uncommon Common                                                               | Anal stenosis Colitis Enterocolitis Jejunal perforation Malabsorption                                                       |
+| Pneumatosis intestinalis General disorders and administration site conditions | Pneumatosis intestinalis General disorders and administration site conditions                                               |
+|                                                                               | Pyrexia Fatigue                                                                                                             |
+| Uncommon                                                                      | Generalised oedema Malaise Mucosal inflammation                                                                             |
+| Hepatobiliary disorders                                                       | Hepatobiliary disorders                                                                                                     |
+| Common                                                                        | Venoocclusive liver disease                                                                                                 |
+| Uncommon                                                                      | Hyperbilirubinaemia                                                                                                         |
+| Immune system disorders                                                       | Immune system disorders                                                                                                     |
+| Very common                                                                   | Acute GvHD (grade II-III) * Hypogammaglobulinaemia Engraftment syndrome Chronic GvHD **                                     |
+| Infections and infestations***                                                | Infections and infestations***                                                                                              |
+| Very common                                                                   | Bacterial infections (Including pneumonias) Viral infections                                                                |
+| Common                                                                        | Fungal infections Unspecified infections                                                                                    |
+| Injury, poisoning and procedural complications                                | Injury, poisoning and procedural complications                                                                              |
+| Common                                                                        | Graft failure                                                                                                               |
+| Investigations                                                                | Investigations                                                                                                              |
+| Common                                                                        | CD4 lymphocytes decreased Alanine aminotransferase increased Immunoglobulins decreased Aspartate aminotransferase increased |
 
 <div style=\"page-break-after: always\"></div>
 
-| Uncommon                                                      | Blood bilirubin increased Blood bilirubin decreased Carbon monoxide diffusing capacity decreased CMVtest positive Electrocardiogram QT prolonged Haemoglobin decreased   |
-|---------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Neutrophil count decreased Metabolism and nutrition disorders | Neutrophil count decreased Metabolism and nutrition disorders                                                                                                            |
-| Common                                                        | Decreased appetite Hypokalaemia Hyperglycaemia Hypophosphatemia                                                                                                          |
-| Uncommon                                                      | Dehydration Hyponatraemia                                                                                                                                                |
-| Musculoskeletal and connective tissue disorders               | Musculoskeletal and connective tissue disorders                                                                                                                          |
-| Common                                                        | Bone pain Muscular weakness                                                                                                                                              |
-| Uncommon                                                      | Soft tissue necrosis                                                                                                                                                     |
-| Neoplasms benign, malignant and unspecified                   | Neoplasms benign, malignant and unspecified                                                                                                                              |
-| Common                                                        | Post transplant lymphoproliferative disorder                                                                                                                             |
-| Nervous system disorders                                      | Nervous system disorders                                                                                                                                                 |
-| Common                                                        | Headache                                                                                                                                                                 |
-| Uncommon                                                      | Cerebro vascular accident Encephalopathy                                                                                                                                 |
-| Psychiatric disorders                                         | Psychiatric disorders                                                                                                                                                    |
-| Uncommon                                                      | Delirium Obsessive compulsive disorder                                                                                                                                   |
-| Renal and urinary disorders                                   | Renal and urinary disorders                                                                                                                                              |
-| Common                                                        | Haemolytic uremic syndrome (HUS) Acute kidney injury Cystitis haemorrhagic                                                                                               |
-| Uncommon                                                      | Renal limited thrombotic microangiopathy                                                                                                                                 |
-| Respiratory, thoracic and mediastinal disorders               | Respiratory, thoracic and mediastinal disorders                                                                                                                          |
-| Common                                                        | Cryptogenic Organizing Pneumonia Epistaxis PAH Pulmonary hypertension                                                                                                    |
-| Uncommon                                                      | Pulmonary embolism Idiopathic pneumonia syndrome (pneumonitis) Lung infiltration Pneumothorax                                                                            |
-| Skin and subcutaneous tissue disorders                        | Skin and subcutaneous tissue disorders                                                                                                                                   |
-| Common                                                        | Rash maculo-papular                                                                                                                                                      |
-| Uncommon                                                      | Dermatitis acneiform Eczema Pruritus                                                                                                                                     |
-| Surgical and medical procedures                               | Surgical and medical procedures                                                                                                                                          |
-| Uncommon                                                      | Colectomy                                                                                                                                                                |
-| Vascular disorders                                            | Vascular disorders                                                                                                                                                       |
-| Very common                                                   | Hypertension                                                                                                                                                             |
-| Common                                                        | Microangiopathy                                                                                                                                                          |
-| Uncommon                                                      | Decreased and nonspecific blood pressure disorders Hematoma Hypotension                                                                                                  |
+| Uncommon                                        | Blood bilirubin increased Blood bilirubin decreased Carbon monoxide diffusing capacity decreased CMVtest positive Electrocardiogram QT prolonged Haemoglobin decreased Neutrophil count decreased   |
+|-------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Metabolism and nutrition disorders              | Metabolism and nutrition disorders                                                                                                                                                                  |
+| Common                                          | Decreased appetite Hypokalaemia Hyperglycaemia Hypophosphatemia                                                                                                                                     |
+| Uncommon                                        | Dehydration Hyponatraemia                                                                                                                                                                           |
+| Musculoskeletal and connective tissue disorders | Musculoskeletal and connective tissue disorders                                                                                                                                                     |
+| Common                                          | Bone pain Muscular weakness                                                                                                                                                                         |
+| Uncommon                                        | Soft tissue necrosis                                                                                                                                                                                |
+| Neoplasms benign, malignant and unspecified     | Neoplasms benign, malignant and unspecified                                                                                                                                                         |
+| Common                                          | Post transplant lymphoproliferative disorder                                                                                                                                                        |
+| Nervous system disorders                        | Nervous system disorders                                                                                                                                                                            |
+| Common                                          | Headache                                                                                                                                                                                            |
+| Uncommon                                        | Cerebro vascular accident Encephalopathy                                                                                                                                                            |
+| Psychiatric disorders                           | Psychiatric disorders                                                                                                                                                                               |
+| Uncommon                                        | Delirium Obsessive compulsive disorder                                                                                                                                                              |
+| Renal and urinary disorders                     | Renal and urinary disorders                                                                                                                                                                         |
+| Common                                          | Haemolytic uremic syndrome (HUS) Acute kidney injury Cystitis haemorrhagic                                                                                                                          |
+| Uncommon                                        | Renal limited thrombotic microangiopathy                                                                                                                                                            |
+| Respiratory, thoracic and mediastinal disorders | Respiratory, thoracic and mediastinal disorders                                                                                                                                                     |
+| Common                                          | Cryptogenic Organizing Pneumonia Epistaxis PAH Pulmonary hypertension                                                                                                                               |
+| Uncommon                                        | Idiopathic pneumonia syndrome (pneumonitis) Lung infiltration Pneumothorax                                                                                                                          |
+| Skin and subcutaneous tissue disorders          | Skin and subcutaneous tissue disorders                                                                                                                                                              |
+| Common                                          | Rash maculo-papular                                                                                                                                                                                 |
+| Uncommon                                        | Dermatitis acneiform Eczema Pruritus                                                                                                                                                                |
+| Surgical and medical procedures                 | Surgical and medical procedures                                                                                                                                                                     |
+| Uncommon                                        | Colectomy                                                                                                                                                                                           |
+| Vascular disorders                              | Vascular disorders                                                                                                                                                                                  |
+| Very common                                     | Hypertension                                                                                                                                                                                        |
+| Common                                          | Microangiopathy                                                                                                                                                                                     |
+| Uncommon                                        | Decreased and nonspecific blood pressure disorders Hematoma Hypotension Orthostatic hypotension                                                                                                     |
 
 <div style=\"page-break-after: always\"></div>
 
@@ -488,6 +488,7 @@ Table 2 Pooled demographics, and baseline disease characteristics for patients i
 |----------------------------------------------|------------------------------------------------------------------------------------------------|
 | Age (years)                                  |                                                                                                |
 | Median (IQR)                                 | 47 (40, 53)                                                                                    |
+| Min-Max                                      | 24-64                                                                                          |
 | Sex - n (%)                                  |                                                                                                |
 | Male                                         | 18 (72.0%)                                                                                     |
 | Female                                       | 7 (28.0%)                                                                                      |
@@ -812,13 +813,13 @@ Administer all bags of dorocubicel first
 
 ## 7. OTHER SPECIAL WARNING(S), IF NECESSARY
 
-<div style=\"page-break-after: always\"></div>
-
 ## 8. EXPIRY DATE
 
 EXP
 
 Once thawed, the shelf life is 1 hour between 15 °C - 30 °C.
+
+<div style=\"page-break-after: always\"></div>
 
 ## 9. SPECIAL STORAGE CONDITIONS
 
@@ -870,14 +871,119 @@ Justification for not including Braille accepted .
 
 Not applicable
 
-<div style=\"page-break-after: always\"></div>
-
-| 18.   | UNIQUE IDENTIFIER - HUMANREADABLE DATA   |
-|-------|------------------------------------------|
+## 18. UNIQUE IDENTIFIER - HUMAN READABLE DATA
 
 Not applicable.
 
-29
+<div style=\"page-break-after: always\"></div>
+
+## PARTICULARS TO APPEAR ON THE OUTER PACKAGING
+
+## LABEL ON THE SAFEPAK COVERING BOTH CELL COMPONENTS
+
+## 1. NAME OF THE MEDICINAL PRODUCT
+
+Zemcelpro ≥ 0.23×10 6 viable CD34+ cells/mL / ≥ 0.53×10 6 viable CD3+ cells/mL dispersion for infusion
+
+## 2. STATEMENT OF ACTIVE SUBSTANCE(S)
+
+This medicine contains cells of human origin taken from donated umbilical cord blood. The medicine contains two cell components:
+
+- 1) Dorocubicel (expanded CD34+ cells) contains ≥ 0.23 ×10 6 viable CD34+ cells/mL dispersion for infusion
+- 2) Unexpanded CD34- cell component contains ≥ 0.53 ×10 6 viable CD3+ cells/mL dispersion for infusion
+
+## 3. LIST OF EXCIPIENTS
+
+Also contains: human albumin solution, dimethyl sulfoxide, sodium chloride, potassium chloride (E508), sodium gluconate (E576), sodium acetate (E262), and magnesium chloride (E511). See leaflet for further information.
+
+## 4. PHARMACEUTICAL FORM AND CONTENTS
+
+## Dispersion for infusion
+
+Combination package of up to 4 bags of expanded CD34+ cells and 4 bags of unexpanded CD34- cells.
+
+Contents:  20 mL per bag.
+
+## 5. METHOD AND ROUTE(S) OF ADMINISTRATION
+
+Intravenous use via central venous catheter
+
+Administer as intravenous infusion by gravity flow.
+
+Do not use leukocyte depleting filter.
+
+Connect the infusion bag to the latex-free tubing with a standard infusion filter (170-260 µm).
+
+Confirm patient's identity matches the infusion bag before infusion.
+
+Read the package leaflet before use.
+
+Administer all bags of dorocubicel first
+
+## 6. SPECIAL WARNING THAT THE MEDICINAL PRODUCT MUST BE STORED OUT OF THE SIGHT AND REACH OF CHILDREN
+
+## 7. OTHER SPECIAL WARNING(S), IF NECESSARY
+
+## 8. EXPIRY DATE
+
+EXP
+
+Once thawed, the shelf life is 1 hour between 15 °C - 30 °C.
+
+<div style=\"page-break-after: always\"></div>
+
+## 9. SPECIAL STORAGE CONDITIONS
+
+Store and transport below -150 °C. Do not thaw the product until use. Do not refreeze.
+
+## 10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
+
+This medicine contains human blood cells. Unused medicine or waste material must be disposed of in compliance with the local guidelines on handling of waste of human-derived material.
+
+## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
+
+Cordex Biologics International Limited
+
+5 th
+
+Floor, Block E, Iveagh Court
+
+Harcourt Road, Dublin, Ireland
+
+Tel: 353 1 960 2797
+
+e-mail: info@cordexbio.com
+
+## 12. MARKETING AUTHORISATION NUMBER(S)
+
+EU/1/25/1960/001
+
+## 13. BATCH NUMBER, DONATION AND PRODUCT CODES
+
+Recipient ID:
+
+DOB:
+
+CBU ID:
+
+ABO/Rh:
+
+Lot:
+
+14. GENERAL CLASSIFICATION FOR SUPPLY
+15. INSTRUCTIONS ON USE
+
+## 16. INFORMATION IN BRAILLE
+
+Justification for not including Braille accepted .
+
+## 17. UNIQUE IDENTIFIER - 2D BARCODE
+
+Not applicable
+
+## 18. UNIQUE IDENTIFIER - HUMAN READABLE DATA
+
+Not applicable.
 
 <div style=\"page-break-after: always\"></div>
 
@@ -899,7 +1005,7 @@ Also contains: human albumin solution, dimethyl sulfoxide, sodium chloride, pota
 
 ## 4. PHARMACEUTICAL FORM AND CONTENTS
 
-## Dispersion for infusion
+Dispersion for infusion
 
 Bag X/4   with expanded CD34+ cells
 
@@ -931,11 +1037,11 @@ EXP
 
 Once thawed, the shelf life is 1 hour between 15 °C - 30 °C.
 
-<div style=\"page-break-after: always\"></div>
-
 ## 9. SPECIAL STORAGE CONDITIONS
 
 Store and transport below -150 °C. Do not thaw the product until use. Do not refreeze.
+
+<div style=\"page-break-after: always\"></div>
 
 ## 10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
 
@@ -945,7 +1051,9 @@ This medicine contains human blood cells. Unused medicine or waste material must
 
 Cordex Biologics International Limited
 
-5 th Floor, Block E, Iveagh Court
+5 th
+
+Floor, Block E, Iveagh Court
 
 Harcourt Road, Dublin, Ireland
 
@@ -961,11 +1069,7 @@ EU/1/25/1960/001
 
 Recipient ID:
 
-DOB:
-
 CBU ID:
-
-ABO/Rh:
 
 Lot:
 
@@ -983,9 +1087,11 @@ Not applicable
 
 ## 18. UNIQUE IDENTIFIER - HUMAN READABLE DATA
 
-<div style=\"page-break-after: always\"></div>
+Not applicable
 
-## Not applicable
+DOB:
+
+ABO/Rh:
 
 <div style=\"page-break-after: always\"></div>
 
@@ -1039,11 +1145,11 @@ EXP
 
 Once thawed, the shelf life is 1 hour between 15 °C - 30 °C.
 
-<div style=\"page-break-after: always\"></div>
-
 ## 9. SPECIAL STORAGE CONDITIONS
 
 Store and transport below -150 °C. Do not thaw the product until use. Do not refreeze.
+
+<div style=\"page-break-after: always\"></div>
 
 ## 10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
 
@@ -1051,7 +1157,17 @@ This medicine contains human blood cells. Unused medicine or waste material must
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
-Cordex Biologics International Limited 5 th Floor, Block E, Iveagh Court Harcourt Road, Dublin, Ireland Tel: 353 1 960 2797 e-mail: info@cordexbio.com
+Cordex Biologics International Limited
+
+5 th
+
+Floor, Block E, Iveagh Court
+
+Harcourt Road, Dublin, Ireland
+
+Tel: 353 1 960 2797
+
+e-mail: info@cordexbio.com
 
 ## 12. MARKETING AUTHORISATION NUMBER(S)
 
@@ -1133,11 +1249,11 @@ EXP
 
 Once thawed, the shelf life is 1 hour between 15 °C - 30 °C.
 
-<div style=\"page-break-after: always\"></div>
-
 ## 9. SPECIAL STORAGE CONDITIONS
 
 Store and transport below -150 °C. Do not thaw the product until use. Do not refreeze.
+
+<div style=\"page-break-after: always\"></div>
 
 ## 10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
 
@@ -1145,11 +1261,7 @@ This medicine contains human blood cells. Unused medicine or waste material must
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
-Cordex Biologics International Limited
-
-5 th
-
-Floor, Block E, Iveagh Court
+Cordex Biologics International Limited 5 th Floor, Block E, Iveagh Court
 
 Harcourt Road, Dublin, Ireland
 
@@ -1157,11 +1269,7 @@ Tel: 353 1 960 2797
 
 e-mail: info@cordexbio.com
 
-## 12. MARKETING AUTHORISATION NUMBER(S)
-
 EU/1/25/1960/001
-
-## 13. BATCH NUMBER, DONATION AND PRODUCT CODES
 
 Recipient ID:
 
@@ -1173,17 +1281,21 @@ ABO/Rh:
 
 Lot:
 
+Justification for not including Braille accepted .
+
+Not applicable
+
+## 12. MARKETING AUTHORISATION NUMBER(S)
+
+## 13. BATCH NUMBER, DONATION AND PRODUCT CODES
+
 ## 14. GENERAL CLASSIFICATION FOR SUPPLY
 
 ## 15. INSTRUCTIONS ON USE
 
-## 16. INFORMATION IN BRAILLE
-
-Justification for not including Braille accepted .
+16. INFORMATION IN BRAILLE
 
 ## 17. UNIQUE IDENTIFIER - 2D BARCODE
-
-Not applicable
 
 ## 18. UNIQUE IDENTIFIER - HUMAN READABLE DATA
 
@@ -1239,11 +1351,11 @@ EXP
 
 Once thawed, the shelf life is 1 hour between 15 °C - 30 °C.
 
-<div style=\"page-break-after: always\"></div>
-
 ## 9. SPECIAL STORAGE CONDITIONS
 
 Store and transport below -150 °C. Do not thaw the product until use. Do not refreeze.
+
+<div style=\"page-break-after: always\"></div>
 
 ## 10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
 
@@ -1253,9 +1365,7 @@ This medicine contains human blood cells. Unused medicine or waste material must
 
 Cordex Biologics International Limited
 
-5 th
-
-Floor, Block E, Iveagh Court
+5 th Floor, Block E, Iveagh Court
 
 Harcourt Road, Dublin, Ireland
 
@@ -1263,11 +1373,7 @@ Tel: 353 1 960 2797
 
 e-mail: info@cordexbio.com
 
-## 12. MARKETING AUTHORISATION NUMBER(S)
-
 EU/1/25/1960/001
-
-## 13. BATCH NUMBER, DONATION AND PRODUCT CODES
 
 Recipient ID:
 
@@ -1279,21 +1385,182 @@ ABO/Rh:
 
 Lot:
 
+Justification for not including Braille accepted.
+
+Not applicable
+
+## 12. MARKETING AUTHORISATION NUMBER(S)
+
+## 13. BATCH NUMBER, DONATION AND PRODUCT CODES
+
 ## 14. GENERAL CLASSIFICATION FOR SUPPLY
 
-## 15. INSTRUCTIONS ON USE
+15. INSTRUCTIONS ON USE
 
 ## 16. INFORMATION IN BRAILLE
 
-Justification for not including Braille accepted.
-
 ## 17. UNIQUE IDENTIFIER - 2D BARCODE
-
-Not applicable
 
 ## 18. UNIQUE IDENTIFIER - HUMAN READABLE DATA
 
 Not applicable
+
+<div style=\"page-break-after: always\"></div>
+
+| PARTICULARSTOAPPEARONIMMEDIATEPACKAGING                    |
+|------------------------------------------------------------|
+| INFUSIONBAG POUCHLABEL- DOROCUBICEL (EXPANDED CD34+ CELLS) |
+
+| 1.   | NAMEOFTHEMEDICINALPRODUCT   |
+|------|-----------------------------|
+
+| 2.   | STATEMENTOFACTIVE SUBSTANCE(S)   |
+|------|----------------------------------|
+
+Dorocubicel (expanded CD34+ cells)
+
+| 3.   | LIST OF EXCIPIENTS   |
+|------|----------------------|
+
+| 4.   | PHARMACEUTICALFORMANDCONTENTS   |
+|------|---------------------------------|
+
+Bag: X/4
+
+| 5.   | METHODANDROUTE(S) OF ADMINISTRATION   |
+|------|---------------------------------------|
+
+| 6.   | SPECIALWARNINGTHATTHEMEDICINALPRODUCTMUSTBESTOREDOUT OF THE SIGHT AND REACH OF CHILDREN   |
+|------|-------------------------------------------------------------------------------------------|
+
+| 7.   | OTHERSPECIALWARNING(S), IF NECESSARY   |
+|------|----------------------------------------|
+
+| 8.   | EXPIRYDATE   |
+|------|--------------|
+
+| 9.   | SPECIALSTORAGECONDITIONS   |
+|------|----------------------------|
+
+| 10.   | SPECIALPRECAUTIONS FORDISPOSALOFUNUSEDMEDICINAL PRODUCTS OR WASTE MATERIALS DERIVEDFROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE   |
+|-------|-----------------------------------------------------------------------------------------------------------------------------------|
+
+| 11.   | NAMEANDADDRESSOFTHEMARKETINGAUTHORISATIONHOLDER   |
+|-------|---------------------------------------------------|
+
+| 12. MARKETINGAUTHORISATIONNUMBER(S)   |
+|---------------------------------------|
+
+| 13. BATCHNUMBER,DONATIONANDPRODUCTCODES   |
+|-------------------------------------------|
+
+Lot #:
+
+<div style=\"page-break-after: always\"></div>
+
+Recipient ID: Recipient DOB: CBU ID:
+
+| 14. GENERALCLASSIFICATIONFORSUPPLY   |
+|--------------------------------------|
+
+| 15.   | INSTRUCTIONSONUSE   |
+|-------|---------------------|
+
+| 16.   | INFORMATION IN BRAILLE   |
+|-------|--------------------------|
+
+| Justification for not including Braille accepted .   |
+|------------------------------------------------------|
+
+| 17. UNIQUE IDENTIFIER - 2D BARCODE   |
+|--------------------------------------|
+
+Not applicable
+
+| 18. UNIQUE IDENTIFIER-HUMANREADABLEDATA   |
+|-------------------------------------------|
+
+Not applicable
+
+39
+
+<div style=\"page-break-after: always\"></div>
+
+| PARTICULARSTOAPPEARONIMMEDIATEPACKAGING                |
+|--------------------------------------------------------|
+| INFUSIONBAG POUCHLABEL- UNEXPANDED CD34-CELLSCOMPONENT |
+
+| 1.   | NAMEOFTHEMEDICINALPRODUCT   |
+|------|-----------------------------|
+
+| 2.   | STATEMENTOFACTIVE SUBSTANCE(S)   |
+|------|----------------------------------|
+
+Unexpanded CD34- cells
+
+| 3.   | LIST OF EXCIPIENTS   |
+|------|----------------------|
+
+| 4.   | PHARMACEUTICALFORMANDCONTENTS   |
+|------|---------------------------------|
+
+Bag:  X/4
+
+| 5.   | METHODANDROUTE(S) OF ADMINISTRATION   |
+|------|---------------------------------------|
+
+| 6.   | SPECIALWARNINGTHATTHEMEDICINALPRODUCTMUSTBESTOREDOUT OF THE SIGHT AND REACH OF CHILDREN   |
+|------|-------------------------------------------------------------------------------------------|
+
+| 7.   | OTHERSPECIALWARNING(S), IF NECESSARY   |
+|------|----------------------------------------|
+
+| 8.   | EXPIRYDATE   |
+|------|--------------|
+
+| 9.   | SPECIALSTORAGECONDITIONS   |
+|------|----------------------------|
+
+| 10.   | SPECIALPRECAUTIONS FORDISPOSALOFUNUSEDMEDICINAL PRODUCTS OR WASTE MATERIALS DERIVEDFROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE   |
+|-------|-----------------------------------------------------------------------------------------------------------------------------------|
+
+| 11.   | NAMEANDADDRESSOFTHEMARKETINGAUTHORISATIONHOLDER   |
+|-------|---------------------------------------------------|
+
+| 12. MARKETINGAUTHORISATIONNUMBER(S)   |
+|---------------------------------------|
+
+| 13. BATCHNUMBER,DONATIONANDPRODUCTCODES   |
+|-------------------------------------------|
+
+Lot #:
+
+<div style=\"page-break-after: always\"></div>
+
+Recipient ID: Recipient DOB: CBU ID:
+
+| 14. GENERALCLASSIFICATIONFORSUPPLY   |
+|--------------------------------------|
+
+| 15.   | INSTRUCTIONSONUSE   |
+|-------|---------------------|
+
+| 16.   | INFORMATION IN BRAILLE   |
+|-------|--------------------------|
+
+Justification for not including Braille accepted.
+
+| 17. UNIQUE IDENTIFIER - 2D BARCODE   |
+|--------------------------------------|
+
+Not applicable
+
+| 18. UNIQUE IDENTIFIER-HUMANREADABLEDATA   |
+|-------------------------------------------|
+
+Not applicable
+
+41
 
 <div style=\"page-break-after: always\"></div>
 
@@ -1303,7 +1570,7 @@ Not applicable
 
 ## Package leaflet: Information for the patient
 
-## Zemcelpro ≥ 0.23×10 6 viable CD34+ cells/mL / ≥ 0.53×10 6  viable CD3+ cells/mL dispersion for infusion
+## Zemcelpro ≥ 0.23×10 6  viable CD34+ cells/mL / ≥ 0.53×10 6  viable CD3+ cells/mL dispersion for infusion
 
 dorocubicel/ unexpanded CD34- cells
 
@@ -1567,9 +1834,9 @@ Zemcelpro is supplied as one individual treatment dose comprises up to eight (8)
 
 ## Marketing Authorisation Holder and Manufacturer
 
-Cordex Biologics International Inc. 5 th Floor, Block E, Iveagh Court Harcourt Road Dublin, Ireland
+Cordex Biologics International Limited 5 th Floor, Block E, Iveagh Court Harcourt Road
 
-Tel: 353 1 960 2797
+Dublin, Ireland Tel: 353 1 960 2797
 
 e-mail: info@cordexbio.com
 
@@ -1667,17 +1934,3 @@ Follow local guidelines on handling of human-derived material in case of acciden
 ## Precautions to be taken for the disposal of the medicinal product
 
 Unused medicinal product and all material that has been in contact with Zemcelpro (solid and liquid waste) must be handled and disposed of as potentially infectious waste in accordance with local guidelines on handling of human derived material.
-
-<div style=\"page-break-after: always\"></div>
-
-## ANNEX IV
-
-CONCLUSIONS ON THE GRANTING OF THE CONDITIONAL MARKETING AUTHORISATION PRESENTED BY THE EUROPEAN MEDICINES AGENCY
-
-<div style=\"page-break-after: always\"></div>
-
-## Conclusions presented by the European Medicines Agency on:
-
-## · Conditional marketing authorisation
-
-The CHMP having considered the application is of the opinion that the risk-benefit balance is favourable to recommend the granting of the conditional marketing authorisation as further explained in the European Public Assessment Report.

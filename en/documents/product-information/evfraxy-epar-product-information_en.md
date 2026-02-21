@@ -1,20 +1,20 @@
 ---
-document_datetime: 2025-09-01 15:24:30
-document_pages: 39
+document_datetime: 2026-02-19 10:15:39
+document_pages: 38
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/evfraxy-epar-product-information_en.pdf
 document_name: evfraxy-epar-product-information_en.pdf
 version: success
-processing_time: 9.3371947
-conversion_datetime: 2025-12-30 22:24:03.194483
+processing_time: 9.6932875
+conversion_datetime: 2026-02-21 12:39:35.280318
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.66.0
-  docling-core: 2.57.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.13.0
+  docling-jobkit: 1.11.0
+  docling: 2.74.0
+  docling-core: 2.65.1
+  docling-ibm-models: 3.11.0
+  docling-parse: 5.3.2
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.3-arm64-arm-64bit-Mach-O
 ---
 ## ANNEX I
 
@@ -48,7 +48,7 @@ Clear to slightly opalescent, colourless to pale yellow solution.
 
 ## 4.1 Therapeutic indications
 
-Treatment of osteoporosis in postmenopausal women and in men at increased risk of fractures. In postmenopausal women Evfraxy significantly reduces the risk of vertebral, nonvertebral and hip fractures.
+Treatment of osteoporosis in postmenopausal women and in men at increased risk of fractures. In postmenopausal women Evfraxy significantly reduces the risk of vertebral, non-vertebral and hip fractures.
 
 Treatment of bone loss associated with hormone ablation in men with prostate cancer at increased risk of fractures (see section 5.1). In men with prostate cancer receiving hormone ablation, Evfraxy significantly reduces the risk of vertebral fractures.
 
@@ -82,9 +82,7 @@ The safety and efficacy of denosumab have not been studied in patients with hepa
 
 Evfraxy should not be used in children aged &lt; 18 years because of safety concerns of serious hypercalcaemia, and potential inhibition of bone growth and lack of tooth eruption (see sections 4.4 and 5.3). Currently available data for children aged 2 to 17 years are described in sections 5.1 and 5.2.
 
-## Method of administration
-
-For subcutaneous use.
+Method of administration For subcutaneous use.
 
 Administration should be performed by an individual who has been adequately trained in injection techniques.
 
@@ -102,9 +100,7 @@ In order to improve the traceability of biological medicinal products, the name 
 
 ## Calcium and vitamin D supplementation
 
-Adequate intake of calcium and vitamin D is important in all patients. Precautions for use
-
-## Hypocalcaemia
+## Adequate intake of calcium and vitamin D is important in all patients. Precautions for use Hypocalcaemia
 
 It is important to identify patients at risk for hypocalcaemia. Hypocalcaemia must be corrected by adequate intake of calcium and vitamin D before initiating therapy. Clinical monitoring of calcium levels is recommended before each dose and, in patients predisposed to hypocalcaemia within two weeks after the initial dose. If any patient presents with suspected symptoms of hypocalcaemia during treatment (see section 4.8 for symptoms) calcium levels should be measured. Patients should be encouraged to report symptoms indicative of hypocalcaemia.
 
@@ -116,7 +112,7 @@ Concomitant glucocorticoid treatment is an additional risk factor for hypocalcae
 
 ## Renal impairment
 
-Patients with severe renal impairment (creatinine clearance &lt; 30 mL/min) or receiving dialysis are at greater risk of developing hypocalcaemia. The risks of developing hypocalcaemia and accompanying  parathyroid  hormone  elevations  increase  with  increasing  degree  of  renal impairment. Severe and fatal cases have been reported.  Adequate intake of calcium, vitamin D and regular monitoring of calcium is especially important in these patients, see above.
+Patients with severe renal impairment (creatinine clearance &lt; 30 mL/min) or receiving dialysis are at greater risk of developing hypocalcaemia. The risks of developing hypocalcaemia and accompanying parathyroid hormone elevations  increase  with  increasing  degree  of  renal  impairment. Severe and fatal cases have been reported. Adequate intake of calcium,  vitamin  D  and  regular  monitoring  of  calcium  is  especially  important  in  these patients, see above.
 
 ## Skin infections
 
@@ -130,10 +126,10 @@ The start of treatment/new treatment course should be delayed in patients with u
 
 The following risk factors should be considered when evaluating a patient's risk of developing ONJ:
 
-- potency of the medicinal product that inhibits bone resorption (higher risk for highly potent compounds), route of administration (higher risk for parenteral administration) and cumulative dose of bone resorption therapy.
+- potency  of  the  medicinal  product  that  inhibits  bone  resorption  (higher  risk  for  highly  potent compounds), route of administration (higher risk for parenteral administration) and cumulative dose of bone resorption therapy.
 - cancer, co-morbid conditions (e.g. anaemia, coagulopathies, infection), smoking.
 - concomitant therapies: corticosteroids, chemotherapy, angiogenesis inhibitors, radiotherapy to head and neck.
-- poor oral hygiene, periodontal disease, poorly fitting dentures, history of dental disease, invasive dental procedures (e.g. tooth extractions).
+- poor  oral  hygiene,  periodontal  disease,  poorly  fitting  dentures,  history  of  dental  disease,  invasive dental procedures (e.g. tooth extractions).
 
 All patients should be encouraged to maintain good oral hygiene, receive routine dental check-ups, and immediately report any oral symptoms such as dental mobility, pain or swelling or non-healing of sores or discharge during treatment with denosumab. While on treatment, invasive dental procedures should be performed only after careful consideration and be avoided in close proximity to denosumab administration.
 
@@ -145,7 +141,9 @@ Osteonecrosis of the external auditory canal has been reported with denosumab. P
 
 ## Atypical fractures of the femur
 
-Atypical femoral fractures have been reported in patients receiving denosumab (see section 4.8). Atypical femoral fractures may occur with little or no trauma in the subtrochanteric and diaphyseal regions of the femur. Specific radiographic findings characterise these events. Atypical femoral fractures have also been reported in patients with certain co-morbid conditions (e.g. vitamin D deficiency, rheumatoid arthritis, hypophosphatasia) and with use of certain medicinal products (e.g. bisphosphonates, glucocorticoids, proton pump inhibitors). These events have also occurred without antiresorptive therapy. Similar fractures
+Atypical femoral fractures have been reported in patients receiving denosumab (see section 4.8). Atypical femoral fractures may occur with little or no trauma in the subtrochanteric and diaphyseal regions of the femur. Specific radiographic findings characterise these events.
+
+Atypical femoral fractures have also been reported in patients with certain co-morbid conditions (e.g. vitamin D deficiency, rheumatoid arthritis, hypophosphatasia) and with use of certain medicinal products (e.g. bisphosphonates, glucocorticoids, proton pump inhibitors). These events have also occurred without antiresorptive therapy. Similar fractures
 
 <div style=\"page-break-after: always\"></div>
 
@@ -155,7 +153,9 @@ reported in association with bisphosphonates are often bilateral; therefore, the
 
 Long-term antiresorptive treatment (including both denosumab and bisphosphonates) may contribute to an increased risk for adverse outcomes such as osteonecrosis of the jaw and atypical femur fractures due to significant suppression of bone remodelling (see section 4.2).
 
-Concomitant treatment with other denosumab-containing medicinal products Patients being treated with Evfraxy should not be treated concomitantly with other denosumab-containing medicinal products (for prevention of skeletal related events in adults with bone metastases from solid tumours).
+## Concomitant treatment with other denosumab-containing medicinal products
+
+Patients being treated with Evfraxy should not be treated concomitantly with other denosumab-containing medicinal products (for prevention of skeletal related events in adults with bone metastases from solid tumours).
 
 ## Hypercalcaemia in paediatric patients
 
@@ -165,7 +165,7 @@ Evfraxy should not be used in paediatric patients (age &lt; 18). Serious hyperca
 
 This medicine contains 47 mg sorbitol in each mL of solution. The additive effect of concomitantly administered products containing sorbitol (or fructose) and dietary intake of sorbitol (or fructose) should be taken into account.
 
-This medicinal product contains less than 1 mmol sodium (23 mg) per 60 mg that is to say essentially 'sodium-free'.
+This medicinal product contains less than 1 mmol sodium (23 mg) per 60 mg that is to say essentially 'sodiumfree'.
 
 This medicine contains 0.1 mg of polysorbate 20 in each 60 mg/mL pre-filled syringe which is equivalent to 0.1 mg/mL. Polysorbates may cause allergic reactions. The patient needs to be instructed to tell their doctor if they have any known allergies.
 
@@ -183,15 +183,15 @@ In postmenopausal women with osteoporosis the pharmacokinetics and pharmacodynam
 
 There are no or limited amount of data from the use of denosumab in pregnant women. Studies in animals have shown reproductive toxicity (see section 5.3).
 
-Evfraxy is not recommended for use in pregnant women and women of child-bearing potential not using contraception. Women should be advised not to become pregnant during and for at least 5 months after treatment with Evfraxy. Any effects of Evfraxy are likely to be greater during  the  second  and  third  trimesters  of  pregnancy  since  monoclonal  antibodies  are
+Evfraxy  is  not  recommended  for  use  in  pregnant  women  and  women  of  child-bearing  potential  not  using contraception.  Women  should  be  advised  not  to  become  pregnant  during  and  for  at  least  5  months  after treatment  with  Evfraxy.  Any  effects  of  Evfraxy  are  likely  to  be  greater  during the second and third trimesters  of  pregnancy  since  monoclonal  antibodies  are
 
 <div style=\"page-break-after: always\"></div>
 
-transported across the placenta in a linear fashion as pregnancy progresses, with the largest amount transferred during the third trimester.
+transported across the placenta in a linear fashion as pregnancy progresses, with the largest  amount transferred during the third trimester.
 
 ## Breast-feeding
 
-It is unknown whether denosumab is excreted in human milk. In genetically engineered mice in which RANKL has been turned off by gene removal (a 'knockout mouse'), studies suggest absence of RANKL (the target of denosumab see section 5.1) during pregnancy may interfere with maturation of the mammary gland leading to impaired lactation post-partum (see section 5.3). A decision on whether to abstain from breast-feeding or to abstain from therapy with Evfraxy should be made, taking into account the benefit of breast-feeding to the newborn/infant and the benefit of Evfraxy therapy to the woman.
+It is unknown whether denosumab is excreted in human milk. In genetically engineered mice in which RANKL has been turned off by gene removal (a 'knockout mouse'), studies suggest absence of RANKL (the target of denosumab see section 5.1) during pregnancy may interfere with maturation of the mammary gland leading to impaired lactation post-partum (see section 5.3). A decision on whether to abstain from breastfeeding or to abstain from therapy with Evfraxy should be made, taking into account the benefit of breastfeeding to the newborn/infant and the benefit of Evfraxy therapy to the woman.
 
 ## Fertility
 
@@ -209,22 +209,25 @@ The most common side effects with denosumab (seen in more than one patient in te
 
 ## Tabulated list of adverse reactions
 
-The data in table 1 below describe adverse reactions reported from phase II and III clinical trials in patients with osteoporosis and breast or prostate cancer patients receiving hormone ablation; and/or spontaneous reporting.
+The data in table 1 below describe adverse reactions reported from phase II and III clinical trials in patients with  osteoporosis  and  breast  or  prostate  cancer  patients  receiving  hormone  ablation;  and/or  spontaneous reporting.
 
-The following convention has been used for the classification of the adverse reactions (see table 1): very common (≥ 1/10), common (≥ 1/100 to &lt; 1/10), uncommon (≥ 1/1 000 to &lt; 1/100), rare (≥ 1/10 000 to &lt; 1/1 000), very rare (&lt; 1/10 000) and not known (cannot be estimated from the available data). Within each frequency grouping and system organ class, adverse reactions are presented in order of decreasing seriousness.
-
-Table 1. Adverse reactions reported in patients with osteoporosis and breast or prostate cancer patients receiving hormone ablation
-
-| MedDRAsystem organ class           | Frequency category                       | Adverse reactions                                                                                     |
-|------------------------------------|------------------------------------------|-------------------------------------------------------------------------------------------------------|
-| Infections and infestations        | Common Common Uncommon Uncommon Uncommon | Urinary tract infection Upper respiratory tract infection Diverticulitis 1 Cellulitis 1 Ear infection |
-| Immune system disorders            | Rare Rare                                | Drug hypersensitivity 1 Anaphylactic reaction 1                                                       |
-| Metabolism and nutrition disorders | Rare                                     | Hypocalcaemia 1                                                                                       |
+The following convention has been used for the classification of the adverse reactions (see table 1): very common (≥ 1/10), common (≥ 1/100 to &lt; 1/10), uncommon (≥ 1/1 000 to &lt; 1/100), rare (≥ 1/10 000 to &lt; 1/1 000), very rare (&lt; 1/10 000) and not known (cannot be estimated from the available data).  Within  each  frequency  grouping  and  system  organ  class,  adverse  reactions  are  presented  in  order  of decreasing seriousness.
 
 <div style=\"page-break-after: always\"></div>
 
-| MedDRAsystem organ class                        | Frequency category                          | Adverse reactions                                                                                                                               |
+Table 1. Adverse reactions reported in patients with osteoporosis and breast or prostate cancer patients receiving hormone ablation
+
+| MedDRA system organ class                       | Frequency category                          | Adverse reactions                                                                                                                               |
 |-------------------------------------------------|---------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------|
+| Infections and infestations                     | Common                                      | Urinary tract infection                                                                                                                         |
+|                                                 | Common                                      | Upper respiratory tract infection                                                                                                               |
+|                                                 | Uncommon                                    | Diverticulitis1                                                                                                                                 |
+|                                                 | Uncommon                                    | Cellulitis1                                                                                                                                     |
+|                                                 | Uncommon                                    | Ear infection                                                                                                                                   |
+| Immune system disorders                         | Rare                                        | Drug hypersensitivity1                                                                                                                          |
+|                                                 | Rare                                        | Anaphylactic reaction1                                                                                                                          |
+| Metabolism and nutrition disorders              | Rare                                        | Hypocalcaemia1                                                                                                                                  |
+| MedDRAsystem organ class                        | Frequency category                          | Adverse reactions                                                                                                                               |
 | Nervous system disorders                        | Common                                      | Sciatica                                                                                                                                        |
 | Gastrointestinal disorders                      | Common Common                               | Constipation Abdominal discomfort                                                                                                               |
 | Skin and subcutaneous tissue disorders          | Common Common Common Uncommon Very rare     | Rash Eczema Alopecia Lichenoid drug eruptions 1 Hypersensitivity vasculitis                                                                     |
@@ -244,15 +247,15 @@ In the post-marketing setting, rare cases of severe symptomatic hypocalcaemia re
 
 ## Skin infections
 
-In phase III placebo-controlled clinical trials, the overall incidence of skin infections was similar in the placebo and the denosumab groups: in postmenopausal women with osteoporosis (placebo [1.2%, 50 out of 4,041] versus denosumab [1.5%, 59 out of 4,050]); in men with osteoporosis (placebo [0.8%, 1 out of 120] versus denosumab [0%, 0 out of 120]); in breast or prostate cancer patients receiving hormone ablation (placebo [1.7%, 14 out of 845] versus denosumab [1.4%, 12 out of 860]). Skin infections leading to hospitalisation were reported in 0.1% (3 out of 4,041) of postmenopausal women with osteoporosis receiving placebo versus 0.4% (16 out of 4,050) of women receiving denosumab. These cases were predominantly cellulitis. Skin infections reported as serious adverse reactions were similar in the placebo (0.6%, 5 out of 845) and the denosumab (0.6%, 5 out of 860) groups in the breast and prostate cancer studies.
-
-## Osteonecrosis of the jaw
-
-ONJ has been reported rarely, in 16 patients, in clinical trials in osteoporosis and in breast or
+In phase III placebo-controlled clinical trials, the overall incidence of skin infections was similar in the placebo and the denosumab groups: in postmenopausal women with osteoporosis (placebo [1.2%, 50 out of 4,041] versus denosumab [1.5%, 59 out of 4,050]); in men with osteoporosis (placebo [0.8%, 1 out of 120] versus denosumab [0%, 0 out of 120]); in breast or prostate cancer patients receiving hormone ablation (placebo [1.7%, 14 out of 845] versus denosumab [1.4%, 12 out of 860]). Skin infections leading to hospitalisation were reported in 0.1% (3 out of 4,041) of
 
 <div style=\"page-break-after: always\"></div>
 
-prostate cancer patients receiving hormone ablation including a total of 23,148 patients (see section 4.4).
+postmenopausal women with osteoporosis receiving placebo versus 0.4% (16 out of 4,050) of women receiving denosumab. These cases were predominantly cellulitis. Skin infections reported as serious adverse reactions were similar in the placebo (0.6%, 5 out of 845) and the denosumab (0.6%, 5 out of 860) groups in the breast and prostate cancer studies.
+
+## Osteonecrosis of the jaw
+
+ONJ has been reported rarely, in 16 patients, in clinical trials in osteoporosis and in breast or prostate cancer patients receiving hormone ablation including a total of 23,148 patients (see section 4.4).
 
 Thirteen of these ONJ cases occurred in postmenopausal women with osteoporosis during the phase III clinical trial extension following treatment with denosumab for up to 10 years. Incidence of ONJ was 0.04% at 3 years, 0.06% at 5 years and 0.44% at 10 years of denosumab treatment. The risk of ONJ increased with duration of exposure to denosumab.
 
@@ -272,11 +275,11 @@ In the post-marketing setting, rare events of drug-related hypersensitivity, inc
 
 ## Musculoskeletal pain
 
-Musculoskeletal pain, including severe cases, has been reported in patients receiving denosumab in the post-marketing setting. In clinical trials, musculoskeletal pain was very common in both denosumab and placebo groups. Musculoskeletal pain leading to discontinuation of study treatment was uncommon.
+Musculoskeletal pain, including severe cases, has been reported in patients receiving denosumab in the postmarketing setting. In clinical trials, musculoskeletal pain was very common in both denosumab and placebo groups. Musculoskeletal pain leading to discontinuation of study treatment was uncommon.
 
 ## Lichenoid drug eruptions
 
-Lichenoid drug eruptions (e.g. lichen planus-like reactions) have been reported in patients in the post- marketing setting.
+Lichenoid drug eruptions (e.g. lichen planus-like reactions) have been reported in patients in the postmarketing setting.
 
 ## Other special populations
 
@@ -290,9 +293,11 @@ In clinical studies, patients with severe renal impairment (creatinine clearance
 
 ## Reporting of suspected adverse reactions
 
-Reporting suspected adverse reactions after authorisation of the medicinal product is important. It allows continued monitoring of the benefit-risk balance of the medicinal product. Healthcare professionals are asked to report any suspected adverse reactions via the national reporting system listed in Appendix V.
+Reporting suspected adverse reactions after authorisation of the medicinal product is important. It allows continued monitoring of the benefit-risk balance of the medicinal product. Healthcare professionals are asked
 
 <div style=\"page-break-after: always\"></div>
+
+to report any suspected adverse reactions via the  national reporting system listed in Appendix V.
 
 ## 4.9 Overdose
 
@@ -326,16 +331,16 @@ Efficacy and safety of denosumab administered once every 6 months for 3 years we
 
 Denosumab significantly reduced the risk of new vertebral fractures at 1, 2 and 3 years (p &lt; 0.0001) (see table 2).
 
-## Table 2. The effect of denosumab on the risk of new vertebral fractures
-
 <div style=\"page-break-after: always\"></div>
 
-|           | Proportion of women with fracture (%)   | Proportion of women with fracture (%)   | Absolute risk reduction (%) (95% CI)   | Relative risk reduction (%) (95% CI)   |
-|-----------|-----------------------------------------|-----------------------------------------|----------------------------------------|----------------------------------------|
-|           | Placebo n = 3,906                       | Denosumab n =3,902                      |                                        |                                        |
-| 0-1 year  | 2.2                                     | 0.9                                     | 1.4 (0.8, 1.9)                         | 61 (42, 74)**                          |
-| 0-2 years | 5.0                                     | 1.4                                     | 3.5 (2.7, 4.3)                         | 71 (61, 79)**                          |
-| 0-3 years | 7.2                                     | 2.3                                     | 4.8 (3.9, 5.8)                         | 68 (59, 74)*                           |
+Table 2. The effect of denosumab on the risk of new vertebral fractures
+
+|           | Proportion of women with fracture (%)   | Proportion of women with fracture (%)   | Absolute reduction (%) CI)   | risk (95% Relative risk reduction(%) (95%   |
+|-----------|-----------------------------------------|-----------------------------------------|------------------------------|---------------------------------------------|
+|           | Placebo n = 3,906                       | Denosumab n = 3,902                     | Absolute reduction (%) CI)   | risk (95% Relative risk reduction(%) (95%   |
+| 0-1 year  | 2.2                                     | 0.9                                     | 1.4 (0.8, 1.9)               | 61 (42, 74)**                               |
+| 0-2 years | 5.0                                     | 1.4                                     | 3.5 (2.7, 4.3)               | 71 (61, 79)**                               |
+| 0-3 years | 7.2                                     | 2.3                                     | 4.8 (3.9, 5.8)               | 68 (59, 74)*                                |
 
 *p &lt; 0.0001, **p &lt; 0.0001 - exploratory analysis
 
@@ -351,14 +356,14 @@ Denosumab significantly reduced fractures across all fracture types/groups (see 
 
 Table 3. The effect of denosumab on the risk of clinical fractures over 3 years
 
-|                                | Proportion of womenwith fracture (%) +   | Proportion of womenwith fracture (%) +   | Absolute risk reduction (%) (95% CI)   | Relative risk reduction (%)   |
-|--------------------------------|------------------------------------------|------------------------------------------|----------------------------------------|-------------------------------|
-|                                | Placebo n = 3,906                        | Denosumab n =3,902                       |                                        | (95% CI)                      |
-| Any clinical fracture 1        | 10.2                                     | 7.2                                      | 2.9 (1.6, 4.2)                         | 30 (19, 41)***                |
-| Clinical vertebral fracture    | 2.6                                      | 0.8                                      | 1.8 (1.2, 2.4)                         | 69 (53, 80)***                |
-| Non-vertebral fracture 2       | 8.0                                      | 6.5                                      | 1.5 (0.3, 2.7)                         | 20 (5, 33)**                  |
-| Major non-vertebral fracture 3 | 6.4                                      | 5.2                                      | 1.2 (0.1, 2.2)                         | 20 (3, 34)*                   |
-| Major osteoporotic fracture 4  | 8.0                                      | 5.3                                      | 2.7 (1.6, 3.9)                         | 35 (22, 45)***                |
+|                                | Proportion of womenwith fracture (%) +   | Proportion of womenwith fracture (%) +   | Absolute reduction   | risk (%) Relative risk reduction(%)   |
+|--------------------------------|------------------------------------------|------------------------------------------|----------------------|---------------------------------------|
+|                                | Placebo n = 3,906                        | Denosumab n =3,902                       | (95% CI)             | (95% CI)                              |
+| Any clinical fracture 1        | 10.2                                     | 7.2                                      | 2.9 (1.6, 4.2)       | 30 (19, 41)***                        |
+| Clinical vertebral fracture    | 2.6                                      | 0.8                                      | 1.8 (1.2, 2.4)       | 69 (53, 80)***                        |
+| Non-vertebral fracture 2       | 8.0                                      | 6.5                                      | 1.5 (0.3, 2.7)       | 20 (5, 33)**                          |
+| Major non-vertebral fracture 3 | 6.4                                      | 5.2                                      | 1.2 (0.1, 2.2)       | 20 (3, 34)*                           |
+| Major osteoporotic fracture 4  | 8.0                                      | 5.3                                      | 2.7 (1.6, 3.9)       | 35 (22, 45)***                        |
 
 *p ≤ 0.05, **p = 0.0106 (secondary endpoint included in multiplicity adjustment) , ***p ≤ 0.0001
 
@@ -372,7 +377,7 @@ Table 3. The effect of denosumab on the risk of clinical fractures over 3 years
 
 4 Includes clinical vertebral, hip, forearm, and humerus fractures, as defined by the WHO.
 
-In women with baseline femoral neck BMD ≤ -2.5, denosumab reduced the risk of nonvertebral fracture (35% relative risk reduction, 4.1% absolute risk reduction, p &lt; 0.001, exploratory analysis).
+In women with baseline femoral neck BMD ≤ -2.5, denosumab reduced the risk of non-vertebral fracture (35% relative risk reduction, 4.1% absolute risk reduction, p &lt; 0.001, exploratory analysis).
 
 The reduction in the incidence of new vertebral fractures, hip fractures and non-vertebral fractures by denosumab over 3 years were consistent regardless of the 10-year baseline fracture risk.
 
@@ -388,7 +393,7 @@ In clinical studies examining the effects of discontinuation of denosumab, BMD r
 
 A total of 4,550 women (2,343 denosumab &amp; 2,207 placebo) who missed no more than one dose of investigational product in the pivotal study described above and completed the month 36 study visit agreed to enrol in a 7-year, multinational, multicentre, open-label, single-arm extension study to evaluate the long-term safety and efficacy of denosumab. All women in the extension study were to receive denosumab 60 mg every 6 months, as well as daily calcium (at least 1 g) and vitamin D (at least 400 IU). A total of 2,626 subjects (58% of the women included in the extension study i.e. 34% of the women included in the pivotal study) completed the extension study.
 
-In patients treated with denosumab for up to 10 years, BMD increased from the pivotal study baseline by 21.7% at the lumbar spine, 9.2% at the total hip, 9.0% at the femoral neck, 13.0% at the trochanter and 2.8% at the distal 1/3 radius. The mean lumbar spine BMD T-score at the end of the study was -1.3 in patients treated for 10 years.
+In patients treated with denosumab for up to 10 years, BMD increased from the pivotal study baseline by 21.7% at the lumbar spine, 9.2% at the total hip, 9.0% at the femoral neck, 13.0% at the trochanter and 2.8% at the distal 1/3 radius. The mean lumbar spine BMD Tscore at the end of the study was -1.3 in patients treated for 10 years.
 
 Fracture incidence was evaluated as a safety endpoint but efficacy in fracture prevention cannot be estimated due to high number of discontinuations and open-label design. The cumulative incidence of new vertebral and non-vertebral fractures were approximately 6.8% and 13.1% respectively, in patients who remained on denosumab treatment for 10 years (n = 1,278). Patients who did not complete the study for any reason had higher on-treatment fracture rates.
 
@@ -418,7 +423,7 @@ Denosumab demonstrated a significant relative risk reduction of new vertebral fr
 
 ## Clinical efficacy and safety in patients with bone loss associated with adjuvant aromatase inhibitor therapy
 
-Efficacy and safety of denosumab once every 6 months for 2 years were investigated in women with non-metastatic breast cancer (252 women aged 35-84 years) and baseline BMD T-scores between -1.0 to -2.5 at the lumbar spine, total hip or femoral neck. All women received calcium (at least 1,000 mg) and vitamin D (at least 400 IU) supplementation daily.
+Efficacy and safety of denosumab once every 6 months for 2 years were investigated in women with nonmetastatic breast cancer (252 women aged 35-84 years) and baseline BMD T-scores between -1.0 to -2.5 at the lumbar spine, total hip or femoral neck. All women received calcium (at least 1,000 mg) and vitamin D (at least 400 IU) supplementation daily.
 
 The primary efficacy variable was percent change in lumbar spine BMD, fracture efficacy was not evaluated. Denosumab significantly increased BMD at all clinical sites measured, relative to treatment with placebo at 2 years: 7.6% at lumbar spine, 4.7% at total hip, 3.6% at femoral neck, 5.9% at hip trochanter, 6.1% at distal 1/3 radius and 4.2% at total body (all p &lt; 0.0001).
 
@@ -426,7 +431,7 @@ The primary efficacy variable was percent change in lumbar spine BMD, fracture e
 
 Efficacy and safety of denosumab were investigated in 795 patients (70% women and 30% men) aged 20 to 94 years treated with ≥ 7.5 mg daily oral prednisone (or equivalent).
 
-Two subpopulations were studied: glucocorticoidcontinuing (≥ 7.5 mg daily prednisone or its equivalent for ≥ 3 months prior to study enrolment; n = 505) and glucocorticoid -initiating (≥ 7.5 mg daily prednisone or its equivalent for &lt; 3 months prior to stu dy enrolment; n = 290). Patients were randomised (1:1) to receive either denosumab 60 mg subcutaneously once every 6 months or oral risedronate 5 mg once daily (active control) for 2 years. Patients received calcium (at least 1,000 mg) and vitamin D (at least 800 IU) supplementation daily.
+Two subpopulations were studied: glucocorticoidcontinuing (≥ 7.5 mg daily prednisone or its equivalent for ≥ 3 months prior to study enrolment; n = 505) and glucocorticoidinitiating (≥ 7.5 mg daily prednisone or its equivalent for &lt; 3 months prior to study enrolment; n = 290). Patients were randomised (1:1) to receive either denosumab 60 mg subcutaneously once every 6 months or oral risedronate 5 mg once daily (active control) for 2 years. Patients received calcium (at least 1,000 mg) and vitamin D (at least 800 IU) supplementation daily.
 
 ## Effect on Bone Mineral Density (BMD)
 
@@ -434,7 +439,7 @@ In the glucocorticoid-continuing subpopulation, denosumab demonstrated a greater
 
 In addition, denosumab demonstrated a significantly greater mean percent increase in BMD from baseline compared to risedronate at the total hip, femoral neck, and hip trochanter.
 
-The study was not powered to show a difference in fractures. At 1 year, the subject incidence of new radiological vertebral fracture was 2.7% (denosumab) versus 3.2% (risedronate). The subject incidence of non-vertebral fracture was 4.3% (denosumab) versus 2.5% (risedronate). At 2 years, the corresponding numbers were 4.1% versus 5.8% for new
+The study was not powered to show a difference in fractures. At 1 year, the subject incidence of new radiological vertebral fracture was 2.7% (denosumab) versus 3.2% (risedronate). The subject incidence of nonvertebral fracture was 4.3% (denosumab) versus 2.5% (risedronate). At 2 years, the corresponding numbers were 4.1% versus 5.8% for new
 
 <div style=\"page-break-after: always\"></div>
 
@@ -446,7 +451,9 @@ A single-arm phase 3 study evaluated the efficacy, safety, and pharmacokinetics 
 
 At month 12 of every 3 months dosing, the least squares (LS) mean (standard error, SE) change from baseline in lumbar spine BMD Z-score was 1.01 (0.12).
 
-The most common adverse events reported during every 6 months dosing were arthralgia (45.8%), pain in extremity (37.9%), back pain (32.7%), and hypercalciuria (32.0%). Hypercalcaemia was reported during every 6 months (19%) and every 3 months (36.7%) dosing. Serious adverse events of hypercalcaemia (13.3%) were reported during every 3 months dosing.
+The most common adverse events reported during every 6 months dosing were arthralgia (45.8%), pain in extremity (37.9%), back pain (32.7%), and hypercalciuria (32.0%).
+
+Hypercalcaemia  was  reported  during  every  6  months  (19%)  and  every  3  months  (36.7%)  dosing.  Serious adverse events of hypercalcaemia (13.3%) were reported during every 3 months dosing.
 
 In an extension study (N = 75), serious adverse events of hypercalcaemia (18.5%) were observed during every 3 months dosing.
 
@@ -462,7 +469,7 @@ Following subcutaneous administration of a 1.0 mg/kg dose, which approximates th
 
 6 mcg/mL (range 1-17 mcg/mL) occurred in 10 days (range 2-
 
-28 days). Biotransformation
+## 28 days). Biotransformation
 
 Denosumab is composed solely of amino acids and carbohydrates as native immunoglobulin and is unlikely to be eliminated via hepatic metabolic mechanisms. Its metabolism and elimination are expected to follow the immunoglobulin clearance pathways, resulting in degradation to small peptides and individual amino acids.
 
@@ -480,7 +487,7 @@ A trend was observed between higher body weight and lower exposure based on AUC 
 
 ## Linearity/non-linearity
 
-In dose ranging studies, denosumab exhibited non-linear, dose-dependent pharmacokinetics, with lower clearance at higher doses or concentrations, but approximately dose-proportional increases in exposures for doses of 60 mg and greater.
+In  dose  ranging  studies,  denosumab  exhibited  non-linear,  dose-dependent  pharmacokinetics,  with  lower clearance at higher doses or concentrations, but approximately dose-proportional increases in exposures for doses of 60 mg and greater.
 
 ## Renal impairment
 
@@ -518,7 +525,9 @@ In preclinical bone quality studies in monkeys on long-term denosumab treatment,
 
 In male mice genetically engineered to express huRANKL (knock-in mice), which were subjected to a transcortical fracture, denosumab delayed the removal of cartilage and remodelling of the fracture callus compared to control, but biomechanical strength was not adversely affected.
 
-Knockout mice (see section 4.6) lacking RANK or RANKL exhibited decreased body weight, reduced bone growth and lack of tooth eruption. In neonatal rats, inhibition of RANKL (target of denosumab therapy) with high doses of a construct of osteoprotegerin bound to Fc (OPGFc) was associated with inhibition of bone growth and tooth eruption. These changes were partially reversible in this model when dosing with RANKL inhibitors was discontinued. Adolescent primates dosed with denosumab at 27 and 150 times (10 and 50 mg/kg dose) the clinical exposure had abnormal growth plates. Therefore, treatment with denosumab may impair bone growth in children with open growth plates and may inhibit eruption of dentition.
+Knockout mice (see section 4.6) lacking RANK or RANKL exhibited decreased body weight, reduced bone growth and lack of tooth eruption. In neonatal rats, inhibition of RANKL (target of denosumab therapy) with high doses of a construct of osteoprotegerin bound to Fc (OPG-Fc) was associated with inhibition of bone growth and tooth eruption. These changes were partially reversible in this model when dosing with RANKL inhibitors was discontinued.
+
+Adolescent primates dosed with denosumab at 27 and 150 times (10 and 50 mg/kg dose) the clinical exposure had abnormal growth plates. Therefore, treatment with denosumab may impair bone growth in children with open growth plates and may inhibit eruption of dentition.
 
 ## 6. PHARMACEUTICAL PARTICULARS
 
@@ -542,11 +551,13 @@ Store in a refrigerator (2°C - 8°C).
 
 <div style=\"page-break-after: always\"></div>
 
-Do not freeze. Keep the container in the outer carton in order to protect from light.
+Do not freeze.
+
+Keep the container in the outer carton in order to protect from light.
 
 ## 6.5 Nature and contents of container
 
-One mL solution in a single use pre-filled syringe made from type I glass with stainless steel needle (29 G×½-inch), with a needle guard and a rubber plunger stopper (fluoropolymer coated bromobutyl rubber).
+One mL solution in a single use pre-filled syringe made from type I glass with stainless steel needle (29 G×½inch), with a needle guard and a rubber plunger stopper (fluoropolymer coated bromobutyl rubber).
 
 Pack size of one pre-filled syringe, presented in blistered packaging (pre-filled syringe with a needle guard)
 
@@ -563,13 +574,17 @@ Any unused medicinal product or waste material should be disposed of in accordan
 
 ## Biosimilar Collaborations Ireland Limited
 
-Unit 35/36, Grange Parade, Baldoyle Industrial Estate, Dublin 13, Dublin, Ireland, D13 R20R
+Unit 35/36, Grange Parade, Baldoyle Industrial Estate,
+
+Dublin 13, Dublin, Ireland, D13 R20R
 
 ## 8. MARKETING AUTHORISATION NUMBER(S)
 
 EU/1/25/1946/001
 
 ## 9. DATE OF FIRST AUTHORISATION/RENEWAL OF THE AUTHORISATION
+
+Date of first authorisation: 30 June 2025
 
 ## 10. DATE OF REVISION OF THE TEXT
 
@@ -580,12 +595,11 @@ Detailed information on this medicinal product is available on the website of th
 ## ANNEX II
 
 - A. MANUFACTURERS OF THE BIOLOGICAL ACTIVE SUBSTANCE AND MANUFACTURERS RESPONSIBLE FOR BATCH RELEASE
-
-## B. CONDITIONS OR RESTRICTIONS REGARDING SUPPLY AND USE
+- B. CONDITIONS OR RESTRICTIONS REGARDING SUPPLY AND USE
 
 ## C. OTHER CONDITIONS AND REQUIREMENTS OF THE MARKETING AUTHORISATION
 
-## D. CONDITIONS OR RESTRICTIONS WITH REGARD TO THE SAFE AND EFFECTIVE USE OF THE MEDICINAL PRODUCT
+- D. CONDITIONS OR RESTRICTIONS WITH REGARD TO THE SAFE AND EFFECTIVE USE OF THE MEDICINAL PRODUCT
 
 <div style=\"page-break-after: always\"></div>
 
@@ -595,9 +609,9 @@ Name and address of the manufacturers of the biological active substance
 
 ## Biocon Biologics Limited
 
-Block No, B1, B2, B3, B5, Q13 of Q1 and W20 &amp; Unit S18, 1st Floor, Block B4, Special Economic Zone, Plot No. 2, 3, 4 &amp; 5, Phase IV Bommasandra - Jigani Link Road, Bommasandra, Bengaluru - 560099
+Block No, B1, B2, B3, B5, Q13 of Q1 and W20 &amp; Unit S18, 1st Floor, Block B4, Special Economic Zone, Plot No. 2, 3, 4 &amp; 5, Phase IV
 
-India (IND)
+Bommasandra - Jigani Link Road, Bommasandra, Bengaluru - 560099 India (IND)
 
 Name and address of the manufacturers responsible for batch release
 
@@ -617,14 +631,14 @@ The requirements for submission of PSURs for this medicinal product are set out 
 
 ## D. CONDITIONS OR RESTRICTIONS WITH REGARD TO THE SAFE AND EFFECTIVE USE OF THE MEDICINAL PRODUCT
 
-## · Risk management plan (RMP)
+- Risk management plan (RMP)
 
 The marketing authorisation holder (MAH) shall perform the required pharmacovigilance activities and interventions detailed in the agreed RMP presented in Module 1.8.2 of the marketing authorisation and any agreed subsequent updates of the RMP.
 
-An updated RMP should be submitted:
+## An updated RMP should be submitted:
 
 - At the request of the European Medicines Agency;
-- Whenever the risk management system is modified, especially as the result of new information  being received that may lead to a significant change to the benefit-risk profile  or  as  the  result  of  an  important  (pharmacovigilance  or  risk  minimisation) milestone being reached.
+- Whenever the risk management system is modified, especially as the result of new information being received that may lead to a significant change to the benefit-risk profile or as the result of an important (pharmacovigilance or risk minimisation) milestone being reached.
 - Additional risk minimisation measures
 
 The MAH shall ensure that a patient reminder card regarding osteonecrosis of the jaw is implemented.
@@ -687,22 +701,6 @@ Do not freeze.
 
 Keep the container in the outer carton in order to protect from light.
 
-## Biosimilar Collaborations Ireland Limited
-
-Unit 35/36, Grange Parade, Baldoyle Industrial Estate, Dublin 13, Dublin, Ireland, D13 R20R
-
-EU/1/25/1946/001
-
-Lot
-
-Evfraxy
-
-2D barcode carrying the unique identifier included.
-
-PC SN
-
-10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
-
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
 ## 12. MARKETING AUTHORISATION NUMBER(S)
@@ -717,17 +715,35 @@ PC SN
 
 17. UNIQUE IDENTIFIER - 2D BARCODE
 
-18. UNIQUE IDENTIFIER - HUMAN READABLE DATA
+## 18. UNIQUE IDENTIFIER - HUMAN READABLE DATA
 
-<div style=\"page-break-after: always\"></div>
+## Biosimilar Collaborations Ireland Limited
+
+Unit 35/36, Grange Parade, Baldoyle Industrial Estate, Dublin 13, Dublin, Ireland, D13 R20R
+
+EU/1/25/1946/001
+
+Lot
+
+Evfraxy
+
+2D barcode carrying the unique identifier included.
+
+PC
+
+SN
 
 NN
 
+10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
+
 <div style=\"page-break-after: always\"></div>
 
-| MINIMUMPARTICULARSTOAPPEARONBLISTERSORSTRIPS   |
-|------------------------------------------------|
-| BLISTEREDPRE-FILLEDSYRINGE                     |
+<div style=\"page-break-after: always\"></div>
+
+| MINIMUMPARTICULARSTO APPEAR ONBLISTERS ORSTRIPS   |
+|---------------------------------------------------|
+| BLISTERED PRE-FILLED SYRINGE                      |
 
 | 1.   | NAMEOFTHEMEDICINALPRODUCT   |
 |------|-----------------------------|
@@ -739,8 +755,8 @@ Evfraxy 60 mg solution for injection denosumab
 
 Biosimilar Collaborations Ireland Limited
 
-| 3.   | EXPIRYDATE   |
-|------|--------------|
+| 3.   | EXPIRY DATE   |
+|------|---------------|
 
 EXP
 
@@ -760,7 +776,7 @@ SC
 
 | MINIMUMPARTICULARSTOAPPEARONSMALLIMMEDIATEPACKAGINGUNITS   |
 |------------------------------------------------------------|
-| PRE-FILLEDSYRINGELABELWITHNEEDLEGUARD(BLISTERED)           |
+| PRE-FILLED SYRINGE LABEL WITH NEEDLE GUARD(BLISTERED)      |
 
 | 1.   | NAMEOFTHEMEDICINALPRODUCTANDROUTE(S)OFADMINISTRATION   |
 |------|--------------------------------------------------------|
@@ -770,8 +786,8 @@ Evfraxy 60 mg solution for injection denosumab SC
 | 2.   | METHODOFADMINISTRATION   |
 |------|--------------------------|
 
-| 3.   | EXPIRYDATE   |
-|------|--------------|
+| 3.   | EXPIRY DATE   |
+|------|---------------|
 
 EXP
 
@@ -806,13 +822,15 @@ Biosimilar Collaborations Ireland Limited
 
 - B. PACKAGE LEAFLET
 
-<div style=\"page-break-after: always\"></div>
-
 ## Package leaflet: Information for the user
 
-## Evfraxy 60 mg solution for injection in pre-filled syringe denosumab
+<div style=\"page-break-after: always\"></div>
 
-▼ This medicine is subject to further monitoring. This will allow new safety information to be obtained quickly. You can help by reporting any side effects you get. Information on how to report side effects can be found at the end of section 4.
+## Evfraxy 60 mg solution for injection in pre-filled syringe
+
+denosumab
+
+▼This medicine is subject to further monitoring. This will allow new safety information to be obtained quickly. You can help by reporting any side effects you get. Information on how to report side effects can be found at the end of section 4.
 
 ## Read all of this leaflet carefully before you start using this medicine because it contains important information for you.
 
@@ -835,23 +853,23 @@ Biosimilar Collaborations Ireland Limited
 
 Evfraxy contains denosumab, a protein (monoclonal antibody) that interferes with the action of another protein, in order to treat bone loss and osteoporosis. Treatment with Evfraxy makes bone stronger and less likely to break.
 
-Bone is a living tissue and is renewed all the time. Oestrogen helps keep bones healthy. After the menopause, oestrogen level drops which may cause bones to become thin and fragile. This can eventually lead to a condition called osteoporosis. Osteoporosis can also occur in men due to a number of causes including ageing and/or a low level of the male hormone, testosterone. It can also occur in patients receiving glucocorticoids. Many patients with osteoporosis have no symptoms, but they are still at risk of breaking bones, especially in the spine, hips and wrists.
+Bone is a living tissue and is renewed all the time. Oestrogen helps keep bones healthy. After the menopause, oestrogen level drops which may cause bones to become thin and fragile.
+
+This can eventually lead to a condition called osteoporosis. Osteoporosis can also occur in men due to a number of causes including ageing and/or a low level of the male hormone, testosterone. It can also occur in patients receiving glucocorticoids. Many patients with osteoporosis have no symptoms, but they are still at risk of breaking bones, especially in the spine, hips and wrists.
 
 Surgery or medicines that stop the production of oestrogen or testosterone used to treat patients with breast or prostate cancer can also lead to bone loss. The bones become weaker and break more easily.
 
 ## What Evfraxy is used for
 
-## Evfraxy is used to treat:
+Evfraxy is used to treat:
 
 - osteoporosis in women after the menopause (postmenopausal) and men who have an increased risk of fracture (broken bones), reducing the risk of spinal, non-spinal and hip fractures.
-- bone loss that results from a reduction in hormone (testosterone) level caused by surgery or treatment with medicines in patients with prostate cancer.
-- bone loss that results from long-term treatment with glucocorticoids in patients who have an increased risk of fracture.
+- bone  loss  that  results  from  a  reduction  in  hormone  (testosterone)  level  caused  by  surgery  or treatment with medicines in patients with prostate cancer.
+- bone  loss  that  results  from  long-term  treatment  with  glucocorticoids  in  patients  who  have  an increased risk of fracture.
 
 <div style=\"page-break-after: always\"></div>
 
-## 2. What you need to know before you use Evfraxy
-
-## Do not use Evfraxy
+## 2. What you need to know before you use Evfraxy Do not use Evfraxy
 
 - if you have low calcium levels in the blood (hypocalcaemia).
 - if you are allergic to denosumab or any of the other ingredients of this medicine (listed in section 6).
@@ -885,15 +903,13 @@ Before receiving treatment, tell your doctor or nurse (health care professional)
 
 Your doctor may ask you to undergo a dental examination before you start treatment with Evfraxy.
 
-While being treated, you should maintain good oral hygiene and receive routine dental checkups. If you wear dentures you should make sure these fit properly. If you are under dental
-
-<div style=\"page-break-after: always\"></div>
-
-treatment or will undergo dental surgery (e.g. tooth extractions), inform your doctor about your dental treatment and tell your dentist that you are being treated with Evfraxy.
+While being treated, you should maintain good oral hygiene and receive routine dental check-ups. If you wear dentures you should make sure these fit properly. If you are under dental treatment or will undergo dental surgery (e.g. tooth extractions), inform your doctor about your dental treatment and tell your dentist that you are being treated with Evfraxy.
 
 Contact your doctor and dentist immediately if you experience any problems with your mouth or teeth such as loose teeth, pain or swelling, or non-healing of sores or discharge, as these could be signs of ONJ.
 
 ## Unusual thigh bone fractures
+
+<div style=\"page-break-after: always\"></div>
 
 Some people have developed unusual fractures in their thigh bone while being treated with Evfraxy. Contact your doctor if you experience new or unusual pain in your hip, groin, or thigh.
 
@@ -931,8 +947,6 @@ This medicine contains less than 1 mmol sodium (23 mg) per 60 mg, that is to say
 
 ## Evfraxy contains Polysorbate 20
 
-<div style=\"page-break-after: always\"></div>
-
 This medicine contains 0.1 mg of polysorbate 20 in each 60 mg/mL pre-filled syringe which is equivalent to 0.1 mg/mL. Polysorbates may cause allergic reactions. Tell your doctor if you have any known allergies.
 
 ## 3. How to use Evfraxy
@@ -940,6 +954,8 @@ This medicine contains 0.1 mg of polysorbate 20 in each 60 mg/mL pre-filled syri
 The recommended dose is one pre-filled syringe of 60 mg administered once every 6 months, as a single injection under the skin (subcutaneous). The best places to inject are the top of your thighs and the abdomen. Your carer can also use the outer area of your upper arm. Please consult your doctor on the date for a potential next injection. Each pack of Evfraxy contains a reminder card, that can be removed from the carton and used to keep a record of the next injection date.
 
 You should also take calcium and vitamin D supplements while being on treatment with Evfraxy. Your doctor will discuss this with you.
+
+<div style=\"page-break-after: always\"></div>
 
 Your doctor may decide that it is best for you or a carer to inject Evfraxy. Your doctor or healthcare provider will show you or your carer how to use Evfraxy. For instructions on how to inject Evfraxy, please read the section at the end of this leaflet.
 
@@ -963,8 +979,6 @@ Rarely, patients receiving Evfraxy may develop pain in the mouth and/or jaw, swe
 
 Rarely, patients receiving Evfraxy may have low calcium levels in the blood (hypocalcaemia) ; severely low blood calcium levels may lead to hospitalisation and may even be life-threatening. Symptoms include spasms, twitches, or cramps in your muscles, and/or numbness or tingling in your fingers, toes or around your mouth and/or seizures, confusion, or loss of consciousness. If any of these apply to you, tell your doctor immediately . Low calcium in the blood may also lead to a change in heart rhythm called QT prolongation which is seen by electrocardiogram (ECG).
 
-<div style=\"page-break-after: always\"></div>
-
 Rarely unusual fractures of the thigh bone may occur in patients receiving Evfraxy. Contact your doctor if you experience new or unusual pain in your hip, groin or thigh as this may be an early indication of a possible fracture of the thigh bone.
 
 Rarely, allergic reactions may occur in patients receiving Evfraxy. Symptoms include swelling of the face, lips, tongue, throat or other parts of the body; rash, itching or hives on the skin, wheezing or difficulty breathing. Please tell your doctor if you develop any of these symptoms while being treated with Evfraxy.
@@ -982,6 +996,9 @@ Common side effects (may affect up to 1 in 10 people):
 - constipation,
 - abdominal discomfort,
 - rash,
+
+<div style=\"page-break-after: always\"></div>
+
 - skin condition with itching, redness and/or dryness (eczema),
 - hair loss (alopecia).
 
@@ -1001,7 +1018,7 @@ Not known (frequency cannot be estimated from the available data):
 
 ## Reporting of side effects
 
-If you get any side effects, talk to your doctor or pharmacist. This includes any possible side effects not listed in this leaflet. You can also report side effects directly via the national reporting system listed in Appendix V. By reporting side effects you can help provide more information on the safety of this medicine.
+If you get any side effects, talk to your doctor or pharmacist. This includes any possible side effects not listed in this leaflet. You can also report side effects directly via the national  reporting system listed in Appendix V. By reporting side effects you can help provide more information on the safety of this medicine.
 
 ## 5. How to store Evfraxy
 
@@ -1009,21 +1026,15 @@ Keep this medicine out of the sight and reach of children.
 
 Do not use this medicine after the expiry date which is stated on the label and carton after EXP. The expiry date refers to the last day of that month.
 
-<div style=\"page-break-after: always\"></div>
-
-Store in a refrigerator (2°C
-
-- 8°C). Do not freeze.
+Store in a refrigerator (2°C - 8°C). Do not freeze.
 
 Keep the container in the outer carton in order to protect from light.
 
-Your pre-filled syringe may be left outside the refrigerator to reach room temperature (up to  25°C)  before  injection.  This  will  make  the  injection  more  comfortable.  Once  your syringe has been left to reach room temperature (up to 25°C), it must be used within 30 days.
+Your pre-filled  syringe  may  be  left  outside  the  refrigerator  to  reach  room  temperature  (up  to  25°C)  before injection.  This  will  make  the  injection  more  comfortable.  Once  your  syringe  has  been  left  to  reach  room temperature (up to 25°C), it must be used within 30 days.
 
 Do not throw away any medicines via wastewater or household waste. Ask your pharmacist how to throw away medicines you no longer use. These measures will help to protect the environment.
 
-## 6. Contents of the pack and other
-
-## information What Evfraxy contains
+## 6. Contents of the pack and other information What Evfraxy contains
 
 - -The active substance is denosumab. Each 1 mL pre-filled syringe contains 60 mg of denosumab (60 mg/mL).
 - -The other ingredients are acetic acid, glacial, sodium acetate trihydrate, sodium hydroxide, sorbitol, polysorbate 20and water for injections.
@@ -1034,17 +1045,15 @@ Evfraxy is a clear to slightly opalescent, colourless to pale yellow solution fo
 
 Each pack contains one pre-filled syringe with a needle guard.
 
-## Marketing Authorisation Holder
+## Marketing Authorisation Holder Biosimilar Collaborations Ireland Limited
 
-## Biosimilar Collaborations Ireland Limited
+Unit 35/36, Grange Parade,
 
-Unit 35/36, Grange Parade, Baldoyle Industrial Estate, Dublin 13,
+<div style=\"page-break-after: always\"></div>
 
-Dublin, Ireland, D13 R20R
+Baldoyle Industrial Estate, Dublin 13, Dublin, Ireland, D13 R20R
 
-## Manufacturer
-
-## Biosimilar Collaborations Ireland Limited
+## Manufacturer Biosimilar Collaborations Ireland Limited
 
 Block B, The Crescent Building, Santry, Demesne, Dublin, D09 C6X, Ireland
 
@@ -1052,35 +1061,19 @@ For any information about this medicine, please contact the local representative
 
 ## België/Belgique/Belgien
 
-Biocon Biologics Belgium BV
-
-Tél/Tel: 0080008250910
-
-## Lietuva
-
-Biosimilar Collaborations Ireland Limited Tel: 0080008250910
+Biocon Biologics BelgiumBV Tél/Tel: 0080008250910
 
 ## България
 
-Biosimilar Collaborations Ireland Limited
-
-Тел:
-
-0080008250910
-
-## Luxembourg/Luxemburg
-
-Biocon Biologics France S.A.S Tél/Tel: 0080008250910 (Belgique/Belgien)
-
-<div style=\"page-break-after: always\"></div>
+Biosimilar Collaborations Ireland Limited Тел: 0080008250910
 
 ## Česká republika
 
-Biocon Biologics Germany GmbH Tel: 0080008250910
+Biocon Biologics GermanyGmbH Tel: 0080008250910
 
 ## Danmark
 
-Biocon Biologics Finland OY Tlf: 0080008250910
+Biocon Biologics FinlandOY Tlf: 0080008250910
 
 ## Deutschland
 
@@ -1096,37 +1089,41 @@ Biocon Biologics Greece ΜΟΝΟΠΡΟΣΩΠΗ Ι.Κ.Ε Τηλ.: 0080008250910
 
 ## España
 
-Biocon Biologics Spain S.L. Tel: 0080008250910
+Biocon Biologics SpainS.L. Tel: 0080008250910
 
 ## France
 
-Biocon Biologics France S.A.S Tel: 0080008250910
+Biocon Biologics FranceS.A.S Tel: 0080008250910
 
 ## Hrvatska
 
-Biocon Biologics Germany GmbH Tel: 0080008250910
+Biocon Biologics GermanyGmbH Tel: 0080008250910
 
 ## Ireland
 
-Biosimilar Collaborations Ireland Limited Tel: 1800 777 794
+Biosimilar Collaborations Ireland Limited Tel: 1800777 794
 
 ## Ísland
 
-Biocon Biologics Finland OY Sími: +345 800 4316
+Biocon Biologics FinlandOY Sími: +345 800 4316
 
 ## Italia
 
-Biocon Biologics Spain S.L . Tel: 0080008250910
+Biocon Biologics SpainS.L . Tel: 0080008250910
 
 ## Κύπρος
 
 Biosimilar Collaborations Ireland Limited Τηλ: 0080008250910
 
-## Latvija
+## Lietuva
 
 Biosimilar Collaborations Ireland Limited Tel: 0080008250910
 
-This leaflet was last revised in Other sources of information
+## Luxembourg/Luxemburg
+
+Biosimilar Collaborations Ireland Limited
+
+Tél/Tel: 0080008250910
 
 ## Magyarország
 
@@ -1138,15 +1135,15 @@ Biosimilar Collaborations Ireland Limited Tel.: 0080008250910
 
 ## Nederland
 
-Biocon Biologics France S.A.S Tel: 0080008250910
+Biosimilar Collaborations Ireland Limited Tel: 0080008250910
 
 ## Norge
 
-Biocon Biologics Finland OY Tlf: +47 800 62 671
+Biocon Biologics FinlandOY Tlf: +47 800 62 671
 
 ## Österreich
 
-Biocon Biologics Germany GmbH Tel: 0080008250910
+Biocon Biologics GermanyGmbH Tel: 0080008250910
 
 ## Polska
 
@@ -1154,7 +1151,7 @@ Biosimilar Collaborations Ireland Limited Tel: 0080008250910
 
 ## Portugal
 
-Biocon Biologics Spain S.L. Tel: 0080008250910
+Biocon Biologics SpainS.L. Tel: 0080008250910
 
 ## România
 
@@ -1168,13 +1165,21 @@ Biosimilar Collaborations Ireland Limited Tel: 0080008250910
 
 Biocon Biologics Germany GmbH Tel: 0080008250910
 
-## Suomi/Finland Biocon Biologics Finland OY
+## Suomi/Finland
+
+## Biocon Biologics Finland OY
 
 Puh/Tel: 99980008250910
 
 ## Sverige
 
 Biocon Biologics Finland OY Tel: 0080008250910
+
+## Latvija
+
+Biosimilar Collaborations Ireland Limited Tel: 0080008250910
+
+## This leaflet was last revised in Other sources of information
 
 Detailed information on this medicine is available on the European Medicines Agency web site: https://www.ema.europa.eu.
 
@@ -1188,28 +1193,29 @@ Detailed information on this medicine is available on the European Medicines Age
 
 Read the Patient Information for important information you need to know about Evfraxy before using these Instructions for Use
 
-Before you use a Evfraxy prefilled syringe with automatic needle safety guard, read this important information:
+## Before you use a Evfraxy prefilled syringe with automatic needle safety guard, read this important information:
 
 - It  is  important  that  you  do  not  try  to  give  yourself  the  injection  unless  you  have  received training from your doctor or healthcare provider.
-- The prefilled syringe has a needle safety guard that will be activated to cover the needle after the injection is given. The needle guard will help prevent needlestick injuries to anyone who handles the prefilled syringe after the injection has been given .
+- The prefilled syringe has a needle safety guard that will be activated to cover the needle after the injection is given. The needle guard will help prevent needlestick injuries to anyone who handles the prefilled syringe after the injection has been given.
 - Make sure that the name Evfraxy appears on the carton and prefilled syringe label.
 - Evfraxy is given as an injection into the tissue just under the skin (subcutaneous injection).
-- X Do not use the prefilled syringe if the carton is open or damaged.
-- X Do not remove the grey needle cap from the prefilled syringe until you are ready to inject .
-- X Do not use the prefilled syringe if it has been dropped on a hard surface. Use a new pre -filled syringe and call your doctor or healthcare provider
-- X Do not attempt to activate the prefilled syringe prior to injection
-- X Do not attempt to remove the clear prefilled syringe safety guard from the pre -filled syringe
-- X Do not use the prefilled syringe if broken, preactivated or dismantled from the needle guard Call your doctor or healthcare provider if you have any questions.
+- X  Do not use the prefilled syringe if the carton is open or damaged.
+- X  Do not remove the grey needle cap from the prefilled syringe until you are ready to inject.
+- X  Do not use the prefilled syringe if it has been dropped on a hard surface. Use a new prefilled syringe and call your doctor or healthcare provider
+- X  Do not attempt to activate the prefilled syringe prior to injection
+- X  Do not attempt to remove the clear prefilled syringe safety guard from the prefilled syringe
+- X  Do not use the prefilled syringe if broken, preactivated or dismantled from the needle guard Call your doctor or healthcare provider if you have any questions.
 
 ## Storing the Evfraxy prefilled syringe
 
 - Store Evfraxy in a refrigerator at 2°C to 8°C (36°F to 46°F) in the original carton.
 - Do not freeze. Prior to administration, Evfraxy may be allowed to reach room temperature (up to 25°C/77°F) in the original container.
-- Once  removed  from  the  refrigerator,  Evfraxy  must  not  be  exposed  to  temperatures  above 25°C/77°F and must be used within 30 days. If not used within the 30 days, Evfraxy should be discarded. See Step 4: Disposing of used prefilled syringes.
-- Find a clean, welllit and flat work surface.
-- Take the prefilled syringe carton out of the refrigerator and place it on your clean work surface. Allow it to reach room temperature for 30 minutes before giving an injection.
+- Once removed from the refrigerator,  Evfraxy  must  not  be  exposed  to  temperatures  above 25°C/77°F and must be used within 30 days. If not used within the 30 days, Evfraxy should be discarded. See Step 4: Disposing of used prefilled syringes.
 
 ## Step 1: Gather Supplies
+
+- Find a clean, well-lit and flat work surface.
+- Take the prefilled syringe carton out of the refrigerator and place it on your clean work surface. Allow it to reach room temperature for 30 minutes before giving an injection.
 
 <div style=\"page-break-after: always\"></div>
 
@@ -1283,7 +1289,7 @@ Figure G
 
 ! It is important to keep the skin pinched when injecting
 
-## Step 3: Inject
+Step 3: Inject
 
 - Hold the pinch. INSERT the needle into skin ( Figure H ).
 - X Do not touch the cleaned area of the skin.
@@ -1300,7 +1306,7 @@ Figure I
 
 <!-- image -->
 
-## Or
+Or
 
 - Gently remove the needle from the injection site and release the plunger until the entire needle is covered by the needle safety guard.
 
@@ -1332,5 +1338,3 @@ Keep the used syringe and sharps disposal container out of sight and reach of ch
 
 - X Do not reuse the prefilled syringe.
 - X Do not recycle prefilled syringes or throw them into household waste.
-
-X

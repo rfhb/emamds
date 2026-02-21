@@ -1,20 +1,20 @@
 ---
-document_datetime: 2024-08-07 12:52:41
-document_pages: 46
+document_datetime: 2026-02-19 14:01:09
+document_pages: 44
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/adzynma-epar-product-information_en.pdf
 document_name: adzynma-epar-product-information_en.pdf
 version: success
-processing_time: 37.1182167
-conversion_datetime: 2025-12-30 11:49:39.802588
+processing_time: 30.083471
+conversion_datetime: 2026-02-21 12:38:29.113085
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.66.0
-  docling-core: 2.57.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.13.0
+  docling-jobkit: 1.11.0
+  docling: 2.74.0
+  docling-core: 2.65.1
+  docling-ibm-models: 3.11.0
+  docling-parse: 5.3.2
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.3-arm64-arm-64bit-Mach-O
 ---
 ## ANNEX I
 
@@ -34,7 +34,7 @@ ADZYNMA 500 IU powder and solvent for solution for injection ADZYNMA 1 500 IU po
 
 ## ADZYNMA 500 IU powder and solvent for solution for injection
 
-Each vial of powder contains nominally 500 international units (IU) of rADAMTS13 *  activity, as measured in terms of its potency.
+Each vial of powder contains nominally 500 international units (IU) of rADAMTS13 * activity, as measured in terms of its potency.
 
 After reconstitution with the 5 mL solvent provided, the solution has a potency of approximately 100 IU/mL.
 
@@ -76,16 +76,16 @@ ADZYNMA treatment should be initiated under the supervision of a physician exper
 
 Prophylactic enzyme replacement therapy
 
--  40 IU/kg of body weight once every other week.
--  The prophylaxis dosing frequency may be adjusted to 40 IU/kg of body weight once weekly based on clinical response (see sections 5.1 and 5.2).
+- 40 IU/kg of body weight once every other week.
+- The prophylaxis dosing frequency may be adjusted to 40 IU/kg of body weight once weekly based on clinical response (see sections 5.1 and 5.2).
 
-## On-demand enzyme replacement therapy for acute TTP episodes
+On-demand enzyme replacement therapy for acute TTP episodes
 
 In case of acute thrombotic thrombocytopenic purpura (TTP) episode, the recommended dose of ADZYNMA to treat acute TTP episodes is as follows:
 
--  40 IU/kg of body weight on day 1.
--  20 IU/kg of body weight on day 2.
--  15 IU/kg of body weight starting day 3 once daily until two days after the acute event is resolved (see section 5.1).
+- 40 IU/kg of body weight on day 1.
+- 20 IU/kg of body weight on day 2.
+- 15 IU/kg of body weight starting day 3 once daily until two days after the acute event is resolved (see section 5.1).
 
 ## Special populations
 
@@ -196,10 +196,9 @@ Table 1: Adverse reactions reported in patients treated with ADZYNMA
 
 <div style=\"page-break-after: always\"></div>
 
-| General disorders and administration site conditions   | Asthenia Feeling hot   | Common Common   |
-|--------------------------------------------------------|------------------------|-----------------|
-| Investigations                                         | ADAMTS13 activity      |                 |
-|                                                        | abnormal               | Common          |
+| General disorders and administration site conditions   | Asthenia Feeling hot       | Common Common   |
+|--------------------------------------------------------|----------------------------|-----------------|
+| Investigations                                         | ADAMTS13 activity abnormal | Common          |
 
 ## Paediatric population
 
@@ -271,29 +270,28 @@ Table 2: Prophylactic cohort efficacy results in cTTP patients (periods 1 and 2)
 | Thrombocytopenia events a Number of subjects with event (number of events) Model based annualized event rate, b LSM (SE) | 13 (49) 0.92 (0.262) | 23 (91) 1.72 (0.457)            |
 | Microangiopathic haemolytic anaemia events c                                                                             |                      |                                 |
 | Number of subjects with event (number of events) Model based annualized event rate, b LSM (SE)                           | 8 (23) 0.37 (0.136)  | 12 (32) 0.59 (0.194)            |
-| Neurological symptoms events d Number of subjects with event (number of events)                                          | 4 (18)               | 7 (29)                          |
-| Renal dysfunction events e Number of subjects with event (number of events)                                              | 0.13 (0.068)         | 0.23 (0.109)                    |
-|                                                                                                                          | 5                    | 2                               |
-| Model based annualized event rate, b LSM                                                                                 |                      |                                 |
-| (SE)                                                                                                                     |                      |                                 |
-|                                                                                                                          | (11)                 |                                 |
+| Neurological symptoms events d Number of subjects with event (number of events)                                          | 4 (18)               | 7 (29) 0.23                     |
+| Renal dysfunction events e Number of subjects with event (number of events)                                              | 0.13 (0.068)         | (0.109)                         |
+| LSM (SE)                                                                                                                 |                      |                                 |
+| Model based annualized event rate, b                                                                                     |                      |                                 |
+|                                                                                                                          | 5                    |                                 |
+|                                                                                                                          |                      | 2                               |
 |                                                                                                                          |                      | (5)                             |
-| Model based annualized event rate, b LSM                                                                                 |                      |                                 |
-| Number of subjects with event (number of events)                                                                         | 0.09                 | 0.17                            |
-| b                                                                                                                        |                      |                                 |
-| Model based annualized event rate, LSM                                                                                   |                      |                                 |
+| Abdominal pain events                                                                                                    |                      |                                 |
+| Model based annualized event rate, b LSM (SE)                                                                            | 0.09                 | 0.17                            |
 |                                                                                                                          | (0.055)              |                                 |
-|                                                                                                                          |                      | (8)                             |
 |                                                                                                                          |                      | (0.086)                         |
+|                                                                                                                          |                      | (8)                             |
+| (number of events)                                                                                                       | (4)                  |                                 |
 |                                                                                                                          |                      | 6                               |
-| (SE)                                                                                                                     |                      |                                 |
-|                                                                                                                          | (4)                  |                                 |
+| Number of subjects with event                                                                                            |                      |                                 |
 |                                                                                                                          | 2                    |                                 |
-| pain events                                                                                                              |                      |                                 |
-| Abdominal                                                                                                                |                      |                                 |
-| (SE)                                                                                                                     |                      |                                 |
-|                                                                                                                          | 0.08 (0.052)         | 0.08 (0.052)                    |
+| Model based annualized event rate, LSM (SE)                                                                              |                      |                                 |
+| b                                                                                                                        |                      |                                 |
+|                                                                                                                          | 0.08                 | 0.08                            |
 |                                                                                                                          |                      | 0.17 (0.090)                    |
+|                                                                                                                          |                      | (0.052)                         |
+|                                                                                                                          |                      | (11)                            |
 
 LSM = least squares mean; SE = standard error; TTP = thrombotic thrombocytopenic purpura.
 
@@ -303,11 +301,11 @@ b  From a negative binominal mixed-effects model.
 
 c  Elevation of LDH &gt; 1.5 × baseline or &gt; 1.5 x ULN.
 
-d  Nervous system disorders (e.g., headache, confusion, memory issues, irritability, paraesthesia, dysarthria,
+Nervous system disorders (e.g., headache, confusion, memory issues, irritability, paraesthesia, dysarthria,
 
-dysphonia, visual disturbances, focal or general motor symptoms including seizures).
+d dysphonia, visual disturbances, focal or general motor symptoms including seizures).
 
-e  An increase in serum creatinine &gt; 1.5 × baseline.
+e An increase in serum creatinine &gt; 1.5 × baseline.
 
 <div style=\"page-break-after: always\"></div>
 
@@ -331,8 +329,6 @@ Patients who completed the phase 3 study (Study 281102) were eligible to enrol i
 
 Overall, the efficacy in paediatric patients was similar to that observed in the adult population.
 
-The European Medicines Agency has deferred the obligation to submit the results of studies with ADZYNMA in one or more subsets of the paediatric population in the treatment of congenital thrombotic thrombocytopenic purpura (see section 4.2 for information on paediatric use).
-
 ## Exceptional circumstances
 
 This medicinal product has been authorised under 'exceptional circumstances'. This means that due to the rarity of the disease it has not been possible to obtain complete information on this medicinal product.
@@ -343,25 +339,23 @@ The European Medicines Agency will review any new information which may become a
 
 The pharmacokinetic (PK) profile of ADZYNMA was determined based on clinical study ADAMTS13 activity data analyses.
 
-Following single-dose intravenous administration of ADZYNMA at 5 IU/kg, 20 IU/kg, and 40 IU/kg to adults and adolescents, dose-related increases in individual ADAMTS13 activity were observed and
+Following single-dose intravenous administration of ADZYNMA at 5 IU/kg, 20 IU/kg, and 40 IU/kg to adults and adolescents, dose-related increases in individual ADAMTS13 activity were observed and reached a maximum at approximately 1 hour post-administration or earlier. At clinical dose of 40 IU/kg the mean (SD) half-life and mean residence time (MRT) in adults and adolescents were 47.8 (13.7) hours and 63.8 (16.0) hours, respectively.
 
 <div style=\"page-break-after: always\"></div>
-
-reached a maximum at approximately 1 hour post-administration or earlier. At clinical dose of 40 IU/kg the mean (SD) half-life and mean residence time (MRT) in adults and adolescents were 47.8 (13.7) hours and 63.8 (16.0) hours, respectively.
 
 The population PK parameters of ADAMTS13 activity following intravenous administration of ADZYNMA at 40 IU/kg in adults, adolescents, and younger children are described in Table 3.
 
 Table 3: Pharmacokinetic parameters of ADAMTS13 activity following intravenous administration of ADZYNMA in cTTP patients
 
-| Parameter (unit)                     | Mean (SD) Min; Max (N = 83)   |
-|--------------------------------------|-------------------------------|
-| C max                                | 1.13 (0.29)                   |
-| (IU/mL)                              | 0.72; 2.29                    |
-| AUC                                  | 72.8 (37.4)                   |
-| (IU*h/mL)                            | 38.7; 274                     |
-| Duration ADAMTS13 activity above 10% | 8.85 (2.45)                   |
-|                                      | 4.51; 14.0                    |
-| (days)                               |                               |
+| Parameter (unit)                 | Mean (SD) Min; Max (N = 83)   |
+|----------------------------------|-------------------------------|
+| C max (IU/mL)                    | 1.13 (0.29) 0.72; 2.29        |
+| AUC                              | 72.8                          |
+|                                  | (37.4)                        |
+| (IU*h/mL)                        | 38.7; 274                     |
+| Duration ADAMTS13 activity above | 8.85 (2.45)                   |
+| 10%                              | 4.51; 14.0                    |
+| (days)                           |                               |
 
 AUC = area under ADAMTS13 activity-time curve; Cmax = maximum ADAMTS13 activity. Note :  1 IU/mL ADAMTS13 activity corresponds to 100% average normal activity.
 
@@ -381,15 +375,17 @@ In infants &lt; 10 kg body weight, median duration above 10% ADAMTS13 activity w
 
 Non-clinical data reveal no special hazard for humans based on studies of safety pharmacology, single dose toxicity, toxicity to reproduction and development, local tolerance and immunogenicity. Studies to evaluate the mutagenic and carcinogenic potential of rADAMTS13 have not been performed.
 
-<div style=\"page-break-after: always\"></div>
-
 ## 6. PHARMACEUTICAL PARTICULARS
 
 ## 6.1 List of excipients
 
 ## Powder
 
-Sodium chloride Calcium chloride dihydrate L-Histidine Mannitol Sucrose Polysorbate 80 (E433)
+Sodium chloride
+
+<div style=\"page-break-after: always\"></div>
+
+Calcium chloride dihydrate L-Histidine Mannitol Sucrose Polysorbate 80 (E433)
 
 Solvent
 
@@ -431,31 +427,32 @@ Record on the carton the date ADZYNMA is removed from refrigeration.
 
 For storage conditions after reconstitution of the medicinal product, see section 6.3.
 
-<div style=\"page-break-after: always\"></div>
-
 ## 6.5 Nature and contents of container
 
-## ADZYNMA 500 IU powder and solvent for solution for injection
+ADZYNMA 500 IU powder and solvent for solution for injection
 
 Each pack contains:
 
--  powder in a vial (type I glass), with a butyl rubber stopper
--  5 mL of solvent in a vial (type I glass), with a butyl rubber stopper
--  one reconstitution device (BAXJECT II Hi-Flow)
--  one disposable 10 mL syringe
--  one 25-gauge infusion set
--  two alcohol swabs
+- -powder in a vial (type I glass), with a butyl rubber stopper
+- -5 mL of solvent in a vial (type I glass), with a butyl rubber stopper
+- -one reconstitution device (BAXJECT II Hi-Flow)
+- -one disposable 10 mL syringe
+
+<div style=\"page-break-after: always\"></div>
+
+- -one 25-gauge infusion set
+- -two alcohol swabs
 
 ## ADZYNMA 1 500 IU powder and solvent for solution for injection
 
-Each pack contains:
+## Each pack contains:
 
--  powder in a vial (type I glass), with a butyl rubber stopper
--  5 mL of solvent in a vial (type I glass), with a butyl rubber stopper
--  one reconstitution device (BAXJECT II Hi-Flow)
--  one disposable 20 mL syringe
--  one 25-gauge infusion set
--  two alcohol swabs
+- -powder in a vial (type I glass), with a butyl rubber stopper
+- -5 mL of solvent in a vial (type I glass), with a butyl rubber stopper
+- -one reconstitution device (BAXJECT II Hi-Flow)
+- -one disposable 20 mL syringe
+- -one 25-gauge infusion set
+- -two alcohol swabs
 
 ## 6.6 Special precautions for disposal and other handling
 
@@ -463,45 +460,50 @@ ADZYNMA is to be administered intravenously after reconstitution of the powder w
 
 ## General instructions
 
--  Calculate administration dose and volume based on the patient's body weight.
--  Use aseptic technique throughout the procedure.
--  Check expiry date of the product prior to use.
--  Do not use ADZYNMA if the expiry date has passed.
--  If the patient needs more than one vial of ADZYNMA per injection, reconstitute each vial according to the instructions stated under 'Reconstitution'. Please note that the BAXJECT II HiFlow device is intended for use with a single vial of ADZYNMA and water for injections only, therefore reconstituting and withdrawing a second vial into the syringe requires a second BAXJECT II Hi-Flow device.
--  Parenteral medicinal products should be inspected visually for particulate matter and discoloration prior to administration, whenever solution and container permit. The reconstituted ADZYNMA solution should be clear and colourless in appearance.
--  Do not administer if particulate matter or discoloration is observed.
--  Administer ADZYNMA within 3 hours after reconstitution when stored at room temperature.
--  Do not administer ADZYNMA in the same tubing or container at the same time with other medicinal products for infusion.
-
-<div style=\"page-break-after: always\"></div>
+- -Calculate administration dose and volume based on the patient's body weight.
+- -Use aseptic technique throughout the procedure.
+- -Check expiry date of the product prior to use.
+- -Do not use ADZYNMA if the expiry date has passed.
+- -If the patient needs more than one vial of ADZYNMA per injection, reconstitute each vial according to the instructions stated under 'Reconstitution'. Please note that the BAXJECT II HiFlow device is intended for use with a single vial of ADZYNMA and water for injections only, therefore reconstituting and withdrawing a second vial into the syringe requires a second BAXJECT II Hi-Flow device.
+- -Parenteral medicinal products should be inspected visually for particulate matter and discoloration prior to administration, whenever solution and container permit. The reconstituted ADZYNMA solution should be clear and colourless in appearance.
+- -Do not administer if particulate matter or discoloration is observed.
+- -Administer ADZYNMA within 3 hours after reconstitution when stored at room temperature.
+- -Do not administer ADZYNMA in the same tubing or container at the same time with other medicinal products for infusion.
 
 ## Reconstitution
 
 1. Prepare a clean flat surface and gather all the materials you will need for the reconstitution and administration ( Figure A ).
+
+## Figure A
+
+<!-- image -->
+
+<div style=\"page-break-after: always\"></div>
+
 2. Allow the vials of ADZYNMA and diluent to reach room temperature before use.
 3. Wash and dry your hands thoroughly.
 4. Remove plastic caps from the ADZYNMA and diluent vials and place the vials on a flat surface ( Figure B ).
 5. Wipe the rubber stoppers with an alcohol swab and allow them to dry prior to use ( Figure C ).
 6. Open the BAXJECT II Hi-Flow device package by peeling away the lid, without touching the inside ( Figure D ).
-7.  Do not remove the BAXJECT II Hi-Flow device from the package.
-8.  Do not touch the clear plastic spike .
-
-Figure A
+- Do not remove the BAXJECT II Hi-Flow device from the package.
+- Do not touch the clear plastic spike .
 
 <!-- image -->
 
+Figure C
+
 <!-- image -->
+
+Figure D
 
 <!-- image -->
 
 <div style=\"page-break-after: always\"></div>
 
-<!-- image -->
-
 7. Turn the package with the BAXJECT II Hi-Flow device upside down and place it over the top of the diluent vial. Press straight down until the clear plastic spike pierces through the diluent vial stopper ( Figure E ).
 8. Grip the BAXJECT II Hi-Flow device package at its edge and pull the package off the device ( Figure F ).
-3.  Do not remove the blue cap from the BAXJECT II Hi-Flow device.
-4.  Do not touch the exposed purple plastic spike.
+- Do not remove the blue cap from the BAXJECT II Hi-Flow device.
+- Do not touch the exposed purple plastic spike.
 9. Turn the system over so that the diluent vial is now on top. Press the BAXJECT II Hi-Flow device straight down until the purple plastic spike pierces through the
 
 Figure E
@@ -512,20 +514,18 @@ Figure E
 
 ADZYNMA powder vial stopper ( Figure G ). The vacuum will draw the diluent into the ADZYNMA powder vial .
 
--  You may notice some bubbles or foam - this is normal and should soon disappear.
-
-<div style=\"page-break-after: always\"></div>
-
-Figure G
+- You may notice some bubbles or foam - this is normal and should soon disappear.
 
 <!-- image -->
 
+<div style=\"page-break-after: always\"></div>
+
 10. Swirl the connected vials gently and continuously until the powder is completely dissolved ( Figure H ).
-2.  Do not shake the vial.
+- Do not shake the vial.
 11. Visually inspect the reconstituted solution for particulate matter before administration.
-4.  Do not use the product if particulate matter or discoloration is observed.
+- Do not use the product if particulate matter or discoloration is observed.
 12. If the dose requires more than one vial of ADZYNMA, reconstitute each vial using the above steps.
-6.  Use a different BAXJECT II Hi-Flow device to reconstitute each vial of ADZYNMA and diluent.
+- Use a different BAXJECT II Hi-Flow device to reconstitute each vial of ADZYNMA and diluent.
 
 Figure H
 
@@ -534,11 +534,9 @@ Figure H
 ## Administration instructions
 
 13. Take off the blue cap from the BAXJECT II Hi-Flow device ( Figure I) . Attach a Luer-lock syringe ( Figure J ).
-2.  Do not inject air into the system.
+- Do not inject air into the system.
 
 <!-- image -->
-
-Figure I
 
 <!-- image -->
 
@@ -551,21 +549,23 @@ Figure I
 18. Apply a tourniquet and clean the chosen injection site with an alcohol swab ( Figure L ).
 19. Insert the needle into the vein and remove the tourniquet.
 20. Infuse the reconstituted ADZYNMA slowly , at a rate of 2 to 4 mL per minute ( Figure M ).
-8.  A syringe pump may be used to control the rate of administration.
+- A syringe pump may be used to control the rate of administration.
 21. Take the needle out of the vein and put pressure on the injection site for several minutes.
-10.  Do not recap the needle.
+- Do not recap the needle.
 22. Place the needle, syringe, and empty vials in a puncture-resistant sharps container.
-12.  Do not dispose of syringes and needles in the household waste.
+- Do not dispose of syringes and needles in the household waste.
+
+<!-- image -->
+
+Figure L
 
 <!-- image -->
 
 <!-- image -->
-
-<!-- image -->
-
-Any unused medicinal product or waste material should be disposed of in accordance with local requirements.
 
 <div style=\"page-break-after: always\"></div>
+
+Any unused medicinal product or waste material should be disposed of in accordance with local requirements.
 
 ## 7. MARKETING AUTHORISATION HOLDER
 
@@ -573,15 +573,19 @@ Takeda Manufacturing Austria AG Industriestrasse 67 1221 Vienna Austria medinfoE
 
 ## 8. MARKETING AUTHORISATION NUMBERS
 
-EU/1/24/1837/001 EU/1/24/1837/002
+EU/1/24/1837/001
+
+EU/1/24/1837/002
 
 ## 9. DATE OF FIRST AUTHORISATION/RENEWAL OF THE AUTHORISATION
 
-Date of first authorisation:
+Date of first authorisation: 01 August 2024
 
 ## 10. DATE OF REVISION OF THE TEXT
 
 Detailed information on this medicinal product is available on the website of the European Medicines Agency https://www.ema.europa.eu.
+
+17
 
 <div style=\"page-break-after: always\"></div>
 
@@ -608,22 +612,22 @@ Medicinal product subject to restricted medical prescription (see Annex I: Summa
 
 ## C. OTHER CONDITIONS AND REQUIREMENTS OF THE MARKETING AUTHORISATION
 
-##  Periodic safety update reports (PSURs)
+## · Periodic safety update reports (PSURs)
 
 The requirements for submission of PSURs for this medicinal product are set out in the list of Union reference dates (EURD list) provided for under Article 107c(7) of Directive 2001/83/EC and any subsequent updates published on the European medicines web-portal.
 
 ## D. CONDITIONS OR RESTRICTIONS WITH REGARD TO THE SAFE AND EFFECTIVE USE OF THE MEDICINAL PRODUCT
 
-##  Risk management plan (RMP)
+## · Risk management plan (RMP)
 
 The marketing authorisation holder (MAH) shall perform the required pharmacovigilance activities and interventions detailed in the agreed RMP presented in Module 1.8.2 of the marketing authorisation and any agreed subsequent updates of the RMP.
 
 An updated RMP should be submitted:
 
--  At the request of the European Medicines Agency;
--  Whenever the risk management system is modified, especially as the result of new information being received that may lead to a significant change to the benefit/risk profile or as the result of an important (pharmacovigilance or risk minimisation) milestone being reached.
+- At the request of the European Medicines Agency;
+- Whenever the risk management system is modified, especially as the result of new information being received that may lead to a significant change to the benefit/risk profile or as the result of an important (pharmacovigilance or risk minimisation) milestone being reached.
 
-##  Additional risk minimisation measures
+## · Additional risk minimisation measures
 
 Prior to the use of ADZYNMA in home/self-administration, the Marketing Authorization Holder (MAH) must agree about the content and format of the educational materials for use of ADZYNMA in home/self-administration, including communication media, distribution modalities and any other aspects of the programme, with the National Competent Authority.
 
@@ -633,21 +637,21 @@ The educational materials for the use are aimed at providing guidance on how to 
 
 The MAH shall ensure that in each Member State where ADZYNMA is marketed, all healthcare professionals who are expected to prescribe and patients/caregivers who are expected to use ADZYNMA have access to/are provided with the following educational package:
 
--  Physician educational material
--  Patient information pack
+- Physician educational material
+- Patient information pack
 
 ## Physician educational material:
 
--  The Summary of Product Characteristics
--  Healthcare professionals (HCP) guide for hypersensitivity in home/self-administration for ADZYNMA
--  Patient/caregiver alert card for hypersensitivity in home/self-administration for ADZYNMA
--  Guide for healthcare professionals:
+- The Summary of Product Characteristics
+- Healthcare professionals (HCP) guide for hypersensitivity in home/self-administration for ADZYNMA
+- Patient/caregiver alert card for hypersensitivity in home/self-administration for ADZYNMA
+- Guide for healthcare professionals:
 - o The HCP will receive information on the risk of hypersensitivity associated with ADZYNMA
 - o Likelihood of hypersensitivity should be factored into the eligibility assessment for home/self-administration
 - o The HCP should communicate the signs and symptoms of hypersensitivity and action steps to advise the patient should take if hypersensitivity occur
 - o The HCP will be provided with the key points to counselling patients on risk and use of the Patient/caregiver alert card
 
-##  Patient/caregiver alert card:
+## · Patient/caregiver alert card:
 
 - o Hypersensitivity reactions may occur while on ADZYNMA
 - o Information on signs and symptoms related to hypersensitivity reactions and when to seek attention from healthcare professionals
@@ -656,23 +660,17 @@ The MAH shall ensure that in each Member State where ADZYNMA is marketed, all he
 
 ## The patient information pack:
 
--  Patient information leaflet
+- Patient information leaflet
 
 ## E. SPECIFIC OBLIGATION TO COMPLETE POST-AUTHORISATION MEASURES FOR THE MARKETING AUTHORISATION UNDER EXCEPTIONAL CIRCUMSTANCES
 
 This being an approval under exceptional circumstances and pursuant to Article 14(8) of Regulation (EC) No 726/2004, the MAH shall conduct, within the stated timeframe, the following measures:
 
-| Description                                                                                                                                                                                                                                                                         | Due date                          |
-|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------|
-| In order to further evaluate the long-term efficacy and safety of rADAMTS13 in patients with congenital thrombotic thrombocytopenic purpura (cTTP), the MAHshall submit the results of study 281102, a phase 3, prospective, randomized, controlled, open-label, multicentre study. | December 2024                     |
-| In order to further evaluate the long-term efficacy and safety of rADAMTS13 in patients with cTTP, the MAHshall submit the final results of study TAK-755- 3002, a phase 3b, prospective, open-label, multicentre, single treatment arm.                                            | September 2027                    |
-| In order to further evaluate the safety concerns of rADAMTS13 in patients with cTTP, the MAHshall conduct and submit the results of a post-authorisation safety study (PASS) in patients receiving rADAMTS13 according to an agreed protocol.                                       | Final study report: December 2030 |
-
-<div style=\"page-break-after: always\"></div>
-
-| Description                                                                                                                                                                                                                    | Due date                                |
-|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------|
-| In order to ensure adequate monitoring of safety and efficacy of rADAMTS13 in the treatment of patients with cTTP, the MAHshall provide yearly updates on any new information concerning the safety and efficacy of rADAMTS13. | Annually within the annual reassessment |
+| Description                                                                                                                                                                                                                                   | Due date                                |
+|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------|
+| In order to further evaluate the long-term efficacy and safety of rADAMTS13 in patients with cTTP, the MAHshall submit the final results of study TAK-755- 3002, a phase 3b, prospective, open-label, multicentre, single treatment arm.      | September 2027                          |
+| In order to further evaluate the safety concerns of rADAMTS13 in patients with cTTP, the MAHshall conduct and submit the results of a post-authorisation safety study (PASS) in patients receiving rADAMTS13 according to an agreed protocol. | Final study report: December 2030       |
+| In order to ensure adequate monitoring of safety and efficacy of rADAMTS13 in the treatment of patients with cTTP, the MAHshall provide yearly updates on any new information concerning the safety and efficacy of rADAMTS13.                | Annually within the annual reassessment |
 
 <div style=\"page-break-after: always\"></div>
 
@@ -777,8 +775,8 @@ Lot
 | 14.   | GENERAL CLASSIFICATION FOR SUPPLY   |
 |-------|-------------------------------------|
 
-| 15.   | INSTRUCTIONS ONUSE   |
-|-------|----------------------|
+| 15.   | INSTRUCTIONS ON USE   |
+|-------|-----------------------|
 
 | 16.   | INFORMATION IN BRAILLE   |
 |-------|--------------------------|
@@ -847,17 +845,15 @@ Content: 1 powder vial,1 vial with solvent (5 mL),1 BAXJECT II Hi-Flow device,1 
 
 Materials for reconstitution
 
-(1) 1 500 IU ADZYNMA single-dose vial
-
 <!-- image -->
+
+(1) 1 500 IU ADZYNMA single-dose vial
 
 <!-- image -->
 
 (1) vial with 5 mL solvent for ADZYNMA
 
 <!-- image -->
-
-(1) BAXJECT II Hi-Flow device
 
 Materials for administration
 
@@ -899,7 +895,7 @@ Can be stored at room temperature (up to 30 °C) for a period up to 6 months, bu
 
 Date removed from refrigerator: \\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_
 
-10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
+## 10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
@@ -912,57 +908,37 @@ Industriestrasse 67 1221 Vienna Austria
 | 12.   | MARKETING AUTHORISATION NUMBER(S)   |
 |-------|-------------------------------------|
 
+EU/1/24/1837/002
+
 | 13.   | BATCH NUMBER   |
 |-------|----------------|
+
+Lot
 
 | 14.   | GENERAL CLASSIFICATION FOR SUPPLY   |
 |-------|-------------------------------------|
 
-| 15.   | INSTRUCTIONS ONUSE   |
-|-------|----------------------|
+| 15.   | INSTRUCTIONS ON USE   |
+|-------|-----------------------|
 
 | 16.   | INFORMATION IN BRAILLE   |
 |-------|--------------------------|
 
+ADZYNMA 1500 IU
+
 | 17. UNIQUE IDENTIFIER - 2D BARCODE   |
 |--------------------------------------|
+
+2D barcode carrying the unique identifier included.
 
 | 18.   | UNIQUE IDENTIFIER -HUMANREADABLE DATA   |
 |-------|-----------------------------------------|
 
-## 12. MARKETING AUTHORISATION NUMBER(S)
-
-EU/1/24/1837/002
-
-## 13. BATCH NUMBER
-
-Lot
-
-14. GENERAL CLASSIFICATION FOR SUPPLY
-
-15. INSTRUCTIONS ON USE
-
-16.
-
-INFORMATION IN BRAILLE
-
-ADZYNMA 1500 IU
-
-## 17. UNIQUE IDENTIFIER - 2D BARCODE
-
-2D barcode carrying the unique identifier included.
-
-## 18. UNIQUE IDENTIFIER - HUMAN READABLE DATA
-
-PC SN
-
-NN
+PC SN NN
 
 <div style=\"page-break-after: always\"></div>
 
-## MINIMUM PARTICULARS TO APPEAR ON SMALL IMMEDIATE PACKAGING UNITS
-
-POWDER VIAL LABEL
+## MINIMUM PARTICULARS TO APPEAR ON SMALL IMMEDIATE PACKAGING UNITS POWDER VIAL LABEL
 
 ## 1. NAME OF THE MEDICINAL PRODUCT AND ROUTE OF ADMINISTRATION
 
@@ -1022,13 +998,11 @@ Lot
 
 ## B. PACKAGE LEAFLET
 
-<div style=\"page-break-after: always\"></div>
-
 ## Package leaflet: Information for the user
 
-## ADZYNMA 500 IU powder and solvent for solution for injection ADZYNMA 1 500 IU powder and solvent for solution for injection
+<div style=\"page-break-after: always\"></div>
 
-## rADAMTS13
+## ADZYNMA 500 IU powder and solvent for solution for injection ADZYNMA 1 500 IU powder and solvent for solution for injection rADAMTS13
 
 This medicine is subject to additional monitoring. This will allow quick identification of new safety information. You can help by reporting any side effects you may get. See the end of section 4 for how to report side effects.
 
@@ -1073,21 +1047,21 @@ Talk to your doctor, pharmacist or nurse before using ADZYNMA.
 
 There is a risk that you may experience an allergic-type hypersensitivity reaction to ADZYNMA. Your doctor should inform you about early signs of severe allergic reactions such as:
 
--  fast heart rate
--  tightness of the chest
--  wheezing and/or sudden onset of difficulty in breathing
--  low blood pressure
--  hives, rash and itchy skin
--  runny nose or nasal congestion
--  red eyes
--  sneezing
--  rapid swelling under the skin in areas such as the face, throat, arms and legs
--  tiredness
--  nausea (feeling sick)
--  vomiting
--  sensations like numbness, tingling, pins and needles
--  restlessness
--  anaphylaxis (severe allergic reaction that can cause difficulty in swallowing and/or breathing, red or swollen face and/or hands).
+- fast heart rate
+- tightness of the chest
+- wheezing and/or sudden onset of difficulty in breathing
+- low blood pressure
+- hives, rash and itchy skin
+- runny nose or nasal congestion
+- red eyes
+- sneezing
+- rapid swelling under the skin in areas such as the face, throat, arms and legs
+- tiredness
+- nausea (feeling sick)
+- vomiting
+- sensations like numbness, tingling, pins and needles
+- restlessness
+- anaphylaxis (severe allergic reaction that can cause difficulty in swallowing and/or breathing, red or swollen face and/or hands).
 
 If any of these symptoms occur, your doctor will decide if your treatment with ADZYNMA should be stopped and will give you appropriate medicines to treat the allergic reaction. Severe symptoms, including difficulty in breathing and dizziness, require prompt emergency treatment.
 
@@ -1147,9 +1121,9 @@ Your doctor may change the frequency to once weekly if ADZYNMA every other week 
 
 If you develop a sudden episode of thrombotic thrombocytopenia purpura (TTP), the recommended dose of ADZYNMA is as follows:
 
--  40 IU/kg of body weight on day 1.
--  20 IU/kg of body weight on day 2.
--  15 IU/kg of body weight starting day 3, once daily until two days after the sudden episode of TTP is resolved.
+- 40 IU/kg of body weight on day 1.
+- 20 IU/kg of body weight on day 2.
+- 15 IU/kg of body weight starting day 3, once daily until two days after the sudden episode of TTP is resolved.
 
 ## If you take more ADZYNMA than you should
 
@@ -1175,22 +1149,22 @@ The following side effects have been reported with ADZYNMA:
 
 ## Very common (may affect more than 1 in 10 people)
 
--  nose and throat infection
--  headache
--  feeling dizzy
--  migraine
--  diarrhoea
--  nausea
+- nose and throat infection
+- headache
+- feeling dizzy
+- migraine
+- diarrhoea
+- nausea
 
 ## Common (may affect up to 1 in 10 people)
 
--  high number of platelets in the blood (thrombocytosis)
--  feeling sleepy
--  constipation
--  bloating (abdominal distension)
--  weakness (asthenia)
--  feeling hot
--  ADAMTS13 activity abnormal
+- high number of platelets in the blood (thrombocytosis)
+- feeling sleepy
+- constipation
+- bloating (abdominal distension)
+- weakness (asthenia)
+- feeling hot
+- ADAMTS13 activity abnormal
 
 ## Reporting of side effects
 
@@ -1226,12 +1200,10 @@ Do not throw away any medicines via wastewater or household waste. Ask your phar
 
 ## What ADZYNMA contains
 
--  The active substance, rADAMTS13, is a purified recombinant human 'A disintegrin and metalloproteinase with thrombospondin motifs 13'.
-
-Each powder vial contains 500 or 1 500 IU rADAMTS13 nominal activity.
-
--  The solvent vial contains 5 mL of water for injections.
--  The other excipients are sodium chloride, calcium chloride dihydrate, L-histidine, mannitol, sucrose, and polysorbate 80 (E433). See section 2 'ADZYNMA contains sodium' and 'ADZYNMA contains polysorbate 80'.
+- The active substance, rADAMTS13, is a purified recombinant human 'A disintegrin and metalloproteinase with thrombospondin motifs 13'.
+- Each powder vial contains 500 or 1 500 IU rADAMTS13 nominal activity.
+- The solvent vial contains 5 mL of water for injections.
+- The other excipients are sodium chloride, calcium chloride dihydrate, L-histidine, mannitol, sucrose, and polysorbate 80 (E433). See section 2 'ADZYNMA contains sodium' and 'ADZYNMA contains polysorbate 80'.
 
 ## What ADZYNMA looks like and contents of the pack
 
@@ -1241,7 +1213,9 @@ Each pack contains one powder vial, one solvent vial, a device for reconstitutio
 
 ## Marketing Authorisation Holder and Manufacturer
 
-Takeda Manufacturing Austria AG Industriestrasse 67 1221 Vienna Austria
+Takeda Manufacturing Austria AG
+
+Industriestrasse 67 1221 Vienna Austria
 
 For any information about this medicine, please contact the local representative of the Marketing Authorisation Holder:
 
@@ -1279,9 +1253,7 @@ Takeda Pharma A/S Tlf.: +45 46 77 10 10 medinfoEMEA@takeda.com
 
 ## Malta
 
-Τakeda HELLAS S.A. Tel: +30 210 6387800
-
-medinfoEMEA@takeda.com
+Τakeda HELLAS S.A. Tel: +30 210 6387800 medinfoEMEA@takeda.com
 
 ## Deutschland
 
@@ -1315,7 +1287,11 @@ medinfoEMEA@takeda.com
 
 ## España
 
-Takeda Farmacéutica España, S.A. Tel: +34 917 90 42 22 medinfoEMEA@takeda.com
+Takeda Farmacéutica España, S.A.
+
+Tel: +34 917 90 42 22
+
+medinfoEMEA@takeda.com
 
 ## France
 
@@ -1399,11 +1375,15 @@ Takeda Farmacêuticos Portugal, Lda. Tel: + 351 21 120 1457 medinfoEMEA@takeda.c
 
 ## România
 
-Takeda Pharmaceuticals SRL Tel: +40 21 335 03 91 medinfoEMEA@takeda.com
+Takeda Pharmaceuticals SRL
+
+Tel: +40 21 335 03 91
+
+medinfoEMEA@takeda.com
 
 ## Slovenija
 
-Takeda Pharmaceuticals farmacevtska dru ž ba d.o.o.
+Takeda Pharmaceuticals farmacevtska družba d.o.o.
 
 Tel: + 386 (0) 59 082 480
 
@@ -1429,15 +1409,15 @@ This instructions for use contains information on how to reconstitute and infuse
 
 ## Important:
 
--  For intravenous injection after reconstitution only.
--  Use aseptic technique throughout the procedure.
--  Check the expiry date of the product prior to use.
--  Do not use ADZYNMA if the expiry date has passed.
--  If the patient needs more than one vial of ADZYNMA per injection, reconstitute each vial according to the instructions stated under 'Reconstitution'.
--  Inspect the reconstituted ADZYNMA solution for particulate matter and discoloration prior to administration. The solution should be clear and colourless in appearance.
--  Do not administer if particulate matter or discoloration is observed.
--  Use ADZYNMA within 3 hours after reconstitution when stored at room temperature.
--  Do not administer ADZYNMA in the same tubing or container at the same time with other medicinal products for infusion.
+- For intravenous injection after reconstitution only.
+- Use aseptic technique throughout the procedure.
+- Check the expiry date of the product prior to use.
+- Do not use ADZYNMA if the expiry date has passed.
+- If the patient needs more than one vial of ADZYNMA per injection, reconstitute each vial according to the instructions stated under 'Reconstitution'.
+- Inspect the reconstituted ADZYNMA solution for particulate matter and discoloration prior to administration. The solution should be clear and colourless in appearance.
+- Do not administer if particulate matter or discoloration is observed.
+- Use ADZYNMA within 3 hours after reconstitution when stored at room temperature.
+- Do not administer ADZYNMA in the same tubing or container at the same time with other medicinal products for infusion.
 
 ## Reconstitution
 
@@ -1455,8 +1435,8 @@ This instructions for use contains information on how to reconstitute and infuse
 4. Remove plastic caps from the ADZYNMA and diluent vials and place the vials on a flat surface ( Figure B ).
 5. Wipe the rubber stoppers with an alcohol swab and allow them to dry prior to use. ( Figure C ).
 6. Open the BAXJECT II Hi-Flow device package by peeling away the lid, without touching the inside ( Figure D ).
-4.  Do not remove the BAXJECT II Hi-Flow device from the package.
-5.  Do not touch the clear plastic spike .
+- Do not remove the BAXJECT II Hi-Flow device from the package.
+- Do not touch the clear plastic spike .
 
 <!-- image -->
 
@@ -1470,8 +1450,8 @@ Figure D
 
 7. Turn the package with the BAXJECT II Hi-Flow device upside down and place it over the top of the diluent vial. Press straight down until the clear plastic spike pierces through the diluent vial stopper ( Figure E ).
 8. Grip the BAXJECT II Hi-Flow device package at its edge and pull the package off the device ( Figure F ).
-3.  Do not remove the blue cap from the BAXJECT II Hi-Flow device.
-4.  Do not touch the exposed purple plastic spike .
+- Do not remove the blue cap from the BAXJECT II Hi-Flow device.
+- Do not touch the exposed purple plastic spike .
 9. Turn the system over so that the diluent vial is now on top. Press the BAXJECT II Hi-Flow device straight down until the purple plastic spike pierces through the
 
 Figure E
@@ -1482,18 +1462,18 @@ Figure E
 
 ADZYNMA powder vial stopper ( Figure G ). The vacuum will draw the diluent into the ADZYNMA powder vial .
 
--  You may notice some bubbles or foam - this is normal and should soon disappear.
+- You may notice some bubbles or foam - this is normal and should soon disappear.
 
 <!-- image -->
 
 <div style=\"page-break-after: always\"></div>
 
 10. Swirl the connected vials gently and continuously until the powder is completely dissolved ( Figure H ).
-2.  Do not shake the vial.
+- Do not shake the vial.
 11. Visually inspect the reconstituted solution for particulate matter before administration.
-4.  Do not use the product if particulate matter or discoloration is observed.
+- Do not use the product if particulate matter or discoloration is observed.
 12. If the dose requires more than one vial of ADZYNMA, reconstitute each vial using the above steps.
-6.  Use a different BAXJECT II Hi-Flow device to reconstitute each vial of ADZYNMA and diluent.
+- Use a different BAXJECT II Hi-Flow device to reconstitute each vial of ADZYNMA and diluent.
 
 Figure H
 
@@ -1502,9 +1482,8 @@ Figure H
 ## Administration of ADZYNMA
 
 13. Take off the blue cap from the BAXJECT II Hi-Flow device ( Figure I) . Attach a Luer-lock syringe ( Figure J ).
-2.  Do not inject air into the system.
+- Do not inject air into the system.
 14. Turn the system upside down (ADZYNMA vial is now on top). Draw the reconstituted solution into the syringe by pulling the plunger back slowly ( Figure K ).
-15. If a patient is to receive more than one vial of ADZYNMA, the contents of multiple vials can be drawn into the same syringe. Repeat this process for all reconstituted vials of ADZYNMA until the total volume to be administered is reached.
 
 <!-- image -->
 
@@ -1514,49 +1493,35 @@ Figure H
 
 <div style=\"page-break-after: always\"></div>
 
+15. If a patient is to receive more than one vial of ADZYNMA, the contents of multiple vials can be drawn into the same syringe. Repeat this process for all reconstituted vials of ADZYNMA until the total volume to be administered is reached.
 16. Disconnect the syringe and attach a suitable injection needle or an infusion set.
 17. Point the needle up and remove any air bubbles by gently tapping the syringe with your finger and slowly and carefully pushing air out of the syringe and needle.
 18. Apply a tourniquet and clean the chosen injection site with an alcohol swab ( Figure L ).
 19. Insert the needle into the vein and remove the tourniquet.
 20. Infuse the reconstituted ADZYNMA slowly , at a rate of 2 to 4 mL per minute ( Figure M ).
-6.  A syringe pump may be used to control the rate of administration.
+- A syringe pump may be used to control the rate of administration.
 21. Take the needle out of the vein and put pressure on the injection site for several minutes.
-8.  Do not recap the needle.
-
-Figure L
+- Do not recap the needle.
 
 <!-- image -->
-
-Figure M
 
 <!-- image -->
 
 ## Storing of ADZYNMA
 
--  Store ADZYNMA in a refrigerator (2 °C - 8 °C) or at room temperature (up to 30 °C) for a period of up to 6 months.
--  Do not return ADZYNMA to refrigerator after storage at room temperature.
--  Record on the carton the date ADZYNMA is removed from refrigeration.
--  Do not freeze.
--  Store in the original package to protect from light.
--  Do not use beyond the expiry date stated on the label and carton after EXP.
--  Use ADZYNMA within 3 hours after reconstitution. Discard any unused reconstituted product if not used within 3 hours after reconstitution.
+- Store ADZYNMA in a refrigerator (2 °C - 8 °C) or at room temperature (up to 30 °C) for a period of up to 6 months.
+- Do not return ADZYNMA to refrigerator after storage at room temperature.
+- Record on the carton the date ADZYNMA is removed from refrigeration.
+- Do not freeze.
+- Store in the original package to protect from light.
+- Do not use beyond the expiry date stated on the label and carton after EXP.
+- Use ADZYNMA within 3 hours after reconstitution. Discard any unused reconstituted product if not used within 3 hours after reconstitution.
 
 ## Disposing of ADZYNMA
 
--  Vials are for single use only.
--  Dispose used needle, syringe, and empty vials in a puncture-resistant sharps container.
--  Do not throw away any medicines via wastewater or household waste. Ask your pharmacist how to throw away medicines you no longer use. These measures will help protect the environment.
+- Vials are for single use only.
+- Dispose used needle, syringe, and empty vials in a puncture-resistant sharps container.
 
 <div style=\"page-break-after: always\"></div>
 
-## Annex IV
-
-Conclusions on the granting of the marketing authorisation under exceptional circumstances presented by the European Medicines Agency
-
-<div style=\"page-break-after: always\"></div>
-
-## Conclusions presented by the European Medicines Agency on:
-
-##  Marketing authorisation under exceptional circumstances
-
-The CHMP having considered the application is of the opinion that the risk-benefit balance is favourable to recommend the granting of the marketing authorisation under exceptional circumstances as further explained in the European Public Assessment Report.
+- Do not throw away any medicines via wastewater or household waste. Ask your pharmacist how to throw away medicines you no longer use. These measures will help protect the environment.

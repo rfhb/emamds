@@ -1,20 +1,20 @@
 ---
-document_datetime: 2025-05-16 12:58:10
+document_datetime: 2026-02-20 10:35:50
 document_pages: 29
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/lyvdelzi-epar-product-information_en.pdf
 document_name: lyvdelzi-epar-product-information_en.pdf
 version: success
-processing_time: 6.5928567
-conversion_datetime: 2025-12-28 15:45:33.897141
+processing_time: 8.4596273
+conversion_datetime: 2026-02-21 12:27:27.969252
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.66.0
-  docling-core: 2.57.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.13.0
+  docling-jobkit: 1.11.0
+  docling: 2.74.0
+  docling-core: 2.65.1
+  docling-ibm-models: 3.11.0
+  docling-parse: 5.3.2
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.3-arm64-arm-64bit-Mach-O
 ---
 ## ANNEX I
 
@@ -54,7 +54,7 @@ Lyvdelzi is indicated for the treatment of primary biliary cholangitis (PBC) in 
 
 The recommended dose of seladelpar is 10 mg once daily.
 
-## Missed dose
+Missed dose
 
 If a dose of seladelpar is missed, the patient should take the subsequent dose at the next scheduled time point. A double dose should not be taken to make up for the missed dose.
 
@@ -239,16 +239,16 @@ The results for the primary composite endpoint and ALP normalisation are present
 
 Table 2: RESPONSE trial: Composite biochemical endpoint and ALP normalisation with seladelpar with or without UDCA a
 
-|                                                          | Seladelpar 10 mg (N = 128)   | Placebo (N = 65)   | Treatment difference %(95%CI) e   |
-|----------------------------------------------------------|------------------------------|--------------------|-----------------------------------|
-| Primary composite endpoint at Month 12 b                 |                              |                    |                                   |
-| Responder rate, (%) c [95 %CI]                           | 62 [53, 70]                  | 20 [10, 30]        | 42 (28, 53)                       |
-| Components of primary endpoint                           |                              |                    |                                   |
-| ALP less than 1.67-times ULN, (%)                        | 66                           | 26                 | 39 (25, 52)                       |
-| Decrease in ALP of at least 15%, (%)                     | 84                           | 32                 | 51 (37, 63)                       |
-| Total bilirubin less than or equal to ULN d , (%)        | 81                           | 77                 | 4 (-7, 17)                        |
-| ALP normalisation                                        |                              |                    |                                   |
-| ALP normalis ation at Month 12, ≤ 1.0×ULN (%) c [95% CI] | 25 [18, 33]                  | 0 [0, 0]           | 25 (18, 33)                       |
+|                                                          | Seladelpar 10 mg (N = 128)   | Placebo (N = 65)   | Treatment difference %(95% CI) e   |
+|----------------------------------------------------------|------------------------------|--------------------|------------------------------------|
+| Primary composite endpoint at Month 12 b                 |                              |                    |                                    |
+| Responder rate, (%) c [95 %CI]                           | 62 [53, 70]                  | 20 [10, 30]        | 42 (28, 53)                        |
+| Components of primary endpoint                           |                              |                    |                                    |
+| ALP less than 1.67-times ULN, (%)                        | 66                           | 26                 | 39 (25, 52)                        |
+| Decrease in ALP of at least 15%, (%)                     | 84                           | 32                 | 51 (37, 63)                        |
+| Total bilirubin less than or equal to ULN d , (%)        | 81                           | 77                 | 4 (-7, 17)                         |
+| ALP normalisation                                        |                              |                    |                                    |
+| ALP normalis ation at Month 12, ≤ 1.0×ULN (%) c [95% CI] | 25 [18, 33]                  | 0 [0, 0]           | 25 (18, 33)                        |
 
 CI = Confidence Interval
 
@@ -256,7 +256,7 @@ a In the trial there were 12 patients (6%) who were intolerant to UDCA and initi
 
 b Percentage of patients achieving a response, defined as an ALP value less than 1.67-times the ULN, an ALP decrease of at least 15%, and total bilirubin less than or equal to the ULN. Patients with missing values were considered as not achieving response.
 
-c p &lt; 0.0001 for seladelpar 10 mg versus placebo. P-value was obtained using the Cochran-Mantel-Haenszel Test stratified by baseline ALP level &lt; 350 U/L ve rsus ALP level ≥ 350 U/L, and baseline pruritus NRS &lt; 4 versus ≥ 4.
+c p &lt; 0.0001 for seladelpar 10 mg versus placebo. P-value was obtained using the Cochran-Mantel-Haenszel Test stratified by baseline ALP level &lt; 350 U/L versus ALP level ≥ 350 U/L, and baseline pruritus NRS &lt; 4 versus ≥ 4.
 
 d The mean baseline total bilirubin value was 0.758 mg/dL and was less than or equal to the ULN in 87% of the enrolled patients.
 
@@ -278,7 +278,7 @@ Among the subset of patients with ALP &lt; 350 U/L (&lt; approximately 3-times U
 
 ## Lipid Parameters
 
-The LS means difference from placebo in total cholesterol, LDL-C, and triglycerides was -4.4 (95% CI: -8.5, -0.3) mg/dL, -9.0 (95% CI: -15.0, -2.9) mg/dL, and -15.1 (95% CI: -22.1, -8.1), respectively at month 12. High density lipoprotein-cholesterol remained stable on treatment with seladelpar.
+The LS means difference from placebo in percentage change from baseline in total cholesterol, LDLC, and triglycerides was -4.4 (95% CI: -8.5, -0.3) mg/dL, -9.0 (95% CI: -15.0, -2.9) mg/dL, and -15.1 (95% CI: -22.1, -8.1), respectively at month 12. High density lipoprotein-cholesterol remained stable on treatment with seladelpar.
 
 ## Pruritus
 
@@ -294,6 +294,14 @@ Seladelpar significantly reduced pruritus compared to placebo at Month 6 in pati
 | Change from baseline in pruritus score at Month 6 c | Change from baseline in pruritus score at Month 6 c | Change from baseline in pruritus score at Month 6 c | Change from baseline in pruritus score at Month 6 c |
 | Mean (SE)                                           | -3.2 (0.28)                                         | -1.7 (0.41)                                         | -1.5 (-2.5, -0.5) d                                 |
 
+a Assessed using the pruritus NRS, which evaluated patients' daily worst itching intensity on an 11-point rating scale with scores ranging from 0 ('no itching') to 10 ('worst itching imaginable'). The pruritus NRS was administered daily in a ≥ 14-day run-in period prior to randomization through Month 6. Moderate to severe pruritus was defined as a pruritus NRS score ≥ 4.
+
+b Baseline included mean of all daily recorded scores during the run in-period and on Day 1. The pruritus scores for each patient for post-baseline months were calculated by averaging the pruritus NRS scores within the scheduled week each month.
+
+c Based on LS means from a mixed-effect model for repeated measures (MMRM) for change from baseline at Months 1 (Week 4), 3 (Week 12), and 6 (Week 26) accounting for baseline average pruritus score, baseline ALP level (&lt;350 U/L versus ALP level ≥350 U/L), treatment arm, time (in months), and treatment -by-time interaction.
+
+d p &lt; 0.005 for seladelpar 10 mg versus placebo.
+
 The effect of seladelpar on pruritus was also assessed by additional patient-reported outcome measures in RESPONSE. At Month 6, an improvement in pruritus, as observed by reductions in total scores of the PBC-40 Itch Domain and 5-D Itch scale, was seen with seladelpar. (Table 4).
 
 ## Table 4. Change from baseline in PBC-40 Itch Domain and 5-D Itch Scale total scores at Month 6 in RESPONSE in PBC patients with moderate to severe pruritus at baseline
@@ -305,13 +313,15 @@ The effect of seladelpar on pruritus was also assessed by additional patient-rep
 | 5-D Itch Scale b     |                           |                  |                                  |
 | Mean (SE)            | -4.7 (0.53)               | -1.3 (0.80)      | -3.4 (-5.3, -1.5)                |
 
+a LS means were obtained using MMRM for change from baseline at Month 6 accounting for baseline PBC-40 Quality of Life Itch Domain score, baseline ALP level (&lt;350 U/L versus ALP level ≥350 U/L), treatment arm, time (in months), and treatment-by-time interaction.
+
+b LS means were obtained using MMRM for change from baseline at Month 6 accounting for baseline 5-D Itch scale, baseline ALP level (&lt;350 U/L versus ALP level ≥350 U/L), time (in months), treatment arm, and treatment -by-time interaction.
+
 ## Paediatric population
 
 The European Medicines Agency has waived the obligation to submit the results of studies with seladelpar in all subsets of the paediatric population in treatment of primary biliary cholangitis (see section 4.2 for information on paediatric use).
 
-This medicinal product has been authorised under a so-called 'conditional approval' scheme.
-
-This means that further evidence on this medicinal product is awaited.
+This medicinal product has been authorised under a so-called 'conditional approval' scheme. This means that further evidence on this medicinal product is awaited.
 
 The European Medicines Agency will review any new information on this medicinal product at least every year and this SmPC will be updated as necessary
 
@@ -347,7 +357,7 @@ Following administration of an oral dose of radiolabelled seladelpar, 92.9% of r
 
 ## CYP2C9 genotype
 
-Seladelpar is primarily metabolised in vitro by CYP2C9 which is a polymorphic enzyme. Seladelpar plasma exposure (dose-normalised AUC0-inf) was 18% higher in CYP2C9 intermediate metabolisers (*1/*2, *1/*8, *1/*3, *2/*2, n=28) compared to CYP2C9 normal metabolisers (*1/*1, n=84) after a single dose of seladelpar 1 mg to 15 mg. No conclusion could be made for poor metabolisers due to only one identified subject with *2/*3 and no subjects with *3/*3 were identified
+Seladelpar is primarily metabolised in vitro by CYP2C9 which is a polymorphic enzyme. Seladelpar plasma exposure (dose-normalised AUC0-inf) was 18% higher in CYP2C9 intermediate metabolisers (*1/*2, *1/*8, *1/*3, *2/*2, n=28) compared to CYP2C9 normal metabolisers (*1/*1, n=84) after a single dose of seladelpar 1 mg to 15 mg. No conclusion could be made for poor metabolisers due to only one identified subject with *2/*3 and no subjects with *3/*3 were identified.
 
 ## Age, weight, gender and race
 
@@ -367,7 +377,7 @@ The pharmacokinetics of seladelpar have not been studied in patients requiring h
 
 Based on a clinical pharmacology study in subjects with mild, moderate, and severe hepatic impairment (Child-Pugh A, B, and C, respectively), seladelpar AUC was increased 1.10, 2.52, and 2.12-fold, and Cmax was increased 1.33, 5.19, and 5.03-fold, respectively, compared to subjects with normal hepatic function.
 
-In an additional study, seladelpar exposures (Cmax, AUC) were 1.7 to 1.8-fold higher in PBC patients with mild hepatic impairment (Child-Pugh A) with portal hypertension and 1.6 to 1.9-fold higher in PBC patients with moderate hepatic impairment (Child-Pugh B), compared to PBC patients with mild hepatic impairment without portal hypertension, after a single oral dose of 10 mg seladelpar.
+In an additional study, seladelpar exposures (Cmax, AUC) were 1.7 to 1.8-fold higher in PBC patients with mild hepatic impairment (Child-Pugh A) with portal hypertension, 1.6 to 1.9-fold higher in PBC patients with moderate hepatic impairment (Child-Pugh B), and 2.1 to 2.5-fold higher in PBC patients with severe hepatic impairment (Child-Pugh C), compared to PBC patients with mild hepatic impairment without portal hypertension, after a single oral dose of 10 mg seladelpar.
 
 Following administration of 10 mg seladelpar once daily for 28 days in PBC patients with mild hepatic impairment (Child-Pugh A) with portal hypertension and PBC patients with moderate hepatic impairment (Child-Pugh B), there was no clinically meaningful accumulation of seladelpar (accumulation ratios were less than 1.2-fold).
 
@@ -425,13 +435,13 @@ Not applicable.
 
 Do not store above 30°C.
 
+<div style=\"page-break-after: always\"></div>
+
 ## 6.5 Nature and contents of container
 
 Lyvdelzi hard capsules are packaged in a high density polyethylene bottle closed with a polypropylene child resistant cap containing an induction seal. Each bottle contains 30 capsules.
 
 The following pack sizes are available: outer cartons containing 1 bottle of 30 hard capsules and outer cartons containing 90 (3 bottles of 30) hard capsules. Not all pack sizes may be marketed.
-
-<div style=\"page-break-after: always\"></div>
 
 ## 6.6 Special precautions for disposal and other handling
 
@@ -451,17 +461,19 @@ EU/1/24/1898/002
 
 Date of first authorisation: 20 February 2025
 
+Date of latest renewal: {DD month YYYY}
+
 ## 10. DATE OF REVISION OF THE TEXT
 
 Detailed information on this medicinal product is available on the website of the European Medicines Agency: https://www.ema.europa.eu.
+
+13
 
 <div style=\"page-break-after: always\"></div>
 
 ## ANNEX II
 
-## A. MANUFACTURER RESPONSIBLE FOR BATCH RELEASE B. CONDITIONS OR RESTRICTIONS REGARDING SUPPLY AND USE C. OTHER CONDITIONS AND REQUIREMENTS OF THE MARKETING AUTHORISATION D. CONDITIONS OR RESTRICTIONS WITH REGARD TO THE SAFE AND EFFECTIVE USE OF THE MEDICINAL PRODUCT
-
-## E. SPECIFIC OBLIGATION TO COMPLETE POST-AUTHORISATION MEASURES FOR THE CONDITIONAL MARKETING AUTHORISATION
+## A. MANUFACTURER RESPONSIBLE FOR BATCH RELEASE B. CONDITIONS OR RESTRICTIONS REGARDING SUPPLY AND USE C. OTHER CONDITIONS AND REQUIREMENTS OF THE MARKETING AUTHORISATION D. CONDITIONS OR RESTRICTIONS WITH REGARD TO THE SAFE AND EFFECTIVE USE OF THE MEDICINAL PRODUCT E. SPECIFIC OBLIGATION TO COMPLETE POST-AUTHORISATION MEASURES FOR THE CONDITIONAL MARKETING AUTHORISATION
 
 <div style=\"page-break-after: always\"></div>
 
@@ -498,9 +510,9 @@ An updated RMP should be submitted:
 
 This being a conditional marketing authorisation and pursuant to Article 14-a of Regulation (EC) No 726/2004, the MAH shall complete, within the stated timeframe, the following measures:
 
-| Description                                                                                                                                                                                                                                                                                                                                                                                                                                                  | Due date    |
-|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------|
-| In order to confirm the efficacy and safety of seladelpar in the treatment of primary biliary cholangitis (PBC) in combination with ursodeoxycholic acid (UDCA) in adults who have an inadequate response to UDCA alone, or as monotherapy in those unable to tolerate UDCA, the MAHshall conduct and submit the final results of the phase III randomised, placebo- controlled clinical study (AFFIRM) to evaluate the efficacy and safety of seladelpar on | August 2030 |
+| Description                                                                                                                                                                                                                                                                                                                                                                                                                                                  | Due date      |
+|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------|
+| In order to confirm the efficacy and safety of seladelpar in the treatment of primary biliary cholangitis (PBC) in combination with ursodeoxycholic acid (UDCA) in adults who have an inadequate response to UDCA alone, or as monotherapy in those unable to tolerate UDCA, the MAHshall conduct and submit the final results of the phase III randomised, placebo- controlled clinical study (AFFIRM) to evaluate the efficacy and safety of seladelpar on | February 2031 |
 
 <div style=\"page-break-after: always\"></div>
 
@@ -558,9 +570,9 @@ EXP
 
 ## 9. SPECIAL STORAGE CONDITIONS
 
-Do not store above 30°C.
-
 <div style=\"page-break-after: always\"></div>
+
+Do not store above 30°C.
 
 ## 10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
 
@@ -594,6 +606,8 @@ Lyvdelzi 10 mg
 
 PC SN
 
+<div style=\"page-break-after: always\"></div>
+
 NN
 
 <div style=\"page-break-after: always\"></div>
@@ -602,23 +616,28 @@ NN
 
 BOTTLE LABEL
 
-## 1. NAME OF THE MEDICINAL PRODUCT
+| 1.   | NAME OF THE MEDICINAL PRODUCT   |
+|------|---------------------------------|
 
 Lyvdelzi 10 mg hard capsules seladelpar
 
-## 2. STATEMENT OF ACTIVE SUBSTANCE
+| 2.   | STATEMENT OF ACTIVE SUBSTANCE   |
+|------|---------------------------------|
 
 Each capsule contains seladelpar lysine dihydrate equivalent to 10 mg seladelpar.
 
-## 3. LIST OF EXCIPIENTS
+| 3.   | LIST OF EXCIPIENTS   |
+|------|----------------------|
 
 See leaflet for further information
 
-## 4. PHARMACEUTICAL FORM AND CONTENTS
+| 4.   | PHARMACEUTICALFORM AND CONTENTS   |
+|------|-----------------------------------|
 
 30 hard capsules
 
-## 5. METHOD AND ROUTE OF ADMINISTRATION
+| 5.   | METHODANDROUTEOFADMINISTRATION   |
+|------|----------------------------------|
 
 Read the package leaflet before use.
 
@@ -628,17 +647,18 @@ Oral use
 
 Keep out of the sight and reach of children.
 
-## 7. OTHER SPECIAL WARNING(S), IF NECESSARY
+| 7.   | OTHER SPECIAL WARNING(S), IF NECESSARY   |
+|------|------------------------------------------|
 
-## 8. EXPIRY DATE
+| 8.   | EXPIRY DATE   |
+|------|---------------|
 
 EXP
 
-## 9. SPECIAL STORAGE CONDITIONS
+| 9.   | SPECIAL STORAGE CONDITIONS   |
+|------|------------------------------|
 
 Do not store above 30°C.
-
-<div style=\"page-break-after: always\"></div>
 
 <div style=\"page-break-after: always\"></div>
 
@@ -650,8 +670,8 @@ Do not store above 30°C.
 
 Gilead Sciences Ireland UC Carrigtohill County Cork, T45 DP77 Ireland
 
-| 12.   | MARKETING AUTHORISATION NUMBER(S)   |
-|-------|-------------------------------------|
+| 12. MARKETING AUTHORISATION NUMBER(S)   |
+|-----------------------------------------|
 
 EU/1/24/1898/00130 hard capsules.
 
@@ -662,8 +682,7 @@ EU/1/24/1898/002 90 (3 bottles of 30) hard capsules.
 
 Lot
 
-| 14.   | GENERAL CLASSIFICATION FOR SUPPLY   |
-|-------|-------------------------------------|
+14. GENERAL CLASSIFICATION FOR SUPPLY
 
 | 15.   | INSTRUCTIONS ON USE   |
 |-------|-----------------------|
@@ -713,7 +732,7 @@ This medicine is subject to additional monitoring. This will allow quick identif
 
 Lyvdelzi contains the active substance seladelpar. It belongs to a group of medicines called peroxisome proliferator-activated receptor delta agonists.
 
-This medicine is used in adults to treat primary biliary cholangitis (PBC),.a type of liver disease in which the bile ducts are slowly destroyed, making it harder for bile to flow through. Bile is a fluid that helps digest food, especially fats. When the bile cannot flow into the digestive tract, it backs up in the liver (this is called cholestasis), where it damages liver tissues. This can decrease liver function and cause inflammation. Lyvdelzi can be used together with ursodeoxycholic acid (UDCA), or by itself in patients who cannot use UDCA.
+This medicine is used in adults to treat primary biliary cholangitis (PBC), a type of liver disease in which the bile ducts are slowly destroyed, making it harder for bile to flow through. Bile is a fluid that helps digest food, especially fats. When the bile cannot flow into the digestive tract, it backs up in the liver (this is called cholestasis), where it damages liver tissues. This can decrease liver function and cause inflammation. Lyvdelzi can be used together with ursodeoxycholic acid (UDCA), or by itself in patients who cannot use UDCA.
 
 The active substance in Lyvdelzi, seladelpar, works by activating the PPAR delta receptor. This protein regulates levels of bile acids, inflammation, and fibrosis (formation of scar tissue). This reduces the production and the build-up of bile in the liver and also reduces inflammation of the liver.
 
@@ -774,7 +793,7 @@ Always take this medicine exactly as your doctor, pharmacist or nurse has told y
 
 ## How much to take
 
-The recommended dose is one 10 mg capsule taken once daily
+The recommended dose is one 10 mg capsule taken once daily.
 
 ## How to take
 
@@ -906,15 +925,21 @@ Gilead Sciences Ireland UC Tel.: + 353 (0) 1 686 1888
 
 ## Danmark
 
-Gilead Sciences Sweden AB Tlf.: + 46 (0) 8 5057 1849
+Gilead Sciences Sweden AB
+
+Tlf.: + 46 (0) 8 5057 1849
 
 ## Deutschland
 
-Gilead Sciences GmbH Tel: + 49 (0) 89 899890-0
+Gilead Sciences GmbH
+
+Tel: + 49 (0) 89 899890-0
 
 ## Eesti
 
-Gilead Sciences Ireland UC Tel: + 353 (0) 1 686 1888
+Gilead Sciences Ireland UC
+
+Tel: + 353 (0) 1 686 1888
 
 ## Ελλάδα
 
@@ -924,15 +949,21 @@ Gilead Sciences Ελλάς Μ.ΕΠΕ.
 
 ## España
 
-Gilead Sciences, S.L. Tel: + 34 91 378 98 30
+Gilead Sciences, S.L.
+
+Tel: + 34 91 378 98 30
 
 ## France
 
-Gilead Sciences Tél: + 33 (0) 1 46 09 41 00
+Gilead Sciences
+
+Tél: + 33 (0) 1 46 09 41 00
 
 ## Hrvatska
 
-Gilead Sciences Ireland UC Tel: + 353 (0) 1 686 1888
+Gilead Sciences Ireland UC
+
+Tel: + 353 (0) 1 686 1888
 
 ## Ireland
 
@@ -940,19 +971,27 @@ Gilead Sciences Ireland UC Tel: + 353 (0) 214 825 999
 
 ## Ísland
 
-Gilead Sciences Sweden AB Sími: + 46 (0) 8 5057 1849
+Gilead Sciences Sweden AB
+
+Sími: + 46 (0) 8 5057 1849
 
 ## Italia
 
-Gilead Sciences S.r.l. Tel: + 39 02 439201
+Gilead Sciences S.r.l.
+
+Tel: + 39 02 439201
 
 ## Κύπρος
 
-Gilead Sciences Ελλάς Μ.ΕΠΕ. Τηλ: + 30 210 8930 100
+Gilead Sciences Ελλάς Μ.ΕΠΕ.
+
+Τηλ: + 30 210 8930 100
 
 ## Latvija
 
-Gilead Sciences Ireland UC Tel: + 353 (0) 1 686 1888
+Gilead Sciences Ireland UC
+
+Tel: + 353 (0) 1 686 1888
 
 ## This leaflet was last revised in .
 
@@ -970,19 +1009,27 @@ Tel: + 353 (0) 1 686 1888
 
 ## Nederland
 
-Gilead Sciences Netherlands B.V. Tel: + 31 (0) 20 718 36 98
+Gilead Sciences Netherlands B.V.
+
+Tel: + 31 (0) 20 718 36 98
 
 ## Norge
 
-Gilead Sciences Sweden AB Tlf: + 46 (0) 8 5057 1849
+Gilead Sciences Sweden AB
+
+Tlf: + 46 (0) 8 5057 1849
 
 ## Österreich
 
-Gilead Sciences GesmbH Tel: + 43 1 260 830
+Gilead Sciences GesmbH
+
+Tel: + 43 1 260 830
 
 ## Polska
 
-Gilead Sciences Poland Sp. z o.o. Tel.: + 48 22 262 8702
+Gilead Sciences Poland Sp. z o.o.
+
+Tel.: + 48 22 262 8702
 
 ## Portugal
 
@@ -992,15 +1039,21 @@ Tel: + 351 21 7928790
 
 ## România
 
-Gilead Sciences (GSR) S.R.L. Tel: + 40 31 631 18 00
+Gilead Sciences (GSR) S.R.L.
+
+Tel: + 40 31 631 18 00
 
 ## Slovenija
 
-Gilead Sciences Ireland UC Tel: + 353 (0) 1 686 1888
+Gilead Sciences Ireland UC
+
+Tel: + 353 (0) 1 686 1888
 
 ## Slovenská republika
 
-Gilead Sciences Slovakia s.r.o. Tel: + 421 232 121 210
+Gilead Sciences Slovakia s.r.o.
+
+Tel: + 421 232 121 210
 
 ## Suomi/Finland
 
@@ -1010,7 +1063,9 @@ Puh/Tel: + 46 (0) 8 5057 1849
 
 ## Sverige
 
-Gilead Sciences Sweden AB Tel: + 46 (0) 8 5057 1849
+Gilead Sciences Sweden AB
+
+Tel: + 46 (0) 8 5057 1849
 
 <div style=\"page-break-after: always\"></div>
 

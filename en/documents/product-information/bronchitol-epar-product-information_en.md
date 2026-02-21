@@ -1,20 +1,20 @@
 ---
-document_datetime: 2023-09-21 21:08:42
-document_pages: 33
+document_datetime: 2026-02-17 11:15:12
+document_pages: 34
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/bronchitol-epar-product-information_en.pdf
 document_name: bronchitol-epar-product-information_en.pdf
 version: success
-processing_time: 7.7370469
-conversion_datetime: 2025-12-14 23:28:38.302327
+processing_time: 13.8339831
+conversion_datetime: 2026-02-21 12:36:24.514958
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.64.1
-  docling-core: 2.55.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.13.0
+  docling-jobkit: 1.11.0
+  docling: 2.74.0
+  docling-core: 2.65.1
+  docling-ibm-models: 3.11.0
+  docling-parse: 5.3.2
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.1-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.3-arm64-arm-64bit-Mach-O
 ---
 ## ANNEX I
 
@@ -140,8 +140,8 @@ A patient is defined as hyperresponsive to inhaled mannitol and must not be pres
 
 - -≥10% fall from baseline in SpO2 at any point of the assessment;
 - -FEV1 fall from baseline is ≥20% at 240 mg cumulative dose;
-- -FEV1 has fallen 20-&lt;50% (from baseline) at the end of the assessment and does not return to &lt;20% within 15 minutes;
-- -FEV1 has fallen ≥50% (from baseline) at the end of the assessment.
+- -FEV1 has fallen 20-&lt;50 % (from baseline) at the end of the assessment and does not return to &lt;20% within 15 minutes;
+- -FEV1 has fallen ≥50% (from baseline) at the end of the assessment .
 
 If a therapy induced hyperresponsive reaction is suspected, Bronchitol should be discontinued. All patients should be monitored until their FEV1 has returned to baseline levels.
 
@@ -218,15 +218,15 @@ The safety profile of Bronchitol has been evaluated in clinical studies involvin
 
 ## Initiation dose assessment
 
-The most commonly observed adverse reaction associated with the use of Bronchitol during the initiation dose assessment is cough (2.9% of patients), (see section 4.4).
+The most commonly observed adverse reaction associated with the use of Bronchitol during the initiation dose assessment is cough (2.9 % of patients), (see section 4.4).
 
 The most important adverse reaction associated with the use of Bronchitol during the initiation dose assessment is bronchospasm (see section 4.4).
 
 ## Therapeutic dose regimen
 
-The most commonly observed adverse reaction associated with the use of Bronchitol is cough (see section 4.4). This was observed in 8.3% of patients compared to 4.0% of patients in the control arm. Cough which led to cessation of treatment was also commonly experienced and was observed in 4.0% of patients in the Bronchitol treatment arm.
+The most commonly observed adverse reaction associated with the use of Bronchitol is cough (see section 4.4). This was observed in 8.3 % of patients compared to 4.0 % of patients in the control arm. Cough which led to cessation of treatment was also commonly experienced and was observed in 4.0 % of patients in the Bronchitol treatment arm.
 
-The most important adverse reaction associated with the use of Bronchitol is haemoptysis. The proportion of patients who experienced haemoptysis as an adverse reaction was 7.3%, 3.3% and 3.4% in the Bronchitol arms for studies 301, 302 and 303 respectively vs. 3.4%, 0% and 5.6% in the control arms. The proportion of patients who experienced haemoptysis  including haemoptysis reported during exacerbation was 7.0% in the mannitol arm and 7.7% in the control arm (see section 4.4).
+The most important adverse reaction associated with the use of Bronchitol is haemoptysis. The proportion of patients who experienced haemoptysis as an adverse reaction was 7.3% , 3.3 % and 3.4% in the Bronchitol arms for studies 301, 302 and 303 respectively vs. 3.4% , 0% and 5.6% in the control arms. The proportion of patients who experienced haemoptysis  including haemoptysis reported during exacerbation was 7.0 % in the mannitol arm and 7.7 % in the control arm (see section 4.4).
 
 ## Tabulated list of adverse reactions
 
@@ -234,7 +234,7 @@ The safety profile of Bronchitol is based on the safety data from Phase III clin
 
 ## Frequencies are defined as:
 
-Very common (≥1/10); common (≥1/100 to &lt;1/10); uncommon (≥1/1,000 to &lt;1/100); rare (≥1/10,000 to &lt;1/1,000); very rare (≥1/100,000 to &lt;1/10,000); not known (cannot be estimated from the available data).
+Very comm on (≥1/10) ; common (≥1/100 to &lt;1/10); uncommon (≥1/1 ,000 to &lt;1/100); r are (≥1/10,000 to &lt;1/1,000); v ery rare (≥1/100,000 to &lt;1/10,000); not known (cannot be estimated from the available data).
 
 Within each frequency grouping, adverse reactions are presented in order of decreasing seriousness.
 
@@ -267,7 +267,7 @@ Adverse reactions that occurred only with the initiation dose assessment (MTT) a
 
 ## Description of selected adverse reactions
 
-Twenty seven (7.1%) out of 378 patients who undertook the mannitol tolerance test (MTT) in study 301, 18 (5.3%) out of 341 patientsin study 302 and 25 (5.1%) out of 486 patients in Study 303 had a positive (MTT). In study 301, overall the most frequently reported adverse reactions during the MTT were cough in 20 (5.3%) subjects, wheezing/bronchospasm in seven (1.9%) subjects and chest discomfort in six (1.6%) subjects. In study 302 the most frequent adverse reaction reported during the MTT was cough in seven patients (2.1%),and in study 303 the most frequently reported adverse reaction from the MTT was also cough in eight patients (1.6%).
+Twenty seven (7.1 %) out of 3 78 patients who undertook the mannitol tolerance test (MTT) in study 301, 18 (5.3%) out of 341 patientsin study 302 and 25 (5.1%) out of 486 patients in Study 303 had a positive (MTT). In study 301, overall the most frequently reported adverse reactions during the MTT were cough in 20 (5.3 %) subjects, wheezing/bronchospasm in seven (1.9 %) subjects and chest discomfort in six (1.6%) subjects. In study 302 the most frequent adverse reaction reported during the MTT was cough in seven patients (2.1%),and in study 303 the most frequently reported adverse reaction from the MTT was also cough in eight patients (1.6%).
 
 ## Paediatric population (6 to 17 years of age)
 
@@ -275,13 +275,13 @@ Frequency, type and severity of adverse reactions in children are similar to tho
 
 ## Initiation dose (6 to 17 years of age)
 
-The most commonly observed adverse reaction associated with the use of Bronchitol during the initiation dose assessment with the paediatric population is cough (4.8% of patients).
+The most commonly observed adverse reaction associated with the use of Bronchitol during the initiation dose assessment with the paediatric population is cough (4.8 % of patients).
 
 The most important adverse reaction associated with the use of Bronchitol during the initiation dose assessment with the paediatric population is bronchospasm.
 
 ## Therapeutic dose regimen (6 to 17 years of age)
 
-The most commonly observed adverse reaction associated with the use of Bronchitol is cough. This was observed in 7.8% of patients compared to 3.8% of patients in the control arm. The most important adverse reaction associated with the use of Bronchitol is haemoptysis.
+The most commonly observed adverse reaction associated with the use of Bronchitol is cough. This was observed in 7.8 % of patients compared to 3.8 % of patients in the control arm. The most important adverse reaction associated with the use of Bronchitol is haemoptysis.
 
 Table 2: Frequency of adverse reactions with Bronchitol in the phase 3 studies (initiation dose assessment and/or treatment phase) - paediatric population (6 to 17 years of age)
 
@@ -304,8 +304,6 @@ Table 2: Frequency of adverse reactions with Bronchitol in the phase 3 studies (
 | Renal and urinary disorders                          | Uncommon   | Urinary incontinence         |
 | General disorders and administration site conditions | Uncommon   | Pyrexia                      |
 | Investigations                                       | Common     | Bacteria sputum identified   |
-
-Adverse reactions that occurred only with initiation dose assessment (MTT) are bronchospasm, chest pain, odynophagia and retching
 
 ## Reporting of suspected adverse reactions
 
@@ -331,15 +329,15 @@ In the ITT population of an open label dose response study, DPM-CF-202, the mean
 
 ## Clinical efficacy and safety
 
-Three Phase 3, 26-week double blind, randomised, parallel arm, controlled, intervention studies (DPM-CF-301,DPM-CF-302 and DPM-CF-303) have been performed in which 324 (DPM-CF-301) and 318 (DPM-CF-302) patients aged 6 years and above were randomised in a 3:2 ratio to inhaled mannitol 400 mg twice daily or to control (inhaled mannitol 50 mg twice daily). In the third study (DPM-CF-303) 423 adult patients were randomised in a 1:1 ratio to inhaled mannitol 400 mg twice daily or to control. Twenty seven (7.1%) out of 378 patients who undertook the mannitol tolerance test (MTT) in study 301, 18 (5.3) out of 341 patients in study 302 and 25 out of 486 patients (5.1%) in study 303 had a positive  MTT defined as either 1) a fall in FEV1 &gt;20% from baseline at midpoint (step 4) or 2) fall from baseline &gt; 20 % at end of test that did not recover to &lt; 20% within 15 minutes or 3) who had a fall in FEV1 &gt; 50% from baseline at end of test (step 6) or 4) who had a fall in Sp02 to &lt; 89% during the procedure. An additional 2.8% (n=34) of patients from the three studies had incomplete MTTs and were not randomised.
+Three Phase 3, 26-week double blind, randomised, parallel arm, controlled, intervention studies (DPM-CF-301,DPM-CF-302 and DPM-CF-303) have been performed in which 324 (DPM-CF-301) and 318 (DPM-CF-302) patients aged 6 years and above were randomised in a 3:2 ratio to inhaled mannitol 400 mg twice daily or to control (inhaled mannitol 50 mg twice daily). In the third study (DPM-CF-303) 423 adult patients were randomised in a 1:1 ratio to inhaled mannitol 400 mg twice daily or to control. Twenty seven (7.1 %) out of 378 patients who undertook the mannitol tolerance test (MTT) in study 301, 18 (5.3) out of 341 patients in study 302 and 25 out of 486 patients (5.1%) in study 303 had a positive  MTT defined as either 1) a fall in FEV1 &gt;20% from baseline at midpoint (step 4) or 2) fall from baseline &gt; 20 % at end of test that did not recover to &lt; 20% within 15 minutes or 3) who had a fall in FEV1 &gt; 50% from baseline at end of test (step 6) or 4) who had a fall in Sp02 to &lt; 89% during the procedure. An additional 2.8 % (n=34) of patients from the three studies had incomplete MTTs and were not randomised.
 
 Mean (SD) baseline FEV1 percent predicted in study DPM-CF-301 (safety population, N= 295) was 62.4 (SD:16.45) and 61.4 (SD:16.13) in the mannitol and control groups, respectively. These figures for study DPM-CF-302 (N=305) are as follows: 65.24 (SD:13.90) and 64.35 (SD:15.29). In study DPM-CF-303 (N=423) the baseline FEV1 percent predicted was 63.17 (SD: 15.15) and 62.98 (SD: 13.65).In study DPM-CF-301 64.4 % of the patient population were adults while in study
 
 <div style=\"page-break-after: always\"></div>
 
-DPM-CF-302 this figure was 49.5%. Study DPM-CF-303 was all adult patients. Fifty five % of patients were receiving rhDNase in study DPM-CF-301 while in study DPM-CF-302 this number was 75% and for DPM-CF-303 this was 67.6%. The percentage of patients receiving inhaled antibiotics was 55% in study DPM-CF-301, 56% in study DPM-CF-302 and 52% in Study DPM-CF-303. Concomitant administration with hypertonic saline was not permitted in these trials.
+DPM-CF302 this figure was 49.5%. Study DPM-CF-303 was all adult patients. Fif ty five % of patients were receiving rhDNase in study DPM-CF-301 while in study DPM-CF-302 this number was 75% and for DPM-CF303 this was 67.6% . The percentage of patients receiving inhaled antibiotics was 55 % in study DPM -CF-301, 56 % in study DPM -CF-302 and 52% in Study DPM -CF-303. Concomitant administration with hypertonic saline was not permitted in these trials.
 
-The primary pre-specified endpoint i.e. the change from baseline in FEV1 (ml) in the modified ITT (mITT) population (n=269, 297 and 423 in studies DPM-CF-301,DPM-CF-302 and DPM-CF-303, respectively) compared to control over the 26 weeks period is provided in Table 3 alongside FEV1 presented as absolute and relative change % predicted.
+The primary pre-specified endpoint i.e. the change from baseline in FEV1 (ml) in the modified ITT (mITT) population (n=269, 297 and 423 in studies DPM-CF-301,DPM-CF-302 and DPM-CF-303, respectively) compared to control over the 26 weeks period is provided in Table 3 alongside FEV1 presented as absolute and relative change % predicted .
 
 Table 3 - Change in FEV1 from baseline over 26 weeks in the mITT and adult populations
 
@@ -360,7 +358,7 @@ Table 3 - Change in FEV1 from baseline over 26 weeks in the mITT and adult popul
 
 Note: There were some differences in analysis methods across the 3 studies.  In DPM-CF-303 imputation of missing data was performed using a baseline observation carried forward (BOCF) approach whereas no imputation was performed in DPM-CF-301 or DPM-CF-302.
 
-The treatment effect of Bronchitol on FEV1 was less evident in the subgroup of patients who were receiving concomitant rhDNase.In rhDNase users in study 301 the relative change in FEV1 % predicted from baseline across 26 weeks of treatment was 2.83 (95% CI -0.62, 6.27). For non-users the relative change was 4.30 (95% CI 0.53, 8.07). In study 302 the relative change (95% CI) for rhDNase users and non-users was 3.21 (-0.61, 7.03) and 4.73 (-1.93, 11.40), respectively. In study 303 the relative change (95% CI) for rhDNase users and non-users was 1.30 (-0.91, 3.51) and 4.45 (0.52, 8.38), respectively.
+The treatment effect of Bronchitol on FEV1 was less evident in the subgroup of patients who were receiving concomitant rhDNase.In rhDNase users in study 301 the relative change in FEV1 % predicted from baseline across 26 weeks of treatment was 2.83 (95% CI -0.62, 6.27). For non-users the relative change was 4.30 (95% CI 0.53, 8.07). In study 302 the relative change (95% CI) for rhDNase users and non-users was 3.21 (-0.61, 7.03) and 4.73 (-1.93, 11.40), respectively. In study 303 the relative change (95% CI) for rhDNase users and non -users was 1.30 (-0.91, 3.51) and 4.45 (0.52, 8.38), respectively.
 
 Study 303 did not show a superior treatment effect of Bronchitol on FEV1 for female patients, in whom the underlying cystic fibrosis disease course may be worse than males for reasons that are not fully understood. In female patients, the adjusted mean change in FEV1 was 27ml for Bronchitol and 44ml for the control arm, suggesting potentially inferior benefit on lung function with Bronchitol compared to the control, although the difference was not statistically significant (p=0.480).
 
@@ -376,15 +374,15 @@ The estimated effect of treatment (mean change and 95% CI from baseline over 26 
 
 The safety and efficacy of Bronchitol in children and adolescents aged less than 18 years has not been established (see section 4.2).
 
-In studies DPM-CF-301 and 302 relative % predicted FEV1 compared to control in children (6-11 years) was improved by 0.44% (95% CI -5.90, 6.77, N=43) and 6.1% (95% CI -1.28, 13.54, N=59) over 26 weeks (p=0.892 and 0.104) respectively.
+In studies DPM-CF301 and 302 relative % predicted FEV1 compared to control in children (6-11 years) was improved by 0.44% (95% CI -5.90, 6.77, N=43 ) and 6.1% (95% CI -1.28, 13.54, N=59) over 26 weeks (p=0.892 and 0.104) respectively.
 
-In adolescents (12-17 years) relative change in % predicted FEV1 compared to control improved by 3.31% (95% CI -2.29, 8.90, N=55) and 0.42% (95% CI -5.45, 6.29, N=94) over 26 weeks (p=0.245 and 0.888) respectively.
+In adolescents (12-17 years) relative change in % predicted FEV1 compared to control improved by 3.31% (95% CI -2.29, 8.90, N=55 ) and 0.42% (95% CI -5.45, 6.29, N=94) over 26 weeks (p=0.245 and 0.888) respectively.
 
 ## 5.2 Pharmacokinetic properties
 
 ## Absorption
 
-In a study of 18 healthy male adult volunteers, the absolute bioavailability of mannitol powder for inhalation by comparison to mannitol administered intravenously was 0.59% ± 0.15. The rate and extent of absorption of mannitol after inhaled administration was very similar to that observed after oral administration. The Tmax after inhaled administration was 1.5 ± 0.5 hours.
+In a study of 18 healthy male adult volunteers, the absolute bioavailability of mannitol powder for inhalation by comparison to mannitol admi nistered intravenously was 0.59% ± 0.15. The rate and extent of absorption of mannitol after inhaled administration was very similar to that observed after oral administration. The Tmax after inhaled administration was 1.5 ± 0.5 hours.
 
 In a study of 9 cystic fibrosis patients (6 adults, 3 adolescents), using 400 mg inhaled mannitol as a single dose (Day 1) then twice a day for 7 days (Days 2 - 7), pharmacokinetic parameters were similar for adults and adolescents, except for a longer average apparent terminal half life for adolescents (Day 1 = 7.29 hours, Day 7 = 6.52 hours) compared with adults (Day 1 = 6.10 hours, Day 7 = 5.42 hours). Overall, the comparison of AUCs between Day 1 and Day 7 showed a time independence of pharmacokinetics, indicating linearity at the dose level administered in this study.
 
@@ -516,7 +514,9 @@ Agency http://www.ema.europa.eu/.
 
 - A. MANUFACTURER RESPONSIBLE FOR BATCH RELEASE
 - B. CONDITIONS OR RESTRICTIONS REGARDING SUPPLY AND USE
-- C. OTHER CONDITIONS AND REQUIREMENTS OF THE MARKETING AUTHORISATION
+
+## C. OTHER CONDITIONS AND REQUIREMENTS OF THE MARKETING AUTHORISATION
+
 - D. CONDITIONS OR RESTRICTIONS WITH REGARD TO THE SAFE AND EFFECTIVE USE OF THE MEDICINAL PRODUCT
 
 <div style=\"page-break-after: always\"></div>
@@ -525,13 +525,7 @@ Agency http://www.ema.europa.eu/.
 
 Name and address of the manufacturer responsible for batch release
 
-MIAS Pharma Limited Suite 1, Stafford House Strand Road, Portmarnock Co. Dublin, D13WC83 Ireland
-
-Or
-
-Arvato Supply Chain Solutions SE Gottlieb-Daimler Straβe 1 33428 Harsewinkel North Rhine-Westphalia Germany
-
-The printed package leaflet of the medicinal product must state the name and address of the manufacturer responsible for the release of the concerned batch.
+MIAS Pharma Limited Suite 1, Stafford House Strand Road, Portmarnock Co. Dublin, D13 WC83 Ireland
 
 ## B. CONDITIONS OR RESTRICTIONS REGARDING SUPPLY AND USE
 
@@ -551,36 +545,6 @@ An updated RMP should be submitted:
 
 - At the request of the European Medicines Agency;
 - Whenever the risk management system is modified, especially as the result of new information being received that may lead to a significant change to the benefit/risk profile or as the result of an important (pharmacovigilance or risk minimisation) milestone being reached.
-
-## · Additional risk minimisation measures
-
-Prior to launch of the medicinal product in each Member State, the Marketing Authorisation Holder shall agree the content and format of the educational material with the national competent authority.
-
-<div style=\"page-break-after: always\"></div>
-
-The Marketing Authorisation Holder (MAH) should ensure that, at launch, all Healthcare Professionals who are expected to use and/or prescribe Bronchitol are provided with an educational pack.
-
-The educational pack should contain the following:
-
--  Summary of Product Characteristics and Patient Information Leaflet
--  Educational material for Healthcare Professionals
-
-The educational material for Healthcare Professionals should be a leaflet that includes information on the following key elements:
-
--  The risk of bronchospasm during treatment
-- o The need to perform the Bronchitol initiation dose assessment to identify patients who have bronchial hyperresponsiveness in response to inhaled mannitol by measuring the degree of bronchoconstriction that occurs following sequential administrations of mannitol.
-- o How to perform the Bronchitol initiation dose assessment safely and how long to monitor the patient for.
-- o How to interpret the results of the Bronchitol initiation dose assessment as Pass, Fail or Incomplete.
-- o That therapeutic doses of Bronchitol should only be prescribed if the patient has passed the initiation dose assessment.
-- o The need of pre-medication by a bronchodilator 5-15 minutes before the Bronchitol initiation dose assessment and before each therapeutic administration of Bronchitol.
-- o The need to check that the patient knows how to correctly use the bronchodilator.
-- o The need to review the patient after approximately six weeks to assess for signs and symptoms of bronchospasm.
-- o The risk of bronchospasm during long term treatment even if the Bronchitol initiation dose assessment was initially passed and the need to reiterate it in case of doubt.
--  The risk of haemoptysis during treatment
-- o That Bronchitol has not been studied in patients with a history of significant haemoptysis (&gt;60 ml) in the previous three months.
-- o The need for monitoring and when to withhold treatment.
--  The potential risk of cough related sequelae during treatment
-- o The need to train the patient to minimise cough during administration in using the correct inhalation technique.
 
 <div style=\"page-break-after: always\"></div>
 
@@ -713,7 +677,7 @@ Each hard capsule contains 40 mg mannitol.
 
 ## 4. PHARMACEUTICAL FORM AND CONTENTS
 
-Inhalation powder, hard capsule.
+## Inhalation powder, hard capsule.
 
 2-week treatment pack of 280 hard capsules and 2 inhalers
 
@@ -888,7 +852,7 @@ Talk to your doctor or pharmacist before using this medicine:
 
 <div style=\"page-break-after: always\"></div>
 
-- -if you have severe cystic fibrosis, in particular if your lung function measured by the Forced Expiratory Volume in first second of expiration (FEV1) is usually less than 30%.
+- -if you have severe cystic fibrosis, in particular if your lung function measured by the Forced Expiratory Volume in first second of expiration (FEV1 ) is usually less than 30% .
 
 Inhaling medicines can cause chest tightness and wheezing and this can happen immediately after taking this medicine. Your doctor will help you take your first dose of Bronchitol and check your lung function before, during and after dosing. Your doctor may ask you to use other medicines such as a bronchodilator before taking Bronchitol.
 
@@ -1086,7 +1050,7 @@ Pharmaxis Europe Limited, 108 Q House, Furze Road, Sandyford, Dublin 18, D18AY29
 
 ## Manufacturer
 
-MIAS Pharma Limited, Suite 1, Stafford House, Strand Road, Portmarnock, Co. Dublin, D13WC83, Ireland or Arvato Supply Chain Solutions SE, Gottlieb-Daimler Straβe 1, 33428 Harsewinkel, North Rhine-Westphalia Germany
+MIAS Pharma Limited, Suite 1, Stafford House, Strand Road, Portmarnock, Co. Dublin, D13 WC83, Ireland.
 
 For any information about this medicine, please contact the local representative of the Marketing Authorisation Holder:
 
@@ -1099,15 +1063,11 @@ For any information about this medicine, please contact the local representative
 
 ## Danmark
 
-Chiesi Pharma AB
-
-Tlf: + 46 8 753 35 20
+Pharmaxis Europe Limited Tlf: + 353 (0) 1431 9816
 
 ## Deutschland
 
-Chiesi GmbH
-
-Tel: +49 (0) 40 897 240
+Pharmaxis Europe Limited Tel: + 353 (0) 1431 9816
 
 ## Eesti
 
@@ -1115,15 +1075,17 @@ Pharmaxis Europe Limited Tél/Tel: + 353 (0) 1431 9816
 
 ## Ελλάδα
 
-Chiesi Hellas A.E.B.E. Τηλ: +  30.210.617.97.63
+Pharmaxis Europe Limited Τηλ: + 353 (0) 1431 9816
 
 ## España
 
-Chiesi España, S.A.U. Tel: +34 93 494 8000
+Pharmaxis Europe Limited Tel: + 353 (0) 1431 9816
 
 ## France
 
-Pharmaxis Europe Limited Tél: + 353 (0) 1431 9816
+Pharmaxis Europe Limited
+
+Tél: + 353 (0) 1431 9816
 
 ## Hrvatska
 
@@ -1131,29 +1093,23 @@ Pharmaxis Europe Limited Tél/Tel: + 353 (0) 1431 9816
 
 ## Ireland
 
-Chiesi Farmaceutici S.p.A. Tel: + 39 0521 2791
+Pharmaxis Europe Limited Tel: + 353 (0) 1431 9816
 
 ## Ísland
 
-Pharmaxis Europe Limited
-
-Sími: + 353 (0) 1431 9816
+Pharmaxis Europe Limited Sími: + 353 (0) 1431 9816
 
 ## Italia
 
-Chiesi Italia S.p.A.
-
-Tel: +39 0521 2791
+Pharmaxis Europe Limited Tel: + 353 (0) 1431 9816
 
 ## Κύπρος
 
-Chiesi Hellas A.E.B.E. Τηλ: +  30.210.617.97.63
+Pharmaxis Europe Limited Τηλ: + 353 (0) 1431 9816
 
 ## Latvija
 
-Pharmaxis Europe Limited
-
-Tél/Tel: + 353 (0) 1431 9816
+Pharmaxis Europe Limited Tél/Tel: + 353 (0) 1431 9816
 
 ## This leaflet was last revised in MM/YYYY.
 
@@ -1165,19 +1121,15 @@ Detailed information on this medicine is available on the European Medicines Age
 
 ## Malta
 
-Pharmaxis Europe Limited
-
-Tel: + 353 (0) 1431 9816
+Pharmaxis Europe Limited Tel: + 353 (0) 1431 9816
 
 ## Nederland
 
-Pharmaxis Europe Limited
-
-Tel: + 353 (0) 1431 9816
+Pharmaxis Europe Limited Tel: + 353 (0) 1431 9816
 
 ## Norge
 
-Chiesi Pharma AB Tlf: + 46 8 753 35 20
+Pharmaxis Europe Limited Tlf: + 353 (0) 1431 9816
 
 ## Österreich
 
@@ -1189,11 +1141,15 @@ Pharmaxis Europe Limited Tel: + 353 (0) 1431 9816
 
 ## Portugal
 
-Pharmaxis Europe Limited Tel: + 353 (0) 1431 9816
+Pharmaxis Europe Limited
+
+Tel: + 353 (0) 1431 9816
 
 ## România
 
-Pharmaxis Europe Limited Tel: + 353 (0) 1431 9816
+Pharmaxis Europe Limited
+
+Tel: + 353 (0) 1431 9816
 
 ## Slovenija
 
@@ -1205,21 +1161,15 @@ Pharmaxis Europe Limited Tél/Tel: + 353 (0) 1431 9816
 
 ## Suomi/Finland
 
-Chiesi Pharma AB
-
-Puh/Tel: + 46 8 753 35 20
+Pharmaxis Europe Limited Puh/Tel: + 353 (0) 1431 9816
 
 ## Sverige
 
-Chiesi Pharma AB
-
-Tel: + 46 8 753 35 20
+Pharmaxis Europe Limited Tel: + 353 (0) 1431 9816
 
 ## United Kingdom (Northern Ireland)
 
-Chiesi Farmaceutici S.p.A.
-
-Tel: + 39 0521 2791
+Pharmaxis Europe Limited Tel: + 353 (0) 1431 9816
 
 <div style=\"page-break-after: always\"></div>
 
@@ -1329,3 +1279,25 @@ Cleaning the inhaler - Usually your inhaler will give you the correct dose of me
 <!-- image -->
 
 <!-- image -->
+
+<div style=\"page-break-after: always\"></div>
+
+## Annex IV
+
+## Scientific conclusions and grounds for the variation to the terms of the marketing authorisation(s)
+
+<div style=\"page-break-after: always\"></div>
+
+## Scientific conclusions
+
+Taking into account the PRAC Assessment Report on the PSUR(s) for mannitol (indicated in cystic fibrosis), the scientific conclusions of PRAC are as follows:
+
+In view of available data on the risk of bronchospasm, haemoptysis and cough related sequelae and the hindsight gained over the last decade on the safety profile of mannitol (indicated in cystic fibrosis), and that the information contained in the additional risk minimisation measures (aRMM) are also reflected in the SmPC, the PRAC considered that the aRMM can be deleted from the Annex II.D. The PRAC concluded that the conditions of the marketing authorisations of products containing mannitol (indicated in cystic fibrosis) should be amended accordingly.
+
+Having reviewed the PRAC recommendation, the CHMP agrees with the PRAC overall conclusions and grounds for recommendation.
+
+## Grounds for the variation to the terms of the marketing authorisation(s)
+
+On the basis of the scientific conclusions for mannitol (indicated in cystic fibrosis) the CHMP is of the opinion that the benefit-risk balance of the medicinal product(s) containing mannitol (indicated in cystic fibrosis) is unchanged subject to the proposed changes to the product information.
+
+The CHMP recommends that the terms of the marketing authorisation(s) should be varied.

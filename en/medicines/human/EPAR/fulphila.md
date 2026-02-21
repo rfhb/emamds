@@ -1,20 +1,20 @@
 ---
-document_datetime: 2025-12-29 11:52:02
+document_datetime: 2026-02-19 10:40:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/fulphila.html
 document_name: fulphila.html
 version: success
-processing_time: 0.1085174
-conversion_datetime: 2025-12-30 08:02:37.731311
+processing_time: 0.3285739
+conversion_datetime: 2026-02-21 12:18:55.097011
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.66.0
-  docling-core: 2.57.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.13.0
+  docling-jobkit: 1.11.0
+  docling: 2.74.0
+  docling-core: 2.65.1
+  docling-ibm-models: 3.11.0
+  docling-parse: 5.3.2
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.3-arm64-arm-64bit-Mach-O
 ---
 # Fulphila
 
@@ -25,8 +25,6 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 pegfilgrastim Medicine Human Authorised
-
-On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -39,6 +37,7 @@ Page contents
 - [Assessment history](#assessment-history)
 - [News on Fulphila](#news-on)
 - [Related content](#related-content-883)
+- [Product information - with tracked changes](#product-information-with-tracked-changes-83534)
 - [Topics](#topics)
 
 - Application under evaluation
@@ -107,7 +106,7 @@ English (EN) (76.57 KB - PDF)
 
 [View](/en/documents/overview/fulphila-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-448)
+[Other languages (22)](#file-language-dropdown-265)
 
 български (BG) (121.2 KB - PDF)
 
@@ -299,17 +298,17 @@ English (EN) (178.4 KB - PDF)
 
 Fulphila : EPAR - Product information
 
-English (EN) (856.7 KB - PDF)
+English (EN) (1.05 MB - PDF)
 
 **First published:** 03/12/2018
 
-**Last updated:** 04/12/2023
+**Last updated:** 19/02/2026
 
 [View](/en/documents/product-information/fulphila-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-101)
+[Other languages (24)](#file-language-dropdown-689)
 
-български (BG) (921.7 KB - PDF)
+български (BG) (1.06 MB - PDF)
 
 **First published:**
 
@@ -317,11 +316,11 @@ English (EN) (856.7 KB - PDF)
 
 **Last updated:**
 
-04/12/2023
+19/02/2026
 
 [View](/bg/documents/product-information/fulphila-epar-product-information_bg.pdf)
 
-español (ES) (883.22 KB - PDF)
+español (ES) (930.37 KB - PDF)
 
 **First published:**
 
@@ -329,11 +328,11 @@ español (ES) (883.22 KB - PDF)
 
 **Last updated:**
 
-04/12/2023
+19/02/2026
 
 [View](/es/documents/product-information/fulphila-epar-product-information_es.pdf)
 
-čeština (CS) (1003.89 KB - PDF)
+čeština (CS) (848.3 KB - PDF)
 
 **First published:**
 
@@ -341,11 +340,11 @@ español (ES) (883.22 KB - PDF)
 
 **Last updated:**
 
-04/12/2023
+19/02/2026
 
 [View](/cs/documents/product-information/fulphila-epar-product-information_cs.pdf)
 
-dansk (DA) (812.55 KB - PDF)
+dansk (DA) (960.61 KB - PDF)
 
 **First published:**
 
@@ -353,11 +352,11 @@ dansk (DA) (812.55 KB - PDF)
 
 **Last updated:**
 
-04/12/2023
+19/02/2026
 
 [View](/da/documents/product-information/fulphila-epar-product-information_da.pdf)
 
-Deutsch (DE) (902.98 KB - PDF)
+Deutsch (DE) (1.02 MB - PDF)
 
 **First published:**
 
@@ -365,11 +364,11 @@ Deutsch (DE) (902.98 KB - PDF)
 
 **Last updated:**
 
-04/12/2023
+19/02/2026
 
 [View](/de/documents/product-information/fulphila-epar-product-information_de.pdf)
 
-eesti keel (ET) (1014.35 KB - PDF)
+eesti keel (ET) (942.62 KB - PDF)
 
 **First published:**
 
@@ -377,11 +376,11 @@ eesti keel (ET) (1014.35 KB - PDF)
 
 **Last updated:**
 
-04/12/2023
+19/02/2026
 
 [View](/et/documents/product-information/fulphila-epar-product-information_et.pdf)
 
-ελληνικά (EL) (1.38 MB - PDF)
+ελληνικά (EL) (1.1 MB - PDF)
 
 **First published:**
 
@@ -389,11 +388,11 @@ eesti keel (ET) (1014.35 KB - PDF)
 
 **Last updated:**
 
-04/12/2023
+19/02/2026
 
 [View](/el/documents/product-information/fulphila-epar-product-information_el.pdf)
 
-français (FR) (1.24 MB - PDF)
+français (FR) (970.35 KB - PDF)
 
 **First published:**
 
@@ -401,11 +400,11 @@ français (FR) (1.24 MB - PDF)
 
 **Last updated:**
 
-04/12/2023
+19/02/2026
 
 [View](/fr/documents/product-information/fulphila-epar-product-information_fr.pdf)
 
-hrvatski (HR) (1.41 MB - PDF)
+hrvatski (HR) (1.06 MB - PDF)
 
 **First published:**
 
@@ -413,11 +412,11 @@ hrvatski (HR) (1.41 MB - PDF)
 
 **Last updated:**
 
-04/12/2023
+19/02/2026
 
 [View](/hr/documents/product-information/fulphila-epar-product-information_hr.pdf)
 
-íslenska (IS) (821.52 KB - PDF)
+íslenska (IS) (1.02 MB - PDF)
 
 **First published:**
 
@@ -425,11 +424,11 @@ hrvatski (HR) (1.41 MB - PDF)
 
 **Last updated:**
 
-04/12/2023
+19/02/2026
 
 [View](/is/documents/product-information/fulphila-epar-product-information_is.pdf)
 
-italiano (IT) (1.21 MB - PDF)
+italiano (IT) (925.29 KB - PDF)
 
 **First published:**
 
@@ -437,11 +436,11 @@ italiano (IT) (1.21 MB - PDF)
 
 **Last updated:**
 
-04/12/2023
+19/02/2026
 
 [View](/it/documents/product-information/fulphila-epar-product-information_it.pdf)
 
-latviešu valoda (LV) (1.02 MB - PDF)
+latviešu valoda (LV) (1.07 MB - PDF)
 
 **First published:**
 
@@ -449,11 +448,11 @@ latviešu valoda (LV) (1.02 MB - PDF)
 
 **Last updated:**
 
-04/12/2023
+19/02/2026
 
 [View](/lv/documents/product-information/fulphila-epar-product-information_lv.pdf)
 
-lietuvių kalba (LT) (1.25 MB - PDF)
+lietuvių kalba (LT) (946.94 KB - PDF)
 
 **First published:**
 
@@ -461,11 +460,11 @@ lietuvių kalba (LT) (1.25 MB - PDF)
 
 **Last updated:**
 
-04/12/2023
+19/02/2026
 
 [View](/lt/documents/product-information/fulphila-epar-product-information_lt.pdf)
 
-magyar (HU) (906.11 KB - PDF)
+magyar (HU) (1 MB - PDF)
 
 **First published:**
 
@@ -473,11 +472,11 @@ magyar (HU) (906.11 KB - PDF)
 
 **Last updated:**
 
-04/12/2023
+19/02/2026
 
 [View](/hu/documents/product-information/fulphila-epar-product-information_hu.pdf)
 
-Malti (MT) (1.06 MB - PDF)
+Malti (MT) (1.09 MB - PDF)
 
 **First published:**
 
@@ -485,11 +484,11 @@ Malti (MT) (1.06 MB - PDF)
 
 **Last updated:**
 
-04/12/2023
+19/02/2026
 
 [View](/mt/documents/product-information/fulphila-epar-product-information_mt.pdf)
 
-Nederlands (NL) (1.47 MB - PDF)
+Nederlands (NL) (1.14 MB - PDF)
 
 **First published:**
 
@@ -497,11 +496,11 @@ Nederlands (NL) (1.47 MB - PDF)
 
 **Last updated:**
 
-04/12/2023
+19/02/2026
 
 [View](/nl/documents/product-information/fulphila-epar-product-information_nl.pdf)
 
-norsk (NO) (851.5 KB - PDF)
+norsk (NO) (838.02 KB - PDF)
 
 **First published:**
 
@@ -509,23 +508,23 @@ norsk (NO) (851.5 KB - PDF)
 
 **Last updated:**
 
-04/12/2023
+19/02/2026
 
 [View](/no/documents/product-information/fulphila-epar-product-information_no.pdf)
 
-polski (PL) (981.29 KB - PDF)
+polski (PL) (1.04 MB - PDF)
 
 **First published:**
 
-20/02/2025
+03/12/2018
 
 **Last updated:**
 
-20/02/2025
+19/02/2026
 
 [View](/pl/documents/product-information/fulphila-epar-product-information_pl.pdf)
 
-português (PT) (1.25 MB - PDF)
+português (PT) (983 KB - PDF)
 
 **First published:**
 
@@ -533,11 +532,11 @@ português (PT) (1.25 MB - PDF)
 
 **Last updated:**
 
-04/12/2023
+19/02/2026
 
 [View](/pt/documents/product-information/fulphila-epar-product-information_pt.pdf)
 
-română (RO) (1.43 MB - PDF)
+română (RO) (1.04 MB - PDF)
 
 **First published:**
 
@@ -545,11 +544,11 @@ română (RO) (1.43 MB - PDF)
 
 **Last updated:**
 
-04/12/2023
+19/02/2026
 
 [View](/ro/documents/product-information/fulphila-epar-product-information_ro.pdf)
 
-slovenčina (SK) (880.6 KB - PDF)
+slovenčina (SK) (1011.79 KB - PDF)
 
 **First published:**
 
@@ -557,11 +556,11 @@ slovenčina (SK) (880.6 KB - PDF)
 
 **Last updated:**
 
-04/12/2023
+19/02/2026
 
 [View](/sk/documents/product-information/fulphila-epar-product-information_sk.pdf)
 
-slovenščina (SL) (1013.77 KB - PDF)
+slovenščina (SL) (992.6 KB - PDF)
 
 **First published:**
 
@@ -569,11 +568,11 @@ slovenščina (SL) (1013.77 KB - PDF)
 
 **Last updated:**
 
-04/12/2023
+19/02/2026
 
 [View](/sl/documents/product-information/fulphila-epar-product-information_sl.pdf)
 
-Suomi (FI) (1.3 MB - PDF)
+Suomi (FI) (1003.03 KB - PDF)
 
 **First published:**
 
@@ -581,11 +580,11 @@ Suomi (FI) (1.3 MB - PDF)
 
 **Last updated:**
 
-04/12/2023
+19/02/2026
 
 [View](/fi/documents/product-information/fulphila-epar-product-information_fi.pdf)
 
-svenska (SV) (751.81 KB - PDF)
+svenska (SV) (915.94 KB - PDF)
 
 **First published:**
 
@@ -593,11 +592,11 @@ svenska (SV) (751.81 KB - PDF)
 
 **Last updated:**
 
-04/12/2023
+19/02/2026
 
 [View](/sv/documents/product-information/fulphila-epar-product-information_sv.pdf)
 
-**Latest procedure affecting product information:** IAIN/0045 30/11/2023
+**Latest procedure affecting product information:** EMA/N/0000326669 17/02/2026
 
 icon globe
 
@@ -621,7 +620,7 @@ English (EN) (40.99 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/fulphila-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-405)
+[Other languages (24)](#file-language-dropdown-215)
 
 български (BG) (94.18 KB - PDF)
 
@@ -839,9 +838,9 @@ Marketing authorisation holder
 
 Biosimilar Collaborations Ireland Limited
 
-Unit 35/36
+Unit 35/36 Grange Parade Baldoyle Industrial Estate Dublin 13, D13 R20R Ireland
 
-Opinion adopted 19/09/2018 Marketing authorisation issued 20/11/2018 Revision 12
+Opinion adopted 19/09/2018 Marketing authorisation issued 20/11/2018 Revision 13
 
 ## Assessment history
 
@@ -853,13 +852,21 @@ Collapse section
 
 Fulphila : EPAR - Procedural steps taken and scientific information after authorisation
 
+English (EN) (159.03 KB - PDF)
+
+**First published:** 19/02/2026
+
+[View](/en/documents/procedural-steps-after/fulphila-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf)
+
+Fulphila : EPAR - Procedural steps taken and scientific information after authorisation (archived)
+
 English (EN) (147.25 KB - PDF)
 
 **First published:** 25/04/2019
 
 **Last updated:** 04/12/2023
 
-[View](/en/documents/procedural-steps-after/fulphila-epar-procedural-steps-taken-and-scientific-information-after-authorisation_en.pdf)
+[View](/en/documents/procedural-steps-after/fulphila-epar-procedural-steps-taken-scientific-information-after-authorisation-archived_en.pdf)
 
 Fulphila-H-C-PSUSA-00002326-201901 : EPAR - Scientific conclusions and grounds for the variation to the terms of the marketing authorisation
 
@@ -909,12 +916,218 @@ English (EN) (68.78 KB - PDF)
 
 - [Biosimilar medicines](/en/human-regulatory/overview/biosimilar-medicines)
 
+#### Product information - with tracked changes
+
+The approved product information for this medicine is available below showing the changes since the previous procedure affecting the product information. The same document without tracked changes is above under 'Product information'.
+
+Fulphila : EPAR - Product information - tracked changes
+
+English (EN) (557.95 KB - DOCX)
+
+**First published:** 19/02/2026
+
+[View](/en/documents/product-information-tracked-changes/fulphila-epar-product-information-tracked-changes_en.docx)
+
+[Other languages (24)](#file-language-dropdown-785)
+
+български (BG) (1.01 MB - DOCX)
+
+**First published:**
+
+19/02/2026
+
+[View](/bg/documents/product-information-tracked-changes/fulphila-epar-product-information-tracked-changes_bg.docx)
+
+español (ES) (591.1 KB - DOCX)
+
+**First published:**
+
+19/02/2026
+
+[View](/es/documents/product-information-tracked-changes/fulphila-epar-product-information-tracked-changes_es.docx)
+
+čeština (CS) (520.29 KB - DOCX)
+
+**First published:**
+
+19/02/2026
+
+[View](/cs/documents/product-information-tracked-changes/fulphila-epar-product-information-tracked-changes_cs.docx)
+
+dansk (DA) (539.68 KB - DOCX)
+
+**First published:**
+
+19/02/2026
+
+[View](/da/documents/product-information-tracked-changes/fulphila-epar-product-information-tracked-changes_da.docx)
+
+Deutsch (DE) (596.1 KB - DOCX)
+
+**First published:**
+
+19/02/2026
+
+[View](/de/documents/product-information-tracked-changes/fulphila-epar-product-information-tracked-changes_de.docx)
+
+eesti keel (ET) (525.4 KB - DOCX)
+
+**First published:**
+
+19/02/2026
+
+[View](/et/documents/product-information-tracked-changes/fulphila-epar-product-information-tracked-changes_et.docx)
+
+ελληνικά (EL) (600.69 KB - DOCX)
+
+**First published:**
+
+19/02/2026
+
+[View](/el/documents/product-information-tracked-changes/fulphila-epar-product-information-tracked-changes_el.docx)
+
+français (FR) (556.1 KB - DOCX)
+
+**First published:**
+
+19/02/2026
+
+[View](/fr/documents/product-information-tracked-changes/fulphila-epar-product-information-tracked-changes_fr.docx)
+
+hrvatski (HR) (687.28 KB - DOCX)
+
+**First published:**
+
+19/02/2026
+
+[View](/hr/documents/product-information-tracked-changes/fulphila-epar-product-information-tracked-changes_hr.docx)
+
+íslenska (IS) (692.12 KB - DOCX)
+
+**First published:**
+
+19/02/2026
+
+[View](/is/documents/product-information-tracked-changes/fulphila-epar-product-information-tracked-changes_is.docx)
+
+italiano (IT) (550.47 KB - DOCX)
+
+**First published:**
+
+19/02/2026
+
+[View](/it/documents/product-information-tracked-changes/fulphila-epar-product-information-tracked-changes_it.docx)
+
+latviešu valoda (LV) (603.01 KB - DOCX)
+
+**First published:**
+
+19/02/2026
+
+[View](/lv/documents/product-information-tracked-changes/fulphila-epar-product-information-tracked-changes_lv.docx)
+
+lietuvių kalba (LT) (495.7 KB - DOCX)
+
+**First published:**
+
+19/02/2026
+
+[View](/lt/documents/product-information-tracked-changes/fulphila-epar-product-information-tracked-changes_lt.docx)
+
+magyar (HU) (497.95 KB - DOCX)
+
+**First published:**
+
+19/02/2026
+
+[View](/hu/documents/product-information-tracked-changes/fulphila-epar-product-information-tracked-changes_hu.docx)
+
+Malti (MT) (553.68 KB - DOCX)
+
+**First published:**
+
+19/02/2026
+
+[View](/mt/documents/product-information-tracked-changes/fulphila-epar-product-information-tracked-changes_mt.docx)
+
+Nederlands (NL) (855.13 KB - DOCX)
+
+**First published:**
+
+19/02/2026
+
+[View](/nl/documents/product-information-tracked-changes/fulphila-epar-product-information-tracked-changes_nl.docx)
+
+norsk (NO) (493.28 KB - DOCX)
+
+**First published:**
+
+19/02/2026
+
+[View](/no/documents/product-information-tracked-changes/fulphila-epar-product-information-tracked-changes_no.docx)
+
+polski (PL) (476.52 KB - DOCX)
+
+**First published:**
+
+19/02/2026
+
+[View](/pl/documents/product-information-tracked-changes/fulphila-epar-product-information-tracked-changes_pl.docx)
+
+português (PT) (561.09 KB - DOCX)
+
+**First published:**
+
+19/02/2026
+
+[View](/pt/documents/product-information-tracked-changes/fulphila-epar-product-information-tracked-changes_pt.docx)
+
+română (RO) (599.62 KB - DOCX)
+
+**First published:**
+
+19/02/2026
+
+[View](/ro/documents/product-information-tracked-changes/fulphila-epar-product-information-tracked-changes_ro.docx)
+
+slovenčina (SK) (457.46 KB - DOCX)
+
+**First published:**
+
+19/02/2026
+
+[View](/sk/documents/product-information-tracked-changes/fulphila-epar-product-information-tracked-changes_sk.docx)
+
+slovenščina (SL) (570.6 KB - DOCX)
+
+**First published:**
+
+19/02/2026
+
+[View](/sl/documents/product-information-tracked-changes/fulphila-epar-product-information-tracked-changes_sl.docx)
+
+Suomi (FI) (666.78 KB - DOCX)
+
+**First published:**
+
+19/02/2026
+
+[View](/fi/documents/product-information-tracked-changes/fulphila-epar-product-information-tracked-changes_fi.docx)
+
+svenska (SV) (525.35 KB - DOCX)
+
+**First published:**
+
+19/02/2026
+
+[View](/sv/documents/product-information-tracked-changes/fulphila-epar-product-information-tracked-changes_sv.docx)
+
 #### Topics
 
 - [Biosimilars](https://www.ema.europa.eu/en/search?f%5B0%5D=ema_search_topics%3A45)
 - [Medicines](https://www.ema.europa.eu/en/search?f%5B0%5D=ema_search_topics%3A61)
 
-**This page was last updated on** 04/12/2023
+**This page was last updated on** 19/02/2026
 
 ## Share this page
 

@@ -1,20 +1,20 @@
 ---
-document_datetime: 2025-10-27 12:46:39
+document_datetime: 2026-02-17 10:36:05
 document_pages: 145
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/imbruvica-epar-product-information_en.pdf
 document_name: imbruvica-epar-product-information_en.pdf
 version: success
-processing_time: 65.0524195
-conversion_datetime: 2025-12-27 22:02:18.548922
+processing_time: 81.3902
+conversion_datetime: 2026-02-21 12:42:08.598091
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.66.0
-  docling-core: 2.57.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.13.0
+  docling-jobkit: 1.11.0
+  docling: 2.74.0
+  docling-core: 2.65.1
+  docling-ibm-models: 3.11.0
+  docling-parse: 5.3.2
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.3-arm64-arm-64bit-Mach-O
 ---
 ## ANNEX I
 
@@ -2567,7 +2567,7 @@ Not applicable.
 
 ## 6.3 Shelf life
 
-2 years.
+3 years.
 
 ## 6.4 Special precautions for storage
 

@@ -1,20 +1,20 @@
 ---
-document_datetime: 2025-12-29 14:36:00
+document_datetime: 2026-02-19 14:15:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/kigabeq.html
 document_name: kigabeq.html
 version: success
-processing_time: 0.1067963
-conversion_datetime: 2025-12-31 02:37:36.500529
+processing_time: 0.1032132
+conversion_datetime: 2026-02-21 12:48:02.10392
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.66.0
-  docling-core: 2.57.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.13.0
+  docling-jobkit: 1.11.0
+  docling: 2.74.0
+  docling-core: 2.65.1
+  docling-ibm-models: 3.11.0
+  docling-parse: 5.3.2
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.3-arm64-arm-64bit-Mach-O
 ---
 # Kigabeq
 
@@ -25,8 +25,6 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 vigabatrin Medicine Human Authorised
-
-On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -105,7 +103,7 @@ English (EN) (81.75 KB - PDF)
 
 [View](/en/documents/overview/kigabeq-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-342)
+[Other languages (22)](#file-language-dropdown-301)
 
 български (BG) (107.48 KB - PDF)
 
@@ -295,17 +293,17 @@ English (EN) (154.47 KB - PDF)
 
 Kigabeq : EPAR - Product information
 
-English (EN) (258.91 KB - PDF)
+English (EN) (273.44 KB - PDF)
 
 **First published:** 12/10/2018
 
-**Last updated:** 23/01/2025
+**Last updated:** 19/02/2026
 
 [View](/en/documents/product-information/kigabeq-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-179)
+[Other languages (24)](#file-language-dropdown-983)
 
-български (BG) (345.57 KB - PDF)
+български (BG) (372.99 KB - PDF)
 
 **First published:**
 
@@ -313,11 +311,11 @@ English (EN) (258.91 KB - PDF)
 
 **Last updated:**
 
-23/01/2025
+19/02/2026
 
 [View](/bg/documents/product-information/kigabeq-epar-product-information_bg.pdf)
 
-español (ES) (223.22 KB - PDF)
+español (ES) (234.06 KB - PDF)
 
 **First published:**
 
@@ -325,11 +323,11 @@ español (ES) (223.22 KB - PDF)
 
 **Last updated:**
 
-23/01/2025
+19/02/2026
 
 [View](/es/documents/product-information/kigabeq-epar-product-information_es.pdf)
 
-čeština (CS) (339.57 KB - PDF)
+čeština (CS) (345.05 KB - PDF)
 
 **First published:**
 
@@ -337,11 +335,11 @@ español (ES) (223.22 KB - PDF)
 
 **Last updated:**
 
-23/01/2025
+19/02/2026
 
 [View](/cs/documents/product-information/kigabeq-epar-product-information_cs.pdf)
 
-dansk (DA) (225.43 KB - PDF)
+dansk (DA) (231.11 KB - PDF)
 
 **First published:**
 
@@ -349,11 +347,11 @@ dansk (DA) (225.43 KB - PDF)
 
 **Last updated:**
 
-23/01/2025
+19/02/2026
 
 [View](/da/documents/product-information/kigabeq-epar-product-information_da.pdf)
 
-Deutsch (DE) (240.81 KB - PDF)
+Deutsch (DE) (246.31 KB - PDF)
 
 **First published:**
 
@@ -361,11 +359,11 @@ Deutsch (DE) (240.81 KB - PDF)
 
 **Last updated:**
 
-23/01/2025
+19/02/2026
 
 [View](/de/documents/product-information/kigabeq-epar-product-information_de.pdf)
 
-eesti keel (ET) (242.07 KB - PDF)
+eesti keel (ET) (244.95 KB - PDF)
 
 **First published:**
 
@@ -373,11 +371,11 @@ eesti keel (ET) (242.07 KB - PDF)
 
 **Last updated:**
 
-23/01/2025
+19/02/2026
 
 [View](/et/documents/product-information/kigabeq-epar-product-information_et.pdf)
 
-ελληνικά (EL) (338.37 KB - PDF)
+ελληνικά (EL) (379.26 KB - PDF)
 
 **First published:**
 
@@ -385,11 +383,11 @@ eesti keel (ET) (242.07 KB - PDF)
 
 **Last updated:**
 
-23/01/2025
+19/02/2026
 
 [View](/el/documents/product-information/kigabeq-epar-product-information_el.pdf)
 
-français (FR) (265.22 KB - PDF)
+français (FR) (274.43 KB - PDF)
 
 **First published:**
 
@@ -397,11 +395,11 @@ français (FR) (265.22 KB - PDF)
 
 **Last updated:**
 
-23/01/2025
+19/02/2026
 
 [View](/fr/documents/product-information/kigabeq-epar-product-information_fr.pdf)
 
-hrvatski (HR) (303.32 KB - PDF)
+hrvatski (HR) (306.3 KB - PDF)
 
 **First published:**
 
@@ -409,11 +407,11 @@ hrvatski (HR) (303.32 KB - PDF)
 
 **Last updated:**
 
-23/01/2025
+19/02/2026
 
 [View](/hr/documents/product-information/kigabeq-epar-product-information_hr.pdf)
 
-íslenska (IS) (231.93 KB - PDF)
+íslenska (IS) (238.97 KB - PDF)
 
 **First published:**
 
@@ -421,11 +419,11 @@ hrvatski (HR) (303.32 KB - PDF)
 
 **Last updated:**
 
-23/01/2025
+19/02/2026
 
 [View](/is/documents/product-information/kigabeq-epar-product-information_is.pdf)
 
-italiano (IT) (241.35 KB - PDF)
+italiano (IT) (232.79 KB - PDF)
 
 **First published:**
 
@@ -433,11 +431,11 @@ italiano (IT) (241.35 KB - PDF)
 
 **Last updated:**
 
-23/01/2025
+19/02/2026
 
 [View](/it/documents/product-information/kigabeq-epar-product-information_it.pdf)
 
-latviešu valoda (LV) (373.91 KB - PDF)
+latviešu valoda (LV) (425.64 KB - PDF)
 
 **First published:**
 
@@ -445,11 +443,11 @@ latviešu valoda (LV) (373.91 KB - PDF)
 
 **Last updated:**
 
-23/01/2025
+19/02/2026
 
 [View](/lv/documents/product-information/kigabeq-epar-product-information_lv.pdf)
 
-lietuvių kalba (LT) (346.04 KB - PDF)
+lietuvių kalba (LT) (352.02 KB - PDF)
 
 **First published:**
 
@@ -457,11 +455,11 @@ lietuvių kalba (LT) (346.04 KB - PDF)
 
 **Last updated:**
 
-23/01/2025
+19/02/2026
 
 [View](/lt/documents/product-information/kigabeq-epar-product-information_lt.pdf)
 
-magyar (HU) (319.25 KB - PDF)
+magyar (HU) (347.46 KB - PDF)
 
 **First published:**
 
@@ -469,11 +467,11 @@ magyar (HU) (319.25 KB - PDF)
 
 **Last updated:**
 
-23/01/2025
+19/02/2026
 
 [View](/hu/documents/product-information/kigabeq-epar-product-information_hu.pdf)
 
-Malti (MT) (320.96 KB - PDF)
+Malti (MT) (341.07 KB - PDF)
 
 **First published:**
 
@@ -481,11 +479,11 @@ Malti (MT) (320.96 KB - PDF)
 
 **Last updated:**
 
-23/01/2025
+19/02/2026
 
 [View](/mt/documents/product-information/kigabeq-epar-product-information_mt.pdf)
 
-Nederlands (NL) (230.99 KB - PDF)
+Nederlands (NL) (235.1 KB - PDF)
 
 **First published:**
 
@@ -493,11 +491,11 @@ Nederlands (NL) (230.99 KB - PDF)
 
 **Last updated:**
 
-23/01/2025
+19/02/2026
 
 [View](/nl/documents/product-information/kigabeq-epar-product-information_nl.pdf)
 
-norsk (NO) (232.23 KB - PDF)
+norsk (NO) (248.67 KB - PDF)
 
 **First published:**
 
@@ -505,11 +503,11 @@ norsk (NO) (232.23 KB - PDF)
 
 **Last updated:**
 
-23/01/2025
+19/02/2026
 
 [View](/no/documents/product-information/kigabeq-epar-product-information_no.pdf)
 
-polski (PL) (377.24 KB - PDF)
+polski (PL) (382.46 KB - PDF)
 
 **First published:**
 
@@ -517,11 +515,11 @@ polski (PL) (377.24 KB - PDF)
 
 **Last updated:**
 
-23/01/2025
+19/02/2026
 
 [View](/pl/documents/product-information/kigabeq-epar-product-information_pl.pdf)
 
-português (PT) (224.57 KB - PDF)
+português (PT) (250.17 KB - PDF)
 
 **First published:**
 
@@ -529,11 +527,11 @@ português (PT) (224.57 KB - PDF)
 
 **Last updated:**
 
-23/01/2025
+19/02/2026
 
 [View](/pt/documents/product-information/kigabeq-epar-product-information_pt.pdf)
 
-română (RO) (342.74 KB - PDF)
+română (RO) (349.72 KB - PDF)
 
 **First published:**
 
@@ -541,11 +539,11 @@ română (RO) (342.74 KB - PDF)
 
 **Last updated:**
 
-23/01/2025
+19/02/2026
 
 [View](/ro/documents/product-information/kigabeq-epar-product-information_ro.pdf)
 
-slovenčina (SK) (335.66 KB - PDF)
+slovenčina (SK) (336.95 KB - PDF)
 
 **First published:**
 
@@ -553,11 +551,11 @@ slovenčina (SK) (335.66 KB - PDF)
 
 **Last updated:**
 
-23/01/2025
+19/02/2026
 
 [View](/sk/documents/product-information/kigabeq-epar-product-information_sk.pdf)
 
-slovenščina (SL) (303.02 KB - PDF)
+slovenščina (SL) (303.99 KB - PDF)
 
 **First published:**
 
@@ -565,11 +563,11 @@ slovenščina (SL) (303.02 KB - PDF)
 
 **Last updated:**
 
-23/01/2025
+19/02/2026
 
 [View](/sl/documents/product-information/kigabeq-epar-product-information_sl.pdf)
 
-Suomi (FI) (219.85 KB - PDF)
+Suomi (FI) (228.71 KB - PDF)
 
 **First published:**
 
@@ -577,11 +575,11 @@ Suomi (FI) (219.85 KB - PDF)
 
 **Last updated:**
 
-23/01/2025
+19/02/2026
 
 [View](/fi/documents/product-information/kigabeq-epar-product-information_fi.pdf)
 
-svenska (SV) (222.55 KB - PDF)
+svenska (SV) (231.46 KB - PDF)
 
 **First published:**
 
@@ -589,11 +587,11 @@ svenska (SV) (222.55 KB - PDF)
 
 **Last updated:**
 
-23/01/2025
+19/02/2026
 
 [View](/sv/documents/product-information/kigabeq-epar-product-information_sv.pdf)
 
-**Latest procedure affecting product information:** N/0015 16/01/2025
+**Latest procedure affecting product information:** N/0000327681 18/02/2026
 
 icon globe
 
@@ -617,7 +615,7 @@ English (EN) (21.28 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/kigabeq-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-559)
+[Other languages (24)](#file-language-dropdown-662)
 
 български (BG) (41.61 KB - PDF)
 
@@ -839,7 +837,7 @@ ORPHELIA Pharma
 
 85 Boulevard Saint-Michel
 
-Opinion adopted 28/06/2018 Marketing authorisation issued 20/09/2018 Revision 7
+Opinion adopted 28/06/2018 Marketing authorisation issued 20/09/2018 Revision 8
 
 ## Assessment history
 
@@ -851,13 +849,21 @@ Collapse section
 
 Kigabeq : EPAR - Procedural steps taken and scientific information after the authorisation
 
+English (EN) (142.9 KB - PDF)
+
+**First published:** 19/02/2026
+
+[View](/en/documents/procedural-steps-after/kigabeq-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf)
+
+Kigabeq : EPAR - Procedural steps taken and scientific information after the authorisation (archived)
+
 English (EN) (120.6 KB - PDF)
 
 **First published:** 14/02/2019
 
 **Last updated:** 23/01/2025
 
-[View](/en/documents/procedural-steps-after/kigabeq-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf)
+[View](/en/documents/procedural-steps-after/kigabeq-epar-procedural-steps-taken-scientific-information-after-authorisation-archived_en.pdf)
 
 ## Initial marketing authorisation documents
 
@@ -897,7 +903,7 @@ English (EN) (123.86 KB - PDF)
 
 - [Medicines](https://www.ema.europa.eu/en/search?f%5B0%5D=ema_search_topics%3A61)
 
-**This page was last updated on** 23/01/2025
+**This page was last updated on** 19/02/2026
 
 ## Share this page
 

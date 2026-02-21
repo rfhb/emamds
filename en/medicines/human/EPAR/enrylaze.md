@@ -1,20 +1,20 @@
 ---
-document_datetime: 2025-12-29 12:02:14
+document_datetime: 2026-02-19 13:40:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/enrylaze.html
 document_name: enrylaze.html
 version: success
-processing_time: 0.1016949
-conversion_datetime: 2025-12-29 23:22:13.837063
+processing_time: 0.7819584
+conversion_datetime: 2026-02-21 12:08:22.535244
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.66.0
-  docling-core: 2.57.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.13.0
+  docling-jobkit: 1.11.0
+  docling: 2.74.0
+  docling-core: 2.65.1
+  docling-ibm-models: 3.11.0
+  docling-parse: 5.3.2
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.3-arm64-arm-64bit-Mach-O
 ---
 # Enrylaze
 
@@ -25,8 +25,6 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 crisantaspase Medicine Human Authorised
-
-On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -111,7 +109,7 @@ English (EN) (108.47 KB - PDF)
 
 [View](/en/documents/overview/enrylaze-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-68)
+[Other languages (22)](#file-language-dropdown-172)
 
 български (BG) (120.39 KB - PDF)
 
@@ -301,207 +299,305 @@ English (EN) (82.42 KB - PDF)
 
 Enrylaze : EPAR - Product information
 
-English (EN) (365.06 KB - PDF)
+English (EN) (364.68 KB - PDF)
 
 **First published:** 05/10/2023
 
+**Last updated:** 19/02/2026
+
 [View](/en/documents/product-information/enrylaze-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-61)
+[Other languages (24)](#file-language-dropdown-678)
 
-български (BG) (428.49 KB - PDF)
+български (BG) (428.48 KB - PDF)
 
 **First published:**
 
 05/10/2023
+
+**Last updated:**
+
+19/02/2026
 
 [View](/bg/documents/product-information/enrylaze-epar-product-information_bg.pdf)
 
-español (ES) (370.56 KB - PDF)
+español (ES) (364.55 KB - PDF)
 
 **First published:**
 
 05/10/2023
+
+**Last updated:**
+
+19/02/2026
 
 [View](/es/documents/product-information/enrylaze-epar-product-information_es.pdf)
 
-čeština (CS) (403.05 KB - PDF)
+čeština (CS) (396.85 KB - PDF)
 
 **First published:**
 
 05/10/2023
+
+**Last updated:**
+
+19/02/2026
 
 [View](/cs/documents/product-information/enrylaze-epar-product-information_cs.pdf)
 
-dansk (DA) (355.6 KB - PDF)
+dansk (DA) (363.87 KB - PDF)
 
 **First published:**
 
 05/10/2023
+
+**Last updated:**
+
+19/02/2026
 
 [View](/da/documents/product-information/enrylaze-epar-product-information_da.pdf)
 
-Deutsch (DE) (253.93 KB - PDF)
+Deutsch (DE) (406.7 KB - PDF)
 
 **First published:**
 
 05/10/2023
+
+**Last updated:**
+
+19/02/2026
 
 [View](/de/documents/product-information/enrylaze-epar-product-information_de.pdf)
 
-eesti keel (ET) (387.18 KB - PDF)
+eesti keel (ET) (360.92 KB - PDF)
 
 **First published:**
 
 05/10/2023
+
+**Last updated:**
+
+19/02/2026
 
 [View](/et/documents/product-information/enrylaze-epar-product-information_et.pdf)
 
-ελληνικά (EL) (476.08 KB - PDF)
+ελληνικά (EL) (452.13 KB - PDF)
 
 **First published:**
 
 05/10/2023
+
+**Last updated:**
+
+19/02/2026
 
 [View](/el/documents/product-information/enrylaze-epar-product-information_el.pdf)
 
-français (FR) (380.9 KB - PDF)
+français (FR) (372.69 KB - PDF)
 
 **First published:**
 
 05/10/2023
+
+**Last updated:**
+
+19/02/2026
 
 [View](/fr/documents/product-information/enrylaze-epar-product-information_fr.pdf)
 
-hrvatski (HR) (401.47 KB - PDF)
+hrvatski (HR) (421.55 KB - PDF)
 
 **First published:**
 
 05/10/2023
+
+**Last updated:**
+
+19/02/2026
 
 [View](/hr/documents/product-information/enrylaze-epar-product-information_hr.pdf)
 
-íslenska (IS) (356.87 KB - PDF)
+íslenska (IS) (394.27 KB - PDF)
 
 **First published:**
 
 05/10/2023
+
+**Last updated:**
+
+19/02/2026
 
 [View](/is/documents/product-information/enrylaze-epar-product-information_is.pdf)
 
-italiano (IT) (393.28 KB - PDF)
+italiano (IT) (364.85 KB - PDF)
 
 **First published:**
 
 05/10/2023
+
+**Last updated:**
+
+19/02/2026
 
 [View](/it/documents/product-information/enrylaze-epar-product-information_it.pdf)
 
-latviešu valoda (LV) (421.22 KB - PDF)
+latviešu valoda (LV) (410.51 KB - PDF)
 
 **First published:**
 
 05/10/2023
+
+**Last updated:**
+
+19/02/2026
 
 [View](/lv/documents/product-information/enrylaze-epar-product-information_lv.pdf)
 
-lietuvių kalba (LT) (413.7 KB - PDF)
+lietuvių kalba (LT) (404.04 KB - PDF)
 
 **First published:**
 
 05/10/2023
+
+**Last updated:**
+
+19/02/2026
 
 [View](/lt/documents/product-information/enrylaze-epar-product-information_lt.pdf)
 
-magyar (HU) (339.44 KB - PDF)
+magyar (HU) (423 KB - PDF)
 
 **First published:**
 
 05/10/2023
+
+**Last updated:**
+
+19/02/2026
 
 [View](/hu/documents/product-information/enrylaze-epar-product-information_hu.pdf)
 
-Malti (MT) (439.51 KB - PDF)
+Malti (MT) (423.24 KB - PDF)
 
 **First published:**
 
 05/10/2023
+
+**Last updated:**
+
+19/02/2026
 
 [View](/mt/documents/product-information/enrylaze-epar-product-information_mt.pdf)
 
-Nederlands (NL) (376.97 KB - PDF)
+Nederlands (NL) (360.09 KB - PDF)
 
 **First published:**
 
 05/10/2023
+
+**Last updated:**
+
+19/02/2026
 
 [View](/nl/documents/product-information/enrylaze-epar-product-information_nl.pdf)
 
-norsk (NO) (377.51 KB - PDF)
+norsk (NO) (359.6 KB - PDF)
 
 **First published:**
 
 05/10/2023
+
+**Last updated:**
+
+19/02/2026
 
 [View](/no/documents/product-information/enrylaze-epar-product-information_no.pdf)
 
-polski (PL) (328.29 KB - PDF)
+polski (PL) (420.32 KB - PDF)
 
 **First published:**
 
 05/10/2023
+
+**Last updated:**
+
+19/02/2026
 
 [View](/pl/documents/product-information/enrylaze-epar-product-information_pl.pdf)
 
-português (PT) (246.37 KB - PDF)
+português (PT) (366.1 KB - PDF)
 
 **First published:**
 
 05/10/2023
+
+**Last updated:**
+
+19/02/2026
 
 [View](/pt/documents/product-information/enrylaze-epar-product-information_pt.pdf)
 
-română (RO) (427.28 KB - PDF)
+română (RO) (410.82 KB - PDF)
 
 **First published:**
 
 05/10/2023
+
+**Last updated:**
+
+19/02/2026
 
 [View](/ro/documents/product-information/enrylaze-epar-product-information_ro.pdf)
 
-slovenčina (SK) (442.86 KB - PDF)
+slovenčina (SK) (424.94 KB - PDF)
 
 **First published:**
 
 05/10/2023
+
+**Last updated:**
+
+19/02/2026
 
 [View](/sk/documents/product-information/enrylaze-epar-product-information_sk.pdf)
 
-slovenščina (SL) (437.19 KB - PDF)
+slovenščina (SL) (427.21 KB - PDF)
 
 **First published:**
 
 05/10/2023
+
+**Last updated:**
+
+19/02/2026
 
 [View](/sl/documents/product-information/enrylaze-epar-product-information_sl.pdf)
 
-Suomi (FI) (364.22 KB - PDF)
+Suomi (FI) (375.52 KB - PDF)
 
 **First published:**
 
 05/10/2023
+
+**Last updated:**
+
+19/02/2026
 
 [View](/fi/documents/product-information/enrylaze-epar-product-information_fi.pdf)
 
-svenska (SV) (392.7 KB - PDF)
+svenska (SV) (357.24 KB - PDF)
 
 **First published:**
 
 05/10/2023
 
+**Last updated:**
+
+19/02/2026
+
 [View](/sv/documents/product-information/enrylaze-epar-product-information_sv.pdf)
 
-15/09/2023
+**Latest procedure affecting product information:** VR/0000326972 16/02/2026
 
 icon globe
 
@@ -525,7 +621,7 @@ English (EN) (44.21 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/enrylaze-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-25)
+[Other languages (24)](#file-language-dropdown-689)
 
 български (BG) (128.08 KB - PDF)
 
@@ -745,9 +841,23 @@ Jazz Pharmaceuticals Ireland Limited
 
 Fifth Floor Waterloo Exchange
 
-Opinion adopted 20/07/2023 Marketing authorisation issued 15/09/2023
+Opinion adopted 20/07/2023 Marketing authorisation issued 15/09/2023 Revision 1
 
 ## Assessment history
+
+Expand section
+
+Collapse section
+
+## Changes since initial authorisation of medicine
+
+Enrylaze : EPAR - Procedural steps taken and scientific information after authorisation
+
+English (EN) (147.9 KB - PDF)
+
+**First published:** 18/02/2026
+
+[View](/en/documents/procedural-steps-after/enrylaze-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf)
 
 ## Initial marketing authorisation documents
 
@@ -779,7 +889,7 @@ English (EN) (116.41 KB - PDF)
 
 [Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 17-20 July 2023](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-17-20-july-2023) 21/07/2023
 
-**This page was last updated on** 05/10/2023
+**This page was last updated on** 19/02/2026
 
 ## Share this page
 
